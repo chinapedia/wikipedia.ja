@@ -33,7 +33,7 @@
   - [工藤静香](../Page/工藤静香.md "wikilink")
   - [野猿](../Page/野猿.md "wikilink")
   - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink")
   - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")
   - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")
   - [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")

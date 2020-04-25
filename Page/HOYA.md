@@ -174,7 +174,7 @@
 **2012年（平成24年）8月現在**
 
   - [めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
+  - [NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
 
 **過去** [提供クレジット](../Page/提供クレジット.md "wikilink")が「HOYAメガネ」表記となっているものは、いずれも旧社名・保谷硝子時代当時のものである。
 

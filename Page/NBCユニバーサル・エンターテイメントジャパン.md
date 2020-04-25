@@ -77,7 +77,7 @@
   - [やなぎなぎ](https://ja.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年 - )
   - [山崎はるか](https://ja.wikipedia.org/wiki/山崎はるか "wikilink") (2011年 - 2013年、2018年 - )
   - [Luce Twinkle Wink☆](https://ja.wikipedia.org/wiki/Luce_Twinkle_Wink☆ "wikilink") (2015年 - )
-  - [H-el-ical](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")（KalafinaのHikaru）（2020年 -）
+  - [H-el-ical//](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")（KalafinaのHikaru）（2020年 -）
 
 ### 過去の所属者
 

@@ -327,7 +327,7 @@ Aizu-railway-Kiha 8500.jpg|キハ8500系 Aizu Railway AT-700 series DMU 001.JPG|
 
 ## 外部リンク
 
-  - [車輌のご紹介](http://www.aizutetsudo.jp/co_trinfo.php) - 会津鉄道公式サイト
+  - [AIZUマウントエクスプレス](http://www.aizutetsudo.jp/trip/aizumountexpress/) - 会津鉄道公式サイト
 
 [Category:列車愛称_あ](https://ja.wikipedia.org/wiki/Category:列車愛称_あ "wikilink") [Category:会津鉄道](https://ja.wikipedia.org/wiki/Category:会津鉄道 "wikilink") [Category:東日本旅客鉄道の列車](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の列車 "wikilink") [Category:磐越西線](https://ja.wikipedia.org/wiki/Category:磐越西線 "wikilink") [Category:野岩鉄道](https://ja.wikipedia.org/wiki/Category:野岩鉄道 "wikilink") [Category:東武鉄道の列車](https://ja.wikipedia.org/wiki/Category:東武鉄道の列車 "wikilink")
 

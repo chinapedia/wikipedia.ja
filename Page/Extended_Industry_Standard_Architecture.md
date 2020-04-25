@@ -53,4 +53,4 @@ EISAは[ISAを縦方向に拡張し](../Page/Industry_Standard_Architecture.md "
 
   - [EISA bus technical summary](http://www.techfest.com/hardware/bus/eisa.htm)
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

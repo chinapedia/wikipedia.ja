@@ -670,7 +670,7 @@ M-12「400円の一人旅」</p></td>
   - 金之玉手箱（1997年8月13日 深夜、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - M-STAGE（1997年8月19日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - POP FILE（1997年10月31日、[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
-  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（1998年1月26日、2000年2月14日、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（1998年1月26日、2000年2月14日、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - 音楽の箱（1998年2月25日・3月4日・3月11日 深夜、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - FACTORY（1998年8月19日・11月25日、2003年2月25日・3月4日・10月22日、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [JAPAN COUNT DOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")（1998年12月5日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）

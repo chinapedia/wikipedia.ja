@@ -144,6 +144,7 @@
 
 ## 提供番組（全て過去）
 
+  - 愛ラブ・リビング（日本テレビ）
   - [美味しんぼ](../Page/美味しんぼ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [クイズ どんなMONだい?\!](../Page/クイズ_どんなMONだい?!.md "wikilink")（日本テレビ）
   - [JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")・平日の隔日）※1980年代に[日本生命と共にナショナルスポンサー](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")。
@@ -159,6 +160,7 @@
   - [宮本工業所 (富山市)](https://ja.wikipedia.org/wiki/宮本工業所_\(富山市\) "wikilink")
   - [森村グループ](../Page/森村グループ.md "wikilink") - かつて所属した陶業を主軸とした企業集団
   - [佐賀LIXIL FC](../Page/佐賀LIXIL_FC.md "wikilink")（旧称・九州INAXサッカー部）
+  - [幼児用便器](https://ja.wikipedia.org/wiki/幼児用便器 "wikilink")
 
 ## 外部リンク
 

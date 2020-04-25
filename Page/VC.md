@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - 商標など
-      - [近鉄1220系・1230系電車](../Page/近鉄1220系電車.md "wikilink")（[大阪線仕様](https://ja.wikipedia.org/wiki/近鉄大阪線 "wikilink")）の電算記号
+      - [近鉄1220系・1230系電車](../Page/近鉄1220系電車.md "wikilink")（[大阪線仕様](../Page/近鉄大阪線.md "wikilink")）の電算記号
       - [Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink")
       - [バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink") （） - [任天堂](../Page/任天堂.md "wikilink")発売のゲーム機[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")で一定の金額を払い過去のゲームソフトを（Wii、Wii U、3DS上で）プレイ出来るオンラインサービス
       - [バーチャコップ](../Page/バーチャコップ.md "wikilink") （）（[セガの](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")[ガンシューティングゲーム](../Page/ガンシューティングゲーム.md "wikilink")）

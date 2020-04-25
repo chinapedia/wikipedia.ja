@@ -60,7 +60,7 @@
 
 ## 機能
 
-[Carboxyglutamic_acid.png](https://ja.wikipedia.org/wiki/File:Carboxyglutamic_acid.png "fig:Carboxyglutamic_acid.png") ビタミンKは[ガンマグルタミルカルボキシラーゼ](https://ja.wikipedia.org/wiki/ガンマグルタミルカルボキシラーゼ "wikilink")（別名ビタミンK依存的カルボキラーゼ）の[補因子](../Page/補因子.md "wikilink")である。この酵素は[Glaタンパク質](https://ja.wikipedia.org/wiki/Glaタンパク質 "wikilink")と総称される一連のビタミンK依存性タンパク質の[翻訳後修飾](../Page/翻訳後修飾.md "wikilink")（カルボキシル化）に関わっており、その働きでGlaタンパク質の特定の位置にγ-カルボキシグルタミン酸(Gla)残基が生じ機能性が獲得される。Glaは[グルタミン酸](../Page/グルタミン酸.md "wikilink")の4位の炭素がカルボキシル化され、1つの炭素原子に2つのカルボキシル基が結合した構造をしている。これにより[カルシウム](../Page/カルシウム.md "wikilink")イオンを[キレート](../Page/キレート.md "wikilink")することができ、実際Glaタンパク質はカルシウムイオンの結合により活性化するものが多い\[9\]。
+[Carboxyglutamic_acid.png](https://ja.wikipedia.org/wiki/File:Carboxyglutamic_acid.png "fig:Carboxyglutamic_acid.png") ビタミンKは[ガンマグルタミルカルボキシラーゼ](https://ja.wikipedia.org/wiki/ガンマグルタミルカルボキシラーゼ "wikilink")（別名ビタミンK依存的カルボキラーゼ）の[補因子](../Page/補因子.md "wikilink")である。この酵素は[Glaタンパク質](https://ja.wikipedia.org/wiki/Glaタンパク質 "wikilink")と総称される一連のビタミンK依存性タンパク質の[翻訳後修飾](../Page/翻訳後修飾.md "wikilink")（カルボキシル化）に関わっており、その働きでGlaタンパク質の特定の位置に[γ-カルボキシグルタミン酸](https://ja.wikipedia.org/wiki/γ-カルボキシグルタミン酸 "wikilink")(Gla)残基が生じ機能性が獲得される。Glaは[グルタミン酸](../Page/グルタミン酸.md "wikilink")の4位の炭素がカルボキシル化され、1つの炭素原子に2つのカルボキシル基が結合した構造をしている。これにより[カルシウム](../Page/カルシウム.md "wikilink")イオンを[キレート](../Page/キレート.md "wikilink")することができ、実際Glaタンパク質はカルシウムイオンの結合により活性化するものが多い\[9\]。
 
 それ以外に、食事から摂取したビタミンKは生体内でMK-4に転換し\[10\]\[11\]、[核内受容体](../Page/核内受容体.md "wikilink")（[SXR/PXR](https://ja.wikipedia.org/wiki/w:Pregnane_X_receptor "wikilink")）と結合しコラーゲン産生に関与していることが知られる\[12\]。
 

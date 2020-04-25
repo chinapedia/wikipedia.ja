@@ -410,7 +410,7 @@ PIC32MZシリーズの特長:\[4\]
   - [PICkit 3 プログラマ/ デバッガ ユーザガイド](http://www.microchip.co.jp/download/dl_download.php/ID=251116475b138428d44de24d7e58263ce64d5b7e/)
   - [電子工作の実験室](http://www.picfun.com/)
 
-[Category:制御工学](https://ja.wikipedia.org/wiki/Category:制御工学 "wikilink") [Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:ロボット工学](https://ja.wikipedia.org/wiki/Category:ロボット工学 "wikilink")
+[Category:制御工学](https://ja.wikipedia.org/wiki/Category:制御工学 "wikilink") [Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:ロボット工学](https://ja.wikipedia.org/wiki/Category:ロボット工学 "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink")
 
 1.  [1](http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=2018&mcparam=en013529)
 2.

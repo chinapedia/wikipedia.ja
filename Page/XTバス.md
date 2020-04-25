@@ -104,4 +104,4 @@ XTバスを更に16ビットに追加拡張したATバス（[ISA](../Page/Indust
 
 [en:XT bus architecture](https://ja.wikipedia.org/wiki/en:XT_bus_architecture "wikilink")
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

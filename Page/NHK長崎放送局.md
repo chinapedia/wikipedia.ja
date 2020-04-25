@@ -262,7 +262,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>寺田美穂</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/寺田美穂" title="wikilink">寺田美穂</a></p></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td></td>
 </tr>
@@ -272,8 +272,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ながさきナビゲーター_ヒルミテ" title="wikilink">ながさきナビゲーター ヒルミテ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>西牟田知佳</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西牟田知佳" title="wikilink">西牟田知佳</a></p></td>
+<td><p>|</p></td>
 <td></td>
 </tr>
 <tr class="even">

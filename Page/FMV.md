@@ -47,7 +47,7 @@
 
 ### グローバルブランドへ
 
-法人向けデスクトップは2005年4月発売モデルより、同社のグローバルブランド「ESPRIMO（エスプリモ）」を導入し「FMV-ESPRIMO」とした。2010年4月発売モデルからは法人向けノートブックモデルと共に「FMV」が取れ、デスクトップモデルは「ESPRIMO」、ノートブックモデルは「LIFEBOOK」となった。
+[Fujitsu_Lifebook_WA1M_Custom_made_models.jpg](https://ja.wikipedia.org/wiki/File:Fujitsu_Lifebook_WA1M_Custom_made_models.jpg "fig:Fujitsu_Lifebook_WA1M_Custom_made_models.jpg") 法人向けデスクトップは2005年4月発売モデルより、同社のグローバルブランド「ESPRIMO（エスプリモ）」を導入し「FMV-ESPRIMO」とした。2010年4月発売モデルからは法人向けノートブックモデルと共に「FMV」が取れ、デスクトップモデルは「ESPRIMO」、ノートブックモデルは「LIFEBOOK」となった。
 
 また、個人向けモデルについても2010年夏モデルからデスクトップPCの「FMV-DESKPOWER」は「（FMV-）ESPRIMO」に、ノートブックPCの「FMV-BIBLO」は「（FMV-）LIFEBOOK」にそれぞれ改め、シリーズ名称が刷新された（「らくらくパソコン」は名称変更なし）。
 

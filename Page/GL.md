@@ -20,8 +20,9 @@
       - [グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
       - [グラールス州](../Page/グラールス州.md "wikilink")（）の[スイス州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")
       - [五大湖](../Page/五大湖.md "wikilink")（）
+  - 規格
+      - [OpenGL](../Page/OpenGL.md "wikilink")（） - リアルタイム[3DCG用](../Page/3次元コンピュータグラフィックス.md "wikilink")[APIのオープン規格](../Page/アプリケーションプログラミングインタフェース.md "wikilink")
   - 商品名
-      - [OpenGL](../Page/OpenGL.md "wikilink")（） - 3D[グラフィック](../Page/グラフィック.md "wikilink")のプログラムインタフェース
       - [ホンダ・GL](https://ja.wikipedia.org/wiki/ホンダ・GL "wikilink") - [本田技研工業](../Page/本田技研工業.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink") GL400・GL500
       - [ホンダ・ゴールドウイング](../Page/ホンダ・ゴールドウイング.md "wikilink") - [本田技研工業](../Page/本田技研工業.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink") GL1000・GL1100・GL1200・GL1500・GL1800
       - [メルセデス・ベンツ・GLクラス](../Page/メルセデス・ベンツ・GLクラス.md "wikilink")

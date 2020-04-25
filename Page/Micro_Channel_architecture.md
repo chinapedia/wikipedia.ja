@@ -81,4 +81,4 @@ IBMの[PS/2](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")（日本では[P
   - [Accelerated Graphics Port](../Page/Accelerated_Graphics_Port.md "wikilink") (AGP)
   - [PCI Express](../Page/PCI_Express.md "wikilink")
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

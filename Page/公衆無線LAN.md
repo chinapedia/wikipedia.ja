@@ -21,9 +21,9 @@
 
 アメリカ国外でも、2000年過ぎごろから公衆無線LAN接続の実証実験が始まり、その数年後からサービスが開始されている。例えば、日本では2002年中にNTTグループやソフトバンクによって無線接続サービスの提供が始まった\[5\]。
 
-無料の公衆無線LANの整備はイギリス、ブラジル、ロシア、日本などではオリンピックやFIFAワールドカップの開催を契機に進展した\[6\]。また、香港や台湾では主に外国人観光客への配慮のために無料の公衆無線LANの整備が進められた\[7\]。
+無料の公衆無線LANはイギリス、ブラジル、ロシアなどではオリンピックやFIFAワールドカップの開催\[6\]、日本では[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の[喫茶店](../Page/喫茶店.md "wikilink")「東洋」\[7\]、[代官山](https://ja.wikipedia.org/wiki/代官山 "wikilink")の喫茶店「CAFE FOGLIO」\[8\]などの無料サービスを契機に発展した。また、香港や台湾では主に外国人観光客への配慮のために無料の公衆無線LANの整備が進められた\[9\]。
 
-有料・無料を問わず、公衆無線LANアクセスポイントの数は増加し続けている。2006年には、全米300以上の都市で無線インターネット接続が可能となった\[8\]。
+有料・無料を問わず、公衆無線LANアクセスポイントの数は増加し続けている。2006年には、全米300以上の都市で無線インターネット接続が可能となった\[10\]。
 
 ## 各国の整備状況
 
@@ -37,13 +37,13 @@
 
 電気通信事業者が自ら設置する形態の他に、施設管理者との提携により設置される場合もある。提携による設置の場合は、同じアクセスポイントを有料・無料で兼用している場合がある。アクセスポイントを設置した施設に対し、アクセスポイントを共用する形で、無料の公衆無線LANサービスを提供する事が可能になり、これにより無料のアクセスポイントも拡大した。更に、日本においては移動体キャリアの1社であるソフトバンクモバイルが、個人客を中心とした自社の顧客に宅内でのトラフィックのオフロードを目的に、[FON](../Page/FON.md "wikilink")無線ルータを無償提供し、顧客宅をFONのアクセスポイントとした事で、住宅地域にも無料のアクセスポイントが拡大している。
 
-一方、無料で提供される場合、飲食店や鉄道などの利用者へのサービスとして提供するもの、\[9\]、FON専用無線ルータの設置者間でのアクセスポイントの相互開放によるものがある。
+一方、無料で提供される場合、飲食店や鉄道などの利用者へのサービスとして提供するもの、\[11\]、FON専用無線ルータの設置者間でのアクセスポイントの相互開放によるものがある。
 
 無料の場合であっても、専用のWi-Fi無線ルーターの購入設置と他の会員への開放が条件であったり、登録[メールアドレス](../Page/メールアドレス.md "wikilink")宛に広告が送られてくるなど、利用者に幾分かの負担が生じる場合がある。またこれら以外に、会場などで一時的に利用できる形態もある。
 
 現在では、有料とされる事業者でも、実質無料又は非常に低廉であり、無料との境界がなくなりつつある。
 
-なお、日本においては、電気通信事業者と利用契約が必要な無線LANサービスが多いため、外国人旅行者から「契約をしていない外国人旅行者は公衆無線LANが使用できない」との声が多く寄せられ\[10\]、2020年の[東京オリンピック開催を控え](https://ja.wikipedia.org/wiki/2020年夏季オリンピック "wikilink")、
+なお、日本においては、電気通信事業者と利用契約が必要な無線LANサービスが多いため、外国人旅行者から「契約をしていない外国人旅行者は公衆無線LANが使用できない」との声が多く寄せられ\[12\]、2020年の[東京オリンピック開催を控え](https://ja.wikipedia.org/wiki/2020年夏季オリンピック "wikilink")、
 
 #### 有料のサービス
 
@@ -52,7 +52,7 @@
       - [フレッツ・スポット](https://ja.wikipedia.org/wiki/フレッツ#フレッツ・スポット "wikilink")（・[NTT西日本](../Page/西日本電信電話.md "wikilink")・[NTT BP](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ・ブロードバンドプラットフォーム "wikilink")） - 。
       - [OCNホットスポット](https://ja.wikipedia.org/wiki/ホットスポット_\(NTT\) "wikilink")（[NTT Com](../Page/NTTコミュニケーションズ.md "wikilink")、NTT BP） - [2013年](../Page/2013年.md "wikilink")7月末提供終了。BBモバイルポイントへのローミングのみ。
   - **移動体キャリア（旧第1種電気通信事業者）の例**
-      - [ソフトバンクWi-Fiスポット](https://ja.wikipedia.org/wiki/ソフトバンクWi-Fiスポット "wikilink")（ソフトバンク）\[11\]
+      - [ソフトバンクWi-Fiスポット](https://ja.wikipedia.org/wiki/ソフトバンクWi-Fiスポット "wikilink")（ソフトバンク）\[13\]
       - [au Wi-Fi SPOT](https://ja.wikipedia.org/wiki/au_Wi-Fi_SPOT "wikilink")（[KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")、[ワイヤ・アンド・ワイヤレス](https://ja.wikipedia.org/wiki/ワイヤ・アンド・ワイヤレス "wikilink")）
       - [docomo Wi-Fi](https://ja.wikipedia.org/wiki/docomo_Wi-Fi "wikilink")（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、NTT BP）
       - [UQ Wi-Fi](http://www.uqwimax.jp/service/price/option01.html)（[UQコミュニケーションズ](https://ja.wikipedia.org/wiki/UQコミュニケーションズ "wikilink")）
@@ -88,8 +88,8 @@
       - [FreeMobile](https://ja.wikipedia.org/wiki/FreeMobile "wikilink") - 自動販売機に設置した[Wi-Fi](../Page/Wi-Fi.md "wikilink")スポット。自動販売機の販売・貸出しをする[タケショウ](https://ja.wikipedia.org/wiki/タケショウ "wikilink")が運営しており、自販機飲料の販売促進を目的としている。
       - [Wi-Fine](https://ja.wikipedia.org/wiki/Wi-Fine "wikilink") - 他の公衆無線LANとは異なり、インターネット接続を行わない。アクセスポイントが置かれた場所の情報提供（チラシ等）を行っている。
       - [wiffy](https://wiffy.me/) - 店舗向け。個人経営の店舗に対しても、オリジナルのホットスポットを提供可能とするサービス。メールアドレス登録方式やSNS認証方式（Facebook、[Twitter](../Page/Twitter.md "wikilink")、[Google+](https://ja.wikipedia.org/wiki/Google+ "wikilink")[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")、[Weibo](https://ja.wikipedia.org/wiki/新浪微博 "wikilink")、[LINE](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")、[Kakao](https://ja.wikipedia.org/wiki/カカオトーク "wikilink")、[VK](https://ja.wikipedia.org/wiki/VK_\(SNS\) "wikilink")、[LinkedIn](https://ja.wikipedia.org/wiki/LinkedIn "wikilink")）だけでなく、ログイン回数制限やセッション時間制限、通信帯域制御もWeb管理インターフェースから自由に設定可能。
-      - NiigataCity Free Wi-Fi - [新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")が独自に提供しているサービス。年中24時間使える。利用可能エリアは新潟市中心街や[NEXT21と](../Page/NEXT21_\(新潟市\).md "wikilink")[新潟交通](../Page/新潟交通.md "wikilink")の[BRT](https://ja.wikipedia.org/wiki/BRT "wikilink")車両内。利用するには初回にSNSアカウントかメールアドレスを登録する必要がある。登録すると1年間有効で利用可能時間は60分。回数無制限。一部サイトへの[フィルタリング](https://ja.wikipedia.org/wiki/フィルタリング "wikilink")あり\[12\]。新潟市側は不特定多数の利用を想定していて[WPAや](../Page/Wi-Fi_Protected_Access.md "wikilink")[WEPなどの暗号化処理されていない](../Page/Wired_Equivalent_Privacy.md "wikilink")。その為必要に応じては[VPN](https://ja.wikipedia.org/wiki/VPN "wikilink")や他の有料Wi-Fiサービスの使用を推奨している。地震等の非常時は回数無制限ではあるが1人1回15分までと定められている。通信インフラはNTTブロードバンドプラットフォームが提供している。
-      - n-WatingRoom - こちらも新潟市が独自に提供しているサービス。旧新潟市役所そばのバス用の待合室に設置されている。新潟市側は待合室での利用を想定しているので利用可能時間やエリアは待合室に限られる。\[13\]回数無制限。フィルタリング無し。こちらは無料ではあるが待合室に貼られている[SSID](https://ja.wikipedia.org/wiki/SSID "wikilink")と[パスワード](../Page/パスワード.md "wikilink")が必要でWPA/WPA2と[PSK](https://ja.wikipedia.org/wiki/PSK "wikilink")で暗号化処理されている。通信インフラは不明。
+      - NiigataCity Free Wi-Fi - [新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")が独自に提供しているサービス。年中24時間使える。利用可能エリアは新潟市中心街や[NEXT21と](../Page/NEXT21_\(新潟市\).md "wikilink")[新潟交通](../Page/新潟交通.md "wikilink")の[BRT](https://ja.wikipedia.org/wiki/BRT "wikilink")車両内。利用するには初回にSNSアカウントかメールアドレスを登録する必要がある。登録すると1年間有効で利用可能時間は60分。回数無制限。一部サイトへの[フィルタリング](https://ja.wikipedia.org/wiki/フィルタリング "wikilink")あり\[14\]。新潟市側は不特定多数の利用を想定していて[WPAや](../Page/Wi-Fi_Protected_Access.md "wikilink")[WEPなどの暗号化処理されていない](../Page/Wired_Equivalent_Privacy.md "wikilink")。その為必要に応じては[VPN](https://ja.wikipedia.org/wiki/VPN "wikilink")や他の有料Wi-Fiサービスの使用を推奨している。地震等の非常時は回数無制限ではあるが1人1回15分までと定められている。通信インフラはNTTブロードバンドプラットフォームが提供している。
+      - n-WatingRoom - こちらも新潟市が独自に提供しているサービス。旧新潟市役所そばのバス用の待合室に設置されている。新潟市側は待合室での利用を想定しているので利用可能時間やエリアは待合室に限られる。\[15\]回数無制限。フィルタリング無し。こちらは無料ではあるが待合室に貼られている[SSID](https://ja.wikipedia.org/wiki/SSID "wikilink")と[パスワード](../Page/パスワード.md "wikilink")が必要でWPA/WPA2と[PSK](https://ja.wikipedia.org/wiki/PSK "wikilink")で暗号化処理されている。通信インフラは不明。
   - **設置者の相互コミュニティによるもの**
       - [FON](../Page/FON.md "wikilink") - 自宅や店舗・事務所などのインターネット回線にFON無線ルーターを購入設置登録すると、一つのIDが設置者に提供され全世界の同様のFONルーター購入設置者のスポットが無料で利用できる（過去には、ソフトバンクモバイルのフラット型パケット定額サービスの契約者に対しては、ソフトバンクモバイルがFON無線ルーターを無償提供していた。2016年現在は、SoftBankブランド利用者に対し、分割払いを利用した「実質無料」での提供はあるが、完全なる無償配布はない）。2013年7月現在、全世界で1200万スポットに迫る。
   - **臨時サービス**
@@ -97,27 +97,27 @@
 
 ### アメリカ
 
-「iPass Growth Map」によると、2015年2月現在の米国における公衆無線LANのホットスポット数は、コミュニティWi-Fiが3107万8609か所、商用Wi-Fiが104万9151か所である\[14\]。
+「iPass Growth Map」によると、2015年2月現在の米国における公衆無線LANのホットスポット数は、コミュニティWi-Fiが3107万8609か所、商用Wi-Fiが104万9151か所である\[16\]。
 
-米国の代表的な公衆無線LANの専業事業者として[iPASSとBoingoがある](https://ja.wikipedia.org/wiki/iPASS#公衆無線LAN\(ホットスポット\) "wikilink")\[15\]。
+米国の代表的な公衆無線LANの専業事業者として[iPASSとBoingoがある](https://ja.wikipedia.org/wiki/iPASS#公衆無線LAN\(ホットスポット\) "wikilink")\[17\]。
 
 ### イギリス
 
-イギリスの通信規制機関Ofcomの報告書「2014年インフラストラクチャ・レポート（Infrastructure Report 2014）」10によると、英国の公衆無線LANホットスポット（public Wi-Fi hotspots）数は2014年6月には4万1798か所となっている（大手通信事業者以外の事業者、BT FONサービス11、公共交通機関提供のものを除く）\[16\]。
+イギリスの通信規制機関Ofcomの報告書「2014年インフラストラクチャ・レポート（Infrastructure Report 2014）」10によると、英国の公衆無線LANホットスポット（public Wi-Fi hotspots）数は2014年6月には4万1798か所となっている（大手通信事業者以外の事業者、BT FONサービス11、公共交通機関提供のものを除く）\[18\]。
 
 ### ブラジル
 
-ブラジルでは2015年1月現在、公衆無線LANアクセスポイントが58万6098か所あり、有料モデルが734か所、無料モデルが3903か所、無料・有料モデルの混合が58万1461か所となっている\[17\]。
+ブラジルでは2015年1月現在、公衆無線LANアクセスポイントが58万6098か所あり、有料モデルが734か所、無料モデルが3903か所、無料・有料モデルの混合が58万1461か所となっている\[19\]。
 
 ## 技術
 
 ### セキュリティ
 
   - 802.1x認証、WPA-EAP
-    2013年12月現在、日本の公衆無線LANで[802.1x認証](../Page/IEEE_802.1X.md "wikilink")、[WPA/WPA2-EAPに対応しているものは少数であるが](../Page/Extensible_Authentication_Protocol.md "wikilink")、[au Wi-Fi SPOT](https://ja.wikipedia.org/wiki/au_Wi-Fi_SPOT "wikilink")（SSID：au_Wi-Fi2）、[docomo Wi-Fi](https://ja.wikipedia.org/wiki/docomo_Wi-Fi "wikilink")（SSID：0001docomoおよびdocomoの一部）、[ソフトバンクWi-Fiスポット](https://ja.wikipedia.org/wiki/ソフトバンクWi-Fiスポット "wikilink")（SSID：0002softbank）といった移動体キャリアによるサービスでは対応が広がっている。しかし、端末を問わず利用できるのはdocomo Wi-Fiのみであり\[18\]、au Wi-Fi SPOTおよびソフトバンクWi-Fiスポットでは自キャリアの携帯電話端末による[UIMカード](../Page/UIMカード.md "wikilink")の情報を用いた認証（EAP-SIM/AKA）のみである。
+    2013年12月現在、日本の公衆無線LANで[802.1x認証](../Page/IEEE_802.1X.md "wikilink")、[WPA/WPA2-EAPに対応しているものは少数であるが](../Page/Extensible_Authentication_Protocol.md "wikilink")、[au Wi-Fi SPOT](https://ja.wikipedia.org/wiki/au_Wi-Fi_SPOT "wikilink")（SSID：au_Wi-Fi2）、[docomo Wi-Fi](https://ja.wikipedia.org/wiki/docomo_Wi-Fi "wikilink")（SSID：0001docomoおよびdocomoの一部）、[ソフトバンクWi-Fiスポット](https://ja.wikipedia.org/wiki/ソフトバンクWi-Fiスポット "wikilink")（SSID：0002softbank）といった移動体キャリアによるサービスでは対応が広がっている。しかし、端末を問わず利用できるのはdocomo Wi-Fiのみであり\[20\]、au Wi-Fi SPOTおよびソフトバンクWi-Fiスポットでは自キャリアの携帯電話端末による[UIMカード](../Page/UIMカード.md "wikilink")の情報を用いた認証（EAP-SIM/AKA）のみである。
 
   - 暗号化方式
-    [WPA/WPA2-PSKで](https://ja.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPAパーソナルモード "wikilink")[TKIPもしくは](https://ja.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol "wikilink")[CCMPによる暗号化が提供されているものが多い](https://ja.wikipedia.org/wiki/Counter_mode_with_Cipher-block_chaining_Message_authentication_code_Protocol "wikilink")。しかし、無料サービスのものや一時的に設置されるものでは暗号化をしていない場合が多く、有料サービスでも脆弱性が指摘されている[WEPのみを採用している場合や](../Page/Wired_Equivalent_Privacy.md "wikilink")\[19\]、暗号化されていない場合もある\[20\]。
+    [WPA/WPA2-PSKで](https://ja.wikipedia.org/wiki/Wi-Fi_Protected_Access#WPAパーソナルモード "wikilink")[TKIPもしくは](https://ja.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol "wikilink")[CCMPによる暗号化が提供されているものが多い](https://ja.wikipedia.org/wiki/Counter_mode_with_Cipher-block_chaining_Message_authentication_code_Protocol "wikilink")。しかし、無料サービスのものや一時的に設置されるものでは暗号化をしていない場合が多く、有料サービスでも脆弱性が指摘されている[WEPのみを採用している場合や](../Page/Wired_Equivalent_Privacy.md "wikilink")\[21\]、暗号化されていない場合もある\[22\]。
 
   - Captive portal
 
@@ -147,6 +147,7 @@ Wi-Fi接続確立後の初回アクセス時、あるいは一定接続時間ご
 
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")
   - [無線LAN](../Page/無線LAN.md "wikilink")
+  - [無料](../Page/無料.md "wikilink")
   - [インターネット](../Page/インターネット.md "wikilink")
 
 ## 外部リンク
@@ -190,16 +191,18 @@ Wi-Fi接続確立後の初回アクセス時、あるいは一定接続時間ご
 5.  [1](http://bb.watch.impress.co.jp/cda/special/16691.html)
 6.
 7.
-8.  [December 2006 update of wireless cities and counties](http://www.muniwireless.com/2007/01/02/december-2006-update-of-wireless-cities-and-counties/)
-9.  広告料という間接収入であっても、他人の通信の対価とみなされるため、電気通信事業に該当する。
-10. [観光庁・公衆無線LANの整備状況について](http://www.mlit.go.jp/common/000987046.pdf)
-11. かつてSSIDに**FON**を使用していた時期があり、偽FONと呼ばれる事もあった。
-12. ログインしないままこのWi-Fiに接続するとWi-Fi自体は動き[niconico](https://ja.wikipedia.org/wiki/niconico "wikilink")や[ツイキャス](https://ja.wikipedia.org/wiki/ツイキャス "wikilink")等のアプリはプッシュ通知が来るが[Twitter](../Page/Twitter.md "wikilink")や[Gmail](../Page/Gmail.md "wikilink")、[LINE等が通信エラーを起こして送受信が出来なくなる](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")。
-13. 待合室が遠隔操作による自動閉鎖がされる毎日午前1時から翌朝5時までと待合室での長時間の利用はバス待ちではないとみなされ市の巡回職員による注意指導の対象となる。
-14.
-15.
+8.
+9.
+10. [December 2006 update of wireless cities and counties](http://www.muniwireless.com/2007/01/02/december-2006-update-of-wireless-cities-and-counties/)
+11. 広告料という間接収入であっても、他人の通信の対価とみなされるため、電気通信事業に該当する。
+12. [観光庁・公衆無線LANの整備状況について](http://www.mlit.go.jp/common/000987046.pdf)
+13. かつてSSIDに**FON**を使用していた時期があり、偽FONと呼ばれる事もあった。
+14. ログインしないままこのWi-Fiに接続するとWi-Fi自体は動き[niconico](https://ja.wikipedia.org/wiki/niconico "wikilink")や[ツイキャス](https://ja.wikipedia.org/wiki/ツイキャス "wikilink")等のアプリはプッシュ通知が来るが[Twitter](../Page/Twitter.md "wikilink")や[Gmail](../Page/Gmail.md "wikilink")、[LINE等が通信エラーを起こして送受信が出来なくなる](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")。
+15. 待合室が遠隔操作による自動閉鎖がされる毎日午前1時から翌朝5時までと待合室での長時間の利用はバス待ちではないとみなされ市の巡回職員による注意指導の対象となる。
 16.
 17.
-18. EAP-SIM/AKAだけでなくPEAP-MSCHAPv2やTTLS-PAPによる認証が可能。
-19. NTT東日本の[フレッツ・スポットやソフトバンクテレコムの](https://ja.wikipedia.org/wiki/フレッツ#フレッツ・スポット "wikilink")[BBモバイルポイント](https://ja.wikipedia.org/wiki/BBモバイルポイント "wikilink")など。
-20. ソフトバンクモバイルの[ソフトバンクWi-Fiスポット](https://ja.wikipedia.org/wiki/ソフトバンクWi-Fiスポット "wikilink")（SSID：0001softbank）など。
+18.
+19.
+20. EAP-SIM/AKAだけでなくPEAP-MSCHAPv2やTTLS-PAPによる認証が可能。
+21. NTT東日本の[フレッツ・スポットやソフトバンクテレコムの](https://ja.wikipedia.org/wiki/フレッツ#フレッツ・スポット "wikilink")[BBモバイルポイント](https://ja.wikipedia.org/wiki/BBモバイルポイント "wikilink")など。
+22. ソフトバンクモバイルの[ソフトバンクWi-Fiスポット](https://ja.wikipedia.org/wiki/ソフトバンクWi-Fiスポット "wikilink")（SSID：0001softbank）など。

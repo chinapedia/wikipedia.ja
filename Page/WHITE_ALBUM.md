@@ -281,35 +281,47 @@ Leaf伊丹（現：大阪）開発室による作品。
 
   - 劇中歌
 
-:; 「[ガラスの華](https://ja.wikipedia.org/wiki/SOUND_OF_DESTINY "wikilink")」（第1話、第3話、第12話）
+:; 「ガラスの華」（第1話、第3話、第12話）
 
 :: 作詞 - 有里泉美 / 作曲・編曲 - 藤間仁（Elements Garden） / 歌 - 緒方理奈（水樹奈々）
 
-:; 「[WHITE ALBUM](https://ja.wikipedia.org/wiki/WHITE_ALBUM_\(平野綾の曲\) "wikilink")」（第6話、第8話、第10話、第16話、第17話、第24話）
+:; 「WHITE ALBUM」（第6話、第8話、第10話、第16話、第17話、第24話）
 
 :: 作詞 - 須谷尚子 / 作曲 - 石川真也 / 編曲 - 石川真也、松岡純也 / 歌 - 森川由綺（[平野綾](../Page/平野綾.md "wikilink")）
 
-:; 「[SOUND OF DESTINY](https://ja.wikipedia.org/wiki/SOUND_OF_DESTINY "wikilink")」（第11話、第14話、第16話、第17話）
+:; 「[ツイてるねノッてるね](../Page/ツイてるねノッてるね.md "wikilink")」（第9話）
+
+:: 作詞 - [松本隆](../Page/松本隆.md "wikilink") / 作曲 - [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink") / Basic Arr. - [大村雅朗](../Page/大村雅朗.md "wikilink") / Add. Arr. - [船山基紀](../Page/船山基紀.md "wikilink") / 歌 - [中山美穂](../Page/中山美穂.md "wikilink")
+
+:; 「SOUND OF DESTINY」（第11話、第14話、第16話、第17話）
 
 :: 作詞 - 須谷尚子 / 作曲 - 中上和英 / 編曲 - 中上和英、松岡純也 / 歌 - 緒方理奈（水樹奈々）
 
-:; 「[WHITE ALBUM（Live Ver.）](https://ja.wikipedia.org/wiki/WHITE_ALBUM_Character_Song_Best_&_Sound_Track "wikilink")」（第13話）
+:; 「[WAKU WAKUさせて](../Page/WAKU_WAKUさせて.md "wikilink")」（第11話）
+
+:: 作詞 - 松本隆 / 作曲 - 筒美京平 / 編曲 - 船山基紀 / 歌 - 中山美穂
+
+:; 「[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」（第12話）
+
+:: 作詞・作曲・編曲 - [角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink") / St. Arr. - [大谷和夫](../Page/大谷和夫.md "wikilink") / Brass Arr. - [数原晋](../Page/数原晋.md "wikilink") / 歌 - 中山美穂
+
+:; 「WHITE ALBUM（Live Ver.）」（第13話）
 
 :: 作詞 - 須谷尚子 / 作曲 - 石川真也 / 編曲 - 藤田淳平（Elements Garden） / 歌 - 森川由綺（平野綾）
 
-:; 「[シークレットカオス](https://ja.wikipedia.org/wiki/WHITE_ALBUM_Character_Song_Best_&_Sound_Track "wikilink")」（第19話、第22話、第24話）
+:; 「シークレットカオス」（第19話、第22話、第24話）
 
 :: 作詞 - 有里泉美 / 作曲・編曲 - 藤田淳平（Elements Garden） / 歌 - 松山めのう（[宍戸留美](../Page/宍戸留美.md "wikilink")）
 
-:; 「[恋色空](https://ja.wikipedia.org/wiki/恋色空 "wikilink")」（第23話、第24話）
+:; 「恋色空」（第23話、第24話）
 
 :: 作詞 - Bee' / 作曲・編曲 - 藤間仁（Elements Garden） / 歌 - 森川由綺（平野綾）
 
-:; 「[POWDER SNOW（Live Ver.）](https://ja.wikipedia.org/wiki/WHITE_ALBUM_Character_Song_Best_&_Sound_Track "wikilink")」（第26話）
+:; 「POWDER SNOW（Live Ver.）」（第26話）
 
 :: 作詞 - 須谷尚子 / 作曲 - [下川直哉](../Page/下川直哉.md "wikilink")、藤間仁（Elements Garden） / 編曲 - 藤田淳平（Elements Garden） / 歌 - 森川由綺（平野綾）、緒方理奈（水樹奈々）
 
-:; 「[POWDER SNOW（YUKI & RINA Ver.）](https://ja.wikipedia.org/wiki/WHITE_ALBUM_Character_Song_Best_&_Sound_Track "wikilink")」（第26話）
+:; 「POWDER SNOW（YUKI & RINA Ver.）」（第26話）
 
   -
 

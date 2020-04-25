@@ -19,7 +19,7 @@
 
 2015年9月28日からは編成上の音声がステレオに変更された。しかし当初はスタジオ音声はBGMや効果音も含めてモノラル音源の状態だったが、2017年10月2日からフルステレオ放送になった。
 
-2017年10月2日からJNNのニュースサイトは、『TBS NEWS』ブランドに統一され、『JNN NEWS』の新しいロゴが登場したが、JNN公式ロゴは存続し、JNN公式ロゴはリニューアル前のものを引き続き使用している。
+2017年10月2日からJNNのニュースサイトは、『TBS NEWS』ブランドに統一され、『JNN NEWS』の新しいロゴが登場したが、JNN公式ロゴは存続し、JNN公式ロゴはリニューアル前のものを引き続き使用している\[1\]。このリニューアルに合わせて朝・昼の定時枠とNスタ・news23では右下にJNN公式ロゴの透かしが入るようになった。
 
 ## 現在の放送時間
 
@@ -45,21 +45,23 @@
   - 土曜日 11:45 - 11:59（※一部地域では、番組末尾のローカルニュース枠の拡大又は縮小を行っているため、11:58や12:00など、終了時刻が異なる。）
   - 日曜日 11:30 - 11:45
 
-[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施。平日は『 [ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")・午前』内にて、週末は完全な独立番組として放送。なお、土曜日はTBSほか一部地域において『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』の一時中断番組として放送\[1\]。また、他地域でも自社制作[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の一時中断番組として放送している系列局がある。
+[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施。平日は『 [ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")・午前』内にて、週末は完全な独立番組として放送。なお、土曜日はTBSほか一部地域において『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』の一時中断番組として放送\[2\]。また、他地域でも自社制作[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の一時中断番組として放送している系列局がある。
 
 土曜日・日曜日はオープニングがあるが、平日はヘッドラインを伝えた後にオープニングCGを表示してから本編に入る。
 
 放送中に『[NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』・『[世界遺産](../Page/世界遺産_\(テレビ番組\).md "wikilink")』・『Nスタ』（TBSのみ）・『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』の[番組宣伝](../Page/番組宣伝.md "wikilink")がそれぞれ入る。また、TBSとローカル枠の差し替えを行わない一部系列局では、2018年9月末まで土曜版の最終項目で『[時事放談](../Page/時事放談.md "wikilink")』に関するニュースを扱っていた 。
 
-2016年10月29日土曜日放送分から、土曜日には気象予報士による全国天気のコーナーが設けられるようになり、そのあとにローカルニュースという構成になった\[2\]。日曜日はこれまで同様、天気コーナーはない。
+2016年10月29日土曜日放送分から、土曜日には気象予報士による全国天気のコーナーが設けられるようになり、そのあとにローカルニュースという構成になった\[3\]。日曜日はこれまで同様、天気コーナーはない。
 
 平日の地デジEPGでの番組の名称は、以下のように系列局によって異なる。
 
-  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[3\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
-  - 「ひるおび\!JNN NEWS」 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
+  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[4\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
+  - 「ひるおび\!JNN NEWS」 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - 「ひるおび\!（JNN NEWS）」 - [テレビユー福島](../Page/テレビユー福島.md "wikilink")
-  - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[4\]、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
+  - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[5\]、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
       - なお、「JNN NEWS」として放送している局では、ニュース枠のエンディングは、北海道放送の様にエンドタイトルを流さない局や琉球放送のようにエンドタイトルを流す局に分かれる。
+
+日曜版は1985年4月以来、35年（『THE NEWS』時代を含む）の長期に渡って11:30 - 11:40枠だったが、2020年4月より5分拡大して11:45までの放送となった。ただし拡大分の11:40 - 11:45枠は実質的には[ガイド枠であるため](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、番組自体は拡大しない。
 
 ### スポットニュース
 
@@ -69,9 +71,9 @@
 
   - 平日 9:40頃（2015年3月30日 - ）
 
-『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』内で「最新ニュースラック\!」として放送。かつては報道フロアから放送していたが、『[ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")』以降はスタジオの進行アナウンサーがキャスターを兼ねるようになったため生放送のスタジオから報じている。2010年10月1日までは本編に内包されていたが、同年10月4日より2014年3月28日の「はなまる」終了まで、本編のエンディングを早め、ニュースは独立して放送する形に改められた（コーナーオープニングでは画面右上に「はなまるニュース」アイコンを、エンディングでは画面右下に「製作著作 TBS+JNNシンボルマーク"ジーン"」を各々表示。放送終了後の9:52から始まり、9:55ちょうどに終了していた。なお、「ビビット」内の『JNN NEWS』の項目フォーマットは、独自のもの\[5\] を使用していたが、2017年10月2日から『JNN NEWS』の項目フォーマットのものに統一された。
+『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』内で「最新ニュースラック\!」として放送。かつては報道フロアから放送していたが、『[ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")』以降はスタジオの進行アナウンサーがキャスターを兼ねるようになったため生放送のスタジオから報じている。2010年10月1日までは本編に内包されていたが、同年10月4日より2014年3月28日の「はなまる」終了まで、本編のエンディングを早め、ニュースは独立して放送する形に改められた（コーナーオープニングでは画面右上に「はなまるニュース」アイコンを、エンディングでは画面右下に「製作著作 TBS+JNNシンボルマーク"ジーン"」を各々表示。放送終了後の9:52から始まり、9:55ちょうどに終了していた。なお、「ビビット」内の『JNN NEWS』の項目フォーマットは、独自のもの\[6\] を使用していたが、2017年10月2日から『JNN NEWS』の項目フォーマットのものに統一された。
 
-『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』放送時代の[2009年](../Page/2009年.md "wikilink")3月27日までは番組の非ネット局がある関係で[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")の規則上、「JNN NEWS」として扱われておらず\[6\]、「はなまるニュース」として放送されていた。『THE NEWS』がスタートした2009年3月30日からは最後まで非ネットだった[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")と[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")でのネットを開始したことにより、JNN協定が適用され、JNN NEWSとして放送されるようになった。
+『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』放送時代の[2009年](../Page/2009年.md "wikilink")3月27日までは番組の非ネット局がある関係で[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")の規則上、「JNN NEWS」として扱われておらず\[7\]、「はなまるニュース」として放送されていた。『THE NEWS』がスタートした2009年3月30日からは最後まで非ネットだった[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")と[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")でのネットを開始したことにより、JNN協定が適用され、JNN NEWSとして放送されるようになった。
 
   - 午後
 
@@ -81,9 +83,9 @@
 
 『ひるおび\!・午後』に内包、臨時特番編成時は休止の場合あり。この時間のニュースでは「JNN」の透かしロゴは入らない。
 
-  - 平日 14時台終盤（不定時\[7\]、2015年秋 - ）
+  - 平日 14時台終盤（不定時\[8\]、2015年秋 - ）
 
-『[ゴゴスマ -GO GO\!Smile\!-](https://ja.wikipedia.org/wiki/ゴゴスマ_-GO_GO!Smile!- "wikilink")』（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）内で放送。TBS報道フロアから3〜4項目を報じた後、報じたニュースを基に[名古屋](../Page/名古屋市.md "wikilink")・CBCスタジオとクロストークが行われる\[8\]。この番組はCBC、TBSほか一部地域での放送のため、「JNN NEWS」として扱われておらず、「東京から最新のニュース」として放送しているが、項目フォーマットはJNN NEWSのものを使用（CBCスタジオとのクロストーク時のみ独自のものを使用）している。『ゴゴスマ』休止時には放送そのものが無い。
+『[ゴゴスマ -GO GO\!Smile\!-](https://ja.wikipedia.org/wiki/ゴゴスマ_-GO_GO!Smile!- "wikilink")』（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）内で放送。TBS報道フロアから3〜4項目を報じた後、報じたニュースを基に[名古屋](../Page/名古屋市.md "wikilink")・CBCスタジオとクロストークが行われる\[9\]。この番組はCBC、TBSほか一部地域での放送のため、「JNN NEWS」として扱われておらず、「東京から最新のニュース」として放送しているが、項目フォーマットはJNN NEWSのものを使用（CBCスタジオとのクロストーク時のみ独自のものを使用）している。『ゴゴスマ』休止時には放送そのものが無い。
 
   - 夜
 
@@ -91,7 +93,7 @@
 
   - 土曜日 23:12頃
 
-『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/新・情報7DAYS_ニュースキャスター "wikilink")\[9\]』内で放送。同番組メインキャスターの[安住紳一郎](../Page/安住紳一郎.md "wikilink")（[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")）が2〜3項目を報じる。この時間帯のニュースは前身番組の『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』時代から放送されている。項目フォーマットは独自のものを使用している。
+『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/新・情報7DAYS_ニュースキャスター "wikilink")\[10\]』内で放送。同番組メインキャスターの[安住紳一郎](../Page/安住紳一郎.md "wikilink")（[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")）が2〜3項目を報じる。この時間帯のニュースは前身番組の『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』時代から放送されている。項目フォーマットは独自のものを使用している。
 
   - 深夜
 
@@ -100,7 +102,7 @@
   - 日曜日 0:50頃 - 0:55頃（土曜深夜最終版）
   - 月曜日 0:43頃 - 0:50（日曜深夜最終版）
 
-スポーツニュース番組『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』内で放送 \[10\]。
+スポーツニュース番組『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』内で放送 \[11\]。
 
 ## 担当キャスター
 
@@ -495,10 +497,15 @@
 </tr>
 <tr class="odd">
 <td><p>2019.10.14</p></td>
-<td><p>現在</p></td>
+<td><p>2020.3.29</p></td>
 <td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a></p></td>
 </tr>
 <tr class="even">
+<td><p>2020.3.30</p></td>
+<td><p>現在</p></td>
+<td><p><a href="../Page/斎藤哲也.md" title="wikilink">斎藤哲也</a></p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>土曜日は2002年4月から2017年3月までは<a href="https://ja.wikipedia.org/wiki/TBSテレビ系列朝の情報番組枠" title="wikilink">朝の情報番組のサブキャスター</a>、2019年7月からはメインキャスターを兼務。</li>
 <li><sup>1</sup> 担当当時はTBSアナウンサーであったが、気象予報士として出演。</li>
@@ -519,8 +526,7 @@
 <tr class="header">
 <th><p>期間</p></th>
 <th><p>平日</p></th>
-<th><p>土曜日</p></th>
-<th><p>日曜日</p></th>
+<th><p>週末</p></th>
 </tr>
 </thead>
 <tbody>
@@ -528,162 +534,135 @@
 <td><p>キャスター・男性</p></td>
 <td><p>キャスター・女性</p></td>
 <td><p>天気</p></td>
-<td><p>キャスター</p></td>
 </tr>
 <tr class="even">
 <td><p>月・火</p></td>
 <td><p>水</p></td>
 <td><p>木・金</p></td>
-<td><p>月 - 水</p></td>
 </tr>
 <tr class="odd">
 <td><p>（不明）</p></td>
 <td><p>1992.4.5</p></td>
 <td><p><a href="../Page/五味陸仁.md" title="wikilink">五味陸仁</a><sup>1</sup></p></td>
-<td><p>（不在）</p></td>
 </tr>
 <tr class="even">
 <td><p>1992.4.6</p></td>
 <td><p>1997.3.30</p></td>
 <td><p>（<a href="../Page/JNNニュース1130.md" title="wikilink">放送なし</a>）</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1997.3.31</p></td>
 <td><p>2000.4.9</p></td>
 <td><p><a href="../Page/吉川美代子.md" title="wikilink">吉川美代子</a><sup>3・4</sup></p></td>
-<td><p>吉川美代子<sup>3・4</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2000.4.10</p></td>
 <td><p>2001.4.1</p></td>
 <td><p><a href="../Page/岡田泰典.md" title="wikilink">岡田泰典</a><sup>5</sup></p></td>
-<td><p><a href="../Page/長峰由紀.md" title="wikilink">長峰由紀</a><sup>5・6</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2001.4.2</p></td>
 <td><p>2003.3.30</p></td>
 <td><p><a href="../Page/福留功男.md" title="wikilink">福留功男</a><sup>6</sup></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2003.3.31</p></td>
 <td><p>2004.3.28</p></td>
 <td><p><a href="../Page/柴田秀一.md" title="wikilink">柴田秀一</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2004.3.29</p></td>
 <td><p>2005.3.27</p></td>
 <td><p>（<a href="../Page/ニュースフロント.md" title="wikilink">放送なし</a>）</p></td>
-<td><p>長峰由紀<sup>3・4</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2005.3.28</p></td>
 <td><p>2006.10.1</p></td>
 <td><p><a href="../Page/伊藤隆太.md" title="wikilink">伊藤隆太</a><sup>7</sup></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長岡杏子" title="wikilink">長岡杏子</a><sup>6・8</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006.10.2</p></td>
 <td><p>2008.3.30</p></td>
 <td><p><a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a></p></td>
-<td><p>伊藤隆太<sup>3</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2008.3.31</p></td>
 <td><p>2008.9.28</p></td>
 <td><p>森朗</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/増田雅昭" title="wikilink">増田雅昭</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008.9.29</p></td>
 <td><p>2009.3.29</p></td>
 <td><p>伊藤隆太</p></td>
-<td><p><a href="../Page/向井政生.md" title="wikilink">向井政生</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009.3.30</p></td>
 <td><p>2010.3.28</p></td>
 <td><p>（<a href="https://ja.wikipedia.org/wiki/THE_NEWS_(TBS・JNN)" title="wikilink">放送なし</a>）</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2010.3.29</p></td>
 <td><p>2011.3.27</p></td>
 <td><p>伊藤隆太</p></td>
-<td><p>長岡杏子<sup>8</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2011.3.28</p></td>
 <td><p>2011.10.2</p></td>
 <td><p><a href="../Page/蓮見孝之.md" title="wikilink">蓮見孝之</a><sup>3</sup></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011.10.3</p></td>
 <td><p>2012.3.18</p></td>
 <td><p><a href="../Page/佐古忠彦.md" title="wikilink">佐古忠彦</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2012.3.19</p></td>
 <td><p>2013.3.31</p></td>
 <td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a><sup>3</sup></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2013.4.1</p></td>
 <td><p>2014.3.30</p></td>
 <td><p>佐藤大介</p></td>
-<td><p>森朗</p></td>
 </tr>
 <tr class="even">
 <td><p>2014.3.31</p></td>
 <td><p>2014.6.29</p></td>
 <td><p>長岡杏子</p></td>
-<td><p><a href="../Page/高畑百合子.md" title="wikilink">高畑百合子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014.6.30</p></td>
 <td><p>2014.10.5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡村仁美" title="wikilink">岡村仁美</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2014.10.6</p></td>
 <td><p>2014.12.28</p></td>
 <td><p>駒田健吾</p></td>
-<td><p>伊藤隆太</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014.12.29</p></td>
 <td><p>2015.3.29</p></td>
 <td><p>増田雅昭</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2015.3.30</p></td>
 <td><p>2016.3.27</p></td>
 <td><p>増田雅昭</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河津真人" title="wikilink">河津真人</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016.3.28</p></td>
 <td><p>2016.10.23</p></td>
 <td><p>蓮見孝之</p></td>
-<td><p>伊藤隆太</p></td>
 </tr>
 <tr class="even">
 <td><p>2016.10.24</p></td>
 <td><p>2017.4.1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/片山美紀" title="wikilink">片山美紀</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017.4.2</p></td>
 <td><p>2017.8.20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮崎由衣子" title="wikilink">宮崎由衣子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小林由未子" title="wikilink">小林由未子</a><sup>9</sup><br />
 <a href="https://ja.wikipedia.org/wiki/林みなほ" title="wikilink">林みなほ</a><sup>9</sup></p></td>
 </tr>
@@ -691,57 +670,53 @@
 <td><p>2017.8.21</p></td>
 <td><p>2017.10.1</p></td>
 <td><p>片山美紀</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017.10.2</p></td>
 <td><p>2018.9.30</p></td>
 <td><p>蓮見孝之</p></td>
-<td><p>伊藤隆太</p></td>
 </tr>
 <tr class="even">
 <td><p>2018.10.1</p></td>
 <td><p>2019.3.31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/出水麻衣" title="wikilink">出水麻衣</a></p></td>
-<td><p>山本恵里伽</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019.4.1</p></td>
 <td><p>2019.6.2</p></td>
 <td><p>増田雅昭</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久保井朝美" title="wikilink">久保井朝美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019.6.3</p></td>
 <td><p>2019.6.30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田村真子" title="wikilink">田村真子</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019.7.1</p></td>
 <td><p>2019.9.1</p></td>
 <td><p>達淳一</p></td>
-<td><p>岡村仁美<sup>10</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2019.9.2</p></td>
 <td><p>2019.10.6</p></td>
 <td><p>（シフト勤務）<sup>11</sup></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019.10.7</p></td>
 <td><p>2019.10.20</p></td>
 <td><p>長岡杏子</p></td>
-<td><p>宇賀神メグ<sup>3</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>2019.10.21</p></td>
-<td><p>現在</p></td>
+<td><p>2020.3.29</p></td>
 <td><p>赤荻歩<sup>3</sup></p></td>
-<td></td>
 </tr>
 <tr class="odd">
+<td><p>2020.3.30</p></td>
+<td><p>現在</p></td>
+<td><p>森朗</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li><a href="../Page/スポットニュース.md" title="wikilink">スポットニュース</a>との兼務は注記を省略。</li>
 <li><sup>1</sup> 『<a href="../Page/JNNニュース1130.md" title="wikilink">JNNニュース1130</a>』も続投。</li>
@@ -756,7 +731,6 @@
 <li><sup>10</sup> 産休のため途中降板。</li>
 <li><sup>11</sup> 伊藤隆太（7日）、長岡（14日）、小林由未子（21・28日）、田村（10月5日）が担当した。</li>
 </ul></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1028,11 +1002,11 @@
       - 山内直樹のモールス電子音の場合はタイトル映像が静止画となる。バックはニュース映像。
   - 1995年10月 - 1998年3月29日 作曲：不明（[シンセサイザー](../Page/シンセサイザー.md "wikilink")を使った曲）、山内直樹の曲（15秒バージョン）も年末年始等を中心に1996年まで使用。
   - 1998年3月30日 - 2009年3月29日(なお、オープニングロゴアニメーションはHD非対応のため、16:9を見ると両端が切れていた。)
-      - 定時 作曲：不明（[鉄琴](https://ja.wikipedia.org/wiki/鉄琴 "wikilink")が特徴的な音楽）\[11\]
+      - 定時 作曲：不明（[鉄琴](https://ja.wikipedia.org/wiki/鉄琴 "wikilink")が特徴的な音楽）\[12\]
       - 年末年始 作曲：不明（ピアノが特徴的な音楽、20秒版）
       - 2002年4月から2009年3月までの土曜朝は『サタデーずばッと』開始に伴い別バージョンを使用。2006年4月を境に2バージョンあった。
   - 2010年3月29日 - 2012年3月25日 作曲：[石坂慶彦](https://ja.wikipedia.org/wiki/石坂慶彦 "wikilink")（[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")の音が印象的な曲）
-  - 2012年3月26日 - 2017年10月1日 作曲：[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")・編曲：[田尻光隆](https://ja.wikipedia.org/wiki/田尻光隆 "wikilink")「SPLASH\!\! JNNニュース バージョン」\[12\]
+  - 2012年3月26日 - 2017年10月1日 作曲：[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")・編曲：[田尻光隆](https://ja.wikipedia.org/wiki/田尻光隆 "wikilink")「SPLASH\!\! JNNニュース バージョン」\[13\]
       - ヴァイオリンの音が印象的な曲であり、2012年3月26日から2013年3月31日まで使われていた『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』テーマ曲のアレンジ版でもある。
   - 2017年10月2日 - 現在 作曲：
       - 電子音を基調としたシンプルな曲である。
@@ -1045,7 +1019,7 @@
   - 2007年4月2日 - 2009年3月29日 ： 水色を基調にしたデザイン。左下に「JNN」ロゴ、右下に「JAPAN NEWS NETWORK」と表記されている。
   - 2010年3月29日 - 2012年3月25日 ： 緑を基調としたデザイン。テロップの座布団部分には「JNN」のロゴマークが大きく記されている。2010年9月27日に黄緑の枠で縁取ったものにマイナーチェンジ。
   - 2012年3月26日 - 2017年10月1日 ： 水色を基調としたデザイン。[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")テロップの色違い。2013年4月1日に橙色を基調としたデザインマイナーチェンジ。
-  - 2017年10月2日 - 現在：TBSの動画ニュースサイト『TBS NEWS』と統一を図るため、白・灰色を基調としたシンプルなものになっている。青はアニメーション効果と出演者の名前表記に使われる程度に留まる。
+  - 2017年10月2日 - 現在：TBSの動画ニュースサイト『TBS NEWS』と統一を図るため、白・灰色を基調としたシンプルなものになっている。青はアニメーション効果と出演者の名前表記に使われる程度に留まる。2020年4月1日にマイナーチェンジが行われ、青が濃い目になっている。
 
 ### VTRに使用されるテロップ
 
@@ -1055,7 +1029,8 @@
   - 2007年4月2日 - 2009年3月29日：[ニューロダン](https://ja.wikipedia.org/wiki/ニューロダン "wikilink")、[スーラ](../Page/スーラ_\(書体\).md "wikilink") （[フォントワークス](../Page/フォントワークス.md "wikilink")製）
   - 2010年3月29日 - 2013年3月31日：ロダンNTLG ※「Nスタ」と共用
   - 2013年4月1日 - 2017年10月1日：ニューロダン
-  - 2017年10月2日 - 現在：TBUDゴシック（タイプバンク製）
+  - 2017年10月2日 - 2020年3月31日：TBUDゴシック（タイプバンク製）
+  - 2020年4月1日 - : AXISフォント（タイププロジェクト製）
 
 ## その他
 
@@ -1071,8 +1046,8 @@
   - 1975年3月30日までは、一部の系列局はタイトルを差し替えていたが1975年3月31日の[腸捻転解消以降は](../Page/ネットチェンジ.md "wikilink")、原則として全局統一となった。
   - 一時期、TBSテレビ（旧:東京放送）・[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[中国放送](../Page/中国放送.md "wikilink")などでは、オープニング時に、局ロゴが表示されていた。
   - 土日の朝・深夜の放送で一部の系列局は関東ローカルニュース枠をそのまま放送するが日曜深夜に関しては地元で地方議会・首長選挙投開票日にあたる場合は開票速報として差し替える場合もある。
-  - 第2期の最末期週末深夜ニュース内の全国天気で流れていたBGMは、「[ヘイ・ジュード](../Page/ヘイ・ジュード.md "wikilink")」であった\[13\]。なお、この曲は、2010年4月から開始された[BS-TBS](../Page/BS-TBS.md "wikilink")の『[NEWS サンデー・スコープ](https://ja.wikipedia.org/wiki/NEWS_サンデー・スコープ "wikilink")』内の天気予報で使用されている。
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")では、日曜深夜は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄[時差ネット](../Page/遅れネット.md "wikilink")\[14\]、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")より[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")\[15\]となっている。
+  - 第2期の最末期週末深夜ニュース内の全国天気で流れていたBGMは、「[ヘイ・ジュード](../Page/ヘイ・ジュード.md "wikilink")」であった\[14\]。なお、この曲は、2010年4月から開始された[BS-TBS](../Page/BS-TBS.md "wikilink")の『[NEWS サンデー・スコープ](https://ja.wikipedia.org/wiki/NEWS_サンデー・スコープ "wikilink")』内の天気予報で使用されている。
+  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")では、日曜深夜は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄[時差ネット](../Page/遅れネット.md "wikilink")\[15\]、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")より[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")\[16\]となっている。
 
 ## 脚注・出典
 
@@ -1094,18 +1069,19 @@
 
 [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:1959年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1959年のテレビ番組_\(日本\) "wikilink") [Category:JNN番組](https://ja.wikipedia.org/wiki/Category:JNN番組 "wikilink") [Category:TBSのミニ番組](https://ja.wikipedia.org/wiki/Category:TBSのミニ番組 "wikilink") [Category:TBSの番組の企画](https://ja.wikipedia.org/wiki/Category:TBSの番組の企画 "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink")
 
-1.  ただし、TBS公式サイトの番組表では『王様のブランチ』に[フロート扱いされている](../Page/フロート番組.md "wikilink")。2015年8月15日は通常放送であったが、後半に戦没者追悼式典を放送するも、『王様のブランチ・第2部』内で同パートのネット局および同パート非ネット局のうちのごく一部でのみ継続放送となり、12時10分頃までその続きを放送した（『ブランチ・第2部』開始の11時59分にテロップで「王様のブランチの時間ですが継続します」と表示された）。
-2.  『王様のブランチ』で放送されていたWEATHER BRUNCHから移行。そのため『王様のブランチ・第1部』のWEATHER BRUNCHは廃止された。
-3.  2012年3月30日でネットを打ち切り、10月より3曜日だけ復帰。2013年3月25日より、全曜日復帰
-4.  HBCでは各種新聞のテレビ欄でも別番組扱いとなっている。
-5.  はなまるマーケット内の「はなまるニュース」は、(単独枠で放送の)JNN NEWSのフォーマットを使用。
-6.  協定により「JNN」の名称が入っているニュース番組は加盟する全ての放送局で同時ネットする必要がある。
-7.  14:50頃に放送されることが多い（2018年10月現在）。
-8.  2018年以降は行わない日が多くなっている。
-9.  2014年3月まで『情報7days ニュースキャスター』
-10. 東日本大震災発生前の2011年3月7日（6日深夜）までは、エンディングでのテーマ曲が流れていた
-11. このオープニング曲は[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")の『[埼玉経済情報](https://ja.wikipedia.org/wiki/埼玉経済情報 "wikilink")』のテーマとして2003年3月まで使われたことがある。エンディングでかかる曲は、[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")『[おばんですいわて](../Page/おばんですいわて.md "wikilink")』で2009年3月までの気象情報（オープニングテーマでも使用）でかかった曲と同じである。
-12. [羽岡佳 最新情報](http://blog.livedoor.jp/keihaneoka/archives/51816338.html) 2012年3月26日更新TBSテレビ『JNNニュース』」より。
-13. 2009年10月3日放送、NHK-BS2の「BS20周年 ベストセレクション」から。
-14. [『NBCワイド劇場』をネットしていた関係で](../Page/土曜ワイド劇場.md "wikilink")
-15. 『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』は[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局）に移行（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送分から）。[長崎新聞](../Page/長崎新聞.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")、[4月7日](../Page/4月7日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。
+1.  このロゴは2020年4月1日にマイナーチェンジが行われ、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の新ブランドロゴに合わせたものに替えられた（「J」の終わりの部分が66.6°の斜め上に切られている）。
+2.  ただし、TBS公式サイトの番組表では『王様のブランチ』に[フロート扱いされている](../Page/フロート番組.md "wikilink")。2015年8月15日は通常放送であったが、後半に戦没者追悼式典を放送するも、『王様のブランチ・第2部』内で同パートのネット局および同パート非ネット局のうちのごく一部でのみ継続放送となり、12時10分頃までその続きを放送した（『ブランチ・第2部』開始の11時59分にテロップで「王様のブランチの時間ですが継続します」と表示された）。
+3.  『王様のブランチ』で放送されていたWEATHER BRUNCHから移行。そのため『王様のブランチ・第1部』のWEATHER BRUNCHは廃止された。
+4.  2012年3月30日でネットを打ち切り、10月より3曜日だけ復帰。2013年3月25日より、全曜日復帰
+5.  HBCでは各種新聞のテレビ欄でも別番組扱いとなっている。
+6.  はなまるマーケット内の「はなまるニュース」は、(単独枠で放送の)JNN NEWSのフォーマットを使用。
+7.  協定により「JNN」の名称が入っているニュース番組は加盟する全ての放送局で同時ネットする必要がある。
+8.  14:50頃に放送されることが多い（2018年10月現在）。
+9.  2018年以降は行わない日が多くなっている。
+10. 2014年3月まで『情報7days ニュースキャスター』
+11. 東日本大震災発生前の2011年3月7日（6日深夜）までは、エンディングでのテーマ曲が流れていた
+12. このオープニング曲は[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")の『[埼玉経済情報](https://ja.wikipedia.org/wiki/埼玉経済情報 "wikilink")』のテーマとして2003年3月まで使われたことがある。エンディングでかかる曲は、[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")『[おばんですいわて](../Page/おばんですいわて.md "wikilink")』で2009年3月までの気象情報（オープニングテーマでも使用）でかかった曲と同じである。
+13. [羽岡佳 最新情報](http://blog.livedoor.jp/keihaneoka/archives/51816338.html) 2012年3月26日更新TBSテレビ『JNNニュース』」より。
+14. 2009年10月3日放送、NHK-BS2の「BS20周年 ベストセレクション」から。
+15. [『NBCワイド劇場』をネットしていた関係で](../Page/土曜ワイド劇場.md "wikilink")
+16. 『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』は[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局）に移行（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送分から）。[長崎新聞](../Page/長崎新聞.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")、[4月7日](../Page/4月7日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。

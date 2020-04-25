@@ -282,7 +282,7 @@ NHKは基本的に[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wik
 1.  [海外放送はじまる　NHK名作選（動画・静止画）　NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060033_00000)
 2.  出典・[ラジオの製作](../Page/ラジオの製作.md "wikilink")1992年6月号
 3.  2011年3月11日の東日本大震災発生からしばらくの間はラジオ第1放送の同時放送を含めて終日、日本語放送を同時配信していたこともあった。
-4.  [日本放送協会の中継国際放送に関する協定の廃止の認可及び日本放送協会所属の中継国際放送を行う基幹放送局の廃止の認可](http://www.soumu.go.jp/menu_news/s-news/01ryutsu11_02000016.html) 総務省報道資料 平成24年6月13日
-5.  [日本放送協会の中継国際放送に関する協定の廃止の認可](http://warp.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/menu_news/s-news/2006/060913_4.html) 同上 平成18年9月13日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")アーカイブ）
-6.  [日本放送協会の中継国際放送に関する協定の廃止及び変更の認可](http://warp.ndl.go.jp/info:ndljp/pid/283520/www.soumu.go.jp/s-news/2007/070613_2.html) 同上 平成19年6月13日（同上アーカイブ）
+4.  [日本放送協会の中継国際放送に関する協定の廃止の認可及び日本放送協会所属の中継国際放送を行う基幹放送局の廃止の認可](https://www.soumu.go.jp/menu_news/s-news/01ryutsu11_02000016.html) 総務省報道資料 平成24年6月13日
+5.  [日本放送協会の中継国際放送に関する協定の廃止の認可](https://warp.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/menu_news/s-news/2006/060913_4.html) 同上 平成18年9月13日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")アーカイブ）
+6.  [日本放送協会の中継国際放送に関する協定の廃止及び変更の認可](https://warp.ndl.go.jp/info:ndljp/pid/283520/www.soumu.go.jp/s-news/2007/070613_2.html) 同上 平成19年6月13日（同上アーカイブ）
 7.  この当時、0時の英語ニュースはオープニング直後のヘッドラインを差し換えて、2時のそれは時報の直前に当たる1:58頃にそれぞれ当日の担当アンカーから、ヘッドラインを日本語で説明してから英語ニュースとしていた

@@ -116,15 +116,15 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/泉浩司.md" title="wikilink">泉浩司</a></p></td>
-<td><p><a href="../Page/NHK甲府放送局.md" title="wikilink">甲府</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ほっとぐんま640" title="wikilink">ほっとぐんま640</a><br />
+<td><p><a href="../Page/原口雅臣.md" title="wikilink">原口雅臣</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ほっとぐんま630" title="wikilink">ほっとぐんま630</a><br />
 （キャスター）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吉田一之.md" title="wikilink">吉田一之</a></p></td>
 <td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
-<td><p>ほっとぐんま640<br />
+<td><p>ほっとぐんま630<br />
 <a href="https://ja.wikipedia.org/wiki/ひるまえほっと" title="wikilink">ひるまえほっと</a></p></td>
 </tr>
 <tr class="even">
@@ -135,7 +135,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <tr class="odd">
 <td><p>落合慶子</p></td>
 <td></td>
-<td><p>ほっとぐんま640<br />
+<td><p>ほっとぐんま630<br />
 ひるまえほっと</p></td>
 </tr>
 <tr class="even">
@@ -171,7 +171,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <tr class="even">
 <td><p>新村美里</p></td>
 <td></td>
-<td><p>ほっとぐんま640</p></td>
+<td><p>ほっとぐんま630</p></td>
 </tr>
 </tbody>
 </table>

@@ -108,16 +108,16 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/礒野佑子.md" title="wikilink">礒野佑子</a></p></td>
+<td><p><a href="../Page/橋本奈穂子.md" title="wikilink">橋本奈穂子</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/とちぎ640" title="wikilink">とちぎ640</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/とちぎ630" title="wikilink">とちぎ630</a><br />
 （キャスター）<br />
 とちスペ</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤成史" title="wikilink">加藤成史</a></p></td>
 <td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
-<td><p>とちぎ640<br />
+<td><p>とちぎ630<br />
 （キャスター）</p></td>
 </tr>
 <tr class="even">

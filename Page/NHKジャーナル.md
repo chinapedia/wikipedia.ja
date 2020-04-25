@@ -67,8 +67,8 @@
 
 <!-- end list -->
 
-  - 山田康弘（2017年4月3日 - 2020年3月27日）
-  - 武田涼介（2020年3月30日‐ ）
+  -
+  - [武田涼介](../Page/武田涼介.md "wikilink") (たけだ・りょうすけ)（2020年3月30日 - ）
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")（2017年4月3日 - ）
+  - [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")(すがの・まみえ)（2017年4月3日 - ）
 
 <!-- end list -->
 
@@ -85,8 +85,8 @@
 
 <!-- end list -->
 
-  - [岩本裕](https://ja.wikipedia.org/wiki/岩本裕_\(報道記者\) "wikilink")\[2\]（2015年9月28日? - ）
-  - [森田智之](https://ja.wikipedia.org/wiki/森田智之 "wikilink")（2018年7月2日 - ）
+  - [岩本裕](https://ja.wikipedia.org/wiki/岩本裕_\(報道記者\) "wikilink")(いわもと・ひろし)\[2\]（2015年9月28日? - ）
+  - [森田智之](https://ja.wikipedia.org/wiki/森田智之 "wikilink")(もりた・ともゆき)（2018年7月2日 - ）
 
 　※岩本と森田は隔週担当。
 
@@ -94,53 +94,53 @@
 
 <!-- end list -->
 
-  - [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")（2010年3月29日 - 2017年3月31日、2019年4月1日 - ）
+  - [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")(ふくだ・ひろゆき)（2019年4月1日 - ）
 
 ### 過去の出演者
 
 同時期に二人担当者がいる場合は、隔週で担当していたことを意味する。
 
-| 期間         | メインキャスター   | サブキャスター                                                    | ニュースデスク                                                                 | 気象情報                                                    |
-| ---------- | ---------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- |
-| 1982.04    | 不明         | [関野武](https://ja.wikipedia.org/wiki/関野武 "wikilink")        | 不明                                                                      |                                                         |
-| 不明         | 不明         | [谷岡理香](https://ja.wikipedia.org/wiki/谷岡理香 "wikilink")      |                                                                         |                                                         |
-| 1989年頃     | 不明         | [児玉士誠](https://ja.wikipedia.org/wiki/児玉士誠 "wikilink")      | 谷岡理香                                                                    |                                                         |
-| 不明         | 不明         | [梅津正樹](../Page/梅津正樹.md "wikilink")                         |                                                                         |                                                         |
-| 不明         | 不明         | [横山義恭](https://ja.wikipedia.org/wiki/横山義恭 "wikilink")      |                                                                         |                                                         |
-| 不明         | 不明         | [佐藤敏彦](https://ja.wikipedia.org/wiki/佐藤敏彦 "wikilink")      |                                                                         |                                                         |
-| 不明         | 1995.03    | [伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")    |                                                                         |                                                         |
-| 1995.04    | 1996.11    | [坪倉善彦](https://ja.wikipedia.org/wiki/坪倉善彦 "wikilink")      |                                                                         |                                                         |
-| 1996.11    | 1997.11.1  | [向坂真弓](https://ja.wikipedia.org/wiki/向坂真弓 "wikilink")      | [小籔加奈子](https://ja.wikipedia.org/wiki/小籔加奈子 "wikilink")                 | [入山秀昭](https://ja.wikipedia.org/wiki/入山秀昭 "wikilink")   |
-| 1997.11.5  | 1998.03.31 | [山下俊文](../Page/山下俊文.md "wikilink")                         |                                                                         |                                                         |
-| 1998.04.01 | 1999.06.11 | [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")      | [岩井理江](https://ja.wikipedia.org/wiki/岩井理江 "wikilink")                   |                                                         |
-| 1999.06.14 | 2000.03.24 | [佐藤敏彦](https://ja.wikipedia.org/wiki/佐藤敏彦 "wikilink")      |                                                                         |                                                         |
-| 2000.03.27 | 2001.03.30 | [下境博](https://ja.wikipedia.org/wiki/下境博 "wikilink")        |                                                                         |                                                         |
-| 2001.04.02 | 2002.10.04 | 梅津正樹                                                       | [釜井美帆](https://ja.wikipedia.org/wiki/釜井美帆 "wikilink")                   |                                                         |
-| 2002.10.07 | 2003.03.28 | [藤田寛](https://ja.wikipedia.org/wiki/藤田寛 "wikilink")        |                                                                         |                                                         |
-| 2003.03.31 | 2004.03.26 | [鈴木順子](https://ja.wikipedia.org/wiki/鈴木順子（作成中） "wikilink") |                                                                         |                                                         |
-| 2004.03.29 | 2005.06.03 | [山本和之](../Page/山本和之.md "wikilink")                         | [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")                   | [竹田忠](https://ja.wikipedia.org/wiki/竹田忠 "wikilink")     |
-| 2005.06.06 | 2006.03.31 | [福井裕一郎](../Page/福井裕一郎.md "wikilink")                       |                                                                         |                                                         |
-| 2006.04.03 | 2006.09.29 | [臼井昭子](https://ja.wikipedia.org/wiki/臼井昭子 "wikilink")      | [吉田友海](https://ja.wikipedia.org/wiki/吉田友海 "wikilink")                   | 不明                                                      |
-| 2006.10.02 | 2008.03.28 | [松本浩司](https://ja.wikipedia.org/wiki/松本浩司 "wikilink")      |                                                                         |                                                         |
-| 2008.03.31 | 2008.06.13 | [中野由貴](https://ja.wikipedia.org/wiki/中野由貴 "wikilink")      |                                                                         |                                                         |
-| 2008.06.13 | 2009.03.27 | [鹿野睦](https://ja.wikipedia.org/wiki/鹿野睦 "wikilink")        |                                                                         |                                                         |
-| 2009.03.30 | 2009.10.30 | [松坂秀幸](https://ja.wikipedia.org/wiki/松坂秀幸 "wikilink")      | [望月圭子 (気象予報士)](https://ja.wikipedia.org/wiki/望月圭子_\(気象予報士\) "wikilink") |                                                         |
-| 2009.11.02 | 2010.03.26 | [榊原淳子](https://ja.wikipedia.org/wiki/榊原淳子 "wikilink")      |                                                                         |                                                         |
-| 2010.03.29 | 2011.03.25 | [山口勝](https://ja.wikipedia.org/wiki/山口勝 "wikilink")        | [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")                   |                                                         |
-| 2011.03.28 | 2011.05.13 | [村田英明](https://ja.wikipedia.org/wiki/村田英明 "wikilink")      |                                                                         |                                                         |
-| 2011.05.16 | 2011.06.03 | [出雲秀一](https://ja.wikipedia.org/wiki/出雲秀一 "wikilink")      | 村田英明                                                                    |                                                         |
-| 2011.06.06 | 2011.09.30 | [和田源二](../Page/和田源二.md "wikilink")                         | [小野卓司](../Page/小野卓司.md "wikilink")                                      |                                                         |
-| 2011.10.03 | 2012.03.30 | 村田英明                                                       |                                                                         |                                                         |
-| 2012.04.02 | 2012.09.30 | [坂本朋彦](../Page/坂本朋彦.md "wikilink")                         | [齋暢子](https://ja.wikipedia.org/wiki/齋暢子 "wikilink")                     |                                                         |
-| 2012.10.03 | 2013.09.27 | 村田英明                                                       | [小野正晴](https://ja.wikipedia.org/wiki/小野正晴 "wikilink")                   |                                                         |
-| 2013.09.30 | 2014.03.28 | [西垣幸児](https://ja.wikipedia.org/wiki/西垣幸児 "wikilink")      |                                                                         |                                                         |
-| 2014.03.31 | 2015.09.25 | [永井克典](../Page/永井克典.md "wikilink")                         | [奥村奈津美](../Page/奥村奈津美.md "wikilink")                                    | 西垣幸児                                                    |
-| 2015.09.28 | 2016.04.01 | [岩本裕](https://ja.wikipedia.org/wiki/岩本裕 "wikilink")        | 西垣幸児                                                                    |                                                         |
-| 2016.04.04 | 2017.03.31 | [池光敏弘](https://ja.wikipedia.org/wiki/池光敏弘 "wikilink")      |                                                                         |                                                         |
-| 2017.04.03 | 2018.06.08 | [山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")      | [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")                 | [西川拓之介](https://ja.wikipedia.org/wiki/西川拓之介 "wikilink") |
-| 2018.06.11 | 2018.06.29 | 岩本裕                                                        |                                                                         |                                                         |
-| 2018.07.02 | 2019.03.29 | 森田智之                                                       | 岩本裕                                                                     |                                                         |
-| 2019.04.01 | 2020.03.27 | [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")      |                                                                         |                                                         |
+| 期間         | メインキャスター   | サブキャスター                                                                       | ニュースデスク                                                                                       | 気象情報                                                                |
+| ---------- | ---------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 1982.04    | 不明         | [関野武](https://ja.wikipedia.org/wiki/関野武 "wikilink")(せきの・たけし)                  | 不明                                                                                            |                                                                     |
+| 不明         | 不明         | [谷岡理香](https://ja.wikipedia.org/wiki/谷岡理香 "wikilink")(たにおか・りか)                |                                                                                               |                                                                     |
+| 1989年頃     | 不明         | [児玉士誠](https://ja.wikipedia.org/wiki/児玉士誠 "wikilink")(こだま・しせい)                | 谷岡理香(たにおか・りか)                                                                                 |                                                                     |
+| 不明         | 不明         | [梅津正樹](../Page/梅津正樹.md "wikilink")(うめづ・まさき)                                   |                                                                                               |                                                                     |
+| 不明         | 不明         | [横山義恭](https://ja.wikipedia.org/wiki/横山義恭 "wikilink")(よこやま・よしやす)              |                                                                                               |                                                                     |
+| 不明         | 不明         | [佐藤敏彦](https://ja.wikipedia.org/wiki/佐藤敏彦 "wikilink")(さとう・としひこ)               |                                                                                               |                                                                     |
+| 不明         | 1995.03    | [伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")(いたみ・けんたろう)            |                                                                                               |                                                                     |
+| 1995.04    | 1996.11    | [坪倉善彦](https://ja.wikipedia.org/wiki/坪倉善彦 "wikilink")(つぼくら・よしひこ)              |                                                                                               |                                                                     |
+| 1996.11    | 1997.11.1  | [向坂真弓](https://ja.wikipedia.org/wiki/向坂真弓 "wikilink")(むかさか・まゆみ)               | [小籔加奈子](https://ja.wikipedia.org/wiki/小籔加奈子 "wikilink")(こやぶ・かなこ)                              | [入山秀昭](https://ja.wikipedia.org/wiki/入山秀昭 "wikilink")(いりやま・ひであき)    |
+| 1997.11.5  | 1998.03.31 | [山下俊文](../Page/山下俊文.md "wikilink")(やました・としふみ)                                 |                                                                                               |                                                                     |
+| 1998.04.01 | 1999.06.11 | [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")(なかじま・ゆうこ)               | [岩井理江](https://ja.wikipedia.org/wiki/岩井理江 "wikilink")(いわい・りえ)                                 |                                                                     |
+| 1999.06.14 | 2000.03.24 | [佐藤敏彦](https://ja.wikipedia.org/wiki/佐藤敏彦 "wikilink")(さとう・としひこ)               |                                                                                               |                                                                     |
+| 2000.03.27 | 2001.03.30 | [下境博](https://ja.wikipedia.org/wiki/下境博 "wikilink")(しもさかい・ひろし)                |                                                                                               |                                                                     |
+| 2001.04.02 | 2002.10.04 | 梅津正樹(うめづ・まさき)                                                                 | [釜井美帆](https://ja.wikipedia.org/wiki/釜井美帆 "wikilink")(かまい・みほ)                                 |                                                                     |
+| 2002.10.07 | 2003.03.28 | [藤田寛](https://ja.wikipedia.org/wiki/藤田寛 "wikilink")(ふじた・ひろし)                  |                                                                                               |                                                                     |
+| 2003.03.31 | 2004.03.26 | [鈴木順子](../Page/鈴木順子.md "wikilink")(すずき・じゅんこ)                                  |                                                                                               |                                                                     |
+| 2004.03.29 | 2005.06.03 | [山本和之](../Page/山本和之.md "wikilink")(やまもと・かずゆき)                                 | [中島裕子](https://ja.wikipedia.org/wiki/中島裕子 "wikilink")(なかじま・ゆうこ)                               | [竹田忠](https://ja.wikipedia.org/wiki/竹田忠 "wikilink")(たけだ・ただし)        |
+| 2005.06.06 | 2006.03.31 | [福井裕一郎](../Page/福井裕一郎.md "wikilink")(ふくい・ゆういちろう)                              |                                                                                               |                                                                     |
+| 2006.04.03 | 2006.09.29 | [臼井昭子](https://ja.wikipedia.org/wiki/臼井昭子 "wikilink")(うすい・あきこ)                | [吉田友海](https://ja.wikipedia.org/wiki/吉田友海 "wikilink")(よしだ・ともみ)                                | 不明                                                                  |
+| 2006.10.02 | 2008.03.28 | [松本浩司](https://ja.wikipedia.org/wiki/松本浩司 "wikilink")(まつもと・こうじ)               |                                                                                               |                                                                     |
+| 2008.03.31 | 2008.06.13 | [中野由貴](https://ja.wikipedia.org/wiki/中野由貴 "wikilink")(なかの・ゆき)                 |                                                                                               |                                                                     |
+| 2008.06.13 | 2009.03.27 | [鹿野睦](https://ja.wikipedia.org/wiki/鹿野睦 "wikilink")(しかの・むつみ)                  |                                                                                               |                                                                     |
+| 2009.03.30 | 2009.10.30 | [松坂秀幸](https://ja.wikipedia.org/wiki/松坂秀幸 "wikilink")(まつざか・ひでゆき)              | [望月圭子(もちづき・けいこ) (気象予報士)](https://ja.wikipedia.org/wiki/望月圭子\(もちづき・けいこ\)_\(気象予報士\) "wikilink") |                                                                     |
+| 2009.11.02 | 2010.03.26 | [榊原淳子](https://ja.wikipedia.org/wiki/榊原淳子 "wikilink")(さかきばら・じゅんこ)             |                                                                                               |                                                                     |
+| 2010.03.29 | 2011.03.25 | [山口勝](https://ja.wikipedia.org/wiki/山口勝 "wikilink")(やまぐち・まさる)                 | [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")(ふくだ・ひろゆき)                               |                                                                     |
+| 2011.03.28 | 2011.05.13 | [村田英明](https://ja.wikipedia.org/wiki/村田英明 "wikilink")(むらた・ひであき)               |                                                                                               |                                                                     |
+| 2011.05.16 | 2011.06.03 | [出雲秀一](https://ja.wikipedia.org/wiki/出雲秀一 "wikilink")(いずも・しゅういち)              | 村田英明(むらた・ひであき)                                                                                |                                                                     |
+| 2011.06.06 | 2011.09.30 | [和田源二](../Page/和田源二.md "wikilink")(わだ・げんじ)                                    | [小野卓司](../Page/小野卓司.md "wikilink")(おの・たくし)                                                    |                                                                     |
+| 2011.10.03 | 2012.03.30 | 村田英明(むらた・ひであき)                                                                |                                                                                               |                                                                     |
+| 2012.04.02 | 2012.09.30 | [坂本朋彦](../Page/坂本朋彦.md "wikilink")(さかもと・ともひこ)                                 | [齋暢子](https://ja.wikipedia.org/wiki/齋暢子 "wikilink")(さい・のぶこ)                                   |                                                                     |
+| 2012.10.03 | 2013.09.27 | 村田英明|(むらた・ひであき)[小野正晴](https://ja.wikipedia.org/wiki/小野正晴 "wikilink")(おの・まさはる) |                                                                                               |                                                                     |
+| 2013.09.30 | 2014.03.28 | [西垣幸児](https://ja.wikipedia.org/wiki/西垣幸児 "wikilink")(にしがき・こうじ)               |                                                                                               |                                                                     |
+| 2014.03.31 | 2015.09.25 | [永井克典](../Page/永井克典.md "wikilink")(ながい・かつのり)                                  | [奥村奈津美](../Page/奥村奈津美.md "wikilink")|(おくむら・なつみ)|colspan="2"|西垣幸児(にしがき・こうじ)                    |                                                                     |
+| 2015.09.28 | 2016.04.01 | [岩本裕](https://ja.wikipedia.org/wiki/岩本裕 "wikilink")(いわもと・ゆたか)                 | 西垣幸児(にしがき・こうじ)                                                                                |                                                                     |
+| 2016.04.04 | 2017.03.31 | [池光敏弘](https://ja.wikipedia.org/wiki/池光敏弘 "wikilink")(いけみつ・としひろ)              |                                                                                               |                                                                     |
+| 2017.04.03 | 2018.06.08 | [山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")(やまだ・やすひろ)               | [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")(すがの・まみえ)                              | [西川拓之介](https://ja.wikipedia.org/wiki/西川拓之介 "wikilink")(にしかわ・こうのすけ) |
+| 2018.06.11 | 2018.06.29 | 岩本裕(いわもと・ゆたか)                                                                 |                                                                                               |                                                                     |
+| 2018.07.02 | 2019.03.29 | 森田智之|(もりた・ともゆき)|rowspan="2"|岩本裕(いわもと・ゆたか)                                     |                                                                                               |                                                                     |
+| 2019.04.01 | 2020.03.27 | [福田寛之](https://ja.wikipedia.org/wiki/福田寛之 "wikilink")(ふくだ・ひろゆき)               |                                                                                               |                                                                     |
 
 ## 放送時間
 
@@ -170,6 +170,7 @@
 ## 主なコーナー
 
   - 今日のニュースとそれについての解説、レポート（ニュースデスク、記者、地方局アナウンサー、ラジオセンターディレクター、[解説員](../Page/NHK解説委員室.md "wikilink")、有識者・専門家）
+  - 月曜日に「ジャーナル特集」として幅広いテーマを放送。火曜日に「ジャーナル地域発」として各地方の話題を各放送局のアナウンサーらが伝える。水曜日は「ジャーナル医療健康」。木曜日はスポーツの話題を伝える「ジャーナルスポーツ」にスポーツ解説者が登場。金曜日は話題の本や映画、トレンドなどを伝える「ジャーナル文化流行」を放送する。
   - スポーツニュース
   - ウィークリービジネス（金曜　2014年4月開始　1週間の経済トピックスから注目のテーマを取り上げてエコノミストによる解説を行う）
   - 気象情報

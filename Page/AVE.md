@@ -127,6 +127,8 @@ AVEは高速長距離線、AVANT（アバント）は高速中距離線に与え
   -
   - [AVE　スペイン政府観光局オフィシャルサイト](http://www.spain.info/JP/TourSpain/Reportajes/0/Transportes-Renfe?SubSys=Transp?language=ja)　
 
+  - [スペインの公共交通機関](https://www.spainjapantravel.jp/transportation-in-spain)　
+
 [Category:スペインの鉄道](https://ja.wikipedia.org/wiki/Category:スペインの鉄道 "wikilink") [Category:スペインの鉄道車両](https://ja.wikipedia.org/wiki/Category:スペインの鉄道車両 "wikilink") [Category:スペインの列車](https://ja.wikipedia.org/wiki/Category:スペインの列車 "wikilink") [Category:ヨーロッパの鉄道路線](https://ja.wikipedia.org/wiki/Category:ヨーロッパの鉄道路線 "wikilink") [Category:高速鉄道](https://ja.wikipedia.org/wiki/Category:高速鉄道 "wikilink") [Category:高速鉄道路線](https://ja.wikipedia.org/wiki/Category:高速鉄道路線 "wikilink") [Category:高速鉄道車両](https://ja.wikipedia.org/wiki/Category:高速鉄道車両 "wikilink") [Category:スペインの観光](https://ja.wikipedia.org/wiki/Category:スペインの観光 "wikilink")
 
 1.  最新 世界の鉄道 (単行本) 海外鉄道技術協力協会 編集:ぎょうせい ISBN 4-324-07626-X

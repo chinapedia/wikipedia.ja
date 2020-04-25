@@ -51,7 +51,7 @@
 
   - オリコンによる2000年度の年間シングル売上ランキング1位、歴代の[J-POP](../Page/J-POP.md "wikilink")シングル・[CDシングル](../Page/コンパクトディスク.md "wikilink")・[平成](../Page/平成.md "wikilink")発売のシングル売上ランキング2位\[20\]\[21\]、歴代シングル売上ランキング4位\[22\]。
   - [オリコン](../Page/オリコンチャート.md "wikilink")[カラオケ](../Page/カラオケ.md "wikilink")チャートで「TSUNAMI」が14週連続1位、2000年度の年間カラオケランキング1位。
-  - 『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』のパーフェクトランキングで「TSUNAMI」が12週連続1位、10年間の通算チャート1位。
+  - 『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』のパーフェクトランキングで「TSUNAMI」が12週連続1位、10年間の通算チャート1位。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）に[NHKが実施した](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で「TSUNAMI」が白組16位。
   - 『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")最終回スペシャル』で、放送開始の[1994年](../Page/1994年.md "wikilink")（平成6年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から放送終了の[2002年](../Page/2002年.md "wikilink")（平成14年）[9月](../Page/9月.md "wikilink")までの総合ランキング1位。
   - 『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』の放送15周年記念企画として集計された「15年間歴代シングルランキング」で第1位。
@@ -88,7 +88,7 @@
         [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")の[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")は、[ヒロミ](../Page/ヒロミ.md "wikilink")との因縁があった直後にこの曲をカラオケで歌い号泣したと述べている\[52\]。
         音楽情報誌『CD＆DLでーた』が発表した「失恋した時に聴きたい“失恋ソング”ランキング」で8位にランクインした\[53\]。[2015年](../Page/2015年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に放送された「[ミュージックステーションウルトラFES](https://ja.wikipedia.org/wiki/ミュージックステーションウルトラFES "wikilink")」内で放送されたVTR企画『世界に誇るニッポンの歌 BEST100』で5位を記録した\[54\]。
         [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[オリコン](../Page/オリコン.md "wikilink")が2000人に調査した「サザンオールスターズのシングル曲の中で一番好きな曲」で総合1位を獲得した\[55\]。
-        [調](https://ja.wikipedia.org/wiki/調 "wikilink")は[ニ長調](../Page/ニ長調.md "wikilink")\[56\]。
+        [調](../Page/調.md "wikilink")は[ニ長調](../Page/ニ長調.md "wikilink")\[56\]。
 2.  **通りゃんせ** (4:21)
     （作詞・作曲:桑田佳祐 / 編曲:サザンオールスターズ）
       -
@@ -163,7 +163,7 @@
 
   - [TSUNAMI](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=2933&cd=VICL-36044&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコン年間シングルチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:未来日記主題歌](https://ja.wikipedia.org/wiki/Category:未来日記主題歌 "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:選抜高等学校野球大会入場行進曲](https://ja.wikipedia.org/wiki/Category:選抜高等学校野球大会入場行進曲 "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:楽曲_つ](https://ja.wikipedia.org/wiki/Category:楽曲_つ "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:2000年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2000年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコン年間シングルチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:未来日記主題歌](https://ja.wikipedia.org/wiki/Category:未来日記主題歌 "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:選抜高等学校野球大会入場行進曲](https://ja.wikipedia.org/wiki/Category:選抜高等学校野球大会入場行進曲 "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_つ](https://ja.wikipedia.org/wiki/Category:楽曲_つ "wikilink")
 
 1.  [サザンオールスターズ バイオグラフィー 2000年](https://southernallstars.jp/mob/news/diarKiji.php?site=SASJP&ima=1753&cd=BIOGRAPHY&so=k&labl=keyword&ct=2000&tp=2000) SOUTHERN ALL STARS OFFICIAL SITE 2018年7月9日閲覧
 2.

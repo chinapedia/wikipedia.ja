@@ -181,6 +181,7 @@
 ## アナウンサー・キャスター
 
   - 氏名の後の\*印は過去に和歌山放送局勤務経験あり。
+  - 本局から[NHK放送センター](../Page/NHK放送センター.md "wikilink")や[福岡](../Page/NHK福岡放送局.md "wikilink")、[松山といった大都市局への異動や](../Page/NHK松山放送局.md "wikilink")、地方局への赴任であっても役職等が昇級するなど、栄転するアナウンサーが多い。\[4\]
 
 <table>
 <thead>
@@ -197,7 +198,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>押尾駿吾</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/押尾駿吾" title="wikilink">押尾駿吾</a></p></td>
 <td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
 <td><p>|<a href="../Page/ギュギュっと和歌山.md" title="wikilink">ギュギュっと和歌山</a>（キャスター）</p></td>
 </tr>
@@ -224,12 +225,12 @@
 <a href="../Page/ぐるっと関西おひるまえ.md" title="wikilink">ぐるっと関西おひるまえ</a>など</p></td>
 </tr>
 <tr class="odd">
-<td><p>黒杉愛</p></td>
-<td><p>徳島</p></td>
+<td><p>小野寺侑美</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>辻由布子</p></td>
+<td><p>大曲理美</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -265,6 +266,11 @@
 
   - 2007年12月14日午前、[新宮市](../Page/新宮市.md "wikilink")で道路工事の際に誤ってNHKの放送用ケーブルが切断されるトラブルがあった。このため午前11時頃から紀南地方の広い範囲でFM放送が中断し、総合テレビは一部、[名古屋局や](../Page/NHK名古屋放送局.md "wikilink")[津局の番組が放送されたが](../Page/NHK津放送局.md "wikilink")、午後9時20分までにすべて復旧した。
 
+## 交通アクセス
+
+  - [JR和歌山駅より](../Page/和歌山駅.md "wikilink")[和歌山バス](../Page/和歌山バス.md "wikilink")「和歌浦口」行きに乗車し15分、[和歌山バス](../Page/和歌山バス.md "wikilink")「真砂町」停留所下車徒歩1分。
+  - [南海和歌山市駅より](https://ja.wikipedia.org/wiki/和歌山市駅 "wikilink")[和歌山バス](../Page/和歌山バス.md "wikilink")「和歌浦口」行きに乗車し10分、[和歌山バス](../Page/和歌山バス.md "wikilink")「真砂町」停留所下車徒歩1分。
+
 ## 脚注
 
 ## 外部リンク
@@ -277,3 +283,4 @@
 1.
 2.  [4月9日号　パーソナリティトーク：金岡紀子](http://www.nhk.or.jp/wakayama/powerstation/p_talk_h22/1004.html)
 3.  [受信情報](http://www.nhk.or.jp/wakayama/station_info/channel.html)
+4.  [児林大介](https://ja.wikipedia.org/wiki/児林大介 "wikilink")（[NHK放送センター](../Page/NHK放送センター.md "wikilink")、現[盛岡局](../Page/NHK盛岡放送局.md "wikilink")）、[登坂淳一](../Page/登坂淳一.md "wikilink")（[大阪局](../Page/NHK大阪放送局.md "wikilink")、現フリー）、[田中寛人](../Page/田中寛人.md "wikilink")（[松山局](../Page/NHK松山放送局.md "wikilink")、現[長野局](../Page/NHK長野放送局.md "wikilink")）、[横林良純](../Page/横林良純.md "wikilink")（[松山局](../Page/NHK松山放送局.md "wikilink")、現[和歌山局CA](../Page/NHK和歌山放送局.md "wikilink")）、[今城和久](../Page/今城和久.md "wikilink")（[富山局副部長](../Page/NHK富山放送局.md "wikilink")）、[藤澤義貴](../Page/藤澤義貴.md "wikilink")（[福岡局](../Page/NHK福岡放送局.md "wikilink")）など

@@ -48,7 +48,7 @@
   - [2005年](../Page/2005年.md "wikilink")5月24日、活動休止を発表する\[3\]。
   - [2005年](../Page/2005年.md "wikilink")8月11日、[東京](../Page/東京.md "wikilink")・[六本木](../Page/六本木.md "wikilink")の[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")でラストライブを開催。
   - [2005年](../Page/2005年.md "wikilink")8月17日、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[complete Best](https://ja.wikipedia.org/wiki/complete_Best "wikilink")』、『[single Best](https://ja.wikipedia.org/wiki/single_Best_\(day_after_tomorrowのアルバム\) "wikilink")』を発売し活動を休止する。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月1日、同日放送の『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』で、misonoはソロとして、鈴木は[GIRL NEXT DOORのメンバーとして共演する](https://ja.wikipedia.org/wiki/GIRL_NEXT_DOOR "wikilink")。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月1日、同日放送の『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』で、misonoはソロとして、鈴木は[GIRL NEXT DOORのメンバーとして共演する](https://ja.wikipedia.org/wiki/GIRL_NEXT_DOOR "wikilink")。
 
 ## 関連書籍
 

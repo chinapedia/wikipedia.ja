@@ -9,7 +9,7 @@
 
 大阪府、京都府、兵庫県、滋賀県、奈良県、和歌山県の近畿地方共通の番組（「管中番組」）や、大阪局ローカルの番組、そして看板番組「[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")」をほぼ半年毎に制作するなど全国向け番組も多く制作している。西日本の[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")のステータスの1つとも言える[NHK上方漫才コンテスト](../Page/NHK上方漫才コンテスト.md "wikilink")（毎年3月第2金曜日に生放送）の主催も行っている。
 
-2001年（平成13年）11月、[旧大阪放送会館の上町筋を挟んだ旧大阪市中央体育館跡地に](https://ja.wikipedia.org/wiki/大阪放送会館#初代 "wikilink")[新たな「大阪放送会館」](https://ja.wikipedia.org/wiki/大阪放送会館#2代目 "wikilink")（スタジオ、[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")、[大阪歴史博物館](../Page/大阪歴史博物館.md "wikilink")を併設）がオープン\[2\]。[コールサインの](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#日本放送協会 "wikilink")**JOBK**から「BK」と呼ばれることもある。
+2001年（平成13年）11月、[旧大阪放送会館の上町筋を挟んだ旧大阪市中央体育館跡地に](https://ja.wikipedia.org/wiki/大阪放送会館#初代 "wikilink")[新たな「大阪放送会館」](https://ja.wikipedia.org/wiki/大阪放送会館#2代目 "wikilink")（スタジオ、[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")、[大阪歴史博物館](../Page/大阪歴史博物館.md "wikilink")を併設）がオープン\[2\]。[コールサインの](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#日本放送協会 "wikilink")**JOBK**から「BK」と呼ばれることもあり、自局でも「BK」の呼称を使う（後述のBKプラザ等）。
 
 [総合テレビの番組編成は](../Page/NHK総合テレビジョン.md "wikilink")、他地域の各放送局に比べ[関西ローカル](../Page/関西ローカル.md "wikilink")（自主編成）への差し替えが全時間帯において、極端に多いことが特徴である\[3\]。
 
@@ -338,7 +338,7 @@
 
   - [関西発ラジオ深夜便](../Page/関西発ラジオ深夜便.md "wikilink")（毎月第1 - 3金曜日 23:20 - 5:00、FMでも深夜1:00以降同時放送）
   - [上方演芸会](../Page/上方演芸会.md "wikilink")（日曜日 15:30 - 15:55）
-  - [関西発いのちのラジオ](../Page/AMラジオ災害問題協議会.md "wikilink")（毎年9月1日 9:05 - 11:50 NHK大阪・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")・[ラジオ大阪](../Page/大阪放送.md "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")・[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")の共同制作）
+  - [関西発いのちのラジオ](../Page/AMラジオ災害問題協議会.md "wikilink")（毎年9月1日 9:05 - 11:50 NHK大阪・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")・[ラジオ大阪](../Page/大阪放送.md "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")・[和歌山放送](../Page/和歌山放送.md "wikilink")の共同制作）
 
 <!-- end list -->
 
@@ -711,7 +711,7 @@
 
 ### 専属契約キャスター
 
-下記の専属契約アナウンサーは大阪局の公式サイトに記載されていない。大阪局は昔から外部人材を積極的に自局番組に起用してきたこともあり、専属者は報道部所属の報道番組担当者など一部に限られる。またローカル枠のうち、10:55、11:50、12:55、13:55、15:55に放送されるラジオ第1（11:50と12:55はFMも）のローカルニュース、気象情報、お知らせを担当する場合もある。
+下記の専属契約アナウンサーは大阪局の公式サイトに記載されていない。大阪局は昔から外部人材を積極的に自局番組に起用してきたこともあり、専属者は報道部所属の報道番組担当者など一部に限られる。またローカル枠のうち、10:55、11:50、12:55、13:55、15:55に放送されるラジオ第1（11:50と12:55はFMも）の関西のニュース・気象情報・お知らせを担当する場合もある。
 
 <table>
 <thead>
@@ -725,40 +725,48 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/小川真由" title="wikilink">小川真由</a></p></td>
-<td><p>元<a href="../Page/NHK金沢放送局.md" title="wikilink">金沢局契約キャスター</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ニュースほっと関西" title="wikilink">ニュースほっと関西</a></strong> リポーター</p></td>
+<td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a><br />
+（契約キャスター）</p></td>
+<td><p>ニュースほっと関西<br />
+（リポーター）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>小野田真由美</p></td>
-<td><p>元<a href="../Page/NHK京都放送局.md" title="wikilink">京都局契約キャスター</a></p></td>
-<td><p><strong>ニュースほっと関西</strong> リポーター</p></td>
+<td><p>京都<br />
+（契約キャスター）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>國生千代</p></td>
-<td><p>元<a href="../Page/NHK札幌放送局.md" title="wikilink">札幌局契約キャスター</a></p></td>
-<td><p><strong>ニュースほっと関西</strong> リポーター</p></td>
+<td><p>廣由梨</p></td>
+<td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a><br />
+（契約キャスター）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>櫻井有里沙</p></td>
-<td><p>元<a href="../Page/NHK奈良放送局.md" title="wikilink">奈良局契約キャスター</a></p></td>
-<td><p><strong>ニュースほっと関西</strong> リポーター</p></td>
+<td><p>奈良<br />
+（契約キャスター）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>老子知歩</p></td>
-<td><p>FMラジオパーソナリティー・<br />
-元<a href="../Page/NHK山形放送局.md" title="wikilink">山形局契約キャスター</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/かんさいミュージックBOX_なみはな" title="wikilink">かんさいミュージックBOX なみはな</a></strong><br />
-ラジオニュース</p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a><br />
+（契約キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かんさいミュージックBOX_なみはな" title="wikilink">かんさいミュージックBOX なみはな</a><br />
+関西のニュース<br />
+（ラジオ）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>山本賀保子</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松局契約キャスター</a></p></td>
-<td><p><strong>ニュースほっと関西</strong> スポーツコーナー担当</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a><br />
+（契約キャスター）</p></td>
+<td><p>ニュースほっと関西<br />
+（スポーツキャスター）</p></td>
 <td></td>
 </tr>
 </tbody>

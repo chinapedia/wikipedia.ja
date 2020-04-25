@@ -280,7 +280,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a>（TSK）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">さんいん中央テレビ</a>（TSK）</p></td>
 <td><p>不定期放送（2015年1月25日 - ）</p></td>
 <td><p>主に日曜の13～16時に放送</p></td>
 <td></td>
@@ -293,6 +293,13 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>（TSS）</p></td>
+<td><p>金曜 16:19 - 16:47（2020年4月10日 - ）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

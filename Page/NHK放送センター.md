@@ -79,9 +79,9 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
 
 \*\*;NC-Cフロア …総合テレビ向けニューススタジオ、主に首都圏向けニュースで使用。
 
-\*: 首都圏・関東甲信越向け定時ニュースや『[ひるまえほっと](https://ja.wikipedia.org/wiki/ひるまえほっと "wikilink")』『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』『[首都圏ニュース845](../Page/首都圏ニュース845.md "wikilink")』『[時論公論](https://ja.wikipedia.org/wiki/時論公論 "wikilink")』などで使用（各番組は電飾やキャスターテーブルなどを変えて対応している）
+\*: 首都圏・関東甲信越向け定時ニュースや『[ひるまえほっと](https://ja.wikipedia.org/wiki/ひるまえほっと "wikilink")』『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』『[首都圏ニュース845](../Page/首都圏ニュース845.md "wikilink")』『[時論公論](https://ja.wikipedia.org/wiki/時論公論 "wikilink")』などで使用（各番組は電飾やキャスターテーブルなどを変えて対応している。『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』はスタジオセットをセット左側に別途設置している)
 
-\*:「NHKニュース」(関東甲信越枠)で使われている箇所(セット左奥)は、2014年度に変更し、2019年3月25日にスタジオのモニターを変更した。
+\*:「NHKニュース」(関東甲信越枠)で使われている箇所(セット左奥)は、2014年度・2020年度に変更し、2019年3月25日にスタジオのモニターを変更した。
 
 \*;3階 … BS用スタジオ（NC中フロア）・BSニュースセンターやテロップ・CGアートセンター
 
@@ -1352,27 +1352,28 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
   - [青井実](../Page/青井実.md "wikilink")（あおい・みのる）
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink")（あさの・たつろう）
-  - [阿部渉](../Page/阿部渉.md "wikilink")（あべ・わたる）（EA）
-  - [新井秀和](https://ja.wikipedia.org/wiki/新井秀和 "wikilink")（あらい・ひでかず）
+  - [新井秀和（あらい・ひでかず）](../Page/松尾剛.md "wikilink")
+  - [阿部渉](../Page/阿部渉.md "wikilink")（あべ・わたる）
   - [新井隆太](https://ja.wikipedia.org/wiki/新井隆太 "wikilink")（あらい・りゅうた）
   - [飯島徹郎](https://ja.wikipedia.org/wiki/飯島徹郎 "wikilink")（いいじま・てつろう）
+  - [飯塚洋介](../Page/飯塚洋介.md "wikilink") (いいづか・ようすけ)
   - [飯田紀久夫](../Page/飯田紀久夫.md "wikilink")（いいだ・きくお） 副部長
-  - [飯塚洋介](../Page/飯塚洋介.md "wikilink")（いいづか・ようすけ）
   - [池田耕一郎](../Page/池田耕一郎.md "wikilink")（いけだ・こういちろう）
   - [石井隆広](https://ja.wikipedia.org/wiki/石井隆広_\(アナウンサー\) "wikilink")（いしい・たかひろ）
   - [石井裕](https://ja.wikipedia.org/wiki/石井裕_\(アナウンサー\) "wikilink")（いしい・ゆたか）副部長
   - [一橋忠之](../Page/一橋忠之.md "wikilink")（いちはし・ただゆき）
   - [糸井羊司](../Page/糸井羊司.md "wikilink")（いとい・ようじ）
   - [伊藤海彦](https://ja.wikipedia.org/wiki/伊藤海彦 "wikilink")（いとう・うみひこ）
-  - [伊藤慶太](../Page/伊藤慶太.md "wikilink")（いとう・けいた）
+  - [伊藤慶太](../Page/伊藤慶太.md "wikilink")（いとう・けいた）(CA)
   - [井上二郎](../Page/井上二郎.md "wikilink")（いのうえ・じろう）
   - [井上裕貴](https://ja.wikipedia.org/wiki/井上裕貴 "wikilink")（いのうえ・ゆうき）
   - [今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")（いまい・しょうま）
   - [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")（いわの・よしき）
-  - [太田雅英](../Page/太田雅英.md "wikilink")（おおた・まさひで）
+  - [太田雅英](../Page/太田雅英.md "wikilink")（おおた・まさひで）(CA)
   - [大槻隆行](https://ja.wikipedia.org/wiki/大槻隆行 "wikilink")（おおつき・たかゆき）
-  - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく）
-  - [小田切千](../Page/小田切千.md "wikilink")（おだぎり・せん）
+  - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく)
+  - [小澤康喬](../Page/小澤康喬.md "wikilink")(おざわ・やすたか)
+  - [小田切千](../Page/小田切千.md "wikilink")（おだぎり・せん）(CA)
   - [鏡和臣](https://ja.wikipedia.org/wiki/鏡和臣 "wikilink")（かがみ・かずおみ）
   - [笠井大輔](https://ja.wikipedia.org/wiki/笠井大輔 "wikilink") (かさい・だいすけ)
   - [金子哲也](../Page/金子哲也.md "wikilink")（かねこ・てつや）副部長
@@ -1384,14 +1385,14 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [小松宏司](../Page/小松宏司.md "wikilink")（こまつ・こうじ）
   - [小山径](https://ja.wikipedia.org/wiki/小山径 "wikilink")（こやま・けい）
   - [西東大](../Page/西東大.md "wikilink")（さいとう・だい）（SA）
-  - [坂梨哲士](../Page/坂梨哲士.md "wikilink")（さかなし・てつし）
+  - [坂梨哲士](../Page/坂梨哲士.md "wikilink")（さかなし・てつし）(CA)
   - [佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink") (ささお・よしのり)
   - [里匠](../Page/里匠.md "wikilink")（さと・たくみ）副部長
   - [佐藤克樹](https://ja.wikipedia.org/wiki/佐藤克樹 "wikilink")（さとう・かつき）
   - [佐藤誠太](https://ja.wikipedia.org/wiki/佐藤誠太 "wikilink")（さとう・せいた）
   - [沢田石和樹](https://ja.wikipedia.org/wiki/沢田石和樹 "wikilink") (さわだいし・かずき)
   - [三條雅幸](../Page/三條雅幸.md "wikilink")（さんじょう・まさゆき）
-  - [三瓶宏志](../Page/三瓶宏志.md "wikilink")（さんべ・こうし）
+  - [三瓶宏志](../Page/三瓶宏志.md "wikilink")（さんべ・こうし）(CA)
   - [塩屋紀克](../Page/塩屋紀克.md "wikilink")（しおや・ただよし）（SA）
   - [塩田慎二](https://ja.wikipedia.org/wiki/塩田慎二 "wikilink")（しおだ・しんじ）
   - [白鳥哲也](https://ja.wikipedia.org/wiki/白鳥哲也_\(アナウンサー\) "wikilink")（しらとり・てつや）
@@ -1433,7 +1434,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [森田洋平](https://ja.wikipedia.org/wiki/森田洋平_\(アナウンサー\) "wikilink")（もりた・ようへい）
   - [山田賢治](https://ja.wikipedia.org/wiki/山田賢治 "wikilink")（やまだ・けんじ）（SA）
   - [吉田浩](https://ja.wikipedia.org/wiki/吉田浩_\(アナウンサー\) "wikilink")（よしだ・ひろし）（SA）
-  - [渡辺憲司](../Page/渡辺憲司.md "wikilink")（わたなべ・けんじ）
+  - [渡辺憲司](../Page/渡辺憲司.md "wikilink")（わたなべ・けんじ）(CA)
   - [渡辺健太](https://ja.wikipedia.org/wiki/渡辺健太 "wikilink")（わたなべ・けんた）
 
 #### 女性
@@ -1451,7 +1452,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [小野文恵](https://ja.wikipedia.org/wiki/小野文恵 "wikilink")（おの・ふみえ）（CA）
   - [鹿島綾乃](../Page/鹿島綾乃.md "wikilink")（かしま・あやの）（SA）
   - [片山千恵子](https://ja.wikipedia.org/wiki/片山千恵子 "wikilink")（かたやま・ちえこ）（産休）
-  - [兼清麻美](../Page/兼清麻美.md "wikilink")（かねきよ・あさみ）（SA）
+  - [兼清麻美](../Page/兼清麻美.md "wikilink")（かねきよ・あさみ）（CA）
   - [鎌倉千秋](../Page/鎌倉千秋.md "wikilink")（かまくら・ちあき）
   - [上條倫子](../Page/上條倫子.md "wikilink")（かみじょう・のりこ）
   - [久保田祐佳](../Page/久保田祐佳.md "wikilink")（くぼた・ゆか）
@@ -1459,7 +1460,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [小郷知子](../Page/小郷知子.md "wikilink")（こごう・ともこ）（産休）
   - [合原明子](https://ja.wikipedia.org/wiki/合原明子 "wikilink")（ごうばる・あきこ）
   - [澤田彩香](https://ja.wikipedia.org/wiki/澤田彩香 "wikilink")（さわだ・あやか）
-  - [柴田祐規子](../Page/柴田祐規子.md "wikilink")（しばた・ゆきこ）（SA）
+  - [柴田祐規子](../Page/柴田祐規子.md "wikilink")（しばた・ゆきこ）（CA）
   - [杉浦友紀](../Page/杉浦友紀.md "wikilink")（すぎうら・ゆき）
   - [鈴木奈穂子](../Page/鈴木奈穂子.md "wikilink")（すずき・なおこ）（産休）
   - [副島萌生](https://ja.wikipedia.org/wiki/副島萌生 "wikilink")（そえじま・めい）
@@ -1486,11 +1487,11 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 ##### 男性
 
-  - [秋山浩志](../Page/秋山浩志.md "wikilink")
-  - [藤井康生](../Page/藤井康生.md "wikilink")
-  - [杉原満](../Page/杉原満.md "wikilink")
-  - [福澤浩行](../Page/福澤浩行.md "wikilink")
-  - [森中直樹](../Page/森中直樹.md "wikilink")
+  - [秋山浩志](../Page/秋山浩志.md "wikilink")(あきやま・ひろし)
+  - [藤井康生](../Page/藤井康生.md "wikilink")(ふじい・やすお)
+  - [杉原満](../Page/杉原満.md "wikilink")(すぎはら・みつる)
+  - [福澤浩行](../Page/福澤浩行.md "wikilink")(ふくざわ・ひろゆき)
+  - [森中直樹](../Page/森中直樹.md "wikilink")(もりなか・なおき)
 
 ### ラジオセンター
 
@@ -1507,49 +1508,49 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 #### 女性
 
-  - [石井かおる](../Page/石井かおる.md "wikilink")（いしい・かおる）（SA）
-  - [武内陶子](../Page/武内陶子.md "wikilink")（たけうち・とうこ）（SA）
+  - [石井かおる](../Page/石井かおる.md "wikilink")（いしい・かおる）（CA）
+  - [武内陶子](../Page/武内陶子.md "wikilink")（たけうち・とうこ）（CA）
   - [村上里和](../Page/村上里和.md "wikilink")（むらかみ・さとわ）
   - [山本志保](../Page/山本志保.md "wikilink")（やまもと・しほ）
 
 ##### 嘱託職
 
-  - [内藤啓史](../Page/内藤啓史.md "wikilink")
+  - [内藤啓史](../Page/内藤啓史.md "wikilink")(ないとう・けいし)
 
 ##### シニアスタッフ
 
 ###### 男性
 
-  - [明石勇](../Page/明石勇.md "wikilink")
-  - [朝妻基祐](https://ja.wikipedia.org/wiki/朝妻基祐 "wikilink")
-  - [新井成吉](https://ja.wikipedia.org/wiki/新井成吉 "wikilink")
-  - [石澤典夫](../Page/石澤典夫.md "wikilink")
-  - [石平光男](https://ja.wikipedia.org/wiki/石平光男 "wikilink")
-  - [伊藤征一](https://ja.wikipedia.org/wiki/伊藤征一 "wikilink")
-  - [小野卓司](../Page/小野卓司.md "wikilink")
-  - [加治章](https://ja.wikipedia.org/wiki/加治章 "wikilink")
-  - [川野一宇](../Page/川野一宇.md "wikilink")
-  - [岸田高佳司](https://ja.wikipedia.org/wiki/岸田高佳司 "wikilink")
-  - [工藤三郎](../Page/工藤三郎.md "wikilink")
-  - [児玉士誠](https://ja.wikipedia.org/wiki/児玉士誠 "wikilink")
-  - [佐塚元章](../Page/佐塚元章.md "wikilink")
-  - [末田正雄](../Page/末田正雄.md "wikilink")
-  - [鈴木桂一郎](../Page/鈴木桂一郎.md "wikilink")
-  - [寺田道雄](https://ja.wikipedia.org/wiki/寺田道雄 "wikilink")
-  - [徳田章](../Page/徳田章.md "wikilink")
-  - [中村昇](https://ja.wikipedia.org/wiki/中村昇 "wikilink")
-  - [二宮正博](../Page/二宮正博.md "wikilink")
-  - [野口博康](../Page/野口博康.md "wikilink")
-  - [松本一路](../Page/松本一路.md "wikilink")
-  - [山下信](../Page/山下信.md "wikilink")
-  - [横山義恭](https://ja.wikipedia.org/wiki/横山義恭 "wikilink")
+  - [明石勇](../Page/明石勇.md "wikilink")(あかし・いさむ)
+  - [朝妻基祐](https://ja.wikipedia.org/wiki/朝妻基祐 "wikilink")(あさづま・もとすけ)
+  - [新井成吉](https://ja.wikipedia.org/wiki/新井成吉 "wikilink")(あらい・しげよし)
+  - [石澤典夫](../Page/石澤典夫.md "wikilink")(いしざわ・のりお)
+  - [石平光男](https://ja.wikipedia.org/wiki/石平光男 "wikilink")(いしひら・みつお)
+  - [伊藤征一](https://ja.wikipedia.org/wiki/伊藤征一 "wikilink")(いとう・せいいち)
+  - [小野卓司](../Page/小野卓司.md "wikilink")(おの・たくし)
+  - [加治章](https://ja.wikipedia.org/wiki/加治章 "wikilink")(かじ・あきら)
+  - [川野一宇](../Page/川野一宇.md "wikilink")(かわの・かずいえ)
+  - [岸田高佳司](https://ja.wikipedia.org/wiki/岸田高佳司 "wikilink")(きしだ・たかし)
+  - [工藤三郎](../Page/工藤三郎.md "wikilink")(くどう・さぶろう)
+  - [児玉士誠](https://ja.wikipedia.org/wiki/児玉士誠 "wikilink")(こだま・しせい)
+  - [佐塚元章](../Page/佐塚元章.md "wikilink")(さづか・もとあき)
+  - [末田正雄](../Page/末田正雄.md "wikilink")(すえだ・まさお)
+  - [鈴木桂一郎](../Page/鈴木桂一郎.md "wikilink")(すずき・けいいちろう)
+  - [寺田道雄](https://ja.wikipedia.org/wiki/寺田道雄 "wikilink")(てらだ・みちお)
+  - [徳田章](../Page/徳田章.md "wikilink")(とくだ・あきら)
+  - [中村昇](https://ja.wikipedia.org/wiki/中村昇 "wikilink")(なかむら・のぼる)
+  - [二宮正博](../Page/二宮正博.md "wikilink")(にのみや・まさひろ)
+  - [野口博康](../Page/野口博康.md "wikilink")(のぐち・ひろやす)
+  - [松本一路](../Page/松本一路.md "wikilink")(まつもと・いちろ)
+  - [山下信](../Page/山下信.md "wikilink")(やました・まこと)
+  - [横山義恭](https://ja.wikipedia.org/wiki/横山義恭 "wikilink")(よこやま・よしやす)
 
 ###### 女性
 
-  - [遠藤ふき子](../Page/遠藤ふき子.md "wikilink")
-  - [栗田敦子](https://ja.wikipedia.org/wiki/栗田敦子 "wikilink")
-  - [桜井洋子](../Page/桜井洋子.md "wikilink")
-  - [迎康子](../Page/迎康子.md "wikilink")
+  - [遠藤ふき子](../Page/遠藤ふき子.md "wikilink")(えんどう・ふきこ)
+  - [栗田敦子](https://ja.wikipedia.org/wiki/栗田敦子 "wikilink")(くりた・あつこ)
+  - [桜井洋子](../Page/桜井洋子.md "wikilink")(さくらい・ようこ)
+  - [迎康子](../Page/迎康子.md "wikilink")(むかい・やすこ)
 
 ### NHK放送研修センター・日本語センター出向
 
@@ -1560,7 +1561,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [小林孝司](../Page/小林孝司.md "wikilink")（こばやし・たかし）（SA）
   - [近藤敏之](../Page/近藤敏之.md "wikilink")（こんどう・としゆき）（SA）
   - [鈴木健一](../Page/鈴木健一_\(アナウンサー\).md "wikilink")（すずき・けんいち）（SA）
-  - [武田涼介](../Page/武田涼介.md "wikilink")（たけだ・りょうすけ）
+  - [武田涼介](../Page/武田涼介.md "wikilink")（たけだ・りょうすけ）(CA)
   - [根岸昌史](https://ja.wikipedia.org/wiki/根岸昌史 "wikilink")（ねぎし・まさふみ） (SA)
   - [野村正育](../Page/野村正育.md "wikilink")（のむら・まさいく） (EA)
   - [畠山智之](../Page/畠山智之.md "wikilink")（はたけやま・さとし）(EA)
@@ -1576,14 +1577,14 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 男性
 
-  - [黒沢保裕](../Page/黒沢保裕.md "wikilink")
-  - [道谷眞平](../Page/道谷眞平.md "wikilink")
-  - [山本哲也](../Page/山本哲也_\(アナウンサー\).md "wikilink")（EA）
-  - [芳野潔](https://ja.wikipedia.org/wiki/芳野潔 "wikilink")
+  - [黒沢保裕](../Page/黒沢保裕.md "wikilink")(くろさわ・やすひろ)
+  - [道谷眞平](../Page/道谷眞平.md "wikilink")(みちや・しんぺい)
+  - [山本哲也](../Page/山本哲也_\(アナウンサー\).md "wikilink")(やまもと・てつや)（EA）
+  - [芳野潔](https://ja.wikipedia.org/wiki/芳野潔 "wikilink")(よしの・きよし)
 
 女性
 
-  - [山田敦子](../Page/山田敦子.md "wikilink")（EA）
+  - [山田敦子](../Page/山田敦子.md "wikilink")(やまだ・あつこ)（EA）
 
 ### NHKグローバルメディアサービス出向
 
@@ -1595,23 +1596,26 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [高木修平](../Page/高木修平.md "wikilink")（たかぎ・しゅうへい）
   - [竹林宏](../Page/竹林宏.md "wikilink")（たけばやし・ひろし） 統括
   - [田中秀樹](../Page/田中秀樹.md "wikilink")（たなか・ひでき）
-  - [吉田賢](../Page/吉田賢.md "wikilink")（よしだ・まさる） (SA)
+
+嘱託
+
+  - [吉田賢](../Page/吉田賢.md "wikilink")（よしだ・まさる） 嘱託
 
 ### 首都圏放送センター契約
 
-  - [井上朋子](https://ja.wikipedia.org/wiki/井上朋子_\(キャスター\) "wikilink")
-  - [角田京子](../Page/角田京子.md "wikilink")
-  - [勝田真季](https://ja.wikipedia.org/wiki/勝田真季 "wikilink")
-  - [上條麻里奈](https://ja.wikipedia.org/wiki/上條麻里奈 "wikilink")
-  - [佐伯桃子](https://ja.wikipedia.org/wiki/佐伯桃子 "wikilink")
-  - [清水明花](https://ja.wikipedia.org/wiki/清水明花 "wikilink")
-  - [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")
-  - [竹澤知位子](https://ja.wikipedia.org/wiki/竹澤知位子 "wikilink")
-  - [田中里香](https://ja.wikipedia.org/wiki/田中里香 "wikilink")
-  - [内藤真紀](https://ja.wikipedia.org/wiki/内藤真紀 "wikilink")
-  - [西村美月](../Page/西村美月.md "wikilink")
-  - [松尾衣里子](https://ja.wikipedia.org/wiki/松尾衣里子 "wikilink")
-  - [森園有里](https://ja.wikipedia.org/wiki/森園有里 "wikilink")
+  - [井上朋子](https://ja.wikipedia.org/wiki/井上朋子_\(キャスター\) "wikilink")(いのうえ・ともこ)
+  - [角田京子](../Page/角田京子.md "wikilink")(かくた・きょうこ)
+  - [勝田真季](https://ja.wikipedia.org/wiki/勝田真季 "wikilink")(かつた・まき)
+  - [上條麻里奈](https://ja.wikipedia.org/wiki/上條麻里奈 "wikilink")(かみじょう・まりな)
+  - [佐伯桃子](https://ja.wikipedia.org/wiki/佐伯桃子 "wikilink")(さえき・ももこ)
+  - [清水明花](https://ja.wikipedia.org/wiki/清水明花 "wikilink")(しみず・さやか)
+  - [菅野真美恵](https://ja.wikipedia.org/wiki/菅野真美恵 "wikilink")(すがの・まみえ)
+  - [竹澤知位子](https://ja.wikipedia.org/wiki/竹澤知位子 "wikilink")(たけざわ・ちいこ)
+  - [田中里香](https://ja.wikipedia.org/wiki/田中里香 "wikilink")(たなか・さとか)
+  - [内藤真紀](https://ja.wikipedia.org/wiki/内藤真紀 "wikilink")(ないとう・まき)
+  - [西村美月](../Page/西村美月.md "wikilink")(にしむら・みづき)
+  - [松尾衣里子](https://ja.wikipedia.org/wiki/松尾衣里子 "wikilink")(まつお・えりこ)
+  - [森園有里](https://ja.wikipedia.org/wiki/森園有里 "wikilink")(もりぞの・ゆり)
 
 ## 本部直轄のNHK放送局
 

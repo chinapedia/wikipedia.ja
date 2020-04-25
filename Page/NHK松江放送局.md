@@ -11,6 +11,7 @@
   - [1932年](../Page/1932年.md "wikilink")（昭和7年）[3月7日](../Page/3月7日.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会松江放送局**開局。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - 総合テレビ放送開始。
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年）[12月28日](../Page/12月28日.md "wikilink") - 教育テレビ放送開始。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月1日](../Page/10月1日.md "wikilink") - 地上デジタル放送開始。
   - [2007年](../Page/2007年.md "wikilink")（平成19年） - 開局75周年記念ドラマ『[先生の秘密](https://ja.wikipedia.org/wiki/先生の秘密 "wikilink")』を制作。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
@@ -220,7 +221,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/吉本美咲" title="wikilink">吉本美咲</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山口音々" title="wikilink">山口音々</a></p></td>
 <td></td>
 <td><p>しまねっとNEWS610<br />
 （キャスター）</p></td>
@@ -245,12 +246,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/菊地彩希" title="wikilink">菊地彩希</a></p></td>
 <td></td>
 <td><p>しまねっとNEWS610<br />
-（スポーツ）</p></td>
+（スポーツキャスター）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/本田久子" title="wikilink">本田久子</a></p></td>
 <td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
-<td><p>ラジオニュースなど</p></td>
+<td><p>島根県のニュース<br />
+（ラジオ）</p></td>
 </tr>
 <tr class="odd">
 <td><p>気象予報士</p></td>

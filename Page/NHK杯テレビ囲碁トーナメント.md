@@ -151,6 +151,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
   - かつては[将棋のNHK杯同様畳敷きの和室のスタジオセットの上に座って対局が行なわれたが](../Page/NHK杯テレビ将棋トーナメント.md "wikilink")、第45回（1997年度）より世界戦に合わせ、椅子対局に変更された。なお、対局に使われるテーブルは、通常の六寸盤をはめ込むための穴が開けてある特殊な物である。
   - 画面では黒番の対局者が左側、白番の対局者が右側に来る様になっている。
   - 第61回（2013年度）から、「私の一手」というコーナーがある。対局の放送終了後、勝ったほうの対局者が解説用の碁盤に石を並べ、勝利につながった手や、自分がいい手だったと思った自分の手を紹介する。
+  - 第68回（[2020年](../Page/2020年.md "wikilink")度）から、字幕放送を実施する。
 
 ### 決勝戦
 
@@ -211,8 +212,8 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 
 ## 外部リンク
 
+  - [NHK杯テレビ囲碁トーナメント - NHK](https://www.nhk.jp/p/ts/G7WX83J38K/)
   - [対局予定・結果 - NHK囲碁 - NHK](https://www.nhk.or.jp/goshogi/igo/)
-  - [番組情報 囲碁トーナメント - NHK囲碁 - NHK](https://www4.nhk.or.jp/igo/22/)
 
 [Category:日本の囲碁の棋戦](https://ja.wikipedia.org/wiki/Category:日本の囲碁の棋戦 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:囲碁・将棋の番組](https://ja.wikipedia.org/wiki/Category:囲碁・将棋の番組 "wikilink")
 

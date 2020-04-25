@@ -280,7 +280,7 @@
 
 ## テレビ
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2011年5月9日）出演
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2011年5月9日）出演
   - [FNS歌謡祭 うたの夏まつり2011](https://ja.wikipedia.org/wiki/FNS歌謡祭_うたの夏まつり2011 "wikilink")（フジテレビ、2011年8月6日）出演
   - [2011 FNS歌謡祭](https://ja.wikipedia.org/wiki/2011_FNS歌謡祭 "wikilink")（フジテレビ、2011年12月7日）出演
   - [2018 FNS歌謡祭](https://ja.wikipedia.org/wiki/2018_FNS歌謡祭 "wikilink") 第2夜（フジテレビ、2018年12月12日）出演

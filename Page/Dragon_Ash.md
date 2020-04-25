@@ -101,65 +101,108 @@
 
 ## 来歴
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
-      - [2月21日](../Page/2月21日.md "wikilink")、ミニ・アルバム『[The day dragged on](https://ja.wikipedia.org/wiki/The_day_dragged_on "wikilink")』で[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
-      - [10月22日](../Page/10月22日.md "wikilink")、1stシングル「[Rainy Day And Day](https://ja.wikipedia.org/wiki/Rainy_Day_And_Day "wikilink")」を発売。
-      - [11月21日](../Page/11月21日.md "wikilink")、1stアルバム『[Mustang\!](https://ja.wikipedia.org/wiki/Mustang! "wikilink")』を発売。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
-      - [9月2日](../Page/9月2日.md "wikilink")、2ndアルバム『[Buzz Songs](https://ja.wikipedia.org/wiki/Buzz_Songs "wikilink")』を発売。発売当時はランキング上位にならなかったが、99年のブレイクによってロングヒットし70万枚を超える売り上げを記録。
-  - [1999年](../Page/1999年.md "wikilink")
-      - サポートメンバーであった*BOTS*が正式加入。
-      - [3月3日](../Page/3月3日.md "wikilink")に発売した4thシングル「[Let yourself go, Let myself go](../Page/Let_yourself_go,_Let_myself_go.md "wikilink")」が70万枚近くの売り上げを記録。
-      - [5月1日](../Page/5月1日.md "wikilink")、5thシングル「[Grateful Days](../Page/Grateful_Days.md "wikilink")」、6thシングル「[I LOVE HIP HOP](../Page/I_LOVE_HIP_HOP.md "wikilink")」を同時リリース。「Grateful Days」はバンド初のオリコン1位を記録し、売り上げ枚数も約90万枚を記録。
-      - [7月23日](../Page/7月23日.md "wikilink")、3rdアルバム『[Viva La Revolution](../Page/Viva_La_Revolution.md "wikilink")』を発売。約180万枚の売り上げを記録し、アルバムでは初めてオリコン1位を獲得。
-  - [2001年](../Page/2001年.md "wikilink")
-      - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、4thアルバム『[LILY OF DA VALLEY](../Page/LILY_OF_DA_VALLEY.md "wikilink")』を発売。80万枚を超える売り上げを記録。
-  - [2002年](../Page/2002年.md "wikilink")
-      - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、10thシングル「[Life goes on](../Page/Life_goes_on_\(Dragon_Ashの曲\).md "wikilink")」を発売。オリコン週間ランキング2週連続1位を記録する。売り上げ枚数約80万枚で年間シングルセールス4位になる。
-  - [2003年](../Page/2003年.md "wikilink")
-      - 以前からのサポート・メンバーであった*HIROKI*と*DRI-V*、*ATSUSHI*がメンバーとして正式加入。
-      - [3月3日](../Page/3月3日.md "wikilink")、新レーベル**MOB SQUAD**を設立。
-      - [7月23日](../Page/7月23日.md "wikilink")、5thアルバム『[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")』を発売。オリコン1位を獲得。
-  - [2005年](../Page/2005年.md "wikilink")
-      - [9月7日](../Page/9月7日.md "wikilink")、6thアルバム『[Río de Emoción](https://ja.wikipedia.org/wiki/Río_de_Emoción "wikilink")』を発売。オリコン1位を獲得。
-  - [2006年](../Page/2006年.md "wikilink")
-      - [7月19日](../Page/7月19日.md "wikilink")、これまで発売されたすべてのアルバムが、[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Mora](../Page/Mora.md "wikilink")などにて配信開始される。ただし、アルバム『Viva La Revolution』に収録されている、[Zeebra](../Page/Zeebra.md "wikilink")と共演した「Grateful Days feat. ACO, ZEEBRA」は権利処理がされていないため、配信されていない。
-  - [2007年](../Page/2007年.md "wikilink")
-      - [2月21日](../Page/2月21日.md "wikilink")、7thアルバム『[INDEPENDIENTE](../Page/INDEPENDIENTE.md "wikilink")』を発売。
-      - [9月5日](../Page/9月5日.md "wikilink")、Dragon Ashデビュー10周年を形にした、バンド初のベスト・アルバムを2枚同時発売。
-  - [2009年](../Page/2009年.md "wikilink")
-      - [3月4日](../Page/3月4日.md "wikilink")、8thアルバム『[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(Dragon_Ashのアルバム\) "wikilink")』を発売。アルバム発売を記念してフリーライブが開催された。
-      - [6月10日](../Page/6月10日.md "wikilink")より、シングルが[iTunes Storeにて配信開始](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。ただし「[Grateful Days](../Page/Grateful_Days.md "wikilink")」、「[Summer Tribe](../Page/Summer_Tribe.md "wikilink")」は配信されていない。「[Deep Impact](../Page/Deep_Impact.md "wikilink")」は2012年8月22日より、「[I LOVE HIP HOP](../Page/I_LOVE_HIP_HOP.md "wikilink")」は同年9月19日より配信を開始。
-      - [8月1日](../Page/8月1日.md "wikilink")、バンド初の試みとして、配信限定シングル「[CALLIN'](https://ja.wikipedia.org/wiki/CALLIN' "wikilink")」を[ROCK IN JAPAN FESTIVAL会場内で先行配信](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。5日に一般配信。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
-      - [12月8日](../Page/12月8日.md "wikilink")、9thアルバム『[MIXTURE](https://ja.wikipedia.org/wiki/MIXTURE_\(アルバム\) "wikilink")』を発売。
-  - [2011年](../Page/2011年.md "wikilink")
-      - [12月31日](../Page/12月31日.md "wikilink")、[COUNTDOWN JAPAN 11/12に初出演](../Page/COUNTDOWN_JAPAN.md "wikilink")。同年5月から左腕の「橈骨(とうこつ)神経麻痺」の治療で活動休止していたベーシスト・IKUZONEが復帰。
-  - [2012年](../Page/2012年.md "wikilink")
-      - [4月21日](../Page/4月21日.md "wikilink")、IKUZONEが急性心不全のため死去。
-      - [8月22日](../Page/8月22日.md "wikilink")、デビュー15周年を記念したベストアルバム『[LOUD & PEACE](https://ja.wikipedia.org/wiki/LOUD_&_PEACE "wikilink")』を発売。
-      - [9月19日](../Page/9月19日.md "wikilink")、IKUZONEが最後に携わった24thシングル「[Run to the Sun/Walk with Dreams](https://ja.wikipedia.org/wiki/Run_to_the_Sun/Walk_with_Dreams "wikilink")」を発売。
-  - [2013年](../Page/2013年.md "wikilink")
-      - [5月29日](../Page/5月29日.md "wikilink")、6人体制でのレコーディング以降初のシングルとなる25thシングル「[Here I Am](https://ja.wikipedia.org/wiki/Here_I_Am "wikilink")」を発売。
-  - [2014年](../Page/2014年.md "wikilink")
-      - [1月15日](../Page/1月15日.md "wikilink")、10thアルバム『[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")』を発売。
-      - [5月31日](../Page/5月31日.md "wikilink")、ライブツアー「Dragon Ash Tour 〜THE SHOW MUST GO ON〜」のファイナル公演を、キャリア初となる[日本武道館](../Page/日本武道館.md "wikilink")で開催した\[2\]。
-  - [2015年](../Page/2015年.md "wikilink")
-      - [3月16日](../Page/3月16日.md "wikilink")、[Kjがソロ活動を開始](../Page/降谷建志.md "wikilink")。
-      - [9月26日](../Page/9月26日.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")プレゼンツイベント「**Bowline 2015**」のキュレーターを務め、15年ぶりに「**TMC**」を復活させた\[3\]。
-  - [2016年](../Page/2016年.md "wikilink")
-      - [11月9日](../Page/11月9日.md "wikilink")、3年ぶりのシングルとなる27thシングル「[光りの街](https://ja.wikipedia.org/wiki/光りの街 "wikilink")」を発売。
-  - [2017年](../Page/2017年.md "wikilink")
-      - [2月21日](../Page/2月21日.md "wikilink")、デビュー20周年を迎え、記念配信シングル「[Mix It Up](https://ja.wikipedia.org/wiki/Mix_It_Up "wikilink")」をリリース。
-      - [5月26日](../Page/5月26日.md "wikilink")、結成20年目にして初めて[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演し、「Mix It Up」を披露。
-      - [5月31日](../Page/5月31日.md "wikilink")、3年4か月ぶりの11thアルバム『[MAJESTIC](https://ja.wikipedia.org/wiki/MAJESTIC_\(Dragon_Ashのアルバム\) "wikilink")』を発売。
-  - [2019年](../Page/2019年.md "wikilink")
-      - [7月10日](../Page/7月10日.md "wikilink")、「Red Bull Air Race Chiba 2019」大会テーマ・ソングとして製作された、およそ2年振りとなる新曲「FLY OVER」を配信限定でリリース\[4\]。
-      - [7月19日](../Page/7月19日.md "wikilink")、KenKenが[大麻取締法](../Page/大麻取締法.md "wikilink")違反（[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")所持）容疑で[逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。これを受け、[翌日](../Page/7月20日.md "wikilink")、所属するJVCケンウッド・ビクターエンタテインメントでは、彼が制作に携わった楽曲（音源）が含まれる全作品\[5\]の出荷や配信の全面停止を発表した\[6\]。
-      - [7月24日](../Page/7月24日.md "wikilink")、サポートベーシストとして**T$UYO$HI**（[The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")、[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")）を迎え、今夏のフェスおよびイベントに出演することを発表した\[7\]。
-      - [9月11日](../Page/9月11日.md "wikilink")、配信停止となってしまった新曲「FLY OVER」を、新体制でリレコーディングした「**Fly Over feat. T$UYO$HI**」として再配信。また、ツアー会場限定でCD版も販売。内容は本曲が収録されたCDと、Tシャツをパッケージングしたもの\[8\]。
-      - [11月13日](../Page/11月13日.md "wikilink")、出荷・配信停止となっていた2014年以降の作品の再生産・再配信を開始\[9\]。但し「FLY OVER」のオリジナル版に関しては配信されていない。
-      - [11月18日](../Page/11月18日.md "wikilink")、KenKenが脱退\[10\]。
+### 1997年
+
+  - [2月21日](../Page/2月21日.md "wikilink")、ミニ・アルバム『[The day dragged on](https://ja.wikipedia.org/wiki/The_day_dragged_on "wikilink")』で[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+  - [10月22日](../Page/10月22日.md "wikilink")、1stシングル「[Rainy Day And Day](https://ja.wikipedia.org/wiki/Rainy_Day_And_Day "wikilink")」を発売。
+  - [11月21日](../Page/11月21日.md "wikilink")、1stアルバム『[Mustang\!](https://ja.wikipedia.org/wiki/Mustang! "wikilink")』を発売。
+
+### 1998年
+
+  - [9月2日](../Page/9月2日.md "wikilink")、2ndアルバム『[Buzz Songs](https://ja.wikipedia.org/wiki/Buzz_Songs "wikilink")』を発売。発売当時はランキング上位にならなかったが、99年のブレイクによってロングヒットし70万枚を超える売り上げを記録。
+
+### 1999年
+
+  - サポートメンバーであった*BOTS*が正式加入。
+  - [3月3日](../Page/3月3日.md "wikilink")に発売した4thシングル「[Let yourself go, Let myself go](../Page/Let_yourself_go,_Let_myself_go.md "wikilink")」が70万枚近くの売り上げを記録。
+  - [5月1日](../Page/5月1日.md "wikilink")、5thシングル「[Grateful Days](../Page/Grateful_Days.md "wikilink")」、6thシングル「[I LOVE HIP HOP](../Page/I_LOVE_HIP_HOP.md "wikilink")」を同時リリース。「Grateful Days」はバンド初のオリコン1位を記録し、売り上げ枚数も約90万枚を記録。
+  - [7月23日](../Page/7月23日.md "wikilink")、3rdアルバム『[Viva La Revolution](../Page/Viva_La_Revolution.md "wikilink")』を発売。約180万枚の売り上げを記録し、アルバムでは初めてオリコン1位を獲得。
+
+### 2001年
+
+  - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、4thアルバム『[LILY OF DA VALLEY](../Page/LILY_OF_DA_VALLEY.md "wikilink")』を発売。80万枚を超える売り上げを記録。
+
+### 2002年
+
+  - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、10thシングル「[Life goes on](../Page/Life_goes_on_\(Dragon_Ashの曲\).md "wikilink")」を発売。オリコン週間ランキング2週連続1位を記録する。売り上げ枚数約80万枚で年間シングルセールス4位になる。
+
+### 2003年
+
+  - 以前からのサポート・メンバーであった*HIROKI*と*DRI-V*、*ATSUSHI*がメンバーとして正式加入。
+  - [3月3日](../Page/3月3日.md "wikilink")、新レーベル**MOB SQUAD**を設立。
+  - [7月23日](../Page/7月23日.md "wikilink")、5thアルバム『[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")』を発売。オリコン1位を獲得。
+
+### 2005年
+
+  - [9月7日](../Page/9月7日.md "wikilink")、6thアルバム『[Río de Emoción](https://ja.wikipedia.org/wiki/Río_de_Emoción "wikilink")』を発売。オリコン1位を獲得。
+
+### 2006年
+
+  - [7月19日](../Page/7月19日.md "wikilink")、これまで発売されたすべてのアルバムが、[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Mora](../Page/Mora.md "wikilink")などにて配信開始される。ただし、アルバム『Viva La Revolution』に収録されている、[Zeebra](../Page/Zeebra.md "wikilink")と共演した「Grateful Days feat. ACO, ZEEBRA」は権利処理がされていないため、配信されていない。
+
+### 2007年
+
+  - [2月21日](../Page/2月21日.md "wikilink")、7thアルバム『[INDEPENDIENTE](../Page/INDEPENDIENTE.md "wikilink")』を発売。
+  - [9月5日](../Page/9月5日.md "wikilink")、Dragon Ashデビュー10周年を形にした、バンド初のベスト・アルバムを2枚同時発売。
+
+### 2009年
+
+  - [3月4日](../Page/3月4日.md "wikilink")、8thアルバム『[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(Dragon_Ashのアルバム\) "wikilink")』を発売。アルバム発売を記念してフリーライブが開催された。
+  - [6月10日](../Page/6月10日.md "wikilink")より、シングルが[iTunes Storeにて配信開始](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。ただし「[Grateful Days](../Page/Grateful_Days.md "wikilink")」、「[Summer Tribe](../Page/Summer_Tribe.md "wikilink")」は配信されていない。「[Deep Impact](../Page/Deep_Impact.md "wikilink")」は2012年8月22日より、「[I LOVE HIP HOP](../Page/I_LOVE_HIP_HOP.md "wikilink")」は同年9月19日より配信を開始。
+  - [8月1日](../Page/8月1日.md "wikilink")、バンド初の試みとして、配信限定シングル「[CALLIN'](https://ja.wikipedia.org/wiki/CALLIN' "wikilink")」を[ROCK IN JAPAN FESTIVAL会場内で先行配信](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。5日に一般配信。
+
+### 2010年
+
+  - [12月8日](../Page/12月8日.md "wikilink")、9thアルバム『[MIXTURE](https://ja.wikipedia.org/wiki/MIXTURE_\(アルバム\) "wikilink")』を発売。
+
+### 2011年
+
+  - [12月31日](../Page/12月31日.md "wikilink")、[COUNTDOWN JAPAN 11/12に初出演](../Page/COUNTDOWN_JAPAN.md "wikilink")。同年5月から左腕の「橈骨(とうこつ)神経麻痺」の治療で活動休止していたベーシスト・IKUZONEが復帰。
+
+### 2012年
+
+  - [4月21日](../Page/4月21日.md "wikilink")、IKUZONEが急性心不全のため死去。
+  - [8月22日](../Page/8月22日.md "wikilink")、デビュー15周年を記念したベストアルバム『[LOUD & PEACE](https://ja.wikipedia.org/wiki/LOUD_&_PEACE "wikilink")』を発売。
+  - [9月19日](../Page/9月19日.md "wikilink")、IKUZONEが最後に携わった24thシングル「[Run to the Sun/Walk with Dreams](https://ja.wikipedia.org/wiki/Run_to_the_Sun/Walk_with_Dreams "wikilink")」を発売。
+
+### 2013年
+
+  - [5月29日](../Page/5月29日.md "wikilink")、6人体制でのレコーディング以降初のシングルとなる25thシングル「[Here I Am](https://ja.wikipedia.org/wiki/Here_I_Am "wikilink")」を発売。
+
+### 2014年
+
+  - [1月15日](../Page/1月15日.md "wikilink")、10thアルバム『[THE FACES](https://ja.wikipedia.org/wiki/THE_FACES_\(Dragon_Ashのアルバム\) "wikilink")』を発売。
+  - [5月31日](../Page/5月31日.md "wikilink")、ライブツアー「Dragon Ash Tour 〜THE SHOW MUST GO ON〜」のファイナル公演を、キャリア初となる[日本武道館](../Page/日本武道館.md "wikilink")で開催した\[2\]。
+
+### 2015年
+
+  - [3月16日](../Page/3月16日.md "wikilink")、[Kjがソロ活動を開始](../Page/降谷建志.md "wikilink")。
+  - [9月26日](../Page/9月26日.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")プレゼンツイベント「**Bowline 2015**」のキュレーターを務め、15年ぶりに「**TMC**」を復活させた\[3\]。
+
+### 2016年
+
+  - [11月9日](../Page/11月9日.md "wikilink")、3年ぶりのシングルとなる27thシングル「[光りの街](https://ja.wikipedia.org/wiki/光りの街 "wikilink")」を発売。
+
+### 2017年
+
+  - [2月21日](../Page/2月21日.md "wikilink")、デビュー20周年を迎え、記念配信シングル「[Mix It Up](https://ja.wikipedia.org/wiki/Mix_It_Up "wikilink")」をリリース。
+  - [5月26日](../Page/5月26日.md "wikilink")、結成20年目にして初めて[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演し、「Mix It Up」を披露。
+  - [5月31日](../Page/5月31日.md "wikilink")、3年4か月ぶりの11thアルバム『[MAJESTIC](https://ja.wikipedia.org/wiki/MAJESTIC_\(Dragon_Ashのアルバム\) "wikilink")』を発売。
+
+### 2019年
+
+  - [7月10日](../Page/7月10日.md "wikilink")、「Red Bull Air Race Chiba 2019」大会テーマ・ソングとして製作された、およそ2年振りとなる新曲「FLY OVER」を配信限定でリリース\[4\]。
+  - [7月19日](../Page/7月19日.md "wikilink")、KenKenが[大麻取締法](../Page/大麻取締法.md "wikilink")違反（[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")所持）容疑で[逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。これを受け、[翌日](../Page/7月20日.md "wikilink")、所属するJVCケンウッド・ビクターエンタテインメントでは、彼が制作に携わった楽曲（音源）が含まれる全作品\[5\]の出荷や配信の全面停止を発表した\[6\]。
+  - [7月24日](../Page/7月24日.md "wikilink")、サポートベーシストとして**T$UYO$HI**（[The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")、[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")）を迎え、今夏のフェスおよびイベントに出演することを発表した\[7\]。
+  - [9月11日](../Page/9月11日.md "wikilink")、配信停止となってしまった新曲「FLY OVER」を、新体制でリレコーディングした「**Fly Over feat. T$UYO$HI**」として再配信。また、ツアー会場限定でCD版も販売。内容は本曲が収録されたCDと、Tシャツをパッケージングしたもの\[8\]。
+  - [11月13日](../Page/11月13日.md "wikilink")、出荷・配信停止となっていた2014年以降の作品の再生産・再配信を開始\[9\]。但し「FLY OVER」のオリジナル版に関しては配信されていない。
+  - [11月18日](../Page/11月18日.md "wikilink")、KenKenが脱退\[10\]。
+
+### 2020年
+
+  - [2月21日](../Page/2月21日.md "wikilink")、300を超える楽曲のストリーミング配信開始<ref>
+
+</ref>\[11\]\[12\]\[13\]\[14\]
 
 ## ディスコグラフィー
 
@@ -181,11 +224,11 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[11]</p></td>
+[15]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100" title="wikilink">Billboard<br />
 Japan<br />
 Hot 100</a><br />
-[12]</p></td>
+[16]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -456,7 +499,7 @@ Hot 100</a><br />
 <td><p>VICL-36618 (CD)</p></td>
 <td><p>9位</p></td>
 <td><p>95位<br />
-[13]</p></td>
+[17]</p></td>
 </tr>
 <tr class="odd">
 <td><p>VICL-36619 (CD)</p></td>
@@ -631,7 +674,7 @@ Hot 100</a><br />
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[14]</p></td>
+[18]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Billboard_JAPAN" title="wikilink">Billboard<br />
 Japan<br />
 Hot Albums</a><br />
@@ -806,7 +849,7 @@ Hot Albums</a><br />
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[15]</p></td>
+[19]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -863,7 +906,7 @@ Hot Albums</a><br />
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a><br />
-[16][17]</p></td>
+[20][21]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1651,7 +1694,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
 
 ### ウェブテレビ
 
-  - [（株）サク・コウイチ・サンブの木曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2017年11月10日 - 12月1日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）\[18\]櫻井のみ出演
+  - [（株）サク・コウイチ・サンブの木曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2017年11月10日 - 12月1日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）\[22\]櫻井のみ出演
 
 ## 脚注
 
@@ -1675,8 +1718,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
 
 ## 外部リンク
 
-  - [Dragon Ash Official Website](https://www.dragonash.co.jp/) - 公式ウェブサイト
-
+  -
   - [Dragon Ash モバイル](http://dragonash.jp/) - 公式モバイルサイト
 
   - [Dragon Ash jvcmusic.co.jp](https://www.jvcmusic.co.jp/-/Artist/A008570.html) - ビクターエンタテインメントによる公式ページ
@@ -1691,8 +1733,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
 
   - [桜井誠携帯ブログ](http://mbga.jp/_u?u=14394951)
 
-  - [Dragon Ash桜井誠オフィシャルブログ「桜井食堂」](https://ameblo.jp/dragonash-saku/)
-
+  -
   -
   -
   - (更新停止)
@@ -1700,10 +1741,10 @@ At BUDOKAN May 31, 2014</strong></p></td>
   -
   - [Dragon Ash cameran公式アカウント](http://cameran.in/dlt/da/)
 
-  - [DRI-V Instagram](https://www.instagram.com/dri_v_dance/)@dri_v_dance-Instagramアカウント-
-
-  - [DRI-V DANCE SCHOOL](https://www.facebook.com/pages/DRI-V%E3%81%8C%E5%AE%9F%E9%9A%9B%E3%81%AB%E6%8C%87%E5%B0%8E%E3%81%99%E3%82%8B%E3%83%80%E3%83%B3%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB/292330157535238)Facebookページ
-
+  -
+  -
+  -
+  -
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:オルタナティヴ・メタル・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・メタル・バンド "wikilink") [Category:ニュー・メタル・バンド](https://ja.wikipedia.org/wiki/Category:ニュー・メタル・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  [Dragon Ash よりお知らせ](http://www.dragonash.co.jp/info/detail/?nid=225)
@@ -1716,11 +1757,15 @@ At BUDOKAN May 31, 2014</strong></p></td>
 8.
 9.
 10.
-11. [Dragon Ashのシングル作品](http://www.oricon.co.jp/prof/7046/products/single/) オリコン
-12. [Dragon Ash - Chart History](http://www.billboard.com/artist/5878942/dragon-ash/chart) Billboard
-13. "ROCK BAND"のチャート最高位。
-14. [Dragon Ashのアルバム作品](http://www.oricon.co.jp/prof/7046/products/album/) オリコン
-15.
-16. [Dragon AshのDVD作品](http://www.oricon.co.jp/prof/7046/products/dvd/) オリコン
-17. [Dragon AshのBlu-ray作品](http://www.oricon.co.jp/prof/7046/products/Blu-ray/) オリコン
-18.
+11.
+12.
+13.
+14.
+15. [Dragon Ashのシングル作品](http://www.oricon.co.jp/prof/7046/products/single/) オリコン
+16. [Dragon Ash - Chart History](http://www.billboard.com/artist/5878942/dragon-ash/chart) Billboard
+17. "ROCK BAND"のチャート最高位。
+18. [Dragon Ashのアルバム作品](http://www.oricon.co.jp/prof/7046/products/album/) オリコン
+19.
+20. [Dragon AshのDVD作品](http://www.oricon.co.jp/prof/7046/products/dvd/) オリコン
+21. [Dragon AshのBlu-ray作品](http://www.oricon.co.jp/prof/7046/products/Blu-ray/) オリコン
+22.

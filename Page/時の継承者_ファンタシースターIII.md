@@ -1,7 +1,7 @@
 > この記事は[時の継承者 ファンタシースターIII](https://ja.wikipedia.org/wiki/時の継承者_ファンタシースターIII)から翻訳されています。
 
 
-『**時の継承者 ファンタシースターIII**』（ときのけいしょうしゃ ファンタシースタースリー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。日本国外版のタイトルは『*Phantasy Star III: Generations of Doom*』。なお、「時の継承者」が主題で「ファンタシースターIII」は副題である。
+『**時の継承者 ファンタシースターIII**』（ときのけいしょうしゃ ファンタシースタースリー）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に日本の[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")から発売された[メガドライブ](../Page/メガドライブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。日本国外版のタイトルは『*Phantasy Star III: Generations of Doom*』。なお、「時の継承者」が主題で「ファンタシースターIII」は副題である。
 
 同社の『[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")』の第3作目。主人公のケイン・サ・リークを操作し、ドラゴンに攫われた婚約者を救出する事を目的としている。同シリーズのナンバリングタイトルではあるが、時系列的に他のシリーズ作とのストーリー上のつながりが薄いため、シリーズの中では外伝的な位置づけになっている。結婚相手の選択によるストーリー分岐とマルチエンディングが本作の大きな特徴の一つである。
 
@@ -417,7 +417,7 @@
 
   - （英語）
 
-[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ファンタシースター](https://ja.wikipedia.org/wiki/Category:ファンタシースター "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
+[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ファンタシースターのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタシースターのコンピュータゲーム "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  『Beepメガドライブ』のインタビューによる。
 2.

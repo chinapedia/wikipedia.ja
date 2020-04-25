@@ -178,7 +178,7 @@ UCカードグループは、ユーシーカードのブラザーズカンパニ
   - [第三カードサービス株式会社](http://www.daisancard.co.jp/)
   - [きらやかカード株式会社](http://www.kirayaka-card.co.jp/uc/)
   - [株式会社福島カードサービス](http://www.fukugin-uc.jp/)
-  - [福邦カード株式会社](http://www.fukuhocard.co.jp/)
+  - [福邦カード株式会社](https://www.fukuhocard.co.jp/)
   - [長野カード株式会社](http://www.naganocard.co.jp/)
   - [トマトカード株式会社](https://www.tomatocard.co.jp/)
   - [しまぎんユーシーカード株式会社](http://www.s-uccard.com/)

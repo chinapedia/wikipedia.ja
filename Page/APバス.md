@@ -29,4 +29,4 @@
   - [XTバス](../Page/XTバス.md "wikilink")
   - [VMEバス](../Page/VMEバス.md "wikilink")
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

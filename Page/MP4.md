@@ -71,7 +71,7 @@ MP4は下記に採用されており、実際に利用されている。
   - [携帯電話](../Page/携帯電話.md "wikilink")
   - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP)
   - [PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink") (PS Vita)
-  - [プレイやん](../Page/プレイやん.md "wikilink") (PLAY-YAN micro)
+  - [XMedia Recode](https://ja.wikipedia.org/wiki/XMedia_Recode "wikilink")
   - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
   - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
   - [ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")

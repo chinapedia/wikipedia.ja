@@ -7,7 +7,7 @@
 
 [特別番組](../Page/特別番組.md "wikilink")(特番)編成によって繰り上げや繰り下げがある。提供[スポンサー](../Page/スポンサー.md "wikilink")は系列各局ごとに異なる。また、本来ならば当番組も「[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")」の対象番組にあたることからローカル差し替えはできないが、地方の首長選挙や気象関係（[台風](../Page/台風.md "wikilink")接近や[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")などで被害が出ているようなケース）、その他差し替えるに足るような大きな事件・事故があった場合は「特例」として、当該局の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")に差し替えられる場合がある。その場合も番組タイトルは変更されず、オープニングのタイトルは差し替えた局がTBSと同じタイトルを独自送出しているが、ロゴの効果音とアニメーションがなかったり、1世代前以前のタイトルロゴを使用する例がある。
 
-過去には緊急性が薄い場合でも改題しないことを条件にローカルニュースに差し替えることが認められていたため、1984年に[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")が、県内のニュースに差し替える例があった。
+過去には緊急性が薄い場合でも改題しないことを条件にローカルニュースに差し替えることが認められていたため、1984年に[信越放送](../Page/信越放送.md "wikilink")が、県内のニュースに差し替える例があった。
 
 通常はTBSの報道フロアから放送しているが（Nスタジオは使用せず）、半期に一度放送される『[オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")』では、休憩時間中に『感謝祭』のBスタジオからキャスターがニュースを2006年春まで伝えていた。しかし、2006年秋以降は大道具セット入れ替えの兼ね合いから、本番組そのものを内包する形式で放送（報道フロアからの放送）されている（一部の局ではスポンサーもそのまま入った）が、2009年春はニュースコーナーそのものがなかった。
 
@@ -17,15 +17,15 @@
 
 番組本編に入る前の[カウキャッチャー枠で](../Page/カウキャッチャー_\(放送\).md "wikilink")、TBSの[番組宣伝](../Page/番組宣伝.md "wikilink")コマーシャルが挿入される場合がある（系列各局もこのカウキャッチャー枠をネットしている）。また、1988年3月ごろまでオープニングにはテーマソングが用いられていたが、2017年9月までBGMなどは使用していなかった{{\#tag:ref|毎日放送等では2000年ごろまで使用。|group="注"}}。2017年10月からオープニングには『[JNNニュース](../Page/JNNニュース.md "wikilink")』で使われているBGMが使用されている。なお、一部系列局でスポンサーが付く場合、スポンサーCMがエンドテロップの後に[ヒッチハイク](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[CMとして流れる局](../Page/コマーシャルメッセージ.md "wikilink")（[青森テレビ](../Page/青森テレビ.md "wikilink")など）とその逆（スポンサーのCMを消化後、エンドテロップを流す局）がある。
 
-20:54に放送される民放のスポットニュース番組では、唯一全国統一のタイトル{{\#tag:ref|ただし、局によりウェブサイトなどの番組表で「JNN」がない「フラッシュニュース」と表記しているところもある。|group="注"}}かつほぼ全国同時ネットしている番組である。たとえ系列局のローカルニュースを放送しても他局のようにタイトルを改変することはない{{\#tag:ref|但し、1975年3月30日までJNN系列であった[朝日放送で](../Page/朝日放送テレビ.md "wikilink")、系列局で唯一『[ABCフラッシュニュース](../Page/ABCフラッシュニュース.md "wikilink")』とタイトルとOP/EDを差し替えて放送していた。最も腸捻転時代は別枠のJNNニュースのタイトルを差し替えている系列局はいつくかあった。|group="注"}}。また唯一ほぼ全国同時ネットとなっている理由としてはいわゆる[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")があると考えられる。また、[フジテレビが当該時間帯のスポットニュースから撤退した](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2018年4月からは、当該時間帯における在京民放唯一のスポットニュース番組となった。
+20:54に放送される民放のスポットニュース番組では、唯一全国統一のタイトル{{\#tag:ref|ただし、局によりウェブサイトなどの番組表で「JNN」がない「フラッシュニュース」と表記しているところもある。|group="注"}}かつほぼ全国同時ネットしている番組である。たとえ系列局のローカルニュースを放送しても他局のようにタイトルを改変することはない{{\#tag:ref|但し、1975年3月30日までJNN系列であった[朝日放送は](../Page/朝日放送テレビ.md "wikilink")、系列局で唯一『[ABCフラッシュニュース](../Page/ABCフラッシュニュース.md "wikilink")』とタイトルおよびOP/EDを差し替えて放送していた（後述）。尤も、腸捻転時代に別枠のJNNニュースのタイトルを差し替えていた系列局はABCも含めて数局あった模様。|group="注"}}。また唯一ほぼ全国同時ネットとなっている理由としてはいわゆる[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")があると考えられる。また、[フジテレビが当該時間帯のスポットニュースから撤退した](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2018年4月からは、当該時間帯における在京民放唯一のスポットニュース番組となった。
 
-東京の[TBSから](../Page/TBSテレビ.md "wikilink")[JNN系列全国ネットで放送されるが](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、一部地域（[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[毎日放送](../Page/毎日放送.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")など）では台風や大雨などの災害や、地方選挙等がある場合に各局からのローカルニュースに変更することがある。
+東京の[TBSから](../Page/TBSテレビ.md "wikilink")[JNN系列全国ネットで放送されるが](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、一部地域（[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[毎日放送](../Page/毎日放送.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")など）では台風や大雨などの災害や、地方選挙等がある場合に各局からのローカルニュースに変更することがある。
 
 火曜日は2008年10月から2009年9月まで、20・21時台に『[バラエティーニュース キミハ・ブレイク](https://ja.wikipedia.org/wiki/バラエティーニュース_キミハ・ブレイク "wikilink")』（19:55{{\#tag:ref|[2009年](../Page/2009年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")までの半年間は19:56開始。|group="注"}} - 21:48）が編成されたため、火曜のみ通常の放送時間が21:48 - 21:54に変更された。ただ、『キミハ・ブレイク』が『[ぴったんこカン・カン](../Page/ぴったんこカン・カン.md "wikilink")』{{\#tag:ref|2009年[4月10日](../Page/4月10日.md "wikilink")より、金曜日20時台へ移動。|group="注"}}の2時間スペシャル等で休止された際には、他の曜日同様20:54で放送されることもあった。
 
 [2009年](../Page/2009年.md "wikilink")春の[改編](../Page/改編.md "wikilink")では、タイトルはそのままで『[JNN NEWS](../Page/JNNニュース.md "wikilink")』（全国）と『[TBS NEWS](../Page/TBSニュース.md "wikilink")』（関東ローカル）の統合タイトル『[THE NEWS](https://ja.wikipedia.org/wiki/THE_NEWS_\(TBS・JNN\) "wikilink")』へのリニューアルに倣い、当番組内のテロップも『THE NEWS』仕様のものへと移行した（「[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")」内のニュースも同様）。しかし、この『THE NEWS』が1年で終了し以前の『JNN NEWS』と『TBS NEWS』に戻ったため、2010年4月から現在の『JNN NEWS』と同様のテロップに移行した。
 
-2012年3月26日、約20年ぶりにタイトルロゴ字体が変更された{{\#tag:ref|その週の4月1日に[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")のロゴ変更後の[4月2日](../Page/4月2日.md "wikilink")からのローカルニュース番組『[SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink")』の文字体と同じになっている。|group="注"}}。
+2012年3月26日、約20年ぶりにタイトルロゴ字体が変更された{{\#tag:ref|その週の4月1日に[信越放送](../Page/信越放送.md "wikilink")のロゴ変更後の[4月2日](../Page/4月2日.md "wikilink")からのローカルニュース番組『[SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink")』の文字体と同じになっている。|group="注"}}。2017年10月2日からも新ブランド『TBS NEWS』との統一を図るために再度変更され、2020年3月30日にはTBS全体の統一コーポレートロゴを新たに制定したため、本番組のタイトルロゴもマイナーチェンジが施された。
 
 [2014年](../Page/2014年.md "wikilink")4月からは月-金曜のみリアルタイム字幕放送も開始、2017年4月からは日曜にも開始。またこの月より、水曜の『[水トク\!](https://ja.wikipedia.org/wiki/水トク! "wikilink")（第2期）』が19:56 - 21:54に繰り下がり、更に『[水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")』が22時台に編成されるも、関東他一部地域で21:56{{\#tag:ref|これに該当しない地域では22:00飛び乗りとなる。詳細は[水曜日のダウンタウン\#ネット局と放送時間](https://ja.wikipedia.org/wiki/水曜日のダウンタウン#ネット局と放送時間 "wikilink")を参照。|group="注"}} - 22:54に編成されたため、21:54 - 21:56に繰り下げ縮小されて放送される{{\#tag:ref|ただし水曜21時に2時間番組が編成され、『水トク\!』が19時開始に繰り上がった時は、20:58に繰り上げる事がある。|group="注"}}。また同時期より、一部の曜日に19:00からの2時間番組が編成された時は、20:57 - 21:00に短縮して放送された。また19時からの3時間番組や、20時台からの2時間番組の時は21:48まで繰り下げるも、金曜以外の正式開始時刻が21:49:15（1分15秒の前[CM入り](../Page/コマーシャルメッセージ.md "wikilink")。20時台でも同じ）なのに対し、金曜は前CMを2分増やして{{\#tag:ref|その代わり、直後の金曜21:54各局別[ミニ番組](../Page/ミニ番組.md "wikilink")（関東地区は『[関東地方あしたのお天気](https://ja.wikipedia.org/wiki/関東地方あしたのお天気 "wikilink")』）へのステブレが2分縮小される。|group="注"}}21:51:30から始まる様になった。
 
@@ -102,13 +102,13 @@
 | [関東広域圏](../Page/広域放送.md "wikilink")                 | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）                      | JNNフラッシュニュース | ○     | **制作局** |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                        |              |       |         |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）                        |              |       |         |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC） | \[4\]        |       |         |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                    | \[4\]        |       |         |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")（TBC）                          |              |       |         |
 | [山形県](../Page/山形県.md "wikilink")                    | [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）                    |              |       |         |
 | [福島県](../Page/福島県.md "wikilink")                    | [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）                    | \[5\]        |       |         |
 | [山梨県](../Page/山梨県.md "wikilink")                    | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                        |              |       |         |
 | [新潟県](../Page/新潟県.md "wikilink")                    | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）       |              |       |         |
-| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）       |              |       |         |
+| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](../Page/信越放送.md "wikilink")（SBC）                          |              |       |         |
 | [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）       |              |       |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                |              |       |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       |              |       |         |

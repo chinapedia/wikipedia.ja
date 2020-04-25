@@ -169,7 +169,7 @@
 
 <!-- end list -->
 
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（2001年10月）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（2001年10月）
 
 <!-- end list -->
 
@@ -180,7 +180,7 @@
 
   - [山形放送](../Page/山形放送.md "wikilink")（1999年10月）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")（2000年1月）
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（1999年10月）
+  - [信越放送](../Page/信越放送.md "wikilink")（1999年10月）
 
 <!-- end list -->
 
@@ -196,11 +196,11 @@
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（2000年10月）
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（1999年10月）
   - [KBS京都](../Page/京都放送.md "wikilink")（1999年10月）
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（2000年1月）
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")（2000年1月）
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")（2001年4月）※
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（2001年4月）
   - [RCC中国放送](../Page/中国放送.md "wikilink")（2000年4月）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（1999年10月）
+  - [山口放送](../Page/山口放送.md "wikilink")（1999年10月）
   - [西日本放送](../Page/西日本放送.md "wikilink")（2001年10月）
 
 <!-- end list -->

@@ -2099,4 +2099,4 @@
   - [大会公式サイト](http://www.fifa.com/u17worldcup/index.html) - FIFA.com
   - [RSSSFによる記録](http://www.rsssf.com/tablesw/wyc16hist.html)
 
-[Category:FIFA_U-17ワールドカップ](https://ja.wikipedia.org/wiki/Category:FIFA_U-17ワールドカップ "wikilink") [Category:FIFAサッカー大会](https://ja.wikipedia.org/wiki/Category:FIFAサッカー大会 "wikilink") [Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:育成年代の国際サッカー大会](https://ja.wikipedia.org/wiki/Category:育成年代の国際サッカー大会 "wikilink") [Category:1985年開始のイベント](https://ja.wikipedia.org/wiki/Category:1985年開始のイベント "wikilink")
+[Category:FIFA_U-17ワールドカップ](https://ja.wikipedia.org/wiki/Category:FIFA_U-17ワールドカップ "wikilink") [Category:FIFAサッカー大会](https://ja.wikipedia.org/wiki/Category:FIFAサッカー大会 "wikilink") [Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:育成年代の国際サッカー大会](https://ja.wikipedia.org/wiki/Category:育成年代の国際サッカー大会 "wikilink") [Category:1985年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1985年開始のスポーツイベント "wikilink")

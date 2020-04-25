@@ -41,9 +41,9 @@
 
 ## その他
 
-  - [NHK杯 輝け\!\!全日本大失敗選手権大会 〜みんながでるテレビ〜](https://ja.wikipedia.org/wiki/NHK杯_輝け!!全日本大失敗選手権大会_〜みんながでるテレビ〜 "wikilink")
+  - [NHK杯 輝け\!\!全日本大失敗選手権大会〜みんながでるテレビ〜](https://ja.wikipedia.org/wiki/NHKだめ自慢～みんながでるテレビ～ "wikilink")
       -
-        [NHK総合テレビで放送のバラエティ特番](../Page/NHK総合テレビジョン.md "wikilink")。第1回は[2018年](../Page/2018年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")（水曜日）22:25 - 23:10に放送、[2019年](../Page/2019年.md "wikilink")以降現在も月1回ペース、主に土曜日22:10 - 22:58の枠で放送されている。司会：[村上信五](../Page/村上信五.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）、[東野幸治](../Page/東野幸治.md "wikilink")、[久保田祐佳](../Page/久保田祐佳.md "wikilink")（NHKアナウンサー）\[2\]。なお、かつて[tvkで放送していた](../Page/テレビ神奈川.md "wikilink")[同名の番組とは無関係である](../Page/みんなが出るテレビ.md "wikilink")。
+        [NHK総合テレビで放送のバラエティ特番](../Page/NHK総合テレビジョン.md "wikilink")。第1回は[2018年](../Page/2018年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")（水曜日）22:25 - 23:10に放送、[2019年](../Page/2019年.md "wikilink")以降現在も月1回ペース、主に土曜日22:10 - 22:58の枠で放送されている。司会：[村上信五](../Page/村上信五.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）、[東野幸治](../Page/東野幸治.md "wikilink")、[久保田祐佳](../Page/久保田祐佳.md "wikilink")（NHKアナウンサー）\[2\]。なお、かつて[tvkで放送していた](../Page/テレビ神奈川.md "wikilink")[同名の番組とは無関係である](../Page/みんなが出るテレビ.md "wikilink")。2020年4月より番組タイトルを『[NHKだめ自慢～みんながでるテレビ～](https://ja.wikipedia.org/wiki/NHKだめ自慢～みんながでるテレビ～ "wikilink")』に変更。
 
 ## 脚注
 

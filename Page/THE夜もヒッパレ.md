@@ -160,11 +160,12 @@
 <li><a href="../Page/辺見えみり.md" title="wikilink">辺見えみり</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/松崎しげる" title="wikilink">松崎しげる</a></li>
 <li><a href="../Page/松本明子.md" title="wikilink">松本明子</a></li>
+<li><a href="../Page/マリーン.md" title="wikilink">マリーン</a></li>
 <li><a href="../Page/未唯mie.md" title="wikilink">未唯mie</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/三浦理恵子" title="wikilink">三浦理恵子</a></li>
 <li><a href="../Page/見栄晴.md" title="wikilink">見栄晴</a></li>
 <li><a href="../Page/美木良介.md" title="wikilink">美木良介</a></li>
-<li><a href="../Page/MISSION.md" title="wikilink">MISSION</a></li>
+<li><a href="../Page/MISSION_(アイドルグループ).md" title="wikilink">MISSION</a></li>
 <li><a href="../Page/宮地真緒.md" title="wikilink">宮地真緒</a></li>
 <li><a href="../Page/村下孝蔵.md" title="wikilink">村下孝蔵</a></li>
 <li><a href="../Page/森口博子.md" title="wikilink">森口博子</a></li>
@@ -216,7 +217,7 @@
 | 1999年秋スペシャル | [フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")                                                       | KinKi Kids                                                                                   |
 | 1999年年間     | [だんご3兄弟](../Page/だんご3兄弟.md "wikilink")                                                                    | [速水けんたろう](../Page/速水けんたろう.md "wikilink")、[茂森あゆみ](../Page/茂森あゆみ.md "wikilink")、ひまわりキッズ、だんご合唱団 |
 | 2000年春スペシャル | [TSUNAMI](../Page/TSUNAMI.md "wikilink")                                                                  | サザンオールスターズ                                                                                   |
-| 2000年秋スペシャル | [桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")                                              | [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")                                        |
+| 2000年秋スペシャル | [桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")                                                                 | [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")                                        |
 | 2000年年間     | TSUNAMI                                                                                                   | サザンオールスターズ                                                                                   |
 | 2001年春スペシャル | [Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")                                    | 宇多田ヒカル                                                                                       |
 | 2001年秋スペシャル | [PIECES OF A DREAM](../Page/PIECES_OF_A_DREAM.md "wikilink")                                              | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")                                                 |

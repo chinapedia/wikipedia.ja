@@ -380,7 +380,7 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 
 ## ゲーム
 
-[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")から2004年6月24日に発売。[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15才以上対象。
+[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")から2004年6月24日に発売。[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15才以上対象。
 
 チナ役を[桃井はるこ](../Page/桃井はるこ.md "wikilink")が担当した。
 
@@ -392,7 +392,7 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 
   - 『DearS×DearS』（ディアーズ・ディアーズ）
     [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[清水愛](../Page/清水愛.md "wikilink")（レン役）、[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")（ミゥ役）、[谷山紀章](../Page/谷山紀章.md "wikilink")（武哉役）。
-    [ラジオ大阪](../Page/大阪放送.md "wikilink")、[TBSラジオ](../Page/TBSラジオ.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")の3局で「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠にて、2004年4月3日から12月25日まで（信越放送は1日遅れ）全39回放送された。
+    [ラジオ大阪](../Page/大阪放送.md "wikilink")、[TBSラジオ](../Page/TBSラジオ.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")の3局で「[ゴクラク\!もえもえステーション](https://ja.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」枠にて、2004年4月3日から12月25日まで（信越放送は1日遅れ）全39回放送された。
     [2005年](../Page/2005年.md "wikilink")1月からはインターネットラジオに移行し、 月1回更新されていたが、同年3月に全3回で終了した。
 
 <!-- end list -->

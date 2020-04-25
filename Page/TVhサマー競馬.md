@@ -94,7 +94,7 @@
   - [うまDOKI](https://ja.wikipedia.org/wiki/うまDOKI "wikilink")（KBS京都制作）
   - [HTB土曜競馬中継](https://ja.wikipedia.org/wiki/HTB土曜競馬中継 "wikilink")
 
-[Category:ローカルテレビ局の競馬番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の競馬番組 "wikilink") [Category:テレビ北海道の番組](https://ja.wikipedia.org/wiki/Category:テレビ北海道の番組 "wikilink")
+[Category:ローカルテレビ局の競馬番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の競馬番組 "wikilink") [Category:テレビ北海道の番組](https://ja.wikipedia.org/wiki/Category:テレビ北海道の番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink")
 
 1.
 2.

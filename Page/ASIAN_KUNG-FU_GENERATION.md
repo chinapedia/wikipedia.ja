@@ -56,10 +56,10 @@
   - [神奈川県立横浜立野高等学校](../Page/神奈川県立横浜立野高等学校.md "wikilink")卒業。1浪し、[関東学院大学](../Page/関東学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒業。
   - 卒業後は一時期[業務用](../Page/業務用.md "wikilink")[冷蔵庫](https://ja.wikipedia.org/wiki/冷蔵庫 "wikilink")の修理・営業の仕事をしていた。仕事に注力し過ぎたせいでバンド方面に手が回せなくなり、後藤からは「辞めちゃうかもなぁ、でもこいつが居なくなったらバンド続けられないからどうしよう」と思われていたという。
   - [阪神タイガース](../Page/阪神タイガース.md "wikilink")のファンである。
-  - 「エンジェルボイス」や「[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[草野さんみたい](../Page/草野マサムネ.md "wikilink")」と称される音程の高い歌声を持つが、後藤曰く「最近は飲酒・喫煙・加齢のせいでドブ声化しつつある」。\[9\]
+  - 「エンジェルボイス」や「[スピッツの](../Page/スピッツ_\(バンド\).md "wikilink")[草野さんみたい](../Page/草野マサムネ.md "wikilink")」と称される音程の高い歌声を持つが、後藤曰く「最近は飲酒・喫煙・加齢のせいでドブ声化しつつある」。\[9\]
   - 好きなアーティストは[Manic Street Preachers](https://ja.wikipedia.org/wiki/マニック・ストリート・プリーチャーズ "wikilink")、[Supergrass](../Page/スーパーグラス.md "wikilink")、[Radiohead](../Page/レディオヘッド.md "wikilink")、[The Libertines](../Page/ザ・リバティーンズ.md "wikilink")、[Blur](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[XTC](../Page/XTC_\(バンド\).md "wikilink")、[The Cribs](../Page/ザ・クリブス.md "wikilink")、[Ash](../Page/アッシュ_\(バンド\).md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")など。
   - 『[ブルートレイン](../Page/ブルートレイン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")』から作曲も手掛けるようになった。『[嘘とワンダーランド](../Page/ワールドアパート.md "wikilink")』では、作曲を1人で手掛けたことをきっかけにメインボーカルを務めた。
-  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")のデビュー20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[アダムとイヴの林檎](https://ja.wikipedia.org/wiki/アダムとイヴの林檎 "wikilink")』の1曲目「[正しい街](https://ja.wikipedia.org/wiki/無罪モラトリアム#収録曲 "wikilink")」に[亀田誠治](../Page/亀田誠治.md "wikilink")プロデュースによるスペシャルバンド「theウラシマ’S」のギタリストとして参加。他のメンバーはボーカル&[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")に草野マサムネ（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）、[ドラムスに](../Page/ドラムセット.md "wikilink")[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[ベースに是永亮祐](../Page/ベース_\(弦楽器\).md "wikilink")（[雨のパレード](https://ja.wikipedia.org/wiki/雨のパレード "wikilink")）\[10\]。
+  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")のデビュー20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[アダムとイヴの林檎](https://ja.wikipedia.org/wiki/アダムとイヴの林檎 "wikilink")』の1曲目「[正しい街](https://ja.wikipedia.org/wiki/無罪モラトリアム#収録曲 "wikilink")」に[亀田誠治](../Page/亀田誠治.md "wikilink")プロデュースによるスペシャルバンド「theウラシマ’S」のギタリストとして参加。他のメンバーはボーカル&[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")に草野マサムネ（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）、[ドラムスに](../Page/ドラムセット.md "wikilink")[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[ベースに是永亮祐](../Page/ベース_\(弦楽器\).md "wikilink")（[雨のパレード](https://ja.wikipedia.org/wiki/雨のパレード "wikilink")）\[10\]。
 
 <!-- end list -->
 
@@ -1819,7 +1819,7 @@ CTCR-40362</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/12月23日.md" title="wikilink">12月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツトリビュートアルバム</a>「JUST LIKE HONEY 〜『ハチミツ』20th Anniversary Tribute〜」</p></td>
+<td><p><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツトリビュートアルバム</a>「JUST LIKE HONEY 〜『ハチミツ』20th Anniversary Tribute〜」</p></td>
 <td><p>12cmCD<br />
 LPレコード</p></td>
 <td><p>UPCH-2065<br />
@@ -1901,7 +1901,7 @@ TYCT-60109</p></td>
 
       - （後藤が作る新聞用のアカウント。かつては"g_interview"のアカウント名で、アルバム『マジックディスク』の質疑応答に使用していた。その後しばらくは"g_info"のアカウント名で『大喜利専用アカウント』としていた。）
 
-[Category:ASIAN_KUNG-FU_GENERATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:ASIAN_KUNG-FU_GENERATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  「音楽と人」2008年11月号より
 2.

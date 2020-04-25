@@ -90,6 +90,6 @@ NESAバスメモリ・SCSIボード・LANボードなどが存在した。H98用
   - [98ローカルバス](../Page/98ローカルバス.md "wikilink")
   - [APバス](../Page/APバス.md "wikilink")
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink") [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink") [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")
 
 1.  畑 陽一郎 「98が抱える三つの弱点 バスが遅い, NESAが遅い, そしてSCSIも遅い」 [日経バイト](https://ja.wikipedia.org/wiki/バイト_\(雑誌\) "wikilink")（1992年3月号） pp246-257

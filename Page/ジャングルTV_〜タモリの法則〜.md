@@ -1,11 +1,11 @@
 > この記事は[ジャングルTV 〜タモリの法則〜](https://ja.wikipedia.org/wiki/ジャングルTV_〜タモリの法則〜)から翻訳されています。
 
 
-『**ジャングルTV 〜タモリの法則〜**』（ジャングルテレビ 〜タモリのほうそく〜、[英称](../Page/英語.md "wikilink")：*JUNGLE TV*）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）と[イーストの共同制作により](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1994年](../Page/1994年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink")の22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[司会](../Page/司会.md "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。通称は『**ジャングルTV**』。[新聞のテレビ欄には](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")「ジャングルクッキング」のコーナーが開始した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃から『**タモリのジャングルTV**』と表記されていた。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。
+『**ジャングルTV 〜タモリの法則〜**』（ジャングルテレビ 〜タモリのほうそく〜、[英称](../Page/英語.md "wikilink")：*JUNGLE TV*）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）と[イーストの共同制作により](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[1994年](../Page/1994年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink")の22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[司会](../Page/司会.md "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。通称は『**ジャングルTV**』。[新聞のテレビ欄には](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")「ジャングルクッキング」のコーナーが開始した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃から『**タモリのジャングルTV**』と表記されていた。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。
 
 ## 概要
 
-放送開始初期は、タモリをメイン[司会](../Page/司会.md "wikilink")とした、[関根勤](../Page/関根勤.md "wikilink")、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")・[矢部浩之](../Page/矢部浩之.md "wikilink")）、[伊集院光](../Page/伊集院光.md "wikilink")（1994年4月〜1994年6月）らによる[コント](../Page/コント.md "wikilink")主体の番組であった。放送開始当初の番組の目論見としては、当時すでに、[帯](https://ja.wikipedia.org/wiki/帯番組 "wikilink")・バラエティ番組『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")）、[深夜バラエティ番組](../Page/深夜放送.md "wikilink")『[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（テレビ朝日系列）などでメイン司会者の地位を確立していたタモリに、かつての[芸人](../Page/芸人.md "wikilink")色を出してもらうべく構成された番組であり、どちらかと言えば同じくタモリがメイン司会をしていた、[トークバラエティ番組](../Page/トーク番組.md "wikilink")『[今夜は最高\!](../Page/今夜は最高!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")）を彷彿とさせるような[歌](../Page/歌.md "wikilink")と[コント](../Page/コント.md "wikilink")を融合した笑いを提供していた。
+放送開始初期は、タモリをメイン[司会](../Page/司会.md "wikilink")とした、[関根勤](../Page/関根勤.md "wikilink")、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")・[矢部浩之](../Page/矢部浩之.md "wikilink")）、[伊集院光](../Page/伊集院光.md "wikilink")（1994年4月〜1994年6月）らによる[コント](../Page/コント.md "wikilink")主体の番組であった。放送開始当初の番組の目論見としては、当時すでに、[帯](https://ja.wikipedia.org/wiki/帯番組 "wikilink")・バラエティ番組『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")）、[深夜バラエティ番組](../Page/深夜放送.md "wikilink")『[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（テレビ朝日系列）などでメイン司会者の地位を確立していたタモリに、かつての[芸人](../Page/芸人.md "wikilink")色を出してもらうべく構成された番組であり、どちらかと言えば同じくタモリがメイン司会をしていた、[トークバラエティ番組](../Page/トーク番組.md "wikilink")『[今夜は最高\!](../Page/今夜は最高!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")）を彷彿とさせるような[歌](../Page/歌.md "wikilink")と[コント](../Page/コント.md "wikilink")を融合した笑いを提供していた。
 
 記念すべき第1回は、「森田家の人々」「古今東西ブラザーズバンド」「占いの館」「江戸サリバンショー」「タモリの街角観察学」の5つの[コーナー](https://ja.wikipedia.org/wiki/コーナー "wikilink")が放送された。この初回ゲストはタモリの街角観察学のコーナーに出演した[小堺一機](../Page/小堺一機.md "wikilink")と[清水ミチコ](../Page/清水ミチコ.md "wikilink")の2人だった（後に両者一緒に、8年ぶりに[2002年](../Page/2002年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")放送の「緊急記者会見」と「ジャングルクッキング～真剣対決」にも出演している）。
 
@@ -17,13 +17,11 @@
 
 主な[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")・[コーナー](https://ja.wikipedia.org/wiki/コーナー "wikilink")としては、「ジャングルクッキング（料理コーナー）」「ジャングルハンマー（ゲーム仕立てのチャレンジ企画）」「食べ歩き」「オール[ロケ](https://ja.wikipedia.org/wiki/ロケ "wikilink")企画」その他に「単発企画」「スペシャル企画」などもあった。
 
-他には、レギュラーメンバーとは別に様々な分野のゲストを週代わりに2組以上呼ぶなど、TBS・MBS系列の[1990年代](../Page/1990年代.md "wikilink")後半の大人気番組に成長した。その後、番組のマンネリ化はあったものの、コーナーを入れ替えながらも番組は続いた。作ったコーナー数の合計は95コーナー。登場ゲスト総数は469人。
+他には、レギュラーメンバーとは別に様々な分野のゲストを週代わりに2組以上呼ぶなど、TBS・MBS系列の[1990年代](../Page/1990年代.md "wikilink")後半の大人気番組に成長した。その後、番組のマンネリ化はあったものの、コーナーを入れ替えながらも番組は続いた。作ったコーナー数の合計は95コーナー。登場ゲスト総数は469人。放送期間8年半は、火曜22時枠で全国放送されたTBS系バラエティ番組としては最長記録である\[1\]。
 
 [オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")のタイトルコールは「ジャングルTV」はタモリが担当し、「〜タモリの法則〜」は関根、ナインティナイン、女性メンバーらが担当していた。ただし、一時期は前時間帯番組終了後の番宣CMだけでこのタイトルコールを使用し、オープニングはタモリを模した[サングラス](../Page/サングラス.md "wikilink")をした[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")の番組イメージ[キャラクター](../Page/キャラクター.md "wikilink")が「アー」と鳴いてロゴが表示されるという時もあった。ちなみにその「アー」の声の主はもちろんタモリである。
 
 番組タイトルロゴ名表記の色は、 『** **』であった。
-
-[2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")の[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")発生時は当番組の放送直前であり、[JNNにおいては開始とほぼ同時にニュース速報にて第一報が伝えられている](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。その後状況の変化に伴い22時37分をもって、当日放送回は放送を打ち切り\[1\]、23時から放送予定の「[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")」を急遽前倒し、拡大して放送した\[2\]。
 
 ## 出演者
 
@@ -78,7 +76,7 @@
 
 以下は「古今東西ブラザーズバンド」「ジャングルハンマー」の両コーナーで活躍していた。
 
-  - バナナ・ギャング（初代）
+  - バナナギャングス（初代）
   - 三沢泉（初代）
   - SWITCH（2代目）
   - A-Salsa（アレンジャー[小田敏文](../Page/小田敏文.md "wikilink")をリーダーとするサルサバンド。出演した時期のオープニングタイトルなど各テーマは彼の作編曲による。）
@@ -243,7 +241,7 @@
     進行役の岡村隆史が提示するテーマに沿って、ある曲の歌詞をリメイクする。要は[替え歌](../Page/替え歌.md "wikilink")の作成である。
     ただし、曲のタイトル・歌手は知らされず、各フレーズの文字数のみが発表される。出演者は自分が担当するフレーズのみリメイクする。
     最後に、原曲の歌手が登場し、リメイクされた歌詞で歌う。
-    [1999年](../Page/1999年.md "wikilink")春頃に放送された「変身\!歌謡ショー」では、週ゲストの[野村沙知代](../Page/野村沙知代.md "wikilink")とコーナーゲスト[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")が、タモリ・関根と共に矢部（岡村の代役進行）を無視し即興で歌を歌うハプニングがあり、タモリは（当番組がTBS系列で放送していることや、タモリが[テレビ朝日系列の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」の司会を務めているにも関わらず）「次は『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』だ」と、他局（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）の番組名を口走ってしまった。
+    [1999年](../Page/1999年.md "wikilink")春頃に放送された「変身\!歌謡ショー」では、週ゲストの[野村沙知代](../Page/野村沙知代.md "wikilink")とコーナーゲスト[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")が、タモリ・関根と共に矢部（岡村の代役進行）を無視し即興で歌を歌うハプニングがあり、タモリは（当番組がTBS系列で放送していることや、タモリがテレビ朝日系列の「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」の司会を務めているにも関わらず）「次は『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』だ」と、他局（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）の番組名を口走ってしまった。
     1998年10月開始、1999年9月終了。
 
 <!-- end list -->
@@ -412,7 +410,7 @@
   - 宣伝：山崎朋子
   - ディレクター：[西滝順二](https://ja.wikipedia.org/wiki/西瀧順二 "wikilink") → 笠原裕明、斉藤嘉久、小松伸一、浦恵一、福島英喜、花土昌紀、手塚公一、芳住昌之、米田司
   - 演出：竹島達修 → [西滝順二](https://ja.wikipedia.org/wiki/西瀧順二 "wikilink")、菊池計理、今井康之、安井健、上西浩之、手塚公一、[上川伸廣](../Page/上川伸廣.md "wikilink")
-  - プロデューサー：岡田公伸（毎日放送）、白石統一郎・町田修一（電通）、奥村正・瀬崎一世・上川伸廣（イースト）
+  - プロデューサー：[岡田公伸](https://ja.wikipedia.org/wiki/岡田公伸 "wikilink")（毎日放送）、白石統一郎・町田修一（電通）、奥村正・瀬崎一世・上川伸廣（イースト）
   - リサーチ：[フルタイム](../Page/フルタイム.md "wikilink")、オフィス文、フォーチュンスープ
   - 協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、貝印株式会社、カメイガラス、[ジャイロ](../Page/ジャイロ.md "wikilink")（旧・東京サウンド企画）
 
@@ -423,14 +421,14 @@
 | [近畿](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[広域圏](../Page/広域放送.md "wikilink") | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）     | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") | [1994年](../Page/1994年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") | [火曜日](../Page/火曜日.md "wikilink") 22:00 - 22:54 | **制作局** |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                        |                                                                      |                                                                                                                                                     |                                                |         |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")                                  | [青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）                        |                                                                      |                                                                                                                                                     |                                                |         |
-| [岩手県](../Page/岩手県.md "wikilink")                                                     | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC） |                                                                      |                                                                                                                                                     |                                                |         |
+| [岩手県](../Page/岩手県.md "wikilink")                                                     | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                    |                                                                      |                                                                                                                                                     |                                                |         |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [東北放送](../Page/東北放送.md "wikilink")（TBC）                          |                                                                      |                                                                                                                                                     |                                                |         |
 | [山形県](../Page/山形県.md "wikilink")                                                     | [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）                    |                                                                      |                                                                                                                                                     |                                                |         |
 | [福島県](../Page/福島県.md "wikilink")                                                     | [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）                    |                                                                      |                                                                                                                                                     |                                                |         |
 | [関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")                               | [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）                        | 現：TBSテレビ                                                             |                                                                                                                                                     |                                                |         |
 | [山梨県](../Page/山梨県.md "wikilink")                                                     | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                        |                                                                      |                                                                                                                                                     |                                                |         |
 | [新潟県](../Page/新潟県.md "wikilink")                                                     | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）       |                                                                      |                                                                                                                                                     |                                                |         |
-| [長野県](../Page/長野県.md "wikilink")                                                     | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）       |                                                                      |                                                                                                                                                     |                                                |         |
+| [長野県](../Page/長野県.md "wikilink")                                                     | [信越放送](../Page/信越放送.md "wikilink")（SBC）                          |                                                                      |                                                                                                                                                     |                                                |         |
 | [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                |                                                                      |                                                                                                                                                     |                                                |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       |                                                                      |                                                                                                                                                     |                                                |         |
@@ -449,6 +447,11 @@
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）     |                                                                      |                                                                                                                                                     |                                                |         |
 | [沖縄県](../Page/沖縄県.md "wikilink")                                                     | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                          |                                                                      |                                                                                                                                                     |                                                |         |
 
+## 報道特番による休止・変更
+
+  - 開始間もない[1994年](../Page/1994年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")放送分は、同日に発生した[中華航空140便墜落事故](../Page/中華航空140便墜落事故.md "wikilink")を速報する報道特番が入ったため臨時休止となった。
+  - [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")の[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")発生時は当番組の放送直前であり、[JNNにおいては開始とほぼ同時にニュース速報にて第一報が伝えられている](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。その後状況の変化に伴い22時37分をもって、当日放送回は放送を打ち切り\[2\]、23時から放送予定の「[筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")」を急遽前倒し、拡大して放送した\[3\]。
+
 ## 関連番組
 
   - [ビートたけしのつくり方](../Page/ビートたけしのつくり方.md "wikilink") - ジャングルTVの制作前にイーストの一部スタッフが製作していた。
@@ -458,9 +461,8 @@
 
 <references/>
 
-## 外部リンク
-
 [Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:毎日放送のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送のバラエティ番組の歴史 "wikilink") [Category:毎日放送のトーク番組](https://ja.wikipedia.org/wiki/Category:毎日放送のトーク番組 "wikilink") [Category:ローカルテレビ局の料理番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の料理番組 "wikilink") [Category:TBSのトーク番組](https://ja.wikipedia.org/wiki/Category:TBSのトーク番組 "wikilink") [Category:TBSの料理番組](https://ja.wikipedia.org/wiki/Category:TBSの料理番組 "wikilink") [Category:タモリ](https://ja.wikipedia.org/wiki/Category:タモリ "wikilink") [Category:関根勤](https://ja.wikipedia.org/wiki/Category:関根勤 "wikilink") [Category:ナインティナイン](https://ja.wikipedia.org/wiki/Category:ナインティナイン "wikilink") [Category:伊集院光](https://ja.wikipedia.org/wiki/Category:伊集院光 "wikilink") [Category:イースト](https://ja.wikipedia.org/wiki/Category:イースト "wikilink")
 
-1.  打ち切られた後の番組内容は返上扱いとなり、後日再放送はされなかった。
-2.  当番組が放送されていた時間枠は毎日放送の責任枠として全国ネットされており、NEWS23への差し替え（22時53分まで）はTBSからの映像を一旦毎日放送で受け、毎日放送テレビマスターで強制割り込み処理を施した上で全国ネットされた。
+1.  2番目に長いのはTBS制作の『[リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink")』の8年（2005年10月 - 2013年9月）。
+2.  打ち切られた後の番組内容は返上扱いとなり、後日再放送はされなかった。
+3.  当番組が放送されていた時間枠は毎日放送の責任枠として全国ネットされており、NEWS23への差し替え（22時53分まで）はTBSからの映像を一旦毎日放送で受け、毎日放送テレビマスターで強制割り込み処理を施した上で全国ネットされた。

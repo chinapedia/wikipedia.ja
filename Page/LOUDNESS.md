@@ -719,7 +719,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 ### 与えた影響
 
-[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")\[76\]、[X JAPAN](../Page/X_JAPAN.md "wikilink")\[77\]、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")\[78\]、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Laputa](../Page/Laputa.md "wikilink")\[79\]、[La'cryma Christiなどのハードロック系](../Page/La'cryma_Christi.md "wikilink")、ヴィジュアル系バンドだけでなく、[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")\[80\]、[サイキックラバー](../Page/サイキックラバー.md "wikilink")\[81\]、[斉藤和義](../Page/斉藤和義.md "wikilink")\[82\]\[83\]、[奥田民生](../Page/奥田民生.md "wikilink")\[84\]、[上杉昇](../Page/上杉昇.md "wikilink")など多くの音楽アーティストに影響を与えた。
+[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")\[76\]、[X JAPAN](../Page/X_JAPAN.md "wikilink")\[77\]、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")\[78\]、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Laputa](../Page/Laputa.md "wikilink")\[79\]、[La'cryma Christiなどのハードロック系](../Page/La'cryma_Christi.md "wikilink")、ヴィジュアル系バンドだけでなく、[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")\[80\]、[サイキックラバー](../Page/サイキックラバー.md "wikilink")\[81\]、[斉藤和義](../Page/斉藤和義.md "wikilink")\[82\]\[83\]、[奥田民生](../Page/奥田民生.md "wikilink")\[84\]、[上杉昇](../Page/上杉昇.md "wikilink")など多くの音楽アーティストに影響を与えた。
 
 ## 作品
 

@@ -151,18 +151,20 @@
 
 ## 主な福島局制作番組
 
-  - NHKニュース[おはよう福島](https://ja.wikipedia.org/wiki/おはようふくしま "wikilink")（平日7:45 - 8:00、7:50 - 7:58の[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")各地の話題・中継・東北地方の気象情報は**東北ブロック放送**扱い）
-  - [はまなかあいづToday](../Page/はまなかあいづToday.md "wikilink")（平日 18:10 - 18:59）
-  - NHKニュースふくしま845（平日 20:45 - 21:00）
-  - [こでらんに5](https://ja.wikipedia.org/wiki/こでらんに5 "wikilink")（平日 17:00 - 18:00、[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")）
-  - NHK News福島（土日祝日 18:45（祝日・年末年始は18:50） - 19:00）
-  - 福島スペシャル（金曜 19:30 - 19:55、不定期）
-  - ふくしまパラダイス（金曜 20:00 - 20:43、不定期）
+  -
+    ※ワンセグ放送では、2006年4月1日 - 2007年3月4日まで仙台局の番組が、そのまま送出されていた。
+    ※特記のないものは総合テレビ
 
 <!-- end list -->
 
-  -
-    ※ワンセグ放送では、2006年4月1日 - 2007年3月4日まで仙台局の番組が、そのまま送出されていた。
+  - NHKニュース[おはよう福島](https://ja.wikipedia.org/wiki/おはようふくしま "wikilink")（平日7:45 - 8:00、7:50 - 7:58の[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")各地の話題・中継・東北地方の気象情報は**東北ブロック放送**扱い）
+  - [はまなかあいづToday](../Page/はまなかあいづToday.md "wikilink")（平日 18:10 - 18:59）
+  - NHKニュースふくしま845（平日 20:45 - 21:00）
+  - [こでらんに5](https://ja.wikipedia.org/wiki/こでらんに5 "wikilink")（平日 17:00 - 18:00、[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")）
+  - NHK News福島（土日・祝日 18:45 - 19:00）
+      - 一部の祝日と年末年始（18:50 - 19:00）は仙台発となる。
+  - 福島スペシャル（金曜 19:30 - 19:55、不定期）
+  - ふくしまパラダイス（金曜 20:00 - 20:43、不定期）
 
 ## 過去に制作した番組
 
@@ -245,13 +247,13 @@
 <tr class="odd">
 <td><p>淺川理沙</p></td>
 <td></td>
-<td><p>はまなかあいづToday<br />
-（キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/おはようふくしま" title="wikilink">おはようふくしま</a></p></td>
 </tr>
 <tr class="even">
 <td><p>髙石桃子</p></td>
-<td></td>
-<td></td>
+<td><p>　</p></td>
+<td><p>はまなかあいづToday<br />
+（キャスター）</p></td>
 </tr>
 <tr class="odd">
 <td><p>三谷咲都美</p></td>
@@ -275,16 +277,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/杉本麻紀_(アナウンサー)" title="wikilink">杉本麻紀</a></p></td>
-<td><p><a href="../Page/NHK_BSニュース.md" title="wikilink">BSニュース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おはようふくしま" title="wikilink">おはようふくしま</a></p></td>
-</tr>
-<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>齋藤郁子</p></td>
 <td></td>
 <td><p>はまなかあいづToday</p></td>

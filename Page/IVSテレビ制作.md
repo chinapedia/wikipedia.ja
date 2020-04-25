@@ -141,6 +141,7 @@
   - 岩井啓一（株式会社テレプロ　yomitan101代表）
   - 大野克己（株式会社[STEELO](https://ja.wikipedia.org/wiki/STEELO "wikilink")）
   - 甲斐康道（株式会社[テレビ朝日](../Page/テレビ朝日.md "wikilink") 総合編成局制作1部 プロデューサー）
+  - 新井康孝（株式会社[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink") エンタテインメント本部 プロデューサー 兼 演出）
 
 ## 主な制作協力番組
 

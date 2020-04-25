@@ -11,7 +11,7 @@
 
 番組スタート時はニュースVTR下部にタイトルロゴを表示し、1項目をヘッドライン形式で紹介、その後に報道フロアに切り替わり「時刻は6時になりました。NNNニュースSUPER、○○記者です。」の一声でスタートしていたが、2010年3月29日からは「6時になりました。報道フロアから最新のニュース、○○記者です。」の一声で始まっていたが、2010年7月5日から○○記者の部分は「報道局○○デスクです。」になった。
 
-なお、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）枠で自社製作番組を放送している3局（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")『[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")』、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")『[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")』、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』）では、1コーナーの形で同時ネット放送しているため、『ズームイン\!\!SUPER』唯一の全国ネット枠だった。
+なお、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）枠で自社製作番組を放送している3局（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")『[どさんこワイド\!\!朝\!](https://ja.wikipedia.org/wiki/どさんこワイド!!朝! "wikilink")』、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")『[朝生ワイド す・またん\!](https://ja.wikipedia.org/wiki/朝生ワイド_す・またん! "wikilink")』、[山口放送](../Page/山口放送.md "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』）では、1コーナーの形で同時ネット放送しているため、『ズームイン\!\!SUPER』唯一の全国ネット枠だった。
 
 『ズームイン\!\!SUPER』全ネット局が第1部・第2部を通じて**“必ずネットを受けなければならない”**という拘束力があるのは『NNNニュースSUPER』だけであった（参考…[マストバイ](https://ja.wikipedia.org/wiki/マストバイ "wikilink")23局はその他日本テレビから指定された番組は必ず放送しなければならない）。
 
@@ -118,7 +118,7 @@
 
 ## ネット局
 
-『ズームイン\!\!SUPER』では、このコーナーのみ全ネット局に対する**必ずネットを受けなければならない**という拘束力があった。また、自社製作番組を放送しているため、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）を放送していない[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")の3局も番組内のコーナーとして同時ネット。過去に自社製作番組を放送していた[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（[2002年](../Page/2002年.md "wikilink")4月まで）・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")（[2004年](../Page/2004年.md "wikilink")3月まで）・[福岡放送](../Page/福岡放送.md "wikilink")（[2007年](../Page/2007年.md "wikilink")9月まで）・[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[2009年](../Page/2009年.md "wikilink")3月まで）も同様。
+『ズームイン\!\!SUPER』では、このコーナーのみ全ネット局に対する**必ずネットを受けなければならない**という拘束力があった。また、自社製作番組を放送しているため、『ズームイン\!\!SUPER』の第1部（5:20 - 6:30）を放送していない[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")の3局も番組内のコーナーとして同時ネット。過去に自社製作番組を放送していた[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（[2002年](../Page/2002年.md "wikilink")4月まで）・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")（[2004年](../Page/2004年.md "wikilink")3月まで）・[福岡放送](../Page/福岡放送.md "wikilink")（[2007年](../Page/2007年.md "wikilink")9月まで）・[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[2009年](../Page/2009年.md "wikilink")3月まで）も同様。
 
 <table>
 <caption>『NNNニュースSUPER』ネット局</caption>
@@ -251,7 +251,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td></td>
 </tr>

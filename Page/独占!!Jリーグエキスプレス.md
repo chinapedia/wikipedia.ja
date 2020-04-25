@@ -50,12 +50,12 @@
   - [茨城放送](../Page/茨城放送.md "wikilink")
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 9月）
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+  - [信越放送](../Page/信越放送.md "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（『[今夜もやっぱりFunkyパジャマ\!](https://ja.wikipedia.org/wiki/今夜もやっぱりFunkyパジャマ! "wikilink")』→『[Pee Pee Jaca Jacans](../Page/Pee_Pee_Jaca_Jacans.md "wikilink")』→『[ぷるぷるMagicモンスター](../Page/ぷるぷるMagicモンスター.md "wikilink")』に内包されていた時期あり）
   - [KBS京都](../Page/京都放送.md "wikilink")（[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 1999年9月。『[はいぱぁナイト](../Page/はいぱぁナイト.md "wikilink")』→『[ハイヤングKYOTO](../Page/ハイヤングKYOTO_\(第二期\).md "wikilink")』に内包されていた時期あり）
   - [ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（1993年5月17日ネット開始\[2\]。開始当時の放送日時は、21:35 - 21:45\[3\]。『[ABCミュージック21](../Page/ABCミュージック21.md "wikilink")』に内包されていた時期あり）
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（『[ダブルバスターズ](../Page/ダブルバスターズ.md "wikilink")』に内包されていた時期あり）
   - [ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")

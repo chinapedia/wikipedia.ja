@@ -542,7 +542,7 @@ AVCD-31206:通常盤</p></td>
 <li>Thunder Party II feat. <a href="https://ja.wikipedia.org/wiki/大黒摩季" title="wikilink">大黒摩季</a></li>
 <li>Accha! Asia</li>
 <li>超 Super Happy feat. <a href="../Page/Psycho_le_Cemu.md" title="wikilink">Psycho le Cemu</a></li>
-<li>｢A｣ ～La French mix～ feat. <a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></li>
+<li>｢A｣ ～La French mix～ feat. <a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></li>
 <li>We can't stop the music ver. A feat. DA PUMP</li>
 <li>Coffee Scotch Mermaid &amp; Me</li>
 <li>Funk Tank feat. <a href="https://ja.wikipedia.org/wiki/島谷ひとみ" title="wikilink">島谷ひとみ</a></li>
@@ -932,7 +932,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞：m.c.A・T、作曲：富樫明生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>「from your letter」</p></td>
 <td><p>作曲</p></td>
 </tr>
@@ -957,7 +957,7 @@ AVCD-23295:通常盤</p></td>
 ### その他
 
   - [YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink")/TK presents こねっと※ヴォーカル参加
-  - avex THE ALBUM※『A』/m.c.A・T&[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")収録
+  - avex THE ALBUM※『A』/m.c.A・T&[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")収録
   - MAXIMIZORの「CAN'T UNDO THIS\!\!-フォーチャイルド'94」のボーカルとして参加（事実上のシークレット扱い）
   - The people with no name/[RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink") Featuring m.c.A・T（2003年8月20日） ※ヴォーカル参加
   - 仮面ライダーのうた/RIDER CHIPS Featuring m.c.A・T （2004年2月18日） ※ヴォーカル参加
@@ -1079,7 +1079,7 @@ AVCD-23295:通常盤</p></td>
 
   - [株式会社アキオワンダー](http://www.aquiowonder.com/index.html)
 
-  - [m.c.A・Tオフィシャルブログ](http://ameblo.jp/mc-at/)
+  - [m.c.A・Tオフィシャルブログ](https://ameblo.jp/mc-at/)
 
   -
   -

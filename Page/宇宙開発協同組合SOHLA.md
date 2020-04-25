@@ -53,7 +53,7 @@ SOHLA-1は、50kg級の衛星であり、PETSATで使用される予定の展開
 
   - [Astro Technology SOHLA](http://www.sohla.com)
   - [公共広告機構](http://www.ad-c.or.jp/campaign/all/2003_6.html) - 東大阪の人工衛星を取り上げたドキュメンタリータッチのCMを制作、2003年7月から１年間公共広告として展開した。
-  - [JAXAとSOHLA間の協力に関する取決め](http://www.jaxa.jp/press/2004/05/20040520_sohla_j.html)
+  - [JAXAとSOHLA間の協力に関する取決め](https://www.jaxa.jp/press/2004/05/20040520_sohla_j.html)
   - [大阪府立大学 小型宇宙機システム研究センター](http://www.sssrc.aero.osakafu-u.ac.jp/)
 
 [Category:日本の航空宇宙企業](https://ja.wikipedia.org/wiki/Category:日本の航空宇宙企業 "wikilink") [Category:事業協同組合](https://ja.wikipedia.org/wiki/Category:事業協同組合 "wikilink") [Category:民間宇宙団体](https://ja.wikipedia.org/wiki/Category:民間宇宙団体 "wikilink") [Category:大阪府の協同組合](https://ja.wikipedia.org/wiki/Category:大阪府の協同組合 "wikilink") [Category:2002年設立の組織](https://ja.wikipedia.org/wiki/Category:2002年設立の組織 "wikilink") [Category:東大阪市](https://ja.wikipedia.org/wiki/Category:東大阪市 "wikilink")

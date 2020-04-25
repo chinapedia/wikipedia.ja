@@ -1017,7 +1017,7 @@
 
 <!-- end list -->
 
-  - 『[ARIA](https://ja.wikipedia.org/wiki/ARIA "wikilink")』シリーズ
+  - 『[ARIA](../Page/ARIA_\(漫画\).md "wikilink")』シリーズ
 
 <!-- end list -->
 

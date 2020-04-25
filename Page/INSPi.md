@@ -48,8 +48,9 @@
       - 血液型はA型。
       - 身長185cm、体重60kg
       - 愛称はケースケ、期待の大型新人、負けを知らない男。
-      - 特技はヌンチャク、かかと落とし。
+      - 特技はヌンチャク、かかと落とし、[ホーミー](https://ja.wikipedia.org/wiki/ホーミー "wikilink")。
       - [早稲田大学](../Page/早稲田大学.md "wikilink")アカペラサークル出身で、[RAG FAIR荒井健一の後輩だった](../Page/RAG_FAIR.md "wikilink")。
+      - [Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink")、[SOLIDEMO](https://ja.wikipedia.org/wiki/SOLIDEMO "wikilink")、[COLOR CREATION等のコーラス](https://ja.wikipedia.org/wiki/COLOR_CREATION "wikilink")・ディレクター。
 
 ### 元メンバー
 

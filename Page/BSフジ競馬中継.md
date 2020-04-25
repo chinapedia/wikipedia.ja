@@ -3490,17 +3490,17 @@ KTV[13]</p></td>
 
 地上波で流れる主要レースを紹介するVTRなどは放送せず、比較的コンパクトな内容が組まれている。
 
-秋華賞当日の[2018年](../Page/2018年.md "wikilink")10月14日から3ヶ月は月1回で京都・阪神のGI競走を中心に、[2019年](../Page/2019年.md "wikilink")は一部重賞競走施行日において月1 - 2回程度放送したが、[2020年](../Page/2020年.md "wikilink")1月より毎週日曜のレギュラー放送枠に昇格となった。
+秋華賞当日の[2018年](../Page/2018年.md "wikilink")10月14日から3ヶ月は月1回で京都・阪神のGI競走を中心に、[2019年](../Page/2019年.md "wikilink")は一部重賞競走施行日において月1 - 2回程度、[2020年](../Page/2020年.md "wikilink")1月より3ヶ月は毎週日曜のレギュラー放送枠に、4月からは[NHK競馬中継](../Page/NHK競馬中継.md "wikilink")が放送しない日\[90\]をメインに再び月1 - 2回程度放送に戻った。
 
 中継映像は原則としてグリーンチャンネルと同じJRA公式映像だが、東京・中山の関東主場、福島・新潟の夏季開催（7-9月）はFNS系列の中継映像を使用する。FNS系列局のものは関西主場であっても使用しない。番組内でJRAが主導する中央のGI競走が放映されるのは、過去の[BS11での特例を除けば民放BSでは唯一の放送例である](https://ja.wikipedia.org/wiki/BSイレブン競馬中継#重賞競走の中継について "wikilink")。またJRAが馬券発売対象とする海外のG1が番組内で放送される場合、中継は行わずにVTRで挿入する。
 
-2019年11月10日は報道特別番組として地上波局一斉に天皇陛下の即位を祝う「[祝賀御列の儀](https://ja.wikipedia.org/wiki/祝賀御列の儀 "wikilink")」の生中継が編成された関係で、2週連続\[90\]でフジテレビ系列の競馬中継番組が休止となり\[91\]、[裏送り](../Page/裏送り.md "wikilink")も行われなかった。そのため、東京のメイン競走の中継は2012年10月7日の毎日王冠開催日以来に独自実況やテロップ送出等が施された。
+2019年11月10日は報道特別番組として地上波局一斉に天皇陛下の即位を祝う「[祝賀御列の儀](https://ja.wikipedia.org/wiki/祝賀御列の儀 "wikilink")」の生中継が編成された関係で、2週連続\[91\]でフジテレビ系列の競馬中継番組が休止となり\[92\]、[裏送り](../Page/裏送り.md "wikilink")も行われなかった。そのため、東京のメイン競走の中継は2012年10月7日の毎日王冠開催日以来に独自実況やテロップ送出等が施された。
 
 ### 司会者
 
   - [福原直英](../Page/福原直英.md "wikilink")（フジテレビアナウンサー）
   - [小澤陽子](https://ja.wikipedia.org/wiki/小澤陽子 "wikilink")（フジテレビアナウンサー、2019年1月 - ）
-  - [青嶋達也](../Page/青嶋達也.md "wikilink")（フジテレビアナウンサー、2019年11月 - ）
+  - [青嶋達也](../Page/青嶋達也.md "wikilink")（フジテレビアナウンサー、2019年11月 ）
 
 ### 解説者
 
@@ -3539,14 +3539,14 @@ KTV[13]</p></td>
 <tbody>
 <tr class="odd">
 <td><p>10月14日</p></td>
-<td><p>秋華賞[92]</p></td>
+<td><p>秋華賞[93]</p></td>
 <td><p>BS</p></td>
 <td><p>BSF</p></td>
 <td><p>15:00 - 16:00</p></td>
 </tr>
 <tr class="even">
 <td><p>11月11日</p></td>
-<td><p>エリザベス女王杯[93]<br />
+<td><p>エリザベス女王杯[94]<br />
 <a href="../Page/福島記念.md" title="wikilink">福島記念</a></p></td>
 <td></td>
 <td></td>
@@ -3554,7 +3554,7 @@ KTV[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月9日</p></td>
-<td><p>阪神ジュベナイルフィリーズ[94]<br />
+<td><p>阪神ジュベナイルフィリーズ[95]<br />
 <a href="../Page/カペラステークス.md" title="wikilink">カペラステークス</a></p></td>
 <td></td>
 <td></td>
@@ -3834,7 +3834,7 @@ KTV[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/弥生賞ディープインパクト記念" title="wikilink">弥生賞ディープインパクト記念</a></p></td>
+<td><p><a href="../Page/弥生賞ディープインパクト記念.md" title="wikilink">弥生賞ディープインパクト記念</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3924,8 +3924,8 @@ KTV[13]</p></td>
 
 2019年に入り、これまで[BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")が主だって編成していた[地方競馬](../Page/地方競馬.md "wikilink")の[ダートグレード競走](../Page/ダートグレード競走.md "wikilink")の中継が、BSフジで中継されることがある。
 
-  - 2019年11月4日（[振替休日](../Page/振替休日.md "wikilink")・[月曜日](../Page/月曜日.md "wikilink")）、[南関競馬の](../Page/南関東公営競馬.md "wikilink")[浦和競馬場](../Page/浦和競馬場.md "wikilink")にて行われた[JBC競走](https://ja.wikipedia.org/wiki/ジャパンブリーディングファームズカップ "wikilink")（[JBCレディスクラシック](https://ja.wikipedia.org/wiki/JBCレディスクラシック "wikilink")・[JBCスプリント](../Page/JBCスプリント.md "wikilink")・[JBCクラシック](../Page/JBCクラシック.md "wikilink")）の中継を13:00-16:00に中継した\[95\]。前日には直前特番も放送されている。
-  - 同年12月29日（日曜日）の[大井競馬場](../Page/大井競馬場.md "wikilink")・[東京大賞典](../Page/東京大賞典.md "wikilink")は、BSフジに加えフジテレビ（関東ローカル）でも中継された\[96\]。
+  - 2019年11月4日（[振替休日](../Page/振替休日.md "wikilink")・[月曜日](../Page/月曜日.md "wikilink")）、[南関競馬の](../Page/南関東公営競馬.md "wikilink")[浦和競馬場](../Page/浦和競馬場.md "wikilink")にて行われた[JBC競走](https://ja.wikipedia.org/wiki/ジャパンブリーディングファームズカップ "wikilink")（[JBCレディスクラシック](https://ja.wikipedia.org/wiki/JBCレディスクラシック "wikilink")・[JBCスプリント](../Page/JBCスプリント.md "wikilink")・[JBCクラシック](../Page/JBCクラシック.md "wikilink")）の中継を13:00-16:00に中継した\[96\]。前日には直前特番も放送されている。
+  - 同年12月29日（日曜日）の[大井競馬場](../Page/大井競馬場.md "wikilink")・[東京大賞典](../Page/東京大賞典.md "wikilink")は、BSフジに加えフジテレビ（関東ローカル）でも中継された\[97\]。
 
 ## その他
 
@@ -3940,7 +3940,7 @@ KTV[13]</p></td>
 
 ## 関連項目
 
-  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")） - 2011年開始の競馬番組。これにより、当番組を含めて午後の競馬が視聴可能になった。
+  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](../Page/日本BS放送.md "wikilink")） - 2011年開始の競馬番組。これにより、当番組を含めて午後の競馬が視聴可能になった。
 
 ## 外部リンク
 
@@ -4037,10 +4037,11 @@ KTV[13]</p></td>
 87. 福島競馬場はバーデンバーデンカップ。
 88. 新潟競馬場は関越ステークス。
 89.
-90. 2019年11月3日は『[FNS27時間テレビ にほんのスポーツは強いっ\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")』を放送しBSフジでBSみんなのKEIBAを編成
-91. 地上波放送の休止は2012年[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連以来。
-92. [BSフジで競馬中継番組「BSスーパーKEIBA」を放送](http://www.jra.go.jp/news/201810/101001.html) 日本中央競馬会、2018年10月10日公開 2018年10月11日閲覧
-93.
+90. 2020年の[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")と[皐月賞](../Page/皐月賞.md "wikilink")は、NHKが急遽中継取りやめの為特例でBSフジを含めて放送されない
+91. 2019年11月3日は『[FNS27時間テレビ にほんのスポーツは強いっ\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")』を放送しBSフジでBSみんなのKEIBAを編成
+92. 地上波放送の休止は2012年[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連以来。
+93. [BSフジで競馬中継番組「BSスーパーKEIBA」を放送](http://www.jra.go.jp/news/201810/101001.html) 日本中央競馬会、2018年10月10日公開 2018年10月11日閲覧
 94.
 95.
-96. [令和元年を締めくくるBIGレース「東京大賞典（GⅠ）」12月29日（日）フジテレビで初の生中継が決定！（BSフジでも同時放送）](https://www.tokyocitykeiba.com/news/45200/) 東京シティ競馬、2019年11月18日、2019年11月21日閲覧
+96.
+97. [令和元年を締めくくるBIGレース「東京大賞典（GⅠ）」12月29日（日）フジテレビで初の生中継が決定！（BSフジでも同時放送）](https://www.tokyocitykeiba.com/news/45200/) 東京シティ競馬、2019年11月18日、2019年11月21日閲覧

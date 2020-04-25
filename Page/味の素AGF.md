@@ -171,8 +171,11 @@
 
 ## 外部リンク
 
-  - [味の素AGF](https://www.agf.co.jp/index.html)
+  - [味の素AGF](https://www.agf.co.jp/)
 
+  -
+  -
+  -
 [Category:日本の飲料メーカー](https://ja.wikipedia.org/wiki/Category:日本の飲料メーカー "wikilink") [Category:日本のコーヒー会社](https://ja.wikipedia.org/wiki/Category:日本のコーヒー会社 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:味の素](https://ja.wikipedia.org/wiki/Category:味の素 "wikilink") [Category:外資系発祥の日本企業](https://ja.wikipedia.org/wiki/Category:外資系発祥の日本企業 "wikilink") [Category:1973年設立の企業](https://ja.wikipedia.org/wiki/Category:1973年設立の企業 "wikilink") [Category:鈴鹿市](https://ja.wikipedia.org/wiki/Category:鈴鹿市 "wikilink") [Category:太田市](https://ja.wikipedia.org/wiki/Category:太田市 "wikilink")
 
 1.

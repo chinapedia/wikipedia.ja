@@ -184,7 +184,7 @@
 
 <!-- end list -->
 
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（岩手朝日テレビの開局まで）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（岩手朝日テレビの開局まで）
   - [とちぎテレビ](../Page/とちぎテレビ.md "wikilink") （ - 2009年9月27日）
   - [千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（2001年10月25日 - 2016年9月25日）
   - [テレビ信州](../Page/テレビ信州.md "wikilink") （日本テレビ系列とのクロスネットの頃に放送）

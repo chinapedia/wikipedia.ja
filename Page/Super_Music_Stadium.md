@@ -9,7 +9,7 @@
   - 火曜日：[松山千春](../Page/松山千春.md "wikilink")
   - 水曜日：[坂上みき](../Page/坂上みき.md "wikilink")
   - 木曜日：[小林克也](../Page/小林克也.md "wikilink")
-  - 金曜日：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - 金曜日：[吉田拓郎](../Page/吉田拓郎.md "wikilink")
 
 ## オープニング音楽
 
@@ -21,7 +21,7 @@
 
 19:00～20:00
 
-  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[ラジオ福島](../Page/ラジオ福島.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[ラジオ福島](../Page/ラジオ福島.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、、[和歌山放送](../Page/和歌山放送.md "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
 
 <!-- end list -->
 

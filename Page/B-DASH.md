@@ -910,7 +910,7 @@ XLCN-71010:通常盤</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/マシマロ_(奥田民生の曲)" title="wikilink">マシマロ</a> / <a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li><strong>ワインのばか / B-DASH</strong></li>
 <li>カヌー / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/さすらい_(奥田民生の曲)" title="wikilink">さすらい</a> / <a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/さすらい_(奥田民生の曲)" title="wikilink">さすらい</a> / <a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/イージュー★ライダー" title="wikilink">イージュー★ライダー</a> / <a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/恋のかけら" title="wikilink">恋のかけら</a> / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOTHER/ネホリーナハホリーナ" title="wikilink">MOTHER</a> / <a href="../Page/The_ピーズ.md" title="wikilink">The ピーズ</a></li>
@@ -1052,7 +1052,7 @@ XLCN-71010:通常盤</p></td>
         w/[mudy on the 昨晩](https://ja.wikipedia.org/wiki/mudy_on_the_昨晩 "wikilink")/SNAIL RAMP/[さめざめ](https://ja.wikipedia.org/wiki/さめざめ "wikilink")/Blank/SHAMO/[UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink")/[3style](https://ja.wikipedia.org/wiki/3style "wikilink")/LAUGHROIL/ミライライト/RONDONRATS。/[コザック前田](https://ja.wikipedia.org/wiki/コザック前田 "wikilink")/[SABOTEN](../Page/SABOTEN.md "wikilink")/[FUNKIST](https://ja.wikipedia.org/wiki/FUNKIST "wikilink")
   - 2013年05月03日 - B-DASH presents 「SERVICE SPECIAL EDITION」
       -
-        w/[BABYLON PANIC](https://ja.wikipedia.org/wiki/BABYLON_PANIC "wikilink") / [junnos](https://ja.wikipedia.org/wiki/junnos "wikilink") / [room12](https://ja.wikipedia.org/wiki/room12 "wikilink") / SHAKA LABBITS / [カヨコ](https://ja.wikipedia.org/wiki/カヨコ "wikilink") / [トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink") / [空きっ腹に酒](https://ja.wikipedia.org/wiki/空きっ腹に酒 "wikilink")
+        w/[BABYLON PANIC](https://ja.wikipedia.org/wiki/BABYLON_PANIC "wikilink") / [junnos](https://ja.wikipedia.org/wiki/junnos "wikilink") / [room12](https://ja.wikipedia.org/wiki/room12 "wikilink") / SHAKA LABBITS / [カヨコ](../Page/草野華余子.md "wikilink") / [トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink") / [空きっ腹に酒](https://ja.wikipedia.org/wiki/空きっ腹に酒 "wikilink")
   - 2014年09月12日 - B-DASH presents 『かけこみしぇるた〜2』
   - 2015年01月30日 - B-DASH presents 『かけこみしぇるた〜2』vol.2
   - 2015年04月25日 - B-DASH presents 『かけこみしぇるた〜2』vol.3 特別編 ARASEの逆襲

@@ -640,6 +640,7 @@ Team Fumitake</p></td>
   - [琉球アスティーダ](https://ja.wikipedia.org/wiki/琉球アスティーダ "wikilink") - 2018年4月、包括的業務提携を新たに締結。
   - [ソーマプライア](https://ja.wikipedia.org/wiki/ソーマプライア "wikilink") - 2018年4月、包括的業務提携を新たに締結。
   - [琉球コラソン](https://ja.wikipedia.org/wiki/琉球コラソン "wikilink") - 元はFC琉球のハンドボール部門。
+  - [沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")
 
 ## 外部リンク
 

@@ -1393,7 +1393,7 @@ TEAM長岡</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>(KRY)</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>(KRY)</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
 <td><p>木曜 0:29 - 0:59<br />
 （水曜深夜）</p></td>

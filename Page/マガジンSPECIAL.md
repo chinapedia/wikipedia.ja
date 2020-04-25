@@ -137,13 +137,13 @@
   - [School Rumble 増刊号](../Page/スクールランブル.md "wikilink")（[小林尽](../Page/小林尽.md "wikilink")）2003年No.2 - 2008年No.5、本誌と同時連載
       - [School Rumble Z](../Page/スクールランブル.md "wikilink")（小林尽）2008年No.9 - 2009年No.6
   - [STAR BEAT\!\!](https://ja.wikipedia.org/wiki/STAR_BEAT!! "wikilink")（[香椎さおり](https://ja.wikipedia.org/wiki/音羽さおり "wikilink")）2014年No.7 - 2015No.5
+  - [素敵探偵☆ラビリンス](../Page/素敵探偵☆ラビリンス.md "wikilink")（原作/[万城めいと](../Page/あかほりさとる.md "wikilink") 漫画/[若山晴司](https://ja.wikipedia.org/wiki/深山和香 "wikilink")）2006年No.1 - 2008年No.7
   - [スミレ♡17歳\!\!](../Page/スミレ16歳!!.md "wikilink")（[永吉たける](../Page/永吉たける.md "wikilink")） → [スミレ♡16歳\!\!として本誌に移籍](../Page/スミレ16歳!!.md "wikilink")
       - [スミレ♡16歳\!\!](../Page/スミレ16歳!!.md "wikilink")（永吉たける）2006年No.12 - 2009年No.2 ← 本誌より移籍
 
       - （外部リンク）
 
       - （外部リンク）
-  - [素敵探偵☆ラビリンス](../Page/素敵探偵☆ラビリンス.md "wikilink")（原作/[万城めいと](https://ja.wikipedia.org/wiki/万城めいと "wikilink") 漫画/[若山晴司](https://ja.wikipedia.org/wiki/深山和香 "wikilink")）2006年No.1 - 2008年No.7
   - [星天高校アイドル部\!](https://ja.wikipedia.org/wiki/星天高校アイドル部! "wikilink")（[金田陽介](https://ja.wikipedia.org/wiki/金田陽介 "wikilink")）2012年No.4 - 2014年No.1
   - [生徒会役員共](../Page/生徒会役員共.md "wikilink")（[氏家ト全](../Page/氏家ト全.md "wikilink")）2007年No.6 - 2008年No.7 → 本誌に移籍
   - [ZERO-Ch](https://ja.wikipedia.org/wiki/ZERO-Ch "wikilink")（[忍野慶殊](https://ja.wikipedia.org/wiki/忍野慶殊 "wikilink")）2004年No.8 - 2005年No.4 ★

@@ -85,32 +85,37 @@
 
 2015年6月10日号では、創刊以来初となる[猫特集](../Page/ネコ.md "wikilink")「にゃんこ♥LOVE」を組んだ。これは好評で、2019年時点で第6弾まで特集が組まれている\[12\]。
 
+2017年12月6日号では、創刊以来初となる[アニメ](../Page/アニメ.md "wikilink")・[2.5次元ミュージカル](https://ja.wikipedia.org/wiki/2.5次元ミュージカル "wikilink")特集を組んだ\[13\]。
+
 ## 節目の号に表紙を飾った人物
 
-| 号数    | 日号           | 表紙                                                      |
-| ----- | ------------ | ------------------------------------------------------- |
-| 創刊号   | 1970年3月20日号  | MARITA（ミス・クリスチャン・ディオール）                                 |
-| 1000号 | 1995年12月22日号 | [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink") |
-| 2000号 | 2016年4月20日号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")                   |
+| 号数                  | 日号           | 表紙                                                                            |
+| ------------------- | ------------ | ----------------------------------------------------------------------------- |
+| 創刊号                 | 1970年3月20日号  | MARITA（ミス・クリスチャン・ディオール）\[14\]                                                 |
+| 1000号               | 1995年12月22日号 | [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")\[15\]                 |
+| 1207号 (創刊30周年記念特別号) | 2000年3月10日号  | [木村拓哉](../Page/木村拓哉.md "wikilink")\[16\]                                      |
+| 2000号               | 2016年4月20日号  | [嵐](../Page/嵐_\(グループ\).md "wikilink")\[17\]                                   |
+| 2191号 (創刊50周年記念特別号) | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")\[18\] |
 
 ## アニメキャラクターの表紙
 
-2016年5月18日号では、アニメ『[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")』の登場人物である六つ子が表紙を飾った。ananの表紙をアニメの登場人物が飾ったのは、創刊以来初めてであった。六つ子は2017年11月22日号でも表紙を飾り、2020年3月11日号時点で2度以上表紙を飾った唯一のアニメの登場人物になっている。2017年3月14日には、『おそ松さん』に特化した別冊『anan特別編集「おそ松さん」SPECIAL BOOK』が、2019年4月3日には『anan特別編集「えいがのおそ松さん」OFFICIAL BOOK』が発行されており、いずれも六つ子が表紙を飾っている\[13\]。
+2016年5月18日号では、アニメ『[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")』の登場人物である六つ子が表紙を飾った。ananの表紙をアニメの登場人物が飾ったのは、創刊以来初めてであった。六つ子は2017年11月22日号でも表紙を飾り、2020年3月11日号時点で2度以上表紙を飾った唯一のアニメの登場人物になっている。2017年3月14日には、『おそ松さん』に特化した別冊『anan特別編集「おそ松さん」SPECIAL BOOK』が、2019年4月3日には『anan特別編集「えいがのおそ松さん」OFFICIAL BOOK』が発行されており、いずれも六つ子が表紙を飾っている\[19\]。
 
-2019年6月19日号では『[ヒプノシスマイク](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")』の登場人物が裏表紙を飾り、2019年8月7日号では『[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")』の登場人物が表紙を飾っている\[14\]。
+2019年6月19日号では『[ヒプノシスマイク](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")』の登場人物が裏表紙を飾り、2019年8月7日号では『[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")』の登場人物が表紙を飾っている\[20\]。
 
 ## 重版がかかった号
 
-2020年3月11日号時点で、以下の6号が重版された（週刊誌で重版は極めて異例とされる）\[15\]。
+2020年3月11日号時点で、以下の7号が重版された（週刊誌で重版は極めて異例とされる）\[21\]\[22\]。
 
-| 日号           | 表紙                                                                                                          |
-| ------------ | ----------------------------------------------------------------------------------------------------------- |
-| 2010年1月27日号  | [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")                                                         |
-| 2018年5月30日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     |
-| 2019年4月3日号   | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               |
-| 2019年7月3日号   | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")                                               |
-| 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") |
-| 2019年12月18日号 | SixTONES                                                                                                    |
+| 号数    | 日号           | 表紙                                                                                                          |
+| ----- | ------------ | ----------------------------------------------------------------------------------------------------------- |
+| 1693号 | 2010年1月27日号  | [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")                                                         |
+| 2103号 | 2018年5月30日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     |
+| 2145号 | 2019年4月3日号   | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               |
+| 2157号 | 2019年7月3日号   | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")                                               |
+| 2165号 | 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") |
+| 2180号 | 2019年12月18日号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               |
+| 2191号 | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")\[23\]                               |
 
 ## 誌面
 
@@ -118,11 +123,11 @@
 
 **好きな男・嫌いな男ランキング**は、毎年（2009年以降は休止）ananによる独自のアンケートによって好きな男、嫌いな男をランキングする雑誌の人気企画。
 
-毎年、「好きな男・嫌いな男ランキング」（他社が出版する複数の雑誌の、同様のランキングとは、上位芸能人の結果が異なることが多い）を発表しており、男性からの認知度も高い。また「好きな女・嫌いな女ランキング」も発表している\[16\]。
+毎年、「好きな男・嫌いな男ランキング」（他社が出版する複数の雑誌の、同様のランキングとは、上位芸能人の結果が異なることが多い）を発表しており、男性からの認知度も高い。また「好きな女・嫌いな女ランキング」も発表している\[24\]。
 
 ### SEX特集
 
-毎年、8月第1週号に「SEX特集」と呼ばれる、女性週刊誌では珍しい「[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")」に関する特集を組む\[17\]。過去には[AV女優](../Page/AV女優.md "wikilink")の[原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")による「Girl's pleasure」の"[官能ビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")"[DVD](../Page/DVD-Video.md "wikilink")（2009年）、「[袋とじ](../Page/袋とじ.md "wikilink")企画」や[SEX](https://ja.wikipedia.org/wiki/性交 "wikilink")[アンケート](../Page/アンケート.md "wikilink")や[官能小説](../Page/官能小説.md "wikilink")や[避妊](../Page/避妊.md "wikilink")、[性感染症](../Page/性感染症.md "wikilink")に纏わる記事を特集する。ただし、その過激な内容に賛否両論の声が上がっている。
+毎年、8月第1週号に「SEX特集」と呼ばれる、女性週刊誌では珍しい「[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")」に関する特集を組む\[25\]。過去には[AV女優](../Page/AV女優.md "wikilink")の[原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")による「Girl's pleasure」の"[官能ビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")"[DVD](../Page/DVD-Video.md "wikilink")（2009年）、「[袋とじ](../Page/袋とじ.md "wikilink")企画」や[SEX](https://ja.wikipedia.org/wiki/性交 "wikilink")[アンケート](../Page/アンケート.md "wikilink")や[官能小説](../Page/官能小説.md "wikilink")や[避妊](../Page/避妊.md "wikilink")、[性感染症](../Page/性感染症.md "wikilink")に纏わる記事を特集する。ただし、その過激な内容に賛否両論の声が上がっている。
 
 ### マンガ大賞
 
@@ -189,7 +194,7 @@
 </tr>
 <tr class="even">
 <td><p>第6回<br />
-（2015年）[18]</p></td>
+（2015年）[26]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京タラレバ娘" title="wikilink">東京タラレバ娘</a>（東村アキコ）</p></td>
 <td><p><strong>準大賞</strong><br />
 <a href="https://ja.wikipedia.org/wiki/アヤメくんののんびり肉食日誌" title="wikilink">アヤメくんののんびり肉食日誌</a>（<a href="https://ja.wikipedia.org/wiki/町麻衣" title="wikilink">町麻衣</a>）<br />
@@ -247,6 +252,10 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 参考文献
 
   -
@@ -273,9 +282,17 @@
 10.
 11.
 12.
-13. 『an・an』2020年3月11日号、102頁。
-14. 『an・an』2020年3月11日号、100-101頁。
-15. 『an・an』2020年3月11日号、82-83頁。
-16.
-17. [北原みのり](../Page/北原みのり.md "wikilink")『アンアンのセックスできれいになれた?』 [朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、2011年8月。ISBN 978-4-02-250807-2
-18.
+13. [「anan」初のアニメ特集を実施！2.5次元も網羅へ](https://www.cinematoday.jp/news/N0096325)、シネマトゥデイ、2017年11月21日18時00分。
+14. 『an・an』2020年3月11日号、132-133頁。
+15. 『an・an』2020年3月11日号、148頁。
+16. 『an・an』2020年3月11日号、152-153頁。
+17. 『an・an』2020年3月11日号、168頁。
+18. 『an・an』2020年3月11日号、178頁。
+19. 『an・an』2020年3月11日号、102頁。
+20. 『an・an』2020年3月11日号、100-101頁。
+21. 『an・an』2020年3月11日号、82-83頁。
+22.
+23. 通常版およびスペシャルエディションの2冊同時重版。同ーアーティストの表紙違いバージョン2冊同時重版は、史上初。
+24.
+25. [北原みのり](../Page/北原みのり.md "wikilink")『アンアンのセックスできれいになれた?』 [朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、2011年8月。ISBN 978-4-02-250807-2
+26.

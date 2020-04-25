@@ -5,21 +5,21 @@
 
 ## OSの標準化
 
-フランス自動車産業におけるOSEKと同様のプロジェクトであったVDXと協調路線をとり、OSEK/VDXとして1995年10月に仕様を提示した。国際規格としては、ISO TC22(road vehicle)SC3で審議し、2005年現在、車載機器制御用OSの国際標準 ISO 17356シリーズとして[ISOが発行している](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")。ISOのOSEK OSの現行文書は、ISO 17356-1:2005 Road vehicles -- Open interface for embedded automotive applications -- Part 1: General structure and terms, definitions and abbreviated termsである。Part6のOILが既発行。他のPartは未発行。JISも未発行。
+フランス自動車産業におけるOSEKと同様のプロジェクトであったVDXと協調路線をとり、OSEK/VDXとして1995年10月に仕様を提示した。国際規格としては、ISO TC22(road vehicle)SC3で審議し、2005年現在、車載機器制御用OSの国際標準 ISO 17356シリーズとして[ISOが発行している](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")。ISOのOSEK OSの現行文書は、ISO 17356-1:2005 Road vehicles -- Open interface for embedded automotive applications -- Part 1: General structure and terms, definitions and abbreviated terms\[1\]である。Part6 OILなどシリーズ既発行。JISは未発行。
 
 ## 主な機能
 
+### 割り込み処理機能
+
+OSEKにおけるISR（interrupt service routine[割り込みサービスルーチン](https://ja.wikipedia.org/wiki/割り込みサービスルーチン "wikilink")）には、OSのサービスを使用しないISR1と、OSのサービスであるシステムコールを呼び出すことが出来るISR2がある。また、割り込みの禁止・許可を制御する機能も有している。OSEKでは、エンジン・モータのような角速度制御しているソフトウェアを割り込みで設計することを想定している。
+
 ### 処理（タスク）管理機能
 
-OSEKにおける処理（[タスク](https://ja.wikipedia.org/wiki/タスク "wikilink")）は、他の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")における[スレッドと等価である](../Page/スレッド_\(コンピュータ\).md "wikilink")。[アプリケーション内における](../Page/アプリケーションソフトウェア.md "wikilink")[プログラムを並列実行する単位である](../Page/プログラム_\(コンピュータ\).md "wikilink")。OSEK/VDX仕様のOS上で動作するアプリケーションは、0個以上のタスクで構成する。タスクには、基本タスクと拡張タスクがある。拡張タスクは WaitEvent システムコールにより待ち状態に遷移できる。OSEKでは、エンジン・モータのような角速度制御しているソフトウェアを割り込みで設計することを想定し、タスクが割り込みを妨げない設計ができるようになっている。
+OSEKにおける処理（[タスク](https://ja.wikipedia.org/wiki/タスク "wikilink")）は、他の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")における[スレッドと等価である](../Page/スレッド_\(コンピュータ\).md "wikilink")。[アプリケーション内における](../Page/アプリケーションソフトウェア.md "wikilink")[プログラムを並列実行する単位である](../Page/プログラム_\(コンピュータ\).md "wikilink")。OSEK/VDX仕様のOS上で動作するアプリケーションは、0個以上のタスクで構成する。タスクには、基本タスクと拡張タスクがある。拡張タスクは WaitEvent システムコールにより待ち状態に遷移できる。OSEKでは、タスクが割り込みを妨げない設計ができるようになっている。
 
 ### 応用状態（アプリケーションモード）
 
 応用状態（アプリケーションモード）はOSが起動する際に操作状態（オペレーションモード）を選択する機能である。OS起動後は応用状態（アプリケーションモード）を変更することはできない。
-
-### 割り込み処理機能
-
-OSEKにおけるISR（interrupt service routine[割り込みサービスルーチン](https://ja.wikipedia.org/wiki/割り込みサービスルーチン "wikilink")）には、OSのサービスを使用しないISR1と、OSのサービスであるシステムコールを呼び出すことが出来るISR2がある。また、割り込みの禁止・許可を制御する機能も有している。
 
 ### 事象（イベント）制御機能
 
@@ -58,11 +58,17 @@ OSEKでは、OS機能の理解を容易にするためや、OS機能の部分的
 
 ## AUTOSAR
 
-ヨーロッパを中心に、米日の自動車製造業者(OEM),自動車部品製造業者(supplyer)があつまり、自動車ソフトウェアの部品化を高める仕様として[AUTOSAR](https://ja.wikipedia.org/wiki/AUTOSAR "wikilink")を決めている。 AUTOSARでは、OSとしてOSEK上位互換であるとしている。
+ヨーロッパを中心に、米日の自動車製造業者(OEM),自動車部品製造業者(supplyer)があつまり、自動車ソフトウェアの部品化を高める仕様として[AUTOSAR](https://ja.wikipedia.org/wiki/AUTOSAR "wikilink")を決めている。 AUTOSARでは、WTO/TBT協定に基づきOSとしてISO OSEKを参照し、拡張部分を規定している。
 
 ## オープンソース実装
 
-OSEK OS仕様に準拠した実装として、[TOPPERS](https://ja.wikipedia.org/wiki/TOPPERS "wikilink")プロジェクトがTOPPERS/ATK1をオープンソースとして提供している。 AUTOSAR 4.0仕様に準拠した実装として[TOPPERS](https://ja.wikipedia.org/wiki/TOPPERS "wikilink")プロジェクトがTOPPERS/ATK2をオープンソースとして提供している。
+OSEK OS仕様に準拠した実装として、[TOPPERS](https://ja.wikipedia.org/wiki/TOPPERS "wikilink")プロジェクトがTOPPERS/ATK1\[2\]をオープンソースとして提供している。 AUTOSAR 4.0仕様に準拠した実装として[TOPPERS](https://ja.wikipedia.org/wiki/TOPPERS "wikilink")プロジェクトがTOPPERS/ATK2\[3\]をオープンソースとして提供している。
+
+## 参考文献
+
+  - Programming in the OSEK/VDX Environment, ISBN 978-1578200818
+
+## 脚注
 
 ## 関連項目
 
@@ -70,12 +76,12 @@ OSEK OS仕様に準拠した実装として、[TOPPERS](https://ja.wikipedia.org
   - [Controller Area Network](https://ja.wikipedia.org/wiki/Controller_Area_Network "wikilink")
   - [FlexRay](https://ja.wikipedia.org/wiki/FlexRay "wikilink")
 
-## 参考文献
-
-  - Programming in the OSEK/VDX Environment, ISBN 978-1578200818
-
 ## 外部リンク
 
   - [OSEK/VDX Portal](http://portal.osek-vdx.org/)
 
 [Category:オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム "wikilink") [Category:自動車技術標準](https://ja.wikipedia.org/wiki/Category:自動車技術標準 "wikilink") [Category:自動車技術](https://ja.wikipedia.org/wiki/Category:自動車技術 "wikilink") [Category:ドイツの規格](https://ja.wikipedia.org/wiki/Category:ドイツの規格 "wikilink")
+
+1.  ISO <https://www.iso.org/standard/33007.html>
+2.  TOPPERS/ATK1 <https://www.toppers.jp/atk1.html>
+3.  TOPPERS/ATK2 <https://www.toppers.jp/atk2.html>

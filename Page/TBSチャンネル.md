@@ -20,7 +20,7 @@
 
 ## TBSチャンネル1 最新ドラマ・音楽・映画
 
-  - [2002年](../Page/2002年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に「TBSチャンネル」として開局。[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")（衛星一般放送事業者は[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")）、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（[衛星基幹放送事業者は](../Page/放送事業者.md "wikilink")[シー・ティ・ビー・エス](../Page/シー・ティ・ビー・エス.md "wikilink")）、各地の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局などにも供給されている。かつての[スカパー\!SD→その後のスカパープレミアムサービス（標準画質）ではTBSテレビが自ら衛星一般放送を行っていた](../Page/スカパー!プレミアムサービス.md "wikilink")。
+  - [2002年](../Page/2002年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に「TBSチャンネル」として開局。[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")（衛星一般放送事業者は[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")）、[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（[衛星基幹放送事業者は](../Page/放送事業者.md "wikilink")[CS-TBS](../Page/CS-TBS.md "wikilink")）、各地の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局などにも供給されている。かつての[スカパー\!SD→その後のスカパープレミアムサービス（標準画質）ではTBSテレビが自ら衛星一般放送を行っていた](../Page/スカパー!プレミアムサービス.md "wikilink")。
   - 当初はスカイパーフェクTV\!2（→スカパー\!e2→現・スカパー\!）のみの配信だったが\[5\]、好評を受けて同年[10月1日](../Page/10月1日.md "wikilink")からはスカイパーフェクTV\!（現・スカパー\!プレミアムサービス）での放送を開始、[2003年](../Page/2003年.md "wikilink")秋からは[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")への配信も開始し、配信局数も急速に伸びている。
   - TBS及び系列局で制作・放送された新作ドラマ・アニメ、TBS PICTURES制作の映画や新作公開映画の予告番組、スポーツ中継、コンサートなどを放送する。TBSチャンネルオリジナルバラエティーも、チャンネル2と併せて制作・放送する。
   - 2012年10月のTBSチャンネル2の開局を機に、チャンネル名称を「TBSチャンネル1」に改める。
@@ -30,7 +30,7 @@
   - プラットフォーム・チャンネル番号
       - スカパー\!プレミアムサービス（標準画質）（Ch.SD363※2014年5月31日放送終了）
       - スカパー\!プレミアムサービス（Ch.HD616）
-      - スカパー\!（Ch.CS296）※[C-TBSにて配信](../Page/シー・ティ・ビー・エス.md "wikilink")
+      - スカパー\!（Ch.CS296）※[CS-TBS](../Page/CS-TBS.md "wikilink")（旧・C-TBS）にて配信
       - [スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")（Ch.616（HD）※スカパー\!プレミアムサービスと同じ）
       - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")：[J:COM](../Page/ジュピターテレコム.md "wikilink")（旧[JCNを含む](../Page/ジャパンケーブルネット.md "wikilink")）、[ITSCOM](../Page/イッツ・コミュニケーションズ.md "wikilink")、[K-CAT](../Page/ケイ・キャット.md "wikilink")・[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")など
   - 視聴料金：月額税抜600円、スカパー\!ではTBSチャンネル2と併せて月額税抜1,000円
@@ -44,7 +44,7 @@
   - チャンネル名：**TBSチャンネル2 名作ドラマ・スポーツ・アニメ**
   - 運営会社：株式会社TBSテレビ
   - プラットフォーム・チャンネル番号
-      - スカパー\!（Ch.CS297）※C-TBSにて配信。16:9フルサイズのSD放送 → ハイビジョン放送
+      - スカパー\!（Ch.CS297）※CS-TBSにて配信。16:9フルサイズのSD放送 → ハイビジョン放送
       - スカパー\!プレミアムサービス・スカパー\!プレミアムサービス光（Ch.617）
       - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")：[J:COM](../Page/ジュピターテレコム.md "wikilink")（旧[JCNを含む](../Page/ジャパンケーブルネット.md "wikilink")）、[ITSCOM](../Page/イッツ・コミュニケーションズ.md "wikilink")、[K-CAT](../Page/ケイ・キャット.md "wikilink")・[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")など
   - 視聴料金：TBSチャンネル1と併せて月額税抜1,000円
@@ -382,7 +382,7 @@ TBSチャンネルの[オリジナル番組については後述](https://ja.wik
 
 本数こそ少ないものの、[J-POP](../Page/J-POP.md "wikilink")の人気アーティストのライブを毎月積極的に制作し、独占放送している。
 
-また、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の年越しカウントダウンライブを2009年まで毎年生中継\[20\] するなど、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")などの音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")と遜色ない取り組みも見せている。
+また、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の年越しカウントダウンライブを2009年まで毎年生中継\[20\] するなど、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")などの音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")と遜色ない取り組みも見せている。
 
 2014年には、オリジナル音楽番組『[The Vocalist〜音楽に恋して〜](https://ja.wikipedia.org/wiki/The_Vocalist〜音楽に恋して〜 "wikilink")』が放送開始。
 
@@ -398,7 +398,7 @@ TBSチャンネルの[オリジナル番組については後述](https://ja.wik
 
 <!-- end list -->
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")（生中継）
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")（生中継）
   - [BoA](../Page/BoA.md "wikilink")
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
@@ -597,7 +597,7 @@ TBSチャンネルの[オリジナル番組については後述](https://ja.wik
 
 ### アニメ・特撮
 
-TBS、および系列局の[MBSや](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[CBCが制作した作品を厳選して放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")。MBS制作作品については、1975年3月の[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")以前にNETテレビ（現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[系列で放映されたものの一部や](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")、関東地区では[UHFアニメ](../Page/UHFアニメ.md "wikilink")（[TOKYO MXなど](../Page/東京メトロポリタンテレビジョン.md "wikilink")）として放映されたものの一部も対象としている。
+TBS、および系列局の[MBSや](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[CBCが制作した作品を厳選して放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")。MBS制作作品については、1975年3月の[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")以前にNETテレビ（現：[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[系列で放映されたものの一部や](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、関東地区では[UHFアニメ](../Page/UHFアニメ.md "wikilink")（[TOKYO MXなど](../Page/東京メトロポリタンテレビジョン.md "wikilink")）として放映されたものの一部も対象としている。
 
 チャンネル1では土曜・日曜の9時台には『平成[ウルトラマンシリーズ](https://ja.wikipedia.org/wiki/ウルトラマンシリーズ "wikilink")』用の放送枠が設けられ、アニメ番組については他ジャンルの番組の合間を縫って、主に深夜・早朝枠に編成。また、2013年10月期より（当初は2作品中1作品）の[TBSテレビの深夜アニメ枠](../Page/TBSテレビの深夜アニメ枠.md "wikilink")作品の遅れネットを開始した。しかし、2014年10月の改編を期にアニメ番組は前述の遅れネットを除いてすべてTBSチャンネル2に移行された（ただし、『[笑ゥせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")』などのようにTBSチャンネル1で放送されるなど例外あり\[28\]）。
 
@@ -888,7 +888,7 @@ TBS、および系列局の[MBSや](https://ja.wikipedia.org/wiki/MBSテレビ "
 
   - [TBSテレビ](../Page/TBSテレビ.md "wikilink")
   - [BS-TBS](../Page/BS-TBS.md "wikilink")
-  - [C-TBS](../Page/シー・ティ・ビー・エス.md "wikilink")
+  - [C-TBS→CS-TBS](../Page/シー・ティ・ビー・エス.md "wikilink")
   - [TBSオンデマンド](https://ja.wikipedia.org/wiki/TBSオンデマンド "wikilink")→[Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")
   - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")（ラ・テ欄に番組表掲載）
   - [横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")
@@ -939,7 +939,7 @@ TBS、および系列局の[MBSや](https://ja.wikipedia.org/wiki/MBSテレビ "
 4.  地上波TBSテレビと同じくフェード表示。通販・一般企業のCM放送時を除く。2018年12月中旬までは画面右下に表示していた。
 5.  一時期、アニメ番組の一部はワイドテレビに合わせて16:9のワイドサイズで放送されていた時期があった。
 6.  [このページ](http://www.bunkatsushin.com/modules/bulletin/article.php?storyid=18656) も参照のこと。なお、ハイビジョン放送開始の直前・10月1日の0時から12時までの延べ12時間は放送を休止し、設備の[メンテナンス](../Page/メンテナンス.md "wikilink")に充てられた。
-7.  [このページ](http://www.jdserve.co.jp/news/2009/0213.html) も参照のこと
+7.  [このページ](https://www.jdserve.co.jp/news/2009/0213.html) も参照のこと
 8.  [報道資料-TBSテレビのCS放送TBSチャンネルの総加入世帯数が400万を突破\!](http://www.tbs.co.jp/company/news/pdf/200910091200.pdf)
 9.  [TBSテレビのCS放送TBSチャンネルの総加入世帯数が500万を突破\!](http://www.tbs.co.jp/company/news/pdf/201009151130.pdf)
 10. ただし、「TBSチャンネル2」が試験放送を開始した2012年9月1日から、受像機のアイコンは、「TBSチャンネル1」となっていた。
@@ -959,5 +959,5 @@ TBS、および系列局の[MBSや](https://ja.wikipedia.org/wiki/MBSテレビ "
 24. 中国放送はラジオが[JRN](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")・[NRNに加盟しており](../Page/全国ラジオネットワーク.md "wikilink")、JRN・NRNの各々を制作（2018年以降はJRN全国中継廃止に伴い二重制作は民放ラジオ2局地域ネット時のみ）するためである。2011年8月6日は要員確保出来たため、地上波と衛星波で二重制作（解説者はTBSテレビから派遣）を行った。
 25. 日本ハム以外のパシフィック・リーグ球団主催の試合についてはCS放送・有料BS放送の権利が球団と放送局ごとに一括購入されているため、2015年から2017年までの千葉ロッテマリーンズ以外は、TBSグループの衛星放送ではBS-TBSのみの独自放送となる。
 26. [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")に移行した後も、同様の体制で放送されているが、スコア表示が[ZOZOマリンスタジアムのスコアボードと共通イメージとした独自デザイン](../Page/千葉マリンスタジアム.md "wikilink")（文字配置はTBSテレビに近い）に変更された（東京ドームでの主催試合開催時に限り[東京ケーブルネットワーク](../Page/東京ケーブルネットワーク.md "wikilink")・[TCPの汎用野球中継テロップを使用](https://ja.wikipedia.org/wiki/TCP_\(企業\) "wikilink")）。
-27. [ベイスターズ BESTセレクション](http://www.tbs.co.jp/tbs-ch/item/s1424/)（TBSチャンネル）、[明日10/4（土）よりCS放送「TBSチャンネル2」にて『ベイスターズ BESTセレクション』放送開始！](http://www.baystars.co.jp/news/2014/10/1003_01.php)（横浜DeNAベイスターズ2014年10月3日 10月5日閲覧）
+27. [ベイスターズ BESTセレクション](http://www.tbs.co.jp/tbs-ch/item/s1424/)（TBSチャンネル）、[明日10/4（土）よりCS放送「TBSチャンネル2」にて『ベイスターズ BESTセレクション』放送開始！](https://www.baystars.co.jp/news/2014/10/1003_01.php)（横浜DeNAベイスターズ2014年10月3日 10月5日閲覧）
 28. [笑ゥせぇるすまん](http://www.tbs.co.jp/tbs-ch/item/a0123/)TBSチャンネル公式ホームページ

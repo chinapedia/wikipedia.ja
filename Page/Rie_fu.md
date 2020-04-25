@@ -632,7 +632,7 @@ Welcome to at Rie TOUR 2013
 
   - [Rie Funakoshi Painting](http://www.riefunakoshi.com/)
 
-  - [公式ブログ「Rie fuのfuはfunakoshiのfuです」](http://ameblo.jp/riefu-blog/)
+  - [公式ブログ「Rie fuのfuはfunakoshiのfuです」](https://ameblo.jp/riefu-blog/)
 
   - [旧公式ブログ「りえふぅきのこ」](http://blog.excite.co.jp/riefublog/) （2006年4月～2010年2月）
 

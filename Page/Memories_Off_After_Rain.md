@@ -1,7 +1,7 @@
 > この記事は[Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain)から翻訳されています。
 
 
-『**Memories Off After Rain**』（メモリーズオフ アフターレイン）は、[2005年](../Page/2005年.md "wikilink")第1四半期に[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")、3連作の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")シリーズである。3作とも[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象。
+『**Memories Off After Rain**』（メモリーズオフ アフターレイン）は、[2005年](../Page/2005年.md "wikilink")第1四半期に[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")、3連作の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")シリーズである。3作とも[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象。
 
   - Vol.1 折鶴 - 2005年1月27日発売
   - Vol.2 想演 - 2005年2月24日発売

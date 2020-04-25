@@ -246,7 +246,7 @@ COCP-32627 DVD付</p></td>
 
   -
 
-[Category:スペースクラフト](https://ja.wikipedia.org/wiki/Category:スペースクラフト "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink")
+[Category:スペースクラフト](https://ja.wikipedia.org/wiki/Category:スペースクラフト "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink")
 
 1.  「POCO BONITA CARNIVAL」（東京お台場・[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")にて2002年9月28日開催）告知フライヤーに記載のプロフィールによる。
 2.  カバー曲としては、マイアミ・サウンドマシーンの**がデビューシングル「愛 WANT YOU\!\!」のカップリングとして収録されている他、 [ボビー・コールドウェル](../Page/ボビー・コールドウェル.md "wikilink")の*Come to me*、また[ドリームズ・カム・トゥルーの](../Page/DREAMS_COME_TRUE.md "wikilink")「[うれしい\!たのしい\!大好き\!](../Page/うれしはずかし朝帰り.md "wikilink")」がベストアルバム『B3 Master Pieces 2002–2004』に収録されている。これらはいずれも「手のひらを太陽に」以前の作品。

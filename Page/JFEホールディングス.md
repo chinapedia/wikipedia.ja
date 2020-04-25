@@ -7,7 +7,7 @@ JFEによれば、社名のJFEは[日本](https://ja.wikipedia.org/wiki/日本 "
 
 ## 沿革
 
-  - [1912年](../Page/1912年.md "wikilink")（[明治](../Page/明治.md "wikilink")45年）[6月8日](../Page/6月8日.md "wikilink") - [日本鋼管](https://ja.wikipedia.org/wiki/日本鋼管 "wikilink")株式會社 (NKK) 設立。
+  - [1912年](../Page/1912年.md "wikilink")（[明治](../Page/明治.md "wikilink")45年）[6月8日](../Page/6月8日.md "wikilink") - [日本鋼管株式會社](../Page/JFEエンジニアリング.md "wikilink") (NKK) 設立。
   - [1950年](../Page/1950年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")25年）[8月7日](../Page/8月7日.md "wikilink") - [川崎製鉄](../Page/川崎製鉄.md "wikilink")株式会社（川鉄）設立。
   - [2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）4月 - NKKと川鉄の[千葉・京浜](../Page/JFEスチール東日本製鉄所.md "wikilink")・[水島・福山](../Page/JFEスチール西日本製鉄所.md "wikilink")4製鉄所の運営効率化を推進するため、物流・補修・購買関連分野の協力について検討し、9月に合意。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）

@@ -114,7 +114,7 @@
 
   - [トム・ヨーク](../Page/トム・ヨーク.md "wikilink")（[レディオヘッド](../Page/レディオヘッド.md "wikilink")）、[クリス・マーティン](../Page/クリス・マーティン.md "wikilink")（[コールドプレイ](../Page/コールドプレイ.md "wikilink")）、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")、[パール・ジャム](../Page/パール・ジャム.md "wikilink")、[スティーヴン・マルクマス](../Page/スティーヴン・マルクマス.md "wikilink")（[ペイヴメント](../Page/ペイヴメント.md "wikilink")）、[デーモン・アルバーン](https://ja.wikipedia.org/wiki/デーモン・アルバーン "wikilink")（[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ゴリラズ](../Page/ゴリラズ.md "wikilink")）らからのリスペクトを一身に受けている。
   - [ニルヴァーナの](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")[カート・コバーン](../Page/カート・コバーン.md "wikilink")もR.E.M.への共感を表明していた一人。『オートマチック・フォー・ザ・ピープル』はカートが自殺する直前に聞いていたとされるレコードとしても知られる\[7\]。
-  - ピーター・バックのギターサウンドは、デビュー当時[ザ・バーズ](https://ja.wikipedia.org/wiki/ザ・バーズ "wikilink")とよく比較された。
+  - ピーター・バックのギターサウンドは、デビュー当時[ザ・バーズとよく比較された](https://ja.wikipedia.org/wiki/バーズ "wikilink")。
   - 同郷の[B-52's](../Page/B-52's.md "wikilink")のケイト・ピアソンは『アウト・オブ・タイム』の数曲でボーカルとして参加している。
   - [ジョン・ポール・ジョーンズは](../Page/ジョン・ポール・ジョーンズ_\(ミュージシャン\).md "wikilink")『オートマチック・フォー・ザ・ピープル』でストリングスのアレンジを担当している。
   - 俳優[ジョニー・デップ](../Page/ジョニー・デップ.md "wikilink")は、ギビー・ハインズ（[バットホール・サーファーズ](https://ja.wikipedia.org/wiki/バットホール・サーファーズ "wikilink")）らと組んだバンド、[Pで](https://ja.wikipedia.org/wiki/P_\(バンド\) "wikilink")、楽曲「マイケル・スタイプ」も制作している。

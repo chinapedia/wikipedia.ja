@@ -75,7 +75,7 @@
   - [亀井京子](https://ja.wikipedia.org/wiki/亀井京子 "wikilink")（元[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [木下瑠音](https://ja.wikipedia.org/wiki/木下瑠音 "wikilink")（元[仙台放送](../Page/仙台放送.md "wikilink")）
   - 小林美保（☆[NHK新潟放送局](../Page/NHK新潟放送局.md "wikilink")キャスター）
-  - [阪中香織](../Page/石川香織.md "wikilink")（元[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）
+  - [阪中香織](../Page/石川香織.md "wikilink")（元[日本BS放送](../Page/日本BS放送.md "wikilink")）
   - [五月女結](https://ja.wikipedia.org/wiki/五月女結 "wikilink")（☆[メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")）
   - [高橋美穂](https://ja.wikipedia.org/wiki/高橋美穂_\(アナウンサー\) "wikilink")（☆[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")）
 

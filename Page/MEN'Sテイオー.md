@@ -103,6 +103,7 @@
   - [BJW認定ヘビー級王座](https://ja.wikipedia.org/wiki/BJW認定大日本ヘビー級王座 "wikilink")
   - [BJW認定ジュニアヘビー級王座](https://ja.wikipedia.org/wiki/BJW認定ジュニアヘビー級王座 "wikilink")
   - [WEWハードコアタッグ王座](../Page/WEWハードコアタッグ王座.md "wikilink")
+  - [大日本最侠タッグリーグ戦](https://ja.wikipedia.org/wiki/大日本最侠タッグリーグ戦 "wikilink")優勝
 
 <!-- end list -->
 

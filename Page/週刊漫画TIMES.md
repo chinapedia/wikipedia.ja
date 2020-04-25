@@ -49,6 +49,7 @@
 
   - [アリスたちの標本](https://ja.wikipedia.org/wiki/アリスたちの標本 "wikilink")（[小松万記](https://ja.wikipedia.org/wiki/小松万記 "wikilink")、既刊2巻\[11\]）
   - うそびっち先輩（[音井れこ丸](https://ja.wikipedia.org/wiki/音井れこ丸 "wikilink")）
+  - 面影橋忘れ物堂（[相澤亮](https://ja.wikipedia.org/wiki/相澤亮 "wikilink")）
   - [女には3年に一度どうにかされたい日がある](https://ja.wikipedia.org/wiki/女には3年に一度どうにかされたい日がある "wikilink")（[村山渉](../Page/村山渉.md "wikilink")、既刊3巻\[12\]）
   - **[神様のバレー](https://ja.wikipedia.org/wiki/神様のバレー "wikilink")**（[西崎泰正](https://ja.wikipedia.org/wiki/西崎泰正 "wikilink")、原作：[渡辺ツルヤ](https://ja.wikipedia.org/wiki/渡辺ツルヤ "wikilink")、既刊20巻\[13\]・COMIC FUZでは日曜枠）
   - かよちゃんの駄菓子屋（[東元](https://ja.wikipedia.org/wiki/東元 "wikilink")）

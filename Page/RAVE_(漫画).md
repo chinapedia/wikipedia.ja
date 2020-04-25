@@ -897,7 +897,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a> (IBC)</p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a> (IBC)</p></td>
 <td><p>2001年<a href="../Page/10月22日.md" title="wikilink">10月22日</a> -</p></td>
 <td><p>月曜 25:35 - 26:05</p></td>
 </tr>
@@ -921,7 +921,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a> (SBC)</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a> (SBC)</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a> - <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a>[6]</p></td>
 <td><p>土曜 6:00 - 6:30</p></td>
 </tr>

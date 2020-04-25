@@ -149,7 +149,7 @@
 
 #### 現在
 
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")
+  - [NEWS ZERO → news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")
   - [NNNニュース&スポーツ](../Page/NNNニュース&スポーツ.md "wikilink")（不定期、通常年末年始のみ）
   - [Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")
 

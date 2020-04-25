@@ -57,7 +57,7 @@
 ## 経歴
 
   - 1996年、佐藤あつしと梅崎俊春によってHΛLを結成。派手なデジタル[ビートや](../Page/ビート_\(音楽\).md "wikilink")[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")を使ったエッジの効いたサウンドを主軸にした音楽を武器に活動を開始。
-  - 1999年から[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")を中心に、[エイベックスに所属するアーティストの楽曲に多く携わるようになる](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。（佐藤がHΛL在籍時にエイベックスからリリースされた楽曲の基本アレンジは全て彼が行っていた。）
+  - 1999年から[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")を中心に、[エイベックスに所属するアーティストの楽曲に多く携わるようになる](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。（佐藤がHΛL在籍時にエイベックスからリリースされた楽曲の基本アレンジは全て彼が行っていた。）
   - 2000年、オーディションで選ばれた女性ボーカリスト**[HΛLNA](../Page/HΛLNA.md "wikilink")**を加入させ、HΛL名義で[avex traxからデビューする](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - 2002年、浜崎あゆみの「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」で[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")の編曲賞を獲得した。
   - 2003年2月、レコード会社からの公式的な発表は一切なかったものの、佐藤あつしとボーカルの[HΛLNA](../Page/HΛLNA.md "wikilink")が脱退し、同時にバンドユニットとしての活動休止状態に。佐藤は[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")名義でアレンジャーとして活動を開始し、[tearbridge productionに所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。HΛLNAの脱退後の活動は現在も不明であり、芸能活動からの事実上の引退状態にあると思われる。引き続き梅崎は、これまでサポートギタリストであった[清水武仁](../Page/清水武仁.md "wikilink")（しみず たけひと）と[中野雄太](../Page/中野雄太.md "wikilink")（なかの ゆうた）を迎え入れてサウンドプロデューサーユニットとして再編成し、浜崎あゆみ、[玉置成実](../Page/玉置成実.md "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")等の楽曲に携わるようになる。
@@ -183,7 +183,7 @@
       - destine（編曲）
       - SUBPAIN（作曲・編曲）
       - SINCERELY -ever dream-（編曲）
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
       - appears（編曲）
       - immature（編曲）
       - Fly high（編曲）

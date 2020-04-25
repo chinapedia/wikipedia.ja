@@ -5,11 +5,13 @@
 
 ## 概要
 
-[松田優作](../Page/松田優作.md "wikilink")が主演した『[探偵物語](../Page/探偵物語.md "wikilink")』のオマージュとなっている。オープニング曲は志村と親交の厚い[柳ジョージ](../Page/柳ジョージ.md "wikilink")が起用され、メイン音楽は[たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink")が担当した。放送当時は[バブル期であったため](../Page/バブル経済.md "wikilink")、巨額の制作費が投入され、非常に豪華な作りとなっていた。
+[松田優作](../Page/松田優作.md "wikilink")が主演した『[探偵物語](../Page/探偵物語.md "wikilink")』のオマージュとなっている。オープニング曲は志村と親交の厚い[柳ジョージ](../Page/柳ジョージ.md "wikilink")が起用され、メイン音楽は[たかしまあきひこ](../Page/たかしまあきひこ.md "wikilink")が担当した。
 
 探偵2人が仕事やトラブルに巻き込まれた中で繰り広げられるギャグ要素を多分に盛り込んだコメディであり、コントのような展開を繋ぎつつ約25分全体で1話となるドラマストーリーとなっている。
 
-たった10秒のシーンのために[エキストラ](../Page/エキストラ.md "wikilink")を200人起用したり、500食分の弁当、[フランス料理](../Page/フランス料理.md "wikilink")をひっくり返したり、[ハリウッド映画](https://ja.wikipedia.org/wiki/ハリウッド映画 "wikilink")顔負けの[カースタント](https://ja.wikipedia.org/wiki/カースタント "wikilink")を織り込んだ[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")\[1\]、ヘリチェイスや爆破といったシーンをも撮影した\[2\]り、ゲストに第1回の丹波哲郎を始めとして大物俳優・タレントが多く出演し、小泉今日子やシブがき隊など人気アイドルや後述のロバート・イングランドや[レスリー・ニールセン](../Page/レスリー・ニールセン.md "wikilink")のようなハリウッド俳優を出演させたりした。カーチェイスシーンも含め、ほとんどの撮影は[緑山スタジオシティ](https://ja.wikipedia.org/wiki/緑山スタジオシティ "wikilink")で行われた。稀にではあるが女性のヌードを流したり、女性のスカートの中にカメラを入れて撮影したり、前番組『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の時のように物を壊したり、食べ物を粗末にするシーンが多かったため、小中学生に大人気だったものの親には不評であり、子供に見せたくない番組の上位に必ずランクインしていた。
+放送当時は[バブル景気](../Page/バブル景気.md "wikilink")まっただ中で、巨額の制作費が投入された非常に豪華な作りとなっており、たった10秒のシーンのために[エキストラ](../Page/エキストラ.md "wikilink")を200人起用したり、500食分の弁当、[フランス料理](../Page/フランス料理.md "wikilink")をひっくり返したり、[ハリウッド映画](https://ja.wikipedia.org/wiki/ハリウッド映画 "wikilink")顔負けの[カースタント](https://ja.wikipedia.org/wiki/カースタント "wikilink")を織り込んだ[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")\[1\]、ヘリチェイスや爆破といったシーンをも撮影した\[2\]。ゲストに第1回の丹波哲郎をはじめとして大物俳優・タレントが多く出演し、小泉今日子やシブがき隊など人気アイドルや後述のロバート・イングランドや[レスリー・ニールセン](../Page/レスリー・ニールセン.md "wikilink")のようなハリウッド俳優を出演させたりした。カーチェイスシーンも含め、ほとんどの撮影は[緑山スタジオシティ](https://ja.wikipedia.org/wiki/緑山スタジオシティ "wikilink")で行われた。
+
+稀にではあるが女性のヌードを流したり、女性のスカートの中にカメラを入れて撮影したり、前番組『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の時のように物を壊したり、食べ物を粗末にするシーンが多かったため、小中学生に大人気だったものの親には不評であり、子供に見せたくない番組の上位に必ずランクインしていた。
 
 なお加藤は志村の事を名字で呼んでいるが、志村は殆どの場合加藤を「おまえ」・「にいちゃん」等代名詞で呼んでいた（加藤は志村の芸歴・学年的な先輩にあたり、志村の自著『変なおじさん』では「加藤さん」と呼んでいる）。
 
@@ -542,7 +544,7 @@
 
 [Category:TBSの番組の企画](https://ja.wikipedia.org/wiki/Category:TBSの番組の企画 "wikilink")
 
-[Category:加藤茶](https://ja.wikipedia.org/wiki/Category:加藤茶 "wikilink") [Category:志村けん](https://ja.wikipedia.org/wiki/Category:志村けん "wikilink") [Category:コーナードラマ](https://ja.wikipedia.org/wiki/Category:コーナードラマ "wikilink")
+[Category:加藤茶](https://ja.wikipedia.org/wiki/Category:加藤茶 "wikilink") [Category:志村けん](https://ja.wikipedia.org/wiki/Category:志村けん "wikilink") [Category:コーナードラマ](https://ja.wikipedia.org/wiki/Category:コーナードラマ "wikilink") [Category:探偵を主人公としたフィクション作品](https://ja.wikipedia.org/wiki/Category:探偵を主人公としたフィクション作品 "wikilink")
 
 1.  [スタント](../Page/スタント.md "wikilink")シーンは[タカハシレーシング](../Page/タカハシレーシング.md "wikilink")が担当した。
 2.  中にはカーチェイスで近道をするために階段を車が通るという無茶なものもあった。二人が乗る車は[トヨタ・カローラ](../Page/トヨタ・カローラ.md "wikilink")や[日産・スカイライン](../Page/日産・スカイライン.md "wikilink")、[ホンダ・クイント](../Page/ホンダ・クイント.md "wikilink")などでカラーは赤が多く、たまに黄色の車（[マツダ・ルーチェ](../Page/マツダ・ルーチェ.md "wikilink")）の時もあった。

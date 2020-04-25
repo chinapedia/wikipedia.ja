@@ -92,7 +92,7 @@
 
 ## ゲーム
 
-  - [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[PlayStation 2用シミュレーションゲームとして発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") （[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") 全年齢対象）
+  - [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[PlayStation 2用シミュレーションゲームとして発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") （[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") 全年齢対象）
   - [2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")[PlayStation Portable用ガールズライフボードゲーム](../Page/PlayStation_Portable.md "wikilink")『NANA すべては大魔王のお導き\!?』が発売（CERO 全年齢対象）
   - [2007年](../Page/2007年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用業界系スペシャリストシミュレーション『NANA ライブスタッフ大募集\!〜初心者歓迎〜』が発売（CERO 全年齢対象）
 
@@ -271,9 +271,9 @@
 
 [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に「animo」（アニモ）枠として開始、2007年3月まで4クール放映された。放送では「ファーストシーズン 最終回」とされた\[3\]。ファーストシーズンにおいては原作では、11巻までの内容。アニメーション制作は[マッドハウス](../Page/マッドハウス.md "wikilink")。
 
-[NNN加盟局で毎週水曜日](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")23時25分から\[4\]、NNN系列外では2006年6月8日より[琉球放送](../Page/琉球放送.md "wikilink")（[TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）で毎週木曜日(金曜日)1時55分から、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")&サイエンス（現・日テレプラス）でも2006年10月より放映開始、[日本テレビ関連以外では](../Page/日本テレビ放送網.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[アニマックス](../Page/アニマックス.md "wikilink")で再放送されている。2018年10月15日から2019年2月13日まで、[BS日テレでも毎週月](../Page/BS日本.md "wikilink")・火・水曜日23時30分に放送された。\[5\]。
+[NNN加盟局で毎週水曜日](../Page/日本ニュースネットワーク.md "wikilink")23時25分から\[4\]、NNN系列外では2006年6月8日より[琉球放送](../Page/琉球放送.md "wikilink")（[TBS系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で毎週木曜日(金曜日)1時55分から、[日テレプラス](https://ja.wikipedia.org/wiki/日テレプラス "wikilink")&サイエンス（現・日テレプラス）でも2006年10月より放映開始、[日本テレビ関連以外では](../Page/日本テレビ放送網.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[アニマックス](../Page/アニマックス.md "wikilink")で再放送されている。2018年10月15日から2019年2月13日まで、[BS日テレでも毎週月](../Page/BS日本.md "wikilink")・火・水曜日23時30分に放送された。\[5\]。
 
-開始当初は23時台での放送（23時25分 - 23時55分）と、「4大民放ネットワークで放送される[全日](../Page/全日.md "wikilink")帯放送の[深夜テレビアニメ](../Page/深夜アニメ.md "wikilink")」という極めて珍しい試みのものであったが、結局10月以降は事実上24時台に移行した（『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』が放送終了し、『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』放送開始で、このアニメの放送枠である「animo」枠が入っている『[バリューナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")』が30分繰り下げられたため）。1、2話の内容が派手に書き換えられたことを知った矢沢が激怒、放送が危ぶまれたことがあると報道された\[6\]。
+開始当初は23時台での放送（23時25分 - 23時55分）と、「4大民放ネットワークで放送される[全日](../Page/全日.md "wikilink")帯放送の[深夜テレビアニメ](../Page/深夜アニメ.md "wikilink")」という極めて珍しい試みのものであったが、結局10月以降は事実上24時台に移行した（『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』が放送終了し、『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』放送開始で、このアニメの放送枠である「animo」枠が入っている『[バリューナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")』が30分繰り下げられたため）。1、2話の内容が派手に書き換えられたことを知った矢沢が激怒、放送が危ぶまれたことがあると報道された\[6\]。
 
 2006年7月7日に77日間限定税込定価707円でDVDの第1巻が発売された。本編は16:9のワイドサイズで製作されているが、[地上デジタル放送の場合上下左右に黒帯の付いた](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[額縁放送](../Page/額縁放送.md "wikilink")で放送されている。
 

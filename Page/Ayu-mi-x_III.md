@@ -1,7 +1,7 @@
 > この記事は[Ayu-mi-x III](https://ja.wikipedia.org/wiki/Ayu-mi-x_III)から翻訳されています。
 
 
-『**ayu-mi-x III**』（アユミックス・スリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の一連の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総称。リミックス形態の異なる2タイトルが[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxより同時発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**ayu-mi-x III**』（アユミックス・スリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の一連の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総称。リミックス形態の異なる2タイトルが[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxより同時発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

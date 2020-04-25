@@ -1,7 +1,7 @@
 > この記事は[Forgiveness](https://ja.wikipedia.org/wiki/Forgiveness)から翻訳されています。
 
 
-「**forgiveness**」（フォーギブネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の30枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**forgiveness**」（フォーギブネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の30th[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -17,7 +17,7 @@
 
 1.  **forgiveness**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[高原へいらっしゃい](../Page/高原へいらっしゃい.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **[ourselves](../Page/&_\(シングル\).md "wikilink") "Kentaro Takizawa remix"**
 3.  **[HANABI 〜episode II〜](../Page/&_\(シングル\).md "wikilink") "[HΛL](../Page/HΛL.md "wikilink")'S MIX 2003"**

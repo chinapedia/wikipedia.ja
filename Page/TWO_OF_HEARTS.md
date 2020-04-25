@@ -15,4 +15,4 @@
       - 作詞：水原由貴　作曲・編曲：小澤正澄
 3.  **TWO OF HEARTS (inst.)**
 
-[Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_つ](https://ja.wikipedia.org/wiki/Category:楽曲_つ "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink")
+[Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_つ](https://ja.wikipedia.org/wiki/Category:楽曲_つ "wikilink")

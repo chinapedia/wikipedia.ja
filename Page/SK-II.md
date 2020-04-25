@@ -155,8 +155,10 @@ SK-IIの**SK**とは「**Secret Key（秘密の鍵）**」の略である。
 
 ## 外部リンク
 
-  - [SK-II](http://www.sk-ii.jp/)
+  - [SK-II](https://www.sk-ii.jp/)
 
+  -
+  -
 [Category:化粧品メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:化粧品メーカー・ブランド "wikilink") [Category:プロクター・アンド・ギャンブルのブランド](https://ja.wikipedia.org/wiki/Category:プロクター・アンド・ギャンブルのブランド "wikilink")
 
 1.  「[P\&Gマックス ファクター、社名変更とMFの販売終了発表](http://www.syogyo.jp/news/2015/10/post_012790)」、[週刊粧業オンライン](http://www.syogyo.jp/)、2015年10月5日。

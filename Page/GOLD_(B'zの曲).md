@@ -14,10 +14,10 @@
 1.  **GOLD** (5:36)
       -
         [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を前面に出しだバラードナンバー。前作「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」と同様に『[世界水泳福岡2001](../Page/2001年世界水泳選手権.md "wikilink")』の大会テーマソングとして採用されており、その『世界水泳福岡2001』ために書き下ろされた楽曲。制作にあたってタイアップ先からは、「ultra soulで盛り上げていただいているので、次は表彰式にふさわしい劇的な曲を」というリクエストがあったとのこと\[1\]。
-        本作における「GOLD」は[イタリア語](../Page/イタリア語.md "wikilink")で「朝の光」という意味で、歌詞にも登場する(但し、[英語](../Page/英語.md "wikilink")での意味である「[黄金色](https://ja.wikipedia.org/wiki/黄金色 "wikilink")」も登場する)。
+        本作における「GOLD」は[イタリア語](../Page/イタリア語.md "wikilink")で「朝の光」という意味で、歌詞にも登場する\[2\]。
         12thアルバム『[GREEN](../Page/GREEN_\(B'zのアルバム\).md "wikilink")』には「『Everlasting』があるから」という理由で未収録だが、[バラード](../Page/バラード.md "wikilink")・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』には両曲とも収録されている。
-        [PVは](../Page/ミュージック・ビデオ.md "wikilink")『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』を開催していた[札幌ドーム](../Page/札幌ドーム.md "wikilink")で撮影され、またライブに関わるスタッフにスポットを当てたものとなっている\[2\]。
-        TVによる演奏は『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で2回演奏された。2回目の『ミュージックステーションスペシャル SUPER LIVE 2001』(2001年12月28日)のときはストリングスを排除して、キーボートを加えたほかアレンジされていた。\[3\]
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")『[B'z LIVE-GYM 2001 "ELEVEN"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")』を開催していた[札幌ドーム](../Page/札幌ドーム.md "wikilink")で撮影され、またライブに関わるスタッフにスポットを当てたものとなっている\[3\]。
+        TVによる演奏は『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で2回演奏された。2回目の『ミュージックステーションスペシャル SUPER LIVE 2001』(2001年12月28日)のときはストリングスを排除して、[キーボートを加えたほかアレンジされていた](https://ja.wikipedia.org/wiki/キーボード_\(楽器\)#電子楽器としてのキーボード "wikilink")。\[4\]
         同年のアルバムツアー『B'z LIVE-GYM 2001 "ELEVEN"』(ドーム公演)で未発表曲として演奏され、『B'z LIVE-GYM in Hong Kong 2001』以降は全く演奏されなかったが、2013年に行われたツアー『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』で12年ぶりに演奏された。
 2.  **ultra soul 〜Splash Style〜** (3:32)
       -
@@ -27,7 +27,7 @@
 3.  **まっかなシルク** (3:08)
       -
         11thアルバム『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』の[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")。
-        本作では稲葉が購入した[スカイセンサー5900が使用された](../Page/スカイセンサー_\(ラジオ\).md "wikilink")\[4\]初の楽曲で、後に稲葉のソロ曲「[TRASH](../Page/志庵.md "wikilink")」「[あなたを呼ぶ声は風にさらわれて](../Page/志庵.md "wikilink")」でも使用された\[5\]。
+        本作では稲葉が購入した[スカイセンサー5900が使用された](../Page/スカイセンサー_\(ラジオ\).md "wikilink")\[5\]初の楽曲で、後に稲葉のソロ曲「[TRASH](../Page/志庵.md "wikilink")」「[あなたを呼ぶ声は風にさらわれて](../Page/志庵.md "wikilink")」でも使用された\[6\]。
         間奏では、曲調がスローテンポの[ブルース](../Page/ブルース.md "wikilink")調へと大きく変わる。
         歌詞は[大衆主義](https://ja.wikipedia.org/wiki/大衆主義 "wikilink")や[日和見主義](../Page/日和見主義.md "wikilink")を皮肉ったものであり、前述の間奏には[中国を連想させる台詞がある](../Page/中華人民共和国.md "wikilink")。
         アルバム未収録かつ、ライブ未演奏曲。
@@ -79,7 +79,8 @@
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:世界水泳選手権](https://ja.wikipedia.org/wiki/Category:世界水泳選手権 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.
-2.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
-3.  そのアレンジは、現在未音盤化。
-4.
+2.  但し、[英語](../Page/英語.md "wikilink")での意味である「[黄金色](https://ja.wikipedia.org/wiki/黄金色 "wikilink")」も登場する。
+3.  『[B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
+4.  そのアレンジは、現在未音盤化。
 5.
+6.

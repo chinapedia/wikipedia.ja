@@ -21,7 +21,7 @@
   - HEAVEN - [森若香織](../Page/森若香織.md "wikilink")の3枚目のシングル。1997年発売。
   - HEAVEN - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の曲。14枚目のシングル「[HEAVEN/Squall](https://ja.wikipedia.org/wiki/HEAVEN/Squall "wikilink")」（1999年11月17日発売）に収録。
   - [HEAVEN (Tourbillonの曲)](../Page/HEAVEN_\(Tourbillonの曲\).md "wikilink") - [Tourbillonのデビューシングル](../Page/Tourbillon_\(バンド\).md "wikilink")。2005年9月7日発売。
-  - [HEAVEN (浜崎あゆみの曲)](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink") - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の37枚目のシングル。2005年9月14日発売。
+  - [HEAVEN (浜崎あゆみの曲)](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink") - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の37枚目のシングル。2005年9月14日発売。
   - hEAVEN - [高橋直純](../Page/高橋直純.md "wikilink")の5枚目のシングル。2005年11月26日発売。
   - HEAVEN - [Janne Da Arcの曲](../Page/Janne_Da_Arc.md "wikilink")。26枚目のシングル「[HEAVEN/メビウス](https://ja.wikipedia.org/wiki/HEAVEN/メビウス "wikilink")」（2006年5月10日発売）に収録。
   - [HEAVEN (GRANRODEOの曲)](../Page/HEAVEN_\(GRANRODEOの曲\).md "wikilink") - [GRANRODEO](../Page/GRANRODEO.md "wikilink")の5枚目のシングル。2007年5月23日発売。

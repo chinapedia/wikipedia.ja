@@ -29,4 +29,4 @@
   - [REV](../Page/出口雅之.md "wikilink")
   - [葉山たけし](../Page/葉山たけし.md "wikilink")
 
-[Category:出口雅之の楽曲](https://ja.wikipedia.org/wiki/Category:出口雅之の楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:テレビ朝日のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ主題歌 "wikilink") [Category:ロッテのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロッテのコマーシャルソング "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink")
+[Category:出口雅之の楽曲](https://ja.wikipedia.org/wiki/Category:出口雅之の楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:テレビ朝日のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ主題歌 "wikilink") [Category:ロッテのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロッテのコマーシャルソング "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

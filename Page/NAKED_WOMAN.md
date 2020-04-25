@@ -23,4 +23,4 @@
       - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系『ET\!』[1994年](../Page/1994年.md "wikilink")[11月](../Page/11月.md "wikilink")度オープニングテーマ
 3.  **NAKED WOMAN (inst.)**
 
-[Category:KIX-Sの楽曲](https://ja.wikipedia.org/wiki/Category:KIX-Sの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:楽曲_ね](https://ja.wikipedia.org/wiki/Category:楽曲_ね "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:KIX-Sの楽曲](https://ja.wikipedia.org/wiki/Category:KIX-Sの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:楽曲_ね](https://ja.wikipedia.org/wiki/Category:楽曲_ね "wikilink")

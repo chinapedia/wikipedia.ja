@@ -713,13 +713,13 @@
 
   - [キングレコード](http://www.kingrecords.co.jp/kra/index.html)
 
-  - [blog Kra景夕 ネコ雑貨店](http://ameblo.jp/kra-keiyu/)
+  - [blog Kra景夕 ネコ雑貨店](https://ameblo.jp/kra-keiyu/)
 
-  - [blog Kraタイゾ 漆黒横丁](http://ameblo.jp/tz-gt/)
+  - [blog Kraタイゾ 漆黒横丁](https://ameblo.jp/tz-gt/)
 
-  - [blog Kra結良 Dragon Voice](http://ameblo.jp/kra-yura/)
+  - [blog Kra結良 Dragon Voice](https://ameblo.jp/kra-yura/)
 
-  - [blog Kra靖乃 おぴんくだいあり〜♪](http://ameblo.jp/kra-yasuno/)
+  - [blog Kra靖乃 おぴんくだいあり〜♪](https://ameblo.jp/kra-yasuno/)
 
   - [KraのめるへんTV✩ときどきれぃでぃお](https://freshlive.tv/kra_marchentv)
 

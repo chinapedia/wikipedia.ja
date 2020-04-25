@@ -41,7 +41,7 @@ SSEと同じく古い[オペレーティングシステム](../Page/オペレー
   - [AltiVec](../Page/AltiVec.md "wikilink") (Velocity Engine)
   - [PowerNow\!](../Page/PowerNow!.md "wikilink")
 
-[Category:X86アーキテクチャ](https://ja.wikipedia.org/wiki/Category:X86アーキテクチャ "wikilink") [Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink") [Category:アドバンスト・マイクロ・デバイセズ](https://ja.wikipedia.org/wiki/Category:アドバンスト・マイクロ・デバイセズ "wikilink")
+[Category:SIMDコンピューティング](https://ja.wikipedia.org/wiki/Category:SIMDコンピューティング "wikilink") [Category:X86アーキテクチャ](https://ja.wikipedia.org/wiki/Category:X86アーキテクチャ "wikilink") [Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink") [Category:アドバンスト・マイクロ・デバイセズ](https://ja.wikipedia.org/wiki/Category:アドバンスト・マイクロ・デバイセズ "wikilink")
 
 1.
 2.

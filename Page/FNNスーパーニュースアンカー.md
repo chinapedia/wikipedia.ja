@@ -440,7 +440,7 @@
   - 火曜日：[有本香](https://ja.wikipedia.org/wiki/有本香 "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")）\[82\]、以下『不定期コメンテーター』項目記載の1名
   - 水曜日：[青山繁晴](../Page/青山繁晴.md "wikilink")（[独立総合研究所](https://ja.wikipedia.org/wiki/独立総合研究所 "wikilink") 社長）\[83\]
   - 木曜日：[宮崎哲弥](https://ja.wikipedia.org/wiki/宮崎哲弥 "wikilink")（[評論家](../Page/評論家.md "wikilink")）、[金村義明](../Page/金村義明.md "wikilink")（[野球解説者](../Page/野球解説者.md "wikilink")）
-  - 金曜日：[鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")（[政治ジャーナリスト](../Page/政治部記者.md "wikilink")、元[BS11報道局長](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）、[中江有里](../Page/中江有里.md "wikilink")（[女優](../Page/俳優.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")）\[84\]
+  - 金曜日：[鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫 "wikilink")（[政治ジャーナリスト](../Page/政治部記者.md "wikilink")、元[BS11報道局長](../Page/日本BS放送.md "wikilink")）、[中江有里](../Page/中江有里.md "wikilink")（[女優](../Page/俳優.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")）\[84\]
 
 <!-- end list -->
 

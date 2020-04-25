@@ -9,7 +9,7 @@
 
 システムの開発は1973年に[アンジェイ・トリブレッツ](https://ja.wikipedia.org/wiki/アンジェイ・トリブレッツ "wikilink")によって始められ、システムの保守を[ポーランド](../Page/ポーランド.md "wikilink")の、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[アルバータ大学](../Page/アルバータ大学.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[信州大学](../Page/信州大学.md "wikilink")で行っている。
 
-\-言語で記された証明文（以下、-論文）は普通の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")コードで書かれている。-言語は、数学の通常の言葉遣いと書式がよく似ており、数学者ならば-論文を容易に読むことができる。また、証明を自動的に検証可能とするほど十分に形式化されたものである。-論文における証明の各段階は非常に自明なものである必要があり、そのため同等の内容を持つ通常の数学論文に比べ、長さにおいて4倍程度になると評価された。
+\-言語で記された証明文（以下、-論文）は普通の[ASCII](../Page/ASCII.md "wikilink")コードで書かれている。-言語は、数学の通常の言葉遣いと書式がよく似ており、数学者ならば-論文を容易に読むことができる。また、証明を自動的に検証可能とするほど十分に形式化されたものである。-論文における証明の各段階は非常に自明なものである必要があり、そのため同等の内容を持つ通常の数学論文に比べ、長さにおいて4倍程度になると評価された。
 
 の証明検証プログラムは[Pascal](../Page/Pascal.md "wikilink")でかかれ、[古典論理](https://ja.wikipedia.org/wiki/古典論理 "wikilink")を用いた証明を行うもので、非商用目的であれば無料でダウンロード、利用が可能である。これは[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")上の[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")および[Linux](../Page/Linux.md "wikilink")で、あるいは[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") / [Darwinで動く](../Page/Darwin_\(オペレーティングシステム\).md "wikilink")。ソースコードは-ユーザ協会\[1\]のメンバーだけが入手できる。
 

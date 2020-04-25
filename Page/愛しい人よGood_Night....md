@@ -79,7 +79,7 @@
 2.  7thアルバム『[The 7th Blues](../Page/The_7th_Blues.md "wikilink")』までのオリジナル・アルバムで、『RISKY』のみシングルが2作収録されているのはこのため。
 3.
 4.  「BH 90年11月号」より
-5.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P20より
+5.
 6.  ただし、「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」のアルバムバージョンを除く (6分21秒)。
 7.  2003年の渚園ライブでは日替わりとして候補曲にはあったものの未演奏となった。これは映像作品『[Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』で確認することができる。
 8.  収録時間は「[Gimme your love (Live at Tokyo Dome)](../Page/Calling_\(B'zの曲\).md "wikilink")」(約6分5秒)が最長だが、こちらはライブ音源である。

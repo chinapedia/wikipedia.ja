@@ -19,4 +19,4 @@
         ハウスっぽいビートの明るいパワフルな曲調。4thアルバム 「[HEARTS](https://ja.wikipedia.org/wiki/HEARTS_\(アルバム\) "wikilink")」にはリミックスが施されたものが収録された。（ちなみにリミックスを手掛けたのは小澤ではなくビーイングのエンジニア）
 3.  **キズナ(オリジナル・カラオケ)**　（4:00）
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

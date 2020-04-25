@@ -1,11 +1,11 @@
 > この記事は[Daybreak \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Daybreak_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Daybreak**」（デイブレイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2002年[7月13日](../Page/7月13日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**Daybreak**」（デイブレイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の25th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2002年[7月13日](../Page/7月13日.md "wikilink")に[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
-シングルとしては前作「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」から約5か月ぶりのリリースで、4枚目のアルバム『[I am...](../Page/I_am....md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。
+シングルとしては前作「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」から約5か月ぶりのリリースで、4thアルバム『[I am...](../Page/I_am....md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。
 
 30万枚限定生産ではあったが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")で[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」に敗れ初登場2位となってしまい、2000年発売の19枚目「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」以来続いていた連続首位記録が途絶えてしまう。
 
@@ -23,7 +23,7 @@
 
 1.  **Daybreak "[HΛL](../Page/HΛL.md "wikilink")'s Mix 2002"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") + [junichi matsuda](../Page/松田純一.md "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") + [junichi matsuda](../Page/松田純一.md "wikilink")
         [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") F1」[CMソング](../Page/コマーシャルソング.md "wikilink")
         Panasonic [ソルトレイクオリンピック](https://ja.wikipedia.org/wiki/ソルトレイクオリンピック "wikilink") 関連商品 CMソング
 2.  **[no more words](../Page/I_am....md "wikilink") "BRENT MINI'S ROTARY MIX"**

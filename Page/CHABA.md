@@ -83,7 +83,7 @@
 <td><p>KSCL-993</p></td>
 <td><ol>
 <li>涙</li>
-<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツのカバー</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツのカバー</a>）</li>
 </ol></td>
 <td><p>屋敷豪太プロデュース</p></td>
 </tr>

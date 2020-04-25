@@ -37,7 +37,9 @@
 
 ## アートワーク
 
-ジャケットワークは[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のアルバム『[ジギー・スターダスト](../Page/ジギー・スターダスト.md "wikilink")』（[1972年](../Page/1972年.md "wikilink")）に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")されたもの。後ろ向きで振り返っている布袋と仁王立ちする布袋が「これまでの布袋寅泰」と「これからの布袋寅泰」を表現している。また地面に写っている二人の布袋の影が「IV」の形になっている。撮影は[前作と同じく久保木浚介が担当](../Page/GUITARHYTHM_III.md "wikilink")。
+ジャケットワークは[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のアルバム『[ジギー・スターダスト](../Page/ジギー・スターダスト.md "wikilink")』（[1972年](../Page/1972年.md "wikilink")）に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")されたもの。後ろ向きで振り返っている布袋と仁王立ちする布袋は「これまでの布袋寅泰」と「これからの布袋寅泰」を表現している。また地面に写っている二人の布袋の影が「IV」の形になっている。
+
+撮影は[前作と同じく久保木浚介が担当](../Page/GUITARHYTHM_III.md "wikilink")。
 
 ## ツアー
 

@@ -1,7 +1,7 @@
 > この記事は[HEAVEN \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/HEAVEN_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**HEAVEN**」（ヘヴン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の37枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**HEAVEN**」（ヘヴン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の37th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -23,7 +23,7 @@
         [松竹](../Page/松竹.md "wikilink")配給映画『[SHINOBI-HEART UNDER BLADE-](https://ja.wikipedia.org/wiki/甲賀忍法帖#映画 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **Will "Original Mix"**　
       -
-        作曲：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
+        作曲：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / 編曲：[tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
         [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") FX9」[CMソング](../Page/コマーシャルソング.md "wikilink")
 3.  **[alterna](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink") "Orchestra Version"**
 4.  **HEAVEN "Piano Version"**

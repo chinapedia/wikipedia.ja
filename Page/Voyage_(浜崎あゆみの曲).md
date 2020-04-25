@@ -1,7 +1,7 @@
 > この記事は[Voyage \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Voyage_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Voyage**」（ヴォヤージュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の28枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Voyage**」（ヴォヤージュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の28th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -19,7 +19,7 @@
 
 1.  **Voyage**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Ken Shima](../Page/島健.md "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[Ken Shima](../Page/島健.md "wikilink")
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[マイリトルシェフ](../Page/マイリトルシェフ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **[HANABI](../Page/H_\(シングル\).md "wikilink") "electrical Bossa mix"**
 3.  **[independent](../Page/H_\(シングル\).md "wikilink") "SUGIURUMN MIX"**

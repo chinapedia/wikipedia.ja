@@ -81,9 +81,9 @@ B'zがオリコンシングルチャートで2週連続以上で1位を獲得し
 1.
 2.
 3.
-4.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P20より
+4.
 5.  「BH 90年11月号」など当時の雑誌のインタビューや会報で同様の発言を多く残している。
-6.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P48より
+6.
 7.
 8.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
 9.  松本が[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")、稲葉がバックのアコースティック・ギター。

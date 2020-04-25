@@ -1,7 +1,7 @@
 > この記事は[Moments](https://ja.wikipedia.org/wiki/Moments)から翻訳されています。
 
 
-「**Moments**」（モーメンツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の32枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Moments**」（モーメンツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の32nd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

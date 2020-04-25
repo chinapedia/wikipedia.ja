@@ -1,7 +1,7 @@
 > この記事は[Free\&Easy](https://ja.wikipedia.org/wiki/Free\&Easy)から翻訳されています。
 
 
-「**Free & Easy**」（フリー・アンド・イージー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Free & Easy**」（フリー・アンド・イージー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の26th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -19,7 +19,7 @@
 
 1.  **Free & Easy "Original Mix"**
       -
-        [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
+        [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
         [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") MDステレオシステム「PM57MD」[CMソング](../Page/コマーシャルソング.md "wikilink")
 2.  **[Naturally](../Page/I_am....md "wikilink") "dolly remix"**
       -

@@ -484,15 +484,15 @@ Few（フュー）,Scattered（スキャタード）,Broken（ブロークン）
 
 ## 外部リンク
 
-  - [中部航空地方気象台](http://www.jma-net.go.jp/chubu-airport/)
-  - [成田航空地方気象台](http://www.jma-net.go.jp/narita-airport/)
-  - [東京航空地方気象台](http://www.jma-net.go.jp/haneda-airport/index.html)
-  - [関西航空地方気象台](http://www.jma-net.go.jp/kansai-airport/)
-  - [新千歳航空測候所](http://www.jma-net.go.jp/newchitose-airport/)
-  - [仙台航空測候所](http://www.jma-net.go.jp/sendai-airport/)
+  - [中部航空地方気象台](https://www.jma-net.go.jp/chubu-airport/)
+  - [成田航空地方気象台](https://www.jma-net.go.jp/narita-airport/)
+  - [東京航空地方気象台](https://www.jma-net.go.jp/haneda-airport/index.html)
+  - [関西航空地方気象台](https://www.jma-net.go.jp/kansai-airport/)
+  - [新千歳航空測候所](https://www.jma-net.go.jp/newchitose-airport/)
+  - [仙台航空測候所](https://www.jma-net.go.jp/sendai-airport/)
   - [大阪航空測候所](http://www.jma-net.go.jp/osaka-airport/)
-  - [福岡航空測候所](http://www.jma-net.go.jp/fukuoka-airport/)
-  - [鹿児島航空測候所](http://www.jma-net.go.jp/kagoshima-airport/)
-  - [那覇航空測候所](http://www.jma-net.go.jp/naha-airport/)
+  - [福岡航空測候所](https://www.jma-net.go.jp/fukuoka-airport/)
+  - [鹿児島航空測候所](https://www.jma-net.go.jp/kagoshima-airport/)
+  - [那覇航空測候所](https://www.jma-net.go.jp/naha-airport/)
 
 [Category:航空機の運航](https://ja.wikipedia.org/wiki/Category:航空機の運航 "wikilink") [Category:航空機の操縦](https://ja.wikipedia.org/wiki/Category:航空機の操縦 "wikilink") [Category:アビオニクス](https://ja.wikipedia.org/wiki/Category:アビオニクス "wikilink")

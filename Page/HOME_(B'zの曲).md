@@ -33,11 +33,11 @@
       -
         映画『[不夜城](https://ja.wikipedia.org/wiki/不夜城_\(小説\) "wikilink")』主題歌で、B'zにとってデビュー10年目で初の映画主題歌である。
         元々は松本がライブでソロコーナーで歌うために用意された楽曲で、主題歌を制作する際に出来た楽曲を稲葉に聴かせ、映画と合っているということから本作が選ばれた\[14\]。歌詞に登場するブランコは、「揺れている不安定な心」の象徴して描かれている\[15\]。
-        2003年に発売された著書「ウルトラクロニクル」のインタビューで、松本がB'zの中で特に好きな曲としてあげた1曲でもある\[16\]。
+        2003年に発売された著書「ウルトラクロニクル」のインタビューで、松本がB'zの中で特に好きな曲としてあげた1曲でもある\[16\]\[17\]。
         PVは「HOME」と同じく香港で撮影された。また、この曲のPV撮影には不夜城のスタッフも参加している。
         「HOME」(シングルバージョン)より先に『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』でアルバム初収録となった。
         テレビ出演などでも表題曲と共に披露され、稲葉が[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を弾いており、松本はコーラスも担当した。
-        リリースに先駆けて『B'z LIVE-GYM '98 "SURVIVE"』の終盤で未発表曲として先行披露された\[17\]。また、『B'z SHOWCASE 2007 -19-』、『B'z SHOWCASE 2007 -B'z In Your Town-』で約9年ぶりに演奏され、『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』でも演奏されている。
+        リリースに先駆けて『B'z LIVE-GYM '98 "SURVIVE"』の終盤で未発表曲として先行披露された\[18\]。また、『B'z SHOWCASE 2007 -19-』、『B'z SHOWCASE 2007 -B'z In Your Town-』で約9年ぶりに演奏され、『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』でも演奏されている。
 
 ## タイアップ
 
@@ -125,4 +125,5 @@
 14.
 15.
 16. もう1曲は「[もう一度キスしたかった](../Page/もう一度キスしたかった.md "wikilink")」。
-17. 『[SURVIVE](../Page/SURVIVE.md "wikilink")』収録の「泣いて 泣いて 泣きやんだら」、「Shower」が日替わりで演奏されていたパートで、これらの曲と差し替える形でセットリストに加わった。
+17.
+18. 『[SURVIVE](../Page/SURVIVE.md "wikilink")』収録の「泣いて 泣いて 泣きやんだら」、「Shower」が日替わりで演奏されていたパートで、これらの曲と差し替える形でセットリストに加わった。

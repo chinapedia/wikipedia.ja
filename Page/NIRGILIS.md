@@ -645,7 +645,7 @@ TFCC-86486</p></td>
 
   - [NIRGILIS DIARY](http://playlog.jp/nirgilis/blog/)（旧ブログ）
 
-  - [ニルギリス official blog](http://ameblo.jp/nir555/)
+  - [ニルギリス official blog](https://ameblo.jp/nir555/)
 
   - [Netz Square Presents「NIRGILIS BOY meets GIRL」](http://www.fmk.fm/nirgilis/)
 

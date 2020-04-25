@@ -1,7 +1,7 @@
 > この記事は[H \(シングル\)](https://ja.wikipedia.org/wiki/H_\(シングル\))から翻訳されています。
 
 
-「**H**」（エイチ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の27枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『H』はロゴ表記。
+「**H**」（エイチ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の27th[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『H』はロゴ表記。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 ## 収録曲
 
-全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D・A・I](../Page/長尾大.md "wikilink")
+全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") + [D・A・I](../Page/長尾大.md "wikilink")
 
 1.  **independent**
       -

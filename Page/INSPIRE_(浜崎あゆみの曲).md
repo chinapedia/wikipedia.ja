@@ -1,7 +1,7 @@
 > この記事は[INSPIRE \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/INSPIRE_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**INSPIRE**」（インスパイア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の33枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**INSPIRE**」（インスパイア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の33rd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -49,4 +49,4 @@
   - [DISCOGRAPHY - ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003377)
 
   -
-[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:湯汲哲也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:湯汲哲也が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:湯汲哲也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:湯汲哲也が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

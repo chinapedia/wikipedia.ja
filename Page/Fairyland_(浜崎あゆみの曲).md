@@ -1,7 +1,7 @@
 > この記事は[Fairyland \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Fairyland_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**fairyland**」（フェアリーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**fairyland**」（フェアリーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の36th[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

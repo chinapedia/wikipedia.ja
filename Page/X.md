@@ -19,7 +19,7 @@
 
   - [英](../Page/英語.md "wikilink")・[典](../Page/スウェーデン語.md "wikilink")・[諾](../Page/ノルウェー語.md "wikilink")・[丁](../Page/デンマーク語.md "wikilink")・[尼](../Page/インドネシア語.md "wikilink")：エクス
 
-  - [伊](../Page/イタリア語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")：イクス
+  - [伊](../Page/イタリア語.md "wikilink")・[仏](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[独](../Page/ドイツ語.md "wikilink")・[蘭](../Page/オランダ語.md "wikilink")・[洪](../Page/ハンガリー語.md "wikilink")：イクス
 
   - [エス](https://ja.wikipedia.org/wiki/エスペラント "wikilink")：イクソ
 

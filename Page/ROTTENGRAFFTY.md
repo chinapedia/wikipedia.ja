@@ -5,7 +5,7 @@
 
 ## メンバー
 
-**NOBUYA（ノブヤ、**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名は村瀬展弥（むらせのぶや）。通称「のぶじい」[京都府](../Page/京都府.md "wikilink")[長岡京市](../Page/長岡京市.md "wikilink")出身
+**NOBUYA（ノブヤ、**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。本名は村瀬展弥（むらせのぶや）。通称「のぶじい」[京都府](../Page/京都府.md "wikilink")[長岡京市](../Page/長岡京市.md "wikilink")出身。O型。
 
   - ステージ下手（左側）のボーカル。ロットングラフティーを発起させた。
   - CL∀SSICKに収録されている「(無題)」は尊敬する[X JAPANの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")への思いを綴った曲である。
@@ -13,20 +13,12 @@
 <!-- end list -->
 
   -
-    メイクをするのは[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド出身からだと言われている\[2\]\[3\]。
+    メイクをするのは[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド出身からだと言われている\[2\]\[3\]。過去にEDE:EE(1994-1995)というバンドに**NOV**名義で所属していてベース担当だった。\[4\]\[5\]。京都MUSEで[La'cryma Chistiとの共演もあり](../Page/La'cryma_Christi.md "wikilink")。
+    また、カラオケで泥酔し[DIR EN GREY本人にこんなに大好きなのに分かっていないと号泣した](../Page/DIR_EN_GREY.md "wikilink")。
 
 <!-- end list -->
 
-  - 「悪巧み～Merry Christmas Mr.Lawrence」は
-
-<!-- end list -->
-
-  -
-    バイク事故で入院していた際に、大ファンであった[坂本龍一](../Page/坂本龍一.md "wikilink")の「戦場のメリークリスマス」を聞き直し、
-    「悪巧み」という曲のアレンジとして加えたところ完成したと公言している。
-
-<!-- end list -->
-
+  - 「悪巧み～Merry Christmas Mr.Lawrence」は、バイク事故で入院していた際に、大ファンであった[坂本龍一](../Page/坂本龍一.md "wikilink")の「戦場のメリークリスマス」を聞き直し、「悪巧み」という曲のアレンジとして加えたところ完成したと公言している。勿論、坂本本人公認である\[6\]。
   - ドラムのHIROSHIとは同じバンドを組んでいた。
 
 **N∀OKI（ナオキ、 - ）**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ハープ担当](../Page/ハーモニカ.md "wikilink")。本名は牧沢直樹（まきざわなおき）。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身
@@ -49,7 +41,7 @@
 
   - 機材 Paul Reed Smith Custom24 stoptail, Jackson professional, Gibson ES-335, FENDER USA Telecaster, Diezel Herbert MK II, ORANGE PPC412, FREE THE TONE ARC3
   - 曲の多くは彼の手によるもの。[ローランド](../Page/ローランド.md "wikilink")のVS-1880やVS-2000をメインに作曲をしていた。現在は[PRO TOOLSをメインに作曲している](https://ja.wikipedia.org/wiki/PRO_TOOLS "wikilink")。
-  - もともとは宅録をメインに活動していたがNOBUYAに誘われ、ロットングラフティーに加入。ロットングラフティーが初めてのバンドという\[4\]。
+  - もともとは宅録をメインに活動していたがNOBUYAに誘われ、ロットングラフティーに加入。ロットングラフティーが初めてのバンドという\[7\]。
   - 彼がステージ上で使用しているバンダナ「K-ROSE」もグッズとして販売されている。
   - 犬好き。小動物が好き。
   - とあるインタビューでは洋楽に影響を受けたと回答しているが、ジャンルにとらわれず「音楽」が好きと公言している。
@@ -61,7 +53,7 @@
   - 2010年頃まではアシンメトリーの髪型だった。
   - [ガンダム好きで](../Page/機動戦士ガンダム.md "wikilink")、仲の良いバンドからは「Mr.ガンダム」と言われるほど。アンプの上にはガンダムのヘッドフィギアがあった。
   - アニメ好きでFLOWとの対バンを楽しみにしていた時期があった。
-  - ヴィジュアル系バンド出身\[5\]。尊敬するバンドとして[LUNA SEAを公言している](../Page/LUNA_SEA.md "wikilink")。
+  - ヴィジュアル系バンド出身\[8\]。尊敬するバンドとして[LUNA SEAを公言している](../Page/LUNA_SEA.md "wikilink")。
 
 **HIROSHI（ヒロシ、 - ）**[ドラム担当](../Page/ドラムセット.md "wikilink")。本名は中間弘士（なかまひろし）。通称「[マイケルBOY](https://www.youtube.com/watch?v=msgKG2rdnHU)」
 
@@ -70,8 +62,8 @@
   - メンバーの中でもっともいじられ[キャラである](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。
       - FAMILIARIZEツアーで見せた「[甲甲DANCE](https://www.youtube.com/watch?v=RnLwtDhN6kg)」などが有名。
       - また、[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")のドラム・ナヲからは「山崎邦正的ポジション」とも言われるほど。
-  - 一度、脱退を決意するが最後のツアーが楽しすぎて撤回した。\[6\]というエピソードがある。
-  - ヴィジュアル系バンド出身\[7\]。
+  - 一度、脱退を決意するが最後のツアーが楽しすぎて撤回した。\[9\]というエピソードがある。
+  - ヴィジュアル系バンド出身\[10\]。
   - 尊敬するバンドとして[ユニコーンなどがあげられる](../Page/UNICORN.md "wikilink")。
 
 ## 概要
@@ -86,7 +78,7 @@
 
 <!-- end list -->
 
-  - MAXUS の曲名「ROTTON」は初期SEとしても使用されている\[8\]。
+  - MAXUS の曲名「ROTTON」は初期SEとしても使用されている\[11\]。
 
 <!-- end list -->
 
@@ -100,7 +92,7 @@
 
   - アルバム『SYNCHRONICITIZM』のプロデューサーに[Dragon AshのIKUZONEを迎えている](../Page/Dragon_Ash.md "wikilink")。これはIKUZONEからの申し出から叶ったことであった。
   - 2003年に参加した『[BOOWY Respect](../Page/BOOWY_Respect.md "wikilink")』では「MARIONETTE」がやりたかったが、N∀OKIの「モラルの無い『MORAL』やりたい」というところからカバーする経緯になった。
-  - アルバム『Walk』収録の「D.A.N.C.E.」は急死した[馬場育三](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")へ向けて作られた歌で、歌詞中にも「IKÜZÖNE」が登場する\[9\]。
+  - アルバム『Walk』収録の「D.A.N.C.E.」は急死した[馬場育三](https://ja.wikipedia.org/wiki/馬場育三 "wikilink")へ向けて作られた歌で、歌詞中にも「IKÜZÖNE」が登場する\[12\]。
 
 <!-- end list -->
 
@@ -138,29 +130,29 @@
           - 15th Anniversary DVD 『Walk….. This Way』をリリース。オリコンウィークリー音楽DVDランキング初登場9位。
       - 12月 - 15周年の集大成として自主企画イベント“**ポルノ超特急**”を15,000人を収容する京都パルスプラザで開催。チケットは完売。
   - **[2015年](../Page/2015年.md "wikilink")**
-      - 4月 - [α-STATION](https://ja.wikipedia.org/wiki/α-STATION "wikilink")で放送が開始されたアーティストによる帯番組「FLAG RADIO」において、偶数月の木曜日を担当。\[10\]
+      - 4月 - [α-STATION](https://ja.wikipedia.org/wiki/α-STATION "wikilink")で放送が開始されたアーティストによる帯番組「FLAG RADIO」において、偶数月の木曜日を担当。\[13\]
       - 10月7日 - ビクターエンタテインメントのレーベル「Getting Better」よりミニアルバム『[Life Is Beautiful](https://ja.wikipedia.org/wiki/LIFE_IS_BEAUTIFUL_\(ROTTENGRAFFTYのアルバム\) "wikilink")』をリリース。キャリア史上初のオリコン週間チャートでのトップ10入りを果たすも、収録曲に権利処理上の問題があるとして12月29日に発売中止が発表された。
   - **[2016年](../Page/2016年.md "wikilink")**
-      - 4月14日 - NOBUYAが声帯の[ポリープ](../Page/ポリープ.md "wikilink")除去手術を受ける。5月15日のライブイベント「OSAKA METROPOLITAN ROCK FESTIVAL 2016」で復帰\[11\]。
+      - 4月14日 - NOBUYAが声帯の[ポリープ](../Page/ポリープ.md "wikilink")除去手術を受ける。5月15日のライブイベント「OSAKA METROPOLITAN ROCK FESTIVAL 2016」で復帰\[14\]。
       - 10月5日 - シングル『So...Start』リリース。初週で6,615枚を売り上げ、週間チャートでは12位を記録（オリコン）し、『世界の終わり』で記録した17位から最高位を更新。
   - **[2017年](../Page/2017年.md "wikilink")**
-      - 6月10日、ロットンの日に[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")などの音楽配信サイトと[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[Amazon Prime Music](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonプライム "wikilink")、[LINE MUSIC](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")、[レコチョクBest等の定額制聴き放題サービスで](https://ja.wikipedia.org/wiki/レコチョク#提供サービス "wikilink")、これまで未配信であったアルバム曲を含めた全72曲を配信\[12\]。また、7枚目となるシングル『70cm四方の窓辺』を10月4日にリリースする事と、恒例のイベントである『ポルノ超特急』を12月の23日と24日の2日にわたって開催することも発表\[13\]。
-      - 10月11日、シングル「『70cm四方の窓辺』」が、初週で6,346枚を売り上げ、オリコン週間シングルチャート(10月16日付)で10位を獲得\[14\]\[15\]。週間チャートでのトップ10入りはミニアルバム『Life Is Beautiful』以来で、シングルでは初。
+      - 6月10日、ロットンの日に[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[mora](https://ja.wikipedia.org/wiki/mora "wikilink")などの音楽配信サイトと[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[Amazon Prime Music](https://ja.wikipedia.org/wiki/Amazon.co.jp#Amazonプライム "wikilink")、[LINE MUSIC](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")、[レコチョクBest等の定額制聴き放題サービスで](https://ja.wikipedia.org/wiki/レコチョク#提供サービス "wikilink")、これまで未配信であったアルバム曲を含めた全72曲を配信\[15\]。また、7枚目となるシングル『70cm四方の窓辺』を10月4日にリリースする事と、恒例のイベントである『ポルノ超特急』を12月の23日と24日の2日にわたって開催することも発表\[16\]。
+      - 10月11日、シングル「『70cm四方の窓辺』」が、初週で6,346枚を売り上げ、オリコン週間シングルチャート(10月16日付)で10位を獲得\[17\]\[18\]。週間チャートでのトップ10入りはミニアルバム『Life Is Beautiful』以来で、シングルでは初。
   - **[2018年](../Page/2018年.md "wikilink")**
       - 2月28日、『Walk』以来、およそ5年振りとなるオリジナルアルバム『PLAY』をリリース。
-      - 3月7日、『PLAY』が初週で8,000枚を売り上げ、オリコン週間アルバムチャートで9位を獲得\[16\]\[17\]。オリジナルアルバムでのトップ10入りは本作が初となった。
-      - 10月3日、『**ROTTENGRAFFTY PLAY ALL AROUND JAPAN TOUR 2018**』の最終公演を、キャリア初となる日本武道館で行った\[18\]。また、その公演を収めた映像作品『**PLAY ALL AROUND JAPAN TOUR 2018 in 日本武道館**』を、[2019年](../Page/2019年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")にリリースした\[19\]。
+      - 3月7日、『PLAY』が初週で8,000枚を売り上げ、オリコン週間アルバムチャートで9位を獲得\[19\]\[20\]。オリジナルアルバムでのトップ10入りは本作が初となった。
+      - 10月3日、『**ROTTENGRAFFTY PLAY ALL AROUND JAPAN TOUR 2018**』の最終公演を、キャリア初となる日本武道館で行った\[21\]。また、その公演を収めた映像作品『**PLAY ALL AROUND JAPAN TOUR 2018 in 日本武道館**』を、[2019年](../Page/2019年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")にリリースした\[22\]。
 
 <!-- end list -->
 
   - **[2019年](../Page/2019年.md "wikilink")**
-      - 11月3日、活動20周年を記念して、トリビュートアルバムとニューシングル「ハレルヤ」、そしてベストアルバムの発売を発表。前者2つは同年12月18日に、後者は2020年の[3月18日](../Page/3月18日.md "wikilink")に発売。収録曲はネット投票によって決定された\[20\]\[21\]。
-      - 12月26日、シングル「ハレルヤ」が、初週で5,571枚を売り上げ、オリコン週間シングルチャートで9位を獲得\[22\]\[23\]。前作「『70cm四方の窓辺』」以来となる2作連続でのトップ10入りを果たし、またシングルでの自己最高位も更新した。
+      - 11月3日、活動20周年を記念して、トリビュートアルバムとニューシングル「ハレルヤ」、そしてベストアルバムの発売を発表。前者2つは同年12月18日に、後者は2020年の[3月18日](../Page/3月18日.md "wikilink")に発売。収録曲はネット投票によって決定された\[23\]\[24\]。
+      - 12月26日、シングル「ハレルヤ」が、初週で5,571枚を売り上げ、オリコン週間シングルチャートで9位を獲得\[25\]\[26\]。前作「『70cm四方の窓辺』」以来となる2作連続でのトップ10入りを果たし、またシングルでの自己最高位も更新した。
 
 <!-- end list -->
 
   - **[2020年](../Page/2020年.md "wikilink")**
-      - 2月7日、ベストアルバム『You are ROTTENGRAFFTY』の、全収録曲とアートワークを公開\[24\]。
+      - 2月7日、ベストアルバム『You are ROTTENGRAFFTY』の、全収録曲とアートワークを公開\[27\]。
 
 ## ディスコグラフィー
 
@@ -2421,8 +2413,8 @@ VICL-64420(通常盤)</p></td>
 | 曲名          | タイアップ先                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------ |
 | THIS WORLD  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[やりすぎコージー](../Page/やりすぎコージー.md "wikilink")」ED |
-| P.I.L       | 映画『[復讐したい](https://ja.wikipedia.org/wiki/復讐したい "wikilink")』主題歌\[25\]                                   |
-| 「70cm四方の窓辺」 | フジテレビ系アニメ「[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")」 10月度エンディングテーマ\[26\]           |
+| P.I.L       | 映画『[復讐したい](https://ja.wikipedia.org/wiki/復讐したい "wikilink")』主題歌\[28\]                                   |
+| 「70cm四方の窓辺」 | フジテレビ系アニメ「[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")」 10月度エンディングテーマ\[29\]           |
 
 ## 脚注
 
@@ -2441,16 +2433,16 @@ VICL-64420(通常盤)</p></td>
 1.
 2.
 3.  そのため[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")、[DIR EN GREYなど尊敬](../Page/DIR_EN_GREY.md "wikilink")、親交のあるバンドは多い。
-4.
-5.
-6.  <http://natalie.mu/music/pp/bowline_dragonash/page/3>
+4.  [NOBUYA 2014年6月16日のツイート](https://twitter.com/nobuya_official/status/478503518492295168)
+5.  [NOBUYA 2014年7月21日のツイート](https://twitter.com/nobuya_official/status/490881979840094208)
+6.
 7.
-8.  [禅問答と頓知師匠140人組手【1】 2011年01月16日](http://lynch-quiz.seesaa.net/article/180919522.html?from_sp)
-9.  <http://gekirock.com/interview/2013/06/rottengraffty_2_2.php>
-10. 親交のある10-FEETとは担当月が異なる(10-FEETは奇数月担当)違うものの、どちらも木曜日の担当である。
-11.
-12.
-13.
+8.
+9.  <http://natalie.mu/music/pp/bowline_dragonash/page/3>
+10.
+11. [禅問答と頓知師匠140人組手【1】 2011年01月16日](http://lynch-quiz.seesaa.net/article/180919522.html?from_sp)
+12. <http://gekirock.com/interview/2013/06/rottengraffty_2_2.php>
+13. 親交のある10-FEETとは担当月が異なる(10-FEETは奇数月担当)違うものの、どちらも木曜日の担当である。
 14.
 15.
 16.
@@ -2464,3 +2456,6 @@ VICL-64420(通常盤)</p></td>
 24.
 25.
 26.
+27.
+28.
+29.

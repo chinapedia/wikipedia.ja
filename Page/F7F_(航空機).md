@@ -1,7 +1,7 @@
 > この記事は[F7F \(航空機\)](https://ja.wikipedia.org/wiki/F7F_\(航空機\))から翻訳されています。
 
 
-**F7F タイガーキャット**（*Grumman F7F Tigercat* ）は、[グラマン](../Page/グラマン.md "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")末期から戦後にかけて運用した双発[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+**F7F タイガーキャット**（*Grumman F7F Tigercat* ）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")末期から戦後にかけて運用した双発[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
 
 愛称の「**タイガーキャット**(Tigercat)」は[ジャガーネコ](../Page/ジャガーネコ.md "wikilink")の意。
 

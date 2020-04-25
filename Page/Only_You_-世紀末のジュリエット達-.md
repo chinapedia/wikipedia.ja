@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [1996年](../Page/1996年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に、ユーザークラブ会員に限定で通信販売された作品である。メディアは、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")7枚組、もしくは[CD-ROM](../Page/CD-ROM.md "wikilink")1枚。対応機種は[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")、[FM-TOWNSシリーズ](https://ja.wikipedia.org/wiki/FM-TOWNSシリーズ "wikilink")。定価6500円。現在は生産終了。
+  - [1996年](../Page/1996年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に、ユーザークラブ会員に限定で通信販売された作品である。メディアは、[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")7枚組、もしくは[CD-ROM](../Page/CD-ROM.md "wikilink")1枚。対応機種は[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")、[FM TOWNSシリーズ](../Page/FM_TOWNS.md "wikilink")。定価6500円。現在は生産終了。
   - CD-ROM版は、[Windows3.1ならびに](../Page/Microsoft_Windows_3.x.md "wikilink")[Windows95にも対応している](../Page/Microsoft_Windows_95.md "wikilink")。またPC-98シリーズで起動させた場合は、[BGMを](../Page/バックグラウンドミュージック.md "wikilink")[FM音源](../Page/FM音源.md "wikilink")（通常）と[CD-DA](../Page/CD-DA.md "wikilink")音源（アレンジ版）の二種類から選択できる。
   - ジャンルは、[アドベンチャー](../Page/アドベンチャーゲーム.md "wikilink")・[RPG](../Page/コンピュータRPG.md "wikilink")。イベントはアドベンチャー形式で進められるが、通常の移動や戦闘はRPG形式で行われる。
   - ゲームには時間制限が設けられている。制限時間は、主にフィールド移動や[必殺技](../Page/必殺技.md "wikilink")の使用によって減少し、タイムリミットを迎えると、強制的に最終イベントに突入する。またマルチエンディング方式が採用されており、選んだヒロインやそれまでの展開によって、結末がそれぞれ大きく異なる。ワンプレイで攻略し得るヒロインは一人のみで、二股をかけると強制的にバッドエンドになってしまうが、逆に特定のヒロインと結ばれずストーリーを進めることでのみ辿り着けるエンディングも存在するなど、ゲームとしてもストイックな作りになっている。18禁と漢ゲーを両立させた・超硬派ゲームと評される所以でもある。

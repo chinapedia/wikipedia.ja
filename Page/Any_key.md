@@ -7,7 +7,7 @@
 
 現在、一般に流通しているコンピュータに於いて、標準で「Any」という刻印のあるキー（入力スイッチ）は[キーボード上に存在しない](../Page/キーボード_\(コンピュータ\).md "wikilink")。[英語](../Page/英語.md "wikilink")の “Any” は疑問文や否定文では不定数（不定量）を表すが、肯定文で単数形を伴うと、anyは不定のものを表し、"Press any key"　は「（どれでもいいので）何らかのキーを押しなさい」という意味である\[1\]。コンピュータの画面上では、「 *Press Any key to continue...* 」ないし「 *Hit Any key...* 」などと、何らかのキー入力を求める表示に使われる表現である。
 
-"any key"という表現は、厳密には正確ではない。ほとんどのコンピュータシステムでは、[修飾キー](../Page/修飾キー.md "wikilink")（[シフトキー](../Page/シフトキー.md "wikilink")など）、ロックキー（[NumLockキー](https://ja.wikipedia.org/wiki/NumLockキー "wikilink")など）、[変換キー](https://ja.wikipedia.org/wiki/変換キー "wikilink")など、単独で押下してもプログラムが実際の文字を生成しないキーがあり、"Press any key"に対してこれらのキーを押下しても何も起こらない。
+"any key"という表現は、厳密には正確ではない。ほとんどのコンピュータシステムでは、[修飾キー](../Page/修飾キー.md "wikilink")（[シフトキー](../Page/シフトキー.md "wikilink")など）、[ロックキー](../Page/ロックキー.md "wikilink")（[NumLockキー](https://ja.wikipedia.org/wiki/NumLockキー "wikilink")など）、[変換キー](https://ja.wikipedia.org/wiki/変換キー "wikilink")など、単独で押下してもプログラムが実際の文字を生成しないキーがあり、"Press any key"に対してこれらのキーを押下しても何も起こらない。
 
 DVD-R130など一部の[サムスン電子](../Page/サムスン電子.md "wikilink")製DVDプレーヤーのリモコンには"anykey"というボタンがあり、視聴中のDVDの状態を表示するために使用される\[2\]。
 

@@ -787,7 +787,7 @@
 
   - [THE LOCAL ART BLOG](http://blog.livedoor.jp/thelocalart/)
 
-  - [THE LOCAL ART 岡田悟志のブログ](http://ameblo.jp/satoshiokada/)
+  - [THE LOCAL ART 岡田悟志のブログ](https://ameblo.jp/satoshiokada/)
 
   - [日本クラウン](http://www.crownrecord.co.jp/artist/thelocalart/whats.html)(2008年更新停止)
 

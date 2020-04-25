@@ -45,4 +45,4 @@
   -
   - [NHKクロニクル 「日本の伝統芸能」番組表検索結果](http://www2.nhk.or.jp/archives/chronicle/list.cgi?q=%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD)
 
-[Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:NHK教育テレビジョンの教養番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組の歴史 "wikilink") [Category:日本の伝統芸能](https://ja.wikipedia.org/wiki/Category:日本の伝統芸能 "wikilink")
+[Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:NHK教育テレビジョンの教養番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組の歴史 "wikilink") [Category:日本の伝統芸能の番組](https://ja.wikipedia.org/wiki/Category:日本の伝統芸能の番組 "wikilink")

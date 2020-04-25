@@ -1279,7 +1279,7 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/12月23日.md" title="wikilink">12月23日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツトリビュートアルバム</a><br />
+<td><p><strong><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツトリビュートアルバム</a><br />
 「JUST LIKE HONEY<br />
 〜『<a href="../Page/ハチミツ_(アルバム).md" title="wikilink">ハチミツ</a>』20th Anniversary Tribute〜」</strong></p></td>
 <td><p>UPCH-2065<br />

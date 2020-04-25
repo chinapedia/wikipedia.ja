@@ -1,7 +1,7 @@
 > この記事は[CARNELIAN](https://ja.wikipedia.org/wiki/CARNELIAN)から翻訳されています。
 
 
-**CARNELIAN**（**カーネリアン**、[女性](../Page/女性.md "wikilink")、[9月21日](../Page/9月21日.md "wikilink")）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、同人作家、[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")、実業家である。
+**CARNELIAN**（**カーネリアン**、[女性](../Page/女性.md "wikilink")、[9月21日](../Page/9月21日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、同人作家、[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")、[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")、実業家である。
 
 [ARIDESIGN](https://ja.wikipedia.org/wiki/ARIDESIGN "wikilink") （[アリデザイン](https://ja.wikipedia.org/wiki/アリデザイン "wikilink")）[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[代表取締役](../Page/代表取締役.md "wikilink")、[有限会社](../Page/有限会社.md "wikilink")[オービット](../Page/オービット.md "wikilink")[代表取締役](../Page/代表取締役.md "wikilink")。有限会社ルーツ取締役。
 
@@ -40,7 +40,7 @@
 
   - **男性向け**
       - [Revolver](https://ja.wikipedia.org/wiki/Revolver_\(ゲーム\) "wikilink")（[PIL](../Page/ストーンヘッズ.md "wikilink")／[Flying Shine](../Page/フライングシャイン.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
-      - Re-Leaf（[シーズウェア](../Page/シーズウェア.md "wikilink")、1998年）
+      - Re-leaf（[シーズウェア](../Page/シーズウェア.md "wikilink")、1998年）
       - [MACHINE MAIDEN](https://ja.wikipedia.org/wiki/MACHINE_MAIDEN "wikilink")（[evolution](../Page/ダイス_\(ゲーム会社\).md "wikilink")、[1999年](../Page/1999年.md "wikilink")）
       - [WAM-xxxnovel.wetandmessy.com-](https://ja.wikipedia.org/wiki/WAM-xxxnovel.wetandmessy.com- "wikilink")（PIL／Flying Shine、1999年）
       - [D 〜その景色の向こう側〜](https://ja.wikipedia.org/wiki/D_〜その景色の向こう側〜 "wikilink")（[Pure Platinum](https://ja.wikipedia.org/wiki/Pure_Platinum "wikilink")、1999年）
@@ -50,7 +50,7 @@
       - [レンズの向こう側…](https://ja.wikipedia.org/wiki/レンズの向こう側… "wikilink")（[MINA](../Page/スペースプロジェクト.md "wikilink")、2000年）
       - [恋ようび](https://ja.wikipedia.org/wiki/恋ようび "wikilink")（[ACTRESS](../Page/ACTRESS.md "wikilink")、2000年）
       - [將姫](https://ja.wikipedia.org/wiki/將姫 "wikilink")（[シーズウェア](../Page/シーズウェア.md "wikilink")、2000年）
-      - [EVEZERO ark of the matter](../Page/EVE_ZERO.md "wikilink")（シーズウェア、2000年）
+      - [EVE ZERO 〜ark of the matter〜](../Page/EVE_ZERO.md "wikilink")（シーズウェア、2000年）
       - [顔のない月](../Page/顔のない月.md "wikilink")（[ROOT](../Page/オービット.md "wikilink")、2000年）
       - [ひまわりの咲くまち](https://ja.wikipedia.org/wiki/ひまわりの咲くまち "wikilink")（[フェアリーテール](../Page/フェアリーテール_\(ブランド\).md "wikilink")、[2002年](../Page/2002年.md "wikilink")）
       - [ヤミと帽子と本の旅人](../Page/ヤミと帽子と本の旅人.md "wikilink")（ROOT、2002年）
@@ -62,14 +62,14 @@
       - [桃華月憚](../Page/桃華月憚.md "wikilink")（ROOT、[2007年](../Page/2007年.md "wikilink")）
       - [PARA-SOL](https://ja.wikipedia.org/wiki/PARA-SOL "wikilink")（ROOT、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
   - **女性向け**
-      - [メサイア](https://ja.wikipedia.org/wiki/メサイア_\(ゲーム\) "wikilink")（[CORE](../Page/オービット.md "wikilink")、2006年）
+      - [メサイア](https://ja.wikipedia.org/wiki/MESSIAH "wikilink")（[CORE](../Page/オービット.md "wikilink")、2006年）
       - メサイア 〜パラノイア・パラドックス〜（CORE、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）
       - ガーネット・クレイドル ジ アーク オブ ファンタズム（オービット×[サーファーズパラダイス](https://ja.wikipedia.org/wiki/サーファーズパラダイス "wikilink")、[2009年](../Page/2009年.md "wikilink")）※ [ソーシャル・ネットワーキング・ゲーム](../Page/社会的ネットワーク.md "wikilink")
 
 ### ゲームプロデューサー
 
   - **女性向け**
-      - [ガーネット・クレイドル](https://ja.wikipedia.org/wiki/ガーネット・クレイドル "wikilink")（[SPICA](https://ja.wikipedia.org/wiki/SPICA_\(ゲーム会社\) "wikilink")、[2009年](../Page/2009年.md "wikilink")）
+      - [ガーネット・クレイドル](https://ja.wikipedia.org/wiki/GARNET_CRADLE "wikilink")（[SPICA](https://ja.wikipedia.org/wiki/SPICA_\(ゲーム会社\) "wikilink")、[2009年](../Page/2009年.md "wikilink")）
 
 ### 挿絵
 
@@ -122,6 +122,8 @@
   - [アージュ](../Page/アージュ.md "wikilink")
 
 ## 外部リンク
+
+  -
 
   -
 

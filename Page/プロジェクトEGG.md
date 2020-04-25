@@ -80,7 +80,7 @@ D4エンタープライズの代表となった鈴木は、ゲームの開発に
   - [SNK](../Page/SNK_\(2001年設立の企業\).md "wikilink")
   - [T\&E SOFT](../Page/T&E_SOFT.md "wikilink")
   - [Tozai Games](https://ja.wikipedia.org/wiki/Tozai_Games "wikilink")
-  - [ZOOM](https://ja.wikipedia.org/wiki/ZOOM "wikilink")
+  - [ZOOM](../Page/ズーム_\(ゲーム会社\).md "wikilink")
   - [アートディンク](../Page/アートディンク.md "wikilink")
   - [アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")
   - [アルシスソフトウェア](../Page/サイバーヘッド_\(ゲーム会社\).md "wikilink")

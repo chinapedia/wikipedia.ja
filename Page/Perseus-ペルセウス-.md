@@ -32,6 +32,6 @@
 ## 外部リンク
 
   -
-[Category:島谷ひとみの楽曲](https://ja.wikipedia.org/wiki/Category:島谷ひとみの楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:BOUNCEBACKが制作した楽曲](https://ja.wikipedia.org/wiki/Category:BOUNCEBACKが制作した楽曲 "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink") [Category:星座を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星座を題材とした楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")
+[Category:島谷ひとみの楽曲](https://ja.wikipedia.org/wiki/Category:島谷ひとみの楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:BOUNCEBACKが制作した楽曲](https://ja.wikipedia.org/wiki/Category:BOUNCEBACKが制作した楽曲 "wikilink") [Category:星座を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星座を題材とした楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")
 
 1.

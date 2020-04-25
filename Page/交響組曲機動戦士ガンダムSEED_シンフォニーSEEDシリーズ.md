@@ -42,7 +42,7 @@
 6.  OST3「[フレイの死](../Page/フレイ・アルスター.md "wikilink")」･「撃沈[ドミニオン](https://ja.wikipedia.org/wiki/アークエンジェル_\(ガンダムシリーズ\)#ドミニオン "wikilink")」
 7.  OST1「GUNDAM出撃」、OST3「カウントダウン」、OST2「STRIKE出撃」
 8.  「[あんなに一緒だったのに](https://ja.wikipedia.org/wiki/あんなに一緒だったのに "wikilink")」歌：[See-Saw](../Page/See-Saw.md "wikilink")
-9.  OST1「静かな夜に」歌：[ラクス・クライン](../Page/ラクス・クライン.md "wikilink")（[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")）
+9.  OST1「静かな夜に」歌：[ラクス・クライン](../Page/ラクス・クライン.md "wikilink")（[田中理恵](../Page/田中理恵_\(声優\).md "wikilink")）
 10. OST3「正義と自由」･「友情の防衛線」･「[フリーダム自爆](../Page/フリーダムガンダム.md "wikilink")」
 
 ### 交響組曲機動戦士ガンダムSEED DESTINY シンフォニーSEED DESTINY

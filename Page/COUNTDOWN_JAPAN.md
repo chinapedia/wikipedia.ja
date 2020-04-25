@@ -3756,7 +3756,7 @@ SPECIAL FORMATION SET</li>
 </ul></td>
 <td><ul>
 <li>OLDCODEX</li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li>ねごと</li>
 <li>NGT48</li>
 <li><a href="../Page/JUN_SKY_WALKER(S).md" title="wikilink">JUN SKY WALKER(S)</a></li>

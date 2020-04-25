@@ -29,18 +29,18 @@
 5.  **別れのビギン**
       -
         1996年[苗場プリンスホテルCMソング](../Page/プリンスホテル.md "wikilink")。
-6.  **忘れかけたあなたへのメリークリスマス**
+6.  **忘れかけたあなたへのメリークリスマス(Album Mix)**
       -
         独りで過ごすクリスマス・イヴをテーマにした曲。シングル「最後の嘘」のカップリング曲。
 7.  **Midnight Train**
-8.  **[最後の嘘](../Page/最後の嘘.md "wikilink")**
+8.  **[最後の嘘](../Page/最後の嘘.md "wikilink")(Album Mix)**
       -
         1996年[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[ひとり暮らし](../Page/ひとり暮らし.md "wikilink")』（主演・[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")、[高橋克典](../Page/高橋克典.md "wikilink")）の主題歌。
         2003年、[オリータ・アダムス](https://ja.wikipedia.org/wiki/オリータ・アダムス "wikilink")がカバーした（『[OVER THE SKY: Yuming International Cover Album](../Page/OVER_THE_SKY:_Yuming_International_Cover_Album.md "wikilink")』収録）。
 9.  **Called Game**
       -
         2001年12月17日、ユーミンが[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")とラジオ番組で対談した際、この曲が対談の中で流れた。
-10. **[まちぶせ](../Page/まちぶせ.md "wikilink")**
+10. **[まちぶせ](../Page/まちぶせ.md "wikilink")(Album Version)**
       -
         1976年に[三木聖子](../Page/三木聖子.md "wikilink")に提供、その後[1981年](../Page/1981年.md "wikilink")に[石川ひとみ](../Page/石川ひとみ.md "wikilink")、[1996年](../Page/1996年.md "wikilink")には[國府田マリ子](../Page/國府田マリ子.md "wikilink")、[2007年](../Page/2007年.md "wikilink")には[徳永英明](../Page/徳永英明.md "wikilink")がカヴァーした。1996年に荒井由実として[セルフカバー](../Page/セルフカバー.md "wikilink")する。1996年日本テレビ系『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』エンディングテーマ。
         アルバムでは曲が終わった後に1分半弱の「最後の嘘」のオケが流れる。

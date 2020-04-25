@@ -17,6 +17,7 @@
     <!-- end list -->
       -
         TAKURO曰く、「『誘惑』を作った後にスタッフからもう一曲作ってほしいと頼まれ、10分で作り終えた曲。」だという。
+        [2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に放送された「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」3時間スペシャルでは、番組内の企画での視聴者投票で1位にランクイン。「[Into the Wild](https://ja.wikipedia.org/wiki/REVIEW_II_-BEST_OF_GLAY-#TAKURO盤 "wikilink")」とともに披露された。
 2.  **アイ** \[3:57\]
       - 作詞・作曲：[HISASHI](../Page/HISASHI.md "wikilink")
     <!-- end list -->
@@ -39,4 +40,4 @@
   - [pure soul Anthology](https://ja.wikipedia.org/wiki/Pure_soul#pure_soul_Anthology "wikilink")（\#1,2）
       - いずれもリミックスバージョン
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:楽曲_そ](https://ja.wikipedia.org/wiki/Category:楽曲_そ "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:楽曲_そ](https://ja.wikipedia.org/wiki/Category:楽曲_そ "wikilink")

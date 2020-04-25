@@ -79,7 +79,7 @@
 
 （連載期間の長い順 / タイトル五十音順）太字はコミックFUZにて配信している。
 
-  - **[きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink")** （[原悠衣](../Page/原悠衣.md "wikilink")、2010年2 - 3月号ゲスト、6月号 - ・コミックFUZでは土曜枠）
+  - **[きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink")** （[原悠衣](../Page/原悠衣.md "wikilink")、2010年2 - 3月号ゲスト、6月号 - ・コミックFUZでは土曜枠）-2020年5月号
   - **[ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink")** （[Koi](https://ja.wikipedia.org/wiki/Koi "wikilink")、2010年12月号ゲスト、2011年3月号 - ・コミックFUZでは金曜枠）
   - [ステラのまほう](https://ja.wikipedia.org/wiki/ステラのまほう "wikilink")（[くろば・U](https://ja.wikipedia.org/wiki/くろば・U "wikilink")、2012年10月号 - 11月号ゲスト、2013年2月号 - ）
   - [こみっくがーるず](https://ja.wikipedia.org/wiki/こみっくがーるず "wikilink")（[はんざわかおり](../Page/はんざわかおり.md "wikilink")、2014年5月号 - 7月号ゲスト、8月号 - ）

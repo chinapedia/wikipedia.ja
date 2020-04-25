@@ -1,7 +1,7 @@
 > この記事は[Miss Monday](https://ja.wikipedia.org/wiki/Miss_Monday)から翻訳されています。
 
 
-**Miss Monday**（ミスマンデイ、[1976年](../Page/1976年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")-)は、日本で活動する女性[ラッパーである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")所属。
+**Miss Monday**（ミスマンデイ、[1976年](../Page/1976年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")-)は、日本で活動していた元・女性[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")に所属していた。
 
 ## 来歴
 
@@ -37,7 +37,7 @@
 
 静と動のHIP-HOP STYLEを自由自在に表現する唯一無二のアーティスト。
 
-2018年6月、育児のためインディーズデビュー日の7月21日をもってステージから退くことを発表。裏方としての制作やサポートは今後も続けるとしている。
+[2018年](../Page/2018年.md "wikilink")6月、育児のためインディーズデビュー日の7月21日をもってステージから退くことを発表。裏方としての制作やサポートは今後も続けるとしている。
 
 ## ライブスタイル
 
@@ -153,7 +153,7 @@
 
   - [Miss Mondayオフィシャルサイト](http://www.missmonday.com)
   - [フォーライフミュージックによるMiss Monday公式サイト](http://www.forlife.co.jp/missmonday/index.html)
-  - [Miss Mondayオフィシャルブログ](http://ameblo.jp/missmondayoriginal/)
+  - [Miss Mondayオフィシャルブログ](https://ameblo.jp/missmondayoriginal/)
   - [Miss Monday所属事務所 id ENTERTAINMENT](http://www.id-entertainment.co.jp/)
 
 ## 脚注

@@ -78,4 +78,8 @@
 
   - [nil from hell](http://www.afro-skull.com/)
 
+<!-- end list -->
+
+  - [afroskullrecords](https://www.youtube.com/user/afroskullrecords/videos/) - [youtube](https://ja.wikipedia.org/wiki/youtube "wikilink")
+
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

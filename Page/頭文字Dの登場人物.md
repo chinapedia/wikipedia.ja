@@ -30,7 +30,7 @@
         →プロジェクトD加入後、舘智幸戦からカーボンボンネット（メーカー不明）、チーム246戦からアクリルウインドウ付きリアゲート（メーカー不明）
         主な内装パーツ…イタルボランテ製アドミラル、前期型GTVアナログメーター
         →秋山渉戦以降は[TRD製](https://ja.wikipedia.org/wiki/トヨタテクノクラフト "wikilink")[グループA](../Page/グループA.md "wikilink") AE101用[レース](../Page/自動車競技.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")搭載により12000回転スケールのsmith製[タコメーター](../Page/タコメーター.md "wikilink")、[油圧計](https://ja.wikipedia.org/wiki/油圧計 "wikilink")、[水温計](https://ja.wikipedia.org/wiki/水温計 "wikilink")、RECARO製[バケットシート](../Page/バケットシート.md "wikilink")
-        →プロジェクトD加入後は永井電子機器製ウルトラステッピングタコメーター、 ウルトラ製デジタルスピードメーター、大森製油温計、油圧計、水温計、燃料計を使用したワンオフメーターパネル、[ロールバー](../Page/ロールケージ.md "wikilink")、momoステアリング製RACE\[1\]
+        →プロジェクトD加入後は永井電子機器製ウルトラステッピングタコメーター、 ウルトラ製デジタルスピードメーター、大森製油温計、油圧計、水温計、燃料計を使用したワンオフメーターパネル、[ロールバー](../Page/ロールケージ.md "wikilink")、momoステアリング製VELOCE RACING\[1\]
         ナンバー…群馬 55 お 13-954 / 秋名\[2\] 50 せ 2-674（新劇場版）
     *詳細は[藤原拓海](../Page/藤原拓海.md "wikilink")参照*
   - 藤原 文太（ふじわら ぶんた）
@@ -554,7 +554,7 @@
     プロジェクトDの最終戦では清次に拓海の走りと信司（後述）の走りのスタイルの違いを教えていた。
     実写版ではパンクスタイルで登場。このため見た目が原作とは変わっているが原作同様寡黙なのは同じで、拓海戦で拓海がハチロクのエンジンをブローさせた後も出しゃばった清次に出番を取られていた。最後は涼介と拓海との三つどもえの公道バトルとなり熱戦を繰り広げるが、バトルとは無関係な対向車が現われた時に強引な追い抜きを仕掛けたことでコースアウト、崖下に転落して自身は無傷で済んだものの、ランエボは大破という残念な結果に終わってしまった。
       - 搭乗車種…CE9A [ランサーエボリューションIII](https://ja.wikipedia.org/wiki/三菱・ランサーエボリューション#ランサーエボリューションIII "wikilink") GSR（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")式）
-        [95_mitsubishi_lancer_Evolutioin_lll_gsr.jpg](https://ja.wikipedia.org/wiki/File:95_mitsubishi_lancer_Evolutioin_lll_gsr.jpg "fig:95_mitsubishi_lancer_Evolutioin_lll_gsr.jpg")
+        [95_mitsubishi_lancer_Evolution_lll_gsr.jpg](https://ja.wikipedia.org/wiki/File:95_mitsubishi_lancer_Evolution_lll_gsr.jpg "fig:95_mitsubishi_lancer_Evolution_lll_gsr.jpg")
         ボディカラー…ピレネーブラックパール
         主な外装パーツ…純正ホイール（[OZレーシング製](../Page/O・Z_\(企業\).md "wikilink") ブラックに再塗装）\[102\]
         ナンバー…群馬 58 し 30-395（ゲーム「ARCADE STAGE 4」以降、アニメFinal Stageでは栃木 58 し 30-395）/ 栃木 52 し 4-941（ゲーム「ARCADE STAGE Zero」）

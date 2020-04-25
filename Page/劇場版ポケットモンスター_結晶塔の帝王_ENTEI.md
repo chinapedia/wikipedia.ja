@@ -209,7 +209,7 @@
           - 使用ポケモン
         :; [キングドラ](https://ja.wikipedia.org/wiki/キングドラ "wikilink")
         :: 技：えんまく、ずつき
-        ::カスミのトサキントと対戦。えんまくからのずつきで見事勝利。
+        :: カスミのトサキントと対戦。えんまくからのずつきで見事勝利。
         :; [マンタイン](https://ja.wikipedia.org/wiki/マンタイン "wikilink")
           -
 
@@ -222,10 +222,10 @@
           - 使用ポケモン
         :; [モココ](https://ja.wikipedia.org/wiki/モココ "wikilink")
         :: 技：でんきショック
-        ::タケシのズバットと対戦。ちょうおんぱで混乱するも、でんきショックで勝利。
+        :: タケシのズバットと対戦。ちょうおんぱで混乱するも、でんきショックで勝利。
         :; [ヒメグマ](https://ja.wikipedia.org/wiki/ヒメグマ "wikilink")
         :: 技：ばくれつパンチ、みだれひっかき
-        ::タケシのロコンと対戦。ばくれつパンチで勝利。その後、EDにもヒメグマが登場している。
+        :: タケシのロコンと対戦。ばくれつパンチで勝利。その後、EDにもヒメグマが登場している。
         :; [ゴマゾウ](https://ja.wikipedia.org/wiki/ゴマゾウ "wikilink")
           -
 
@@ -251,19 +251,19 @@
       - 手持ちポケモン
     :; [エイパム](https://ja.wikipedia.org/wiki/エイパム "wikilink")
     :: 声 - [小桜エツ子](../Page/小桜エツコ.md "wikilink")
-    ::リンのパートナーで普段はボールから出している。サトシとのバトルではヨルノズクと対戦し、敗北する。
+    :: リンのパートナーで普段はボールから出している。サトシとのバトルではヨルノズクと対戦し、敗北する。
     :; [グランブル](https://ja.wikipedia.org/wiki/グランブル "wikilink")
     :: 技：かみつく
-    ::サトシのワニノコと対戦。みずでっぽうで敗北。
+    :: サトシのワニノコと対戦。みずでっぽうで敗北。
     :; [マンキー](https://ja.wikipedia.org/wiki/マンキー "wikilink")
     :: 技：からてチョップ
-    ::サトシとのバトルではヒノアラシと対戦、かえんほうしゃによって黒焦げにされ敗北。
+    :: サトシとのバトルではヒノアラシと対戦、かえんほうしゃによって黒焦げにされ敗北。
     :; [キリンリキ](https://ja.wikipedia.org/wiki/キリンリキ "wikilink")
     :: 技：ふみつけ、サイケこうせん
-    ::サトシとのバトルではチコリータと対戦、サイケこうせんで勝利。
+    :: サトシとのバトルではチコリータと対戦、サイケこうせんで勝利。
     :; [バタフリー](https://ja.wikipedia.org/wiki/バタフリー "wikilink")
     :: 技：しんぴのまもり、ねむりごな、かぜおこし
-    ::サトシのフシギダネをねむりごなで眠らせ、かぜおこしによる砂煙の爆風で勝利。
+    :: サトシのフシギダネをねむりごなで眠らせ、かぜおこしによる砂煙の爆風で勝利。
     :; [ヌオー](https://ja.wikipedia.org/wiki/ヌオー "wikilink")
       -
 
@@ -305,7 +305,7 @@
 
 ## スタッフ
 
-[NHK子会社](https://ja.wikipedia.org/wiki/NHK子会社 "wikilink")である[NHKエンタープライズ21](https://ja.wikipedia.org/wiki/NHKエンタープライズ21 "wikilink")が製作スタッフに名を連ねている[1](http://www.generalworks.com/databank/movie/title3/pmon00.html)。
+[NHK子会社である](../Page/NHKの関連団体.md "wikilink")[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")21が製作スタッフに名を連ねている[1](http://www.generalworks.com/databank/movie/title3/pmon00.html)。
 
   - 原案 - [田尻智](../Page/田尻智.md "wikilink")
   - スーパーバイザー - [石原恒和](../Page/石原恒和.md "wikilink")
@@ -390,7 +390,8 @@
 
 ## 外部リンク
 
-  - [映画紹介ページ（ポケモン公式）](http://www.pokemon.co.jp/anime/movie/2000/)
+  - [映画紹介ページ（ポケモン公式）](https://www.pokemon.co.jp/anime/movie/2000/)
+  - [Pokémon the Movie 2000 | Pokemon.com](https://www.pokemon.com/uk/pokemon-episodes/pokemon-movies/pokemon-3-the-movie-2001)
   - [シナリオえーだば創作術](http://www.style.fm/as/05_column/05_shudo_bn.shtml) - この映画について第208回 - 第213回に記載。
 
 [Category:劇場版ポケットモンスター](https://ja.wikipedia.org/wiki/Category:劇場版ポケットモンスター "wikilink") [Category:2000年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2000年のアニメ映画 "wikilink") [Category:メディアファクトリーのアニメ映画](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ映画 "wikilink") [Category:ワーナー・ブラザースのアニメ映画](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースのアニメ映画 "wikilink") [Category:パラレルワールドを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材としたアニメ映画 "wikilink")

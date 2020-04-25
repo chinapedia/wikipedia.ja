@@ -46,7 +46,7 @@
 
 ## 外部リンク
 
-  - [公式ブログ](http://ameblo.jp/mikris/)
+  - [公式ブログ](https://ameblo.jp/mikris/)
 
   -
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

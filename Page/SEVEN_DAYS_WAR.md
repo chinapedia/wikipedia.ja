@@ -62,7 +62,7 @@ TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も
 **SEVEN DAYS WAR**
 
   - [JNA-1](https://ja.wikipedia.org/wiki/JNA-1 "wikilink") ([2002年](../Page/2002年.md "wikilink")) - [ワールドカップ日韓大会公式サポーター応援ソングコンピレーションアルバム](../Page/2002_FIFAワールドカップ.md "wikilink")『ULTRAS 2002』に収録。なお、タイトルは『**Eleven Hearts War**』とされている。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") ([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")) - シングル『[crossroad](https://ja.wikipedia.org/wiki/crossroad_\(浜崎あゆみの曲\) "wikilink")』カップリングに収録。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") ([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")) - シングル『[crossroad](https://ja.wikipedia.org/wiki/crossroad_\(浜崎あゆみの曲\) "wikilink")』カップリングに収録。
 
 **GIRLFRIEND**
 

@@ -72,6 +72,6 @@
 ## 外部リンク
 
   - [公式サイト](http://avexnet.or.jp/do-nuts/)
-  - [the do-nuts オフィシャルブログ Powered by アメブロ](http://ameblo.jp/do-nuts/)
+  - [the do-nuts オフィシャルブログ Powered by アメブロ](https://ameblo.jp/do-nuts/)
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

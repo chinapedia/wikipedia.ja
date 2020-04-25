@@ -43,4 +43,4 @@
 
   - [Heart](http://mu-mo.net/id/d-a-i/discography/product/AVCD-30062.html) avex networkによる作品情報
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

@@ -293,7 +293,7 @@
   -
   - [\[mixi\] 海保けんたろーさん](http://mixi.jp/show_friend.pl?id=456363) - [mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")
 
-  - [旧・海保けんたろーのブログ](http://ameblo.jp/kkaiho/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [旧・海保けんたろーのブログ](https://ameblo.jp/kkaiho/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   - [ドラマー海保けんたろー公式サイト](http://www.venture-tips.com/music/)
 
@@ -319,7 +319,7 @@
 
   -
   -
-  - [メリディアンローグ・ボーカル斉藤涼のマニアックブログ](http://ameblo.jp/meridianrogue/) - アメーバブログ
+  - [メリディアンローグ・ボーカル斉藤涼のマニアックブログ](https://ameblo.jp/meridianrogue/) - アメーバブログ
 
 <!-- end list -->
 

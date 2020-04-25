@@ -45,13 +45,13 @@
 
   - GOLF\&MIKE
       - [GOLF](../Page/GOLF_\(歌手\).md "wikilink")（Pichaya Nitipaisalkul）
-      - [MIKE](https://ja.wikipedia.org/wiki/MIKE "wikilink")（Pirat Nitipaisalkul）
+      - MIKE（Pirat Nitipaisalkul）
   - G-JR
       - [Nut](https://ja.wikipedia.org/wiki/Nut "wikilink")（Sarun Ladawon（サラン・ラダーワン）、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月27日](../Page/8月27日.md "wikilink") - ）
       - [Happy](https://ja.wikipedia.org/wiki/Happy_\(G-Junior\) "wikilink")（Park Rattanatithinun（パーク・ラッタナティティナン）、[1988年](../Page/1988年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - ）
   - [Preppy G](https://ja.wikipedia.org/wiki/Preppy_G "wikilink")
       - [Praew](https://ja.wikipedia.org/wiki/Praew "wikilink")（Hassaya Isariyasereekul）
-      - [Beauty](https://ja.wikipedia.org/wiki/Beauty "wikilink")（Phutrapee Wongsittipat）
+      - Beauty（Phutrapee Wongsittipat）
       - [Mae](https://ja.wikipedia.org/wiki/Mae_\(G-Junior\) "wikilink")（Sitapar Uttaburanont）※現在は[Sweet Vacationのボーカリストとして活動中](../Page/Sweet_Vacation.md "wikilink")
       - [Tan](https://ja.wikipedia.org/wiki/Tan_\(G-Junior\) "wikilink")（Pimnapa Wongwisawakon）
       - [Teen](https://ja.wikipedia.org/wiki/Teen_\(G-Junior\) "wikilink")（Patjaree pimsamaee）
@@ -75,6 +75,6 @@
       - [Great](https://ja.wikipedia.org/wiki/Great_\(G-Junior\) "wikilink")（Nattanan Kiadladathanit）
   - [Pang](https://ja.wikipedia.org/wiki/Pang "wikilink")（Pitcha Petcharoen）Preppy G
   - [Delie](https://ja.wikipedia.org/wiki/Delie "wikilink")（Stephanie Kastner）
-  - [Sai](https://ja.wikipedia.org/wiki/Sai "wikilink")（Ratcha Auepaiboon）
+  - Sai（Ratcha Auepaiboon）
 
 [Category:タイの歌手グループ](https://ja.wikipedia.org/wiki/Category:タイの歌手グループ "wikilink")

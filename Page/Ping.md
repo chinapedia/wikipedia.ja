@@ -151,7 +151,7 @@ logから分かる事は、
 
   - 宛先ホストとの通信が管理上禁止されている
 
-  - このでは、宛先ネットワークに到達できない
+  - この[ToSでは](https://ja.wikipedia.org/wiki/Type_of_service "wikilink")、宛先ネットワークに到達できない
 
   - このToSでは、宛先ホストに到達できない
 
@@ -361,7 +361,7 @@ ICMPパケットの一般的な構成:\[10\]
 
 ### ペイロード
 
-パケットのペイロードは一般に[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字で埋められている。以下に、ICMP echo requestの最後の32バイトの[tcpdump](https://ja.wikipedia.org/wiki/tcpdump "wikilink")ユーティリティによる出力の例を示す（echo requestパケットはから始まり、ICMPヘッダの後にペイロードがある）。  ペイロードには、送信の時間を示すタイムスタンプやシーケンス番号（上記の例では含まれていない）を含むことができる。これにより、pingは各パケットの送信時刻を記録することなく、[ステートレスな方法でラウンドトリップタイムを計算できる](https://ja.wikipedia.org/wiki/ステートレス・プロトコル "wikilink")。
+パケットのペイロードは一般に[ASCII](../Page/ASCII.md "wikilink")文字で埋められている。以下に、ICMP echo requestの最後の32バイトの[tcpdump](https://ja.wikipedia.org/wiki/tcpdump "wikilink")ユーティリティによる出力の例を示す（echo requestパケットはから始まり、ICMPヘッダの後にペイロードがある）。  ペイロードには、送信の時間を示すタイムスタンプやシーケンス番号（上記の例では含まれていない）を含むことができる。これにより、pingは各パケットの送信時刻を記録することなく、[ステートレスな方法でラウンドトリップタイムを計算できる](https://ja.wikipedia.org/wiki/ステートレス・プロトコル "wikilink")。
 
 ## セキュリティ上の考慮事項
 

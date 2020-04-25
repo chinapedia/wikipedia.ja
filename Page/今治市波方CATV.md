@@ -30,7 +30,7 @@
 | 101     | [NHKBS1](https://ja.wikipedia.org/wiki/NHKBS1 "wikilink")                      |
 | 103     | [NHKBSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")              |
 | 141     | [BS日テレ](../Page/BS日本.md "wikilink")                                            |
-| 151     | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                        |
+| 151     | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                           |
 | 161     | [BS-TBS](../Page/BS-TBS.md "wikilink")                                         |
 | 171     | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                      |
 | 181     | [BSフジ](../Page/BSフジ.md "wikilink")                                             |

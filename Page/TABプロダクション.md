@@ -27,6 +27,7 @@
   - [猪野里香](https://ja.wikipedia.org/wiki/猪野里香 "wikilink")
   - [内田りりこ](../Page/内田りりこ.md "wikilink")
   - [大川ゆず香](https://ja.wikipedia.org/wiki/大川ゆず香 "wikilink")
+  - [加良まゆみ](https://ja.wikipedia.org/wiki/加良まゆみ "wikilink")
   - [白鈴ももか](https://ja.wikipedia.org/wiki/白鈴ももか "wikilink")
   - [西口有香](../Page/西口有香.md "wikilink")
   - [飛野温美](https://ja.wikipedia.org/wiki/飛野温美 "wikilink")
@@ -102,6 +103,7 @@
   - [牧野秀紀](https://ja.wikipedia.org/wiki/牧野秀紀 "wikilink")
   - [森訓久](../Page/森訓久.md "wikilink")（現所属：[賢プロダクション](../Page/賢プロダクション.md "wikilink")）
   - [山内悠椰](../Page/山内悠椰.md "wikilink")
+  - [吉本裕介](https://ja.wikipedia.org/wiki/吉本裕介 "wikilink")（現所属：[SRプロダクション](https://ja.wikipedia.org/wiki/SRプロダクション "wikilink")）
 
 ### 女性
 

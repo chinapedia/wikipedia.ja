@@ -4,7 +4,7 @@
 **ESC**とは、
 
   - Escape（エスケープ、脱出）に由来
-      - [エスケープ文字](../Page/エスケープ文字.md "wikilink") - コンピュータ分野での[制御文字](../Page/制御文字.md "wikilink")のエスケープ（Escape、[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")では16進で1B）。[エスケープシーケンス](../Page/エスケープシーケンス.md "wikilink")に使われる。また、そのコードを発生できるキーボード上の[Escキー](https://ja.wikipedia.org/wiki/Escキー "wikilink")。
+      - [エスケープ文字](../Page/エスケープ文字.md "wikilink") - コンピュータ分野での[制御文字](../Page/制御文字.md "wikilink")のエスケープ（Escape、[ASCII](../Page/ASCII.md "wikilink")では16進で1B）。[エスケープシーケンス](../Page/エスケープシーケンス.md "wikilink")に使われる。また、そのコードを発生できるキーボード上の[Escキー](https://ja.wikipedia.org/wiki/Escキー "wikilink")。
       - Escape命令 - コンピュータ分野での[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")系[CPU](../Page/CPU.md "wikilink")の持つ、[FPU](../Page/FPU.md "wikilink")命令を呼び出すための[命令](../Page/命令_\(コンピュータ\).md "wikilink") (Escape)。FPU命令を直接記述できる[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")ではこの命令自身を記述する必要はないが、[MASM](https://ja.wikipedia.org/wiki/Microsoft_Macro_Assembler "wikilink") 5.1以降でESCという[予約語](../Page/予約語.md "wikilink")になっており、前述の「制御文字のエスケープ」をESCという[識別子](../Page/識別子.md "wikilink")で名付けることができない。なおMASM 5.1の文法上はEscapeの略記ではなく、ESCが正式表記である。
   - Electric Speed Controller（[電子式スピードコントローラー](https://ja.wikipedia.org/wiki/ラジコン模型自動車#ESC "wikilink")）　-　主に[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")の分野で用いられる。
   - Electronic Stability Control（[横滑り防止装置](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")） - 開発企業により商標が異なる同機構の、（日本での）統一名称として、[アドヴィックス](https://ja.wikipedia.org/wiki/アドヴィックス "wikilink")、[コンティネンタル・オートモーティブ](https://ja.wikipedia.org/wiki/コンティネンタル・オートモーティブ "wikilink")、[ボッシュ(日本)ら](../Page/ロバート・ボッシュ_\(企業\).md "wikilink")3社が共同で提唱。

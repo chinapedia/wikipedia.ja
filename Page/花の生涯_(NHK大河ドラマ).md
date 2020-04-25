@@ -1,7 +1,7 @@
 > この記事は[花の生涯 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/花の生涯_\(NHK大河ドラマ\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Hananoshogai01.JPG "wikilink") 『**花の生涯**』（はなのしょうがい）は、[1963年](../Page/1963年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")まで[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")第1作目。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hananoshogai01.JPG "wikilink") 『**花の生涯**』（はなのしょうがい）は、[1963年](../Page/1963年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")まで[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")（放送当時は大型時代劇と称した）第1作目。
 
 ## 概要
 
@@ -354,6 +354,8 @@
 ## 補足
 
 本作の[10年前に公開された映画](https://ja.wikipedia.org/wiki/1953年 "wikilink")、『[花の生涯 彦根篇 江戸篇](../Page/花の生涯_彦根篇_江戸篇.md "wikilink")』では松緑の実兄である[松本幸四郎が主演の井伊直弼を演じていた](../Page/松本白鸚_\(初代\).md "wikilink")。また、松緑から演技指導を受けた[高橋英樹は](../Page/高橋英樹_\(俳優\).md "wikilink")[2015年](../Page/2015年.md "wikilink")の『[花燃ゆ](https://ja.wikipedia.org/wiki/花燃ゆ "wikilink")』で主人公の敵という設定ながら井伊直弼を演じており、それについて「演じてみたかった」とコメントしている([参照](http://www.nhk.or.jp/hanamoyu/special/interview/index31.html))。
+
+当時の日本のテレビジョン放送はまだ画像はモノクロで、音声もモノラルであった。
 
 ## 脚注
 

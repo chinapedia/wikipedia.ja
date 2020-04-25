@@ -35,7 +35,11 @@
   - ■イベントゲスト 2008年4月29日「NAONのYAON」にゲスト出演。（日比谷野外音楽堂）
   - 2015年8月23日「NAONのYAON」にゲスト出演。（日比谷野外音楽堂）
   - ■コーラス参加 30th ANNIVERSARY　第一弾　HOTEI THE ANTHOLOGY”創世記”BEGINNING FROM ENDLESS ～BOØWY　COMPLEX　GUITARHYTHM～ 2011.02.01 日本武道館 30th ANNIVERSARY 第二弾HOTEI THE ANTHOLOGY”威風堂々”TONIGHT I’M YOURS\! ～GUITARHYTHM　GREATEST HITS & REQUEST～ 2011.05.20 国立代々木競技場 第一体育館 2011.05.22 大阪城ホール
-  -
+
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [PERSONZ](../Page/PERSONZ.md "wikilink")
@@ -43,10 +47,6 @@
       - [渡邉貢](../Page/渡邉貢.md "wikilink")
       - [藤田勉](../Page/藤田勉.md "wikilink")
   - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
-
-## 出典
-
-<references />
 
 ## 外部リンク
 

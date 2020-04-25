@@ -6,50 +6,32 @@
 ## メンバー
 
   - **NOB**（ノブ、[1973年](../Page/1973年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    ボーカル、サックス、作詞担当。
-    本名・大久保光信。[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")出身。A型。
-    解散後は[SHOW-SKA](https://ja.wikipedia.org/wiki/SHOW-SKA "wikilink")にゲストボーカルとして参加し、DJとしても活動。
-    2007年にはスコーピオンズを結成し、地元・石川県[小松市](../Page/小松市.md "wikilink")を拠点に活動。2010年からSHOW-SKAに正式参加。
-    2014年CURIO再始動に伴いSHOW-SKA脱退。
-
-<!-- end list -->
-
+      -
+        ボーカル、サックス、作詞担当。
+        本名・大久保光信。[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")出身。血液型A型。
+        解散後は[SHOW-SKA](https://ja.wikipedia.org/wiki/SHOW-SKA "wikilink")にゲストボーカルとして参加し、DJとしても活動。
+        2007年にはスコーピオンズを結成し、地元・石川県[小松市](../Page/小松市.md "wikilink")を拠点に活動。2010年からSHOW-SKAに正式参加。
+        2014年CURIO再始動に伴いSHOW-SKA脱退。
   - **AJA**（アジャ、[1972年](../Page/1972年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    ギター、主な作曲担当。
-    本名・朝 潤一郎。[大阪府](../Page/大阪府.md "wikilink")出身。O型。
-    活動休止後に脱退、[ONE TRACK MINDのギタリストとして活動した](../Page/ONE_TRACK_MIND.md "wikilink")。
-    2012年、CURIOの活動再開に合流。
-
-<!-- end list -->
-
+      -
+        ギター、主な作曲担当。
+        本名・朝 潤一郎。[大阪府](../Page/大阪府.md "wikilink")出身。O型。
+        活動休止後に脱退、[ONE TRACK MINDのギタリストとして活動した](../Page/ONE_TRACK_MIND.md "wikilink")。
+        2012年、CURIOの活動再開に合流。
   - **BRITAIN**（ブリテン、[1970年](../Page/1970年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    ドラムス、プログラミング担当。
-    本名・田中貴之。[滋賀県](../Page/滋賀県.md "wikilink")出身。O型。
-    2010年[wilberry](https://ja.wikipedia.org/wiki/wilberry "wikilink")に加入。
-    2013年、再開したCURIOに合流。wilberryの活動も継続。
+      -
+        ドラムス、プログラミング担当。
+        本名・田中貴之。[滋賀県](../Page/滋賀県.md "wikilink")出身。O型。
+        2010年[wilberry](https://ja.wikipedia.org/wiki/wilberry "wikilink")に加入。
+        2013年、再開したCURIOに合流。wilberryの活動も継続。
 
 ### 元メンバー
 
   - **KASSAI**（[カッサイマサト](https://ja.wikipedia.org/wiki/カッサイマサト "wikilink")、[1972年](../Page/1972年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    ベース担当。
-    本名・葛西真人。大阪府出身。A型。
-    現在はグラフィックデザインチーム「McLangur」代表。グラフィックデザイナーとして活動中。
+      -
+        ベース担当。
+        本名・葛西真人。大阪府出身。血液型A型。
+        現在はグラフィックデザインチーム「McLangur」代表。グラフィックデザイナーとして活動中。
 
 ## 来歴
 
@@ -617,7 +599,7 @@ POCE-2034:メジャー</p></td>
 <li>SPARKLE / <a href="https://ja.wikipedia.org/wiki/奥居香" title="wikilink">奥居香</a></li>
 <li>この地球が果てるまで / <a href="../Page/佳苗.md" title="wikilink">佳苗</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Melodies_&amp;_Memories" title="wikilink">Melodies &amp; Memories</a> / <a href="../Page/TUBE.md" title="wikilink">TUBE</a></li>
-<li><a href="../Page/ふり向くな君は美しい.md" title="wikilink">ふり向くな君は美しい</a> / <a href="https://ja.wikipedia.org/wiki/ザ・バーズ" title="wikilink">ザ・バーズ</a></li>
+<li><a href="../Page/ふり向くな君は美しい.md" title="wikilink">ふり向くな君は美しい</a> / <a href="../Page/バーズ_(音楽ユニット).md" title="wikilink">ザ・バーズ</a></li>
 <li>ふり向くな君は美しい(カラオケ) / ザ・バーズ
 </div>
 </div></li>

@@ -126,7 +126,7 @@
 
 ### 新生闇軍団
 
-  - 魔殺駆＜マザク＞ / 覇道武者 魔殺駆＜ハドウムシャ マザク＞（[後期量産型ザクII](../Page/ザクII.md "wikilink") / [ゾロアット](../Page/ゾロアット.md "wikilink") / [ゾリディア](https://ja.wikipedia.org/wiki/ゾロアット#ゾリディア "wikilink")）
+  - 魔殺駆＜マザク＞ / 覇道武者 魔殺駆＜ハドウムシャ マザク＞（[高機動型ザクII後期型](https://ja.wikipedia.org/wiki/高機動型ザクII#高機動型ザクII（R-2型） "wikilink") / [ゾロアット](../Page/ゾロアット.md "wikilink") / [ゾリディア](https://ja.wikipedia.org/wiki/ゾロアット#ゾリディア "wikilink")）
     前回の敗北から生き延び新生闇軍団を組織した首領。実は遮光に蘇らされた死霊武者で「ぷろぐらむ」に従って行動している。だが、闇魔神復活のための媒介にされる直前、反抗して逆に闇の力を吸収、覇道武者となった。続編である『[超機動大将軍](https://ja.wikipedia.org/wiki/超機動大将軍 "wikilink")(ボンボン版のみ)』『[武神輝羅鋼](https://ja.wikipedia.org/wiki/武神輝羅鋼 "wikilink")(コミックワールド版・ボンボン版両方)』でも復活。さらに時代が下ってから『[ムシャ戦記 光の変幻編](../Page/ムシャ戦記_光の変幻編.md "wikilink")』においても天魔大帝の力によって復活。天魔大帝の分身の一体であることが判明する。
     後に[GUNDAM EVOLVE](../Page/GUNDAM_EVOLVE.md "wikilink").. / 14で再登場する。
       - 武器

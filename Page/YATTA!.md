@@ -9,7 +9,7 @@
 
 2014年には、音楽ゲーム「[maimai](https://ja.wikipedia.org/wiki/maimai "wikilink") GreeN PLUS」にカバー音源として収録。
 
-日本でもヒットしたが、海外でもPVなどがインターネットを通じて世界中に広まり、非常にポジティブな歌詞の良さや覚えやすい曲調、踊りや股間に葉っぱ一枚の衣装の面白さから大人気になり、真似をして踊る人々も続出した。その人気を受けて2003年3月13日にはアメリカ・ABCの番組「[ジミー・キンメル・ライブ\!](../Page/ジミー・キンメル・ライブ!.md "wikilink")」にもはっぱ隊がゲストとして出演した。
+日本でもヒットし、その後海外でもPVなどがインターネットを通じて世界中に広まり、非常にポジティブな歌詞の良さや覚えやすい曲調、踊りや股間に葉っぱ一枚の衣装の面白さから大人気になり、真似をして踊る人々が続出した。その人気を受けて2003年3月13日にはアメリカ・ABCの番組「[ジミー・キンメル・ライブ\!](../Page/ジミー・キンメル・ライブ!.md "wikilink")」にもはっぱ隊がゲストとして出演した。
 
 ## 収録曲
 
@@ -33,6 +33,6 @@
   - [カノン進行](https://ja.wikipedia.org/wiki/カノン進行 "wikilink") - 本曲において多用されている[コード進行](https://ja.wikipedia.org/wiki/コード進行 "wikilink")。
   - [組曲『ニコニコ動画』](../Page/組曲『ニコニコ動画』.md "wikilink") - ニコニコ動画流星群に収録されている。
 
-[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:笑う犬シリーズ](https://ja.wikipedia.org/wiki/Category:笑う犬シリーズ "wikilink") [Category:お笑い芸人の楽曲](https://ja.wikipedia.org/wiki/Category:お笑い芸人の楽曲 "wikilink") [Category:コミックソング](https://ja.wikipedia.org/wiki/Category:コミックソング "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
+[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:笑う犬シリーズ](https://ja.wikipedia.org/wiki/Category:笑う犬シリーズ "wikilink") [Category:お笑い芸人の楽曲](https://ja.wikipedia.org/wiki/Category:お笑い芸人の楽曲 "wikilink") [Category:コミックソング](https://ja.wikipedia.org/wiki/Category:コミックソング "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
 
 1.

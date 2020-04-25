@@ -46,7 +46,7 @@
 12. **Nothing's gonna change**
       - 作詞：BoA、渡辺なつみ／作曲・編曲：BoA
       - 初のBoAと[渡辺なつみによる共同作詞曲](../Page/渡辺なつみ_\(作詞家\).md "wikilink")。作曲・編曲もBoAが努める。
-13. **LISTEN TO MY HEART（Hex Hecter Main Mix: English Version）**（Bonus track）
+13. **LISTEN TO MY HEART（[Hex Hector](../Page/ヘックス・ヘクター.md "wikilink") Main Mix - English Version）**（Bonus track）
       - 作詞：渡辺なつみ／作曲：原一博／編曲：Hex Hector
       - 日本語版が『Peace B.REMIXES』に収録。
 14. **the meaning of peace**（Bonus track）

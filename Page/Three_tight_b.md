@@ -81,7 +81,7 @@
 
   - [three tight b official fan site](http://www.ttb.ne.nu/)
 
-  - [eichiのプロデュース日記...&....ちょっぴりフットサル](http://ameblo.jp/ttb1/) - H(eichi)によるブログ
+  - [eichiのプロデュース日記...&....ちょっぴりフットサル](https://ameblo.jp/ttb1/) - H(eichi)によるブログ
 
   - （H(eichi)）
 

@@ -24,7 +24,7 @@
 
 ### 山口県・福岡県
 
-関門地域（[山口県](../Page/山口県.md "wikilink")と[福岡県](../Page/福岡県.md "wikilink")）では、ネット局編成の都合で変則的なものとなった。番組開始当初から[1964年](../Page/1964年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")までは、福岡県では[テレビ西日本](../Page/テレビ西日本.md "wikilink")（当時日テレ系）が放映し、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")は[関門（下関）テレビ放送局が](../Page/下関市.md "wikilink")、TNCとのサービスエリア重複を考慮し、[徳山](../Page/徳山市.md "wikilink")（現：[周南](../Page/周南市.md "wikilink")）・[山口](../Page/山口市.md "wikilink")・[萩](../Page/萩市.md "wikilink")・[岩国の各テレビ放送局のエリアに限って放送した](../Page/岩国市.md "wikilink")。
+関門地域（[山口県](../Page/山口県.md "wikilink")と[福岡県](../Page/福岡県.md "wikilink")）では、ネット局編成の都合で変則的なものとなった。番組開始当初から[1964年](../Page/1964年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")までは、福岡県では[テレビ西日本](../Page/テレビ西日本.md "wikilink")（当時日テレ系）が放映し、[山口放送](../Page/山口放送.md "wikilink")は[関門（下関）テレビ放送局が](../Page/下関市.md "wikilink")、TNCとのサービスエリア重複を考慮し、[徳山](../Page/徳山市.md "wikilink")（現：[周南](../Page/周南市.md "wikilink")）・[山口](../Page/山口市.md "wikilink")・[萩](../Page/萩市.md "wikilink")・[岩国の各テレビ放送局のエリアに限って放送した](../Page/岩国市.md "wikilink")。
 
 その後、1964年[10月1日](../Page/10月1日.md "wikilink")からTNCの[フジテレビ系列移行により](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、福岡県における日テレ系のテレビ局がなくなったことに伴い、KRYは関門局でも徳山局と同じ番組を編成できるようになったことから、山口県全域で放送されるようになった\[2\]。福岡県を含む[九州・沖縄地方](https://ja.wikipedia.org/wiki/九州・沖縄地方 "wikilink")の取材は日本テレビが福岡に九州分室を設置して対応していた\[3\]。さらに、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から5年半ぶりのフルネット局・[福岡放送](../Page/福岡放送.md "wikilink")が開局し、以後、番組終了までFBSでも放映された。\[4\]
 

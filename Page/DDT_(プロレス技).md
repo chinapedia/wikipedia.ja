@@ -69,6 +69,7 @@
   - [ブル中野](../Page/ブル中野.md "wikilink")
   - [白鳥智香子](../Page/白鳥智香子.md "wikilink")
   - [瑛凛](https://ja.wikipedia.org/wiki/瑛凛 "wikilink")
+  - [土井成樹](../Page/土井成樹.md "wikilink")
 
 ## 派生技
 

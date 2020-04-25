@@ -51,7 +51,7 @@ T2P時代は[ギミック上](../Page/ギミック_\(プロレス\).md "wikilink
 
 [2020年](../Page/2020年.md "wikilink")1月31日、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で行われた闘龍門特別興行において、DRAGON GATEのヒールユニット[R・E・D](https://ja.wikipedia.org/wiki/R・E・D "wikilink")の反則行為を受けていたミラニートコレクションa.t.を救出すべく観客席からリングへ乱入。パラダイスロックや当時の連携技を放ってR・E・Dを蹴散らすと、ファンに向けて「ただいま！」と声を発した。なお、10年間のブランクを感じさせない動きを見せたミラノだったが現役復帰の可能性についてはその後改めて否定している。
 
-## タイトル歴
+## タイトル履歴
 
   - [闘龍門](../Page/闘龍門.md "wikilink")JAPAN
 
@@ -61,6 +61,7 @@ T2P時代は[ギミック上](../Page/ギミック_\(プロレス\).md "wikilink
   - [UWA世界6人タッグ王座](https://ja.wikipedia.org/wiki/UWA世界6人タッグ王座 "wikilink")
       - 第23代のパートナーは[YOSSINO](../Page/吉野正人.md "wikilink")&["brother"YASSINI](../Page/"brother"YASSHI.md "wikilink")。
       - 第27代のパートナーは[コンドッティ修司](../Page/近藤修司.md "wikilink")\&YOSSINO。
+  - [ヤンクドラゴン杯優勝](../Page/闘龍門.md "wikilink")（2000年）
 
 <!-- end list -->
 
@@ -85,7 +86,7 @@ T2P時代は[ギミック上](../Page/ギミック_\(プロレス\).md "wikilink
 
 <!-- end list -->
 
-  - [BEST OF THE SUPER Jr. XIV優勝](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")
+  - [BEST OF THE SUPER Jr. XIV優勝](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink")（2007年）
 
 ## 得意技
 

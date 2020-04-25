@@ -83,13 +83,13 @@ SACCHIN
   -
     本名：平野 愛華（ひらの あいか）。ボーカル&ベース担当で、ライブでは[アコースティックベース](https://ja.wikipedia.org/wiki/アコースティックベース "wikilink")も弾く。
     初めて買ったベースは[フェンダーの赤い](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ジャズベースである](../Page/フェンダー・ジャズベース.md "wikilink")。
-    [泉谷しげる](../Page/泉谷しげる.md "wikilink")（2008年1月29日の『[R-ゼロ](https://ja.wikipedia.org/wiki/R-ゼロ "wikilink")』）に、番組で「あんたさあ〜、ベース、色っぽいね」と絶賛される。
+    [泉谷しげる](../Page/泉谷しげる.md "wikilink")（2008年1月29日の『R-ゼロ』）に、番組で「あんたさあ〜、ベース、色っぽいね」と絶賛される。
 
 <!-- end list -->
 
   -
     [THE BLUE HEARTSが好き](../Page/THE_BLUE_HEARTS.md "wikilink")。
-    [2015年](../Page/2015年.md "wikilink")の8月頃から[イチオシモーニング](https://ja.wikipedia.org/wiki/イチオシモーニング "wikilink")のお天気キャスターとなり、芳賀愛華と名前を改めている。http://www.htb.co.jp/sp/kirakira/archive/2015/04271050/
+    [2015年](../Page/2015年.md "wikilink")の8月頃から[イチオシ\!モーニングのお天気キャスターとなり](https://ja.wikipedia.org/wiki/イチモニ! "wikilink")、芳賀愛華と名前を改めている。http://www.htb.co.jp/sp/kirakira/archive/2015/04271050/
 
 </div>
 

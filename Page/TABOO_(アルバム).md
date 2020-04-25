@@ -184,6 +184,8 @@ VICL-60963（通常盤）</p></td>
   - 帰国後に[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の大山に聞かせたところ一言「洋楽じゃ～ん」と言われた\[15\]。
   - このレコーディング後に『SEVENTH HEAVEN TOUR』に出たが、1か月集中して『TABOO』を作っていたため、『SEVENTH HEAVEN』の歌を忘れてしまっており、カンを取り戻すのにかなり苦労した\[16\]。
 
+## 脚注
+
 [Category:BUCK-TICKのアルバム](https://ja.wikipedia.org/wiki/Category:BUCK-TICKのアルバム "wikilink") [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:ビクターインビテーションのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターインビテーションのアルバム "wikilink") [Category:1989年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1989年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  HYP\[ハイプ\]NO.3フールズメイト平成2年6月号増刊、平成2年6月15日発行、発行所／フールズメイト

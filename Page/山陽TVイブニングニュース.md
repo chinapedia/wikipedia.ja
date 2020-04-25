@@ -37,7 +37,7 @@
   - [石田好伸](../Page/石田好伸.md "wikilink")※（1989年3月-2005年3月）
   - [近藤季樹](https://ja.wikipedia.org/wiki/近藤季樹 "wikilink")※（1996年4月-2005年3月。途中、病気療養で半年ほど中断期間あり）
   - [玉木邦夫](https://ja.wikipedia.org/wiki/玉木邦夫 "wikilink")※
-  - [島田博](https://ja.wikipedia.org/wiki/島田博 "wikilink")
+  - [島田博](https://ja.wikipedia.org/wiki/島田博_\(アナウンサー\) "wikilink")
   - [太田雅仁](https://ja.wikipedia.org/wiki/太田雅仁 "wikilink")
   - [垂井佳子](https://ja.wikipedia.org/wiki/垂井佳子 "wikilink")
   - [木島京子](https://ja.wikipedia.org/wiki/木島京子 "wikilink")

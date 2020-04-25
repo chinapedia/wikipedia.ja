@@ -43,7 +43,7 @@
 
 ### 1970年代 Vol.1
 
-  - [旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")（'72）/[よしだたくろう](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")（'72）/[よしだたくろう](../Page/吉田拓郎.md "wikilink")
   - [時の過ぎゆくままに](../Page/時の過ぎゆくままに.md "wikilink")（'75）/[沢田研二](../Page/沢田研二.md "wikilink")
   - [わたしの城下町](../Page/わたしの城下町.md "wikilink")（'71）/[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")
   - [ひとりじゃないの](../Page/ひとりじゃないの.md "wikilink")（'72）/[天地真理](../Page/天地真理.md "wikilink")
@@ -72,7 +72,7 @@
   - [喝采](../Page/喝采_\(曲\).md "wikilink")（'72）/[ちあきなおみ](../Page/ちあきなおみ.md "wikilink")
   - [岬めぐり](https://ja.wikipedia.org/wiki/岬めぐり "wikilink")（'74）/[山本コウタロー](../Page/山本コウタロー.md "wikilink")とウィークエンド
   - [異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")（'79）/[久保田早紀](../Page/久米小百合.md "wikilink")
-  - [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")（'72）/[よしだたくろう](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")（'72）/[よしだたくろう](../Page/吉田拓郎.md "wikilink")
   - [わたしの彼は左きき](../Page/わたしの彼は左きき.md "wikilink")（'73）/[麻丘めぐみ](../Page/麻丘めぐみ.md "wikilink")
   - [たどりついたらいつも雨ふり](https://ja.wikipedia.org/wiki/たどりついたらいつも雨ふり "wikilink")（'72）/[ザ・モップス](../Page/ザ・モップス.md "wikilink")
   - [耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")（'72）/[本田路津子](../Page/本田路津子.md "wikilink")

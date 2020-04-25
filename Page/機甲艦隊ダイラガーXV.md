@@ -996,7 +996,7 @@
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：水曜17:45～18:15
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")：金曜17:20～17:50
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：水曜17:00～17:30\[7\]
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")：木曜17:25～17:55
+  - [信越放送](../Page/信越放送.md "wikilink")：木曜17:25～17:55
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：木曜16:50～17:20\[8\]
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：月曜17:00～17:30\[9\]
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")：金曜17:30～18:00
@@ -1038,6 +1038,9 @@
 
 <references/>
 
+## 外部リンク
+
+  -
 [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:1982年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1982年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink") [Category:幼稚園_(雑誌)](https://ja.wikipedia.org/wiki/Category:幼稚園_\(雑誌\) "wikilink") [Category:てれびくん](https://ja.wikipedia.org/wiki/Category:てれびくん "wikilink")
 
 1.  脚部を構成しているラガーマシーンの無い状態での合体も試みたが、さすがにそれはできなかった様である。

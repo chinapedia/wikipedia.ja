@@ -1,7 +1,7 @@
 > この記事は[ROH](https://ja.wikipedia.org/wiki/ROH)から翻訳されています。
 
 
-**ROH**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式略称は*ROH Wrestling*\[1\]。正式名称は*Ring of Honor Wrestling*。
+**ROH**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。正式略称は*ROH*\[1\]。正式名称は**リング・オブ・オナー（***Ring of Honor*）。
 
 ## 歴史
 

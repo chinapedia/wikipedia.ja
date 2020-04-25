@@ -67,7 +67,7 @@
 11. **[泣いて 泣いて 泣きやんだら](../Page/SURVIVE.md "wikilink")** （3:38）
       -
         9thアルバム『SURVIVE』収録。
-        PVは、1998年開催『B'z LIVE-GYM '98 "SURVIVE"\]\]』での披露映像から。
+        PVは、1998年開催『B'z LIVE-GYM '98 "SURVIVE"』での披露映像から。
 12. **[ONE](../Page/ギリギリchop.md "wikilink")** （4:10）
       -
         26thシングル『ギリギリchop』の2nd beat。B'z関連のアルバム初収録\[5\]。

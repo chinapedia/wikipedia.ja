@@ -63,11 +63,11 @@ WPA2には対応しておらず、WPA-PSK-[CCMP](https://ja.wikipedia.org/wiki/C
 
 ## 外部リンク
 
-  - [AirStation One-Touch Secure System](https://www.buffalo.jp/topics/utilize/detail/aoss.html)
+  - [AOSS](https://www.buffalo.jp/topics/utilize/detail/aoss.html)
   - [AOSS2](https://www.buffalo.jp/contents/topics/utilize/aoss2/)
   - [PSPをインターネットにつないでもっと楽しもう\!](http://buffalo.jp/products/catalog/network/psp/index.html)
-  - [ニンテンドーDSが無線LANでもっと楽しくなる\!](http://buffalo.jp/products/catalog/network/nds/index.html)
-  - [クライアントマネージャ](https://www.buffalo.jp/news/detail/20170531-02.html)
+  - [ニンテンドーDSが無線LANでもっと楽しくなる\!](http://buffalo.jp/products/catalog/network/nds/)
+  - [クライアントマネージャV](https://www.buffalo.jp/support/download/detail/?dl_contents_id=60661)
 
 [Category:通信機器](https://ja.wikipedia.org/wiki/Category:通信機器 "wikilink") [Category:Wi-Fi](https://ja.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 

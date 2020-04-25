@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    ゴホウビ（2019年4月〜）
+    [ゴホウビ](https://ja.wikipedia.org/wiki/ゴホウビ "wikilink")（2019年4月〜）
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
   - [メロン記念日](../Page/メロン記念日.md "wikilink")（2005年10月〜2008年3月）
   - [干場かなえ](https://ja.wikipedia.org/wiki/干場かなえ "wikilink")（2008年4月〜2009年6月）
   - [safarii](https://ja.wikipedia.org/wiki/safarii "wikilink")（2009年7月〜2010年9月）
-  - [ChiE](https://ja.wikipedia.org/wiki/Chie "wikilink")（2010年10月〜2012年3月）
+  - [ChiE](https://ja.wikipedia.org/wiki/Foxxi_misQ#CHiE "wikilink")（2010年10月〜2012年3月）
   - [mini](https://ja.wikipedia.org/wiki/Mini_\(モデル\) "wikilink")（2012年4月〜2012年9月）
   - [N.O.B.U\!\!\!](https://ja.wikipedia.org/wiki/N.O.B.U!!! "wikilink")（2012年10月〜2013年9月30日）
   - [上村昌也](https://ja.wikipedia.org/wiki/上村昌也 "wikilink")（2013年10月〜2015年3月、2015年4月10日\[1\]）
@@ -185,7 +185,7 @@
 
 :\*Safarii・・・○○モード
 
-  - [ChiE](https://ja.wikipedia.org/wiki/Chie "wikilink")
+  - [ChiE](https://ja.wikipedia.org/wiki/Foxxi_misQ#CHiE "wikilink")
 
 :\*CHiE no WA
 

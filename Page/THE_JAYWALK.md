@@ -53,27 +53,6 @@
 
 ## 沿革
 
-  -
-    [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年）9月 **J-WALK**結成。
-    [1981年](../Page/1981年.md "wikilink")（昭和56年）6月1日 デビューアルバム「Jay-Walk」、1stシングル「ジャストビコーズ」リリース（[徳間ジャパン・バーボン](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）。
-    [1988年](../Page/1988年.md "wikilink")（昭和63年）5月 レコード会社を[メルダック](https://ja.wikipedia.org/wiki/メルダック "wikilink")に移籍。
-    [1993年](../Page/1993年.md "wikilink")（[平成](../Page/平成.md "wikilink")5年）12月　初のアリーナツアー開催（名古屋レインボーホール、日本武道館、大阪城ホール）。
-    1993年（平成5年）12月31日 [第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")出場（『[何も言えなくて…夏](https://ja.wikipedia.org/wiki/何も言えなくて…夏 "wikilink")』）
-    [1994年](../Page/1994年.md "wikilink")（平成6年）12月15日 [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")[クイーンエリザベススタジアム](https://ja.wikipedia.org/wiki/クイーンエリザベススタジアム "wikilink")にてコンサートを開催。
-    [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）2月 バンド名を**JAYWALK**に変更。
-    1995年（平成7年）3月8・9日 [上海体育館](../Page/上海体育館.md "wikilink")にて、日本のロックバンドとして初のコンサートを開催。
-    [2002年](../Page/2002年.md "wikilink")（平成14年）12月 レコード会社を[日本クラウン](../Page/日本クラウン.md "wikilink")に移籍。
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月 浅川昌輝、新メンバーとして正式加入。
-    [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）3月9日 中村耕一、[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反で逮捕される。
-    2010年（平成22年）10月5日 中村の謹慎により、他メンバーでスペシャルユニット**JAYWALK5**として活動再開。
-    [2011年](../Page/2011年.md "wikilink")（平成23年）3月10日 中村耕一脱退。
-    2011年（平成23年）5月27日 馬渕英将、青木桃子が新メンバーとして加入。新生JAYWALK始動。
-    2011年（平成23年）8月8日 バンド名を**THE JAYWALK**とすることを発表。
-    2015年（平成27年）馬渕英将が声帯閉鎖不全となり長期休養に入る。
-    2016年（平成28年）3月31日、馬渕英将、浅川昌輝、青木桃子が脱退する。
-
-　これによりメンバーは、田切純一、知久光康、杉田裕、中内助六の4人となる。
-
 ## ディスコグラフィー
 
 ### シングル

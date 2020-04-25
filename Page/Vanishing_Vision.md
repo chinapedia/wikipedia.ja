@@ -102,6 +102,6 @@
 
 ## 脚注
 
-[Category:X_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:X_JAPANのアルバム "wikilink") [Category:エクスタシーレコードのアルバム](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのアルバム "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink")
+[Category:X_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:X_JAPANのアルバム "wikilink") [Category:エクスタシーレコードのアルバム](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのアルバム "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink")
 
 1.  [ロッキンf](https://ja.wikipedia.org/wiki/ロッキンf "wikilink")（立東社） 1988年6月号 124p

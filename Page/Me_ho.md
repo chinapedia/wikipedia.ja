@@ -62,7 +62,7 @@
 
   - [ハルカミホ・オフィシャルブログ「わがままだけど、たぶんM。」](http://blog.halcamiho.com)
 
-  - [わがままだけど、たぶんM](http://ameblo.jp/ozeki-hekotiti) - 旧me_ho公式ブログ
+  - [わがままだけど、たぶんM](https://ameblo.jp/ozeki-hekotiti) - 旧me_ho公式ブログ
 
   -
   - [尾関美穂オフィシャルウェブサイト(avex)](http://www.avexnet.or.jp/ozeki/)

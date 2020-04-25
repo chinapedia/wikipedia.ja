@@ -57,7 +57,7 @@
 
 ## 外部リンク
 
-  - [チャパリータASARIの「天空旋風日記Ⅱ」（2012.1.1 - ）](http://ameblo.jp/c-asari4/)
+  - [チャパリータASARIの「天空旋風日記Ⅱ」（2012.1.1 - ）](https://ameblo.jp/c-asari4/)
   - [チャパリータASARIの「天空旋風」日記（2007.5.5 - 2011.12.31）](http://blog.livedoor.jp/c_asari4/)
 
 [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:全日本女子プロレスに所属した女子プロレスラー](https://ja.wikipedia.org/wiki/Category:全日本女子プロレスに所属した女子プロレスラー "wikilink") [Category:NEO女子プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:NEO女子プロレスに所属したプロレスラー "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

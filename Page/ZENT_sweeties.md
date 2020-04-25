@@ -270,7 +270,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.futsal-zentsweeties.com/)
-  - [ZENT sweeties オフィシャルブログ](http://ameblo.jp/zent-sweeties/)
+  - [ZENT sweeties オフィシャルブログ](https://ameblo.jp/zent-sweeties/)
 
 [Category:芸能人女子フットサルチーム](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサルチーム "wikilink")
 

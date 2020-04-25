@@ -19,7 +19,7 @@
 
 
 
-## 車輛編成
+## 車両編成
 
 ### 将軍澳線の編成
 
@@ -48,14 +48,14 @@
 
 ### 東涌線の編成
 
-|    |                                                       |      |      |      |      |                                                              |
-| :-: | :---------------------------------------------------: | :--: | :--: | :--: | :--: | :----------------------------------------------------------: |
-|    | ←[香港方面](https://ja.wikipedia.org/wiki/香港駅 "wikilink") |      |      |      |      | [東涌方面](https://ja.wikipedia.org/wiki/東涌駅_\(香港\) "wikilink")→ |
-| 車種 |                          Tc                           |  M   |  M'  |  M   |  M'  |                              M'                              |
-|    |                         V813                          | Z813 | X813 | W713 | Y713 |                             X613                             |
-|    |                         V814                          | Z814 | X814 | W714 | Y714 |                             X614                             |
-|    |                         V815                          | Z815 | X815 | W715 | Y715 |                             X615                             |
-|    |                         V816                          | Z816 | X816 | W716 | Y716 |                             X616                             |
+|    |                                                       |      |      |                                                              |
+| :-: | :---------------------------------------------------- | :--: | :--: | -----------------------------------------------------------: |
+|    | ←[香港方面](https://ja.wikipedia.org/wiki/香港駅 "wikilink") |      |      | [東涌方面](https://ja.wikipedia.org/wiki/東涌駅_\(香港\) "wikilink")→ |
+| 車種 | Tc                                                    |  M   |  M'  |                                                            M |
+|    | V813                                                  | Z813 | X813 |                                                         W713 |
+|    | V814                                                  | Z814 | X814 |                                                         W714 |
+|    | V815                                                  | Z815 | X815 |                                                         W715 |
+|    | V816                                                  | Z816 | X816 |                                                         W716 |
 
   - 備考
       - V6XX/V8XX - 先頭車 （モーターなし）
@@ -65,5 +65,8 @@
 ## 関連項目
 
   - [港鉄メトロキャメル電車](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink")
+  - [港鉄ADtranz-CAF電車](https://ja.wikipedia.org/wiki/香港地鉄ADtranz-CAF電車 "wikilink")
+  - [港鉄市区線中国製電車(I)](https://ja.wikipedia.org/wiki/香港鉄路市区線中国製電車_\(初代\) "wikilink")
+  - [港鉄南港島線中国製電車](https://ja.wikipedia.org/wiki/香港鉄路南港島線中国製電車 "wikilink")
 
 [Category:香港の鉄道車両](https://ja.wikipedia.org/wiki/Category:香港の鉄道車両 "wikilink") [Category:香港MTR](https://ja.wikipedia.org/wiki/Category:香港MTR "wikilink") [Category:現代ロテム製の鉄道車両](https://ja.wikipedia.org/wiki/Category:現代ロテム製の鉄道車両 "wikilink")

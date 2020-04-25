@@ -5,9 +5,9 @@
 
 ## 概要
 
-1981年の「[スタジオ・きょう](https://ja.wikipedia.org/wiki/スタジオ・きょう "wikilink")」終了後、途絶えていた昼の生ワイドショーをおよそ2年ぶりに復活させたものがこの番組である。当初は司会（VJ…ビデオジョッキー）を局アナとし、曲を流したり、ハガキを読んだりといったラジオスタイルを採る。スタジオは「スタジオ・きょう」開始時に改修された旧放送センターの第2スタジオで、カメラはリモコン操作、スタジオスタッフはAD1名、ゲストへのお茶出しはVJが行うという徹底したコストダウン番組だった。
+1981年の「[スタジオ・きょう](https://ja.wikipedia.org/wiki/スタジオ・きょう "wikilink")」終了後、途絶えていた昼の生[ワイドショー](../Page/ワイドショー.md "wikilink")をおよそ2年ぶりに復活させたものがこの番組である。当初は司会（VJ…ビデオジョッキー）を局アナとし、曲を流したり、ハガキを読んだりといったラジオスタイルを採る。スタジオは「スタジオ・きょう」開始時に改修された旧放送センターの第2スタジオで、カメラはリモコン操作、スタジオスタッフはAD1名、ゲストへのお茶出しはVJが行うという徹底したコストダウン番組だった。
 
-番組後半は当時珍しいビデオクリップをただ流すのみのコーナー「トマト・パーティー」。ただし、番組スタート時に音声多重放送が行われていなかったためか、番組終了までモノラル放送であった。
+番組後半は当時珍しい[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")をただ流すのみのコーナー「トマト・パーティー」。ただし、番組スタート時に[音声多重放送](../Page/音声多重放送.md "wikilink")が行われていなかったためか、番組終了まで[モノラル放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")であった。
 
 中期までバラエティ色が深い構成だったが、1992年から構成を大幅変更し、コメンテーターを迎え、生活番組色が濃くなった。番組末期において若干の軌道修正を行った。
 
@@ -130,17 +130,17 @@
 </tbody>
 </table>
 
-  - 鈴木美恵子（元・テレビ東京アナウンサー）
-  - [山藤芳子](https://ja.wikipedia.org/wiki/山藤芳子 "wikilink")（元・中京テレビアナウンサー）
-  - [永田耕一](https://ja.wikipedia.org/wiki/永田耕一 "wikilink")（スーパー・エキセントリック・シアター）
+  - [鈴木美恵子](https://ja.wikipedia.org/wiki/鈴木美恵子 "wikilink")（元・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")アナウンサー）
+  - [山藤芳子](https://ja.wikipedia.org/wiki/山藤芳子 "wikilink")（元・[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")アナウンサー）
+  - [永田耕一](https://ja.wikipedia.org/wiki/永田耕一 "wikilink")（[スーパー・エキセントリック・シアター](https://ja.wikipedia.org/wiki/スーパー・エキセントリック・シアター "wikilink")）
   - [中野明子](https://ja.wikipedia.org/wiki/中野明子 "wikilink")
   - [アンソニー修](https://ja.wikipedia.org/wiki/アンソニー修 "wikilink")
-  - [青嶋達也](../Page/青嶋達也.md "wikilink")（現・フジテレビアナウンサー）
+  - [青嶋達也](../Page/青嶋達也.md "wikilink")（現・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")アナウンサー）
   - [吉井祥博](../Page/吉井祥博.md "wikilink")（現・tvkアナウンサー）
   - [芝尚子](https://ja.wikipedia.org/wiki/芝尚子 "wikilink")（？〜1995.3）
-  - [たかとりじゅん](../Page/たかとりじゅん.md "wikilink")（元・福島中央テレビアナウンサー、芝の後任、1995.4〜1995.9）
+  - [たかとりじゅん](../Page/たかとりじゅん.md "wikilink")（元・[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")アナウンサー、芝の後任、1995.4〜1995.9）
   - [河野宏子](https://ja.wikipedia.org/wiki/河野宏子 "wikilink")（鎗田の後任）
-  - 鈴木美佳（新潟総合テレビアナウンサー→TVKアナウンサー）
+  - [鈴木美佳](https://ja.wikipedia.org/wiki/鈴木美佳 "wikilink")（[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")アナウンサー→TVKアナウンサー）
   - [太田英明](../Page/太田英明.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")アナウンサー）\[1\]
 
 ### コーナー担当
@@ -152,8 +152,8 @@
 
 ※1992年の生活情報番組へのリニューアルとともに登場するも、番組の軌道修正に伴い1993年で降板した。
 
-  - [西丸與一](https://ja.wikipedia.org/wiki/西丸與一 "wikilink")（元[横浜市立大学](../Page/横浜市立大学.md "wikilink")医学部医師、tvk番組審議委員長）
-  - 大橋弘（元[毎日新聞社](../Page/毎日新聞社.md "wikilink")記者、[中部大学](../Page/中部大学.md "wikilink")教授）
+  - [西丸與一](https://ja.wikipedia.org/wiki/西丸與一 "wikilink")（[横浜市立大学](../Page/横浜市立大学.md "wikilink")医学部名誉教授・医師、tvk番組審議委員長）
+  - [大橋弘](https://ja.wikipedia.org/wiki/大橋弘 "wikilink")（元[毎日新聞社](../Page/毎日新聞社.md "wikilink")記者、[中部大学](../Page/中部大学.md "wikilink")教授）
 
 ## 脚注
 

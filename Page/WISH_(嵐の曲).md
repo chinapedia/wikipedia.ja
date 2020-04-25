@@ -19,7 +19,7 @@
 
 ## チャート成績
 
-[オリコン週間シングルチャートでは](../Page/オリコンチャート.md "wikilink")「[PIKA★★NCHI DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")」から4作連続、通算11作目の首位を獲得した。初動売上は約17.8万枚であった\[2\]。
+[オリコン週間シングルチャートでは](../Page/オリコンチャート.md "wikilink")「[PIKA★★NCHI DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")」から4作連続、通算11作目の首位を獲得した。初動売上は17.8万枚であった\[2\]。
 
 ## 収録曲
 
@@ -56,7 +56,7 @@
 
 ## 脚注
 
-[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:久保田洋司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田洋司が制作した楽曲 "wikilink") [Category:オオヤギヒロオが制作した楽曲](https://ja.wikipedia.org/wiki/Category:オオヤギヒロオが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:花より男子](https://ja.wikipedia.org/wiki/Category:花より男子 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:久保田洋司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田洋司が制作した楽曲 "wikilink") [Category:オオヤギヒロオが制作した楽曲](https://ja.wikipedia.org/wiki/Category:オオヤギヒロオが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:花より男子](https://ja.wikipedia.org/wiki/Category:花より男子 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  『嵐 楽曲完全ガイド2016』（鉄人社、2015年11月14日発売、64頁）
 2.

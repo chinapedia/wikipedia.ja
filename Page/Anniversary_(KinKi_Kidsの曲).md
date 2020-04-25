@@ -13,7 +13,7 @@
 
 ## チャート成績
 
-本作は2005年1月3日付の[オリコン週間ランキングで初週](../Page/オリコンチャート.md "wikilink")35.5万枚を売り上げて1位を獲得した。また、本作と同日発売されたアルバム『[KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")』も同日付で首位獲得し、シングルとアルバムによる初登場同時首位獲得は、史上7度目であり、自身としては、デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")｣と、アルバム『[A album](../Page/A_album.md "wikilink")』で記録して以来、7年5ヵ月ぶりであり、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")に並ぶ史上最多、2度目の達成となった\[1\]。CD累計売上は52.6万枚（オリコン調べ）を記録し、2001年発売の「[情熱](../Page/情熱_\(KinKi_Kidsの曲\).md "wikilink")」以来、累計売上が50万枚を突破した\[2\]。
+本作は2005年1月3日付の[オリコン週間ランキングで初週](../Page/オリコンチャート.md "wikilink")35.5万枚を売り上げて1位を獲得した。また、本作と同日発売されたアルバム『[KinKi Single Selection II](../Page/KinKi_Single_Selection_II.md "wikilink")』も同日付で首位獲得し、シングルとアルバムによる初登場同時首位獲得は、史上7度目であり、自身としては、デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")｣と、アルバム『[A album](../Page/A_album.md "wikilink")』で記録して以来、7年5ヵ月ぶりであり、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")に並ぶ史上最多、2度目の達成となった\[1\]。CD累計売上は52.6万枚（オリコン調べ）を記録し、2001年発売の「[情熱](../Page/情熱_\(KinKi_Kidsの曲\).md "wikilink")」以来、累計売上が50万枚を突破した\[2\]。
 
 また、[1999年](../Page/1999年.md "wikilink")の「[雨のMelody/to Heart](https://ja.wikipedia.org/wiki/雨のMelody/to_Heart "wikilink")」以来となるオリコンチャート複数週1位となっており、3週連続は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の「[全部だきしめて/青の時代](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")」（4週連続）以来である\[3\]。
 

@@ -28,4 +28,4 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
-[Category:2004年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2004年のデビュー・シングル "wikilink") [Category:スパークリング☆ポイントの楽曲](https://ja.wikipedia.org/wiki/Category:スパークリング☆ポイントの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink") [Category:ロ短調](https://ja.wikipedia.org/wiki/Category:ロ短調 "wikilink")
+[Category:2004年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2004年のデビュー・シングル "wikilink") [Category:スパークリング☆ポイントの楽曲](https://ja.wikipedia.org/wiki/Category:スパークリング☆ポイントの楽曲 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")

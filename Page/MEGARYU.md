@@ -928,7 +928,7 @@ CTCR-14672～3(CD)</p></td>
 ## 外部リンク
 
   - [エイベックス公式サイト](http://www.avexnet.or.jp/megaryu/)
-  - [オフィシャルブログ「我流スタイル」](http://ameblo.jp/garyu-style/)
+  - [オフィシャルブログ「我流スタイル」](https://ameblo.jp/garyu-style/)
   - [twitter : MEGAHORN](https://twitter.com/megahorn_gifu)
   - [twitter : RYUREX](https://twitter.com/megaryuryurex)
   - [twitter : MGヤーマン](https://twitter.com/MEGARYU_STAFF)

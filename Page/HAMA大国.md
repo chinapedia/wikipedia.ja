@@ -113,7 +113,7 @@
 
   - [緒方朋恵](../Page/緒方朋恵.md "wikilink")（月、元[テレビ愛知](../Page/テレビ愛知.md "wikilink")アナウンサー、妊娠により2002年3月まで）
   - [相沢早苗](../Page/相沢早苗.md "wikilink")（火～水、2002年4月から月～水）
-  - [徳山ひかり](https://ja.wikipedia.org/wiki/徳山ひかり "wikilink")（木・金、元[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")アナウンサー）
+  - [徳山ひかり](https://ja.wikipedia.org/wiki/徳山ひかり "wikilink")（木・金、元[山口放送](../Page/山口放送.md "wikilink")アナウンサー）
 
 ## その他
 

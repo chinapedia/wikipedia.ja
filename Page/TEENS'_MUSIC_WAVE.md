@@ -11,24 +11,24 @@
 
 ## 放送局
 
-| 放送対象地域                                              | 放送局                                                         | 系列                                                                    | 放送日時                  | 備考       |
-| --------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- | --------------------- | -------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [ニッポン放送](../Page/ニッポン放送.md "wikilink")                      | [NRN系列](../Page/全国ラジオネットワーク.md "wikilink")                            | 土曜 0:40 - 1:00 （金曜深夜） |          |
-| [中京広域圏](../Page/広域放送.md "wikilink")                 | [中部日本放送](../Page/CBCラジオ.md "wikilink")                      | [JRN系列](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink") | 土曜 0:30 - 0:50 （金曜深夜） | 現・CBCラジオ |
-| [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](../Page/RKBラジオ.md "wikilink")                     | 金曜 23:40 - 翌0:00                                                      |                       |          |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/HBCラジオ.md "wikilink")                       | JRN・NRN系列                                                             | 土曜 0:40 - 1:00 （金曜深夜） |          |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") | 日曜 23:10 - 23:30                                                      |                       |          |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")                          | 土曜 23:00 - 23:20                                                      |                       |          |
-| [新潟県](../Page/新潟県.md "wikilink")                    | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")       | 土曜 23:10 - 23:30                                                      |                       |          |
-| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")       | 土曜 22:40 - 23:00                                                      |                       |          |
-| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")       | 金曜 23:30 - 23:50                                                      |                       |          |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")     | 土曜 23:00 - 23:20                                                      |                       |          |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")       | 土曜 23:10 - 23:30                                                      |                       |          |
-| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")     | 日曜 23:30 - 23:50                                                      |                       |          |
-| [広島県](../Page/広島県.md "wikilink")                    | [中国放送](../Page/中国放送.md "wikilink")                          | 土曜 23:10 - 23:30                                                      |                       |          |
-| [香川県](../Page/香川県.md "wikilink")                    | [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")  | 土曜 22:30 - 22:50                                                      |                       |          |
-| [宮崎県](../Page/宮崎県.md "wikilink")                    | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")       | 土曜 23:00 - 23:20                                                      |                       |          |
-| [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")     | 土曜 0:40 - 1:00 （金曜深夜）                                                 |                       |          |
+| 放送対象地域                                              | 放送局                                                        | 系列                                                                    | 放送日時                  | 備考       |
+| --------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------- | --------------------- | -------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [ニッポン放送](../Page/ニッポン放送.md "wikilink")                     | [NRN系列](../Page/全国ラジオネットワーク.md "wikilink")                            | 土曜 0:40 - 1:00 （金曜深夜） |          |
+| [中京広域圏](../Page/広域放送.md "wikilink")                 | [中部日本放送](../Page/CBCラジオ.md "wikilink")                     | [JRN系列](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink") | 土曜 0:30 - 0:50 （金曜深夜） | 現・CBCラジオ |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](../Page/RKBラジオ.md "wikilink")                    | 金曜 23:40 - 翌0:00                                                      |                       |          |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/HBCラジオ.md "wikilink")                      | JRN・NRN系列                                                             | 土曜 0:40 - 1:00 （金曜深夜） |          |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                   | 日曜 23:10 - 23:30                                                      |                       |          |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")                         | 土曜 23:00 - 23:20                                                      |                       |          |
+| [新潟県](../Page/新潟県.md "wikilink")                    | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")      | 土曜 23:10 - 23:30                                                      |                       |          |
+| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](../Page/信越放送.md "wikilink")                         | 土曜 22:40 - 23:00                                                      |                       |          |
+| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")      | 金曜 23:30 - 23:50                                                      |                       |          |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")    | 土曜 23:00 - 23:20                                                      |                       |          |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")      | 土曜 23:10 - 23:30                                                      |                       |          |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")    | 日曜 23:30 - 23:50                                                      |                       |          |
+| [広島県](../Page/広島県.md "wikilink")                    | [中国放送](../Page/中国放送.md "wikilink")                         | 土曜 23:10 - 23:30                                                      |                       |          |
+| [香川県](../Page/香川県.md "wikilink")                    | [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") | 土曜 22:30 - 22:50                                                      |                       |          |
+| [宮崎県](../Page/宮崎県.md "wikilink")                    | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")      | 土曜 23:00 - 23:20                                                      |                       |          |
+| [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")    | 土曜 0:40 - 1:00 （金曜深夜）                                                 |                       |          |
 
 ## 脚注
 

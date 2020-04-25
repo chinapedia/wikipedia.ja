@@ -479,7 +479,7 @@ ANALOG: POKH-1004</p></td>
 <td><p>POCH-3011</p></td>
 <td><p>10位</p></td>
 <td><p>Blankey Jet City 1997-2000</p></td>
-<td><p>フジテレビ系「<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>」エンディング・テーマ</p></td>
+<td><p>フジテレビ系「<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>」エンディング・テーマ</p></td>
 </tr>
 </tbody>
 </table>
@@ -862,7 +862,7 @@ DVD：2002年5月16日</p></td>
   - [金乃玉手箱](https://ja.wikipedia.org/wiki/金乃玉手箱 "wikilink")（テレビ朝日）
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink") ([TBS](../Page/TBSテレビ.md "wikilink"))
   - [ロケットパンチ\! MUSIC DELIVERY](https://ja.wikipedia.org/wiki/ロケットパンチ!_MUSIC_DELIVERY "wikilink")（フジテレビ)
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（フジテレビ）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（フジテレビ）
   - [JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")（テレビ東京）
 
 ## 関連バンド

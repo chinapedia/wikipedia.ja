@@ -1,7 +1,7 @@
 > この記事は[BOOMER](https://ja.wikipedia.org/wiki/BOOMER)から翻訳されています。
 
 
-**BOOMER**（**ブーマー**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。[三木プロダクション](https://ja.wikipedia.org/wiki/三木プロダクション "wikilink")（元サワズカムパニー）所属。
+**BOOMER**（**ブーマー**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動するフリーの[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。元[三木プロダクション](https://ja.wikipedia.org/wiki/三木プロダクション "wikilink")（元サワズカムパニー）所属。
 
 ## メンバー
 
@@ -50,6 +50,7 @@
   - [有田哲平](../Page/有田哲平.md "wikilink")（[くりぃむしちゅー](../Page/くりぃむしちゅー.md "wikilink")）と[堀内健](../Page/堀内健.md "wikilink")（[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）は、伊勢が芸名であることを知らなかった。
   - [東京スポーツ](../Page/東京スポーツ.md "wikilink")の連載コラム「一発屋の殿堂」（推薦人代表・宝泉薫）の第1回で取り上げられた（2008年（平成21年）11月11日9面）。
   - 上記の通り、2016年11月に[漫才協会](../Page/漫才協会.md "wikilink")に入会。
+  - 2020年4月3日、所属していた三木プロダクションを離れフリーに転身したことを発表した\[3\]。
 
 ## 出演
 
@@ -101,16 +102,15 @@
 
 ## 外部リンク
 
-  - [三木プロダクションによる公式プロフィール](https://www.mikipro.co.jp/talent/tarent_profile/boomer.html)
-
   -
   - [河田貴一（BOOMER） 公式ブログ](http://gree.jp/kawada_kiichi/)
 
-  - [BOOMER河田の そのまま\! そのまま\!](https://boomer-k-k.at.webry.info/)（競馬ブログ）（2005年7月1日 - ）
+  - [BOOMER河田の そのまま\! そのまま\!](https://boomer-k-k.at.webry.info/)（競馬ブログ）（2005年7月 - ）
 
+  -
   - [伊勢浩二（BOOMER） 公式ブログ](http://gree.jp/ise_koji/)
 
-  - [BOOMER伊勢浩二オフィシャルブログ 「Shall 伊勢 Dance?」Powered by Ameba](https://ameblo.jp/ise-ko81/)（2009年1月18日 - ）
+  - [BOOMER伊勢浩二オフィシャルブログ 「Shall 伊勢 Dance?」Powered by Ameba](https://ameblo.jp/ise-ko81/)（2009年1月 - 2016年2月）
 
   - [BOOMER'S SNACK ブーマーズスナック](https://web.archive.org/web/20100130061214/http://www.trick123.com/boomer/) - 閉鎖。（2010年1月30日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
@@ -118,3 +118,4 @@
 
 1.  [BOOMER河田の そのまま！ そのまま！（河田本人のブログ）](http://boomer-k-k.at.webry.info/200508/article_12.html)
 2.  [お笑いナタリー記事、2010年2月14日](http://natalie.mu/owarai/news/27715/showall/true)
+3.

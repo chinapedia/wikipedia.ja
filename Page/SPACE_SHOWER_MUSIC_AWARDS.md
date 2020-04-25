@@ -582,7 +582,7 @@ SHANE LESTER</p></td>
 ### BEST IMPACT VIDEO
 
   - 2007年「[Juicy Jungle](https://ja.wikipedia.org/wiki/Juicy_Jungle "wikilink") feat.[吉川晃司](../Page/吉川晃司.md "wikilink")」（[DISCO TWINS](../Page/DISCO_TWINS_\(バンド\).md "wikilink") ([DJ TASAKA](../Page/DJ_TASAKA.md "wikilink")+[KAGAMI](../Page/KAGAMI.md "wikilink"))）監督：田中秀幸
-  - 2008年「[群青](../Page/群青_\(スピッツの曲\).md "wikilink")」（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）監督：大宮エリー
+  - 2008年「[群青](../Page/群青_\(スピッツの曲\).md "wikilink")」（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）監督：大宮エリー
 
 ### BEST SSTV ONLY EDITION
 

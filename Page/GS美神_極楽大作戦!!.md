@@ -348,7 +348,7 @@
   - [紙の砦](../Page/手塚治虫の作品一覧.md "wikilink")\!\! （その1） - （その2）
   - 絶海絶命\!\! （その1） - （その2）
   - グレート・マザー襲来\!\! （その1） - （その4）
-  - [仁義なき戦い](https://ja.wikipedia.org/wiki/仁義なき戦い "wikilink")\!\! （その1） - （その5）＊大長編アシュタロス編開始
+  - [仁義なき戦い](../Page/仁義なき戦い.md "wikilink")\!\! （その1） - （その5）＊大長編アシュタロス編開始
   - 続・仁義なき戦い\!\! （その1） - （その3）
   - その後の仁義なき戦い\!\! （その1） - （その2）
   - [仁義なき戦い・超常作戦](https://ja.wikipedia.org/wiki/仁義なき戦い_頂上作戦 "wikilink")\!\! （その1） - （その3）
@@ -602,7 +602,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>遅れネット[20]</p></td>
 <td><p>1993年9月まで</p></td>

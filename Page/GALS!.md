@@ -129,6 +129,8 @@
     声 - [樫井笙人](../Page/樫井笙人.md "wikilink")
     アニメオリジナルキャラクター。沙夜たちがハマっているドラマ「走れ\! お台場COP」の初代主人公、工藤刑事役の俳優（[松田優作](../Page/松田優作.md "wikilink")がモデル）。作中劇内で殉職し主役を降板させられるが、ゾンビ刑事として復帰する。姫島永久とは学生時代の同級生で、当時のあだ名は「**半魚人くん**」。
 
+## 書誌情報
+
 ## テレビアニメ
 
 『**超GALS\! 寿蘭**』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にて放送された。放送期間は[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")。アニメ製作は[ぴえろ](../Page/ぴえろ.md "wikilink")。
@@ -685,7 +687,7 @@
   - [藤井みほな先生のインタビュー（2002年2月1日）](http://ribon.shueisha.co.jp/data/intv/fujii_01.html)
   - [平成のコギャル描いた少女漫画『GALS\!』が再注目 作者がみつめた若者の“今”](https://www.oricon.co.jp/news/2134318/full/?utm_source=Twitter&utm_medium=social&ref_cd=tw_pic)
 
-[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink") [Category:りぼんの漫画作品](https://ja.wikipedia.org/wiki/Category:りぼんの漫画作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:渋谷を舞台とした作品](https://ja.wikipedia.org/wiki/Category:渋谷を舞台とした作品 "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink")
+[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink") [Category:りぼんの漫画作品](https://ja.wikipedia.org/wiki/Category:りぼんの漫画作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:渋谷を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:渋谷を舞台としたコンピュータゲーム "wikilink") [Category:渋谷を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:渋谷を舞台としたアニメ作品 "wikilink") [Category:渋谷を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:渋谷を舞台とした漫画作品 "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink")
 
 1.  作品内では、レッドオレンジと紹介されている。
 2.  中西先生に「元に戻して来い」と言われ「元の色」に戻した。

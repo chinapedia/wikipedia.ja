@@ -3,11 +3,11 @@
 
 [高木三四郎fire.jpg](https://ja.wikipedia.org/wiki/File:高木三四郎fire.jpg "fig:高木三四郎fire.jpg")\]\]
 
-**DDTプロレスリング**（ディー・ディー・ティー・プロレスリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
+**DDTプロレスリング**（ディー・ディー・ティー・プロレスリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。名称のDDTは旧称「**ドラマチック・ドリーム・チーム**（*Dramatic Dream Team*）」の略。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）旗揚げ、[2004年](../Page/2004年.md "wikilink")4月より現名称。
 
 ## 概要
 
-「DDT」は「Dramatic Dream Team」の略。プロレス技の名称である[DDTが](../Page/DDT_\(プロレス技\).md "wikilink")[略称となるようにプロレスを題材にした漫画](../Page/ダブル・ミーニング.md "wikilink")「[1・2の三四郎 2](../Page/1・2の三四郎_2.md "wikilink")」の主人公が所属しているプロレス団体「ドリームチーム」に「Dramatic」を冠したのが由来。設立当初はドラマチック・ドリーム・チームが正式な団体名であった。[2004年](../Page/2004年.md "wikilink")4月、新法人への移行と合わせて団体名をDDTプロレスリングに改称。現在は複数の別ブランドや子会社も展開してDDTプロレスリングのグループを構築している。
+団体名称は、プロレス技である「[DDT](../Page/DDT_\(プロレス技\).md "wikilink")」と同じ[略称となるように](../Page/ダブル・ミーニング.md "wikilink")、プロレスを題材にした漫画『[1・2の三四郎 2](../Page/1・2の三四郎_2.md "wikilink")』の主人公が所属しているプロレス団体「ドリームチーム（Dream Team）」に「ドラマティック（Dramatic」)を冠したもの。設立当初はドラマチック・ドリーム・チームが正式な団体名であった。[2004年](../Page/2004年.md "wikilink")4月、新法人への移行と合わせて団体名をDDTプロレスリングに改称。現在は複数の別ブランドや子会社も展開してDDTプロレスリングのグループを構築している。
 
 エンターテインメント色が強くプロレス記者の[鈴木健により](../Page/鈴木健_\(プロレス記者\).md "wikilink")、このスタイルを「[文化系](https://ja.wikipedia.org/wiki/文化系 "wikilink")[プロレス](../Page/プロレス.md "wikilink")」（[高木三四郎](../Page/高木三四郎.md "wikilink")の著書「俺たち文化系プロレス DDT」がある）と名づけられた。元代表の[一宮章一](../Page/一宮章一.md "wikilink")は「小さな[WWE](../Page/WWE.md "wikilink")」と表現したことがある。
 
@@ -453,10 +453,8 @@
 <a href="https://ja.wikipedia.org/wiki/小野寺卓也" title="wikilink">T-Hawk</a><br />
 <a href="https://ja.wikipedia.org/wiki/林悠河" title="wikilink">エル・リンダマン</a></p></td>
 <td><p>第40代</p></td>
+<td><p>1</p></td>
 <td></td>
-<td><p><a href="../Page/HARASHIMA.md" title="wikilink">HARASHIMA</a><br />
-<a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a><br />
-<a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D10人タッグ王座" title="wikilink">KO-D10人タッグ王座</a></p></td>
@@ -480,13 +478,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権" title="wikilink">DDT EXTREME級王座</a></p></td>
 <td><p><a href="../Page/青木真也.md" title="wikilink">青木真也</a></p></td>
 <td><p>第48代</p></td>
-<td></td>
-<td><p><a href="../Page/大石真翔.md" title="wikilink">大石真翔</a></p></td>
+<td><p>1</p></td>
+<td><p><a href="../Page/中村圭吾.md" title="wikilink">中村圭吾</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座" title="wikilink">アイアンマンヘビーメタル級王座</a></p></td>
-<td><p><a href="../Page/大鷲透.md" title="wikilink">大鷲透</a></p></td>
-<td><p>第1478代</p></td>
+<td><p><a href="../Page/男色ディーノ.md" title="wikilink">男色ディーノ</a></p></td>
+<td><p>第1479代</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -983,7 +981,7 @@
 <!-- end list -->
 
   - 歴代店長 : 初代店長：外部招聘、2代目：[KUDO](../Page/KUDO.md "wikilink")
-  - スタッフ : [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[猪熊裕介](https://ja.wikipedia.org/wiki/猪熊裕介 "wikilink")、[伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")、吉村直巳、[中村圭吾](../Page/中村圭吾.md "wikilink")、[帯広さやか](https://ja.wikipedia.org/wiki/帯広さやか "wikilink")、[SAKI](https://ja.wikipedia.org/wiki/SAKI "wikilink")
+  - スタッフ : [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[猪熊裕介](https://ja.wikipedia.org/wiki/猪熊裕介 "wikilink")、[伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")、吉村直巳、[中村圭吾](../Page/中村圭吾.md "wikilink")、[岡谷英樹](https://ja.wikipedia.org/wiki/岡谷英樹 "wikilink")、[帯広さやか](https://ja.wikipedia.org/wiki/帯広さやか "wikilink")、[SAKI](https://ja.wikipedia.org/wiki/SAKI "wikilink")
 
 <!-- end list -->
 
@@ -993,7 +991,7 @@
 <!-- end list -->
 
   - 店長 : [井上マイク](https://ja.wikipedia.org/wiki/井上マイク "wikilink")
-  - スタッフ : 石黒淳士、[紺乃美鶴](https://ja.wikipedia.org/wiki/紺乃美鶴 "wikilink")、[清水愛](../Page/清水愛.md "wikilink")、渡瀬瑞基
+  - スタッフ : 石黒淳士、[紺乃美鶴](https://ja.wikipedia.org/wiki/紺乃美鶴 "wikilink")、[清水愛](../Page/清水愛.md "wikilink")、渡瀬瑞基、[遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink")
 
 ### 閉店した店
 

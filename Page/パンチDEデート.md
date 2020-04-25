@@ -83,12 +83,12 @@
   - 関西テレビを初めとする[FNNの加盟局では](../Page/フジニュースネットワーク.md "wikilink")、1970年代に番組の放送日（日曜日）が[国政選挙](https://ja.wikipedia.org/wiki/国政選挙 "wikilink")の投・開票日と重なる場合に、『パンチDEセンキョ FNN開票速報』というタイトルの[選挙特別番組](../Page/選挙特別番組.md "wikilink")を編成。本番組のレギュラー放送を休止する代わりに、三枝ときよしが当時河田町にあった[フジテレビのスタジオから生中継で同特番の進行役を務めた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。『決定版\!\!オールスター パンチDEセンキョ FNN開票速報』として放送された[第35回衆議院議員総選挙](../Page/第35回衆議院議員総選挙.md "wikilink")の特別番組（1979年10月7日放送）では開票速報の合間に、三枝ときよしの司会で芸能人の親子が登場する「パンチDEラブラブ」という企画を特別に生放送。いわゆる「[世襲候補者](../Page/世襲政治家.md "wikilink")」が目立った選挙戦にちなんで、[大村崑](../Page/大村崑.md "wikilink")親子と[キャロライン洋子](../Page/キャロライン洋子.md "wikilink")親子をゲストに迎えた。
   - 土曜移動後にエンディングテーマが流れるようになった。
   - [東海3県](../Page/東海3県.md "wikilink")では、元々[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")と[三重テレビで](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[岐阜](../Page/岐阜県.md "wikilink")・[三重両県向けにネットされ](https://ja.wikipedia.org/wiki/三重県 "wikilink")、番組が全国ネットに昇格した後もしばらくこの2局でネットされていた。後に東海テレビにネット移行し、最終回まで同局で放送され続けた。
-  - 系列外の[青森テレビ](../Page/青森テレビ.md "wikilink")や岩手放送（現・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）、そして[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")\[4\]にて遅れネットで放送。それから当時は系列局だった[テレビ山口](../Page/テレビ山口.md "wikilink")（現在は[TBS系列だが](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、1987年9月までは[FNSにも加盟の](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）でも放送。テレビ山口では日曜23時から放送されていた。また、相互乗り入れ前の[香川地区では](../Page/香川県.md "wikilink")[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放送された。
+  - 系列外の[青森テレビ](../Page/青森テレビ.md "wikilink")、岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")\[4\]、[テレビ高知](../Page/テレビ高知.md "wikilink")\[5\]にて遅れネットで放送。それから当時は系列局だった[テレビ山口](../Page/テレビ山口.md "wikilink")（現在は[TBS系列だが](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、1987年9月までは[FNSにも加盟の](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）でも放送。テレビ山口では日曜23時から放送されていた。また、相互乗り入れ前の[香川地区では](../Page/香川県.md "wikilink")[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放送された。
   - 『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』では、[明石家さんま](../Page/明石家さんま.md "wikilink")が三枝に、[島田紳助](../Page/島田紳助.md "wikilink")がきよしに扮してオープニングを真似した。
   - 深夜移行後は、オープニングで視聴者から寄せられたデートにまつわるエピソードを紹介した後に、三枝が「それでは、パンチDEデート！」とコールしてCMに入っていた。また、CM前のオープニングのタイトルバックでは、本番前に観覧客がいろんなゲームをする映像が流れた。そのときに司会（兼[前説](../Page/前説.md "wikilink")）を務めたのは、三枝の弟子の[桂三歩](../Page/桂三歩.md "wikilink")である。
   - 『[とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink")』のパロディコント「新畑任三郎」で犯人役に三枝が出演した際、オープニングが再現され、三枝本人ときよしに扮した[木梨憲武](../Page/木梨憲武.md "wikilink")が番組のキャッチフレーズをコールしていた。
   - 2012年12月に上演された舞台『[吉本百年物語](https://ja.wikipedia.org/wiki/吉本百年物語 "wikilink")・日本全国テレビで遊ぼ』でこの番組が再現され、西川きよし役を長男の[忠志](../Page/西川忠志.md "wikilink")、桂三枝役を[なだぎ武](../Page/なだぎ武.md "wikilink")が演じた。出演した素人役は日替わりゲスト（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")、[上泉雄一](../Page/上泉雄一.md "wikilink")、[近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink")など）が演じた。舞台の千秋楽にはきよし夫妻と文枝本人が登場し、オープニングのかけあいが再現された。
-  - 2016年現在、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")では、同番組のフォーマットを使った番組『BAN MUON HEN HO』が現地テレビ局により制作・放送されている\[5\]。
+  - 2016年現在、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")では、同番組のフォーマットを使った番組『BAN MUON HEN HO』が現地テレビ局により制作・放送されている\[6\]。
 
 ## スタッフ
 
@@ -131,4 +131,5 @@
 2.  土曜19:00 - 19:30枠では、フジテレビ制作の地域限定スポンサードネット番組『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")'83→84』を先行ネットしていた（制作局より1日先行）。
 3.
 4.  1978年8月時点で日曜12：45 - 13：15に放送。YBSテレビ基本番組表　1978年8月号参照
-5.  \[<https://www.youtube.com/user/banmuonhenhomcv>　BẠN MUỐN HẸN HÒ\]番組公式Youtubeチャネンネル
+5.  1980年11月時点では日曜14：30 - 15：00に放送（『[愛媛新聞](../Page/愛媛新聞.md "wikilink")』1980年11月9日付朝刊テレビ欄より）
+6.  \[<https://www.youtube.com/user/banmuonhenhomcv>　BẠN MUỐN HẸN HÒ\]番組公式Youtubeチャネンネル

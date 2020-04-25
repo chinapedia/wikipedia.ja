@@ -102,4 +102,4 @@ AVRという名前は、チップを設計した**A**lf Egil Bogen と **V**egar
 
   - [Atmel本社](http://www.atmel.com/)
 
-[Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink")
+[Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink")

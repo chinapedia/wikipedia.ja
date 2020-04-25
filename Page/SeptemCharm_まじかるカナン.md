@@ -298,7 +298,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td><p>2005年<a href="../Page/1月21日.md" title="wikilink">1月21日</a> - <a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
 <td><p>金曜 26:15 - 26:45</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>

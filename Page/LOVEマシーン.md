@@ -134,6 +134,7 @@
 
   - 1999年12月31日 [第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")「優秀作品賞」・「作曲賞」
   - 2000年[3月15日](../Page/3月15日.md "wikilink") 第14回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")「ソング・オブ・ザ・イヤー」
+  - 2000年度 [JASRAC賞](https://ja.wikipedia.org/wiki/JASRAC賞 "wikilink")・銅賞
 
 ## カバー
 
@@ -185,7 +186,7 @@
   - ミュージック・ビデオ
 
       -
-[Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:2017年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2017年のテレビドラマ "wikilink") [Category:プレミアムドラマ](https://ja.wikipedia.org/wiki/Category:プレミアムドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:2017年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2017年のテレビドラマ "wikilink") [Category:プレミアムドラマ](https://ja.wikipedia.org/wiki/Category:プレミアムドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink")
 
 1.  [ASAYAN モーニング娘。 10/31　ON AIR](https://web.archive.org/web/20050217132855/http://www.asayan.com/vocal/morning/1999/1031.html)、ASAYAN.COM、1999年10月31日放送。（インターネットアーカイブのキャッシュ）
 2.  [【エンタがビタミン♪】「ちょっと“ダサい”くらいが売れる。」つんく♂の持論に、ビニール系衣装の“ももクロ”喜ぶ。](https://japan.techinsight.jp/2012/03/fukaiihanashi_tunku1203201246.html) - TechinsightJapan(2012年3月20日)、2020年2月12日閲覧。

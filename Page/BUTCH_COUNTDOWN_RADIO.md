@@ -15,7 +15,7 @@
 
 なお、番組ジングルは「BUTCH COUNTDOWN RADIO WOW\! FM FUKUOKA」が主に使用される。
 
-番組は20年以上、延べ回数1000回以上続いており、現在も朝ワイド「[（ナカジー&バン）MORNING JAM](../Page/モーニングジャム.md "wikilink")」や平日昼ワイド「[SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")」（以下「ラジ★ゴン」と記載）と並び、同局の中でも長寿番組としてリスナーから支持を得ている。
+番組は20年以上、延べ回数1000回以上続いており、現在も朝ワイド「[（ナカジー&バン）MORNING JAM](../Page/モーニングジャム.md "wikilink")」や平日昼ワイド「[SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")」（以下「ラジ★ゴン」と記載、2020年3月をもって終了）と並び、同局の中でも長寿番組としてリスナーから支持を得ている。
 
 2008年11月からは同局の新社屋移転に伴い、一階にあるサテライトスタジオ（[アクサダイレクト](https://ja.wikipedia.org/wiki/アクサダイレクト "wikilink")スタジオ）からの放送を開始。これに伴い、ガラス越しで放送中の様子を閲覧する事が可能となった。また、同局のホームページでも、静止画ではあるが放送中の様子を確認する事ができる。
 
@@ -51,22 +51,16 @@
 
 <!-- end list -->
 
-  - [松藤みな子](https://ja.wikipedia.org/wiki/松藤みな子 "wikilink")
-      - 2019年12月6日より産休中のkaedeに変わってBUTCHとともにMCを務める\[3\]。FM FUKUOKAでは[Weekend more radio\!\!〜サン8〜も担当中](https://ja.wikipedia.org/wiki/Weekend_more_radio!!#Weekend_more_radio!!〜サン8〜 "wikilink")。あだ名は**まっちゃん**。
-
-<!-- end list -->
-
-  - 謎のアジア人
-      - 主に「ザ・メシュラン」（下記参照）にて出演。
-
-### 産休中
-
   - [kaede](https://ja.wikipedia.org/wiki/kaede_\(歌手\) "wikilink")
       - 2008年10月より17:00-20:00のPART2を担当。2011年3月からは全パート担当。自称「**シンガー・ソング・ドリンカー**」。
       - 先代のMC・笑子から引き継いで番組の[ブログ](../Page/ブログ.md "wikilink")を担当（ただし、執筆開始は約8ヵ月後の2009年6月から）。なぜか番組に出演したゲストとの写真では、後ろで正座をしながら両手を前に組んだ状態で、BUTCHとゲストを見上げるポーズをしている。
       - 「結成\!\!ブチカンブラック団」（下記参照）にて、団長としてコーナーのメインを仕切っているためか、番組内では「腹黒い女性」キャラとして称されている。
-      - 2014年4月〜9月は産休により番組を休演していた。
-      - 2019年11月29日の放送をもって産休。春先までの予定\[4\]。
+      - 2014年4月〜9月と2019年11月29日\[3\]〜2020年3月27日は産休により番組を休演していた。
+
+<!-- end list -->
+
+  - 謎のアジア人
+      - 番組ではプロデューサーを務めるが、主に「ザ・メシュラン」（下記参照）や女性パーソナリティが不在（主に新春特番編成時など）の際の相方として出演。
 
 ### 過去のMC
 
@@ -102,6 +96,11 @@
 
   - [森本華織](https://ja.wikipedia.org/wiki/森本華織 "wikilink")
       - [2009年](../Page/2009年.md "wikilink")10月～[2011年](../Page/2011年.md "wikilink")2月までPART1を担当。自称「**キャオリン**」（自身が大分県宇佐（USA）市の出身であるためか、「MADE IN USA（ユーエスエー） キャオリン」と名乗る場合もある）。
+
+<!-- end list -->
+
+  - [松藤みな子](https://ja.wikipedia.org/wiki/松藤みな子 "wikilink")
+      - 2019年12月6日〜2020年3月27日まで産休中のkaedeに変わってBUTCHとともにMCを務めた\[4\]。FM FUKUOKAでは[Weekend more radio\!\!〜サン8〜も担当](https://ja.wikipedia.org/wiki/Weekend_more_radio!!#Weekend_more_radio!!〜サン8〜 "wikilink")。あだ名は**まっちゃん**。
 
 ## タイムテーブル
 
@@ -305,7 +304,7 @@
 
 1.  公式サイトの[番組紹介](http://fmfukuoka.co.jp/butch/program.php)では、『超特大バラエティカウントダウン番組』とも書かれている。
 2.  BUTCH自らも[番組開始時のアナウンス\#後述のアナウンス](https://ja.wikipedia.org/wiki/番組開始時のアナウンス#後述のアナウンス "wikilink")で同様の発言をしている。よくある「カウントダウン」主軸の「カウントダウンバラエティ」ではない。このことはNHKラジオ「亀渕昭信のにっぽん全国ラジオめぐり」で番組見学をした亀淵昭信も発言しており、radikoの番組表でも紹介されている。ちなみに「15分に一回」の由来は『人が真剣に聴いている限界が15分であるので、15分～20分に一度山を作ろう』ということと『AMとFMをまぜこぜにできないか』という考えがあるところから（「日本全国ラジオめぐり」で亀淵のインタビューに答えたBUTCHの回答より）
-3.  [1](https://twitter.com/minako_0328/status/1201682873134174208)
-4.  [2](https://twitter.com/kaede_hug/status/1200386583989374977)
+3.  [1](https://twitter.com/kaede_hug/status/1200386583989374977)
+4.  [2](https://twitter.com/minako_0328/status/1201682873134174208)
 5.  ex:番組本番中に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")及び、その発生から5年を迎えた2016年3月11日、[熊本地震](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、[2009年豪雨](https://ja.wikipedia.org/wiki/平成21年7月中国・九州北部豪雨 "wikilink")、[2012年豪雨](https://ja.wikipedia.org/wiki/平成24年7月九州北部豪雨 "wikilink")、[2017年豪雨](https://ja.wikipedia.org/wiki/平成29年7月九州北部豪雨 "wikilink")（数週間自粛）
 6.  2006年3月まではジョウ・タツンダ（[城達也](../Page/城達也.md "wikilink")の並びを逆にした[アナグラム](../Page/アナグラム.md "wikilink")）の、2006年4月以降はサトウ・イブマ（この場合もアナグラム方式で[伊武雅刀](../Page/伊武雅刀.md "wikilink")の並びを逆にしたもの。アメリカ読みで「イブマ・サトウ」というフレーズを必ず付ける）物真似だった。

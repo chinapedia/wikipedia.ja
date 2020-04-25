@@ -23,7 +23,7 @@
 
 [2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に、アルバム『[愛・自分博](../Page/愛・自分博.md "wikilink")』をリリースし、邦楽ヒップホップ“ソロアーティスト”初の[オリコンウィークリーチャート](../Page/オリコンチャート.md "wikilink")1位（2月13日付け）を獲得。同アルバムを引き下げたツアー「KREVA TOUR 2006 愛・自分博 〜国民的行事〜」の千秋楽でも、邦楽ヒップホップ“ソロアーティスト”初となる[日本武道館](../Page/日本武道館.md "wikilink")公演を果たす。9月には、「SPACE SHOWER SWEET LOVE SHOWER 2006」で、10年ぶりにBY PHAR THE DOPESTとしての活動を再開。シングル「恥じゃない」、アルバム『[だからどうした\!](../Page/だからどうした!.md "wikilink")』を発売。また、[吉井和哉](../Page/吉井和哉.md "wikilink")のツアー『TOUR2006 THANK YOU YOSHII KAZUYA』のオープニングも手掛けた。
 
-[2007年](../Page/2007年.md "wikilink")5月からは、[TOKYO FM及び](../Page/エフエム東京.md "wikilink")[JFNのヒューマン](../Page/全国FM放送協議会.md "wikilink")・コンシャス・プロジェクトの一環として、[久保田利伸](../Page/久保田利伸.md "wikilink")とのツアーを実施し、[久保田利伸 meets KREVA名義で](../Page/久保田利伸_meets_KREVA.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")シングルをリリース。6月からは、邦楽ヒップホップ“ソロアーティスト”初の大ホールツアーとして、「KREVA CONCERT TOUR '07 SEASON-1『意味深』」を開催。[5月25日](../Page/5月25日.md "wikilink")、[渋谷センター街](../Page/渋谷センター街.md "wikilink")のボードにて夏に3rdアルバム（[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")）のリリースと、6月に[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）とのコラボレーションを発表したことも話題となった。10月からは、この年2度目のツアーとなる「KREVA CONCERT TOUR '07 『K-ing』」を開催。さらに「[テレビ朝日](../Page/テレビ朝日.md "wikilink")開局50周年記念 KREVA CONCERT TOUR '07」として、11月23日より2日間（1日目はゲストデー、2日目はノンゲストデーとして）、自身2度目の武道館で開催した。ゲストデーには、ツアーに帯同した5人に加え、[CUEZERO](../Page/CUEZERO.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、[久保田利伸](../Page/久保田利伸.md "wikilink")、[ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")、[KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")らが出演。ノンゲストデーでは、MC、DJなどすべて1人でライブを進行してみせた。
+[2007年](../Page/2007年.md "wikilink")5月からは、[TOKYO FM及び](../Page/エフエム東京.md "wikilink")[JFNのヒューマン](../Page/全国FM放送協議会.md "wikilink")・コンシャス・プロジェクトの一環として、[久保田利伸](../Page/久保田利伸.md "wikilink")とのツアーを実施し、[久保田利伸 meets KREVA名義で](../Page/久保田利伸_meets_KREVA.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")シングルをリリース。6月からは、邦楽ヒップホップ“ソロアーティスト”初の大ホールツアーとして、「KREVA CONCERT TOUR '07 SEASON-1『意味深』」を開催。[5月25日](../Page/5月25日.md "wikilink")、[渋谷センター街](../Page/渋谷センター街.md "wikilink")のボードにて夏に3rdアルバム（[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")）のリリースと、6月に[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）とのコラボレーションを発表したことも話題となった。10月からは、この年2度目のツアーとなる「KREVA CONCERT TOUR '07 『K-ing』」を開催。さらに「[テレビ朝日](../Page/テレビ朝日.md "wikilink")開局50周年記念 KREVA CONCERT TOUR '07」として、11月23日より2日間（1日目はゲストデー、2日目はノンゲストデーとして）、自身2度目の武道館で開催した。ゲストデーには、ツアーに帯同した5人に加え、[CUEZERO](../Page/CUEZERO.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、[久保田利伸](../Page/久保田利伸.md "wikilink")、[ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")、[KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")らが出演。ノンゲストデーでは、MC、DJなどすべて1人でライブを進行してみせた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")には、自身初となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の『[クレバのベスト盤](../Page/クレバのベスト盤.md "wikilink")』を発売。また、映画『[隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")』に出演。同映画の主題歌「[裏切り御免](https://ja.wikipedia.org/wiki/裏切り御免 "wikilink")」を、KREVA、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[亀田誠治](../Page/亀田誠治.md "wikilink")による期間限定ユニット「[The THREE](https://ja.wikipedia.org/wiki/The_THREE "wikilink")」が担当した。5月後半より、全国ツアー「クレハーカップ」を全国13か所17公演で開催し、約5万5千人を動員した。同年[8月3日](../Page/8月3日.md "wikilink")に、[国営ひたち海浜公園](../Page/国営ひたち海浜公園.md "wikilink")で開催された野外イベント「[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008」ではLITTLEとMCUと共に4年振りに「イツナロウバ」「アンバランス」の2曲を披露した。同月には、MTVのアコースティック・ライブ「MTV UNPLUGGED KREVA」に出演した。9月3日には自身初となるPV集『チャートバスターズK\!』をリリースし、オリコンDVD音楽ウィークリーチャート初登場1位を獲得した。しかしながら、この年はシングル曲のリリースは、ソロ活動以降初めて0に終わった。
 
@@ -1412,7 +1412,7 @@ CD+DVD</p></td>
   - 2010年12月31日 - COUNTDOWN JAPAN 10/11
   - 2011年05月08日 - [神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink") presents 「一人じゃないのよ」
   - 2011年08月07日 - ROCK IN JAPAN FESTIVAL 2011
-  - 2011年08月17日 - [SPITZ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") 2011 SUMMER ロックのほそ道
+  - 2011年08月17日 - [SPITZ](../Page/スピッツ_\(バンド\).md "wikilink") 2011 SUMMER ロックのほそ道
   - 2011年08月21日 - MONSTER baSH 2011
   - 2011年08月27日 - FREEDOM 2011 in 淡路島 "青空"
   - 2011年09月17日 - HIGHER GROUND 2011
@@ -1494,6 +1494,7 @@ CD+DVD</p></td>
   - [隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")（2008年） - 刑部付きの侍
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")（2015年） - 役名なし
   - [シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")（2016年） - 村崎 第2戦車中隊長\[7\]
+  - [461個のおべんとう](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。#映画 "wikilink")（2020年 ） - 古市栄太 役\[8\]
 
 ### CM
 
@@ -1512,7 +1513,7 @@ BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 
   - 最高はひとつじゃない（2011年）
   - 最高はひとつじゃない2014（2014年）
-  - 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - セバスチャン役\[8\]
+  - 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - セバスチャン役\[9\]
 
 ## 出典
 
@@ -1534,3 +1535,4 @@ BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 6.
 7.
 8.
+9.

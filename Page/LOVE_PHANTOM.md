@@ -115,13 +115,13 @@ CDジャケット及びCDラベルの「LOVE PHANTOM」の"T"の表記は、[十
 4.  ただし、『BE THERE』から『[裸足の女神](../Page/裸足の女神.md "wikilink")』までが12cm化で再発売された際、発売当時ノンタイアップだった『[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")』を除き、曲名が表記されたシールにタイアップの表記が復活した。
 5.  ただしイントロのセリフで曲名が登場する
 6.
-7.  「B'z ウルトラクロニクル」（[佐伯明](https://ja.wikipedia.org/wiki/佐伯明 "wikilink")著）より。
-8.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P76より
+7.
+8.
 9.
 10.
 11.
 12.
 13. ダイブ演出は15周年ライブ『[B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!"](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』の渚園公演でも行われている。
-14. 『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P77より
+14.
 15.
 16.

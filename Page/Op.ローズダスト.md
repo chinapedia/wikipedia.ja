@@ -207,7 +207,7 @@
     [公安警察](../Page/公安警察.md "wikilink")が保有する実在の秘匿部隊。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")の[警備局](../Page/警備局.md "wikilink")内に設置されている。
     「サクラ」はチヨダの前身。
   - [SAT](../Page/特殊急襲部隊.md "wikilink")（Special Assault Team/特殊急襲部隊）
-    実在する日本警察の[特殊部隊](../Page/特殊部隊.md "wikilink")。[警備部](https://ja.wikipedia.org/wiki/警備部 "wikilink")に所属する。
+    実在する日本警察の[特殊部隊](../Page/特殊部隊.md "wikilink")。[警備部](../Page/警備部.md "wikilink")に所属する。
   - [銃器対策部隊](../Page/銃器対策部隊.md "wikilink")
     実在する日本警察の部隊。詳細は
   - [SIT](https://ja.wikipedia.org/wiki/SIT "wikilink")（Special Investigation Team/特殊捜査班）

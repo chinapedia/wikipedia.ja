@@ -333,7 +333,7 @@ J-WAVEの放送を[再送信](https://ja.wikipedia.org/wiki/再送信 "wikilink"
 
   - [番組ブログ](http://www.j-wave.co.jp/blog/rocket/)
   - [Funiochi Bar Taro](http://funiochi.com/)
-  - [フニオチ太郎のフニオチ☆ブログ](http://ameblo.jp/funiochitaro/)
+  - [フニオチ太郎のフニオチ☆ブログ](https://ameblo.jp/funiochitaro/)
   - [FUNIOCHI×ANAPコラボTシャツ](http://www.anapnet.com/campaign/funiochi/)
 
 [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink")

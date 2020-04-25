@@ -108,7 +108,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2004.11.17</p></td>
-<td><p><strong>Trip in the music</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Trip_in_the_music" title="wikilink">Trip in the music</a></strong></p></td>
 <td><p>AFCA-32</p></td>
 <td><ol>
 <li>Trip in the music</li>

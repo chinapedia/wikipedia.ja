@@ -65,7 +65,7 @@
 
   - [フォンテAKITA](http://www.fonte-akita.com/)
 
-[Category:秋田県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:秋田県のショッピングセンター "wikilink") [Category:秋田市の商業施設](https://ja.wikipedia.org/wiki/Category:秋田市の商業施設 "wikilink") [Category:秋田市の建築物](https://ja.wikipedia.org/wiki/Category:秋田市の建築物 "wikilink") [Category:秋田県の再開発地区](https://ja.wikipedia.org/wiki/Category:秋田県の再開発地区 "wikilink") [Category:イトーヨーカ堂](https://ja.wikipedia.org/wiki/Category:イトーヨーカ堂 "wikilink") [Category:1980年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1980年竣工の日本の建築物 "wikilink") [Category:1980年開業の施設](https://ja.wikipedia.org/wiki/Category:1980年開業の施設 "wikilink")
+[Category:秋田県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:秋田県のショッピングセンター "wikilink") [Category:秋田市の商業施設](https://ja.wikipedia.org/wiki/Category:秋田市の商業施設 "wikilink") [Category:秋田市の建築物](https://ja.wikipedia.org/wiki/Category:秋田市の建築物 "wikilink") [Category:秋田県の再開発地区](https://ja.wikipedia.org/wiki/Category:秋田県の再開発地区 "wikilink") [Category:イトーヨーカ堂の歴史](https://ja.wikipedia.org/wiki/Category:イトーヨーカ堂の歴史 "wikilink") [Category:1980年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1980年竣工の日本の建築物 "wikilink") [Category:1980年開業の施設](https://ja.wikipedia.org/wiki/Category:1980年開業の施設 "wikilink")
 
 1.  『秋田市史 第5巻 近現代2(通史編)』p.730
 2.  『秋田市史 第5巻 近現代2(通史編)』p.731

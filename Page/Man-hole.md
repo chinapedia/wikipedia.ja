@@ -64,7 +64,7 @@
 
   -
   -
-[Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:鈴井貴之の監督映画](https://ja.wikipedia.org/wiki/Category:鈴井貴之の監督映画 "wikilink") [Category:北海道テレビ放送](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送 "wikilink")
+[Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:鈴井貴之の監督映画](https://ja.wikipedia.org/wiki/Category:鈴井貴之の監督映画 "wikilink") [Category:北海道テレビ放送](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送 "wikilink") [Category:北海道を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした映画作品 "wikilink")
 
 1.  クリエイティブオフィスキュー『CUEのキセキ』(2012年 メディアファクトリー)P49．
 2.  鈴井貴之『ダメダメ人間 それでも走り続けた半生記』(2012年 メディアファクトリー MF文庫ダ・ヴィンチ)P66～69．

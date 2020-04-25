@@ -1,6 +1,8 @@
 > この記事は[Fiber distributed data interface](https://ja.wikipedia.org/wiki/Fiber_distributed_data_interface)から翻訳されています。
 
 
+[thumb](https://ja.wikipedia.org/wiki/ファイル:FDDI_Concentrator.jpeg "wikilink") [thumb用のデュアルアタッチFDDIボード](https://ja.wikipedia.org/wiki/ファイル:Sbus-das-fddi.jpg "wikilink")\]\]
+
 **Fiber-distributed data interface** (**FDDI**) は、[LAN](../Page/Local_Area_Network.md "wikilink") で[データ](../Page/データ.md "wikilink")[転送](https://ja.wikipedia.org/wiki/転送 "wikilink")を行なうための標準の一つである。
 
 ## 概要

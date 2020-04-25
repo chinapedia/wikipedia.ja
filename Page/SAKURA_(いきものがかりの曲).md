@@ -63,12 +63,13 @@
 
 ## カバー
 
-  - [かの香織](../Page/かの香織.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")発売のオムニバス・アルバム『Sakura Bossa-The Greatest Sakura Hits In Bossa Style-』）
-  - [シェネル](https://ja.wikipedia.org/wiki/シェネル "wikilink")（[2011年](../Page/2011年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売のカバー・アルバム『[ラブ・ソングス](https://ja.wikipedia.org/wiki/ラブ・ソングス_\(シェネルのアルバム\) "wikilink")』に、自身で英語詞に翻訳した[英語](../Page/英語.md "wikilink")詞バージョンが収録されている）。
-  - [Ailee](https://ja.wikipedia.org/wiki/Ailee "wikilink")（[2015年](../Page/2015年.md "wikilink")）英語詞バージョン。
-  - ふうか・みやび・ゆとり from [民謡ガールズ](https://ja.wikipedia.org/wiki/民謡ガールズ "wikilink")（[2017年](../Page/2017年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")発売のコンピレーション・アルバム『Sakura Girls -Spring Songs Best-』）
+  - [かの香織](../Page/かの香織.md "wikilink")（オムニバス・アルバム『Sakura Bossa-The Greatest Sakura Hits In Bossa Style-』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")）収録。）
+  - [シェネル](https://ja.wikipedia.org/wiki/シェネル "wikilink")（カバー・アルバム『[ラブ・ソングス](https://ja.wikipedia.org/wiki/ラブ・ソングス_\(シェネルのアルバム\) "wikilink")』（[2011年](../Page/2011年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")）自身で英語詞に翻訳した[英語](../Page/英語.md "wikilink")詞バージョン収録。）
+  - [Ailee](https://ja.wikipedia.org/wiki/Ailee "wikilink")（シングル「SAKURA」（[2015年](../Page/2015年.md "wikilink")3月25日）英語詞バージョン収録。）
+  - ふうか・みやび・ゆとり from [民謡ガールズ](https://ja.wikipedia.org/wiki/民謡ガールズ "wikilink")（コンピレーション・アルバム『Sakura Girls -Spring Songs Best-』（[2017年](../Page/2017年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）収録。）
   - [大和里菜](https://ja.wikipedia.org/wiki/大和里菜 "wikilink")
   - [LOVERS ROCREW](https://ja.wikipedia.org/wiki/LOVERS_ROCREW "wikilink")
+  - [清春](../Page/清春.md "wikilink")（カバーアルバム『[Covers](https://ja.wikipedia.org/wiki/Covers_\(清春のアルバム\) "wikilink")』（[2019年](../Page/2019年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")）収録。）
 
 ## 関連項目
 

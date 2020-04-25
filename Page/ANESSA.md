@@ -65,8 +65,12 @@
 
 ## 外部リンク
 
-  - [資生堂 アネッサ](http://www.shiseido.co.jp/anessa/)
+  - [資生堂 アネッサ](http://anessa.shiseido.co.jp/)
 
+  -
+  -
+  -
+  -
 [Category:資生堂](https://ja.wikipedia.org/wiki/Category:資生堂 "wikilink")
 
 1.

@@ -9,13 +9,13 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に株式会社[東京三菱銀行](../Page/東京三菱銀行.md "wikilink")（現：株式会社[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）、三菱信託銀行株式会社（現：[三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")株式会社）及び日本信託銀行株式会社（2001年[10月1日](../Page/10月1日.md "wikilink")に三菱信託銀行株式会社に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")され消滅）が[株式移転](../Page/株式移転.md "wikilink")し、株式会社[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")として設立。
+[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に株式会社[東京三菱銀行](../Page/東京三菱銀行.md "wikilink")（現：株式会社三菱UFJ銀行）、三菱信託銀行株式会社（現：三菱UFJ信託銀行株式会社）及び日本信託銀行株式会社（2001年[10月1日](../Page/10月1日.md "wikilink")に三菱信託銀行株式会社に[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")され消滅）が[株式移転](../Page/株式移転.md "wikilink")し、株式会社[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")として設立。
 
-[2005年](../Page/2005年.md "wikilink")10月1日に株式会社[UFJホールディングス](../Page/UFJホールディングス.md "wikilink")（登記上は株式会社ユーエフジェイホールディングス）を吸収合併し、現在の[商号](../Page/商号.md "wikilink")に変更した。
+[2005年](../Page/2005年.md "wikilink")10月1日に株式会社[UFJホールディングス](../Page/UFJホールディングス.md "wikilink")（登記上は株式会社ユーエフジェイホールディングス）を吸収合併し、現在の商号に変更した。
 
-[コーポレートカラー](https://ja.wikipedia.org/wiki/コーポレートカラー "wikilink")は「MUFGレッド」。グループスローガンは「Quality for You」（確かなクオリティを、明日へ。世界へ。）である。
+[コーポレートカラー](../Page/コーポレートカラー.md "wikilink")は「MUFGレッド」。グループスローガンは「Quality for You」（確かなクオリティを、明日へ。世界へ。）である。
 
-傘下の[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")は、[三菱グループ](../Page/三菱グループ.md "wikilink")などを取引先に擁する。前身の旧[三菱銀行](../Page/三菱銀行.md "wikilink")、旧[三和銀行](../Page/三和銀行.md "wikilink")、旧[東海銀行](../Page/東海銀行.md "wikilink")はそれぞれ[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")圏、[名古屋圏の三大都市圏を地盤としている](../Page/名古屋市.md "wikilink")。旧[東京銀行](../Page/東京銀行.md "wikilink")の流れを汲み、国際業務でも優位性をもつ。また国外に[アメリカの地銀](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユニオン・バンク](../Page/ユニオン・バンク.md "wikilink")を子会社としているほか、[アユタヤ銀行](../Page/アユタヤ銀行.md "wikilink")を傘下に置いているのも特徴的である。
+傘下の三菱UFJ銀行は、[三菱グループ](../Page/三菱グループ.md "wikilink")などを取引先に擁する。前身の旧[三菱銀行](../Page/三菱銀行.md "wikilink")、旧[三和銀行](../Page/三和銀行.md "wikilink")、旧[東海銀行](../Page/東海銀行.md "wikilink")はそれぞれ[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")圏、[名古屋圏の三大都市圏を地盤としている](../Page/名古屋市.md "wikilink")。旧[東京銀行](../Page/東京銀行.md "wikilink")の流れを汲み、国際業務でも優位性をもつ。また国外に[アメリカの地銀](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユニオン・バンク](../Page/ユニオン・バンク.md "wikilink")を子会社としているほか、[アユタヤ銀行](../Page/アユタヤ銀行.md "wikilink")を傘下に置いているのも特徴的である。
 
 2015年3月期決算では、国内銀行グループにおいて初の[純利益](https://ja.wikipedia.org/wiki/純利益 "wikilink")が1兆円を超えた\[1\]\[2\]。また同6月25日付で[委員会設置会社](https://ja.wikipedia.org/wiki/委員会設置会社 "wikilink")に移行した\[3\]。
 
@@ -23,14 +23,14 @@
 
 三菱東京フィナンシャル・グループ（以下「MTFG」）とUFJホールディングス（以下「UFJHD」）が合併及びグループ経営統合に至った背景は、UFJ側、特に[UFJ銀行](../Page/UFJ銀行.md "wikilink")の不良債権が膨らみ、健全な経営姿勢が困難になったことが挙げられる。そこでUFJHDは、傘下の[UFJ信託銀行](../Page/UFJ信託銀行.md "wikilink")株式会社を一旦2004年6月に[住友信託銀行](../Page/住友信託銀行.md "wikilink")株式会社（以下「住信」）に売却する方針を発表したが、2004年7月にUFJHDは一転し、MTFGとの経営統合方針を明らかにした。
 
-これにより、住信は[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")にMTFGとUFJHDの統合を禁止する仮処分の申請を行った。[2004年](../Page/2004年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")、東京地方裁判所は住信の申請を認めたものの（UFJHDが申し立てた異議も[8月4日](../Page/8月4日.md "wikilink")却下）、[8月11日](../Page/8月11日.md "wikilink")、[東京高等裁判所](../Page/東京高等裁判所.md "wikilink")はUFJHDの抗告を認め住信の申請を退けた。これにより翌[12日](../Page/8月12日.md "wikilink")、経営統合に関する基本合意を発表した。住信は8月11日に[特別抗告](https://ja.wikipedia.org/wiki/特別抗告 "wikilink")を行ったが[8月30日](../Page/8月30日.md "wikilink")[最高裁判所は東京高裁の決定は妥当としてこの申請を退ける決定がなされた](../Page/最高裁判所_\(日本\).md "wikilink")。住信はUFJHDへの[損害賠償](../Page/損害賠償.md "wikilink")請求に切り替えて控訴したが、[2006年](../Page/2006年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に東京高等裁判所の提案による住信に対して25億円の和解金を支払う事で[和解](../Page/和解.md "wikilink")が成立した。
+これにより、住信は[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")にMTFGとUFJHDの統合を禁止する仮処分の申請を行った。[2004年](../Page/2004年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")、東京地方裁判所は住信の申請を認めたものの（UFJHDが申し立てた異議も[8月4日](../Page/8月4日.md "wikilink")却下）、[8月11日](../Page/8月11日.md "wikilink")、[東京高等裁判所](../Page/東京高等裁判所.md "wikilink")はUFJHDの抗告を認め住信の申請を退けた。これにより翌12日、経営統合に関する基本合意を発表した。住信は8月11日に[特別抗告](https://ja.wikipedia.org/wiki/特別抗告 "wikilink")を行ったが[8月30日](../Page/8月30日.md "wikilink")[最高裁判所は東京高裁の決定は妥当としてこの申請を退ける決定がなされた](../Page/最高裁判所_\(日本\).md "wikilink")。住信はUFJHDへの[損害賠償](../Page/損害賠償.md "wikilink")請求に切り替えて控訴したが、[2006年](../Page/2006年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に東京高等裁判所の提案による住信に対して25億円の和解金を支払う事で[和解](../Page/和解.md "wikilink")が成立した。
 
-[2005年](../Page/2005年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に正式に2005年10月1日付での合併が決定し、グループの名称を「三菱UFJフィナンシャル・グループ」とすること、合併に際しUFJHD1株に対しMTFG0.62株を割り当てることが発表された。グループ企業も、一部を除いて旧MTFG側を吸収合併存続会社とし持株会社と同一期日に合併する方針が採られたが、普通銀行の東京三菱銀行とUFJ銀行については合併に伴う大規模なシステム障害を懸念する[金融庁](../Page/金融庁.md "wikilink")の勧告を受けて、ネット証券の[Meネット証券](../Page/Meネット証券.md "wikilink")と[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")の合併についてはカブドットコム証券が株式を上場したばかりで対処が遅れた為、共に[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に変更された。リースとカード・信販はそれぞれ[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に合併し\[4\]、[消費者金融](../Page/消費者金融.md "wikilink")である[モビットの改編も進められた](../Page/SMBCモビット.md "wikilink")\[5\]。
+2005年[2月18日](../Page/2月18日.md "wikilink")に正式に2005年10月1日付での合併が決定し、グループの名称を「三菱UFJフィナンシャル・グループ」とすること、合併に際しUFJHD1株に対しMTFG0.62株を割り当てることが発表された。グループ企業も、一部を除いて旧MTFG側を吸収合併存続会社とし持株会社と同一期日に合併する方針が採られたが、普通銀行の東京三菱銀行とUFJ銀行については合併に伴う大規模なシステム障害を懸念する[金融庁](../Page/金融庁.md "wikilink")の勧告を受けて、ネット証券の[Meネット証券](../Page/Meネット証券.md "wikilink")と[カブドットコム証券](https://ja.wikipedia.org/wiki/カブドットコム証券 "wikilink")の合併についてはカブドットコム証券が株式を上場したばかりで対処が遅れた為、共に2006年[1月1日](../Page/1月1日.md "wikilink")に変更された。リースとカード・信販はそれぞれ[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に合併し\[4\]、[消費者金融](../Page/消費者金融.md "wikilink")である[モビットの改編も進められた](../Page/SMBCモビット.md "wikilink")\[5\]。
 
 ## 主なグループ企業
 
   - [商業銀行](../Page/普通銀行.md "wikilink")
-      - [三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")
+      - 三菱UFJ銀行
 
       - [ユニオン・バンク](../Page/ユニオン・バンク.md "wikilink")（/三菱UFJ銀行子会社のユニオンバンカルが全株保有）
 
@@ -51,12 +51,12 @@
 <!-- end list -->
 
   - [信託銀行](../Page/信託銀行.md "wikilink")
-      - [三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")
+      - 三菱UFJ信託銀行
   - [マイクロファイナンス](https://ja.wikipedia.org/wiki/マイクロファイナンス "wikilink")
       - [ハッタ・カクセカー](../Page/ハッタ・カクセカー.md "wikilink")（カンボジアのマイクロファイナンス）
   - [証券](../Page/証券.md "wikilink")
-      - [三菱UFJ証券](https://ja.wikipedia.org/wiki/三菱UFJ証券 "wikilink")ホールディングス（MUSHD。初代三菱UFJ証券を[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")化したもの）
-          - [三菱UFJモルガン・スタンレー証券](https://ja.wikipedia.org/wiki/三菱UFJモルガン・スタンレー証券 "wikilink")（MUMSS。リテールをメインとする、MUSHDと[モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink")の合弁会社。初代三菱UFJ証券（現・三菱UFJ証券HD）の受け皿だった、2代目三菱UFJ証券より改称）
+      - 三菱UFJ証券ホールディングス（MUSHD。初代三菱UFJ証券を[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")化したもの）
+          - 三菱UFJモルガン・スタンレー証券（MUMSS。リテールをメインとする、MUSHDと[モルガン・スタンレー](../Page/モルガン・スタンレー.md "wikilink")の合弁会社。初代三菱UFJ証券（現・三菱UFJ証券HD）の受け皿だった、2代目三菱UFJ証券より改称）
           - [モルガン・スタンレーMUFG証券](https://ja.wikipedia.org/wiki/モルガン・スタンレーMUFG証券 "wikilink")（MSMS。ホールセール専業証券である、MUFGとモルガン・スタンレーの合弁会社）
           - [三菱UFJモルガン・スタンレーPB証券](../Page/三菱UFJモルガン・スタンレーPB証券.md "wikilink")（[プライベート・バンキング](../Page/プライベート・バンキング.md "wikilink")業務主体の証券会社。旧[山一證券](https://ja.wikipedia.org/wiki/山一證券 "wikilink")→[メリルリンチ日本証券](../Page/メリルリンチ日本証券.md "wikilink")（リテール部門）の流れを汲む）
           - auカブコム証券（ネット専業証券。MUSHDの子会社であり、BTMUも第2位株主。かつてはBTMUが4割超を保有する筆頭株主、MUSHDが1割程度を保有する第2位株主であったが2015年4月に資本異動が行われた\[6\]。東証一部）
@@ -96,7 +96,7 @@
   - [消費者金融](../Page/消費者金融.md "wikilink")
       - [アコム](../Page/アコム.md "wikilink")（持分法適用関連会社、東証一部）
   - [カード](../Page/カード.md "wikilink")・[信販](https://ja.wikipedia.org/wiki/信用販売 "wikilink")
-      - [三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")
+      - 三菱UFJニコス
       - [菱信ディーシーカード](../Page/菱信ディーシーカード.md "wikilink")
       - [ジャックス](../Page/ジャックス_\(信販\).md "wikilink")（持分法適用関連会社、東証一部・[札証](../Page/札幌証券取引所.md "wikilink")）
       - [ジャルカード](https://ja.wikipedia.org/wiki/ジャルカード "wikilink")

@@ -5,7 +5,7 @@
 
 GNU Goの棋力はlevel 10においておよそ5級とされる\[1\]。碁盤サイズは5×5から19×19までをサポートしている。
 
-GNU Go自身は[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")ベースではあるが、Go Modem Protocolおよび[Go Text Protocolという](https://ja.wikipedia.org/wiki/Go_Text_Protocol "wikilink")2つのプロトコルをサポートしており、これらを使った[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[フロントエンド](../Page/フロントエンド.md "wikilink")が別途実装されている。
+GNU Go自身は[ASCII](../Page/ASCII.md "wikilink")ベースではあるが、Go Modem Protocolおよび[Go Text Protocolという](https://ja.wikipedia.org/wiki/Go_Text_Protocol "wikilink")2つのプロトコルをサポートしており、これらを使った[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[フロントエンド](../Page/フロントエンド.md "wikilink")が別途実装されている。
 
 ## 戦績
 

@@ -46,7 +46,7 @@
 |            | BS101         | [NHK BS1](../Page/NHK_BS1.md "wikilink")                                                       |
 |            | BS103         | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")                            |
 |            | BS141         | [BS日テレ](../Page/BS日本.md "wikilink")                                                            |
-|            | BS151         | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                        |
+|            | BS151         | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                           |
 |            | BS161         | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                         |
 |            | BS171         | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                                      |
 |            | BS181         | [BSフジ](../Page/BSフジ.md "wikilink")                                                             |
@@ -56,7 +56,7 @@
 |            | BS200         | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")1                                                  |
 |            | BS201         | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")2                                                  |
 |            | BS202         | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")3                                                  |
-|            | BS211         | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                        |
+|            | BS211         | [BS11](../Page/日本BS放送.md "wikilink")                                                           |
 |            | BS222         | [BS12 トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                          |
 |            | BS258         | [Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")                                        |
 |            | 011           | ナイスチャンネル                                                                                       |

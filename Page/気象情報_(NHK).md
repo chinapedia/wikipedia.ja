@@ -1,7 +1,7 @@
 > この記事は[気象情報 \(NHK\)](https://ja.wikipedia.org/wiki/気象情報_\(NHK\))から翻訳されています。
 
 
-**気象情報** （きしょうじょうほう）は、[NHKの気象情報番組と](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[ニュース番組の](../Page/報道番組.md "wikilink")[気象情報](https://ja.wikipedia.org/wiki/気象情報 "wikilink")コーナーの総称である。本項では[NHK総合テレビの気象情報を中心に扱い](../Page/NHK総合テレビジョン.md "wikilink")、[NHK-BS](../Page/NHK-BS.md "wikilink")や[NHKラジオ](../Page/NHKラジオ.md "wikilink")などの気象情報に関しては補足的に触れる。
+**気象情報**（きしょうじょうほう）は、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[天気予報](../Page/天気予報.md "wikilink")番組と、[ニュース番組の天気予報コーナーの総称である](../Page/報道番組.md "wikilink")。本項では[NHK総合テレビの気象情報を中心に扱い](../Page/NHK総合テレビジョン.md "wikilink")、[NHK-BS](../Page/NHK-BS.md "wikilink")や[NHKラジオ](../Page/NHKラジオ.md "wikilink")などの気象情報に関しては補足的に触れる。
 
 ## 概要
 

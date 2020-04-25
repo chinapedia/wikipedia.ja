@@ -74,7 +74,7 @@
   - ミュージック・ビデオ
 
       -
-[Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ロ短調](https://ja.wikipedia.org/wiki/Category:ロ短調 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink")
+[Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink")
 
 1.
 2.  [9/9いよいよ3rdシングル発売](https://web.archive.org/web/20021001143031/http://www.asayan.com/vocal/morning/0920.html)、ASAYAN.COM、1998年9月20日放送。

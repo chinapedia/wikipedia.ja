@@ -31,7 +31,7 @@
 | 13    |           | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB）                   |
 | 14    | （BS101ch） | [NHK BS1](../Page/NHK_BS1.md "wikilink")                                       |
 | 16    |           | [BS日テレ](../Page/BS日本.md "wikilink")                                            |
-| 17    |           | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                        |
+| 17    |           | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                           |
 | 18    |           | [BS-TBS](../Page/BS-TBS.md "wikilink")                                         |
 | 21    |           | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                      |
 | 22    |           | [BSフジ](../Page/BSフジ.md "wikilink")                                             |

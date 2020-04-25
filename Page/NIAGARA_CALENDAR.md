@@ -306,7 +306,7 @@
 
 <!-- end list -->
 
-  - [子門真人](../Page/子門真人.md "wikilink")、高田ひろお、佐瀬寿一、Wilson Bros、Danny and Juniors、Buddy Holly、[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")、[Al Casey](https://ja.wikipedia.org/wiki/:en:Al_Casey_\(rock_&_roll_guitarist\) "wikilink")、Lee Hazelewood、[Ventures](https://ja.wikipedia.org/wiki/ベンチャーズ "wikilink")、[Dick Dale](https://ja.wikipedia.org/wiki/ディック・デイル "wikilink")、[Duane Eddy](https://ja.wikipedia.org/wiki/:en:Duane_Eddy "wikilink")、Go-Gos、[宮下静雄](https://ja.wikipedia.org/wiki/宮下静雄 "wikilink")（Forever）
+  - [子門真人](../Page/子門真人.md "wikilink")、高田ひろお、佐瀬寿一、Wilson Bros、Danny and Juniors、Buddy Holly、[荒木一郎](../Page/荒木一郎.md "wikilink")、[Al Casey](https://ja.wikipedia.org/wiki/:en:Al_Casey_\(rock_&_roll_guitarist\) "wikilink")、Lee Hazelewood、[Ventures](https://ja.wikipedia.org/wiki/ベンチャーズ "wikilink")、[Dick Dale](https://ja.wikipedia.org/wiki/ディック・デイル "wikilink")、[Duane Eddy](https://ja.wikipedia.org/wiki/:en:Duane_Eddy "wikilink")、Go-Gos、[宮下静雄](https://ja.wikipedia.org/wiki/宮下静雄 "wikilink")（Forever）
 
 ### 8月 : 真夏の昼の夢
 

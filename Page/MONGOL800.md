@@ -732,7 +732,7 @@ VIZL-1013</p></td>
   - 2005年08月14日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2005 〜愛言葉〜
   - 2005年08月28日 - MONSTER baSH 2005
   - 2005年08月30日 - TREASURE052 2005 〜the greatest riot 2nd day〜
-  - 2005年12月04日 - [SPITZ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") JAMBOREE TOUR "あまったれ2005"
+  - 2005年12月04日 - [SPITZ](../Page/スピッツ_\(バンド\).md "wikilink") JAMBOREE TOUR "あまったれ2005"
   - 2006年01月13日 - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") SPACE SONIC TOUR 2005-2006
   - 2006年04月29日 - ARABAKI ROCK FEST.06
   - 2006年06月24日 - MIYAKO ISLAND ROCKFESTIVAL 2006

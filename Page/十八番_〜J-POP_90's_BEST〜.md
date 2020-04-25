@@ -44,7 +44,7 @@ DISC-1:avex club
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/Boys_&amp;_Girls_(浜崎あゆみの曲).md" title="wikilink">Boys &amp; Girls</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>1999年7月14日</p></td>
 <td><p><a href="../Page/花王.md" title="wikilink">花王</a><a href="../Page/ソフィーナ.md" title="wikilink">ソフィーナ</a>「<a href="../Page/AUBE_(化粧品).md" title="wikilink">AUBE</a>」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
 <td></td>
@@ -338,7 +338,7 @@ DISC-3:avex club
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/TO_BE.md" title="wikilink">TO BE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>1999年5月12日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p><a href="../Page/ジェイティフーズ.md" title="wikilink">JT</a>「<a href="../Page/桃の天然水.md" title="wikilink">桃の天然水</a>」CMソング</p></td>
@@ -681,7 +681,7 @@ DISC-5:avex club
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/A_Song_for_××.md" title="wikilink">A Song for ××</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>1999年1月1日</p></td>
 <td><p>avex trax</p></td>
 <td><p>－</p></td>

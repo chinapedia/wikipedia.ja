@@ -7,7 +7,7 @@
 
 [西オーストラリア州](../Page/西オーストラリア州.md "wikilink")[バンバリー生まれ](https://ja.wikipedia.org/wiki/バンバリー_\(西オーストラリア州\) "wikilink")、のち[パースに移った](../Page/パース_\(西オーストラリア州\).md "wikilink")。[1914年](../Page/1914年.md "wikilink")、18歳のとき[デイリー・テレグラフ](../Page/デイリー・テレグラフ.md "wikilink")紙のレポーターとなったが、同年、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")に徴兵される。[1919年](../Page/1919年.md "wikilink")に帰国後、記者に戻り、[1921年](../Page/1921年.md "wikilink")に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の新聞社に勤務するために中国に渡る。後に[北平](../Page/北京市.md "wikilink")（北京、1924-1936年）に移り[クリスチャン・サイエンス・モニター](../Page/クリスチャン・サイエンス・モニター.md "wikilink")、[AP](../Page/AP通信.md "wikilink")、[ロイター](../Page/ロイター.md "wikilink")通信社北京支局記者など様々な新聞の特派員となった。[1928年](../Page/1928年.md "wikilink")から[マンチェスター・ガーディアン](https://ja.wikipedia.org/wiki/マンチェスター・ガーディアン "wikilink")紙特派員。[1934年](../Page/1934年.md "wikilink")からは[ASIA](https://ja.wikipedia.org/wiki/ASIA "wikilink")誌顧問編集者\[3\]。[1936年](../Page/1936年.md "wikilink")5月頃、上海に事務所を移し、1年間マンチェスター・ガーディアン紙の専従特派員となるが、[1937年](../Page/1937年.md "wikilink")5月にAP特派員として[南京](https://ja.wikipedia.org/wiki/南京 "wikilink")へ移動した。
 
-### 南京移住後
+### 南京から上海へ移住
 
 1937年8月28日、鉄道部の広報誌『The Quaterly Review of Chinese Railway』の編集をしていた[エリザベス・J・チェインバース](https://ja.wikipedia.org/wiki/エリザベス・J・チェインバース "wikilink")と南京の英国大使館で結婚した。9月初めに[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")に移り[フランス租界のアパートに居を構えた](../Page/上海租界.md "wikilink")。[第二次上海事変](../Page/第二次上海事変.md "wikilink")に際し、上海国際赤十字の副主席で難民委員会委員長であったフランス人神父[ジャキノ](https://ja.wikipedia.org/wiki/ジャキノ "wikilink")の設立した[南市安全区に関与し](https://ja.wikipedia.org/wiki/第二次上海事変#上海南市難民区 "wikilink")、中国市民の保護に貢献した。
 

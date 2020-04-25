@@ -63,7 +63,7 @@
 ## 関連会社
 
   - 渦潮エンタープライズ株式会社
-  - [大阪機電](https://ja.wikipedia.org/wiki/大阪機電 "wikilink")株式会社
+  - [BEMAC Kiden株式会社](https://ja.wikipedia.org/wiki/大阪機電 "wikilink")
   - [株式会社グリップコーポレイション](http://www.glip.co.jp/htm/small/)
   - FutureRays株式会社
   - [渦潮船舶電機（大連）有限公司 BEMAC CONTROL (DALIAN) INC.](http://www.cn.bemac-cntl.com/)

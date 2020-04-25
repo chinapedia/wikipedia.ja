@@ -316,7 +316,7 @@ DJ STAGE</p>
 <li>HARD-Fi</li>
 <li>The Young Punx!</li>
 <li><a href="../Page/ファラー.md" title="wikilink">Farrah</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
+<li><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ユニコーン_(バンド)" title="wikilink">ユニコーン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
 </ul></td>

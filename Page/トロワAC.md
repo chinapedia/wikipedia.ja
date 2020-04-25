@@ -58,9 +58,7 @@
 
 ## 現所属メンバー
 
-*2018年9月19日現在*\[1\]
-
-([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+\[1\]        ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
 ## 歴代監督
 

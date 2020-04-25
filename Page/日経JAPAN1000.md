@@ -39,4 +39,4 @@ TOPIXに代表される従来の株価指数との大きな違いは、指数を
 
 [Category:報道](https://ja.wikipedia.org/wiki/Category:報道 "wikilink") [Category:株式市場](https://ja.wikipedia.org/wiki/Category:株式市場 "wikilink")
 
-[Category:日本の株価指数](https://ja.wikipedia.org/wiki/Category:日本の株価指数 "wikilink") [Category:名数1000](https://ja.wikipedia.org/wiki/Category:名数1000 "wikilink")
+[Category:日本の株価指数](https://ja.wikipedia.org/wiki/Category:日本の株価指数 "wikilink") [Category:名数1000](https://ja.wikipedia.org/wiki/Category:名数1000 "wikilink") [Category:日本の名数](https://ja.wikipedia.org/wiki/Category:日本の名数 "wikilink")

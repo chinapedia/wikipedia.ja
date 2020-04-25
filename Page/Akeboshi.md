@@ -564,7 +564,7 @@ ESCL-3067:通常盤</p></td>
 
   - [公式サイト](http://www.akeboshi.com/)
 
-  - [EPIC RECORDS JAPANによる公式サイト](http://www.sonymusic.co.jp/Music/Info/Akeboshi/)
+  - [EPIC RECORDS JAPANによる公式サイト](https://www.sonymusic.co.jp/Music/Info/Akeboshi/)
 
   - [Sony Music Online Japanによるアーティストページ](https://www.sonymusic.co.jp/artist/Akeboshi/)
 

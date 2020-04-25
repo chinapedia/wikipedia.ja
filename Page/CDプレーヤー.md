@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[Lettore_CD_Sony_CDP-101_-_Museo_della_Scienza_e_della_Tecnologia_Leonardo_da_Vinci.jpg](https://ja.wikipedia.org/wiki/File:Lettore_CD_Sony_CDP-101_-_Museo_della_Scienza_e_della_Tecnologia_Leonardo_da_Vinci.jpg "fig:Lettore_CD_Sony_CDP-101_-_Museo_della_Scienza_e_della_Tecnologia_Leonardo_da_Vinci.jpg") 世界初の商業的に販売されたCDプレーヤーは1982年10月1日発売ので、カタログ表示価格（標準価格）は168,000円であった。このプレーヤーは当初は日本国内でのみ販売された。最初は、SONYと[CD規格（Red Book)を開発した](https://ja.wikipedia.org/wiki/:en:Rainbow_Books "wikilink")[Philips](https://ja.wikipedia.org/wiki/Philips "wikilink")社とで別のCDプレーヤーを開発・製造し、同時発売によるCD規格の世界的な周知を図っていたが、Philips社側の開発の遅れにより予定期日での発売が不可能となったため、両社の合意によりCDP-101の日本国外発売を6ヶ月延期した\[1\]。これと同日にSONYによってCD 50タイトルも発売された。
+[Lettore_CD_Sony_CDP-101_-_Museo_della_Scienza_e_della_Tecnologia_Leonardo_da_Vinci.jpg](https://ja.wikipedia.org/wiki/File:Lettore_CD_Sony_CDP-101_-_Museo_della_Scienza_e_della_Tecnologia_Leonardo_da_Vinci.jpg "fig:Lettore_CD_Sony_CDP-101_-_Museo_della_Scienza_e_della_Tecnologia_Leonardo_da_Vinci.jpg")。写真はイタリアのの展示品\]\] 世界初の商業的に販売されたCDプレーヤーは1982年10月1日発売のソニー[CDP-101](https://ja.wikipedia.org/wiki/CDP-101 "wikilink")で、カタログ表示価格（標準価格）は168,000円であった。このプレーヤーは当初は日本国内でのみ販売された。最初は、SONYと[CD規格（Red Book)を開発した](https://ja.wikipedia.org/wiki/:en:Rainbow_Books "wikilink")[Philips](https://ja.wikipedia.org/wiki/Philips "wikilink")社とで別のCDプレーヤーを開発・製造し、同時発売によるCD規格の世界的な周知を図っていたが、Philips社側の開発の遅れにより予定期日での発売が不可能となったため、両社の合意によりCDP-101の日本国外発売を6ヶ月延期した\[1\]。これと同日にSONYによってCD 50タイトルも発売された。
 
 [Philips_CD-100.JPG](https://ja.wikipedia.org/wiki/File:Philips_CD-100.JPG "fig:Philips_CD-100.JPG") そしてPhilips社側のCDプレーヤーCD100は、1982年11月に発売された。
 

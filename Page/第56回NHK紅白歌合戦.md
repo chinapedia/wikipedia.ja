@@ -231,7 +231,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 </tr>
 <tr class="even">
 <td><p>33</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a> (7)</p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a> (7)</p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>

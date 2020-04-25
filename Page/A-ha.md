@@ -1,7 +1,7 @@
 > この記事は[A-ha](https://ja.wikipedia.org/wiki/A-ha)から翻訳されています。
 
 
-**a-ha**（**アーハ**、**アハー**）は、[ノルウェー](../Page/ノルウェー.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")・[シンセポップ](https://ja.wikipedia.org/wiki/シンセポップ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1982年](../Page/1982年.md "wikilink")結成。「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")（Take On Me）」の世界的なヒットや『[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")』（The Living Daylights）の主題歌、[1994年](../Page/1994年.md "wikilink")リレハンメルパラリンピックのテーマ曲(Shapes That Go Together)、2009ベルリン世界陸上テーマ曲(Foot of the Mountain)を歌ったグループとして知られる。
+**a-ha**（**アーハ**、**アハー**）は、[ノルウェー](../Page/ノルウェー.md "wikilink")出身の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")・[シンセポップ](https://ja.wikipedia.org/wiki/シンセポップ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1982年](../Page/1982年.md "wikilink")結成。「[テイク・オン・ミー](https://ja.wikipedia.org/wiki/テイク・オン・ミー "wikilink")（Take On Me）」の世界的なヒットや『[007 リビング・デイライツ](../Page/007_リビング・デイライツ.md "wikilink")』（The Living Daylights）の主題歌、[1994年](../Page/1994年.md "wikilink")に開催された、リレハンメルパラリンピックのテーマ曲(Shapes That Go Together)、2009年に開催された、ベルリン世界陸上テーマ曲(Foot of the Mountain)を歌ったグループとして知られる。
 
 ## メンバー
 
@@ -284,6 +284,10 @@
     8月7日東京
     8月8日大阪
 
+## その他
+
+日本では、[1988年](../Page/1988年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")まで[マンダム](../Page/マンダム.md "wikilink")から発売されている化粧品「ギャッツビー」シリーズのテレビCMのイメージキャラクターに起用されたことがある。
+
 ## 脚注
 
 <references/>
@@ -294,7 +298,7 @@
   - [日本テレビ音楽による公式ページ](http://www.ntvm.co.jp/intl/err/index.html)
   - [ワーナーミュージック・ジャパン - A-ha](https://wmg.jp/a-ha/)
 
-[Category:ノルウェーの音楽グループ](https://ja.wikipedia.org/wiki/Category:ノルウェーの音楽グループ "wikilink") [Category:オルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・ロック・バンド "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:ユニバーサル_ミュージック_グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサル_ミュージック_グループのアーティスト "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:2015年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に再結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:ボーイ・バンド](https://ja.wikipedia.org/wiki/Category:ボーイ・バンド "wikilink") [Category:ノルウェーの音楽グループ](https://ja.wikipedia.org/wiki/Category:ノルウェーの音楽グループ "wikilink") [Category:オルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・ロック・バンド "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:ユニバーサル_ミュージック_グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサル_ミュージック_グループのアーティスト "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:2015年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に再結成した音楽グループ "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  （英語）
 2.  [a-ha receives prestigious award](http://www.musicexportnorway.no/a-ha-receives-prestigious-award.5087027-149133.html)Musicexportnorway.no

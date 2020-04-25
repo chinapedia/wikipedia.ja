@@ -310,7 +310,7 @@
 
 ## 外部リンク
 
-  - [JAXA N-Iロケット](http://www.jaxa.jp/projects/rockets/n1/index_j.html)
+  - [JAXA N-Iロケット](https://www.jaxa.jp/projects/rockets/n1/index_j.html)
 
 [Category:日本のロケット](https://ja.wikipedia.org/wiki/Category:日本のロケット "wikilink") [Category:三菱重工業の製品](https://ja.wikipedia.org/wiki/Category:三菱重工業の製品 "wikilink")
 

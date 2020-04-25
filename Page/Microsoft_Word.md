@@ -249,10 +249,10 @@ Windows版のみであるが閲覧用の単独アプリケーションとして*
 ## 外部リンク
 
   - [Microsoft Office Word ホームページ](https://products.office.com/ja-jp/word)
-  - [Microsoft Office Word ヘルプ](https://support.office.com/ja-jp/word)
-  - [Microsoft Office マイクロソフト 公式技術情報](http://technet.microsoft.com/ja-jp/office/default.aspx)
-  - [Office 2016 for Mac](https://products.office.com/ja-jp/mac/microsoft-office-for-mac)
-  - [Office 2016 for iOS](https://products.office.com/ja-jp/mobile/office-mobile-apps-for-ios)
+  - [Microsoft Office Word ヘルプとラーニング](https://support.office.com/ja-jp/word)
+  - [管理者および IT プロフェッショナル向けの Office ドキュメント](https://docs.microsoft.com/ja-jp/office/admins-itprofessionals)
+  - [Office for Mac](https://products.office.com/ja-jp/mac/microsoft-office-for-mac)
+  - [iOS、iPhone、iPad のための Office モバイル アプリ](https://products.office.com/ja-jp/mobile/office-mobile-apps-for-ios)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:1983年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1983年のソフトウェア "wikilink")
 

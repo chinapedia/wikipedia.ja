@@ -1,7 +1,7 @@
 > この記事は[Internet Engineering Task Force](https://ja.wikipedia.org/wiki/Internet_Engineering_Task_Force)から翻訳されています。
 
 
-**The Internet Engineering Task Force** （**IETF**、**インターネット技術特別調査委員会**\[1\]\[2\]） は、[インターネット](../Page/インターネット.md "wikilink")で利用される技術の標準を策定する組織である。
+**The Internet Engineering Task Force** （**IETF**、**インターネット技術特別調査委員会**\[1\]） は、[インターネット](../Page/インターネット.md "wikilink")で利用される技術の標準を策定する組織である。
 
 極めてオープンな組織で、実際の作業を行っている作業部会 (Working group; WG) の[メーリングリスト](../Page/メーリングリスト.md "wikilink")に参加することで、誰でも議論に参加することが可能となっている。
 
@@ -37,4 +37,3 @@
 [Category:標準化団体](https://ja.wikipedia.org/wiki/Category:標準化団体 "wikilink") [Category:インターネットガバナンス](https://ja.wikipedia.org/wiki/Category:インターネットガバナンス "wikilink") [Category:インターネット技術](https://ja.wikipedia.org/wiki/Category:インターネット技術 "wikilink") [Category:国際組織](https://ja.wikipedia.org/wiki/Category:国際組織 "wikilink") [Category:RFC](https://ja.wikipedia.org/wiki/Category:RFC "wikilink")
 
 1.
-2.

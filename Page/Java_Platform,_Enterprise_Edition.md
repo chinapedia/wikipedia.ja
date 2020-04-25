@@ -155,7 +155,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Payara" title="wikilink">Payara</a> Server</p></td>
+<td><p><a href="https://www.payara.fish/">Payara Server</a></p></td>
 <td><p>v5.x</p></td>
 <td><p>4.x</p></td>
 <td></td>

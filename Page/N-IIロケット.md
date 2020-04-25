@@ -321,7 +321,7 @@ N-IIロケットは前身の[N-Iロケット](../Page/N-Iロケット.md "wikili
 
 ## 外部リンク
 
-  - [JAXA N-IIロケット](http://www.jaxa.jp/projects/rockets/n2/index_j.html)
+  - [JAXA N-IIロケット](https://www.jaxa.jp/projects/rockets/n2/index_j.html)
 
 [Category:日本のロケット](https://ja.wikipedia.org/wiki/Category:日本のロケット "wikilink") [Category:三菱重工業の製品](https://ja.wikipedia.org/wiki/Category:三菱重工業の製品 "wikilink")
 

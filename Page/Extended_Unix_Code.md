@@ -18,7 +18,7 @@
 
 [ISO/IEC 2022を基に](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")、以下のようなサブセット化を行った体系である。
 
-  - G0に[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")（主コードセット）を、G1-G3に各言語の[文字集合](../Page/文字集合.md "wikilink")（補助コードセット1-3）を暗黙に指示する。指示のエスケープシーケンスは用いない。
+  - G0に[ASCII](../Page/ASCII.md "wikilink")（主コードセット）を、G1-G3に各言語の[文字集合](../Page/文字集合.md "wikilink")（補助コードセット1-3）を暗黙に指示する。指示のエスケープシーケンスは用いない。
   - GLにG0を、GRにG1を暗黙に呼び出す。G2/G3はシングルシフト2/3によりGRに呼び出す。ロッキングシフトは用いない。
 
 補助コードセットが0x80-0xFFの範囲で表されるため、主コードセットと衝突することがない。すなわち[Shift_JIS](../Page/Shift_JIS.md "wikilink")における[2バイト目が5C等になりうることによる問題が起きないというメリットがある](https://ja.wikipedia.org/wiki/Shift_JIS#2バイト目が5C等になりうることによる問題 "wikilink")。

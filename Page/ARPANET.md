@@ -98,7 +98,7 @@ ARPANET上で最初に送信されたメッセージは、UCLAの学生プログ
 
 1970年にはIMP間の回線として 230.4 kbit/s までをサポートしたが、コストと[IMPの処理能力を考えれば](../Page/Interface_Message_Processor.md "wikilink")、そこまでの通信容量を使い切ることはなかった。
 
-1971年には、堅牢化をしない（そのため非常に軽量な）[Honeywell 316](https://ja.wikipedia.org/wiki/Honeywell_316 "wikilink") を使ったIMPが登場した。これは[端末サーバ](https://ja.wikipedia.org/wiki/端末サーバ "wikilink") Terminal Interface Processor (TIP) としても構成でき、ホストと最大63台の[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")シリアル端末を接続できた\[38\]。316は516より集積化が進んでおり、安価で保守が容易だった。TIPとしての316は40kBの磁気コアメモリを搭載していた。メモリ容量は1973年に拡大され、IMP用には32kB、TIP用には56kBを搭載した。1981年、BBNは自社製のC/30というコンピュータ上で動作するIMPソフトウェアを導入した。
+1971年には、堅牢化をしない（そのため非常に軽量な）[Honeywell 316](https://ja.wikipedia.org/wiki/Honeywell_316 "wikilink") を使ったIMPが登場した。これは[端末サーバ](https://ja.wikipedia.org/wiki/端末サーバ "wikilink") Terminal Interface Processor (TIP) としても構成でき、ホストと最大63台の[ASCII](../Page/ASCII.md "wikilink")シリアル端末を接続できた\[38\]。316は516より集積化が進んでおり、安価で保守が容易だった。TIPとしての316は40kBの磁気コアメモリを搭載していた。メモリ容量は1973年に拡大され、IMP用には32kB、TIP用には56kBを搭載した。1981年、BBNは自社製のC/30というコンピュータ上で動作するIMPソフトウェアを導入した。
 
 1983年、資金提供を行っていた国防省側の方針で、[NCP](../Page/Network_Control_Program.md "wikilink")\[39\]を[TCP/IP](../Page/インターネット・プロトコル・スイート.md "wikilink")\[40\]に切り換えることになり、ARPANETは初期のインターネットのサブネットとなった。これが今日のインターネットにおけるTCP/IPの使用にとって決定的な条件のひとつを作ったと考えられている。
 

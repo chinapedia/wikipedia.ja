@@ -88,6 +88,10 @@
   - [アーケードカード](../Page/アーケードカード.md "wikilink")
   - [天の声BANK](https://ja.wikipedia.org/wiki/PCエンジン#セーブ用外部メモリ "wikilink")
 
+## 備考
+
+2020年に発売された復刻型ゲーム機「[PCエンジン mini](https://ja.wikipedia.org/wiki/PCエンジン_mini "wikilink")」において、PCエンジンGTの液晶を画面上に再現したフィルター機能が搭載されている。
+
 ## トリビア
 
 [映画](../Page/映画.md "wikilink")『[エネミー・オブ・アメリカ](../Page/エネミー・オブ・アメリカ.md "wikilink")』では、同ハードが劇中の重要アイテムとして小道具で使われている。主演の[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")や[ジーン・ハックマン](../Page/ジーン・ハックマン.md "wikilink")も同ハードを手に取るシーンなどもある。

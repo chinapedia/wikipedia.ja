@@ -49,7 +49,7 @@
 <!-- end list -->
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-    ミリオン作「[ズルい女](../Page/ズルい女.md "wikilink")」で大ブレイク。関西発バンドの第一人者となった。「[My Babe 君が眠るまで](../Page/My_Babe_君が眠るまで.md "wikilink")」、アルバム「[勝負師](../Page/勝負師.md "wikilink")(ギャンブラー)」もミリオンを記録（シャ乱Qの[アルバム](../Page/アルバム.md "wikilink")としては、初のミリオンヒット）。[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にトップバッターとして初出場。ライブや音楽番組への出演を精力的に行い、軽妙なトークも受けた。例えば、[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」では、つんくが「**[浜田雅功](../Page/浜田雅功.md "wikilink")に頭をどつかれると売れる法則**」を提唱した。また、ややアイドル的な振る舞いもすることがあり、つんくが当時からアイドルに高い関心を示していたことを伺わせる\[3\]。）
+    ミリオン作「[ズルい女](../Page/ズルい女.md "wikilink")」で大ブレイク。関西発バンドの第一人者となった。「[My Babe 君が眠るまで](../Page/My_Babe_君が眠るまで.md "wikilink")」、アルバム「[勝負師](../Page/勝負師.md "wikilink")(ギャンブラー)」もミリオンを記録（シャ乱Qの[アルバム](../Page/アルバム.md "wikilink")としては、初のミリオンヒット）。[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にトップバッターとして初出場。ライブや音楽番組への出演を精力的に行い、軽妙なトークも受けた。例えば、[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」では、つんくが「**[浜田雅功](../Page/浜田雅功.md "wikilink")に頭をどつかれると売れる法則**」を提唱した。また、ややアイドル的な振る舞いもすることがあり、つんくが当時からアイドルに高い関心を示していたことを伺わせる\[3\]。）
   - [1996年](../Page/1996年.md "wikilink")
     「[いいわけ](../Page/いいわけ.md "wikilink")」がミリオンヒット。アルバム「[シングルベスト10 おまけつき](https://ja.wikipedia.org/wiki/シングルベスト10★おまけつき★ "wikilink")」もミリオンヒットを記録。シングル「[涙の影](../Page/涙の影.md "wikilink")」、アルバム「[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")」で[オリコン週間](../Page/オリコンチャート.md "wikilink")1位を獲得。8月にライブツアー'96夏の乱「桃色頂上作戦」を開催。（内[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")2日連続、[日本武道館](../Page/日本武道館.md "wikilink")5日公演）※他のライブツアー含めると年間通して8日間の[日本武道館](../Page/日本武道館.md "wikilink")公演を開催。10月には、話題となっていた派手なステージ衣装（約2500万円）の盗難にあう。12月、「[有線大賞](../Page/全日本有線放送大賞.md "wikilink")」を受賞し、「[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")」に2回目の出場を果たした。なお、この頃、毎春5月に行なわれた[日本武道館](../Page/日本武道館.md "wikilink")でのライブは充実しており特筆に値する。（一部はビデオ発売されている）
 
@@ -194,14 +194,14 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a></p></td>
-<td><p><strong>18ヶ月</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/18ヶ月" title="wikilink">18ヶ月</a></strong></p></td>
 <td><p>お嬢様</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="https://ja.wikipedia.org/wiki/2月24日" title="wikilink">2月24日</a></p></td>
-<td><p><strong>とってもメリーゴーランド</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/とってもメリーゴーランド" title="wikilink">とってもメリーゴーランド</a></strong></p></td>
 <td><p>かんべんしてくれ!</p></td>
 <td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/日本テレビ系土曜7時台情報番組枠#うるとら7:00" title="wikilink">うるとら7:00</a>」エンディングテーマ<br />
 東海テレビ「<a href="../Page/スペンサーの喫茶店.md" title="wikilink">スペンサーの喫茶店</a>」エンディングテーマ</p></td>
@@ -209,7 +209,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>1993年<a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
-<td><p><strong>友達はいますか</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/友達はいますか" title="wikilink">友達はいますか</a></strong></p></td>
 <td><p>Hey! MR.おぼっちゃん(バブル崩壊編)</p></td>
 <td><p>テレビ東京系「<a href="../Page/スーパーマリオクラブ_(テレビ番組).md" title="wikilink">スーパーマリオクラブ</a>」オープニングテーマ</p></td>
 </tr>
@@ -270,7 +270,7 @@
 <td><p>1996年<a href="../Page/7月24日.md" title="wikilink">7月24日</a></p></td>
 <td><p><em>' <a href="../Page/涙の影.md" title="wikilink">涙の影</a></em>'</p></td>
 <td><p>Moving</p></td>
-<td><p>フジテレビ系「<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>」エンディングテーマ<br />
+<td><p>フジテレビ系「<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>」エンディングテーマ<br />
 c/wはフジテレビ引っ越しキャンペーンソング</p></td>
 </tr>
 <tr class="even">
@@ -460,7 +460,7 @@ c/wはフジテレビ引っ越しキャンペーンソング</p></td>
 
 ### 音楽番組
 
-  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 不定期出演
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 不定期出演
   - [うたばん](../Page/うたばん.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 不定期出演
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - 不定期出演
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")（フジテレビ）

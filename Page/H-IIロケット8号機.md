@@ -33,7 +33,7 @@
 
 ## 外部リンク
 
-  - [H-IIロケット8号機の事故原因とH-IIAロケットへの対策について【要約版】](http://www.jaxa.jp/press/nasda/2000/h28_000414_j.html) NASDAが宇宙開発委員会に提出した報告書
+  - [H-IIロケット8号機の事故原因とH-IIAロケットへの対策について【要約版】](https://www.jaxa.jp/press/nasda/2000/h28_000414_j.html) NASDAが宇宙開発委員会に提出した報告書
   - [「Ｈ―IIロケット8号機」の第１段ロケットの３次調査について](http://www.jamstec.go.jp/jamstec-j/H2topic3/) JAMSTECの報告書
   - [H-2ロケット8号機打ち上げ失敗](http://www.shippai.org/fkd/cf/CB0011004.html) - 失敗データベース
   - [【WLP】失敗に学ぶ-泡が機械を破壊- 「Ｈ－Ⅱロケット８号機の墜落」](https://www.youtube.com/watch?v=k4dc-H4fwII) - [科学技術振興機構](../Page/科学技術振興機構.md "wikilink")公式ムービー

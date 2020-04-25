@@ -22,7 +22,7 @@
 
 結成翌年の[1996年](../Page/1996年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")、[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")と作曲を奥田、作詞を[井上陽水](../Page/井上陽水.md "wikilink")が担当したシングル「[アジアの純真](../Page/アジアの純真.md "wikilink")」で[メジャーデビューした](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。デビュー後にはPV撮影の為に渡米し、アメリカ大陸を2週間かけて横断した(この模様は『[これが私の生きる道](../Page/これが私の生きる道.md "wikilink")』のPVおよびビデオ・フォトブック『RUN\!PUFFY\!RUN\!』に収められている)。その後もアルバム『[amiyumi](https://ja.wikipedia.org/wiki/amiyumi "wikilink")』、2ndシングル『[これが私の生きる道](../Page/これが私の生きる道.md "wikilink")』 と相次いで奥田プロデュースの作品を発表し、この曲は翌春の[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")の入場曲に使用された。その年の音楽新人賞を総なめにした。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")であるバラエティ番組『[パパパパパフィー](../Page/パパパパパフィー.md "wikilink")』がテレビ朝日系列で放送開始され、2002年3月31日まで放送された。この番組は、デビュー直後に出演したフジテレビ系の音楽番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（1996年10月28日放送）において、司会の[松本人志](../Page/松本人志.md "wikilink")が二人の性格に対して「その様なことでは、もし冠番組を持ったときにどうするのか」として、司会の予行演習を行わせようとした際に提案した架空のテレビ番組の名をそのまま採用して生まれたものであった。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月に初の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")であるバラエティ番組『[パパパパパフィー](../Page/パパパパパフィー.md "wikilink")』がテレビ朝日系列で放送開始され、2002年3月31日まで放送された。この番組は、デビュー直後に出演したフジテレビ系の音楽番組『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（1996年10月28日放送）において、司会の[松本人志](../Page/松本人志.md "wikilink")が二人の性格に対して「その様なことでは、もし冠番組を持ったときにどうするのか」として、司会の予行演習を行わせようとした際に提案した架空のテレビ番組の名をそのまま採用して生まれたものであった。
 
 ### 人気の拡大 (1998年 - 2001年頃)
 
@@ -188,27 +188,34 @@
 
 #### オリジナルアルバム
 
-1.  [amiyumi](https://ja.wikipedia.org/wiki/amiyumi "wikilink")（1996年7月22日）
-2.  [JET CD](https://ja.wikipedia.org/wiki/JET_CD "wikilink")（1998年4月1日）（**[ミリオンヒット](https://ja.wikipedia.org/wiki/ミリオンヒット "wikilink")**、台湾、香港でも発売）
-3.  [FEVER\*FEVER](../Page/FEVER*FEVER.md "wikilink")（1999年6月23日）（台湾、香港でも発売）
-4.  [SPIKE](../Page/SPIKE.md "wikilink")（2000年10月12日、2002年5月にアメリカでインディーズレーベルで発売）
-5.  [THE HIT PARADE](https://ja.wikipedia.org/wiki/THE_HIT_PARADE_\(PUFFYのアルバム\) "wikilink") （2002年2月20日 カバーアルバム）
-6.  [NICE.](../Page/NICE..md "wikilink") （2003年1月22日 [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")でも発売。但し収録曲が若干異なる。ジャケットも日本盤とは異なり、ジョンとヨーコの平和のベッド・インを模したもの。）
-7.  [59](../Page/59_\(アルバム\).md "wikilink")（2004年3月31日）
-8.  Hi Hi Puffy AmiYumi（2005年5月11日、2004年11月に全米で先行発売）
-9.  [Splurge](../Page/Splurge.md "wikilink")（2006年6月28日 デビュー10周年記念アルバム）
-10. [honeycreeper](https://ja.wikipedia.org/wiki/honeycreeper "wikilink")（2007年9月26日、2010年全米配信リリース）
-11. [Bring it\!](https://ja.wikipedia.org/wiki/Bring_it! "wikilink")（2009年6月17日、7月2日にはフランスでも発売、2010年全米配信リリース）
-12. [Thank You\!](https://ja.wikipedia.org/wiki/Thank_You!_\(PUFFYのアルバム\) "wikilink")（2011年3月9日）
+| |    | |発表日        | |タイトル                                                                                 | |規格品番     | |備考                                                                                                                                                                  |
+| ---- | ----------- | ------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st  | 1996年7月22日  | **[amiyumi](https://ja.wikipedia.org/wiki/amiyumi "wikilink")**                       | ESCB-1722 |                                                                                                                                                                      |
+| 2nd  | 1998年4月1日   | **[JET CD](https://ja.wikipedia.org/wiki/JET_CD "wikilink")**                         | ESCB-1871 | ミリオンヒット、台湾、香港でも発売                                                                                                                                                    |
+| 3rd  | 1999年6月23日  | **[FEVER\*FEVER](../Page/FEVER*FEVER.md "wikilink")**                                 | ESCB-1995 | 台湾、香港でも発売                                                                                                                                                            |
+| 4th  | 2000年10月12日 | **[SPIKE](../Page/SPIKE.md "wikilink")**                                              | ESCB-2174 | 2002年5月にアメリカでインディーズレーベルで発売                                                                                                                                           |
+| 5th  | 2003年1月22日  | **[NICE.](../Page/NICE..md "wikilink")**                                              | ESCL-2357 | [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")でも発売。但し収録曲が若干異なる。ジャケットも日本盤とは異なり、ジョンとヨーコの平和のベッド・インを模したもの。 |
+| 6th  | 2004年3月31日  | **[59](../Page/59_\(アルバム\).md "wikilink")**                                           | ESCL-2680 | ミニ・アルバム                                                                                                                                                              |
+| 7th  | 2005年5月11日  | **Hi Hi Puffy AmiYumi**                                                               | KSCL-820  | 2004年11月に全米で先行発売                                                                                                                                                     |
+| 8th  | 2006年6月28日  | **[Splurge](../Page/Splurge.md "wikilink")**                                          | KSCL-1010 | デビュー10周年記念アルバム                                                                                                                                                       |
+| 9th  | 2007年9月26日  | **[honeycreeper](https://ja.wikipedia.org/wiki/honeycreeper "wikilink")**             | KSCL-1174 | 2010年全米配信リリース                                                                                                                                                        |
+| 10th | 2009年6月17日  | **[Bring it\!](https://ja.wikipedia.org/wiki/Bring_it! "wikilink")**                  | KSCL-1389 | 7月2日にフランスで発売、2010年全米配信リリース                                                                                                                                           |
+| 11th | 2011年3月9日   | **[Thank You\!](https://ja.wikipedia.org/wiki/Thank_You!_\(PUFFYのアルバム\) "wikilink")** | KSCL-1748 |                                                                                                                                                                      |
+
+#### カバーアルバム
+
+| |発表日       | |タイトル                                                                         | |規格品番     | |備考           |
+| ---------- | ----------------------------------------------------------------------------- | --------- | ------------- |
+| 2002年2月20日 | **[THE HIT PARADE](https://ja.wikipedia.org/wiki/THE_HIT_PARADE "wikilink")** | ESCL-2288 |               |
+| 2009年3月25日 | '''PUFFY AMIYUMI×PUFFY '''                                                    | KSCL-1371 | カバー曲のコンピレーション |
 
 #### ベストアルバム
 
 1.  [The Very Best of Puffy / amiyumi jet fever](https://ja.wikipedia.org/wiki/The_Very_Best_of_Puffy_/_amiyumi_jet_fever "wikilink")（2000年7月5日）
 2.  An Illustrated History (2002年5月21日、北米圏のみで発売)
 3.  [Hit\&Fun](../Page/Hit&Fun.md "wikilink")（2007年2月14日、韓国、台湾、香港、マレーシア、シンガポールでも発売）
-4.  PUFFY AMIYUMI × PUFFY（2009年3月25日、カバー曲をコンパイルしたアルバム）
-5.  [15](https://ja.wikipedia.org/wiki/15_\(PUFFYのアルバム\) "wikilink")（2011年11月23日）
-6.  [非脱力派宣言](https://ja.wikipedia.org/wiki/非脱力派宣言 "wikilink")（2016年4月6日）
+4.  [15](https://ja.wikipedia.org/wiki/15_\(PUFFYのアルバム\) "wikilink")（2011年11月23日）
+5.  [非脱力派宣言](https://ja.wikipedia.org/wiki/非脱力派宣言 "wikilink")（2016年4月6日）
 
 #### 企画アルバム
 

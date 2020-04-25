@@ -44,7 +44,6 @@
   - [シーイーエヌソリューションズ](https://ja.wikipedia.org/wiki/シーイーエヌソリューションズ "wikilink")
   - [シー・キューブド・アイ・システムズ](https://ja.wikipedia.org/wiki/シー・キューブド・アイ・システムズ "wikilink")
   - [静岡日電ビジネス](../Page/静岡日電ビジネス.md "wikilink")【NEC静岡ビジネス】
-  - [昭和オプトロニクス](https://ja.wikipedia.org/wiki/昭和オプトロニクス "wikilink")
   - [シンシア](https://ja.wikipedia.org/wiki/シンシア_\(東京都品川区\) "wikilink")
   - [セイ・テクノロジーズ](https://ja.wikipedia.org/wiki/セイ・テクノロジーズ "wikilink")
   - [高砂製作所](https://ja.wikipedia.org/wiki/高砂製作所 "wikilink")
@@ -149,6 +148,7 @@
   - [NLTテクノロジー](https://ja.wikipedia.org/wiki/NLTテクノロジー "wikilink") - 旧NEC液晶テクノロジー。2011年に深セン中航光電子に保有株式の70%を売却、その時点では持分法適用会社であったが、2012年度中に持分法適用対象外となり、グループより外れる\[30\]。
   - [エルピーダメモリ](https://ja.wikipedia.org/wiki/マイクロンメモリジャパン "wikilink") - [日立製作所](../Page/日立製作所.md "wikilink")と合弁で作られたメモリ専業メーカー。2005年9月にNECと日立が保有株式の一部を売却し、同社の連結決算上の持分法対象外となった。その後、[会社更生法](../Page/会社更生法.md "wikilink")適用を受けてアメリカの[マイクロン・テクノロジ](../Page/マイクロン・テクノロジ.md "wikilink")傘下となり、2014年2月28日に[マイクロンメモリジャパン](https://ja.wikipedia.org/wiki/マイクロンメモリジャパン "wikilink")に改称。
   - オートモーティブエナジーサプライ - [日産自動車](../Page/日産自動車.md "wikilink")と共同出資で設立した自動車用電池事業会社。2019年1月末に両社の保有株式を中国のエンビジョングループに売却して離脱\[31\]。
+  - [昭和オプトロニクス](https://ja.wikipedia.org/wiki/昭和オプトロニクス "wikilink") - [京セラ](../Page/京セラ.md "wikilink")が、NECが保有する93.53％分の株式全てを譲り受ける。
   - セブンインターネットラボ - 2012年10月、[セブンネットショッピング](../Page/セブンネットショッピング.md "wikilink")に吸収合併。
   - ソニーNECオプティアーク - 現・[ソニーオプティアーク](https://ja.wikipedia.org/wiki/ソニーオプティアーク "wikilink")。
   - 多摩電気工業 - 株式交換により現在は[KOA完全子会社](https://ja.wikipedia.org/wiki/コーア "wikilink")。現・真田KOA（2014年4月より）。液晶ディスプレイ用バックライト事業は、多摩ファインオプトとして分離後に、[オムロン](../Page/オムロン.md "wikilink")の完全子会社を経て2009年9月に解散。

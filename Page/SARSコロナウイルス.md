@@ -1,17 +1,17 @@
 > この記事は[SARSコロナウイルス](https://ja.wikipedia.org/wiki/SARSコロナウイルス)から翻訳されています。
 
 
-**SARSコロナウイルス**（サーズコロナウイルス、）は[一本鎖プラス鎖RNAウイルス](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")で、[SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV) に属する[コロナウイルス](../Page/コロナウイルス.md "wikilink")。[2003](../Page/2003.md "wikilink")年に流行した[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (Severe acute respiratory syndrome = **SARS**) の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")として同定された。通称 **SARSウイルス**。[飛沫感染により広がるとみられている](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")。
+**SARSコロナウイルス**（サーズコロナウイルス、）は[一本鎖プラス鎖RNAウイルス](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")で、[SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV) に属する[コロナウイルス](../Page/コロナウイルス.md "wikilink")。[2003年](../Page/2003年.md "wikilink")に流行した[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (Severe acute respiratory syndrome = **SARS**) の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")として同定された。通称 **SARSウイルス**。[飛沫感染により広がるとみられている](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")。
 
 ## 状況推移
 
-[中国](../Page/中華人民共和国.md "wikilink")[広東省](../Page/広東省.md "wikilink")を起点とし、[2003年](../Page/2003年.md "wikilink")3月頃から大流行の兆しを見せ始めたSARSの原因が新種のウイルスにある可能性は、[2002年](../Page/2002年.md "wikilink")11月頃から指摘されていた。
+[中華人民共和国](../Page/中華人民共和国.md "wikilink")[広東省](../Page/広東省.md "wikilink")を起点とし、[2003年](../Page/2003年.md "wikilink")3月頃から大流行の兆しを見せ始めた、[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink")の原因が『新種の[ウイルス](../Page/ウイルス.md "wikilink")である』可能性は、[2002年](../Page/2002年.md "wikilink")11月頃から指摘されていた。
 
   - 2003年
 
 <!-- end list -->
 
-  - 3月下旬、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")のテレビ報道で謎の新病発生と報道される。
+  - 3月下旬、[中華民国](../Page/中華民国.md "wikilink")のテレビ報道で「謎の新病発生」と報道される。
   - [3月27日](../Page/3月27日.md "wikilink")、[香港大学](../Page/香港大学.md "wikilink")の研究チームがSARSの原因が新種のコロナウイルスと特定したと発表（[コッホの四原則に適合](../Page/コッホの原則.md "wikilink")）。
   - [4月1日](../Page/4月1日.md "wikilink")、[世界保健機関](../Page/世界保健機関.md "wikilink") (WHO) はコロナウイルスが主な原因との見解を公表。
   - [4月10日](../Page/4月10日.md "wikilink")、SARS患者から検出されたコロナウイルスの遺伝子配列が、既知の種のものとは大きく異なっているとのベルンハルト・ノッホ研究所（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")）等による解析結果が発表された。

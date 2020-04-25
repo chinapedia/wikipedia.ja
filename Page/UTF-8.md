@@ -5,7 +5,7 @@
 
 正式名称は、ISO/IEC 10646では “UCS Transformation Format 8”、Unicodeでは “Unicode Transformation Format-8” という。両者はISO/IEC 10646とUnicodeのコード重複範囲で互換性がある。[RFCにも仕様がある](../Page/Request_for_Comments.md "wikilink")\[1\]。
 
-2バイト目以降に「/」などの[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字が現れないように工夫されていることから、**UTF-FSS** (File System Safe) ともいわれる。旧名称はUTF-2。
+2バイト目以降に「/」などの[ASCII](../Page/ASCII.md "wikilink")文字が現れないように工夫されていることから、**UTF-FSS** (File System Safe) ともいわれる。旧名称はUTF-2。
 
 UTF-8は、データ交換方式・ファイル形式として一般的に使われる傾向にある。
 
@@ -13,7 +13,7 @@ UTF-8は、データ交換方式・ファイル形式として一般的に使わ
 
 ## エンコード体系
 
-[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字と互換性を持たせるために、ASCIIと同じ部分は1バイト、その他の部分を2-6バイトで符号化する。4バイトのシーケンスでは21bit (0x1FFFFF) まで表現することができるが、Unicodeの範囲外となる17面以降を表すもの（U+10FFFFより大きなもの）は受け付けない。
+[ASCII](../Page/ASCII.md "wikilink")文字と互換性を持たせるために、ASCIIと同じ部分は1バイト、その他の部分を2-6バイトで符号化する。4バイトのシーケンスでは21bit (0x1FFFFF) まで表現することができるが、Unicodeの範囲外となる17面以降を表すもの（U+10FFFFより大きなもの）は受け付けない。
 
 また、5-6バイトの表現は、ISO/IEC 10646による定義\[4\]と[IETFによるかつての定義](../Page/Internet_Engineering_Task_Force.md "wikilink")\[5\]で、Unicodeの範囲外を符号化するためにのみ使用するが、Unicodeによる定義\[6\]とIETFによる最新の定義\[7\]では、5-6バイトの表現は不正なシーケンスである。
 
@@ -183,7 +183,7 @@ ISO/IEC 10646の定義が5バイト以上の表現を許容していることに
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>U+0000 - U+007F</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ASCII" title="wikilink">ASCII</a></p></td>
+<td><p><a href="../Page/ASCII.md" title="wikilink">ASCII</a></p></td>
 <td><p>Roman（<a href="../Page/円記号.md" title="wikilink">円記号</a>・<a href="../Page/オーバーライン.md" title="wikilink">オーバーライン</a>以外）</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>

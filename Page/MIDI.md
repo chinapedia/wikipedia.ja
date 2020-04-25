@@ -1,11 +1,13 @@
 > この記事は[MIDI](https://ja.wikipedia.org/wiki/MIDI)から翻訳されています。
 
 
-**MIDI**（ミディ、**M**usical **I**nstrument **D**igital **I**nterface）は、[電子楽器](../Page/電子楽器.md "wikilink")の演奏データを機器間で転送・共有するための共通規格である\[1\]。物理的な送受信回路・[インタフェース](../Page/インタフェース_\(情報技術\).md "wikilink")、通信[プロトコル](../Page/プロトコル.md "wikilink")、[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")など複数の規定からなる。日本のMIDI規格協議会（JMSC、現在の社団法人[音楽電子事業協会](https://ja.wikipedia.org/wiki/音楽電子事業協会 "wikilink")）と国際団体の[MIDI Manufacturers Association](https://ja.wikipedia.org/wiki/MIDI_Manufacturers_Association "wikilink") (MMA) により策定され1981年に公開された。MIDI 1.0の策定完了から38年後の[2019年](../Page/2019年.md "wikilink")に、Ver.2.0となるMIDI 2.0の策定開始が発表された\[2\]。
+**MIDI**（ミディ、**M**usical **I**nstrument **D**igital **I**nterface）は、[電子楽器](../Page/電子楽器.md "wikilink")の演奏データを機器間で転送・共有するための共通規格である\[1\]。日本のMIDI規格協議会（JMSC、現在の社団法人[音楽電子事業協会](https://ja.wikipedia.org/wiki/音楽電子事業協会 "wikilink")）と国際団体の[MIDI Manufacturers Association](https://ja.wikipedia.org/wiki/MIDI_Manufacturers_Association "wikilink") (MMA) により策定され1981年に公開された。
 
 ## 概要
 
 MIDIは音楽制作の現場で幅広く利用されている。MIDI規格に則って作成されたデータは、[DAWをはじめとした](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink")[シーケンサーなどで再生](../Page/ミュージックシーケンサー.md "wikilink")・編集することができる。
+
+物理的な送受信回路・[インタフェース](../Page/インタフェース_\(情報技術\).md "wikilink")、通信[プロトコル](../Page/プロトコル.md "wikilink")、[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")など複数の規定からなる。MIDI 1.0の策定完了から38年後の[2019年](../Page/2019年.md "wikilink")に、Ver.2.0となるMIDI 2.0の策定開始が発表された\[2\]。
 
 MIDIデータは、音声データ（マイクなどで録音した音の波形を[サンプリングしたもの](https://ja.wikipedia.org/wiki/標本化 "wikilink")）ではなく演奏情報（発音せよ、音の高さは - 、音の大きさは - 、といった楽器や音源への[メッセージ](../Page/メッセージ_\(コンピュータ\).md "wikilink")）であり、データサイズが小さく、また音楽の細部を容易に変更することができる。
 
@@ -186,7 +188,7 @@ MIDIメッセージは大抵2バイト程度のデータバイトで成り立つ
 
 [サンプルダンプとは](https://ja.wikipedia.org/wiki/システムエクスクルーシブ "wikilink")、システムエクスクルーシブメッセージを使用して[サンプラー](../Page/サンプラー.md "wikilink")とMIDI機器間で[サンプリング](../Page/サンプリング.md "wikilink")データを通信する規格である。サンプルダンプに関するフォーマットをサンプルダンプスタンダード (SDS) という。[MMAが](https://ja.wikipedia.org/wiki/MIDI_Manufacturers_Association "wikilink")1987年に提案した規格で、MMA-0003として定義されている。
 
-ただし、前述の通りMIDIの通信速度は31.25Kbpsと、データ転送用途としては非常に遅い上、現代には[USBや](../Page/ユニバーサル・シリアル・バス.md "wikilink")[IEEE 1394などの高速](../Page/IEEE_1394.md "wikilink")[シリアルバス普及しているため](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")、一部の学習・研究用途を除き使われることは無くなった。
+ただし、前述の通りMIDIの通信速度は31.25Kbpsと、データ転送用途としては非常に遅い上、現代には[USBや](../Page/ユニバーサル・シリアル・バス.md "wikilink")[IEEE 1394などの高速](../Page/IEEE_1394.md "wikilink")[シリアルバスも普及しているため](https://ja.wikipedia.org/wiki/シリアル通信 "wikilink")、一部の学習・研究用途を除き使われることは無くなった。
 
 ## RP
 

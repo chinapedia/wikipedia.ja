@@ -1,9 +1,11 @@
 > この記事は[Eclipse \(統合開発環境\)](https://ja.wikipedia.org/wiki/Eclipse_\(統合開発環境\))から翻訳されています。
 
 
-**Eclipse**（「エクリプス」または「イクリプス」）は、[IBM](../Page/IBM.md "wikilink")によって開発された[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) の一つ。高機能ながら[オープンソース](../Page/オープンソース.md "wikilink")であり、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")をはじめとするいくつかの言語に対応する。Eclipse自体はJavaで記述されている。
+**Eclipse**（、イクリプス）は[コンピュータプログラミングにおいて使用される統合開発環境](../Page/プログラミング.md "wikilink")（IDE）である\[1\]。ベースとなるワークスペースと、環境をカスタマイズするための拡張可能なプラグインシステムが含まれている。Eclipseは主に[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で書かれており、主にJavaアプリケーションの開発に使用されるが、[Ada](../Page/Ada.md "wikilink") 、[ABAP](https://ja.wikipedia.org/wiki/ABAP "wikilink")、[C](../Page/C言語.md "wikilink") 、[C ++](../Page/C++.md "wikilink") 、[C＃](../Page/C_Sharp.md "wikilink") 、[Clojure](https://ja.wikipedia.org/wiki/Clojure "wikilink") 、[COBOL](../Page/COBOL.md "wikilink") 、[D](../Page/D言語.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")、[Fortran](../Page/FORTRAN.md "wikilink") 、[Groovy](../Page/Groovy.md "wikilink") 、[Haskell](../Page/Haskell.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Julia](https://ja.wikipedia.org/wiki/Julia_\(プログラミング言語\) "wikilink")、\[2\] [Lasso](https://ja.wikipedia.org/wiki/投げ縄（プログラミング言語） "wikilink")、[Lua](../Page/Lua.md "wikilink")、[NATURAL](https://ja.wikipedia.org/wiki/ソフトウェアAG "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")、[Prolog](https://ja.wikipedia.org/wiki/Prolog "wikilink")、[Python](../Page/Python.md "wikilink")、[R](../Page/R言語.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")（[Ruby on Railsフレームワークを含む](../Page/Ruby_on_Rails.md "wikilink")）、[Rust](https://ja.wikipedia.org/wiki/Rust_\(プログラミング言語\) "wikilink")、[Scala](../Page/Scala.md "wikilink")、[Scheme](../Page/Scheme.md "wikilink")などのプラグインを介して他のプログラミング言語のアプリケーションを開発するために使用することもできる。また，[LaTeX](../Page/LaTeX.md "wikilink")(TeXlipseプラグイン経由)やソフトウェア[Mathematica](../Page/Mathematica.md "wikilink")のパッケージを使ったドキュメントの開発にも利用できる。開発環境としては，JavaやScala用のEclipse Java開発ツール(JDT)，C/C++用のEclipse CDT，PHP用のEclipse PDTなどを含んでいる。
 
-名称のEclipseとは「食（蝕）」の意の[英語](../Page/英語.md "wikilink")で、[日食](../Page/日食.md "wikilink")や[月食](../Page/月食.md "wikilink")を指すが、[Javaを開発した米](../Page/Javaプラットフォーム.md "wikilink")[Sun Microsystems社とは無関係である](../Page/サン・マイクロシステムズ.md "wikilink")\[1\]。
+初期のコードベースはIBM [VisualAge](https://ja.wikipedia.org/wiki/VisualAge "wikilink")に由来している。Java開発ツールを含むEclipse[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")（SDK）は、Java開発者向けのものである。ユーザーは、他のプログラミング言語の開発ツールキットなど、Eclipseプラットフォーム用に書かれたプラグインをインストールすることで、その機能を拡張することができ、独自のプラグインモジュールを書いてコントリビュートすることができる。Eclipseのバージョン3で[OSGi](../Page/OSGi.md "wikilink")実装(Equinox)が導入されて以来、プラグインは動的に停止することができ、(OSGI)バンドルと呼ばれている。
+
+Eclipse [ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink") （SDK）は[フリーでオープンソースのソフトウェアであり](https://ja.wikipedia.org/wiki/FLOSS "wikilink")、 [Eclipse Public Licenseの条件に基づいてリリースされているが](https://ja.wikipedia.org/wiki/Eclipse_Public_License "wikilink")、 [GNU General Public Licenseとは互換性がない](../Page/GNU_General_Public_License.md "wikilink")。 \[3\] これは、[GNU Classpathで実行される最初のIDEの](../Page/GNU_Classpath.md "wikilink")1つであり、[IcedTea](https://ja.wikipedia.org/wiki/IcedTea "wikilink")で問題なく実行される。
 
 ## 歴史
 
@@ -11,7 +13,7 @@ Eclipseの歴史は1990年代後半から始まる。当時の状況は、[JBuil
 
 その後、IBMはこのプラットフォームに搭載するツールの開発のために組織の編成を行い、さらにオープンソース化することで新しい開発者の引き込みを図った。2001年11月、IBMはEclipseをオープンソース化するとともに、他の組織 ([ボーランド](../Page/ボーランド.md "wikilink")、[MERANT](https://ja.wikipedia.org/wiki/マイクロフォーカス "wikilink")、[QNX Software Systems](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")、[ラショナル](../Page/ラショナル.md "wikilink")ソフトウェア、[レッドハット](../Page/レッドハット.md "wikilink")、[SuSE](../Page/SUSE.md "wikilink")、、) と共同で初期のEclipse.orgであるEclipse Board of Stewardsを設立する。公開されたEclipseはたちまちのうちに多くの開発者の興味を惹くこととなった。同年IBMはVisualAgeの後継製品として、EclipseをベースにWebSphere Studioを開発、リリースした。 また、2003年の終わりには、Eclipse Board of Stewardsの参加メンバーも80を越えている。
 
-しかし爆発的人気の陰で、Eclipseは、IBM以外の他団体から新たなツールが提供されないという問題を抱えていた。それは、IBMがEclipseの制御権を握っているという認識によるものであった。IBM側にも「EclipseはWebSphere Studioの共通基盤であるWebSphere Studio Workbenchの一部を公開した物である」という認識が存在した。\[2\]Eclipseの勢いを止めないために、IBMとEclipseを切り離すことが必要とされた。2004年2月2日、Eclipse Board of Stewardsは、Eclipse組織の再構築を発表した。非営利組織[Eclipse Foundationの結成と](../Page/Eclipse_Foundation.md "wikilink")、Eclipseの全てをEclipse Foundationに移管することで、全ての団体や開発者を対等に扱うこととなった。このEclipse Foundationから、Eclipse 3.0、3.1、3.2がリリースされている。現在Eclipse Foundationは、115以上のメンバー企業、50以上のサブプロジェクトを抱えるオープンソース組織に成長している。
+しかし爆発的人気の陰で、Eclipseは、IBM以外の他団体から新たなツールが提供されないという問題を抱えていた。それは、IBMがEclipseの制御権を握っているという認識によるものであった。IBM側にも「EclipseはWebSphere Studioの共通基盤であるWebSphere Studio Workbenchの一部を公開した物である」という認識が存在した。\[4\]Eclipseの勢いを止めないために、IBMとEclipseを切り離すことが必要とされた。2004年2月2日、Eclipse Board of Stewardsは、Eclipse組織の再構築を発表した。非営利組織[Eclipse Foundationの結成と](../Page/Eclipse_Foundation.md "wikilink")、Eclipseの全てをEclipse Foundationに移管することで、全ての団体や開発者を対等に扱うこととなった。このEclipse Foundationから、Eclipse 3.0、3.1、3.2がリリースされている。現在Eclipse Foundationは、115以上のメンバー企業、50以上のサブプロジェクトを抱えるオープンソース組織に成長している。
 
 2006年、Eclipse Foundationは、Eclipse 3.2に10のオープンソースプロジェクトを合わせたリリースを行った。この製品は、Eclipse Callistoと呼ばれている。現在では毎年6月に同時リリース (Simultaneous Release)、その後9月と2月にそれぞれSR1とSR2 (Service Release) が行われている。同時リリースにはコードネームが付与されており、3.4までは[ガリレオ衛星](../Page/ガリレオ衛星.md "wikilink")に因んだ名が付けられていたが、3.5で予定されていた[Ioは](../Page/イオ_\(衛星\).md "wikilink")[I/Oと誤認されるおそれがあるため](../Page/入出力.md "wikilink")、ガリレオ衛星発見者の[ガリレオ・ガリレイ](../Page/ガリレオ・ガリレイ.md "wikilink")よりとった名称であるGalileoへと変更された。また、2010年リリースの3.6はHelios（ギリシア神話の太陽神である[ヘーリオス](../Page/ヘーリオス.md "wikilink")）と名付けられている。なお、Galileoからは頭文字がアルファベット順となるような名称が投票で選ばれている。
 
@@ -173,11 +175,11 @@ SWTの利用時において、生産性を上げるために、JFaceというク
   - [OCaml Development Tools (ODT)](http://ocamldt.free.fr/)
     Objective Caml開発を可能にするプラグイン。
   - ADT (Android Development Tools) プラグイン
-    [Google](../Page/Google.md "wikilink")が開発した携帯電話用プラットフォームである[Android](../Page/Android.md "wikilink")用のプロジェクトの作成、ビルド、エミュレータの起動を行うためのプラグインであり、[Google](../Page/Google.md "wikilink")から公式IDEとして認定されていたが、2015年6月に、同年末で開発・サポートを終了することが発表され\[3\]、実際に開発・サポートが終了した。
+    [Google](../Page/Google.md "wikilink")が開発した携帯電話用プラットフォームである[Android](../Page/Android.md "wikilink")用のプロジェクトの作成、ビルド、エミュレータの起動を行うためのプラグインであり、[Google](../Page/Google.md "wikilink")から公式IDEとして認定されていたが、2015年6月に、同年末で開発・サポートを終了することが発表され\[5\]、実際に開発・サポートが終了した。
   - Google Plugin for Eclipse
     [Google](../Page/Google.md "wikilink")が開発した[Google Web Toolkitと](https://ja.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")[Google App Engineによるウェブアプリケーションのプロジェクト作成](https://ja.wikipedia.org/wiki/Google_App_Engine "wikilink")、ローカルサーバーでの実行、Googleのインフラストラクチャへのデプロイ、などを行う。
   - [Force.com IDE](https://developer.salesforce.com/page/JP_Force.com_IDE?useskin=dfcjskin)
-    [セールスフォース・ドットコム](https://ja.wikipedia.org/wiki/セールスフォース・ドットコム "wikilink")の提供するクラウドプラットフォームのForce.com上で動作するForce.comアプリケーションの開発を可能にするプラグイン。2019年10月12日に廃止され、[Visual Studio Code用プラグイン](https://ja.wikipedia.org/wiki/Visual_Studio_Code "wikilink")[Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)へ置き換えられた。\[4\]
+    [セールスフォース・ドットコム](https://ja.wikipedia.org/wiki/セールスフォース・ドットコム "wikilink")の提供するクラウドプラットフォームのForce.com上で動作するForce.comアプリケーションの開発を可能にするプラグイン。2019年10月12日に廃止され、[Visual Studio Code用プラグイン](https://ja.wikipedia.org/wiki/Visual_Studio_Code "wikilink")[Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)へ置き換えられた。\[6\]
   - [Wolfram Workbench](https://www.wolfram.com/workbench/)
     [ウルフラム・リサーチ](../Page/ウルフラム・リサーチ.md "wikilink")社の提供する、[Mathematica](../Page/Mathematica.md "wikilink")開発環境を提供するプラグイン。有償。
 
@@ -201,7 +203,7 @@ SWTの利用時において、生産性を上げるために、JFaceというク
 プラグインによる高い拡張性と、後述する[Eclipse Public License](https://ja.wikipedia.org/wiki/Eclipse_Public_License "wikilink") (EPL) が完全な[コピーレフト](../Page/コピーレフト.md "wikilink")ではなく再配布も認めている事から、生みの親であるIBMに限らず様々な企業、団体からEclipseをベースとした有償、無償の製品が公開されている。また、それらは[IDE](https://ja.wikipedia.org/wiki/IDE "wikilink")に限らない。
 
   - WebSphere Studio
-    VisualAge の後継製品となるIBM [WebSphere](../Page/WebSphere.md "wikilink")ブランドの[統合開発環境](../Page/統合開発環境.md "wikilink")。Eclipseに有料プラグイン製品を組み合わせた製品であり、そういった観点では上記の有償プラグイン各種と変わらない。\[5\]Eclipse相当の共通基盤はWebSphere Studio Workbenchと呼ぶ。現在は営業活動が終了し、Rational Application Developerに置換されている。
+    VisualAge の後継製品となるIBM [WebSphere](../Page/WebSphere.md "wikilink")ブランドの[統合開発環境](../Page/統合開発環境.md "wikilink")。Eclipseに有料プラグイン製品を組み合わせた製品であり、そういった観点では上記の有償プラグイン各種と変わらない。\[7\]Eclipse相当の共通基盤はWebSphere Studio Workbenchと呼ぶ。現在は営業活動が終了し、Rational Application Developerに置換されている。
 
   -
     WebSphere Studioの後継製品。IBM [Rational](https://ja.wikipedia.org/wiki/Rational "wikilink")ブランドの[統合開発環境](../Page/統合開発環境.md "wikilink")。
@@ -235,12 +237,12 @@ SWTの利用時において、生産性を上げるために、JFaceというク
 
   - [Eclipse公式サイト](https://www.eclipse.org/)
 
-[\*](https://ja.wikipedia.org/wiki/カテゴリ:Eclipse "wikilink") [カテゴリ:Java開発ツール](https://ja.wikipedia.org/wiki/カテゴリ:Java開発ツール "wikilink") [カテゴリ:統合開発環境](https://ja.wikipedia.org/wiki/カテゴリ:統合開発環境 "wikilink") [カテゴリ:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/カテゴリ:オープンソースソフトウェア "wikilink")
-
-[Category:Eclipse_Foundation](https://ja.wikipedia.org/wiki/Category:Eclipse_Foundation "wikilink") [Category:フリーUMLツール](https://ja.wikipedia.org/wiki/Category:フリーUMLツール "wikilink")
+[Category:Eclipse](https://ja.wikipedia.org/wiki/Category:Eclipse "wikilink") [Category:Java開発ツール](https://ja.wikipedia.org/wiki/Category:Java開発ツール "wikilink") [Category:統合開発環境](https://ja.wikipedia.org/wiki/Category:統合開発環境 "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Eclipse_Foundation](https://ja.wikipedia.org/wiki/Category:Eclipse_Foundation "wikilink") [Category:フリーUMLツール](https://ja.wikipedia.org/wiki/Category:フリーUMLツール "wikilink")
 
 1.
 2.
 3.
-4.   Force.com IDE Developer Guide (Retired) {{\!}} Salesforce Developers|accessdate=2019-11-17|publisher=Salesforce|website=Salesforce Developers}}
-5.   日経 xTECH（クロステック）|accessdate=2019-11-17|publisher=Nikkei Business Publications, Inc.|author=星 暁雄＝日経BP Javaプロジェクト|website=日経 xTECH（クロステック）|date=2003-10-31}}
+4.
+5.
+6.   Force.com IDE Developer Guide (Retired) {{\!}} Salesforce Developers|accessdate=2019-11-17|publisher=Salesforce|website=Salesforce Developers}}
+7.   日経 xTECH（クロステック）|accessdate=2019-11-17|publisher=Nikkei Business Publications, Inc.|author=星 暁雄＝日経BP Javaプロジェクト|website=日経 xTECH（クロステック）|date=2003-10-31}}

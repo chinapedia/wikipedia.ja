@@ -11,7 +11,7 @@
 
 ## 概要
 
-本来のPSGは、GI社（現在は[モトローラ](../Page/モトローラ.md "wikilink")が吸収合併）およびGIからスピンオフした[マイクロチップ・テクノロジー](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")のAY-3-8910、およびその後継製品のAY-3-8912 / AY-3-8913相当品を指す。
+本来のPSGは、GI社（現在は[モトローラ](../Page/モトローラ.md "wikilink")が吸収合併）およびGIからスピンオフした[マイクロチップ・テクノロジー](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")のAY-3-8910とAY-3-8910A、およびその後継製品のAY-3-8912 / AY-3-8913相当品を指す。
 
 [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")（TI）の**SN76489**も同様に扱われることが多い。しかし仕様は全く異なっており、本来は区別される。SN76489は厳密にはPSGではなくDigital Complex Sound Generator（DCSG）である 。
 

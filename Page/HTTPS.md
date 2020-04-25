@@ -1,7 +1,7 @@
 > この記事は[HTTPS](https://ja.wikipedia.org/wiki/HTTPS)から翻訳されています。
 
 
-**[HTTPS](../Page/HTTPS.md "wikilink")** (Hypertext Transfer Protocol Secure) は、[HTTPによる通信をより安全に](../Page/Hypertext_Transfer_Protocol.md "wikilink")（[セキュアに](../Page/コンピュータセキュリティ.md "wikilink")）行うためのプロトコルおよび[URIスキームである](../Page/Uniform_Resource_Identifier.md "wikilink")。厳密に言えば、HTTPS自体はプロトコルではなく、[SSL/TLSプロトコルによって提供されるセキュアな接続の上でHTTP通信を行うことをHTTPSと呼んでいる](../Page/Transport_Layer_Security.md "wikilink")。
+**HTTPS** (Hypertext Transfer Protocol Secure) は、[HTTPによる通信をより安全に](../Page/Hypertext_Transfer_Protocol.md "wikilink")（[セキュアに](../Page/コンピュータセキュリティ.md "wikilink")）行うためのプロトコルおよび[URIスキームである](../Page/Uniform_Resource_Identifier.md "wikilink")。厳密に言えば、HTTPS自体はプロトコルではなく、[SSL/TLSプロトコルによって提供されるセキュアな接続の上でHTTP通信を行うことをHTTPSと呼んでいる](../Page/Transport_Layer_Security.md "wikilink")。
 
 ## 概要
 

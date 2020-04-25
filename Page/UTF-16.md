@@ -30,7 +30,7 @@ UTF-16符号化フォームで表現された文字は、16ビット符号なし
 
 ## 比較
 
-[UTF-8](../Page/UTF-8.md "wikilink")、[UTF-32](../Page/UTF-32.md "wikilink")と比較して、一般的な日本語が主体の文章ではUnicode符号化方式の中では最小サイズとなる。[追加面](https://ja.wikipedia.org/wiki/追加面 "wikilink")の文字が含まれる場合、バイト順にソートしても符号位置順とはならない。また、UTF-8と違い[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")互換ではない。
+[UTF-8](../Page/UTF-8.md "wikilink")、[UTF-32](../Page/UTF-32.md "wikilink")と比較して、一般的な日本語が主体の文章ではUnicode符号化方式の中では最小サイズとなる。[追加面](https://ja.wikipedia.org/wiki/追加面 "wikilink")の文字が含まれる場合、バイト順にソートしても符号位置順とはならない。また、UTF-8と違い[ASCII](../Page/ASCII.md "wikilink")互換ではない。
 
 [Shift_JIS](../Page/Shift_JIS.md "wikilink")と比較して、Shift_JISでは1バイト文字と、2バイト文字の1バイト目と2バイト目の値範囲が一部重複しているが、UTF-16では1符号単位文字、サロゲートペアの前半の符号単位、後半の符号単位がすべて異なる値範囲を取る。そのため、Shift_JISであった、例えば「a」で検索すると2バイト目にマッチする場合がある、途中から読みこむと文字の区切りがわからないときがある、1バイト目や2バイト目が欠落した場合、後続の文字すべてが文字化けする可能性がある、などの問題は発生しない。UTF-16では欠落があっても影響を受けるのはその文字だけである\[3\]。
 

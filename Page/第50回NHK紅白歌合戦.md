@@ -99,7 +99,7 @@
 | 25                                                                                                                | [藤あや子](../Page/藤あや子.md "wikilink")(8)                                            |
 | 出場歌手一同「[21世紀の君たちへ〜A song for children〜](https://ja.wikipedia.org/wiki/21世紀の君たちへ〜A_song_for_children〜 "wikilink")」 |                                                                                  |
 | 第2部                                                                                                               |                                                                                  |
-| 28                                                                                                                | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")(初)                       |
+| 28                                                                                                                | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")(初)                                          |
 | 30                                                                                                                | [鈴木あみ](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")(初)                         |
 | 32                                                                                                                | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")(5)                       |
 | 34                                                                                                                | [globe](https://ja.wikipedia.org/wiki/globe "wikilink")(3)                       |

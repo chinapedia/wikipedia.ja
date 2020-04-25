@@ -93,7 +93,7 @@
 | 27                                                                                                                                  | [香西かおり](../Page/香西かおり.md "wikilink")(9)                                    |
 | ショーコーナー・「[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")」                                                                                |                                                                            |
 | 第2部                                                                                                                                 |                                                                            |
-| 29                                                                                                                                  | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")(2)                 |
+| 29                                                                                                                                  | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")(2)                                    |
 | 31                                                                                                                                  | [鈴木あみ](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")(2)                   |
 | 33                                                                                                                                  | [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")(初)               |
 | ショーコーナー・未来を開こう21世紀スペクタクル                                                                                                            |                                                                            |

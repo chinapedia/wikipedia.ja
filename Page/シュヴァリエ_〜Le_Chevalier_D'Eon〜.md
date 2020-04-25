@@ -533,7 +533,7 @@
   - 勝利の塔
     「**人の願い**（オム・オプタレ：**HOMMES∴OPTARE**）」元、詩人が頂点のPALMSを目指す。
     位階の名前は、第1の位階「**熱心者**（マルクト）」，第2の位階「**理論者**（イエソド）」，第3の位階「**実践者**（ホド）」，第4の位階「**神智者**（ネツアク）」，第5の位階「**練成者**（テイファレット）」，第6の位階「**略奪者**（ゲブラー）」，第7の位階「**免債者**（ケセド）」。
-    しかしこれらは、[神秘思想](https://ja.wikipedia.org/wiki/神秘思想 "wikilink")のカバラにおける[生命の樹](../Page/生命の樹.md "wikilink")と対応している。
+    しかしこれらは、[神秘思想](https://ja.wikipedia.org/wiki/神秘思想 "wikilink")のカバラにおける[生命の樹と対応している](../Page/生命の樹_\(旧約聖書\).md "wikilink")。
     オム・オプタレの綴りを並び替えると、「**変身**（メタモルフォーゼ：**∴METAMORPHOSE**）」となる。
   - PALMS
     意味は「詩」。第2巻にてアルマンは発音されない**"S"**の意味を説いた。
@@ -551,6 +551,6 @@
   - [Production I.Gによるサイト](http://www.production-ig.co.jp/works/chevalier/)
   - [冲方丁公式サイト](http://www.kh.rim.or.jp/~tow/)
   - [夢路キリコ公式サイト](http://www.yumejikiriko.com/HOME.html)
-  - [バンダイチャンネル](http://www.b-ch.com/ttl/index.php?ttl_c=722)
+  - [バンダイチャンネル](https://www.b-ch.com/titles/722/)
 
 [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:Production_I.Gのアニメ作品](https://ja.wikipedia.org/wiki/Category:Production_I.Gのアニメ作品 "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:女装アニメ](https://ja.wikipedia.org/wiki/Category:女装アニメ "wikilink") [Category:霊を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:霊を題材としたアニメ作品 "wikilink") [Category:フランス革命を題材とした作品](https://ja.wikipedia.org/wiki/Category:フランス革命を題材とした作品 "wikilink") [Category:ヨーロッパを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ヨーロッパを舞台とした作品 "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:月刊マガジンZ](https://ja.wikipedia.org/wiki/Category:月刊マガジンZ "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink") [Category:2006年の小説](https://ja.wikipedia.org/wiki/Category:2006年の小説 "wikilink") [Category:女装文学](https://ja.wikipedia.org/wiki/Category:女装文学 "wikilink") [Category:霊を題材とした小説](https://ja.wikipedia.org/wiki/Category:霊を題材とした小説 "wikilink") [Category:冲方丁](https://ja.wikipedia.org/wiki/Category:冲方丁 "wikilink")

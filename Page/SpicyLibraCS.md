@@ -5,7 +5,9 @@
 
 2018年12月15日発売のVersion8.0より、InDesignCC版に対応したため、製品名をSpicyLibraCCとした。 Versio8.0はInDesignCC2019に対応のためSPicyLibraCC2019という名称として発売された。 本バージョンより、Windows10 64ビットOS稼働のコンピューターにインストールされたInDesignCC 64ビット版対応専用とされた。 なお、Version7.0はInDesignCC2018対応版として開発されたが諸般の事情により発売はされなかった。
 
-スパイシーソフトは、ドキュメント処理のソリューションにInDesignの組版機能を利用した各種のアプリケーションソフトを開発しており、SpicyLibraCS及びSpicyLibraCCは、その内の一で、定形レイアウト印刷物の自動組版ソフトに位置づけられている製品である。
+2020年4月7日発売のVersion9.0より、InDesignCCからInDesignへの名称変更に伴い、製品名をSpicyLibraとした。 本バージョンより、[Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")社の[Flash Playerの開発中止により](https://ja.wikipedia.org/wiki/Flash_Player "wikilink")、InDesignが[FLV](https://ja.wikipedia.org/wiki/FLV "wikilink")ファイル等の動画ファイルの配置を出来なくしたため、動画・サウンドファイルの挿入機能、SWFファイルの書き出し機能が廃止された。
+
+スパイシーソフトは、ドキュメント処理のソリューションにInDesignの組版機能を利用した各種のアプリケーションソフトを開発しており、SpicyLibraCS及びSpicyLibraCC、SpicyLibraは、その内の一で、定形レイアウト印刷物の自動組版ソフトに位置づけられている製品である。
 
 [オンデマンド印刷](../Page/オンデマンド印刷.md "wikilink")、[バリアブル印刷](https://ja.wikipedia.org/wiki/バリアブル印刷 "wikilink")といった分野での使用はもちろんのこと、簡単なパンフレット、カタログといったものまで応用範囲が広い。特に[PoP](../Page/POP広告.md "wikilink")、[名刺](../Page/名刺.md "wikilink")、[DM](../Page/ダイレクトメール.md "wikilink")、[名簿](../Page/名簿.md "wikilink")などは、この種のソフトの通常の活躍分野といえる。
 
@@ -35,11 +37,13 @@
       - InDesignCS6_J(Ver 8.0)対応(.NET Framework4.0)
   - SpicyLibraCC2019 Ver8.0 2018年12月15日発売
       - InDesignCC 2019 日本語版(Ver 14.0)対応(.NET Framework4.7)
+  - SpicyLibra2020 Ver9.0 2020年４月７日発売
+      - InDesign2020 日本語版(Ver 15.0)対応(.NET Framework4.8)
 
 ## 特徴
 
 1.  [InDesign](https://ja.wikipedia.org/wiki/InDesign "wikilink")を操作できる人ならば、簡単に操作方法が習得でき、印刷会社ということに囚われることなく企業の企画・広報などといった、まさにドキュメントを処理するあらゆる現場での使用が可能。（「テンプレート作成→データマッピング→入出力設定→処理実行」と分かり易い操作性）
-2.  [XML](../Page/Extensible_Markup_Language.md "wikilink"),[MDB,ACCDB](../Page/Microsoft_Access.md "wikilink"),[mdf](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server_2005/2008_Express_Edition "wikilink"),[Excel](https://ja.wikipedia.org/wiki/Excel "wikilink"),[CSV](../Page/Comma-Separated_Values.md "wikilink"),[TAB区切り](https://ja.wikipedia.org/wiki/TAB区切り "wikilink")などといった各種入力ファイルフォーマットをダイレクトに扱え、[InDesign](https://ja.wikipedia.org/wiki/InDesign "wikilink")ドキュメントファイルは当然のこと、[PDF](../Page/Portable_Document_Format.md "wikilink"), [SWF](https://ja.wikipedia.org/wiki/SWF "wikilink"), [EPS](../Page/Encapsulated_PostScript.md "wikilink"), [XML](../Page/Extensible_Markup_Language.md "wikilink"), [XHTML](https://ja.wikipedia.org/wiki/XHTML "wikilink")など各種の出力ファイルフォーマットをサポートし、ダイレクトにプリントアウトすることも可能。特に、[XMLでは](../Page/Extensible_Markup_Language.md "wikilink")、テンプレートにて流し込むフレームを作成するときに、[XMLタグ名をつけておけば](../Page/Extensible_Markup_Language.md "wikilink")、ドキュメント作成後のデータ修正を行ったものを、再度、訂正済みの[XMLデータとして利用可能](../Page/Extensible_Markup_Language.md "wikilink")。
+2.  [XML](../Page/Extensible_Markup_Language.md "wikilink"),[MDB,ACCDB](../Page/Microsoft_Access.md "wikilink"),[Excel](https://ja.wikipedia.org/wiki/Excel "wikilink"),[CSV](../Page/Comma-Separated_Values.md "wikilink"),[TAB区切り](https://ja.wikipedia.org/wiki/TAB区切り "wikilink")などといった各種入力ファイルフォーマットをダイレクトに扱え、[InDesign](https://ja.wikipedia.org/wiki/InDesign "wikilink")ドキュメントファイルは当然のこと、[PDF](../Page/Portable_Document_Format.md "wikilink"), [EPS](../Page/Encapsulated_PostScript.md "wikilink"), [XML](../Page/Extensible_Markup_Language.md "wikilink"), [HTML](https://ja.wikipedia.org/wiki/HTML "wikilink"), [JPG](https://ja.wikipedia.org/wiki/JPG "wikilink")など各種の出力ファイルフォーマットをサポートし、ダイレクトにプリントアウトすることも可能。特に、[XMLでは](../Page/Extensible_Markup_Language.md "wikilink")、テンプレートにて流し込むフレームを作成するときに、[XMLタグ名をつけておけば](../Page/Extensible_Markup_Language.md "wikilink")、ドキュメント作成後のデータ修正を行ったものを、再度、訂正済みの[XMLデータとして利用可能](../Page/Extensible_Markup_Language.md "wikilink")。
 3.  流し込みテキストのフレームのオーバーセットやアンダーセット時の自動調整機能、貼りこみ画像に対する各種のフィット方法の指定機能。
 4.  既存テキスト文字列の[差込み](https://ja.wikipedia.org/wiki/差込み "wikilink")、[差込み](https://ja.wikipedia.org/wiki/差込み "wikilink")しながらのテキストファイル流し込み機能。
 5.  [QR](../Page/QRコード.md "wikilink")・[MicroQR](https://ja.wikipedia.org/wiki/MicroQR "wikilink")バーコード、[EAN128](https://ja.wikipedia.org/wiki/EAN128 "wikilink")コンビニエンスストア料金徴収代行バーコード,[CODE128](../Page/CODE128.md "wikilink")(A/B/C)バーコード、[JANバーコード](../Page/EANコード.md "wikilink")(8/13桁)、[CODE39](../Page/CODE39.md "wikilink")バーコード、[NW7](https://ja.wikipedia.org/wiki/NW7 "wikilink")バーコード、郵便[カスタマバーコード](../Page/カスタマバーコード.md "wikilink")、[GS1-128](https://ja.wikipedia.org/wiki/GS1-128 "wikilink")・[GS1 DataBarバーコード](https://ja.wikipedia.org/wiki/GS1_DataBar "wikilink")、[ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink")書籍バーコード、定期刊行物バーコード、[ITF](https://ja.wikipedia.org/wiki/ITFコード "wikilink")(Interleaved 2 of 5)バーコードなどのバーコードの生成機能。
@@ -60,6 +64,7 @@
 20. グラフ作成貼込（[Adobe Illustratorを利用](../Page/Adobe_Illustrator.md "wikilink")）機能を搭載。
 21. [TEX](https://ja.wikipedia.org/wiki/TEX "wikilink")-\>[EPS](https://ja.wikipedia.org/wiki/EPS "wikilink")変換貼込（[Gohstscript](https://ja.wikipedia.org/wiki/Gohstscript "wikilink")等[TEX](https://ja.wikipedia.org/wiki/TEX "wikilink")環境を利用）機能を搭載。
 22. [UNICODE](https://ja.wikipedia.org/wiki/UNICODE "wikilink")私用領域コードに対する書体変換、コード変換ユーティリティ機能搭載。
+23. 処理データの項目を最大5項目までプログラム内でコピー利用可能。
 
 画像:SpicyLibrCS3_MainScreen.jpg|データとフレームのマッピング画面 画像:SpicyLibrCS3_Template.jpg|InDesignテンプレート上のフレームに名前を付加している画面 画像:SpicyLibrCS3_PopSample.jpg|作成したドキュメントサンプル（PoP) 画像:SpicyLibrCS3_TableSample.jpg|作成したドキュメントサンプル（情報誌)
 

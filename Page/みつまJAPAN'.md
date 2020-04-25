@@ -17,7 +17,9 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 美妻隆盛から「みつまJAPAN'」に戻す。
 
-これまでに使用した芸名は 7つ（三津間正晃 → 三津間小太郎 → みつま小太郎 → 三津間JAPAN → みつまJAPAN → みつまJAPAN' → 美妻隆盛 → みつまJAPAN'）\[7\] 切れ味鋭いギャグが持ち味で子役の[寺田心](https://ja.wikipedia.org/wiki/寺田心 "wikilink")くんに似てる事もあり再ブレイクを模索中。野球日本代表「侍ジャパン」とTVアニメ「おそ松さん」のタイアップを企画するなどプロデューサーとしても活躍している。
+これまでに使用した芸名は 7つ（三津間正晃 → 三津間小太郎 → みつま小太郎 → 三津間JAPAN → みつまJAPAN → みつまJAPAN' → 美妻隆盛 → みつまJAPAN'）\[7\]。
+
+切れ味鋭いギャグが持ち味で子役の[寺田心](https://ja.wikipedia.org/wiki/寺田心 "wikilink")くんに似てる事もあり再ブレイクを模索中。野球日本代表「侍ジャパン」とTVアニメ「おそ松さん」のタイアップを企画するなどプロデューサーとしても活躍している。
 
 ### 主要なネタ
 
@@ -68,7 +70,7 @@
 
   - [みつまJAPAN' 公式ウェブサイト 『 みつま in JAPAN 』](http://mitsumajapan.tabigeinin.com/)
 
-  - [みつまJAPAN' 公式ブログ『WAHAHA本舗　みつまJAPAN'の「まぁ〜そんなことど〜でもいいんですけどねぇ」』](http://ameblo.jp/mitsumajapan)  （2006年10月22日 - 2011年5月25日）
+  - [みつまJAPAN' 公式ブログ『WAHAHA本舗　みつまJAPAN'の「まぁ〜そんなことど〜でもいいんですけどねぇ」』](https://ameblo.jp/mitsumajapan)  （2006年10月22日 - 2011年5月25日）
 
   -
 
@@ -80,4 +82,4 @@
 4.  [2009年 8月 7日付、自身のブログにて発表。](http://ameblo.jp/mitsumajapan/entry-10315918289.html)
 5.  [2009年 8月 7日付、ラジークイーンのブログより](http://trackback.blogsys.jp/livedoor/razzy9/65291322)
 6.  [2010年 5月 8日付、自身のブログにて発表。](http://ameblo.jp/mitsumajapan/entry-10529315174.html)
-7.  [2009年 1月14日付、自身のブログより](http://ameblo.jp/mitsumajapan/entry-10192319919.html)。
+7.  [2009年 1月14日付、自身のブログより](http://ameblo.jp/mitsumajapan/entry-10192319919.html)

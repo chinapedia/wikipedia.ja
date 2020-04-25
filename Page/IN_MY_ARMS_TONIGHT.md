@@ -98,7 +98,7 @@
 
   - [ビーイングによる紹介ページ](https://beinggiza.com/ci/item/BGDH-1014)
 
-[Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:春畑道哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:春畑道哉が制作した楽曲 "wikilink") [Category:夜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夜を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:TBS火曜8時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜8時枠の連続ドラマ主題歌 "wikilink")
+[Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:春畑道哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:春畑道哉が制作した楽曲 "wikilink") [Category:夜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夜を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:TBS火曜8時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜8時枠の連続ドラマ主題歌 "wikilink")
 
 1.  アルバム収録曲を含めると3rdアルバム『HOLD ME』収録曲「あの微笑みを忘れないで」以来、通算4作目。
 2.  『[Golden Best 〜15th Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink")』付属、坂井談による『Golden History 1991〜2006』より

@@ -280,7 +280,7 @@ KAZMA（王者） VS 火野裕士（挑戦者）</p></td>
 <tr class="odd">
 <td><p>年間最高試合賞シングルマッチ部門</p></td>
 <td><p>11月13日 CHAMPION OF STRONGEST-K選手権試合<br />
-関本大介（王者） VS 火野裕士（挑戦者）</p></td>
+<a href="../Page/関本大介.md" title="wikilink">関本大介</a>（王者） VS 火野裕士（挑戦者）</p></td>
 </tr>
 <tr class="even">
 <td><p>年間最高試合賞タッグマッチ部門</p></td>

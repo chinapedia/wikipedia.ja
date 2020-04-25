@@ -70,7 +70,6 @@
 ## 外部リンク
 
   - [公式ウェブサイト](https://www.alange-soehne.com/ja/)
-  - [ランゲ＆ゾーネの超高級腕時計が凄すぎる！](https://www.rasin.co.jp/blog/lange/alange-soehne-2/)
 
 [Category:懐中時計](https://ja.wikipedia.org/wiki/Category:懐中時計 "wikilink") [Category:腕時計](https://ja.wikipedia.org/wiki/Category:腕時計 "wikilink") [Category:ドイツの時計メーカー](https://ja.wikipedia.org/wiki/Category:ドイツの時計メーカー "wikilink") [Category:ザクセン王国](https://ja.wikipedia.org/wiki/Category:ザクセン王国 "wikilink") [Category:リシュモン](https://ja.wikipedia.org/wiki/Category:リシュモン "wikilink") [Category:1845年設立の企業](https://ja.wikipedia.org/wiki/Category:1845年設立の企業 "wikilink")
 

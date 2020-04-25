@@ -490,7 +490,7 @@ TOCT-24829:通常盤</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
-<td><p><strong>BOOK OF LIFE〜炎の章〜</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/BOOK_OF_LIFE〜炎の章〜" title="wikilink">BOOK OF LIFE〜炎の章〜</a></strong></p></td>
 <td><p>TOCT-25066<br />
 TOCT-25067:通常盤</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

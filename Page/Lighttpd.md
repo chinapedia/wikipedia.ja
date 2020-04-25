@@ -13,11 +13,11 @@
 
 ## アプリケーションサポート
 
-lighttpd は外部プログラムへの[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")、[SCGI](https://ja.wikipedia.org/wiki/Simple_Common_Gateway_Interface "wikilink")、[CGI](https://ja.wikipedia.org/wiki/CGI "wikilink")インターフェースをサポートしているため、あらゆる[プログラミング言語](../Page/プログラミング言語.md "wikilink")で書かれた[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")を[サーバ](../Page/サーバ.md "wikilink")で使用できる。特に人気のある言語として、[PHP (プログラミング言語)のパフォーマンスは特に注目されている](../Page/PHP_\(プログラミング言語\).md "wikilink")。lighttpd の[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")は、[オペコードキャッシュ](https://ja.wikipedia.org/wiki/オペコードキャッシュ "wikilink")([APC](../Page/APC.md "wikilink") 等)を使用して[PHP (プログラミング言語)を適切かつ効率的にサポートするように構成できる](../Page/PHP_\(プログラミング言語\).md "wikilink")。さらに、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、および[Lua](../Page/Lua.md "wikilink")コミュニティでの人気からも注目されている。lighttpdは、データベース駆動型[Webサイトを構築するために設計された復元力のある](https://ja.wikipedia.org/wiki/WEBサイト "wikilink")[インメモリデータベース](https://ja.wikipedia.org/wiki/インメモリデータベース "wikilink")である\[<https://en.wikipedia.org/wiki/WebDNA>|WebDNA\]もサポートしている。これは[Catalyst (ソフトウェア)および](../Page/Catalyst_\(ソフトウェア\).md "wikilink")[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") Webフレームワーク用の一般的なWebサーバである。lighttpd は[ISAPI](../Page/ISAPI.md "wikilink")をサポートしていない。
+lighttpd は外部プログラムへの[FastCGI](../Page/FastCGI.md "wikilink")、[SCGI](https://ja.wikipedia.org/wiki/Simple_Common_Gateway_Interface "wikilink")、[CGIインターフェースをサポートしているため](../Page/Common_Gateway_Interface.md "wikilink")、あらゆる[プログラミング言語](../Page/プログラミング言語.md "wikilink")で書かれた[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")を[サーバ](../Page/サーバ.md "wikilink")で使用できる。特に人気のある言語として、[PHP (プログラミング言語)のパフォーマンスは特に注目されている](../Page/PHP_\(プログラミング言語\).md "wikilink")。lighttpd の[FastCGI](../Page/FastCGI.md "wikilink")は、[オペコードキャッシュ](https://ja.wikipedia.org/wiki/オペコードキャッシュ "wikilink")([APC](../Page/APC.md "wikilink") 等)を使用して[PHP (プログラミング言語)を適切かつ効率的にサポートするように構成できる](../Page/PHP_\(プログラミング言語\).md "wikilink")。さらに、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、および[Lua](../Page/Lua.md "wikilink")コミュニティでの人気からも注目されている。lighttpdは、データベース駆動型[Webサイトを構築するために設計された復元力のある](https://ja.wikipedia.org/wiki/WEBサイト "wikilink")[インメモリデータベース](https://ja.wikipedia.org/wiki/インメモリデータベース "wikilink")であるもサポートしている。これは[Catalyst (ソフトウェア)および](../Page/Catalyst_\(ソフトウェア\).md "wikilink")[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") Webフレームワーク用の一般的なWebサーバである。lighttpd は[ISAPI](../Page/ISAPI.md "wikilink")をサポートしていない。
 
 ## 特徴
 
-  - [サーバロードバランス](../Page/サーバロードバランス.md "wikilink")、[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")、[SCGI](https://ja.wikipedia.org/wiki/Simple_Common_Gateway_Interface "wikilink")、および[HTTPプロキシ](https://ja.wikipedia.org/wiki/HTTPプロキシ "wikilink")のサポート
+  - [サーバロードバランス](../Page/サーバロードバランス.md "wikilink")、[FastCGI](../Page/FastCGI.md "wikilink")、[SCGI](https://ja.wikipedia.org/wiki/Simple_Common_Gateway_Interface "wikilink")、および[HTTPプロキシ](https://ja.wikipedia.org/wiki/HTTPプロキシ "wikilink")のサポート
   - [`chroot`](https://ja.wikipedia.org/wiki/chroot "wikilink")システムコールの使用
   - Webサーバーイベントメカニズムのパフォーマンス-`select()`, `poll()`, `epoll()`
   - [`kqueue`](https://ja.wikipedia.org/wiki/kqueue "wikilink")や[`epoll`](https://ja.wikipedia.org/wiki/epoll "wikilink")などのより効率的なイベント通知スキームのサポート
@@ -38,7 +38,7 @@ lighttpd は外部プログラムへの[FastCGI](https://ja.wikipedia.org/wiki/F
 
 ## 制限事項
 
-1.4.40より前のバージョンは、X-Sendfileが使用されない限り、[CGI](https://ja.wikipedia.org/wiki/CGI "wikilink")、[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")、または[プロキシ](../Page/プロキシ.md "wikilink")\[9\]からの大きなファイルの送信を公式にサポートしていない。 この制限はlighttpd 1.4.40で削除された\[10\]。
+1.4.40より前のバージョンは、X-Sendfileが使用されない限り、[CGI](../Page/Common_Gateway_Interface.md "wikilink")、[FastCGI](../Page/FastCGI.md "wikilink")、または[プロキシ](../Page/プロキシ.md "wikilink")\[9\]からの大きなファイルの送信を公式にサポートしていない。 この制限はlighttpd 1.4.40で削除された\[10\]。
 
 [HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2 "wikilink")または[HTTP/3](https://ja.wikipedia.org/wiki/HTTP/3 "wikilink")のサポートなし
 

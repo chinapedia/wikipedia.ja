@@ -47,6 +47,6 @@
 
 </div>
 
-[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
 
 1.

@@ -238,7 +238,7 @@
 
   - [-savage genius-](http://www.jvcmusic.co.jp/sg/)
 
-  - [savage geniusオフィシャルブログ ああの大きな声のヒトリゴト](http://ameblo.jp/savagegenius/) powered by Ameba
+  - [savage geniusオフィシャルブログ ああの大きな声のヒトリゴト](https://ameblo.jp/savagegenius/) powered by Ameba
 
   -
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:過去の研音グループ所属者](https://ja.wikipedia.org/wiki/Category:過去の研音グループ所属者 "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:フライングドッグのアーティスト](https://ja.wikipedia.org/wiki/Category:フライングドッグのアーティスト "wikilink")

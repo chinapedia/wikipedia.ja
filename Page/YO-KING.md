@@ -717,16 +717,16 @@
   - 2010年12月28日 - COUNTDOWN JAPAN 10/11
   - 2011年03月05日 - [Yohito Teraoka](../Page/寺岡呼人.md "wikilink") Presents『OK\! C'MON CHABO\!\!\!』〜CHABO'S 60th Aniv.〜
   - 2011年09月09日 - 〜SHELTER 20th ANNIVERSARY〜「YO-KING 対 50円玉」
-  - 2011年09月10日 - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") presents「ロックロックこんにちは！ 15th Anniversary」(「 今日の王様」名義)
+  - 2011年09月10日 - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") presents「ロックロックこんにちは！ 15th Anniversary」(「 今日の王様」名義)
   - 2012年03月18日 - ユウベル presents MUSIC CUBE 12
   - 2012年03月19日 - Fell the Mix \!\!
   - 2012年04月12日 - キューン20 イヤーズ＆デイズ
   - 2012年08月02日 - 夏のVIVA YOUNG\! 5DAYS\!\! 2012 「夜を泳ぐ男たち」
-  - 2012年08月24日 - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") presents「ロックロックこんにちは！Ver.16 〜ヒーロー広場〜」
+  - 2012年08月24日 - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") presents「ロックロックこんにちは！Ver.16 〜ヒーロー広場〜」
   - 2012年08月29日 - FM802×FM COCOLO present MARK'E Rolling 60 -It's great to be alive\!-
   - 2012年09月30日 - KOYABU SONIC 2012
   - 2012年11月23日 - 仮面チャウダー Vol.1 〜YAJIO CRAZY〜
-  - 2013年08月13日 - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") presents「ロックのほそ道」
+  - 2013年08月13日 - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") presents「ロックのほそ道」
   - 2014年04月26日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")14
   - 2014年09月20日 - SMA 40th YO-KING & 奥田民生 presents 顧問豊作 YO-KING day「キングって、エライよね」
   - 2014年10月09日・24日 - [奥田民生](../Page/奥田民生.md "wikilink") いきあたり股旅

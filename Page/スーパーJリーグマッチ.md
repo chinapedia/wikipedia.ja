@@ -34,15 +34,15 @@
 
   - 浦和戦は2011年までは[REDS TV GGRのアシスタントが担当](../Page/REDS_TV_GGR.md "wikilink")（2012年より[羽田沙織](https://ja.wikipedia.org/wiki/羽田沙織 "wikilink")）、大宮戦は[Ole\! アルディージャのアシスタント](../Page/Ole!_アルディージャ.md "wikilink")（2010年現在は[佐藤弥生](../Page/佐藤弥生.md "wikilink")）が主に担当する。
 
-## 外部リンク
-
-  - [Jリーグ中継スケジュール](http://www.teletama.jp/sports/j-league.html)
-
 ## 脚注
 
 <references />
 
-[Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:ローカルテレビ局のサッカー番組‎](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組‎ "wikilink") [Category:浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/Category:浦和レッドダイヤモンズ "wikilink") [Category:大宮アルディージャ](https://ja.wikipedia.org/wiki/Category:大宮アルディージャ "wikilink")
+## 外部リンク
+
+  - [Jリーグ中継スケジュール](http://www.teletama.jp/sports/j-league.html)
+
+[Category:テレビ埼玉の番組](https://ja.wikipedia.org/wiki/Category:テレビ埼玉の番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/Category:浦和レッドダイヤモンズ "wikilink") [Category:大宮アルディージャ](https://ja.wikipedia.org/wiki/Category:大宮アルディージャ "wikilink")
 
 1.  以前は[さいたまダービー](../Page/さいたまダービー.md "wikilink")以外は[スカパー\!との契約の関係上アウェイゲームは中継していなかったが](../Page/スカパー!プレミアムサービス.md "wikilink")、2017年以降はアウェーゲームでも[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")のネット受けで再び放送されるようになってきている。
 2.  [3月2日](../Page/3月2日.md "wikilink")に行われたホーム開幕戦[北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")戦・[5月3日](../Page/5月3日.md "wikilink")[憲法記念日](../Page/憲法記念日.md "wikilink")に行われた[ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")戦・[12月7日](../Page/12月7日.md "wikilink")に行われたホーム最終戦[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")戦

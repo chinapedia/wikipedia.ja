@@ -103,7 +103,7 @@
 
   - [Mr.オクレ プロフィール｜吉本興業株式会社](https://profile.yoshimoto.co.jp/talent/detail?id=643)
 
-[Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本のコメディアン](https://ja.wikipedia.org/wiki/Category:日本のコメディアン "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:吉本新喜劇](https://ja.wikipedia.org/wiki/Category:吉本新喜劇 "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:兵庫県出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県出身の人物 "wikilink") [Category:1953年生](https://ja.wikipedia.org/wiki/Category:1953年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本の競馬に関する人物](https://ja.wikipedia.org/wiki/Category:日本の競馬に関する人物 "wikilink")
+[Category:日本の男性コメディアン](https://ja.wikipedia.org/wiki/Category:日本の男性コメディアン "wikilink") [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:吉本新喜劇](https://ja.wikipedia.org/wiki/Category:吉本新喜劇 "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:兵庫県出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県出身の人物 "wikilink") [Category:1953年生](https://ja.wikipedia.org/wiki/Category:1953年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本の競馬に関する人物](https://ja.wikipedia.org/wiki/Category:日本の競馬に関する人物 "wikilink")
 
 1.
 2.  ザ・パンチャーズ EP「可愛い女」(1974年)ライナー

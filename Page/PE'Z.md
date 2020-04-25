@@ -1167,7 +1167,7 @@ EN-MUSUBI 2015 FINAL -おどらにゃそんそん！-
 
   - [PE'Z Ohyama'B.M.W'Wataruによるブログ"のぼり"坂](http://blog.excite.co.jp/pez/)
 
-  - [Kadota'JAW'Kousukeによるブログ"Bitter\&Sweet"](http://ameblo.jp/pez-jaw) Kadota'JAW'Kousukeのブログ
+  - [Kadota'JAW'Kousukeによるブログ"Bitter\&Sweet"](https://ameblo.jp/pez-jaw) Kadota'JAW'Kousukeのブログ
 
   - [ニレのPE'Z JP 2013](http://www.pe-z.jp/) Nirehara Masahiro制作
 

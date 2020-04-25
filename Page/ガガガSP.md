@@ -501,7 +501,7 @@ SRCL-6551:通常盤</p></td>
 <td><p>2008年02月02日</p></td>
 <td><p><strong>吉田拓郎トリビュート〜結婚しようよ〜</strong></p></td>
 <td><p>TECI-1170</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田拓郎" title="wikilink">吉田拓郎</a>のトリビュートアルバム。「人生を語らず」をカバー。</p></td>
+<td><p><a href="../Page/吉田拓郎.md" title="wikilink">吉田拓郎</a>のトリビュートアルバム。「人生を語らず」をカバー。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年02月13日</p></td>
@@ -759,7 +759,7 @@ TECI-1411</p></td>
 
   - [ガガガSP](http://www.ldandk.com/gagaga/gatop2.html) - 公式ウェブサイト
 
-  - [ガガガSPのブログ](http://ameblo.jp/ga3sp)
+  - [ガガガSPのブログ](https://ameblo.jp/ga3sp)
 
   - [ガガガSP選曲のプレイリスト&野球特集インタビュー（MUSICSHELF）](http://musicshelf.jp/?mode=static&html=special_f03/index)
 

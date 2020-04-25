@@ -10,7 +10,7 @@
   - TRINITY同様、液晶部分に[タッチパネル](../Page/タッチパネル.md "wikilink")を採用（taktile、Le、RackとTRを除く）。
   - 筐体色はシリーズごとに違っている。
   - [PCM音源](../Page/PCM音源.md "wikilink")はHI（Hyper Integrated）シンセシス・システムと呼ばれる。また、TRINITY同様、[物理モデル音源](../Page/物理モデル音源.md "wikilink")の従来のMOSS音源を拡張可能としている（LeとTR、taktileを除く）。TRINITYシリーズのPCM容量24MB(TR-RACK 32MB)から32MBに容量が増えた一方で、TRITONは[コルグ・TRINITYシリーズ](../Page/コルグ・TRINITYシリーズ.md "wikilink")よりPCM音源のサンプルの質が下がったという指摘がされており、それは鍵盤を押し続けた場合のループ部分に顕著に現れると言われる。
-  - TRINITY同様、61、76、88の鍵盤バリエーションがあるが、2014年春に発売予定のTRITON taktileのみ25、49鍵盤となる。
+  - TRINITY同様、61、76、88の鍵盤バリエーションがあるが、2014年春発売のTRITON taktileのみ25、49鍵盤となる。
 
 ## TRITONの製品群
 

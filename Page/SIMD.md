@@ -1,7 +1,7 @@
 > この記事は[SIMD](https://ja.wikipedia.org/wiki/SIMD)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:SIMD.svg "wikilink") （シングルインストラクション・マルチプルデータ、**SIMD**\[1\]）とは[フリンの分類](../Page/フリンの分類.md "wikilink")のひとつで、1つの命令を同時に複数のデータに適用する、[コンピュータ](../Page/コンピュータ.md "wikilink")の[並列化の形態を指す](../Page/並列計算.md "wikilink")\[2\]。この手法にもとづく演算を**ベクトル演算** () と呼ぶこともある。通例、SIMD命令により同時処理するのに適したデータ構造あるいはデータ型を利用するため、命令実行の前に処理対象のデータ列はいったん結合（パック）され、処理完了後に分解（アンパック）される。結合されたデータは（パックデータ、パックトデータ）と呼ばれる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:SIMD.svg "wikilink") （シングルインストラクション・マルチプルデータ、**SIMD**\[1\]）とはコンピューターの演算処理に関する[フリンの分類](../Page/フリンの分類.md "wikilink")のひとつで、1つの命令を同時に複数のデータに適用する[並列化の形態を指す](../Page/並列計算.md "wikilink")\[2\]。この手法にもとづく演算を**ベクトル演算** () と呼ぶこともある。通例、SIMD命令により同時処理するのに適したデータ構造あるいはデータ型を利用するため、命令実行の前に処理対象のデータ列はいったん結合（パック）され、処理完了後に分解（アンパック）される。結合されたデータは（パックデータ、パックトデータ）と呼ばれる。
 
 ## 解説
 
@@ -113,7 +113,7 @@ SIMD命令を利用するには、各プロセッサの固有命令を[アセン
   - [フリンの分類](../Page/フリンの分類.md "wikilink")
   - [ベクトル化](../Page/ベクトル化.md "wikilink")
 
-[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink")
+[Category:SIMDコンピューティング](https://ja.wikipedia.org/wiki/Category:SIMDコンピューティング "wikilink") [Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink") [Category:フリンの分類](https://ja.wikipedia.org/wiki/Category:フリンの分類 "wikilink")
 
 1.  [英語](../Page/英語.md "wikilink")では「シムディー」のように読まれる。日本では「シムド」と呼ぶことがある。
 2.  [SIMD（Single Instruction/Multiple Data）とは - IT用語辞典 e-Words](http://e-words.jp/w/SIMD.html)

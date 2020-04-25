@@ -49,7 +49,7 @@
 **KZOO Aloha Hotline**
 
   - FM Apple(北海道札幌エリア）（日曜15:30～15:45)
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（東北・岩手エリア）（日曜19:00～19:30)
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（東北・岩手エリア）（日曜19:00～19:30)
   - RKB（九州・福岡エリア）（火曜18:30～18:45）
   - Dreams FM（九州・久留米エリア）（月一随時）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（四国・愛媛エリア）（水曜18:00～18:30）

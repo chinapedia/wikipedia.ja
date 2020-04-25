@@ -28,8 +28,8 @@ AFM音源部分は、DXシリーズのFM音源より大幅に強化された。D
   - SY55
     [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売。PCM音源のみ搭載の機種。61鍵、16音ポリフォニック。波形容量は2MBで、74種類の波形を収録している。8トラックシーケンサーを搭載。
   - SY35
-    [1992年](../Page/1992年.md "wikilink")発売。FM音源、PCM音源のハイブリッドモデル。61鍵、16音ポリフォニック。[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[WAVE STATIONと同じようにベクターコントローラーを持ち](../Page/コルグ・WAVESTATIONシリーズ.md "wikilink")、リアルタイムに音色を変化させることが可能。SY22の音色を差し替えたリニューアルモデルで、SY22から波形メモリーが2倍に増やされている。シーケンサー非搭載。デスクトップタイプのモジュール版[TG33もある](../Page/ヤマハ・TGシリーズ.md "wikilink")。
+    [1992年](../Page/1992年.md "wikilink")発売。FM音源、PCM音源のハイブリッドモデル。61鍵、16音ポリフォニック。[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[WAVE STATIONと同じようにベクターコントローラーを持ち](../Page/コルグ・WAVESTATIONシリーズ.md "wikilink")、リアルタイムに音色を変化させることが可能。SY22の音色を差し替えたリニューアルモデルで、SY22から波形メモリーが2倍に増やされている。シーケンサー非搭載。
   - SY22
-    [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売。FM音源、PCM音源のハイブリッドモデル。61鍵、16音ポリフォニック。SY35と同様にベクターコントローラーを持ち、リアルタイムに音色を変化させることが可能。シーケンサー非搭載。
+    [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売。FM音源、PCM音源のハイブリッドモデル。61鍵、16音ポリフォニック。SY35と同様にベクターコントローラーを持ち、リアルタイムに音色を変化させることが可能。シーケンサー非搭載。デスクトップタイプのモジュール版[TG33もある](../Page/ヤマハ・TGシリーズ.md "wikilink")。
 
 [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink")

@@ -41,7 +41,7 @@
         主なタイアップは、以下の通りである。
           - [サルヂエ](../Page/サルヂエ.md "wikilink")（[中京テレビ制作](../Page/中京テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")29局ネット）[9月](../Page/9月.md "wikilink")度エンディング
           - [女優魂](../Page/女優魂.md "wikilink")（中京テレビ制作・日本テレビ系29局ネット）9月度エンディング
-          - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")制作・日本テレビ系28局ネット）9月度エンディングなど10番組。
+          - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](../Page/山口放送.md "wikilink")制作・日本テレビ系28局ネット）9月度エンディングなど10番組。
         2005年9月の間は、月曜日23:00から[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[あいのり](../Page/あいのり.md "wikilink")』で「[未来の地図](../Page/未来の地図.md "wikilink")」、23:40から中京テレビ・日本テレビ系の『サルヂエ』で「サンセット」が放映された。
 4.  「[Give Me Up](../Page/Give_Me_Up.md "wikilink")」（[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")）
       -
@@ -127,7 +127,7 @@
   - [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以前
       - Mi3（Yuriのみ出演）（AIR-G' 2005年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - [4月24日](../Page/4月24日.md "wikilink")）
   - 2005年10月から。
-      - Mi 未来の地図（AMラジオ9局ネット。[山形放送](../Page/山形放送.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[岐阜ラジオ](https://ja.wikipedia.org/wiki/AM岐阜ラジオ "wikilink")、[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）
+      - Mi 未来の地図（AMラジオ9局ネット。[山形放送](../Page/山形放送.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[岐阜ラジオ](https://ja.wikipedia.org/wiki/AM岐阜ラジオ "wikilink")、[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、[山口放送](../Page/山口放送.md "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）
   - [2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から
       - [下北FM](https://ja.wikipedia.org/wiki/下北FM "wikilink")ゲスト出演
 

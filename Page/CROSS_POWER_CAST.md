@@ -132,7 +132,7 @@
 
 ## 関連項目
 
-  - [PAO〜N](../Page/PAO〜N.md "wikilink") - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")のラジオ番組
+  - [PAO〜N](../Page/PAO〜N.md "wikilink") - [KBCラジオ](../Page/KBCラジオ.md "wikilink")のラジオ番組
       -
         [栗田善太郎](../Page/栗田善太郎.md "wikilink")は2004年4月から2008年9月まで、この番組の金曜に出演していた。
 

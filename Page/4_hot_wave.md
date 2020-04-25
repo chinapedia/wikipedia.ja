@@ -15,7 +15,7 @@
 
 [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[PRIDE\&SPIRIT 日本プロ野球2006](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")』イメージソング「With your smile」は中継内では、試合経過のハイライトVTRではインストゥルメンタルで流れ、エンディングで歌入りで流れるのが普通だったが、[広島テレビのローカル中継](../Page/広島テレビ放送.md "wikilink")（[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")主催ゲーム。番組名は全国中継と同じ）では、ハイライトVTRの部分でも歌入りで流れ、なおかつ曲名の[テロップも表示され](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")、また[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")・[J SPORTSにもそのままの内容で配信されたことから](../Page/J_SPORTS.md "wikilink")、発売前に曲の前半部分が聴ける数少ない機会だった。
 
-本作のPVの内容は繋がっており、「JUICY」「With Your smile」「I'll be there」「人魚姫」の順番となっている（過去に4曲A面シングルは[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[A](../Page/A_\(シングル\).md "wikilink")」などであったものの、4曲全てPVが収録されたのは史上初のことである）。
+本作のPVの内容は繋がっており、「JUICY」「With Your smile」「I'll be there」「人魚姫」の順番となっている（過去に4曲A面シングルは[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の「[A](../Page/A_\(シングル\).md "wikilink")」などであったものの、4曲全てPVが収録されたのは史上初のことである）。
 
 ## 収録曲
 

@@ -279,7 +279,7 @@
   - [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」（2010年）
   - アクアクララ「ウォーターサーバー・ベビーアクア」（2010年）
   - [JR大阪三越伊勢丹](../Page/ジェイアール西日本伊勢丹.md "wikilink") WEB（2011年）
-  - [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（2011年）
+  - [BS朝日](../Page/ビーエス朝日.md "wikilink")（2011年）
   - [BSフジ](../Page/BSフジ.md "wikilink")（2011年）
   - [BEAMS ONLINE SHOP](../Page/ビームス.md "wikilink") WEB（2011年）
 

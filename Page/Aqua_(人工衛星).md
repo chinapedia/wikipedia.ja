@@ -50,8 +50,8 @@ CERESは0.3から50μmの3つの広域帯観測バンドで観測する水平分
 
   - [Aqua Project Science](http://aqua.nasa.gov/)
   - [人工衛星プロジェクトAqua/AMSR-E](http://www.satnavi.jaxa.jp/project/aqua/index.html)
-  - [改良型高性能マイクロ波放射計AMSR-E（アムサー・イー）の観測停止について](http://www.jaxa.jp/press/2011/10/20111004_amsr-e_j.html)
-  - [改良型高性能マイクロ波放射計（AMSR-E）の現状とこれまでの成果について](http://www.jaxa.jp/press/2011/10/20111012_sac_amsr-e_j.html)
+  - [改良型高性能マイクロ波放射計AMSR-E（アムサー・イー）の観測停止について](https://www.jaxa.jp/press/2011/10/20111004_amsr-e_j.html)
+  - [改良型高性能マイクロ波放射計（AMSR-E）の現状とこれまでの成果について](https://www.jaxa.jp/press/2011/10/20111012_sac_amsr-e_j.html)
 
 [Category:地球観測衛星](https://ja.wikipedia.org/wiki/Category:地球観測衛星 "wikilink") [Category:アメリカ合衆国の人工衛星](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の人工衛星 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:ブラジルの宇宙開発](https://ja.wikipedia.org/wiki/Category:ブラジルの宇宙開発 "wikilink") [Category:衛星気象学](https://ja.wikipedia.org/wiki/Category:衛星気象学 "wikilink") [Category:海洋学](https://ja.wikipedia.org/wiki/Category:海洋学 "wikilink") [Category:2002年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2002年の宇宙飛行 "wikilink")
 

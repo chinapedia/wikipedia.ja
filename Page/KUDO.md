@@ -116,7 +116,7 @@
 
   - [KUDO（DDTプロレスリング）オフィシャルブログ](https://ameblo.jp/kudo-ddt/)
 
-  - [KUDOのひとりごと](http://ameblo.jp/kudosora/)
+  - [KUDOのひとりごと](https://ameblo.jp/kudosora/)
 
   -
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:DDTに所属するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTに所属するプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

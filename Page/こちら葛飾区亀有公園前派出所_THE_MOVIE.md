@@ -1,7 +1,7 @@
 > この記事は[こちら葛飾区亀有公園前派出所 THE MOVIE](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_THE_MOVIE)から翻訳されています。
 
 
-『**こちら葛飾区亀有公園前派出所 THE MOVIE**』（こちらかつしかくかめありこうえんまえはしゅつじょ ザ ムービー）は、[1999年](../Page/1999年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")に[東宝](../Page/東宝.md "wikilink")洋画系で公開された日本の[アニメ映画である](../Page/アニメーション映画.md "wikilink")。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』の劇場版第1作である。エンディング曲は[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")の「[気持ちだよ](https://ja.wikipedia.org/wiki/気持ちだよ "wikilink")」。
+『**こちら葛飾区亀有公園前派出所 THE MOVIE**』（こちらかつしかくかめありこうえんまえはしゅつじょ ザ ムービー）は、[1999年](../Page/1999年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")に[東宝](../Page/東宝.md "wikilink")洋画系で公開された日本の[アニメ映画である](../Page/アニメーション映画.md "wikilink")。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』の劇場版第1作である。エンディング曲は[吉田拓郎](../Page/吉田拓郎.md "wikilink")の「[気持ちだよ](https://ja.wikipedia.org/wiki/気持ちだよ "wikilink")」。
 
 [2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")（日曜日）19:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）には、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列でテレビ初放送された](../Page/フジネットワーク.md "wikilink")。
 

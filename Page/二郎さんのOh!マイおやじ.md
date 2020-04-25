@@ -15,11 +15,16 @@
   - NETテレビ（現・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）★
   - [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")
   - [東日本放送](../Page/東日本放送.md "wikilink") - 1975年10月放送開始。
+  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - 土曜 18:00 - 18:30に放送\[1\]。
   - 名古屋放送（現・[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")）★
   - [岡山放送](../Page/岡山放送.md "wikilink")（当時の愛称はテレビ岡山）★
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")★
   - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") - NETテレビ製作『[ジャンボ尾崎](https://ja.wikipedia.org/wiki/ジャンボ尾崎 "wikilink")のチャレンジゴルフ』の後番組として放送。
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")★
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")-火曜18:00-18:30に放送。
+  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - 火曜18:00-18:30に放送。
+
+## 脚注
 
 [Category:1975年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のテレビ番組_\(日本\) "wikilink") [Category:朝日放送テレビのトーク番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビのトーク番組 "wikilink") [Category:朝日放送のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送のバラエティ番組の歴史 "wikilink") [Category:朝日放送テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの一社提供番組 "wikilink") [Category:積水ハウス一社提供番組](https://ja.wikipedia.org/wiki/Category:積水ハウス一社提供番組 "wikilink") [Category:コント55号](https://ja.wikipedia.org/wiki/Category:コント55号 "wikilink")
+
+1.  『北國新聞』1975年10月11日付朝刊、テレビ欄。

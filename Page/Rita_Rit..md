@@ -27,7 +27,7 @@
     2.  ナラナイデンワ
     3.  マルガリータ
 3.  冬・メリーゴーランド（1999年12月22日）
-    1.  冬・メリーゴーランド（「[サンクス](https://ja.wikipedia.org/wiki/サンクス "wikilink")」CMソング）
+    1.  冬・メリーゴーランド（「[サンクス](../Page/サンクス.md "wikilink")」CMソング）
     2.  Super Friday
 4.  Eyes（2000年12月6日）
     1.  Eyes（[三洋電機](../Page/三洋電機.md "wikilink")「家族会議」CMソング）

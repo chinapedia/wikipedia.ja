@@ -774,7 +774,7 @@ cover CD</p></td>
 <li>恋をしましょう <small>『<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>』</small></li>
 <li>FUNKY 4 TIMES</li>
 <li>スニーカーぶる〜す <small>『<a href="../Page/近藤真彦.md" title="wikilink">近藤真彦</a>』</small></li>
-<li>チェリー <small>『<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>』</small></li>
+<li>チェリー <small>『<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>』</small></li>
 <li>MIRACLE WAVE</li>
 <li>WELCOME TO MY DOGHOUSE <small>『<a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEY</a>』</small></li>
 <li>美しく燃える森 <small>『<a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>』</small></li>
@@ -2044,7 +2044,7 @@ Al「Extra Funk-a-lismo!」</p></td>
 </tr>
 <tr class="even">
 <td><p>チェリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></p></td>
+<td><p><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a></p></td>
 <td><p>Al「Extra Funk-a-lismo!」</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ACCESSキャンペーン" title="wikilink">ラジオ局の企画にて</a>。</p></td>
 </tr>

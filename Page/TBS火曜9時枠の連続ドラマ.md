@@ -9,7 +9,7 @@
 
 本枠は1987年秋の改編でドラマ枠が月曜21時枠への移動\[1\]により一旦休止しているが、1992年10月 - 1995年9月の間に火曜20時台のドラマ枠が移動してきた形で一時復活している。
 
-本枠での放送作品は第1期、第2期ともに[テレパック](../Page/テレパック.md "wikilink")や木下プロダクション（現:[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")）などの外注作品が主体であった。
+本枠での放送作品は第1期、第2期ともに[テレパック](../Page/テレパック.md "wikilink")や木下プロダクション\[2\]などの外注作品が主体であった。
 
 ## 主な作品リスト
 
@@ -112,7 +112,7 @@
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p>岩手放送</p></td>
-<td><p>現:<a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p>現:<a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -160,7 +160,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -234,8 +234,9 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><br />
 →岡山県・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a></p></td>
-<td><p>1983年3月までの放送エリアは岡山県のみ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
+<td><p>現:<a href="../Page/RSK山陽放送.md" title="wikilink">RSK山陽放送</a><br />
+1983年3月までの放送エリアは岡山県のみ<br />
 1983年4月より<a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送#岡山・香川両県の民放相互乗り入れ放送" title="wikilink">相互乗り入れに伴い香川県でも放送</a></p></td>
 <td></td>
 </tr>
@@ -334,3 +335,4 @@
 [Category:TBS火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
 
 1.  その2年後には、木曜21時枠へ移動。
+2.  2003年に[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")となり、2019年に[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")に統合。

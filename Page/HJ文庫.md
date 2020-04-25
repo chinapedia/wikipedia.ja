@@ -172,65 +172,77 @@
 <td><p>全2巻</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/異世界でタコ焼き屋始めたけどわりと簡単に潰れた" title="wikilink">異世界でタコ焼き屋始めたけどわりと簡単に潰れた</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/七色春日" title="wikilink">七色春日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キンタ" title="wikilink">キンタ</a></p></td>
+<td><p>単巻</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/異世界でトレーナーをしています。" title="wikilink">異世界でトレーナーをしています。</a></p></td>
 <td><p>わかつきひかる</p></td>
 <td><p>植田亮</p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/異世界勇者の攻略術" title="wikilink">異世界勇者の攻略術</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/志木謙介" title="wikilink">志木謙介</a></p></td>
 <td><p>フルーツパンチ</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/いちばんうしろの大魔王.md" title="wikilink">いちばんうしろの大魔王</a></p></td>
 <td><p><a href="../Page/水城正太郎.md" title="wikilink">水城正太郎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伊藤宗一" title="wikilink">伊藤宗一</a></p></td>
 <td><p>全13巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/一騎当戦ウィルドライヴ" title="wikilink">一騎当戦ウィルドライヴ</a></p></td>
 <td><p>在原竹広</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/井上巧" title="wikilink">井上巧</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/命がけのゲームに巻き込まれたので嫌いな奴をノリノリで片っ端から殺してやることにした" title="wikilink">命がけのゲームに巻き込まれたので嫌いな奴をノリノリで片っ端から殺してやることにした</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中田かなた" title="wikilink">中田かなた</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ともぞ" title="wikilink">ともぞ</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/妹ドラゴン兄若ハゲ" title="wikilink">妹ドラゴン兄若ハゲ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/谷口シュンスケ" title="wikilink">谷口シュンスケ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あき（イラストレーター）" title="wikilink">あき</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/インテリぶる推理少女とハメたいせんせい" title="wikilink">インテリぶる推理少女とハメたいせんせい</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/米倉あきら" title="wikilink">米倉あきら</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/和遥キナ" title="wikilink">和遥キナ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/＜Infinite_Dendrogram＞-インフィニット・デンドログラム-" title="wikilink">＜Infinite Dendrogram＞-インフィニット・デンドログラム-</a><br />
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海道左近" title="wikilink">海道左近</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイキ" title="wikilink">タイキ</a></p></td>
 <td><p>既刊12巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/インフィニティ・ブレヱド_-際限なき救済者-" title="wikilink">インフィニティ・ブレヱド -際限なき救済者-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/にのまえあゆむ" title="wikilink">にのまえあゆむ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/泉彩" title="wikilink">泉彩</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァンパイア／ロード" title="wikilink">ヴァンパイア／ロード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/葛西伸哉" title="wikilink">葛西伸哉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さくらねこ" title="wikilink">さくらねこ</a></p></td>
 <td><p>全2巻</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/嘘つき少年の異世界謀略ゲーム" title="wikilink">嘘つき少年の異世界謀略ゲーム</a></p></td>
+<td><p>中田かなた</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/てつぶた" title="wikilink">てつぶた</a></p></td>
+<td><p>既刊1巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/うちの会長は荒ぶる虎猫に似ている。" title="wikilink">うちの会長は荒ぶる虎猫に似ている。</a></p></td>
@@ -257,79 +269,85 @@
 <td><p>全2巻</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/エロティカル・ウィザードと12人の花嫁" title="wikilink">エロティカル・ウィザードと12人の花嫁</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/太陽ひかる" title="wikilink">太陽ひかる</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真早" title="wikilink">真早</a></p></td>
+<td><p>単巻</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/置き去り勇者と不死鳥の翼" title="wikilink">置き去り勇者と不死鳥の翼</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富永浩史" title="wikilink">富永浩史</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/七六" title="wikilink">七六</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/幼なじみと妹が俺の妄想で邪気眼デイドリーム" title="wikilink">幼なじみと妹が俺の妄想で邪気眼デイドリーム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久遠くおん" title="wikilink">久遠くおん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/多門結之" title="wikilink">多門結之</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/押しかけ軍師と獅子の戦乙女" title="wikilink">押しかけ軍師と獅子の戦乙女</a></p></td>
 <td><p>在原竹広</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/黒獅子" title="wikilink">黒獅子</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おまかせ退魔!_シールドガールズ" title="wikilink">おまかせ退魔! シールドガールズ</a></p></td>
 <td><p>すずきあきら<br />
 原作：<a href="../Page/明貴美加.md" title="wikilink">明貴美加</a></p></td>
 <td><p>明貴美加</p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺がヒロインを助けすぎて世界がリトル黙示録!?" title="wikilink">俺がヒロインを助けすぎて世界がリトル黙示録!?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/なめこ印" title="wikilink">なめこ印</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/和狸ナオ" title="wikilink">和狸ナオ</a></p></td>
 <td><p>全16巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺が勇者じゃ救えない!?" title="wikilink">俺が勇者じゃ救えない!?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コクトー" title="wikilink">コクトー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北熊" title="wikilink">北熊</a></p></td>
 <td><p>既刊3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オレと彼女の絶対領域" title="wikilink">オレと彼女の{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鷹山誠一" title="wikilink">鷹山誠一</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伍長_(イラストレーター)" title="wikilink">伍長</a></p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/勇者と魔王のバトルはリビングで" title="wikilink">{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/緋月薙" title="wikilink">緋月薙</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三嶋くろね" title="wikilink">三嶋くろね</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺と彼女のラブコメが全力で黒歴史" title="wikilink">俺と彼女のラブコメが全力で黒歴史</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柑橘ゆすら" title="wikilink">柑橘ゆすら</a></p></td>
 <td><p><a href="../Page/パセリ.md" title="wikilink">パセリ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おれと天使の世界創生" title="wikilink">おれと天使の{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/冬樹忍" title="wikilink">冬樹忍</a></p></td>
 <td><p><a href="../Page/魚_(イラストレーター).md" title="wikilink">魚</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺の人生には深刻なバグがある-創造神の極大誤算" title="wikilink">俺の人生には深刻なバグがある-創造神の{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/しやけ遊魚" title="wikilink">しやけ遊魚</a></p></td>
 <td><p>鈍色玄</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺のリアルとネトゲがラブコメに侵蝕され始めてヤバイ" title="wikilink">俺のリアルとネトゲがラブコメに侵蝕され始めてヤバイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤谷ある" title="wikilink">藤谷ある</a></p></td>
 <td><p>三嶋くろね</p></td>
 <td><p>全8巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺は天剣を掲げ／僕は飛竜と征く" title="wikilink">俺は天剣を掲げ／僕は飛竜と征く</a></p></td>
 <td><p>葛西伸哉</p></td>
 <td><p>黒獅子</p></td>
@@ -411,199 +429,205 @@
 <td><p>全3巻</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/鬼畜の僕はウサギ先輩に勝てない" title="wikilink">鬼畜の僕はウサギ先輩に勝てない</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三咲悠司" title="wikilink">三咲悠司</a></p></td>
+<td><p>和遥キナ</p></td>
+<td><p>単巻</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ギャルスレイヤーだけどギャルしかいない世界に来たからギャルサーの王子になることにした" title="wikilink">ギャルスレイヤーだけどギャルしかいない世界に来たからギャルサーの王子になることにした</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/白乃友" title="wikilink">白乃友</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/necömi" title="wikilink">necömi</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/巨竜城塞のアイノ" title="wikilink">巨竜城塞のアイノ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鳥居羊" title="wikilink">鳥居羊</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/都森すみと" title="wikilink">都森すみと</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/嫌われ魔王が没落令嬢と恋に落ちて何が悪い!" title="wikilink">嫌われ魔王が没落令嬢と恋に落ちて何が悪い!</a></p></td>
 <td><p>猫又ぬこ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/teffish" title="wikilink">teffish</a></p></td>
 <td><p>既刊4巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/金属バットの女" title="wikilink">金属バットの女</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ちゅーばちばちこ" title="wikilink">ちゅーばちばちこ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ryuga" title="wikilink">ryuga</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/勤労魔導士が、かわいい嫁と暮らしたら?" title="wikilink">勤労魔導士が、かわいい嫁と暮らしたら?</a></p></td>
 <td><p>空埜一樹</p></td>
 <td><p>さくらねこ</p></td>
 <td><p>既刊3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クイーンズブレイド_(小説)" title="wikilink">クイーンズブレイド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/沖田栄次" title="wikilink">沖田栄次</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/えぃわ" title="wikilink">えぃわ</a></p></td>
 <td><p>全5巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クイーンズブレイド_リベリオン" title="wikilink">クイーンズブレイド リベリオン</a></p></td>
 <td><p><a href="../Page/小太刀右京.md" title="wikilink">小太刀右京</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/珊琶挿" title="wikilink">珊琶挿</a></p></td>
 <td><p>全1巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クイーンズブレイド_(アニメ)" title="wikilink">クイーンズブレイド 流浪の戦士</a></p></td>
 <td><p>沖田栄次</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮澤努" title="wikilink">宮澤努</a>、<a href="https://ja.wikipedia.org/wiki/憧明良" title="wikilink">憧明良</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/空想／のべりずむ" title="wikilink">空想／のべりずむ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤春都" title="wikilink">藤春都</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぱん" title="wikilink">ぱん</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/腐った林檎と吸血鬼" title="wikilink">腐った林檎と吸血鬼</a></p></td>
 <td><p>夏緑</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/十夜" title="wikilink">十夜</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/串刺しヘルパー_さされさん" title="wikilink">串刺しヘルパー さされさん</a></p></td>
 <td><p><a href="../Page/木村航.md" title="wikilink">木村航</a></p></td>
 <td><p><a href="../Page/中村哲也.md" title="wikilink">中村哲也</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/くじびき勇者さま.md" title="wikilink">くじびき勇者さま</a></p></td>
 <td><p><a href="../Page/清水文化.md" title="wikilink">清水文化</a></p></td>
 <td><p><a href="../Page/牛木義隆.md" title="wikilink">牛木義隆</a></p></td>
 <td><p>全11巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/グラウスタンディア皇国物語" title="wikilink">グラウスタンディア皇国物語</a></p></td>
 <td><p>内堀優一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鵜飼沙樹" title="wikilink">鵜飼沙樹</a>（1-2巻）、<a href="https://ja.wikipedia.org/wiki/野崎つばた" title="wikilink">野崎つばた</a>（3-7巻）</p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/くろかの" title="wikilink">くろかの</a></p></td>
 <td><p>夏緑</p></td>
 <td><p><a href="../Page/さいとうつかさ.md" title="wikilink">さいとうつかさ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/黒き英雄の一撃無双" title="wikilink">黒き英雄の{{読み仮名</a></p></td>
 <td><p>望公太</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夕薙" title="wikilink">夕薙</a></p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クロス†ウィザード_-魔術都市と偽りの仮面-" title="wikilink">クロス†ウィザード -魔術都市と偽りの仮面-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/しきや" title="wikilink">しきや</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/深井涼介" title="wikilink">深井涼介</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クロス・リンク" title="wikilink">クロス・リンク 〜残響少女</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/星野彼方" title="wikilink">星野彼方</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぺたんこさいど" title="wikilink">ぺたんこさいど</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クロの戦記_異世界転移した僕が最強なのはベッドの上だけのようです" title="wikilink">クロの戦記 異世界転移した僕が最強なのはベッドの上だけのようです</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サイトウアユム" title="wikilink">サイトウアユム</a></p></td>
 <td><p>むつみまさと</p></td>
 <td><p>既刊3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/グロリアスドーン" title="wikilink">グロリアスドーン</a></p></td>
 <td><p><a href="../Page/庄司卓.md" title="wikilink">庄司卓</a></p></td>
 <td><p><a href="../Page/四季童子.md" title="wikilink">四季童子</a></p></td>
 <td><p>全12巻<br />
 アイキャッチ2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クイーンズブレイド_(小説)#激闘!_クイーンズブレイド" title="wikilink">激闘! クイーンズブレイド</a></p></td>
 <td><p>沖田栄次</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/赤賀博隆" title="wikilink">赤賀博隆</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/月花の歌姫と魔技の王" title="wikilink">月花の歌姫と魔技の王</a></p></td>
 <td><p>翅田大介</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大場陽炎" title="wikilink">大場陽炎</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/外道王子の魔神隷従" title="wikilink">外道王子の{{読み仮名</a></p></td>
 <td><p>藤谷ある</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/井上巧" title="wikilink">井上巧</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲノム・シード" title="wikilink">ゲノム・シード</a> / ゲノム・スパイラル</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高平鳴海" title="wikilink">高平鳴海</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤城陽" title="wikilink">藤城陽</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/剣と魔法の世界ですが、俺の機械兵器は今日も無敵です。" title="wikilink">剣と魔法の世界ですが、俺の機械兵器は今日も無敵です。</a></p></td>
 <td><p>ツガワトモタカ</p></td>
 <td><p>村上ゆいち</p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/恋する妖狐と神炎の剣士" title="wikilink">恋する妖狐と神炎の剣士</a></p></td>
 <td><p>久遠くおん</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/nyanya" title="wikilink">nyanya</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/高1ですが異世界で城主はじめました" title="wikilink">高1ですが異世界で城主はじめました</a></p></td>
 <td><p>鏡裕之</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ごばん" title="wikilink">ごばん</a></p></td>
 <td><p>既刊17巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/紅炎のクロスマギア〜狂える竜と災厄の魔女〜" title="wikilink">紅炎のクロスマギア〜狂える竜と災厄の魔女〜</a></p></td>
 <td><p>花房牧生</p></td>
 <td><p>植田亮</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/紅鋼の精霊操者" title="wikilink">紅鋼の{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハヤケン" title="wikilink">ハヤケン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/凱" title="wikilink">凱</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/光刃の魔王と月影の少女軍師" title="wikilink">光刃の魔王と月影の少女軍師</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桜崎あきと" title="wikilink">桜崎あきと</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/卵の黄身" title="wikilink">卵の黄身</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/強欲な僕とグリモワール" title="wikilink">強欲な僕とグリモワール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北國ばらっど" title="wikilink">北國ばらっど</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハル犬" title="wikilink">ハル犬</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールドベルク変奏曲（小説）" title="wikilink">ゴールドベルク変奏曲</a></p></td>
 <td><p>五代ゆう</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木理華" title="wikilink">鈴木理華</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴッデス!" title="wikilink">ゴッデス!</a></p></td>
 <td><p><a href="../Page/ひかわ玲子.md" title="wikilink">ひかわ玲子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近衛乙嗣" title="wikilink">近衛乙嗣</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/こもれびノート" title="wikilink">こもれびノート</a></p></td>
 <td><p>しやけ遊魚</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/葛西心" title="wikilink">葛西心</a></p></td>
@@ -1073,78 +1097,84 @@
 <td><p>全3巻</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/デッド・エンド・リローデッド_-無限戦場のリターナー-" title="wikilink">デッド・エンド・リローデッド -無限戦場のリターナー-</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オギャ本バブ美" title="wikilink">オギャ本バブ美</a></p></td>
+<td><p>Niθ</p></td>
+<td><p>単巻</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/天帝学院の侵奪魔術師" title="wikilink">天帝学院の侵奪魔術師</a></p></td>
 <td><p>藤春都</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/refeia" title="wikilink">refeia</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔天世界の聖銃使い" title="wikilink">魔天世界の聖銃使い</a></p></td>
 <td><p>星野彼方</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日向あずり" title="wikilink">日向あずり</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/TOY_JOY_POP" title="wikilink">TOY JOY POP</a></p></td>
 <td><p>浅井ラボ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柴倉乃杏" title="wikilink">柴倉乃杏</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/逃走少女と契約しました。猫だけど。" title="wikilink">逃走少女と契約しました。猫だけど。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西村文宏" title="wikilink">西村文宏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Pikazo" title="wikilink">Pikazo</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/時の悪魔と三つの物語" title="wikilink">時の悪魔と三つの物語</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ころみごや" title="wikilink">ころみごや</a></p></td>
 <td><p>かぼちゃ</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/突然騎士になってムフフな俺がいる" title="wikilink">突然騎士になってムフフな俺がいる</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/糸緒思惟" title="wikilink">糸緒思惟</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三色網戸。" title="wikilink">三色網戸。</a></p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/となりの百鬼夜行" title="wikilink">となりの百鬼夜行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/杉本のこ" title="wikilink">杉本のこ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シヴァ。" title="wikilink">シヴァ。</a></p></td>
 <td><p>全1巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/扉の魔術師の召喚契約" title="wikilink">扉の魔術師の{{読み仮名</a></p></td>
 <td><p>空埜一樹</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぽんじりつ" title="wikilink">ぽんじりつ</a></p></td>
 <td><p>全5巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/友だちの作り方" title="wikilink">友だちの作り方</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛洲かりみ" title="wikilink">愛洲かりみ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/もりちか" title="wikilink">もりちか</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドラグーン・デリバリー_〜竜の背はまごころを運ぶ〜" title="wikilink">ドラグーン・デリバリー 〜竜の背はまごころを運ぶ〜</a></p></td>
 <td><p><a href="../Page/佐々原史緒.md" title="wikilink">佐々原史緒</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/水月悠" title="wikilink">水月悠</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンフリート戦記_神眼の英雄提督" title="wikilink">ドラゴンフリート戦記 神眼の英雄提督</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富永浩史" title="wikilink">富永浩史</a></p></td>
 <td><p><a href="../Page/コニシ.md" title="wikilink">コニシ</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドルグオン・サーガ" title="wikilink">ドルグオン・サーガ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/にゃお" title="wikilink">にゃお</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ペロッチ_／ろぼみすちゃ" title="wikilink">ペロッチ ／ろぼみすちゃ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トルネード!" title="wikilink">トルネード!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伊吹秀明" title="wikilink">伊吹秀明</a></p></td>
 <td><p>四季童子</p></td>
@@ -1196,19 +1226,25 @@
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/日本一の高校生魔術師、異世界奴隷少女をもらう" title="wikilink">日本一の高校生魔術師、異世界奴隷少女をもらう</a></p></td>
+<td><p>藤春都</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/にゅむ" title="wikilink">にゅむ</a></p></td>
+<td><p>既刊2巻</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本上空いらっしゃいませ" title="wikilink">日本上空いらっしゃいませ</a></p></td>
 <td><p>佐々原史緒</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タスクオーナ" title="wikilink">タスクオーナ</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/姉ちゃんは中二病" title="wikilink">姉ちゃんは中二病</a><br />
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤孝剛志" title="wikilink">藤孝剛志</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/An2A" title="wikilink">An2A</a></p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ネームレス・リベリオン" title="wikilink">ネームレス・リベリオン</a></p></td>
 <td><p>草木うしみつ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鉄豚" title="wikilink">鉄豚</a></p></td>
@@ -1321,131 +1357,143 @@
 <td><p>全17巻</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ピンク色のリトルマーメイド！" title="wikilink">ピンク色のリトルマーメイド！</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鼈甲飴雨" title="wikilink">鼈甲飴雨</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イチリ" title="wikilink">イチリ</a></p></td>
+<td><p>単巻</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビンヅメ乙女ゴコロ" title="wikilink">ビンヅメ乙女ゴコロ</a></p></td>
 <td><p>雨森麻杜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/成瀬裕司" title="wikilink">成瀬裕司</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/VRMMO学園で楽しい魔改造のススメ" title="wikilink">VRMMO学園で楽しい魔改造のススメ</a></p></td>
 <td><p>ハヤケン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/晃田ヒカ" title="wikilink">晃田ヒカ</a></p></td>
 <td><p>既刊6巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/VRMMOをカネの力で無双する" title="wikilink">VRMMOをカネの力で無双する</a><br />
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鰤/牙" title="wikilink">鰤/牙</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桑島黎音" title="wikilink">桑島黎音</a></p></td>
 <td><p>全6巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/封印魔竜が最強の仲間たちと数千年後の世界で無双するようですよ?" title="wikilink">封印魔竜が最強の仲間たちと数千年後の世界で無双するようですよ?</a></p></td>
 <td><p>葛西伸哉</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東西_(イラストレーター)" title="wikilink">東西</a></p></td>
 <td><p>既刊3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/封環世界のグリモワール" title="wikilink">封環世界のグリモワール</a></p></td>
 <td><p>にのまえあゆむ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松倉ねむ" title="wikilink">松倉ねむ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フェンリルの鎖" title="wikilink">フェンリルの鎖</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/うかれ猫" title="wikilink">うかれ猫</a></p></td>
 <td><p><a href="../Page/わざきた.md" title="wikilink">わざきた</a></p></td>
 <td><p>全1巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/不器用な天使の取扱説明書" title="wikilink">不器用な天使の取扱説明書</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/黒木サトキ" title="wikilink">黒木サトキ</a></p></td>
 <td><p>町村こもり</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/仏教学校へようこそ" title="wikilink">仏教学校へようこそ</a></p></td>
 <td><p>わかつきひかる</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/犬江しんすけ" title="wikilink">犬江しんすけ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブサメン王子とヤンデレ姫" title="wikilink">ブサメン王子とヤンデレ姫</a></p></td>
 <td><p>宮元戦車</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/氷樹一世" title="wikilink">氷樹一世</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブライトレッド・レベル" title="wikilink">ブライトレッド・レベル</a></p></td>
 <td><p>在原竹広</p></td>
 <td><p><a href="../Page/弘司.md" title="wikilink">弘司</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FLAG_(アニメ).md" title="wikilink">FLAG 〜戦場カメラマン・白州冴子〜</a></p></td>
 <td><p><a href="../Page/渡辺麻実.md" title="wikilink">渡辺麻実</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹内一義" title="wikilink">竹内一義</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フラグの王子様" title="wikilink">フラグの王子様</a></p></td>
 <td><p>織田兄第</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/きくらげ_(イラストレーター)" title="wikilink">きくらげ</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BLACK_SHEEP" title="wikilink">BLACK SHEEP 黒き羊は聖夜に迷う</a></p></td>
 <td><p>富永浩史</p></td>
 <td><p>珊琶挿</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プリンセスはお年頃!" title="wikilink">プリンセスはお年頃!</a></p></td>
 <td><p>榊一郎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/深山和香" title="wikilink">深山和香</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/蒼鋼の冒涜者" title="wikilink">{{読み仮名</a></p></td>
 <td><p>榊一郎</p></td>
 <td><p>赤井てら</p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブレスレス・ハンター" title="wikilink">ブレスレス・ハンター</a></p></td>
 <td><p>葛西伸哉</p></td>
 <td><p><a href="../Page/金田榮路.md" title="wikilink">金田榮路</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘルプリンセスと王統の召喚師" title="wikilink">ヘルプリンセスと王統の召喚師</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/百瀬ヨルカ" title="wikilink">百瀬ヨルカ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/空維深夜" title="wikilink">空維深夜</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ぼいレコ!" title="wikilink">ぼいレコ!</a></p></td>
 <td><p>夏緑</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/雪野みなと" title="wikilink">雪野みなと</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/放課後の世界征服" title="wikilink">放課後の世界征服</a></p></td>
 <td><p>わかつきひかる</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/歩鳥" title="wikilink">歩鳥</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/亡国王の剣とスパイヒップ" title="wikilink">亡国王の剣とスパイヒップ</a></p></td>
 <td><p>岡沢六十四</p></td>
 <td><p>アジシオ</p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/吼える魔竜の捕喰作法" title="wikilink">吼える魔竜の{{読み仮名</a></p></td>
 <td><p>内堀優一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/真琉樹" title="wikilink">真琉樹</a></p></td>
 <td><p>全5巻</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/僕専属のJK魔女と勝ち取る大逆転〈ゲームチェンジ〉" title="wikilink">僕専属のJK魔女と勝ち取る大逆転〈ゲームチェンジ〉</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/六升六郎太" title="wikilink">六升六郎太</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/装甲枕" title="wikilink">装甲枕</a>(1巻) 七六(2巻)</p></td>
+<td><p>既刊2巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/僕の妹は漢字が読める" title="wikilink">僕の妹は漢字が読める</a></p></td>

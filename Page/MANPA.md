@@ -9,7 +9,7 @@
 
 </div>
 
-『**MANPA**』（マンパ）は、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink") (ytv) で[火曜](../Page/火曜日.md "wikilink")[未明](https://ja.wikipedia.org/wiki/未明 "wikilink")（[月曜](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）に放送されている[関西ローカル](../Page/関西ローカル.md "wikilink")の[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠。
+『**MANPA**』（マンパ）は、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink") (ytv) で[火曜](../Page/火曜日.md "wikilink")[未明](https://ja.wikipedia.org/wiki/未明 "wikilink")（[月曜](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）に放送されている[関西ローカル](../Page/関西ローカル.md "wikilink")の[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠。
 
 尚、前身の『**MONDAY PARK**』（マンデーパーク）についても本項で記載する。
 
@@ -27,7 +27,7 @@
 
 『MONDAY PARK』時代は、新聞等の[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")で字数の制約を受ける場合に『マンデーパーク』・『マンデー』・『月パーク』などと略記されることがあった。
 
-[2006年](../Page/2006年.md "wikilink")7月期より、読売テレビが[製作委員会に参加した](../Page/製作委員会方式.md "wikilink")[UHFアニメ](../Page/UHFアニメ.md "wikilink")『[無敵看板娘](https://ja.wikipedia.org/wiki/無敵看板娘 "wikilink")』が当枠で放送され、同局は在阪局で最後となるUHFアニメの放送に参入した。この時は単発の試みに留まったが、[その2年後の](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月期に制作された『[乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")』で本格的に参入して以降はほぼ継続的に新作の製作に関与し、当枠にて放送している。
+[2006年](../Page/2006年.md "wikilink")7月期より、読売テレビが[製作委員会に参加した](../Page/製作委員会方式.md "wikilink")[UHFアニメ](../Page/UHFアニメ.md "wikilink")『[無敵看板娘](https://ja.wikipedia.org/wiki/無敵看板娘 "wikilink")』が当枠で放送され、同局は在阪局で最後となるUHFアニメの放送に参入した。この時は単発の試みに留まったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の7月期に制作された『[乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")』で本格的に参入して以降はほぼ継続的に新作の製作に関与し、当枠にて放送している。
 
 ## 歴史
 
@@ -37,7 +37,7 @@
 
 しかし、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）も『MONDAY PARK』とほぼ同一の時間帯に単発で放送していた深夜アニメ番組を[2011年](../Page/2011年.md "wikilink")4月期よりレギュラー枠化。2012年1月期よりMBSが月曜深夜の2本体制に強化すると、読売テレビも『MONDAY PARK』から『MANPA』に名称変更して対抗し、[2014年](../Page/2014年.md "wikilink")7月期まで競合が発生していた。
 
-2014年10月期よりMBSの月曜深夜アニメ枠は『[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』という名称が付けられたうえで水曜日未明（火曜日深夜）に移設されたため、競合は解消された\[3\]。
+2014年10月期よりMBSの月曜深夜アニメ枠は『[アニメ特区](https://ja.wikipedia.org/wiki/アニメ特区 "wikilink")』という名称が付けられたうえで水曜日未明（火曜日深夜）に移設されたため、競合は解消された\[3\]。
 
 ## オープニング・エンドカード
 
@@ -58,7 +58,7 @@
 ### 作品の分類
 
 1.  自社（もしくは関連子会社の[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")（YTE））製作または製作協力作品
-2.  [日本テレビ製作作品](../Page/日本テレビ放送網.md "wikilink")（[詳細](../Page/日本テレビの深夜アニメ枠.md "wikilink")）
+2.  [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")製作作品（[詳細](../Page/日本テレビの深夜アニメ枠.md "wikilink")）
 3.  [UHFアニメ](../Page/UHFアニメ.md "wikilink")
 4.  [再放送](../Page/再放送.md "wikilink")作品
 5.  [若手アニメーター育成プロジェクト](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")（アニメミライ→あにめたまご）の作品\[4\]
@@ -67,29 +67,17 @@
 
   - 第1部
 
-:\* [ダーウィンズゲーム](https://ja.wikipedia.org/wiki/ダーウィンズゲーム "wikilink")（2020年1月7日 - ）
+:\* [俺を好きなのはお前だけかよ](https://ja.wikipedia.org/wiki/俺を好きなのはお前だけかよ "wikilink")（再放送）（2020年4月7日 - 、TOKYO MX・BS11）
 
   - 第2部
 
-:\* [Re:ステージ！ ドリームデイズ♪](https://ja.wikipedia.org/wiki/Re:ステージ! "wikilink")（2020年1月14日 - ）
+:\* [ハクション大魔王](../Page/ハクション大魔王.md "wikilink")2020（再放送）（2020年4月14日 - 、本局）
 
   - 第3部
 
-:\* [僕のヒーローアカデミア](https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_\(アニメ\) "wikilink")（再放送）（2019年7月16日 - ）
+:\* [アルテ](https://ja.wikipedia.org/wiki/アルテ_\(漫画\) "wikilink")（2020年4月7日 - 、TOKYO MX・BSフジ）
 
 ### 放送予定
-
-  - 第1部
-
-:\* [俺を好きなのはお前だけかよ](https://ja.wikipedia.org/wiki/俺を好きなのはお前だけかよ "wikilink")（再放送）（2020年4月7日 - ）
-
-  - 第2部
-
-:\* [ケイオスドラゴン 赤竜戦役](https://ja.wikipedia.org/wiki/レッドドラゴン_\(TRPG\) "wikilink")（2020年4月7日 - ）
-
-  - 第3部
-
-:\* [アルテ](https://ja.wikipedia.org/wiki/アルテ_\(漫画\) "wikilink")（2020年4月7日 - ）
 
   - 未定
 
@@ -113,7 +101,7 @@
 
 #### 自社製作
 
-[製作委員会への参加作品も含む](../Page/製作委員会方式.md "wikilink")。各作品についての詳細は各作品の記事を、放送に関しての特記事項は脚注を参照のこと。
+[製作委員会](https://ja.wikipedia.org/wiki/製作委員会 "wikilink")への参加作品も含む。各作品についての詳細は各作品の記事を、放送に関しての特記事項は脚注を参照のこと。
 
 <table>
 <thead>
@@ -129,7 +117,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/無敵看板娘" title="wikilink">無敵看板娘</a></p></td>
 <td><p>2006年7月25日 - 10月17日</p></td>
 <td><p>第2部（2:12 - 2:42）</p></td>
-<td><p>本局が製作委員会に直接参加して放送した、初のUHFアニメ作品である。</p></td>
+<td><p>本局が製作委員会に直接参加して放送した、初のUHFアニメ作品。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/結界師_(アニメ).md" title="wikilink">結界師</a>（第38話より）</p></td>
@@ -142,11 +130,11 @@
 <td><p><a href="../Page/乃木坂春香の秘密.md" title="wikilink">乃木坂春香の秘密</a></p></td>
 <td><p>2008年7月15日 - 9月30日</p></td>
 <td><p>第2部（2:39 - 3:09）</p></td>
-<td><p>本局が本格的にUHFアニメの制作に参入する端緒となった作品。以後、現在に至るまでほぼ継続して自社製作UHFアニメを製作・放送している。<br />
+<td><p>本局が本格的にUHFアニメの製作に参入するきっかけとなった作品。<br />
 <a href="https://ja.wikipedia.org/wiki/魔人探偵脳噛ネウロ" title="wikilink">前番組の放送スケジュールにより</a>、10月の第1週から放送するために放送開始前の<a href="../Page/特別番組.md" title="wikilink">事前特番が未放送となった</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ケメコデラックス!" title="wikilink">ケメコデラックス!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケメコデラックス!" title="wikilink">ケメコデラックス！</a></p></td>
 <td><p>2008年10月7日 - 12月23日</p></td>
 <td><p>第2部（2:24 - 2:54）</p></td>
 <td></td>
@@ -164,7 +152,7 @@
 <td><p>本局が最速放送。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/犬夜叉" title="wikilink">犬夜叉</a>-完結編-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/犬夜叉_完結編" title="wikilink">犬夜叉-完結編-</a></p></td>
 <td><p>2009年10月6日 - 2010年3月30日</p></td>
 <td><p>第1部（1:44 - 2:14）</p></td>
 <td></td>
@@ -176,7 +164,7 @@
 <td><p>本局が最速放送。前作と異なり、<a href="../Page/ハイビジョン.md" title="wikilink">ハイビジョン</a>放送に変更。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ギャグマンガ日和.md" title="wikilink">ギャグマンガ日和</a>+</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ギャグマンガ日和+" title="wikilink">ギャグマンガ日和+</a></p></td>
 <td><p>2010年1月5日 - 6月29日</p></td>
 <td><p>第2部（2:14 - 2:20）</p></td>
 <td><p><a href="../Page/キッズステーション.md" title="wikilink">キッズステーション</a>との共同製作。</p></td>
@@ -197,18 +185,18 @@
 <td><p><a href="../Page/ぬらりひょんの孫.md" title="wikilink">ぬらりひょんの孫</a></p></td>
 <td><p>2010年7月6日 - 12月28日</p></td>
 <td><p>第1部（1:44 - 2:14）</p></td>
-<td><p>本局が最速放送。BS11との共同製作。</p></td>
+<td><p>本局が最速放送。<a href="https://ja.wikipedia.org/wiki/BS11" title="wikilink">BS11</a>との共同製作。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/たちゅまる劇場" title="wikilink">たちゅまる劇場</a><br />
-→<a href="https://ja.wikipedia.org/wiki/たちゅまる劇場" title="wikilink">たちゅまる</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/たちゅまる劇場" title="wikilink">たちゅまる劇場<br />
+→たちゅまる</a></p></td>
 <td><p>2010年10月5日 - 2011年3月29日</p></td>
 <td><p>第2部（2:14 - 2:47 → 2:14 - 2:17）</p></td>
 <td><p>2010年12月まではミニアニメ+パロディ元の作品のリバイバル放送の33分枠。<br />
 2011年1月からは『たちゅまる』としてミニアニメパートのみの放送となり、33分だった放送枠は3分になった。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンクライシス!" title="wikilink">ドラゴンクライシス!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンクライシス!" title="wikilink">ドラゴンクライシス！</a></p></td>
 <td><p>2011年1月11日 - 3月29日</p></td>
 <td><p>第1部（1:44 - 2:14）</p></td>
 <td><p>YTE・キッズステーションとの共同製作。</p></td>
@@ -271,7 +259,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ラブライブ!_(テレビアニメ)" title="wikilink">ラブライブ!</a></p></td>
 <td><p>2013年1月8日 - 4月2日</p></td>
 <td><p>第1部（1:58 - 2:28）</p></td>
-<td><p>YTEが協力として参加。2016年1月期に<a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK Eテレで再放送</a>。</p></td>
+<td><p>YTEが協力として参加。2016年1月期に<a href="https://ja.wikipedia.org/wiki/NHK_Eテレ" title="wikilink">NHK Eテレで再放送</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/翠星のガルガンティア" title="wikilink">翠星のガルガンティア</a></p></td>
@@ -286,10 +274,10 @@
 <td><p>2013年7月9日 - 12月24日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/世界でいちばん強くなりたい!" title="wikilink">世界でいちばん強くなりたい!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/世界でいちばん強くなりたい!" title="wikilink">世界でいちばん強くなりたい！</a></p></td>
 <td><p>2013年10月8日 - 12月24日</p></td>
 <td><p>第3部（2:42 - 3:12）</p></td>
-<td><p>YTE・<a href="../Page/アニメシアターX.md" title="wikilink">AT-X</a>・<a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪が製作として参加</a>。</p></td>
+<td><p>YTE・<a href="https://ja.wikipedia.org/wiki/AT-X" title="wikilink">AT-X</a>・<a href="https://ja.wikipedia.org/wiki/ラジオ大阪" title="wikilink">ラジオ大阪</a>が製作として参加。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ノブナガン" title="wikilink">ノブナガン</a></p></td>
@@ -304,7 +292,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/人生_(小説)" title="wikilink">人生相談テレビアニメーション「人生」</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/人生相談テレビアニメーション「人生」" title="wikilink">人生相談テレビアニメーション「人生」</a></p></td>
 <td><p>2014年7月8日 - 9月30日</p></td>
 <td></td>
 <td></td>
@@ -334,58 +322,70 @@
 <td><p>2016年3月までは『club RAINBOW〜虹色デイズ〜』との2本立て。</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/とんかつDJアゲ太郎" title="wikilink">とんかつDJアゲ太郎</a></p></td>
+<td><p>2016年4月12日 - 6月28日</p></td>
+<td><p>第1部前半（1:59 - 2:14）</p></td>
+<td><p>YTEとの共同製作。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/甘々と稲妻" title="wikilink">甘々と稲妻</a></p></td>
 <td><p>2016年7月5日 - 9月20日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/あにめのめ" title="wikilink">あにめのめ</a>』レーベル作品。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/不機嫌なモノノケ庵" title="wikilink">不機嫌なモノノケ庵</a></p></td>
 <td><p>2016年7月5日 - 9月27日</p></td>
 <td><p>第4部（3:10 - 3:40）</p></td>
 <td><p>YTE製作。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[WORKING</p></td>
 <td><p>_(WEB版)|WWW.WORKING</p></td>
 <td><p>]]</p></td>
 <td><p>2016年10月4日 - 12月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/TRICKSTER_-江戸川乱歩「少年探偵団」より-" title="wikilink">TRICKSTER -江戸川乱歩「少年探偵団」より-</a></p></td>
 <td><p>2016年10月4日 - 2017年3月28日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エルドライブ【elDLIVE】" title="wikilink">エルドライブ【ēlDLIVE】</a></p></td>
 <td><p>2017年1月10日 - 3月28日</p></td>
 <td><p>第3部（2:59 - 3:29）</p></td>
 <td><p>YTE製作。</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマノススメ" title="wikilink">ヤマノススメ サードシーズン</a></p></td>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヤマノススメ_サードシーズン" title="wikilink">ヤマノススメ サードシーズン</a></p></td>
 <td><p>2018年7月3日 - 9月25日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
-<td><p>YTE製作。それ以前のシリーズ作品は<a href="https://ja.wikipedia.org/wiki/KBS京都" title="wikilink">KBS京都</a>・<a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビにて放送されていた</a>。</p></td>
+<td><p>YTE製作。それ以前のシリーズ作品は<a href="https://ja.wikipedia.org/wiki/KBS京都" title="wikilink">KBS京都</a>・<a href="https://ja.wikipedia.org/wiki/サンテレビ" title="wikilink">サンテレビ</a>にて放送されていた。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/あかねさす少女" title="wikilink">あかねさす少女</a></p></td>
 <td><p>2018年10月2日 - 12月18日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p><a href="../Page/アニマックス.md" title="wikilink">アニマックス</a>との共同製作。アニマックス開局20周年記念作品。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/エガオノダイカ" title="wikilink">エガオノダイカ</a></p></td>
 <td><p>2019年1月8日 - 3月26日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>、<a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>、<a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MXとの共同製作</a>。タツノコプロ創立55周年記念作品。</p></td>
+<td><p>日本テレビ・<a href="https://ja.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a>・<a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>との共同製作。タツノコプロ創立55周年記念作品。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/スタンドマイヒーローズ_PIECE_OF_TRUTH" title="wikilink">スタンドマイヒーローズ PIECE OF TRUTH</a></p></td>
 <td><p>2019年10月8日 - 12月24日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
-<td><p>TOKYO MX、BS11との共同製作。</p></td>
+<td><p>TOKYO MX・BS11との共同製作。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Re:ステージ!" title="wikilink">Re:ステージ！ ドリームデイズ♪</a></p></td>
+<td><p>2020年1月14日 - 3月31日</p></td>
+<td><p>第2部（2:29 - 2:59）</p></td>
+<td><p>YTE製作。</p></td>
 </tr>
 </tbody>
 </table>
@@ -422,13 +422,13 @@
   - [長崎行男](https://ja.wikipedia.org/wiki/長崎行男 "wikilink")（[音響監督](../Page/音響監督.md "wikilink")、2013年1月8日）
   - [村田和也](../Page/村田和也.md "wikilink")（[翠星のガルガンティア](https://ja.wikipedia.org/wiki/翠星のガルガンティア "wikilink")監督、2013年4月9日）
   - [諏訪道彦](../Page/諏訪道彦.md "wikilink")（読売テレビ編成局アニメーション部チーフプロデューサー、2013年6月11日）
-  - [川口敬一郎](../Page/川口敬一郎.md "wikilink")（[人生相談テレビアニメーション「人生」監督](https://ja.wikipedia.org/wiki/人生_\(小説\) "wikilink")、2014年7月8日）
+  - [川口敬一郎](../Page/川口敬一郎.md "wikilink")（[人生相談テレビアニメーション「人生」](https://ja.wikipedia.org/wiki/人生相談テレビアニメーション「人生」 "wikilink")監督、2014年7月8日）
 
 #### 日本テレビ製作
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")頃までは、大半の作品が日本テレビより1 - 3か月程度の[遅れネット](../Page/遅れネット.md "wikilink")となっていたうえ、ネットすらされなかった作品も多い\[8\]。
 
-[2019年](../Page/2019年.md "wikilink")10月期に放送する日テレアニメ『[トライナイツ](https://ja.wikipedia.org/wiki/トライナイツ "wikilink")』は、本枠ではなく、木曜未明（水曜深夜）の「[水曜スターナイト](https://ja.wikipedia.org/wiki/水曜スターナイト "wikilink")」枠で放送している（本作と同じく日テレが関わる実写ドラマ『HiGH\&LOW THE WORST EPISODE.O』との2番組で構成される枠）。
+[2019年](../Page/2019年.md "wikilink")10月期に放送する日テレアニメ『[トライナイツ](https://ja.wikipedia.org/wiki/トライナイツ "wikilink")』は、本枠ではなく、木曜未明（水曜深夜）の『[水曜スターナイト](https://ja.wikipedia.org/wiki/水曜スターナイト "wikilink")』枠で放送している（本作と同じく日テレが関わる実写ドラマ『HiGH\&LOW THE WORST EPISODE.O』との2番組で構成される枠）。
 
 <table>
 <thead>
@@ -447,7 +447,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アカギ_〜闇に降り立った天才〜" title="wikilink">闘牌伝説アカギ 〜闇に舞い降りた天才〜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/闘牌伝説アカギ_〜闇に舞い降りた天才〜" title="wikilink">闘牌伝説アカギ 〜闇に舞い降りた天才〜</a></p></td>
 <td><p>2005年10月25日 - 2006年4月11日</p></td>
 <td><p>第1部（1:43 - 2:13）</p></td>
 <td></td>
@@ -480,7 +480,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賭博黙示録カイジ.md" title="wikilink">逆境無頼カイジ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/逆境無頼カイジ" title="wikilink">逆境無頼カイジ</a></p></td>
 <td><p>2007年10月30日 - 2008年2月12日<br />
 2008年2月19日 - 5月13日</p></td>
 <td><p>第2部（2:29 - 2:59）<br />
@@ -601,7 +601,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA Judge End</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/戦国BASARA_Judge_End" title="wikilink">戦国BASARA Judge End</a></p></td>
 <td><p>2014年7月15日 - 10月7日</p></td>
 <td><p>第3部（3:14 - 3:44）</p></td>
 <td><p>第1作『戦国BASARA』はMBS・<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">CBCの共同製作</a>。<br />
@@ -609,7 +609,7 @@
 第4作『学園BASARA』は<a href="../Page/TBSテレビ.md" title="wikilink">TBSテレビ</a>で放送。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/寄生獣.md" title="wikilink">寄生獣 セイの格率</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/寄生獣_セイの格率" title="wikilink">寄生獣 セイの格率</a></p></td>
 <td><p>2014年11月4日 - 2015年5月5日</p></td>
 <td><p>第3部（3:12 - 3:42）<br />
 第4部（3:41 - 4:11）</p></td>
@@ -631,13 +631,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ルパン三世_PART5" title="wikilink">ルパン三世 PART5</a></p></td>
 <td><p>2018年4月10日 - 9月25日</p></td>
 <td><p>第3部（2:59 - 3:29）</p></td>
-<td><p>第2クールは第2部にて放送。</p></td>
+<td><p>第2クールは第2部で放送。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/風が強く吹いている" title="wikilink">風が強く吹いている</a></p></td>
 <td><p>2018年10月9日 - 2019年4月2日</p></td>
 <td><p>第3部（2:59 - 3:29）</p></td>
-<td><p>第2クールは第2部にて放送。</p></td>
+<td><p>第2クールは第2部で放送。</p></td>
 </tr>
 </tbody>
 </table>
@@ -656,11 +656,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/薄桜鬼_〜新選組奇譚〜" title="wikilink">薄桜鬼 黎明録</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/薄桜鬼_黎明録" title="wikilink">薄桜鬼 黎明録</a></p></td>
 <td><p>2012年7月10日 - 9月25日</p></td>
 <td><p>第3部（2:53 - 3:23）</p></td>
 <td><p>-</p></td>
-<td><p>本局が最速放送。第1期『薄桜鬼』・第2期『薄桜鬼 碧血録』は関西圏では<a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a>・<a href="../Page/京都放送.md" title="wikilink">KBS京都でネットされていた</a>。<br />
+<td><p>本局が最速放送。第1期『薄桜鬼』・第2期『薄桜鬼 碧血録』は関西圏ではサンテレビ・KBS京都でネットされていた。<br />
 本局としては初の純然たる外部製作UHFアニメとなる。</p></td>
 </tr>
 <tr class="even">
@@ -681,15 +681,15 @@
 <td><p>ラブライブ!（第2期）</p></td>
 <td><p>2014年4月8日 - 7月1日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>-</p></td>
 <td><p>第1期ではYTEが協力として参加していたが、本作では不参加となっており外部製作のUHFアニメとなっている。<br />
 『[[ラブライブ!サンシャイン</p></td>
+<td><p>|ラブライブ!サンシャイン</p></td>
 </tr>
 <tr class="odd">
 <td><p>バディ・コンプレックス 完結編 -あの空に還る未来で-</p></td>
 <td><p>2014年9月30日 - 10月7日</p></td>
 <td><p>第2部（2:41 - 3:11）</p></td>
-<td><p>-</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -711,127 +711,130 @@
 <td><p>2015年7月7日 - 9月22日<br />
 2016年1月12日 - 3月29日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>BSフジ</p></td>
+<td><p><a href="../Page/BSフジ.md" title="wikilink">BSフジ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/とんかつDJアゲ太郎" title="wikilink">とんかつDJアゲ太郎</a></p></td>
-<td><p>2016年4月12日 - 6月28日</p></td>
-<td><p>第1部前半（1:59 - 2:14）</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>SHOW BY ROCK</p></td>
 <td><p>しょ〜と</p></td>
 <td></td>
 <td><p>2016年7月5日 - 9月20日</p></td>
 <td><p>第3部（2:59 - 3:04）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モブサイコ100" title="wikilink">モブサイコ100</a></p></td>
 <td><p>2016年7月12日 - 9月27日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>BSフジ</p></td>
-<td><p>第2期は朝日放送テレビで放送。</p></td>
+<td><p>第2期は<a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a>『<a href="https://ja.wikipedia.org/wiki/水もん" title="wikilink">水もん</a>』枠で放送。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SHOW BY ROCK</p></td>
 <td><p>#</p></td>
 <td><p>2016年10月4日 - 12月20日</p></td>
 <td><p>第3部（2:59 - 3:29）</p></td>
 <td><p>TOKYO MX</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_(アニメ)" title="wikilink">僕のヒーローアカデミア</a>（第1期）</p></td>
 <td><p>2017年1月10日 - 3月28日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a></p></td>
-<td><p>第2期以降は<a href="https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ" title="wikilink">土曜夕方枠で放送</a>。</p></td>
+<td><p><a href="../Page/広域放送.md" title="wikilink">関西圏では実質再放送</a>。<br />
+第2期以降は<a href="https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ" title="wikilink">土曜夕方枠で放送</a>。</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/笑ゥせぇるすまん.md" title="wikilink">笑ゥせぇるすまん</a>NEW</p></td>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/笑ゥせぇるすまんNEW" title="wikilink">笑ゥせぇるすまんNEW</a></p></td>
 <td><p>2017年4月4日 - 6月20日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/あにめのめ" title="wikilink">あにめのめ</a>』レーベル作品。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/潔癖男子!青山くん" title="wikilink">潔癖男子!青山くん</a></p></td>
-<td><p>2017年7月4日 - 9月19日</p></td>
-<td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>TOKYO MX</p></td>
-<td></td>
+<td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/潔癖男子!青山くん" title="wikilink">潔癖男子！青山くん</a></p></td>
+<td><p>2017年7月4日 - 9月19日</p></td>
+<td><p>第2部（2:29 - 2:59）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/妖怪アパートの幽雅な日常" title="wikilink">妖怪アパートの幽雅な日常</a></p></td>
 <td><p>2017年7月4日 - 12月26日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>BS11</p></td>
 <td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ネト充のススメ" title="wikilink">ネト充のススメ</a></p></td>
 <td><p>2017年10月10日 - 12月12日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>TOKYO MX</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい上手の高木さん</a></p></td>
 <td><p>2018年1月9日 - 3月27日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>-</p></td>
 <td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ" title="wikilink">ゴールデンカムイ</a>（第一期）</p></td>
 <td><p>2018年4月10日 - 6月26日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Caligula_-カリギュラ-" title="wikilink">Caligula -カリギュラ-</a></p></td>
 <td><p>2018年4月10日 - 6月27日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>TOKYO MX</p></td>
-<td><p>最終話は「<a href="https://ja.wikipedia.org/wiki/火曜ナイトパーク" title="wikilink">火曜ナイトパーク</a>」枠で放送。</p></td>
+<td><p>最終話は『<a href="https://ja.wikipedia.org/wiki/火曜ナイトパーク" title="wikilink">火曜ナイトパーク</a>』枠で放送。</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ゴールデンカムイ（第二期）</p></td>
 <td><p>2018年10月9日 - 12月25日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
-<td><p>TOKYO MX</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/消滅都市" title="wikilink">消滅都市</a></p></td>
-<td><p>2019年4月9日 - 6月25日</p></td>
-<td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>TOKYO MX</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい上手の高木さん</a>2</p></td>
-<td><p>2019年7月9日 - 9月24日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/消滅都市" title="wikilink">消滅都市</a></p></td>
+<td><p>2019年4月9日 - 6月25日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>TOKYO MX</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鬼滅の刃" title="wikilink">鬼滅の刃</a></p></td>
-<td><p>2019年4月9日 - 10月1日</p></td>
-<td><p>第1部（1:59 - 2:29）</p></td>
+<td><p>からかい上手の高木さん２</p></td>
+<td><p>2019年7月9日 - 9月24日</p></td>
+<td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/鬼滅の刃" title="wikilink">鬼滅の刃</a></p></td>
+<td><p>2019年4月9日 - 10月1日</p></td>
+<td><p>第1部（1:59 - 2:29）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺を好きなのはお前だけかよ" title="wikilink">俺を好きなのはお前だけかよ</a></p></td>
 <td><p>2019年10月8日 - 12月31日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>TOKYO MX<br />
 BS11</p></td>
+<td><p>2020年4月期の第1部で再放送。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ダーウィンズゲーム" title="wikilink">ダーウィンズゲーム</a></p></td>
+<td><p>2020年1月7日 - 3月24日</p></td>
+<td><p>第1部（1:59 - 2:29）</p></td>
+<td><p>TOKYO MX<br />
+BS11<br />
+AT-X</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -956,7 +959,13 @@ BS11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MIX_(漫画)" title="wikilink">MIX</a></p></td>
 <td><p>2019年4月9日 - 6月18日</p></td>
 <td><p>|第3部（2:59 - 3:29）</p></td>
-<td><p>11話までの再放送。</p></td>
+<td><p>第11話までの再放送。</p></td>
+</tr>
+<tr class="even">
+<td><p>僕のヒーローアカデミア</p></td>
+<td><p>2019年7月16日 - 2020年4月7日</p></td>
+<td><p>|第3部（2:59 - 3:29）</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -979,29 +988,29 @@ BS11</p></td>
 
 ### 備考（YTE製作もしくは協力）
 
-[2010年代](../Page/2010年代.md "wikilink")以降は、読売テレビの子会社である[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")（以下、YTE）が製作委員会もしくは協力として参加している作品もあるが（一部は読売テレビと共同）、読売テレビでは作品自体を放送しないケースがしばしば生じている。これらは主に[UHFアニメ](../Page/UHFアニメ.md "wikilink")として、近畿地方では[サンテレビや](../Page/サンテレビジョン.md "wikilink")[KBS京都のいずれか](../Page/京都放送.md "wikilink")（もしくは両方）または[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（[ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink")製作参加作品の場合）でネットされているが、中には近畿地方のどの放送局でも放送されないものもある（同様の事例は[TBS製作の作品にも見られる](../Page/TBSテレビ.md "wikilink")）。
+[2010年代](../Page/2010年代.md "wikilink")以降は、読売テレビの子会社である[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")（以下、YTE）が製作委員会もしくは協力として参加している作品もあるが（一部は読売テレビと共同）、読売テレビでは作品自体を放送しないケースがしばしば生じている。これらは主に[UHFアニメ](../Page/UHFアニメ.md "wikilink")として、近畿地方ではサンテレビやKBS京都のいずれか（もしくは両方）または[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（[ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink")製作参加作品の場合）でネットされているが、中には近畿地方のどの放送局でも放送されないものもある（同様の事例は[TBS製作の作品にも見られる](../Page/TBSテレビ.md "wikilink")）。
 
   - [CHAOS;HEAD](https://ja.wikipedia.org/wiki/CHAOS;HEAD "wikilink")
-    近畿地方での放送なし（地上波は[チバテレ](../Page/千葉テレビ放送.md "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[TOKYO MXのみの放送](../Page/東京メトロポリタンテレビジョン.md "wikilink")）。YTEが製作委員会に参加した初の作品。
+    近畿地方での放送なし（地上波は[チバテレ](https://ja.wikipedia.org/wiki/チバテレ "wikilink")・[テレ玉](https://ja.wikipedia.org/wiki/テレ玉 "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・TOKYO MXでの放送）。YTEが製作委員会に参加した初の作品。
   - [てーきゅう](https://ja.wikipedia.org/wiki/てーきゅう "wikilink")
     第1・第2シリーズは、2015年4月期にサンテレビで遅れ放送。第3シリーズ以降はサンテレビで同時期放送。
   - [石田とあさくら](https://ja.wikipedia.org/wiki/石田とあさくら "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [有頂天家族](https://ja.wikipedia.org/wiki/有頂天家族 "wikilink")
-    近畿地方では作品の舞台でもある[京都府](../Page/京都府.md "wikilink")の放送局・[KBS京都とサンテレビの](../Page/京都放送.md "wikilink")[プライムタイム](../Page/プライムタイム.md "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")で放送。
+    近畿地方では作品の舞台でもある[京都府](../Page/京都府.md "wikilink")の放送局・KBS京都とサンテレビの[プライムタイム](../Page/プライムタイム.md "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")で放送。
   - [魔法少女大戦](https://ja.wikipedia.org/wiki/魔法少女大戦 "wikilink")
-    近畿地方での放送なし（地上波はTOKYO MXの独占放送）。
-  - [ヤマノススメ セカンドシーズン](https://ja.wikipedia.org/wiki/ヤマノススメ "wikilink")
-    近畿地方ではKBS京都のプライムタイムで放送され、後にサンテレビにもネットされた（第1シリーズにYTEは関与せず）。
-  - [毎度\!浦安鉄筋家族](../Page/浦安鉄筋家族.md "wikilink")
+    近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
+  - [ヤマノススメ セカンドシーズン](https://ja.wikipedia.org/wiki/ヤマノススメ_セカンドシーズン "wikilink")
+    近畿地方ではKBS京都のプライムタイムで放送され、後にサンテレビにもネットされた（第1期にYTEは関与せず）。
+  - [毎度\!浦安鉄筋家族](https://ja.wikipedia.org/wiki/毎度!浦安鉄筋家族 "wikilink")
     近畿地方ではサンテレビのプライムタイムで放送。
   - [ビキニ・ウォリアーズ](https://ja.wikipedia.org/wiki/ビキニ・ウォリアーズ "wikilink")
-    近畿地方での放送なし（地上波はTOKYO MXのみの放送）。企画協力作品。
+    近畿地方での放送なし（地上波はTOKYO MXのみの放送）。YTE企画協力作品。
   - [SERVAMP -サーヴァンプ-](https://ja.wikipedia.org/wiki/SERVAMP_-サーヴァンプ- "wikilink")
-    [メ〜テレ企画協力](../Page/名古屋テレビ放送.md "wikilink")。近畿地方ではサンテレビ、中京地区ではメ〜テレで放送。
+    [メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")企画協力。近畿地方ではサンテレビ、中京地区ではメ〜テレで放送。
   - [セントールの悩み](https://ja.wikipedia.org/wiki/セントールの悩み "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
-  - [アニメガタリ](https://ja.wikipedia.org/wiki/アニメガタリ "wikilink")ズ
+  - [アニメガタリズ](https://ja.wikipedia.org/wiki/アニメガタリズ "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [ありすorありす](https://ja.wikipedia.org/wiki/ありすorありす "wikilink")
     近畿地方ではサンテレビで放送。
@@ -1012,15 +1021,17 @@ BS11</p></td>
   - [この世の果てで恋を唄う少女YU-NO](../Page/この世の果てで恋を唄う少女YU-NO.md "wikilink")
     ABCアニメーション・メ〜テレも製作委員会に参加。近畿地方では朝日放送テレビ、中京地区ではメ〜テレで放送。
   - [本好きの下剋上 司書になるためには手段を選んでいられません](https://ja.wikipedia.org/wiki/本好きの下剋上_司書になるためには手段を選んでいられません "wikilink")
-    ABCアニメーションも製作委員会に参加。近畿地方では朝日放送テレビ、中京地区ではメ〜テレで放送。
+    ABCアニメーションも製作委員会に参加。近畿地方では朝日放送テレビで放送。
   - [警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-](https://ja.wikipedia.org/wiki/警視庁_特務部_特殊凶悪犯対策室_第七課_-トクナナ- "wikilink")
-    近畿地方ではサンテレビ、中京地区では[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送。
+    近畿地方ではサンテレビで放送。
   - [魔術士オーフェンはぐれ旅](../Page/魔術士オーフェン_\(アニメ\).md "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [理系が恋に落ちたので証明してみた。](https://ja.wikipedia.org/wiki/理系が恋に落ちたので証明してみた。 "wikilink")
     [北海道文化放送](../Page/北海道文化放送.md "wikilink")も製作委員会に参加。近畿地方では[毎日放送で放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。
   - [ぼくのとなりに暗黒破壊神がいます。](https://ja.wikipedia.org/wiki/ぼくのとなりに暗黒破壊神がいます。 "wikilink")
     近畿地方ではサンテレビで放送。
+  - [継つぐもも](https://ja.wikipedia.org/wiki/継つぐもも "wikilink")
+    [中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")も製作委員会に参加。近畿地方では放送せず、中京地区では中京テレビで放送。
 
 ### 番組の移り変わり
 
@@ -1247,7 +1258,7 @@ BS11</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年10月</p></td>
-<td><p><strong>ケメコデラックス</strong></p></td>
+<td><p><strong>ケメコデラックス！</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1461,7 +1472,7 @@ Best Selection!</strong></p></td>
 <td><p>2013年10月</p></td>
 <td><p><strong>機巧少女は傷つかない</strong></p></td>
 <td><p><strong>世界でいちばん<br />
-強くなりたい!</strong></p></td>
+強くなりたい！</strong></p></td>
 <td><p><strong>HUNTER×HUNTER</strong></p></td>
 <td><p> </p></td>
 <td></td>
@@ -1635,7 +1646,7 @@ Judge End</strong></p></td>
 <tr class="odd">
 <td><p>2017年7月</p></td>
 <td><p><strong>妖怪アパートの幽雅な日常</strong></p></td>
-<td><p><strong>潔癖男子!青山くん</strong></p></td>
+<td><p><strong>潔癖男子！青山くん</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1710,7 +1721,8 @@ Judge End</strong></p></td>
 <tr class="odd">
 <td><p>2019年7月</p></td>
 <td><p><strong>からかい上手の高木さん２</strong></p></td>
-<td><p><strong>僕のヒーローアカデミア（再放送）</strong></p></td>
+<td><p><strong>僕のヒーローアカデミア<br />
+（再放送）</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1737,6 +1749,17 @@ PIECE OF TRUTH</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2020年4月</p></td>
+<td><p><strong>俺を好きなのはお前だけかよ<br />
+（再放送）</strong></p></td>
+<td><p><strong>ハクション大魔王2020<br />
+（再放送）</strong></p></td>
+<td><p><strong>アルテ</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

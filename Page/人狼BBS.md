@@ -121,7 +121,7 @@
 ## 外部リンク
 
   - [人狼BBS:G](http://www.wolfg.x0.com/) G国
-  - [ninjinix](http://d.hatena.ne.jp/ninjin/) 管理人であるninjinのブログ、人狼BBSの変更点が書かれることがある。
+  - [ninjinix](https://ninjin.hatenadiary.jp/) 管理人であるninjinのブログ、人狼BBSの変更点が書かれることがある。
   - [人狼BBS まとめサイト](https://wolfbbs.jp/) 半公式Wiki。その他ネット人狼についてのまとめページなどもある。
 
 [Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:ボードゲームを題材とした作品](https://ja.wikipedia.org/wiki/Category:ボードゲームを題材とした作品 "wikilink")

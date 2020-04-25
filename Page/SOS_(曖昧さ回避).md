@@ -43,7 +43,7 @@
       - セルフ・オープニング・サック (**S**elf **O**pening **S**ack) - 両脇と底にマチがあり、開けると自立するタイプの[紙袋](https://ja.wikipedia.org/wiki/紙袋 "wikilink")。
       - **S.O.S.** - 大韓民国の男性ヒップホップ歌手。2010年デビュー。
       - **[S.O.S.](https://ja.wikipedia.org/wiki/:sv:S.O.S._\(maträtt\) "wikilink")** - スウェーデン料理。前菜で供される。バター(Smör)、チーズ（Ost）、ニシン(Sill)の頭文字から取られている。
-      - [サタデーおじゃま商店](https://ja.wikipedia.org/wiki/サタデーおじゃま商店 "wikilink") - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")で2008年から2009年まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称**SOS**。
+      - [サタデーおじゃま商店](https://ja.wikipedia.org/wiki/サタデーおじゃま商店 "wikilink") - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")で2008年から2009年まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。略称**SOS**。
       - [SOS子供の村](https://ja.wikipedia.org/wiki/SOS子供の村 "wikilink") - オーストリア発祥の児童保護団体
       - **SOS** - [プロレス技](../Page/プロレス技.md "wikilink")。足払いから激しく回転ししのまま[フォールする技](../Page/ピンフォール.md "wikilink")。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") [プロレスラー](../Page/プロレスラー.md "wikilink") [コフィ・キングストン](https://ja.wikipedia.org/wiki/コフィ・キングストン "wikilink")の得意技。
       - **[S-OS](https://ja.wikipedia.org/wiki/Oh!X#THE_SENTINEL "wikilink")**　-　『Oh\!X』誌で連載された全機種共通システムの名称。

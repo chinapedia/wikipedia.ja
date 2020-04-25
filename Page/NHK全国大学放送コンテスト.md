@@ -15,7 +15,7 @@
 
 ## 参加資格
 
-全国の[大学](../Page/大学.md "wikilink")・[短期大学](../Page/短期大学.md "wikilink")・[高等専門学校](../Page/高等専門学校.md "wikilink")の公認団体で、かつ「放送系」を自認する団体であれば良い。そのため、放送[サークル](../Page/サークル.md "wikilink")のほか[ゼミや](../Page/ゼミナール.md "wikilink")[研究室](https://ja.wikipedia.org/wiki/研究室 "wikilink")単位で参加する学生もいる。こうした背景から、同じ大学から複数団体が出場することも珍しくない。
+全国の[大学](../Page/大学.md "wikilink")・[短期大学](../Page/短期大学.md "wikilink")・[高等専門学校](../Page/高等専門学校.md "wikilink")の公認団体で、かつ「放送系」を自認する団体であれば良い。そのため、放送[サークルのほか](../Page/クラブ活動.md "wikilink")[ゼミや](../Page/ゼミナール.md "wikilink")[研究室](https://ja.wikipedia.org/wiki/研究室 "wikilink")単位で参加する学生もいる。こうした背景から、同じ大学から複数団体が出場することも珍しくない。
 
 ## 運営
 

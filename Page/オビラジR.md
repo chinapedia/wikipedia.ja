@@ -1,7 +1,9 @@
 > この記事は[オビラジR](https://ja.wikipedia.org/wiki/オビラジR)から翻訳されています。
 
 
-『**オビラジⓇ**』（オビラジアール）は、[TBSで](../Page/TBSテレビ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")に放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2006年](../Page/2006年のテレビ_\(日本\).md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2009年](https://ja.wikipedia.org/wiki/2009年のテレビ_\(日本\) "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで放送されていた。
+『**オビラジⓇ**』（オビラジアール）は [TBSで](../Page/TBSテレビ.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")に放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[2006年](../Page/2006年のテレビ_\(日本\).md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2009年](https://ja.wikipedia.org/wiki/2009年のテレビ_\(日本\) "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで放送されていた。
+
+ラジオ番組ではなく、テレビ番組である。
 
 ## 概要
 
@@ -709,7 +711,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
 <td></td>
 <td></td>
 </tr>

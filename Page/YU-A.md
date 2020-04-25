@@ -281,7 +281,7 @@
   -
   - [YU-A FANCLUB “You Are My Family”（携帯電話サイト）](http://yu-a-yu-a.jp/)
 
-  - [YU-A公式ブログ『"YU-A"re My Love』](http://ameblo.jp/yu-a-yu-a/)
+  - [YU-A公式ブログ『"YU-A"re My Love』](https://ameblo.jp/yu-a-yu-a/)
 
   -
   -

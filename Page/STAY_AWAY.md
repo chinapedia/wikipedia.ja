@@ -30,19 +30,19 @@
     <!-- end list -->
       -
         [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ピエヌ](../Page/ピエヌ.md "wikilink")」[CMソングであり](../Page/コマーシャルソング.md "wikilink")、前作「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」の後を継いで起用された。
-        歌詞についてhydeは「[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")って自由な国っていうけど、何だかんだ法律いっぱい作って裁判とかしまくってるでしょ？ 細かいことまで。だからなんにも出来ない状態。アメリカ大陸を人と考えて歌ってるようなものですね\[3\]」「英語の語呂合わせみたいな、茶化した感じが全体の軽快さにあってる\[4\]」と述べている。また、hyde曰く、tetsuyaから「結局自由自由と言いながら、それって型にハマってるだけじゃん。全然自由じゃない\[5\]」という話があったといい、このtetsuyaの曲のイメージを基に詞を手掛けている。
-        作曲したtetsuyaは「シングル向きというよりは、ボツになるだろうなと思ってた曲\[6\]」と述べている。曲間には[エフェクター](../Page/エフェクター.md "wikilink")「PSK Core Drive CDV-5」を用いた歪みの効いたベースソロが存在する\[7\]。
         本作と同日に発売された[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用[レーシングゲーム](../Page/レースゲーム.md "wikilink")『[激突トマラルク](https://ja.wikipedia.org/wiki/激突トマラルク "wikilink")』のBGMに本楽曲のゲームアレンジ版が使用されている。
-        [ライブでは](../Page/演奏会.md "wikilink")、[演奏](../Page/演奏.md "wikilink")前の[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロや](../Page/ソロ_\(音楽\).md "wikilink")、[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")でベースを弾き客席に投げるといった演出が定番になっており、ライブで盛り上がる曲のひとつ。この曲で『[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")』に3年連続、通算3度目の出場を果たした。
-        また、ライブツアー「AWAKE TOUR 2005」では各パートを変更して演奏された。演奏形態としては"formation A"と"formation B"の2パターンで行われた。
-        "formation A"ではtetsuyaが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を、hydeが[コーラスの](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パート](https://ja.wikipedia.org/wiki/パート "wikilink")を担当した。更には2番目以降、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")がtetsuyaとボーカルパートを交代し、kenとtetsuyaがボーカルをとったこともある（その際hydeは一貫してコーラスにまわった）。さらに、途中で曲が[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の「[花葬 平成十七年](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に変わり、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がボーカル、hydeがドラムを担当することもあった。本バージョンの演奏の模様はライブビデオ『[AWAKE TOUR 2005](../Page/AWAKE_TOUR_2005.md "wikilink")』に収録され、音源はBD-BOX『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』に付属するライブ音源CDに収録されている。
-        "formation B"ではボーカルをyukihiro、ギターをhyde、ベースをken、ドラムをtetsuyaが担当する形態となっている。本バージョンの音源は現在まで未発表となっている。
+        歌詞についてhydeは「[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")って自由な国っていうけど、何だかんだ法律いっぱい作って裁判とかしまくってるでしょ？ 細かいことまで。だからなんにも出来ない状態。アメリカ大陸を人と考えて歌ってるようなものですね\[3\]」「英語の語呂合わせみたいな、茶化した感じが全体の軽快さにあってる\[4\]」と述べている。また、hyde曰く、tetsuyaから「結局自由自由と言いながら、それって型にハマってるだけじゃん。全然自由じゃない\[5\]」という話があったといい、このtetsuyaの曲のイメージを基に詞を手掛けている。
+        作曲したtetsuyaは「シングル向きというよりは、ボツになるだろうなと思ってた曲\[6\]」と述べている。曲中には[エフェクター](../Page/エフェクター.md "wikilink")「PSK Core Drive CDV-5」を用いた歪みの効いたベースソロが存在する\[7\]。[ライブでは](../Page/演奏会.md "wikilink")、この曲の[演奏](../Page/演奏.md "wikilink")前に[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")の[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロや](../Page/ソロ_\(音楽\).md "wikilink")、[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")でベースを弾き客席に投げるといった演出が定番になっており、ライブで盛り上がる曲のひとつとなっている。
+        yukihiro曰く、この曲のドラム録りに2日ほど掛かったといい、100回近くドラムを叩いたという\[8\]。yukihiroはアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』の制作を通じてテーマがあったといい、「自分の中で次の段階に行きたいなというのもあって。具体的な例をあげると手癖で叩くことをやめようとか、それだけじゃないけど、簡単に言えるとしたらそれかなあ\[9\]」と述べている。ちなみに、この曲で『[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")』に3年連続、通算3度目の出場を果たした。
+        2005年に開催したライブツアー「AWAKE TOUR 2005」ではメンバーの担当パートを変更し演奏され、"formation A"と"formation B"の2パターンで行われた。
+        "formation A"では、tetsuyaが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を、hydeが[コーラスの](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パート](https://ja.wikipedia.org/wiki/パート "wikilink")を担当した。更には曲の2番以降、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")がtetsuyaとボーカルパートを交代し、kenとtetsuyaがボーカルをとったこともある（その際hydeは一貫してコーラスにまわった）。さらに、途中で曲が[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の「[花葬 平成十七年](../Page/New_World_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に変わり、[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")がボーカル、hydeがドラムを担当することもあった。本バージョンの演奏の模様はライブビデオ『[AWAKE TOUR 2005](../Page/AWAKE_TOUR_2005.md "wikilink")』に収録され、音源はBD-BOX『[L'Aive Blu-ray BOX -Limited Edition-](https://ja.wikipedia.org/wiki/L'Aive_Blu-ray_BOX_-Limited_Edition- "wikilink")』に付属するライブ音源CDに収録されている。
+        "formation B"では、ボーカルをyukihiro、ギターをhyde、ベースをken、ドラムをtetsuyaが担当する形態となっている。本バージョンの音源は現在まで未発表となっている。
 2.  **get out from the shell**
       - 作詞:hyde / 作曲:[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink") / 編曲:L'Arc〜en〜Ciel
     <!-- end list -->
       -
-        yukihiroがリスペクトしているバンド・[SOFT BALLETに関わってる](../Page/SOFT_BALLET.md "wikilink")[エンジニアが](../Page/レコーディング・エンジニア.md "wikilink")[ミックスに参加していることから](../Page/ミキシング.md "wikilink")「SOFT BALLETのパクリ」と語っている\[8\]。
-        8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』には歌詞が全て英語の「asian version」が収録されているが、当初はこちらがシングルのカップリングとして収録される予定であった\[9\]。
+        8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』には歌詞が全て英語の「asian version」が収録されているが、当初はこちらがシングルのカップリングとして収録される予定であった\[10\]。
+        yukihiroがリスペクトしているバンド・[SOFT BALLETに関わってる](../Page/SOFT_BALLET.md "wikilink")[エンジニアが](../Page/レコーディング・エンジニア.md "wikilink")[ミックスに参加していることから](../Page/ミキシング.md "wikilink")「SOFT BALLETのパクリ」と語っている\[11\]。
         また、[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[The Best of L'Arc〜en〜Ciel 1998-2000](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』には「asian version」が、『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』、『[TWENITY 2000-2010](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』にはオリジナルバージョンが収録されている。
 3.  **STAY AWAY -Jaze Poo Mix-**
       - 作詞:hyde / 作曲:tetsu / [リミックス](../Page/リミックス.md "wikilink"):TT man
@@ -106,5 +106,7 @@
 5.
 6.
 7.  「BASS MAGAZINE SPECIAL FEATURE SERIES 『tetsuya/L'Arc〜en〜Ciel』」、p.46、リットーミュージック、2010年。
-8.  ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』[2001年](../Page/2001年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")放送回より。
-9.  『WHAT's IN?』、p.32、2000年9月号
+8.  『R\&R NewsMaker』、p.28、2000年10月号
+9.
+10. 『WHAT's IN?』、p.32、2000年9月号
+11. ラジオ番組『[FLYING〜L'Arc〜ATTACK](../Page/FLYING〜L'Arc〜ATTACK.md "wikilink")』[2001年](../Page/2001年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")放送回より。

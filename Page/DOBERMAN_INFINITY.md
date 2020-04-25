@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2019年11月27日</p></td>
-<td><p>We are the one/ずっと</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/We_are_the_one/ずっと" title="wikilink">We are the one/ずっと</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -320,7 +320,8 @@
 | 5IVE                                                                                                                        | “[荒野行動](https://ja.wikipedia.org/wiki/荒野行動 "wikilink")”×“BIGO LIVE JAPAN” コラボイベント公式応援ソング                                                                                            |
 | まだ足りねぇ                                                                                                                      | 映画『[HiGH\&LOW THE WORST](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")』劇中歌                                                                            |
 | ASTRO BOY 〜GO\!GO\!アトム〜                                                                                                     | [テレビ東京系列](../Page/TXNネットワーク.md "wikilink")『[GO\!GO\!アトム](https://ja.wikipedia.org/wiki/GO!GO!アトム "wikilink")』オープニングテーマ                                                              |
-| ずっと                                                                                                                         | [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[PS純金](https://ja.wikipedia.org/wiki/PS純金 "wikilink")』11月度エンディングテーマ                                                                          |
+| ずっと                                                                                                                         | [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[PS純金](https://ja.wikipedia.org/wiki/PS純金 "wikilink")』 2019年11月度エンディングテーマ                                                                    |
+| 2020                                                                                                                        | [読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")『浜ちゃんが！』2020年4月、5月度 エンディングテーマ                                                                                                |
 
 ## ライブ
 
@@ -487,12 +488,14 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
 
 <div class="NavContent" style="text-align: left;">
 
-  - <s>3月07日：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")</s>（新型ウイルスによる政府の自粛要請に従い4月末まで中止）
-  - <s>3月17日：愛知・愛知県芸術劇場 大ホール
-  - 4月17日：新潟・新潟テルサ（振替公演）</s>
+*新型ウイルスによる政府の自粛要請に従い5月末まで中止*
+
+  - <s>3月07日：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")
+  - 3月17日：愛知・愛知県芸術劇場 大ホール
+  - 4月17日：新潟・新潟テルサ（振替公演）
   - 5月08日：東京・[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink") ホールA
   - 5月17日：奈良・なら100年会館 大ホール
-  - 5月23日：広島・ふくやま芸術文化ホール リーデンローズ 大ホール
+  - 5月23日：広島・ふくやま芸術文化ホール リーデンローズ 大ホール</s>
   - 6月27日：岐阜・[長良川国際会議場](../Page/長良川国際会議場.md "wikilink")
   - 7月02日：愛知・愛知県芸術劇場 大ホール（振替公演）
   - 7月07日：千葉・市川市文化会館 大ホール
@@ -518,16 +521,18 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[30\]
 
 <div class="NavContent" style="text-align: left;">
 
-  - <s>3月28日：宮崎・宮崎WEATHER KING</s>（新型ウイルスによる政府の自粛要請に従い4月末まで中止）
-  - <s>3月29日：鹿児島・鹿児島CAPARVO HALL
+*新型ウイルスによる政府の自粛要請に従い5月末まで中止*
+
+  - <s>3月28日：宮崎・宮崎WEATHER KING
+  - 3月29日：鹿児島・鹿児島CAPARVO HALL
   - 3月31日：熊本・熊本B.9 V1
   - 4月04日：茨城・水戸LIGHT HOUSE
-  - 4月05日：山梨・甲府KAZOO HALL</s>
+  - 4月05日：山梨・甲府KAZOO HALL
   - 5月16日：京都・京都FANJ
   - 5月19日：滋賀・[滋賀U★STONE](https://ja.wikipedia.org/wiki/U★STONE "wikilink")
   - 5月20日：和歌山・和歌山 CLUB GATE
   - 5月30日：秋田・[秋田Club SWINDLE](https://ja.wikipedia.org/wiki/秋田Club_SWINDLE "wikilink")
-  - 5月31日：山形・[山形ミュージック昭和Session](https://ja.wikipedia.org/wiki/山形ミュージック昭和Session "wikilink")
+  - 5月31日：山形・[山形ミュージック昭和Session](https://ja.wikipedia.org/wiki/山形ミュージック昭和Session "wikilink")</s>
   - 6月13日：鳥取・米子laughs
   - 6月14日：島根・松江canova
   - 6月20日：宮城・[Rensa](https://ja.wikipedia.org/wiki/Rensa "wikilink")

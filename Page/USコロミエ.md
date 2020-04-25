@@ -17,6 +17,10 @@
   - [ミハイ・マコベイ](../Page/ミハイ・マコベイ.md "wikilink") - ナンバーエイト、ルーマニア代表
   - [ヨハン・ディーゼル](../Page/ヨハン・ディーゼル.md "wikilink") - センター、[ナミビア代表](../Page/ラグビーナミビア代表.md "wikilink")
 
+## 過去の所属選手
+
+  - [トマス・ロハス](https://ja.wikipedia.org/wiki/トマス・ロハス_\(ラグビー選手\) "wikilink") - フルバック、[フランス代表](../Page/ラグビーフランス代表.md "wikilink")
+
 ## 外部リンク
 
   - [US Colomiers Rugby](http://www.colomiers-rugby.com/)

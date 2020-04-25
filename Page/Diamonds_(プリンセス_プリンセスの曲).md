@@ -7,7 +7,7 @@
 
 前作「GET CRAZY\!」が[ドラマ](../Page/テレビドラマ.md "wikilink")[主題歌](../Page/主題歌.md "wikilink")となったことにより、徐々に知名度を上げていたプリンセス・プリンセスが、前作からちょうど半年ぶりにリリースした作品。前作で成し遂げられなかった[オリコンシングルチャートTOP](../Page/オリコンチャート.md "wikilink")10入りを成し遂げ、ついには1位にまで上り詰める大ヒット曲となった。[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には「世界でいちばん熱い夏」の再[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")バージョンが新たに収録されて再発売されている。
 
-[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")[キーは](https://ja.wikipedia.org/wiki/調 "wikilink")[ホ長調](../Page/ホ長調.md "wikilink")（終盤は[ヘ長調](https://ja.wikipedia.org/wiki/ヘ長調 "wikilink")に転調）\[1\]。歌詞に出てくる「針」というのは、当時まだ使われていたアナログレコードの針のことである。
+[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")[キーは](../Page/調.md "wikilink")[ホ長調](../Page/ホ長調.md "wikilink")（終盤は[ヘ長調](https://ja.wikipedia.org/wiki/ヘ長調 "wikilink")に転調）\[1\]。歌詞に出てくる「針」というのは、当時まだ使われていたアナログレコードの針のことである。
 
 ## 売上
 
@@ -38,7 +38,7 @@
         [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")『[ざまぁKANKAN\!](../Page/ざまぁKANKAN!.md "wikilink")』のコーナー「失恋伝言板」の挿入歌として使用された。
         [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[だんだん](https://ja.wikipedia.org/wiki/だんだん "wikilink")』の劇中歌として使用された。
         [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink") [プレミアムドラマ](https://ja.wikipedia.org/wiki/プレミアムドラマ "wikilink")『[昨夜のカレー、明日のパン](https://ja.wikipedia.org/wiki/昨夜のカレー、明日のパン "wikilink")』の主題歌として使用された。
-        [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")が[2000年](../Page/2000年.md "wikilink")にリリースした「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」とは関連はないが、浜崎は自身の[音楽番組](../Page/音楽番組.md "wikilink")『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』内でプリンセス・プリンセスの「M」を歌唱したことがある。
+        [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[2000年](../Page/2000年.md "wikilink")にリリースした「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」とは関連はないが、浜崎は自身の[音楽番組](../Page/音楽番組.md "wikilink")『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』内でプリンセス・プリンセスの「M」を歌唱したことがある。
 
 ### 1993年版
 

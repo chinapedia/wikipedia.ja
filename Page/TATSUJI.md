@@ -66,7 +66,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.tatsuji.ne.jp/index.html)
-  - [世界制覇](http://ameblo.jp/tatsuji/) - 公式ブログ
+  - [世界制覇](https://ameblo.jp/tatsuji/) - 公式ブログ
   - [K-1 選手データ](http://www.k-1.co.jp/jp/fighter/player.php?index=tatsuji)
   - [プロフィール](http://2win.co.jp/profile/0_01_tatsuji/0_01_tatsuji.html)（2win）
 

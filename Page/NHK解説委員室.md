@@ -227,7 +227,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/権藤敏範" title="wikilink">権藤敏範</a></p></td>
 <td><p>政治・外交・安全保障</p></td>
 <td><p>記者</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュース_シブ5時" title="wikilink">ニュース シブ5時</a>※</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -250,7 +250,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/曽我英弘" title="wikilink">曽我英弘</a></p></td>
 <td><p>政治全般</p></td>
 <td><p>記者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュース_シブ5時" title="wikilink">ニュース シブ5時</a>※</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -272,37 +272,30 @@
 <td><p>スポーツ・パラリンピック・福祉</p></td>
 <td><p>記者</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/半身麻痺" title="wikilink">半身麻痺</a>のため、車椅子を使用している。障害者の立場から福祉問題やパラリンピックの取材を行う。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/半身麻痺" title="wikilink">半身麻痺</a>のため、車椅子を使用している。障害者の立場から福祉問題やパラリンピックの取材を行う。 |-　シブ５時</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/竹田忠" title="wikilink">竹田忠</a></p></td>
-<td><p>社会保障・経済</p></td>
-<td><p>記者</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/田中正良" title="wikilink">田中正良</a></p></td>
 <td><p>国際情勢全般</p></td>
 <td><p>記者</p></td>
 <td></td>
 <td><p>ワシントン支局長</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/土屋敏之" title="wikilink">土屋敏之</a></p></td>
 <td><p>科学・医学・環境</p></td>
 <td><p>記者</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Nらじ" title="wikilink">Nらじ</a>※</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/津屋尚" title="wikilink">津屋尚</a></p></td>
 <td><p>軍事・安全保障・海洋</p></td>
 <td><p>記者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュース_シブ5時" title="wikilink">ニュース シブ5時</a>※</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/英国王立防衛安全保障研究所" title="wikilink">英国王立防衛安全保障研究所</a>（RUSI）客員研究員、海上保安庁政策アドバイザーを歴任。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/出川展恒" title="wikilink">出川展恒</a><br />
 （でがわ・のぶひさ）</p></td>
 <td><p>中東・イスラム地域</p></td>
@@ -311,22 +304,22 @@
 <td><p>カイロ、バグダッド、エルサレム各支局長。<br />
 愛称は苗字から「<a href="../Page/出川哲朗.md" title="wikilink">ヤバイヨ</a>」。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中村幸司" title="wikilink">中村幸司</a></p></td>
 <td><p>医療・科学・交通</p></td>
 <td><p>記者</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みんなで科学ラボラジオ" title="wikilink">みんなで科学ラボラジオ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/一級建築士" title="wikilink">一級建築士</a>、<a href="https://ja.wikipedia.org/wiki/応急危険度判定士" title="wikilink">応急危険度判定士</a>、地盤品質判定士、ブロック塀診断士の資格を所持。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川吉郎" title="wikilink">西川吉郎</a><br />
 （にしかわ・よしお）</p></td>
 <td><p>国際政治</p></td>
 <td><p>記者</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Nらじ" title="wikilink">Nらじ</a>※</p></td>
 <td><p>パリ、ワシントン各支局長、中国総局長、前解説委員長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川龍一" title="wikilink">西川龍一</a><br />
 （にしがわ・りゅういち）</p></td>
 <td><p>教育・地方自治・社会</p></td>
@@ -334,28 +327,28 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/関東ラグビーフットボール協会" title="wikilink">関東ラグビー協会公認B級レフェリーの資格を持つ</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/二村伸" title="wikilink">二村伸</a></p></td>
 <td><p>中東・アフリカ・欧州・東南アジア・南西アジア</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/NHK海外ネットワーク.md" title="wikilink">NHK海外ネットワーク</a>、<a href="https://ja.wikipedia.org/wiki/Nらじ" title="wikilink">Nらじ</a>※</p></td>
 <td><p>カイロ特派員、ベルリン支局長、アジア総局長、元解説副委員長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/藤野優子" title="wikilink">藤野優子</a></p></td>
 <td><p>社会保障</p></td>
 <td><p>記者</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/堀家春野" title="wikilink">堀家春野</a></p></td>
 <td><p>社会保障・医療・介護</p></td>
 <td><p>記者</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュース_シブ5時" title="wikilink">ニュース シブ5時</a>※</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/松本卓" title="wikilink">松本卓</a><br />
 （まつもと・たかし）</p></td>
 <td><p>政治一般</p></td>
@@ -363,14 +356,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/松本浩司" title="wikilink">松本浩司</a></p></td>
 <td><p>自然災害・防災、交通</p></td>
 <td><p>記者</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/神子田章博" title="wikilink">神子田章博</a><br />
 （みこだ・あきひろ）</p></td>
 <td><p>財政・金融、米国・中国経済</p></td>
@@ -378,7 +371,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Nらじ" title="wikilink">Nらじ</a>※</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/水野倫之" title="wikilink">水野倫之</a><br />
 （みずの・のりゆき）</p></td>
 <td><p>科学技術・原子力・宇宙</p></td>
@@ -386,14 +379,14 @@
 <td></td>
 <td><p>愛称は「みずのん」。取材時に撮影した映像を放送することも多い。ヨーロッパの地熱発電の取材では、自らが地熱による温泉に半身浴をしながら、現地の様子を説明する映像も放送された。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/三輪誠司" title="wikilink">三輪誠司</a></p></td>
 <td><p>IT・文化・消費者問題</p></td>
 <td><p>記者</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュース_シブ5時" title="wikilink">ニュース シブ5時</a>※</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/百瀬好道" title="wikilink">百瀬好道</a><br />
 （ももせ・よしみち）</p></td>
 <td><p>ヨーロッパ政治・経済</p></td>
@@ -401,7 +394,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Nらじ" title="wikilink">Nらじ</a>※</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/横山善一" title="wikilink">横山善一</a><br />
 </p></td>
 <td><p>経済全般</p></td>

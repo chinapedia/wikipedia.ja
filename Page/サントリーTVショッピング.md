@@ -18,7 +18,7 @@
 ## 主な放送配給局
 
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+  - [信越放送](../Page/信越放送.md "wikilink")
   - [テレビ長崎](../Page/テレビ長崎.md "wikilink")
   - [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")
   - [BS-TBS](../Page/BS-TBS.md "wikilink")

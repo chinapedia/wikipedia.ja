@@ -116,7 +116,7 @@ Xbox 360では[XNAを利用して個人でも](../Page/Microsoft_XNA.md "wikilin
 
 ## 外部リンク
 
-  - [Xbox.com | Xbox Live - TOP](http://www.xbox.com/ja-JP/live/)
+  - [Xbox Live | Xbox](https://www.xbox.com/ja-JP/live/)
 
 [らいふ](https://ja.wikipedia.org/wiki/カテゴリ:Xbox "wikilink") [カテゴリ:オンラインゲーム](https://ja.wikipedia.org/wiki/カテゴリ:オンラインゲーム "wikilink") [カテゴリ:インターネットサービス](https://ja.wikipedia.org/wiki/カテゴリ:インターネットサービス "wikilink")
 

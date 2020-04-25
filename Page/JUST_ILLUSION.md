@@ -37,6 +37,6 @@
 
 ## 脚注
 
-[Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:T-BOLANの楽曲](https://ja.wikipedia.org/wiki/Category:T-BOLANの楽曲 "wikilink") [Category:テレビドラマ挿入歌](https://ja.wikipedia.org/wiki/Category:テレビドラマ挿入歌 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:ロ短調](https://ja.wikipedia.org/wiki/Category:ロ短調 "wikilink")
+[Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:T-BOLANの楽曲](https://ja.wikipedia.org/wiki/Category:T-BOLANの楽曲 "wikilink") [Category:テレビドラマ挿入歌](https://ja.wikipedia.org/wiki/Category:テレビドラマ挿入歌 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  本曲以外に主題歌である[松田博幸](../Page/松田博幸.md "wikilink")/「MONOCHROME MELODY」と[増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")や[望月衛介](../Page/望月衛介.md "wikilink")が劇伴を手掛けた楽曲を収録

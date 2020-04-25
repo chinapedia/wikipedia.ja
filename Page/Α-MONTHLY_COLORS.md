@@ -46,7 +46,7 @@
 
 4月以降・・・放送時間：日曜日18:00～19:00。
 
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") (4月)
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") (4月)
   - [山根康広](../Page/山根康広.md "wikilink") (5月)
   - [東野純直](../Page/東野純直.md "wikilink") (6月)
   - [TO BE CONTINUED](../Page/To_Be_Continued.md "wikilink") (7月)

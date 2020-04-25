@@ -69,7 +69,7 @@
   - [Yae](https://ja.wikipedia.org/wiki/Yae "wikilink") (**PARKSIDE JAM**から移動。2002年10月～2005年3月)
   - [木住野佳子](https://ja.wikipedia.org/wiki/木住野佳子 "wikilink") (2005年4月～9月)
   - [チェン・ミン](../Page/チェン・ミン.md "wikilink") (2005年10月～12月)
-  - [ARIA](https://ja.wikipedia.org/wiki/ARIA "wikilink") (2006年1月～2006年3月。担当番組(**TURN IT UP\!\!**)自体は枠移動の上2007年3月まで継続)
+  - [ARIA](../Page/ARIA_\(歌手\).md "wikilink") (2006年1月～2006年3月。担当番組(**TURN IT UP\!\!**)自体は枠移動の上2007年3月まで継続)
 
 #### 木曜日
 

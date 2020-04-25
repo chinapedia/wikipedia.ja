@@ -33,6 +33,7 @@
   - [吉田朱里](https://ja.wikipedia.org/wiki/吉田朱里 "wikilink")（[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")） - 2018年3月〜
   - [高橋ひかる](https://ja.wikipedia.org/wiki/高橋ひかる_\(2001年生\) "wikilink") - 2018年11月〜
   - [佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美_\(アイドル\) "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")） - 2019年2月〜
+  - [金川紗耶](https://ja.wikipedia.org/wiki/金川紗耶 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）- 2020年4月
 
 **主な出身者**
 
@@ -60,7 +61,7 @@
   - [美優](../Page/美優.md "wikilink")
   - [南里美希](https://ja.wikipedia.org/wiki/南里美希 "wikilink")
   - [朝比奈彩](https://ja.wikipedia.org/wiki/朝比奈彩 "wikilink")
-  - [白石麻衣](https://ja.wikipedia.org/wiki/白石麻衣 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）
+  - [白石麻衣](https://ja.wikipedia.org/wiki/白石麻衣 "wikilink")（乃木坂46）
   - [西川瑞希](https://ja.wikipedia.org/wiki/西川瑞希 "wikilink")
   - [鹿沼憂妃](https://ja.wikipedia.org/wiki/鹿沼憂妃 "wikilink")
   - [佐藤晴美](https://ja.wikipedia.org/wiki/佐藤晴美 "wikilink")（[Flower](https://ja.wikipedia.org/wiki/Flower_\(グループ\) "wikilink")、[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")）

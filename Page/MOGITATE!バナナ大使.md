@@ -49,7 +49,7 @@
 | [関東広域圏](../Page/広域放送.md "wikilink")                               | [TBS](../Page/TBSテレビ.md "wikilink")                         | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | **製作局** |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [北海道放送](../Page/北海道放送.md "wikilink")                        |                                                 |         |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")                        |                                                 |         |
-| [岩手県](../Page/岩手県.md "wikilink")                                  | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") |                                                 |         |
+| [岩手県](../Page/岩手県.md "wikilink")                                  | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                    |                                                 |         |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink")                          |                                                 |         |
 | [山形県](../Page/山形県.md "wikilink")                                  | [テレビユー山形](../Page/テレビユー山形.md "wikilink")                    | 1989年10月の開局時から                                  |         |
 | [福島県](../Page/福島県.md "wikilink")                                  | [テレビユー福島](../Page/テレビユー福島.md "wikilink")                    |                                                 |         |
@@ -57,7 +57,7 @@
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")                | 1990年10月の開局時から                                  |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")       |                                                 |         |
 | [山梨県](../Page/山梨県.md "wikilink")                                  | [テレビ山梨](../Page/テレビ山梨.md "wikilink")                        |                                                 |         |
-| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")       |                                                 |         |
+| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](../Page/信越放送.md "wikilink")                          |                                                 |         |
 | [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")       |                                                 |         |
 | [中京広域圏](../Page/広域放送.md "wikilink")                               | [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")   |                                                 |         |
 | [近畿広域圏](../Page/広域放送.md "wikilink")                               | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")     |                                                 |         |

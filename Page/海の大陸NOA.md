@@ -261,7 +261,7 @@
 
 <references />
 
-[Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink")
+[Category:漫画作品_う](https://ja.wikipedia.org/wiki/Category:漫画作品_う "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:未来を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした漫画作品 "wikilink")
 
 1.  一部では○の中に×の表記。
 2.  作中の墓石や新聞などから24世紀であることがわかる。

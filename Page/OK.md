@@ -38,6 +38,7 @@
   - [OKブドゥチノスト・ポドゴリツァ](https://ja.wikipedia.org/wiki/OKブドゥチノスト・ポドゴリツァ "wikilink") () - モンテネグロのスポーツクラブ「[ブドゥチノスト・ポドゴリツァ](https://ja.wikipedia.org/wiki/ブドゥチノスト・ポドゴリツァ "wikilink")」の[バレー部門](../Page/バレーボール.md "wikilink")
   - [OKリーグ](https://ja.wikipedia.org/wiki/OKリーグ "wikilink") () - スペインの[ローラーホッケー](../Page/ローラーホッケー.md "wikilink")リーグ
   - OK牧場 - 映画『[OK牧場の決斗](../Page/OK牧場の決斗.md "wikilink")』で有名なアメリカ西部の地所
+  - [okちゃん](https://ja.wikipedia.org/wiki/okちゃん "wikilink") - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")の[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")
 
 ## 関連項目
 

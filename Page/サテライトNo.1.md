@@ -29,9 +29,9 @@
 
 ## ネット局
 
-ダイイチ（第一産業）の店舗網拡大に合わせて制作局の[中国放送](../Page/中国放送.md "wikilink")の他、1974年4月から[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")\[32\]\[33\]、少し遅れて[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")\[34\]\[35\]、1976年4月から[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[36\]\[37\]、1977年4月から[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")で放送開始\[38\]\[39\]。ブロックネット番組になった\[40\]\[41\]。
+ダイイチ（第一産業）の店舗網拡大に合わせて制作局の[中国放送](../Page/中国放送.md "wikilink")の他、1974年4月から[山口放送](../Page/山口放送.md "wikilink")\[32\]\[33\]、少し遅れて[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")\[34\]\[35\]、1976年4月から[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[36\]\[37\]、1977年4月から[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")で放送開始\[38\]\[39\]。ブロックネット番組になった\[40\]\[41\]。
 
-1985年4月には、さらなるダイイチの店舗網拡大により[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）でも放送された\[42\]。
+1985年4月には、さらなるダイイチの店舗網拡大により[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（[KBCラジオ](../Page/KBCラジオ.md "wikilink")）でも放送された\[42\]。
 
 ## 関連項目
 

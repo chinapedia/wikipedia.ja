@@ -23,7 +23,7 @@
         CMのキャッチコピーから、「癒しの音楽」として認識されている\[5\]。
         [2005年](../Page/2005年.md "wikilink")には坂本のアルバム『[:/05](https://ja.wikipedia.org/wiki/:/05 "wikilink")』で[セルフカバー](../Page/セルフカバー.md "wikilink")が行われている。
         [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[スケボーキング](../Page/スケボーキング.md "wikilink")が同曲を[リメイク](../Page/リメイク.md "wikilink")したヴァージョンをシングル「elegy train」に収録している。
-        坂本曰く、ポップ路線などは何も考えずに5分ほどで作った曲で、なぜこの曲が売れたのかが未だに分からないという\[6\]。「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」にてこの曲を披露している。
+        坂本曰く、ポップ路線などは何も考えずに5分ほどで作った曲で、なぜこの曲が売れたのかが未だに分からないという\[6\]。「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」にてこの曲を披露している。
         2016年には[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")が同曲をサンプリングした楽曲*BABYLON*を発表した（アルバム『LIBERTY』収録）。
         2018年にU-zhaanと坂本によるリワークバージョンが発売された\[7\]。
 2.  **put your hands up (piano version)**

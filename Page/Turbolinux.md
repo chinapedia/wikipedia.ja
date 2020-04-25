@@ -48,6 +48,7 @@
   - 2012年7月25日 - Turbolinux Client 12.5を発表(8月29日より発売)
   - 2015年8月25日 - Turbolinux Client 12.5のメンテナンスを終了
   - 2017年11月29日 - Turbolinux 11 Serverのメンテナンスを終了\[5\]
+  - 2019年12月31日 - ターボリナックス社解散。ソフトウェア流通事業を[コネクト](http://www.konekto.jp/)株式会社、Turbolinux関連を[ターボシステムズ社](http://www.turbosystems.co.jp/)に各々移管した。
 
 ## 関連項目
 

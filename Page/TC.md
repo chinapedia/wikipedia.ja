@@ -23,6 +23,7 @@
   - [TC療法](https://ja.wikipedia.org/wiki/TC療法 "wikilink")（乳癌術後補助化学療法としてのドセタキセルとシクロフォスファミド併用療法）の通称。
   - [トラクションコントロール](../Page/トラクションコントロールシステム.md "wikilink") (Traction Control)の略称。
   - [熱帯低気圧](../Page/熱帯低気圧.md "wikilink")(Tropical Cyclone)
+  - 受用（To Contain） - [体積](https://ja.wikipedia.org/wiki/体積 "wikilink")の定め方の一種。
   - 民間[航空機の登録番号](https://ja.wikipedia.org/wiki/機体番号 "wikilink")（レジスタ）における国籍表示で[トルコ](../Page/トルコ.md "wikilink")を表す。
   - [交通事故](../Page/交通事故.md "wikilink")([:en:Traffic Collision](https://ja.wikipedia.org/wiki/:en:Traffic_Collision "wikilink"))の略称
   - [TC型無線式列車接近警報装置](https://ja.wikipedia.org/wiki/TC型無線式列車接近警報装置 "wikilink")の現場での通称。

@@ -207,7 +207,7 @@ iPhoneの場合は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "
 
 ## Edyギフト
 
-EdyスマイルクーポンやEdyハッピー優待、キャンペーン、ポイントサイトなどの特典として受け取れるものに、Edyギフトがある。Edyギフトが届いている場合、PaSoRiやおサイフケータイで操作することにより、受け取りと同時に直接チャージすることができる。なお、日本全国の[ファミリーマート](../Page/ファミリーマート.md "wikilink")に設置されている[ファミポート](https://ja.wikipedia.org/wiki/ファミポート "wikilink")、同社の[サークルK](../Page/サークルK.md "wikilink")および[サンクス](https://ja.wikipedia.org/wiki/サンクス "wikilink")設置の[Kステーション](https://ja.wikipedia.org/wiki/Kステーション "wikilink")と[DAMステーション](https://ja.wikipedia.org/wiki/DAMステーション "wikilink")の設置されているカラオケ店、空港内などに設置されているANAの端末（ANA web KIOSKかANA SKY KIOSK）でもEdyギフトが受け取れる。
+EdyスマイルクーポンやEdyハッピー優待、キャンペーン、ポイントサイトなどの特典として受け取れるものに、Edyギフトがある。Edyギフトが届いている場合、PaSoRiやおサイフケータイで操作することにより、受け取りと同時に直接チャージすることができる。なお、日本全国の[ファミリーマート](../Page/ファミリーマート.md "wikilink")に設置されている[ファミポート](https://ja.wikipedia.org/wiki/ファミポート "wikilink")、同社の[サークルK](../Page/サークルK.md "wikilink")および[サンクス](../Page/サンクス.md "wikilink")設置の[Kステーション](https://ja.wikipedia.org/wiki/Kステーション "wikilink")と[DAMステーション](https://ja.wikipedia.org/wiki/DAMステーション "wikilink")の設置されているカラオケ店、空港内などに設置されているANAの端末（ANA web KIOSKかANA SKY KIOSK）でもEdyギフトが受け取れる。
 
 一部の高速道路（主として[中日本高速道路](../Page/中日本高速道路.md "wikilink")）の[サービスエリア](../Page/サービスエリア.md "wikilink")でも、インフォメーションセンターにEdyギフト受け取り用端末の設置例がある。あらかじめ送付元にEdy番号を申告しておく必要があるが、Edy番号が間違っている場合や、受け取り期限（最長60日）を過ぎてしまうと受け取りができない。
 

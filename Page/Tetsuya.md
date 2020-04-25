@@ -231,7 +231,7 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/重実徹.md" title="wikilink">重実徹</a></strong>（シゲミ トオル）<br />
-<small>（<a href="../Page/山下達郎.md" title="wikilink">山下達郎</a>、<a href="https://ja.wikipedia.org/wiki/吉田拓郎" title="wikilink">吉田拓郎</a>、<a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a> 元サポート）</small></p></td>
+<small>（<a href="../Page/山下達郎.md" title="wikilink">山下達郎</a>、<a href="../Page/吉田拓郎.md" title="wikilink">吉田拓郎</a>、<a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a> 元サポート）</small></p></td>
 <td><p>ライブ「TETSUYA Christmas Dinner Show 2015」以降アコースティックライヴに参加</p></td>
 </tr>
 <tr class="even">

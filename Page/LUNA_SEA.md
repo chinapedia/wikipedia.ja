@@ -5,6 +5,8 @@
 
 **LUNA SEA**（ルナシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[1\]。[1989年](../Page/1989年.md "wikilink")に現メンバーで結成し、[1992年](../Page/1992年.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。[2000年](../Page/2000年.md "wikilink")に[終幕を宣言し活動を休止したが](https://ja.wikipedia.org/wiki/解散 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に活動を再開した。
 
+[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")以外のメンバーは全員[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[秦野市](../Page/秦野市.md "wikilink")出身だが、[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")のみ[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[大和市](../Page/大和市.md "wikilink")出身である。
+
 ## バンド名
 
 **LUNA SEA**とは「[月](https://ja.wikipedia.org/wiki/月 "wikilink")と[海](../Page/海.md "wikilink")」という意味である\[2\]（LUNAは[ラテン語](../Page/ラテン語.md "wikilink") SEAは[英語](../Page/英語.md "wikilink")である）。インディーズ時代は、狂気という意味の**LUNACY**と言うバンド名であった。メジャーでの活動を視野に入れた彼らは、一つの意味に縛られず、また音楽的にも「月のように変化があって、海のように深く\[3\]」という思いから、「〜CY」箇所を「〜SEA」にし、2語とした「LUNA SEA」に変更した。これはJの提案によるものである。
@@ -94,11 +96,13 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 最初の頃からファンは黒い服を着てくる人が多く、自然と増えて行ったので、「やったら面白そう」という理由だけで「黒服限定ギグ」を行い\[14\]、その後も不定期に行うようになった。また、いい意味で裏切るため、メンバー全員白い衣装でライブに出ることもあった。
 
+2003年、HMVによる日本史上最高のトップポップアーティスト100に選ばれる。 \[15\]
+
 ## 音楽性と影響
 
 [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")の生放送に出演する場合、昼から始まるリハーサルを終えると夜の出演までは時間が空いてしまう。この空き時間に、SUGIZOやJは、当時[テレビ朝日](../Page/テレビ朝日.md "wikilink")の近くにあったCDショップ六本木WAVEで手当たり次第気になるCDを買っていたという。また、SUGIZOは[土屋昌巳](../Page/土屋昌巳.md "wikilink")や[坂本龍一](../Page/坂本龍一.md "wikilink")からオススメの音楽を教わっていた。このような音楽的貪欲さがLUNA SEAというバンドの音楽性の基礎につながっているのではないかとライターの藤谷は述べている。
 
-このほかに、INORANは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")を尊敬しているという。SUGIZOは[カオスUK](https://ja.wikipedia.org/wiki/カオスUK "wikilink")、[ディスチャージをルーツとしており](../Page/ディスチャージ_\(バンド\).md "wikilink")、[クラス](../Page/クラス_\(バンド\).md "wikilink")、[ポップ・グループ](../Page/ポップ・グループ.md "wikilink")なども好きなバンドにあげている\[15\]。また、LUNA SEAの活動の初期には[バウハウスや](../Page/バウハウス_\(バンド\).md "wikilink")などの[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")からも影響を受けていたという\[16\]。
+このほかに、INORANは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")を尊敬しているという。SUGIZOは[カオスUK](https://ja.wikipedia.org/wiki/カオスUK "wikilink")、[ディスチャージをルーツとしており](../Page/ディスチャージ_\(バンド\).md "wikilink")、[クラス](../Page/クラス_\(バンド\).md "wikilink")、[ポップ・グループ](../Page/ポップ・グループ.md "wikilink")なども好きなバンドにあげている\[16\]。また、LUNA SEAの活動の初期には[バウハウスや](../Page/バウハウス_\(バンド\).md "wikilink")などの[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")からも影響を受けていたという\[17\]。
 
 ## 来歴
 
@@ -170,9 +174,9 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [6月13日](../Page/6月13日.md "wikilink") - [27日](../Page/6月27日.md "wikilink")：ワンマンで初の全国ライブハウス・ツアー『UNDER THE NEW MOON TOUR EPISODE』スタート。全国7ヶ所で動員数2,800人。
   - [6月30日](../Page/6月30日.md "wikilink")：[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")『MOON LIGHT ROCK REVOLUTION VOL.2』出演。
   - [7月6日](../Page/7月6日.md "wikilink") ：2回目の全国ライブハウス・ツアー『UNDER THE NEW MOON TOUR EPISODE II』スタート、全国21か所22公演。動員数3,500人。
-  - [9月19日](../Page/9月19日.md "wikilink")：『UNDER THE NEW MOON TOUR FINAL EPISODE』[日本青年館](../Page/日本青年館.md "wikilink")、初のホールワンマン。動員数1,250人。SOLD OUT。台風で電車が運休したため、開演が一時間遅れる\[17\]。
+  - [9月19日](../Page/9月19日.md "wikilink")：『UNDER THE NEW MOON TOUR FINAL EPISODE』[日本青年館](../Page/日本青年館.md "wikilink")、初のホールワンマン。動員数1,250人。SOLD OUT。台風で電車が運休したため、開演が一時間遅れる\[18\]。
   - [10月13日](../Page/10月13日.md "wikilink")：3回目の全国ライブハウスツアー『UNDER THE NEW MOON TOUR EPISODE III』スタート。全国8か所13公演。動員数7,000人に。
-  - [12月29日](../Page/12月29日.md "wikilink"),[30日](../Page/12月30日.md "wikilink")：『UNDER THE NEW MOON TOUR EPISODE III FINAL』日本青年館2 DAYSライブ。動員数2,500人。SOLD OUT。メジャーデビューをファンに報告\[18\]。
+  - [12月29日](../Page/12月29日.md "wikilink"),[30日](../Page/12月30日.md "wikilink")：『UNDER THE NEW MOON TOUR EPISODE III FINAL』日本青年館2 DAYSライブ。動員数2,500人。SOLD OUT。メジャーデビューをファンに報告\[19\]。
   - [12月31日](../Page/12月31日.md "wikilink")：シークレットライブ都内近郊3か所で決行。目黒鹿鳴館でカウントダウン。
 
 <!-- end list -->
@@ -183,7 +187,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
   - 1月：オフィシャルファンクラブ「SLAVE」発足。
   - [3月20日](../Page/3月20日.md "wikilink")：インディーズラストツアー『DEAR SLAVES TOUR』スタート。
-  - [5月20日](../Page/5月20日.md "wikilink")：町田プレイハウスにてインディーズラストライブ『LUNA SEA3周年記念黒服限定GIG』動員数200人（SOLD OUT）。1stアルバム『LUNA SEA』の10曲が収録順に演奏された\[19\]。
+  - [5月20日](../Page/5月20日.md "wikilink")：町田プレイハウスにてインディーズラストライブ『LUNA SEA3周年記念黒服限定GIG』動員数200人（SOLD OUT）。1stアルバム『LUNA SEA』の10曲が収録順に演奏された\[20\]。
 
 ### メジャーデビュー以降
 
@@ -192,22 +196,22 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   - [5月21日](../Page/5月21日.md "wikilink")：2ndアルバム『[IMAGE](../Page/IMAGE_\(LUNA_SEAのアルバム\).md "wikilink")』で[MCAビクター](../Page/MCAレコード.md "wikilink")（現:[ユニバーサルミュージックK.K.](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）よりメジャーデビューを果たす。オリコン初登場9位。
-  - [5月28日](../Page/5月28日.md "wikilink")：『LUNA SEA CONCERT TOUR 1992 IMAGE OR REAL』スタート。全国7公演。動員数7,000人。ツアー中の各公演を同じメニューで演奏したのは、この時が初めて\[20\]。
+  - [5月28日](../Page/5月28日.md "wikilink")：『LUNA SEA CONCERT TOUR 1992 IMAGE OR REAL』スタート。全国7公演。動員数7,000人。ツアー中の各公演を同じメニューで演奏したのは、この時が初めて\[21\]。
   - [6月13日](../Page/6月13日.md "wikilink") ：ビデオコンサートスタート、渋谷The AIR（6月13日）、立川BASH（6月13日）、横浜ライブスクエア（6月14日）、新宿東放学園（6月14日）町田プレイハウス（6月21日）を行う。
   - [7月18日](../Page/7月18日.md "wikilink") ：『LUNA SEA CONCERT TOUR 1992 IMAGE OR REAL アンコールツアー 東・名・阪スペシャル』3公演。総動員数5,500人。
   - [7月22日](../Page/7月22日.md "wikilink")：1stビデオ『IMAGE OR REAL』リリース。オリコン初登場1位。
   - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") ：『LUNA SEA CONCERT TOUR 1992 AFTER the IMAGE』スタート。全国13か所公演。総動員数約16,000人。
-  - [10月20日](../Page/10月20日.md "wikilink")：[難波ロケッツ](../Page/難波ロケッツ.md "wikilink")にて黒服限定GIG開催\[21\]。
+  - [10月20日](../Page/10月20日.md "wikilink")：[難波ロケッツ](../Page/難波ロケッツ.md "wikilink")にて黒服限定GIG開催\[22\]。
   - [10月24日](../Page/10月24日.md "wikilink")：『LUNA SEA CONCERT TOUR 1992 AFTER the IMAGE』ツアーファイナルを[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて敢行。
 
 <!-- end list -->
 
   -
-    メンバー全員それまでカラフルだった髪の色を黒に染めて登場したり、それまでアンコールでの定番曲だった「MOON」をオープニングに持ってくるなど、観客を驚かす\[22\]。
+    メンバー全員それまでカラフルだった髪の色を黒に染めて登場したり、それまでアンコールでの定番曲だった「MOON」をオープニングに持ってくるなど、観客を驚かす\[23\]。
 
 <!-- end list -->
 
-  - [10月29日](../Page/10月29日.md "wikilink")：大阪でのエクスタシーサミットに、メンバー全員白の衣装で参加する\[23\]。
+  - [10月29日](../Page/10月29日.md "wikilink")：大阪でのエクスタシーサミットに、メンバー全員白の衣装で参加する\[24\]。
   - [10月31日](../Page/10月31日.md "wikilink")：[日本武道館](../Page/日本武道館.md "wikilink")『EXTAST SUMMIT 1992』に参加。
 
 <!-- end list -->
@@ -321,7 +325,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    本編終了後、アンコールを待つ観客による「[きよしこの夜](../Page/きよしこの夜.md "wikilink")」の大合唱が起こる。この日より、1年間の充電期間に入る。Jによれば、7月からの全国ツアーが始まる頃に、メンバーでの話し合いが持たれ、「次のビジョンへ行くためには、一人ひとりのメンバーが力を付けて、新しいルナシーを作らなければダメ」であり、1997年を「みんなの自主トレーニングの期間にあてよう」という結論に至ったという\[24\]。活動休止に関して提案したのはSUGIZO、賛成したのがRYUICHI、中立だったのがINORAN、反対したのがJ、真矢である。
+    本編終了後、アンコールを待つ観客による「[きよしこの夜](../Page/きよしこの夜.md "wikilink")」の大合唱が起こる。この日より、1年間の充電期間に入る。Jによれば、7月からの全国ツアーが始まる頃に、メンバーでの話し合いが持たれ、「次のビジョンへ行くためには、一人ひとりのメンバーが力を付けて、新しいルナシーを作らなければダメ」であり、1997年を「みんなの自主トレーニングの期間にあてよう」という結論に至ったという\[25\]。活動休止に関して提案したのはSUGIZO、賛成したのがRYUICHI、中立だったのがINORAN、反対したのがJ、真矢である。
 
 <!-- end list -->
 
@@ -377,7 +381,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    3日前に会場を襲った強風により数十億円をかけたステージセットが倒壊し、真矢のドラムが巻き込まれる等の被害が出て開演が危ぶまれ、「嵐を呼ぶバンド」の名が一時的に復活。当日はメンバー間でも「それでも絶対にライヴを決行しよう（J等）」と「観客が巻き込まれたりすると危険だからライヴは止めよう（INORAN等）」と意見が割れたという。しかし、「廃墟を（観客に危険が及ばない範囲で片づけた上で）セットにしてしまおう」、というSUGIZOのアイデアで決行。タイトルにある「NEVER SOLD OUT」の言葉通り、入場料を払えば当日でも何人でも入場できるシステムが採用され、総動員数 10万人を記録\[25\]。この時、メンバーでただ1人倒壊前日にステージを見ていたINORANは、当時出演したテレビ番組で、セット倒壊の報を聞いてメンバー全員で駆け付けた際のことを「倒壊する前のセットの様子が、自分には点線のようになって見えたんですよ」と語っていた。
+    3日前に会場を襲った強風により数十億円をかけたステージセットが倒壊し、真矢のドラムが巻き込まれる等の被害が出て開演が危ぶまれ、「嵐を呼ぶバンド」の名が一時的に復活。当日はメンバー間でも「それでも絶対にライヴを決行しよう（J等）」と「観客が巻き込まれたりすると危険だからライヴは止めよう（INORAN等）」と意見が割れたという。しかし、「廃墟を（観客に危険が及ばない範囲で片づけた上で）セットにしてしまおう」、というSUGIZOのアイデアで決行。タイトルにある「NEVER SOLD OUT」の言葉通り、入場料を払えば当日でも何人でも入場できるシステムが採用され、総動員数 10万人を記録\[26\]。この時、メンバーでただ1人倒壊前日にステージを見ていたINORANは、当時出演したテレビ番組で、セット倒壊の報を聞いてメンバー全員で駆け付けた際のことを「倒壊する前のセットの様子が、自分には点線のようになって見えたんですよ」と語っていた。
 
 <!-- end list -->
 
@@ -402,7 +406,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    この日に、LUNA SEA終幕発表が公表される。RYUICHIは「終幕」の理由について、「このメンバーでバンドをやっていたいちばんの理由は、5人でいれば誰よりも輝けると思ったからです。でも、同じ光を見てると目も慣れて、より強い光を求められなくなった」と語った\[26\]。
+    この日に、LUNA SEA終幕発表が公表される。RYUICHIは「終幕」の理由について、「このメンバーでバンドをやっていたいちばんの理由は、5人でいれば誰よりも輝けると思ったからです。でも、同じ光を見てると目も慣れて、より強い光を求められなくなった」と語った\[27\]。
 
 <!-- end list -->
 
@@ -477,7 +481,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 <!-- end list -->
 
-  - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")：復活ライブのチケットが一般発売。55,000枚が僅か5分足らずで完売\[27\]。
+  - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")：復活ライブのチケットが一般発売。55,000枚が僅か5分足らずで完売\[28\]。
   - [12月7日](../Page/12月7日.md "wikilink")：7枚のオリジナル・アルバムのリマスター版をリリース。
 
 <!-- end list -->
@@ -501,7 +505,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    ドームライブ後の本格的「再結成」について、Jは「そもそもそのことを口に出しただけで全てが壊れそうなバランスにある」ため、メンバー誰もが口にせず、ただドームのライブに集中している状況だと、雑誌のインタビューで語った。今後については各ソロ活動以外全く発表されていない。復活ライブの最後にRYUICHIの『いつかどこかの空の下でまた会おう』といった再結成を匂わせるような意味深な発言\[28\]や、NHK総合のドキュメンタリーでSUGIZOの『強引に葬るのは罪だと思います』との発言があり、本格的な再結成を否定していなかった。
+    ドームライブ後の本格的「再結成」について、Jは「そもそもそのことを口に出しただけで全てが壊れそうなバランスにある」ため、メンバー誰もが口にせず、ただドームのライブに集中している状況だと、雑誌のインタビューで語った。今後については各ソロ活動以外全く発表されていない。復活ライブの最後にRYUICHIの『いつかどこかの空の下でまた会おう』といった再結成を匂わせるような意味深な発言\[29\]や、NHK総合のドキュメンタリーでSUGIZOの『強引に葬るのは罪だと思います』との発言があり、本格的な再結成を否定していなかった。
 
 <!-- end list -->
 
@@ -516,7 +520,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    『[hide TRIBUTE SPIRITS](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink")』でレコーディングされていたhideのカバー「SCANNER」を含む11曲を演奏した。[X JAPANメンバーと共に](../Page/X_JAPAN.md "wikilink")「BELIEVE」を演奏するというパフォーマンスも見せた。アンコールには、92年以来実に16年ぶりとなる「無敵BAND」の演奏にも参加している\[29\]。このライブの発表記者会見にはRYUICHIが（LUNA SEAのRYUICHIとして）バンドを代表して出席\[30\]。ライブ開催発表に際してのLUNA SEAとしてのコメントは「**最大限の感謝とリスペクトを込めて…**」\[31\]。
+    『[hide TRIBUTE SPIRITS](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink")』でレコーディングされていたhideのカバー「SCANNER」を含む11曲を演奏した。[X JAPANメンバーと共に](../Page/X_JAPAN.md "wikilink")「BELIEVE」を演奏するというパフォーマンスも見せた。アンコールには、92年以来実に16年ぶりとなる「無敵BAND」の演奏にも参加している\[30\]。このライブの発表記者会見にはRYUICHIが（LUNA SEAのRYUICHIとして）バンドを代表して出席\[31\]。ライブ開催発表に際してのLUNA SEAとしてのコメントは「**最大限の感謝とリスペクトを込めて…**」\[32\]。
 
 **[2009年](../Page/2009年.md "wikilink")**
 
@@ -530,7 +534,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 11月27日、LUNA SEAにとって約2年半ぶり、また初のヨーロッパ公演でもあるドイツ・ボーフムでのステージを皮切りに、ワールドツアーは予定通りスタート。その後も初のアメリカ公演となるロサンゼルス公演、2000年のツアー「BRAND NEW CHAOS ACT II」以来10年ぶりの香港公演、台北公演をそれぞれ成功させ、復活した新しいLUNA SEAを日本以外のファンにも披露した。
 
-ツアー中の12月1日には突如[12月25日](../Page/12月25日.md "wikilink")の東京ドーム公演『LUNACY 黒服限定GIG 〜the Holy Night〜』を追加で発表。更にその公演は史上初となる東京ドームでの完全無料ライブとすることを併せて発表した\[32\]。このライブは、結成当初の「**LUNACY**」名義での復活ライブとなり、インディーズ時代に行っていた「黒服限定GIG」同様に[ドレスコード](https://ja.wikipedia.org/wiki/ドレスコード "wikilink")を黒服に限定。そして、アジア公演前の12月10日には、東京ドーム3DAYS終了後のREBOOTツアーの追加公演となる2DAYSライブ『REBOOT -THE LAST COUNT DOWN-』を12月30日と12月31日に[神戸ワールド記念ホールで開催することを発表](../Page/ワールド記念ホール.md "wikilink")。関西圏でのライブは10年ぶりで、12月31日の公演はバンド初のカウントダウンライブとなった。
+ツアー中の12月1日には突如[12月25日](../Page/12月25日.md "wikilink")の東京ドーム公演『LUNACY 黒服限定GIG 〜the Holy Night〜』を追加で発表。更にその公演は史上初となる東京ドームでの完全無料ライブとすることを併せて発表した\[33\]。このライブは、結成当初の「**LUNACY**」名義での復活ライブとなり、インディーズ時代に行っていた「黒服限定GIG」同様に[ドレスコード](https://ja.wikipedia.org/wiki/ドレスコード "wikilink")を黒服に限定。そして、アジア公演前の12月10日には、東京ドーム3DAYS終了後のREBOOTツアーの追加公演となる2DAYSライブ『REBOOT -THE LAST COUNT DOWN-』を12月30日と12月31日に[神戸ワールド記念ホールで開催することを発表](../Page/ワールド記念ホール.md "wikilink")。関西圏でのライブは10年ぶりで、12月31日の公演はバンド初のカウントダウンライブとなった。
 
   - 2010年
 
@@ -545,7 +549,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 <!-- end list -->
 
-  - [8月25日](../Page/8月25日.md "wikilink")：公式ホームページにて、「REBOOT」というメッセージとともに、[8月31日](../Page/8月31日.md "wikilink")の午後3時(日本時間午後4時)に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で会見を行い、その模様が[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で全世界に配信されることを発表\[33\]。
+  - [8月25日](../Page/8月25日.md "wikilink")：公式ホームページにて、「REBOOT」というメッセージとともに、[8月31日](../Page/8月31日.md "wikilink")の午後3時(日本時間午後4時)に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で会見を行い、その模様が[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で全世界に配信されることを発表\[34\]。
   - [8月31日](../Page/8月31日.md "wikilink")：15:00（日本時間16:00）より、香港での緊急記者会見。ドイツ、アメリカ、香港、台湾、日本での世界ツアーを行うことを発表。
   - [Luna_Sea_in_2010.jpg](https://ja.wikipedia.org/wiki/File:Luna_Sea_in_2010.jpg "fig:Luna_Sea_in_2010.jpg")[11月27日](../Page/11月27日.md "wikilink")：『LUNA SEA 20th ANNIVERSARY WORLD TOUR REBOOT -to the New Moon-』スタート。世界4ヶ国8公演（うち、追加2公演）。
   - [12月23日](../Page/12月23日.md "wikilink"),[24日](../Page/12月24日.md "wikilink")：東京ドームにて、同ツアーのファイナル公演を開催。
@@ -562,7 +566,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    LUNA SEA初の東京ドーム3DAYS公演最終日となったこの日は、5人のメンバーが久しぶりに活動初期のメイク・衣装を纏って、前日・前々日とは全く違うLUNACYを20年ぶりに復活させた。初期のアルバム『LUNA SEA』『IMAGE』からのナンバーを中心に、アルバム未収録だった「SUSPICIOUS」「NIGHTMARE」といったナンバーまでも披露。3日間で総動員数17万5000人を記録したLUNA SEA史上最大規模の3DAYSとなった\[34\]。
+    LUNA SEA初の東京ドーム3DAYS公演最終日となったこの日は、5人のメンバーが久しぶりに活動初期のメイク・衣装を纏って、前日・前々日とは全く違うLUNACYを20年ぶりに復活させた。初期のアルバム『LUNA SEA』『IMAGE』からのナンバーを中心に、アルバム未収録だった「SUSPICIOUS」「NIGHTMARE」といったナンバーまでも披露。3日間で総動員数17万5000人を記録したLUNA SEA史上最大規模の3DAYSとなった\[35\]。
 
 <!-- end list -->
 
@@ -593,7 +597,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   -
-    収益金は全額、[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の被災者支援の義援金として[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")及び[米国赤十字社を通じて寄付される](https://ja.wikipedia.org/wiki/アメリカ赤十字社 "wikilink")\[35\]
+    収益金は全額、[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の被災者支援の義援金として[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")及び[米国赤十字社を通じて寄付される](https://ja.wikipedia.org/wiki/アメリカ赤十字社 "wikilink")\[36\]
 
 <!-- end list -->
 
@@ -619,7 +623,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [6月20日](../Page/6月20日.md "wikilink")：NHKドキュメント『一夜限りの復活ライヴLUNA SEA沈黙の7年を超えて』のBD版を発売。
   - [7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")：「WOWOW Presents LUNA SEA TV SPECIAL -The End of the Dream-」が[WOWOW](../Page/WOWOW.md "wikilink")で放送。12年ぶりのテレビ出演となった。
   - [8月28日](../Page/8月28日.md "wikilink")：ニコニコ生放送で「LUNA SEA 公開生インタビュー」が、MASSIVEのメンバー全員公開インタビューという形で生放送された。
-  - [10月9日](../Page/10月9日.md "wikilink")：公式サイト上で、終幕した2000年まで所属していた[ユニバーサルミュージックへのレーベル移籍と](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、2000年に発売された『[LUNACY](../Page/LUNACY.md "wikilink")』以来13年ぶりとなるオリジナルアルバムの製作を開始したことを発表\[36\]。このアルバムに先駆けて、12月に両A面シングルのリリースも発表された\[37\]。
+  - [10月9日](../Page/10月9日.md "wikilink")：公式サイト上で、終幕した2000年まで所属していた[ユニバーサルミュージックへのレーベル移籍と](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、2000年に発売された『[LUNACY](../Page/LUNACY.md "wikilink")』以来13年ぶりとなるオリジナルアルバムの製作を開始したことを発表\[37\]。このアルバムに先駆けて、12月に両A面シングルのリリースも発表された\[38\]。
   - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")：[Zepp Nambaより](../Page/Zepp.md "wikilink")、ライブツアー「The End of the Dream ZEPP TOUR 2012 『降臨』」がスタート。全13公演。
   - [12月12日](../Page/12月12日.md "wikilink")：16thシングル「[The End of the Dream/Rouge](https://ja.wikipedia.org/wiki/The_End_of_the_Dream/Rouge "wikilink")」を発売。
   - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")：ライブDVD「LUNA SEA CONCERT TOUR 2000 BRAND NEW CHAOS 〜20000803 大阪城ホール〜」を発売。
@@ -642,7 +646,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [6月26日](../Page/6月26日.md "wikilink")：ライブBD「The End of the Dream at 日本武道館」を発売。
   - [8月28日](../Page/8月28日.md "wikilink")：17thシングル「[Thoughts](https://ja.wikipedia.org/wiki/Thoughts "wikilink")」を発売。
   - [11月13日](../Page/11月13日.md "wikilink")：18thシングル「[乱](https://ja.wikipedia.org/wiki/乱_\(LUNA_SEAの曲\) "wikilink")」を発売。
-  - [12月11日](../Page/12月11日.md "wikilink")：8thアルバム「[A WILL](https://ja.wikipedia.org/wiki/A_WILL "wikilink")」を発売\[38\]。
+  - [12月11日](../Page/12月11日.md "wikilink")：8thアルバム「[A WILL](https://ja.wikipedia.org/wiki/A_WILL "wikilink")」を発売\[39\]。
 
 <!-- end list -->
 
@@ -652,8 +656,8 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
   - [5月2日](../Page/5月2日.md "wikilink")：ライブDVD「SLAVE限定GIG 2013 両国国技館」が、SLAVE限定で受注販売開始。
   - [5月26日](../Page/5月26日.md "wikilink")：SLAVE限定GIG「PREMIERE OF A WILL 2014」が、赤坂BLITZで開催。
-  - [5月28日](../Page/5月28日.md "wikilink")：ベストアルバム「[LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")」とライブアルバム「[NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")」、そして先述の2つのアルバムが入ったCD-BOXを発売\[39\]。
-  - [5月29日](../Page/5月29日.md "wikilink")：バンド結成25周年記念ライブ「LUNA SEA 25th ANNIVERSARY LIVE -The Unfinished MOON-」を、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館で開催\[40\]\[41\]。通販サイト「famima.com」内にオフィシャルショップをオープン\[42\]。
+  - [5月28日](../Page/5月28日.md "wikilink")：ベストアルバム「[LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink")」とライブアルバム「[NEVER SOLD OUT 2](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT_2 "wikilink")」、そして先述の2つのアルバムが入ったCD-BOXを発売\[40\]。
+  - [5月29日](../Page/5月29日.md "wikilink")：バンド結成25周年記念ライブ「LUNA SEA 25th ANNIVERSARY LIVE -The Unfinished MOON-」を、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館で開催\[41\]\[42\]。通販サイト「famima.com」内にオフィシャルショップをオープン\[43\]。
   - [6月7日](../Page/6月7日.md "wikilink")：ライブツアー「LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will-」が、千葉県[森のホール21](../Page/森のホール21.md "wikilink")で、スタート。2014年は全22公演。
   - [6月14日](../Page/6月14日.md "wikilink")：バンドスコア「A WILL」、「THE ONE -crash to create-」刊行。
   - [6月21日](../Page/6月21日.md "wikilink")、[22日](../Page/6月22日.md "wikilink")：SLAVE限定ライブ「黒服限定GIG 2014 for SLAVE」の東京公演が、Zepp Divercityで開催。
@@ -672,7 +676,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [3月7日](../Page/3月7日.md "wikilink")：ファンクラブ限定ツアーの中で、ライブ「SLAVE限定GIG 2015 in 沖縄」を、ミュージックタウン音市場で開催。
   - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")：ライブ「LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will- FINAL」を、大阪城ホールで開催。
   - [6月24日](../Page/6月24日.md "wikilink")：ライブDVD「Live on A WILL」を発売。
-  - [6月27日](../Page/6月27日.md "wikilink")、[6月28日](../Page/6月28日.md "wikilink")：[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて初の主宰フェス「[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")」開催\[43\]。
+  - [6月27日](../Page/6月27日.md "wikilink")、[6月28日](../Page/6月28日.md "wikilink")：[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて初の主宰フェス「[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")」開催\[44\]。
   - [7月22日](../Page/7月22日.md "wikilink")：ライブBD「Live on A WILL」を発売。
   - [12月23日](../Page/12月23日.md "wikilink")、[24日](../Page/12月24日.md "wikilink")：SLAVE限定ライブ「SLAVE限定GIG 2015 The Holy Night －To The Next Dimension－」を、Zepp DiverCity Tokyoで開催。
 
@@ -684,7 +688,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
   - [4月3日](../Page/4月3日.md "wikilink")：新曲「Limit -TV Edit-」が配信販売開始。
   - [5月29日](../Page/5月29日.md "wikilink")：FC限定ツアー「SLAVE MEETING 2016」を沖縄にて開催。「ONE〜LUNA SEA 25th Anniversary PREMIUM BOX」を発売。
-  - [6月22日](../Page/6月22日.md "wikilink")：19thシングル「Limit」を発売\[44\]。
+  - [6月22日](../Page/6月22日.md "wikilink")：19thシングル「Limit」を発売\[45\]。
   - [8月31日](../Page/8月31日.md "wikilink")：ピアノカバーアルバム「Piano Anthology 〜melody of LUNA SEA〜」が発売。
   - [9月22日](../Page/9月22日.md "wikilink")：FC限定ライブ「SLAVE限定GIG 2016」の大阪公演をZepp Nambaで開催。
   - [9月24日](../Page/9月24日.md "wikilink")：FC限定ライブ「SLAVE限定GIG 2016」の愛知公演をZepp Nagoyaで開催。
@@ -698,10 +702,10 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 <!-- end list -->
 
-  - [5月29日](../Page/5月29日.md "wikilink")：ライブ「LUNA SEA The Anniversary 2017」を日本武道館で開催。このコンサートでは楽器演奏や会場および売店等の電源をすべて水素[燃料電池](../Page/燃料電池.md "wikilink")によって賄う取り組みがおこなわれた\[45\]\[46\]。
+  - [5月29日](../Page/5月29日.md "wikilink")：ライブ「LUNA SEA The Anniversary 2017」を日本武道館で開催。このコンサートでは楽器演奏や会場および売店等の電源をすべて水素[燃料電池](../Page/燃料電池.md "wikilink")によって賄う取り組みがおこなわれた\[46\]\[47\]。
   - [8月26日](../Page/8月26日.md "wikilink")：野外フェス「SUMMER SONIC SHANGHAI 2017」にヘッドライナーとして出演。
   - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")：ライブイベント「テレビ朝日ドリームフェスティバル2017」に出演。
-  - [12月20日](../Page/12月20日.md "wikilink")：9thアルバム「[LUV](https://ja.wikipedia.org/wiki/LUV_\(アルバム\) "wikilink")」を発売\[47\]。
+  - [12月20日](../Page/12月20日.md "wikilink")：9thアルバム「[LUV](https://ja.wikipedia.org/wiki/LUV_\(アルバム\) "wikilink")」を発売\[48\]。
   - [12月23日](../Page/12月23日.md "wikilink")、[24日](../Page/12月24日.md "wikilink")：ライブ「LUNA SEA The Holy Night 2017」が、さいたまスーパーアリーナにて開催。
 
 <!-- end list -->
@@ -735,7 +739,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [9月6日](../Page/9月6日.md "wikilink")：配信限定シングル「BEYOND THE TIME 〜メビウスの宇宙を越えて〜」が配信開始。
   - [9月12日](../Page/9月12日.md "wikilink")：ライブ「SONGS OF TOKYO Festival 2019」に出演。
   - [10月14日](../Page/10月14日.md "wikilink")：ライブフェス「テレビ朝日開局60周年記念『テレビ朝日ドリームフェスティバル2019』」の最終日に出演。
-  - [12月18日](../Page/12月18日.md "wikilink")：10thアルバム「[CROSS](../Page/CROSS_\(アルバム\).md "wikilink")」を発売\[48\]。
+  - [12月18日](../Page/12月18日.md "wikilink")：10thアルバム「[CROSS](../Page/CROSS_\(アルバム\).md "wikilink")」を発売\[49\]。
   - [12月21日](../Page/12月21日.md "wikilink")、22日：ライブ「LUNA SEA 30th Anniversary LIVELUNATIC X’MAS 2019」を、さいたまスーパーアリーナにて開催。
 
 <!-- end list -->
@@ -745,8 +749,9 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   - [2月1日](../Page/2月1日.md "wikilink")：ライブツアー「LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE-」が、[三郷市文化会館](https://ja.wikipedia.org/wiki/三郷市文化会館 "wikilink")にてスタート。13カ所全26公演。
-  - [2月26日](../Page/2月26日.md "wikilink")、政府から新型コロナウイルス感染拡大防止の為の、イベント中止要請があり、[2月27日](../Page/2月27日.md "wikilink")、28日の宇都宮市文化会館での公演、[3月7日](../Page/3月7日.md "wikilink")、8日の本多の森ホールでの公演が延期となった\[49\]\[50\]。
-  - [3月7日](../Page/3月7日.md "wikilink")、新型コロナウイルスの終息が見通せない為、3月の公演を全て延期にすることが発表された\[51\]。
+  - [2月26日](../Page/2月26日.md "wikilink")、政府から新型コロナウイルス感染拡大防止の為の、イベント中止要請があり、[2月27日](../Page/2月27日.md "wikilink")、28日の宇都宮市文化会館での公演、[3月7日](../Page/3月7日.md "wikilink")、8日の本多の森ホールでの公演が延期となった\[50\]\[51\]。
+  - [3月7日](../Page/3月7日.md "wikilink")、新型コロナウイルスの終息が見通せない為、3月の公演を全て延期にすることが発表された\[52\]。
+  - [4月15日](../Page/4月15日.md "wikilink")、新曲「Make a vow」の無料配信が決定。それに先駆け、SLAVE会員限定で公開\[53\]。
   - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定。
 
 ## ディスコグラフィ
@@ -796,10 +801,11 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 #### 配信限定シングル
 
-| 発売日       | タイトル                                                                                   | 収録アルバム                                            |
-| --------- | -------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 2011年4月9日 | [PROMISE](https://ja.wikipedia.org/wiki/PROMISE_\(LUNA_SEAの曲\) "wikilink")             | LUNA SEA 25th Anniversary Ultimate Best -THE ONE- |
-| 2019年9月6日 | [BEYOND THE TIME ～メビウスの宇宙を越えて～](../Page/BEYOND_THE_TIME_\(メビウスの宇宙を越えて\).md "wikilink") | CROSS                                             |
+| 発売日              | タイトル                                                                                   | 収録アルバム                                            |
+| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 2011年4月9日        | [PROMISE](https://ja.wikipedia.org/wiki/PROMISE_\(LUNA_SEAの曲\) "wikilink")             | LUNA SEA 25th Anniversary Ultimate Best -THE ONE- |
+| 2019年9月6日        | [BEYOND THE TIME ～メビウスの宇宙を越えて～](../Page/BEYOND_THE_TIME_\(メビウスの宇宙を越えて\).md "wikilink") | CROSS                                             |
+| 2020年4月15日\[54\] | Make a vow                                                                             |                                                   |
 
 #### ライブ会場内限定販売シングル
 
@@ -1636,7 +1642,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 
   - DREAM IS OVER
   - PERIOD
-  - もう死んだ振りさせない（のちに曲名が「JUNK」に変更される。ただし「もう死んだ振りさせない」という曲はないとSUGIZOが明言した\[52\]。）
+  - もう死んだ振りさせない（のちに曲名が「JUNK」に変更される。ただし「もう死んだ振りさせない」という曲はないとSUGIZOが明言した\[55\]。）
   - 第三の言葉（「PRECIOUS...」の原曲）
   - Feeling（「VAMPIRE'S TALK」の原曲）
   - CONCLUSION（「A.I.」の原曲）
@@ -1706,30 +1712,30 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <p>10会場全28公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>1月8日 町田PLAY HOUSE[53]<br />
-1月11日 目黒鹿鳴館[54]<br />
+<p>1月8日 町田PLAY HOUSE[56]<br />
+1月11日 目黒鹿鳴館[57]<br />
 1月18日 目黒LIVE STATION<br />
-2月18日 厚木cafe AMI[55]<br />
+2月18日 厚木cafe AMI[58]<br />
 2月18日 四谷FOUR VALLEY<br />
-2月24日 町田PLAY HOUSE[56]<br />
-3月26日 目黒鹿鳴館[57]<br />
-4月14日 目黒LIVE STATION[58]<br />
-4月17日 町田PLAY HOUSE[59]<br />
-4月28日 平塚中央公民館[60]<br />
-5月3日 渋谷YAMAHA EPICURUS[61]<br />
-5月14日 目黒LIVE STATION[62]<br />
+2月24日 町田PLAY HOUSE[59]<br />
+3月26日 目黒鹿鳴館[60]<br />
+4月14日 目黒LIVE STATION[61]<br />
+4月17日 町田PLAY HOUSE[62]<br />
+4月28日 平塚中央公民館[63]<br />
+5月3日 渋谷YAMAHA EPICURUS[64]<br />
+5月14日 目黒LIVE STATION[65]<br />
 5月24日 目黒鹿鳴館<br />
-6月23日 目黒LIVE STATION[63]<br />
+6月23日 目黒LIVE STATION[66]<br />
 6月30日 目黒鹿鳴館<br />
-7月23日 目黒LIVE STATION[64]<br />
-7月25日 目黒鹿鳴館[65]<br />
-8月10日 <a href="https://ja.wikipedia.org/wiki/横浜_7th_AVENUE" title="wikilink">横浜7th AVENUE</a>[66]<br />
-8月16日 目黒鹿鳴館 [67]<br />
-8月30日 目黒LIVE STATION[68]<br />
-9月4日 町田PLAY HOUSE[69]<br />
+7月23日 目黒LIVE STATION[67]<br />
+7月25日 目黒鹿鳴館[68]<br />
+8月10日 <a href="https://ja.wikipedia.org/wiki/横浜_7th_AVENUE" title="wikilink">横浜7th AVENUE</a>[69]<br />
+8月16日 目黒鹿鳴館 [70]<br />
+8月30日 目黒LIVE STATION[71]<br />
+9月4日 町田PLAY HOUSE[72]<br />
 9月16日 目黒LIVE STATION<br />
 10月1日 目黒鹿鳴館<br />
-10月13日 大宮FREAKS[70]<br />
+10月13日 大宮FREAKS[73]<br />
 10月14日 目黒LIVE STATION<br />
 11月1日 目黒鹿鳴館<br />
 11月8日 横浜7th AVENUE<br />
@@ -1741,43 +1747,43 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><small>関西初LIVE</small> 爆獣 BAY AREA SHOCK</p></td>
-<td><p>4月3日 大阪MODA HALL[71]</p></td>
+<td><p>4月3日 大阪MODA HALL[74]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p><small>LUNA SEA 1周年記念ワンマン</small> 黒服限定GIG</p></td>
-<td><p>6月10日 町田PLAY HOUSE[72]</p></td>
+<td><p>6月10日 町田PLAY HOUSE[75]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>BAND EXPROSION</p></td>
-<td><p>6月24日 厚木cafe AMI[73]</p></td>
+<td><p>6月24日 厚木cafe AMI[76]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p><small>Gilles de Rais ワンマン</small> キリギリス症候群</p></td>
-<td><p>7月14日 <a href="https://ja.wikipedia.org/wiki/ヤンタ鹿鳴館" title="wikilink">大阪YANTA鹿鳴館</a>[74]</p></td>
+<td><p>7月14日 <a href="https://ja.wikipedia.org/wiki/ヤンタ鹿鳴館" title="wikilink">大阪YANTA鹿鳴館</a>[77]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>HARD ROLLING NIGHT</p></td>
-<td><p>7月15日 大阪MODA HALL[75]</p></td>
+<td><p>7月15日 大阪MODA HALL[78]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>ALL YOUNG ROCKERS</p></td>
-<td><p>8月14日 <a href="https://ja.wikipedia.org/wiki/日仏会館" title="wikilink">御茶の水 日仏会館ホール</a>[76]</p></td>
+<td><p>8月14日 <a href="https://ja.wikipedia.org/wiki/日仏会館" title="wikilink">御茶の水 日仏会館ホール</a>[79]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>黒服限定GIG</p></td>
-<td><p>11月24日 目黒LIVE STATION[77]</p></td>
+<td><p>11月24日 目黒LIVE STATION[80]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1801,7 +1807,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>年越しALL NIGHT LIVE</p></td>
-<td><p>12月31日 横浜7th AVENUE[78]</p></td>
+<td><p>12月31日 横浜7th AVENUE[81]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1835,19 +1841,19 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>オールナイトイベント</p></td>
 <td><p>MOON LIGHT ROCK REVOLUTION</p></td>
-<td><p>1月19日 <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'川崎</a>[79]</p></td>
+<td><p>1月19日 <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'川崎</a>[82]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>ONEMAN GIG</p></td>
-<td><p>2月11日 目黒鹿鳴館[80]</p></td>
+<td><p>2月11日 目黒鹿鳴館[83]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p><small>Rockin' f presents</small> Tokyo Guerrilla Warfare</p></td>
-<td><p>2月24日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>[81]</p></td>
+<td><p>2月24日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>[84]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1862,7 +1868,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 3月14日 <a href="../Page/難波ロケッツ.md" title="wikilink">難波ROCKETS</a><br />
 3月17日 京都BIG BANG<br />
 3月18日 <a href="../Page/HeartLand_STUDIO.md" title="wikilink">名古屋HeartLand STUDIO</a><br />
-3月22日 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a>[82]</p>
+3月22日 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a>[85]</p>
 </div>
 </div></td>
 <td></td>
@@ -1870,7 +1876,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>SOUND FILE OF LIVE STATION</p></td>
-<td><p>3月27日 CLUB CITTA'川崎[83]</p></td>
+<td><p>3月27日 CLUB CITTA'川崎[86]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1890,13 +1896,13 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>SHOXX 師弟突撃LIVE</p></td>
-<td><p>5月5日 目黒鹿鳴館[84]</p></td>
+<td><p>5月5日 目黒鹿鳴館[87]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>LUNA SEA 結成2周年記念 セッション大会</p></td>
-<td><p>5月18日 町田PLAY HOUSE[85]</p></td>
+<td><p>5月18日 町田PLAY HOUSE[88]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1921,7 +1927,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>MOON LIGHT ROCK REVOLUTION VOL.2</p></td>
-<td><p>6月30日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[86]</p></td>
+<td><p>6月30日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[89]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2000,7 +2006,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>MONSTER CLUB II</p></td>
-<td><p>11月3日 <a href="../Page/明治大学.md" title="wikilink">明治大学</a>[87]</p></td>
+<td><p>11月3日 <a href="../Page/明治大学.md" title="wikilink">明治大学</a>[90]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2057,7 +2063,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/5時SATマガジン#番組イベント" title="wikilink">5時SAT LOVE ROCKS '92</a></p></td>
-<td><p>5月5日 <a href="../Page/庄内緑地.md" title="wikilink">名古屋庄内緑地公園グランド</a>[88]</p></td>
+<td><p>5月5日 <a href="../Page/庄内緑地.md" title="wikilink">名古屋庄内緑地公園グランド</a>[91]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2117,7 +2123,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><a href="../Page/東日本旅客鉄道.md" title="wikilink">JR東日本</a> POP ROCKETS '92</p></td>
-<td><p>7月29日 <a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/湯沢町.md" title="wikilink">湯沢町</a>湯沢中央公園野球場[89]</p></td>
+<td><p>7月29日 <a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/湯沢町.md" title="wikilink">湯沢町</a>湯沢中央公園野球場[92]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2129,13 +2135,13 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><small><a href="../Page/麒麟麦酒.md" title="wikilink">KIRIN</a> SOUND TOGETHER</small> <a href="https://ja.wikipedia.org/wiki/POP_HILL" title="wikilink">POP HILL</a> 92</p></td>
-<td><p>8月9日 <a href="https://ja.wikipedia.org/wiki/石川県森林公園" title="wikilink">石川県森林公園</a>緑化の広場[90]</p></td>
+<td><p>8月9日 <a href="https://ja.wikipedia.org/wiki/石川県森林公園" title="wikilink">石川県森林公園</a>緑化の広場[93]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>BSヤングバトル '92 東北ブロック大会</p></td>
-<td><p>8月20日 仙台イズミティ21大ホール[91]</p></td>
+<td><p>8月20日 仙台イズミティ21大ホール[94]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2178,7 +2184,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <p>2会場全2公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>10月29日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>[92]<br />
+<p>10月29日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>[95]<br />
 10月31日 日本武道館</p>
 </div>
 </div></td>
@@ -2976,7 +2982,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <tr class="odd">
 <td><p><del>単発コンサート</del></p></td>
 <td><p><del>LUNA SEA The 30th Anniversary Special Live in Bangkok</del></p></td>
-<td><p><del>6月20日 タイ BITEC Event Hall 106</del> [93]</p></td>
+<td><p><del>6月20日 タイ BITEC Event Hall 106</del> [96]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3027,13 +3033,13 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 4月18日 新潟県民会館大ホール<br />
 4月19日 新潟県民会館大ホール<br />
 4月25日 仙台サンプラザホール<br />
-4月26日 仙台サンプラザホール</del><br />
+4月26日 仙台サンプラザホール<br />
 5月2日 神戸国際会館こくさいホール<br />
 5月3日 神戸国際会館こくさいホール<br />
 5月9日 札幌文化芸術劇場 hitaru<br />
 5月10日 札幌文化芸術劇場 hitaru<br />
 5月14日 名古屋国際会議場 センチュリーホール<br />
-5月15日 名古屋国際会議場 センチュリーホール</p>
+5月15日 名古屋国際会議場 センチュリーホール</del></p>
 </div>
 </div></td>
 </tr>
@@ -3277,86 +3283,89 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 12. [Jインタビュー（J-ROCKmagazine 1996年6月号）](http://www.j-rock.com/back_intime/96_6/9663/9663_4.html)
 13.
 14.
-15.
+15. [日本史上最高のトップポップアーティスト100のNo.90（HMV公式サイト, 2003年9月2日 (火)公開）](https://www.hmv.co.jp/news/article/308150081/)
 16.
-17. [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#3」Oricon Style 2007年10月12日](http://blog.oricon.co.jp/lunasea/3)
-18.
-19. REIKO ARAKAWA「アルバム『EDEN』ライナーノーツ」1993年
-20.
+17.
+18. [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#3」Oricon Style 2007年10月12日](http://blog.oricon.co.jp/lunasea/3)
+19.
+20. REIKO ARAKAWA「アルバム『EDEN』ライナーノーツ」1993年
 21.
 22.
 23.
-24. [Jインタビュー（J-ROCKmagazine, 1997年9月号）](http://www.j-rock.com/back_intime/97_9/9791/9791_1.html)
-25. [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#15」Oricon Style, 2007年12月21日](http://blog.oricon.co.jp/lunasea/15)
-26. [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#16」Oricon Style, 2007年12月22日](http://blog.oricon.co.jp/lunasea/16)
-27. [LUNA SEAのチケット5分で完売](http://www.nikkansports.com/entertainment/p-et-tp0-20071029-276011.html) nikkansports.com 2007年10月29日
-28. [LUNA SEA、一夜限りの復活ライブで「いつかまた会おう」](http://contents.oricon.co.jp/news/music/50717/full/) ORICON STYLE [2007年](../Page/2007年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")
-29. [X JAPANらがhideさん追悼ライブで“無敵バンド”を結成！](http://www.oricon.co.jp/news/music/54319/full/) ORICON STYLE 2008年5月5日
-30. [hide追悼ライブ「hide memorial summit」にX JAPAN、LUNA SEA、T.M.R.ら出演！](http://www.tvlife.jp/news/080407_03.php) TV LIFE Web 2008年4月7日
-31. [『hide memorial summit』 主な出演者のコメント](http://www.oricon.co.jp/news/music/53522/) ORICON STYLE 2008年4月7日
-32. [LUNA SEA、東京ドーム史上初の無料ライブを開催 “黒服限定”5万人招待](http://www.oricon.co.jp/news/music/82569/) ORICON STYLE 2010年12月1日
-33. [LUNA SEA、活動再開を正式発表 8・31香港で緊急会見](http://www.oricon.co.jp/news/music/79226/) ORICON STYLE 2010年8月25日
-34. [LUNA SEA、東京ドームで無料ライブ](http://www.jiji.com/jc/c?g=ent2_ent2&k=g101788) 時事ドットコム 12月27日
-35. [LUNA SEA「新曲配信募金」4/9より日本、アメリカ、イギリス、ドイツ、オーストリア、スイス、フランスでスタート。](http://www.barks.jp/news/?id=1000068864)BARKS 2011年4月8日
-36. [LUNA SEAユニバーサル移籍＆13年ぶりアルバム制作中](http://natalie.mu/music/news/77892) ナタリー 2012年10月9日
-37.
-38. [LUNA SEA、13年5カ月ぶりアルバム「A WILL」12月発売](http://natalie.mu/music/news/103188) - ナタリー・2013年11月9日
-39.
-40. [LUNA SEA、来年5・29のバンド結成日に25周年記念ライブ開催](http://www.oricon.co.jp/news/2031632/full/) - ORICON STYLE（[オリコン](../Page/オリコン.md "wikilink")）2013年12月4日
-41.
+24.
+25. [Jインタビュー（J-ROCKmagazine, 1997年9月号）](http://www.j-rock.com/back_intime/97_9/9791/9791_1.html)
+26. [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#15」Oricon Style, 2007年12月21日](http://blog.oricon.co.jp/lunasea/15)
+27. [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#16」Oricon Style, 2007年12月22日](http://blog.oricon.co.jp/lunasea/16)
+28. [LUNA SEAのチケット5分で完売](http://www.nikkansports.com/entertainment/p-et-tp0-20071029-276011.html) nikkansports.com 2007年10月29日
+29. [LUNA SEA、一夜限りの復活ライブで「いつかまた会おう」](http://contents.oricon.co.jp/news/music/50717/full/) ORICON STYLE [2007年](../Page/2007年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")
+30. [X JAPANらがhideさん追悼ライブで“無敵バンド”を結成！](http://www.oricon.co.jp/news/music/54319/full/) ORICON STYLE 2008年5月5日
+31. [hide追悼ライブ「hide memorial summit」にX JAPAN、LUNA SEA、T.M.R.ら出演！](http://www.tvlife.jp/news/080407_03.php) TV LIFE Web 2008年4月7日
+32. [『hide memorial summit』 主な出演者のコメント](http://www.oricon.co.jp/news/music/53522/) ORICON STYLE 2008年4月7日
+33. [LUNA SEA、東京ドーム史上初の無料ライブを開催 “黒服限定”5万人招待](http://www.oricon.co.jp/news/music/82569/) ORICON STYLE 2010年12月1日
+34. [LUNA SEA、活動再開を正式発表 8・31香港で緊急会見](http://www.oricon.co.jp/news/music/79226/) ORICON STYLE 2010年8月25日
+35. [LUNA SEA、東京ドームで無料ライブ](http://www.jiji.com/jc/c?g=ent2_ent2&k=g101788) 時事ドットコム 12月27日
+36. [LUNA SEA「新曲配信募金」4/9より日本、アメリカ、イギリス、ドイツ、オーストリア、スイス、フランスでスタート。](http://www.barks.jp/news/?id=1000068864)BARKS 2011年4月8日
+37. [LUNA SEAユニバーサル移籍＆13年ぶりアルバム制作中](http://natalie.mu/music/news/77892) ナタリー 2012年10月9日
+38.
+39. [LUNA SEA、13年5カ月ぶりアルバム「A WILL」12月発売](http://natalie.mu/music/news/103188) - ナタリー・2013年11月9日
+40.
+41. [LUNA SEA、来年5・29のバンド結成日に25周年記念ライブ開催](http://www.oricon.co.jp/news/2031632/full/) - ORICON STYLE（[オリコン](../Page/オリコン.md "wikilink")）2013年12月4日
 42.
 43.
-
-
-
-
 44.
-45. [LUNA SEA、世界初の水素コンサート SUGIZO「地球によいエネルギーで最高のロック」](http://www.oricon.co.jp/news/2091476/full/) - ORICON NEWS（2017年5月30日）
-46. [ホンダの燃料電池自動車がLUNA SEAのライブで電力供給](https://f1-gate.com/honda/lunasea_37086.html) - F1-Gate.com（2017年6月16日）
-47. [LUNA SEA「愛」がテーマの新作アルバム発表、年明けからホールツアー](http://natalie.mu/music/news/251594) - ナタリー・2017年10月5日
-48. [LUNA SEAニューアルバム「CROSS」発売、2月から全国ツアー](https://natalie.mu/music/news/351274) - ナタリー・2019年10月11日
-49. [LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE- 宇都宮、石川(金沢)公演に関する延期のお知らせ](https://www.lunasea.jp/news/LUN_news_3e9a0d6126641bb28129f09c99736d64) LUNA SEA OFFICIAL WEBSITE NEWS 2020年2月26日
-50. [ＬＵＮＡ　ＳＥＡも４公演延期…主な音楽ライブの中止・延期・自粛](https://hochi.news/articles/20200226-OHT1T50215.html) スポーツ報知 2020年2月16日
-51. [LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE- 3月公演延期のお知らせ](https://www.lunasea.jp/news/LUN_news_f519ccf73c968ac404ed8bed3a61bf97) LUNA SEA OFFICIAL WEBSITE NEWS 2020年3月7日
-52. 2020年２月19日20時～22時ニコニコ動画SugizoTube生放送
-53. with DOLLS/WOOD PECKER etc
-54. vs BILLY & THE SLUTS etc
-55. vs JOLLY PICKLES etc
-56. vs WOOD PECKER/CRACKER JACK
-57. vs DELIGHTS/東京ヤンキース
-58. vs SALAMANDER/VILE/マダムロシャス
-59. JOLLY PICKLES/SCHOOL DAZE etc
-60.
-61. 夜叉/DK POLICE etc
-62. vs DANTE
-63. vs BURN TRASH/オルフェス
-64. vs Girltipue
-65. vs SALAMANDER etc
-66. vs VOICE BLUE
-67. vs CRACKER JACK etc
-68. Gilles de Rais/DANTE etc
-69. vs VILE/SIGHS OF LOVE POTION
-70. vs SHADOW/The HAREM Q
-71. vs [AION](../Page/AION.md "wikilink")/QUEEN DOLL etc
-72. ゲスト [Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink") / DT「Lastly」180本無料配布
-73. ゲスト出演
-74.
-75. vs CUTY-CUTE/RATE GREEK etc
-76. vs JOLLY PICKLES/東京ヤンキース/BELLZLLEB
-77. この日表記をLUNACYから**LUNA SEA**に改名。250名限定/DT『SHADE』会場限定最終販売有り
-78. シークレット
-79. with EX-ANS/SIGHTS OF LOVE POTION/[東京ヤンキース](https://ja.wikipedia.org/wiki/東京ヤンキース "wikilink")/TRACY/VELVET ENDROIT/MAJESTIC ISABELL
-80. サポート [MEDIA YOUTH](https://ja.wikipedia.org/wiki/media_youth "wikilink")
-81. with AION/EX-ANS/[Gargoyle](../Page/Gargoyle.md "wikilink")/DECAMERON/東京ヤンキース
-82. vs Gilles de Rais/SIGHS OF LOVE POTION
-83. with [Luis-Mary](../Page/Luis-Mary.md "wikilink")/Girltipue etc
-84. vs AION
-85. ゲスト:RAY(DEEP)/SEIJI(EX-ANS)/HISAYOSHI(ROSENFELD)
-86. with [MORRIE](../Page/MORRIE.md "wikilink")/STRAWBERRY FIELDS etc
-87. vs AION/DECAMERON
-88. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
-89. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
-90. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
-91.
-92. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
-93.
+
+
+
+
+45.
+46. [LUNA SEA、世界初の水素コンサート SUGIZO「地球によいエネルギーで最高のロック」](http://www.oricon.co.jp/news/2091476/full/) - ORICON NEWS（2017年5月30日）
+47. [ホンダの燃料電池自動車がLUNA SEAのライブで電力供給](https://f1-gate.com/honda/lunasea_37086.html) - F1-Gate.com（2017年6月16日）
+48. [LUNA SEA「愛」がテーマの新作アルバム発表、年明けからホールツアー](http://natalie.mu/music/news/251594) - ナタリー・2017年10月5日
+49. [LUNA SEAニューアルバム「CROSS」発売、2月から全国ツアー](https://natalie.mu/music/news/351274) - ナタリー・2019年10月11日
+50. [LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE- 宇都宮、石川(金沢)公演に関する延期のお知らせ](https://www.lunasea.jp/news/LUN_news_3e9a0d6126641bb28129f09c99736d64) LUNA SEA OFFICIAL WEBSITE NEWS 2020年2月26日
+51. [ＬＵＮＡ　ＳＥＡも４公演延期…主な音楽ライブの中止・延期・自粛](https://hochi.news/articles/20200226-OHT1T50215.html) スポーツ報知 2020年2月16日
+52. [LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE- 3月公演延期のお知らせ](https://www.lunasea.jp/news/LUN_news_f519ccf73c968ac404ed8bed3a61bf97) LUNA SEA OFFICIAL WEBSITE NEWS 2020年3月7日
+53.
+54. SLAVE限定公開日。
+55. 2020年２月19日20時～22時ニコニコ動画SugizoTube生放送
+56. with DOLLS/WOOD PECKER etc
+57. vs BILLY & THE SLUTS etc
+58. vs JOLLY PICKLES etc
+59. vs WOOD PECKER/CRACKER JACK
+60. vs DELIGHTS/東京ヤンキース
+61. vs SALAMANDER/VILE/マダムロシャス
+62. JOLLY PICKLES/SCHOOL DAZE etc
+63.
+64. 夜叉/DK POLICE etc
+65. vs DANTE
+66. vs BURN TRASH/オルフェス
+67. vs Girltipue
+68. vs SALAMANDER etc
+69. vs VOICE BLUE
+70. vs CRACKER JACK etc
+71. Gilles de Rais/DANTE etc
+72. vs VILE/SIGHS OF LOVE POTION
+73. vs SHADOW/The HAREM Q
+74. vs [AION](../Page/AION.md "wikilink")/QUEEN DOLL etc
+75. ゲスト [Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink") / DT「Lastly」180本無料配布
+76. ゲスト出演
+77.
+78. vs CUTY-CUTE/RATE GREEK etc
+79. vs JOLLY PICKLES/東京ヤンキース/BELLZLLEB
+80. この日表記をLUNACYから**LUNA SEA**に改名。250名限定/DT『SHADE』会場限定最終販売有り
+81. シークレット
+82. with EX-ANS/SIGHTS OF LOVE POTION/[東京ヤンキース](https://ja.wikipedia.org/wiki/東京ヤンキース "wikilink")/TRACY/VELVET ENDROIT/MAJESTIC ISABELL
+83. サポート [MEDIA YOUTH](https://ja.wikipedia.org/wiki/media_youth "wikilink")
+84. with AION/EX-ANS/[Gargoyle](../Page/Gargoyle.md "wikilink")/DECAMERON/東京ヤンキース
+85. vs Gilles de Rais/SIGHS OF LOVE POTION
+86. with [Luis-Mary](../Page/Luis-Mary.md "wikilink")/Girltipue etc
+87. vs AION
+88. ゲスト:RAY(DEEP)/SEIJI(EX-ANS)/HISAYOSHI(ROSENFELD)
+89. with [MORRIE](../Page/MORRIE.md "wikilink")/STRAWBERRY FIELDS etc
+90. vs AION/DECAMERON
+91. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
+92. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
+93. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
+94.
+95. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
+96.

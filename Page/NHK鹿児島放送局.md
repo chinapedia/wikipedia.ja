@@ -191,6 +191,7 @@ NHK鹿児島放送局、MBCテレビ、<br />
   - 阿久根：1026kHz 100W（[阿久根市](../Page/阿久根市.md "wikilink")赤瀬川・[NHK阿久根ラジオ中継所](https://ja.wikipedia.org/wiki/NHK阿久根ラジオ中継所 "wikilink")）
   - 川内出水：89.9MHz 100W《FM波》（[薩摩郡](../Page/薩摩郡.md "wikilink")[さつま町](../Page/さつま町.md "wikilink")・[紫尾山](../Page/紫尾山.md "wikilink")）
   - 大口：1503kHz 100W（[伊佐市](../Page/伊佐市.md "wikilink")大口鳥巣字外一町／伊佐市総合運動公園・NHK鹿児島大口中継所）
+  - 種子島：79.3MHz 1kW（[西之表市](../Page/西之表市.md "wikilink")古田字十三番／廻峰山・[種子島中継局](../Page/種子島中継局.md "wikilink")）
   - 徳之島：1341kHz 100W （[大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[徳之島町](../Page/徳之島町.md "wikilink")徳和瀬・[NHK鹿児島徳之島中継所](../Page/徳之島中継局.md "wikilink")）
   - 徳之島：79.4MHz 100W《FM波》（大島郡徳之島町井之川・井之川岳）
   - 奄美宇検：81.3MHz 10W《FM波》（大島郡[宇検村](../Page/宇検村.md "wikilink")・NHK鹿児島宇検中継所）
@@ -222,7 +223,7 @@ NHK鹿児島放送局、MBCテレビ、<br />
   - 栗野：85.9MHz 10W（[姶良郡](../Page/姶良郡.md "wikilink")[湧水町](../Page/湧水町.md "wikilink")木場／栗野岳・[大口中継局](../Page/大口中継局.md "wikilink")）
   - 末吉：84.9MHz 10W（[曽於市](../Page/曽於市.md "wikilink")末吉町深川字新原／高の峯・[末吉中継局](../Page/末吉中継局.md "wikilink")）
   - 東市来：84.3MHz 1W（[日置市](../Page/日置市.md "wikilink")東市来町湯田字平迫比良・遠見番山）
-  - 種子島：84.4MHz 1kW（[西之表市](../Page/西之表市.md "wikilink")古田字十三番／廻峰山・[種子島中継局](../Page/種子島中継局.md "wikilink")）
+  - 種子島：84.4MHz 1kW（西之表市古田字十三番／廻峰山・種子島中継局）
   - 瀬戸内：84.5MHz 100W（大島郡[瀬戸内町](../Page/瀬戸内町.md "wikilink")古仁屋／高知山・[瀬戸内中継局](../Page/瀬戸内中継局.md "wikilink")）
   - 知名：84.0MHz 100W（大島郡[知名町](../Page/知名町.md "wikilink")瀬利覚／大山・[知名中継局](../Page/知名中継局.md "wikilink")）
   - 徳之島：81.6MHz 100W（大島郡徳之島町井之川／井之川岳・[徳之島中継局](../Page/徳之島中継局.md "wikilink")）

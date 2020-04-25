@@ -40,4 +40,4 @@
 
   - [キックオフ\!\!F・マリノス](http://www.tvk-yokohama.com/f-marinos/)
 
-[Category:テレビ神奈川のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川のスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組‎](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組‎ "wikilink") [Category:横浜F・マリノス](https://ja.wikipedia.org/wiki/Category:横浜F・マリノス "wikilink")
+[Category:テレビ神奈川のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川のスポーツ番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:横浜F・マリノス](https://ja.wikipedia.org/wiki/Category:横浜F・マリノス "wikilink")

@@ -38,7 +38,7 @@
   - [株式会社フィックスターズ](http://www.fixstars.com/)
   - [アミュレット株式会社](http://www.amulet.co.jp/)
 
-[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:PowerPCオペレーティングシステム](https://ja.wikipedia.org/wiki/Category:PowerPCオペレーティングシステム "wikilink")
+[Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:PowerPCオペレーティングシステム](https://ja.wikipedia.org/wiki/Category:PowerPCオペレーティングシステム "wikilink") [Category:Cell_BEアーキテクチャ](https://ja.wikipedia.org/wiki/Category:Cell_BEアーキテクチャ "wikilink")
 
 1.  <http://www.fixstars.com/company/press/20081111.html>
 2.  [いち早く登場した「Yellow Dog Linux」：ITpro](http://itpro.nikkeibp.co.jp/article/COLUMN/20070917/282127)

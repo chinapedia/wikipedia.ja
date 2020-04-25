@@ -155,6 +155,7 @@
 
   - 三崎・相川・桜田以外は出演当時日本テレビ所属。徳光は1989年10月よりフリーアナウンサーに転向した。
   - 日曜版終了後の鷹西と笛吹はトップクレジット扱い。
+  - 藤井は当番組を降板してから5年後、2010年3月末にスタートした『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』のメインキャスターに就任し当枠復帰を果たしている。
 
 ### サブキャスター、コーナー担当キャスター
 
@@ -327,7 +328,7 @@
 <li>お天気キャスター以外はすべて月 - 金曜日の担当。土・日曜日のスポーツコーナーはメインが担当。</li>
 <li>上記の末期出演者は清原以外全員『<a href="https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム" title="wikilink">NNN Newsリアルタイム</a>』も続投。</li>
 <li><sup>1</sup>　『<a href="../Page/NNNライブオンネットワーク.md" title="wikilink">NNNライブオンネットワーク</a>』から続投。</li>
-<li><sup>2</sup>　『<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news every.</a>』も続投。</li>
+<li><sup>2</sup>　『news every.』も続投。</li>
 <li><sup>3</sup>　日曜版も同様。</li>
 <li><sup>4</sup>　交代で担当。</li>
 </ul></td>
@@ -503,7 +504,7 @@
 
 開始当初は一般的なニュースとミニ特集で構成。
 
-ニュース映像は各放送局が製作しているが故にニュースによって字幕の太さ（日本テレビは太く[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")は細いなど）や文字などの色が違っているなど字幕が全体で統一されていなかった。
+ニュース映像は各放送局が製作しているが故にニュースによって字幕の太さ（日本テレビは太く[山口放送](../Page/山口放送.md "wikilink")は細いなど）や文字などの色が違っているなど字幕が全体で統一されていなかった。
 
 真山と木村の体制になってからは綿密に編集されたVTRにナレーターがナレーションする方針を採り、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（現：[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")）と同様、現在のVTR主導の番組作りの布石となる。そのため、17時台ではVTR主導ではなく、キャスターが原稿を読む形式にして差別化を図っている。
 
@@ -937,7 +938,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td><p>1976年 - 1995年3月：<a href="../Page/KRY_テレビ夕刊.md" title="wikilink">KRY テレビ夕刊</a><br />
 1995年4月 - 2006年3月：<a href="https://ja.wikipedia.org/wiki/プラス1やまぐち" title="wikilink">プラス1やまぐち</a><br />

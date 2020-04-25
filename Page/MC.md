@@ -25,7 +25,7 @@
   - [メディスン・ボックス](https://ja.wikipedia.org/wiki/メディスン・ボックス "wikilink") (medicine cabinet)
   - [マルチ・チップ](https://ja.wikipedia.org/wiki/マルチ・チップ "wikilink") (multi chip)
   - [マルチ・キャリア](https://ja.wikipedia.org/wiki/マルチ・キャリア "wikilink") (multi-career)
-  - [メディアコンバータ](https://ja.wikipedia.org/wiki/メディアコンバータ "wikilink") ([:en:Media Converter](https://ja.wikipedia.org/wiki/:en:Media_Converter "wikilink"))
+  - [メディアコンバーター](https://ja.wikipedia.org/wiki/メディアコンバーター "wikilink") (Media Converter)
   - [モンテカルロ法](../Page/モンテカルロ法.md "wikilink") (Monte Carlo method)
   - [微小変化群](../Page/微小変化群.md "wikilink") (minimal change) - [医学](../Page/医学.md "wikilink")用語
   - メチルクロルホルム (methyl chloroform) - 1,1,1-[トリクロロエタン](../Page/トリクロロエタン.md "wikilink")の別名及び略称

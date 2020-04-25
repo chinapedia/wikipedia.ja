@@ -509,7 +509,7 @@
 ### 音楽番組
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（テレビ朝日）
-  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（フジテレビ）
+  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（フジテレビ）
   - [BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")（NHK）
   - [HOT WAVE](https://ja.wikipedia.org/wiki/HOT_WAVE "wikilink")
   - [Break Out](../Page/Break_Out_\(テレビ番組\).md "wikilink") - （インディーズ基礎知識講座）
@@ -546,17 +546,17 @@
       -
       -
       -
-  - [TAKA｜リブライアン オフィシャルブログ リブライアンの法則](http://ameblo.jp/libraian/theme-10008234859.html) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [TAKA｜リブライアン オフィシャルブログ リブライアンの法則](https://ameblo.jp/libraian/theme-10008234859.html) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
       - \- [yaplog\!](https://ja.wikipedia.org/wiki/yaplog! "wikilink")（旧ブログ）
-  - [HIRO｜リブライアン オフィシャルブログ リブライアンの法則](http://ameblo.jp/libraian/theme-10008234854.html) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [HIRO｜リブライアン オフィシャルブログ リブライアンの法則](https://ameblo.jp/libraian/theme-10008234854.html) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
       - \- [yaplog\!](https://ja.wikipedia.org/wiki/yaplog! "wikilink")（2008年7月24日更新停止）
 
       -
-  - [KOJI｜ALvino Official Blog](http://ameblo.jp/alvino-plusone/theme-10041059795.html) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [KOJI｜ALvino Official Blog](https://ameblo.jp/alvino-plusone/theme-10041059795.html) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
       -
-  - [SHUSEの無修正](http://ameblo.jp/shuse/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [SHUSEの無修正](https://ameblo.jp/shuse/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
       -
-  - [LEVI LIMIT](http://ameblo.jp/levilimit) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [LEVI LIMIT](https://ameblo.jp/levilimit) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
       -
 [Category:La'cryma_Christi](https://ja.wikipedia.org/wiki/Category:La'cryma_Christi "wikilink") [Category:日本のプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のプログレッシブ・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2007年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に解散した音楽グループ "wikilink") [Category:2009年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に再結成した音楽グループ "wikilink") [Category:2012年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に再結成した音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 

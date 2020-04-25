@@ -48,8 +48,8 @@ H-IIAロケットの能力的には[IGSの](../Page/情報収集衛星.md "wikil
 
 ## 外部リンク
 
-  - [JAXA公式サイト](http://www.jaxa.jp/)
-  - [JAXA H-IIAロケット6号機](http://www.jaxa.jp/projects/rockets/h2a/f6/index_j.html)
+  - [JAXA公式サイト](https://www.jaxa.jp/)
+  - [JAXA H-IIAロケット6号機](https://www.jaxa.jp/projects/rockets/h2a/f6/index_j.html)
   - [H-ⅡA ロケット打上げ再開初号機の成功](http://www.mhi.co.jp/technology/review/pdf/425/425230.pdf)三菱重工技報 Vol.42 No.5 (2005)
 
 [Category:日本のロケット](https://ja.wikipedia.org/wiki/Category:日本のロケット "wikilink")

@@ -74,6 +74,6 @@ Yahoo\!ケータイトップページの内容は、サービス開始の2006年
 
 [Category:携帯電話_(ソフトバンク)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ソフトバンク\) "wikilink") [Category:携帯電話ブラウジング](https://ja.wikipedia.org/wiki/Category:携帯電話ブラウジング "wikilink")
 
-1.  PDCの4・3・2シリーズではもともとS\!ベーシックパック契約なしでもWeb利用が可能。また、後にY\!ボタンを押してもS\!ベーシックパック非契約者用のページが出るように改善された。なお、Yahoo\!ケータイを利用できない[プリモバイル](https://ja.wikipedia.org/wiki/プリモバイル "wikilink")でY\!ボタンを押すとメール設定ページが出る。
+1.  PDCの4・3・2シリーズ（パケット通信非対応）ではもともとS\!ベーシックパック契約なしでもWeb利用が可能。また、後にY\!ボタンを押してもS\!ベーシックパック非契約者用のページが出るように改善された。なお、Yahoo\!ケータイを利用できない[プリモバイル](https://ja.wikipedia.org/wiki/プリモバイル "wikilink")でY\!ボタンを押すとメール設定ページが出る。
 2.  例えば「https://ja.wikipedia.org/」なら「https://secure.softbank.ne.jp/ja.wikipedia.org/」と変換されていた。
 3.  [Yahoo\!ケータイ仕様変更、従来の携帯サイトに接続できない場合も](http://k-tai.impress.co.jp/docs/news/20101015_400282.html) - ケータイWatch・2010年10月15日

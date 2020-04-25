@@ -152,6 +152,125 @@ Amazonでは、独自の物流拠点（フルフィルメントセンター：FC
   - 労働者の待遇
     物流拠点での労働者の過酷な状況について、アメリカ\[60\]、イギリス\[61\]\[62\]、ドイツ\[63\]、フランス\[64\]などで報じられている。
 
+## ウェブサイト
+
+[AmazonSiteAvailability.svg](https://ja.wikipedia.org/wiki/File:AmazonSiteAvailability.svg "fig:AmazonSiteAvailability.svg")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>大陸</p></th>
+<th><p>国</p></th>
+<th><p><a href="../Page/ドメイン名.md" title="wikilink">ドメイン名</a></p></th>
+<th><p>開始</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>アメリカ</p></td>
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon.com<a href="../Page/.br.md" title="wikilink">.br</a></p></td>
+<td><p>2012年12月</p></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="../Page/.ca.md" title="wikilink">.ca</a></p></td>
+<td><p>2002年6月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon.com<a href="https://ja.wikipedia.org/wiki/.mx" title="wikilink">.mx</a></p></td>
+<td><p>2013年8月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="https://ja.wikipedia.org/wiki/.com" title="wikilink">.com</a></p></td>
+<td><p>1995年7月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>アジア</p></td>
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="../Page/.cn.md" title="wikilink">.cn</a></p></td>
+<td><p>2004年9月</p></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="../Page/.in.md" title="wikilink">.in</a></p></td>
+<td><p>2013年6月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon.co<a href="../Page/.jp.md" title="wikilink">.jp</a></p></td>
+<td><p>2000年11月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="https://ja.wikipedia.org/wiki/.sg" title="wikilink">.sg</a></p></td>
+<td><p>2017年7月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon.com<a href="../Page/.tr.md" title="wikilink">.tr</a></p></td>
+<td><p>2018年9月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="../Page/.ae.md" title="wikilink">.ae</a></p></td>
+<td><p>2019年5月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ヨーロッパ</p></td>
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="../Page/.fr.md" title="wikilink">.fr</a></p></td>
+<td><p>2000年8月</p></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="../Page/.de.md" title="wikilink">.de</a></p></td>
+<td><p>1998年10月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="https://ja.wikipedia.org/wiki/.it" title="wikilink">.it</a></p></td>
+<td><p>2010年11月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="https://ja.wikipedia.org/wiki/.nl" title="wikilink">.nl</a></p></td>
+<td><p>2014年11月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon<a href="https://ja.wikipedia.org/wiki/.es" title="wikilink">.es</a></p></td>
+<td><p>2011年9月</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon.co<a href="../Page/.uk.md" title="wikilink">.uk</a></p></td>
+<td><p>1998年10月</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>オセアニア</p></td>
+<td><p>class="table-rh" | </p></td>
+<td><p>amazon.com<a href="../Page/.au.md" title="wikilink">.au</a></p></td>
+<td><p>2017年11月</p></td>
+</tr>
+</tbody>
+</table>
+
 ## ビジネスモデル
 
 ### 経営上の特徴

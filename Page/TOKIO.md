@@ -1,7 +1,7 @@
 > この記事は[TOKIO](https://ja.wikipedia.org/wiki/TOKIO)から翻訳されています。
 
 
-**TOKIO**（トキオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")\[1\]。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")。 所属[レコード会社](../Page/レコード会社.md "wikilink")は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。
+**TOKIO**（トキオ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")\[1\]、[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[2\]。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")。 所属[レコード会社](../Page/レコード会社.md "wikilink")は[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")。
 
 ## メンバー
 
@@ -15,49 +15,40 @@
 <th><p>出身地</p></th>
 <th><p>血液型</p></th>
 <th><p>演奏担当</p></th>
-<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/城島茂.md" title="wikilink">城島茂</a></strong>[2]<br />
+<td><p><strong><a href="../Page/城島茂.md" title="wikilink">城島茂</a></strong>[3]<br />
 （じょうしま しげる）</p></td>
 <td></td>
 <td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型#O型の亜種" title="wikilink">O型</a></p></td>
-<td><p><a href="../Page/ギター.md" title="wikilink">ギター</a><br />
-<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
-<td><p>リーダー</p></td>
+<td><p>リーダー、<a href="../Page/ギター.md" title="wikilink">ギター</a>、<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>[4]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/国分太一.md" title="wikilink">国分太一</a></strong>[3]<br />
+<td><p><strong><a href="../Page/国分太一.md" title="wikilink">国分太一</a></strong>[5]<br />
 （こくぶん たいち）</p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>O型</p></td>
-<td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a><br />
-ボーカル</p></td>
-<td></td>
+<td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a>、ボーカル[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/松岡昌宏.md" title="wikilink">松岡昌宏</a></strong>[4]<br />
+<td><p><strong><a href="../Page/松岡昌宏.md" title="wikilink">松岡昌宏</a></strong>[7]<br />
 （まつおか まさひろ）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型#O型の亜型" title="wikilink">A型</a></p></td>
-<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラム</a><br />
-ボーカル</p></td>
-<td></td>
+<td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラムス</a>、ボーカル[8]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/長瀬智也.md" title="wikilink">長瀬智也</a></strong>[5]<br />
+<td><p><strong><a href="../Page/長瀬智也.md" title="wikilink">長瀬智也</a></strong>[9]<br />
 （ながせ ともや）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p>O型</p></td>
-<td><p>ボーカル<br />
-<a href="../Page/リズムギター.md" title="wikilink">リズムギター</a></p></td>
-<td></td>
+<td><p>ボーカル、ギター[10]</p></td>
 </tr>
 </tbody>
 </table>
@@ -82,19 +73,17 @@
 <td></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td></td>
-<td><p>ボーカル<br />
-ギター</p></td>
-<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>[6]</p></td>
+<td><p>ボーカル、ギター</p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>[11]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山口達也" title="wikilink">山口達也</a>[7]<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/山口達也" title="wikilink">山口達也</a>[12]<br />
 （やまぐち たつや）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p>O型</p></td>
-<td><p><a href="../Page/エレクトリックベース.md" title="wikilink">ベース</a><br />
-ボーカル</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>[8]</p></td>
+<td><p><a href="../Page/エレクトリックベース.md" title="wikilink">ベース</a>、ボーカル</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>[13]</p></td>
 </tr>
 </tbody>
 </table>
@@ -174,7 +163,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2010年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")、「[-遥か-](https://ja.wikipedia.org/wiki/-遥か- "wikilink")」をリリース。『ザ\!鉄腕\!DASH\!\!』の企画「DASH海岸」のテーマソングであり、[TUBE](../Page/TUBE.md "wikilink")の[前田亘輝](../Page/前田亘輝.md "wikilink")・[春畑道哉](../Page/春畑道哉.md "wikilink")から詞曲提供を受けた。「青春 SEISYuN」以来、2年7ヶ月振りの首位獲得となり、ジェイ・ストーム移籍後は初の首位獲得となった。また、初動のみで前作の累計売上を上回った。
 
-2010年7月、『ザ\!鉄腕\!DASH\!\!』の企画「DASH海岸」が[国土交通省](../Page/国土交通省.md "wikilink")から評価され、「海の日表彰（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")整備局港湾空港関係功労者表彰）」を受けた\[9\]\[10\]。
+2010年7月、『ザ\!鉄腕\!DASH\!\!』の企画「DASH海岸」が[国土交通省](../Page/国土交通省.md "wikilink")から評価され、「海の日表彰（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")整備局港湾空港関係功労者表彰）」を受けた\[14\]\[15\]。
 
 2010年8月28日・29日、『[24時間テレビ 「愛は地球を救う」 ありがとう〜今、あの人に伝えたい〜](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』において、3度目のパーソナリティを務めた。
 
@@ -194,7 +183,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2014年8月から11月にかけて20周年記念ライブ「JRA 60th presents TOKIO 20th Anniversary Live Tour HEART」を開催。
 
-2014年のバラエティ年間平均視聴率ランキングで、レギュラー番組の『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』が平均視聴率18.4%で首位となった\[11\]。
+2014年のバラエティ年間平均視聴率ランキングで、レギュラー番組の『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』が平均視聴率18.4%で首位となった\[16\]。
 
 2015年9月11日、国分が3歳年下の元TBS社員の一般女性と結婚したことを発表した。
 
@@ -208,15 +197,15 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 #### 山口の不祥事、脱退
 
-2018年4月25日、同年2月12日に山口が[司会を務めていた番組で共演した](https://ja.wikipedia.org/wiki/Rの法則 "wikilink")[女子高生](../Page/女子高生.md "wikilink")に対して、飲酒させた上に[わいせつ](../Page/わいせつ.md "wikilink")な行為をしたとして、強制わいせつ容疑で[書類送検](../Page/書類送検.md "wikilink")されたことが報道された\[12\]。これを受け山口が翌日謝罪会見を開き、ジャニーズ事務所は芸能活動を無期限謹慎処分とすることを発表\[13\]。その後、5月2日に山口以外の4人は会見を開き、4月30日に山口がTOKIOに「辞表」を提出して脱退を申し出たことを城島が明かした。なお城島は山口の処遇について、その日のうちに結論が出ずに保留になったとしていた\[14\]が、ジャニーズ事務所の公式サイト上では同日までに山口のプロフィールや写真、レギュラー番組の情報などが削除された\[15\]。
+2018年4月25日、同年2月12日に山口が[司会を務めていた番組で共演した](https://ja.wikipedia.org/wiki/Rの法則 "wikilink")[女子高生](../Page/女子高生.md "wikilink")に対して、飲酒させた上に[わいせつ](../Page/わいせつ.md "wikilink")な行為をしたとして、強制わいせつ容疑で[書類送検](../Page/書類送検.md "wikilink")されたことが報道された\[17\]。これを受け山口が翌日謝罪会見を開き、ジャニーズ事務所は芸能活動を無期限謹慎処分とすることを発表\[18\]。その後、5月2日に山口以外の4人は会見を開き、4月30日に山口がTOKIOに「辞表」を提出して脱退を申し出たことを城島が明かした。なお城島は山口の処遇について、その日のうちに結論が出ずに保留になったとしていた\[19\]が、ジャニーズ事務所の公式サイト上では同日までに山口のプロフィールや写真、レギュラー番組の情報などが削除された\[20\]。
 
-同年5月6日、山口から提出された「辞表」についてジャニーズ事務所が正式に受理し、これにより山口はTOKIOから脱退すると共にジャニーズ事務所からも退所した。ジャニーズ事務所は、「本人の強い意思に基づき[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")社長と城島茂リーダーの2人で協議を行った結果、契約を解除することとなりました」としている\[16\]\[17\]。
+同年5月6日、山口から提出された「辞表」についてジャニーズ事務所が正式に受理し、これにより山口はTOKIOから脱退すると共にジャニーズ事務所からも退所した。ジャニーズ事務所は、「本人の強い意思に基づき[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")社長と城島茂リーダーの2人で協議を行った結果、契約を解除することとなりました」としている\[21\]\[22\]。
 
-この影響によりTOKIOは音楽活動を休止することとなり、夏や年末の大型音楽特番への出演も辞退する事となった。また、デビュー以来、毎年出場していたNHK紅白歌合戦にも選出されず、TOKIOの連続出場記録も歴代11位の24年で途切れてしまった\[18\]。
+この影響によりTOKIOは音楽活動を休止することとなり、夏や年末の大型音楽特番への出演も辞退する事となった。また、デビュー以来、毎年出場していたNHK紅白歌合戦にも選出されず、TOKIOの連続出場記録も歴代11位の24年で途切れてしまった\[23\]。
 
 ## エピソード
 
-  - 『ザ\!鉄腕\!DASH\!\!』の企画「[DASH村](../Page/DASH村.md "wikilink")」が[福島県](../Page/福島県.md "wikilink")[浪江町](https://ja.wikipedia.org/wiki/浪江町 "wikilink")にある縁から、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")で深刻な被害を被った福島県への恩返しを込めて、同県の農産物PRCMに2011年からノーギャラで出演している事が明かされている\[19\]。
+  - 『ザ\!鉄腕\!DASH\!\!』の企画「[DASH村](../Page/DASH村.md "wikilink")」が[福島県](../Page/福島県.md "wikilink")[浪江町](https://ja.wikipedia.org/wiki/浪江町 "wikilink")にある縁から、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")で深刻な被害を被った福島県への恩返しを込めて、同県の農産物PRCMに2011年からノーギャラで出演している事が明かされている\[24\]。
 
 ## 作品
 
@@ -224,7 +213,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 2000年の「恋に気づいた夜」までが8cmシングル、2001年の「どいつもこいつも」からマキシシングル。タイアップについては[ジャニーズ タイアップ一覧を参照](https://ja.wikipedia.org/wiki/ジャニーズ_タイアップ一覧#た行 "wikilink")。
 
-| ＃                                                           | 発売日         | タイトル                                                                                                     | カップリング                           | 最高順位\[20\] | 収録アルバム                                                                               |
+| ＃                                                           | 発売日         | タイトル                                                                                                     | カップリング                           | 最高順位\[25\] | 収録アルバム                                                                               |
 | ----------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
 | [ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink") |             |                                                                                                          |                                  |            |                                                                                      |
 | 1                                                           | 1994年9月21日  | *' [LOVE YOU ONLY](../Page/LOVE_YOU_ONLY.md "wikilink")*'                                                | 時代を（TOKIO）よろしく\!                 | 3位         | [TOKIO](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")                                  |
@@ -699,7 +688,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <tr class="even">
 <td><p>1995年/<a href="../Page/第46回NHK紅白歌合戦.md" title="wikilink">第46回</a></p></td>
 <td><p>2</p></td>
-<td><p>風になって（紅白バージョン）[21]</p></td>
+<td><p>風になって（紅白バージョン）[26]</p></td>
 <td><p>05/25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a></p></td>
 <td></td>
@@ -873,7 +862,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <td><p>都庁から生中継</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年/<a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a>[22]</p></td>
+<td><p>2017年/<a href="https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦" title="wikilink">第68回</a>[27]</p></td>
 <td><p>24</p></td>
 <td><p>AMBITIOUS JAPAN!(4回目)</p></td>
 <td><p>14/22</p></td>
@@ -1530,18 +1519,23 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 5.
 6.
 7.
-8.  [【山口達也さん契約解除】ジャニーズ事務所が報道機関向けに文書　契約解除理由など説明　全文掲載](https://www.sankei.com/entertainments/news/180506/ent1805060013-n1.html) 産経新聞 2018年5月6日
+8.
 9.
 10.
-11. [日経エンタテインメント！](https://ja.wikipedia.org/wiki/日経エンタテインメント！ "wikilink")2015年1月号
+11.
 12.
-13.
+13. [【山口達也さん契約解除】ジャニーズ事務所が報道機関向けに文書　契約解除理由など説明　全文掲載](https://www.sankei.com/entertainments/news/180506/ent1805060013-n1.html) 産経新聞 2018年5月6日
 14.
 15.
-16.
+16. [日経エンタテインメント！](https://ja.wikipedia.org/wiki/日経エンタテインメント！ "wikilink")2015年1月号
 17.
 18.
-19. [TOKIO、11年から福島県CMノーギャラだった](http://www.nikkansports.com/entertainment/news/1515486.html) [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") 2015年7月31日、同10月23日閲覧。
+19.
 20.
-21. 「風になって」「LOVE YOU ONLY」2回目「うわさのキッス」のメドレー
-22. 2018年4月に発生した山口達也(元メンバー)の騒動により、歌手としての活動は休止中
+21.
+22.
+23.
+24. [TOKIO、11年から福島県CMノーギャラだった](http://www.nikkansports.com/entertainment/news/1515486.html) [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") 2015年7月31日、同10月23日閲覧。
+25.
+26. 「風になって」「LOVE YOU ONLY」2回目「うわさのキッス」のメドレー
+27. 2018年4月に発生した山口達也(元メンバー)の騒動により、歌手としての活動は休止中

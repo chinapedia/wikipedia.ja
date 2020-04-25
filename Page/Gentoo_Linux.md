@@ -79,19 +79,13 @@ Gentoo Linuxは、[ローリング・リリース](https://ja.wikipedia.org/wiki
   - [2016年](../Page/2016年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - Choice Edition リリース。
   - [2017年](../Page/2017年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - Crispy Belgian Waffle Edition リリース。[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")が開催地の[FOSDEM](https://ja.wikipedia.org/wiki/FOSDEM "wikilink") 2017で頒布された\[13\]。
 
+## 脚注
+
 ## 関連項目
 
   - [Portage](../Page/Portage.md "wikilink")
   - [ebuild](https://ja.wikipedia.org/wiki/ebuild "wikilink")
   - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
-
-## 注釈
-
-<div class="references-small" style="-moz-column-count:2; column-count:2;">
-
-<references />
-
-</div>
 
 ## 外部リンク
 

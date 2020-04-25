@@ -46,7 +46,7 @@
   - 2週間お試し体験
     これとは別に、B-CASカード1枚につき1回限り「2週間お試し体験」\[12\]を申し込むことができる。これはプレミアムサービスのICカードにも適用され、同様にお試し体験ができる。2週間お試し体験を申し込まないと本契約はできない。なお、2週間お試し体験や本契約を済ませたカードなら、**家中のどの対応テレビやレコーダーに挿入しても受信できる**（「[プレミアムサービスとの相違点](https://ja.wikipedia.org/wiki/#プレミアムサービス（旧・スカパー!HD）との相違点 "wikilink")」で詳述）。2014年3月1日から3月9日までの申し込み分に限り、既に同サービス申し込み済のB-CASカードでも再び同サービスが利用できる｢もう1度2週間お試し体験サービス｣というキャンペーンが行われた。尚、東映チャンネルのみ対象外となる。その他、｢BSスカパー\!最大1年間無料｣も対象外。既に加入済のB-CASカードは申し込みが無効になる。
   - スカパー\!無料の日
-    「プレミアムサービス」と同様に、毎月第1[日曜日](../Page/日曜日.md "wikilink")の4時頃から翌月曜日の4時頃までの24時間\[13\]、「**スカパー\!無料の日**」\[14\]と称した、一斉無料放送を行っているが、画面下部にスカパー\!への加入を促すメッセージが1分程度（かつては常時）表示される（B-CASカードを抜いて視聴すればメッセージが表示されずに視聴できる）。
+    「プレミアムサービス」と同様に、毎月第1[日曜日](../Page/日曜日.md "wikilink")の4時頃から翌月曜日の4時頃までの24時間\[13\]、「**スカパー\!無料の日**」\[14\]と称した、一斉無料放送を行っているが、画面下部にスカパー\!への加入を促すメッセージが常時表示される（B-CASカードを抜いて視聴すればメッセージが表示されずに視聴できる）。2005年2月までは毎月20日に無料の日が実施されていた。
     さらに、第1日曜日を含む10日間の無料開放日を年に1 - 2回設けており、これらはCS/BSデジタルチューナー（内蔵機器を含む）とアンテナを設置すれば申込み不要で無料視聴できるが、無料放送されない番組やチャンネルも一部ある（[AT-Xで対象年齢の制限があるアニメなど](../Page/アニメシアターX.md "wikilink")）。
     なお、ケーブルテレビでは後述の[パススルー配信を実施するケーブルテレビ局に挙げた局以外でも](https://ja.wikipedia.org/wiki/#パススルー配信を実施しているケーブルテレビ局 "wikilink")[パススルー](https://ja.wikipedia.org/wiki/パススルー "wikilink")を採用している局によっては、一部のチャンネルでそれを受信できる場合があるが、ほとんどはCSからの再配信となるケースも多いため、無料放送中であっても視聴できないチャンネルがある。
   - 無料番組
@@ -76,11 +76,11 @@
 
 ## チャンネル一覧
 
-2020年3月現在\[15\]。
+2020年4月現在\[15\]。
 
 ### ハイビジョン放送・4K放送
 
-例外はあるものの現在はBS放送は16スロット（4K放送は40スロット）、CS放送は12スロット（4K放送は60スロット）で放送している。4K含めたBS放送の[リモコンキーID](../Page/リモコンキーID.md "wikilink")は、WOWOW、同じ[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")系列のスターチャンネル1（ハイビジョン）とザ・シネマ4K（4K）にしか指定されていない。
+例外はあるものの現在はBS放送は16スロット（4K放送は40スロット）、CS放送は12スロット（4K放送は60スロット）で放送している。4K含めたBS放送の[リモコンキーID](../Page/リモコンキーID.md "wikilink")は、[WOWOW](../Page/WOWOW.md "wikilink")、同じ[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")系列の[スターチャンネル1](../Page/スター・チャンネル.md "wikilink")（ハイビジョン）と[ザ・シネマ](../Page/ザ・シネマ.md "wikilink")4K（4K）にしか指定されていない。
 
 <table>
 <thead>
@@ -99,7 +99,7 @@
 <td><p>BSデジタル</p></td>
 <td><p>191<br />
 （ID：9）</p></td>
-<td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW プライム</a></p></td>
+<td><p>WOWOW プライム</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/12月1日.md" title="wikilink">12月1日</a></p></td>
 <td><p>2019年10月25日より、スカパー!での販売を開始<br />
 各24スロット×3ch＝合計72スロット</p></td>
@@ -121,7 +121,7 @@
 <tr class="even">
 <td><p>200<br />
 （ID：10）</p></td>
-<td><p><a href="../Page/スター・チャンネル.md" title="wikilink">スターチャンネル1</a></p></td>
+<td><p>スターチャンネル1</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月1日.md" title="wikilink">9月1日</a>[16]</p></td>
 <td><p>旧・スター・チャンネル ハイビジョン（HV）<br />
 当初からのスカパー!のチャンネルで唯一のリモコンキーID指定<br />
@@ -157,140 +157,132 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>238</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエスFOX" title="wikilink">FOXスポーツ&amp;エンターテイメント</a></p></td>
-<td><p>旧・FOX bs238<br />
-<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a>をもって放送終了予定</p></td>
+<td><p>241</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BSスカパー!" title="wikilink">BSスカパー!</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>241</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BSスカパー!" title="wikilink">BSスカパー!</a></p></td>
-<td><p> </p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>242</p></td>
 <td><p><a href="../Page/J_SPORTS.md" title="wikilink">J SPORTS 1</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>243</p></td>
 <td><p>J SPORTS 2</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>244</p></td>
 <td><p>J SPORTS 3</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>245</p></td>
 <td><p>J SPORTS 4</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月1日.md" title="wikilink">7月1日</a>[17]</p></td>
 <td><p>旧・J sports Plus（ハイビジョン）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>251</p></td>
 <td><p><a href="../Page/釣りビジョン.md" title="wikilink">BS釣りビジョン</a></p></td>
 <td><p>2012年3月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>252</p></td>
 <td><p><a href="../Page/シネフィルWOWOW.md" title="wikilink">シネフィルWOWOW</a></p></td>
 <td><p>旧・洋画★シネフィル・イマジカ → イマジカ BS・映画</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>255</p></td>
 <td><p><a href="../Page/日本映画専門チャンネル.md" title="wikilink">日本映画専門チャンネル</a></p></td>
 <td><p>2007年9月1日[18]</p></td>
 <td><p>旧・日本映画専門チャンネルHD</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>CS1ネットワーク</p></td>
 <td><p>055</p></td>
 <td><p><a href="../Page/ショップチャンネル.md" title="wikilink">ショップチャンネル</a></p></td>
 <td><p>2007年<a href="../Page/4月1日.md" title="wikilink">4月1日</a>[19]</p></td>
 <td><p> </p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>218</p></td>
 <td><p><a href="../Page/東映チャンネル.md" title="wikilink">東映チャンネル</a></p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>219</p></td>
 <td><p><a href="../Page/衛星劇場.md" title="wikilink">衛星劇場</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>296</p></td>
 <td><p><a href="../Page/TBSチャンネル.md" title="wikilink">TBSチャンネル 最新ドラマ・音楽・映画</a>1</p></td>
 <td><p>2012年7月1日</p></td>
 <td><p>旧・TBSチャンネルHD</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>298</p></td>
 <td><p><a href="../Page/テレ朝チャンネル.md" title="wikilink">テレ朝チャンネル ドラマ・バラエティ・アニメ</a>1</p></td>
 <td><p>旧・テレ朝チャンネルHD</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>299</p></td>
 <td><p>テレ朝チャンネル2 ニュース・情報・スポーツ</p></td>
 <td><p>旧・<a href="../Page/朝日ニュースター.md" title="wikilink">朝日ニュースター</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>317</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KBSワールド" title="wikilink">KBS World</a></p></td>
 <td><p>2018年10月1日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>318</p></td>
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>339</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディズニージュニア" title="wikilink">ディズニージュニア</a></p></td>
 <td><p>2018年<a href="../Page/8月28日.md" title="wikilink">8月28日</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>349</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日テレNEWS24" title="wikilink">日テレNEWS24</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>800</p></td>
 <td><p><a href="../Page/スポーツライブ+.md" title="wikilink">スポーツライブ+</a>[20]</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月9日.md" title="wikilink">5月9日</a></p></td>
@@ -298,112 +290,112 @@
 2020年2月29日までは<a href="https://ja.wikipedia.org/wiki/スカサカ!" title="wikilink">スカサカ!</a>の名称であった</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>801</p></td>
 <td><p><a href="../Page/スカチャン.md" title="wikilink">スカチャン</a>1[21]</p></td>
 <td><p>2010年9月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>CS2ネットワーク</p></td>
 <td><p>161</p></td>
 <td><p><a href="../Page/QVC.md" title="wikilink">QVC</a>（キューヴィーシー）</p></td>
 <td><p>2018年<a href="../Page/9月26日.md" title="wikilink">9月26日</a></p></td>
 <td><p>受信テスト指定チャンネル</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>223</p></td>
 <td><p><a href="../Page/チャンネルNECO.md" title="wikilink">映画・チャンネルNECO</a></p></td>
 <td><p>2018年8月28日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>227</p></td>
-<td><p><a href="../Page/ザ・シネマ.md" title="wikilink">ザ・シネマ</a></p></td>
+<td><p>ザ・シネマ</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>240</p></td>
 <td><p><a href="../Page/ムービープラス.md" title="wikilink">ムービープラス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>250</p></td>
 <td><p><a href="../Page/スカイ・エー.md" title="wikilink">スカイA</a></p></td>
 <td><p>2012年12月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>254</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GAORA" title="wikilink">GAORA SPORTS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>257</p></td>
 <td><p><a href="../Page/日テレジータス.md" title="wikilink">日テレジータス</a></p></td>
 <td><p>2010年3月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>262</p></td>
 <td><p><a href="../Page/ゴルフネットワーク.md" title="wikilink">ゴルフネットワーク</a></p></td>
 <td><p>2010年<a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>290</p></td>
 <td><p><a href="../Page/TAKARAZUKA_SKY_STAGE.md" title="wikilink">TAKARAZUKA SKY STAGE</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td><p>スカパー!のみの放送[22]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>292</p></td>
 <td><p><a href="../Page/時代劇専門チャンネル.md" title="wikilink">時代劇専門チャンネル</a></p></td>
 <td><p>2012年7月1日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>293</p></td>
 <td><p><a href="../Page/ファミリー劇場.md" title="wikilink">ファミリー劇場</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>295</p></td>
 <td><p><a href="../Page/MONDO_TV.md" title="wikilink">MONDO TV</a></p></td>
 <td><p>2018年8月28日</p></td>
 <td><p><a href="../Page/旅チャンネル.md" title="wikilink">旅チャンネル</a>と入れ替わる形で開始[23]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>297</p></td>
 <td><p>TBSチャンネル2 名作ドラマ・スポーツ・アニメ</p></td>
 <td><p>2018年9月26日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>300</p></td>
 <td><p><a href="../Page/日テレプラス_ドラマ・アニメ・音楽ライブ.md" title="wikilink">日テレプラス ドラマ・アニメ・音楽ライブ</a></p></td>
 <td><p>2018年8月28日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>301</p></td>
 <td><p><a href="../Page/エンタメ〜テレ☆シネドラバラエティ.md" title="wikilink">エンタメ〜テレ☆シネドラバラエティ</a></p></td>
 <td><p>2018年10月1日</p></td>
@@ -411,112 +403,112 @@
 現在の運営事業者・名古屋テレビネクストとしては新規</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>305</p></td>
 <td><p><a href="../Page/チャンネル銀河.md" title="wikilink">チャンネル銀河 歴史ドラマ・サスペンス・日本のうた</a></p></td>
 <td><p>2018年8月28日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>307</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビONE" title="wikilink">フジテレビONE スポーツ・バラエティ</a></p></td>
 <td><p>2012年<a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>308</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビTWO" title="wikilink">フジテレビTWO ドラマ・アニメ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>309</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビNEXT" title="wikilink">フジテレビNEXT ライブ･プレミアム</a></p></td>
 <td><p>2008年4月1日</p></td>
 <td><p>旧・フジテレビCSHD</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>310</p></td>
 <td><p><a href="../Page/スーパー!ドラマTV.md" title="wikilink">スーパー!ドラマTV</a></p></td>
 <td><p>2012年7月1日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>312</p></td>
 <td><p><a href="../Page/FOXチャンネル.md" title="wikilink">FOX</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>314</p></td>
 <td><p><a href="../Page/LaLa_TV.md" title="wikilink">女性チャンネル♪LaLa TV</a></p></td>
 <td><p>2008年<a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p>旧・LaLa HD</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>322</p></td>
 <td><p><a href="../Page/スペースシャワーTV.md" title="wikilink">音楽・ライブ! スペースシャワーTV</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>323</p></td>
 <td><p><a href="../Page/MTVジャパン.md" title="wikilink">MTV</a></p></td>
 <td><p>2012年12月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>325</p></td>
 <td><p><a href="../Page/MUSIC_ON!_TV.md" title="wikilink">MUSIC ON! TV（エムオン!）</a></p></td>
 <td><p>2012年9月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>330</p></td>
 <td><p><a href="../Page/キッズステーション.md" title="wikilink">キッズステーション テレビアニメ・劇場版・OVA</a></p></td>
 <td><p>2010年4月1日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>333</p></td>
 <td><p><a href="../Page/アニメシアターX.md" title="wikilink">アニメシアターX</a>（AT-X）</p></td>
 <td><p>2018年9月26日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>342</p></td>
 <td><p><a href="../Page/ヒストリーチャンネル.md" title="wikilink">ヒストリーチャンネル 日本・世界の歴史&amp;エンタメ</a></p></td>
 <td><p>2018年8月28日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>343</p></td>
 <td><p><a href="../Page/ナショナルジオグラフィック_(テレビチャンネル).md" title="wikilink">ナショナル ジオグラフィック 未知の自然・宇宙・歴史</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>351</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TBS_NEWS_(CS放送)" title="wikilink">TBS NEWS</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td><p>旧・TBSニュースバード</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ネットワーク</p></td>
 <td><p>チャンネル<br />
 番号</p></td>
@@ -524,7 +516,7 @@
 <td><p>4K放送開始日</p></td>
 <td><p>備考</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BS4K放送</p></td>
 <td><p>4K 203<br />
 （ID：10）</p></td>
@@ -533,56 +525,56 @@
 <td><p>BS左旋<br />
 当初からのスカパー!の4Kチャンネルで唯一のリモコンキーID指定</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>CS4K放送</p></td>
 <td><p>821</p></td>
 <td><p>J SPORTS 1（4K）</p></td>
 <td><p>CS左旋</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>822</p></td>
 <td><p>J SPORTS 2（4K）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>823</p></td>
 <td><p>J SPORTS 3（4K）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>824</p></td>
 <td><p>J SPORTS 4（4K）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>880</p></td>
 <td><p>日本映画＋時代劇 4K</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>881</p></td>
 <td><p>スターチャンネル4K</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>882</p></td>
 <td><p>スカチャン1 4K</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>883</p></td>
 <td><p>スカチャン2 4K</p></td>
 <td></td>
@@ -832,11 +824,14 @@
   - [グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")（旧・競馬・農林水産情報衛星通信機構）
   - [ジェイ・スポーツ](../Page/J_SPORTS.md "wikilink")（旧・ジェイ・スポーツ・ブロードキャスティング）
   - スカパー・エンターテイメント
-  - [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")
+  - スター・チャンネル
   - [釣りビジョン](../Page/釣りビジョン.md "wikilink")
   - 日本映画放送
-  - [ビーエスFOX](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")
   - [ブロードキャスト・サテライト・ディズニー](https://ja.wikipedia.org/wiki/ブロードキャスト・サテライト・ディズニー "wikilink")\[28\]
+
+#### 放送終了
+
+  - [ビーエスFOX](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")
 
 ## プレミアムサービス（旧・スカパー\!HD）との相違点
 

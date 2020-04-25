@@ -38,6 +38,6 @@ PowerPC G5 ([PowerPC 970](../Page/PowerPC_970.md "wikilink")) で初めて採用
   - [Freescale's AltiVec](http://www.freescale.com/webapp/sps/site/overview.jsp?nodeId=0162468rH3bTdGmKqW5Nf2)
   - [Apple's Velocity Engine](http://developer.apple.com/hardware/ve/)
 
-[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink")
+[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:Cell_BEアーキテクチャ](https://ja.wikipedia.org/wiki/Category:Cell_BEアーキテクチャ "wikilink")
 
 1.  [Instruction Level Differences Between G4 and G5](http://developer.apple.com/hardwaredrivers/ve/g5.html#differences)

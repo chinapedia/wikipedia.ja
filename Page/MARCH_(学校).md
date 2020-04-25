@@ -17,7 +17,7 @@
 
 [学生スポーツ](../Page/学生スポーツ.md "wikilink")では[関東大学リーグ](../Page/関東大学リーグ.md "wikilink")に加盟している。[バスケットボール](../Page/バスケットボール.md "wikilink")では[関東大学バスケットボール連盟](../Page/関東大学バスケットボール連盟.md "wikilink")、[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")では[関東学生アメリカンフットボール連盟](../Page/関東学生アメリカンフットボール連盟.md "wikilink")に加盟しているが、[硬式野球](https://ja.wikipedia.org/wiki/硬式野球 "wikilink")では明治大・立教大・法政大は[東京六大学野球連盟](../Page/東京六大学野球連盟.md "wikilink")、中央大・青学大は[東都大学野球連盟](../Page/東都大学野球連盟.md "wikilink")にそれぞれ加盟しているなど、同じリーグではないスポーツもある。また「MARCH」のみを対象とした[カンファレンスは存在しない](../Page/カンファレンス_\(カレッジスポーツ\).md "wikilink")。
 
-[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の大学群では、[早慶](../Page/早慶.md "wikilink")に次ぐ難易度に位置している\[3\]。また、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")の大学群である[関関同立](../Page/関関同立.md "wikilink")とも、難易度が近いことから（関西には早慶に近似した私大が無いという違いはあるものの）対比して語られることも一般的である\[4\]。
+[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の私立大学群では、[早慶](../Page/早慶.md "wikilink")に次ぐ難易度に位置している\[3\]。また、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")の大学群である[関関同立](../Page/関関同立.md "wikilink")とも、難易度が近いことから（関西には早慶に近似した私大が無いという違いはあるものの）対比して語られることも一般的である\[4\]。
 
 ## 歴史
 

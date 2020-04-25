@@ -68,9 +68,11 @@ CISCは引き続きCMOS半導体の集積度の向上に伴って、単一CPUの
   - [Z8000](../Page/Z8000.md "wikilink")
   - [TRONCHIP](../Page/TRONCHIP.md "wikilink")
 
-## 注釈
+## 脚注
 
-## 出典
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -86,7 +88,7 @@ CISCは引き続きCMOS半導体の集積度の向上に伴って、単一CPUの
   - [コンピュータアーキテクチャの話・CISCアーキテクチャとRISCアーキテクチャ - マイコミジャーナル](https://news.mynavi.jp/column/architecture/120/index.html)
   - [頭脳放談・第27回 RISCの敗因、CISCの勝因 - @IT](http://www.atmarkit.co.jp/fsys/zunouhoudan/027zunou/end_of_risc.html)
 
-[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:レトロニム](https://ja.wikipedia.org/wiki/Category:レトロニム "wikilink")
+[Category:CPU](https://ja.wikipedia.org/wiki/Category:CPU "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink") [Category:レトロニム](https://ja.wikipedia.org/wiki/Category:レトロニム "wikilink")
 
 1.  RISCに分類されることが多いが、可変長の命令、バンク切り替えなどCISC風の特徴を持つ。
 2.  フェッチしたコードにつき、全てのワードやバイトごとにそれぞれ命令の先頭であるとみなしてデコードをすすめ、その中から有効なデコード結果の組み合わせを選択するという方式が1995年頃に確立したことから、回路規模を大きくするデメリットがあるものの可変命令長であっても1クロックサイクルで複数の命令をデコードできる。近年のプロセッサは5命令から20命令を一度にデコードできる。

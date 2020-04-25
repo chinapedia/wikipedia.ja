@@ -1,7 +1,7 @@
 > この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
 
 
-**ABC**（エービーシー）とは、[ラテン文字](../Page/ラテン文字.md "wikilink")[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の最初の3文字。物事を習得する際の初歩。アルファベットの最初の3文字であることから転じている。日本語における「[いろは](../Page/いろは.md "wikilink")」の比喩的表現と同様である。
+**ABC**（エービーシー）は、[ラテン文字](../Page/ラテン文字.md "wikilink")[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の最初の3文字。物事を習得する際の初歩。アルファベットの最初の3文字であることから転じている。日本語における「[いろは](../Page/いろは.md "wikilink")」の比喩的表現と同様である。
 
 ## 企業・法人
 
@@ -103,7 +103,7 @@
   - ABC兵器 - [大量破壊兵器](../Page/大量破壊兵器.md "wikilink")であることから[規制の対象または規制が討議されている](../Page/規制が議論されている兵器.md "wikilink")、[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink") (Atomic weapon)、[生物兵器](../Page/生物兵器.md "wikilink") (Biological weapon)、[化学兵器](../Page/化学兵器.md "wikilink") (Chemical weapon) 3兵器のかつての総称。ただし現在はNBC兵器という。
   - ABC消火器 - [消防法](../Page/消防法.md "wikilink")に定められた火災区分のうち A（普通火災）、B（油火災）、C（電気火災）のいずれにも対応した[消火器](../Page/消火器.md "wikilink")であることを示す名称。
   - 平成ABCトリオ - 平成初期に発売された二人乗りの軽自動車[マツダ・AZ-1](../Page/マツダ・オートザムAZ-1.md "wikilink")、[ホンダ・ビート](https://ja.wikipedia.org/wiki/ホンダ・ビート_\(自動車\) "wikilink")、[スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink")の3車種の総称（俗称）。
-  - [ABC諸島](../Page/ABC諸島.md "wikilink") - ベネズエラ沖のオランダ領[アルーバ](../Page/アルバ.md "wikilink") (Aruba)、[ボネール](https://ja.wikipedia.org/wiki/ボネール "wikilink") (Bonaire)、[キュラソー](../Page/キュラソー.md "wikilink") (Curaçao) 3島の総称。
+  - [ABC諸島](../Page/ABC諸島.md "wikilink") - ベネズエラ沖のオランダ領[アルバ](../Page/アルバ.md "wikilink") (Aruba)、[ボネール](https://ja.wikipedia.org/wiki/ボネール "wikilink") (Bonaire)、[キュラソー](../Page/キュラソー_\(オランダ王国\).md "wikilink") (Curaçao) 3島の総称。
   - [ABC強国](https://ja.wikipedia.org/wiki/ABC強国 "wikilink") - [アルゼンチン](../Page/アルゼンチン.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")、[チリ](../Page/チリ.md "wikilink")3国の総称。
   - [ABC地域](https://ja.wikipedia.org/wiki/ABC地域 "wikilink") - ブラジルの[サントアンドレー](https://ja.wikipedia.org/wiki/サントアンドレー "wikilink")、[サンベルナルド・ド・カンポ](https://ja.wikipedia.org/wiki/サンベルナルド・ド・カンポ "wikilink")、[サンカエターノ・ド・スル](https://ja.wikipedia.org/wiki/サンカエターノ・ド・スル "wikilink")3地域の総称。
 

@@ -339,8 +339,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース" title="wikilink">プライムニュース SUPER</a></p></td>
-<td><p>土曜 21:00 - 21:55</p></td>
-<td></td>
+<td><p>土曜 22:00 - 22:55</p></td>
+<td><p>フジテレビ報道局制作 2020年3月28日までは土曜 21:00 - 21:55で放送していた。</p></td>
 </tr>
 </tbody>
 </table>
@@ -385,19 +385,19 @@
 </tr>
 <tr class="odd">
 <td><p>ドラマ</p></td>
-<td><p>〈フジテレビドラマ再放送〉BOSS 2ndシーズン</p></td>
+<td><p>〈フジテレビドラマ再放送〉明日の約束</p></td>
 <td><p>月曜 - 金曜 10:00 - 10:57</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>猪又進と8人の喪女～私の初めてもらってください～</p></td>
-<td><p>月曜 23:00 - 23:30</p></td>
+<td><p>時空探偵おゆう　大江戸科学捜査</p></td>
+<td><p>土曜 24:30 - 25:00</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/時代劇.md" title="wikilink">時代劇</a></p></td>
-<td><p>〈時代劇名作選〉新・江戸の旋風</p></td>
+<td><p>〈時代劇名作選〉江戸の用心棒</p></td>
 <td><p>月曜 - 金曜 8:55 - 10:00</p></td>
 <td></td>
 </tr>
@@ -413,7 +413,7 @@
 </tr>
 <tr class="odd">
 <td><p>韓国ドラマ</p></td>
-<td><p>〈韓ドラ〉彼女はキレイだった</p></td>
+<td><p>〈韓ドラ〉SKYキャッスル〜上流階級の妻たち〜</p></td>
 <td><p>月曜 - 金曜 14:59 - 16:00</p></td>
 <td></td>
 </tr>
@@ -442,22 +442,22 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボートレース" title="wikilink">ボートレース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BOAT_RACEライブ_〜勝利へのターン〜" title="wikilink">BOAT RACEライブ 〜勝利へのターン〜</a></p></td>
-<td><p>毎週日曜 16:00 - 16:56</p></td>
-<td><p>BOAT RACE 提供<br />
-<a href="../Page/島崎和歌子.md" title="wikilink">島崎和歌子</a>・<a href="../Page/堂前英男.md" title="wikilink">堂前英男</a>司会／秋山基裕 ナビゲーター兼解説</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BOAT_RACEライブ_〜勝利へのターン〜" title="wikilink">BOAT RACEプレミア ハートビートボート</a></p></td>
+<td><p>日曜 16:00 - 16:56</p></td>
+<td><p>BOAT RACE 提供 <a href="../Page/島崎和歌子.md" title="wikilink">島崎和歌子</a>・<a href="../Page/堂前英男.md" title="wikilink">堂前英男</a>司会／秋山基裕 ナビゲーター兼解説</p>
+<p>2020年4月05日より「BOAT RACEライブ 〜勝利へのターン〜」より改題し番組リニューアル。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/サッカー" title="wikilink">サッカー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/なでしこリーグマンスリーダイジェスト" title="wikilink">なでしこリーグマンスリーダイジェスト</a></p></td>
-<td><p>毎月第4土曜 10:00 - 11:00</p></td>
-<td><p>なでしこリーグシーズン中に放送。</p></td>
+<td><p>BOAT RACEライブ</p></td>
+<td><p>不定期</p></td>
+<td><p>BOAT RACE 提供</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/サッカー" title="wikilink">サッカー</a></p></td>
 <td><p><a href="../Page/日本女子サッカーリーグ.md" title="wikilink">なでしこリーグ中継</a></p></td>
 <td><p>不定期</p></td>
 <td><p>毎節1試合程度放送。原則生中継だが、一部の試合は録画中継。</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/野球.md" title="wikilink">野球</a></p></td>
@@ -589,8 +589,8 @@
 <tr class="even">
 <td><p>その他</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/JUDO" title="wikilink">JUDO</a></p></td>
-<td><p>土曜 8:30 - 8:55</p></td>
-<td><p>隔週新作</p></td>
+<td><p>土曜 17:30 - 17:55</p></td>
+<td><p>隔週新作 2020年3月28日までは土曜 18:30 - 18:55で放送していた。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フィギュアスケートTV!" title="wikilink">フィギュアスケートTV!</a></p></td>
@@ -712,8 +712,8 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/中川家&amp;コント" title="wikilink">中川家&amp;コント</a></p></td>
-<td><p>月曜 23:30 - 23:55</p></td>
-<td></td>
+<td><p>火曜 23:00 - 23:30</p></td>
+<td><p>2020年3月24日までは月曜 23:00 - 23:55で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BSいきものがかり" title="wikilink">BSいきものがかり</a></p></td>
@@ -721,50 +721,50 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td><p>2019年4月2日スタート</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/冗談騎士" title="wikilink">冗談騎士</a></p></td>
-<td><p>水曜 23:00 - 23:30</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビニールハウス_〜恋愛促成栽培〜" title="wikilink">ビニールハウス 〜恋愛促成栽培〜</a></p></td>
 <td><p>水曜 23:30 - 23:55</p></td>
 <td><p>2019年4月3日スタート</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/テリー伊藤の今夜も傾奇流" title="wikilink">テリー伊藤の今夜も傾奇流</a>!</p></td>
 <td><p>月1回水曜 24:30 - 25:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>橋本マナミの東京はいすぺ女子図鑑</p></td>
 <td><p>木曜 23:00 - 23:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>&lt;木曜☆ラボ&gt;ＳＴＵ発⇒東京</p></td>
+<tr class="even">
+<td><p>ＳＴＵ発⇒東京</p></td>
 <td><p>木曜 23:30 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>&lt;木曜☆ラボ&gt;DJ OSSHY DISCO TV</p></td>
+<tr class="odd">
+<td><p>DJ OSSHY DISCO TV</p></td>
 <td><p>第3木曜 23:30 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>タイプライターズ～物書きの世界～</p></td>
 <td><p>最終金曜 23:00 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ギルドフレンズ～世界へ？本気です！～</p></td>
 <td><p>第3金曜 24:00 - 23:55</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><BSフジ歌の時間></p></td>
+<td><p>土曜 19:00 - 20:55</p></td>
+<td></td>
+</tr>
 <tr class="odd">
-<td><p>&lt;土曜+1&gt;モノノコエ</p></td>
-<td><p>土曜 22:00 - 22:55</p></td>
-<td><p>土曜+1枠は月毎に番組が変わり、基本全2回の番組構成となる。<br />
-（第3第4土曜は再放送）</p></td>
+<td><p>&lt;土曜+1&gt;次課・長州の力旅</p></td>
+<td><p>土曜 18:00 - 18:55</p></td>
+<td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2回の番組構成となる。<br />
+（第3第4土曜は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/小山薫堂.md" title="wikilink">小山薫堂 東京会議</a></p></td>
@@ -793,11 +793,16 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/冗談騎士" title="wikilink">冗談騎士</a></p></td>
+<td><p>不定期</p></td>
+<td><p>2020年3月25日までは水曜 23:00 - 23:30で放送していたが、スペシャル番組化に伴い不定期放送に変更。</p></td>
+</tr>
+<tr class="even">
 <td><p>もしもで考える…なるほど!なっとく塾</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/四神将棋" title="wikilink">四神将棋</a></p></td>
 <td><p>不定期</p></td>
 <td><p>2016年12月27日から不定期に放送</p></td>
@@ -834,16 +839,14 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 
 ### ドキュメンタリー・情報
 
-| 番組名                                                                                                           | 放送日時             | 備考             |
-| ------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
-| [ガリレオX](https://ja.wikipedia.org/wiki/ガリレオX "wikilink")                                                       | 日曜 11:30 - 12:00 | ※隔週新作          |
-| [FNSドキュメンタリー大賞](../Page/FNSドキュメンタリー大賞.md "wikilink")                                                          | 日曜 27:00 - 27:55 | FNS各局制作        |
-| \<木曜☆ラボ\>ウイスキペディア                                                                                             | 木曜 23:30 - 23:55 |                |
-| ESPRIT JAPON                                                                                                  | 金曜 24:00 - 24:30 |                |
-| お伊勢参り                                                                                                         | 土曜 12:00- 12:55  | ※4K制作番組        |
-| [パレ・ド・Z 〜おいしさの未来〜](https://ja.wikipedia.org/wiki/パレ・ド・Z_〜おいしさの未来〜 "wikilink")                                 | 土曜 17:30 - 18:00 | 2018年10月6日スタート |
-| [この国の行く末2 ～テクノロジーの進化とオープンイノベーション～](https://ja.wikipedia.org/wiki/この国の行く末2_～テクノロジーの進化とオープンイノベーション～ "wikilink") | 土曜 18:00 - 18:30 |                |
-| The GAME ～震えた日～                                                                                               | 不定期              |                |
+| 番組名                                                     | 放送日時             | 備考            |
+| ------------------------------------------------------- | ---------------- | ------------- |
+| [ガリレオX](https://ja.wikipedia.org/wiki/ガリレオX "wikilink") | 日曜 11:30 - 12:00 | ※隔週新作         |
+| [FNSドキュメンタリー大賞](../Page/FNSドキュメンタリー大賞.md "wikilink")    | 日曜 27:00 - 27:55 | FNS各局制作       |
+| ウイスキペディア                                                | 木曜 23:30 - 23:55 |               |
+| ESPRIT JAPON                                            | 金曜 24:00 - 24:30 |               |
+| CROSSOVER ～こころを動かすスポーツ～                                 | 土曜 21:00 - 21:55 | 2020年4月4日スタート |
+| The GAME ～震えた日～                                         | 不定期              |               |
 
 ### ミニ番組
 
@@ -1120,6 +1123,9 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - 日本遺産物語〜時を紡ぐ旅〜
   - [鉄道伝説](https://ja.wikipedia.org/wiki/鉄道伝説 "wikilink")
   - [一滴の向こう側](https://ja.wikipedia.org/wiki/一滴の向こう側 "wikilink")
+  - [パレ・ド・Z 〜おいしさの未来〜](https://ja.wikipedia.org/wiki/パレ・ド・Z_〜おいしさの未来〜 "wikilink")
+  - [この国の行く末2 ～テクノロジーの進化とオープンイノベーション～](https://ja.wikipedia.org/wiki/この国の行く末2_～テクノロジーの進化とオープンイノベーション～ "wikilink")
+  - お伊勢参り
 
 ### 音楽（過去）
 
@@ -1347,7 +1353,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 
 <!-- end list -->
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [料理の鉄人](../Page/料理の鉄人.md "wikilink")（※2本立て）
   - [Iron Chef America](https://ja.wikipedia.org/wiki/Iron_Chef_America "wikilink") 料理の鉄人USA版
   - [僕らの音楽2](https://ja.wikipedia.org/wiki/僕らの音楽_-OUR_MUSIC- "wikilink")

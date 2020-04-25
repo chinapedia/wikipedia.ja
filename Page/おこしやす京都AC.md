@@ -485,27 +485,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>17</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村井宏起" title="wikilink">村井宏起</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Cento_Cuore_HARIMA" title="wikilink">バンディオンセ加古川</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/本吉トニー令欧" title="wikilink">本吉トニー令欧</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東海大学体育会サッカー部" title="wikilink">東海大学</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小久保裕也" title="wikilink">小久保裕也</a></p></td>
 <td><p>大阪産業大学</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -674,9 +667,10 @@
 </tr>
 <tr class="even">
 <td><p>背中上部</p></td>
-<td><p>なし</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>千曲産業</p></td>
+<td><p>CHIKUMA<br />
+</p></td>
+<td><p>2020年 -</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -774,7 +768,8 @@ Trust</a></p></td>
 <tr class="even">
 <td><p>2020</p></td>
 <td><p><a href="http://meisei-corp.com/">MEISEI</a></p></td>
-<td><p>-</p></td>
+<td><p>CHIKUMA<br />
+</p></td>
 <td><p>-</p></td>
 <td><p><a href="http://bonera.jp/">bonera</a></p></td>
 <td></td>

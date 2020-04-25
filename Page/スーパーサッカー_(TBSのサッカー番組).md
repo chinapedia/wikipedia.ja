@@ -321,13 +321,21 @@
 
 ## ネット局
 
-・TBSテレビ(制作局)
-・TBC東北放送
-・UTYテレビ山梨
-・SBC信越放送
-・SBS静岡放送
-・RCC中国放送
-・OBS大分放送
+  -
+    2020年4月現在
+
+| 放送対象地域                                              | 放送局                                                        | 系列                                              | 放送日時                 | ネット状況   |
+| --------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------- | -------------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）                | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 月曜 0:50 - 1:20（日曜深夜） | **制作局** |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")（TBC）                    | 同時ネット                                           |                      |         |
+| [山梨県](../Page/山梨県.md "wikilink")                    | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                  |                                                 |                      |         |
+| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC） |                                                 |                      |         |
+| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS） |                                                 |                      |         |
+| [広島県](../Page/広島県.md "wikilink")                    | [中国放送](../Page/中国放送.md "wikilink")（RCC）                    |                                                 |                      |         |
+| [大分県](../Page/大分県.md "wikilink")                    | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS） |                                                 |                      |         |
+|                                                     |                                                            |                                                 |                      |         |
+
+『スーパーサッカー』 ネット局
 
 ## 沿革
 

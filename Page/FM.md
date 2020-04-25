@@ -9,6 +9,7 @@
   - [ミクロネシア連邦](../Page/ミクロネシア連邦.md "wikilink")の[国名コード](../Page/国名コード.md "wikilink")。
   - [ファシリティマネジメント](../Page/ファシリティマネジメント.md "wikilink")（*Facility Management*）の略。
       - エフエム・スタッフ - [イトーキ](../Page/イトーキ.md "wikilink")系のファシリティマネジメント関連のコンサルティング業務を中心としたコンサルタント会社。社名にある**FM（エフエム）**はその略。
+      - FMセンター - [竹中工務店](../Page/竹中工務店.md "wikilink")の部署「ファシリティマネジメントセンター」の略。エフエム東京の本社があるビルとは無関係。
   - [富士通](../Page/富士通.md "wikilink")の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")。*Fujitsu Micro computer*の略。[富士通\#パーソナルコンピュータ](https://ja.wikipedia.org/wiki/富士通#パーソナルコンピュータ "wikilink")参照。
   - [上海航空](../Page/上海航空.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
   - [ニコン](../Page/ニコン.md "wikilink")製[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。[ニコンFMシリーズを参照](https://ja.wikipedia.org/wiki/ニコンの銀塩一眼レフカメラ製品一覧#ニコンFMシリーズ "wikilink")。

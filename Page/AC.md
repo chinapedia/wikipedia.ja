@@ -26,7 +26,7 @@
   - [アーマークラス](https://ja.wikipedia.org/wiki/アーマークラス "wikilink") (Armor class) - [ダンジョンズ&ドラゴンズ](../Page/ダンジョンズ&ドラゴンズ.md "wikilink")などの[RPGの用語](../Page/ロールプレイングゲーム.md "wikilink")
   - [アデニル酸シクラーゼ](../Page/アデニル酸シクラーゼ.md "wikilink") (adenylate cyclase)
   - [選択公理](../Page/選択公理.md "wikilink") (axiom of choice)
-  - AC (Adepted Child) -[エゴグラム](https://ja.wikipedia.org/wiki/エゴグラム "wikilink")における5つの自我状態のうちの一つ
+  - AC (Adapted Child) -[エゴグラム](https://ja.wikipedia.org/wiki/エゴグラム "wikilink")における5つの自我状態のうちの一つ
   - [平均費用](../Page/費用.md "wikilink") (average cost)
   - AC (Also Competed) - スポーツで「順位不明」「順位なし」を意味する略語
   - [オーディオコメンタリー](../Page/オーディオコメンタリー.md "wikilink") (Audio Commentary) - 音声による注釈。AC版とは音声注釈のオーディオトラックを含むビデオのこと

@@ -392,7 +392,7 @@
   - [東急ジルベスターコンサート](../Page/東急ジルベスターコンサート.md "wikilink")
   - [渋谷・コクーン歌舞伎](https://ja.wikipedia.org/wiki/渋谷・コクーン歌舞伎 "wikilink")
   - [Bunkamuraドゥマゴ文学賞](../Page/Bunkamuraドゥマゴ文学賞.md "wikilink")
-  - [東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")
+  - [東京国際映画祭](../Page/東京国際映画祭.md "wikilink")
   - [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の「[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")」 — 1989年から2004年まで13回開催後、[青山劇場](../Page/青山劇場.md "wikilink")、[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")にて開催。
   - [徹子の部屋コンサート](https://ja.wikipedia.org/wiki/徹子の部屋#徹子の部屋コンサート "wikilink") — 第1回（2006年）・第2回（2007年）が開催された。
 
@@ -400,7 +400,7 @@
 
   - [東京フィルハーモニー交響楽団](../Page/東京フィルハーモニー交響楽団.md "wikilink")（オーチャードホール）
       - 日本で初めてフランチャイズ契約を結び、本拠地として年8回の定期演奏会を行っている。
-  - [K-BALLET COMPANY](http://www.k-ballet.co.jp/)（オーチャードホール）
+  - [K-BALLET COMPANY](https://www.k-ballet.co.jp/)（オーチャードホール）
       - [熊川哲也](../Page/熊川哲也.md "wikilink")が芸術監督を務める日本を代表するバレエ団。2018年11月よりフランチャイズ契約を締結。都内での公演のほとんどをオーチャードホールで開催している。
   - [オンシアター自由劇場](https://ja.wikipedia.org/wiki/オンシアター自由劇場 "wikilink")（シアターコクーン）
       - 1985年から[串田和美](../Page/串田和美.md "wikilink")がシアターコクーンの芸術監督に就任、設計段階から関わっており、1989年より「オンシアター自由劇場」としてフランチャイズ契約を結んだが、1996年2月の「オンシアター自由劇場最終記念公演」を以って、フランチャイズ劇団としての任期を満了（解散）した。

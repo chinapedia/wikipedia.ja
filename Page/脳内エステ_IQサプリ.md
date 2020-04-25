@@ -1,7 +1,7 @@
 > この記事は[脳内エステ IQサプリ](https://ja.wikipedia.org/wiki/脳内エステ_IQサプリ)から翻訳されています。
 
 
-『**脳内エステ IQサプリ**』（のうないエステ アイキューサプリ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[パズル](../Page/パズル.md "wikilink")・[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）[4月24日](../Page/4月24日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")（平成21年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")19:00-19:57([JST](../Page/日本標準時.md "wikilink"))に放送され、2013年以降は特別番組として不定期に放送。2006年1月以降は、[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")が実施された。通称は『**IQサプリ**』。
+『**脳内エステ IQサプリ**』（のうないエステ アイキューサプリ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[パズル](../Page/パズル.md "wikilink")・[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）[4月24日](../Page/4月24日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")（平成21年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")19:00-19:57([JST](../Page/日本標準時.md "wikilink"))に放送され、2013年以降は特別番組として不定期に放送。[字幕放送と](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")[ハイビジョン放送は](../Page/ハイビジョン制作.md "wikilink")、2006年1月以降より開始した。通称は『**IQサプリ**』。
 
 ## 概要
 

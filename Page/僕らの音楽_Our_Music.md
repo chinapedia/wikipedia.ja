@@ -260,7 +260,7 @@
 
 ## 関連項目
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [MUSIC FAIR](../Page/ミュージックフェア.md "wikilink")
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")
   - [FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")

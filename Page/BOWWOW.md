@@ -212,7 +212,7 @@
 | 2nd | [1999年](../Page/1999年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")                    | **ANCIENT DREAMS**         | CD | MARS-8888                          |
 | 3rd | [2000年](../Page/2000年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")                  | **Beyond**                 | CD | MARS-8890                          |
 | 4th | [2001年](../Page/2001年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")   | **ANOTHER PLACE**          | CD | MARS-8891                          |
-| 5th | [2002年](../Page/2002年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")                    | **WHAT'S GOING ON?**       | CD | MARS-8891                          |
+| 5th | [2002年](../Page/2002年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")                    | **WHAT'S GOING ON?**       | CD | MARS-8892                          |
 | 6th | [2005年](../Page/2005年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")                  | **ERA**                    | CD | MARS-8895                          |
 | 7th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月31日](../Page/5月31日.md "wikilink") | **THE BOWWOW 2 DECENNIUM** | CD | MARS-8896                          |
 
@@ -239,9 +239,9 @@
 | 2nd                                                      | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月22日](../Page/7月22日.md "wikilink") | **DON'T LEAVE ME NOW**        | Cry No More              | EP                               | WTP-17978                          |
 | 3rd                                                      | [1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")                    | **ROCK ME NOW**               | TALKING 'BOUT YOU        | EP                               | RT07-2107                          |
 | [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink") | XT10-2019                                                                                   |                               |                          |                                  |                                    |
-| 4th                                                      | [1988年](../Page/1988年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                  | **HELTER SKELTER**            | YOU'RE THE ONE FOR ME    | EP                               | RT07-2107                          |
+| 4th                                                      | [1988年](../Page/1988年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                  | **HELTER SKELTER**            | YOU'RE THE ONE FOR ME    | EP                               | RT07-2204                          |
 | 8cmCD                                                    | XT10-2204                                                                                   |                               |                          |                                  |                                    |
-| 5th                                                      | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")   | **TELL ME**                   | I'M GONNA SING THE BLUES | 8cmCD                            | RT07-2107                          |
+| 5th                                                      | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")   | **TELL ME**                   | I'M GONNA SING THE BLUES | 8cmCD                            | TODT-2477                          |
 
 #### オリジナル・アルバム
 

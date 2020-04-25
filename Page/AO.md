@@ -33,7 +33,7 @@
 
   - [.ao](../Page/.ao.md "wikilink") - アンゴラの[国別トップレベルドメイン](https://ja.wikipedia.org/wiki/国別トップレベルドメイン "wikilink")
 
-  - [AO入試](../Page/AO入試.md "wikilink") - 日本の大学入試制度。AOは本来、（入学許可事務所、特定の部署や機関の名ではない) の意。
+  - [AO入試](../Page/AO入試.md "wikilink") - 日本の大学入試制度。AOは本来、（入学許可事務所、特定の部署や機関の名ではない）の意。
 
   - \- [ナチス](https://ja.wikipedia.org/wiki/ナチス "wikilink")の海外支部を管轄する部局。
 

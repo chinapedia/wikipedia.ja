@@ -34,7 +34,7 @@
 
 #### ポリドール/Primitive Records
 
-  - [XXX](https://ja.wikipedia.org/wiki/XXX_\(FENCE_OF_DEFENSEのアルバム\) "wikilink")（1997年6月25日）
+  - [XXX](../Page/XXX_\(FENCE_OF_DEFENSEのアルバム\).md "wikilink")（1997年6月25日）
 
 #### イーストウエスト・ジャパン
 

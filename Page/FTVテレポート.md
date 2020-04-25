@@ -21,7 +21,7 @@
 
 ### その他
 
-JNN加盟時代にはJNN東北・[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")交換ニュース（当放送局と[北海道放送](../Page/北海道放送.md "wikilink")・[青森テレビ](../Page/青森テレビ.md "wikilink")・[岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")・[東北放送](../Page/東北放送.md "wikilink")）も放送していた。
+JNN加盟時代にはJNN東北・[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")交換ニュース（当放送局と[北海道放送](../Page/北海道放送.md "wikilink")・[青森テレビ](../Page/青森テレビ.md "wikilink")・[岩手放送](../Page/IBC岩手放送.md "wikilink")・[東北放送](../Page/東北放送.md "wikilink")）も放送していた。
 
 フジテレビやほとんどの系列局が「スーパータイム」のタイトルを使用していたなかで、一部のFNN系列局と同じく『FNNスーパータイム』などに統一しなかったが、『スーパータイム』が1996年10月にオープニング演出を大幅に簡略化した際は放送時間を17:59.45からに変更し、冒頭20秒間は福島テレビからニュースヘッドラインを伝え、18:00.05からフジテレビ送出の映像に切り替えた。
 

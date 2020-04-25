@@ -1,7 +1,7 @@
 > この記事は[仙台CATV](https://ja.wikipedia.org/wiki/仙台CATV)から翻訳されています。
 
 
-**仙台CATV株式会社**（せんだいシーエーティーヴィー）は、[仙台市都心部](../Page/仙台市都心部.md "wikilink")の[錦町公園の向かいに本社を構える](../Page/錦町公園_\(仙台市\).md "wikilink")[テレビ](../Page/テレビ.md "wikilink")放送、[インターネット](../Page/インターネット.md "wikilink")の他に[ホームセキュリティ業務も行う](../Page/機械警備.md "wikilink")[第三セクター](../Page/第三セクター.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。愛称は、**CAT-V**（キャット・ヴィ）。
+**仙台CATV株式会社**（せんだいシーエーティーヴィー）は、[仙台市都心部](../Page/仙台市都心部.md "wikilink")の[錦町公園の向かいに本社を構える](../Page/錦町公園_\(仙台市\).md "wikilink")[テレビ](../Page/テレビ.md "wikilink")放送、[インターネット](../Page/インターネット.md "wikilink")の他に[ホームセキュリティ業務も行う](../Page/機械警備.md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。愛称は、**CAT-V**（キャット・ヴィ）。
 
 ## 会社概要
 
@@ -13,7 +13,7 @@
 
 ### TOKAIホールディングスの連結子会社に
 
-[2020年](../Page/2020年.md "wikilink")3月31日、[TOKAIホールディングス](https://ja.wikipedia.org/wiki/TOKAIホールディングス "wikilink")傘下の[TOKAIケーブルネットワーク](https://ja.wikipedia.org/wiki/TOKAIケーブルネットワーク "wikilink")が、仙台CATVの[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")である同和興業、同和警備から6万1570株（87.9%）を取得し、[連結子会社](../Page/連結子会社.md "wikilink")化する。映像配信サービスの台頭による競争激化などで経営環境は厳しく、光ケーブルエリアの拡大に向けた資金調達法を検討する中で、譲渡を決断したと報じられている\[1\]\[2\]。
+[2020年](../Page/2020年.md "wikilink")3月31日、[TOKAIホールディングス](https://ja.wikipedia.org/wiki/TOKAIホールディングス "wikilink")傘下の[TOKAIケーブルネットワーク](https://ja.wikipedia.org/wiki/TOKAIケーブルネットワーク "wikilink")が、[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")だった同和興業、同和警備から6万1570株（87.9%）を取得した。これに伴い、仙台CATVはTOKAIホールディングスの[連結子会社](../Page/連結子会社.md "wikilink")となった。映像配信サービスの台頭による競争激化などで経営環境は厳しく、光ケーブルエリアの拡大に向けた資金調達法を検討する中で、譲渡を決断したと報じられている\[1\]\[2\]。
 
 ## サービスエリア
 
@@ -146,7 +146,6 @@
   - [アットネットホーム](https://ja.wikipedia.org/wiki/アットネットホーム "wikilink")
   - [セット トップ ボックス](../Page/セットトップボックス.md "wikilink")
   - [ホームターミナル](https://ja.wikipedia.org/wiki/ホームターミナル "wikilink")
-  - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")
   - [東京デジタルネットワーク](../Page/東京デジタルネットワーク.md "wikilink")
   - [日本ケーブルキャスセンター](../Page/日本ケーブルキャスセンター.md "wikilink")
   - [社団法人CATV技術協会](../Page/日本CATV技術協会.md "wikilink")
@@ -156,7 +155,7 @@
 
 ## 外部リンク
 
-  - [ケーブルテレビ-CAT-V ケーブルテレビ キャット・ヴィ ～仙台CATV株式会社～](http://www.cat-v.jp/tv/)
+  - [仙台CATV](https://www.cat-v.jp/index.php)
 
 [Category:宮城県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:宮城県のケーブルテレビ局 "wikilink") [Category:仙台市青葉区の企業](https://ja.wikipedia.org/wiki/Category:仙台市青葉区の企業 "wikilink") [Category:宮城県のマスメディア](https://ja.wikipedia.org/wiki/Category:宮城県のマスメディア "wikilink") [Category:1983年設立のテレビ局](https://ja.wikipedia.org/wiki/Category:1983年設立のテレビ局 "wikilink")
 

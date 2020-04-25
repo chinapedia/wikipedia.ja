@@ -15,7 +15,7 @@
 
 番組が使っている福島にあった本社Cスタジオがハイビジョンに対応していなかったため、4:3の標準画質（525i）で放送していた（テレビ朝日からの『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』放送時のみハイビジョン放送）。2008年6月23日に新本社へ移転するに併せ、ハイビジョン制作になった。また、タイトルロゴ・スタジオセット・テーマ音楽を一新。6月23日からのテーマ音楽は[MONKEY MAJIKの](../Page/MONKEY_MAJIK.md "wikilink")『MORNING - EVENING』（前半パート）と『光朝』（後半パート）。また、長年親しまれたキャラクター“**ぱんころん**”が2008年6月20日にて引退した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")は､[岩手県沿岸北部地震](../Page/岩手県沿岸北部地震.md "wikilink")の情報を[テレビ朝日](../Page/テレビ朝日.md "wikilink")より伝えたため、第1部を休止。第2部を通常より1分遅い6:00から放送した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")は、[岩手県沿岸北部地震](../Page/岩手県沿岸北部地震.md "wikilink")の情報を[テレビ朝日](../Page/テレビ朝日.md "wikilink")より伝えたため、第1部を休止。第2部を通常より1分遅い6:00から放送した。
 
 番組開始以来、年末年始以外は祝休日も番組を放送してきたが、2009年4月から2010年3月までは 祝休日の放送を休止していた（祝休日の5時台は[BS朝日制作の](../Page/ビーエス朝日.md "wikilink")『[亜細亜見聞録](https://ja.wikipedia.org/wiki/亜細亜見聞録 "wikilink")』や過去に自局が制作した歴史・景観物を扱った特別番組の再放送。6時台は『[照英](../Page/照英.md "wikilink")にっぽん一人旅』など外部制作会社 が制作した番組を放送する）。2010年2月は『[バンクーバーオリンピック](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")中継』のため、15日は6:25まで放送。18日・24日は番組を休止し、4:55（24日は5:00） - 5:25に『照英にっぽん一人旅』を放送。なお2010年4月以降は再度、祝休日も放送されるようになっていた。しかし2016年度も再び祝休日 の放送を休止。 5時台は過去に自局やBS朝日で放送された関西に関連する歴史・景観物を扱った番組の放送。6:00 - 6:15は『[上沼恵美子のおしゃべりクッキング](../Page/上沼恵美子のおしゃべりクッキング.md "wikilink")』の再放送、6:15 - 6:45は『[松本家の休日](https://ja.wikipedia.org/wiki/松本家の休日 "wikilink")』の再放送などを放送。
 
@@ -29,7 +29,7 @@
 
 [2018年](../Page/2018年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")は、未明に発生した[北海道胆振東部地震](https://ja.wikipedia.org/wiki/北海道胆振東部地震 "wikilink")の情報を、番組冒頭に、東京から地震のニュースを伝える旨を説明し、番組タイトルを『おはようコールABC』のままにした上で、5:59までテレビ朝日『グッドモーニング』をネットした。
 
-[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")からから番組をリニューアル。スポーツコメンテーター、ニュースコメンテーターに新メンバーが加わり、女性コメンテーター枠が新設された\[3\]。
+[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から番組をリニューアル。スポーツコメンテーター、ニュースコメンテーターに新メンバーが加わり、女性コメンテーター枠が新設された\[3\]。
 
 ### 放送時間の変遷
 
@@ -45,7 +45,7 @@
 
 ### 現在
 
-キャスターについては、特記した人物を除いて、出演時点で[朝日放送テレビのアナウンサー](https://ja.wikipedia.org/wiki/朝日放送のアナウンサー一覧 "wikilink")。以下の人物に加えて、月曜日が祝祭日と重なった場合には、[ナジャ・グランディーバ](https://ja.wikipedia.org/wiki/ナジャ・グランディーバ "wikilink")がコメンテーター格で出演する。
+キャスターについては、特記した人物を除いて、出演時点で[朝日放送テレビのアナウンサー](https://ja.wikipedia.org/wiki/朝日放送のアナウンサー一覧 "wikilink")。
 
 #### 司会（メインキャスター）
 
@@ -54,18 +54,24 @@
   - [斎藤真美](https://ja.wikipedia.org/wiki/斎藤真美 "wikilink")（2014年4月3日 - ）
       - 木・金曜のエンタメキャスターや、桂が休演した場合のメインキャスター代理を経て、2015年3月31日から正式にメインキャスターを担当。木・金曜日→全曜日のエンタメキャスターや、横山と共同で全曜日のニュースキャスターを兼務する。
 
+2020年には、日本国内で[新型コロナウイルスへの感染が拡大していることを背景に](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")、同年4月15日（水曜日）放送分から『おはよう朝日です』と共同で司会陣に2班体制を導入。感染拡大の一因とされる[飛沫感染のリスクを回避するための暫定措置として](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")、担当のアナウンサーと曜日を以下のように変更している。
+
+  - 月曜 - 横山太一・[増田紗織](https://ja.wikipedia.org/wiki/増田紗織 "wikilink")
+  - 火・水曜 - [柴田博](../Page/柴田博.md "wikilink")・斎藤真美
+  - 木曜 - 横山太一・増田紗織
+  - 金曜 - 横山太一・[小寺右子](../Page/小寺右子.md "wikilink")
+
 #### ニュースキャスター
 
-  - 月曜 - 小谷渉子（2017年4月3日 - 、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")出身・[SAY所属のアナウンサー](../Page/セイ.md "wikilink")）
-  - 火・水・木曜 - [市川いずみ](https://ja.wikipedia.org/wiki/市川いずみ "wikilink")（2015年9月28日 - 、[山口朝日放送](../Page/山口朝日放送.md "wikilink")出身・[オフィスキイワード](../Page/オフィスキイワード.md "wikilink")所属のアナウンサー、2016年3月までは月曜も担当）
+  - 月曜 - [小谷渉子](https://ja.wikipedia.org/wiki/小谷渉子 "wikilink")（2017年4月3日 - 、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")出身・[SAY所属のアナウンサー](../Page/セイ.md "wikilink")）
+  - 火・金曜 - [去来川奈央](https://ja.wikipedia.org/wiki/去来川奈央 "wikilink")（いさがわ なお、2017年4月6日 - 、[NHK京都放送局](../Page/NHK京都放送局.md "wikilink")契約キャスター出身・[松竹芸能](../Page/松竹芸能.md "wikilink")所属のアナウンサー）
+      - 出演開始当初は木・金曜担当で、2018年秋から2019年春まで[産前産後休暇](https://ja.wikipedia.org/wiki/産前産後休暇 "wikilink")を取得。その間、木曜は市川、金曜は小谷が代演した。復帰後は金曜のみを担当していた。
+  - 水・木曜 - [市川いずみ](https://ja.wikipedia.org/wiki/市川いずみ "wikilink")（2015年9月28日 - 、[山口朝日放送](../Page/山口朝日放送.md "wikilink")出身・[オフィスキイワード](../Page/オフィスキイワード.md "wikilink")所属のアナウンサー、2016年3月までは月曜も担当）
       - 朝日放送グループホールディングスがテレビ・ラジオで全国大会を中継する夏の[全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")（2016 - 2018年）や、春の[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")（2017年のみ）期間中および前後には、スポーツコーナーで冠企画「市川いずみの甲子園Lovers」を放送するため本来の担当以外の曜日にも出演。
-      - 2020年度上半期（プロ野球レギュラーシーズン）の火 - 木曜日には、『[MBSベースボールパーク](../Page/MBSベースボールパーク.md "wikilink")』（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")のナイトゲーム中継）のスタジオアシスタントや、『市川いずみのベースボールパークEXトラ\!』（ナイトゲーム中継の後座番組）のパーソナリティも兼務。
-  - 金曜 - 去来川奈央（いさがわ なお、2017年4月6日 - 、[NHK京都放送局](../Page/NHK京都放送局.md "wikilink")契約キャスター出身・[松竹芸能](../Page/松竹芸能.md "wikilink")所属のアナウンサー）
-      - 出演開始当初は木・金曜担当で、2018年秋から2019年春まで[産前産後休暇](https://ja.wikipedia.org/wiki/産前産後休暇 "wikilink")を取得。その間、木曜は市川、金曜は小谷が代演した。復帰後は金曜のみの担当。
 
 #### スポーツキャスター
 
-  - 月・水・金曜 - 河合康行（セイ所属のタレント、2020年4月改編までは水・木・金曜担当）
+  - 月・水・金曜 - [河合康行](https://ja.wikipedia.org/wiki/河合康行 "wikilink")（セイ所属のタレント、2020年4月改編までは水・木・金曜担当）
   - 火曜 - [北條瑛祐](https://ja.wikipedia.org/wiki/北條瑛祐 "wikilink")（2020年3月31日 - ）
   - 木曜 - [柴田博](../Page/柴田博.md "wikilink")（2010年3月29日 - 、2020年4月改編までは月・火曜を担当）
 
@@ -78,16 +84,18 @@
 
 ##### ニュース
 
-  - 月曜 - [伊藤惇夫](../Page/伊藤惇夫.md "wikilink")（政治ジャーナリスト、2010年3月29日 - ）
-  - 火曜 - [小西克哉](../Page/小西克哉.md "wikilink")\[5\]（国際ジャーナリスト、2016年1月5日 - ）
-  - 火・水曜 - [八木早希](https://ja.wikipedia.org/wiki/八木早希 "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")\[6\]出身のフリーアナウンサー、2020年3月31日 - ）
+  - 月曜
+      - [伊藤惇夫](../Page/伊藤惇夫.md "wikilink")（政治ジャーナリスト、2010年3月29日 - ）
+      - [益子直美](https://ja.wikipedia.org/wiki/益子直美 "wikilink")（バレーボール女子元日本代表、2020年3月30日 - ）\[5\]
+  - 火曜 - [小西克哉](../Page/小西克哉.md "wikilink")\[6\]（国際ジャーナリスト、2016年1月5日 - ）
+  - 火・水曜 - [八木早希](https://ja.wikipedia.org/wiki/八木早希 "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")\[7\]出身のフリーアナウンサー、2020年3月31日 - ）
   - 水曜 - 木原善隆（朝日放送テレビ報道局ニュース情報センター所属、2015年4月2日 - ）
       - 放送上は、他の出演番組（『キャスト』月曜など）を含めて「ABCテレビコメンテーター」という肩書を使用。
   - 木曜
       - [二木啓孝](../Page/二木啓孝.md "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")取締役）
-      - [脇浜紀子](https://ja.wikipedia.org/wiki/脇浜紀子 "wikilink")（[京都産業大学](../Page/京都産業大学.md "wikilink")教授、元・[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")アナウンサー\[7\]、2020年4月2日 - ）
+      - [脇浜紀子](https://ja.wikipedia.org/wiki/脇浜紀子 "wikilink")（[京都産業大学](../Page/京都産業大学.md "wikilink")教授、元・[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")アナウンサー\[8\]、2020年4月2日 - ）
   - 金曜
-      - [青木理](../Page/青木理.md "wikilink")\[8\]（ジャーナリスト）
+      - [青木理](../Page/青木理.md "wikilink")\[9\]（ジャーナリスト）
       - [石戸諭](https://ja.wikipedia.org/wiki/石戸諭 "wikilink")（ノンフィクションライター、元・[朝日新聞社](../Page/朝日新聞社.md "wikilink")記者）
       - [堀江政生](../Page/堀江政生.md "wikilink")
           - いずれも、2020年4月改編から出演。
@@ -96,11 +104,10 @@
 
 ##### スポーツ
 
-  - 月曜 - [益子直美](https://ja.wikipedia.org/wiki/益子直美 "wikilink")（2020年3月30日 - ）\[9\]
-  - 火曜 - [中邨雄二](../Page/中邨雄二.md "wikilink")（[2018年](../Page/2018年.md "wikilink")4月2日 - ）
+  - 月曜 - [加地亮](../Page/加地亮.md "wikilink")（2020年4月3日 - ）\[10\]
+  - 火曜・金曜 - [中邨雄二](../Page/中邨雄二.md "wikilink")（[2018年](../Page/2018年.md "wikilink")4月2日 - ）
   - 水曜 - [伊藤史隆](../Page/伊藤史隆.md "wikilink")（2018年4月3日 - ）
-  - 木曜 - [掛布雅之](../Page/掛布雅之.md "wikilink")（2020年4月2日 - ）\[10\]
-  - 金曜 - [加地亮](../Page/加地亮.md "wikilink")（2020年4月3日 - ）\[11\]
+  - 木曜 - [掛布雅之](../Page/掛布雅之.md "wikilink")（2020年4月2日 - ）\[11\]
 
 2019年3月までは、井関真（2001年10月から出演）を皮切りに、[日刊スポーツ西日本](https://ja.wikipedia.org/wiki/日刊スポーツ西日本 "wikilink")大阪本社の編集委員（井関・寺尾博和・高原寿夫から）から1名が日替わりで担当。同年4月改編からは、現役のスポーツアナウンサーでもある中邨・伊藤も、スポーツキャスターではなく「スポーツコメンテーター」としてレギュラーで出演している。
 
@@ -108,27 +115,7 @@
 
 ##### 芸能
 
-  - 月・火曜 - [山崎寛代](../Page/山崎寛代.md "wikilink")（[芸能リポーター](../Page/芸能リポーター.md "wikilink")）
-  - 水・木・金曜 - 島田薫（芸能リポーター、2016年4月6日 - 、2020年4月改編までは水・木曜のみ担当）
-
-#### リポーター（「おきトク」リポート担当）
-
-いずれの人物も、スタジオでリポートを報告する場合には、天気予報コーナーで正木のアシスタントを務める。月曜日が祝祭日と重なった場合には、ナジャ・グランディーバが出演する関係で「おきトク」を放送しないため、リポーターも出演しない。
-
-  - [池田琴弥](https://ja.wikipedia.org/wiki/池田琴弥 "wikilink")（2014年10月1日 - ）
-  - [小林美稀](https://ja.wikipedia.org/wiki/小林美稀 "wikilink")（2014年10月2日 - ）
-  - [たかはしあいこ](https://ja.wikipedia.org/wiki/たかはしあいこ "wikilink")（2014年10月2日 - ）
-  - [シュークリーム しより](https://ja.wikipedia.org/wiki/\<!--村崎史依--\>しより "wikilink")（2014年10月3日 - ）
-  - [シュークリーム 吉岡久美子](https://ja.wikipedia.org/wiki/吉岡久美子 "wikilink")（2014年10月3日 - ）
-  - [池口なる](https://ja.wikipedia.org/wiki/池口なる "wikilink")（2015年1月12日 - ）
-  - [松田栞](https://ja.wikipedia.org/wiki/松田栞 "wikilink")（2015年1月12日 - ）
-  - [河邑ミク](https://ja.wikipedia.org/wiki/河邑ミク "wikilink")（2016年3月4日 - ）
-  - [出口亜梨沙](https://ja.wikipedia.org/wiki/出口亜梨沙 "wikilink")（2016年3月16日 - ）
-  - [笠原美香](https://ja.wikipedia.org/wiki/笠原美香 "wikilink")（2016年3月17日 - ）
-  - [大濱絵梨香](https://ja.wikipedia.org/wiki/大濱絵梨香 "wikilink")（2016年3月23日 - ）
-  - [吉岡結紀](https://ja.wikipedia.org/wiki/吉岡結紀 "wikilink")（2017年1月20日 - ）
-  - [吉川亜樹](https://ja.wikipedia.org/wiki/吉川亜樹 "wikilink")（2017年1月20日 - ）
-  - [山根七星](https://ja.wikipedia.org/wiki/山根七星 "wikilink")（2017年4月3日 - ）
+  - 金曜 - 島田薫（芸能リポーター、2016年4月6日 - 、2020年4月改編までは水・木曜を担当）
 
 ### 過去
 
@@ -141,7 +128,7 @@
   - [原田登貴子](https://ja.wikipedia.org/wiki/原田登貴子 "wikilink")（ゲーム情報コーナー担当）
   - [青山哩彩](https://ja.wikipedia.org/wiki/青山哩彩 "wikilink")（1996年4月1日 - 1996年9月27日、2代目メイン月 - 水担当） - 『[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")』アシスタント担当後に就任
   - [西野義和](../Page/西野義和.md "wikilink")（2代目メインキャスター、当時朝日放送アナウンサー）
-  - [魚瀬信代](https://ja.wikipedia.org/wiki/魚瀬信代 "wikilink")（3代目メインキャスター）　
+  - [魚瀬信代](https://ja.wikipedia.org/wiki/魚瀬信代 "wikilink")（3代目メインキャスター）
   - [上田慶行](https://ja.wikipedia.org/wiki/上田慶行 "wikilink")（3代目メインキャスター、当時朝日放送アナウンサー）
   - [山下真妃](https://ja.wikipedia.org/wiki/山下真妃 "wikilink")（4代目メインキャスター）
   - [田中花子](../Page/田中花子.md "wikilink")（当時朝日放送アナウンサー）
@@ -175,6 +162,7 @@
   - 井関真（[日刊スポーツ西日本](https://ja.wikipedia.org/wiki/日刊スポーツ西日本 "wikilink")大阪本社編集委員、2001年10月 - 2020年3月23日、後期は月曜のみ出演）
   - 寺尾博和（同上、2020年3月26日まで木曜に出演）
   - 高原寿夫（同上、2020年3月27日まで金曜に出演）
+  - [山崎寛代](../Page/山崎寛代.md "wikilink")（[芸能リポーター](../Page/芸能リポーター.md "wikilink")、2020年3月24日まで出演）
 
 #### リポーター
 
@@ -197,80 +185,39 @@
   - [吉沢心結](https://ja.wikipedia.org/wiki/吉沢心結 "wikilink")（2014年9月30日 - 2015年12月10日）
   - [二村祥絵](https://ja.wikipedia.org/wiki/二村祥絵 "wikilink")（2014年10月1日 - 2016年8月30日）
   - [八田亜矢子](https://ja.wikipedia.org/wiki/八田亜矢子 "wikilink") (2017年4月3日 - 不明)
+  - [池田琴弥](https://ja.wikipedia.org/wiki/池田琴弥 "wikilink")（2014年10月1日 - 不明）
+  - [小林美稀](https://ja.wikipedia.org/wiki/小林美稀 "wikilink")（2014年10月2日 - 不明）
+  - [たかはしあいこ](https://ja.wikipedia.org/wiki/たかはしあいこ "wikilink")（2014年10月2日 -不明 ）
+  - [シュークリーム しより](https://ja.wikipedia.org/wiki/\<!--村崎史依--\>しより "wikilink")（2014年10月3日 - 不明）
+  - [シュークリーム 吉岡久美子](https://ja.wikipedia.org/wiki/吉岡久美子 "wikilink")（2014年10月3日 - 不明）
+  - [池口なる](https://ja.wikipedia.org/wiki/池口なる "wikilink")（2015年1月12日 - 不明）
+  - [松田栞](https://ja.wikipedia.org/wiki/松田栞 "wikilink")（2015年1月12日 - 不明）
+  - [河邑ミク](https://ja.wikipedia.org/wiki/河邑ミク "wikilink")（2016年3月4日 - 不明）
+  - [出口亜梨沙](https://ja.wikipedia.org/wiki/出口亜梨沙 "wikilink")（2016年3月16日 - 不明）
+  - [笠原美香](https://ja.wikipedia.org/wiki/笠原美香 "wikilink")（2016年3月17日 - 不明）
+  - [大濱絵梨香](https://ja.wikipedia.org/wiki/大濱絵梨香 "wikilink")（2016年3月23日 - 不明）
+  - [吉岡結紀](https://ja.wikipedia.org/wiki/吉岡結紀 "wikilink")（2017年1月20日 - 不明）
+  - [吉川亜樹](https://ja.wikipedia.org/wiki/吉川亜樹 "wikilink")（2017年1月20日 - 不明）
+  - [山根七星](https://ja.wikipedia.org/wiki/山根七星 "wikilink")（2017年4月3日 - 不明）
 
 ## コーナー
 
 ### 現在
 
-※2017年4月現在
+※2020年4月現在
 
-<table>
-<thead>
-<tr class="header">
-<th><p>第1部（5:00 - 5:50）</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>放送時間</p></td>
-</tr>
-<tr class="even">
-<td><p>5:00</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:03</p></td>
-</tr>
-<tr class="even">
-<td><p>5:07</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:11</p></td>
-</tr>
-<tr class="even">
-<td><p>5:27</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:38</p></td>
-</tr>
-<tr class="even">
-<td><p>5:41</p></td>
-</tr>
-<tr class="odd">
-<td><p>（※5:50 - 6:00は『<a href="https://ja.wikipedia.org/wiki/グッド!モーニング_(テレビ番組)" title="wikilink">グッド!モーニング</a>・5時台』〈<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>制作。実質的には『<a href="https://ja.wikipedia.org/wiki/ANNニュース" title="wikilink">ANNニュース</a>』のみ。〉のため一旦中断（EPGなどでは5:00から6:45まで本番組と一括りされている）。<br />
-5:59 - 6:00は自社差し替えを行い、「エビシーみくじ」（後述）を放送する。5:59の時点で横山・斎藤が再び挨拶をする。）</p></td>
-</tr>
-<tr class="even">
-<td><p>第2部（6:00 - 6:45）</p></td>
-</tr>
-<tr class="odd">
-<td><p>放送時間</p></td>
-</tr>
-<tr class="even">
-<td><p>6:00</p></td>
-</tr>
-<tr class="odd">
-<td><p>6:05</p></td>
-</tr>
-<tr class="even">
-<td><p>6:24</p></td>
-</tr>
-<tr class="odd">
-<td><p>6:34</p></td>
-</tr>
-<tr class="even">
-<td><p>6:36</p></td>
-</tr>
-<tr class="odd">
-<td><p>6:44</p></td>
-</tr>
-</tbody>
-</table>
-
-#### エビシーみくじ
-
-2016年4月からスタートした、電話で応募が可能なデータ放送連動プレゼント企画。4色ボタンでどの色を引くかを選び、（締め切り前なら変更可能）、6時ちょうどに締め切りとなる。締め切り直後に[エビシー](https://ja.wikipedia.org/wiki/エビシー "wikilink")が「今日の大吉」を発表、大吉なら今日のプレゼントに応募するためのキーワードが閲覧可能。（受付電話番号は固定）当日の午前10時に締め切りとなり、抽選で選ばれた人にスタッフが電話をかけ、今日のキーワードを答えれば当選が確定する。また、これとは別に結果に応じてポイントが貯まる。（大吉→10ポイント、中吉→5ポイント、小吉→3ポイント、吉→1ポイント）このポイントが1ヶ月間で100ポイントに達すると「現金10万円プレゼント」の専用受付番号が閲覧可能。月が替わるとポイントはリセットされる
-
-ゴルフやサッカーなどの中継で5時台の放送がない場合、「エビシーみくじ」は休止となる（その対策として7月からは「ポイント2倍デー」を導入）。
+  - 5:00 オープニング～きょうのトピックス
+  - 5:02ごろ 正木さんのお天気
+  - 5:06ごろ THE SPORTS
+  - 5:18ごろ 朝イチ\!news
+  - 5:38ごろ 正木さんのお天気
+  - 5:41ごろ エンタメこれみ～や
+  - 5:50 全国ニュース
+  - 5:59 オープニング～きょうのトピックス
+  - 6:00ごろ 正木さんのお天気
+  - 6:05ごろ トレたて\!
+  - 6:30ごろ 正木さんのお天気
+  - 6:39ごろ エンタメ
 
 ### 過去
 
@@ -328,7 +275,13 @@
 
 <!-- end list -->
 
-  - リクエスト天気　
+  - リクエスト天気
+  - エビシーみくじ
+
+<!-- end list -->
+
+  -
+    2016年4月からスタートした、電話で応募が可能なデータ放送連動プレゼント企画。
 
 ## テーマ曲
 
@@ -356,7 +309,7 @@
 ## 関連項・人物
 
   - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")
-  - [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")（コメンテーター登用）
+  - [日刊スポーツ西日本](https://ja.wikipedia.org/wiki/日刊スポーツ西日本 "wikilink")（大阪本社発行版の記事をスポーツ・芸能コーナーで随時紹介しているほか、2020年3月まで同本社の編集委員をスポーツコメンテーターに登用）
   - [ABCハウジング](../Page/ABCハウジング.md "wikilink")（2013年10月から2014年3月まで、乾・横山のコンビによるテレビ・ラジオCMを放送）
   - [友野一希](https://ja.wikipedia.org/wiki/友野一希 "wikilink")（[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手、おはようコールファミリーと紹介されている）
 
@@ -380,10 +333,10 @@
 2.  [［朝日放送］夕方の顔に伊藤史隆アナ　東国原前知事や森永卓郎らも出演　新番組「キャスト」](https://news.mynavi.jp/news/2011/09/16/002/index.html)（『[マイコミジャーナル](https://ja.wikipedia.org/wiki/マイコミジャーナル "wikilink")』2011年9月16日付記事）
 3.
 4.  [本人によるTwitter](https://twitter.com/_y_u_r_i_n_a_/status/1200667435956719617?s=19)
-5.  出演日夕方の『キャスト』コメンテーターを兼務。
-6.  在職中は斎藤裕美の先輩
-7.  在職中は、『[あさイチ\!](../Page/あさイチ!.md "wikilink")』（自社制作による関西ローカル向けの[裏番組](../Page/裏番組.md "wikilink")）にレギュラーで出演していたほか、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")が平日の早朝に制作していた全国ネット番組（『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』→『[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")』）の関西地区キャスターを担当。
-8.
+5.
+6.  出演日夕方の『キャスト』コメンテーターを兼務。
+7.  在職中は斎藤裕美の先輩
+8.  在職中は、『[あさイチ\!](../Page/あさイチ!.md "wikilink")』（自社制作による関西ローカル向けの[裏番組](../Page/裏番組.md "wikilink")）にレギュラーで出演していたほか、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")が平日の早朝に制作していた全国ネット番組（『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』→『[ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")』）の関西地区キャスターを担当。
 9.
 10.
 11.

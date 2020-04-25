@@ -19,7 +19,7 @@
 
   - [湘南建築センター](https://ja.wikipedia.org/wiki/湘南建築センター "wikilink") - 神奈川県の指定確認検査機関
 
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") - 長野県における中波放送及びテレビジョン放送局
+  - [信越放送](../Page/信越放送.md "wikilink") - 長野県における中波放送及びテレビジョン放送局
 
   - \- シンガポールの国営放送局，[メディアコープ](https://ja.wikipedia.org/wiki/メディアコープ "wikilink")の前身
 

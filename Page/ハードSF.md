@@ -130,6 +130,7 @@
   - [恒星船](../Page/恒星船.md "wikilink")
   - [タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")
   - [サイバーパンク](https://ja.wikipedia.org/wiki/サイバーパンク "wikilink")
+  - [ハードサイエンス](https://ja.wikipedia.org/wiki/ハードサイエンス "wikilink")
 
 ## 外部リンク
 

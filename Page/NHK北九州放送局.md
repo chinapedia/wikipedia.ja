@@ -282,8 +282,8 @@ ID：2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>中島三奈</p></td>
-<td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
+<td><p>緒方直加</p></td>
+<td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
 <td><p>ニュースブリッジ北九州</p></td>
 </tr>
 <tr class="odd">

@@ -319,7 +319,7 @@
 <td><p>ぶりっじまん ゆな</p></td>
 <td><p>2005年12月5日(歳)</p></td>
 <td><p>0</p></td>
-<td><p>パーソン</p></td>
+<td><p><a href="http://www.person-inc.co.jp/model_detail/yuna-bridgman">パーソン</a></p></td>
 <td></td>
 <td></td>
 <td></td>

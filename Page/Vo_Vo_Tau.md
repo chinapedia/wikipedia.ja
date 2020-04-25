@@ -61,7 +61,7 @@
 
 ## 外部リンク
 
-  - [Ring公式ブログ](http://ameblo.jp/ringsong/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")（2010年6月 - ）
+  - [Ring公式ブログ](https://ameblo.jp/ringsong/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")（2010年6月 - ）
 
   - [Ring's Blog](http://blog.livedoor.jp/vovotau4u) - [livedoor Blog](https://ja.wikipedia.org/wiki/livedoor_Blog "wikilink")（2006年1月 - 2009年9月）
 

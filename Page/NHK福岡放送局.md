@@ -82,6 +82,7 @@
   - [2016年](../Page/2016年.md "wikilink")（平成28年）9月1日 - [インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送サービス「[NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」に於いて、福岡局（ラジオ第1放送・ラジオ第2放送・FM放送）の配信を開始\[6\]\[7\]\[8\]。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）10月2日 - 民放ラジオポータルサイト『[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")』の[第1次実験配信（一部地域限定）に於いて](https://ja.wikipedia.org/wiki/radiko#NHKラジオの実験配信 "wikilink")、福岡局（ラジオ第1放送・ラジオ第2放送・FM放送）の配信を、2018年（平成30年）3月30日まで実施\[9\]。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）4月12日 - 『radiko』の第2次実験配信（全国規模）を開始\[10\]。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）3月 - **NHK福岡放送局開局90周年**を迎えるにあたり、合言葉は「みんなが出るテレビ」と発表された\[11\]。
 
 ## テレビ放送
 
@@ -170,7 +171,7 @@
 ### 特記
 
   - 福岡県に於けるNHKのAMラジオ放送は、北九州局を含めて中継局が存在しない。
-  - 第2放送については、[筑後地方](../Page/筑後地方.md "wikilink")は[熊本局のエリア](../Page/NHK熊本放送局.md "wikilink")。もともと福岡第2放送も100kWの出力があったが、国際的な[中波](../Page/中波.md "wikilink")再編の影響で熊本第2が500kWに増力された余波で、出力が半減され、佐賀第2放送（コールサイン：JOSD）に至っては廃止された\[11\]。
+  - 第2放送については、[筑後地方](../Page/筑後地方.md "wikilink")は[熊本局のエリア](../Page/NHK熊本放送局.md "wikilink")。もともと福岡第2放送も100kWの出力があったが、国際的な[中波](../Page/中波.md "wikilink")再編の影響で熊本第2が500kWに増力された余波で、出力が半減され、佐賀第2放送（コールサイン：JOSD）に至っては廃止された\[12\]。
   - ローカル放送枠の気象情報では、沖合の海上予報が放送される（玄界灘・済州島近海など）。
 
 ## 支局
@@ -197,7 +198,9 @@
   - [実感ドドド\!](https://ja.wikipedia.org/wiki/実感ドドド! "wikilink")（金曜 19:30-19:55）
       -
         2018年度からは月一回を福岡県域枠で『実感ドドド@福岡』として放送。
-  - 九州沖縄のニュース（土・日・祝日 18:45-18:58.55）
+  - [九州沖縄のニュース](../Page/NHKニュース_\(テレビ番組\).md "wikilink")（平日 15:05-15:08 土・日・祝日 12:10-12:15、18:45-18:58.55 土・日 20:55-21:00 土 7:30-7:35、日 7:40-7:45、祝 7:55-8:00）
+      -
+        土・日・祝の朝は「おはよう九州沖縄」と番組終了時表記はされているものの番組表上では九州沖縄のニュース扱いとなっている。
   - [アサタビ\!](https://ja.wikipedia.org/wiki/アサタビ! "wikilink")（年数回 土曜7:35-8:00）
   - 九州沖縄特集（随時）
   - [いちおし\!九州沖縄](https://ja.wikipedia.org/wiki/いちおし!九州沖縄 "wikilink")（土曜午前地域枠）
@@ -209,8 +212,11 @@
 
 <!-- end list -->
 
-  - [ロクいち\!福岡](https://ja.wikipedia.org/wiki/ロクいち!福岡 "wikilink")（平日 18:10-18:58:55、2019年度から18:30以降は福岡局エリアのみ）
+  - [NHKニュース(正午・福岡県域)](../Page/NHKニュース_\(テレビ番組\).md "wikilink")（平日 12:15-12:20）
+  - [ロクいち\!福岡](https://ja.wikipedia.org/wiki/ロクいち!福岡 "wikilink")（平日 18:10-19:00、2019年度から18:30以降は福岡局エリアのみ）
   - [ニュース845福岡](../Page/ニュース845福岡.md "wikilink")（2008年度から福岡局エリアのみ。平日 20:45-21:00）
+      -
+        2020年度からは基本平日15時台の九州沖縄のニュースを担当したアナウンサーが兼務する
 
 <!-- end list -->
 
@@ -370,7 +376,8 @@
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロクいち!福岡" title="wikilink">ロクいち!福岡</a><br />
 （キャスター）<br />
-九州沖縄のニュース</p></td>
+九州沖縄のニュース<br />
+<a href="../Page/ニュース845福岡.md" title="wikilink">ニュース845福岡</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -386,7 +393,8 @@
 <td><p><a href="../Page/NHK和歌山放送局.md" title="wikilink">和歌山</a></p></td>
 <td><p>ロクいち!福岡<br />
 （リポーター）<br />
-九州沖縄のニュース</p></td>
+九州沖縄のニュース<br />
+ニュース845福岡</p></td>
 <td><p>太宰府市出身</p></td>
 </tr>
 <tr class="odd">
@@ -400,14 +408,16 @@
 <td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
 <td><p>大相撲九州場所中継統括<br />
 各種スポーツ中継<br />
-九州沖縄のニュース</p></td>
+九州沖縄のニュース<br />
+ニュース845福岡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川順一" title="wikilink">西川順一</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
 <td><p>各種スポーツ中継<br />
-九州沖縄のニュース</p></td>
+九州沖縄のニュース<br />
+ニュース845福岡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -425,7 +435,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岩元良介" title="wikilink">岩元良介</a></p></td>
 <td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a>（ディレクター業務）</p></td>
-<td><p>九州沖縄のニュース</p></td>
+<td><p>九州沖縄のニュース<br />
+ニュース845福岡</p></td>
 <td><p>北九州市出身</p></td>
 </tr>
 <tr class="odd">
@@ -464,7 +475,8 @@
 <td><p><strong><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></strong></p></td>
 <td><p>ロクいち!福岡<br />
 （リポーター）<br />
-九州沖縄のニュース</p></td>
+九州沖縄のニュース<br />
+ニュース845福岡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -490,7 +502,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡野唯" title="wikilink">岡野唯</a></p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a>アナウンサー</p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a>スポーツキャスター</p></td>
 <td><p>ロクいち!福岡<br />
 （スポーツキャスター）</p></td>
 <td><p>2019年入局</p></td>
@@ -538,7 +550,8 @@
 <td><p>福地礼奈</p></td>
 <td></td>
 <td><p>ロクいち!福岡<br />
-（リポーター）</p></td>
+（リポーター）<br />
+実感ドドド!@福岡（リポーター）</p></td>
 <td><p>2019年入局<br />
 元AKB48チーム8佐賀県代表</p></td>
 </tr>
@@ -601,4 +614,5 @@
 8.  但し、ラジオ第2放送は、「**JOAB、NHK東京第2放送です**」とアナウンスされる。
 9.  [NHKラジオ「radiko」に期間限定で配信 10月2日から半年間](http://www.oricon.co.jp/news/2097560/full/) ORICON NEWS 2017年9月20日
 10. [ラジコでNHKラジオが聴ける4月12日（木）より、全国を対象に2018年度の実験配信を開始](https://prtimes.jp/main/html/rd/p/000000004.000007490.html),株式会社radiko,2018年3月22日
-11. 九州・山口でラジオ第2放送の出力が小さいもしくは中継局自体が存在しないケースがある理由は、このためである。
+11. [みんなが出るテレビ](https://www.nhk.or.jp/fukuoka/90th/)
+12. 九州・山口でラジオ第2放送の出力が小さいもしくは中継局自体が存在しないケースがある理由は、このためである。

@@ -836,7 +836,7 @@ JOIB</p></th>
 <td><p><a href="../Page/赤松俊理.md" title="wikilink">赤松俊理</a>*</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュースおはよう北海道" title="wikilink">NHKニュースおはよう北海道</a><br />
 （キャスター）</p></td>
-<td></td>
+<td><p>秩父別町出身</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -224,7 +224,7 @@
 2008年秋から終了まで</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td><p>土曜<br />
 21:00-22:00</p></td>
 <td><p>2007年秋から最終月（<a href="../Page/プロ野球中継.md" title="wikilink">ナイターオフシーズン</a>（概ね10月-3月）限定）<br />
@@ -265,7 +265,7 @@
 <td><p>2007年春から終了まで</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a></p></td>
+<td><p><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a></p></td>
 <td><p>日曜<br />
 22:30-23:30</p></td>
 <td><p>2007年秋から最終月（最終回は放送されなかった）</p></td>
@@ -350,7 +350,7 @@
 <td><p>2005年春から2006年春</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>『快傑アドレナリン』1993年秋から1994年秋</p></td>
 </tr>
 <tr class="odd">

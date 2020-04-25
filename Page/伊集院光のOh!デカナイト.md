@@ -207,7 +207,7 @@
   - [HOT CRUISING NIGHT](../Page/FAST_ACCESS.md "wikilink") （[access](../Page/Access_\(音楽ユニット\).md "wikilink")）
   - [NIGHT WAVE](../Page/ACCESS_II.md "wikilink") （access）
   - Space Ship Goes On （[nice music](https://ja.wikipedia.org/wiki/nice_music "wikilink")） - 番組内の2代目ジングルも担当したが、そちらは長続きせず半年ほどで元の初代ジングルに戻った。
-  - [スパイダー](../Page/スパイダー_\(曲\).md "wikilink") （[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）
+  - [スパイダー](../Page/スパイダー_\(曲\).md "wikilink") （[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）
 
 accessとnice musicの曲については歌詞の一部が変更、または番組名の「Oh\!デカナイト」という単語に差し替えられ、各テーマ曲をモチーフにした番組ジングルも制作、使用された。
 

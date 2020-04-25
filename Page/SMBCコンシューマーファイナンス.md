@@ -1,7 +1,7 @@
 > この記事は[SMBCコンシューマーファイナンス](https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス)から翻訳されています。
 
 
-[大阪・道頓堀.jpg](https://ja.wikipedia.org/wiki/File:大阪・道頓堀.jpg "fig:大阪・道頓堀.jpg")の看板\]\] [長沼原自動契約コーナー.JPG](https://ja.wikipedia.org/wiki/File:長沼原自動契約コーナー.JPG "fig:長沼原自動契約コーナー.JPG") **SMBCコンシューマーファイナンス株式会社**（エスエムビーシーコンシューマーファイナンス、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者。
+[Promise-tenpo-takatsuki.jpg](https://ja.wikipedia.org/wiki/File:Promise-tenpo-takatsuki.jpg "fig:Promise-tenpo-takatsuki.jpg") [大阪・道頓堀.jpg](https://ja.wikipedia.org/wiki/File:大阪・道頓堀.jpg "fig:大阪・道頓堀.jpg")の看板\]\] [長沼原自動契約コーナー.JPG](https://ja.wikipedia.org/wiki/File:長沼原自動契約コーナー.JPG "fig:長沼原自動契約コーナー.JPG") **SMBCコンシューマーファイナンス株式会社**（エスエムビーシーコンシューマーファイナンス、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[消費者金融](../Page/消費者金融.md "wikilink")業者。
 
 ## 概要
 
@@ -157,16 +157,17 @@
 ### 提供番組
 
   -
-    2019年現在
+    2020年現在
 
   - [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")
 
 <!-- end list -->
 
   - [しゃべくり007](../Page/しゃべくり007.md "wikilink") ※同業の[アコム](../Page/アコム.md "wikilink")、[アイフル](../Page/アイフル.md "wikilink")、[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")も提供。
-  - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink") ※2018年10月より。同業のアイフルも提供。
-  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") ※2017年4月より、[日曜ドラマから移行](https://ja.wikipedia.org/wiki/日曜ドラマ_\(日本テレビ\) "wikilink")。
-  - 日曜ドラマ（一時降板時期あり）
+  - [月曜プラチナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」（2020年4月 - ）※前半ナショナルスポンサーで、同業のアイフルも提供。
+  - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink") （2018年10月 - ）※同業のアイフルも提供。
+  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※[日曜ドラマから移行](https://ja.wikipedia.org/wiki/日曜ドラマ_\(日本テレビ\) "wikilink")。
+  - 日曜ドラマ（2019年10月 - ）※一時降板時期あり
 
 <!-- end list -->
 
@@ -191,7 +192,7 @@
 
 <!-- end list -->
 
-  - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink")
+  - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink") ※同業のアコム、アイフル、レイクALSA、[SMBC モビットも提供](../Page/SMBCモビット.md "wikilink")。
   - [ワイドナショー](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")
 
 #### 過去の提供番組

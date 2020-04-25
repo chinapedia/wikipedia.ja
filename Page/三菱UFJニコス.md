@@ -17,6 +17,69 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 
 株式会社フィナンシャルワンカードから始まった[フィナンシャルワン](../Page/フィナンシャルワン.md "wikilink")の運営も引き継いでいる。グループスローガンは、MUFG共通の『**Quality for You**』である。シンボルマークやコーポレートカラーもMUFGと共通である。
 
+## 沿革
+
+### 日本信販株式会社
+
+  - [1948年](../Page/1948年.md "wikilink") - 創業者山田光成によって日本百貨サービス株式会社設立。
+  - [1949年](../Page/1949年.md "wikilink") - 日本百貨サービスから発展し、前身の日本信用販売設立準備事務所を開設。
+  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")6月7日 - 東京都文京区[本郷に日本信用販売株式会社設立](../Page/本郷_\(文京区\).md "wikilink")。クーポン券による割賦購入斡旋事業を開始。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")
+      - 1月25日 - [三和銀行](../Page/三和銀行.md "wikilink")（現:[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）、日本信販、[東洋信託銀行](../Page/東洋信託銀行.md "wikilink")（現:[三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")）が共同で出資し、「日本クレジットビューロー」（現:[ジェーシービー](../Page/ジェーシービー.md "wikilink")）を設立。
+      - 10月 - 東証2部[上場](../Page/上場.md "wikilink")。
+  - [1966年](../Page/1966年.md "wikilink") - 商号を「日本信販株式会社」に変更。同時に[クレジットカード](../Page/クレジットカード.md "wikilink")業を開始。
+  - [1970年](../Page/1970年.md "wikilink") - 東証1部に指定変更。
+  - [1984年](../Page/1984年.md "wikilink") - 創業者の長男・山田洋二が社長就任。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [VISA](https://ja.wikipedia.org/wiki/VISA "wikilink")・[MasterCardの発行](../Page/マスターカード.md "wikilink")・開拓権を獲得し、「日本信販国際カード」発行。
+  - [1988年](../Page/1988年.md "wikilink") - 日本信販が発起人となり[国際カードビジネス協会](../Page/国際カードビジネス協会.md "wikilink")を設立。
+  - [1991年](../Page/1991年.md "wikilink") - クレジットカードのブランドを「Nippon Shinpan」から「[NICOS](../Page/NICOS.md "wikilink")」に変更。
+  - [1992年](../Page/1992年.md "wikilink") - 「日本信販ギフトカード」を発行。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 社長に鈴木公久が就任し、山田洋二が[会長](../Page/会長.md "wikilink")職となる。
+  - [2000年](../Page/2000年.md "wikilink") - ギフトカード（[商品券](../Page/商品券.md "wikilink")）に名前やメッセージが印字できる「メッセージ入りNICOSギフトカード」を発行。
+  - [2001年](../Page/2001年.md "wikilink") - 経営再建のため山田会長が社長に復帰、鈴木社長が取締役[相談役](https://ja.wikipedia.org/wiki/相談役 "wikilink")に就任。
+  - [2002年](../Page/2002年.md "wikilink")11月 - [2003年](../Page/2003年.md "wikilink")2月 - [総会屋](../Page/総会屋.md "wikilink")（[右翼団体](../Page/右翼団体.md "wikilink")）への長期の利益供与が発覚し、元専務ら8人の幹部社員が逮捕<ref>
+
+</ref>。創業者一族による経営から刷新（山田洋二社長が引責辞任）し、大森一廣[常務](https://ja.wikipedia.org/wiki/常務 "wikilink")が社長就任（三菱UFJニコスとなるまで在任。後任は[三和銀行](../Page/三和銀行.md "wikilink")出身者）。
+
+  - [2004年](../Page/2004年.md "wikilink")
+      - 1月 - [UFJホールディングス](../Page/UFJホールディングス.md "wikilink")・[UFJ銀行](../Page/UFJ銀行.md "wikilink")が、日本信販を[連結子会社](../Page/連結子会社.md "wikilink")化。
+      - 日本信販・UFJカード・ビザと共同開発の[Smartplus](../Page/Smartplus.md "wikilink")がサービス開始。
+
+### 株式会社UFJカード
+
+  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [東海銀行](../Page/東海銀行.md "wikilink")（現:[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）系のクレジットカード会社として「株式会社ミリオンカード・サービス」（mc）設立。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 三和銀行、JCBのフランチャイジーとして「株式会社三和カードサービス」を設立。
+  - [2000年](../Page/2000年.md "wikilink") - 株式会社三和カードサービスが[東洋カードサービス株式会社と株式会社](../Page/東洋信託銀行.md "wikilink")[大同生命](https://ja.wikipedia.org/wiki/大同生命 "wikilink")カードサービスを合併。商号を「株式会社[フィナンシャルワン](../Page/フィナンシャルワン.md "wikilink")カード」に変更。
+  - [2002年](../Page/2002年.md "wikilink")1月15日 - [UFJ銀行](../Page/UFJ銀行.md "wikilink")発足と合わせて、株式会社ミリオンカード・サービスが株式会社フィナンシャルワンカードを合併し、株式会社UFJカード（登記上は株式会社ユーエフジェイカード）に商号変更。ブランド名をミリオンカードから、[UFJカード](../Page/UFJカード.md "wikilink")に変更。
+  - [2004年](../Page/2004年.md "wikilink") - 日本信販・UFJカード・ビザと共同開発の[Smartplus](../Page/Smartplus.md "wikilink")がサービス開始。
+
+### 株式会社ディーシーカード
+
+  - [1967年](../Page/1967年.md "wikilink") - [三菱銀行](../Page/三菱銀行.md "wikilink")（現:三菱UFJ銀行）系のクレジットカード会社として「ダイヤモンドクレジット株式会社」設立。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [マスターカード](../Page/マスターカード.md "wikilink")発行
+  - [1989年](../Page/1989年.md "wikilink") - [Visa](../Page/Visa.md "wikilink")カード発行。業界初のビザ、マスターカードのデュアル発行。商号を「株式会社ディーシーカード」に変更
+  - [1992年](../Page/1992年.md "wikilink") - [リボ払い](https://ja.wikipedia.org/wiki/リボ払い "wikilink")専用カード発行
+  - [1999年](../Page/1999年.md "wikilink") - 業界初 ホームページから利用明細ダウンロードサービス開始
+  - [2000年](../Page/2000年.md "wikilink") - 業界初 翌月の請求金額をEメール送付
+  - [2003年](../Page/2003年.md "wikilink") - 会員情報誌「GRAN」発行。
+
+### UFJニコス株式会社→三菱UFJニコス株式会社
+
+  - [2005年](../Page/2005年.md "wikilink")10月 - 日本信販株式会社が株式会社UFJカードを合併し、「UFJニコス株式会社」に商号変更。
+  - [2006年](../Page/2006年.md "wikilink")
+      - 3月 - 本社機能を[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")へ移転（登記上の本店はそのまま）。
+      - 10月1日 - 「[協同クレジットサービス](../Page/協同クレジットサービス.md "wikilink")株式会社」を吸収合併。
+  - [2007年](../Page/2007年.md "wikilink")4月1日 - 「株式会社[ディーシーカード](../Page/ディーシーカード.md "wikilink")」を合併し、商号を「三菱UFJニコス株式会社」に変更。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
+      - 1月1日 - ニコス地域会社6社を吸収合併。
+      - 4月1日 - 子会社のJNS管理サービス株式会社に個品割賦事業を会社分割後、全株式をジャックスに譲渡。
+      - 7月16日 - 新ブランド「MUFGカード」発行。
+      - 7月28日 - 上場廃止。
+      - 8月1日 - 株式交換により、三菱UFJフィナンシャルグループの完全子会社となる。
+      - 8月8日 - 株式譲渡（2億4400万株）により、農林中央金庫の持分法適用関連会社となる。
+  - [2013年](../Page/2013年.md "wikilink")3月31日 - Visa Touch/Smartplusの新規入会受付終了\[10\]。
+  - [2017年](../Page/2017年.md "wikilink")10月1日 - 三菱UFJフィナンシャル・グループによる完全子会社化。
+
 ## 本社等の所在地
 
   - 本社：[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")外神田4-14-1 [秋葉原UDX](../Page/秋葉原UDX.md "wikilink")
@@ -51,10 +114,10 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 | 社名                                                                      | DC      | MUFG     |
 | ----------------------------------------------------------------------- | ------- | -------- |
 | [札幌北洋カード](../Page/札幌北洋カード.md "wikilink")                                | △       | ○        |
-| [あおぎんカードサービス](../Page/あおぎんカードサービス.md "wikilink")                        | ○       | ○\[10\]  |
+| [あおぎんカードサービス](../Page/あおぎんカードサービス.md "wikilink")                        | ○       | ○\[11\]  |
 | [みちのくカード](../Page/みちのくカード.md "wikilink")                                |         | ○        |
 | [いわぎんディーシーカード](https://ja.wikipedia.org/wiki/いわぎんディーシーカード "wikilink")   | ○       |          |
-| [フィデアカード](https://ja.wikipedia.org/wiki/フィデアカード "wikilink")\[11\]       | ○       | △×\[12\] |
+| [フィデアカード](https://ja.wikipedia.org/wiki/フィデアカード "wikilink")\[12\]       | ○       | △×\[13\] |
 | [やまぎんカードサービス](../Page/やまぎんカードサービス.md "wikilink")                        | ○       |          |
 | [大東クレジットサービス](../Page/大東クレジットサービス.md "wikilink")                        |         | ○        |
 | [常陽クレジット](https://ja.wikipedia.org/wiki/常陽クレジット "wikilink")             | ●       |          |
@@ -62,10 +125,10 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 | [とちぎんカード・サービス](../Page/とちぎんカード・サービス.md "wikilink")                      |         | ○        |
 | [東和カード](https://ja.wikipedia.org/wiki/東和カード "wikilink")                 |         | ○        |
 | [ちばぎんディーシーカード](../Page/ちばぎんディーシーカード.md "wikilink")                      | △       |          |
-| [第四ディーシーカード](https://ja.wikipedia.org/wiki/第四ディーシーカード "wikilink")       | ○       | ○\[13\]  |
+| [第四ディーシーカード](https://ja.wikipedia.org/wiki/第四ディーシーカード "wikilink")       | ○       | ○\[14\]  |
 | [たいこうカード](https://ja.wikipedia.org/wiki/たいこうカード "wikilink")             |         | ○        |
 | [富山ファースト・ディーシー](https://ja.wikipedia.org/wiki/富山ファースト・ディーシー "wikilink") | ○       |          |
-| [福井カード](https://ja.wikipedia.org/wiki/福井カード "wikilink")                 | ○       | ○\[14\]  |
+| [福井カード](https://ja.wikipedia.org/wiki/福井カード "wikilink")                 | ○       | ○\[15\]  |
 | [山梨中銀ディーシーカード](../Page/山梨中銀ディーシーカード.md "wikilink")                      | ○       |          |
 | [八十二カード](../Page/八十二カード.md "wikilink")                                  | ○       |          |
 | [十六ディーシーカード](https://ja.wikipedia.org/wiki/十六ディーシーカード "wikilink")       | ○       |          |
@@ -77,17 +140,17 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 | [中京カード](../Page/中京カード.md "wikilink")                                    |         | ○        |
 | [百五ディーシーカード](https://ja.wikipedia.org/wiki/百五ディーシーカード "wikilink")       | ○       |          |
 | [滋賀ディーシーカード](https://ja.wikipedia.org/wiki/滋賀ディーシーカード "wikilink")       | ○       |          |
-| [京都クレジットサービス](https://ja.wikipedia.org/wiki/京都クレジットサービス "wikilink")     | ○       | ○\[15\]  |
+| [京都クレジットサービス](https://ja.wikipedia.org/wiki/京都クレジットサービス "wikilink")     | ○       | ○\[16\]  |
 | [池田泉州DC](https://ja.wikipedia.org/wiki/池田泉州DC "wikilink")               | ○       |          |
-| [南都ディーシーカード](https://ja.wikipedia.org/wiki/南都ディーシーカード "wikilink")       | ○       | ○\[16\]  |
-| [紀陽カードディーシー](../Page/紀陽カードディーシー.md "wikilink")                          | ○       | ×\[17\]  |
-| [ひろぎんカードサービス](../Page/ひろぎんカードサービス.md "wikilink")                        | ●\[18\] |          |
+| [南都ディーシーカード](https://ja.wikipedia.org/wiki/南都ディーシーカード "wikilink")       | ○       | ○\[17\]  |
+| [紀陽カードディーシー](../Page/紀陽カードディーシー.md "wikilink")                          | ○       | ×\[18\]  |
+| [ひろぎんカードサービス](../Page/ひろぎんカードサービス.md "wikilink")                        | ●\[19\] |          |
 | [やまぎんカード](../Page/やまぎんカード.md "wikilink")                                | ○       |          |
-| [西京カード](../Page/西京カード.md "wikilink")                                    |         | ×\[19\]  |
-| [百十四ディーシーカード](https://ja.wikipedia.org/wiki/百十四ディーシーカード "wikilink")     | ○       | ○\[20\]  |
+| [西京カード](../Page/西京カード.md "wikilink")                                    |         | ×\[20\]  |
+| [百十四ディーシーカード](https://ja.wikipedia.org/wiki/百十四ディーシーカード "wikilink")     | ○       | ○\[21\]  |
 | [いよぎんディーシーカード](https://ja.wikipedia.org/wiki/いよぎんディーシーカード "wikilink")   | ○       |          |
 | [九州カード](../Page/九州カード.md "wikilink")                                    |         | ○        |
-| FFGカード\[21\]                                                            | ○       |          |
+| FFGカード\[22\]                                                            | ○       |          |
 | [りゅうぎんディーシー](../Page/りゅうぎんディーシー.md "wikilink")                          | ○       |          |
 | [かいぎんカード](../Page/かいぎんカード.md "wikilink")                                |         | ○        |
 | [菱信ディーシーカード](../Page/菱信ディーシーカード.md "wikilink")                          | ○       |          |
@@ -95,7 +158,7 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 
 ## 提携（FC契約）金融機関
 
-次の[銀行](../Page/銀行.md "wikilink")とクレジットカードの銀行本体発行に関して提携（ブランドとしてはDCと提携）している\[22\]。
+次の[銀行](../Page/銀行.md "wikilink")とクレジットカードの銀行本体発行に関して提携（ブランドとしてはDCと提携）している\[23\]。
 
   - [三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")（[三菱UFJ-VISA](../Page/三菱UFJ-VISA.md "wikilink")、スーパーICカード コンビタイプ・セキュリティタイプを発行） - 銀行本体発行第一号カード。当初発行を開始したカードは、スーパーICカードゴールドカードのセキュリティタイプのみだったが、その後セキュリティタイプとコンビタイプのゴールドカードと一般カードを発行。
   - [千葉銀行](../Page/千葉銀行.md "wikilink")（ちばぎんスーパーカード）
@@ -104,7 +167,7 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
   - [静岡銀行](../Page/静岡銀行.md "wikilink")（しずぎんjoyca）
   - [北洋銀行](../Page/北洋銀行.md "wikilink")（clover）
   - [京都銀行](../Page/京都銀行.md "wikilink")（京都カードネオ）
-  - [山口銀行](../Page/山口銀行.md "wikilink")（ワイエムカード\[23\]）
+  - [山口銀行](../Page/山口銀行.md "wikilink")（ワイエムカード\[24\]）
   - [百五銀行](../Page/百五銀行.md "wikilink")（105BESTIO）
   - [八十二銀行](../Page/八十二銀行.md "wikilink")（HaLuCa）
   - [岩手銀行](../Page/岩手銀行.md "wikilink")（I be One+）
@@ -116,69 +179,6 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 
   - [株式会社シー・アイ・シー](https://ja.wikipedia.org/wiki/信用情報#株式会社シー・アイ・シー "wikilink") (CIC)
   - [株式会社日本信用情報機構](https://ja.wikipedia.org/wiki/日本信用情報機構 "wikilink") (JICC)
-
-## 沿革
-
-### 日本信販株式会社
-
-  - [1948年](../Page/1948年.md "wikilink") - 創業者山田光成によって日本百貨サービス株式会社設立。
-  - [1949年](../Page/1949年.md "wikilink") - 日本百貨サービスから発展し、前身の日本信用販売設立準備事務所を開設。
-  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")6月7日 - 東京[本郷に日本信用販売株式会社設立](../Page/本郷_\(文京区\).md "wikilink")。クーポン券による割賦購入斡旋事業を開始。
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")
-      - 1月25日 - [三和銀行](../Page/三和銀行.md "wikilink")（現:[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）、日本信販、[東洋信託銀行](../Page/東洋信託銀行.md "wikilink")（現:[三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")）が共同で出資し、「日本クレジットビューロー」（現:[ジェーシービー](../Page/ジェーシービー.md "wikilink")）を設立。
-      - 10月 - 東証2部[上場](../Page/上場.md "wikilink")。
-  - [1966年](../Page/1966年.md "wikilink") - 商号を「日本信販株式会社」に変更。同時に[クレジットカード](../Page/クレジットカード.md "wikilink")業を開始。
-  - [1970年](../Page/1970年.md "wikilink") - 東証1部に指定変更。
-  - [1984年](../Page/1984年.md "wikilink") - 創業者の長男・山田洋二が社長就任。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [VISA](https://ja.wikipedia.org/wiki/VISA "wikilink")・[MasterCardの発行](../Page/マスターカード.md "wikilink")・開拓権を獲得し、「日本信販国際カード」発行。
-  - [1988年](../Page/1988年.md "wikilink") - 日本信販が発起人となり[国際カードビジネス協会](../Page/国際カードビジネス協会.md "wikilink")を設立。
-  - [1991年](../Page/1991年.md "wikilink") - クレジットカードのブランドを「Nippon Shinpan」から「[NICOS](../Page/NICOS.md "wikilink")」に変更。
-  - [1992年](../Page/1992年.md "wikilink") - 「日本信販ギフトカード」を発行。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 社長に鈴木公久が就任し、山田洋二が[会長](../Page/会長.md "wikilink")職となる。
-  - [2000年](../Page/2000年.md "wikilink") - ギフトカード（[商品券](../Page/商品券.md "wikilink")）に名前やメッセージが印字できる「メッセージ入りNICOSギフトカード」を発行。
-  - [2001年](../Page/2001年.md "wikilink") - 経営再建のため山田会長が社長に復帰、鈴木社長が取締役[相談役](https://ja.wikipedia.org/wiki/相談役 "wikilink")に就任。
-  - [2002年](../Page/2002年.md "wikilink")11月 - [2003年](../Page/2003年.md "wikilink")2月 - [総会屋](../Page/総会屋.md "wikilink")（[右翼団体](../Page/右翼団体.md "wikilink")）への長期の利益供与が発覚し、元専務ら8人の幹部社員が逮捕<ref>
-
-</ref>。創業者一族による経営から刷新（山田洋二社長が引責辞任）し、大森一廣[常務](https://ja.wikipedia.org/wiki/常務 "wikilink")が社長就任（三菱UFJニコスとなるまで在任。後任は[三和銀行](../Page/三和銀行.md "wikilink")出身者）。
-
-  - [2004年](../Page/2004年.md "wikilink")
-      - 1月 - [UFJホールディングス](../Page/UFJホールディングス.md "wikilink")・[UFJ銀行](../Page/UFJ銀行.md "wikilink")が、日本信販を[連結子会社](../Page/連結子会社.md "wikilink")化。
-      - 日本信販・UFJカード・ビザと共同開発の[Smartplus](../Page/Smartplus.md "wikilink")がサービス開始。
-
-### 株式会社UFJカード
-
-  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - [東海銀行](../Page/東海銀行.md "wikilink")（現:[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）系のクレジットカード会社として「株式会社ミリオンカード・サービス」（mc）設立。
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 三和銀行、JCBのフランチャイジーとして「株式会社三和カードサービス」を設立。
-  - [2000年](../Page/2000年.md "wikilink") - 株式会社三和カードサービスが[東洋カードサービス株式会社と株式会社](../Page/東洋信託銀行.md "wikilink")[大同生命](https://ja.wikipedia.org/wiki/大同生命 "wikilink")カードサービスを合併。商号を「株式会社[フィナンシャルワン](../Page/フィナンシャルワン.md "wikilink")カード」に変更。
-  - [2002年](../Page/2002年.md "wikilink")1月15日 - [UFJ銀行](../Page/UFJ銀行.md "wikilink")発足と合わせて、株式会社ミリオンカード・サービスが株式会社フィナンシャルワンカードを合併し、株式会社UFJカード（登記上は株式会社ユーエフジェイカード）に商号変更。ブランド名をミリオンカードから、[UFJカード](../Page/UFJカード.md "wikilink")に変更。
-  - [2004年](../Page/2004年.md "wikilink") - 日本信販・UFJカード・ビザと共同開発の[Smartplus](../Page/Smartplus.md "wikilink")がサービス開始。
-
-### 株式会社ディーシーカード
-
-  - [1967年](../Page/1967年.md "wikilink") - [三菱銀行](../Page/三菱銀行.md "wikilink")（現:三菱UFJ銀行）系のクレジットカード会社として「ダイヤモンドクレジット株式会社」設立。
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [マスターカード](../Page/マスターカード.md "wikilink")発行
-  - [1989年](../Page/1989年.md "wikilink") - [Visa](../Page/Visa.md "wikilink")カード発行。業界初のビザ、マスターカードのデュアル発行。社名を「株式会社ディーシーカード」に変更
-  - [1992年](../Page/1992年.md "wikilink") - [リボ払い](https://ja.wikipedia.org/wiki/リボ払い "wikilink")専用カード発行
-  - [1999年](../Page/1999年.md "wikilink") - 業界初 ホームページから利用明細ダウンロードサービス開始
-  - [2000年](../Page/2000年.md "wikilink") - 業界初 翌月の請求金額をEメール送付
-  - [2003年](../Page/2003年.md "wikilink") - 会員情報誌「GRAN」発行。
-
-### UFJニコス株式会社→三菱UFJニコス株式会社
-
-  - [2005年](../Page/2005年.md "wikilink")10月 - 日本信販株式会社が株式会社UFJカードを合併し、「UFJニコス株式会社」に商号変更。
-  - [2006年](../Page/2006年.md "wikilink")
-      - 3月 - 本社機能を[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")へ移転（登記上の本店はそのまま）。
-      - 10月1日 - 「[協同クレジットサービス](../Page/協同クレジットサービス.md "wikilink")株式会社」を吸収合併。
-  - [2007年](../Page/2007年.md "wikilink")4月1日 - 「株式会社[ディーシーカード](../Page/ディーシーカード.md "wikilink")」と合併し、商号を「三菱UFJニコス株式会社」に変更。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-      - 1月1日 - ニコス地域会社6社を吸収合併。
-      - 4月1日 - 子会社のJNS管理サービス株式会社に個品割賦事業を会社分割後、全株式をジャックスに譲渡。
-      - 7月16日 - 新ブランド「MUFGカード」発行。
-      - 7月28日 - 上場廃止。
-      - 8月1日 - 株式交換により、三菱UFJフィナンシャルグループの完全子会社となる。
-      - 8月8日 - 株式譲渡（2億4400万株）により、農林中央金庫の持分法適用関連会社となる。
-  - [2013年](../Page/2013年.md "wikilink")3月31日 - Visa Touch/Smartplusの新規入会受付終了\[24\]。
-  - [2017年](../Page/2017年.md "wikilink")10月1日 - 三菱UFJフィナンシャル・グループによる完全子会社化。
 
 ## 主なサービス
 
@@ -322,7 +322,7 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
 ### UFJカード
 
   - [速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")（日本テレビ系、2003年?を以て降板）
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")（日本テレビ系、2009年4月 - 2010年3月）
+  - [NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")（日本テレビ系、2009年4月 - 2010年3月）
 
 ### NICOS
 
@@ -381,21 +381,21 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
 7.
 8.
 9.
-10. プラチナカードを個人・法人向けに発行。
-11. 旧[北都クレジット](../Page/北都クレジット.md "wikilink")を吸収した直後の時期に、旧[北都カードサービス](../Page/北都カードサービス.md "wikilink")が[MUFGカード](../Page/MUFGカード.md "wikilink")の取り扱いを開始したが、[2016年](../Page/2016年.md "wikilink")現在は一時中止している。また[2012年](../Page/2012年.md "wikilink")4月に[荘銀カード](../Page/荘銀カード.md "wikilink")に吸収合併されたため、荘銀カードから改称した当社が継承。
-12. 北都カードサービスが提供していたMUFGカードとしては募集停止中。これとは別に募集されていた旧UFJカードは、利用停止され、DCブランドか[北都銀行](../Page/北都銀行.md "wikilink")本体発行のカード（[VJA](../Page/VJA.md "wikilink")への銀行本体加盟による、「BrightOne」）の何れかに切り替え。
-13. プラチナカードを法人向けに発行。
+10. [「Visa Touch（ビザタッチ）/Smartplus（スマートプラス）」新規入会受付/モバイルサービス終了のご案内](http://www.cr.mufg.jp/member/new/20130110_01.html) 三菱UFJニコス株式会社（2013年1月10日）
+11. プラチナカードを個人・法人向けに発行。
+12. 旧[北都クレジット](../Page/北都クレジット.md "wikilink")を吸収した直後の時期に、旧[北都カードサービス](../Page/北都カードサービス.md "wikilink")が[MUFGカード](../Page/MUFGカード.md "wikilink")の取り扱いを開始したが、[2016年](../Page/2016年.md "wikilink")現在は一時中止している。また[2012年](../Page/2012年.md "wikilink")4月に[荘銀カード](../Page/荘銀カード.md "wikilink")に吸収合併されたため、荘銀カードから改称した当社が継承。
+13. 北都カードサービスが提供していたMUFGカードとしては募集停止中。これとは別に募集されていた旧UFJカードは、利用停止され、DCブランドか[北都銀行](../Page/北都銀行.md "wikilink")本体発行のカード（[VJA](../Page/VJA.md "wikilink")への銀行本体加盟による、「BrightOne」）の何れかに切り替え。
 14. プラチナカードを法人向けに発行。
 15. プラチナカードを法人向けに発行。
 16. プラチナカードを法人向けに発行。
-17. 同社に合併された旧和歌山銀カードが発行したが、合併後は募集を停止しDCカードへの切り替えを進めている。
-18. 法人向けと個人向けの内[ひろしま美術館](../Page/ひろしま美術館.md "wikilink")フリーパス・マロニエカード（Mastercard）は引き続き募集している。
-19. 2016年現在は九州カードが西京銀行提携カードを発行している。
-20. プラチナカードを法人向けに発行。
-21. 旧・[しんわディーシーカード](../Page/しんわディーシーカード.md "wikilink")、旧・[ファミリーカード](https://ja.wikipedia.org/wiki/ファミリーカード "wikilink")を継承。
-22.
-23. 同じく[山口フィナンシャルグループ](../Page/山口フィナンシャルグループ.md "wikilink")に属する[もみじ銀行](../Page/もみじ銀行.md "wikilink")の同名カードはJCBのみ。
-24. [「Visa Touch（ビザタッチ）/Smartplus（スマートプラス）」新規入会受付/モバイルサービス終了のご案内](http://www.cr.mufg.jp/member/new/20130110_01.html) 三菱UFJニコス株式会社（2013年1月10日）
+17. プラチナカードを法人向けに発行。
+18. 同社に合併された旧和歌山銀カードが発行したが、合併後は募集を停止しDCカードへの切り替えを進めている。
+19. 法人向けと個人向けの内[ひろしま美術館](../Page/ひろしま美術館.md "wikilink")フリーパス・マロニエカード（Mastercard）は引き続き募集している。
+20. 2016年現在は九州カードが西京銀行提携カードを発行している。
+21. プラチナカードを法人向けに発行。
+22. 旧・[しんわディーシーカード](../Page/しんわディーシーカード.md "wikilink")、旧・[ファミリーカード](https://ja.wikipedia.org/wiki/ファミリーカード "wikilink")を継承。
+23.
+24. 同じく[山口フィナンシャルグループ](../Page/山口フィナンシャルグループ.md "wikilink")に属する[もみじ銀行](../Page/もみじ銀行.md "wikilink")の同名カードはJCBのみ。
 25. 「[auじぶんcard MUFGカード](https://ja.wikipedia.org/wiki/じぶん銀行#auじぶんcard "wikilink")」（新規募集終了）や「[シナジーカード](https://ja.wikipedia.org/wiki/エクスプレス_\(サービスステーション\) "wikilink")」等。
 26. 日本国内で発行されている『アメリカンエキスプレス』の「プロパー（非提携）カード」においてはQUICPayの利用は可能であるが、『MUFGカード ゴールド・アメリカン・エキスプレス・カード』においてはQUICPayの利用は出来ない。
 27.

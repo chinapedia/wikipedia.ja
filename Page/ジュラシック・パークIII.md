@@ -44,7 +44,7 @@
 
   - ユデスキー
     演 - [マイケル・ジェッター](../Page/マイケル・ジェッター.md "wikilink")、日本語吹替 - [佐々木敏](../Page/佐々木敏.md "wikilink")
-    サイトBに行くために、カービー夫妻が雇った男性。飛行機の操縦を担当する。銃は持っているが戦闘は専門外で正体は広告代理店の営業マンで本当の銃撃のプロは病気でその代理。
+    サイトBに行くために、カービー夫妻が雇った男性。飛行機の操縦を担当する。銃は持っているが戦闘は専門外。正体は広告代理店の営業マンであり、本当の銃撃のプロが病気になったのでその代理として参加した。
     ヴェロキラプトルに重傷を負わされ、生存者をおびき出すための罠として使われる。ラプトルが引き上げる際に殺害された。木の枝を使ってラプトルに立ち向かう場面があったが、映画では省略されている。
     サイトBに詳しい者を同行させるようカービー夫妻に指示したため、間接的にアランを島に呼んだ人物\[1\]。
   - M.B.ナッシュ
@@ -54,7 +54,7 @@
   - クーパー
     演 - [ジョン・ディール](https://ja.wikipedia.org/wiki/ジョン・ディール "wikilink")、日本語吹替 - [落合弘治](../Page/落合弘治.md "wikilink")
     サイトBに行くために、カービー夫妻が雇った男性。職業は傭兵。
-    飛行機で騒動があったときにアランを殴って気絶させる。最初に着陸した際、スピノサウルスの襲撃を受け、密林の中で応戦するが一人逃げ後れしまう。銃の腕もスピノサウルスには通用せず、離陸しようとする飛行機の前に立ちふさがって助けを求めたが、追ってきたスピノサウルスに捕食され最初の犠牲者となった。結果的にスピノサウルスを飛行機の進路上に誘導してしまい、飛行機はスピノサウルスと衝突。そのために飛行機が飛び立てず、以後島から脱出できなくなる原因となった。
+    飛行機で騒動があったときにアランを殴って気絶させる。最初に着陸した際、スピノサウルスの襲撃を受け、密林の中で応戦するが一人逃げ後れしまう。銃の腕もスピノサウルスには通用せず、離陸しようとする飛行機の前に立ちふさがって助けを求めたが、追ってきたスピノサウルスに捕食され最初の犠牲者となった。結果的にスピノサウルスを飛行機の進路上に誘導してしまい、飛行機はスピノサウルスと衝突。そのために飛行機が飛び立てず、以後アラン達が島から脱出できなくなる原因となった。
 
 ### テグラー家
 
@@ -255,7 +255,7 @@
   -
   -
   -
-[Category:ジュラシック・パーク](https://ja.wikipedia.org/wiki/Category:ジュラシック・パーク "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国のスリラー映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスリラー映画 "wikilink") [Category:アメリカ合衆国のパニック映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のパニック映画 "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:モンタナ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:モンタナ州を舞台とした映画作品 "wikilink") [Category:ジョー・ジョンストンの監督映画](https://ja.wikipedia.org/wiki/Category:ジョー・ジョンストンの監督映画 "wikilink") [Category:ユニバーサル・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:ユニバーサル・ピクチャーズの作品 "wikilink")
+[Category:ジュラシック・パーク](https://ja.wikipedia.org/wiki/Category:ジュラシック・パーク "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国のスリラー映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスリラー映画 "wikilink") [Category:アメリカ合衆国のパニック映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のパニック映画 "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:モンタナ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:モンタナ州を舞台とした映画作品 "wikilink") [Category:Computer_Generated_Imageryを使用した映画作品](https://ja.wikipedia.org/wiki/Category:Computer_Generated_Imageryを使用した映画作品 "wikilink") [Category:ジョー・ジョンストンの監督映画](https://ja.wikipedia.org/wiki/Category:ジョー・ジョンストンの監督映画 "wikilink") [Category:ユニバーサル・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:ユニバーサル・ピクチャーズの作品 "wikilink")
 
 1.  ただし「誘拐して連れて来い」と指示したわけではない。また、アランはサイトBには来たことがない。
 2.  劇場パンフレットより

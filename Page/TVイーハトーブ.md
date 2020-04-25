@@ -159,7 +159,7 @@
       - [木村慎吾](../Page/木村慎吾.md "wikilink")
       - [荒井千里](../Page/荒井千里.md "wikilink")
   - 岩手朝日テレビ
-      - [原田佳子](https://ja.wikipedia.org/wiki/原田佳子 "wikilink")
+      - [原田佳子](../Page/原田佳子.md "wikilink")
   - 秋田朝日放送
       - [伊藤里奈](../Page/伊藤里奈.md "wikilink")（2005年4月2日から2006年3月18日まで）
       - [塩地美澄](../Page/塩地美澄.md "wikilink")（2006年4月8日から）

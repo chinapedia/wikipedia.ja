@@ -1,7 +1,7 @@
 > この記事は[F 〜ファナティック〜](https://ja.wikipedia.org/wiki/F_〜ファナティック〜)から翻訳されています。
 
 
-『**F 〜ファナティック〜**』は、[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。PlayStation 2版は[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")：15歳以上対象。キャラクターデザインは[成瀬ちさと](../Page/成瀬ちさと.md "wikilink")。
+『**F 〜ファナティック〜**』は、[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。PlayStation 2版は[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")：15歳以上対象。キャラクターデザインは[成瀬ちさと](../Page/成瀬ちさと.md "wikilink")。
 
 19世紀末の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")を舞台に、殺人鬼"[ジャック・ザ・リッパー](../Page/切り裂きジャック.md "wikilink")"を追う新聞記者と、彼が出会う人々との間の物語である。
 

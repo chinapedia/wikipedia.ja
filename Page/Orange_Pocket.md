@@ -5,7 +5,7 @@
 
 ## 概要
 
-家庭用ゲーム機版は2004年4月28日に[ピオーネソフト](https://ja.wikipedia.org/wiki/ピオーネソフト "wikilink")より、ドリームキャスト版『〜 コルネット』とプレイステーション2版『〜 リュート』が発売されている。なお、この2本で追加されたキャラクターが異なり、ドリームキャスト版では全く新しいキャラが、プレイステーション2版ではサブキャラが1人攻略対象として追加されている。また、家庭用の初回限定版の特典はドラマCD+原画集という構成は同じだが、その内容もこの2本で異なる。また、この時期に発売されたソフトでは珍しく、DC版・PS2版とも[CEROレーティングはなかった](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")。また、2005年7月14日には[電脳CLUB](https://ja.wikipedia.org/wiki/電脳CLUB "wikilink")より[DVD PlayersGame版が発売された他](https://ja.wikipedia.org/wiki/DVD_PlayersGame "wikilink")、2006年8月4日にはブレインポリスより[FOMA](../Page/FOMA.md "wikilink") 900iシリーズ向けの配信も開始されている。
+家庭用ゲーム機版は2004年4月28日に[ピオーネソフト](https://ja.wikipedia.org/wiki/ピオーネソフト "wikilink")より、ドリームキャスト版『〜 コルネット』とプレイステーション2版『〜 リュート』が発売されている。なお、この2本で追加されたキャラクターが異なり、ドリームキャスト版では全く新しいキャラが、プレイステーション2版ではサブキャラが1人攻略対象として追加されている。また、家庭用の初回限定版の特典はドラマCD+原画集という構成は同じだが、その内容もこの2本で異なる。また、この時期に発売されたソフトでは珍しく、DC版・PS2版とも[CEROレーティングはなかった](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")。また、2005年7月14日には[電脳CLUB](https://ja.wikipedia.org/wiki/電脳CLUB "wikilink")より[DVD PlayersGame版が発売された他](https://ja.wikipedia.org/wiki/DVD_PlayersGame "wikilink")、2006年8月4日にはブレインポリスより[FOMA](../Page/FOMA.md "wikilink") 900iシリーズ向けの配信も開始されている。
 
 ## ストーリー
 

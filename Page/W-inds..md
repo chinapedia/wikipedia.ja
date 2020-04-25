@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - 2004年、初の海外単独公演を[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で開催する。なお台湾では、3rdアルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』が総合チャートで1位を獲得。日本人男性歌手としては初、女性を含めても[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")と[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")に次いで史上3組目であった。2006年には宇多田ヒカルと浜崎あゆみを抜き、台湾にてアルバム4作連続首位獲得という外国人アーティスト初の快挙を成し遂げた。
+  - 2004年、初の海外単独公演を[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で開催する。なお台湾では、3rdアルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』が総合チャートで1位を獲得。日本人男性歌手としては初、女性を含めても[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")と[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")に次いで史上3組目であった。2006年には宇多田ヒカルと浜崎あゆみを抜き、台湾にてアルバム4作連続首位獲得という外国人アーティスト初の快挙を成し遂げた。
 
 <!-- end list -->
 
@@ -1802,7 +1802,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [ピンク パパラッチ](https://ja.wikipedia.org/wiki/ピンク_パパラッチ "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [ピンパパ](https://ja.wikipedia.org/wiki/ピンパパ "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [FUN](../Page/FUN.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [音楽通信](https://ja.wikipedia.org/wiki/音楽通信 "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))

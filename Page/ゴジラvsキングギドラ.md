@@ -1,4 +1,4 @@
-> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+> この記事は[ゴジラvsキングギドラ](https://ja.wikipedia.org/wiki/ゴジラvsキングギドラ)から翻訳されています。
 
 
 『**ゴジラvsキングギドラ**』（ゴジラたいキングギドラ、または、ゴジラ ブイエス キングギドラ）は1991年（平成3年）12月14日公開の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[特撮映画](../Page/特撮映画.md "wikilink")。[ゴジラ](../Page/ゴジラ.md "wikilink")シリーズの第18作。上映時間103分、カラー、[ビスタビジョン](../Page/ビスタビジョン.md "wikilink")（[パナビジョン](https://ja.wikipedia.org/wiki/画面アスペクト比#パナビジョン "wikilink")）。観客動員数は約270万人、配給収入は14億5000万円（1992年邦画配収第8位）を記録した。
@@ -167,7 +167,7 @@ DVDの大森一樹のコメントによれば、23世紀の日本の増長や一
   - [73式中型トラック](../Page/73式中型トラック.md "wikilink")
   - [73式小型トラック](https://ja.wikipedia.org/wiki/73式小型トラック#旧型（1973-1997年） "wikilink")
   - [1/4tトラック](../Page/三菱・ジープ.md "wikilink")
-  - [中砲けん引車](https://ja.wikipedia.org/wiki/中砲けん引車 "wikilink")
+  - [中砲けん引車](../Page/中砲けん引車.md "wikilink")
   - [偵察用オートバイ](https://ja.wikipedia.org/wiki/偵察用オートバイ "wikilink")
   - [75式ドーザ](../Page/75式ドーザ.md "wikilink")
   - [75式130mm自走多連装ロケット弾発射機](../Page/75式130mm自走多連装ロケット弾発射機.md "wikilink")

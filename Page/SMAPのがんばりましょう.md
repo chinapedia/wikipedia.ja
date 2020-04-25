@@ -24,7 +24,7 @@
 
 ## ドラマ
 
-水曜に放送されたドラマ第1弾『Naked Banana』は[橋部敦子](../Page/橋部敦子.md "wikilink")が脚本を担当し、ノベライズ版も出版された。第2弾の『Going Nuts』は[自転車キンクリート](https://ja.wikipedia.org/wiki/自転車キンクリート "wikilink")の[飯島早苗](https://ja.wikipedia.org/wiki/飯島早苗 "wikilink")が脚本を担当した。また、夏に総集編特番、本編終了後も年末に『Going Nuts』の完全版が放送され、1995年の[大晦日](../Page/大晦日.md "wikilink")には本番組のスペシャルという形でフジテレビの年越し番組（総集編とカウントダウンライヴの2部制）をSMAPが担当した。
+水曜に放送されたドラマ第1弾『Naked Banana』は[橋部敦子](../Page/橋部敦子.md "wikilink")が脚本を担当し、ノベライズ版も出版された。第2弾の『Going Nuts』は[自転車キンクリート](https://ja.wikipedia.org/wiki/自転車キンクリート "wikilink")の[飯島早苗](https://ja.wikipedia.org/wiki/飯島早苗 "wikilink")が脚本を担当した。また、夏に総集編スペシャル、本編終了後も年末に『Going Nuts』の完全版が放送され、1995年の[大晦日](../Page/大晦日.md "wikilink")には本番組のスペシャルという形でフジテレビの年越し番組（総集編とカウントダウンライヴの2部制）をSMAPが担当した。
 
 ### 出演者
 

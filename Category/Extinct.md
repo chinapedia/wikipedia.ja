@@ -22,7 +22,7 @@
 
 [Status_iucn3.1_EX.svg](https://ja.wikipedia.org/wiki/File:Status_iucn3.1_EX.svg "fig:Status_iucn3.1_EX.svg")
 
-1.  <span style="color: slateblue">Extinct</font> (EX) → [category](https://ja.wikipedia.org/wiki/Category:Extinct "wikilink")
+1.  <span style="color: slateblue">Extinct</span> (EX) → [category](https://ja.wikipedia.org/wiki/Category:Extinct "wikilink")
 2.  <span style="color: darkslateblue">Extinct in the Wild</span> (EW) → [category](https://ja.wikipedia.org/wiki/Category:Extinct_in_the_wild "wikilink")
 3.  <span style="color: orange">Threatened</span> → [category](https://ja.wikipedia.org/wiki/Category:Threatened "wikilink")
     1.  <span style="color: red">Critically Endangered</span> (CR) → [category](https://ja.wikipedia.org/wiki/Category:Critically_endangered "wikilink")

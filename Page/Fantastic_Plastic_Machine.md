@@ -7,13 +7,13 @@
 
 ## 略歴
 
-[京都市](../Page/京都市.md "wikilink")[上京区](../Page/上京区.md "wikilink")にて生まれる\[1\]。中学生のころから音楽に興味を持ち、[市立紫野高校時代から](../Page/京都市立紫野高等学校.md "wikilink")[龍谷大学](../Page/龍谷大学.md "wikilink")法学部在学時代までバンド活動をしていた\[2\]。 18歳のころ、[ディスコ](../Page/ディスコ.md "wikilink")で皿洗いのアルバイトをしていた関係でDJの存在を知り、人から勧められたこともあり、DJとしての活動を始めた\[3\]。この頃について田中は[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")とのインタビューの中で「バンドにターンテーブルを取り入れるなど、当時としては斬新なことをした」と振り返っている\[4\]。バンドとしてデビューする予定だったが、デビュー先のレコード会社が倒産したため、就職活動をせざるを得なくなり、アパレル会社へ入社し、出版社の誘いを受けて、雑誌編集者に転職した\[5\]。その間、週に一度の割合でDJとしての活動を行い、給料でレコードを購入していたが、レコード店には自分のほしい曲がないと感じており、楽曲制作を始めるようになった\[6\]。1995年、DJ活動の拡大に伴い辞職して上京する\[7\]。当時[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")のメンバーだった[小西康陽](../Page/小西康陽.md "wikilink")の誘いを受けてデビューアルバムを制作し、世界中で名前が知られるきっかけとなった\[8\]。 その後、世界中で活動を続けるが、2001年に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")がきっかけで自分がアジア人であるという認識が高まったため、アジアでの活動に重きを置いた\[9\]。
+[京都市](../Page/京都市.md "wikilink")[上京区](../Page/上京区.md "wikilink")にて生まれる\[1\]。中学生のころから音楽に興味を持ち、[市立紫野高校時代から](../Page/京都市立紫野高等学校.md "wikilink")[龍谷大学](../Page/龍谷大学.md "wikilink")法学部在学時代までバンド活動をしていた\[2\]。 18歳のころ、[ディスコ](../Page/ディスコ.md "wikilink")で皿洗いのアルバイトをしていた関係でDJの存在を知り、人から勧められたこともあり、DJとしての活動を始めた\[3\]。この頃について田中は[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")とのインタビューの中で「バンドにターンテーブルを取り入れるなど、当時としては斬新なことをした」と振り返っている\[4\]。バンドとしてデビューする予定だったが、デビュー先のレコード会社が倒産したため、就職活動をせざるを得なくなり、アパレル会社へ入社。その後出版社の誘いを受けて、雑誌編集者に転職した\[5\]。その間、週に一度の割合でDJとしての活動を行い、給料でレコードを購入していたが、レコード店には自分のほしい曲がないと感じ、楽曲制作を始めるようになった\[6\]。1995年、DJ活動の拡大に伴い辞職して上京する\[7\]。当時[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")のメンバーだった[小西康陽](../Page/小西康陽.md "wikilink")の誘いを受けてデビューアルバムを制作し、世界中で名前が知られるきっかけとなった\[8\]。 その後、世界中で活動を続けるが、2001年に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")がきっかけで自分がアジア人であるという認識が高まったため、アジアでの活動に重きを置いた\[9\]。
 
-‘97年『The Fantastic Plastic Machine』でデビュー以降、8枚のオリジナルアルバムをリリース。2004年に立ち上げたDJ-MIXシリーズ『Sound Concierge』は、これまでに全11作を発表し、いずれも異例のセールスを記録している。
+1995年にリリースされたピチカート・ファイブのアルバム『ロマンチック’96』の中に、自身のソロ・プロジェクトFantastic Plastic Machine＝FPM 名義の楽曲「ジェット機のハウス」が収録されメジャーデビュー。その後、‘97年『The Fantastic Plastic Machine』に1stアルバムをリリース。2004年に立ち上げたDJ-MIXシリーズ『Sound Concierge』は、これまでに全11作を発表し、いずれも異例のセールスを記録している。
 
-多数のアーティストのプロデュースも手掛けており、リミキサーとしても、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[くるり](../Page/くるり.md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")、THE BPA（[FATBOY SLIMことノーマン](../Page/ファットボーイ・スリム.md "wikilink")・クックによるプロジェクト）、Howie Bなど100曲以上の作品を手掛けている。
+多数のアーティストのプロデュースも手掛けており、リミキサーとしても、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")、[くるり](../Page/くるり.md "wikilink")、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")、THE BPA（[FATBOY SLIMことノーマン](../Page/ファットボーイ・スリム.md "wikilink")・クックによるプロジェクト）、Howie Bなど100曲以上の作品を手掛けている。
 
-「[オースティン・パワーズ](../Page/オースティン・パワーズ.md "wikilink")：デラックス」「[SEX AND THE CITY](../Page/セックス・アンド・ザ・シティ.md "wikilink")」への楽曲提供の他、[村上隆](../Page/村上隆.md "wikilink")が[ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")の為に手掛けた短編アニメーションの楽曲制作、[UNIQLOや](../Page/ユニクロ.md "wikilink")[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など大手企業のCM音楽、[グランフロント大阪](https://ja.wikipedia.org/wiki/グランフロント大阪 "wikilink")など商業施設のBGM制作など活躍の場は多岐に渡る。
+「[オースティン・パワーズ](../Page/オースティン・パワーズ.md "wikilink")：デラックス」「[SEX AND THE CITY](../Page/セックス・アンド・ザ・シティ.md "wikilink")」への楽曲提供の他、[村上隆](../Page/村上隆.md "wikilink")が[ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")の為に手掛けた短編アニメーションの楽曲制作、[UNIQLOや](../Page/ユニクロ.md "wikilink")[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")など大手企業のCM音楽、[グランフロント大阪](https://ja.wikipedia.org/wiki/グランフロント大阪 "wikilink")など商業施設のBGMも制作。
 
 DJとしては、日本国内はすでに全都道府県を制覇、海外でも約50都市でのプレイ実績を誇り、近年でも出演イベント数は年間100本を軽く超える。
 
@@ -21,7 +21,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 
 活動の幅は音楽のみに留まらず、過去には大手アパレル企業でMDとして、また某ファッション誌でエディターの経験もあり、時計や車などへの造詣も深い。特にヴィンテージ・ウェアのコレクター/マニアとしては知る人ぞ知る存在である。
 
-自身のブランド、ListやConnecteeのディレクターとしての顔も。
+自身のブランド、ListやConnecteeのディレクターとしての顔もある。
 
 ## ディスコグラフィ
 
@@ -454,6 +454,38 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div></li>
 </ol></td>
 <td><p>Rhythm REPUBLIC</p></td>
+</tr>
+<tr class="odd">
+<td><p>6th</p></td>
+<td><p>2014年1月22日</p></td>
+<td><p><strong>Scale Remixes</strong></p></td>
+<td></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>収録曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>CURIOSITY (Ko-Matsushima &amp; Erich Logan Remix)</li>
+<li>GIMME UR BEAT (Hoshina Anniversary Remix)</li>
+<li>1000 FACES (DJ Mykal a.k.a.林哲儀 &amp; Pilot K 'MKP' Transition Remix)</li>
+<li>TOKYO (TJO &amp; YUSUKE from BLU-SWING Remix)</li>
+<li>OTHER STORIES (Norihito Ogawa Remix)</li>
+<li>STREAMLINER (KILL THE HERO REMIX)</li>
+<li>DAREMOSHIRANAI (Ken Oshima Remix)</li>
+<li>BRING DA NOISE (Booty Bronx Funk Remix)</li>
+<li>TOKYO (TACOAGE 2020 MIX)</li>
+<li>CURIOSITY (JACKKN Remix)</li>
+<li>DAREMOSHIRANAI (Koji Miyatake Remix)</li>
+<li>STREAMLINER (el poco maro Remix)</li>
+<li>TOKYO (TJO &amp; YUSUKE from BLU-SWING Twisted Dub)</li>
+<li>DAREMOSHIRANAI (Tha Under Stars[副島ショーゴ,今泉タカシ] Remix)</li>
+<li>OTHER STORIES (KNOXX Remix)</li>
+<li>GO FOR BROKE (KAN TAKAHIKO Remix)</li>
+<li>OTHER STORIES (Lady Citizen Kamogawa Remix)</li>
+</ol>
+</div></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1062,7 +1094,7 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 <td></td>
 <td><p>AVCD-93272</p></td>
 <td></td>
-<td><p>3枚組(Alone+Rapture+Moment)</p></td>
+<td><p>3枚組(Alone+Rapture+Lust)</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
@@ -1354,39 +1386,86 @@ VICL-63932</p></td>
 
 ### CM音楽
 
-  - [フローフシ](http://flowfushi.com/)「まつげ美容液」(2016.11)
-  - [フローフシ](http://flowfushi.com/) 「MOTELINER」(2016.09)
-  - 洋服の青山 「n♡line Precious 2016年秋冬」(2016.09)
-  - [フローフシ](http://flowfushi.com/) 「MOTEMASCARA 2016」(2016.09)
-  - ポンテヴェキオ「ポンテヴェキオウェディング」(2016.05)
-  - [フローフシ](http://flowfushi.com/) 「イオン デ クッション ®」(2016.04)
-  - アサヒグループ食品 「MINTIA」(2016.03)
-  - [フローフシ](http://flowfushi.com/)「THE まつげ美容液」(2015.10)
-  - [フローフシ](http://flowfushi.com/) 「モテマスカラ ONE」(2015.08)
-  - ヤクルト 「ジョア プリンセス編」(2015.05)
-  - [フローフシ](http://flowfushi.com/)「モテライナー」(2014.11)
-  - [フローフシ](http://flowfushi.com/)「モテマスカラ2」(2014.10)
-  - [フローフシ](http://flowfushi.com/)「モテマスカラ」(2014.06)
-  - [ジャパンゲートウェイ](https://ja.wikipedia.org/wiki/ジャパンゲートウェイ "wikilink") 「Voloute」(2014.05)
-  - [バスクリン](https://ja.wikipedia.org/wiki/バスクリン "wikilink") 「きき湯ファインヒート」(2013.10)
-  - [リクルート](../Page/リクルートホールディングス.md "wikilink") 「受験サプリ」(2013.8)
-  - [花王](../Page/花王.md "wikilink") 「ウルトラアタックneo」(2013.8)
+:\***2013年**
+
+:\*\* [花王](../Page/花王.md "wikilink")「[ウルトラアタックneo](../Page/アタック_\(洗剤\).md "wikilink")」（8月）
+
+:\*\* [リクルート](../Page/リクルートホールディングス.md "wikilink")「受験サプリ」（8月）
+
+:\*\* [バスクリン](https://ja.wikipedia.org/wiki/バスクリン "wikilink")「きき湯ファインヒート」（10月）
+
+:\***2014年**
+
+:\*\* [ジャパンゲートウェイ](https://ja.wikipedia.org/wiki/ジャパンゲートウェイ "wikilink")「Voloute」（5月）
+
+:\*\* [フローフシ](http://flowfushi.com/)「モテマスカラ」（6月）
+
+:\*\* フローフシ「モテマスカラ2」（10月）
+
+:\*\* フローフシ「モテライナー」（11月）
+
+:\***2015年**
+
+:\*\* [ヤクルト](../Page/ヤクルト.md "wikilink")「[ジョア](https://ja.wikipedia.org/wiki/ジョア_\(飲料\) "wikilink") プリンセス編」（5月）
+
+:\*\* フローフシ「モテマスカラ ONE」（8月）
+
+:\*\* フローフシ「THE まつげ美容液」 （10月）
+
+:\***2016年**
+
+:\*\* [アサヒグループ食品](https://ja.wikipedia.org/wiki/アサヒグループ食品 "wikilink")「[MINTIA](../Page/ミンティア.md "wikilink")」（3月）
+
+:\*\* フローフシ「イオン デ クッション ®」（4月）
+
+:\*\* ポンテヴェキオ「ポンテヴェキオウェディング」（5月）
+
+:\*\* フローフシ「MOTEMASCARA 2016」（9月）
+
+:\*\* [洋服の青山](../Page/青山商事.md "wikilink") 「n♡line Precious 2016年秋冬」（9月）
+
+:\*\* フローフシ「MOTELINER」（9月）
+
+:\*\* フローフシ「まつげ美容液」（11月）
+
+:\***2017年**
+
+:\*\* フローフシ 「モテマスカラ THE ANSWER」（9月）
+
+:\*\* [三菱商事](../Page/三菱商事.md "wikilink") 企業 CM（9月）
+
+:\*\* [サッポロビール](../Page/サッポロビール.md "wikilink")「[ヱビスビール](../Page/ヱビスビール.md "wikilink")」（10月）\[10\]
+
+:\***2018年**
+
+:\*\* [大塚製薬](../Page/大塚製薬.md "wikilink")「[ファイブミニ](https://ja.wikipedia.org/wiki/ファイブミニ "wikilink")」 「[仲里依紗](https://ja.wikipedia.org/wiki/仲里依紗 "wikilink")のキレイをつなぐ 1 週間」（5月）
+
+:\***2019年**
+
+:\*\* [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「ANA SUPER VALUE」（6月）
+
+:\*\* [サンヨー食品](../Page/サンヨー食品.md "wikilink")「[サッポロ一番](https://ja.wikipedia.org/wiki/サッポロ一番 "wikilink") [カップスター](https://ja.wikipedia.org/wiki/カップスター "wikilink") ダンス篇」（9月）
+
+:\***2020年**
+
+:\*\* 全身脱毛サロン KIREIMO（3月）
+
   - [ビックロ](https://ja.wikipedia.org/wiki/ビックロ "wikilink") 「新宿店オープンTVCM」
-  - [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") 「ECONAVI」
-  - [大塚製薬](../Page/大塚製薬.md "wikilink") 「ネイチャーメイド スーパーシリーズ」
-  - [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink") 「生茶」 Like A Virgin - [2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink") produced by FPM (原曲は[MADONNA](https://ja.wikipedia.org/wiki/MADONNA "wikilink")) 2012年3月28日にリリースされる、[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")のアルバムに収録。インターネット・ラジオ Block fm 「Hyper Society」(2012年3月15日放送回)にて、制作にまつわる話と共に発売予定はないとされる「Like A Virgin(Long Mix)」が初公開された。
-  - [カネボウ](../Page/カネボウ.md "wikilink") 「ブランシールスペリア」
-  - [大塚製薬](../Page/大塚製薬.md "wikilink") 「ネイチャーメイド スーパーシリーズ」
-  - [UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink") 「夏チノ・夏カーゴ」
-  - [UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink") 「新チノ・新カーゴ」
-  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink") 「リバイタル グラナス」
-  - [UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink") 「UT ALL STARS」
-  - [UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink") 「UT ZOOM\!」
-  - [UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink") 「UT」
-  - [shu uemura](https://ja.wikipedia.org/wiki/shu_uemura "wikilink")「UV アンダーベースムース」
+  - [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink") 「ECONAVI」
+  - [大塚製薬](../Page/大塚製薬.md "wikilink")「ネイチャーメイド スーパーシリーズ」
+  - [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[生茶](../Page/生茶.md "wikilink")」 Like A Virgin - [2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink") produced by FPM （原曲は[マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")）\[11\]
+  - [カネボウ](../Page/カネボウ.md "wikilink")「ブランシール スペリア」
+  - 大塚製薬「ネイチャーメイド スーパーシリーズ」
+  - [ユニクロ](../Page/ユニクロ.md "wikilink")「夏チノ・夏カーゴ」
+  - ユニクロ「新チノ・新カーゴ」
+  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[リバイタルグラナス](https://ja.wikipedia.org/wiki/REVITAL_GRANAS "wikilink")」
+  - ユニクロ「UT ALL STARS」
+  - ユニクロ「UT ZOOM\!」
+  - ユニクロ「UT」
+  - [SHU UEMURA](https://ja.wikipedia.org/wiki/シュウ_ウエムラ_アート_オブ_ヘアー "wikilink")「UV アンダーベースムース」
   - [ロッテ](../Page/ロッテ.md "wikilink")「キシリトールエクシー」
-  - [花王](../Page/花王.md "wikilink") 「ビオレ ふくだけコットン」
-  - [サッポロ](../Page/サッポロホールディングス.md "wikilink") 「スリムス」
+  - 花王「[ビオレ](../Page/ビオレ.md "wikilink") ふくだけコットン」
+  - サッポロビール「[スリムス](https://ja.wikipedia.org/wiki/スリムス "wikilink")」
 
 ・・・その他多数。
 
@@ -1396,7 +1475,7 @@ VICL-63932</p></td>
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | アーティスト                                                                                                                            | タイトル                                                                                      | リリース日                                                                                                        | 収録されているアルバム                                                                                                                                                                         |
 | [PUFFY](../Page/PUFFY.md "wikilink")                                                                                              | 渚にまつわるエトセトラ -TAKE ME TO THE DISC-                                                         | [1999年](../Page/1999年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")                                   | PRMX                                                                                                                                                                                |
-| [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")                                                                           | WHATEVER "FPM's WINTER BOSSA"                                                             | [2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")                                       | ayu-mi-x II version JPN                                                                                                                                                             |
+| [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                                                                                              | WHATEVER "FPM's WINTER BOSSA"                                                             | [2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")                                       | ayu-mi-x II version JPN                                                                                                                                                             |
 | [松田聖子](../Page/松田聖子.md "wikilink")                                                                                                | あなたに逢いたくて(FPM MIX for Lovers)                                                             | 2000年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")                                                 | seiko remixes 2000                                                                                                                                                                  |
 | [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")                                                                    | JIRENMA(FPM Young Soul Mix)                                                               | [2001年](../Page/2001年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")                                       | fragile/JIRENMA                                                                                                                                                                     |
 | atami                                                                                                                             | NIGHTINGALE(FPM MIX FOR BEAUTIFUL DAYS)                                                   | 2001年[1月31日](../Page/1月31日.md "wikilink")                                                                    | MICA                                                                                                                                                                                |
@@ -1433,7 +1512,7 @@ VICL-63932</p></td>
 | [GRUM](https://ja.wikipedia.org/wiki/GRUM "wikilink")                                                                             | Can't Shake This Feeling(FPM EVERLUST MIX)                                                | 2010年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")                                                 | Heartbeats                                                                                                                                                                          |
 | [THE YOUNG PUNX\!](https://ja.wikipedia.org/wiki/THE_YOUNG_PUNX! "wikilink")                                                      | SUGARCANDYSUPERNOVA(FPM GUITAR HEROES MIX)                                                | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | MASHPOP AND PUNKSTEP                                                                                                                                                                |
 | [SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")                                                                 | キャラメルフレーバー (FPM EVERLUST MIX)                                                             | 2010年[11月10日](../Page/11月10日.md "wikilink")                                                                  | キャラメルフレーバー (FPM EVERLUST MIX) - Single                                                                                                                                              |
-| [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")                                                                           | Virgin Road (FPM EVERLUST mix)                                                            | [2011年](../Page/2011年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")                                     | ayu-mi-x 7 -version HOUSE-                                                                                                                                                          |
+| [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                                                                                              | Virgin Road (FPM EVERLUST mix)                                                            | [2011年](../Page/2011年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")                                     | ayu-mi-x 7 -version HOUSE-                                                                                                                                                          |
 | [globe](https://ja.wikipedia.org/wiki/globe "wikilink")                                                                           | Feel Like dance (FPM EVERLUST REMIX)                                                      | [2011年](../Page/2011年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")                                     | house of globe                                                                                                                                                                      |
 | [ジミ・シジミ](https://ja.wikipedia.org/wiki/ジミ・シジミ "wikilink")                                                                         | シジミの女 (FPM EVERLUST REMIX)                                                                | [2011年](../Page/2011年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")                                     | シジミの女 - Single                                                                                                                                                                      |
 | [布袋寅泰](../Page/布袋寅泰.md "wikilink")                                                                                                | BAD FEELING (FPM EVERLUST mix)                                                            | [2011年](../Page/2011年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")                                     | ALL TIME SUPER GUEST                                                                                                                                                                |
@@ -1442,24 +1521,35 @@ VICL-63932</p></td>
 | [IU](https://ja.wikipedia.org/wiki/IU "wikilink")                                                                                 | You＆I (Japanese Version\[FPM TECHNORCHESTRA MIX\])                                        | [2012年](../Page/2012年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")                                     | You\&I（Japanese Version）- Single                                                                                                                                                    |
 | [Nick Wood](https://ja.wikipedia.org/wiki/Nick_Wood "wikilink")                                                                   | Maracaña (FPM + i-dep Hyper Society Mix)                                                  | [2014年](../Page/2014年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")                                     | Saudé Passion - Inspired by the World Cup 2014 (feat. Michael Jade, Silvio Anastacio & Tabatha Fher)                                                                                |
 | [MONKEY MAJIK](../Page/MONKEY_MAJIK.md "wikilink")                                                                                | Change -FPM LEGENDARY HOUSE MIX-                                                          | [2014年](../Page/2014年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")                                     | 夏の情事 - Single                                                                                                                                                                       |
-| [HowieB](https://ja.wikipedia.org/wiki/HowieB "wikilink")                                                                         | Master Inch Mile Haunch (FPM Remix)                                                       |                                                                                                              |                                                                                                                                                                                     |
+| [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")                                                                          | Damned feat. FPM                                                                          | 2014年8月13日                                                                                                   | SKA ME FOREVER                                                                                                                                                                      |
+| [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")                                                                           | 小悪魔ヘヴン (FPM EURODISCO MIX)                                                                | 2015年7月1日                                                                                                    | GACKTracks -ULTRA DJ ReMIX-                                                                                                                                                         |
+| [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")                                                                                    | キミとのキセキ -Remix by FPM-                                                                    | 2015年7月1日                                                                                                    | KIS-MY-WORLD                                                                                                                                                                        |
+| [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")                                                                    | \#SELFIE 〜ONNA Now〜 (FPM REMIX)                                                           | 2015年7月22日                                                                                                   | \#SELFIE ～ ONNA Now ～                                                                                                                                                               |
+| [HowieB](https://ja.wikipedia.org/wiki/HowieB "wikilink")                                                                         | Master Inch Mile Haunch (FPM Remix)                                                       | 2016年3月16日                                                                                                   | <bdi>Motions \[Best Killer Remixes & Produce works by FPM\]</bdi>                                                                                                                   |
+| DJ Mykal a.k.a.林哲儀                                                                                                                | RKNIIFTR (FPM Remix)                                                                      | 2017年5月24日                                                                                                   | RKNIIFTR                                                                                                                                                                            |
+| ROOTS66 Party with 松野家６兄弟                                                                                                         | レッツゴー！ムッツゴー！～６色の虹～                                                                        | 2017年10月16日                                                                                                  | レッツゴー！ムッツゴー！～６色の虹～                                                                                                                                                                  |
+| [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")                                                                          | Believer feat. Emicida and Fióti FPM Remix                                                | 2018年3月14日                                                                                                   | GLORIOUS                                                                                                                                                                            |
+| [徳澤青弦](../Page/徳澤青弦.md "wikilink")                                                                                                | カジャラのテーマ(FPM 4/4 MIX)                                                                     | 2019年2月20日                                                                                                   | カジャラの音楽その2                                                                                                                                                                          |
+| Ursula 1000                                                                                                                       | Laka and Lono (FPM Remix)                                                                 | 2019年10月1日                                                                                                   | Esoterique                                                                                                                                                                          |
+| [フィロソフィーのダンス](https://ja.wikipedia.org/wiki/フィロソフィーのダンス "wikilink")                                                               | ダンス・ファウンダー FPM Never Ever Mix                                                             | 2020年3月6日                                                                                                    | SAPIOSEXUAL                                                                                                                                                                         |
 
 この他にも多数のリミックスが存在しこれまでに約100曲のリミックス曲を手がけている。
 
 ## ミュージックビデオ
 
-|                                                                                                                                                         |                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **監督**                                                                                                                                                  | **曲名**                                                                                                                                                             |
-| [ENLIGHTMENT](https://ja.wikipedia.org/wiki/ENLIGHTMENT "wikilink")                                                                                     | 「SEX」                                                                                                                                                              |
-| [OLIVIER KUNZEL](https://ja.wikipedia.org/wiki/OLIVIER_KUNZEL "wikilink") & [FLORENCE DEYGAS](https://ja.wikipedia.org/wiki/FLORENCE_DEYGAS "wikilink") | 「[Reaching for the Stars](https://www.youtube.com/watch?v=3TinX6-hCWk)」                                                                                            |
-| [KOICHI MAKINO](https://ja.wikipedia.org/wiki/KOICHI_MAKINO "wikilink")                                                                                 | 「[Without You feat.MONKEY MAJIK](https://www.youtube.com/watch?v=RPp-U8FjsFs)」                                                                                     |
-| [木乃村美穂](https://ja.wikipedia.org/wiki/木乃村美穂 "wikilink")(MIHO KINOMURA)                                                                                  | 「[BEAUTIFUL DAYS](https://www.youtube.com/watch?v=l-baM0t3H90)」「[Why Not?](https://www.youtube.com/watch?v=j3gYvVoBo0Y)」                                           |
-| [groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")                                                                                     | 「[don't you know? feat.CLAZZIQUAI PROJECT](https://www.youtube.com/watch?v=t9sgiqWGgMQ)」                                                                           |
-| [中村剛](../Page/中村剛_\(映像ディレクター\).md "wikilink")                                                                                                           | 「TAKE ME TO THE DISCO」                                                                                                                                             |
-| [NAMIKIBASHI](../Page/NAMIKIBASHI.md "wikilink")                                                                                                        | 「[Tell Me](https://www.youtube.com/watch?v=NShtumWXNuw)」(出演:[小林賢太郎](../Page/小林賢太郎.md "wikilink"))                                                                  |
-| 不明                                                                                                                                                      | 「BACHELOR PAD」「[City Lights](https://www.youtube.com/watch?v=dY0C00rhXVc)」「愛しのミスター・セールスマン」「[I WAS IN LOVE feat.細美武士](https://www.youtube.com/watch?v=toJiTu0yC8o)」 |
-|                                                                                                                                                         |                                                                                                                                                                    |
+|                                                                                                                                                         |                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **監督**                                                                                                                                                  | **曲名**                                                                                                                   |
+| [ENLIGHTMENT](https://ja.wikipedia.org/wiki/ENLIGHTMENT "wikilink")                                                                                     | 「SEX」                                                                                                                    |
+| [OLIVIER KUNZEL](https://ja.wikipedia.org/wiki/OLIVIER_KUNZEL "wikilink") & [FLORENCE DEYGAS](https://ja.wikipedia.org/wiki/FLORENCE_DEYGAS "wikilink") | 「[Reaching for the Stars](https://www.youtube.com/watch?v=3TinX6-hCWk)」                                                  |
+| [KOICHI MAKINO](https://ja.wikipedia.org/wiki/KOICHI_MAKINO "wikilink")                                                                                 | 「[Without You feat.MONKEY MAJIK](https://www.youtube.com/watch?v=RPp-U8FjsFs)」                                           |
+| [木乃村美穂](https://ja.wikipedia.org/wiki/木乃村美穂 "wikilink")(MIHO KINOMURA)                                                                                  | 「[BEAUTIFUL DAYS](https://www.youtube.com/watch?v=l-baM0t3H90)」「[Why Not?](https://www.youtube.com/watch?v=j3gYvVoBo0Y)」 |
+| [groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")                                                                                     | 「[don't you know? feat.CLAZZIQUAI PROJECT](https://www.youtube.com/watch?v=t9sgiqWGgMQ)」                                 |
+| [中村剛](../Page/中村剛_\(映像ディレクター\).md "wikilink")                                                                                                           | 「TAKE ME TO THE DISCO」                                                                                                   |
+| [NAMIKIBASHI](../Page/NAMIKIBASHI.md "wikilink")                                                                                                        | 「[Tell Me](https://www.youtube.com/watch?v=NShtumWXNuw)」(出演:[小林賢太郎](../Page/小林賢太郎.md "wikilink"))                        |
+| GUTSON TG INC.                                                                                                                                          | 「[I WAS IN LOVE feat.細美武士](https://www.youtube.com/watch?v=toJiTu0yC8o)」                                                 |
+| 不明                                                                                                                                                      | 「BACHELOR PAD」「[City Lights](https://www.youtube.com/watch?v=dY0C00rhXVc)」「愛しのミスター・セールスマン」                               |
+|                                                                                                                                                         |                                                                                                                          |
 
 ## 主なライブ出演(海外)
 
@@ -1499,16 +1589,16 @@ VICL-63932</p></td>
 ## 関連項目
 
   - [小西康陽](../Page/小西康陽.md "wikilink")
-  - [砂原良徳](../Page/砂原良徳.md "wikilink")
   - [大沢伸一](../Page/大沢伸一.md "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [ravex](https://ja.wikipedia.org/wiki/ravex "wikilink")
-  - [UNICORN](../Page/UNICORN.md "wikilink")
   - [小林賢太郎](../Page/小林賢太郎.md "wikilink")
-  - [為末大](../Page/為末大.md "wikilink")
-  - [ATSUSHI](../Page/Dragon_Ash.md "wikilink")
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -1519,7 +1609,11 @@ VICL-63932</p></td>
   -
   - （スタッフアカウント）
 
+  - [FPM official](https://www.instagram.com/fpm_official/) (@fpm_official) - Instagram (スタッフアカウント）
+
   -
+  - [FPM 公式YouTubeチャンネル](https://www.youtube.com/user/fpmxxxxx)
+
 [Category:ハウスミュージシャン](https://ja.wikipedia.org/wiki/Category:ハウスミュージシャン "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:京都市出身の人物](https://ja.wikipedia.org/wiki/Category:京都市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink")
 
 1.
@@ -1531,3 +1625,5 @@ VICL-63932</p></td>
 7.
 8.
 9.
+10. 韓国のみOA
+11. 2012年3月28日にリリースされる、[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")のアルバムに収録。[インターネットラジオ](../Page/インターネットラジオ.md "wikilink") [block.fm](https://ja.wikipedia.org/wiki/block.fm "wikilink")『Hyper Society』（2012年3月15日放送回）にて、制作にまつわる話と共に発売予定はないとされる「Like A Virgin (Long Mix)」が初公開された。

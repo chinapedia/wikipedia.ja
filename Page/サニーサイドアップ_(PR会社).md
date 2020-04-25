@@ -17,7 +17,7 @@
 
 2015年7月にSSU DIVERSITY LABが企画した「卵子凍結補助制度」を、日本の民間企業として初めて導入した。
 
-カジュアルレストラン「bills」の運営会社など計10社の関連会社を持つ。
+オールデイダイニング「bills」の運営会社など計10社の関連会社を持つ。
 
 ## 沿革
 
@@ -49,33 +49,37 @@
   - [飯島寛子](https://ja.wikipedia.org/wiki/飯島寛子 "wikilink")（エッセイスト）
   - [五十嵐亮太](../Page/五十嵐亮太.md "wikilink")（ベースボール選手）
   - [浦田聖子](../Page/浦田聖子.md "wikilink")（ビーチバレーボール選手）
-  - [木戸愛](https://ja.wikipedia.org/wiki/木戸愛 "wikilink")（ゴルフ選手）
+  - [木戸愛](https://ja.wikipedia.org/wiki/木戸愛 "wikilink")（ゴルフ選手）※過去に所属
   - [白井健三](https://ja.wikipedia.org/wiki/白井健三 "wikilink")（体操選手）
   - [村主章枝](https://ja.wikipedia.org/wiki/村主章枝 "wikilink")（フィギュアスケート選手）
-  - [手塚翔太](https://ja.wikipedia.org/wiki/手塚翔太 "wikilink")（プロウェイクボーダー）
+  - [手塚翔太](https://ja.wikipedia.org/wiki/手塚翔太 "wikilink")（プロウェイクボーダー）※過去に所属
   - [徳田耕太郎](https://ja.wikipedia.org/wiki/徳田耕太郎 "wikilink")（フリースタイルフットボール）
   - [中田英寿](../Page/中田英寿.md "wikilink")（元サッカー選手）
   - [前園真聖](../Page/前園真聖.md "wikilink")（スポーツジャーナリスト）
-  - [矢野貴章](../Page/矢野貴章.md "wikilink")（サッカー選手）
+  - [矢野貴章](../Page/矢野貴章.md "wikilink")（サッカー選手）※過去に所属
   - [米田功](../Page/米田功.md "wikilink")（メンタルトレーナー）
+  - 江島大祐（プロフェッショナルスイマー）
+  - 齋田悟司（車椅子テニスプレイヤー）
+  - 二條実穂（元車椅子テニスプレイヤー）
+  - 土田真由美（車椅子バスケットプレイヤー）
 
 ### スペシャリスト
 
   - [紙谷太朗](https://ja.wikipedia.org/wiki/紙谷太朗 "wikilink")（ティアラデザイナー）
   - [瀬戸勝之](https://ja.wikipedia.org/wiki/瀬戸勝之 "wikilink")（3Dサウンドデザイナー/プロデューサー）
-  - [高橋和](../Page/高橋和.md "wikilink")（将棋棋士）
-  - 早野実希子（薬剤師・セラピスト）
-  - [吉田真希子](../Page/吉田真希子_\(タレント\).md "wikilink")（ビューティフードアドバイザー）
+  - [高橋和](../Page/高橋和.md "wikilink")（将棋棋士）※過去に所属
+  - 早野実希子（薬剤師・セラピスト）※過去に所属
+  - [吉田真希子](../Page/吉田真希子_\(タレント\).md "wikilink")（ビューティフードアドバイザー）※過去に所属
   - [コシノジュンコ](../Page/コシノジュンコ.md "wikilink")（デザイナー）
   - [ビル・グレンジャー](https://ja.wikipedia.org/wiki/ビル・グレンジャー "wikilink")（レストランター）
-  - コヤマススム（パティシエ/ショコラティエ）
+  - コヤマススム（パティシエ/ショコラティエ）※過去に所属
 
 ### アライアンス
 
   - [佐藤直子](../Page/佐藤直子.md "wikilink")（テニス）
   - [徳本一善](../Page/徳本一善.md "wikilink")（陸上競技）
   - [中井孝治](../Page/中井孝治.md "wikilink")（スノーボーディング）
-  - [名和秋](https://ja.wikipedia.org/wiki/名和秋 "wikilink")（[ボウリング](../Page/ボウリング.md "wikilink")）
+  - [名和秋](https://ja.wikipedia.org/wiki/名和秋 "wikilink")（[ボウリング](../Page/ボウリング.md "wikilink")）※過去に所属
 
 ## 参考文献
 

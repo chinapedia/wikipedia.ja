@@ -11,7 +11,7 @@
 
 まもなく父が早世したため、母方の日本国籍を選択する。[1933年](../Page/1933年.md "wikilink")より『[ジャパン・アドバタイザー](https://ja.wikipedia.org/wiki/ジャパン・アドバタイザー "wikilink")』（[ジャパンタイムズ](../Page/ジャパンタイムズ.md "wikilink")の前身の1つ）の[給仕](https://ja.wikipedia.org/wiki/給仕 "wikilink")として苦学した後に[記者](../Page/記者.md "wikilink")へ昇進したが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の勃発に伴い、日本人であるにもかかわらず外国人収容所に一時拘束され、釈放後は日本人として徴兵されて転戦した。これらの半生は、自伝『ぼくは日本兵だった』に綴られている。ハリスによれば、当時はハリスと同様、日本人とヨーロッパ人の混血の兵士が何人かおり、彼らと友誼を交わしたという。また、当時は[日本語](../Page/日本語.md "wikilink")の会話は問題なかったが、読み書きはほぼ出来ず、[日記](../Page/日記.md "wikilink")などは[英語](../Page/英語.md "wikilink")で書いていたという\[1\]。
 
-戦後は旺文社で教材開発や経営にも携わる一方、『[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")』（[文化放送](../Page/文化放送.md "wikilink")・[ラジオたんぱ](../Page/日経ラジオ社.md "wikilink")、[1952年](../Page/1952年.md "wikilink")-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、『[百万人の英語](../Page/百万人の英語.md "wikilink")』（[日本教育テレビ](../Page/テレビ朝日.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")、[1958年](../Page/1958年.md "wikilink")-[1992年](../Page/1992年.md "wikilink")）の講師を永年務め、全国の受験生を指導して[遠隔教育](https://ja.wikipedia.org/wiki/遠隔教育 "wikilink")の発展にも尽力した。
+戦後は旺文社で教材開発や経営にも携わる一方、『[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")』（[文化放送](../Page/文化放送.md "wikilink")・[ラジオたんぱ](../Page/日経ラジオ社.md "wikilink")、[1952年](../Page/1952年.md "wikilink")-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、『[百万人の英語](../Page/百万人の英語.md "wikilink")』（[日本教育テレビ](../Page/テレビ朝日.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")、[1958年](../Page/1958年.md "wikilink")-[1992年](../Page/1992年.md "wikilink")）の講師を永年務め、全国の受験生を指導して[遠隔教育](../Page/遠隔教育.md "wikilink")の発展にも尽力した。
 
 [2004年](../Page/2004年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")、[肺気腫](../Page/肺気腫.md "wikilink")のために死去。
 

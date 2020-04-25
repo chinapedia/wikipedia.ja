@@ -68,8 +68,7 @@
 
   - 水　[亀谷哲也](../Page/亀谷哲也.md "wikilink")
   - 火　中桐康介
-  - 月、木[池田弥生](../Page/池田弥生.md "wikilink")
-  - 金　西崎梨乃
+  - 月、木、金 [池田弥生](../Page/池田弥生.md "wikilink")
 
 ### 過去の担当者
 
@@ -89,6 +88,7 @@
   - 森下由香
   - [松田愛里](https://ja.wikipedia.org/wiki/松田愛里 "wikilink")
   - [鴨居真理子](../Page/鴨居真理子.md "wikilink")
+  - 西崎梨乃
 
 ## 外部リンク
 

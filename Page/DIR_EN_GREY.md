@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本を始め世界各国で活動し、アルバム『[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")』は世界17ヵ国で同時期発売され、米[ビルボード](../Page/ビルボード.md "wikilink")誌の「[Top Heatseekers](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")」チャートでは1位を、「」チャートで9位をそれぞれ記録している\[2\]。ライヴ活動も各国で積極的に行っており、南米を含む全米からヨーロッパ、アジア、オーストラリアまで計30カ国で公演を行っている（2019年7月現在）。[オリコン調べに於ける](../Page/オリコンチャート.md "wikilink")[平成](../Page/平成.md "wikilink")期での[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総売上は、2,835,048枚である（※1989年1月23日付〜2019年5月6日付。）。
+日本を始め世界各国で活動し、アルバム『[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")』は世界17ヵ国で同時期発売され、米[ビルボード](../Page/ビルボード.md "wikilink")誌の「[Top Heatseekers](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")」チャートでは1位を、「Top Independent Albums」チャートで9位をそれぞれ記録している\[2\]。ライヴ活動も各国で積極的に行っており、南米を含む全米からヨーロッパ、アジア、オーストラリアまで計30カ国で公演を行っている（2019年7月現在）。[オリコン調べに於ける](../Page/オリコンチャート.md "wikilink")[平成](../Page/平成.md "wikilink")期での[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総売上は、2,835,048枚である（※1989年1月23日付〜2019年5月6日付。）。
 
 ### 音楽性
 
@@ -304,7 +304,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 11月2日、ワシントン州シアトルでの公演を皮切りに2年ぶりとなる北米ツアーを敢行。アメリカ、カナダの各都市にて全7公演を行なう。 また、その日程のなかばにあたる11月7日にはメキシコに立ち寄り、“JAPAN LIVE 2015”と銘打たれたメキシコシティでのイベントにも出演。 さらに12月には北京、広州、上海の3都市を巡演する中国ツアーも実現している。
 
-2015年は[sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")、[DECAYS](https://ja.wikipedia.org/wiki/DECAYS "wikilink")などメンバー個々の動きも活発化した1年となったが、 世界各地での精力的なライヴ活動を通じて、バンドの揺るぎなさが改めて実証されることにもなった。
+2015年は[sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")、DECAYSなどメンバー個々の動きも活発化した1年となったが、 世界各地での精力的なライヴ活動を通じて、バンドの揺るぎなさが改めて実証されることにもなった。
 
 #### 2016年 - 結成20周年に向けて〜「TOUR16-17 FROM DEPRESSION TO <span style="speak:none">________</span>」、「詩踏み」発表
 
@@ -3090,19 +3090,7 @@ TOUR2013 TABULA RASA -揚羽ノ羽ノ夢ハ蛹-</p></td>
 <p>10会場全7公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p><s>3月27日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</s><br />
-<s>3月28日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</s><br />
-<s>4月1日 仙台GIGS</s><br />
-<s>4月4日 カナモトホール（札幌市民ホール）</s><br />
-<s>4月9日 なんばHatch</s><br />
-<s>4月10日 なんばHatch</s><br />
-4月16日 Zepp Nagoya<br />
-4月18日 静岡市民文化会館 中ホール<br />
-4月22日 新木場STUDIO COAST<br />
-4月23日 新木場STUDIO COAST<br />
-5月6日 カナモトホール（札幌市民ホール）<br />
-5月8日 仙台GIGS<br />
-5月11日 なんばHatch<br />
+<p>5月11日 なんばHatch<br />
 5月12日 なんばHatch<br />
 5月14日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-<br />
 5月15日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</p></td>

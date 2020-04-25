@@ -22,7 +22,7 @@
 
   - [ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系、1992年 - 2003年）
   - 第24回[日本歌謡大賞](../Page/日本歌謡大賞.md "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1993年11月16日。この年を最後に終了となった）
-  - [HEY\!HEY\!HEY\!MUSIC CHAMPの生放送特番](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（MUSIC AWARDSなど）（フジテレビ系、1997年他）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMPの生放送特番](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（MUSIC AWARDSなど）（フジテレビ系、1997年他）
   - [SASUKE](https://ja.wikipedia.org/wiki/SASUKE "wikilink")第1回メイン会場（[TBS系](../Page/TBSテレビ.md "wikilink")、1997年9月）
   - [とくばん](../Page/うたばん.md "wikilink")（TBS系、1997年10月・1998年4月）
   - 第33回[日本有線大賞](../Page/日本有線大賞.md "wikilink")（TBS系、2000年12月15日）

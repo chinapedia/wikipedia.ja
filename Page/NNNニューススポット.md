@@ -11,7 +11,7 @@
 
 1990年代前半頃までは[二ヶ国語放送](https://ja.wikipedia.org/wiki/二ヶ国語放送 "wikilink")（一部地域を除く）、2001年4月2日より裏番組のフジテレビ（[FNN](../Page/フジニュースネットワーク.md "wikilink")）『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』とともに民放で初のニュース番組において[字幕放送を行った](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")（字幕は事前にニュース原稿を基に作成し、放送開始と共に自動送出される。いわゆる[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")ではなかった）\[1\]\[2\]。ただし、速報的なニュースや現場からの生中継を伴うニュースの場合には行われないこともあった（その場合、字幕には「都合により、字幕を中止いたします。」と表示された）。
 
-大晦日など『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』や『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』などの最終ニュース休止で23時以降も長時間番組の中でニュースコーナーがない場合は、この番組がその日の最終便ニュース番組となる場合もあった（なお、2007年の大晦日から2008年の正月三が日はこの番組の放送自体がなかった）。
+大晦日など『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』や『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』などの最終ニュース休止で23時以降も長時間番組の中でニュースコーナーがない場合は、この番組がその日の最終便ニュース番組となる場合もあった（なお、2007年の大晦日から2008年の正月三が日はこの番組の放送自体がなかった）。
 
 また、かつては午後にも放送され、一部地域でネット放送され、[日本テレビのアナウンサーが](../Page/日本テレビ放送網.md "wikilink")1〜3項目のニュースを伝えていたが、[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")いっぱいで終了した。さらに遡れば、『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』放送開始までは月〜金曜日の13:55からの放送もあった。
 
@@ -263,7 +263,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <td><p>1980年代の一時期、ローカルニュースに差し替えの時期あり（『<a href="https://ja.wikipedia.org/wiki/ニューススポット広島テレビ" title="wikilink">ニューススポット広島テレビ</a>』として）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KRY_NNNニューススポット" title="wikilink">KRY NNNニューススポット</a></p></td>
 <td></td>
 <td></td>

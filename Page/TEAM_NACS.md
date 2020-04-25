@@ -94,7 +94,7 @@
 
 ## 略史
 
-前述の再結成後、1998年に正式に演劇ユニットとして始動する。当時は大泉と安田以外の三人はOFFICE CUE所属ではなかった。しかし、1999年に森崎、2000年に戸次と音尾が移籍した事で全員がOFFICE CUE所属となった\[7\]。メンバーの移籍及び公演制作には、OFFICE CUE社長で現会長の[鈴井貴之](../Page/鈴井貴之.md "wikilink")の前妻である[伊藤亜由美](../Page/伊藤亜由美.md "wikilink")が副社長（当時は鈴井亜由美）であった頃から手掛けており、鈴井は自身も演劇人であるという立場から介入していない\[8\]。なお、大学時代に森崎が手掛けた演劇研究会の芝居『CHAIR』を鈴井が雑誌で批評し、森崎と論争になった事がある\[9\]。
+前述の再結成後、1998年に正式に演劇ユニットとして始動する。当時は大泉と安田以外の三人はOFFICE CUE所属ではなかった。しかし、1999年に森崎、2000年に戸次と音尾が移籍した事で全員がOFFICE CUE所属となった\[7\]。メンバーの移籍及び公演制作には、当時OFFICE CUE社長で現会長の[鈴井貴之](../Page/鈴井貴之.md "wikilink")の前妻である[伊藤亜由美](../Page/伊藤亜由美.md "wikilink")（当時は鈴井亜由美）が副社長であった頃から手掛けており、鈴井貴之は自身も演劇人であるという立場から介入していない\[8\]。なお、大学時代に森崎が手掛けた演劇研究会の芝居『CHAIR』を鈴井貴之が雑誌で批評し、森崎と論争になった事がある\[9\]。
 
 [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")「水曜どうでしょう」のヒットをきっかけに大泉目当てに演劇に関心のない人が足を運ぶようになり札幌での公演は観客数が伸び\[10\]、このほか2001年から2004年まで北海道テレビで放送された『[ドラバラ鈴井の巣](../Page/ドラバラ鈴井の巣.md "wikilink")』にレギュラー出演。2003年には同局で冠番組『[ハナタレナックス](../Page/ハナタレナックス.md "wikilink")』の放送が開始。2020年現在もNACS唯一のレギュラー番組として放送中である。
 
@@ -669,7 +669,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
 [\*](https://ja.wikipedia.org/wiki/カテゴリ:TEAM_NACS "wikilink") [カテゴリ:CREATIVE OFFICE CUE](https://ja.wikipedia.org/wiki/カテゴリ:CREATIVE_OFFICE_CUE "wikilink") [カテゴリ:日本の演劇ユニット](https://ja.wikipedia.org/wiki/カテゴリ:日本の演劇ユニット "wikilink") [カテゴリ:北海道のローカルタレント](https://ja.wikipedia.org/wiki/カテゴリ:北海道のローカルタレント "wikilink") [カテゴリ:アミューズ](https://ja.wikipedia.org/wiki/カテゴリ:アミューズ "wikilink")
 
-[Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")
+[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")
 
 1.  平成流転-文化の30年- 演劇編（上）ナックス「北海道愛」胸に全国へ - 北海道新聞2018年10月22日朝刊13面
 2.

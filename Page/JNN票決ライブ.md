@@ -28,7 +28,7 @@
   - 参議院選開票特別番組「選挙スタジアム'95」 （1995年参院選）司会者：[三雲孝江](../Page/三雲孝江.md "wikilink")・杉尾秀哉・田丸美寿々
   - 衆院選開票特別番組「総選挙ライブネット'96」（1996年衆院選）司会者：三雲孝江・杉尾秀哉・田丸美寿々・筑紫哲也（解説）・[佐古忠彦](../Page/佐古忠彦.md "wikilink")
 
-他局の開票特番では夕方のニュースに見られるワイドショーのような演出が多い中で、民放では唯一選挙特番らしい番組といえる。 かつては、民間委託の通信員を各開票所に派遣、各候補の得票状況を[プッシュホン](https://ja.wikipedia.org/wiki/プッシュホン "wikilink")で報告させ、コンピューターでまとめる集計をしていた。しかし、1996年実施の[衆議院総選挙から](https://ja.wikipedia.org/wiki/第41回衆議院議員総選挙 "wikilink")「[小選挙区比例代表並立制](https://ja.wikipedia.org/wiki/小選挙区比例代表並立制 "wikilink")」が導入され、作業の長時間化による通信員の負担（開票開始から開票完了報告までが活動時間）が増加することが見込まれたために、この手法は廃止された。
+他局の開票特番では夕方のニュースに見られるワイドショーのような演出が多い中で、民放では唯一選挙特番らしい番組といえる。 かつては、民間委託の通信員を各開票所に派遣、各候補の得票状況を[プッシュホン](https://ja.wikipedia.org/wiki/プッシュホン "wikilink")で報告させ、コンピューターでまとめる集計をしていた。しかし、1996年実施の[衆議院総選挙から](../Page/第41回衆議院議員総選挙.md "wikilink")「[小選挙区比例代表並立制](https://ja.wikipedia.org/wiki/小選挙区比例代表並立制 "wikilink")」が導入され、作業の長時間化による通信員の負担（開票開始から開票完了報告までが活動時間）が増加することが見込まれたために、この手法は廃止された。
 
 ## 関連項目
 
@@ -39,6 +39,6 @@
   - [乱\!参院選2010](https://ja.wikipedia.org/wiki/乱!参院選2010 "wikilink")（2010年の参院選開票特別番組）
   - [乱\!総選挙2012](https://ja.wikipedia.org/wiki/乱!総選挙2012 "wikilink")（2012年の衆院選開票特別番組）
   - [参議院議員通常選挙](../Page/参議院議員通常選挙.md "wikilink")：[第17回（1995年）](https://ja.wikipedia.org/wiki/第17回参議院議員通常選挙 "wikilink")
-  - [衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")：[第41回（1996年）](https://ja.wikipedia.org/wiki/第41回衆議院議員総選挙 "wikilink")
+  - [衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")：[第41回（1996年）](../Page/第41回衆議院議員総選挙.md "wikilink")
 
 [Category:JNN番組の歴史](https://ja.wikipedia.org/wiki/Category:JNN番組の歴史 "wikilink") [Category:TBSの特別番組](https://ja.wikipedia.org/wiki/Category:TBSの特別番組 "wikilink") [Category:日本の選挙番組](https://ja.wikipedia.org/wiki/Category:日本の選挙番組 "wikilink")

@@ -47,7 +47,7 @@
   - [海上自衛隊](../Page/海上自衛隊.md "wikilink")向け：桜に錨にW
   - [航空自衛隊](../Page/航空自衛隊.md "wikilink")向け：桜に翼にW
 
-陸上自衛隊向けの調達は終了し、海上・航空自衛隊向けの調達のみが継続されていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度予算から陸上自衛隊向けの調達が再開された。 {{-}}
+陸上自衛隊向けの調達は終了し、海上・航空自衛隊向けの調達のみが継続されていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度予算から陸上自衛隊向けの調達が再開された。{{-}}
 
 ## 運用
 
@@ -63,7 +63,7 @@
 
 ### 陸上自衛隊
 
-[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")において[拳銃](../Page/拳銃.md "wikilink")は[幹部自衛官](../Page/自衛官.md "wikilink")\[19\]、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の[車長](https://ja.wikipedia.org/wiki/指揮官 "wikilink")（中隊長以上、それ以下は８９式小銃の折曲銃床式を携行する）、[84mm無反動砲](../Page/カールグスタフ_\(無反動砲\).md "wikilink")（A/B）手、[01式軽対戦車誘導弾](../Page/01式軽対戦車誘導弾.md "wikilink")手、[79式対舟艇対戦車誘導弾](../Page/79式対舟艇対戦車誘導弾.md "wikilink")および[87式対戦車誘導弾](../Page/87式対戦車誘導弾.md "wikilink")の操作手たる陸曹、[警務官](../Page/警務官.md "wikilink")などが装備するが、[2000年代](../Page/2000年代.md "wikilink")に入ってからは、市街地戦闘訓練や海外派遣時に一般の隊員も拳銃を装備するようになった。[中央即応連隊](../Page/中央即応連隊.md "wikilink")では大半の隊員が装備しているが、員数分配備されていないのが現状である。
+[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")において[拳銃](../Page/拳銃.md "wikilink")は3佐以上の[幹部自衛官](../Page/自衛官.md "wikilink")\[19\]、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")の[車長](https://ja.wikipedia.org/wiki/指揮官 "wikilink")（他の戦車乗員は８９式小銃の折曲銃床式を携行する）、[84mm無反動砲](../Page/カールグスタフ_\(無反動砲\).md "wikilink")（A/B）の砲手、[01式軽対戦車誘導弾](../Page/01式軽対戦車誘導弾.md "wikilink")手、[79式対舟艇対戦車誘導弾](../Page/79式対舟艇対戦車誘導弾.md "wikilink")および[87式対戦車誘導弾](../Page/87式対戦車誘導弾.md "wikilink")の操作手たる陸曹、[警務官](../Page/警務官.md "wikilink")などが装備するが、[2000年代](../Page/2000年代.md "wikilink")に入ってからは、市街地戦闘訓練や海外派遣時に一般の隊員も拳銃を装備するようになった。[中央即応連隊](../Page/中央即応連隊.md "wikilink")では大半の隊員が装備しているが、員数分配備されていないのが現状である。
 
 配備に合わせ[射撃競技会や射撃検定に](https://ja.wikipedia.org/wiki/戦技競技会 "wikilink")『9mm拳銃の部』が新設された。
 
@@ -82,7 +82,7 @@
 
 ### 航空自衛隊
 
-[幹部自衛官](../Page/自衛官.md "wikilink")、[基地警備隊](https://ja.wikipedia.org/wiki/基地警備隊 "wikilink")、基地防空隊、[警務官](../Page/警務官.md "wikilink")などが装備する。 {{-}}
+[幹部自衛官](../Page/自衛官.md "wikilink")、[基地警備隊](https://ja.wikipedia.org/wiki/基地警備隊 "wikilink")、基地防空隊、[警務官](../Page/警務官.md "wikilink")などが装備する。{{-}}
 
 ## 後継
 

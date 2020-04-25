@@ -111,8 +111,8 @@
 
 ## 外部リンク
 
-  - [公式ブログ](http://ameblo.jp/mango-bongo/)
+  - [公式ブログ](https://ameblo.jp/mango-bongo/)
 
 [Category:日本のラッパー](https://ja.wikipedia.org/wiki/Category:日本のラッパー "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink")
 
-1.  FUJI ROCK FESTIVALの軌跡 '99[1](http://fujirockfestival.com/history/history99.html)
+1.

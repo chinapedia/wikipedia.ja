@@ -996,7 +996,7 @@
           - [ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")
       - [古代少女ドグちゃん](https://ja.wikipedia.org/wiki/古代少女ドグちゃん "wikilink")シリーズ
   - 一部地域ネット
-      - [ボイメン新世紀 祭戦士ワッショイダー](https://ja.wikipedia.org/wiki/ボイメン新世紀_祭戦士ワッショイダー "wikilink") - CBCテレビ・[BS11と共に製作委員会へ参加](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")。
+      - [ボイメン新世紀 祭戦士ワッショイダー](https://ja.wikipedia.org/wiki/ボイメン新世紀_祭戦士ワッショイダー "wikilink") - CBCテレビ・[BS11と共に製作委員会へ参加](../Page/日本BS放送.md "wikilink")。
   - 特別番組
       - [全員集合\!7人の仮面ライダー\!\!](../Page/全員集合!7人の仮面ライダー!!.md "wikilink")
       - [不滅の仮面ライダースペシャル](https://ja.wikipedia.org/wiki/不滅の仮面ライダースペシャル "wikilink")
@@ -1012,7 +1012,7 @@
 
 ### 現在放送中の番組
 
-  - ▲[ハイキュー\!\! TO THE TOP](https://ja.wikipedia.org/wiki/ハイキュー!!#アニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:55（金深夜））
+  - ▲[アルゴナビス from BanG Dream\!](https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream!#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:55（金深夜））
   - ▲[LISTENERS リスナーズ](../Page/LISTENERS_リスナーズ.md "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
   - ▲[波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ#テレビアニメ "wikilink")（[アニメイズム B2](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 2:25 - 2:55（金深夜））
   - [かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜#テレビアニメ "wikilink")（アニメシャワー、日 2:38 - 3:08〈土深夜〉） - UHFアニメ
@@ -1084,6 +1084,7 @@
       - [ハイキュー\!\!](https://ja.wikipedia.org/wiki/ハイキュー!!#アニメ "wikilink") ※HD・字幕&データ放送
           - ハイキュー\!\! セカンドシーズン - 深夜アニメ作品。※HD - UHFアニメ
           - ハイキュー\!\! 烏野高校 VS 白鳥沢学園高校 - 深夜アニメ作品。※HD - UHFアニメ
+          - ハイキュー\!\! TO THE TOP
       - [七つの大罪](https://ja.wikipedia.org/wiki/七つの大罪_\(漫画\)#テレビアニメ "wikilink") ※HD・字幕&データ放送
           - 七つの大罪 聖戦の予兆 ※HD・字幕&データ放送
           - 七つの大罪 戒めの復活
@@ -1137,7 +1138,7 @@
       - [Persona4 the Animation](https://ja.wikipedia.org/wiki/ペルソナ4#Persona4_the_Animation "wikilink") ※HD
           - Persona4 the Golden Animation ※HD・字幕・データ放送
       - [妖狐×僕SS](https://ja.wikipedia.org/wiki/妖狐×僕SS#テレビアニメ "wikilink") ※HD・字幕放送
-      - [黒子のバスケシリーズ](https://ja.wikipedia.org/wiki/黒子のバスケ_\(アニメ\) "wikilink") ※HD//[BS11製作委員会参加](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")・MBS製作協力のUHFアニメ
+      - [黒子のバスケシリーズ](https://ja.wikipedia.org/wiki/黒子のバスケ_\(アニメ\) "wikilink") ※HD//[BS11製作委員会参加](../Page/日本BS放送.md "wikilink")・MBS製作協力のUHFアニメ
       - [夏色キセキ](https://ja.wikipedia.org/wiki/夏色キセキ "wikilink") ※HD
       - [じょしらく](https://ja.wikipedia.org/wiki/じょしらく#テレビアニメ "wikilink") ※HD
       - [K](https://ja.wikipedia.org/wiki/K_\(アニメ\) "wikilink") ※HD
@@ -1530,7 +1531,7 @@
 
   - [番組表](https://www.mbs.jp/timetable/) - [MBS](../Page/毎日放送.md "wikilink")
 
-[Category:のテレビ番組](https://ja.wikipedia.org/wiki/Category:のテレビ番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
+[Category:毎日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビ番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 
 1.  2009年3月まで「TBS」の略称は『東京放送』が使用していたが、2009年4月に同社が[放送持株会社](../Page/放送持株会社.md "wikilink")「[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")」（略称TBSHD）となり、「[TBSテレビ](../Page/TBSテレビ.md "wikilink")」が「東京放送」からテレビ放送免許、テレビ放送事業および映像・文化事業に関する権利・義務とともに「TBS」の略称を承継している。
 2.  開局時に旧・[大阪テレビ放送](../Page/大阪テレビ放送.md "wikilink")から移行。

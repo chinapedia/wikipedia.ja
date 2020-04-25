@@ -60,18 +60,28 @@
 
 ### 派生型
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:UP-2J.jpg "wikilink") 派生型として**UP-2J**多用途機があり、53年度から59年度にかけて4機の改造を行った。UP-2Jは、艦艇部隊を支援する訓練支援機と電子戦データ収集機に大別され、それぞれの機体が用途に応じて異なったシステムを搭載した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:UP-2J.jpg "wikilink")
+
+##### 多用途機
+
+53年度から59年度にかけて4機が**UP-2J**多用途機に改造された。
+
+艦艇部隊を支援する訓練支援機と電子戦データ収集機に大別され、下記のように、それぞれの機体が用途に応じて異なったシステムを搭載した。
 
   - UP-2J 9161号機（旧4717号機）
-    ファィアビー高速標的機発進装置とスリーブ型ターゲットえい航装置を搭載し、さらに艦艇搭載用電子戦機器の評価用に対艦ミサイルを模擬したミサイルシーカー・シミュレータ装置も装備した。
+    ファィアビー高速標的機発進装置とスリーブ型ターゲット曳航装置を搭載し、さらに艦艇搭載用電子戦機器の評価用に対艦ミサイルを模擬したミサイルシーカー・シミュレータ装置も装備した。
   - UP-2J 9162号機（旧4719号機）
-    スリーブ型ターゲットえい航装置のほか、訓練用電波妨害装置（「ECM」）とデータレコーダーを装備し、艦艇のレーダーに対し電波妨害を行うことで艦艇部隊の電子戦訓練を支援する機能を保持した。
+    スリーブ型ターゲット曳航装置のほか、訓練用電波妨害装置（「ECM」）とデータレコーダーを装備し、艦艇のレーダーに対し電波妨害を行うことで艦艇部隊の電子戦訓練を支援する機能を保持した。
   - UP-2J（E）9163号機（旧4757号機）及び9164号機（旧4763号機）
     外国艦艇等の電波諸元等を収集するための電子戦データ収集装置を装備した。
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[3月30日](../Page/3月30日.md "wikilink")、[第31航空群](../Page/第31航空群.md "wikilink")隷下に第81航空隊が編成されると同時に、これら4機のUP-2Jは、[岩国航空基地](https://ja.wikipedia.org/wiki/岩国航空基地 "wikilink")に移動した。その後、[標的曳航機](https://ja.wikipedia.org/wiki/標的曳航機 "wikilink")は[U-36Aへ](https://ja.wikipedia.org/wiki/リアジェット35 "wikilink")、ELINT機は[EP-3に更新されて](../Page/P-3_\(航空機\).md "wikilink")、1991年12月までに運用を終了した。
 
-またこの他の派生型として[可変特性研究機](../Page/運動能力向上機.md "wikilink")（旧P-2J 4716号機）がある。これは、P2V-7の可変特性研究機（, **VSA**）の可変特性機能をP-2Jに移設したもので、51空のテストパイロット教育用であった。
+##### 実験機
+
+[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")[技術研究本部](../Page/技術研究本部.md "wikilink")がP2V-7の[可変特性研究機](../Page/運動能力向上機.md "wikilink")（, **VSA**）\[1\]の機能をP-2J（旧P-2J 4716号機）に移設した機体が1機存在した。
+
+第51航空隊に配属された[テストパイロット](../Page/テストパイロット.md "wikilink")の教育に使用された。
 
 ### 配備部隊
 
@@ -157,3 +167,5 @@
   - [【空宙博】岐阜かかみがはら航空宇宙博物館公式ウェブサイト](http://www.sorahaku.net/)
 
 [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:海上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:海上自衛隊の装備品 "wikilink") [Category:川崎重工業製の航空機](https://ja.wikipedia.org/wiki/Category:川崎重工業製の航空機 "wikilink") [Category:ロッキードの航空機](https://ja.wikipedia.org/wiki/Category:ロッキードの航空機 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink")
+
+1.

@@ -27,7 +27,7 @@
   - Yu～ki（ユウキ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[8月8日](../Page/8月8日.md "wikilink")生まれ。\[6\]
     イメージカラーはイエローやオレンジ。
   - [Kami](../Page/Kami_\(ミュージシャン\).md "wikilink")（カミ、旧名：[右狂](https://ja.wikipedia.org/wiki/右狂 "wikilink")（ウキョウ)及び[神村右狂](https://ja.wikipedia.org/wiki/神村右狂 "wikilink")(カミムラ ウキョウ)、[1999年](../Page/1999年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に急逝） - [ドラム](../Page/ドラムセット.md "wikilink")&[パーカッション](../Page/パーカッション.md "wikilink") (加入前は[Kneuklid Romanceに所属](../Page/Kneuklid_Romance.md "wikilink")。)[2月1日](../Page/2月1日.md "wikilink")生まれ。 \[7\]
-    イメージカラーはパープル。
+    イメージカラーはパープルやピンク。
 
 ### 過去に在籍したメンバー
 
@@ -42,7 +42,7 @@
 
 ## 略歴
 
-  - [1992年](../Page/1992年.md "wikilink")[8月](../Page/8月.md "wikilink")、前身のバンド「**摩天楼**」が「MALICE MIZER」と「Knueklid Romance」「翡翠」へと分裂をし、Mana、Közi、KAIEが中心となり結成。（KAIEは即脱退）
+  - [1992年](../Page/1992年.md "wikilink")[8月](../Page/8月.md "wikilink")、前身のバンド「**摩天楼**」が「MALICE MIZER」と「Knueklid Romance」「翡翠」へと分裂をし、Mana、Közi、KAIEが中心となり結成。（KAIEは即脱退）\[9\]
   - [1993年](../Page/1993年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にドラムのGAZ（現：Knueklid Romance）脱退後、神村右狂（後に右狂→Kamiと改名）がサポート加入し、[6月20日](../Page/6月20日.md "wikilink")、正式メンバーとして、神村右狂が加入し活動開始。
       - 同年『BRAIN TRASH』『SPEED OF DESPERATE』『SANS LOGIQUE』『SADNESS』音源リリース。
   - [1994年](../Page/1994年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、『memoire』をシリアルナンバー入り3000枚限定6曲入りでリリース、予約で完売となる。[12月24日](../Page/12月24日.md "wikilink")にはデラックス盤として『バロック』を新録、ブックレット付BOX仕様でリリース。[12月27日](../Page/12月27日.md "wikilink")のLIVEでTETSU (Vo) 脱退、以後しばらく活動停止となる。
@@ -410,3 +410,4 @@ Box仕様 ブックレット付</p></td>
 6.  本人のTwitterのプロフィール欄より。https://mobile.twitter.com/Mother_of_Life_
 7.  ManaのTwitterより。「2.1 H.B Kami！」https://mobile.twitter.com/M_d_M_official/status/1223259702139555840
 8.
+9.  [MALICE MIZERは私とközi を中心に結成したということでたまには絡み2ショットとかどうかな？（Manaの公式Twitter並びにMoi dix Mois (モワ ディス モワ) の公式Twitter, 2020年1月29日](https://mobile.twitter.com/M_d_M_official/status/892753710794670081)

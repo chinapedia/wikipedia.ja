@@ -54,7 +54,7 @@ globe名義でリリースしたものは[globeのディスコグラフィを参
 ### 企画参加シングル
 
   - [YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink") / TK presents こねっと (1997/1/1)
-  - [a song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink") / [ayumi hamasaki](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") & keiko (2001/12/12)
+  - [a song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink") / [ayumi hamasaki](../Page/浜崎あゆみ.md "wikilink") & keiko (2001/12/12)
   - be true / Cyber X feat.KEIKO (2003/6/25)
   - AIDA決めてくれー\! (2002/5/29)
       - I WILL SURVIVE / [GABALL](../Page/GABALL.md "wikilink") featuring KEIKO

@@ -2,7 +2,7 @@
 
 
 **yukihiro**（ユキヒロ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[11月24日](../Page/11月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ドラマー](../Page/ドラマー.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
-[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[geek sleep sheepのドラマー](https://ja.wikipedia.org/wiki/geek_sleep_sheep "wikilink")。ソロプロジェクト・[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")[ヴォーカリストとして活動している](../Page/歌手.md "wikilink")。また、元[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、元[ZI:KILL](https://ja.wikipedia.org/wiki/Zi:Kill "wikilink")、[DIE IN CRIESのドラマー](../Page/DIE_IN_CRIES.md "wikilink")。L'Arc〜en〜Ciel加入以前の表記はYUKIHIRO。愛称は「ユッキー」。[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。所属事務所は[MAVERICK](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")。独身。
+[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[geek sleep sheepのドラマー](https://ja.wikipedia.org/wiki/geek_sleep_sheep "wikilink")。ソロプロジェクト・[acid androidの](https://ja.wikipedia.org/wiki/acid_android "wikilink")[ヴォーカリストとして活動している](../Page/歌手.md "wikilink")。また、元[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、元[ZI:KILL](https://ja.wikipedia.org/wiki/Zi:Kill "wikilink")、[DIE IN CRIESのドラマー](../Page/DIE_IN_CRIES.md "wikilink")。L'Arc〜en〜Ciel加入以前の表記はYUKIHIRO。愛称は「ユッキー」。[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。独身。所属事務所は[MAVERICK](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")。
 
 ## 概要
 
@@ -277,15 +277,17 @@ DVD</p></td>
 
 ### エピソード
 
-  - L'Arc〜en〜Ciel加入以前の呼び名は「先生」だった。これは、学生時代に[英語](../Page/英語.md "wikilink")と[数学](../Page/数学.md "wikilink")の[家庭教師](../Page/家庭教師.md "wikilink")をしていたことからである。また、ラルク以降も時々、特に[acid androidとして活動する際には](https://ja.wikipedia.org/wiki/acid_android "wikilink") 「先生」と呼ばれているが、概ね「ユッキー」の愛称が定着している。また、L'Arc〜en〜Cielのメンバー3人にとって元々バンドマンとして先輩だったため、加入当初kenやtetsuyaはどう呼んで良いか分からなかったらしい。hydeが前触れも無く不意に「ユッキー」と呼んだため、この愛称が定着した\[42\]。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に初めてラルクのレコーディングに参加したとき、hydeが水着を着ていてびっくりしたという（yukihiro本人は、水着と発覚するまで「ピチッとした半ズボン」だと思っていた）。また、hydeの初期の容貌から「綺麗な人」というイメージを持っていたため、いざhydeが登場したときにヒゲが生えていたことにもびっくりしたと語っている。
-  - ラルク加入以前はバンドマンたるものかくあるべし、というポリシーを断固として守っていた。例えば「半袖は着ない」「[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")には行かない」など。音楽以外に割く時間はないと、[自動車](../Page/自動車.md "wikilink")の[免許](../Page/免許.md "wikilink")も持っていなかった。しかし、ラルクに加入し、自然体のメンバーに大きな影響を受けた後は、ハワイも行き、半袖を着用するようになった。[1999年](../Page/1999年.md "wikilink")にはリーダーであるtetsuyaに「車の免許も取ったほうが良い」と言われ取得したことを、FMラジオで公言した。
-  - 非常にストイックな性格で、ラルクのプロデューサー[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")はレコーディングでのyukihiroについて完璧主義者と評しており、「自分の思い描いたビートが出るまで何十時間でも叩き続けている\[43\]」と述べている。また、ともにバンドを組んでいた[KYO](https://ja.wikipedia.org/wiki/kyo_\(ミュージシャン\) "wikilink")（[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")）も「レコーディングを延々にやってる。完璧主義者\[44\]」と述べている。
-      - しかし、ラルクのアルバム『[KISS](../Page/KISS_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』でのレコーディングでは、レコーディングに入る前に全曲1度仮で録ったことにより、以前よりドラム録りが早くなった\[45\]と述べている。
-  - 身長165cm、体重48kgと非常に細身の体型であり、担当のドラムも体力を使うパートなためか、ツアー中に体脂肪率を計ったところ、低すぎて計測不可能だった\[46\]。
-      - 食が細くライブの打ち上げなどで食事に出かけてもあまり食べないため、それを心配したラルクのメンバーが一つにまとめたセット（通称：ユッキーセット）を注文し食べさせている\[47\]。また、ライブ当日は基本的に、水、のど飴、[ウイダーinゼリー](https://ja.wikipedia.org/wiki/ウイダーinゼリー "wikilink")、[カロリーメイト](../Page/カロリーメイト.md "wikilink")ぐらいしか口にしない\[48\]。
+  - 非常にストイックな性格で、L'Arc〜en〜Cielの共同プロデューサー[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")はレコーディングでのyukihiroについて完璧主義者と評しており、「自分の思い描いたビートが出るまで何十時間でも叩き続けている\[42\]」「彼は凄く優秀なドラマーだし上手いんですけど、『yukihiro道』がありますね。最初はそれが理解できなくて、"テイクワンが素晴らしかったから、これでいいんじゃない？"とか言ってたんだけど、許してくれないんですよ。それでもう途中で諦めて、"好きなだけ叩いてください"という風になりました（笑）\[43\]」「精進を積み重ねた上で、もっと高いところへという志、それが『yukihiro道』なんですよ。それを理解するために彼とはいろいろ話をしましたね\[44\]」と述べている。また、ともにバンドを組む[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")は「良いの録れてるのにずっとやってる\[45\]」、[KYO](https://ja.wikipedia.org/wiki/kyo_\(ミュージシャン\) "wikilink")（[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、ex.[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")）は「レコーディングを延々にやってる。完璧主義者\[46\]」と述べている。
+      - L'Arc〜en〜Cielのシングル「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」のレコーディングではドラムを100回近く叩いたといい、ドラム録りに2日かかったという\[47\]。また、他の曲でもドラム録りだけで2、3日掛かることもあったといい、岡野ハジメは「普通だったらだいたい良いテイクが出来たら、ミスした部分をパンチ・インするなり、エディットしてOKになるんですけど、それを許してくれないんです\[48\]」と述べている。
+      - しかし、L'Arc〜en〜Cielのアルバム『[KISS](../Page/KISS_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』のレコーディングでは、レコーディングに入る前に全曲1度仮で録ったことにより、以前よりドラム録りが早くなった\[49\]といい、2012年のインタビューでは「ここ最近は誰かが"良いね"って言ってくれたら良いんだと思えるようになった。そうした方がレコーディングの現場って楽しくなるなあって（笑）...だから今まで迷惑かけてたのかなってちょっと反省してますね\[50\]」と述べている。
+  - 身長165cm、体重48kgと非常に細身の体型であり、担当のドラムも体力を使うパートなためか、ツアー中に体脂肪率を計ったところ、低すぎて計測不可能になったことがある\[51\]。
+      - 食が細くライブの打ち上げなどで食事に出かけてもあまり食べないため、それを心配したL'Arc〜en〜Cielのメンバーが一つにまとめたセット（通称：ユッキーセット）を注文し食べさせていたことがあった\[52\]。また、ライブ当日は基本的に、水、のど飴、[ウイダーinゼリー](https://ja.wikipedia.org/wiki/ウイダーinゼリー "wikilink")、[カロリーメイト](../Page/カロリーメイト.md "wikilink")ぐらいしか口にしないという\[53\]。
+  - L'Arc〜en〜Ciel加入以前の呼び名は「先生」だった。これは、学生時代に[英語](../Page/英語.md "wikilink")と[数学](../Page/数学.md "wikilink")の[家庭教師](../Page/家庭教師.md "wikilink")をしていたことからである。また、ラルク以降も時々、特に[acid androidとして活動する際には](https://ja.wikipedia.org/wiki/acid_android "wikilink") 「先生」と呼ばれているが、概ね「ユッキー」の愛称が定着している。また、L'Arc〜en〜Cielのメンバー3人にとって元々バンドマンとして先輩だったため、加入当初kenやtetsuyaはどう呼んで良いか分からなかったらしい。hydeが前触れも無く不意に「ユッキー」と呼んだため、この愛称が定着した\[54\]。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に初めてL'Arc〜en〜Cielのレコーディングに参加したとき、hydeが水着を着ていてびっくりしたという（yukihiro本人は、水着と発覚するまで「ピチッとした半ズボン」だと思っていた）。また、hydeの初期の容貌から「綺麗な人」というイメージを持っていたため、いざhydeが登場したときにヒゲが生えていたことにもびっくりしたと語っている。
+  - L'Arc〜en〜Ciel加入以前はバンドマンたるものかくあるべし、というポリシーを断固として守っていた。例えば「半袖は着ない」「[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")には行かない」など。音楽以外に割く時間はないと、[自動車](../Page/自動車.md "wikilink")の[免許](../Page/免許.md "wikilink")も持っていなかった。しかし、L'Arc〜en〜Cielに加入し、自然体のメンバーに大きな影響を受けた後は、ハワイも行き、半袖を着用するようになった。[1999年](../Page/1999年.md "wikilink")にはリーダーであるtetsuyaに「車の免許も取ったほうが良い」と言われ取得したことを、FMラジオで公言した。
   - バンド内でギターを担当していたこともある。しかし、パワーコードしか押さえなかったため、弦は4本しか張っていなかったらしい。
-  - ラルクでドラムを叩くことに対して、「凄いプレッシャーだよね。あの3人を前にして、俺がコケたら皆コケるわけじゃん？\[49\]」と発言していた。
+  - L'Arc〜en〜Cielに加入直後に発売したアルバム『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に関するインタビューにおいて、yukihiroは「前のラルクと違うと思われるのは当たり前だと思う」「ただ、カッコ悪くなったと思われるのは嫌だから、プレッシャーもあった\[55\]」と述べている。
+      - また、L'Arc〜en〜Cielでドラムを叩くことに対して、2009年発売のドキュメンタリービデオで「凄いプレッシャーだよね。あの3人を前にして、俺がコケたら皆コケるわけじゃん？\[56\]」と発言していた。
 
 ## 脚注
 
@@ -382,11 +384,18 @@ DVD</p></td>
 39.
 40. [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")『[V.I.P.](https://ja.wikipedia.org/wiki/V.I.P. "wikilink") ─L'Arc〜en〜Ciel─』[2011年](../Page/2011年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")放送
 41.
-42. [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系音楽番組『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』 2007年11月16日放送分より本人談
-43. 『ark 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
-44. JAMBORiii STATION番組『acid android / yukihiroの歴史を学ぶ！～KENTと大吾の勉強会～』
-45. 『WORDS II L'Arc〜en〜Ciel』角川書店、2010年
-46. 『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』特典DVDの問題より
-47. [NHK総合テレビ系音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[MUSIC STATION](https://ja.wikipedia.org/wiki/MUSIC_STATION "wikilink")』[2007年](../Page/2007年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")
+42. 『ark 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
+43. 『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.150-p.151、シンコーミュージック・エンタテイメント、2019年
+44.
+45. 『BUTTERFLY』完全生産限定盤特典DVD、[2012年](../Page/2012年.md "wikilink")
+46. JAMBORiii STATION番組『acid android / yukihiroの歴史を学ぶ！～KENTと大吾の勉強会～』
+47. 『R\&R NewsMaker』、p.28、2000年10月号
 48.
-49. DVD『[DOCUMENTARY FILMS 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/DOCUMENTARY_FILMS_〜Trans_ASIA_via_PARIS〜 "wikilink")』[キューンミュージック](../Page/キューンミュージック.md "wikilink")、[2009年](../Page/2009年.md "wikilink")
+49. 『WORDS II L'Arc〜en〜Ciel』角川書店、2010年
+50.
+51. 『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』特典DVDの問題より
+52. [NHK総合テレビ系音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[MUSIC STATION](https://ja.wikipedia.org/wiki/MUSIC_STATION "wikilink")』[2007年](../Page/2007年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")
+53.
+54. [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系音楽番組『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』 2007年11月16日放送分より本人談
+55. 『WHAT's IN? PICTORIAL』、p.24、ソニー・マガジンズ、1998年Vol.6
+56. DVD『[DOCUMENTARY FILMS 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/DOCUMENTARY_FILMS_〜Trans_ASIA_via_PARIS〜 "wikilink")』[キューンミュージック](../Page/キューンミュージック.md "wikilink")、[2009年](../Page/2009年.md "wikilink")

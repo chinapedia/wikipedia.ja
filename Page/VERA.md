@@ -44,6 +44,7 @@ VERAプロジェクトとは、相対VLBIの手法を用いて、[銀河系](../
   - [国立天文台](../Page/国立天文台.md "wikilink")
       - [水沢VLBI観測所](../Page/水沢VLBI観測所.md "wikilink")
       - [野辺山宇宙電波観測所](../Page/野辺山宇宙電波観測所.md "wikilink")
+      - VERA石垣島観測局
 
 #### 観測計画共同実施機関
 

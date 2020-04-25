@@ -57,4 +57,4 @@
 
   - [Week\!](http://avexnet.jp/item/doasi/disc/product/AVCD-30244.html) avex networkによる作品情報
 
-[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:TBS水曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS水曜10時枠の連続ドラマ主題歌 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:TBS水曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS水曜10時枠の連続ドラマ主題歌 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

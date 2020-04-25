@@ -132,11 +132,11 @@
   - [SPORT](../Page/すぽると!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [激スポ\!](../Page/激生!スポーツTODAY.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [水曜ロードショー](https://ja.wikipedia.org/wiki/水曜ロードショー_\(日本テレビ\) "wikilink")（日本テレビ）
-  - [JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")（[JNN系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")） - 1970年代の一時期のみ
-  - [金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")（日本テレビ）
+  - [JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")（[JNN系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")） - 1970年代の一時期のみ
+  - [金曜ロードショー](../Page/金曜ロードSHOW!.md "wikilink")（日本テレビ）
   - [驚きももの木20世紀](../Page/驚きももの木20世紀.md "wikilink")（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")）
   - [世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")（日テレ）※長年提供していた[タケダの後継](../Page/武田薬品工業.md "wikilink")。
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")（日テレ・水曜中盤ナショナルセールス枠）※2017年4月より2019年3月まで。
+  - [NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")（日テレ・水曜中盤ナショナルセールス枠）※2017年4月より2019年3月まで。
   - [おぎやはぎの愛車遍歴 NO CAR, NO LIFE\!](https://ja.wikipedia.org/wiki/おぎやはぎの愛車遍歴_NO_CAR,_NO_LIFE! "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")）
   - 平井堅 NOW ON AIR 〜やっと逢えたね〜 ([レディオキューブ FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink"))
   - [トラック野郎](https://ja.wikipedia.org/wiki/トラック野郎 "wikilink")シリーズ（[東映](../Page/東映.md "wikilink")）※ニットータイヤ

@@ -24,19 +24,19 @@
 
 ### 過去
 
-  - [岩澤忠彦](https://ja.wikipedia.org/wiki/岩澤忠彦 "wikilink")（現・[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")長、元NHK放送文化研究所長）
-  - [大出岳史](https://ja.wikipedia.org/wiki/大出岳史 "wikilink")（現・[NHK北見放送局](../Page/NHK北見放送局.md "wikilink")局長）
-  - [小川浩司](../Page/小川浩司.md "wikilink")（現・[NHK千葉放送局](../Page/NHK千葉放送局.md "wikilink")）
-  - [合田敏行](https://ja.wikipedia.org/wiki/合田敏行 "wikilink")（現・[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")）
-  - [北村紀一郎](../Page/北村紀一郎.md "wikilink")（現・[NHK岡山放送局](../Page/NHK岡山放送局.md "wikilink")）
-  - [柴田実](https://ja.wikipedia.org/wiki/柴田実_\(アナウンサー\) "wikilink")
-  - [杉原満](../Page/杉原満.md "wikilink")（現・[NHK放送センター](../Page/NHK放送センター.md "wikilink")）
-  - [田中孝宜](../Page/田中孝宜.md "wikilink")（現・[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink")）
-  - [田中浩史](https://ja.wikipedia.org/wiki/田中浩史 "wikilink")（現・[跡見学園女子大学](https://ja.wikipedia.org/wiki/跡見学園女子大学 "wikilink")教授）
-  - [田中学](https://ja.wikipedia.org/wiki/田中学_\(アナウンサー\) "wikilink")
-  - [中尾晃一郎](../Page/中尾晃一郎.md "wikilink")（現・[NHK金沢放送局](../Page/NHK金沢放送局.md "wikilink")）
-  - [松本和也](../Page/松本和也.md "wikilink")（現・[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属）
-  - [山田亜樹](https://ja.wikipedia.org/wiki/山田亜樹 "wikilink") (現・[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink"))
+  - [岩澤忠彦](https://ja.wikipedia.org/wiki/岩澤忠彦 "wikilink")(いわさわ・ただひこ)（現・[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")長、元NHK放送文化研究所長）
+  - [大出岳史](https://ja.wikipedia.org/wiki/大出岳史 "wikilink")(おおで・たけし)（現・[NHK北見放送局](../Page/NHK北見放送局.md "wikilink")局長）
+  - [小川浩司](../Page/小川浩司.md "wikilink")(おがわ・こうじ)（現・[NHK千葉放送局](../Page/NHK千葉放送局.md "wikilink")）
+  - [合田敏行](https://ja.wikipedia.org/wiki/合田敏行 "wikilink")(ごうだ・としゆき)（現・[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")）
+  - [北村紀一郎](../Page/北村紀一郎.md "wikilink")(きたむら・きいちろう)（現・[NHK岡山放送局](../Page/NHK岡山放送局.md "wikilink")）
+  - [柴田実](https://ja.wikipedia.org/wiki/柴田実_\(アナウンサー\) "wikilink")(しばた・みのる)
+  - [杉原満](../Page/杉原満.md "wikilink")(すぎはら・みつる)（現・[NHK放送センター](../Page/NHK放送センター.md "wikilink")）
+  - [田中孝宜](../Page/田中孝宜.md "wikilink")(たなか・たかのぶ)（現・[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink")）
+  - [田中浩史](https://ja.wikipedia.org/wiki/田中浩史 "wikilink")(たなか・ひろふみ)（現・[跡見学園女子大学](https://ja.wikipedia.org/wiki/跡見学園女子大学 "wikilink")教授）
+  - [田中学](https://ja.wikipedia.org/wiki/田中学_\(アナウンサー\) "wikilink")(たなか・まなぶ)
+  - [中尾晃一郎](../Page/中尾晃一郎.md "wikilink")(なかお・こういちろう)（現・[NHK金沢放送局](../Page/NHK金沢放送局.md "wikilink")）
+  - [松本和也](../Page/松本和也.md "wikilink")(まつもと・かずや)（現・[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属）
+  - [山田亜樹](https://ja.wikipedia.org/wiki/山田亜樹 "wikilink")(やまだ・あき) (現・[NHKラジオセンター](../Page/NHKラジオセンター.md "wikilink"))
 
 ## 外部リンク
 

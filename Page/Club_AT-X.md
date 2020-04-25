@@ -179,7 +179,7 @@
 ### だぶるあ〜る
 
   - [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink") (R-1、R-I)
-  - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink") (R-2、R-II)
+  - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink") (R-2、R-II)
   - ナレーター: [萩原えみこ](../Page/萩原えみこ.md "wikilink")（代理： [水野マリコ](https://ja.wikipedia.org/wiki/水野マリコ "wikilink")）
 
 \#153（2008年10月2日）から\#230（2011年12月18日）。2011年6月で32か月になり、これまでのサブタイトル（サブタイトルなしを含む）で最長となった。

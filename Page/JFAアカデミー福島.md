@@ -334,7 +334,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2009</p></td>
 <td><p>2014</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1860ミュンヘン" title="wikilink">1860ミュンヘン</a>U-19</p></td>
-<td><p><a href="../Page/フォルトゥナ・デュッセルドルフ.md" title="wikilink">デュッセルドルフ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ザスパクサツ群馬" title="wikilink">ザスパクサツ群馬</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

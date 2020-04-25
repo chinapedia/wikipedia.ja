@@ -62,4 +62,4 @@
 
   - [Tangerine Dream](http://mu-mo.net/id/d-a-i/discography/product/AVCD-30056.html) avex networkによる作品情報
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1999年のデビュー・シングル "wikilink") [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:1999年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1999年のデビュー・シングル "wikilink") [Category:Do_As_Infinityの楽曲](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityの楽曲 "wikilink") [Category:長尾大が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長尾大が制作した楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

@@ -9,13 +9,13 @@
 
 1999年、台湾のTVドラマ、『[ハウス・オブ・ドラゴン](https://ja.wikipedia.org/wiki/ハウス・オブ・ドラゴン "wikilink")』で女優業をスタート。同番組をきっかけに長編映画に進出し、同年の香港映画*Model From Hell*にてスクリーン・デビュー。
 
-翌年には、香港新世代スターの共演と派手な[VFX](../Page/VFX.md "wikilink")で話題となり大ヒットを記録したポリス・アクションの続編、ジャッキー・チェン製作の『ジェネックスコップ2』に出演。
+翌年には、香港新世代スターの共演と派手な[VFX](../Page/VFX.md "wikilink")で話題となり大ヒットを記録したポリス・アクションの続編、ジャッキー・チェン製作の『[ジェネックスコップ2](https://ja.wikipedia.org/wiki/ジェネックスコップ2 "wikilink")』に出演。
 
-2001年、凸凹刑事コンビが大活躍する人気アクション・コメディの続編、[ブレット・ラトナー](../Page/ブレット・ラトナー.md "wikilink")監督の『ラッシュアワー2』で端役ながらハリウッド・デビュー。その後、数本のヨーロッパ映画にも出演。
+2001年、凸凹刑事コンビが大活躍する人気アクション・コメディの続編、[ブレット・ラトナー](../Page/ブレット・ラトナー.md "wikilink")監督の『[ラッシュアワー2](../Page/ラッシュアワー2.md "wikilink")』で端役ながらハリウッド・デビュー。その後、数本のヨーロッパ映画にも出演。
 
 2002年には、孤島での訓練を経て殺人マシーンとなった女性たちが繰り広げるセクシー・アクション映画、[チン・シウトン](https://ja.wikipedia.org/wiki/チン・シウトン "wikilink")監督の『[レディ・ウェポン](../Page/レディ・ウェポン.md "wikilink")』に主人公のシャーリーン役で本格的な格闘技やヌードを披露、モデル出身の若手女優[アンヤ・ウー](https://ja.wikipedia.org/wiki/アンヤ・ウー "wikilink")と共演。
 
-そして2006年、『ミッション：インポッシブル』シリーズの第3弾、[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")監督のスパイアクション大作『[M:I:Ⅲ](../Page/ミッション:インポッシブル3.md "wikilink")』では、イーサン・ハント率いるIMFチームの紅一点、“美しき武器のエキスパート”ゼーン役に抜擢され、本格的なハリウッド進出を果たした。同作は大ヒットし、主演の[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")や[ケリー・ラッセル](../Page/ケリー・ラッセル.md "wikilink")らと共演して一躍ブレイクし、以降はアクション女優として地位を確立した。本作では露出度の高い大胆なドレス姿を披露したが、撮影中に紐が外れてしまうハプニングが何度も起きた。また、作中でゼーンがドレスの[裾](https://ja.wikipedia.org/wiki/裾 "wikilink")をまくり上げた際、彼女の履いていた[ショーツが露出してしまったが](../Page/パンティー.md "wikilink")、これは撮影用の[アンダースコート](../Page/アンダースコート.md "wikilink")である。
+そして2006年、『ミッション：インポッシブル』シリーズの第3弾、[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")監督のスパイアクション大作『[M:I:III](../Page/ミッション:インポッシブル3.md "wikilink")』では、イーサン・ハント率いるIMFチームの紅一点、“美しき武器のエキスパート”ゼーン役に抜擢され、本格的なハリウッド進出を果たした。同作は大ヒットし、主演の[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")や[ケリー・ラッセル](../Page/ケリー・ラッセル.md "wikilink")らと共演して一躍ブレイクし、以降はアクション女優として地位を確立した。本作では露出度の高い大胆なドレス姿を披露したが、撮影中に紐が外れてしまうハプニングが何度も起きた。また、作中でゼーンがドレスの[裾](https://ja.wikipedia.org/wiki/裾 "wikilink")をまくり上げた際、彼女の履いていた[ショーツが露出してしまったが](../Page/パンティー.md "wikilink")、これは撮影用の[アンダースコート](../Page/アンダースコート.md "wikilink")である。
 
 2007年には、[ブルース・ウィリス](../Page/ブルース・ウィリス.md "wikilink")主演の大人気アクションシリーズ第4弾、[レン・ワイズマン](../Page/レン・ワイズマン.md "wikilink")監督の『[ダイ・ハード4.0](../Page/ダイ・ハード4.0.md "wikilink")』で[ジョン・マクレーンの敵役の一人として激しいアクションを演じた](https://ja.wikipedia.org/wiki/ジョン・マクレーン_\(架空の人物\) "wikilink")。同年、負ければ死を宣告される卓球大会に挑む元天才卓球少年の死闘を、最新[CG](https://ja.wikipedia.org/wiki/CG "wikilink")やカンフー・アクションを駆使して描く、[ロバート・ベン・ガラント](https://ja.wikipedia.org/wiki/ロバート・ベン・ガラント "wikilink")監督・脚本のパロディー満載のコメディ映画『[燃えよ\!ピンポン](../Page/燃えよ!ピンポン.md "wikilink")』にも出演。
 
@@ -29,7 +29,7 @@
 
 香港の俳優[ダニエル・ウー](https://ja.wikipedia.org/wiki/ダニエル・ウー "wikilink")と交際していたことがある。\[10\]
 
-2015年1月20日、テレビドラマ『STALKER : ストーカー犯罪特捜班』で共演した[ディラン・マクダーモット](../Page/ディラン・マクダーモット.md "wikilink")と婚約したとNew York Postが報じた。
+2015年1月20日、テレビドラマ『STALKER:ストーカー犯罪特捜班』で共演した[ディラン・マクダーモット](../Page/ディラン・マクダーモット.md "wikilink")と婚約したとNew York Postが報じた。
 
 ## 主な出演作品
 
@@ -57,7 +57,7 @@
 <td><p>2001</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マギーQのマンハッタン・ミッドナイト" title="wikilink">マギーQのマンハッタン・ミッドナイト</a><br />
 <em>Manhattan Midnight</em></p></td>
-<td><p>スーザン／ホープ</p></td>
+<td><p>スーザン / ホープ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><a href="../Page/ミッション:インポッシブル3.md" title="wikilink">ミッション:インポッシブル3</a><br />
+<td><p><a href="../Page/ミッション:インポッシブル3.md" title="wikilink">M:i:III</a><br />
 <em>Mission: Impossible III</em></p></td>
 <td><p>ゼーン・リー</p></td>
 <td></td>
@@ -180,9 +180,24 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2016</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ダイバージェントFINAL" title="wikilink">ダイバージェントFINAL</a><br />
+<em>The Divergent Series: Allegiant</em></p></td>
+<td><p>トーリ・ウー</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スリープレス_それは、眠ると憑いてくる。" title="wikilink">スリープレス それは、眠ると憑いてくる。</a><br />
+<em>Slumber</em></p></td>
+<td><p>アリス・アーノルド</p></td>
 <td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.&amp;Mrs.フォックス" title="wikilink">Mr.&amp;Mrs.フォックス</a><br />
+<em>The Con Is On</em></p></td>
+<td><p>イリーナ</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -206,25 +221,24 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/NIKITA_/_ニキータ" title="wikilink">NIKITA / ニキータ</a><br />
 <em>NIKITA</em></p></td>
 <td><p>ニキータ</p></td>
-<td><p>主演で73エピソードに出演</p></td>
+<td><p>主演、73エピソードに出演</p></td>
 </tr>
 <tr class="even">
 <td><p>2014-2015</p></td>
-<td><p>STALKER : ストーカー犯罪特捜班<br />
-<em>Stalker</em></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/STALKER_:_ストーカー犯罪特捜班" title="wikilink">STALKER : ストーカー犯罪特捜班</a><br />
+<em><a href="https://ja.wikipedia.org/wiki/:en:Stalker_(TV_series)" title="wikilink">Stalker</a></em></p></td>
 <td><p>ベス・デイヴィス</p></td>
-<td><p>ディラン・マクダーモットとW主演で20エピソードに出演</p></td>
+<td><p>主演、20エピソードに出演</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2016–2019</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サバイバー:_宿命の大統領" title="wikilink">サバイバー: 宿命の大統領</a><br />
+<em>Designated Survivor</em></p></td>
+<td><p>ハンナ・ウェルズ</p></td>
+<td><p>メイン、50エピソードに出演</p></td>
 </tr>
 </tbody>
 </table>
-
-サバイバー　宿命の大統領
 
 ### アニメーション
 
@@ -245,12 +259,6 @@
 <em>Young Justice</em></p></td>
 <td><p>ワンダーウーマン</p></td>
 <td><p>声の出演</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

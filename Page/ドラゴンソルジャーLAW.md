@@ -247,8 +247,8 @@
 ## 外部リンク
 
   - [ドラゴンソルジャーLAW・オフィシャルサイト](http://www.dragonsoldierlaw.com/)
-  - [ＤＳＬの（め）組の人2](http://ameblo.jp/gipsy0306/)
-  - [ＤＳＬのアメドラ・映画ブログ](http://ameblo.jp/dsl-writer/)
+  - [ＤＳＬの（め）組の人2](https://ameblo.jp/gipsy0306/)
+  - [ＤＳＬのアメドラ・映画ブログ](https://ameblo.jp/dsl-writer/)
   - [ＤＳＬのユルくダラダラいかせて（iTunes）](http://itunes.apple.com/podcast/id390157476)
   - [ＤＳＬのユルくダラダラいかせて（ブログ）](http://dslpod.seesaa.net/)
   - [（め）組・公式ブログ](http://blog.livedoor.jp/gipsy_j/)

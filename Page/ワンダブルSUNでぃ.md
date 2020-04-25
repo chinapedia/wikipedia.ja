@@ -23,4 +23,4 @@
   - [SORRY MUSIC ENTERTAINMENT](../Page/SORRY_MUSIC_ENTERTAINMENT.md "wikilink") (\#1)
   - [HARVEST SINGLES 1992-1997](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1992-1997 "wikilink") (\#1)
 
-[Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:アサヒのビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アサヒのビールのコマーシャルソング "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
+[Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:アサヒのビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アサヒのビールのコマーシャルソング "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")

@@ -159,7 +159,6 @@
   - Megan Spencer (Journalist & Triple J Announcer)
   - [ジリアン・チョン](https://ja.wikipedia.org/wiki/ジリアン・チョン "wikilink") ([香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のポップアイドルデュオ・[ツインズ](../Page/ツインズ_\(香港のアイドルユニット\).md "wikilink"))
   - [呉尊](../Page/呉尊.md "wikilink") ([台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")のアイドルグループ・[飛輪海](https://ja.wikipedia.org/wiki/飛輪海 "wikilink"))
-  - [ブラッド(オーストラリア人のステチル)](https://ja.wikipedia.org/wiki/オーストラリア人のステチル "wikilink") (YouTuber)
 
 ## 関連項目
 

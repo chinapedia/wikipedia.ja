@@ -1,7 +1,7 @@
 > この記事は[Sunny-Side-UP](https://ja.wikipedia.org/wiki/Sunny-Side-UP)から翻訳されています。
 
 
-『**Sunny-Side-UP**』（サニーサイドアップ）は、[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[KBS京都ほかで毎週水曜](../Page/京都放送.md "wikilink")23:30〜24:00に放送されていた[ハイビジョン放送](https://ja.wikipedia.org/wiki/ハイビジョン放送 "wikilink")対応の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。シリーズ第二弾。全12話。[脚本](../Page/脚本.md "wikilink")、[監督](../Page/監督.md "wikilink")は[林正明](https://ja.wikipedia.org/wiki/林正明 "wikilink")。家族愛を描いたホームドラマ。
+『**Sunny-Side-UP**』（サニーサイドアップ）は、[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から同年[9月28日](../Page/9月28日.md "wikilink")まで[KBS京都ほかで毎週水曜](../Page/京都放送.md "wikilink")23:30〜24:00に放送された[ハイビジョン放送](https://ja.wikipedia.org/wiki/ハイビジョン放送 "wikilink")対応の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。シリーズ第2弾。全12話。脚本、監督は[林正明](https://ja.wikipedia.org/wiki/林正明 "wikilink")。家族愛を描いたホームドラマ。
 
 ## あらすじ
 

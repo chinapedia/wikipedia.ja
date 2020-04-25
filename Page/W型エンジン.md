@@ -14,6 +14,7 @@
   - [W型12気筒](https://ja.wikipedia.org/wiki/W型12気筒 "wikilink")(W12/WR12)
   - [W型16気筒](https://ja.wikipedia.org/wiki/W型16気筒 "wikilink")(W16/WR16)
   - [W型18気筒](https://ja.wikipedia.org/wiki/W型18気筒 "wikilink")(W18)
+  - W型24気筒(W24)
 
 ## 3バンク型
 

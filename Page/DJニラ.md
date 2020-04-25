@@ -102,7 +102,7 @@ K-Blood vs [Psycho-ship](https://ja.wikipedia.org/wiki/パルプンテ "wikilink
 
   - [DDTプロレスリング 選手プロフィール](http://www.ddtpro.com/superstars/nira/)
 
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:プロレス・マネージャー](https://ja.wikipedia.org/wiki/Category:プロレス・マネージャー "wikilink") [Category:KAIENTAI-DOJOに所属していたプロレスラー](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOに所属していたプロレスラー "wikilink") [Category:DDTにレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTにレギュラー参戦するプロレスラー "wikilink") [Category:新潟県出身の人物](https://ja.wikipedia.org/wiki/Category:新潟県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:プロレス・マネージャー](https://ja.wikipedia.org/wiki/Category:プロレス・マネージャー "wikilink") [Category:KAIENTAI-DOJOに所属していたプロレスラー](https://ja.wikipedia.org/wiki/Category:KAIENTAI-DOJOに所属していたプロレスラー "wikilink") [Category:DDTにレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTにレギュラー参戦するプロレスラー "wikilink") [Category:新潟県出身の人物](https://ja.wikipedia.org/wiki/Category:新潟県出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [【試合結果】2015年9月21日(祝)横浜にぎわい座のげシャーレ小ホール](http://s.ameblo.jp/gtmvsakura/entry-12075765727.html) - 我闘雲舞公式ブログ「わふーでよよよ」 2016年3月26日閲覧。
 2.

@@ -34,7 +34,7 @@
 | 101   | [NHKBS1](https://ja.wikipedia.org/wiki/NHKBS1 "wikilink")                       |
 | 103   | [NHKBSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")               |
 | 141   | [BS日テレ](../Page/BS日本.md "wikilink")                                             |
-| 151   | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                         |
+| 151   | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                            |
 | 161   | [BS-TBS](../Page/BS-TBS.md "wikilink")                                          |
 | 171   | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                                          |
 | 181   | [BSフジ](../Page/BSフジ.md "wikilink")                                              |
@@ -44,7 +44,7 @@
 | 200   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")1                                   |
 | 201   | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")2                  |
 | 202   | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")3                  |
-| 211   | [BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                     |
+| 211   | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                        |
 | 222   | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                               |
 | 709   | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")                           |
 | 710   | [ショップチャンネル](../Page/ショップチャンネル.md "wikilink")                                    |

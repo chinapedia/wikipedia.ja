@@ -1525,7 +1525,7 @@
 <tr class="odd">
 <td><p>101</p></td>
 <td><p>12月28日</p></td>
-<td><p><span style="display:none">れ06</span><a href="https://ja.wikipedia.org/wiki/レッドアラート" title="wikilink">レッドアラート</a></p></td>
+<td><p><span style="display:none">れ06</span><a href="https://ja.wikipedia.org/wiki/レッド・アラート" title="wikilink">レッド・アラート</a></p></td>
 <td><p><span style="display:none">ニホ1</span><a href="../Page/日本テレネット_(ゲーム会社).md" title="wikilink">日本テレネット</a></p></td>
 <td><p><span style="display:none">R</span>CR</p></td>
 <td><p>ACT</p></td>
@@ -9485,7 +9485,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>最後のSCソフトであり、最後のPCEソフト。</p></td>
+<td><p>最後のSCソフトであり、最後のPCシリーズソフト。</p></td>
 </tr>
 </tbody>
 </table>

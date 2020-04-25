@@ -41,7 +41,7 @@
       - [遠藤圭介](https://ja.wikipedia.org/wiki/遠藤圭介 "wikilink")
       - [寺島舞](../Page/寺島舞.md "wikilink")
       - [大西緑](https://ja.wikipedia.org/wiki/大西緑 "wikilink")
-  - [五十嵐圭](https://ja.wikipedia.org/wiki/五十嵐圭_\(アナウンサー\) "wikilink")
+  - [五十嵐圭](../Page/五十嵐圭_\(アナウンサー\).md "wikilink")
   - [辻史子](https://ja.wikipedia.org/wiki/辻史子 "wikilink")
   - [吉田鉄太郎](https://ja.wikipedia.org/wiki/吉田鉄太郎 "wikilink")
   - [小澤良太](../Page/小澤良太.md "wikilink")

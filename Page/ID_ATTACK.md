@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作からおよそ1年8ヶ月ぶりのリリースで、初回版はデジパック仕様。本作は、自らの[アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ "wikilink")（存在意義）を問いかけるアルバムとなっており、「[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")」が隠されたテーマとなっている。このアルバムを引っさげて、[2003年](../Page/2003年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から全国ホールツアー『ATTACK \[TO\] THE FREEDOM』が行われた。
+前作からおよそ1年8ヶ月ぶりのリリースで、初回版はデジパック仕様。本作は、自らの[アイデンティティ](https://ja.wikipedia.org/wiki/アイデンティティ "wikilink")（存在意義）を問いかけるアルバムとなっており、「[ドラッグ](../Page/ドラッグ.md "wikilink")」が隠されたテーマとなっている。このアルバムを引っさげて、[2003年](../Page/2003年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から全国ホールツアー『ATTACK \[TO\] THE FREEDOM』が行われた。
 
 先行シングルとして「[ネオグロテスク/薔薇色の世界/夕闇スーサイド](https://ja.wikipedia.org/wiki/ネオグロテスク/薔薇色の世界/夕闇スーサイド "wikilink")」がリリースされたが、3曲目の「夕闇スーサイド」は収録されなかった。CDジャケットのアートディレクターは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")。 キャッチコピーは、「辿り着いた“HEAVEN”は安息の地ではなかった。停滞するROCKシーンに、PIERROTが仕掛ける新たなミッション“ID ATTACK”\!\!」
 

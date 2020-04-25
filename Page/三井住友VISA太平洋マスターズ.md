@@ -518,7 +518,7 @@
   -
   - [三井住友VISA太平洋マスターズ - Facebook](https://ja-jp.facebook.com/msvtmasters/)
 
-[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:静岡県のスポーツ](https://ja.wikipedia.org/wiki/Category:静岡県のスポーツ "wikilink") [Category:御殿場市](https://ja.wikipedia.org/wiki/Category:御殿場市 "wikilink") [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:三井住友フィナンシャルグループ "wikilink") [Category:1972年開始のイベント](https://ja.wikipedia.org/wiki/Category:1972年開始のイベント "wikilink")
+[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:三井住友フィナンシャルグループ "wikilink") [Category:TBSテレビ](https://ja.wikipedia.org/wiki/Category:TBSテレビ "wikilink") [Category:静岡県のスポーツ](https://ja.wikipedia.org/wiki/Category:静岡県のスポーツ "wikilink") [Category:御殿場市](https://ja.wikipedia.org/wiki/Category:御殿場市 "wikilink") [Category:1972年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1972年開始のスポーツイベント "wikilink")
 
 1.
 2.  大会初期の1972年から1978年までは10月開催だった。

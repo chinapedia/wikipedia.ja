@@ -756,7 +756,7 @@
 | [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")                |                 |         |
 | [中京広域圏](../Page/広域放送.md "wikilink")                                                  | [中京テレビ](../Page/中京テレビ放送.md "wikilink")                  |                 |         |
 | [広島県](../Page/広島県.md "wikilink")                                                     | [広島テレビ](../Page/広島テレビ放送.md "wikilink")                  |                 |         |
-| [山口県](../Page/山口県.md "wikilink")                                                     | [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")   |                 |         |
+| [山口県](../Page/山口県.md "wikilink")                                                     | [山口放送](../Page/山口放送.md "wikilink")                      |                 |         |
 | [福岡県](../Page/福岡県.md "wikilink")                                                     | [福岡放送](../Page/福岡放送.md "wikilink")                      |                 |         |
 | [長崎県](../Page/長崎県.md "wikilink")                                                     | [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")                |                 |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [鹿児島讀賣テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")              |                 |         |

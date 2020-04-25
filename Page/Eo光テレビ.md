@@ -361,7 +361,7 @@ Ch番号</p></th>
 <tr class="even">
 <td><p>BS151-153</p></td>
 <td><p>　</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></strong></p></td>
+<td><p><strong><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></strong></p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
@@ -491,7 +491,7 @@ Ch番号</p></th>
 <tr class="even">
 <td><p>BS211</p></td>
 <td><p>　</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11 イレブン</a></strong></p></td>
+<td><p><strong><a href="../Page/日本BS放送.md" title="wikilink">BS11 イレブン</a></strong></p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
@@ -1923,6 +1923,12 @@ Ch番号</p></th>
   - [2007年](../Page/2007年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")10時30分頃より、[マスプロ電工](../Page/マスプロ電工.md "wikilink")製の[STB](../Page/セットトップボックス.md "wikilink")(DST-22)を使用している「K-CAT」のサービスエリア内の世帯（約15000台）で、アナログ放送以外が全く視聴できなくなるという障害が発生した。該当する世帯では[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")製のSTB(TZ-DCH800)に順次交換し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")には交換が完了した。
   - 従来の標準画質放送のサービスについては、新規申し込みは[2009年](../Page/2009年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")を持って終了となったが、それまでに申し込んだものは従来の標準画質サービス（バリューパック、スタンダードパック、ライト、オプション）の番組を引き続き視聴できる他、そのサービス間での契約変更・追加も可能となっている。ただしハイビジョンサービスに移行した場合は標準画質サービスへの転換・視聴はできない。
       - [2012年](../Page/2012年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")正午より（これに先駆けて[4月25日](../Page/4月25日.md "wikilink")未明より試験放送中）、ケイキャットeo光テレビでは、これまでの標準画質サービスで提供していたチャンネルのうち、ハイビジョン対応で放送されるチャンネルについては全てハイビジョンへ一本化されることになった。同[5月31日](../Page/5月31日.md "wikilink")までは移行期間と位置づけて標準画質放送と並列配信するが、それ以後はハイビジョンのみの単独配信となる。\[74\]
+
+## eo光テレビ制作の主な番組
+
+  - [情報・ニュースとりどり「ゲツ→キン」](https://eonet.jp/getsukin/)
+  - [たむらけんじのぶっちゃ～けBar](https://ja.wikipedia.org/wiki/たむらけんじのぶっちゃ〜けBar "wikilink")
+  - [ビタペディア](http://eonet.jp/vitapedia/)
 
 ## 関連項目
 

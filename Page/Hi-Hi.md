@@ -142,7 +142,7 @@
   - [生田くん、ハイ\!](https://ja.wikipedia.org/wiki/生田くん、ハイ! "wikilink")（フジテレビ）
   - 小力の小部屋　第106回（2012年5月2日、[マシェリバラエティ](https://ja.wikipedia.org/wiki/マシェリバラエティ "wikilink")、ニコニコ生放送、[スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink")275ch） - 共演：[長州小力](../Page/長州小力.md "wikilink")
   - [ふたり道](https://ja.wikipedia.org/wiki/ふたり道 "wikilink") 〜㊙テクニックが学べる不思議な教習所〜（BS日テレ、2013年4月 - 9月）自動車教習所生徒役（上田のみ、第42・43・44・45話）
-  - [オタ恋](https://ja.wikipedia.org/wiki/オタ恋 "wikilink")（2016年10月15日、11月19日、2017年2月11日、3月18日、5月6日、5月27日、6月31日、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")） - 上田のみ、おまとめ編定期ゲスト
+  - [オタ恋](https://ja.wikipedia.org/wiki/オタ恋 "wikilink")（2016年10月15日、11月19日、2017年2月11日、3月18日、5月6日、5月27日、6月31日、[BS朝日](../Page/ビーエス朝日.md "wikilink")） - 上田のみ、おまとめ編定期ゲスト
   - [オールスター後夜祭](https://ja.wikipedia.org/wiki/オールスター感謝祭#%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E5%BE%8C%E5%A4%9C%E7%A5%AD "wikilink")（2018年10月7日\[49\]、2019年4月7日\[50\]、TBS）
 
 ### ラジオ

@@ -13,17 +13,6 @@
 
 日本国内での発音は「デクト」。[無線LAN](../Page/無線LAN.md "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")）使用周波数である2.4GHz帯（[ISMバンド](../Page/ISMバンド.md "wikilink")）と被らないため、[混信](../Page/混信.md "wikilink")の影響が少ない特徴を持つ。
 
-## 技術的条件
-
-  - 周波数帯：1.9[GHz](../Page/ギガヘルツ.md "wikilink")（1880MHz - 1978MHz・2010MHz - 2025MHz）
-  - 通信方式：[TDD](https://ja.wikipedia.org/wiki/時分割複信 "wikilink")-[TDMA](https://ja.wikipedia.org/wiki/時分割多元接続 "wikilink")・自立分散型[マルチチャネルアクセス無線](https://ja.wikipedia.org/wiki/マルチチャネルアクセス無線 "wikilink")
-  - 搬送波：間隔 1782[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")・伝送速度 1152k[b/s](../Page/ビット毎秒.md "wikilink")・多重化チャネル数 12
-  - [変調方式](../Page/変調方式.md "wikilink")：[GMSK](https://ja.wikipedia.org/wiki/最小偏移変調 "wikilink")
-  - [音](../Page/音.md "wikilink")声[符号化方式](../Page/符号化方式.md "wikilink")：32kb/s ADPCM（[G.726](https://ja.wikipedia.org/wiki/G.726 "wikilink")）
-  - [データ通信](../Page/データ通信.md "wikilink")：[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")・[パケット通信](../Page/パケット通信.md "wikilink")（[ISDN](../Page/ISDN.md "wikilink")と共通の[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")を元にしたLAPC）
-  - セル半径：25 - 100m
-  - トラフィック密度：10000[アーラン](../Page/アーラン.md "wikilink")/km<sup>2</sup>
-
 ## 用途
 
   - 家庭用デジタルコードレス電話として[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")に接続。
@@ -40,16 +29,29 @@
 
 アプリケーションは音声ストリーミングや内線通話、ビデオ会議など、[無線LAN](../Page/無線LAN.md "wikilink")が苦手としていた分野を想定しており、既に普及しているPCやゲーム機等の無線LANによる通信の置き換えを狙ったものではない\[5\]。IPベースのホームゲートウェイをベースとして[Fixed Mobile Convergenceの一種とも捉えられている](https://ja.wikipedia.org/wiki/Fixed_Mobile_Convergence "wikilink")。また、日本国内においては[Next Generation Networkとの絡みもある](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")。
 
+IoT向けにはDECT ULEという規格も策定されている\[6\]。
+
 ## 日本国内仕様
 
-総務省令・告示にDECT方式の技術基準・技術的条件があることは、外国仕様のDECT方式のコードレス電話が日本国内で使用できることを意味するものではない。日本国内では、[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")と[技術基準適合認定](https://ja.wikipedia.org/wiki/技術基準適合認定 "wikilink")の両者が認証された**[技適マーク](../Page/技適マーク.md "wikilink")**を表示した製品を使用しなければならない。なお、日本で許可された周波数帯は1893.5MHz - 1906.1MHz間の5波である\[6\]。
+総務省令・告示にDECT方式の技術基準・技術的条件があることは、外国仕様のDECT方式のコードレス電話が日本国内で使用できることを意味するものではない。日本国内では、[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink")と[技術基準適合認定](https://ja.wikipedia.org/wiki/技術基準適合認定 "wikilink")の両者が認証された**[技適マーク](../Page/技適マーク.md "wikilink")**を表示した製品を使用しなければならない。なお、日本で許可された周波数帯は1893.5MHz - 1906.1MHz間の5波である\[7\]。
 
-これに関連して、2012年（平成24年）2月14日、日本でのDECT普及促進のため、DECTフォーラム内に、その会員となっている日本企業7社（サジェムコム、ダイアログ・セミコンダクター、日本DSPグループ、[日本電気](../Page/日本電気.md "wikilink")、[パナソニック システムネットワークス](https://ja.wikipedia.org/wiki/パナソニック_システムネットワークス "wikilink")、[ユニデン](https://ja.wikipedia.org/wiki/ユニデン "wikilink")、ランティック ジャパン）からなるジャパンワーキンググループが設立された。その活動としては、例えば、一般消費者が小売店でDECT方式の製品を見たときに、容易にそれが判別できるような統一ロゴマークの制定と普及を進めていくことになっている\[7\]\[8\]。
+これに関連して、2012年（平成24年）2月14日、日本でのDECT普及促進のため、DECTフォーラム内に、その会員となっている日本企業7社（サジェムコム、ダイアログ・セミコンダクター、日本DSPグループ、[日本電気](../Page/日本電気.md "wikilink")、[パナソニック システムネットワークス](https://ja.wikipedia.org/wiki/パナソニック_システムネットワークス "wikilink")、[ユニデン](https://ja.wikipedia.org/wiki/ユニデン "wikilink")、ランティック ジャパン）からなるジャパンワーキンググループが設立された。その活動としては、例えば、一般消費者が小売店でDECT方式の製品を見たときに、容易にそれが判別できるような統一ロゴマークの制定と普及を進めていくことになっている\[8\]\[9\]。
 
   - 製品例
       - DECT3080/DECT3280/DECT3288シリーズ（[ユニデン](https://ja.wikipedia.org/wiki/ユニデン "wikilink")）
       - VE-GDシリーズ（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）
       - JD-V35/G30シリーズ（[シャープ](../Page/シャープ.md "wikilink")）
+      -
+## 日本のDECTの技術的条件
+
+  -   - 周波数帯：1.9[GHz](../Page/ギガヘルツ.md "wikilink")（1880MHz - 1978MHz・2010MHz - 2025MHz）
+      - 通信方式：[TDD](https://ja.wikipedia.org/wiki/時分割複信 "wikilink")-[TDMA](https://ja.wikipedia.org/wiki/時分割多元接続 "wikilink")・自立分散型[マルチチャネルアクセス無線](https://ja.wikipedia.org/wiki/マルチチャネルアクセス無線 "wikilink")
+      - 搬送波：間隔 1782[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")・伝送速度 1152k[b/s](../Page/ビット毎秒.md "wikilink")・多重化チャネル数 12
+      - [変調方式](../Page/変調方式.md "wikilink")：[GMSK](https://ja.wikipedia.org/wiki/最小偏移変調 "wikilink")
+      - [音](../Page/音.md "wikilink")声[符号化方式](../Page/符号化方式.md "wikilink")：32kb/s ADPCM（[G.726](https://ja.wikipedia.org/wiki/G.726 "wikilink")）
+      - [データ通信](../Page/データ通信.md "wikilink")：[回線交換](https://ja.wikipedia.org/wiki/回線交換 "wikilink")・[パケット通信](../Page/パケット通信.md "wikilink")（[ISDN](../Page/ISDN.md "wikilink")と共通の[HDLC](https://ja.wikipedia.org/wiki/HDLC "wikilink")を元にしたLAPC）
+      - セル半径：25 - 100m
+      - トラフィック密度：10000[アーラン](../Page/アーラン.md "wikilink")/km<sup>2</sup>
 
 ## 脚注
 
@@ -84,6 +86,7 @@
 3.  [平成22年総務省告示第389号 無線設備規則第49条の8の2第1項第1号イただし書等の規定に基づく時分割多元接続方式狭帯域デジタルコードレス電話の無線局等に使用する無線設備の技術的条件等](http://www.tele.soumu.go.jp/horei/reiki_honbun/a72ab15411.html)（総務省電波利用ホームページ 総務省電波関係法令集）
 4.  ARIB STD-T101 時分割多元接続方式広帯域デジタルコードレス電話の無線局の無線設備
 5.   総務省 - 情報通信審議会 - 会議資料
-6.  [平成14年総務省告示第129号 電波法施行規則第6条第4項第5号及び第6号の規定に基づくデジタルコードレス電話の無線局及びPHSの陸上移動局が使用する電波の型式及び用途等](http://www.tele.soumu.go.jp/horei/reiki_honbun/a72aa32291.html)第1項第2号（総務省電波利用ホームページ 総務省電波関係法令集）
-7.  [1.9GHz帯コードレス電話のDECT Forum、新たな用途も視野に日本部会を設立](http://eetimes.jp/ee/articles/1202/17/news054.html) EE Times Japan 2012年2月17日
-8.
+6.   ビジネスネットワーク.jp|url=[https://businessnetwork.jp/Portals/0/SP/1306_dect/|website=businessnetwork.jp|accessdate=2020-04-13](https://businessnetwork.jp/Portals/0/SP/1306_dect/%7Cwebsite=businessnetwork.jp%7Caccessdate=2020-04-13)}}
+7.  [平成14年総務省告示第129号 電波法施行規則第6条第4項第5号及び第6号の規定に基づくデジタルコードレス電話の無線局及びPHSの陸上移動局が使用する電波の型式及び用途等](http://www.tele.soumu.go.jp/horei/reiki_honbun/a72aa32291.html)第1項第2号（総務省電波利用ホームページ 総務省電波関係法令集）
+8.  [1.9GHz帯コードレス電話のDECT Forum、新たな用途も視野に日本部会を設立](http://eetimes.jp/ee/articles/1202/17/news054.html) EE Times Japan 2012年2月17日
+9.

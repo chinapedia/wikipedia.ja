@@ -49,6 +49,6 @@
 
 <references />
 
-[Category:倉木麻衣の楽曲](https://ja.wikipedia.org/wiki/Category:倉木麻衣の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:SEA_BREEZEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:SEA_BREEZEのコマーシャルソング "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:倉木麻衣の楽曲](https://ja.wikipedia.org/wiki/Category:倉木麻衣の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:SEA_BREEZEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:SEA_BREEZEのコマーシャルソング "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.  [1](http://realsound.jp/2017/07/post-95060.html)

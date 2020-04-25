@@ -186,9 +186,9 @@ Welcome! [Alexandros]</p></td>
 
 #### 使用機材
 
-  - メインにオリジナル・モデルのESP Bricoleurが4本（ブラックを命ノゼンマイ大巡業から、ゴールドトップをMovement Moment Tour 2011の終盤から、フェイスタレッドを桜前線ブッタ斬りツアーから、レスポールカスタムタイプをカオスの百年 vol.11からそれぞれ使用）。Seymour Duncan製のピックアップP90を搭載し、ボディは大きめなオリジナルシェイプを持つ。レスポールカスタムタイプはハムバッカーピックアップが3つ搭載されており、黒いボディにアーチトップで金のバインディングで、パーツはゴールドを使用しているNavigatorのレスポールカスタムモデルの特徴と相似したBricoleurである。Bricoleurを制作するうえで参考にしたのは[吉井和哉](../Page/吉井和哉.md "wikilink")の所有していたGibsonの335-Sである。
+  - メインにオリジナル・モデルのESP Bricoleurが4本（ブラックを命ノゼンマイ大巡業から、ゴールドトップをMovement Moment Tour 2011の終盤から、フェイスタレッドを桜前線ブッタ斬りツアーから、レスポールカスタムタイプをカオスの百年 vol.11からそれぞれ使用）。Seymour Duncan製のピックアップP90を搭載し、ボディは大きめなオリジナルシェイプを持つ。レスポールカスタムタイプはハムバッカーピックアップが3つ搭載されており、黒いボディにアーチトップで金のバインディングで、パーツはゴールドを使用している[Navigatorのレスポールカスタムモデルの特徴と相似したBricoleurである](../Page/イーエスピー.md "wikilink")。Bricoleurを制作するうえで参考にしたのは[吉井和哉](../Page/吉井和哉.md "wikilink")の所有していたGibsonの335-Sである。
       - Gibsonの335-Sは吉井和哉本人から譲ってもらい、「Movement」のレコーディングに使用している。また、EMI ROCKS 2012でのコラボレーション「吉井和哉×9mm Parabellum Bullet」時に、吉井和哉の曲は当ギターを使用している。
-  - 以前のサブは[Navigator](https://ja.wikipedia.org/wiki/Navigator "wikilink")のN-LP-CTM（代々木公園フリーライブから使用）。主にN-LP-CTMはドロップDチューニング用に使用されていたが、現在はESP BricoleurのフェイスタレッドがドロップDチューニングの曲の際に使用される事が多いが、ほぼ1本で通す場合はレギュラーチューニングで使うこともある。
+  - 以前のサブはNavigatorのN-LP-CTM（代々木公園フリーライブから使用）。主にN-LP-CTMはドロップDチューニング用に使用されていたが、現在はESP BricoleurのフェイスタレッドがドロップDチューニングの曲の際に使用される事が多いが、ほぼ1本で通す場合はレギュラーチューニングで使うこともある。
   - Bricoleur使用以前は[ギブソンの](../Page/ギブソン_\(楽器メーカー\).md "wikilink")[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")スペシャル（学生時代から愛用）や、SNAPPERを使用していた。SNAPPERを使用していた頃、PAに滝と同じSNAPPER同士でわかりにくいと指摘されたため、徐々にライブでレスポールタイプのギターを使用するようになった。滝いわく「ピックアップや材を変えただけでまったく別の音が出るわけじゃない」とのこと。
   - レスポールタイプを使用するようになってから、かなり時間が経ってから発表した「生命のワルツ」をライブで演奏するときはSNAPPERを使用している。Bricoleurでは違うなと思っていたところ、ローディに相談してハムバッカーのストラトという意見を受けてSNAPPERを久々に取り出して採用に至った。
   - 自身の1つめのシグネチュア・モデルTYGは、SNAPPER時代のセッティングがモデルとなっている。ちなみにTYGは本人いわく「とっても・良い・ギター」の略。
@@ -206,7 +206,7 @@ Welcome! [Alexandros]</p></td>
 
 :; エレキ[ギター](../Page/ギター.md "wikilink")
 
-::\*[Navigator](../Page/イーエスピー.md "wikilink") N-LP-480CTM
+::\*Navigator N-LP-480CTM
 
 ::\*[Gibson](../Page/ギブソン_\(楽器メーカー\).md "wikilink") 335-S
 
@@ -737,7 +737,7 @@ Welcome! [Alexandros]</p></td>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2019年4月10日</p></td>
-<td><p>名もなきヒーロー</p></td>
+<td><p><a href="../Page/名もなきヒーロー.md" title="wikilink">名もなきヒーロー</a></p></td>
 <td><p>COCA-17578</p></td>
 <td><p>20位</p></td>
 <td><p>4回</p></td>
@@ -1163,7 +1163,7 @@ Welcome! [Alexandros]</p></td>
 | 2012年4月4日   | **NEVERMIND TRIBUTE**                                                                                                                                                                                      | [ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")                                | M.7                                                                       | Territorial Pissings                                                    |
 | 2014年2月26日  | **[ROCK AND SYMPATHY-tribute to the pillows-](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink")**                                                                                                | [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")                   | M.3                                                                       | インスタント ミュージック                                                           |
 | 2015年11月4日  | '''We are DISCO                                                                                                                                                                                            | \!～tribute to the telephones～'''                                                      | [the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink") | M.5                                                                     |
-| 2015年12月23日 | **JUST LIKE HONEY 〜『ハチミツ』20th Anniversary Tribute〜**                                                                                                                                                       | [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")                         | M.8                                                                       | [ロビンソン](../Page/ロビンソン_\(曲\).md "wikilink")\[24\]                        |
+| 2015年12月23日 | **JUST LIKE HONEY 〜『ハチミツ』20th Anniversary Tribute〜**                                                                                                                                                       | [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")                                            | M.8                                                                       | [ロビンソン](../Page/ロビンソン_\(曲\).md "wikilink")\[24\]                        |
 | 2017年10月18日 | **[PAUSE 〜STRAIGHTENER Tribute Album〜](https://ja.wikipedia.org/wiki/PAUSE_〜STRAIGHTENER_Tribute_Album〜 "wikilink")**                                                                                      | [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")                           | M.6                                                                       | [Melodic Storm](https://ja.wikipedia.org/wiki/Melodic_Storm "wikilink") |
 | 2019年7月24日  | **[Thank you, ROCK BANDS\! 〜UNISON SQUARE GARDEN 15th Anniversary Tribute Album〜](https://ja.wikipedia.org/wiki/Thank_you,_ROCK_BANDS!_〜UNISON_SQUARE_GARDEN_15th_Anniversary_Tribute_Album〜 "wikilink")** | [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink") | M.3                                                                       | 徹頭徹尾夜な夜なドライブ                                                            |
 |             |                                                                                                                                                                                                            |                                                                                       |                                                                           |                                                                         |

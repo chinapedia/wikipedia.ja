@@ -1,4 +1,4 @@
-> この記事は[STRAIGHT \(\)](https://ja.wikipedia.org/wiki/STRAIGHT_\(\))から翻訳されています。
+> この記事は[STRAIGHT \(コブクロのアルバム\)](https://ja.wikipedia.org/wiki/STRAIGHT_\(コブクロのアルバム\))から翻訳されています。
 
 
 『**STRAIGHT**』（ストレート）は、[フォークデュオ](../Page/フォークデュオ.md "wikilink")[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")にリリースした通算3枚目のオリジナルアルバム。

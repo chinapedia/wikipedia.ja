@@ -1,4 +1,4 @@
-> この記事は[K.545](https://ja.wikipedia.org/wiki/K.545)から翻訳されています。
+> この記事は[ピアノソナタK.545](https://ja.wikipedia.org/wiki/ピアノソナタK.545)から翻訳されています。
 
 
 **ピアノソナタ ハ長調 [K. 545](../Page/ケッヘル番号.md "wikilink")** は、[ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink")が作曲した[ピアノソナタ](../Page/ピアノソナタ.md "wikilink")。[旧モーツァルト全集](https://ja.wikipedia.org/wiki/旧モーツァルト全集 "wikilink")では**第15番**、[新モーツァルト全集](../Page/新モーツァルト全集.md "wikilink")では**第16番**とされる。

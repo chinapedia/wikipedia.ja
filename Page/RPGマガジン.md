@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[RPGマガジン](https://ja.wikipedia.org/wiki/RPGマガジン)から翻訳されています。
 
 
 『**RPGマガジン**』（ロールプレイングゲームマガジン）は、[ホビージャパン](../Page/ホビージャパン.md "wikilink")が1990年から1999年にかけて刊行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）専門[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。「アールピージーマガジン」と発音されることもあるが、正しくは「ロールプレイングゲームマガジン」である。同時代に出版されていた他社の同系雑誌とは異なり、資料性の高い記事が特徴となっている。

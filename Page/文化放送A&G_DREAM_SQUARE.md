@@ -1,11 +1,11 @@
-> この記事は[A\&G DREAM SQUARE](https://ja.wikipedia.org/wiki/A\&G_DREAM_SQUARE)から翻訳されています。
+> この記事は[文化放送A\&G DREAM SQUARE](https://ja.wikipedia.org/wiki/文化放送A\&G_DREAM_SQUARE)から翻訳されています。
 
 
 **文化放送A\&G DREAM SQUARE**（ぶんかほうそうえーあんどじーどりーむすくえあ）は、[文化放送](../Page/文化放送.md "wikilink")で放送されていた、週代わりのスペシャルプログラムの[ラジオ番組](../Page/ラジオ番組.md "wikilink")。過去に[文化放送A\&Gゾーン](../Page/文化放送A&Gゾーン.md "wikilink")で放送されていた番組の復活版を中心に、A\&G関連のスペシャル番組を毎週週代わりで放送する[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")である。放送局は文化放送のみで関東ローカル。[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")深夜（8日未明）放送開始。[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。
 
 ## 放送時間
 
-  - [文化放送](../Page/文化放送.md "wikilink")：毎週[土曜日](../Page/土曜日.md "wikilink")27:00〜28:00（[日曜日](../Page/日曜日.md "wikilink")03:00〜04:00）
+  - [文化放送](../Page/文化放送.md "wikilink")：毎週[土曜日](../Page/土曜日.md "wikilink")27:00 - 28:00（[日曜日](../Page/日曜日.md "wikilink")3:00 - 4:00）
 
 ## 概要
 

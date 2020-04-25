@@ -1,4 +1,4 @@
-> この記事は[JAZZY](https://ja.wikipedia.org/wiki/JAZZY)から翻訳されています。
+> この記事は[JAZZYな妖精たち](https://ja.wikipedia.org/wiki/JAZZYな妖精たち)から翻訳されています。
 
 
 宝塚ミュージカル・ファンタジー『**JAZZYな妖精たち**』（ジャジーなようせいたち）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組](../Page/月組_\(宝塚歌劇\).md "wikilink")で上演されたミュージカル作品である。17場。2005年9月23日から10月31日（新人公演：10月18日）に[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")、同年11月18日から12月25日（新人公演：11月29日）に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で上演された。伴演作はグランド・レビュー『[REVUE OF DREAMS](https://ja.wikipedia.org/wiki/REVUE_OF_DREAMS "wikilink")』。

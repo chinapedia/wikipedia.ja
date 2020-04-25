@@ -1,4 +1,4 @@
-> この記事は[ANZAC](https://ja.wikipedia.org/wiki/ANZAC)から翻訳されています。
+> この記事は[ANZACの日](https://ja.wikipedia.org/wiki/ANZACの日)から翻訳されています。
 
 
 **ANZACの日**（アンザックのひ）もしくは**アンザック・デー**（）は、[オーストラリア](../Page/オーストラリア.md "wikilink")・[ニュージーランド](../Page/ニュージーランド.md "wikilink")・[クック諸島](../Page/クック諸島.md "wikilink")・[ニウエ](../Page/ニウエ.md "wikilink")・[サモア](../Page/サモア.md "wikilink")・[トンガ](../Page/トンガ.md "wikilink") の[休日](../Page/休日.md "wikilink")。

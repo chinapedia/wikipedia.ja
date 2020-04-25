@@ -1,4 +1,4 @@
-> この記事は[BeeR](https://ja.wikipedia.org/wiki/BeeR)から翻訳されています。
+> この記事は[Bee☆R](https://ja.wikipedia.org/wiki/Bee☆R)から翻訳されています。
 
 
 **Bee☆R**（ビーレーシング）は、モータースポーツのチューニングショップ。パワービルダー ビーレーシングと呼ばれることもある。代表は[今井清則](https://ja.wikipedia.org/wiki/今井清則 "wikilink")。

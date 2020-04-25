@@ -1,4 +1,4 @@
-> この記事は[Always \(\)](https://ja.wikipedia.org/wiki/Always_\(\))から翻訳されています。
+> この記事は[Always \(倉木麻衣の曲\)](https://ja.wikipedia.org/wiki/Always_\(倉木麻衣の曲\))から翻訳されています。
 
 
 「**always**」（オールウェイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の楽曲。倉木の9枚目の[CDシングルとして](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")、[2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に[GIZA Studioから発売された](https://ja.wikipedia.org/wiki/GIZA_Studio "wikilink")。シングル盤の[規格品番](../Page/規格品番.md "wikilink")はGZCA-1083。

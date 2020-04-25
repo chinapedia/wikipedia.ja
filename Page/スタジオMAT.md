@@ -1,4 +1,4 @@
-> この記事は[MAT](https://ja.wikipedia.org/wiki/MAT)から翻訳されています。
+> この記事は[スタジオMAT](https://ja.wikipedia.org/wiki/スタジオMAT)から翻訳されています。
 
 
 **スタジオMAT**（スタジオマット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション](../Page/アニメーション.md "wikilink")スタジオ。

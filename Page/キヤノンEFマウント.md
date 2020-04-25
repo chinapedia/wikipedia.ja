@@ -1,4 +1,4 @@
-> この記事は[EF](https://ja.wikipedia.org/wiki/EF)から翻訳されています。
+> この記事は[キヤノンEFマウント](https://ja.wikipedia.org/wiki/キヤノンEFマウント)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Canon_EF_lens_mount.jpg "wikilink") **キヤノンEFマウント**（キャノン イーエフ マウント）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")の[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")、**[EOSシステム](https://ja.wikipedia.org/wiki/キヤノン・EOSシリーズ "wikilink")**の根幹を成す[レンズマウント](../Page/レンズマウント.md "wikilink")である\[1\]\[2\]。「**EFマウント**」とも呼称する。

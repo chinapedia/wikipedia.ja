@@ -1,4 +1,4 @@
-> この記事は[by](https://ja.wikipedia.org/wiki/by)から翻訳されています。
+> この記事は[セブンbyセブン](https://ja.wikipedia.org/wiki/セブンbyセブン)から翻訳されています。
 
 
 **セブンbyセブン**（セブンバイセブン）は**玉城泰拙**と**宮平享奈緒**からなるお笑いコンビ。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社（[東京吉本](../Page/東京吉本.md "wikilink")）所属。[NSC東京校](../Page/吉本総合芸能学院.md "wikilink")8期生\[1\]。
@@ -48,7 +48,7 @@
   - [アドレな\!ガレッジ](../Page/アドレな!ガレッジ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2008年11月26日）玉城のみ
   - [松本見聞録](https://ja.wikipedia.org/wiki/松本見聞録 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2008年12月14日）玉城のみ、「ギャグ数珠つなぎ」
   - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")、2009年12月30日）
-  - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（TBS、2010年1月13日）「Sa:Japan」として。
+  - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（TBS、2010年1月13日）[ガレッジセール](../Page/ガレッジセール.md "wikilink")、[スリムクラブ](../Page/スリムクラブ.md "wikilink")と共にユニット「Sa:Japan」として。
   - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")） 戦績0勝1敗 最高157KB
   - [カスペ\!](../Page/カスペ!.md "wikilink")・アニメアカデミー～1億3千万人が選ぶ不朽の名作～（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、2013年7月30日）玉城のみ「劇団アニメ座」として出演
   - [アグレッシブですけど、何か?](../Page/アグレッシブですけど、何か?.md "wikilink")（[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")、2013年10月3日）玉城のみ
@@ -89,7 +89,7 @@
   -
   -
   -
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")
 
 1.
 2.

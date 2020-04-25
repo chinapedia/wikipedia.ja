@@ -1,4 +1,4 @@
-> この記事は[FCB](https://ja.wikipedia.org/wiki/FCB)から翻訳されています。
+> この記事は[FCバルセロナB](https://ja.wikipedia.org/wiki/FCバルセロナB)から翻訳されています。
 
 
 **FCバルセロナB**（*Futbol Club Barcelona B*）は、[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の[リザーブチームである](https://ja.wikipedia.org/wiki/サッカークラブのリザーブチーム "wikilink")。[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")に所属する。

@@ -1,4 +1,4 @@
-> この記事は[ VOL.2 \(\)](https://ja.wikipedia.org/wiki/_VOL.2_\(\))から翻訳されています。
+> この記事は[グレイテスト・ヒッツ VOL.2 \(マドンナのアルバム\)](https://ja.wikipedia.org/wiki/グレイテスト・ヒッツ_VOL.2_\(マドンナのアルバム\))から翻訳されています。
 
 
 [Madonna_platinum_record_2.png](https://ja.wikipedia.org/wiki/File:Madonna_platinum_record_2.png "fig:Madonna_platinum_record_2.png")が授与した[プラチナディスクのレコード](../Page/ゴールドディスク.md "wikilink")。これはマドンナの当時の[マネージャー](../Page/マネージャー.md "wikilink")、カレッセ・ヘンリー に授与されたもの。\]\] 『**グレイテスト・ヒッツ Vol.2**』（*GHV2*）は、[2001年](../Page/2001年.md "wikilink")にリリースされた[マドンナの](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")3枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

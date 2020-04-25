@@ -1,4 +1,4 @@
-> この記事は[LOST](https://ja.wikipedia.org/wiki/LOST)から翻訳されています。
+> この記事は[LOSTのエピソード一覧](https://ja.wikipedia.org/wiki/LOSTのエピソード一覧)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:J._J._Abrams_by_Gage_Skidmore.jpg "wikilink")』の発案者の1人であり、また[パイロット・エピソードの監督も務めた](../Page/墜落_\(LOST\).md "wikilink")[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")。\]\] 『**LOST**』**のエピソード**は121話に及び、2004年9月22日から2010年5月23日までに[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")で放送された。[ジェフリー・リーバー](https://ja.wikipedia.org/wiki/ジェフリー・リーバー "wikilink")のオリジナル脚本『*Nowhere*』を発展させたこの連続テレビドラマの[パイロット・エピソードは](../Page/墜落_\(LOST\).md "wikilink")[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")が監督し、彼らと[デイモン・リンデロフ](https://ja.wikipedia.org/wiki/デイモン・リンデロフ "wikilink")が発案者となっている\[1\]。番組本編は計6シーズンが放送されたほか、過去のエピソードを要約した[総集編](../Page/総集編.md "wikilink")が存在する\[2\]。

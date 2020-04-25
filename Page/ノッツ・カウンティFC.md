@@ -1,11 +1,13 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ノッツ・カウンティFC](https://ja.wikipedia.org/wiki/ノッツ・カウンティFC)から翻訳されています。
 
 
 **ノッツ・カウンティFC**（Notts County Fooball Club）は、[イングランド](../Page/イングランド.md "wikilink")、[ノッティンガム](../Page/ノッティンガム.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
 
-[1862年](../Page/1862年.md "wikilink")に創立された世界で最も古い[プロサッカークラブ](../Page/プロフェッショナル.md "wikilink")。1888-89シーズンに始まった[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")にも初年度より参加。近年は低迷しており、最後に1部リーグ（当時の最高位リーグ）に所属していたのは1991-92シーズン。
+[Notts_county_1894.jpg](https://ja.wikipedia.org/wiki/File:Notts_county_1894.jpg "fig:Notts_county_1894.jpg")優勝時のメンバー\]\] [1862年](../Page/1862年.md "wikilink")に創立された世界で最も古い[プロサッカークラブであり](../Page/プロフェッショナル.md "wikilink")、1888-89シーズンに始まった[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")にも初年度より参加。近年は低迷しており、最後に1部リーグ（当時の最高位リーグ）に所属していたのは1991-92シーズン。2018-19シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部リーグ）で23位となり、クラブ史上初めて[ナショナルリーグ](../Page/ナショナルリーグ_\(イングランドのサッカー\).md "wikilink")（5部リーグ）に降格した。
 
-白黒縦縞のユニフォームを着用しており、これは[イタリア](../Page/イタリア.md "wikilink")の[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")が[1903年](../Page/1903年.md "wikilink")に採用した同配色ユニフォームの由来にもなっている。 ライバルは同じノッティンガムを本拠地とする[ノッティンガム・フォレストFC](../Page/ノッティンガム・フォレストFC.md "wikilink")。 ノッティンガム・フォレストのホームスタジアム[シティ・グラウンド](https://ja.wikipedia.org/wiki/シティ・グラウンド "wikilink")とメドウ・レーンは[トレント川](https://ja.wikipedia.org/wiki/トレント川 "wikilink")の対岸同士で200メートルしか離れていない。
+[Notts_County_FC_League_Performance.svg](https://ja.wikipedia.org/wiki/File:Notts_County_FC_League_Performance.svg "fig:Notts_County_FC_League_Performance.svg")
+
+白黒縦縞のユニフォームを着用しており、これは[イタリア](../Page/イタリア.md "wikilink")の[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")が[1903年](../Page/1903年.md "wikilink")に採用した同配色ユニフォームの由来にもなっている。 ライバルは同じノッティンガムを本拠地とする[ノッティンガム・フォレストFC](../Page/ノッティンガム・フォレストFC.md "wikilink")。 ホームスタジアムである[メドウ・レーンは](https://ja.wikipedia.org/wiki/w:Meadow_Lane "wikilink")、ノッティンガム・フォレストのホームスタジアムの[シティ・グラウンド](https://ja.wikipedia.org/wiki/シティ・グラウンド "wikilink")と[トレント川](https://ja.wikipedia.org/wiki/トレント川 "wikilink")の対岸同士で200メートルしか離れていない。
 
 ## タイトル
 
@@ -305,7 +307,7 @@
 
   - [イアン・リチャードソン](https://ja.wikipedia.org/wiki/w:Ian_Richardson "wikilink") 2004-2005
 
-  - [Guðjón Þórðarson](https://ja.wikipedia.org/wiki/w:Guðjón_Þórðarson "wikilink") 2005-2006
+  - [グズジョン・ソーダーソン](https://ja.wikipedia.org/wiki/w:Guðjón_Þórðarson "wikilink") 2005-2006
 
   - [スティーヴ・トンプソン](https://ja.wikipedia.org/wiki/w:Steve_Tompson "wikilink") 2006-2007
 
@@ -317,9 +319,9 @@
 
   - [デイヴ・ケヴァン](https://ja.wikipedia.org/wiki/w:Dave_Kevan "wikilink") 2009-2010
 
-  - [スティーブ・コッテリル](https://ja.wikipedia.org/wiki/スティーブ・コッテリル "wikilink") 2010
+  - [スティーブ・コッテリル](https://ja.wikipedia.org/wiki/w:Steve_Cotterill "wikilink") 2010
 
-  - [クレイグ・ショート](https://ja.wikipedia.org/wiki/クレイグ・ショート "wikilink") 2010
+  - [クレイグ・ショート](https://ja.wikipedia.org/wiki/w:Craig_Short "wikilink") 2010
 
   - [ポール・インス](../Page/ポール・インス.md "wikilink") 2010-2011
 
@@ -345,7 +347,15 @@
 
   - [アラン・スミス](../Page/アラン・スミス.md "wikilink") 2017（暫定）
 
-  - [ケヴィン・ノーラン](../Page/ケヴィン・ノーラン.md "wikilink") 2017-
+  - [ケヴィン・ノーラン](../Page/ケヴィン・ノーラン.md "wikilink") 2017-2018
+
+  - [スティーブ・チェトル](https://ja.wikipedia.org/wiki/w:Steve_Chettle "wikilink") / [マーク・クロスリー](https://ja.wikipedia.org/wiki/w:Mark_Crossley "wikilink") 2018（暫定）
+
+  - [ハリー・キューウェル](../Page/ハリー・キューウェル.md "wikilink") 2018（暫定）
+
+  - [スティーブ・チェトル](https://ja.wikipedia.org/wiki/w:Steve_Chettle "wikilink") 2018（暫定）
+
+  - [ニール・アードレー](https://ja.wikipedia.org/wiki/w:Neal_Ardley "wikilink") 2018-
 
 ## 歴代所属選手
 

@@ -24,7 +24,7 @@
 ## 外部リンク
 
   - [smile39.com](http://smile39.com/) - 公式ウェブサイト
-  - [smile 池口郁哉オフィシャルブログ](http://ameblo.jp/smile39-ikeguchi/)
-  - [smile 小嶋勇人オフィシャルブログ](http://ameblo.jp/smile39-kojima/)
+  - [smile 池口郁哉オフィシャルブログ](https://ameblo.jp/smile39-ikeguchi/)
+  - [smile 小嶋勇人オフィシャルブログ](https://ameblo.jp/smile39-kojima/)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")

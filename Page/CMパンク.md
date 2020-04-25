@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[CMパンク](https://ja.wikipedia.org/wiki/CMパンク)から翻訳されています。
 
 
 **CMパンク**（*CM Punk*、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月26日](../Page/10月26日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")、[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。本名は**フィリップ・ブルックス** (*Phillip Jack Brooks*)。[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身。[ルーファスポーツ](https://ja.wikipedia.org/wiki/ルーファスポーツ "wikilink")所属。

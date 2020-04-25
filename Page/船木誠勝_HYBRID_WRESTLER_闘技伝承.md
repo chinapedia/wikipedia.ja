@@ -1,4 +1,4 @@
-> この記事は[ HYBRID WRESTLER ](https://ja.wikipedia.org/wiki/_HYBRID_WRESTLER_)から翻訳されています。
+> この記事は[船木誠勝 HYBRID WRESTLER 闘技伝承](https://ja.wikipedia.org/wiki/船木誠勝_HYBRID_WRESTLER_闘技伝承)から翻訳されています。
 
 
 『**船木誠勝 HYBRID WRESTLER 闘技伝承**』（ふなきまさかつ ハイブリッドレスラー とうぎでんしょう）は、[テクノスジャパン](../Page/テクノスジャパン.md "wikilink")から発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")にて発売された。
@@ -143,7 +143,7 @@
 <!-- end list -->
 
   -
-    巨体を駆使した戦いをする悪役ペイントレスラー。リング上に炎を召喚する特殊技を持つ。モデルは[アブドーラ・ザ・ブッチャー](../Page/アブドーラ・ザ・ブッチャー.md "wikilink")
+    巨体を駆使した戦いをする悪役ペイントレスラー。リング上に炎を召喚する特殊技を持つ。モデルは[ジャイアント・キマラ](../Page/ジャイアント・キマラ.md "wikilink")
 
 <!-- end list -->
 

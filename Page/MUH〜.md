@@ -1,4 +1,4 @@
-> この記事は[MUH](https://ja.wikipedia.org/wiki/MUH)から翻訳されています。
+> この記事は[MUH〜](https://ja.wikipedia.org/wiki/MUH〜)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AkihabaraMuhGenki.jpg "wikilink")

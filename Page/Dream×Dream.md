@@ -1,4 +1,4 @@
-> この記事は[DreamDream](https://ja.wikipedia.org/wiki/DreamDream)から翻訳されています。
+> この記事は[Dream×Dream](https://ja.wikipedia.org/wiki/Dream×Dream)から翻訳されています。
 
 
 「**Dream×Dream**」（ドリーム・ドリーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の16作目の[シングル](../Page/シングル.md "wikilink")。
@@ -33,4 +33,4 @@
   - [GIZA studio presents -Girls-](https://ja.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")（\#1）
   - [劇場版 名探偵コナン 主題歌集 〜“20”All Songs〜](https://ja.wikipedia.org/wiki/劇場版_名探偵コナン_主題歌集_〜“20”All_Songs〜 "wikilink")（\#1）
 
-[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:名探偵コナン映画作品のアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナン映画作品のアニメソング "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")
+[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:名探偵コナン映画作品のアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナン映画作品のアニメソング "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

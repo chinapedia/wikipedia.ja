@@ -11,7 +11,7 @@ LOUD PARKは正統派のヘヴィメタルに加え、[スラッシュメタル]
 
 ## 略歴
 
-[2006年](../Page/2006年.md "wikilink")に[千葉の](../Page/千葉市.md "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")で二日間開催され、[ヘッドライナー](https://ja.wikipedia.org/wiki/ヘッドライナー "wikilink")を務めた[メガデス](../Page/メガデス_\(バンド\).md "wikilink")、[スレイヤー](../Page/スレイヤー.md "wikilink")を筆頭に、出演バンドの豪華さが大きな話題を呼んだ。[大阪でもLOUD](../Page/大阪市.md "wikilink") PARK OSAKAと称して数バンドによる夜のみのライヴが二日間行われた。
+[2006年](../Page/2006年.md "wikilink")に[千葉の](../Page/千葉市.md "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")で二日間開催され、[ヘッドライナーを務めた](../Page/ヘッドライナー_\(コンサート\).md "wikilink")[メガデス](../Page/メガデス_\(バンド\).md "wikilink")、[スレイヤー](../Page/スレイヤー.md "wikilink")を筆頭に、出演バンドの豪華さが大きな話題を呼んだ。[大阪でもLOUD](../Page/大阪市.md "wikilink") PARK OSAKAと称して数バンドによる夜のみのライヴが二日間行われた。
 
 [2007年](../Page/2007年.md "wikilink")には[埼玉の](../Page/埼玉県.md "wikilink")[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催され、集客は前年を下回ったものの、音響の改善や出演バンドが実力派揃いであったことにより、観客の反応は概ね良好だった。またこの時の公演がヘヴィメタル最高峰のボーカリストとされる[ロニー・ジェイムス・ディオ](../Page/ロニー・ジェイムス・ディオ.md "wikilink")の最後の来日となった。
 
@@ -85,7 +85,7 @@ LOUD PARKは正統派のヘヴィメタルに加え、[スラッシュメタル]
 <li><strong><a href="../Page/スレイヤー.md" title="wikilink">スレイヤー</a></strong></li>
 <li><a href="../Page/チルドレン・オブ・ボドム.md" title="wikilink">チルドレン・オブ・ボドム</a></li>
 <li><a href="../Page/イン・フレイムス.md" title="wikilink">イン・フレイムス</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/マストドン" title="wikilink">マストドン</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/マストドン_(バンド)" title="wikilink">マストドン</a></li>
 <li><a href="../Page/ラム・オブ・ゴッド.md" title="wikilink">ラム・オブ・ゴッド</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/:en:Bloodsimple" title="wikilink">ブラッド・シンプル</a></li>
 </ul></td>
@@ -122,7 +122,7 @@ Zepp Osaka</p></th>
 <td><ul>
 <li><a href="../Page/スレイヤー.md" title="wikilink">スレイヤー</a></li>
 <li><a href="../Page/イン・フレイムス.md" title="wikilink">イン・フレイムス</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/マストドン" title="wikilink">マストドン</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/マストドン_(バンド)" title="wikilink">マストドン</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -189,7 +189,7 @@ Zepp Osaka</p></th>
 <td><ul>
 <li><a href="../Page/ヘヴン・アンド・ヘル_(バンド).md" title="wikilink">ヘヴン・アンド・ヘル</a></li>
 <li><a href="../Page/マリリン・マンソン.md" title="wikilink">マリリン・マンソン</a></li>
-<li>ナイル</li>
+<li><a href="https://ja.wikipedia.org/wiki/ナイル_(バンド)" title="wikilink">ナイル</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ka-yu" title="wikilink">松本和之</a>(オープニングアクト)</li>
 </ul></td>
 </tr>

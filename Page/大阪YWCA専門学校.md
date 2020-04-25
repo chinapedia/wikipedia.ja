@@ -1,4 +1,4 @@
-> この記事は[YWCA](https://ja.wikipedia.org/wiki/YWCA)から翻訳されています。
+> この記事は[大阪YWCA専門学校](https://ja.wikipedia.org/wiki/大阪YWCA専門学校)から翻訳されています。
 
 
 **大阪YWCA専門学校**（おおさかワイダブリュシーエーせんもんがっこう）は、[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[神山町にある](https://ja.wikipedia.org/wiki/神山町_\(大阪市\) "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")。[財団法人](../Page/財団法人.md "wikilink")[大阪YWCAが運営する](../Page/キリスト教女子青年会.md "wikilink")。
@@ -19,7 +19,7 @@
 ## 所在地等
 
   - 所在地：〒530-0026 大阪府大阪市北区神山町11-12
-  - 最寄駅：[地下鉄堺筋線](../Page/大阪市高速電気軌道堺筋線.md "wikilink") [扇町駅](https://ja.wikipedia.org/wiki/扇町駅_\(大阪府\) "wikilink")
+  - 最寄駅：[地下鉄堺筋線](https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線 "wikilink") [扇町駅](https://ja.wikipedia.org/wiki/扇町駅_\(大阪府\) "wikilink")
 
 ## 外部リンク
 

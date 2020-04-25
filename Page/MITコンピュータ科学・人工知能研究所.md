@@ -1,4 +1,4 @@
-> この記事は[MIT](https://ja.wikipedia.org/wiki/MIT)から翻訳されています。
+> この記事は[MITコンピュータ科学・人工知能研究所](https://ja.wikipedia.org/wiki/MITコンピュータ科学・人工知能研究所)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Stata_Center1.jpg "wikilink") **MITコンピュータ科学・人工知能研究所**（**MIT Computer Science and Artificial Intelligence Laboratory**、**CSAIL**）は、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")にある学際的研究所。[2003年](../Page/2003年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")、[MITコンピュータ科学研究所](https://ja.wikipedia.org/wiki/MITコンピュータ科学研究所 "wikilink")と[MIT人工知能研究所](../Page/MIT人工知能研究所.md "wikilink")の合併により創設された。CSAIL は研究領域においても研究員の人数においてもMIT最大の研究所である。所長は教授の[ロドニー・ブルックス](../Page/ロドニー・ブルックス.md "wikilink")。その建物は[フランク・ゲーリー](../Page/フランク・ゲーリー.md "wikilink")が設計した Stata Center である。

@@ -1,4 +1,4 @@
-> この記事は[AT\&T](https://ja.wikipedia.org/wiki/AT\&T)から翻訳されています。
+> この記事は[AT\&Tモビリティ](https://ja.wikipedia.org/wiki/AT\&Tモビリティ)から翻訳されています。
 
 
 **AT\&Tモビリティ** (*AT\&T Mobility LLC*) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の加入者数第2位の[携帯電話事業者](../Page/電気通信事業者.md "wikilink")。[AT\&T Inc.の完全子会社で](../Page/AT&T.md "wikilink")、旧社名はシンギュラー・ワイヤレス(*Cingular Wireless, LLC*、[:en:Cingular Wireless](https://ja.wikipedia.org/wiki/:en:Cingular_Wireless "wikilink"))。本社所在地は、[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")。2019年9月末現在、1億6230万人\[1\]の加入者を擁する。

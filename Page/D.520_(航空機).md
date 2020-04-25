@@ -1,4 +1,4 @@
-> この記事は[D.520 \(\)](https://ja.wikipedia.org/wiki/D.520_\(\))から翻訳されています。
+> この記事は[D.520 \(航空機\)](https://ja.wikipedia.org/wiki/D.520_\(航空機\))から翻訳されています。
 
 
 [thumbに展示されたD](https://ja.wikipedia.org/wiki/ファイル:Dewoitine_D.520_Le_Bourget_02.JPG "wikilink").520\]\] **D.520**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で使用された[フランス空軍](../Page/フランス空軍.md "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")である。操縦性が優れており、[M.S.406の代替機](../Page/MS406_\(航空機\).md "wikilink")・後継機として大いに期待された。しかし、[部隊](../Page/部隊.md "wikilink")配備が遅れたため、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[電撃戦](../Page/電撃戦.md "wikilink")に対抗し戦局を変えるほどの活躍はできなかった。ドイツとの休戦後も生産が続けられ、[ドイツ軍や](../Page/ドイツ国防軍.md "wikilink")[イタリア軍](../Page/イタリア軍.md "wikilink")でも訓練用に使用された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では「**デヴォアティーヌ D.520**」と表記されることが多い。

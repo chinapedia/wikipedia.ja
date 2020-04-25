@@ -1,4 +1,4 @@
-> この記事は[ \(NHK2\)](https://ja.wikipedia.org/wiki/_\(NHK2\))から翻訳されています。
+> この記事は[英会話 \(NHKラジオ第2放送\)](https://ja.wikipedia.org/wiki/英会話_\(NHKラジオ第2放送\))から翻訳されています。
 
 
 『NHKラジオ**英会話**』（えいかいわ）は、[1992年](../Page/1992年.md "wikilink")度から[2001年](../Page/2001年.md "wikilink")度まで[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で放送されていた[語学番組](../Page/語学番組.md "wikilink")である。

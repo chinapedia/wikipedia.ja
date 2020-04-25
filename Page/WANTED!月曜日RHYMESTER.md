@@ -1,4 +1,4 @@
-> この記事は[WANTED!RHYMESTER](https://ja.wikipedia.org/wiki/WANTED!RHYMESTER)から翻訳されています。
+> この記事は[WANTED!月曜日RHYMESTER](https://ja.wikipedia.org/wiki/WANTED!月曜日RHYMESTER)から翻訳されています。
 
 
 **[WANTED\!](../Page/WANTED!.md "wikilink")**は[TOKYO FMをキー局にJFN系列で](../Page/エフエム東京.md "wikilink")2005年4月4日から2007年3月29日まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[RHYMESTER](../Page/RHYMESTER.md "wikilink")は月曜日を担当していた。

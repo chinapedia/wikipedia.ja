@@ -870,9 +870,9 @@ RZCD-46804</p></td>
 
   - [KEN-U Official Information](http://kenuinfo.tumblr.com/)
 
-  - [KEN-U OFFICIAL BLOG「CRUISE CONTROL」by Ameba](http://ameblo.jp/ken-u-cruisecontrol/)
+  - [KEN-U OFFICIAL BLOG「CRUISE CONTROL」by Ameba](https://ameblo.jp/ken-u-cruisecontrol/)
 
-  - [KEN-U | SonyMusic](http://www.sonymusic.co.jp/artist/ken-u/)(更新停止)
+  - [KEN-U | SonyMusic](https://www.sonymusic.co.jp/artist/ken-u/)(更新停止)
 
   -
 [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink")

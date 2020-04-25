@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[双葉社Webマガジン](https://ja.wikipedia.org/wiki/双葉社Webマガジン)から翻訳されています。
 
 
 「**双葉社Webマガジン**」（ふたばしゃウェブマガジン）とは[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")が自社の公式ホームページ内で運営する、登録不要かつ閲覧無料の[ウェブコミック配信サイト](https://ja.wikipedia.org/wiki/ウェブコミック配信サイト "wikilink")である。[コミックス](https://ja.wikipedia.org/wiki/コミックス "wikilink")、[小説](../Page/小説.md "wikilink")、[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")、[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")・[実用](https://ja.wikipedia.org/wiki/実用 "wikilink")、[アダルト](https://ja.wikipedia.org/wiki/アダルト "wikilink")（18歳以上が閲覧可能）の各ジャンルがある。プラグインフリービューア形式、または[PDF形式を使って配信している](../Page/Portable_Document_Format.md "wikilink")。なお、連載終了した作品でも一部（または全部）が閲覧可能になっている。

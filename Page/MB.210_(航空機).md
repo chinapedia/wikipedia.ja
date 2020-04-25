@@ -1,4 +1,4 @@
-> この記事は[MB.210 \(\)](https://ja.wikipedia.org/wiki/MB.210_\(\))から翻訳されています。
+> この記事は[MB.210 \(航空機\)](https://ja.wikipedia.org/wiki/MB.210_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Bloch_210_Spanish_Republican_AF.jpg "wikilink") **MB.210**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ブロシュ社によって開発された中距離](../Page/ダッソー.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。[1934年](../Page/1934年.md "wikilink")に初飛行し、当時の[フランス空軍](../Page/フランス空軍.md "wikilink")の爆撃機の中では最も優れた性能を示した。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時には旧式化していたが、爆撃任務に就いた機体もあった。

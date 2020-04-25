@@ -1,4 +1,4 @@
-> この記事は[DESTINATION \(\)](https://ja.wikipedia.org/wiki/DESTINATION_\(\))から翻訳されています。
+> この記事は[DESTINATION \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/DESTINATION_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**DESTINATION**』（デスティネーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の22枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは2006年6月21日に[ユニバーサルシグマよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（[CD](../Page/コンパクトディスク.md "wikilink"): UMCK-1209、[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")）。

@@ -14,7 +14,7 @@
   - 月曜:[政木ゆか](https://ja.wikipedia.org/wiki/政木ゆか "wikilink")（現・[まさきゆか](https://ja.wikipedia.org/wiki/まさきゆか "wikilink")）
   - 火曜:[三浦ひろみ](https://ja.wikipedia.org/wiki/三浦ひろみ "wikilink")（現在も[広島で活躍するパーソナリティ](../Page/広島県.md "wikilink")、担当時は[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")で通っていた）
   - 水曜:ミチコ（当時[大分などで活躍していたDJ](../Page/大分県.md "wikilink")）
-  - 木曜:田中リエ（[声優](../Page/声優.md "wikilink")の[田中理恵とは別人](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")、終了後[FM802](../Page/FM802.md "wikilink")や[fm fukuokaでも活躍した](../Page/エフエム福岡.md "wikilink")）
+  - 木曜:田中リエ（[声優](../Page/声優.md "wikilink")の[田中理恵とは別人](../Page/田中理恵_\(声優\).md "wikilink")、終了後[FM802](../Page/FM802.md "wikilink")や[fm fukuokaでも活躍した](../Page/エフエム福岡.md "wikilink")）
 
 ## その他担当したナビゲーター
 

@@ -1,4 +1,4 @@
-> この記事は[BAN BAN BAN \(\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(\))から翻訳されています。
+> この記事は[BAN BAN BAN \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/BAN_BAN_BAN_\(お笑いコンビ\))から翻訳されています。
 
 
 **BAN BAN BAN**（ばんばんばん）は[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink") 所属\[1\] の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。共に[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")出身。旧コンビ名は「**パリパリポリパリ**」\[2\]。
@@ -27,7 +27,7 @@
       - 趣味 アニメ鑑賞 声優モノマネ
       - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")・[ばいきんまん](https://ja.wikipedia.org/wiki/ばいきんまん "wikilink")の[中尾隆聖](../Page/中尾隆聖.md "wikilink")のモノマネが得意で、[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")2010では「フリーザVSばいきんまん in[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")」というネタを披露した。
       - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")の[物真似](../Page/物真似.md "wikilink")、[コスプレ](../Page/コスプレ.md "wikilink")をしてネタを行う事が多い\[13\]が、お笑いLIVEではコスプレをせず、[漫才](../Page/漫才.md "wikilink")、[コント](../Page/コント.md "wikilink")を行う。
-      - 中尾隆聖の妻とマネージャーにモノマネで電話で話したところ、全くばれずに過ごしたと言う伝説を持つほど中尾の声帯模写が上手い。あまり知られてはいないが[中尾隆聖](../Page/中尾隆聖.md "wikilink")、[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[オール巨人](https://ja.wikipedia.org/wiki/オール巨人 "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[花火](../Page/花火.md "wikilink")等のモノマネが得意。
+      - 中尾隆聖の妻とマネージャーにモノマネで電話で話したところ、全くばれずに過ごしたと言う伝説を持つほど中尾の声帯模写が上手い。あまり知られてはいないが[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[オール巨人](https://ja.wikipedia.org/wiki/オール巨人 "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[花火](../Page/花火.md "wikilink")等のモノマネが得意。
       - 18歳の時に大阪吉本でアカペラバンドを組み歌手として活動しながらbaseよしもとで行われていた「baseプレステージ」に前のコンビ、ドック・タグ(後のグリーンボール)で参加。その時、大阪NSC21期生扱いとして活動していた\[14\]。その後、解散し上京後に幼馴染の鮫島とパリパリポリパリを結成、鮫島が東京NSC8期生\[15\]の為（大阪NSC25期生相当）山本も東京NSC8期生扱い。実際の所、NSCには大阪、東京共に通ってはいない。
       - 声優オーディションの方にも参加をしており2013年発売 アニメ『[蒼い世界の中心で](https://ja.wikipedia.org/wiki/蒼い世界の中心で "wikilink")』DVD特典作品「外伝 勇者ミョムト」の600人参加のオーディションに合格し教祖イブリル役に選ばれた。
       - 2016年、第1子女児が誕生\[16\]。

@@ -1,4 +1,4 @@
-> この記事は[Web](https://ja.wikipedia.org/wiki/Web)から翻訳されています。
+> この記事は[Web写真](https://ja.wikipedia.org/wiki/Web写真)から翻訳されています。
 
 
 **Web写真**（ウェブしゃしん）とは[webをメインの発表の場とした](../Page/World_Wide_Web.md "wikilink")[写真](../Page/写真.md "wikilink")のジャンル。

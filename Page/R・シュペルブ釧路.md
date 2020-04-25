@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[R・シュペルブ釧路](https://ja.wikipedia.org/wiki/R・シュペルブ釧路)から翻訳されています。
 
 
 **R.シュペルブ釧路**（アール・シュペルブくしろ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[釧路市](../Page/釧路市.md "wikilink")をホームタウンとするサッカークラブチーム。

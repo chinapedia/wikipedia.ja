@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOX出版](https://ja.wikipedia.org/wiki/FOX出版)から翻訳されています。
 
 
 **FOX出版**（フォックスしゅっぱん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")**ツクルノモリ株式会社**のブランド。

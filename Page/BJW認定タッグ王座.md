@@ -1,4 +1,4 @@
-> この記事は[BJW](https://ja.wikipedia.org/wiki/BJW)から翻訳されています。
+> この記事は[BJW認定タッグ王座](https://ja.wikipedia.org/wiki/BJW認定タッグ王座)から翻訳されています。
 
 
 **BJW認定タッグ王座**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体である[大日本プロレス](../Page/大日本プロレス.md "wikilink")が管理する王座。

@@ -1,4 +1,4 @@
-> この記事は[ \(AIBA\)](https://ja.wikipedia.org/wiki/_\(AIBA\))から翻訳されています。
+> この記事は[国際ボクシング協会 \(AIBA\)](https://ja.wikipedia.org/wiki/国際ボクシング協会_\(AIBA\))から翻訳されています。
 
 
 **国際ボクシング協会**（こくさいボクシングきょうかい、英:**International Boxing Association**\[1\]、仏:**Association Internationale de Boxe**、**AIBA**、**アイバ**）は、オープン[ボクシング](../Page/ボクシング.md "wikilink")（2013年まではアマチュアボクシング）を統括する[国際競技連盟](https://ja.wikipedia.org/wiki/国際競技連盟 "wikilink")である。[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink")（IOC）に加盟しているため、数多くの団体が乱立するプロとは異なり、このAIBAは世界のアマチュア全体をまとめる唯一の機関である。

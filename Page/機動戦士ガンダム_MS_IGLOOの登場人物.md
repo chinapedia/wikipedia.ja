@@ -1,4 +1,4 @@
-> この記事は[ MS IGLOO](https://ja.wikipedia.org/wiki/_MS_IGLOO)から翻訳されています。
+> この記事は[機動戦士ガンダム MS IGLOOの登場人物](https://ja.wikipedia.org/wiki/機動戦士ガンダム_MS_IGLOOの登場人物)から翻訳されています。
 
 
 **機動戦士ガンダム MS IGLOOの登場人物**（きどうせんしガンダム エムエス イグルーのとうじょうじんぶつ）では、[OVA](../Page/OVA.md "wikilink")『[機動戦士ガンダム MS IGLOO](../Page/機動戦士ガンダム_MS_IGLOO.md "wikilink")』及び、当作品を基にした漫画版に登場する、架空の人物を列挙する。

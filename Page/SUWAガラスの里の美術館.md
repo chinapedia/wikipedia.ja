@@ -1,4 +1,4 @@
-> この記事は[SUWA](https://ja.wikipedia.org/wiki/SUWA)から翻訳されています。
+> この記事は[SUWAガラスの里の美術館](https://ja.wikipedia.org/wiki/SUWAガラスの里の美術館)から翻訳されています。
 
 
 **SUWAガラスの里の美術館**（すわガラスのさとのびじゅつかん）は[諏訪湖](../Page/諏訪湖.md "wikilink")畔（[長野県](../Page/長野県.md "wikilink")[諏訪市](../Page/諏訪市.md "wikilink")の岡谷より）にあるガラスアミューズメント施設「SUWAガラスの里」に併設された[アール・デコ](../Page/アール・デコ.md "wikilink")期の[ガラス工芸](../Page/ガラス工芸.md "wikilink")作家[ルネ・ラリック](../Page/ルネ・ラリック.md "wikilink")や、現代[ガラス工芸作家](https://ja.wikipedia.org/wiki/ガラス工芸作家 "wikilink")の[美術館](../Page/美術館.md "wikilink")である。
@@ -60,7 +60,7 @@
   - [SUWAガラスの里の美術館（旧北澤美術館新館）・信州のガラス工芸の美術館（2013年6月13日閲覧）](http://www.mtlabs.co.jp/shinshu/museum/suwaglas.htm)
   - [SUWAガラスの里公式ＨＰ（2013年6月13日閲覧）](http://www.garasunosato.com/)
 
-[Category:長野県の美術館](https://ja.wikipedia.org/wiki/Category:長野県の美術館 "wikilink") [Category:諏訪市の教育](https://ja.wikipedia.org/wiki/Category:諏訪市の教育 "wikilink") [Category:日本のガラス美術館とギャラリー](https://ja.wikipedia.org/wiki/Category:日本のガラス美術館とギャラリー "wikilink") [Category:諏訪市の建築物](https://ja.wikipedia.org/wiki/Category:諏訪市の建築物 "wikilink")
+[Category:長野県の美術館](https://ja.wikipedia.org/wiki/Category:長野県の美術館 "wikilink") [Category:諏訪市の教育](https://ja.wikipedia.org/wiki/Category:諏訪市の教育 "wikilink") [Category:日本のガラス美術館とギャラリー](https://ja.wikipedia.org/wiki/Category:日本のガラス美術館とギャラリー "wikilink") [Category:諏訪市の建築物](https://ja.wikipedia.org/wiki/Category:諏訪市の建築物 "wikilink") [Category:2012年開設の博物館](https://ja.wikipedia.org/wiki/Category:2012年開設の博物館 "wikilink")
 
 1.
 2.

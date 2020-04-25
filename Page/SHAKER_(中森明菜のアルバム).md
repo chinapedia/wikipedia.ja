@@ -1,4 +1,4 @@
-> この記事は[SHAKER \(\)](https://ja.wikipedia.org/wiki/SHAKER_\(\))から翻訳されています。
+> この記事は[SHAKER \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/SHAKER_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**SHAKER**』（シェイカー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の17枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1997年3月21日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): MVCD-38)。2002年12月4日には『[SHAKER+3](https://ja.wikipedia.org/wiki/#SHAKER+3 "wikilink")』として[ユニバーサルJから再発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

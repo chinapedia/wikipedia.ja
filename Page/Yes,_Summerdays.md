@@ -7,7 +7,7 @@
 
   - [カメリアダイヤモンドの](../Page/三貴.md "wikilink")[CM曲になり](../Page/コマーシャルメッセージ.md "wikilink")、GLAYとしては最初のCMソングである。
   - [TAKURO](../Page/TAKURO.md "wikilink")の著書『[胸懐](https://ja.wikipedia.org/wiki/胸懐 "wikilink")』ではこの曲で得た印税でTAKUROは母親が抱えていた借金を纏めて返済し、長年実家を苦しめていた金の苦労を自分の力で解決出来た事が嬉しかったと語っている。
-  - タレントの[大泉洋](../Page/大泉洋.md "wikilink")がこの曲を大いに好いていて、1997年のGLAYへのインタビューで曲名を連呼するほどの溺愛ぶりであった。この模様は2008年に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の中で紹介された。しかし、大泉は「当時､GLAYの曲は『Yes, Summerdays』しか知らなかった」とも発言している。
+  - タレントの[大泉洋](../Page/大泉洋.md "wikilink")がこの曲を大いに好いていて、1997年のGLAYへのインタビューで曲名を連呼するほどの溺愛ぶりであった。この模様は2008年に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の中で紹介された。しかし、大泉は「当時､GLAYの曲は『Yes, Summerdays』しか知らなかった」とも発言している。
 
 ## 収録曲
 
@@ -45,4 +45,4 @@
 
   - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
-[Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:高橋栄樹の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督したミュージック・ビデオ "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[CPL \(\)](https://ja.wikipedia.org/wiki/CPL_\(\))から翻訳されています。
+> この記事は[CPL \(プログラミング言語\)](https://ja.wikipedia.org/wiki/CPL_\(プログラミング言語\))から翻訳されています。
 
 
 **CPL**（Combined Programming Language、「統合プログラミング言語」の意）は[C言語](../Page/C言語.md "wikilink")の遠い祖先となった古いプログラミング言語である。

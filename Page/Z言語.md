@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z言語](https://ja.wikipedia.org/wiki/Z言語)から翻訳されています。
 
 
 **Z言語** (ぜっどげんご) は、**Z記法** (ぜっどきほう) ともいい、形式[仕様記述言語](../Page/仕様記述言語.md "wikilink")であり、[コンピュータ](../Page/コンピュータ.md "wikilink")システムの記述とモデリングを行うために使われる。 Zは[ZF集合論から名前をとって命名された](../Page/公理的集合論.md "wikilink")。 Zは次のことに焦点を当てている。
@@ -10,7 +10,7 @@ Zは、もともとは1977年に Jean-Raymond Abrial により Steve Schuman と
 
 Zは、[公理的集合論](../Page/公理的集合論.md "wikilink")と[ラムダ計算](../Page/ラムダ計算.md "wikilink")、[一階述語論理](../Page/一階述語論理.md "wikilink")で使われる標準的な数学的記法に基づいている。 Zで記述されたあらゆる式は型づけられており、それにより[素朴集合論](https://ja.wikipedia.org/wiki/素朴集合論 "wikilink")の[パラドックス](../Page/パラドックス.md "wikilink")のいくつかを回避する。 Zは標準化されたカタログを含む。 このカタログは数学的ツールキットと呼ばれる。 このツールキットは、一般的に使われる数学的な関数と述語から構成される。
 
-Zは多くの非[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")シンボルを使っているが、Zの仕様ではZで使うシンボルをASCIIあるいは[LaTeX](../Page/LaTeX.md "wikilink")で表現する方法の提案を含んでいる。
+Zは多くの非[ASCII](../Page/ASCII.md "wikilink")シンボルを使っているが、Zの仕様ではZで使うシンボルをASCIIあるいは[LaTeX](../Page/LaTeX.md "wikilink")で表現する方法の提案を含んでいる。
 
 Zを初めて学ぶ人にとって有用な文献として次の資料がある。
 

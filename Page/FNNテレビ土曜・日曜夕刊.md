@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNテレビ土曜・日曜夕刊](https://ja.wikipedia.org/wiki/FNNテレビ土曜・日曜夕刊)から翻訳されています。
 
 
 『**FNNテレビ土曜夕刊・FNN（サンケイ新聞）テレビ日曜夕刊**』（エフエヌエヌテレビどようゆうかん・エフエヌエヌ（サンケイしんぶん）テレビにちようゆうかん）は、[1966年](../Page/1966年.md "wikilink")10月の[FNN発足](../Page/フジニュースネットワーク.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")に放送されていた夕方の[報道番組](../Page/報道番組.md "wikilink")である。

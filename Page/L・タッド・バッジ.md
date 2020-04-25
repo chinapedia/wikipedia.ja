@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[L・タッド・バッジ](https://ja.wikipedia.org/wiki/L・タッド・バッジ)から翻訳されています。
 
 
 **L・タッド・バッジ**（L. Todd Budge, [1959年](../Page/1959年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink") - ）は、 元[東京スター銀行](../Page/東京スター銀行.md "wikilink")頭取、会長。

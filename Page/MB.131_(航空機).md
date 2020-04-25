@@ -1,4 +1,4 @@
-> この記事は[MB.131 \(\)](https://ja.wikipedia.org/wiki/MB.131_\(\))から翻訳されています。
+> この記事は[MB.131 \(航空機\)](https://ja.wikipedia.org/wiki/MB.131_\(航空機\))から翻訳されています。
 
 
 [Bloch_MB_131_San_Diego_Air_%26_Space_Museum_3.jpg](https://ja.wikipedia.org/wiki/File:Bloch_MB_131_San_Diego_Air_%26_Space_Museum_3.jpg "fig:Bloch_MB_131_San_Diego_Air_%26_Space_Museum_3.jpg") **MB.131**は、フランスの[ブロシュ社によって開発された](../Page/ダッソー.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。[1936年](../Page/1936年.md "wikilink")に初飛行し[1938年](../Page/1938年.md "wikilink")から量産開始したが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時には低性能故に昼間爆撃任務には使えず夜間爆撃や偵察任務に使用され、ポテ63-11の登場により実戦部隊からは姿を消した。

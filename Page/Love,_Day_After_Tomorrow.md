@@ -17,6 +17,8 @@
 
 2009年9月、ベストアルバム『[ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")』（オリコン初登場1位）リリースのプロモーションで出演したテレビ朝日系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』にて、リリースから10年目にして初めて地上波で生披露された。 これまで１度もタイアップが付いていなかったが2019年、倉木麻衣デビュー２０周年企画として制作された[dTV](https://ja.wikipedia.org/wiki/dTV "wikilink")の配信ドラマ「FHIT MUSIC〜倉木麻衣〜」の主題歌に起用された。
 
+結成前の[GARNET CROWのメンバー](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")4人がアメリカでのデモ制作時に関わっている。
+
 累計売上枚数は1,385,190枚。
 
 ## 収録曲

@@ -1,4 +1,4 @@
-> この記事は[AX](https://ja.wikipedia.org/wiki/AX)から翻訳されています。
+> この記事は[けんびきょう座AX星](https://ja.wikipedia.org/wiki/けんびきょう座AX星)から翻訳されています。
 
 
 **けんびきょう座AX星**()、または**ラカーユ8760**()は、[けんびきょう座](../Page/けんびきょう座.md "wikilink")の方向にある[赤色矮星](../Page/赤色矮星.md "wikilink")である。[望遠鏡](../Page/望遠鏡.md "wikilink")なら容易く観測出来るが、視等級は6.7等なので、非常に良い観測条件であれば、なんとか肉眼でも観測出来る。[太陽系](../Page/太陽系.md "wikilink")からの距離は12.9[光年](../Page/光年.md "wikilink")（3.97パーセク）で、[地球に近い恒星の一つである](../Page/近い恒星の一覧.md "wikilink")。[ニコラ・ルイ・ド・ラカーユ](https://ja.wikipedia.org/wiki/ニコラ・ルイ・ド・ラカーユ "wikilink")により南アフリカ天文台で発見され、他の[恒星](../Page/恒星.md "wikilink")と共に1763年作成の[星表](../Page/星表.md "wikilink")に掲載された\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[RJC](https://ja.wikipedia.org/wiki/RJC)から翻訳されています。
+> この記事は[RJCカー・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/RJCカー・オブ・ザ・イヤー)から翻訳されています。
 
 
 **RJCカー・オブ・ザ・イヤー**（アール・ジェイ・シー・カー・オブ・ザ・イヤー ）は、日本における二大[カー・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/カー・オブ・ザ・イヤー "wikilink")の1つである。

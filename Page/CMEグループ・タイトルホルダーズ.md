@@ -1,4 +1,4 @@
-> この記事は[CME](https://ja.wikipedia.org/wiki/CME)から翻訳されています。
+> この記事は[CMEグループ・タイトルホルダーズ](https://ja.wikipedia.org/wiki/CMEグループ・タイトルホルダーズ)から翻訳されています。
 
 
 **CMEグループ ツアー選手権**（CME Group Tour Championship）は[LPGAツアーの年間最終戦](../Page/全米女子プロゴルフ協会.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[SDガンダム スカッドハンマーズ](https://ja.wikipedia.org/wiki/SDガンダム_スカッドハンマーズ)から翻訳されています。
 
 
 『**SDガンダム スカッドハンマーズ**』（エスディーガンダム スカッドハンマーズ、*SD GUNDAM SCAD HAMMERS*）は、[2006年](../Page/2006年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（バンダイレーベル）から発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")専用ゲームソフト。ハードの発売日と同時に発売された[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")の1つ。

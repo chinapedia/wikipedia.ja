@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALカード](https://ja.wikipedia.org/wiki/JALカード)から翻訳されています。
 
 
 **JALカード**（ジャルカード）は、[日本航空のグループ企業である](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")**株式会社ジャルカード**が、かつて発行していた[ハウスカード](../Page/ハウスカード.md "wikilink")（2010年8月31日で取扱終了）や、現在、発行している[提携カード](../Page/提携カード.md "wikilink")（現行のJALカード）である。

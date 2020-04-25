@@ -1,4 +1,4 @@
-> この記事は[100KISS](https://ja.wikipedia.org/wiki/100KISS)から翻訳されています。
+> この記事は[100万回のKISS](https://ja.wikipedia.org/wiki/100万回のKISS)から翻訳されています。
 
 
 『**100万回のKISS**』（ひゃくまんかいのキス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#.E3.83.AD.E3.83.83.E3.82.AF.E3.83.90.E3.83.B3.E3.83.89 "wikilink")、[GLAY](../Page/GLAY.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に発売した通算35作目のシングル。

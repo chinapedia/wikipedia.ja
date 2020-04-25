@@ -296,7 +296,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/エイルン・ラストコード_〜架空世界より戦場へ〜" title="wikilink">エイルン・ラストコード 〜架空世界より戦場へ〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東龍乃助" title="wikilink">東龍乃助</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みことあけみ" title="wikilink">みことあけみ</a></p></td>
-<td><p>既刊10巻</p></td>
+<td><p>全10巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エーテル/ギア" title="wikilink">エーテル//ギア</a></p></td>

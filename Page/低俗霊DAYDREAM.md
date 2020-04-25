@@ -131,6 +131,6 @@
 ## 外部リンク
 
   - [OARFISH SEA](http://oarfishsea.blog33.fc2.com/) 原作の奥瀬サキのブログ
-  - [目黒三吉のゴーゴー！ブログ](http://d.hatena.ne.jp/sanmasanma/) 作画の目黒三吉のブログ
+  - [目黒三吉のゴーゴー！ブログ](https://sanmasanma.hatenadiary.org/) 作画の目黒三吉のブログ
 
 [Category:漫画作品_て](https://ja.wikipedia.org/wiki/Category:漫画作品_て "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:霊を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:霊を題材とした漫画作品 "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:2004年のOVA](https://ja.wikipedia.org/wiki/Category:2004年のOVA "wikilink") [Category:ハルフィルムメーカー](https://ja.wikipedia.org/wiki/Category:ハルフィルムメーカー "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:角川コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:角川コミックスのアニメ作品 "wikilink")

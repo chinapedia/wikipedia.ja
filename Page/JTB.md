@@ -287,6 +287,7 @@
   - [大東敏治](../Page/大東敏治.md "wikilink") - [バンカーズパートナー](https://ja.wikipedia.org/wiki/バンカーズパートナー "wikilink")（後の[トラベルバンク](https://ja.wikipedia.org/wiki/トラベルバンク "wikilink")）創業者。
   - [折原一](../Page/折原一.md "wikilink") - 小説家。社員時代には出版関係の仕事を担当。
   - [吉野美奈子](https://ja.wikipedia.org/wiki/吉野美奈子 "wikilink") - 在職中[ローマ](../Page/ローマ.md "wikilink")出張時に[ミケランジェロに感銘](../Page/ミケランジェロ・ブオナローティ.md "wikilink")、美大に通い、退職後渡米し彫刻家になる。
+  - **[梅村みずほ](../Page/梅村みずほ.md "wikilink") - [政治家](../Page/政治家.md "wikilink")。元[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・[タレント](../Page/タレント.md "wikilink")。[日本維新の会所属の](https://ja.wikipedia.org/wiki/日本維新の会_\(2016-\) "wikilink")[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")議員。**
 
 ## 不祥事
 

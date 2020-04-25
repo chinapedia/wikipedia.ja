@@ -134,7 +134,7 @@
 
 ## 各国のサークルK
 
-[大州](../Page/大州.md "wikilink")ごとに分けて述べる。
+[撤退した国以外は](https://ja.wikipedia.org/wiki/#撤退した国 "wikilink")[大州](../Page/大州.md "wikilink")ごとに分けて述べる。
 
 ### 南北アメリカ
 
@@ -144,7 +144,9 @@
 
 [ConMor.JPG](https://ja.wikipedia.org/wiki/File:ConMor.JPG "fig:ConMor.JPG")のガソリンスタンド「サークルK」\]\] [US17_GA25_SB,_Darien.jpg](https://ja.wikipedia.org/wiki/File:US17_GA25_SB,_Darien.jpg "fig:US17_GA25_SB,_Darien.jpg")[フェアフィールド郡](https://ja.wikipedia.org/wiki/フェアフィールド郡 "wikilink")のガソリンスタンド「サークルK」\]\] [General_Lee_Taken_Down_(34381505070).jpg](https://ja.wikipedia.org/wiki/File:General_Lee_Taken_Down_\(34381505070\).jpg "fig:General_Lee_Taken_Down_(34381505070).jpg")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")のコンビニエンスストア「サークルK」\]\] においては[2006年](../Page/2006年.md "wikilink")に旧オーナーの[コノコフィリップス](../Page/コノコフィリップス.md "wikilink")社がサークルKブランドをライセンスし、[西部で](../Page/アメリカ合衆国西部.md "wikilink")[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")「サークルK」の運営権を保有している。
 
-コンビニエンスストア店舗・ガソリンスタンド店舗ともに電子マネーの**Circle K Easy Pay**が導入されている\[26\]。
+コンビニエンスストア店舗・ガソリンスタンド店舗ともに電子マネーの**Circle K Easy Pay**（*サークル・ケイ・イージー・ペイ*）が導入されている\[26\]。
+
+[Lawson's_Chip_Dip.jpg](https://ja.wikipedia.org/wiki/File:Lawson's_Chip_Dip.jpg "fig:Lawson's_Chip_Dip.jpg") なお、米国の[ローソン](../Page/ローソン.md "wikilink")（**）を転換した**デイリーマート**（**）\[27\]をサークルKストアーズの親会社であるアリマンタシォン・クシュタールが買収しサークルKに転換した\[28\]が、この経緯から米国のサークルKではローソンブランドを冠した商品が販売されている\[29\]。
 
 #### カナダ
 
@@ -152,7 +154,7 @@
 
 その後、サークルKのブランドを所持する[アリマンタシォン・クシュタール](https://ja.wikipedia.org/wiki/アリマンタシォン・クシュタール "wikilink")がを買収したことにより2008年よりカナダに再出店している。
 
-また、2015年から2018年にかけての店舗をサークルKに転換している\[27\]。
+また、2015年から2018年にかけての店舗をサークルKに転換している\[30\]。
 
 #### メキシコ
 
@@ -160,11 +162,11 @@
 
 #### ホンジュラス
 
-においては、現地ライセンシーである**サークルKホンジュラス**により運営されている\[28\]。
+においては、現地ライセンシーである**サークルKホンジュラス**により運営されている\[31\]。
 
 #### コスタリカ
 
-においてはデリマート（）からの転換により2015年に出店を開始した\[29\]。
+においてはデリマート（）からの転換により2015年に出店を開始した\[32\]。
 
 ### ヨーロッパ
 
@@ -186,11 +188,11 @@
 
 #### ノルウェー
 
-[Statoil_blir_til_Cirkle_K_(2).jpg](https://ja.wikipedia.org/wiki/File:Statoil_blir_til_Cirkle_K_\(2\).jpg "fig:Statoil_blir_til_Cirkle_K_(2).jpg")）\]\] においてはスタトイルからの転換により2016年より出店を開始した\[30\]。
+[Statoil_blir_til_Cirkle_K_(2).jpg](https://ja.wikipedia.org/wiki/File:Statoil_blir_til_Cirkle_K_\(2\).jpg "fig:Statoil_blir_til_Cirkle_K_(2).jpg")）\]\] においてはスタトイルからの転換により2016年より出店を開始した\[33\]。
 
 #### エストニア
 
-[Circle_K_Järvevana_-_Järvevana_tee_2.jpg](https://ja.wikipedia.org/wiki/File:Circle_K_Järvevana_-_Järvevana_tee_2.jpg "fig:Circle_K_Järvevana_-_Järvevana_tee_2.jpg") においては**サークルKエストニア**（**）により店舗展開されている。同社の決算日は4月30日である\[31\]。
+[Circle_K_Järvevana_-_Järvevana_tee_2.jpg](https://ja.wikipedia.org/wiki/File:Circle_K_Järvevana_-_Järvevana_tee_2.jpg "fig:Circle_K_Järvevana_-_Järvevana_tee_2.jpg") においては**サークルKエストニア**（**）により店舗展開されている。同社の決算日は4月30日である\[34\]。
 
 #### ポーランド
 
@@ -202,21 +204,21 @@
 
 #### デンマーク
 
-においては、現地ライセンシーである**サークルKデンマーク**（**）により運営されている\[32\]。
+においては、現地ライセンシーである**サークルKデンマーク**（**）により運営されている\[35\]。
 
 #### ラトビア
 
-においては、現地ライセンシーである**サークルKラトビア**（**）により運営されている\[33\]。
+においては、現地ライセンシーである**サークルKラトビア**（**）により運営されている\[36\]。
 
 ### アジア
 
-アジアにおいては中国語圏など一部の地域を除いてサークルKストアーズと日本ライセンシーの[サークルKサンクス（のちのファミリーマート (2代)）の合弁](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")（50%ずつ出資）により設立された**サークルKアジア**（**\[34\]）がマスターライセンスを保有している\[35\]。なおサークルKサンクスはのちに合弁を解消し、サークルKアジアの株式をサークルKストアーズへ売却している\[36\]。なお、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏では「サークル・ケイ」は発音が難しいことと、ロゴの「Ⓚ」（○の中にK）が「OK」と分解できることから、通常「OK」にちなんだ名で呼ばれている。
+アジアにおいては中国語圏など一部の地域を除いてサークルKストアーズと日本ライセンシーの[サークルKサンクス（のちのファミリーマート (2代)）の合弁](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")（50%ずつ出資）により設立された**サークルKアジア**（**\[37\]）がマスターライセンスを保有している\[38\]。なおサークルKサンクスはのちに合弁を解消し、サークルKアジアの株式をサークルKストアーズへ売却している\[39\]。なお、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏では「サークル・ケイ」は発音が難しいことと、ロゴの「Ⓚ」（○の中にK）が「OK」と分解できることから、通常「OK」にちなんだ名で呼ばれている。
 
 #### 香港
 
 [HK_Kennedy_Town_Balcher_Street_Circle_K_Sun_Island_English.JPG](https://ja.wikipedia.org/wiki/File:HK_Kennedy_Town_Balcher_Street_Circle_K_Sun_Island_English.JPG "fig:HK_Kennedy_Town_Balcher_Street_Circle_K_Sun_Island_English.JPG") [HK_Cheung_Sha_Wan_Road_888_長沙灣道_利豐大廈_Li_Fung_Tower_sidewalk_shop_Circle_K_light_box_sign_night_Oct-2010.JPG](https://ja.wikipedia.org/wiki/File:HK_Cheung_Sha_Wan_Road_888_長沙灣道_利豐大廈_Li_Fung_Tower_sidewalk_shop_Circle_K_light_box_sign_night_Oct-2010.JPG "fig:HK_Cheung_Sha_Wan_Road_888_長沙灣道_利豐大廈_Li_Fung_Tower_sidewalk_shop_Circle_K_light_box_sign_night_Oct-2010.JPG") [HK_柴灣站_Chai_Wan_MTR_Station_concourse_shop_Feb_2017_IX1_Circle_K_Ministore.jpg](https://ja.wikipedia.org/wiki/File:HK_柴灣站_Chai_Wan_MTR_Station_concourse_shop_Feb_2017_IX1_Circle_K_Ministore.jpg "fig:HK_柴灣站_Chai_Wan_MTR_Station_concourse_shop_Feb_2017_IX1_Circle_K_Ministore.jpg") へは1985年に出店を開始。他の中国語圏同様OKにちなんだブランド名が付された。
 
-香港のサークルKは[利豊](https://ja.wikipedia.org/wiki/利豊 "wikilink")（）の子会社の（**CRA集団**）により**OK便利店**として運営されている\[37\]\[38\]。以前は[中国広東へも当社がOK便利店を展開していた他](https://ja.wikipedia.org/wiki/#中華人民共和国 "wikilink")、合弁の子会社により[マカオへもOK便利店が展開されている](https://ja.wikipedia.org/wiki/#マカオ "wikilink")。[台湾でも同名のOK便利店が展開されていたが](https://ja.wikipedia.org/wiki/#台湾 "wikilink")、こちらは[OK超商に改称されている](https://ja.wikipedia.org/wiki/#台湾 "wikilink")。
+香港のサークルKは[利豊](https://ja.wikipedia.org/wiki/利豊 "wikilink")（）の子会社の（**CRA集団**）により**OK便利店**として運営されている\[40\]\[41\]。以前は[中国広東へも当社がOK便利店を展開していた他](https://ja.wikipedia.org/wiki/#中華人民共和国 "wikilink")、合弁の子会社により[マカオへもOK便利店が展開されている](https://ja.wikipedia.org/wiki/#マカオ "wikilink")。[台湾でも同名のOK便利店が展開されていたが](https://ja.wikipedia.org/wiki/#台湾 "wikilink")、こちらは[OK超商に改称されている](https://ja.wikipedia.org/wiki/#台湾 "wikilink")。
 
 このほか、小型店舗は**サークルKミニストア**（*Circle K MiniStore*）として運営されている。
 
@@ -236,13 +238,13 @@
 
 #### インドネシア
 
-[Circle_K_-_panoramio_(1).jpg](https://ja.wikipedia.org/wiki/File:Circle_K_-_panoramio_\(1\).jpg "fig:Circle_K_-_panoramio_(1).jpg")のサークルKならびに競合店のインドマレット\]\] ではサークルKアジアとのライセンス契約により出店を開始\[39\]。
+[Circle_K_-_panoramio_(1).jpg](https://ja.wikipedia.org/wiki/File:Circle_K_-_panoramio_\(1\).jpg "fig:Circle_K_-_panoramio_(1).jpg")のサークルKならびに競合店のインドマレット\]\] ではサークルKアジアとのライセンス契約により出店を開始\[42\]。
 
 やと並んで24時間営業の酒類・タバコ取扱店として店舗を展開している。
 
 #### マレーシア
 
-においてはサークルKアジアとのライセンス契約により\[40\]、モファスグループ（**）の**サークルKマレーシア**（**）が2013年からサークルKの店舗を展開している\[41\]。
+においてはサークルKアジアとのライセンス契約により\[43\]、モファスグループ（**）の**サークルKマレーシア**（**）が2013年からサークルKの店舗を展開している\[44\]。
 
 #### モンゴル
 
@@ -250,17 +252,17 @@
 
 #### ベトナム
 
-においてはサークルKアジアとのライセンス契約により\[42\]、が2008年に出店開始。現在のライセンシーは**サークルKベトナム**である\[43\]。
+においてはサークルKアジアとのライセンス契約により\[45\]、が2008年に出店開始。現在のライセンシーは**サークルKベトナム**である\[46\]。
 
 #### フィリピン
 
-においてはサークルKアジアとのライセンス契約により\[44\]、**スイ・シン・コマーシャル**の子会社であり**スーパー8・リテール・システムズ**が現地ライセンシーとして出店を開始。
+においてはサークルKアジアとのライセンス契約により\[47\]、**スイ・シン・コマーシャル**の子会社であり**スーパー8・リテール・システムズ**が現地ライセンシーとして出店を開始。
 
-しかしスーパー8・リテール・システムズをの子会社である**フィリピン・ファミリーマートCVS**(PFM)が買収したことにより[ファミリーマート](../Page/ファミリーマート.md "wikilink")に転換される予定\[45\]。
+しかしスーパー8・リテール・システムズをの子会社である**フィリピン・ファミリーマートCVS**(PFM)が買収したことにより[ファミリーマート](../Page/ファミリーマート.md "wikilink")に転換される予定\[48\]。
 
 #### カンボジア
 
-においては**THグループ**により2018年に出店を開始した\[46\]。
+においては**THグループ**により2018年に出店を開始した\[49\]。
 
 #### アラブ首長国連邦
 
@@ -276,7 +278,7 @@
 
 #### グアム
 
-[Circle_K_Store_in_Tumon,_Guam.JPG](https://ja.wikipedia.org/wiki/File:Circle_K_Store_in_Tumon,_Guam.JPG "fig:Circle_K_Store_in_Tumon,_Guam.JPG")のサークルK\]\] においてはサークルKアジアとのライセンス契約により出店を開始\[47\]。
+[Circle_K_Store_in_Tumon,_Guam.JPG](https://ja.wikipedia.org/wiki/File:Circle_K_Store_in_Tumon,_Guam.JPG "fig:Circle_K_Store_in_Tumon,_Guam.JPG")のサークルK\]\] においてはサークルKアジアとのライセンス契約により出店を開始\[50\]。
 
 1世代前のロゴマーク（[Circle_K_logo.svg](https://ja.wikipedia.org/wiki/File:Circle_K_logo.svg "fig:Circle_K_logo.svg")）と2世代前のロゴマーク（**<span style="color:red">Ⓚ</span>**）が併用されている。
 
@@ -289,13 +291,13 @@
 [Circle_K_Karasuma-Butsukouji.jpg](https://ja.wikipedia.org/wiki/File:Circle_K_Karasuma-Butsukouji.jpg "fig:Circle_K_Karasuma-Butsukouji.jpg")）
 [ファミリーマート](../Page/ファミリーマート.md "wikilink")に転換済\]\] [Circlek.fresh.jpg](https://ja.wikipedia.org/wiki/File:Circlek.fresh.jpg "fig:Circlek.fresh.jpg") におけるサークルKの運営は[ユニー](../Page/ユニー.md "wikilink")株式会社（初代）によるライセンス契約によって始められ、その後同社より分社され[サークルケイ・ジャパン株式会社](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\)#（初代）サークルケイ・ジャパン株式会社 "wikilink")（初代）→[サークルケイ・ジャパン株式会社](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\)#株式会社第一製材_/_（2代目）サークルケイ・ジャパン株式会社_/_株式会社シーアンドエス "wikilink")（2代）→[サークルケイ・ジャパン株式会社](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\)#（3代目）サークルケイ・ジャパン株式会社_/_株式会社サークルKサンクス_/_（2代目）株式会社ファミリーマート "wikilink")（3代）という変遷をたどったのちに、サンクスとの経営統合にともない株式会社[サークルKサンクスとなり](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\)#（3代目）サークルケイ・ジャパン株式会社_/_株式会社サークルKサンクス_/_（2代目）株式会社ファミリーマート "wikilink")、さらにユニーのファミリーマートとの経営統合にともない株式会社[ファミリーマート](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\)#（3代目）サークルケイ・ジャパン株式会社_/_株式会社サークルKサンクス_/_（2代目）株式会社ファミリーマート "wikilink")（2代）となった。2018年（平成30年）に[ファミリーマート](../Page/ファミリーマート.md "wikilink")にブランド転換され消滅。
 
-日本国内店舗ではオレンジの外枠に赤い**<span style="color:red">〇</span>**の中に**<span style="color:red">K</span>**が入っている古いタイプのロゴマーク（**<span style="color:red">Ⓚ</span>**）と、オレンジ、レッド、パープルの古い店舗イメージカラーを使用しており\[48\]、**マルK**（*マルケー*）の通称でも知られた。また、2014年度にオープンした新形態店「**サークルKフレッシュ**」は[前述のとおりグリーンを基調としており緑の](https://ja.wikipedia.org/wiki/#商標 "wikilink")**<span style="color:green">〇</span>**の中に**<span style="color:green">K</span>**のロゴマーク（**<span style="color:green">Ⓚ</span>**）だったほか、グループシナジーとして、食料品スーパー「[ピアゴ](https://ja.wikipedia.org/wiki/ピアゴ "wikilink")」との連携を意図して「**withピアゴ**」の付称が付けられていた。このほか、小型店は「**サークルKミニ**」のブランドで展開されていた。また、[サークルケイ四国](../Page/サークルケイ四国.md "wikilink")が考案した**K'sCAFE**も存在した。
+日本国内店舗ではオレンジの外枠に赤い**<span style="color:red">〇</span>**の中に**<span style="color:red">K</span>**が入っている古いタイプのロゴマーク（**<span style="color:red">Ⓚ</span>**）と、オレンジ、レッド、パープルの古い店舗イメージカラーを使用しており\[51\]、**マルK**（*マルケー*）の通称でも知られた。また、2014年度にオープンした新形態店「**サークルKフレッシュ**」は[前述のとおりグリーンを基調としており緑の](https://ja.wikipedia.org/wiki/#商標 "wikilink")**<span style="color:green">〇</span>**の中に**<span style="color:green">K</span>**のロゴマーク（**<span style="color:green">Ⓚ</span>**）だったほか、グループシナジーとして、食料品スーパー「[ピアゴ](https://ja.wikipedia.org/wiki/ピアゴ "wikilink")」との連携を意図して「**withピアゴ**」の付称が付けられていた。このほか、小型店は「**サークルKミニ**」のブランドで展開されていた。また、[サークルケイ四国](../Page/サークルケイ四国.md "wikilink")が考案した**K'sCAFE**も存在した。
 
-愛知県が地盤のユニーが親会社であり[東海地方](../Page/東海地方.md "wikilink")を地盤としていた為、半数以上の店舗が愛知県や静岡県等、[中部地方](../Page/中部地方.md "wikilink")に集中している（[山梨県](../Page/山梨県.md "wikilink")を除く。同県は中部地方では唯一、サークルK・サンクス共に出店履歴はない）\[49\]。逆に関東では[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")等の他のコンビニチェーンが圧倒的な勢力を占めている為に、他の地域と比べて店舗数が大幅に少なく、[東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[千葉県](../Page/千葉県.md "wikilink")\[50\]以外には出店しておらず、東京都でも全ての区部や地域に出店している訳では無く、東京都内ではサークルKが出店した事の無い区部や地域も少なくない\[51\]。その一方、ユニーの関東事務所が横浜市に設置されている関係で神奈川県は比較的店舗が多く、特にサンクスとの経営統合以前は[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）で頻繁にサークルK単独のCMが流れていた。
+愛知県が地盤のユニーが親会社であり[東海地方](../Page/東海地方.md "wikilink")を地盤としていた為、半数以上の店舗が愛知県や静岡県等、[中部地方](../Page/中部地方.md "wikilink")に集中している（[山梨県](../Page/山梨県.md "wikilink")を除く。同県は中部地方では唯一、サークルK・サンクス共に出店履歴はない）\[52\]。逆に関東では[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")等の他のコンビニチェーンが圧倒的な勢力を占めている為に、他の地域と比べて店舗数が大幅に少なく、[東京都](../Page/東京都.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")、[千葉県](../Page/千葉県.md "wikilink")\[53\]以外には出店しておらず、東京都でも全ての区部や地域に出店している訳では無く、東京都内ではサークルKが出店した事の無い区部や地域も少なくない\[54\]。その一方、ユニーの関東事務所が横浜市に設置されている関係で神奈川県は比較的店舗が多く、特にサンクスとの経営統合以前は[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）で頻繁にサークルK単独のCMが流れていた。
 
 中部地方以外では、[サークルケイ・ノースジャパン](../Page/サークルケイ・ノースジャパン.md "wikilink")が当地にて他チェーンよりも早い時期に出店開始した関係で[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")内や、中部地方に隣接している[滋賀県](../Page/滋賀県.md "wikilink")や[京都府](../Page/京都府.md "wikilink")等の[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")、[愛媛県](../Page/愛媛県.md "wikilink")や[高知県](../Page/高知県.md "wikilink")等の[四国地方](https://ja.wikipedia.org/wiki/四国地方 "wikilink")に比較的多く出店していた。
 
-旧[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「let's go to サークルK」「It’s friendly サークルK」「Touch Your Heart サークルK」「ハッピー＆スマイル サークルK」\[52\]「みんな来る来るサークルK」。
+旧[キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「let's go to サークルK」「It’s friendly サークルK」「Touch Your Heart サークルK」「ハッピー＆スマイル サークルK」\[55\]「みんな来る来るサークルK」。
 
 [サンクスと経営統合される以前より](https://ja.wikipedia.org/wiki/サンクス_\(コンビニエンスストア\) "wikilink")[おでん](https://ja.wikipedia.org/wiki/おでん "wikilink")は[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")の漫画作品『[おそ松くん](../Page/おそ松くん.md "wikilink")』に登場するおでん好きの少年・[チビ太](../Page/チビ太.md "wikilink")をイメージキャラクターとして「チビ太のおでん」として販売されており、経営統合後はサンクスにも展開された。
 
@@ -313,14 +315,14 @@
   - ひるがの高原SA店（[岐阜県](../Page/岐阜県.md "wikilink")[郡上市](../Page/郡上市.md "wikilink")） - [東海北陸自動車道](https://ja.wikipedia.org/wiki/東海北陸自動車道 "wikilink")[ひるがの高原サービスエリア](../Page/ひるがの高原サービスエリア.md "wikilink")下り線内
   - 岐阜南うずら店／岐阜南うずら五丁目店（岐阜県[岐阜市](../Page/岐阜市.md "wikilink")） - [2013年](../Page/2013年.md "wikilink")（平成25年）6月12日、岐阜南うずら五丁目店が開店したことにより、[県道1号線を挟んで](../Page/岐阜県道1号岐阜南濃線.md "wikilink")、真向かい合わせで出店している。同社においては他に例を見ない至近距離同士の店舗（岐阜南うずら店は閉店済み、岐阜南うずら五丁目店はファミリーマートへ業態転換済み）。
   - 三方原PA店（[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[東区](../Page/東区_\(浜松市\).md "wikilink")） - [東名高速道路](../Page/東名高速道路.md "wikilink")[三方原パーキングエリア](../Page/三方原パーキングエリア.md "wikilink")上り線内（ファミリーマートへ業態転換済み）。
-  - 岡崎りぶら店（愛知県[岡崎市](../Page/岡崎市.md "wikilink")） - 中京地区初の「K'sCafe」併設出店であり、イートインを伴った公立図書館への初出店である\[53\]\[54\]（閉店済み。跡地は[ローソン](../Page/ローソン.md "wikilink")となっている）。
+  - 岡崎りぶら店（愛知県[岡崎市](../Page/岡崎市.md "wikilink")） - 中京地区初の「K'sCafe」併設出店であり、イートインを伴った公立図書館への初出店である\[56\]\[57\]（閉店済み。跡地は[ローソン](../Page/ローソン.md "wikilink")となっている）。
   - 鞍ヶ池PA店（愛知県[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")） - [東海環状自動車道](../Page/東海環状自動車道.md "wikilink")[鞍ヶ池パーキングエリア](../Page/鞍ヶ池パーキングエリア.md "wikilink")内
   - 刈谷オアシス店（愛知県[刈谷市](../Page/刈谷市.md "wikilink")） - [伊勢湾岸自動車道](https://ja.wikipedia.org/wiki/伊勢湾岸自動車道 "wikilink")[刈谷パーキングエリア](../Page/刈谷パーキングエリア.md "wikilink")内（ファミリーマートへ業態転換済み）
   - 地下鉄金山店（名古屋市中区） - [地下鉄名城線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄名城線 "wikilink")・[名港線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄名港線 "wikilink")[金山駅の地下](../Page/金山駅_\(愛知県\).md "wikilink")1階コンコースにある
   - ルーセントタワー店（名古屋市西区） - [ルーセントタワー地階に出店](../Page/名古屋ルーセントタワー.md "wikilink")。看板のロゴが金色（ファミリーマートに業態転換済み）。
   - 大津ひえい平店（[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")） - [風致地区](../Page/風致地区.md "wikilink")にあるため、看板のロゴが焦げ茶色で、コーポレートカラー部分も窓の内側にあり目立たない
   - 同志社女子大学店（[京都府](../Page/京都府.md "wikilink")[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")） - [同志社女子大学](../Page/同志社女子大学.md "wikilink")京田辺キャンパス内
-  - [近畿中央病院](https://ja.wikipedia.org/wiki/近畿中央病院 "wikilink")店（[兵庫県](../Page/兵庫県.md "wikilink")[伊丹市](../Page/伊丹市.md "wikilink")） - サークルKの病院内出店1号店\[55\]（ファミリーマートへ業態転換済み）
+  - [近畿中央病院](https://ja.wikipedia.org/wiki/近畿中央病院 "wikilink")店（[兵庫県](../Page/兵庫県.md "wikilink")[伊丹市](../Page/伊丹市.md "wikilink")） - サークルKの病院内出店1号店\[58\]（ファミリーマートへ業態転換済み）
   - 東京競馬場イースト店（[東京都](../Page/東京都.md "wikilink")[府中市](../Page/府中市_\(東京都\).md "wikilink")） - 東京競馬場内、フジビュースタンド3階にあった。（合併前に閉店済み）
   - まっとう車遊館店（石川県[白山市](../Page/白山市.md "wikilink")） - [北陸自動車道](../Page/北陸自動車道.md "wikilink")[徳光パーキングエリア](../Page/徳光パーキングエリア.md "wikilink")そばに建つ商業施設内にあった。上下線のパーキングエリアと徒歩連絡でき、非高速道路利用者でも入店できたが、2007年秋に撤退。現在は[ローソン](../Page/ローソン.md "wikilink")になっている。（合併前に閉店済み）
   - 伊豆熱川店（[静岡県](../Page/静岡県.md "wikilink")[賀茂郡](../Page/賀茂郡.md "wikilink")[東伊豆町](../Page/東伊豆町.md "wikilink")） - サークルKのホテル内（セタスロイヤルホテル館内）出店1号店。2014年2月、ホテルの自己破産に伴い閉店。館内のため営業時間が決められていた。（合併前に閉店済み）
@@ -361,7 +363,7 @@
 
 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")、[山形県](../Page/山形県.md "wikilink")、[福島県](../Page/福島県.md "wikilink")、[茨城県](../Page/茨城県.md "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")、[福岡県](../Page/福岡県.md "wikilink")、**[山梨県](../Page/山梨県.md "wikilink")**、**[鳥取県](../Page/鳥取県.md "wikilink")**、**[島根県](../Page/島根県.md "wikilink")**、**[山口県](../Page/山口県.md "wikilink")**、**[佐賀県](../Page/佐賀県.md "wikilink")**、**[長崎県](../Page/長崎県.md "wikilink")**、**[大分県](../Page/大分県.md "wikilink")**、**[宮崎県](../Page/宮崎県.md "wikilink")**、※**[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")**、※**[鹿児島県](../Page/鹿児島県.md "wikilink")**、**[沖縄県](../Page/沖縄県.md "wikilink")**。
 
-サークルKは北海道・九州には1店舗もない。[広島県](../Page/広島県.md "wikilink")は[因島](../Page/因島.md "wikilink")と[生口島](../Page/生口島.md "wikilink")（ともに[尾道市](../Page/尾道市.md "wikilink")内）にのみ5店舗出店（サークルケイ四国が展開）。岩手県は北部の[二戸市](../Page/二戸市.md "wikilink")、[久慈市](../Page/久慈市.md "wikilink")、[九戸郡](../Page/九戸郡.md "wikilink")[洋野町](../Page/洋野町.md "wikilink")に出店。[埼玉県](../Page/埼玉県.md "wikilink")はレギュラー店舗では無く、[アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")桶川店内にサービス業務のみを行う店舗を1店（ミニSSアピタ桶川店）出店\[56\]。[千葉県](../Page/千葉県.md "wikilink")は浦安市に1店舗で、会社吸収間際の2016年7月にレギュラー店舗として同県に初出店\[57\]。
+サークルKは北海道・九州には1店舗もない。[広島県](../Page/広島県.md "wikilink")は[因島](../Page/因島.md "wikilink")と[生口島](../Page/生口島.md "wikilink")（ともに[尾道市](../Page/尾道市.md "wikilink")内）にのみ5店舗出店（サークルケイ四国が展開）。岩手県は北部の[二戸市](../Page/二戸市.md "wikilink")、[久慈市](../Page/久慈市.md "wikilink")、[九戸郡](../Page/九戸郡.md "wikilink")[洋野町](../Page/洋野町.md "wikilink")に出店。[埼玉県](../Page/埼玉県.md "wikilink")はレギュラー店舗では無く、[アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")桶川店内にサービス業務のみを行う店舗を1店（ミニSSアピタ桶川店）出店\[59\]。[千葉県](../Page/千葉県.md "wikilink")は浦安市に1店舗で、会社吸収間際の2016年7月にレギュラー店舗として同県に初出店\[60\]。
 
   - 各地域の撤退時期
 
@@ -371,26 +373,26 @@
 
   - [千葉県](../Page/千葉県.md "wikilink")※ 浦安市の1店舗のみの出店に留まった千葉県のサークルKは2017年秋にファミリーマートに転換された。サークルKが完全撤退した初めての事例となった。
   - [広島県](../Page/広島県.md "wikilink")※ 前述の通り、サークルKが芸予諸島のみに出店していたが、2017年内にファミリーマートに転換されてサークルKは同県から消滅した。
-  - [奈良県](../Page/奈良県.md "wikilink") 奈良県からはサンクスが先に撤退済みであるためサークルKのみが出店していたが、2018年6月末までにファミリーマートに転換されてサークルKは同県から消滅した\[58\]\[59\]。
-  - [和歌山県](../Page/和歌山県.md "wikilink") 和歌山県にはサークルKのみが出店していたが、2018年6月末までにファミリーマートに転換されてサークルKは同県から消滅した\[60\]\[61\]。
-  - [香川県](../Page/香川県.md "wikilink") 香川県のサンクスは2015年にサークルKに転換されすでに消滅していたため、サークルKのみが出店していたが、2018年6月末までにファミリーマートに転換されてサークルKは同県から消滅した\[62\]\[63\]。
+  - [奈良県](../Page/奈良県.md "wikilink") 奈良県からはサンクスが先に撤退済みであるためサークルKのみが出店していたが、2018年6月末までにファミリーマートに転換されてサークルKは同県から消滅した\[61\]\[62\]。
+  - [和歌山県](../Page/和歌山県.md "wikilink") 和歌山県にはサークルKのみが出店していたが、2018年6月末までにファミリーマートに転換されてサークルKは同県から消滅した\[63\]\[64\]。
+  - [香川県](../Page/香川県.md "wikilink") 香川県のサンクスは2015年にサークルKに転換されすでに消滅していたため、サークルKのみが出店していたが、2018年6月末までにファミリーマートに転換されてサークルKは同県から消滅した\[65\]\[66\]。
   - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した。
-  - [新潟県](../Page/新潟県.md "wikilink") 新潟県にはサークルKのみが出店していたが、2018年8月末までに消滅した\[64\]。
-  - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した\[65\]。
-  - [福井県](../Page/福井県.md "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した\[66\]。
-  - [長野県](../Page/長野県.md "wikilink") 長野県にはサークルKのみが出店していたが、2018年8月末までに消滅した\[67\]。
-  - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した\[68\]。
-  - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") 両ブランドとも出店していたが、2018年10月末までに消滅した\[69\]。
-  - [秋田県](../Page/秋田県.md "wikilink") 両ブランドとも出店していたが、2018年10月末までに消滅した\[70\]。
+  - [新潟県](../Page/新潟県.md "wikilink") 新潟県にはサークルKのみが出店していたが、2018年8月末までに消滅した\[67\]。
+  - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した\[68\]。
+  - [福井県](../Page/福井県.md "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した\[69\]。
+  - [長野県](../Page/長野県.md "wikilink") 長野県にはサークルKのみが出店していたが、2018年8月末までに消滅した\[70\]。
+  - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") 両ブランドとも出店していたが、2018年8月末までに消滅した\[71\]。
+  - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") 両ブランドとも出店していたが、2018年10月末までに消滅した\[72\]。
+  - [秋田県](../Page/秋田県.md "wikilink") 両ブランドとも出店していたが、2018年10月末までに消滅した\[73\]。
   - [岩手県](../Page/岩手県.md "wikilink")※
-  - [東京都](../Page/東京都.md "wikilink")※ 両ブランドとも出店していたが、2018年10月31日、最後まで残っていたサークルK府中清水が丘店が閉店し、11月6日に「ファミリーマート府中清水が丘二丁目店」に改称・リニューアルされてサークルKブランドが消滅した\[71\]。
+  - [東京都](../Page/東京都.md "wikilink")※ 両ブランドとも出店していたが、2018年10月31日、最後まで残っていたサークルK府中清水が丘店が閉店し、11月6日に「ファミリーマート府中清水が丘二丁目店」に改称・リニューアルされてサークルKブランドが消滅した\[74\]。
   - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink") 徳島県のサンクスは2015年にサークルKに転換されすでに消滅していたため、サークルKのみが出店していたが、2018年11月中に消滅した。
   - [愛媛県](../Page/愛媛県.md "wikilink") 愛媛県のサンクスは2015年にサークルKに転換されすでに消滅していたため、サークルKのみが出店していたが、2018年11月中に消滅した。
   - [高知県](../Page/高知県.md "wikilink") 高知県のサンクスは2015年にサークルKに転換されすでに消滅していたため、サークルKのみが出店していたが、2018年11月中に消滅した。
-  - [静岡県](../Page/静岡県.md "wikilink") 2018年11月、同県内からサンクスが消滅した翌21日に最後まで残っていたサークルK湖西坊瀬店がファミリーマートに転換するさいに同県から消滅した\[72\]。
+  - [静岡県](../Page/静岡県.md "wikilink") 2018年11月、同県内からサンクスが消滅した翌21日に最後まで残っていたサークルK湖西坊瀬店がファミリーマートに転換するさいに同県から消滅した\[75\]。
   - [京都府](../Page/京都府.md "wikilink") 京都府からはサンクスが先に撤退済みであるためサークルKのみが出店していたが、2018年11月にサークルK精華学研都市店がファミリーマートに転換のために閉店した事によりサークルKは京都府から消滅した。
   - [兵庫県](../Page/兵庫県.md "wikilink") 両ブランドとも出店していたが、2018年11月にサークルK神戸町横井店がファミリーマートに転換のために閉店した事によりに両ブランドとも消滅した。
-  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") 両ブランドとも出店していたが、サークルK[厚木三田店が](../Page/厚木市.md "wikilink")2018年11月26日にファミリーマートに転換するために閉店したことにより\[73\]、両ブランドとも消滅した。
+  - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") 両ブランドとも出店していたが、サークルK[厚木三田店が](../Page/厚木市.md "wikilink")2018年11月26日にファミリーマートに転換するために閉店したことにより\[76\]、両ブランドとも消滅した。
   - [滋賀県](../Page/滋賀県.md "wikilink") 滋賀県からはサンクスが先に撤退済みであるためサークルKのみが出店していたが、2018年11月26日に「サークルK南草津野路町店」がファミリーマートに転換のために閉店した事によりサークルKは滋賀県から消滅した。
   - [大阪府](../Page/大阪府.md "wikilink") 2018年11月、サンクスが府内から消滅した翌27日にはサークルK豊中空港前店がファミリーマートに転換のために閉店し、サークルKも同府から消滅した。
   - [岐阜県](../Page/岐阜県.md "wikilink") 両ブランドとも出店していたが、2018年11月29日に残存していたサークルK全店舗が閉店したことにより、両ブランドとも消滅。
@@ -404,7 +406,7 @@
 
 #### 大韓民国
 
-では1989年に[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")に出店した\[74\]が、1997年に[ハンファグループ](https://ja.wikipedia.org/wiki/ハンファグループ "wikilink")に店舗を売却し**Cスペース**（*C SPACE*）に転換されている\[75\]。
+では1989年に[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")に出店した\[77\]が、1997年に[ハンファグループ](https://ja.wikipedia.org/wiki/ハンファグループ "wikilink")に店舗を売却し**Cスペース**（*C SPACE*）に転換されている\[78\]。
 
 #### オーストラリア
 
@@ -419,8 +421,9 @@
   - [サンクス](https://ja.wikipedia.org/wiki/サンクス_\(コンビニエンスストア\) "wikilink") - 別々の起源をもつが、日本においてはサークルK撤退前において兄弟ブランドとなっていたコンビニエンスストア。
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink") - 日本におけるサークルK撤退時のブランド統合先。
   - [miniピアゴ](https://ja.wikipedia.org/wiki/miniピアゴ "wikilink") - 日本においてサークルK撤退前に同じユニーグループ内として兄弟ブランドであったコンビニエンスストア。こちらはミニスーパーという経営戦略で、サークルKとは差別化が図られていた。
+  - [ローソン](../Page/ローソン.md "wikilink") - コンビニエンスストア。米国においては*デイリーマート*をへて当ブランドに転換された。
   - [東急田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink") – 同線を走る車両の前面に「K」と書かれた丸いシール（Ⓚ）を貼り付けた車両（[東武伊勢崎線](https://ja.wikipedia.org/wiki/東武伊勢崎線 "wikilink")・[日光線への乗り入れが不可能な車両](https://ja.wikipedia.org/wiki/東武日光線 "wikilink")）があり、通称が「サークルK」となっている。
-  - [Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink") - サークルKストアーズがスポンサーとなり「Circle K Power Cube」が導入された\[76\]。
+  - [Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink") - サークルKストアーズがスポンサーとなり「Circle K Power Cube」が導入された\[79\]。
 
 ## 脚注
 
@@ -465,40 +468,40 @@
 24. [マレーシア第 1 号店舗 スカイパーク店 スバン空港ターミナル内に 11 月 20 日グランドオープン](http://web.archive.org/web/20180822113458/http://www.circleksunkus.jp/system/__upfile__/pressrelease/p14341.pdf)
 25.
 26. [Easy Pay | Circle K](https://www.circlek.com/easypay/)
-27. [All Western Canada Mac’s Convenience Stores to become Circle K](https://globalnews.ca/news/4431582/macs-convenience-stores-circle-k-rebrand/)
-28. [Circle K Honduras](http://circlek.hn/)
-29. [Costa Rica: Circle K to Open Its First Cstore](https://www.petrolworld.com/latin-america/item/23373-costa-rica-circle-k-to-open-its-first-cstore)
-30.
-31.
-32. [Circle K for Privatkunder](https://circlek.dk/)
-33. [Privātpersonām](https://circlek.lv/)
-34. [Circle K Sunkus sheds foreign stores amid merger talks](https://asia.nikkei.com/Business/Circle-K-Sunkus-sheds-foreign-stores-amid-merger-talks)
-35. [サークルKサンクス／アジアでコンビニのライセンス事業開始](https://www.ryutsuu.biz/abroad/f041125.html)
-36. [サークルＫサンクス、海外撤退、米社と合弁解消、ファミマと統合に備え、アジアを中心に５ヵ国６２０店。](https://messe.nikkei.co.jp/fc/news/131653.html)
-37. [利亜零售有限公司 公式サイト](http://www.cr-asia.com/big5/global/home.php)（中文）
-38. [About Convenience Retail Asia Limited](http://www.cr-asia.com/eng/global/home.php)
-39.
-40.
-41.
+27. [Dairy Mart Uncovers Piece of History](https://web.archive.org/web/20090210120928/http://www.allbusiness.com/retail-trade/food-stores/4474276-1.html)
+28. [Dairy Marts Renamed](http://www.cspnet.com/ME2/Audiences/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=60CCC21CAABB4C7DA03B606E5774C9F7&AudID=8A21B37C3A8F4D31BD4DFF616F7C7585)
+29.
+30. [All Western Canada Mac’s Convenience Stores to become Circle K](https://globalnews.ca/news/4431582/macs-convenience-stores-circle-k-rebrand/)
+31. [Circle K Honduras](http://circlek.hn/)
+32. [Costa Rica: Circle K to Open Its First Cstore](https://www.petrolworld.com/latin-america/item/23373-costa-rica-circle-k-to-open-its-first-cstore)
+33.
+34.
+35. [Circle K for Privatkunder](https://circlek.dk/)
+36. [Privātpersonām](https://circlek.lv/)
+37. [Circle K Sunkus sheds foreign stores amid merger talks](https://asia.nikkei.com/Business/Circle-K-Sunkus-sheds-foreign-stores-amid-merger-talks)
+38. [サークルKサンクス／アジアでコンビニのライセンス事業開始](https://www.ryutsuu.biz/abroad/f041125.html)
+39. [サークルＫサンクス、海外撤退、米社と合弁解消、ファミマと統合に備え、アジアを中心に５ヵ国６２０店。](https://messe.nikkei.co.jp/fc/news/131653.html)
+40. [利亜零售有限公司 公式サイト](http://www.cr-asia.com/big5/global/home.php)（中文）
+41. [About Convenience Retail Asia Limited](http://www.cr-asia.com/eng/global/home.php)
 42.
-43. [Circle K Vietnam Homepage - Convenience Store Chain opening 24/7Circle K Việt Nam - Take it easy](https://www.circlek.com.vn/vi/)
+43.
 44.
-45. [サークルＫ、フィリピンでもファミマに統合](https://www.nna.jp/news/show/1902340)
-46. [サークルK　カンボジアで初めての店舗をオープン](http://business-partners.asia/cambodia/keizia-20180202-k/)
+45.
+46. [Circle K Vietnam Homepage - Convenience Store Chain opening 24/7Circle K Việt Nam - Take it easy](https://www.circlek.com.vn/vi/)
 47.
-48. [サークルケイ・ジャパン株式会社 公式サイト](https://web.archive.org/web/20020331113623/http://www.circlek.co.jp/)（インターネットアーカイブ）
-49. サークルKの店舗数も愛知県が最多であり、次いで静岡県であるため、愛知・静岡の2県だけでも、2016年8月末時点で半数近くに亘る1400店舗以上が出店していた。
-50. 千葉県は1店舗のみ浦安市に出店したが、2017年秋にファミリーマートに転換され、僅か1年強でブランド名消滅となった。
-51. 例・[足立区](../Page/足立区.md "wikilink")、[北区](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")、[港区等はサークルKが出店した事は無い](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。
-52. [サークルK公式サイト](http://web.archive.org/web/20040719014050/http://www.circlek.co.jp/)
-53. [ニュースリリース・2014年6月20日](http://web.archive.org/web/20141224074504/http://www.763.fm/tokai/140620_2.html)
-54. [K'sCafeが中京圏に初進出](http://web.archive.org/web/20141129023200/http://www.circleksunkus.jp/file.jsp?id=17303) - ニュースリリース・2014年11月14日
-55. [初の病院施設内へのサークルKの出店について](http://web.archive.org/web/20050206082852/http://www.circleksunkus.jp/company/press/2004/1125.html) - ニュースリリース・2004年11月25日
-56. ミニSSは、サークルK・サンクスに設置されている端末とコピー機等が同じユニー・ファミリーマートホールディングス傘下の[アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")や[ピアゴ](https://ja.wikipedia.org/wiki/ピアゴ "wikilink")の店舗内の片隅に設置されているコーナーであり、食料品や日用品は売られていない。
-57. 千葉県浦安市に出店したサークルKはファミリーマートへの改装が前提だったため、店舗外観が他の地域のサークルK店舗とは大幅に異なり、サークルKのイメージカラーの3色の帯のファサード看板は極細タイプとなっていた。また、ファサード看板も他の地域のサークルK店舗とは異なって茶色の看板の中にサークルKのロゴと右に「circle―k」の店舗名ロゴが表示されている。
-58.
-59.
-60.
+48. [サークルＫ、フィリピンでもファミマに統合](https://www.nna.jp/news/show/1902340)
+49. [サークルK　カンボジアで初めての店舗をオープン](http://business-partners.asia/cambodia/keizia-20180202-k/)
+50.
+51. [サークルケイ・ジャパン株式会社 公式サイト](https://web.archive.org/web/20020331113623/http://www.circlek.co.jp/)（インターネットアーカイブ）
+52. サークルKの店舗数も愛知県が最多であり、次いで静岡県であるため、愛知・静岡の2県だけでも、2016年8月末時点で半数近くに亘る1400店舗以上が出店していた。
+53. 千葉県は1店舗のみ浦安市に出店したが、2017年秋にファミリーマートに転換され、僅か1年強でブランド名消滅となった。
+54. 例・[足立区](../Page/足立区.md "wikilink")、[北区](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")、[港区等はサークルKが出店した事は無い](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。
+55. [サークルK公式サイト](http://web.archive.org/web/20040719014050/http://www.circlek.co.jp/)
+56. [ニュースリリース・2014年6月20日](http://web.archive.org/web/20141224074504/http://www.763.fm/tokai/140620_2.html)
+57. [K'sCafeが中京圏に初進出](http://web.archive.org/web/20141129023200/http://www.circleksunkus.jp/file.jsp?id=17303) - ニュースリリース・2014年11月14日
+58. [初の病院施設内へのサークルKの出店について](http://web.archive.org/web/20050206082852/http://www.circleksunkus.jp/company/press/2004/1125.html) - ニュースリリース・2004年11月25日
+59. ミニSSは、サークルK・サンクスに設置されている端末とコピー機等が同じユニー・ファミリーマートホールディングス傘下の[アピタ](https://ja.wikipedia.org/wiki/アピタ "wikilink")や[ピアゴ](https://ja.wikipedia.org/wiki/ピアゴ "wikilink")の店舗内の片隅に設置されているコーナーであり、食料品や日用品は売られていない。
+60. 千葉県浦安市に出店したサークルKはファミリーマートへの改装が前提だったため、店舗外観が他の地域のサークルK店舗とは大幅に異なり、サークルKのイメージカラーの3色の帯のファサード看板は極細タイプとなっていた。また、ファサード看板も他の地域のサークルK店舗とは異なって茶色の看板の中にサークルKのロゴと右に「circle―k」の店舗名ロゴが表示されている。
 61.
 62.
 63.
@@ -509,9 +512,12 @@
 68.
 69.
 70.
-71. [サークルK府中市清水が丘店](http://blog.livedoor.jp/motono_m/archives/13116287.html)
-72. [サークルＫ湖西坊瀬店](https://pbs.twimg.com/media/DsfclV4U4AAW11A.jpg:large)
-73. [サークルK厚木三田店(神奈川県厚木市)](http://blog.livedoor.jp/motono_m/archives/13632912.html) ブログ「サークルK・サンクスの残像」
-74.
-75.
-76.
+71.
+72.
+73.
+74. [サークルK府中市清水が丘店](http://blog.livedoor.jp/motono_m/archives/13116287.html)
+75. [サークルＫ湖西坊瀬店](https://pbs.twimg.com/media/DsfclV4U4AAW11A.jpg:large)
+76. [サークルK厚木三田店(神奈川県厚木市)](http://blog.livedoor.jp/motono_m/archives/13632912.html) ブログ「サークルK・サンクスの残像」
+77.
+78.
+79.

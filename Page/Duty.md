@@ -1,7 +1,7 @@
 > この記事は[Duty](https://ja.wikipedia.org/wiki/Duty)から翻訳されています。
 
 
-『**Duty**』（デューティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の3枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Duty**』（デューティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の3枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

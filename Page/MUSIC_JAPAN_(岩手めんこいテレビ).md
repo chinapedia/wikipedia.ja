@@ -166,7 +166,7 @@ ALBUM「CATCH」より「Who」</p></td>
 <tr class="even">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Bold&amp;Delicious/Pride" title="wikilink">Bold &amp; Delicious/Pride</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>11</strong></p></td>

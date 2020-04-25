@@ -1,7 +1,7 @@
 > この記事は[WHATEVER \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/WHATEVER_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**WHATEVER**」（ホワットエヴァー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
+「**WHATEVER**」（ホワットエヴァー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の6th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
 

@@ -5,99 +5,171 @@
 
 ## 概要
 
-### アルバム総説
-
-  - 『[WHATEVER](../Page/WHATEVER_\(アルバム\).md "wikilink")』や『[SHAMROCK](../Page/SHAMROCK_\(アルバム\).md "wikilink")』に続く、本人が歌ったキャラクターソングを中心に構成されたキャラクターソング・ベスト・アルバムの第3弾にあたる。
+  - 『[WHATEVER](../Page/WHATEVER_\(アルバム\).md "wikilink")』や『[SHAMROCK](../Page/SHAMROCK_\(アルバム\).md "wikilink")』に続く、本人が歌ったキャラクターソングを中心に構成されたキャラクターソング・ベスト・アルバムの第3弾にあたる。ただし[2000年](../Page/2000年.md "wikilink")にベストアルバム『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』『[VINTAGE A](../Page/VINTAGE_A.md "wikilink")』リリース以降はオリジナルアルバムとして扱われている。
   - タイトルの『Enfleurage』とは、当時本人が趣味としていた[アロマテラピー](../Page/アロマテラピー.md "wikilink")で使われる専門用語で、香りの抽出方法の一つである[冷浸法](https://ja.wikipedia.org/wiki/冷浸法 "wikilink")のことである。
   - ジャケットや初回限定盤に付いていた写真集は、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")直前の[1994年](../Page/1994年.md "wikilink")末に[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")で撮影が行われたものである。
   - [キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**元気いっぱい胸いっぱい。今日はheartが深呼吸。**」
   - 2005年3月16日に初回限定盤仕様（紙BOX仕様、32Pブックレット、40P別冊写真集など付属）の限定生産で復刻された。
 
-### 楽曲解説
-
-  - 4曲目「Forever Dreamer」・5曲目「[Touch and Go\!\!](../Page/Touch_and_Go!!.md "wikilink")」は、[松浦有希](../Page/松浦有希.md "wikilink")がアルバム『[Stella Bambina](https://ja.wikipedia.org/wiki/Stella_Bambina "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）でセルフカバーしている。
-  - 10曲目「Space Lonely Soldier」は、[三松亜美](https://ja.wikipedia.org/wiki/三松亜美 "wikilink")が歌うテレビアニメ『[宇宙の騎士テッカマンブレード](../Page/宇宙の騎士テッカマンブレード.md "wikilink")』の[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")で、OVA『[宇宙の騎士テッカマンブレードII](../Page/宇宙の騎士テッカマンブレードII.md "wikilink")』のラジオドラマCDで林原が演じるアキとしてカバーした。また13曲目「心のプラネット<NUKU NUKU Version>」は、絵里香が歌うOVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』のイメージソングで、林原が演じるヌクヌクとしてカバーした。
-
 ## 収録曲
-
-1.  **[It's DESTINY-やっと巡り会えた-](https://ja.wikipedia.org/wiki/It's_DESTINY-やっと巡り会えた- "wikilink")** <New Version> \[5:15\]
-      -
-        [作詞](../Page/作詞.md "wikilink")：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[工藤崇](https://ja.wikipedia.org/wiki/工藤崇 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
-2.  **[REINCARNATION](https://ja.wikipedia.org/wiki/REINCARNATION_\(奥井雅美の曲\) "wikilink")** <New Version> \[3:57\]
-      -
-        作詞：有森聡美、作曲：工藤崇、編曲：矢吹俊郎
-3.  **[はりきってTrying\!](../Page/夢_Hurry_Up.md "wikilink")** \[4:42\]
-      -
-        作詞：有森聡美、作曲：[若林剛太](https://ja.wikipedia.org/wiki/若林剛太 "wikilink")、編曲：[Vink](https://ja.wikipedia.org/wiki/Vink "wikilink")
-4.  **Forever Dreamer** \[4:50\]
-      -
-        作詞・作曲：[松浦有希](../Page/松浦有希.md "wikilink")、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
-5.  **[Touch and Go\!\!](../Page/Touch_and_Go!!.md "wikilink")** \[4:29\]
-      -
-        作詞・作曲・編曲：松浦有希
-6.  **私だけの夢へ** \[4:46\]
-      -
-        作詞：[木本慶子](https://ja.wikipedia.org/wiki/木本慶子 "wikilink")、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：Vink
-7.  **誰も知らない未来を抱きしめて** \[5:30\]
-      -
-        作詞：[白峰美津子](https://ja.wikipedia.org/wiki/白峰美津子 "wikilink")、作曲・編曲：[ヤギハシカンペー](https://ja.wikipedia.org/wiki/ヤギハシカンペー "wikilink")
-8.  **[Sunday Afternoon](../Page/Until_Strawberry_Sherbet.md "wikilink")** \[4:24\]
-      -
-        作詞：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、作曲：[石川Kanji](https://ja.wikipedia.org/wiki/石川寛門 "wikilink")、編曲：Vink
-9.  **夜をぶっとばせ** <New Version> \[4:19\]
-      -
-        作詞：[伊嶋薫](https://ja.wikipedia.org/wiki/伊嶋薫 "wikilink")、作曲・編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
-10. **SPACE LONELY SOLDIER** <Aki Version> \[5:05\]
-      -
-        作詞：伊嶋薫、作曲・編曲：[西岡治彦](https://ja.wikipedia.org/wiki/西岡治彦 "wikilink")
-11. **[Until Strawberry Sherbet](../Page/Until_Strawberry_Sherbet.md "wikilink")** <DUAL VOCAL Version> \[5:17\]
-      -
-        歌：林原めぐみ with [Greg Lee](https://ja.wikipedia.org/wiki/Greg_Lee "wikilink")
-        作詞：[李醒獅](https://ja.wikipedia.org/wiki/李醒獅 "wikilink")、English Words by [Mamie D. Lee](https://ja.wikipedia.org/wiki/Mamie_D._Lee "wikilink")、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
-12. **My dear** <New Version> \[3:45\]
-      -
-        作詞：木本慶子、作曲：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")、編曲：Vink
-13. **心のプラネット** <NUKU NUKU Version> \[5:28\]
-      -
-        作詞：[小坂恭子](../Page/小坂恭子.md "wikilink")、作曲：[松田弘](../Page/松田弘.md "wikilink")、編曲：[B.C. GUYS](https://ja.wikipedia.org/wiki/B.C._GUYS "wikilink")
-14. **FAI・FAI・TU\!** \[4:03\]
-      -
-        作詞・作曲：[伊藤千夏](https://ja.wikipedia.org/wiki/伊藤千夏 "wikilink")、編曲：矢吹俊郎
-15. **街へ出よう** \[3:51\]
-      -
-        作詞・作曲：伊藤千夏、編曲：矢吹俊郎
 
 ## タイアップ
 
-| 曲名                       | タイアップ                                                                                                                                                          | 備考                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| It's DESTINY-やっと巡り会えた-   | OVA『[宇宙の騎士テッカマンブレードII](../Page/宇宙の騎士テッカマンブレードII.md "wikilink")』最終話エンディングテーマ                                                                                    | 原曲：[奥井雅美](../Page/奥井雅美.md "wikilink")                             |
-| REINCARNATION            | OVA『[宇宙の騎士テッカマンブレードII](../Page/宇宙の騎士テッカマンブレードII.md "wikilink")』オープニングテーマ                                                                                       | 原曲：[奥井雅美](../Page/奥井雅美.md "wikilink")                             |
-| はりきってTrying\!            | OVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』第2期エンディングテーマ                                                                                                        | 6thシングルの[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。 |
-| Forever Dreamer          | OVA『[MINKY MOMO IN 旅立ちの駅](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")』イメージソング                                                                     |                                                                   |
-| Touch and Go             |                                                                                                                                                                | テレビアニメ『[BLUE SEED](../Page/BLUE_SEED.md "wikilink")』エンディングテーマ     |
-| 私だけの夢へ                   | テレビアニメ『[BLUE SEED](../Page/BLUE_SEED.md "wikilink")』イメージソング                                                                                                    |                                                                   |
-| 誰も知らない未来を抱きしめて           | OVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』イメージソング                                                                                                             |                                                                   |
-| Sunday Afternoon         | [文化放送](../Page/文化放送.md "wikilink")系列ラジオドラマ・[あかほりさとる劇場](https://ja.wikipedia.org/wiki/あかほりさとる劇場 "wikilink")『[爆れつハンター](../Page/爆れつハンター.md "wikilink")』エンディングテーマ  | 7thシングルのカップリング。                                                   |
-| 夜をぶっとばせ                  | OVA『[BOUNTY DOG/月面のイブ](https://ja.wikipedia.org/wiki/BOUNTY_DOG/月面のイブ "wikilink")』主題歌                                                                          | 原曲：KASUMI                                                         |
-| Space Lonely Soldier     | テレビアニメ『[宇宙の騎士テッカマンブレード](../Page/宇宙の騎士テッカマンブレード.md "wikilink")』イメージソング                                                                                          | 原曲：[三松亜美](https://ja.wikipedia.org/wiki/三松亜美 "wikilink")          |
-| Until Strawberry Sherbet | [文化放送](../Page/文化放送.md "wikilink")系列ラジオドラマ・[あかほりさとる劇場](https://ja.wikipedia.org/wiki/あかほりさとる劇場 "wikilink")『[爆れつハンター](../Page/爆れつハンター.md "wikilink")』オープニングテーマ  | 7thシングルのデュアルボーカル。                                                 |
-| My dear                  | OVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』イメージソング                                                                                                             | 歌い直しVersion                                                       |
-| 心のプラネット                  | OVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』イメージソング                                                                                                             | 原曲：絵里香                                                            |
-| FAI・FAI・TU\!             | [文化放送](../Page/文化放送.md "wikilink")系列ラジオドラマ・[あかほりさとる劇場](https://ja.wikipedia.org/wiki/あかほりさとる劇場 "wikilink")『[爆れつハンター](../Page/爆れつハンター.md "wikilink")』新エンディングテーマ |                                                                   |
-| 街へ出よう                    | ラジオ番組『[MEGU・OMO 街へ出よう](https://ja.wikipedia.org/wiki/MEGU・OMO_街へ出よう "wikilink")』テーマ曲                                                                           |                                                                   |
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ</p></th>
+<th><p>初出作品</p></th>
+<th><p>発売日</p></th>
+<th><p>品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>It's DESTINY-やっと巡り会えた-</p></td>
+<td><p><a href="../Page/OVA.md" title="wikilink">OVA</a>『<a href="../Page/宇宙の騎士テッカマンブレードII.md" title="wikilink">宇宙の騎士テッカマンブレードII</a>』最終話エンディングテーマ</p></td>
+<td><p>It's DESTINY-やっと巡り会えた-（原曲）</p></td>
+<td><p>1994年12月21日</p></td>
+<td><p>KIDA-93</p></td>
+<td><p>原曲：<a href="../Page/奥井雅美.md" title="wikilink">奥井雅美</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>REINCARNATION</p></td>
+<td><p>OVA『宇宙の騎士テッカマンブレードII』オープニングテーマ</p></td>
+<td><p>REINCARNATION（原曲）</p></td>
+<td><p>1994年3月5日</p></td>
+<td><p>KIDA-79</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>はりきってTrying!</p></td>
+<td><p>OVA『<a href="../Page/万能文化猫娘.md" title="wikilink">万能文化猫娘</a>』第2期エンディングテーマ</p></td>
+<td><p>夢 Hurry Up</p></td>
+<td><p>1993年11月26日</p></td>
+<td><p>KIDA-69</p></td>
+<td><p>6thシングルカップリング</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>Forever Dreamer</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ" title="wikilink">MINKY MOMO IN 旅立ちの駅</a>』イメージソング</p></td>
+<td><p>MINKY MOMO 旅だちの駅</p></td>
+<td><p>1994年5月25日</p></td>
+<td><p>KICA-196</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>Touch and Go</p></td>
+<td></td>
+<td><p>テレビアニメ『<a href="../Page/BLUE_SEED.md" title="wikilink">BLUE SEED</a>』エンディングテーマ</p></td>
+<td><p>Touch and Go</p></td>
+<td></td>
+<td><p>1994年11月3日</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>私だけの夢へ</p></td>
+<td><p>テレビアニメ『BLUE SEED』イメージソング</p></td>
+<td><p>BLUE SEED 国土管理室宴会記念号（すーぱーばらえてぃあるばむ）</p></td>
+<td><p>1994年9月2日</p></td>
+<td><p>KICA-214</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>誰も知らない未来を抱きしめて</p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0V</p></td>
+<td><p>1993年6月23日</p></td>
+<td><p>KICA-152</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>Sunday Afternoon</p></td>
+<td><p><a href="../Page/文化放送.md" title="wikilink">文化放送</a>系列ラジオドラマ・あかほりさとる劇場『<a href="../Page/爆れつハンター.md" title="wikilink">爆れつハンター</a>』エンディングテーマ</p></td>
+<td><p>Until Strawberry Sherbet</p></td>
+<td><p>1994年5月25日</p></td>
+<td><p>KIDA-81</p></td>
+<td><p>7thシングルカップリング</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>夜をぶっとばせ</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/BOUNTY_DOG/月面のイブ" title="wikilink">BOUNTY DOG/月面のイブ</a>』主題歌</p></td>
+<td><p>夜をぶっとばせ（原曲）</p></td>
+<td><p>1994年5月25日</p></td>
+<td><p>KIDA-80</p></td>
+<td><p>原曲：KASUMI</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>SPACE LONELY SOLDIER<Aki Version></p></td>
+<td><p>OVA『宇宙の騎士テッカマンブレードII』イメージソング</p></td>
+<td><p>宇宙の騎士テッカマンブレードII NEXT GENERATION 2</p></td>
+<td><p>1994年6月22日</p></td>
+<td><p>KICA-194</p></td>
+<td><p>原曲：三松亜美</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>Until Strawberry Sherbet<DUAL VOCAL VERSION></p></td>
+<td><p>文化放送系列ラジオドラマ・あかほりさとる劇場『爆れつハンター』オープニングテーマ</p></td>
+<td><p>爆れつハンター Whip IV</p></td>
+<td><p>1994年12月21日</p></td>
+<td><p>KICA-225</p></td>
+<td><p>7thシングルのデュアルボーカル。</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>My dear</p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0II（原曲）</p></td>
+<td><p>1992年11月21日</p></td>
+<td><p>KICA-129</p></td>
+<td><p>歌い直し音源</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>心のプラネット<NUKU NUKU Version></p></td>
+<td><p>万能文化猫娘 SOUND PHASE-0VI</p></td>
+<td><p>1993年9月22日</p></td>
+<td><p>KICA-164</p></td>
+<td><p>原曲：絵里香</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>FAI・FAI・TU!</p></td>
+<td><p>文化放送系列ラジオドラマ・あかほりさとる劇場『爆れつハンター』イメージソング</p></td>
+<td><p>爆れつハンター Whip V</p></td>
+<td><p>1995年3月3日</p></td>
+<td><p>KICA-229</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>街へ出よう</p></td>
+<td><p>ラジオ番組『<a href="https://ja.wikipedia.org/wiki/MEGU・OMO_街へ出よう" title="wikilink">MEGU・OMO 街へ出よう</a>』テーマ曲</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>新曲</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-## 初出
+## 脚注
 
-  - 万能文化猫娘 SOUND PHASE-0V - M-7
-  - 万能文化猫娘 SOUND PHASE-0VI - M-13
-  - MINKY MOMO 旅だちの駅 - M-4
-  - BLUE SEED 国土管理室宴会記念号 - M-6
-  - 宇宙の騎士テッカマンブレードII NEXT GENERATION2 - M-10
-  - 爆れつハンターWhip IV - M-11
-  - 爆れつハンターWhip V - M-14
-  - シングル - M-3,5,8
-  - 新録音 - M-1,2,9,12
-  - 未発表 - M-15
+<references/>
 
 [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")

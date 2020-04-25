@@ -15,7 +15,7 @@
 
 1.  **BOMBER GIRL**
       -
-        作詞:[康珍化](../Page/康珍化.md "wikilink")（広東版本：愛火花—張學友）
+        作詞:[康珍化](../Page/康珍化.md "wikilink")
 2.  **the dark side of the city**
       -
         作詞:Michael Coleman
@@ -34,6 +34,7 @@
 <!-- end list -->
 
   - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink") - カバーアルバム「Treasure Box -[Tetsuro Oda](../Page/織田哲郎.md "wikilink") Songs-」（2015年10月28日発売）に収録。ゲストボーカルに[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")（[SHOW-YA](../Page/SHOW-YA.md "wikilink")）、[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[中村あゆみ](../Page/中村あゆみ.md "wikilink")が参加\[1\]。
+  - [ジャッキー・チュン](../Page/ジャッキー・チュン.md "wikilink") - 1992年のアルバム「愛火花」のタイトルチューン。
 
 ## 脚注
 

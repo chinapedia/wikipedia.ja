@@ -3,7 +3,7 @@
 
 「**GOOD-BYE青春**」（グッド・バイ・せいしゅん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の11枚目のシングル曲である。
 
-長渕自身が主演として出演した[TBS系](../Page/TBS系列.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[家族ゲーム](../Page/家族ゲーム.md "wikilink")』（1983年）主題歌として使用された。作詞は[秋元康](../Page/秋元康.md "wikilink")が担当しており、「[夏の恋人](../Page/夏の恋人_\(長渕剛の曲\).md "wikilink")」（1981年）以来の他人との共作による楽曲となった。
+長渕自身が主演として出演した[TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[家族ゲーム](https://ja.wikipedia.org/wiki/家族ゲーム_\(テレビドラマ\) "wikilink")』（1983年）主題歌として使用された。作詞は[秋元康](../Page/秋元康.md "wikilink")が担当しており、「[夏の恋人](../Page/夏の恋人_\(長渕剛の曲\).md "wikilink")」（1981年）以来の他人との共作による楽曲となった。
 
 オリジナルアルバムには収録されず、ベストアルバム『[FROM T.N.](../Page/FROM_T.N..md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）にて初収録された。
 
@@ -83,7 +83,7 @@
   - [公式サイトディスコグラフィー「GOOD-BYE青春」](http://www.nagabuchi.or.jp/disco/single/goodbye_seisyun.php)
 
   -
-[Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:長渕剛が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛が制作した楽曲 "wikilink") [Category:長渕剛の楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛の楽曲 "wikilink")
+[Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:長渕剛が制作した楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛が制作した楽曲 "wikilink") [Category:長渕剛の楽曲](https://ja.wikipedia.org/wiki/Category:長渕剛の楽曲 "wikilink")
 
 1.  [2.ひょんなきっかけから高校生で作家デビュー](http://www.musicman-net.com/relay/86-2.html) - Musicman's RELAY第86回・秋元康（Musicman-NET）
 2.

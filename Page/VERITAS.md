@@ -25,7 +25,7 @@
 
 1980年代終盤に商用UNIXにおける論理ボリュームマネージャ及びジャーナルファイルシステム製品をいち早く提供すべく、AT\&T [UNIX Systems Laboratoriesの協力を得て](https://ja.wikipedia.org/wiki/UNIX_Systems_Laboratories "wikilink")、自社のハイアベイラビリティ・オペレーティングシステムから[UNIX System V](../Page/UNIX_System_V.md "wikilink") Release 4向けに価値あるコードを抽出し、製品化した。これが[VxFS](https://ja.wikipedia.org/wiki/VxFS "wikilink")である。
 
-この機能に各商用UNIXベンダが目を付け、1990年にIBMが[AIX](../Page/AIX.md "wikilink")V3に、1992年に日立の[HI-UX](https://ja.wikipedia.org/wiki/HI-UX "wikilink")に、1993年にHPの[HP-UX](../Page/HP-UX.md "wikilink")/NECの[UX/4800](https://ja.wikipedia.org/wiki/UX/4800 "wikilink")に、1994年にOracle(アライアンス)とそれぞれの製品及び商用UNIXでのサポート契約を結び、多くのUNIXに実装されている。
+この機能に各商用UNIXベンダが目を付け、1990年にIBMが[AIX](../Page/AIX.md "wikilink")V3に、1992年に日立の[HI-UX](../Page/HI-UX.md "wikilink")に、1993年にHPの[HP-UX](../Page/HP-UX.md "wikilink")/NECの[UX/4800](https://ja.wikipedia.org/wiki/UX/4800 "wikilink")に、1994年にOracle(アライアンス)とそれぞれの製品及び商用UNIXでのサポート契約を結び、多くのUNIXに実装されている。
 
 このジャーナルファイルシステム及びボリュームマネージャ機能([VxVM](https://ja.wikipedia.org/wiki/VxVM "wikilink"))により、UNIXの信頼性/可用性は急速に高まり、UNIXが[Windows系](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OSより遥かに信頼性が高いという神話を作り上げる過程の一端を担っていた会社である](../Page/オペレーティングシステム.md "wikilink")。 (当時Windows3.1の時代でありボリュームマネージャを有しておらず,ジャーナルファイルシステムもWindowsNT以外では利用できなかった)
 

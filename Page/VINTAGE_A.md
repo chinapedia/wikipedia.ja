@@ -11,106 +11,171 @@
 
 ## 収録曲
 
-1.  **夜明けのShooting Star** \[4:51\]
-      -
-        作詞・作曲：[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")、編曲：矢萩秀明
-        2ndオリジナルアルバム『[WHATEVER](../Page/WHATEVER_\(アルバム\).md "wikilink")』より
-    <!-- end list -->
-      - OVA『[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")』イメージソング
-    <!-- end list -->
-      -
-        林原めぐみ名義で初めてレコーディングされた楽曲
-2.  **私にハッピーバースデイ** \[4:07\]
-      -
-        作詞：松葉美保、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[Vink](https://ja.wikipedia.org/wiki/Vink "wikilink")
-        3rdオリジナルアルバム『[Perfume](../Page/Perfume_\(林原めぐみのアルバム\).md "wikilink")』より
-    <!-- end list -->
-      - OVA『[万能文化猫娘](../Page/万能文化猫娘.md "wikilink")』第1期オープニングテーマ
-3.  **がんばって\!** \[4:04\]
-      -
-        作詞：有森聡美、作曲：[石川Kanji](https://ja.wikipedia.org/wiki/石川寛門 "wikilink")、編曲：Vink
-        4thオリジナルアルバム『[SHAMROCK](../Page/SHAMROCK_\(アルバム\).md "wikilink")』より
-    <!-- end list -->
-      - [OVA](../Page/OVA.md "wikilink")『万能文化猫娘』イメージソング
-4.  **街へ出よう** \[3:45\]
-      -
-        作詞・作曲：伊藤千夏、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
-        6thオリジナルアルバム『[Enfleurage](../Page/Enfleurage.md "wikilink")』で収録（描き下ろし曲）
-5.  **ふわり** \[4:43\]
-      -
-        作詞・作曲：[MEGUMI](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
-        9thオリジナルアルバム『[ふわり](../Page/ふわり_\(林原めぐみのアルバム\).md "wikilink")』より
-6.  **HOW HOW BEAR** \[4:20\]
-      -
-        作詞・作曲：松葉美保、編曲：林有三
-        『Perfume』より
-7.  **Bon Voyage\!** \[4:22\]
-      -
-        作詞・作曲：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")、編曲：岩本正樹、コーラスアレンジ：岡崎律子
-        5thオリジナルアルバム『[SPHERE](../Page/SPHERE_\(林原めぐみのアルバム\).md "wikilink")』より
-    <!-- end list -->
-      - OVA『[MINKY MOMO IN 旅立ちの駅](https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ "wikilink")』主題歌
-8.  **Tokyo Boogie Night** <New Recording> \[2:59\]
-      -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：[岡田徹](../Page/岡田徹.md "wikilink")
-        『WHATEVER』より
-    <!-- end list -->
-      - ラジオ『[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")』初代エンディングテーマ
-9.  **hesitation** \[4:49\]
-      -
-        作詞：MEGUMI、作曲・編曲：矢吹俊郎
-        サウンドトラックアルバム『またまたセイバーマリオネットJジャポネス 吟詠詩集真打ち』より。本作収録曲の中では唯一オリジナルアルバム未収録
-    <!-- end list -->
-      - OVA『またまたセイバーマリオネットJ』オープニングテーマ
-10. **真夏のバレンタイン** \[4:26\]
-      -
-        作詞：[西脇唯](https://ja.wikipedia.org/wiki/西脇唯 "wikilink")、作曲：[久保浩二](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")、編曲：古川貴司
-        1stオリジナルアルバム『[Half and, Half](../Page/Half_and,_Half.md "wikilink")』より
-11. **Dance with me…最後の楽園** \[4:42\]
-      -
-        作詞：[島エリナ](https://ja.wikipedia.org/wiki/島エリナ "wikilink")、作曲：西岡治彦、編曲：丸尾めぐみ・[飯塚昌明](../Page/飯塚昌明.md "wikilink")
-        『SPHERE』より
-        プロデューサーの大月がこの曲を気に入っており、本作に入れたという逸話がある。
-12. **心のプラネット** <NUKU NUKU Version> \[5:26\]
-      -
-        作詞：[小坂恭子](../Page/小坂恭子.md "wikilink")、作曲：[松田弘](../Page/松田弘.md "wikilink")、編曲：B.C.GUYS
-        6thオリジナルアルバム『Enfleurage』より
-    <!-- end list -->
-      - OVA『万能文化猫娘』イメージソングのカバー曲
-    <!-- end list -->
-      -
-        オリジナルアーティストは絵里香。
-13. **Good Luck\!** \[4:32\]
-      -
-        作詞・作曲：岡崎律子、編曲：[光宗信吉](../Page/光宗信吉.md "wikilink")、コーラスアレンジ：岡崎律子
-        8thオリジナルアルバム『[Iravati](../Page/Iravati.md "wikilink")』より
-14. **[魂のルフラン](../Page/魂のルフラン.md "wikilink")** <Aqua Groove Mix> \[5:30\]
-      -
-        作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
-        『Iravati』より
-    <!-- end list -->
-      - 1997年公開の『[新世紀エヴァンゲリオン劇場版 シト新生](../Page/新世紀エヴァンゲリオン劇場版_シト新生.md "wikilink")』主題歌のカバー曲。
-    <!-- end list -->
-      -
-        オリジナルアーティストは[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")。
-15. **[FLY ME TO THE MOON](https://ja.wikipedia.org/wiki/FLY_ME_TO_THE_MOON_\(CLAIREと高橋洋子のシングル\) "wikilink")** <AYANAMI Version> \[4:31\]
-      -
-        Lyrics and Music by [Bart Howard](https://ja.wikipedia.org/wiki/バート・ハワード "wikilink")、Arranged by Toshiyuki Ohmori
-        7thオリジナルアルバム『[Bertemu](../Page/Bertemu.md "wikilink")』より
-    <!-- end list -->
-      - アニメ『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』エンディングテーマで有名なスタンダード・ジャズ・ナンバーのカバー曲。
-    <!-- end list -->
-      -
-        オリジナルアーティストは[クレア・リトリー](../Page/クレア・リトリー.md "wikilink")。
-16. **Thirty** \[4:54\]
-      -
-        作詞・作曲：MEGUMI、編曲：岩本正樹
-        『Iravati』より
-        自身が初めて作曲・作詞を手掛けたナンバー
-17. **君のAnswer** \[3:54\]
-      -
-        作詞：[吉元由美](../Page/吉元由美.md "wikilink")、作曲・編曲：西岡治彦
-        『Half and, Half』より
-        前作『[VINTAGE S](../Page/VINTAGE_S.md "wikilink")』の1曲目「Give a reason」に対するアンサーソングとして、本作のラストナンバーに選曲された。1作目のオリジナル・アルバム『[Half and, Half](../Page/Half_and,_Half.md "wikilink")』の1曲目に戻るという意味が込められている。
+## 初出
+
+<table>
+<thead>
+<tr class="header">
+<th><p>収録アルバム</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ</p></th>
+<th><p>発売日</p></th>
+<th><p>品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st アルバム『<a href="../Page/Half_and,_Half.md" title="wikilink">Half and, Half</a>』</p></td>
+<td><p>M-10「真夏のバレンタイン」</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>1991年3月21日</p></td>
+<td><p>KICS-100</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>M-17「君のAnswer」</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2ndアルバム『<a href="../Page/WHATEVER_(アルバム).md" title="wikilink">WHATEVER</a>』</p></td>
+<td><p>M-1「夜明けのShooting Star」</p></td>
+<td><p><a href="../Page/OVA.md" title="wikilink">OVA</a>『<a href="../Page/機動戦士ガンダム0080_ポケットの中の戦争.md" title="wikilink">機動戦士ガンダム0080 ポケットの中の戦争</a>』<a href="https://ja.wikipedia.org/wiki/イメージソング" title="wikilink">イメージソング</a></p></td>
+<td><p>1992年3月5日</p></td>
+<td><p>KICS-176</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>M-8 「Tokyo Boogie Night」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBSラジオ&amp;コミュニケーションズ" title="wikilink">TBSラジオ他</a>『<a href="../Page/林原めぐみのTokyo_Boogie_Night.md" title="wikilink">林原めぐみのTokyo Boogie Night</a>』初代<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3rdアルバム『<a href="../Page/Perfume_(林原めぐみのアルバム).md" title="wikilink">Perfume</a>』</p></td>
+<td><p>M-2「私にハッピーバースデイ」</p></td>
+<td><p><a href="../Page/OVA.md" title="wikilink">OVA</a>『<a href="../Page/万能文化猫娘.md" title="wikilink">万能文化猫娘</a>』第1期<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a></p></td>
+<td><p>1992年8月5日</p></td>
+<td><p>KICS-215</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>M-6「HOW HOW BEAR」</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4thアルバム『<a href="../Page/SHAMROCK_(アルバム).md" title="wikilink">SHAMROCK</a>』</p></td>
+<td><p>M-3「がんばって!」</p></td>
+<td><p><a href="../Page/OVA.md" title="wikilink">OVA</a>『万能文化猫娘』イメージソング</p></td>
+<td><p>1993年8月21日</p></td>
+<td><p>KICS-345</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5thアルバム『<a href="../Page/SPHERE_(林原めぐみのアルバム).md" title="wikilink">SPHERE</a>』</p></td>
+<td><p>M-7「Bon Voyage!」</p></td>
+<td><p>OVA『<a href="https://ja.wikipedia.org/wiki/魔法のプリンセスミンキーモモ" title="wikilink">MINKY MOMO IN 旅立ちの駅</a>』主題歌</p></td>
+<td><p>1994年7月2日</p></td>
+<td><p>KICS-430</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>M-11「Dance with me…最後の楽園」</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6thアルバム『<a href="../Page/Enfleurage.md" title="wikilink">Enfleurage</a>』</p></td>
+<td><p>M-4「街へ出よう」</p></td>
+<td><p>ラジオ番組『<a href="https://ja.wikipedia.org/wiki/MEGU・OMO_街へ出よう" title="wikilink">MEGU・OMO 街へ出よう</a>』テーマ曲</p></td>
+<td><p>1995年3月3日</p></td>
+<td><p>KICS-475</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>M-12「心のプラネット<NUKU NUKU Version>」</p></td>
+<td><p>OVA『万能文化猫娘』イメージソング</p></td>
+<td><p>原曲：絵里香</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7thアルバム『<a href="../Page/Bertemu.md" title="wikilink">Bertemu</a>』</p></td>
+<td><p>M-15「FLY ME TO THE MOON<AYANAMI Version>」</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン" title="wikilink">新世紀エヴァンゲリオン</a>』エンディングテーマ</p></td>
+<td><p>1996年11月1日</p></td>
+<td><p>KICS-590</p></td>
+<td><p>原曲：<a href="../Page/クレア・リトリー.md" title="wikilink">CLAIRE</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>8thアルバム『<a href="../Page/Iravati.md" title="wikilink">Iravati</a>』</p></td>
+<td><p>M-13「Good Luck</p></td>
+<td><p>」</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>1997年8月6日</p></td>
+<td><p>KICS-640</p></td>
+</tr>
+<tr class="even">
+<td><p>M-14「魂のルフラン<Aqua Groove Mix>」</p></td>
+<td><p><a href="../Page/東映.md" title="wikilink">東映</a>配給アニメ映画『<a href="../Page/新世紀エヴァンゲリオン劇場版_シト新生.md" title="wikilink">新世紀エヴァンゲリオン劇場版 シト新生</a>』主題歌</p></td>
+<td><p>原曲：<a href="../Page/高橋洋子_(歌手).md" title="wikilink">高橋洋子</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>M-16「Thirty」</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9thアルバム『<a href="../Page/ふわり_(林原めぐみのアルバム).md" title="wikilink">ふわり</a>』</p></td>
+<td><p>M-5「ふわり」</p></td>
+<td><p>1999年10月27日</p></td>
+<td><p>KICS-755</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>その他</p></td>
+<td><p>M-9「hesitation」[1]</p></td>
+<td><p>OVA「またまたセイバーマリオネットJ Program:26 プラズマティック・クライシス」オープニングテーマ</p></td>
+<td><p>1998年6月18日</p></td>
+<td><p>KICA-406/7</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 脚注
 
 [Category:林原めぐみのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのベスト・アルバム "wikilink") [Category:2000年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2000年のベスト・アルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")
+
+1.

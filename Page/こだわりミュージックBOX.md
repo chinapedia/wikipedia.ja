@@ -25,7 +25,7 @@
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
 
 ## 後継番組

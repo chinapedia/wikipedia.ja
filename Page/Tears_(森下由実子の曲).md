@@ -47,4 +47,4 @@
 
 <references/>
 
-[Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:川島だりあが制作した楽曲](https://ja.wikipedia.org/wiki/Category:川島だりあが制作した楽曲 "wikilink") [Category:涙を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:涙を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+[Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:川島だりあが制作した楽曲](https://ja.wikipedia.org/wiki/Category:川島だりあが制作した楽曲 "wikilink") [Category:涙を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:涙を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")

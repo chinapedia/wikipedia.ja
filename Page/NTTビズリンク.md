@@ -42,8 +42,12 @@
 ## 外部リンク
 
   - [エヌ・ティ・ティ・ビズリンク株式会社](https://www.nttbiz.com/)
-  - [テレビ会議多地点接続サービス](https://www.nttbiz.com/solution/vcs/)
-  - [メール＆ウエブサービス](https://www.nttbiz.jp/)
+
+  - [ヴィジュアルコミュニケーションソリューション](https://www.nttbiz.com/solution/vcs/)
+
+  - [メール&ウェブサービス](https://www.nttbiz.jp/)
+
   - [Agurippa](https://www.ntt.com/business/services/application/crm-dm/agurippa.html)
 
+  -
 [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:文京区の企業](https://ja.wikipedia.org/wiki/Category:文京区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:NTTグループ](https://ja.wikipedia.org/wiki/Category:NTTグループ "wikilink")

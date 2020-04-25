@@ -1,13 +1,13 @@
 > この記事は[SEASONS \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/SEASONS_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**SEASONS**」（シーズンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**SEASONS**」（シーズンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の16th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
-「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」「[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")」と続き、それから1か月足らずでのリリースとなった「絶望3部作」の3作目にあたるシングル\[2\]。
+「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」、「[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")」と続き、それから1か月足らずでのリリースとなった「絶望3部作」の3作目にあたるシングル\[2\]。
 
-[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")2週連続1位となり、9枚目の「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」、10枚目の「[A](../Page/A_\(シングル\).md "wikilink")」に続き、3作目のミリオンセラーとなった。累計136.7万枚を売り上げ、最大のヒットシングルとなった「A」に続き2番目に高い売上を記録した\[3\]。浜崎の代表曲の一つとなっている。
+[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")2週連続1位となり、9thシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」、10thシングル「[A](../Page/A_\(シングル\).md "wikilink")」に続き、3作目のミリオンセラーとなった。累計136.7万枚を売り上げ、最大のヒットシングルとなった「A」に続き2番目に高い売上を記録した\[3\]。浜崎の代表曲の一つとなっている。
 
 2000年の年間シングルCD売上ランキングにおいて5位を記録。『[第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")』において優秀作品賞及び作詩賞を受賞した\[4\]。
 

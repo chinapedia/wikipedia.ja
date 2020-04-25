@@ -1,7 +1,7 @@
 > この記事は[Depend on you](https://ja.wikipedia.org/wiki/Depend_on_you)から翻訳されています。
 
 
-『**Depend on you**』（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Depend on you**』（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の5th[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2004年](../Page/2004年.md "wikilink")に**Ayu**名義で発売（[Depend on you (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#Depend_on_you_\(Ayuの曲\) "wikilink")）。
 
@@ -13,7 +13,7 @@
 
 翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて、「Depend on you」が、ニュー・アーティスト・オブ・ザ・イヤー ゴールドディスクとなった\[2\]。
 
-2008年の43枚目のシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
+2008年の43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
 
 ## 収録曲
 
@@ -95,7 +95,7 @@
 
 ## Depend on you (Ayuの曲)
 
-「**Depend on you**」（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")3rd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
+「**Depend on you**」（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](../Page/浜崎あゆみ.md "wikilink")3rd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
 
 ### 解説
 
@@ -138,7 +138,7 @@ Ayu（浜崎あゆみ）がヨーロッパで発売した3rdシングル。Svens
 
   - [Depend on you](http://avex.jp/ayu/discography/detail.php?id=1003280)／[Two of us (アナログ)](http://avex.jp/ayu/discography/detail.php?id=1003294) - DISCOGRAPHY
 
-[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:Ayuの楽曲](https://ja.wikipedia.org/wiki/Category:Ayuの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:PlayStation用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフトの主題歌 "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:浜崎あゆみの楽曲](https://ja.wikipedia.org/wiki/Category:浜崎あゆみの楽曲 "wikilink") [Category:Ayuの楽曲](https://ja.wikipedia.org/wiki/Category:Ayuの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:菊池一仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:菊池一仁が制作した楽曲 "wikilink") [Category:PlayStation用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフトの主題歌 "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.  [アナログ盤](http://www.discogs.com/ja/Ayumi-Hamasaki-Depend-On-You/release/131546)のみ[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。
 2.  [浜崎あゆみ15周年記念特集](https://shop.mu-mo.net/st/event/ayu15anniv/)

@@ -49,7 +49,7 @@ setup() と teardown() の各メソッドは、テストフィクスチャの初
   - VBUnit（[Visual Basic用](../Page/Visual_Basic.md "wikilink")）
   - [DUnit](http://dunit.sourceforge.net/)（[Delphi](../Page/Delphi.md "wikilink")用）
   - PBUnit（[PowerBuilder](https://ja.wikipedia.org/wiki/PowerBuilder "wikilink")用）
-  - [PerlUnit](http://dunit.sourceforge.net/)（[Perl](../Page/Perl.md "wikilink")用）
+  - [PerlUnit](http://perlunit.sourceforge.net/)（[Perl](../Page/Perl.md "wikilink")用）
   - [PyUnit](http://pyunit.sourceforge.net/), [nose](http://code.google.com/p/python-nose/) ([Python](../Page/Python.md "wikilink")用)
   - [RubyUnit](http://homepage1.nifty.com/markey/ruby/rubyunit/index.html)\[1\], [Test::Unit](http://test-unit.rubyforge.org/)（[Ruby](../Page/Ruby.md "wikilink")用）
   - [NUnit](http://www.nunit.org/), [xUnit.net](https://xunit.github.io/)（[.NET Framework用](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")）

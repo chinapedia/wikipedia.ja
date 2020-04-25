@@ -37,6 +37,6 @@
 
 ## 脚注
 
-[Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:doaの楽曲](https://ja.wikipedia.org/wiki/Category:doaの楽曲 "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:ULTRA_N_PROJECT](https://ja.wikipedia.org/wiki/Category:ULTRA_N_PROJECT "wikilink") [Category:CBCテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビドラマ主題歌 "wikilink") [Category:ウルトラシリーズの主題歌](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズの主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink")
+[Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:doaの楽曲](https://ja.wikipedia.org/wiki/Category:doaの楽曲 "wikilink") [Category:徳永暁人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:徳永暁人が制作した楽曲 "wikilink") [Category:ULTRA_N_PROJECT](https://ja.wikipedia.org/wiki/Category:ULTRA_N_PROJECT "wikilink") [Category:CBCテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:CBCテレビのテレビドラマ主題歌 "wikilink") [Category:ウルトラシリーズの主題歌](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズの主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.  [【アニサマ2017 2日目レポ】DJ KOOに氷川きよしさん！ アニサマが切り札を魅せた！](https://www.animatetimes.com/news/details.php?id=1505354494),アニメイトタイムズ,2017年9月17日

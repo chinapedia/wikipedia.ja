@@ -57,134 +57,178 @@
 
 ### 収録曲
 
+## タイアップ
+
 <table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ</p></th>
+<th><p>初出作品</p></th>
+<th><p>発売日</p></th>
+<th><p>品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><strong><a href="../Page/Over_Soul.md" title="wikilink">Over Soul</a></strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/林原めぐみ" title="wikilink">MEGUMI</a>、作曲・編曲：<a href="../Page/たかはしごう.md" title="wikilink">たかはしごう</a><br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』初代オープニングテーマ</p></td>
-<td><p>3:54</p></td>
+<td><p>Over soul</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』初代オープニングテーマ</p></td>
+<td><p>Over soul</p></td>
+<td><p>2001年8月29日</p></td>
+<td><p>KICM-3016（林原盤）<br />
+KICM-3017（アニメ盤）</p></td>
+<td><p>26thシングル</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/don&#39;t_be_discouraged" title="wikilink">don't be discouraged</a></strong></p></td>
-<td><p>作詞：MEGUMI、作曲：<a href="../Page/佐藤英敏.md" title="wikilink">佐藤英敏</a>、編曲：添田啓二<br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/スレイヤーズ_(アニメ)" title="wikilink">スレイヤーズTRY</a>』エンディングテーマ<br />
-<a href="../Page/2006年.md" title="wikilink">2006年</a>発売のシングル『<a href="../Page/Meet_again.md" title="wikilink">Meet again</a>』のカップリング曲としても収録</p></td>
-<td><p>4:12</p></td>
+<td><p>don't be discouraged</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/スレイヤーズ_(アニメ)#スレイヤーズTRY" title="wikilink">スレイヤーズTRY</a>』エンディングテーマ</p></td>
+<td><p>don't be discouraged</p></td>
+<td><p>1997年4月23日</p></td>
+<td><p>KIDA-148</p></td>
+<td><p>15thシングル</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/Meet_again.md" title="wikilink">Meet again</a></p></td>
+<td><p>2006年7月26日</p></td>
+<td><p>KICM-1164</p></td>
+<td><p>33rdシングルカップリング</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>3</p></td>
-<td><p><strong>ルンバ・ルンバ</strong></p></td>
-<td><p>作詞・作曲：<a href="../Page/イズミカワソラ.md" title="wikilink">泉川そら</a>、編曲：<a href="../Page/十川ともじ.md" title="wikilink">十川知司</a><br />
-劇場版『スレイヤーズぷれみあむ』イメージソング<br />
-シングル『feel well』カップリング曲</p></td>
-<td><p>4:11</p></td>
+<td><p>ルンバ・ルンバ</p></td>
+<td><p>劇場版『スレイヤーズぷれみあむ』イメージソング</p></td>
+<td><p>feel well</p></td>
+<td><p>2001年12月5日</p></td>
+<td><p>KICM-3020</p></td>
+<td><p>27thシングルカップリング</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
-<td><p><strong>はじまりはここから</strong></p></td>
-<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/岡崎律子" title="wikilink">岡崎律子</a>、編曲：十川知司<br />
-テレビアニメ『<a href="../Page/ラブひな.md" title="wikilink">ラブひな</a>』最終回エンディングテーマ<br />
-<a href="../Page/2001年.md" title="wikilink">2001年</a>にリリースされた『〜サイレント・イヴ〜 ラブひな WINTER SPECIAL』収録曲<br />
-岡崎律子が『<a href="https://ja.wikipedia.org/wiki/ラブひな_OKAZAKI_COLLECTION" title="wikilink">ラブひな OKAZAKI COLLECTION</a>』にてセルフカバーしている。</p></td>
-<td><p>3:20</p></td>
+<td><p>はじまりはここから</p></td>
+<td><p>テレビアニメ『<a href="../Page/ラブひな.md" title="wikilink">ラブひな</a>』最終回エンディングテーマ</p></td>
+<td><p>〜サイレント・イヴ〜 ラブひな WINTER SPECIAL</p></td>
+<td><p>2001年1月24日</p></td>
+<td><p>KICA-531</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5</p></td>
-<td><p><strong><a href="../Page/サクラサク_(林原めぐみの曲).md" title="wikilink">サクラサク</a></strong></p></td>
-<td><p>作詞・作曲：岡崎律子、編曲：十川知司<br />
-テレビアニメ『<a href="../Page/ラブひな.md" title="wikilink">ラブひな</a>』オープニングテーマ<br />
-岡崎律子が『<a href="https://ja.wikipedia.org/wiki/ラブひな_OKAZAKI_COLLECTION" title="wikilink">ラブひな OKAZAKI COLLECTION</a>』にてセルフカバーしている。</p></td>
-<td><p>3:14</p></td>
+<td><p>サクラサク</p></td>
+<td><p>テレビアニメ『<a href="../Page/ラブひな.md" title="wikilink">ラブひな</a>』オープニングテーマ</p></td>
+<td><p>サクラサク</p></td>
+<td><p>2000年5月24日</p></td>
+<td><p>KICA-506</p></td>
+<td><p>24thシングル</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
-<td><p><strong>涙のSingle Rain</strong>[2002 version]</p></td>
-<td><p>作詞：<a href="../Page/渡辺なつみ_(作詞家).md" title="wikilink">渡辺なつみ</a>、作曲：工藤崇、編曲：<a href="../Page/光宗信吉.md" title="wikilink">光宗信吉</a><br />
-<a href="../Page/1989年.md" title="wikilink">1989年</a>に公開された劇場版『<a href="../Page/機動戦士SDガンダム.md" title="wikilink">機動戦士SDガンダム 嵐を呼ぶ学園祭</a>の逆襲』挿入歌のカバーで<br />
-オリジナルは<a href="../Page/川村万梨阿.md" title="wikilink">川村万梨阿</a>と<a href="../Page/本多知恵子.md" title="wikilink">本多知恵子</a>のデュエット曲</p></td>
-<td><p>4:27</p></td>
+<td><p>涙のSingle Rain</p></td>
+<td><p>劇場版『<a href="../Page/機動戦士SDガンダム.md" title="wikilink">機動戦士SDガンダム 嵐を呼ぶ学園祭</a>の逆襲』挿入歌（原曲）</p></td>
+<td><p>機動戦士SDガンダム TOKYO SHUFFLE（原曲）</p></td>
+<td><p>1989年8月5日</p></td>
+<td><p>292A-7011</p></td>
+<td><p>原曲：<a href="../Page/本多知恵子.md" title="wikilink">本多知恵子</a>・<a href="../Page/川村万梨阿.md" title="wikilink">川村万梨阿</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
-<td><p><strong>lost in you</strong></p></td>
-<td><p>作詞：MEGUMI、作曲：佐藤英敏、編曲：堀隆<br />
-テレビアニメ『<a href="../Page/無敵王トライゼノン.md" title="wikilink">無敵王トライゼノン</a>』エンディングテーマ<br />
-シングル『unsteady』カップリング曲</p></td>
-<td><p>4:24</p></td>
+<td><p>lost in you</p></td>
+<td><p>テレビアニメ『<a href="../Page/無敵王トライゼノン.md" title="wikilink">無敵王トライゼノン</a>』エンディングテーマ</p></td>
+<td><p>unsteady</p></td>
+<td><p>2000年10月25日</p></td>
+<td><p>KIDA-204</p></td>
+<td><p>25thシングルカップリング</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
-<td><p><strong>trust you</strong>[2002 New Arrange Version]</p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』初代エンディングテーマのリアレンジ楽曲</p></td>
-<td><p>4:11</p></td>
+<td><p>trust you（2002 New Arrange Version）</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>26thシングルカップリングのリアレンジ音源</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/brave_heart_(林原めぐみの曲)" title="wikilink">brave heart</a></strong></p></td>
-<td><p>作詞：MEGUMI、作曲：<a href="../Page/太田美知彦.md" title="wikilink">太田美知彦</a>、編曲：十川知司<br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』挿入歌</p></td>
-<td><p>4:12</p></td>
+<td><p>brave heart</p></td>
+<td><p>テレビアニメ『シャーマンキング』挿入歌</p></td>
+<td><p>brave heart</p></td>
+<td><p>2001年12月29日</p></td>
+<td><p>KICM-3021</p></td>
+<td><p>28thシングル</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/unsteady" title="wikilink">unsteady</a></strong></p></td>
-<td><p>作詞：MEGUMI、作曲：佐藤英敏、編曲：五島翔<br />
-テレビアニメ『<a href="../Page/無敵王トライゼノン.md" title="wikilink">無敵王トライゼノン</a>』オープニングテーマ</p></td>
-<td><p>4:33</p></td>
+<td><p>unsteady</p></td>
+<td><p>テレビアニメ『無敵王トライゼノン』オープニングテーマ</p></td>
+<td><p>unsteady</p></td>
+<td><p>2000年10月25日</p></td>
+<td><p>KIDA-204</p></td>
+<td><p>25thシングル</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
-<td><p><strong>Tokyo Boogie Night</strong>[2002 version]</p></td>
-<td><p>作詞：渡辺なつみ、作曲：<a href="../Page/原一博.md" title="wikilink">原一博</a>、編曲：光宗信吉<br />
-ラジオ『<a href="../Page/林原めぐみのTokyo_Boogie_Night.md" title="wikilink">林原めぐみのTokyo Boogie Night</a>』の放送500回記念・放送10周年記念ソング。[1]<br />
-<a href="../Page/1992年.md" title="wikilink">1992年</a>リリースのアルバム『<a href="../Page/WHATEVER_(アルバム).md" title="wikilink">WHATEVER</a>』に収録された同名曲のリメイク楽曲</p></td>
-<td><p>3:10</p></td>
+<td><p>Tokyo Boogie Night（2002 version）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TBSラジオ&amp;コミュニケーションズ" title="wikilink">TBSラジオ他</a>『<a href="../Page/林原めぐみのTokyo_Boogie_Night.md" title="wikilink">林原めぐみのTokyo Boogie Night</a>』2代目エンディングテーマ</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
-<td><p><strong>ときを越えて</strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：<a href="../Page/田辺智沙.md" title="wikilink">田辺智沙</a>、ストリングアレンジ：<a href="../Page/岩崎文紀.md" title="wikilink">岩崎文紀</a><br />
-<a href="../Page/1999年.md" title="wikilink">1999年</a>にリリースされたテレビアニメ『<a href="../Page/ロスト・ユニバース.md" title="wikilink">ロスト・ユニバース</a>』のソングベストアルバム<br />
-『the BEST of LOST UNIVERSE [from TV]』の書き下ろし楽曲</p></td>
-<td><p>4:59</p></td>
-</tr>
-<tr class="odd">
-<td><p>13</p></td>
-<td><p><strong>シンシア・愛する人</strong>[Dear Tsubame version]</p></td>
-<td><p>作詞・作曲：岡崎律子、編曲：光宗信吉、コーラスアレンジ：岡崎律子<br />
-本人が大鳥居つばめ役で出演したテレビアニメ『<a href="../Page/アキハバラ電脳組.md" title="wikilink">アキハバラ電脳組</a>』挿入歌のカバーで<br />
-オリジナルは<a href="https://ja.wikipedia.org/wiki/岡崎律子" title="wikilink">岡崎律子</a>。</p></td>
-<td><p>4:08</p></td>
+<td><p>ときを越えて</p></td>
+<td><p>テレビアニメ『<a href="../Page/ロスト・ユニバース.md" title="wikilink">ロスト・ユニバース</a>』イメージソング</p></td>
+<td><p>『the BEST of LOST UNIVERSE [from TV]』</p></td>
+<td><p>1999年6月4日</p></td>
+<td><p>KICA-456</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>14</p></td>
-<td><p><strong>feel well</strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
-劇場版『スレイヤーズぷれみあむ』主題歌</p></td>
-<td><p>4:43</p></td>
+<td><p>13</p></td>
+<td><p>シンシア・愛する人</p></td>
+<td><p>テレビアニメ『<a href="../Page/アキハバラ電脳組.md" title="wikilink">アキハバラ電脳組</a>』挿入歌（原曲）</p></td>
+<td><p>Rebis-C.T.i.A/O.S.T（原曲）</p></td>
+<td><p>1998年7月24日</p></td>
+<td><p>KICA-408</p></td>
+<td><p>原曲：岡崎律子</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>bonus track</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>14</p></td>
+<td><p>feel well</p></td>
+<td><p>劇場版『スレイヤーズぷれみあむ』主題歌</p></td>
+<td><p>feel well</p></td>
+<td><p>2001年12月5日</p></td>
+<td><p>KICM-3020</p></td>
+<td><p>27thシングル</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p>'''[[ブースカ!ブースカ</p></td>
-<td><p>_(曲)|ブースカ!ブースカ</p></td>
-<td><p>]]'''</p></td>
+<td><p>ブースカ!ブースカ</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系特撮ドラマ『[[ブースカ!ブースカ</p></td>
+<td><p>|ブースカ!ブースカ</p></td>
+<td><p>]]』オープニングテーマ</p></td>
+<td><p>ブースカ!ブースカ</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p><strong>晴れときどき晴れ</strong></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/有森聡美" title="wikilink">有森聡美</a>、作曲・編曲：<a href="https://ja.wikipedia.org/wiki/大森俊之" title="wikilink">大森俊之</a><br />
-<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系特撮ドラマ『[[ブースカ!ブースカ</p></td>
-<td><p>|ブースカ!ブースカ</p></td>
+<td><p>晴れときどき晴れ</p></td>
+<td><p>テレビ東京系特撮ドラマ『ブースカ!ブースカ</p></td>
+<td><p>』エンディングテーマ</p></td>
+<td><p>23rdシングルカップリング</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -227,5 +271,3 @@
 ## 脚注
 
 [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink") [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")
-
-1.  ラジオではこのアルバムリリース前後から現在までこちらの音源がエンディングテーマとして起用されている。

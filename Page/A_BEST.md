@@ -3,11 +3,11 @@
 
 {{ external media | align = right | video1 = [浜崎あゆみ ー 『A BEST -15th Anniversary Edition-』TVCM Part.1](https://www.youtube.com/watch?v=hEyvrYOVioE) | video2 = [浜崎あゆみ ー 『A BEST -15th Anniversary Edition-』TVCM Part.2 〜あと4日〜](https://www.youtube.com/watch?v=tEPGP4hE0Is) | video3 = [浜崎あゆみ ー 『A BEST -15th Anniversary Edition-』TVCM Part.3 〜あと3日〜](https://www.youtube.com/watch?v=R5iO1rAOk_0) | video4 = [浜崎あゆみ ー 『A BEST -15th Anniversary Edition-』TVCM Part.4 〜あと2日〜](https://www.youtube.com/watch?v=4OAx8o2Z-i4) | video5 = [浜崎あゆみ ー 『A BEST -15th Anniversary Edition-』TVCM Part.5 〜あと1日〜](https://www.youtube.com/watch?v=C67yEi68dqI) | video6 = [浜崎あゆみ ー 『A BEST -15th Anniversary Edition-』TVCM Part.6 〜in stores〜](https://www.youtube.com/watch?v=IwzGVDUnkE4) | video7 = [浜崎あゆみ ー「who…」(Live Lyric Video)](https://www.youtube.com/watch?v=ubE-rwgXo-o) }}
 
-『**A BEST**』（エー・ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（「**A** BEST」の「**A**」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")）。[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**A BEST**』（エー・ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（「**A** BEST」の「**A**」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")）。[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-デビューした[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までに発売されたシングル、アルバムから選ばれて収録されており、当時発売済みであった20枚目のシングル「[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")」と21枚目のシングル「[NEVER EVER](https://ja.wikipedia.org/wiki/NEVER_EVER_\(浜崎あゆみの曲\) "wikilink")」は収録されていない。
+デビューした[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までに発売されたシングル、アルバムから選ばれて収録されており、当時発売済みであった20枚目のシングル「[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")」と21枚目のシングル「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」は収録されていない。
 
 「[A Song for ××](../Page/A_Song_for_××.md "wikilink")」、「[Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink")」、「[Depend on you](../Page/Depend_on_you.md "wikilink")」の3曲は、ボーカルの新録音とミックスの変更が成されており、ブックレットにも『New Vocal & Mix』と表記されている。また、表記こそされてはいないが、10枚目のシングル「[End roll](../Page/A_\(シングル\).md "wikilink")」もボーカルを新録音、ミックスのアレンジが成され、9枚目のシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」はボーカルは原曲通りでアレンジのみ生音に近いものに変更されている。8枚目のシングル「[TO BE](../Page/TO_BE.md "wikilink")」、11枚目のシングル「[appears](https://ja.wikipedia.org/wiki/appears "wikilink")」と13枚目のシングル「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」は、2枚目のアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』のミックスで収録されている。初回限定盤のジャケットは、6パターンある（紙箱のデザインは共通で、CDブックレットの写真が異なる）。
 
@@ -91,7 +91,7 @@
         17thシングル
 15. **[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")**
       -
-        作曲:[CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") / 編曲:HΛL
+        作曲:[CREA](../Page/浜崎あゆみ.md "wikilink") / 編曲:HΛL
         19thシングル
 16. **[Who...](../Page/LOVEppears.md "wikilink")**
       -

@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/Boys_&amp;_Girls_(浜崎あゆみの曲).md" title="wikilink">Boys &amp; Girls</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td><p>1999年7月14日</p></td>
 <td><p><a href="../Page/花王.md" title="wikilink">花王</a>「<a href="../Page/ソフィーナ.md" title="wikilink">ソフィーナ</a> オーブ ルージュ ドレシャス」CMソング</p></td>
 <td></td>

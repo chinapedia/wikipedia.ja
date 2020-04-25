@@ -319,7 +319,7 @@ VCMは[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")が独自開発したSD
 
 [fi:DRAM\#SDRAM](https://ja.wikipedia.org/wiki/fi:DRAM#SDRAM "wikilink")
 
-[Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink")
+[Category:SDRAM](https://ja.wikipedia.org/wiki/Category:SDRAM "wikilink")
 
 1.   micron.com
 2.

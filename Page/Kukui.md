@@ -58,7 +58,7 @@ kukuiという名前は、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "w
 </tr>
 <tr class="even">
 <td><p>8月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンメイデンのディスコグラフィ#キャラクタードラマ" title="wikilink">ローゼンメイデン トロイメント キャラクタードラマVol.1 水銀燈</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ローゼンメイデンのディスコグラフィ#Character_Drama" title="wikilink">ローゼンメイデン トロイメント Character Drama Vol.1 水銀燈</a></p></td>
 <td><p><strong>kukui</strong></p></td>
 <td><p>「彼方からの鎮魂歌（Drama Version）」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ローゼンメイデン_トロイメント" title="wikilink">ローゼンメイデン トロイメント</a>』イメージソング</p></td>
@@ -66,7 +66,7 @@ kukuiという名前は、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "w
 </tr>
 <tr class="odd">
 <td><p>9月22日</p></td>
-<td><p>ローゼンメイデン トロイメント キャラクタードラマVol.2 金糸雀</p></td>
+<td><p>ローゼンメイデン トロイメント Character Drama Vol.2 金糸雀</p></td>
 <td><p>「ピチカート日和（Drama Version）」</p></td>
 <td></td>
 <td></td>
@@ -74,7 +74,7 @@ kukuiという名前は、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "w
 </tr>
 <tr class="even">
 <td><p>10月25日</p></td>
-<td><p>ローゼンメイデン トロイメント キャラクタードラマVol.3 翠星石</p></td>
+<td><p>ローゼンメイデン トロイメント Character Drama Vol.3 翠星石</p></td>
 <td><p>「みどりのゆび（Drama Version）」</p></td>
 <td></td>
 <td></td>
@@ -90,7 +90,7 @@ kukuiという名前は、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "w
 </tr>
 <tr class="even">
 <td><p>2月7日</p></td>
-<td><p>ローゼンメイデン トロイメント キャラクタードラマVol.6 雛苺</p></td>
+<td><p>ローゼンメイデン トロイメント Character Drama Vol.6 雛苺</p></td>
 <td><p><strong>kukui</strong></p></td>
 <td><p>「近くて遠いゆめ（Drama Version）」</p></td>
 <td><p>| テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ローゼンメイデン_トロイメント" title="wikilink">ローゼンメイデン トロイメント</a>』イメージソング</p></td>

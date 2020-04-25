@@ -1,7 +1,7 @@
 > この記事は[OKI \(ミュージシャン\)](https://ja.wikipedia.org/wiki/OKI_\(ミュージシャン\))から翻訳されています。
 
 
-**OKI**（オキ、加納 沖\[1\]、1957年\[2\]－）[樺太](../Page/樺太.md "wikilink")[アイヌ](../Page/アイヌ.md "wikilink")の伝統弦楽器[トンコリ](../Page/トンコリ.md "wikilink")奏者\[3\]\[4\]。
+**OKI**（オキ、加納 沖\[1\]、1957年\[2\]－）[トンコリ](../Page/トンコリ.md "wikilink")\[3\]奏者\[4\]\[5\]。
 
 OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
@@ -9,13 +9,15 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 ## 人物・来歴
 
-[砂澤ビッキ](../Page/砂澤ビッキ.md "wikilink")と画家山田美年子（加納美年子）の息子として[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")生まれ、母の再婚により[加納光於](https://ja.wikipedia.org/wiki/加納光於 "wikilink")の養子となる\[5\]。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")育ち、北海道[当麻町](../Page/当麻町.md "wikilink")在住\[6\]。
+[砂澤ビッキ](../Page/砂澤ビッキ.md "wikilink")と画家山田美年子（加納美年子）の長男として[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")に生まれ\[6\]、母の再婚により[加納光於](https://ja.wikipedia.org/wiki/加納光於 "wikilink")の養子となる\[7\]。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")育ち、北海道[当麻町](../Page/当麻町.md "wikilink")在住\[8\]。
 
-[神奈川県立茅ヶ崎高等学校](../Page/神奈川県立茅ヶ崎高等学校.md "wikilink")出身\[7\]、[東京芸術大学](../Page/東京芸術大学.md "wikilink")美術学部工芸科を卒業\[8\]。
+[神奈川県立茅ヶ崎高等学校](../Page/神奈川県立茅ヶ崎高等学校.md "wikilink")出身\[9\]、[東京芸術大学](../Page/東京芸術大学.md "wikilink")美術学部工芸科を卒業\[10\]。
+
+大学時代に自身がアイヌの血を引いていることを知る\[11\]。
 
 1992年、[姫田忠義](https://ja.wikipedia.org/wiki/姫田忠義 "wikilink")の「民族文化映像研究所」で撮影を担当する。
 
-[旭川市](../Page/旭川市.md "wikilink")の[川村カ子トアイヌ記念館](https://ja.wikipedia.org/wiki/川村カ子トアイヌ記念館 "wikilink")の館長で親戚である川村兼一からもらったトンコリを独学で学ぶ\[9\]。
+[旭川市](../Page/旭川市.md "wikilink")の[川村カ子トアイヌ記念館](https://ja.wikipedia.org/wiki/川村カ子トアイヌ記念館 "wikilink")の館長で親戚である川村兼一からもらったトンコリを独学で学ぶ\[12\]。
 
 1stアルバム『カムィ・コル・ヌプﾙペ』に収録された「ウトゥワスカラプ」は、「キムスポ」のエカシの言葉にオキがメロディーをつけて生まれた曲。「トパットゥミ（襲撃）」「ネヒコラチ（いつものように）」は、[アイヌ語](../Page/アイヌ語.md "wikilink")の詩を葛野エカシ自ら書き下ろしたオキとの共作である。
 
@@ -29,7 +31,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 2006年、「OKI DUB AINU BAND」を発表。
 
-2008年　[北海道文化賞](https://ja.wikipedia.org/wiki/北海道文化賞 "wikilink")奨励賞受賞\[10\]。
+2008年　[北海道文化賞](https://ja.wikipedia.org/wiki/北海道文化賞 "wikilink")奨励賞受賞\[13\]。
 
 2012年、マレウレウ の「もっといて、ひっそりね。」 プロデュース。　
 
@@ -74,7 +76,13 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 ## 脚注
 
-<references/>
+### 注釈
+
+## 参考文献
+
+  - 芦原伸『ラストカムイ　砂澤ビッキの木彫』）白水社，2019）ISBN978-4-560-09736-6
+  - 白水社Webサイト　[「芦原伸『ラストカムイ　砂澤ビッキの木彫』」](https://www.hakusuisha.co.jp/book/b482014.html)
+  - 橋場了悟『70seeds 次の70年に何を残す？』「[交易所にアンプがあったなら　アイヌ と日本の境界から生まれた音楽](https://www.70seeds.jp/oki-175/)」、2016.11.17
 
 ## 外部リンク
 
@@ -88,11 +96,14 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 1.  [北海道文化賞・北海道文化奨励賞受賞者一覧](http://www.pref.hokkaido.lg.jp/ks/bns/bunkasho/jushoshaichiran2.pdf) [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
 2.  [北原次郎太](https://ja.wikipedia.org/wiki/北原次郎太 "wikilink")[「トンコリの戦後史2」『千葉大学 ユーラシア言語文化論集』6(2003) 67-94](http://mitizane.ll.chiba-u.jp/metadb/up/AA11256001/KJ00004166055.pdf)
-3.  [写真で深呼吸。仁礼博のだいじな思いで](http://www.1101.com/nirei/47scene68.html) 2012-03-14-WED [ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")
-4.  [阿寒湖温泉でＯＫＩさんがトンコリのライブ](http://www.hokkaido-np.co.jp/cont/video/?c=&v=394800762002) （2008/05/14） [北海道新聞](../Page/北海道新聞.md "wikilink")
-5.  <http://koushinminzoku.cocolog-nifty.com/blog/2009/10/post-c4db.html>
-6.  [アイヌ⇔ダブ越境！異彩を放つOKIの新作](http://www.hmv.co.jp/news/article/605230042/) 2006年5月23日 (火) [HMV ONLINE](https://ja.wikipedia.org/wiki/HMV_ONLINE "wikilink")
-7.  [OKI / CHIKAR STUDIO【MAIL MAGAZINE】Vol.97](http://www.tonkori.com/mailmag/backno2.cgi?no=47) 2009年02月06日(金)
-8.
-9.  [CHIKAR STUDIO Profile](http://www.tonkori.com/profile/index.php)
+3.  [樺太](../Page/樺太.md "wikilink")[アイヌ](../Page/アイヌ.md "wikilink")の伝統弦楽器。
+4.  [写真で深呼吸。仁礼博のだいじな思いで](http://www.1101.com/nirei/47scene68.html) 2012-03-14-WED [ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")
+5.  [阿寒湖温泉でＯＫＩさんがトンコリのライブ](http://www.hokkaido-np.co.jp/cont/video/?c=&v=394800762002) （2008/05/14） [北海道新聞](../Page/北海道新聞.md "wikilink")
+6.  橋場，2016（=本人へのインタビュー）では、「3歳まで阿寒にいたらしいのですが、全然覚えていなくて」、「父親が旭川出身のアイヌなんですが、離婚して母親に引き取られたんです」とある。
+7.  <http://koushinminzoku.cocolog-nifty.com/blog/2009/10/post-c4db.html>
+8.  [アイヌ⇔ダブ越境！異彩を放つOKIの新作](http://www.hmv.co.jp/news/article/605230042/) 2006年5月23日 (火) [HMV ONLINE](https://ja.wikipedia.org/wiki/HMV_ONLINE "wikilink")
+9.  [OKI / CHIKAR STUDIO【MAIL MAGAZINE】Vol.97](http://www.tonkori.com/mailmag/backno2.cgi?no=47) 2009年02月06日(金)
 10.
+11. 橋場，2016
+12. [CHIKAR STUDIO Profile](http://www.tonkori.com/profile/index.php)
+13.

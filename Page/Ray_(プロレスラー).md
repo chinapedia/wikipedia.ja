@@ -428,7 +428,7 @@
 ## 外部リンク
 
   -
-  - [Ray's Official Blog 【VIVA\! Ray's DREAM】](http://ameblo.jp/viva-ray/) - アメブロ
+  - [Ray's Official Blog 【VIVA\! Ray's DREAM】](https://ameblo.jp/viva-ray/) - アメブロ
 
   -
   - [Facebook（Ray）](https://www.facebook.com/vivavivaRay)

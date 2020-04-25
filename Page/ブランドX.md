@@ -54,4 +54,4 @@
 
   - [バンド活動歴を紹介したサイト](http://members.cox.net/scottstrades/BrandX_Performances.html)
 
-[Category:イングランドのプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:イングランドのプログレッシブ・ロック・バンド "wikilink") [Category:イギリスのジャズ・バンド](https://ja.wikipedia.org/wiki/Category:イギリスのジャズ・バンド "wikilink") [Category:コロムビア・レコードのアーティスト](https://ja.wikipedia.org/wiki/Category:コロムビア・レコードのアーティスト "wikilink") [Category:エピック・レコードのアーティスト](https://ja.wikipedia.org/wiki/Category:エピック・レコードのアーティスト "wikilink") [Category:1975年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1975年に結成した音楽グループ "wikilink")
+[Category:ボーイ・バンド](https://ja.wikipedia.org/wiki/Category:ボーイ・バンド "wikilink") [Category:イングランドのプログレッシブ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:イングランドのプログレッシブ・ロック・バンド "wikilink") [Category:イギリスのジャズ・バンド](https://ja.wikipedia.org/wiki/Category:イギリスのジャズ・バンド "wikilink") [Category:コロムビア・レコードのアーティスト](https://ja.wikipedia.org/wiki/Category:コロムビア・レコードのアーティスト "wikilink") [Category:エピック・レコードのアーティスト](https://ja.wikipedia.org/wiki/Category:エピック・レコードのアーティスト "wikilink") [Category:1975年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1975年に結成した音楽グループ "wikilink")

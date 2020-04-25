@@ -99,7 +99,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 
 ## Apple TV+
 
-[2019年](../Page/2019年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発表\[17\]。[Netflix](../Page/Netflix.md "wikilink")のような定額制映像配信サービスとなる予定で、Apple TVのみならず[Amazon Fire TVなどでも専用アプリで視聴可能になる予定](https://ja.wikipedia.org/wiki/Amazon_Fire_TV "wikilink")。2019年[11月1日](../Page/11月1日.md "wikilink")にサービスを開始した\[18\]。
+[2019年](../Page/2019年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発表\[17\]。2019年[11月1日](../Page/11月1日.md "wikilink")にサービスを開始\[18\]。[Netflix](../Page/Netflix.md "wikilink")のような[定額制映像配信サービスで](../Page/ビデオ・オン・デマンド.md "wikilink")、本サービス開始に合わせて、Apple TVのみならず、[東芝](../Page/東芝.md "wikilink")や[サムスン電子](../Page/サムスン電子.md "wikilink")製などの一部[スマートテレビ](https://ja.wikipedia.org/wiki/スマートテレビ "wikilink")や[Amazon Fire TV](https://ja.wikipedia.org/wiki/Amazon_Fire_TV "wikilink")などでも専用アプリで本サービスやiTunesのコンテンツが視聴可能になった\[19\]\[20\]。
 
 ## 仕様
 
@@ -107,11 +107,11 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 <thead>
 <tr class="header">
 <th></th>
-<th><p>第1世代[19]</p></th>
-<th><p>第2世代[20]</p></th>
-<th><p>第3世代[21]</p></th>
-<th><p>Apple TV HD（第4世代）[22]</p></th>
-<th><p>Apple TV 4K[23]</p></th>
+<th><p>第1世代[21]</p></th>
+<th><p>第2世代[22]</p></th>
+<th><p>第3世代[23]</p></th>
+<th><p>Apple TV HD（第4世代）[24]</p></th>
+<th><p>Apple TV 4K[25]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -149,7 +149,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 </tr>
 <tr class="odd">
 <td><p>プロセッサ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インテル" title="wikilink">Intel</a> 1.0GHz Crofton プロセッサ[24]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インテル" title="wikilink">Intel</a> 1.0GHz Crofton プロセッサ[26]</p></td>
 <td><p>1GHz <a href="https://ja.wikipedia.org/wiki/Apple_A4" title="wikilink">Apple A4</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A5" title="wikilink">Apple A5</a> シングルコア</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a> デュアルコア</p></td>
@@ -157,7 +157,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 </tr>
 <tr class="even">
 <td><p>グラフィックス</p></td>
-<td><p><a href="../Page/NVIDIA.md" title="wikilink">NVIDIA</a> <a href="https://ja.wikipedia.org/wiki/GeForce" title="wikilink">GeForce</a> Go 7300 (64 MB <a href="../Page/VRAM.md" title="wikilink">VRAM</a>)[25]</p></td>
+<td><p><a href="../Page/NVIDIA.md" title="wikilink">NVIDIA</a> <a href="https://ja.wikipedia.org/wiki/GeForce" title="wikilink">GeForce</a> Go 7300 (64 MB <a href="../Page/VRAM.md" title="wikilink">VRAM</a>)[27]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A4" title="wikilink">Apple A4</a> (PowerVR SGX535)</p></td>
 <td><p><strong>初期版:</strong> <a href="https://ja.wikipedia.org/wiki/Apple_A5" title="wikilink">Apple A5</a></p>
 <p>(PowerVR SGX543MP2)</p></td>
@@ -176,15 +176,15 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 </tr>
 <tr class="even">
 <td><p>メモリ</p></td>
-<td><p>256MB/400MHz <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>[26]</p></td>
-<td><p>256MB[27]</p></td>
-<td><p>512MB[28]</p></td>
-<td><p>2GB LPDDR3 SDRAM[29]</p></td>
+<td><p>256MB/400MHz <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>[28]</p></td>
+<td><p>256MB[29]</p></td>
+<td><p>512MB[30]</p></td>
+<td><p>2GB LPDDR3 SDRAM[31]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ストレージ</p></td>
-<td><p>40GB/160GB <a href="https://ja.wikipedia.org/wiki/ハードディスクドライブ" title="wikilink">HDD</a>[30]</p></td>
+<td><p>40GB/160GB <a href="https://ja.wikipedia.org/wiki/ハードディスクドライブ" title="wikilink">HDD</a>[32]</p></td>
 <td><p>8GB <a href="../Page/NAND型フラッシュメモリ.md" title="wikilink">フラッシュメモリ</a>（<a href="../Page/キャッシュ_(コンピュータシステム).md" title="wikilink">キャッシュ用</a>）</p></td>
 <td><p>32GB/64GB フラッシュメモリ</p></td>
 <td><p>32GB/64GB フラッシュメモリ</p></td>
@@ -195,10 +195,10 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 <td><p><a href="https://ja.wikipedia.org/wiki/HDMI" title="wikilink">HDMI</a><br />
 <a href="../Page/コンポーネント端子.md" title="wikilink">コンポーネント端子</a><br />
 IRレシーバ<br />
-<a href="../Page/ユニバーサル・シリアル・バス.md" title="wikilink">USB</a> 2.0[31]</p></td>
+<a href="../Page/ユニバーサル・シリアル・バス.md" title="wikilink">USB</a> 2.0[33]</p></td>
 <td><p>HDMI<br />
 IRレシーバ<br />
-<a href="../Page/ユニバーサル・シリアル・バス.md" title="wikilink">Micro-USB</a>[32]</p></td>
+<a href="../Page/ユニバーサル・シリアル・バス.md" title="wikilink">Micro-USB</a>[34]</p></td>
 <td><p>HDMI 1.4<br />
 IRレシーバ<br />
 <a href="https://ja.wikipedia.org/wiki/USB_Type-C" title="wikilink">USB Type-C</a></p></td>
@@ -277,12 +277,12 @@ HDMIのみ</p></td>
 （<a href="https://ja.wikipedia.org/wiki/IOS_(アップル)" title="wikilink">iOS</a> 4.1 ベース）</p></td>
 <td><p><strong>初期版:</strong> Apple TV Software 5.0<br />
 （iOS 5.1 ベース）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/tvOS" title="wikilink">tvOS</a> 9.0[33]<br />
-（iOS 9ベース）[34]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/tvOS" title="wikilink">tvOS</a> 9.0[35]<br />
+（iOS 9ベース）[36]</p></td>
 <td><p>tvOS 11.0 (iOS 11 ベース)</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Rev.A:</strong> Apple TV Software 5.2[35]<br />
+<td><p><strong>Rev.A:</strong> Apple TV Software 5.2[37]<br />
 （iOS 6.1 ベース）</p></td>
 <td></td>
 <td></td>
@@ -355,3 +355,5 @@ HDMIのみ</p></td>
 33.
 34.
 35.
+36.
+37.

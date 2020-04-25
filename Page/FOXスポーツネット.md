@@ -94,7 +94,7 @@
 <tr class="odd">
 <td><p>FOXスポーツ・カンザスシティ<br />
 (<em><strong>FS</strong>KANSAS CITY</em>)</p></td>
-<td><p><a href="../Page/カンザスシティ_(ミズーリ州).md" title="wikilink">カンザスシティ</a>、<a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a>中央部・西部、<a href="https://ja.wikipedia.org/wiki/ネブラスカ州" title="wikilink">ネブラスカ州</a>東部、<a href="../Page/カンザス州.md" title="wikilink">カンザス州</a>、<a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a></p></td>
+<td><p><a href="../Page/カンザスシティ_(ミズーリ州).md" title="wikilink">カンザスシティ</a>、<a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a>中央部・西部、<a href="https://ja.wikipedia.org/wiki/ネブラスカ州" title="wikilink">ネブラスカ州</a>東部、<a href="../Page/カンザス州.md" title="wikilink">カンザス州</a>、<a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a></p></td>
 <td><p><a href="../Page/カンザスシティ・ロイヤルズ.md" title="wikilink">カンザスシティ・ロイヤルズ</a>(MLB、<em><strong>FS</strong>ROYALS</em>)、セントルイス・ブルース(NHL、ミッドウエストより)、Big 12</p></td>
 <td><p>2008年（ミッドウエストから独立）</p></td>
 <td><p><a href="http://foxsportskansascity.com/">Fox Sports Kansas City</a></p></td>
@@ -102,7 +102,7 @@
 <tr class="even">
 <td><p>FOXスポーツ・ミッドウエスト<br />
 (<em><strong>FS</strong>MID WEST</em>)</p></td>
-<td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a>東部・中央部、<a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a>南部、<a href="../Page/インディアナ州.md" title="wikilink">インディアナ州</a>南部、<a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a></p></td>
+<td><p><a href="../Page/ミズーリ州.md" title="wikilink">ミズーリ州</a>東部・中央部、<a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a>南部、<a href="../Page/インディアナ州.md" title="wikilink">インディアナ州</a>南部、<a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a></p></td>
 <td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・カージナルス</a>(MLB、<em><strong>FS</strong>CARDINALS</em>)、<a href="../Page/セントルイス・ブルース.md" title="wikilink">セントルイス・ブルース</a>(NHL、<em><strong>FS</strong>BLUES</em>）、Big 12、<a href="../Page/サウスイースタン・カンファレンス.md" title="wikilink">サウスイースタン・カンファレンス</a>(SEC)</p></td>
 <td><p>1989年(<strong>PS</strong>)</p></td>
 <td><p><a href="http://foxsportsmidwest.com/">Fox Sports Mid West</a></p></td>
@@ -110,7 +110,7 @@
 <tr class="odd">
 <td><p>FOXスポーツ・ノース<br />
 (<em><strong>FS</strong>NORTH</em>)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a>、<a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a>、<a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a>、<a href="../Page/アッパー半島.md" title="wikilink">アッパー半島</a>、<a href="../Page/ノースダコタ州.md" title="wikilink">ノースダコタ州</a>、<a href="../Page/サウスダコタ州.md" title="wikilink">サウスダコタ州</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a>、<a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a>、<a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a>、<a href="../Page/アッパー半島.md" title="wikilink">アッパー半島</a>、<a href="../Page/ノースダコタ州.md" title="wikilink">ノースダコタ州</a>、<a href="../Page/サウスダコタ州.md" title="wikilink">サウスダコタ州</a></p></td>
 <td><p><a href="../Page/ミネソタ・ティンバーウルブズ.md" title="wikilink">ミネソタ・ティンバーウルブズ</a>(NBA、<em><strong>FS</strong>WOLVES</em>)、<a href="../Page/ミネソタ・ツインズ.md" title="wikilink">ミネソタ・ツインズ</a>(MLB、<em><strong>FS</strong>TWINS</em>)、<a href="../Page/ミネソタ・ワイルド.md" title="wikilink">ミネソタ・ワイルド</a>(NHL、<em><strong>FS</strong>WILD</em>)、<a href="../Page/ビッグ・テン・カンファレンス.md" title="wikilink">ビッグ・テン・カンファレンス</a>(Big Ten)、<a href="../Page/ビッグ・イースト・カンファレンス.md" title="wikilink">ビッグ・イースト・カンファレンス</a>(Big East)</p></td>
 <td><p>1986年(<strong>SC</strong>)</p></td>
 <td><p><a href="http://foxsportsnorth.com/">Fox Sports North</a></p></td>
@@ -190,7 +190,7 @@
 <tr class="odd">
 <td><p>FOXスポーツ・ウィスコンシン<br />
 (<em><strong>FS</strong>WISCONSIN</em>)</p></td>
-<td><p><a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a>、<a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a>東部、<a href="../Page/ミシガン州.md" title="wikilink">ミシガン州</a>西部、<a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a>北部、<a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a></p></td>
+<td><p><a href="../Page/ウィスコンシン州.md" title="wikilink">ウィスコンシン州</a>、<a href="https://ja.wikipedia.org/wiki/ミネソタ州" title="wikilink">ミネソタ州</a>東部、<a href="../Page/ミシガン州.md" title="wikilink">ミシガン州</a>西部、<a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a>北部、<a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー・ブリュワーズ" title="wikilink">ミルウォーキー・ブリュワーズ</a>(MLB、<em><strong>FS</strong>BREWERS</em>)、<a href="../Page/ミルウォーキー・バックス.md" title="wikilink">ミルウォーキー・バックス</a>(NBA、<em><strong>FS</strong>BUCKS</em>)、ミネソタ・ワイルド(NHL、ノースより)、Big Ten、Big East</p></td>
 <td><p>1996年（2007年ノースより独立）</p></td>
 <td><p><a href="http://foxsportswisconsin.com/">Fox Sports Wisconsin</a></p></td>

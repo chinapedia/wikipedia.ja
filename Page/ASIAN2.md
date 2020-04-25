@@ -464,8 +464,8 @@ AVCT-30105</p></td>
   - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")（2006年12月6日、[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
   - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink")（2007年9月7日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2007年9月15日、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）
-  - [ワンダフル\!\!信州人](https://ja.wikipedia.org/wiki/ワンダフル!!信州人 "wikilink")（2010年10月18日、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）
-  - [346Bar](https://ja.wikipedia.org/wiki/346Bar "wikilink")（2010年11月15日（月）、2010年11月22日（月）、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）
+  - [ワンダフル\!\!信州人](https://ja.wikipedia.org/wiki/ワンダフル!!信州人 "wikilink")（2010年10月18日、[信越放送](../Page/信越放送.md "wikilink")）
+  - [346Bar](https://ja.wikipedia.org/wiki/346Bar "wikilink")（2010年11月15日（月）、2010年11月22日（月）、[信越放送](../Page/信越放送.md "wikilink")）
 
 **CM**
 

@@ -31,7 +31,7 @@
 
 ## 2006年の日本でのTV放送
 
-  - [2006年](../Page/2006年.md "wikilink")の日本でのTV放送は[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列（地上波）と[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（BSデジタル）が放送した。
+  - [2006年](../Page/2006年.md "wikilink")の日本でのTV放送は[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列（地上波）と[BS朝日](../Page/ビーエス朝日.md "wikilink")（BSデジタル）が放送した。
   - テレビ朝日はローカル枠に予選、ゴールデンタイム枠に決勝を放送。BS朝日は予選を生放送し決勝を地上波で放送したものを2時間ディレートして放送した。
   - テレビ朝日の番組ポスターの最下面に（決勝全日は）「夜7時スタート」と書いていた。
   - BS朝日分の決勝ディレート放送では[ヤクルト本社](../Page/ヤクルト本社.md "wikilink")・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[KDDI](../Page/KDDI.md "wikilink")と共に4日間通してスポンサーを務めた[P\&Gは提供クレジットを自粛](../Page/プロクター・アンド・ギャンブル.md "wikilink")、CM自体を公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")）に差し替えた。

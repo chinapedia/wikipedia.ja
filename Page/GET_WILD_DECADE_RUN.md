@@ -7,7 +7,7 @@
 
 TM NETWORK再始動の曲。再始動にあたり、「『日本語による日本の曲』という巨大なマーケットが出来上がったときに、たまたま『[Get Wild](../Page/Get_Wild.md "wikilink")』が幾つかのアレンジ・リミックスを経て、時代を切り抜けてこれた。やはり『Get Wild』をまた今の音でやるのが、変化がわかりやすい」という小室の提案で「Get Wild」のリメイクとなった\[1\]。
 
-[アレンジが大幅に変更され](../Page/編曲.md "wikilink")、Aメロの[キーが](https://ja.wikipedia.org/wiki/調 "wikilink")1[オクターブ](https://ja.wikipedia.org/wiki/オクターブ "wikilink")低くなり、[歌詞](../Page/歌詞.md "wikilink")が小室により追加・変更され、曲の雰囲気も大幅に変更されている。「DECADE RUN」だけでも何種類か別ヴァージョンがある。「DECADE RUN」をさらに[リミックス](../Page/リミックス.md "wikilink")した「**112 CLUB MIX**」が作られ、[PV用に](../Page/ミュージック・ビデオ.md "wikilink")[サビ](../Page/サビ.md "wikilink")以外は[インストゥルメンタルにされた](../Page/器楽曲.md "wikilink")[ミックスも用意されており](../Page/ミキシング.md "wikilink")、アルバム『[キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』にはラフミックスの「**'99 Version**」が収録されている。
+[アレンジが大幅に変更され](../Page/編曲.md "wikilink")、Aメロの[キーが](../Page/調.md "wikilink")1[オクターブ](https://ja.wikipedia.org/wiki/オクターブ "wikilink")低くなり、[歌詞](../Page/歌詞.md "wikilink")が小室により追加・変更され、曲の雰囲気も大幅に変更されている。「DECADE RUN」だけでも何種類か別ヴァージョンがある。「DECADE RUN」をさらに[リミックス](../Page/リミックス.md "wikilink")した「**112 CLUB MIX**」が作られ、[PV用に](../Page/ミュージック・ビデオ.md "wikilink")[サビ](../Page/サビ.md "wikilink")以外は[インストゥルメンタルにされた](../Page/器楽曲.md "wikilink")[ミックスも用意されており](../Page/ミキシング.md "wikilink")、アルバム『[キヲクトキロク](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』にはラフミックスの「**'99 Version**」が収録されている。
 
 宇都宮は「音を聴いた瞬間『これは新曲だ』と思った位、原曲とはトライの仕方からリズムの取り方全てが違っていた」と語っている\[2\]。
 

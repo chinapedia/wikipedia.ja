@@ -23,14 +23,14 @@
 
 [WORLD HERITAGE DOUBLE-DECADE COMPLETE BOXでリマスタリングされたアルバム](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")『DRESS』収録のこの曲のアウトロの部分が音飛びするというCD製造上の不良が発覚している。これについては無償での交換対応がされた。 {{-}}
 
-## 鈴木あみ版
+## 鈴木あみ
 
 ### 解説
 
   - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[7月14日](../Page/7月14日.md "wikilink")に[TRUE KiSS DiSCよりリリース](../Page/TRUE_KiSS_DiSC.md "wikilink")。自身初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、自身最高の初動売上枚数を記録。オリコン集計での累計売り上げは80万枚を超え、自身最大のヒット曲である。
   - [マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")、[アナログの](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")2形態で発売。アナログには前作「Don't leave me behind」のリミックス曲を2つ収録された。
   - 『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』では、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の「[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")」との同時発売ランキング対決が企画され、結果は「[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")」がオリコン初登場5位、「**BE TOGETHER**」がオリコン初登場1位となり勝負に勝った\[4\]。
-  - 当時最大のライバルといわれていた[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」と同時発売になり話題に。オリコンシングルチャートでは、このシングルが初登場1位、浜崎のシングルは2位となった。しかし、翌週逆転し2位となった。
+  - 当時最大のライバルといわれていた[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")のシングル「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」と同時発売になり話題に。オリコンシングルチャートでは、このシングルが初登場1位、浜崎のシングルは2位となった。しかし、翌週逆転し2位となった。
   - アルバム『infinity eighteen vol. 1』には小室哲哉によってアレンジし直された「BE TOGETHER(Shadow Dancing Mix)」が収録されている。
   - 発売年の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")([第50回](../Page/第50回NHK紅白歌合戦.md "wikilink"))ではこの曲が披露された。
   - [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）にリリースシングル「[FREE FREE/SUPER MUSIC MAKER](https://ja.wikipedia.org/wiki/FREE_FREE/SUPER_MUSIC_MAKER "wikilink")」の後に[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")がエレクトロサウンドで新アレンジバージョンを制作した。ライブでのみ披露しており、CD等には現在未収録。

@@ -71,7 +71,7 @@ K.J.名義
 
 MELLOW YELLOW、Funky Lemonadeの作品は除く
 
-  - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink"),『[Crystal](https://ja.wikipedia.org/wiki/Crystal_\(DOUBLEのアルバム\) "wikilink")』（1999年6月2日）
+  - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink"),『[Crystal](../Page/Crystal_\(DOUBLEのアルバム\).md "wikilink")』（1999年6月2日）
       - 「BED (DOUBLES)feat.[Mummy-D](../Page/Mummy-D.md "wikilink") from [RHYMESTER](../Page/RHYMESTER.md "wikilink") and Kohei from MELLOW YELLOW」
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink"),『リスペクト』（1999年7月20日）
       - 「ブラザーズ feat.KOHEI from MELLOW YELLOW」

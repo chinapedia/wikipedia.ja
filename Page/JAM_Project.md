@@ -1034,6 +1034,7 @@ LACM-14855（アニメ盤）</p></td>
 | 雷牙-月虹ノ旅人-                                    | 劇場版『牙狼〈GARO〉-月虹ノ旅人-』エンディング主題歌                                                                                                                              |                                                                                                                                           |
 | 2020年                                        | Freaking out \! 〜復活のオイパンク〜                                                                                                                                 | PS4 / Xbox One『ONE PUNCH MAN A HERO NOBODY KNOWS』OP主題歌                                                                                    |
 | Versus Road 〜非現実的サバイバル〜                      | TVドラマ『[GARO -VERSUS ROAD-](https://ja.wikipedia.org/wiki/GARO_-VERSUS_ROAD- "wikilink")』エンディング主題歌                                                          |                                                                                                                                           |
+| LIGHTNING DARK                               | CR『[P牙狼 冴島鋼牙XX](https://ja.wikipedia.org/wiki/CR牙狼#P牙狼冴島鋼牙 "wikilink")』テーマソング                                                                              |                                                                                                                                           |
 
 ## 出演
 

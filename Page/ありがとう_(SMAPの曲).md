@@ -87,7 +87,7 @@
 
   - [ありがとう - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36666.html)
 
-[Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [SMAP103万人動員ツアーファイナル！ そして100万枚へ向け発進\!\!](http://www.oricon.co.jp/news/music/37150/)
 2.  [10/11発売の注目シングルは、SMAPの注目ドラマ主題歌！](http://www.oricon.co.jp/news/confidence/36770/)

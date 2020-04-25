@@ -734,6 +734,6 @@ VPBQ-19004:DVD</p></td>
 
   -
   -
-  - [PENPALSオフィシャルブログ](http://ameblo.jp/penpals-official) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [PENPALSオフィシャルブログ](https://ameblo.jp/penpals-official) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

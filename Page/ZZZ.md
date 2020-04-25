@@ -7,7 +7,7 @@
 
 この放送枠は大きく分けて日本テレビ製作の番組『[スポーツMAX](https://ja.wikipedia.org/wiki/スポーツMAX "wikilink")』と、各地の系列局（初期の頃は日本テレビも加わっていた）が製作した各種エンターテインメント番組（30分番組を毎日2本ずつ）から成り、これらを組み合わせて放送していた。放送初期では[坂上みき](../Page/坂上みき.md "wikilink")をMCに迎えた5分間のトーク番組『i・z』も放送された。なお、スポーツMAXは[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より『[きょうの出来事](https://ja.wikipedia.org/wiki/きょうの出来事 "wikilink")』内にインサートされ、この枠からは外れた。
 
-この枠の創設の目的は、地方系列局の自社番組製作の能力向上にあり、主に番組制作は地方系列局が行い、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[中京テレビ](../Page/中京テレビ放送.md "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")などの各地区基幹局以外にも、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")や[テレビ岩手](../Page/テレビ岩手.md "wikilink")も番組制作を担当した。日本テレビは、製作に参加する系列局の担当スタッフを日本テレビに呼び寄せ、バラエティ番組プロデュース方法の研修を行った。
+この枠の創設の目的は、地方系列局の自社番組製作の能力向上にあり、主に番組制作は地方系列局が行い、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[中京テレビ](../Page/中京テレビ放送.md "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")などの各地区基幹局以外にも、[山口放送](../Page/山口放送.md "wikilink")や[テレビ岩手](../Page/テレビ岩手.md "wikilink")も番組制作を担当した。日本テレビは、製作に参加する系列局の担当スタッフを日本テレビに呼び寄せ、バラエティ番組プロデュース方法の研修を行った。
 
 ## 放送時間
 
@@ -31,7 +31,7 @@
   - [中京テレビ](../Page/中京テレビ放送.md "wikilink")
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink")
   - [福岡放送](../Page/福岡放送.md "wikilink")
 
 ## 放送された番組
@@ -57,7 +57,7 @@
   - [ホリーマウンテン](https://ja.wikipedia.org/wiki/ホリーマウンテン "wikilink")（日本テレビ、1997年度後期）
   - 号外\!\!爆笑大問題（札幌テレビ、1998年度前期）
   - [恋のチューンネップ](https://ja.wikipedia.org/wiki/恋のチューンネップ "wikilink")（広島テレビ、1998年10月 - 1999年9月）
-  - [三宅裕司のワークパラダイス](../Page/三宅裕司のワークパラダイス.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")、1999年度後期）
+  - [三宅裕司のワークパラダイス](../Page/三宅裕司のワークパラダイス.md "wikilink")（[山口放送](../Page/山口放送.md "wikilink")、1999年度後期）
   - [あけすけ](../Page/あけすけ.md "wikilink")（広島テレビ、2000年度前期）
   - [アッコとマチャミのテレビ](https://ja.wikipedia.org/wiki/アッコとマチャミのテレビ "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")、2000年度後期）
   - [アッコとマチャミの新型テレビ](../Page/アッコとマチャミの新型テレビ.md "wikilink")（福岡放送、2001年4月 - 2002年9月）

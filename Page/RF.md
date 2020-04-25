@@ -3,6 +3,7 @@
 
 **RF**、**Rf**、**アールエフ**は、
 
+  - [ロシア](../Page/ロシア.md "wikilink")（英語："Russian Federation"）の略。
   - [リアエンジンフロントドライブ](https://ja.wikipedia.org/wiki/リアエンジンフロントドライブ "wikilink")の略。
   - 高い[周波数](../Page/周波数.md "wikilink")の電気信号。[高周波](../Page/高周波.md "wikilink")を参照（英語:*Radio Frequency*）
       - [テレビ](../Page/テレビ.md "wikilink")放送で使われている帯域の高周波信号。テレビ受像機において、[ビデオ信号](https://ja.wikipedia.org/wiki/ビデオ信号 "wikilink")と区別する為に使われる。[コンピュータ](../Page/コンピュータ.md "wikilink")など(MSX、ゲーム機等)の画像をテレビの空き[チャンネルに映し出す](../Page/チャンネル_\(テレビ放送\).md "wikilink")[RF接続](../Page/RF接続.md "wikilink")に使われる信号・装置・[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")など。商品用語であり、無線工学では単に高周波のことである。

@@ -58,13 +58,13 @@
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）                                  | 毎週土曜 25:00 - 26:00 |       |
 | [山形県](../Page/山形県.md "wikilink")                                  | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station）                       | \[7\]              |       |
 | [福島県](../Page/福島県.md "wikilink")                                  | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）                               |                    |       |
-| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")               | [三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（レディオキューブ FM三重） | \[8\]              |       |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）                           |                    |       |
 | [福井県](../Page/福井県.md "wikilink")                                  | [福井エフエム放送](../Page/福井エフエム放送.md "wikilink")（FM FUKUI）                         |                    |       |
+| [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")               | [三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（レディオキューブ FM三重） | \[8\]              |       |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）                                | \[9\]              |       |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）                       |                    |       |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                  | [エフエム愛媛](../Page/エフエム愛媛.md "wikilink")（JOEU-FM）                              |                    |       |
 | [高知県](../Page/高知県.md "wikilink")                                  | [エフエム高知](../Page/エフエム高知.md "wikilink")（Hi-Six）                               |                    |       |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）                       |                    |       |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）                                  |                    |       |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                  | [エフエム宮崎](../Page/エフエム宮崎.md "wikilink")（JOY FM）                               |                    |       |
 | [岩手県](../Page/岩手県.md "wikilink")                                  | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）                             | 毎週土曜 26:00 - 27:00 |       |
@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a>（wbs）</p></td>
+<td><p><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>（wbs）</p></td>
 <td></td>
 <td></td>
 </tr>

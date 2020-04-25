@@ -73,9 +73,11 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 
 独立後もRadio NEOとの関係は続いており、特別番組の同時ネット・タイミングを合わせた改編など、両局の関係がしっかりある事を伺える。それと同時にInterFM897側が強い主導権を持っている事も伺え、2017年以降に行われている大型改編では、Radio NEO側が実際に視聴率が好調であった番組を縮小するという対応を取らされるなど、別の意味で影響が出ている姿が見受けられる。
 
+しかし、Radio NEOは開局から6年あまり経過した2020年6月30日をもって閉局することとなり\[35\]、再度名古屋エリアから外国語放送局が消滅する事となる。
+
 ## 資本構成
 
-企業・団体は当時の名称。出典：\[35\]\[36\]
+企業・団体は当時の名称。出典：\[36\]\[37\]
 
 ### 2016年7月1日以降
 
@@ -156,7 +158,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 
 ## 沿革
 
-  - [1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 民放FMでは全国47番目、東京で3番目に開局。放送周波数は76.1MHzであった\[37\]。
+  - [1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 民放FMでは全国47番目、東京で3番目に開局。放送周波数は76.1MHzであった\[38\]。
   - [2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ニフコ保有の普通株式約38%、ジャパンタイムズの保有株全てをテレビ東京ブロードバンドに譲渡、テレビ東京ブロードバンドの持分法適用関連会社となる。
   - [2009年](../Page/2009年.md "wikilink")
       - [2月18日](../Page/2月18日.md "wikilink") - ニフコ保有の普通株式・優先株式全てをテレビ東京ブロードバンドに譲渡。優先株式を普通株式に転換し、テレビ東京ブロードバンドの連結子会社となる。
@@ -168,28 +170,28 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
       - [12月1日](../Page/12月1日.md "wikilink") - ほかの在京ラジオ6局と共同でインターネットでのサイマル放送「radiko」の本放送を開始（試験期間中は南関東限定であったが、リニューアルに伴い、新たに北関東でも利用可能に）。放送局記号は「INT」。
   - [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink") - [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）。首都圏に存在する在日外国人対象局であるためこの日から関連情報を外国語で流し続けている（Nonstop music program and disaster relief information）。
   - [2012年](../Page/2012年.md "wikilink")
-      - [5月30日](../Page/5月30日.md "wikilink") - 同年[6月20日](../Page/6月20日.md "wikilink")付でテレビ東京が保有する株式90%をキノシタ・マネージメントに譲渡すると発表\[38\]\[39\]。
+      - [5月30日](../Page/5月30日.md "wikilink") - 同年[6月20日](../Page/6月20日.md "wikilink")付でテレビ東京が保有する株式90%をキノシタ・マネージメントに譲渡すると発表\[39\]\[40\]。
       - [10月30日](../Page/10月30日.md "wikilink") - 名古屋エリアへの新局立ち上げを発表。
   - [2013年](../Page/2013年.md "wikilink")
       - 4月1日 - キャッチコピーを「Tokyo's No.1 Music Station」から「The Real Music Station」に改める。
       - [8月6日](../Page/8月6日.md "wikilink") - 総務省に名古屋エリアへの免許申請。
       - [10月25日](../Page/10月25日.md "wikilink") - 総務省が[11月1日](../Page/11月1日.md "wikilink")に名古屋エリアへの予備免許交付を公表。同時にInterFMが木下ホールディングスの完全子会社になっていることが明らかになる。
   - [2014年](../Page/2014年.md "wikilink")
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [エフエムインターウェーブなごやが試験電波を発射開始](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")\[40\]。
-      - [3月20日](../Page/3月20日.md "wikilink") - 総務省がエフエムインターウェーブに名古屋エリアへの免許を付与\[41\]。
-      - [4月1日](../Page/4月1日.md "wikilink") - 商号を株式会社InterFMに変更\[42\]。InterFM NAGOYA開局。それに伴い、番組ジングル以外でのDJによる周波数アナウンスを取りやめ（東京と名古屋でサイマル放送するため。東京と名古屋では周波数が異なる）。
-      - [4月19日](../Page/4月19日.md "wikilink") - InterFM史上初の24時間生放送特番「InterFM 24 HOUR LIVE RADIO」を放送（19:00 - 翌20日19:00）。放送中はCMなし・CDの使用禁止（曲紹介をしたい場合は、出演者の生演奏によるもの・CD化されていない生音源・過去InterFM内で収録された生演奏のいずれかの中からのみ可能）で行われた\[43\]。
+      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [エフエムインターウェーブなごやが試験電波を発射開始](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")\[41\]。
+      - [3月20日](../Page/3月20日.md "wikilink") - 総務省がエフエムインターウェーブに名古屋エリアへの免許を付与\[42\]。
+      - [4月1日](../Page/4月1日.md "wikilink") - 商号を株式会社InterFMに変更\[43\]。InterFM NAGOYA開局。それに伴い、番組ジングル以外でのDJによる周波数アナウンスを取りやめ（東京と名古屋でサイマル放送するため。東京と名古屋では周波数が異なる）。
+      - [4月19日](../Page/4月19日.md "wikilink") - InterFM史上初の24時間生放送特番「InterFM 24 HOUR LIVE RADIO」を放送（19:00 - 翌20日19:00）。放送中はCMなし・CDの使用禁止（曲紹介をしたい場合は、出演者の生演奏によるもの・CD化されていない生音源・過去InterFM内で収録された生演奏のいずれかの中からのみ可能）で行われた\[44\]。
   - [2015年](../Page/2015年.md "wikilink")
-      - [6月24日](../Page/6月24日.md "wikilink") - 東京局の周波数変更が認可される\[44\]\[45\]。
-      - [6月26日](../Page/6月26日.md "wikilink") - 東京局が新周波数89.7MHzでの試験放送を開始\[46\]。
-      - [6月30日](../Page/6月30日.md "wikilink") - 18時の『THE DAVE FROMM SHOW』から、東京局が新周波数89.7MHzで本放送を開始\[47\]。
-      - [7月30日](../Page/7月30日.md "wikilink") - 名古屋局のradikoによるインターネットサイマル配信（東海三県を対象とした通常サービス及びradiko.jpプレミアムによるエリアフリー配信）を開始\[48\]。
-      - [10月1日](../Page/10月1日.md "wikilink") - 東京局のステーション名を「**InterFM897**（インターエフエム・ハチ・キュウ・ナナ）」に\[49\]、名古屋局のステーション名を「**Radio NEO**（レディオ・ネオ）」にそれぞれ変更\[50\]。
-      - [10月31日](../Page/10月31日.md "wikilink") - 東京局の旧周波数76.1MHzでの運用終了\[51\]。
+      - [6月24日](../Page/6月24日.md "wikilink") - 東京局の周波数変更が認可される\[45\]\[46\]。
+      - [6月26日](../Page/6月26日.md "wikilink") - 東京局が新周波数89.7MHzでの試験放送を開始\[47\]。
+      - [6月30日](../Page/6月30日.md "wikilink") - 18時の『THE DAVE FROMM SHOW』から、東京局が新周波数89.7MHzで本放送を開始\[48\]。
+      - [7月30日](../Page/7月30日.md "wikilink") - 名古屋局のradikoによるインターネットサイマル配信（東海三県を対象とした通常サービス及びradiko.jpプレミアムによるエリアフリー配信）を開始\[49\]。
+      - [10月1日](../Page/10月1日.md "wikilink") - 東京局のステーション名を「**InterFM897**（インターエフエム・ハチ・キュウ・ナナ）」に\[50\]、名古屋局のステーション名を「**Radio NEO**（レディオ・ネオ）」にそれぞれ変更\[51\]。
+      - [10月31日](../Page/10月31日.md "wikilink") - 東京局の旧周波数76.1MHzでの運用終了\[52\]。
   - [2016年](../Page/2016年.md "wikilink")
-      - [12月1日](../Page/12月1日.md "wikilink") - Radio NEOの特定地上基幹放送局の免許人の地位を、株式会社InterFMから木下グループの**株式会社Radio NEO**に承継\[52\]。
+      - [12月1日](../Page/12月1日.md "wikilink") - Radio NEOの特定地上基幹放送局の免許人の地位を、株式会社InterFMから木下グループの**株式会社Radio NEO**に承継\[53\]。
   - [2017年](../Page/2017年.md "wikilink")
-      - [4月1日](../Page/4月1日.md "wikilink") - **株式会社InterFM897**に商号変更\[53\]。
+      - [4月1日](../Page/4月1日.md "wikilink") - **株式会社InterFM897**に商号変更\[54\]。
 
 ## 放送局データ
 
@@ -208,9 +210,9 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東京タワー" title="wikilink">東京</a></p></td>
-<td><p>89.7MHz[54]</p></td>
+<td><p>89.7MHz[55]</p></td>
 <td><p>10kW</p></td>
-<td><p>13kW[55][56]</p></td>
+<td><p>13kW[56][57]</p></td>
 <td><ul>
 <li>送信柱 - 日本電波塔（東京タワー）。<br />
 旧送信空中線は地上高165mに位置していた<br />
@@ -304,11 +306,10 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <td><p>7:00 [T] <strong><a href="https://ja.wikipedia.org/wiki/THE_GUY_PERRYMAN_SHOW" title="wikilink">THE GUY PERRYMAN SHOW</a></strong> - <a href="https://ja.wikipedia.org/wiki/ガイ・ペリマン" title="wikilink">Guy Perryman</a>、<a href="https://ja.wikipedia.org/wiki/渡辺麻耶" title="wikilink">渡辺麻耶</a>（8～11時台のみ）<br />
 ▽8:52 - 9:00 New Fire</p></td>
 <td><p>- 石倉ノア<br />
-▽10:15 - 10:30 897 HOTPICKS PLAYLIST<br />
-▽10:30 Platinum Guild International presents Find Your Precious（木）<br />
+▽10:30 Causette.Joli presents Radio Beauté（第２月曜）<br />
 ▽10:51 - 11:00 New Fire</p></td>
 <td><p>- 石倉ノア<br />
-▽11:15 - 11:30 897 HOTPICKS PLAYLIST<br />
+▽11:42 BUY NOW（火）<br />
 ▽11:56 InterFM897 LLLLIVE</p></td>
 <td><p>- Ali Morizumi</p></td>
 <td><p>7:00 <strong>THE GUY PERRYMAN SHOW</strong> - Guy Perryman<br />
@@ -340,33 +341,28 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>11:00 <strong>InterFM897 Music Mix -GPS Friday Mix-</strong><br />
-▽11:56 InterFM897 LLLLIVE</p></td>
-<td><p>- Ali Morizumi</p></td>
+<td><p>11:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>12:00 <strong>-世界音旅- PLAYLIST</strong><br />
-▽1/21〜1/24 ‪12:00 Cisco Systems presents Workstyle Innovation with KREVA‬ - <a href="../Page/KREVA.md" title="wikilink">KREVA</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>12:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong><br />
+▽12:51 New Fire</p></td>
+<td><p>DJ：石倉ノア ▽15:49 InterFM897 LLLLIVE</p></td>
+<td><p>▽15:51 New Fire</p></td>
+<td><p>DJ：石倉ノア</p></td>
+<td><p>12:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p>13:00 '''[[Ready_Steady_George</p></td>
-<td><p>|Ready Steady George</p></td>
-<td><p>]]''' - <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a>、<a href="https://ja.wikipedia.org/wiki/シャウラ_(モデル)" title="wikilink">Shaula</a>（月〜木）<br />
-▽14:52 - 15:00 New Fire</p></td>
-<td><p>- 石倉ノア<br />
-▽15:42 InterFM897 LLLLIVE</p></td>
-<td><p>- Ali Morizumi（金）<br />
-▽15:44 BARK in STYLe presents DAYDREAMERS - <a href="https://ja.wikipedia.org/wiki/BENI" title="wikilink">BENI</a>（金）<br />
-▽15:56 InterFM897 LLLLIVE</p></td>
+<td><p>13:00 <strong>George's Melting Pot</strong> - <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -378,7 +374,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td></td>
+<td><p>15:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -415,8 +411,9 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p>19:00 <strong>TOKYO NIGHT CRUISING</strong> - ZiNEZ</p></td>
-<td></td>
+<td><p>19:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong> ～ Musicians Playlist Night Shift ～</p>
+<p>ミュージシャンがキュレートするプレイリスト</p></td>
+<td><p>19:00 <strong>TOKYO TRACKS Night Shift</strong> ～今、聴きたい東京のオト～</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -424,25 +421,23 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <tr class="even">
 <td><p>20</p></td>
 <td><p>20:00 <strong>SONIC RADIO</strong> - <a href="https://ja.wikipedia.org/wiki/シャウラ_(モデル)" title="wikilink">Shaula</a></p></td>
-<td><p>20:00 <strong>InterFM897 Music Mix</strong></p></td>
-<td><p>20:00 <strong>Tokyo Scene</strong> - <a href="https://ja.wikipedia.org/wiki/MC_RYU" title="wikilink">MC RYU</a>、YonYon、Monthly Artist<br />
+<td><p>20:00 <strong>LBD のメイクルーム</strong> 20:30 <strong>PERIMETRON HUB</strong></p></td>
+<td><p>20:00 <strong>LIVE GARAGE</strong></p></td>
+<td><p>20:00 <strong>WORLD-MARKETZ</strong></p></td>
+<td><p>20:00 <strong>Tokyo Scene</strong> - YonYon &amp; REN YOKOI、Monthly Artist<br />
 ▽21:51 - 22:00 New Fire</p></td>
-<td><p>- 石倉ノア<br />
-▽22:00 TOKYO SCENE avec REAL JAPANESE HIP HOP</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p>21:00 <strong>897 HOTPICKS PLAYLIST</strong><br />
-▽21:51 - 22:00 New Fire</p></td>
-<td><p>- 石倉ノア</p></td>
-<td></td>
-<td></td>
+<td><p>21:00 <strong>Kenrocks Nite - Ver.2</strong></p></td>
+<td><p>21:00 <strong>Party Radio Japan</strong></p></td>
+<td><p>21:00 <strong>Love On Music</strong></p></td>
+<td><p>21:00 <strong>Tokyo Moon</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p>22:00 <strong>BLACK BASE TOKYO</strong></p></td>
+<td><p>22:00 <strong>BLACK BASE TOKYO</strong> TOKYO の夜をふるわす完全無欠のサウンドグルーヴ</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -450,29 +445,21 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p>23:00 <strong>HEATSEEKER</strong></p></td>
-<td><p>23:00 <strong>SASUKE's konnichiwa Radio</strong> - SASUKE</p></td>
-<td><p>23:00 <strong>WONK RADIO</strong> - <a href="https://ja.wikipedia.org/wiki/WONK" title="wikilink">WONK</a></p></td>
-<td><p>23:00 <strong>Oh Wow, Very Cool!</strong> - orono</p></td>
-<td><p>23:00 <strong>PERIMETRON HUB</strong> - <a href="https://ja.wikipedia.org/wiki/常田大希" title="wikilink">常田大希</a>、佐々木集</p></td>
+<td><p>23:00 <strong>TOKYO BEATS</strong> ~ 今、踊りたいオト ~ 東京クラブシーン直結の DJ MIX SHOW</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>23:30 <strong>HEATSEEKER</strong></p></td>
-<td></td>
-<td></td>
+<td><p>0</p></td>
+<td><p>24:00 <strong>BLACK BASE TOKYO</strong> TOKYO の夜をふるわす完全無欠のサウンドグルーヴ</p></td>
+<td><p>24:00 <strong>George's Melting Pot</strong> - <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>0</p></td>
-<td><p>0:00 <strong>BLACK BASE TOKYO</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>1</p></td>
 <td></td>
 <td></td>
@@ -480,7 +467,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2:00 <strong>THE GOOD MIXER</strong></p></td>
 <td></td>
@@ -488,7 +475,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td></td>
 <td></td>
@@ -496,7 +483,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4</p></td>
 <td></td>
 <td></td>
@@ -504,7 +491,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -569,8 +556,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>11:00 <strong><a href="https://ja.wikipedia.org/wiki/Lazy_Sunday" title="wikilink">Lazy Sunday</a></strong> - <a href="https://ja.wikipedia.org/wiki/ジョージ・カックル" title="wikilink">George Cockle</a>、渡辺麻耶<br />
-▽13:30 ハウジングステージ presents Find Your New Style!</p></td>
+<td><p>11:00 <strong><a href="https://ja.wikipedia.org/wiki/Lazy_Sunday" title="wikilink">Lazy Sunday</a></strong> - <a href="https://ja.wikipedia.org/wiki/ジョージ・カックル" title="wikilink">George Cockle</a>、渡辺麻耶</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -586,17 +572,17 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p>14:00 <strong>InterFM897 Music Mix</strong></p></td>
+<td><p>14:00 <strong>Weekend Mixtape</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>15:00 <strong><a href="https://ja.wikipedia.org/wiki/RADIO_DISCO" title="wikilink">RADIO DISCO</a></strong> - <a href="https://ja.wikipedia.org/wiki/押阪雅彦" title="wikilink">DJ OSSHY</a>、<a href="https://ja.wikipedia.org/wiki/亀井佐代子" title="wikilink">亀井佐代子</a></p></td>
-<td><p>15:00 <strong>GOLDEN MIX</strong></p></td>
+<td><p>15:00 <strong>George's Melting Pot -</strong> <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p>16:00 <strong>JAZZ ain't Jazz</strong> - <a href="https://ja.wikipedia.org/wiki/沖野修也" title="wikilink">沖野修也</a>（KYOTO JAZZ MASSIVE）</p></td>
+<td><p>16:00 <strong>The Room Radio</strong> - Team Room</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -617,7 +603,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <tr class="even">
 <td><p>20</p></td>
 <td><p>20:00 <strong>Young Blood</strong> - <a href="../Page/ユージ.md" title="wikilink">ユージ</a></p></td>
-<td><p>20:00 <strong>InterFM897 Music Mix</strong></p></td>
+<td><p>20:00 <strong>Sunday Mixtape</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -632,7 +618,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>22:00 <strong>Kenrocks Nite -Ver.2</strong> - <a href="../Page/大貫憲章.md" title="wikilink">大貫憲章</a>、Katchin'</p></td>
-<td><p>22:00 <strong>InterFM897 Music Mix</strong>（※2）</p></td>
+<td><p>22:00 第1・3週 Third Stone From The Sun - <a href="https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO" title="wikilink">LOVE PSYCHEDELICO</a> 第2・4週 レディオ デ チャカチー - <a href="https://ja.wikipedia.org/wiki/永積崇" title="wikilink">永積崇</a> ( <a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a> )</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
@@ -647,10 +633,10 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 <tr class="even">
 <td><p>0</p></td>
 <td><p>0:00 <strong>Feel the moment</strong> - <a href="https://ja.wikipedia.org/wiki/田中里奈_(モデル)" title="wikilink">田中里奈</a></p></td>
-<td><p>0:00 <strong>世界音旅 PLAYLIST -LATE NIGHT FLIGHT</strong></p></td>
+<td><p>0:00 <strong>GOLDEN MIX</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>0:30 <strong>InterFM897 Music Mix</strong></p></td>
+<td><p>00:30 <strong>TOKYO TRACKS Night Shift</strong> ～今、聴きたい東京のオト～</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -687,7 +673,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tbody>
 </table>
 
-（※2）（*2nd*） [レディオ デ チャカチー](https://ja.wikipedia.org/wiki/レディオ_デ_チャカチー "wikilink") - [ハナレグミ](../Page/ハナレグミ.md "wikilink") （*3rd・4th*）[Third Stone From The Sun](https://ja.wikipedia.org/wiki/Third_Stone_From_The_Sun "wikilink") - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")
+
 
 ### 主な過去の番組
 
@@ -878,6 +864,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
   - Sound Paradigm - [坂本つとむ](https://ja.wikipedia.org/wiki/坂本つとむ "wikilink")、香山智里
   - Forever Young - [ちゃんみな](https://ja.wikipedia.org/wiki/ちゃんみな "wikilink")
   - Dr.Martens presents Tough As You / ジョー横溝
+  - RADIO GNU / [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")（期間限定で復活の場合あり） ※King Gnu 初のラジオレギュラー番組
 
 </div>
 
@@ -928,25 +915,26 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 32.
 33.
 34. [株式会社Radio NEO放送事業開始のお知らせ](http://radio-neo.com/news/101)
-35.
+35. [Radio NEO閉局のお知らせ](https://radio-neo.com/news/300)
 36.
 37.
 38.
 39.
-40. [inter FM NAGOYAが試験電波を発射](http://www.interfm.co.jp/news/detail.php?id=465)より。
-41.
+40.
+41. [inter FM NAGOYAが試験電波を発射](http://www.interfm.co.jp/news/detail.php?id=465)より。
 42.
-43. [特番公式サイト](http://www.interfm.co.jp/24hour/)
-44. [株式会社Inter FMの受信環境改善のための周波数変更](http://www.soumu.go.jp/soutsu/kanto/press/27/0624ho.html) - [総務省](../Page/総務省.md "wikilink")[関東総合通信局](../Page/関東総合通信局.md "wikilink") [2015年](../Page/2015年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
-45. [InterFM、周波数「76.1」から「89.7」に](http://www.asahi.com/articles/ASH6S6797H6SULFA031.html) - 朝日新聞 2015年6月24日
-46. [2015年6月26日より周波数89.7MHzの試験電波発射いたします。](http://www.interfm.co.jp/news/detail.php?id=1055)
-47. ["InterFM897"開局](http://www.interfm.co.jp/news/detail.php?id=1054)
-48.
+43.
+44. [特番公式サイト](http://www.interfm.co.jp/24hour/)
+45. [株式会社Inter FMの受信環境改善のための周波数変更](http://www.soumu.go.jp/soutsu/kanto/press/27/0624ho.html) - [総務省](../Page/総務省.md "wikilink")[関東総合通信局](../Page/関東総合通信局.md "wikilink") [2015年](../Page/2015年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")
+46. [InterFM、周波数「76.1」から「89.7」に](http://www.asahi.com/articles/ASH6S6797H6SULFA031.html) - 朝日新聞 2015年6月24日
+47. [2015年6月26日より周波数89.7MHzの試験電波発射いたします。](http://www.interfm.co.jp/news/detail.php?id=1055)
+48. ["InterFM897"開局](http://www.interfm.co.jp/news/detail.php?id=1054)
 49.
-50. [「RADIO NEO」10月誕生\!](http://www.interfm.co.jp/news/detail.php?id=1056)
-51.
+50.
+51. [「RADIO NEO」10月誕生\!](http://www.interfm.co.jp/news/detail.php?id=1056)
 52.
 53.
-54. 2015年10月31日までは76.1MHzであった。
-55. [総務省 電波利用ホームページ 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000036896&DD=1&styleNumber=01)
-56. 2015年10月31日までは11.5kWであった。
+54.
+55. 2015年10月31日までは76.1MHzであった。
+56. [総務省 電波利用ホームページ 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000036896&DD=1&styleNumber=01)
+57. 2015年10月31日までは11.5kWであった。

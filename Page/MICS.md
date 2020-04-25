@@ -15,7 +15,7 @@ MICSの事務局の運営は東京銀行協会（現：[全国銀行協会](../P
 
 ## サービス内容
 
-都市銀行、地方銀行、[信託銀行](../Page/信託銀行.md "wikilink")、かつての[長期信用銀行](../Page/長期信用銀行.md "wikilink")（[新生銀行](../Page/新生銀行.md "wikilink")、[あおぞら銀行](../Page/あおぞら銀行.md "wikilink")）・[商工組合中央金庫](../Page/商工組合中央金庫.md "wikilink")、[第二地方銀行](../Page/第二地方銀行.md "wikilink")、[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")、[信用組合](../Page/信用組合.md "wikilink")、[労働金庫](../Page/労働金庫.md "wikilink")、系統農協・信連（[農林中央金庫](../Page/農林中央金庫.md "wikilink")、[信用農業協同組合連合会](https://ja.wikipedia.org/wiki/信用農業協同組合連合会 "wikilink")、[農業協同組合](../Page/農業協同組合.md "wikilink")（[JAバンク](../Page/JAバンク.md "wikilink")）、県域[漁業協同組合](../Page/漁業協同組合.md "wikilink")・信漁連（[JFマリンバンク](https://ja.wikipedia.org/wiki/JFマリンバンク "wikilink")））等の9業態のCD・ATMネットワークである。ただし、これら全ての業態が相互接続しているわけではないので注意が必要である。また接続状況に関わらず、法人キャッシュカードは使用できない\[10\]。
+都市銀行、地方銀行、[信託銀行](../Page/信託銀行.md "wikilink")、かつての[長期信用銀行](../Page/長期信用銀行.md "wikilink")（[新生銀行](../Page/新生銀行.md "wikilink")、[あおぞら銀行](../Page/あおぞら銀行.md "wikilink")）・[商工組合中央金庫](../Page/商工組合中央金庫.md "wikilink")、[第二地方銀行](../Page/第二地方銀行.md "wikilink")、[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")、[信用組合](../Page/信用組合.md "wikilink")、[労働金庫](../Page/労働金庫.md "wikilink")、系統農協・信連（[農林中央金庫](../Page/農林中央金庫.md "wikilink")、[信用農業協同組合連合会](https://ja.wikipedia.org/wiki/信用農業協同組合連合会 "wikilink")、[農業協同組合](../Page/農業協同組合.md "wikilink")（[JAバンク](../Page/JAバンク.md "wikilink")）、県域[漁業協同組合](../Page/漁業協同組合.md "wikilink")・信漁連（[JFマリンバンク](https://ja.wikipedia.org/wiki/JFマリンバンク "wikilink")））等の9業態のCD・ATMネットワークである。ただし、これら全ての業態が相互接続しているわけではないので注意が必要である。金融機関によって，法人キャッシュカードには残高照会ができないなどの制限が付されることがある。\[10\]。
 
 ## MICS接続ネットワーク
 
@@ -114,4 +114,4 @@ MICSの事務局の運営は東京銀行協会（現：[全国銀行協会](../P
 7.  『銀行協会五十年史』p.795
 8.  『銀行協会五十年史』p.798
 9.  [決済システム等の企画・運営 - 全国銀行協会](http://www.zenginkyo.or.jp/abstract/efforts/system/)
-10.
+10. {[法人名義のキャッシュカードをお持ちのお客さまへ](https://www.fukuokabank.co.jp/announcement/important/y2013/page_021399.html)}}

@@ -50,7 +50,7 @@
 
 [2002年](../Page/2002年.md "wikilink")、新潟市中央区上所にあった本社の建物の老朽化と、後に開始される[地上波デジタル放送におけるハイビジョン化を視野に入れ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、現在の新社屋の建設を決定。新社屋は[2004年](../Page/2004年.md "wikilink")10月に完成、[2004年](../Page/2004年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に本社の全機能を新社屋へ移転し、放送を開始している。この新社屋は全てハイビジョン放送に対応しており（新潟県内最速）、省エネ設計の建築であるばかりか、屋上にはわずかだが太陽電池パネルまで取り付けられている。新社屋移転後、毎年10月には「NSTまつり」を開催している。
 
-2010年3月29日、地上波デジタル放送移行に先駆けて社名の通称名称の整理を目指し、呼称を「**NST**」に統一した。放送上では、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")番組の表記は引き続き「新潟総合テレビ」を使用しているが、報道番組の制作協力、主催クレジットや[新聞](../Page/新聞.md "wikilink")、[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")などは「NST」と表記され、呼称する（但し『[FNSの日](../Page/FNSの日.md "wikilink")』では系列局を紹介する際、「新潟総合テレビ」〈2014年から2018年は「新潟NST」、社名変更後の2019年は「NST新潟総合テレビ」〉と呼称する場合がある）。
+2010年3月29日、地上波デジタル放送移行に先駆けて社名の通称名称の整理を目指し、呼称を「**NST**」に統一した。放送上では、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")番組の表記は引き続き「新潟総合テレビ」を使用しているが、報道番組の制作協力、主催クレジットや[新聞](../Page/新聞.md "wikilink")、[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")などは「NST」と表記され、呼称する（但し『[FNS27時間テレビ](../Page/FNSの日.md "wikilink")』では系列局を紹介する際、「新潟総合テレビ」〈2014年から2018年は「新潟NST」、社名変更後の2019年は「NST新潟総合テレビ」〉と呼称する場合がある）。
 
 2019年10月1日からは、略称と社名を併用した「**株式会社NST新潟総合テレビ**」へと社名変更した\[4\]。
 
@@ -875,7 +875,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
 
   - [山本安幸](../Page/山本安幸.md "wikilink")（1973年[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")から移籍。現[FMゆきぐに取締役放送局長](../Page/エフエム雪国.md "wikilink")）
   - 山田晟
-  - [藤田嘉宏](https://ja.wikipedia.org/wiki/藤田嘉宏 "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")から移籍。現国際音楽エンタテイメント専門学校講師）
+  - [藤田嘉宏](https://ja.wikipedia.org/wiki/藤田嘉宏 "wikilink")（[山口放送](../Page/山口放送.md "wikilink")から移籍。現国際音楽エンタテイメント専門学校講師）
   - [田島義彦](https://ja.wikipedia.org/wiki/田島義彦 "wikilink")（1984年[山形テレビ](../Page/山形テレビ.md "wikilink")へ移籍。現酒田支社長）
   - [長谷川晴彦](../Page/長谷川晴彦.md "wikilink")（1990年[テレビユー福島](../Page/テレビユー福島.md "wikilink")より移籍。現上越支社所属）
   - [田中良幸](../Page/田中良幸.md "wikilink")（現[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[情報プレゼンター とくダネ\!](../Page/情報プレゼンター_とくダネ!.md "wikilink")』リポーター等）

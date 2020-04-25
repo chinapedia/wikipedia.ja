@@ -7,7 +7,7 @@
 
 1962年（昭和37年）5月に東京の目黒で第1回大会（MEG-CON）が開かれて以来、何度か存続の危機を迎えながらも毎年日本のどこかで開かれている。運営は[日本SFファングループ連合会議](https://ja.wikipedia.org/wiki/日本SFファングループ連合会議 "wikilink")の承認のもと、連絡を取りつつ、主催SFファングループが行う。[コンベンション](https://ja.wikipedia.org/wiki/コンベンション "wikilink")の「コン」とひっかけて、開催地の名称にちなんだ「XXコン」という愛称が付けられ、その名で呼ばれることも多い。正式名称は**第n回日本SF大会**。
 
-当該日本SF大会の参加者の投票によって、前年に発表された優れた[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")の中から優秀作を選び、[星雲賞](../Page/星雲賞.md "wikilink")を授与する（1970年（昭和45年）より毎年開催）。選考対象は日本のSF作家による作品だけでなく、海外のSF作家の作品の邦訳、[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")、[アニメーション](../Page/アニメーション.md "wikilink")など[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")も含める。
+当該日本SF大会の参加者の投票によって、前年に発表された優れた[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")の中から優秀作を選び、[星雲賞](../Page/星雲賞.md "wikilink")を授与する（1970年（昭和45年）より毎年開催）。選考対象は日本のSF作家による作品だけでなく、海外のSF作家の作品の邦訳、[特撮](../Page/特撮.md "wikilink")[映画](../Page/映画.md "wikilink")、[アニメーション](../Page/アニメーション.md "wikilink")など[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")[作品](../Page/作品.md "wikilink")も含める。
 
 なお、毎年1000〜1500人の参加者を集める年次全国大会である「日本SF大会」と区別する為、[京都SFフェスティバル](https://ja.wikipedia.org/wiki/京都SFフェスティバル "wikilink")、[SFセミナー](https://ja.wikipedia.org/wiki/SFセミナー "wikilink")、[DAINA☆CON](https://ja.wikipedia.org/wiki/DAINA☆CON "wikilink")といった参加者100〜200人の小規模大会は、地方大会（ローカルコン）、地方コンと呼ばれる。
 

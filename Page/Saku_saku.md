@@ -101,7 +101,7 @@
 <!-- end list -->
 
   - 1月 - [三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（MTV）が2005年にtvkでの木曜放送分の1週間集中放送を行い、翌2006年1月からレギュラーでネットを開始した。
-  - 1月12、13日 - かねてから黒幕が"80年代トーク"をする際に度々その名が挙げられた[立見里歌](../Page/立見里歌.md "wikilink")本人がスタジオ見学に現れ、黒幕大興奮。12日から[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")でのネットを開始。
+  - 1月12、13日 - かねてから黒幕が"80年代トーク"をする際に度々その名が挙げられた[立見里歌](../Page/立見里歌.md "wikilink")本人がスタジオ見学に現れ、黒幕大興奮。12日から[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")でのネットを開始。
   - 3月24日 - DVDソフト第2弾『saku saku Ver.2.0/ヴィンの復習』が発売され、[オリコンのDVDランキング初登場](../Page/オリコンチャート.md "wikilink")2位を記録。このDVDはVer1.0とあわせて木村カエラ時代の集大成となる。
   - 3月31日 - この日を以って木村カエラが番組を「辞職」という形で卒業。また、新潟放送での放送が打ち切られた。
 
@@ -1449,7 +1449,7 @@ tvk以外の局では[金曜日](../Page/金曜日.md "wikilink")放送分をネ
 | [新潟県](../Page/新潟県.md "wikilink")                    | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") (BSN)   | 土曜 1:25 - 1:55（金曜深夜）              | TBS系列                                                   | 2005年7月 - 2006年3月     |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") (MRO)   |                                   | 2006年10月 - 2007年9月                                      |                       |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") (MBC) | 金曜 1:00 - 1:30（木曜深夜）              | 2007年4月 - 2007年12月                                      |                       |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")   | 日曜 1:40 - 2:10（土曜深夜）              | 2006年1月 - 2008年3月                                       |                       |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                      | 日曜 1:40 - 2:10（土曜深夜）              | 2006年1月 - 2008年3月                                       |                       |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") (RKK)   | 火曜 1:25 - 1:55（月曜深夜）              | 2005年10月 - 2008年8月                                      |                       |
 | [京都府](../Page/京都府.md "wikilink")                    | [KBS京都](../Page/京都放送.md "wikilink") (KBS)                     | 水曜 23:30 - 翌0:00                  | JAITS                                                   | 2006年10月 - 2008年9月    |
 | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [とちぎテレビ](../Page/とちぎテレビ.md "wikilink") (GYT)                  | 金曜 22:30 - 23:00                  | 2005年6月 - 2008年10月                                      |                       |

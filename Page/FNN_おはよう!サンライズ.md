@@ -3,6 +3,10 @@
 
 『**FNN おはよう\!サンライズ**』（エフエヌエヌ おはようサンライズ）は、[1993年](../Page/1993年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）で放送された[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
 
+## 番組概要
+
+前番組『[FNN World Uplink](../Page/FNN_World_Uplink.md "wikilink")』が視聴率低迷で終了したことにより始まった。出演者は[境鶴丸](../Page/境鶴丸.md "wikilink")と[木幡美子](../Page/木幡美子.md "wikilink")以外は一新となった。しかし番組は『 - World Uplink』を下回る放送1年で終了、後番組は『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』。
+
 ## 放送時間
 
 ※すべて[日本時間で記す](../Page/日本標準時.md "wikilink")。
@@ -15,7 +19,7 @@
 
 ## 出演者
 
-| 期間         | 司会          | アシスタント                             | ニュース                               | スポーツ                               | 天気                                 |
+| 期間         | 総合司会        | アシスタント                             | ニュース                               | スポーツ                               | お天気                                |
 | ---------- | ----------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 | 月 - 水      | 木・金         | 月 - 水                              | 木・金                                | 月 - 水                              | 木・金                                |
 | 1993年4月1日  | 1993年9月30日  | [上田昭夫](../Page/上田昭夫.md "wikilink") | [木幡美子](../Page/木幡美子.md "wikilink") | [近藤サト](../Page/近藤サト.md "wikilink") | [阿部知代](../Page/阿部知代.md "wikilink") |
@@ -23,13 +27,13 @@
 | 1994年1月4日  | 1994年3月31日  | [吉田伸男](../Page/吉田伸男.md "wikilink") |                                    |                                    |                                    |
 |            |             |                                    |                                    |                                    |                                    |
 
-**『FNN おはよう\!サンライズ』歴代の出演者**
+**『FNN おはよう\!サンライズ』歴代出演者**
 
   - 補足
 
 <!-- end list -->
 
-  - 境は『[FNN World Uplink](../Page/FNN_World_Uplink.md "wikilink")』より続投。
+  - 境と木幡は『[FNN World Uplink](../Page/FNN_World_Uplink.md "wikilink")』より続投。
   - 奥寺は『[笑っていいとも\!](https://ja.wikipedia.org/wiki/笑っていいとも! "wikilink")』の[テレフォンアナウンサーと兼務で](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")、『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』も続投。
   - 三宅は2012年4月から『めざましテレビ』のメインキャスターを務めている。
 
@@ -86,9 +90,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a>(NST)</p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a>(NST)</p></td>
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td></td>
+<td><p>現:NST新潟総合テレビ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -106,7 +110,7 @@
 <tr class="even">
 <td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a>(T34)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p>現・BBT</p></td>
+<td><p>現略称:BBT</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -130,7 +134,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>(KTV)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近畿地方" title="wikilink">近畿広域圏</a>・<a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/近畿地方" title="wikilink">近畿広域圏</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -155,7 +159,7 @@
 <tr class="even">
 <td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a>(EBC)</p></td>
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p>現・テレビ愛媛</p></td>
+<td><p>現:テレビ愛媛</p></td>
 <td></td>
 </tr>
 <tr class="odd">

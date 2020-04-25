@@ -122,7 +122,7 @@
 
   - 2011年11月29日、ユニバーサルミュージック系列内のUNIVERSAL SIGMAへ移籍\[15\]。
   - 2013年12月15日、[カトープレジャーグループ](https://ja.wikipedia.org/wiki/カトープレジャーグループ "wikilink")とDREAMS COME TRUEが[コラボレーション](../Page/コラボレーション.md "wikilink")した商業施設「中之島 LOVE CENTRAL」オープン\[16\]。
-  - 2014年3月21日、デビュー25周年を迎えた。それを記念して通算51枚目となるシングル『[AGAIN](https://ja.wikipedia.org/wiki/AGAIN_\(DREAMS_COME_TRUEの曲\) "wikilink")』リリース。同楽曲は、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系報道ニュース「[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")」のテーマソングの為に書き下ろしたもので、リリース直前の1月1日から翌3月31日まで使用された。
+  - 2014年3月21日、デビュー25周年を迎えた。それを記念して通算51枚目となるシングル『[AGAIN](https://ja.wikipedia.org/wiki/AGAIN_\(DREAMS_COME_TRUEの曲\) "wikilink")』リリース。同楽曲は、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系報道ニュース「[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")」のテーマソングの為に書き下ろしたもので、リリース直前の1月1日から翌3月31日まで使用された。
   - 2014年3月26日、デビュー25周年を記念した[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[私とドリカム -DREAMS COME TRUE 25th ANNIVERSARY BEST COVERS-](https://ja.wikipedia.org/wiki/私とドリカム_-DREAMS_COME_TRUE_25th_ANNIVERSARY_BEST_COVERS- "wikilink")』リリース\[17\]。
   - 2014年8月20日、前作から約4年振りとなるオリジナル・フルアルバム『[ATTACK25](https://ja.wikipedia.org/wiki/ATTACK25 "wikilink")』リリース。
   - 2015年4月1日、トリビュート・アルバム第2弾『[私とドリカム2 -ドリカムワンダーランド2015 開催記念 BEST COVERS-](https://ja.wikipedia.org/wiki/私とドリカム2_-ドリカムワンダーランド2015_開催記念_BEST_COVERS- "wikilink")』リリース\[18\]。

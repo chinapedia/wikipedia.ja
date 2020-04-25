@@ -1419,7 +1419,7 @@
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")：水曜 18:15 - 18:45（1965年9月）→ 月曜 19:30 - 20:00（1965年10月 - 1966年3月）→ 日曜 19:30 - 20:00（1966年4月から）\[36\]
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：日曜 18:00 - 18:30（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[37\]
   - [山形放送](../Page/山形放送.md "wikilink")：月曜 19:30 - 20:00（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[38\]
-  - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")：日曜 19:30 - 20:00\[39\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[39\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[40\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：金曜 19:00 - 19:30（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[41\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:30 - 20:00\[42\]
@@ -2710,7 +2710,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p>木曜 16:35 - 17:05</p></td>
 <td><p>現・IBC岩手放送。</p></td>
@@ -2747,7 +2747,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
 <td><p>木曜 17:15 - 17:45</p></td>

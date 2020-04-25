@@ -66,14 +66,14 @@
   - [五十嵐敬喜](../Page/五十嵐敬喜.md "wikilink") - 研究理事
   - [内田俊宏](../Page/内田俊宏.md "wikilink") - 元・調査部主任研究員、現；[中京大学](../Page/中京大学.md "wikilink")客員教授
   - [大薗治夫](https://ja.wikipedia.org/wiki/大薗治夫 "wikilink") - 元・上席エコノミスト、元[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")[総領事](https://ja.wikipedia.org/wiki/総領事 "wikilink")
-  - [恩田達紀](https://ja.wikipedia.org/wiki/恩田達紀 "wikilink") - プリンシパルグローバルコンサルティング部長
+  - [恩田達紀](https://ja.wikipedia.org/wiki/恩田達紀 "wikilink") - 元・プリンシパルグローバルコンサルティング部長
   - [片岡剛士](https://ja.wikipedia.org/wiki/片岡剛士 "wikilink") - 元・経済政策部上席主任研究員、現：日本銀行政策委員会審議委員
   - [上川陽子](../Page/上川陽子.md "wikilink") - 元・三和総合研究所、現：衆議院議員（[自民党](../Page/自由民主党_\(日本\).md "wikilink")）、元[法務大臣](../Page/法務大臣.md "wikilink")
-  - [川井栄一](https://ja.wikipedia.org/wiki/川井栄一 "wikilink") - 教育事業本部企業内研修室チーフインストラクター
+  - [川井栄一](https://ja.wikipedia.org/wiki/川井栄一 "wikilink") - 元・人材育成支援室長　チーフインストラクター
   - [嶋中雄二](https://ja.wikipedia.org/wiki/嶋中雄二 "wikilink") - 元・投資調査部長、現：[三菱UFJ証券](https://ja.wikipedia.org/wiki/三菱UFJ証券 "wikilink")景気循環研究所所長
   - [中谷巌](../Page/中谷巌.md "wikilink") - 元・理事長、現：一橋大学名誉教授
   - [原田和明](https://ja.wikipedia.org/wiki/原田和明 "wikilink") - 元・三和総合研究所理事長
-  - [藤井恵](https://ja.wikipedia.org/wiki/藤井恵_\(エコノミスト\) "wikilink") - 国際事業本部 研究員
+  - [藤井恵](https://ja.wikipedia.org/wiki/藤井恵_\(エコノミスト\) "wikilink") - 元・国際事業本部 研究員
   - [細野豪志](../Page/細野豪志.md "wikilink") - 元・三和総合研究所、現：衆議院議員（[無所属](../Page/無所属.md "wikilink")）
   - [水上貴央](https://ja.wikipedia.org/wiki/水上貴央 "wikilink") - 元・三和総合研究所、現：[弁護士](../Page/弁護士.md "wikilink")、再エネ事業を支援する法律実務の会理事長
   - [水谷研治](https://ja.wikipedia.org/wiki/水谷研治 "wikilink") - 元・東海総合研究所社長・会長・理事長、現：[中京大学](../Page/中京大学.md "wikilink")名誉教授

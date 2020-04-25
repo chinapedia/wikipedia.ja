@@ -77,6 +77,6 @@
 
   - [A album](https://www.jehp.jp/kinki_discography/article/1110)
 
-[Category:KinKi_Kidsのアルバム](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:1997年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+[Category:KinKi_Kidsのアルバム](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:1997年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  [KinKi Kids プロフィール](http://www.oricon.co.jp/prof/13846/profile/) オリコン 2016年2月28日閲覧

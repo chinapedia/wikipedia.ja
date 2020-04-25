@@ -34,7 +34,7 @@
 
   - [イマイアキノブ](https://ja.wikipedia.org/wiki/イマイアキノブ "wikilink")
     ギター担当。2010年9月脱退。元[フリクション](../Page/フリクション_\(バンド\).md "wikilink")。
-    チバとは現バンド結成前にROSSOで活動、脱退後も共にTHE GOLDEN WET FINGERを結成している。
+    チバとは現バンド結成前にROSSOで活動、脱退後も共にTHE GOLDEN WET FINGERSを結成している。
 
 ## 作品
 
@@ -841,7 +841,7 @@ Getting Roll〜Rock Anthem Mix〜</p></td>
 <li>サーキットの娘 / <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
 <li>くちびるモーション / <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a></li>
 <li>晴れ女 / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
-<li>愛のしるし / <a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
+<li>愛のしるし / <a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a></li>
 <li>たららん / <a href="../Page/ROLLY.md" title="wikilink">ROLLY</a></li>
 <li>Bye Bye / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li>マイストーリー / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>

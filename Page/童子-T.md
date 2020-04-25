@@ -364,7 +364,7 @@ UMBC-9014</p></td>
 <tr class="odd">
 <td><p>1995年9月21日:シングル<br />
 1995年12月1日:ミニアルバム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">AYUMI</a> feat. DOHZI-T &amp; DJ BASS「<a href="https://ja.wikipedia.org/wiki/NOTHING_FROM_NOTHING" title="wikilink">NOTHING FROM NOTHING</a>」</p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">AYUMI</a> feat. DOHZI-T &amp; DJ BASS「<a href="https://ja.wikipedia.org/wiki/NOTHING_FROM_NOTHING" title="wikilink">NOTHING FROM NOTHING</a>」</p></td>
 <td><p>CODA-743<br />
 COCA-13057</p></td>
 <td></td>

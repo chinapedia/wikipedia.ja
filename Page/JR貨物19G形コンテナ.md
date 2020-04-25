@@ -9,7 +9,7 @@
 
 2020年（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）1月5日現在、13,402個を使用している。製造は、[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")\[1\]→[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")、[中国の](../Page/中華人民共和国.md "wikilink")[中国国際海運集装箱](https://ja.wikipedia.org/wiki/中国国際海運集装箱 "wikilink")（CIMC）が担当。
 
-登場時は旧型の国鉄コンテナや[18C形などのJR初期に製造されたコンテナの老朽取換用として製造していたが](../Page/JR貨物18C形コンテナ.md "wikilink")、JR貨物になってから製造した[19F形も置き換えている](../Page/JR貨物19F形コンテナ.md "wikilink")。以後も仕様変更を重ねながら、JR貨物の主力コンテナ形式として2017年度までは[19D形と共に増備が続いていたが](../Page/JR貨物19D形コンテナ.md "wikilink")、[2018年](../Page/2018年.md "wikilink")3月17日のダイヤ改正でコキ50000形の営業運転が終了することにより、背高コンテナの運用上の制限がなくなったため、2018年度より[20G形へ製造が移行した](https://ja.wikipedia.org/wiki/JR貨物20G形コンテナ "wikilink")。
+登場時は旧型の国鉄コンテナや[18C形などのJR初期に製造されたコンテナの老朽取換用として製造していたが](../Page/JR貨物18C形コンテナ.md "wikilink")、JR貨物になってから製造した[19F形も置き換えている](../Page/JR貨物19F形コンテナ.md "wikilink")。以後も仕様変更を重ねながら、JR貨物の主力コンテナ形式として2017年度までは[19D形とともに増備が続いていたが](../Page/JR貨物19D形コンテナ.md "wikilink")、[2018年](../Page/2018年.md "wikilink")3月17日のダイヤ改正でコキ50000形の営業運転が終了し、背高コンテナの運用上の制限がなくなったため、2018年度より[20G形へ製造が移行した](https://ja.wikipedia.org/wiki/JR貨物20G形コンテナ "wikilink")。
 
 初期に製造された個体は老朽化が進んでおり、内張りを張り替えて塗装変更する更新工事を施して使用されている。しかし近年、新たに製造された本形式や20G形によって、初期製造の個体にも置き換えが進み、廃棄したり、[死重用途の](https://ja.wikipedia.org/wiki/重し#死重 "wikilink")[ZD19G形に改造したりしている](https://ja.wikipedia.org/wiki/JR貨物ZD19G形コンテナ "wikilink")。
 
@@ -25,7 +25,7 @@
 
 さらに量産が進むと妻面荷役扉の右上と側面荷役扉左上に「環境にやさしい鉄道貨物輸送」（前期）、「環境にやさしい鉄道輸送」（中期）、「環境にやさしい鉄道コンテナ」（後期）とキャッチコピーが書かれたステッカーが製造当初から貼られるようになった。
 
-[19G-1549R_【JR貨物】Containers_of_Japan_Rail_Freight.jpg](https://ja.wikipedia.org/wiki/File:19G-1549R_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "fig:19G-1549R_【JR貨物】Containers_of_Japan_Rail_Freight.jpg") [19G-20955.jpg](https://ja.wikipedia.org/wiki/File:19G-20955.jpg "fig:19G-20955.jpg") 老朽化が目立つ個体については、内張りを交換する更新工事が施されている。同時に塗装も専用のものに塗り直されており、白線が消されたうえに、JRFマークが小さくなっている。更新施工を示す表記については、製造番号の後ろに「◇（ひしがた）」の記号が付いたもの、「更新」の英訳である「Renewa」の頭文字「R」を追記したもの\[2\]があり、中には目印がない個体があるなど、多種多様である。
+[19G-1549R_【JR貨物】Containers_of_Japan_Rail_Freight.jpg](https://ja.wikipedia.org/wiki/File:19G-1549R_【JR貨物】Containers_of_Japan_Rail_Freight.jpg "fig:19G-1549R_【JR貨物】Containers_of_Japan_Rail_Freight.jpg") [19G-20955.jpg](https://ja.wikipedia.org/wiki/File:19G-20955.jpg "fig:19G-20955.jpg") 老朽化が目立つ個体は、内張りを交換する更新工事が施されている。同時に塗装も専用のものに塗り直されており、白線が消されたうえに、JRFマークが小さくなっている。更新施工を示す表記は、製造番号の後ろに「◇（ひしがた）」の記号が付いたもの、「更新」の英訳である「Renewal」の頭文字「R」を追記したもの\[2\]があり、中には目印がない個体があるなど、多種多様である。
 
 最新ロットからは、塗装が大きく変更されている。赤紫色を基調としている点は従来と変わらないが、JRFマークと白線が廃止され、側面右上にJRマーク、その下に「JR貨物」の文字が入れられている。妻面右上にも「JR貨物」の文字がある。また、キャッチコピーのステッカー貼り付けも省略されている。
 

@@ -202,7 +202,7 @@
   - 僧：**[国創典](https://ja.wikipedia.org/wiki/邦創典 "wikilink")**
   - 明智の兵：**[宮崎和命](https://ja.wikipedia.org/wiki/宮崎和命 "wikilink")**、**[柴田宗樹](https://ja.wikipedia.org/wiki/柴田宗樹 "wikilink")**
   - 明智の士：**[下村達雄](https://ja.wikipedia.org/wiki/下村達雄 "wikilink")**、**[永田光哉](https://ja.wikipedia.org/wiki/永田光哉 "wikilink")**、**[水橋和夫](https://ja.wikipedia.org/wiki/水橋和夫 "wikilink")**、**[菊池誠一](https://ja.wikipedia.org/wiki/菊池誠一_\(俳優\) "wikilink")**
-  - 使者：**中庸介 (現・[中庸助](../Page/中庸助.md "wikilink"))**
+  - 使者：**中庸介 （現・[中庸助](../Page/中庸助.md "wikilink")）**
   - 侍女：**[九穂信子](https://ja.wikipedia.org/wiki/九穂信子 "wikilink")**
   - 信長小姓：**[水野努](https://ja.wikipedia.org/wiki/水野努 "wikilink")**
   - [オルガンティノ](../Page/グネッキ・ソルディ・オルガンティノ.md "wikilink")：[エディ・アラブ](https://ja.wikipedia.org/wiki/エディ・アラブ "wikilink")

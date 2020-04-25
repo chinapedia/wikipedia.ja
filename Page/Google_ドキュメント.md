@@ -65,7 +65,6 @@ Google ドキュメントから直接[ブログ](../Page/ブログ.md "wikilink"
   - [PaaS](https://ja.wikipedia.org/wiki/PaaS "wikilink")
   - [クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")
   - [ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")
-  - [オンラインスプレッドシート](https://ja.wikipedia.org/wiki/オンラインスプレッドシート "wikilink")
 
 ## 外部リンク
 

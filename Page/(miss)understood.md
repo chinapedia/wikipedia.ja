@@ -1,7 +1,7 @@
 > この記事は[\(miss\)understood](https://ja.wikipedia.org/wiki/\(miss\)understood)から翻訳されています。
 
 
-『**(miss)understood**』（ミス・アンダーストゥッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の7枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**(miss)understood**』（ミス・アンダーストゥッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の7枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -63,7 +63,7 @@
         38thシングル
 11. **[Will](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")**
       -
-        作曲: [CREA](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") + [D･A･I](../Page/長尾大.md "wikilink") / 編曲: tasuku
+        作曲: [CREA](../Page/浜崎あゆみ.md "wikilink") + [D･A･I](../Page/長尾大.md "wikilink") / 編曲: tasuku
         37thシングルのカップリング
         Panasonic デジタルカメラ LUMIX FX-9 CMソング
 12. **[HEAVEN](../Page/HEAVEN_\(浜崎あゆみの曲\).md "wikilink")**

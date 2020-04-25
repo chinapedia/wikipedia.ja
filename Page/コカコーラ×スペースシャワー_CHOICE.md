@@ -44,7 +44,7 @@
 
 ### 2004年
 
-  - 1月：[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[スターゲイザー](../Page/スターゲイザー_\(曲\).md "wikilink")」
+  - 1月：[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")「[スターゲイザー](../Page/スターゲイザー_\(曲\).md "wikilink")」
   - 2月：[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")「[READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")」
   - 3月：RIP SLYME「Dandelion」
   - 4月：[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")「[サイレン](../Page/サイレン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")」

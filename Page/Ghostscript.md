@@ -20,7 +20,7 @@ Ghostscript は [Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")、[Linux](
 Ghostscript を使用するための複数の[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI) が存在する。これらを使うことで文章の印刷はもちろんのこと、PostScript や PDF ファイルを画面上で見たり、スクロールしたり、前後のページへ移動したり、文章を拡大したりすることができる。
 
   - Ghostview
-    Unix/X11 上で動作する。一般的ではない[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の特徴を持つ：文章の上で[マウスを](../Page/マウス_\(コンピュータ\).md "wikilink")[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")すると逆の方向にスクロールする（ドラッグによってイメージそのものではなく、イメージを見る視点を移動させている）。その効果はイメージ全体に見えないスクロールバーがあるのに似ていて、[Google マップやその他のアプリケーションのやり方とはほとんど逆である](../Page/Google_マップ.md "wikilink")。
+    Unix/X11 上で動作する。一般的ではない[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")の特徴を持つ：文章の上で[マウスを](../Page/マウス_\(コンピュータ\).md "wikilink")[ドラッグ](../Page/ドラッグ.md "wikilink")すると逆の方向にスクロールする（ドラッグによってイメージそのものではなく、イメージを見る視点を移動させている）。その効果はイメージ全体に見えないスクロールバーがあるのに似ていて、[Google マップやその他のアプリケーションのやり方とはほとんど逆である](../Page/Google_マップ.md "wikilink")。
   - gv
     Unix/X11 上で動作する。Ghostview を視覚的に改良したバージョンで、振る舞いは Ghostview に似ている。
   - mgv

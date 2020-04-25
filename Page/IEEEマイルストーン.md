@@ -1,11 +1,11 @@
 > この記事は[IEEEマイルストーン](https://ja.wikipedia.org/wiki/IEEEマイルストーン)から翻訳されています。
 
 
-**IEEEマイルストーン**（アイトリプルイー マイルストーン）は、[IEEE](../Page/IEEE.md "wikilink")が[電気](../Page/電気.md "wikilink")・[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")技術やその関連分野における歴史的偉業に対して認定する賞。これに認定されるためには、25年以上に渡って世の中で高く評価を受けてきたという実績が必要である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に制定され、[2007年](../Page/2007年.md "wikilink")11月現在で96件が認定されている。
+**IEEEマイルストーン**（アイトリプルイー マイルストーン）は、[IEEE](../Page/IEEE.md "wikilink")が[電気](../Page/電気.md "wikilink")・[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")技術やその関連分野における歴史的偉業に対して認定する賞。これに認定されるためには、25年以上に渡って世の中で高く評価を受けてきたという実績が必要である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に制定され、[2017年](../Page/2017年.md "wikilink")2月までで174件が認定されている\[1\]。
 
 ## 受賞一覧
 
-出典:\[1\]
+出典:\[2\]
 
 <table>
 <thead>
@@ -511,7 +511,7 @@
 <tr class="odd">
 <td><p><a href="../Page/リチャード・バード.md" title="wikilink">バードの南極探険における長距離</a><a href="../Page/無線電話.md" title="wikilink">短波音声伝送</a></p></td>
 <td><p><a href="../Page/1934年.md" title="wikilink">1934年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a><a href="https://ja.wikipedia.org/wiki/シーダーラピッズ" title="wikilink">シーダーラピッズ</a></p></td>
+<td><p><a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a><a href="https://ja.wikipedia.org/wiki/シーダーラピッズ" title="wikilink">シーダーラピッズ</a></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
 <td></td>
 </tr>
@@ -539,7 +539,7 @@
 <tr class="odd">
 <td><p><a href="../Page/アタナソフ&amp;ベリー・コンピュータ.md" title="wikilink">アタナソフ&amp;ベリー・コンピュータ</a></p></td>
 <td><p><a href="../Page/1939年.md" title="wikilink">1939年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a><a href="https://ja.wikipedia.org/wiki/エイムズ_(アイオワ州)" title="wikilink">エイムズ</a></p></td>
+<td><p><a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a><a href="https://ja.wikipedia.org/wiki/エイムズ_(アイオワ州)" title="wikilink">エイムズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
 <td></td>
 </tr>
@@ -859,7 +859,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ASCII" title="wikilink">ASCII</a>(American Standard Code for Information Interchange)（<a href="../Page/ベル研究所.md" title="wikilink">ベル研究所</a>）</p></td>
+<td><p><a href="../Page/ASCII.md" title="wikilink">ASCII</a>(American Standard Code for Information Interchange)（<a href="../Page/ベル研究所.md" title="wikilink">ベル研究所</a>）</p></td>
 <td><p><a href="../Page/1963年.md" title="wikilink">1963年</a></p></td>
 <td><p><a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><a href="https://ja.wikipedia.org/wiki/ミドルタウン_(ニュージャージー州)" title="wikilink">ミドルタウン</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
@@ -1280,7 +1280,7 @@
 <!-- end list -->
 
   - 2017年3月
-      - ホンダ・エレクトロ・ジャイロケータ（[1981年](../Page/1981年.md "wikilink")） - [本田技研工業](../Page/本田技研工業.md "wikilink")
+      - [ホンダ・エレクトロ・ジャイロケータ](https://ja.wikipedia.org/wiki/ホンダ・エレクトロ・ジャイロケータ "wikilink")（[1981年](../Page/1981年.md "wikilink")） - [本田技研工業](../Page/本田技研工業.md "wikilink")
 
 <!-- end list -->
 
@@ -1295,7 +1295,9 @@
 <!-- end list -->
 
   - [2018年](../Page/2018年.md "wikilink")3月
-      - [オーロラビジョン](../Page/オーロラビジョン.md "wikilink")(カラー大型映像装置) ([1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")) - 三菱電機\[2\]
+      - [オーロラビジョン](../Page/オーロラビジョン.md "wikilink")（カラー大型映像装置）（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")） - 三菱電機\[3\]
+  - 2019年12月
+      - [高電子移動度トランジスタ HEMT](../Page/高電子移動度トランジスタ.md "wikilink")（1979年） - [富士通研究所](../Page/富士通研究所.md "wikilink")\[4\]
 
 ## 脚注
 
@@ -1313,4 +1315,6 @@
 [Category:技術史](https://ja.wikipedia.org/wiki/Category:技術史 "wikilink") [Category:電気工学](https://ja.wikipedia.org/wiki/Category:電気工学 "wikilink") [Category:電子工学](https://ja.wikipedia.org/wiki/Category:電子工学 "wikilink") [Category:IEEEの賞](https://ja.wikipedia.org/wiki/Category:IEEEの賞 "wikilink")
 
 1.
-2.  [世界初の屋外用カラー大型ディスプレイ技術 カラー大型表示装置(オーロラビジョン)がIEEEマイルストーンに認定](https://www.mitsubishielectric.co.jp/news/2018/0308.html) 三菱電機 (2018年3月8日) ニュースリリース 2019年2月16日閲覧
+2.
+3.  [世界初の屋外用カラー大型ディスプレイ技術 カラー大型表示装置(オーロラビジョン)がIEEEマイルストーンに認定](https://www.mitsubishielectric.co.jp/news/2018/0308.html) 三菱電機 (2018年3月8日) ニュースリリース 2019年2月16日閲覧
+4.  IEEE 東京支部「[IEEE MILESTONE (35) 高電子移動度トランジスタ HEMT、1979年](https://www.ieee-jp.org/japancouncil/jchc/adm/milestone/35HEMT.pdf)」2020年4月9日閲覧

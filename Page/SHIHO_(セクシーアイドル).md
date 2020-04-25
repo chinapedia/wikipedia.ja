@@ -6,10 +6,11 @@
 ## 概要
 
   - [1988年](../Page/1988年.md "wikilink")、『GYPSY QUEEN』でレコードデビュー。
-  - [1990年代](../Page/1990年代.md "wikilink")に[Tバック](../Page/Tバック.md "wikilink")姿でディスコクイーン、[学園祭の女王として活躍する](../Page/大学祭.md "wikilink")。
+  - [1990年代](../Page/1990年代.md "wikilink")に[Tバック](../Page/Tバック.md "wikilink")姿でディスコクイーン、[学園祭の女王として活躍する](../Page/大学祭.md "wikilink")\[1\]。
   - [スキンヘッド](../Page/スキンヘッド.md "wikilink")になったり、「[臨月](https://ja.wikipedia.org/wiki/臨月 "wikilink")[ヘアヌード](../Page/ヘアヌード.md "wikilink")」を披露したりした。 また、[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")の[中村亘利](../Page/中村亘利.md "wikilink")との交際発覚などでも話題となる。
   - 結婚・離婚を経て現在も活動中である。
-  - 2019年1月11日放送分の『[爆報\! THE フライデー](https://ja.wikipedia.org/wiki/爆報!_THE_フライデー "wikilink")』では結婚・離婚、有名プロ野球選手との不倫……と、激動の人生が報じられた\[1\]。1997年に白血病に罹患した妹の治療費のためにストリップデビューに踏み切るも、イベント会社に勤める仲介者の男に出演料400万円を持ち逃げされたと主張している。ただ、男は番組で放映された出演料の持ち逃げを「事実無根」と否定しており\[2\]、男の抗議を受けて制作責任者が謝罪文を男に手渡す事態となった\[3\]。当のSHIHOは「Aさんの主張には困惑しています」とAの主張と対立した\[4\]。
+  - 2019年1月11日放送分の『[爆報\! THE フライデー](https://ja.wikipedia.org/wiki/爆報!_THE_フライデー "wikilink")』では結婚・離婚、有名プロ野球選手との不倫……と、激動の人生が報じられた\[2\]。1997年に白血病に罹患した妹の治療費のためにストリップデビューに踏み切るも、イベント会社に勤める仲介者の男に出演料400万円を持ち逃げされたと主張している。ただ、男は番組で放映された出演料の持ち逃げを「事実無根」と否定しており\[3\]、男の抗議を受けて制作責任者が謝罪文を男に手渡す事態となった\[4\]。当のSHIHOは「Aさんの主張には困惑しています」とAの主張と対立した\[5\]。
+  - 実娘のららはアイドルユニット「Pimm’s」元メンバー。グループ脱退後は母とのジョイントライブも行う\[6\]。
 
 ## 主な出演作品
 
@@ -78,7 +79,9 @@
 
 [Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:過去のアーティストハウス・ピラミッド所属者](https://ja.wikipedia.org/wiki/Category:過去のアーティストハウス・ピラミッド所属者 "wikilink")
 
-1.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（1/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
-2.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（2/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html/2) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
-3.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（4/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html/4) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
-4.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（5/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html/5) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
+1.
+2.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（1/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
+3.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（2/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html/2) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
+4.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（4/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html/4) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
+5.  [TBS『爆報』に人権侵害申立　「私は400万円泥棒にされた」（5/5ページ）](https://www.news-postseven.com/archives/20190401_1341237.html/5) NEWSポストセブン 2019.04.01 11:00（週刊ポスト2019年4月12日号、2020年2月23日閲覧）
+6.

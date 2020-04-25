@@ -9,7 +9,7 @@
 
 [ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")より車で1時間ほど走らせた場所にあるドライレイクで撮影された\[1\]。
 
-このシングルから、松本の英語での表記が**"TAKAHIRO MATSUMOTO"**から現在の**"TAK MATSUMOTO"**に変更される\[2\]。また、「[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")」までそれぞれ専用のB'zロゴマークが使われた。
+このシングルから、松本の英語での表記が**"TAKAHIRO MATSUMOTO"**から現在の**"TAK MATSUMOTO"**に変更される\[2\]。また、本作から『[love me, I love you](https://ja.wikipedia.org/wiki/love_me,_I_love_you "wikilink")』までは、それぞれ専用のB'zロゴマークが使われた。
 
 この頃は長期にわたるライブのためメディアへの露出が少なかった上に曲調がかなり暗い作品が目立ったため、このシングルのリリースの頃から[B+U+M](https://ja.wikipedia.org/wiki/B+U+M "wikilink")を解体する『[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")』のリリースの時期までは「暗黒時代」と言われた(現在はメンバー自身も1994年を「暗黒時代」と呼んでいる)。
 
@@ -29,7 +29,7 @@
       -
         歌詞は田舎を捨てた主人公が華やかな都会の暮らしに溺れ、自分を見失っていくという内容で、間奏に早口の語りが入る。
         元々はこの曲のバックトラックに『[The 7th Blues](../Page/The_7th_Blues.md "wikilink")』収録の「闇の雨」のボーカルラインがそのまま乗っているデモが制作されていたが、結果として全く別のメロディーに差し替えられ完成、2つの曲として独立した。
-        未だにアルバム未収録で、[2nd beat中心に選曲されたマスト](https://ja.wikipedia.org/wiki/2nd_beat "wikilink")・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』リリース時のインタビューで、何故この曲が収録されなかったのかを聞かれた際に松本は「ああ、あったねそんなのも」とすっかり存在を忘れていた様子であった。
+        未だにアルバム未収録で、[2nd beat中心に選曲されたマスト](https://ja.wikipedia.org/wiki/B'zの作品#シングル曲の表記 "wikilink")・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』リリース時のインタビューで、何故この曲が収録されなかったのかを聞かれた際に松本は「ああ、あったねそんなのも」とすっかり存在を忘れていた様子であった。
         B'zの楽曲においてこの曲と「[哀しきdreamer](https://ja.wikipedia.org/wiki/FIREBALL_\(B'zの曲\)_#収録曲 "wikilink")」の2曲のみ、2017年に『[B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』が発売されるまでは8cmディスクでしか入手ができない状態だった。
         2005年に行ったツアー『[B'z LIVE-GYM 2005 "CIRCLE OF ROCK"](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")』で久し振りに演奏され、その際は間奏での語りが稲葉とサポートメンバーの[大田紳一郎](../Page/大田紳一郎.md "wikilink")によるラップに変更され、その部分の歌詞も新たに書き下ろされた新バージョンでの披露となった。松本は、演奏した理由について「マニアの方達のリクエストにお応えして」と語っている。
         マネージャーの大河原氏がお気に入りの楽曲であることが会報で記されている。

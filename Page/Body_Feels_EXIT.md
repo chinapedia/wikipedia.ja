@@ -104,7 +104,7 @@ Side BB
 
   - [Body Feels EXIT | エイベックス・ポータル - avex portal](http://avexnet.jp/release/detail.php?id=1002277)
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:カラオケのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カラオケのコマーシャルソング "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink") [Category:日本テレビ土曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ土曜ドラマの主題歌 "wikilink")
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:カラオケのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カラオケのコマーシャルソング "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink") [Category:日本テレビ土曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ土曜ドラマの主題歌 "wikilink")
 
 1.  [オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")刊「オリコン・ウィーク The Ichiban」1999年9月6日号15Pより。
 2.  [「beatfreak issue94」](https://web.archive.org/web/20041017162431/http://www.avexnet.or.jp:80/beatfreak/094/)より。

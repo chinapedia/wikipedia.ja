@@ -263,7 +263,7 @@
 <td></td>
 <td></td>
 <td><p>BS151</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビーエス朝日" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="../Page/ビーエス朝日.md" title="wikilink">BS朝日</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -353,7 +353,7 @@
 <td></td>
 <td></td>
 <td><p>BS211</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11デジタル</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11デジタル</a></p></td>
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>

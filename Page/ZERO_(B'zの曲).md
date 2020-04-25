@@ -122,7 +122,7 @@ B'zのシングルは4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink"
 5.
 6.
 7.  『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』初回限定盤に付属しているMUSIC VIDEOの[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")にて。
-8.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P60より
+8.
 9.  他に「[Wonderful Opportunity](../Page/IN_THE_LIFE.md "wikilink")」や「[MVP](../Page/SPLASH!.md "wikilink")」がある
-10. 『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P26より
+10.
 11. 実際にはクレジットの表記はない

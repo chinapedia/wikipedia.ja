@@ -3,13 +3,85 @@
 
 **NHK短歌**（エヌエイチケイたんか）は、[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")の[短歌](../Page/短歌.md "wikilink")番組である。
 
-元々は**NHK歌壇**と題して[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")から放送されたが、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")以降は当タイトルに変更された。また[2012年](../Page/2012年.md "wikilink")4月1日からは、毎月第4日曜放送分が初心者向けの短歌講座「**短歌de胸キュン**」としてリニューアルされた。
+元々は**NHK歌壇**（エヌエイチケイかだん）と題して[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")から放送されたが、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")以降は当タイトルに変更された。また[2012年](../Page/2012年.md "wikilink")4月1日からは、毎月第4日曜放送分が初心者向けの短歌講座「**短歌de胸キュン**」としてリニューアルされた。
 
 ## 概要
 
 毎週決められた題の短歌（[題詠](https://ja.wikipedia.org/wiki/題詠 "wikilink")）を全国から公募し、選者が評価する。また、毎年1月には**NHK全国短歌大会**も行われ、大会大賞を決める。「短歌de胸キュン」では毎回異なる「場所」をテーマに視聴者からの短歌の投稿に加え、出演者（下記参照）が投稿されたエピソードや出演者自身のエピソードを基に短歌を作るという趣旨も加えられる。毎回投稿作の中からは「胸キュン大賞」が選ばれ、その作品は番組のホームページ上でも公開されるほか「NHK短歌テキスト」にも掲載される。これに加え2012年度は女性芸人出演による妄想恋愛短歌の再現ミニドラマコーナーがあり、[2013年](../Page/2013年.md "wikilink")度からは、番組で募集した短歌作りに携わる学校や団体を出演者が訪問して短歌の競作を行う「Shall we 短歌」のコーナーとなった。また毎年8月・1月・3月放送分は「増刊号」と称した「Shall we 短歌」の拡大版といえる全編ロケとなる。
 
 なお、曜日配列の関係で第5日曜日まである月は、「短歌de胸キュン」を2週続きで放送して調整する（この場合に前述の「増刊号」を充てることが多い）。
+
+## 放送時間
+
+（出典：\[1\]）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送期間</p></th>
+<th><p>番組名</p></th>
+<th><p>放送時間（<a href="../Page/日本標準時.md" title="wikilink">日本時間</a>）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>本放送</p></td>
+<td><p>再放送</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1997年度</p></td>
+<td><p><strong>NHK歌壇</strong></p></td>
+<td><p>金曜 21:25 - 21:50（25分）</p></td>
+</tr>
+<tr class="odd">
+<td><p>1998年度</p></td>
+<td><p>火曜 15:30 - 15:55（25分）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1999年度 - 2002年度</p></td>
+<td><p>日曜 7:30 - 8:00（30分）</p></td>
+<td><p>木曜 5:25 - 5:55（30分）<br />
+金曜 12:00 - 12:30（30分）</p></td>
+</tr>
+<tr class="odd">
+<td><p>2003年度</p></td>
+<td><p>土曜 6:40 - 7:10（30分）</p></td>
+<td><p>木曜 5:30 - 6:00（30分）</p></td>
+</tr>
+<tr class="even">
+<td><p>2004年度</p></td>
+<td><p>土曜 7:30 - 8:00（30分）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2005年度 - 2006年度</p></td>
+<td><p><strong>NHK短歌</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年度 - 2008年度</p></td>
+<td><p>日曜 7:30 - 8:00（30分）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009年度</p></td>
+<td><p>日曜 7:00 - 7:30（30分）</p></td>
+<td><p>木曜 5:05 - 5:35（30分）</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年度</p></td>
+<td><p>日曜 6:00 - 6:25（25分）</p></td>
+<td><p>水曜 14:30 - 14:55（25分）</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011年度 -</p></td>
+<td><p>火曜 15:00 - 15:25（25分）</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 司会
 
@@ -39,15 +111,15 @@
 
 ## 選者
 
-  - 2019年度現在
+  - 2020年度現在
 
-:\* 第1週：[江戸雪](https://ja.wikipedia.org/wiki/江戸雪 "wikilink")
+:\* 第1週：[松村正直](https://ja.wikipedia.org/wiki/松村正直 "wikilink")
 
-:\* 第2週：[佐佐木頼綱](../Page/佐佐木頼綱.md "wikilink")
+:\* 第2週：[小島なお](https://ja.wikipedia.org/wiki/小島なお "wikilink")
 
-:\* 第3週：[大辻隆弘](../Page/大辻隆弘.md "wikilink")
+:\* 第3週：[寺井龍哉](https://ja.wikipedia.org/wiki/寺井龍哉 "wikilink")
 
-:\* 第4週『短歌de胸キュン』：[佐伯裕子](https://ja.wikipedia.org/wiki/佐伯裕子 "wikilink")
+:\* 第4週『短歌de胸キュン』：[栗木京子](../Page/栗木京子.md "wikilink")
 
   - 歴代
 
@@ -75,6 +147,8 @@
 
 :\* 2018年度：東直子、[真中朋久](https://ja.wikipedia.org/wiki/真中朋久 "wikilink")、[松村由利子](../Page/松村由利子.md "wikilink")、栗木京子
 
+:\* 2019年度：[江戸雪](https://ja.wikipedia.org/wiki/江戸雪 "wikilink")、[佐佐木頼綱](../Page/佐佐木頼綱.md "wikilink")、[大辻隆弘](../Page/大辻隆弘.md "wikilink")、佐伯裕子
+
   -
     ※名前の並びは左から順に第1週 - 第4週担当である。2012年度以降、第4週担当は「短歌de胸キュン」の講師も兼任する。
 
@@ -82,7 +156,7 @@
 
   - 選者・講師
 
-:\* 栗木京子（2016年度、2018年度）
+:\* 栗木京子（2016年度、2018年度、2020年度）
 
 :\* 佐伯裕子（2012 - 2013年度、2015年度、2017年度、2019年度）
 
@@ -90,7 +164,7 @@
 
   - 生徒
 
-:\* [スピードワゴン](../Page/スピードワゴン.md "wikilink")（[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")・[小沢一敬](../Page/小沢一敬.md "wikilink")\[1\]）（2012年度 - ）
+:\* [スピードワゴン](../Page/スピードワゴン.md "wikilink")（[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")・[小沢一敬](../Page/小沢一敬.md "wikilink")\[2\]）（2012年度 - ）
 
 :\* [小島よしお](../Page/小島よしお.md "wikilink")（2012年度 - ）
 
@@ -98,26 +172,30 @@
 
 :\* [寿るい](https://ja.wikipedia.org/wiki/寿るい "wikilink")（2012 - 2015年度）
 
-:\* [えりちょす](https://ja.wikipedia.org/wiki/郡司英里沙 "wikilink")（2012 - 2016年度）\[2\]
+:\* [えりちょす](https://ja.wikipedia.org/wiki/郡司英里沙 "wikilink")（2012 - 2016年度）\[3\]
 
 :\* [松下雄一郎](https://ja.wikipedia.org/wiki/松下雄一郎 "wikilink")（2014年度）
 
-:\* [カン・ハンナ](https://ja.wikipedia.org/wiki/カン・ハンナ "wikilink")（2014年度 - 2017年度）\[3\]
+:\* [カン・ハンナ](https://ja.wikipedia.org/wiki/カン・ハンナ "wikilink")（2014年度 - 2017年度）\[4\]
 
 :\* 村上健志（[フルーツポンチ](https://ja.wikipedia.org/wiki/フルーツポンチ_\(お笑いコンビ\)#メンバー "wikilink")）（2015年度 - ）
 
 :\* [マクドナルド・サラ](https://ja.wikipedia.org/wiki/マクドナルド・サラ "wikilink")（2016年度）
 
-:\* [星野真里](../Page/星野真里.md "wikilink")（2017年度）\[4\]
+:\* [星野真里](../Page/星野真里.md "wikilink")（2017年度）\[5\]
 
-:\* [永島聖羅](https://ja.wikipedia.org/wiki/永島聖羅 "wikilink")（2018年度 - ）
+:\* [永島聖羅](https://ja.wikipedia.org/wiki/永島聖羅 "wikilink")（2018 - 2019年度）
 
-:\* [石田安奈](https://ja.wikipedia.org/wiki/石田安奈 "wikilink")（2018年度 - ）
+:\* [石田安奈](https://ja.wikipedia.org/wiki/石田安奈 "wikilink")（2018 - 2019年度）
 
 :\* [濱田龍臣](https://ja.wikipedia.org/wiki/濱田龍臣 "wikilink")（2019年度 - ）
 
+:\* [白鳥羽純](https://ja.wikipedia.org/wiki/白鳥羽純 "wikilink")（2020年度 - ）
+
+:\* [小澤愛実](https://ja.wikipedia.org/wiki/小澤愛実 "wikilink")（2020年度 - ）
+
   -
-    同時に出演できるのはこのうち4名\[5\]である。番組最後には毎回この6 - 8名の中から次回放送分の出演者4名を決める短歌対決が行われ、前回不合格となった2 - 4名も含む全員がテーマに沿った短歌を詠み披露する\[6\]。これを講師が審査して、合格した4名が次回放送分に出演できる。
+    同時に出演できるのはこのうち4名\[6\]である。番組最後には毎回この6 - 8名の中から次回放送分の出演者4名を決める短歌対決が行われ、前回不合格となった2 - 4名も含む全員がテーマに沿った短歌を詠み披露する\[7\]。これを講師が審査して、合格した4名が次回放送分に出演できる。
     こういった形式のため、司会・進行担当者は固定されていない（小沢もしくは井戸田が担当することが多い）。
 
 ## テキスト
@@ -133,14 +211,15 @@
 
 ## 外部リンク
 
-  - [NHK短歌](http://www4.nhk.or.jp/nhktanka/)
+  - [NHK短歌](https://www.nhk.jp/p/ts/JM12GR5RLP/)
   - [短歌de胸キュン](http://www4.nhk.or.jp/munekyun/)
 
 [Category:NHK教育テレビジョンの教養番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組 "wikilink") [Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:和歌](https://ja.wikipedia.org/wiki/Category:和歌 "wikilink") [Category:NHK出版](https://ja.wikipedia.org/wiki/Category:NHK出版 "wikilink")
 
-1.  小沢とえりちょすは2014年8月放送分の「NHK短歌　特集・今さら訊けない短歌の疑問」にもゲスト出演しており（小沢は司会でえりちょすはアシスタント。8月17日放送分には松下と寿も『胸キュン劇団』としてVTR出演）、この枠の初心者向け講座の出演者（講師を除く）が本編にも出演する初めてのケースとなった。
-2.
-3.  2018年度より「NHK短歌」本編のレギュラーゲストに昇格。
-4.  2018年度より「NHK短歌」本編の司会に昇格。
-5.  当初は男女2名ずつという枠があったが、2015年10月放送分から撤廃された。
-6.  前回の不合格者はスタジオには登場せず作品のみ披露する。
+1.  『読売新聞』（縮刷・関東版） 1997年（平成9年）4月 - 2011年（平成23年）4月、テレビ欄。
+2.  小沢とえりちょすは2014年8月放送分の「NHK短歌　特集・今さら訊けない短歌の疑問」にもゲスト出演しており（小沢は司会でえりちょすはアシスタント。8月17日放送分には松下と寿も『胸キュン劇団』としてVTR出演）、この枠の初心者向け講座の出演者（講師を除く）が本編にも出演する初めてのケースとなった。
+3.
+4.  2018年度より「NHK短歌」本編のレギュラーゲストに昇格。
+5.  2018年度より「NHK短歌」本編の司会に昇格。
+6.  当初は男女2名ずつという枠があったが、2015年10月放送分から撤廃された。
+7.  前回の不合格者はスタジオには登場せず作品のみ披露する。

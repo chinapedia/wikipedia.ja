@@ -30,16 +30,16 @@
 
 アナウンサー以外にも、ラジオセンターと番組出演契約を交わした契約キャスターがいる。2019年4月時点の所属者は以下の通り。
 
-  - [石垣真帆](../Page/石垣真帆.md "wikilink")（[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
-  - [浦野遥](https://ja.wikipedia.org/wiki/浦野遥 "wikilink")（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
-  - 大久保彰絵（[NHKけさのニュース](https://ja.wikipedia.org/wiki/NHKけさのニュース "wikilink")、[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")担当）
-  - [黒崎瞳](https://ja.wikipedia.org/wiki/黒崎瞳 "wikilink")（[Nらじ](https://ja.wikipedia.org/wiki/Nらじ "wikilink")担当）
-  - 菅野真美恵（[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
-  - [柴原紅](https://ja.wikipedia.org/wiki/柴原紅 "wikilink")（[ちきゅうラジオ](../Page/ちきゅうラジオ.md "wikilink")担当）
-  - [高嶋未希](https://ja.wikipedia.org/wiki/高嶋未希 "wikilink")（[NHKけさのニュース](https://ja.wikipedia.org/wiki/NHKけさのニュース "wikilink")、[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")担当）
-  - 高橋春菜（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
-  - [横山亜紀子](https://ja.wikipedia.org/wiki/横山亜紀子 "wikilink")（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
-  - [渡辺ひとみ](https://ja.wikipedia.org/wiki/渡辺ひとみ "wikilink")（[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")（土曜日・日曜日）担当）
+  - [石垣真帆](../Page/石垣真帆.md "wikilink")(いしがき・まほ)（[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
+  - [浦野遥](https://ja.wikipedia.org/wiki/浦野遥 "wikilink")(うらの・はるか)（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
+  - 大久保彰絵(おおくぼ・あきえ)（[NHKけさのニュース](https://ja.wikipedia.org/wiki/NHKけさのニュース "wikilink")、[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")担当）
+  - [黒崎瞳](https://ja.wikipedia.org/wiki/黒崎瞳 "wikilink")(くろさき・ひとみ)（[Nらじ](https://ja.wikipedia.org/wiki/Nらじ "wikilink")担当）
+  - 菅野真美恵(すがの・まみえ)（[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")担当、[気象予報士](../Page/気象予報士.md "wikilink")）
+  - [柴原紅](https://ja.wikipedia.org/wiki/柴原紅 "wikilink")(しばはら・べに)（[ちきゅうラジオ](../Page/ちきゅうラジオ.md "wikilink")担当）
+  - [高嶋未希](https://ja.wikipedia.org/wiki/高嶋未希 "wikilink")(たかしま・みき)（[NHKけさのニュース](https://ja.wikipedia.org/wiki/NHKけさのニュース "wikilink")、[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")担当）
+  - 高橋春菜(たかはし・はるな)（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
+  - [横山亜紀子](https://ja.wikipedia.org/wiki/横山亜紀子 "wikilink")(よこやま・あきこ)（[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")担当）
+  - [渡辺ひとみ](https://ja.wikipedia.org/wiki/渡辺ひとみ "wikilink")(わたなべ・ひとみ)（[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")（土曜日・日曜日）担当）
 
 ## スタジオ
 
@@ -74,7 +74,7 @@
 
 1.   - NHK年鑑2011 p.815
 2.  [R1 NHKラジオ第一：ラジオセンターとは?](http://www.nhk.or.jp/r1/about/)
-3.  1990年代に入ると、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")、[エフエム京都](../Page/エフエム京都.md "wikilink")、[セント・ギガ](../Page/セント・ギガ.md "wikilink")（[BS](../Page/BS.md "wikilink")ラジオ）、[ZIP-FM](../Page/ZIP-FM.md "wikilink")でもほぼ同じようなワンフォーマット編成を実施している。
+3.  1990年代に入ると、[KBCラジオ](../Page/KBCラジオ.md "wikilink")、[エフエム京都](../Page/エフエム京都.md "wikilink")、[セント・ギガ](../Page/セント・ギガ.md "wikilink")（[BS](../Page/BS.md "wikilink")ラジオ）、[ZIP-FM](../Page/ZIP-FM.md "wikilink")でもほぼ同じようなワンフォーマット編成を実施している。
 4.  民放では[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")にも「ラジオセンター」という明確な部署があり、所属アナウンサーは原則テレビ出演しない。
 5.  [R1 blogNHKブログ NHKきょうのニュース あと少しで完成　新ラジオスタジオ](http://www.nhk.or.jp/r1-blog/1200/145009.html)
 6.

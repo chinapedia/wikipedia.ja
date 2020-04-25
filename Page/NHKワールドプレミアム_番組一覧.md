@@ -311,7 +311,7 @@
 <tr class="even">
 <td><p>24　<a href="https://ja.wikipedia.org/wiki/みいつけた!" title="wikilink">みいつけた!</a><br />
 39　<a href="https://ja.wikipedia.org/wiki/コレナンデ商会" title="wikilink">コレナンデ商会</a></p></td>
-<td><p>24　<a href="https://ja.wikipedia.org/wiki/ニャンちゅう!宇宙!放送チュー!" title="wikilink">ニャンちゅう!ミニ</a><br />
+<td><p>24　<a href="https://ja.wikipedia.org/wiki/ニャンちゅう!宇宙!放送チュー!" title="wikilink">ニャンちゅう!宇宙!放送チュー!</a>ミニ<br />
 29　<a href="https://ja.wikipedia.org/wiki/ノージーのひらめき工房" title="wikilink">ノージーのひらめき工房</a></p></td>
 <td></td>
 <td></td>

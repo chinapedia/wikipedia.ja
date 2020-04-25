@@ -39,7 +39,7 @@
       - [7月9日](../Page/7月9日.md "wikilink") - JanJanリニューアルオープン 市民記者ニュース、映画の森、今週の本棚、イベントステーション、TVJANがそれぞれサイトとして独立
       - [11月1日](../Page/11月1日.md "wikilink") - 「モバイル『ザ・選挙』」のサービス開始
       - [11月9日](../Page/11月9日.md "wikilink") - 『JanJanChina 日中連線』創刊
-      - [12月1日](../Page/12月1日.md "wikilink") - BSテレビ局「[BSイレブン](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")」の報道番組『IN SIDE OUT』の中で、JanJanが提供する13分ほどのコーナーが開始
+      - [12月1日](../Page/12月1日.md "wikilink") - BSテレビ局「[BSイレブン](../Page/日本BS放送.md "wikilink")」の報道番組『IN SIDE OUT』の中で、JanJanが提供する13分ほどのコーナーが開始
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月1日 - 創刊5周年記念交流会
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月31日](../Page/3月31日.md "wikilink") - 暫時休刊予定
   - 2010年4月24日 - JanJanBlog のブログ運営はじまる

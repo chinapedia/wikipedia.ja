@@ -73,7 +73,7 @@
 
 ## 関連項目
 
-  - [Driver's Meeting](../Page/Driver's_Meeting.md "wikilink") - [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")で放送される自動車のメインテーマとしたラジオ番組。INGINGがスポンサーでありINGINGのモータースポーツ情報も放送されている。
+  - [Driver's Meeting](../Page/Driver's_Meeting.md "wikilink") - [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")で放送される自動車をテーマとしたラジオ番組。GR Garage 周南INGINGがスポンサーで、INGINGのモータースポーツ情報も放送される。
 
 ## 外部リンク
 

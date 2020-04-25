@@ -1,7 +1,7 @@
 > この記事は[SBCニュースウィークリー](https://ja.wikipedia.org/wiki/SBCニュースウィークリー)から翻訳されています。
 
 
-『**SBCニュースウィークリー**』（エスビーシー ニュースウィークリー）は、[1999年](../Page/1999年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で毎週日曜日 9:54 - 10:50 （一時期は10:40まで）に放送されていた[生放送](../Page/生放送.md "wikilink")の[報道番組](../Page/報道番組.md "wikilink")である。
+『**SBCニュースウィークリー**』（エスビーシー ニュースウィークリー）は、[1999年](../Page/1999年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")まで[信越放送](../Page/信越放送.md "wikilink")（SBCテレビ）で毎週日曜日 9:54 - 10:50 （一時期は10:40まで）に放送されていた[生放送](../Page/生放送.md "wikilink")の[報道番組](../Page/報道番組.md "wikilink")である。
 
 ## 概要
 

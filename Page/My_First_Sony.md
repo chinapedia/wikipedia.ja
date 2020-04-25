@@ -23,4 +23,4 @@
   - \[<https://www.sony.co.jp/Fun/design/history/product/1980/me-70058.html>　Sony Design History My First Sony グラフィックコンピューター ME-70058\]
   - \[<https://fabcross.jp/topics/dug/20160927_hb_a5000.html>　大人も虜にしたポップデザインのキッズ向けコンピューター 「SONY GRAPHIC COMPUTER HB-A5000（my first Sony）」fabcross Dig up the underground「プロダクト一機一会」 by 松崎順一 2016/09/27\]
 
-[Category:ソニー](https://ja.wikipedia.org/wiki/Category:ソニー "wikilink") [Category:日本の音響機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の音響機器メーカー "wikilink")
+[Category:ソニーの製品](https://ja.wikipedia.org/wiki/Category:ソニーの製品 "wikilink")

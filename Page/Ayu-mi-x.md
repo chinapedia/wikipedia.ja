@@ -1,7 +1,7 @@
 > この記事は[Ayu-mi-x](https://ja.wikipedia.org/wiki/Ayu-mi-x)から翻訳されています。
 
 
-『**ayu-mi-x**』（アユミックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1枚目の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**ayu-mi-x**』（アユミックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の1枚目の[リミックス](../Page/リミックス.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -21,7 +21,7 @@
 4.  [Depend on you](../Page/Depend_on_you.md "wikilink") "dub's electro remix"
 5.  [FRIEND II](../Page/A_Song_for_××.md "wikilink") "MAKE MY MAD MIX"
 6.  Hana "dub's trance remix"
-7.  [POWDER SNOW](../Page/A_Song_for_××.md "wikilink") "dob's sentimental remix"
+7.  [POWDER SNOW](../Page/A_Song_for_××.md "wikilink") "dub's sentimental remix"
 8.  [Trust](../Page/Trust_\(浜崎あゆみの曲\).md "wikilink") "[GROOVE THAT SOUL](../Page/GTS_\(DJグループ\).md "wikilink") MIX"
 9.  SIGNAL "[GROOVE THAT SOUL](../Page/GTS_\(DJグループ\).md "wikilink") MIX"
 10. [As if...](../Page/A_Song_for_××.md "wikilink") "[DJ-TURBO](../Page/GTS_\(DJグループ\).md "wikilink") WISH MIX"

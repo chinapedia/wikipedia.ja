@@ -7,11 +7,9 @@
 
 tetsuyaのソロ名義として初のオリジナルアルバム。次作『[COME ON\!](https://ja.wikipedia.org/wiki/COME_ON!_\(TETSUYAのアルバム\) "wikilink")』はTETSUYA名義でのリリースになったため、TETSU69名義でのアルバムは本作のみとなる。
 
-「[wonderful world/TIGHTROPE](https://ja.wikipedia.org/wiki/wonderful_world/TIGHTROPE "wikilink")」、10万枚限定シングル「[蜃気楼](../Page/蜃気楼_\(TETSU69の曲\).md "wikilink")」「[15 1/2 フィフティーンハーフ](https://ja.wikipedia.org/wiki/15_1/2_フィフティーンハーフ "wikilink")」のシングル4曲を含む全8曲を収録。アルバムに初収録された「WHITE OUT」は後にリアレンジされ、「[WHITE OUT 〜memory of a color〜](../Page/WHITE_OUT_〜memory_of_a_color〜.md "wikilink")」としてシングルカットされた。
+長年L'Arc〜en〜Cielで[ベーシスト](../Page/ベーシスト.md "wikilink")として活動していながら、ソロ名義の本作では半数の楽曲でベースを弾いておらず、代わりに[シンセベース](../Page/シンセベース.md "wikilink")の[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")を多用している\[1\]。この理由についてtetsuyaは「最初はベースを弾く気はなかったんですよ。ベーシストのソロアルバムでベースを弾くって当たり前で嫌だなぁと思ってたし、[デジタルロック](https://ja.wikipedia.org/wiki/デジタルロック "wikilink")にしたかったから\[2\]」「始めた初期のころはシンベでレコーディングしたんですけど、周りから"ベース弾きなよ"とか言われるし、だんだんそうなっちゃいましたね\[3\]」と述べている。ちなみに、収録曲の全曲でtetsuyaがギターを弾いているため、「ベーシストというよりギタリストですね」とtetsuyaは述べている。
 
-「wonderful world」は表記はされてないがアルバムバージョンとなっており、シングルではフェードアウトだったが、完奏して終了する。
-
-8曲の構成である理由について本人は、「1時間を越えるアルバムは聴いていて飽きる。自分だと8曲目くらいで聴くのをやめてしまう。それなら、曲数を落として値段も落とせないかと考えた」と語っている。
+「[wonderful world/TIGHTROPE](https://ja.wikipedia.org/wiki/wonderful_world/TIGHTROPE "wikilink")」、10万枚限定シングル「[蜃気楼](../Page/蜃気楼_\(TETSU69の曲\).md "wikilink")」「[15 1/2 フィフティーンハーフ](https://ja.wikipedia.org/wiki/15_1/2_フィフティーンハーフ "wikilink")」のシングル4曲を含む全8曲を収録。アルバムに初収録された「WHITE OUT」は後にリアレンジされ、「[WHITE OUT 〜memory of a color〜](../Page/WHITE_OUT_〜memory_of_a_color〜.md "wikilink")」としてシングルカットされた。ちなみに、「wonderful world」は表記はされてないがアルバムバージョンとなっており、シングルではフェードアウトだったが、完奏して終了するかたちで収録されている。収録曲が8曲の構成である理由について、「1時間を越えるアルバムは聴いていて飽きる。自分だと8曲目くらいで聴くのをやめてしまう。それなら、曲数を落として値段も落とせないかと考えた」とtetsuyaは語っている。
 
 ちなみにこのアルバムには8トラック目の後に、9トラック目から68トラック目まで約4秒間ずつの無音トラックが入っており、69トラック目に[シークレットトラックとして](../Page/隠しトラック.md "wikilink")3rdシングル「15 1/2 フィフティーンハーフ」に収録されている「TEZMANのテーマ」のロングバージョンが収録されている。
 
@@ -109,4 +107,12 @@ tetsuyaのソロ名義として初のオリジナルアルバム。次作『[COM
   - 上杉洋史：ピアノ
   - 中山信彦：プログラミング
 
+## 脚注
+
+<references />
+
 [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:tetsuyaのアルバム](https://ja.wikipedia.org/wiki/Category:tetsuyaのアルバム "wikilink")
+
+1.  リットーミュージック社『BASS MAGAZINE SPECIAL FEATURE SERIES/tetsuya L'Arc〜en〜Ciel』」、p.21、2010年
+2.
+3.

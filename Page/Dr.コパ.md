@@ -9,7 +9,7 @@
 
 祖父の代より三代続けて（三代続けて[神職](../Page/神職.md "wikilink")の事もあり）日本の伝統建築・風習・伝統行事・縁起・由来の開運法を研究しており、温泉を使った伝統的な開運法など、中国、アジア、西洋諸国の伝統開運法を吸収しつつオリジナルの開運術を考案。
 
-日本の[気学](https://ja.wikipedia.org/wiki/気学 "wikilink")、[方位学](https://ja.wikipedia.org/wiki/方位学 "wikilink")を主にしたこともあったが、風水ブームの到来により、自らの開運術を「風水」として強調。だが、自らを「風水師」と呼ぶことはない。幼少のころより父の友人であった[在日朝鮮人にも](../Page/在日韓国・朝鮮人.md "wikilink")[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")より伝わる[李朝風水](https://ja.wikipedia.org/wiki/李朝風水 "wikilink")・古来風水を学んでおり朝鮮風水の法則を自身の風水に生かしている、と自著で明かしている。[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")現地工場の風水的設計を任されたこともある。 長く一級建築士を自称していたが、不思議なことに最近は全く一級建築士を名乗っていない。
+日本の[気学](https://ja.wikipedia.org/wiki/気学 "wikilink")、[方位学](https://ja.wikipedia.org/wiki/方位学 "wikilink")を主にしたこともあったが、風水ブームの到来により、自らの開運術を「[風水](../Page/風水.md "wikilink")」として強調。だが、自らを「風水師」と呼ぶことはない。幼少のころより父の友人であった[在日朝鮮人にも](../Page/在日韓国・朝鮮人.md "wikilink")[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")より伝わる[李朝風水](https://ja.wikipedia.org/wiki/李朝風水 "wikilink")・古来風水を学んでおり朝鮮風水の法則を自身の風水に生かしている、と自著で明かしている。[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")現地工場の風水的設計を任されたこともある。 長く一級建築士を自称していたが、不思議なことに最近は全く一級建築士を名乗っていない。
 
 [ペンネーム](../Page/ペンネーム.md "wikilink")Dr.コパの名称の由来は「ある雑誌にコーナーを連載していた際に読者からの手紙がきて、本名の「小林さん」ではなく「コパさん」と書いてくる人がいたんですよ。能天気でイイんじゃん、てことで早速、採用。さらに部屋を診断するってことで”Dr."を付け足しちゃったんです（笑）。」と本人は語っている\[1\]。
 
@@ -53,7 +53,7 @@
 ### テレビ
 
   - Dr.コパの夢をかなえ富(ロマン)を築く風水術
-  - 〜開運マイホーム〜（BSデジタル・999ch　[知求チャンネル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）
+  - 〜開運マイホーム〜（BSデジタル・999ch　[知求チャンネル](../Page/日本BS放送.md "wikilink")）
   - Dr.コパのパワースポット神社（CSスカパー・277ch「[旅チャンネル](../Page/旅チャンネル.md "wikilink")」）
   - 旅ちゃんガイド（第30話ゲスト出演、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")「[京都の女庭師風水探偵さくら子](https://ja.wikipedia.org/wiki/京都の女庭師風水探偵さくら子 "wikilink")2」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
@@ -65,7 +65,7 @@
 
   - [サンデーパラダイス](../Page/サンデーパラダイス.md "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）
   - [寺内優のおはようラジオ](../Page/寺内優のおはようラジオ.md "wikilink")（[RCCラジオ](../Page/中国放送.md "wikilink")）
-  - [Dr.コパの黄金の扉](../Page/Dr.コパの黄金の扉.md "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+  - [Dr.コパの黄金の扉](../Page/Dr.コパの黄金の扉.md "wikilink")（[KBCラジオ](../Page/KBCラジオ.md "wikilink")）
   - [ふぁん☆タメ](../Page/ふぁん☆タメ.md "wikilink")（[YBSラジオ](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、月曜コメンテーター）
   - [いとしのオールディーズ](../Page/いとしのオールディーズ.md "wikilink")（2010年1月16日、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")）
   - [わが人生に乾杯\!](https://ja.wikipedia.org/wiki/わが人生に乾杯! "wikilink")（2011年1月27日、NHKラジオ第1放送）

@@ -18,7 +18,7 @@
 
 ### ラジオ
 
-放送時間は[2020年](../Page/2019年.md "wikilink")3月30日以降\[1\]。
+放送時間は2020年3月30日以降\[1\]。
 
 #### 平日
 
@@ -38,7 +38,15 @@
 
 ### テレビ
 
-テレビにおいては、2013年3月までは『みのもんたの朝ズバッ\!』（後の『[朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")』）の中で7:12頃にローカルニュースが放送されていたが、平日16時前のローカルニュース復活に伴って廃止され、以後は石川県内の天気などが放送されている。\[3\]
+1990年代、2000年代ぐらいまでは平日15:55 - 16:00（時間帯は変動あり）と平日22:54 - 23:00（土曜22時台も1988年3月26日まで放送されていた）に放送されていた。
+
+平日11:40- 11:45（1992年4月3日まで）、月曜と水曜を除く21:54 - 22:00に『MROニュース＆ウエザー』が放送されていた。
+
+これに加えて平日昼の『[JNNニュース](../Page/JNNニュース.md "wikilink")』でもローカルニュースが放送されていた。
+
+朝の時間帯は『[JNN8時のニュース](https://ja.wikipedia.org/wiki/JNN8時のニュース "wikilink")』『[朝のホットライン](https://ja.wikipedia.org/wiki/朝のホットライン "wikilink")』などで8時台にローカルニュースを伝えていた。
+
+『みのもんたの朝ズバッ\!』（後の『[朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")』）の中で7:12頃にローカルニュースが放送されていたが、平日16時前のローカルニュース復活に伴って廃止され、以後は石川県内の天気などが放送されている。\[3\]
 
 土曜および日曜の21時台にも『MROニュース』が設定されている理由は、2008年4月に『報道特集NEXT』（現：『[報道特集](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")』）が開始されたためである\[4\]。以前は土曜に『[MROテレポート6](../Page/MROテレポート6.md "wikilink")』や『[ホウトク\!](https://ja.wikipedia.org/wiki/ホウトク! "wikilink")』などの30分間のニュースがあったが、前述の理由でローカルニュース枠を確保するために時間設定された。土曜夕方放送の『報道特集』では当初はローカルニュースが内包されていたが、2009年10月の改編で廃枠となり、現在は[関東ローカル](../Page/関東ローカル.md "wikilink")のニュースをそのまま放送する形に切り替えられている。
 
@@ -85,9 +93,7 @@
   - [MROニュース](http://www.mro.co.jp/news/) - 北陸放送
   - [Yahoo\!ニュース MROテレビ](https://news.yahoo.co.jp/media/mrov) - 動画配信ニュースあり
 
-[Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink")
-
-[Category:北陸放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸放送のテレビ番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組 "wikilink") [Category:東海・北陸地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのミニ番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink") [Category:北陸放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:北陸放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:北國新聞](https://ja.wikipedia.org/wiki/Category:北國新聞 "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")
+[Category:北陸放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸放送のテレビ番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組 "wikilink") [Category:東海・北陸地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのミニ番組 "wikilink") [Category:東海・北陸地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビの帯番組 "wikilink") [Category:北陸放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:北陸放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:北國新聞](https://ja.wikipedia.org/wiki/Category:北國新聞 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink")
 
 1.
 2.  2018年4月の番組改編に伴い、『MROニュース全集』から改名。

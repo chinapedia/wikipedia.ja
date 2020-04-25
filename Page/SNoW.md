@@ -134,7 +134,7 @@
 ## 外部リンク
 
   - [SNoW オフィシャルサイト](https://snowjpofficial.com)
-  - [本人によるblog](http://ameblo.jp/snowofficial/)
+  - [本人によるblog](https://ameblo.jp/snowofficial/)
   - [SNoWオフィシャルTwitter](https://twitter.com/SNoWJPOfficial)
   - [SNoWオフィシャルFacebook](https://www.facebook.com/snowjpofficial/)
 

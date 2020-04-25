@@ -29,7 +29,6 @@
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")
   - [ABCニュース (朝日放送テレビ)](../Page/ABCニュース_\(朝日放送テレビ\).md "wikilink")
   - [たいむ6](../Page/たいむ6.md "wikilink")（後番組としてワイド化）
-  - [クレヨンしんちゃん (アニメ)](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")
 
 [Category:1962年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1962年のテレビ番組_\(日本\) "wikilink") [Category:朝日放送テレビ帯番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送テレビ帯番組の歴史 "wikilink") [Category:朝日放送テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビのミニ番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:朝日放送テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの一社提供番組 "wikilink") [Category:京阪電気鉄道](https://ja.wikipedia.org/wiki/Category:京阪電気鉄道 "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:ANNニュースレーダー](https://ja.wikipedia.org/wiki/Category:ANNニュースレーダー "wikilink")
 

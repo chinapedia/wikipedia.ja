@@ -13,7 +13,7 @@
 
 B'zは、本作の発売と同時に積極的なプロモーション活動を始め、ブレイクのきっかけを作った。しかし、収録曲は3曲とも7分を超えていることや、メンバーにとって遊び心や実験的な試みとしてリリースしたものであったため、ギターの[松本孝弘](../Page/松本孝弘.md "wikilink")は本作がヒットするとは全く思っていなかったという。本作は1枚目、2枚目のオリジナル・アルバムがヒットしせず、松本は「だいたい3枚目くらいのアルバムでヒットすれば結構いいみたいな時代だったんだよ。3枚目が厳しいとちょっとやばいかなって感じ」と語っており3枚目のオリジナル・アルバムをヒットに繋げるための布石だったと語っている\[3\]。ボーカルの[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")も、本作がヒットしたことについて当時は理解出来なかったという。
 
-非公認ベスト・アルバム『[Flash Back -B'z Early Special Titles-](https://ja.wikipedia.org/wiki/Flash_Back_-B'z_Early_Special_Titles- "wikilink")』には、全ての曲が収録されている。
+非公認ベスト・アルバム『[Flash Back -B'z Early Special Titles-](../Page/Flash_Back_-B'z_Early_Special_Titles-.md "wikilink")』には、全ての曲が収録されている。
 
 ## 記録
 

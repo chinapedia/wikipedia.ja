@@ -1,7 +1,7 @@
 > この記事は[ゴールデンゲームズinのべおか](https://ja.wikipedia.org/wiki/ゴールデンゲームズinのべおか)から翻訳されています。
 
 
-**ゴールデンゲームズinのべおか**（ゴールデンゲームズいんのべおか、Golden Games in Nobeoka）は毎年5月上旬（2011年までは5月下旬）に[宮崎県](../Page/宮崎県.md "wikilink")[延岡市](../Page/延岡市.md "wikilink")の[延岡市西階総合運動公園陸上競技場](https://ja.wikipedia.org/wiki/延岡市西階総合運動公園陸上競技場 "wikilink")で開催される[陸上競技](../Page/陸上競技.md "wikilink")大会。主催は宮崎陸上競技協会、ゴールデンゲームズinのべおか実行委員会。地元・延岡市を拠点にしている[旭化成陸上部](../Page/旭化成陸上部.md "wikilink")が協賛を行なう。
+**ゴールデンゲームズinのべおか**（ゴールデンゲームズいんのべおか、Golden Games in Nobeoka）は、毎年5月上旬（2011年までは5月下旬）に[宮崎県](../Page/宮崎県.md "wikilink")[延岡市](../Page/延岡市.md "wikilink")の[延岡市西階総合運動公園陸上競技場](https://ja.wikipedia.org/wiki/延岡市西階総合運動公園陸上競技場 "wikilink")で開催される[陸上競技](../Page/陸上競技.md "wikilink")大会。主催は宮崎陸上競技協会、ゴールデンゲームズinのべおか実行委員会。地元・延岡市を拠点にしている[旭化成陸上部](../Page/旭化成陸上部.md "wikilink")が協賛を行なう。
 
 ## 概要
 
@@ -28,7 +28,7 @@
   - [2017 ゴールデンゲームズ in のべおか](http://www.jaaf.or.jp/competition/detail/503/) - [日本陸上競技連盟](../Page/日本陸上競技連盟.md "wikilink")
   - [GGN速報室](http://www.docomoasahi.gr.jp/ggn/index.html)
 
-[Category:日本グランプリシリーズ](https://ja.wikipedia.org/wiki/Category:日本グランプリシリーズ "wikilink") [Category:宮崎県のスポーツ](https://ja.wikipedia.org/wiki/Category:宮崎県のスポーツ "wikilink") [Category:延岡市](https://ja.wikipedia.org/wiki/Category:延岡市 "wikilink") [Category:1990年開始のイベント](https://ja.wikipedia.org/wiki/Category:1990年開始のイベント "wikilink") [Category:5月](https://ja.wikipedia.org/wiki/Category:5月 "wikilink")
+[Category:日本グランプリシリーズ](https://ja.wikipedia.org/wiki/Category:日本グランプリシリーズ "wikilink") [Category:宮崎県のスポーツ](https://ja.wikipedia.org/wiki/Category:宮崎県のスポーツ "wikilink") [Category:延岡市](https://ja.wikipedia.org/wiki/Category:延岡市 "wikilink") [Category:1990年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1990年開始のスポーツイベント "wikilink") [Category:5月](https://ja.wikipedia.org/wiki/Category:5月 "wikilink")
 
 1.  [別冊宝島](../Page/別冊宝島.md "wikilink")458『マラソンに勝つ\!』（[宝島社](../Page/宝島社.md "wikilink")、[1999年](../Page/1999年.md "wikilink")）pp.30 - 41
 2.

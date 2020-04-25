@@ -157,7 +157,7 @@
   - 殺陣・武術指導：[林邦史朗](https://ja.wikipedia.org/wiki/林邦史朗 "wikilink")
   - 題字：[水谷勇夫](../Page/水谷勇夫.md "wikilink")
   - タイトル映像：[長谷川章](https://ja.wikipedia.org/wiki/長谷川章 "wikilink")
-  - 協力：[沖縄県](../Page/沖縄県.md "wikilink")[、読谷村](../Page/読谷村.md "wikilink")、[恩納村](../Page/恩納村.md "wikilink")、[那覇市](../Page/那覇市.md "wikilink")、[浦添市](../Page/浦添市.md "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")[坊津町](../Page/坊津町.md "wikilink")、沖縄県空手道連盟、[国営沖縄記念公園](../Page/国営沖縄記念公園.md "wikilink")、[中国中央電視台](../Page/中国中央電視台.md "wikilink")
+  - 協力：[沖縄県](../Page/沖縄県.md "wikilink")、[読谷村](../Page/読谷村.md "wikilink")、[恩納村](../Page/恩納村.md "wikilink")、[那覇市](../Page/那覇市.md "wikilink")、[浦添市](../Page/浦添市.md "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")[坊津町](../Page/坊津町.md "wikilink")、沖縄県空手道連盟、[国営沖縄記念公園](../Page/国営沖縄記念公園.md "wikilink")、[中国中央電視台](../Page/中国中央電視台.md "wikilink")
   - 制作：[音成正人](https://ja.wikipedia.org/wiki/音成正人 "wikilink")
   - 美術：石村嘉孝
   - 技術：上原康雄 雨海祥夫

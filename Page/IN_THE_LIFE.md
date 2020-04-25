@@ -133,15 +133,15 @@
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:1991年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:1992年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1992年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P24より
-2.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P26より
+1.
+2.
 3.
 4.
 5.
-6.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P22より
+6.
 7.
 8.
-9.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P23より
+9.
 10.
 11. バンドスコア『B'z IN THE LIFE』リットーミュージック 1992年
 12. 築響一「サルマネクリエイター天国18回」 『マルコポーロ』1994年10月号 文藝春秋社
@@ -151,7 +151,7 @@
 16.
 17. この時のライブ映像の一部が、17thアルバム『[MAGIC](https://ja.wikipedia.org/wiki/MAGIC_\(B'zのアルバム\) "wikilink")』の初回限定盤DVDに収録されている。
 18. 当時のB'zのレコーディングは[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")か、もしくは楽器それぞれでレコーディングすることがほとんどで、バンド構成での一発録りは初めてであった
-19. 『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P25より
+19.
 20.
 21.
 22. 3番目のサビから流れるコーラスと同じもの

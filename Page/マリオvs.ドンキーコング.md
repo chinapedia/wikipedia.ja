@@ -67,10 +67,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/マリオvs.ドンキーコング_みんなでミニランド" title="wikilink">マリオvs.ドンキーコング みんなでミニランド</a></p></td>
+<td></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/3月19日.md" title="wikilink">3月19日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Wii_U" title="wikilink">Wii U</a>・ニンテンドー3DS</p></td>
 <td><p>1万本</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/1月28日.md" title="wikilink">1月28日</a></p></td>
+<td><p>Wii U・ニンテンドー3DS<br />
+ダウンロード専用ソフト</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

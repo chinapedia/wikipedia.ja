@@ -23,7 +23,7 @@
 
 ### 水曜：from Paris "Club de Lustres"
 
-  - 進行担当は[VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")。「パリ発・音のシャワー」をコンセプトに放送。パリ現地のDJによる選曲で放送。
+  - 進行担当は[VieVie](../Page/VieVie.md "wikilink")。「パリ発・音のシャワー」をコンセプトに放送。パリ現地のDJによる選曲で放送。
 
 ### 木曜：from London "WORLDWIDE"
 

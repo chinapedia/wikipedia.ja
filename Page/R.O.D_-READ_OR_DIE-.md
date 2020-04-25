@@ -139,7 +139,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.sonymusic.co.jp/Animation/ROD/media/ovaindex.html)
-  - [バンダイチャンネル](http://www.b-ch.com/ttl/index.php?ttl_c=351)
+  - [バンダイチャンネル](https://www.b-ch.com/titles/351/)
 
 [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2001年のOVA](https://ja.wikipedia.org/wiki/Category:2001年のOVA "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:ライトノベルを原作とするアニメ作品](https://ja.wikipedia.org/wiki/Category:ライトノベルを原作とするアニメ作品 "wikilink") [Category:図書館を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:図書館を題材としたアニメ作品 "wikilink") [Category:書物を題材とした作品](https://ja.wikipedia.org/wiki/Category:書物を題材とした作品 "wikilink") [Category:歴史の人物を題材とした作品](https://ja.wikipedia.org/wiki/Category:歴史の人物を題材とした作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink")
 

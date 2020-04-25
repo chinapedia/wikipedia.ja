@@ -10,7 +10,7 @@
   - [2004年](../Page/2004年.md "wikilink")、アルバム『(B)APE SOUNDS』に収録された楽曲「KAMIKAZE 108」で結成。
   - [2005年](../Page/2005年.md "wikilink")、国内外のアーティストを[プロデューサーに迎え](../Page/音楽プロデューサー.md "wikilink")、アルバム『[BEEF or CHICKEN](../Page/BEEF_or_CHICKEN.md "wikilink")』をリリースした。
   - [2006年](../Page/2006年.md "wikilink")、アルバム『BEEF or CHICKEN』が日本国外でリリースされ、[MTV](../Page/MTV.md "wikilink")アジア・アウォーズに日本代表として出演。
-  - [2007年](../Page/2007年.md "wikilink")1月、[カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")プロデュースによる1stシングル「I still love H.E.R. feat.KANYE WEST」をリリースし、テレビ朝日「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」にてカニエ・ウェストとともに出演。
+  - [2007年](../Page/2007年.md "wikilink")1月、[カニエ・ウェスト](../Page/カニエ・ウェスト.md "wikilink")プロデュースによる1stシングル「I still love H.E.R. feat.KANYE WEST」をリリースし、テレビ朝日「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」にてカニエ・ウェストとともに出演。
   - [2007年](../Page/2007年.md "wikilink")7月、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")FORMOZ FESTIVAL2007に出演。
   - [2007年](../Page/2007年.md "wikilink")8月、[SUMMER SONIC'07に出演](../Page/サマーソニック.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")9月、NEW YORK-TOKYO MUSICフェスティバルに出演し、日本人HIP HOPアーティストとして初めてセントラルパークにてライブを行った。
@@ -104,7 +104,7 @@ UMCK-1290:通常盤</p></td>
 <li>HeartBreaker(Full Phatt Remix)</li>
 <li>I still love H.E.R. feat.Kanye West(Inst.)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カニエ・ウェスト" title="wikilink">カニエ・ウェスト</a>プロデュース。<br />
+<td><p><a href="../Page/カニエ・ウェスト.md" title="wikilink">カニエ・ウェスト</a>プロデュース。<br />
 <a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/JAPAN_COUNTDOWN.md" title="wikilink">JAPAN COUNTDOWN</a>」2007年1月期OPテーマ。<br />
 オリコン最高12位、登場回数6回</p></td>
 </tr>
@@ -195,9 +195,10 @@ UMCK-5227:通常盤</p></td>
   - [A BATHING APE](../Page/A_BATHING_APE.md "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
+  - [TERIYAKI BEEF](https://ja.wikipedia.org/wiki/SEEDA#TERIYAKI_BEEF)
 
 ## 外部リンク
 
-  - [TERIYAKI BOYZ テリヤキボーイズ OFFICIAL BLOG](http://ameblo.jp/teriyakiblog)
+  - [TERIYAKI BOYZ テリヤキボーイズ OFFICIAL BLOG](https://ameblo.jp/teriyakiblog)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:デフ・ジャム・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:デフ・ジャム・ジャパンのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")

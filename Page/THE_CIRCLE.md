@@ -29,7 +29,7 @@
 
 1.  **THE CIRCLE** (1:57)
       -
-        仮タイトルは、「surya」([ヒンズー語](https://ja.wikipedia.org/wiki/ヒンズー語 "wikilink")で「太陽」を意味する)。
+        仮タイトルは、「surya」([ヒンディー語](../Page/ヒンディー語.md "wikilink")で「太陽」を意味する)。
         本曲における「CIRCLE」は、アルバムタイトルとは異なり「[太陽](../Page/太陽.md "wikilink")」という意味。
         演奏時間が2分に満たない1コーラスのみの楽曲で、アルバムの[イントロダクション](https://ja.wikipedia.org/wiki/イントロダクション "wikilink")となる曲である。
         [エスニック調のアレンジがなされている](../Page/民族音楽.md "wikilink")。これは松本が[プーケット](https://ja.wikipedia.org/wiki/プーケット "wikilink")に旅行に行った際に[ガムラン](../Page/ガムラン.md "wikilink")風の音楽を聴いたことが影響している。

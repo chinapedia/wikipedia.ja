@@ -1,4 +1,4 @@
-> この記事は[BLEACH B STATION](https://ja.wikipedia.org/wiki/BLEACH_B_STATION)から翻訳されています。
+> この記事は[BLEACH “B” STATION](https://ja.wikipedia.org/wiki/BLEACH_“B”_STATION)から翻訳されています。
 
 
 『**BLEACH “B” STATION**』（ブリーチ ビー ステーション）は、[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")まで[ラジオ大阪製作で](../Page/大阪放送.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")にネットして放送されていた[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』関連の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

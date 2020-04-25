@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[キルマーノックFC](https://ja.wikipedia.org/wiki/キルマーノックFC)から翻訳されています。
 
 
 **キルマーノックFC**（）は、[スコットランド](../Page/スコットランド.md "wikilink")の南部、[イースト・エアシャー](https://ja.wikipedia.org/wiki/イースト・エアシャー "wikilink")のタウンの[キルマーノック](https://ja.wikipedia.org/wiki/キルマーノック "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

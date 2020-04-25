@@ -1,4 +1,4 @@
-> この記事は[YM ](https://ja.wikipedia.org/wiki/YM_)から翻訳されています。
+> この記事は[Y十M 〜柳生忍法帖〜](https://ja.wikipedia.org/wiki/Y十M_〜柳生忍法帖〜)から翻訳されています。
 
 
 『**Y十M 〜柳生忍法帖〜**』（ワイじゅうエム やぎゅうにんぽうちょう）は、原作：[山田風太郎](../Page/山田風太郎.md "wikilink")（『[柳生忍法帖](../Page/柳生忍法帖.md "wikilink")』）、作画：[せがわまさき](../Page/せがわまさき.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[時代劇](../Page/時代劇.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。2005年から2008年にかけて『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）に掲載された。コミックスは全11巻、全100話。
@@ -86,7 +86,7 @@
   - [柳生宗矩](../Page/柳生宗矩.md "wikilink")（やぎゅう むねのり）
     十兵衛の父。元将軍家剣術師範であり、[大目付](../Page/大目付.md "wikilink")という高官でもあった。1万2千石の[大名](../Page/大名.md "wikilink")にまでなり、異例の出世を果たした剣客で、家光に諫言できる立場にある。厳格な彼と十兵衛はそりが合わないようである。会津での決着時に付き従って登場したその側近衆も、十兵衛が自らより力量が上と認める剣客である。前作『バジリスク 〜甲賀忍法帖〜』に続いての登場。
 
-## 単行本
+## 書誌情報
 
   - せがわまさき『Y十M 〜柳生忍法帖〜』 [講談社](../Page/講談社.md "wikilink")〈ヤンマガKCスペシャル〉、全11巻
     1.  2005年11月4日発売 ISBN 4-06-361389-5
@@ -105,4 +105,4 @@
 
   - [講談社コミックプラス - Y十M 〜柳生忍法帖〜 紹介ページ](http://kc.kodansha.co.jp/content/top.php/1000002474)
 
-[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:忍法帖シリーズ](https://ja.wikipedia.org/wiki/Category:忍法帖シリーズ "wikilink") [Category:江戸時代を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台とした漫画作品 "wikilink") [Category:柳生氏を題材とした作品](https://ja.wikipedia.org/wiki/Category:柳生氏を題材とした作品 "wikilink") [Category:文学を原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:文学を原作とする漫画作品 "wikilink") [Category:復讐を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:復讐を題材とした漫画作品 "wikilink")
+[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:週刊ヤングマガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングマガジンの漫画作品 "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:忍法帖シリーズ](https://ja.wikipedia.org/wiki/Category:忍法帖シリーズ "wikilink") [Category:江戸時代を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台とした漫画作品 "wikilink") [Category:柳生氏を題材とした作品](https://ja.wikipedia.org/wiki/Category:柳生氏を題材とした作品 "wikilink") [Category:文学を原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:文学を原作とする漫画作品 "wikilink") [Category:復讐を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:復讐を題材とした漫画作品 "wikilink")

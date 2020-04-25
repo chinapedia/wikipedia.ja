@@ -1,4 +1,4 @@
-> この記事は[DSIRE](https://ja.wikipedia.org/wiki/DSIRE)から翻訳されています。
+> この記事は[D≒SIRE](https://ja.wikipedia.org/wiki/D≒SIRE)から翻訳されています。
 
 
 **D≒SIRE**（デザイア）は[インディーズ](../Page/インディーズ.md "wikilink")を中心に活動した[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")のロックバンド。

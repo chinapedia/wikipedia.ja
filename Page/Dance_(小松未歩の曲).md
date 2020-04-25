@@ -1,4 +1,4 @@
-> この記事は[Dance \(\)](https://ja.wikipedia.org/wiki/Dance_\(\))から翻訳されています。
+> この記事は[Dance \(小松未歩の曲\)](https://ja.wikipedia.org/wiki/Dance_\(小松未歩の曲\))から翻訳されています。
 
 
 『**dance**』（ダンス）は、[小松未歩](../Page/小松未歩.md "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。2002年5月29日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-2038\[1\]。
@@ -43,6 +43,6 @@
   - [大賀好修](../Page/大賀好修.md "wikilink")（[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
   - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
-[Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  ビーイングと新光グループの提携で設立された[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")企業、新光美音（Shin Kong Being）の品番はSBCS-2009。

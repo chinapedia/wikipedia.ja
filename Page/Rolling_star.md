@@ -46,6 +46,6 @@
 
 </div>
 
-[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:BLEACHのアニメソング](https://ja.wikipedia.org/wiki/Category:BLEACHのアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:ロ短調](https://ja.wikipedia.org/wiki/Category:ロ短調 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")
+[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:BLEACHのアニメソング](https://ja.wikipedia.org/wiki/Category:BLEACHのアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")
 
 1.

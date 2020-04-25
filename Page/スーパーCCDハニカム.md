@@ -1,4 +1,4 @@
-> この記事は[CCD](https://ja.wikipedia.org/wiki/CCD)から翻訳されています。
+> この記事は[スーパーCCDハニカム](https://ja.wikipedia.org/wiki/スーパーCCDハニカム)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Fuji_F10.jpg "wikilink") **スーパーCCDハニカム**®（スーパーシーシーディーハニカム)とは[富士フイルム](../Page/富士フイルム.md "wikilink")が開発した八角形の[ハニカム構造](../Page/ハニカム構造.md "wikilink")を採用した[CCDイメージセンサ](../Page/CCDイメージセンサ.md "wikilink")の名称であり、同社の登録商標である。

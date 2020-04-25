@@ -36,6 +36,8 @@
 
 PSDはレイヤーを保持したままインポートおよびエクスポートが可能である。PNGおよびTGAは、アルファチャンネルを含めた[32ビット](../Page/32ビット.md "wikilink")[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")でインポート・エクスポートできる。PNGの場合、透過PNGとしての保存が可能である。
 
+## 脚注
+
 ## 外部リンク
 
   - [SYSTEMAX Software Development](http://www.systemax.jp/ja/) - 公式[サイト](../Page/ウェブサイト.md "wikilink")

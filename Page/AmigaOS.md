@@ -234,6 +234,7 @@ AmigaOSの一部バージョンには[著作権](../Page/著作権.md "wikilink"
   - [AmigaOne](https://ja.wikipedia.org/wiki/AmigaOne "wikilink")
   - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
   - [岩井俊雄](../Page/岩井俊雄.md "wikilink")
+  - [Guru Meditation](../Page/Guru_Meditation.md "wikilink")
 
 ## 外部リンク
 

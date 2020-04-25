@@ -1,4 +1,4 @@
-> この記事は[MOTHER \(LUNA SEA\)](https://ja.wikipedia.org/wiki/MOTHER_\(LUNA_SEA\))から翻訳されています。
+> この記事は[MOTHER \(LUNA SEAのアルバム\)](https://ja.wikipedia.org/wiki/MOTHER_\(LUNA_SEAのアルバム\))から翻訳されています。
 
 
 **MOTHER**（マザー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")4枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。初回限定盤は、透明帯・ピクチャーレーベル・ブックレット付き。
@@ -10,6 +10,8 @@
 「前アルバムの製作によって得たものを次作に生かしてきたという意味で、『[LUNA SEA](../Page/LUNA_SEA_\(アルバム\).md "wikilink")』『[IMAGE](../Page/IMAGE_\(LUNA_SEAのアルバム\).md "wikilink")』『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』という“3部作”が完結したと思っている。でも、これで終わるのではなく、より“本物”を目指したい」というメンバーの思いの下、製作が行われた。メンバーの一人、SUGIZO曰く「バンドマジックが生まれた」作品に仕上がった\[1\]。
 
 また、[マニピュレーター](../Page/マニピュレーター.md "wikilink")兼[キーボーディスト](../Page/キーボーディスト.md "wikilink")であるd-kikuこと[菊地大輔](https://ja.wikipedia.org/wiki/菊地大輔 "wikilink")が製作に関わり始めたのもこの頃である\[2\]\[3\]。
+
+アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

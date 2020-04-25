@@ -1,4 +1,4 @@
-> この記事は[SANKYO](https://ja.wikipedia.org/wiki/SANKYO)から翻訳されています。
+> この記事は[SANKYOレディースオープン](https://ja.wikipedia.org/wiki/SANKYOレディースオープン)から翻訳されています。
 
 
 **SANKYOレディースオープン**は、[2000年](../Page/2000年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで毎年10月第1週から第2週に[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台製造メーカーの[SANKYOの主催で](../Page/三共_\(パチンコ\).md "wikilink")、同社の創業地である[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を舞台に行われていた[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つであった](../Page/トーナメント方式.md "wikilink")。

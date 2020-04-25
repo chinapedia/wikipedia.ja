@@ -1,4 +1,4 @@
-> この記事は[C\&C](https://ja.wikipedia.org/wiki/C\&C)から翻訳されています。
+> この記事は[C\&C賞](https://ja.wikipedia.org/wiki/C\&C賞)から翻訳されています。
 
 
 **C\&C賞**（C\&Cしょう）は、[日本電気](../Page/日本電気.md "wikilink")が設立した公益財団法人 NEC C\&C 財団が授与する賞。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")創設。[半導体](../Page/半導体.md "wikilink")、[情報処理](../Page/情報処理.md "wikilink")、[電気通信](../Page/電気通信.md "wikilink")などに関わる事業、[工学](../Page/工学.md "wikilink")、[科学](../Page/科学.md "wikilink")分野への貢献を顕彰し、原則として毎年2件贈られる。副賞は 1件につき1000万円。

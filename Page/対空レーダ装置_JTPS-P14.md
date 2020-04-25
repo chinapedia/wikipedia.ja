@@ -1,7 +1,7 @@
-> この記事は[ JTPS-P14](https://ja.wikipedia.org/wiki/_JTPS-P14)から翻訳されています。
+> この記事は[対空レーダ装置 JTPS-P14](https://ja.wikipedia.org/wiki/対空レーダ装置_JTPS-P14)から翻訳されています。
 
 
-**対空レーダ装置 JTPS-P14**（たいくうレーダそうち ジェイティーピーエスピーフじゅうよん）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の装備。対空警戒用の[レーダー](../Page/レーダー.md "wikilink")装置として[高射特科](https://ja.wikipedia.org/wiki/高射特科 "wikilink")部隊に配備される。[三菱電機](../Page/三菱電機.md "wikilink")が開発・製造している。
+**対空レーダ装置 JTPS-P14**（たいくうレーダそうち ジェイティーピーエスピーじゅうよん）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の装備。対空警戒用の[レーダー](../Page/レーダー.md "wikilink")装置として[高射特科](https://ja.wikipedia.org/wiki/高射特科 "wikilink")部隊に配備される。[三菱電機](../Page/三菱電機.md "wikilink")が開発・製造している。
 
 ## 特徴
 
@@ -11,7 +11,7 @@
 
 なお探知距離については正確な数値は不明であるが、2010年4月29日に行われた[下志津駐屯地](../Page/下志津駐屯地.md "wikilink")創設55周年記念行事の展示にて、下志津から[仙台や](../Page/仙台市.md "wikilink")[名古屋上空の航空機を探知可能](../Page/名古屋市.md "wikilink")（双方とも下志津から約300kmの距離）と解説されている。
 
-配備から20年以上が経過しており、更新という形で探知精度や中・高空域の目標情報の迅速・正確な収集・処理・伝送及び機動性の向上を図った新たな対空レーダ装置1号JTPS-P25が対空戦闘指揮統制システムの一つとして開発され、[2012年](../Page/2012年.md "wikilink")度より配備される予定である。
+配備から20年以上が経過しており、更新という形で探知精度や中・高空域の目標情報の迅速・正確な収集・処理・伝送及び機動性の向上を図った新たな[対空レーダ装置 JTPS-P25が対空戦闘指揮統制システムの一つとして開発され](../Page/対空レーダ装置_JTPS-P25.md "wikilink")、[2012年](../Page/2012年.md "wikilink")度より配備された。
 
 ## 参考文献
 
@@ -26,6 +26,6 @@
 
 ## 外部リンク
 
-  - [陸上自衛隊主要装備-対空レーダ装置](http://www.mod.go.jp/gsdf/equipment/ce/4_1.html)
+  - [陸上自衛隊主要装備-通信・電子器材](https://www.mod.go.jp/gsdf/equipment/ce/index.html)
 
 [Category:陸上自衛隊のレーダ装置](https://ja.wikipedia.org/wiki/Category:陸上自衛隊のレーダ装置 "wikilink") [Category:三菱電機のレーダー](https://ja.wikipedia.org/wiki/Category:三菱電機のレーダー "wikilink")

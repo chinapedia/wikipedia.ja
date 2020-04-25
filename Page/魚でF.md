@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[魚でF](https://ja.wikipedia.org/wiki/魚でF)から翻訳されています。
 
 
 **魚でF**（さかなでエフ）は、日本の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。2002年結成。かつて[ホリプロコム](../Page/ホリプロコム.md "wikilink")に所属していた。

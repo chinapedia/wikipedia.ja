@@ -1,4 +1,4 @@
-> この記事は[TTT](https://ja.wikipedia.org/wiki/TTT)から翻訳されています。
+> この記事は[TTT図](https://ja.wikipedia.org/wiki/TTT図)から翻訳されています。
 
 
 [T-T-T-diagram.svg](https://ja.wikipedia.org/wiki/File:T-T-T-diagram.svg "fig:T-T-T-diagram.svg") **TTT図** (TTTず、)とは、縦軸に線形目盛で[温度](../Page/温度.md "wikilink")を、横軸に[対数目盛](https://ja.wikipedia.org/wiki/対数目盛 "wikilink")で[時間](../Page/時間.md "wikilink")をとることで、温度と時間による[鋼](../Page/鋼.md "wikilink")の組織の変化を示した図である。[共析鋼](https://ja.wikipedia.org/wiki/共析鋼 "wikilink")の炭素含有率で示されたものが一般的である。**S曲線**、**恒温変態曲線** () などの呼び方がある。

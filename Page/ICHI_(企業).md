@@ -1,4 +1,4 @@
-> この記事は[ICHI \(\)](https://ja.wikipedia.org/wiki/ICHI_\(\))から翻訳されています。
+> この記事は[ICHI \(企業\)](https://ja.wikipedia.org/wiki/ICHI_\(企業\))から翻訳されています。
 
 
 **株式会社ICHI**（イチ）は、[アニメーション](../Page/アニメーション.md "wikilink")作品の[版権](../Page/版権.md "wikilink")管理および、[実写映画](https://ja.wikipedia.org/wiki/実写映画 "wikilink")を主体とした[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")作品の[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")・[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")を主な事業内容とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[8月](../Page/8月.md "wikilink")に**ナック**（正式社名：**株式会社KnacK**）から社名を変更した。
@@ -19,41 +19,42 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[8月26日](../Page/8月26日.md "wikilink")付で**株式会社 ICHI**に社名を変更した。
 
-[2017年](../Page/2017年.md "wikilink")（平成29年）4月、吉野晴亮と吉野百子が共同で代表取締役社長に就任。同年12月、「ドンチャックビル」の愛称で親しまれた本社ビル（[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")関町北1丁目14番7号）を解体し、現住所に移転。
+[2017年](../Page/2017年.md "wikilink")（平成29年）4月、吉野晴亮\[1\]と吉野百子が共同で代表取締役社長に就任。同年12月、「ドンチャックビル」の愛称で親しまれた本社ビル（[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")関町北1丁目14番7号）を解体し、現住所に移転。
 
-[2018年](../Page/2018年.md "wikilink")（平成30年）9月25日、創業者の西野清市が死去。
+[2018年](../Page/2018年.md "wikilink")（平成30年）9月25日、前社長の西野清市が死去。
 
-2018年現在は、『チャージマン研\!』をはじめとするアニメ作品の版権管理・プロモーションを中心に活動している。
+2020年現在は、『チャージマン研\!』をはじめとするアニメ作品の版権管理・プロモーションを中心に活動している。
 
 ## 主な作品
 
 ### アニメ
 
-#### テレビシリーズ
+| タイトル                                                                                           | 放送期間                                | 放送局                                                               | 備考                                                              |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------- |
+| [いじわるばあさん](../Page/いじわるばあさん.md "wikilink")                                                     | 1970年 - 1971年                       | [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")                          |                                                                 |
+| [正義を愛する者 月光仮面](../Page/月光仮面.md "wikilink")                                                     | 1972年                               | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")                           |                                                                 |
+| [アストロガンガー](../Page/アストロガンガー.md "wikilink")                                                     | 1972年 - 1973年                       |                                                                   |                                                                 |
+| [ダメおやじ](../Page/ダメおやじ.md "wikilink")                                                           | 1974年                               | [東京12チャンネル](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")       |                                                                 |
+| [チャージマン研\!](../Page/チャージマン研!.md "wikilink")                                                    | [TBS](../Page/TBSテレビ.md "wikilink") |                                                                   |                                                                 |
+| [ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink")                                                   | 1975年 - 1978年                       | 東京12チャンネル                                                         |                                                                 |
+| [グロイザーX](../Page/グロイザーX.md "wikilink")                                                         | 1976年 - 1977年                       |                                                                   |                                                                 |
+| [星の王子さま プチ・プランス](../Page/星の王子さま.md "wikilink")                                                 | 1978年 - 1979年                       | [朝日放送](../Page/朝日放送テレビ.md "wikilink")                             |                                                                 |
+| [まんが猿飛佐助](../Page/まんが猿飛佐助.md "wikilink")                                                       | 1979年-1980年                         | 東京12チャンネル                                                         |                                                                 |
+| [スーキャット](../Page/スーキャット.md "wikilink")                                                         | 1980年                               |                                                                   |                                                                 |
+| [まんが 水戸黄門](../Page/まんが_水戸黄門.md "wikilink")                                                     | 1981年 - 1982年                       | 東京12チャンネル→[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") |                                                                 |
+| [サイボットロボッチ](../Page/サイボットロボッチ.md "wikilink")                                                   | 1982年 - 1983年                       | テレビ東京                                                             |                                                                 |
+| [一ッ星家のウルトラ婆さん](../Page/一ッ星家のウルトラ婆さん.md "wikilink")                                             | よみうりテレビ                             |                                                                   |                                                                 |
+| [サイコアーマー ゴーバリアン](../Page/サイコアーマー_ゴーバリアン.md "wikilink")                                         | 1983年                               | テレビ東京                                                             |                                                                 |
+| [ドリトル先生物語](https://ja.wikipedia.org/wiki/ドリトル先生物語_\(アニメ\) "wikilink")                          | 1984年 (1997年-1998年)                 | [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")              | 日米合作、日本では1997年からNHK・[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")で放送 |
+| [アタッカーYOU\!](../Page/アタッカーYOU!.md "wikilink")                                                  | 1984年 - 1985年                       | テレビ東京                                                             |                                                                 |
+| [Oh\!ファミリー](https://ja.wikipedia.org/wiki/Oh!ファミリー "wikilink")                                 | 1986年 - 1987年                       |                                                                   |                                                                 |
+| [マンガ日本経済入門](../Page/マンガ日本経済入門.md "wikilink")                                                   | 1987年 - 1988年                       |                                                                   |                                                                 |
+| [桃太郎伝説 PEACHBOY LEGEND](../Page/桃太郎伝説_\(アニメ\).md "wikilink")                                   | 1989年 - 1990年                       |                                                                   |                                                                 |
+| [PEACH COMMAND 新桃太郎伝説](../Page/桃太郎伝説_\(アニメ\).md "wikilink")                                    | 1990年 - 1991年                       |                                                                   |                                                                 |
+| [2020年ワンダー・キディ](https://ja.wikipedia.org/wiki/2020年ワンダー・キディ "wikilink")                        | 1992年                               | [NHK BS2](https://ja.wikipedia.org/wiki/NHK_BS2 "wikilink")       | 韓国アニメ。日本語吹替版の制作および配給                                            |
+| ''New Attacker You ''（続・[アタッカーYOU](https://ja.wikipedia.org/wiki/アタッカーYOU "wikilink") 金メダルへの道） | 2008年                               |                                                                   | 日本国内未公開。イタリアでのみ放映                                               |
 
-  - [いじわるばあさん](../Page/いじわるばあさん.md "wikilink")（第1作）（1970年 - 1971年）
-  - [正義を愛する者 月光仮面](../Page/月光仮面.md "wikilink")（1972年）
-  - [アストロガンガー](../Page/アストロガンガー.md "wikilink")（1972年 - 1973年）
-  - [ダメおやじ](../Page/ダメおやじ.md "wikilink")（1974年）
-  - [チャージマン研\!](../Page/チャージマン研!.md "wikilink")（1974年）
-  - [ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink")（1975年 - 1978年）
-  - [グロイザーX](../Page/グロイザーX.md "wikilink")（1976年 - 1977年）
-  - [星の王子さま プチ・プランス](../Page/星の王子さま.md "wikilink")（1978年 - 1979年）
-  - [まんが猿飛佐助](../Page/まんが猿飛佐助.md "wikilink")（1979年-1980年）
-  - [スーキャット](../Page/スーキャット.md "wikilink")（1980年）
-  - [まんが 水戸黄門](../Page/まんが_水戸黄門.md "wikilink")（1981年 - 1982年）
-  - [サイボットロボッチ](../Page/サイボットロボッチ.md "wikilink")（1982年 - 1983年）
-  - [一ッ星家のウルトラ婆さん](../Page/一ッ星家のウルトラ婆さん.md "wikilink")（1982年 - 1983年）
-  - [サイコアーマー ゴーバリアン](../Page/サイコアーマー_ゴーバリアン.md "wikilink")（1983年）
-  - [ドリトル先生物語](https://ja.wikipedia.org/wiki/ドリトル先生物語_\(アニメ\) "wikilink")（1984年） - 日米合作、日本では1997年からNHK・[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")で放送
-  - [アタッカーYOU\!](../Page/アタッカーYOU!.md "wikilink")（1984年 - 1985年）
-  - [Oh\!ファミリー](https://ja.wikipedia.org/wiki/Oh!ファミリー "wikilink")（1986年 - 1987年）
-  - [マンガ日本経済入門](../Page/マンガ日本経済入門.md "wikilink")（1987年 - 1988年）
-  - [桃太郎伝説シリーズ](../Page/桃太郎伝説_\(アニメ\).md "wikilink")
-      - 桃太郎伝説 PEACHBOY LEGEND（1989年 - 1990年）
-      - PEACH COMMAND 新桃太郎伝説（1990年 - 1991年）
-  - [2020年ワンダー・キディ](https://ja.wikipedia.org/wiki/2020年ワンダー・キディ "wikilink")（1992年、韓国アニメ。日本語吹替版の制作および配給）
-  - ''New Attacker You ''（続・[アタッカーYOU](https://ja.wikipedia.org/wiki/アタッカーYOU "wikilink") 金メダルへの道）（2008年、日本国内未公開。イタリアでのみ放映）
+テレビシリーズ
 
 #### [OVA](../Page/OVA.md "wikilink")
 
@@ -183,3 +184,5 @@
 
   -
 [Category:ICHI](https://ja.wikipedia.org/wiki/Category:ICHI "wikilink") [Category:日本の映画制作会社](https://ja.wikipedia.org/wiki/Category:日本の映画制作会社 "wikilink") [Category:日本のアニメスタジオ](https://ja.wikipedia.org/wiki/Category:日本のアニメスタジオ "wikilink") [Category:伊東市の企業](https://ja.wikipedia.org/wiki/Category:伊東市の企業 "wikilink")
+
+1.  [2019年](../Page/2019年.md "wikilink")（平成31年）3月31日に辞任。

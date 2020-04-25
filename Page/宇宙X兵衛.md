@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[宇宙X兵衛](https://ja.wikipedia.org/wiki/宇宙X兵衛)から翻訳されています。
 
 
 『**宇宙X兵衛**』（うちゅうじゅうべえ）は、[吉崎観音](../Page/吉崎観音.md "wikilink")による漫画作品。

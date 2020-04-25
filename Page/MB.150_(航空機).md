@@ -1,4 +1,4 @@
-> この記事は[MB.150 \(\)](https://ja.wikipedia.org/wiki/MB.150_\(\))から翻訳されています。
+> この記事は[MB.150 \(航空機\)](https://ja.wikipedia.org/wiki/MB.150_\(航空機\))から翻訳されています。
 
 
 **ＭＢ.150**シリーズは、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ブロック社によって開発され](../Page/ダッソー.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で使用された[戦闘機](../Page/戦闘機.md "wikilink")である。生産型の**MB.151**、**MB.152**合わせて600機以上生産され、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の侵攻時に使われたほか、休戦後は[ヴィシー政府軍でも使用された](../Page/ヴィシー政権.md "wikilink")。フランス降伏前にMB.151が少数機[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")に輸出された。

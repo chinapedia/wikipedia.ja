@@ -1,4 +1,4 @@
-> この記事は[ORANGE RANGE \(2006\)](https://ja.wikipedia.org/wiki/ORANGE_RANGE_\(2006\))から翻訳されています。
+> この記事は[ORANGE RANGE \(2006年のアルバム\)](https://ja.wikipedia.org/wiki/ORANGE_RANGE_\(2006年のアルバム\))から翻訳されています。
 
 
 『**ORANGE RANGE**』（オレンジレンジ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")4枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")のgr8\! recordsより2006年12月に発売。

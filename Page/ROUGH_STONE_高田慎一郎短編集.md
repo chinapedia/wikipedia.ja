@@ -1,4 +1,4 @@
-> この記事は[ROUGH STONE ](https://ja.wikipedia.org/wiki/ROUGH_STONE_)から翻訳されています。
+> この記事は[ROUGH STONE 高田慎一郎短編集](https://ja.wikipedia.org/wiki/ROUGH_STONE_高田慎一郎短編集)から翻訳されています。
 
 
 『**ROUGH STONE 高田慎一郎短編集**』（ラフ ストーン たかだしんいちろう たんぺんしゅう）は、[高田慎一郎](../Page/高田慎一郎.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を集めた作品集。タイトルにもある『**[ROUGH STONE](https://ja.wikipedia.org/wiki/#ROUGH_STONE "wikilink")**』（ラフ ストーン）を含め全4話の短編漫画を収録している。初出はいずれも[1994年](../Page/1994年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")で、高田慎一郎の作品としては初期のものである。

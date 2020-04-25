@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[バイラルCM](https://ja.wikipedia.org/wiki/バイラルCM)から翻訳されています。
 
 
 **バイラルCM**とは、[インターネット](../Page/インターネット.md "wikilink")上の[口コミ](../Page/口コミ.md "wikilink")（[ブログ](../Page/ブログ.md "wikilink")、[SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")、[BBSなど](../Page/電子掲示板.md "wikilink")）で話題となることを目論んで制作され、ネット配信される[CMのことである](../Page/コマーシャルメッセージ.md "wikilink")。なお、『[バイラル・マーケティング](https://ja.wikipedia.org/wiki/バイラル・マーケティング "wikilink")』に関しても、本稿で述べる。

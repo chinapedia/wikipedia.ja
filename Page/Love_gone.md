@@ -34,4 +34,4 @@
   - [大賀好修](../Page/大賀好修.md "wikilink")（[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
   - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
 
-[Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink")
+[Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

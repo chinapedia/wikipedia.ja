@@ -1,4 +1,4 @@
-> この記事は[CREATIVE COMPANY ](https://ja.wikipedia.org/wiki/CREATIVE_COMPANY_)から翻訳されています。
+> この記事は[CREATIVE COMPANY 冨田和音株式会社](https://ja.wikipedia.org/wiki/CREATIVE_COMPANY_冨田和音株式会社)から翻訳されています。
 
 
 『**CREATIVE COMPANY 冨田和音株式会社**』（クリエイティブカンパニー とみたかずねかぶしきがいしゃ）は、[1989年](../Page/1989年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に[中部日本放送](../Page/中部日本放送.md "wikilink")（[CBCラジオ](../Page/CBCラジオ.md "wikilink")）で放送されていた、夜の若者向け[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称『**冨カン**』（とみカン）。

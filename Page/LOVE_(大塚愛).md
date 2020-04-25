@@ -1,4 +1,4 @@
-> この記事は[LOVE \(\)](https://ja.wikipedia.org/wiki/LOVE_\(\))から翻訳されています。
+> この記事は[LOVE \(大塚愛\)](https://ja.wikipedia.org/wiki/LOVE_\(大塚愛\))から翻訳されています。
 
 
 **LOVE**（ラブ）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")がデザインを施した、[ウサギ](../Page/ウサギ.md "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")。

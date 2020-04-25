@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[カーディフ・シティFC](https://ja.wikipedia.org/wiki/カーディフ・シティFC)から翻訳されています。
 
 
 **カーディフ・シティFC**（、 ）は、[ウェールズ](../Page/ウェールズ.md "wikilink")の首都[カーディフ](../Page/カーディフ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。イングランドプロサッカーリーグ（[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")）に加盟するプロサッカークラブ。1899年に**リヴァーサイドAFC**（**Riverside A.F.C.**）として創設され、1908年に**カーディフ・シティ**（**Cardiff City**）に改名。1910-11シーズンから[サザンフットボールリーグ](../Page/サザンフットボールリーグ.md "wikilink")に所属。1920-21シーズンに[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")（2部）に昇格。
@@ -110,9 +110,9 @@
 
 </div>
 
-  - [2019年](../Page/2019年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")現在\[2\]
+  - [2020年](../Page/2020年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zimbabwe.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_South_Africa.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zimbabwe.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_South_Africa.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -196,7 +196,7 @@
 <td><p>2016</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ニール・ウォーノック" title="wikilink">ニール・ウォーノック</a></p></td>
+<td><p>ニール・ワーノック</p></td>
 <td></td>
 <td><p>2016-2019</p></td>
 </tr>

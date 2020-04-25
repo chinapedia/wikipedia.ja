@@ -1,4 +1,4 @@
-> この記事は[THE BEST OF DETECTIVE CONAN 2  2](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2__2)から翻訳されています。
+> この記事は[THE BEST OF DETECTIVE CONAN 2 〜名探偵コナン テーマ曲集2〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_〜名探偵コナン_テーマ曲集2〜)から翻訳されています。
 
 
 『**THE BEST OF DETECTIVE CONAN 2 〜名探偵コナン テーマ曲集2〜**』（ザ・ベスト・オブ・ディテクティヴ・コナン・ツー めいたんていコナン テーマきょくしゅうツー）は、テレビアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のテーマ曲集第2弾。

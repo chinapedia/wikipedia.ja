@@ -1,4 +1,4 @@
-> この記事は[ JGVS-V7](https://ja.wikipedia.org/wiki/_JGVS-V7)から翻訳されています。
+> この記事は[近距離暗視装置 JGVS-V7](https://ja.wikipedia.org/wiki/近距離暗視装置_JGVS-V7)から翻訳されています。
 
 
 **近距離暗視装置 JGVS-V7**（きんきょりあんしそうち ジェイジーブイエスブイセブン）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が装備する[暗視装置](../Page/暗視装置.md "wikilink")の一種。個人が携帯する装備であるが、[三脚](../Page/三脚.md "wikilink")を立てて使用するカメラ形状のものであり顔面に装着するタイプではない。

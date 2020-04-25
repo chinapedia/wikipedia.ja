@@ -1415,7 +1415,7 @@
 ## 外部リンク
 
   -
-  - [シアターブルック - ソニーミュージックオフィシャルサイト](http://www.sonymusic.co.jp/artist/TheatreBrook/)（更新停止）
+  - [シアターブルック - ソニーミュージックオフィシャルサイト](https://www.sonymusic.co.jp/artist/TheatreBrook/)（更新停止）
 
   - [Mastard Recordsのアーティスト・ページ](http://mastardrecords.com/artist/theatrebrook/)
 

@@ -1,4 +1,4 @@
-> この記事は[HTTP](https://ja.wikipedia.org/wiki/HTTP)から翻訳されています。
+> この記事は[HTTPステータスコード](https://ja.wikipedia.org/wiki/HTTPステータスコード)から翻訳されています。
 
 
 **HTTPステータスコード**は、[HTTPにおいて](../Page/Hypertext_Transfer_Protocol.md "wikilink")[Webサーバ](../Page/Webサーバ.md "wikilink")からのレスポンスの意味を表現する3桁の数字からなるコードである。等によって定義され、[IANAがHTTP](../Page/Internet_Assigned_Numbers_Authority.md "wikilink") Status Code Registryとして管理している。以下に一覧を示す。

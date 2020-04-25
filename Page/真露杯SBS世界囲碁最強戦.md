@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[真露杯SBS世界囲碁最強戦](https://ja.wikipedia.org/wiki/真露杯SBS世界囲碁最強戦)から翻訳されています。
 
 
 **真露杯SBS世界囲碁最強戦**（じんろはいSBSせかいいごさいきょうせん）は、[囲碁](../Page/囲碁.md "wikilink")の国際[棋戦で](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国の三国の](../Page/中華人民共和国.md "wikilink")、各国5名のチームによる勝ち抜き戦で団体優勝を争う。1993年に開始。1997年に[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")の影響による眞露グループの不渡り騒動により終了。優勝回数は韓国5回。1999年に[農心辛ラーメン杯世界囲碁最強戦](../Page/農心辛ラーメン杯世界囲碁最強戦.md "wikilink")として再開された。
@@ -161,8 +161,7 @@
 
 ## 外部リンク
 
-  - [囲碁データベース「真露杯・SBS世界最強戦」](http://igo.web.infoseek.co.jp/cgi-bin/title/world/jinro.htm)
-
+  -
 [zh:SBS杯和真露杯三國圍棋擂臺賽](https://ja.wikipedia.org/wiki/zh:SBS杯和真露杯三國圍棋擂臺賽 "wikilink")
 
 [Category:国際囲碁棋戦](https://ja.wikipedia.org/wiki/Category:国際囲碁棋戦 "wikilink")

@@ -9,7 +9,7 @@
 
   - \- CAC 40とCAC Next 20を構成する合計60銘柄で算出。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。
 
-  - \- 中型株60銘柄で構成。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。主な銘柄として、[イプセン](https://ja.wikipedia.org/wiki/イプセン_\(製薬会社\) "wikilink")、[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")、[グループセブ](../Page/グループセブ.md "wikilink")、[ジェーシードゥコー](../Page/ジェーシードゥコー.md "wikilink")、[テクニカラー](../Page/テクニカラー_\(企業\).md "wikilink")、[ネクサンス](https://ja.wikipedia.org/wiki/ネクサンス "wikilink")、[ビック](../Page/ビック_\(フランス企業\).md "wikilink")、[ユーテルサット](../Page/ユーテルサット.md "wikilink")、[ユーロフィン](https://ja.wikipedia.org/wiki/ユーロフィン "wikilink")、[ユーロネクスト](../Page/ユーロネクスト.md "wikilink")、[ヨーロッパカー](https://ja.wikipedia.org/wiki/ヨーロッパカー "wikilink")、[ラガルデール](https://ja.wikipedia.org/wiki/ラガルデール "wikilink")、[ロスチャイルド&カンパニー](https://ja.wikipedia.org/wiki/ロスチャイルド&カンパニー "wikilink")等。
+  - \- 中型株60銘柄で構成。[2011年](../Page/2011年.md "wikilink")3月21日算出開始。主な銘柄として、[イプセン](https://ja.wikipedia.org/wiki/イプセン_\(製薬会社\) "wikilink")、[ADPグループ](../Page/ADPグループ.md "wikilink")、[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")、[グループセブ](../Page/グループセブ.md "wikilink")、[ザルトリウス](../Page/ザルトリウス.md "wikilink")・ステディム・バイオテック、[ジェーシードゥコー](../Page/ジェーシードゥコー.md "wikilink")、[ネクサンス](https://ja.wikipedia.org/wiki/ネクサンス "wikilink")、[ビック](../Page/ビック_\(フランス企業\).md "wikilink")、[フランセーズ・デ・ジュー](https://ja.wikipedia.org/wiki/フランセーズ・デ・ジュー "wikilink")、[ユーテルサット](../Page/ユーテルサット.md "wikilink")、[ユーロネクスト](../Page/ユーロネクスト.md "wikilink")、[ユーロフィン](https://ja.wikipedia.org/wiki/ユーロフィン "wikilink")、[ヨーロッパカー](https://ja.wikipedia.org/wiki/ヨーロッパカー "wikilink")、[ラガルデール](https://ja.wikipedia.org/wiki/ラガルデール "wikilink")等。
 
   - \- 小型株で構成。[2005年](../Page/2005年.md "wikilink")1月3日算出開始。当初は90銘柄でスタートしたがその後増加している。
 
@@ -85,7 +85,7 @@
 
 ## 外部リンク
 
-  - [ユーロネクスト公式サイトによるCAC 40](https://www.euronext.com/fr/products/indices/FR0003500008-XPAR/market-information)
+  - [ユーロネクスト公式サイトによるCAC 40](https://live.euronext.com/fr/product/indices/FR0003500008-XPAR/market-information)
   - [Yahoo\!によるCAC 40速報](http://finance.yahoo.com/q?s=%5EFCHI)
   - [ブルームバーグによるCAC 40速報](http://www.bloomberg.com/apps/quote?ticker=CAC:IND)
 

@@ -1,4 +1,4 @@
-> この記事は[ JGVS-V3](https://ja.wikipedia.org/wiki/_JGVS-V3)から翻訳されています。
+> この記事は[微光暗視眼鏡 JGVS-V3](https://ja.wikipedia.org/wiki/微光暗視眼鏡_JGVS-V3)から翻訳されています。
 
 
 **微光暗視眼鏡 JGVS-V3**（びこうあんしがんきょう ジェイジーブイエスブイスリー）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の装備。[暗視装置](../Page/暗視装置.md "wikilink")の一つ。主に夜間や建築物や洞穴・トンネル内部で使用する。顔面に装着して使用する両眼型[暗視装置](../Page/暗視装置.md "wikilink")。

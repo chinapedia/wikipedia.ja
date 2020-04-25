@@ -1,4 +1,4 @@
-> この記事は[ALSOK](https://ja.wikipedia.org/wiki/ALSOK)から翻訳されています。
+> この記事は[ALSOK福島](https://ja.wikipedia.org/wiki/ALSOK福島)から翻訳されています。
 
 
 **ALSOK福島株式会社**（あるそっくふくしま）は、[福島県](../Page/福島県.md "wikilink")全域を営業エリアとする[警備会社](https://ja.wikipedia.org/wiki/警備会社 "wikilink")。本社を福島県[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")に置く[綜合警備保障](https://ja.wikipedia.org/wiki/綜合警備保障 "wikilink")の関連会社。

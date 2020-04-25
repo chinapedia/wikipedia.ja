@@ -1,4 +1,4 @@
-> この記事は[XX](https://ja.wikipedia.org/wiki/XX)から翻訳されています。
+> この記事は[ネオマジックパルサーXX](https://ja.wikipedia.org/wiki/ネオマジックパルサーXX)から翻訳されています。
 
 
 **ネオマジックパルサーXX（NEO MAGIC PULSAR XX）**とは、2003年に[山佐](../Page/山佐.md "wikilink")が開発・販売した[パチスロ](../Page/パチスロ.md "wikilink")機。通称「ネオパル」「マジパル」など。

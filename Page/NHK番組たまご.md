@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK番組たまご](https://ja.wikipedia.org/wiki/NHK番組たまご)から翻訳されています。
 
 
 **NHK番組たまご**（エヌエイチケイばんぐみたまご）は、[NHKが随時行っていた実験的](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")の総称である。

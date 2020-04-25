@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[カタールSC](https://ja.wikipedia.org/wiki/カタールSC)から翻訳されています。
 
 
 **カタールSC**（, ）は、[カタール](../Page/カタール.md "wikilink")の首都[ドーハ](../Page/ドーハ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

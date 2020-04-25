@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sアリーナ](https://ja.wikipedia.org/wiki/Sアリーナ)から翻訳されています。
 
 
 **Sアリーナ**とは、[CS放送](../Page/衛星放送.md "wikilink")・[FIGHTING TV サムライで放送されている](../Page/FIGHTING_TV_サムライ.md "wikilink")[プロレス](../Page/プロレス.md "wikilink")・[格闘技](../Page/格闘技.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。プロレスや格闘技の試合や記者会見などの模様の他、日替わりコーナーなどを送る情報番組。

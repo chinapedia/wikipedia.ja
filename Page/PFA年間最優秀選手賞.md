@@ -1,4 +1,4 @@
-> この記事は[PFA](https://ja.wikipedia.org/wiki/PFA)から翻訳されています。
+> この記事は[PFA年間最優秀選手賞](https://ja.wikipedia.org/wiki/PFA年間最優秀選手賞)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Giggs_cropped.jpg "wikilink")\]\] **PFA年間最優秀選手賞** ()は、[イングランド](../Page/イングランド.md "wikilink")国内でプレイしている選手を対象に、そのシーズン最も活躍した選手に与えられる賞である。1973-74シーズンから実施されており、[プロフェッショナル・フットボーラーズ・アソシエーション](https://ja.wikipedia.org/wiki/プロフェッショナル・フットボーラーズ・アソシエーション "wikilink") (PFA)のメンバーによる投票によって選出される。
@@ -61,7 +61,7 @@
 </tr>
 <tr class="odd">
 <td><p>1979-80</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー・マクダーモット" title="wikilink">テリー・マクダーモット</a></p></td>
+<td><p><a href="../Page/テリー・マクダーモット.md" title="wikilink">テリー・マクダーモット</a></p></td>
 <td></td>
 <td><p>FWA</p></td>
 </tr>

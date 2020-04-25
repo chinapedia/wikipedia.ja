@@ -1,4 +1,4 @@
-> この記事は[We Will ](https://ja.wikipedia.org/wiki/We_Will_)から翻訳されています。
+> この記事は[We Will 〜あの場所で〜](https://ja.wikipedia.org/wiki/We_Will_〜あの場所で〜)から翻訳されています。
 
 
 「**We Will 〜あの場所で〜**」（ウィー ウィル あのばしょで）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

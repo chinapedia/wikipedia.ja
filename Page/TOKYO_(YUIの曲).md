@@ -1,4 +1,4 @@
-> この記事は[TOKYO \(YUI\)](https://ja.wikipedia.org/wiki/TOKYO_\(YUI\))から翻訳されています。
+> この記事は[TOKYO \(YUIの曲\)](https://ja.wikipedia.org/wiki/TOKYO_\(YUIの曲\))から翻訳されています。
 
 
 「**TOKYO**」（トウキョウ）は、日本のシンガーソングライター・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")[2006年](../Page/2006年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")からリリースした4作目の[シングル](../Page/シングル.md "wikilink")。キャッチコピーは「彼女の決意に涙する名曲」。

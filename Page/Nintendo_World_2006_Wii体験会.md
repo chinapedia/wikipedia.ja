@@ -1,4 +1,4 @@
-> この記事は[Nintendo World 2006 Wii](https://ja.wikipedia.org/wiki/Nintendo_World_2006_Wii)から翻訳されています。
+> この記事は[Nintendo World 2006 Wii体験会](https://ja.wikipedia.org/wiki/Nintendo_World_2006_Wii体験会)から翻訳されています。
 
 
 **Nintendo World 2006 Wii体験会**（ニンテンドーワールドにせんろく ウィーたいけんかい）は、[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")に[関東](../Page/関東.md "wikilink")（[千葉](../Page/千葉市.md "wikilink")）、[名古屋](../Page/名古屋市.md "wikilink")、[大阪で開かれた](../Page/大阪市.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")主催の展示会。[2006年](../Page/2006年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")発売の新型[ゲーム機](../Page/ゲーム機.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")や[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")の未発売のソフトが体験できた。

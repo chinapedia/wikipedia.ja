@@ -1,4 +1,4 @@
-> この記事は[ YAH!YAH!YAH!](https://ja.wikipedia.org/wiki/_YAH!YAH!YAH!)から翻訳されています。
+> この記事は[世代断裂バラエティー にちようYAH!YAH!YAH!](https://ja.wikipedia.org/wiki/世代断裂バラエティー_にちようYAH!YAH!YAH!)から翻訳されています。
 
 
 **世代断絶バラエティー にちようYAH\!YAH\!YAH\!**（せだいだんぜつばらえてぃー - やぁやぁやぁ）は、[北海道放送](../Page/北海道放送.md "wikilink")（HBCラジオ）で1999年4月から2000年3月の日曜12:00〜17:55(JST)に生放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

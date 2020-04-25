@@ -1,4 +1,4 @@
-> この記事は[N-](https://ja.wikipedia.org/wiki/N-)から翻訳されています。
+> この記事は[N-バス](https://ja.wikipedia.org/wiki/N-バス)から翻訳されています。
 
 
 **N-バス**（えぬバス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[長久手市](https://ja.wikipedia.org/wiki/長久手市 "wikilink")が運営する[コミュニティバス](../Page/コミュニティバス.md "wikilink")の愛称である。正式名称は「長久手市循環バス」。

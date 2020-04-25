@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALグランドサービス](https://ja.wikipedia.org/wiki/JALグランドサービス)から翻訳されています。
 
 
 **株式会社JALグランドサービス**（ジャルグランドサービス）は、[グランドハンドリング](https://ja.wikipedia.org/wiki/グランドハンドリング "wikilink")を行っている[日本航空](../Page/日本航空.md "wikilink")グループの[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。
@@ -225,7 +225,7 @@
 
   - [株式会社JALグランドサービス](http://www.jgsgroup.co.jp/)
 
-[Category:日本航空](https://ja.wikipedia.org/wiki/Category:日本航空 "wikilink") [Category:大田区の企業](https://ja.wikipedia.org/wiki/Category:大田区の企業 "wikilink") [Category:日本のサービス業](https://ja.wikipedia.org/wiki/Category:日本のサービス業 "wikilink") [Category:1957年設立の企業](https://ja.wikipedia.org/wiki/Category:1957年設立の企業 "wikilink")
+[Category:日本航空](https://ja.wikipedia.org/wiki/Category:日本航空 "wikilink") [Category:大田区の企業](https://ja.wikipedia.org/wiki/Category:大田区の企業 "wikilink") [Category:日本のサービス業](https://ja.wikipedia.org/wiki/Category:日本のサービス業 "wikilink") [Category:航空のサービス](https://ja.wikipedia.org/wiki/Category:航空のサービス "wikilink") [Category:1957年設立の企業](https://ja.wikipedia.org/wiki/Category:1957年設立の企業 "wikilink")
 
 1.
 2.

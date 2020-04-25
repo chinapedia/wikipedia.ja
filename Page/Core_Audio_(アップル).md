@@ -1,4 +1,4 @@
-> この記事は[Core Audio \(\)](https://ja.wikipedia.org/wiki/Core_Audio_\(\))から翻訳されています。
+> この記事は[Core Audio \(アップル\)](https://ja.wikipedia.org/wiki/Core_Audio_\(アップル\))から翻訳されています。
 
 
 **Core Audio**（コア オーディオ）は、[アップルのOS](../Page/アップル_\(企業\).md "wikilink")（[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")および[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")・[iPadOS](https://ja.wikipedia.org/wiki/iPadOS "wikilink")・[tvOS](https://ja.wikipedia.org/wiki/tvOS "wikilink")・[watchOS](https://ja.wikipedia.org/wiki/watchOS "wikilink")・[audioOS](https://ja.wikipedia.org/wiki/audioOS "wikilink")）で、音声を扱う[フレームワーク](https://ja.wikipedia.org/wiki/フレームワーク "wikilink")である。Windowsにも同名のライブラリ（[Core Audio (Windows)](https://ja.wikipedia.org/wiki/Core_Audio_\(Windows\) "wikilink")）があるが、これとは異なる。

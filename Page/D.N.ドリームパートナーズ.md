@@ -1,4 +1,4 @@
-> この記事は[D.N.](https://ja.wikipedia.org/wiki/D.N.)から翻訳されています。
+> この記事は[D.N.ドリームパートナーズ](https://ja.wikipedia.org/wiki/D.N.ドリームパートナーズ)から翻訳されています。
 
 
 **D.N.ドリームパートナーズ**（略称：**DNDP**）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")の共同出資による、コンテンツ製作・投資のための[有限責任事業組合](../Page/有限責任事業組合.md "wikilink")。

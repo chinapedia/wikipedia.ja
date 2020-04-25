@@ -91,25 +91,24 @@
 『Cat Shit One』では、登場キャラクターは全て人間以外の動物で表現されている。動物の種類はキャラクターの出身国によって分かれている。
 
   - アメリカ人 - [ウサギ](../Page/ウサギ.md "wikilink") \[3\]（由来は米兵―USA [GIから](https://ja.wikipedia.org/wiki/GI_\(軍隊\) "wikilink")。また作者の小林源文は自宅で複数のウサギを飼った経験を持つ）
-  - ヴェトナム人 - [ネコ](../Page/ネコ.md "wikilink") （ウサギ同様作者による飼育経験を踏まえている）
-  - カンボジア人 ‐ ネコ
+  - 東南アジア系 - [ネコ](../Page/ネコ.md "wikilink") （ウサギ同様作者による飼育経験を踏まえている）\[4\]
 
 <!-- end list -->
 
-  - フランス人 - [ブタ](https://ja.wikipedia.org/wiki/ブタ "wikilink") （由来はフランス料理の[トリュフを取るブタから](../Page/セイヨウショウロ.md "wikilink")）
+  - フランス人 - [ブタ](https://ja.wikipedia.org/wiki/ブタ "wikilink") （由来はフランス料理の[トリュフを取るブタから](../Page/セイヨウショウロ.md "wikilink")）\[5\]
   - 中国人 - [パンダ](../Page/パンダ.md "wikilink")
-  - 日本人 - [ニホンザル](../Page/ニホンザル.md "wikilink")または[ゴリラ](../Page/ゴリラ.md "wikilink")\[4\]
+  - 日本人 - [ニホンザル](../Page/ニホンザル.md "wikilink")または[ゴリラ](../Page/ゴリラ.md "wikilink")\[6\]
   - ロシア人 - [クマ](https://ja.wikipedia.org/wiki/クマ "wikilink")
   - 韓国人 - [イヌ](../Page/イヌ.md "wikilink") （由来は韓国料理の「[ポシンタン](../Page/ポシンタン.md "wikilink")(犬鍋)」から）
   - イギリス人 - [ネズミ](../Page/ネズミ.md "wikilink") （由来は「[砂漠のネズミ](https://ja.wikipedia.org/wiki/:en:British_7th_Armoured_Division "wikilink")」から）
   - オーストラリア人 - [カンガルー](../Page/カンガルー.md "wikilink") もしくは [コアラ](../Page/コアラ.md "wikilink")
   - ドイツ人 - [キツネ](../Page/キツネ.md "wikilink")または[オオカミ](../Page/オオカミ.md "wikilink")
-  - イタリア人 - [タヌキ](../Page/タヌキ.md "wikilink")\[5\]
-  - 中央アジア系 - [ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")または[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")\[6\]
-  - 中東系 - [ヒトコブラクダ](../Page/ヒトコブラクダ.md "wikilink")\[7\]
+  - イタリア人 - [タヌキ](../Page/タヌキ.md "wikilink")\[7\]
+  - 中央アジア系 - [ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")または[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")\[8\]
+  - 中東系 - [ヒトコブラクダ](../Page/ヒトコブラクダ.md "wikilink")\[9\]
   - グルカ兵 - [ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")
-  - ラテン系 - [ウシ](https://ja.wikipedia.org/wiki/ウシ "wikilink")\[8\]
-  - アフリカ系 - [カバ](../Page/カバ.md "wikilink")または[サイ](../Page/サイ.md "wikilink")\[9\]
+  - ラテン系 - [ウシ](https://ja.wikipedia.org/wiki/ウシ "wikilink")\[10\]
+  - アフリカ系 - [カバ](../Page/カバ.md "wikilink")または[サイ](../Page/サイ.md "wikilink")\[11\]
 
 ## その他
 
@@ -121,7 +120,7 @@
 
 ## 映画版
 
-フル3DCG映画「CAT SHIT ONE -THE ANIMATED SERIES-」が、3DCG制作会社のアニマによって制作され、劇場公開に先駆けて[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")から同年[9月20日](../Page/9月20日.md "wikilink")まで[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で無料公開されていた\[10\]。無料公開版では、流血表現は削除されている。
+フル3DCG映画「CAT SHIT ONE -THE ANIMATED SERIES-」が、3DCG制作会社のアニマによって制作され、劇場公開に先駆けて[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")から同年[9月20日](../Page/9月20日.md "wikilink")まで[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で無料公開されていた\[12\]。無料公開版では、流血表現は削除されている。
 
 ### ストーリー
 
@@ -178,10 +177,12 @@
 1.  現地兵からの呼称。ラッツはラツ、ボタスキーはボタと呼ばれる。
 2.  作中ではヤードと呼称。[アメリカ陸軍特殊部隊群\#ベトナム戦争](https://ja.wikipedia.org/wiki/アメリカ陸軍特殊部隊群#ベトナム戦争 "wikilink")が詳しい。
 3.  ただし、'80Vol.1のイーグルクロー作戦に登場した日系アメリカ人のデルタフォース隊員、[ウェイド・Y・イシモト大尉が猿の姿で描かれていたような例外は存在する](https://ja.wikipedia.org/wiki/デルタフォース#デルタフォースの著名人（関係者含む） "wikilink")。
-4.  『Cat Shit One '80』Vol.4 96頁
+4.
 5.
-6.
+6.  『Cat Shit One '80』Vol.4 96-98頁
 7.
 8.
 9.
-10. [最新ＣＧ戦争映画『キャット・シット・ワン』劇場公開に先駆け、全編無料配信！ - 株式会社IDA](http://prtimes.jp/main/html/rd/p/000000001.000002337.html)
+10.
+11.
+12. [最新ＣＧ戦争映画『キャット・シット・ワン』劇場公開に先駆け、全編無料配信！ - 株式会社IDA](http://prtimes.jp/main/html/rd/p/000000001.000002337.html)

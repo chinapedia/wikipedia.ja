@@ -1,4 +1,4 @@
-> この記事は[LPGA](https://ja.wikipedia.org/wiki/LPGA)から翻訳されています。
+> この記事は[LPGA武富士クラシック](https://ja.wikipedia.org/wiki/LPGA武富士クラシック)から翻訳されています。
 
 
 **LPGA[武富士](../Page/武富士.md "wikilink")クラシック**は、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")郊外のザ・ラスベガスカントリークラブで行われていた[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[LPGAツアーの一つ](../Page/全米女子プロゴルフ協会.md "wikilink")。

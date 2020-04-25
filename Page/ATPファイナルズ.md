@@ -1,4 +1,4 @@
-> この記事は[ATP](https://ja.wikipedia.org/wiki/ATP)から翻訳されています。
+> この記事は[ATPファイナルズ](https://ja.wikipedia.org/wiki/ATPファイナルズ)から翻訳されています。
 
 
 **Nitto ATPファイナルズ**（英語：*Nitto ATP Finals*）は、[ATPツアーの年間最終戦である](../Page/男子プロテニス協会.md "wikilink")。レース・ランキングなどによりシングルス8名、ダブルス8組が選出され年間王者を決定する。
@@ -498,7 +498,7 @@
 
 2013年は、[英国では](https://ja.wikipedia.org/wiki/イギリス "wikilink")[Sky Sportsと](https://ja.wikipedia.org/wiki/Sky_Sports "wikilink")[BBCが放送した](../Page/英国放送協会.md "wikilink")\[5\]。他にキー局として[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テニス・チャンネル](https://ja.wikipedia.org/wiki/テニス・チャンネル "wikilink")、[セルビア](../Page/セルビア.md "wikilink")の[B92](https://ja.wikipedia.org/wiki/B92 "wikilink")、[中東](../Page/中東.md "wikilink")の[アルジャジーラ](../Page/アルジャジーラ.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[TVE](../Page/テレビシオン・エスパニョーラ.md "wikilink")、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")のSporTV、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")が各国で放送している\[6\]。
 
-日本においては、GAORAが放映権を取得しており、2013年からシングルスの全試合完全生中継とダブルスの後日録画放送を実施している\[7\]\[8\]。2014年大会では、[錦織圭](https://ja.wikipedia.org/wiki/錦織圭 "wikilink")の日本人初のツアーファイナルズ出場を記念し、錦織出場の1次リーグ全3試合を[BS放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日が](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")\[9\]\[10\]、準決勝を[地上波の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列が生中継で放送した](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")\[11\]。 2015年は[NHKが地上波とBSの放映権を取得し](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、総合とBS1でシングルスを全試合完全生中継で放送した。2018年は[WOWOWメンバーズオンデマンド](https://ja.wikipedia.org/wiki/WOWOWメンバーズオンデマンド "wikilink")と[Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")が全試合完全生中継、NHK-BS1が一部の試合を完全生中継。
+日本においては、GAORAが放映権を取得しており、2013年からシングルスの全試合完全生中継とダブルスの後日録画放送を実施している\[7\]\[8\]。2014年大会では、[錦織圭](https://ja.wikipedia.org/wiki/錦織圭 "wikilink")の日本人初のツアーファイナルズ出場を記念し、錦織出場の1次リーグ全3試合を[BS放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日が](../Page/ビーエス朝日.md "wikilink")\[9\]\[10\]、準決勝を[地上波の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列が生中継で放送した](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")\[11\]。 2015年は[NHKが地上波とBSの放映権を取得し](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、総合とBS1でシングルスを全試合完全生中継で放送した。2018年は[WOWOWメンバーズオンデマンド](https://ja.wikipedia.org/wiki/WOWOWメンバーズオンデマンド "wikilink")と[Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")が全試合完全生中継、NHK-BS1が一部の試合を完全生中継。
 
 ## 関連項目
 

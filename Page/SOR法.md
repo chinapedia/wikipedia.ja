@@ -1,4 +1,4 @@
-> この記事は[SOR](https://ja.wikipedia.org/wiki/SOR)から翻訳されています。
+> この記事は[SOR法](https://ja.wikipedia.org/wiki/SOR法)から翻訳されています。
 
 
 **SOR法**(、**逐次加速緩和法**)とは \(n\)元[連立一次方程式](https://ja.wikipedia.org/wiki/連立一次方程式 "wikilink")\(A\boldsymbol{x}=\boldsymbol{b}\)を [反復法で解く手法の一つであり](../Page/反復法_\(数値計算\).md "wikilink")、 [ガウス＝ザイデル法](../Page/ガウス＝ザイデル法.md "wikilink")に加速パラメータ\(\omega\)を導入してその修正量を拡大することで、 更なる加速を図った手法である\[1\]。

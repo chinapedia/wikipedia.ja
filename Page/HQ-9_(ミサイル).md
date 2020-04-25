@@ -1,4 +1,4 @@
-> この記事は[HQ-9 \(\)](https://ja.wikipedia.org/wiki/HQ-9_\(\))から翻訳されています。
+> この記事は[HQ-9 \(ミサイル\)](https://ja.wikipedia.org/wiki/HQ-9_\(ミサイル\))から翻訳されています。
 
 
 [Chinese_HQ-9_launcher.jpg](https://ja.wikipedia.org/wiki/File:Chinese_HQ-9_launcher.jpg "fig:Chinese_HQ-9_launcher.jpg") [HQ-9_Surface-to-air_missiles_20170919.jpg](https://ja.wikipedia.org/wiki/File:HQ-9_Surface-to-air_missiles_20170919.jpg "fig:HQ-9_Surface-to-air_missiles_20170919.jpg") [PLANS_Changchun_(150),_Penang_Strait,_Penang.jpg](https://ja.wikipedia.org/wiki/File:PLANS_Changchun_\(150\),_Penang_Strait,_Penang.jpg "fig:PLANS_Changchun_(150),_Penang_Strait,_Penang.jpg") **HQ-9**（紅旗9、）は、[中国が開発した新世代](../Page/中華人民共和国.md "wikilink")[アクティブレーダーホーミング長距離](https://ja.wikipedia.org/wiki/ミサイルの誘導方式#アクティブ・レーダー・ホーミング_-_ARH "wikilink")[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")（、）である。輸出名、**FT-2000**。

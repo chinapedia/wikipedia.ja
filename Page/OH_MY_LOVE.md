@@ -82,6 +82,8 @@
         </div>
 
         **[ZYYG](../Page/ZYYG.md "wikilink"),[REV](../Page/出口雅之.md "wikilink"),ZARD&[WANDS](../Page/WANDS.md "wikilink")**名義で発表した「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」のカップリング曲。本作では[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を坂井のみで[レコーディングした](../Page/録音.md "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")バージョン。[サビ](../Page/サビ.md "wikilink")の部分や[サックスの演奏](../Page/サクソフォーン.md "wikilink")、コーラスパートなどが微妙に異なる。また、最後のサビの一部がカットされている。作詞はWANDSの上杉昇との共作。ドラムは、[青山純](../Page/青山純.md "wikilink")が叩いた。\[3\]
+
+        1999年発売の『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』のファン投票では12位にランクインし原曲が収録、2008年発売の『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』のファン投票では11位にランクインし本作のセルフカバー版が収録された。
 6.  **[この愛に泳ぎ疲れても](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")**
       -
 
@@ -105,7 +107,7 @@
 
         </div>
 
-        1999年発売の『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』にも投票12位（シングル以外では5位）にランクインし収録された。
+        1999年発売の『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』にもファン投票12位にランクインし収録された。
 
         後に栗林がBarbier名義でセルフカバーし、坂井はコーラス参加している（AMYによる全英詞）。
 
@@ -127,7 +129,7 @@
 
         作詞：坂井泉水
         作曲：栗林誠一郎
-        編曲：明石昌
+        編曲：明石昌夫
 
         </div>
 

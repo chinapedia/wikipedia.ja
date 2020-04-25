@@ -1,4 +1,4 @@
-> この記事は[EO](https://ja.wikipedia.org/wiki/EO)から翻訳されています。
+> この記事は[キャプテンEO](https://ja.wikipedia.org/wiki/キャプテンEO)から翻訳されています。
 
 
 **キャプテンEO** (*Captain EO*、キャプテン イーオー) は、ディズニーパークにあった[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")主演の3D (4D) 立体映画[アトラクション](https://ja.wikipedia.org/wiki/アトラクション_\(遊園地\) "wikilink")。[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")の同アトラクションは[2014年](../Page/2014年.md "wikilink")6月いっぱいで終演を迎えた。\[1\]

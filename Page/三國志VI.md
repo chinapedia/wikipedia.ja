@@ -1,4 +1,4 @@
-> この記事は[VI](https://ja.wikipedia.org/wiki/VI)から翻訳されています。
+> この記事は[三國志VI](https://ja.wikipedia.org/wiki/三國志VI)から翻訳されています。
 
 
 『**三國志VI**』（さんごくし・シックス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第6作。なお、シリーズで初めて[Windows用ソフトとして出された作品である](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。音楽は[つのごうじ](../Page/つのごうじ.md "wikilink")が担当。

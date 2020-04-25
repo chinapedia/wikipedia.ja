@@ -1,4 +1,4 @@
-> この記事は[White ](https://ja.wikipedia.org/wiki/White_)から翻訳されています。
+> この記事は[White 〜セツナサのカケラ〜](https://ja.wikipedia.org/wiki/White_〜セツナサのカケラ〜)から翻訳されています。
 
 
 『**White 〜セツナサのカケラ〜**』（ホワイト 〜セツナサのカケラ〜）は[ねこねこソフト](../Page/ねこねこソフト.md "wikilink")による[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")発売予定だったが、最終的には[2000年](../Page/2000年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に発売された。とある冬、主人公がいろいろな女性に会い恋愛をするという、アダルトゲームでは一般的な日常を描いた作品である。

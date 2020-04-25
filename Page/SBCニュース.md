@@ -1,7 +1,7 @@
-> この記事は[SBC](https://ja.wikipedia.org/wiki/SBC)から翻訳されています。
+> この記事は[SBCニュース](https://ja.wikipedia.org/wiki/SBCニュース)から翻訳されています。
 
 
-『**SBCニュース**』（エスビーシーニュース）は、[長野県](../Page/長野県.md "wikilink")における[JNN系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBCテレビ）で放送されている週末版の夕方ローカルニュース番組。また、同社のラジオ放送部門（SBCラジオ、[JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")・[NRN系列局](../Page/全国ラジオネットワーク.md "wikilink")）における自社制作定時ニュース枠のタイトルでもある。
+『**SBCニュース**』（エスビーシーニュース）は、[長野県](../Page/長野県.md "wikilink")における[JNN系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[信越放送](../Page/信越放送.md "wikilink")（SBCテレビ）で放送されている週末版の夕方ローカルニュース番組。また、同社のラジオ放送部門（SBCラジオ、[JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")・[NRN系列局](../Page/全国ラジオネットワーク.md "wikilink")）における自社制作定時ニュース枠のタイトルでもある。
 
 ## 放送時間
 

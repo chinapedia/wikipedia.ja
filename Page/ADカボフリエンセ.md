@@ -1,4 +1,4 @@
-> この記事は[AD](https://ja.wikipedia.org/wiki/AD)から翻訳されています。
+> この記事は[ADカボフリエンセ](https://ja.wikipedia.org/wiki/ADカボフリエンセ)から翻訳されています。
 
 
 **ADカボフリエンセ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")・[カボ・フリオ](https://ja.wikipedia.org/wiki/カボ・フリオ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

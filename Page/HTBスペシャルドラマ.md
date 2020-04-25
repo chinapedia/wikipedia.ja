@@ -1,4 +1,4 @@
-> この記事は[HTB](https://ja.wikipedia.org/wiki/HTB)から翻訳されています。
+> この記事は[HTBスペシャルドラマ](https://ja.wikipedia.org/wiki/HTBスペシャルドラマ)から翻訳されています。
 
 
 **HTBスペシャルドラマ**（エイチティービースペシャルドラマ）は[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）が制作している[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
@@ -7,7 +7,7 @@
 
 [1996年](../Page/1996年.md "wikilink")に第一作が冬に放送され、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")からは毎年夏に放送されている。（1998年に限り、冬と夏の2回制作されている。）放送時間は55分(2008年以降は85分)。作品は全て[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内を舞台にしている。 多くの作品が[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")や[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞優秀賞、[文化庁芸術祭](https://ja.wikipedia.org/wiki/文化庁芸術祭 "wikilink")優秀賞などを受賞している。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降の2作品は[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")ディレクターの[藤村忠寿](../Page/藤村忠寿.md "wikilink")が[演出](../Page/演出.md "wikilink")、[嬉野雅道](../Page/嬉野雅道.md "wikilink")が[プロデューサー](../Page/プロデューサー.md "wikilink")を担当している。そのため番組宣伝では「『水曜どうでしょう』制作陣（またはスタッフ）がおくる」とテロップが付けられている。また、藤村のこだわりもあり、映画用24pで撮影されている。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降の3作品は[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")ディレクターの[藤村忠寿](../Page/藤村忠寿.md "wikilink")が[演出](../Page/演出.md "wikilink")、[嬉野雅道](../Page/嬉野雅道.md "wikilink")が[プロデューサー](../Page/プロデューサー.md "wikilink")を担当している。そのため番組宣伝では「『水曜どうでしょう』制作陣（またはスタッフ）がおくる」とテロップが付けられている。また、藤村のこだわりもあり、映画用24pで撮影されている。
 
 ### ネット局
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
   - 2006年は[テレビ朝日](../Page/テレビ朝日.md "wikilink")と福井放送を除く[テレビ朝日系列局と](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、系列外である[日本テレビ系列の](../Page/日本テレビネットワーク協議会.md "wikilink")[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")、[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビ山梨](../Page/テレビ山梨.md "wikilink")や[テレビ高知](../Page/テレビ高知.md "wikilink")、関東の[チバテレビを除く](../Page/千葉テレビ放送.md "wikilink")[独立局で放送](../Page/全国独立放送協議会.md "wikilink")。
-  - [2007年](../Page/2007年.md "wikilink")は福井放送を除くテレビ朝日系列局と、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、独立局の[群馬テレビ](../Page/群馬テレビ.md "wikilink")で放送。
+  - [2007年](../Page/2007年.md "wikilink")は福井放送を除くテレビ朝日系列局と、[BS朝日](../Page/ビーエス朝日.md "wikilink")、独立局の[群馬テレビ](../Page/群馬テレビ.md "wikilink")で放送。
   - [2009年](../Page/2009年.md "wikilink")は福井放送を除くテレビ朝日系列局とテレビ山梨で放送（半数の系列局では編成上の都合で2010年1～2月に放送）。
 
 ## 放送作品
@@ -42,9 +42,9 @@
   - ★◎大麦畑でつかまえて (2006年)　- [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")でも放送。(2008年)
   - そらぷち (2007年)
   - [歓喜の歌](https://ja.wikipedia.org/wiki/歓喜の歌_\(落語\) "wikilink") (2008年) - HTB開局40周年記念作品。
-  - ★◎ミエルヒ (2009年) - 第47回ギャラクシー賞テレビ部門優秀賞受賞
+  - ★◎[ミエルヒ](../Page/ミエルヒ.md "wikilink") (2009年) - 第47回ギャラクシー賞テレビ部門優秀賞受賞。
   - 幸せハッピー (2012年)
-  - 別に普通の恋 (2013年)
+  - [別に普通の恋](https://ja.wikipedia.org/wiki/別に普通の恋 "wikilink") (2013年)
   - UBASUTE (2014年)
 
 ## スタッフ
@@ -57,6 +57,6 @@
 
 ## 外部リンク
 
-  - [HTBスペシャルドラマシリーズ](http://www.htb.co.jp/tv/)
+  - [HTBスペシャルドラマシリーズ](https://www.htb.co.jp/tv/)
 
-[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:ローカルテレビ局のテレビドラマ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のテレビドラマ "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink")
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:ローカルテレビ局のテレビドラマ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のテレビドラマ "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink") [Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")

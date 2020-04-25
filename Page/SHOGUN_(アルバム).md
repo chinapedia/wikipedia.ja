@@ -1,4 +1,4 @@
-> この記事は[SHOGUN \(\)](https://ja.wikipedia.org/wiki/SHOGUN_\(\))から翻訳されています。
+> この記事は[SHOGUN \(アルバム\)](https://ja.wikipedia.org/wiki/SHOGUN_\(アルバム\))から翻訳されています。
 
 
 『**SHOGUN**』（ショーグン）は、[1979年](../Page/1979年.md "wikilink")[6月](../Page/6月.md "wikilink")に発売された[SHOGUN](../Page/SHOGUN.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。

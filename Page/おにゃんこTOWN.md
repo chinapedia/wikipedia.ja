@@ -1,4 +1,4 @@
-> この記事は[TOWN](https://ja.wikipedia.org/wiki/TOWN)から翻訳されています。
+> この記事は[おにゃんこTOWN](https://ja.wikipedia.org/wiki/おにゃんこTOWN)から翻訳されています。
 
 
 『**おにゃんこTOWN**』（-タウン）は、[ポニー（現・ポニーキャニオン）から発売された](../Page/ポニーキャニオン.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[KG](https://ja.wikipedia.org/wiki/KG)から翻訳されています。
+> この記事は[KG肌着](https://ja.wikipedia.org/wiki/KG肌着)から翻訳されています。
 
 
 **KG肌着**（ケージーはだぎ）は、[グンゼ](../Page/グンゼ.md "wikilink")によって製造される、キッズ・ジュニア向けの[肌着](https://ja.wikipedia.org/wiki/肌着 "wikilink")（アンダーウェア）である。

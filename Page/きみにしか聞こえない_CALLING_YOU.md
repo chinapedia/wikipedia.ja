@@ -1,4 +1,4 @@
-> この記事は[ CALLING YOU](https://ja.wikipedia.org/wiki/_CALLING_YOU)から翻訳されています。
+> この記事は[きみにしか聞こえない CALLING YOU](https://ja.wikipedia.org/wiki/きみにしか聞こえない_CALLING_YOU)から翻訳されています。
 
 
 『**きみにしか聞こえない CALLING YOU**』（きみにしかきこえない コーリング・ユー）は、[乙一](../Page/乙一.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")である。3作を収録した短編集。[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")から刊行されている。イラストは[羽住都](https://ja.wikipedia.org/wiki/羽住都 "wikilink")。

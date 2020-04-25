@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[サインはV](https://ja.wikipedia.org/wiki/サインはV)から翻訳されています。
 
 
 『**サインはV\!**』（さいんはブイ）は、[神保史郎](../Page/神保史郎.md "wikilink")、[望月あきら](../Page/望月あきら.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『**サインはV**』はその漫画を原作とした[実写](../Page/実写.md "wikilink")[映画](../Page/映画.md "wikilink")もしくは[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
@@ -126,19 +126,20 @@
 ### 放送局（坂口良子版）
 
   - TBS：日曜 19:30 - 20:00
-  - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")：日曜 19:30 - 20:00\[8\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[8\]
   - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30\[9\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[10\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 19:30 - 20:00\[11\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:30 - 20:00\[12\]
+  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：土曜 19:00 - 19:30（1974年に放送）\[13\]
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")
 
 ## 主題歌
 
   - 1969年版 オープニング主題歌
       - 「サインはV」（作詞：[岩谷時子](../Page/岩谷時子.md "wikilink")、作・編曲：三沢郷）
-          - 歌：麻里圭子、横田年昭とリオ・アルマ
-          - [日本ビクター](../Page/日本ビクター.md "wikilink")から発売。[東芝レコード（EMIミュージック・ジャパン）からは](../Page/EMIミュージック・ジャパン.md "wikilink")[富田智子](https://ja.wikipedia.org/wiki/富田智子 "wikilink")とウインドーズによるカヴァー版が発売。
+          - 歌：[麻里圭子](https://ja.wikipedia.org/wiki/麻里圭子 "wikilink")、横田年昭とリオ・アルマ
+          - [日本ビクターから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。[東芝レコード（EMIミュージック・ジャパン）からは](../Page/EMIミュージック・ジャパン.md "wikilink")[富田智子](https://ja.wikipedia.org/wiki/富田智子 "wikilink")とウインドーズによるカヴァー版が発売。
   - 1969年版挿入歌
       - 「この道の果てに」（作詞：岩谷時子、作・編曲：三沢郷）
           - 歌：麻里圭子、横田年昭とリオ・アルマ
@@ -147,7 +148,7 @@
   - 1973年版 オープニング主題歌
       - 「サインはV」（作詞：岩谷時子、作曲：三沢郷、編曲：[青木望](../Page/青木望.md "wikilink")）
           - 歌：坂口良子
-          - [日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売。[大杉久美子](../Page/大杉久美子.md "wikilink")によるカヴァー版も存在する\[13\]。
+          - [日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売。[大杉久美子](../Page/大杉久美子.md "wikilink")によるカヴァー版も存在する\[14\]。
   - 1973年版挿入歌
       - 「美しき仲間たち」（作詞：[かわいひろし](https://ja.wikipedia.org/wiki/かわいひろし "wikilink")、作曲：三沢郷、編曲：青木望）
           - 歌：坂口良子
@@ -183,4 +184,5 @@
 10. 『福島民報』1973年10月14日 - 1974年3月31日付朝刊、テレビ欄。
 11.
 12.
-13. [大杉久美子 40周年記念CD-BOX『燦(きらめき)のとき やさしさの歌』発売記念 大杉久美子スペシャル・インタビュー 第3回](http://columbia.jp/artist-info/kumiko/interview03.html)より。
+13. 『北國新聞』1974年8月3日付朝刊、テレビ欄。
+14. [大杉久美子 40周年記念CD-BOX『燦(きらめき)のとき やさしさの歌』発売記念 大杉久美子スペシャル・インタビュー 第3回](http://columbia.jp/artist-info/kumiko/interview03.html)より。

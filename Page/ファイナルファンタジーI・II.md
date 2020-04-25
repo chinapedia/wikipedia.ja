@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[ファイナルファンタジーI・II](https://ja.wikipedia.org/wiki/ファイナルファンタジーI・II)から翻訳されています。
 
 
 『**ファイナルファンタジーI・II**』（ファイナルファンタジー ワン・ツー、*FINAL FANTASY I・II*、略称：**FFI・II**、**FF1・2**）は、[スクウェアおよび](../Page/スクウェア_\(ゲーム会社\).md "wikilink")[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から発売された[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")作品。[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")（以下、FFシリーズ）のうち、第1作『**[ファイナルファンタジー](../Page/ファイナルファンタジー.md "wikilink")**』と第2作『**[ファイナルファンタジーII](../Page/ファイナルファンタジーII.md "wikilink")**』を合わせて1本の[ゲームソフト](../Page/ゲームソフト.md "wikilink")として発売されたものである。
@@ -37,7 +37,7 @@
 
 ## その他
 
-[2002年](../Page/2002年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")には『ファイナルファンタジーI・II プレミアムパッケージ』として、[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『I』と『II』を特製化粧箱に同梱した限定版パッケージが発売された。これはPlayStation版の2作品をそのまま同梱したものであり、内容に変更は一切ない。ちなみにPlayStation版『I』と『II』は同ハード最後のファイナルファンタジーシリーズであり\[1\]、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版では[スクウェア最後のPlayStation用ソフトだった](../Page/スクウェア_\(ゲーム会社\).md "wikilink")\[2\]。
+[2002年](../Page/2002年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")には『ファイナルファンタジーI・II プレミアムパッケージ』（*Premium Package*）として、[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『I』と『II』を特製化粧箱に同梱した限定版パッケージが発売された。これはPlayStation版の2作品をそのまま同梱したものであり、内容に変更は一切ない。ちなみにPlayStation版『I』と『II』は同ハード最後のファイナルファンタジーシリーズであり\[1\]、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版では[スクウェア最後のPlayStation用ソフトだった](../Page/スクウェア_\(ゲーム会社\).md "wikilink")\[2\]。
 
 ## 関連書籍
 

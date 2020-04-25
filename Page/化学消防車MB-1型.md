@@ -1,4 +1,4 @@
-> この記事は[MB-1](https://ja.wikipedia.org/wiki/MB-1)から翻訳されています。
+> この記事は[化学消防車MB-1型](https://ja.wikipedia.org/wiki/化学消防車MB-1型)から翻訳されています。
 
 
 **化学消防車MB-1型**（かがくしょうぼうしゃエムビーいちがた）は、[海上自衛隊](../Page/海上自衛隊.md "wikilink")が装備する[空港用化学消防車](https://ja.wikipedia.org/wiki/空港用化学消防車 "wikilink")。 [東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")が1963年に初生産し\[1\]、現在でも改修型のMB-1型改、MB-1型改2（MB-1改B型、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から配備）が航空基地における対[航空事故](../Page/航空事故.md "wikilink")の主力として、消火と[搭乗員](https://ja.wikipedia.org/wiki/搭乗員 "wikilink")救出を担っている。また、2011年には[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")にも出動した\[2\]。

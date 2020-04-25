@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[高陽ザイクロFC](https://ja.wikipedia.org/wiki/高陽ザイクロFC)から翻訳されています。
 
 
 **高陽ザイクロFC**（コヤン・ザイクロFC、、）は、[韓国の北西部](../Page/大韓民国.md "wikilink")、[京畿道](../Page/京畿道.md "wikilink")の[高陽市](../Page/高陽市.md "wikilink")を本拠地とするサッカークラブである。

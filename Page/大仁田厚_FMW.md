@@ -1,4 +1,4 @@
-> この記事は[ FMW](https://ja.wikipedia.org/wiki/_FMW)から翻訳されています。
+> この記事は[大仁田厚 FMW](https://ja.wikipedia.org/wiki/大仁田厚_FMW)から翻訳されています。
 
 
 『**大仁田厚 FMW**』（おおにたあつし エフエムダブリュー）は、[1993年](../Page/1993年.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

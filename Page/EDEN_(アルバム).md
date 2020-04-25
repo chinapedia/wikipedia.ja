@@ -1,4 +1,4 @@
-> この記事は[EDEN \(\)](https://ja.wikipedia.org/wiki/EDEN_\(\))から翻訳されています。
+> この記事は[EDEN \(アルバム\)](https://ja.wikipedia.org/wiki/EDEN_\(アルバム\))から翻訳されています。
 
 
 **EDEN**（エデン）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")3枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。初回限定盤は透明帯仕様。2007年12月5日、最新[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源、「BELIEVE」「IN MY DREAM (WITH SHIVER)」の[PVが収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")との2枚組で、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")より再発された。
@@ -50,6 +50,8 @@
 メンバーのJはこのアルバムの制作期間、自らを追い詰める余り、「良い曲が作れない」と精神的にダウンし、ついには肉体的にもダウンしてしまった。このエピソードは翌年発売される「[ROSIER](../Page/ROSIER.md "wikilink")」の誕生に繋がっていく。
 
 2018年12月23日のさいたまスーパーアリーナでのライブ『SEARCH FOR MY EDEN』にて、「Rejuvenescence」と「LASTLY」を除く全曲が演奏された\[3\]。
+
+アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 参考文献
 

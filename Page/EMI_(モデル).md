@@ -1,4 +1,4 @@
-> この記事は[EMI \(\)](https://ja.wikipedia.org/wiki/EMI_\(\))から翻訳されています。
+> この記事は[EMI \(モデル\)](https://ja.wikipedia.org/wiki/EMI_\(モデル\))から翻訳されています。
 
 
 **EMI**（えみ、本名非公開、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月11日](../Page/3月11日.md "wikilink") - ）は、芸能事務所[インセント](../Page/インセント.md "wikilink")のモデル部門「[イデア](../Page/イデア_\(芸能プロダクション\).md "wikilink")」に所属するファッションモデル。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
@@ -64,7 +64,7 @@
 
   - [EMI 公式ブログ](http://gree.jp/emi_gr/)
 
-  - [EMI Official Blog（公式ブログ）](http://ameblo.jp/emi-idea/)
+  - [EMI Official Blog（公式ブログ）](https://ameblo.jp/emi-idea/)
 
   - [EMI｜INCENT/IDEA Official Site](http://www.incent.jp/idea/model/emi/)
 

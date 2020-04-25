@@ -1,4 +1,4 @@
-> この記事は[KAWASAKI](https://ja.wikipedia.org/wiki/KAWASAKI)から翻訳されています。
+> この記事は[KAWASAKIしんゆり映画祭](https://ja.wikipedia.org/wiki/KAWASAKIしんゆり映画祭)から翻訳されています。
 
 
 **KAWASAKIしんゆり映画祭**（カワサキしんゆりえいがさい）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[麻生区](https://ja.wikipedia.org/wiki/麻生区 "wikilink")で毎年秋に行われている[映画祭](../Page/映画祭.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より、川崎市の「芸術のまち構想」の一環として、[小田急線](https://ja.wikipedia.org/wiki/小田急線 "wikilink")[新百合ヶ丘駅](https://ja.wikipedia.org/wiki/新百合ヶ丘駅 "wikilink")周辺地域で開催されている。

@@ -1,4 +1,4 @@
-> この記事は[ \(Windows\)](https://ja.wikipedia.org/wiki/_\(Windows\))から翻訳されています。
+> この記事は[保護者による制限 \(Windows\)](https://ja.wikipedia.org/wiki/保護者による制限_\(Windows\))から翻訳されています。
 
 
 **保護者による制限**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が2007年1月に一般向けに発売をした[Microsoft Windows Vistaの機能である](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。利用者に対して一定の利用制限を設けさせる機能。
@@ -20,7 +20,7 @@
   - [残酷ゲーム](../Page/残酷ゲーム.md "wikilink")
   - [アダルトゲーム](../Page/アダルトゲーム.md "wikilink")
   - [コンピュータゲームのレイティングシステム](../Page/コンピュータゲームのレイティングシステム.md "wikilink")
-  - [コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")
+  - [コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")
   - [コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")
   - [表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[Dps \(\)](https://ja.wikipedia.org/wiki/Dps_\(\))から翻訳されています。
+> この記事は[Dps \(バンド\)](https://ja.wikipedia.org/wiki/Dps_\(バンド\))から翻訳されています。
 
 
 **dps**（ディー・ピー・エス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")4人組[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。2017年結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[GIZA studio](../Page/GIZA_studio.md "wikilink")。

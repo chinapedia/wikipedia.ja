@@ -54,7 +54,7 @@
   - 生で行きましょう\!（2002年 - 2003年、[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）
   - 1stともみん（2005年 - 2006年、あっ\!とおどろく放送局）
   - [L.A.V.](../Page/L.A.V..md "wikilink")（2004年7月 - 2005年3月、[JFM系列全国ネット](../Page/全国FM放送協議会.md "wikilink")） - 木曜日担当
-  - [good morning\! That's wakeman show](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")（2005年4月 - 2006年3月、[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")） - 水曜日担当
+  - [good morning\! That's wakeman show](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")（2005年4月 - 2006年3月、[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")） - 水曜日担当
 
 など
 

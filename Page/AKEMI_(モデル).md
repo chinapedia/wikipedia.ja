@@ -1,17 +1,19 @@
-> この記事は[AKEMI \(\)](https://ja.wikipedia.org/wiki/AKEMI_\(\))から翻訳されています。
+> この記事は[AKEMI \(モデル\)](https://ja.wikipedia.org/wiki/AKEMI_\(モデル\))から翻訳されています。
 
 
-**小林 明実**（こばやし あけみ、[1981年](../Page/1981年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[女優](../Page/俳優.md "wikilink")。本名：**小林 明美**（こばやし あけみ）。[東京都](../Page/東京都.md "wikilink")出身。所属事務所は[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")\[1\]。血液型はA型。
+**小林 明実**（こばやし あけみ、[1981年](../Page/1981年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[女優](../Page/俳優.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[オスカープロモーション](https://ja.wikipedia.org/wiki/オスカープロモーション "wikilink")所属\[1\]。
 
-旧芸名は**小林あけみ**\[2\]、**小林明美**、**AKEMI**。アニメーターの小林明美とは別人である。
+旧芸名は、**小林あけみ**\[2\]、**小林明美**、**AKEMI**。アニメーターの小林明美とは別人である。
 
-## 来歴・人物
+## 略歴
 
   - 父方の祖母と母が中国人、父方の祖父は日本人。弟1人妹3人がいる5人兄弟の長女。
-  - 1994年の終わり頃からモデル活動を開始する。『プチセブン』等のティーン雑誌やCMに出演後、1995年11月から『[mcSister](../Page/エムシーシスター.md "wikilink")』の専属モデルとなり一躍ブレイクする。
-  - 当初の所属事務所は[フロス](https://ja.wikipedia.org/wiki/フロス "wikilink")。その後[リエヴェを経てオスカーに移籍している](https://ja.wikipedia.org/wiki/アガペー_\(モデルエージェンシー\) "wikilink")。
-  - 2012年5月29日、自身のブログで同年3月10日に会社員の男性と入籍したことを発表\[3\]。同年9月20日、第一子となる男児を出産\[4\]。
-  - 女優の[小嶺麗奈](https://ja.wikipedia.org/wiki/小嶺麗奈 "wikilink")\[5\]とモデルの[理衣](../Page/理衣.md "wikilink")\[6\]は高校時代の同級生で、理衣とはmcSister時代からの親友である。また、モデルの[園原ゆかり](../Page/園原ゆかり.md "wikilink")とは一緒に食事に行くほどの仲良しである\[7\]。
+  - 13歳の時にモデルデビュー\[3\]。
+  - 当初の所属事務所は[フロス](https://ja.wikipedia.org/wiki/フロス "wikilink")。その後[リエヴェを経てオスカープロモーションに移籍した](https://ja.wikipedia.org/wiki/アガペー_\(モデルエージェンシー\) "wikilink")。
+
+## 人物
+
+  - 2012年3月10日、会社員の一般男性と結婚\[4\]。同年9月20日、第1子となる男児を出産\[5\]。2017年2月22日、第2子となる女児を出産\[6\]。2020年2月、第3子となる男児を出産\[7\]。
 
 ## 出演
 
@@ -72,11 +74,11 @@
 
 ## 外部リンク
 
-  - [AkemixBlog](https://blog.excite.co.jp/akemixblog)（2006年12月6日 - 2009年7月3日）
-
-  - （2009年7月3日 - ）
-
   -
+  - [akemixBlog](https://blog.excite.co.jp/akemixblog)（2006年 - 2009年）
+
+  - （2009年 - 2017年）
+
 [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:ガールズアワード出演モデル](https://ja.wikipedia.org/wiki/Category:ガールズアワード出演モデル "wikilink") [Category:オスカープロモーションの人物](https://ja.wikipedia.org/wiki/Category:オスカープロモーションの人物 "wikilink") [Category:中国系日本人](https://ja.wikipedia.org/wiki/Category:中国系日本人 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

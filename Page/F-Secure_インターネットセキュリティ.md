@@ -1,4 +1,4 @@
-> この記事は[F-Secure ](https://ja.wikipedia.org/wiki/F-Secure_)から翻訳されています。
+> この記事は[F-Secure インターネットセキュリティ](https://ja.wikipedia.org/wiki/F-Secure_インターネットセキュリティ)から翻訳されています。
 
 
 **F-Secure インターネットセキュリティ**（エフセキュア インターネットセキュリティ）とは、[フィンランド](../Page/フィンランド.md "wikilink")の[F-Secure](../Page/F-Secure.md "wikilink")社が開発する[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")。日本での販売は、現地法人のエフセキュア株式会社による。

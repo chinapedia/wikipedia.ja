@@ -1,4 +1,4 @@
-> この記事は[keep up spirits!](https://ja.wikipedia.org/wiki/keep_up_spirits!)から翻訳されています。
+> この記事は[島谷ひとみのkeep up spirits!](https://ja.wikipedia.org/wiki/島谷ひとみのkeep_up_spirits!)から翻訳されています。
 
 
 **島谷ひとみのkeep up spririts\!**（しまたにひとみのきーぷあっぷすぴりっつ）は、[文化放送](../Page/文化放送.md "wikilink")で放送されていたラジオ番組。パーソナリティは[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")。
@@ -75,7 +75,7 @@
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+  - [信越放送](../Page/信越放送.md "wikilink")
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [西日本放送](../Page/西日本放送.md "wikilink")

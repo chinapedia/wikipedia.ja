@@ -1,4 +1,4 @@
-> この記事は[Sin \(R\&B\)](https://ja.wikipedia.org/wiki/Sin_\(R\&B\))から翻訳されています。
+> この記事は[Sin \(R\&Bユニット\)](https://ja.wikipedia.org/wiki/Sin_\(R\&Bユニット\))から翻訳されています。
 
 
 **Sin**（シン）は、日本の男性R\&B[ユニットである](../Page/音楽ユニット.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")、[両A面シングル](https://ja.wikipedia.org/wiki/両A面シングル "wikilink")「GUILTY/Mind A.L.-Air Line-」で、[ユニバーサルミュージックHibikiレーベルより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。響サウンドファクトリー所属。

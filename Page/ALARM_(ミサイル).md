@@ -1,4 +1,4 @@
-> この記事は[ALARM \(\)](https://ja.wikipedia.org/wiki/ALARM_\(\))から翻訳されています。
+> この記事は[ALARM \(ミサイル\)](https://ja.wikipedia.org/wiki/ALARM_\(ミサイル\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ALARM-Hendon.jpg "wikilink") **ALARM**（アラーム）は、[MBDA](../Page/MBDA.md "wikilink")社によって開発された[対レーダーミサイル](../Page/対レーダーミサイル.md "wikilink")である。「ALARM」とは「空中発射対レーダーミサイル」（Air Launched Anti-Radiation Missile）の略であり、主に[敵防空網制圧](https://ja.wikipedia.org/wiki/航空作戦#敵防空網制圧 "wikilink")（**SEAD** ; Suppression of Enemy Air Defence）のために[レーダー](../Page/レーダー.md "wikilink")を破壊することを目的としている。

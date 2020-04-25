@@ -1,4 +1,4 @@
-> この記事は[BOY](https://ja.wikipedia.org/wiki/BOY)から翻訳されています。
+> この記事は[テラ戦士ΨBOY](https://ja.wikipedia.org/wiki/テラ戦士ΨBOY)から翻訳されています。
 
 
 『**テラ戦士Ψ BOY**』（テラせんし サイ ボーイ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")より全国[東映](../Page/東映.md "wikilink")系で公開された[映画](../Page/映画.md "wikilink")である。主演は[菊池桃子](../Page/菊池桃子.md "wikilink")。同時上映は『[エリア88](../Page/エリア88.md "wikilink")』。[配給収入](https://ja.wikipedia.org/wiki/配給収入 "wikilink")は2.5億円\[1\]。

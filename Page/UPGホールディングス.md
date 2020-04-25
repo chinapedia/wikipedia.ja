@@ -1,4 +1,4 @@
-> この記事は[UPG](https://ja.wikipedia.org/wiki/UPG)から翻訳されています。
+> この記事は[UPGホールディングス](https://ja.wikipedia.org/wiki/UPGホールディングス)から翻訳されています。
 
 
 **株式会社UPGホールディングス**は、[千葉県](../Page/千葉県.md "wikilink")[野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink")に本社を置く産業用[塗料](../Page/塗料.md "wikilink")を製造販売を行う企業。

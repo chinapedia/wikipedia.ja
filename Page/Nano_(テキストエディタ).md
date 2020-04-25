@@ -1,4 +1,4 @@
-> この記事は[Nano \(\)](https://ja.wikipedia.org/wiki/Nano_\(\))から翻訳されています。
+> この記事は[Nano \(テキストエディタ\)](https://ja.wikipedia.org/wiki/Nano_\(テキストエディタ\))から翻訳されています。
 
 
 **nano**（ナノ）は、[UNIX](../Page/UNIX.md "wikilink")を中心としたシステムで使われる、[curses](https://ja.wikipedia.org/wiki/curses "wikilink")を使った[テキストエディタ](../Page/テキストエディタ.md "wikilink")の一種である。

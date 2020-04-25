@@ -1,4 +1,4 @@
-> この記事は[OVERDRIVE \(\)](https://ja.wikipedia.org/wiki/OVERDRIVE_\(\))から翻訳されています。
+> この記事は[OVERDRIVE \(ブランド\)](https://ja.wikipedia.org/wiki/OVERDRIVE_\(ブランド\))から翻訳されています。
 
 
 **OVERDRIVE**（オーバードライブ）は、株式会社[キッチンガイズファクトリー](../Page/キッチンガイズファクトリー.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。略称「オバイブ」。

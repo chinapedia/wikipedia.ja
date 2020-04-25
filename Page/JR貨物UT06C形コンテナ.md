@@ -1,4 +1,4 @@
-> この記事は[JRUT06C](https://ja.wikipedia.org/wiki/JRUT06C)から翻訳されています。
+> この記事は[JR貨物UT06C形コンテナ](https://ja.wikipedia.org/wiki/JR貨物UT06C形コンテナ)から翻訳されています。
 
 
 **UT06C形コンテナ**（UT06Cがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している20[ft](../Page/フィート.md "wikilink")[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[タンクコンテナ](https://ja.wikipedia.org/wiki/タンクコンテナ "wikilink")）である。2007年（平成19年）4月現在、25個在籍している。

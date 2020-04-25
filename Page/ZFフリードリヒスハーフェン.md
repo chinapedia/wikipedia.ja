@@ -1,7 +1,7 @@
-> この記事は[ZF](https://ja.wikipedia.org/wiki/ZF)から翻訳されています。
+> この記事は[ZFフリードリヒスハーフェン](https://ja.wikipedia.org/wiki/ZFフリードリヒスハーフェン)から翻訳されています。
 
 
-**ZFフリードリヒスハーフェン**（*ZF Friedrichshafen AG*、ゼットエフ フリードリヒスハーフェン）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")[フリードリヒスハーフェン](../Page/フリードリヒスハーフェン.md "wikilink")に本拠を置く自動車[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")製造企業。社名のZFはZahnradfabrik(歯車工場）の略である。26か国で121社の生産会社を持つZFグループを形成している。
+**ZFフリードリヒスハーフェン**（*ZF Friedrichshafen AG*、ゼットエフ フリードリヒスハーフェン）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")[フリードリヒスハーフェン](../Page/フリードリヒスハーフェン.md "wikilink")に本拠を置く自動車[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")製造企業。社名のZFはZahnradfabrik(歯車工場）の略である。26か国で121社の生産会社を持つZFグループを形成している。自動車部品業界では世界第4位（[2018年](../Page/2018年.md "wikilink")度）。
 
 ## 概要
 

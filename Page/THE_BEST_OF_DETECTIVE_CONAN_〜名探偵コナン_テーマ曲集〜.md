@@ -1,4 +1,4 @@
-> この記事は[THE BEST OF DETECTIVE CONAN  ](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN__)から翻訳されています。
+> この記事は[THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜)から翻訳されています。
 
 
 『**THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜**』（ザ・ベスト・オブ・ディテクティヴ・コナン めいたんていコナン テーマきょくしゅう）は、[青山剛昌](../Page/青山剛昌.md "wikilink")原作のテレビアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のテーマ曲集第1弾。

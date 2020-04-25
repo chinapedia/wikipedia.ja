@@ -1,4 +1,4 @@
-> この記事は[LPL \(\)](https://ja.wikipedia.org/wiki/LPL_\(\))から翻訳されています。
+> この記事は[LPL \(写真\)](https://ja.wikipedia.org/wiki/LPL_\(写真\))から翻訳されています。
 
 
 株式会社**LPL**（えるぴーえる）は、[引き伸ばし機](../Page/引き伸ばし機.md "wikilink")、[自動現像機](https://ja.wikipedia.org/wiki/自動現像機 "wikilink")、[三脚](../Page/三脚.md "wikilink")などの写真関係の機材の製造などを手がけるメーカーである。本社は[埼玉県](../Page/埼玉県.md "wikilink")[所沢市](../Page/所沢市.md "wikilink")。

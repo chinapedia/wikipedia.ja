@@ -1,4 +1,4 @@
-> この記事は[CR.714 \(\)](https://ja.wikipedia.org/wiki/CR.714_\(\))から翻訳されています。
+> この記事は[CR.714 \(航空機\)](https://ja.wikipedia.org/wiki/CR.714_\(航空機\))から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Ferte-Alais_Air_Show_2004_16.jpg "wikilink") **CR.714**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[コードロン](https://ja.wikipedia.org/wiki/コードロン "wikilink")社によって開発され、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で使用された[戦闘機](../Page/戦闘機.md "wikilink")である。木製で軽快な機体であったが、当時の主力戦闘機の[MS.406](https://ja.wikipedia.org/wiki/モラーヌ・ソルニエMS406 "wikilink")、[D.520の影に隠れて少数が使用されたに留まった](../Page/D.520_\(航空機\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[HIM \(\)](https://ja.wikipedia.org/wiki/HIM_\(\))から翻訳されています。
+> この記事は[HIM \(音楽プロジェクト\)](https://ja.wikipedia.org/wiki/HIM_\(音楽プロジェクト\))から翻訳されています。
 
 
 **HIM**（エイチ・アイ・エム / **H**iromasa **I**jichi **M**elodies）は、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の音楽[プロジェクト](../Page/プロジェクト.md "wikilink")兼[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ダンス](../Page/ダンス.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[Sony Music Entertainment(Japan) Inc.](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") 所属。

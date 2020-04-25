@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDエル・ナシオナル](https://ja.wikipedia.org/wiki/CDエル・ナシオナル)から翻訳されています。
 
 
 **CDエル・ナシオナル**()は、[エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink")の首都[キト](../Page/キト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。南米の類似名クラブとの混同を避けるためにナシオナル・キト(*Nacional de Quito*)とも呼ばれる。

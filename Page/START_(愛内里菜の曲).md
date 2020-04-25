@@ -1,4 +1,4 @@
-> この記事は[START \(\)](https://ja.wikipedia.org/wiki/START_\(\))から翻訳されています。
+> この記事は[START \(愛内里菜の曲\)](https://ja.wikipedia.org/wiki/START_\(愛内里菜の曲\))から翻訳されています。
 
 
 「**START**」（スタート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")の17作目の[シングル](../Page/シングル.md "wikilink")。

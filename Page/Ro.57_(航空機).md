@@ -1,4 +1,4 @@
-> この記事は[Ro.57 \(\)](https://ja.wikipedia.org/wiki/Ro.57_\(\))から翻訳されています。
+> この記事は[Ro.57 \(航空機\)](https://ja.wikipedia.org/wiki/Ro.57_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= IMAM Ro.57 | 画像= <File:Italian_IMAM_Ro.57_bis_fighter_front_quarter_view.jpg> | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink")/[急降下爆撃機](../Page/急降下爆撃機.md "wikilink") | 分類= | 設計者= ジョヴァンニ・ガラッソ（Giovanni Galasso） | 製造者=[IMAM](../Page/インドゥストリエ・メッカーニケ・アエロナウティケ・メリディオナーリ.md "wikilink") | 運用者= | 初飛行年月日= | 生産数=50 - 75機 | 生産開始年月日= | 運用開始年月日=[1943年](../Page/1943年.md "wikilink") | 退役年月日= | 運用状況= | ユニットコスト= }}

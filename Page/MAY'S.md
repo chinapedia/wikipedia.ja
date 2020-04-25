@@ -449,9 +449,9 @@ KICS-1842</p></td>
 
   - [所属事務所による「MAY'S」公式サイト](http://www.clubmays.com/)
 
-  - [片桐舞子公式ブログ 「MAY'S OFFICIAL BLOG -舞こりん。-」](http://ameblo.jp/clubmays/)
+  - [片桐舞子公式ブログ 「MAY'S OFFICIAL BLOG -舞こりん。-」](https://ameblo.jp/clubmays/)
 
-  - [河井純一 a.k.a. NAUGHTY BO-Z公式ブログ 「MAY'S OFFICIAL BLOG | NAUGHTY BO-Z」](http://ameblo.jp/naughtybo-z/)
+  - [河井純一 a.k.a. NAUGHTY BO-Z公式ブログ 「MAY'S OFFICIAL BLOG | NAUGHTY BO-Z」](https://ameblo.jp/naughtybo-z/)
 
   -
   -

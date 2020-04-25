@@ -72,10 +72,10 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
 7.  クリスマスにくちづけを（2003年11月19日） オリコンデイリー26位 オリコン92位
     1.  クリスマスにくちづけを\[3:45\] - ANB系ドラマ「[独身3\!\!](../Page/独身3!!.md "wikilink")」主題歌
           -
-            作詞：ｍmyo／作曲：[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")／編曲：[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
+            作詞：myco／作曲：[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")／編曲：[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")
     2.  Confession\[5:03\]
           -
-            作詞：ｍmyo／作曲：西賢二／編曲：村山晋一郎
+            作詞：myco／作曲：西賢二／編曲：村山晋一郎
     3.  クリスマスにくちづけを (Instrumental)\[3:45\]
     4.  COnfession (Instrumental)\[5:02\]
 

@@ -1,7 +1,7 @@
 > この記事は[賢者の長き不在 -THE FIRSTKING ADVENTURE-](https://ja.wikipedia.org/wiki/賢者の長き不在_-THE_FIRSTKING_ADVENTURE-)から翻訳されています。
 
 
-『**賢者の長き不在 -THE FIRSTKING ADVENTURE-**』（けんじゃのながきふざい ザ・ファーストキング・アドベンチャー）は[マッグガーデン](../Page/マッグガーデン.md "wikilink")の[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")にて連載されていた[藤野もやむ](https://ja.wikipedia.org/wiki/藤野もやむ "wikilink")の[ファンタジー](../Page/ファンタジー.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。略称は「**賢長不**」または「賢者」。キャラクターグッズ化もされている。全8巻。
+『**賢者の長き不在 -THE FIRSTKING ADVENTURE-**』（けんじゃのながきふざい ザ・ファーストキング・アドベンチャー）は[マッグガーデン](../Page/マッグガーデン.md "wikilink")の[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")にて連載されていた[藤野もやむ](https://ja.wikipedia.org/wiki/藤野もやむ "wikilink")の[ファンタジー](../Page/ファンタジー.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](../Page/作品.md "wikilink")。略称は「**賢長不**」または「賢者」。キャラクターグッズ化もされている。全8巻。
 
 タイトルの『賢者の長き不在』には一応『LONG ABSENCE OF THE WISDOM』という英訳が付けられているが、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")などで出版されている[英語](../Page/英語.md "wikilink")版の漫画ではサブタイトルの『THE FIRSTKING ADVENTURE』が題名として用いられている。『賢者長久不在』という題の[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版や『DER KLEINE KONIG VALUMU』（小さな王ヴァルム）という題の[ドイツ語](../Page/ドイツ語.md "wikilink")版（1冊6.5ユーロ：約950円）も存在する。
 

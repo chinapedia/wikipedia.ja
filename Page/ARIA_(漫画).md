@@ -139,6 +139,8 @@
 
 [2015年](../Page/2015年.md "wikilink")2月に全シリーズのブルーレイボックス化が発表、合わせてアニメ10周年記念作品『ARIA The AVVENIRE』の制作が発表された（詳細は後述）。
 
+[2020年](../Page/2020年.md "wikilink")4月にアニメ15周年記念プロジェクトとして、2020年冬に新作アニメーションが公開されると発表された\[2\]\[3\]。
+
 ### 概要
 
   -
@@ -165,10 +167,12 @@
   -
     TVアニメ10周年記念プロジェクト『蒼のカーテンコール』のプロジェクトのひとつとしてスタート（読みは「アリア ジ アッヴェニーレ」）。
     2015年9月26日よりイベント上映された。全3話（既存の原作で未アニメ化だった2つの話と、天野こずえ完全書き下ろしの新作コミックを基にした1話）で、第1話は2015年12月24日発売の『ARIA The ANIMATION Blu-ray BOX』、第2話は2016年3月23日発売の『ARIA The NATURAL Blu-ray BOX』、第3話は2016年6月24日発売の『ARIA The ORIGINATION Blu-ray BOX』に収録されたのち、2017年9月6日には劇場版公開時と同じ仕様にて単独のBlu-ray Discが発売された。タイトルロゴは薄い青色。
-    キャラクターデザインが第1期より務めた[古賀誠から第](../Page/古賀誠_\(アニメーター\).md "wikilink")1期・第2期で作画監督、第3期で総作画監督を務めた[音地正行](../Page/音地正行.md "wikilink")に変更された。また制作会社は[TYOアニメーションズ](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")が担当\[2\]。
-    同年4月に正式なキャストが発表。メインキャストは全員テレビシリーズから、そのまま継続。2011年に逝去したアテナ役の[川上とも子](../Page/川上とも子.md "wikilink")も原作者などが同意の上、特別クレジットという形で記名されている\[3\]。
+    キャラクターデザインが第1期より務めた[古賀誠から第](../Page/古賀誠_\(アニメーター\).md "wikilink")1期・第2期で作画監督、第3期で総作画監督を務めた[音地正行](../Page/音地正行.md "wikilink")に変更された。また制作会社は[TYOアニメーションズ](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")が担当\[4\]。
+    同年4月に正式なキャストが発表。メインキャストは全員テレビシリーズから、そのまま継続。2011年に逝去したアテナ役の[川上とも子](../Page/川上とも子.md "wikilink")も原作者などが同意の上、特別クレジットという形で記名されている\[5\]。
     時間軸的には『ORIGINATION』のアイ入社からさらに後（アイがシングルに昇格しているので、1年程度経過していると推測できる）。灯里がアリシアからARIAカンパニーを受け継ぎ、直後に入社したアイが「シングル」として修行に励みつつ、他のカンパニーの新人「あずさ」と「アーニャ」と共に新世代のウンディーネとして、かつての灯里・藍華・アリスたちのように交流を深め「プリマ」を目指している。
-    アーニャ役の[茅野愛衣](https://ja.wikipedia.org/wiki/茅野愛衣 "wikilink")は美容師として働いていた頃、帰宅後につけたテレビアニメ版を見て、自身の心がとても癒されたことで「アニメにも癒しの力がある」とアニメに興味を持つようになったという。それを期に声優業を志した茅野は、そのきっかけとなった本作に参加したことについて、監督の佐藤は、アフレコ現場で感動のあまり泣き出してしまったことを打ち明けている\[4\]。
+    アーニャ役の[茅野愛衣](https://ja.wikipedia.org/wiki/茅野愛衣 "wikilink")は美容師として働いていた頃、帰宅後につけたテレビアニメ版を見て、自身の心がとても癒されたことで「アニメにも癒しの力がある」とアニメに興味を持つようになったという。それを期に声優業を志した茅野は、そのきっかけとなった本作に参加したことについて、監督の佐藤は、アフレコ現場で感動のあまり泣き出してしまったことを打ち明けている\[6\]。
+  - 2020年新作アニメ
+    2020年冬に新作アニメが公開予定。前作ではライブラリ出演となっていたアテナは、新規に[佐藤利奈](../Page/佐藤利奈.md "wikilink")がキャスティングされており、新規収録が行われる\[7\]\[8\]。
 
 ### スタッフ
 
@@ -205,7 +209,7 @@
 <tr class="odd">
 <td><p>キャラクターデザイン</p></td>
 <td><p><a href="../Page/古賀誠_(アニメーター).md" title="wikilink">古賀誠</a></p></td>
-<td><p><a href="../Page/音地正行.md" title="wikilink">音地正行</a>[5]</p></td>
+<td><p><a href="../Page/音地正行.md" title="wikilink">音地正行</a>[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1065,7 +1069,7 @@
 <td><p>4</p></td>
 <td><p>その 明日を目指すものたちは…</p></td>
 <td><p>竹下健一</p></td>
-<td><p>井上英紀[6]</p></td>
+<td><p>井上英紀[10]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1334,7 +1338,7 @@ Navigation</p></td>
 
 『**ARIA The NATURAL 〜遠い記憶のミラージュ〜**』（アリア ザ ナチュラル とおいゆめのミラージュ）のタイトルで、2006年[9月28日](../Page/9月28日.md "wikilink")に[アルケミストから](../Page/アルケミスト_\(企業\).md "wikilink")[PlayStation 2用ゲームとして発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。2008年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[加賀クリエイト](https://ja.wikipedia.org/wiki/加賀クリエイト "wikilink")からベスト版が発売している。
 
-ゲーム自体はアニメ的な演出効果を盛り込んでいる[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")の形式をとっており\[7\]、物語を主人公の青年の視点から描いている。また、本作のために新たに書き下ろされたCGや天野自らがデザインしたゲームオリジナルのキャラクターも追加されている。2006年4月に行われたアルケミストのイベント「アルケ祭」にて本作の主題歌が発表された。
+ゲーム自体はアニメ的な演出効果を盛り込んでいる[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")の形式をとっており\[11\]、物語を主人公の青年の視点から描いている。また、本作のために新たに書き下ろされたCGや天野自らがデザインしたゲームオリジナルのキャラクターも追加されている。2006年4月に行われたアルケミストのイベント「アルケ祭」にて本作の主題歌が発表された。
 
   - ストーリー
     主人公はマンホーム（地球）の大学で[都市工学](../Page/都市工学.md "wikilink")を専攻する青年。彼は[フィールドワーク](../Page/フィールドワーク.md "wikilink")のためにアクアを訪れたが、ふとしたきっかけで灯里と出会い、行動を共にすることとなる。灯里達とのアクアでの生活は楽しく穏やかに過ぎていくのだが、そんな日常がゆっくりと確実に変わっていく。
@@ -1372,13 +1376,13 @@ Navigation</p></td>
 
 #### ARIA The AVVENIRE（ゲーム）
 
-『**ARIA The AVVENIRE**』（アリア ジ アッヴェニーレ）のタイトルで、同名のTVアニメ10周年記念プロジェクト『蒼のカーテンコール』のプロジェクトのOVAのイベント上映（劇場公開）を記念し、2015年9月24日に[Android](../Page/Android.md "wikilink")・[iOS用にHarvesTからリリースされた](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")\[8\]。
+『**ARIA The AVVENIRE**』（アリア ジ アッヴェニーレ）のタイトルで、同名のTVアニメ10周年記念プロジェクト『蒼のカーテンコール』のプロジェクトのOVAのイベント上映（劇場公開）を記念し、2015年9月24日に[Android](../Page/Android.md "wikilink")・[iOS用にHarvesTからリリースされた](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")\[12\]。
 
 ジャンルは[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")となっていて、カンパニーの手伝いとして、アリア社長がおつかいで買ってくるグッズで内装を変えたり、お店を訪れるキャラクターと会話したりすることで同名OVAの画像を集めたりすることができる。時間をおいて起動することでも内容はすすむ。無料アプリで、アプリ内課金もない。
 
 #### ARIA 〜AQUA RITMO〜
 
-『**ARIA 〜AQUA RITMO〜**』（アリア アクア リトゥモ）のタイトルで、2016年[1月15日](../Page/1月15日.md "wikilink")に[Android](../Page/Android.md "wikilink")用に[Google Playにて](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[9\]、2016年1月28日に[iOS用に](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[App Storeにて](../Page/App_Store.md "wikilink")\[10\]共にHarvesTからモバイルゲームとして発売された。
+『**ARIA 〜AQUA RITMO〜**』（アリア アクア リトゥモ）のタイトルで、2016年[1月15日](../Page/1月15日.md "wikilink")に[Android](../Page/Android.md "wikilink")用に[Google Playにて](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[13\]、2016年1月28日に[iOS用に](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[App Storeにて](../Page/App_Store.md "wikilink")\[14\]共にHarvesTからモバイルゲームとして発売された。
 
 ジャンルは[リズムゲーム](https://ja.wikipedia.org/wiki/リズムゲーム "wikilink")となっていて、アニメで使用された楽曲が収録され、またキャラクターも登場し[Live2D](https://ja.wikipedia.org/wiki/Live2D "wikilink")アニメーションと新規録りおろし音声を収録、他に最高のプリマを目指すという目的の下ストーリーイベントも用意されている。基本プレイ無料だが、アプリ内課金あり。
 
@@ -1401,7 +1405,7 @@ Navigation</p></td>
     2008年5月29日 - 7月10日まで音泉にて隔週木曜日に配信。全4回。
     パーソナリティ：葉月絵理乃・西村ちなみ
   - ARIA The Station Memoria
-    2015年12月23日 - 2016年6月22日まで音泉にて毎月第4水曜日に配信。全7回\[11\]。
+    2015年12月23日 - 2016年6月22日まで音泉にて毎月第4水曜日に配信。全7回\[15\]。
     パーソナリティ：葉月絵理乃・西村ちなみ
 
 ## イベント
@@ -1475,14 +1479,14 @@ Navigation</p></td>
       - ARIA The ANIMATION ORIGINAL SOUNDTRACK - 音楽：Choro Club feat. Senoo / 発売日：2005年[11月23日](../Page/11月23日.md "wikilink")
       - ARIA The NATURAL ORIGINAL SOUNDTRACK due - 音楽：Choro Club feat. Senoo / 発売日：2006年[5月24日](../Page/5月24日.md "wikilink")
       - ARIA The ORIGINATION ORIGINAL SOUNDTRACK tre - 音楽：Choro Club feat. Senoo / 発売日：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")
-  - [ARIA 〜ピアノ・コレクション〜 スタジオーネ -季節-](https://ja.wikipedia.org/wiki/ARIAシリーズのディスコグラフィ#ピアノコレクション "wikilink") - 音楽：妹尾武、窪田ミナ / モノローグ：葉月絵理乃、斎藤千和、広橋涼、大原さやか / 発売日：2006年[8月2日](../Page/8月2日.md "wikilink")\[12\]
+  - [ARIA 〜ピアノ・コレクション〜 スタジオーネ -季節-](https://ja.wikipedia.org/wiki/ARIAシリーズのディスコグラフィ#ピアノコレクション "wikilink") - 音楽：妹尾武、窪田ミナ / モノローグ：葉月絵理乃、斎藤千和、広橋涼、大原さやか / 発売日：2006年[8月2日](../Page/8月2日.md "wikilink")\[16\]
   - [ARIA The NATURAL ボーカルソング・コレクション](https://ja.wikipedia.org/wiki/ARIAシリーズのディスコグラフィ#ボーカルソング・コレクション "wikilink") - 音楽：牧野由依、ROUND TABLE feat. Nino、河井英里、葉月絵理乃、斎藤千和、ウンディーネ娘 feat. アリア社長 / 発売日：2006年[9月6日](../Page/9月6日.md "wikilink")
   - ARIA The ORIGINATION ピアノ・コレクション II ディパルテンツァ -旅立ち- - 音楽: 妹尾武、窪田ミナ / 発売日：2008年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")
   - [ARIA The BOX](https://ja.wikipedia.org/wiki/ARIAシリーズのディスコグラフィ#ARIA_The_BOX "wikilink") - 音楽：Choro Club feat. Senoo / 発売日：[2009年](../Page/2009年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")
 
 ### その他の関連CD
 
-  - モーメント - 音楽：窪田ミナ / 発売日：2008年2月20日\[13\]
+  - モーメント - 音楽：窪田ミナ / 発売日：2008年2月20日\[17\]
   - ARIA the ORIGINATION 〜蒼い惑星のエルシエロ〜 - ゲーム ARIA the ORIGINATION 〜蒼い惑星のエルシエロ〜 OPテーマ、EDテーマ、挿入歌を収録したシングル。全6曲中、3曲はoff vocal。その他、「graceful way」歌KICCO 「ll Cielo」歌：アニー（花澤香菜）、「花ノ咲ク星」歌：諫山実生。
   - 『ARIA The STATION Tricolore 特別版』 パーソナリティー アリシアVer. - パーソナリティ：大原さやか / 1/8PVC塗装済み完成品アリシア AT-G限定版スペシャル特典CD / 発売日：2007年9月28日
 
@@ -1512,15 +1516,15 @@ Navigation</p></td>
 
 ## 外部リンク
 
-  - [「ARIA The ANIMATION」公式サイト](http://www.ariacompany.net/1st/)
+  - [「ARIA The ANIMATION」公式サイト](https://www.ariacompany.net/1st/)
 
-  - [「ARIA The NATURAL」公式サイト](http://www.ariacompany.net/2nd/)
+  - [「ARIA The NATURAL」公式サイト](https://www.ariacompany.net/2nd/)
 
-  - [「ARIA The OVA 〜ARIETTA〜」公式サイト](http://www.ariacompany.net/2nd/ova.html)
+  - [「ARIA The OVA 〜ARIETTA〜」公式サイト](https://www.ariacompany.net/2nd/ova.html)
 
-  - [「ARIA The ORIGINATION」公式サイト](http://www.ariacompany.net/3rd/)
+  - [「ARIA The ORIGINATION」公式サイト](https://www.ariacompany.net/3rd/)
 
-  - [「ARIA The AVVENIRE」公式サイト](http://www.ariacompany.net/)
+  - [「ARIA The AVVENIRE」公式サイト](https://www.ariacompany.net/)
 
   - [「ARIA The NATURAL」公式サイト](https://www.tv-tokyo.co.jp/anime/aria_na/)（テレビ東京）
 
@@ -1528,18 +1532,22 @@ Navigation</p></td>
 
   -
   -
-[Category:ARIA](https://ja.wikipedia.org/wiki/Category:ARIA "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊コミックブレイドの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイドの漫画作品 "wikilink") [Category:月刊ステンシル](https://ja.wikipedia.org/wiki/Category:月刊ステンシル "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:メディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ作品 "wikilink") [Category:テレビ東京メディアネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:テレビ東京メディアネットのアニメ作品 "wikilink") [Category:マッグガーデンのアニメ作品](https://ja.wikipedia.org/wiki/Category:マッグガーデンのアニメ作品 "wikilink") [Category:アルケミストのゲームソフト](https://ja.wikipedia.org/wiki/Category:アルケミストのゲームソフト "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:マッグガーデンノベルス](https://ja.wikipedia.org/wiki/Category:マッグガーデンノベルス "wikilink") [Category:火星を舞台とした作品](https://ja.wikipedia.org/wiki/Category:火星を舞台とした作品 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")
+[Category:ARIA](https://ja.wikipedia.org/wiki/Category:ARIA "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊コミックブレイドの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイドの漫画作品 "wikilink") [Category:月刊ステンシル](https://ja.wikipedia.org/wiki/Category:月刊ステンシル "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:メディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ作品 "wikilink") [Category:テレビ東京メディアネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:テレビ東京メディアネットのアニメ作品 "wikilink") [Category:マッグガーデンのアニメ作品](https://ja.wikipedia.org/wiki/Category:マッグガーデンのアニメ作品 "wikilink") [Category:アルケミストのゲームソフト](https://ja.wikipedia.org/wiki/Category:アルケミストのゲームソフト "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:マッグガーデンノベルス](https://ja.wikipedia.org/wiki/Category:マッグガーデンノベルス "wikilink") [Category:火星を舞台とした作品](https://ja.wikipedia.org/wiki/Category:火星を舞台とした作品 "wikilink") [Category:未来を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした漫画作品 "wikilink") [Category:未来を題材にしたアニメ作品](https://ja.wikipedia.org/wiki/Category:未来を題材にしたアニメ作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")
 
 1.
-2.  前シリーズを担当していた[ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink")は2009年ゆめ太カンパニーに吸収合併されTYOアニメーションズとなっている。
-3.  [ARIA The AVVENIRE Twitter公式アカウント（2015年4月5日）](https://twitter.com/ARIATheAVVENIRE/status/584922660557033473)より。なお、本作中にはアテナの新録セリフは無く、声の出演は回想シーンのみである。
-4.  「月刊NEWTYPE」2015年10月号別冊付録「movieNewtype」誌上のインタビューより
-5.
-6.  井上英紀はこの回の第一原画も1人で担当している。
+2.
+3.
+4.  前シリーズを担当していた[ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink")は2009年ゆめ太カンパニーに吸収合併されTYOアニメーションズとなっている。
+5.  [ARIA The AVVENIRE Twitter公式アカウント（2015年4月5日）](https://twitter.com/ARIATheAVVENIRE/status/584922660557033473)より。なお、本作中にはアテナの新録セリフは無く、声の出演は回想シーンのみである。
+6.  「月刊NEWTYPE」2015年10月号別冊付録「movieNewtype」誌上のインタビューより
 7.
 8.
 9.
-10.
+10. 井上英紀はこの回の第一原画も1人で担当している。
 11.
-12. トラック11のタイトルは「恋とはどんなもの?」だが実際は「『ARIA The ANIMATION』オリジナルサウンドトラック -」のトラック8「恋とはどんなもの?」ではなく同アルバムのトラック6「アクアアルタ日和」のピアノバージョンである。また作曲も「アクアアルタ日和」の作曲者の笹子重治ではなく「恋とはどんなもの?」の秋岡欧としてクレジットされている。原因は不明。
-13. 窪田ミナのファーストアルバム。全12曲の中に、以下の2曲も収録されている。M-3：ウンディーネ（ポルトガル語バージョン）歌：[隼人加織](https://ja.wikipedia.org/wiki/隼人加織 "wikilink")、M-9：スピラーレ（オリジナルアレンジによるセルフカバー。インスト曲）。
+12.
+13.
+14.
+15.
+16. トラック11のタイトルは「恋とはどんなもの?」だが実際は「『ARIA The ANIMATION』オリジナルサウンドトラック -」のトラック8「恋とはどんなもの?」ではなく同アルバムのトラック6「アクアアルタ日和」のピアノバージョンである。また作曲も「アクアアルタ日和」の作曲者の笹子重治ではなく「恋とはどんなもの?」の秋岡欧としてクレジットされている。原因は不明。
+17. 窪田ミナのファーストアルバム。全12曲の中に、以下の2曲も収録されている。M-3：ウンディーネ（ポルトガル語バージョン）歌：[隼人加織](https://ja.wikipedia.org/wiki/隼人加織 "wikilink")、M-9：スピラーレ（オリジナルアレンジによるセルフカバー。インスト曲）。

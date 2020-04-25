@@ -121,7 +121,7 @@
 
   - スタジオライブ「AX SPECIAL LIVE」で使われていた歌詞の字幕テロップは、なぜか時々画面右端からはみ出しかけたり、はみ出すことが多々あった。[フォント](../Page/フォント.md "wikilink")は[写研](../Page/写研.md "wikilink")の[石井ゴシック](https://ja.wikipedia.org/wiki/石井ゴシック "wikilink")。
   - 「AX SPECIAL LIVE」でのセットは、2004年4月にリニューアルし、そのセットは後継番組である『音楽戦士 MUSIC FIGHTER』内で使われていた。
-  - 放送局によっては、ホームページ内で番組タイトルを「AX MUSIC TV」などと表記することが多く、きちんと「AX MUSIC-TV」と表記していたのは[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")だけだった。
+  - 放送局によっては、ホームページ内で番組タイトルを「AX MUSIC TV」などと表記することが多く、きちんと「AX MUSIC-TV」と表記していたのは[山口放送](../Page/山口放送.md "wikilink")だけだった。
 
 ## スタッフ
 

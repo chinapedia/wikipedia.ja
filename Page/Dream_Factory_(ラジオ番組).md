@@ -143,7 +143,7 @@
   - IBS [茨城放送](../Page/茨城放送.md "wikilink")（1996.4 - 2004.9）
   - CRT [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（1999.4 - 2004.9）
   - YBS [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（1990.4 - 1994.3）
-  - WBS [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（1991.10 - 2000.9、2001.1 - 2001.3）
+  - WBS [和歌山放送](../Page/和歌山放送.md "wikilink")（1991.10 - 2000.9、2001.1 - 2001.3）
   - RKC [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（1989.4 - 1994.3）
   - MRT [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（1989.4 - 1994.3）
 

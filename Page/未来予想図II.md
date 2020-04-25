@@ -11,7 +11,7 @@
   - シングル曲ではないが、ドリカムの代表曲の一つであり、数多くのアーティストにカバーされている。
   - DREAMS COME TRUEで演奏時間が最も長い曲で（7分20秒）、「未来予想図」と共に吉田が高校時代に作っていた曲だという。2年後の[1991年](../Page/1991年.md "wikilink")に発売された4thアルバム『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』に「未来予想図」が収録されるが、曲が出来たのはそちらの方が先だった為、そのままのタイトルでリリースされている\[1\]。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売の5thシングル「[笑顔の行方](../Page/笑顔の行方.md "wikilink")」のカップリング曲としてリカットされており、シングルバージョンの収録時間は6分32秒で、曲の最後でフェードアウトする様にアレンジされている。
-  - [調](https://ja.wikipedia.org/wiki/調 "wikilink")は[嬰ヘ長調](../Page/嬰ヘ長調.md "wikilink")（[変ト長調](https://ja.wikipedia.org/wiki/変ト長調 "wikilink")）\[2\]。
+  - [調](../Page/調.md "wikilink")は[嬰ヘ長調](../Page/嬰ヘ長調.md "wikilink")（[変ト長調](https://ja.wikipedia.org/wiki/変ト長調 "wikilink")）\[2\]。
   - [2007年](../Page/2007年.md "wikilink")には、本曲と「未来予想図」のアンサーソングとして「[ア・イ・シ・テ・ルのサイン 〜わたしたちの未来予想図〜](../Page/ア・イ・シ・テ・ルのサイン_〜わたしたちの未来予想図〜.md "wikilink")」と題してシングル化された。カップリングには**-VERSION '07-**と題してリメイク版が収録された。以降のベスト盤にはリメイク版を中心に収録されている。
 
 ### 定番曲として
@@ -52,7 +52,7 @@
 
 ### 出典
 
-[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:1989年の楽曲](https://ja.wikipedia.org/wiki/Category:1989年の楽曲 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")
+[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:1989年の楽曲](https://ja.wikipedia.org/wiki/Category:1989年の楽曲 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
 
 1.  「ラジかるッ」の[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")のコーナーより。
 2.

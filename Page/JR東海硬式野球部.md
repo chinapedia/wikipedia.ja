@@ -50,6 +50,8 @@
   - [井手元健一朗](../Page/井手元健一朗.md "wikilink")投手（元[中日](../Page/中日ドラゴンズ.md "wikilink")、[西武](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")；退部）
   - [中田亮二](https://ja.wikipedia.org/wiki/中田亮二 "wikilink")内野手（元中日）
 
+## 脚注
+
 ## 関連項目
 
   - [JR東海](../Page/東海旅客鉄道.md "wikilink")

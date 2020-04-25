@@ -357,7 +357,7 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:関東地方の社会人野球](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球 "wikilink") [Category:茨城県のスポーツ](https://ja.wikipedia.org/wiki/Category:茨城県のスポーツ "wikilink") [Category:日立市](https://ja.wikipedia.org/wiki/Category:日立市 "wikilink") [Category:1977年開始のイベント](https://ja.wikipedia.org/wiki/Category:1977年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:関東地方の社会人野球](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球 "wikilink") [Category:茨城県のスポーツ](https://ja.wikipedia.org/wiki/Category:茨城県のスポーツ "wikilink") [Category:日立市](https://ja.wikipedia.org/wiki/Category:日立市 "wikilink") [Category:1977年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1977年開始のスポーツイベント "wikilink")
 
 1.  8月に開催する予定だった同年の都市対抗野球が秋に延期となったため、日本選手権の開催も見送りとなった。
 2.  グッドウィルというチーム名で出場。

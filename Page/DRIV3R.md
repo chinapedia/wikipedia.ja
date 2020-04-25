@@ -5,7 +5,7 @@
 
 「[Driver 潜入\!カーチェイス大作戦](https://ja.wikipedia.org/wiki/Driver_潜入!カーチェイス大作戦 "wikilink")」、「[Driver 2](https://ja.wikipedia.org/wiki/w:en:Driver_2 "wikilink")」に続くシリーズ第3作目で、日本では[PlayStation 2用ソフトが](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2004年10月28日、PC日本語版が[ライブドア](../Page/ライブドア.md "wikilink")から2005年9月2日に発売された。
 
-発売当初の[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")によるレーティングは「18歳以上対象」であったが、規制の見直しによって2006年5月31日以降「18歳以上のみ対象」へと変更になった。
+発売当初の[コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")によるレーティングは「18歳以上対象」であったが、規制の見直しによって2006年5月31日以降「18歳以上のみ対象」へと変更になった。
 
 ## 概要
 

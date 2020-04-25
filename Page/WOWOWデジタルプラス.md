@@ -15,7 +15,7 @@
 
 ## 委託放送事業者と放送チャンネル
 
-  - [メガポート放送](../Page/メガポート放送.md "wikilink") - 2005年10月1日、日本ビーエス放送（現・[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）に合併
+  - [メガポート放送](../Page/メガポート放送.md "wikilink") - 2005年10月1日、日本ビーエス放送（現・[日本BS放送](../Page/日本BS放送.md "wikilink")）に合併
       - 080ch - シネマ080 （¥ 420/月）- [2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に放送終了
       - 081ch - [囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink") （¥ 1,470/月） - 2005年9月30日に放送終了（現在は、スカパー\!（東経110度CS放送・Ch.CS363、16:9SD放送）にて放送中）
   - [CS-WOWOW](../Page/CS-WOWOW.md "wikilink") - 2007年3月解散

@@ -1,7 +1,7 @@
 > この記事は[BRICs](https://ja.wikipedia.org/wiki/BRICs)から翻訳されています。
 
 
-**BRICs**（ブリックス、[英語](../Page/英語.md "wikilink") **B**razil, **R**ussia, **I**ndia, **C**hina から）は、2000年代以降著しい経済発展を遂げている、[中国の](../Page/中華人民共和国.md "wikilink")4ヶ国の総称。<span style="speak:none">（ブリック）</span>とも呼ばれる\[1\]。[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の[経済学者](../Page/経済学者.md "wikilink")である[ジム・オニールによって書かれた](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")の[投資家](../Page/投資家.md "wikilink")向け[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")『』\[2\] で初めて用いられ、世界中に広まった\[3\]\[4\]。
+**BRICS**（ブリックス、[英語](../Page/英語.md "wikilink") **B**razil, **R**ussia, **I**ndia, **C**hina から）は、2000年代以降著しい経済発展を遂げている、[中国の](../Page/中華人民共和国.md "wikilink")4ヶ国の総称。<span style="speak:none">（ブリック）</span>とも呼ばれる\[1\]。[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の[経済学者](../Page/経済学者.md "wikilink")である[ジム・オニールによって書かれた](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")の[投資家](../Page/投資家.md "wikilink")向け[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")『』\[2\] で初めて用いられ、世界中に広まった\[3\]\[4\]。
 
 また、4ヶ国（ブラジル、ロシア、インド、中国）に[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")（**S**outh Africa）を加えた5ヶ国は、**BRICS**\[5\] と総称される\[6\]。近年はBRICSの表記が一般的である。
 
@@ -117,7 +117,10 @@
       - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")保有国である。ただし、南アフリカはかつては核を保有していた。
       - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[ICBM](https://ja.wikipedia.org/wiki/ICBM "wikilink")保有国である。
       - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[SLBM](https://ja.wikipedia.org/wiki/SLBM "wikilink")保有国である。
+      - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[SSBN](https://ja.wikipedia.org/wiki/SSBN "wikilink")保有国である。
       - ロシア・中国は[衛星測位システム](../Page/衛星測位システム.md "wikilink")保有国である。
+      - ロシア・中国は[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")保有国である。
+      - ロシア・中国は[戦略爆撃機](../Page/戦略爆撃機.md "wikilink")保有国である。
       - ロシア・中国は[ASAT保有国である](../Page/衛星攻撃兵器.md "wikilink")。
       - ロシア・中国は[有人宇宙飛行](../Page/有人宇宙飛行.md "wikilink")を成功させた。
       - ロシア・中国は[月面着陸](../Page/月面着陸.md "wikilink")を成功させた。
@@ -132,7 +135,7 @@
 
   - ブラジルは[ラテンアメリカ](../Page/ラテンアメリカ.md "wikilink")文化圏、ロシアは[正教会](../Page/正教会.md "wikilink")文化圏、インドは[ヒンドゥー教](../Page/ヒンドゥー教.md "wikilink")文化圏、中国は[儒教](../Page/儒教.md "wikilink")文化圏、南アフリカは[ブラックアフリカ](../Page/ブラックアフリカ.md "wikilink")文化圏に属する。
   - 歴史的に中国やロシアは統一国家として存在してきた。インドが1つの国家として纏まったことはイギリスの統治による部分が大きい。ブラジルは[ポルトガル](../Page/ポルトガル.md "wikilink")の[植民地](../Page/植民地.md "wikilink")、南アフリカはイギリスの[植民地](../Page/植民地.md "wikilink")として形作られた。
-  - ブラジルは[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")圏、ロシアは[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")圏、インドは[ヒンドゥー語](https://ja.wikipedia.org/wiki/ヒンドゥー語 "wikilink")圏、中国は[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏、南アフリカは[英語圏](../Page/英語圏.md "wikilink")に属する。
+  - ブラジルは[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")圏、ロシアは[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")圏、インドは[ヒンディー語](../Page/ヒンディー語.md "wikilink")圏、中国は[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏、南アフリカは[英語圏](../Page/英語圏.md "wikilink")に属する。
   - ブラジルは[南アメリカ](../Page/南アメリカ.md "wikilink")、ロシアは[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、インドは[南アジア](../Page/南アジア.md "wikilink")、中国は[東アジア](../Page/東アジア.md "wikilink")、南アフリカは[アフリカ](../Page/アフリカ.md "wikilink")に属する。
 
 ### その他

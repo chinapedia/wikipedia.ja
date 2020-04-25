@@ -322,7 +322,7 @@
 <tr class="even">
 <td><p>1998年12月11日（金）</p></td>
 <td><p>チェキッ娘オーディション<br />
-ゲスト審査員：小池聰行、<a href="../Page/袴田吉彦.md" title="wikilink">袴田吉彦</a>、<a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+ゲスト審査員：小池聰行、<a href="../Page/袴田吉彦.md" title="wikilink">袴田吉彦</a>、<a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1998年12月14日（月）</p></td>
@@ -748,6 +748,10 @@ DAIBAッテキ</p></td>
 </div>
 
 ## 脚注
+
+## 関連項目
+
+  - [芸能女学館 第2学期](../Page/アイドルハイスクール_芸能女学館.md "wikilink") - 同時期に同じフジテレビにて放映されていたアイドルバラエティ番組。本番組水曜レギュラーだった山本シュウが司会を務めた。1998年10月13日から1999年3月30日まで放映。
 
 ## 外部リンク
 

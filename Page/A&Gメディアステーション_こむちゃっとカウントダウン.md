@@ -4341,6 +4341,173 @@ ClariS（録音）</p></td>
 <td><p>戸松遥</p></td>
 <td><p>892</p></td>
 </tr>
+<tr class="odd">
+<td><p>11月23日</p></td>
+<td><p>889</p></td>
+<td><p>坂本真綾</p></td>
+<td><p>893</p></td>
+</tr>
+<tr class="even">
+<td><p>11月30日</p></td>
+<td><p>890</p></td>
+<td><p>内田雄馬</p></td>
+<td><p>894</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月7日</p></td>
+<td><p>891</p></td>
+<td><p>藍井エイル</p></td>
+<td><p>895</p></td>
+</tr>
+<tr class="even">
+<td><p>12月14日</p></td>
+<td><p>892</p></td>
+<td><p>小野大輔</p></td>
+<td><p>896</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月21日</p></td>
+<td><p>893</p></td>
+<td><p>斉藤壮馬</p></td>
+<td><p>897</p></td>
+</tr>
+<tr class="even">
+<td><p>12月28日</p></td>
+<td><p>894</p></td>
+<td><p>増田俊樹</p></td>
+<td><p>898</p></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日付</p></th>
+<th><p>回</p></th>
+<th><p>こむちゃゲスト</p></th>
+<th><p>こむちゃーとベスト10　1位獲得曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>回</p></td>
+<td><p>曲名</p></td>
+<td><p>アーティスト名</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月4日</p></td>
+<td><p>895</p></td>
+<td><p>雨宮天</p></td>
+<td><p>899</p></td>
+</tr>
+<tr class="even">
+<td><p>1月11日</p></td>
+<td><p>896</p></td>
+<td><p>福山潤</p></td>
+<td><p>900</p></td>
+</tr>
+<tr class="odd">
+<td><p>1月18日</p></td>
+<td><p>897</p></td>
+<td><p>宮野真守</p></td>
+<td><p>901</p></td>
+</tr>
+<tr class="even">
+<td><p>1月25日</p></td>
+<td><p>898</p></td>
+<td><p>上坂すみれ</p></td>
+<td><p>902</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月1日</p></td>
+<td><p>899</p></td>
+<td><p>水瀬いのり</p></td>
+<td><p>903</p></td>
+</tr>
+<tr class="even">
+<td><p>2月8日</p></td>
+<td><p>900</p></td>
+<td><p>綾野ましろ</p></td>
+<td><p>904</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月15日</p></td>
+<td><p>901</p></td>
+<td><p>やなぎなぎ</p></td>
+<td><p>905</p></td>
+</tr>
+<tr class="even">
+<td><p>2月22日</p></td>
+<td><p>902</p></td>
+<td><p>小林愛香</p></td>
+<td><p>906</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月29日</p></td>
+<td><p>903</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鬼頭明里" title="wikilink">鬼頭明里</a></p></td>
+<td><p>907</p></td>
+</tr>
+<tr class="even">
+<td><p>3月7日</p></td>
+<td><p>904</p></td>
+<td><p>小野大輔</p></td>
+<td><p>908</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月14日</p></td>
+<td><p>905</p></td>
+<td><p>仲村宗悟</p></td>
+<td><p>909</p></td>
+</tr>
+<tr class="even">
+<td><p>3月21日</p></td>
+<td><p>906</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上田麗奈" title="wikilink">上田麗奈</a></p></td>
+<td><p>910</p></td>
+</tr>
+<tr class="odd">
+<td><p>3月28日</p></td>
+<td><p>907</p></td>
+<td><p>林原めぐみ</p></td>
+<td><p>911</p></td>
+</tr>
+<tr class="even">
+<td><p>4月4日</p></td>
+<td><p>908</p></td>
+<td><p>麻倉もも</p></td>
+<td><p>912</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月11日</p></td>
+<td><p>909</p></td>
+<td><p>angela<br />
+（リモート出演）</p></td>
+<td><p>913</p></td>
+</tr>
+<tr class="even">
+<td><p>4月18日</p></td>
+<td><p>910</p></td>
+<td><p>安野希世乃<br />
+（リモート出演）</p></td>
+<td><p>914</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -4548,6 +4715,8 @@ ClariS（録音）</p></td>
 | 仲村宗悟                                                                     | ハイサイ                   | 883 |                                                                                   |
 | 諸星すみれ                                                                    | スミボー                   | 885 |                                                                                   |
 | halca                                                                    | えだまめ                   | 887 |                                                                                   |
+| 鬼頭明里                                                                     | 海外セレブ                  | 903 |                                                                                   |
+| 上田麗奈                                                                     | アイオライト                 | 906 |                                                                                   |
 |                                                                          |                        |     |                                                                                   |
 
 ## 年間ランキング1位獲得曲
@@ -4620,15 +4789,6 @@ ClariS（録音）</p></td>
 <td><p>毎週土曜日<br />
 23:00 - 23:30</p></td>
 <td><p>2016年4月3日 -</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
-<td><p>毎週金曜日<br />
-23:30 - 24:00</p></td>
-<td><p>2017年10月6日 -</p></td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -4741,6 +4901,14 @@ ClariS（録音）</p></td>
 2016年9月までは毎週日曜の21:30から、2018年3月までは毎週日曜の22:00から放送していた。</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p>&lt;!-- 毎週金曜日<br />
+23:30 - 24:00</p></td>
+<td><p>--&gt;2017年10月6日 - 2020年3月27日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>日本全国</p></td>
 <td><p>超!A&amp;G+</p></td>
 <td><p>デジタルラジオ放送</p></td>
@@ -4854,7 +5022,7 @@ CMはRAB、ABSでは放送されず、CMフィラーが放送される。
   - [番組公式ページ](http://www.joqr.co.jp/comcha/)
 
   -
-[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:超\!A\&G+](https://ja.wikipedia.org/wiki/Category:超!A&G+ "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:AbemaRADIO](https://ja.wikipedia.org/wiki/Category:AbemaRADIO "wikilink")
+[Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:超\!A\&G+](https://ja.wikipedia.org/wiki/Category:超!A&G+ "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink")
 
 1.  本社機能などはその直前に移転済みであった。
 2.  前後の週で1位を記録し、年間ベストヒット10にもランクインした田村ゆかり『おしえてAtoZ』など。

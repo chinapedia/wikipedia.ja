@@ -467,7 +467,7 @@
   - [TBSテレビ](../Page/TBSテレビ.md "wikilink")（制作局）
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森テレビ](../Page/青森テレビ.md "wikilink")\[37\]
-  - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")\[38\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")\[38\]
   - [山形放送](../Page/山形放送.md "wikilink")：木曜 18:00 - 18:30（本放送終了後に放送）\[39\]
   - [東北放送](../Page/東北放送.md "wikilink")\[40\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")\[41\]

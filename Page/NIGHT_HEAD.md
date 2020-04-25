@@ -176,6 +176,10 @@
   - 関本美佐：[木村翠](../Page/木村翠.md "wikilink")（第17話）
   - 花輪正太郎：[今福将雄](../Page/今福将雄.md "wikilink")（第16話・第17話）
   - アパート住人：[谷津勲](../Page/谷津勲.md "wikilink")（第12話）
+  - 坂口修：[走水杏伍](https://ja.wikipedia.org/wiki/走水杏伍 "wikilink")（第21話）
+  - 谷口吾郎：[小松とよあき](https://ja.wikipedia.org/wiki/小松とよあき "wikilink")（第21話）
+  - 瀬田明夫：[森山覚](https://ja.wikipedia.org/wiki/森山覚 "wikilink")（第21話）
+  - 園田弘美：[土井雅世](https://ja.wikipedia.org/wiki/土井雅世 "wikilink")（第21話）
 
 ### 放送リスト
 

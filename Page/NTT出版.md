@@ -1,7 +1,7 @@
 > この記事は[NTT出版](https://ja.wikipedia.org/wiki/NTT出版)から翻訳されています。
 
 
-**エヌ・ティ・ティ出版株式会社**（エヌ・ティ・ティしゅっぱん、**NTT出版**、英：*NTT Publishing Co., Ltd.*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区 "wikilink")にある[NTTグループ](../Page/NTTグループ.md "wikilink")の[出版社](../Page/出版社.md "wikilink")である。
+**エヌ・ティ・ティ出版株式会社**（エヌ・ティ・ティしゅっぱん、**NTT出版**、英：*NTT Publishing Co., Ltd.*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[NTTグループ](../Page/NTTグループ.md "wikilink")の[出版社](../Page/出版社.md "wikilink")である。
 
 ## 概要
 
@@ -36,4 +36,4 @@ NTTグループの大手[広告代理店](../Page/広告代理店.md "wikilink")
   - [NTT出版](http://www.nttpub.co.jp/)
 
   -
-[Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:NTTグループ](https://ja.wikipedia.org/wiki/Category:NTTグループ "wikilink")
+[Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:NTTグループ](https://ja.wikipedia.org/wiki/Category:NTTグループ "wikilink")

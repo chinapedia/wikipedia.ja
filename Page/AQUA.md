@@ -7,6 +7,7 @@
   - [アクアブルー](https://ja.wikipedia.org/wiki/アクアブルー "wikilink") - [水色](../Page/水色.md "wikilink")のこと。
   - [Aqua (人工衛星)](../Page/Aqua_\(人工衛星\).md "wikilink") - [NASA](../Page/アメリカ航空宇宙局.md "wikilink")、[NASDA](https://ja.wikipedia.org/wiki/NASDA "wikilink")などの機関が共同して打ち上げた地球観測衛星。
   - [AQUAシステム](https://ja.wikipedia.org/wiki/AQUAシステム "wikilink") - [防災科学技術研究所](../Page/防災科学技術研究所.md "wikilink")が運用する[地震警報システム](../Page/地震警報システム.md "wikilink")。
+  - [AQUA UNIVERSE](https://ja.wikipedia.org/wiki/AQUA_UNIVERSE "wikilink") - [単原子](https://ja.wikipedia.org/wiki/単原子 "wikilink")状態の[金](../Page/金.md "wikilink")である[単原子ゴールド](https://ja.wikipedia.org/wiki/単原子ゴールド "wikilink")を販売する会社。
 
 ## 　会社・商業施設・製品　
 

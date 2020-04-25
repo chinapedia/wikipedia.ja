@@ -116,4 +116,4 @@ DDR SDRAMから派生した、更に低電圧・高クロック動作の[DDR2 SD
 
 [el:Μνήμη τυχαίας προσπέλασης\#Τύποι μνήμης RAM](https://ja.wikipedia.org/wiki/el:Μνήμη_τυχαίας_προσπέλασης#Τύποι_μνήμης_RAM "wikilink") [fi:DRAM\#DDR SDRAM](https://ja.wikipedia.org/wiki/fi:DRAM#DDR_SDRAM "wikilink")
 
-[Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink") [Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:SDRAM](https://ja.wikipedia.org/wiki/Category:SDRAM "wikilink") [Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

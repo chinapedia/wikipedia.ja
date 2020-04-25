@@ -68,7 +68,7 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:近畿地方の社会人野球](https://ja.wikipedia.org/wiki/Category:近畿地方の社会人野球 "wikilink") [Category:兵庫県のスポーツ](https://ja.wikipedia.org/wiki/Category:兵庫県のスポーツ "wikilink") [Category:1974年開始のイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:近畿地方の社会人野球](https://ja.wikipedia.org/wiki/Category:近畿地方の社会人野球 "wikilink") [Category:兵庫県のスポーツ](https://ja.wikipedia.org/wiki/Category:兵庫県のスポーツ "wikilink") [Category:1974年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のスポーツイベント "wikilink")
 
 1.  [阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の影響のため。
 2.  開催地の1つである日本製鉄広畑球場の外周防球ネットが強風の為破損し、周辺の安全確保が困難と判断され球場が使用できなくなったたため。

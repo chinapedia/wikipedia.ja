@@ -1,7 +1,7 @@
 > この記事は[E-AMUSEMENT](https://ja.wikipedia.org/wiki/E-AMUSEMENT)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:e-AMUSEMENT_PASS.jpg "wikilink")（旧デザイン）\]\] **e-AMUSEMENT**（イー・アミューズメント）とは、[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")\[1\]が提供する[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")を[インターネット](../Page/インターネット.md "wikilink")でつなぐことにより、通信対戦や、全国ランキング、プレイデータの保存を可能にするネットワークサービス。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:e-AMUSEMENT_PASS.jpg "wikilink")（初代デザイン）\]\] **e-AMUSEMENT**（イー・アミューズメント）とは、[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")\[1\]が提供する[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")を[インターネット](../Page/インターネット.md "wikilink")でつなぐことにより、通信対戦や、全国ランキング、プレイデータの保存を可能にするネットワークサービス。
 
 [2018年](../Page/2018年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")より公式表記が全て小文字の**e-amusement**に変更された。
 

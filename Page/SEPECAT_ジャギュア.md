@@ -5,7 +5,7 @@
 
 ## 開発
 
-[1965年](../Page/1965年.md "wikilink")、[高等練習機を求めていた](../Page/練習機.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[軽攻撃機を求めていた](../Page/攻撃機.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の利益が一致し、共同開発が行われることとなった。共同開発にあたって、フランスからは[ブレゲー](https://ja.wikipedia.org/wiki/ブレゲー_\(航空機メーカー\) "wikilink")（現[ダッソー](../Page/ダッソー.md "wikilink")）社、イギリスからは[BAC](https://ja.wikipedia.org/wiki/ブリティッシュ・エアクラフト・コーポレーション "wikilink")（現[BAEシステムズ](../Page/BAEシステムズ.md "wikilink")）社が選ばれ、[1966年](../Page/1966年.md "wikilink")5月に国際共同会社SEPECAT社を設立した。SEPECATは戦闘訓練・対地支援機の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")共同開発 (Société Européenne de Production de 'l avion École de Combat et Appui Tactique) の[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")頭文字をとったものである。
+[1965年](../Page/1965年.md "wikilink")、[高等練習機を求めていた](../Page/練習機.md "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[軽攻撃機を求めていた](../Page/攻撃機.md "wikilink")[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の利益が一致し、共同開発が行われることとなった。共同開発にあたって、フランスからは[ブレゲー](https://ja.wikipedia.org/wiki/ブレゲー_\(航空機メーカー\) "wikilink")（現[ダッソー](../Page/ダッソー.md "wikilink")）社、イギリスからは[BAC](../Page/ブリティッシュ・エアクラフト・コーポレーション.md "wikilink")（現[BAEシステムズ](../Page/BAEシステムズ.md "wikilink")）社が選ばれ、[1966年](../Page/1966年.md "wikilink")5月に国際共同会社SEPECAT社を設立した。SEPECATは戦闘訓練・対地支援機の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")共同開発 (Société Européenne de Production de 'l avion École de Combat et Appui Tactique) の[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")頭文字をとったものである。
 
 開発では、まず8機の試作機が製造され、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[9月4日](../Page/9月4日.md "wikilink")に試作初号機が初飛行し、この段階で英仏双方で各200機を調達することで合意。[イギリス空軍](../Page/イギリス空軍.md "wikilink")は単座のジャギュア S（ジャギュア GR Mk.1）165機と複座のジャギュア B（ジャギュア T Mk.2）35機、[フランス空軍](../Page/フランス空軍.md "wikilink")は単座のジャギュア Aを160機と複座のジャギュア Eを40機を調達することになった。 [JaguarGR3_41Sqn_RAF_1999.jpeg](https://ja.wikipedia.org/wiki/File:JaguarGR3_41Sqn_RAF_1999.jpeg "fig:JaguarGR3_41Sqn_RAF_1999.jpeg")
 
@@ -19,7 +19,7 @@
 
 ## 運用
 
-[攻撃機](../Page/攻撃機.md "wikilink")として、[湾岸戦争](../Page/湾岸戦争.md "wikilink")や[コソボ紛争において実戦参加を行っているほか](https://ja.wikipedia.org/wiki/アライド・フォース作戦 "wikilink")、[イギリス空軍](../Page/イギリス空軍.md "wikilink")では[高等練習機としても用いられている](../Page/練習機.md "wikilink")。[フランス空軍](../Page/フランス空軍.md "wikilink")では核攻撃機としても運用されていたが、[ミラージュ2000Nに核攻撃任務は引き継がれた](../Page/ミラージュ2000_\(戦闘機\).md "wikilink")。
+[攻撃機](../Page/攻撃機.md "wikilink")として、[湾岸戦争](../Page/湾岸戦争.md "wikilink")や[コソボ紛争において実戦参加を行っているほか](https://ja.wikipedia.org/wiki/アライド・フォース作戦 "wikilink")、[イギリス空軍](../Page/イギリス空軍.md "wikilink")では[高等練習機としても用いられている](../Page/練習機.md "wikilink")。[フランス空軍](../Page/フランス空軍.md "wikilink")では核攻撃機としても運用されていたが、[ミラージュ2000Nに核攻撃任務は引き継がれた](https://ja.wikipedia.org/wiki/ミラージュ2000N_\(航空機\) "wikilink")。
 
 現在、作戦機としては、イギリス、フランス、[オマーン](https://ja.wikipedia.org/wiki/オマーン空軍 "wikilink")、ナイジェリア空軍から退役しており、残るのは[インド空軍](../Page/インド空軍.md "wikilink")のみ\[3\]。
 

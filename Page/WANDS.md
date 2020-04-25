@@ -35,7 +35,7 @@
 （しばさき ひろし）</p></td>
 <td><p><br />
  <a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><strong><a href="../Page/ギター.md" title="wikilink">ギター</a></strong><br />
+<td><p><strong><a href="../Page/ギター.md" title="wikilink">ギター</a>（初代）</strong><br />
 作曲・編曲</p></td>
 <td><p>●</p></td>
 </tr>
@@ -44,7 +44,7 @@
 （おおしま こうすけ）</p></td>
 <td><p><br />
  <a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><strong><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a></strong><br />
+<td><p><strong><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a>（初代）</strong><br />
 作曲・編曲</p></td>
 <td><p>●</p></td>
 </tr>
@@ -53,7 +53,7 @@
 （きむら しんや）</p></td>
 <td><p><br />
  <a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a><a href="../Page/五所川原市.md" title="wikilink">五所川原市</a></p></td>
-<td><p><strong>キーボード</strong><br />
+<td><p><strong>キーボード（2代目）</strong><br />
 作詞・作曲・編曲</p></td>
 <td></td>
 </tr>
@@ -71,7 +71,7 @@
 （すぎもと いっせい）</p></td>
 <td><p><br />
  東京都</p></td>
-<td><p><strong>ギター</strong><br />
+<td><p><strong>ギター（2代目）</strong><br />
 作詞・作曲・編曲</p></td>
 <td></td>
 </tr>
@@ -126,7 +126,7 @@
 
 ## バンド名の由来
 
-「WANDS」というバンド名は、プロデューサーである長戸が付けたもので、[タロットカード](https://ja.wikipedia.org/wiki/タロットカード "wikilink")の用語であるワンド（wand/wands：「魔法の杖」のこと。厳密には「ワンド」の中に複数の種類があり、WANDSの場合は「[ワンドのエース](https://ja.wikipedia.org/wiki/ワンドのエース "wikilink")」のことを指す。「ワンドのエース」には、「理想」「情熱に向かって進む」という意味がある）から名づけられたもの\[11\]。
+「WANDS」というバンド名は、プロデューサーである長戸が付けたもので、[タロットカード](https://ja.wikipedia.org/wiki/タロットカード "wikilink")のワンド（wand/wands：「魔法の杖」のこと）の中の、「理想」「情熱に向かって進む」という意味を持つ『[ワンドのエース](https://ja.wikipedia.org/wiki/ワンドのエース "wikilink")』から命名された\[11\]。
 
 第3期メンバーの和久（**W**aku）と杉元（**S**ugimoto）、第5期メンバーの上原(**W**ehara）も、芸名の苗字の頭文字が「**W**」と「**S**」になるように付けられている。
 
@@ -446,7 +446,7 @@
 </p></td>
 <td><p>14位</p></td>
 <td></td>
-<td><p>6,167枚</p></td>
+<td><p>9,565枚</p></td>
 <td><p>rowspan="4" </p></td>
 </tr>
 <tr class="odd">

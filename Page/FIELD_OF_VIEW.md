@@ -378,6 +378,7 @@
   - **[COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink")**（[通信販売](../Page/通信販売.md "wikilink")限定）
   - **[FUN Greatest Hits of 90's](../Page/FUN_Greatest_Hits_of_90's.md "wikilink")**（『突然』・『DAN DAN心魅かれてく』を収録）
   - **[BEST HIT BEING](https://ja.wikipedia.org/wiki/BEST_HIT_BEING "wikilink")**（『突然』を収録）
+  - **J-POP NON STOP MIX「キミが好きだと叫びたい 〜Love & Yell〜 mixed by DJ和」**(『DAN DAN 心魅かれてく』を収録)2020/4/8
 
 ### ライブ・イベント
 
@@ -475,7 +476,7 @@
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（「突然」「Last Good-bye」などで出演）
   - [NO.](../Page/NO..md "wikilink")
   - [CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink") （1999年年始に放送された「[CD NEWS SPECIAL](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")」で「君を照らす太陽に」を披露した）
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [うたばん](../Page/うたばん.md "wikilink")（トークなし）
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")
   - 日刊ひっと

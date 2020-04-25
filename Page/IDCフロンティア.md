@@ -48,7 +48,7 @@
 
   - [ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink")
   - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")(通信会社)
-  - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース#夜 "wikilink")(1992〜1996年に提供)
+  - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース・あすの天気 "wikilink")(1992〜1996年に提供)
 
 ## 外部リンク
 

@@ -295,6 +295,6 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東北地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東北地方の社会人野球 "wikilink") [Category:岩手県のスポーツ](https://ja.wikipedia.org/wiki/Category:岩手県のスポーツ "wikilink") [Category:1988年開始のイベント](https://ja.wikipedia.org/wiki/Category:1988年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東北地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東北地方の社会人野球 "wikilink") [Category:岩手県のスポーツ](https://ja.wikipedia.org/wiki/Category:岩手県のスポーツ "wikilink") [Category:1988年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1988年開始のスポーツイベント "wikilink")
 
 1.  大会準備に入っており、出場チームも決まっていた為、大会回数はカウントする。

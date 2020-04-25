@@ -5,7 +5,7 @@
 
 ## 解説
 
-5th『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来約1年5ヶ月となるアルバムで、6thアルバム『[ark](../Page/Ark_\(アルバム\).md "wikilink")』と同時発売されたアルバム。
+5thアルバム『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以来約1年5ヶ月となるアルバムで、6thアルバム『[ark](../Page/Ark_\(アルバム\).md "wikilink")』と同時発売されたアルバム。
 
 本作品は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の他、[台湾](../Page/中華民国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[アジア](../Page/アジア.md "wikilink")7ヶ国においてリリースされている\[1\]。
 

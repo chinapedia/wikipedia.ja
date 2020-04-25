@@ -5,9 +5,9 @@
 
 ## メンバー
 
-  - **[LITTLE](../Page/LITTLE.md "wikilink")**（リトル、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）：[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
-  - **[MCU](../Page/MCU_\(ラッパー\).md "wikilink")**（エムシーユー、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）：MC
-  - **[KREVA](../Page/KREVA.md "wikilink")**（クレバ、1976年[6月18日](../Page/6月18日.md "wikilink") - ）：MC、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")
+  - **[LITTLE](../Page/LITTLE.md "wikilink")**（リトル、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") [AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")）：[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
+  - **[KREVA](../Page/KREVA.md "wikilink")**（クレバ、1976年[6月18日](../Page/6月18日.md "wikilink") [O型](https://ja.wikipedia.org/wiki/O型 "wikilink")) ：MC&トラックメイカー
+  - **[MCU](../Page/MCU_\(ラッパー\).md "wikilink")**（エムシーユー、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/A型 "wikilink")）：MC
 
 ### サポートメンバー
 

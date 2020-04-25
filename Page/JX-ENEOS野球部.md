@@ -179,11 +179,11 @@
 
 ## 元プロ野球選手の競技者登録
 
-  - [青山誠](https://ja.wikipedia.org/wiki/青山誠 "wikilink")（元：[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")） - 外野手（2019年～）
+  - [青山誠](https://ja.wikipedia.org/wiki/青山誠 "wikilink")（元：[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")） - 外野手（2019年）→退団
   - [大久保秀昭](../Page/大久保秀昭.md "wikilink")（元：[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")） - 監督（2006年～2014年、2020年～）
   - [高橋憲幸](../Page/高橋憲幸.md "wikilink")（元：[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - コーチ→退団
   - [谷口邦幸](../Page/谷口邦幸.md "wikilink")（元：[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")） - 投手（2006年～2008年）→退団
-  - [園部聡](https://ja.wikipedia.org/wiki/園部聡 "wikilink")（元：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")） - 内野手（2019年～）
+  - [園部聡](https://ja.wikipedia.org/wiki/園部聡 "wikilink")（元：[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")） - 内野手（2019年）→退団
   - [東泉東二](https://ja.wikipedia.org/wiki/東泉東二 "wikilink")（元：[東急フライヤーズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - 投手→退団
 
 ## 主な在籍選手

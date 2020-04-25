@@ -1,7 +1,7 @@
 > この記事は[NO BORDER](https://ja.wikipedia.org/wiki/NO_BORDER)から翻訳されています。
 
 
-**NO BORDER**（ノーボーダー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のタレントによる[サークル](../Page/サークル.md "wikilink")である。
+**NO BORDER**（ノーボーダー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のタレントによるサークルである。
 
 ジャニーズ事務所内で“おもしろそうなヤツ”を選んで[佐藤アツヒロ](../Page/佐藤アツヒロ.md "wikilink")（元[光GENJI](../Page/光GENJI.md "wikilink")）が声をかけて集め\[1\]、サークル名は[生田斗真](../Page/生田斗真.md "wikilink")が付けた。**ジャニーズ友の会**とも呼ばれる。
 

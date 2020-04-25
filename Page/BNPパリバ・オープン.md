@@ -1034,7 +1034,7 @@
 
   -
   -
-[Category:ATPツアー](https://ja.wikipedia.org/wiki/Category:ATPツアー "wikilink") [Category:WTAツアー](https://ja.wikipedia.org/wiki/Category:WTAツアー "wikilink") [Category:ATPワールドツアー・マスターズ1000](https://ja.wikipedia.org/wiki/Category:ATPワールドツアー・マスターズ1000 "wikilink") [Category:ハードコートのテニス大会](https://ja.wikipedia.org/wiki/Category:ハードコートのテニス大会 "wikilink") [Category:アメリカ合衆国のテニス大会](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテニス大会 "wikilink") [Category:BNPパリバ](https://ja.wikipedia.org/wiki/Category:BNPパリバ "wikilink") [Category:カリフォルニア州のスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:カリフォルニア州のスポーツ競技大会 "wikilink") [Category:1974年開始のイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のイベント "wikilink")
+[Category:ATPツアー](https://ja.wikipedia.org/wiki/Category:ATPツアー "wikilink") [Category:WTAツアー](https://ja.wikipedia.org/wiki/Category:WTAツアー "wikilink") [Category:ATPワールドツアー・マスターズ1000](https://ja.wikipedia.org/wiki/Category:ATPワールドツアー・マスターズ1000 "wikilink") [Category:ハードコートのテニス大会](https://ja.wikipedia.org/wiki/Category:ハードコートのテニス大会 "wikilink") [Category:アメリカ合衆国のテニス大会](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテニス大会 "wikilink") [Category:BNPパリバ](https://ja.wikipedia.org/wiki/Category:BNPパリバ "wikilink") [Category:カリフォルニア州のスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:カリフォルニア州のスポーツ競技大会 "wikilink") [Category:1974年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1974年開始のスポーツイベント "wikilink")
 
 1.
 2.

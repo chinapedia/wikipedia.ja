@@ -26,7 +26,7 @@
 ■2002年：[Sony Music Auditionファイナルでソフィオレコード賞を受賞するが](https://ja.wikipedia.org/wiki/Sony_Music_Audition "wikilink")、その後ドラマーが脱退。
 ■2003年：[神田直樹](https://ja.wikipedia.org/wiki/神田直樹 "wikilink")が加入し、現在のラインナップとなる。北海道限定シングルの発表。
 ■2004年：9月に[ソニーレコーズよりメジャー](../Page/ソニー・ミュージックレコーズ.md "wikilink")・デビュー。
-　　　　　 [浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、[スピッツが所属する事務所](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")」と契約。
+　　　　　 [浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、[スピッツが所属する事務所](../Page/スピッツ_\(バンド\).md "wikilink")「[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")」と契約。
 ■2006年：秋に上記レコード会社を離れ、自主レーベルを立ち上げる。
 ■2012年：5/27 品川長年の希望が叶い、地元琴似神社の春季大祭のステージに立つ（縦組出演）
 ■2014年：8/16　RISING SUN ROCK FESTIVAL 2014 in EZO 〜defgarageにて初出演

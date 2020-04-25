@@ -38,7 +38,7 @@
   - [WAVE Facebook](https://www.facebook.com/pages/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96/114497691968783)
   - [サンリブ長門](http://www.sunlive.co.jp/shop/%E3%82%B5%E3%83%B3%E3%83%AA%E3%83%96%E9%95%B7%E9%96%80/)
 
-[Category:山口県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:山口県のショッピングセンター "wikilink") [Category:長門市の建築物](https://ja.wikipedia.org/wiki/Category:長門市の建築物 "wikilink") [Category:サンリブ・マルショクグループ](https://ja.wikipedia.org/wiki/Category:サンリブ・マルショクグループ "wikilink") [Category:1991年開業の施設](https://ja.wikipedia.org/wiki/Category:1991年開業の施設 "wikilink")
+[Category:山口県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:山口県のショッピングセンター "wikilink") [Category:長門市の建築物](https://ja.wikipedia.org/wiki/Category:長門市の建築物 "wikilink") [Category:サンリブ・マルショクグループ](https://ja.wikipedia.org/wiki/Category:サンリブ・マルショクグループ "wikilink") [Category:1991年開業の施設](https://ja.wikipedia.org/wiki/Category:1991年開業の施設 "wikilink") [Category:現存しない山口県の建築物](https://ja.wikipedia.org/wiki/Category:現存しない山口県の建築物 "wikilink")
 
 1.  図書館を含む。仙崎に2003年移転し、跡地にFMながとが入居する。
 2.  2011年12月9日開店。\[<http://situurakai.seesaa.net/article/239594181.html>　長門市・深川に「ヤマダ電機・テックランド長門店」オープン\]

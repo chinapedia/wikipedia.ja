@@ -16,7 +16,7 @@
   - [2009年](../Page/2009年.md "wikilink") ：リーグ戦では終始上位を争い、第13節終了時で2位[テイヘンズFC](../Page/テイヘンズFC.md "wikilink")に勝ち点差2の3位につける。最終節で勝利、一方のテイヘンズは敗北したため逆転で2位に入り、5年ぶりの1部昇格を決めた。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") ：5年ぶりの1部リーグでの戦いになったもののシーズン2勝にとどまり、2005年同様1年で2部降格となった。
   - [2011年](../Page/2011年.md "wikilink") ：2部リーグで2位となり、1部復帰を決めた。
-  - [2014年](../Page/2014年.md "wikilink") ：[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")、[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")を目指すため、運営団体として**[NPO法人](https://ja.wikipedia.org/wiki/NPO法人 "wikilink")アンテロープアスレティッククラブ**を設立\[2\]。
+  - [2014年](../Page/2014年.md "wikilink") ：[JFL](../Page/日本フットボールリーグ.md "wikilink")、[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")を目指すため、運営団体として**[NPO法人](https://ja.wikipedia.org/wiki/NPO法人 "wikilink")アンテロープアスレティッククラブ**を設立\[2\]。
   - [2016年](../Page/2016年.md "wikilink") ：1部リーグで7位で降格圏となったもののレギュレーションにより\[3\]、1部残留。
   - [2017年](../Page/2017年.md "wikilink") ：1部リーグでシーズン1勝にとどまり、2部降格となった。
 
@@ -51,7 +51,7 @@
 
 ## 所属選手・スタッフ
 
-  - 2019年
+  - 2020年
 
 ### スタッフ
 
@@ -65,14 +65,14 @@
 </tr>
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三栗寛士" title="wikilink">三栗寛士</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a> 選手</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/古田智之" title="wikilink">古田智之</a></p></td>
+<td><p>FCアンテロープ塩尻 選手兼コーチ</p></td>
 <td><p>選手兼任</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>コーチ</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古田智之" title="wikilink">古田智之</a></p></td>
-<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a> 選手</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/當銀拓也" title="wikilink">當銀拓也</a></p></td>
+<td><p><a href="../Page/愛知学院大学.md" title="wikilink">愛知学院大学</a></p></td>
 <td><p>選手兼任</p></td>
 </tr>
 </tbody>
@@ -94,54 +94,96 @@
 <td><p><strong>1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三栗寛士" title="wikilink">三栗寛士</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a></p></td>
-<td><p>監督兼任</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>25</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子諒汰" title="wikilink">金子諒汰</a></p></td>
-<td><p>JAPANサッカーカレッジ</p></td>
+<td><p><strong>16</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮嵜慶" title="wikilink">宮嵜慶</a></p></td>
+<td><p>東洋大FCゆな</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>33</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮嵜慶" title="wikilink">宮嵜慶</a></p></td>
-<td><p>東洋大FCゆな</p></td>
+<td><p><strong>25</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金子諒汰" title="wikilink">金子諒汰</a></p></td>
+<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>30</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/清水湧雅" title="wikilink">清水湧雅</a></p></td>
+<td><p><a href="../Page/東京都市大学塩尻高等学校.md" title="wikilink">東京都市大塩尻高校</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>DF</strong></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小出亮" title="wikilink">小出亮</a></p></td>
+<td><p><a href="../Page/上田ジェンシャン.md" title="wikilink">上田ジェンシャン</a></p></td>
+<td><p>新加入</p></td>
+</tr>
+<tr class="even">
 <td><p><strong>3</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中侑真" title="wikilink">田中侑真</a></p></td>
 <td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">FORTUNA CUPS</a></p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>7</strong></p></td>
+<td><p><strong>5</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/望月陽介" title="wikilink">望月陽介</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリースFC東京" title="wikilink">エリースFC東京</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エリース東京" title="wikilink">エリース東京</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>6</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平林良太" title="wikilink">平林良太</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松島FC" title="wikilink">松島FC</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>11</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古田智之" title="wikilink">古田智之</a></p></td>
 <td><p>JAPANサッカーカレッジ</p></td>
-<td><p>コーチ兼任</p></td>
+<td><p>監督兼任</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>15</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土屋朋輝" title="wikilink">土屋朋輝</a></p></td>
+<td><p><a href="../Page/長野県松本美須々ヶ丘高等学校.md" title="wikilink">松本美須々ヶ丘高校</a></p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>21</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上原孝也" title="wikilink">上原孝也</a></p></td>
 <td><p><a href="../Page/松本大学.md" title="wikilink">松本大学</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>23</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/辛島成烈" title="wikilink">辛島成烈</a></p></td>
+<td><p><a href="../Page/横浜スポーツ&amp;カルチャークラブ.md" title="wikilink">Y.S.C.C.セカンド</a></p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>27</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山川大輔" title="wikilink">山川大輔</a></p></td>
+<td><p><a href="../Page/長野県塩尻志学館高等学校.md" title="wikilink">塩尻志学館高校</a></p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -155,14 +197,14 @@
 <tr class="odd">
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>4</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/當銀郁弥" title="wikilink">當銀郁弥</a></p></td>
-<td><p><a href="../Page/亜細亜大学.md" title="wikilink">亜細亜大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/村田拓也" title="wikilink">村田拓也</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長野県立明科高等学校" title="wikilink">明科高校</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>6</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/當銀拓也" title="wikilink">當銀拓也</a></p></td>
-<td><p><a href="../Page/愛知学院大学.md" title="wikilink">愛知学院大学</a></p></td>
+<td><p><strong>7</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東城圭祐" title="wikilink">東城圭祐</a></p></td>
+<td><p>FCマツセロナ</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -174,23 +216,51 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>13</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東城圭祐" title="wikilink">東城圭祐</a></p></td>
-<td><p>FCマツセロナ</p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>15</strong></p></td>
+<td><p><strong>9</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/勝沢拓斗" title="wikilink">勝沢拓斗</a></p></td>
 <td><p>松本大学</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>12</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/菊池和史" title="wikilink">菊池和史</a></p></td>
+<td><p>上田ジェンシャン</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>13</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸明" title="wikilink">瀬戸明</a></p></td>
+<td><p>東洋大FCファシーネ</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>14</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/茂澄拓" title="wikilink">茂澄拓</a></p></td>
+<td><p>FCマツセロナ</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>18</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山越史章" title="wikilink">山越史章</a></p></td>
+<td><p>上田ジェンシャン</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>19</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/當銀拓也" title="wikilink">當銀拓也</a></p></td>
+<td><p><a href="../Page/愛知学院大学.md" title="wikilink">愛知学院大学</a></p></td>
+<td><p>コーチ兼任</p></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p><strong>20</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村田拓也" title="wikilink">村田拓也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長野県立明科高等学校" title="wikilink">明科高校</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/當銀郁弥" title="wikilink">當銀郁弥</a></p></td>
+<td><p><a href="../Page/亜細亜大学.md" title="wikilink">亜細亜大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -202,42 +272,49 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>26</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/宮本駿平" title="wikilink">宮本駿平</a></p></td>
+<td><p>上田ジェンシャン</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>FW</strong></p></td>
-<td><p><strong>9</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高森章吾" title="wikilink">高森章吾</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武南FC" title="wikilink">武南FC</a></p></td>
+<td><p><strong>28</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小笠原亮" title="wikilink">小笠原亮</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCアビエス" title="wikilink">FCアビエス</a></p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>29</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大澤真之助" title="wikilink">大澤真之助</a></p></td>
+<td><p>東京都市大塩尻高校</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>FW</strong></p></td>
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/増澤裕貴" title="wikilink">増澤裕貴</a></p></td>
 <td><p><a href="../Page/信州大学.md" title="wikilink">信州大学</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>14</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/清水一輝_(サッカー選手)" title="wikilink">清水一輝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松本国際高等学校" title="wikilink">創造学園高校</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>17</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/本間優之" title="wikilink">本間優之</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/池田FC" title="wikilink">池田FC</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>23</strong></p></td>
+<tr class="even">
+<td><p><strong>24</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平林祐也" title="wikilink">平林祐也</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCアビエス" title="wikilink">茅野チェルシー</a></p></td>
 <td></td>

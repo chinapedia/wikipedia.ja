@@ -1,7 +1,7 @@
 > この記事は[BooBo](https://ja.wikipedia.org/wiki/BooBo)から翻訳されています。
 
 
-**BooBo**（ブーブ）は、[黒豚をモチーフとした](https://ja.wikipedia.org/wiki/ブタ "wikilink")[TBSテレビ](../Page/TBSテレビ.md "wikilink")\[1\]の[マスコットキャラクター](https://ja.wikipedia.org/wiki/テレビ局のマスコットキャラクター "wikilink")\[2\]。[2002年](../Page/2002年.md "wikilink")から起用されている。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")は[佐野研二郎](../Page/佐野研二郎.md "wikilink")。
+**BooBo**（ブーブ）は、[黒豚をモチーフとした](https://ja.wikipedia.org/wiki/ブタ "wikilink")[TBSテレビ](../Page/TBSテレビ.md "wikilink")\[1\]の[マスコットキャラクター](https://ja.wikipedia.org/wiki/テレビ局のマスコットキャラクター "wikilink")\[2\]。[2002年](../Page/2002年.md "wikilink")から起用されている。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")は[佐野研二郎](../Page/佐野研二郎.md "wikilink")が手掛けている。
 
 ## 概要
 

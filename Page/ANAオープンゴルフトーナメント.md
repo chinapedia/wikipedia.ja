@@ -1,7 +1,7 @@
 > この記事は[ANAオープンゴルフトーナメント](https://ja.wikipedia.org/wiki/ANAオープンゴルフトーナメント)から翻訳されています。
 
 
-**ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は毎年[9月](../Page/9月.md "wikilink")第3週に行われる[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）の主催、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。
+**ANAオープンゴルフトーナメント**（エイエヌエイ オープンゴルフトーナメント）は、毎年9月第3週に行われる[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）の主催、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの](../Page/トーナメント方式.md "wikilink")1つであり、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北広島市](../Page/北広島市.md "wikilink")にある[札幌ゴルフ倶楽部](https://ja.wikipedia.org/wiki/札幌ゴルフ倶楽部 "wikilink")輪厚（わっつ）コースを舞台にして行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額1億1000万円、優勝賞金2200万円\[1\]。
 
 ## 大会の歴史
 
@@ -316,7 +316,7 @@
   - [ANA OPEN公式ホームページ](http://www.ana.co.jp/anaopen/) （全日空サイト内）
   - [札幌テレビ放送による大会開催案内](http://www.stv.jp/tv/anaopen/index.html)
 
-[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:北海道のスポーツ](https://ja.wikipedia.org/wiki/Category:北海道のスポーツ "wikilink") [Category:全日本空輸](https://ja.wikipedia.org/wiki/Category:全日本空輸 "wikilink") [Category:北広島市](https://ja.wikipedia.org/wiki/Category:北広島市 "wikilink") [Category:1973年開始のイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のイベント "wikilink")
+[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:北海道のスポーツ](https://ja.wikipedia.org/wiki/Category:北海道のスポーツ "wikilink") [Category:全日本空輸](https://ja.wikipedia.org/wiki/Category:全日本空輸 "wikilink") [Category:北広島市](https://ja.wikipedia.org/wiki/Category:北広島市 "wikilink") [Category:1973年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1973年開始のスポーツイベント "wikilink")
 
 1.
 2.  『札幌テレビ放送二十年史』p346-347、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")刊行

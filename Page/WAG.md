@@ -59,7 +59,7 @@
 <dt>平山進也の幼馴染で同学年。身長178cm。血液型B型。<a href="../Page/大阪産業大学.md" title="wikilink">大阪産業大学</a>中退。<br />
 WAGへの加入をきっかけにギターからドラムへ転向した。<br />
 メンバーの中で唯一の理系であり、楽曲のアレンジ、<a href="https://ja.wikipedia.org/wiki/マニピュレート" title="wikilink">マニピュレート</a>を手がける。<br />
-好きなアーティストは<a href="https://ja.wikipedia.org/wiki/レディオヘッド" title="wikilink">レディオヘッド</a>。</dt>
+好きなアーティストは<a href="../Page/レディオヘッド.md" title="wikilink">レディオヘッド</a>。</dt>
 
 </dl></td>
 </tr>

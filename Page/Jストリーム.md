@@ -7,7 +7,7 @@
 
 同社のCDNは、特定の[ISP](https://ja.wikipedia.org/wiki/ISP "wikilink")ネットワーク内での[負荷分散](https://ja.wikipedia.org/wiki/負荷分散 "wikilink")ではなく、国内主要ISPに[キャッシュ](../Page/キャッシュ.md "wikilink")サーバーを分散配置し、それらのISPを“またぐ”形での広域負荷分散網になっている\[2\]。ただし、[Akamai](https://ja.wikipedia.org/wiki/Akamai "wikilink")のようにグローバル規模のCDNではなく、日本国内配信に特化したRegional CDNである。
 
-例えば、同社のCDNを用いて[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")のライブ配信\[3\]や、[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")打ち上げ模様のライブ配信\[4\]などが行われた。
+例えば、同社のCDNを用いて[東京国際映画祭](../Page/東京国際映画祭.md "wikilink")のライブ配信\[3\]や、[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")打ち上げ模様のライブ配信\[4\]などが行われた。
 
 2012年12月まではNTTグループ、KDDIグループの双方から出資を受ける珍しい会社であった。
 

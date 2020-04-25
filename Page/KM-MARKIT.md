@@ -198,7 +198,11 @@
 
 <STRAY KIDS>
 
+・”My Pace -Japanese Ver.-” (2020) /日本語詞作詞
+
 ・”Double Knot -Japanese Ver.-” (2020) /日本語詞作詞
+
+・”Levanter -Japanese Ver.-” (2020) /日本語詞作詞
 
 
 

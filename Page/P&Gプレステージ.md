@@ -65,7 +65,7 @@
       - [クレスト スピンブラシ](https://ja.wikipedia.org/wiki/スピンブラシ "wikilink")（[クラシエホームプロダクツ](../Page/クラシエホームプロダクツ.md "wikilink")へ譲渡後生産終了）
   - 大衆薬など（旧日本ヴィックス→P\&Gヘルスケアの製品）
       - [ヴィックス ヴェポラッブ](https://ja.wikipedia.org/wiki/ヴィックス_ヴェポラッブ "wikilink")（塗布風邪薬、現在は[大正製薬](../Page/大正製薬.md "wikilink")から発売）
-      - [ヴィックス コフドロップ](https://ja.wikipedia.org/wiki/ヴィックスドロップ "wikilink")（のど薬、現在は「ヴィックス メディケイテッド ドロップ」の名で[大正製薬](../Page/大正製薬.md "wikilink")から発売）\[12\]
+      - [ヴィックス コフドロップ](https://ja.wikipedia.org/wiki/ヴイックス_メディケイテッド_ドロップ "wikilink")（のど薬、現在は「ヴィックス メディケイテッド ドロップ」の名で[大正製薬](../Page/大正製薬.md "wikilink")から発売）\[12\]
       - [クレアラシル](https://ja.wikipedia.org/wiki/クレアラシル "wikilink")（塗布ニキビ治療薬、現在は[レキットベンキーザー](https://ja.wikipedia.org/wiki/レキットベンキーザー "wikilink")・ジャパンから発売）\[13\]
       - [コーラック](../Page/コーラック.md "wikilink")（[便秘薬](../Page/瀉下薬.md "wikilink")、現在は[大正製薬](../Page/大正製薬.md "wikilink")から発売）\[14\]\[15\]\[16\]
       - [ミルトン](../Page/ミルトン.md "wikilink")（[哺乳瓶](../Page/哺乳瓶.md "wikilink")消毒剤、現在は[杏林製薬](../Page/杏林製薬.md "wikilink")から発売）

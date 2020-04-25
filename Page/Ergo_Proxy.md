@@ -369,7 +369,7 @@ MCQのクイズによればProxyは全員で300名いたらしい。
 
 ## 主題歌
 
-  - メインテーマ: [PARANOID ANDROID](https://ja.wikipedia.org/wiki/パラノイド・アンドロイド "wikilink") ([Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink"))
+  - メインテーマ: [PARANOID ANDROID](https://ja.wikipedia.org/wiki/パラノイド・アンドロイド "wikilink") ([Radiohead](../Page/レディオヘッド.md "wikilink"))
   - オープニングテーマ: kiri ([MONORAL](../Page/MONORAL.md "wikilink"))
   - エンディングテーマ: Fellow Citizens ([池頼広](../Page/池頼広.md "wikilink"))
 

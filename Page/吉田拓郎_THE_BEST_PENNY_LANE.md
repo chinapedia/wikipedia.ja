@@ -1,7 +1,7 @@
 > この記事は[吉田拓郎 THE BEST PENNY LANE](https://ja.wikipedia.org/wiki/吉田拓郎_THE_BEST_PENNY_LANE)から翻訳されています。
 
 
-『**吉田拓郎 THE BEST PENNY LANE**』（よしだたくろう ザ・ベスト ペニーレイン）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")がリリースした2枚組のベスト・アルバムである。
+『**吉田拓郎 THE BEST PENNY LANE**』（よしだたくろう ザ・ベスト ペニーレイン）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に[吉田拓郎](../Page/吉田拓郎.md "wikilink")がリリースした2枚組のベスト・アルバムである。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-  - 全作詞・作曲：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")（特記以外）
+  - 全作詞・作曲：[吉田拓郎](../Page/吉田拓郎.md "wikilink")（特記以外）
 
 ### DISC 1
 

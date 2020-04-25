@@ -135,7 +135,7 @@
   - [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）※イカ天ネット拡大記念スペシャルのみ放送し、1990年よりネット開始。
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）
   - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）※1990年10月の開局から
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）※1989年10月7日から\[1\]
+  - [信越放送](../Page/信越放送.md "wikilink")（SBC）※1989年10月7日から\[1\]
   - [山陽放送（現:RSK山陽放送）](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK）※2・3部も放送していた時期あり
   - [中国放送](../Page/中国放送.md "wikilink")（RCC）
   - [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）※1990年頃から
@@ -144,7 +144,7 @@
 
 </div>
 
-TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[板東英二のわがままミッドナイト](../Page/板東英二のわがままミッドナイト.md "wikilink")』の放送に伴う）、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")では放映されなかった。[あいテレビ](../Page/あいテレビ.md "wikilink")は当番組放送当時、未開局だった。
+TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[板東英二のわがままミッドナイト](../Page/板東英二のわがままミッドナイト.md "wikilink")』の放送に伴う）、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")では放映されなかった。[あいテレビ](../Page/あいテレビ.md "wikilink")は当番組放送当時、未開局だった。
 
 また「えび天」中盤から遅れネットとなっていたCBCテレビでは最終回が放映されず、ひとつ前の放送回終盤で三宅裕司が、次回が最終回となる旨のコメントをしている場面に「この番組は今回をもちまして終了させていただきます」というお断りテロップが表示されて終了という、地元在住の視聴者にとっては理不尽極まりない終わり方をした。
 

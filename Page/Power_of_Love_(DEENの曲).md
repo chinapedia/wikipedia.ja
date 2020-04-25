@@ -63,4 +63,4 @@
   - [BERG レーベル](../Page/BERG_レーベル.md "wikilink")
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")
 
-[Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")
+[Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

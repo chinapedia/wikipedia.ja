@@ -80,7 +80,7 @@
             作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[呉田軽穂](https://ja.wikipedia.org/wiki/呉田軽穂 "wikilink")／編曲：What's Love?
     4.  [襟裳岬](../Page/襟裳岬_\(森進一の曲\).md "wikilink")\[5:04\]
           -
-            作詞：[岡本おさみ](../Page/岡本おさみ.md "wikilink")／作曲：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")／編曲：What's Love?
+            作詞：[岡本おさみ](../Page/岡本おさみ.md "wikilink")／作曲：[吉田拓郎](../Page/吉田拓郎.md "wikilink")／編曲：What's Love?
 6.  ヘッドライトが唄い出す（2002年7月10日）
     1.  ヘッドライトが唄い出す\[3:58\]
           -

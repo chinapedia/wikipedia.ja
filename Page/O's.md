@@ -64,7 +64,7 @@
 
   - [小田 聡美 Official Web](http://www.odasatomi.com/)
 
-  - [都弥可OFFICIAL BLOG](http://ameblo.jp/tsumika/)
+  - [都弥可OFFICIAL BLOG](https://ameblo.jp/tsumika/)
 
   -
   -

@@ -87,8 +87,8 @@
 ## 外部リンク
 
   - [GMAエンタープライズ：所属事務所](http://www.gma-e.co.jp/)
-  - [Motokaの『のんび～りblog♪』](http://ameblo.jp/motoka2009/)
-  - [浅田ほのかオフィシャルブログ「ほのかのほのぼの日記」powered by アメブロ](http://ameblo.jp/asada-honoka/)- 旧ブログ
+  - [Motokaの『のんび～りblog♪』](https://ameblo.jp/motoka2009/)
+  - [浅田ほのかオフィシャルブログ「ほのかのほのぼの日記」powered by アメブロ](https://ameblo.jp/asada-honoka/)- 旧ブログ
   - [小口もな美（改名前）](http://girls-record.jp/diary/oguchi/) - 旧ブログ
   - [小口もな美（改名前） 公式ブログ](http://oguchi.blog.players.tv/) - ブログ
 

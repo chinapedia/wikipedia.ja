@@ -35,7 +35,7 @@
 
 〒559-0034 大阪市住之江区南港北2丁目1-10 [ATCビル](../Page/アジア太平洋トレードセンター.md "wikilink") ITM棟11F西側
 
-  - 交通アクセス： [ニュートラム](https://ja.wikipedia.org/wiki/Osaka_Metro南港ポートタウン線 "wikilink") [トレードセンター前駅](https://ja.wikipedia.org/wiki/トレードセンター前駅 "wikilink") 下車すぐ。
+  - 交通アクセス： [ニュートラム](../Page/Osaka_Metro南港ポートタウン線.md "wikilink") [トレードセンター前駅](https://ja.wikipedia.org/wiki/トレードセンター前駅 "wikilink") 下車すぐ。
 
 ## 関連項目
 

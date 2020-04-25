@@ -315,7 +315,7 @@
 | 205 | [10月3日](../Page/10月3日.md "wikilink")                      | [黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")                         | [高島礼子](../Page/高島礼子.md "wikilink")                                                                                                                           |                |
 | 206 | [10月10日](../Page/10月10日.md "wikilink")                    | [GLAY](../Page/GLAY.md "wikilink")                                              | [渡部陽一](../Page/渡部陽一.md "wikilink")、[ピース](../Page/ピース_\(お笑いコンビ\).md "wikilink")                                                                               |                |
 | 207 | [10月17日](../Page/10月17日.md "wikilink")                    | [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")                           | [加藤あい](https://ja.wikipedia.org/wiki/加藤あい "wikilink")                                                                                                        |                |
-| 208 | [10月24日](../Page/10月24日.md "wikilink")                    | [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")                   | [博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")、[高樹千佳子](../Page/高樹千佳子.md "wikilink")、[ジャルジャル](../Page/ジャルジャル.md "wikilink")                                         |                |
+| 208 | [10月24日](../Page/10月24日.md "wikilink")                    | [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")                                      | [博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")、[高樹千佳子](../Page/高樹千佳子.md "wikilink")、[ジャルジャル](../Page/ジャルジャル.md "wikilink")                                         |                |
 | 209 | [10月31日](../Page/10月31日.md "wikilink")                    | [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")                     | [テリー伊藤](../Page/テリー伊藤.md "wikilink")、[大杉漣](../Page/大杉漣.md "wikilink")                                                                                        |                |
 | 210 | [11月7日](../Page/11月7日.md "wikilink")                      | [山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")                       | [小池徹平](../Page/小池徹平.md "wikilink")                                                                                                                           |                |
 | 211 | [11月14日](../Page/11月14日.md "wikilink")                    | [BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")                                    | [相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")、[ガレッジセール](../Page/ガレッジセール.md "wikilink")                                                               |                |
@@ -1336,7 +1336,7 @@ flumpool</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a> (KRY)</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a> (KRY)</p></td>
 <td><p>△</p></td>
 <td></td>
 <td></td>

@@ -41,7 +41,7 @@
 
   - \- Discography
 
-[Category:オフコースの楽曲](https://ja.wikipedia.org/wiki/Category:オフコースの楽曲 "wikilink") [Category:小田和正が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小田和正が制作した楽曲 "wikilink") [Category:ファンハウスのシングル](https://ja.wikipedia.org/wiki/Category:ファンハウスのシングル "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:電話を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:電話を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:オフコースの楽曲](https://ja.wikipedia.org/wiki/Category:オフコースの楽曲 "wikilink") [Category:小田和正が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小田和正が制作した楽曲 "wikilink") [Category:ファンハウスのシングル](https://ja.wikipedia.org/wiki/Category:ファンハウスのシングル "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:電話を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:電話を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.  『[IT'S ALL RIGHT OFF COURSE SELECTION III 1984-1987](https://ja.wikipedia.org/wiki/IT'S_ALL_RIGHT_\(オフコースのアルバム\) "wikilink")』 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売 [FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink") LP:28FB-2101,CD:32FD-1068
 2.  『[Off Course GREATEST HITS](https://ja.wikipedia.org/wiki/Off_Course_GREATEST_HITS "wikilink")』 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売 FUNHOUSE 3CD:FHCF-2418-20

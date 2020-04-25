@@ -481,7 +481,7 @@ TCA-2001</p></td>
 
   - [携帯サイト](http://longshotparty.com/i/)
 
-  - [オフィシャルブログ『蓮田パーティークラブ』](http://ameblo.jp/long-shot-party/)
+  - [オフィシャルブログ『蓮田パーティークラブ』](https://ameblo.jp/long-shot-party/)
 
   - (更新停止)
 

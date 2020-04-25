@@ -56,12 +56,12 @@
 <!-- end list -->
 
   - [BS日テレ](../Page/BS日本.md "wikilink")
-  - [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")
+  - [BS朝日](../Page/ビーエス朝日.md "wikilink")
   - [BS-TBS](../Page/BS-TBS.md "wikilink")
   - [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")
   - [BSフジ](../Page/BSフジ.md "wikilink")
   - [スターチャンネル1](../Page/スター・チャンネル.md "wikilink")
-  - [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")
+  - [BS11](../Page/日本BS放送.md "wikilink")
   - [トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")
   - [フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")
   - [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")

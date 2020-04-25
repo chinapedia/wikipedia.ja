@@ -66,4 +66,4 @@
 
 ## 注釈
 
-[Category:Day_after_tomorrowの楽曲](https://ja.wikipedia.org/wiki/Category:Day_after_tomorrowの楽曲 "wikilink") [Category:2003年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:2003年のトリプルA面シングル "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink")
+[Category:Day_after_tomorrowの楽曲](https://ja.wikipedia.org/wiki/Category:Day_after_tomorrowの楽曲 "wikilink") [Category:2003年のトリプルA面シングル](https://ja.wikipedia.org/wiki/Category:2003年のトリプルA面シングル "wikilink")

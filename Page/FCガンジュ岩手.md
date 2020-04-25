@@ -35,7 +35,7 @@
 
 ### 2012年
 
-[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")から[長谷部彩翔](https://ja.wikipedia.org/wiki/長谷部彩翔 "wikilink")、[岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")を獲得。さらに[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")から[小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")を獲得。その他外国籍選手など計10人の選手を補強。シーズン途中に[2011年](../Page/2011年.md "wikilink")から監督を務めていた[今井敏明](../Page/今井敏明.md "wikilink")が退任し、[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")でプレイし[FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")などで監督経験のある[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink")と交代。[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[横河武蔵野FC](https://ja.wikipedia.org/wiki/横河武蔵野FC "wikilink")でプレイした経験を持つ[上田英生](https://ja.wikipedia.org/wiki/上田英生 "wikilink")もコーチとして迎え体制強化を図った。[第48回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第48回全国社会人サッカー選手権大会 "wikilink")東北予選の代表決定戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ全社出場はならなかったが、リーグ戦の方ではシーズンを通して安定した力を見せつけ東北2部北で優勝し東北1部昇格を決めた。
+[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")から[長谷部彩翔](https://ja.wikipedia.org/wiki/長谷部彩翔 "wikilink")、[岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")を獲得。さらに[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")から[小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")を獲得。その他外国籍選手など計10人の選手を補強。シーズン途中に[2011年](../Page/2011年.md "wikilink")から監督を務めていた[今井敏明](../Page/今井敏明.md "wikilink")が退任し、[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")でプレイし[FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")などで監督経験のある[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink")と交代。[JFL](../Page/日本フットボールリーグ.md "wikilink")[横河武蔵野FC](https://ja.wikipedia.org/wiki/横河武蔵野FC "wikilink")でプレイした経験を持つ[上田英生](https://ja.wikipedia.org/wiki/上田英生 "wikilink")もコーチとして迎え体制強化を図った。[第48回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第48回全国社会人サッカー選手権大会 "wikilink")東北予選の代表決定戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ全社出場はならなかったが、リーグ戦の方ではシーズンを通して安定した力を見せつけ東北2部北で優勝し東北1部昇格を決めた。
 
 ### 2013年
 
@@ -117,11 +117,13 @@
   - **得点王**
       - 2014年  [中野裕太](https://ja.wikipedia.org/wiki/中野裕太_\(サッカー選手\) "wikilink")（22得点）
       - 2015年  [石本学](https://ja.wikipedia.org/wiki/石本学 "wikilink")（29得点）
+      - 2017年  熊谷心真（16得点）
   - **アシスト王**
       - 2014年  大橋康史（18アシスト）
       - 2015年  [濱田克大](https://ja.wikipedia.org/wiki/濱田克大 "wikilink")（19アシスト）
+      - 2018年  熊谷心真（13アシスト）
 
-<!-- end list -->
+
 
   - 東北社会人サッカーリーグ2部
 
@@ -133,7 +135,7 @@
   - **アシスト王**
       - 2012年  [姜曉一](https://ja.wikipedia.org/wiki/姜曉一 "wikilink")（22アシスト）
 
-## 2019年在籍選手・スタッフ
+## 2020年在籍選手・スタッフ
 
 ### スタッフ
 
@@ -147,17 +149,11 @@
 </tr>
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/的場大治" title="wikilink">的場大治</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八幡平トーレゾール" title="wikilink">八幡平トーレゾール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/的場大治" title="wikilink">中西哲也</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/八幡平トーレゾール" title="wikilink">グルージャ盛岡</a></p></td>
 <td><p>選手兼監督</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>コーチ</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中西哲也" title="wikilink">中西哲也</a></p></td>
-<td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">グルージャ盛岡</a></p></td>
-<td><p>選手兼コーチ</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -180,15 +176,15 @@
 <tr class="even">
 <td><p><strong>GK</strong></p></td>
 <td><p><strong>1</strong></p></td>
-<td><p>草下聖人</p></td>
-<td><p>GAFCユース</p></td>
-<td></td>
+<td><p>藤原真之介</p></td>
+<td><p>福山大学</p></td>
+<td><p>新加入</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>25</strong></p></td>
-<td><p>河野匠哉</p></td>
-<td><p><a href="../Page/追手門学院大学.md" title="wikilink">追手門学院大学</a></p></td>
-<td></td>
+<td><p>岡本那津</p></td>
+<td><p>吉備国際大学</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -200,29 +196,29 @@
 </tr>
 <tr class="odd">
 <td><p><strong>DF</strong></p></td>
-<td><p><strong>3</strong></p></td>
-<td><p>出口捷馬</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セレンゲ・プレス" title="wikilink">セレンゲ・プレス</a></p></td>
+<td><p><strong>6</strong></p></td>
+<td><p>和田篤</p></td>
+<td><p>七戸SC</p></td>
 <td><p>新加入</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>7</strong></p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中西哲也" title="wikilink">中西哲也</a></p></td>
 <td><p><a href="../Page/いわてグルージャ盛岡.md" title="wikilink">グルージャ盛岡</a></p></td>
-<td><p>選手兼コーチ</p></td>
+<td><p>選手兼監督</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>16</strong></p></td>
-<td><p>竹田宇宙</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八幡平トーレゾール" title="wikilink">八幡平トーレゾール</a></p></td>
 <td></td>
+<td><p>田所柊</p></td>
+<td><p>ヴァンラーレ八戸U-18</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>19</strong></p></td>
-<td><p>水口航輔</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC.OSSA" title="wikilink">FC.OSSA</a></p></td>
+<td><p><strong>27</strong></p></td>
+<td><p>田中大地</p></td>
+<td><p>東京情報大学</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -230,13 +226,13 @@
 <td><p><strong>22</strong></p></td>
 <td><p>大内周</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルティスタ浅間" title="wikilink">アルティスタ浅間</a></p></td>
-<td><p>新加入</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>31</strong></p></td>
-<td><p>千葉光生</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/七ヶ浜サッカークラブ" title="wikilink">七ヶ浜SC</a></p></td>
+<td><p><strong>29</strong></p></td>
+<td><p>新田拓矢</p></td>
+<td><p>fcfuji-08</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -244,7 +240,7 @@
 <td><p><strong>33</strong></p></td>
 <td><p>鹿村祥平</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブランデュー弘前FC" title="wikilink">ブランデュー弘前FC</a></p></td>
-<td><p>新加入</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -256,37 +252,37 @@
 </tr>
 <tr class="odd">
 <td><p><strong>MF</strong></p></td>
-<td><p><strong>6</strong></p></td>
-<td><p>山元佑哉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テゲバジャーロ宮崎" title="wikilink">テゲバジャーロ宮崎</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>8</strong></p></td>
-<td><p>高橋直希</p></td>
-<td><p><a href="../Page/金沢星稜大学.md" title="wikilink">金沢星稜大学</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>10</strong></p></td>
-<td><p>森脇大介</p></td>
-<td><p>テゲバジャーロ宮崎</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>14</strong></p></td>
-<td><p>的場大治</p></td>
-<td><p>八幡平トーレゾール</p></td>
-<td><p>選手兼監督</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>27</strong></p></td>
-<td><p>早水亮輔</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京国際大学体育会サッカー部" title="wikilink">東京国際大学</a></p></td>
+<td><p><strong>7</strong></p></td>
+<td><p>長屋輝</p></td>
+<td><p>名古屋サッカークラブ</p></td>
 <td><p>新加入</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>9</strong></p></td>
+<td><p>三田優</p></td>
+<td><p>八戸大学</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>11</strong></p></td>
+<td><p>山中透</p></td>
+<td><p>藤沢ユナイテッド</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>16</strong></p></td>
+<td><p>竹田宇宙</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/八幡平トーレゾール" title="wikilink">八幡平トーレゾール</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>31</strong></p></td>
+<td><p>千葉光生</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/七ヶ浜サッカークラブ" title="wikilink">七ヶ浜SC</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -298,40 +294,33 @@
 </tr>
 <tr class="odd">
 <td><p><strong>FW</strong></p></td>
-<td><p><strong>9</strong></p></td>
-<td><p>三田優</p></td>
-<td><p><a href="../Page/八戸学院大学.md" title="wikilink">八戸大学</a></p></td>
 <td></td>
+<td><p>佐藤史門</p></td>
+<td><p><a href="../Page/八戸学院大学.md" title="wikilink">ノルデンシュタッド</a></p></td>
+<td><p>新加入</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>13</strong></p></td>
+<td><p><strong>10</strong></p></td>
 <td><p>熊谷心真</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富士大学サッカー部" title="wikilink">富士大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>17</strong></p></td>
-<td><p>川島寛惟</p></td>
-<td><p>富士大学</p></td>
+<td><p><strong>13</strong></p></td>
+<td><p>吉田知生</p></td>
+<td><p>江南義塾高等学校</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>29</strong></p></td>
-<td><p>大谷昭太</p></td>
-<td><p><a href="../Page/中央学院大学.md" title="wikilink">中央学院大学</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熊谷紋司" title="wikilink">熊谷紋司</a></p></td>
 <td><p><a href="../Page/Cobaltore女川.md" title="wikilink">コバルトーレ女川</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -348,6 +337,10 @@
   - [田中賢治](../Page/田中賢治.md "wikilink")（2006年-2007年）
 
   - [菊池直喜](https://ja.wikipedia.org/wiki/菊池直喜 "wikilink")（2008年-2009年）
+
+  - 草下聖人（2018年-2019年）
+
+  - 河野匠哉（2018年-2019年）
 
 ### DF
 
@@ -382,6 +375,8 @@
   - [濱田克大](https://ja.wikipedia.org/wiki/濱田克大 "wikilink")（2014年-2015年）
 
   - [小森慶太郎](https://ja.wikipedia.org/wiki/小森慶太郎 "wikilink")（2014年-2015年）
+
+  - 出口捷馬
 
 ### MF
 
@@ -419,6 +414,16 @@
 
   - [山口優樹](https://ja.wikipedia.org/wiki/山口優樹 "wikilink")（2015年）
 
+  - 山元佑哉（2018年-2019年）
+
+  - 高橋直希（2014年-2020年）
+
+  - 森脇大介（2018年-2019年）
+
+  - 的場大治（2017年‐2019年）
+
+  - 早水亮輔（2019年）
+
 ### FW
 
   - [河田友輔](https://ja.wikipedia.org/wiki/河田友輔 "wikilink")（2007年）
@@ -434,6 +439,8 @@
   - [角島康介](https://ja.wikipedia.org/wiki/角島康介 "wikilink")（2013年-2015年）
 
   - [佐々木絢也](https://ja.wikipedia.org/wiki/佐々木絢也 "wikilink")（2014年-2015年）
+
+  - 大谷昭太（2019年）
 
 ## ユニフォーム
 

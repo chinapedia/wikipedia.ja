@@ -52,7 +52,7 @@
 
 ## 外部リンク
 
-  - [GEOTAILのページ (JAXA)](http://www.jaxa.jp/projects/sas/geotail/index_j.html)
+  - [GEOTAILのページ (JAXA)](https://www.jaxa.jp/projects/sas/geotail/index_j.html)
   - [GEOTAILのページ (宇宙科学研究所)](http://www.isas.jaxa.jp/j/enterp/missions/geotail/index.shtml)
 
 <!-- end list -->

@@ -124,7 +124,7 @@
 
 担当時間は各曜日・5時台～10時台、11時台～18時台、19時台～23時台の3つに区切られている。
 
-  - [東海林克江](../Page/東海林克江.md "wikilink")（元・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")および[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [東海林克江](../Page/東海林克江.md "wikilink")（元・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")および[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [木次真紀](../Page/木次真紀.md "wikilink")（元・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")）
   - [福原奈見](https://ja.wikipedia.org/wiki/福原奈見 "wikilink")（元・[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")）
   - [小池文美](https://ja.wikipedia.org/wiki/小池文美 "wikilink")

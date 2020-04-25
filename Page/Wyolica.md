@@ -949,7 +949,7 @@ so-to
   -
   - [Sony Music Online Japan : wyolica](https://www.sonymusic.co.jp/artist/wyolica/)
 
-  - [wyolica official blog](http://ameblo.jp/wyolica-blog/)
+  - [wyolica official blog](https://ameblo.jp/wyolica-blog/)
 
   -
   -

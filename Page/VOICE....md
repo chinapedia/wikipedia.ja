@@ -3,7 +3,7 @@
 
 **VOICE...**（ボイス...）は、[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ミニ番組](../Page/ミニ番組.md "wikilink")。
 
-「名言」や「歳時記」などを伝える2分間の番組。土曜・日曜の夜、毎時だいたい58分から放送（タイムテーブル上では毎時54分からという表記だったが、54分からは[ニュース、天気、交通情報、スポーツ情報を伝え](../Page/J-WAVE_LIFE_INFORMATION.md "wikilink")、CMを挟んだ58分ごろから「VOICE...」本編となっていた）。担当は[VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")、のちに[川崎ゆかり](https://ja.wikipedia.org/wiki/川崎ゆかり "wikilink")となり、[せきぐちきみこ](https://ja.wikipedia.org/wiki/せきぐちきみこ "wikilink")へと変わった。
+「名言」や「歳時記」などを伝える2分間の番組。土曜・日曜の夜、毎時だいたい58分から放送（タイムテーブル上では毎時54分からという表記だったが、54分からは[ニュース、天気、交通情報、スポーツ情報を伝え](../Page/J-WAVE_LIFE_INFORMATION.md "wikilink")、CMを挟んだ58分ごろから「VOICE...」本編となっていた）。担当は[VieVie](../Page/VieVie.md "wikilink")、のちに[川崎ゆかり](https://ja.wikipedia.org/wiki/川崎ゆかり "wikilink")となり、[せきぐちきみこ](https://ja.wikipedia.org/wiki/せきぐちきみこ "wikilink")へと変わった。
 
 番組ホームページでは、過去の放送内容からいくつかの項目を読むことができる。
 

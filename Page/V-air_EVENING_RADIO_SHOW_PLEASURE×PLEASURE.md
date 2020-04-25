@@ -116,7 +116,7 @@
       -
         2004年3月・9月に放送。リスナー同士の繋がりを確かめるためのリクエスト企画。「○○というアーティストの△△という曲が聴きたい。その次は××というアーティストの曲が聴きたい」というリクエストを繰り返していく。
           -
-            例えば、1人目が「[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の『[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")』が聴きたい、その次は[BUMP OF CHICKENの曲が聴きたい](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")」というリクエストを送ってきた場合、まずSEASONSをオンエアー。次の人が「BUMP OF CHICKENの『[天体観測](../Page/天体観測_\(曲\).md "wikilink")』が聴きたい、その次は[レミオロメン](../Page/レミオロメン.md "wikilink")の曲が聴きたい」というリクエストを採用……といった具合に繰り返していく。
+            例えば、1人目が「[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の『[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")』が聴きたい、その次は[BUMP OF CHICKENの曲が聴きたい](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")」というリクエストを送ってきた場合、まずSEASONSをオンエアー。次の人が「BUMP OF CHICKENの『[天体観測](../Page/天体観測_\(曲\).md "wikilink")』が聴きたい、その次は[レミオロメン](../Page/レミオロメン.md "wikilink")の曲が聴きたい」というリクエストを採用……といった具合に繰り返していく。
             ただし、「次に聴きたいアーティスト」は発表されないので、運が悪ければ企画自体がストップしてしまう、という危険もあった。
 
 ## 備考

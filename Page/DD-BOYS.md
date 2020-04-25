@@ -1,7 +1,7 @@
 > この記事は[DD-BOYS](https://ja.wikipedia.org/wiki/DD-BOYS)から翻訳されています。
 
 
-『**DD-BOYS**』は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[9月25日](../Page/9月25日.md "wikilink")まで毎週月曜日25:21 - 25:51に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")。また、[BS朝日でも毎週木曜日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")24:00 - 24:30に放送されていた。全23回。
+『**DD-BOYS**』は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[9月25日](../Page/9月25日.md "wikilink")まで毎週月曜日25:21 - 25:51に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")。また、[BS朝日でも毎週木曜日](../Page/ビーエス朝日.md "wikilink")24:00 - 24:30に放送されていた。全23回。
 
 ## 概要
 

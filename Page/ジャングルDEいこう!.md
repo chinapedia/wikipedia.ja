@@ -32,6 +32,7 @@
   - 編集 - [小島俊彦](https://ja.wikipedia.org/wiki/小島俊彦 "wikilink")
   - 音楽 - PAROME
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
+  - 音響効果 - 依田安文（わいわいサウンド）
   - エグゼプティブプロデューサー - 重松英俊、[高橋豊](https://ja.wikipedia.org/wiki/高橋豊 "wikilink")
   - プロデューサー - 島名光二、沢登昌樹、榎本歩光
   - アニメーション制作 - [カオスプロジェクト](../Page/カオスプロジェクト.md "wikilink")

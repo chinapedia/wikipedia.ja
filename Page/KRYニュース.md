@@ -1,7 +1,7 @@
 > この記事は[KRYニュース](https://ja.wikipedia.org/wiki/KRYニュース)から翻訳されています。
 
 
-『**KRYニュース**』（ケーアールワイニュース）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")が[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")を通して放送する[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。テレビは、[全国ニュース](https://ja.wikipedia.org/wiki/全国ニュース "wikilink")の後の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")枠として放送されることが殆どで、ラジオは、[読売新聞ニュース](../Page/読売新聞ニュース.md "wikilink")か[中国新聞](../Page/中国新聞.md "wikilink")ニュース（資本関係の問題で地元県域新聞の[山口新聞](../Page/山口新聞.md "wikilink")からのニュース提供は行っていない）として放送している。テレビにおいては、[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")開始に備え、その試験放送から[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作で放送している。
+『**KRYニュース**』（ケーアールワイニュース）は、[山口放送](../Page/山口放送.md "wikilink")が[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")を通して放送する[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。テレビは、[全国ニュース](https://ja.wikipedia.org/wiki/全国ニュース "wikilink")の後の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")枠として放送されることが殆どで、ラジオは、[読売新聞ニュース](../Page/読売新聞ニュース.md "wikilink")か[中国新聞](../Page/中国新聞.md "wikilink")ニュース（資本関係の問題で地元県域新聞の[山口新聞](../Page/山口新聞.md "wikilink")からのニュース提供は行っていない）として放送している。テレビにおいては、[2006年](../Page/2006年.md "wikilink")[6月](../Page/6月.md "wikilink")、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")開始に備え、その試験放送から[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作で放送している。
 
 2006年10月より、KRYニュースのオープニング・エンディングの画像とBGMがリニューアルされた。
 

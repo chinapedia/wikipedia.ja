@@ -16,7 +16,14 @@
   -
   -
   -
+  -
+  - Pandemic: What You Need To Know
+
   - [ジス・ウィーク](../Page/ジス・ウィーク.md "wikilink")
+
+### ABC News Liveでのみ配信
+
+  - ABC News Prime
 
 ## 主なジャーナリスト
 

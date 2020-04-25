@@ -263,7 +263,7 @@
   - Fate/stay night \[Heaven’s Feel\]（製作：ノーツ、2017年 - 2020年予定、制作：ufotable）
       - Ⅰ.presage flower：2017年10月14日
       - Ⅱ.lost butterfly：2019年1月12日
-      - Ⅲ.spring song：2020年3月28日 公開予定
+      - Ⅲ.spring song：2020年公開予定
   - 劇場版 Fate/Grand Order -神聖円卓領域キャメロット-
       - 前編 Wandering; Agateram（2020年予定、制作：[SIGNAL.MD](https://ja.wikipedia.org/wiki/シグナル・エムディ "wikilink")）
       - 後編 Paladin; Agateram（制作：[Production I.G](https://ja.wikipedia.org/wiki/Production_I.G "wikilink")）

@@ -36,12 +36,12 @@
     ドアが閉まって発車しても良いときに点灯する。ゲーム中では「車内信号」となっているが、現実には車内信号ではない。実際の鉄道運転では「**車内信号**」とは、[新幹線](../Page/新幹線.md "wikilink")等の[保安装置の一種である](../Page/信号保安.md "wikilink")、[ATCを構成する部品の一部であり](../Page/自動列車制御装置.md "wikilink")、運転台の速度計の付近に設置されている列車の現在の制限速度を表示する計器を指す。『電車でGO\!』において「**車内信号**」と呼称しているものは実在しており実際の鉄道でも大変重要な役目を果たしているが、実際の鉄道運転においてはこれを「**戸閉め灯**」と呼ぶ。
     たとえ出発信号機が進行を現示しても、これが点灯する（一部作品ではさらに点灯してからブザーが鳴る）前に[力行](https://ja.wikipedia.org/wiki/力行 "wikilink")すると減点される。ブレーキを解除するだけでは問題ない（『新幹線 山陽新幹線編』を除く）が、駅に勾配があるとブレーキを解除した際に車両が動いてしまう。この場合は、マスコンを入れていなくても減点となる。アーケード版またはPS2版の『3』で専用コントローラType2を使用してプレイしている場合は、画面には表示されず、コントローラの戸閉めランプに直接表示される。
   - [信号](../Page/日本の鉄道信号.md "wikilink")
-    高速進行（『2』などの[ほくほく線特急](../Page/北越急行ほくほく線.md "wikilink")「[はくたか](https://ja.wikipedia.org/wiki/はくたか_\(列車\) "wikilink")」のみ）、進行、減速（『2』以降）、注意、警戒（『2』以降）、停止の6種類があり、減速は70km/h（一部60, 65km/h）以下、注意は45km/h（一部50、40、15km/h）以下、警戒は25km/h以下で走行しないといけない。進行・高速進行以外の現示は、基本的に前の駅までの到着時刻がダイヤより早い場合に発生するが、一部の信号機では進行以外の現示が必ず出る設定になっているものもある。信号の設置されている地点を通過したときの速度が信号による制限速度を超過していると減点（プロフェッショナル2などではオーバーした速度分（1km/hにつき1秒））され、[ATSが作動して強制的に停車させられる](../Page/自動列車停止装置.md "wikilink")。ATS確認（ブレーキ操作をしながらBボタンもしくはSELECTボタンを押す）で強制停車は回避できるが、次の信号の現示がさらに下位のものになってしまう。
+    高速進行（『2』などの[ほくほく線特急](../Page/北越急行ほくほく線.md "wikilink")「[はくたか](https://ja.wikipedia.org/wiki/はくたか_\(列車\) "wikilink")」のみ）、進行、減速（『2』以降）、注意、警戒（『2』以降）、停止の6種類があり、減速は70km/h（一部60、65km/h）以下、注意は45km/h（一部50、40、15km/h）以下、警戒は25km/h以下で走行しないといけない。進行・高速進行以外の現示は、基本的に前の駅までの到着時刻がダイヤより早い場合に発生するが、一部の信号機では進行以外の現示が必ず出る設定になっているものもある。信号の設置されている地点を通過したときの速度が信号による制限速度を超過していると減点（プロフェッショナル2などではオーバーした速度分（1km/hにつき1秒））され、[ATSが作動して強制的に停車させられる](../Page/自動列車停止装置.md "wikilink")。ATS確認（ブレーキ操作をしながらBボタンもしくはSELECTボタンを押す）で強制停車は回避できるが、次の信号の現示がさらに下位のものになってしまう。
     初代のみ、注意信号が表示されてから、次の信号が表示されるまでに45km/hに落とせば良い。45km/h以下なら進行信号が表示され、それ以上なら停止信号が表示され強制停車を受ける。
     実際の[盛岡駅](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink")[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")ホームには、[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")と[秋田新幹線](../Page/秋田新幹線.md "wikilink")の併結用の色灯式信号機が設置されているが、『プロフェッショナル仕様』では東北新幹線ホームの併結用信号機（「[やまびこ](../Page/やまびこ_\(列車\).md "wikilink")」の最後部付近にある信号機）は現示されない。
     『名古屋鉄道編』までは[切欠きホーム](https://ja.wikipedia.org/wiki/切欠きホーム "wikilink")や[頭端式ホーム](../Page/頭端式ホーム.md "wikilink")に進入する際の信号は進行表示だったが、『3』の鉄人モードでは、[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")中央線ホーム、[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")山陰本線ホームでは45km/hで注意信号が表示され、ATS確認を行わなければならない（ゲームモードでは進行表示）。『プロフェッショナル2』では[高松駅では](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")50km/h、[敦賀駅](https://ja.wikipedia.org/wiki/敦賀駅 "wikilink")・[早岐駅](https://ja.wikipedia.org/wiki/早岐駅 "wikilink")の切欠きホームと[佐世保駅](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")\[6\]では40km/h、[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")の終着駅では15km/hでそれぞれ注意信号が表示される（『プロフェッショナル2』ではATS確認は不要）。
     停止信号が現示された場合は、停車すると信号の現示が変化する（なお、停車してから信号の現示が変化するまでの間は時間経過が停止する）。『FINAL』を除き、停止以外の信号現示は変化しない（無論時刻は関係ない）。『2』以降ではグラフィックでも確認できるが、ハードの性能の関係で信号の近くでないと見ることができない。
-    ほくほく線で[681系特急](../Page/JR西日本681系電車.md "wikilink")「はくたか」を運転する場合のみ高速進行現示が出るが、高速進行と進行についてゲーム内では差はない。現実では進行現示は「130km/h以下で進まなければならない」事を指すが、進行の場合にも130km/h超えた運転に対してのペナルティはない。ただし駅の早通・早着に対してのペナルティは厳しく、一例として、高速進行の速度で走行中に減速を指示する信号が出るが、内容が現実にあるような「高速進行（緑+緑）→進行信号（緑）」（信号喚呼地点から設置地点までの400mで、高速進行信号の速度150km/h程度から進行信号の速度130km/hまで減速する）という現示ではなく、「高速進行（緑+緑）→減速信号（黄+緑）」（400mで150km/h程度から減速信号の速度70km/hまで減速する）が出る。勿論、電車は急には止まれないので、減速が間に合わずに信号無視となり、ゲームオーバーになるほどの減点を強いられる。また高速進行は5灯式で表示されるが、それ以外の表示は4灯式で表示される。なお滅多に見られないが**先行列車追いつき**によるATS作動も存在する（初代の東海道本線では後述の発光信号と絡むバグがある）。
+    ほくほく線で[681系特急](../Page/JR西日本681系電車.md "wikilink")「はくたか」を運転する場合のみ高速進行現示が出るが、高速進行と進行についてゲーム内では差はない。現実では進行現示は「130km/h以下で進まなければならない」ことを指すが、進行の場合にも130km/h超えた運転に対してのペナルティはない。ただし駅の早通・早着に対してのペナルティは厳しく、一例として、高速進行の速度で走行中に減速を指示する信号が出るが、内容が現実にあるような「高速進行（緑+緑）→進行信号（緑）」（信号喚呼地点から設置地点までの400mで、高速進行信号の速度150km/h程度から進行信号の速度130km/hまで減速する）という現示ではなく、「高速進行（緑+緑）→減速信号（黄+緑）」（400mで150km/h程度から減速信号の速度70km/hまで減速する）が出る。勿論、電車は急には止まれないので、減速が間に合わずに信号無視となり、ゲームオーバーになるほどの減点を強いられる。また高速進行は5灯式で表示されるが、それ以外の表示は4灯式で表示される。なお滅多に見られないが**先行列車追いつき**によるATS作動も存在する（初代の東海道本線では後述の発光信号と絡むバグがある）。
   - 臨時信号機
     初代の[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")において、ダイヤより大幅に早着した場合と、『プロフェッショナル2』の[湘南新宿ライン](https://ja.wikipedia.org/wiki/湘南新宿ライン "wikilink")において[武蔵野線大宮支線（貨物線）と分岐した直後](https://ja.wikipedia.org/wiki/武蔵野線#支線 "wikilink")（[北浦和駅](https://ja.wikipedia.org/wiki/北浦和駅 "wikilink")付近）と[長崎本線](https://ja.wikipedia.org/wiki/長崎本線 "wikilink")の[佐賀](https://ja.wikipedia.org/wiki/佐賀駅 "wikilink") - [伊賀屋間に登場する](../Page/伊賀屋駅.md "wikilink")。
     初代では徐行予告信号機が表示されるので、その後徐行信号機が表示されるまでに指示された速度（25km/h）以下に減速し、徐行解除信号機の地点までその速度で走行しなければならない（本来は編成最後尾の車両が徐行解除信号機の位置を通過するまで徐行する必要があるが、この作品では徐行解除信号機が表示された時点で速度制限は解除される）。無視すると大幅な減点になるが、ATSは作動しない。 後に『プロフェッショナル仕様』では、山手線と[京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")において信号システムが改良され、現実同様にATCでの運転となっている。
@@ -190,7 +190,7 @@
 各作品の収録路線名の表記は、実際の路線の正式名称ではないものもある。またダイヤ、使用車両、駅名など、現在とは異なっている場合もある。
 
 [CEROの審査を通した作品は全て全年齢対象となっている](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")。
-なお、各項目の、「AC」は「arcade」の略で「アーケード（ゲームセンター用据え置き）版」を、「PS」は「Playstation」の略で[株式会社ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/株式会社ソニー・インタラクティブエンタテインメント "wikilink")製[Playstationシリーズ](https://ja.wikipedia.org/wiki/Playstationシリーズ "wikilink")向けソフトウェアを、「Win」は[Microsoft corporation製](https://ja.wikipedia.org/wiki/Microsoft_corporation "wikilink")[Windowsシリーズ](https://ja.wikipedia.org/wiki/Windowsシリーズ "wikilink")の各日本語版を表す。
+なお各項目の「AC」は「arcade」の略で「アーケード（ゲームセンター用据え置き）版」を、「PS」は「Playstation」の略で[株式会社ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/株式会社ソニー・インタラクティブエンタテインメント "wikilink")製[Playstationシリーズ](https://ja.wikipedia.org/wiki/Playstationシリーズ "wikilink")向けソフトウェアを、「Win」は[Microsoft corporation製](https://ja.wikipedia.org/wiki/Microsoft_corporation "wikilink")[Windowsシリーズ](https://ja.wikipedia.org/wiki/Windowsシリーズ "wikilink")の各日本語版を表す。
 
 ### 電車でGO\!
 
@@ -261,6 +261,7 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <th><p>級位</p></th>
 <th><p>初期持ち時間</p></th>
 <th><p>天候</p></th>
+<th><p>備考・その他</p></th>
 <th><p>無印</p></th>
 <th><p>EX</p></th>
 </tr>
@@ -276,6 +277,7 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>山陰本線</p></td>
@@ -285,6 +287,7 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>キハ58系</p></td>
 <td><p>初級</p></td>
 <td><p>30秒</p></td>
+<td></td>
 <td></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
@@ -297,7 +300,9 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（一定条件で大森からしばらく）</p></td>
+[16]</p></td>
+<td><p>踏切事故（大森→蒲田、鶴見→新子安）<br />
+ボーナス・ゲーム（新子安）</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
@@ -309,7 +314,9 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（一定条件で長岡京からしばらく）</p></td>
+[17]</p></td>
+<td><p>踏切事故（長岡京→高槻）<br />
+ボーナス・ゲーム（茨木）</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
@@ -321,7 +328,9 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（一定条件で目黒からしばらく）</p></td>
+[18]</p></td>
+<td><p>徐行標識（恵比寿→目黒、大崎→品川）<br />
+ボーナス・ゲーム（田町）</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
 </tr>
@@ -333,9 +342,11 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（一定条件で嵯峨嵐山からしばらく）</p></td>
+[19]</p></td>
+<td><p>踏切事故（保津峡→嵯峨嵐山）<br />
+ボーナス・ゲーム（花園）</p></td>
 <td><p>○<br />
-[16]</p></td>
+[20]</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="odd">
@@ -346,7 +357,9 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（川崎から）</p></td>
+[21]</p></td>
+<td><p>踏切事故（大森→蒲田、鶴見→新子安）<br />
+ボーナス・ゲーム（新子安）</p></td>
 <td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
@@ -358,9 +371,10 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（一定条件で茨木からしばらく）</p></td>
+[22]</p></td>
+<td><p>ボーナス・ゲーム（吹田）</p></td>
 <td><p>○<br />
-[17]</p></td>
+[23]</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="odd">
@@ -371,11 +385,14 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 <td><p>上級</p></td>
 <td><p>30秒</p></td>
 <td><p><br />
-（品川から）</p></td>
+[24]</p></td>
+<td><p>徐行標識（恵比寿→目黒、大崎→品川）<br />
+ボーナス・ゲーム（田町）</p></td>
 <td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -416,7 +433,7 @@ AC：[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月19日](../P
 
 ### 電車でGO\!2（WS版）
 
-[WS](../Page/ワンダースワン.md "wikilink") : [1999年](../Page/1999年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")発売
+[WS](../Page/ワンダースワン.md "wikilink")：[1999年](../Page/1999年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")発売
 
 ### 電車でGO\! プロフェッショナル仕様
 
@@ -438,7 +455,7 @@ PS：[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "w
     普通（須ヶ口→新岐阜）
       -
         [6000系](../Page/名鉄6000系電車.md "wikilink")
-    [高速](../Page/高速_\(列車\).md "wikilink")\[18\]（新名古屋→新岐阜）
+    [高速](../Page/高速_\(列車\).md "wikilink")\[25\]（新名古屋→新岐阜）
       -
         [3400系](../Page/名鉄3400系電車.md "wikilink")（隠しダイヤ）
   - [犬山線](https://ja.wikipedia.org/wiki/名鉄犬山線 "wikilink")
@@ -446,21 +463,21 @@ PS：[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "w
       -
         1000系
         [1600系](../Page/名鉄1600系電車.md "wikilink")（隠しダイヤ）
-    特急「[北アルプス](https://ja.wikipedia.org/wiki/北アルプス_\(列車\) "wikilink")」\[19\]（新名古屋→[犬山](../Page/犬山駅.md "wikilink")）
+    特急「[北アルプス](https://ja.wikipedia.org/wiki/北アルプス_\(列車\) "wikilink")」\[26\]（新名古屋→[犬山](../Page/犬山駅.md "wikilink")）
       -
         [キハ8500系](../Page/名鉄キハ8500系気動車.md "wikilink")（隠しダイヤ）
-        [キハ8000系](../Page/名鉄キハ8000系気動車.md "wikilink")\[20\]（隠しダイヤ）
+        [キハ8000系](../Page/名鉄キハ8000系気動車.md "wikilink")\[27\]（隠しダイヤ）
     急行（新名古屋→[岩倉](https://ja.wikipedia.org/wiki/岩倉駅_\(愛知県\) "wikilink")）
       -
         [7000系](../Page/名鉄7000系電車.md "wikilink")
     普通（西春→[柏森](../Page/柏森駅.md "wikilink")）
       -
         [100系](../Page/名鉄100系電車.md "wikilink")
-  - [美濃町線](https://ja.wikipedia.org/wiki/名鉄美濃町線 "wikilink")\[21\]
+  - [美濃町線](https://ja.wikipedia.org/wiki/名鉄美濃町線 "wikilink")\[28\]
     普通（[日野橋](../Page/日野橋駅.md "wikilink")→新岐阜）
       -
         [880形](../Page/名鉄モ880形電車.md "wikilink")
-  - [モンキーパークモノレール線](https://ja.wikipedia.org/wiki/名鉄モンキーパークモノレール線 "wikilink")\[22\]
+  - [モンキーパークモノレール線](https://ja.wikipedia.org/wiki/名鉄モンキーパークモノレール線 "wikilink")\[29\]
     普通（[犬山遊園](../Page/犬山遊園駅.md "wikilink")→[動物園](../Page/動物園駅_\(愛知県犬山市\).md "wikilink")）
       -
         [MRM100形](https://ja.wikipedia.org/wiki/名鉄MRM100形電車 "wikilink")（隠しダイヤ）
@@ -529,13 +546,13 @@ AC：[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wi
         [モボ101形モボ](../Page/京福電気鉄道モボ101形電車.md "wikilink")103・モボ105、[モボ301形モボ](../Page/京福電気鉄道モボ301形電車.md "wikilink")301、[モボ501形モボ](../Page/京福電気鉄道モボ501形電車.md "wikilink")501・モボ502、[モボ611形](../Page/京福電気鉄道モボ611形電車.md "wikilink")611、モボ621形モボ621、モボ631形モボ631、[モボ2001形](../Page/京福電気鉄道モボ2001形電車.md "wikilink")2001、[モボ21形モボ](../Page/京福電気鉄道モボ21形電車.md "wikilink")26・モボ27
   - [函館市交通局](https://ja.wikipedia.org/wiki/函館市企業局交通部 "wikilink")（函館市電）
     [湯の川](../Page/湯の川停留場.md "wikilink") - [十字街](../Page/十字街停留場.md "wikilink") - [函館どつく前](../Page/函館どつく前停留場.md "wikilink")（5系統）
-    十字街→[谷地頭](../Page/谷地頭停留場.md "wikilink")（2系統）\[23\]
+    十字街→[谷地頭](../Page/谷地頭停留場.md "wikilink")（2系統）\[30\]
       -
         [500形](https://ja.wikipedia.org/wiki/函館市交通局500形電車 "wikilink")529・[710形](../Page/函館市交通局710形電車.md "wikilink")715、724・[800形](../Page/函館市交通局800形電車.md "wikilink")810・[1000形](../Page/函館市交通局1000形電車.md "wikilink")1007・[3000形](../Page/函館市交通局3000形電車.md "wikilink")3004・[8000形](../Page/函館市交通局8000形電車.md "wikilink")8001、8004・[30形箱館ハイカラ號](../Page/函館市交通局30形電車.md "wikilink")39
 
-アーケード版は『がんばれ運転士\!\!』という名で、収録路線は江ノ島電鉄（下り、藤沢→鎌倉）と伊予鉄道（5系統、[松山駅前](https://ja.wikipedia.org/wiki/松山駅_\(愛媛県\) "wikilink")→[道後温泉](https://ja.wikipedia.org/wiki/道後温泉駅 "wikilink")）のみ。また、持ち時間制ではなくライフ制である。
+アーケード版は『がんばれ運転士\!\!』という名で、収録路線は江ノ島電鉄（下り、藤沢→鎌倉）と伊予鉄道（5系統、[松山駅前](https://ja.wikipedia.org/wiki/松山駅_\(愛媛県\) "wikilink")→[道後温泉](https://ja.wikipedia.org/wiki/道後温泉駅 "wikilink")）のみ。また持ち時間制ではなく**ライフ制**である。
 
-PS2版とWin版は従来のタイトルが変更され、路線や車両が大幅に追加されている。ライフ制を持ち点制に変更、山陽新幹線にあった視点タイプの2種類追加、鉄ちゃんの代わりに案内人になるキャラクターが各路線に1人追加されている\[24\]など、大量の追加要素が収録された。
+PS2版とWin版は従来のタイトルが変更され、路線や車両が大幅に追加されている。ライフ制を持ち点制に変更、山陽新幹線にあった視点タイプの2種類追加、鉄ちゃんの代わりに案内人になるキャラクターが各路線に1人追加されている\[31\]など、大量の追加要素が収録された。
 
 路面電車ならではの交通量の変化や道路上でのアクシデントがあり、また自動車の[マニュアルシフトのごとく](../Page/マニュアルトランスミッション.md "wikilink")1段ずつノッチを進めて加速する手動加速制御（HL制御）やブレーキ動作・緩めに独特の操作を要する[直通空気ブレーキの操作感覚も楽しめるが](../Page/直通ブレーキ.md "wikilink")、PS2版で専用コントローラType2並びに新幹線専用コントローラを使用している場合は直通空気ブレーキ操作は行えず、[電気指令式ブレーキ](../Page/電気指令式ブレーキ.md "wikilink")のみでの操作となる。またドア開閉も可能である。沿線観光名所案内などもある。ただし、江ノ電でも[ワンマン運転](../Page/ワンマン運転.md "wikilink")を行える、電気指令式ブレーキ車も直通式空気ブレーキである、[VVVFインバータ制御でもHL制御である](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")、笛や発車ベルがドアが閉まった後に鳴る、自動ドアが実在しない「箱館ハイカラ號」や「坊っちゃん列車」でもドアが自動で開閉するなど、実物と全く異なる点が多い。
 
@@ -632,7 +649,7 @@ PS2：[2002年](../Page/2002年.md "wikilink")[10月25日](../Page/10月25日.md
       -
         113系・117系・201系・207系・221系・223系・413系・419系・485系・681系・[683系](../Page/JR西日本683系電車.md "wikilink")
     <!-- end list -->
-      - 当時は敦賀 - [永原間は交流電化で](https://ja.wikipedia.org/wiki/永原駅 "wikilink")、交直流デッドセクション切替操作がある\[25\]。[京都総合運転所](../Page/京都総合運転所.md "wikilink")のグラフィックはPS版初代・『プロフェッショナル仕様』と同様である。
+      - 当時は敦賀 - [永原間は交流電化で](https://ja.wikipedia.org/wiki/永原駅 "wikilink")、交直流デッドセクション切替操作がある\[32\]。[京都総合運転所](../Page/京都総合運転所.md "wikilink")のグラフィックはPS版初代・『プロフェッショナル仕様』と同様である。
   - [瀬戸大橋線](../Page/瀬戸大橋線.md "wikilink")（[宇野線](../Page/宇野線.md "wikilink")・[本四備讃線](https://ja.wikipedia.org/wiki/本四備讃線 "wikilink")・[予讃線](https://ja.wikipedia.org/wiki/予讃線 "wikilink")・[土讃線](https://ja.wikipedia.org/wiki/土讃線 "wikilink")）
     宇野線（[岡山](https://ja.wikipedia.org/wiki/岡山駅 "wikilink") - [茶屋町](../Page/茶屋町駅.md "wikilink") ）
     本四備讃線（茶屋町- [宇多津](https://ja.wikipedia.org/wiki/宇多津駅 "wikilink")）
@@ -654,7 +671,7 @@ PS2：[2002年](../Page/2002年.md "wikilink")[10月25日](../Page/10月25日.md
 
 前作より収録路線数は少ないが区間の種類が分かれており、運行距離が『新幹線 山陽新幹線編』の次に長い。また、上り下りの運転が可能のため、前作よりボリューム感を増している。シリーズ初の運転の進行状況を中断できるセーブ機能や、指定された途中駅からプレイ可能ができる機能が追加されている。
 
-PS2版には、到達不可能なダイヤ設定や一部のダイヤが出現しないなどの問題点があり、さらに初期版には、隠し警笛で減点される、本来の817系の警笛が223系の警笛だったり、瀬戸大橋線下りでは児島駅での乗務員交代後にJR西日本の乗務員がそのまま乗務する（修正版では児島駅でコンティニューしたら上下線同じくそのバグが起きる。）\[26\]などの[バグ](../Page/バグ.md "wikilink")も存在した。この作品も、山陽新幹線編と同じくメーカーによる修正版への無償交換が行われたが、やはりホームページや雑誌などでの情報提供は行われなかった。なお現在交換対応は行われていない。
+PS2版には、到達不可能なダイヤ設定や一部のダイヤが出現しないなどの問題点があり、さらに初期版には、隠し警笛で減点される、本来の817系の警笛が223系の警笛だったり、瀬戸大橋線下りでは児島駅での乗務員交代後にJR西日本の乗務員がそのまま乗務する（修正版では児島駅でコンティニューしたら上下線同じくそのバグが起きる。）\[33\]などの[バグ](../Page/バグ.md "wikilink")も存在した。この作品も、山陽新幹線編と同じくメーカーによる修正版への無償交換が行われたが、やはりホームページや雑誌などでの情報提供は行われなかった。なお現在交換対応は行われていない。
 
 PS2の通常版では発車する際に「○番線、ドアが閉まります。ご注意ください。」とアナウンスが流れているほか、駅でない場所に故意に停車すると乗客（子供）の声の後に運転指令所からコールがあるため、発車させると「異常ありません。」と応答する。
 
@@ -973,7 +990,7 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
       -
         [323系](https://ja.wikipedia.org/wiki/JR西日本323系電車 "wikilink")・[201系](https://ja.wikipedia.org/wiki/国鉄201系電車 "wikilink")
   - [阪神電鉄本線](../Page/阪神本線.md "wikilink")
-    [大物](https://ja.wikipedia.org/wiki/大物駅 "wikilink") - [甲子園](https://ja.wikipedia.org/wiki/甲子園駅 "wikilink")\[27\]
+    [大物](https://ja.wikipedia.org/wiki/大物駅 "wikilink") - [甲子園](https://ja.wikipedia.org/wiki/甲子園駅 "wikilink")\[34\]
       -
         [5700系](https://ja.wikipedia.org/wiki/阪神5700系電車 "wikilink")・[5500系](../Page/阪神5500系電車.md "wikilink")
   - [中央本線](https://ja.wikipedia.org/wiki/中央線_\(名古屋地区\) "wikilink")
@@ -987,19 +1004,19 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 
 #### 使用音楽
 
-  - 渋谷駅「小川のせせらぎ」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")・著作権番号[11474963](https://ja.wikipedia.org/wiki/Tel:11474963 "wikilink") ）
-  - 目黒駅「Water Crown」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")・著作権番号[12460401](https://ja.wikipedia.org/wiki/Tel:12460401 "wikilink") ）
-  - 五反田駅「JRSH2-1（庭園）」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")・著作権番号 [08652139](https://ja.wikipedia.org/wiki/Tel:08652139 "wikilink") ）
-  - 大崎駅「遊園地の見える駅」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")著作権番号[14413736](https://ja.wikipedia.org/wiki/Tel:14413736 "wikilink") ）
+  - 渋谷駅「小川のせせらぎ」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")・著作権番号[2](Tel:11474963%7C11474963) ）
+  - 目黒駅「Water Crown」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")・著作権番号[3](Tel:12460401%7C12460401) ）
+  - 五反田駅「JRSH2-1（庭園）」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")・著作権番号 [4](Tel:08652139%7C08652139) ）
+  - 大崎駅「遊園地の見える駅」（[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")著作権番号[5](Tel:14413736%7C14413736) ）
 
 <!-- end list -->
 
   -
     ※原宿駅「原宿a」は著作者不明、恵比寿駅「第三の男」は権利上の理由により使用できず。
 
-『特別編 〜復活\!昭和の山手線〜』発売以来7年ぶりの新作で、シリーズ生誕20周年作品。電車の運転室を模した全4画面の大型専用筐体には[NESiCAカードリーダーも設置され](https://ja.wikipedia.org/wiki/NESiCAxLive#ICカード「NESiCA」 "wikilink")、一部店舗では[IC乗車券](https://ja.wikipedia.org/wiki/IC乗車券 "wikilink")（[電子マネー](../Page/電子マネー.md "wikilink")）も対応している。現在のタイトーの親会社である[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")のヴィジュアルワークス部の協力の下、実写レベルのCG技術（ミドルウェアは[Unreal Engine 4](../Page/Unreal_Engine.md "wikilink")）を採用。また、オンラインアップデートにより順次新規路線や車両を追加出来る機能も装備した。配信予定のスマートフォンアプリ『連結\!電車でGO\!\!』ではアーケード版と連動した要素も組み込まれると発表されたが、稼働からわずか4か月後　2018年3月29日に開発中止が発表、日の目を見ることはなかった\[28\]。
+『特別編 〜復活\!昭和の山手線〜』発売以来7年ぶりの新作で、シリーズ生誕20周年作品。電車の運転室を模した全4画面の大型専用筐体には[NESiCAカードリーダーも設置され](https://ja.wikipedia.org/wiki/NESiCAxLive#ICカード「NESiCA」 "wikilink")、一部店舗では[IC乗車券](https://ja.wikipedia.org/wiki/IC乗車券 "wikilink")（[電子マネー](../Page/電子マネー.md "wikilink")）も対応している。現在のタイトーの親会社である[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")のヴィジュアルワークス部の協力の下、実写レベルのCG技術（ミドルウェアは[Unreal Engine 4](../Page/Unreal_Engine.md "wikilink")）を採用。また、オンラインアップデートにより順次新規路線や車両を追加出来る機能も装備した。配信予定のスマートフォンアプリ『連結\!電車でGO\!\!』ではアーケード版と連動した要素も組み込まれると発表されたが、稼働からわずか4か月後　2018年3月29日に開発中止が発表、日の目を見ることはなかった\[35\]。
 
-2019年11月1日に配信された動画で、「中央線（名古屋）」の追加が発表された。シリーズ史上初となる[JR東海の路線である](../Page/東海旅客鉄道.md "wikilink")\[29\]（これによりJRの旅客鉄道で、アーケード版に導入されていないのは[JR北海道のみとなる](../Page/北海道旅客鉄道.md "wikilink")）。
+2019年11月1日に配信された動画で、「中央線（名古屋）」の追加が発表された。シリーズ史上初となる[JR東海の路線である](../Page/東海旅客鉄道.md "wikilink")\[36\]（これによりJRの旅客鉄道で、アーケード版に導入されていないのは[JR北海道のみとなる](../Page/北海道旅客鉄道.md "wikilink")）。
 
 ナビゲーターとしてこれまでの鉄ちゃんに代わり「二葉」（関東路線と中央本線（名古屋地区））と「六葉」（関西路線と名鉄名古屋本線）が登場する。
 
@@ -1007,9 +1024,9 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 
 #### 復刻編
 
-2019年6月26日のアップデートで、初代『電車でGO\!』を再現したモード「電車でGO！ 復刻版」が収録された。\[30\]
+2019年6月26日のアップデートで、初代『電車でGO\!』を再現したモード「電車でGO\! 復刻版」が収録された。\[37\]
 
-2019年9月25日のアップデートで、復刻版に『2高速編 3000番台』を再現したモードが追加された。ただし収録されているのは秋田新幹線、奥羽本線、田沢湖線、山手線、京浜東北線、東海道本線（JR京都線）の6路線となり、北越急行ほくほく線は収録されていない\[31\]。
+2019年9月25日のアップデートで、復刻版に『2高速編 3000番台』を再現したモードが追加された。ただし収録されているのは東北路線（秋田新幹線・奥羽本線・田沢湖線）、関東路線（山手線・京浜東北線）、関西路線（JR神戸線）の6路線となり、北越急行ほくほく線は収録されていない\[38\]。東北路線のうち、秋田新幹線のダイヤでは、盛岡駅で0ｍ停車をすれば連結ボーナスゲームができていたが、復刻版では0ｍをしてもできなくなった。また、隠しダイヤであった秋田→新花巻間の運転もできなくなっている。関西路線（JR神戸線）は221系・223系快速のみしか運転できず、201系と207系が運転できなくなった。また対向列車ですれ違う207系もJR福知山線脱線事故を機に帯色が変更されているが、中途半端になっている。
 
 ### 電車でGO\! PLUG\&PLAY
 
@@ -1027,16 +1044,18 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 
 ### 電車でGO\!
 
-  - 29インチ画面のものと50インチ画面のものが存在する。29インチ画面の筐体は、座席の形状や筐体の大まかな外観において、タイトーが以前に発売した『[ランディングギア](../Page/ランディングギア_\(ゲーム\).md "wikilink")』との共通点が見られる（ただし、同作品からのコンバージョンキットはない）。
-  - コントロールパネルは[国鉄205系電車](../Page/国鉄205系電車.md "wikilink")の運転台がモデルとなっており、5段階のマスコンレバーと9段階のブレーキレバー、ゲームに連動して動く車内信号灯の他に、協和電気計器株式会社製の速度計、ブレーキ圧力計、電圧計（飾り）などが取りつけられている。速度計の目盛りは120km/hまで刻まれており、『2』以降は120km/h以上の速度になると画面上にデジタル速度計が表示される。開発担当者は運転台設計の際に、[鉄道模型用の運転台](http://www.cosmogalaxy.jp/tetsudo/kato/tb_kt_pc.htm)を買ってきて分解し、機構の参考にしたという\[32\]。
+[『電車でGO\!』筐体.jpg](https://ja.wikipedia.org/wiki/File:『電車でGO!』筐体.jpg "fig:『電車でGO!』筐体.jpg")
+
+  - 29インチ画面のものと50インチ画面のものが存在する。29インチ画面の筐体は、座席の形状や筐体の大まかな外観において、タイトーが以前に発売した『[ランディングギア](../Page/ランディングギア_\(ゲーム\).md "wikilink")』との共通点が見られる（ただし同作品からのコンバージョンキットはない）。
+  - コントロールパネルは[国鉄205系電車](../Page/国鉄205系電車.md "wikilink")の運転台がモデルとなっており、5段階のマスコンレバーと9段階のブレーキレバー、ゲームに連動して動く車内信号灯の他に、協和電気計器株式会社製の速度計、ブレーキ圧力計、電圧計（飾り）などが取りつけられている。速度計の目盛りは120km/hまで刻まれており、『2』以降は120km/h以上の速度になると画面上にデジタル速度計が表示される。開発担当者は運転台設計の際に、[鉄道模型用の運転台](http://www.cosmogalaxy.jp/tetsudo/kato/tb_kt_pc.htm)を買ってきて分解し、機構の参考にしたという\[39\]。
       - 50インチ筐体のコントロールパネルは、コントローラ部分が画面の中央、線路の表示されている部分より左側に寄せられており、空いた部分はデッドスペースとなっている。
   - 座席には振動バスシェーカーが搭載されており、レールの継ぎ目を渡るときの振動が再現されている。足元には警笛ペダルがあり、29インチ画面の筐体と50インチ画面の筐体で大きさが異なる（50インチ画面の方が実物に近い大きさ）。なお筐体により速度計がゲーム上より±2km/hほどの誤差が出るものがあるためプレイに注意が必要な場合がある。
-      - メンテナンスの問題で、車内信号灯が点灯しない筐体や速度計に誤差が出る筐体も出て来たためか、通勤編では車内信号灯の点灯を示すブザー、ダイヤ改正ではデジタル速度計の常時表示化（消すことも可能）などの配慮がなされていた。
+      - メンテナンスの問題で、車内信号灯が点灯しない筐体や速度計に誤差が出る筐体も出て来たためか、通勤編では車内信号灯の点灯を示すブザー、『3通勤編 ダイヤ改正』ではデジタル速度計の常時表示化（消すことも可能）などの配慮がなされていた。
   - 『がんばれ運転士\!\!』は、マスコンレバーが縦軸方式（左右に回して操作する）に変更されたほか、ドア開閉のスイッチを取り付ける必要があったため、筐体を大規模に改造する必要があった。
 
 ### 電車でGO\!\!
 
-2017年稼働開始の『電車でGO\!\!』では、[E231系500番台を模した外観の大型筐体となり](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")、車窓表示用の3画面と、運転台表示用の1画面の計4画面で構成。運転台表示用画面は、運転中の指差呼称や前照灯操作に対応したタッチパネル式となっている。マスコンについては筐体外観のモチーフであるE231系500番台の実物に似たワンハンドルタイプが搭載された。これまで、シリーズにおけるワンハンドルマスコンの採用は家庭用でのみであり、アーケード版では初の搭載となる。
+[『電車でGO\!\!』通常筐体.jpg](https://ja.wikipedia.org/wiki/File:『電車でGO!!』通常筐体.jpg "fig:『電車でGO!!』通常筐体.jpg") [『電車でGO\!\!』小型筐体.jpg](https://ja.wikipedia.org/wiki/File:『電車でGO!!』小型筐体.jpg "fig:『電車でGO!!』小型筐体.jpg") 2017年稼働開始の『電車でGO\!\!』では、[E231系500番台を模した外観の大型筐体となり](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")、車窓表示用の3画面と、運転台表示用の1画面の計4画面で構成。運転台表示用画面は、運転中の指差呼称や前照灯操作に対応したタッチパネル式となっている。マスコンについては筐体外観のモチーフであるE231系500番台の実物に似たワンハンドルタイプが搭載された。これまでシリーズにおけるワンハンドルマスコンの採用は家庭用でのみであり、アーケード版では初の搭載となる。
 
 2019年には、画面サイズを小型化し、旧筐体に近いサイズとなった「小型筐体」が登場した。
 
@@ -1047,13 +1066,13 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 #### 初代
 
   - 山陰本線
-    [亀岡](../Page/亀岡駅.md "wikilink")、[馬堀](../Page/馬堀駅.md "wikilink")、[保津峡](../Page/保津峡駅.md "wikilink")、[嵯峨嵐山](../Page/嵯峨嵐山駅.md "wikilink")、[太秦](../Page/太秦駅.md "wikilink")、[花園](../Page/花園駅_\(京都府\).md "wikilink")、[二条](https://ja.wikipedia.org/wiki/二条駅 "wikilink")、[丹波口](../Page/丹波口駅.md "wikilink")、[京都](https://ja.wikipedia.org/wiki/京都駅 "wikilink")\[33\]
+    [亀岡](../Page/亀岡駅.md "wikilink")、[馬堀](../Page/馬堀駅.md "wikilink")、[保津峡](../Page/保津峡駅.md "wikilink")、[嵯峨嵐山](../Page/嵯峨嵐山駅.md "wikilink")、[太秦](../Page/太秦駅.md "wikilink")、[花園](../Page/花園駅_\(京都府\).md "wikilink")、[二条](https://ja.wikipedia.org/wiki/二条駅 "wikilink")、[丹波口](../Page/丹波口駅.md "wikilink")、[京都](https://ja.wikipedia.org/wiki/京都駅 "wikilink")\[40\]
   - 京浜東北線
     [品川](https://ja.wikipedia.org/wiki/品川駅 "wikilink")、[大井町](https://ja.wikipedia.org/wiki/大井町駅 "wikilink")、[大森](https://ja.wikipedia.org/wiki/大森駅_\(東京都\) "wikilink")、[蒲田](https://ja.wikipedia.org/wiki/蒲田駅 "wikilink")、[川崎](https://ja.wikipedia.org/wiki/川崎駅 "wikilink")、[鶴見](https://ja.wikipedia.org/wiki/鶴見駅 "wikilink")、[新子安](https://ja.wikipedia.org/wiki/新子安駅 "wikilink")、[東神奈川](https://ja.wikipedia.org/wiki/東神奈川駅 "wikilink")、[横浜](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")
   - 東海道線
-    京都、[西大路](../Page/西大路駅.md "wikilink")、[向日町](https://ja.wikipedia.org/wiki/向日町駅 "wikilink")、[長岡京](https://ja.wikipedia.org/wiki/長岡京駅 "wikilink")、[高槻](https://ja.wikipedia.org/wiki/高槻駅 "wikilink")、[摂津富田](https://ja.wikipedia.org/wiki/摂津富田駅 "wikilink")、[茨木](https://ja.wikipedia.org/wiki/茨木駅 "wikilink")、[千里丘](https://ja.wikipedia.org/wiki/千里丘駅 "wikilink")、[岸辺](https://ja.wikipedia.org/wiki/岸辺駅 "wikilink")、[吹田](https://ja.wikipedia.org/wiki/吹田駅_\(JR西日本\) "wikilink")、[東淀川](https://ja.wikipedia.org/wiki/東淀川駅 "wikilink")、[新大阪](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink")、[大阪](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")
+    京都、[西大路](../Page/西大路駅.md "wikilink")、[向日町](https://ja.wikipedia.org/wiki/向日町駅 "wikilink")、[長岡京](https://ja.wikipedia.org/wiki/長岡京駅 "wikilink")、[高槻](https://ja.wikipedia.org/wiki/高槻駅 "wikilink")、[摂津富田](https://ja.wikipedia.org/wiki/摂津富田駅 "wikilink")、[茨木](https://ja.wikipedia.org/wiki/茨木駅 "wikilink")、[千里丘](https://ja.wikipedia.org/wiki/千里丘駅 "wikilink")、[岸辺](https://ja.wikipedia.org/wiki/岸辺駅 "wikilink")、[吹田](https://ja.wikipedia.org/wiki/吹田駅_\(JR西日本\) "wikilink")、[東淀川](https://ja.wikipedia.org/wiki/東淀川駅 "wikilink")、[新大阪](https://ja.wikipedia.org/wiki/新大阪駅 "wikilink")、[大阪](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")\[41\]
   - 山手線
-    [渋谷](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")、[恵比寿](https://ja.wikipedia.org/wiki/恵比寿駅 "wikilink")、[目黒](https://ja.wikipedia.org/wiki/目黒駅 "wikilink")、[五反田](https://ja.wikipedia.org/wiki/五反田駅 "wikilink")、[大崎](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")、品川、[田町](https://ja.wikipedia.org/wiki/田町駅 "wikilink")、[浜松町](https://ja.wikipedia.org/wiki/浜松町駅 "wikilink")、[新橋](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")、[有楽町](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")
+    [渋谷](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")、[恵比寿](https://ja.wikipedia.org/wiki/恵比寿駅 "wikilink")、[目黒](https://ja.wikipedia.org/wiki/目黒駅 "wikilink")、[五反田](https://ja.wikipedia.org/wiki/五反田駅 "wikilink")、[大崎](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")、品川、[田町](https://ja.wikipedia.org/wiki/田町駅 "wikilink")、[浜松町](https://ja.wikipedia.org/wiki/浜松町駅 "wikilink")、[新橋](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")、[有楽町](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")\[42\]
 
 #### 電車でGO\!2 高速編（PS・3000番代含む）
 
@@ -1062,19 +1081,19 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
   - 東北・秋田新幹線
     [秋田](../Page/秋田駅.md "wikilink")、[大曲](../Page/大曲駅_\(秋田県\).md "wikilink")、[角館](../Page/角館駅.md "wikilink")、[田沢湖](../Page/田沢湖駅.md "wikilink")、[雫石](../Page/雫石駅.md "wikilink")、[盛岡](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink")、[新花巻](../Page/新花巻駅.md "wikilink")
   - 京浜東北線
-    横浜、東神奈川、新子安、鶴見、川崎、蒲田、大森、大井町、品川、田町、浜松町、新橋、有楽町、東京、[神田](https://ja.wikipedia.org/wiki/神田駅_\(東京都\) "wikilink")、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")、[御徒町](https://ja.wikipedia.org/wiki/御徒町駅 "wikilink")、[上野](https://ja.wikipedia.org/wiki/上野駅 "wikilink")
+    横浜、東神奈川、新子安、鶴見、川崎、蒲田、大森、大井町、品川、田町、浜松町、新橋、有楽町、東京、[神田](https://ja.wikipedia.org/wiki/神田駅_\(東京都\) "wikilink")、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")、[御徒町](https://ja.wikipedia.org/wiki/御徒町駅 "wikilink")、[上野](https://ja.wikipedia.org/wiki/上野駅 "wikilink")\[43\]
   - 大阪環状線
     大阪、[福島](https://ja.wikipedia.org/wiki/福島駅_\(JR西日本\) "wikilink")、[野田](https://ja.wikipedia.org/wiki/野田駅_\(JR西日本\) "wikilink")、[西九条](https://ja.wikipedia.org/wiki/西九条駅 "wikilink")、[弁天町](https://ja.wikipedia.org/wiki/弁天町駅 "wikilink")、[大正](https://ja.wikipedia.org/wiki/大正駅_\(大阪府\) "wikilink")、[芦原橋](https://ja.wikipedia.org/wiki/芦原橋駅 "wikilink")、[今宮](https://ja.wikipedia.org/wiki/今宮駅 "wikilink")、[新今宮](https://ja.wikipedia.org/wiki/新今宮 "wikilink")、[天王寺](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")
   - 鹿児島本線
-    [博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")、[吉塚](https://ja.wikipedia.org/wiki/吉塚駅 "wikilink")、[箱崎](https://ja.wikipedia.org/wiki/箱崎駅 "wikilink")、[香椎](https://ja.wikipedia.org/wiki/香椎駅 "wikilink")、[九産大前](https://ja.wikipedia.org/wiki/九産大前駅 "wikilink")、[筑前新宮](https://ja.wikipedia.org/wiki/福工大前駅 "wikilink")（当時）、[古賀](https://ja.wikipedia.org/wiki/古賀駅 "wikilink")、[千鳥](https://ja.wikipedia.org/wiki/千鳥駅 "wikilink")、[福間](../Page/福間駅.md "wikilink")、[東福間](../Page/東福間駅.md "wikilink")、[東郷](../Page/東郷駅.md "wikilink")、[赤間](https://ja.wikipedia.org/wiki/赤間駅 "wikilink")、[教育大前](https://ja.wikipedia.org/wiki/教育大前駅 "wikilink")、[海老津](https://ja.wikipedia.org/wiki/海老津駅 "wikilink")、[遠賀川](https://ja.wikipedia.org/wiki/遠賀川駅 "wikilink")、[水巻](https://ja.wikipedia.org/wiki/水巻駅 "wikilink")、[折尾](https://ja.wikipedia.org/wiki/折尾駅 "wikilink")、[黒崎](https://ja.wikipedia.org/wiki/黒崎駅 "wikilink")、[八幡](https://ja.wikipedia.org/wiki/八幡駅_\(福岡県\) "wikilink")、[枝光](https://ja.wikipedia.org/wiki/枝光駅 "wikilink")、[戸畑](https://ja.wikipedia.org/wiki/戸畑駅 "wikilink")、[九州工大前](https://ja.wikipedia.org/wiki/九州工大前駅 "wikilink")、[西小倉](https://ja.wikipedia.org/wiki/西小倉駅 "wikilink")、[小倉](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")
+    [博多](https://ja.wikipedia.org/wiki/博多駅 "wikilink")、[吉塚](https://ja.wikipedia.org/wiki/吉塚駅 "wikilink")、[箱崎](https://ja.wikipedia.org/wiki/箱崎駅 "wikilink")、[香椎](https://ja.wikipedia.org/wiki/香椎駅 "wikilink")、[九産大前](https://ja.wikipedia.org/wiki/九産大前駅 "wikilink")、[筑前新宮](https://ja.wikipedia.org/wiki/福工大前駅 "wikilink")（当時）、[古賀](https://ja.wikipedia.org/wiki/古賀駅 "wikilink")、[千鳥](https://ja.wikipedia.org/wiki/千鳥駅 "wikilink")、[福間](../Page/福間駅.md "wikilink")、[東福間](../Page/東福間駅.md "wikilink")、[東郷](../Page/東郷駅.md "wikilink")、[赤間](https://ja.wikipedia.org/wiki/赤間駅 "wikilink")、[教育大前](https://ja.wikipedia.org/wiki/教育大前駅 "wikilink")、[海老津](https://ja.wikipedia.org/wiki/海老津駅 "wikilink")、[遠賀川](https://ja.wikipedia.org/wiki/遠賀川駅 "wikilink")、[水巻](https://ja.wikipedia.org/wiki/水巻駅 "wikilink")、[折尾](https://ja.wikipedia.org/wiki/折尾駅 "wikilink")、[黒崎](https://ja.wikipedia.org/wiki/黒崎駅 "wikilink")、[八幡](https://ja.wikipedia.org/wiki/八幡駅_\(福岡県\) "wikilink")、[枝光](https://ja.wikipedia.org/wiki/枝光駅 "wikilink")、[戸畑](https://ja.wikipedia.org/wiki/戸畑駅 "wikilink")、[九州工大前](https://ja.wikipedia.org/wiki/九州工大前駅 "wikilink")、[西小倉](https://ja.wikipedia.org/wiki/西小倉駅 "wikilink")、[小倉](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")\[44\]
   - 奥羽本線
     秋田、[四ツ小屋](../Page/四ツ小屋駅.md "wikilink")、[和田](../Page/和田駅.md "wikilink")、[大張野](../Page/大張野駅.md "wikilink")、[羽後境](../Page/羽後境駅.md "wikilink")、[峰吉川](../Page/峰吉川駅.md "wikilink")、[刈和野](../Page/刈和野駅.md "wikilink")、[神宮寺](../Page/神宮寺駅.md "wikilink")、大曲
   - 田沢湖線
     田沢湖、[赤渕](../Page/赤渕駅.md "wikilink")、[春木場](../Page/春木場駅.md "wikilink")、雫石、[小岩井](../Page/小岩井駅.md "wikilink")、[大釜](../Page/大釜駅.md "wikilink")、盛岡
   - 山手線
-    東京、有楽町、新橋、浜松町、田町、品川、大崎、五反田、目黒、恵比寿、渋谷、[原宿](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")、[代々木](https://ja.wikipedia.org/wiki/代々木駅 "wikilink")、[新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")
+    東京、有楽町、新橋、浜松町、田町、品川、大崎、五反田、目黒、恵比寿、渋谷、[原宿](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")、[代々木](https://ja.wikipedia.org/wiki/代々木駅 "wikilink")、[新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")\[45\]
   - 東海道線
-    大阪、[塚本](https://ja.wikipedia.org/wiki/塚本駅 "wikilink")、[尼崎](https://ja.wikipedia.org/wiki/尼崎駅_\(JR西日本\) "wikilink")、[立花](https://ja.wikipedia.org/wiki/立花駅 "wikilink")、[甲子園口](https://ja.wikipedia.org/wiki/甲子園口駅 "wikilink")、[西ノ宮](https://ja.wikipedia.org/wiki/西宮駅_\(JR西日本\) "wikilink")、[芦屋](https://ja.wikipedia.org/wiki/芦屋駅_\(JR西日本\) "wikilink")、[甲南山手](https://ja.wikipedia.org/wiki/甲南山手駅 "wikilink")、[摂津本山](https://ja.wikipedia.org/wiki/摂津本山駅 "wikilink")、[住吉](https://ja.wikipedia.org/wiki/住吉駅_\(JR西日本・神戸新交通\) "wikilink")、[六甲道](https://ja.wikipedia.org/wiki/六甲道駅 "wikilink")、[灘](https://ja.wikipedia.org/wiki/灘駅 "wikilink")、[三宮](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")、[元町](https://ja.wikipedia.org/wiki/元町駅_\(兵庫県\) "wikilink")、[神戸](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")
+    大阪、[塚本](https://ja.wikipedia.org/wiki/塚本駅 "wikilink")、[尼崎](https://ja.wikipedia.org/wiki/尼崎駅_\(JR西日本\) "wikilink")、[立花](https://ja.wikipedia.org/wiki/立花駅 "wikilink")、[甲子園口](https://ja.wikipedia.org/wiki/甲子園口駅 "wikilink")、[西ノ宮](https://ja.wikipedia.org/wiki/西宮駅_\(JR西日本\) "wikilink")（当時）、[芦屋](https://ja.wikipedia.org/wiki/芦屋駅_\(JR西日本\) "wikilink")、[甲南山手](https://ja.wikipedia.org/wiki/甲南山手駅 "wikilink")、[摂津本山](https://ja.wikipedia.org/wiki/摂津本山駅 "wikilink")、[住吉](https://ja.wikipedia.org/wiki/住吉駅_\(JR西日本・神戸新交通\) "wikilink")、[六甲道](https://ja.wikipedia.org/wiki/六甲道駅 "wikilink")、[灘](https://ja.wikipedia.org/wiki/灘駅 "wikilink")、[三宮](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")、[元町](https://ja.wikipedia.org/wiki/元町駅_\(兵庫県\) "wikilink")、[神戸](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")\[46\]
 
 #### 電車でGO\! プロフェッショナル仕様
 
@@ -1083,21 +1102,21 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
   - ほくほく・上越線
     直江津、黒井、犀潟、くびき、大池いこいの森、うらがわら、虫川大杉、ほくほく大島、まつだい、十日町、しんざ、美佐島、魚沼丘陵、六日町、[塩沢](../Page/塩沢駅.md "wikilink")、[上越国際スキー場前](../Page/上越国際スキー場前駅.md "wikilink")、[大沢](../Page/大沢駅_\(新潟県\).md "wikilink")、[石打](../Page/石打駅.md "wikilink")、[越後湯沢](../Page/越後湯沢駅.md "wikilink")
   - 山手線
-    渋谷、恵比寿、目黒、五反田、大崎、品川、田町、浜松町、新橋、有楽町、東京
+    渋谷、恵比寿、目黒、五反田、大崎、品川、田町、浜松町、新橋、有楽町、東京\[47\]
   - 京浜東北線北行
-    品川、田町、浜松町、新橋、有楽町、東京、神田、秋葉原、御徒町、上野
+    品川、田町、浜松町、新橋、有楽町、東京、神田、秋葉原、御徒町、上野\[48\]
   - 京浜東北線南行
     品川、大井町、大森、蒲田、川崎、鶴見、新子安、東神奈川、横浜
   - 東海道線
     品川、川崎、横浜
   - 嵯峨野線
-    亀岡、馬堀、保津峡、嵯峨、太秦、花園、二条、丹波口、京都
+    亀岡、馬堀、保津峡、嵯峨、太秦、花園、二条、丹波口、京都 \[49\]
   - JR京都線
-    京都、西大路、向日町、長岡京、[山崎](https://ja.wikipedia.org/wiki/山崎駅_\(京都府\) "wikilink")、高槻、摂津富田、茨木、千里丘、岸辺、吹田、東淀川、新大阪、大阪
+    京都、西大路、向日町、長岡京、[山崎](https://ja.wikipedia.org/wiki/山崎駅_\(京都府\) "wikilink")、高槻、摂津富田、茨木、千里丘、岸辺、吹田、東淀川、新大阪、大阪 \[50\]
   - 大阪環状線
     大阪、福島、野田、西九条、弁天町、大正、芦原橋、今宮、新今宮、天王寺
   - 鹿児島本線
-    博多、吉塚、箱崎、香椎、九産大前、筑前新宮（当時）、古賀、千鳥、福間、東福間、東郷、赤間、教育大前、海老津、遠賀川、水巻、折尾、黒崎、八幡、枝光、戸畑、九州工大前、西小倉、小倉
+    博多、吉塚、箱崎、香椎、九産大前、筑前新宮（当時）、古賀、千鳥、福間、東福間、東郷、赤間、教育大前、海老津、遠賀川、水巻、折尾、黒崎、八幡、枝光、戸畑、九州工大前、西小倉、小倉\[51\]
 
 #### 電車でGO\! 名古屋鉄道編
 
@@ -1113,11 +1132,11 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 #### 汽車でGO\!
 
   - 京浜東北線
-    品川、田町、東京、秋葉原、上野
+    品川、田町、東京、秋葉原、上野\[52\]
   - 磐越西線（[ばんえつ物語号](../Page/SLばんえつ物語.md "wikilink")）
     [新津](https://ja.wikipedia.org/wiki/新津駅 "wikilink")、[東新津](../Page/東新津駅.md "wikilink")、[新関](../Page/新関駅.md "wikilink")、[北五泉](../Page/北五泉駅.md "wikilink")、[五泉](../Page/五泉駅.md "wikilink")、[猿和田](../Page/猿和田駅.md "wikilink")、[馬下](../Page/馬下駅.md "wikilink")、[咲花](../Page/咲花駅.md "wikilink")、[東下条](../Page/東下条駅.md "wikilink")、[五十島](../Page/五十島駅.md "wikilink")、[三川](../Page/三川駅_\(新潟県\).md "wikilink")、[津川](../Page/津川駅.md "wikilink")
   - 磐越西線（磐梯会津路号）
-    [郡山](../Page/郡山駅_\(福島県\).md "wikilink")、[喜久田](../Page/喜久田駅.md "wikilink")、[安子ヶ島](../Page/安子ケ島駅.md "wikilink")、[磐梯熱海](../Page/磐梯熱海駅.md "wikilink")、[中山宿](../Page/中山宿駅.md "wikilink")、[上戸](../Page/上戸駅_\(福島県\).md "wikilink")、([関都](../Page/関都駅.md "wikilink")、[川桁](../Page/川桁駅.md "wikilink")、[猪苗代](../Page/猪苗代駅.md "wikilink")、[翁島は省略](../Page/翁島駅.md "wikilink"))、[磐梯町](../Page/磐梯町駅.md "wikilink")、[東長原](../Page/東長原駅.md "wikilink")、[広田](../Page/広田駅.md "wikilink")、[会津若松](../Page/会津若松駅.md "wikilink")
+    [郡山](../Page/郡山駅_\(福島県\).md "wikilink")、[喜久田](../Page/喜久田駅.md "wikilink")、[安子ヶ島](../Page/安子ケ島駅.md "wikilink")、[磐梯熱海](../Page/磐梯熱海駅.md "wikilink")、[中山宿](../Page/中山宿駅.md "wikilink")、[上戸](../Page/上戸駅_\(福島県\).md "wikilink")、([関都](../Page/関都駅.md "wikilink")、[川桁](../Page/川桁駅.md "wikilink")、[猪苗代](../Page/猪苗代駅.md "wikilink")、[翁島は省略](../Page/翁島駅.md "wikilink"))、[磐梯町](../Page/磐梯町駅.md "wikilink")、[東長原](../Page/東長原駅.md "wikilink")、[広田](../Page/広田駅.md "wikilink")、[会津若松](../Page/会津若松駅.md "wikilink")\[53\]
   - 信越本線（横川 - 軽井沢間は1997年廃止）
     [高崎](https://ja.wikipedia.org/wiki/高崎駅 "wikilink")、[北高崎](../Page/北高崎駅.md "wikilink")、[群馬八幡](../Page/群馬八幡駅.md "wikilink")、[安中](../Page/安中駅.md "wikilink")、[磯部](../Page/磯部駅_\(群馬県\).md "wikilink")、[松井田](../Page/松井田駅.md "wikilink")、[西松井田](../Page/西松井田駅.md "wikilink")、[横川](../Page/横川駅_\(群馬県\).md "wikilink")、[軽井沢](../Page/軽井沢駅.md "wikilink")
 
@@ -1132,9 +1151,9 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
   - 中央線
     新宿、四ッ谷、御茶ノ水、神田、東京
   - 山陽本線
-    神戸、[兵庫](../Page/兵庫駅.md "wikilink")、[新長田](https://ja.wikipedia.org/wiki/新長田駅 "wikilink")、[鷹取](https://ja.wikipedia.org/wiki/鷹取駅 "wikilink")、[須磨](https://ja.wikipedia.org/wiki/須磨駅 "wikilink")、[塩屋](https://ja.wikipedia.org/wiki/塩屋駅_\(兵庫県\) "wikilink")、[垂水](https://ja.wikipedia.org/wiki/垂水駅 "wikilink")、[舞子](https://ja.wikipedia.org/wiki/舞子駅 "wikilink")、[朝霧](https://ja.wikipedia.org/wiki/朝霧駅 "wikilink")、[明石](https://ja.wikipedia.org/wiki/明石駅 "wikilink")、[西明石](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")
+    神戸、[兵庫](../Page/兵庫駅.md "wikilink")、[新長田](https://ja.wikipedia.org/wiki/新長田駅 "wikilink")、[鷹取](https://ja.wikipedia.org/wiki/鷹取駅 "wikilink")、[須磨](https://ja.wikipedia.org/wiki/須磨駅 "wikilink")、[塩屋](https://ja.wikipedia.org/wiki/塩屋駅_\(兵庫県\) "wikilink")、[垂水](https://ja.wikipedia.org/wiki/垂水駅 "wikilink")、[舞子](https://ja.wikipedia.org/wiki/舞子駅 "wikilink")、[朝霧](https://ja.wikipedia.org/wiki/朝霧駅 "wikilink")、[明石](https://ja.wikipedia.org/wiki/明石駅 "wikilink")、[西明石](https://ja.wikipedia.org/wiki/西明石駅 "wikilink") \[54\]
   - 山陰本線
-    亀岡、馬堀、保津峡、嵯峨嵐山、太秦、花園、二条、丹波口、京都
+    亀岡、馬堀、保津峡、嵯峨嵐山、太秦、花園、二条、丹波口、京都 \[55\]
 
 #### 電車でGO\! 新幹線 山陽新幹線編
 
@@ -1144,11 +1163,11 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 #### 電車でGO\! プロフェッショナル2
 
   - 湘南新宿ライン
-    横浜、[新川崎](https://ja.wikipedia.org/wiki/新川崎駅 "wikilink")、[西大井](https://ja.wikipedia.org/wiki/西大井駅 "wikilink")、恵比寿、渋谷、新宿、[池袋](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")、[赤羽](https://ja.wikipedia.org/wiki/赤羽駅 "wikilink")、[大宮](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink")
+    横浜、[新川崎](https://ja.wikipedia.org/wiki/新川崎駅 "wikilink")、[西大井](https://ja.wikipedia.org/wiki/西大井駅 "wikilink")、恵比寿、渋谷、新宿、[池袋](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")、[赤羽](https://ja.wikipedia.org/wiki/赤羽駅 "wikilink")、[大宮](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink") \[56\]
   - 鶴見線
     鶴見、[国道](../Page/国道駅.md "wikilink")、[鶴見小野](../Page/鶴見小野駅.md "wikilink")、[弁天橋](../Page/弁天橋駅.md "wikilink")、[浅野](../Page/浅野駅.md "wikilink")、[安善](../Page/安善駅.md "wikilink")、[武蔵白石](../Page/武蔵白石駅.md "wikilink")、[浜川崎](../Page/浜川崎駅.md "wikilink")、[昭和](../Page/昭和駅.md "wikilink")、[扇町](../Page/扇町駅_\(神奈川県\).md "wikilink")、[新芝浦](../Page/新芝浦駅.md "wikilink")、[海芝浦](../Page/海芝浦駅.md "wikilink")、[大川](../Page/大川駅.md "wikilink")
   - 湖西線
-    大阪、新大阪、東淀川、吹田、岸辺、千里丘、茨木、摂津富田、高槻、山崎、長岡京、向日町、西大路、京都、[山科](../Page/山科駅.md "wikilink")、[西大津](https://ja.wikipedia.org/wiki/大津京駅 "wikilink")（当時）、[唐崎](https://ja.wikipedia.org/wiki/唐崎駅 "wikilink")、[比叡山坂本](https://ja.wikipedia.org/wiki/比叡山坂本駅 "wikilink")、[雄琴](https://ja.wikipedia.org/wiki/おごと温泉駅 "wikilink")（当時）、[堅田](https://ja.wikipedia.org/wiki/堅田駅 "wikilink")、[小野](https://ja.wikipedia.org/wiki/小野駅_\(滋賀県\) "wikilink")、[和邇](https://ja.wikipedia.org/wiki/和邇駅 "wikilink")、[蓬莱](https://ja.wikipedia.org/wiki/蓬莱駅 "wikilink")、[志賀](https://ja.wikipedia.org/wiki/志賀駅 "wikilink")、[比良](https://ja.wikipedia.org/wiki/比良駅_\(滋賀県\) "wikilink")、[近江舞子](https://ja.wikipedia.org/wiki/近江舞子駅 "wikilink")、[北小松](https://ja.wikipedia.org/wiki/北小松駅 "wikilink")、[近江高島](https://ja.wikipedia.org/wiki/近江高島駅 "wikilink")、[安曇川](https://ja.wikipedia.org/wiki/安曇川駅 "wikilink")、[新旭](https://ja.wikipedia.org/wiki/新旭駅 "wikilink")、[近江今津](https://ja.wikipedia.org/wiki/近江今津駅 "wikilink")、[近江中庄](https://ja.wikipedia.org/wiki/近江中庄駅 "wikilink")、[マキノ](https://ja.wikipedia.org/wiki/マキノ駅 "wikilink")、[永原](https://ja.wikipedia.org/wiki/永原駅 "wikilink")、[近江塩津](https://ja.wikipedia.org/wiki/近江塩津駅 "wikilink")、[新疋田](https://ja.wikipedia.org/wiki/新疋田駅 "wikilink")、[敦賀](https://ja.wikipedia.org/wiki/敦賀駅 "wikilink")
+    大阪、新大阪、東淀川、吹田、岸辺、千里丘、茨木、摂津富田、高槻、山崎、長岡京、向日町、西大路、京都、[山科](../Page/山科駅.md "wikilink")、[西大津](https://ja.wikipedia.org/wiki/大津京駅 "wikilink")（当時）、[唐崎](https://ja.wikipedia.org/wiki/唐崎駅 "wikilink")、[比叡山坂本](https://ja.wikipedia.org/wiki/比叡山坂本駅 "wikilink")、[雄琴](https://ja.wikipedia.org/wiki/おごと温泉駅 "wikilink")（当時）、[堅田](https://ja.wikipedia.org/wiki/堅田駅 "wikilink")、[小野](https://ja.wikipedia.org/wiki/小野駅_\(滋賀県\) "wikilink")、[和邇](https://ja.wikipedia.org/wiki/和邇駅 "wikilink")、[蓬莱](https://ja.wikipedia.org/wiki/蓬莱駅 "wikilink")、[志賀](https://ja.wikipedia.org/wiki/志賀駅 "wikilink")、[比良](https://ja.wikipedia.org/wiki/比良駅_\(滋賀県\) "wikilink")、[近江舞子](https://ja.wikipedia.org/wiki/近江舞子駅 "wikilink")、[北小松](https://ja.wikipedia.org/wiki/北小松駅 "wikilink")、[近江高島](https://ja.wikipedia.org/wiki/近江高島駅 "wikilink")、[安曇川](https://ja.wikipedia.org/wiki/安曇川駅 "wikilink")、[新旭](https://ja.wikipedia.org/wiki/新旭駅 "wikilink")、[近江今津](https://ja.wikipedia.org/wiki/近江今津駅 "wikilink")、[近江中庄](https://ja.wikipedia.org/wiki/近江中庄駅 "wikilink")、[マキノ](https://ja.wikipedia.org/wiki/マキノ駅 "wikilink")、[永原](https://ja.wikipedia.org/wiki/永原駅 "wikilink")、[近江塩津](https://ja.wikipedia.org/wiki/近江塩津駅 "wikilink")、[新疋田](https://ja.wikipedia.org/wiki/新疋田駅 "wikilink")、[敦賀](https://ja.wikipedia.org/wiki/敦賀駅 "wikilink")\[57\]
   - 瀬戸大橋線
     岡山、[大元](../Page/大元駅.md "wikilink")、[備前西市](../Page/備前西市駅.md "wikilink")、[妹尾](../Page/妹尾駅.md "wikilink")、[備中箕島](../Page/備中箕島駅.md "wikilink")、[早島](../Page/早島駅.md "wikilink")、[久々原](../Page/久々原駅.md "wikilink")、[茶屋町](../Page/茶屋町駅.md "wikilink")、[植松](../Page/植松駅.md "wikilink")、[木見](../Page/木見駅.md "wikilink")、[上の町](../Page/上の町駅.md "wikilink")、[児島](https://ja.wikipedia.org/wiki/児島駅 "wikilink")、[高松](https://ja.wikipedia.org/wiki/高松駅_\(香川県\) "wikilink")、[香西](https://ja.wikipedia.org/wiki/香西駅 "wikilink")、[鬼無](https://ja.wikipedia.org/wiki/鬼無駅 "wikilink")、[端岡](https://ja.wikipedia.org/wiki/端岡駅 "wikilink")、[国分](https://ja.wikipedia.org/wiki/国分駅_\(香川県\) "wikilink")、[讃岐府中](https://ja.wikipedia.org/wiki/讃岐府中駅 "wikilink")、[鴨川](https://ja.wikipedia.org/wiki/鴨川駅 "wikilink")、[八十場](https://ja.wikipedia.org/wiki/八十場駅 "wikilink")、[坂出](https://ja.wikipedia.org/wiki/坂出駅 "wikilink")、[宇多津](https://ja.wikipedia.org/wiki/宇多津駅 "wikilink")、[丸亀](https://ja.wikipedia.org/wiki/丸亀駅 "wikilink")、[讃岐塩屋](https://ja.wikipedia.org/wiki/讃岐塩屋駅 "wikilink")、[多度津](https://ja.wikipedia.org/wiki/多度津駅 "wikilink")、[金蔵寺](../Page/金蔵寺駅.md "wikilink")、[善通寺](../Page/善通寺駅.md "wikilink")、[琴平](../Page/琴平駅.md "wikilink")
   - 長崎・佐世保線
@@ -1157,13 +1176,13 @@ AC：[2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "w
 #### 電車でGO\! FINAL
 
   - 山手線
-    品川、田町、浜松町、新橋、有楽町、東京、神田、秋葉原、御徒町、上野、[鶯谷](https://ja.wikipedia.org/wiki/鶯谷駅 "wikilink")、[日暮里](https://ja.wikipedia.org/wiki/日暮里駅 "wikilink")、[西日暮里](https://ja.wikipedia.org/wiki/西日暮里駅 "wikilink")、[田端](https://ja.wikipedia.org/wiki/田端駅 "wikilink")、[駒込](https://ja.wikipedia.org/wiki/駒込駅 "wikilink")、[巣鴨](https://ja.wikipedia.org/wiki/巣鴨駅 "wikilink")、[大塚](https://ja.wikipedia.org/wiki/大塚駅_\(東京都\) "wikilink")、池袋、[目白](https://ja.wikipedia.org/wiki/目白駅 "wikilink")、[高田馬場](https://ja.wikipedia.org/wiki/高田馬場駅 "wikilink")、[新大久保](https://ja.wikipedia.org/wiki/新大久保駅 "wikilink")、新宿、代々木、原宿、渋谷、恵比寿、目黒、五反田、大崎
+    品川、田町、浜松町、新橋、有楽町、東京、神田、秋葉原、御徒町、上野、[鶯谷](https://ja.wikipedia.org/wiki/鶯谷駅 "wikilink")、[日暮里](https://ja.wikipedia.org/wiki/日暮里駅 "wikilink")、[西日暮里](https://ja.wikipedia.org/wiki/西日暮里駅 "wikilink")、[田端](https://ja.wikipedia.org/wiki/田端駅 "wikilink")、[駒込](https://ja.wikipedia.org/wiki/駒込駅 "wikilink")、[巣鴨](https://ja.wikipedia.org/wiki/巣鴨駅 "wikilink")、[大塚](https://ja.wikipedia.org/wiki/大塚駅_\(東京都\) "wikilink")、池袋、[目白](https://ja.wikipedia.org/wiki/目白駅 "wikilink")、[高田馬場](https://ja.wikipedia.org/wiki/高田馬場駅 "wikilink")、[新大久保](https://ja.wikipedia.org/wiki/新大久保駅 "wikilink")、新宿、代々木、原宿、渋谷、恵比寿、目黒、五反田、大崎\[58\]
   - 中央線
     東京、神田、御茶ノ水、四ッ谷、新宿、[中野](https://ja.wikipedia.org/wiki/中野駅_\(東京都\) "wikilink")、[高円寺](https://ja.wikipedia.org/wiki/高円寺駅 "wikilink")、[阿佐ヶ谷](https://ja.wikipedia.org/wiki/阿佐ケ谷駅 "wikilink")、[荻窪](https://ja.wikipedia.org/wiki/荻窪駅 "wikilink")、[西荻窪](https://ja.wikipedia.org/wiki/西荻窪駅 "wikilink")、[吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺駅 "wikilink")、[三鷹](https://ja.wikipedia.org/wiki/三鷹駅 "wikilink")、[武蔵境](https://ja.wikipedia.org/wiki/武蔵境駅 "wikilink")、[東小金井](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")、[武蔵小金井](https://ja.wikipedia.org/wiki/武蔵小金井駅 "wikilink")、[国分寺](https://ja.wikipedia.org/wiki/国分寺駅 "wikilink")、[西国分寺](https://ja.wikipedia.org/wiki/西国分寺駅 "wikilink")、[国立](https://ja.wikipedia.org/wiki/国立駅 "wikilink")、[立川](https://ja.wikipedia.org/wiki/立川駅 "wikilink")、[日野](https://ja.wikipedia.org/wiki/日野駅_\(東京都\) "wikilink")、[豊田](https://ja.wikipedia.org/wiki/豊田駅 "wikilink")、[八王子](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")、[西八王子](https://ja.wikipedia.org/wiki/西八王子駅 "wikilink")、[高尾](https://ja.wikipedia.org/wiki/高尾駅_\(東京都\) "wikilink")
   - 大阪環状線
     大阪、福島、野田、西九条、弁天町、大正、芦原橋、今宮、新今宮、天王寺、[寺田町](https://ja.wikipedia.org/wiki/寺田町駅 "wikilink")、[桃谷](https://ja.wikipedia.org/wiki/桃谷駅 "wikilink")、[鶴橋](https://ja.wikipedia.org/wiki/鶴橋駅 "wikilink")、[玉造](https://ja.wikipedia.org/wiki/玉造駅 "wikilink")、[森ノ宮](https://ja.wikipedia.org/wiki/森ノ宮駅 "wikilink")、[大阪城公園](https://ja.wikipedia.org/wiki/大阪城公園駅 "wikilink")、[京橋](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink")、[桜ノ宮](https://ja.wikipedia.org/wiki/桜ノ宮駅 "wikilink")、[天満](https://ja.wikipedia.org/wiki/天満駅 "wikilink")
   - 東海道線
-    京都、西大路、向日町、長岡京、山崎、高槻、摂津富田、茨木、千里丘、岸辺、吹田、東淀川、新大阪、大阪、塚本、尼崎、立花、甲子園口、西ノ宮、芦屋、甲南山手、摂津本山、住吉、六甲道、灘、三ノ宮、元町、神戸
+    京都、西大路、向日町、長岡京、山崎、高槻、摂津富田、茨木、千里丘、岸辺、吹田、東淀川、新大阪、大阪、塚本、尼崎、立花、甲子園口、西ノ宮（当時）、芦屋、甲南山手、摂津本山、住吉、六甲道、灘、三ノ宮、元町、神戸\[59\]\[60\]
 
 #### 電車でGO\!\!
 
@@ -1221,9 +1240,9 @@ E231系500番台、[E235系0番台](https://ja.wikipedia.org/wiki/JR東日本E23
 
 ## 評価
 
-PS版『電車でGO\!』は[電撃PlayStation](../Page/電撃PlayStation.md "wikilink")DPSソフトレビューでは80、80、85、85の330点\[34\]。レビュアーはシンプルながら奥が深く、路線の再現度が高く鉄道ファンでなくとも面白いとし、操作についてコントローラは通常より専用の方がいいとした者と慣れるまで時間がかかりマニアックなプレイをしたい人向けとする者がおり、微調整は通常コントローラの方がしやすい、グラフィックはACほどではないにしても大画面でプレイした方がいい、一方ですぐ上達するため路線がもっと欲しかった、難易度は高めでコンティニューなしでのイベントがあるのにもったいない、できれば各地の路線を集めた地域限定版があったらよかったとした\[35\]。
+PS版『電車でGO\!』は[電撃PlayStation](../Page/電撃PlayStation.md "wikilink")DPSソフトレビューでは80、80、85、85の330点\[61\]。レビュアーはシンプルながら奥が深く、路線の再現度が高く鉄道ファンでなくとも面白いとし、操作についてコントローラは通常より専用の方がいいとした者と慣れるまで時間がかかりマニアックなプレイをしたい人向けとする者がおり、微調整は通常コントローラの方がしやすい、グラフィックはACほどではないにしても大画面でプレイした方がいい、一方ですぐ上達するため路線がもっと欲しかった、難易度は高めでコンティニューなしでのイベントがあるのにもったいない、できれば各地の路線を集めた地域限定版があったらよかったとした\[62\]。
 
-『電車でGO\!64』は[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")クロスレビューでは8、9、8、7の32点でゴールド殿堂入り\[36\]。レビュアーは路線の多さ、グラフィック、音声認識システムを賞賛、音声認識はもっと長い言葉も言えればよかったとした\[37\]。[IGN](https://ja.wikipedia.org/wiki/IGN "wikilink")は5.1/10のスコアで電車は本物のように見えるとしたが、テクスチャはぼやけていてゲームプレイの幅が狭く、日本好きや鉄道ファン向けだとした\[38\]。[Nintendo Life](https://ja.wikipedia.org/wiki/:en:Nintendo_Life "wikilink")7/10のスコアで実際の電車を正確にエミュレートしていて、初心者向けのチュートリアルがある、専用コントローラーで楽しさは10倍になるが安価ではない、電車に興味がなければパスした方がいいとした\[39\]。
+『電車でGO\!64』は[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")クロスレビューでは8、9、8、7の32点でゴールド殿堂入り\[63\]。レビュアーは路線の多さ、グラフィック、音声認識システムを賞賛、音声認識はもっと長い言葉も言えればよかったとした\[64\]。[IGN](https://ja.wikipedia.org/wiki/IGN "wikilink")は5.1/10のスコアで電車は本物のように見えるとしたが、テクスチャはぼやけていてゲームプレイの幅が狭く、日本好きや鉄道ファン向けだとした\[65\]。[Nintendo Life](https://ja.wikipedia.org/wiki/:en:Nintendo_Life "wikilink")7/10のスコアで実際の電車を正確にエミュレートしていて、初心者向けのチュートリアルがある、専用コントローラーで楽しさは10倍になるが安価ではない、電車に興味がなければパスした方がいいとした\[66\]。
 
 ## 派生作品
 
@@ -1244,73 +1263,34 @@ PS版『電車でGO\!』は[電撃PlayStation](../Page/電撃PlayStation.md "wik
   - CRフィーバー電車でGO\!2（2006年）
     [パロット](../Page/パロット_\(パチスロ\).md "wikilink")・電車でGO\!2（2008年）
 
-[File:Medalgetter.JPG|メダルゲッター電車でGO](File:Medalgetter.JPG%7Cメダルゲッター電車でGO)\! 子供編 [File:Toretoretrain.JPG|電車でGO](File:Toretoretrain.JPG%7C電車でGO)\! トレトレトレイン
+[Medalgetter.JPG](https://ja.wikipedia.org/wiki/File:Medalgetter.JPG "fig:Medalgetter.JPG") [Toretoretrain.JPG](https://ja.wikipedia.org/wiki/File:Toretoretrain.JPG "fig:Toretoretrain.JPG")
 
 ## 電車でGO\! 用コントローラ
 
-[DenGO64\&NUS-020.JPG](https://ja.wikipedia.org/wiki/File:DenGO64&NUS-020.JPG "fig:DenGO64&NUS-020.JPG") [Densya_de_GO\!_controller_type2_JPN.jpg](https://ja.wikipedia.org/wiki/File:Densya_de_GO!_controller_type2_JPN.jpg "fig:Densya_de_GO!_controller_type2_JPN.jpg") 電車の運転を再現するゲームにとって、その操作性を再現することは至上課題である。初代「電車でGO\!」コントローラは、電車でGO\! PlayStation版の発売と同時に登場し、ソフトを購入した人の多くがコントローラを購入するという、相乗効果が見られた。同様の理由で、運転する列車ごとに数々の電車でGO\! コントローラが発売された。ただし、PlayStation 2版コントローラとWindows版コントローラはともにUSB接続（後者の一部は、[ゲームポート](../Page/ゲームポート.md "wikilink")接続）であるが、両者は別物である。
+[DenGO64\&NUS-020.JPG](https://ja.wikipedia.org/wiki/File:DenGO64&NUS-020.JPG "fig:DenGO64&NUS-020.JPG") [Densya_de_GO\!_controller_type2_JPN.jpg](https://ja.wikipedia.org/wiki/File:Densya_de_GO!_controller_type2_JPN.jpg "fig:Densya_de_GO!_controller_type2_JPN.jpg") 電車の運転を再現するゲームにとって、その操作性を再現することは至上課題である。初代「電車でGO\! コントローラ」は、『電車でGO\!』PS版の発売と同時に登場し、ソフトを購入した人の多くがコントローラを購入するという、相乗効果が見られた。同様の理由で、運転する列車ごとに数々の電車でGO\! コントローラが発売された。ただしPS2版コントローラとWindows版コントローラはともにUSB接続（後者の一部は[ゲームポート](../Page/ゲームポート.md "wikilink")接続）であるが、両者は別物である。
 
-後述のマルチトレインコントローラも含め全てが生産終了品であるため、[インターネットオークション](../Page/インターネットオークション.md "wikilink")ではPlayStation 2用を中心に中古品でも新品の定価以上の値がつくこともある 。
+後述のマルチトレインコントローラも含め全てが生産終了品であるため、[インターネットオークション](../Page/インターネットオークション.md "wikilink")ではPS2用を中心に中古品でも新品の定価以上の値がつくこともある 。
 
-コントローラの種類（特記なしはマスコン5段・常用ブレーキ8段）
+### コントローラの種類（特記なしはマスコン5段・常用ブレーキ8段）
 
   - 電車でGO\! コントローラ
-
-<!-- end list -->
-
-  -
-    （PlayStation・PlayStation 2対応（PlayStation 2対応は3と山陽新幹線編のみ）、セガサターン、ドリームキャスト、NINTENDO64、Windows（15ピンゲームポート対応、後にUSB接続対応）
-
-<!-- end list -->
-
+    （PS・PS2対応（PS2対応は『3』と『新幹線 山陽新幹線編』のみ）、セガサターン、ドリームキャスト、NINTENDO64、Windows（15ピンゲームポート対応、後にUSB接続対応）
   - 電車でGO\! コントローラ・ワンハンドルタイプ
-
-<!-- end list -->
-
-  -
-    （PlayStation・PlayStation 2対応（PlayStation 2対応は3と山陽新幹線編のみ）、Windows（USB接続）対応）ただし、それぞれ形は異なる。
-
-<!-- end list -->
-
+    （PS・PS2対応（PS2対応は『3』と『新幹線 山陽新幹線編』のみ）、Windows（USB接続）対応）ただし、それぞれ形は異なる。
   - 電車でGO\! マメコン
-
-<!-- end list -->
-
-  -
-    （PlayStation・PlayStation 2対応（PlayStation 2対応は3と山陽新幹線編のみ）、製造は[HORI](../Page/HORI.md "wikilink")）通常のPS用コントローラと同サイズの手持ち式で、十字キーの代わりにマスコンレバー、右側のボタンの代わりにブレーキダイアルを配置したもの。
-
-<!-- end list -->
-
+    （PS・PS2対応（PS2対応は『3』と『新幹線 山陽新幹線編』のみ）、製造は[HORI](../Page/HORI.md "wikilink")）通常のPS用コントローラと同サイズの手持ち式で、十字キーの代わりにマスコンレバー、右側のボタンの代わりにブレーキダイヤルを配置したもの。
   - 電車でGO\! コントローラType2
-
-<!-- end list -->
-
-  -
-    （PlayStation 2対応 USB接続 警笛ペダル付属）方向キーと戸閉めランプが追加される。マスコンとブレーキの形がそれぞれ異なる初期型と後期型（写真）が存在する。なお初期型は[787系などの運転台をベースに作られている](../Page/JR九州787系電車.md "wikilink")。
-
-<!-- end list -->
-
+    （PS2対応 USB接続 警笛ペダル付属）方向キーと戸閉めランプが追加される。マスコンとブレーキの形がそれぞれ異なる初期型と後期型（写真）が存在する。なお初期型は[787系などの運転台をベースに作られている](../Page/JR九州787系電車.md "wikilink")。
   - 電車でGO\! 新幹線・専用コントローラ
-
-<!-- end list -->
-
-  -
-    （PlayStation 2対応 USB接続 警笛ペダル付属 マスコン13段・常用ブレーキ7段、ゲーム連動ATCデジタル速度計 戸閉めランプ）
-
-<!-- end list -->
-
+    （PS2対応 USB接続 警笛ペダル付属 マスコン13段・常用ブレーキ7段、ゲーム連動ATCデジタル速度計 戸閉めランプ）
   - 電車でGO\! 旅情編コントローラ
+    （PS2、Windows対応 ともにUSB接続 警笛ペダルは上記の付属品で対応 マスコン4段・常用ブレーキ旅情編無段<空気ブレーキ方式の再現のため>その他6段）ただしWindows対応版のボディの色は黒。
 
-<!-- end list -->
+なおWiiにて『新幹線EX 山陽新幹線編』が発売されたため、これに合わせてWii用の新幹線コントローラが発売された。内容は上記のPS2用「電車でGO\! 新幹線・専用コントローラ」がベースとなっているが、PS2用では戸閉めランプの他に実際の新幹線車両（500系）の運転台を模してゲームと連動するデジタル式速度計・ATC速度指示表示が装備されるなど豪華な装備を持っていたが、Wii用では戸閉めランプは装備されるが 速度計とATC表示はシールでの表現に簡素化された。このコントローラは[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")の外部拡張コネクタに接続して使用する。
 
-  -
-    （PlayStation 2、Windows対応 ともにUSB接続 警笛ペダルは上記の付属品で対応 マスコン4段・常用ブレーキ旅情編無段<空気ブレーキ方式の再現のため>その他6段）ただし、Windows対応版のボディの色は黒。
+『電車でGO\!』専用ではないが[マルチトレインコントローラ](https://ja.wikipedia.org/wiki/マルチトレインコントローラ "wikilink")（PS2対応、USB接続、製造はシープス。音楽館発売の『[東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")』を除きP5B8のノッチカセットのみ対応）もある。
 
-なおWiiにて『新幹線EX 山陽新幹線編』が発売されたため、これに合わせてWii用の新幹線コントローラが発売された。内容は上記のPlayStation2用「電車でGO\! 新幹線・専用コントローラ」がベースとなっているが、PlayStation2用では戸閉めランプの他に実際の新幹線車両（500系）の運転台を模してゲームと連動するデジタル式速度計・ATC速度指示表示が装備されるなど豪華な装備を持っていたが、Wii用では戸閉めランプは装備されるが 速度計とATC表示はシールでの表現に簡素化された。このコントローラは[Wiiリモコン](https://ja.wikipedia.org/wiki/Wiiリモコン "wikilink")の外部拡張コネクタに接続して使用する。
-
-『電車でGO\!』専用ではないが[マルチトレインコントローラ](https://ja.wikipedia.org/wiki/マルチトレインコントローラ "wikilink")（PlayStation 2対応、USB接続、製造はシープス。音楽館発売の『[東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")』を除きP5B8のノッチカセットのみ対応）もある。
-
-PlayStation専用コントローラーに限らず、本来非対応であるWindows版のシリーズに家庭用コントローラーを対応させるための変換アプリケーションも、非公式ながら登場している。
+PS専用コントローラーに限らず、本来非対応であるWindows版のシリーズに家庭用コントローラーを対応させるための変換アプリケーション「電車でGo！コントローラー変換器」も、非公式ながら登場している。
 
 ## その他
 
@@ -1330,7 +1310,7 @@ PlayStation専用コントローラーに限らず、本来非対応であるWin
 
 #### 電車でGO\!\!
 
-[2017年](../Page/2017年.md "wikilink")のアーケード版『電車でGO\!\!』では、鉄ちゃんに変わり、**二葉**（ふたば）とその妹**六葉**（むつは）という現実感のある女性キャラクターが登場した。二葉はゲーム公開当時の山手線で登場し、関東路線と中央本線（名古屋地区）を、六葉は大阪環状線開始時に登場し、関西路線と名鉄名古屋本線を担当している。二葉は[鹿巳月早希](https://ja.wikipedia.org/wiki/鹿巳月早希 "wikilink")、六葉は[佐々野愛美](https://ja.wikipedia.org/wiki/佐々野愛美 "wikilink")が声を担当している\[40\]。
+[2017年](../Page/2017年.md "wikilink")のアーケード版『電車でGO\!\!』では、鉄ちゃんに変わり、**二葉**（ふたば）とその妹**六葉**（むつは）という現実感のある女性キャラクターが登場した。二葉はゲーム公開当時の山手線で登場し、関東路線と中央本線（名古屋地区）を、六葉は大阪環状線開始時に登場し、関西路線と名鉄名古屋本線を担当している。二葉は[鹿巳月早希](https://ja.wikipedia.org/wiki/鹿巳月早希 "wikilink")、六葉は[佐々野愛美](https://ja.wikipedia.org/wiki/佐々野愛美 "wikilink")が声を担当している\[67\]。
 
 #### 携帯サイト
 
@@ -1345,7 +1325,7 @@ PlayStation専用コントローラーに限らず、本来非対応であるWin
   - 実際は速度照査型ATS（[ATS-Pや](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-P形（デジタル伝送パターン形） "wikilink")[M式ATS](https://ja.wikipedia.org/wiki/M式ATS "wikilink")など）が導入されている路線でも、ゲームでは再現されない。
   - 前駅到着が3秒早いだけで注意信号が出現する。
   - 速度制限解除標識を通過した後すぐに加速できる（実際は、走行中の編成全体が速度制限解除標識を越えてからでないと制限速度を超えてはいけない）。
-  - 線形が実際のものとかけ離れている区間があり、距離も実際のものと異なっている区間がある\[41\]。
+  - 線形が実際のものとかけ離れている区間があり、距離も実際のものと異なっている区間がある\[68\]。
   - 登場する鉄道線車両の運転台は、路面電車など一部を除いて左に偏位しているのにゲームでは左右の線路間の中央視点である。
   - 踏切事故が発生してもすぐに運転再開することができる。
   - ATSが作動すると異常なくらい強力なブレーキがかかる（車両の種類に関係なく全ての車両で減速度50km/h/sとなっている）。
@@ -1381,7 +1361,7 @@ PlayStation専用コントローラーに限らず、本来非対応であるWin
   - \* 電車でGO\!山手線編 オリジナルサウンドトラック
     2011年7月20日配信。これまでの『電車でGO\!』のBGMをアレンジした楽曲が収録されている。全10曲収録。
   - \* カードで連結\! 電車でGO\! オリジナルサウンドトラック 2012年5月10日配信。
-    ゲームのテーマソング「連結\!-RENKETSU\!- 電車でGO\!」の作曲は、ゲーム中ＢＧＭも手がけたCOSIO(ZUNTATA)。そして作詞は「電車で電車でGO\!GO\!GO\!」の作詞も手がけた石川勝久(ZUNTATA)が担当。全9曲収録。
+    ゲームのテーマソング「連結\!-RENKETSU\!- 電車でGO\!」の作曲は、ゲーム中BGMも手がけたCOSIO(ZUNTATA)。そして作詞は「電車で電車でGO\!GO\!GO\!」の作詞も手がけた石川勝久(ZUNTATA)が担当。全9曲収録。
 
 ## 脚注
 
@@ -1412,29 +1392,56 @@ PlayStation専用コントローラーに限らず、本来非対応であるWin
 13. ただし『覇王ゲームスペシャル107・電車でGO\!運転士養成マニュアル』72Pによれば、開発者が子供の頃に、快速が山崎駅を通過していたとのこと。
 14.
 15. [株式会社QBQ](http://qbq.jp/)編　『プレイステーションクソゲー番付』マイウェイ出版発行、2018年。ISBN 9784865118346 p57
-16. クレジット投入後、マスコンを「5」、ブレーキを「非常」に入れて、警笛ペダルを踏みながら、STARTボタンを押す。
+16. 3 - 4区間目以降、持ち時間が15秒以上あると一定確率でしばらく
 17.
-18. [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")のダイヤ改正まで運行されていた、特別料金不要の特急列車。
-19. [2001年](../Page/2001年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")廃止。
-20. 発売時点で全廃されていたため、本形式のエンディングムービーは[大井川鐵道](../Page/大井川鐵道.md "wikilink")の映像で代用されている。
-21. [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")廃止。
-22. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")廃止。
-23. 全区間通しの他にも駒場車庫前発着も設定され、駒場車庫前では車庫出入庫運転もできる。
-24. 伊予鉄道： 白石葉子（声：[彩木香里](https://ja.wikipedia.org/wiki/彩木香里 "wikilink")）、江ノ島電鉄： 七海ひかる（声：[桃井はるこ](../Page/桃井はるこ.md "wikilink")）、京福電気鉄道：西園寺美月（声：[吉田美保](../Page/吉田美保.md "wikilink")）、函館市交通局：山口風花（声：[徳光由禾](../Page/徳光由禾.md "wikilink")）の4人
-25. 同区間は2006年9月24日、交流電化から直流電化に切り替えられた。
-26. JR西日本とJR四国とでは乗務員の音声が異なる。
-27.
-28.
-29.
-30.
-31.
-32.
-33. 当時、[円町](../Page/円町駅.md "wikilink")、[梅小路京都西は未開業](https://ja.wikipedia.org/wiki/梅小路京都西駅 "wikilink")。
+18.
+19.
+20. クレジット投入後、マスコンを「5」、ブレーキを「非常」に入れて、警笛ペダルを踏みながら、STARTボタンを押す。
+21. 川崎から
+22.
+23.
+24. 品川から
+25. [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")のダイヤ改正まで運行されていた、特別料金不要の特急列車。
+26. [2001年](../Page/2001年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")廃止。
+27. 発売時点で全廃されていたため、本形式のエンディングムービーは[大井川鐵道](../Page/大井川鐵道.md "wikilink")の映像で代用されている。
+28. [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")廃止。
+29. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")廃止。
+30. 全区間通しの他にも駒場車庫前発着も設定され、駒場車庫前では車庫出入庫運転もできる。
+31. 伊予鉄道：白石葉子（声：[彩木香里](https://ja.wikipedia.org/wiki/彩木香里 "wikilink")）、江ノ島電鉄：七海ひかる（声：[桃井はるこ](../Page/桃井はるこ.md "wikilink")）、京福電気鉄道：西園寺美月（声：[吉田美保](../Page/吉田美保.md "wikilink")）、函館市交通局：山口風花（声：[徳光由禾](../Page/徳光由禾.md "wikilink")）の4人
+32. 同区間は2006年9月24日、交流電化から直流電化に切り替えられた。
+33. JR西日本とJR四国とでは乗務員の音声が異なる。
 34.
 35.
 36.
 37.
 38.
 39.
-40.
-41. 『特別編 昭和の山手線』『電車でGO\!\!』では実際と同じ距離である。
+40. 当時、[円町](../Page/円町駅.md "wikilink")、[梅小路京都西は未開業](https://ja.wikipedia.org/wiki/梅小路京都西駅 "wikilink")。
+41. 当時、[桂川](../Page/桂川駅_\(京都府\).md "wikilink")、[島本](https://ja.wikipedia.org/wiki/島本駅 "wikilink")、[JR総持寺は未開業](https://ja.wikipedia.org/wiki/JR総持寺駅 "wikilink")。
+42. 当時、[高輪ゲートウェイは未開業](https://ja.wikipedia.org/wiki/高輪ゲートウェイ駅 "wikilink")。
+43.
+44. 当時、[新宮中央](../Page/新宮中央駅.md "wikilink")、[ししぶ](https://ja.wikipedia.org/wiki/ししぶ駅 "wikilink")、[陣原は未開業](https://ja.wikipedia.org/wiki/陣原駅 "wikilink")。
+45.
+46. 当時、[さくら夙川](https://ja.wikipedia.org/wiki/さくら夙川駅 "wikilink")、[摩耶は未開業](https://ja.wikipedia.org/wiki/摩耶駅 "wikilink")。
+47.
+48.
+49.
+50.
+51.
+52. 当時、高輪ゲートウェイは未開業、浜松町は快速通過駅
+53. 当時、[郡山富田は未開業](https://ja.wikipedia.org/wiki/郡山富田駅 "wikilink")。
+54. 当時、[須磨海浜公園は未開業](https://ja.wikipedia.org/wiki/須磨海浜公園駅 "wikilink")。
+55.
+56. 当時は、[大崎は未開業](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")。
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68. 『特別編 昭和の山手線』『電車でGO\!\!』では実際と同じ距離である。

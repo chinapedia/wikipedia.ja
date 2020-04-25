@@ -7,7 +7,7 @@
 
 ### 放送地域
 
-主に[秋田県](../Page/秋田県.md "wikilink")・[山梨県](../Page/山梨県.md "wikilink")・[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[福井県](../Page/福井県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[高知県](../Page/高知県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")・地上波放送の受信が困難な難視聴地域など [日本テレビの系列局やマストバイ](../Page/日本テレビ放送網.md "wikilink")・フルネット局が無い地域向けに日本テレビの[同時放送](../Page/サイマル放送.md "wikilink")(一部、[読売テレビ制作番組を含む](../Page/讀賣テレビ放送.md "wikilink")）がされ、平日は7:00からの「[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")」、土・日曜日は11:30からの「[NNNニュースダッシュ](../Page/NNNニュースダッシュ.md "wikilink")」から始まり、全曜日が23時頃の「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」までの放送だった。土・日曜日は13時頃から17時頃まで放送休止していた。放送形態としては[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（2011年3月閉局）や衛星によるセーフティネットでの地上デジタル放送再送信（地デジ難視対策衛星放送）のような難視聴解消を目的としたもの、2018年9月まで地上波・BSの2波(かつてはCSでも行っていた)で完全[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた[放送大学に近い](../Page/放送大学学園.md "wikilink")。
+主に[秋田県](../Page/秋田県.md "wikilink")・[山梨県](../Page/山梨県.md "wikilink")・[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[福井県](../Page/福井県.md "wikilink")・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")・[高知県](../Page/高知県.md "wikilink")・[佐賀県](../Page/佐賀県.md "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")・地上波放送の受信が困難な難視聴地域など [日本テレビの系列局やマストバイ](../Page/日本テレビ放送網.md "wikilink")・フルネット局が無い地域向けに日本テレビの[同時放送](../Page/サイマル放送.md "wikilink")(一部、[読売テレビ制作番組を含む](../Page/讀賣テレビ放送.md "wikilink")）がされ、平日は7:00からの「[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")」、土・日曜日は11:30からの「[NNNニュースダッシュ](../Page/NNNニュースダッシュ.md "wikilink")」から始まり、全曜日が23時頃の「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」までの放送だった。土・日曜日は13時頃から17時頃まで放送休止していた。放送形態としては[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（2011年3月閉局）・[ディレクTV](../Page/ディレクTV.md "wikilink")の東京情報チャンネル（[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")、1998年～2000年9月）・初期の[BS JAPAN](../Page/BSテレビ東京.md "wikilink")、衛星によるセーフティネットでの地上デジタル放送再送信（地デジ難視対策衛星放送）、ネット配信の[NHKプラス](../Page/NHKプラス.md "wikilink")\[1\]・[AbemaNews](https://ja.wikipedia.org/wiki/AbemaNews "wikilink")\[2\]・東京メトロポリタンテレビジョン（TOKYO MX）の[エムキャス](https://ja.wikipedia.org/wiki/エムキャス "wikilink")のような難視聴解消を目的としたもの、2018年9月まで地上波・BSの2波(かつてはCSでも行っていた)で完全[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた[放送大学に近い](../Page/放送大学学園.md "wikilink")。
 
 ### 番組
 
@@ -91,11 +91,16 @@
   -
     [全日本プロレス中継](../Page/全日本プロレス中継.md "wikilink")から過去の試合、現在の試合をミックスしてオリジナル編集にて放送した唯一のオリジナル番組。現在の[日テレジータス](../Page/日テレジータス.md "wikilink")「プロレスクラシック」の原型にもなった。
 
-## 関連項目
-
-  - [シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")
+## 脚注
 
 ## 出典
 
   -
+## 関連項目
+
+  - [シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")
+
 [Category:かつて存在したスカパー\!のテレビチャンネル](https://ja.wikipedia.org/wiki/Category:かつて存在したスカパー!のテレビチャンネル "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink")
+
+1.  南関東向けの番組を配信
+2.  一部のニュース番組を[遅れネット](../Page/遅れネット.md "wikilink")で配信、かつては[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")で行われていた。

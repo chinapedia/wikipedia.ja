@@ -168,7 +168,7 @@
   - [中京テレビ](../Page/中京テレビ放送.md "wikilink")
   - [西日本放送](../Page/西日本放送.md "wikilink")
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（1993年10月4日ネット開始）
+  - [山口放送](../Page/山口放送.md "wikilink")（1993年10月4日ネット開始）
   - [福岡放送](../Page/福岡放送.md "wikilink")（1989年4月1日24時（※正確には2日0時）ネット開始）
   - [くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")
   - 他

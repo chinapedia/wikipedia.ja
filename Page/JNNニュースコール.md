@@ -1,7 +1,7 @@
 > この記事は[JNNニュースコール](https://ja.wikipedia.org/wiki/JNNニュースコール)から翻訳されています。
 
 
-『**JNNニュースコール**』（ジェイエヌエヌニュースコール）は、[1975年](../Page/1975年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[1976年](../Page/1976年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")までの平日と[1991年](../Page/1991年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで[TBS系列局](../Page/TBSテレビ.md "wikilink") ([JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")) で放送された朝の[報道番組](../Page/報道番組.md "wikilink")・[情報番組である](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
+『**JNNニュースコール**』（ジェイエヌエヌニュースコール）は、[1975年](../Page/1975年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[1976年](../Page/1976年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")までの平日と[1991年](../Page/1991年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")まで[TBS系列局](../Page/TBSテレビ.md "wikilink") ([JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")) で放送された朝の[報道番組](../Page/報道番組.md "wikilink")・[情報番組である](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 1972年4月に、『[モーニングジャンボ](https://ja.wikipedia.org/wiki/モーニングジャンボ "wikilink")』が『[モーニングジャンボJNNニュースショー](https://ja.wikipedia.org/wiki/モーニングジャンボJNNニュースショー "wikilink")』と『[モーニングジャンボ奥さま8時半です](../Page/モーニングジャンボ奥さま8時半です.md "wikilink")』に分割されたが、前者が、1975年1月を機に当番組と『[モーニングジャンボおはよう地球さん](https://ja.wikipedia.org/wiki/モーニングジャンボおはよう地球さん "wikilink")』に分割されることとなった。
 
-放送時間は[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 7:00 - 7:20 （以下全て[JST](../Page/日本標準時.md "wikilink")）。当時は[日本テレビ系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")でも、『おはよう地球さん』をネットしていた関係から放送されていた。
+放送時間は[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 7:00 - 7:20 （以下全て[JST](../Page/日本標準時.md "wikilink")）。当時は[日本テレビ系列の](../Page/日本ニュースネットワーク.md "wikilink")[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")でも、『おはよう地球さん』をネットしていた関係から放送されていた。
 
 なお、キャスターはTBSの男性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")のシフト勤務であった。
 

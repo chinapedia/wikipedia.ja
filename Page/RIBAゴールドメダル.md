@@ -626,7 +626,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロバート・マシュー" title="wikilink">ロバート・マシュー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -673,7 +673,7 @@
 <tr class="even">
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
 <td><p><a href="../Page/チャールズ・イームズ.md" title="wikilink">チャールズ・イームズ</a><br />
-</p></td>
+<a href="../Page/レイ・イームズ.md" title="wikilink">レイ・イームズ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -855,7 +855,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オドンネル&amp;トーミー" title="wikilink">オドンネル&amp;トーミー</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

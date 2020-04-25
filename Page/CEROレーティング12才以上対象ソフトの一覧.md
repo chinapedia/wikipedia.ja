@@ -21,9 +21,6 @@
   - [スーパーマリオ オデッセイ](https://ja.wikipedia.org/wiki/スーパーマリオ_オデッセイ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - スター・ウォーズ ピンボール（コンテンツアイコン：「暴力、犯罪」）
   - [聖剣伝説コレクション](https://ja.wikipedia.org/wiki/聖剣伝説コレクション "wikilink")（コンテンツアイコン：「犯罪」）
-
-<!-- end list -->
-
   - [ゼルダの伝説シリーズ](../Page/ゼルダの伝説シリーズ.md "wikilink")
       - [ゼルダの伝説 ブレス オブ ザ ワイルド](https://ja.wikipedia.org/wiki/ゼルダの伝説_ブレス_オブ_ザ_ワイルド "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
       - [ゼルダの伝説 夢をみる島](https://ja.wikipedia.org/wiki/ゼルダの伝説_夢をみる島 "wikilink")（コンテンツアイコン：「犯罪」）
@@ -659,7 +656,9 @@
   - [ロックマンX アニバーサリー コレクション1+2](https://ja.wikipedia.org/wiki/ロックマンX_アニバーサリー_コレクション "wikilink")
       - ロックマンX アニバーサリー コレクション（コンテンツアイコン：「セクシャル、暴力」）
       - ロックマンX アニバーサリー コレクション2（コンテンツアイコン：「セクシャル」）
-  - [ワンピース 海賊無双3](https://ja.wikipedia.org/wiki/ワンピース_海賊無双3 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
+  - [ワンピース 海賊無双シリーズ](https://ja.wikipedia.org/wiki/ワンピース_海賊無双 "wikilink")
+      - [ワンピース 海賊無双3](https://ja.wikipedia.org/wiki/ワンピース_海賊無双3 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
+      - [ワンピース 海賊無双4](https://ja.wikipedia.org/wiki/ONE_PIECE_海賊無双4 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
 
 #### PlayStation Store 配信ソフト (PS4)
 

@@ -11,7 +11,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から番組ロゴが一新され、「ABC」の表記がなくなった。また、ピアノ調のテーマソング・天気予報で流れる曲も、ダイナミックなオーケストラ調のテーマソングに変わった。オープニング[CGでは近畿地方と](../Page/コンピュータグラフィックス.md "wikilink")[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")が描かれているが、[和歌山県](../Page/和歌山県.md "wikilink")だけがない。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")に、ABCの社屋移転に合わせて、当番組もリニューアルされ、オープニングCGや[テロップの](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[デザイン](../Page/デザイン.md "wikilink")、[CM前の](../Page/コマーシャルメッセージ.md "wikilink")[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")などが変更された。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")に、ABCの社屋移転に合わせて、当番組もリニューアルされ、オープニングCGや[テロップの](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")[デザイン](../Page/デザイン.md "wikilink")、[CM前の](../Page/コマーシャルメッセージ.md "wikilink")[アイキャッチ](../Page/アイキャッチ.md "wikilink")などが変更された。
 
 現在[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[赤江珠緒](https://ja.wikipedia.org/wiki/赤江珠緒 "wikilink")とタレントの[山本モナ](../Page/山本モナ.md "wikilink")が共に、ABCアナウンサー時代に出演していた番組でもある。
 

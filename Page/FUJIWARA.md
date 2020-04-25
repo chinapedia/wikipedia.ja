@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **[藤本敏史](../Page/藤本敏史.md "wikilink")**（ふじもと としふみ、[1970年](../Page/1970年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - ）
+  - **[藤本敏史](../Page/藤本敏史.md "wikilink")**（ふじもと としふみ、[1970年](../Page/1970年.md "wikilink")〈昭和45年〉[12月18日](../Page/12月18日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - **[原西孝幸](../Page/原西孝幸.md "wikilink")**（はらにし たかゆき、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[3月5日](../Page/3月5日.md "wikilink") - ）
+  - **[原西孝幸](../Page/原西孝幸.md "wikilink")**（はらにし たかゆき、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")〈昭和46年〉[3月5日](../Page/3月5日.md "wikilink") - ）
 
 <!-- end list -->
 

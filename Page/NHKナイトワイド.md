@@ -23,6 +23,6 @@
 
 ## 外部リンク
 
-  - [「NHKナイトワイド」番組表検索結果 | NHKクロニクル](http://www2.nhk.or.jp/chronicle/pg/page010-01.cgi?keyword=%EF%BC%AE%EF%BC%A8%EF%BC%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AF%E3%82%A4%E3%83%89)
+  - [「NHKナイトワイド」番組表検索結果 | NHKクロニクル](https://www2.nhk.or.jp/archives/chronicle/pg/page010-01.cgi?keyword=%EF%BC%AE%EF%BC%A8%EF%BC%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AF%E3%82%A4%E3%83%89)
 
 [Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのニュース・報道番組の歴史 "wikilink") [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink")

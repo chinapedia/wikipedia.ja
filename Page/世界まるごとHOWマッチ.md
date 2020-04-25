@@ -296,7 +296,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td><p>現：IBC岩手放送</p></td>
 <td></td>
 <td></td>
@@ -354,7 +354,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -403,8 +403,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
+<td><p>現：<a href="../Page/RSK山陽放送.md" title="wikilink">RSK山陽放送</a></p></td>
 <td></td>
 <td></td>
 </tr>

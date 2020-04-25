@@ -343,7 +343,7 @@
 |        | BS191 - 193 | [WOWOW](../Page/WOWOW.md "wikilink")                                |
 |        | BS200 - 202 | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")                        |
 |        | BS211       | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")             |
-|        | BS222       | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                   |
+|        | BS222       | [BS12 トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")               |
 
 ### CSデジタルテレビ局
 
@@ -488,7 +488,8 @@
 
 ## 外部リンク
 
-  -
+  - [ZTV（ゼットティヴィ）](https://www.ztv.co.jp/) - 公式サイト
+
 [Category:三重県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:三重県のケーブルテレビ局 "wikilink") [Category:滋賀県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:滋賀県のケーブルテレビ局 "wikilink") [Category:津市の企業](https://ja.wikipedia.org/wiki/Category:津市の企業 "wikilink") [Category:和歌山県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:和歌山県のケーブルテレビ局 "wikilink") [Category:1990年設立のテレビ局](https://ja.wikipedia.org/wiki/Category:1990年設立のテレビ局 "wikilink")
 
 1.  \[<http://tsushin-no-himitsu.hatenablog.com/>　通信の秘密の危機的状況～安心なインターネット社会のために\]

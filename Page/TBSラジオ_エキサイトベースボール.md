@@ -790,7 +790,7 @@ RCCについては、過去にヤクルト主催（火曜日のLF）・在阪球
 <!-- end list -->
 
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")※
+  - [山口放送](../Page/山口放送.md "wikilink")※
 
 <!-- end list -->
 
@@ -806,16 +806,16 @@ RCCについては、過去にヤクルト主催（火曜日のLF）・在阪球
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（土曜日は自社制作の『[土曜ワラッター\!](../Page/土曜ワラッター!.md "wikilink")』（2015年まで）を放送）
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")◎
   - [山形放送](../Page/山形放送.md "wikilink")◎（2011年度までNRN土曜ナイターを定時放送）
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")◎
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")◎
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")◎（2012年度までNRN土曜ナイターを定時放送）
   - TBSラジオ◎（JRNキー局）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")◎（2012年度までNRN土曜ナイターを定時放送）
+  - [信越放送](../Page/信越放送.md "wikilink")◎（2012年度までNRN土曜ナイターを定時放送）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")◎（2011年度までNRN土曜ナイターを定時放送）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（2012年度までNRN土曜ナイターを定時放送）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")◎
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")◎（2010年度のみNRN土曜ナイターを定時放送。静岡県内で公式戦がある場合は中継することがある）
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")※
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")※
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")※・☆

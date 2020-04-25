@@ -411,7 +411,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -494,7 +494,7 @@
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（平日、11:53頃からローカルニュース）、[FBCニュース](../Page/FBCニュース.md "wikilink")（週末）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNCニュース](../Page/RNCニュース.md "wikilink")（ただし、RNCのホームページのタイムテーブルには「NNNニュースD」と表記）
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink") - NNNニュースダッシュひろしま→広島テレビニュース（ただし、広テレのホームページのタイムテーブルや実際の番組では「NNNニュースD」と表記。）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") - [KRYニュース](../Page/KRYニュース.md "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink") - [KRYニュース](../Page/KRYニュース.md "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - [徳島新聞ニュース](../Page/徳島新聞ニュース.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - [なんかいNEWS](../Page/なんかいNEWS.md "wikilink")（週末）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") - [RKCニュース](../Page/RKCニュース.md "wikilink")（日曜日）
@@ -507,7 +507,7 @@
 
 ## 関連項目
 
-  - [NNN（Nippon News Network）](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")
+  - [NNN（Nippon News Network）](../Page/日本ニュースネットワーク.md "wikilink")
   - [NNN24→日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")
   - [BS日テレ (BS日本)](../Page/BS日本.md "wikilink")
 

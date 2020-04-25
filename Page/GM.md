@@ -5,7 +5,7 @@
 
 ## 規格・単位
 
-  - [ジーマイナー](https://ja.wikipedia.org/wiki/ト短調 "wikilink")(G minor) - [西洋音楽](https://ja.wikipedia.org/wiki/西洋音楽 "wikilink")における[調](https://ja.wikipedia.org/wiki/調 "wikilink")の一つ。
+  - [ジーマイナー](https://ja.wikipedia.org/wiki/ト短調 "wikilink")(G minor) - [西洋音楽](https://ja.wikipedia.org/wiki/西洋音楽 "wikilink")における[調](../Page/調.md "wikilink")の一つ。
 
   - [ギガメートル](https://ja.wikipedia.org/wiki/ギガメートル "wikilink") (Gm) - [国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")の長さの単位で、10<sup>9</sup>[メートル](../Page/メートル.md "wikilink")(m)。
 

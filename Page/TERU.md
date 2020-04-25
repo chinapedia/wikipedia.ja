@@ -1,7 +1,7 @@
 > この記事は[TERU](https://ja.wikipedia.org/wiki/TERU)から翻訳されています。
 
 
-**TERU**（テル、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月8日](../Page/6月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。本名、**小橋 照彦**（こばし てるひこ）。愛称は、**テッコ**。 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身。函館市立桔梗小学校卒業。函館市立桔梗中学校卒業。[北海道函館商業高等学校](../Page/北海道函館商業高等学校.md "wikilink")卒業。[身長](../Page/身長.md "wikilink")169cm。妻は[PUFFY](../Page/PUFFY.md "wikilink")の[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")。娘は[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")の[こばしり。](https://ja.wikipedia.org/wiki/こばしり。 "wikilink")。
+**TERU**（テル、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月8日](../Page/6月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。本名、**小橋 照彦**（こばし てるひこ）。愛称は、**テッコ**。 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身。函館市立桔梗小学校卒業。函館市立桔梗中学校卒業。[北海道函館商業高等学校](../Page/北海道函館商業高等学校.md "wikilink")卒業。[身長](../Page/身長.md "wikilink")169cm。妻は[PUFFY](../Page/PUFFY.md "wikilink")の[大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")。
 
 ## 経歴
 

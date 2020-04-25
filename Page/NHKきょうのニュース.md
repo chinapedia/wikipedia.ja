@@ -159,8 +159,16 @@
 
 <!-- end list -->
 
+  - 1996.11.7～1998.6.29　[伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")
+  - 1998.7.13～1999.6.23　[加藤昌男](../Page/加藤昌男.md "wikilink")
+  - 1999.6.28～2000.3.24　[蔭山武人](https://ja.wikipedia.org/wiki/蔭山武人 "wikilink")
+  - 2000.3.27～2004.6.2　[石戸谷健一](../Page/石戸谷健一.md "wikilink")
+      - 2000.8.7～8.17　小野卓司が代行　
+
+<!-- end list -->
+
   - 2004.5.17〜6.11　[梅津正樹](../Page/梅津正樹.md "wikilink")
-  - 2004.6.14〜2006.3　[二見和男](https://ja.wikipedia.org/wiki/二見和男 "wikilink")（現[金沢放送局シニアスタッフ](../Page/NHK金沢放送局.md "wikilink")）
+  - 2004.6.7〜2006.3　[二見和男](https://ja.wikipedia.org/wiki/二見和男 "wikilink")（現[金沢放送局シニアスタッフ](../Page/NHK金沢放送局.md "wikilink")）
   - 2006.4〜2008.3.29　[伊藤博英](../Page/伊藤博英.md "wikilink")（2010年10月30日のFM・デジタルラジオ実用化試験放送向けの放送も臨時に担当したほか、2012年1月21日・土曜日放送分も担当）
   - 2008.4〜2012.3　[末田正雄](../Page/末田正雄.md "wikilink")（それ以降も代理のメインキャスターとして出演することがある。）
   - 2012.4～2015.3　[出山知樹](../Page/出山知樹.md "wikilink")（現[大阪放送局](../Page/NHK大阪放送局.md "wikilink")）
@@ -180,7 +188,7 @@
 <!-- end list -->
 
   -
-    ※過去には、平日は[石戸谷健一](../Page/石戸谷健一.md "wikilink")、[加藤昌男](../Page/加藤昌男.md "wikilink")、[伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")が、土日には[長谷川勝彦](https://ja.wikipedia.org/wiki/長谷川勝彦 "wikilink")などが担当していた。伊藤、末田、野村は過去に[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")の週末キャスターを歴任している。
+    ※過去には、土日には[長谷川勝彦](https://ja.wikipedia.org/wiki/長谷川勝彦 "wikilink")などが担当していた。伊藤、末田、野村は過去に[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")の週末キャスターを歴任している。
     ※2013年度途中までは祝日は土日担当とは別のアナウンサーが日替わりで担当した。
     ※2017年7月15日から9月3日までは土日祝日は[小見誠広](../Page/小見誠広.md "wikilink")、内藤啓史、野村正育、[山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")などが日替わりで担当。
 

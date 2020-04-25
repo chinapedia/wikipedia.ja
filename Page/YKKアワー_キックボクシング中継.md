@@ -21,7 +21,7 @@
   - [TBS](../Page/TBSテレビ.md "wikilink")（**製作局**）：月曜 19:00 - 19:30
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森テレビ](../Page/青森テレビ.md "wikilink")：月曜 19:00 - 19:30\[1\]
-  - [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")：月曜 19:00 - 19:30\[2\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：月曜 19:00 - 19:30\[2\]
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：金曜 18:00 - 18:30（1973年7月時点）\[3\]
   - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30（1968年10月 - 1970年12月時点）\[4\] → 金曜 18:00 - 18:30（1973年7月時点）\[5\]
   - [東北放送](../Page/東北放送.md "wikilink")：月曜 19:00 - 19:30\[6\]
@@ -37,7 +37,7 @@
       - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [テレビ山口](../Page/テレビ山口.md "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")

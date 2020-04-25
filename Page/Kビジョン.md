@@ -66,7 +66,7 @@
 <tr class="odd">
 <td><p><a href="../Page/NHK山口放送局.md" title="wikilink">NHK山口</a>・総合</p></td>
 <td><p>NHK教育Eテレ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p><a href="../Page/山口朝日放送.md" title="wikilink">山口朝日放送</a></p></td>
 <td><p><a href="../Page/テレビ山口.md" title="wikilink">テレビ山口</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a><br />

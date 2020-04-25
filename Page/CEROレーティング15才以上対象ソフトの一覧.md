@@ -8,7 +8,9 @@
 ### Nintendo Switch
 
   - [スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [ゼノブレイド2](https://ja.wikipedia.org/wiki/ゼノブレイド2 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - ゼノブレイドシリーズ
+      - [ゼノブレイド ディフィニティブ・エディション](https://ja.wikipedia.org/wiki/ゼノブレイド "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力」）
+      - [ゼノブレイド2](https://ja.wikipedia.org/wiki/ゼノブレイド2 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [戦場のヴァルキュリア4](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア4 "wikilink")（コンテンツアイコン：「セクシャル、犯罪」）
   - [ファイアーエムブレム無双](https://ja.wikipedia.org/wiki/ファイアーエムブレム無双 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Fate/EXTELLA](https://ja.wikipedia.org/wiki/Fate/EXTELLA "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -1384,5 +1386,6 @@ Xbox 360
       - [ロストプラネット コロニーズ](https://ja.wikipedia.org/wiki/ロストプラネット_コロニーズ "wikilink")
       - [ロスト プラネット 2](https://ja.wikipedia.org/wiki/ロスト_プラネット_2 "wikilink")
   - [けものフレンズ3](https://ja.wikipedia.org/wiki/けものフレンズ#ゲーム "wikilink")（コンテンツアイコン：「不明」）
+  - イコリア：巨獣の棲処（コンテンツアイコン：「暴力」）
 
 [Category:コンピュータゲームのタイトル一覧](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのタイトル一覧 "wikilink") [Category:コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/Category:コンピュータエンターテインメントレーティング機構 "wikilink")

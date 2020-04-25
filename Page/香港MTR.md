@@ -19,16 +19,16 @@
 
   - [メトロキャメル電車（直流）（M-Train）](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink") - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")・[迪士尼線](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")
   - [Rotem電車（K-Train）](../Page/香港地下鉄Rotem電車.md "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
-  - [ADtranz-CAF電車](https://ja.wikipedia.org/wiki/:en:MTR_Adtranz–CAF_EMU "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")
-  - [中国製電車](https://ja.wikipedia.org/wiki/:en:MTR_CNR_Changchun_EMU "wikilink")（C-Train） - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")
-  - [南港島線中国製電車](https://ja.wikipedia.org/wiki/:en:MTR_CNR_Changchun_EMU "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
-  - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘老舊系統](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
+  - [ADtranz-CAF電車](https://ja.wikipedia.org/wiki/香港地鉄ADtranz-CAF電車 "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")
+  - [中国製電車](https://ja.wikipedia.org/wiki/香港鉄路市区線中国製電車_\(初代\) "wikilink")（C-Train） - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")
+  - [南港島線中国製電車](https://ja.wikipedia.org/wiki/香港鉄路南港島線中国製電車 "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
+  - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘線古いシステム](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
 
 旧香港地下鉄の路線で使用されている車両は2019年現在5種類存在する。一般車両については[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国の各国で製造されている](../Page/中華人民共和国.md "wikilink")。一次車では元宗主国であった[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が建設した影響からか、[ロンドン地下鉄](../Page/ロンドン地下鉄.md "wikilink")と近い[デザイン](../Page/デザイン.md "wikilink")の施しが随所に見られた。連結部は貫通しており扉は無く車両間の移動は自由である。また連結部の扉が無いため、直線部への列車進入時には前後では長い空間が広がる。[座席](../Page/座席.md "wikilink")は全て[ロングシートで](../Page/鉄道車両の座席.md "wikilink")、素材は[ステンレスである](../Page/ステンレス鋼.md "wikilink")。2009年より[優先席](https://ja.wikipedia.org/wiki/優先席 "wikilink")や[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")専用エリアが設置された。
 
 案内表示は各ドアに設置された路線図上の[LEDの点灯により停車駅と運行されている路線を表示する](../Page/発光ダイオード.md "wikilink")。なお座席上にもLED画面が設置されているが、これは[広告](../Page/広告.md "wikilink")用のものである。[中吊りや](https://ja.wikipedia.org/wiki/吊り広告 "wikilink")[シール](../Page/シール.md "wikilink")など、車内に紙の[メディアによる広告は掲出されていない](../Page/メディア_\(媒体\).md "wikilink")。
 
-全ての路線で[アルミまたはステンレス製の車両が使用され](../Page/アルミニウム合金.md "wikilink")、先頭車両の前面にはMTRの[コーポレートカラー](https://ja.wikipedia.org/wiki/コーポレートカラー "wikilink")である赤色の帯と[ロゴマークが施されている](../Page/ロゴタイプ.md "wikilink")。一部では[ラッピング車両](../Page/ラッピング車両.md "wikilink")の運行も実施している。
+全ての路線で[アルミまたはステンレス製の車両が使用され](../Page/アルミニウム合金.md "wikilink")、先頭車両の前面にはMTRの[コーポレートカラー](../Page/コーポレートカラー.md "wikilink")である赤色の帯と[ロゴマークが施されている](../Page/ロゴタイプ.md "wikilink")。一部では[ラッピング車両](../Page/ラッピング車両.md "wikilink")の運行も実施している。
 
 一方、機場快線は[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")と[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")（ただし、実車は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ボンバルディア](../Page/ボンバルディア.md "wikilink")が作成）の共同製造である。全ての車両の座席はモケットの非転換式クロスシートである。当初、各背部分には[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が設置され、航空機の発着情報や空港の配置情報、香港市街の[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")などを表示していたが、現在は撤去されている。室内のドア付近には手荷物置き場が設けられている他、空港駅ではエアポート・エクスプレスホームと空港の出発階または到着階との完全[バリアフリー](../Page/バリアフリー.md "wikilink")化が図られるなど、空港への連絡路線として支障のないよう設計されている。なお、エアポート・エクスプレスの香港方先頭車は荷物専用車両で、香港駅と九龍駅のインタウンチェックイン（市中チェックインカウンター）で預けられた航空旅客の荷物が搭載され空港へ運ばれる。
 
@@ -110,13 +110,13 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 
 ## 建設計画
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:FutureMTRNetworkAfterMerger.png "wikilink") 香港鉄路は[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")（Island Line）を延伸地下鉄路線の建設を計画している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:FutureMTRNetworkAfterMerger.png "wikilink")
 
-港島線の[上環駅](https://ja.wikipedia.org/wiki/上環駅 "wikilink")（Sheung Wan） - [堅尼地城](https://ja.wikipedia.org/wiki/堅尼地城駅 "wikilink")（Kennedy Town）間については、2014年12月28日に営業を開始している。
+香港MTRは現在延伸工事を実施している。
 
-また金鐘駅から香港仔・海怡半島方面への路線は「南港島線」として[2016年](../Page/2016年.md "wikilink")12月28日に営業を開始している。
+2020年4月現在で駅まで延伸されている[屯馬線](../Page/屯馬線.md "wikilink")一期は、今後紅駅まで延伸し、西鉄線と合わせて屯馬線(東西走廊)とする計画がされている。
 
-同じく、バス便の旅客運送を頼っている九龍地区の紅（Hung Hom）などでも地下鉄の建設計画がある。また湾仔 (Wan Chai) 地区など埋立てが進んだ地域では、既存の地下鉄（おもに港島線）より海側へ新線を建設する計画もある。 それと、2020年～2022年には沙田至中環線（予定）ができる予定。過去はマーオンサー線のタイワイ駅で[東鉄線](https://ja.wikipedia.org/wiki/東鉄線 "wikilink")に乗り換え終点のホンハム駅まで行ってバスに乗る必要があったが沙田至中環線ができることによって移動時間や、所要時間が短くなる。また、沙田至中環線は予定の名前であり東西走線になる計画もある。
+また、東鉄線を紅（Hung Hom）から香港島へ延伸し、湾仔北部の新駅を経て金鐘駅まで至る計画がされている。
 
 ## 旧駅名
 

@@ -52,6 +52,6 @@
 
 [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink")
 
-[Category:コンピュータの文献](https://ja.wikipedia.org/wiki/Category:コンピュータの文献 "wikilink")
+[Category:コンピュータの文献](https://ja.wikipedia.org/wiki/Category:コンピュータの文献 "wikilink") [Category:コンピュータ・フォークロア](https://ja.wikipedia.org/wiki/Category:コンピュータ・フォークロア "wikilink")
 
 1.  [bit](https://ja.wikipedia.org/wiki/ビット_\(曖昧さ回避\) "wikilink")（[共立出版](../Page/共立出版.md "wikilink")）1985年4月号 p. 404-410

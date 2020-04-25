@@ -603,7 +603,7 @@
 
   - [1](http://www.jfa.or.jp) - 日本サッカー協会
 
-[Category:日本の第3種年代のサッカー大会](https://ja.wikipedia.org/wiki/Category:日本の第3種年代のサッカー大会 "wikilink") [Category:高円宮杯全日本ユース(U-15)サッカー選手権大会](https://ja.wikipedia.org/wiki/Category:高円宮杯全日本ユース\(U-15\)サッカー選手権大会 "wikilink") [Category:高円宮](https://ja.wikipedia.org/wiki/Category:高円宮 "wikilink") [Category:1989年開始のイベント](https://ja.wikipedia.org/wiki/Category:1989年開始のイベント "wikilink")
+[Category:日本の第3種年代のサッカー大会](https://ja.wikipedia.org/wiki/Category:日本の第3種年代のサッカー大会 "wikilink") [Category:高円宮杯全日本ユース(U-15)サッカー選手権大会](https://ja.wikipedia.org/wiki/Category:高円宮杯全日本ユース\(U-15\)サッカー選手権大会 "wikilink") [Category:高円宮](https://ja.wikipedia.org/wiki/Category:高円宮 "wikilink") [Category:1989年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1989年開始のスポーツイベント "wikilink")
 
 1.   - 日本サッカー協会、2018年1月3日閲覧。
 2.  [高円宮杯第23回全日本ユース（U-15）サッカー選手権大会 大会概要](http://www.jfa.or.jp/match/topics/2011/122.html)

@@ -58,7 +58,7 @@
 
 ## 特殊例
 
-  - [山口県](../Page/山口県.md "wikilink")・[福岡県](../Page/福岡県.md "wikilink")においては、NNN正式結成前の1964年9月まで[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")関門放送支局と[テレビ西日本](../Page/テレビ西日本.md "wikilink")のサービスエリアが大半で重複するため、KRY関門支局では日本テレビ制作のニュースが放送できなかった（関門以外の本局・支局は日テレ系主体のため放送）。その後、1964年10月にテレビ西日本の[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") ([FNS](../Page/フジネットワーク.md "wikilink")/[FNN](../Page/フジニュースネットワーク.md "wikilink")) 系列転向に伴い、九州・沖縄地区の日テレ系単独ネットが消滅したため、[福岡放送](../Page/福岡放送.md "wikilink")が[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に開局するまで暫定的に日テレ九州分室を設置して、KRY共々取材を担当した。
+  - [山口県](../Page/山口県.md "wikilink")・[福岡県](../Page/福岡県.md "wikilink")においては、NNN正式結成前の1964年9月まで[山口放送](../Page/山口放送.md "wikilink")関門放送支局と[テレビ西日本](../Page/テレビ西日本.md "wikilink")のサービスエリアが大半で重複するため、KRY関門支局では日本テレビ制作のニュースが放送できなかった（関門以外の本局・支局は日テレ系主体のため放送）。その後、1964年10月にテレビ西日本の[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") ([FNS](../Page/フジネットワーク.md "wikilink")/[FNN](../Page/フジニュースネットワーク.md "wikilink")) 系列転向に伴い、九州・沖縄地区の日テレ系単独ネットが消滅したため、[福岡放送](../Page/福岡放送.md "wikilink")が[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に開局するまで暫定的に日テレ九州分室を設置して、KRY共々取材を担当した。
   - [中京](https://ja.wikipedia.org/wiki/中京 "wikilink")エリアにおいては、当初は[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")が担当していたが、1969年4月に中京UHFテレビ放送（現・[中京テレビ放送](../Page/中京テレビ放送.md "wikilink")）が開局後も、日テレ系とNET系の並列[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")としており、NBNは夕方のニュースを[ANNからの配給を受けていたため](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、また中京UHFもNNNに加盟していなかったために放送ができなかった（昼についてはNBNが2系列の番組を連続放送していた）。1973年4月のネット整理によりCTVがNNS/NNNの編成に統合されたため、以後のNNNニュースはCTVの担当となった。
 
 ## 脚注

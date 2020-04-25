@@ -178,7 +178,7 @@
 
 ## スタッフ
 
-  - 原案 - [SEGA](https://ja.wikipedia.org/wiki/株式会社セガ "wikilink")・[ソニックチーム](../Page/ソニックチーム.md "wikilink") 『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』『[別冊コロコロコミック](https://ja.wikipedia.org/wiki/別冊コロコロコミック "wikilink")』掲載
+  - 原案 - [SEGA](https://ja.wikipedia.org/wiki/セガ "wikilink")・[ソニックチーム](../Page/ソニックチーム.md "wikilink") 『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』『[別冊コロコロコミック](https://ja.wikipedia.org/wiki/別冊コロコロコミック "wikilink")』掲載
   - 企画 - SONIC Project
   - スーパーバイザー - 西山彰則、前川司郎、[飯塚隆](https://ja.wikipedia.org/wiki/飯塚隆 "wikilink")
   - エクゼクティブプロデューサー - [中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")
@@ -764,7 +764,7 @@
 <td><p>吉村清子</p></td>
 <td><p>平野俊貴</p></td>
 <td><p>熨斗谷充孝</p></td>
-<td></td>
+<td><p>未公開</p></td>
 <td><p><strong>2020年</strong><br />
 3月25日</p></td>
 </tr>
@@ -773,8 +773,8 @@
 <td><p>宇宙船ブルータイフーン号</p></td>
 <td><p>水原正則</p></td>
 <td><p>広嶋秀樹</p></td>
-<td></td>
 <td><p>3月26日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -783,16 +783,16 @@
 <td><p>まさきひろ</p></td>
 <td><p>奥田誠治</p></td>
 <td><p>古川政美</p></td>
-<td></td>
 <td><p>3月27日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 56</p></td>
 <td><p>Dr.エッグマン参戦!</p></td>
 <td><p>水原正則</p></td>
 <td><p>鈴木卓夫</p></td>
-<td></td>
 <td><p>3月31日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -801,197 +801,197 @@
 <td><p>白石雅彦</p></td>
 <td><p>奥田誠治</p></td>
 <td><p>棚橋一徳</p></td>
-<td></td>
 <td><p>4月1日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 58</p></td>
 <td><p>乙女のジャングルトラップ</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>原田奈奈</p></td>
 <td><p>4月2日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 59</p></td>
 <td><p>カオティクス、宇宙へ行く</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>浦沢義雄</p></td>
+<td><p>水原正則</p></td>
+<td><p>広嶋秀樹</p></td>
 <td><p>4月3日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 60</p></td>
 <td><p>シャドウ・リバース</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>白石雅彦</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>古川政美</p></td>
 <td><p>4月6日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 61</p></td>
 <td><p>メタレックス戦艦襲来!</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>まさきひろ</p></td>
+<td><p>水原正則</p></td>
+<td><p>鈴木卓夫</p></td>
 <td><p>4月7日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 62</p></td>
 <td><p>地下渓谷の秘密</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>増田敏彦</p></td>
+<td><p>熨斗谷充孝</p></td>
 <td><p>4月8日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 63</p></td>
 <td><p>宇宙要塞メタルプラント</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>まさきひろ</p></td>
+<td><p>平野俊貴</p></td>
+<td><p>原田奈奈</p></td>
 <td><p>4月9日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 64</p></td>
 <td><p>激突! ソニックVSシャドウ</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>広嶋秀樹</p></td>
 <td><p>4月10日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 65</p></td>
 <td><p>カオティクス 電撃ラブラブ大作戦</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>白石雅彦</p></td>
+<td><p>水原正則</p></td>
+<td><p>古川政美</p></td>
 <td><p>4月13日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 66</p></td>
 <td><p>銀河回廊をわたれ!</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>まさきひろ</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>のがみかずお</p></td>
 <td><p>4月14日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 67</p></td>
 <td><p>ブラック・トラップ</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>浦沢義雄</p></td>
+<td><p>亀垣一</p></td>
 <td><p>4月15日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 68</p></td>
 <td><p>こわれた星の上で</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>平野俊貴</p></td>
+<td><p>熨斗谷充孝</p></td>
 <td><p>4月16日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 69</p></td>
 <td><p>お願いマルモリン!</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>奥田誠治</p></td>
+<td><p>広嶋秀樹</p></td>
 <td><p>4月17日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 70</p></td>
 <td><p>エッグマン艦隊現る!</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>白石雅彦</p></td>
+<td><p>水原正則</p></td>
+<td><p>古川政美</p></td>
 <td><p>4月20日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 71</p></td>
 <td><p>カフェ・カオティクス</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>まさきひろ</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>鈴木卓夫</p></td>
 <td><p>4月21日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 72</p></td>
 <td><p>メタレックスの正体!?</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>熨斗谷充孝</p></td>
 <td><p>4月22日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 73</p></td>
 <td><p>暗殺者シャドウ!</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>白石雅彦</p></td>
+<td><p>原田奈奈</p></td>
 <td><p>4月23日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 74</p></td>
 <td><p>ロスト・プラネット</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>水原正則</p></td>
+<td><p>広嶋秀樹</p></td>
 <td><p>4月24日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 75</p></td>
 <td><p>森化の日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>白石雅彦</p></td>
+<td><p>奥田誠治</p></td>
+<td><p>古川政美</p></td>
 <td><p>4月27日</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 76</p></td>
 <td><p>決戦! ダーク・オーク</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>吉村清子</p></td>
+<td><p>斉藤豊</p></td>
 <td><p>4月28日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>エピソード 77</p></td>
 <td><p>君のためにできること</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>水原正則</p></td>
+<td><p>熨斗谷充孝</p></td>
 <td><p>4月29日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>エピソード 78</p></td>
 <td><p>星の生まれるところ</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>亀垣一</p></td>
 <td><p>4月30日</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1024,7 +1024,7 @@
   - [ソニックX（あにてれ）](https://ch.ani.tv/titles/551)
 
   -
-[Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:アニメ作品_そ](https://ja.wikipedia.org/wiki/Category:アニメ作品_そ "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:トムス・エンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:トムス・エンタテインメントのアニメ作品 "wikilink") [Category:ユニバーサルミュージックジャパンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアニメ作品 "wikilink") [Category:ビクターエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアニメ作品 "wikilink") [Category:セガゲームス原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:セガゲームス原作のアニメ作品 "wikilink") [Category:異世界を題材とした作品](https://ja.wikipedia.org/wiki/Category:異世界を題材とした作品 "wikilink")
+[Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:アニメ作品_そ](https://ja.wikipedia.org/wiki/Category:アニメ作品_そ "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:トムス・エンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:トムス・エンタテインメントのアニメ作品 "wikilink") [Category:ユニバーサルミュージックジャパンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアニメ作品 "wikilink") [Category:ビクターエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアニメ作品 "wikilink") [Category:セガ原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:セガ原作のアニメ作品 "wikilink") [Category:異世界を題材とした作品](https://ja.wikipedia.org/wiki/Category:異世界を題材とした作品 "wikilink")
 
 1.  東京ムービーは本作開始時点で既に原作ゲームの開発元である[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の傘下であり、社名も現在の「トムス・エンタテインメント」に変更していた。
 2.  テイルスの声優は今まで子役が演じていた。ビッグの声優は[八代駿](../Page/八代駿.md "wikilink")の死去により変更。

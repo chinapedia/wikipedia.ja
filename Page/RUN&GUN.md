@@ -39,7 +39,7 @@
       - 2002年3月7日
       - 2002年3月14日
       - 2002年3月21日
-  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（2001年7月30日、2002年1月28日、フジテレビ）
+  - [HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（2001年7月30日、2002年1月28日、フジテレビ）
   - [MelodiX\!](https://ja.wikipedia.org/wiki/月刊MelodiX! "wikilink")（テレビ東京）
       - 2001年8月7日
       - 2001年12月25日

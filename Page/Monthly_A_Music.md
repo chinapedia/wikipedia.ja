@@ -1,7 +1,7 @@
 > この記事は[Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music)から翻訳されています。
 
 
-『**Monthly A Music**』（マンスリー・エー・ミュージック）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のAM[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")のうち、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）を除く5局（[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")）が、一丸となって、毎月一つの楽曲を選曲し、1か月間通じてプッシュして行こうという企画である。簡単に言うと、[FM局がよく行っている](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")や[パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")を、関西のAMラジオ5局共同で行っているようなものである。
+『**Monthly A Music**』（マンスリー・エー・ミュージック）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")のAM[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")のうち、[和歌山放送](../Page/和歌山放送.md "wikilink")（WBS）を除く5局（[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")）が、一丸となって、毎月一つの楽曲を選曲し、1か月間通じてプッシュして行こうという企画である。簡単に言うと、[FM局がよく行っている](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")や[パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")を、関西のAMラジオ5局共同で行っているようなものである。
 
 ## 概要
 

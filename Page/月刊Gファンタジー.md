@@ -18,23 +18,24 @@
 ## 連載作品
 
   - [天つ狐と封印詩](https://ja.wikipedia.org/wiki/天つ狐と封印詩 "wikilink")（[寝子暇子](https://ja.wikipedia.org/wiki/寝子暇子 "wikilink")）
-  - [アラフォー男の異世界通販生活](https://ja.wikipedia.org/wiki/アラフォー男の異世界通販生活 "wikilink")（\[\[原作：\[\[朝倉一二三|原作：[朝倉一二三](https://ja.wikipedia.org/wiki/朝倉一二三 "wikilink") キャラクターデザイン：[やまかわ](https://ja.wikipedia.org/wiki/やまかわ "wikilink") 漫画：[うみハル](https://ja.wikipedia.org/wiki/うみハル "wikilink")）
+  - [アラフォー男の異世界通販生活](https://ja.wikipedia.org/wiki/アラフォー男の異世界通販生活 "wikilink")（原作：[朝倉一二三](https://ja.wikipedia.org/wiki/朝倉一二三 "wikilink") キャラクターデザイン：[やまかわ](https://ja.wikipedia.org/wiki/やまかわ "wikilink") 漫画：[うみハル](https://ja.wikipedia.org/wiki/うみハル "wikilink")）
   - [兎角ノ兄弟](https://ja.wikipedia.org/wiki/兎角ノ兄弟 "wikilink")（[十束椿](https://ja.wikipedia.org/wiki/十束椿 "wikilink")）
   - [王宮のトリニティ](https://ja.wikipedia.org/wiki/王宮のトリニティ "wikilink")（[雨壱絵穹](https://ja.wikipedia.org/wiki/雨壱絵穹 "wikilink")）
   - [王室教師ハイネ](https://ja.wikipedia.org/wiki/王室教師ハイネ "wikilink")（[赤井ヒガサ](https://ja.wikipedia.org/wiki/赤井ヒガサ "wikilink")）
-  - [お子様王子はとめられない！](https://ja.wikipedia.org/wiki/お子様王子はとめられない！ "wikilink")（[ありこ](https://ja.wikipedia.org/wiki/ありこ "wikilink")）
   - [帰還した勇者の後日譚](https://ja.wikipedia.org/wiki/帰還した勇者の後日譚 "wikilink")（原作：[月夜乃古狸](https://ja.wikipedia.org/wiki/月夜乃古狸 "wikilink") キャラクターデザイン：[吉沢メガネ](https://ja.wikipedia.org/wiki/吉沢メガネ "wikilink") 作画：[音埜クルミ](https://ja.wikipedia.org/wiki/音埜クルミ "wikilink")）
   - [黒執事](../Page/黒執事.md "wikilink")（[枢やな](../Page/枢やな.md "wikilink")）
   - [地縛少年 花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")（[あいだいろ](https://ja.wikipedia.org/wiki/あいだいろ "wikilink")）
   - [SCARS](https://ja.wikipedia.org/wiki/SCARS_\(漫画\) "wikilink")（[たついこと](https://ja.wikipedia.org/wiki/たついこと "wikilink")）
   - [その恋はいちごのように](https://ja.wikipedia.org/wiki/その恋はいちごのように "wikilink")（[イロノ](https://ja.wikipedia.org/wiki/イロノ "wikilink")）
+  - [ただ幸せな異世界家族生活 〜転生して今度こそ幸せに暮らします〜](https://ja.wikipedia.org/wiki/ただ幸せな異世界家族生活_〜転生して今度こそ幸せに暮らします〜 "wikilink")（原作：[舞](https://ja.wikipedia.org/wiki/舞_\(漫画家\) "wikilink") キャラクターデザイン：[えいひ](https://ja.wikipedia.org/wiki/えいひ "wikilink") 作画：[水沢翔](https://ja.wikipedia.org/wiki/水沢翔 "wikilink")）
   - [鶴野くんは恩返しができない](https://ja.wikipedia.org/wiki/鶴野くんは恩返しができない "wikilink")（[天野かすた](https://ja.wikipedia.org/wiki/天野かすた "wikilink")）
   - [デュラララ\!\! RE;ダラーズ編](https://ja.wikipedia.org/wiki/デュラララ!! "wikilink")（原作：[成田良悟](../Page/成田良悟.md "wikilink") キャラクターデザイン：[ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink") 作画：[あおぎり](https://ja.wikipedia.org/wiki/あおぎり "wikilink")）
+  - [東京エイリアンズ](https://ja.wikipedia.org/wiki/東京エイリアンズ "wikilink")（[NAOE](https://ja.wikipedia.org/wiki/NAOE "wikilink")）
   - [僕はお猫様の下僕です。](https://ja.wikipedia.org/wiki/僕はお猫様の下僕です。 "wikilink")（[北国良人](https://ja.wikipedia.org/wiki/北国良人 "wikilink")）
   - [ホリミヤ](https://ja.wikipedia.org/wiki/堀さんと宮村くん "wikilink")（原作：[HERO](https://ja.wikipedia.org/wiki/HERO_\(漫画家\) "wikilink") 作画：[萩原ダイスケ](https://ja.wikipedia.org/wiki/萩原ダイスケ "wikilink")）
+  - [魔法科高校の劣等生 師族会議編](https://ja.wikipedia.org/wiki/魔法科高校の劣等生 "wikilink")（原作：[佐島勤](https://ja.wikipedia.org/wiki/佐島勤 "wikilink") キャラクターデザイン：[石田可奈](https://ja.wikipedia.org/wiki/石田可奈 "wikilink") 作画：[竹田羽角](https://ja.wikipedia.org/wiki/竹田羽角 "wikilink")）
   - [魔法科高校の劣等生 四葉継承編](https://ja.wikipedia.org/wiki/魔法科高校の劣等生 "wikilink")（原作：[佐島勤](https://ja.wikipedia.org/wiki/佐島勤 "wikilink") キャラクターデザイン：[石田可奈](https://ja.wikipedia.org/wiki/石田可奈 "wikilink") 作画：[きたうみつな](../Page/きたうみつな.md "wikilink")）
   - [魔法女子学園の助っ人教師](https://ja.wikipedia.org/wiki/魔法女子学園の助っ人教師 "wikilink")（原作：[東導号](https://ja.wikipedia.org/wiki/東導号 "wikilink") キャラクターデザイン：[とよた瑣織](../Page/とよた瑣織.md "wikilink") 作画：[藤本桜](https://ja.wikipedia.org/wiki/藤本桜 "wikilink")）
-  - [みにみに部-沙々木美仁のミニチュアレシピ-](https://ja.wikipedia.org/wiki/みにみに部-沙々木美仁のミニチュアレシピ- "wikilink")（[木村りん](https://ja.wikipedia.org/wiki/木村りん "wikilink")）
   - [光流坊ちゃんはぼっち](https://ja.wikipedia.org/wiki/光流坊ちゃんはぼっち "wikilink")（[綾瀬れつ](https://ja.wikipedia.org/wiki/綾瀬れつ "wikilink")）
   - [メイデーア転生物語 この世界で一番悪い魔女](https://ja.wikipedia.org/wiki/メイデーア転生物語_この世界で一番悪い魔女 "wikilink")（原作：[友麻碧](https://ja.wikipedia.org/wiki/友麻碧 "wikilink") キャラクターデザイン：[雨壱絵穹](https://ja.wikipedia.org/wiki/雨壱絵穹 "wikilink") 漫画：[夏西七](https://ja.wikipedia.org/wiki/夏西七 "wikilink")）
   - [妖怪学校の先生はじめました\!](https://ja.wikipedia.org/wiki/妖怪学校の先生はじめました! "wikilink")（[田中まい](https://ja.wikipedia.org/wiki/田中まい "wikilink")）

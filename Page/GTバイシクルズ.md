@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:GT_Bicycles_Logo.svg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:GT_Zaskar_Pro_Carbon_2008.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2011_GT_GTR_SERIES_4.0_Tx-re.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2013_GT_Karakolam3.0_red.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:GT_PERFORMER_26_2012.JPG "wikilink")
 
-**GTバイシクルズ**（*GT Bicycles* ）は、[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")、[BMX](../Page/BMX.md "wikilink")、[ロードバイク](../Page/ロードバイク.md "wikilink")などの[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")[ブランド](../Page/ブランド.md "wikilink")。もとは1970年代に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")で設立された[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")である。GTとは創立者[ゲーリー・ターナー](https://ja.wikipedia.org/wiki/ゲーリー・ターナー "wikilink")の[イニシャルである](https://ja.wikipedia.org/wiki/頭文字 "wikilink")。[コーポレートカラー](https://ja.wikipedia.org/wiki/コーポレートカラー "wikilink")は[青](../Page/青.md "wikilink")と[黄色](../Page/黄色.md "wikilink")。
+**GTバイシクルズ**（*GT Bicycles* ）は、[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")、[BMX](../Page/BMX.md "wikilink")、[ロードバイク](../Page/ロードバイク.md "wikilink")などの[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")[ブランド](../Page/ブランド.md "wikilink")。もとは1970年代に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")で設立された[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")である。GTとは創立者[ゲーリー・ターナー](https://ja.wikipedia.org/wiki/ゲーリー・ターナー "wikilink")の[イニシャルである](https://ja.wikipedia.org/wiki/頭文字 "wikilink")。[コーポレートカラー](../Page/コーポレートカラー.md "wikilink")は[青](../Page/青.md "wikilink")と[黄色](../Page/黄色.md "wikilink")。
 
 ## 沿革
 
@@ -35,7 +35,7 @@ GTの生みの親であるゲーリー・ターナーは、高度な溶接技術
 
 [GT_Triple_Triangle_Frame_AVALANCHE_2.0.JPG](https://ja.wikipedia.org/wiki/File:GT_Triple_Triangle_Frame_AVALANCHE_2.0.JPG "fig:GT_Triple_Triangle_Frame_AVALANCHE_2.0.JPG") GTのリジットフレームでは、トリプルトライアングルフレーム（クロスドシートステイ）という独特なフレーム形状を採用している。このトリプルトライアングルフレームは、シートステイがトップチューブまで延長されて一本につき2カ所で溶接されているのが特徴。一般的に、剛性の高さと乗り心地のよさを両立できる反面、重量的には不利であるとされる。
 
-[サスペンション](../Page/サスペンション.md "wikilink")フレームの開発にも積極的で、RTS（ロッカーチューンドサスペンション）、LTS（リンクスチューンドサスペンション）、I-Drive等革新的かつ高性能なフレームを開発している。特に[1992年](../Page/1992年.md "wikilink")に発表されたRTSは当時としては完成度が非常に高く、[ダウンヒル](../Page/ダウンヒル_\(自転車競技\).md "wikilink")、[クロスカントリー](https://ja.wikipedia.org/wiki/クロスカントリー "wikilink")の両方に対応できるMTBとして大きな影響を与えた。[1993年](../Page/1993年.md "wikilink")には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")代表の[鍋島健一](https://ja.wikipedia.org/wiki/鍋島健一 "wikilink")選手が、ダウンヒル、クロスカントリー、[スラローム](https://ja.wikipedia.org/wiki/スラローム "wikilink")のすべてをRTS1台で走り抜いている。
+[サスペンション](../Page/サスペンション.md "wikilink")フレームの開発にも積極的で、RTS（ロッカーチューンドサスペンション）、LTS（リンクスチューンドサスペンション）、I-Drive等革新的かつ高性能なフレームを開発している。特に[1992年](../Page/1992年.md "wikilink")に発表されたRTSは当時としては完成度が非常に高く、[ダウンヒル](../Page/ダウンヒル_\(自転車競技\).md "wikilink")、[クロスカントリーの両方に対応できるMTBとして大きな影響を与えた](../Page/オフロード.md "wikilink")。[1993年](../Page/1993年.md "wikilink")には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")代表の[鍋島健一](https://ja.wikipedia.org/wiki/鍋島健一 "wikilink")選手が、ダウンヒル、クロスカントリー、[スラローム](https://ja.wikipedia.org/wiki/スラローム "wikilink")のすべてをRTS1台で走り抜いている。
 
 ## 活動
 

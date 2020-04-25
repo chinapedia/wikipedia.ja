@@ -112,7 +112,7 @@
 ## 外部リンク
 
   - [SME公式 toutou](http://www.sonymusic.co.jp/Music/Info/toutou/index.html)
-  - [toutouのブログ toutou Official Blog](http://ameblo.jp/toutou-toutou)
+  - [toutouのブログ toutou Official Blog](https://ameblo.jp/toutou-toutou)
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
 

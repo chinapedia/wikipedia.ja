@@ -46,7 +46,7 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
 
   - 『[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")〈[BS1](../Page/NHK_BS1.md "wikilink")、[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")〉）
   - 『[DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")』（[BS日テレ](https://ja.wikipedia.org/wiki/ビーエス日本 "wikilink")、[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）
-  - 『[スーパーベースボール](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")』（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
+  - 『[スーパーベースボール](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")』（[BS朝日](../Page/ビーエス朝日.md "wikilink")、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
   - 『[S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』（[BS-TBS](../Page/BS-TBS.md "wikilink")、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - 『[ALWAYS Baseball](../Page/ベースボールLive.md "wikilink")』（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")、[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）
   - 『[BS12 プロ野球中継](https://ja.wikipedia.org/wiki/BS12_プロ野球中継 "wikilink")』（[TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）
@@ -62,7 +62,7 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
 
 [Category:BSフジのテレビ番組の歴史](https://ja.wikipedia.org/wiki/Category:BSフジのテレビ番組の歴史 "wikilink") [Category:BSフジのスポーツ番組](https://ja.wikipedia.org/wiki/Category:BSフジのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:2001年の日本プロ野球](https://ja.wikipedia.org/wiki/Category:2001年の日本プロ野球 "wikilink") [Category:東京ヤクルトスワローズの歴史](https://ja.wikipedia.org/wiki/Category:東京ヤクルトスワローズの歴史 "wikilink") [Category:横浜ベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜ベイスターズ "wikilink")
 
-1.  2020年現在は[BS日テレ](../Page/BS日本.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")（トップ&リレー中継を含む）が多く中継している。それでも2013年以降は、中継本数が少ない[BSテレ東](../Page/BSテレビ東京.md "wikilink")（[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）よりは多くなっている。
+1.  2020年現在は[BS日テレ](../Page/BS日本.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")、[BS朝日](../Page/ビーエス朝日.md "wikilink")（トップ&リレー中継を含む）が多く中継している。それでも2013年以降は、中継本数が少ない[BSテレ東](../Page/BSテレビ東京.md "wikilink")（[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）よりは多くなっている。
 2.  [平成27年3月期 決算短信](http://contents.xj-storage.jp/xcontents/46760/df361d39/fb41/4676/83a1/e487e421c8fd/140120150512471732.pdf)、3ページ、[フジ・メディア・ホールディングス](https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス "wikilink")
 3.  番組中の電話受付によるプレゼント企画はBSフジ・フジテレビONEの視聴者も応募可能なため、スコア表示を差し替える都合上、同一の受付電話番号をフジテレビ側で別途表示している。
 4.  地上波では後続番組などの番宣テロップもスコア表示と同じシステムで表示しているため。VTR切り替え時の「全力応援」ロゴはBSフジ・フジテレビONEでもそのまま表示されている。

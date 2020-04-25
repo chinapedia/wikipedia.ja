@@ -136,4 +136,4 @@
   - [丘の向こうに](https://ja.wikipedia.org/wiki/丘の向こうに "wikilink")（Over the Hills and Far Away）4:49
   - トラベリング・リバーサイド・ブルース（Travelling Riverside Blues）4:12
 
-[Category:レッド・ツェッペリン](https://ja.wikipedia.org/wiki/Category:レッド・ツェッペリン "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:2003年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2003年の音楽関連の映像作品 "wikilink")
+[Category:レッド・ツェッペリン](https://ja.wikipedia.org/wiki/Category:レッド・ツェッペリン "wikilink") [Category:2003年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2003年のライブ・ビデオ "wikilink")

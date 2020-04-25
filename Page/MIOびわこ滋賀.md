@@ -27,7 +27,7 @@
       - 第13回滋賀FAカップ 優勝　決勝戦で4-2で[びわこ成蹊スポーツ大学に勝利](https://ja.wikipedia.org/wiki/びわこ成蹊スポーツ大学サッカー部 "wikilink")。
           - [滋賀県](../Page/滋賀県.md "wikilink")代表として初めて[天皇杯全日本サッカー選手権大会に出場](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")。2回戦で[栃木SC](../Page/栃木SC.md "wikilink")に敗れる。
       - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で初優勝
-          - [全国地域リーグ決勝大会で決勝ラウンド](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")3位の成績を収め、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）へ昇格。
+          - [全国地域リーグ決勝大会で決勝ラウンド](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")3位の成績を収め、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）へ昇格。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - **MIOびわこ草津**に改称
       - 昨シーズンまで15年間、Jリーグでプレイした[平岡直起](../Page/平岡直起.md "wikilink")が監督に就任。
@@ -73,24 +73,24 @@
 
 ### MIOびわこ草津・MIOびわこ滋賀
 
-|                                                                  |                                                             |     |    |    |    |    |    |    |      |                                                                                |                                                                         |                                                                                        |
-| ---------------------------------------------------------------- | ----------------------------------------------------------- | --- | -- | -- | -- | -- | -- | -- | ---- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 年度                                                               | 所属                                                          | 順位  | 勝点 | 試合 | 勝  | 分  | 敗  | 得点 | 失点   | 差                                                                              | [{{font](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")                    | 監督                                                                                     |
-| 2006                                                             | [関西](../Page/関西サッカーリーグ.md "wikilink")1部                     | 2位  | 26 | 14 | 8  | 2  | 4  | 28 | 17   | 11                                                                             | [県予選敗退](https://ja.wikipedia.org/wiki/滋賀県サッカー選手権大会 "wikilink")          | [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")                                                   |
-| 2007                                                             | 2位                                                          | 34  | 14 | 10 | 2  | 2  | 48 | 11 | 37   | [2回戦敗退](https://ja.wikipedia.org/wiki/第87回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      | [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")/[戸塚哲也](../Page/戸塚哲也.md "wikilink") |                                                                                        |
-| [2008](https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ "wikilink") | [JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink") | 14位 | 38 | 34 | 10 | 8  | 16 | 40 | 62   | \-22                                                                           | 県予選敗退                                                                   | [平岡直起](../Page/平岡直起.md "wikilink")/[東広樹](https://ja.wikipedia.org/wiki/東広樹 "wikilink") |
-| [2009](https://ja.wikipedia.org/wiki/第11回日本フットボールリーグ "wikilink") | 8位                                                          | 48  | 34 | 13 | 9  | 12 | 51 | 43 | 8    | [和田治雄](https://ja.wikipedia.org/wiki/和田治雄 "wikilink")                          |                                                                         |                                                                                        |
-| [2010](https://ja.wikipedia.org/wiki/第12回日本フットボールリーグ "wikilink") | 11位                                                         | 46  | 34 | 13 | 7  | 14 | 51 | 56 | \-5  | [2回戦敗退](https://ja.wikipedia.org/wiki/第90回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      |                                                                         |                                                                                        |
-| [2011](https://ja.wikipedia.org/wiki/第13回日本フットボールリーグ "wikilink") | 13位                                                         | 38  | 33 | 11 | 5  | 17 | 43 | 65 | \-22 | 県予選敗退                                                                          | 和田治雄/東広樹                                                                |                                                                                        |
-| [2012](https://ja.wikipedia.org/wiki/第14回日本フットボールリーグ "wikilink") | 8位                                                          | 43  | 32 | 11 | 10 | 11 | 53 | 52 | 1    | [東広樹](https://ja.wikipedia.org/wiki/東広樹 "wikilink")                            |                                                                         |                                                                                        |
-| [2013](https://ja.wikipedia.org/wiki/第15回日本フットボールリーグ "wikilink") | 16位                                                         | 30  | 34 | 8  | 6  | 20 | 40 | 56 | \-16 | [1回戦敗退](https://ja.wikipedia.org/wiki/第93回天皇杯全日本サッカー選手権大会#1回戦 "wikilink")      |                                                                         |                                                                                        |
-| [2014](https://ja.wikipedia.org/wiki/第16回日本フットボールリーグ "wikilink") | 12位                                                         | 22  | 26 | 6  | 4  | 16 | 24 | 50 | \-26 | 県予選敗退                                                                          | 東広樹/[川島弘治](https://ja.wikipedia.org/wiki/川島弘治 "wikilink")               |                                                                                        |
-| [2015](https://ja.wikipedia.org/wiki/第17回日本フットボールリーグ "wikilink") | 11位                                                         | 34  | 30 | 9  | 7  | 14 | 36 | 41 | \-5  | [2回戦敗退](https://ja.wikipedia.org/wiki/第95回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      | [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")                                    |                                                                                        |
-| [2016](https://ja.wikipedia.org/wiki/第18回日本フットボールリーグ "wikilink") | 9位                                                          | 40  | 30 | 11 | 7  | 12 | 38 | 45 | \-7  | [1回戦敗退](https://ja.wikipedia.org/wiki/第96回天皇杯全日本サッカー選手権大会#1回戦 "wikilink")      | [中口雅史](../Page/中口雅史.md "wikilink")                                      |                                                                                        |
-| [2017](https://ja.wikipedia.org/wiki/第19回日本フットボールリーグ "wikilink") | 13位                                                         | 27  | 30 | 6  | 9  | 15 | 33 | 51 | \-18 | 県予選敗退                                                                          |                                                                         |                                                                                        |
-| [2018](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink") | 7位                                                          | 46  | 30 | 13 | 7  | 10 | 38 | 35 | 3    | [2回戦敗退](https://ja.wikipedia.org/wiki/第98回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      |                                                                         |                                                                                        |
-| [2019](https://ja.wikipedia.org/wiki/第21回日本フットボールリーグ "wikilink") | 9位                                                          | 40  | 30 | 11 | 7  | 12 | 27 | 40 | \-13 | [1回戦敗退](https://ja.wikipedia.org/wiki/天皇杯_JFA_第99回全日本サッカー選手権大会#1回戦 "wikilink") |                                                                         |                                                                                        |
-|                                                                  |                                                             |     |    |    |    |    |    |    |      |                                                                                |                                                                         |                                                                                        |
+|                                                                  |                                          |     |    |    |    |    |    |    |      |                                                                                |                                                                         |                                                                                        |
+| ---------------------------------------------------------------- | ---------------------------------------- | --- | -- | -- | -- | -- | -- | -- | ---- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 年度                                                               | 所属                                       | 順位  | 勝点 | 試合 | 勝  | 分  | 敗  | 得点 | 失点   | 差                                                                              | [{{font](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")                    | 監督                                                                                     |
+| 2006                                                             | [関西](../Page/関西サッカーリーグ.md "wikilink")1部  | 2位  | 26 | 14 | 8  | 2  | 4  | 28 | 17   | 11                                                                             | [県予選敗退](https://ja.wikipedia.org/wiki/滋賀県サッカー選手権大会 "wikilink")          | [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")                                                   |
+| 2007                                                             | 2位                                       | 34  | 14 | 10 | 2  | 2  | 48 | 11 | 37   | [2回戦敗退](https://ja.wikipedia.org/wiki/第87回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      | [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")/[戸塚哲也](../Page/戸塚哲也.md "wikilink") |                                                                                        |
+| [2008](https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ "wikilink") | [JFL](../Page/日本フットボールリーグ.md "wikilink") | 14位 | 38 | 34 | 10 | 8  | 16 | 40 | 62   | \-22                                                                           | 県予選敗退                                                                   | [平岡直起](../Page/平岡直起.md "wikilink")/[東広樹](https://ja.wikipedia.org/wiki/東広樹 "wikilink") |
+| [2009](https://ja.wikipedia.org/wiki/第11回日本フットボールリーグ "wikilink") | 8位                                       | 48  | 34 | 13 | 9  | 12 | 51 | 43 | 8    | [和田治雄](https://ja.wikipedia.org/wiki/和田治雄 "wikilink")                          |                                                                         |                                                                                        |
+| [2010](https://ja.wikipedia.org/wiki/第12回日本フットボールリーグ "wikilink") | 11位                                      | 46  | 34 | 13 | 7  | 14 | 51 | 56 | \-5  | [2回戦敗退](https://ja.wikipedia.org/wiki/第90回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      |                                                                         |                                                                                        |
+| [2011](https://ja.wikipedia.org/wiki/第13回日本フットボールリーグ "wikilink") | 13位                                      | 38  | 33 | 11 | 5  | 17 | 43 | 65 | \-22 | 県予選敗退                                                                          | 和田治雄/東広樹                                                                |                                                                                        |
+| [2012](https://ja.wikipedia.org/wiki/第14回日本フットボールリーグ "wikilink") | 8位                                       | 43  | 32 | 11 | 10 | 11 | 53 | 52 | 1    | [東広樹](https://ja.wikipedia.org/wiki/東広樹 "wikilink")                            |                                                                         |                                                                                        |
+| [2013](https://ja.wikipedia.org/wiki/第15回日本フットボールリーグ "wikilink") | 16位                                      | 30  | 34 | 8  | 6  | 20 | 40 | 56 | \-16 | [1回戦敗退](https://ja.wikipedia.org/wiki/第93回天皇杯全日本サッカー選手権大会#1回戦 "wikilink")      |                                                                         |                                                                                        |
+| [2014](https://ja.wikipedia.org/wiki/第16回日本フットボールリーグ "wikilink") | 12位                                      | 22  | 26 | 6  | 4  | 16 | 24 | 50 | \-26 | 県予選敗退                                                                          | 東広樹/[川島弘治](https://ja.wikipedia.org/wiki/川島弘治 "wikilink")               |                                                                                        |
+| [2015](https://ja.wikipedia.org/wiki/第17回日本フットボールリーグ "wikilink") | 11位                                      | 34  | 30 | 9  | 7  | 14 | 36 | 41 | \-5  | [2回戦敗退](https://ja.wikipedia.org/wiki/第95回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      | [中尾幸太郎](../Page/中尾幸太郎.md "wikilink")                                    |                                                                                        |
+| [2016](https://ja.wikipedia.org/wiki/第18回日本フットボールリーグ "wikilink") | 9位                                       | 40  | 30 | 11 | 7  | 12 | 38 | 45 | \-7  | [1回戦敗退](https://ja.wikipedia.org/wiki/第96回天皇杯全日本サッカー選手権大会#1回戦 "wikilink")      | [中口雅史](../Page/中口雅史.md "wikilink")                                      |                                                                                        |
+| [2017](https://ja.wikipedia.org/wiki/第19回日本フットボールリーグ "wikilink") | 13位                                      | 27  | 30 | 6  | 9  | 15 | 33 | 51 | \-18 | 県予選敗退                                                                          |                                                                         |                                                                                        |
+| [2018](https://ja.wikipedia.org/wiki/第20回日本フットボールリーグ "wikilink") | 7位                                       | 46  | 30 | 13 | 7  | 10 | 38 | 35 | 3    | [2回戦敗退](https://ja.wikipedia.org/wiki/第98回天皇杯全日本サッカー選手権大会#2回戦 "wikilink")      |                                                                         |                                                                                        |
+| [2019](https://ja.wikipedia.org/wiki/第21回日本フットボールリーグ "wikilink") | 9位                                       | 40  | 30 | 11 | 7  | 12 | 27 | 40 | \-13 | [1回戦敗退](https://ja.wikipedia.org/wiki/天皇杯_JFA_第99回全日本サッカー選手権大会#1回戦 "wikilink") |                                                                         |                                                                                        |
+|                                                                  |                                          |     |    |    |    |    |    |    |      |                                                                                |                                                                         |                                                                                        |
 
 ## タイトル
 
@@ -103,7 +103,7 @@
 
 ## ホームスタジアム
 
-過去のホームゲーム開催スタジアムは下表の通りである。クラブ発祥地の[草津市](../Page/草津市.md "wikilink")には[JFL](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")・[Jリーグが開催可能なスタジアムがないため](../Page/日本プロサッカーリーグ.md "wikilink")、JFL加盟当初から周辺自治体の競技場を使用している。
+過去のホームゲーム開催スタジアムは下表の通りである。クラブ発祥地の[草津市](../Page/草津市.md "wikilink")には[JFL](../Page/日本フットボールリーグ.md "wikilink")・[Jリーグが開催可能なスタジアムがないため](../Page/日本プロサッカーリーグ.md "wikilink")、JFL加盟当初から周辺自治体の競技場を使用している。
 
 ### 年度別入場者数
 
@@ -343,9 +343,10 @@
 </tr>
 <tr class="odd">
 <td><p>背中下部</p></td>
-<td><p>なし</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p><a href="https://www.rei-beauty.com/">麗ビューティー皮フ科クリニック</a></p></td>
+<td><p>麗ビューティー皮フ科クリニック<br />
+</p></td>
+<td><p>2020年 -</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -372,7 +373,7 @@
 
   - 2007年 : [プーマ](../Page/プーマ.md "wikilink")
   - 2008年 : [スボルメ](http://www.svolme.net)
-  - 2009年 - 2012年 : [KIKA](http://www.kikajapan.jp/)
+  - 2009年 - 2012年 : [KIKA](http://www.kika.co.kr/)
   - 2013年 - 2018年 : [ナイキ](../Page/ナイキ.md "wikilink")
   - 2019年 - : [JOGARBOLA](http://www.jogarbola.com/)
 
@@ -416,7 +417,7 @@
 <td><p>2009</p></td>
 <td><p><a href="http://www.kuroda-kk.co.jp/">黒田紙業</a></p></td>
 <td><p><a href="http://asuku.jp/">asuku</a></p></td>
-<td><p><a href="http://www.kikajapan.jp/">KIKA</a></p></td>
+<td><p><a href="http://www.kika.co.kr/">KIKA</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -526,6 +527,17 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2020</p></td>
+<td><p><a href="https://www.rei-beauty.com/">麗ビューティー皮フ科クリニック<br />
+</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

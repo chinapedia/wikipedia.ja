@@ -45,6 +45,7 @@
   - [古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")
   - [藤田ニコル](https://ja.wikipedia.org/wiki/藤田ニコル "wikilink")
   - 愛花
+  - [アリアナさくら](https://ja.wikipedia.org/wiki/アリアナさくら "wikilink")
 
 ### 卒業モデル
 
@@ -101,7 +102,7 @@
   - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink") - TOMO'S DIARY
   - [大石参月](../Page/大石参月.md "wikilink") - みつきのふつーがいちばん
   - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") - EXO-SHOT\[9\]\[10\]
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") - AYUのデジデジ日記
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") - AYUのデジデジ日記
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") - 加藤ミリヤのファッションSHOW
   - [木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink") - シフクテキナユキナ。
   - [トリンドル玲奈](https://ja.wikipedia.org/wiki/トリンドル玲奈 "wikilink") - ハマリんどる。
@@ -554,7 +555,7 @@
 | 2014年2月号  | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")     |        |         |
 | 2014年3月号  | [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")       |        |         |
 | 2014年4月号  | [ローラ](../Page/ローラ.md "wikilink")                            |        |         |
-| 2014年5月号  | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")     |        |         |
+| 2014年5月号  | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                        |        |         |
 | 2014年6月号  | [水原希子](https://ja.wikipedia.org/wiki/水原希子 "wikilink")       |        |         |
 | 2014年7月号  | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")     |        |         |
 | 2014年8月号  | [玉城ティナ](https://ja.wikipedia.org/wiki/玉城ティナ "wikilink")     | 1      |         |
@@ -589,7 +590,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013年3月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -645,7 +646,7 @@
 </tr>
 <tr class="even">
 <td><p>2013年12月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -664,7 +665,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2012年1月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -683,7 +684,7 @@
 </tr>
 <tr class="even">
 <td><p>2012年4月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -713,7 +714,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012年9月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -749,7 +750,7 @@
 | 2011年7月号  | [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")   |        |    |
 | 2011年8月号  | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") |        |    |
 | 2011年9月号  | [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") |        |    |
-| 2011年10月号 | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") |        |    |
+| 2011年10月号 | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                    |        |    |
 | 2011年11月号 | [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")   |        |    |
 | 2011年12月号 | [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") |        |    |
 
@@ -789,7 +790,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010年5月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -829,13 +830,13 @@
 </tr>
 <tr class="odd">
 <td><p>2010年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010年12月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 <td></td>
 </tr>

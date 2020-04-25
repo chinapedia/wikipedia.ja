@@ -219,10 +219,10 @@ AVCD-38324</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2002年8月21日</p></td>
-<td><p><strong>STEP TO THE NEW WORLD</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/STEP_TO_THE_NEW_WORLD" title="wikilink">STEP TO THE NEW WORLD</a></strong></p></td>
 <td><p>AICL-1387</p></td>
 <td><ol>
-<li>STEP TO THE NEW WORLD</li>
+<li><a href="https://ja.wikipedia.org/wiki/STEP_TO_THE_NEW_WORLD" title="wikilink">STEP TO THE NEW WORLD</a></li>
 <li>TOO LATE</li>
 <li>STEP TO THE NEW WORLD-instrumental-</li>
 <li>TOO LATE-instrumental-</li>
@@ -988,9 +988,9 @@ NSV-1007</p></td>
 
 ## 外部リンク
 
-  - [YOSHIKAオフィシャルブログ](http://ameblo.jp/soulhead-yoshika/)
+  - [YOSHIKAオフィシャルブログ](https://ameblo.jp/soulhead-yoshika/)
 
-  - [TSUGUMIオフィシャルブログ](http://ameblo.jp/soulhead-tsugumi/)
+  - [TSUGUMIオフィシャルブログ](https://ameblo.jp/soulhead-tsugumi/)
 
   -
   - [Soulhead FORUM](http://soulhead.informe.com/index.php)

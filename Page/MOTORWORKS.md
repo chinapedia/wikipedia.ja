@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[2003年](../Page/2003年.md "wikilink")頃、当時[Scudelia Electroのメンバーとして活動していた](../Page/Scudelia_Electro.md "wikilink")**石田ショーキチ**を中心として、スタジオで往年のロックをカバーすることを目的としたバンドが前身。石田とアマチュア時代からの付き合いだったホリノブヨシ([modern grey](https://ja.wikipedia.org/wiki/modern_grey "wikilink"))、[Spiral Life時代のレーベルメイトで](../Page/Spiral_Life.md "wikilink")、友人であった**黒沢健一**（[L⇔R](https://ja.wikipedia.org/wiki/L⇔R "wikilink")）に、[スピッツのプロデュースで知り合った](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")**田村明浩**を加えた4人組として活動をスタート。
+[2003年](../Page/2003年.md "wikilink")頃、当時[Scudelia Electroのメンバーとして活動していた](../Page/Scudelia_Electro.md "wikilink")**石田ショーキチ**を中心として、スタジオで往年のロックをカバーすることを目的としたバンドが前身。石田とアマチュア時代からの付き合いだったホリノブヨシ([modern grey](https://ja.wikipedia.org/wiki/modern_grey "wikilink"))、[Spiral Life時代のレーベルメイトで](../Page/Spiral_Life.md "wikilink")、友人であった**黒沢健一**（[L⇔R](https://ja.wikipedia.org/wiki/L⇔R "wikilink")）に、[スピッツのプロデュースで知り合った](../Page/スピッツ_\(バンド\).md "wikilink")**田村明浩**を加えた4人組として活動をスタート。
 
 11月、Scudelia Electroのライヴにおいて、黒沢健一、田村明浩らと（ホリノブヨシは、当時Scudelia Electroのサポート）[ビートルズ](../Page/ビートルズ.md "wikilink")の「Helter Skelter」などを披露。これに手応えを感じたメンバーは、本格的な活動を開始。
 

@@ -1,7 +1,7 @@
 > この記事は[Xday](https://ja.wikipedia.org/wiki/Xday)から翻訳されています。
 
 
-『**X Day**』（エックス・デイ）は[三原順](../Page/三原順.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。[原子力発電](https://ja.wikipedia.org/wiki/原子力発電 "wikilink")に伴う[環境問題](../Page/環境問題.md "wikilink")を取り上げた『[Die Energie 5.2☆11.8](../Page/Die_Energie_5.2☆11.8.md "wikilink")』の続編であり、『Die Energie』では脇役であったダドリーが主役となった[スピンオフ作品である](https://ja.wikipedia.org/wiki/スピンオフ#スピンオフ_（作品制作） "wikilink")。初出は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の『[LaLa](../Page/LaLa.md "wikilink")』であるが、掲載されたのは（47ページの予定のところ）31ページの未完成原稿であった。その後、270ページの長編として単行本が刊行された。
+『**X Day**』（エックス・デイ）は[三原順](../Page/三原順.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](../Page/作品.md "wikilink")。[原子力発電](https://ja.wikipedia.org/wiki/原子力発電 "wikilink")に伴う[環境問題](../Page/環境問題.md "wikilink")を取り上げた『[Die Energie 5.2☆11.8](../Page/Die_Energie_5.2☆11.8.md "wikilink")』の続編であり、『Die Energie』では脇役であったダドリーが主役となった[スピンオフ作品である](https://ja.wikipedia.org/wiki/スピンオフ#スピンオフ_（作品制作） "wikilink")。初出は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")の『[LaLa](../Page/LaLa.md "wikilink")』であるが、掲載されたのは（47ページの予定のところ）31ページの未完成原稿であった。その後、270ページの長編として単行本が刊行された。
 
 ## 他作品との関係
 

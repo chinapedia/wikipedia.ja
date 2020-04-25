@@ -4557,7 +4557,7 @@ D:坂本詩緒里 168、E:岩見彩乃 181、F:キム・スルギ 168<br />
   - 第61戦 - 第66戦 「[Dan Dan Dan](https://ja.wikipedia.org/wiki/Dan_Dan_Dan（コアラモード．の曲） "wikilink")」（[コアラモード．](https://ja.wikipedia.org/wiki/コアラモード． "wikilink")）
   - 第67戦 - 第72戦 「[Take Me Away](https://ja.wikipedia.org/wiki/Take_Me_Away "wikilink")」（[chay](https://ja.wikipedia.org/wiki/chay "wikilink")）
   - 第73戦 - 第78戦 「[ギュッと](https://ja.wikipedia.org/wiki/ギュッと/CLOSE_TO_YOU "wikilink")」（[Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink")）
-  - 第79戦 - 「[サンキュー。](https://ja.wikipedia.org/wiki/サンキュー。 "wikilink")」（[大原櫻子](https://ja.wikipedia.org/wiki/大原櫻子 "wikilink")）
+  - 第79戦 - 第84戦「[サンキュー。](https://ja.wikipedia.org/wiki/サンキュー。 "wikilink")」（[大原櫻子](https://ja.wikipedia.org/wiki/大原櫻子 "wikilink")）
 
 ## コーナー企画
 

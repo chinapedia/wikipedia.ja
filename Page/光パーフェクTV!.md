@@ -56,7 +56,7 @@
 | 51  |                                                                                                                        | [NHK長野](../Page/NHK長野放送局.md "wikilink") [Eテレ](../Page/NHK教育テレビジョン.md "wikilink") |
 | 52  |                                                                                                                        | 文字放送                                                                             |
 | 53  |                                                                                                                        | [NHK長野](../Page/NHK長野放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")   |
-| 55  |                                                                                                                        | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）                       |
+| 55  |                                                                                                                        | [信越放送](../Page/信越放送.md "wikilink")（SBC）                                          |
 | 57  |                                                                                                                        | [長野放送](../Page/長野放送.md "wikilink")（NBS）                                          |
 | 59  |                                                                                                                        | [テレビ信州](../Page/テレビ信州.md "wikilink")（TSB）                                        |
 | 61  |                                                                                                                        | [長野朝日放送](../Page/長野朝日放送.md "wikilink")（ABN）                                      |
@@ -78,7 +78,7 @@
 | 3   | [RCC](../Page/中国放送.md "wikilink")                                                |                                                                                  |
 | 4   | [HTV](../Page/広島テレビ放送.md "wikilink")                                             | [TSB](../Page/テレビ信州.md "wikilink")                                               |
 | 5   | [HOME](../Page/広島ホームテレビ.md "wikilink")                                           | [ABN](../Page/長野朝日放送.md "wikilink")                                              |
-| 6   |                                                                                  | [SBC](https://ja.wikipedia.org/wiki/信越放送 "wikilink")                             |
+| 6   |                                                                                  | [SBC](../Page/信越放送.md "wikilink")                                                |
 | 7   | [TSC](../Page/テレビせとうち.md "wikilink")（大臣裁定が決定）                                    |                                                                                  |
 | 8   | [TSS](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")                           | [NBS](../Page/長野放送.md "wikilink")                                                |
 

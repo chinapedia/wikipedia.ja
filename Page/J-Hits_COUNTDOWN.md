@@ -66,7 +66,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>（SBC）</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a>（SBC）</p></td>
 <td><p>後番組は『<a href="https://ja.wikipedia.org/wiki/清水富美加_みなぎるPM" title="wikilink">清水富美加 みなぎるPM</a>』を放送。</p></td>
 <td></td>
 </tr>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a>（wbs）</p></td>
+<td><p><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>（wbs）</p></td>
 <td><p>土曜 23:30 - 24:00</p></td>
 <td></td>
 </tr>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td><p>日曜 17:30 - 18:00</p></td>
 <td></td>
 </tr>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td><p>日曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>

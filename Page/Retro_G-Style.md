@@ -224,7 +224,7 @@
 
   - [Retro G-Style](http://avexnet.jp/id/retor/) avexによる公式サイト
 
-  - [LIFELIGHTS～音と僕の混ざり方～](http://ameblo.jp/19771025/)メンバーのMASAYAによるブログ。最後の記事に多数の追悼コメントが寄せられている。
+  - [LIFELIGHTS～音と僕の混ざり方～](https://ameblo.jp/19771025/)メンバーのMASAYAによるブログ。最後の記事に多数の追悼コメントが寄せられている。
 
   - [IGOR.G.S](https://lineblog.me/tomomigor0303/)IGORのブログ
 

@@ -105,7 +105,7 @@
 
 :\* 1998年[7月17日](../Page/7月17日.md "wikilink")発売
 
-:\* 開発：[ロコモーティブ・スタッフ](https://ja.wikipedia.org/wiki/ロコモーティブ・スタッフ "wikilink")
+:\* 開発：LOCOMOTIVE
 
 :\* サウンド - 指揮：AKIKO HIDA、音楽：KAZUHISA KAMIFUJI、効果音：HIROKO OGIHARA
 
@@ -173,7 +173,7 @@
 
 :\* 1999年[12月24日](../Page/12月24日.md "wikilink")発売
 
-:\* 開発：[ロコモーティブ・スタッフ](https://ja.wikipedia.org/wiki/ロコモーティブ・スタッフ "wikilink")
+:\* 開発：LOCOMOTIVE
 
 :\* 音楽：KAZUHISA KAMIFUJI、効果音：HIROKO OGIHARA
 
@@ -218,7 +218,7 @@
 
   - チョロQアドバンス（GBA）
 
-:\* 欧州＆北米版：Penny Racers
+:\* 欧州版：Penny Racers、北米版：Gadget Racers
 
 :\* [2001年](../Page/2001年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")発売
 
@@ -351,8 +351,6 @@
 :\* 欧州版：Gadget Racers、北米版：Road Trip：Arcade Edition
 
 :\* 2002年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売
-
-:\* 開発:[エレクトロニクス・アプリケーションズ](https://ja.wikipedia.org/wiki/エレクトロニクス・アプリケーションズ "wikilink")
 
 :\* サウンドディレクター：TOMOYUKI HAMADA、BGM：SATOSHI MIYASHITA、YASUTAKA HATADE、TOMOYUKI HAMADA、SE：MANABU FUJIKI
 

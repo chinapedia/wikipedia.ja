@@ -29,6 +29,8 @@
   - 株式会社[aprecio](../Page/アプレシオ.md "wikilink")（旧・株式会社アイエスコーポレーション）
   - R-Logic International Pte Ltd(シンガポール)
 
+## 脚注
+
 ## 関連項目
 
   - [アイリバー](../Page/アイリバー.md "wikilink")

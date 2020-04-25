@@ -46,7 +46,7 @@
 
 <references/>
 
-[Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:世界を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:世界を題材とした楽曲 "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:世界を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:世界を題材とした楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1992年3月号53Pより。
 2.

@@ -44,13 +44,13 @@
       - NTTドコモが提供する「[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")」では1999年2月22日にサービス提供開始済
   - [2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - 第2代代表取締役社長に山口隆彦が就任する。
   - [2004年](../Page/2004年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が提供するポータルサイト「[goo](https://ja.wikipedia.org/wiki/goo "wikilink")」と連携したローカルサーチサービス「[gooタウンページ](https://ja.wikipedia.org/wiki/gooタウンページ "wikilink")」のサービス提供を開始する。
-  - [2006年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - 第3代代表取締役社長に中田昭雄が就任する。　
+  - [2006年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - 第3代代表取締役社長に中田昭雄が就任する。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - NTT東日本とNTT西日本の委託により展開した[DIAL104](https://ja.wikipedia.org/wiki/DIAL104 "wikilink")の広告が[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")の排除命令を受けた。
   - [2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 全国の電話帳販売編集会社8社を吸収合併\[1\]
   - [2012年](../Page/2012年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - NTT番号情報が[NTT情報開発](../Page/NTT情報開発.md "wikilink")を吸収合併しNTTタウンページに商号変更\[2\]
-  - [2018年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - 代表取締役社長に酒井紀雄が就任
-  - [2019年](../Page/2006年.md "wikilink")[7月1日](../Page/6月22日.md "wikilink") - 組織改正により各地域営業本部を解消し、本社直下のソリューション営業部として統合改正する。
-  - [2019年](../Page/2006年.md "wikilink")[9月4日](../Page/6月22日.md "wikilink") - NTTタウンページがWix社と戦略的業務提携を締結し、新サービス「[NTTタウンページDigital Lead Powered by Wix](https://www.ntttp-dlead.com/)」の提供を開始する。
+  - [2018年](../Page/2018年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - 代表取締役社長に酒井紀雄が就任
+  - [2019年](../Page/2019年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - 組織改正により各地域営業本部を解消し、本社直下のソリューション営業部として統合改正する。
+  - [2019年](../Page/2019年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") - NTTタウンページがWix社と戦略的業務提携を締結し、新サービス「[NTTタウンページDigital Lead Powered by Wix](https://www.ntttp-dlead.com/)」の提供を開始する。
 
 ## サービス・商品
 

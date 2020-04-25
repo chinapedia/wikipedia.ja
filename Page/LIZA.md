@@ -28,7 +28,7 @@
 
   - [宇宙でイチバン逢いたい人](../Page/宇宙でイチバン逢いたい人.md "wikilink")（2008年9月25日、日本テレビ）
   - [テレビでドイツ語](https://ja.wikipedia.org/wiki/テレビでドイツ語 "wikilink")（2008年10月 - 2009年9月、2010年10月 - 2011年3月、NHK教育） パーソナリティ
-  - [アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ "wikilink")（2009年1月3日ゲスト出演、2009年3月 - 2010年9月、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")） レギュラー
+  - [アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink")（2009年1月3日ゲスト出演、2009年3月 - 2010年9月、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")） レギュラー
   - [スペシャルギフト](https://ja.wikipedia.org/wiki/スペシャルギフト "wikilink")（2009年4月30日、日本テレビ）
   - [グータンヌーボ](https://ja.wikipedia.org/wiki/グータンヌーボ "wikilink")（2009年5月13日、[関西テレビ](../Page/関西テレビ放送.md "wikilink")） - [生方ななえ](https://ja.wikipedia.org/wiki/生方ななえ "wikilink")、[松嶋尚美](../Page/松嶋尚美.md "wikilink")と共演
 
@@ -89,7 +89,7 @@
 
 ## 外部リンク
 
-  - [BLOG｜LIZA（リーザ）オフィシャルサイト](http://ameblo.jp/liza-official)（公式ブログ、2012年11月22日 - ）
+  - [BLOG｜LIZA（リーザ）オフィシャルサイト](https://ameblo.jp/liza-official)（公式ブログ、2012年11月22日 - ）
 
   - [リーザ　Liza｜Oggiモデルプロフィール](http://oggi.tv/models/liza.html)（Oggiでのプロフィール）
 
@@ -98,5 +98,5 @@
 [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:Oggiモデル](https://ja.wikipedia.org/wiki/Category:Oggiモデル "wikilink") [Category:ガールズアワード出演モデル](https://ja.wikipedia.org/wiki/Category:ガールズアワード出演モデル "wikilink") [Category:オスカープロモーションの人物](https://ja.wikipedia.org/wiki/Category:オスカープロモーションの人物 "wikilink") [Category:1989年生](https://ja.wikipedia.org/wiki/Category:1989年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [公式サイトのバイオグラフィー](http://lizakennedy.com/biography/)
-2.  『[アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[<http://www.ntv.co.jp/anothersky/090102.html>　2009年1月2日放送分\]
+2.  『[アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[<http://www.ntv.co.jp/anothersky/090102.html>　2009年1月2日放送分\]
 3.

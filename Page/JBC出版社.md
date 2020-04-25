@@ -11,7 +11,7 @@
 
 ### 設立の背景
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月に日本の[入国管理法](https://ja.wikipedia.org/wiki/入国管理法 "wikilink")が改正されたことにより、日本国外に住む[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")の日本国内での就労が許されたことによって、日本への[出稼ぎ](../Page/出稼ぎ.md "wikilink")労働者が増加し、ひいては、日本に住む[日系ブラジル人](../Page/日系ブラジル人.md "wikilink")が増加したことが、設立時の時代背景となっている。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月に日本の[入国管理法が改正されたことにより](../Page/出入国管理及び難民認定法.md "wikilink")、日本国外に住む[日系人](https://ja.wikipedia.org/wiki/日系人 "wikilink")の日本国内での就労が許されたことによって、日本への[出稼ぎ](../Page/出稼ぎ.md "wikilink")労働者が増加し、ひいては、日本に住む[日系ブラジル人](../Page/日系ブラジル人.md "wikilink")が増加したことが、設立時の時代背景となっている。
 
 創業者の東海林正和は、[1960年](../Page/1960年.md "wikilink")にブラジルに移民した当時、現地で発行されていた日本語新聞に助けられた経験から、そうした時代背景を踏まえ、日本においてポルトガル語新聞を発行することを着想した。
 
@@ -133,7 +133,7 @@
   - 7月 [青の祓魔師](https://ja.wikipedia.org/wiki/青の祓魔師 "wikilink") (題名"*Blue exorcist*")
   - 8月 [テルマエ・ロマエ](https://ja.wikipedia.org/wiki/テルマエ・ロマエ "wikilink")
   - 10月 [イナズマイレブン](https://ja.wikipedia.org/wiki/イナズマイレブン_\(アニメ\) "wikilink") (題名"*Super Onze*")
-  - 10月 [魔法騎士レイアース](../Page/魔法騎士レイアース.md "wikilink") (題名"*Guerreiras Mágicas de Rayearth*") (再発行)
+  - 10月 魔法騎士レイアース (題名"*Guerreiras Mágicas de Rayearth*") (再発行)
   - 12月 [王様ゲーム](https://ja.wikipedia.org/wiki/王様ゲーム_\(小説\) "wikilink") (題名"*Jogo do rei*")
   - 12月 [MANGA OF THE DEAD](https://ja.wikipedia.org/wiki/MANGA_OF_THE_DEAD "wikilink")
 
@@ -155,7 +155,7 @@
   - 9月 [星守る犬](https://ja.wikipedia.org/wiki/星守る犬 "wikilink") (題名"*O cão que guarda as estrelas*")
   - 10月 [地球の放課後](https://ja.wikipedia.org/wiki/地球の放課後 "wikilink") (題名"*After school of the earth*")
   - 10月 [Tom Sawyer](https://ja.wikipedia.org/wiki/Tom_Sawyer "wikilink")
-  - 10月 [幽☆遊☆白書](../Page/幽☆遊☆白書.md "wikilink") (再発行)
+  - 10月 幽☆遊☆白書 (再発行)
   - 11月 [きみにしか聞こえない](../Page/きみにしか聞こえない_CALLING_YOU.md "wikilink") (題名"*Só você pode ouvir*")
   - 11月 [ソウルイーターノット\!](https://ja.wikipedia.org/wiki/ソウルイーターノット! "wikilink")
   - 12月 [All You Need Is Kill](../Page/All_You_Need_Is_Kill.md "wikilink")
@@ -176,7 +176,7 @@
   - 4月 [STEINS;GATE](https://ja.wikipedia.org/wiki/STEINS;GATE "wikilink") (予定)
   - 4月 [美少女戦士セーラームーン ショートストーリーズ](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink") (予定)
   - 4月[永遠の0](https://ja.wikipedia.org/wiki/永遠の0 "wikilink") (題名"*Zero Eterno*") (予定)
-  - 5月 [ちょびっツ](../Page/ちょびっツ.md "wikilink") (再発行) (予定)
+  - 5月 ちょびっツ (再発行) (予定)
   - 6月 [コードネームはセーラーV](../Page/コードネームはセーラーV.md "wikilink") (予定)
   - [Wish](../Page/Wish_\(漫画\).md "wikilink") (予定)
   - [ビタミン](../Page/ビタミン_\(漫画\).md "wikilink") (予定)
@@ -187,7 +187,7 @@
   - [Another (ライトノベル)](https://ja.wikipedia.org/wiki/Another "wikilink") (予定)
   - [続・星守る犬](https://ja.wikipedia.org/wiki/星守る犬 "wikilink") (予定)
   - [ZETMAN](../Page/ZETMAN.md "wikilink") (予定)
-  - 12月 [AKIRA](../Page/アキラ.md "wikilink") (予定)
+  - 12月 [AKIRA](../Page/AKIRA_\(漫画\).md "wikilink") (予定)
 
 ### 特徴
 
@@ -198,12 +198,6 @@
 数はそれほど多くないが、漫画本編以外の関連書籍の翻訳出版も手がけており、『るろうに剣心』については通巻の物とは別に本編完結後に『[るろうに剣心番外編－弥彦の逆刃刀](http://mangasjbc.uol.com.br/a-sakabatou-de-yahiko/)』を世界で初めて単巻で刊行しているほか、同作品の公式ファンブック『剣心華伝』といった作品ガイド的な書籍も翻訳版の刊行を行っている。
 
 基本的に各作品、月に1冊ないし2冊ずつの発行ペースとなっている。
-
-### 評価
-
-同国の漫画出版における一方の雄で、完結後も大きな人気を博す『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』や『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』、あるいは、[手塚治虫](../Page/手塚治虫.md "wikilink")の『[ブッダ](../Page/ブッダ_\(漫画\).md "wikilink")』、[井上雄彦](../Page/井上雄彦.md "wikilink")の『[バガボンド](../Page/バガボンド.md "wikilink")』、『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』などを手がけるコンラッド社や、『[ベルセルク](../Page/ベルセルク_\(漫画\).md "wikilink")』を手がけるパニーニ社と比べると、軽い作品を手がけることが多く、その点では批判的な意見もあれば、方向性の違いに理解を示した好意的な意見もあり、評価が分かれる。
-
-しかしながら、翻訳版漫画の発行を始めた当初から2006年現在まで[CLAMP](../Page/CLAMP.md "wikilink")の作品をほぼ途切れなく出版し続けており、この点についてはファンから批判を浴びることが多く、同社公式サイトの掲示板でもマンネリとの声が少なくなかった（公式サイトの掲示板は2006年4月に閉鎖）。
 
 ## 外部リンク
 

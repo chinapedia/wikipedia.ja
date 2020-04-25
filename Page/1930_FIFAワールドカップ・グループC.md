@@ -1,4 +1,4 @@
-> この記事は[1930 FIFAC](https://ja.wikipedia.org/wiki/1930_FIFAC)から翻訳されています。
+> この記事は[1930 FIFAワールドカップ・グループC](https://ja.wikipedia.org/wiki/1930_FIFAワールドカップ・グループC)から翻訳されています。
 
 
 [1930 FIFAワールドカップ](../Page/1930_FIFAワールドカップ.md "wikilink") グループCでは[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")・[ルーマニア](../Page/ルーマニア.md "wikilink")・[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")の3チームが組んだ。[7月14日](../Page/7月14日.md "wikilink")から[7月21日](../Page/7月21日.md "wikilink")まで3試合行い、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")が決勝トーナメントへ進出した。

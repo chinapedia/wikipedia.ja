@@ -1,4 +1,4 @@
-> この記事は[ LAKE VIEW](https://ja.wikipedia.org/wiki/_LAKE_VIEW)から翻訳されています。
+> この記事は[那須りんどう湖 LAKE VIEW](https://ja.wikipedia.org/wiki/那須りんどう湖_LAKE_VIEW)から翻訳されています。
 
 
 **那須りんどう湖レイクビュー**（なすりんどうこレイクビュー、Nasu Rindoko Lake View）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[那須郡](../Page/那須郡.md "wikilink")[那須町](../Page/那須町.md "wikilink")にある[観光牧場](https://ja.wikipedia.org/wiki/観光牧場 "wikilink")と[遊園地](../Page/遊園地.md "wikilink")の要素を合わせ持った[テーマパーク](../Page/テーマパーク.md "wikilink")である。
@@ -20,8 +20,8 @@
 ## 沿革
 
   - 1964年11月 -　那須興業株式会社 設立
-  - 1965年 6月 - りんどう湖ファミリー牧場　営業開始　りんどう丸（屋形舟）、湖畔亭食堂、釣り掘、ボートオープン
-  - 1965年 10月 - 牧場開設
+  - 1965年6月 - りんどう湖ファミリー牧場　営業開始　りんどう丸（屋形舟）、湖畔亭食堂、釣り掘、ボートオープン
+  - 1965年10月 - 牧場開設
   - 1968年5月 - 野外ステージ開設
   - 1970年 - るるく陶芸教室オープン、クマ牧場誕生
   - 1971年10月 - 全日本[かかし](../Page/かかし.md "wikilink")コンクール開催（～2010年終了）
@@ -92,7 +92,7 @@
 
 ### 牧場
 
-飼育動物 [ジャージー牛](../Page/ジャージー種.md "wikilink")、[アルパカ](../Page/アルパカ.md "wikilink")、[ウマ](../Page/ウマ.md "wikilink")、[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")、[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")、[カピバラ](../Page/カピバラ.md "wikilink")、[イヌ](../Page/イヌ.md "wikilink")、[ウサギ](../Page/ウサギ.md "wikilink")、[モルモット](../Page/モルモット.md "wikilink")、[アヒル](../Page/アヒル.md "wikilink")、[ハクチョウ](../Page/ハクチョウ.md "wikilink")、[コイ](https://ja.wikipedia.org/wiki/コイ "wikilink")
+飼育中の動物は[ジャージー牛](../Page/ジャージー種.md "wikilink")、[アルパカ](../Page/アルパカ.md "wikilink")、[ウマ](../Page/ウマ.md "wikilink")、[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")、[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")、[カピバラ](../Page/カピバラ.md "wikilink")、[イヌ](../Page/イヌ.md "wikilink")、[ウサギ](../Page/ウサギ.md "wikilink")、[モルモット](../Page/モルモット.md "wikilink")、[アヒル](../Page/アヒル.md "wikilink")、[ハクチョウ](../Page/ハクチョウ.md "wikilink")、[コイ](https://ja.wikipedia.org/wiki/コイ "wikilink")である。
 
 那須りんどう湖レイクビューの5頭のアルパカは株式会社[山古志アルパカ村ゆかりである](https://ja.wikipedia.org/wiki/山古志村 "wikilink")。2018年8月16日[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の夕刊に旧・[山古志村](https://ja.wikipedia.org/wiki/山古志村 "wikilink")（現・[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）のアルパカとのつながりの記事が掲載された。
 
@@ -142,33 +142,53 @@
 
 ### レストラン
 
-  - 那須の恵みMekke！ (りんどう湖畔に佇む[レストラン](../Page/レストラン.md "wikilink"))“那須の恵みメッケ”ランチタイムは、家族全員で楽しめる[ビュッフェ](https://ja.wikipedia.org/wiki/ビュッフェ "wikilink")レストラン！ 栃木県の新鮮な食材をふんだんに使った[地産地消](../Page/地産地消.md "wikilink")のビュッフェメニュー。ディナータイムは、[薪](../Page/薪.md "wikilink")グリルでじっくり焼く[ステーキ](../Page/ステーキ.md "wikilink")と[食べ放題](../Page/食べ放題.md "wikilink")メニューをお楽しみ頂ける[ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス "wikilink")。「那須りんどう湖レイクビュー」に併設。 ※[テーマパーク](../Page/テーマパーク.md "wikilink")の入園料金はかからず利用できる。[駐車場](../Page/駐車場.md "wikilink")は[無料](../Page/無料.md "wikilink")で利用できる。施設の外観・内観は[船](https://ja.wikipedia.org/wiki/船 "wikilink")がモチーフ。富士の溶岩石を使用した武蔵[窯](https://ja.wikipedia.org/wiki/窯 "wikilink")、薪窯などがある。
+  - 那須の恵みMekke！ - (りんどう湖畔に佇む[レストラン](../Page/レストラン.md "wikilink"))“那須の恵みメッケ”ランチタイムは、家族全員で楽しめる[ビュッフェ](https://ja.wikipedia.org/wiki/ビュッフェ "wikilink")レストランで、栃木県の新鮮な食材をふんだんに使った[地産地消](../Page/地産地消.md "wikilink")のビュッフェメニューを提供。ディナータイムは、[薪](../Page/薪.md "wikilink")グリルでじっくり焼く[ステーキ](../Page/ステーキ.md "wikilink")と[食べ放題](../Page/食べ放題.md "wikilink")メニューが楽しめる[ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス "wikilink")。
 
 <!-- end list -->
 
-  - 時計台2階「レイクビュー」時計台2階にある和・洋・中のレストラン。那須御養卵を使用したオムハヤシ、[うどん](../Page/うどん.md "wikilink")、[カレーライス](../Page/カレーライス.md "wikilink")、[パスタ](../Page/パスタ.md "wikilink")、[ハンバーグ](../Page/ハンバーグ.md "wikilink")などが食べられる。那須のご当地グルメ「なすべん」（限定20食）も提供していた（現在終了）
+  -
+    ※（Mekkeは「那須りんどう湖レイクビュー」に併設。[テーマパーク](../Page/テーマパーク.md "wikilink")の入園料金はかからず利用可能で[駐車場](../Page/駐車場.md "wikilink")も[無料](../Page/無料.md "wikilink")で利用可能。施設の外観・内観は[船](https://ja.wikipedia.org/wiki/船 "wikilink")がモチーフ。富士の溶岩石を使用した武蔵[窯](https://ja.wikipedia.org/wiki/窯 "wikilink")、薪窯などがある。）
 
 <!-- end list -->
 
-  - 湖畔のフードガーデン （りんどう湖沿いに建っている園内のレストラン）。[チャーシュー](../Page/チャーシュー.md "wikilink")を使用したメニューと[バーベキュー](../Page/バーベキュー.md "wikilink")が食べられる。
+  - 時計台2階「レイクビュー」 - 時計台2階にある和・洋・中のレストラン。那須御養卵を使用したオムハヤシ、[うどん](../Page/うどん.md "wikilink")、[カレーライス](../Page/カレーライス.md "wikilink")、[パスタ](../Page/パスタ.md "wikilink")、[ハンバーグ](../Page/ハンバーグ.md "wikilink")などが食べられる。那須のご当地グルメ「なすべん」（限定20食）も提供していた。（**※現在は終了**）
 
 <!-- end list -->
 
-  - 学生レストラン(※過去、期間限定コラボレーションイベント)
+  - 湖畔のフードガーデン - （りんどう湖沿いに建っている園内のレストラン）。[チャーシュー](../Page/チャーシュー.md "wikilink")を使用したメニューと[バーベキュー](../Page/バーベキュー.md "wikilink")が食べられる。
 
-レストラン　ラ・スイスにて2018年8月3日～19日までの期間限定で国際テクニカル調理製菓専門学校とのコラボがあった。“那須高原産の食材”や那須りんどう湖レイクビューで飼育した[ジャージー牛から搾った自家製ジャージー](../Page/ジャージー種.md "wikilink")[牛乳](../Page/牛乳.md "wikilink")を使用したオリジナルメニューを提供した。デザートには、国際テクニカル調理製菓専門学校オリジナルのTBC[プリンも登場した](../Page/カスタードプディング.md "wikilink")。
+<!-- end list -->
+
+  - 学生レストラン - （※過去、期間限定コラボレーションイベント）
+
+<!-- end list -->
+
+  -
+    ※レストラン　ラ・スイスにて2018年8月3日～19日までの期間限定で国際テクニカル調理製菓専門学校とのコラボがあった。“那須高原産の食材”や那須りんどう湖レイクビューで飼育した[ジャージー牛から搾った自家製ジャージー](../Page/ジャージー種.md "wikilink")[牛乳](../Page/牛乳.md "wikilink")を使用したオリジナルメニューを提供した。デザートには、国際テクニカル調理製菓専門学校オリジナルのTBC[プリンも登場した](../Page/カスタードプディング.md "wikilink")。
 
 ### テイクアウト
 
   - みどりちゃんのジャージーミルク館　（湖畔のフードガーデン隣に建っている。りんどう湖のマスコットキャラクター「みどりちゃん」とジャージー牛、ミルク缶の像がある。チーズフォンデュドッグは3種類の[チーズ](../Page/チーズ.md "wikilink")を[白ワイン](../Page/白ワイン.md "wikilink")でブレンドしたフォンデュソースを使用した[ホットドッグ](../Page/ホットドッグ.md "wikilink")である。ぱんこーんはコロネ状のパンにクラウディクリームが乗ったスイーツである。）
+
+<!-- end list -->
+
   - まきばくんのパクパク屋　（メリーゴーランド付近に建っている。まきば君の像がある）
+
+<!-- end list -->
+
   - ラビちゃんのヌードル屋　（ゴーカート付近に建っている。[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")やうどんなどが食べられる）
+
+<!-- end list -->
+
   - カフェヨーデル　（時計台付近に建っている。[クレープ](../Page/クレープ.md "wikilink")や[シュークリーム](../Page/シュークリーム.md "wikilink")などが食べられる）
-  - 那須の恵みMekke！　[ピザ](../Page/ピザ.md "wikilink")屋　（窯焼ピザや[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ソーセージ](../Page/ソーセージ.md "wikilink")「[ヴルスト](https://ja.wikipedia.org/wiki/ヴルスト "wikilink")」が食べられる）
+
+<!-- end list -->
+
+  - 那須の恵みMekke！[ピザ](../Page/ピザ.md "wikilink")屋　（窯焼ピザや[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ソーセージ](../Page/ソーセージ.md "wikilink")「[ヴルスト](https://ja.wikipedia.org/wiki/ヴルスト "wikilink")」が食べられる）
 
 ### 売店
 
-  - 那須の恵みMekke！　マルシェ
+  - 那須の恵みMekke！マルシェ
   - 時計台1階 売店
   - わくわく体験館（手作り体験や[プラント](https://ja.wikipedia.org/wiki/プラント "wikilink")工場見学ができる）
 
@@ -264,7 +284,7 @@
 
 ### マスコットキャラクター開発の経緯
 
-1981年（[昭和](../Page/昭和.md "wikilink")56年）の「ミルクプラント」オープンに際し、[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")が欲しいという声があり誕生した。名前は社内公募で決定した。主要4[キャラクター](../Page/キャラクター.md "wikilink")以外にも[イヌ](../Page/イヌ.md "wikilink")と[ウマ](../Page/ウマ.md "wikilink")のキャラクターが絵として存在しているが、実体（[着ぐるみ](../Page/着ぐるみ.md "wikilink")）としては存在していない。
+1981年（[昭和](../Page/昭和.md "wikilink")56年）の「ミルクプラント」オープンに際し、[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")が欲しいという声があり誕生した。名前は社内公募で決定した。上記の主要4[キャラクター](../Page/キャラクター.md "wikilink")以外にも[イヌ](../Page/イヌ.md "wikilink")と[ウマ](../Page/ウマ.md "wikilink")のキャラクターが絵として存在しているが、実体（[着ぐるみ](../Page/着ぐるみ.md "wikilink")）としては存在していない。
 
 ### 現在の活動
 
@@ -278,7 +298,7 @@
   - 以前はりんどう湖ファミリー牧場が提供を行っていた[フジテレビ系列番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ひらけ！ポンキッキ](../Page/ひらけ!ポンキッキ.md "wikilink")」枠のテレビCMにもまきばくんやみどりちゃんが登場していた。
   - [Twitter](../Page/Twitter.md "wikilink")を始める前には[ブログ](../Page/ブログ.md "wikilink")も投稿していた。
   - 2006年には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")の[ゆるキャラ](../Page/ゆるキャラ.md "wikilink")日本一決定戦に参加するが1回戦で敗退した。
-  - ラビちゃんとゴン太くんの着ぐるみはそれぞれ2009年にリニューアルし更新された。
+  - ラビちゃんとゴン太くんの着ぐるみはそれぞれ2009年に造形をリニューアルし更新された。
 
 ## 交通アクセス
 
@@ -327,19 +347,19 @@
   - [空から日本を見てみよう](https://ja.wikipedia.org/wiki/空から日本を見てみよう "wikilink")＋（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")） - 2017年3月7日放送
   - ヨジデス（[福島放送](../Page/福島放送.md "wikilink")） - 2018年4月27日、2018年8月4日放送
   - [サタふく](../Page/サタふく.md "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")） - 2018年4月28日放送
-  - [news every](https://ja.wikipedia.org/wiki/news_every "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年4月30日放送
+  - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年4月30日放送
   - [FNNプライムニュース](https://ja.wikipedia.org/wiki/FNNプライムニュース "wikilink")α（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 2018年7月16日
   - [よじごじDays](https://ja.wikipedia.org/wiki/よじごじDays "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 2018年7月20日放送
   - [ブラタモリ](https://ja.wikipedia.org/wiki/ブラタモリ "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - 2018年9月1日放送、2018年9月11日再放送
-  - [林先生が驚く初耳学！](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 2018年9月16日放送
+  - [林先生が驚く初耳学\!](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 2018年9月16日放送
   - PON\!（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年9月17日放送
   - [首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")（NHK） - 2018年10月2日放送
-  - [グッド！モーニング](https://ja.wikipedia.org/wiki/グッド!モーニング_\(テレビ番組\) "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")のお天気中継 - 2018年10月16日放送
-  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年12月27日放送
+  - [グッド\!モーニング](https://ja.wikipedia.org/wiki/グッド!モーニング_\(テレビ番組\) "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")のお天気中継 - 2018年10月16日放送
+  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年12月27日放送
   - [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 2019年2月5日放送
   - [フルーツ宅配便](https://ja.wikipedia.org/wiki/フルーツ宅配便 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）[ドラマ24](../Page/ドラマ24.md "wikilink") - 2019年2月8日放送
-  - [この差って何ですか？](https://ja.wikipedia.org/wiki/この差って何ですか? "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）-2019年3月19日放送
-  - [開運！なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）‐2019年4月30日放送
+  - [この差って何ですか?](https://ja.wikipedia.org/wiki/この差って何ですか? "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）-2019年3月19日放送
+  - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）‐2019年4月30日放送
   - [人生最高レストラン](https://ja.wikipedia.org/wiki/人生最高レストラン "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）‐2019年5月4日放送
   - [よじごじDays](https://ja.wikipedia.org/wiki/よじごじDays "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）‐2019年5月8日、自家製ジャージー[乳製品](../Page/乳製品.md "wikilink")が放送された。
   - 大家族石田さんチ2019SP（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）‐2019年5月16日放送
@@ -347,7 +367,7 @@
   - ヨジデス（[福島放送](../Page/福島放送.md "wikilink")） -2019年12月11日放送
   - ものスタ（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） -2019年12月14日放送
   - news every.（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） -2019年12月16日放送
-  - どうぶつピース（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） -2020年1月16日放送
+  - [超かわいい映像連発\!どうぶつピース\!\!](https://ja.wikipedia.org/wiki/超かわいい映像連発!どうぶつピース!! "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） -2020年1月16日放送
 
 ## その他
 
@@ -358,7 +378,7 @@
 
 ### Prism Bell（プリズム ベル）
 
-  - Prism Bell（プリズム ベル）プリズムベルは、2015年7月にデビューしたりんどう湖レイクビュー公認アイドルである。「歌って踊って働くアイドル」がコンセプト。現在メンバーは3人（紅子・ゆきな・さとえ）。土日祝日にりんどう湖レイクビューにてライブを実施している。
+  - Prism Bell（プリズム ベル）プリズムベルは、2015年7月にデビューしたりんどう湖レイクビュー公認アイドルである。「歌って踊って働くアイドル」がコンセプトで2019年7月まで活動し、主に土日祝日にりんどう湖レイクビューにてライブを実施していた。初期メンバーは4人「紅子・ゆきな・さとえ・みはる」、2016年に「ことね」が加入、翌年「ことね」卒業後、研究生の中から「こゆき」が新メンバーとして加入、。2018年「みはる」「こゆき」が卒業、2019年「紅子・ゆきな・さとえ」も卒業した。
   - 2018年6月25日に[東京](../Page/東京.md "wikilink")・[代官山NOMAD](http://www.daikanyama-nomad.com/)にて「出張♪りんどう湖ライブ」を開催した。
   - 現在までのリリース曲は、　「Prism　Bell」「ここどこ　そこどこ　りんどう湖」「トライデントイルミネーション～ぼっちの夜に～」「START！！」「お願い、神様」「鳴らせ！プリズムベル」「ココナス！！」である。
 

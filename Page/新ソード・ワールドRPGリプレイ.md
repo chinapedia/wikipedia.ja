@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[新ソード・ワールドRPGリプレイ](https://ja.wikipedia.org/wiki/新ソード・ワールドRPGリプレイ)から翻訳されています。
 
 
 **新ソード・ワールドRPGリプレイ**（しんソード・ワールドアールピージーリプレイ）は、[2001年](../Page/2001年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")まで[富士見書房](../Page/富士見書房.md "wikilink")から単行本刊行された[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")、及びそれを原作とする小説とドラマCD。 リプレイは全10巻28話\[1\]のほか、雑誌掲載のみで単行本未収録のもの、ガイドブック所収のもの、ドラマCDの付録所収のものが各1話ある。

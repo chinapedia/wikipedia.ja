@@ -121,7 +121,8 @@ s30は純正オプションのUSB CD-ROMドライブと純正オプションのU
 
   - 搭載しているi440MXチップセットの仕様上、有線LANと無線LANの両方を搭載しているモデルが存在しない。両環境を使い分けるためにはキットモデル2639-4W2のように別途PCカードやUSB接続の外部アダプタを使用する必要がある\[25\]。のちに発売されるThinkPad X22などでは、有線LAN機能を持つIntel 830MPチップセットを採用することで両方を搭載している\[26\]。
 
-  -
+  - 左側の電源コネクタ付近の[USBポートが破損しやすい](../Page/ユニバーサル・シリアル・バス.md "wikilink")\[27\]。
+
   -
 ## 脚注
 
@@ -157,3 +158,4 @@ s30は純正オプションのUSB CD-ROMドライブと純正オプションのU
 24. [パラレルIDE-SSDで、旧式ノートPCはどれだけアップグレードできるか？（後編）](https://akiba-pc.watch.impress.co.jp/hotline/20081227/sp_ssd2.html)
 25. [Mobile：ThinkPad i Series s30速攻レビュー](http://www.itmedia.co.jp/mobile/news/0105/23/s30.html)
 26. [AKIBA PC Hotline\! HotHotレビュー IBM ThinkPad X22](https://pc.watch.impress.co.jp/docs/article/20011026/hotrev134.htm)
+27.

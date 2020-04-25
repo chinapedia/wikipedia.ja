@@ -190,6 +190,8 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
 :\* 香宮瑠璃子 - [相武紗季](https://ja.wikipedia.org/wiki/相武紗季 "wikilink")\[16\]
 
+:\* 香宮瑠璃子のアシスタント - [今井隆文](https://ja.wikipedia.org/wiki/今井隆文 "wikilink")
+
 :\* 湯浅浩一 - [丸山智己](../Page/丸山智己.md "wikilink")
 
 :\* 若き久世光代 - [山本舞香](https://ja.wikipedia.org/wiki/山本舞香 "wikilink")\[17\]
@@ -402,7 +404,7 @@ le finale</p></td>
 2.
 3.
 4.
-5.  本名を[アナグラム](../Page/アナグラム.md "wikilink")化にした作家時のペンネーム。今現在も、作家活動は続けている。第4話で判明。
+5.  本名を[アナグラム](../Page/アナグラム.md "wikilink")化した作家時のペンネーム。今現在も、作家活動は続けている。第4話で判明。
 6.
 7.
 8.  最終話にて、数十年後の伊賀観と判明。ナレーションも担当（ノンクレジット）。

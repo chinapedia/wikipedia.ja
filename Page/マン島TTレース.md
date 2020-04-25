@@ -1,4 +1,4 @@
-> この記事は[TT](https://ja.wikipedia.org/wiki/TT)から翻訳されています。
+> この記事は[マン島TTレース](https://ja.wikipedia.org/wiki/マン島TTレース)から翻訳されています。
 
 
 [JoeyDunlopKatesCottage.jpg](https://ja.wikipedia.org/wiki/File:JoeyDunlopKatesCottage.jpg "fig:JoeyDunlopKatesCottage.jpg")を駆る[ジョイ・ダンロップ](https://ja.wikipedia.org/wiki/ジョイ・ダンロップ "wikilink")。レースはこのように[公道で行われている](https://ja.wikipedia.org/wiki/公道コース#モータースポーツ "wikilink")。沿道にいる人々は観客。\]\] **マン島TTレース**（マンとうティーティーレース、英：*The Isle of Man Tourist Trophy Race* ）は、[1907年](../Page/1907年.md "wikilink")からイギリス王室属国の[マン島](https://ja.wikipedia.org/wiki/マン島 "wikilink")(Isle of Man)で開催されている[オートバイ競技](https://ja.wikipedia.org/wiki/オートバイ競技 "wikilink")である。競技は世界最古の[議会](../Page/議会.md "wikilink")で『青空議会』としても知られるマン島議会[ティンワルド](https://ja.wikipedia.org/wiki/ティンワルド "wikilink")が制定した公道閉鎖令に基づき公道を閉鎖して行なわれる。

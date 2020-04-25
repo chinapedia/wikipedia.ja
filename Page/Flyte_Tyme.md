@@ -37,4 +37,4 @@
     [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")」2003年4月度エンディングテーマ
     日本テレビ系「[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")」AX POWER PLAY \#028
 
-[Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

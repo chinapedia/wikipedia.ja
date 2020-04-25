@@ -50,7 +50,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
 
 :\* 『[gdgd妖精s](https://ja.wikipedia.org/wiki/gdgd妖精s "wikilink")(ぐだぐだフェアリーズ)』（TOKYO MX）企画・映像監督・キャラクターデザイン（2011年）
 
-:\* 『[僕の妹は「大阪おかん」](https://ja.wikipedia.org/wiki/僕の妹は「大阪おかん」 "wikilink")』（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）キャラクター原案（2012年）
+:\* 『[僕の妹は「大阪おかん」](https://ja.wikipedia.org/wiki/僕の妹は「大阪おかん」 "wikilink")』（[BS朝日](../Page/ビーエス朝日.md "wikilink")）キャラクター原案（2012年）
 
 :\* 『gdgd妖精s(ぐだぐだフェアリーーズ)』（TOKYO MX）企画・監督・キャラクターデザイン（2013年）
 
@@ -363,6 +363,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
 
   - [Soogle](http://www.soogle.biz/) - 菅原そうたOfficial Home Page
   - [そうたTwitter](https://twitter.com/sota7sai/) - ネットミラクルショッピング公式キャラクター
+  - [Sota Factory](http://www.sotafactory.net/) - sota factory
 
 [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本のグラフィックデザイナー](https://ja.wikipedia.org/wiki/Category:日本のグラフィックデザイナー "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

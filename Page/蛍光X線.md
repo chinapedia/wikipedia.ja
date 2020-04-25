@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[蛍光X線](https://ja.wikipedia.org/wiki/蛍光X線)から翻訳されています。
 
 
 [X-ray_fluorescence_simple_figure.svg](https://ja.wikipedia.org/wiki/File:X-ray_fluorescence_simple_figure.svg "fig:X-ray_fluorescence_simple_figure.svg") **蛍光X線**（けいこうXせん、X-ray Fluorescence、**XRF**）とは、[元素](../Page/元素.md "wikilink")に特有の一定以上のエネルギーをもつ[X線](../Page/X線.md "wikilink")を照射することによって、その物質を構成する原子の内殻の電子が[励起](https://ja.wikipedia.org/wiki/励起 "wikilink")されて生じた空孔に、外殻の電子が[遷移](../Page/遷移.md "wikilink")する際に放出される[特性X線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")のこと。その波長は内殻と外殻のエネルギー差に対応する。

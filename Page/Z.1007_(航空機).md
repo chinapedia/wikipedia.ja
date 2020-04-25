@@ -1,4 +1,4 @@
-> この記事は[Z.1007 \(\)](https://ja.wikipedia.org/wiki/Z.1007_\(\))から翻訳されています。
+> この記事は[Z.1007 \(航空機\)](https://ja.wikipedia.org/wiki/Z.1007_\(航空機\))から翻訳されています。
 
 
 [CANT_Z.1007.jpg](https://ja.wikipedia.org/wiki/File:CANT_Z.1007.jpg "fig:CANT_Z.1007.jpg") **Z.1007**はカント社（[カンティエーリ・リウニーティ・デッラドリアーティコ](https://ja.wikipedia.org/wiki/カンティエーリ・リウニーティ・デッラドリアーティコ "wikilink")）が開発した3基のエンジンを搭載した[イタリア空軍](../Page/イタリア空軍.md "wikilink")の[爆撃機](../Page/爆撃機.md "wikilink")。愛称は[カワセミ](../Page/カワセミ.md "wikilink")を意味する**アルシオーネ** (Alcione)。

@@ -1,4 +1,4 @@
-> この記事は[TSC](https://ja.wikipedia.org/wiki/TSC)から翻訳されています。
+> この記事は[TSCニュース](https://ja.wikipedia.org/wiki/TSCニュース)から翻訳されています。
 
 
 『**TSCnews**』（ティーエスシーニュース）は、[テレビせとうち](../Page/テレビせとうち.md "wikilink")（TSC）で放送されている[報道番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）。系列の[山陽新聞](../Page/山陽新聞.md "wikilink")社が配信などの協力している（タイトルクレジットには「協力：山陽新聞社」と併記されている）。

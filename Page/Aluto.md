@@ -317,7 +317,7 @@ AICL-2131:通常盤</p></td>
 
   - \[<http://fujitadaigo.jp/index.html/藤田>　大吾 OFFICIAL WEBSITE\]
 
-  - [aluto - Sony Music](http://www.sonymusic.co.jp/artist/aluto/) (2018年5月更新停止)
+  - [aluto - Sony Music](https://www.sonymusic.co.jp/artist/aluto/) (2018年5月更新停止)
 
   -
   -

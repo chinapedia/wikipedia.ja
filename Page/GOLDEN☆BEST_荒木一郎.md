@@ -1,7 +1,7 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 荒木一郎](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_荒木一郎)から翻訳されています。
 
 
-『**GOLDEN☆BEST 荒木一郎**』（ゴールデン・ベスト あらきいちろう）は、[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**GOLDEN☆BEST 荒木一郎**』（ゴールデン・ベスト あらきいちろう）は、[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[荒木一郎](../Page/荒木一郎.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 [トリオレコード](https://ja.wikipedia.org/wiki/トリオレコード "wikilink")（現：[アートユニオン](../Page/アートユニオン.md "wikilink")）に在籍していた[1974年](../Page/1974年.md "wikilink")から[1976年](../Page/1976年.md "wikilink")にかけて発表された楽曲の中から22曲を収録。デビュー曲にして代表作である「空に星があるように」など、トリオに移籍する以前に発表していた曲の[リメイク](../Page/リメイク.md "wikilink")も収録されている。
 
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[荒木一郎](https://ja.wikipedia.org/wiki/荒木一郎 "wikilink")
+  - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[荒木一郎](../Page/荒木一郎.md "wikilink")
   - [編曲](../Page/編曲.md "wikilink")：荒木一郎・[畠山明博](https://ja.wikipedia.org/wiki/畠山明博 "wikilink")(\#1,3,4,18,20)、[江夏健二](https://ja.wikipedia.org/wiki/江夏健二 "wikilink")(\#2,7,21)、[小谷充](https://ja.wikipedia.org/wiki/小谷充 "wikilink")(\#5,9,16,17,19)、[樋口康雄](../Page/樋口康雄.md "wikilink")(\#6)、[神保正明](https://ja.wikipedia.org/wiki/神保雅彰 "wikilink")(\#8,10,11,22)、[竜崎孝路](../Page/竜崎孝路.md "wikilink")(\#12)、荒木一郎(\#13)、[深町純](../Page/深町純.md "wikilink")(\#14)、畠山明博(\#15)
 
 ## 関連項目

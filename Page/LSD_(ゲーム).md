@@ -1,4 +1,4 @@
-> この記事は[LSD \(\)](https://ja.wikipedia.org/wiki/LSD_\(\))から翻訳されています。
+> この記事は[LSD \(ゲーム\)](https://ja.wikipedia.org/wiki/LSD_\(ゲーム\))から翻訳されています。
 
 
 『**LSD**』（エルエスディー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[アスミック・エース エンタテインメントより発売された](../Page/アスミック・エース.md "wikilink")[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")という体裁を利用したドリームエミュレータ。[サイケデリック](https://ja.wikipedia.org/wiki/サイケデリック "wikilink")で[支離滅裂](https://ja.wikipedia.org/wiki/支離滅裂 "wikilink")な夢体験を楽しむためだけに作られ、ゲーム内の明確な目的は存在しない。

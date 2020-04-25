@@ -1,7 +1,7 @@
 > この記事は[Geode](https://ja.wikipedia.org/wiki/Geode)から翻訳されています。
 
 
-}} **Geode**（ジオード）は、[AMDの](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")アーキテクチャの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")。
+**Geode**（ジオード）は、[AMDの](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")アーキテクチャの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")。
 
 主に[組み込みシステム](../Page/組み込みシステム.md "wikilink")市場向けをターゲットとしている。名称の「geode」は、英語で鉱物（主にメノウ）に空いた隙間や空洞、およびそれを含む[晶洞](https://ja.wikipedia.org/wiki/晶洞 "wikilink")石を意味する。
 

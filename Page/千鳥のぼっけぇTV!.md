@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[千鳥のぼっけぇTV!](https://ja.wikipedia.org/wiki/千鳥のぼっけぇTV!)から翻訳されています。
 
 
 『**千鳥のぼっけぇTV\!**』（ちどりのぼっけぇティービー）は、[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で放送されていた自社制作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")放送開始。[2012年](../Page/2012年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")放送終了。

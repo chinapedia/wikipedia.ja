@@ -1,4 +1,4 @@
-> この記事は[PAN \(\)](https://ja.wikipedia.org/wiki/PAN_\(\))から翻訳されています。
+> この記事は[PAN \(アルバム\)](https://ja.wikipedia.org/wiki/PAN_\(アルバム\))から翻訳されています。
 
 
 **PAN**（パン）は、[THE BLUE HEARTSの通算](../Page/THE_BLUE_HEARTS.md "wikilink")8枚目となる最後のオリジナル・アルバムである。

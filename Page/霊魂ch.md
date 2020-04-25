@@ -1,4 +1,4 @@
-> この記事は[ch](https://ja.wikipedia.org/wiki/ch)から翻訳されています。
+> この記事は[霊魂ch](https://ja.wikipedia.org/wiki/霊魂ch)から翻訳されています。
 
 
 **霊魂ch**（れいこんちゃんねる）とは、1995年から1997年10月の毎週金曜日に、[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")が提供していたチャットサービス[CBシミュレータのA](https://ja.wikipedia.org/wiki/ニフティサーブ#CBシミュレータ "wikilink")-8（BandAの8ch）において開催されていた匿名のチャットである。参加者が全員、[霊魂](../Page/霊魂.md "wikilink")という[ハンドルを名乗っていたことからこのように呼ばれた](../Page/ハンドルネーム.md "wikilink")。

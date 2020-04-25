@@ -1,4 +1,4 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBCフィルハーモニック](https://ja.wikipedia.org/wiki/BBCフィルハーモニック)から翻訳されています。
 
 
 **BBCフィルハーモニック**（BBC Philharmonic）は、[マンチェスター](../Page/マンチェスター.md "wikilink")を本拠地とする[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）傘下の[オーケストラ](../Page/オーケストラ.md "wikilink")であり、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の主要オーケストラの一つ。

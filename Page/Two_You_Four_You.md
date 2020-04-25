@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - 「[愛想曲](../Page/愛想曲.md "wikilink")」から「[Ho\! サマー](../Page/Ho!_サマー.md "wikilink")」までの[シングル](../Page/シングル.md "wikilink")を収録。（Ho\! サマーはアルバムバージョン）
-  - しかし、5枚目の[シングル](../Page/シングル.md "wikilink")「[未来航海](https://ja.wikipedia.org/wiki/仮面/未来航海 "wikilink")」は未収録となった。
+  - 「[愛想曲](../Page/愛想曲.md "wikilink")」から「[Ho\! サマー](../Page/Ho!_サマー.md "wikilink")」までの[シングル](../Page/シングル.md "wikilink")を収録（「Ho\! サマー」はアルバムバージョン）。
+  - しかし、5枚目のシングル「[仮面/未来航海](https://ja.wikipedia.org/wiki/仮面/未来航海 "wikilink")」のうち「未来航海」は収録していない。
 
 ## 収録曲
 
@@ -47,7 +47,7 @@
       - 作詞・作曲：森元康介
 14. [Venus 〜Eurobeat Remix〜](../Page/Venus_\(タッキー&翼の曲\).md "wikilink")
       - 作詞・作曲:羽場仁志
-15. [夢物語](../Page/夢物語.md "wikilink") 〜Christmas Ver.〜
+15. [夢物語](../Page/夢物語_\(タッキー&翼の曲\).md "wikilink") 〜Christmas Ver.〜
       - 作詞・作曲:羽場仁志
 
 ### ボーナストラック(通常盤)

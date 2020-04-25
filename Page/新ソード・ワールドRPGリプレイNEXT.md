@@ -1,4 +1,4 @@
-> この記事は[RPGNEXT](https://ja.wikipedia.org/wiki/RPGNEXT)から翻訳されています。
+> この記事は[新ソード・ワールドRPGリプレイNEXT](https://ja.wikipedia.org/wiki/新ソード・ワールドRPGリプレイNEXT)から翻訳されています。
 
 
 **新ソード・ワールドRPGリプレイNEXT**（しんソードワールドアールピージーリプレイネクスト）は[2004年](../Page/2004年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで[富士見書房](../Page/富士見書房.md "wikilink")から単行本刊行された[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。全9巻27話+番外編1巻4話。

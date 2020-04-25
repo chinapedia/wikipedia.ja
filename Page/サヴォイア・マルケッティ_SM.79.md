@@ -1,4 +1,4 @@
-> この記事は[ SM.79](https://ja.wikipedia.org/wiki/_SM.79)から翻訳されています。
+> この記事は[サヴォイア・マルケッティ SM.79](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_SM.79)から翻訳されています。
 
 
 **SM.79 スパルヴィエーロ**（*Savoia-Marchetti SM.79 Sparviero* ）は、[イタリア王国](../Page/イタリア王国.md "wikilink")の[サヴォイア・マルケッティ社が開発し](../Page/SIAI-マルケッティ.md "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[イタリア空軍](../Page/イタリア空軍.md "wikilink")で運用された[爆撃機](../Page/爆撃機.md "wikilink")。

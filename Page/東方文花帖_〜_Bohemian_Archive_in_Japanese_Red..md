@@ -1,4 +1,4 @@
-> この記事は[  Bohemian Archive in Japanese Red.](https://ja.wikipedia.org/wiki/__Bohemian_Archive_in_Japanese_Red.)から翻訳されています。
+> この記事は[東方文花帖 〜 Bohemian Archive in Japanese Red.](https://ja.wikipedia.org/wiki/東方文花帖_〜_Bohemian_Archive_in_Japanese_Red.)から翻訳されています。
 
 
 『**東方文花帖 〜 Bohemian Archive in Japanese Red.**』（とうほうぶんかちょう ボヘミアン・アーカイブ・イン・ジャパニーズ・レッド）は、[一迅社](../Page/一迅社.md "wikilink")から刊行された[書籍で](../Page/本.md "wikilink")、[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")のファンブック\[1\]である。

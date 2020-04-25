@@ -1,11 +1,11 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マントヴァFC](https://ja.wikipedia.org/wiki/マントヴァFC)から翻訳されています。
 
 
 **マントヴァFC**（**Mantova Football Club**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[マントヴァ](https://ja.wikipedia.org/wiki/マントヴァ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2010年までの名称は**ACマントヴァ**（**Associazione Calcio Mantova**）。2019-20シーズンは[セリエDに所属している](../Page/セリエD_\(サッカー\).md "wikilink")。
 
 ## 歴史
 
-[1911年](../Page/1911年.md "wikilink")創設。1960年代は[セリエAと](../Page/セリエA_\(サッカー\).md "wikilink")[セリエBを行き来したが](../Page/セリエB_\(サッカー\).md "wikilink")、1970年代に入って失速、[セリエC2へ降格してしまう](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")。その後しばらく、主にセリエCでのシーズンが続く。そして[1994年](../Page/1994年.md "wikilink")には破産により、ACマントヴァは消滅。新たにマントヴァ・カルチョ1994（*Mantova Calcio 1994*）として、[セリエDよりも下位の](../Page/セリエD_\(サッカー\).md "wikilink")、[エッチェッレンツァ](https://ja.wikipedia.org/wiki/エッチェッレンツァ "wikilink")からの再出発を余儀なくされる。
+[1911年](../Page/1911年.md "wikilink")創設。1960年代は[セリエAと](../Page/セリエA_\(サッカー\).md "wikilink")[セリエBを行き来したが](../Page/セリエB_\(サッカー\).md "wikilink")、1970年代に入って失速、[セリエC2へ降格してしまう](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")。その後しばらく、主にセリエCでのシーズンが続く。そして[1994年](../Page/1994年.md "wikilink")には破産により、ACマントヴァは消滅。新たにマントヴァ・カルチョ1994（*Mantova Calcio 1994*）として、[セリエDよりも下位の](../Page/セリエD_\(サッカー\).md "wikilink")、[エッチェッレンツァ](../Page/エッチェッレンツァ.md "wikilink")からの再出発を余儀なくされる。
 
 その後セリエDでの2シーズンを経て、1997年にようやくセリエC2に復帰した。以降、セリエC2が主戦場となるが、2002年にチーム名をかつての**ACマントヴァ**（**Associazione Calcio Mantova**）に戻し、2003年に[ドメニコ・ディ・カルロ](https://ja.wikipedia.org/wiki/ドメニコ・ディ・カルロ "wikilink")が監督に就任すると状況は一変した。プロリーグでの采配が初めてのディ・カルロではあったが、うまくチームをまとめ上げ11シーズンぶりの[セリエC1復帰をもたらした](https://ja.wikipedia.org/wiki/セリエC1_\(サッカー\) "wikilink")。さらに快進撃は続き、2005年にはセリエB昇格を果たす。セリエB1年目の2005-06シーズンはシーズンを4位で終了、プレイオフに進出しながらあと一歩およばず、[トリノFC](../Page/トリノFC.md "wikilink")にセリエA昇格を譲ることとなった。
 

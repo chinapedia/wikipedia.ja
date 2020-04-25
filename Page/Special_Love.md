@@ -33,4 +33,4 @@ c/wと合わせて1995年4月に脱退したギターのジョプリン得能（
 
   - Special Love:TBS系「[ランク王国](../Page/ランク王国.md "wikilink")」オープニングテーマ曲
 
-[Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:石井竜也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:石井竜也が制作した楽曲 "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink") [Category:ランク王国](https://ja.wikipedia.org/wiki/Category:ランク王国 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
+[Category:米米CLUBの楽曲](https://ja.wikipedia.org/wiki/Category:米米CLUBの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:石井竜也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:石井竜也が制作した楽曲 "wikilink") [Category:ランク王国](https://ja.wikipedia.org/wiki/Category:ランク王国 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCダラス](https://ja.wikipedia.org/wiki/FCダラス)から翻訳されています。
 
 
 **FCダラス**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の南部、[テキサス州](../Page/テキサス州.md "wikilink")の都市[ダラス](../Page/ダラス.md "wikilink")にホームを置くサッカークラブである。[メジャーリーグサッカー](../Page/メジャーリーグサッカー.md "wikilink")所属。[2004年](../Page/2004年.md "wikilink")シーズンまでは「**ダラス・バーン** (*Dallas Burn*)」を名乗っていた。
@@ -185,7 +185,7 @@
 
 ## 現所属メンバー
 
-  - 2018年2月14日現在
+  - 2020年3月4日現在
 
 (主将)
 
@@ -193,7 +193,7 @@
 
 <!-- end list -->
 
-  - [オスカル・パレハ](https://ja.wikipedia.org/wiki/オスカル・パレハ "wikilink")
+  - [ルチ・ゴンザレス](https://ja.wikipedia.org/wiki/ルチ・ゴンザレス "wikilink")
 
 ### ローン移籍
 
@@ -228,6 +228,8 @@
 ### DF
 
   - [クラレンス・グッドソン](https://ja.wikipedia.org/wiki/クラレンス・グッドソン "wikilink") 2004-2007
+
+  - [ドリュー・ムーア](../Page/ドリュー・ムーア.md "wikilink") 2005-2009
 
   - [マイノル・フィゲロア](https://ja.wikipedia.org/wiki/マイノル・フィゲロア "wikilink") 2016-
 

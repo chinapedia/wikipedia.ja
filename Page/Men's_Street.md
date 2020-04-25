@@ -16,7 +16,7 @@
 ## 外部リンク
 
   - [Mst編集部のウラRHYME](http://blog.livedoor.jp/mensstreet/) - 旧ブログ（最終更新：2007年2月22日）
-  - [mashroom.jpのウラRHYME](http://ameblo.jp/mashroom-jp) - 新ブログ（最終更新：2008年4月21日）
+  - [mashroom.jpのウラRHYME](https://ameblo.jp/mashroom-jp) - 新ブログ（最終更新：2008年4月21日）
   - [マッシュルーム](http://mashroom.jp/) - 編集プロダクション公式ウェブサイト
 
 [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:男性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:男性向けファッション雑誌 "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink") [Category:2008年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2008年休廃刊の雑誌 "wikilink") [Category:竹書房](https://ja.wikipedia.org/wiki/Category:竹書房 "wikilink")

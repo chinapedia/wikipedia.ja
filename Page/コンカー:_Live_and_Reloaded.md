@@ -1,4 +1,4 @@
-> この記事は[: Live and Reloaded](https://ja.wikipedia.org/wiki/:_Live_and_Reloaded)から翻訳されています。
+> この記事は[コンカー: Live and Reloaded](https://ja.wikipedia.org/wiki/コンカー:_Live_and_Reloaded)から翻訳されています。
 
 
 『**コンカー: Live and Reloaded**』（コンカー ライブアンドリローデッド）は、[レア開発](../Page/レア_\(企業\).md "wikilink")、販売の[Xbox用ゲームソフト](../Page/Xbox_\(ゲーム機\).md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に発売された。「**コンカーLaR**」または単に「**LaR**」などと略される。

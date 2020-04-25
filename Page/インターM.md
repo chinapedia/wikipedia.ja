@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[インターM](https://ja.wikipedia.org/wiki/インターM)から翻訳されています。
 
 
 **インターM**（インターエム）は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")部品メーカー[シマノ](../Page/シマノ.md "wikilink")が製造している[自転車用ブレーキで](../Page/ブレーキ_\(自転車\).md "wikilink")、ローラーブレーキの一種に分類できる。

@@ -38,7 +38,7 @@
     （作詞・作曲：真島昌利 / 編曲：THE BLUE HEARTS）
       -
         初めてオリジナルアルバムで真島がメインボーカルをとった曲である。
-        ブルーハーツのベスト盤、[SUPER　BESTの歌詞カードでは一部歌詞に間違った表記がある](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")。
+        ブルーハーツのベスト盤、[SUPER BESTの歌詞カードでは一部歌詞に間違った表記がある](https://ja.wikipedia.org/wiki/SUPER_BEST_\(THE_BLUE_HEARTSのアルバム\) "wikilink")。
 7.  **チューインガムをかみながら** (2:43)
     （作詞・作曲：真島昌利 / 編曲：THE BLUE HEARTS）
 8.  **遠くまで** (3:21)
@@ -77,9 +77,6 @@
   - [真島昌利](../Page/真島昌利.md "wikilink") - [ギター](../Page/ギター.md "wikilink")、ボーカル (\#6,\#12)、コーラス
   - [河口純之助](../Page/河口純之助.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [梶原徹也](../Page/梶原徹也.md "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")
-
-<!-- end list -->
-
   - [佐久間正英](../Page/佐久間正英.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
 
 ## 脚注

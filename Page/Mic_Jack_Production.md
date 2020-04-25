@@ -3,9 +3,9 @@
 
 **Mic Jack Production**（マイクジャックプロダクション）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")・[札幌を根拠地として活動を続ける](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")グループである。
 
-## 来歴
+## 概要
 
-そのスピリチュアルな世界観から、北海道のアーティストとして[THA BLUE HERBに次ぐ知名度を誇る](https://ja.wikipedia.org/wiki/THA_BLUE_HERB "wikilink")。かつてBOSS THE MCがサイドMCをつとめたラッパーズロックの中心人物だった[B.I.G.JOE](https://ja.wikipedia.org/wiki/B.I.G.JOE "wikilink")が柱となり、マイクリレーを展開。新たなヒップホップの形態を提示したとして1st Album『Spiritual Bullet』が注目を浴び、その後いくつものシングルやアルバムを発表。インディーズ精神にのっとり、ライヴと口コミのみで今まで数十枚の作品をリリースしてきた。
+そのスピリチュアルな世界観から、北海道のアーティストとして[THA BLUE HERBに次ぐ知名度を誇る](https://ja.wikipedia.org/wiki/THA_BLUE_HERB "wikilink")。MJPとも呼ばれている。かつてBOSS THE MCがサイドMCをつとめたラッパーズロックの中心人物だった[B.I.G.JOE](https://ja.wikipedia.org/wiki/B.I.G.JOE "wikilink")が柱となり、マイクリレーを展開。新たなヒップホップの形態を提示したとして1st Album『Spiritual Bullet』が注目を浴び、その後いくつものシングルやアルバムを発表。インディーズ精神にのっとり、ライヴと口コミのみで今まで数十枚の作品をリリースしてきた。
 
 [MSCが属するレーベル](../Page/MSC_\(音楽グループ\).md "wikilink")[Libra Recordsのコンピレーションにも](https://ja.wikipedia.org/wiki/Libra_Records "wikilink")[Evis Beatsと](https://ja.wikipedia.org/wiki/Evis_Beats "wikilink")[KEMUI](https://ja.wikipedia.org/wiki/KEMUI "wikilink")の合作を発表した。
 
@@ -23,16 +23,28 @@
 
 [DJ](../Page/ディスクジョッキー.md "wikilink")
 
-  - DJ DOGG
+  - DJ DOGG a.k.a. PERRO
   - KEN
   - HALT.
   - AZ FUNK
 
-## メンバーの変遷
+## 略歴
 
 Mic Jack Productionのリーダー、[B.I.G.JOE](https://ja.wikipedia.org/wiki/B.I.G.JOE "wikilink")は『THE BEST OF JAPANESE HIP HOP』vol.3、vol.4などにも参加。支柱的存在であった[B.I.G.JOE](https://ja.wikipedia.org/wiki/B.I.G.JOE "wikilink")だが、2003年から2009年春までの6年間、オーストラリアの刑務所で服役。服役中に製作された彼の1st Albumは、刑務所からの電話を通してラップを収録している。
 
-また『ExPerience the ill dance music』に参加していたMC、フリーザーベルは交通事故で死去。
+SHUREN THE FIRE はファーストアルバムリリース後に離脱。
+
+また『ExPerience the ill dance music』から参加しているMC FreezerBell は交通事故で死去。
+
+自主レーベル ILL DANCE MUSIC.はメンバーが主に運営する。
+
+メンバーそれぞれがショップやクラブも運営している。
+
+1999年 活動開始。
+
+1st Album SPIRITUAL BULLET を2001年にリリースした後、北海道の外へプロモーションを開始。同時進行で制作は止まらずリリースを続ける。
+
+ExPerience the ill dance music に収録されている　7 Seas Voyage がアンダーグラウンド ヒットとなり全国からライヴオファーが増え始める。
 
 2nd Album UNIVERSAL TRUTH を2006年にリリース後 初の全国ツアーRord to 2009 を成功させ、その後も精力的に全国各地でライヴやツアーを重ね2009年の B.I.G.JOE 帰国後 地元札幌でグループ10周年と彼の復帰ライヴを開催。その時の様子は THE SUMMIT DVD としてリリースされておりスペースシャワーTVや雑誌のインタビューのコメントも同時に収められている。
 
@@ -40,7 +52,9 @@ Mic Jack Productionのリーダー、[B.I.G.JOE](https://ja.wikipedia.org/wiki/B
 
 2013年 3rd Album M.I.C リリース。
 
-2015年のライヴを最後にグループでの活動は止まりメンバー各自ソロで動いている。
+2014年のライヴツアー。2015年のライヴを最後にグループでの活動は止まりメンバー各自ソロで動いている。
+
+活動の停止と共にレギュラーパーティの Alterna.やビッグイベント BURNING も中止となる。
 
 ## ディスコグラフィ
 
@@ -50,6 +64,7 @@ Mic Jack Productionのリーダー、[B.I.G.JOE](https://ja.wikipedia.org/wiki/B
   - ExPerience the ill dance music
   - Universal Truth
   - M.I.C
+  - M.I.C.EP
   - ExPerience the ill dance music 2
 
 ### シングル（アナログを含む）
@@ -60,6 +75,14 @@ Mic Jack Productionのリーダー、[B.I.G.JOE](https://ja.wikipedia.org/wiki/B
   - WELCOME TO THE SILVER WORLD
   - JAIL BIRD
   - 7seas voyage
+  - LAST DAY
+  - SPEED CITY
+  - COSMOS
+  - B.B KING
+  - 防人の唄
+  - ALT.NATIVE MUSIC
+  - I Aint Gangsta/DJ BAKU
+  - VERTIGO
 
 ### B.I.G. JOE ソロ
 

@@ -1,7 +1,7 @@
-> この記事は[ZP](https://ja.wikipedia.org/wiki/ZP)から翻訳されています。
+> この記事は[ZPサート](https://ja.wikipedia.org/wiki/ZPサート)から翻訳されています。
 
 
-**ZPサート**（ジッピー・サート、ZP "Zippy" Theart、[1975年](../Page/1975年.md "wikilink")[5月27日](../Page/1月22日.md "wikilink") - ）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")出身の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。[ドラゴンフォース](../Page/ドラゴンフォース_\(バンド\).md "wikilink")、アイアムアイ（I Am I）の元ボーカル。現在は[タンクと](../Page/タンク_\(バンド\).md "wikilink")[スキッド・ロウのボーカリストとして活動している](../Page/スキッド・ロウ_\(バンド\).md "wikilink")。
+**ZPサート**（ジッピー・サート、ZP "Zippy" Theart、[1975年](../Page/1975年.md "wikilink")[5月27日](../Page/1月22日.md "wikilink") - ）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")出身の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。[ドラゴンフォース](../Page/ドラゴンフォース_\(バンド\).md "wikilink")、アイアムアイ（I Am I）の元ボーカル。現在は[スキッド・ロウのボーカリストとして活動している](../Page/スキッド・ロウ_\(バンド\).md "wikilink")。
 
 ## 概要・経歴
 

@@ -1,4 +1,4 @@
-> この記事は[BOM \(\)](https://ja.wikipedia.org/wiki/BOM_\(\))から翻訳されています。
+> この記事は[BOM \(部品表\)](https://ja.wikipedia.org/wiki/BOM_\(部品表\))から翻訳されています。
 
 
 **BOM**（）とは、[製造業](../Page/製造業.md "wikilink")で用いられる部品表の一形態である。[製品](../Page/製品.md "wikilink")を組み立てる時の[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")の一覧と、場合によっては[階層構造](../Page/階層構造.md "wikilink")を表す。製品の[見積](../Page/見積.md "wikilink")もり時点から、[設計](../Page/設計.md "wikilink")、[調達](https://ja.wikipedia.org/wiki/調達 "wikilink")、[製造](https://ja.wikipedia.org/wiki/製造 "wikilink")、[メンテナンス](../Page/メンテナンス.md "wikilink")にまで利用され、多岐にわたる近年の[ものづくり](../Page/ものづくり.md "wikilink")において、BOMは極めて重要である。

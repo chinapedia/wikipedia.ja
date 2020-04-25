@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[あやしいわーるどII](https://ja.wikipedia.org/wiki/あやしいわーるどII)から翻訳されています。
 
 
 **あやしいわーるどII**([1999年](../Page/1999年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")- )とは、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")電子掲示板群の内の一つであり、通称「**ぁぃぁぃ**」と呼ばれる。管理人は[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")。
@@ -49,7 +49,7 @@
 
 ### あやしいストリート
 
-[ジオシティーズ](../Page/ジオシティーズ.md "wikilink")の一区画をまるごとあやしい住人で埋め尽くし、あやしいストリートとするお遊び。だがここから色々な[ネット](../Page/ネット.md "wikilink")[文化](../Page/文化.md "wikilink")が生まれていくこととなる。[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")関係の住人も多かったことから、活発に動きがあった。特筆すべきは高槻、無職絵描き、saxyun、えここ、あおいまなぶ、デジカメ空白などによる[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")の同人計画などがあった。 廃墟と化したところ、現存するところと様々である。なお、このネット[文化](../Page/文化.md "wikilink")は、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")全体に及ぶものになっている。
+[ジオシティーズ](../Page/ジオシティーズ.md "wikilink")の一区画をまるごとあやしい住人で埋め尽くし、あやしいストリートとするお遊び。だがここから色々な[ネット](../Page/インターネット.md "wikilink")[文化](../Page/文化.md "wikilink")が生まれていくこととなる。[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")関係の住人も多かったことから、活発に動きがあった。特筆すべきは高槻、無職絵描き、saxyun、えここ、あおいまなぶ、デジカメ空白などによる[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")の同人計画などがあった。 廃墟と化したところ、現存するところと様々である。なお、このネット[文化](../Page/文化.md "wikilink")は、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")全体に及ぶものになっている。
 
 ### ネットラジオ
 

@@ -81,12 +81,12 @@
 <li><a href="../Page/HBCラジオ.md" title="wikilink">北海道放送</a>、23:30 - 24:00</li>
 <li><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>、22:00 - 22:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a>、23:30 - 24:00</li>
+<li><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a>、23:30 - 24:00</li>
 <li><a href="../Page/山形放送.md" title="wikilink">山形放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/東北放送.md" title="wikilink">東北放送</a>、23:00 - 23:30</li>
 <li><a href="../Page/ラジオ福島.md" title="wikilink">ラジオ福島</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a>、22:30 - 23:00</li>
-<li><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>、23:00 - 23:30</li>
+<li><a href="../Page/信越放送.md" title="wikilink">信越放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>、23:00 - 23:30</li>
 </ul></td>
@@ -95,19 +95,19 @@
 <li><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>、22:00 - 22:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a>、23:00 - 23:30</li>
+<li><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>、23:00 - 23:30</li>
 <li><a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪</a>、24:00 - 24:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/中国放送.md" title="wikilink">中国放送</a>、23:00 - 23:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>、22:00 - 22:30</li>
+<li><a href="../Page/山口放送.md" title="wikilink">山口放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>、22:00 - 22:30 → 23:30 - 24:00（1989年4月から）</li>
 <li><a href="https://ja.wikipedia.org/wiki/西日本放送ラジオ" title="wikilink">西日本放送</a>、22:00 - 22:30</li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a>、22:00 - 22:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/KBCラジオ" title="wikilink">九州朝日放送</a>、23:30 - 24:00</li>
+<li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>、23:30 - 24:00</li>
 <li><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>、22:00 - 22:30</li>

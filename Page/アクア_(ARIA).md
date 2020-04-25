@@ -1,7 +1,7 @@
-> この記事は[ \(ARIA\)](https://ja.wikipedia.org/wiki/_\(ARIA\))から翻訳されています。
+> この記事は[アクア \(ARIA\)](https://ja.wikipedia.org/wiki/アクア_\(ARIA\))から翻訳されています。
 
 
-**AQUA**（アクア）とは、[天野こずえ](../Page/天野こずえ.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『AQUA』及び[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品『[ARIA](../Page/ARIA_\(漫画\).md "wikilink")』に登場する架空の設定の[惑星](../Page/惑星.md "wikilink")である。
+**AQUA**（アクア）とは、[天野こずえ](../Page/天野こずえ.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『AQUA』および[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品『[ARIA](../Page/ARIA_\(漫画\).md "wikilink")』に登場する架空の設定の[惑星](../Page/惑星.md "wikilink")である。
 
 ## 概要
 

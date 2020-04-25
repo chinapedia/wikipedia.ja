@@ -1,4 +1,4 @@
-> この記事は[PSE](https://ja.wikipedia.org/wiki/PSE)から翻訳されています。
+> この記事は[PSE問題](https://ja.wikipedia.org/wiki/PSE問題)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NEW_PSEimage.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Otsu_PSEimage.svg "wikilink") **PSE問題**（―もんだい）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[電気用品安全法](../Page/電気用品安全法.md "wikilink")に基づく表示（PSEマーク）がついていない電気用品の販売を認めないことにより生じた問題である。

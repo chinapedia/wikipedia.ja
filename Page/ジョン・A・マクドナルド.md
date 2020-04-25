@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ジョン・A・マクドナルド](https://ja.wikipedia.org/wiki/ジョン・A・マクドナルド)から翻訳されています。
 
 
 **ジョン・アレグザンダー・マクドナルド**（John Alexander Macdonald, [1815年](../Page/1815年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")\[1\] - [1891年](../Page/1891年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の初代および第3代[首相](https://ja.wikipedia.org/wiki/カナダの首相 "wikilink")。所属政党は[保守党](../Page/カナダ進歩保守党.md "wikilink") ([Conservative](https://ja.wikipedia.org/wiki/:en:Conservative_Party_of_Canada_\(1867-1942\) "wikilink")) 。在席期間は[1867年](../Page/1867年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - [1873年](../Page/1873年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")および[1878年](../Page/1878年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - [1891年](../Page/1891年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[DB4GT](https://ja.wikipedia.org/wiki/DB4GT)から翻訳されています。
+> この記事は[アストンマーティン・DB4GTザガート](https://ja.wikipedia.org/wiki/アストンマーティン・DB4GTザガート)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Aston_Martin_DB4GT_Zagato_with_DB5.jpg "wikilink") **DB4GTザガート**は、[アストンマーティン](../Page/アストンマーティン.md "wikilink")・ラゴンダが1960年から1963年に製造したスポーツカーである。　

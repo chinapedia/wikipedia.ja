@@ -1,4 +1,4 @@
-> この記事は[Beatnation](https://ja.wikipedia.org/wiki/Beatnation)から翻訳されています。
+> この記事は[Beatnationレーベル](https://ja.wikipedia.org/wiki/Beatnationレーベル)から翻訳されています。
 
 
 **beatnation**（**ビートネイション**）は、大手ゲーム会社、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の社内レーベルのひとつ。「[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")」を中心とした「[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")」の楽曲を製作しているコンポーザーである[dj TAKAが中心となって立ち上げたレーベルである](../Page/石川貴之.md "wikilink")。

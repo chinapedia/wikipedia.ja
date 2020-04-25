@@ -1,4 +1,4 @@
-> この記事は[BMK](https://ja.wikipedia.org/wiki/BMK)から翻訳されています。
+> この記事は[BMK推進運動](https://ja.wikipedia.org/wiki/BMK推進運動)から翻訳されています。
 
 
 **BMK推進運動**（びーえむけーすいしんうんどう）とは、[1999年](../Page/1999年.md "wikilink")より[京成グループ](../Page/京成グループ.md "wikilink")で行っている 利用者との[コミュニケーション](../Page/コミュニケーション.md "wikilink")や[サービス](../Page/サービス.md "wikilink")の向上、及び[マナー](../Page/マナー.md "wikilink")や[接遇](../Page/接遇.md "wikilink")の向上を目的とした運動である。

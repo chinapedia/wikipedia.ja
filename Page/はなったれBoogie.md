@@ -1,4 +1,4 @@
-> この記事は[Boogie](https://ja.wikipedia.org/wiki/Boogie)から翻訳されています。
+> この記事は[はなったれBoogie](https://ja.wikipedia.org/wiki/はなったれBoogie)から翻訳されています。
 
 
 『**はなったれBoogie**』（はなったれブギ）とは、[一色まこと](../Page/一色まこと.md "wikilink")によるホーム[コメディ漫画作品](../Page/喜劇.md "wikilink")。

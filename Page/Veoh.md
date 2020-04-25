@@ -51,7 +51,7 @@ Veohが[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")[インターネット
 
   - [Veoh公式サイト](http://www.veoh.com/)
 
-[Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:サンディエゴの企業](https://ja.wikipedia.org/wiki/Category:サンディエゴの企業 "wikilink") [Category:インテル](https://ja.wikipedia.org/wiki/Category:インテル "wikilink") [Category:ワーナーメディア](https://ja.wikipedia.org/wiki/Category:ワーナーメディア "wikilink")
+[Category:FC2](https://ja.wikipedia.org/wiki/Category:FC2 "wikilink") [Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:サンディエゴの企業](https://ja.wikipedia.org/wiki/Category:サンディエゴの企業 "wikilink") [Category:インテル](https://ja.wikipedia.org/wiki/Category:インテル "wikilink") [Category:ワーナーメディア](https://ja.wikipedia.org/wiki/Category:ワーナーメディア "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> この記事は[OFK](https://ja.wikipedia.org/wiki/OFK)から翻訳されています。
+> この記事は[OFKベオグラード](https://ja.wikipedia.org/wiki/OFKベオグラード)から翻訳されています。
 
 
 **オムラディンスキ・フドバルスキ・クルブ・ベオグラード**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](../Page/ベオグラード.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。

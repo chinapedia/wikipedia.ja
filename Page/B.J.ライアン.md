@@ -1,4 +1,4 @@
-> この記事は[B.J.](https://ja.wikipedia.org/wiki/B.J.)から翻訳されています。
+> この記事は[B.J.ライアン](https://ja.wikipedia.org/wiki/B.J.ライアン)から翻訳されています。
 
 
 **B.J.ライアン**（**Robert Victor Ryan, Jr** , [1975年](../Page/1975年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink") - ）は、[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")の元選手（[投手](../Page/投手.md "wikilink")）。左投左打。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ボージャーシティ出身](https://ja.wikipedia.org/wiki/ボージャーシティ_\(ルイジアナ州\) "wikilink")。

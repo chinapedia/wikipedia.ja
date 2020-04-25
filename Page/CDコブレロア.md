@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[CDコブレロア](https://ja.wikipedia.org/wiki/CDコブレロア)から翻訳されています。
 
 
 [Hinchada_de_cobreloa.jpg](https://ja.wikipedia.org/wiki/File:Hinchada_de_cobreloa.jpg "fig:Hinchada_de_cobreloa.jpg")

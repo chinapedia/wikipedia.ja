@@ -1,4 +1,4 @@
-> この記事は[NG](https://ja.wikipedia.org/wiki/NG)から翻訳されています。
+> この記事は[NGライフ](https://ja.wikipedia.org/wiki/NGライフ)から翻訳されています。
 
 
 『**NGライフ**』（エヌジーライフ）は、[草凪みずほ](../Page/草凪みずほ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

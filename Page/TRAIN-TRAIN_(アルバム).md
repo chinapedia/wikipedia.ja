@@ -1,4 +1,4 @@
-> この記事は[TRAIN-TRAIN \(\)](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(\))から翻訳されています。
+> この記事は[TRAIN-TRAIN \(アルバム\)](https://ja.wikipedia.org/wiki/TRAIN-TRAIN_\(アルバム\))から翻訳されています。
 
 
 **TRAIN-TRAIN**（トレイン トレイン）は、[THE BLUE HEARTSの](../Page/THE_BLUE_HEARTS.md "wikilink")3rdアルバムである。

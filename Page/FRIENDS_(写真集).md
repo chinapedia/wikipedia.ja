@@ -1,4 +1,4 @@
-> この記事は[FRIENDS \(\)](https://ja.wikipedia.org/wiki/FRIENDS_\(\))から翻訳されています。
+> この記事は[FRIENDS \(写真集\)](https://ja.wikipedia.org/wiki/FRIENDS_\(写真集\))から翻訳されています。
 
 
 **FRIENDS**（ふれんず）シリーズは全5巻からなる豪華版の[少女ヌード写真集](https://ja.wikipedia.org/wiki/少女ヌード写真集 "wikilink")である。各5,000円。また、ビデオも発売された。本項では写真集、ビデオの両方を扱う。

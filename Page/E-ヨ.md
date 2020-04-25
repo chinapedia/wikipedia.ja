@@ -1,4 +1,4 @@
-> この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
+> この記事は[E-ヨ](https://ja.wikipedia.org/wiki/E-ヨ)から翻訳されています。
 
 
 **E-ヨ** （イーヨ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売。発売元は[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

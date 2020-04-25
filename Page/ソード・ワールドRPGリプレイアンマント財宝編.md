@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ソード・ワールドRPGリプレイアンマント財宝編](https://ja.wikipedia.org/wiki/ソード・ワールドRPGリプレイアンマント財宝編)から翻訳されています。
 
 
 **ソード・ワールドRPGリプレイアンマント財宝編**（ソード・ワールドアールピージーリプレイアンマントざいほうへん）は[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")に[1996年](../Page/1996年.md "wikilink")8月号から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月号まで連載された、[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")のリプレイ作品。リプレイ第5部とも称される。[ゲームマスター](../Page/ゲームマスター.md "wikilink") (GM) は[清松みゆき](../Page/清松みゆき.md "wikilink")。イラストレーターは[伊藤勢](../Page/伊藤勢.md "wikilink")。 [プレイヤーズ・キャラクター](https://ja.wikipedia.org/wiki/プレイヤーズ・キャラクター "wikilink") (PC) はカシス、ラーン、マイス、ミンクス、ルーイ、イーノの6人。風雲ミラルゴ編のPCのうち三人が継続した姉妹編であり、20世紀に単行本刊行された最後のソードワールドリプレイシリーズである。なお、月刊[ドラゴンマガジン](https://ja.wikipedia.org/wiki/ドラゴンマガジン "wikilink")におけるソードワールドリプレイの連載は本作の最終回である1997年11月号をもって一時中断することになる。

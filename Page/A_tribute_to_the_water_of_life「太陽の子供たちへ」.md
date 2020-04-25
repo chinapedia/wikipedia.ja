@@ -1,4 +1,4 @@
-> この記事は[A tribute to the water of life](https://ja.wikipedia.org/wiki/A_tribute_to_the_water_of_life)から翻訳されています。
+> この記事は[A tribute to the water of life「太陽の子供たちへ」](https://ja.wikipedia.org/wiki/A_tribute_to_the_water_of_life「太陽の子供たちへ」)から翻訳されています。
 
 
 『**a tribute to the water of life「太陽の子供たちへ」**』（ア・トリビュート・トゥ・ザ・ウォーター・オブ・ライフ「たいようのこどもたちへ」）はオムニバスの[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。

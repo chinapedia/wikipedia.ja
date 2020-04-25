@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[マキシマ \(KOF\)](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\))から翻訳されています。
 
 
 **マキシマ** (**Maxima**) は[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](../Page/SNK_\(2001年設立の企業\).md "wikilink")）の対戦型格闘ゲーム『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズに登場する架空の人物。担当声優は[小西克幸](../Page/小西克幸.md "wikilink")。

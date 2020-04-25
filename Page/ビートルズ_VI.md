@@ -1,4 +1,4 @@
-> この記事は[ VI](https://ja.wikipedia.org/wiki/_VI)から翻訳されています。
+> この記事は[ビートルズ VI](https://ja.wikipedia.org/wiki/ビートルズ_VI)から翻訳されています。
 
 
 **『ビートルズ VI』**(***"Beatles VI"***)は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")で[キャピトル・レコード](../Page/キャピトル・レコード.md "wikilink")から発売された[ビートルズ](../Page/ビートルズ.md "wikilink")の7作目のアルバムで、[ヴィージェイ・レコード](../Page/ヴィージェイ・レコード.md "wikilink")や[ユナイテッド・アーティスツ・レコード](https://ja.wikipedia.org/wiki/ユナイテッド・アーティスツ・レコード "wikilink")から発売された作品も含めて9作目のアルバムである\[1\]。

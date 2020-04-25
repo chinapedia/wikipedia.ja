@@ -1,7 +1,7 @@
 > この記事は[KOME KOME WAR](https://ja.wikipedia.org/wiki/KOME_KOME_WAR)から翻訳されています。
 
 
-**KOME KOME WAR** （コメコメウォー）は[米米CLUB](../Page/米米CLUB.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")発売。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
+**KOME KOME WAR** （コメコメウォー）は[米米CLUB](../Page/米米CLUB.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")発売。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 

@@ -1,4 +1,4 @@
-> この記事は[JFA ](https://ja.wikipedia.org/wiki/JFA_)から翻訳されています。
+> この記事は[JFA 全日本ビーチサッカー大会](https://ja.wikipedia.org/wiki/JFA_全日本ビーチサッカー大会)から翻訳されています。
 
 
 **JFA 全日本ビーチサッカー大会**（ジェイエフエイぜんにほんビーチサッカーたいかい）は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink") (JFA) が主催する[ビーチサッカー](../Page/ビーチサッカー.md "wikilink")の全国大会である。

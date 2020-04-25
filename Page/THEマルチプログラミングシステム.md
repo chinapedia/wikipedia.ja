@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THEマルチプログラミングシステム](https://ja.wikipedia.org/wiki/THEマルチプログラミングシステム)から翻訳されています。
 
 
 **THEマルチプログラミングシステム**（*THE multiprogramming system*）は、[エドガー・ダイクストラ](../Page/エドガー・ダイクストラ.md "wikilink")らが開発した初期の[マルチタスク](../Page/マルチタスク.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS)。1965年から66年に論文に記され\[1\]、1968年に発表された\[2\]。ダイクストラはこのシステムを命名したことはない。"THE" とは "Technische Hogeschool Eindhoven" の略で、[オランダ語](../Page/オランダ語.md "wikilink")で[アイントホーフェン工科大学](https://ja.wikipedia.org/wiki/アイントホーフェン工科大学 "wikilink")を意味する。THEシステムは基本的に[マルチタスク](../Page/マルチタスク.md "wikilink")をサポートした[バッチ処理](../Page/バッチ処理.md "wikilink")システムである\[3\]。[マルチユーザー](https://ja.wikipedia.org/wiki/マルチユーザー "wikilink")OSとしては設計されていない。同時期の [Project GENIE](../Page/Project_GENIE.md "wikilink") で開発された [SDS 940](https://ja.wikipedia.org/wiki/SDS_940 "wikilink") に似ているが、THEシステムでのプロセス群は静的だった\[4\]。

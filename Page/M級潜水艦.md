@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[M級潜水艦](https://ja.wikipedia.org/wiki/M級潜水艦)から翻訳されています。
 
 
 <table>
@@ -125,7 +125,7 @@
 
   - [イギリス海軍艦艇一覧](../Page/イギリス海軍艦艇一覧.md "wikilink")
   - [モニター艦](../Page/モニター艦.md "wikilink")
-  - [スルクフ](https://ja.wikipedia.org/wiki/スルクフ "wikilink") - フランスで開発された砲撃潜水艦
+  - [スルクフ](../Page/スルクフ_\(潜水艦\).md "wikilink") - フランスで開発された砲撃潜水艦
 
 ## 参考図書
 

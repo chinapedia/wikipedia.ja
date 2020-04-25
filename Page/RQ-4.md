@@ -85,7 +85,7 @@ EO/IRセンサーは、1mの分解能で約4万平方mi（約10万平方km）に
 
 ## 仕様
 
-[right](https://ja.wikipedia.org/wiki/ファイル:Northrop_Grumman_RQ-4_Global_Hawk.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:Rq-4a-2.png "wikilink")
+[250px](https://ja.wikipedia.org/wiki/ファイル:Rq-4a-2.png "wikilink")
 
   - RQ-4A
 

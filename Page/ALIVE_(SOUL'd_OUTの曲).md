@@ -1,4 +1,4 @@
-> この記事は[ALIVE \(SOUL\'d OUT\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL\'d_OUT\))から翻訳されています。
+> この記事は[ALIVE \(SOUL\'d OUTの曲\)](https://ja.wikipedia.org/wiki/ALIVE_\(SOUL\'d_OUTの曲\))から翻訳されています。
 
 
 **ALIVE**（アライヴ）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")10th[シングル](../Page/シングル.md "wikilink")である。

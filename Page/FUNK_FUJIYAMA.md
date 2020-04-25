@@ -1,7 +1,7 @@
 > この記事は[FUNK FUJIYAMA](https://ja.wikipedia.org/wiki/FUNK_FUJIYAMA)から翻訳されています。
 
 
-**FUNK FUJIYAMA**（ファンク フジヤマ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
+**FUNK FUJIYAMA**（ファンク フジヤマ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/2007年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 

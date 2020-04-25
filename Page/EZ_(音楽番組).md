@@ -1,4 +1,4 @@
-> この記事は[EZ \(\)](https://ja.wikipedia.org/wiki/EZ_\(\))から翻訳されています。
+> この記事は[EZ \(音楽番組\)](https://ja.wikipedia.org/wiki/EZ_\(音楽番組\))から翻訳されています。
 
 
 『**eZ**』(イージー)は[1988年](../Page/1988年.md "wikilink")4月から[1992年](../Page/1992年.md "wikilink")10月まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された、[EPICソニー](../Page/エピックレコードジャパン.md "wikilink")（現[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）制作の音楽番組（30分枠）。[1992年](../Page/1992年.md "wikilink")7月に『eZ a GO\! GO\!』と番組タイトルが変更された。提供は[カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")。

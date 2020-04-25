@@ -1,4 +1,4 @@
-> この記事は[STAR BOX \(CLUB\)](https://ja.wikipedia.org/wiki/STAR_BOX_\(CLUB\))から翻訳されています。
+> この記事は[STAR BOX \(米米CLUBのアルバム\)](https://ja.wikipedia.org/wiki/STAR_BOX_\(米米CLUBのアルバム\))から翻訳されています。
 
 
 『**STAR BOX**』(スター・ボックス)は[米米CLUB](../Page/米米CLUB.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")発売。発売元はSony Records(現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink"))。

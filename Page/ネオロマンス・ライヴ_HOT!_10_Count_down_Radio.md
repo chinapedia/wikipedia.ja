@@ -1,4 +1,4 @@
-> この記事は[ HOT! 10 Count down Radio](https://ja.wikipedia.org/wiki/_HOT!_10_Count_down_Radio)から翻訳されています。
+> この記事は[ネオロマンス・ライヴ HOT! 10 Count down Radio](https://ja.wikipedia.org/wiki/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio)から翻訳されています。
 
 
 **ネオロマンス♥ライヴ HOT\! 10 Count down Radio**（ネオロマンス ライヴ ホット\! テンカウントダウンラジオ）は、[2006年](../Page/2006年.md "wikilink")10月から[2007年](../Page/2007年.md "wikilink")3月まで、毎週水曜に[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")から配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。略称は**ホッテンラジオ**。

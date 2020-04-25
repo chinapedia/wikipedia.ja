@@ -18,7 +18,7 @@
   - [田中宏幸](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
       - 解散後の音楽活動はレイジーのみ。
   - [松尾洋一](https://ja.wikipedia.org/wiki/松尾洋一 "wikilink")（[ギター](../Page/ギター.md "wikilink")）
-      - 解散後はJAM Projectに参加。息子はホストの[ROLAND](https://ja.wikipedia.org/wiki/ROLAND_\(ホスト\) "wikilink")\[1\]。
+      - 解散後は[JAM Projectに参加](../Page/JAM_Project.md "wikilink")。息子はホストの[ROLAND](https://ja.wikipedia.org/wiki/ROLAND_\(ホスト\) "wikilink")\[1\]。
   - [須藤賢一](https://ja.wikipedia.org/wiki/須藤賢一 "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
       - 現在は[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")として活動する傍ら、影山と共に[TRY FORCEを結成](https://ja.wikipedia.org/wiki/TRY_FORCE "wikilink")。
   - [岩田ガンタ康彦](../Page/岩田ガンタ康彦.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）

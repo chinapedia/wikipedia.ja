@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[いすゞ・ジャーニーQ](https://ja.wikipedia.org/wiki/いすゞ・ジャーニーQ)から翻訳されています。
 
 
 **いすゞ・ジャーニーQ**（**Journey Q**）はかつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が[製造](../Page/製造業.md "wikilink")・[販売](../Page/販売.md "wikilink")していた、[マイクロバス](../Page/マイクロバス.md "wikilink")[ジャーニーシリーズのうち](../Page/いすゞ・ジャーニー.md "wikilink")、フロントエンジン仕様の中・小型バスで、主に[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")で架装された。本稿ではこれを主軸に述べる。（なお、29人以上乗りの**[リヤエンジン](https://ja.wikipedia.org/wiki/リヤエンジン "wikilink")バス**については[いすゞ・ジャーニーK](../Page/いすゞ・ジャーニーK.md "wikilink")を参照）

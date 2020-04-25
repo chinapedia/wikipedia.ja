@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.マリック魔法の時間](https://ja.wikipedia.org/wiki/Mr.マリック魔法の時間)から翻訳されています。
 
 
 『**Mr.マリック★魔法の時間**』（ミスターマリック まほうのじかん）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[マジックを主体とする](../Page/奇術.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全39回。テレビ東京系列局と[岐阜放送](../Page/岐阜放送.md "wikilink")では[2001年](../Page/2001年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2002年](../Page/2002年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで、毎週[木曜](../Page/木曜日.md "wikilink") 18:30 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

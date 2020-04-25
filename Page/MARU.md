@@ -71,7 +71,7 @@
 ## 外部リンク
 
   - [水色革命](http://iandifactory.com/iandi/mizuiro.html)
-  - [MARUMARUスープレックス](http://ameblo.jp/marumarusp/) - ブログ
+  - [MARUMARUスープレックス](https://ameblo.jp/marumarusp/) - ブログ
 
 [Category:日本の女子プロレスラー](https://ja.wikipedia.org/wiki/Category:日本の女子プロレスラー "wikilink") [Category:JDスターに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:JDスターに所属したプロレスラー "wikilink") [Category:テロワール_(芸能事務所)](https://ja.wikipedia.org/wiki/Category:テロワール_\(芸能事務所\) "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink")
 

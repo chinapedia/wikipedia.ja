@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[松口VS小林](https://ja.wikipedia.org/wiki/松口VS小林)から翻訳されています。
 
 
 **松口VS小林**（まつぐちブイエスこばやし）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[1992年](../Page/1992年.md "wikilink")結成、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")解散。

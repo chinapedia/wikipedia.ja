@@ -1,4 +1,4 @@
-> この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
+> この記事は[悪魔城ドラキュラX 血の輪廻](https://ja.wikipedia.org/wiki/悪魔城ドラキュラX_血の輪廻)から翻訳されています。
 
 
 『**悪魔城ドラキュラX 血の輪廻**』（あくまじょうドラキュラエックス ちのロンド、英題: *[Castlevania: Rondo of Blood](https://ja.wikipedia.org/wiki/:en:Castlevania:_Rondo_of_Blood "wikilink")*\[1\]）は、[コナミから](../Page/コナミデジタルエンタテインメント.md "wikilink")[1993年](../Page/1993年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")に発売された[PCエンジン](../Page/PCエンジン.md "wikilink") [SUPER CD-ROM<sup>2</sup>用ソフトのアクションゲーム](../Page/SUPER_CD-ROM2.md "wikilink")。

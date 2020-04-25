@@ -1,7 +1,8 @@
-> この記事は[OSG](https://ja.wikipedia.org/wiki/OSG)から翻訳されています。
+> この記事は[OSGコーポレーション](https://ja.wikipedia.org/wiki/OSGコーポレーション)から翻訳されています。
 
 
-**株式会社OSGコーポレーション**（オーエスジーコーポレーション）は、[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置く](../Page/北区_\(大阪市\).md "wikilink")[浄水器](../Page/浄水器.md "wikilink")・アルカリイオン整水器などの製造を行う企業である。「**OSG**」とは「大阪三愛グループ（**O**saka **S**anai **G**roup）」のことである。
+**株式会社OSGコーポレーション**（オーエスジーコーポレーション）は、[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置く](../Page/北区_\(大阪市\).md "wikilink")[浄水器](../Page/浄水器.md "wikilink")・アルカリイオン整水器などの製造を行う企業である。「**OSG**」とは「大阪三愛グループ」（**O**saka **S**anai **G**roup）の略である。
+
 なお、[工作機械](../Page/工作機械.md "wikilink")部品の[オーエスジー](../Page/オーエスジー.md "wikilink")との資本関係はない。
 
 ## 沿革
@@ -19,6 +20,7 @@
 
   - [紺野美沙子](../Page/紺野美沙子.md "wikilink")
   - [アントニオ猪木](../Page/アントニオ猪木.md "wikilink")
+  - [赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink")
 
 ## 提供番組
 

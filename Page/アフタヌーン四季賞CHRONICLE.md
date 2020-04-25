@@ -1,4 +1,4 @@
-> この記事は[CHRONICLE](https://ja.wikipedia.org/wiki/CHRONICLE)から翻訳されています。
+> この記事は[アフタヌーン四季賞CHRONICLE](https://ja.wikipedia.org/wiki/アフタヌーン四季賞CHRONICLE)から翻訳されています。
 
 
 『**アフタヌーン四季賞CHRONICLE 1987-2000**』（アフタヌーンしきしょうクロニクル）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までの[アフタヌーン四季賞](https://ja.wikipedia.org/wiki/アフタヌーン四季賞 "wikilink")受賞作家で、過去現在において活躍していた作家の受賞作品をまとめた作品集。掲載された作家の選考基準は不明である。

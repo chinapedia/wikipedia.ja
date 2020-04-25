@@ -1,4 +1,4 @@
-> この記事は[-Fairy Ring-](https://ja.wikipedia.org/wiki/-Fairy_Ring-)から翻訳されています。
+> この記事は[おとぎばなし-Fairy Ring-](https://ja.wikipedia.org/wiki/おとぎばなし-Fairy_Ring-)から翻訳されています。
 
 
 『**おとぎばなし-Fairy Ring-**』（おとぎばなし フェアリー・リング）は、[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の30作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。5作目の[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムでもある。

@@ -1,4 +1,4 @@
-> この記事は[ZOO KEEPER \(\)](https://ja.wikipedia.org/wiki/ZOO_KEEPER_\(\))から翻訳されています。
+> この記事は[ZOO KEEPER \(漫画\)](https://ja.wikipedia.org/wiki/ZOO_KEEPER_\(漫画\))から翻訳されています。
 
 
 『**ZOO KEEPER**』（ズーキーパー）は、[青木幸子](https://ja.wikipedia.org/wiki/青木幸子 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[イブニング](../Page/イブニング.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において、[2006年](../Page/2006年.md "wikilink")3月28日（2006年No.08）から[2009年](../Page/2009年.md "wikilink")6月22日（2009年No.14）まで連載された。全8巻。

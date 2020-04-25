@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ボアヴィスタFC](https://ja.wikipedia.org/wiki/ボアヴィスタFC)から翻訳されています。
 
 
 **ボアヴィスタ・フトゥボル・クルーベ**（**Boavista Futebol Clube**、通称**ボアヴィスタ**（**Boavista** ()）は、[ポルトガル](../Page/ポルトガル.md "wikilink")・[ポルト](../Page/ポルト.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。1903年8月1日、イギリスの起業家とポルトガルの繊維労働者によって設立された\[1\]。総合スポーツクラブであり、[バレーボール](../Page/バレーボール.md "wikilink")、[チェス](../Page/チェス.md "wikilink")、[体操](../Page/体操.md "wikilink")、[自転車競技](../Page/自転車競技.md "wikilink")、[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")などの部門を持つ。

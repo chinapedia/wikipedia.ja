@@ -1,4 +1,4 @@
-> この記事は[CD ](https://ja.wikipedia.org/wiki/CD_)から翻訳されています。
+> この記事は[CDドラマコレクションズ 三國志](https://ja.wikipedia.org/wiki/CDドラマコレクションズ_三國志)から翻訳されています。
 
 
 『**CDドラマコレクションズ 三國志**』（シーディー ドラマコレクションズ さんごくし）は、[ゲームメーカー](https://ja.wikipedia.org/wiki/ゲームメーカー "wikilink")の[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）が、自社の作品『[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")』にちなんで[1992年](../Page/1992年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて製作・発売した[サウンドドラマCDシリーズの総称](../Page/ラジオドラマ.md "wikilink")。

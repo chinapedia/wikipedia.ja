@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR西日本交通サービス](https://ja.wikipedia.org/wiki/JR西日本交通サービス)から翻訳されています。
 
 
 **株式会社 JR西日本交通サービス**（ジェイアールにしにほんこうつうサービス、）は、[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")に本社を置く、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")の[子会社](../Page/子会社.md "wikilink")（[連結子会社](../Page/連結子会社.md "wikilink")）。 __TOC__{{-}}
@@ -26,13 +26,9 @@
 
 ## 業務委託駅
 
-  - [北陸本線](../Page/北陸本線.md "wikilink")
-
-      - [高月駅](https://ja.wikipedia.org/wiki/高月駅 "wikilink")（長浜市への簡易委託を当社に再委託\[1\]）
-
   - [琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")・[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[JR神戸線](../Page/JR神戸線.md "wikilink")（東海道本線・山陽本線）
 
-      - [米原駅](../Page/米原駅.md "wikilink")（お忘れ物承り所のみを受託）、[南彦根駅](https://ja.wikipedia.org/wiki/南彦根駅 "wikilink")、[河瀬駅](https://ja.wikipedia.org/wiki/河瀬駅 "wikilink")、[稲枝駅](https://ja.wikipedia.org/wiki/稲枝駅 "wikilink")、[安土駅](https://ja.wikipedia.org/wiki/安土駅 "wikilink")、[篠原駅](https://ja.wikipedia.org/wiki/篠原駅_\(滋賀県\) "wikilink")、[守山駅](https://ja.wikipedia.org/wiki/守山駅_\(滋賀県\) "wikilink")、[栗東駅](https://ja.wikipedia.org/wiki/栗東駅 "wikilink")、[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")（地下東口・八条東口・西洞院口・鉄道案内所・忘れ物センターのみを受託）、[島本駅](https://ja.wikipedia.org/wiki/島本駅 "wikilink")、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")（鉄道案内所・お忘れ物承り所のみを受託）、[さくら夙川駅](https://ja.wikipedia.org/wiki/さくら夙川駅 "wikilink")、[甲南山手駅](https://ja.wikipedia.org/wiki/甲南山手駅 "wikilink")、[須磨海浜公園駅](https://ja.wikipedia.org/wiki/須磨海浜公園駅 "wikilink")、[塩屋駅](https://ja.wikipedia.org/wiki/塩屋駅_\(兵庫県\) "wikilink")、[西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")（忘れ物承り所のみ受託）、[魚住駅](https://ja.wikipedia.org/wiki/魚住駅 "wikilink")、[曽根駅](https://ja.wikipedia.org/wiki/曽根駅_\(兵庫県\) "wikilink")、[ひめじ別所駅](https://ja.wikipedia.org/wiki/ひめじ別所駅 "wikilink")、[東姫路駅](https://ja.wikipedia.org/wiki/東姫路駅 "wikilink")、[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")（忘れ物センター・中央口みどりの窓口み受託）、
+      - [米原駅](../Page/米原駅.md "wikilink")（お忘れ物承り所のみを受託）、[南彦根駅](https://ja.wikipedia.org/wiki/南彦根駅 "wikilink")、[河瀬駅](https://ja.wikipedia.org/wiki/河瀬駅 "wikilink")、[稲枝駅](https://ja.wikipedia.org/wiki/稲枝駅 "wikilink")、[安土駅](https://ja.wikipedia.org/wiki/安土駅 "wikilink")、[能登川駅](https://ja.wikipedia.org/wiki/能登川駅 "wikilink")、[篠原駅](https://ja.wikipedia.org/wiki/篠原駅_\(滋賀県\) "wikilink")、[守山駅](https://ja.wikipedia.org/wiki/守山駅_\(滋賀県\) "wikilink")、[栗東駅](https://ja.wikipedia.org/wiki/栗東駅 "wikilink")、[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")（地下東口・八条東口・西洞院口・鉄道案内所・忘れ物センターのみを受託）、[島本駅](https://ja.wikipedia.org/wiki/島本駅 "wikilink")、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")（鉄道案内所・お忘れ物承り所のみを受託）、[さくら夙川駅](https://ja.wikipedia.org/wiki/さくら夙川駅 "wikilink")、[甲南山手駅](https://ja.wikipedia.org/wiki/甲南山手駅 "wikilink")、[須磨海浜公園駅](https://ja.wikipedia.org/wiki/須磨海浜公園駅 "wikilink")、[塩屋駅](https://ja.wikipedia.org/wiki/塩屋駅_\(兵庫県\) "wikilink")、[西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")（忘れ物承り所のみ受託）、[魚住駅](https://ja.wikipedia.org/wiki/魚住駅 "wikilink")、[曽根駅](https://ja.wikipedia.org/wiki/曽根駅_\(兵庫県\) "wikilink")、[ひめじ別所駅](https://ja.wikipedia.org/wiki/ひめじ別所駅 "wikilink")、[東姫路駅](https://ja.wikipedia.org/wiki/東姫路駅 "wikilink")、[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")（忘れ物センター・中央口みどりの窓口み受託）、
 
   - [山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")
 
@@ -52,7 +48,7 @@
 
   - [奈良線](../Page/奈良線.md "wikilink")
 
-      - [東福寺駅](../Page/東福寺駅.md "wikilink")、[稲荷駅](../Page/稲荷駅.md "wikilink")、[JR藤森駅](../Page/JR藤森駅.md "wikilink")、[桃山駅](../Page/桃山駅.md "wikilink")、[木幡駅](../Page/木幡駅_\(JR西日本\).md "wikilink")、[黄檗駅](../Page/黄檗駅.md "wikilink")、[JR小倉駅](../Page/JR小倉駅.md "wikilink")、[新田駅](../Page/新田駅_\(京都府\).md "wikilink")、[城陽駅](../Page/城陽駅.md "wikilink")、[長池駅](../Page/長池駅.md "wikilink")、[山城青谷駅](../Page/山城青谷駅.md "wikilink")、[玉水駅](https://ja.wikipedia.org/wiki/玉水駅 "wikilink")
+      - [東福寺駅](../Page/東福寺駅.md "wikilink")、[稲荷駅](../Page/稲荷駅.md "wikilink")、[JR藤森駅](../Page/JR藤森駅.md "wikilink")、[桃山駅](../Page/桃山駅.md "wikilink")、[六地蔵駅](https://ja.wikipedia.org/wiki/六地蔵駅 "wikilink")、[木幡駅](../Page/木幡駅_\(JR西日本\).md "wikilink")、[黄檗駅](../Page/黄檗駅.md "wikilink")、[JR小倉駅](../Page/JR小倉駅.md "wikilink")、[新田駅](../Page/新田駅_\(京都府\).md "wikilink")、[城陽駅](../Page/城陽駅.md "wikilink")、[長池駅](../Page/長池駅.md "wikilink")、[山城青谷駅](../Page/山城青谷駅.md "wikilink")、[玉水駅](https://ja.wikipedia.org/wiki/玉水駅 "wikilink")
 
   - [嵯峨野線](https://ja.wikipedia.org/wiki/嵯峨野線 "wikilink")(山陰本線)
 
@@ -122,5 +118,3 @@
   - [JRおでかけネット](https://www.jr-odekake.net/)
 
 [Category:日本の鉄道関連業務受託会社](https://ja.wikipedia.org/wiki/Category:日本の鉄道関連業務受託会社 "wikilink") [Category:尼崎市の企業](https://ja.wikipedia.org/wiki/Category:尼崎市の企業 "wikilink") [Category:JR西日本グループ](https://ja.wikipedia.org/wiki/Category:JR西日本グループ "wikilink") [Category:1979年設立の企業](https://ja.wikipedia.org/wiki/Category:1979年設立の企業 "wikilink")
-
-1.   長浜市、平成28年（平成29年5月20日閲覧）。

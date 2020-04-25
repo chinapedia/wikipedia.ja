@@ -1,4 +1,4 @@
-> この記事は[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE)から翻訳されています。
+> この記事は[DEATH NOTEの登場人物](https://ja.wikipedia.org/wiki/DEATH_NOTEの登場人物)から翻訳されています。
 
 
 [原作](../Page/原作.md "wikilink") - [大場つぐみ](../Page/大場つぐみ.md "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink") - [小畑健](../Page/小畑健.md "wikilink")の作品『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』の登場人物について述べる。

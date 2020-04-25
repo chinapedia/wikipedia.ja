@@ -1,4 +1,4 @@
-> この記事は[MIDI](https://ja.wikipedia.org/wiki/MIDI)から翻訳されています。
+> この記事は[MIDI検定](https://ja.wikipedia.org/wiki/MIDI検定)から翻訳されています。
 
 
 **MIDI検定**（みでぃけんてい）とは、社団法人[音楽電子事業協会](https://ja.wikipedia.org/wiki/音楽電子事業協会 "wikilink")が主催する[検定](https://ja.wikipedia.org/wiki/検定 "wikilink")試験である。

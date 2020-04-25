@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SDクラブ](https://ja.wikipedia.org/wiki/SDクラブ)から翻訳されています。
 
 
 『**SDクラブ**』（第1～7号）『**SD CLUB**』（第8号～）（エスディー・クラブ）は、[バンダイ](../Page/バンダイ.md "wikilink")より刊行されていた[アンソロジーコミック](../Page/アンソロジーコミック.md "wikilink")集。1988～1991年までに計20巻が発行された。

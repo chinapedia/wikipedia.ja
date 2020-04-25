@@ -1,4 +1,4 @@
-> この記事は[ FSPORT HOKKAIDO](https://ja.wikipedia.org/wiki/_FSPORT_HOKKAIDO)から翻訳されています。
+> この記事は[スポーツワイド Fの炎〜SPORT HOKKAIDO〜](https://ja.wikipedia.org/wiki/スポーツワイド_Fの炎〜SPORT_HOKKAIDO〜)から翻訳されています。
 
 
 **スポーツワイド Fの炎～SPORT HOKKAIDO～**（スポーツワイド エフのほのお・すぽると ほっかいどう）は、[北海道文化放送](../Page/北海道文化放送.md "wikilink")（uhb）にて[月曜深夜](../Page/月曜日.md "wikilink")（[火曜未明](../Page/火曜日.md "wikilink")）0時40分から1時30分まで放送されていた[スポーツ](../Page/スポーツ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
@@ -105,4 +105,4 @@
   - [スポーツワイド Fの炎 オフィシャルサイト](http://uhb.jp/program/official/f_flame/f_flame_top.html)
   - [スポーツワイド Fの炎～SPORT HOKKAIDO～オフィシャルブログ](http://blog.hokkaido-np.co.jp/fire-of-f/)
 
-[Category:北海道文化放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道文化放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:レラカムイ北海道](https://ja.wikipedia.org/wiki/Category:レラカムイ北海道 "wikilink")
+[Category:北海道文化放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道文化放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズの歴史](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズの歴史 "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:レラカムイ北海道](https://ja.wikipedia.org/wiki/Category:レラカムイ北海道 "wikilink")

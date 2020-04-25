@@ -1,4 +1,4 @@
-> この記事は[-WINGS](https://ja.wikipedia.org/wiki/-WINGS)から翻訳されています。
+> この記事は[日-WINGS](https://ja.wikipedia.org/wiki/日-WINGS)から翻訳されています。
 
 
 『**日-WINGS**』（ひ-ウィングス）は、[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の26作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

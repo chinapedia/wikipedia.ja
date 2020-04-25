@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!モバイル](https://ja.wikipedia.org/wiki/Yahoo!モバイル)から翻訳されています。
 
 
 **Yahoo\!モバイル**（ヤフーモバイル）は[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")向けの[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")以外の[Yahoo\!](../Page/Yahoo!.md "wikilink")でも、「Yahoo\! Mobile」の名称で同様のサービスがある。
@@ -75,7 +75,7 @@ Yahoo\! Japan IDを持っていれば[メールなどの個人ツール及び](.
       - Yahoo\!道路交通情報
       - Yahoo\!地図情報
       - Yahoo\!エリア検索
-      - [Yahoo\!翻訳](https://ja.wikipedia.org/wiki/Yahoo!翻訳 "wikilink")
+      - [Yahoo\!翻訳](../Page/Yahoo!翻訳.md "wikilink")
       - Yahoo\!路線情報
       - Yahoo\!地域情報
       - Yahoo\!電話帳

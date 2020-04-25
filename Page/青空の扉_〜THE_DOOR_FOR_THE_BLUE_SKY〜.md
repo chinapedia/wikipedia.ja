@@ -41,7 +41,7 @@
       -
         <small>（作詞・作曲：浜田省吾、編曲：水谷公生）</small>
     <!-- end list -->
-      - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発売された、[事務所の後輩である](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")[スピッツ等とコラボレーションした楽曲のアルバム](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")・バージョン。
+      - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発売された、[事務所の後輩である](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")[スピッツ等とコラボレーションした楽曲のアルバム](../Page/スピッツ_\(バンド\).md "wikilink")・バージョン。
 8.  **君がいるところが My sweet home**
       -
         <small>（作詞・作曲：浜田省吾、編曲：[古村敏比古](../Page/古村敏比古.md "wikilink")）</small>

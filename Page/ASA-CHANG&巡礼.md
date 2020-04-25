@@ -878,11 +878,11 @@ RZCM-46392:CD</p></td>
 
   - [ASA-CHANG&巡礼](http://www.junray.com/) - 公式ウェブサイト
 
-  - [ASA-CHANG Official Website](http://www.sonymusic.co.jp/Music/Info/asa-chang/) - ASA-CHANGの公式ウェブサイト
+  - [ASA-CHANG Official Website](https://www.sonymusic.co.jp/Music/Info/asa-chang/) - ASA-CHANGの公式ウェブサイト
 
   -
   -
-  - [Pitchfork](http://pitchfork.com/artists/142-asa-chang-junray/) - Pitchforkのレビュー
+  - [Pitchfork](https://pitchfork.com/artists/142-asa-chang-junray/) - Pitchforkのレビュー
 
   - [PUBLIC-IMAGE.ORG インタビュー](http://www.public-image.org/interview/2009/06/19/asa-chang.html)
 

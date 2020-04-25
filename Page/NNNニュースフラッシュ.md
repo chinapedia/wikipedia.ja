@@ -37,7 +37,7 @@
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")（1958年8月28日開局から）
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（日本テレビ系列となった1959年12月15日から、当時の放送エリアは[鳥取県](../Page/鳥取県.md "wikilink")のみ、1972年9月22日からは[島根県](../Page/島根県.md "wikilink")からの相互乗り入れ）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（1958年7月1日テレビ放送開始から）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（1959年4月1日テレビ放送開始から）
+  - [山口放送](../Page/山口放送.md "wikilink")（1959年4月1日テレビ放送開始から）
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（1959年4月1日テレビ放送開始から）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（1958年12月1日テレビ放送開始から）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（1959年4月1日テレビ放送開始から）

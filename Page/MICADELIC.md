@@ -33,12 +33,12 @@
 
 ## 外部リンク
 
-  - [ダースレイダー Official Blog「一瞬一秒をFUNKしろ！ROCKしろ！爆破しろ！」](http://ameblo.jp/darthreider/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [ダースレイダー Official Blog「一瞬一秒をFUNKしろ！ROCKしろ！爆破しろ！」](https://ameblo.jp/darthreider/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   - [DJ OSHOW official](http://djoshow.sugarbitz.com/)
 
-  - [DJ オショウ official blog](http://ameblo.jp/djoshow/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [DJ オショウ official blog](https://ameblo.jp/djoshow/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   - [マイカデリック](http://www.jvcmusic.co.jp/-/Profile/A017367.html) - [Victor Entertainment](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")

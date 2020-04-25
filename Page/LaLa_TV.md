@@ -8,7 +8,7 @@
   - [ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")、[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")、[J:COM](../Page/ジュピターテレコム.md "wikilink")、[auひかり](https://ja.wikipedia.org/wiki/auひかり "wikilink")などで視聴可能である。視聴可能世帯数は約670万世帯（[2012年](../Page/2012年.md "wikilink")9月現在）。
   - [韓国ドラマ](../Page/韓国ドラマ.md "wikilink")、[海外ドラマ](../Page/海外ドラマ.md "wikilink")を中心とする海外の[テレビドラマ](../Page/テレビドラマ.md "wikilink")をはじめ、ライフスタイルや占い、ビューティー、[料理番組](../Page/料理番組.md "wikilink")など女性の生活に関する番組が多い。
   - [2007年](../Page/2007年.md "wikilink")4月より[J:COMなど一部のケーブルテレビでLaLa](../Page/ジュピターテレコム.md "wikilink") TVの[HDTV版である](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")「**LaLa HD**」（現・「女性チャンネル♪LaLa TV（HD）」）の放送を開始した。2008年4月より[JCNの一部放送局や](../Page/ジャパンケーブルネット.md "wikilink")、スカパー\!e2（現・スカパー\!）でも放送開始した。
-      - 2008年7月31日まではチャンネル名は「LaLa TV」のままだったが、放送中の[ロゴマークや](../Page/ロゴタイプ.md "wikilink")[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")は「LaLa HD」のものを使用。
+      - 2008年7月31日まではチャンネル名は「LaLa TV」のままだったが、放送中の[ロゴマークや](../Page/ロゴタイプ.md "wikilink")[アイキャッチ](../Page/アイキャッチ.md "wikilink")は「LaLa HD」のものを使用。
   - [2012年](../Page/2012年.md "wikilink")1月、チャンネル名を現在の「**女性チャンネル♪LaLa TV**」に変更。これに先立ち、2011年8月、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の[栗原美和子](../Page/栗原美和子.md "wikilink")がエグゼクティブプロデューサーに就任。フジテレビのCS放送「[フジテレビTWO](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")」とのコラボレーションを実施。これによって、フジテレビの過去の名作トレンディドラマの放送を開始。
 
 ## 沿革

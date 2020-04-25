@@ -85,4 +85,4 @@
 
   - [フロントミッションシリーズ公式サイト](http://www.square-enix.co.jp/fm/)
 
-[Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:イギリスを舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:イギリスを舞台としたコンピュータゲーム "wikilink") [Category:フロントミッション](https://ja.wikipedia.org/wiki/Category:フロントミッション "wikilink")
+[Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:イギリスを舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:イギリスを舞台としたコンピュータゲーム "wikilink") [Category:南アメリカを舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:南アメリカを舞台としたコンピュータゲーム "wikilink") [Category:フロントミッション](https://ja.wikipedia.org/wiki/Category:フロントミッション "wikilink")

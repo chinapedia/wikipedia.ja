@@ -48,12 +48,12 @@
   - 1946 シカゴ・バイキングFC
   - 1947 Ponta Delgada S.C.
   - 1948 Simpkins-Ford S.C.
+  - 1949 Morgan S.C.
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - 1949 Morgan S.C.
   - 1950 Simpkins-Ford S.C.
   - 1951 German Hungarian S.C.
   - 1952 Harmarville S.C.
@@ -88,13 +88,13 @@
   - 1981 Maccabee S.C.
   - 1982 N.Y. Pancyprian-Freedoms
   - 1983 N.Y. Pancyprian-Freedoms
+  - 1984 A.O. Krete
+  - 1985 グリークアメリカンAC
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - 1984 A.O. Krete
-  - 1985 グリークアメリカンAC
   - 1986 Kutis S.C.
   - 1987 クラブ・エスパーニャ
   - 1988 ブッシュSC
@@ -128,28 +128,169 @@
   - 2016 FCダラス(MLS)
   - 2017 スポルティング・カンザスシティ(MLS)
   - 2018 ヒューストン・ダイナモ（MLS）
-  - 2019 アトランタ・ユナイテッド（MLS）
+  - 2019 [アトランタ・ユナイテッドFC](https://ja.wikipedia.org/wiki/アトランタ・ユナイテッドFC "wikilink")（MLS）
 
 </div>
 
 ## MLSクラブ別成績
 
-| クラブ                                                                     | 優勝 | 準優勝 | 優勝年                    | 準優勝年             |
-| ----------------------------------------------------------------------- | -- | --- | ---------------------- | ---------------- |
-| [シカゴ・ファイアー](https://ja.wikipedia.org/wiki/シカゴ・ファイアー "wikilink")SC       | 4  | 2   | 1998, 2000, 2003, 2006 | 2004, 2011       |
-| [シアトル・サウンダーズFC](https://ja.wikipedia.org/wiki/シアトル・サウンダーズFC "wikilink") | 4  | 1   | 2009, 2010, 2011, 2014 | 2012             |
-| [スポルティング・カンザスシティ](../Page/スポルティング・カンザスシティ.md "wikilink")                | 4  | 0   | 2004, 2012, 2015, 2017 |                  |
-| [D.C. ユナイテッド](../Page/D.C._ユナイテッド.md "wikilink")                        | 3  | 2   | 1996, 2008, 2013       | 1997, 2009       |
-| [ロサンゼルス・ギャラクシー](../Page/ロサンゼルス・ギャラクシー.md "wikilink")                    | 2  | 2   | 2001, 2005             | 2002, 2006       |
-| [FCダラス](../Page/FCダラス.md "wikilink")                                    | 2  | 2   | 1997, 2016             | 2005, 2007       |
-| [ニューイングランド・レボリューション](../Page/ニューイングランド・レボリューション.md "wikilink")          | 1  | 2   | 2007                   | 2001, 2016       |
-| [コロンバス・クルー](../Page/コロンバス・クルー.md "wikilink")SC                          | 1  | 2   | 2002                   | 1998, 2010       |
-| [ヒューストン・ダイナモ](../Page/ヒューストン・ダイナモ.md "wikilink")                        | 1  | 0   | 2018                   |                  |
-| [フィラデルフィア・ユニオン](https://ja.wikipedia.org/wiki/フィラデルフィア・ユニオン "wikilink") | 0  | 3   |                        | 2014, 2015, 2018 |
-| [ニューヨーク・レッドブルズ](../Page/ニューヨーク・レッドブルズ.md "wikilink")                    | 0  | 2   |                        | 2003, 2017       |
-| [レアル・ソルトレイク](../Page/レアル・ソルトレイク.md "wikilink")                          | 0  | 1   |                        | 2013             |
-| *[マイアミ・フュージョン](../Page/マイアミ・フュージョン.md "wikilink")FC*                    | 0  | 1   |                        | 2000             |
-| [コロラド・ラピッズ](../Page/コロラド・ラピッズ.md "wikilink")                            | 0  | 1   |                        | 1999             |
+<table>
+<thead>
+<tr class="header">
+<th><p>クラブ</p></th>
+<th><p>優勝</p></th>
+<th><p>準優勝</p></th>
+<th><p>優勝年</p></th>
+<th><p>準優勝年</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ファイアー" title="wikilink">シカゴ・ファイアー</a>SC</p></td>
+<td><center>
+<p>4</p></td>
+<td><center>
+<p>2</p></td>
+<td><p>1998, 2000, 2003, 2006</p></td>
+<td><p>2004, 2011</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/シアトル・サウンダーズFC" title="wikilink">シアトル・サウンダーズFC</a></p></td>
+<td><center>
+<p>4</p></td>
+<td><center>
+<p>1</p></td>
+<td><p>2009, 2010, 2011, 2014</p></td>
+<td><p>2012</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/スポルティング・カンザスシティ.md" title="wikilink">スポルティング・カンザスシティ</a></p></td>
+<td><center>
+<p>4</p></td>
+<td><center>
+<p>0</p></td>
+<td><p>2004, 2012, 2015, 2017</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/D.C._ユナイテッド.md" title="wikilink">D.C. ユナイテッド</a></p></td>
+<td><center>
+<p>3</p></td>
+<td><center>
+<p>2</p></td>
+<td><p>1996, 2008, 2013</p></td>
+<td><p>1997, 2009</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/FCダラス.md" title="wikilink">FCダラス</a></p></td>
+<td><center>
+<p>2</p></td>
+<td><center>
+<p>2</p></td>
+<td><p>1997, 2016</p></td>
+<td><p>2005, 2007</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ロサンゼルス・ギャラクシー.md" title="wikilink">ロサンゼルス・ギャラクシー</a></p></td>
+<td><center>
+<p>2</p></td>
+<td><center>
+<p>2</p></td>
+<td><p>2001, 2005</p></td>
+<td><p>2002, 2006</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ニューイングランド・レボリューション.md" title="wikilink">ニューイングランド・レボリューション</a></p></td>
+<td><center>
+<p>1</p></td>
+<td><center>
+<p>2</p></td>
+<td><p>2007</p></td>
+<td><p>2001, 2016</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/コロンバス・クルー.md" title="wikilink">コロンバス・クルー</a>SC</p></td>
+<td><center>
+<p>1</p></td>
+<td><center>
+<p>2</p></td>
+<td><p>2002</p></td>
+<td><p>1998, 2010</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ユナイテッドFC" title="wikilink">アトランタ・ユナイテッドFC</a></p></td>
+<td><center>
+<p>1</p></td>
+<td><center>
+<p>0</p></td>
+<td><p>2019</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ヒューストン・ダイナモ.md" title="wikilink">ヒューストン・ダイナモ</a></p></td>
+<td><center>
+<p>1</p></td>
+<td><center>
+<p>0</p></td>
+<td><p>2018</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・ユニオン" title="wikilink">フィラデルフィア・ユニオン</a></p></td>
+<td><center>
+<p>0</p></td>
+<td><center>
+<p>3</p></td>
+<td></td>
+<td><p>2014, 2015, 2018</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/ニューヨーク・レッドブルズ.md" title="wikilink">ニューヨーク・レッドブルズ</a></p></td>
+<td><center>
+<p>0</p></td>
+<td><center>
+<p>2</p></td>
+<td></td>
+<td><p>2003, 2017</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ユナイテッドFC" title="wikilink">ミネソタ・ユナイテッドFC</a></p></td>
+<td><center>
+<p>0</p></td>
+<td><center>
+<p>1</p></td>
+<td></td>
+<td><p>2019</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/レアル・ソルトレイク.md" title="wikilink">レアル・ソルトレイク</a></p></td>
+<td><center>
+<p>0</p></td>
+<td><center>
+<p>1</p></td>
+<td></td>
+<td><p>2013</p></td>
+</tr>
+<tr class="odd">
+<td><p><em><a href="../Page/マイアミ・フュージョン.md" title="wikilink">マイアミ・フュージョン</a>FC</em></p></td>
+<td><center>
+<p>0</p></td>
+<td><center>
+<p>1</p></td>
+<td></td>
+<td><p>2000</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/コロラド・ラピッズ.md" title="wikilink">コロラド・ラピッズ</a></p></td>
+<td><center>
+<p>0</p></td>
+<td><center>
+<p>1</p></td>
+<td></td>
+<td><p>1999</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 関連項目
 

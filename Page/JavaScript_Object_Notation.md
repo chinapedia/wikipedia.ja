@@ -82,7 +82,7 @@ output
 
 RFC 8259より、閉じられたエコシステムで利用する場合を除き、文字コードは[UTF-8](../Page/UTF-8.md "wikilink")でエンコードすることが必須 (MUST) となっている。ネットワークでJSONを送信する場合は、[バイトオーダーマーク](https://ja.wikipedia.org/wiki/バイトオーダーマーク "wikilink")を先頭に付加してはいけない (MUST NOT)。
 
-過去のIETFの仕様では、JSONテキストは[Unicode](../Page/Unicode.md "wikilink")でエンコードするとされていた (SHALL)。デフォルトのエンコーディングはUTF-8であった。なお、単独の文字列でない限り最初の2文字は必ず[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字であるので、最初の4バイトを見ることにより、UTF-8、UTF-16LE、UTF-16BE、UTF-32LE、UTF-32BEのいずれの形式でエンコードされているか判別できた。
+過去のIETFの仕様では、JSONテキストは[Unicode](../Page/Unicode.md "wikilink")でエンコードするとされていた (SHALL)。デフォルトのエンコーディングはUTF-8であった。なお、単独の文字列でない限り最初の2文字は必ず[ASCII](../Page/ASCII.md "wikilink")文字であるので、最初の4バイトを見ることにより、UTF-8、UTF-16LE、UTF-16BE、UTF-32LE、UTF-32BEのいずれの形式でエンコードされているか判別できた。
 
 ## AjaxにおけるJSONの利用
 

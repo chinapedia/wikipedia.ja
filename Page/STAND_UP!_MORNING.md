@@ -3,17 +3,17 @@
 
 **STAND UP\! MORNING**（スタンド・アップ・モーニング、通称：**スタモニ**）は、[エフエム福岡](../Page/エフエム福岡.md "wikilink")で[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
-7年放送されてきた『[椎葉ユウmorninGroovy](../Page/椎葉ユウmorninGroovy.md "wikilink")』の後継ぎ番組。
+## 概要
 
-2009年10月からは土曜日まで放送されるようになり、全国でも珍しく月〜土の帯番組となった。
-それにより、月〜木は「**STAND UP\! MORNING ― スタモニ ―**」として、金・土は「**STAND UP\! MORNING ― スタモニ・ウィークエンドエディション ―**」として、放送されていた。
+1999年4月から7年放送されてきた『[椎葉ユウmorninGroovy](../Page/椎葉ユウmorninGroovy.md "wikilink")』の後継ぎ番組。
 
-2013年3月21日のエンディングにて、月末での番組終了が発表された。
-この改編をもって、土曜日の生放送は2019年4月の[Weekend more radio\!\!〜7サタ〜の開始まで消滅した](https://ja.wikipedia.org/wiki/Weekend_more_radio!! "wikilink")。また、平日に関しては6時台は昼番組を再編集した番組となったため、実質の後継ぎは7:30スタートに繰り上がった『[MORNING JAM](../Page/モーニングジャム.md "wikilink")』である。
+2009年10月からは土曜日まで放送されるようになり、全国でも珍しく月〜土の帯番組となっており、月〜木は「**STAND UP\! MORNING ― スタモニ ―**」として、金・土は「**STAND UP\! MORNING ― スタモニ・ウィークエンドエディション ―**」のタイトルで放送されていた。
+
+2013年3月21日のエンディングにて、月末での番組終了が発表。この番組の終了以降、FM福岡の6時台の生放送番組は放送されておらず、6時台は午後のワイド番組を再編集した番組となったため、実質の後継ぎは7:30スタートに繰り上がった『[MORNING JAM](../Page/モーニングジャム.md "wikilink")』となっている。また、土曜日の生放送番組も2019年4月の[Weekend more radio\!\!〜7サタ〜の開始まで行われていなかった](https://ja.wikipedia.org/wiki/Weekend_more_radio!! "wikilink")。
 
 ## 放送時間
 
-  - 月〜金　6:00 - 8:00
+  - 平日　6:00 - 8:00
   - 土曜　7:00 - 8:30（2009年9月まで放送されていた「[SATURDAY MORNING EYE](https://ja.wikipedia.org/wiki/SATURDAY_MORNING_EYE "wikilink")」の後継）
 
 ## パーソナリティ

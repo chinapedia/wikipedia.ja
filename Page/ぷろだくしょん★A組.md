@@ -63,7 +63,7 @@
 
   - [荒川太朗](../Page/荒川太朗.md "wikilink")（[フリー転向後に死去](../Page/フリーランス.md "wikilink")）
   - [安齋龍太](../Page/安齋龍太.md "wikilink")（現所属：[リマックス](../Page/リマックス.md "wikilink")）
-  - [伊井篤史](../Page/伊井篤史.md "wikilink")（現所属：[アーツビジョン](../Page/アーツビジョン.md "wikilink")）
+  - [伊井篤史](../Page/伊井篤史.md "wikilink")（[アーツビジョン](../Page/アーツビジョン.md "wikilink")に移籍後死去）
   - [井上文彦](../Page/井上文彦.md "wikilink")（現所属：[リマックス](../Page/リマックス.md "wikilink")）
   - [大竹宏](../Page/大竹宏.md "wikilink")（現所属：[81プロデュース](../Page/81プロデュース.md "wikilink")）
   - [大塚智則](https://ja.wikipedia.org/wiki/大塚智則 "wikilink")（現所属：リンク・エンタテインメンツ）

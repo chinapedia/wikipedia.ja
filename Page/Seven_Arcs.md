@@ -238,7 +238,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.7arcs.co.jp/)
+  - [公式サイト](https://www.7arcs.co.jp/)
 
 [Category:セブン・アークス](https://ja.wikipedia.org/wiki/Category:セブン・アークス "wikilink") [Category:日本のアニメスタジオ](https://ja.wikipedia.org/wiki/Category:日本のアニメスタジオ "wikilink") [Category:TBSグループ](https://ja.wikipedia.org/wiki/Category:TBSグループ "wikilink") [Category:練馬区の企業](https://ja.wikipedia.org/wiki/Category:練馬区の企業 "wikilink") [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink")
 

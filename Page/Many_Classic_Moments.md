@@ -30,7 +30,7 @@ song+nation featuring globe名義で同年[3月6日](https://ja.wikipedia.org/wi
 
 ## カバー
 
-[2015年](../Page/2015年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")リリースのV.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』で[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")がカバーし収録\[1\]。同曲は後に翌[2016年](../Page/2016年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")リリースの浜崎あゆみのオリジナルアルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』にも再収録される。
+[2015年](../Page/2015年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")リリースのV.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』で[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")がカバーし収録\[1\]。同曲は後に翌[2016年](../Page/2016年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")リリースの浜崎あゆみのオリジナルアルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』にも再収録される。
 
 ## Many Classic Moments Remix
 

@@ -327,7 +327,7 @@
 
 ## 外部リンク
 
-  - [ROMANCREWオフィシャルブログ「R.O.blog」](http://ameblo.jp/r-o-blog) - 公式ブログ
+  - [ROMANCREWオフィシャルブログ「R.O.blog」](https://ameblo.jp/r-o-blog) - 公式ブログ
 
   -
   -

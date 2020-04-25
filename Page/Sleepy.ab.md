@@ -671,7 +671,7 @@ SLP-1006/1007(web限定盤)</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/若者のすべて_(フジファブリックの曲)" title="wikilink">若者のすべて</a> / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li>キャラメルフレーバー / <a href="https://ja.wikipedia.org/wiki/sister_jet" title="wikilink">sister jet</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/アカシア_(レミオロメンの曲)" title="wikilink">アカシア</a> / <a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
-<li><a href="../Page/渚_(曲).md" title="wikilink">渚</a> / <a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
+<li><a href="../Page/渚_(曲).md" title="wikilink">渚</a> / <a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a></li>
 <li>ほし / <a href="https://ja.wikipedia.org/wiki/曽我部恵一BAND" title="wikilink">曽我部恵一BAND</a></li>
 <li><strong>sonar / sleepy.ab</strong></li>
 <li>Pretty Little Darling / <a href="https://ja.wikipedia.org/wiki/大橋トリオ" title="wikilink">大橋トリオ</a></li>

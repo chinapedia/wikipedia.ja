@@ -17,7 +17,10 @@
 
   - [2003年](../Page/2003年.md "wikilink")にリリースした1stシングル「[view](https://ja.wikipedia.org/wiki/view_\(曲\) "wikilink")」のアナログ盤。
   - 自身が立ち上げたアナログ専門レーベル「KU-KAN RECORDS」からの第一弾リリース作品\[3\]。
+  - 完全限定盤。
+  - 33回転仕様。
   - 「[冬の口笛/弦楽四重奏のための『ドーシタトースター』](https://ja.wikipedia.org/wiki/冬の口笛_#7inchアナログ盤 "wikilink")」、「[全力少年/さみしくとも明日を待つ](https://ja.wikipedia.org/wiki/全力少年_#7inchアナログ盤 "wikilink")」、「[青春/東京](https://ja.wikipedia.org/wiki/青春_\(スキマスイッチの曲\)_#7inchアナログ盤 "wikilink")」との同時リリース。
+  - 2020年2月～9月にリリースされた全25タイトルの「特典引換券」を集めて送ることで7インチ収納BOXがプレゼントされる。
 
 ### 収録曲
 

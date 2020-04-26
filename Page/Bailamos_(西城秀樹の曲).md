@@ -1,4 +1,4 @@
-> この記事は[Bailamos \(\)](https://ja.wikipedia.org/wiki/Bailamos_\(\))から翻訳されています。
+> この記事は[Bailamos \(西城秀樹の曲\)](https://ja.wikipedia.org/wiki/Bailamos_\(西城秀樹の曲\))から翻訳されています。
 
 
 『**Bailamos**- Tonight we dance -』（ばいらもす）は、1999年11月にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の80枚目のシングルである。[エンリケ・イグレシアス](../Page/エンリケ・イグレシアス.md "wikilink")の原曲『[バイラモス](https://ja.wikipedia.org/wiki/バイラモス "wikilink")』のカバーとなる作品で、[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")の出場曲となる。[ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（[ユニバーサル・ポリドールレーベル](https://ja.wikipedia.org/wiki/ポリドール・レコード#ポリグラム株式会社 "wikilink")）移籍後の初のシングル。

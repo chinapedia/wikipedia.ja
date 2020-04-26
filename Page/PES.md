@@ -178,7 +178,7 @@ WPCL-11198:通常盤</p></td>
   - WORD CUP '96 feat. ROCK-TEE/CRAZY-A/MC仁義/KENSEI/GAKU/SHIRO/KIN/PESSY PES/RADICAL FREAKS/BY PHAR THE DOPEST
       - DOHZI-T & DJ BASS『蜃気楼』収録
   - Two of us "rub delight mix"
-      - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")』収録
+      - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")『[ayu-mi-x](https://ja.wikipedia.org/wiki/ayu-mi-x "wikilink")』収録
   - 野生の証明 (PES REMIX)
       - [RHYMESTER](../Page/RHYMESTER.md "wikilink")『リスペクト改』収録
   - MORE FUN? (DJ FUMIYA UP ROCK FUNK MIX)

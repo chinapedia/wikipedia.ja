@@ -1,4 +1,4 @@
-> この記事は[Moment \(\)](https://ja.wikipedia.org/wiki/Moment_\(\))から翻訳されています。
+> この記事は[Moment \(西城秀樹の曲\)](https://ja.wikipedia.org/wiki/Moment_\(西城秀樹の曲\))から翻訳されています。
 
 
 「**moment**」（モーメント）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の76枚目のシングルである。
@@ -18,4 +18,4 @@
 
   - [1997年の音楽](../Page/1997年の音楽.md "wikilink")
 
-[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:松井五郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松井五郎が制作した楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_も](https://ja.wikipedia.org/wiki/Category:楽曲_も "wikilink") [Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:松井五郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松井五郎が制作した楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_も](https://ja.wikipedia.org/wiki/Category:楽曲_も "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")

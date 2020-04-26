@@ -1,4 +1,4 @@
-> この記事は[Doa](https://ja.wikipedia.org/wiki/Doa)から翻訳されています。
+> この記事は[Doaプロダクション](https://ja.wikipedia.org/wiki/Doaプロダクション)から翻訳されています。
 
 
 **株式会社Doaプロダクション**（ディーオーエー プロダクション）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。主に[声優](../Page/声優.md "wikilink")のマネージメントを行っていた。

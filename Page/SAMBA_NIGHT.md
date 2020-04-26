@@ -54,4 +54,4 @@
 
   - [「SAMBA NIGHT」スペシャルページ](http://www.aiko-k.net/sl15/index.html)
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:北原愛子の楽曲](https://ja.wikipedia.org/wiki/Category:北原愛子の楽曲 "wikilink") [Category:放送番組の主題歌](https://ja.wikipedia.org/wiki/Category:放送番組の主題歌 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:北原愛子の楽曲](https://ja.wikipedia.org/wiki/Category:北原愛子の楽曲 "wikilink") [Category:放送番組の主題歌](https://ja.wikipedia.org/wiki/Category:放送番組の主題歌 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")

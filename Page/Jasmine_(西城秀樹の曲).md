@@ -1,4 +1,4 @@
-> この記事は[Jasmine \(\)](https://ja.wikipedia.org/wiki/Jasmine_\(\))から翻訳されています。
+> この記事は[Jasmine \(西城秀樹の曲\)](https://ja.wikipedia.org/wiki/Jasmine_\(西城秀樹の曲\))から翻訳されています。
 
 
 「**Jasmine**」（ジャスミン）は、2001年5月23日にリリースされた[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の83枚目のシングルである。

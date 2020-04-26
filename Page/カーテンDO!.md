@@ -1,4 +1,4 @@
-> この記事は[DO!](https://ja.wikipedia.org/wiki/DO!)から翻訳されています。
+> この記事は[カーテンDO!](https://ja.wikipedia.org/wiki/カーテンDO!)から翻訳されています。
 
 
 **カーテンDO\!**（カーテンドゥ）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区に本社を置いていたインテリア用品店](../Page/中央区_\(神戸市\).md "wikilink")。法人としては株式会社ジパング。

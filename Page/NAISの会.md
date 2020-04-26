@@ -1,4 +1,4 @@
-> この記事は[NAIS](https://ja.wikipedia.org/wiki/NAIS)から翻訳されています。
+> この記事は[NAISの会](https://ja.wikipedia.org/wiki/NAISの会)から翻訳されています。
 
 
 **NAISの会**（ナイスのかい）は、[自由民主党に所属する](../Page/自由民主党_\(日本\).md "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員4名が[1999年](../Page/1999年.md "wikilink")頃に結成した政策研究グループであり、名前は[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記した際の4人の頭文字 (Nemoto, Abe, Ishihara, Shiozaki) に由来する\[1\]\[2\]\[3\]。安倍の代わりに[渡辺喜美](../Page/渡辺喜美.md "wikilink")を入れた[四騎の会](../Page/四騎の会.md "wikilink")というグループも存在する。

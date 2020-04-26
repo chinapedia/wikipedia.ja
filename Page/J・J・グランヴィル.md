@@ -27,7 +27,7 @@
   -
 [oc:Grandville](https://ja.wikipedia.org/wiki/oc:Grandville "wikilink")
 
-[Category:19世紀フランスの画家](https://ja.wikipedia.org/wiki/Category:19世紀フランスの画家 "wikilink") [Category:19世紀フランスのイラストレーター](https://ja.wikipedia.org/wiki/Category:19世紀フランスのイラストレーター "wikilink") [Category:風刺画家](https://ja.wikipedia.org/wiki/Category:風刺画家 "wikilink") [Category:ナンシー出身の人物](https://ja.wikipedia.org/wiki/Category:ナンシー出身の人物 "wikilink") [Category:19世紀の画家](https://ja.wikipedia.org/wiki/Category:19世紀の画家 "wikilink") [Category:1803年生](https://ja.wikipedia.org/wiki/Category:1803年生 "wikilink") [Category:1847年没](https://ja.wikipedia.org/wiki/Category:1847年没 "wikilink")
+[Category:19世紀フランスの画家](https://ja.wikipedia.org/wiki/Category:19世紀フランスの画家 "wikilink") [Category:19世紀フランスのイラストレーター](https://ja.wikipedia.org/wiki/Category:19世紀フランスのイラストレーター "wikilink") [Category:風刺画家](https://ja.wikipedia.org/wiki/Category:風刺画家 "wikilink") [Category:ナンシー出身の人物](https://ja.wikipedia.org/wiki/Category:ナンシー出身の人物 "wikilink") [Category:1803年生](https://ja.wikipedia.org/wiki/Category:1803年生 "wikilink") [Category:1847年没](https://ja.wikipedia.org/wiki/Category:1847年没 "wikilink")
 
 1.
 2.

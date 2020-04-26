@@ -1,4 +1,4 @@
-> この記事は[MGM-51 \(\)](https://ja.wikipedia.org/wiki/MGM-51_\(\))から翻訳されています。
+> この記事は[MGM-51 \(ミサイル\)](https://ja.wikipedia.org/wiki/MGM-51_\(ミサイル\))から翻訳されています。
 
 
 **MGM-51 シレイラ**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[フォードによって開発された](../Page/フォード・モーター.md "wikilink")[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")である。MGM-51は、通常の砲から発射できるように設計され、当初、[1960年代](../Page/1960年代.md "wikilink")-[1970年代](../Page/1970年代.md "wikilink")にかけての[装甲戦闘車両](../Page/装甲戦闘車両.md "wikilink")用の短距離、中距離、長距離攻撃システムのうち中距離部分を担うことを目的としたが、目的を達成する代わりにその設計思想の実現が困難であることが判明した。 __TOC__

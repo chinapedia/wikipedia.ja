@@ -1,7 +1,7 @@
 > この記事は[さざなみCD](https://ja.wikipedia.org/wiki/さざなみCD)から翻訳されています。
 
 
-『**さざなみCD**』（さざなみシーディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")12作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")に[ユニバーサルミュージックより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。レーベルは[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")。初回盤のみスリップ・ケース仕様。
+『**さざなみCD**』（さざなみシーディー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの通算](../Page/スピッツ_\(バンド\).md "wikilink")12作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")に[ユニバーサルミュージックより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。レーベルは[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")。初回盤のみスリップ・ケース仕様。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 
 ## 収録曲
 
-全作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") & [亀田誠治](../Page/亀田誠治.md "wikilink")、弦編曲:亀田誠治 (\#9,12)
+全作詞・作曲:[草野正宗](https://ja.wikipedia.org/wiki/草野正宗 "wikilink") / 編曲:[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") & [亀田誠治](../Page/亀田誠治.md "wikilink")、弦編曲:亀田誠治 (\#9,12)
 
 1.  **僕のギター** (3:18)
       -

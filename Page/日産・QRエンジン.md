@@ -44,6 +44,8 @@ QR20系は[SRエンジン](../Page/日産・SRエンジン.md "wikilink")、QR25
   - [ウイングロード](../Page/日産・ウイングロード.md "wikilink")（Y11）
   - [ティアナ](../Page/日産・ティアナ.md "wikilink")（[東風日産で生産される中国向け](https://ja.wikipedia.org/wiki/東風汽車有限公司 "wikilink")。日本仕様には設定なし）
   - [アトラス](../Page/日産・アトラス.md "wikilink")（F24）
+      - [UD・コンドル CARGO 1.15t〜1.5t](../Page/UD・コンドル.md "wikilink")（F24）
+      - [いすゞ・エルフ](../Page/いすゞ・エルフ.md "wikilink")100（F24）
   - [キャラバン](../Page/日産・キャラバン.md "wikilink")（E25後期）
   - [NV350キャラバン](../Page/日産・キャラバン.md "wikilink")（E26）
       - [いすゞ・コモ](../Page/いすゞ・コモ.md "wikilink")（E25後期/E26）

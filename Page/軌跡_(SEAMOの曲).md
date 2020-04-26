@@ -1,4 +1,4 @@
-> この記事は[ \(SEAMO\)](https://ja.wikipedia.org/wiki/_\(SEAMO\))から翻訳されています。
+> この記事は[軌跡 \(SEAMOの曲\)](https://ja.wikipedia.org/wiki/軌跡_\(SEAMOの曲\))から翻訳されています。
 
 
 「**軌跡**」（きせき）は、[SEAMO](../Page/SEAMO.md "wikilink")の8枚目のシングル。

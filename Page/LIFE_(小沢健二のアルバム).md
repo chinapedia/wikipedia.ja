@@ -1,4 +1,4 @@
-> この記事は[LIFE \(\)](https://ja.wikipedia.org/wiki/LIFE_\(\))から翻訳されています。
+> この記事は[LIFE \(小沢健二のアルバム\)](https://ja.wikipedia.org/wiki/LIFE_\(小沢健二のアルバム\))から翻訳されています。
 
 
 『**LIFE**』（ライフ）は、 [小沢健二](../Page/小沢健二.md "wikilink")の2枚目のアルバム。[1994年](../Page/1994年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[東芝EMIより発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。

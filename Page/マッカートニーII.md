@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[マッカートニーII](https://ja.wikipedia.org/wiki/マッカートニーII)から翻訳されています。
 
 
 **マッカートニーII** (**McCartney II**)は、[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")が[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に発表したアルバム。

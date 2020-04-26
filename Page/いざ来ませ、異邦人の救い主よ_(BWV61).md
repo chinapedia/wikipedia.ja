@@ -1,4 +1,4 @@
-> この記事は[ \(BWV61\)](https://ja.wikipedia.org/wiki/_\(BWV61\))から翻訳されています。
+> この記事は[いざ来ませ、異邦人の救い主よ \(BWV61\)](https://ja.wikipedia.org/wiki/いざ来ませ、異邦人の救い主よ_\(BWV61\))から翻訳されています。
 
 
 『**いざ来ませ、異邦人の救い主よ**』(**Nun komm, der Heiden Heiland**)[BWV](../Page/バッハ作品主題目録番号.md "wikilink")61は、[ヨハン・ゼバスティアン・バッハ](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")が1714年12月2日の[待降節](https://ja.wikipedia.org/wiki/待降節 "wikilink")第1週の礼拝のために作曲した[教会カンタータ](../Page/教会カンタータ.md "wikilink")。全6曲からなり、地味なオーケストレーションではあるが、[ヴァイマル](../Page/ヴァイマル.md "wikilink")時代の代表曲として、また[教会暦](../Page/教会暦.md "wikilink")のトップを飾る曲として演奏機会が多い作品である。

@@ -1,4 +1,4 @@
-> この記事は[Jr](https://ja.wikipedia.org/wiki/Jr)から翻訳されています。
+> この記事は[男おばさんJr](https://ja.wikipedia.org/wiki/男おばさんJr)から翻訳されています。
 
 
 『**男おばさんJr.**』（おとこおばさんジュニア）とは、[2007年](../Page/2007年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")から2011年11月まで放送されていた[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")の番組『[フジアナスタジオ まる生](../Page/フジアナスタジオ_まる生.md "wikilink")』内のコーナーの名称、また同コーナーのMCのことを指す。別名『**まる生ハンサム部**』。

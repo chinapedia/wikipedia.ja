@@ -1,4 +1,4 @@
-> この記事は[ DIMGUIL ORIGINAL SOUND TRACK](https://ja.wikipedia.org/wiki/_DIMGUIL_ORIGINAL_SOUND_TRACK)から翻訳されています。
+> この記事は[ウィザードリィ 〜DIMGUIL〜 ORIGINAL SOUND TRACK](https://ja.wikipedia.org/wiki/ウィザードリィ_〜DIMGUIL〜_ORIGINAL_SOUND_TRACK)から翻訳されています。
 
 
 『**ウィザードリィ 〜DIMGUIL〜 ORIGINAL SOUND TRACK**』（ウィザードリィ ディンギル・オリジナル・サウンドトラック）は、[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ウィザードリィ 〜DIMGUIL〜](https://ja.wikipedia.org/wiki/ウィザードリィのシリーズ一覧#WIZ_DIMGUIL "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤。1999年8月18日に[東芝EMIよりリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink") ([CD](../Page/コンパクトディスク.md "wikilink"): TYCY-10020)。

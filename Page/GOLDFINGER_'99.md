@@ -40,13 +40,22 @@
   - [TBS系](../Page/TBSテレビ.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』1999年7月期エンディングテーマ（\#1）
   - TBS系[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")『[ヤマダ一家の辛抱](../Page/ヤマダ一家の辛抱.md "wikilink")』主題歌（\#1）
 
-## カバー
-
-  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")「[GOLDFINGER 2019](https://ja.wikipedia.org/wiki/GOLDFINGER_2019 "wikilink")」（2019年、17thアルバム『[re(CORD)](https://ja.wikipedia.org/wiki/re\(CORD\) "wikilink")』に収録。）\[3\]\[4\]
-
 ## エピソード
 
   - 1999年8月、プロモーションとして[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")にトラックを止め、警察に無届けで白昼ゲリラライブを敢行した。マスコミと野次馬が交差点に押し寄せたため、[交通渋滞](https://ja.wikipedia.org/wiki/交通渋滞 "wikilink")を引き起こしてしまい、[所属レコード会社の現場関係者ら](../Page/ソニー・ミュージックレコーズ.md "wikilink")6人が[道路交通法](../Page/道路交通法.md "wikilink")違反容疑で書類送検された。関係者も、郷の人気ぶりがまさかそこまでとは予想しておらず、思わぬ事態に発展。レコード会社のプロデューサーは懲役3月、執行猶予2年の判決を受けた。当事者の郷も警察の取り調べを受ける事態に発展した。郷はその後出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で「関係者並びに市民の皆様には多大なご迷惑をお掛けしました。」と謝罪した。
+
+## 倖田來未『GOLDFINGER 2019』
+
+「**GOLDFINGER 2019**」（ゴールドフィンガー 2019）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の5作目の配信限定シングル。[2019年](../Page/2019年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")に配信された。
+
+### 解説
+
+前作「[DO ME](https://ja.wikipedia.org/wiki/DO_ME "wikilink")」から約1か月ぶりのリリースである。[郷ひろみ](../Page/郷ひろみ.md "wikilink")の「[GOLDFINGER '99](../Page/GOLDFINGER_'99.md "wikilink")」のカバー（原曲は[リッキー・マーティン](../Page/リッキー・マーティン.md "wikilink")の「[リヴィン・ラ・ヴィダ・ロカ](https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ "wikilink")」）。
+
+### 楽曲
+
+1.  **GOLDFINGER 2019**
+      - 作詞・作曲：[Desmond Child](https://ja.wikipedia.org/wiki/デズモンド・チャイルド "wikilink")、[Draco Rosa](https://ja.wikipedia.org/wiki/ドラコ・ロサ "wikilink")／日本語詞：[康珍化](../Page/康珍化.md "wikilink")／編曲：[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
 
 ## 脚注
 
@@ -56,9 +65,7 @@
   - [1999年の音楽](../Page/1999年の音楽.md "wikilink")
   - [Get Real Love 〜GOLDFINGER'009](https://ja.wikipedia.org/wiki/Get_Real_Love_〜GOLDFINGER'009 "wikilink")（郷ひろみの第93弾シングル）
 
-[Category:郷ひろみの楽曲](https://ja.wikipedia.org/wiki/Category:郷ひろみの楽曲 "wikilink") [Category:康珍化が制作した楽曲](https://ja.wikipedia.org/wiki/Category:康珍化が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:TBS日曜劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS日曜劇場の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:郷ひろみの楽曲](https://ja.wikipedia.org/wiki/Category:郷ひろみの楽曲 "wikilink") [Category:康珍化が制作した楽曲](https://ja.wikipedia.org/wiki/Category:康珍化が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:TBS日曜劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS日曜劇場の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink")
 
 1.  [女性自身「『よろしく哀愁』『お嫁サンバ』郷ひろみのターニングポイント６曲」](http://jisin.jp/serial/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/21318)
 2.  [価格.com「『スーパーチャンプル』 2009年2月6日（金）放送内容」](http://kakaku.com/tv/channel=4/programID=6579/episodeID=224162/)
-3.
-4.

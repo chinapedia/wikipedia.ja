@@ -37,7 +37,7 @@
 
 <references/>
 
-[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink")
+[Category:BUMP_OF_CHICKENの楽曲](https://ja.wikipedia.org/wiki/Category:BUMP_OF_CHICKENの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
 
 1.  [MUSICA](../Page/MUSICA.md "wikilink")2007年10月号、およびその訂正記事[1](http://www.fact-mag.com/diary/2007/09/15.html#205202)
 2.  DROPS Special Issue「BUMP OF CHICKEN」（2007年12月19日発行）

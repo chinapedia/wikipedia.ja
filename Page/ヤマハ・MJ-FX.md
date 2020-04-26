@@ -1,4 +1,4 @@
-> この記事は[MJ-FX](https://ja.wikipedia.org/wiki/MJ-FX)から翻訳されています。
+> この記事は[ヤマハ・MJ-FX](https://ja.wikipedia.org/wiki/ヤマハ・MJ-FX)から翻訳されています。
 
 
 **ヤマハ・MJ-FX**（エムジェイ・エフエックス）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造している[マリンジェット](https://ja.wikipedia.org/wiki/マリンジェット "wikilink")の船種名。通称は**FX**。シリーズ車種として現在、排気量998ccの**MJ-FX Cruiser**と、同1052ccの**MJ-FX High Output**、その改造版であるMJ-FX Cruiser High Outputが製造されている。

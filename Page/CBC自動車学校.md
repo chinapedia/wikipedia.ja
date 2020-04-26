@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBC自動車学校](https://ja.wikipedia.org/wiki/CBC自動車学校)から翻訳されています。
 
 
 **有限会社CBC自動車学校**（シービーシーじどうしゃがっこう、*CBC DRIVING SCHOOL*）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区にある](../Page/西区_\(名古屋市\).md "wikilink")[愛知県公安委員会](https://ja.wikipedia.org/wiki/愛知県公安委員会 "wikilink")指定の[自動車学校を運営する企業である](../Page/自動車教習所.md "wikilink")。

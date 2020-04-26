@@ -1,4 +1,4 @@
-> この記事は[Windows ](https://ja.wikipedia.org/wiki/Windows_)から翻訳されています。
+> この記事は[Windows システム評価ツール](https://ja.wikipedia.org/wiki/Windows_システム評価ツール)から翻訳されています。
 
 
 **Windows システム評価ツール**（ウインドウズ システムひょうかツール、Windows System Assessment Tool, **WinSAT**）とは、[Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、[Windows 7](https://ja.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 8](https://ja.wikipedia.org/wiki/Windows_8 "wikilink")(8.1含む)および[Windows 10に搭載されている](https://ja.wikipedia.org/wiki/Windows_10 "wikilink")、システムの性能のチェックを行い、その結果を報告するツールである。

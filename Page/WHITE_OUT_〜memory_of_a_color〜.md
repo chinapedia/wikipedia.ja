@@ -1,4 +1,4 @@
-> この記事は[WHITE OUT memory of a color](https://ja.wikipedia.org/wiki/WHITE_OUT_memory_of_a_color)から翻訳されています。
+> この記事は[WHITE OUT 〜memory of a color〜](https://ja.wikipedia.org/wiki/WHITE_OUT_〜memory_of_a_color〜)から翻訳されています。
 
 
 「**WHITE OUT 〜memory of a color〜**」（ホワイトアウト〜メモリー オブ ア カラー〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[TETSU69の](https://ja.wikipedia.org/wiki/tetsuya "wikilink")4枚目のシングル。[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")の社内レーベルDREAM MACHINE内の自身の主宰レーベルSPROUSE。

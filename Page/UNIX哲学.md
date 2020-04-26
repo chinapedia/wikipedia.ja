@@ -1,4 +1,4 @@
-> この記事は[UNIX](https://ja.wikipedia.org/wiki/UNIX)から翻訳されています。
+> この記事は[UNIX哲学](https://ja.wikipedia.org/wiki/UNIX哲学)から翻訳されています。
 
 
 **UNIX哲学**とは、[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発に関する文化的な規範と哲学的アプローチのまとまりであり、[UNIX](../Page/UNIX.md "wikilink") [OSの開発者たちの](../Page/オペレーティングシステム.md "wikilink")[経験](../Page/経験.md "wikilink")に基づくものとされている。 その内容は、発言者によって異なるが、以下の点に留意が必要である。

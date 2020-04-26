@@ -1082,8 +1082,11 @@ Xbox 360も、他の次世代ゲーム機と同様に、ネットワーク経由
 
 ## 外部リンク
 
-  - [Xbox.com 日本](http://www.xbox.com/ja-JP/)
+  - [Xbox オフィシャルサイト](https://www.xbox.com/ja-JP/)
 
+  -
+  -
+  -
 [Category:Xbox](https://ja.wikipedia.org/wiki/Category:Xbox "wikilink") [Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:2000年代の玩具](https://ja.wikipedia.org/wiki/Category:2000年代の玩具 "wikilink")
 
 1.  Paul Thurrott、[リークされた「Xbox Next」のハードウエア仕様は本物か？](http://itpro.nikkeibp.co.jp/free/NT/NEWS/20040629/5/)、日経BP社、[2004年](../Page/2004年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")

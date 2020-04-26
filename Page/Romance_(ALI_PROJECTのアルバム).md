@@ -1,4 +1,4 @@
-> この記事は[Romance \(ALI PROJECT\)](https://ja.wikipedia.org/wiki/Romance_\(ALI_PROJECT\))から翻訳されています。
+> この記事は[Romance \(ALI PROJECTのアルバム\)](https://ja.wikipedia.org/wiki/Romance_\(ALI_PROJECTのアルバム\))から翻訳されています。
 
 
 『**Romance**』（ロマンス）は、[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink")と[片倉三起也](../Page/片倉三起也.md "wikilink")による日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[ALI PROJECTの](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")4枚目の[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アルバム。 [2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。

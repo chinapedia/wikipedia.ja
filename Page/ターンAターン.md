@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ターンAターン](https://ja.wikipedia.org/wiki/ターンAターン)から翻訳されています。
 
 
 「**ターンAターン**」（ターンエーターン）は、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の楽曲。彼の79枚目の[シングル](../Page/シングル.md "wikilink")として[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から発売された。
@@ -34,7 +34,7 @@
 
 {{∀ガンダム}}
 
-[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:井荻麟が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井荻麟が制作した楽曲 "wikilink") [Category:小林亜星が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小林亜星が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:井荻麟が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井荻麟が制作した楽曲 "wikilink") [Category:小林亜星が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小林亜星が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.
 2.

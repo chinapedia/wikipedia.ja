@@ -1,4 +1,4 @@
-> この記事は[3 \(doa\)](https://ja.wikipedia.org/wiki/3_\(doa\))から翻訳されています。
+> この記事は[3 \(doaのアルバム\)](https://ja.wikipedia.org/wiki/3_\(doaのアルバム\))から翻訳されています。
 
 
 『**3**』（スリー）は、[doaのメジャー](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。

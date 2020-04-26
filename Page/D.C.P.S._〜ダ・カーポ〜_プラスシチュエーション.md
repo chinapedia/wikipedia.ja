@@ -1,4 +1,4 @@
-> この記事は[D.C.P.S.  ](https://ja.wikipedia.org/wiki/D.C.P.S.__)から翻訳されています。
+> この記事は[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](https://ja.wikipedia.org/wiki/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション)から翻訳されています。
 
 
 『**D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション**』はPCゲーム『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』の[PS2用コンシューマー移植版である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")には廉価版『D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション KADOKAWA THE Best』が発売された。

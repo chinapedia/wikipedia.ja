@@ -1,4 +1,4 @@
-> この記事は[How many ](https://ja.wikipedia.org/wiki/How_many_)から翻訳されています。
+> この記事は[How many いい顔](https://ja.wikipedia.org/wiki/How_many_いい顔)から翻訳されています。
 
 
 『**How many いい顔**』（ハウ　メニー　いいかお）は、1980年7月にリリースされた[郷ひろみ](../Page/郷ひろみ.md "wikilink")の35枚目のシングルである。

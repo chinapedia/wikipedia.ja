@@ -1,4 +1,4 @@
-> この記事は[CB400FOUR](https://ja.wikipedia.org/wiki/CB400FOUR)から翻訳されています。
+> この記事は[ホンダ・ドリームCB400FOUR](https://ja.wikipedia.org/wiki/ホンダ・ドリームCB400FOUR)から翻訳されています。
 
 
 **DREAM CB400FOUR**（ドリームシービーよんひゃくフォア）は、かつて[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。。

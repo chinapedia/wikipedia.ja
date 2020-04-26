@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[ベントレー・コンチネンタルGT](https://ja.wikipedia.org/wiki/ベントレー・コンチネンタルGT)から翻訳されています。
 
 
 **コンチネンタルGT**（*Continental GT* ）、**コンチネンタルGTC**（*Continental GTC* ）、**コンチネンタル・スーパースポーツ**（*Continental Supersports* ）、**コンチネンタル・スーパースポーツコンバーチブル**（*Continental Supersports* Convertible ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー[ベントレー](../Page/ベントレー.md "wikilink")が販売する[高級車](../Page/高級車.md "wikilink")である。

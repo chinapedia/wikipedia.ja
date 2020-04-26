@@ -1,4 +1,4 @@
-> この記事は[ -Kaprekar Number 1.-](https://ja.wikipedia.org/wiki/_-Kaprekar_Number_1.-)から翻訳されています。
+> この記事は[カプレカ -Kaprekar Number 1.-](https://ja.wikipedia.org/wiki/カプレカ_-Kaprekar_Number_1.-)から翻訳されています。
 
 
 『**カプレカ -Kaprekar Number 1.-**』は、原作：[松本真](https://ja.wikipedia.org/wiki/松本真 "wikilink")・作画：[ネツマイカ](https://ja.wikipedia.org/wiki/ネツマイカ "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")』（[ジャイブ](../Page/ジャイブ.md "wikilink")）[2007年](../Page/2007年.md "wikilink")9月号から[2009年](../Page/2009年.md "wikilink")2月号まで連載された。単行本は全3巻。

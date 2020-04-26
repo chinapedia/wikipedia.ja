@@ -1,4 +1,4 @@
-> この記事は[ROBOROCK](https://ja.wikipedia.org/wiki/ROBOROCK)から翻訳されています。
+> この記事は[ROBO☆ROCK](https://ja.wikipedia.org/wiki/ROBO☆ROCK)から翻訳されています。
 
 
 『**ROBO☆ROCK**』（ロボ☆ロック）とは、[2007年](../Page/2007年.md "wikilink")11月23日公開の[日本映画](../Page/日本映画.md "wikilink")。[塩谷瞬](https://ja.wikipedia.org/wiki/塩谷瞬 "wikilink")主演の青春SFコメディ。監督は[須賀大観](../Page/須賀大観.md "wikilink")。ストーリーは監督オリジナルによるもの。

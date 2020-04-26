@@ -20,4 +20,4 @@
 
   - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
 
-[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:シライシ紗トリが制作した楽曲](https://ja.wikipedia.org/wiki/Category:シライシ紗トリが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:シライシ紗トリが制作した楽曲](https://ja.wikipedia.org/wiki/Category:シライシ紗トリが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

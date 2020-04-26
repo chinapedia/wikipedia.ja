@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[マナート・L・エベール](https://ja.wikipedia.org/wiki/マナート・L・エベール)から翻訳されています。
 
 
 **マナート・リンカーン・エベール**（Mannert Lincoln Abele, [1903年](../Page/1903年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - [1942年](../Page/1942年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")軍人。最終階級は[少佐](../Page/少佐.md "wikilink")。

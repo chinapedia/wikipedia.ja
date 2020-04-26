@@ -101,7 +101,7 @@
           -
             キャスター：[森拓磨](../Page/森拓磨.md "wikilink")（月-木曜）、[宮脇靖知](../Page/宮脇靖知.md "wikilink")（金曜）、[馬場のぶえ](../Page/馬場のぶえ.md "wikilink")
             ニュースキャスター:[長島清隆](../Page/長島清隆.md "wikilink")、[野口七海](../Page/野口七海.md "wikilink")（月-水曜）、[西名みずほ](../Page/西名みずほ.md "wikilink")（木曜・金曜）
-  - KRY [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - KRY [山口放送](../Page/山口放送.md "wikilink")
       - [KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")（月-金曜 18:15 - 19:00）
           -
             キャスター：[高橋良](https://ja.wikipedia.org/wiki/高橋良 "wikilink")、[徳田琴美](https://ja.wikipedia.org/wiki/徳田琴美 "wikilink")、

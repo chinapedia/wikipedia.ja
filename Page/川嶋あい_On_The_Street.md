@@ -49,38 +49,38 @@
 
 ## ネット局
 
-  - 現在\[1\]
+  - 現在
 
-2019年10月現在。放送時間は[JST](../Page/日本標準時.md "wikilink")。放送時間の早い順から記載。
+2020年4月現在。放送時間は[JST](../Page/日本標準時.md "wikilink")。放送時間の早い順から記載。
 
-| 放送対象地域                                              | 放送局名                                                       | 放送時間               | 備考    |
-| --------------------------------------------------- | ---------------------------------------------------------- | ------------------ | ----- |
-| [秋田県](../Page/秋田県.md "wikilink")                    | [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（ABS） | 毎週土曜 20:00 - 20:30 |       |
-| [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS） | 毎週日曜 17:30 - 17:45 | \[2\] |
-| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB） | 毎週日曜 18:30 - 19:00 | \[3\] |
-| [山口県](../Page/山口県.md "wikilink")                    | [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRY） | 毎週月曜 19:30 - 20:00 |       |
-|                                                     |                                                            |                    |       |
+| 放送対象地域                           | 放送局名                                                       | 放送時間               | 備考    |
+| -------------------------------- | ---------------------------------------------------------- | ------------------ | ----- |
+| [岩手県](../Page/岩手県.md "wikilink") | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                   | 毎週土曜 18:30 - 19:00 |       |
+| [秋田県](../Page/秋田県.md "wikilink") | [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（ABS） | 毎週土曜 20:00 - 20:30 |       |
+| [静岡県](../Page/静岡県.md "wikilink") | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS） | 毎週日曜 17:40 - 17:55 | \[1\] |
+| [山口県](../Page/山口県.md "wikilink") | [山口放送](../Page/山口放送.md "wikilink")（KRY）                    | 毎週日曜 22:30 - 23:00 | \[2\] |
+|                                  |                                                            |                    |       |
 
   - 過去
 
 <!-- end list -->
 
-  - [HBCラジオ](../Page/HBCラジオ.md "wikilink")（北海道放送）\[4\]
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")\[5\]
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [HBCラジオ](../Page/HBCラジオ.md "wikilink")（北海道放送）\[3\]
+  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")\[4\]
+  - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
-  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")\[6\]
+  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")\[5\]
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")
   - [茨城放送](../Page/茨城放送.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")\[7\]
+  - [信越放送](../Page/信越放送.md "wikilink")\[6\]
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
-  - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")\[8\]
+  - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")\[7\]
   - [ぎふチャン](../Page/岐阜放送ラジオ.md "wikilink")
-  - [ラジオ大阪](../Page/大阪放送.md "wikilink")\[9\]
+  - [ラジオ大阪](../Page/大阪放送.md "wikilink")\[8\]
 
 <!-- end list -->
 
@@ -91,12 +91,12 @@
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
-  - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")\[10\]
-  - [九州朝日放送](../Page/KBCラジオ.md "wikilink")\[11\]
+  - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")\[9\]
+  - [九州朝日放送](../Page/KBCラジオ.md "wikilink")\[10\]
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")\[12\]
+  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")\[11\]
 
 ## 使用曲・BGM
 
@@ -127,6 +127,7 @@
   - よかネー（2017年）
   - ワンダフル（2018年）
   - ゴーゴー（2019年）
+  - フレーワー（2020年）
 
 ## その他
 
@@ -144,15 +145,14 @@
 
 [Category:かしわプロダクション](https://ja.wikipedia.org/wiki/Category:かしわプロダクション "wikilink") [Category:ラジオの番販番組](https://ja.wikipedia.org/wiki/Category:ラジオの番販番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink")
 
-1.
-2.  2019年3月までは毎週土曜 16:30 - 17:00の放送。
-3.  2017年3月までは毎週土曜 17:30 - 17:45の放送。2017年4月から4月 - 9月の放送となる。10月 - 翌年3月の同時間は「[ラジオ寄席](../Page/ラジオ寄席.md "wikilink")」を放送。
-4.  北海道地区においては、先に（[NRN単独加盟局の](../Page/全国ラジオネットワーク.md "wikilink")）STVラジオがネットし、STVラジオが放送を打ち切った後は、HBCラジオがネットしていた。
-5.
-6.  2019年3月終了。
-7.  2016年3月終了。
-8.  2016年12月放送終了。
-9.  2019年4月放送開始、同年8月終了。
-10. 福岡地区においても、先に（NRN単独加盟局の）KBCラジオがネットし、KBCラジオが放送を打ち切った後は、RKBラジオがネットしていた。
-11.
-12. 番組表上では「白岳ミュージック&トーク」と記載されていた。
+1.  2019年3月までは毎週土曜 16:30 - 17:00、2019年4月から2020年3月まで17:30 - 17:45の放送。
+2.  2020年3月まで月曜 19:30 - 20:00の放送。
+3.  北海道地区においては、先に（[NRN単独加盟局の](../Page/全国ラジオネットワーク.md "wikilink")）STVラジオがネットし、STVラジオが放送を打ち切った後は、HBCラジオがネットしていた。
+4.
+5.  2019年3月終了。
+6.  2016年3月終了。
+7.  2016年12月放送終了。
+8.  2019年4月放送開始、同年8月終了。
+9.  福岡地区においても、先に（NRN単独加盟局の）KBCラジオがネットし、KBCラジオが放送を打ち切った後は、RKBラジオがネットしていた。
+10.
+11. 番組表上では「白岳ミュージック&トーク」と記載されていた。

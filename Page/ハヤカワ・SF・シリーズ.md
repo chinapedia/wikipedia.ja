@@ -12,7 +12,7 @@
   - [1974年](../Page/1974年.md "wikilink") 11月 - [ハリイ・ハリスン](../Page/ハリイ・ハリスン.md "wikilink")『殺意の惑星』が最後の刊行となる。
   - [1984年](../Page/1984年.md "wikilink") 11月 - ハヤカワ・SF・スペシャルとして[栗本薫](../Page/栗本薫.md "wikilink")『[火星の大統領カーター](../Page/火星の大統領カーター.md "wikilink")』がハヤカワ・SF・シリーズと同じ装丁で刊行される。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") 9月 - 早川書房創立50周年記念として、カート・シオドマク『ドノヴァンの脳髄』の第4版、[エリック・フランク・ラッセル](../Page/エリック・フランク・ラッセル.md "wikilink")『超生命[ヴァイトン](https://ja.wikipedia.org/wiki/ヴァイトン "wikilink")』（初版[1964年](../Page/1964年.md "wikilink")刊）の第6版、[ヒューゴー・ガーンズバック](../Page/ヒューゴー・ガーンズバック.md "wikilink")『[ラルフ124C41+](https://ja.wikipedia.org/wiki/ラルフ124C41+ "wikilink")』（初版[1966年](../Page/1966年.md "wikilink")刊）の第2版、[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")『[影が行く](https://ja.wikipedia.org/wiki/影が行く "wikilink")』（初版[1967年](../Page/1967年.md "wikilink")刊）の第2版が発行される。
-  - 「SFマガジン」2016年8月号で「ハヤカワSFシリーズ総解説」が特集される。
+  - 「[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")」2016年8月号で「ハヤカワSFシリーズ総解説」が特集される。
 
 ## 関連項目
 

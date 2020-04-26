@@ -37,4 +37,4 @@
 
   - [1994年の音楽](../Page/1994年の音楽.md "wikilink")
 
-[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:尾関昌也が制作した楽曲](https://ja.wikipedia.org/wiki/Category:尾関昌也が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

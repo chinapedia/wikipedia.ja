@@ -14,9 +14,9 @@
 ## 北海道・東北
 
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink")（uhb）
-      - [みんテレ](../Page/みんテレ.md "wikilink")■（月 - 金曜 16:48 - 19:00【ローカルニュース枠は18:14 - 19:00 ※プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
+      - [みんテレ](../Page/みんテレ.md "wikilink")■（月 - 金曜 16:48 - 19:00【ローカルニュース枠は17:12 - 17:53、18:14 - 18:50 ※プロ野球シーズン中は（野球中継をする日に限り）、18:14から野球中継をする】）
           -
-            キャスター：[八木隆太郎](https://ja.wikipedia.org/wiki/八木隆太郎 "wikilink")、お天気キャスター：[菅井貴子](https://ja.wikipedia.org/wiki/菅井貴子 "wikilink")
+            キャスター：[八木隆太郎](https://ja.wikipedia.org/wiki/八木隆太郎 "wikilink")、[千須和侑里子](https://ja.wikipedia.org/wiki/千須和侑里子 "wikilink")、お天気キャスター：[菅井貴子](https://ja.wikipedia.org/wiki/菅井貴子 "wikilink")
       - FNN Live News it\!■（土・日曜 17:30 - 18:00【ローカルニュース枠は土・日 17:48頃 - 18:00】）
           -
             キャスター：シフト勤務（土・日）
@@ -61,7 +61,7 @@
       - [NST News タッチ](../Page/NST_Newsタッチ.md "wikilink")（月 - 金曜 18:14 - 19:00）
           -
             キャスター：[杉本一機](https://ja.wikipedia.org/wiki/杉本一機 "wikilink")・[松村道子](../Page/松村道子.md "wikilink")、お天気キャスター：[清水祥太](https://ja.wikipedia.org/wiki/清水祥太 "wikilink")
-      - FNN・NST Live News it\!（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
+      - [FNN・NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（土・日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
             キャスター：シフト勤務
   - [長野放送](../Page/長野放送.md "wikilink")（NBS）
@@ -90,7 +90,7 @@
   - [石川テレビ](../Page/石川テレビ放送.md "wikilink")（ITC）
       - [石川さん Live News it\!](https://ja.wikipedia.org/wiki/石川さん_Live_News_it! "wikilink")（月 - 金曜 16:50 - 19:00【ローカルニュース枠は、18:14\[3\] - 18:50】、土曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
-            キャスター：[稲垣真一](../Page/稲垣真一.md "wikilink")・[河合莉菜](https://ja.wikipedia.org/wiki/河合莉菜 "wikilink")（月 - 金曜）
+            キャスター：[稲垣真一](../Page/稲垣真一.md "wikilink")・[河合莉菜](../Page/河合莉菜.md "wikilink")（月 - 金曜）
             キャスター：シフト勤務（土曜）
       - [FNN北陸中日新聞 日曜夕刊](../Page/中日新聞テレビ日曜夕刊.md "wikilink")（日曜 17:30 - 18:00【ローカルニュース枠は17:48頃 - 18:00】）
           -
@@ -157,10 +157,10 @@
   - [高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")（KSS）
       - [プライムこうち](https://ja.wikipedia.org/wiki/プライムこうち "wikilink")（月 - 木曜 18:14 - 18:50）
           -
-            キャスター：[藤尾悠](https://ja.wikipedia.org/wiki/藤尾悠 "wikilink")・[野村舞](../Page/野村舞.md "wikilink")（月・火）、[玉井新平](../Page/玉井新平.md "wikilink")・[正木麻由](https://ja.wikipedia.org/wiki/正木麻由 "wikilink")（水・木）
+            キャスター：[遠藤圭介](https://ja.wikipedia.org/wiki/遠藤圭介 "wikilink")・[野村舞](../Page/野村舞.md "wikilink")（月・火）、[藤尾悠](https://ja.wikipedia.org/wiki/藤尾悠 "wikilink")・[正木麻由](https://ja.wikipedia.org/wiki/正木麻由 "wikilink")（水・木）
       - [プライムこうちF](https://ja.wikipedia.org/wiki/プライムこうちF "wikilink")（金曜 15:50 - 19:00【ローカルニュース枠は18:14 - 18:50】）
           -
-            キャスター：玉井新平・[石井愛子](../Page/石井愛子.md "wikilink")
+            キャスター：[玉井新平](../Page/玉井新平.md "wikilink")・[石井愛子](../Page/石井愛子.md "wikilink")
       - FNN Live News it\!（土・日曜 17:30 - 17:55【ローカルニュース枠は17:48頃 - 17:55】）
           -
             キャスター：シフト勤務

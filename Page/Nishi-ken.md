@@ -2043,7 +2043,7 @@ Vol.009 背景コンビ</a>」</p></td>
   - [THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[116\]
   - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[117\]
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[118\]
-  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[119\]
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[119\]
   - [レオスタ](https://ja.wikipedia.org/wiki/レオスタ "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")）\[120\]
 
 ## その他

@@ -25,9 +25,10 @@
       - 放送時間：平日18:15 - 18:55（毎年5月上旬～7月上旬は[夏の高校野球岩手大会注目校紹介番組](../Page/夏の高校野球岩手大会実況中継.md "wikilink")「[純情応援歌](../Page/純情応援歌.md "wikilink")」放送のため18:48までに枠小）
   - KHB [東日本放送](../Page/東日本放送.md "wikilink")
       - 『[チャージ\!](https://ja.wikipedia.org/wiki/チャージ! "wikilink")』■
-      - キャスター：[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[重信友里](https://ja.wikipedia.org/wiki/重信友里 "wikilink")（月曜 - 水曜）、[野口ちひろ](https://ja.wikipedia.org/wiki/野口ちひろ "wikilink")（木曜・金曜）
-      - フィールドキャスター：[上野比呂企](https://ja.wikipedia.org/wiki/上野比呂企 "wikilink")
-      - 放送時間：平日16:45 - 19:00（ローカルニュース枠は16:45 - 16:50、17:36 - 17:53、18:15 - 19:00）
+      - メインキャスター：[上野比呂企](https://ja.wikipedia.org/wiki/上野比呂企 "wikilink") (月曜 - 木曜)、 [松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink") (金曜)、[野口ちひろ](https://ja.wikipedia.org/wiki/野口ちひろ "wikilink")（月曜 - 水曜）、[阿部美里](https://ja.wikipedia.org/wiki/阿部美里 "wikilink") (木曜・金曜）
+      - ニュースキャスター：[鈴木奏斗](https://ja.wikipedia.org/wiki/鈴木奏斗 "wikilink")
+      - リポーター： [重信友里](https://ja.wikipedia.org/wiki/重信友里 "wikilink")
+      - 放送時間：平日16:35 - 19:00（ローカルニュース枠は16:35 - 16:40、17:33 - 17:50、18:15 - 19:00）
   - AAB [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")
       - 『[スーパーJチャンネルトレタテ\!](https://ja.wikipedia.org/wiki/スーパーJチャンネルトレタテ! "wikilink")』■
       - キャスター：[高橋正和](https://ja.wikipedia.org/wiki/高橋正和 "wikilink")、[永井華子](https://ja.wikipedia.org/wiki/永井華子 "wikilink")
@@ -87,7 +88,7 @@
       - 放送時間：平日18:15 - 18:55（ローカルニュース枠は18:15 - 18:55）
   - KSB [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")
       - 『[KSBスーパーJチャンネル](../Page/KSBスーパーJチャンネル.md "wikilink")』■
-      - キャスター：[石井俊大](https://ja.wikipedia.org/wiki/石井俊大 "wikilink")、[白戸ゆめの](https://ja.wikipedia.org/wiki/白戸ゆめの "wikilink")（月曜-木曜）、[斎藤康之](https://ja.wikipedia.org/wiki/斎藤康之 "wikilink")、[松木梨菜](https://ja.wikipedia.org/wiki/松木梨菜 "wikilink")（金曜）
+      - キャスター：[赤木由布子](https://ja.wikipedia.org/wiki/赤木由布子 "wikilink")、[白戸ゆめの](https://ja.wikipedia.org/wiki/白戸ゆめの "wikilink")（月曜-木曜）、[斎藤康之](https://ja.wikipedia.org/wiki/斎藤康之 "wikilink")、[松木梨菜](https://ja.wikipedia.org/wiki/松木梨菜 "wikilink")（金曜）
       - 放送時間：平日16:45 - 18:55（ローカルニュース枠は16:45 - 16:50、18:15 - 18:55）
   - eat [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")
       - 『[スーパーJチャンネルえひめ](https://ja.wikipedia.org/wiki/スーパーJチャンネルえひめ "wikilink")』

@@ -29,7 +29,7 @@
 
 ## 背景
 
-我々の世界とは分岐した実際には起こらなかった歴史を歩んだもう一つの[1960年](../Page/1960年.md "wikilink")が舞台。[飛行機事故](https://ja.wikipedia.org/wiki/飛行機事故 "wikilink")で偶然生き残った主人公ジャック（Jack）が、[海底](../Page/海底.md "wikilink")に築かれ[ディストピア](../Page/ディストピア.md "wikilink")と化した都市、ラプチャー（Rapture）を探検し過去を明らかにしていく。
+我々の世界とは分岐した、実際には起こらなかった歴史を歩んだもう一つの[1960年](../Page/1960年.md "wikilink")が舞台。[飛行機事故](https://ja.wikipedia.org/wiki/飛行機事故 "wikilink")で偶然生き残った主人公ジャック（Jack）が、[海底](../Page/海底.md "wikilink")に築かれた都市ラプチャー（Rapture）を探検し、過去を明らかにしていく。
 
 ## ストーリー
 

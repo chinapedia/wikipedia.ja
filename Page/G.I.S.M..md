@@ -49,7 +49,7 @@
   - CLOUDY（"+R"にはKANNONとして参加）（ベース）
   - MARIO（ドラムス）
   - HIROSHIMA（ドラムス）
-  - 香村カオリ（ドラムス) MARIOの前任者
+  - 香村カヲリ（ドラムス) MARIOの前任者
   - GHOST(ベース）元GHOUL
   - 南部（ギター）ディフェランス
   - EXECUTIONER（コーラス）1stEP "DETESTation" の1, 3曲目に参加

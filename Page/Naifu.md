@@ -127,6 +127,6 @@
 ## 外部リンク
 
   - [Naifuオフィシャルサイト](http://www.naifu.jp/)
-  - [Naifu Staffのブログ](http://ameblo.jp/naifu-staff/)
+  - [Naifu Staffのブログ](https://ameblo.jp/naifu-staff/)
 
 [Category:Naifu](https://ja.wikipedia.org/wiki/Category:Naifu "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

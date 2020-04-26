@@ -298,6 +298,6 @@
 ## 外部リンク
 
   - [公式サイト](http://www.sporting-charleroi.be/)
-  - [rcsc.blog](http://ameblo.jp/rcsc/)
+  - [rcsc.blog](https://ameblo.jp/rcsc/)
 
 [Category:ベルギーのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ベルギーのサッカークラブ "wikilink") [Category:シャルルロワ](https://ja.wikipedia.org/wiki/Category:シャルルロワ "wikilink")

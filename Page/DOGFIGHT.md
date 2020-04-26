@@ -33,4 +33,4 @@
   - [頭文字D](../Page/頭文字D.md "wikilink")
   - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
-[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

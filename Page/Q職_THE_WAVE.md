@@ -56,7 +56,7 @@
 
   - ゲスト
   - [May'n](../Page/May'n.md "wikilink")
-  - [遠藤麻理](https://ja.wikipedia.org/wiki/遠藤麻理 "wikilink")
+  - [遠藤麻理](../Page/遠藤麻理.md "wikilink")
 
 ## 外部リンク
 

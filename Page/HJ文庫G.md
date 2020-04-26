@@ -27,20 +27,15 @@
 
   - リプレイ
       - 若獅子の戦賦 シリーズ（[柳田真坂樹](https://ja.wikipedia.org/wiki/柳田真坂樹 "wikilink")：著/[井上純弌](https://ja.wikipedia.org/wiki/井上純弌 "wikilink")：画）
-
-:\# D\&Dリプレイ 若獅子の戦賦
-
-:\# D\&Dリプレイ2 若獅子の戦賦—監獄島編
-
-:\# D\&Dリプレイ3 若獅子の戦賦—雷鳴山編
-
+    <!-- end list -->
+    1.  D\&Dリプレイ 若獅子の戦賦
+    2.  D\&Dリプレイ2 若獅子の戦賦—監獄島編
+    3.  D\&Dリプレイ3 若獅子の戦賦—雷鳴山編
   - D\&Dノベル
       - ドリーミングダーク
-
-:\# シャーンの群塔（[キース・ベイカー](https://ja.wikipedia.org/wiki/キース・ベイカー "wikilink")：著/[菅原健](../Page/菅原健_\(イラストレーター\).md "wikilink")：画/待兼音二郎、[上西昌弘](https://ja.wikipedia.org/wiki/上西昌弘 "wikilink")：訳）
-
-:\# 砕かれた大地 上・下巻（キース・ベイカー：著/菅原健：画/渡部夢霧、矢野真弓、[鵜江西昌弘](https://ja.wikipedia.org/wiki/鵜江西昌弘 "wikilink")、[田畑あや子](https://ja.wikipedia.org/wiki/田畑あや子 "wikilink")、[辻川美和](https://ja.wikipedia.org/wiki/辻川美和 "wikilink")、上西昌弘：訳）
-
+    <!-- end list -->
+    1.  シャーンの群塔（[キース・ベイカー](https://ja.wikipedia.org/wiki/キース・ベイカー "wikilink")：著/[菅原健](../Page/菅原健_\(イラストレーター\).md "wikilink")：画/待兼音二郎、[上西昌弘](https://ja.wikipedia.org/wiki/上西昌弘 "wikilink")：訳）
+    2.  砕かれた大地 上・下巻（キース・ベイカー：著/菅原健：画/渡部夢霧、矢野真弓、[鵜江西昌弘](https://ja.wikipedia.org/wiki/鵜江西昌弘 "wikilink")、[田畑あや子](https://ja.wikipedia.org/wiki/田畑あや子 "wikilink")、[辻川美和](https://ja.wikipedia.org/wiki/辻川美和 "wikilink")、上西昌弘：訳）
   - エッセイ
       - [月曜日は魔法使い](https://ja.wikipedia.org/wiki/月曜日は魔法使い "wikilink")（[シェリー・マザノーブル](https://ja.wikipedia.org/wiki/シェリー・マザノーブル "wikilink")：著/[森永みぐ](https://ja.wikipedia.org/wiki/森永みぐ "wikilink")：画/[滝野原南生](https://ja.wikipedia.org/wiki/滝野原南生 "wikilink")：訳）
 

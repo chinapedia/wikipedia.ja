@@ -1,11 +1,11 @@
 > この記事は[天才推理 IQ探偵シリーズ](https://ja.wikipedia.org/wiki/天才推理_IQ探偵シリーズ)から翻訳されています。
 
 
-『**天才推理 IQ探偵シリーズ**』(てんさいすいり アイキューたんていシリーズ) は[深沢美潮](../Page/深沢美潮.md "wikilink")による[ポプラカラフル文庫](https://ja.wikipedia.org/wiki/ポプラカラフル文庫 "wikilink")から刊行されている[児童文学](../Page/児童文学.md "wikilink")のシリーズ。『**[IQ探偵ムー](https://ja.wikipedia.org/wiki/#IQ探偵ムー "wikilink")**』と『**[IQ探偵タクト](https://ja.wikipedia.org/wiki/#IQ探偵タクト "wikilink")**』がある。両方あわせて「**IQ探偵シリーズ**」と言われる。本項目では、両方の作品について触れる。
+『**天才推理 IQ探偵シリーズ**』(てんさいすいり アイキューたんていシリーズ) は[深沢美潮](../Page/深沢美潮.md "wikilink")による[ポプラカラフル文庫](../Page/ポプラカラフル文庫.md "wikilink")から刊行されている[児童文学](../Page/児童文学.md "wikilink")のシリーズ。『**[IQ探偵ムー](https://ja.wikipedia.org/wiki/#IQ探偵ムー "wikilink")**』と『**[IQ探偵タクト](https://ja.wikipedia.org/wiki/#IQ探偵タクト "wikilink")**』がある。両方あわせて「**IQ探偵シリーズ**」と言われる。本項目では、両方の作品について触れる。
 
 ## 概要
 
-両作品とも[ポプラカラフル文庫](https://ja.wikipedia.org/wiki/ポプラカラフル文庫 "wikilink")から刊行されており、「[カラフル文庫アンソロジー ヒント?](https://ja.wikipedia.org/wiki/ポプラカラフル文庫#ヒント？ "wikilink")」・「WEBヒント?」や[朝日小学生新聞](../Page/朝日小学生新聞.md "wikilink")で連載されたものが収録されている。
+両作品とも[ポプラカラフル文庫](../Page/ポプラカラフル文庫.md "wikilink")から刊行されており、「[カラフル文庫アンソロジー ヒント?](https://ja.wikipedia.org/wiki/ポプラカラフル文庫#ヒント？ "wikilink")」・「WEBヒント?」や[朝日小学生新聞](../Page/朝日小学生新聞.md "wikilink")で連載されたものが収録されている。
 
 IQ探偵ムーの舞台は「[銀杏が丘市](https://ja.wikipedia.org/wiki/#銀杏が丘市 "wikilink")」\[1\]、IQ探偵タクトの舞台は、銀杏が丘市の隣町である「紅葉町」。
 

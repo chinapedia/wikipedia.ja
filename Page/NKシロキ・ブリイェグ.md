@@ -475,7 +475,7 @@
 
   - [ダヴォル・ランデカ](https://ja.wikipedia.org/wiki/ダヴォル・ランデカ "wikilink")
 
-  - [ズヴォニミル・コジュリ](https://ja.wikipedia.org/wiki/ズヴォニミル・コジュリ "wikilink")
+  - [ズヴォニミル・コジュリ](../Page/ズヴォニミル・コジュリ.md "wikilink")
 
   - [マテ・ペハル](https://ja.wikipedia.org/wiki/マテ・ペハル "wikilink")
 

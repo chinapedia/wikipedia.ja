@@ -13,4 +13,4 @@
 
 ## 出典
 
-[Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:キャラクターソング](https://ja.wikipedia.org/wiki/Category:キャラクターソング "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:テレビ朝日のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビアニメ主題歌 "wikilink") [Category:クレヨンしんちゃんのアニメソング](https://ja.wikipedia.org/wiki/Category:クレヨンしんちゃんのアニメソング "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:キャラクターソング](https://ja.wikipedia.org/wiki/Category:キャラクターソング "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:テレビ朝日のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビアニメ主題歌 "wikilink") [Category:クレヨンしんちゃんのアニメソング](https://ja.wikipedia.org/wiki/Category:クレヨンしんちゃんのアニメソング "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

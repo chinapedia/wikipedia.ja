@@ -66,7 +66,7 @@
 
   - [高橋リナ](https://ja.wikipedia.org/wiki/高橋理奈 "wikilink")
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")（後に競合製品の[コーセー](../Page/コーセー.md "wikilink")・「ファシオ」CMに出演）
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")（後に競合製品の[コーセー](../Page/コーセー.md "wikilink")・「ヴィセ」CMに出演）
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")（後に競合製品の[コーセー](../Page/コーセー.md "wikilink")・「ヴィセ」CMに出演）
   - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")
   - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")
   - [内田有紀](../Page/内田有紀.md "wikilink")

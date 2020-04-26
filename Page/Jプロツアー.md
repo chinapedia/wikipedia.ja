@@ -34,26 +34,26 @@
 
 ## 2020年の参戦チーム
 
-| チーム名                                                                                               | 運営法人所在地 |
-| -------------------------------------------------------------------------------------------------- | ------- |
-| [マトリックス・パワータグ](https://ja.wikipedia.org/wiki/マトリックス・パワータグ "wikilink")                              | 大阪府高石市  |
-| [チーム ブリヂストンサイクリング](../Page/チーム_ブリヂストン_サイクリング.md "wikilink")                                        | 静岡県三島市  |
-| [宇都宮ブリッツェン](https://ja.wikipedia.org/wiki/宇都宮ブリッツェン "wikilink")                                    | 栃木県宇都宮市 |
-| [シマノレーシング](../Page/シマノレーシング.md "wikilink")                                                         | 大阪府堺市   |
-| [VICTOIRE広島](https://ja.wikipedia.org/wiki/ヴィクトワール広島 "wikilink")                                   | 広島県広島市  |
-| [弱虫ペダルサイクリングチーム](https://ja.wikipedia.org/wiki/弱虫ペダルサイクリングチーム "wikilink")                          | 茨城県つくば市 |
-| [イナーメ信濃山形](https://ja.wikipedia.org/wiki/イナーメ信濃山形 "wikilink")                                      | 長野県東筑摩郡 |
-| [Team UKYO](../Page/TeamUKYO.md "wikilink")                                                        | 東京都渋谷区  |
-| [Hincapie LEOMO Bellmare Racing Team](https://ja.wikipedia.org/wiki/リオモ・ベルマーレ・レーシングチーム "wikilink") | 神奈川県平塚市 |
-| [フィッツグルーン 日本ロボティクス](https://ja.wikipedia.org/wiki/フィッツグルーン_日本ロボティクス "wikilink")                    | 神奈川県横浜市 |
-| [那須ブラーゼン](https://ja.wikipedia.org/wiki/那須ブラーゼン "wikilink")                                        | 栃木県那須郡  |
-| [VC FUKUOKA](https://ja.wikipedia.org/wiki/VC_FUKUOKA "wikilink")                                  | 福岡県福岡市  |
-| [レバンテフジ静岡](https://ja.wikipedia.org/wiki/レバンテフジ静岡 "wikilink")                                      |         |
-| [eNShareサイクリングチーム](https://ja.wikipedia.org/wiki/eNShareサイクリングチーム "wikilink")                      | 宮城県仙台市  |
-| [キナンサイクリングチーム](https://ja.wikipedia.org/wiki/キナンサイクリングチーム "wikilink")                              | 和歌山県新宮市 |
-| [群馬グリフィン・レーシングチーム](https://ja.wikipedia.org/wiki/群馬グリフィン・レーシングチーム "wikilink")                      | 群馬県前橋市  |
-| [愛三工業レーシングチーム](https://ja.wikipedia.org/wiki/愛三工業レーシングチーム "wikilink")                              |         |
-| [さいたまディレーブ](https://ja.wikipedia.org/wiki/さいたまディレーブ "wikilink")                                    |         |
+| チーム名                                                                                               | 運営法人所在地  |
+| -------------------------------------------------------------------------------------------------- | -------- |
+| [マトリックス・パワータグ](https://ja.wikipedia.org/wiki/マトリックス・パワータグ "wikilink")                              | 大阪府高石市   |
+| [チーム ブリヂストンサイクリング](../Page/チーム_ブリヂストン_サイクリング.md "wikilink")                                        | 静岡県三島市   |
+| [宇都宮ブリッツェン](https://ja.wikipedia.org/wiki/宇都宮ブリッツェン "wikilink")                                    | 栃木県宇都宮市  |
+| [シマノレーシング](../Page/シマノレーシング.md "wikilink")                                                         | 大阪府堺市    |
+| [VICTOIRE広島](https://ja.wikipedia.org/wiki/ヴィクトワール広島 "wikilink")                                   | 広島県広島市   |
+| [弱虫ペダルサイクリングチーム](https://ja.wikipedia.org/wiki/弱虫ペダルサイクリングチーム "wikilink")                          | 茨城県つくば市  |
+| [イナーメ信濃山形](https://ja.wikipedia.org/wiki/イナーメ信濃山形 "wikilink")                                      | 長野県東筑摩郡  |
+| [Team UKYO](../Page/TeamUKYO.md "wikilink")                                                        | 東京都渋谷区   |
+| [Hincapie LEOMO Bellmare Racing Team](https://ja.wikipedia.org/wiki/リオモ・ベルマーレ・レーシングチーム "wikilink") | 神奈川県平塚市  |
+| [フィッツグルーン 日本ロボティクス](https://ja.wikipedia.org/wiki/フィッツグルーン_日本ロボティクス "wikilink")                    | 神奈川県横浜市  |
+| [那須ブラーゼン](https://ja.wikipedia.org/wiki/那須ブラーゼン "wikilink")                                        | 栃木県那須郡   |
+| [VC FUKUOKA](https://ja.wikipedia.org/wiki/VC_FUKUOKA "wikilink")                                  | 福岡県福岡市   |
+| [レバンテフジ静岡](https://ja.wikipedia.org/wiki/レバンテフジ静岡 "wikilink")                                      | 静岡県富士市   |
+| [eNShareサイクリングチーム](https://ja.wikipedia.org/wiki/eNShareサイクリングチーム "wikilink")                      | 宮城県仙台市   |
+| [キナンサイクリングチーム](https://ja.wikipedia.org/wiki/キナンサイクリングチーム "wikilink")                              | 和歌山県新宮市  |
+| [群馬グリフィン・レーシングチーム](https://ja.wikipedia.org/wiki/群馬グリフィン・レーシングチーム "wikilink")                      | 群馬県前橋市   |
+| [愛三工業レーシングチーム](https://ja.wikipedia.org/wiki/愛三工業レーシングチーム "wikilink")                              | 愛知県大府市   |
+| [さいたまディレーブ](https://ja.wikipedia.org/wiki/さいたまディレーブ "wikilink")                                    | 埼玉県さいたま市 |
 
 ## 過去の参戦チーム
 

@@ -937,7 +937,7 @@
 
   - [スマイルカンパニー（所属事務所／クリエイター）](http://www.smile-co.jp/docs/creator.pdf)
 
-  - [Official Blog of Lyricist Satomi " イマ、アカイスイカアマイ。"](http://ameblo.jp/lyrics-satomi/)
+  - [Official Blog of Lyricist Satomi " イマ、アカイスイカアマイ。"](https://ameblo.jp/lyrics-satomi/)
 
   - [歌ネット「言葉の達人」](http://www.uta-net.com/user/sakushika/01_100/05.html)
 

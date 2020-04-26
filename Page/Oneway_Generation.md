@@ -70,9 +70,7 @@ DVDは初回生産限定盤のみ付属。
 
 ## 脚注
 
-<references />
-
-[Category:本田美奈子.の楽曲](https://ja.wikipedia.org/wiki/Category:本田美奈子.の楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:2017年のシングル](https://ja.wikipedia.org/wiki/Category:2017年のシングル "wikilink") [Category:TBS金曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ主題歌 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
+[Category:本田美奈子.の楽曲](https://ja.wikipedia.org/wiki/Category:本田美奈子.の楽曲 "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:2017年のシングル](https://ja.wikipedia.org/wiki/Category:2017年のシングル "wikilink") [Category:TBS金曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ主題歌 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
 
 1.
 2.

@@ -19,9 +19,11 @@ WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "
 
 旧ツアーバス運行会社としては珍しく労働組合が組織されており、[交通労連](https://ja.wikipedia.org/wiki/交通労連 "wikilink")を加盟組織としている\[7\]。
 
+2020年4月、[新型コロナウイルスの感染拡大の影響を受け](../Page/日本における2019年コロナウイルス感染症の流行状況.md "wikilink")、4日から30日まで共同運行路線を除く全便を運休する方針を打ち出した\[8\]。
+
 ## 運行事業者
 
-直接運行を担当するのはWILLER EXPRESSとWILLER EXPRESSチームの計5事業者で、これに加えて共同運行会社1事業者とWILLER GROUPから運行委託を受ける15事業者が存在する\[8\]。
+直接運行を担当するのはWILLER EXPRESSとWILLER EXPRESSチームの計5事業者で、これに加えて共同運行会社1事業者とWILLER GROUPから運行委託を受ける15事業者が存在する\[9\]。
 
 ### WILLER EXPRESS
 
@@ -65,8 +67,8 @@ WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "
 
 <!-- end list -->
 
-  - [大阪さやま交通](https://ja.wikipedia.org/wiki/大阪さやま交通 "wikilink")\[9\]（時刻表等ではSで記載・大阪府バス協会加盟）
-      - 本社：〒589-0013 大阪府[大阪狭山市](../Page/大阪狭山市.md "wikilink")茱萸木（くみのき）3-1381\[10\]
+  - [大阪さやま交通](https://ja.wikipedia.org/wiki/大阪さやま交通 "wikilink")\[10\]（時刻表等ではSで記載・大阪府バス協会加盟）
+      - 本社：〒589-0013 大阪府[大阪狭山市](../Page/大阪狭山市.md "wikilink")茱萸木（くみのき）3-1381\[11\]
       - 営業所：〒589-0013 大阪府大阪狭山市茱萸木（くみのき）1-256-1
 
 ### 共同運行会社
@@ -141,7 +143,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - 東京・川崎・横浜・千葉 - 長野・大町・白馬線\[11\]
+  - 東京・川崎・横浜・千葉 - 長野・大町・白馬線\[12\]
 
 <!-- end list -->
 
@@ -155,11 +157,11 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
   - TDS・川崎駅・大崎駅 - 東部湯の丸SA・長野小島田・長野駅（北信越）
   - 東京駅（八重洲南口/日本橋口）・YCAT → 東部湯の丸SA・長野小島田・長野駅（北信越）
   - 大崎駅・東京駅（八重洲南口/日本橋口）・YCAT ← 東部湯の丸SA・ロイヤルホテル長野・長野小島田・長野駅（北信越）
-  - [成田空港](../Page/成田国際空港.md "wikilink")・[YCAT](../Page/横浜シティ・エア・ターミナル.md "wikilink") - [信濃大町駅](../Page/信濃大町駅.md "wikilink")・[扇沢駅](../Page/扇沢駅.md "wikilink")\[12\]・白馬八方BT（北信越）【冬期運休】
+  - [成田空港](../Page/成田国際空港.md "wikilink")・[YCAT](../Page/横浜シティ・エア・ターミナル.md "wikilink") - [信濃大町駅](../Page/信濃大町駅.md "wikilink")・[扇沢駅](../Page/扇沢駅.md "wikilink")\[13\]・白馬八方BT（北信越）【冬期運休】
 
 <!-- end list -->
 
-  - 東京・川崎・千葉 - 新潟・長岡線\[13\]
+  - 東京・川崎・千葉 - 新潟・長岡線\[14\]
 
 <!-- end list -->
 
@@ -189,23 +191,36 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - 成田シャトル\[14\]\[15\]
+  - 成田シャトル\[15\]\[16\]
 
 <!-- end list -->
 
   - 大崎駅 - 成田空港・[芝山町](../Page/芝山町.md "wikilink")役場（北信越・京成・千葉交通）【昼行】
 
-[Osaki_terminal.jpg](https://ja.wikipedia.org/wiki/File:Osaki_terminal.jpg "fig:Osaki_terminal.jpg") 2016年10月31日に、開業した。
+[Osaki_terminal.jpg](https://ja.wikipedia.org/wiki/File:Osaki_terminal.jpg "fig:Osaki_terminal.jpg")
 
-成田シャトルは、[大崎駅](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")西口バスターミナルを起点とする路線であり、東京の西側と成田空港を結ぶバスである。大崎～成田間の所要時間は最短75分で、運賃は片道1300円であるが、事前予約をすると1000円に割り引かれる。
+  -
+    成田シャトルは、[大崎駅](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")西口バスターミナルを起点とする路線であり、東京の西側と成田空港を結ぶバスである。2016年10月31日に運行を開始した。大崎 - 成田空港間の所要時間は最短75分で、運賃は片道1300円であるが、事前予約をすると1000円に割り引かれる。
 
-同路線は、成田空港東側の芝山町にも乗り入れており、[芝山町](../Page/芝山町.md "wikilink")役場が終点となっている。開業にあわせ、WILLER EXPRESSは芝山町に営業所を開設して運用にあたっているほか、一部の便は京成バス、[千葉交通](../Page/千葉交通.md "wikilink")が担当している。
+<!-- end list -->
 
-成田シャトルを運行するWILLER EXPRESSは、開業と同時にエアロエースの専用車両を導入した。トイレは設置しておらず、座席レイアウトは東京シャトルと同じであるが、独自デザインのシートを装備している。
+  -
+    同路線は、成田空港東側の芝山町にも乗り入れており、[芝山町](../Page/芝山町.md "wikilink")役場が終点となっている。開業にあわせ、WILLER EXPRESSは芝山町に営業所を開設して運用にあたっているほか、一部の便は京成バス、[千葉交通](../Page/千葉交通.md "wikilink")が担当している。
 
-千葉営業所（芝山町）以外の運用においては、従来の都市間高速バス車両が使用され、「リラックス」と呼ばれるフード付き座席で運行される便がある。
+<!-- end list -->
 
-千葉交通は、開業後にセレガのトイレ無し専用車両を2台導入した。
+  -
+    成田シャトルを運行するWILLER EXPRESSは、開業と同時にエアロエースの専用車両を導入した。トイレは設置しておらず、座席レイアウトはかつての「東京シャトル」（現：[エアポートバス東京・成田](https://ja.wikipedia.org/wiki/エアポートバス東京・成田 "wikilink")）と同じであるが、独自デザインのシートを装備している。
+
+<!-- end list -->
+
+  -
+    千葉営業所（芝山町）以外の運用においては、従来の都市間高速バス車両が使用され、「リラックス」と呼ばれるフード付き座席で運行される便がある。
+
+<!-- end list -->
+
+  -
+    千葉交通は、開業後にセレガのトイレ無し専用車両を2台導入した。
 
 ファイル:Willer Express Hokushin-etsu Narita Shuttle Aero Ace.jpg|
 
@@ -225,7 +240,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - バスタ新宿 - 名古屋\[16\]（東海&プリンス&ベイライン）【昼行】
+  - バスタ新宿 - 名古屋\[17\]（東海&プリンス&ベイライン）【昼行】
   - バスタ新宿 - [金城ふ頭駅](https://ja.wikipedia.org/wiki/金城ふ頭駅 "wikilink")・名古屋（東海）【昼行】
   - [浜松町BT](../Page/浜松町バスターミナル.md "wikilink")・バスタ新宿 - 名古屋（東海&プリンス）【昼行】
   - YCAT・バスタ新宿 - 名古屋（ベイライン）【昼行】
@@ -308,7 +323,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - 東京 - 京都・福知山・天橋立・城崎温泉線\[17\]\[18\]
+  - 東京 - 京都・福知山・天橋立・城崎温泉線\[18\]\[19\]
 
 <!-- end list -->
 
@@ -353,7 +368,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - WBT大阪梅田 - 名古屋\[19\]（西日本）【昼行】
+  - WBT大阪梅田 - 名古屋\[20\]（西日本）【昼行】
   - WBT大阪梅田・桃山台駅・高速長岡京 - 名古屋（西日本）【昼行】
   - WBT大阪梅田・桃山台駅・高速長岡京 - 名古屋・金城ふ頭駅（西日本）【昼行】
   - OCAT・WBT大阪梅田 - 名古屋（西日本）【昼行】
@@ -411,9 +426,9 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
   - IKEBUS
 
-[Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg](https://ja.wikipedia.org/wiki/File:Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg "fig:Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg") 2019年11月27日に路線バスとしての運行開始。WILLER EXPRESS池袋営業所による運行\[20\]。
+[Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg](https://ja.wikipedia.org/wiki/File:Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg "fig:Willer_Express_106_IKEBUS_eCOM-10_for_Training_Car.jpg") 2019年11月27日に路線バスとしての運行開始。WILLER EXPRESS池袋営業所による運行\[21\]。
 
-池袋駅（西口・東口）から[Hareza池袋](https://ja.wikipedia.org/wiki/Hareza池袋 "wikilink")・[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")・[豊島区役所](../Page/豊島区役所.md "wikilink")等を循環する2ルートを設定。車両は[シンクトゥギャザー](https://ja.wikipedia.org/wiki/シンクトゥギャザー "wikilink")製の10輪小型電気バス・eCOM-10\[21\]を使用し、最高時速19kmで各ルートを35～38分で循環する。
+池袋駅（西口・東口）から[Hareza池袋](https://ja.wikipedia.org/wiki/Hareza池袋 "wikilink")・[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")・[豊島区役所](../Page/豊島区役所.md "wikilink")等を循環する2ルートを設定。車両は[シンクトゥギャザー](https://ja.wikipedia.org/wiki/シンクトゥギャザー "wikilink")製の10輪小型電気バス・eCOM-10\[22\]を使用し、最高時速19kmで各ルートを35～38分で循環する。
 
   - Aルート：池袋駅東口→Hareza池袋→南池袋公園→[東池袋駅](https://ja.wikipedia.org/wiki/東池袋駅 "wikilink")→サンシャインシティ（北→西）→東池袋駅→豊島区役所→南池袋公園→池袋駅東口
   - Bルート：池袋駅西口→Hareza池袋→サンシャインシティ西→Hareza池袋→池袋駅西口
@@ -422,7 +437,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 いずれも、WILLER EXPRESS西日本（当時）による運行。
 
-  - WILLER EXPRESS 大阪梅田・京都駅 - 大阪南港路線\[22\]
+  - WILLER EXPRESS 大阪梅田・京都駅 - 大阪南港路線\[23\]
 
 <!-- end list -->
 
@@ -465,7 +480,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 ## 車両
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:WillerBus_BKG-MU66JS_No.2779.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-mitsubisiaeroace.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willer_Express_Nishinihon_Star_Fighter_01_Selega_HD.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-sayamakotsu_hyundaibus.jpg "wikilink") ツアーバスの運行コストの削減を目的として、親会社であるウィラー・アライアンスを通じて韓国製[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")BX212を大量導入したが、[並行輸入であるために輸入が困難になり](../Page/輸入車.md "wikilink")、、最後まで専用車両として運用されていた南港路線も廃止となった現在はほとんど姿を見られることがなくなった。 現在は[日野・セレガ](../Page/日野・セレガ.md "wikilink")を中心に[三菱ふそう・エアロエース](../Page/三菱ふそう・エアロエース.md "wikilink")・[エアロキングなどが導入されている](../Page/三菱ふそう・エアロキング.md "wikilink")。2012年からは[いすゞ・ガーラ](../Page/いすゞ・ガーラ.md "wikilink")も導入されている。 なんば⇔梅田路線及びUSJ⇔梅田路線においては全線一般道\[23\]を通るため、[いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")ワンステップが使用されていた。運行終了後は南部バスへWILLERカラーのまま転属した\[24\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:WillerBus_BKG-MU66JS_No.2779.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-mitsubisiaeroace.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willer_Express_Nishinihon_Star_Fighter_01_Selega_HD.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-sayamakotsu_hyundaibus.jpg "wikilink") ツアーバスの運行コストの削減を目的として、親会社であるウィラー・アライアンスを通じて韓国製[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")BX212を大量導入したが、[並行輸入であるために輸入が困難になり](../Page/輸入車.md "wikilink")、、最後まで専用車両として運用されていた南港路線も廃止となった現在はほとんど姿を見られることがなくなった。 現在は[日野・セレガ](../Page/日野・セレガ.md "wikilink")を中心に[三菱ふそう・エアロエース](../Page/三菱ふそう・エアロエース.md "wikilink")・[エアロキングなどが導入されている](../Page/三菱ふそう・エアロキング.md "wikilink")。2012年からは[いすゞ・ガーラ](../Page/いすゞ・ガーラ.md "wikilink")も導入されている。 なんば⇔梅田路線及びUSJ⇔梅田路線においては全線一般道\[24\]を通るため、[いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")ワンステップが使用されていた。運行終了後は南部バスへWILLERカラーのまま転属した\[25\]。
 
 なお、これらの車両はWILLER EXPRESS西日本が一括で開発・発注を行い、グループ各社及び共同運行会社である南部バスにリースされる形となっている。但し、ツアーバス時代に運行事業者の1社である[さやま交通](https://ja.wikipedia.org/wiki/さやま交通 "wikilink")が自社で導入した専用車両もあり、高速路線バス移行後に合弁運行事業者である大阪さやま交通をはじめグループ各社へ転属している。
 
@@ -478,7 +493,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 <!-- end list -->
 
   - スタンダード（Standard） - 一般的な2階建てバス2階の4列シート。（*詳細は[STAR EXPRESSを参照](https://ja.wikipedia.org/wiki/WILLER_EXPRESS#STAR_EXPRESS "wikilink")*）
-  - バリュー（Value） - 2階建てバスの2階席で、価格重視のためシートピッチを詰め、肘掛けなし。全席コンセント完備。2018年現在は運行終了\[25\]。
+  - バリュー（Value） - 2階建てバスの2階席で、価格重視のためシートピッチを詰め、肘掛けなし。全席コンセント完備。2018年現在は運行終了\[26\]。
   - シアター（THEATER） - 楽座シートをベースにファントロ社製エンターテイメントシステムを装備。昼行便専用シートとして開発されたが、現在は運行終了。
   - リラックス（Relax） - ウィラー・エクスプレスでは最主力のシート。4列で縦10列とし、フットレスト・レッグレスト・枕を装備。一番の特徴として「カノピー」と呼ばれるフードが設置されている。この他、通常の縦10列から9列にしたもの（-のびのび9列）、シアターと同様のファントロシステムを搭載したもの（-プライベートモニター付）も存在する。
       - リラックス≪NEW≫ - 2014年3月1日から登場したリラックスのバリエーションモデル。従来のリラックス（4列）よりカノピー空間が拡大し、尻・腰・背中のクッションの厚みを改善。また、網ポケットやフック・グリップの角を丸みを帯びた形状にしたり、シート衝突時の衝撃を軽減する素材を背面に採用している。独立3列シートのコモド（旧・グラン）とのコンビネーションシート車両、トイレが付いたタイプもある。
@@ -489,16 +504,16 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - スリーパー（Sleeper） - 一般的な3列シートだが、花柄シートが当社の大きな特徴といえる。2018年12月22日（関西→関東は前日の12月21日）でエクゼクティブと共に運行終了、同車両で運行していた便に関してはリラックス≪NEW≫での運行となる\[26\]。
-  - リラックスワイド（Relax Wide） - リラックス仕様の座席を使用した独立3列シート。運行終了\[27\]。
+  - スリーパー（Sleeper） - 一般的な3列シートだが、花柄シートが当社の大きな特徴といえる。2018年12月22日（関西→関東は前日の12月21日）でエクゼクティブと共に運行終了、同車両で運行していた便に関してはリラックス≪NEW≫での運行となる\[27\]。
+  - リラックスワイド（Relax Wide） - リラックス仕様の座席を使用した独立3列シート。運行終了\[28\]。
   - ニュープレミアム（NewPremium） - 2012年に登場した縦8列の偏心3列シート。枕、テーブル、プライバシーカーテン、コンセントなどを装備。
       - プレミアム（Premium） - 2006年に登場した偏心3列シート（但し最後尾は4列）。DAEWOO BUS輸入と同時に導入されたオリジナルシートの元祖。DAEWOO BUS廃車とニュープレミアム登場に伴い過去帳入りとなった。
   - ボーテ（Beaute） - 2012年に登場した独立3列シート（但し最後尾は4列）。「眠っている間にキレイになる」をコンセプトにした女性専用車で、手鏡やプラズマクラスター、ヒーター付レッグレスト、コロコロマッサージなどを装備。2013年7月31日からは前3列が男女兼用になり、4列目以降が女性専用エリアになる。[シャープ](../Page/シャープ.md "wikilink")とのコラボレーションシート。
   - ビジネスクラス（BusinessClass） - 日野・セレガハイブリッドに枕・レッグレスト・電動リクライニング機能などを装備した偏心3列シート。定員は僅か16名で、最後部に化粧室付き大型トイレを設置。また、独立席（ビジネスクラスComfort）にはプライベートカーテン・テレビも装備されていた。下述するリボーンの導入に伴い除籍。
   - ゆったりシート - 普段は夜行バスしか運用しないニュープレミアム車・ボーテ車を間合い運用で有効活用するために設定された。たまにリラックス車・リラックスワイド車になることもあるため、当日乗車しないと座席がわからない（いわゆるランダムシート）。
   - コモド（COMODO） - 2016年に登場した独立3列シート。座り心地と快適性を追求し、バケット型ヘッドレストを搭載しプライベートカーテンを使用することで隣の人との視線を気にせずに移動空間を確保できる。旧名称は「グラン」（GRAN）。
-  - ラクシア（Luxia） - 2016年に登場した独立3列シート。三菱ふそう・エアロクイーンを使用。温かみのある木製品を使用した肘掛&テーブルを搭載したゆりかご式リクライニングシートにプライベートカーテンを使用することで隣の人との視線を気にせずに移動空間を確保できる。名前の由来は「Luxury（ラグジュアリー）」の響きと「楽」と「幸せ」の造語\[28\]。なお、本バスよりバスのデザインもWILLER EXPRESSのWをモチーフとした新デザインに変更された\[29\]。
-  - ReBorn（リボーン） - 2017年2月17日から登場した偏心3列シート車\[30\]。移動しながらでも上質な睡眠を取れるように設計されたシェル型パーテーションに加え、フルリクライニング時も全長187cmと成人男性でも安心してくつろげるシートになり、座席数は僅か18席。車内で発生する音を軽減させ、照明の明るさにもこだわっている。
+  - ラクシア（Luxia） - 2016年に登場した独立3列シート。三菱ふそう・エアロクイーンを使用。温かみのある木製品を使用した肘掛&テーブルを搭載したゆりかご式リクライニングシートにプライベートカーテンを使用することで隣の人との視線を気にせずに移動空間を確保できる。名前の由来は「Luxury（ラグジュアリー）」の響きと「楽」と「幸せ」の造語\[29\]。なお、本バスよりバスのデザインもWILLER EXPRESSのWをモチーフとした新デザインに変更された\[30\]。
+  - ReBorn（リボーン） - 2017年2月17日から登場した偏心3列シート車\[31\]。移動しながらでも上質な睡眠を取れるように設計されたシェル型パーテーションに加え、フルリクライニング時も全長187cmと成人男性でも安心してくつろげるシートになり、座席数は僅か18席。車内で発生する音を軽減させ、照明の明るさにもこだわっている。
   - スリーパーワイド(Sleeper Wide) - 座席サイズがコモドと同様のいわゆるレッグレスト付き3列独立シート。シート設備が運行会社によって異なるため、公式のシート一覧には掲載されていない（検索時の該当便シート詳細でのみ出現する）。
 
 <!-- end list -->
@@ -507,9 +522,9 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - エグゼクティブ（EXECTIVE） - 三菱ふそう・エアロキングの1階部分に3席設置された独立2列シート。ビジネスクラス同様の枕・レッグレスト・電動リクライニング機能の他、テレビ・DVDプレイヤーを装備\[31\]。2018年12月22日（関西→関東は前日の12月21日）でスリーパーと共に運行終了、同車両で運行していた便に関してはリラックス≪NEW≫での運行となる\[32\]。このエクゼクティブ及びコクーンが運行終了になることで、WILLERからは2列シート車が消滅することになる。
-  - コクーン（COCOON） - 進行方向に対して斜め内向きの独立2列シートで、旅客機のビジネスクラスを連想させる[ヘリンボーンレイアウトを採用する](https://ja.wikipedia.org/wiki/ヘリンボーン_\(模様\) "wikilink")。シェル型パーティションなどが設置されており、個室感覚としたタイプ。[天龍工業](../Page/天龍工業.md "wikilink")との共同開発。「都市間高速バスの客席ユニットとそのレイアウト」として2010年[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")受賞\[33\]。シアター・リラックスプライベートモニター付きと同様のファントロシステムを搭載している。2018年9月30日（関東 - 関西。関東 - 名古屋は12月22日及び23日）から順次運行終了、同車両で運行していた便に関してはリラックス≪NEW≫での運行となる\[34\]。
-  - バリュープライベート（Value Private） - バリュー車の1階席に3席設定。独立席となっており、居住性が高い。2018年現在はバリュー共々運行終了\[35\]。
+  - エグゼクティブ（EXECTIVE） - 三菱ふそう・エアロキングの1階部分に3席設置された独立2列シート。ビジネスクラス同様の枕・レッグレスト・電動リクライニング機能の他、テレビ・DVDプレイヤーを装備\[32\]。2018年12月22日（関西→関東は前日の12月21日）でスリーパーと共に運行終了、同車両で運行していた便に関してはリラックス≪NEW≫での運行となる\[33\]。このエクゼクティブ及びコクーンが運行終了になることで、WILLERからは2列シート車が消滅することになる。
+  - コクーン（COCOON） - 進行方向に対して斜め内向きの独立2列シートで、旅客機のビジネスクラスを連想させる[ヘリンボーンレイアウトを採用する](https://ja.wikipedia.org/wiki/ヘリンボーン_\(模様\) "wikilink")。シェル型パーティションなどが設置されており、個室感覚としたタイプ。[天龍工業](../Page/天龍工業.md "wikilink")との共同開発。「都市間高速バスの客席ユニットとそのレイアウト」として2010年[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")受賞\[34\]。シアター・リラックスプライベートモニター付きと同様のファントロシステムを搭載している。2018年9月30日（関東 - 関西。関東 - 名古屋は12月22日及び23日）から順次運行終了、同車両で運行していた便に関してはリラックス≪NEW≫での運行となる\[35\]。
+  - バリュープライベート（Value Private） - バリュー車の1階席に3席設定。独立席となっており、居住性が高い。2018年現在はバリュー共々運行終了\[36\]。
 
 <!-- end list -->
 
@@ -517,10 +532,10 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - スターファイター（STAR FIGHTER） - 新感覚のアトラクションバス。宇宙船を思わせるデザインのような室内には、偏心3列シートの各席にジョイスティックが備えられており、未来の企業・WILLER-X社が開発したスターファイターの搭乗員（クルー）となって伝説のクリスタルを探索するというストーリーを体感できる\[36\]。なお、本来はWILLER TRAVELが企画する日帰りバスツアー専用車であるが、期間限定で昼行路線にて使用されることがある。旅行関連のイベントで展示や試乗体験（イベント会場〜会場最寄駅を結ぶシャトルバスとして運行）を行っている。2017年現在は後述の「NL-PRIME」に改造されている。
-  - オープンルーフレストラン（NIPPON Travel Restaurant） - 日本各地の旬の味覚を詰め込んだ新感覚のグルメバス。1Fが厨房、2Fが[オープンルーフ席となっていて景色を見ながら食事が楽しめる](https://ja.wikipedia.org/wiki/オープントップバス "wikilink")。WILLER TRAVELが企画する日帰りバスツアー専用車となっている。2017年4月から、「祭り」をテーマに車内外を装飾した2号車が登場する\[37\]。2018年7月からは京都で通年運行を開始し\[38\]、同年10月からは東京でも通年運行を行う\[39\]。
-      - 君の名は。カフェバス - 大ヒット映画「[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")」のシーンをオープンルーフレストラン（NIPPON Travel Restaurant）の車両全体にラッピングして、映画の舞台となった東京各地（順に絵画館→信濃町駅前陸橋→信濃町駅前交差点→四谷四丁目 交差点→新宿ユニカビジョン前→新都心歩道橋下 交差点→新宿警察署裏 交差点→新宿駅南口→四ツ谷駅）を全行程約90分で巡る\[40\]。車内では、全国各地で開催された「君の名は。カフェ」の人気メニューをカフェバス用にアレンジしたセットが提供される。WILLERと[クールジャパントラベル](https://ja.wikipedia.org/wiki/クールジャパントラベル "wikilink")の共同企画で運行は[帝産観光バス](../Page/帝産観光バス.md "wikilink")に委託。2017年8月3日から10月29日までの限定運行。
-  - NL-PRIME（エヌエル-プライム） - WILLER TRAVELと[Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink")の開発運営元であるナイアンティック社がコラボレーションしたもので、運行は[なの花交通バス](https://ja.wikipedia.org/wiki/なの花交通バス "wikilink")に委託。世界で初めてIngressの世界観をリアルに体験することができるIngressバス\[41\]。乗客への限定メダルプレゼントや特別コンテンツ等Ingressの世界をリアルに楽しめるバスになっている\[42\]。WILLER TRAVELが企画する日帰りバスツアー専用車だが、曜日によっては成田駅 - 東京駅の路線としての運行も設定されていた。台湾で提携する[国光汽車客運](../Page/国光汽車客運.md "wikilink")とのコラボレーション企画として、台湾でも展示されていた（法令の関係上、現地での走行は不可）。2018年末をもって運行終了。
+  - スターファイター（STAR FIGHTER） - 新感覚のアトラクションバス。宇宙船を思わせるデザインのような室内には、偏心3列シートの各席にジョイスティックが備えられており、未来の企業・WILLER-X社が開発したスターファイターの搭乗員（クルー）となって伝説のクリスタルを探索するというストーリーを体感できる\[37\]。なお、本来はWILLER TRAVELが企画する日帰りバスツアー専用車であるが、期間限定で昼行路線にて使用されることがある。旅行関連のイベントで展示や試乗体験（イベント会場〜会場最寄駅を結ぶシャトルバスとして運行）を行っている。2017年現在は後述の「NL-PRIME」に改造されている。
+  - オープンルーフレストラン（NIPPON Travel Restaurant） - 日本各地の旬の味覚を詰め込んだ新感覚のグルメバス。1Fが厨房、2Fが[オープンルーフ席となっていて景色を見ながら食事が楽しめる](https://ja.wikipedia.org/wiki/オープントップバス "wikilink")。WILLER TRAVELが企画する日帰りバスツアー専用車となっている。2017年4月から、「祭り」をテーマに車内外を装飾した2号車が登場する\[38\]。2018年7月からは京都で通年運行を開始し\[39\]、同年10月からは東京でも通年運行を行う\[40\]。
+      - 君の名は。カフェバス - 大ヒット映画「[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")」のシーンをオープンルーフレストラン（NIPPON Travel Restaurant）の車両全体にラッピングして、映画の舞台となった東京各地（順に絵画館→信濃町駅前陸橋→信濃町駅前交差点→四谷四丁目 交差点→新宿ユニカビジョン前→新都心歩道橋下 交差点→新宿警察署裏 交差点→新宿駅南口→四ツ谷駅）を全行程約90分で巡る\[41\]。車内では、全国各地で開催された「君の名は。カフェ」の人気メニューをカフェバス用にアレンジしたセットが提供される。WILLERと[クールジャパントラベル](https://ja.wikipedia.org/wiki/クールジャパントラベル "wikilink")の共同企画で運行は[帝産観光バス](../Page/帝産観光バス.md "wikilink")に委託。2017年8月3日から10月29日までの限定運行。
+  - NL-PRIME（エヌエル-プライム） - WILLER TRAVELと[Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink")の開発運営元であるナイアンティック社がコラボレーションしたもので、運行は[なの花交通バス](https://ja.wikipedia.org/wiki/なの花交通バス "wikilink")に委託。世界で初めてIngressの世界観をリアルに体験することができるIngressバス\[42\]。乗客への限定メダルプレゼントや特別コンテンツ等Ingressの世界をリアルに楽しめるバスになっている\[43\]。WILLER TRAVELが企画する日帰りバスツアー専用車だが、曜日によっては成田駅 - 東京駅の路線としての運行も設定されていた。台湾で提携する[国光汽車客運](../Page/国光汽車客運.md "wikilink")とのコラボレーション企画として、台湾でも展示されていた（法令の関係上、現地での走行は不可）。2018年末をもって運行終了。
 
 ファイル:Willer Express Kanto Selega HD Cocoon Seat.jpg|コクーン ファイル:Willer Express Nishinihon Star Fighter 01 Cabin.JPG|スターファイター（現：NL-PRIME） ファイル:Willer - Teisan Kanko Bus Your Name Cafe Bus Aero King.jpg|君の名は。カフェバス
 
@@ -530,7 +545,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 ## 事故
 
-[2015年](../Page/2015年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")3時15分頃、WILLER EXPRESS関東が[ロウズ観光](../Page/ロウズ観光.md "wikilink")に委託運行する東京ディズニーランド発岡山・倉敷行きの夜行高速バスが[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")の[東名阪自動車道](../Page/東名阪自動車道.md "wikilink")においてダンプカーに追突し、茶畑に転落・横転\[43\]\[44\]\[45\]。乗客・バス運転手・ダンプカー運転手が負傷した。
+[2015年](../Page/2015年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")3時15分頃、WILLER EXPRESS関東が[ロウズ観光](../Page/ロウズ観光.md "wikilink")に委託運行する東京ディズニーランド発岡山・倉敷行きの夜行高速バスが[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")の[東名阪自動車道](../Page/東名阪自動車道.md "wikilink")においてダンプカーに追突し、茶畑に転落・横転\[44\]\[45\]\[46\]。乗客・バス運転手・ダンプカー運転手が負傷した。
 
 ## 脚注
 
@@ -552,41 +567,42 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 5.
 6.  [弊社合併のお知らせ](http://www.willer.co.jp/notice/008.php) - WILLER EXPRESS JAPAN、WILLER EXPRESS関東、WILLER EXPRESS東海、WILLER EXPRESS西日本、WILLER EXPRESS東北、WILLER EXPRESS信越、WILLER EXPRESS中国 - 2018年6月（2018年7月26日閲覧）
 7.  [WILLER EXPRESS労働組合　中央本部　公式アカウント](https://mobile.twitter.com/willerunion?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-8.  [7月31日　WILLER EXPRESSが高速路線バスを運行開始](http://travel.willer.co.jp/press/detail.php?id=147)（WILLER TRAVEL 2013年6月27日）
-9.  2015年12月1日に社名変更。2015年11月30日まではWILLER EXPRESS関西
-10. 2015年12月1日に本社移転。2015年11月30日までは〒530-0005 大阪府大阪市北区中之島3-2-18住友中之島ビル5階
-11. 東京駅八重洲南口/日本橋口発着系統は[JRバス関東に発券業務を委託している](../Page/ジェイアールバス関東.md "wikilink")。
-12. 白馬発の便は通過。
-13.
+8.
+9.  [7月31日　WILLER EXPRESSが高速路線バスを運行開始](http://travel.willer.co.jp/press/detail.php?id=147)（WILLER TRAVEL 2013年6月27日）
+10. 2015年12月1日に社名変更。2015年11月30日まではWILLER EXPRESS関西
+11. 2015年12月1日に本社移転。2015年11月30日までは〒530-0005 大阪府大阪市北区中之島3-2-18住友中之島ビル5階
+12. 東京駅八重洲南口/日本橋口発着系統は[JRバス関東に発券業務を委託している](../Page/ジェイアールバス関東.md "wikilink")。
+13. 白馬発の便は通過。
 14.
-15. 京成バス・千葉交通担当便に限り、[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")対応のICカードが利用できる。
-16. 停留所は、名古屋南（[ささしまライブ](https://ja.wikipedia.org/wiki/ささしまライブ駅 "wikilink")、降車のみ）・[名古屋駅](../Page/名古屋駅.md "wikilink")太閤口（則武1丁目）・名古屋駅西口（夜行便の乗車のみ）のいずれか。
-17.
+15.
+16. 京成バス・千葉交通担当便に限り、[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")対応のICカードが利用できる。
+17. 停留所は、名古屋南（[ささしまライブ](https://ja.wikipedia.org/wiki/ささしまライブ駅 "wikilink")、降車のみ）・[名古屋駅](../Page/名古屋駅.md "wikilink")太閤口（則武1丁目）・名古屋駅西口（夜行便の乗車のみ）のいずれか。
 18.
-19. 停留所は、名古屋駅太閤口（則武1丁目、降車のみ）・名古屋駅西口（乗車のみ）のいずれか。
-20.
-21. [eCOM-10](https://www.ttcom.jp/products/current/ecom-10/)
-22.
-23. 前乗り中降りのため、[ICOCA](../Page/ICOCA.md "wikilink")・[PiTaPa](../Page/PiTaPa.md "wikilink")等の[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")対応のICカード及び[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")対応のプリペイドカードは利用不可となっている。
-24. 南部バス転属の際、新たに整理券発券機と区間運賃表示機を設置し中乗り前降りとなっている。
-25. [【全12種】こんなに種類があったの？ ウィラーの高速バスシートまとめ！ 快適すぎる完全個室、モニター・カノピー付きも](https://www.bushikaku.net/article/40592/) - バスとりっぷ 2017年10月28日（2018年10月12日更新・2018年11月16日閲覧）
-26. [「スリーパー」・「エグゼクティブ」の販売終了につきまして](http://travel.willer.co.jp/notice/detail/2018101202.html) - WILLER EXPRESS 2018年10月12日（2018年11月16日閲覧）
-27.
-28. [高速バスWILLER EXPRESSより新シート「Luxia(ラクシア)」登場 木の温もりで寛ぎの移動を提供します](http://travel.willer.co.jp/press/detail.php?id=224) - WILLER EXPRESS JAPAN 2016年7月15日
-29. [WILLER EXPRESS、落ち着いたデザインの独立3列新シート「Luxia」を公開 新デザインのスーパーハイデッカーバス。まずは東京～関西路線から](http://travel.watch.impress.co.jp/docs/news/1022888.html) - トラベル Watch 2016年10月3日（2016年10月3日閲覧）
-30. [高速バスに「最高の休息」を求める時代へ 「眠り」のための最適な環境が備わった「ReBorn」登場](http://www.willer.co.jp/news/press/detail.php?id=252) - WILLER EXPRESS JAPAN 2017年1月19日
-31. [ベッドで眠るような超豪華シート](http://trendy.nikkeibp.co.jp/article/pickup/20090203/1023269/?ST=life&P=3) - [日経トレンディ](../Page/日経トレンディ.md "wikilink") 2009年02月19日配信記事「これは使える、最新ツアーバス。早割りで半額、超豪華シート、増える路線本数...」
-32.
-33. [都市間高速バスの客席ユニットとそのレイアウト \[ウィラーエクスプレス　コクーン\]](http://www.g-mark.org/award/describe/36735) - グッドデザイン賞公式サイト
-34. [「コクーン」の販売終了につきまして](http://travel.willer.co.jp/notice/detail/2018082801.html) - WILLER EXPRESS（2018年9月26日閲覧）
-35.
-36. [体感型アトラクションバス STAR FIGHTER（スターファイター） | WILLER TRAVEL](http://travel.willer.co.jp/starfighter/) - 2013年5月7日閲覧
-37. [地域の食と絶景が楽しめる“レストランバス”に祭りをテーマにした2号車が登場 インバウンドに向けて和食の魅力と伝統文化を伝えます](http://www.willer.co.jp/news/press/detail.php?id=258) - WILLER 2017年3月1日
-38. [走る「老舗料亭」で京都観光を満喫\!メニューを一新し、京都の景観と京会席コースを楽しめる『レストランバス』8月3日（金）より初の通年運行開始](http://www.willer.co.jp/news/press/detail.php?id=301) - WILLER 2018年7月4日（2018年9月4日閲覧）
-39. [〜今しかない東京を味わおう。街全体が、レストラン。〜東京観光の新たなシンボル『東京レストランバス』10月5日（金）より通年運行開始](http://www.willer.co.jp/news/press/detail.php?id=307) - WILLER 2018年8月28日（2018年9月4日閲覧）
-40. [映画の舞台となった東京の街をめぐり、カフェメニューが楽しめる「君の名は。カフェバス」が8月3日(木)より運行開始！](http://www.willer.co.jp/news/press/detail.php?id=272) - WILLER 2017年7月20日（2017年8月24日閲覧）
-41. [WILLER TRAVEL、ナイアンティック社と協力し世界初のIngressバス「NL-PRIME」を開発、運行を開始](http://travel.willer.co.jp/press/detail.php?id=219) - WILLER TRAVEL 2016年6月6日
-42. なお、公式HP内のGoogleマップインドアビューではSTAR FIGHTERの内装を本バスとして紹介している。
-43. [高速バスがダンプに追突、２３人けが　東名阪道](http://www.asahi.com/articles/ASH7G1VCTH7GONFB001.html) - 朝日新聞、2015年7月14日
-44.  - ロウズ観光
-45. [東名阪自動車道における事故について](http://travel.willer.co.jp/information/?id=67) - WILLER EXPRESS関東、2015年7月15日
+19.
+20. 停留所は、名古屋駅太閤口（則武1丁目、降車のみ）・名古屋駅西口（乗車のみ）のいずれか。
+21.
+22. [eCOM-10](https://www.ttcom.jp/products/current/ecom-10/)
+23.
+24. 前乗り中降りのため、[ICOCA](../Page/ICOCA.md "wikilink")・[PiTaPa](../Page/PiTaPa.md "wikilink")等の[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")対応のICカード及び[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")対応のプリペイドカードは利用不可となっている。
+25. 南部バス転属の際、新たに整理券発券機と区間運賃表示機を設置し中乗り前降りとなっている。
+26. [【全12種】こんなに種類があったの？ ウィラーの高速バスシートまとめ！ 快適すぎる完全個室、モニター・カノピー付きも](https://www.bushikaku.net/article/40592/) - バスとりっぷ 2017年10月28日（2018年10月12日更新・2018年11月16日閲覧）
+27. [「スリーパー」・「エグゼクティブ」の販売終了につきまして](http://travel.willer.co.jp/notice/detail/2018101202.html) - WILLER EXPRESS 2018年10月12日（2018年11月16日閲覧）
+28.
+29. [高速バスWILLER EXPRESSより新シート「Luxia(ラクシア)」登場 木の温もりで寛ぎの移動を提供します](http://travel.willer.co.jp/press/detail.php?id=224) - WILLER EXPRESS JAPAN 2016年7月15日
+30. [WILLER EXPRESS、落ち着いたデザインの独立3列新シート「Luxia」を公開 新デザインのスーパーハイデッカーバス。まずは東京～関西路線から](http://travel.watch.impress.co.jp/docs/news/1022888.html) - トラベル Watch 2016年10月3日（2016年10月3日閲覧）
+31. [高速バスに「最高の休息」を求める時代へ 「眠り」のための最適な環境が備わった「ReBorn」登場](http://www.willer.co.jp/news/press/detail.php?id=252) - WILLER EXPRESS JAPAN 2017年1月19日
+32. [ベッドで眠るような超豪華シート](http://trendy.nikkeibp.co.jp/article/pickup/20090203/1023269/?ST=life&P=3) - [日経トレンディ](../Page/日経トレンディ.md "wikilink") 2009年02月19日配信記事「これは使える、最新ツアーバス。早割りで半額、超豪華シート、増える路線本数...」
+33.
+34. [都市間高速バスの客席ユニットとそのレイアウト \[ウィラーエクスプレス　コクーン\]](http://www.g-mark.org/award/describe/36735) - グッドデザイン賞公式サイト
+35. [「コクーン」の販売終了につきまして](http://travel.willer.co.jp/notice/detail/2018082801.html) - WILLER EXPRESS（2018年9月26日閲覧）
+36.
+37. [体感型アトラクションバス STAR FIGHTER（スターファイター） | WILLER TRAVEL](http://travel.willer.co.jp/starfighter/) - 2013年5月7日閲覧
+38. [地域の食と絶景が楽しめる“レストランバス”に祭りをテーマにした2号車が登場 インバウンドに向けて和食の魅力と伝統文化を伝えます](http://www.willer.co.jp/news/press/detail.php?id=258) - WILLER 2017年3月1日
+39. [走る「老舗料亭」で京都観光を満喫\!メニューを一新し、京都の景観と京会席コースを楽しめる『レストランバス』8月3日（金）より初の通年運行開始](http://www.willer.co.jp/news/press/detail.php?id=301) - WILLER 2018年7月4日（2018年9月4日閲覧）
+40. [〜今しかない東京を味わおう。街全体が、レストラン。〜東京観光の新たなシンボル『東京レストランバス』10月5日（金）より通年運行開始](http://www.willer.co.jp/news/press/detail.php?id=307) - WILLER 2018年8月28日（2018年9月4日閲覧）
+41. [映画の舞台となった東京の街をめぐり、カフェメニューが楽しめる「君の名は。カフェバス」が8月3日(木)より運行開始！](http://www.willer.co.jp/news/press/detail.php?id=272) - WILLER 2017年7月20日（2017年8月24日閲覧）
+42. [WILLER TRAVEL、ナイアンティック社と協力し世界初のIngressバス「NL-PRIME」を開発、運行を開始](http://travel.willer.co.jp/press/detail.php?id=219) - WILLER TRAVEL 2016年6月6日
+43. なお、公式HP内のGoogleマップインドアビューではSTAR FIGHTERの内装を本バスとして紹介している。
+44. [高速バスがダンプに追突、２３人けが　東名阪道](http://www.asahi.com/articles/ASH7G1VCTH7GONFB001.html) - 朝日新聞、2015年7月14日
+45.  - ロウズ観光
+46. [東名阪自動車道における事故について](http://travel.willer.co.jp/information/?id=67) - WILLER EXPRESS関東、2015年7月15日

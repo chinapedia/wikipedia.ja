@@ -42,7 +42,8 @@
 
 ## 外部リンク
 
-  - [maaya_TOP](http://bayfm78.com/maaya/maaya_vitamin/maaya_TOP.htm) - bayfmの公式携帯サイト。メールテーマや坂本真綾・ディレクターの放送後記などが掲載されている
+  - [ビタミンM｜bayfm 78.0MHz ベイエフエム](https://www.bayfm.co.jp/program/maaya/) - 2020年4月からの公式サイト。
+  - [maaya_TOP](http://bayfm78.com/maaya/maaya_vitamin/maaya_TOP.htm) - 2020年3月までのbayfmの公式携帯サイト。メールテーマや坂本真綾・ディレクターの放送後記などが掲載されている。
   - [\*- 坂本真綾 【I.D.】 ラジオ「ビタミンM」 -\*](http://www.jvcmusic.co.jp/maaya/radio/vm.html) - フライングドッグによる公式サイト
   - [インターネットラジオ｜bayfm 78.0MHz - LOVE OUR BAY LOVE OUR FUTURE](http://www.bayfm.co.jp/ip/) - 番組の配信ページ
 

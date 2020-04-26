@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - [ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")232便 [アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[スーシティ](https://ja.wikipedia.org/wiki/スーシティ_\(アイオワ州\) "wikilink") [1989年](../Page/1989年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")
+  - [ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")232便 [アイオワ州](../Page/アイオワ州.md "wikilink")[スーシティ](https://ja.wikipedia.org/wiki/スーシティ_\(アイオワ州\) "wikilink") [1989年](../Page/1989年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")
 
 <!-- end list -->
 

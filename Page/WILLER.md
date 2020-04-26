@@ -7,11 +7,11 @@
 
 [1994年](../Page/1994年.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区で設立された第](../Page/北区_\(大阪市\).md "wikilink")1種旅行会社「西日本ツアーズ株式会社」（現・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "wikilink")）が前身。[2005年](../Page/2005年.md "wikilink")に西日本ツアーズの[株式移転](../Page/株式移転.md "wikilink")により**西日本ホールディングス株式会社**として設立された。[2006年](../Page/2006年.md "wikilink")1月に**WILLER ALLIANCE株式会社**に変更後、2017年3月1日に現社名に変更すると同時に、本社機能を大阪に移転した\[1\]。
 
-グループ企業の[持株会社](../Page/持株会社.md "wikilink")の役割を果たす他、かつては韓国の大手[バスメーカーである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")の日本での販売代理店を行っており、自社傘下の貸切バス事業者であるWILLER BUS（現:[WILLER EXPRESS西日本](../Page/WILLER_EXPRESS.md "wikilink")）に大宇バス製バスを大量導入していた。
+グループ企業の[持株会社](../Page/持株会社.md "wikilink")の役割を果たす他、かつては韓国の大手[バスメーカーである](../Page/バス_\(交通機関\).md "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")の日本での販売代理店を行っており、自社傘下の貸切バス事業者であるWILLER BUS（現:[WILLER EXPRESS西日本](../Page/WILLER_EXPRESS.md "wikilink")）に大宇バス製バスを大量導入していた。
 
 [2014年](../Page/2014年.md "wikilink")には[北近畿タンゴ鉄道](../Page/北近畿タンゴ鉄道.md "wikilink")の運行を受託するため[WILLER TRAINSを設立した](https://ja.wikipedia.org/wiki/WILLER_TRAINS "wikilink")\[2\]。
 
-[2016年](../Page/2016年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に、厨房つきのレストランバスがデビュー。新潟で先行運行されることになったが、本格的な[バス](../Page/バス.md "wikilink")の[食堂車](../Page/食堂車.md "wikilink")は世界初である。
+[2016年](../Page/2016年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")に、厨房つきのレストランバスがデビュー。新潟で先行運行されることになったが、本格的な[バスの](../Page/バス_\(交通機関\).md "wikilink")[食堂車](../Page/食堂車.md "wikilink")は世界初である。
 
 ## 沿革
 

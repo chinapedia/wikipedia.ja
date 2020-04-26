@@ -69,4 +69,4 @@
 
 [Category:本田美奈子.の楽曲](https://ja.wikipedia.org/wiki/Category:本田美奈子.の楽曲 "wikilink")
 
-[Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")

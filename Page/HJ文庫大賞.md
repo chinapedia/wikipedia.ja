@@ -5,7 +5,7 @@
 
 ## 概説
 
-受賞は選考委員の合議によって決定される。受賞者には大賞100万円、金賞（第1〜3回は優秀賞）50万円、銀賞（第1〜3回は佳作）10万円・奨励賞及び審査員特別賞5万円が授与されるが、大賞の該当作が存在しなかった場合その賞金は[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")され、次回の大賞の賞金にプラスされる\[1\]\[2\]。
+受賞は選考委員の合議によって決定される。受賞者には大賞100万円、金賞（第1 - 3回は優秀賞）50万円、銀賞（第1 - 3回は佳作）10万円・奨励賞及び審査員特別賞5万円が授与されるが、大賞の該当作が存在しなかった場合その賞金は[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")され、次回の大賞の賞金にプラスされる\[1\]\[2\]。
 
 佳作以上の作品については同社・[HJ文庫](../Page/HJ文庫.md "wikilink")からの刊行が確約されているが実際には奨励賞・特別賞受賞作品の大半も刊行されている。また、応募資格を新人に限定していないため他社でデビューした作家の受賞事例（第2回佳作）も存在する。
 
@@ -548,8 +548,9 @@
 </tr>
 <tr class="odd">
 <td><p>銀賞</p></td>
-<td><p><em>メリル・レッドゾーン</em></p></td>
-<td><p><em>太陽ひかる</em></p></td>
+<td><p>メリル・レッドゾーン<br />
+（<a href="https://ja.wikipedia.org/wiki/エロティカル・ウィザードと12人の花嫁" title="wikilink">エロティカル・ウィザードと12人の花嫁</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/太陽ひかる" title="wikilink">太陽ひかる</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -572,6 +573,38 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第14回<br />
+（<a href="../Page/2019年.md" title="wikilink">2019年</a>）<br />
+<strong>127点</strong></p></td>
+<td><p>金賞</p></td>
+<td><p><em>空と小鷹と涼名さん</em></p></td>
+<td><p><em>榮三一</em></p></td>
+</tr>
+<tr class="odd">
+<td><p>銀賞</p></td>
+<td><p><em>次世代魔王の背徳講義</em></p></td>
+<td><p><em>虹元喜多朗</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>奨励賞</p></td>
+<td><p><em>スクールサミット! -A Bullet Reflects his Destiny-</em></p></td>
+<td><p><em>界達かたる</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>新世界遊戯</em></p></td>
+<td><p><em>公理羊</em></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

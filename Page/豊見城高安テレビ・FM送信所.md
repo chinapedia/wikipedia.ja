@@ -271,11 +271,11 @@
 ## 外部リンク
 
   - [地上デジタル放送エリア(総務省沖縄通信総合事務所ホームページ)](http://www.okinawa-bt.soumu.go.jp/hodo/2006/06_11_29-01.htm)
-  - [地上デジタルテレビジョン放送局(NHK)の予備免許状の交付](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2005/05_06_10-01.htm) - 総務省沖縄総合通信事務所(2005年6月10日プレスリリース・平成17年度報道資料)
-  - [沖縄県内初の地上デジタル放送局に免許を付与](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2006/06_03_31-01.htm) - 総務省沖縄総合通信事務所(2006年3月31日プレスリリース・平成17年度報道資料)
-  - [地上デジタル放送局NHKが1kW(フルパワー)で運用](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2006/06_06_30-01.htm) - 総務省沖縄総合通信事務所(2006年6月30日プレスリリース・平成18年度報道資料)
-  - [県内全民放局の地上デジタルテレビジョン放送局に予備免許を交付](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2005/05_11_15-01.htm) - 総務省沖縄総合通信事務所(2005年11月15日プレスリリース・平成17年度報道資料)
-  - [民放3社に地上デジタル放送局の免許 - 12月1日から放送開始予定 -](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2006/06_11_29-01.htm) - 総務省沖縄総合通信事務所(2006年11月29日プレスリリース・平成18年度報道資料)
+  - [地上デジタルテレビジョン放送局(NHK)の予備免許状の交付](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2005/05_06_10-01.htm) - 総務省沖縄総合通信事務所(2005年6月10日プレスリリース・平成17年度報道資料)
+  - [沖縄県内初の地上デジタル放送局に免許を付与](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2006/06_03_31-01.htm) - 総務省沖縄総合通信事務所(2006年3月31日プレスリリース・平成17年度報道資料)
+  - [地上デジタル放送局NHKが1kW(フルパワー)で運用](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2006/06_06_30-01.htm) - 総務省沖縄総合通信事務所(2006年6月30日プレスリリース・平成18年度報道資料)
+  - [県内全民放局の地上デジタルテレビジョン放送局に予備免許を交付](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2005/05_11_15-01.htm) - 総務省沖縄総合通信事務所(2005年11月15日プレスリリース・平成17年度報道資料)
+  - [民放3社に地上デジタル放送局の免許 - 12月1日から放送開始予定 -](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/okinawa/hodo/2006/06_11_29-01.htm) - 総務省沖縄総合通信事務所(2006年11月29日プレスリリース・平成18年度報道資料)
   - [携帯端末向けマルチメディア放送の予備免許-沖縄管内で初のV-Highマルチメディア放送局に予備免許を付与-](http://www.soumu.go.jp/soutsu/okinawa/hodo/2011/11_12_01-01.html#sankou) - 総務省沖縄総合通信事務所(2011年12月1日プレスリリース)
   - [帯端末向けマルチメディア放送の免許-沖縄管内で初のV-Highマルチメディア放送局に免許状を交付-](http://www.soumu.go.jp/soutsu/okinawa/hodo/2012/12_03_30-01.html) - 総務省沖縄総合通信事務所(2012年3月30日プレスリリース)
 

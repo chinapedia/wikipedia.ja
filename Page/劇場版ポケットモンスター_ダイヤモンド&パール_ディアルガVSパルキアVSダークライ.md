@@ -85,23 +85,23 @@
 
   - サトシのポケモン
 
-:;[ピカチュウ](https://ja.wikipedia.org/wiki/ピカチュウ_\(サトシのポケモン\) "wikilink")
+:; [ピカチュウ](https://ja.wikipedia.org/wiki/ピカチュウ_\(サトシのポケモン\) "wikilink")
 
-::声 - [大谷育江](../Page/大谷育江.md "wikilink")
+:: 声 - [大谷育江](../Page/大谷育江.md "wikilink")
 
-::サトシの1番のパートナー。
+:: サトシの1番のパートナー。
 
-:;[ナエトル](https://ja.wikipedia.org/wiki/ナエトル "wikilink")
+:; [ナエトル](https://ja.wikipedia.org/wiki/ナエトル "wikilink")
 
-::声 - 三木眞一郎
+:: 声 - 三木眞一郎
 
-::コミック版では一コマのみ登場。
+:: コミック版では一コマのみ登場。
 
-:;[エイパム](https://ja.wikipedia.org/wiki/エイパム "wikilink")
+:; [エイパム](https://ja.wikipedia.org/wiki/エイパム "wikilink")
 
-::声 - [伊東みやこ](../Page/伊東みやこ.md "wikilink")
+:: 声 - [伊東みやこ](../Page/伊東みやこ.md "wikilink")
 
-:;[ムクバード](https://ja.wikipedia.org/wiki/ムクバード "wikilink")
+:; [ムクバード](https://ja.wikipedia.org/wiki/ムクバード "wikilink")
 
   -
 
@@ -110,23 +110,23 @@
 
   - ヒカリのポケモン
 
-::ヒカリと同様、劇場版への登場が初となる。
+:: ヒカリと同様、劇場版への登場が初となる。
 
-:;[ポッチャマ](https://ja.wikipedia.org/wiki/ポッチャマ "wikilink")
+:; [ポッチャマ](https://ja.wikipedia.org/wiki/ポッチャマ "wikilink")
 
-::声 - [小桜エツ子](../Page/小桜エツコ.md "wikilink")
+:: 声 - [小桜エツ子](../Page/小桜エツコ.md "wikilink")
 
-::ヒカリの最初のポケモン。本作ではまだ[モンスターボール](../Page/モンスターボール.md "wikilink")に入れられており、キャストクレジットでも他のポケモンたちと一緒にされる。
+:: ヒカリの最初のポケモン。本作ではまだ[モンスターボール](../Page/モンスターボール.md "wikilink")に入れられており、キャストクレジットでも他のポケモンたちと一緒にされる。
 
-:;[ミミロル](https://ja.wikipedia.org/wiki/ミミロル "wikilink")
+:; [ミミロル](https://ja.wikipedia.org/wiki/ミミロル "wikilink")
 
-::声 - [川上とも子](../Page/川上とも子.md "wikilink")
+:: 声 - [川上とも子](../Page/川上とも子.md "wikilink")
 
-:;[パチリス](https://ja.wikipedia.org/wiki/パチリス "wikilink")
+:; [パチリス](https://ja.wikipedia.org/wiki/パチリス "wikilink")
 
-::声 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
+:: 声 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
 
-:;[ブイゼル](https://ja.wikipedia.org/wiki/ブイゼル "wikilink")
+:; [ブイゼル](https://ja.wikipedia.org/wiki/ブイゼル "wikilink")
 
   -
 
@@ -135,17 +135,17 @@
 
   - タケシのポケモン
 
-:;[グレッグル](https://ja.wikipedia.org/wiki/グレッグル "wikilink")
+:; [グレッグル](https://ja.wikipedia.org/wiki/グレッグル "wikilink")
 
-::声 - [小西克幸](../Page/小西克幸.md "wikilink")
+:: 声 - [小西克幸](../Page/小西克幸.md "wikilink")
 
-::かわらわりでディアルガのりゅうせいぐんの流れ玉を一玉打ち消した。
+:: かわらわりでディアルガのりゅうせいぐんの流れ玉を一玉打ち消した。
 
-:;[ウソッキー](https://ja.wikipedia.org/wiki/ウソッキー "wikilink")
+:; [ウソッキー](https://ja.wikipedia.org/wiki/ウソッキー "wikilink")
 
-::声 - [阪口大助](../Page/阪口大助.md "wikilink")
+:: 声 - [阪口大助](../Page/阪口大助.md "wikilink")
 
-:;[ピンプク](https://ja.wikipedia.org/wiki/ピンプク "wikilink")
+:; [ピンプク](https://ja.wikipedia.org/wiki/ピンプク "wikilink")
 
   -
 
@@ -154,7 +154,7 @@
 
   - ムサシのポケモン
 
-:;[ソーナンス](https://ja.wikipedia.org/wiki/ソーナンス "wikilink")
+:; [ソーナンス](https://ja.wikipedia.org/wiki/ソーナンス "wikilink")
 
   -
 
@@ -328,12 +328,13 @@
 
 ## 外部リンク
 
-  - [2007年映画紹介ページ（ポケモン公式サイト）](http://www.pokemon.co.jp/anime/movie/2007/)
+  - [2007年映画紹介ページ（ポケモン公式サイト）](https://www.pokemon.co.jp/anime/movie/2007/)
+  - [Pokémon: The Rise of Darkrai | Pokemon.com](https://www.pokemon.com/uk/pokemon-episodes/pokemon-movies/pokemon-the-rise-of-darkrai-2008)
 
 [Category:劇場版ポケットモンスター](https://ja.wikipedia.org/wiki/Category:劇場版ポケットモンスター "wikilink") [Category:2007年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2007年のアニメ映画 "wikilink") [Category:メディアファクトリーのアニメ映画](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
 1.  [◆ポケモン映画公式サイト◆劇場版ポケットモンスター　ダイヤモンド・パール　なんでもかんでも教えちゃい隊｜湯山監督インタビュー第4弾「ロケハンでなにが\!?」](http://blog.pokemon-movie.jp/2007/2007/02/post_27.html)
 2.  タケシの[ピンプク](https://ja.wikipedia.org/wiki/ピンプク "wikilink")が誕生しており、サトシが[ヒコザル](https://ja.wikipedia.org/wiki/ヒコザル "wikilink")をゲットした一因となるタッグバトル大会に出場する前など範囲が限定される。
-3.  [ポケモン前売り200万枚で公開前興収20億 - 日刊スポーツ](http://www.nikkansports.com/entertainment/cinema/p-et-tp1-20070713-226278.html)(2007.7.13紙面)
+3.  [ポケモン前売り200万枚で公開前興収20億 - 日刊スポーツ](https://www.nikkansports.com/entertainment/cinema/p-et-tp1-20070713-226278.html)(2007.7.13紙面)
 4.  [「ダークライを手に入れろ\!」発表会レポート\! - 映画公式サイト](http://blog.pokemon-movie.jp/2007/2007/05/post_40.html)(2007.05.14)
-5.  [『ポケモン』映画10周年記念“ダークライ”プレゼント\! しょこたんが最初に入手だお\!](http://dol.dengeki.com/data/news/2007/5/14/7bf24a3dd6cd15e6ce4a4a87264a0701.html)(2007.05.14)
+5.  [『ポケモン』映画10周年記念“ダークライ”プレゼント\! しょこたんが最初に入手だお\!](https://dengekionline.com/data/news/2007/5/14/7bf24a3dd6cd15e6ce4a4a87264a0701.html)(2007.05.14)

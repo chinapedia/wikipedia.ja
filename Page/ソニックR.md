@@ -1,7 +1,7 @@
 > この記事は[ソニックR](https://ja.wikipedia.org/wiki/ソニックR)から翻訳されています。
 
 
-『**ソニックR**』 (**SONIC R**) は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月4日](../Page/12月4日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用[レースゲーム](../Page/レースゲーム.md "wikilink")。
+『**ソニックR**』 (**SONIC R**) は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月4日](../Page/12月4日.md "wikilink")に[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")から発売された[セガサターン](../Page/セガサターン.md "wikilink")用[レースゲーム](../Page/レースゲーム.md "wikilink")。
 
 ## ストーリー
 
@@ -109,4 +109,4 @@
   - [ソニックR公式サイト](http://sonic.sega.jp/sonicr/index.html)
   - [PC版ソニックR製品紹介ページ](http://www.sega.co.jp/pc/sonicr/)
 
-[Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")
+[Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:ソニックシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ソニックシリーズのコンピュータゲーム "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink")

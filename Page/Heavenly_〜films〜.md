@@ -27,4 +27,4 @@ L'Arc〜en〜Cielにとっては初の[日本武道館](../Page/日本武道館.
 6.  **[C'est La Vie](https://ja.wikipedia.org/wiki/heavenly_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")**
 7.  **[Vivid Colors](../Page/Vivid_Colors.md "wikilink")**
 
-[Category:L'Arc〜en〜Cielの映像作品](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの映像作品 "wikilink") [Category:1996年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1996年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:L'Arc〜en〜Cielの映像作品](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの映像作品 "wikilink") [Category:1995年のコンサート](https://ja.wikipedia.org/wiki/Category:1995年のコンサート "wikilink") [Category:1996年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1996年のライブ・ビデオ "wikilink") [Category:2003年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2003年のライブ・ビデオ "wikilink") [Category:2014年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2014年のライブ・ビデオ "wikilink")

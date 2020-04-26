@@ -5,7 +5,7 @@
 
 ## 概要
 
-MAS 36は、当時の一般[歩兵](../Page/歩兵.md "wikilink")用[小銃](../Page/小銃.md "wikilink")としては[イタリア](../Page/イタリア.md "wikilink")の[カルカノM1938](../Page/カルカノM1938.md "wikilink")や[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[三八式騎銃などと並んで最も全長が短い部類に属する銃であり](https://ja.wikipedia.org/wiki/三八式歩兵銃#三八式騎銃 "wikilink")、[木](https://ja.wikipedia.org/wiki/木 "wikilink")製[銃床](../Page/銃床.md "wikilink")が[マガジンの存在する部分で前後に二分割されている](../Page/弾倉.md "wikilink")。
+MAS 36は、当時の一般[歩兵](../Page/歩兵.md "wikilink")用[小銃](../Page/小銃.md "wikilink")としては[イタリア](../Page/イタリア.md "wikilink")の[カルカノM1938](../Page/カルカノM1938.md "wikilink")などと並んで最も全長が短い部類に属する銃であり、[木](https://ja.wikipedia.org/wiki/木 "wikilink")製[銃床](../Page/銃床.md "wikilink")が[マガジンの存在する部分で前後に二分割されている](../Page/弾倉.md "wikilink")。
 
 [弾薬](../Page/弾薬.md "wikilink")は、[軽機関銃](../Page/軽機関銃.md "wikilink")と小銃の弾薬共通化のために先に採用されていた[FM mle1924/29軽機関銃と同じリムレスの](https://ja.wikipedia.org/wiki/FM_mle1924/29軽機関銃 "wikilink")7.5x54mm弾を使用する。これは、それまで使用されてきた時代遅れのリムドの[8x50mmR レベル弾を更新することが主目的であった](https://ja.wikipedia.org/wiki/:en:8x50mmR "wikilink")。
 

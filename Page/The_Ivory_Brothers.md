@@ -42,7 +42,7 @@
   - [J-more](http://j-more.avex.jp/ivory/)
   - [AnyMusic](http://www.anymusic.jp/interview/04_ivory/index.html)
   - [けむナビ](http://www.kemunavi.jp/interview/interview/a/a_iborybroth/iborybroth.html)
-  - [山本兄妹ブログ](http://ameblo.jp/yamamotokyodai/)
+  - [山本兄妹ブログ](https://ameblo.jp/yamamotokyodai/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
 

@@ -96,8 +96,8 @@
 
 ## 外部リンク
 
-  - [noisyのブログ](http://ameblo.jp/hiroshi-noisy/)
-  - [DUSTAR-3 オフィシャルブログ「SET YOUR PANTS ON FIRE！」](http://ameblo.jp/pants-rock/)
+  - [noisyのブログ](https://ameblo.jp/hiroshi-noisy/)
+  - [DUSTAR-3 オフィシャルブログ「SET YOUR PANTS ON FIRE！」](https://ameblo.jp/pants-rock/)
 
 [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:SEX_MACHINEGUNSのメンバー](https://ja.wikipedia.org/wiki/Category:SEX_MACHINEGUNSのメンバー "wikilink") [Category:延岡学園高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:延岡学園高等学校出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

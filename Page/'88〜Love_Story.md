@@ -16,7 +16,7 @@
 
 ## タイアップ
 
-  - [カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")「[ポテトチップス](../Page/ポテトチップス.md "wikilink")」 [CMソング](../Page/コマーシャルソング.md "wikilink")(\#1)
+  - [カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")「[ポテトチップス](../Page/ポテトチップス.md "wikilink")」 [CMイメージソング](../Page/コマーシャルソング.md "wikilink")\[1\](\#1)
 
 ## 参加ミュージシャン
 
@@ -43,3 +43,5 @@
   - [1991年の音楽](../Page/1991年の音楽.md "wikilink")
 
 [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:松本孝弘の楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘の楽曲 "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:BMG_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:BMG_JAPANの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+
+1.

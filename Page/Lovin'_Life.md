@@ -36,4 +36,4 @@
   - [SPICY CHOCOLATE](https://ja.wikipedia.org/wiki/SPICY_CHOCOLATE "wikilink")（2010年のアルバム『東京RAGGA LOVERS』に収録）
   - [Tiara](https://ja.wikipedia.org/wiki/Tiara "wikilink")（2012年のアルバム『Sweet Flavor 〜cover song collection〜』に収録）
 
-[Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:FUNKY_MONKEY_BABYSの楽曲](https://ja.wikipedia.org/wiki/Category:FUNKY_MONKEY_BABYSの楽曲 "wikilink") [Category:ハ長調](https://ja.wikipedia.org/wiki/Category:ハ長調 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink")
+[Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:FUNKY_MONKEY_BABYSの楽曲](https://ja.wikipedia.org/wiki/Category:FUNKY_MONKEY_BABYSの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink")

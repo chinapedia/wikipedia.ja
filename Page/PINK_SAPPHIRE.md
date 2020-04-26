@@ -119,7 +119,7 @@
 
 ## 外部リンク
 
-  - [PINK SAPPHIREオフィシャルブログ](http://ameblo.jp/pinksapphire-blog/)
+  - [PINK SAPPHIREオフィシャルブログ](https://ameblo.jp/pinksapphire-blog/)
 
   -
   -

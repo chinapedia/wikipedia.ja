@@ -60,7 +60,7 @@
   - 0037　(旧)[日本振興銀行](../Page/日本振興銀行.md "wikilink")　**なし**
   - **0038**　[住信SBIネット銀行](https://ja.wikipedia.org/wiki/住信SBIネット銀行 "wikilink")　**NTSSJPJT**
   - **0039**　[じぶん銀行](https://ja.wikipedia.org/wiki/じぶん銀行 "wikilink")　**JICRJPJ1**
-  - **0040**　[イオン銀行](../Page/イオン銀行.md "wikilink")　**未定**
+  - **0040**　[イオン銀行](../Page/イオン銀行.md "wikilink")　**AEONJPJT**
   - **0041**　[大和ネクスト銀行](https://ja.wikipedia.org/wiki/大和ネクスト銀行 "wikilink")　**DNEXJPJT**
   - **0042**　[ローソン銀行](../Page/ローソン銀行.md "wikilink")　**LWSNJPJT**
   - 0097　(旧)[日本承継銀行](https://ja.wikipedia.org/wiki/日本承継銀行 "wikilink")　**なし**

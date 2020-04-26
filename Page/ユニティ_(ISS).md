@@ -31,7 +31,7 @@
 
 ## 外部リンク
 
-  - [STS-88 国際宇宙ステーションの打上げ ユニティ](http://iss.jaxa.jp/iss/2a/index.html) -- [JAXA](https://ja.wikipedia.org/wiki/JAXA "wikilink")
+  - [STS-88 国際宇宙ステーションの打上げ ユニティ](https://iss.jaxa.jp/iss/2a/index.html) -- [JAXA](https://ja.wikipedia.org/wiki/JAXA "wikilink")
   - [Unity Node 1](http://www.nasa.gov/mission_pages/station/structure/elements/node1.html) -- [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")
   - [UNITY CONNECTING MODULE](http://spaceflight.nasa.gov/spacenews/factsheets/pdfs/unity.pdf) (PDF) -- NASA
 

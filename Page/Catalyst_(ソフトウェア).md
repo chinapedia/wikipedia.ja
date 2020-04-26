@@ -21,7 +21,7 @@ Catalystには、多くのプラグインがある\[1\]。例えば、[Ajax](htt
 
 ## Webサーバのサポート
 
-開発やテストのために、Catalystは、組み込みの簡易HTTPサーバがある。製品の利用については[Apacheか](../Page/Apache_HTTP_Server.md "wikilink")、[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")付きの[lighttpd](https://ja.wikipedia.org/wiki/lighttpd "wikilink")、 [mod perlサポートが推奨されるが](https://ja.wikipedia.org/wiki/mod_perl "wikilink")、[CGIやFastCGIをサポートした](../Page/Common_Gateway_Interface.md "wikilink")[Webサーバ](../Page/Webサーバ.md "wikilink")なら動作する。Apache上では、mod_perlでの利用が、相当のパフォーマンスの助けになるが、複数のアプリケーションでmod_perlを共有することで不安定になるため、問題もある。
+開発やテストのために、Catalystは、組み込みの簡易HTTPサーバがある。製品の利用については[Apacheか](../Page/Apache_HTTP_Server.md "wikilink")、[FastCGI](../Page/FastCGI.md "wikilink")付きの[lighttpd](https://ja.wikipedia.org/wiki/lighttpd "wikilink")、 [mod perlサポートが推奨されるが](https://ja.wikipedia.org/wiki/mod_perl "wikilink")、[CGIやFastCGIをサポートした](../Page/Common_Gateway_Interface.md "wikilink")[Webサーバ](../Page/Webサーバ.md "wikilink")なら動作する。Apache上では、mod_perlでの利用が、相当のパフォーマンスの助けになるが、複数のアプリケーションでmod_perlを共有することで不安定になるため、問題もある。
 
 ## データベースサポート
 

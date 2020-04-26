@@ -11,7 +11,7 @@ PS3の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")
 
 [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")の“もう1つの[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")”を舞台に、地球侵略をもくろむ謎の生物“[キメラ](../Page/キマイラ.md "wikilink")”と[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")や[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")との激しい戦いを描いたFPS（[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")）。物語に沿ってゲームを進めるシングルプレイに加えて、2人協力プレイ、[インターネット](../Page/インターネット.md "wikilink")を介したオンライン対戦が可能なマルチプレイを楽しめる。
 
-アメリカ版では血が大量に出るが、日本版では[CEROの関係上](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")、1ミッションに2回ぐらいしか見られない。
+アメリカ版では血が大量に出るが、日本版では[CEROの関係上](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")、1ミッションに2回ぐらいしか見られない。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")に続編かつ3部作の2作目である『[RESISTANCE 2](https://ja.wikipedia.org/wiki/RESISTANCE2 "wikilink")』が、[2009年](../Page/2009年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")には[PlayStation Portable用として本作の数週間後を描いた](../Page/PlayStation_Portable.md "wikilink")『[RESISTANCE〜報復の刻〜](https://ja.wikipedia.org/wiki/RESISTANCE〜報復の刻〜 "wikilink")』が発売された。
 

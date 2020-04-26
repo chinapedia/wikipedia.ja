@@ -96,7 +96,7 @@
 ## 外部リンク
 
   -
-  - [公式ブログ：Powered by アメブロ](http://ameblo.jp/blog-scarecrow/)
+  - [公式ブログ：Powered by アメブロ](https://ameblo.jp/blog-scarecrow/)
 
   - [podcastingラジオ SCARECROW RADIO GEAR](http://podcast.yahoo.co.jp/series/803d21e91b2e1875207770a3c5e5c9bd)
 

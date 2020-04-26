@@ -608,20 +608,20 @@
 </tr>
 <tr class="odd">
 <td><p>4月 -</p></td>
-<td><p>ソードアート・オンライン アリシゼーション War of Underworld<br />
-(THE LAST SEASON)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜" title="wikilink">かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜" title="wikilink">かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜</a></p></td>
-<td></td>
+<td><p>7月 -</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/『ヒプノシスマイク_-Division_Rap_Battle-』Rhyme_Anima" title="wikilink">『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>7月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/『ヒプノシスマイク_-Division_Rap_Battle-』Rhyme_Anima" title="wikilink">『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima</a></p></td>
+<td><p>ソードアート・オンライン アリシゼーション War of Underworld<br />
+(THE LAST SEASON)</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

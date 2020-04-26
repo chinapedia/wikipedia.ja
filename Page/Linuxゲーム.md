@@ -57,6 +57,9 @@ Wineは、Linux上において、[Microsoft Windowsのために書かれ](https:
 
 ## 関連項目
 
+  - [GNUパッケージ一覧](https://ja.wikipedia.org/wiki/GNUパッケージ一覧 "wikilink")
+  - [GNOME Games](../Page/GNOME_Games.md "wikilink")
+  - [kdegames](https://ja.wikipedia.org/wiki/kdegames "wikilink")
   - [Wine](../Page/Wine.md "wikilink")
   - [エミュレータ](../Page/エミュレータ.md "wikilink")
 

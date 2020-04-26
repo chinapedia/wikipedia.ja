@@ -13,7 +13,7 @@ Cloud9は、2016年7月にAmazonに買収され\[1\] 、Amazon Web Services（AW
 
 古いバージョンの機能には、スニペットと[識別子](../Page/識別子.md "wikilink")の自動[コード補完](https://ja.wikipedia.org/wiki/自動補完 "wikilink") 、括弧とブラケットの一致、デバッガー、行番号とエラーまたは警告が表示されるガター(=gutter)が含まれていた。
 
-Cloud9 IDEは、 [C＃](../Page/C_Sharp.md "wikilink") 、 [C](../Page/C言語.md "wikilink") / [C ++](../Page/C++.md "wikilink") 、 [Java](https://ja.wikipedia.org/wiki/Java "wikilink") 、 [JavaScript](../Page/JavaScript.md "wikilink") 、 [Python](../Page/Python.md "wikilink") 、 [Ruby](../Page/Ruby.md "wikilink")などのさまざまな言語の[構文の強調表示も提供した](../Page/シンタックスハイライト.md "wikilink")。
+Cloud9 IDEは、 [C\#](../Page/C_Sharp.md "wikilink") 、 [C](../Page/C言語.md "wikilink") / [C ++](../Page/C++.md "wikilink") 、 [Java](https://ja.wikipedia.org/wiki/Java "wikilink") 、 [JavaScript](../Page/JavaScript.md "wikilink") 、 [Python](../Page/Python.md "wikilink") 、 [Ruby](../Page/Ruby.md "wikilink")などのさまざまな言語の[構文の強調表示も提供した](../Page/シンタックスハイライト.md "wikilink")。
 
 特にJavaScriptについては、リアルタイムの言語分析、コードの再フォーマット、およびリファクタリング機能を提供した。
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2011年](../Page/2011年.md "wikilink")に[WOWOW](../Page/WOWOW.md "wikilink")にて放送された単発ドラマ『[short cut](https://ja.wikipedia.org/wiki/short_cut "wikilink")』 くワンシーン・ワンカットドラマとして、[2011年](../Page/2011年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に放送された。
+ワンシーン・ワンカットドラマとして、[2011年](../Page/2011年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に放送された。
 
 ## あらすじ
 
@@ -14,10 +14,11 @@
 ## キャスト
 
   - 夫 - [中井貴一](../Page/中井貴一.md "wikilink")
-
-  - 妻 - [鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")
-
-  - \- [梶原善](../Page/梶原善.md "wikilink")
+    テレビ局勤務のエリートサラリーマン。
+  - 妻（スズムラミサ） - [鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")
+    広告代理店のAD。
+  - イワオ - [梶原善](../Page/梶原善.md "wikilink")
+    妻の同級生。
 
 ## スタッフ
 
@@ -28,8 +29,14 @@
   - 録音 - [瀬川徹夫](https://ja.wikipedia.org/wiki/瀬川徹夫 "wikilink")
   - 美術 - [黒瀧きみえ](https://ja.wikipedia.org/wiki/黒瀧きみえ "wikilink")
   - 美術監修 - [種田陽平](../Page/種田陽平.md "wikilink")
-  - エンディングテーマ - [荻野清子](https://ja.wikipedia.org/wiki/荻野清子 "wikilink")
+  - エンディングテーマ - [荻野清子](https://ja.wikipedia.org/wiki/荻野清子 "wikilink")（三谷幸喜脚本の舞台「グッドナイト スリイプタイト」からの流用）
   - 製作著作 - [WOWOW](../Page/WOWOW.md "wikilink")
+
+## ロケ地
+
+撮影協力として、伊那谷フィルムコミッションがクレジットされている。
+
+長野県の[伊那市](../Page/伊那市.md "wikilink")長谷地区（中尾・市野瀬）および[秋葉街道](https://ja.wikipedia.org/wiki/秋葉街道 "wikilink")、[三峰川](../Page/三峰川.md "wikilink")
 
 ## 脚注・出典
 

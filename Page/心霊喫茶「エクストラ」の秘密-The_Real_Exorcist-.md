@@ -69,7 +69,7 @@
 
   - \- キネマ旬報映画データベース
 
-[Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:日本の映画](https://ja.wikipedia.org/wiki/Category:日本の映画 "wikilink") [Category:幸福の科学の作品](https://ja.wikipedia.org/wiki/Category:幸福の科学の作品 "wikilink") [Category:日活配給の映画](https://ja.wikipedia.org/wiki/Category:日活配給の映画 "wikilink") [Category:東京テアトル配給の映画](https://ja.wikipedia.org/wiki/Category:東京テアトル配給の映画 "wikilink")
+[Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:幸福の科学の作品](https://ja.wikipedia.org/wiki/Category:幸福の科学の作品 "wikilink") [Category:日活配給の映画](https://ja.wikipedia.org/wiki/Category:日活配給の映画 "wikilink") [Category:東京テアトル配給の映画](https://ja.wikipedia.org/wiki/Category:東京テアトル配給の映画 "wikilink")
 
 1.  [心霊喫茶「エクストラ」の秘密-The Real Exorcist- | 映画-Movie Walker](https://movie.walkerplus.com/mv68279/)
 2.  映画公式サイトより

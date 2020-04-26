@@ -3,7 +3,7 @@
 
 **JO1**（ジェイオーワン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[グローバル](https://ja.wikipedia.org/wiki/グローバル "wikilink")[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。所属は[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")と韓国のエンターテインメント企業[CJ ENMによる合弁会社の](../Page/CJ_ENM.md "wikilink")[LAPONE ENTERTAINMENT](https://ja.wikipedia.org/wiki/LAPONEエンタテイメント "wikilink")。
 
-オーディション番組『[PRODUCE 101 JAPAN](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")』の合格者11人で結成され、2020年3月4日に「[PROTOSTAR](https://ja.wikipedia.org/wiki/PROTOSTAR "wikilink")」でデビュー\[1\] 。グループ名には「『[PRODUCE 101 JAPAN](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")』で一緒に夢を目指した練習生たちが1つになって、世界の頂点を目指していく」という意味が込められている\[2\]。公式ファンネームは『JAM』（ジャム）\[3\]。
+オーディション番組『[PRODUCE 101 JAPAN](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")』の合格者11人で結成され、2020年3月4日に「[PROTOSTAR](../Page/PROTOSTAR.md "wikilink")」でデビュー\[1\] 。グループ名には「『[PRODUCE 101 JAPAN](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")』で一緒に夢を目指した練習生たちが1つになって、世界の頂点を目指していく」という意味が込められている\[2\]。公式ファンネームは『JAM』（ジャム）\[3\]。
 
 ## 来歴
 
@@ -16,7 +16,7 @@
 
 ### 2020年
 
-  - 3月4日 - デビューシングル「[PROTOSTAR](https://ja.wikipedia.org/wiki/PROTOSTAR "wikilink")」をリリース\[7\]。
+  - 3月4日 - デビューシングル「[PROTOSTAR](../Page/PROTOSTAR.md "wikilink")」をリリース\[7\]。
 
 ## メンバー
 
@@ -198,12 +198,12 @@
 
 ### シングル
 
-|                      | リリース日      | タイトル                                                                | 最高位 | 規格品番                                                                                         | 形態\<\!--   |
-| -------------------- | ---------- | ------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------- | ---------- |
-| レーベル--\>             |            |                                                                     |     |                                                                                              |            |
-| 1                    | 2020年3月4日  | **[PROTOSTAR](https://ja.wikipedia.org/wiki/PROTOSTAR "wikilink")** | 1位  | 初回限定盤A（[CD](https://ja.wikipedia.org/wiki/CDDA "wikilink")+[DVD](../Page/DVD.md "wikilink")） | YRCS-90173 |
-| 初回限定盤B（CD+フォトブックレット） | YRCS-90174 |                                                                     |     |                                                                                              |            |
-| 通常盤（CD）              | YRCS-90175 |                                                                     |     |                                                                                              |            |
+|                      | リリース日      | タイトル                                             | 最高位 | 規格品番                                                                                         | 形態\<\!--   |
+| -------------------- | ---------- | ------------------------------------------------ | --- | -------------------------------------------------------------------------------------------- | ---------- |
+| レーベル--\>             |            |                                                  |     |                                                                                              |            |
+| 1                    | 2020年3月4日  | **[PROTOSTAR](../Page/PROTOSTAR.md "wikilink")** | 1位  | 初回限定盤A（[CD](https://ja.wikipedia.org/wiki/CDDA "wikilink")+[DVD](../Page/DVD.md "wikilink")） | YRCS-90173 |
+| 初回限定盤B（CD+フォトブックレット） | YRCS-90174 |                                                  |     |                                                                                              |            |
+| 通常盤（CD）              | YRCS-90175 |                                                  |     |                                                                                              |            |
 
 ### ミュージックビデオ
 
@@ -251,7 +251,7 @@
 <td><p>テレビ朝日系「<a href="https://ja.wikipedia.org/wiki/そんなコト考えた事なかったクイズ!トリニクって何の肉!?" title="wikilink">そんなコト考えた事なかったクイズ!トリニクって何の肉!?</a>」エンディングテーマ<br />
 関西テレビ「<a href="https://ja.wikipedia.org/wiki/千原ジュニアの座王" title="wikilink">千原ジュニアの座王</a>」エンディングテーマ<br />
 <a href="../Page/ABCマート.md" title="wikilink">ABC-MART</a>×<a href="../Page/ナイキ.md" title="wikilink">NIKE</a> TV•CF テーマソング</p></td>
-<td><p>1stシングル「<a href="https://ja.wikipedia.org/wiki/PROTOSTAR" title="wikilink">PROTOSTAR</a>」</p></td>
+<td><p>1stシングル「<a href="../Page/PROTOSTAR.md" title="wikilink">PROTOSTAR</a>」</p></td>
 </tr>
 </tbody>
 </table>
@@ -261,15 +261,14 @@
 ### 配信番組
 
   - JO1 HOUSE（2020年2月27日 - 2020年3月26日、[GYAO\!](../Page/GYAO!.md "wikilink")）-　タイトル公表前は「JO1の新番組（仮）※タイトルは自分たちで考えます！」と表記されていた\[23\]。
+  - JO1デビュー記念特別生配信（2020年3月4日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")）
 
-<!-- end list -->
-
-  - JO1デビュー記念特別生配信 (2020年3月4日、YouTube)
-
-### CM
+### CM・広告
 
   - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ワイモバ学割「BIG Y\!」（2020年2月 - ）\[24\]
   - [ABC-MART](https://ja.wikipedia.org/wiki/ABC-MART "wikilink")×[NIKE](https://ja.wikipedia.org/wiki/NIKE "wikilink")「NIKE ONE」（2020年3月6日 - ）
+  - [ネスレ日本](../Page/ネスレ日本.md "wikilink")「“[キットカット](../Page/キットカット.md "wikilink")” ひと月遅れの卒業式 with JO1」（2020年3月30日 - ）\[25\]
+  - [ファミリーマート](../Page/ファミリーマート.md "wikilink")ラブフラッペ「JO1 MEETS FRAPPE.」（2020年4月16日 - ）\[26\]\[27\]
 
 ## イベント
 
@@ -282,7 +281,7 @@
 
 ### その他
 
-  - [ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")メゾン大阪御堂筋オープンニングイベント（2020年1月29日）\[25\]
+  - [ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")メゾン大阪御堂筋オープンニングイベント（2020年1月29日）\[28\]
 
 ## 脚注
 
@@ -324,5 +323,8 @@
 21.
 22.
 23.
-24.  Y\!mobile（ワイモバイル）|url=[https://www.ymobile.jp/sp/ymgakuwari/|website=Y\!mobile|accessdate=2020-01-22|language=ja](https://www.ymobile.jp/sp/ymgakuwari/%7Cwebsite=Y!mobile%7Caccessdate=2020-01-22%7Clanguage=ja)}}
+24.  Y\!mobile（ワイモバイル）|url=[https://www.ymobile.jp/sp/ymgakuwari/|website=Y\!mobile|accessdate=2020-01-22](https://www.ymobile.jp/sp/ymgakuwari/%7Cwebsite=Y!mobile%7Caccessdate=2020-01-22)}}
 25.
+26.
+27.
+28.

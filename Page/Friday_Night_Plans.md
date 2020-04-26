@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本人の父とフィリピン人の母を持つ東京都出身のMasumiは、2018年7月からFriday Night Plansの活動を開始。その楽曲が大手音楽ストリーミングサービスで話題となり、2018年12月にリリースした竹内まりやのカバー曲「[プラスティック・ラブ](https://ja.wikipedia.org/wiki/プラスティック・ラブ "wikilink")」が海外で高評価を受ける。2019年11月15日にリリースしたセカンドEP「Complex」が[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") R\&B/ソウルアルバムランキングで1位を獲得\[2\]\[3\]。2019年12月[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")[ヴェゼル](https://ja.wikipedia.org/wiki/ヴェゼル "wikilink")のCMソング「HONDA」をリリース\[4\]\[5\]。 プロジェクト名「Friday Night Plans」の由来は、「金曜日の夜から何をしよかとワクワクする事を思い浮かべる瞬間の感覚」という彼女がもっとも大切にしている感覚\[6\]。
+日本人の父とフィリピン人の母を持つ東京都出身のMasumiは、2018年7月からFriday Night Plansの活動を開始。その楽曲が大手音楽ストリーミングサービスで話題となり、2018年12月にリリースした竹内まりやのカバー曲「[プラスティック・ラブ](https://ja.wikipedia.org/wiki/プラスティック・ラブ "wikilink")」が海外で高評価を受ける。2019年11月15日にリリースしたセカンドEP「Complex」が[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") R\&B/ソウルアルバムランキングで1位を獲得\[2\]\[3\]。2019年12月に、[Honda](../Page/本田技研工業.md "wikilink")「[VEZEL](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink")」のCMソング「HONDA」をリリース\[4\]\[5\]。 プロジェクト名「Friday Night Plans」の由来は、「金曜日の夜から何をしよかとワクワクする事を思い浮かべる瞬間の感覚」という彼女がもっとも大切にしている感覚\[6\]。
 
 ## 経歴
 
@@ -17,7 +17,7 @@
 
 ### タイアップ
 
-  - [ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")[ヴェゼル](https://ja.wikipedia.org/wiki/ヴェゼル "wikilink") - VEZEL「PLAY VEZEL 夜」篇CMソング（2019年12月-）\[9\]\[10\]
+  - [Honda](../Page/本田技研工業.md "wikilink")「[VEZEL](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink")」-「PLAY VEZEL 夜」篇 CMソング（2019年12月-）\[9\]\[10\]
 
 ## 脚注
 

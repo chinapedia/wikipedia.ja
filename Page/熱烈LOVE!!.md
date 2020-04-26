@@ -61,7 +61,7 @@
 1.  熱烈LOVE\!\!
 2.  冬色イルミネーション
 3.  '''Oh\! My Princess
-      - 作詞・作曲：[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")
+      - 作詞・作曲：[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")
       - 編曲：佐久間誠
 4.  熱烈LOVE\!\!（Instrumental）
 5.  冬色イルミネーション（Instrumental）

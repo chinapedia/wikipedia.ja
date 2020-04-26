@@ -35,7 +35,7 @@
 
 ### ヒトでの調節
 
-サイクリンDは分裂促進因子の受容体の下流経路であるRas/MAPK経路、-Tcf/経路\[8\]、[PI3キナーゼ](../Page/PI3キナーゼ.md "wikilink")\[9\]によって調節される。MAPキナーゼであるERKは下流の転写因子Myc、[AP-1](https://ja.wikipedia.org/wiki/AP-1 "wikilink")\[10\]、\[11\]を活性化し、これらがCDK4、CDK6、サイクリンDの遺伝子の転写を活性化し、[リボソーム](../Page/リボソーム.md "wikilink")の生合成を増加させる。[Rhoファミリーの](https://ja.wikipedia.org/wiki/RhoファミリーGタンパク質 "wikilink")[GTPアーゼ](../Page/GTPアーゼ.md "wikilink")、、は、[インテグリン](../Page/インテグリン.md "wikilink")に応答してサイクリンD遺伝子を活性化する\[12\]\[13\]\[14\]。
+サイクリンDは分裂促進因子の受容体の下流経路であるRas/MAPK経路、[β-カテニン](https://ja.wikipedia.org/wiki/β-カテニン "wikilink")-Tcf/経路\[8\]、[PI3キナーゼ](../Page/PI3キナーゼ.md "wikilink")\[9\]によって調節される。MAPキナーゼであるERKは下流の転写因子Myc、[AP-1](https://ja.wikipedia.org/wiki/AP-1 "wikilink")\[10\]、\[11\]を活性化し、これらがCDK4、CDK6、サイクリンDの遺伝子の転写を活性化し、[リボソーム](../Page/リボソーム.md "wikilink")の生合成を増加させる。[Rhoファミリーの](https://ja.wikipedia.org/wiki/RhoファミリーGタンパク質 "wikilink")[GTPアーゼ](../Page/GTPアーゼ.md "wikilink")、、は、[インテグリン](../Page/インテグリン.md "wikilink")に応答してサイクリンD遺伝子を活性化する\[12\]\[13\]\[14\]。
 
 p27<sup>Kip1</sup>とp21<sup>Cip1</sup>は、CDKを負に調節する（CKI）である。しかしながら、これらはサイクリンD-CDK4/6複合体の促進因子でもある。p27<sup>Kip1</sup>とp21<sup>Cip1</sup>がなければ、サイクリンDのレベルは低下し、複合体は検出されなくなる\[15\]。
 

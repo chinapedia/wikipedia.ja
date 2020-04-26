@@ -29,7 +29,7 @@
 <!-- end list -->
 
 1.  **開会式**
-      - 前身バンドであるMrs.Vinciの頃に発表した楽曲『Mrs.Vinci In Tokyo』の一部分。
+      - 前身バンドであるMrs.Vinciの頃に発表した楽曲『In Tokyo』の一部分。
 2.  **どろん**
       - 映画『[スマホを落としただけなのに 囚われの殺人鬼](../Page/スマホを落としただけなのに_囚われの殺人鬼.md "wikilink")』主題歌
 3.  **Teenager Forever**
@@ -44,7 +44,7 @@
       - 配信限定2ndシングル
       - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系 [土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[イノセンス 冤罪弁護士](https://ja.wikipedia.org/wiki/イノセンス_冤罪弁護士 "wikilink")』主題歌
 6.  **幕間**
-      - 「開会式」同様、『Mrs.Vinci In Tokyo』の一部分。
+      - 「開会式」同様、『In Tokyo』の一部分。
 7.  **[飛行艇](../Page/飛行艇_\(King_Gnuの曲\).md "wikilink")**
       - 配信限定3rdシングル
       - ANA 国内版テレビCM『ひとには翼がある』篇CMソング
@@ -60,7 +60,7 @@
       - 全編に渡り、常田がメインボーカルを務めるバラード曲。元々は収録される予定では無かったが、アルバム全体の流れを考え、急遽、締め切り一週間前に製作された\[7\]。
       - 常田曰く、King Gnuが解散した際を思い浮かべて歌詞を書いたという。
 12. **閉会式**
-      - 「開会式」「幕間」同様、『Mrs.Vinci In Tokyo』の一部分。
+      - 「開会式」「幕間」同様、『In Tokyo』の一部分。
 
 ### Blu-ray (初回生産限定盤)
 
@@ -176,18 +176,26 @@ TSUTAYAオンラインショッピング</p></td>
 
 このアルバムを引っ下げて開催される全12公演の全国ツアー。
 
-1.  2020年2月29日（土）[マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")
-2.  2020年3月5日（木）[大阪城ホール](../Page/大阪城ホール.md "wikilink")
-3.  2020年3月17日（火）[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館
-4.  2020年3月18日（水）国立代々木競技場 第一体育館
-5.  2020年4月4日（土）仙台GIGS
-6.  2020年4月5日（日）仙台GIGS
-7.  2020年4月10日（金）KT Zepp Yokohama
-8.  2020年4月11日（土）KT Zepp Yokohama
-9.  2020年4月16日（木）[Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp_Sapporo "wikilink")
-10. 2020年4月17日（金）Zepp Sapporo
-11. 2020年4月20日（月）[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp_Nagoya "wikilink")
-12. 2020年4月21日（火）Zepp Nagoya
+| 公演日                                                     | 会場                                                                     | 備考                       |
+| ------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------ |
+| [2月29日](../Page/2月29日.md "wikilink")                    | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 新型コロナウイルスの感染防止のため延期      |
+| [3月5日](../Page/3月5日.md "wikilink")                      | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 新型コロナウイルスの感染防止のため延期      |
+| [3月17日](../Page/3月17日.md "wikilink")                    | [国立代々木競技場 第1体育館](../Page/国立代々木競技場.md "wikilink")                       | 新型コロナウイルスの感染防止のため延期      |
+| [3月18日](../Page/3月18日.md "wikilink")                    | [国立代々木競技場 第1体育館](../Page/国立代々木競技場.md "wikilink")                       | 新型コロナウイルスの感染防止のため延期      |
+| [4月4日](../Page/4月4日.md "wikilink")                      | 仙台GIGS                                                                 | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月5日](../Page/4月5日.md "wikilink")                      | 仙台GIGS                                                                 | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月10日](../Page/4月10日.md "wikilink")                    | [KT Zepp Yokohama](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink") | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月11日](../Page/4月11日.md "wikilink")                    | [KT Zepp Yokohama](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink") | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月16日](../Page/4月16日.md "wikilink")                    | [KT Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")  | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月17日](../Page/4月17日.md "wikilink")                    | [KT Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")  | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | [KT Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")   | 新型コロナウイルスの感染防止のため中止または延期 |
+| [4月21日](../Page/4月21日.md "wikilink")                    | [KT Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")   | 新型コロナウイルスの感染防止のため中止または延期 |
+| [5月5日](../Page/5月5日.md "wikilink")                      | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 振替公演                     |
+| [5月13日](../Page/5月13日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 振替公演                     |
+| [5月14日](../Page/5月14日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 振替公演                     |
+| [5月31日](../Page/5月31日.md "wikilink")                    | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 振替公演                     |
+| [6月24日](../Page/6月24日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 振替公演                     |
+| [6月25日](../Page/6月25日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 振替公演                     |
 
 ## 脚注
 

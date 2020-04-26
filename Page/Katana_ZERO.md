@@ -35,6 +35,14 @@
 
   - 「Best Independent Game」ノミネート\[6\]
 
+  - 2019  「Game, Original Adventure」ノミネート\[7\]
+
+  - Awards 2020 「Excellence in Design」ノミネート\[8\]
+
+  - 2020 [SXSW Gaming Awards](https://ja.wikipedia.org/wiki/SXSWゲーム賞 "wikilink") 「Most Promising New Intellectual Property」ノミネート\[9\]
+
+  - 「Debut Game」ノミネート\[10\]
+
 ## 脚注
 
 ### 注釈
@@ -54,3 +62,7 @@
 4.
 5.
 6.
+7.
+8.
+9.
+10.

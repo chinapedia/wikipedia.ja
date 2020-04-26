@@ -11,8 +11,8 @@
 <tr class="header">
 <th><p>コードネーム</p></th>
 <th><ul>
-<li><strong>Coral</strong> (Pixel 4)</li>
-<li><strong>Flame</strong> (Pixel 4 XL)</li>
+<li><strong>Flame</strong> (Pixel 4)</li>
+<li><strong>Coral</strong> (Pixel 4 XL)</li>
 </ul></th>
 </tr>
 </thead>

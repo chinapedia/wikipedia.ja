@@ -31,6 +31,15 @@
 
 ## 脚注
 
+## 関連項目
+
+  - [自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")
+  - [H\&K](../Page/ヘッケラー&コッホ.md "wikilink")
+  - [H\&K USP](../Page/H&K_USP.md "wikilink")
+  - [H\&K P2000](https://ja.wikipedia.org/wiki/H&K_P2000 "wikilink")
+  - [H\&K P30](https://ja.wikipedia.org/wiki/H&K_P30 "wikilink")
+  - [H\&K HK45](https://ja.wikipedia.org/wiki/H&K_HK45 "wikilink")
+
 ## 外部リンク
 
   -

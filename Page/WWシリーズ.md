@@ -32,7 +32,7 @@
   - クジ・マサヤマ
     ウォーカロン産業の基礎を築いたうちの一人とされる昔の科学者。故人。
   - [サエバ・ミチル](https://ja.wikipedia.org/wiki/百年シリーズ#主な登場人物 "wikilink")
-    かつて[キョートで殺害された人物で](https://ja.wikipedia.org/wiki/京都 "wikilink")、その脳がロイディという旧型のウォーカロンに入っている。
+    かつて[キョートで殺害された人物](https://ja.wikipedia.org/wiki/京都 "wikilink")。
 
 ## シリーズ作品
 
@@ -40,7 +40,8 @@
 
 1.  それでもデミアンは一人なのか？ Still Does Demian Have Only One Brain?（2019年6月発行、ISBN 978-4-06-514537-1）
 2.  神はいつ問われるのか？ When Will God be Questioned?（2019年10月発行、ISBN 978-4-06-517445-6）
-3.  キャサリンはどのように子供を産んだのか？ How Did Catherine Cooper Have a Child?（2020年2月、ISBN 978-4-06-518283-3）
+3.  キャサリンはどのように子供を産んだのか？ How Did Catherine Cooper Have a Child?（2020年2月発行、ISBN 978-4-06-518283-3）
+4.  幽霊を創出したのは誰か？ Who Created the Ghost?（2020年6月発行予定）
 
 ## 関連シリーズ
 

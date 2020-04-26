@@ -23,10 +23,10 @@
 1.  **OPENING**
 2.  **[Your Song](https://ja.wikipedia.org/wiki/重力と呼吸_#収録曲 "wikilink")**
       -
-        イントロで銀紙が舞った。
+        イントロで銀紙が舞った。アウトロは、観客と桜井が歌う。
 3.  **[Starting Over](https://ja.wikipedia.org/wiki/REFLECTION_\(Mr.Childrenのアルバム\)_#収録曲 "wikilink")**
       -
-        『[Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")』以来、約3年ぶりの演奏。
+        『[Mr.Children Stadium Tour 2015 未完](https://ja.wikipedia.org/wiki/Mr.Children_Stadium_Tour_2015_未完 "wikilink")』以来、約3年ぶりの演奏。桜井和寿は、ブルーフラワーを使用している。イントロが、アレンジされており、桜井和寿が観客に語りかけている。
 4.  **[himawari](https://ja.wikipedia.org/wiki/himawari_\(Mr.Childrenの曲\) "wikilink")**
 5.  **\<S.MC\>**
 6.  **everybody goes -秩序のない現代にドロップキック-**
@@ -63,7 +63,7 @@
         特効の花火が上がった。
 19. **[Monster](https://ja.wikipedia.org/wiki/I_LOVE_U_#収録曲 "wikilink")**
       -
-        桜井がせり上がったセンターの花道で歌唱する。DVDではここまでがDisc 1となっている。
+        桜井がせり上がったセンターの花道で歌唱する。桜井和寿は、ステージを這ったり、寝っ転がったりする。DVDではここまでがDisc 1となっている。
 20. **[SUNRISE](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)_#収録曲 "wikilink")**
       -
         映像化は『[Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")』以来、約8年半ぶりでライブツアーでは初披露となった。
@@ -73,8 +73,8 @@
         『[Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink")』以来、約7年8か月ぶりに演奏された。イントロと間奏で桜井が観客に語りかける場面がある。また、当時と異なり桜井はエレキギターを演奏せず、ハンドマイクのみで歌っている。
 23. **[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")**
       -
-        キーを半音下げて演奏。特効の銀テープが発射された。
-24. **[海にて、心は裸になりたがる](https://ja.wikipedia.org/wiki/重力と呼吸_#収録曲 "wikilink")**
+        キーを半音下げて演奏。イントロで、桜井和寿が、カウント及び観客に語りかけている。特効の銀テープが発射された。
+24. **[海にて、心は裸になりたがる](https://ja.wikipedia.org/wiki/重力と呼吸_#収録曲 "wikilink")** アリーナツアー同様、イントロで、桜井和寿が、観客に語りかける。また、ジャケットを脱ぎ、振り回す、演出がある。
 25. **[SINGLES](https://ja.wikipedia.org/wiki/重力と呼吸_#収録曲 "wikilink")**
       -
         ここからアンコール。
@@ -117,7 +117,7 @@
 
 ## 脚注
 
-[Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink") [Category:2019年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2019年の音楽関連の映像作品 "wikilink") [Category:コンサート・ツアー](https://ja.wikipedia.org/wiki/Category:コンサート・ツアー "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink") [Category:2019年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2019年のライブ・ビデオ "wikilink") [Category:2019年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2019年のコンサート・ツアー "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

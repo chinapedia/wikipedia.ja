@@ -78,6 +78,31 @@
 </tbody>
 </table>
 
+## EP
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>配信日</p></th>
+<th><p>タイトル　</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2020年3月14日</p></td>
+<td><p><strong>Raincarnation</strong></p></td>
+<td><p><strong>全4曲</strong></p>
+<p>1.Pictures</p>
+<p>2.Sigh</p>
+<p>3.Shadows</p>
+<p>4.Moonlight</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 参加作品　
 
 | 配信日         | タイトル            | 収録曲                            |

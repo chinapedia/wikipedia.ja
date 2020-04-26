@@ -62,12 +62,12 @@
 ## 関連項目
 
   - [チョコエッグ](../Page/チョコエッグ.md "wikilink")
-  - [世界の鉄道](https://ja.wikipedia.org/wiki/世界の鉄道_\(雑誌\) "wikilink") - 2003年8月から2004年7月まで発売されていた[デル・プラド](https://ja.wikipedia.org/wiki/デル・プラド "wikilink")の[Nゲージ](../Page/Nゲージ.md "wikilink")モデル付き[分冊百科](../Page/分冊百科.md "wikilink")。本製品同様に各国の機関車を製品化していた。
+  - [世界の鉄道](https://ja.wikipedia.org/wiki/世界の鉄道_\(雑誌\) "wikilink") - 2003年8月から2004年7月まで発売されていた[デル・プラド](https://ja.wikipedia.org/wiki/デル・プラド "wikilink")の[Nゲージ](../Page/Nゲージ.md "wikilink")サイズのディスプレイモデル付き[分冊百科](../Page/分冊百科.md "wikilink")。本製品同様に各国の機関車を製品化していた。
 
 ## 外部リンク
 
   -
-[Category:キャンディの商品名](https://ja.wikipedia.org/wiki/Category:キャンディの商品名 "wikilink") [Category:食玩](https://ja.wikipedia.org/wiki/Category:食玩 "wikilink") [Category:鉄道模型](https://ja.wikipedia.org/wiki/Category:鉄道模型 "wikilink") [Category:鉄道模型のスケール](https://ja.wikipedia.org/wiki/Category:鉄道模型のスケール "wikilink")
+[Category:キャンディの商品名](https://ja.wikipedia.org/wiki/Category:キャンディの商品名 "wikilink") [Category:食玩](https://ja.wikipedia.org/wiki/Category:食玩 "wikilink")
 
 1.
 2.

@@ -16,11 +16,11 @@
 
 ## 北海道
 
-| 愛称         | 放送局名       | 公式サイト                                             | サイマルサイト                                           | 周波数     | 所在地                                                                                                                                                                                   | 記号       | 現状                      |
-| ---------- | ---------- | ------------------------------------------------- | ------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- |
-| RNS        | ラジオ西さっぽろ   | <http://rns-radio.blogspot.com>                   | <http://radio.net/s/rns>                          | 83.5MHz | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[西区](../Page/西区.md "wikilink")[西野](https://ja.wikipedia.org/wiki/西野 "wikilink") | M.RL.NTL | 放送中                     |
-| 定山渓ミニFM放送局 | 定山渓ミニFM放送局 | 無し                                                | なし                                                | 88.0MHz | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[南区](../Page/南区.md "wikilink")[定山渓](../Page/定山渓.md "wikilink")                  | M        | １月をもって一度閉局するが、春頃に再度開局予定 |
-| FMピパウシ     | エフエム二風谷放送  | <http://www.aa.alpha-net.ne.jp/skayano/menu.html> | <http://www.aa.alpha-net.ne.jp/skayano/menu.html> | 76.1MHz | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[沙流郡](../Page/沙流郡.md "wikilink")[平取町](../Page/平取町.md "wikilink") [二風谷](https://ja.wikipedia.org/wiki/二風谷 "wikilink")               | F.RL     | 放送中 |放送中                |
+| 愛称         | 放送局名            | 公式サイト                                             | サイマルサイト                                           | 周波数     | 所在地                                                                                                                                                                                           | 記号       | 現状                      |
+| ---------- | --------------- | ------------------------------------------------- | ------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- |
+| SCFM       | Sapporo City FM | <https://scfm> www2.jp                            | <https://scfm> www2.jp                            | 83.5MHz | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[西区](../Page/西区_\(札幌市\).md "wikilink")[西野](https://ja.wikipedia.org/wiki/西野 "wikilink") | M.RL.NTL | 放送中                     |
+| 定山渓ミニFM放送局 | 定山渓ミニFM放送局      | 無し                                                | なし                                                | 88.0MHz | 北海道札幌市[南区](../Page/南区_\(札幌市\).md "wikilink")[定山渓](../Page/定山渓.md "wikilink")                                                                                                                  | M        | １月をもって一度閉局するが、春頃に再度開局予定 |
+| FMピパウシ     | エフエム二風谷放送       | <http://www.aa.alpha-net.ne.jp/skayano/menu.html> | <http://www.aa.alpha-net.ne.jp/skayano/menu.html> | 76.1MHz | 北海道[沙流郡](../Page/沙流郡.md "wikilink")[平取町](../Page/平取町.md "wikilink") [二風谷](https://ja.wikipedia.org/wiki/二風谷 "wikilink")                                                                       | F.RL     | 放送中 |放送中                |
 
 ## 東北
 
@@ -63,11 +63,11 @@
 
 ## 九州
 
-| 愛称 | 放送局名     | 公式サイト                                             | サイマルサイト | 周波数     | 所在地                                                                                                                                      | 記号 | 現状  |
-| -- | -------- | ------------------------------------------------- | ------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -- | --- |
-| なし | 徳之島ミニFM  | 無し                                                | 無し      | 76.4MHz | [鹿児島県](../Page/鹿児島県.md "wikilink")[徳之島](../Page/徳之島.md "wikilink")                                                                       | ？  | 不明  |
-| なし | 北FM      | 無し                                                | 無し      | 85.5MHz | [福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")                                                    | F  | 放送中 |
-| なし | 門司港レトロFM | <https://mojikoretrofm767.wixsite.com/retrofm767> | 無し      | 76.7MHz | [福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink") | F  | 放送中 |
+| 愛称 | 放送局名     | 公式サイト                                             | サイマルサイト | 周波数     | 所在地                                                                                   | 記号 | 現状  |
+| -- | -------- | ------------------------------------------------- | ------- | ------- | ------------------------------------------------------------------------------------- | -- | --- |
+| なし | 徳之島ミニFM  | 無し                                                | 無し      | 76.4MHz | [鹿児島県](../Page/鹿児島県.md "wikilink")[徳之島](../Page/徳之島.md "wikilink")                    | ？  | 不明  |
+| なし | 北FM      | 無し                                                | 無し      | 85.5MHz | [福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink") | F  | 放送中 |
+| なし | 門司港レトロFM | <https://mojikoretrofm767.wixsite.com/retrofm767> | 無し      | 76.7MHz | 福岡県北九州市[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink")                            | F  | 放送中 |
 
 ## その他
 

@@ -296,7 +296,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>観覧車</strong></p></td>
-<td><p><a href="../Page/中田敦彦.md" title="wikilink">中田敦彦</a></p></td>
+<td><p>中田敦彦</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -322,6 +322,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/寺田有希.md" title="wikilink">寺田有希</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/XENO_(カードゲーム)#テーマソング「XENO」" title="wikilink">XENO</a></strong></p></td>
+<td><p>2019年12月27日</p></td>
+<td><p><a href="../Page/中田敦彦.md" title="wikilink">中田敦彦</a></p></td>
+<td><p>JUVENILE</p></td>
+<td><p>JUVENILE</p></td>
+<td><p>配信シングル</p></td>
+</tr>
+<tr class="even">
 <td><p>Liyuu</p></td>
 <td><p><strong>魔法とガムと勇気</strong></p></td>
 <td><p>2020年1月22日</p></td>

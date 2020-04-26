@@ -5,15 +5,19 @@
 
 ## 来歴
 
-1994年9月28日生まれ。日本人の母親と、[ハンガリー](../Page/ハンガリー.md "wikilink")系[オーストラリア](../Page/オーストラリア.md "wikilink")人（ハンガリーとドイツ人のハーフ）の父親を持つ\[5\]。[シドニー大学](../Page/シドニー大学.md "wikilink")デザインコンピューティングの[学士](../Page/学士.md "wikilink")号を取得している\[6\]。豪州で育つが幼少時から祖母に録画して貰った日本のアニメやバラエティ番組（『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』『[忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")』『[おじゃる丸](../Page/おじゃる丸.md "wikilink")』『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")』『[ダウンタウンのガキの使いやあらへんで！](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")』）を視聴し\[7\]日本語学習を継続してきたため、豪州のGrade11（日本の高校2年生に相当）で[漢字検定](https://ja.wikipedia.org/wiki/漢字検定 "wikilink")3級を取得\[8\]。日本語はネイティブレベルである。
+1994年9月28日生まれ。日本人の母親と、[ハンガリー](../Page/ハンガリー.md "wikilink")系[オーストラリア](../Page/オーストラリア.md "wikilink")人（ハンガリーとドイツ人のハーフ）の父親を持つ\[5\]。[シドニー大学](../Page/シドニー大学.md "wikilink")デザインコンピューティングの[学士](../Page/学士.md "wikilink")号を取得している\[6\]。豪州で育つが幼少時から日本人の祖母に録画して貰った日本のアニメやバラエティ番組（『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』『[忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")』『[おじゃる丸](../Page/おじゃる丸.md "wikilink")』『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん "wikilink")』『[ダウンタウンのガキの使いやあらへんで！](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")』）を視聴し\[7\]日本語学習を継続してきたため、豪州のGrade11（日本の高校2年生に相当）で[漢字検定](https://ja.wikipedia.org/wiki/漢字検定 "wikilink")3級を取得\[8\]。日本語はネイティブレベルである。
 
 チャンネル制作は高校の課題で[Webサイト作成の必要に迫られ](../Page/ウェブサイト.md "wikilink")**『theanimeman.com』**\[9\]を制作したことがきっかけ。YouTubeは2013年5月26日に投稿開始。大学在学中は[ウェブデザイナー](../Page/ウェブデザイナー.md "wikilink")を目指していたが\[10\]、2015年6月に投稿した「7 Types of Anime Fans」という動画が好評を得て僅か1カ月で登録者が10万人に到達したことにより、本格的に[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")としての道を歩む決意を固める。チャンネルでは当初、6つの楽器を習得していることから[アニメ音楽](https://ja.wikipedia.org/wiki/アニメ音楽 "wikilink")の演奏やまた大衆的なアニメレビュー動画が投稿されていたが、次第に[同人誌](../Page/同人誌.md "wikilink")など[アンダーグラウンドなカルチャーのレビューなどが数多く投稿されるようになる](../Page/アンダーグラウンド_\(文化\).md "wikilink")。
+
+2015年11月、日本のアニメ業界に向け、日本語でアニメの違法ダウンロード問題への提案に関する動画を発信。オーストラリアの[Netflix](../Page/Netflix.md "wikilink")導入によって違法ダウンロードが劇的に減少した事例を挙げ、日本のオンラインのアニメ配信の必要性を訴える。
 
 2016年2月22日には第二のチャンネルとなる**『Joey』**を立ち上げ、よりプライベートで自由な動画投稿を開始する。大学卒業後の2016年5月には「豪州のインターネット環境が第三世界的であるほど悪い」\[11\]ことが主な理由となり日本へ移住。2016年12月、TBSのバラエティ番組『[好きか嫌いか言う時間](https://ja.wikipedia.org/wiki/好きか嫌いか言う時間 "wikilink")』に出演したことを明かす。2017年6月20日には交際中のYouTuberであるAkidearestと2人でパーソナリティを務めるポッドキャスト番組**『The Anime Show with Joey & AkiDearest』**の配信を開始\[12\]。2018年1月には、動画「WHERE HAVE I BEEN? AND WHERE AM I GOING?」にて、音楽関連の活動にも尽力することを発表。
 
 2018年4月28日には**神城 維来 (かみじょう・いくる)**名義で『[ニコニコ超会議](https://ja.wikipedia.org/wiki/ニコニコ超会議 "wikilink")』に出演\[13\]。また2018年7月にロサンゼルスで開催された『[Anime Expo](https://ja.wikipedia.org/wiki/アニメ・エキスポ "wikilink") 2018』でアニメ『[ポプテピピック](https://ja.wikipedia.org/wiki/ポプテピピック "wikilink")』の須藤孝太郎プロデューサーとのサイン会を実施する\[14\]。同年10月、人気YouTubeチャンネル『[Abroad in Japan](https://ja.wikipedia.org/wiki/Abroad_in_Japan "wikilink")』のクリス・ブロードとコラボレーションを行う。2019年7月、『Anime Expo 2019』にてアニメ『[ダンジョンに出会いを求めるのは間違っているだろうか](https://ja.wikipedia.org/wiki/ダンジョンに出会いを求めるのは間違っているだろうか "wikilink")II』に関するイベントのMCを務める\[15\]。
 
-2019年8月31日には、英語版のライトノベルオーディオブック『戦闘員、派遣します！』（[暁なつめ](https://ja.wikipedia.org/wiki/暁なつめ "wikilink")/著）のナレーションを担当\[16\]。また同年12月21日には「**Ikurru**」名義で自身初のピアノアルバム**『A Picture Frame Full of Memories』**を発表\[17\]。インターネットでの音楽配信を開始。2020年3月、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")のNone Like Joshua（ジョシュアのようなものなし）のチャンネルにて『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に関する[同人音楽](../Page/同人音楽.md "wikilink")の楽曲づくりに[ラッパーとして参加](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。同年同月、[株式会社ガイナックス所属スタッフより](../Page/ガイナックス.md "wikilink")2011年に新設された[株式会社トリガーの代表取締役桝本和也との対談を行う](https://ja.wikipedia.org/wiki/トリガー_\(アニメ制作会社\) "wikilink")。
+2019年7月、[京都アニメーション放火事件の報道を受け](https://ja.wikipedia.org/wiki/京都アニメーション放火殺人事件 "wikilink")、[追悼](https://ja.wikipedia.org/wiki/追悼 "wikilink")と海外の視聴者に企業再建のための募金を呼びかける。
+
+2019年8月、英語版のライトノベルオーディオブック『戦闘員、派遣します！』（[暁なつめ](https://ja.wikipedia.org/wiki/暁なつめ "wikilink")/著）のナレーションを担当\[16\]。また同年12月21日には「**Ikurru**」名義で自身初のピアノアルバム**『A Picture Frame Full of Memories』**を発表\[17\]。インターネットでの音楽配信を開始。2020年3月、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")のNone Like Joshua（ジョシュアのようなものなし）のチャンネルにて『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に関する[同人音楽](../Page/同人音楽.md "wikilink")の楽曲づくりに[ラッパーとして参加](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。同年同月、[株式会社ガイナックス所属スタッフより](../Page/ガイナックス.md "wikilink")2011年に新設された[株式会社トリガーの代表取締役桝本和也との対談を行う](https://ja.wikipedia.org/wiki/トリガー_\(アニメ制作会社\) "wikilink")。
 
 2019年11月時点で動画総再生回数は3億回以上、チャンネル登録者数200万人、動画投稿数1100本以上を記録している。取り上げられたメディアは『the japan times』\[18\]『KADOKAWA』\[19\]『アニメ！アニメ！』\[20\]『VERGE』\[21\]『grape』\[22\]『J-Con』\[23\]など多数。
 
@@ -21,15 +25,19 @@
 
 家族は両親と祖母、妹がいる。父親や祖父など男性は6世代続いてファーストネームがJosephであるため「リアルジョジョ」であるとTwitterで明かしている。
 
-動画中の興味の対象となるコンテンツ作品については、80年代以降の大衆的なアニメや漫画から[18禁同人誌まで非常に幅広く](https://ja.wikipedia.org/wiki/成人向け "wikilink")、日本国内ではマイナーな旧作品からほぼ全ての新作アニメまでチェックしている。動画の作風は、あらゆるオタク表現を「芸術」と捉えていると述べており、またサーカズム（皮肉）が数多く使用される点で、所謂日本の「オタク」のイメージとは異なる西洋的なスタイリッシュさと快活さが特徴である。自身のコメディの芸風については「[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")のような父親の皮肉や風刺と日本のTVのコメディがミックスしている」\[24\]とメディアで述べている。
+動画中の興味の対象となるコンテンツ作品については、80年代以降の大衆的なアニメや漫画から[18禁同人誌まで非常に幅広く](https://ja.wikipedia.org/wiki/成人向け "wikilink")、日本国内ではマイナーな旧作品からほぼ全ての新作アニメまでチェックしている。所蔵する漫画本は約1万冊で、90年代に[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")に掲載された競走馬の育成漫画『[じゃじゃ馬グルーミン★UP\!](../Page/じゃじゃ馬グルーミン★UP!.md "wikilink")』から[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")に掲載の魔法系少女漫画『[赤ずきんチャチャ](../Page/赤ずきんチャチャ.md "wikilink")』などまで広く保持する。[フィギュア](../Page/フィギュア.md "wikilink")は100万円の相当分所持しており、特に「MY WAIFU（俺の嫁）」として溺愛する『＜物語＞シリーズ』の忍野忍のフィギュアが多くみられる。
+
+動画の作風は、あらゆるオタク表現を「芸術」と捉えていると述べており、またサーカズム（皮肉）が数多く使用される点で、所謂日本の「オタク」のイメージとは異なる西洋的なスタイリッシュさと快活さが特徴である。コメディの芸風については「[モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink")のような父親の皮肉や風刺と日本のTVのコメディがミックスしている」\[24\]とメディアで述べている。
 
 「インターネット上で最も有名なアニメYouTuberの1人」とメディアで称されるなど、英語圏のアニメファンへの絶大な影響力を持つ。またTwitterアカウントには社会的に影響力の高い人物の証である「認証バッジ」を授与している。また動画中の自身のアイコンには「白猫を擬人化した黒スーツの男性」を使用している。
 
 主に4chanで用いられるオタク用語の英語訳「my waifu（[俺の嫁](https://ja.wikipedia.org/wiki/俺の嫁 "wikilink")）」「Yandere（[ヤンデレ](https://ja.wikipedia.org/wiki/ヤンデレ "wikilink")）」「Yaoi（[ヤオイ](../Page/やおい.md "wikilink")）」などを英語圏のライトなアニメファンに広めた人物でもある。好きなアニメ・漫画・映画・ゲーム・音楽に『[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")』、『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』、『[AKIRA](../Page/AKIRA_\(漫画\).md "wikilink")』『[パルプフィクション](../Page/パルプ・フィクション.md "wikilink")』『 [もののけ姫](../Page/もののけ姫.md "wikilink")』、『[ファイナルファンタジー6](../Page/ファイナルファンタジーVI.md "wikilink")』、『[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")』『[ピンク・フロイド](../Page/ピンク・フロイド.md "wikilink")』『[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")』を挙げている。
 
-YouTubeサイト内コラボレーションは、「YouTube史上最も成功した人物」である[PewDiePie](https://ja.wikipedia.org/wiki/ピューディパイ "wikilink")\[25\]や日本動画で人気上昇中のYouTuber[クリス・ブロード](https://ja.wikipedia.org/wiki/Abroad_in_Japan "wikilink")、Vチューバ―の[キズナアイ](https://ja.wikipedia.org/wiki/キズナアイ "wikilink")と行ったことがあり、アニメ『[ポプテピピック](https://ja.wikipedia.org/wiki/ポプテピピック "wikilink")』第9話の声優とその英語翻訳を務めたことでも\[26\]話題性が高い。
+YouTubeサイト内コラボレーションは、「YouTube史上最も成功した人物」である[PewDiePie](https://ja.wikipedia.org/wiki/ピューディパイ "wikilink")\[25\]や人気の在日外国人YouTuber[クリス・ブロードや](https://ja.wikipedia.org/wiki/Abroad_in_Japan "wikilink")[Sharla](../Page/Sharla.md "wikilink")、Vチューバ―の[キズナアイ](https://ja.wikipedia.org/wiki/キズナアイ "wikilink")と行ったことがあり、アニメ『[ポプテピピック](https://ja.wikipedia.org/wiki/ポプテピピック "wikilink")』第9話の声優とその英語翻訳を務めたことでも\[26\]話題性が高い。
 
-『the japan times』のインタビューでは、アニメ産業の拡大について次のように述べている。「アニメは、特に国際的にはより主流になりつつあり人々がアニメについてよりオープンになったと思います。動画制作を始めたとき、恥ずべきことと見られる傾向がありました。アニメ好きであれば敗者というステレオタイプです。（アニメファンの）数が増えたとは言いません。アニメについてオープンになった人々の数が増えただけです。コミュニティは常にこれほど大きなものだったと思うが、大部分は隠されたままです」
+『the japan times』のインタビューでは、近年のアニメ産業の拡大について次のように述べている。「アニメは、特に国際的にはより主流になりつつあり人々がアニメについてよりオープンになったと思います。動画制作を始めたとき、恥ずべきことと見られる傾向がありました。アニメ好きであれば敗者というステレオタイプです。（アニメファンの）数が増えたとは言いません。アニメについてオープンになった人々の数が増えただけです。コミュニティは常にこれほど大きなものだったと思うが、大部分は隠されたままです」
+
+また日本のアニメ産業の衰退に関しても強い懸念を抱いており、「日本のアニメの素晴らしさを世界に伝えたい」「アニメが心から好き」と述べ、日本のアニメ業界へ向け海外の様々な問題解消のための事例を動画で紹介している。
 
 ## YouTubeにおけるシリーズ
 

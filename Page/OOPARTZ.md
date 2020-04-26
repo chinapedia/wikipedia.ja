@@ -125,6 +125,8 @@
 </tbody>
 </table>
 
+## 脚注
+
 ## 外部リンク
 
   - [公式ウェブサイト](http://oopartz.com/)

@@ -3,7 +3,7 @@
 
 **Stand-alone shell**（**sash**）は、[UNIX](../Page/UNIX.md "wikilink")のシェルで、システムの復旧に用いられることを考えて設計されている。
 
-sashのビルトインコマンドは、全てのライブラリが[静的リンク](https://ja.wikipedia.org/wiki/静的リンク "wikilink")されており、他の多くの[Linux](../Page/Linux.md "wikilink")におけるシェルとは違って、外部ライブラリへの依存なしに基本的なUNIXコマンドを実行することができる。例としては、cpは、libc.soやld-linuxを必要とする（[GNU Core UtilitiesをLinuxでビルドした場合](../Page/GNU_Core_Utilities.md "wikilink")）が、これはCore Utilitiesのcpは、これらのライブラリに問題があると動作しない。しかしながら、sashにおいては、ビルトインコマンドであるcpは影響を受けない。
+sashのビルトインコマンドは、全てのライブラリが[静的リンク](../Page/静的リンク.md "wikilink")されており、他の多くの[Linux](../Page/Linux.md "wikilink")におけるシェルとは違って、外部ライブラリへの依存なしに基本的なUNIXコマンドを実行することができる。例としては、cpは、libc.soやld-linuxを必要とする（[GNU Core UtilitiesをLinuxでビルドした場合](../Page/GNU_Core_Utilities.md "wikilink")）が、これはCore Utilitiesのcpは、これらのライブラリに問題があると動作しない。しかしながら、sashにおいては、ビルトインコマンドであるcpは影響を受けない。
 
 Sashにおいて利用できるビルトインのUNIXコマンドには次のようなものがある\[1\]。
 

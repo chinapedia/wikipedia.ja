@@ -586,7 +586,7 @@
 
 :\#OvertuRe: ／KiRaRe
 
-:\#67Days ／KiRaRe
+:\#367Days ／KiRaRe
 
 :\#憧れFuture Sign ／KiRaRe, オルタンシア, ステラマリス, トロワアンジュ, テトラルキア
 

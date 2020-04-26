@@ -5,7 +5,7 @@
 
 ## 概要
 
-2018年2月結成。4月より本格的な活動をスタートし、全国ツアーとして2019年3月まで36公演を行った。2018年ラジオNIKKEIおとなのバンド大賞にて優秀賞を受賞。ロシアに招待され\[1\]、2019年5月にはロシアツアーを実施した。TOKAI ROCK　FESにて優秀賞を受賞\[2\]。11月より各ストアにてシングル、アルバムを順次配信をスタート\[3\]。
+2018年2月結成。4月より本格的な活動をスタートし、全国ツアーとして2019年3月まで36公演を行った。2018年ラジオNIKKEIおとなのバンド大賞にて優秀賞を受賞。ロシアに招待され\[1\]、2019年5月にはロシアツアーを実施した。TOKAI ROCK FESにて優秀賞を受賞\[2\]。2020年4月4日ファーストアルバム『caveat emptor』配信スタート。[1](https://linkco.re/n95h5VTV)
 
 ## 経歴
 
@@ -17,11 +17,11 @@
       -
         このツアーのコンセプトは「サラリーマンとしての自分、家庭を守る自分、アマチュアでも音楽活動を幅広く行う自分の3台柱のバランスをどう上手く舵とりを行うか、そして同じような境遇で壁にぶち当たってる人たちに固定概念を破ってもっと自由な一つの活動のありかたを示す」こと。毎回のライブをその日に出演できるメンバーで行う選抜制を採用。（20代～60代のメンバーが在籍）
   - 2018年8月 　ごろう、ちゃんしんが加入。
-  - 2019年2月 「2018年度おとなのバンド大賞」優秀賞受賞\[4\]。
-  - 2019年3月 　Nomad　Tourを完走。最終日でLIVEFOREST2019でごろうが個人賞「MIP(Most Impressive Player)」を受賞 。\[5\]
+  - 2019年2月 「2018年度おとなのバンド大賞」優秀賞受賞\[3\]。
+  - 2019年3月 　Nomad　Tourを完走。最終日でLIVEFOREST2019でごろうが個人賞「MIP(Most Impressive Player)」を受賞 。\[4\]
   - 2019年4月　Tour 2019 JAPAN\&WORLD TOURをスタート。
-  - 2019年5月 　ロシアツアーをスタート。\[6\]
-  - 2019年9月 　TOKAI ROCK FES.2019にて優秀賞を受賞\[7\]。
+  - 2019年5月 　ロシアツアーをスタート。\[5\]
+  - 2019年9月 　TOKAI ROCK FES.2019にて優秀賞を受賞\[6\]。
   - 2019年10月 　ごろうが育児休暇のためバンドから一時離脱することを発表。
 
 ## メンバー
@@ -51,17 +51,23 @@
 
 ## ディスコグラフィ
 
-### 配信限定シングル　
+### シングル　
 
 発売日　　　　　　　　タイトル
 
 2019年11月1日　　　Burlesque
 
-### 配信限定アルバム　
+### 企画アルバム　
 
 発売日　　　　　　　　タイトル
 
 2019年12月1日　　mixture of junk
+
+### １stアルバム
+
+発売日　　　　　　　　タイトル
+
+2020年4月4日　　　caveat emptor　　[2](https://linkco.re/n95h5VTV)　　　　　
 
 ## 脚注
 
@@ -69,8 +75,7 @@
 
 1.
 2.   東海市芸術劇場|url=[http://www.tokai-arts.jp/information/2019/09/9598/|website=www.tokai-arts.jp|accessdate=2019-12-16](http://www.tokai-arts.jp/information/2019/09/9598/%7Cwebsite=www.tokai-arts.jp%7Caccessdate=2019-12-16)}}
-3.   TuneCore Japan|url=[https://www.tunecore.co.jp/artist/bloodlessthewar2020?id=353465\&lang=ja|website=TuneCore](https://www.tunecore.co.jp/artist/bloodlessthewar2020?id=353465&lang=ja%7Cwebsite=TuneCore) Japan|accessdate=2019-12-19|language=ja-JP}}
+3.
 4.
 5.
 6.
-7.

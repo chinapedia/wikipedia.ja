@@ -14,7 +14,7 @@
 
 ## 脚注
 
-[Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:別冊フレンド](https://ja.wikipedia.org/wiki/Category:別冊フレンド "wikilink") [Category:プロレス漫画](https://ja.wikipedia.org/wiki/Category:プロレス漫画 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:2019年の漫画](https://ja.wikipedia.org/wiki/Category:2019年の漫画 "wikilink") [Category:別冊フレンド](https://ja.wikipedia.org/wiki/Category:別冊フレンド "wikilink") [Category:プロレス漫画](https://ja.wikipedia.org/wiki/Category:プロレス漫画 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.

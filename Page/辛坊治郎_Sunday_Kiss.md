@@ -11,7 +11,7 @@
 
   - [辛坊治郎](https://ja.wikipedia.org/wiki/辛坊治郎 "wikilink")（ニュースキャスター、元[読売テレビ報道局解説委員長](../Page/讀賣テレビ放送.md "wikilink")、大阪綜合研究所代表）
   - [薄田ジュリア](https://ja.wikipedia.org/wiki/薄田ジュリア "wikilink")（フリーアナウンサー、元[石川テレビアナウンサー](../Page/石川テレビ放送.md "wikilink")、[セント・フォース](../Page/セント・フォース.md "wikilink")所属）
-  - [加納永美子](https://ja.wikipedia.org/wiki/加納永美子 "wikilink")（タレント、2015年ミス・ユニバース・ジャパン兵庫県大会グランプリ、[松竹芸能](../Page/松竹芸能.md "wikilink")所属）
+  - [加納永美子](../Page/加納永美子.md "wikilink")（タレント、2015年ミス・ユニバース・ジャパン兵庫県大会グランプリ、[松竹芸能](../Page/松竹芸能.md "wikilink")所属）
 
 **構成作家**
 

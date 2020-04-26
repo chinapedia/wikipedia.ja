@@ -1,7 +1,7 @@
 > この記事は[GNOME Games](https://ja.wikipedia.org/wiki/GNOME_Games)から翻訳されています。
 
 
-**GNOME Games**（グノーム・ゲームズ）は、おおよそ15の[パズルゲーム](../Page/パズルゲーム.md "wikilink")と[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")のコレクションで、[フリーで](../Page/フリーソフトウェア.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の標準の一部である\[1\]\[2\]。これらのゲームの[ルックアンドフィール](https://ja.wikipedia.org/wiki/ルックアンドフィール "wikilink")はGNOMEデスクトップのものだが、GNOMEなしでも楽しむことができる。
+**GNOME Games**（グノーム・ゲームズ）は、おおよそ15の[パズルゲーム](../Page/パズルゲーム.md "wikilink")と[ビデオゲーム](https://ja.wikipedia.org/wiki/ビデオゲーム "wikilink")のコレクションで、[フリーで](../Page/フリーソフトウェア.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の標準の,[Linuxゲーム](../Page/Linuxゲーム.md "wikilink")一部である\[1\]\[2\]。これらのゲームの[ルックアンドフィール](https://ja.wikipedia.org/wiki/ルックアンドフィール "wikilink")はGNOMEデスクトップのものだが、GNOMEなしでも楽しむことができる。
 
 ## 歴史
 

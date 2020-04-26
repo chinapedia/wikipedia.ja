@@ -13,7 +13,7 @@
 
 #### [RAW](../Page/WWE・ロウ.md "wikilink")
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:_Brock_Lesnar_WWE_Champion_2014.jpg "wikilink") : [ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:_Andrade_Cien_Almas_-_2018-07-03_crop.jpg "wikilink") : [アンドラーデ](https://ja.wikipedia.org/wiki/ラ・ソンブラ "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:_R-Truth_March_2015.jpg "wikilink"): [Rトゥルース](https://ja.wikipedia.org/wiki/ロン・キリングス "wikilink")\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Drew_Galloway_March_2017.jpg "wikilink"):[ドリュー・マッキンタイア](https://ja.wikipedia.org/wiki/ドリュー・ギャロウェイ "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:_Andrade_Cien_Almas_-_2018-07-03_crop.jpg "wikilink") : [アンドラーデ](https://ja.wikipedia.org/wiki/ラ・ソンブラ "wikilink")\]\]
 
   - [戸澤陽](../Page/戸澤陽.md "wikilink")（Akira Tozawa）（戸澤アキラ、トザワ、戸澤）
   - [MVP](../Page/アルヴィン・バーク・ジュニア.md "wikilink")（アントニオ・バンクス、ザ・ロードウォー、モンテル・ボンタビアス・ポーター）
@@ -22,18 +22,12 @@
   - [アリスター・ブラック](https://ja.wikipedia.org/wiki/トム・バッジェン "wikilink")（Aleister Black）（トミー・ザ・エンド、トミー・エンド、トマス・ヴァンダイク）
   - [アンジェロ・ドーキンス](https://ja.wikipedia.org/wiki/アンジェロ・ドーキンス "wikilink")（Angelo Dawkins）
   - [アンドラーデ](https://ja.wikipedia.org/wiki/ラ・ソンブラ "wikilink")（Andrade）（ブリランテ、ブリランテJr.、ラ・ソンブラ、マニー・アンドラーデ、アンドラーデ "シエン" アルマス、ブラック・ニンジャ、ゲレロ・アステカ、レイ・アステカ）
-  - [EC3](https://ja.wikipedia.org/wiki/マイケル・ハッター "wikilink")（マイク・ハッター、ザ・デヴィアント、マイケル・ハッター、エージェントＤ、デリック・ベイトマン、イーサン・カーター三世）
   - [アイバー](https://ja.wikipedia.org/wiki/トッド・スミス "wikilink")（Ivar）（ハンサム・ジョニー、トッド・ハンソン、トッド・ハンセン、トッド・スミス、ドン・チェスターフィールド、ジョニー・ヘイズ、ハンソン、デューク・オブ・エレガンス、トッド・ヘンセン）
   - [アカム](https://ja.wikipedia.org/wiki/サニー・ディンサ "wikilink")（Akam）（サニー・ディンサ）
   - [ウンベルト・カリージョ](https://ja.wikipedia.org/wiki/ウンベルト・カリージョ "wikilink")（Humberto Carrillo）（ウルティモ・ニンジャ）
   - [エリック](https://ja.wikipedia.org/wiki/レイモンド・ロウ "wikilink")（Erik）（レイモンド・ライト、レイモンド・ロウ、ロウ）
-  - [エリック・ローワン](https://ja.wikipedia.org/wiki/ジョセフ・ルード "wikilink")（Erick Rowan）（ソルーフ、ソルーフ・マリウス、ローワン、ジョー・ラッド）
-  - [エリック・ヤング](https://ja.wikipedia.org/wiki/エリック・ヤング_\(プロレスラー\) "wikilink")（Eric Young）（スーパー・エリック）
-  - [エンジェル・ガーザ](https://ja.wikipedia.org/wiki/エンジェル・ガーザ "wikilink")（Angel Garza）（エル・ヒジョ・デル・ニンジャ、ガーザJr.）
-  - [カート・ホーキンス](https://ja.wikipedia.org/wiki/カート・ホーキンス "wikilink")（Curt Hawkins）（ブライアン・メジャー）
-  - [カール・アンダーソン](https://ja.wikipedia.org/wiki/カール・アンダーソン_\(プロレスラー\) "wikilink")（Karl Anderson）（チャド・アレグラ、キル・ショット、チャド・2・バッド、ケヴィン・コーレイ）
+  - [エンジェル・ガルザ](https://ja.wikipedia.org/wiki/エンジェル・ガルザ "wikilink")（Angel Garza）（エル・ヒジョ・デル・ニンジャ、ガーザJr.）
   - [ケビン・オーエンズ](https://ja.wikipedia.org/wiki/ケビン・スティーン "wikilink")（Kevin Owens）（ケビン・スティーン、ケヴィン・ノアソー））
-  - [ザック・ライダー](https://ja.wikipedia.org/wiki/ザック・ライダー "wikilink")（Zack Ryder）（ブレット・マシューズ、ブレット・メジャー）
   - [サモア・ジョー](../Page/サモア・ジョー.md "wikilink")（Samoa Joe）（キング・ジョー、ジョー・シェイノア、ジョー・シェインノア）
   - [シェルトン・ベンジャミン](../Page/シェルトン・ベンジャミン.md "wikilink")（Shelton Benjamin）（シェルトン・X・ベンジャミン）
   - [ジンダー・マハル](https://ja.wikipedia.org/wiki/ユブラジ・デッシィ "wikilink")（Jinder Mahal）[super](https://ja.wikipedia.org/wiki/ファイル:Injury_icon_2.svg "wikilink")
@@ -41,7 +35,6 @@
   - [セドリック・アレクサンダー](https://ja.wikipedia.org/wiki/セドリック・アレクサンダー "wikilink")（Cedric Alexander）
   - [タイタス・オニール](https://ja.wikipedia.org/wiki/サデウス・バラード "wikilink")（Titus O'Neil）
   - [ドリュー・マッキンタイア](https://ja.wikipedia.org/wiki/ドリュー・ギャロウェイ "wikilink")（Drew McIntyre）（ドリュー・ギャロウェイ）
-  - [ノー・ウェイ・ホセ](https://ja.wikipedia.org/wiki/リーバイス・バレンズエラ・ジュニア "wikilink")（No Way Jose）（マニー・ガルシア）
   - [ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")（Brock Lesnar）
   - [ボビー・ラシュリー](../Page/ボビー・ラシュリー.md "wikilink")（Bobby Lashley）（ブラスター・ラシュリー、ラシュリー）
   - [マーフィー](https://ja.wikipedia.org/wiki/マット・シルバ "wikilink")（Murphy）（マット・シルバ、バディ・マーフィー）
@@ -49,18 +42,15 @@
   - [モンテス・フォード](https://ja.wikipedia.org/wiki/ケネス・クロフォード "wikilink")（Montez Ford）
   - [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")（Randy Orton）
   - [リコシェ](https://ja.wikipedia.org/wiki/リコシェ_\(プロレスラー\) "wikilink")（Ricochet）（ヘリオス、キャメロン・ロッケ、プリンス・ピューマ）
-  - [ルーク・ギャローズ](../Page/ドリュー・ハンキンソン.md "wikilink")（Luke Gallows）（ダーゴン、ドリアン・デヴィル、ドリュー・ハンキンソン、ディーコン・デヴィル、フリーキン・ディーコン、インポスターケイン、フェスタス、フェスタス・ダルトン、ジャスティス・ダルトン、キース・ハンソン、イサイア・キャッシュ、ジョニー99、ビッグL.G.、D.O.C.、ドク・ギャローズ）
-  - [ルセフ](https://ja.wikipedia.org/wiki/ミロスラフ・バルニャシェフ "wikilink")（Rusev）（ミロスラフ・マカロフ、ザ・バッシュイング・ブルガリアン、アレクサンダー・ルセフ、ミロスラフ・バルニアシェフ、ミロスラフ・ペトロフ、ミロスラフ・ザ・ブルガリアン）
   - [レーザー](https://ja.wikipedia.org/wiki/ギジム・セルマーニ "wikilink")（Rezar）（ギジム・セルマーニ）
   - [レイ・ミステリオ](../Page/レイ・ミステリオ・ジュニア.md "wikilink")（Rey Mysterio）（レイ・ミステリオ2号、コリブリ、レイ・ミステリオ・ジュニア、エル・ニーニョ）
 
 #### [SmackDown](../Page/スマックダウン.md "wikilink")
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Goldberg_WWE_HOF_2018_crop.jpg "wikilink") : ゴールドバーグ\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Sami_Zayn_WrestleMania_32_Axxess.jpg "wikilink") : [サミ・ゼイン](https://ja.wikipedia.org/wiki/ラミ・セベイ "wikilink")\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Braun_March_2018.jpg "wikilink"):[ブラウン・ストローマン](https://ja.wikipedia.org/wiki/アダム・シェル "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Sami_Zayn_WrestleMania_32_Axxess.jpg "wikilink") : [サミ・ゼイン](https://ja.wikipedia.org/wiki/ラミ・セベイ "wikilink")\]\]
 
   - [アポロ・クルーズ](https://ja.wikipedia.org/wiki/ウーハー・ネイション "wikilink")（Apollo Crews）（ウーハー・ネイション、アポロ）
   - [イライアス](https://ja.wikipedia.org/wiki/ローガン・シューロ "wikilink")（Elias）（ローガン・シューロ、イライアス・サムソン）
-  - [エピコ・コロン](https://ja.wikipedia.org/wiki/オーランド・コロン "wikilink")（Epico Colón）（オーランド・コロン、ファイア・ブレイズ、ラ・ペサディラ、ドス・イークィス、エピコ、ティト・コロン、ティト・ニエベス、フェルナンド）
   - [エグゼビア・ウッズ](https://ja.wikipedia.org/wiki/オースティン・ワトソン "wikilink")（Xavier Woods）（オースチン・クリード、ラシード・ルシアス・コンズクエンセス・クリード、コンズクエンセス・クリード、オースチン・ワトソン）[super](https://ja.wikipedia.org/wiki/ファイル:Injury_icon_2.svg "wikilink")
   - [オーティス](https://ja.wikipedia.org/wiki/ニコラ・ボゴイェビッチ "wikilink")（Otis）（ニコ・ボゴイェビッチ、オーティス・ドーゾビッチ、ドーザー）
   - [カーティス・アクセル](https://ja.wikipedia.org/wiki/ジョー・ヘニング "wikilink")（Curtis Axel）（ジョー・ヘニング、マイケル・マクギリカティ）
@@ -76,22 +66,17 @@
   - [ショーティ・G](https://ja.wikipedia.org/wiki/チャズ・ベッツ "wikilink")（Shorty G）（チャド・ゲイブル、ショーティ・ゲイブル）
   - [ジョン・モリソン](../Page/ジョン・ヘニガン.md "wikilink")（John Morrison）（ジョン・へニガン、ジョニー・ナイトロ、ジョニー・スーパースター、ジョニー・ムンド、ジョニー・インパクト）
   - [ジミー・ウーソ](https://ja.wikipedia.org/wiki/ジョナサン・ファトゥ "wikilink")（Jimmy Uso）（ジョナサン・ファトゥ、ジョン・ファトゥ）
-  - [スコット・ドーソン](https://ja.wikipedia.org/wiki/デビッド・ハーウッド "wikilink")（Scott Dawson）（KCアンダーソン）
   - [セザーロ](https://ja.wikipedia.org/wiki/クラウディオ・カスタニョーリ "wikilink")（Cesaro）（ダブルＣ、クラウディオ・カスタニョーリ、ヴェリィ・ミステリアス・アイスクリーム、カスタグレリオス、アントニオ・セザーロ）
   - [タッカー](https://ja.wikipedia.org/wiki/レヴィ・クーパー "wikilink")（Tucker）（タッカー・ナイト）
-  - [ダッシュ・ワイルダー](https://ja.wikipedia.org/wiki/ダニエル・ウィーラー "wikilink")（Dash Wilder）（スティーブン・ウォルターズ）
   - [ダニエル・ブライアン](../Page/ブライアン・ダニエルソン.md "wikilink")（Daniel Bryan）（アメリカン・ドラゴン、ブライアン・ダニエルソン）
   - [ドリュー・グラック](https://ja.wikipedia.org/wiki/ドリュー・グラック "wikilink")（Drew Gulak）（ソルジャー・アント）
-  - [ドレイク・マーベリック](https://ja.wikipedia.org/wiki/ジェームス・カーティン "wikilink")（Drake Maverick）（ロックスター・スパッド、スパッド）
   - [ドルフ・ジグラー](https://ja.wikipedia.org/wiki/ドルフ・ジグラー "wikilink")（Dolph Ziggler）（ニック・ネメス、ニッキー）
   - [中邑真輔](../Page/中邑真輔.md "wikilink")（Shinsuke Nakamura）
   - [ビッグ・E](https://ja.wikipedia.org/wiki/エットレ・ユエン "wikilink")（Big E）（ビッグ・E・ラングストン）
   - [ビッグ・ショー](../Page/ビッグ・ショー_\(プロレスラー\).md "wikilink")（Big Show）（ポール・ワイト、ザ・ジャイアント）
-  - [ヒース・スレイター](https://ja.wikipedia.org/wiki/ヒース・スレイター "wikilink")（Heath Slater）
   - ["ザ・フィーンド" ブレイ・ワイアット](https://ja.wikipedia.org/wiki/ウィンダム・ロタンダ "wikilink")（"The Fiend" Bray Wyatt）（デューク・ロトンド、ウィンダム・ロトンド、ハスキー・ハリス）
   - [ブラウン・ストローマン](https://ja.wikipedia.org/wiki/アダム・シェル "wikilink")（Braun Strowman）
   - [ボー・ダラス](https://ja.wikipedia.org/wiki/テイラー・ロタンダ "wikilink")（Bo Dallas）（タンク・マリガン、タンク・ロトンド、Mr.フロリダ、ボー・ロトンド）
-  - [プリモ・コロン](../Page/エディ・コロン.md "wikilink")（Primo Colón）（エディ・コロン、プリモ、ディエゴ）
   - [ザ・ミズ](../Page/ザ・ミズ.md "wikilink")（The Miz）（マイク・ミザニン、カルガリー・キッド）
   - [ムスタファ・アリ](https://ja.wikipedia.org/wiki/ムスタファ・アリ "wikilink")（Mustafa Ali）（ALTO、プリンス・アリ、プリンス・ムスタファ・アリ、アリ）
   - [ラーズ・サリバン](https://ja.wikipedia.org/wiki/ディラン・マイリー "wikilink")（Lars Sullivan）（ディラン・マイリー）[super](https://ja.wikipedia.org/wiki/ファイル:Injury_icon_2.svg "wikilink")
@@ -107,12 +92,12 @@
   - [スニル・シン](https://ja.wikipedia.org/wiki/スニル・シン "wikilink")（Sunil Singh）（ガル・シラ、ガルビンダー・シラ）
   - [トニー・ニース](https://ja.wikipedia.org/wiki/アンソニー・ニース "wikilink")（Tony Nese）（マット・マーベリック、アンソニー・ニース）
   - [ジ・ブライアン・ケンドリック](../Page/ブライアン・ケンドリック.md "wikilink")（The Brian Kendrick）（スパンキー、ブライアン・ケンドリック、レオナルド・スパンキー、ダイアモンドバック、ザ・ジェット、リヴァー・ラット、ザ・ラフ・ライダー）
-  - [マイク・ケネリス](https://ja.wikipedia.org/wiki/マイケル・ベネット_\(プロレスラー\) "wikilink")（Mike Kanellis）（マイク・ベネット、マイケル・ベネット）
 
 #### 無所属
 
   - [ジ・アンダーテイカー](../Page/ジ・アンダーテイカー.md "wikilink")（The Undertaker）（テキサス・レッド、マスター・オブ・ペイン、パニッシャー・ダイス・モーガン、ザ・パニッシャー、ケイン・ジ・アンダーテイカー、マーク・キャラス、フェイク・ケイン） [super](https://ja.wikipedia.org/wiki/ファイル:Christian_Cross_icon.svg "wikilink")
   - [ケイン・ヴェラスケス](https://ja.wikipedia.org/wiki/ケイン・ヴェラスケス "wikilink") （Cain Velasquez）
+  - [ゴールドバーグ](../Page/ビル・ゴールドバーグ.md "wikilink")（Goldberg）（ビル・ゴールドバーグ） [super](https://ja.wikipedia.org/wiki/ファイル:Christian_Cross_icon.svg "wikilink")
   - [ジョン・シナ](../Page/ジョン・シナ.md "wikilink") （John Cena）（ザ・プロトタイプ、ジュアン・セナ） [super](https://ja.wikipedia.org/wiki/ファイル:Christian_Cross_icon.svg "wikilink")
 
 ### [女性レスラー](../Page/ディーヴァ_\(プロレス\).md "wikilink")（Female wrestlers）
@@ -123,10 +108,9 @@
 
   - [アスカ](../Page/華名.md "wikilink")（Asuka）（華名）
   - [カイリ・セイン](https://ja.wikipedia.org/wiki/宝城カイリ "wikilink")（Kairi Sane）（宝城カイリ）
-  - [サラ・ローガン](https://ja.wikipedia.org/wiki/クレイジー・マリー・ドブソン "wikilink")（Sarah Logan）（クレイジー・マリー・ドブソン、クレイジー・マリー、マリー・ドブソン、サラ・ブリッジズ、サラ・ドブソン）
   - [ゼリーナ・ベガ](https://ja.wikipedia.org/wiki/ティア・トリニダード "wikilink")（Zelina Vega）（ディヴィナ・フライ、ロシータ、ゼア・トリニダード）
   - [シャーロット・フレアー](https://ja.wikipedia.org/wiki/アシュリー・フレアー "wikilink")（Charlotte Flair）（シャーロット、アシュリー・フレアー）
-  - [ナイア・ジャックス](https://ja.wikipedia.org/wiki/サブリナ・ファネーネ "wikilink")（Nia Jax）（リナ・ファネーネ、ザダ） [super](https://ja.wikipedia.org/wiki/ファイル:Injury_icon_2.svg "wikilink")
+  - [ナイア・ジャックス](https://ja.wikipedia.org/wiki/サブリナ・ファネーネ "wikilink")（Nia Jax）（リナ・ファネーネ、ザダ）
   - [ナオミ](https://ja.wikipedia.org/wiki/トリニティ・マクレイ "wikilink")（Naomi）（ナオミ・ナイト、ミス・フロリダ、トリニティ・マククレイ）
   - [ナタリア](https://ja.wikipedia.org/wiki/ナッティ・ナイドハート "wikilink")（Natalya）（ナタリー・ナイドハート、ナッティ・ナイドハート、ナディア・ハート、ナタリア・ナイドハート）
   - [ビリー・ケイ](https://ja.wikipedia.org/wiki/ジェシー・マッケイ "wikilink")（Billie Kay）（ジェシー・マッケイ）
@@ -161,14 +145,11 @@
 
 #### RAW
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Dawkins_and_Ford.jpg "wikilink") : ストリート・プロフイッツ\]\]
-
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Asuka_WWE.jpg "wikilink") : アスカ\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Kairi_Sane_April_2018.jpg "wikilink") : カイリ・セイン\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dawkins_and_Ford.jpg "wikilink") : ストリート・プロフイッツ\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Tagteamvictory.jpg "wikilink"):[アレクサ・ブリス](https://ja.wikipedia.org/wiki/アレクシス・カウフマン "wikilink") & \[ニッキー・ストーム|アレクサ・ブリス & ニッキー・クロス\]\]
 
   - [AOP](https://ja.wikipedia.org/wiki/オーサーズ・オブ・ペイン "wikilink")（アカム & レーザー）
-  - [The OC](https://ja.wikipedia.org/wiki/The_OC_\(プロレス\) "wikilink")（The O.C.）（AJスタイルズ & カール・アンダーソン & ルーク・ギャローズ）
+  - [The OC](https://ja.wikipedia.org/wiki/The_OC_\(プロレス\) "wikilink")（The O.C.）（AJスタイルズ & ルーク・ギャローズ）
   - [アイコニックス](https://ja.wikipedia.org/wiki/アイコニックス "wikilink")（The IIconics）（ペイトン・ロイス & ビリー・ケイ）
-  - [カート・ホーキンス & ザック・ライダー](../Page/ジ・エッジヘッズ.md "wikilink")（Curt Hawkins & Zack Ryder）
   - [カブキ・ウォリアーズ](https://ja.wikipedia.org/wiki/カブキ・ウォリアーズ "wikilink")（The Kabuki Warriors）（アスカ & カイリ・セイン）
   - [ストリート・プロフイッツ](https://ja.wikipedia.org/wiki/ストリート・プロフイッツ "wikilink")（The Street Profits）（アンジェロ・ドーキンス & モンテス・フォード）
   - [バイキング・レイダース](https://ja.wikipedia.org/wiki/ウォー・マシン "wikilink")（The Viking Raiders）（アイバー & エリック）
@@ -200,14 +181,12 @@
   - [ゼリーナ・ベガ](https://ja.wikipedia.org/wiki/ティア・トリニダード "wikilink")（Zelina Vega）（ロシータ、ティア・トリニダード）（アンドラーデのマネージャー）
   - [ポール・ヘイマン](../Page/ポール・ヘイマン.md "wikilink")（Paul Heyman)（ブロック・レスナーのマネージャー）
   - [マリース](https://ja.wikipedia.org/wiki/マリース・ウエレ "wikilink")（Maryse）（ザ・ミズのマネージャー）
-  - [マリア・ケネリス](../Page/マリア・ケネリス.md "wikilink")（Maria Kanellis）（マリア）（マイク・ケネリスのマネージャー）
   - [ラナ](https://ja.wikipedia.org/wiki/キャサリン・ペリー "wikilink")（Lana）（ボビー・ラシュリーのマネージャー）
   - [レイ・ミステリオ](https://ja.wikipedia.org/wiki/レイ・ミステリオ "wikilink")（Rey Mysterio）（ケイン・ヴェラスケスのマネージャー）
 
 ## タイトル
 
-  - [WWE女子タッグ王座](https://ja.wikipedia.org/wiki/WWE・女子タッグチーム王座 "wikilink") : カブキ・ウォリアーズ
-  - [WWE24/7王座](https://ja.wikipedia.org/wiki/WWE・24/7王座 "wikilink") : モジョ・ローリー
+  - [WWE24/7王座](https://ja.wikipedia.org/wiki/WWE・24/7王座 "wikilink") : [ロブ・グロンコウスキー](https://ja.wikipedia.org/wiki/ロブ・グロンコウスキー "wikilink")
   - [男子ロイヤルランブル](../Page/ロイヤルランブル.md "wikilink") : ドリュー・マッキンタイア
   - [女子ロイヤルランブル](../Page/ロイヤルランブル.md "wikilink") : シャーロット・フレアー
   - [男子マネー・イン・ザ・バンク・ラダー・マッチ](../Page/マネー・イン・ザ・バンク・ラダー・マッチ.md "wikilink") :
@@ -249,7 +228,6 @@
 
 #### [205 Live](https://ja.wikipedia.org/wiki/WWE_205_Live "wikilink")
 
-  - [エイデン・イングリッシュ](https://ja.wikipedia.org/wiki/マット・リーヴォルト "wikilink")（Aiden English）（マット・マーキー）（205 Live解説）
   - [トム・フィリップス](https://ja.wikipedia.org/wiki/トム・フィリップス "wikilink")（Tom Phillips）（205 Live実況）
 
 #### [MainEvent](https://ja.wikipedia.org/wiki/WWE・メインイベント "wikilink")
@@ -287,7 +265,6 @@
   - [チャド・パットン](../Page/チャド・パットン.md "wikilink")（Chad Patton）
   - [チャールズ・ロビンソン](../Page/チャールズ・ロビンソン_\(レフェリー\).md "wikilink")（Charles Robinson）（チャールズ・シェーン・ロビンソン）
   - [ジョン・コーン](https://ja.wikipedia.org/wiki/ジョン・コーン "wikilink")（John Cone）
-  - [マイク・キオーダ](https://ja.wikipedia.org/wiki/マイク・キオーダ "wikilink")（Mike Chioda）
 
 #### RAW
 
@@ -303,7 +280,6 @@
   - チャールズ・ロビンソン（Charles Robinson）
   - [ダニーロ・エンフィビオ](https://ja.wikipedia.org/wiki/ダニーロ・エンフィビオ "wikilink")（Danilo Anfibio）（ダン・デラネイ、ダン・エッコス、ダン・マクガイア、ダニーE、ダニー・エッコス）
   - [ジェイソン・アイアース](https://ja.wikipedia.org/wiki/ジェイソン・アイアース "wikilink")（Jason Ayers）（ジェイソン・ハーディング）
-  - マイク・キオーダ（Mike Chioda）
   - [ライアン・トラン](https://ja.wikipedia.org/wiki/ライアン・トラン "wikilink")（Ryan Tran）（バンザイ、ブルース・ビカキ、バオ・グエン、バンザイ・ブルース、バンザイ・ブルース・ビカキ、ブルース・グエン）
 
 ### バックステージ
@@ -326,9 +302,7 @@
 
 #### 裏方
 
-  - [カート・アングル](../Page/カート・アングル.md "wikilink")（Kurt Angle）（ロード･エージェント）
   - [トニー・チメル](https://ja.wikipedia.org/wiki/トニー・チメル "wikilink")（Tony Chimel）（リング･チーフ）
-  - [ハワード・フィンケル](https://ja.wikipedia.org/wiki/ハワード・フィンケル "wikilink")（Howard Finkel）（リングアナウンサー & チーフ・スタティスティシャン）
   - [レックス・ルガー](../Page/レックス・ルガー.md "wikilink")（Lex Luger）（ザ・ナルシスト）（カウンセラー）
 
 #### 制作
@@ -345,7 +319,6 @@
 #### プロデューサー
 
   - [アダム・ピアース](../Page/アダム・ピアース.md "wikilink")（Adam Pearce）（NXTトレーナー & NXTプロデューサー）
-  - [グレゴリー・ヘルムズ](../Page/グレゴリー・ヘルムズ.md "wikilink")（Gregory Helms）（プロデューサー）
   - [クリス・パークス](../Page/クリス・パークス.md "wikilink")（Chris Parks）（アビス、ジョセフ・パーク）（プロデューサー）
   - [サラ・アマート](https://ja.wikipedia.org/wiki/サラ・デル・レイ "wikilink")（Sara Amato）（プロデューサー）
   - [サラ・ストック](https://ja.wikipedia.org/wiki/サラ・ストック "wikilink")（Sarah Stock）（プロデューサー）
@@ -354,32 +327,24 @@
   - [ジェイミー・ノーブル](https://ja.wikipedia.org/wiki/ジェイミー・ハワード "wikilink")（Jamie Noble）（プロデューサー）
   - [ジェフ・ジャレット](../Page/ジェフ・ジャレット.md "wikilink")（Jeff Jarrett）（プロデューサー）
   - [ジャック・ランザ](https://ja.wikipedia.org/wiki/ブラックジャック・ランザ "wikilink")（Jack Lanza）（ブラックジャック・ランザ）
-  - [ショーン・デバリ](../Page/ショーン・デバリ.md "wikilink")（Shawn Daivari）（デバリ）（プロデューサー）
   - [ジョン・ロウリネイティス](../Page/ジョン・ロウリネイティス.md "wikilink")（John Laurinaitis）（ジョニー・エース）（プロデューサー）
-  - [スコット・アームストロング](../Page/ジョセフ・ジェームズ・ジュニア.md "wikilink")（Scott Armstrong）（プロデューサー）
   - [スティーブ・コリノ](../Page/スティーブ・コリノ.md "wikilink")（Steve Corino）
   - [タイソン・キッド](https://ja.wikipedia.org/wiki/セオドア・ウィルソン "wikilink")（Tyson Kidd）（TJ・ウィルソン）（プロデューサー）
-  - [デイブ・フィンレー](../Page/デイブ・フィンレー.md "wikilink")（Dave Finlay）（フィンレー、フィット・フィンレー、ベルファスト・ブルーザー）（プロデューサー）
   - [ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")（D-Von Dudley）（プロデューサー）
   - [トニー・ガレア](https://ja.wikipedia.org/wiki/トニー・ガレア "wikilink")（Tony Garea）
   - [パット・パターソン](../Page/パット・パターソン.md "wikilink")（Pat Patterson）（クリエイティブ・コンサルタント）
-  - [ビリー・キッドマン](../Page/ビリー・キッドマン.md "wikilink")（Billy Kidman）（プロデューサー）
-  - [マイク・ロトンド](../Page/マイク・ロトンド.md "wikilink")（Mike Rotundo）（IRS、マイケル・ウォールストリート）（プロデューサー）
   - [マイケル・ヘイズ](https://ja.wikipedia.org/wiki/マイケル・ヘイズ "wikilink")（Michael "P.S." Hayes）（ドク・ヘンドリクス）（シニア・プロデューサー）
   - [マーク・ヘンリー](../Page/マーク・ヘンリー.md "wikilink")（Mark Henry）（プロデューサー）
-  - [ランス・ストーム](../Page/ランス・ストーム.md "wikilink")（Lance Storm）（ザ・モンバ、アルティメット・ファイアフライ）（プロデューサー）
 
 #### パフォーマンスセンター
 
   - [キャニオン・シーマン](https://ja.wikipedia.org/wiki/キャニオン・シーマン "wikilink")（Canyon Ceman）（タレント育成担当シニア・ディレクター）
-  - [ケンドー・カシン](../Page/石澤常光.md "wikilink")（Kendo Kashin）（石澤常光、ドラゴンソルジャーB、ミスターX）（トレーナー）
   - [サラ・ストック](https://ja.wikipedia.org/wiki/サラ・ストック "wikilink")（Sarah Stock）（ダーク・エンジェル、サラ・ストーン、サラ・スウェイズ、スイート・サラ、サラ・ラ・カナディエンセ、サリータ、ナターシャ・グレイヴス、サラ・グリフィン）（トレーナー）
   - [サラ・デル・レイ](https://ja.wikipedia.org/wiki/サラ・デル・レイ "wikilink")（Sara del Rey）（アメリカン・エンジェル、ニック・グリムス）（アシスタント・ヘッド・トレーナー）
   - [ジェラルド・ブリスコ](https://ja.wikipedia.org/wiki/ジェリー・ブリスコ "wikilink")（Gerald Brisco）（ジェリー・ブリスコ）（リクルーター）
   - [ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")（Shawn Michaels）（トレーナー、コーチ）
   - [ジョニー・モス](https://ja.wikipedia.org/wiki/ジョニー・モス "wikilink")（Johnny Moss）（ザ・ヴィジランテ、ジョン・モス）（トレーナー、アシスタント・コーチ）
   - [スコット・ガーランド](../Page/スコット・ガーランド.md "wikilink")（Scott Garland）（スコット・テイラー、スコッティ・ザ・ホッティ、スコッティ・2・ホッティ、ジェフ・テイラー）（トレーナー、アシスタント・コーチ）
-  - [セリーナ・ディーブ](https://ja.wikipedia.org/wiki/セリーナ・ディーブ "wikilink")（Serena Deeb）（セレナ・ディーブ、ペイジ・ウェッブ、マイア・マンチニ、セレナ・マンチニ）（トレーナー、アシスタント・コーチ）
   - [デヴィッド・ベイリー](https://ja.wikipedia.org/wiki/デヴィッド・ベイリー "wikilink")（David Bailey）（WWEパフォーマス・センターGM）
   - [テリー・テイラー](https://ja.wikipedia.org/wiki/テリー・テイラー "wikilink")（Terry Taylor）（ザ・レッドルースター、テレンス・テイラー、ドクター・フィール・グッド）（トレーナー、コーチ）
   - [ノーマン・スマイリー](https://ja.wikipedia.org/wiki/ノーマン・スマイリー "wikilink")（Norman Smiley）（ブラック・マジック、ロード・ノーマン、"スクリーミン"ノーマン・スマイリー）（トレーナー、コーチ）
@@ -394,31 +359,33 @@
 
 ### 1984年
 
-  - [アンジェロ・モスカ](https://ja.wikipedia.org/wiki/アンジェロ・モスカ "wikilink")（Angelo Mosca）（キングコング、キングコング・モスカ）（1981年、1984年）
-  - [ブッチャー・バション](https://ja.wikipedia.org/wiki/ブッチャー・バション "wikilink")（Butcher Vachon）（ポウル・ヴァッション、ニコライ・ゾロトフ、ニキタ・ゾロトフ、ブッチャー・ヴァシャーン、ポール・ヴァシャーン、ザ・ブッチャー、オキ・ヤマ、スポイラー2号）（1975年、1978年、1983年 - 1984年）
+  - [アンジェロ・モスカ](https://ja.wikipedia.org/wiki/アンジェロ・モスカ "wikilink")（Angelo Mosca）（キングコング・モスカ）（1981年、1984年）
+  - [ブッチャー・バション](https://ja.wikipedia.org/wiki/ブッチャー・バション "wikilink")（Butcher Vachon）（ポール・バション、ニコライ・ゾロトフ、ニキタ・ゾロトフ、ザ・ブッチャー、オキ・ヤマ、スポイラー2号）（1975年、1978年、1983年 - 1984年）
   - [スパイク・ヒューバー](https://ja.wikipedia.org/wiki/スパイク・ヒューバー "wikilink")（Spike Huber）（マイク・ヒューバー）（1984年）
   - [イスラエル・マティア](https://ja.wikipedia.org/wiki/イスラエル・マティア "wikilink")（Israel Matia）（1982年 - 1984年）
   - [バズ・ソイヤー](../Page/バズ・ソイヤー.md "wikilink")（Buzz Sawyer）（1984年） \[1992年2月7日死去\]
   - ["ホット・スタッフ" エディ・ギルバート](https://ja.wikipedia.org/wiki/エディ・ギルバート "wikilink")（"Hot Stuff" Eddie Gilbert）（トミー・ギルバートJr.、ザ・ブギーマン、マイケル・マイヤーズ）（1982年 - 1984年）\[1995年2月18日死去\]
-  - [ボボ・ブラジル](../Page/ボボ・ブラジル.md "wikilink")（Bobo Brazil）（ヒューストン・ハリス）（1963年 - 1978年、1970年、1984年） \[1998年1月20日死去\]
-  - [ジャック・ブリスコ](../Page/ジャック・ブリスコ.md "wikilink")（Jack Brisco）（マスクド・オキ）（1984年） \[2010年2月1日死去\]
-  - [バディ・ロバーツ](https://ja.wikipedia.org/wiki/バディ・ロバーツ "wikilink")（Buddy Roberts）（デイル・ヘイエズ、デイル・ロバーツ、バディ・スミス、デイル・ヴァレンタイン、ザ・レベル、バディ・ジャック・ロバーツ）（1984年） \[2012年11月29日死去\]
+  - [ボボ・ブラジル](../Page/ボボ・ブラジル.md "wikilink")（Bobo Brazil）（ヒューストン・ハリス）（1963年 - 1978年、1970年、1984年）\[1998年1月20日死去\]
+  - [ジャック・ブリスコ](../Page/ジャック・ブリスコ.md "wikilink")（Jack Brisco）（マスクド・オキ）（1984年）\[2010年2月1日死去\]
+  - ["バロン"ミケル・シクルナ](https://ja.wikipedia.org/wiki/マイケル・シクルナ "wikilink")（"Baron" Mikel Scicluna）（マイク・ヴァレンチ、ミカエル・ヴァレンチーノ、ミケ・ヴァレンチーノ、バロン・シクルナ、ミケル・シクルナ、リッパー・セキュナ、ブラック・デモン、デモン1号）（1965年 - 1984年）\[2010年3月20日死去\]
+  - [バディ・ロバーツ](https://ja.wikipedia.org/wiki/バディ・ロバーツ "wikilink")（Buddy Roberts）（デイル・ヘイエズ、デイル・ロバーツ、バディ・スミス、デイル・ヴァレンタイン、ザ・レベル、バディ・ジャック・ロバーツ）（1984年）\[2012年11月29日死去\]
 
 ### 1985年
 
-  - [“ソウルマン”ロッキー・ジョンソン](https://ja.wikipedia.org/wiki/ロッキー・ジョンソン "wikilink")（"Soulman"Rocky Johnson）（スウィート・エボニィ・ダイアモンド）（1983年 - 1985年）
+  - [“ソウルマン” ロッキー・ジョンソン](https://ja.wikipedia.org/wiki/ロッキー・ジョンソン "wikilink")（"Soulman"Rocky Johnson）（スウィート・エボニィ・ダイアモンド）（1983年 - 1985年）
   - [デビッド・シュルツ](https://ja.wikipedia.org/wiki/デビッド・シュルツ "wikilink")（David Schultz）（ロードアイランド・レッド、デイヴ・シュルツ）（1984年 - 1985年）
   - [ミスター・レスリング2号](https://ja.wikipedia.org/wiki/ジョニー・ウォーカー_\(プロレスラー\) "wikilink")（Mr. Wrestling II）（ジョニー・ウォーカー、ザ・グラップラー、ミスター・レスリング）（1985年）
-  - [ウエンディ・リッチャー](https://ja.wikipedia.org/wiki/ウェンディ・リヒター "wikilink")（Wendi Richter）（ウエンディー・リッチャー）（1982年、1984年 - 1985年）
+  - [ウェンディ・リヒター](https://ja.wikipedia.org/wiki/ウェンディ・リヒター "wikilink")（Wendi Richter）（1982年、1984年 - 1985年）
   - [ペギー・リー](https://ja.wikipedia.org/wiki/ペギー・リー・レザー "wikilink")（Peggy Lee）（ペギー・リー・レザー、ペギー・リー・プリングル、レディX、アマゾン・クィーン、スング、マーガレット・リー）（1984年 - 1985年）
   - [リチャード・カミングス](https://ja.wikipedia.org/wiki/リチャード・カミングス "wikilink")（Richard Cummings）（1984年 - 1985年）
   - [ポール・ガーナー](https://ja.wikipedia.org/wiki/ポール・ガーナー "wikilink")（Paul Garner）（1985年）
-  - [リック・マクグロウ](https://ja.wikipedia.org/wiki/リック・マクグロウ "wikilink")（Rick McGraw）（1980年 - 1982年、1984年 - 1985年）\[1985年11月1日死去\]
+  - [リック・マグロー](https://ja.wikipedia.org/wiki/リック・マグロー "wikilink")（Rick McGraw）（1980年 - 1982年、1984年 - 1985年）\[1985年11月1日死去\]
   - フランク・ウィリアムズ（Frank Williams）（フランキー・ウィリアムズ）（1975年 - 1980年、1982年 - 1985年）\[1991年4月23日死去\]
   - [ディック・マードック](../Page/ディック・マードック.md "wikilink")（Dick Murdoch）（ロン・カーソン、ザ・レベル、ブラック・エース、ザ・テキサン、インヴェイダー、マスクド・トルネード）（1984年 - 1985年） \[1996年6月15日死去\]
-  - [スウェーデ・ハンソン](https://ja.wikipedia.org/wiki/スウェード・ハンセン "wikilink")（Swede Hanson）（スウェーデ・サムソン、ミスターX、バウンティ・ハンター）（1979年 - 1980年、1982年 - 1985年） \[2002年2月19日死去\]
+  - [スウェード・ハンソン](https://ja.wikipedia.org/wiki/スウェード・ハンセン "wikilink")（Swede Hanson）（スウェード・サムソン、ミスターX、バウンティ・ハンター）（1979年 - 1980年、1982年 - 1985年） \[2002年2月19日死去\]
   - [ザ・スポイラー](https://ja.wikipedia.org/wiki/ドン・ジャーディン "wikilink")（The Spoiler）（ドン・ジャーディン、ソニー・クーパー、ザ・ブッチャー、ザ・パンサー、スポイラー1号、ザ・スーパー・デストロイヤー）（1972年、1984年 - 1985年） \[2006年12月16日死去\]
   - [ミッシング・リンク](https://ja.wikipedia.org/wiki/デューイ・ロバートソン "wikilink")（The Missing Link）（バイロン・リチャーズ、バイロン・ロバートソン、デューイ・ロバートソン、ザ・クルセイダー、マスクド・クルセイダー、JJシャープ、トロイ・スティール）（1985年） \[2007年8月16日死去\]
+  - [エドワード・カーペンティア](../Page/エドワード・カーペンティア.md "wikilink")（Édouard Carpentier）（エドゥアール・カルペンティア）（1963年、1968年、1973年、1975年、1985年）\[2010年9月30日死去\]
   - [チャーリー・フルトン](https://ja.wikipedia.org/wiki/チャーリー・フルトン "wikilink")（Charlie Fulton）（ガリー・フルトン、マイティ・ヤンキー2号、チャールズ・モアレル、USSR、ブラック・デモン、デモン2号）（1968年、1971年、1980年、1982年 - 1985年）\[2016年3月12日死去\]
   - [スネイク・ブラウン](https://ja.wikipedia.org/wiki/スネイク・ブラウン "wikilink")（Snake Brown）（ラーマ・ブラウン）（1985年）\[2019年4月29日死去\]
 
@@ -442,8 +409,8 @@
   - [ランディ・バーバー](https://ja.wikipedia.org/wiki/ランディ・バーバー "wikilink")（Randy Barber）（ジ・イリミネーター、Mr.コンチネンタル）（1985年 - 1986年）\[2008年1月1日死去\]
   - [ジェリー・バリアント](https://ja.wikipedia.org/wiki/ガイ・ミッチェル "wikilink")（Jerry Valiant）（ガイ・ヒル、ガイ・ミッチェル、ザ・デストロイヤー、シカゴ・アサシン1号、アサシン1号、ジ・アサシン、ガイ・ヒーナン、マスクド・アサシン、ザ・ストンパー、ミスターX、レッド・デヴィル、ザ・ストラングラー、マッドマン・ミッチェル）（1979年、1984年 - 1986年） \[2010年3月11日死去\]
   - [カズン・ルーク](https://ja.wikipedia.org/wiki/ジン・ルイス "wikilink")（Cousin Luke）（ジン・ルイス、ブルーザー・ケリー、ジン・ケリー、ザ・モンク、ザ・モンゴル、カルマ、ミッドナイトライダー、モロカイ、テキサス・レッド）（1985年 - 1986年） \[2013年9月29日死去\]
-  - [マッドドッグ・バション](../Page/マッドドッグ・バション.md "wikilink")（Mad Dog Vachon）（ムーリス・ヴァッション、モリス・ヴァシャーン）（1984年 - 1985年、1986年） \[2013年11月21日死去\]
-  - [エレクシス・スミルノフ](https://ja.wikipedia.org/wiki/アレックス・スミルノフ "wikilink")（Alexis Smirnoff）（ミシェル・デュボア、マイク・デュボア、セシル・デュボア、エレクシィ・スミルノフ、ロシアン・アサシン1号）（1984年 - 1986年） \[2019年1月5日死去\]
+  - [マッドドッグ・バション](../Page/マッドドッグ・バション.md "wikilink")（Mad Dog Vachon）（モーリス・バション）（1984年 - 1985年、1986年） \[2013年11月21日死去\]
+  - [エレクシス・スミルノフ](https://ja.wikipedia.org/wiki/アレックス・スミルノフ "wikilink")（Alexis Smirnoff）（ミシェル・デュボア、マイク・デュボア、セシル・デュボア）（1984年 - 1986年） \[2019年1月5日死去\]
 
 ### 1987年
 
@@ -663,7 +630,7 @@
   - [ザ・グーン](https://ja.wikipedia.org/wiki/ビル・アーウィン_\(プロレスラー\) "wikilink")（The Goon）（ビル・アーウィン、スーパーデストロイヤー2号、ブラック・スコーピオ）（1996年 - 1997年）
   - [ジェイク "ザ・スネーク" ロバーツ](../Page/ジェイク・ロバーツ.md "wikilink")（Jake "The Snake" Roberts）（ジェイク・スミスJr.、ザ・テキサン、エル・ディアブロ）（1986年 - 1992年、1996年 - 1997年）
   - [ザ・アイアン・シーク](../Page/コシロ・バジリ.md "wikilink")（The Iron Sheik）（アリ・バジリ、コシロ・バジリ、フセイン・コシロ・アリ・バジリ、アイアン・シーク・ファルーク、ムハマド・ファルーク、シーク・ファルーク、ザ・グレート・フセイン・アラブ、フセイン・アラブ、カーネル・ムスタファ）（1979年 - 1980年、1983年 - 1986年、1991年 - 1992年、1997年）
-  - [イワン・プトスキー](https://ja.wikipedia.org/wiki/イワン・プトスキー "wikilink")（Ivan Putski）（ジョー・ベドナースキ）（1975年 - 1980年、1982年 - 1985年、1987年、1997年）
+  - [イワン・プトスキー](https://ja.wikipedia.org/wiki/イワン・プトスキー "wikilink")（Ivan Putski）（ジョー・ベドナースキ）（1975年 - 1987年、1997年）
   - [レネ・グレイ](https://ja.wikipedia.org/wiki/レネ・グレイ "wikilink")（Rene Goulet）（サージェント・ジャック・グレイ、ジャック・グレイ）（1971年 - 1972年、1979年 - 1997年 ）
   - [ホセ・ロザリオ](https://ja.wikipedia.org/wiki/ホセ・ロザリオ "wikilink")（Jose Lothario）（ロサリオ、グレート・ロサリオ、エル・グラン・ロサリオ、ジョー・ガルシア、ガルシア・ラタリオ、ジョー・ラタリオ、テクサ・ランゲール）（1996年 - 1997年）
   - [フレディ・ジョー・フロイド](https://ja.wikipedia.org/wiki/トレイシー・スマザーズ "wikilink")（Freddy Joe Floyd）（トレイシー・スマザーズ、ニュー・ジェイソン・ザ・テリブル、シャキール・アリ、アサシン、ゴールデン・ヴァンパイア13号）（1996年 - 1997年）
@@ -764,6 +731,7 @@
   - [エッセ・リオス](https://ja.wikipedia.org/wiki/ミステル・アギラ "wikilink")（Essa Rios）（ミステル・アギラ、アギラ、パピ・チューロ）（1997年 - 2001年）
   - [ブライアン・クラーク](../Page/ブライアン・クラーク.md "wikilink")（Bryan Clark）（ナイトウォーカー、アダム・ボム、ラス、ブライアン・クラーク）（1993年 - 1995年、2001年）
   - [スペル・バインダー](https://ja.wikipedia.org/wiki/ハリー・デル・リオス "wikilink")（Spellbinder）（デル・リオス、ザ・レッドナイト、ファンタズミオ、ファンタジオ、エリージャ、ストリーク）（1995年、2001年）
+  - [キッド・ロメオ](https://ja.wikipedia.org/wiki/キッド・ロメオ "wikilink")（Kid Romeo）（ロメオ）（2001年）
   - [ブライアン・アダムス](../Page/ブライアン・アダムス_\(プロレスラー\).md "wikilink")（Brian Adams）（アメリカン・ニンジャ、ザ・ミッドナイト・ソルジャー、クラッシュ、デモリッション・クラッシュ）（1990年 - 1998年、2001年）\[2007年8月13日死去\]
   - [チャイナ](../Page/チャイナ_\(プロレスラー\).md "wikilink")（Chyna）（ジョーニー・リー、ジョーニー・ローラー）（1997年 - 2001年）\[2016年4月20日死去\]
 
@@ -796,6 +764,7 @@
   - [フレッド・ブラッシー](../Page/フレッド・ブラッシー.md "wikilink")（Fred Blassie）（フレディ・ブラッシー、ビル・ブラッシー、セイラー・ブラッシー、フレディ・マクダニエル）（1963年 - 2003年） \[2003年6月2日死去\]
   - [クラッシュ・ホーリー](../Page/マイク・ロックウッド.md "wikilink")（Crash Holly）（エリン・オグラディ、マッド・マイキー）（1998年 - 2003年） \[2003年11月6日死去\]
   - [ビッグ・ボスマン](https://ja.wikipedia.org/wiki/レイ・トレイラー "wikilink")（Big Boss Man）（ビッグ・ブーバー、ビッグ・ブーバー・ロジャース、ブーバー・ロジャース、レイ・トレイラー、ウォーマシーン、ザ・ボス、ガーディアン・エンジェル）（1988年 - 1993年、1998年 - 2003年） \[2004年9月22日死去\]
+  - [クリス・キャニオン](https://ja.wikipedia.org/wiki/クリス・キャニオン "wikilink")（Chris Canyon）（モーティス、キャニオン、ダークバード、C.C.K.、クリスＫ、クリス・モーガン、クリストファー・クロウクサリティス）（1993年 - 1994年、2001年 - 2003年） \[2010年4月2日死去\]
   - [ロディ・パイパー](../Page/ロディ・パイパー.md "wikilink")（"Rowdy" Roddy Piper）（ロドニー・パイパー、スーパー・スコーピオン、ザ・カナディアン、マスクド・カナディアン、パイパーマシーン）（1984年 - 1996年、2003年 ※その後ゲストでスポット的に登場） \[2015年7月30日死去\]
 
 ### 2004年
@@ -815,7 +784,7 @@
   - [ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")（Último Dragón）（浅井嘉浩、ザ・タイガー）（2003年 - 2004年）
   - [ライアン・サコダ](../Page/ケイジ・サコダ.md "wikilink")（Ryan Sakoda）（ケイジ・サコダ、ヴェイパー、サコダ）（2003年 - 2004年）
   - [ルー・デボナ](https://ja.wikipedia.org/wiki/ルー・デボナ "wikilink")（Rue DeBona）（2003年 - 2004年）
-  - [クリス・キャニオン](https://ja.wikipedia.org/wiki/クリス・キャニオン "wikilink")（Chris Canyon）（モーティス、ダークバード）（2001年 - 2004年） \[2010年4月2日死去\]
+  - [スコット・アンドリュース](https://ja.wikipedia.org/wiki/スコット・アンドリュース "wikilink")（Scoot Andrews）（ザ・ブラック・ネイチャー・ボーイ）（1999年 - 2004年）
   - [ショーン・オヘア](../Page/ショーン・オヘア.md "wikilink")（Sean O'Haire）（2001年 - 2004年）\[2014年9月8日死去\]
   - [チャボ・クラシック](../Page/チャボ・ゲレロ・シニア.md "wikilink")（Chavo Classic）（チャボ・ゲレロ・シニア、チャボ・ゲレロ） \[2017年2月11日死去\]
   - [グランドマスター・セクセイ](https://ja.wikipedia.org/wiki/ブライアン・ローラー "wikilink")（Grandmaster Sexay）（ブライアン・クリストファー、ネブラ、ブライアン・ローラー）（1997年 - 2001年、2004年） \[2018年7月29日死去\]
@@ -879,6 +848,7 @@
   - [スーパー・ポーキー](https://ja.wikipedia.org/wiki/ブラソ・デ・プラタ "wikilink")（Super Porky）（2005年 - 2006年）
   - [ビューラー・マクギリカッティ](https://ja.wikipedia.org/wiki/ビューラー・マクギリカッティ "wikilink")（Beulah McGillicutty）（テレサ・ピルマン）（1997年、2005年 - 2006年）
   - [マスカリータ・サグラダ](https://ja.wikipedia.org/wiki/マスカリータ・サグラダ "wikilink")（Mascarita Sagrada）（リトル・ラッキー、ミニ・ノヴァ、ミスター・ラッキー、ノヴァ、ペクゥェーニョ・ラーキー）（1997年 - 1999年、2005年 - 2006年）
+  - [ブレント・オルブライト](https://ja.wikipedia.org/wiki/ブレント・オルブライト "wikilink")（Brent Albright）（ヴィニー・ヴァレンチーノ、ヴァンス・ヴェイン、スレイター・ヴェイン、スモーク、ガンナー・スコット、ウェイン・ゲイター、ミスター・エレクトリシティ、ゼン・ウォリアー）（2000年 - 2006年）
   - [ザ・ゾンビー](https://ja.wikipedia.org/wiki/ザ・ゾンビー "wikilink")（The Zombie）（ティム・アルソン、アフターバーン）（2006年）［2015年1月7日死去］
   - [ロージー](../Page/マット・アノアイ.md "wikilink")（Rosey）（プリンス・クヒオ、マティ・スモールズ、マット・アノアイ、アルマゲドン2号、キモ、マティ・サムゥ、ロズィ）（2002年 - 2006年） \[2017年4月18日死去\]
 
@@ -999,7 +969,7 @@
   - [キザーニー](https://ja.wikipedia.org/wiki/ニック・クヴジェトコビッチ "wikilink")（Kizarny）（シン、カナディアン・シンナー、ニック・シン、ニコラス・シン、シンデレラ、シン・ボーディ、シン・ボディン）（2008年 - 2009年）
   - [ライアン・ブラドック](https://ja.wikipedia.org/wiki/ブラッド・ブラッドリー "wikilink")（Ryan Braddock）（ブラッド・ブラッドリー、ジェイ・ブラッドリー）（2008年 - 2009年）
   - [タズ](../Page/タズ.md "wikilink")（Tazz）（ザ・タスマニアデビル、タスマニアック、タズマニアック、ピート・タンジーロ）（2000年 - 2009年）
-  - [ミスター・ケネディ](../Page/ケン・アンダーソン.md "wikilink")（Mr. Kennedy）（カミカゼ・ケン、ケン・アンダーソン、ケン・ケネディ、ミスター・アンダーソン）（2005年 - 2009年）
+  - [ミスター・ケネディ](../Page/ケン・アンダーソン.md "wikilink")（Mr. Kennedy）（カミカゼ・ケン、ケン・アンダーソン、ケン・ケネディ、ミスター・アンダーソン）（2001年 - 2009年）
   - [シム・スヌーカ](../Page/ジミー・ライアー・ジュニア.md "wikilink")（Sim Snuka）（ジミー・スヌーカ・ジュニア、ソロ・スヌーカ、デュース・シェイド、デュース）（2007年 - 2009年）
   - [キャンディス・ミシェル](https://ja.wikipedia.org/wiki/キャンディス・ミシェル "wikilink")（Candice Michelle）（2004年 - 2009年）
   - [リッキー・オルティズ](https://ja.wikipedia.org/wiki/リチャード・ヤング "wikilink")（Ricky Ortiz）（アトラス・ディーボン、アトラス・オルティズ、リッキー・ヤング）（2008年 - 2009年）
@@ -1009,6 +979,7 @@
   - [DJ・ガブリエル](https://ja.wikipedia.org/wiki/スティーブン・レウィントン "wikilink")（DJ Gabriel）（スティーブ・レウィントン、スティーブ・ソニック、ジャック・ガブリエル、ガブリエル）（2008年 - 2009年）
   - [ミッキー・ジェイ](https://ja.wikipedia.org/wiki/ミッキー・ヘンソン "wikilink")（Mickey Jay）（ミッキー・ヘンソン、ミッキー・ジェイ・ヘンソン）（1992年 - 1993年、2005年 - 2009年）
   - [マイク・クルーエル](https://ja.wikipedia.org/wiki/マイク・クルーエル "wikilink")（Mike Kruel）（キッド・クルーエル、クルーエル、マイケル・W・クルーエル、マイケル・ワシントン・クルーエル、マイク・マヨ）（2006年 - 2009年）
+  - [チャド・コリアー](https://ja.wikipedia.org/wiki/チャド・コリアー "wikilink")（Chad Collyer）（チャド・マレンコ、メタルマスター、ザ・スティールス）（2000年 - 2001年、2003年 - 2005年、2007年 - 2009年）
   - [ウマガ](../Page/エディ・ファトゥ.md "wikilink")（Umaga）（アルマゲドン1号、エディ・ファトゥ、エクモ、ジャマール）（2002年 - 2003年、2006年 - 2009年）\[2009年12月4日死去\]
 
 ### 2010年
@@ -1031,7 +1002,7 @@
   - [ブレット・ハート](../Page/ブレット・ハート.md "wikilink")（Bret Hart）（バディ・ハート）（1984年 - 1997年、2009年 - 2010年）
   - [ティファニー](https://ja.wikipedia.org/wiki/タリン・テレル "wikilink")（Tiffany）（タリン・テレル）（2008年 - 2010年）
   - [グース・マホニー](https://ja.wikipedia.org/wiki/アーロン・デイヴィス_\(レフェリー\) "wikilink")（Goose Mahoney）（2010年）
-  - [カヴァル](../Page/ブランドン・シルベストリー.md "wikilink")（Kaval）（ロウ・キー、クイックキック、センシ）（2010年）
+  - [カヴァル](../Page/ブランドン・シルベストリー.md "wikilink")（Kaval）（ロウ・キー、クイックキック、センシ）（2000年 - 2002年、2008年 - 2010年）
   - [コートニー・テイラー](https://ja.wikipedia.org/wiki/べバリー・ミュリンス "wikilink")（Courtney Taylor）（デイジー、ウェズレイ・ホリデイ、ベバリー）（2009年 - 2010年）
   - [ポール・ベアラー](https://ja.wikipedia.org/wiki/ポール・ベアラー "wikilink")（Paul Bearer）（サー・パーシー・プリングル三世）（1991年 - 2002年、2004年 - 2007年、2010年）\[2013年3月5日死去\]
 
@@ -1166,7 +1137,7 @@
   - [ジェームズ・エルスワース](https://ja.wikipedia.org/wiki/ジェームズ・エルスワース "wikilink")（James Ellsworth）（ジミー・ドリーム）（2016年 - 2017年、2018年）
   - [ネヴィル](https://ja.wikipedia.org/wiki/ベンジャミン・サッタリー "wikilink")（Neville）（PAC、ジャングル・パック、ダークサイド・ハヤブサ、エイドリアン・ネヴィル、ベンジャミン・サッタリー、ベン・サシリー）（2015年 - 2018年）
   - [コリン・デラニー](https://ja.wikipedia.org/wiki/コリン・デラニー "wikilink")（Colin Delaney）（コリン・オルセン）（2007年 - 2008年、2017年 - 2018年）
-  - [フラッシュ・フラナガン](https://ja.wikipedia.org/wiki/クリストファー・カインドレッド "wikilink")（Flash Flanagan）（フラッシュ、コバイン、スラッシュ・ヴェノム、ウェポン・オブ・マスク・デストラクション1号、グレゴール・ザ・シックル・ファルコン）（1997年 - 2002年、2018年）
+  - [フラッシュ・フラナガン](https://ja.wikipedia.org/wiki/クリストファー・カインドレッド "wikilink")（Flash Flanagan）（フラッシュ、コバイン、スラッシュ・ヴェノム、ウェポン・オブ・マスク・デストラクション1号、グレゴール・ザ・シックル・ファルコン）（1999年 - 2002年、2018年）
   - [ロバート・アンソニー](https://ja.wikipedia.org/wiki/ロバート・アンソニー "wikilink")（Robert Anthony）（エゴイスティコ・ファンタスティコ、ディクソン・コックス、エル・ホムブル・シン・ノンブル、ココリソ）（2017年 - 2018年）
 
 ### 2019年
@@ -1188,16 +1159,47 @@
   - [シン・カラ](https://ja.wikipedia.org/wiki/フニコ "wikilink")（Sin Cara）（インコグニート、ミスティコ、エル・ミスティコ・デ・ユアレス、ホルヘ・アリアス、フニコ、シン・カラ・ネグロ）（2011年 - 2019年）
   - [コナー](https://ja.wikipedia.org/wiki/ライアン・パーメーター "wikilink")（Konnor）（コナー・オブライエン）（2014年 - 2019年）
   - [ビクター](https://ja.wikipedia.org/wiki/エリック・トンプソン "wikilink")（Viktor）（リック・ビクター、ビショップ、シャドウ）（2014年 - 2019年）
-  - [パーシー・ワトソン](https://ja.wikipedia.org/wiki/ニック・マクニール "wikilink")（Percy Watson）（ニック・マクニール）（2009年 - 2013年、2016年 - 2019年）
+  - [パーシー・ワトソン](https://ja.wikipedia.org/wiki/ニック・マクニール "wikilink")（Percy Watson）（ニック・マクニール）（2016年 - 2019年）
   - [マイク・カーマ](https://ja.wikipedia.org/wiki/マイク・コークラン "wikilink")（Mike Karma）（マイク・サイダル、ケン・ダーマ、リッゾ）（2018年 - 2019年）
   - [ジーン・オーカーランド](../Page/ジーン・オーカーランド.md "wikilink")（"Mean" Jean Okerlund）（ミーン・ジーン）（1984年 - 1993年、2001年 - 2019年）\[2019年1月2日死去\]
 
 ### 2020年
 
-  - [ジョージ・バリオス](https://ja.wikipedia.org/wiki/ジョージ・バリオス "wikilink")（George Barrios）（2008年 - 2020年）
-  - [ミシェル・ウィルソン](https://ja.wikipedia.org/wiki/ミシェル・ウィルソン "wikilink")（Michelle Wilson）（2008年 - 2020年）
   - [キャシー・ケリー](https://ja.wikipedia.org/wiki/キャシー・ケリー "wikilink")（Cathy Kelley）（2016年 - 2020年）
   - [マット・ハーディー](../Page/マット・ハーディー.md "wikilink")（Matt Hardy）（ハイヴォルテージ、ワイルドー・ジンクス、サージ、コンキスタドール2号、ザ・ラーウェイ・リーパー、ジ・アイコン）（1998年 - 2010年、2017年 - 2020年）
+  - [スコット・ドーソン](https://ja.wikipedia.org/wiki/デビッド・ハーウッド "wikilink")（Scott Dawson）（KCアンダーソン）（2017年 - 2020年）
+  - [ダッシュ・ワイルダー](https://ja.wikipedia.org/wiki/ダニエル・ウィーラー "wikilink")（Dash Wilder）（スティーブン・ウォルターズ）（2017年 - 2020年）
+  - [マイク・ロトンド](../Page/マイク・ロトンド.md "wikilink")（Mike Rotundo）（IRS、マイケル・ウォールストリート）（1991年 - 1995年、2006年 - 2020年）
+  - [マイク・キオーダ](https://ja.wikipedia.org/wiki/マイク・キオーダ "wikilink")（Mike Chioda）（1989年 - 2020年）
+  - [カート・アングル](../Page/カート・アングル.md "wikilink")（Kurt Angle）（1999年 - 2006年、2017年 - 2020年）
+  - [デイブ・フィンレー](../Page/デイブ・フィンレー.md "wikilink")（Dave Finlay）（フィンレー、フィット・フィンレー、ベルファスト・ブルーザー）（2001年 - 2011年、2012年 - 2020年）
+  - [グレゴリー・ヘルムズ](../Page/グレゴリー・ヘルムズ.md "wikilink")（Gregory Helms）（2001年 - 2010年、2018年 - 2020年）
+  - [ビリー・キッドマン](../Page/ビリー・キッドマン.md "wikilink")（Billy Kidman）（2001年 - 2005年、2007年 - 2020年）
+  - [ランス・ストーム](../Page/ランス・ストーム.md "wikilink")（Lance Storm）（ザ・モンバ、アルティメット・ファイアフライ）（2001年 - 2005年、2019年 - 2020年）
+  - [ショーン・デバリ](../Page/ショーン・デバリ.md "wikilink")（Shawn Daivari）（デバリ）（2004年 - 2007年、2018年 - 2020年）
+  - [マリア・ケネリス](../Page/マリア・ケネリス.md "wikilink")（Maria Kanellis）（マリア）（2005年 - 2010年、2017年 - 2020年）
+  - [スコット・アームストロング](../Page/ジョセフ・ジェームズ・ジュニア.md "wikilink")（Scott Armstrong）（2006年 - 2010年、2011年 - 2020年）
+  - [ルーク・ギャローズ](../Page/ドリュー・ハンキンソン.md "wikilink")（Luke Gallows）（ダーゴン、ドリアン・デヴィル、ドリュー・ハンキンソン、ディーコン・デヴィル、フリーキン・ディーコン、インポスターケイン、フェスタス、フェスタス・ダルトン、ジャスティス・ダルトン、キース・ハンソン、イサイア・キャッシュ、ジョニー99、ビッグL.G.、D.O.C.、ドク・ギャローズ）（2006年 - 2010年、2016年 - 2020年）
+  - [ザック・ライダー](https://ja.wikipedia.org/wiki/ザック・ライダー "wikilink")（Zack Ryder）（ブレット・マシューズ、ブレット・メジャー）（2007年 - 2020年）
+  - [エース・スティール](https://ja.wikipedia.org/wiki/エース・スティール "wikilink")（Ace Steel）（2007年、2019年 - 2020年）
+  - [カート・ホーキンス](https://ja.wikipedia.org/wiki/カート・ホーキンス "wikilink")（Curt Hawkins）（ブライアン・メジャー）（2007年 - 2014年、2016年 - 2020年）
+  - [プリモ・コロン](../Page/エディ・コロン.md "wikilink")（Primo Colón）（エディ・コロン、プリモ、ディエゴ）（2008年 - 2020年）
+  - [ヒース・スレイター](https://ja.wikipedia.org/wiki/ヒース・スレイター "wikilink")（Heath Slater）（2010年 - 2020年）
+  - [セリーナ・ディーブ](https://ja.wikipedia.org/wiki/セリーナ・ディーブ "wikilink")（Serena Deeb）（セリーナ、セレナ・ディーブ、ペイジ・ウェッブ、マイア・マンチニ、セレナ・マンチニ）（2010年、2018年 - 2020年）
+  - [エピコ・コロン](https://ja.wikipedia.org/wiki/オーランド・コロン "wikilink")（Epico Colón）（オーランド・コロン、ファイア・ブレイズ、ラ・ペサディラ、ドス・イークィス、エピコ、ティト・コロン、ティト・ニエベス、フェルナンド）（2011年 - 2020年）
+  - [エリック・ローワン](https://ja.wikipedia.org/wiki/ジョセフ・ルード "wikilink")（Erick Rowan）（ソルーフ、ソルーフ・マリウス、ローワン、ジョー・ラッド）（2013年 - 2020年）
+  - [ルセフ](https://ja.wikipedia.org/wiki/ミロスラフ・バルニャシェフ "wikilink")（Rusev）（ミロスラフ・マカロフ、ザ・バッシュイング・ブルガリアン、アレクサンダー・ルセフ、ミロスラフ・バルニアシェフ、ミロスラフ・ペトロフ、ミロスラフ・ザ・ブルガリアン）（2014年 - 2020年）
+  - [カール・アンダーソン](https://ja.wikipedia.org/wiki/カール・アンダーソン_\(プロレスラー\) "wikilink")（Karl Anderson）（チャド・アレグラ、キル・ショット、チャド・2・バッド、ケヴィン・コーレイ）（2016年 - 2020年）
+  - [エイデン・イングリッシュ](https://ja.wikipedia.org/wiki/マット・リーヴォルト "wikilink")（Aiden English）（2016年 - 2020年）
+  - [マイク・ケネリス](https://ja.wikipedia.org/wiki/マイケル・ベネット_\(プロレスラー\) "wikilink")（Mike Kanellis）（マイク・ベネット、マイケル・ベネット）（2017年 - 2020年）
+  - [サラ・ローガン](https://ja.wikipedia.org/wiki/クレイジー・マリー・ドブソン "wikilink")（Sarah Logan）（クレイジー・マリー・ドブソン、クレイジー・マリー、マリー・ドブソン、サラ・ブリッジズ、サラ・ドブソン）（2017年 - 2020年）
+  - [エリック・ヤング](https://ja.wikipedia.org/wiki/エリック・ヤング_\(プロレスラー\) "wikilink")（Eric Young）（スーパー・エリック）（2018年 - 2020年）
+  - [リオ・ラッシュ](https://ja.wikipedia.org/wiki/リオ・ラッシュ "wikilink")（Lio Rush）（レノン・ダフィ、ライ・グリーン、ライオネル・ジェラード・グリーン）（2018年 - 2020年）
+  - [ドレイク・マーベリック](https://ja.wikipedia.org/wiki/ジェームス・カーティン "wikilink")（Drake Maverick）（ロックスター・スパッド、スパッド）（2018年 - 2020年）
+  - [ノー・ウェイ・ホセ](https://ja.wikipedia.org/wiki/リーバイス・バレンズエラ・ジュニア "wikilink")（No Way Jose）（マニー・ガルシア）（2018年 - 2020年）
+  - [EC3](https://ja.wikipedia.org/wiki/マイケル・ハッター "wikilink")（マイク・ハッター、ザ・デヴィアント、マイケル・ハッター、エージェントＤ、デリック・ベイトマン、イーサン・カーター三世）（2019年 - 2020年）
+  - [ケンドー・カシン](../Page/石澤常光.md "wikilink")（Kendo Kashin）（石澤常光、ドラゴンソルジャーB、ミスターX）（2019年 - 2020年）
+  - [ハワード・フィンケル](https://ja.wikipedia.org/wiki/ハワード・フィンケル "wikilink")（Howard Finkel）（リングアナウンサー & チーフ・スタティスティシャン）（1975年 - 2020年）\[2020年4月16日死去\]
 
 ## 脚注
 

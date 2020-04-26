@@ -185,14 +185,14 @@
   - IID型（計16隻）
       - U-137～U-152
 
+## 脚注
+
 ## 関連項目
 
   - [潜水艦](../Page/潜水艦.md "wikilink")
   - [ドイツ海軍](../Page/ドイツ海軍.md "wikilink")
   - [Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")
   - [第30Uボート戦隊](https://ja.wikipedia.org/wiki/第30Uボート戦隊 "wikilink")
-
-## 出典
 
 ## 外部リンク
 

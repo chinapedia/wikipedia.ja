@@ -1,7 +1,7 @@
 > この記事は[ルーシー \(DJ\)](https://ja.wikipedia.org/wiki/ルーシー_\(DJ\))から翻訳されています。
 
 
-**ルーシー**（[1972年](../Page/1972年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")。主に[cross fm](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")・[KBC](../Page/KBC.md "wikilink")にて活動。福岡県北九州市出身。血液型A型。
+**ルーシー**（[1972年](../Page/1972年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink") - ）は[福岡県](../Page/福岡県.md "wikilink")を拠点に活動している[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")。主に[cross fm](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")・[KBC](../Page/KBC.md "wikilink")にて活動。福岡県[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉南区](../Page/小倉南区.md "wikilink")出身。血液型A型。
 
 ## 人物
 
@@ -22,6 +22,7 @@
   - 「[PAO～N](https://ja.wikipedia.org/wiki/PAO～N "wikilink")」（月曜 - 金曜 13:00-16:00）ルーシーは毎週水曜
   - 「[KBC長浜横丁ナイトクラブとしま](https://ja.wikipedia.org/wiki/KBC長浜横丁ナイトクラブとしま "wikilink")」（2017年9月-、毎週火曜19:00-22:00）
   - 「[夕方じゃんじゃん](https://ja.wikipedia.org/wiki/夕方じゃんじゃん "wikilink")」（2017年4月-、月曜 - 金曜 16:00-18:45）ルーシーは毎週金曜
+  - 「[よるばけ\!](../Page/よるばけ!.md "wikilink")」（2020年4月-、土曜 19:00-22:00）
 
 ## 過去の担当番組
 

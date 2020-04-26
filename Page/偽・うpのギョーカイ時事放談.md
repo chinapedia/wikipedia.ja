@@ -228,7 +228,7 @@
   - \#231 大和田秀樹、佐藤利奈（生放送）
   - \#232 大和田秀樹
   - \#237,238 中山信宏、太田勝也（ジェネオン・ユニバーサル）
-  - \#244 三木一馬、渡辺隆（アスキー・メディアワークス）、轟豊太（フロンティアワークス）、大和田智之（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")） （公開録音）
+  - \#244 三木一馬、渡辺隆（アスキー・メディアワークス）、轟豊太（フロンティアワークス）、大和田智之（[BS11](../Page/日本BS放送.md "wikilink")） （公開録音）
   - \#245,246 鳩岡桃子（角川書店「月刊ニュータイプ」編集部員）
   - \#247 田中潤一朗（[TBS](../Page/TBSテレビ.md "wikilink")）、髙取昌史、野島鉄平（ポニーキャニオン） （生放送）
   - \#252 森千早都（生放送）
@@ -403,7 +403,7 @@
 <tr class="odd">
 <td><p>#395-396</p></td>
 <td><p>4月6日(生放送)-13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大和田智之" title="wikilink">大和田智之</a>（<a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">日本BS放送</a> BS11編成プロデューサ）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大和田智之" title="wikilink">大和田智之</a>（<a href="../Page/日本BS放送.md" title="wikilink">日本BS放送</a> BS11編成プロデューサ）</p></td>
 <td></td>
 </tr>
 <tr class="even">

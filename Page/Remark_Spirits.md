@@ -262,7 +262,7 @@
 ## 外部リンク
 
   - [Remark Spirits](http://www.rhythmzone.net/rs/) - Remark Spiritsの公式サイト
-  - [RS Style](http://ameblo.jp/remarkspirits/) - 公式ブログ
+  - [RS Style](https://ameblo.jp/remarkspirits/) - 公式ブログ
   - [Starz](http://starz.jp/index.html) - Starzオーディション公式サイト
   - [Rhythm Nation official web site](http://rhythmzone.net/rhythmnation/index.html) - Rhythm Nation公式サイト
 

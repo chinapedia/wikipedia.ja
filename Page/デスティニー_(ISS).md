@@ -44,6 +44,6 @@
 ## 外部リンク
 
   - [U.S. Destiny Laboratory](http://www.nasa.gov/mission_pages/station/structure/elements/destiny.html) -- [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")
-  - [デスティニー（米国実験棟）](http://iss.jaxa.jp/glossary/jp/te/destiny.html) - [JAXA](https://ja.wikipedia.org/wiki/JAXA "wikilink")
+  - [デスティニー（米国実験棟）](https://iss.jaxa.jp/glossary/jp/te/destiny.html) - [JAXA](https://ja.wikipedia.org/wiki/JAXA "wikilink")
 
 [Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:NASA](https://ja.wikipedia.org/wiki/Category:NASA "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink")

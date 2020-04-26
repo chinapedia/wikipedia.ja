@@ -23,4 +23,4 @@
 
 ## 脚注
 
-[Category:ゆずの楽曲](https://ja.wikipedia.org/wiki/Category:ゆずの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:映画のサウンドトラック](https://ja.wikipedia.org/wiki/Category:映画のサウンドトラック "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:嬰ヘ長調](https://ja.wikipedia.org/wiki/Category:嬰ヘ長調 "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:2007年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:2007年のスプリット・シングル "wikilink")
+[Category:ゆずの楽曲](https://ja.wikipedia.org/wiki/Category:ゆずの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:映画のサウンドトラック](https://ja.wikipedia.org/wiki/Category:映画のサウンドトラック "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:2007年のスプリット・シングル](https://ja.wikipedia.org/wiki/Category:2007年のスプリット・シングル "wikilink")

@@ -33,6 +33,7 @@
       - [楠芽吹は勇者である](https://ja.wikipedia.org/wiki/楠芽吹は勇者である "wikilink")（著：朱白あおい / 電撃G's magazine）
   - クロニクル・レギオン（著：[丈月城](https://ja.wikipedia.org/wiki/丈月城 "wikilink") / [ダッシュエックス文庫](https://ja.wikipedia.org/wiki/ダッシュエックス文庫 "wikilink")）\[3\] 全7巻
   - [神域のカンピオーネス](https://ja.wikipedia.org/wiki/神域のカンピオーネス "wikilink")（著：丈月城 / ダッシュエックス文庫）\[4\]既刊5巻
+  - [キミラノ](https://ja.wikipedia.org/wiki/キミラノ "wikilink") 皐月レオン（KADOKAWA）\[5\]
 
 #### 漫画
 
@@ -44,7 +45,7 @@
 #### 画集
 
   - BUNBUNイラストレーションズ（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）
-  - BUNBUN画集「The Last Rose」（[角川書店](../Page/角川書店.md "wikilink")）\[5\]
+  - BUNBUN画集「The Last Rose」（[角川書店](../Page/角川書店.md "wikilink")）\[6\]
 
 #### ゲーム
 
@@ -79,7 +80,7 @@
 
 #### ゲーム
 
-  - [ブレイブリーセカンド](https://ja.wikipedia.org/wiki/ブレイブリーセカンド "wikilink")（キャラクターデザイン：エイミー・マッチロック、アンジェロ・W・パネットーネ）\[6\]
+  - [ブレイブリーセカンド](https://ja.wikipedia.org/wiki/ブレイブリーセカンド "wikilink")（キャラクターデザイン：エイミー・マッチロック、アンジェロ・W・パネットーネ）\[7\]
 
 #### カードゲーム
 
@@ -111,5 +112,6 @@
 2.  堀口文昭の選挙ビラに娘が堀口悠紀子であると記載されている。
 3.  [クロニクル・レギオン｜ダッシュエックス文庫](http://dash.shueisha.co.jp/dx/chroniclelegion/)
 4.  [神域のカンピオーネス｜ダッシュエックス文庫](http://dash.shueisha.co.jp/feature/campioness/)
-5.  [BUNBUN画集 - ［スニーカー文庫公式サイト］ザ・スニーカーWEB](http://www.sneakerbunko.jp/special/bunbun-book/)
-6.  [CHARACTER｜ブレイブリーセカンド｜SQUARE ENIX](http://www.jp.square-enix.com/second/character.html)
+5.
+6.  [BUNBUN画集 - ［スニーカー文庫公式サイト］ザ・スニーカーWEB](http://www.sneakerbunko.jp/special/bunbun-book/)
+7.  [CHARACTER｜ブレイブリーセカンド｜SQUARE ENIX](http://www.jp.square-enix.com/second/character.html)

@@ -1,7 +1,7 @@
 > この記事は[Die \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Die_\(ミュージシャン\))から翻訳されています。
 
 
-**Die**（だい、[1974年](../Page/1974年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ）は、[DIR EN GREYのギタリスト](../Page/DIR_EN_GREY.md "wikilink")。Decaysのボーカリスト、ギタリスト。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")出身。血液型はB型。身長177cm。
+**Die**（だい、[12月20日](../Page/12月20日.md "wikilink") - ）は、[DIR EN GREYのギタリスト](../Page/DIR_EN_GREY.md "wikilink")。Decaysのボーカリスト、ギタリスト。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")出身。血液型はB型。身長177cm。
 
 ## 略歴
 

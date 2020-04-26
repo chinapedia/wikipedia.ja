@@ -123,7 +123,7 @@
 35. [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")　（11月30日）
 36. [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")　（12月7日）
 37. [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")　（12月14日）
-38. [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")　（12月21日）
+38. [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")　（12月21日）
 39. [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")　（12月28日）
 40. [ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink") ／ [奥田民生](../Page/奥田民生.md "wikilink")　（2011年1月4日）
 41. [Norah Jones](https://ja.wikipedia.org/wiki/ノラ・ジョーンズ "wikilink")　（1月11日）

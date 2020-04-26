@@ -203,7 +203,7 @@ KIAW-25（再発）</p></td>
 
 ## 脚注
 
-[Category:新世紀エヴァンゲリオンの音楽](https://ja.wikipedia.org/wiki/Category:新世紀エヴァンゲリオンの音楽 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:新世紀エヴァンゲリオンの音楽](https://ja.wikipedia.org/wiki/Category:新世紀エヴァンゲリオンの音楽 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  1998年8月12日発売の「新世紀エヴァンゲリオン Genesis 0:13」（VHS、LD）、1999年1月22日発売の「新世紀エヴァンゲリオン Volume 7」（DVD）に収録されている第25話「Air」ではショートバージョンがエンディングとして流れる。なおスタッフロールは螺旋状にはスクロールしない。
 2.  『[NEON GENESIS EVANGELION: S<sup>2</sup> WORKS](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION:S2_WORKS "wikilink")』ブックレット掲載インタビューより

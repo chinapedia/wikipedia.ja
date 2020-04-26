@@ -62,8 +62,8 @@
 ## 外部リンク
 
   - [FM桐生 公式サイト](http://www.fmkiryu.jp/)
-  - [群馬県桐生市のコミュニティ放送局に予備免許](http://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/kanto/if/press/p19/p1904/p190416b.html) [関東総合通信局](../Page/関東総合通信局.md "wikilink") 報道資料 平成19年4月16日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年10月21日収集）
-  - [群馬県桐生市のコミュニティ放送局に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/1195824/www.soumu.go.jp/soutsu/kanto/if/press/p19/p1906/p190625c.html) 同上 平成19年6月25日（同上:2010年11月1日収集）
+  - [群馬県桐生市のコミュニティ放送局に予備免許](https://warp.da.ndl.go.jp/info:ndljp/pid/286615/www.soumu.go.jp/soutsu/kanto/if/press/p19/p1904/p190416b.html) [関東総合通信局](../Page/関東総合通信局.md "wikilink") 報道資料 平成19年4月16日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年10月21日収集）
+  - [群馬県桐生市のコミュニティ放送局に免許](https://warp.da.ndl.go.jp/info:ndljp/pid/1195824/www.soumu.go.jp/soutsu/kanto/if/press/p19/p1906/p190625c.html) 同上 平成19年6月25日（同上:2010年11月1日収集）
 
 [Category:関東地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:関東地方のコミュニティ放送局 "wikilink") [Category:群馬県のマスメディア](https://ja.wikipedia.org/wiki/Category:群馬県のマスメディア "wikilink") [Category:桐生市の企業](https://ja.wikipedia.org/wiki/Category:桐生市の企業 "wikilink")
 

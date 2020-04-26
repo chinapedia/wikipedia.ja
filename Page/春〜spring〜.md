@@ -9,7 +9,7 @@
 
 曲のコンセプトは「別れと出逢い、夢を追う気持ち」である。
 
-  - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[ヘ長調](https://ja.wikipedia.org/wiki/ヘ長調 "wikilink") (F)
+  - [調](../Page/調.md "wikilink")：[ヘ長調](https://ja.wikipedia.org/wiki/ヘ長調 "wikilink") (F)
 
 ## 収録曲
 

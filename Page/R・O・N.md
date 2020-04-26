@@ -433,7 +433,7 @@ STEREO DIVE FOUNDATION\[2\]
   - [働くお兄さん\!の2\!](https://ja.wikipedia.org/wiki/働くお兄さん!の2! "wikilink")
       - Piece of my life（作詞・作曲・編曲）
       - LOVE YOUR LIFE（作詞・作曲・編曲）
-  - [スケートリーディング☆スターズ](../Page/スケートリーディング☆スターズ.md "wikilink")
+  - [佐久間貴生](../Page/佐久間貴生.md "wikilink")
       - Chase the core（作詞・作曲・編曲）
   - [BNA ビー・エヌ・エー](../Page/BNA_ビー・エヌ・エー.md "wikilink")
       - Ready to（編曲）

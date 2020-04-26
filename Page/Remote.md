@@ -5,14 +5,14 @@
 
 ## 略歴
 
-  - 1986年12月、池田貴族と中博瑞（HIRO）にてremote を結成。1988年5月頃から東京都渋谷区原宿の代々木公園隣の歩行者天国でライヴ活動を始める。
+  - 1986年12月、池田貴族と中博瑞 (HIRO) にてremote を結成。1988年5月頃から東京都渋谷区原宿の代々木公園隣の歩行者天国でライヴ活動を始める。
   - 1988年9月それまでの衣装を赤に統一。当時、男性がメイクをするバンドはまだごく少数派だったため、赤い衣装とメイクのヴィジュアル戦略により歩行者天国でも異彩を放つ。「お化粧バンド」「美形バンド」などと言われ、ヴィジュアル系の最初期のバンドとして人気を集める。\[1\]
   - [1989年](../Page/1989年.md "wikilink")初め頃には既にホコ天で一番の人気を得たバンドとなり、多勢のファン、追っかけが付くようになる。ライブでは失神者続出、動員記録を毎回塗り替えた。自主制作でカセットテープを発表すると歩行者天国のライブの数時間のうちに数百本完売、即品切れ状態となる。またメンバーのブロマイドも販売、HIROのブロマイドは竹下通りでジャニーズアイドルらと並び販売された。
-  - 満を持したような形で1989年[3月18日](../Page/3月18日.md "wikilink")放送のTBS『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』（イカ天）に出場、『Never Be\!』を演奏、在宅審査員賞を受賞。この時にもファンが多数、放送スタジオのある[日比谷シャンテ](https://ja.wikipedia.org/wiki/日比谷シャンテ "wikilink")前まで追いかけてきていた。\[2\] 1989年4月「イカすバンド天国」初の特別番組において人気投票1位を受賞。番組内で「Wendy」を生演奏した。\[3\]
-  - 1989年[5月28日](../Page/5月28日.md "wikilink")のライヴをもってホコ天を“卒業”。イカ天が人気番組となり、ホームである原宿歩行者天国でのライブに観客が殺到。多数のバンドが短い間隔で乱立し演奏していたため、「音楽を正しく聴かせたい」というメンバーの意向にそぐわないとして、名実ともにホコ天No.1という人気絶頂の中、ホコ天を去る事を決意した。
+  - 満を持したような形で1989年[3月18日](../Page/3月18日.md "wikilink")放送のTBS『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』（いか天）に出場、『Never Be\!』を演奏、在宅審査員賞を受賞。この時にもファンが多数、放送スタジオのある[日比谷シャンテ](https://ja.wikipedia.org/wiki/日比谷シャンテ "wikilink")前まで追いかけてきていた\[2\]。1989年4月「イカすバンド天国」初の特別番組において人気投票1位を受賞。番組内で「Wendy」を生演奏した\[3\]。
+  - 1989年[5月28日](../Page/5月28日.md "wikilink")のライヴをもってホコ天を“卒業”。イカ天が人気番組となり、ホームである原宿歩行者天国でのライブに観客が殺到。多数のバンドが短い間隔で乱立し演奏していたため、「音楽を正しく聴かせたい」というメンバーの意向にそぐわないとして、名実ともにホコ天No.1という人気絶頂の中、ホコ天を去ることを決意した。
   - 1989年6月、ホコ天卒業後、原宿に自らの手で「ロック喫茶remote」をオープン。ストリートからロック喫茶に活動の拠点を移す（ロック喫茶はラフォーレと交差点を挟んだ斜めにオープンした）。毎日曜日限定で2ステージ開催。全国からファンが殺到し、イカ天番組内でもその特集が組まれた。
   - 社会現象となったバンドブームのシーンを先導した功績から、アエラ、週刊朝日等、音楽以外のフィールドでの取材を多数受ける。ライブ活動は音楽イベントのみならず、伊勢丹、豊島園、茨城県鹿嶋市、静岡県清水市、北海道帯広市等の企業、行政とコラボした各種イベントにも多数出演。早稲田大学等の学園祭にも数多く出演した。
-  - 1989年末、アマチュア時代の総決算としてＭＺＡ有明の大ホールにてワンマンライブを行なう。
+  - 1989年末、アマチュア時代の総決算としてMZA有明の大ホールにてワンマンライブを行う。
   - remote在籍中、池田貴族は[みうらじゅん](../Page/みうらじゅん.md "wikilink")と人間椅子の[和嶋慎治](../Page/和嶋慎治.md "wikilink")と共に「SEAMONKEYS（シーモンキーズ）」という音楽ユニットを結成。和嶋が不在の時は、愛川、HIROが代役を務めた。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ホリプロ](../Page/ホリプロ.md "wikilink")と契約、同年[7月25日](../Page/7月25日.md "wikilink")に[ワーナーパイオニアからシングル](../Page/ワーナーミュージック・ジャパン.md "wikilink")『NO\!』をリリースし、メジャーデビュー。
   - デビューライブは、ロックバンドでは珍しいサンシャイン劇場にてリサイタルと銘打ち行われた。その後のライブでは弦楽四重奏を加えて行われるなど、従来のロックバンドの枠に囚われない活動が話題となった。
@@ -27,26 +27,26 @@
 
 ## メンバー
 
-  - **[池田貴族](../Page/池田貴族.md "wikilink")** （[ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[1963年](../Page/1963年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")）
-  - **HIRO**（中博瑞） （[ギター](../Page/ギタリスト.md "wikilink")、[3月4日](../Page/3月4日.md "wikilink") - ）
+  - **[池田貴族](../Page/池田貴族.md "wikilink")** [ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[1963年](../Page/1963年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")）
+  - **HIRO**（中博瑞）（[ギター](../Page/ギタリスト.md "wikilink")、[3月4日](../Page/3月4日.md "wikilink") - ）
       -
         音楽活動を離れた後、メンタルトレーナー、マネジメント支援、人材育成、店舗業績アップのコンサルタントとして活躍。数々の業態で評価を得る。
 
 <!-- end list -->
 
-  - **愛川弘樹** （[ベース](../Page/ベーシスト.md "wikilink")、[6月24日](../Page/6月24日.md "wikilink") - ）
+  - **愛川弘樹**（[ベース](../Page/ベーシスト.md "wikilink")、[6月24日](../Page/6月24日.md "wikilink") - ）
       -
-        現在も[The Beanz](http://www6.airnet.ne.jp/pukapon/beans/index.html)というバンドで活躍、他にもバンドのサポート、[作曲家](../Page/作曲家.md "wikilink")としても活動（現在の名義は**愛川ヒロキ**）。因みに最初の楽曲提供はremote時代だった[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")の[千葉美加](../Page/千葉美加.md "wikilink")のシングル『フェイント勝ちね』のカップリング曲『8ビートのエチュード』、この曲は元々remoteの曲だったものをアレンジしたとのこと。後にこの曲は『Believe<sup>3</sup>』というタイトルでリモートのシングルとしてもリリースされる。
+        現在も[The Beanz](http://www6.airnet.ne.jp/pukapon/beans/index.html)というバンドで活躍、他にもバンドのサポート、[作曲家](../Page/作曲家.md "wikilink")としても活動（現在の名義は**愛川ヒロキ**）。ちなみに最初の楽曲提供はremote時代だった[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")の[千葉美加](../Page/千葉美加.md "wikilink")のシングル『フェイント勝ちね』のカップリング曲『8ビートのエチュード』、この曲は元々remoteの曲だったものをアレンジしたとのこと。後にこの曲は『Believe』というタイトルでリモートのシングルとしてもリリースされる。
 
 <!-- end list -->
 
-  - **天草史郎前崎**（前崎史郎） （[キーボード](../Page/キーボーディスト.md "wikilink")、[11月6日](../Page/11月6日.md "wikilink") - ）
+  - **天草史郎前崎**（前崎史郎）（[キーボード](../Page/キーボーディスト.md "wikilink")、[11月6日](../Page/11月6日.md "wikilink") - ）
       -
-        [シブがき隊](https://ja.wikipedia.org/wiki/シブがき隊 "wikilink")のバックバンド「[シブ楽器隊](https://ja.wikipedia.org/wiki/ジャニーズ事務所_過去のバックバンド#シブ楽器隊 "wikilink")」の元メンバー。 愛川とともにThe Beanzに参加。またLINDBERGの川添智久に誘われインストバンドZen-4に参加。数多くのアーティスト/タレント/CM/映画/舞台音楽などのレコーディングやライブの他、作編曲、プログラミング、オーケストレーション、時にはギター/ベース/バックコーラス、楽譜本の執筆、ジャケ写/MV出演など幅広く活動。
+        [シブがき隊](https://ja.wikipedia.org/wiki/シブがき隊 "wikilink")のバックバンド「[シブ楽器隊](https://ja.wikipedia.org/wiki/ジャニーズ事務所_過去のバックバンド#シブ楽器隊 "wikilink")」の元メンバー。愛川と共にThe Beanzに参加。またLINDBERGの川添智久に誘われインストバンドZen-4に参加。数多くのアーティスト/タレント/CM/映画/舞台音楽などのレコーディングやライブの他、作編曲、プログラミング、オーケストレーション、時にはギター/ベース/バックコーラス、楽譜本の執筆、ジャケ写/MV出演など幅広く活動。
 
 <!-- end list -->
 
-  - **CHAPPY**（前田忠男） （[ドラム](../Page/ドラマー.md "wikilink")、[1月29日](../Page/1月29日.md "wikilink") - ）
+  - **CHAPPY**（前田忠男）（[ドラム](../Page/ドラマー.md "wikilink")、[1月29日](../Page/1月29日.md "wikilink") - ）
       -
         『KABATA BAND』に在籍。Photographerとしても活躍中で、池田貴族のCD『MiYOU』のジャケット写真は彼の撮影。
 
@@ -54,29 +54,29 @@
 
 ### シングル
 
-  - **No\!** （1990年7月25日、C/W『Wendy』）
-  - **Believe<sup>3</sup>** （1990年11月28日、C/W『Curtain Call』）
-  - **TRAFFIC JAM** （1991年5月25日、C/W『OPEN THE WINDOW』）
-  - **Fairy** （1991年11月28日、C/W『Rush Hour』）
-  - **Cylinder** （1992年2月25日、C/W『Cylinder II』）
+  - **No\!**（1990年7月25日、C/W『Wendy』）
+  - **Believe**（1990年11月28日、C/W『Curtain Call』）
+  - **TRAFFIC JAM**（1991年5月25日、C/W『OPEN THE WINDOW』）
+  - **Fairy**（1991年11月28日、C/W『Rush Hour』）
+  - **Cylinder**（1992年2月25日、C/W『Cylinder II』）
 
 ### アルバム
 
-  - **remote ancestors** （1990年8月25日）
+  - **remote ancestors**（1990年8月25日）
       -
-        Never Be\!／Call me back／Wendy／Misery Gigolo／あの頃 teenage／No\!／Because,I'm so hard／Love Letter／Dream Again／All Night? All Right\!／Believe<sup>2</sup>（インストルメンタルヴァージョン）
+        Never Be\! / Call me back／Wendy / Misery Gigolo / あの頃 teenage / No\!／Because,I'm so hard / Love Letter／Dream Again / All Night? All Right\! / Believe（インストルメンタルヴァージョン）
 
 <!-- end list -->
 
-  - **TRUE COLOURS** 　（1991年6月25日）
+  - **TRUE COLOURS**（1991年6月25日）
       -
-        RUSH HOUR／TRAFFIC JAM／24／EVERYBODY／TOO GOOD FOR ME／HOLY VOICE／OPEN THE WINDOW／TOSCA／DESPAIR／GOOD MORNING
+        RUSH HOUR / TRAFFIC JAM / 24 / EVERYBODY / TOO GOOD FOR ME / HOLY VOICE / OPEN THE WINDOW / TOSCA / DESPAIR / GOOD MORNING
 
 <!-- end list -->
 
-  - **CYLINDER** 　（1992年3月25日）
+  - **CYLINDER**（1992年3月25日）
       -
-        All Love Is Not Forever／Cylinder／Sister／Fairy／My Pleasure／（I've always been）Alone／Top Secret／Cylinder II／Powder／Vibration／月食（Eclipse of the moon）
+        All Love Is Not Forever / Cylinder / Sister／Fairy / My Pleasure / (I've always been) Alone / Top Secret / Cylinder II / Powder / Vibration / 月食（Eclipse of the moon）
 
 ## 脚注
 
@@ -87,16 +87,19 @@
 
 ## 外部リンク
 
-  - [公式Facebookページ](https://www.facebook.com/remote.japan.official/)
-  - [公式Twitter](https://twitter.com/remote_rockband)
-  - [HIRO個人Facebook](https://www.facebook.com/hiromizu.naka)
-  - [COMMUNITY RED（公式サポーターズページ）](https://www.facebook.com/community.red/)
-  - [Open Sesame -remote museum-](http://www3.airnet.ne.jp/ochika/)
-  - [Notorious (愛川ヒロキ公式HP)](http://www6.airnet.ne.jp/pukapon/)
-  - [shiro maezaki（前崎史郎）Twitter](https://twitter.com/shiromaezaki)
+  -
+  -
+  - \- HIRO個人Facebook
 
+  - [COMMUNITY RED（公式サポーターズページ）](https://www.facebook.com/community.red/)
+
+  - [Open Sesame -remote museum-](http://www3.airnet.ne.jp/ochika/)
+
+  - [H.Aikawa's Official Web Site .....Notorious .....](http://www6.airnet.ne.jp/pukapon/) - 愛川ヒロキ公式HP
+
+  -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink")
 
-1.  衣装を赤にした経緯は、remote のライブを観に来た音楽事務所のスタッフが、当時のアマチュアバンドを凌駕した動員で盛り上がったライブを叱咤する様な「今の動員でいい気になってもしょうがない。まずはremoteと言えば〇〇といったモノを考えた方がいい」と言ったコメントに対し、その夜HIROが池田貴族に電話で相談を持ちかけ「来週の歩行者天国から俺は全身赤にする」と言った事がキッカケとなった。
-2.  この日、在宅審査員からのFAXで「ボーカルの目つきが良かった」との指摘にボーカル・池田は「当然ですよ」と返し、その後のイカ天の取材でも、「remote現象（げんしょう）と言われてますが…」とマイクを向けた[相原勇](../Page/相原勇.md "wikilink")に対し「いや、“げんしょう”じゃない。“シンドローム”と呼んでもらいたい」と即座に突っ込んだことでも、態度がでかい、ふてぶてしいと言われたが、その態度がまた魅力のひとつと言われ『リモートハリケーン』とも言われる人気を集めていった。
+1.  衣装を赤にした経緯は、remote のライブを観に来た音楽事務所のスタッフが、当時のアマチュアバンドを凌駕した動員で盛り上がったライブを叱咤するような「今の動員でいい気になってもしょうがない。まずはremoteと言えば〇〇といったモノを考えた方がいい」と言ったコメントに対し、その夜HIROが池田貴族に電話で相談を持ちかけ「来週の歩行者天国から俺は全身赤にする」と言ったことがきっかけとなった。
+2.  この日、在宅審査員からのFAXで「ボーカルの目つきが良かった」との指摘にボーカル・池田は「当然ですよ」と返し、その後のイカ天の取材でも、「remote現象（げんしょう）と言われてますが…」とマイクを向けた[相原勇](../Page/相原勇.md "wikilink")に対し「いや、“げんしょう”じゃない。“シンドローム”と呼んでもらいたい」と即座に突っ込んだことでも、態度がでかい、ふてぶてしいと言われたが、その態度がまた魅力の一つと言われ『リモートハリケーン』とも言われる人気を集めていった。
 3.  視聴者からのはがき投票で順位を決めるイカ天内のコーナー『アマチュアバンドベスト10』では、1989年4月22日では1位になったものの、翌週4月29日から8月12日まで14週連続で2位（4月29日から7月1日までは10週連続でKUSU KUSU、続く7月22日から8月12日までは4週連続でA-CHIEFが1位）という記録がある。

@@ -54,7 +54,7 @@
 ## 外部リンク
 
   - [maechu｜株式会社ソレモ](http://www.soremo.jp/voiceactor/maechu/)
-  - [マエチュウの大冒険\!\!](http://ameblo.jp/maechu-carp/)（本人によるブログ）
+  - [マエチュウの大冒険\!\!](https://ameblo.jp/maechu-carp/)（本人によるブログ）
 
 [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:過去のTABプロダクション所属者](https://ja.wikipedia.org/wiki/Category:過去のTABプロダクション所属者 "wikilink") [Category:過去のケッケコーポレーション所属者](https://ja.wikipedia.org/wiki/Category:過去のケッケコーポレーション所属者 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

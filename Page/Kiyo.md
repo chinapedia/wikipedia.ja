@@ -59,7 +59,7 @@
 
   - [kiyo 公式サイト](http://www.kiyo-ibukuro.com/)
   - [kiyo 公式サイト (avex)](http://www.avexnet.or.jp/kiyo/)
-  - [kiyo オフィシャルブログ 「kiyo風呂」](http://ameblo.jp/janne-kiyo/)
+  - [kiyo オフィシャルブログ 「kiyo風呂」](https://ameblo.jp/janne-kiyo/)
   - [kiyo 公式Twitter](https://twitter.com/JDA_kiyo)
 
 [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:Janne_Da_Arcのメンバー](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのメンバー "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")

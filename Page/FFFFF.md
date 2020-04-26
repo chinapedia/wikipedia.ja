@@ -7,7 +7,7 @@
 
 ## 放送時間の変遷
 
-2009年3月までは毎週[月曜](../Page/月曜日.md "wikilink")（[日曜](../Page/日曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）の0:40 - 0:55（[JST](../Page/日本標準時.md "wikilink")）だったが、[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より毎週[土曜](../Page/土曜日.md "wikilink") 9:30 - 9:50、[再放送](../Page/再放送.md "wikilink")は毎週月曜（日曜深夜） 0:40 - 1:00（その後、毎週[金曜](../Page/金曜日.md "wikilink")([木曜深夜](../Page/木曜日.md "wikilink")) 1:28 - 1:58へ変更）となり、[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より毎週日曜 11:30 - 11:50へ変更される（再放送は時間変更なし。）。
+2009年3月までは毎週[月曜](../Page/月曜日.md "wikilink")（[日曜](../Page/日曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）の0:40 - 0:55（[JST](../Page/日本標準時.md "wikilink")）だったが、[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より毎週[土曜](../Page/土曜日.md "wikilink") 9:30 - 9:50、[再放送](../Page/再放送.md "wikilink")は毎週月曜（日曜深夜） 0:40 - 1:00（その後、毎週[金曜](../Page/金曜日.md "wikilink")([木曜深夜](../Page/木曜日.md "wikilink")) 1:28 - 1:58へ変更）となり、[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より毎週日曜 11:30 - 11:50へ変更される（また、再放送も2020年[3月27日](../Page/3月27日.md "wikilink")より毎週金曜 14:20 - 14:42へ変更）。
 
 また、HTBローカルの野球中継が16:00を過ぎた場合、16:00 - 17:25に予定されていたネット番組をこの時間帯に時差放送を行なうため、実質放送時間繰り下げでネット番組時差放送終了直後の放送に変更されるほか、HTBローカルの野球中継が早く終了して時間枠が20分以上余った場合の穴埋め番組として放送されることもある。
 
@@ -23,11 +23,18 @@
 
 また、毎年プロ野球ペナントレースの開幕前には、番組メインMCでHTB専属解説者の岩本勉を筆頭に、道内各局で解説者として活躍するファイターズOBを招き、ファイターズの順位や注目選手の成績を予想する座談会が行われ、シーズン閉幕後に同じメンツを招き、答え合わせを行うのが恒例企画となっている。
 
-## 番組MC
+## 出演者
+
+### 番組MC
 
   - [ヒロ福地](../Page/ヒロ福地.md "wikilink")（ナレーションも担当）
   - [岩本勉](../Page/岩本勉.md "wikilink")（野球解説者）
   - [谷口直樹](../Page/谷口直樹.md "wikilink")（HTBアナウンサー）
+
+### その他
+
+  - [室岡里美](https://ja.wikipedia.org/wiki/室岡里美 "wikilink")（HTBアナウンサー）
+      - ナレーションを担当したり選手への取材も担当。
 
 ## FFFFFナイター
 
@@ -60,7 +67,7 @@
 <!-- end list -->
 
   -
-    この日の放送は1月3日放送の新春スペシャルの未公開SPだったが、オープニングの後[宮西尚生](https://ja.wikipedia.org/wiki/宮西尚生 "wikilink")・[武田勝](../Page/武田勝.md "wikilink")の癒しの旅が流れて、CMの後[栗山英樹](../Page/栗山英樹.md "wikilink")監督とヒロ福地の対談、[近藤健介](https://ja.wikipedia.org/wiki/近藤健介 "wikilink")・[松本剛](https://ja.wikipedia.org/wiki/松本剛 "wikilink")・[上沢直之](https://ja.wikipedia.org/wiki/上沢直之 "wikilink")の仲良し3人同期会、[吉田輝星](https://ja.wikipedia.org/wiki/吉田輝星 "wikilink")独占インタビューの順に放送される予定だったが、CMの後再びオープニングが流れ、[宮西尚生](https://ja.wikipedia.org/wiki/宮西尚生 "wikilink")・[武田勝](../Page/武田勝.md "wikilink")の癒しの旅が流れてしまった。その後CMを挟み吉田輝星独占インタビューのみが流れ放送が終了した。
+    この日の放送は1月3日放送の新春スペシャルの未公開SPだったが、オープニングの後[宮西尚生](https://ja.wikipedia.org/wiki/宮西尚生 "wikilink")・[武田勝](../Page/武田勝.md "wikilink")の癒しの旅、CMを挟み[栗山英樹](../Page/栗山英樹.md "wikilink")監督とヒロ福地の対談、[近藤健介](https://ja.wikipedia.org/wiki/近藤健介 "wikilink")・[松本剛](https://ja.wikipedia.org/wiki/松本剛 "wikilink")・[上沢直之](https://ja.wikipedia.org/wiki/上沢直之 "wikilink")の仲良し3人同期会、再びCMを挟み[吉田輝星](https://ja.wikipedia.org/wiki/吉田輝星 "wikilink")独占インタビューの順に放送される予定だったが、宮西・武田勝の癒しの旅のCMの後再びオープニングが流れ、宮西・武田勝の癒しの旅が流れてしまった。その後CMを挟み吉田輝星独占インタビューのみを流して放送が終了した。
 
 <!-- end list -->
 

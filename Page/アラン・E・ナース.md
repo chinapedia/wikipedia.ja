@@ -1,7 +1,7 @@
 > この記事は[アラン・E・ナース](https://ja.wikipedia.org/wiki/アラン・E・ナース)から翻訳されています。
 
 
-**アラン・エドワード・ナース**（Alan Edward Nourse, [1928年](../Page/1928年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")-[1992年](../Page/1992年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")生まれ。表記は、ファーストネームを略して**A・E・ナース**とも。古い資料では姓をナーズ、ノースと表記するものもある。
+**アラン・エドワード・ナース**（Alan Edward Nourse, [1928年](../Page/1928年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")-[1992年](../Page/1992年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[アイオワ州](../Page/アイオワ州.md "wikilink")生まれ。表記は、ファーストネームを略して**A・E・ナース**とも。古い資料では姓をナーズ、ノースと表記するものもある。
 
 主に1950年代のアメリカでSFを執筆した。本来は医学畑の人で、医学をテーマにした作品も少なくない。ノンフィクションの著作もある。[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")の会長を務めたことがある。
 

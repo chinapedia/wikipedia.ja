@@ -565,7 +565,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟アルビレックスBB.md" title="wikilink">新潟アルビレックスBB</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島村仁" title="wikilink">島村仁</a>/立石勇生</p></td>
+<td><p><a href="../Page/島村仁.md" title="wikilink">島村仁</a>/立石勇生</p></td>
 <td></td>
 <td><p>第1戦を島村、第2戦を立石が担当（平日開催時は未定）</p></td>
 </tr>

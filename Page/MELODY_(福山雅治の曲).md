@@ -67,7 +67,7 @@
 
   - [紅白歌合戦ヒストリー 第44回（1993年／平成5年）](http://www1.nhk.or.jp/kouhaku/history/history_44.html)
 
-[Category:福山雅治の楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治の楽曲 "wikilink") [Category:福山雅治が制作した楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治が制作した楽曲 "wikilink") [Category:ロッテのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロッテのコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+[Category:福山雅治の楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治の楽曲 "wikilink") [Category:福山雅治が制作した楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治が制作した楽曲 "wikilink") [Category:ロッテのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロッテのコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
 
 1.  『[M-COLLECTION 風をさがしてる](https://ja.wikipedia.org/wiki/M-COLLECTION_風をさがしてる "wikilink")』ブックレットに封入されている福山によるLiner notesを参照。
 2.

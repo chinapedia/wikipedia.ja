@@ -5,7 +5,7 @@
 
 ## 概要
 
-[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(熊本市\) "wikilink")[上通](../Page/上通.md "wikilink")の[びぷれす熊日会館](https://ja.wikipedia.org/wiki/上通A地区第一種市街地再開発事業 "wikilink")・[鶴屋New](../Page/鶴屋百貨店.md "wikilink")-S地下1階の「エフエム熊本[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")J-PIT」（現在は廃止）から[生放送](../Page/生放送.md "wikilink")されていたが、[2013年](../Page/2013年.md "wikilink")4月からエフエム熊本本社スタジオでの放送となり、放送時間も16:00からと、それまでより1時間早くなった。かつては19時台も放送していたこともある。
+[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(熊本市\) "wikilink")[上通](../Page/上通.md "wikilink")の[びぷれす熊日会館](https://ja.wikipedia.org/wiki/上通A地区第一種市街地再開発事業 "wikilink")・[鶴屋New](../Page/鶴屋百貨店.md "wikilink")-S地下1階の「エフエム熊本[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")J-PIT」（現在は廃止）から[生放送](../Page/生放送.md "wikilink")されていたが、[2013年](../Page/2013年.md "wikilink")4月からエフエム熊本本社スタジオでの放送となり、放送時間も16:00～18:55と、それまでより1時間繰り上げられた。
 
 途中、[自社製作帯番組や](https://ja.wikipedia.org/wiki/帯番組 "wikilink")[TOKYO FM製作番組を交えながら番組を送る](../Page/エフエム東京.md "wikilink")。
 
@@ -47,10 +47,12 @@
 
 ## タイムテーブル
 
-2019年4月現在
+### 現在
+
+2020年4月現在
 
   - 16:00- OPENING
-  - 16:20- [SUZUKI HAPPY TRAFFIC INFORMATION](../Page/スズキ_\(企業\).md "wikilink")（道路交通情報）
+  - 16:20- [SUZUKI HAPPY TRAFFIC INFORMATION](https://ja.wikipedia.org/wiki/スズキ自販熊本 "wikilink")（道路交通情報）
   - 16:24頃- AROUND BUSTERS
   - 16:50- 大劇 everyday jazz
   - 17:00- [熊本トヨペット](https://ja.wikipedia.org/wiki/熊本トヨペット "wikilink") 2hd CORNER
@@ -63,6 +65,26 @@
   - 18:17- ウェザーインフォメーション
   - 18:20- (ゲスト枠）
       - ゲストがいない場合、バスターズ・プレイリスト
+
+2012年頃
+
+  - 17:00- OPENING
+  - 17:15- [熊本トヨペット](https://ja.wikipedia.org/wiki/熊本トヨペット "wikilink") 1st CORNER
+  - 17:28- トラフィックインフォメーション
+  - 17:45- [Humanglobe Traveler](https://ja.wikipedia.org/wiki/Humanglobe_Traveler "wikilink")
+  - 18:00- MIC 6 BUSTERS
+  - 18:08- いい旅熊本観光塾
+  - 18:15- トラフィックインフォメーション
+  - 18:17- ウェザーインフォメーション
+  - 18:26- AROUND BUSTERS
+      - 月曜日は、スペシャリスト
+      - 火曜日は、カップリングバトル\!聴きたいのはどっち
+      - 水曜日は、ライブインフォメーション
+      - 2週目の木曜日には、リポーターの[風戸直子](../Page/風戸直子.md "wikilink")が出演
+      - 4週目の木曜日には、[タウン情報クマモト](https://ja.wikipedia.org/wiki/タウン情報クマモト "wikilink")（2020年2月廃刊）日置編集長が出演
+  - 19:00-
+      - （月）鶴屋New-S News、終了後、GUEST CORNER（またはアーティストリクエスト）
+      - （火）-（木）GUEST CORNER（またはアーティストリクエスト）
 
 ## 外部リンク
 

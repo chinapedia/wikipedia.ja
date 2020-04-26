@@ -5,7 +5,7 @@
 
 ## 概要・沿革
 
-韓国でも大手アニメーション制作会社の一つである。業務としては海外（主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")）が制作するアニメ作品の下請け作業を行うと同時に、『[RAGNAROK THE ANIMATION](../Page/RAGNAROK_THE_ANIMATION.md "wikilink")』などの自社オリジナルアニメ作品を多数制作している。本社が設立された2000年5月ほぼ同時期には日本に子会社である[株式会社ジーアンドジーディレクションを設立し](../Page/G&G_Direction.md "wikilink")、さらに幅広く制作活動を展開している。会社設立後の[2006年](../Page/2006年.md "wikilink")には『[きらりん☆レボリューション](../Page/きらりん☆レボリューション.md "wikilink")』を日本の制作会社[SynergySP](../Page/SynergySP.md "wikilink")と共同制作した（2008年3月度まで）。これは『[アニマル横町](../Page/アニマル横町.md "wikilink")』と同じ日本（[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")）と韓国（[同友アニメーション](../Page/同友アニメーション.md "wikilink")）の合作といえる。さらには実写作品『[ごめん、愛してる](../Page/ごめん、愛してる.md "wikilink")』の製作にも参加しているため、韓国のアニメ制作会社としては珍しい部類に位置づけられる。
+韓国でも大手アニメーション制作会社の一つである。業務としては海外（主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")）が制作するアニメ作品の下請け作業を行うと同時に、『[RAGNAROK THE ANIMATION](../Page/RAGNAROK_THE_ANIMATION.md "wikilink")』などの自社オリジナルアニメ作品を多数制作している。本社が設立された2000年5月ほぼ同時期には日本に子会社である[株式会社ジーアンドジーディレクションを設立し](../Page/G&G_Direction.md "wikilink")、さらに幅広く制作活動を展開している。会社設立後の[2006年](../Page/2006年.md "wikilink")には『[きらりん☆レボリューション](../Page/きらりん☆レボリューション.md "wikilink")』を日本の制作会社[SynergySP](../Page/SynergySP.md "wikilink")と共同制作した（2008年3月度まで）。さらには実写作品『[ごめん、愛してる](../Page/ごめん、愛してる.md "wikilink")』の製作にも参加しているため、韓国のアニメ制作会社としては珍しい部類に位置づけられる。
 
 多くの作品の場合、「**G\&G Entertainment**」「**G\&G**」「**ソウルG\&G**」と[クレジットされる](../Page/クレジットタイトル.md "wikilink")。
 

@@ -97,6 +97,9 @@
   - [宇宙よりも遠い場所](https://ja.wikipedia.org/wiki/宇宙よりも遠い場所 "wikilink") （制作元請：マッドハウス、各話制作協力、2018年）
   - [オーバーロードII](https://ja.wikipedia.org/wiki/オーバーロードII "wikilink") （制作元請：マッドハウス、各話制作協力、2018年）
   - [だがしかし2](https://ja.wikipedia.org/wiki/だがしかし2 "wikilink") （制作元請：[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")、各話制作協力、2018年）
+  - [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 "wikilink")シリーズ
+      - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 （制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、各話制作協力、2019年）
+      - かぐや様は告らせたい？ （制作元請：A-1 Pictures、各話制作協力、2020年）
   - High Guardian Spice （制作元請：エレーション・スタジオ、各話制作協力、2019年-）\[3\]\[4\]\[5\]
   - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな! "wikilink") （制作元請：[サイエンスSARU](https://ja.wikipedia.org/wiki/サイエンスSARU "wikilink")、制作協力、2020年）
 
@@ -141,6 +144,7 @@
   - [サクラクエスト](https://ja.wikipedia.org/wiki/サクラクエスト "wikilink")（制作元請：[P.A. WORKS](../Page/ピーエーワークス.md "wikilink")、原画・第二原画・動画・仕上、2017年）
   - [グランブルーファンタジー](https://ja.wikipedia.org/wiki/グランブルーファンタジー "wikilink") ジ・アニメーション（制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink"), 美術・動画・仕上、2017年）
   - [クロックワーク・プラネット](https://ja.wikipedia.org/wiki/クロックワーク・プラネット "wikilink")（制作元請：[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")、美術、2017年）
+  - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… "wikilink")（制作元請：[SILVER LINK.](https://ja.wikipedia.org/wiki/SILVER_LINK. "wikilink")、作画監督、2020年）
 
 #### 劇場アニメ
 

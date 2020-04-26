@@ -653,12 +653,12 @@
   - [1964年](../Page/1964年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に発行された[50セント硬貨にケネディの肖像画](../Page/50セント硬貨_\(アメリカ合衆国\).md "wikilink")（横顔）が使用された。この硬貨は同年8月までの鋳造枚数が9,870万枚にもおよんだが私蔵されてしまい、現在ではほとんど流通していない\[133\]。
   - [キティホーク級航空母艦](../Page/キティホーク級航空母艦.md "wikilink")の[4番艦](../Page/ジョン・F・ケネディ_\(空母・初代\).md "wikilink")（USS John F. Kennedy, CVA-67/CV-67）。
   - [ニューヨーク](../Page/ニューヨーク.md "wikilink")の[ジョン・F・ケネディ国際空港](../Page/ジョン・F・ケネディ国際空港.md "wikilink")（旧名アイドルワイルド国際空港）。
-  - フロリダ州の[ジョン・F・ケネディ宇宙センター](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ宇宙センター "wikilink")。
+  - [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")の[ジョン・F・ケネディ宇宙センター](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ宇宙センター "wikilink")。
   - ケネディが卒業した[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")にある行政・政治学大学院の名称は、アメリカ政治におけるケネディの貢献を記念してケネディ死後の1966年に「[ケネディスクール](../Page/ケネディスクール.md "wikilink")（John F. Kennedy School of Government）」と改称された。
   - ワシントンD.C.の[ジョン・F・ケネディ・センター](../Page/ジョン・F・ケネディ・センター.md "wikilink")（The John F. Kennedy Center for the Performing Arts）1971年落成の総合文化施設。
   - [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")兵士を養成する機関、[ジョン・F・ケネディ特殊戦センター・アンド・スクール](../Page/ジョン・F・ケネディ特殊戦センター・アンド・スクール.md "wikilink")。
   - [ジェラルド・R・フォード級航空母艦](../Page/ジェラルド・R・フォード級航空母艦.md "wikilink")の[2番艦](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ_\(CVN-79\) "wikilink")（2013年起工予定、2018年進水予定、2020年就航予定）（USS John F. Kennedy, CVN-79）。
-  - [ボストン](../Page/ボストン.md "wikilink")の[マサチューセッツ大学](../Page/マサチューセッツ大学.md "wikilink")キャンパスにある[ジョン・F・ケネディ図書館](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ図書館 "wikilink")。
+  - 出身地[ボストン](../Page/ボストン.md "wikilink")の[ジョン・F・ケネディ大統領図書館・博物館](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ大統領図書館・博物館 "wikilink")（1979年開場）。[マサチューセッツ大学](../Page/マサチューセッツ大学.md "wikilink")ボストン校キャンパス内にあるケネディを記念した博物館。隣接して[エドワード・M・ケネディ上院議員研究所がある](../Page/エドワード・ケネディ.md "wikilink")。
 
 ## 著書および関係書
 

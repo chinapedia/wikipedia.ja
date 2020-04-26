@@ -90,7 +90,7 @@
 
 ## その他
 
-  - 2010年5月15日の放送は[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")とのコラボレーションで、[じゃじゃじゃTV](../Page/じゃじゃじゃTV.md "wikilink")と一部の出演者を交換して放送を行った。午後から放送された特別番組「じゃじゃろぐ@緑が丘ヒルズ」では2局で同時生放送を行った。
+  - 2010年5月15日の放送は[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")とのコラボレーションで、[じゃじゃじゃTV](../Page/じゃじゃじゃTV.md "wikilink")と一部の出演者を交換して放送を行った。午後から放送された特別番組「じゃじゃろぐ@緑が丘ヒルズ」では2局で同時生放送を行った。
 
 ## 脚注
 
@@ -98,7 +98,7 @@
 
 ## 外部リンク
 
-  - [あなろぐ an@log](http://web.archive.org/web/20140614140924/http://www.menkoi-tv.co.jp/analog/top.html) - 閉鎖。2014年6月14時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")。
+  - [あなろぐ an@log](http://web.archive.org/web/20140614140924/http://www.menkoi-tv.co.jp/analog/top.html) - 閉鎖。2014年6月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")。
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:岩手めんこいテレビの番組](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビの番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:未完結テレビ番組](https://ja.wikipedia.org/wiki/Category:未完結テレビ番組 "wikilink")
 

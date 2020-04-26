@@ -1,4 +1,4 @@
-> この記事は[VICTORY!](https://ja.wikipedia.org/wiki/VICTORY!)から翻訳されています。
+> この記事は[VICTORY!〜フットガールズの青春〜](https://ja.wikipedia.org/wiki/VICTORY!〜フットガールズの青春〜)から翻訳されています。
 
 
 『**VICTORY\!〜フットガールズの青春〜**』（ビクトリー！フットガールズのせいしゅん）は、[2003年](../Page/2003年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")の19:00\~20:54に[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、単発スペシャルの[テレビドラマ](../Page/テレビドラマ.md "wikilink")である\[1\]。
@@ -7,17 +7,17 @@
 
 チアリーディング部に所属するひとりの女子が、ひょんな事から放ったミラクルシュートの腕を見込まれ、連敗続きの女子フットサル部にスカウトされる。ミラクルシュートが放てなくなった女子を含めメンバー個々の様々な問題を抱えながらチームは、学園の存亡がかかった、全国大会地区予選に臨む。
 
-[2003年ワールドカップバレーボール](https://ja.wikipedia.org/wiki/2003年ワールドカップバレーボール "wikilink")の真っ只中に放送されたが、本作はバレーボールではなく[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")をテーマにした[スポ根](https://ja.wikipedia.org/wiki/スポ根 "wikilink")ドラマである\[2\]。夢・友情・親子・家族・愛・ギャグ・派手なCG演出と、肩の力を抜いて楽しく見るのに十分な内容となっている。
+[2003年ワールドカップバレーボール](../Page/2003年ワールドカップバレーボール.md "wikilink")の真っ只中に放送されたが、本作はバレーボールではなく[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")をテーマにした[スポ根](../Page/スポ根.md "wikilink")ドラマである\[2\]。夢・友情・親子・家族・愛・ギャグ・派手なCG演出と、肩の力を抜いて楽しく見るのに十分な内容となっている。
 
 ## キャスト
 
 ### 為枝エンジェルス～為枝学園女子フットサル部
 
   - 足田蹴子：[松浦亜弥](../Page/松浦亜弥.md "wikilink")
-  - 飛田飛子：[加賀美早紀](https://ja.wikipedia.org/wiki/加賀美早紀 "wikilink")
+  - 飛田飛子：[加賀美早紀](../Page/加賀美早紀.md "wikilink")
   - 早川惚美：[平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")
   - 滝沢智恵美：[末永遥](../Page/末永遥.md "wikilink")
-  - 熊沢庵子：[ベッキー](https://ja.wikipedia.org/wiki/ベッキー "wikilink")
+  - 熊沢庵子：[ベッキー](../Page/ベッキー.md "wikilink")
 
 ### 為枝DAUGHTERS。～為枝学園チアリーディング部
 
@@ -28,10 +28,10 @@
 
 ### LPデビルボディース～LP学園女子フットサル部
 
-  - 上原陽子：[立川絵理](https://ja.wikipedia.org/wiki/立川絵理 "wikilink")
+  - 上原陽子：[立川絵理](../Page/立川絵理.md "wikilink")
   - [中江ともこ](https://ja.wikipedia.org/wiki/中江ともこ "wikilink")
   - [根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")
-  - [小林恵美](https://ja.wikipedia.org/wiki/小林恵美 "wikilink")
+  - [小林恵美](../Page/小林恵美.md "wikilink")
   - [七海薫](https://ja.wikipedia.org/wiki/七海薫 "wikilink")
 
 ### その他
@@ -40,12 +40,12 @@
   - 足田天一（蹴子の弟）：[須賀健太](https://ja.wikipedia.org/wiki/須賀健太 "wikilink")
   - 沢木（飛子に絡むチンピラ）：[そのまんま東](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")
   - 沢木の舎弟：[お宮の松](../Page/お宮の松_\(お笑い芸人\).md "wikilink")・[無法松](../Page/無法松_\(お笑い芸人\).md "wikilink")
-  - 試合実況アナウンサー：[山崎まさや](https://ja.wikipedia.org/wiki/山崎まさや "wikilink")
-  - 試合審判：[与座嘉秋](https://ja.wikipedia.org/wiki/ホーム・チーム_\(お笑い\) "wikilink")
+  - 試合実況アナウンサー：[山崎まさや](../Page/山崎まさや.md "wikilink")
+  - 試合審判：[与座嘉秋](../Page/ホーム・チーム_\(お笑い\).md "wikilink")
   - [阪田マサノブ](https://ja.wikipedia.org/wiki/阪田マサノブ "wikilink")
   - [小西大樹](https://ja.wikipedia.org/wiki/小西大樹 "wikilink")
   - [田中仁浩](https://ja.wikipedia.org/wiki/田中仁浩 "wikilink")
-  - 花山時雄：[吉沢悠](https://ja.wikipedia.org/wiki/吉沢悠 "wikilink")
+  - 花山時雄：[吉沢悠](../Page/吉沢悠.md "wikilink")
   - 熊沢虎夫（為枝学園校長）：[勝野洋](../Page/勝野洋.md "wikilink")
   - 足田厳太（蹴子の父）：[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")
 
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/無綫電視" title="wikilink">無綫電視</a><a href="https://ja.wikipedia.org/wiki/翡翠台" title="wikilink">翡翠台</a></p></td>
+<td><p><a href="../Page/無綫電視.md" title="wikilink">無綫電視</a><a href="https://ja.wikipedia.org/wiki/翡翠台" title="wikilink">翡翠台</a></p></td>
 <td><p><em>VICTORY! 〜腳女的青春〜</em></p></td>
 <td><p>2019年3月24日</p></td>
 </tr>
@@ -159,7 +159,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABS-CBN" title="wikilink">ABS-CBN</a><br />
+<td><p><a href="../Page/ABS-CBN.md" title="wikilink">ABS-CBN</a><br />
 <a href="https://ja.wikipedia.org/wiki/IBC-13" title="wikilink">IBC-13</a><br />
 <a href="https://ja.wikipedia.org/wiki/RPN-9" title="wikilink">RPN-9</a><br />
 <a href="https://ja.wikipedia.org/wiki/SOLAR_TV" title="wikilink">SOLAR TV</a><br />
@@ -189,13 +189,13 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AXN" title="wikilink">AXN</a></p></td>
+<td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
 <td><p><em>¡VICTORIA! ~ Juventud de Foot Girls ~</em></p></td>
 <td><p>2019年5月27日</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・ブロードキャスティング・カンパニー" title="wikilink">ABC</a></p></td>
+<td><p><a href="../Page/アメリカン・ブロードキャスティング・カンパニー.md" title="wikilink">ABC</a></p></td>
 <td><p><em>VICTORY! ~ Youth of Foot Girls ~</em></p></td>
 <td><p>2019年6月4日</p></td>
 </tr>
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Rai_1" title="wikilink">Rai 1</a></p></td>
+<td><p><a href="../Page/Rai_1.md" title="wikilink">Rai 1</a></p></td>
 <td><p><em>VITTORIA! ~ Youth of Foot Girls ~</em></p></td>
 <td><p>2019年6月20日</p></td>
 </tr>
@@ -265,13 +265,13 @@
 ## スタッフ
 
   - 脚本：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")
-  - プロデュース：[栗原美和子](https://ja.wikipedia.org/wiki/栗原美和子 "wikilink")
+  - プロデュース：[栗原美和子](../Page/栗原美和子.md "wikilink")
   - 演出：[久保田哲史](https://ja.wikipedia.org/wiki/久保田哲史 "wikilink")
-  - 音楽：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
-  - サウンドデザイン：[志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
-  - ロケ協力：[品川エトワール女子高等学校](https://ja.wikipedia.org/wiki/品川エトワール女子高等学校 "wikilink")、[ルネサス テクノロジ](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")、[東京都立大学](../Page/東京都立大学.md "wikilink")ほか
-  - 技術協力：[バスク](https://ja.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")
-  - 協力：[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")、[アディダス](https://ja.wikipedia.org/wiki/アディダス "wikilink")
+  - 音楽：[高橋諭一](../Page/高橋諭一.md "wikilink")
+  - サウンドデザイン：[志田博英](../Page/志田博英.md "wikilink")
+  - ロケ協力：[品川エトワール女子高等学校](../Page/品川エトワール女子高等学校.md "wikilink")、[ルネサス テクノロジ](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")、[東京都立大学 (1949-2011)ほか](../Page/東京都立大学_\(1949-2011\).md "wikilink")
+  - 技術協力：[バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")
+  - 協力：[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")、[アディダス](../Page/アディダス.md "wikilink")
   - 製作著作： [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 脚注

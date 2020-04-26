@@ -1,11 +1,11 @@
 > この記事は[Indeo](https://ja.wikipedia.org/wiki/Indeo)から翻訳されています。
 
 
-**Indeo Video**(インデオビデオ)は[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")に開発したビデオ[コーデック](../Page/コーデック.md "wikilink")である。
+**Indeo Video**(インデオビデオ)は[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が[1992年](../Page/1992年.md "wikilink")に開発したビデオ[コーデック](../Page/コーデック.md "wikilink")である。
 
 ## 概要
 
-[アップルコンピュータの](../Page/アップル_\(企業\).md "wikilink")[QuickTime](../Page/QuickTime.md "wikilink")（MOV形式）や[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Video for Windows](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")（AVI形式）で主力のビデオコーデックであったが、[Sorenson Videoや](https://ja.wikipedia.org/wiki/Sorenson_Video "wikilink")[MPEG-1](../Page/MPEG-1.md "wikilink")、そして2000年代後半以降の[VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink")や[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")に取って代わられた。
+[アップルコンピュータの](../Page/アップル_\(企業\).md "wikilink")[QuickTime](../Page/QuickTime.md "wikilink")（MOV形式）や[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[Video for Windows](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")（AVI形式）で主力のビデオコーデックであったが、[Sorenson Videoや](https://ja.wikipedia.org/wiki/Sorenson_Video "wikilink")[MPEG-1](../Page/MPEG-1.md "wikilink")、そして2000年代後半以降の[VC-1](../Page/VC-1.md "wikilink")や[H.264](../Page/H.264.md "wikilink")に取って代わられた。
 
 [Windows XP Service Pack 1には](../Page/Microsoft_Windows_XP.md "wikilink")**Indeo Video 5** コーデックが含まれていなかったため、[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")などの[動画](../Page/動画.md "wikilink")が再生できないという問題が頻発し、一部で騒ぎとなったこともある。
 

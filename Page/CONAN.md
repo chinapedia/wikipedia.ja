@@ -1,7 +1,7 @@
 > この記事は[CONAN](https://ja.wikipedia.org/wiki/CONAN)から翻訳されています。
 
 
-『**CONAN**』（コナン）は、[1932年](../Page/1932年.md "wikilink")から[ロバート・E・ハワード](https://ja.wikipedia.org/wiki/ロバート・E・ハワード "wikilink")により著されたファンタジー小説『[英雄コナン](../Page/英雄コナン.md "wikilink")』シリーズを原作にした[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Xbox 360用コンピュータゲーム](../Page/Xbox_360.md "wikilink")。日本国内では[2007年](../Page/2007年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。
+『**CONAN**』（コナン）は、[1932年](../Page/1932年.md "wikilink")から[ロバート・E・ハワード](../Page/ロバート・E・ハワード.md "wikilink")により著されたファンタジー小説『[英雄コナン](../Page/英雄コナン.md "wikilink")』シリーズを原作にした[プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[Xbox 360用コンピュータゲーム](../Page/Xbox_360.md "wikilink")。日本国内では[2007年](../Page/2007年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")発売。
 
 ストーリーは原作に基づいた世界観に『[ギアーズ・オブ・ウォー](../Page/Gears_of_War.md "wikilink")』の作者によって書き下ろされた完全新作。かつて[FM-7](../Page/FM-7.md "wikilink")で1986年にゲーム化、発売されたことがあるが、本作は完全新作である。
 
@@ -13,10 +13,10 @@
 
 ## 関連項目
 
-  - [ロバート・E・ハワード](https://ja.wikipedia.org/wiki/ロバート・E・ハワード "wikilink")
+  - [ロバート・E・ハワード](../Page/ロバート・E・ハワード.md "wikilink")
       - [英雄コナン](../Page/英雄コナン.md "wikilink")
       - [コナン・ザ・グレート](../Page/コナン・ザ・グレート.md "wikilink")
-  - [アクションアドベンチャーゲーム](https://ja.wikipedia.org/wiki/アクションアドベンチャーゲーム "wikilink")
+  - [アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")
 
 ## 外部リンク
 

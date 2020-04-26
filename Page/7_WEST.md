@@ -7,23 +7,23 @@
 
 [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")（Hey\! Say\! 7）の関西版として結成されたため\[1\]、「**Hey\! Say\! 7 WEST**」というユニット名で活動を開始。当初メンバーは固定ではなくシャッフル制。その後はHey\! Say\! JUMPとは関係なく関西ジャニーズJr.内の一グループとして活動し、「**7 WEST**」とユニット名を変更した。
 
-当初は[中山優馬](https://ja.wikipedia.org/wiki/中山優馬 "wikilink")もメンバーのうちの1人だったが、一旦メンバーとしては活動しなくなり、2008年8月に行われた大阪松竹座公演で「**Hey\! Say\! 7 WEST w/優馬**」としての活動が発表され\[2\]、その後も「**中山優馬 w/Hey\! Say\! 7 WEST**」および「**[中山優馬 w/7 WEST](https://ja.wikipedia.org/wiki/中山優馬_w/7_WEST "wikilink")**」というユニット名でメンバーと一緒に活動する姿が見られた。
+当初は[中山優馬](../Page/中山優馬.md "wikilink")もメンバーのうちの1人だったが、一旦メンバーとしては活動しなくなり、2008年8月に行われた大阪松竹座公演で「**Hey\! Say\! 7 WEST w/優馬**」としての活動が発表され\[2\]、その後も「**中山優馬 w/Hey\! Say\! 7 WEST**」および「**[中山優馬 w/7 WEST](https://ja.wikipedia.org/wiki/中山優馬_w/7_WEST "wikilink")**」というユニット名でメンバーと一緒に活動する姿が見られた。
 
 ## メンバー
 
 *生年月日順*
 
-  - [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（しげおか だいき、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")）
-  - [神山智洋](https://ja.wikipedia.org/wiki/神山智洋 "wikilink")（かみやま ともひろ、[1993年](../Page/1993年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")）
+  - [重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（しげおか だいき、[1992年](../Page/1992年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")）
+  - [神山智洋](../Page/神山智洋.md "wikilink")（かみやま ともひろ、[1993年](../Page/1993年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")）
   - [藤井流星](https://ja.wikipedia.org/wiki/藤井流星 "wikilink")（ふじい りゅうせい、1993年[8月18日](../Page/8月18日.md "wikilink")）
   - [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")（こたき のぞむ、[1996年](../Page/1996年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")）
 
 ### 過去のメンバー
 
-  - [中田大智](https://ja.wikipedia.org/wiki/中田大智 "wikilink")（なかただいち、[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）\[3\]
+  - [中田大智](../Page/中田大智.md "wikilink")（なかただいち、[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）\[3\]
   - 千崎涼太（せんざきりょうた、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")）\[4\]
   - 竹本慎平（たけもと しんぺい、[1993年](../Page/1993年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")）\[5\]\[6\]
-  - [中山優馬](https://ja.wikipedia.org/wiki/中山優馬 "wikilink")（なかやま ゆうま、[1994年](../Page/1994年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")）
+  - [中山優馬](../Page/中山優馬.md "wikilink")（なかやま ゆうま、[1994年](../Page/1994年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")）
   - 新垣佑斗（しんがき ゆうと、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")）\[7\]\[8\]
 
 ## 年譜
@@ -40,7 +40,7 @@
 
   - 2008年
 
-:\* 1月3日に大阪城ホールで行われたコンサート『関西ジャニーズJr. おめでとう in 城ホール』にも同じ6人で出演していたが\[14\]、1月23日発売のアイドル雑誌『[Myojo](https://ja.wikipedia.org/wiki/Myojo "wikilink")』2008年3月号\[15\]および2月7日発売の『POTATO』『Wink Up』2008年3月号ではメンバーは神山・藤井・竹本・中山の4人になっている\[16\]\[17\]。
+:\* 1月3日に大阪城ホールで行われたコンサート『関西ジャニーズJr. おめでとう in 城ホール』にも同じ6人で出演していたが\[14\]、1月23日発売のアイドル雑誌『[Myojo](../Page/Myojo.md "wikilink")』2008年3月号\[15\]および2月7日発売の『POTATO』『Wink Up』2008年3月号ではメンバーは神山・藤井・竹本・中山の4人になっている\[16\]\[17\]。
 
 :\* 5月7日発売の『POTATO』2008年6月号では中山の姿が無く、メンバーは神山・藤井・竹本の3人になっている\[18\]。
 
@@ -96,7 +96,7 @@
 
 ### 舞台
 
-  - Tough Weeds 光の射すほうへ…（2009年8月2日 - 27日、[大阪松竹座](https://ja.wikipedia.org/wiki/大阪松竹座 "wikilink")）Hey\!Say\!7WESTとして\[46\]
+  - Tough Weeds 光の射すほうへ…（2009年8月2日 - 27日、[大阪松竹座](../Page/大阪松竹座.md "wikilink")）Hey\!Say\!7WESTとして\[46\]
   - [少年たち 〜格子なき牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年8月3日 - 28日、大阪松竹座）神山、藤井、重岡、竹本、小瀧、新垣\[47\]\[48\]
   - [少年たち 格子無き牢獄 & SHOW TIME\!](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2011年\) "wikilink")（2011年8月3日 - 27日、大阪松竹座）\[49\] ※9月公演は関西ジャニーズJr.として重岡・神山のみ出演
   - [ジャニーズ銀座 Youの前にはMeがいる\!](https://ja.wikipedia.org/wiki/ジャニーズ銀座#ジャニーズ銀座_Youの前にはMeがいる！（2012年） "wikilink")（2012年5月4日 - 6日〔関西ジャニーズJr.1組として藤井・小瀧・竹本・新垣〕・5月26日 - 28日〔関西ジャニーズJr.2組として重岡・神山〕、シアタークリエ）\[50\]

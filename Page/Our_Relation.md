@@ -5,8 +5,8 @@
 
 ## 解説
 
-  - [2002年](../Page/2002年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[SONIC GROOVEよりリリースされた](https://ja.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
-  - 楽曲を手がけたのは「[identity](https://ja.wikipedia.org/wiki/identity_\(今井絵理子の曲\) "wikilink")」以来となる[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")。
+  - [2002年](../Page/2002年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[SONIC GROOVEよりリリースされた](../Page/SONIC_GROOVE.md "wikilink")。
+  - 楽曲を手がけたのは「[identity](https://ja.wikipedia.org/wiki/identity_\(今井絵理子の曲\) "wikilink")」以来となる[葉山拓亮](../Page/葉山拓亮.md "wikilink")。
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[キャプテン翼](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\)#『キャプテン翼』（平成版） "wikilink")』オープニングテーマ。
   - 初回生産分のみアナザージャケットステッカーが封入されている。
 
@@ -17,7 +17,7 @@
 2.  Only For You
       - 作詞・作曲・編曲:葉山拓亮
 3.  Our Relation (Lead no Lead Mix)
-      - リミックス:[前嶋康明](https://ja.wikipedia.org/wiki/前嶋康明 "wikilink")
+      - リミックス:[前嶋康明](../Page/前嶋康明.md "wikilink")
 4.  Our Relation (instrumental)
 5.  Only For You (instrumental)
 
@@ -37,4 +37,4 @@ AVCD-16019 定価￥1,050 ([CCCD](../Page/コピーコントロールCD.md "wiki
   - [ellymusic.com](http://www.ellymusic.com)(elly公式サイト)
   - [DISCOGRAPHY](http://www.rising-pro.jp/artist/eriko/disco/s_07/) - RISINGPRODUCTION
 
-[Category:今井絵理子の楽曲](https://ja.wikipedia.org/wiki/Category:今井絵理子の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:キャプテン翼](https://ja.wikipedia.org/wiki/Category:キャプテン翼 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:葉山拓亮が制作した楽曲](https://ja.wikipedia.org/wiki/Category:葉山拓亮が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:今井絵理子の楽曲](https://ja.wikipedia.org/wiki/Category:今井絵理子の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:キャプテン翼](https://ja.wikipedia.org/wiki/Category:キャプテン翼 "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:葉山拓亮が制作した楽曲](https://ja.wikipedia.org/wiki/Category:葉山拓亮が制作した楽曲 "wikilink") [Category:高橋栄樹の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督したミュージック・ビデオ "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

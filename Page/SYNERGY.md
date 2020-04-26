@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 収録曲のジャンルが全て[トランスとなっている](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")。
+  - 収録曲のジャンルが全て[トランスとなっている](../Page/トランス_\(音楽\).md "wikilink")。
   - 13曲目の「U．S．A．」は曲の時間が十分以上もある。
 
 ## 収録曲
@@ -39,6 +39,6 @@
 
 ## 関連項目
 
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:M.o.v.eのアルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのアルバム "wikilink")

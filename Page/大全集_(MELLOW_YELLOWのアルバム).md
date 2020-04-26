@@ -1,12 +1,12 @@
-> この記事は[ \(MELLOW YELLOW\)](https://ja.wikipedia.org/wiki/_\(MELLOW_YELLOW\))から翻訳されています。
+> この記事は[大全集 \(MELLOW YELLOWのアルバム\)](https://ja.wikipedia.org/wiki/大全集_\(MELLOW_YELLOWのアルバム\))から翻訳されています。
 
 
-『**大全集**』（だいぜんしゅう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である[MELLOW YELLOWの初めてとなる](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は、[ファイルレコード](../Page/ファイルレコード.md "wikilink")。
+『**大全集**』（だいぜんしゅう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である[MELLOW YELLOWの初めてとなる](../Page/MELLOW_YELLOW.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は、[ファイルレコード](../Page/ファイルレコード.md "wikilink")。
 
 ## 概要
 
-  - [MELLOW YELLOW結成](https://ja.wikipedia.org/wiki/MELLOW_YELLOW "wikilink")16年、ファーストアルバムから12年目にして初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。同じく[FUNKY GRAMMAR UNITに所属する](https://ja.wikipedia.org/wiki/FUNKY_GRAMMAR_UNIT "wikilink")[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")も2007年にベストアルバムをリリースしている。
-  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[UJT](https://ja.wikipedia.org/wiki/UJT "wikilink")によるイラストや漫画をコラボレーションした[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")付きである。また初回受注生産のみ特殊紙を使用した[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")となっている。
+  - [MELLOW YELLOW結成](../Page/MELLOW_YELLOW.md "wikilink")16年、ファーストアルバムから12年目にして初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。同じく[FUNKY GRAMMAR UNITに所属する](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")[RHYMESTER](../Page/RHYMESTER.md "wikilink")も2007年にベストアルバムをリリースしている。
+  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[UJT](../Page/UJT.md "wikilink")によるイラストや漫画をコラボレーションした[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")付きである。また初回受注生産のみ特殊紙を使用した[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")となっている。
   - [2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に[渋谷BOXX](https://ja.wikipedia.org/wiki/渋谷BOXX "wikilink")でリリース記念ワンマンライブが行われる予定である。
 
 ## 収録曲
@@ -31,7 +31,7 @@
 6.  クレイジークライマー
       -
         初出：2ndアルバム『クレイジークライマー』（2001年[11月30日](../Page/11月30日.md "wikilink")）
-7.  Summer in the City feat. [椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink")
+7.  Summer in the City feat. [椎名純平](../Page/椎名純平.md "wikilink")
       -
         初出：4thアルバム『地球ウォーカー』（2005年6月9日）
 8.  愛のダ・カーポ

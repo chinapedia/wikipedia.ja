@@ -1,14 +1,14 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRそば屋の源さん](https://ja.wikipedia.org/wiki/CRそば屋の源さん)から翻訳されています。
 
 
-**CRそば屋の源さん**（-そばやのげんさん）は、[2007年](../Page/2007年.md "wikilink")9月3日に[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[CR大工の源さん](https://ja.wikipedia.org/wiki/CR大工の源さん "wikilink")のシリーズ機。
+**CRそば屋の源さん**（-そばやのげんさん）は、[2007年](../Page/2007年.md "wikilink")9月3日に[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[CR大工の源さん](../Page/CR大工の源さん.md "wikilink")のシリーズ機。
 
 ## 特徴
 
-  - 突然[確率変動](https://ja.wikipedia.org/wiki/確率変動 "wikilink")タイプで、『源さん』シリーズとしては初めて突然確率変動を採用した。
+  - 突然[確率変動](../Page/確率変動.md "wikilink")タイプで、『源さん』シリーズとしては初めて突然確率変動を採用した。
   - ラウンド数変動タイプで、7R当選から15Rに格上げすることがある。
   - 演出を高めるエビ天、黒電話役物を搭載。
-  - 2007年7月26日、三洋物産による当機の発表会が行われた（ニューピアホール、東京都港区）。2代目ミスマリンちゃんの[小倉遥](../Page/小倉遥.md "wikilink")と[中村果生莉](https://ja.wikipedia.org/wiki/中村果生莉 "wikilink")がイベントに参加した。
+  - 2007年7月26日、三洋物産による当機の発表会が行われた（ニューピアホール、東京都港区）。2代目ミスマリンちゃんの[小倉遥](../Page/小倉遥.md "wikilink")と[中村果生莉](../Page/中村果生莉.md "wikilink")がイベントに参加した。
 
 ## スペック
 

@@ -1,9 +1,9 @@
 > この記事は[DJ Deckstream](https://ja.wikipedia.org/wiki/DJ_Deckstream)から翻訳されています。
 
 
-**DJ Deckstream**（ディージェイ・デックストリーム、[1977年](../Page/1977年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [2015年](../Page/2015年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")。[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[酒田市](../Page/酒田市.md "wikilink")出身。
+**DJ Deckstream**（ディージェイ・デックストリーム、[1977年](../Page/1977年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [2015年](../Page/2015年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")。[山形県](../Page/山形県.md "wikilink")[酒田市](../Page/酒田市.md "wikilink")出身。
 
-**Monorisick**として[インディーズ](../Page/インディーズ.md "wikilink")[レーベル](../Page/レコードレーベル.md "wikilink")"HydeOut Productions"で活動した後、DJ Deckstream名義で数多くの[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")、プロデュース、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")関連作品を手掛けていた。
+**Monorisick**として[インディーズ](../Page/インディーズ.md "wikilink")[レーベル](../Page/レコードレーベル.md "wikilink")"HydeOut Productions"で活動した後、DJ Deckstream名義で数多くの[リミックス](../Page/リミックス.md "wikilink")、プロデュース、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")関連作品を手掛けていた。
 
 2015年8月27日早朝、交通事故のため死去\[1\]。
 
@@ -23,10 +23,10 @@
 
 ##### リミックスアルバム
 
-  - 『Sweet 90's Blues Remix』　（2007年[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")）
+  - 『Sweet 90's Blues Remix』　（2007年[2月8日](../Page/2月8日.md "wikilink")）
       - DJ Deckstreamが[1990年代](../Page/1990年代.md "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")をリミックスしたアルバム。2007年[10月5日](../Page/10月5日.md "wikilink")に再発売。
   - 『Rockstream Sampler』　(2010年[7月1日](../Page/7月1日.md "wikilink"))
-      - DJ Deckstreamが[ナズ](https://ja.wikipedia.org/wiki/ナズ "wikilink")、Jurassic 5、[ノトーリアス・B.I.G.](https://ja.wikipedia.org/wiki/ノトーリアス・B.I.G. "wikilink")、[ギャング・スター](../Page/ギャング・スター.md "wikilink")等の名曲リミックスをした、『Sweet 90's Blues Remix』の続編的作品。
+      - DJ Deckstreamが[ナズ](../Page/ナズ.md "wikilink")、Jurassic 5、[ノトーリアス・B.I.G.](../Page/ノトーリアス・B.I.G..md "wikilink")、[ギャング・スター](../Page/ギャング・スター.md "wikilink")等の名曲リミックスをした、『Sweet 90's Blues Remix』の続編的作品。
 
 #### ミックスCD
 
@@ -64,16 +64,16 @@
   - Bozack -DJ Deckstream remix- / CL - 『Welcome To Life』に収録
   - EXPO EXPO (Deckstream Remix) / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - Baby Shine feat. [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink") (Deckstream REMIX) / [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
-  - Wet'N Wild feat. [SUITE CHIC](https://ja.wikipedia.org/wiki/SUITE_CHIC "wikilink") (Deckstream REMIX) / [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
+  - Wet'N Wild feat. [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink") (Deckstream REMIX) / [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
   - Hey DJ\! (Deckstream Remix) / Heartsdales
   - brand new love \> Deckstream Remix / [日之内絵美](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
   - Life is Beautiful -Deckstream Remix- / m-flo loves [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") & TOKU
-  - Let's Go (It's A Movement) Deckstream Remix / LiL'AI feat. [WARREN G](https://ja.wikipedia.org/wiki/ウォーレン・G "wikilink"), [KRS ONE](https://ja.wikipedia.org/wiki/KRS-One "wikilink"), [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")
+  - Let's Go (It's A Movement) Deckstream Remix / LiL'AI feat. [WARREN G](../Page/ウォーレン・G.md "wikilink"), [KRS ONE](https://ja.wikipedia.org/wiki/KRS-One "wikilink"), [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")
   - Catwalk 〜Deckstream Remix〜 / [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink") - 『[Catwalk](../Page/Catwalk.md "wikilink")』に収録
   - let go -Deckstream Remix- / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - Lovin' U 〜Deckstream Remix〜 / [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")
-  - Summer Time Love (Deckstream Remix feat. Arkitec & [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")) / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves 日之内エミ & [Ryohei](https://ja.wikipedia.org/wiki/Ryohei "wikilink")
-  - LOVE ME, HATE THE GAME -DJ Deckstream Remix- / m-flo loves Chan, [Thaitanium](https://ja.wikipedia.org/wiki/:en:Thaitanium "wikilink"), [Edison Chen](https://ja.wikipedia.org/wiki/陳冠希 "wikilink"), [Ryohei](https://ja.wikipedia.org/wiki/Ryohei "wikilink")
+  - Summer Time Love (Deckstream Remix feat. Arkitec & [L-VOKAL](../Page/L-VOKAL.md "wikilink")) / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves 日之内エミ & [Ryohei](../Page/Ryohei.md "wikilink")
+  - LOVE ME, HATE THE GAME -DJ Deckstream Remix- / m-flo loves Chan, [Thaitanium](https://ja.wikipedia.org/wiki/:en:Thaitanium "wikilink"), [Edison Chen](https://ja.wikipedia.org/wiki/陳冠希 "wikilink"), [Ryohei](../Page/Ryohei.md "wikilink")
   - 1.000,000 MONSTERS ATTACK \~Deckstream Remix\~ / [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")
   - Keeping a Move (DJ Deckstream Remix) / LIL'
   - Onepeace feat. Aaron Phiri (DJ Deckstream remix) / NOMAK
@@ -85,7 +85,7 @@
   - I CRY -DJ Dexkstream REMIX- / [twenty4-7](https://ja.wikipedia.org/wiki/twenty4-7 "wikilink")
   - Searching for You (DJ Deckstream Remix) / Steph Pockets
   - Time (DJ Deckstream Remix) / La Melodia
-  - ZOCK ON\! feat. PHARRELL & BUSTA RHYMES (DJ DECKSTREAM REMIX) / [TERIYAKI BOYZ](https://ja.wikipedia.org/wiki/TERIYAKI_BOYZ "wikilink")
+  - ZOCK ON\! feat. PHARRELL & BUSTA RHYMES (DJ DECKSTREAM REMIX) / [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")
   - Trains and Planes (DJ Deckstream Remix) / ZION I & The Grouch
   - 手紙 (DJ Deckstream Remix) / [ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink") - [手紙に収録](https://ja.wikipedia.org/wiki/手紙_\(ナオト・インティライミの曲\) "wikilink")
   - Best of my love (DJ Deckstream Remix) / [安田レイ](https://ja.wikipedia.org/wiki/安田レイ "wikilink")
@@ -95,13 +95,13 @@
   - HOME SWEET HOME / Substantial
   - Right Now / [Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")
   - Heartsdales『Radioactive』Tr. 1, 4, 9、『Ultra Foxy』Tr. 2, 11
-  - [MIC BANDITZ](https://ja.wikipedia.org/wiki/MIC_BANDITZ "wikilink")『THE VISITORZ』Tr. 1, 4, 5, 6, 7、『Johnny Astro & the Diamond Crooks』Tr. 2, 4, 6, 10, 11, 12
+  - [MIC BANDITZ](../Page/MIC_BANDITZ.md "wikilink")『THE VISITORZ』Tr. 1, 4, 5, 6, 7、『Johnny Astro & the Diamond Crooks』Tr. 2, 4, 6, 10, 11, 12
   - [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
       - O'kay
       - Chocolate
       - GOODIE MEMORIES
       - E・S・C・A・P・E
-  - TIME IS HONEY / [L-VOKAL](https://ja.wikipedia.org/wiki/L-VOKAL "wikilink")
+  - TIME IS HONEY / [L-VOKAL](../Page/L-VOKAL.md "wikilink")
   - I'll be back feat. Substantial /[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")×DJ Deckstream
 
 ### プロデュース
@@ -117,7 +117,7 @@
 ## 外部リンク
 
   - [Official MySpace](http://myspace.com/djdeckstream)
-  - [公式ブログ](http://ameblo.jp/djdeckstream/)
+  - [公式ブログ](https://ameblo.jp/djdeckstream/)
 
 [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink")
 

@@ -47,7 +47,7 @@
 <tr class="odd">
 <td></td>
 <td><p>PixelJunk モンスターズ デラックス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PSP</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PSP</a></p></td>
 <td><p>2009年11月1日</p></td>
 <td></td>
 </tr>
@@ -63,7 +63,7 @@
 <td><p>PixelJunk Monsters Ultimate</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a><br />
 <a href="https://ja.wikipedia.org/wiki/macOS" title="wikilink">Mac OS X</a><br />
-<a href="https://ja.wikipedia.org/wiki/Linux" title="wikilink">Linux</a></p></td>
+<a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
 <td><p>2013年8月27日</p></td>
 <td></td>
 </tr>
@@ -170,7 +170,7 @@ PlayStation Vita</p></td>
 
 ### 操作方法
 
-各コースは5つのレーンに分かれており、プレイヤーはそのレーンを移動しながら車を走らせていく。アクセルはR2ボタンの押し込み具合によって微妙な速度まで調整することができる。感覚では[スロットカー](https://ja.wikipedia.org/wiki/スロットカー "wikilink")に近い。
+各コースは5つのレーンに分かれており、プレイヤーはそのレーンを移動しながら車を走らせていく。アクセルはR2ボタンの押し込み具合によって微妙な速度まで調整することができる。感覚では[スロットカー](../Page/スロットカー.md "wikilink")に近い。
 
 ### ゲームルール
 

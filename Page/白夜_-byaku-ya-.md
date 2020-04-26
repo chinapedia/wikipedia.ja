@@ -1,4 +1,4 @@
-> この記事は[ -byaku-ya-](https://ja.wikipedia.org/wiki/_-byaku-ya-)から翻訳されています。
+> この記事は[白夜 -byaku-ya-](https://ja.wikipedia.org/wiki/白夜_-byaku-ya-)から翻訳されています。
 
 
 『**白夜 -byaku-ya-**』（びゃくや）は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")27枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -7,8 +7,8 @@
 
 「[ROCKDOM -風に吹かれて-](../Page/ROCKDOM_-風に吹かれて-.md "wikilink")」以来3作振りにリードボーカルは高見沢が担当。
 
-当時の高見沢は、盛んに打ち込みによる楽曲制作を取り入れており、この曲の他に同年のツアーで演奏され、アルバム「[U.K. Breakfast](https://ja.wikipedia.org/wiki/U.K._Breakfast "wikilink")」にも収録された「Stand up,Baby-愛こそすべて」は、ギターを全く使っていない楽曲だった。
-本作もアコースティックギターが使われておらず、坂崎は「[シンデレラは眠れない](https://ja.wikipedia.org/wiki/シンデレラは眠れない "wikilink")」以来になるエレクトリックパーカッションによる演奏でテレビに出演した。
+当時の高見沢は、盛んに打ち込みによる楽曲制作を取り入れており、この曲の他に同年のツアーで演奏され、アルバム「[U.K. Breakfast](../Page/U.K._Breakfast.md "wikilink")」にも収録された「Stand up,Baby-愛こそすべて」は、ギターを全く使っていない楽曲だった。
+本作もアコースティックギターが使われておらず、坂崎は「[シンデレラは眠れない](../Page/シンデレラは眠れない.md "wikilink")」以来になるエレクトリックパーカッションによる演奏でテレビに出演した。
 
 後に[avexから発売された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")「[The Alfee Meets Dance](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")」では「Crimson Kiss」というタイトルでアレンジ・英詞化され、ALFEEのライブでもこのバージョンが披露された\[1\]。
 
@@ -18,7 +18,7 @@ B面の「LONG WAY TO FREEDOM」は、ライブで頻繁に演奏される定番
 
 ## タイアップ
 
-[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「LONG WAY TO FREEDOM」は[アルプス電気](https://ja.wikipedia.org/wiki/アルプス電気 "wikilink")の[CFソングとして使用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「LONG WAY TO FREEDOM」は[アルプス電気](https://ja.wikipedia.org/wiki/アルプス電気 "wikilink")の[CFソングとして使用された](../Page/コマーシャルソング.md "wikilink")。
 
 ## 収録曲
 
@@ -29,9 +29,9 @@ B面の「LONG WAY TO FREEDOM」は、ライブで頻繁に演奏される定番
 
 ## 収録作品
 
-  - [THE ALFEE SINGLE HISTORY VOL.III 1987-1990](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.III_1987-1990 "wikilink")（\#1,2）
+  - [THE ALFEE SINGLE HISTORY VOL.III 1987-1990](../Page/THE_ALFEE_SINGLE_HISTORY_VOL.III_1987-1990.md "wikilink")（\#1,2）
   - The Alfee Meets Dance（\#1）
-  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](https://ja.wikipedia.org/wiki/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37 "wikilink")（\#1）
+  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1）
 
 ## カタログ
 
@@ -47,4 +47,4 @@ B面の「LONG WAY TO FREEDOM」は、ライブで頻繁に演奏される定番
 
 [Category:THE_ALFEEの楽曲](https://ja.wikipedia.org/wiki/Category:THE_ALFEEの楽曲 "wikilink") [Category:高見沢俊彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高見沢俊彦が制作した楽曲 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
-1.  CD「the ALFEE meet Dance」でのボーカルはALFEEではなく、このアルバムをプロデュースした[デイブ・ロジャース](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")によるもの。
+1.  CD「the ALFEE meet Dance」でのボーカルはALFEEではなく、このアルバムをプロデュースした[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")によるもの。

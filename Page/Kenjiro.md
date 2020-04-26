@@ -1,18 +1,18 @@
 > この記事は[Kenjiro](https://ja.wikipedia.org/wiki/Kenjiro)から翻訳されています。
 
 
-**KENJIRO**（けんじろう [1967年](../Page/1967年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名は、**馬場 健二郎**。
+**KENJIRO**（けんじろう [1967年](../Page/1967年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）は、[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名は、**馬場 健二郎**。
 
 ## 略歴
 
-[1994年](../Page/1994年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")系[月曜ドラマイン](https://ja.wikipedia.org/wiki/月曜ドラマイン "wikilink")「[クニさんちの魔女たち](https://ja.wikipedia.org/wiki/クニさんちの魔女たち "wikilink")」主題歌「Happy Birthday」で[アポロンよりデビュー](https://ja.wikipedia.org/wiki/バンダイ・ミュージックエンタテインメント "wikilink")。
+[1994年](../Page/1994年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[月曜ドラマイン](https://ja.wikipedia.org/wiki/月曜ドラマイン "wikilink")「[クニさんちの魔女たち](../Page/クニさんちの魔女たち.md "wikilink")」主題歌「Happy Birthday」で[アポロンよりデビュー](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")。
 
   - [セイシュンの食卓](../Page/セイシュンの食卓.md "wikilink")
   - [コーセー](../Page/コーセー.md "wikilink")CFソング「やばい」
   - [郵政省](../Page/郵政省.md "wikilink")[ゆうパック](../Page/ゆうパック.md "wikilink")イメージソング、[お家を探そう！](https://ja.wikipedia.org/wiki/お家を探そう！ "wikilink")テーマソング
   - [快楽通信](https://ja.wikipedia.org/wiki/快楽通信 "wikilink")エンディングテーマ
-  - [スキージャム勝山](https://ja.wikipedia.org/wiki/スキージャム勝山 "wikilink")CMソング
-  - [むしまるQ](https://ja.wikipedia.org/wiki/むしまるQ "wikilink")ゴールド 大集合\!〜大脱皮のテーマ〜（2004年4月21日、日本コロムビア） - Disc:1に収録されている『**燃えよ\!クチバシ〜カモノハシへの道〜**』。原曲は[ビリー・ジョエル](https://ja.wikipedia.org/wiki/ビリー・ジョエル "wikilink")の『The Stranger』
+  - [スキージャム勝山](../Page/スキージャム勝山.md "wikilink")CMソング
+  - [むしまるQ](https://ja.wikipedia.org/wiki/むしまるQ "wikilink")ゴールド 大集合\!〜大脱皮のテーマ〜（2004年4月21日、日本コロムビア） - Disc:1に収録されている『**燃えよ\!クチバシ〜カモノハシへの道〜**』。原曲は[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")の『The Stranger』
 
 等のヒット曲を持つ。
 

@@ -1,4 +1,4 @@
-> この記事は[IHI](https://ja.wikipedia.org/wiki/IHI)から翻訳されています。
+> この記事は[IHI運搬機械](https://ja.wikipedia.org/wiki/IHI運搬機械)から翻訳されています。
 
 
 **IHI運搬機械株式会社**（アイエイチアイうんぱんきかい、*IHI Transport Machinery Co., Ltd.*）は、パーキングシステム・クレーン・コンベヤの開発、設計、販売、製造、据付ならびにメンテナンス、改修を行う企業である。[IHI](../Page/IHI.md "wikilink")グループのひとつ。
@@ -13,12 +13,12 @@
   - [1996年](../Page/1996年.md "wikilink")11月 - 東京証券取引所市場第二部へ上場。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月 - 石川島運搬機械エンジニアリング（株）を吸収合併。
   - [2009年](../Page/2009年.md "wikilink")10月 - 商号をIHI運搬機械（株）に変更。
-  - [2012年](../Page/2012年.md "wikilink")1月 - [大京](https://ja.wikipedia.org/wiki/大京 "wikilink")（株）から（株）扶桑エンジニアリング（現・（株）IHI扶桑エンジニアリング）の全株式を購入し子会社化。
+  - [2012年](../Page/2012年.md "wikilink")1月 - [大京](../Page/大京.md "wikilink")（株）から（株）扶桑エンジニアリング（現・（株）IHI扶桑エンジニアリング）の全株式を購入し子会社化。
   - [2012年](../Page/2012年.md "wikilink")6月 - IHIの完全子会社となる。
 
 ## 所在地
 
-  - 東京本社（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）
+  - 東京本社（[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）
   - 沼津工場（[静岡県](../Page/静岡県.md "wikilink")[沼津市](../Page/沼津市.md "wikilink")）
   - 安浦工場（[広島県](../Page/広島県.md "wikilink")[呉市](../Page/呉市.md "wikilink")）
 

@@ -1,7 +1,7 @@
-> この記事は[Cronus \(\)](https://ja.wikipedia.org/wiki/Cronus_\(\))から翻訳されています。
+> この記事は[Cronus \(ブランド\)](https://ja.wikipedia.org/wiki/Cronus_\(ブランド\))から翻訳されています。
 
 
-**Cronus**（*クロノス*）は有限会社[リドルソフト](https://ja.wikipedia.org/wiki/リドルソフト "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。原画は全て[葵羽鳥](https://ja.wikipedia.org/wiki/葵羽鳥 "wikilink")が手がけている。
+**Cronus**（*クロノス*）は有限会社[リドルソフト](../Page/リドルソフト.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。原画は全て[葵羽鳥](https://ja.wikipedia.org/wiki/葵羽鳥 "wikilink")が手がけている。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - 葵羽鳥 - 2007年、[WINTERS](https://ja.wikipedia.org/wiki/WINTERS "wikilink")の「[アンバランス 〜彼女の心は奪えない?〜](https://ja.wikipedia.org/wiki/アンバランス_〜彼女の心は奪えない?〜 "wikilink")」で3年ぶりにゲームの原画を手がけた
+  - 葵羽鳥 - 2007年、[WINTERS](../Page/WINTERS.md "wikilink")の「[アンバランス 〜彼女の心は奪えない?〜](https://ja.wikipedia.org/wiki/アンバランス_〜彼女の心は奪えない?〜 "wikilink")」で3年ぶりにゲームの原画を手がけた
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 ## 備考
 
-  - [リドルソフト](https://ja.wikipedia.org/wiki/リドルソフト "wikilink")や[Studio e.go\!と同様](https://ja.wikipedia.org/wiki/Studio_e.go! "wikilink")、[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")等取り扱いの無い販売店が一部ある。
+  - [リドルソフト](../Page/リドルソフト.md "wikilink")や[Studio e.go\!と同様](../Page/Studio_e.go!.md "wikilink")、[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")等取り扱いの無い販売店が一部ある。
 
 ## 関連項目
 

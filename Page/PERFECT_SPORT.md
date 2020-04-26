@@ -1,7 +1,7 @@
 > この記事は[PERFECT SPORT](https://ja.wikipedia.org/wiki/PERFECT_SPORT)から翻訳されています。
 
 
-**PERFECT SPORT**（ぱーふぇくとすぽると、パーフェクトスポルト）は、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")で、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[日曜日](../Page/日曜日.md "wikilink")の深夜に放送されている[スポーツ中継](https://ja.wikipedia.org/wiki/スポーツ中継 "wikilink")の総称である。
+**PERFECT SPORT**（ぱーふぇくとすぽると、パーフェクトスポルト）は、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")で、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[日曜日](../Page/日曜日.md "wikilink")の深夜に放送されている[スポーツ中継](../Page/スポーツ中継.md "wikilink")の総称である。
 
 ## 概要
 
@@ -15,15 +15,15 @@
 
 ここでは「すぽると\!」パートのキャスターを記す。
 
-  - 2003年4月 - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[渡辺和洋](https://ja.wikipedia.org/wiki/渡辺和洋 "wikilink")、[相沢礼子](../Page/相沢礼子.md "wikilink")
-  - 2004年4月 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月：渡辺和洋、[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")
-  - 2005年4月 - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月：[高樹千佳子](../Page/高樹千佳子.md "wikilink")
+  - 2003年4月 - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")：[渡辺和洋](../Page/渡辺和洋.md "wikilink")、[相沢礼子](../Page/相沢礼子.md "wikilink")
+  - 2004年4月 - [2005年](../Page/2005年.md "wikilink")3月：渡辺和洋、[中村仁美](https://ja.wikipedia.org/wiki/中村仁美 "wikilink")
+  - 2005年4月 - [2006年](../Page/2006年.md "wikilink")9月：[高樹千佳子](../Page/高樹千佳子.md "wikilink")
   - 2006年10月 - 2007年4月：[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")（後番組の「すぽると\!」にも[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月まで出演）
 
 ## 関連項目
 
   - [すぽると\!](../Page/すぽると!.md "wikilink")
-  - [情報ライブ EZ\!TV](https://ja.wikipedia.org/wiki/情報ライブ_EZ!TV "wikilink")
+  - [情報ライブ EZ\!TV](../Page/情報ライブ_EZ!TV.md "wikilink")
   - [サンパラ](../Page/サンパラ.md "wikilink")
 
 [Category:すぽると\!](https://ja.wikipedia.org/wiki/Category:すぽると! "wikilink")

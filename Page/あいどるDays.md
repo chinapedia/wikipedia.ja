@@ -1,4 +1,4 @@
-> この記事は[Days](https://ja.wikipedia.org/wiki/Days)から翻訳されています。
+> この記事は[あいどるDays](https://ja.wikipedia.org/wiki/あいどるDays)から翻訳されています。
 
 
 『**あいどるDays**』（あいどるデイズ）は、作：[北原雅紀](https://ja.wikipedia.org/wiki/北原雅紀 "wikilink")、画：[真里まさとし](https://ja.wikipedia.org/wiki/真里まさとし "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『週刊ヤングジャンプ増刊[漫革](https://ja.wikipedia.org/wiki/漫革 "wikilink")』47号から2007年6月15日号まで連載された。
@@ -31,7 +31,7 @@
   - 工藤若菜（くどう わかば）
     通称「ワカ様」男性と付き合ったことがないことをファンから見抜かれ、利之と一日デートをする。[5月7日](../Page/5月7日.md "wikilink")生まれ。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。14歳。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
   - 富永いぶき（とみなが）
-    通称「イブちゃん」おっとりした口調で、メンバーリーダー。[12月10日](https://ja.wikipedia.org/wiki/12月10日 "wikilink")生まれ。[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。22歳。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。関西弁。
+    通称「イブちゃん」おっとりした口調で、メンバーリーダー。[12月10日](../Page/12月10日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")出身。22歳。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。関西弁。
 
 ### その他の人物
 
@@ -85,7 +85,7 @@
 2.  [オーマイゴッドだね\!\!](https://ja.wikipedia.org/wiki/オーマイゴッドだね!! "wikilink")
 3.  [TVの国からキラキラ](https://ja.wikipedia.org/wiki/TVの国からキラキラ "wikilink")
 4.  [ダンシング・ヒーロー](https://ja.wikipedia.org/wiki/ダンシング・ヒーロー "wikilink")
-5.  [およしになってねTEACHER](https://ja.wikipedia.org/wiki/およしになってねTEACHER "wikilink")
+5.  [およしになってねTEACHER](../Page/およしになってねTEACHER.md "wikilink")
 6.  [コンプレックスBANZAI\!](https://ja.wikipedia.org/wiki/コンプレックスBANZAI! "wikilink")
 7.  [はんぶん不思議](https://ja.wikipedia.org/wiki/はんぶん不思議 "wikilink")
 8.  [もっとHurry up\!](https://ja.wikipedia.org/wiki/もっとHurry_up! "wikilink")

@@ -1,7 +1,7 @@
-> この記事は[Invitation](https://ja.wikipedia.org/wiki/Invitation)から翻訳されています。
+> この記事は[風のInvitation](https://ja.wikipedia.org/wiki/風のInvitation)から翻訳されています。
 
 
-「**風のInvitation**」（かぜのインビテーション）は、[福永恵規](https://ja.wikipedia.org/wiki/福永恵規 "wikilink")の楽曲で、1枚目の[シングル](../Page/シングル.md "wikilink")。1986年5月21日に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。
+「**風のInvitation**」（かぜのインビテーション）は、[福永恵規](../Page/福永恵規.md "wikilink")の楽曲で、1枚目の[シングル](../Page/シングル.md "wikilink")。1986年5月21日に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。
 
 ## 解説
 
@@ -15,12 +15,12 @@
 
 1.  **風のInvitation** (3:40)
       -
-        作曲：[高橋研](https://ja.wikipedia.org/wiki/高橋研 "wikilink")、編曲：[佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+        作曲：[高橋研](../Page/高橋研.md "wikilink")、編曲：[佐藤準](../Page/佐藤準.md "wikilink")
     <!-- end list -->
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『夕やけニャンニャン』エンディングテーマ
 2.  **渚のUターン** (3:44)
       -
-        作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+        作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
 
 ## 収録アルバム
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - 『[SPLASH](https://ja.wikipedia.org/wiki/SPLASH_\(アルバム\) "wikilink")』 (\#1)
+  - 『[SPLASH](../Page/SPLASH_\(アルバム\).md "wikilink")』 (\#1)
       - アルバムバージョン。
 
 <!-- end list -->
@@ -37,8 +37,8 @@
 
 <!-- end list -->
 
-  - 『[福永恵規ベスト](https://ja.wikipedia.org/wiki/福永恵規ベスト "wikilink")』 (\#1)
-  - 『[MYこれ\!クション 福永恵規BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_福永恵規BEST "wikilink")』 (\#1,2)
+  - 『[福永恵規ベスト](../Page/福永恵規ベスト.md "wikilink")』 (\#1)
+  - 『[MYこれ\!クション 福永恵規BEST](../Page/MYこれ!クション_福永恵規BEST.md "wikilink")』 (\#1,2)
       - リマスタリングされている。
   - 『[スーパーベスト](https://ja.wikipedia.org/wiki/スーパーベスト_\(おニャン子クラブのアルバム\) "wikilink")』 (\#1)
   - 『[NON-STOP おニャン子](https://ja.wikipedia.org/wiki/NON-STOP_おニャン子 "wikilink")』 (\#1)

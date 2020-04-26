@@ -1,4 +1,4 @@
-> この記事は[NOW AND THEN ](https://ja.wikipedia.org/wiki/NOW_AND_THEN_)から翻訳されています。
+> この記事は[NOW AND THEN 〜失われた時を求めて〜](https://ja.wikipedia.org/wiki/NOW_AND_THEN_〜失われた時を求めて〜)から翻訳されています。
 
 
 「**NOW AND THEN 〜失われた時を求めて〜**」（ナウ アンド ゼン うしなわれたときをもとめて）は、[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -14,7 +14,7 @@
 1.  **NOW AND THEN 〜失われた時を求めて〜** (4:06)
       -
         作詞・作曲・編曲:小林武史
-        日本テレビ系テレビドラマ「[ナチュラル 愛のゆくえ](https://ja.wikipedia.org/wiki/ナチュラル_愛のゆくえ "wikilink")」オープニング・テーマ
+        日本テレビ系テレビドラマ「[ナチュラル 愛のゆくえ](../Page/ナチュラル_愛のゆくえ.md "wikilink")」オープニング・テーマ
         映画「メトロポリス」挿入歌
 2.  **evergreen (acoustic version)** (5:34)
       -
@@ -25,7 +25,7 @@
 
 ## 収録アルバム
 
-  - [PRESENTS](https://ja.wikipedia.org/wiki/PRESENTS_\(MY_LITTLE_LOVERのアルバム\) "wikilink") (\#1、アルバムバージョン) (1998年3月4日）
+  - [PRESENTS](../Page/PRESENTS_\(MY_LITTLE_LOVERのアルバム\).md "wikilink") (\#1、アルバムバージョン) (1998年3月4日）
   - [singles](https://ja.wikipedia.org/wiki/singles_\(MY_LITTLE_LOVERのアルバム\) "wikilink") (\#1) (2001年12月12日）
   - [Best Collection](https://ja.wikipedia.org/wiki/Best_Collection_\(My_Little_Loverのアルバム\) "wikilink") (\#1) (2010年5月5日）
   - [acoakko debut](https://ja.wikipedia.org/wiki/acoakko_debut "wikilink") (\#1、アコースティック・ヴァージョン) (2010年11月10日

@@ -6,7 +6,7 @@
 ## 概要
 
   - [2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に2枚組でリリース。『[Reflex](../Page/Reflex_\(アルバム\).md "wikilink")』の楽曲のリミックスを含む全20曲を収録。
-  - リミキサーに[STUDIO APARTMENT](../Page/Studio_Apartment.md "wikilink")、Ananda Project、[Satoshi Hidaka](../Page/GTS_\(DJグループ\).md "wikilink")、[MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")、Hisashi Nawata、[DAISHI DANCE](../Page/DAISHI_DANCE.md "wikilink")、AINEE（smorgas FULL LANGUAGE）、EIGO for [three NATION](https://ja.wikipedia.org/wiki/three_NATION "wikilink")、[DJ Mitsu the Beats](https://ja.wikipedia.org/wiki/DJ_MITSU_THE_BEATS "wikilink")（Jazzy Sport）、eighteen degrees、Cover Lover Project、[瀧澤賢太郎](../Page/瀧澤賢太郎.md "wikilink")、Heigo Tani（Co-Fusion）、[Astro](https://ja.wikipedia.org/wiki/Astro "wikilink")を起用。
+  - リミキサーに[STUDIO APARTMENT](../Page/Studio_Apartment.md "wikilink")、Ananda Project、[Satoshi Hidaka](../Page/GTS_\(DJグループ\).md "wikilink")、[MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")、Hisashi Nawata、[DAISHI DANCE](../Page/DAISHI_DANCE.md "wikilink")、AINEE（smorgas FULL LANGUAGE）、EIGO for [three NATION](https://ja.wikipedia.org/wiki/three_NATION "wikilink")、[DJ Mitsu the Beats](https://ja.wikipedia.org/wiki/DJ_MITSU_THE_BEATS "wikilink")（Jazzy Sport）、eighteen degrees、Cover Lover Project、[瀧澤賢太郎](../Page/瀧澤賢太郎.md "wikilink")、Heigo Tani（[Co-Fusion](../Page/Co-Fusion.md "wikilink")）、[Astro](https://ja.wikipedia.org/wiki/Astro "wikilink")を起用。
   - 「We International feat. Ak'Sent (TURBO's sigma Mix Edit)」が[富士フイルム](../Page/富士フイルム.md "wikilink")「FinePix Z100 fd」CFイメージソングとなる。
 
 ## 収録曲

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[フォルカークFC](https://ja.wikipedia.org/wiki/フォルカークFC)から翻訳されています。
 
 
 **フォルカークFC**（）は、[スコットランド](../Page/スコットランド.md "wikilink")中部の都市[フォルカーク](https://ja.wikipedia.org/wiki/フォルカーク "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[スコティッシュ・チャンピオンシップ](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")に所属している。
@@ -9,7 +9,7 @@
 
 1990年代前半はプレミアリーグ昇格と降格を繰り返した。2002-2003シーズンはフットボールリーグ1部で1位となったものの、老朽化したブロックヴィル・パークがプレミアリーグの基準を満たしていなかったため昇格を見送られた。[2004年](../Page/2004年.md "wikilink")に新スタジアム「フォルカーク・スタジアム」が完成。2004-2005シーズンに1位となりプレミアリーグに昇格した。
 
-2006-2007シーズンは7位で終わったが、ホームで[セルティック](https://ja.wikipedia.org/wiki/セルティックFC "wikilink")、[レンジャーズの](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")2強チームを破っている。
+2006-2007シーズンは7位で終わったが、ホームで[セルティック](../Page/セルティックFC.md "wikilink")、[レンジャーズの](https://ja.wikipedia.org/wiki/グラスゴー・レンジャーズFC "wikilink")2強チームを破っている。
 
 クラブのシンボルは[狐](https://ja.wikipedia.org/wiki/狐 "wikilink")であり、実際にフェルグスという名前の狐をマスコットに採用している。2009年秋にフェルグスがいなくなる出来事があったが、フォルカークの南東にあるロージアン地区で保護された\[1\]。
 
@@ -32,40 +32,40 @@
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                                          | [スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink") | [リーグカップ](https://ja.wikipedia.org/wiki/スコティッシュリーグカップ "wikilink") | [チャレンジカップ](https://ja.wikipedia.org/wiki/スコティッシュチャレンジカップ "wikilink") |
-| ------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- |
-| リーグ     | 試                                                                               | 勝                                                                 | 分                                                                | 敗                                                                    |
-| 1987-88 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 44                                                                | 10                                                               | 11                                                                   |
-| 1988-89 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 39                                                                | 22                                                               | 8                                                                    |
-| 1989-90 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 39                                                                | 14                                                               | 15                                                                   |
-| 1990-91 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 39                                                                | 21                                                               | 12                                                                   |
-| 1991-92 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 44                                                                | 12                                                               | 11                                                                   |
-| 1992-93 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 44                                                                | 11                                                               | 7                                                                    |
-| 1993-94 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 44                                                                | 26                                                               | 14                                                                   |
-| 1994-95 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 36                                                                | 12                                                               | 12                                                                   |
-| 1995-96 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 36                                                                | 6                                                                | 6                                                                    |
-| 1996-97 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 15                                                               | 9                                                                    |
-| 1997-98 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 19                                                               | 8                                                                    |
-| 1998-99 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 20                                                               | 6                                                                    |
-| 1999-00 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 20                                                               | 8                                                                    |
-| 2000-01 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 16                                                               | 8                                                                    |
-| 2001-02 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 10                                                               | 9                                                                    |
-| 2002-03 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 25                                                               | 6                                                                    |
-| 2003-04 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 15                                                               | 10                                                                   |
-| 2004-05 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 22                                                               | 9                                                                    |
-| 2005-06 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 8                                                                | 9                                                                    |
-| 2006-07 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 15                                                               | 5                                                                    |
-| 2007-08 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 13                                                               | 10                                                                   |
-| 2008-09 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 9                                                                | 11                                                                   |
-| 2009-10 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 6                                                                | 13                                                                   |
-| 2010-11 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 17                                                               | 7                                                                    |
-| 2011-12 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 13                                                               | 13                                                                   |
-| 2012-13 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 15                                                               | 8                                                                    |
-| 2013-14 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 19                                                               | 9                                                                    |
-| 2014-15 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 14                                                               | 11                                                                   |
-| 2015-16 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 19                                                               | 13                                                                   |
-| 2016-17 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 16                                                               | 12                                                                   |
-| 2017-18 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 12                                                               | 11                                                                   |
+| シーズン    | ディビジョン                                                                          | [スコティッシュカップ](https://ja.wikipedia.org/wiki/スコティッシュカップ "wikilink") | [リーグカップ](../Page/スコティッシュリーグカップ.md "wikilink") | [チャレンジカップ](https://ja.wikipedia.org/wiki/スコティッシュチャレンジカップ "wikilink") |
+| ------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
+| リーグ     | 試                                                                               | 勝                                                                 | 分                                             | 敗                                                                    |
+| 1987-88 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 44                                                                | 10                                            | 11                                                                   |
+| 1988-89 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 39                                                                | 22                                            | 8                                                                    |
+| 1989-90 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 39                                                                | 14                                            | 15                                                                   |
+| 1990-91 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 39                                                                | 21                                            | 12                                                                   |
+| 1991-92 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 44                                                                | 12                                            | 11                                                                   |
+| 1992-93 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 44                                                                | 11                                            | 7                                                                    |
+| 1993-94 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 44                                                                | 26                                            | 14                                                                   |
+| 1994-95 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 36                                                                | 12                                            | 12                                                                   |
+| 1995-96 | [SPD](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアディビジョン "wikilink")              | 36                                                                | 6                                             | 6                                                                    |
+| 1996-97 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 15                                            | 9                                                                    |
+| 1997-98 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 19                                            | 8                                                                    |
+| 1998-99 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 20                                            | 6                                                                    |
+| 1999-00 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 20                                            | 8                                                                    |
+| 2000-01 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 16                                            | 8                                                                    |
+| 2001-02 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 10                                            | 9                                                                    |
+| 2002-03 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 25                                            | 6                                                                    |
+| 2003-04 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 15                                            | 10                                                                   |
+| 2004-05 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 22                                            | 9                                                                    |
+| 2005-06 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 8                                             | 9                                                                    |
+| 2006-07 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 15                                            | 5                                                                    |
+| 2007-08 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 13                                            | 10                                                                   |
+| 2008-09 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 9                                             | 11                                                                   |
+| 2009-10 | [SPL](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")                 | 38                                                                | 6                                             | 13                                                                   |
+| 2010-11 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 17                                            | 7                                                                    |
+| 2011-12 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 13                                            | 13                                                                   |
+| 2012-13 | [SFL 1](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ・ファーストディビジョン "wikilink") | 36                                                                | 15                                            | 8                                                                    |
+| 2013-14 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 19                                            | 9                                                                    |
+| 2014-15 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 14                                            | 11                                                                   |
+| 2015-16 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 19                                            | 13                                                                   |
+| 2016-17 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 16                                            | 12                                                                   |
+| 2017-18 | [SC](../Page/SC.md "wikilink")                                                  | 36                                                                | 12                                            | 11                                                                   |
 
 ## 欧州の成績
 
@@ -122,21 +122,21 @@
 
   - Eddie May 2009-2010
 
-  - [スティーヴン・プレスリー](https://ja.wikipedia.org/wiki/スティーヴン・プレスリー "wikilink") 2010-2013
+  - [スティーヴン・プレスリー](../Page/スティーヴン・プレスリー.md "wikilink") 2010-2013
 
   - Gary Holt 2013-2014
 
   - ピーター・ヒューストン 2014-2017
 
-  - [ポール・ハートリー](https://ja.wikipedia.org/wiki/ポール・ハートリー "wikilink") 2017-
+  - [ポール・ハートリー](../Page/ポール・ハートリー.md "wikilink") 2017-
 
 ## 歴代所属選手
 
-  - [アレックス・ファーガソン](https://ja.wikipedia.org/wiki/アレックス・ファーガソン "wikilink") 1969-1973
+  - [アレックス・ファーガソン](../Page/アレックス・ファーガソン.md "wikilink") 1969-1973
 
-  - [アラン・アーバイン](https://ja.wikipedia.org/wiki/アラン・アーバイン "wikilink") 1982-1987
+  - [アラン・アーバイン](../Page/アラン・アーバイン.md "wikilink") 1982-1987
 
-  - [デヴィッド・ウィアー](https://ja.wikipedia.org/wiki/デヴィッド・ウィアー_\(サッカー選手\) "wikilink") 1992-1996
+  - [デヴィッド・ウィアー](../Page/デヴィッド・ウィアー_\(サッカー選手\).md "wikilink") 1992-1996
 
   - [モー・ジョンストン](https://ja.wikipedia.org/wiki/モー・ジョンストン "wikilink") 1994-1996
 
@@ -146,7 +146,7 @@
 
   - [アンソニー・ストークス](https://ja.wikipedia.org/wiki/アンソニー・ストークス "wikilink") 2006
 
-  - [カスパー・シュマイケル](https://ja.wikipedia.org/wiki/カスパー・シュマイケル "wikilink") 2007
+  - [カスパー・シュマイケル](../Page/カスパー・シュマイケル.md "wikilink") 2007
 
   - [ティム・クルル](https://ja.wikipedia.org/wiki/ティム・クルル "wikilink") 2007-2008
 

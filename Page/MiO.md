@@ -1,15 +1,15 @@
 > この記事は[MiO](https://ja.wikipedia.org/wiki/MiO)から翻訳されています。
 
 
-**MiO**（みお、[1982年](../Page/1982年.md "wikilink")\[1\][6月20日](../Page/6月20日.md "wikilink") - ）は女性[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。[レプロエンタテインメント](https://ja.wikipedia.org/wiki/レプロエンタテインメント "wikilink")所属。
+**MiO**（みお、[1982年](../Page/1982年.md "wikilink")\[1\][6月20日](../Page/6月20日.md "wikilink") - ）は女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。[レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")所属。
 
 ## 経歴・人物
 
 [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")出身。身長172cm。
 
-[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[看護医療学部卒業](../Page/看護学部.md "wikilink")。[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")と[保健師](https://ja.wikipedia.org/wiki/保健師 "wikilink")の[国家資格](https://ja.wikipedia.org/wiki/国家資格 "wikilink")を取得している。
+[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[看護医療学部卒業](../Page/看護学部.md "wikilink")。[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")と[保健師](../Page/保健師.md "wikilink")の[国家資格](https://ja.wikipedia.org/wiki/国家資格 "wikilink")を取得している。
 
-趣味は[読書](../Page/読書.md "wikilink")、[乗馬](../Page/乗馬.md "wikilink")、[フラワーアレンジメント](https://ja.wikipedia.org/wiki/フラワーアレンジメント "wikilink")。特技は[英語](../Page/英語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[日本舞踊](https://ja.wikipedia.org/wiki/日本舞踊 "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")、[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")。 [高IQ団体](https://ja.wikipedia.org/wiki/高IQ団体 "wikilink")[メンサ](../Page/メンサ.md "wikilink")の会員である。
+趣味は[読書](../Page/読書.md "wikilink")、[乗馬](../Page/乗馬.md "wikilink")、[フラワーアレンジメント](https://ja.wikipedia.org/wiki/フラワーアレンジメント "wikilink")。特技は[英語](../Page/英語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")、[日本舞踊](../Page/日本舞踊.md "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")、[ピラティス](https://ja.wikipedia.org/wiki/ピラティス "wikilink")。 [高IQ団体](https://ja.wikipedia.org/wiki/高IQ団体 "wikilink")[メンサ](../Page/メンサ.md "wikilink")の会員である。
 
 ## 出演
 
@@ -19,17 +19,17 @@
 
 ### ラジオ
 
-  - scooping☆girls（[渋谷FM](https://ja.wikipedia.org/wiki/東京コミュニケーション放送 "wikilink")） - レギュラー
+  - scooping☆girls（[渋谷FM](../Page/東京コミュニケーション放送.md "wikilink")） - レギュラー
   - SUNDAYLAGOON（TFMデジタルチャンネル701） - レギュラー
   - SLOWSONGS（TFMデジタルチャンネル701） - レギュラー
-  - [NACK AFTER5](https://ja.wikipedia.org/wiki/NACK_AFTER5 "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")） - レギュラー
+  - [NACK AFTER5](../Page/NACK_AFTER5.md "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")） - レギュラー
   - [シンクロのシティ](https://ja.wikipedia.org/wiki/シンクロのシティ "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")） - レギュラー
   - POP'N SUNDAY（NACK5） - レギュラー
 
 ### PV
 
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") 「come back」
-  - [藍坊主](https://ja.wikipedia.org/wiki/藍坊主 "wikilink") 「ジムペディック」
+  - [藍坊主](../Page/藍坊主.md "wikilink") 「ジムペディック」
   - [Mr. Children](https://ja.wikipedia.org/wiki/Mr._Children "wikilink") 「and I love you」
   - [COCCO](https://ja.wikipedia.org/wiki/COCCO "wikilink") 「絹ずれ」
   - [Kimonos](https://ja.wikipedia.org/wiki/Kimonos "wikilink")「Almost Human」
@@ -67,7 +67,7 @@
       - choi chang ho
       - [信國太志](https://ja.wikipedia.org/wiki/信國太志 "wikilink")
       - ninita
-  - [パリ・コレクション](https://ja.wikipedia.org/wiki/パリ・コレクション "wikilink")
+  - [パリ・コレクション](../Page/パリ・コレクション.md "wikilink")
       - [Y'S](../Page/山本耀司.md "wikilink")
   - TFB
   - spoken word project

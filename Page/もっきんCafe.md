@@ -1,7 +1,7 @@
-> この記事は[Cafe](https://ja.wikipedia.org/wiki/Cafe)から翻訳されています。
+> この記事は[もっきんCafe](https://ja.wikipedia.org/wiki/もっきんCafe)から翻訳されています。
 
 
-『**もっきんCafe**』（もっきんカフェ）は、[2007年](../Page/2007年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[広島テレビで放送されていた](../Page/広島テレビ放送.md "wikilink")[生活情報番組](https://ja.wikipedia.org/wiki/生活情報番組 "wikilink")である。
+『**もっきんCafe**』（もっきんカフェ）は、[2007年](../Page/2007年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[広島テレビで放送されていた](../Page/広島テレビ放送.md "wikilink")[生活情報番組](../Page/生活情報番組.md "wikilink")である。
 
 スタジオなどはすべてHD化してあったため、[地上デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[ハイビジョン放送を実施していた](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
 
@@ -14,19 +14,19 @@
 ## 放送時間
 
   - 木曜・金曜 14:00 - 14:25 （2007年10月4日 - 2008年3月28日）
-  - 木曜・金曜 10:55 - 11:25 （2008年4月3日 - 2008年9月26日） - 広島テレビも『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』フルネットへ移行したため、月曜 - 水曜のテレビショッピング枠とともに同時間帯へ移動。『[なるトモ\!](https://ja.wikipedia.org/wiki/なるトモ! "wikilink")』は10:55飛び降りになった。
+  - 木曜・金曜 10:55 - 11:25 （2008年4月3日 - 2008年9月26日） - 広島テレビも『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』フルネットへ移行したため、月曜 - 水曜のテレビショッピング枠とともに同時間帯へ移動。『[なるトモ\!](../Page/なるトモ!.md "wikilink")』は10:55飛び降りになった。
 
 ## 出演者
 
 ### メインパーソナリティ
 
-  - [八木静佳](https://ja.wikipedia.org/wiki/八木静佳 "wikilink")（フリーアナウンサー ）
+  - [八木静佳](../Page/八木静佳.md "wikilink")（フリーアナウンサー ）
 
 ### サブパーソナリティ
 
-  - [井ノ口あさ子](https://ja.wikipedia.org/wiki/井ノ口あさ子 "wikilink")（当時広島テレビアナウンサー）
-  - [児玉勝司](https://ja.wikipedia.org/wiki/児玉勝司 "wikilink")（当時広島テレビアナウンサー）
-  - [長野正実](https://ja.wikipedia.org/wiki/長野正実 "wikilink")（広島テレビアナウンサー） - 木曜日担当。
+  - [井ノ口あさ子](../Page/井ノ口あさ子.md "wikilink")（当時広島テレビアナウンサー）
+  - [児玉勝司](../Page/児玉勝司.md "wikilink")（当時広島テレビアナウンサー）
+  - [長野正実](../Page/長野正実.md "wikilink")（広島テレビアナウンサー） - 木曜日担当。
   - [宮脇靖知](../Page/宮脇靖知.md "wikilink")（広島テレビアナウンサー） - 金曜日担当。
 
 ## 外部リンク

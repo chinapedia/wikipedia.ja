@@ -20,6 +20,6 @@
 
 ## 関連項目
 
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
 
 [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:M.o.v.eのアルバム](https://ja.wikipedia.org/wiki/Category:M.o.v.eのアルバム "wikilink")

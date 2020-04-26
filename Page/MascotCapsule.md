@@ -1,7 +1,7 @@
 > この記事は[MascotCapsule](https://ja.wikipedia.org/wiki/MascotCapsule)から翻訳されています。
 
 
-**MascotCapsule**（**マスコットカプセル**）は株式会社[エイチアイ](https://ja.wikipedia.org/wiki/エイチアイ "wikilink")の組み込み機器向け3Dレンダリングエンジンである。 演算にFPUを必要とせず、必要なメモリも少ないため、リソースの限られた組み込み機器や携帯電話などに向いている。 [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ウィルコム](../Page/ウィルコム.md "wikilink")、[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")など日本国内全キャリアの携帯電話端末、および[モトローラ](../Page/モトローラ.md "wikilink")、[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")、[サムスン電子](../Page/サムスン電子.md "wikilink")など海外の携帯電話端末に採用されており、搭載機器の世界累計出荷台数は６億台を超えている(2010年3月末現在)。
+**MascotCapsule**（**マスコットカプセル**）は株式会社[エイチアイ](https://ja.wikipedia.org/wiki/エイチアイ "wikilink")の組み込み機器向け3Dレンダリングエンジンである。 演算にFPUを必要とせず、必要なメモリも少ないため、リソースの限られた組み込み機器や携帯電話などに向いている。 [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[ウィルコム](../Page/ウィルコム.md "wikilink")、[イー・モバイル](../Page/イー・モバイル.md "wikilink")など日本国内全キャリアの携帯電話端末、および[モトローラ](../Page/モトローラ.md "wikilink")、[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")、[サムスン電子](../Page/サムスン電子.md "wikilink")など海外の携帯電話端末に採用されており、搭載機器の世界累計出荷台数は６億台を超えている(2010年3月末現在)。
 
 現在までに以下のバージョンが存在する。
 

@@ -1,7 +1,7 @@
 > この記事は[DirectInput](https://ja.wikipedia.org/wiki/DirectInput)から翻訳されています。
 
 
-**DirectInput**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")によって開発された[ソフトウェアコンポーネント](../Page/ソフトウェアコンポーネント.md "wikilink")「[Microsoft DirectX](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink")」のうちのひとつであり、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(コンピュータ\) "wikilink")、[ジョイスティック](../Page/ジョイスティック.md "wikilink")、[ゲームコントローラ](https://ja.wikipedia.org/wiki/ゲームコントローラ "wikilink")等を介してユーザーからの入力情報を収集するための[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。DirectInputはまたゲーム中の[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")のボタンや座標を特定のアクションに割り当てる「アクションマッピング」のシステムを提供する。さらに「[フォースフィードバック](https://ja.wikipedia.org/wiki/フォースフィードバック "wikilink")」デバイスの入出力を扱う。
+**DirectInput**は[マイクロソフト](../Page/マイクロソフト.md "wikilink")によって開発された[ソフトウェアコンポーネント](../Page/ソフトウェアコンポーネント.md "wikilink")「[Microsoft DirectX](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink")」のうちのひとつであり、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")、[ジョイスティック](../Page/ジョイスティック.md "wikilink")、[ゲームコントローラ](../Page/ゲームコントローラ.md "wikilink")等を介してユーザーからの入力情報を収集するための[APIである](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。DirectInputはまたゲーム中の[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")のボタンや座標を特定のアクションに割り当てる「アクションマッピング」のシステムを提供する。さらに「[フォースフィードバック](https://ja.wikipedia.org/wiki/フォースフィードバック "wikilink")」デバイスの入出力を扱う。
 
 マイクロソフトはDirectX 9で[Xbox 360用コントローラーのための](../Page/Xbox_360.md "wikilink")[XInput](https://ja.wikipedia.org/wiki/XInput "wikilink")という新しい入力ライブラリを導入した。
 
@@ -44,7 +44,7 @@ Xbox 360用コントローラーとマイクロソフトのデフォルトのWin
   - キーボード、マウス及びマウス型デバイスの非サポート。DirectInputはこれらのデバイスに対しては推奨されないものとするマイクロソフトの意向を反映しているが、DirectInputでこれらのデバイスを利用すること自体は可能である。
   - 1コントローラーあたり、アナログ4軸、10ボタン、デジタル8方向のみをサポートする。XInputがサポートする軸とボタンの数はXbox 360用コントローラーと直接対応しているためである。対してDirectInputはアナログ8軸、128ボタン、フルレンジのPOV (ハットスイッチ) をサポートする。
 
-DirectInputは従来から存在する規格のため、対応するドライバーが用意されているデバイスも豊富だが、XInputは後発のため、主要な対応デバイスとしてはXbox 360用の純正コントローラーおよび[Xbox One用の純正コントローラー](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")\[3\]のみである。ただし、[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")製の各種コントローラーもDirectInput/XInput両対応の製品がいくつか発売されている\[4\] \[5\]。
+DirectInputは従来から存在する規格のため、対応するドライバーが用意されているデバイスも豊富だが、XInputは後発のため、主要な対応デバイスとしてはXbox 360用の純正コントローラーおよび[Xbox One用の純正コントローラー](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")\[3\]のみである。ただし、[サードパーティー](../Page/サードパーティー.md "wikilink")製の各種コントローラーもDirectInput/XInput両対応の製品がいくつか発売されている\[4\] \[5\]。
 
 [Windows 8で導入された](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")[Windowsストア](https://ja.wikipedia.org/wiki/Windowsストア "wikilink")アプリでは、XInput 1.4のみが使用可能であり、デスクトップアプリ向けのXInput (1.1/1.2/1.3, 9.1.0) およびDirectInputは使用できない\[6\]。XInput 1.4ではオーディオヘッドセットの問い合わせ機能が追加されている\[7\]。
 

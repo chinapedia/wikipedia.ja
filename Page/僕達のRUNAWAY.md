@@ -1,13 +1,13 @@
-> この記事は[RUNAWAY](https://ja.wikipedia.org/wiki/RUNAWAY)から翻訳されています。
+> この記事は[僕達のRUNAWAY](https://ja.wikipedia.org/wiki/僕達のRUNAWAY)から翻訳されています。
 
 
-「**僕達のRUNAWAY**」（ぼくたちのランナウェイ）は、[福永恵規](https://ja.wikipedia.org/wiki/福永恵規 "wikilink")の楽曲で、3枚目の[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。
+「**僕達のRUNAWAY**」（ぼくたちのランナウェイ）は、[福永恵規](../Page/福永恵規.md "wikilink")の楽曲で、3枚目の[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[キャニオン・レコードから発売](../Page/ポニーキャニオン.md "wikilink")。
 
 [おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")卒業後初のシングル。
 
 ## 収録曲
 
-  - 全作詞:[秋元康](../Page/秋元康.md "wikilink")　作曲・編曲:[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+  - 全作詞:[秋元康](../Page/秋元康.md "wikilink")　作曲・編曲:[後藤次利](../Page/後藤次利.md "wikilink")
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - 『[SAMBO](https://ja.wikipedia.org/wiki/SAMBO "wikilink")』 (\#1)
+  - 『[SAMBO](../Page/SAMBO.md "wikilink")』 (\#1)
 
 <!-- end list -->
 
@@ -28,8 +28,8 @@
 
 <!-- end list -->
 
-  - 『[福永恵規ベスト](https://ja.wikipedia.org/wiki/福永恵規ベスト "wikilink")』 (\#1,2)
-  - 『[MYこれ\!クション 福永恵規BEST](https://ja.wikipedia.org/wiki/MYこれ!クション_福永恵規BEST "wikilink")』 (\#1,2)
+  - 『[福永恵規ベスト](../Page/福永恵規ベスト.md "wikilink")』 (\#1,2)
+  - 『[MYこれ\!クション 福永恵規BEST](../Page/MYこれ!クション_福永恵規BEST.md "wikilink")』 (\#1,2)
       - どちらもリマスタリングされている。
 
 <!-- end list -->

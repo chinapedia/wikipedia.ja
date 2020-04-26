@@ -1,11 +1,11 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKヴェレジュ・モスタル](https://ja.wikipedia.org/wiki/FKヴェレジュ・モスタル)から翻訳されています。
 
 
-**フドバルスキ・クルブ・ヴェレジュ・モスタル**（）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")・[モスタル](https://ja.wikipedia.org/wiki/モスタル "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンはプレミイェル・リーガ（1部）に所属。
+**フドバルスキ・クルブ・ヴェレジュ・モスタル**（）は、[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")・[モスタル](../Page/モスタル.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンはプレミイェル・リーガ（1部）に所属。
 
 ## 概略
 
-[1922年](../Page/1922年.md "wikilink")6月26日に創設された。クラブ名のヴェレジュは近くの山の名前に因む。[ユーゴスラビア時代は](https://ja.wikipedia.org/wiki/ユーゴスラビア社会主義連邦共和国 "wikilink")3民族（[ボシュニャク人](https://ja.wikipedia.org/wiki/ボシュニャク人 "wikilink")、[セルビア人](https://ja.wikipedia.org/wiki/セルビア人 "wikilink")、[クロアチア人](https://ja.wikipedia.org/wiki/クロアチア人 "wikilink")）に広く支持されていたが、現在はボシュニャク人のサポーターが多い。クロアチア人を支持基盤に持つ[HŠKズリニスキ・モスタル](https://ja.wikipedia.org/wiki/HŠKズリニスキ・モスタル "wikilink")との[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")([:en:Mostar derby](https://ja.wikipedia.org/wiki/:en:Mostar_derby "wikilink"))は、ひときわ熱気を帯びる。
+[1922年](../Page/1922年.md "wikilink")6月26日に創設された。クラブ名のヴェレジュは近くの山の名前に因む。[ユーゴスラビア時代は](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")3民族（[ボシュニャク人](../Page/ボシュニャク人.md "wikilink")、[セルビア人](../Page/セルビア人.md "wikilink")、[クロアチア人](../Page/クロアチア人.md "wikilink")）に広く支持されていたが、現在はボシュニャク人のサポーターが多い。クロアチア人を支持基盤に持つ[HŠKズリニスキ・モスタル](https://ja.wikipedia.org/wiki/HŠKズリニスキ・モスタル "wikilink")との[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")([:en:Mostar derby](https://ja.wikipedia.org/wiki/:en:Mostar_derby "wikilink"))は、ひときわ熱気を帯びる。
 
 ユーゴ時代の実績は、[ユーゴ1部リーグ（プルヴァ・リーガ）の優勝こそなかったが](../Page/ユーゴスラビア・プルヴァ・リーガ.md "wikilink")、2位が3回（1972-73、1973-74、1986-87）、3位が3回（1965-66、1969-70、1985-86）あり、ユーゴスラビアカップでは優勝が2回（1981、1986）、準優勝が2回（1958、1989）ある。
 
@@ -25,29 +25,29 @@
 
 ## 過去の成績
 
-| シーズン    | ディビジョン                                                                                    | [カップ](https://ja.wikipedia.org/wiki/カップ "wikilink") |
-| ------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| リーグ     | 試                                                                                         | 勝                                                   |
-| 2000–01 | [プレミイェル・リーガ](https://ja.wikipedia.org/wiki/プレミイェル・リーガ "wikilink")                         | 42                                                  |
-| 2001–02 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2002–03 | プレミイェル・リーガ                                                                                | 38                                                  |
-| 2003–04 | [プルヴァ・リーガFBiH](https://ja.wikipedia.org/wiki/プルヴァ・リーガ・フェデラツィイェ・ボスネ・イ・ヘルツェゴヴィネ "wikilink") | 30                                                  |
-| 2004–05 | プルヴァ・リーガFBiH                                                                              | 30                                                  |
-| 2005–06 | プルヴァ・リーガFBiH                                                                              | 30                                                  |
-| 2006–07 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2007–08 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2008–09 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2009–10 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2010–11 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2011–12 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2012–13 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2013–14 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2014–15 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2015–16 | プレミイェル・リーガ                                                                                | 30                                                  |
-| 2016–17 | プルヴァ・リーガFBiH                                                                              | 30                                                  |
-| 2017–18 | プルヴァ・リーガFBiH                                                                              | 30                                                  |
-| 2018–19 | プルヴァ・リーガFBiH                                                                              | 30                                                  |
-| 2019-20 | プレミイェル・リーガ                                                                                |                                                     |
+| シーズン    | ディビジョン                                                                                    | [カップ](../Page/カップ.md "wikilink") |
+| ------- | ----------------------------------------------------------------------------------------- | -------------------------------- |
+| リーグ     | 試                                                                                         | 勝                                |
+| 2000–01 | [プレミイェル・リーガ](https://ja.wikipedia.org/wiki/プレミイェル・リーガ "wikilink")                         | 42                               |
+| 2001–02 | プレミイェル・リーガ                                                                                | 30                               |
+| 2002–03 | プレミイェル・リーガ                                                                                | 38                               |
+| 2003–04 | [プルヴァ・リーガFBiH](https://ja.wikipedia.org/wiki/プルヴァ・リーガ・フェデラツィイェ・ボスネ・イ・ヘルツェゴヴィネ "wikilink") | 30                               |
+| 2004–05 | プルヴァ・リーガFBiH                                                                              | 30                               |
+| 2005–06 | プルヴァ・リーガFBiH                                                                              | 30                               |
+| 2006–07 | プレミイェル・リーガ                                                                                | 30                               |
+| 2007–08 | プレミイェル・リーガ                                                                                | 30                               |
+| 2008–09 | プレミイェル・リーガ                                                                                | 30                               |
+| 2009–10 | プレミイェル・リーガ                                                                                | 30                               |
+| 2010–11 | プレミイェル・リーガ                                                                                | 30                               |
+| 2011–12 | プレミイェル・リーガ                                                                                | 30                               |
+| 2012–13 | プレミイェル・リーガ                                                                                | 30                               |
+| 2013–14 | プレミイェル・リーガ                                                                                | 30                               |
+| 2014–15 | プレミイェル・リーガ                                                                                | 30                               |
+| 2015–16 | プレミイェル・リーガ                                                                                | 30                               |
+| 2016–17 | プルヴァ・リーガFBiH                                                                              | 30                               |
+| 2017–18 | プルヴァ・リーガFBiH                                                                              | 30                               |
+| 2018–19 | プルヴァ・リーガFBiH                                                                              | 30                               |
+| 2019-20 | プレミイェル・リーガ                                                                                |                                  |
 
 ## 欧州の成績
 
@@ -79,15 +79,15 @@
 <td><p>1974-75</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1974-75" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCスパルタク・モスクワ" title="wikilink">スパルタク・モスクワ</a></p></td>
+<td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>1-3</p></td>
-<td><p>'''3-3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3-3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-1</p></td>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダービー・カウンティFC" title="wikilink">ダービー</a></p></td>
+<td><p><a href="../Page/ダービー・カウンティFC.md" title="wikilink">ダービー</a></p></td>
 <td><p>4-1</p></td>
 <td><p>1-3</p></td>
 <td><p>'''5-4</p></td>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCトゥウェンテ" title="wikilink">トゥウェンテ</a></p></td>
+<td><p><a href="../Page/FCトゥウェンテ.md" title="wikilink">トゥウェンテ</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-2</p></td>
 <td><p>'''1-2</p></td>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフスキ・ソフィア" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
 <td><p>4-3</p></td>
 <td><p>0-2</p></td>
 <td><p>'''4-5</p></td>
@@ -160,7 +160,7 @@
 <td><p>1987-88</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1987-88" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCシオン" title="wikilink">シオン</a></p></td>
+<td><p><a href="../Page/FCシオン.md" title="wikilink">シオン</a></p></td>
 <td><p>5-0</p></td>
 <td><p>0-3</p></td>
 <td><p>'''5-3</p></td>
@@ -168,7 +168,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・ドルトムント" title="wikilink">ボルシア・ドルトムント</a></p></td>
+<td><p><a href="../Page/ボルシア・ドルトムント.md" title="wikilink">ボルシア・ドルトムント</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-3</p></td>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハート・オブ・ミドロシアンFC" title="wikilink">ハーツ</a></p></td>
+<td><p><a href="../Page/ハート・オブ・ミドロシアンFC.md" title="wikilink">ハーツ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-3</p></td>
 <td><p>'''2-4</p></td>
@@ -332,17 +332,17 @@
 
   - [ダニイェル・マイキッチ](https://ja.wikipedia.org/wiki/ダニイェル・マイキッチ "wikilink")
 
-  - [ヴァヒド・ハリルホジッチ](https://ja.wikipedia.org/wiki/ヴァヒド・ハリルホジッチ "wikilink") 1971-1981
+  - [ヴァヒド・ハリルホジッチ](../Page/ヴァヒド・ハリルホジッチ.md "wikilink") 1971-1981
 
   - [イヴィッツァ・バルバリッチ](https://ja.wikipedia.org/wiki/イヴィッツァ・バルバリッチ "wikilink") 1981-1989
 
-  - [セルゲイ・バルバレス](https://ja.wikipedia.org/wiki/セルゲイ・バルバレス "wikilink") 1984-1991
+  - [セルゲイ・バルバレス](../Page/セルゲイ・バルバレス.md "wikilink") 1984-1991
 
   - [メホ・コドロ](https://ja.wikipedia.org/wiki/メホ・コドロ "wikilink") 1985-1991
 
-  - [ゴラン・ユーリッチ](https://ja.wikipedia.org/wiki/ゴラン・ユーリッチ "wikilink") 1986-1987
+  - [ゴラン・ユーリッチ](../Page/ゴラン・ユーリッチ.md "wikilink") 1986-1987
 
-  - [ネナド・マスロバル](https://ja.wikipedia.org/wiki/ネナド・マスロバル "wikilink") 1990-1992
+  - [ネナド・マスロバル](../Page/ネナド・マスロバル.md "wikilink") 1990-1992
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[Apache Harmony](https://ja.wikipedia.org/wiki/Apache_Harmony)から翻訳されています。
 
 
-**Apache Harmony**（アパッチ・ハーモニー）は、[オープンソース](../Page/オープンソース.md "wikilink")かつフリーな[Java](https://ja.wikipedia.org/wiki/Java "wikilink")実装である。[Java SE](https://ja.wikipedia.org/wiki/Java_SE "wikilink") 5, 6を元にしており、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink") Version 2 にて提供されていた。開発は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月に開始され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月にはApache財団のトップレベルプロジェクトとなった。しかし別のオープンソース実装である[OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")に集約される形となり、[2011年](../Page/2011年.md "wikilink")11月3日に開発終了した\[1\]\[2\]。
+**Apache Harmony**（アパッチ・ハーモニー）は、[オープンソース](../Page/オープンソース.md "wikilink")かつフリーな[Java](https://ja.wikipedia.org/wiki/Java "wikilink")実装である。[Java SE](https://ja.wikipedia.org/wiki/Java_SE "wikilink") 5, 6を元にしており、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink") Version 2 にて提供されていた。開発は[2005年](../Page/2005年.md "wikilink")5月に開始され、[2006年](../Page/2006年.md "wikilink")10月にはApache財団のトップレベルプロジェクトとなった。しかし別のオープンソース実装である[OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")に集約される形となり、[2011年](../Page/2011年.md "wikilink")11月3日に開発終了した\[1\]\[2\]。
 
 SDKやJREも配布されており、仮想機械にはDRLVMを、コンパイラにはEclipse Java Compilerを使用していた。
 
@@ -19,7 +19,7 @@ GNU ClasspathとApacheプロジェクトが袂を分かったのは、[GPLと](.
 
 ### サンのTCKライセンスを巡る問題
 
-2007年4月10日、Apache財団 (ASF) は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")（サン）のCEO、[ジョナサン・シュワルツ](https://ja.wikipedia.org/wiki/ジョナサン・シュワルツ "wikilink")宛にJava SE 5 テクノロジ互換キット (TCK) についての[公開書簡](https://ja.wikipedia.org/wiki/公開書簡 "wikilink")を送った\[3\]。TCKのライセンスはHarmonyユーザに利用範囲の制限を課すもので[JCPのルールに反しているから](https://ja.wikipedia.org/wiki/Java_Community_Process "wikilink")、ASFにとって承諾しがたいものであると主張している。
+2007年4月10日、Apache財団 (ASF) は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")（サン）のCEO、[ジョナサン・シュワルツ](../Page/ジョナサン・シュワルツ.md "wikilink")宛にJava SE 5 テクノロジ互換キット (TCK) についての[公開書簡](https://ja.wikipedia.org/wiki/公開書簡 "wikilink")を送った\[3\]。TCKのライセンスはHarmonyユーザに利用範囲の制限を課すもので[JCPのルールに反しているから](../Page/Java_Community_Process.md "wikilink")、ASFにとって承諾しがたいものであると主張している。
 
   - テクノロジ互換キット (Technology Compatibility Kit) は、Java SE5仕様に実装が準拠しているかを確認するためのテストキットで、SunがJavaの仕様ライセンス内で規定している。
 
@@ -33,11 +33,11 @@ GNU ClasspathとApacheプロジェクトが袂を分かったのは、[GPLと](.
 
 ## 開発終了前の状況
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月、Apache HarmonyプロジェクトはApache財団の公式プロジェクト (Top level Projects) に昇格された。
+[2006年](../Page/2006年.md "wikilink")10月、Apache HarmonyプロジェクトはApache財団の公式プロジェクト (Top level Projects) に昇格された。
 
 ### ライブラリ実装
 
-当初期待したソフトウエア会社からのコード寄贈は現実のものとなっていた。Apache Harmonyの作業コードにはIntelより寄贈された [Swing](../Page/Swing.md "wikilink"), [AWT](https://ja.wikipedia.org/wiki/Abstract_Windowing_Toolkit "wikilink"), [Java 2D](https://ja.wikipedia.org/wiki/Java_2D "wikilink") のコードが加えられた。
+当初期待したソフトウエア会社からのコード寄贈は現実のものとなっていた。Apache Harmonyの作業コードにはIntelより寄贈された [Swing](../Page/Swing.md "wikilink"), [AWT](https://ja.wikipedia.org/wiki/Abstract_Windowing_Toolkit "wikilink"), [Java 2D](../Page/Java_2D.md "wikilink") のコードが加えられた。
 
 クラスの実装については、2010年9月20日時点で (5.0M15, 6.0M3)、Java SE 5の99.00%、Java SE 6の97.54%が実装（クラス・メソッド・フィールドとして存在）されていた\[7\]。
 
@@ -70,16 +70,16 @@ DRLVM [仮想マシンの開発が積極的に進んでおり](../Page/仮想機
 
 構想の時点から、Harmony は重要な Java アプリケーション（[リンク参照](http://wiki.apache.org/harmony/Application_Status)）を実行する能力を着実に向上させてきた。2007年7月の時でたとえば下記のアプリケーションがサポートされていた。
 
-  - [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink") : 36,000 件の[リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink")テストのうち 99.3% が Harmony の DRLVM とクラスライブラリで合格[11](http://wiki.apache.org/harmony/Eclipse_Unit_Tests_Pass_on_DRLVM#PassRate_2007)。
-  - [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") : [リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink") テストが 100% 合格[12](http://wiki.apache.org/harmony/Apache_Tomcat)。
-  - [JUnit](https://ja.wikipedia.org/wiki/JUnit "wikilink") : [リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink") テストが 100% 合格[13](http://wiki.apache.org/harmony/JUnit)。
-  - [Apache Ant](https://ja.wikipedia.org/wiki/Apache_Ant "wikilink") : [リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink") テストが 97% 合格[14](http://wiki.apache.org/harmony/Apache_Ant).
-  - [Apache Derby](https://ja.wikipedia.org/wiki/Apache_Derby "wikilink")、[Apache Axis](https://ja.wikipedia.org/wiki/Apache_Axis "wikilink")、[Log4j](../Page/Log4j.md "wikilink")、[Apache Velocity](https://ja.wikipedia.org/wiki/Apache_Velocity "wikilink")、[Apache Cocoon](../Page/Apache_Cocoon.md "wikilink")、[jEdit](https://ja.wikipedia.org/wiki/jEdit "wikilink")、[Apache Commons](https://ja.wikipedia.org/wiki/Apache_Commons "wikilink") などのアプリケーションも高い合格率を示す。
+  - [Eclipse](../Page/Eclipse_\(統合開発環境\).md "wikilink") : 36,000 件の[リファレンス実装](../Page/リファレンス実装.md "wikilink")テストのうち 99.3% が Harmony の DRLVM とクラスライブラリで合格[11](http://wiki.apache.org/harmony/Eclipse_Unit_Tests_Pass_on_DRLVM#PassRate_2007)。
+  - [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink") : [リファレンス実装](../Page/リファレンス実装.md "wikilink") テストが 100% 合格[12](http://wiki.apache.org/harmony/Apache_Tomcat)。
+  - [JUnit](../Page/JUnit.md "wikilink") : [リファレンス実装](../Page/リファレンス実装.md "wikilink") テストが 100% 合格[13](http://wiki.apache.org/harmony/JUnit)。
+  - [Apache Ant](../Page/Apache_Ant.md "wikilink") : [リファレンス実装](../Page/リファレンス実装.md "wikilink") テストが 97% 合格[14](http://wiki.apache.org/harmony/Apache_Ant).
+  - [Apache Derby](../Page/Apache_Derby.md "wikilink")、[Apache Axis](../Page/Apache_Axis.md "wikilink")、[Log4j](../Page/Log4j.md "wikilink")、[Apache Velocity](../Page/Apache_Velocity.md "wikilink")、[Apache Cocoon](../Page/Apache_Cocoon.md "wikilink")、[jEdit](https://ja.wikipedia.org/wiki/jEdit "wikilink")、[Apache Commons](../Page/Apache_Commons.md "wikilink") などのアプリケーションも高い合格率を示す。
 
 しかし、Harmony のライブラリ実装が不完全であるため、実行できないアプリケーションもあった。
 
   - [ArgoUML](https://ja.wikipedia.org/wiki/:en:ArgoUML "wikilink"): Harmony では利用できない [Javaアプレット](../Page/Javaアプレット.md "wikilink") の実装を必要とする。
-  - [Apache Geronimo](https://ja.wikipedia.org/wiki/Apache_Geronimo "wikilink") は、若干の修正により（問題もあるが）Apache Harmony 上で動作する\[11\]。
+  - [Apache Geronimo](../Page/Apache_Geronimo.md "wikilink") は、若干の修正により（問題もあるが）Apache Harmony 上で動作する\[11\]。
   - [Azureus](https://ja.wikipedia.org/wiki/Azureus "wikilink") セキュリティのクラスが未実装である。
 
 ## 関連項目
@@ -87,7 +87,7 @@ DRLVM [仮想マシンの開発が積極的に進んでおり](../Page/仮想機
   - [GNU Classpath](../Page/GNU_Classpath.md "wikilink")
   - [OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")
   - [Javaクラスライブラリ](https://ja.wikipedia.org/wiki/Javaクラスライブラリ "wikilink")
-  - [Dalvik仮想マシン](https://ja.wikipedia.org/wiki/Dalvik仮想マシン "wikilink")
+  - [Dalvik仮想マシン](../Page/Dalvik仮想マシン.md "wikilink")
 
 ## 参照
 

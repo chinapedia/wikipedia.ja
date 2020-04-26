@@ -1,13 +1,13 @@
-> この記事は[PINK \(\)](https://ja.wikipedia.org/wiki/PINK_\(\))から翻訳されています。
+> この記事は[PINK \(バンド\)](https://ja.wikipedia.org/wiki/PINK_\(バンド\))から翻訳されています。
 
 
 **PINK**（ピンク）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")結成、[1989年](../Page/1989年.md "wikilink")凍結\[1\]。
 
 ## 来歴
 
-[ビブラトーンズ](https://ja.wikipedia.org/wiki/ビブラトーンズ "wikilink")に在籍した[福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink")、[矢壁アツノブ](https://ja.wikipedia.org/wiki/矢壁アツノブ "wikilink")、[ホッピー神山](https://ja.wikipedia.org/wiki/ホッピー神山 "wikilink")を中心として前身バンド[おPINK兄弟](https://ja.wikipedia.org/wiki/おPINK兄弟 "wikilink")が結成される\[2\]。
+[ビブラトーンズ](https://ja.wikipedia.org/wiki/ビブラトーンズ "wikilink")に在籍した[福岡ユタカ](https://ja.wikipedia.org/wiki/福岡ユタカ "wikilink")、[矢壁アツノブ](https://ja.wikipedia.org/wiki/矢壁アツノブ "wikilink")、[ホッピー神山](../Page/ホッピー神山.md "wikilink")を中心として前身バンド[おPINK兄弟](https://ja.wikipedia.org/wiki/おPINK兄弟 "wikilink")が結成される\[2\]。
 
-当初メンバーは流動的だったが、やがて三人に加え、[東京ブラボー](https://ja.wikipedia.org/wiki/東京ブラボー "wikilink")の[岡野ハジメ](https://ja.wikipedia.org/wiki/岡野ハジメ "wikilink")、[爆風銃](https://ja.wikipedia.org/wiki/爆風銃 "wikilink")の[スティーブ衛藤](../Page/スティーヴ_エトウ.md "wikilink")\[3\]、[ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")の[渋谷ヒデヒロ](https://ja.wikipedia.org/wiki/渋谷ヒデヒロ "wikilink")というメンバーが固まり、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にPINKとしてデビューした\[4\]。その音楽性は「無国籍サウンド」と形容された\[5\]。
+当初メンバーは流動的だったが、やがて三人に加え、[東京ブラボー](https://ja.wikipedia.org/wiki/東京ブラボー "wikilink")の[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")、[爆風銃](https://ja.wikipedia.org/wiki/爆風銃 "wikilink")の[スティーブ衛藤](../Page/スティーヴ_エトウ.md "wikilink")\[3\]、[ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")の[渋谷ヒデヒロ](https://ja.wikipedia.org/wiki/渋谷ヒデヒロ "wikilink")というメンバーが固まり、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にPINKとしてデビューした\[4\]。その音楽性は「無国籍サウンド」と形容された\[5\]。
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には、『アドリブ』誌で「'85年ベスト・レコード日本のポップ･ソング部門」第1位（同率首位3組）となった\[6\]。同年にはイギリスのRIMEレコードからEPをリリースしている\[7\]。
 
@@ -29,12 +29,12 @@
 <a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
 <td><p>ボーカル<br />
 キーボード<br />
-<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a><br />
+<a href="../Page/作詞.md" title="wikilink">作詞</a><br />
 <a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡野ハジメ" title="wikilink">岡野ハジメ</a></p></td>
+<td><p><a href="../Page/岡野ハジメ.md" title="wikilink">岡野ハジメ</a></p></td>
 <td><p><a href="../Page/エレクトリックベース.md" title="wikilink">ベース</a></p></td>
 <td><p>ベース<br />
 キーボード<br />
@@ -51,7 +51,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ホッピー神山" title="wikilink">ホッピー神山</a></p></td>
+<td><p><a href="../Page/ホッピー神山.md" title="wikilink">ホッピー神山</a></p></td>
 <td><p><a href="../Page/シンセサイザー.md" title="wikilink">キーボード</a></p></td>
 <td><p>キーボード<br />
 ボーカル（4thアルバム以降）<br />
@@ -92,32 +92,32 @@
 ### サポートメンバー
 
   - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") - ライブサポート
-  - [大谷レイブン](https://ja.wikipedia.org/wiki/大谷令文 "wikilink") - 渋谷ヒデヒロ不在時のライブサポート
-  - [沖山優司](https://ja.wikipedia.org/wiki/沖山優司 "wikilink") - おピンク兄弟でセッション参加
+  - [大谷レイブン](../Page/大谷令文.md "wikilink") - 渋谷ヒデヒロ不在時のライブサポート
+  - [沖山優司](../Page/沖山優司.md "wikilink") - おピンク兄弟でセッション参加
   - [鈴木賢司](https://ja.wikipedia.org/wiki/鈴木賢司 "wikilink") - おピンク兄弟でセッション参加
 
 ### レコーディングに参加したミュージシャン
 
-  - [布袋寅泰](../Page/布袋寅泰.md "wikilink") - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")・[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX "wikilink")・[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")・ソロミュージシャン
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink") - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")・[COMPLEX](../Page/COMPLEX.md "wikilink")・[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")・ソロミュージシャン
   - [BANANA](../Page/川島裕二.md "wikilink")（川島バナナ・川島裕二）
   - [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") - ソロミュージシャン
-  - [窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink") - [近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")&[ビブラトーンズ](https://ja.wikipedia.org/wiki/ビブラトーンズ "wikilink")・[パール兄弟](https://ja.wikipedia.org/wiki/パール兄弟 "wikilink")
+  - [窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink") - [近田春夫](../Page/近田春夫.md "wikilink")&[ビブラトーンズ](https://ja.wikipedia.org/wiki/ビブラトーンズ "wikilink")・[パール兄弟](../Page/パール兄弟.md "wikilink")
   - [斉藤ネコ](https://ja.wikipedia.org/wiki/斉藤ネコ "wikilink") - Sunset Kids・[キリング・タイム](../Page/キリング・タイム.md "wikilink")・斉藤ネコカルテット
-  - 横山英規（キース） - [近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")&[ビブラトーンズ](https://ja.wikipedia.org/wiki/ビブラトーンズ "wikilink")・[ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")・人種熱
-  - [板倉文](https://ja.wikipedia.org/wiki/板倉文 "wikilink") - [キリング・タイム](../Page/キリング・タイム.md "wikilink")・[チャクラ](https://ja.wikipedia.org/wiki/チャクラ_\(バンド\) "wikilink")
+  - 横山英規（キース） - [近田春夫](../Page/近田春夫.md "wikilink")&[ビブラトーンズ](https://ja.wikipedia.org/wiki/ビブラトーンズ "wikilink")・[ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")・人種熱
+  - [板倉文](../Page/板倉文.md "wikilink") - [キリング・タイム](../Page/キリング・タイム.md "wikilink")・[チャクラ](https://ja.wikipedia.org/wiki/チャクラ_\(バンド\) "wikilink")
   - [吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink") - [サロンミュージック](https://ja.wikipedia.org/wiki/サロンミュージック "wikilink")
   - [WORLD STANDARD](https://ja.wikipedia.org/wiki/WORLD_STANDARD "wikilink") - [鈴木惣一朗](https://ja.wikipedia.org/wiki/鈴木惣一朗 "wikilink")、三上昌晴、藤原真人、大内美貴子、山本かずお(ムーグ山本)\<[ノン・スタンダード](../Page/ノン・スタンダード.md "wikilink")\>
-  - [屋敷豪太](https://ja.wikipedia.org/wiki/屋敷豪太 "wikilink") (mix) - [MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")・[Soul II Soul](https://ja.wikipedia.org/wiki/Soul_II_Soul "wikilink")
-  - STEVE NYE (mix) - [ブライアン・フェリー](../Page/ブライアン・フェリー.md "wikilink")・[XTC](https://ja.wikipedia.org/wiki/XTC_\(バンド\) "wikilink") ・[Japan](https://ja.wikipedia.org/wiki/ジャパン_\(バンド\) "wikilink")・[TM NETWORK](../Page/TM_NETWORK.md "wikilink")
+  - [屋敷豪太](../Page/屋敷豪太.md "wikilink") (mix) - [MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")・[Soul II Soul](https://ja.wikipedia.org/wiki/Soul_II_Soul "wikilink")
+  - STEVE NYE (mix) - [ブライアン・フェリー](../Page/ブライアン・フェリー.md "wikilink")・[XTC](../Page/XTC_\(バンド\).md "wikilink") ・[Japan](../Page/ジャパン_\(バンド\).md "wikilink")・[TM NETWORK](../Page/TM_NETWORK.md "wikilink")
 
 ## エピソード
 
   - 福岡ユタカは「エンちゃん」、矢壁アツノブは「カメちゃん」と呼ばれていた\[9\]\[10\]。
-  - 矢壁アツノブは学生時代[王様](https://ja.wikipedia.org/wiki/王様 "wikilink")と「ハートブレイカーズ」というバンドを結成していた。
-  - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のアルバム『[人気者で行こう](https://ja.wikipedia.org/wiki/人気者で行こう "wikilink")』に収録された「開きっ放しのマシュルーム」はPINKを聴いて感動した[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が彼らにリスペクトした曲。
+  - 矢壁アツノブは学生時代[王様](../Page/王様.md "wikilink")と「ハートブレイカーズ」というバンドを結成していた。
+  - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のアルバム『[人気者で行こう](../Page/人気者で行こう.md "wikilink")』に収録された「開きっ放しのマシュルーム」はPINKを聴いて感動した[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が彼らにリスペクトした曲。
   - [ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")（岡野ハジメ、渋谷ヒデヒロが在籍）はPINKの兄弟バンドと福岡ユタカ談。
-  - 過去[アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")（現[アップル](../Page/アップル_\(企業\).md "wikilink")）のホームページ上で[THE BOOMの](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")が「PINKのファンでコピーしていた」と語っていた。
-  - ホッピー神山の「ホッピー」の由来はノンアルコール飲料の「[ホッピー](https://ja.wikipedia.org/wiki/ホッピー "wikilink")」。
+  - 過去[アップルコンピュータ](../Page/アップル_\(企業\).md "wikilink")（現[アップル](../Page/アップル_\(企業\).md "wikilink")）のホームページ上で[THE BOOMの](../Page/THE_BOOM.md "wikilink")[宮沢和史](../Page/宮沢和史.md "wikilink")が「PINKのファンでコピーしていた」と語っていた。
+  - ホッピー神山の「ホッピー」の由来はノンアルコール飲料の「[ホッピー](../Page/ホッピー.md "wikilink")」。
   - [大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")のシンガー活動最後のライブでPINKのメンバーが集結。
   - 「NAKED CHILD」のベースは左手にタオル巻いて演奏。
   - TRAカセットマガジンに「Young Genius」の原型 (歌詞が違う。時間が短い。4ch録音) が収録されている。
@@ -136,21 +136,21 @@
   - SOUL FLIGHT（英語版）（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")）イギリスRIMEレコードよりリリース
   - KEEP YOUR VIEW（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")）マクセルビデオカセットCMイメージソング
   - TRAVELLER（12inch）（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）(「FINAL MIX」に収録されているのはリミックス)
-  - CHRISTMAS ILLUSION（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")）c/w Machine Gun Heartは映画『[ハワイアン・ドリーム](https://ja.wikipedia.org/wiki/ハワイアン・ドリーム "wikilink")』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")
+  - CHRISTMAS ILLUSION（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")）c/w Machine Gun Heartは映画『[ハワイアン・ドリーム](https://ja.wikipedia.org/wiki/ハワイアン・ドリーム "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")
 
 ### オリジナルアルバム
 
-  - [PINK](https://ja.wikipedia.org/wiki/PINK_\(アルバム\) "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
-  - [光の子](https://ja.wikipedia.org/wiki/光の子 "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
-  - [PSYCHO-DELICIOUS](https://ja.wikipedia.org/wiki/PSYCHO-DELICIOUS "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")）
-  - [CYBER](https://ja.wikipedia.org/wiki/CYBER "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")）
-  - [RED & BLUE](https://ja.wikipedia.org/wiki/RED_&_BLUE "wikilink")（[1989年](../Page/1989年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
+  - [PINK](../Page/PINK_\(アルバム\).md "wikilink")（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
+  - [光の子](../Page/光の子.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
+  - [PSYCHO-DELICIOUS](../Page/PSYCHO-DELICIOUS.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")）
+  - [CYBER](../Page/CYBER.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")）
+  - [RED & BLUE](../Page/RED_&_BLUE.md "wikilink")（[1989年](../Page/1989年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）
 
 ### ベストアルバム
 
-  - [DAYDREAM TRACKS](https://ja.wikipedia.org/wiki/DAYDREAM_TRACKS "wikilink") ([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")) - Epic Sony よりリリース
-  - [FINAL MIX](https://ja.wikipedia.org/wiki/FINAL_MIX "wikilink")（[1988年](../Page/1988年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")）
-  - [PINK THE BEST](https://ja.wikipedia.org/wiki/PINK_THE_BEST "wikilink")（[2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）
+  - [DAYDREAM TRACKS](../Page/DAYDREAM_TRACKS.md "wikilink") ([1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")) - Epic Sony よりリリース
+  - [FINAL MIX](../Page/FINAL_MIX.md "wikilink")（[1988年](../Page/1988年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")）
+  - [PINK THE BEST](../Page/PINK_THE_BEST.md "wikilink")（[2002年](../Page/2002年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）
   - [ゴールデン☆ベスト ULTIMATE](https://ja.wikipedia.org/wiki/ゴールデン☆ベスト_ULTIMATE "wikilink")（[2011年](../Page/2011年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")）
 
 ### BOXセット
@@ -175,18 +175,18 @@
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
       - "RADICAL CHIC CIRCUIT"
         1.  [3月29日](../Page/3月29日.md "wikilink")（土） 東京・中野サンプラザ
-        2.  [4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")（火）京都会館第２ホール
+        2.  [4月8日](../Page/4月8日.md "wikilink")（火）京都会館第２ホール
         3.  [4月10日](../Page/4月10日.md "wikilink")（木）広島県民文化センター
         4.  [4月11日](../Page/4月11日.md "wikilink")（金）熊本郵便貯金会館
         5.  [4月12日](../Page/4月12日.md "wikilink")（土）福岡・[都久志会館](https://ja.wikipedia.org/wiki/都久志会館 "wikilink")
         6.  [4月15日](../Page/4月15日.md "wikilink")（火）名古屋市芸術創造センター
-        7.  [4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")（水）金沢・金沢市文化ホール
+        7.  [4月16日](../Page/4月16日.md "wikilink")（水）金沢・金沢市文化ホール
         8.  [4月18日](../Page/4月18日.md "wikilink")（金）新潟・新潟県民会館小ホール
         9.  [4月21日](../Page/4月21日.md "wikilink")（月）札幌・札幌道新ホール
         10. [4月23日](../Page/4月23日.md "wikilink")（水）仙台・仙台電力ホール
         11. [5月1日](../Page/5月1日.md "wikilink")（木）高知県民グリーンホール
-        12. [5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")（土）大阪・厚生年金会館中ホール
-      - "ANN CALL" at 日比谷野音に参加。[近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")と共演。（[6月8日](../Page/6月8日.md "wikilink")）
+        12. [5月3日](../Page/5月3日.md "wikilink")（土）大阪・厚生年金会館中ホール
+      - "ANN CALL" at 日比谷野音に参加。[近田春夫](../Page/近田春夫.md "wikilink")と共演。（[6月8日](../Page/6月8日.md "wikilink")）
       - LIVE at 亜細亜大 （[6月29日](../Page/6月29日.md "wikilink")）
       - "The 3rd Summer Exciting" at 後楽園ホール（Opening Act. ちわきまゆみ [7月26日](../Page/7月26日.md "wikilink")）
       - "[POP HILL](https://ja.wikipedia.org/wiki/POP_HILL "wikilink")" at 石川県森林公園に参加 （[8月3日](../Page/8月3日.md "wikilink")）
@@ -234,12 +234,12 @@
 
   - [SPACE CIRCUS](https://ja.wikipedia.org/wiki/スペース・サーカス "wikilink")
   - [人種熱](https://ja.wikipedia.org/wiki/人種熱 "wikilink") （ビブラトーンズの原型）
-  - [爆風銃](https://ja.wikipedia.org/wiki/爆風銃 "wikilink") （[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")の原型）
+  - [爆風銃](https://ja.wikipedia.org/wiki/爆風銃 "wikilink") （[爆風スランプ](../Page/爆風スランプ.md "wikilink")の原型）
   - [ショコラータ](https://ja.wikipedia.org/wiki/ショコラータ "wikilink")
   - [東京ブラボー](https://ja.wikipedia.org/wiki/東京ブラボー "wikilink")
   - [近田春夫&ビブラトーンズ](https://ja.wikipedia.org/wiki/近田春夫&ビブラトーンズ "wikilink")
   - HERO
-  - Gypsy（アレレのレ。後の[スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")）
+  - Gypsy（アレレのレ。後の[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")）
   - SPAZRO
   - おピンク兄弟（PINKの原型）
   - ルージュ（逆井オサム在籍）
@@ -266,28 +266,28 @@
   - [氷室京介](../Page/氷室京介.md "wikilink")
   - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
   - [大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink") - EPIC SONY時代、バックバンドでライブ参加
-  - [近田春夫](https://ja.wikipedia.org/wiki/近田春夫 "wikilink")
-  - [パール兄弟](https://ja.wikipedia.org/wiki/パール兄弟 "wikilink")
-  - [ちわきまゆみ](https://ja.wikipedia.org/wiki/ちわきまゆみ "wikilink")
-  - [山下久美子](https://ja.wikipedia.org/wiki/山下久美子 "wikilink")
+  - [近田春夫](../Page/近田春夫.md "wikilink")
+  - [パール兄弟](../Page/パール兄弟.md "wikilink")
+  - [ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")
+  - [山下久美子](../Page/山下久美子.md "wikilink")
   - [SALON MUSIC](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")
   - [DEAD END](https://ja.wikipedia.org/wiki/DEAD_END "wikilink")
   - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")
-  - [スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")
-  - [センチメンタル・バス](https://ja.wikipedia.org/wiki/センチメンタル・バス "wikilink")
-  - [レナード衛藤](https://ja.wikipedia.org/wiki/レナード衛藤 "wikilink")
+  - [スターダストレビュー](../Page/スターダストレビュー.md "wikilink")
+  - [センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")
+  - [レナード衛藤](../Page/レナード衛藤.md "wikilink")
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
   - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")
   - [米米CLUB](../Page/米米CLUB.md "wikilink")
-  - [かの香織](https://ja.wikipedia.org/wiki/かの香織 "wikilink")
+  - [かの香織](../Page/かの香織.md "wikilink")
   - [斉藤ネコ](https://ja.wikipedia.org/wiki/斉藤ネコ "wikilink")
   - [じゃがたら](https://ja.wikipedia.org/wiki/じゃがたら "wikilink")
-  - [爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")
-  - [UP-BEAT](https://ja.wikipedia.org/wiki/UP-BEAT "wikilink")
+  - [爆風スランプ](../Page/爆風スランプ.md "wikilink")
+  - [UP-BEAT](../Page/UP-BEAT.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:過去の渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:過去の渡辺プロ系列所属者 "wikilink") [Category:1983年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1983年に結成した音楽グループ "wikilink")
 
-1.  『PINK BOX 所収ブックレット』、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")、2013、EAN 4943674138609
+1.  『PINK BOX 所収ブックレット』、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")、2013、EAN 4943674138609
 2.
 3.  ホッピー神山もビブラトーンズの前に爆風銃に参加している
 4.
@@ -297,4 +297,4 @@
 8.
 9.
 10. ビブラトーンズ在籍中の両者の名義が「土肥座円陣」、「やかべカメオ」だったことにちなむ。
-11. 「[DAYDREAM TRACKS](https://ja.wikipedia.org/wiki/DAYDREAM_TRACKS "wikilink")」に未発表のReflections、水の都、Solar Eclipse（ライヴ版）、Don't Stop Passengers（シングル版、初CD化）、Doctor-D Rock（リミックス、未発表）、Traveller（リミックス、初CD化）を追加。
+11. 「[DAYDREAM TRACKS](../Page/DAYDREAM_TRACKS.md "wikilink")」に未発表のReflections、水の都、Solar Eclipse（ライヴ版）、Don't Stop Passengers（シングル版、初CD化）、Doctor-D Rock（リミックス、未発表）、Traveller（リミックス、初CD化）を追加。

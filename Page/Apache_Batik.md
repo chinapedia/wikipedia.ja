@@ -9,7 +9,7 @@
 
 ## 概要
 
-Apache Batikは、次の機能を提供する複数の核となる[モジュール](https://ja.wikipedia.org/wiki/モジュール "wikilink")を提供する。
+Apache Batikは、次の機能を提供する複数の核となる[モジュール](../Page/モジュール.md "wikilink")を提供する。
 
   - SVG画像データを描画する。
   - SVG画像データを編集・修整する。

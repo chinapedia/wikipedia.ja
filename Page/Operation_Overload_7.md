@@ -7,7 +7,7 @@
 
   - ヒット曲[Gamble Rumbleの発売後すぐにリリースされ](../Page/Gamble_Rumble.md "wikilink")、好調な売り上げを記録した。
   - 初回盤は特殊パッケージ仕様、ボーナス・トラックとして「destiny」のオリジナル・ヴァージョンを収録。
-  - タイトルである「Operation Overload」とは、第二次世界大戦における「[ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")」の事である。また、略称は「OO7」で、「[007](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")」シリーズと掛けている。
+  - タイトルである「Operation Overload」とは、第二次世界大戦における「[ノルマンディー上陸作戦](../Page/ノルマンディー上陸作戦.md "wikilink")」の事である。また、略称は「OO7」で、「[007](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")」シリーズと掛けている。
 
 ## 収録曲
 
@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
 
 [en:Operation Overload 7 (album)](https://ja.wikipedia.org/wiki/en:Operation_Overload_7_\(album\) "wikilink")
 

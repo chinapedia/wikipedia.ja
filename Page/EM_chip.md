@@ -1,7 +1,7 @@
 > この記事は[EM chip](https://ja.wikipedia.org/wiki/EM_chip)から翻訳されています。
 
 
-[280px](https://ja.wikipedia.org/wiki/file:EMOBILE_EM_chip_2013_01.jpg "wikilink") **EM chip**（エムチップ）\[1\]は、[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")のデータ通信サービスで使用される、[UIMカード](../Page/UIMカード.md "wikilink")の一種である。形状は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")など他社のUIMカードと同様である。
+[280px](https://ja.wikipedia.org/wiki/file:EMOBILE_EM_chip_2013_01.jpg "wikilink") **EM chip**（エムチップ）\[1\]は、[イー・モバイル](../Page/イー・モバイル.md "wikilink")のデータ通信サービスで使用される、[UIMカード](../Page/UIMカード.md "wikilink")の一種である。形状は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")など他社のUIMカードと同様である。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 データ用EM chipのIC端子面は赤、裏面は白であり、音声用EM chipのIC端子面は黒、裏面は白である(後継の[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ブランドでは、色は赤で統一され、種類は番号で識別される)。
 
-製造元は[ジェムアルト](https://ja.wikipedia.org/wiki/ジェムアルト "wikilink")（日本法人）、[大日本印刷](https://ja.wikipedia.org/wiki/大日本印刷 "wikilink")、オベルチュール・テクノロジーズ（日本法人）の3社が確認されている。3G方式のジェムアルト製SIMの端子仕様は旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")の仕様のものではなく、旧[ジェムプラス](../Page/ジェムプラス.md "wikilink")の仕様に準拠している。なお、[EMOBILE LTE契約の場合](https://ja.wikipedia.org/wiki/EMOBILE_LTE "wikilink")、裏面にLTEと表示されており、音声端末用の黒のカードとは更に別仕様となっている。
+製造元は[ジェムアルト](../Page/ジェムアルト.md "wikilink")（日本法人）、[大日本印刷](../Page/大日本印刷.md "wikilink")、オベルチュール・テクノロジーズ（日本法人）の3社が確認されている。3G方式のジェムアルト製SIMの端子仕様は旧[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")の仕様のものではなく、旧[ジェムプラス](../Page/ジェムプラス.md "wikilink")の仕様に準拠している。なお、[EMOBILE LTE契約の場合](https://ja.wikipedia.org/wiki/EMOBILE_LTE "wikilink")、裏面にLTEと表示されており、音声端末用の黒のカードとは更に別仕様となっている。
 
 なお、EM chip <micro>のカードサイズは通常のカードサイズの半分程度になっている。
 
@@ -31,7 +31,7 @@
 
 機能的にも他社のものとほぼ同一であるが、イー・モバイルのサービスがまだ発展途上であることに加え、他社ではドコモの東名阪地域でしか運用されていない、UMTSの周波数帯バンド9のみを使用しているため、運用面で以下のような制約・特徴がある。
 
-  - 従来は、端末の購入を伴わないEM chipのみの新規契約は行っていなかったが、[東日本電信電話](../Page/東日本電信電話.md "wikilink")が光ポータブル利用者向けにレンタルで提供する、PWR-100F（[バッファロー](https://ja.wikipedia.org/wiki/バッファロー_\(パソコン周辺機器\) "wikilink")・[DWR-PG](https://ja.wikipedia.org/wiki/DWR-PG "wikilink")のNTT東日本OEM商品版のうち、タイプBとされるSIMフリー版\[4\]）の提供に併せ、同利用者に限り、データ向けEM chipの単体契約ができるようになった\[5\]。その後、3G契約についてはデータ・音声ともにEM chip単体での契約が可能となったが、LTE向けEM chip（EM chip LTE）については、現在も単体契約は不可である\[6\]。
+  - 従来は、端末の購入を伴わないEM chipのみの新規契約は行っていなかったが、[東日本電信電話](../Page/東日本電信電話.md "wikilink")が光ポータブル利用者向けにレンタルで提供する、PWR-100F（[バッファロー](../Page/バッファロー_\(パソコン周辺機器\).md "wikilink")・[DWR-PG](https://ja.wikipedia.org/wiki/DWR-PG "wikilink")のNTT東日本OEM商品版のうち、タイプBとされるSIMフリー版\[4\]）の提供に併せ、同利用者に限り、データ向けEM chipの単体契約ができるようになった\[5\]。その後、3G契約についてはデータ・音声ともにEM chip単体での契約が可能となったが、LTE向けEM chip（EM chip LTE）については、現在も単体契約は不可である\[6\]。
 
 <!-- end list -->
 
@@ -39,15 +39,15 @@
 
 ## その他
 
-[S11HT](https://ja.wikipedia.org/wiki/S11HT "wikilink"),[S21HT](https://ja.wikipedia.org/wiki/S21HT "wikilink"),[S22HT](https://ja.wikipedia.org/wiki/S22HT "wikilink"),[H11HW](https://ja.wikipedia.org/wiki/H11HW "wikilink"),[H12HW](https://ja.wikipedia.org/wiki/H12HW "wikilink")を海外で利用する場合に、EM chipを取り外して現地契約の[SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")を取り付けて利用することも可能である。これは、音声サービス開始当初の時点では国際ローミングを提供しておらず、海外仕様のUIMカードに対しては[SIMロック](../Page/SIMロック.md "wikilink")をあえて付けなかったためである。ちなみに、データ端末ではD41HW以降、音声端末では[S31HT](https://ja.wikipedia.org/wiki/S31HT "wikilink")および[S31HW](https://ja.wikipedia.org/wiki/S31HW "wikilink")以降に発売された端末については、日本国内を含め完全にSIMフリーの状態で発売されている。よって、UMTS[2.1GHz帯](https://ja.wikipedia.org/wiki/2.1GHz帯 "wikilink")（バンド1）に対応した機種（S31HTは非対応）の場合は、日本国内では、[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")や[SoftBank 3G USIMカードを差し込めば通話や](https://ja.wikipedia.org/wiki/SoftBank_3G_USIMカード "wikilink")[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")、[テザリング](https://ja.wikipedia.org/wiki/テザリング "wikilink")などが利用可能となる。
+[S11HT](https://ja.wikipedia.org/wiki/S11HT "wikilink"),[S21HT](https://ja.wikipedia.org/wiki/S21HT "wikilink"),[S22HT](https://ja.wikipedia.org/wiki/S22HT "wikilink"),[H11HW](https://ja.wikipedia.org/wiki/H11HW "wikilink"),[H12HW](https://ja.wikipedia.org/wiki/H12HW "wikilink")を海外で利用する場合に、EM chipを取り外して現地契約の[SIMカード](../Page/SIMカード.md "wikilink")を取り付けて利用することも可能である。これは、音声サービス開始当初の時点では国際ローミングを提供しておらず、海外仕様のUIMカードに対しては[SIMロック](../Page/SIMロック.md "wikilink")をあえて付けなかったためである。ちなみに、データ端末ではD41HW以降、音声端末では[S31HT](https://ja.wikipedia.org/wiki/S31HT "wikilink")および[S31HW](https://ja.wikipedia.org/wiki/S31HW "wikilink")以降に発売された端末については、日本国内を含め完全にSIMフリーの状態で発売されている。よって、UMTS[2.1GHz帯](https://ja.wikipedia.org/wiki/2.1GHz帯 "wikilink")（バンド1）に対応した機種（S31HTは非対応）の場合は、日本国内では、[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")や[SoftBank 3G USIMカードを差し込めば通話や](../Page/SoftBank_3G_USIMカード.md "wikilink")[SMS](https://ja.wikipedia.org/wiki/SMS "wikilink")、[テザリング](https://ja.wikipedia.org/wiki/テザリング "wikilink")などが利用可能となる。
 
-なお、国内で他社の[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")ネットワークを利用できるのは、国内ローミングに対応する[H11T](https://ja.wikipedia.org/wiki/H11T "wikilink")のみ\[7\]。[H31IA](https://ja.wikipedia.org/wiki/H31IA "wikilink"),[S22HT](https://ja.wikipedia.org/wiki/S22HT "wikilink"),[H11LC](https://ja.wikipedia.org/wiki/H11LC "wikilink")については、国際ローミング利用時に限り[2GHz帯](https://ja.wikipedia.org/wiki/2GHz帯 "wikilink")UMTSを利用できる仕様となっている（なお、S3x系以降のスマートフォンについては、他社UIMへ差し替えることで、国内利用も可能だが、[FOMAプラスエリア](https://ja.wikipedia.org/wiki/FOMAプラスエリア "wikilink")(バンド6)やSBMが[ULTRA SPEEDのメインバンドとして利用するバンド](https://ja.wikipedia.org/wiki/ULTRA_SPEED "wikilink")11での利用は不可）。これはGSMネットワークの無い韓国でローミングする場合に必須要件となる。加えて、[S51SE](https://ja.wikipedia.org/wiki/S51SE "wikilink")および[GS01](https://ja.wikipedia.org/wiki/GS01 "wikilink")利用時には、[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")バンド8（[900MHz帯](https://ja.wikipedia.org/wiki/900MHz帯 "wikilink")）が利用できる。日本国内では、[2012年](../Page/2012年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に開始された[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")における「[プラチナバンド](https://ja.wikipedia.org/wiki/プラチナバンド_\(ソフトバンクモバイル\) "wikilink")」対応エリアで利用可能。
+なお、国内で他社の[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")ネットワークを利用できるのは、国内ローミングに対応する[H11T](../Page/H11T.md "wikilink")のみ\[7\]。[H31IA](https://ja.wikipedia.org/wiki/H31IA "wikilink"),[S22HT](https://ja.wikipedia.org/wiki/S22HT "wikilink"),[H11LC](https://ja.wikipedia.org/wiki/H11LC "wikilink")については、国際ローミング利用時に限り[2GHz帯](../Page/2GHz帯.md "wikilink")UMTSを利用できる仕様となっている（なお、S3x系以降のスマートフォンについては、他社UIMへ差し替えることで、国内利用も可能だが、[FOMAプラスエリア](../Page/FOMAプラスエリア.md "wikilink")(バンド6)やSBMが[ULTRA SPEEDのメインバンドとして利用するバンド](https://ja.wikipedia.org/wiki/ULTRA_SPEED "wikilink")11での利用は不可）。これはGSMネットワークの無い韓国でローミングする場合に必須要件となる。加えて、[S51SE](https://ja.wikipedia.org/wiki/S51SE "wikilink")および[GS01](https://ja.wikipedia.org/wiki/GS01 "wikilink")利用時には、[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")バンド8（[900MHz帯](https://ja.wikipedia.org/wiki/900MHz帯 "wikilink")）が利用できる。日本国内では、[2012年](../Page/2012年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に開始された[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")における「[プラチナバンド](https://ja.wikipedia.org/wiki/プラチナバンド_\(ソフトバンクモバイル\) "wikilink")」対応エリアで利用可能。
 
 因みに、赤いEM chipの場合、その番号にかけた場合は、一般的な未使用番号（変更されて使われなくなった番号）にかけた場合同様、「現在使われておりません」となり、ドコモの[DoPa](https://ja.wikipedia.org/wiki/DoPa "wikilink")のような、「こちらはNTTドコモです。おかけになった*電話番号*は、*お客様のご指定により、パケット通信サービス*専用となっており、音声によるご利用は出来ません。*恐れ入りますが*番号をお確かめになって、お掛け直し下さい」のような特段のガイダンスはない。
 
 ## 関連項目
 
-  - [SIMカード](https://ja.wikipedia.org/wiki/SIMカード "wikilink")
+  - [SIMカード](../Page/SIMカード.md "wikilink")
   - [UIMカード](../Page/UIMカード.md "wikilink")
 
 ## 註釈
@@ -62,4 +62,4 @@
 4.  後に、後継となるPWR-Q200も登場し、NTT西日本では、これに代わって、LTE網にも対応したPWR-N1000をバッファローと[NECアクセステクニカ](https://ja.wikipedia.org/wiki/NECアクセステクニカ "wikilink")の共同開発により提供開始している。因みに、N1000は、microSIMを利用するタイプとなっている。
 5.  [イー・モバイル NTT東日本「光ポータブル」対象 3G データ通信サービス申し込み受付](https://store.emobile.jp/sp/hikari/)
 6.  [知人から譲り受けたイーモバイルの端末がありますが、EM Chip（USIMカード）のみを新規契約することは可能でしょうか。](http://faq.emobile.jp/faq/view/100290)
-7.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")を以って、新規受付は終了している。ただし、ネットワークを提供する当時のドコモグループのうち7社（当初から東海・関西エリアは対象外であったため、全9社ではなかった。ただし、中央会社であるエヌ・ティ・ティ・ドコモ本体は、長野県のみローミング対象に含めていたため、提供会社に含まれていた。また、当時のドコモ北海道は、道央圏のみ対象外とし、それ以外はローミングエリアとしていた。その後、富山県・佐賀県がローミング対象外となっている）との協定により、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")を以って、残る23道県でのローミングサービスを終了する。なお、FOMAサービスエリア（バンド1）のみをローミング対象としており、[FOMAプラスエリア](https://ja.wikipedia.org/wiki/FOMAプラスエリア "wikilink")は対象外としていたことから、UMTSのバンド6は使えない仕様となっている。そして、前述のように長野県を除く東名阪エリアではローミング対象外であることから、国内では東名阪バンドとも称される、バンド9エリア（[1.7GHz帯](https://ja.wikipedia.org/wiki/1.7GHz帯 "wikilink")）でのローミングも無論対象外であった。
+7.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")を以って、新規受付は終了している。ただし、ネットワークを提供する当時のドコモグループのうち7社（当初から東海・関西エリアは対象外であったため、全9社ではなかった。ただし、中央会社であるエヌ・ティ・ティ・ドコモ本体は、長野県のみローミング対象に含めていたため、提供会社に含まれていた。また、当時のドコモ北海道は、道央圏のみ対象外とし、それ以外はローミングエリアとしていた。その後、富山県・佐賀県がローミング対象外となっている）との協定により、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月31日](../Page/10月31日.md "wikilink")を以って、残る23道県でのローミングサービスを終了する。なお、FOMAサービスエリア（バンド1）のみをローミング対象としており、[FOMAプラスエリア](../Page/FOMAプラスエリア.md "wikilink")は対象外としていたことから、UMTSのバンド6は使えない仕様となっている。そして、前述のように長野県を除く東名阪エリアではローミング対象外であることから、国内では東名阪バンドとも称される、バンド9エリア（[1.7GHz帯](https://ja.wikipedia.org/wiki/1.7GHz帯 "wikilink")）でのローミングも無論対象外であった。

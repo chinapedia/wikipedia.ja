@@ -1,4 +1,4 @@
-> この記事は[STATION](https://ja.wikipedia.org/wiki/STATION)から翻訳されています。
+> この記事は[愛日・麻衣のあいまいSTATION](https://ja.wikipedia.org/wiki/愛日・麻衣のあいまいSTATION)から翻訳されています。
 
 
 **愛日・麻衣のあいまいSTATION**（まなび・まいのあいまいすてーしょん）とは、[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[FM FUJIで放送されていたラジオ番組](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")。

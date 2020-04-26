@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNN第一テレビニュース](https://ja.wikipedia.org/wiki/NNN第一テレビニュース)から翻訳されています。
 
 
 『**第一テレビニュース**』（だいいちテレビニュース）とは、[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")で放送されていた[ローカルニュース番組である](../Page/報道番組.md "wikilink")。
@@ -22,9 +22,9 @@
 
 ## 20:55からの定時ニュース
 
-[1979年](../Page/1979年.md "wikilink")7月の開局時から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月まで、20時55分から放送されていた定時ニュース枠については『[NNNニューススポット](https://ja.wikipedia.org/wiki/NNNニューススポット "wikilink")』として日本テレビからのネット受けを主体として、不定期に県内ローカルニュースに差し替えるなどして放送されていたが、1985年から1986年頃から番組タイトルを『**NNN第一テレビニュース**』と改題し、静岡県内のローカルニュースに差し替えて放送していた（緊急時以外は一切ネットしていなかった）。
+[1979年](../Page/1979年.md "wikilink")7月の開局時から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月まで、20時55分から放送されていた定時ニュース枠については『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』として日本テレビからのネット受けを主体として、不定期に県内ローカルニュースに差し替えるなどして放送されていたが、1985年から1986年頃から番組タイトルを『**NNN第一テレビニュース**』と改題し、静岡県内のローカルニュースに差し替えて放送していた（緊急時以外は一切ネットしていなかった）。
 
-その後、2008年10月より、番組タイトルを『[FRONT ZERO](https://ja.wikipedia.org/wiki/FRONT_ZERO "wikilink")』（フロント・ゼロ）と改題し、[深夜の基幹ニュースのプレ枠的扱いとなった](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")。番組内容はこれまで通り静岡県内のローカルニュースを1、2項目伝えている。
+その後、2008年10月より、番組タイトルを『[FRONT ZERO](https://ja.wikipedia.org/wiki/FRONT_ZERO "wikilink")』（フロント・ゼロ）と改題し、[深夜の基幹ニュースのプレ枠的扱いとなった](https://ja.wikipedia.org/wiki/news_zero "wikilink")。番組内容はこれまで通り静岡県内のローカルニュースを1、2項目伝えている。
 
 キー局である[日本テレビが夜](../Page/日本テレビ放送網.md "wikilink")9時前のニュース枠から撤退した事もあり、この枠は完全ローカル対応となったが、基本的な番組フォーマットは『NNNニューススポット』時代を踏襲している。
 
@@ -40,7 +40,7 @@
 
 ## 関連番組
 
-  - [NNNニューススポット](https://ja.wikipedia.org/wiki/NNNニューススポット "wikilink")
+  - [NNNニューススポット](../Page/NNNニューススポット.md "wikilink")
   - [Today静岡](../Page/Today静岡.md "wikilink")
   - [Todayしずおか](../Page/Todayしずおか.md "wikilink")
   - [NNN Todayしずおか](../Page/NNN_Todayしずおか.md "wikilink")

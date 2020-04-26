@@ -1,18 +1,18 @@
-> この記事は[FCW \(\)](https://ja.wikipedia.org/wiki/FCW_\(\))から翻訳されています。
+> この記事は[FCW \(プロレス\)](https://ja.wikipedia.org/wiki/FCW_\(プロレス\))から翻訳されています。
 
 
-**FCW**（*Florida Championship Wrestling*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
+**FCW**（*Florida Championship Wrestling*）は、かつて存在していた[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
 
 ## 概要
 
-[WWE](../Page/WWE.md "wikilink")の下部団体[DSW](https://ja.wikipedia.org/wiki/DSW "wikilink")がWWEとの関係を解消したことにより旗揚げされた[ファーム](https://ja.wikipedia.org/wiki/ファーム "wikilink")団体。団体名は[1988年](../Page/1988年.md "wikilink")から[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")まで活動していた[同名団体からあやかった](https://ja.wikipedia.org/wiki/チャンピオンシップ・レスリング・フロム・フロリダ#エディ・グラハム死後 "wikilink")。設立者およびオーナーは**[スティーブ・カーン](https://ja.wikipedia.org/wiki/スティーブ・カーン "wikilink")**。本拠地は[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[タンパ](../Page/タンパ.md "wikilink")。初の興行は[2007年](../Page/2007年.md "wikilink")6月26日。[2012年](../Page/2012年.md "wikilink")8月からは[NXTとして始動](https://ja.wikipedia.org/wiki/WWE_NXT "wikilink")。
+[WWE](../Page/WWE.md "wikilink")の下部団体[DSW](../Page/DSW.md "wikilink")がWWEとの関係を解消したことにより旗揚げされた[ファーム](https://ja.wikipedia.org/wiki/ファーム "wikilink")団体。団体名は[1988年](../Page/1988年.md "wikilink")から[1991年](../Page/1991年.md "wikilink")まで活動していた[同名団体からあやかった](https://ja.wikipedia.org/wiki/チャンピオンシップ・レスリング・フロム・フロリダ#エディ・グラハム死後 "wikilink")。設立者およびオーナーは**[スティーブ・カーン](https://ja.wikipedia.org/wiki/スティーブ・カーン "wikilink")**。本拠地は[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[タンパ](../Page/タンパ.md "wikilink")。初の興行は[2007年](../Page/2007年.md "wikilink")6月26日。[2012年](../Page/2012年.md "wikilink")8月からは**[NXT](https://ja.wikipedia.org/wiki/WWE・NXT "wikilink")**として始動。
 
 ## タイトル
 
   - [FCWフロリダヘビー級王座](https://ja.wikipedia.org/wiki/FCWフロリダヘビー級王座 "wikilink")
   - [FCWフロリダタッグ王座](https://ja.wikipedia.org/wiki/FCWフロリダタッグチーム王座 "wikilink")
   - [FCWフロリダディーヴァズ王座](https://ja.wikipedia.org/wiki/FCWフロリダディーヴァズ王座 "wikilink")
-  - [FCW南部ヘビー級王座](https://ja.wikipedia.org/wiki/FCW南部ヘビー級王座 "wikilink")
+  - [FCW南部ヘビー級王座](../Page/FCW南部ヘビー級王座.md "wikilink")
   - [FCW15王座](https://ja.wikipedia.org/wiki/FCW15王座 "wikilink")
   - [クイーン・オブ・FCW](https://ja.wikipedia.org/wiki/クイーン・オブ・FCW "wikilink")
 
@@ -24,13 +24,13 @@
   - [アレックス・ライリー](https://ja.wikipedia.org/wiki/ケビン・カイリー "wikilink")（Alex Riley）
   - [アントニオ・セザーロ](https://ja.wikipedia.org/wiki/クラウディオ・カスタニョーリ "wikilink")（Antonio Cesaro）（クラウディオ・カスタニョーリ）
   - [イーライ・コットンウッド](https://ja.wikipedia.org/wiki/キップ・クリスチャンソン "wikilink")（Eli Cottonwood）
-  - [ヴァンス・アーチャー](https://ja.wikipedia.org/wiki/ランス・ホイット "wikilink")（Vance Archer）
+  - [ヴァンス・アーチャー](../Page/ランス・ホイット.md "wikilink")（Vance Archer）
   - [ウェイド・バレット](https://ja.wikipedia.org/wiki/ステュー・ベネット "wikilink")（Wade Barrett）（ステュー・サンダース）
   - [ウラジミール・コズロフ](https://ja.wikipedia.org/wiki/オレッグ・プルディウス "wikilink")（Vladimir Kozlov）
   - [エイブラハム・ワシントン](https://ja.wikipedia.org/wiki/ブライアン・ジョシー "wikilink")（Abraham Washington）
   - [エピコ](https://ja.wikipedia.org/wiki/オーランド・コロン "wikilink")（Epico）（ティト・コロン）
   - [カート・ホーキンス](https://ja.wikipedia.org/wiki/ブライアン・マイヤーズ "wikilink")（Curt Hawkins）
-  - [カヴァル](https://ja.wikipedia.org/wiki/ブランドン・シルベストリー "wikilink")（Kaval）（ロウ・キー）
+  - [カヴァル](../Page/ブランドン・シルベストリー.md "wikilink")（Kaval）（ロウ・キー）
   - [カマーチョ](https://ja.wikipedia.org/wiki/テヴィタ・フィフィタ "wikilink")（Camacho）（ドニー・マーロウ）
   - [キザーニー](https://ja.wikipedia.org/wiki/ニック・クヴジェトコビッチ "wikilink")（Kizarny）
   - [ギャビン・スピアーズ](https://ja.wikipedia.org/wiki/ロニー・アルニール "wikilink")（Gavin Spears）
@@ -52,7 +52,7 @@
   - [タイソン・キッド](https://ja.wikipedia.org/wiki/セオドア・ウィルソン "wikilink")（Tyson Kidd）（スタンピード・キッド）
   - [タイタス・オニール](https://ja.wikipedia.org/wiki/サデウス・バラード "wikilink")（Titus O'Neil）
   - [タイラー・レックス](https://ja.wikipedia.org/wiki/ガブリエル・タフト "wikilink")（Tyler Reks）
-  - [ダニエル・ブライアン](https://ja.wikipedia.org/wiki/ブライアン・ダニエルソン "wikilink")（Daniel Bryan）（ブライアン・ダニエルソン）
+  - [ダニエル・ブライアン](../Page/ブライアン・ダニエルソン.md "wikilink")（Daniel Bryan）（ブライアン・ダニエルソン）
   - [ダミアン・サンドウ](https://ja.wikipedia.org/wiki/アーロン・ハダッド "wikilink")（Damien Sandow）（アイドル・スティーブンス）
   - [ダレン・ヤング](https://ja.wikipedia.org/wiki/フレッド・ルーザー "wikilink")（Darren Young）
   - [DJガブリエル](https://ja.wikipedia.org/wiki/スティーブン・レウィントン "wikilink")（DJ Gabriel）
@@ -67,14 +67,14 @@
   - [ハスキー・ハリス](https://ja.wikipedia.org/wiki/ウィンダム・ロタンダ "wikilink") (Husky Harris)
   - [ヒース・スレイター](https://ja.wikipedia.org/wiki/ヒース・スレイター "wikilink")（Heath Slater）（ヒース・ミラー）
   - [フニコ](https://ja.wikipedia.org/wiki/フニコ "wikilink")（Hunico）（インコグニート）
-  - [プリモ](https://ja.wikipedia.org/wiki/エディ・コロン "wikilink")（Primo）
+  - [プリモ](../Page/エディ・コロン.md "wikilink")（Primo）
   - [ブローダス・クレイ](https://ja.wikipedia.org/wiki/ブローダス・クレイ "wikilink")（Brodus Clay）（G・リラ）
   - [マイク・ノックス](https://ja.wikipedia.org/wiki/マイク・ノックス "wikilink")（Mike Knox）
   - [マイケル・ターヴァー](https://ja.wikipedia.org/wiki/タイロン・エヴァンス "wikilink")（Michael Tarver）
   - [マイケル・マクギリカティ](https://ja.wikipedia.org/wiki/ジョー・ヘニング "wikilink")（Michael McGillicuty）（ジョー・ヘニング）
   - [マヌ](https://ja.wikipedia.org/wiki/アファ・アノアイ・ジュニア "wikilink")（Manu）
   - [メイソン・ライアン](https://ja.wikipedia.org/wiki/バリー・グリフィス "wikilink")（Mason Ryan）
-  - [ヨシ・タツ](https://ja.wikipedia.org/wiki/山本尚史 "wikilink")(Yoshi Tatsu)（山本尚史）
+  - [ヨシ・タツ](../Page/山本尚史.md "wikilink")(Yoshi Tatsu)（山本尚史）
   - [ラッキー・キャノン](https://ja.wikipedia.org/wiki/ジョン・エミンジャー "wikilink")（Lucky Cannon）
   - [リカルド・ロドリゲス](https://ja.wikipedia.org/wiki/ヘスス・ロドリゲス "wikilink")（Ricardo Rodriguez）
   - [リッキー・オルティズ](https://ja.wikipedia.org/wiki/リチャード・ヤング "wikilink")（Ricky Ortiz）
@@ -114,7 +114,7 @@
   - [ケーブル・ジョーンズ](https://ja.wikipedia.org/wiki/ドナルド・ムーア "wikilink")（Cable Jones）
   - [コンラッド・タナー](https://ja.wikipedia.org/wiki/カイル・ラスムッセン "wikilink")（Conrad Tanner）
   - [ジャイアント・タイタン](https://ja.wikipedia.org/wiki/マイケル・ジャーヴィ "wikilink")（The Giant Titan）
-  - [ジロー](https://ja.wikipedia.org/wiki/滝澤大志 "wikilink") (Jiro)
+  - [ジロー](../Page/滝澤大志.md "wikilink") (Jiro)
   - [ドレイク・ブリュワー](../Page/ジョー・ドーリング.md "wikilink")（Drake Brewer）（ジョー・ドーリング）
   - [ショーン・オズボーン](https://ja.wikipedia.org/wiki/ショーン・マクグラス "wikilink")（Shawn Osborne）
   - [スウィート・パピ・サンチェス](https://ja.wikipedia.org/wiki/ブラック・ペイン "wikilink")（Sweet Papi Sanchez）

@@ -1,13 +1,13 @@
 > この記事は[Birthday Suit](https://ja.wikipedia.org/wiki/Birthday_Suit)から翻訳されています。
 
 
-**Birthday Suit**（バースディ・スーツ）は、日本の[フォークデュオ](https://ja.wikipedia.org/wiki/フォークデュオ "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身の[佐木伸誘](../Page/佐木伸誘.md "wikilink")・[松崎真人](../Page/松崎真人.md "wikilink")の2人で構成される。[2000年](../Page/2000年.md "wikilink")から活動を休止している。
+**Birthday Suit**（バースディ・スーツ）は、日本の[フォークデュオ](../Page/フォークデュオ.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身の[佐木伸誘](../Page/佐木伸誘.md "wikilink")・[松崎真人](../Page/松崎真人.md "wikilink")の2人で構成される。[2000年](../Page/2000年.md "wikilink")から活動を休止している。
 
 ## 概要・来歴
 
 同郷の[佐木伸誘](../Page/佐木伸誘.md "wikilink")と[松崎真人](../Page/松崎真人.md "wikilink")の二人によって結成される。
 
-[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われたアルバム『CLOSET』を[東芝EMIより発表し](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、以後アルバム4枚、シングル7枚を発表。2000年に無期限で活動を停止した。
+[ニューヨーク](../Page/ニューヨーク.md "wikilink")で[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われたアルバム『CLOSET』を[東芝EMIより発表し](../Page/EMIミュージック・ジャパン.md "wikilink")、以後アルバム4枚、シングル7枚を発表。2000年に無期限で活動を停止した。
 
 現在、佐木は[Lab-Siva](https://ja.wikipedia.org/wiki/Lab-Siva "wikilink")で活動。松崎もソロで活動中。
 
@@ -39,7 +39,7 @@
 
   - **BROTHR TO KIDS** （1994年4月 - 1994年6月）
   - **LOVE TRACK KYOTO** （1994年4月 - 1996年3月）
-  - **[アタックヤング](https://ja.wikipedia.org/wiki/アタックヤング "wikilink")** （1994年10月 - 1995年9月）
+  - **[アタックヤング](../Page/アタックヤング.md "wikilink")** （1994年10月 - 1995年9月）
   - **WE ARE OPEN** （1995年4月 - 1996年9月）
 
 ## 外部リンク

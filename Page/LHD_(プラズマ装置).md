@@ -1,12 +1,12 @@
-> この記事は[LHD \(\)](https://ja.wikipedia.org/wiki/LHD_\(\))から翻訳されています。
+> この記事は[LHD \(プラズマ装置\)](https://ja.wikipedia.org/wiki/LHD_\(プラズマ装置\))から翻訳されています。
 
 
-**LHD**（Large Helical Device、大型ヘリカル装置）は核融合研究の為に日本の[自然科学研究機構](https://ja.wikipedia.org/wiki/自然科学研究機構 "wikilink")[核融合科学研究所](https://ja.wikipedia.org/wiki/核融合科学研究所 "wikilink")(NIFS)のLHDプロジェクトによって製作された大型のヘリカル・ヘリオトロン型のプラズマ装置。日本独自の[ヘリカル型](https://ja.wikipedia.org/wiki/ヘリカル型 "wikilink")磁場方式が用いられ、1時間以上にも亘る長時間のプラズマ持続や、\(10^{16}\)個\(/cm^{3}\)の高密度プラズマを成功させた。
+**LHD**（Large Helical Device、大型ヘリカル装置）は核融合研究の為に日本の[自然科学研究機構](../Page/自然科学研究機構.md "wikilink")[核融合科学研究所](../Page/核融合科学研究所.md "wikilink")(NIFS)のLHDプロジェクトによって製作された大型のヘリカル・ヘリオトロン型のプラズマ装置。日本独自の[ヘリカル型](../Page/ヘリカル型.md "wikilink")磁場方式が用いられ、1時間以上にも亘る長時間のプラズマ持続や、\(10^{16}\)個\(/cm^{3}\)の高密度プラズマを成功させた。
 
 ## 沿革
 
-  - 1987年7月- [岐阜県](../Page/岐阜県.md "wikilink")[土岐市](https://ja.wikipedia.org/wiki/土岐市 "wikilink")の土地約47万m2を購入
-  - 1989年 - [核融合科学研究所](https://ja.wikipedia.org/wiki/核融合科学研究所 "wikilink")設立
+  - 1987年7月- [岐阜県](../Page/岐阜県.md "wikilink")[土岐市](../Page/土岐市.md "wikilink")の土地約47万m2を購入
+  - 1989年 - [核融合科学研究所](../Page/核融合科学研究所.md "wikilink")設立
   - 1990年 - 土岐実験施設・管理研究所棟・建設開始
   - 1997年12月 - LHD装置本体完成
   - 1998年3月31日- LHD装置ファーストプラズマ点火に成功
@@ -36,7 +36,7 @@
 ## 技術と周辺装置
 
   - プラズマを閉じ込める磁場を作るため、ヘリカルコイルとポロイダルコイルが設置されている。ヘリカルコイルはらせん状に巻かれた2本のコイルであり、ドーナツを取り巻くように設置されている。
-  - LHDの主なコイルには超伝導コイルが使われており、磁場閉じ込め核融合実験装置としては世界初である。本装置以外の[ヘリカル型](https://ja.wikipedia.org/wiki/ヘリカル型 "wikilink")装置では、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[マックス・プランク研究所](https://ja.wikipedia.org/wiki/マックス・プランク研究所 "wikilink")で建設中の「ヴェンデルシュタイン7X計画」でも、超伝導コイルを使った実験を行う予定である。また、トカマク型では2009年に中国が、等離子体物理研究所において超伝導を用いた装置([EAST](https://ja.wikipedia.org/wiki/EAST "wikilink"))を完成させている。
+  - LHDの主なコイルには超伝導コイルが使われており、磁場閉じ込め核融合実験装置としては世界初である。本装置以外の[ヘリカル型](../Page/ヘリカル型.md "wikilink")装置では、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[マックス・プランク研究所](../Page/マックス・プランク研究所.md "wikilink")で建設中の「ヴェンデルシュタイン7X計画」でも、超伝導コイルを使った実験を行う予定である。また、トカマク型では2009年に中国が、等離子体物理研究所において超伝導を用いた装置([EAST](https://ja.wikipedia.org/wiki/EAST "wikilink"))を完成させている。
 
 <!-- end list -->
 
@@ -44,14 +44,14 @@
 
 <!-- end list -->
 
-  - この装置で得られた結果は、現在建設が進められている[ITER](../Page/ITER.md "wikilink")（[トカマク型](https://ja.wikipedia.org/wiki/トカマク型 "wikilink")）や日本原子力研究開発機構の[JT-60](https://ja.wikipedia.org/wiki/JT-60 "wikilink")SA（[トカマク型](https://ja.wikipedia.org/wiki/トカマク型 "wikilink")）でも役立てられている。
+  - この装置で得られた結果は、現在建設が進められている[ITER](../Page/ITER.md "wikilink")（[トカマク型](../Page/トカマク型.md "wikilink")）や日本原子力研究開発機構の[JT-60](../Page/JT-60.md "wikilink")SA（[トカマク型](../Page/トカマク型.md "wikilink")）でも役立てられている。
 
 ## その他
 
 ### 技術的解説
 
   - 原子核融合炉を実現するためには、各フェーズがある。研究炉（本装置がそれに当たる）、実験炉（ITERなどがそれに当たる）、実証炉（商業実証運転を行う装置）、そして商業炉である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在の原子核融合技術は、研究炉と実験炉の中間に当たるフェーズに相当する。
-  - 核融合技術で商業実証運転までたどり着けるのは、建設費などの制約条件により、当面は[トカマク型](https://ja.wikipedia.org/wiki/トカマク型 "wikilink")が先行している。しかしながら、日本としては将来的には[慣性型](https://ja.wikipedia.org/wiki/慣性型 "wikilink")や[ヘリカル型](https://ja.wikipedia.org/wiki/ヘリカル型 "wikilink")なども候補に挙がってくると考えられるので、現在も研究を継続している（慣性型・[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")、ヘリカル型・本研究所）。
+  - 核融合技術で商業実証運転までたどり着けるのは、建設費などの制約条件により、当面は[トカマク型](../Page/トカマク型.md "wikilink")が先行している。しかしながら、日本としては将来的には[慣性型](https://ja.wikipedia.org/wiki/慣性型 "wikilink")や[ヘリカル型](../Page/ヘリカル型.md "wikilink")なども候補に挙がってくると考えられるので、現在も研究を継続している（慣性型・[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")、ヘリカル型・本研究所）。
 
 ### ヘリカル装置
 
@@ -73,7 +73,7 @@
 ### 設置運用機関
 
   - [文部科学省](../Page/文部科学省.md "wikilink")
-      - [自然科学研究機構](https://ja.wikipedia.org/wiki/自然科学研究機構 "wikilink")[核融合科学研究所](https://ja.wikipedia.org/wiki/核融合科学研究所 "wikilink")
+      - [自然科学研究機構](../Page/自然科学研究機構.md "wikilink")[核融合科学研究所](../Page/核融合科学研究所.md "wikilink")
 
 ### 研究対象
 
@@ -82,7 +82,7 @@
 ### 装置
 
   - [核融合炉](../Page/核融合炉.md "wikilink")
-  - [ヘリカル型](https://ja.wikipedia.org/wiki/ヘリカル型 "wikilink")
+  - [ヘリカル型](../Page/ヘリカル型.md "wikilink")
 
 ### 政治・技術
 

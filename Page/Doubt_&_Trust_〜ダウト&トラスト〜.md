@@ -1,18 +1,18 @@
-> この記事は[Doubt \& Trust \&](https://ja.wikipedia.org/wiki/Doubt_\&_Trust_\&)から翻訳されています。
+> この記事は[Doubt \& Trust 〜ダウト\&トラスト〜](https://ja.wikipedia.org/wiki/Doubt_\&_Trust_〜ダウト\&トラスト〜)から翻訳されています。
 
 
-「**Doubt & Trust 〜ダウト&トラスト〜**」（ダウト アンド トラスト）は[2007年](../Page/2007年.md "wikilink")10月31日に[リリース](https://ja.wikipedia.org/wiki/リリース "wikilink")された[accessの](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")16thシングル。発売元は[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")。
+「**Doubt & Trust 〜ダウト&トラスト〜**」（ダウト アンド トラスト）は[2007年](../Page/2007年.md "wikilink")10月31日に[リリース](../Page/リリース.md "wikilink")された[accessの](../Page/Access_\(音楽ユニット\).md "wikilink")16thシングル。発売元は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
 
 ## 概要
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[D.Gray-man](https://ja.wikipedia.org/wiki/D.Gray-man "wikilink")』オープニングテーマ\[1\]。累計売上は2.7万枚を記録した\[2\]。通常盤と初回生産限定盤の2形態で発売され、それぞれ異なるカップリング曲が収録されているほか、初回生産限定版にはDoubt & Trust 〜ダウト&トラスト〜のライブ映像（access TOUR 2007 -binary engine- [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")公演）を収録したDVD、『D.Gray-man』描き下ろしワイドキャップステッカーが付属している。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[D.Gray-man](../Page/D.Gray-man.md "wikilink")』オープニングテーマ\[1\]。累計売上は2.7万枚を記録した\[2\]。通常盤と初回生産限定盤の2形態で発売され、それぞれ異なるカップリング曲が収録されているほか、初回生産限定版にはDoubt & Trust 〜ダウト&トラスト〜のライブ映像（access TOUR 2007 -binary engine- [神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink")公演）を収録したDVD、『D.Gray-man』描き下ろしワイドキャップステッカーが付属している。
 
 ## 収録曲
 
 ### 初回限定盤
 
 1.  **Doubt & Trust 〜ダウト&トラスト〜**
-      - 作詞：[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")　
+      - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")　
 2.  **Doubt & Trust 〜ダウト&トラスト〜** (DAwnforce mix)
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
 3.  **Doubt & Trust 〜ダウト&トラスト〜** (Instrumental)
@@ -21,7 +21,7 @@
 
 1.  **Doubt & Trust 〜ダウト&トラスト〜**
 2.  **GONNA BE**
-      - 作詞：[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")　作曲・編曲：浅倉大介
+      - 作詞：[貴水博之](../Page/貴水博之.md "wikilink")　作曲・編曲：浅倉大介
 3.  **Doubt & Trust 〜ダウト&トラスト〜** (Instrumental)
 
 ## 収録アルバム

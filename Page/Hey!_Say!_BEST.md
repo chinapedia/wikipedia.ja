@@ -7,11 +7,11 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
 ## メンバー
 
-  - [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")（ありおか だいき、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月15日](../Page/4月15日.md "wikilink") - 、A型、千葉県）
+  - [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")（ありおか だいき、[1991年](../Page/1991年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") - 、A型、千葉県）
   - [髙木雄也](https://ja.wikipedia.org/wiki/髙木雄也 "wikilink")（たかき ゆうや、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 、O型、大阪府）
-  - [伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink")（いのお けい、1990年[6月22日](../Page/6月22日.md "wikilink") - 、A型、埼玉県）
-  - [八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")（やおとめ ひかる、1990年[12月2日](../Page/12月2日.md "wikilink") - 、O型、宮城県）
-  - [薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")（やぶ こうた、1990年[1月31日](../Page/1月31日.md "wikilink") - 、A型、神奈川県）
+  - [伊野尾慧](../Page/伊野尾慧.md "wikilink")（いのお けい、1990年[6月22日](../Page/6月22日.md "wikilink") - 、A型、埼玉県）
+  - [八乙女光](../Page/八乙女光.md "wikilink")（やおとめ ひかる、1990年[12月2日](../Page/12月2日.md "wikilink") - 、O型、宮城県）
+  - [薮宏太](../Page/薮宏太.md "wikilink")（やぶ こうた、1990年[1月31日](../Page/1月31日.md "wikilink") - 、A型、神奈川県）
 
 ## 略歴
 
@@ -19,7 +19,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
 :\* 9月24日、『JOHNNYS'Jr. Hey Say 07 in YOKOHAMA ARENA』で結成が発表され、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』で生中継された\[2\]。
 
-:\* 11月3日から冠番組『[Hi\! Hey\! Say\!](https://ja.wikipedia.org/wiki/Hi!_Hey!_Say! "wikilink")』で、八乙女、薮がメインレギュラー出演開始。
+:\* 11月3日から冠番組『[Hi\! Hey\! Say\!](../Page/Hi!_Hey!_Say!.md "wikilink")』で、八乙女、薮がメインレギュラー出演開始。
 
   -
 
@@ -71,9 +71,9 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
 [JASRAC公式サイトの](../Page/日本音楽著作権協会.md "wikilink")「作品データベース検索サービス」において、アーティスト名に「Hey\! Say\! BEST」を含む楽曲の検索結果をもとに記述。
 
-  - [ス・リ・ル](https://ja.wikipedia.org/wiki/SUPER_DELICATE "wikilink")（作詞：[久保田洋司](https://ja.wikipedia.org/wiki/久保田洋司 "wikilink")、作曲：田中直、ラップ詞：八乙女光） - JASRAC作品コード：148-2030-7（Hey\! Say\! JUMP名義）
-  - [スパイシー](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")（作詞・作曲：[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")） - JASRAC作品コード：153-1069-8（Hey\! Say\! JUMP名義）
-  - Switch（作詞：古屋真、作曲：森口友美） - JASRAC作品コード：155-8382-1
+  - [ス・リ・ル](https://ja.wikipedia.org/wiki/SUPER_DELICATE "wikilink")（作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：田中直、ラップ詞：八乙女光） - JASRAC作品コード：148-2030-7（Hey\! Say\! JUMP名義）
+  - [スパイシー](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")（作詞・作曲：[清水昭男](../Page/清水昭男.md "wikilink")） - JASRAC作品コード：153-1069-8（Hey\! Say\! JUMP名義）
+  - [Switch](https://ja.wikipedia.org/wiki/Switch_\(Hey!Say!BESTの曲\) "wikilink")（作詞：古屋真、作曲：森口友美） - JASRAC作品コード：155-8382-1
   - [スクールデイズ](https://ja.wikipedia.org/wiki/Magic_Power "wikilink")（作詞：森月キャス、作曲：川端良征） - JASRAC作品コード：161-6300-1
   - [Score](https://ja.wikipedia.org/wiki/JUMP_NO.1 "wikilink")（作詞：薮宏太、作曲：Joey Carbone＆Steven Lee、編曲：[前口渉](https://ja.wikipedia.org/wiki/前口渉 "wikilink")、ラップ詞：八乙女光） - JASRAC作品コード：168-5392-0
   - [Screw](https://ja.wikipedia.org/wiki/OVER_\(Hey!_Say!_JUMPの曲\) "wikilink")（作詞：薮宏太、作曲：馬飼野康二、編曲：石塚知生） - JASRAC作品コード：178-3454-6
@@ -92,7 +92,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
 ### バラエティ
 
-  - [Hi\! Hey\! Say\!](https://ja.wikipedia.org/wiki/Hi!_Hey!_Say! "wikilink")（2007年11月3日 - 2009年9月26日、テレビ東京） - 薮、八乙女メイン。Hey\! Say\! BESTとしてライブ出演\[5\]
+  - [Hi\! Hey\! Say\!](../Page/Hi!_Hey!_Say!.md "wikilink")（2007年11月3日 - 2009年9月26日、テレビ東京） - 薮、八乙女メイン。Hey\! Say\! BESTとしてライブ出演\[5\]
   - [週末YY JUMPing](https://ja.wikipedia.org/wiki/週末YY_JUMPing "wikilink")（2009年10月10日 - 2011年3月26日、テレビ東京） - 薮、八乙女
   - [ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")（2014年4月1日 - 現在、火曜日レギュラー、日本テレビ） - 有岡、八乙女
 
@@ -106,7 +106,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 ### ラジオ
 
   - [JUMP da ベイベー\!](https://ja.wikipedia.org/wiki/JUMP_da_ベイベー! "wikilink")（2014年4月4日 - 現在 [bayfm](../Page/ベイエフエム.md "wikilink")、毎週金曜日 24:30 - 24:58） - 有岡、髙木
-  - [らじらー\!](https://ja.wikipedia.org/wiki/らじらー! "wikilink")サタデー 20時台（2015年4月4日 - 現在 [NHKラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")、毎週土曜日 20:05 - 20:55） - 伊野尾、八乙女
+  - [らじらー\!](https://ja.wikipedia.org/wiki/らじらー! "wikilink")サタデー 20時台（2015年4月4日 - 現在 [NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")、毎週土曜日 20:05 - 20:55） - 伊野尾、八乙女
 
 ## 脚注
 

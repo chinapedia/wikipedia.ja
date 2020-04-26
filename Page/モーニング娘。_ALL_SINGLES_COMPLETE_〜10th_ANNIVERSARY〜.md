@@ -1,13 +1,13 @@
-> この記事は[ ALL SINGLES COMPLETE 10th ANNIVERSARY](https://ja.wikipedia.org/wiki/_ALL_SINGLES_COMPLETE_10th_ANNIVERSARY)から翻訳されています。
+> この記事は[モーニング娘。 ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/モーニング娘。_ALL_SINGLES_COMPLETE_〜10th_ANNIVERSARY〜)から翻訳されています。
 
 
-『**モーニング娘。 ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜**』（モーニングむすめ。 オール シングルス コンプリート〜テンス アニバーサリー〜）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")リリース。
+『**モーニング娘。 ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜**』（モーニングむすめ。 オール シングルス コンプリート〜テンス アニバーサリー〜）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")リリース。
 
 ## 概要
 
-  - メジャーデビューシングルの「[モーニングコーヒー](https://ja.wikipedia.org/wiki/モーニングコーヒー "wikilink")」から、2007年7月発売の「[女に 幸あれ](../Page/女に_幸あれ.md "wikilink")」までの全34作のA面シングル表題曲をリリース順に収録、そしてこのアルバムのために書き下ろされた新曲「HELLO TO YOU 〜ハロー\!プロジェクト10周年記念テーマ〜」を収録した10周年を記念した[オールタイムベストである](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")。また「[悲しみトワイライト](../Page/悲しみトワイライト.md "wikilink")」と「女に 幸あれ」は、アルバム初収録である。
+  - メジャーデビューシングルの「[モーニングコーヒー](../Page/モーニングコーヒー.md "wikilink")」から、2007年7月発売の「[女に 幸あれ](../Page/女に_幸あれ.md "wikilink")」までの全34作のA面シングル表題曲をリリース順に収録、そしてこのアルバムのために書き下ろされた新曲「HELLO TO YOU 〜ハロー\!プロジェクト10周年記念テーマ〜」を収録した10周年を記念した[オールタイムベストである](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")。また「[悲しみトワイライト](../Page/悲しみトワイライト.md "wikilink")」と「女に 幸あれ」は、アルバム初収録である。
   - 「[モーニング娘。のひょっこりひょうたん島](https://ja.wikipedia.org/wiki/モーニング娘。のひょっこりひょうたん島 "wikilink")」を除く全曲を[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")が作詞・作曲している。
-  - [ジャケット写真](https://ja.wikipedia.org/wiki/ジャケット写真 "wikilink")は、初回生産限定盤では1stシングル「モーニングコーヒー」、通常盤では7thシングル「[LOVEマシーン](https://ja.wikipedia.org/wiki/LOVEマシーン "wikilink")」の衣装や並び方などをそれぞれ現メンバーで再現している。
+  - [ジャケット写真](https://ja.wikipedia.org/wiki/ジャケット写真 "wikilink")は、初回生産限定盤では1stシングル「モーニングコーヒー」、通常盤では7thシングル「[LOVEマシーン](../Page/LOVEマシーン.md "wikilink")」の衣装や並び方などをそれぞれ現メンバーで再現している。
   - モーニング娘。のアルバムとしては初の2枚組CDである。
   - 初回生産限定盤と通常盤の2種類で発売。
   - 初回生産限定盤特典
@@ -18,31 +18,31 @@
 
 ### Disc 1
 
-1.  **[モーニングコーヒー](https://ja.wikipedia.org/wiki/モーニングコーヒー "wikilink")**
+1.  **[モーニングコーヒー](../Page/モーニングコーヒー.md "wikilink")**
     （作詞・作曲：つんく　編曲：桜井鉄太郎）
       - 1stシングルで、メジャーデビューシングル。
-2.  **[サマーナイトタウン](https://ja.wikipedia.org/wiki/サマーナイトタウン "wikilink")**
+2.  **[サマーナイトタウン](../Page/サマーナイトタウン.md "wikilink")**
     （作詞・作曲：つんく　編曲：前嶋康明）
       - 2ndシングルで、2期（[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[市井紗耶香](../Page/市井紗耶香.md "wikilink")）の最初のシングル。
-3.  **[抱いてHOLD ON ME\!](https://ja.wikipedia.org/wiki/抱いてHOLD_ON_ME! "wikilink")**
+3.  **[抱いてHOLD ON ME\!](../Page/抱いてHOLD_ON_ME!.md "wikilink")**
     （作詞・作曲：つんく　編曲：前嶋康明）
       - 3rdシングル。
 4.  **[Memory 青春の光](../Page/Memory_青春の光.md "wikilink")**
     （作詞・作曲：つんく　編曲：前嶋康明）
-      - 4thシングルで、[福田明日香](https://ja.wikipedia.org/wiki/福田明日香 "wikilink")の最後のシングル。
+      - 4thシングルで、[福田明日香](../Page/福田明日香.md "wikilink")の最後のシングル。
 5.  **[真夏の光線](../Page/真夏の光線.md "wikilink")**
     （作詞・作曲：つんく　編曲：河野伸）
       - 5thシングル。
 6.  **[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")**
     （作詞・作曲：つんく　編曲：小西貴雄）
       - 6thシングル。
-7.  **[LOVEマシーン](https://ja.wikipedia.org/wiki/LOVEマシーン "wikilink")**
+7.  **[LOVEマシーン](../Page/LOVEマシーン.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
       - 7thシングルで、3期（[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")）の最初のシングルで、[石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")の最後のシングル。
 8.  **[恋のダンスサイト](../Page/恋のダンスサイト.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
       - 8thシングル。
-9.  **[ハッピーサマーウェディング](https://ja.wikipedia.org/wiki/ハッピーサマーウェディング "wikilink")**
+9.  **[ハッピーサマーウェディング](../Page/ハッピーサマーウェディング.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
       - 9thシングルで、4期（[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")）の最初のシングルで、市井紗耶香の最後のシングル。
 10. **[I WISH](../Page/I_WISH_\(モーニング娘。の曲\).md "wikilink")**
@@ -51,64 +51,64 @@
 11. **[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
       - 11thシングルで、[中澤裕子](../Page/中澤裕子.md "wikilink")の最後のシングル。
-12. **[ザ☆ピ〜ス\!](https://ja.wikipedia.org/wiki/ザ☆ピ〜ス! "wikilink")**
+12. **[ザ☆ピ〜ス\!](../Page/ザ☆ピ〜ス!.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
       - 12thシングル。
-13. **[Mr.Moonlight 〜愛のビッグバンド〜](https://ja.wikipedia.org/wiki/Mr.Moonlight_〜愛のビッグバンド〜 "wikilink")**
+13. **[Mr.Moonlight 〜愛のビッグバンド〜](../Page/Mr.Moonlight_〜愛のビッグバンド〜.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木俊介）
       - 13thシングルで、5期（[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")）の最初のシングル。
 14. **[そうだ\! We're ALIVE](../Page/そうだ!_We're_ALIVE.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
       - 14thシングル。
-15. **[Do it\! Now](https://ja.wikipedia.org/wiki/Do_it!_Now "wikilink")**
+15. **[Do it\! Now](../Page/Do_it!_Now.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
       - 15thシングルで、後藤真希の最後のシングル。
-16. **[ここにいるぜぇ\!](https://ja.wikipedia.org/wiki/ここにいるぜぇ! "wikilink")**
+16. **[ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
       - 16thシングル。
 17. **[モーニング娘。のひょっこりひょうたん島](https://ja.wikipedia.org/wiki/モーニング娘。のひょっこりひょうたん島 "wikilink")**
-    （作詞：[井上ひさし](../Page/井上ひさし.md "wikilink")、[山元護久](https://ja.wikipedia.org/wiki/山元護久 "wikilink")　作曲：[宇野誠一郎](../Page/宇野誠一郎.md "wikilink")　編曲：小西貴雄）
+    （作詞：[井上ひさし](../Page/井上ひさし.md "wikilink")、[山元護久](../Page/山元護久.md "wikilink")　作曲：[宇野誠一郎](../Page/宇野誠一郎.md "wikilink")　編曲：小西貴雄）
       - 17thシングル。
 
 ### Disc 2
 
-1.  **[AS FOR ONE DAY](https://ja.wikipedia.org/wiki/AS_FOR_ONE_DAY "wikilink")**
+1.  **[AS FOR ONE DAY](../Page/AS_FOR_ONE_DAY.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
       - 18thシングルで、保田圭の最後のシングル。
-2.  **[シャボン玉](https://ja.wikipedia.org/wiki/シャボン玉_\(モーニング娘。の曲\) "wikilink")**
+2.  **[シャボン玉](../Page/シャボン玉_\(モーニング娘。の曲\).md "wikilink")**
     （作詞・作曲：つんく　編曲：高橋諭一）
       - 19thシングルで、6期（[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")）の最初のシングル。
-3.  **[Go Girl 〜恋のヴィクトリー〜](https://ja.wikipedia.org/wiki/Go_Girl_〜恋のヴィクトリー〜 "wikilink")**
+3.  **[Go Girl 〜恋のヴィクトリー〜](../Page/Go_Girl_〜恋のヴィクトリー〜.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
       - 20thシングル。
 4.  **[愛あらばIT'S ALL RIGHT](../Page/愛あらばIT'S_ALL_RIGHT.md "wikilink")**
     （作詞・作曲：つんく　編曲：小西貴雄）
       - 21stシングルで、[安倍なつみ](../Page/安倍なつみ.md "wikilink")の最後のシングル。
-5.  **[浪漫 〜MY DEAR BOY〜](https://ja.wikipedia.org/wiki/浪漫_〜MY_DEAR_BOY〜 "wikilink")**
+5.  **[浪漫 〜MY DEAR BOY〜](../Page/浪漫_〜MY_DEAR_BOY〜.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木俊介）
       - 22ndシングル。
-6.  **[女子かしまし物語](https://ja.wikipedia.org/wiki/女子かしまし物語 "wikilink")**
+6.  **[女子かしまし物語](../Page/女子かしまし物語.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
       - 23rdシングルで、辻希美、加護亜依の最後のシングル。
 7.  **[涙が止まらない放課後](../Page/涙が止まらない放課後.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木俊介）
       - 24thシングル。
-8.  **[THE マンパワー\!\!\!](https://ja.wikipedia.org/wiki/THE_マンパワー!!! "wikilink")**
+8.  **[THE マンパワー\!\!\!](../Page/THE_マンパワー!!!.md "wikilink")**
     （作詞・作曲：つんく　編曲：松原憲）
       - 25thシングルで、[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")の最後のシングル。
-9.  **[大阪 恋の歌](https://ja.wikipedia.org/wiki/大阪_恋の歌 "wikilink")**
+9.  **[大阪 恋の歌](../Page/大阪_恋の歌.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
       - 26thシングルで、矢口真里、石川梨華の最後のシングル。
-10. **[色っぽい じれったい](https://ja.wikipedia.org/wiki/色っぽい_じれったい "wikilink")**
+10. **[色っぽい じれったい](../Page/色っぽい_じれったい.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木Daichi秀行）
-      - 27thシングルで、7期（[久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink")）の最初のシングル。
-11. **[直感2 〜逃した魚は大きいぞ\!〜](https://ja.wikipedia.org/wiki/直感2_〜逃した魚は大きいぞ!〜 "wikilink")**
+      - 27thシングルで、7期（[久住小春](../Page/久住小春.md "wikilink")）の最初のシングル。
+11. **[直感2 〜逃した魚は大きいぞ\!〜](../Page/直感2_〜逃した魚は大きいぞ!〜.md "wikilink")**
     （作詞・作曲：つんく　編曲：鈴木俊介）
       - 28thシングル。
-12. **[SEXY BOY 〜そよ風に寄り添って〜](https://ja.wikipedia.org/wiki/SEXY_BOY_〜そよ風に寄り添って〜 "wikilink")**
+12. **[SEXY BOY 〜そよ風に寄り添って〜](../Page/SEXY_BOY_〜そよ風に寄り添って〜.md "wikilink")**
     （作詞・作曲：つんく　編曲：高橋諭一）
       - 29thシングル。
-13. **[Ambitious\! 野心的でいいじゃん](https://ja.wikipedia.org/wiki/Ambitious!_野心的でいいじゃん "wikilink")**
+13. **[Ambitious\! 野心的でいいじゃん](../Page/Ambitious!_野心的でいいじゃん.md "wikilink")**
     （作詞・作曲：つんく　編曲：湯浅公一）
       - 30thシングルで、紺野あさ美、小川麻琴の最後のシングル。
 14. **[歩いてる](https://ja.wikipedia.org/wiki/歩いてる_\(モーニング娘。の曲\) "wikilink")**
@@ -166,19 +166,19 @@
 
 ## 参加メンバー
 
-  - 1期：[中澤裕子](../Page/中澤裕子.md "wikilink")、[石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")、[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[福田明日香](https://ja.wikipedia.org/wiki/福田明日香 "wikilink")
+  - 1期：[中澤裕子](../Page/中澤裕子.md "wikilink")、[石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")、[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[福田明日香](../Page/福田明日香.md "wikilink")
   - 2期：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[市井紗耶香](../Page/市井紗耶香.md "wikilink")
   - 3期：[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
   - 4期：[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
   - 5期：[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")
   - 6期：[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")
-  - 7期：[久住小春](https://ja.wikipedia.org/wiki/久住小春 "wikilink")
+  - 7期：[久住小春](../Page/久住小春.md "wikilink")
   - 8期：[光井愛佳](../Page/光井愛佳.md "wikilink")、[ジュンジュン](../Page/ジュンジュン.md "wikilink")、[リンリン](../Page/リンリン_\(ハロー!プロジェクト\).md "wikilink")
 
 ## 関連項目
 
   - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")
-  - [モーニング娘。の作品・出演一覧](https://ja.wikipedia.org/wiki/モーニング娘。の作品・出演一覧 "wikilink")
+  - [モーニング娘。の作品・出演一覧](../Page/モーニング娘。の作品・出演一覧.md "wikilink")
 
 ## 外部リンク
 

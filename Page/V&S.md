@@ -15,7 +15,7 @@ Absolut（[アブソルート](https://ja.wikipedia.org/wiki/アブソルート_
 
 ## ディストリビュート
 
-販売は北欧三国ではスウェーデン、デンマークおよび[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")では同社によるグループの流通センターを通しておこなわれる。また北米および南米では同社が株式を保有している[フューチャー・ブランズ](https://ja.wikipedia.org/wiki/フューチャー・ブランズ "wikilink")を通じて販売され、その他の地域では[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")に本部を置く[マキシマム・ワールドワイド](https://ja.wikipedia.org/wiki/マキシマム・ワールドワイド "wikilink")を通じて販売される。なお日本では[アサヒビール](../Page/アサヒビール.md "wikilink")の傘下に置かれている[マキシマム・ジャパン](https://ja.wikipedia.org/wiki/マキシマム・ジャパン "wikilink")によって販売されている。
+販売は北欧三国ではスウェーデン、デンマークおよび[フィンランド](../Page/フィンランド.md "wikilink")では同社によるグループの流通センターを通しておこなわれる。また北米および南米では同社が株式を保有している[フューチャー・ブランズ](https://ja.wikipedia.org/wiki/フューチャー・ブランズ "wikilink")を通じて販売され、その他の地域では[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")に本部を置く[マキシマム・ワールドワイド](https://ja.wikipedia.org/wiki/マキシマム・ワールドワイド "wikilink")を通じて販売される。なお日本では[アサヒビール](../Page/アサヒビール.md "wikilink")の傘下に置かれている[マキシマム・ジャパン](https://ja.wikipedia.org/wiki/マキシマム・ジャパン "wikilink")によって販売されている。
 
 ## 外部リンク
 

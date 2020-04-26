@@ -1,13 +1,13 @@
-> この記事は[AKR](https://ja.wikipedia.org/wiki/AKR)から翻訳されています。
+> この記事は[AKR共栄会](https://ja.wikipedia.org/wiki/AKR共栄会)から翻訳されています。
 
 
-**AKR共栄会**（エーケーアールきょうえいかい）は、日本の近畿圏2府1県（[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")・[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")・[兵庫県](../Page/兵庫県.md "wikilink")）の地域密着型スーパーマーケット41店舗（2007年8月現在）が参加している[任意団体](../Page/任意団体.md "wikilink")である。AKR共栄会には、共同仕入・共同配送・共同決済・債務保証・商品開発など各事業を担う[協同組合](../Page/協同組合.md "wikilink")「協同組合エイケイアール食品小売共栄会」が設置されている。「AKR」 は「**A**ll **K**ouriichiba **R**engoukai（全小売市場連合会）」の略称である\[1\]。
+**AKR共栄会**（エーケーアールきょうえいかい）は、日本の近畿圏2府1県（[大阪府](../Page/大阪府.md "wikilink")・[京都府](../Page/京都府.md "wikilink")・[兵庫県](../Page/兵庫県.md "wikilink")）の地域密着型スーパーマーケット41店舗（2007年8月現在）が参加している[任意団体](../Page/任意団体.md "wikilink")である。AKR共栄会には、共同仕入・共同配送・共同決済・債務保証・商品開発など各事業を担う[協同組合](../Page/協同組合.md "wikilink")「協同組合エイケイアール食品小売共栄会」が設置されている。「AKR」 は「**A**ll **K**ouriichiba **R**engoukai（全小売市場連合会）」の略称である\[1\]。
 
   - 所在地
 
 <!-- end list -->
 
-  - 〒530-0003　[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[北区堂島](../Page/北区_\(大阪市\).md "wikilink")3-2-6　エルフビル4F（株式会社ビジネスファーム研究所内）
+  - 〒530-0003　[大阪市](../Page/大阪市.md "wikilink")[北区堂島](../Page/北区_\(大阪市\).md "wikilink")3-2-6　エルフビル4F（株式会社ビジネスファーム研究所内）
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[Opposing Force](https://ja.wikipedia.org/wiki/Opposing_Force)から翻訳されています。
 
 
-『**Opposing Force**』（オポージングフォース）は、『[ハーフライフ](https://ja.wikipedia.org/wiki/ハーフライフ_\(ゲーム\) "wikilink")』をベースにした[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")（FPS）である。[1999年](../Page/1999年.md "wikilink")に発売された。開発は[Gearbox Software](https://ja.wikipedia.org/wiki/Gearbox_Software "wikilink")（[:en:Gearbox Software](https://ja.wikipedia.org/wiki/:en:Gearbox_Software "wikilink")）、パブリッシングは『ハーフライフ』と同じく[Sierraが行った](https://ja.wikipedia.org/wiki/シエラエンターテインメント "wikilink")。『ハーフライフ』では敵役であった海兵隊員を主人公に据え、本編と同じ舞台・同じ時間軸を、別の視点で進んでいくストーリーになっている。
+『**Opposing Force**』（オポージングフォース）は、『[ハーフライフ](../Page/ハーフライフ_\(ゲーム\).md "wikilink")』をベースにした[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")（FPS）である。[1999年](../Page/1999年.md "wikilink")に発売された。開発は[Gearbox Software](https://ja.wikipedia.org/wiki/Gearbox_Software "wikilink")（[:en:Gearbox Software](https://ja.wikipedia.org/wiki/:en:Gearbox_Software "wikilink")）、パブリッシングは『ハーフライフ』と同じく[Sierraが行った](../Page/シエラエンターテインメント.md "wikilink")。『ハーフライフ』では敵役であった海兵隊員を主人公に据え、本編と同じ舞台・同じ時間軸を、別の視点で進んでいくストーリーになっている。
 
 ## ストーリー
 
@@ -104,25 +104,25 @@
 
 <!-- end list -->
 
-  - 拳銃（[グロック17](https://ja.wikipedia.org/wiki/グロック17 "wikilink")）
+  - 拳銃（[グロック17](../Page/グロック17.md "wikilink")）
     本編と同じ。
 
 <!-- end list -->
 
-  - [デザートイーグル](https://ja.wikipedia.org/wiki/デザートイーグル "wikilink")
-    海兵隊が使用する強力な自動拳銃。.357Mag仕様。本編のマグナム（[コルト・パイソン](https://ja.wikipedia.org/wiki/コルト・パイソン "wikilink")）より威力は若干劣るが、連射が効きリロードも速い。レーザーポインターを起動すると精度が飛躍的に向上する。レーザーをオフにすると早い連射が出来るが、命中率は大幅に低下する（全武器中でも最悪のレベル）。
+  - [デザートイーグル](../Page/デザートイーグル.md "wikilink")
+    海兵隊が使用する強力な自動拳銃。.357Mag仕様。本編のマグナム（[コルト・パイソン](../Page/コルト・パイソン.md "wikilink")）より威力は若干劣るが、連射が効きリロードも速い。レーザーポインターを起動すると精度が飛躍的に向上する。レーザーをオフにすると早い連射が出来るが、命中率は大幅に低下する（全武器中でも最悪のレベル）。
       - プライマリ：発砲
       - セカンダリ：レーザーサイトのオン/オフ切り替え
       - 装弾数：7、予備弾:36
 
 <!-- end list -->
 
-  - マシンガン（[H\&K MP5](https://ja.wikipedia.org/wiki/H&K_MP5 "wikilink")）
+  - マシンガン（[H\&K MP5](../Page/H&K_MP5.md "wikilink")）
     本編と同じ。
 
 <!-- end list -->
 
-  - ショットガン（[フランキ・スパス12](https://ja.wikipedia.org/wiki/フランキ・スパス12 "wikilink")）
+  - ショットガン（[フランキ・スパス12](../Page/フランキ・スパス12.md "wikilink")）
     本編と同じ。
 
 <!-- end list -->
@@ -152,8 +152,8 @@
 
 <!-- end list -->
 
-  - SAW（[ミニミ軽機関銃](https://ja.wikipedia.org/wiki/ミニミ軽機関銃 "wikilink")）
-    海兵隊が使用する[分隊支援火器](https://ja.wikipedia.org/wiki/分隊支援火器 "wikilink")。命中率が悪くリロードも遅いが、威力は高い。発射中は反動で後退してしまう。
+  - SAW（[ミニミ軽機関銃](../Page/ミニミ軽機関銃.md "wikilink")）
+    海兵隊が使用する[分隊支援火器](../Page/分隊支援火器.md "wikilink")。命中率が悪くリロードも遅いが、威力は高い。発射中は反動で後退してしまう。
       - プライマリ：発砲
       - セカンダリ：なし
       - 装弾数：50、予備弾:200
@@ -200,7 +200,7 @@
 
 ## 関連項目
 
-  - [ハーフライフ (ゲーム)](https://ja.wikipedia.org/wiki/ハーフライフ_\(ゲーム\) "wikilink")
+  - [ハーフライフ (ゲーム)](../Page/ハーフライフ_\(ゲーム\).md "wikilink")
 
 ## 外部リンク
 

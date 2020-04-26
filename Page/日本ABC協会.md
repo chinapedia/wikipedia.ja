@@ -1,7 +1,7 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[日本ABC協会](https://ja.wikipedia.org/wiki/日本ABC協会)から翻訳されています。
 
 
-**一般社団法人 日本ABC協会**（にほんエイビーシーきょうかい、）は、[新聞](../Page/新聞.md "wikilink")、[雑誌](../Page/雑誌.md "wikilink")、[フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")等の発行社からの部数報告を公査し、その結果を公表する活動を行う[業界団体](https://ja.wikipedia.org/wiki/業界団体 "wikilink")。ABCはAudit Bureau of Circulations（部数公査機構）の略称。[森田清](https://ja.wikipedia.org/wiki/森田清 "wikilink")が会長を務める（[第一三共](https://ja.wikipedia.org/wiki/第一三共 "wikilink")代表取締役会長）。
+**一般社団法人 日本ABC協会**（にほんエイビーシーきょうかい、）は、[新聞](../Page/新聞.md "wikilink")、[雑誌](../Page/雑誌.md "wikilink")、[フリーペーパー](../Page/フリーペーパー.md "wikilink")等の発行社からの部数報告を公査し、その結果を公表する活動を行う[業界団体](../Page/業界団体.md "wikilink")。ABCはAudit Bureau of Circulations（部数公査機構）の略称。[森田清](https://ja.wikipedia.org/wiki/森田清 "wikilink")が会長を務める（[第一三共](../Page/第一三共.md "wikilink")代表取締役会長）。
 
 ## 活動
 
@@ -23,9 +23,9 @@
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - 新聞の公査を開始する。
   - [1963年](../Page/1963年.md "wikilink") - 国際ABC連盟 (IFABC)が設立される。
   - [1965年](../Page/1965年.md "wikilink") - 雑誌の公査を開始する。
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") - 専門紙誌の公査を開始する。
+  - [1976年](../Page/1976年.md "wikilink") - 専門紙誌の公査を開始する。
   - [1981年](../Page/1981年.md "wikilink") - フリーペーパーの公査を開始する。
-  - [2011年](../Page/2011年.md "wikilink") - [公益法人制度改革](https://ja.wikipedia.org/wiki/公益法人制度改革 "wikilink")に伴い、2011年[4月1日](../Page/4月1日.md "wikilink")より一般社団法人となる。
+  - [2011年](../Page/2011年.md "wikilink") - [公益法人制度改革](../Page/公益法人制度改革.md "wikilink")に伴い、2011年[4月1日](../Page/4月1日.md "wikilink")より一般社団法人となる。
 
 ## 脚注
 
@@ -34,7 +34,7 @@
 ## 関連項目
 
   - [新聞販売店](https://ja.wikipedia.org/wiki/新聞販売店 "wikilink")
-  - [日本新聞協会](https://ja.wikipedia.org/wiki/日本新聞協会 "wikilink")
+  - [日本新聞協会](../Page/日本新聞協会.md "wikilink")
 
 ## 外部リンク
 

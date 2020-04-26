@@ -1,7 +1,7 @@
 > この記事は[Go! Sports Ski](https://ja.wikipedia.org/wiki/Go!_Sports_Ski)から翻訳されています。
 
 
-『**Go\! Sports Ski**』（ゴー スポーツ スキー）は、[PlayStation 3用ソフトの](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[アクション](../Page/アクションゲーム.md "wikilink")[スポーツゲーム](https://ja.wikipedia.org/wiki/スポーツゲーム "wikilink")。[ユークス](https://ja.wikipedia.org/wiki/ユークス "wikilink")開発の「Go\! Sports」シリーズの第1弾であり、[PLAYSTATION Storeのダウンロード専用タイトルである](../Page/PlayStation_Store.md "wikilink")。
+『**Go\! Sports Ski**』（ゴー スポーツ スキー）は、[PlayStation 3用ソフトの](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[アクション](../Page/アクションゲーム.md "wikilink")[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。[ユークス](../Page/ユークス.md "wikilink")開発の「Go\! Sports」シリーズの第1弾であり、[PLAYSTATION Storeのダウンロード専用タイトルである](../Page/PlayStation_Store.md "wikilink")。
 
 ## 概要
 
@@ -97,7 +97,7 @@
 
 序盤～中盤までは山の斜面を滑り降り、終盤は[市街地](../Page/市街地.md "wikilink")の中を滑るコース。途中の大きな分岐点には、[洞窟](../Page/洞窟.md "wikilink")の入り口も隠されている。終盤の市街地では駐車車両が厄介である。普通のルート取りで滑走すれば、比較的楽にゴールにたどりつく事が可能。また、スタートからゴールまでの道がほぼ一直線で結べるルートがあるので、ギア3の性能を生かすことができる。慣れてくると1分近くでクリアすることができるため、オンラインバトルではこちらのコースの人気が高い。
 
-ちなみに、中盤にある[小屋](https://ja.wikipedia.org/wiki/小屋 "wikilink")には、窓から突っ込むことが可能である。
+ちなみに、中盤にある[小屋](../Page/小屋.md "wikilink")には、窓から突っ込むことが可能である。
 
 ### コース02
 

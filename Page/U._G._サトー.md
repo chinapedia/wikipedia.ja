@@ -1,7 +1,7 @@
-> この記事は[U. G. ](https://ja.wikipedia.org/wiki/U._G._)から翻訳されています。
+> この記事は[U. G. サトー](https://ja.wikipedia.org/wiki/U._G._サトー)から翻訳されています。
 
 
-**U.G.サトー**（**ユージーサトー**、[1935年](../Page/1935年.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。本名は佐藤雄治。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")生まれ。[東京学芸大学](../Page/東京学芸大学.md "wikilink")を中退した後、[1960年](../Page/1960年.md "wikilink")[桑沢デザイン研究所](https://ja.wikipedia.org/wiki/桑沢デザイン研究所 "wikilink")卒業。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")オカ・スタジオを経て[1975年](../Page/1975年.md "wikilink")デザイン・ファームを設立。[日本グラフィックデザイナー協会](https://ja.wikipedia.org/wiki/日本グラフィックデザイナー協会 "wikilink")理事、[東京イラストレーターズ・ソサエティ](https://ja.wikipedia.org/wiki/東京イラストレーターズ・ソサエティ "wikilink")会員、[国際グラフィック連盟](https://ja.wikipedia.org/wiki/国際グラフィック連盟 "wikilink")(Alliance Graphique Internationale)会員。
+**U.G.サトー**（**ユージーサトー**、[1935年](../Page/1935年.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。本名は佐藤雄治。[東京都](../Page/東京都.md "wikilink")生まれ。[東京学芸大学](../Page/東京学芸大学.md "wikilink")を中退した後、[1960年](../Page/1960年.md "wikilink")[桑沢デザイン研究所](../Page/桑沢デザイン研究所.md "wikilink")卒業。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")オカ・スタジオを経て[1975年](../Page/1975年.md "wikilink")デザイン・ファームを設立。[日本グラフィックデザイナー協会](https://ja.wikipedia.org/wiki/日本グラフィックデザイナー協会 "wikilink")理事、[東京イラストレーターズ・ソサエティ](https://ja.wikipedia.org/wiki/東京イラストレーターズ・ソサエティ "wikilink")会員、[国際グラフィック連盟](https://ja.wikipedia.org/wiki/国際グラフィック連盟 "wikilink")(Alliance Graphique Internationale)会員。
 
 ## 主な受賞
 
@@ -36,7 +36,7 @@
 
   - 『U.G.サトーの進化論世界』（[思索社](https://ja.wikipedia.org/wiki/思索社 "wikilink")）
   - 『U.G.サトーとイラストレーション』（[美術出版社](../Page/美術出版社.md "wikilink")）
-  - 『どうぶつえん』『かお　みえるかな』『あか あお ふたりで』『しまうまのさんぽ』『ぺたぺた』『あめかな1』（[福音館書店](https://ja.wikipedia.org/wiki/福音館書店 "wikilink")）
+  - 『どうぶつえん』『かお　みえるかな』『あか あお ふたりで』『しまうまのさんぽ』『ぺたぺた』『あめかな1』（[福音館書店](../Page/福音館書店.md "wikilink")）
   - 『2本足と4本足』『きみはなにどし?』『草と木で包む』『にたものどうし』（福音館書店・共著）
   - 『木箱』（[六耀社](https://ja.wikipedia.org/wiki/六耀社 "wikilink")・共著）
   - 『U.G.佐藤』（嶺南美術出版社）
@@ -44,7 +44,7 @@
 
 ## 参考文献
 
-  - 『世界のグラフィックデザイン100』 [誠文堂新光社](https://ja.wikipedia.org/wiki/誠文堂新光社 "wikilink")、1994年
+  - 『世界のグラフィックデザイン100』 [誠文堂新光社](../Page/誠文堂新光社.md "wikilink")、1994年
 
 ## 外部リンク
 

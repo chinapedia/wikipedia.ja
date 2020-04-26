@@ -1,11 +1,11 @@
-> この記事は[LOVE LETTER \(BoA\)](https://ja.wikipedia.org/wiki/LOVE_LETTER_\(BoA\))から翻訳されています。
+> この記事は[LOVE LETTER \(BoAの曲\)](https://ja.wikipedia.org/wiki/LOVE_LETTER_\(BoAの曲\))から翻訳されています。
 
 
 「**LOVE LETTER**」（ラヴ・レター）は、[BoA](../Page/BoA.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-  - 表題曲は共作ではあるものの、BoA自身が[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")を手掛けている。
+  - 表題曲は共作ではあるものの、BoA自身が[作詞](../Page/作詞.md "wikilink")を手掛けている。
   - 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」「CD＋[DVD](../Page/DVD-Video.md "wikilink")」の2形態。
   - 「愛しい人、大切な人に"想い"を伝えること」をテーマにした曲である。
   - カップリングにもタイアップがついており、実質トリプルA面のようなシングルである。
@@ -19,7 +19,7 @@
 
   - 期間限定SOUL特典サイト。
   - 購入者先着特典
-  - [B2サイズポスター](https://ja.wikipedia.org/wiki/紙の寸法 "wikilink")。（絵柄は告知ポスターと異なる。一部対象外の店舗あり。）
+  - [B2サイズポスター](../Page/紙の寸法.md "wikilink")。（絵柄は告知ポスターと異なる。一部対象外の店舗あり。）
   - このポスターの入手には、DVDつき形態のものにしかついてこなかったり、発売日当日になくなるところもあれば、発売から1ヶ月以上経っても残っていたりと、店によってかなりの差が出た。
 
 <!-- end list -->
@@ -38,11 +38,11 @@
 ### CD
 
 1.  **LOVE LETTER**
-      - 作詞：BoA、[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲：[葛谷葉子](https://ja.wikipedia.org/wiki/葛谷葉子 "wikilink")／編曲：[YANAGIMAN](../Page/YANAGIMAN.md "wikilink")
+      - 作詞：BoA、[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲：[葛谷葉子](../Page/葛谷葉子.md "wikilink")／編曲：[YANAGIMAN](../Page/YANAGIMAN.md "wikilink")
 2.  **Diamond Heart**
       - 作詞：西田恵美／作曲・編曲：ArmySlick
 3.  **Beautiful Flowers**
-      - 作詞：[藤林聖子](https://ja.wikipedia.org/wiki/藤林聖子 "wikilink")／作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+      - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")／作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
 4.  **LOVE LETTER（Winter Acoustic Mix）**（初回盤のみ）
 5.  LOVE LETTER（Instrumental）
 6.  Diamond Heart（Instrumental）
@@ -58,8 +58,8 @@
 
 <!-- end list -->
 
-  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[いただきマッスル\!](https://ja.wikipedia.org/wiki/いただきマッスル! "wikilink")』9月度エンディングテーマ
-  - [エムティーアイ](https://ja.wikipedia.org/wiki/エムティーアイ "wikilink")「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」CMソング
+  - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[いただきマッスル\!](../Page/いただきマッスル!.md "wikilink")』9月度エンディングテーマ
+  - [エムティーアイ](../Page/エムティーアイ.md "wikilink")「[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")」CMソング
 
 <!-- end list -->
 
@@ -67,8 +67,8 @@
 
 <!-- end list -->
 
-  - [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")「[W53T](../Page/W53T.md "wikilink")」CMソング
-  - 東芝携帯電話「[W54T](https://ja.wikipedia.org/wiki/W54T "wikilink")」CMソング
+  - [東芝](../Page/東芝.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")「[W53T](../Page/W53T.md "wikilink")」CMソング
+  - 東芝携帯電話「[W54T](../Page/W54T.md "wikilink")」CMソング
 
 <!-- end list -->
 
@@ -76,6 +76,6 @@
 
 <!-- end list -->
 
-  - [TBS系プロ野球中継](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")「[ザ・プロ野球](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")」2007年度テーマソング
+  - [TBS系プロ野球中継](../Page/TBSテレビ.md "wikilink")「[ザ・プロ野球](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")」2007年度テーマソング
 
 [Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:渡辺なつみが制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺なつみが制作した楽曲 "wikilink") [Category:葛谷葉子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:葛谷葉子が制作した楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:手紙を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:手紙を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

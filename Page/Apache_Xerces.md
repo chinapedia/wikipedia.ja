@@ -1,13 +1,13 @@
 > この記事は[Apache Xerces](https://ja.wikipedia.org/wiki/Apache_Xerces)から翻訳されています。
 
 
-**Apache Xerces**（アパッチ ザーシーズ）は、[XML文書のパースと操作を行うための一群の](../Page/Extensible_Markup_Language.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")パッケージであり、[Apacheソフトウェア財団](https://ja.wikipedia.org/wiki/Apacheソフトウェア財団 "wikilink")のApache Xercesプロジェクトにより開発されている。
+**Apache Xerces**（アパッチ ザーシーズ）は、[XML文書のパースと操作を行うための一群の](../Page/Extensible_Markup_Language.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")パッケージであり、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")のApache Xercesプロジェクトにより開発されている。
 
-このプロジェクトは、以前は[Apache XMLプロジェクトのサブプロジェクトであったが](https://ja.wikipedia.org/wiki/Apache_XML "wikilink")、現在はApacheソフトウェア財団のトップレベルプロジェクトとなっており、同財団で自らの権限で活動している。Xercesは、[Apacheライセンス](https://ja.wikipedia.org/wiki/Apacheライセンス "wikilink")による[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")パッケージ群である。広く使われているXMLプロセサ ([XMLパーサ](https://ja.wikipedia.org/wiki/XMLパーサ "wikilink")) の[実装](https://ja.wikipedia.org/wiki/実装 "wikilink")の一つである。[IBM](../Page/IBM.md "wikilink")からApacheソフトウェア財団に寄贈された XML4J という実装がもとになっているが、現在のバージョンは全て新規に開発し直された。
+このプロジェクトは、以前は[Apache XMLプロジェクトのサブプロジェクトであったが](../Page/Apache_XML.md "wikilink")、現在はApacheソフトウェア財団のトップレベルプロジェクトとなっており、同財団で自らの権限で活動している。Xercesは、[Apacheライセンス](https://ja.wikipedia.org/wiki/Apacheライセンス "wikilink")による[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")パッケージ群である。広く使われているXMLプロセサ ([XMLパーサ](https://ja.wikipedia.org/wiki/XMLパーサ "wikilink")) の[実装](../Page/実装.md "wikilink")の一つである。[IBM](../Page/IBM.md "wikilink")からApacheソフトウェア財団に寄贈された XML4J という実装がもとになっているが、現在のバージョンは全て新規に開発し直された。
 
 Xercesは、XML文書のパースとXML文書の生成の両方の機能を提供している。Xercesの名称は、Xerces Blue butterfly ([:en:Xerces Blue](https://ja.wikipedia.org/wiki/:en:Xerces_Blue "wikilink")) という絶滅した種の蝶に由来する\[1\]。
 
-Xercesが提供する[ライブラリ](../Page/ライブラリ.md "wikilink")は、XML文書のパースを行うためのさまざまな[APIを](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[実装](https://ja.wikipedia.org/wiki/実装 "wikilink")している。Xercesのライブラリが実装している、XML文書のパースのためのAPIには、[DOM](../Page/Document_Object_Model.md "wikilink")、[SAX](../Page/Simple_API_for_XML.md "wikilink")、SAX2が含まれている。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[C++](../Page/C++.md "wikilink")、[Perl](../Page/Perl.md "wikilink")向けのXercesソフトウェアパッケージが利用可能である。
+Xercesが提供する[ライブラリ](../Page/ライブラリ.md "wikilink")は、XML文書のパースを行うためのさまざまな[APIを](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[実装](../Page/実装.md "wikilink")している。Xercesのライブラリが実装している、XML文書のパースのためのAPIには、[DOM](../Page/Document_Object_Model.md "wikilink")、[SAX](../Page/Simple_API_for_XML.md "wikilink")、SAX2が含まれている。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[C++](../Page/C++.md "wikilink")、[Perl](../Page/Perl.md "wikilink")向けのXercesソフトウェアパッケージが利用可能である。
 
 ## 脚注
 
@@ -18,7 +18,7 @@ Xercesが提供する[ライブラリ](../Page/ライブラリ.md "wikilink")は
   - [Extensible Markup Language](../Page/Extensible_Markup_Language.md "wikilink") (XML)
   - [Document Object Model](../Page/Document_Object_Model.md "wikilink") (Document Object Model)
   - [Simple API for XML](../Page/Simple_API_for_XML.md "wikilink") (SAX)
-  - [Apache Xalan](https://ja.wikipedia.org/wiki/Apache_Xalan "wikilink") - アパッチ ザラン
+  - [Apache Xalan](../Page/Apache_Xalan.md "wikilink") - アパッチ ザラン
   - [Java XML](https://ja.wikipedia.org/wiki/Java_XML "wikilink") ([en](https://ja.wikipedia.org/wiki/:en:Java_XML "wikilink"))
 
 ## 外部リンク

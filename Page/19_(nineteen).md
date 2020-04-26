@@ -16,10 +16,10 @@
 ## 収録作品
 
   - DNA Communication（\#1、アルバムヴァージョン）
-  - [THE ALFEE THE BEST](https://ja.wikipedia.org/wiki/THE_ALFEE_THE_BEST "wikilink")（\#1、『DNA Communication』ヴァージョン）
-  - [THE ALFEE SINGLE HISTORY VOL.III 1987-1990](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.III_1987-1990 "wikilink")（\#1,2）
+  - [THE ALFEE THE BEST](../Page/THE_ALFEE_THE_BEST.md "wikilink")（\#1、『DNA Communication』ヴァージョン）
+  - [THE ALFEE SINGLE HISTORY VOL.III 1987-1990](../Page/THE_ALFEE_SINGLE_HISTORY_VOL.III_1987-1990.md "wikilink")（\#1,2）
   - [THE ALFEE 單曲全集二](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
-  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](https://ja.wikipedia.org/wiki/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37 "wikilink")（\#1）
+  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1）
 
 ## 品番
 

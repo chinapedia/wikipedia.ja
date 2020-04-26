@@ -17,20 +17,20 @@
 
 1.  **[the end of shite](https://ja.wikipedia.org/wiki/the_end_of_shite "wikilink")**
 2.  **[プリズム](../Page/プリズム_\(YUKIの曲\).md "wikilink")**
-3.  **[66db](https://ja.wikipedia.org/wiki/66db "wikilink")**
+3.  **[66db](../Page/66db.md "wikilink")**
 4.  **[スタンドアップ\!シスター](../Page/スタンドアップ!シスター.md "wikilink")**
 5.  **[センチメンタルジャーニー](https://ja.wikipedia.org/wiki/センチメンタルジャーニー_\(YUKIの曲\) "wikilink")**
 6.  **[ハミングバード](https://ja.wikipedia.org/wiki/ハミングバード_\(YUKIの曲\) "wikilink")**
 7.  **[Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")**
-8.  **[ハローグッバイ](https://ja.wikipedia.org/wiki/ハローグッバイ_\(YUKIの曲\) "wikilink")**
-9.  **[JOY](https://ja.wikipedia.org/wiki/JOY_\(YUKIの曲\) "wikilink")**
-10. **[長い夢](https://ja.wikipedia.org/wiki/長い夢_\(YUKIの曲\) "wikilink")**
+8.  **[ハローグッバイ](../Page/ハローグッバイ_\(YUKIの曲\).md "wikilink")**
+9.  **[JOY](../Page/JOY_\(YUKIの曲\).md "wikilink")**
+10. **[長い夢](../Page/長い夢_\(YUKIの曲\).md "wikilink")**
 11. **[ドラマチック](https://ja.wikipedia.org/wiki/ドラマチック_\(YUKIの曲\) "wikilink")**
-12. **[歓びの種](https://ja.wikipedia.org/wiki/歓びの種 "wikilink")**
-13. **[メランコリニスタ](https://ja.wikipedia.org/wiki/メランコリニスタ "wikilink")**
-14. **[ふがいないや](https://ja.wikipedia.org/wiki/ふがいないや "wikilink")**
-15. **[星屑サンセット](https://ja.wikipedia.org/wiki/星屑サンセット "wikilink")**
-16. **[ビスケット](https://ja.wikipedia.org/wiki/ビスケット_\(YUKIの曲\) "wikilink")**（ボーナストラック）
+12. **[歓びの種](../Page/歓びの種.md "wikilink")**
+13. **[メランコリニスタ](../Page/メランコリニスタ.md "wikilink")**
+14. **[ふがいないや](../Page/ふがいないや.md "wikilink")**
+15. **[星屑サンセット](../Page/星屑サンセット.md "wikilink")**
+16. **[ビスケット](../Page/ビスケット_\(YUKIの曲\).md "wikilink")**（ボーナストラック）
       - アルバム初収録・初CD化。
 
 ## 外部リンク

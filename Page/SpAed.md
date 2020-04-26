@@ -5,13 +5,13 @@
 
 ## 概要
 
-第2期[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")として活動した[山下昌良](https://ja.wikipedia.org/wiki/山下昌良 "wikilink")が[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")とバンドを組みたいことから、LOUDNESSを脱退しspAedを結成。『**SPAED**』にすると黒人差別に抵触するためAだけを大文字にしたという。[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")というより極太でストレートなバンドサウンドである。1997年11月をもって解散。
+第2期[LOUDNESS](../Page/LOUDNESS.md "wikilink")として活動した[山下昌良](../Page/山下昌良.md "wikilink")が[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")とバンドを組みたいことから、LOUDNESSを脱退しspAedを結成。『**SPAED**』にすると黒人差別に抵触するためAだけを大文字にしたという。[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")というより極太でストレートなバンドサウンドである。1997年11月をもって解散。
 
 ## メンバー
 
   - [片山景詞](../Page/片山圭司.md "wikilink") - ボーカル
   - [広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink") - ギター
-  - [山下昌良](https://ja.wikipedia.org/wiki/山下昌良 "wikilink") - ベース
+  - [山下昌良](../Page/山下昌良.md "wikilink") - ベース
   - [ERIC ZAY](https://ja.wikipedia.org/wiki/エリック・ゼイ "wikilink") - ドラム
 
 ## ディスコグラフィー
@@ -55,13 +55,13 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [BLUEW](../Page/BLUEW.md "wikilink")
-      - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")）
-      - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink")
+      - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")）
+      - [増田隆宣](../Page/増田隆宣.md "wikilink")
       - [大堀薫](../Page/大堀薫.md "wikilink")
-  - [44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")
-  - [LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS "wikilink")
-      - [二井原実](https://ja.wikipedia.org/wiki/二井原実 "wikilink")
-      - [高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")
-      - [樋口宗孝](https://ja.wikipedia.org/wiki/樋口宗孝 "wikilink")
+  - [44MAGNUM](../Page/44MAGNUM.md "wikilink")
+  - [LOUDNESS](../Page/LOUDNESS.md "wikilink")
+      - [二井原実](../Page/二井原実.md "wikilink")
+      - [高崎晃](../Page/高崎晃.md "wikilink")
+      - [樋口宗孝](../Page/樋口宗孝.md "wikilink")
 
 [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

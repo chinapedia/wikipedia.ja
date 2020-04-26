@@ -134,7 +134,7 @@
 
 ### 出典
 
-[Category:東京事変](https://ja.wikipedia.org/wiki/Category:東京事変 "wikilink") [Category:2005年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2005年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")
+[Category:東京事変の映像作品](https://ja.wikipedia.org/wiki/Category:東京事変の映像作品 "wikilink") [Category:東京事変のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:東京事変のコンサート・ツアー "wikilink") [Category:2005年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2005年のコンサート・ツアー "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")
 
 1.  「完全収録」と記載されているが、「ここでキスして。」と「顔」の間に披露された新曲「秘密」は2作目のアルバム『[大人（アダルト）](../Page/大人_\(アダルト\).md "wikilink")』の初回限定盤のみに付属されたDVDに収録されたため、本作には未収録。
 2.

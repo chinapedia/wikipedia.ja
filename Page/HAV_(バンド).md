@@ -25,7 +25,7 @@
     、[東京都](../Page/東京都.md "wikilink")出身
 
   - KENTARO - ギター
-    [阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")、、[東京都](../Page/東京都.md "wikilink")出身
+    [阿久津健太郎](../Page/阿久津健太郎.md "wikilink")、、[東京都](../Page/東京都.md "wikilink")出身
 
 ## 作品
 

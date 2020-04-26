@@ -57,6 +57,8 @@
 
   - [アンジェ・ヌヒウ](https://ja.wikipedia.org/wiki/アンジェ・ヌヒウ "wikilink") 2008-2010
 
+  - [ルカ・エルスナー](https://ja.wikipedia.org/wiki/ルカ・エルスナー "wikilink") 2010
+
   - [ズラトコ・ユヌゾヴィッチ](https://ja.wikipedia.org/wiki/ズラトコ・ユヌゾヴィッチ "wikilink") 2007-2009
 
 ## 外部リンク

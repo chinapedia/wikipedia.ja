@@ -376,7 +376,7 @@
 
 ### 出典
 
-[Category:東京事変](https://ja.wikipedia.org/wiki/Category:東京事変 "wikilink") [Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")
+[Category:東京事変の映像作品](https://ja.wikipedia.org/wiki/Category:東京事変の映像作品 "wikilink") [Category:東京事変のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:東京事変のコンサート・ツアー "wikilink") [Category:2006年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2006年のコンサート・ツアー "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")
 
 1.
 2.

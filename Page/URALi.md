@@ -1,7 +1,7 @@
 > この記事は[URALi](https://ja.wikipedia.org/wiki/URALi)から翻訳されています。
 
 
-**URALi**（ウラリ）は[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ヒップホップグループ「[D-ST.ENT.](https://ja.wikipedia.org/wiki/D-ST.ENT. "wikilink")」の一員。1996年より活動開始。2004年[コロムビアミュージックエンタテインメントよりソロデビュー](../Page/日本コロムビア.md "wikilink")。2009年までは、**NORISIAM-X**（ノリシャム・エックス）という名前で活動していた。
+**URALi**（ウラリ）は[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。ヒップホップグループ「[D-ST.ENT.](https://ja.wikipedia.org/wiki/D-ST.ENT. "wikilink")」の一員。1996年より活動開始。2004年[コロムビアミュージックエンタテインメントよりソロデビュー](../Page/日本コロムビア.md "wikilink")。2009年までは、**NORISIAM-X**（ノリシャム・エックス）という名前で活動していた。その後URALiへと改名。アルバムを3枚リリースしている。
 
 ## ディスコグラフィー
 
@@ -77,7 +77,7 @@
 ## 外部リンク
 
   - [Official Website](http://urali.net/)
-  - [公式ブログ](http://ameblo.jp/urali-x/)
+  - [公式ブログ](https://ameblo.jp/urali-x/)
   - [MySpace](http://www.myspace.com/norisiamxxx)
   - [コロムビアレコード時代の公式サイト](http://columbia.jp/norisiam-x/)
   - [NORISIAM-Xのdame dame](http://norisiam-x.cocolog-nifty.com/blog/)ブログ

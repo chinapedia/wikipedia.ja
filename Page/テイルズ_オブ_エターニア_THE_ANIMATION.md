@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")の1月から3月にかけて[WOWOW](../Page/WOWOW.md "wikilink")で放送された。[2006年](../Page/2006年.md "wikilink")10月から12月には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月から10月には[BS11デジタルでも放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（後者については、CM枠でミニコーナー『[ビバ☆テイルズ オブ](../Page/ビバ☆テイルズ_オブ.md "wikilink")』も放送）。[2014年](../Page/2014年.md "wikilink")の2月2日にはWOWOWで一挙放送された。
+[2001年](../Page/2001年.md "wikilink")の1月から3月にかけて[WOWOW](../Page/WOWOW.md "wikilink")で放送された。[2006年](../Page/2006年.md "wikilink")10月から12月には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月から10月には[BS11デジタルでも放送された](../Page/日本BS放送.md "wikilink")（後者については、CM枠でミニコーナー『[ビバ☆テイルズ オブ](../Page/ビバ☆テイルズ_オブ.md "wikilink")』も放送）。[2014年](../Page/2014年.md "wikilink")の2月2日にはWOWOWで一挙放送された。
 
 [『テイルズ オブ』 シリーズ初のテレビアニメ作品である](../Page/テイルズ_オブ_シリーズ.md "wikilink")。ストーリーはアニメオリジナルで、アニメオリジナルのキャラクターも登場する。オープニングおよびエンディングテーマはゲーム版とは異なる。
 
@@ -258,7 +258,7 @@
 | ---------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------- |
 | [日本全域](../Page/全国放送.md "wikilink") | [WOWOW](../Page/WOWOW.md "wikilink")                                   | [2001年](../Page/2001年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")   | 月曜 18時30分 - 19時00分\[1\] | [BS放送](../Page/衛星放送.md "wikilink")                            |
 | [東京都](../Page/東京都.md "wikilink")   | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")                      | [2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                  | 木曜 18時30分 - 19時00分      | [UHF系](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |
-| 日本全域                               | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [10月24日](../Page/10月24日.md "wikilink") | 土曜 23時00分 - 23時30分      | BS放送                                                          |
+| 日本全域                               | [BS11](../Page/日本BS放送.md "wikilink")                                   | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") - [10月24日](../Page/10月24日.md "wikilink") | 土曜 23時00分 - 23時30分      | BS放送                                                          |
 | WOWOW                              | [2014年](../Page/2014年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") |                                                                                                                                    |                         |                                                               |
 
 ## 関連商品

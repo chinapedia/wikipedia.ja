@@ -966,7 +966,7 @@
 
   - [Northern19 オフィシャルWEBサイト](http://www.northern19.com/) - CATCH ALL RECORDSによる公式ウェブサイト
   - [CATCH ALL RECORDS](http://www.catchall.jp/) - Northern19所属インディーズレーベル
-  - [馬場豊心オフィシャルブログ「B×B×B」](http://ameblo.jp/bbnorthern19)
+  - [馬場豊心オフィシャルブログ「B×B×B」](https://ameblo.jp/bbnorthern19)
   - [Northern19 Official Blog](http://n19.ldblog.jp/)
 
 <!-- end list -->

@@ -13,11 +13,11 @@
 ## 曲目
 
 1.  **【KR】cube**
-    (作詞:京 作曲・編曲:Dir en grey)
+    (作詞:京 作曲:Dir en grey)
       -
         [ライブではすでに発売に先駆けて披露されていた曲](../Page/演奏会.md "wikilink")。曲作りの段階から、セッション風に作りあげられて制作されていった。京は歌詞を書く際に、曲を聞いた時のイメージを元に書き上げていくが、敢えて正反対なものを書いてみたいという気持ちにもなるらしく、今作はまさにそのパターンで、その攻撃的で近未来的な雰囲気と対照的に、和風な歌詞になったと語っている。前作「[脈](../Page/脈_\(曲\).md "wikilink")」同様、アウトロが次曲に繋がっている。
 2.  **JEALOUS-reverse-**
-    (作詞:京 作曲・編曲:Dir en grey)
+    (作詞:京 作曲:Dir en grey)
       -
         インディーズ時代の「[JEALOUS](https://ja.wikipedia.org/wiki/JEALOUS_\(Dir_en_greyの曲\) "wikilink")」のリアレンジバージョン。前曲から間髪入れずに始まる。[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")がメインであった前作の[アレンジを変え](../Page/編曲.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")と京の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")のみをフィーチャーしている。歌詞が一部異なる。
 3.  **【KR】cube -K.K. Vomit Mix-**

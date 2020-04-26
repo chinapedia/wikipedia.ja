@@ -213,7 +213,7 @@
 31. [TWO-J](https://ja.wikipedia.org/wiki/TWO-J "wikilink")「**NEW OLD STOCK**」（2007年6月13日）
       -
         12.MUCH LOVE feat.BIG RON
-32. [ARIA](https://ja.wikipedia.org/wiki/ARIA "wikilink")「**NOT OVER feat. HOKT & BIG RON**」（2007年6月20日）
+32. [ARIA](../Page/ARIA_\(歌手\).md "wikilink")「**NOT OVER feat. HOKT & BIG RON**」（2007年6月20日）
 33. [DJ☆GO](https://ja.wikipedia.org/wiki/DJ☆GO "wikilink")「**730 RAIDERS**」（2007年09月19日）
       -
         08\. G'z NEED LUVIN' TOO

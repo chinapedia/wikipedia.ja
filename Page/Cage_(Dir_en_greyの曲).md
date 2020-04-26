@@ -22,6 +22,6 @@
 
 ## 脚注
 
-[Category:DIR_EN_GREYの楽曲](https://ja.wikipedia.org/wiki/Category:DIR_EN_GREYの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")
+[Category:DIR_EN_GREYの楽曲](https://ja.wikipedia.org/wiki/Category:DIR_EN_GREYの楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")
 
 1.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](../Page/月刊カドカワ.md "wikilink")」1999年7月号90Pより。

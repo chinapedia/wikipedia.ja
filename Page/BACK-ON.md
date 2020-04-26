@@ -214,7 +214,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
       - [10月26日](../Page/10月26日.md "wikilink")より、「夢想～Carry on～」がサブスクリプションサービス、網易雲音樂・KK BOX・friDay 音樂・MyMusic にて中華圏限定で配信開始。
       - [10月26日](../Page/10月26日.md "wikilink")に、台湾、台北で開催された、「Asia Rolling Music Festival」 に出演。中国語セルフカバーの「黑色小丑～Clown～」と「夢想～Carry on～」をLIVEにて初披露された。
       - [10月27日](../Page/10月27日.md "wikilink")に、台湾、「台湾大学総合体育館」にて開催された、台湾のミュージックアワード、第９回『[金音創作獎](https://ja.wikipedia.org/wiki/金音創作獎 "wikilink")』に出席。
-      - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に、『[六本木ヒルズアリーナ](https://ja.wikipedia.org/wiki/六本木ヒルズアリーナ "wikilink")』にて開催された、『第31回[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")』の連携イベント「TIFFプラス」の「JAMLAB. Presents JAPAN ANIME MUSIC SHOWCASE 2018」に出演。
+      - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に、『[六本木ヒルズアリーナ](https://ja.wikipedia.org/wiki/六本木ヒルズアリーナ "wikilink")』にて開催された、『第31回[東京国際映画祭](../Page/東京国際映画祭.md "wikilink")』の連携イベント「TIFFプラス」の「JAMLAB. Presents JAPAN ANIME MUSIC SHOWCASE 2018」に出演。
       - [11月11日](../Page/11月11日.md "wikilink")に、『[渋谷WWW](https://ja.wikipedia.org/wiki/渋谷WWW "wikilink")』にて、BACK-ON主催の対バンライブ「Bring the Noise Vol.1」を開催。w/[あっこゴリラ](../Page/あっこゴリラ.md "wikilink")、FAITH
       - [11月25日](../Page/11月25日.md "wikilink")に、中国の[テンセントQQ](../Page/テンセントQQ.md "wikilink")音楽生放送の人気音楽番組『YO\!BANG 由你音乐榜』にSPECIAL LIVEで生出演。中国語セルカバー曲『夢想～Carry on～』を音楽番組にて初演奏。BACK-ON出演週のリアルタイム総視聴数は340万視聴を超え、ディレイ放送で上海東方テレビにて地上波放送された。今回が中国国内での初LIVE。
 

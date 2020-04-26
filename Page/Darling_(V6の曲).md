@@ -29,7 +29,7 @@
 
 ## タイアップ
 
-  - [TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[きみはペット](https://ja.wikipedia.org/wiki/きみはペット "wikilink")」[主題歌](../Page/主題歌.md "wikilink")（\#1）
+  - [TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[きみはペット](../Page/きみはペット.md "wikilink")」[主題歌](../Page/主題歌.md "wikilink")（\#1）
   - [学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink")エンディングテーマ（\#1）
   - 映画：[ハードラックヒーロー](../Page/ハードラックヒーロー.md "wikilink")挿入歌（\#1）
 
@@ -51,4 +51,4 @@
   - 初回限定盤（緑）
       - Darling オリジナル携帯スクリーンシート
 
-[Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:TBS水曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS水曜10時枠の連続ドラマ主題歌 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:TBS水曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS水曜10時枠の連続ドラマ主題歌 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

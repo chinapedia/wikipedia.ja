@@ -22,7 +22,7 @@ Supernova（スーパーノヴァ）は英語で[超新星](../Page/超新星.md
       - [EXIT TUNES PRESENTS Supernova 3](https://ja.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Supernova_3 "wikilink")
       - [EXIT TUNES PRESENTS Supernova 4](https://ja.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Supernova_4 "wikilink")
       - [EXIT TUNES PRESENTS Supernova 5](https://ja.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Supernova_5 "wikilink")
-  - スーパーノヴァ (スピッツ) - 日本のバンド・[スピッツのアルバム](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")『[フェイクファー](../Page/フェイクファー_\(アルバム\).md "wikilink")』の収録曲。 ⇒ [フェイクファー (アルバム)\#収録曲](https://ja.wikipedia.org/wiki/フェイクファー_\(アルバム\)#収録曲 "wikilink")
+  - スーパーノヴァ (スピッツ) - 日本のバンド・[スピッツのアルバム](../Page/スピッツ_\(バンド\).md "wikilink")『[フェイクファー](../Page/フェイクファー_\(アルバム\).md "wikilink")』の収録曲。 ⇒ [フェイクファー (アルバム)\#収録曲](https://ja.wikipedia.org/wiki/フェイクファー_\(アルバム\)#収録曲 "wikilink")
   - [SUPERNOVA (音楽グループ)](https://ja.wikipedia.org/wiki/SUPERNOVA_\(音楽グループ\) "wikilink") - 韓国の男性ダンスボーカルグループ。旧名・**超新星**。
   - [SUPERNOVA (SPEED OF LIGHTSのアルバム)](https://ja.wikipedia.org/wiki/SUPERNOVA_\(SPEED_OF_LIGHTSのアルバム\) "wikilink") - [SPEED OF LIGHTSのアルバム](https://ja.wikipedia.org/wiki/SPEED_OF_LIGHTS "wikilink")。
   - [SUPER NOVA (DiverDivaの曲)](https://ja.wikipedia.org/wiki/SUPER_NOVA_\(DiverDivaの曲\) "wikilink") - [虹ヶ咲学園スクールアイドル同好会](https://ja.wikipedia.org/wiki/虹ヶ咲学園スクールアイドル同好会 "wikilink")のミニユニット、DiverDivaの曲。

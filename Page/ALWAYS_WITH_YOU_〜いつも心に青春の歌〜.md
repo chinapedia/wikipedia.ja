@@ -17,7 +17,7 @@
 | 曲順 | タイトル                                                        | アーティスト                                                                | 発売日         | レーベル                                                   |
 | 01 | 空に太陽がある限り                                                   | [にしきのあきら](../Page/錦野旦.md "wikilink")                                  | 1971年2月10日  | [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink") |
 | 02 | [17才](../Page/17才_\(南沙織の曲\).md "wikilink")                  | [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")                   | 1971年6月1日   |                                                        |
-| 03 | [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")   | [よしだたくろう](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")              | 1972年1月21日  |                                                        |
+| 03 | [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")   | [よしだたくろう](../Page/吉田拓郎.md "wikilink")                                 | 1972年1月21日  |                                                        |
 | 04 | [ひとりじゃないの](../Page/ひとりじゃないの.md "wikilink")                  | [天地真理](../Page/天地真理.md "wikilink")                                    | 1972年5月21日  |                                                        |
 | 05 | [学生街の喫茶店](../Page/学生街の喫茶店.md "wikilink")                    | [ガロ](../Page/ガロ_\(フォークグループ\).md "wikilink")                           | 1972年6月20日  | [アルファレコード](../Page/アルファレコード.md "wikilink")             |
 | 06 | [赤い風船](../Page/赤い風船_\(浅田美代子の曲\).md "wikilink")              | [浅田美代子](../Page/浅田美代子.md "wikilink")                                  | 1973年4月21日  | ソニー・ミュージックレコーズ                                         |

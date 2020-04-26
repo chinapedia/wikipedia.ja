@@ -1023,7 +1023,7 @@ WE aRE (PS3)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td><p>上下続 2010年7月9日</p></td>
 <td><p>金曜 25:55 - 27:55</p></td>
 </tr>

@@ -1,7 +1,7 @@
 > この記事は[“SINGLES”](https://ja.wikipedia.org/wiki/“SINGLES”)から翻訳されています。
 
 
-『**“SINGLES”**』（シングルズ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYのシングル曲集](https://ja.wikipedia.org/wiki/BOOWY "wikilink")。初の[ベストアルバムとしてリリースされた](../Page/ベスト・アルバム.md "wikilink")。
+『**“SINGLES”**』（シングルズ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYのシングル曲集](../Page/BOOWY.md "wikilink")。初の[ベストアルバムとしてリリースされた](../Page/ベスト・アルバム.md "wikilink")。
 
 ## リリース
 

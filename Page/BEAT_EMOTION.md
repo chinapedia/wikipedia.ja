@@ -1,7 +1,7 @@
 > この記事は[BEAT EMOTION](https://ja.wikipedia.org/wiki/BEAT_EMOTION)から翻訳されています。
 
 
-『**BEAT EMOTION**』（ビート・エモーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")（ボウイ）の5枚目のアルバム。
+『**BEAT EMOTION**』（ビート・エモーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOOWY.md "wikilink")（ボウイ）の5枚目のアルバム。
 
 ## 背景
 

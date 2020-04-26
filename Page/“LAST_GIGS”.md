@@ -1,7 +1,7 @@
 > この記事は[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS”)から翻訳されています。
 
 
-『**“LAST GIGS”**』（ラスト・ギグス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")（ボウイ）の2枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。
+『**“LAST GIGS”**』（ラスト・ギグス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWY](../Page/BOOWY.md "wikilink")（ボウイ）の2枚目の[ライブアルバム](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 背景
 

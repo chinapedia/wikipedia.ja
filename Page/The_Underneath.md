@@ -557,13 +557,13 @@ STRG-0002:通常盤</p></td>
 
   -
   -
-  - [TAKA 公式ブログ](http://ameblo.jp/underneath-taka/)
+  - [TAKA 公式ブログ](https://ameblo.jp/underneath-taka/)
 
-  - [MASATO 公式ブログ](http://ameblo.jp/underneath-masato/)
+  - [MASATO 公式ブログ](https://ameblo.jp/underneath-masato/)
 
-  - [RYO 公式ブログ](http://ameblo.jp/underneath-ryo/)
+  - [RYO 公式ブログ](https://ameblo.jp/underneath-ryo/)
 
-  - [MASAKI 公式ブログ](http://ameblo.jp/underneath-masaki/)
+  - [MASAKI 公式ブログ](https://ameblo.jp/underneath-masaki/)
 
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ニュー・メタル・バンド](https://ja.wikipedia.org/wiki/Category:ニュー・メタル・バンド "wikilink") [Category:オルタナティヴ・メタル・バンド](https://ja.wikipedia.org/wiki/Category:オルタナティヴ・メタル・バンド "wikilink") [Category:ゴシックメタル・バンド](https://ja.wikipedia.org/wiki/Category:ゴシックメタル・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:兵庫県出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県出身の人物 "wikilink")
 

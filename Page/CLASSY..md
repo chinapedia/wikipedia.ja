@@ -1,7 +1,7 @@
 > この記事は[CLASSY.](https://ja.wikipedia.org/wiki/CLASSY.)から翻訳されています。
 
 
-**CLASSY.**（クラッシィ）は[光文社](../Page/光文社.md "wikilink")から刊行されている女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。創刊は[1984年](../Page/1984年.md "wikilink")で、都市部の20代後半 - アラサーOLを主なターゲットとする。毎月28日発売。
+『**CLASSY.**』（クラッシィ）は、[光文社](../Page/光文社.md "wikilink")から刊行されている女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。創刊は[1984年](../Page/1984年.md "wikilink")で、都市部の20代後半から[アラサー](https://ja.wikipedia.org/wiki/アラサー "wikilink")OLを主なターゲットとする。毎月28日発売。
 
 『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』の系列誌のひとつである。
 
@@ -11,13 +11,13 @@
 
 雑誌名が表す通り、創刊当初は所得の高い良家の子女を対象としたもので、『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』を創刊した並河良が初代編集長を務め、バブル期には『[25ans](../Page/25ans.md "wikilink")』（[婦人画報社→ハースト婦人画報社](../Page/ハースト婦人画報社.md "wikilink")）、『[miss家庭画報→MISS→MISS plus+](../Page/MISS_\(雑誌\).md "wikilink")』（[世界文化社](../Page/世界文化社.md "wikilink")）とともにお嬢様雑誌御三家の一時代を築いたが、後に部数が低迷し編集方針を転換。現在では[OL誌](https://ja.wikipedia.org/wiki/OL誌 "wikilink")として、このジャンルの売り上げ上位雑誌の一角を『[Oggi](https://ja.wikipedia.org/wiki/Oggi "wikilink")』（[小学館](../Page/小学館.md "wikilink")）、『[BAILA](https://ja.wikipedia.org/wiki/BAILA "wikilink")』（[集英社](../Page/集英社.md "wikilink")）、『MISS plus+』（世界文化社）などとともに占める。
 
-購読者は24 - 30歳の[OL](../Page/OL.md "wikilink")が大半で、登場する[読者モデル](../Page/読者モデル.md "wikilink")も[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")や[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")の[企業](../Page/企業.md "wikilink")に勤務の[OL](../Page/OL.md "wikilink")がほとんどであり、[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")の読者は少ない。結婚に関する連載記事や連合広告企画もみられる。
+購読者は24歳から30歳のOLが大半で、登場する[読者モデル](../Page/読者モデル.md "wikilink")も[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")や[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")の企業に勤務のOLがほとんどであり、学生の読者は少ない。結婚に関する連載記事や連合広告企画もみられる。
 
 提案されるファッションの系統は、大都市圏のOL向け雑誌としては一般的な[コンサバファッション](../Page/コンサバファッション.md "wikilink")が中心であるが、編集方針転換後も、主に小物に関しては欧米名門ブランドの商品が多く使用される。
 
 カバーガールには、創刊以来、欧米の[スーパーモデル](../Page/スーパーモデル.md "wikilink")を起用していたが、路線転換後は、[梅宮アンナ](../Page/梅宮アンナ.md "wikilink")、[ブレンダなどを起用](../Page/ブレンダ_\(モデル\).md "wikilink")。その後は[青山恭子](../Page/青山恭子.md "wikilink")（2001年3月号 - 2002年2月号）、[田波涼子](../Page/田波涼子.md "wikilink")（2002年3月号 - 2005年12月号）、[相沢紗世](../Page/相沢紗世.md "wikilink")（2006年1月 - 2009年12月号）、[道端ジェシカ](https://ja.wikipedia.org/wiki/道端ジェシカ "wikilink")（2010年1月 - 12月号）、現在は[小泉里子](../Page/小泉里子.md "wikilink")（2011年1月号 - 2017年12月号）と、いずれも日本を代表するトップモデルが表紙を務める。誌面では『JJ』のお姉さん雑誌としての位置づけから、同誌出身のモデルが起用されることも多いが、2012年以降はそれ以外の出身者が増えつつある。
 
-誌面中ほどから終盤にかけてのうち4 - 6面程度が自社広告ページで、このうち2面が系列誌の『JJ』『[Gainer](../Page/Gainer.md "wikilink")』に割り当てられている。
+誌面中ほどから終盤にかけてのうち4 - 6面程度が自社広告ページで、このうち2面が系列誌の『JJ』『[Gainer](https://ja.wikipedia.org/wiki/Gainer_\(雑誌\) "wikilink")』に割り当てられている。
 
 ### 連載
 

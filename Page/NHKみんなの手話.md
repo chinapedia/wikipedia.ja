@@ -17,7 +17,7 @@
 <thead>
 <tr class="header">
 <th><p>放送期間</p></th>
-<th><p>放送日時（<a href="../Page/日本標準時.md" title="wikilink">日本時間</a>）</p></th>
+<th><p>放送時間（<a href="../Page/日本標準時.md" title="wikilink">日本時間</a>）</p></th>
 </tr>
 </thead>
 <tbody>

@@ -328,7 +328,7 @@
 <li>亜麻色の髪の乙女 / <a href="https://ja.wikipedia.org/wiki/橋本淳" title="wikilink">橋本淳</a></li>
 <li>魔法の言葉 ~Would you marry me?~ / <a href="../Page/Do_As_Infinity.md" title="wikilink">Do As Infinity</a></li>
 <li>IS IT YOU? / <a href="https://ja.wikipedia.org/wiki/hitomi" title="wikilink">hitomi</a></li>
-<li>Voyage / <a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></li>
+<li>Voyage / <a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></li>
 <li>ever after ~もしもあなたがいなければ~ / <a href="https://ja.wikipedia.org/wiki/Kenn_Kato" title="wikilink">Kenn Kato</a></li>
 <li>Believe / <a href="../Page/SHUN.md" title="wikilink">SHUN</a></li>
 <li>一緒に… / <a href="https://ja.wikipedia.org/wiki/PIPELINE_PROJECT" title="wikilink">PIPELINE PROJECT</a></li>

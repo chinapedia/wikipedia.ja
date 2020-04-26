@@ -48,4 +48,4 @@ NS32000シリーズCPUを使用したマシンの実例である。
 
 全く関係のない320xxという名前のプロセッサとしてWestern Digitalの作ったものがある（WE32000)。また、[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")の有名なDSPであるTMS320シリーズ（TMS32010など）もある。他にも色々な半導体企業が似たような名前を使っている。これはCPU設計者やマーケティング担当者が32ビットマイクロプロセッサに名前をつけるときに"32"という数字を入れたくなるためだろう。
 
-[Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink")
+[Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink")

@@ -9,4 +9,4 @@ HIPPIが使われなくなった理由を理解するには、Ultra3 SCSI が160
 
 HIPPIは[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink")では最初の「ほぼ」ギガビットのネットワークデータ通信規格であった(0.8Gビット/s)。 スーパーコンピュータ([クレイ](../Page/クレイ.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[SGI](https://ja.wikipedia.org/wiki/Silicon_Graphics "wikilink"))のために設計され、[イーサネット](../Page/イーサネット.md "wikilink")のような一般市場向け規格と対抗しようとしたことはない。80～90年代にHIPPIのために開発された技術は、[インフィニバンド](https://ja.wikipedia.org/wiki/インフィニバンド "wikilink")のような技術に受け継がれている。 HIPPIの特筆すべき点は、イーサネットがまだ10Mビット/sで[SONETの](../Page/Synchronous_Digital_Hierarchy.md "wikilink") OC-3 (155Mビット/s)が最先端技術と言われていた時期に開発されたことである。
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink") [Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink") [Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink") [Category:並列コンピューティング](https://ja.wikipedia.org/wiki/Category:並列コンピューティング "wikilink") [Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink")

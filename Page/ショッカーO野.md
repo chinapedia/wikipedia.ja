@@ -117,7 +117,7 @@
   - 水木一郎24時間1000曲ライヴ（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [ANIME JAPAN FES](https://ja.wikipedia.org/wiki/ANIME_JAPAN_FES "wikilink")
 
-:\*[スーパーロボット魂](https://ja.wikipedia.org/wiki/スーパーロボット魂 "wikilink")
+:\*[スーパーロボット魂](../Page/スーパーロボット魂.md "wikilink")
 
 :\*[スーパーヒーロー魂](https://ja.wikipedia.org/wiki/スーパーヒーロー魂 "wikilink")
 

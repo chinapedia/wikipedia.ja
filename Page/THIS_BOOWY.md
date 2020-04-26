@@ -1,7 +1,7 @@
 > この記事は[THIS BOOWY](https://ja.wikipedia.org/wiki/THIS_BOOWY)から翻訳されています。
 
 
-『**THIS BOØWY**』（ディス・ボウイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**THIS BOØWY**』（ディス・ボウイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")[BOØWYの](../Page/BOOWY.md "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 製作
 

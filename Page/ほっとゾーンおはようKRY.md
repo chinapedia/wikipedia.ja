@@ -1,7 +1,7 @@
 > この記事は[ほっとゾーンおはようKRY](https://ja.wikipedia.org/wiki/ほっとゾーンおはようKRY)から翻訳されています。
 
 
-**おはようKRY**（おはようケーアールワイ）は、KRY[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")ラジオで放送している平日早朝の大型ワイド・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[2002年](../Page/2002年.md "wikilink")4月に放送開始。
+**おはようKRY**（おはようケーアールワイ）は、KRY[山口放送](../Page/山口放送.md "wikilink")ラジオで放送している平日早朝の大型ワイド・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。[2002年](../Page/2002年.md "wikilink")4月に放送開始。
 番組開始以来、正式タイトルには「**HOT ZONE おはようKRY**」（ホットゾーン おはようケーアールワイ）として放送してきたが、[2011年](../Page/2011年.md "wikilink")4月にパーソナリティを一新したことにより、現在のタイトルとなっている。
 
 ## 概要

@@ -595,6 +595,6 @@
 
   - [公式サイト](http://www.cluster-edge.net/)
   - [公式サイト](http://www.tv-tokyo.co.jp/anime/cluster-edge)（テレビ東京）
-  - [バンダイチャンネル](http://www.b-ch.com/ttl/index.php?ttl_c=447)
+  - [バンダイチャンネル](https://www.b-ch.com/titles/447/)
 
 [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:サンライズ作品](https://ja.wikipedia.org/wiki/Category:サンライズ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:漫画作品_く](https://ja.wikipedia.org/wiki/Category:漫画作品_く "wikilink") [Category:LaLa](https://ja.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:マーベラスのゲームソフト](https://ja.wikipedia.org/wiki/Category:マーベラスのゲームソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")

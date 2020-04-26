@@ -1,7 +1,7 @@
 > この記事は[MORAL](https://ja.wikipedia.org/wiki/MORAL)から翻訳されています。
 
 
-『**MORAL**』（モラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYのファーストアルバム](https://ja.wikipedia.org/wiki/BOOWY "wikilink")。
+『**MORAL**』（モラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYのファーストアルバム](../Page/BOOWY.md "wikilink")。
 
 ## 背景
 

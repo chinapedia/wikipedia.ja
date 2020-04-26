@@ -1,7 +1,7 @@
 > この記事は[INSTANT LOVE](https://ja.wikipedia.org/wiki/INSTANT_LOVE)から翻訳されています。
 
 
-『**INSTANT LOVE**』（インスタント・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンドである[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")2枚目のアルバム。
+『**INSTANT LOVE**』（インスタント・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンドである[BOØWYの](../Page/BOOWY.md "wikilink")2枚目のアルバム。
 
 ## 背景
 

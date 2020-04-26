@@ -160,7 +160,7 @@
 
   - [広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")「甘いお話 part3」
   - [レミオロメン](../Page/レミオロメン.md "wikilink")「[恋の予感から](https://ja.wikipedia.org/wiki/恋の予感から "wikilink")」
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「幻のドラゴン」
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")「幻のドラゴン」
 
 ## 脚注
 

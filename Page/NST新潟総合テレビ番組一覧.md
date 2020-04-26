@@ -9,11 +9,12 @@
 
   - [スマイルナビゲーション](https://ja.wikipedia.org/wiki/NSTくらしの情報 "wikilink")（月 - 金曜 11:20 - 11:25、日曜 14:55 - 15:00）
   - [NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")（月曜 - 金曜 18:14 - 19:00）
-  - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50）
+  - [FNN・NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（土曜 - 日曜 17:30 - 18:00）
+  - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50 再放送・金曜 25:00 - 26:00）
   - [NSTこんやのニュース](../Page/NSTニュース.md "wikilink")（日曜 21:48 - 21:54、月曜 - 土曜 20:54 - 21:00、2015年3月までは『NSTニュース』）
   - [八千代 A GO\!GO\!](https://ja.wikipedia.org/wiki/八千代_A_GO!GO! "wikilink")（金曜 22:52 - 23:00　八千代コースターの姉妹番組）
   - [八千代コースター](https://ja.wikipedia.org/wiki/八千代コースター "wikilink")（土曜 10:25 - 11:15）
-  - [シネマスタジアム](https://ja.wikipedia.org/wiki/シネマスタジアム "wikilink")（第2土曜 11:35 - 11:40、第4土曜 11:40 - 11:45 ※時間変更の場合あり）
+  - [シネマスタジアム](https://ja.wikipedia.org/wiki/シネマスタジアム "wikilink")（第2土曜、第4土曜 14:55 - 15:00 ※時間変更の場合あり）
   - [県からのお知らせ](../Page/新潟県.md "wikilink")（土曜 12:55 - 13:00）
   - [スマイルスタジアムNST](../Page/スマイルスタジアムNST.md "wikilink")（土曜 18:00 - 18:55）
   - [アルビSTADIUM NST](https://ja.wikipedia.org/wiki/アルビSTADIUM_NST "wikilink")（土曜 18:55 - 19:00）
@@ -49,14 +50,14 @@
   - [村上マヨネーズのツッコませて頂きます\!](https://ja.wikipedia.org/wiki/村上マヨネーズのツッコませて頂きます! "wikilink")（水曜 25:00 - 25:30、関西テレビ制作）
   - [KinKi Kidsのブンブブーン](https://ja.wikipedia.org/wiki/KinKi_Kidsのブンブブーン "wikilink")（水曜 25:30 - 26:00）
   - 粋男流儀〜遊びの美学〜（木曜 25:25 - 25:40、[BSフジ](../Page/BSフジ.md "wikilink")制作）
-  - [うちタマ?\! 〜うちのタマ知りませんか?〜](https://ja.wikipedia.org/wiki/うちタマ?!_〜うちのタマ知りませんか?〜 "wikilink")（木曜 25:45 - 26:15、『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠）
+  - [富豪刑事 Balance:UNLIMITED](https://ja.wikipedia.org/wiki/富豪刑事#テレビアニメ "wikilink")（木曜 25:45 - 26:15、『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠）
   - [志村でナイト](https://ja.wikipedia.org/wiki/志村でナイト "wikilink") （金曜 26:00 - 26:30）
   - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink") （土曜 5:30 - 6:00）
+  - [おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")（土曜 11:15 - 11:45、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")）
   - [正直さんぽ](https://ja.wikipedia.org/wiki/正直さんぽ "wikilink")（土曜 15:00 - 16:30）
   - [ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")（土曜 25:45 - 26:50、関西テレビ制作）
   - [テレビ寺子屋](../Page/テレビ寺子屋.md "wikilink")（日曜 5:30 - 6:00、[テレビ静岡](../Page/テレビ静岡.md "wikilink")制作）
   - [もしもツアーズ](../Page/もしもツアーズ.md "wikilink")（日曜 8:25 - 9:00）
-  - [おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")（日曜 9:30 - 10:00、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")）
   - [物語の始まりへ](https://ja.wikipedia.org/wiki/物語の始まりへ "wikilink")（日曜 11:45 - 11:50、[石川テレビ制作](../Page/石川テレビ放送.md "wikilink")）
   - [キスマイ超BUSAIKU\!?](https://ja.wikipedia.org/wiki/キスマイBUSAIKU!? "wikilink")（日曜 25:25 - 25:55）
   - [ぐっさん家〜THE GOODSUN HOUSE〜](../Page/ぐっさん家〜THE_GOODSUN_HOUSE〜.md "wikilink")（不定期放送、東海テレビ制作）
@@ -69,18 +70,16 @@
 
 ### テレビ東京系列
 
-  - [昼めし旅 〜あなたのご飯見せてください\!〜](https://ja.wikipedia.org/wiki/昼めし旅_〜あなたのご飯見せてください!〜 "wikilink")（月曜 16:20 - 16:50）
+  - [昼めし旅 〜あなたのご飯見せてください\!〜](https://ja.wikipedia.org/wiki/昼めし旅_〜あなたのご飯見せてください!〜 "wikilink")（月曜 - 木曜 16:20 - 16:50）
   - [チマタの噺](https://ja.wikipedia.org/wiki/チマタの噺 "wikilink")（月曜 25:25 - 25:55）
-  - [カードファイト\!\! ヴァンガード（続・高校生編→新右衛門編）](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")（火曜 16:20 - 16:50、[テレビ愛知](../Page/テレビ愛知.md "wikilink")制作）
   - [出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")（火曜 24:30 - 25:25）
   - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（火曜 25:25 - 25:55）
-  - [太一](../Page/国分太一.md "wikilink")×[ケンタロウ](../Page/ケンタロウ.md "wikilink") 男子ごはん→[男子ごはん](https://ja.wikipedia.org/wiki/男子ごはん "wikilink")（木曜 16:20 - 16:50）
   - [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")（木曜 24:30 - 25:25）
-  - [アイカツ\!](https://ja.wikipedia.org/wiki/アイカツ!_\(アニメ\) "wikilink")→[アイカツスターズ\!](https://ja.wikipedia.org/wiki/アイカツスターズ! "wikilink")→[アイカツフレンズ\!](https://ja.wikipedia.org/wiki/アイカツフレンズ! "wikilink")→[アイカツオンパレード\!](https://ja.wikipedia.org/wiki/アイカツオンパレード! "wikilink")（土曜 11:15 - 11:45）
   - [YOUは何しに日本へ?](https://ja.wikipedia.org/wiki/YOUは何しに日本へ? "wikilink")（本放送：土曜 12:00 - 12:55、再放送：月曜 24:30 - 25:25）
   - [土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")（土曜 13:00 - 14:55、[ローカル路線バス乗り継ぎの旅](https://ja.wikipedia.org/wiki/ローカル路線バス乗り継ぎの旅 "wikilink")は過去に[UXでも放送されたことがある](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")。）
-  - [突撃\!隣のスゴイ家](https://ja.wikipedia.org/wiki/突撃!隣のスゴイ家 "wikilink")（日曜 12:00 - 12:55、[BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")制作）
   - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")（土曜 16:30 - 17:30 再放送・日曜 12:55 - 14:00）
+  - [カードファイト\!\! ヴァンガード（続・高校生編→新右衛門編）](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")（日曜 9:30 - 10:00、[テレビ愛知](../Page/テレビ愛知.md "wikilink")制作）
+  - [突撃\!隣のスゴイ家](https://ja.wikipedia.org/wiki/突撃!隣のスゴイ家 "wikilink")（日曜 12:00 - 12:55、[BSテレ東](https://ja.wikipedia.org/wiki/BSテレ東 "wikilink")制作）
   - [所さんの学校では教えてくれないそこんトコロ\!](../Page/所さんの学校では教えてくれないそこんトコロ!.md "wikilink")（日曜 14:00 - 14:55）
   - [超かわいい映像連発\!どうぶつピース\!\!](https://ja.wikipedia.org/wiki/超かわいい映像連発!どうぶつピース!! "wikilink")（不定期放送）
 
@@ -102,6 +101,8 @@
   - [NSTニュース3:50](https://ja.wikipedia.org/wiki/NSTニュース3:50 "wikilink")
   - [NSTニュース3:55](https://ja.wikipedia.org/wiki/NSTニュース3:55 "wikilink")
   - [NSTスーパーニュース](../Page/NSTスーパーニュース.md "wikilink")
+  - [NST みんなのニュース](https://ja.wikipedia.org/wiki/NST_みんなのニュース "wikilink")
+  - [NST プライムニュース](https://ja.wikipedia.org/wiki/NST_プライムニュース "wikilink")
   - [お天気ホットライン](https://ja.wikipedia.org/wiki/お天気ホットライン "wikilink")
   - [アイドル伝説](https://ja.wikipedia.org/wiki/アイドル伝説 "wikilink")→アイドル伝説II
   - [おかわり自由](https://ja.wikipedia.org/wiki/おかわり自由 "wikilink")
@@ -197,6 +198,7 @@
 
 ### テレビ東京系列
 
+  - [アイカツ\!](https://ja.wikipedia.org/wiki/アイカツ!_\(アニメ\) "wikilink")→[アイカツスターズ\!](https://ja.wikipedia.org/wiki/アイカツスターズ! "wikilink")→[アイカツフレンズ\!](https://ja.wikipedia.org/wiki/アイカツフレンズ! "wikilink")→[アイカツオンパレード\!](https://ja.wikipedia.org/wiki/アイカツオンパレード! "wikilink")
   - [ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")
   - [元祖\!でぶや](../Page/元祖!でぶや.md "wikilink") ※HD
   - [炎の闘球児 ドッジ弾平](https://ja.wikipedia.org/wiki/炎の闘球児_ドッジ弾平#TVアニメ "wikilink")
@@ -249,6 +251,7 @@
   - [ヒャッキン\!〜世界で100円グッズを使ってみると?〜](https://ja.wikipedia.org/wiki/ヒャッキン!〜世界で100円グッズを使ってみると?〜 "wikilink")（2019年3月31日に打ち切り）
   - [フューチャーカード バディファイトX オールスターファイト](https://ja.wikipedia.org/wiki/フューチャーカード_バディファイト "wikilink")→[フューチャーカード 神バディファイト](https://ja.wikipedia.org/wiki/フューチャーカード_神バディファイト "wikilink")（テレビ愛知制作、2019年4月23日に打ち切り）
   - [TVチャンピオン極 〜KIWAMI〜](https://ja.wikipedia.org/wiki/TVチャンピオン極_〜KIWAMI〜 "wikilink")
+  - [太一](../Page/国分太一.md "wikilink")×[ケンタロウ](../Page/ケンタロウ.md "wikilink") 男子ごはん→[男子ごはん](https://ja.wikipedia.org/wiki/男子ごはん "wikilink")
 
 他
 

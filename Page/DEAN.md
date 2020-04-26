@@ -70,7 +70,7 @@
   - [POPEYE](../Page/POPEYE.md "wikilink")
   - [DAZED\&CONFUSED](https://ja.wikipedia.org/wiki/DAZED&CONFUSED "wikilink")
   - [Boon](https://ja.wikipedia.org/wiki/Boon "wikilink")
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")
   - [HUgE](https://ja.wikipedia.org/wiki/HUgE "wikilink")
   - [VOGUE TAIWAN](https://ja.wikipedia.org/wiki/VOGUE_TAIWAN "wikilink")
   - [ThRiLL](https://ja.wikipedia.org/wiki/ThRiLL "wikilink")
@@ -103,4 +103,4 @@
   - [クリプトシティ](https://www.facebook.com/CryptCity)
   - [アジテーター](https://www.facebook.com/agitator.hp)
 
-[Category:日本の男性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の男性ファッションモデル "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のギタリスト](https://ja.wikipedia.org/wiki/Category:日本のギタリスト "wikilink") [Category:日本のファッションデザイナー](https://ja.wikipedia.org/wiki/Category:日本のファッションデザイナー "wikilink")
+[Category:日本の男性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の男性ファッションモデル "wikilink") [Category:日本のギタリスト](https://ja.wikipedia.org/wiki/Category:日本のギタリスト "wikilink") [Category:日本のファッションデザイナー](https://ja.wikipedia.org/wiki/Category:日本のファッションデザイナー "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

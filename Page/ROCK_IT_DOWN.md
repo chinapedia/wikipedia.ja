@@ -16,4 +16,4 @@
 
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」オープニングテーマ（ROCK IT DOWN）
 
-[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:1997年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1997年のデビュー・シングル "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:1997年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1997年のデビュー・シングル "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")

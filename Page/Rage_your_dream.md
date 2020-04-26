@@ -27,7 +27,7 @@
 
 <references />
 
-[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink")
+[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
 
 1.  ACT.5（ラジオの音楽）、ACT.7（ファミレスの店内BGM）、ACT.9（インストゥルメントver）、ACT.15、ACT.20で使用された。
 2.  解説書にて

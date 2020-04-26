@@ -1,4 +1,4 @@
-> この記事は[WDR](https://ja.wikipedia.org/wiki/WDR)から翻訳されています。
+> この記事は[ケルンWDR交響楽団](https://ja.wikipedia.org/wiki/ケルンWDR交響楽団)から翻訳されています。
 
 
 **ケルンWDR交響楽団**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")連邦共和国[ノルトライン＝ヴェストファーレン州](../Page/ノルトライン＝ヴェストファーレン州.md "wikilink")[ケルン](../Page/ケルン.md "wikilink")市に本拠を置く（WDR）所属の[放送オーケストラ](https://ja.wikipedia.org/wiki/放送オーケストラ "wikilink")。旧称の**ケルン放送交響楽団**（）でも呼ばれる。

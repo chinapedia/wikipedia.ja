@@ -42,7 +42,7 @@
 
 ## 脚注
 
-[Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:1980年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1980年のデビュー・シングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:坂本龍一の楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一の楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:アルファレコードのシングル](https://ja.wikipedia.org/wiki/Category:アルファレコードのシングル "wikilink") [Category:1980年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1980年のデビュー・シングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  坂本龍一『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』収載「全曲コメント」
 2.  現在は“NEW LEX”として営業。

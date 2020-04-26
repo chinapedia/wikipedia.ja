@@ -1,4 +1,4 @@
-> この記事は[DISCOVERY \(\)](https://ja.wikipedia.org/wiki/DISCOVERY_\(\))から翻訳されています。
+> この記事は[DISCOVERY \(ゲームブランド\)](https://ja.wikipedia.org/wiki/DISCOVERY_\(ゲームブランド\))から翻訳されています。
 
 
 **DISCOVERY**（ディスカバリー）は、かつて存在した株式会社[セブンエイト](https://ja.wikipedia.org/wiki/セブンエイト "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。

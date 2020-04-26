@@ -1,4 +1,4 @@
-> この記事は[Identity \(\)](https://ja.wikipedia.org/wiki/Identity_\(\))から翻訳されています。
+> この記事は[Identity \(今井絵理子の曲\)](https://ja.wikipedia.org/wiki/Identity_\(今井絵理子の曲\))から翻訳されています。
 
 
 **identity**（アイデンティティ）は、日本の女性[歌手](../Page/歌手.md "wikilink")、[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -6,7 +6,7 @@
 ## 解説
 
   - [2001年](../Page/2001年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりリリースされた。
-  - 本人出演の[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「[バヤリース](https://ja.wikipedia.org/wiki/バヤリース "wikilink")オレンジフルオレンジ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+  - 本人出演の[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「[バヤリース](../Page/バヤリース.md "wikilink")オレンジフルオレンジ」[CMソング](../Page/コマーシャルソング.md "wikilink")。
   - カップリング曲「place in the sun」はelly名義のライブでもよく披露されている。
   - TFCC-87081 定価￥1,200(廃盤)
 

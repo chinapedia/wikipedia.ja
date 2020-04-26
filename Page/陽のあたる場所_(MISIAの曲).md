@@ -1,4 +1,4 @@
-> この記事は[ \(MISIA\)](https://ja.wikipedia.org/wiki/_\(MISIA\))から翻訳されています。
+> この記事は[陽のあたる場所 \(MISIAの曲\)](https://ja.wikipedia.org/wiki/陽のあたる場所_\(MISIAの曲\))から翻訳されています。
 
 
 『**陽のあたる場所**』（ひのあたるばしょ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -47,4 +47,4 @@
 4.  **陽のあたる場所 (NEW SOUL RIVER DUB)**
     （作詞:MISIA & 佐々木潤　作曲・編曲:佐々木潤）
 
-[Category:MISIAの楽曲](https://ja.wikipedia.org/wiki/Category:MISIAの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:BMG_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:BMG_JAPANの楽曲 "wikilink") [Category:どっちの料理ショー](https://ja.wikipedia.org/wiki/Category:どっちの料理ショー "wikilink") [Category:太陽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:太陽を題材とした楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink")
+[Category:MISIAの楽曲](https://ja.wikipedia.org/wiki/Category:MISIAの楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:BMG_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:BMG_JAPANの楽曲 "wikilink") [Category:どっちの料理ショー](https://ja.wikipedia.org/wiki/Category:どっちの料理ショー "wikilink") [Category:太陽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:太陽を題材とした楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

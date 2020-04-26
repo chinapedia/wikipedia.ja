@@ -1,4 +1,4 @@
-> この記事は[ -Typhoon Generation-](https://ja.wikipedia.org/wiki/_-Typhoon_Generation-)から翻訳されています。
+> この記事は[台風ジェネレーション -Typhoon Generation-](https://ja.wikipedia.org/wiki/台風ジェネレーション_-Typhoon_Generation-)から翻訳されています。
 
 
 「**台風ジェネレーション -Typhoon Generation-**」（タイフーンジェネレーション）は、[2000年](../Page/2000年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された、嵐の3枚目のシングル。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
@@ -34,4 +34,4 @@
   - [5×10 All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_1999-2009 "wikilink")（\#1）
   - [5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")（\#1）
 
-[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:ブルボンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ブルボンのコマーシャルソング "wikilink") [Category:久保田洋司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田洋司が制作した楽曲 "wikilink") [Category:馬飼野康二が制作した楽曲](https://ja.wikipedia.org/wiki/Category:馬飼野康二が制作した楽曲 "wikilink") [Category:嵐を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:嵐を題材とした楽曲 "wikilink") [Category:ハ長調](https://ja.wikipedia.org/wiki/Category:ハ長調 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
+[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:ブルボンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ブルボンのコマーシャルソング "wikilink") [Category:久保田洋司が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田洋司が制作した楽曲 "wikilink") [Category:馬飼野康二が制作した楽曲](https://ja.wikipedia.org/wiki/Category:馬飼野康二が制作した楽曲 "wikilink") [Category:嵐を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:嵐を題材とした楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

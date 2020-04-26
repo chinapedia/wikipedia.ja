@@ -1,7 +1,7 @@
-> この記事は[ Ronin ](https://ja.wikipedia.org/wiki/_Ronin_)から翻訳されています。
+> この記事は[幕末青春グラフィティ Ronin 坂本竜馬](https://ja.wikipedia.org/wiki/幕末青春グラフィティ_Ronin_坂本竜馬)から翻訳されています。
 
 
-『**幕末青春グラフィティ Ronin 坂本竜馬**』（ばくまつせいしゅんグラフィティ ろうにん さかもとりょうま）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。[東京放送](../Page/TBSテレビ.md "wikilink")・[電通](../Page/電通.md "wikilink")提携製作、東宝（洋画系）配給\[1\]。主演の[武田鉄矢](../Page/武田鉄矢.md "wikilink")は後に、日本テレビ[年末時代劇スペシャル](../Page/年末時代劇スペシャル.md "wikilink")シリーズ第5作の『[奇兵隊](https://ja.wikipedia.org/wiki/奇兵隊_\(テレビドラマ\) "wikilink")』（[1989年](../Page/1989年.md "wikilink")）で、スタッフからのオファーにより同じ[坂本竜馬役で特別出演している](../Page/坂本龍馬.md "wikilink")。監督の[河合義隆](../Page/河合義隆.md "wikilink")は劇映画初演出 。[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")を始め、[ニューミュージック](../Page/ニューミュージック.md "wikilink")のスターたちが[幕末](../Page/幕末.md "wikilink")の[志士](../Page/志士.md "wikilink")に扮して出演し、また[主題歌](../Page/主題歌.md "wikilink")、[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")を歌う\[2\]\[3\]。[長州藩](../Page/長州藩.md "wikilink")の[ユニオン号](https://ja.wikipedia.org/wiki/ユニオン号 "wikilink")と[幕府側の](https://ja.wikipedia.org/wiki/幕府海軍 "wikilink")[富士山丸の](../Page/富士山_\(スループ\).md "wikilink")2艘を建造し\[4\]、長期ロケを敢行するなど、当時はテレビ局や大手企業の映画製作参入が相次ぎ、潤沢な予算で映画製作が可能だった\[5\]。
+『**幕末青春グラフィティ Ronin 坂本竜馬**』（ばくまつせいしゅんグラフィティ ろうにん さかもとりょうま）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。[東京放送](../Page/TBSテレビ.md "wikilink")・[電通](../Page/電通.md "wikilink")提携製作、東宝（洋画系）配給\[1\]。主演の[武田鉄矢](../Page/武田鉄矢.md "wikilink")は後に、日本テレビ[年末時代劇スペシャル](../Page/年末時代劇スペシャル.md "wikilink")シリーズ第5作の『[奇兵隊](https://ja.wikipedia.org/wiki/奇兵隊_\(テレビドラマ\) "wikilink")』（[1989年](../Page/1989年.md "wikilink")）で、スタッフからのオファーにより同じ[坂本竜馬役で特別出演している](../Page/坂本龍馬.md "wikilink")。監督の[河合義隆](../Page/河合義隆.md "wikilink")は劇映画初演出 。[吉田拓郎](../Page/吉田拓郎.md "wikilink")を始め、[ニューミュージック](../Page/ニューミュージック.md "wikilink")のスターたちが[幕末](../Page/幕末.md "wikilink")の[志士](../Page/志士.md "wikilink")に扮して出演し、また[主題歌](../Page/主題歌.md "wikilink")、[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")を歌う\[2\]\[3\]。[長州藩](../Page/長州藩.md "wikilink")の[ユニオン号](https://ja.wikipedia.org/wiki/ユニオン号 "wikilink")と[幕府側の](https://ja.wikipedia.org/wiki/幕府海軍 "wikilink")[富士山丸の](../Page/富士山_\(スループ\).md "wikilink")2艘を建造し\[4\]、長期ロケを敢行するなど、当時はテレビ局や大手企業の映画製作参入が相次ぎ、潤沢な予算で映画製作が可能だった\[5\]。
 
 ## あらすじ
 
@@ -47,7 +47,7 @@
 
 ### 長州・奇兵隊関係
 
-  - [高杉晋作](../Page/高杉晋作.md "wikilink") - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [高杉晋作](../Page/高杉晋作.md "wikilink") - [吉田拓郎](../Page/吉田拓郎.md "wikilink")
   - [桂小五郎](../Page/木戸孝允.md "wikilink")（のちの木戸孝允） - [川谷拓三](../Page/川谷拓三.md "wikilink")
   - [伊藤俊輔](https://ja.wikipedia.org/wiki/伊藤博文 "wikilink")（のちの博文） - [伊武雅刀](../Page/伊武雅刀.md "wikilink")
   - [山県狂介](../Page/山縣有朋.md "wikilink")（のちの有朋） - [原田大二郎](../Page/原田大二郎.md "wikilink")
@@ -142,23 +142,6 @@
     [武田鉄矢](../Page/武田鉄矢.md "wikilink")が本作の関連から、同じ役にて特別出演した長編時代劇作品。
 
 ## 脚注
-
-## 関連項目
-
-  - [幕末青春グラフィティ 坂本竜馬](https://ja.wikipedia.org/wiki/幕末青春グラフィティ_坂本竜馬 "wikilink")
-  - [幕末青春グラフィティ 福沢諭吉](https://ja.wikipedia.org/wiki/幕末青春グラフィティ_福沢諭吉 "wikilink")
-  - [お〜い\!竜馬](../Page/お〜い!竜馬.md "wikilink")
-  - [幕末の人物一覧](../Page/幕末の人物一覧.md "wikilink")
-  - [坂本龍馬](../Page/坂本龍馬.md "wikilink")
-  - [土佐藩](../Page/土佐藩.md "wikilink")
-  - [奇兵隊](../Page/奇兵隊.md "wikilink")
-  - [土佐勤王党の獄](https://ja.wikipedia.org/wiki/土佐勤王党#土佐勤王党の獄 "wikilink")
-  - [第二次長州征討](https://ja.wikipedia.org/wiki/長州征討#第二次長州征討 "wikilink")
-  - [竜馬がゆく](https://ja.wikipedia.org/wiki/竜馬がゆく#テレビドラマ "wikilink")
-  - [龍馬伝](https://ja.wikipedia.org/wiki/龍馬伝 "wikilink")
-  - [海援隊](../Page/海援隊.md "wikilink")
-  - [三菱商事](../Page/三菱商事.md "wikilink")
-  - [海援隊 (フォークグループ)](../Page/海援隊_\(フォークグループ\).md "wikilink")
 
 ## 外部リンク
 

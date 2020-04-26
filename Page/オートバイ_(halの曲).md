@@ -1,4 +1,4 @@
-> この記事は[ \(hal\)](https://ja.wikipedia.org/wiki/_\(hal\))から翻訳されています。
+> この記事は[オートバイ \(halの曲\)](https://ja.wikipedia.org/wiki/オートバイ_\(halの曲\))から翻訳されています。
 
 
 **オートバイ**は、[2000年](../Page/2000年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にリリースされた[hal](https://ja.wikipedia.org/wiki/hal "wikilink")の8thシングル。CDコードはVICL-35164。

@@ -1,4 +1,4 @@
-> この記事は[Once Again](https://ja.wikipedia.org/wiki/Once_Again)から翻訳されています。
+> この記事は[素敵にOnce Again](https://ja.wikipedia.org/wiki/素敵にOnce_Again)から翻訳されています。
 
 
 「**素敵にOnce Again**」（すてきにワンス・アゲイン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月にリリースされた[松田聖子](../Page/松田聖子.md "wikilink")の通算39枚目の[シングル](../Page/シングル.md "wikilink")である。

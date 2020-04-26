@@ -1,4 +1,4 @@
-> この記事は[Hitch Hike to where I belong](https://ja.wikipedia.org/wiki/Hitch_Hike_to_where_I_belong)から翻訳されています。
+> この記事は[Hitch Hike 〜to where I belong〜](https://ja.wikipedia.org/wiki/Hitch_Hike_〜to_where_I_belong〜)から翻訳されています。
 
 
 **Hitch Hike 〜to where I belong〜**（ヒッチハイク トゥ ウェア アイ ビロング）は、[1996年](../Page/1996年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にリリースされた[hal](https://ja.wikipedia.org/wiki/hal "wikilink")のデビューシングル。CDコードはVIDL-10793。

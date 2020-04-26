@@ -1,4 +1,4 @@
-> この記事は[Andy](https://ja.wikipedia.org/wiki/Andy)から翻訳されています。
+> この記事は[Andy山本](https://ja.wikipedia.org/wiki/Andy山本)から翻訳されています。
 
 
 **Andy山本**（アンディやまもと、本名:山本Andrew康貴、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月17日](../Page/5月17日.md "wikilink")-）は、[ゲームソフト](../Page/ゲームソフト.md "wikilink")の[プロデューサー](../Page/プロデューサー.md "wikilink")。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")州生まれ。
@@ -36,4 +36,4 @@
   - [Andy山本個人ブログサイト「ぼんのう」](http://blog.bonnoh.jp/)
   - [株式会社GAE(旧グローバル・A・エンタテインメント)公式サイト](http://www.gae.co.jp/)
 
-[Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ゲームクリエイター](https://ja.wikipedia.org/wiki/Category:ゲームクリエイター "wikilink") [Category:コナミの人物](https://ja.wikipedia.org/wiki/Category:コナミの人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

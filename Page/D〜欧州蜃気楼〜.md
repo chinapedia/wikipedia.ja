@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[D〜欧州蜃気楼〜](https://ja.wikipedia.org/wiki/D〜欧州蜃気楼〜)から翻訳されています。
 
 
 『**D〜欧州蜃気楼〜**』（ディー おうしゅうしんきろう）は、[ウルフチーム](../Page/ウルフチーム.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")のヨーロッパ戦線を舞台にしたボードゲームタイプの戦略[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")。

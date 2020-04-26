@@ -13,7 +13,7 @@
 
   - ナインプラネッツ時代
 
-:\*[神樹の館](https://ja.wikipedia.org/wiki/神樹の館 "wikilink")（2004年9月24日）
+:\*[神樹の館](../Page/神樹の館.md "wikilink")（2004年9月24日）
 
 :\*[恋Q\! 〜恋とHの乱れ射ち〜](https://ja.wikipedia.org/wiki/恋Q!_〜恋とHの乱れ射ち〜 "wikilink")（2005年6月10日）
 
@@ -21,7 +21,7 @@
 
 :\*[ちょこっと☆ばんぱいあ\!](https://ja.wikipedia.org/wiki/ちょこっと☆ばんぱいあ! "wikilink")（2006年11月17日）
 
-:\*[Clover Point](https://ja.wikipedia.org/wiki/Clover_Point "wikilink")（2007年12月21日）
+:\*[Clover Point](../Page/Clover_Point.md "wikilink")（2007年12月21日）
 
   - シルバーバレット時代
 
@@ -64,7 +64,7 @@
 ## 関連項目
 
   - [田中ロミオ](../Page/田中ロミオ.md "wikilink") - ブランド第一作『神樹の館』のシナリオを手がけた
-  - [ホビボックス](https://ja.wikipedia.org/wiki/ホビボックス "wikilink")
+  - [ホビボックス](../Page/ホビボックス.md "wikilink")
 
 ## 外部リンク
 

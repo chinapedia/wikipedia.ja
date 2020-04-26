@@ -1,26 +1,26 @@
 > この記事は[I\'ve a rich understanding of my finest defenses](https://ja.wikipedia.org/wiki/I\'ve_a_rich_understanding_of_my_finest_defenses)から翻訳されています。
 
 
-『**I've a rich understanding of my finest defenses**』（アイブ ア リッチ アンダスタンディング オブ マイ ファイネスト ディフェンセズ）は、[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[NYPDを舞台としている](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")。[同人誌](../Page/同人誌.md "wikilink")にて[2003年](../Page/2003年.md "wikilink")10月に発行。また、[2007年](../Page/2007年.md "wikilink")4月の再版時には、[アニメイト](https://ja.wikipedia.org/wiki/アニメイト "wikilink")、[とらのあな](https://ja.wikipedia.org/wiki/とらのあな "wikilink")に加えて、[ジュンク堂](https://ja.wikipedia.org/wiki/ジュンク堂 "wikilink")でも取り扱われた。\[1\]
+『**I've a rich understanding of my finest defenses**』（アイブ ア リッチ アンダスタンディング オブ マイ ファイネスト ディフェンセズ）は、[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[NYPDを舞台としている](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")。[同人誌](../Page/同人誌.md "wikilink")にて[2003年](../Page/2003年.md "wikilink")10月に発行。また、[2007年](../Page/2007年.md "wikilink")4月の再版時には、[アニメイト](../Page/アニメイト.md "wikilink")、[とらのあな](https://ja.wikipedia.org/wiki/とらのあな "wikilink")に加えて、[ジュンク堂](https://ja.wikipedia.org/wiki/ジュンク堂 "wikilink")でも取り扱われた。\[1\]
 
 ## 概要
 
-現代の[NYPD属する](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")[ESU](https://ja.wikipedia.org/wiki/SWAT "wikilink")\[2\]が舞台の[物語](../Page/物語.md "wikilink")。著者が2008年から2009年まで[モーニング2](https://ja.wikipedia.org/wiki/モーニング2 "wikilink")で連載されていた「[COPPERS](https://ja.wikipedia.org/wiki/COPPERS "wikilink")」の原点となった作品。\[3\]
+現代の[NYPD属する](https://ja.wikipedia.org/wiki/ニューヨーク市警察 "wikilink")[ESU](../Page/SWAT.md "wikilink")\[2\]が舞台の[物語](../Page/物語.md "wikilink")。著者が2008年から2009年まで[モーニング2](https://ja.wikipedia.org/wiki/モーニング2 "wikilink")で連載されていた「[COPPERS](https://ja.wikipedia.org/wiki/COPPERS "wikilink")」の原点となった作品。\[3\]
 
 ## あらすじ
 
 ### I've a rich understanding of my finest defenses
 
-NYPDのESUに所属する新人ビクター・ロウ[巡査](https://ja.wikipedia.org/wiki/巡査 "wikilink")は非番中に遭遇した車の転落事故で、被害者を救助して溺れた警官を救助する。救助された警官は、NYPDのキース・シニーズ巡査。数年前、ある事件で不手際のあったESUに対し、[マスコミ相手に過剰な](../Page/報道機関.md "wikilink")[バッシング](https://ja.wikipedia.org/wiki/バッシング "wikilink")を行った人物だった。以来、ESU10のメンバーとは犬猿の仲の存在なのだが、そこには彼なりの理由があった。
+NYPDのESUに所属する新人ビクター・ロウ[巡査](../Page/巡査.md "wikilink")は非番中に遭遇した車の転落事故で、被害者を救助して溺れた警官を救助する。救助された警官は、NYPDのキース・シニーズ巡査。数年前、ある事件で不手際のあったESUに対し、[マスコミ相手に過剰な](../Page/報道機関.md "wikilink")[バッシング](https://ja.wikipedia.org/wiki/バッシング "wikilink")を行った人物だった。以来、ESU10のメンバーとは犬猿の仲の存在なのだが、そこには彼なりの理由があった。
 
 ### rich out for me
 
-ESU10のメンバー、ホルガー・フロイント巡査は仲間同士の隠し事が嫌いな実直な人間。仲間のミハイル・イェレミーズ巡査が、元[医師](../Page/医師.md "wikilink")であったことを知らなかったホルガーは驚くも、ミハイルから話を聞き納得する。ミハイルが医師を辞め[警官](https://ja.wikipedia.org/wiki/警官 "wikilink")になったのは、[ストリートチルドレン](https://ja.wikipedia.org/wiki/ストリートチルドレン "wikilink")である一人の少女を救ったことがきっかけだった。ある日、任務中に一人の少女を逃がしたミハイルに詰め寄るホルガーだが、その少女はミハイルが警官になったきっかけを作った少女だった。
+ESU10のメンバー、ホルガー・フロイント巡査は仲間同士の隠し事が嫌いな実直な人間。仲間のミハイル・イェレミーズ巡査が、元[医師](../Page/医師.md "wikilink")であったことを知らなかったホルガーは驚くも、ミハイルから話を聞き納得する。ミハイルが医師を辞め[警官](https://ja.wikipedia.org/wiki/警官 "wikilink")になったのは、[ストリートチルドレン](../Page/ストリートチルドレン.md "wikilink")である一人の少女を救ったことがきっかけだった。ある日、任務中に一人の少女を逃がしたミハイルに詰め寄るホルガーだが、その少女はミハイルが警官になったきっかけを作った少女だった。
 
 ## 登場人物
 
   - ビクター・ロウ「通称・ビクター、ビック」
-    NYPD・ESU10の新人。階級は巡査。独身。妻とは死別。子持ち。元[陸軍](../Page/陸軍.md "wikilink")出身。18歳の時、妻との間に娘ができるも、そのことから逃げるように軍に入隊。妻の死をきっかけに[除隊](https://ja.wikipedia.org/wiki/除隊 "wikilink")後、娘を引き取る。次期本部長の[コネ](https://ja.wikipedia.org/wiki/コネ "wikilink")で、ESUに入る（ESUは特殊部隊であるがゆえ、一定の経験と試験がある）。途中から話に首を突っ込むタイプ。意外と貯蓄家。子供っぽくて、嫌みな所がある。娘との生活に慣れると、安らぎを感じるようになる。スタンには「バカ親子」と称される。好物は、タバコと酒とチキンシチュー。
+    NYPD・ESU10の新人。階級は巡査。独身。妻とは死別。子持ち。元[陸軍](../Page/陸軍.md "wikilink")出身。18歳の時、妻との間に娘ができるも、そのことから逃げるように軍に入隊。妻の死をきっかけに[除隊](https://ja.wikipedia.org/wiki/除隊 "wikilink")後、娘を引き取る。次期本部長の[コネ](../Page/コネ.md "wikilink")で、ESUに入る（ESUは特殊部隊であるがゆえ、一定の経験と試験がある）。途中から話に首を突っ込むタイプ。意外と貯蓄家。子供っぽくて、嫌みな所がある。娘との生活に慣れると、安らぎを感じるようになる。スタンには「バカ親子」と称される。好物は、タバコと酒とチキンシチュー。
   - キース・シニーズ「通称・キース」
     NYPDの[パトロール](https://ja.wikipedia.org/wiki/パトロール "wikilink")警官。階級は巡査。バツイチ。口が悪く、目つきも悪く、付き合いまで悪い。頑固で短気。売られた喧嘩は買うタイプ。が、自分の事以上に、自分が良しと思う人間を侮辱される事を嫌う。実際には失点ゼロの[模範](https://ja.wikipedia.org/wiki/模範 "wikilink")警官。過去の事件でESUをバッシングした事でESU10のメンバーとは仲が悪いが、当事者であるスタンの事は高く評価している。仲間思いで、口が堅く、誤解されやすいタイプ。若い頃は文句なしに良い男だったと称される。好物は、[シナモン](https://ja.wikipedia.org/wiki/シナモン "wikilink")全般。
   - ホルガー・フロイント「通称・ホルガー、ホル」
@@ -28,7 +28,7 @@ ESU10のメンバー、ホルガー・フロイント巡査は仲間同士の隠
   - ミハイル・イェレミーズ「通称・ミハイル、ドク」
     ESU10のメンバー。独身。元医師。ドイツ系。アメリカに[帰化](../Page/帰化.md "wikilink")している。ホルガーとは仲がよく、彼の家にもよく顔を出している。ホルガーの娘にもなつかれている。医師を辞めたのは、ストリートチルドレンであったレベッカを助けたことがきっかけ。心優しく、おだやかな性格。再会したレベッカの為に、何かと世話をやく。手先が器用で、折り紙を折るのが得意。
   - スタンリー・フルーム「通称・スタン」
-    ESU10のリーダー。階級は[巡査部長](https://ja.wikipedia.org/wiki/巡査部長 "wikilink")。ドイツ人の親戚がいるため、ドイツ語も堪能。キースが以前、マスコミにESUの事をバッシングした事件で当時のESUに唯一居た人物で、当事者。自身の不手際もあるが、過剰にバッシングされた事に対してのわだかまりが、キースとESU10との関係の悪化につながる。ビクターが首を突っ込んできたお陰で、互いの誤解が解け、良好な関係を築く。同僚のケビン曰く、「頑固で意地っ張りで負けず嫌いで融通がきかない」。しかし、「勇気があって真面目で仕事ができておごってなくて周りの事をよく見ている」人物。顔を触るクセがある（ため息をつきたくなるような時に）。
+    ESU10のリーダー。階級は[巡査部長](../Page/巡査部長.md "wikilink")。ドイツ人の親戚がいるため、ドイツ語も堪能。キースが以前、マスコミにESUの事をバッシングした事件で当時のESUに唯一居た人物で、当事者。自身の不手際もあるが、過剰にバッシングされた事に対してのわだかまりが、キースとESU10との関係の悪化につながる。ビクターが首を突っ込んできたお陰で、互いの誤解が解け、良好な関係を築く。同僚のケビン曰く、「頑固で意地っ張りで負けず嫌いで融通がきかない」。しかし、「勇気があって真面目で仕事ができておごってなくて周りの事をよく見ている」人物。顔を触るクセがある（ため息をつきたくなるような時に）。
   - リサ
     ビクターの娘。[高校生](../Page/アメリカ合衆国の教育.md "wikilink")。母の死後、1ヶ月間は叔母の家に住み、後にビクターに引き取られる。ビクターに似て口が悪く、我が儘な性格。母をとても愛しており、ビクターを憎んでいた。同居するようになってからは、ビクターの事を頼り、心の底では父として愛するようになる。家族思いな性格で、大学進学の為の費用工面をビクターに言い出せずにいた控えめな面も持ち合わせているが、基本的には抜け目のない性格である。そのビクターそっくりな性格が、スタンに「バカ親子」と言わしめた所以である。
   - レベッカ
@@ -44,7 +44,7 @@ ESU10のメンバー、ホルガー・フロイント巡査は仲間同士の隠
   - アル・デ・カーロ
     ESU10のメンバー。ラリーの相棒。階級は巡査。
   - ウィリー
-    NYPD[刑事部](https://ja.wikipedia.org/wiki/刑事部 "wikilink")。階級は[刑事部長](https://ja.wikipedia.org/wiki/刑事部長 "wikilink")。キースを高く評価しており、刑事部に欲しがっている。本人曰く、「キースとはおだやかに付き合いたい」（キースが溺れたとされる事件で同僚がからかっていた時に発言）。
+    NYPD[刑事部](../Page/刑事部.md "wikilink")。階級は[刑事部長](https://ja.wikipedia.org/wiki/刑事部長 "wikilink")。キースを高く評価しており、刑事部に欲しがっている。本人曰く、「キースとはおだやかに付き合いたい」（キースが溺れたとされる事件で同僚がからかっていた時に発言）。
   - ジャック
     NYPD[マウンテンバイク](../Page/マウンテンバイク.md "wikilink")パトロール隊。階級は巡査。キースをからかうのが何より楽しみ。ことあるごとにからかっているようだ。キースが溺れたとされる事件で、パトカーの浮き輪を入れてキースを激怒されたのは彼の仕業。意外にも、キースを中傷から守る一面もある。
   - カート
@@ -69,5 +69,5 @@ ESU10のメンバー、ホルガー・フロイント巡査は仲間同士の隠
 [Category:同人誌](https://ja.wikipedia.org/wiki/Category:同人誌 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:ニューヨーク市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした漫画作品 "wikilink") [Category:オノ・ナツメ](https://ja.wikipedia.org/wiki/Category:オノ・ナツメ "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
 1.  [著者のブログ（2007年4月18日付）より](http://ortino.blog96.fc2.com/blog-date-20070418.html)
-2.  NYPDに属する、他市警でいう所の[SWAT](https://ja.wikipedia.org/wiki/SWAT "wikilink")。人質救出、救命活動などを行う特殊部隊。
+2.  NYPDに属する、他市警でいう所の[SWAT](../Page/SWAT.md "wikilink")。人質救出、救命活動などを行う特殊部隊。
 3.  [「COPPERS」の原点、オノ・ナツメ幻の同人誌再版](http://natalie.mu/comic/news/13052)（[コミックナタリー](https://ja.wikipedia.org/wiki/コミックナタリー "wikilink")）

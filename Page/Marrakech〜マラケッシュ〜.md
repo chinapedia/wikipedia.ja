@@ -1,4 +1,4 @@
-> この記事は[Marrakech](https://ja.wikipedia.org/wiki/Marrakech)から翻訳されています。
+> この記事は[Marrakech〜マラケッシュ〜](https://ja.wikipedia.org/wiki/Marrakech〜マラケッシュ〜)から翻訳されています。
 
 
 「**Marrakech〜マラケッシュ〜**」は、[1988年](../Page/1988年.md "wikilink")4月にリリースされた[松田聖子](../Page/松田聖子.md "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")である。

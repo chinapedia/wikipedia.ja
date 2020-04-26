@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBA殿堂](https://ja.wikipedia.org/wiki/FIBA殿堂)から翻訳されています。
 
 
 **FIBA殿堂**（―でんどう、**FIBA Hall of Fame**）は、[国際バスケットボール連盟](../Page/国際バスケットボール連盟.md "wikilink")（FIBA）が[バスケットボール](../Page/バスケットボール.md "wikilink")界の発展及び普及に貢献した選手を称えるために設置した施設である。

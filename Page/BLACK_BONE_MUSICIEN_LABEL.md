@@ -1,7 +1,7 @@
 > この記事は[BLACK BONE MUSICIEN LABEL](https://ja.wikipedia.org/wiki/BLACK_BONE_MUSICIEN_LABEL)から翻訳されています。
 
 
-**BLACK BONE MUSICIEN LABEL**は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")にリリースされた[昼海幹音](https://ja.wikipedia.org/wiki/ヒラマミキオ "wikilink")(現・ヒラマミキオ)の3rdアルバム。CDコードはMTCD-5019。
+**BLACK BONE MUSICIEN LABEL**は[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")にリリースされた[昼海幹音](../Page/ヒラマミキオ.md "wikilink")(現・ヒラマミキオ)の3rdアルバム。CDコードはMTCD-5019。
 
 ## 解説
 

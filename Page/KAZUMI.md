@@ -21,27 +21,27 @@
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『史上最強のドッキリ大作戦！特殊メイクで芸能人大変身！第3弾』に出演
   - [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")』ダンサーランキング10位にランクイン
   - 中京テレビ『スーパーチャンプル』週刊MVP獲得
-  - 『[日経エンタテインメント\!](https://ja.wikipedia.org/wiki/日経エンタテインメント! "wikilink")』11月号にKAZUMIの記事が掲載
+  - 『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』11月号にKAZUMIの記事が掲載
   - 『[Seventeen](../Page/Seventeen_\(日本の雑誌\).md "wikilink")』22号にKAZUMIの記事が掲載
   - 中京テレビ『スーパーチャンプル』に出演
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") “広人苑II”』に出演
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』に出演
-  - [TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ブロードキャスター](https://ja.wikipedia.org/wiki/ブロードキャスター "wikilink")』に出演
+  - [TBS](../Page/TBSテレビ.md "wikilink")『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』に出演
   - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")『[ダンス・ショーケース](https://ja.wikipedia.org/wiki/ダンス・ショーケース "wikilink")』に出演
-  - 『[週刊実話](https://ja.wikipedia.org/wiki/週刊実話 "wikilink")』にKAZUMIの記事が掲載
+  - 『[週刊実話](../Page/週刊実話.md "wikilink")』にKAZUMIの記事が掲載
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[THEワイド](../Page/ザ・ワイド.md "wikilink")』に出演
   - 日本テレビ『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")』に2回出演（2回目は生出演）
-  - [中央酪農会議](https://ja.wikipedia.org/wiki/中央酪農会議 "wikilink")『[牛乳に相談だ。](../Page/牛乳に相談だ。.md "wikilink")』の[CMに出演](https://ja.wikipedia.org/wiki/コマーシャルメッセージ "wikilink")
-  - [オートバックスの店頭CMに出演](https://ja.wikipedia.org/wiki/オートバックスセブン "wikilink")
+  - [中央酪農会議](https://ja.wikipedia.org/wiki/中央酪農会議 "wikilink")『[牛乳に相談だ。](../Page/牛乳に相談だ。.md "wikilink")』の[CMに出演](../Page/コマーシャルメッセージ.md "wikilink")
+  - [オートバックスの店頭CMに出演](../Page/オートバックスセブン.md "wikilink")
   - [NECダイレクトのCMに出演](../Page/日本電気.md "wikilink")
 
 ### 2008年
 
   - フジテレビ『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink") 超クイズパレード秋の3時間ファミリースペシャル』に回答者として出演
   - 日本テレビ『[ダウンタウンのガキの使いやあらへんで\!](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink") 年末スペシャル』に出
-  - [朝日放送](../Page/朝日放送テレビ.md "wikilink")『[クイズ\!紳助くん](https://ja.wikipedia.org/wiki/クイズ!紳助くん "wikilink")』に回答者として出演
+  - [朝日放送](../Page/朝日放送テレビ.md "wikilink")『[クイズ\!紳助くん](../Page/クイズ!紳助くん.md "wikilink")』に回答者として出演
   - 『エンターテイメントDash』にKAZUMIの記事が掲載
-  - テレビ東京『[Hi\! Hey\! Say\!](https://ja.wikipedia.org/wiki/Hi!_Hey!_Say! "wikilink")』に出演
+  - テレビ東京『[Hi\! Hey\! Say\!](../Page/Hi!_Hey!_Say!.md "wikilink")』に出演
   - 『[TVガイド](https://ja.wikipedia.org/wiki/TVガイド "wikilink")』第47巻第37号にKAZUMIの記事が掲載
   - 日本テレビ『[世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")』に出演
   - 日本テレビ『グッときた名場面ベスト55』にランクイン
@@ -50,8 +50,8 @@
 
 ### 2009年
 
-  - 日本テレビ『[ものまねバトル](https://ja.wikipedia.org/wiki/ものまねバトル "wikilink")』に[コロッケと出演](../Page/コロッケ_\(タレント\).md "wikilink")
-  - 日本テレビ『[人生が変わる1分間の深イイ話](https://ja.wikipedia.org/wiki/人生が変わる1分間の深イイ話 "wikilink")スペシャル』に出演
+  - 日本テレビ『[ものまねバトル](../Page/ものまねバトル.md "wikilink")』に[コロッケと出演](../Page/コロッケ_\(タレント\).md "wikilink")
+  - 日本テレビ『[人生が変わる1分間の深イイ話](../Page/人生が変わる1分間の深イイ話.md "wikilink")スペシャル』に出演
 
 ## 出演
 
@@ -63,7 +63,7 @@
   - [世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")（日本テレビ）
   - [クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")大晦日スペシャル\!\! [絶対に笑ってはいけない新聞社24時](https://ja.wikipedia.org/wiki/絶対に笑ってはいけない新聞社24時 "wikilink")（日本テレビ）
-  - [ものまねバトル](https://ja.wikipedia.org/wiki/ものまねバトル "wikilink") 49（2009年1月4日、日本テレビ）
+  - [ものまねバトル](../Page/ものまねバトル.md "wikilink") 49（2009年1月4日、日本テレビ）
 
 ### CM
 
@@ -74,7 +74,7 @@
 ## 関連項目　
 
   - [はむつんサーブ](../Page/はむつんサーブ.md "wikilink")
-  - [TOZAWA](https://ja.wikipedia.org/wiki/TOZAWA "wikilink")
+  - [TOZAWA](../Page/TOZAWA.md "wikilink")
 
 ## 外部リンク　
 

@@ -1,4 +1,4 @@
-> この記事は[TOY BOX \(\)](https://ja.wikipedia.org/wiki/TOY_BOX_\(\))から翻訳されています。
+> この記事は[TOY BOX \(岡村孝子のアルバム\)](https://ja.wikipedia.org/wiki/TOY_BOX_\(岡村孝子のアルバム\))から翻訳されています。
 
 
 『**TOY BOX**』（トイ・ボックス）は、[岡村孝子](../Page/岡村孝子.md "wikilink")のソロデビュー20周年を記念した[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。2005年11月23日発売。発売元は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(hal\)](https://ja.wikipedia.org/wiki/_\(hal\))から翻訳されています。
+> この記事は[二十歳のころ \(halのアルバム\)](https://ja.wikipedia.org/wiki/二十歳のころ_\(halのアルバム\))から翻訳されています。
 
 
 『**二十歳のころ**』（はたちのころ）は、[1999年](../Page/1999年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた[hàlの](https://ja.wikipedia.org/wiki/hal "wikilink")3枚目のフルアルバム。CDコードはVICL-60378。

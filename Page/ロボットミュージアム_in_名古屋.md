@@ -1,4 +1,4 @@
-> この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
+> この記事は[ロボットミュージアム in 名古屋](https://ja.wikipedia.org/wiki/ロボットミュージアム_in_名古屋)から翻訳されています。
 
 
 **ロボットミュージアム in 名古屋**（ロボットミュージアム イン なごや）は、[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[錦三丁目](https://ja.wikipedia.org/wiki/錦三丁目 "wikilink")にあった総合[エンターテイメント](https://ja.wikipedia.org/wiki/エンターテイメント "wikilink")施設で、日本で最初の本格的な[ロボット](../Page/ロボット.md "wikilink")専門の[博物館](../Page/博物館.md "wikilink")。株式会社[ジャイロウォーク](https://ja.wikipedia.org/wiki/ジャイロウォーク "wikilink")と株式会社[アイディーユー](https://ja.wikipedia.org/wiki/アイディーユー "wikilink")が運営していた。

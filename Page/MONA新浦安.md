@@ -1,4 +1,4 @@
-> この記事は[MONA](https://ja.wikipedia.org/wiki/MONA)から翻訳されています。
+> この記事は[MONA新浦安](https://ja.wikipedia.org/wiki/MONA新浦安)から翻訳されています。
 
 
 [Mona_Shinurayasu.jpg](https://ja.wikipedia.org/wiki/File:Mona_Shinurayasu.jpg "fig:Mona_Shinurayasu.jpg")  **MONA新浦安**（モナしんうらやす）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")にある[エイムクリエイツ](../Page/エイムクリエイツ.md "wikilink")運営の商業施設。ペデストリアンデッキで[新浦安駅](https://ja.wikipedia.org/wiki/新浦安駅 "wikilink")南口と直結し、[イオン新浦安店](../Page/イオン新浦安店.md "wikilink")と繋がっている。

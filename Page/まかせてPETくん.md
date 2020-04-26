@@ -1,4 +1,4 @@
-> この記事は[PET](https://ja.wikipedia.org/wiki/PET)から翻訳されています。
+> この記事は[まかせてPETくん](https://ja.wikipedia.org/wiki/まかせてPETくん)から翻訳されています。
 
 
 『**まかせてPETくん**』（まかせてペットくん）は[そにしけんじ](https://ja.wikipedia.org/wiki/そにしけんじ "wikilink")作の[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")。『[プレコミックブンブン](../Page/月刊コミックブンブン.md "wikilink")』で[2004年](../Page/2004年.md "wikilink")3月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月号まで連載されていた。

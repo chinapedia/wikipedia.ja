@@ -1,7 +1,7 @@
-> この記事は[Q! !](https://ja.wikipedia.org/wiki/Q!_!)から翻訳されています。
+> この記事は[一攫千金ヤマワケQ! 責任者はお前だ!](https://ja.wikipedia.org/wiki/一攫千金ヤマワケQ!_責任者はお前だ!)から翻訳されています。
 
 
-『**一攫千金ヤマワケQ 〜責任者はお前だ\!〜**』（いっかくせんきんヤマワケクイズ せきにんしゃはおまえだ）は、[テレビ朝日](https://ja.wikipedia.org/wiki/テレビ朝日 "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")2007年から不定期放送されていた[朝日放送製作の](../Page/朝日放送テレビ.md "wikilink")[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[字幕放送実施](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。
+『**一攫千金ヤマワケQ 〜責任者はお前だ\!〜**』（いっかくせんきんヤマワケクイズ せきにんしゃはおまえだ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で](../Page/オールニッポン・ニュースネットワーク.md "wikilink")2007年から不定期放送されていた[朝日放送製作の](../Page/朝日放送テレビ.md "wikilink")[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[字幕放送実施](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。
 
 ## ルール
 
@@ -9,7 +9,7 @@
 
 クイズに挑戦するのは7人1組のチーム。第2回までと第3回以降とで大きく分かれる。
 
-第1回・第2回には、後方に控える20名以上いるゲストの中から挑戦する7人を[スロットマシン](https://ja.wikipedia.org/wiki/スロットマシン "wikilink")（ヤマワケ7スロットル）で無作為に選んでいた。第3回では、予め組まれた6組の中から抽選（ヤマワケ[ルーレット](../Page/ルーレット.md "wikilink")）で、挑戦する1組を決定（飛んできたトランプによってチーム名が次々と破壊されていき、最後まで残ったチームに決定する）。最後の1巡は、1チーム14人の中から組に関係なく挑戦する7人を、ヤマワケ7スロットルで選抜。第4回では、1チームずつ挑戦。そのチームの10 - 14人（チームごとに人数が違う）の中から、挑戦する7人をヤマワケ7スロットルで選抜。第5回では、あらかじめ組まれた4組の中から抽選で、挑戦する1組を決定。後半からは、ゲストが一部変わっていた。
+第1回・第2回には、後方に控える20名以上いるゲストの中から挑戦する7人を[スロットマシン](../Page/スロットマシン.md "wikilink")（ヤマワケ7スロットル）で無作為に選んでいた。第3回では、予め組まれた6組の中から抽選（ヤマワケ[ルーレット](../Page/ルーレット.md "wikilink")）で、挑戦する1組を決定（飛んできたトランプによってチーム名が次々と破壊されていき、最後まで残ったチームに決定する）。最後の1巡は、1チーム14人の中から組に関係なく挑戦する7人を、ヤマワケ7スロットルで選抜。第4回では、1チームずつ挑戦。そのチームの10 - 14人（チームごとに人数が違う）の中から、挑戦する7人をヤマワケ7スロットルで選抜。第5回では、あらかじめ組まれた4組の中から抽選で、挑戦する1組を決定。後半からは、ゲストが一部変わっていた。
 
 #### 第1ステージ・ヤマワケチャンスクイズ
 
@@ -19,11 +19,11 @@
 
 第3回以降はタイトルの一部に「学力テスト」という言葉が入り、小学校・中学校・高等学校で習う内容から8 - 9ジャンルが用意されていて、挑戦する組が好きなジャンルを選択。選んだジャンルによって賞金レートが変わり（1万円 - 10万円）、難しいジャンルほど賞金レートが高かった。1度選ばれたジャンルはもう選べなかった。
 
-最後に、前ステージからの[キャリーオーバー](https://ja.wikipedia.org/wiki/キャリーオーバー "wikilink")分が積み立てられる。第2回以降は「前回からのキャリーオーバー分」として、第1組に必ず100万円が加算された。
+最後に、前ステージからの[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")分が積み立てられる。第2回以降は「前回からのキャリーオーバー分」として、第1組に必ず100万円が加算された。
 
 #### 第2ステージ・ヤマワケファイナル
 
-解答者7人の中から、運命のプレッシャーボール（巨大な[コリントゲーム](https://ja.wikipedia.org/wiki/スマートボール "wikilink")）で最終問題に挑む責任者1人を決定する。放送初期は単なるコリントゲームだったが、途中から高速回転する羽が登場してボールを弾き飛ばしたり、ボールの軌道を変える回転体が出来て、最後までハラハラさせる作りに変更されている。ボールをシュートするのは第1回では司会の[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）だったが、第2回以降は回答者7人で相談して誰がシュートするのかを決めた。
+解答者7人の中から、運命のプレッシャーボール（巨大な[コリントゲーム](../Page/スマートボール.md "wikilink")）で最終問題に挑む責任者1人を決定する。放送初期は単なるコリントゲームだったが、途中から高速回転する羽が登場してボールを弾き飛ばしたり、ボールの軌道を変える回転体が出来て、最後までハラハラさせる作りに変更されている。ボールをシュートするのは第1回では司会の[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）だったが、第2回以降は回答者7人で相談して誰がシュートするのかを決めた。
 
 プレッシャー演出として、第1回・第2回では現金が、第3回以降では司会の[田村淳](../Page/田村淳.md "wikilink")（ロンドンブーツ1号2号）によってその場で印字される小切手が責任者の目の前に置かれた。
 
@@ -31,7 +31,7 @@
 
 ### 第1回ルール
 
-クイズの前に、出題ジャンルをルーレットで決定。出題ジャンルは、[漢字](../Page/漢字.md "wikilink")、[ことわざ](https://ja.wikipedia.org/wiki/ことわざ "wikilink")、[政治](../Page/政治.md "wikilink")、[名所](https://ja.wikipedia.org/wiki/名所 "wikilink")、[音楽](../Page/音楽.md "wikilink")、[偉人](https://ja.wikipedia.org/wiki/偉人 "wikilink")、[日本の政治](https://ja.wikipedia.org/wiki/日本の政治 "wikilink")、[スポーツ](../Page/スポーツ.md "wikilink")、[略語](../Page/略語.md "wikilink")の全9ジャンル。
+クイズの前に、出題ジャンルをルーレットで決定。出題ジャンルは、[漢字](../Page/漢字.md "wikilink")、[ことわざ](../Page/ことわざ.md "wikilink")、[政治](../Page/政治.md "wikilink")、[名所](https://ja.wikipedia.org/wiki/名所 "wikilink")、[音楽](../Page/音楽.md "wikilink")、[偉人](https://ja.wikipedia.org/wiki/偉人 "wikilink")、[日本の政治](https://ja.wikipedia.org/wiki/日本の政治 "wikilink")、[スポーツ](../Page/スポーツ.md "wikilink")、[略語](../Page/略語.md "wikilink")の全9ジャンル。
 
 組によっては、1人正解3万円ではなく5万円になるケースもあった。
 
@@ -39,7 +39,7 @@
 
 ### 第2回ルール
 
-基本的なルールは、第1回と同じ。ジャンルは[理科](../Page/理科.md "wikilink")、[英語](../Page/英語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[日本史](https://ja.wikipedia.org/wiki/日本史_\(科目\) "wikilink")、[地理](../Page/地理.md "wikilink")、スポーツ、[美術](https://ja.wikipedia.org/wiki/美術_\(教科\) "wikilink")、音楽、[計算](../Page/計算.md "wikilink")の全9ジャンル。前述したとおり、前回の放送分で最後まで残った賞金の中から、まずは第1組に100万円が繰り越された。
+基本的なルールは、第1回と同じ。ジャンルは[理科](../Page/理科.md "wikilink")、[英語](../Page/英語.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[日本史](../Page/日本史_\(科目\).md "wikilink")、[地理](../Page/地理.md "wikilink")、スポーツ、[美術](../Page/美術_\(教科\).md "wikilink")、音楽、[計算](../Page/計算.md "wikilink")の全9ジャンル。前述したとおり、前回の放送分で最後まで残った賞金の中から、まずは第1組に100万円が繰り越された。
 
 そして、第3組で上記の100万円も加えた319万円が獲得された後、最高150万円上乗せの権利を賭けたボーナスステージを実施。これは、解答者が1人ずつ、画面に表示された[都道府県](../Page/都道府県.md "wikilink")の名前を答えていくもので、正解なら上乗せ額は維持、1人不正解につき10万円ずつ減額というルール。その結果、40万円が第4組の賞金に予め上乗せされる事になった。
 
@@ -53,7 +53,7 @@
 
 前述の通り、1組ずつ挑戦。6組の挑戦が1巡した後、各チーム抽選で7名を選抜して、最後の1巡に挑んだ。
 
-ジャンルは小学校で習う[国語](https://ja.wikipedia.org/wiki/国語_\(教科\) "wikilink")、[算数](https://ja.wikipedia.org/wiki/算数 "wikilink")、理科、[社会](https://ja.wikipedia.org/wiki/社会_\(教科\) "wikilink")（以上、3万円）、中学校で習う英語、地理、[歴史](../Page/歴史.md "wikilink")（以上、5万円）、シルバー[高校受験](../Page/高校受験.md "wikilink")（[公立高校受験レベル](../Page/公立学校.md "wikilink")・7万円）、ゴールド高校受験（有名[私立高校受験レベル](../Page/私立学校.md "wikilink")・10万円）の全9ジャンル。一度選ばれたジャンルを再び選ぶことはできなかった。
+ジャンルは小学校で習う[国語](../Page/国語_\(教科\).md "wikilink")、[算数](../Page/算数.md "wikilink")、理科、[社会](../Page/社会_\(教科\).md "wikilink")（以上、3万円）、中学校で習う英語、地理、[歴史](../Page/歴史.md "wikilink")（以上、5万円）、シルバー[高校受験](../Page/高校受験.md "wikilink")（[公立高校受験レベル](../Page/公立学校.md "wikilink")・7万円）、ゴールド高校受験（有名[私立高校受験レベル](../Page/私立学校.md "wikilink")・10万円）の全9ジャンル。一度選ばれたジャンルを再び選ぶことはできなかった。
 
 また、チームアイドルとチーム芸人には、本編の間に「ボーナスチャンス GET100」が出題された。1つのテーマに沿った14問に1人1問ずつ解答していく。予め100万円がボーナスとして設定されており、正解ならボーナスの金額は維持、1問不正解する度に金額が半減していく（端数切り捨て）。14問終了した時点での金額を、そのチーム全員で山分け。
 
@@ -67,7 +67,7 @@
 
 2巡6ステージが終わった後、最後の1巡では、以下の特別ルールで行われた。
 
-第7組は、チームMEN'sとチームLADY'sが2チーム合同で挑戦。さらに「ヤマワケファイナル」に成功した場合は、解答者7名のみで賞金山分けとなり、選ばれなかったチームの仲間19名には賞金獲得の権利が与えられなかった。結果は、[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")（[千原兄弟](../Page/千原兄弟.md "wikilink")）が責任者として選ばれて成功、賞金777万円を前述通りに解答者7人のみで山分けした。
+第7組は、チームMEN'sとチームLADY'sが2チーム合同で挑戦。さらに「ヤマワケファイナル」に成功した場合は、解答者7名のみで賞金山分けとなり、選ばれなかったチームの仲間19名には賞金獲得の権利が与えられなかった。結果は、[千原ジュニア](../Page/千原ジュニア.md "wikilink")（[千原兄弟](../Page/千原兄弟.md "wikilink")）が責任者として選ばれて成功、賞金777万円を前述通りに解答者7人のみで山分けした。
 
 第8組も、チームMEN'sとチームLADY'sの合同で挑戦。2人1組のペアで7組が選抜され、クイズに挑んだ。さらに「ヤマワケチャンスクイズ」では、1問正解する度に加算される金額が倍増された（中学校文系に挑んだので、1問正解で加算される金額が5万円の倍の10万円になった）。
 
@@ -91,61 +91,61 @@
 
 ### ナレーター
 
-  - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")【第1回、第3 - 5回】
-  - [木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")【第2回】（同時ネットにおいて裏番組に立木がレギュラーでナレーターを務める[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")があったため）
-  - [中村啓子](https://ja.wikipedia.org/wiki/中村啓子 "wikilink")【第1 - 3回】 - 出題ナレーションを担当。
+  - [立木文彦](../Page/立木文彦.md "wikilink")【第1回、第3 - 5回】
+  - [木村匡也](../Page/木村匡也.md "wikilink")【第2回】（同時ネットにおいて裏番組に立木がレギュラーでナレーターを務める[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")があったため）
+  - [中村啓子](../Page/中村啓子.md "wikilink")【第1 - 3回】 - 出題ナレーションを担当。
   - 内田恭子【第4 - 5回】 - 出題ナレーションを担当。
 
 ### スペシャル出題者
 
-  - [セイン・カミュ](https://ja.wikipedia.org/wiki/セイン・カミュ "wikilink")【第3回】 - ヤマワケファイナルで、英語のリスニング問題において問題の読み手を担当。
+  - [セイン・カミュ](../Page/セイン・カミュ.md "wikilink")【第3回】 - ヤマワケファイナルで、英語のリスニング問題において問題の読み手を担当。
 
 ## 解答者
 
 ### 第1回
 
-[麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")、[東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink")、[石田純一](../Page/石田純一.md "wikilink")、[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")、[金子貴俊](../Page/金子貴俊.md "wikilink")、[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")、[国生さゆり](../Page/国生さゆり.md "wikilink")、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")、[椎名法子](https://ja.wikipedia.org/wiki/椎名法子 "wikilink")、[陣内智則](../Page/陣内智則.md "wikilink") 、[スザンヌ](../Page/スザンヌ_\(タレント\).md "wikilink")、[鈴木蘭々](https://ja.wikipedia.org/wiki/鈴木蘭々 "wikilink")、[武田修宏](https://ja.wikipedia.org/wiki/武田修宏 "wikilink")、[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")（[千原兄弟](../Page/千原兄弟.md "wikilink")）、[山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")）、[山崎静代](https://ja.wikipedia.org/wiki/山崎静代 "wikilink")（南海キャンディーズ）、[錦野旦](https://ja.wikipedia.org/wiki/錦野旦 "wikilink")、[近藤春菜](https://ja.wikipedia.org/wiki/近藤春菜 "wikilink")（[ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")）、[箕輪はるか](https://ja.wikipedia.org/wiki/箕輪はるか "wikilink")（ハリセンボン）、[東原亜希](https://ja.wikipedia.org/wiki/東原亜希 "wikilink")、[松木安太郎](https://ja.wikipedia.org/wiki/松木安太郎 "wikilink")、[松本伊代](../Page/松本伊代.md "wikilink")、[松本明子](../Page/松本明子.md "wikilink")、[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")、[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")
+[麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")、[東幹久](../Page/東幹久.md "wikilink")、[石田純一](../Page/石田純一.md "wikilink")、[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")、[金子貴俊](../Page/金子貴俊.md "wikilink")、[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")、[国生さゆり](../Page/国生さゆり.md "wikilink")、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")、[椎名法子](../Page/椎名法子.md "wikilink")、[陣内智則](../Page/陣内智則.md "wikilink") 、[スザンヌ](../Page/スザンヌ_\(タレント\).md "wikilink")、[鈴木蘭々](../Page/鈴木蘭々.md "wikilink")、[武田修宏](../Page/武田修宏.md "wikilink")、[千原ジュニア](../Page/千原ジュニア.md "wikilink")（[千原兄弟](../Page/千原兄弟.md "wikilink")）、[山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")）、[山崎静代](../Page/山崎静代.md "wikilink")（南海キャンディーズ）、[錦野旦](../Page/錦野旦.md "wikilink")、[近藤春菜](https://ja.wikipedia.org/wiki/近藤春菜 "wikilink")（[ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")）、[箕輪はるか](https://ja.wikipedia.org/wiki/箕輪はるか "wikilink")（ハリセンボン）、[東原亜希](https://ja.wikipedia.org/wiki/東原亜希 "wikilink")、[松木安太郎](../Page/松木安太郎.md "wikilink")、[松本伊代](../Page/松本伊代.md "wikilink")、[松本明子](../Page/松本明子.md "wikilink")、[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")、[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")
 
 ### 第2回
 
-[赤井沙希](https://ja.wikipedia.org/wiki/赤井沙希 "wikilink")、麻木久仁子、[安倍麻美](../Page/安倍麻美.md "wikilink")、[伊集院光](../Page/伊集院光.md "wikilink")、[岡田唯](https://ja.wikipedia.org/wiki/岡田唯 "wikilink")（[美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")）、KABA.ちゃん、国生さゆり、[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")、佐藤藍子、[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")（[品川庄司](../Page/品川庄司.md "wikilink")）、[庄司智春](../Page/庄司智春.md "wikilink")（品川庄司）、武田修宏、田村亮（ロンドンブーツ1号2号）、千原ジュニア（千原兄弟）、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")、[西川史子](../Page/西川史子.md "wikilink")、錦野旦、[野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")、[藤本敏史](https://ja.wikipedia.org/wiki/藤本敏史 "wikilink")（[FUJIWARA](../Page/FUJIWARA.md "wikilink")）、[原西孝幸](../Page/原西孝幸.md "wikilink")（FUJIWARA）、[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")、松木安太郎、松本伊代、南明奈、[ムーディ勝山](../Page/ムーディ勝山.md "wikilink")、[モト冬樹](https://ja.wikipedia.org/wiki/モト冬樹 "wikilink")、[山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")
+[赤井沙希](../Page/赤井沙希.md "wikilink")、麻木久仁子、[安倍麻美](../Page/安倍麻美.md "wikilink")、[伊集院光](../Page/伊集院光.md "wikilink")、[岡田唯](../Page/岡田唯.md "wikilink")（[美勇伝](../Page/美勇伝.md "wikilink")）、KABA.ちゃん、国生さゆり、[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")、佐藤藍子、[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")（[品川庄司](../Page/品川庄司.md "wikilink")）、[庄司智春](../Page/庄司智春.md "wikilink")（品川庄司）、武田修宏、田村亮（ロンドンブーツ1号2号）、千原ジュニア（千原兄弟）、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")、[西川史子](../Page/西川史子.md "wikilink")、錦野旦、[野々村真](../Page/野々村真.md "wikilink")、[藤本敏史](../Page/藤本敏史.md "wikilink")（[FUJIWARA](../Page/FUJIWARA.md "wikilink")）、[原西孝幸](../Page/原西孝幸.md "wikilink")（FUJIWARA）、[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")、松木安太郎、松本伊代、南明奈、[ムーディ勝山](../Page/ムーディ勝山.md "wikilink")、[モト冬樹](../Page/モト冬樹.md "wikilink")、[山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")
 
 ### 第3回
 
 #### チームアイドル
 
   - [ハロプロ組](../Page/ハロー!プロジェクト.md "wikilink")
-      - 岡田唯（美勇伝）、里田まい、[三好絵梨香](../Page/三好絵梨香.md "wikilink")（美勇伝）、[村田めぐみ](https://ja.wikipedia.org/wiki/ムラタメグミ "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")）、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、吉澤ひとみ - 後に全員ハロプロを卒業。
+      - 岡田唯（美勇伝）、里田まい、[三好絵梨香](../Page/三好絵梨香.md "wikilink")（美勇伝）、[村田めぐみ](../Page/ムラタメグミ.md "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")）、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、吉澤ひとみ - 後に全員ハロプロを卒業。
   - [バラドル組](https://ja.wikipedia.org/wiki/バラエティーアイドル "wikilink")
-      - [相沢真紀](https://ja.wikipedia.org/wiki/相沢まき "wikilink")、[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")、[木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")、[白石みき](https://ja.wikipedia.org/wiki/白石みき "wikilink")、スザンヌ、山本梓
+      - [相沢真紀](https://ja.wikipedia.org/wiki/相沢まき "wikilink")、[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")、[木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink")、[白石みき](../Page/白石みき.md "wikilink")、スザンヌ、山本梓
 
 #### チーム高学歴＆いい大人
 
   - いい大人組
-      - [いとうまい子](https://ja.wikipedia.org/wiki/いとうまい子 "wikilink")、[大鶴義丹](../Page/大鶴義丹.md "wikilink")、[嶋大輔](../Page/嶋大輔.md "wikilink")、武田修宏、錦野旦、[はしのえみ](https://ja.wikipedia.org/wiki/はしのえみ "wikilink")、松本伊代
+      - [いとうまい子](../Page/いとうまい子.md "wikilink")、[大鶴義丹](../Page/大鶴義丹.md "wikilink")、[嶋大輔](../Page/嶋大輔.md "wikilink")、武田修宏、錦野旦、[はしのえみ](../Page/はしのえみ.md "wikilink")、松本伊代
   - 高学歴組
-      - 麻木久仁子、石田純一、[魚住りえ](https://ja.wikipedia.org/wiki/魚住りえ "wikilink")、[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")（[ロザン](../Page/ロザン.md "wikilink")）、[光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（[オアシズ](https://ja.wikipedia.org/wiki/オアシズ "wikilink")）、[大久保佳代子](https://ja.wikipedia.org/wiki/大久保佳代子 "wikilink")（オアシズ）、[優木まおみ](https://ja.wikipedia.org/wiki/優木まおみ "wikilink")
+      - 麻木久仁子、石田純一、[魚住りえ](https://ja.wikipedia.org/wiki/魚住りえ "wikilink")、[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")（[ロザン](../Page/ロザン.md "wikilink")）、[光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（[オアシズ](../Page/オアシズ.md "wikilink")）、[大久保佳代子](https://ja.wikipedia.org/wiki/大久保佳代子 "wikilink")（オアシズ）、[優木まおみ](https://ja.wikipedia.org/wiki/優木まおみ "wikilink")
 
 #### チーム芸人
 
   - ビジュアル芸人組
-      - [板倉俊之](../Page/板倉俊之.md "wikilink")（[インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")）、[川島明](https://ja.wikipedia.org/wiki/川島明 "wikilink")（[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")）、[設楽統](../Page/設楽統.md "wikilink")（[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")）、陣内智則、田村亮（ロンドンブーツ）、千原ジュニア（千原兄弟）、[にしおかすみこ](https://ja.wikipedia.org/wiki/にしおかすみこ "wikilink")
+      - [板倉俊之](../Page/板倉俊之.md "wikilink")（[インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")）、[川島明](https://ja.wikipedia.org/wiki/川島明 "wikilink")（[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")）、[設楽統](../Page/設楽統.md "wikilink")（[バナナマン](../Page/バナナマン.md "wikilink")）、陣内智則、田村亮（ロンドンブーツ）、千原ジュニア（千原兄弟）、[にしおかすみこ](../Page/にしおかすみこ.md "wikilink")
   - ノンビジュアル芸人組
-      - 藤本敏史（FUJIWARA）、原西孝幸（FUJIWARA）、[千原せいじ](https://ja.wikipedia.org/wiki/千原せいじ "wikilink")（千原兄弟）、品川祐（品川庄司）、[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")（バナナマン）、[堤下敦](https://ja.wikipedia.org/wiki/堤下敦 "wikilink")（インパルス）、[田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")（麒麟）
+      - 藤本敏史（FUJIWARA）、原西孝幸（FUJIWARA）、[千原せいじ](../Page/千原せいじ.md "wikilink")（千原兄弟）、品川祐（品川庄司）、[日村勇紀](../Page/日村勇紀.md "wikilink")（バナナマン）、[堤下敦](../Page/堤下敦.md "wikilink")（インパルス）、[田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")（麒麟）
 
 ### 第4回
 
 #### チーム高学歴
 
-  - 麻木久仁子、[サンプラザ中野くん](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")、宇治原史規（ロザン）、大鶴義丹、優木まおみ、[山本モナ](https://ja.wikipedia.org/wiki/山本モナ "wikilink")、[八田亜矢子](https://ja.wikipedia.org/wiki/八田亜矢子 "wikilink")、[木村美紀](https://ja.wikipedia.org/wiki/木村美紀 "wikilink")、[レイザーラモンHG](https://ja.wikipedia.org/wiki/レイザーラモンHG "wikilink")、[田中卓志](https://ja.wikipedia.org/wiki/田中卓志 "wikilink")（[アンガールズ](../Page/アンガールズ.md "wikilink")）
+  - 麻木久仁子、[サンプラザ中野くん](../Page/サンプラザ中野くん.md "wikilink")、宇治原史規（ロザン）、大鶴義丹、優木まおみ、[山本モナ](../Page/山本モナ.md "wikilink")、[八田亜矢子](https://ja.wikipedia.org/wiki/八田亜矢子 "wikilink")、[木村美紀](https://ja.wikipedia.org/wiki/木村美紀 "wikilink")、[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")、[田中卓志](../Page/田中卓志.md "wikilink")（[アンガールズ](../Page/アンガールズ.md "wikilink")）
 
 #### チームMEN's
 
-  - 田村亮、[山崎邦正](../Page/月亭方正.md "wikilink")、武田修宏、[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")、藤本敏史（FUJIWARA）、原西孝幸（FUJIWARA）、土田晃之、ケンドーコバヤシ、[世界のナベアツ（渡辺あつむ）](../Page/桂三度.md "wikilink")、[有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink")、千原ジュニア、[DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")、[長塚智広](https://ja.wikipedia.org/wiki/長塚智広 "wikilink")、[加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")
+  - 田村亮、[山崎邦正](../Page/月亭方正.md "wikilink")、武田修宏、[田中要次](../Page/田中要次.md "wikilink")、藤本敏史（FUJIWARA）、原西孝幸（FUJIWARA）、土田晃之、ケンドーコバヤシ、[世界のナベアツ（渡辺あつむ）](../Page/桂三度.md "wikilink")、[有吉弘行](../Page/有吉弘行.md "wikilink")、千原ジュニア、[DAIGO](../Page/DAIGO.md "wikilink")、[長塚智広](../Page/長塚智広.md "wikilink")、[加藤和樹](../Page/加藤和樹.md "wikilink")
 
 #### チームLADY's
 
-  - [大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")（[森三中](../Page/森三中.md "wikilink")）、夏川純、山本梓、矢口真里、里田まい、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")、大沢あかね、吉澤ひとみ、三好絵梨香、岡田唯、[松井絵里奈](https://ja.wikipedia.org/wiki/松井絵里奈 "wikilink")、[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")
+  - [大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")（[森三中](../Page/森三中.md "wikilink")）、夏川純、山本梓、矢口真里、里田まい、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")、大沢あかね、吉澤ひとみ、三好絵梨香、岡田唯、[松井絵里奈](../Page/松井絵里奈.md "wikilink")、[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")
 
 ### 第5回
 
@@ -156,25 +156,25 @@
   - 前半のみのメンバー
       - [小川麻琴](../Page/小川麻琴.md "wikilink")、[嗣永桃子](../Page/嗣永桃子.md "wikilink")（[Berryz工房](../Page/Berryz工房.md "wikilink")）、[梅田えりか](../Page/梅田えりか.md "wikilink")（[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）、岡田唯、三好絵梨香 - 前半はチームハロプロと名がついていたが、当時実際にハロプロメンバーであったのは嗣永桃子と梅田えりかの2人だけであり、あとの5人はハロプロメンバーではなかった。
   - 後半のみのメンバー
-      - 南明奈、優木まおみ、相沢真紀、[ほしのあき](../Page/ほしのあき.md "wikilink")、[青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")
+      - 南明奈、優木まおみ、相沢真紀、[ほしのあき](../Page/ほしのあき.md "wikilink")、[青田典子](../Page/青田典子.md "wikilink")
 
 #### チーム高学歴
 
   - 固定メンバー
       - 西川史子、[椿姫彩菜](https://ja.wikipedia.org/wiki/椿姫彩菜 "wikilink")、麻木久仁子
   - 前半のみのメンバー
-      - 木村美紀、サンプラザ中野くん、[高田万由子](https://ja.wikipedia.org/wiki/高田万由子 "wikilink")、[山根良顕](https://ja.wikipedia.org/wiki/山根良顕 "wikilink")（アンガールズ）
+      - 木村美紀、サンプラザ中野くん、[高田万由子](../Page/高田万由子.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")（アンガールズ）
   - 後半のみのメンバー
       - 八田亜矢子、[ラサール石井](../Page/ラサール石井.md "wikilink")、[エド・はるみ](https://ja.wikipedia.org/wiki/エド・はるみ "wikilink")、田中卓志（アンガールズ）
 
 #### チーム芸能人家族
 
   - 固定メンバー
-      - スザンヌ、[マーガリン](https://ja.wikipedia.org/wiki/マーガリン_\(タレント\) "wikilink")（スザンヌの妹）、キャサリン（スザンヌの母）
+      - スザンヌ、[マーガリン](../Page/マーガリン_\(タレント\).md "wikilink")（スザンヌの妹）、キャサリン（スザンヌの母）
   - 前半のみのメンバー
       - 藤本敏史（FUJIWARA）、原西孝幸（FUJIWARA）、藤本の母、原西の母
   - 後半のみのメンバー
-      - [山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")（[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink")）、山本の母、[若井おさむ](https://ja.wikipedia.org/wiki/若井おさむ "wikilink")、若井の妻
+      - [山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")（[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink")）、山本の母、[若井おさむ](../Page/若井おさむ.md "wikilink")、若井の妻
 
 #### チームゆかい → チームAround40
 
@@ -183,26 +183,74 @@
   - 前半のみのメンバー
       - インパルス（板倉俊之、堤下敦）、日村勇紀（バナナマン）
   - 後半のみのメンバー
-      - [川合俊一](../Page/川合俊一.md "wikilink")、[クリス松村](https://ja.wikipedia.org/wiki/クリス松村 "wikilink")、山里亮太（南海キャンディーズ）
+      - [川合俊一](../Page/川合俊一.md "wikilink")、[クリス松村](../Page/クリス松村.md "wikilink")、山里亮太（南海キャンディーズ）
 
 ## スタッフ
 
-  - 構成：[中野俊成](https://ja.wikipedia.org/wiki/中野俊成 "wikilink")、[鮫肌文殊](https://ja.wikipedia.org/wiki/鮫肌文殊 "wikilink") ／ 内海邦一、[松本真一](https://ja.wikipedia.org/wiki/松本真一_\(放送作家\) "wikilink")、水野圭祐、竹村武司、湊星子、佐藤充 ／ [高須光聖](../Page/高須光聖.md "wikilink")
-  - ディレクター：山口美和（b-DASH）、本岡豊基、堀脇慎志郎、米嶋悟志
-  - アートディレクター：[佐藤大輔](https://ja.wikipedia.org/wiki/佐藤大輔_\(映像作家\) "wikilink")
+  - 構成：[中野俊成](../Page/中野俊成.md "wikilink")、[鮫肌文殊](../Page/鮫肌文殊.md "wikilink") ／ 内海邦一、[松本真一](../Page/松本真一_\(放送作家\).md "wikilink")、水野圭祐、竹村武司、湊星子、佐藤充（佐藤→第3回-） ／ [高須光聖](../Page/高須光聖.md "wikilink")
+  - TD：片平哲也
+  - TP：辻本豊
+  - カメラ：古俣智則
+  - 音声：小幡一網（第1,2,4,5回）
+  - PA：秋野岳夫
+  - VE：鈴木貴裕
+  - LD：大竹康裕
+  - LED：前島亮二
+  - VTR：杉崎敏一
+  - バーチャルオペレーション：佐々木史子、北村陸治、渡辺幸範
+  - 美術プロデューサー：[松沢由之](../Page/松沢由之.md "wikilink")（第2回-）
+  - デザイン：野口陽介
+  - 美術進行：横山勇
+  - 大道具：成井一浩
+  - アクリル装飾：相田雄一（第3回-）
+  - 電飾：林将大
+  - メカニック(第3回-)：樋口真樹（第3回-）
+  - 編集：馬場革（第1-3,5回）、藤井竜也（第2,5回）
+  - 問題CG：小城功夫
+  - MA：川原崎智史
+  - 音効：磯川浩己
+  - CG・ビジュアルアート：小杉文彦、鴻巣将樹（鴻巣→第1,3回-）
+  - メイク：佐野優美子、一条純子、三上津香沙（三上→第5回）
+  - スタイリスト：渡辺浩司、藤沢まさみ（藤沢→第5回）
+  - 協力：[ウインズウイン](../Page/ウインズウイン.md "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[glow](https://ja.wikipedia.org/wiki/glow_\(ポストプロダクション\) "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[ヒビノ](https://ja.wikipedia.org/wiki/ヒビノ "wikilink")、[MEDIACO](https://ja.wikipedia.org/wiki/MEDIACO "wikilink")(メディアコ)、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")、[TMCレモンスタジオ](../Page/東京メディアシティ.md "wikilink")、まるビデオ、[ABCリブラ](../Page/ABCリブラ.md "wikilink")（glow→第2回-、レモン→第3,5回、リブラ→第4回-、まる→第5回）
+  - 編成：石橋義史（ABC、第4回-）
+  - 番宣：高内三恵子（ABC、第4回-）
+  - デスク：中村美恵（ABC、第1,3,5回）
+  - AP：長谷川三芳、永田浩子（永田→第3回-、第1回はAD、第2回は制作スタッフ）
+  - キャスティングブレーン：根岸美弥子
+  - AD：岡山薫（第3回-）
+  - TK(第3回-)：山岸弘子（第3回-）
+  - 制作スタッフ(第2回-)：近藤祐治郎、宮澤美鈴、山本紘史、平川辰耶、小倉崇将（近藤→第1回はディレクター、宮澤・山本→第4回-、平川・小倉→第5回）
+  - FD：堀脇慎志郎、羽根田梅子、藤井雅彦（藤井→第3回-、第2回は制作スタッフ）、長岡均（長岡→第4回-、第2,3回は制作スタッフ）
+  - ディレクター：山口美和（b-DASH）、本岡豊基、伊東伸一郎（伊東→第3回-、第1,2回はFD）、米嶋悟志（米嶋→第5回、第1-4回はFD）
   - チーフディレクター：広瀬陽一（b-DASH）
+  - アートディレクター：[佐藤大輔](https://ja.wikipedia.org/wiki/佐藤大輔_\(映像作家\) "wikilink")
   - プロデューサー・総合演出：[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（b-DASH）
-  - プロデューサー：佐々木聰子・吉本貴雄（ABC）、高畑正和（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")）
+  - プロデューサー：吉川知仁・吉本貴雄（共にABC・第5回）、高畑正和（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")）
   - チーフプロデューサー：[辻史彦](https://ja.wikipedia.org/wiki/辻史彦 "wikilink")（ABC、第4回まではプロデューサー）
-  - スタジオ：テイクスタジオ（第1回、第2回）、TMCレモンスタジオ（第3回）、国際放映TMC-A1スタジオ（第4回）
-  - 協力：[ウインズウイン](https://ja.wikipedia.org/wiki/ウインズウイン "wikilink")、[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[glow](https://ja.wikipedia.org/wiki/glow_\(ポストプロダクション\) "wikilink")、[サウンドエフェクト](https://ja.wikipedia.org/wiki/サウンドエフェクト "wikilink")、[MEDIACO](https://ja.wikipedia.org/wiki/MEDIACO "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[ABCリブラ](../Page/ABCリブラ.md "wikilink")
-  - 制作協力：[ビーダッシュ](https://ja.wikipedia.org/wiki/ビーダッシュ "wikilink")
+  - 制作協力：[b-DASH](../Page/ビーダッシュ.md "wikilink")
   - 制作：朝日放送（ABC）、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")
 
 ### 途中まで参加していたスタッフ
 
-  - チーフプロデューサー：今村俊昭（ABC、第4回まで）
+  - 構成：前明大（第2回）
+  - 音声：光家郁夫（第3回）
+  - 美術プロデューサー：堀部信行（第1回）
+  - アクリル装飾：大竹由里子（第1,2回）
+  - 特殊装置：山根伸夫（第1,2回）
+  - 編集：土田重之（第1,3回）、西山一成、吉村崇、密岡譲（共に第4回）
+  - CG・ビジュアルアート：古畑資展、北島武樹（共に第1,2回）
+  - スタジオ：テイクスタジオ（第1,2回）
+  - 協力：umpd、[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")（共に第1回）、[テクノマックス](../Page/テクノマックス.md "wikilink")（第2回）、[ドリームスペース](https://ja.wikipedia.org/wiki/ドリームスペース "wikilink")（第2,3回）、[国際放映](../Page/国際放映.md "wikilink")（第4回）
+  - 編成：飯田新（ABC、第1,2回）、小林正太郎（ABC、第3回）
+  - 番宣：渡邉亜希子（ABC、第1,2回）、秋枝千絵（ABC、第3回）
+  - デスク：松原幹（ABC、第2,4回）
+  - AD：白石宗之（第2回）
+  - FD：藤澤貴之（第1-4回）、見付統洋（第1回）、長山忠興（第2-4回）
+  - 制作スタッフ(第2回-)：小澤博之、日江井かおり、武田かい、大久保藍子、森琢磨、坊上大輔、森谷祥子、杉本論久（小澤→第1回はディレクター、日江井・大久保→第2,3回、森→第2-4回、武田・坊上→第2回、小澤→第3,4回、森谷・杉本→第4回）
+  - ディレクター：進通法孝 / 岡田秀行（共に第1回）
   - プロデューサー：伊藤拓哉（ABC、第4回まで）
+  - チーフプロデューサー：今村俊昭（ABC、第4回まで）
 
 ## 放送日
 
@@ -223,13 +271,13 @@
       - 第3回：2008年[5月17日](../Page/5月17日.md "wikilink")（土曜日） 13:00 - 15:50
       - 第4回：2008年[9月13日](../Page/9月13日.md "wikilink")（土曜日） 14:00 - 16:54
       - 第5回：2008年[11月8日](../Page/11月8日.md "wikilink")（土曜日） 12:00 - 14:50
-  - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT、[TBS](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）
+  - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT、[TBS](../Page/TBSテレビ.md "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）
       - 第2回：2008年[1月2日](../Page/1月2日.md "wikilink")（[水曜日](../Page/水曜日.md "wikilink")） 8:20 - 10:20
-      - 第3回：2008年[12月29日](https://ja.wikipedia.org/wiki/12月29日 "wikilink")（[月曜日](../Page/月曜日.md "wikilink")） 12:00 - 14:50
+      - 第3回：2008年[12月29日](../Page/12月29日.md "wikilink")（[月曜日](../Page/月曜日.md "wikilink")） 12:00 - 14:50
 
 ## 視聴率
 
-※すべて関東地区・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")調べ
+※すべて関東地区・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ
 
   - 第1回 10.5%
   - 第2回 12.7%

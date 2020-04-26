@@ -1,4 +1,4 @@
-> この記事は[GetBackers--](https://ja.wikipedia.org/wiki/GetBackers--)から翻訳されています。
+> この記事は[GetBackers-奪還屋-の登場人物](https://ja.wikipedia.org/wiki/GetBackers-奪還屋-の登場人物)から翻訳されています。
 
 
 **GetBackers-奪還屋-の登場人物**（ゲットバッカーズ だっかんやのとうじょうじんぶつ）は、原作は[青樹佑夜](../Page/樹林伸.md "wikilink")、作画は[綾峰欄人](../Page/綾峰欄人.md "wikilink")の漫画、およびそれを原作とする[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品『[GetBackers-奪還屋-](https://ja.wikipedia.org/wiki/GetBackers-奪還屋- "wikilink")』に登場する架空のキャラクターについて解説する。
@@ -490,7 +490,7 @@
 魔里人と鬼里人（キリュウド）はかつて共に暮らし森を守る存在だったが、魔里人が兜の野望を阻止する目的で「鬼魔羅」を鬼里人から奪って以来、400年の長きに亘って敵対していた。
 
   -
-    声 - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")
+    声 - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")
     誕生日：4月19日。年齢：14歳。血液型：AB型。星座：新牡羊座。身長：130cm。体重：40kg。
     漫画とドラマCDのみ登場。士度と同じ魔里人の生き残りで**癒の春木**の直系。傷ついた相手のダメージを回復させる力を持つ。
     「死ぬべきではない者は分け隔てなくその命を救え」という一族の教えを守り、敵である蝉丸をも癒した。母のような優しさ・包容力を持つ少女。

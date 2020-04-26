@@ -1,4 +1,4 @@
-> この記事は[ORO](https://ja.wikipedia.org/wiki/ORO)から翻訳されています。
+> この記事は[OROカップ](https://ja.wikipedia.org/wiki/OROカップ)から翻訳されています。
 
 
 **岩手県知事杯OROカップ**（いわてけんちじはいオーロカップ）は、[岩手県競馬組合](../Page/岩手県競馬組合.md "wikilink")が[盛岡競馬場](../Page/盛岡競馬場.md "wikilink")で施行する[地方競馬](../Page/地方競馬.md "wikilink")の[重賞](../Page/重賞.md "wikilink")[競走](../Page/競馬の競走.md "wikilink")（[平地競走](../Page/平地競走.md "wikilink")）である。

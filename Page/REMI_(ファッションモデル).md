@@ -1,9 +1,9 @@
-> この記事は[REMI \(\)](https://ja.wikipedia.org/wiki/REMI_\(\))から翻訳されています。
+> この記事は[REMI \(ファッションモデル\)](https://ja.wikipedia.org/wiki/REMI_\(ファッションモデル\))から翻訳されています。
 
 
-**Remi**（レミ、[1979年](../Page/1979年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - ）は、日本の男性[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")、映画監督。
+**Remi**（レミ、[1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）は、日本の男性[ファッションモデル](../Page/ファッションモデル.md "wikilink")、映画監督。
 
-[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。[ビーナチュラル](https://ja.wikipedia.org/wiki/ビーナチュラル "wikilink")所属。特技は[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[スキー](../Page/スキー.md "wikilink")。
+[福岡県](../Page/福岡県.md "wikilink")出身。[ビーナチュラル](../Page/ビーナチュラル.md "wikilink")所属。特技は[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[スキー](../Page/スキー.md "wikilink")。
 
 主に[ファッションショー](../Page/ファッションショー.md "wikilink")や[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")のモデルとして活躍している。映画監督としても活動している。
 
@@ -20,17 +20,17 @@
 ### 雑誌
 
   - MR.high-fashion
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
-  - [POPEYE](https://ja.wikipedia.org/wiki/POPEYE "wikilink")
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
+  - [POPEYE](../Page/POPEYE.md "wikilink")
   - [smart](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")
-  - [HDP](https://ja.wikipedia.org/wiki/ホットドッグ・プレス "wikilink")
+  - [HDP](../Page/ホットドッグ・プレス.md "wikilink")
   - relax
   - BOON
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")
   - [ストリートジャック](https://ja.wikipedia.org/wiki/ストリートジャック "wikilink")
   - GET ON\!
   - SENSE
-  - [Men's JOKER](https://ja.wikipedia.org/wiki/Men's_JOKER "wikilink")
+  - [Men's JOKER](../Page/Men's_JOKER.md "wikilink")
 
 ### ショー
 

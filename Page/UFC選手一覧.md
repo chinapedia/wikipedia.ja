@@ -1,4 +1,4 @@
-> この記事は[UFC](https://ja.wikipedia.org/wiki/UFC)から翻訳されています。
+> この記事は[UFC選手一覧](https://ja.wikipedia.org/wiki/UFC選手一覧)から翻訳されています。
 
 
 **UFC選手一覧**（ユーエフシーせんしゅいちらん）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」に参戦している、または参戦経験のある選手の一覧である。選手は階級別に記載し、活躍が複数の階級にわたる場合は顕著な成績を挙げている階級にカテゴライズする。
@@ -6,31 +6,31 @@
 ## ヘビー級(205lbs-265lbs: 93.0kg-120.2kg)
 
   - [アスエリオ・シウバ](../Page/アスエリオ・シウバ.md "wikilink")（）
-  - [アリスター・オーフレイム](https://ja.wikipedia.org/wiki/アリスター・オーフレイム "wikilink")（）
+  - [アリスター・オーフレイム](../Page/アリスター・オーフレイム.md "wikilink")（）
   - [アレクサンダー・ヴォルコフ](https://ja.wikipedia.org/wiki/アレキサンダー・ヴォルコフ "wikilink")（）
   - [アレクセイ・オレイニク](https://ja.wikipedia.org/wiki/アレクセイ・オレイニク "wikilink")（）
-  - [アントニー・ハードンク](https://ja.wikipedia.org/wiki/アントニー・ハードンク "wikilink")（）
-  - [アントニオ・シウバ](https://ja.wikipedia.org/wiki/アントニオ・シウバ "wikilink")（）
-  - [アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink")（）
-  - [アンドレイ・アルロフスキー](https://ja.wikipedia.org/wiki/アンドレイ・アルロフスキー "wikilink")（）
+  - [アントニー・ハードンク](../Page/アントニー・ハードンク.md "wikilink")（）
+  - [アントニオ・シウバ](../Page/アントニオ・シウバ.md "wikilink")（）
+  - [アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink")（）
+  - [アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink")（）
   - [エディ・サンチェス](../Page/エディ・サンチェス.md "wikilink")（）
-  - [オレッグ・タクタロフ](https://ja.wikipedia.org/wiki/オレッグ・タクタロフ "wikilink")（）
+  - [オレッグ・タクタロフ](../Page/オレッグ・タクタロフ.md "wikilink")（）
   - [カーティス・ブレイズ](https://ja.wikipedia.org/wiki/カーティス・ブレイズ "wikilink")（）
   - [カーメロ・マレロ](https://ja.wikipedia.org/wiki/カーメロ・マレロ "wikilink")（）
   - [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")（）
-  - [キモ・レオポルド](https://ja.wikipedia.org/wiki/キモ・レオポルド "wikilink")（）
-  - [ギルバート・アイブル](https://ja.wikipedia.org/wiki/ギルバート・アイブル "wikilink")（）
+  - [キモ・レオポルド](../Page/キモ・レオポルド.md "wikilink")（）
+  - [ギルバート・アイブル](../Page/ギルバート・アイブル.md "wikilink")（）
   - [キンボ・スライス](../Page/キンボ・スライス.md "wikilink")（）
-  - [クリスチャン・ウェリッシュ](https://ja.wikipedia.org/wiki/クリスチャン・ウェリッシュ "wikilink")（）
-  - [ゲーリー・グッドリッジ](https://ja.wikipedia.org/wiki/ゲーリー・グッドリッジ "wikilink")（）
+  - [クリスチャン・ウェリッシュ](../Page/クリスチャン・ウェリッシュ.md "wikilink")（）
+  - [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink")（）
   - [ケイン・ヴェラスケス](https://ja.wikipedia.org/wiki/ケイン・ヴェラスケス "wikilink")（）
-  - [ケビン・ランデルマン](https://ja.wikipedia.org/wiki/ケビン・ランデルマン "wikilink")（）
-  - [高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink")（）
+  - [ケビン・ランデルマン](../Page/ケビン・ランデルマン.md "wikilink")（）
+  - [高阪剛](../Page/高阪剛.md "wikilink")（）
   - [シェーン・デルロサリオ](https://ja.wikipedia.org/wiki/シェーン・デルロサリオ "wikilink")（）
   - [ジェイク・オブライエン](../Page/ジェイク・オブライエン.md "wikilink")（）
   - [シェイン・カーウィン](https://ja.wikipedia.org/wiki/シェイン・カーウィン "wikilink")（）
   - [ジェフ・モンソン](../Page/ジェフ・モンソン.md "wikilink")（）
-  - [ジェラルド・ゴルドー](https://ja.wikipedia.org/wiki/ジェラルド・ゴルドー "wikilink")（）
+  - [ジェラルド・ゴルドー](../Page/ジェラルド・ゴルドー.md "wikilink")（）
   - [シーク・コンゴ](../Page/シーク・コンゴ.md "wikilink")（）
   - [ジャスティン・エイラーズ](https://ja.wikipedia.org/wiki/ジャスティン・エイラーズ "wikilink")（）
   - [ジャスティン・マッコーリー](https://ja.wikipedia.org/wiki/ジャスティン・マッコーリー "wikilink")（）
@@ -45,26 +45,26 @@
   - [デリック・ルイス](https://ja.wikipedia.org/wiki/デリック・ルイス "wikilink")（）
   - [トッド・ダフィー](https://ja.wikipedia.org/wiki/トッド・ダフィー "wikilink")（）
   - [トラヴィス・ブラウン](https://ja.wikipedia.org/wiki/トラヴィス・ブラウン "wikilink")（）
-  - [ドン・フライ](https://ja.wikipedia.org/wiki/ドン・フライ "wikilink")（）
-  - [バス・ルッテン](https://ja.wikipedia.org/wiki/バス・ルッテン "wikilink")（）
+  - [ドン・フライ](../Page/ドン・フライ.md "wikilink")（）
+  - [バス・ルッテン](../Page/バス・ルッテン.md "wikilink")（）
   - [パトリック・バリー](https://ja.wikipedia.org/wiki/パトリック・バリー "wikilink")（）
-  - [ヒース・ヒーリング](https://ja.wikipedia.org/wiki/ヒース・ヒーリング "wikilink")（）
-  - [ファブリシオ・ヴェウドゥム](https://ja.wikipedia.org/wiki/ファブリシオ・ヴェウドゥム "wikilink")（）
-  - [ブライアン・ジョンストン](https://ja.wikipedia.org/wiki/ブライアン・ジョンストン "wikilink")（）
+  - [ヒース・ヒーリング](../Page/ヒース・ヒーリング.md "wikilink")（）
+  - [ファブリシオ・ヴェウドゥム](../Page/ファブリシオ・ヴェウドゥム.md "wikilink")（）
+  - [ブライアン・ジョンストン](../Page/ブライアン・ジョンストン.md "wikilink")（）
   - [フランク・ミア](../Page/フランク・ミア.md "wikilink")（）
   - [フランシス・ガヌー](https://ja.wikipedia.org/wiki/フランシス・ガヌー "wikilink")（）
   - [ブランドン・ヴェラ](../Page/ブランドン・ヴェラ.md "wikilink")（）
-  - [ブロック・レスナー](https://ja.wikipedia.org/wiki/ブロック・レスナー "wikilink")（）
+  - [ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")（）
   - [ボビー・ホフマン](https://ja.wikipedia.org/wiki/ボビー・ホフマン "wikilink")（）
   - [マイク・ルソー](../Page/マイク・ルソー.md "wikilink")（）
-  - [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink")（）
-  - [マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink")（）
-  - [マーク・ハント](https://ja.wikipedia.org/wiki/マーク・ハント "wikilink")（）
+  - [マーク・ケアー](../Page/マーク・ケアー.md "wikilink")（）
+  - [マーク・コールマン](../Page/マーク・コールマン.md "wikilink")（）
+  - [マーク・ハント](../Page/マーク・ハント.md "wikilink")（）
   - [マルチン・ティブラ](https://ja.wikipedia.org/wiki/マルチン・ティブラ "wikilink")（）
   - [ミルコ・クロコップ](../Page/ミルコ・クロコップ.md "wikilink")（）
-  - [モーリス・スミス](https://ja.wikipedia.org/wiki/モーリス・スミス "wikilink")（）
+  - [モーリス・スミス](../Page/モーリス・スミス.md "wikilink")（）
   - [ラバー・ジョンソン](https://ja.wikipedia.org/wiki/ラバー・ジョンソン "wikilink")（）
-  - [ランディ・クートゥア](https://ja.wikipedia.org/wiki/ランディ・クートゥア "wikilink")（）
+  - [ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")（）
   - [リコ・ロドリゲス](../Page/リコ・ロドリゲス_\(格闘家\).md "wikilink")（）
   - [レムコ・パドゥール](https://ja.wikipedia.org/wiki/レムコ・パドゥール "wikilink")（）
   - [ロイ・ネルソン](https://ja.wikipedia.org/wiki/ロイ・ネルソン "wikilink")（）
@@ -80,7 +80,7 @@
   - [アンドレイ・シモノフ](../Page/アンドレイ・シモノフ.md "wikilink")（）
   - [アンソニー・ジョンソン](https://ja.wikipedia.org/wiki/アンソニー・ジョンソン_\(格闘家\) "wikilink")（）
   - [イリル・ラティフィ](https://ja.wikipedia.org/wiki/イリル・ラティフィ "wikilink")（）
-  - [ヴァンダレイ・シウバ](https://ja.wikipedia.org/wiki/ヴァンダレイ・シウバ "wikilink")（）
+  - [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")（）
   - [ウィウソン・ゴヴェイア](https://ja.wikipedia.org/wiki/ウィウソン・ゴヴェイア "wikilink")（）
   - [ヴィクター・ヴァリマキ](https://ja.wikipedia.org/wiki/ヴィクター・ヴァリマキ "wikilink")（）
   - [ヴィニシウス・マガリャエス](https://ja.wikipedia.org/wiki/ヴィニシウス・マガリャエス_\(1984年生\) "wikilink")（）
@@ -89,103 +89,103 @@
   - [エルヴィス・シノシック](../Page/エルヴィス・シノシック.md "wikilink")（）
   - [オヴィンス・サンプルー](https://ja.wikipedia.org/wiki/オヴィンス・サンプルー "wikilink")（）
   - [キース・ジャーディン](../Page/キース・ジャーディン.md "wikilink")（）
-  - [クイントン・"ランペイジ"・ジャクソン](https://ja.wikipedia.org/wiki/クイントン・ジャクソン "wikilink")（）
-  - [クシシュトフ・ソシンスキー](https://ja.wikipedia.org/wiki/クシシュトフ・ソシンスキー "wikilink")（）
+  - [クイントン・"ランペイジ"・ジャクソン](../Page/クイントン・ジャクソン.md "wikilink")（）
+  - [クシシュトフ・ソシンスキー](../Page/クシシュトフ・ソシンスキー.md "wikilink")（）
   - [クリストファー・ヘイズマン](https://ja.wikipedia.org/wiki/クリストファー・ヘイズマン "wikilink")（）
   - [グローバー・テイシェイラ](https://ja.wikipedia.org/wiki/グローバー・テイシェイラ "wikilink")（）
-  - [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink")（）
+  - [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink")（）
   - [コーリー・アンダーソン](https://ja.wikipedia.org/wiki/コーリー・アンダーソン "wikilink")（）
-  - [近藤有己](https://ja.wikipedia.org/wiki/近藤有己 "wikilink")（）
+  - [近藤有己](../Page/近藤有己.md "wikilink")（）
   - [サム・ホーガー](https://ja.wikipedia.org/wiki/サム・ホーガー "wikilink")（）
   - [ジェームス・アーヴィン](https://ja.wikipedia.org/wiki/ジェームス・アーヴィン "wikilink")（）
-  - [ジェイソン・ランバート](https://ja.wikipedia.org/wiki/ジェイソン・ランバート "wikilink")（）
+  - [ジェイソン・ランバート](../Page/ジェイソン・ランバート.md "wikilink")（）
   - [ジミ・マヌワ](https://ja.wikipedia.org/wiki/ジミ・マヌワ "wikilink")（）
   - [ジョニー・ウォーカー](https://ja.wikipedia.org/wiki/ジョニー・ウォーカー_\(格闘家\) "wikilink")（）
   - [ショーン・サーモン](https://ja.wikipedia.org/wiki/ショーン・サーモン "wikilink")（）
   - [ジョン・ジョーンズ](https://ja.wikipedia.org/wiki/ジョン・ジョーンズ "wikilink")（）
-  - [ステファン・ボナー](https://ja.wikipedia.org/wiki/ステファン・ボナー "wikilink")（）
+  - [ステファン・ボナー](../Page/ステファン・ボナー.md "wikilink")（）
   - [スティーヴ・キャントウェル](https://ja.wikipedia.org/wiki/スティーヴ・キャントウェル "wikilink")（）
   - [高橋義生](https://ja.wikipedia.org/wiki/高橋和生 "wikilink")（）
   - [ダニエル・コーミエ](https://ja.wikipedia.org/wiki/ダニエル・コーミエ "wikilink")()
   - [チアゴ・サントス](https://ja.wikipedia.org/wiki/チアゴ・サントス "wikilink")（）
-  - [チアゴ・シウバ](https://ja.wikipedia.org/wiki/チアゴ・シウバ_\(格闘家\) "wikilink")（）
+  - [チアゴ・シウバ](../Page/チアゴ・シウバ_\(格闘家\).md "wikilink")（）
   - [チャック・リデル](../Page/チャック・リデル.md "wikilink")（）
-  - [ティト・オーティズ](https://ja.wikipedia.org/wiki/ティト・オーティズ "wikilink")（）
+  - [ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")（）
   - [デビッド・ヒース](https://ja.wikipedia.org/wiki/デビッド・ヒース_\(格闘家\) "wikilink")（）
   - [ドミニク・レイエス](https://ja.wikipedia.org/wiki/ドミニク・レイエス "wikilink")（）
-  - [ビクトー・ベウフォート](https://ja.wikipedia.org/wiki/ビクトー・ベウフォート "wikilink")（）
+  - [ビクトー・ベウフォート](../Page/ビクトー・ベウフォート.md "wikilink")（）
   - [ヒューストン・アレクサンダー](../Page/ヒューストン・アレクサンダー.md "wikilink")（）
   - [フィル・デイヴィス](https://ja.wikipedia.org/wiki/フィル・デイヴィス_\(格闘家\) "wikilink")（）
   - [フォレスト・グリフィン](../Page/フォレスト・グリフィン.md "wikilink")（）
   - [ブライアン・スタン](https://ja.wikipedia.org/wiki/ブライアン・スタン "wikilink")（）
-  - [フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")（）
+  - [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")（）
   - [ヘクター・ラミレス](https://ja.wikipedia.org/wiki/ヘクター・ラミレス "wikilink")（）
-  - [ボビー・サウスワース](https://ja.wikipedia.org/wiki/ボビー・サウスワース "wikilink")（）
+  - [ボビー・サウスワース](../Page/ボビー・サウスワース.md "wikilink")（）
   - [マイケル・ビスピン](../Page/マイケル・ビスピン.md "wikilink")（）
-  - [マウリシオ・ショーグン](https://ja.wikipedia.org/wiki/マウリシオ・ショーグン "wikilink")（）
+  - [マウリシオ・ショーグン](../Page/マウリシオ・ショーグン.md "wikilink")（）
   - [マット・ハミル](../Page/マット・ハミル.md "wikilink")（）
   - [ミーシャ・サークノフ](https://ja.wikipedia.org/wiki/ミーシャ・サークノフ "wikilink")（）
-  - [山本喧一](https://ja.wikipedia.org/wiki/山本喧一 "wikilink")（）
+  - [山本喧一](../Page/山本喧一.md "wikilink")（）
   - [ヤン・ブラコヴィッチ](https://ja.wikipedia.org/wiki/ヤン・ブラコヴィッチ "wikilink")（）
   - [ライアン・ベイダー](https://ja.wikipedia.org/wiki/ライアン・ベイダー "wikilink")（）
   - [ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink")（）
-  - [リョート・マチダ](https://ja.wikipedia.org/wiki/リョート・マチダ "wikilink")（）
+  - [リョート・マチダ](../Page/リョート・マチダ.md "wikilink")（）
   - [ルイス・カーニ](https://ja.wikipedia.org/wiki/ルイス・カーニ "wikilink")（）
   - [レナート・ババル](../Page/レナート・ババル.md "wikilink")（）
 
 ## ミドル級(170lbs-185lbs: 77.1kg-83.9kg)
 
   - [アイヴァン・サラヴェリー](https://ja.wikipedia.org/wiki/アイヴァン・サラヴェリー "wikilink")（）
-  - [秋山成勲](https://ja.wikipedia.org/wiki/秋山成勲 "wikilink")（）
+  - [秋山成勲](../Page/秋山成勲.md "wikilink")（）
   - [アミール・サダロー](https://ja.wikipedia.org/wiki/アミール・サダロー "wikilink")（）
-  - [アラン・ベルチャー](https://ja.wikipedia.org/wiki/アラン・ベルチャー "wikilink")（）
-  - [アンデウソン・シウバ](https://ja.wikipedia.org/wiki/アンデウソン・シウバ "wikilink")（）
+  - [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink")（）
+  - [アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink")（）
   - [イスラエル・アデサンヤ](https://ja.wikipedia.org/wiki/イスラエル・アデサンヤ "wikilink")（）
   - [イライアス・テオドロウ](https://ja.wikipedia.org/wiki/イライアス・テオドロウ "wikilink")（）
   - [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink")（）
   - [エリク・アンダース](https://ja.wikipedia.org/wiki/エリク・アンダース "wikilink")（）
-  - [岡見勇信](https://ja.wikipedia.org/wiki/岡見勇信 "wikilink")（）
-  - [カリブ・スターンズ](https://ja.wikipedia.org/wiki/カリブ・スターンズ "wikilink")（）
+  - [岡見勇信](../Page/岡見勇信.md "wikilink")（）
+  - [カリブ・スターンズ](../Page/カリブ・スターンズ.md "wikilink")（）
   - [カン・リー](https://ja.wikipedia.org/wiki/カン・リー "wikilink")（）
   - [クリス・ワイドマン](https://ja.wikipedia.org/wiki/クリス・ワイドマン "wikilink")（）
   - [ケルヴィン・ガステラム](https://ja.wikipedia.org/wiki/ケルヴィン・ガステラム "wikilink")（）
-  - [ケンドール・グローブ](https://ja.wikipedia.org/wiki/ケンドール・グローブ "wikilink")（）
-  - [CB・ダラウェイ](https://ja.wikipedia.org/wiki/CB・ダラウェイ "wikilink")（）
-  - [ジェイソン・デイ](https://ja.wikipedia.org/wiki/ジェイソン・デイ_\(総合格闘家\) "wikilink")（）
+  - [ケンドール・グローブ](../Page/ケンドール・グローブ.md "wikilink")（）
+  - [CB・ダラウェイ](../Page/CB・ダラウェイ.md "wikilink")（）
+  - [ジェイソン・デイ](../Page/ジェイソン・デイ_\(総合格闘家\).md "wikilink")（）
   - [ジェイソン・マクドナルド](../Page/ジェイソン・マクドナルド.md "wikilink")（）
   - [ジェイソン・ミラー](https://ja.wikipedia.org/wiki/ジェイソン・ミラー "wikilink")（）
   - [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")（）
   - [ジャスティン・レヴェンス](https://ja.wikipedia.org/wiki/ジャスティン・レヴェンス "wikilink")（）
   - [ジャレッド・キャノニア](https://ja.wikipedia.org/wiki/ジャレッド・キャノニア "wikilink")（）
-  - [ジョー・ドークセン](https://ja.wikipedia.org/wiki/ジョー・ドークセン "wikilink")（）
+  - [ジョー・ドークセン](../Page/ジョー・ドークセン.md "wikilink")（）
   - [スコット・スミス](https://ja.wikipedia.org/wiki/スコット・スミス_\(格闘家\) "wikilink")（）
   - [ターレス・レイチ](https://ja.wikipedia.org/wiki/ターレス・レイチ "wikilink")（）
-  - [ダン・ヘンダーソン](https://ja.wikipedia.org/wiki/ダン・ヘンダーソン "wikilink")（）
+  - [ダン・ヘンダーソン](../Page/ダン・ヘンダーソン.md "wikilink")（）
   - [ダン・ミラー](https://ja.wikipedia.org/wiki/ダン・ミラー "wikilink")（）
   - [ティム・クレドゥアー](https://ja.wikipedia.org/wiki/ティム・クレドゥアー "wikilink")（）
   - [ティム・ボッシュ](https://ja.wikipedia.org/wiki/ティム・ボッシュ "wikilink")（）
-  - [デビッド・テレル](https://ja.wikipedia.org/wiki/デビッド・テレル "wikilink")（）
+  - [デビッド・テレル](../Page/デビッド・テレル.md "wikilink")（）
   - [デヴィッド・ブランチ](https://ja.wikipedia.org/wiki/デヴィッド・ブランチ "wikilink")（）
   - [デビッド・ロワゾー](../Page/デビッド・ロワゾー.md "wikilink")（）
   - [デミアン・マイア](../Page/デミアン・マイア.md "wikilink")（）
-  - [テリー・マーティン](https://ja.wikipedia.org/wiki/テリー・マーティン "wikilink")（）
+  - [テリー・マーティン](../Page/テリー・マーティン.md "wikilink")（）
   - [デレク・ブランソン](https://ja.wikipedia.org/wiki/デレク・ブランソン "wikilink")（）
-  - [トラヴィス・ルター](https://ja.wikipedia.org/wiki/トラヴィス・ルター "wikilink")（）
+  - [トラヴィス・ルター](../Page/トラヴィス・ルター.md "wikilink")（）
   - [ニッセン・オスターネック](https://ja.wikipedia.org/wiki/ニッセン・オスターネック "wikilink")（）
   - [ネイサン・クォーリー](https://ja.wikipedia.org/wiki/ネイサン・クォーリー "wikilink")（）
   - [パウロ・コスタ](https://ja.wikipedia.org/wiki/パウロ・コスタ "wikilink")（）
   - [パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink")（）
   - [ヒカルド・アルメイダ](../Page/ヒカルド・アルメイダ.md "wikilink")（）
-  - [フィル・バローニ](https://ja.wikipedia.org/wiki/フィル・バローニ "wikilink")（）
+  - [フィル・バローニ](../Page/フィル・バローニ.md "wikilink")（）
   - [福田力](https://ja.wikipedia.org/wiki/福田力 "wikilink")（）
-  - [ヘクター・ロンバード](https://ja.wikipedia.org/wiki/ヘクター・ロンバード "wikilink")（）
+  - [ヘクター・ロンバード](../Page/ヘクター・ロンバード.md "wikilink")（）
   - [ホジマール・パリャーレス](https://ja.wikipedia.org/wiki/ホジマール・パリャーレス "wikilink")（）
-  - [ホナウド・ジャカレイ](https://ja.wikipedia.org/wiki/ホナウド・ジャカレイ "wikilink")（）
+  - [ホナウド・ジャカレイ](../Page/ホナウド・ジャカレイ.md "wikilink")（）
   - [ホルヘ・リベラ](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(格闘家\) "wikilink")（）
   - [マット・リンドランド](../Page/マット・リンドランド.md "wikilink")（）
   - [マーヴィン・イーストマン](https://ja.wikipedia.org/wiki/マーヴィン・イーストマン "wikilink")（）
   - [マルティン・カンプマン](../Page/マルティン・カンプマン.md "wikilink")（）
-  - [ムリーロ・ブスタマンチ](https://ja.wikipedia.org/wiki/ムリーロ・ブスタマンチ "wikilink")（）
+  - [ムリーロ・ブスタマンチ](../Page/ムリーロ・ブスタマンチ.md "wikilink")（）
   - [ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink")（）
   - [ユライア・ホール](https://ja.wikipedia.org/wiki/ユライア・ホール "wikilink")（）
   - [ヨエル・ロメロ](https://ja.wikipedia.org/wiki/ヨエル・ロメロ "wikilink")（）
@@ -200,13 +200,13 @@
 ## ウェルター級(155lbs-170lbs: 70.3kg-77.1kg)
 
   - [アブドゥル・ラザク・アルハッサン](https://ja.wikipedia.org/wiki/アブドゥル・ラザク・アルハッサン "wikilink")（）
-  - [アレックス・オリベイラ](https://ja.wikipedia.org/wiki/アレックス・オリベイラ "wikilink")（）
+  - [アレックス・オリベイラ](../Page/アレックス・オリベイラ.md "wikilink")（）
   - [アンソニー・ペティス](https://ja.wikipedia.org/wiki/アンソニー・ペティス "wikilink")（）
   - [エリック・シウバ](https://ja.wikipedia.org/wiki/エリック・シウバ "wikilink")（）
   - [カマル・ウスマン](https://ja.wikipedia.org/wiki/カマル・ウスマン "wikilink")（）
   - [カーロス・コンディット](../Page/カーロス・コンディット.md "wikilink")（）
   - [グンナー・ネルソン](https://ja.wikipedia.org/wiki/グンナー・ネルソン "wikilink")（）
-  - [郷野聡寛](https://ja.wikipedia.org/wiki/郷野聡寛 "wikilink")（）
+  - [郷野聡寛](../Page/郷野聡寛.md "wikilink")（）
   - [コルビー・コヴィントン](https://ja.wikipedia.org/wiki/コルビー・コヴィントン "wikilink")（）
   - [サンチアゴ・ポンジニッビオ](https://ja.wikipedia.org/wiki/サンチアゴ・ポンジニッビオ "wikilink")（）
   - [ジェス・リアウディン](../Page/ジェス・リアウディン.md "wikilink")（）
@@ -218,19 +218,19 @@
   - [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink")（）
   - [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink")（）
   - [ジョニー・ヘンドリックス](https://ja.wikipedia.org/wiki/ジョニー・ヘンドリックス "wikilink")（）
-  - [ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")（）
+  - [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")（）
   - [ジョン・ハザウェイ](https://ja.wikipedia.org/wiki/ジョン・ハザウェイ "wikilink")（）
-  - [ジョン・フィッチ](https://ja.wikipedia.org/wiki/ジョン・フィッチ "wikilink")（）
+  - [ジョン・フィッチ](../Page/ジョン・フィッチ.md "wikilink")（）
   - [スティーブン・トンプソン](https://ja.wikipedia.org/wiki/スティーブン・トンプソン_\(格闘家\) "wikilink")（）
   - [ストラッサー起一](https://ja.wikipedia.org/wiki/ストラッサー起一 "wikilink")（）
   - [タイロン・ウッドリー](https://ja.wikipedia.org/wiki/タイロン・ウッドリー "wikilink")（）
   - [ダスティン・ヘイズレット](https://ja.wikipedia.org/wiki/ダスティン・ヘイズレット "wikilink")（）
   - [ダニー・アバディ](https://ja.wikipedia.org/wiki/ダニー・アバディ "wikilink")（）
-  - [タムダン・マクローリー](https://ja.wikipedia.org/wiki/タムダン・マクローリー "wikilink")（）
+  - [タムダン・マクローリー](../Page/タムダン・マクローリー.md "wikilink")（）
   - [ダレン・ティル](https://ja.wikipedia.org/wiki/ダレン・ティル "wikilink")（）
-  - [ダン・ハーディー](https://ja.wikipedia.org/wiki/ダン・ハーディー "wikilink")（）
+  - [ダン・ハーディー](../Page/ダン・ハーディー.md "wikilink")（）
   - [チアゴ・アウベス](https://ja.wikipedia.org/wiki/チアゴ・アウベス "wikilink")（）
-  - [長南亮](https://ja.wikipedia.org/wiki/長南亮 "wikilink")（）
+  - [長南亮](../Page/長南亮.md "wikilink")（）
   - [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink")（）
   - [デニス・ホールマン](https://ja.wikipedia.org/wiki/デニス・ホールマン "wikilink")（）
   - [デミアン・マイア](../Page/デミアン・マイア.md "wikilink")（）
@@ -238,33 +238,33 @@
   - [ドリュー・フィケット](https://ja.wikipedia.org/wiki/ドリュー・フィケット "wikilink")（）
   - [トロイ・マンダロニス](https://ja.wikipedia.org/wiki/トロイ・マンダロニス "wikilink")（）
   - [中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink")（）
-  - [中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎 "wikilink")（）
+  - [中村K太郎](../Page/中村K太郎.md "wikilink")（）
   - [ニック・ディアス](../Page/ニック・ディアス.md "wikilink")（）
   - [ニール・マグニー](https://ja.wikipedia.org/wiki/ニール・マグニー "wikilink")（）
   - [ハファエル・ドス・アンジョス](https://ja.wikipedia.org/wiki/ハファエル・ドス・アンジョス "wikilink")（）
-  - [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink")（）
+  - [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink")（）
   - [ピート・スプラット](https://ja.wikipedia.org/wiki/ピート・スプラット "wikilink")（）
-  - [弘中邦佳](https://ja.wikipedia.org/wiki/弘中邦佳 "wikilink")（）
+  - [弘中邦佳](../Page/弘中邦佳.md "wikilink")（）
   - [フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")（）
   - [ブロック・ラーソン](https://ja.wikipedia.org/wiki/ブロック・ラーソン "wikilink")（）
   - [ヘナート・ヴェリッシモ](https://ja.wikipedia.org/wiki/ヘナート・ヴェリッシモ "wikilink")（）
   - [ベン・アスクレン](https://ja.wikipedia.org/wiki/ベン・アスクレン "wikilink")（）
   - [ベンジー・ラダック](https://ja.wikipedia.org/wiki/ベンジー・ラダック "wikilink")（）
   - [ホアン・"ジュカオン"・カルネイロ](../Page/ホアン・カルネイロ.md "wikilink")（）
-  - [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink")（）
+  - [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink")（）
   - [ポール・テイラー](https://ja.wikipedia.org/wiki/ポール・テイラー_\(格闘家\) "wikilink")（）
-  - [ホルヘ・マスヴィダル](https://ja.wikipedia.org/wiki/ホルヘ・マスヴィダル "wikilink")（）
+  - [ホルヘ・マスヴィダル](../Page/ホルヘ・マスヴィダル.md "wikilink")（）
   - [マーカス・デイヴィス](https://ja.wikipedia.org/wiki/マーカス・デイヴィス "wikilink")（）
   - [マイク・スウィック](../Page/マイク・スウィック.md "wikilink")（）
   - [マイク・パイル](https://ja.wikipedia.org/wiki/マイク・パイル "wikilink")（）
   - [マイク・ピアース](https://ja.wikipedia.org/wiki/マイク・ピアース "wikilink")（）
   - [マイク・ペリー](https://ja.wikipedia.org/wiki/マイク・ペリー "wikilink")（）
   - [マット・セラ](../Page/マット・セラ.md "wikilink")（）
-  - [マット・ヒューズ](https://ja.wikipedia.org/wiki/マット・ヒューズ "wikilink")（）
+  - [マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")（）
   - [マット・ブラウン](https://ja.wikipedia.org/wiki/マット・ブラウン "wikilink")（）
   - [マルティン・カンプマン](../Page/マルティン・カンプマン.md "wikilink")（）
   - [三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink")（）
-  - [吉田善行](https://ja.wikipedia.org/wiki/吉田善行 "wikilink")（）
+  - [吉田善行](../Page/吉田善行.md "wikilink")（）
   - [レオン・エドワーズ](https://ja.wikipedia.org/wiki/レオン・エドワーズ "wikilink")（）
   - [ロナルド・ジューン](https://ja.wikipedia.org/wiki/ロナルド・ジューン "wikilink")（）
   - [ロビー・ローラー](../Page/ロビー・ローラー.md "wikilink")（）
@@ -279,11 +279,11 @@
   - [アンソニー・ペティス](https://ja.wikipedia.org/wiki/アンソニー・ペティス "wikilink")（）
   - [アンディ・ウォン](https://ja.wikipedia.org/wiki/アンディ・ウォン "wikilink")（）
   - [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink")（）
-  - [宇野薫](https://ja.wikipedia.org/wiki/宇野薫 "wikilink")（）
+  - [宇野薫](../Page/宇野薫.md "wikilink")（）
   - [エヴァン・ダナム](https://ja.wikipedia.org/wiki/エヴァン・ダナム "wikilink")（）
   - [エジソン・バルボーザ](https://ja.wikipedia.org/wiki/エジソン・バルボーザ "wikilink")（）
   - [エフレイン・エスクデロ](https://ja.wikipedia.org/wiki/エフレイン・エスクデロ "wikilink")（）
-  - [エルメス・フランカ](https://ja.wikipedia.org/wiki/エルメス・フランカ "wikilink")（）
+  - [エルメス・フランカ](../Page/エルメス・フランカ.md "wikilink")（）
   - [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink")（）
   - [菊野克紀](https://ja.wikipedia.org/wiki/菊野克紀 "wikilink")（）
   - [クレイ・グイダ](../Page/クレイ・グイダ.md "wikilink")（）
@@ -292,30 +292,30 @@
   - [グレゴール・ガレスピー](https://ja.wikipedia.org/wiki/グレゴール・ガレスピー "wikilink")（）
   - [ケニー・フロリアン](../Page/ケニー・フロリアン.md "wikilink")（）
   - [ケビン・リー](https://ja.wikipedia.org/wiki/ケビン・リー "wikilink")（）
-  - [小谷直之](https://ja.wikipedia.org/wiki/小谷直之 "wikilink")（）
+  - [小谷直之](../Page/小谷直之.md "wikilink")（）
   - [コナー・マクレガー](https://ja.wikipedia.org/wiki/コナー・マクレガー "wikilink")（）
-  - [五味隆典](https://ja.wikipedia.org/wiki/五味隆典 "wikilink")（）
+  - [五味隆典](../Page/五味隆典.md "wikilink")（）
   - [サム・スタウト](https://ja.wikipedia.org/wiki/サム・スタウト "wikilink")（）
   - [ジャスティン・ゲイジー](https://ja.wikipedia.org/wiki/ジャスティン・ゲイジー "wikilink")（）
   - [ジェイソン・ブラック](../Page/ジェイソン・ブラック.md "wikilink")（）
   - [ジェイソン・ラインハート](https://ja.wikipedia.org/wiki/ジェイソン・ラインハート "wikilink")（）
   - [ジェイミー・ヴァーナー](https://ja.wikipedia.org/wiki/ジェイミー・ヴァーナー "wikilink")（）
   - [ジェームス・ヴィック](https://ja.wikipedia.org/wiki/ジェームス・ヴィック "wikilink")（）
-  - [ジェンス・パルヴァー](https://ja.wikipedia.org/wiki/ジェンス・パルヴァー "wikilink")（）
+  - [ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")（）
   - [ジム・ミラー](https://ja.wikipedia.org/wiki/ジム・ミラー_\(総合格闘家\) "wikilink")（）
   - [ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")（）
-  - [ジョー・ローゾン](https://ja.wikipedia.org/wiki/ジョー・ローゾン "wikilink")（）
+  - [ジョー・ローゾン](../Page/ジョー・ローゾン.md "wikilink")（）
   - [ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink")（）
   - [ジョシュ・トムソン](../Page/ジョシュ・トムソン.md "wikilink")（）
   - [ジェレミー・スティーブンス](https://ja.wikipedia.org/wiki/ジェレミー・スティーブンス "wikilink")（）
   - [ジョルジ・グージェウ](../Page/ジョルジ・グージェウ.md "wikilink")（）
-  - [須藤元気](https://ja.wikipedia.org/wiki/須藤元気 "wikilink")（）
-  - [スペンサー・フィッシャー](https://ja.wikipedia.org/wiki/スペンサー・フィッシャー "wikilink")（）
-  - [タイソン・グリフィン](https://ja.wikipedia.org/wiki/タイソン・グリフィン "wikilink")（）
+  - [須藤元気](../Page/須藤元気.md "wikilink")（）
+  - [スペンサー・フィッシャー](../Page/スペンサー・フィッシャー.md "wikilink")（）
+  - [タイソン・グリフィン](../Page/タイソン・グリフィン.md "wikilink")（）
   - [ダスティン・ポイエー](https://ja.wikipedia.org/wiki/ダスティン・ポイエー "wikilink")（）
-  - [チアゴ・タバレス](https://ja.wikipedia.org/wiki/チアゴ・タバレス "wikilink")（）
+  - [チアゴ・タバレス](../Page/チアゴ・タバレス.md "wikilink")（）
   - [ディエゴ・サライバ](https://ja.wikipedia.org/wiki/ディエゴ・サライバ "wikilink")（）
-  - [ディン・トーマス](https://ja.wikipedia.org/wiki/ディン・トーマス "wikilink")（）
+  - [ディン・トーマス](../Page/ディン・トーマス.md "wikilink")（）
   - [デニス・シヴァー](https://ja.wikipedia.org/wiki/デニス・シヴァー "wikilink")（）
   - [テリー・エティム](https://ja.wikipedia.org/wiki/テリー・エティム "wikilink")（）
   - [徳留一樹](https://ja.wikipedia.org/wiki/徳留一樹 "wikilink")（）
@@ -325,20 +325,20 @@
   - [ノーマン・パーク](https://ja.wikipedia.org/wiki/ノーマン・パーク "wikilink")（）
   - [ハビブ・ヌルマゴメドフ](https://ja.wikipedia.org/wiki/ハビブ・ヌルマゴメドフ "wikilink")（）
   - [ハファエウ・ドス・アンジョス](https://ja.wikipedia.org/wiki/ハファエウ・ドス・アンジョス "wikilink")（）
-  - [BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink")（）
+  - [BJ・ペン](../Page/BJ・ペン.md "wikilink")（）
   - [フィリップ・ノヴァー](https://ja.wikipedia.org/wiki/フィリップ・ノヴァー "wikilink")（）
   - [フランク・エドガー](https://ja.wikipedia.org/wiki/フランク・エドガー "wikilink")（）
   - [ベン・ヘンダーソン](https://ja.wikipedia.org/wiki/ベン・ヘンダーソン "wikilink")（）
   - [ポール・ケリー](https://ja.wikipedia.org/wiki/ポール・ケリー_\(格闘家\) "wikilink")（）
   - [ポール・フェルダー](https://ja.wikipedia.org/wiki/ポール・フェルダー "wikilink")（）
-  - [マーカス・アウレリオ](https://ja.wikipedia.org/wiki/マーカス・アウレリオ "wikilink")（）
-  - [マーク・ホーミニック](https://ja.wikipedia.org/wiki/マーク・ホーミニック "wikilink")（）
+  - [マーカス・アウレリオ](../Page/マーカス・アウレリオ.md "wikilink")（）
+  - [マーク・ホーミニック](../Page/マーク・ホーミニック.md "wikilink")（）
   - [マイク・トーマス・ブラウン](https://ja.wikipedia.org/wiki/マイク・トーマス・ブラウン "wikilink")（）
   - [マイケル・ジョンソン](https://ja.wikipedia.org/wiki/マイケル・ジョンソン_\(格闘家\) "wikilink")()
   - [マット・グライス](https://ja.wikipedia.org/wiki/マット・グライス "wikilink")（）
   - [マット・ワイマン](https://ja.wikipedia.org/wiki/マット・ワイマン "wikilink")（）
   - [メルヴィン・ギラード](https://ja.wikipedia.org/wiki/メルヴィン・ギラード "wikilink")（）
-  - [リッチ・クレメンティ](https://ja.wikipedia.org/wiki/リッチ・クレメンティ "wikilink")（）
+  - [リッチ・クレメンティ](../Page/リッチ・クレメンティ.md "wikilink")（）
   - [ロジャー・ウエルタ](https://ja.wikipedia.org/wiki/ロジャー・ウエルタ "wikilink")（）
 
 ## フェザー級(135lbs-145lbs: 61.2kg-65.7kg)
@@ -346,9 +346,9 @@
   - [アレクサンダー・ヴォルカノフスキー](https://ja.wikipedia.org/wiki/アレクサンダー・ヴォルカノフスキー "wikilink")（）
   - [石原夜叉坊](https://ja.wikipedia.org/wiki/石原夜叉坊 "wikilink")（）
   - [エリック・コク](https://ja.wikipedia.org/wiki/エリック・コク "wikilink")（）
-  - [小見川道大](https://ja.wikipedia.org/wiki/小見川道大 "wikilink")（）
+  - [小見川道大](../Page/小見川道大.md "wikilink")（）
   - [カブ・スワンソン](https://ja.wikipedia.org/wiki/カブ・スワンソン "wikilink")（）
-  - [川尻達也](https://ja.wikipedia.org/wiki/川尻達也 "wikilink")（）
+  - [川尻達也](../Page/川尻達也.md "wikilink")（）
   - [ザビット・マゴメドシャリポフ](https://ja.wikipedia.org/wiki/ザビット・マゴメドシャリポフ "wikilink")（）
   - [ジェイソン・ラインハート](https://ja.wikipedia.org/wiki/ジェイソン・ラインハート "wikilink")（）
   - [ジェイソン・ヤング](https://ja.wikipedia.org/wiki/ジェイソン・ヤング_\(格闘家\) "wikilink")（）
@@ -362,7 +362,7 @@
   - [ダスティン・ポイエー](https://ja.wikipedia.org/wiki/ダスティン・ポイエー "wikilink")（）
   - [田村一聖](https://ja.wikipedia.org/wiki/田村一聖 "wikilink")（）
   - [ダレン・エルキンス](https://ja.wikipedia.org/wiki/ダレン・エルキンス "wikilink")（）
-  - [チアゴ・タバレス](https://ja.wikipedia.org/wiki/チアゴ・タバレス "wikilink")（）
+  - [チアゴ・タバレス](../Page/チアゴ・タバレス.md "wikilink")（）
   - [チャド・メンデス](https://ja.wikipedia.org/wiki/チャド・メンデス "wikilink")（）
   - [チャールズ・オリヴェイラ](https://ja.wikipedia.org/wiki/チャールズ・オリヴェイラ "wikilink")（）
   - [チェ・ドゥホ](https://ja.wikipedia.org/wiki/チェ・ドゥホ "wikilink")（）
@@ -373,7 +373,7 @@
   - [ノード・ラハト](https://ja.wikipedia.org/wiki/ノード・ラハト "wikilink")（）
   - [ハクラン・ディアス](https://ja.wikipedia.org/wiki/ハクラン・ディアス "wikilink")（）
   - [バート・パラゼウスキー](https://ja.wikipedia.org/wiki/バート・パラゼウスキー "wikilink")（）
-  - [ハニ・ヤヒーラ](https://ja.wikipedia.org/wiki/ハニ・ヤヒーラ "wikilink")（）
+  - [ハニ・ヤヒーラ](../Page/ハニ・ヤヒーラ.md "wikilink")（）
   - [ハビエル・バスケス](https://ja.wikipedia.org/wiki/ハビエル・バスケス "wikilink")（）
   - [パブロ・ガーザ](https://ja.wikipedia.org/wiki/パブロ・ガーザ "wikilink")（）
   - [日沖発](../Page/日沖発.md "wikilink")（）
@@ -383,7 +383,7 @@
   - [ヘナート・モイカノ](https://ja.wikipedia.org/wiki/ヘナート・モイカノ "wikilink")（）
   - [マイク・ブラウン](https://ja.wikipedia.org/wiki/マイク・トーマス・ブラウン "wikilink")（）
   - [マックス・ホロウェイ](https://ja.wikipedia.org/wiki/マックス・ホロウェイ "wikilink")（）
-  - [マーク・ホーミニック](https://ja.wikipedia.org/wiki/マーク・ホーミニック "wikilink")（）
+  - [マーク・ホーミニック](../Page/マーク・ホーミニック.md "wikilink")（）
   - [マンヴェル・ガンブリャン](https://ja.wikipedia.org/wiki/マンヴェル・ガンブリャン "wikilink")（）
   - [ミアサド・ベクティック](https://ja.wikipedia.org/wiki/ミアサド・ベクティック "wikilink")（）
   - [ヤイール・ロドリゲス](https://ja.wikipedia.org/wiki/ヤイール・ロドリゲス "wikilink")（）
@@ -394,7 +394,7 @@
 
 ## バンタム級(125lbs-135lbs: 56.7kg-61.2kg)
 
-  - [アイヴァン・メンジバー](https://ja.wikipedia.org/wiki/アイヴァン・メンジバー "wikilink")（）
+  - [アイヴァン・メンジバー](../Page/アイヴァン・メンジバー.md "wikilink")（）
   - [アレックス・ソト](https://ja.wikipedia.org/wiki/アレックス・ソト "wikilink")（）
   - [アルジャメイン・スターリング](https://ja.wikipedia.org/wiki/アルジャメイン・スターリング "wikilink")（）
   - [アントニオ・バヌエロス](https://ja.wikipedia.org/wiki/アントニオ・バヌエロス "wikilink")（）
@@ -417,7 +417,7 @@
   - [手塚基伸](https://ja.wikipedia.org/wiki/手塚基伸 "wikilink")（）
   - [デメトリアス・ジョンソン](https://ja.wikipedia.org/wiki/デメトリアス・ジョンソン "wikilink")（）
   - [ドミニク・クルーズ](https://ja.wikipedia.org/wiki/ドミニク・クルーズ "wikilink")（）
-  - [ハファエル・アスンソン](https://ja.wikipedia.org/wiki/ハファエル・アスンソン "wikilink")（）
+  - [ハファエル・アスンソン](../Page/ハファエル・アスンソン.md "wikilink")（）
   - [ブライアン・ボウルズ](https://ja.wikipedia.org/wiki/ブライアン・ボウルズ "wikilink")（）
   - [ブラッド・ピケット](../Page/ブラッド・ピケット.md "wikilink")（）
   - [ペドロ・ムニョス](https://ja.wikipedia.org/wiki/ペドロ・ムニョス "wikilink")（）
@@ -427,7 +427,7 @@
   - [マルロン・モラエス](https://ja.wikipedia.org/wiki/マルロン・モラエス "wikilink")（）
   - [ミゲール・トーレス](https://ja.wikipedia.org/wiki/ミゲール・トーレス "wikilink")（）
   - [水垣偉弥](https://ja.wikipedia.org/wiki/水垣偉弥 "wikilink")（）
-  - [山本"KID"徳郁](https://ja.wikipedia.org/wiki/山本徳郁 "wikilink")（）
+  - [山本"KID"徳郁](../Page/山本徳郁.md "wikilink")（）
   - [ユライア・フェイバー](../Page/ユライア・フェイバー.md "wikilink")（）
   - [ローランド・デローム](https://ja.wikipedia.org/wiki/ローランド・デローム "wikilink")（）
   - [ワレル・ワトソン](https://ja.wikipedia.org/wiki/ワレル・ワトソン "wikilink")（）
@@ -457,7 +457,7 @@
 
 ## 関連項目
 
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
 
 [Category:格闘家一覧](https://ja.wikipedia.org/wiki/Category:格闘家一覧 "wikilink") [Category:UFCに参戦した選手](https://ja.wikipedia.org/wiki/Category:UFCに参戦した選手 "wikilink") [Category:総合格闘家](https://ja.wikipedia.org/wiki/Category:総合格闘家 "wikilink")

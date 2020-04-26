@@ -1,4 +1,4 @@
-> この記事は[A.T.](https://ja.wikipedia.org/wiki/A.T.)から翻訳されています。
+> この記事は[A.T.カーニー](https://ja.wikipedia.org/wiki/A.T.カーニー)から翻訳されています。
 
 
 **A. T. カーニー**（A.T. Kearney）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[シカゴ](../Page/シカゴ.md "wikilink")を本拠とする、世界的な[経営コンサルティング会社である](../Page/経営コンサルタント.md "wikilink")。 設立は[1926年](../Page/1926年.md "wikilink")で、社名は創業者のアンドリュー・トーマス・カーニーに由来する。現在、世界40カ国に61のオフィスを構えている。 2020年1月より、グローバル・ブランド名をKEARNEYへと刷新。

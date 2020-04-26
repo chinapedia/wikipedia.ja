@@ -1,4 +1,4 @@
-> この記事は[OBP](https://ja.wikipedia.org/wiki/OBP)から翻訳されています。
+> この記事は[OBPキャッスルタワー](https://ja.wikipedia.org/wiki/OBPキャッスルタワー)から翻訳されています。
 
 
 **OBPキャッスルタワー**は、[大阪ビジネスパーク](../Page/大阪ビジネスパーク.md "wikilink")の一角にある超高層インテリジェントビル。
@@ -47,6 +47,6 @@
 
 ## 交通アクセス
 
-  - [大阪市高速電気軌道長堀鶴見緑地線](../Page/大阪市高速電気軌道長堀鶴見緑地線.md "wikilink") [大阪ビジネスパーク駅](https://ja.wikipedia.org/wiki/大阪ビジネスパーク駅 "wikilink") 徒歩5分
+  - [Osaka Metro長堀鶴見緑地線](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink") [大阪ビジネスパーク駅](https://ja.wikipedia.org/wiki/大阪ビジネスパーク駅 "wikilink") 徒歩5分
 
 [Category:大阪府の超高層ビル](https://ja.wikipedia.org/wiki/Category:大阪府の超高層ビル "wikilink") [Category:日本電気](https://ja.wikipedia.org/wiki/Category:日本電気 "wikilink") [Category:住友生命保険](https://ja.wikipedia.org/wiki/Category:住友生命保険 "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:1988年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1988年竣工の日本の建築物 "wikilink") [Category:ガラス建築](https://ja.wikipedia.org/wiki/Category:ガラス建築 "wikilink") [Category:高さ150m以上200m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ150m以上200m未満の超高層ビル "wikilink") [Category:大阪ビジネスパーク](https://ja.wikipedia.org/wiki/Category:大阪ビジネスパーク "wikilink")

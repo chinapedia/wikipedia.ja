@@ -1,7 +1,7 @@
-> この記事は[Xbox 360 ](https://ja.wikipedia.org/wiki/Xbox_360_)から翻訳されています。
+> この記事は[Xbox 360 プラチナコレクション](https://ja.wikipedia.org/wiki/Xbox_360_プラチナコレクション)から翻訳されています。
 
 
-**Xbox 360 プラチナコレクション**（エックスボックス サンロクマル プラチナコレクション）とは、日本において既に発売されている[Xbox 360専用ゲームタイトルのうち](../Page/Xbox_360.md "wikilink")、人気があったものを[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")として提供する製品またはそのシリーズ名である。
+**Xbox 360 プラチナコレクション**（エックスボックス サンロクマル プラチナコレクション）とは、日本において既に発売されている[Xbox 360専用ゲームタイトルのうち](../Page/Xbox_360.md "wikilink")、人気があったものを[廉価版](../Page/廉価版.md "wikilink")として提供する製品またはそのシリーズ名である。
 
 欧米では**Platinum Hits**（プラチナヒッツ）という名称で同様のシリーズを出している。
 
@@ -16,14 +16,14 @@
 <td><p>date = 2006-09-08</p></td>
 <td><p>url =<a href="http://plusd.itmedia.co.jp/games/articles/0609/08/news079.html">http://plusd.itmedia.co.jp/games/articles/0609/08/news079.html</a></p></td>
 <td><p>title =低価格シリーズ「Xbox 360 プラチナコレクション」がついに登場――11月より発売開始</p></td>
-<td><p>publisher = <a href="https://ja.wikipedia.org/wiki/ITmedia" title="wikilink">ITmedia</a></p></td>
+<td><p>publisher = <a href="../Page/ITmedia.md" title="wikilink">ITmedia</a></p></td>
 <td><p>accessdate = 2007年9月21日 }}</ref></p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ニード・フォー・スピード_モスト・ウォンテッド" title="wikilink">ニード・フォー・スピード モスト・ウォンテッド</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ランブルローズ" title="wikilink">ランブルローズ ダブルエックス</a></li>
+<li><a href="../Page/ニード・フォー・スピード_モスト・ウォンテッド.md" title="wikilink">ニード・フォー・スピード モスト・ウォンテッド</a></li>
+<li><a href="../Page/ランブルローズ.md" title="wikilink">ランブルローズ ダブルエックス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エブリパーティ" title="wikilink">エブリパーティ</a></li>
 <li><a href="../Page/PGR3_-_プロジェクトゴッサムレーシング3_-.md" title="wikilink">PGR3 - プロジェクトゴッサムレーシング3 -</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/NINETY-NINE_NIGHTS" title="wikilink">NINETY-NINE NIGHTS</a></li>
+<li><a href="../Page/NINETY-NINE_NIGHTS.md" title="wikilink">NINETY-NINE NIGHTS</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -33,10 +33,10 @@
 
 2007年3月15日発売\[1\]
 
-  - [クロムハウンズ](https://ja.wikipedia.org/wiki/クロムハウンズ "wikilink")
-  - [バーンアウト リベンジ](https://ja.wikipedia.org/wiki/バーンアウト_\(ゲーム\) "wikilink")
-  - [バトルフィールド2 モダンコンバット](https://ja.wikipedia.org/wiki/バトルフィールド2_モダンコンバット "wikilink")
-  - [パーフェクトダーク ゼロ](https://ja.wikipedia.org/wiki/パーフェクトダーク_ゼロ "wikilink")
+  - [クロムハウンズ](../Page/クロムハウンズ.md "wikilink")
+  - [バーンアウト リベンジ](../Page/バーンアウト_\(ゲーム\).md "wikilink")
+  - [バトルフィールド2 モダンコンバット](../Page/バトルフィールド2_モダンコンバット.md "wikilink")
+  - [パーフェクトダーク ゼロ](../Page/パーフェクトダーク_ゼロ.md "wikilink")
 
 ### 第3弾
 
@@ -44,21 +44,21 @@
 
   - [ファイト ナイト ラウンド 3](https://ja.wikipedia.org/wiki/ファイト_ナイト_ラウンド_3 "wikilink")
   - [バレットウィッチ](https://ja.wikipedia.org/wiki/バレットウィッチ "wikilink")
-  - [デッドライジング](https://ja.wikipedia.org/wiki/デッドライジング "wikilink")
+  - [デッドライジング](../Page/デッドライジング.md "wikilink")
   - [天誅 千乱](https://ja.wikipedia.org/wiki/天誅_千乱 "wikilink")
-  - [ゴーストリコン アドバンスウォーファイター](https://ja.wikipedia.org/wiki/ゴーストリコン_アドバンスウォーファイター "wikilink")
+  - [ゴーストリコン アドバンスウォーファイター](../Page/ゴーストリコン_アドバンスウォーファイター.md "wikilink")
 
 ### 第4弾
 
 2007年11月1日\[3\]
 
-  - [ロスト プラネット エクストリーム コンディション](https://ja.wikipedia.org/wiki/ロスト_プラネット_エクストリーム_コンディション "wikilink")
+  - [ロスト プラネット エクストリーム コンディション](../Page/ロスト_プラネット_エクストリーム_コンディション.md "wikilink")
   - [プロジェクト シルフィード](https://ja.wikipedia.org/wiki/プロジェクト_シルフィード "wikilink")
   - [地球防衛軍3](../Page/地球防衛軍3.md "wikilink")
   - [お姉チャンバラ vortex ～忌血を継ぐ者たち～](https://ja.wikipedia.org/wiki/お姉チャンバラ_vortex_～忌血を継ぐ者たち～ "wikilink")
   - [DEAD OR ALIVE 4](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_4 "wikilink")
   - [DEAD OR ALIVE Xtreme 2](../Page/デッド_オア_アライブ_シリーズ.md "wikilink")
-  - [ブルードラゴン](https://ja.wikipedia.org/wiki/ブルードラゴン "wikilink")
+  - [ブルードラゴン](../Page/ブルードラゴン.md "wikilink")
   - [Gears of War](../Page/Gears_of_War.md "wikilink")（『デッドライジング』とのセットもあり。）
   - [THE IDOLM@STER](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")（これのみ10月になってからの発表\[4\]）
 
@@ -84,7 +84,7 @@
 2008年7月10日発売\[7\]。
 
   - [Forza Motorsport 2](../Page/Forza_Motorsport_2.md "wikilink")
-  - [テストドライブ アンリミテッド](https://ja.wikipedia.org/wiki/テストドライブ_アンリミテッド "wikilink")
+  - [テストドライブ アンリミテッド](../Page/テストドライブ_アンリミテッド.md "wikilink")
   - [あつまれ\!ピニャータ](../Page/あつまれ!ピニャータ.md "wikilink")
   - [The Elder Scrolls IV: Oblivion](https://ja.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion "wikilink")(これのみ5月22日発表\[8\])
 
@@ -93,9 +93,9 @@
 『ガンダム無双 インターナショナル』は2008年10月23日、他は2008年11月6日発売\[9\]。
 
   - [ガンダム無双 インターナショナル](https://ja.wikipedia.org/wiki/ガンダム無双 "wikilink")
-  - [エースコンバット6 解放への戦火](https://ja.wikipedia.org/wiki/エースコンバット6_解放への戦火 "wikilink")
+  - [エースコンバット6 解放への戦火](../Page/エースコンバット6_解放への戦火.md "wikilink")
   - [ビューティフル塊魂](../Page/ビューティフル塊魂.md "wikilink")
-  - [ロストオデッセイ](https://ja.wikipedia.org/wiki/ロストオデッセイ "wikilink")
+  - [ロストオデッセイ](../Page/ロストオデッセイ.md "wikilink")
   - [PGR 4 プロジェクト ゴッサム レーシング 4](https://ja.wikipedia.org/wiki/PGR_4_プロジェクト_ゴッサム_レーシング_4 "wikilink")
   - [アサシン クリード](../Page/アサシン_クリード.md "wikilink")
 
@@ -123,7 +123,7 @@
 
   - [真・三國無双5](https://ja.wikipedia.org/wiki/真・三國無双5 "wikilink")
   - [BIOSHOCK](https://ja.wikipedia.org/wiki/BIOSHOCK "wikilink")
-  - [インフィニット アンディスカバリー](https://ja.wikipedia.org/wiki/インフィニット_アンディスカバリー "wikilink")
+  - [インフィニット アンディスカバリー](../Page/インフィニット_アンディスカバリー.md "wikilink")
   - [デビルメイクライ4](https://ja.wikipedia.org/wiki/デビルメイクライ4 "wikilink")（7月23日発売）
   - [ソウルキャリバーIV](../Page/ソウルキャリバーIV.md "wikilink")（8月6日発売）
   - [Grand Theft Auto IV](../Page/グランド・セフト・オートIV.md "wikilink")（8月27日発売）
@@ -132,23 +132,23 @@
 
   - [ラストレムナント](https://ja.wikipedia.org/wiki/ラストレムナント "wikilink")（2009年9月10日発売）
   - [Fable II](https://ja.wikipedia.org/wiki/Fable_II "wikilink")（2009年9月17日発売）
-  - [Left 4 Dead](https://ja.wikipedia.org/wiki/Left_4_Dead "wikilink")（2009年9月17日発売）
+  - [Left 4 Dead](../Page/Left_4_Dead.md "wikilink")（2009年9月17日発売）
 
 ### 第13弾
 
   - [Fallout 3](https://ja.wikipedia.org/wiki/Fallout_3 "wikilink")（2009年11月5日発売）
   - [バンジョーとカズーイの大冒険 ガレージ大作戦](https://ja.wikipedia.org/wiki/バンジョーとカズーイの大冒険_ガレージ大作戦 "wikilink")（2009年12月17日発売）
   - [あつまれ！ピニャータ 2 ガーデンの大ぴんち](https://ja.wikipedia.org/wiki/あつまれ！ピニャータ_2_ガーデンの大ぴんち "wikilink")（2009年12月17日発売）
-  - [NINJA GAIDEN 2](https://ja.wikipedia.org/wiki/NINJA_GAIDEN_2 "wikilink")（2009年12月23日発売）
+  - [NINJA GAIDEN 2](../Page/NINJA_GAIDEN_2.md "wikilink")（2009年12月23日発売）
 
 ### 第14弾
 
-  - [バイオハザード5](https://ja.wikipedia.org/wiki/バイオハザード5 "wikilink")（2010年2月18日発売）
+  - [バイオハザード5](../Page/バイオハザード5.md "wikilink")（2010年2月18日発売）
   - [ロストプラネット コロニーズ](https://ja.wikipedia.org/wiki/ロストプラネット_コロニーズ "wikilink")（2010年3月11日発売）
   - [オトメディウスG(ゴージャス\!)](https://ja.wikipedia.org/wiki/オトメディウス#オトメディウスG\(ゴージャス!\) "wikilink")（2010年3月11日発売）
-  - [Halo Wars](https://ja.wikipedia.org/wiki/Halo_Wars "wikilink")（2010年3月11日発売）
+  - [Halo Wars](../Page/Halo_Wars.md "wikilink")（2010年3月11日発売）
   - [ドリームクラブ](https://ja.wikipedia.org/wiki/ドリームクラブ "wikilink")（2010年3月11日発売）
-  - [BLAZBLUE](https://ja.wikipedia.org/wiki/BLAZBLUE "wikilink")（2010年3月11日発売）
+  - [BLAZBLUE](../Page/BLAZBLUE.md "wikilink")（2010年3月11日発売）
   - デッドライジング（再廉価及び再価格改定、2010年3月11日発売）
 
 ### 第15弾
@@ -158,8 +158,8 @@
   - [H.A.W.X](https://ja.wikipedia.org/wiki/トムクランシーズ_H.A.W.X. "wikilink")（2010年4月8日発売）
   - [Mass Effect](https://ja.wikipedia.org/wiki/Mass_Effect "wikilink")（2010年4月8日発売）
   - [NINJA BLADE (ニンジャブレイド)](https://ja.wikipedia.org/wiki/ニンジャブレイド "wikilink")（2010年4月8日発売）
-  - [デススマイルズ](https://ja.wikipedia.org/wiki/デススマイルズ "wikilink")（2010年4月8日発売）
-  - [プリンス・オブ・ペルシャ](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ "wikilink")（2010年4月8日発売）
+  - [デススマイルズ](../Page/デススマイルズ.md "wikilink")（2010年4月8日発売）
+  - [プリンス・オブ・ペルシャ](../Page/プリンス・オブ・ペルシャ.md "wikilink")（2010年4月8日発売）
 
 ### 第16弾
 
@@ -197,7 +197,7 @@
 
 ### 第20弾
 
-  - [鉄拳6](https://ja.wikipedia.org/wiki/鉄拳6 "wikilink")（2011年6月2日発売）
+  - [鉄拳6](../Page/鉄拳6.md "wikilink")（2011年6月2日発売）
   - [スプリンターセルコンビクション](https://ja.wikipedia.org/wiki/スプリンターセルコンビクション "wikilink")（2011年6月9日発売）
   - [ライオットアクト 2](https://ja.wikipedia.org/wiki/ライオットアクト_2 "wikilink")（2011年6月9日発売）
   - Gears of War ツインパック（2011年6月9日発売）
@@ -292,21 +292,21 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ニード・フォー・スピード_モスト・ウォンテッド" title="wikilink">ニード・フォー・スピード モスト・ウォンテッド</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ランブルローズ" title="wikilink">ランブルローズ ダブルエックス</a></li>
+<li><a href="../Page/ニード・フォー・スピード_モスト・ウォンテッド.md" title="wikilink">ニード・フォー・スピード モスト・ウォンテッド</a></li>
+<li><a href="../Page/ランブルローズ.md" title="wikilink">ランブルローズ ダブルエックス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エブリパーティ" title="wikilink">エブリパーティ</a></li>
 <li><a href="../Page/PGR3_-_プロジェクトゴッサムレーシング3_-.md" title="wikilink">PGR3 - プロジェクトゴッサムレーシング3 -</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/NINETY-NINE_NIGHTS" title="wikilink">NINETY-NINE NIGHTS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/クロムハウンズ" title="wikilink">クロムハウンズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/バーンアウト_(ゲーム)" title="wikilink">バーンアウト リベンジ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/バトルフィールド2_モダンコンバット" title="wikilink">バトルフィールド2 モダンコンバット</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/パーフェクトダーク_ゼロ" title="wikilink">パーフェクトダーク ゼロ</a></li>
+<li><a href="../Page/NINETY-NINE_NIGHTS.md" title="wikilink">NINETY-NINE NIGHTS</a></li>
+<li><a href="../Page/クロムハウンズ.md" title="wikilink">クロムハウンズ</a></li>
+<li><a href="../Page/バーンアウト_(ゲーム).md" title="wikilink">バーンアウト リベンジ</a></li>
+<li><a href="../Page/バトルフィールド2_モダンコンバット.md" title="wikilink">バトルフィールド2 モダンコンバット</a></li>
+<li><a href="../Page/パーフェクトダーク_ゼロ.md" title="wikilink">パーフェクトダーク ゼロ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ファイト_ナイト_ラウンド_3" title="wikilink">ファイト ナイト ラウンド 3</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バレットウィッチ" title="wikilink">バレットウィッチ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/デッドライジング" title="wikilink">デッドライジング</a></li>
+<li><a href="../Page/デッドライジング.md" title="wikilink">デッドライジング</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/天誅_千乱" title="wikilink">天誅 千乱</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ゴーストリコン_アドバンスウォーファイター" title="wikilink">ゴーストリコン アドバンスウォーファイター</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ロスト_プラネット_エクストリーム_コンディション" title="wikilink">ロスト プラネット エクストリーム コンディション</a></li>
+<li><a href="../Page/ゴーストリコン_アドバンスウォーファイター.md" title="wikilink">ゴーストリコン アドバンスウォーファイター</a></li>
+<li><a href="../Page/ロスト_プラネット_エクストリーム_コンディション.md" title="wikilink">ロスト プラネット エクストリーム コンディション</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/プロジェクト_シルフィード" title="wikilink">プロジェクト シルフィード</a></li>
 <li><a href="../Page/地球防衛軍3.md" title="wikilink">地球防衛軍3</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/お姉チャンバラ_vortex_～忌血を継ぐ者たち～" title="wikilink">お姉チャンバラ vortex ～忌血を継ぐ者たち～</a></li>
@@ -314,7 +314,7 @@
 <li><a href="../Page/デッド_オア_アライブ_シリーズ.md" title="wikilink">DEAD OR ALIVE Xtreme 2</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ブルードラゴン" title="wikilink">ブルードラゴン</a></li>
+<li><a href="../Page/ブルードラゴン.md" title="wikilink">ブルードラゴン</a></li>
 <li><a href="../Page/Gears_of_War.md" title="wikilink">Gears of War</a></li>
 <li><a href="../Page/THE_IDOLM@STER_(Xbox_360).md" title="wikilink">THE IDOLM@STER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/スーパーロボット大戦GC#スーパーロボット大戦XO" title="wikilink">スーパーロボット大戦XO</a></li>
@@ -325,13 +325,13 @@
 <li><a href="https://ja.wikipedia.org/wiki/レインボーシックス_ベガス" title="wikilink">レインボーシックス ベガス</a></li>
 <li><a href="../Page/Saints_Row.md" title="wikilink">Saints Row</a></li>
 <li><a href="../Page/Forza_Motorsport_2.md" title="wikilink">Forza Motorsport 2</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/テストドライブ_アンリミテッド" title="wikilink">テストドライブ アンリミテッド</a></li>
+<li><a href="../Page/テストドライブ_アンリミテッド.md" title="wikilink">テストドライブ アンリミテッド</a></li>
 <li><a href="../Page/あつまれ!ピニャータ.md" title="wikilink">あつまれ!ピニャータ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion" title="wikilink">The Elder Scrolls IV: Oblivion</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ガンダム無双" title="wikilink">ガンダム無双 インターナショナル</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/エースコンバット6_解放への戦火" title="wikilink">エースコンバット6 解放への戦火</a></li>
+<li><a href="../Page/エースコンバット6_解放への戦火.md" title="wikilink">エースコンバット6 解放への戦火</a></li>
 <li><a href="../Page/ビューティフル塊魂.md" title="wikilink">ビューティフル塊魂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ロストオデッセイ" title="wikilink">ロストオデッセイ</a></li>
+<li><a href="../Page/ロストオデッセイ.md" title="wikilink">ロストオデッセイ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PGR_4_プロジェクト_ゴッサム_レーシング_4" title="wikilink">PGR 4 プロジェクト ゴッサム レーシング 4</a></li>
 <li><a href="../Page/アサシン_クリード.md" title="wikilink">アサシン クリード</a></li>
 </ul></td>
@@ -346,32 +346,32 @@
 <li><a href="https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU!" title="wikilink">アイドルマスター ライブフォーユー!</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/真・三國無双5" title="wikilink">真・三國無双5</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BIOSHOCK" title="wikilink">BIOSHOCK</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/インフィニット_アンディスカバリー" title="wikilink">インフィニット アンディスカバリー</a></li>
+<li><a href="../Page/インフィニット_アンディスカバリー.md" title="wikilink">インフィニット アンディスカバリー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/デビルメイクライ4" title="wikilink">デビルメイクライ4</a></li>
 <li><a href="../Page/ソウルキャリバーIV.md" title="wikilink">ソウルキャリバーIV</a></li>
 <li><a href="../Page/グランド・セフト・オートIV.md" title="wikilink">Grand Theft Auto IV</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ラストレムナント" title="wikilink">ラストレムナント</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Fable_II" title="wikilink">Fable II</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Left_4_Dead" title="wikilink">Left 4 Dead</a></li>
+<li><a href="../Page/Left_4_Dead.md" title="wikilink">Left 4 Dead</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Fallout_3" title="wikilink">Fallout 3</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バンジョーとカズーイの大冒険_ガレージ大作戦" title="wikilink">バンジョーとカズーイの大冒険 ガレージ大作戦</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/あつまれ！ピニャータ_2_ガーデンの大ぴんち" title="wikilink">あつまれ！ピニャータ 2 ガーデンの大ぴんち</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/NINJA_GAIDEN_2" title="wikilink">NINJA GAIDEN 2</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/バイオハザード5" title="wikilink">バイオハザード5</a></li>
+<li><a href="../Page/NINJA_GAIDEN_2.md" title="wikilink">NINJA GAIDEN 2</a></li>
+<li><a href="../Page/バイオハザード5.md" title="wikilink">バイオハザード5</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ロストプラネット_コロニーズ" title="wikilink">ロストプラネット コロニーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/オトメディウス#オトメディウスG(ゴージャス!)" title="wikilink">オトメディウスG(ゴージャス!)</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Halo_Wars" title="wikilink">Halo Wars</a></li>
+<li><a href="../Page/Halo_Wars.md" title="wikilink">Halo Wars</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ドリームクラブ" title="wikilink">ドリームクラブ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BLAZBLUE" title="wikilink">BLAZBLUE</a></li>
+<li><a href="../Page/BLAZBLUE.md" title="wikilink">BLAZBLUE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CHAOS;HEAD" title="wikilink">CHAOS;HEAD NOAH</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Far_Cry_2" title="wikilink">Far Cry 2</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/トムクランシーズ_H.A.W.X." title="wikilink">H.A.W.X</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Mass_Effect" title="wikilink">Mass Effect</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ニンジャブレイド" title="wikilink">NINJA BLADE (ニンジャブレイド)</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/デススマイルズ" title="wikilink">デススマイルズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ" title="wikilink">プリンス・オブ・ペルシャ</a></li>
+<li><a href="../Page/デススマイルズ.md" title="wikilink">デススマイルズ</a></li>
+<li><a href="../Page/プリンス・オブ・ペルシャ.md" title="wikilink">プリンス・オブ・ペルシャ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ヴェスペリア" title="wikilink">テイルズ オブ ヴェスペリア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Gears_of_War_2" title="wikilink">Gears of War 2</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Saints_Row_2" title="wikilink">Saints Row 2</a></li>
@@ -391,7 +391,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ロストプラネット2" title="wikilink">ロストプラネット2</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ニーア_ゲシュタルト/レプリカント" title="wikilink">ニーア ゲシュタルト</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/エスプガルーダ#エスプガルーダII" title="wikilink">エスプガルーダII ブラックレーベル</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/鉄拳6" title="wikilink">鉄拳6</a></li>
+<li><a href="../Page/鉄拳6.md" title="wikilink">鉄拳6</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/スプリンターセルコンビクション" title="wikilink">スプリンターセルコンビクション</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ライオットアクト_2" title="wikilink">ライオットアクト 2</a></li>
 <li>Gears of War ツインパック</li>

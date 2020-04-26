@@ -1,4 +1,4 @@
-> この記事は[SWEAT \& TEARS 2](https://ja.wikipedia.org/wiki/SWEAT_\&_TEARS_2)から翻訳されています。
+> この記事は[テニスの王子様SWEAT \& TEARS 2](https://ja.wikipedia.org/wiki/テニスの王子様SWEAT_\&_TEARS_2)から翻訳されています。
 
 
 **テニスの王子様SWEAT & TEARS 2**（テニスのおうじさま スウェット アンド ティアーズ ツー）は[2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売された[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[jing](https://ja.wikipedia.org/wiki/jing)から翻訳されています。
+> この記事は[かこわれて、愛jing](https://ja.wikipedia.org/wiki/かこわれて、愛jing)から翻訳されています。
 
 
 「**かこわれて、愛jing**」（かこわれて、あいじん）は、[1993年](../Page/1993年.md "wikilink")11月にリリースされた[松田聖子](../Page/松田聖子.md "wikilink")の通算36枚目の[シングル](../Page/シングル.md "wikilink")である。

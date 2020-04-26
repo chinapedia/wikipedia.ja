@@ -1,4 +1,4 @@
-> この記事は[Around the world \(m.o.v.e\)](https://ja.wikipedia.org/wiki/Around_the_world_\(m.o.v.e\))から翻訳されています。
+> この記事は[Around the world \(m.o.v.eの曲\)](https://ja.wikipedia.org/wiki/Around_the_world_\(m.o.v.eの曲\))から翻訳されています。
 
 
 「**around the world**」（アラウンド・ザ・ワールド）は、[moveの](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。

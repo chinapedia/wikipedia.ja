@@ -1,4 +1,4 @@
-> この記事は[SET](https://ja.wikipedia.org/wiki/SET)から翻訳されています。
+> この記事は[SET指数](https://ja.wikipedia.org/wiki/SET指数)から翻訳されています。
 
 
 |                                                                                        |
@@ -7,10 +7,10 @@
 | [SET_Index.png](https://ja.wikipedia.org/wiki/File:SET_Index.png "fig:SET_Index.png") |
 |                                       **計算を開始**                                        |
 |                                       **MICコード**                                       |
-|            **[BICコード](https://ja.wikipedia.org/wiki/ISO_9362 "wikilink")**             |
+|                      **[BICコード](../Page/ISO_9362.md "wikilink")**                      |
 |                                    **FIXプロトコルコード**                                     |
 
-**SET指数**（）は、[タイ証券取引所](https://ja.wikipedia.org/wiki/タイ証券取引所 "wikilink")上場の全銘柄を対象として、算出・公表されている[株価指数](../Page/株価指数.md "wikilink")。
+**SET指数**（）は、[タイ証券取引所](../Page/タイ証券取引所.md "wikilink")上場の全銘柄を対象として、算出・公表されている[株価指数](../Page/株価指数.md "wikilink")。
 
 同証券取引所上場株を対象とした株価指数として他に、SET50指数、SET100指数、mai指数があり、併せて記述する。
 
@@ -72,11 +72,11 @@
 
 ## SET50指数
 
-タイ証券取引所メインボードに上場する銘柄のうち[時価総額](https://ja.wikipedia.org/wiki/時価総額 "wikilink")が大きく[流動性の高い](https://ja.wikipedia.org/wiki/流動性_\(経済学\) "wikilink")50銘柄が対象の時価総額加重平均型株価指数。[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に制定され、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月16日](../Page/8月16日.md "wikilink")の指数を1,000として半年毎に対象銘柄を見直し算出を行っている\[2\]。
+タイ証券取引所メインボードに上場する銘柄のうち[時価総額](../Page/時価総額.md "wikilink")が大きく[流動性の高い](https://ja.wikipedia.org/wiki/流動性_\(経済学\) "wikilink")50銘柄が対象の時価総額加重平均型株価指数。[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に制定され、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月16日](../Page/8月16日.md "wikilink")の指数を1,000として半年毎に対象銘柄を見直し算出を行っている\[2\]。
 
 ## SET100指数
 
-タイ証券取引所メインボードに上場する銘柄のうち時価総額が大きく流動性の高い100銘柄が対象の時価総額加重平均型株価指数。もともと、SET50指数があったが上場銘柄が増えてきたため採用銘柄を100に増やした新たな指数を制定した。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")の指数を1,000として半年毎に対象銘柄を見直し算出を行っている\[3\]。
+タイ証券取引所メインボードに上場する銘柄のうち時価総額が大きく流動性の高い100銘柄が対象の時価総額加重平均型株価指数。もともと、SET50指数があったが上場銘柄が増えてきたため採用銘柄を100に増やした新たな指数を制定した。[2005年](../Page/2005年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")の指数を1,000として半年毎に対象銘柄を見直し算出を行っている\[3\]。
 
 ## mai指数
 

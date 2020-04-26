@@ -1,4 +1,4 @@
-> この記事は[GENTE](https://ja.wikipedia.org/wiki/GENTE)から翻訳されています。
+> この記事は[GENTE〜リストランテの人々〜](https://ja.wikipedia.org/wiki/GENTE〜リストランテの人々〜)から翻訳されています。
 
 
 『**GENTE〜リストランテの人々〜**』（ジェンテ リストランテのひとびと）は、[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[マンガ・エロティクス・エフ](../Page/マンガ・エロティクス・エフ.md "wikilink")』（[太田出版](../Page/太田出版.md "wikilink")）において2006年9月vol.41より2009年vol.55まで連載された。[ローマ](../Page/ローマ.md "wikilink")の[リストランテ](../Page/レストラン.md "wikilink")、「カゼッタ・デッロルソ（*casetta dell'orso*）」が出来る前からの物語で、『[リストランテ・パラディーゾ](../Page/リストランテ・パラディーゾ.md "wikilink")』は時系列で言うと、単行本『GENTE』の2巻と3巻の間（10話と11話の間）に当たる。

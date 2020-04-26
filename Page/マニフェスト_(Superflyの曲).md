@@ -1,4 +1,4 @@
-> この記事は[ \(Superfly\)](https://ja.wikipedia.org/wiki/_\(Superfly\))から翻訳されています。
+> この記事は[マニフェスト \(Superflyの曲\)](https://ja.wikipedia.org/wiki/マニフェスト_\(Superflyの曲\))から翻訳されています。
 
 
 「**マニフェスト**」は、[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -22,9 +22,9 @@
       - 『[Superfly 10th Anniversary Greatest Hits “LOVE, PEACE & FIRE”](https://ja.wikipedia.org/wiki/Superfly_10th_Anniversary_Greatest_Hits_“LOVE,_PEACE_&_FIRE” "wikilink")』では、ファン投票9位を獲得し隠れた名曲としてファンの間では人気のある楽曲。
 3.  **(Please Not) One More Time**
       -
-        作詞・作曲：[Al Kooper](https://ja.wikipedia.org/wiki/アル・クーパー "wikilink")
+        作詞・作曲：[Al Kooper](../Page/アル・クーパー.md "wikilink")
     <!-- end list -->
-      - シングルカップリング収録曲のカバーシリーズ第2弾となったのは、[バーズ](https://ja.wikipedia.org/wiki/バーズ "wikilink")の中心人物であった[ロジャー・マッギン](../Page/ロジャー・マッギン.md "wikilink")の楽曲。作曲者である[アル・クーパー](https://ja.wikipedia.org/wiki/アル・クーパー "wikilink")も、後に自身のアルバムでセルフカバーしている。
+      - シングルカップリング収録曲のカバーシリーズ第2弾となったのは、[バーズ](https://ja.wikipedia.org/wiki/バーズ "wikilink")の中心人物であった[ロジャー・マッギン](../Page/ロジャー・マッギン.md "wikilink")の楽曲。作曲者である[アル・クーパー](../Page/アル・クーパー.md "wikilink")も、後に自身のアルバムでセルフカバーしている。
 
 <!-- end list -->
 

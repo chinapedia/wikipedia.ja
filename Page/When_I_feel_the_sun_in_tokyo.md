@@ -1,7 +1,7 @@
 > この記事は[When I feel the sun in tokyo](https://ja.wikipedia.org/wiki/When_I_feel_the_sun_in_tokyo)から翻訳されています。
 
 
-**When I feel the sun in tokyo**は[2007年](../Page/2007年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")にリリースされた[ヒラマミキオ](https://ja.wikipedia.org/wiki/ヒラマミキオ "wikilink")の4thアルバム。CDコードはMTCD-5024 。
+**When I feel the sun in tokyo**は[2007年](../Page/2007年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")にリリースされた[ヒラマミキオ](../Page/ヒラマミキオ.md "wikilink")の4thアルバム。CDコードはMTCD-5024 。
 
 ## 解説
 

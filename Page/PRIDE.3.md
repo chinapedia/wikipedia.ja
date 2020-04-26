@@ -17,7 +17,7 @@
     2R 3:22 KO（[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 PRIDEルール 10分3R
     ○  [桜庭和志](../Page/桜庭和志.md "wikilink") vs.  [カーロス・ニュートン](../Page/カーロス・ニュートン.md "wikilink") ×
-    2R 5:19 [膝十字固め](https://ja.wikipedia.org/wiki/膝十字固め "wikilink")
+    2R 5:19 [膝十字固め](../Page/膝十字固め.md "wikilink")
   - 第4試合 PRIDEルール 10分3R
     ○  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") vs.  アミール ×
     1R 7:22 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）

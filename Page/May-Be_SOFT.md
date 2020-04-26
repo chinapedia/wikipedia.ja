@@ -1,7 +1,7 @@
 > この記事は[May-Be SOFT](https://ja.wikipedia.org/wiki/May-Be_SOFT)から翻訳されています。
 
 
-**May-Be SOFT**（**メイビーソフト**）とは有限会社リエーヴルの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。[北海道えろげー組合](https://ja.wikipedia.org/wiki/北海道えろげー組合 "wikilink")加盟。
+**May-Be SOFT**（**メイビーソフト**）は、有限会社リエーヴルの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。[北海道えろげー組合](https://ja.wikipedia.org/wiki/北海道えろげー組合 "wikilink")加盟。
 
 ## 概要
 
@@ -33,7 +33,7 @@
   - 1999年8月27日 [僕は子羊?\!](https://ja.wikipedia.org/wiki/僕は子羊?! "wikilink")
   - 1999年11月26日 [H研究会](https://ja.wikipedia.org/wiki/H研究会 "wikilink")
 
-### テックアーツ移行後
+#### テックアーツ移行後
 
   - 2000年5月26日 エスケイプPlus（『エスケイプ\!』のリメイク作品）
   - 2000年10月27日 Sixty-Nine
@@ -42,36 +42,36 @@
   - 2002年1月18日 えらぶる ～えらぶ+らぶ×ダブルで～
   - 2002年7月19日 Cage ～囚われの記録～
 
-### リエーブル移行後
+#### リエーブル移行後
 
-  - 2003年3月28日 Grope ～闇の中の小鳥たち～
+  - 2003年3月28日 [Grope 〜闇の中の小鳥たち〜](https://ja.wikipedia.org/wiki/Grope_〜闇の中の小鳥たち〜 "wikilink")
   - 2003年7月18日 -スガタ- 完全版（『-スガタ-』にキャラクターを追加したリメイク作品）
   - 2003年11月21日 淫乳女子校生・凌辱指導要領
-  - 2004年3月29日 へんし～ん\!
+  - 2004年3月29日 [へんし〜ん\!](../Page/へんし〜ん!.md "wikilink")
   - 2004年10月22日 Sixty NineDVD メディ倫版
   - 2004年10月22日 Sixty-Nine2
-  - 2005年3月18日 へんし～ん\!2
+  - 2005年3月18日 [へんし〜ん\! 2](../Page/へんし〜ん!.md "wikilink")
   - 2005年11月25日 [モノごころ、モノむすめ。](../Page/モノごころ、モノむすめ。.md "wikilink")
   - 2006年1月27日 淫乳女子校生・凌辱指導要領 Theアニメ
   - 2006年1月27日 へんし～ん\! Theアニメ
   - 2006年7月21日 [メイドさんと大きな剣](../Page/メイドさんと大きな剣.md "wikilink")
   - 2007年2月9日 －スガタ－ 完全版 The アニメ
-  - 2007年4月20日 [遊撃警艦パトベセル ～こちら首都圏上空青空署～](../Page/遊撃警艦パトベセル_〜こちら首都圏上空青空署〜.md "wikilink")
-  - 2008年3月21日 [学園☆新選組\! ～乙女ゴコロと局中法度～](https://ja.wikipedia.org/wiki/学園☆新選組!_〜乙女ゴコロと局中法度〜 "wikilink")
+  - 2007年4月20日 [遊撃警艦パトベセル 〜こちら首都圏上空青空署〜](../Page/遊撃警艦パトベセル_〜こちら首都圏上空青空署〜.md "wikilink")
+  - 2008年3月21日 [学園☆新選組\! 〜乙女ゴコロと局中法度〜](https://ja.wikipedia.org/wiki/学園☆新選組!_〜乙女ゴコロと局中法度〜 "wikilink")
   - 2009年1月30日 [ぱいタッチ\!](https://ja.wikipedia.org/wiki/ぱいタッチ! "wikilink")
   - 2009年5月22日 へんし～ん\!2 The アニメ
-  - 2011年5月20日 [へんし～ん\!\!\! ～パンツになってクンクンペロペロ～](https://ja.wikipedia.org/wiki/へんし〜ん!!!_〜パンツになってクンクンペロペロ〜 "wikilink")
+  - 2011年5月20日 [へんし〜ん\!\!\! 〜パンツになってクンクンペロペロ〜](https://ja.wikipedia.org/wiki/へんし〜ん!!!_〜パンツになってクンクンペロペロ〜 "wikilink")
   - 2012年10月26日 へんし～ん\!(Android)
-  - 2014年7月25日 [ちぇ～んじ\! ～あの娘になってクンクンペロペロ～](https://ja.wikipedia.org/wiki/ちぇ〜んじ!_〜あの娘になってクンクンペロペロ〜 "wikilink")
+  - 2014年7月25日 [ちぇ〜んじ\! 〜あの娘になってクンクンペロペロ〜](https://ja.wikipedia.org/wiki/ちぇ〜んじ!_〜あの娘になってクンクンペロペロ〜 "wikilink")
 
 ### Dixie
 
-  - RONA 〜地母神の審判〜（1994年[2月10日](../Page/2月10日.md "wikilink")）
+  - 1994年2月10日 RONA 〜地母神の審判〜
 
 ### FLAT
 
-  - キャミソール（[1992年](../Page/1992年.md "wikilink")11月）
-  - ノルティア（1993年[5月14日](../Page/5月14日.md "wikilink")）
+  - 1992年11月 キャミソール
+  - 1993年5月14日 ノルティア
 
 ### MBS TRUSE ([MBS TRUTH](../Page/MBS_TRUTH.md "wikilink"))
 
@@ -85,25 +85,16 @@
   - 1999年5月28日 華の滴
   - 1999年9月24日 天使の罠
 
-## 主なスタッフ
+## スタッフ
 
   - 原画
-
-<!-- end list -->
-
-  - [望月望](https://ja.wikipedia.org/wiki/望月望 "wikilink")
-  - まめ
-  - 佐野俊英(さぬ)
-  - [あかざ](https://ja.wikipedia.org/wiki/あかざ "wikilink") - 『へんし〜ん\!』以降の全作品の原画を手がけている
-
-<!-- end list -->
-
+      - 望月望
+      - まめ
+      - 佐野俊英(さぬ)
+      - あかざ - 『へんし〜ん\!』以降の全作品の原画を手がけている
   - シナリオ
-
-<!-- end list -->
-
-  - 箒星
-  - 日高真一
+      - 箒星
+      - 日高真一
 
 ## 備考
 
@@ -118,7 +109,8 @@
 
 ## 外部リンク
 
-  - [★★May-Be SOFTオフィシャルサイト★★](http://www.teck.co.jp/maybesoft/index.html)<span style="color:red">（18歳未満閲覧禁止）</span>
-  - [コンプリーツ](http://www.complets.co.jp/) （18歳未満閲覧禁止）</span>
+  -
+  -
+  - [May-Be SOFT 新公式サイト（テックアーツ）](http://www.teck.co.jp/maybesoft/index.html)
 
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:北海道えろげー組合](https://ja.wikipedia.org/wiki/Category:北海道えろげー組合 "wikilink")

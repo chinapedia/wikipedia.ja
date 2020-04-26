@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.アパッチ](https://ja.wikipedia.org/wiki/Mr.アパッチ)から翻訳されています。
 
 
 **Mr.アパッチ**（みすたー あぱっち）は日本のプロジャグリングパフォーマー。[BMX](../Page/BMX.md "wikilink")アクロバットからパフォーマンスをはじめ、以降[ジャグリング](../Page/ジャグリング.md "wikilink")パフォーマンスを行う。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。

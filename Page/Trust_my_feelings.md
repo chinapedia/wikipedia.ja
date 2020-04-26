@@ -63,7 +63,7 @@
   - [Trust my feelings](https://koshibasaki.com/discography/trust-my-feelings/) - 柴咲コウ Official Site（DISCOGRAPHY）
   - [Trust my feelings（歌詞）](https://www.oricon.co.jp/prof/279738/lyrics/I014148/) - [オリコン](../Page/オリコン.md "wikilink")
 
-[Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:柴咲コウの楽曲](https://ja.wikipedia.org/wiki/Category:柴咲コウの楽曲 "wikilink") [Category:山本成美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山本成美が制作した楽曲 "wikilink") [Category:2002年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2002年のデビュー・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:柴咲コウの楽曲](https://ja.wikipedia.org/wiki/Category:柴咲コウの楽曲 "wikilink") [Category:山本成美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:山本成美が制作した楽曲 "wikilink") [Category:高橋栄樹の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督したミュージック・ビデオ "wikilink") [Category:2002年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2002年のデビュー・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.  以下のインタビューを参照。
 2.  映像と音源は編集され、『Ko Shibasaki Live リリカル＊ワンダー＊パーティー 2012』として[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")にCD\&DVDがリリースされている。

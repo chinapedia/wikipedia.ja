@@ -1,4 +1,4 @@
-> この記事は[KIKI \(\)](https://ja.wikipedia.org/wiki/KIKI_\(\))から翻訳されています。
+> この記事は[KIKI \(女優\)](https://ja.wikipedia.org/wiki/KIKI_\(女優\))から翻訳されています。
 
 
 **KIKI**（キキ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月3日](../Page/1月3日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[女優](../Page/俳優.md "wikilink")。本名未詳。[東京都](../Page/東京都.md "wikilink")出身。身長165cm、足のサイズ23.5cm。血液型A型。[雙葉中学校・高等学校](../Page/雙葉中学校・高等学校.md "wikilink")、[武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink")造形学部[建築学科](../Page/建築学科.md "wikilink")卒業。所属事務所は[N・F・B](../Page/N・F・B.md "wikilink")。
@@ -40,7 +40,7 @@
 
 ### ラジオ番組
 
-  - [東京スマートドライバー](https://ja.wikipedia.org/wiki/東京スマートドライバー "wikilink")・[SHARE SMILE](https://ja.wikipedia.org/wiki/SHARE_SMILE "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")
+  - [東京スマートドライバー](https://ja.wikipedia.org/wiki/東京スマートドライバー "wikilink")・[SHARE SMILE](https://ja.wikipedia.org/wiki/SHARE_SMILE "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）[ナビゲーター](../Page/ナビゲーター.md "wikilink")
 
 ### CM
 

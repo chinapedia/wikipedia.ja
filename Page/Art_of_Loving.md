@@ -7,7 +7,7 @@
 
   - [CD帯コピー](https://ja.wikipedia.org/wiki/帯_\(出版\)#レコード類の帯 "wikilink")：**生きる勇気、ひたむきな愛**
   - 30枚目のシングル「[約束](../Page/約束_\(シンシアの曲\).md "wikilink")」（1993年3月21日）、31枚目のシングル「[よろしく哀愁](../Page/よろしく哀愁.md "wikilink")」（1994年5月21日）の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「Art of Loving」を含む、21枚目のオリジナル・アルバム。現時点でのラスト・アルバムとなっている。
-  - 過去に「[シンシア](../Page/シンシア_\(よしだたくろう・かまやつひろしの曲\).md "wikilink")」（1974年7月1日）という楽曲を製作したこともある[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")から楽曲提供を受けた（M-2「黒い瞳」）。楽曲提供はこのアルバムが初めてである（「[結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")」を1974年7月21日発売の9枚目のアルバム『[夏の感情](../Page/夏の感情_\(アルバム\).md "wikilink")』でカヴァーしたことはある）。
+  - 過去に「[シンシア](../Page/シンシア_\(よしだたくろう・かまやつひろしの曲\).md "wikilink")」（1974年7月1日）という楽曲を製作したこともある[吉田拓郎](../Page/吉田拓郎.md "wikilink")から楽曲提供を受けた（M-2「黒い瞳」）。楽曲提供はこのアルバムが初めてである（「[結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")」を1974年7月21日発売の9枚目のアルバム『[夏の感情](../Page/夏の感情_\(アルバム\).md "wikilink")』でカヴァーしたことはある）。
   - アルバムタイトル・チューン「Art of Loving」は、1975年にレコード・デビューを果たした[山崎ハコ](../Page/山崎ハコ.md "wikilink")が作曲したもの。アルバムのスタッフ・クレジット "Special Thanks" に山崎ハコの名前がある。
   - 35周年[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[Cynthia Premium](../Page/Cynthia_Premium.md "wikilink")』に収納された紙ジャケット盤には、アルバム未収録であった「[愛は一度だけですか](../Page/愛は一度だけですか.md "wikilink")」（1996年1月21日）と「[初恋](../Page/初恋_\(シンシアの曲\).md "wikilink")」（1997年4月21日）、およびそれぞれのカップリング曲が[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録された。
   - CDパッケージでの生産は中止されており、[音楽配信](../Page/音楽配信.md "wikilink")でのみ購入が可能である（2008年現在）。
@@ -21,7 +21,7 @@
         作詞：[売野雅勇](../Page/売野雅勇.md "wikilink")、作曲：[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")
 2.  黒い瞳
       -
-        作詞：[康珍化](../Page/康珍化.md "wikilink")、作曲：[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、編曲：萩田光雄
+        作詞：[康珍化](../Page/康珍化.md "wikilink")、作曲：[吉田拓郎](../Page/吉田拓郎.md "wikilink")、編曲：萩田光雄
 3.  Knife and Cake
       -
         作詞・作曲：[伊勢正三](../Page/伊勢正三.md "wikilink")、編曲：萩田光雄

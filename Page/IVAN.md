@@ -59,7 +59,7 @@
   - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
   - smartMAX
   - [POPEYE](../Page/POPEYE.md "wikilink")
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")
   - Esquire
   - HUgE
   - [KERA](../Page/KERA.md "wikilink")　　

@@ -1,11 +1,11 @@
-> この記事は[BBS](https://ja.wikipedia.org/wiki/BBS)から翻訳されています。
+> この記事は[BBSジャパン](https://ja.wikipedia.org/wiki/BBSジャパン)から翻訳されています。
 
 
 **BBSジャパン株式会社**は、車輛用軽合金ホイールの輸出入及び国内製造販売する自動車部品製造メーカーである。かつては[小野ホールディングス](../Page/小野ホールディングス.md "wikilink")の子会社であったが、小野グループの経営破綻により、[前田工繊](../Page/前田工繊.md "wikilink")の傘下となった。元は**ワシマイヤー株式会社**の社名で鍛造ホイール製造を行ってきたが、2013年12月1日に**日本BBS株式会社**と**ワシ興産株式会社**を吸収合併し、現社名に変更した。
 
 ## 概要
 
-主に自動車向け[鍛造](../Page/鍛造.md "wikilink")[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")を製造・販売している。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[BBS社と技術提携していたが](https://ja.wikipedia.org/wiki/BBS_\(自動車部品メーカー\) "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に独BBS社が経営破綻し、同社のレーシングホイール製造販売部門と鍛造ホイール製造販売権は、[2011年](../Page/2011年.md "wikilink")にワシマイヤーが属していた小野グループが買収した\[1\]。BBSブランドのホイールは、欧米の自動車メーカーはもとより[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")などのレーシングカーにも納入している。
+主に自動車向け[鍛造](../Page/鍛造.md "wikilink")[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")を製造・販売している。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[BBS社と技術提携していたが](../Page/BBS_\(自動車部品メーカー\).md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に独BBS社が経営破綻し、同社のレーシングホイール製造販売部門と鍛造ホイール製造販売権は、[2011年](../Page/2011年.md "wikilink")にワシマイヤーが属していた小野グループが買収した\[1\]。BBSブランドのホイールは、欧米の自動車メーカーはもとより[フォーミュラ1](../Page/フォーミュラ1.md "wikilink")などのレーシングカーにも納入している。
 
 また、世界標準規格[ISO9001](https://ja.wikipedia.org/wiki/ISO9000 "wikilink")、国際規格[QS-9000](https://ja.wikipedia.org/wiki/QS-9000 "wikilink")、TS（Technical Specification）16949を認証取得している。
 
@@ -21,11 +21,11 @@
 
 ## 沿革
 
-  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年） - アルミ糸巻きビーム（[ボビン](https://ja.wikipedia.org/wiki/ボビン_\(裁縫\) "wikilink")）製造メーカーとして設立。
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年） - [BBSと技術提携](https://ja.wikipedia.org/wiki/BBS_\(自動車部品メーカー\) "wikilink")。
+  - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年） - アルミ糸巻きビーム（[ボビン](../Page/ボビン_\(裁縫\).md "wikilink")）製造メーカーとして設立。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年） - [BBSと技術提携](../Page/BBS_\(自動車部品メーカー\).md "wikilink")。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年） - RGワンピースホイールを製作。米国のSEMA SHOWにて、技術革新大賞受賞。鍛造ワンピースホイールの基礎を築く。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年） - F1用[マグネシウム](https://ja.wikipedia.org/wiki/マグネシウム "wikilink")鍛造ホイールを製作。
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年） - [フェラーリ](../Page/フェラーリ.md "wikilink")の[フォーミュラカー](https://ja.wikipedia.org/wiki/フォーミュラカー "wikilink")にマグネシウム鍛造ホイールを納入。
+  - [1991年](../Page/1991年.md "wikilink")（平成3年） - F1用[マグネシウム](../Page/マグネシウム.md "wikilink")鍛造ホイールを製作。
+  - [1992年](../Page/1992年.md "wikilink")（平成4年） - [フェラーリ](../Page/フェラーリ.md "wikilink")の[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")にマグネシウム鍛造ホイールを納入。
   - [2011年](../Page/2011年.md "wikilink")（平成23年） - BBS社のレーシングホイール製造販売部門と鍛造ホイール製造販売権を買収。
   - [2012年](../Page/2012年.md "wikilink")（平成24年） - 東京地方裁判所に会社更生手続開始の申立て。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）9月 - 更生計画認可。

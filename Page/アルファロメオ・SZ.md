@@ -1,4 +1,4 @@
-> この記事は[SZ](https://ja.wikipedia.org/wiki/SZ)から翻訳されています。
+> この記事は[アルファロメオ・SZ](https://ja.wikipedia.org/wiki/アルファロメオ・SZ)から翻訳されています。
 
 
 **SZ**および**RZ**は、[イタリア](../Page/イタリア.md "wikilink")の自動車メーカー[アルファロメオ](../Page/アルファロメオ.md "wikilink")が製造・販売していた[クーペ](../Page/クーペ.md "wikilink")または[オープンタイプの](../Page/オープンカー.md "wikilink")[スポーツカー](../Page/スポーツカー.md "wikilink")である。

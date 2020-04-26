@@ -1,4 +1,4 @@
-> この記事は[CUTE \(hal\)](https://ja.wikipedia.org/wiki/CUTE_\(hal\))から翻訳されています。
+> この記事は[CUTE \(halの曲\)](https://ja.wikipedia.org/wiki/CUTE_\(halの曲\))から翻訳されています。
 
 
 **CUTE / CUTE 〜UMEA kottbullar ver〜**（キュート）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")にリリースされた[hal](https://ja.wikipedia.org/wiki/hal "wikilink")の2ndシングル。CDコードはVIDL-10843。

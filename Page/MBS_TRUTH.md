@@ -1,7 +1,7 @@
 > この記事は[MBS TRUTH](https://ja.wikipedia.org/wiki/MBS_TRUTH)から翻訳されています。
 
 
-**MBS TRUTH**（**エムビーエストゥルース**）は株式会社[テックアーツ](../Page/テックアーツ.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。旧名は「**MBS TRUSE**」。「MBS」は「May-Be SOFT」の略であり、[毎日放送](../Page/毎日放送.md "wikilink")（Mainichi Broadcasting System）とは一切無関係である。
+**MBS TRUTH**（**エムビーエストゥルース**）は、株式会社[テックアーツ](../Page/テックアーツ.md "wikilink")の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドで、旧名は「**MBS TRUSE**」であった。なお「MBS」は「May-Be SOFT」の略であり、[毎日放送](../Page/毎日放送.md "wikilink")（Mainichi Broadcasting System）とは一切無関係である。
 
 ## 概要
 

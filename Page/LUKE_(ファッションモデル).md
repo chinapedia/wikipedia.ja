@@ -1,36 +1,36 @@
-> この記事は[LUKE \(\)](https://ja.wikipedia.org/wiki/LUKE_\(\))から翻訳されています。
+> この記事は[LUKE \(ファッションモデル\)](https://ja.wikipedia.org/wiki/LUKE_\(ファッションモデル\))から翻訳されています。
 
 
-**LUKE**（ルーク、[1984年](../Page/1984年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink") - ）は日本の男性[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。
+**LUKE**（ルーク、[1984年](../Page/1984年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink") - ）は日本の男性[ファッションモデル](../Page/ファッションモデル.md "wikilink")。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。[ビーナチュラル](https://ja.wikipedia.org/wiki/ビーナチュラル "wikilink")所属。趣味は[バイク](../Page/オートバイ.md "wikilink")。特技は[水泳](../Page/水泳.md "wikilink")。
+[東京都](../Page/東京都.md "wikilink")出身。[ビーナチュラル](../Page/ビーナチュラル.md "wikilink")所属。趣味は[バイク](../Page/オートバイ.md "wikilink")。特技は[水泳](../Page/水泳.md "wikilink")。
 
-[ファッションショー](../Page/ファッションショー.md "wikilink")や[MEN'S NON-NOなど](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")のモデルとして活躍中。[パリ・コレクション](https://ja.wikipedia.org/wiki/パリ・コレクション "wikilink")経験もある。
+[ファッションショー](../Page/ファッションショー.md "wikilink")や[MEN'S NON-NOなど](../Page/MEN'S_NON-NO.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")のモデルとして活躍中。[パリ・コレクション](../Page/パリ・コレクション.md "wikilink")経験もある。
 
 ## 主な出演
 
 ### 雑誌
 
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
-  - [POPEYE](https://ja.wikipedia.org/wiki/POPEYE "wikilink")
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
+  - [POPEYE](../Page/POPEYE.md "wikilink")
   - [smart](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")
   - smartMAX
   - BOON
-  - [HDP](https://ja.wikipedia.org/wiki/ホットドッグ・プレス "wikilink")
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
+  - [HDP](../Page/ホットドッグ・プレス.md "wikilink")
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")
   - relax
-  - [Men's JOKER](https://ja.wikipedia.org/wiki/Men's_JOKER "wikilink")
+  - [Men's JOKER](../Page/Men's_JOKER.md "wikilink")
   - HUgE
-  - [装苑](https://ja.wikipedia.org/wiki/装苑 "wikilink")
+  - [装苑](../Page/装苑.md "wikilink")
   - SENCE
 
 ### 広告
 
-  - [ユナイテッドアローズ](https://ja.wikipedia.org/wiki/ユナイテッドアローズ "wikilink")
+  - [ユナイテッドアローズ](../Page/ユナイテッドアローズ.md "wikilink")
   - FRED PERRY
   - [丸井](../Page/丸井.md "wikilink")
-  - [リーバイス](https://ja.wikipedia.org/wiki/リーバイス "wikilink")
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
+  - [リーバイス](../Page/リーバイス.md "wikilink")
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
   - TETE HOMME
   - [ユニクロ](../Page/ユニクロ.md "wikilink")
   - [アバハウス](../Page/アバハウス.md "wikilink")
@@ -41,7 +41,7 @@
   - ARISAN
   - LADMUSICIAN
   - CAPITALHILL
-  - [タケオキクチ](https://ja.wikipedia.org/wiki/タケオキクチ "wikilink")
+  - [タケオキクチ](../Page/タケオキクチ.md "wikilink")
   - [シャネル](../Page/シャネル.md "wikilink")
   - [EMPORIO ARMANI](https://ja.wikipedia.org/wiki/ジョルジオ・アルマーニ#主なブランド名 "wikilink")
   - [カルバン・クライン](../Page/カルバン・クライン.md "wikilink")

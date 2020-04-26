@@ -1,4 +1,4 @@
-> この記事は[BeForU III Breaking Into The Probability Changes](https://ja.wikipedia.org/wiki/BeForU_III_Breaking_Into_The_Probability_Changes)から翻訳されています。
+> この記事は[BeForU III 〜Breaking Into The Probability Changes〜](https://ja.wikipedia.org/wiki/BeForU_III_〜Breaking_Into_The_Probability_Changes〜)から翻訳されています。
 
 
 『**BeForU III 〜Breaking Into The Probability Changes〜**』（ビーフォーユー・スリー ブレイキング・イントゥー・ザ・プロバビリティ・チェンジーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ[BeForU](../Page/BeForU.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")であり、[メジャーでの](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")1枚目のアルバムである。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に[avex modeよりリリースされた](https://ja.wikipedia.org/wiki/avex_mode "wikilink")。

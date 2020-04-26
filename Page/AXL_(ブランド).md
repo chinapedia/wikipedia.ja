@@ -1,4 +1,4 @@
-> この記事は[AXL \(\)](https://ja.wikipedia.org/wiki/AXL_\(\))から翻訳されています。
+> この記事は[AXL \(ブランド\)](https://ja.wikipedia.org/wiki/AXL_\(ブランド\))から翻訳されています。
 
 
 **AXL**（アクセル）は、有限会社セルウィッシュの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。

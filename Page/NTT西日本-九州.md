@@ -1,7 +1,7 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-九州](https://ja.wikipedia.org/wiki/NTT西日本-九州)から翻訳されています。
 
 
-**株式会社NTT西日本-九州**（エヌティティにしにほん-きゅうしゅう）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")に本社を置いていた。電気通信設備関係や工事関係などで、発足当初は北部九州3県を管轄していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")、NTT西日本のグループ再編により3社を吸収合併し、[九州](../Page/九州.md "wikilink")・[沖縄全域を管轄地域とした](../Page/沖縄県.md "wikilink")。
+**株式会社NTT西日本-九州**（エヌティティにしにほん-きゅうしゅう）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")に本社を置いていた。電気通信設備関係や工事関係などで、発足当初は北部九州3県を管轄していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")、NTT西日本のグループ再編により3社を吸収合併し、[九州](../Page/九州.md "wikilink")・[沖縄全域を管轄地域とした](../Page/沖縄県.md "wikilink")。
 
 [2013年](../Page/2013年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")、他のNTT西日本の地域会社などとともに[NTT西日本-東海](../Page/NTT西日本-東海.md "wikilink")へ吸収合併され、[NTTビジネスソリューションズ](https://ja.wikipedia.org/wiki/NTTビジネスソリューションズ "wikilink")株式会社となった。
 
@@ -22,9 +22,9 @@
 
 <!-- end list -->
 
-  - 直轄：[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")（[豊前市](https://ja.wikipedia.org/wiki/豊前市 "wikilink")、[築上郡](../Page/築上郡.md "wikilink")[吉富町](https://ja.wikipedia.org/wiki/吉富町 "wikilink")・[上毛町](https://ja.wikipedia.org/wiki/上毛町 "wikilink")を除く）、[佐賀県](../Page/佐賀県.md "wikilink")及び[長崎県](../Page/長崎県.md "wikilink")
+  - 直轄：[福岡県](../Page/福岡県.md "wikilink")（[豊前市](../Page/豊前市.md "wikilink")、[築上郡](../Page/築上郡.md "wikilink")[吉富町](../Page/吉富町.md "wikilink")・[上毛町](../Page/上毛町.md "wikilink")を除く）、[佐賀県](../Page/佐賀県.md "wikilink")及び[長崎県](../Page/長崎県.md "wikilink")
   - 旧NTT西日本-中九州：[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[大分県](../Page/大分県.md "wikilink")及び福岡県のうち豊前市、築上郡吉富町・上毛町
-  - 旧NTT西日本-南九州：[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")及び[宮崎県](../Page/宮崎県.md "wikilink")
+  - 旧NTT西日本-南九州：[鹿児島県](../Page/鹿児島県.md "wikilink")及び[宮崎県](../Page/宮崎県.md "wikilink")
   - 旧NTT西日本-沖縄：[沖縄県](../Page/沖縄県.md "wikilink")
 
 ## 事業拠点

@@ -1,4 +1,4 @@
-> この記事は[True Blue \(\)](https://ja.wikipedia.org/wiki/True_Blue_\(\))から翻訳されています。
+> この記事は[True Blue \(後藤沙緒里の曲\)](https://ja.wikipedia.org/wiki/True_Blue_\(後藤沙緒里の曲\))から翻訳されています。
 
 
 「**True Blue**」（トゥルー・ブルー）は、[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")の[シングル](../Page/シングル.md "wikilink")。 2007年9月19日に[KONAMIから発売された](../Page/コナミレーベル.md "wikilink")。（販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")。）

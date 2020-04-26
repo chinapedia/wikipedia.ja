@@ -1,4 +1,4 @@
-> この記事は[TOYOTA ](https://ja.wikipedia.org/wiki/TOYOTA_)から翻訳されています。
+> この記事は[TOYOTA ハッピータウンサーキット](https://ja.wikipedia.org/wiki/TOYOTA_ハッピータウンサーキット)から翻訳されています。
 
 
 **TOYOTA ハッピータウンサーキット（トヨタ‐）**は[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")のワイド番組内で放送されていたコーナー。

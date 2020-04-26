@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 本人初めての12cmCD（マキシシングル）としてリリースされた。[TBS系](https://ja.wikipedia.org/wiki/TBSテレビ "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』のエンディング・テーマとなった。
+  - 本人初めての12cmCD（マキシシングル）としてリリースされた。[TBS系](../Page/TBSテレビ.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』のエンディング・テーマとなった。
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
   - **Gone with the rain**
       - Sweetest Time
-      - [Seiko '96-'98](https://ja.wikipedia.org/wiki/Seiko_'96-'98 "wikilink")
+      - [Seiko '96-'98](../Page/Seiko_'96-'98.md "wikilink")
       - [We Love SEIKO -35th Anniversary 松田聖子究極オールタイムベスト50Songs-](https://ja.wikipedia.org/wiki/We_Love_SEIKO_-35th_Anniversary_松田聖子究極オールタイムベスト50Songs- "wikilink")
   - **Gone with the rain （English Version）**
       - Sweetest Time
@@ -34,10 +34,10 @@
   - **Good for you （Sweetest Mix）**
       - アルバム未収録
   - **Good for you （Original Version）**
-      - [WAS IT THE FUTURE](https://ja.wikipedia.org/wiki/WAS_IT_THE_FUTURE "wikilink")
+      - [WAS IT THE FUTURE](../Page/WAS_IT_THE_FUTURE.md "wikilink")
 
 ## 関連項目
 
-  - [1997年の音楽](https://ja.wikipedia.org/wiki/1997年の音楽 "wikilink")
+  - [1997年の音楽](../Page/1997年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:松田聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:雨を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:雨を題材とした楽曲 "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")

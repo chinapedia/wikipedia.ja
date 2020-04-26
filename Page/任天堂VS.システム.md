@@ -1,17 +1,17 @@
-> この記事は[VS.](https://ja.wikipedia.org/wiki/VS.)から翻訳されています。
+> この記事は[任天堂VS.システム](https://ja.wikipedia.org/wiki/任天堂VS.システム)から翻訳されています。
 
 
-**任天堂VS.システム**（にんてんどうブイエスシステム）は、[1984年](../Page/1984年.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")が開発した[アーケードゲーム基板](https://ja.wikipedia.org/wiki/アーケードゲーム基板 "wikilink")。
+**任天堂VS.システム**（にんてんどうブイエスシステム）は、[1984年](../Page/1984年.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")が開発した[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")。
 
 ## 概要
 
-[任天堂](../Page/任天堂.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink")「[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")」の構造を応用して開発されたものである。そのため、ファミコンからの移植が容易であり、任天堂からだけでなく[ナムコ](../Page/バンダイナムコエンターテインメント.md "wikilink")（現：バンダイナムコエンターテインメント）などの[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")からもゲームがリリースされた。『[レッキングクルー](../Page/レッキングクルー.md "wikilink")』など、VS.システムからファミコンに移植されたゲームも多数ある。アーケードゲーム基板として、ファミリーコンピュータの本来の仕様から拡張された機能もあり、例えばキャラクターの動きに合わせた画面縦方向のスクロールが追加されたゲーム（『[VS.バルーンファイト](https://ja.wikipedia.org/wiki/バルーンファイト "wikilink")』）がある。
+[任天堂](../Page/任天堂.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink")「[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")」の構造を応用して開発されたものである。そのため、ファミコンからの移植が容易であり、任天堂からだけでなく[ナムコ](../Page/バンダイナムコエンターテインメント.md "wikilink")（現：バンダイナムコエンターテインメント）などの[サードパーティー](../Page/サードパーティー.md "wikilink")からもゲームがリリースされた。『[レッキングクルー](../Page/レッキングクルー.md "wikilink")』など、VS.システムからファミコンに移植されたゲームも多数ある。アーケードゲーム基板として、ファミリーコンピュータの本来の仕様から拡張された機能もあり、例えばキャラクターの動きに合わせた画面縦方向のスクロールが追加されたゲーム（『[VS.バルーンファイト](../Page/バルーンファイト.md "wikilink")』）がある。
 
-筐体は日本版の場合、赤いボディの対面座式（ディスプレイ2台）で、片側に2名座っての同時プレイも可能。最大同時プレイ人数は『[テニス](https://ja.wikipedia.org/wiki/テニス_\(任天堂\) "wikilink")』の4名。
+筐体は日本版の場合、赤いボディの対面座式（ディスプレイ2台）で、片側に2名座っての同時プレイも可能。最大同時プレイ人数は『[テニス](../Page/テニス_\(任天堂\).md "wikilink")』の4名。
 
 海外版はアップライトタイプとなっており、2台のアップライト筐体をハの字型に角度をつけたような造りとなっていた（相手スクリーンが見えないように工夫されている）。
 
-純粋に任天堂VS筐体に搭載されるケースが殆どであったが、一部はアーケード版『[ドンキーコングJR.](https://ja.wikipedia.org/wiki/ドンキーコングJR. "wikilink")』、『[ポパイ](https://ja.wikipedia.org/wiki/ポパイ_\(任天堂\) "wikilink")』等の旧テーブル・アップライトに搭載できるキット、任天堂社外搭載キットも後々リリースされた。
+純粋に任天堂VS筐体に搭載されるケースが殆どであったが、一部はアーケード版『[ドンキーコングJR.](../Page/ドンキーコングJR..md "wikilink")』、『[ポパイ](../Page/ポパイ_\(任天堂\).md "wikilink")』等の旧テーブル・アップライトに搭載できるキット、任天堂社外搭載キットも後々リリースされた。
 
 ソフト的には海外版であってもNintendo of America等の一部表記以外はほとんど国内版と同様である。但し、日本未発売タイトルも多い。[任天堂は当時](https://ja.wikipedia.org/wiki/:en:Nintendo_of_America "wikilink")、アメリカではパブリッシャーとディストリビューターを兼ねていたため、他社で開発されたアーケードゲームの発売元や販売元となることが多かったことなどから、特にサードパーティー製品の逆移植作が多く発売されていた（これらのほとんどは国内未発売である）。
 
@@ -19,9 +19,9 @@
 
 ナムコ製のソフトに交換する際に、交換用のボタンが供給されたため、ナムコ製のソフトが稼働している筐体では純正のボタンではなく交換されたボタンが使われていた。純正のボタンは連射などに向かないための措置と思われる。またナムコのソフトタイトルは原則、ナムコ直営店でしか稼動しておらず、人気を呼んだ同システムの中においても他のメーカーのものに比べ普及率が低い。
 
-ファミコンのRGB出力化改造のために部品取りに使われることが多く、本来の状態のものはかなり減っているとみられる（本来の基板の大半が、並行輸入された『[VS.スーパーマリオブラザーズ](../Page/スーパーマリオブラザーズ.md "wikilink")』として稼働していると思われる）。なお、部品取りには[マイコンピュータテレビC1](https://ja.wikipedia.org/wiki/マイコンピュータテレビC1 "wikilink")の中古品や[編集ファミコン](https://ja.wikipedia.org/wiki/編集ファミコン "wikilink")も使われる。
+ファミコンのRGB出力化改造のために部品取りに使われることが多く、本来の状態のものはかなり減っているとみられる（本来の基板の大半が、並行輸入された『[VS.スーパーマリオブラザーズ](../Page/スーパーマリオブラザーズ.md "wikilink")』として稼働していると思われる）。なお、部品取りには[マイコンピュータテレビC1](https://ja.wikipedia.org/wiki/マイコンピュータテレビC1 "wikilink")の中古品や[編集ファミコン](../Page/編集ファミコン.md "wikilink")も使われる。
 
-[2016年](../Page/2016年.md "wikilink")9月10日から[2017年](../Page/2017年.md "wikilink")3月12日にかけて[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")の[SKIPシティ](https://ja.wikipedia.org/wiki/SKIPシティ "wikilink")内映像ミュージアムで開催された展示会「[あそぶ\!ゲーム展 ステージ2：ゲームセンターVSファミコン](https://ja.wikipedia.org/wiki/あそぶ!ゲーム展 "wikilink")」では任天堂VS.システムの筐体が展示され、『VS.エキサイトバイク』や『VS.アイスクライマー』などを実際にプレイすることができた\[1\]。
+[2016年](../Page/2016年.md "wikilink")9月10日から[2017年](../Page/2017年.md "wikilink")3月12日にかけて[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")の[SKIPシティ](../Page/SKIPシティ.md "wikilink")内映像ミュージアムで開催された展示会「[あそぶ\!ゲーム展 ステージ2：ゲームセンターVSファミコン](https://ja.wikipedia.org/wiki/あそぶ!ゲーム展 "wikilink")」では任天堂VS.システムの筐体が展示され、『VS.エキサイトバイク』や『VS.アイスクライマー』などを実際にプレイすることができた\[1\]。
 
 2017年からは、[ニンテンドースイッチ](https://ja.wikipedia.org/wiki/ニンテンドースイッチ "wikilink")用の[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")でVS.システムのゲームが順次配信されている。
 
@@ -33,22 +33,22 @@
 
 ### 任天堂
 
-  - [VS.麻雀](https://ja.wikipedia.org/wiki/麻雀_\(任天堂\) "wikilink")
-  - [VS.テニス](https://ja.wikipedia.org/wiki/テニス_\(任天堂\) "wikilink")
-  - [VS.ベースボール](https://ja.wikipedia.org/wiki/ベースボール_\(ファミコン\) "wikilink")
-  - [VS.サッカー](https://ja.wikipedia.org/wiki/サッカー_\(任天堂\) "wikilink")
-  - [VS.ピンボール](https://ja.wikipedia.org/wiki/ピンボール_\(任天堂\) "wikilink")
-  - [VS.ゴルフ](https://ja.wikipedia.org/wiki/ゴルフ_\(任天堂\) "wikilink")
-  - [VS.アーバンチャンピオン](https://ja.wikipedia.org/wiki/アーバンチャンピオン "wikilink")
-  - [VS.アイスクライマー](https://ja.wikipedia.org/wiki/アイスクライマー "wikilink")
-  - [VS.クルクルランド](https://ja.wikipedia.org/wiki/クルクルランド "wikilink")
+  - [VS.麻雀](../Page/麻雀_\(任天堂\).md "wikilink")
+  - [VS.テニス](../Page/テニス_\(任天堂\).md "wikilink")
+  - [VS.ベースボール](../Page/ベースボール_\(ファミコン\).md "wikilink")
+  - [VS.サッカー](../Page/サッカー_\(任天堂\).md "wikilink")
+  - [VS.ピンボール](../Page/ピンボール_\(任天堂\).md "wikilink")
+  - [VS.ゴルフ](../Page/ゴルフ_\(任天堂\).md "wikilink")
+  - [VS.アーバンチャンピオン](../Page/アーバンチャンピオン.md "wikilink")
+  - [VS.アイスクライマー](../Page/アイスクライマー.md "wikilink")
+  - [VS.クルクルランド](../Page/クルクルランド.md "wikilink")
   - [VS.レッキングクルー](../Page/レッキングクルー.md "wikilink")
   - [VS.エキサイトバイク](../Page/エキサイトバイク.md "wikilink")
-  - [VS.バルーンファイト](https://ja.wikipedia.org/wiki/バルーンファイト "wikilink")
-  - [VS.マッハライダー](https://ja.wikipedia.org/wiki/マッハライダー "wikilink")
+  - [VS.バルーンファイト](../Page/バルーンファイト.md "wikilink")
+  - [VS.マッハライダー](../Page/マッハライダー.md "wikilink")
   - [VS.バンゲリングベイ](../Page/バンゲリングベイ.md "wikilink")（制作：[ハドソン](../Page/ハドソン.md "wikilink")）
-  - [VS.ダックハント](https://ja.wikipedia.org/wiki/光線銃シリーズ "wikilink") ※
-  - [VS.ホーガンズアレイ](https://ja.wikipedia.org/wiki/光線銃シリーズ "wikilink") ※
+  - [VS.ダックハント](../Page/光線銃シリーズ.md "wikilink") ※
+  - [VS.ホーガンズアレイ](../Page/光線銃シリーズ.md "wikilink") ※
   - [VS.ガムシュー](https://ja.wikipedia.org/wiki/ガムシュー "wikilink") ※
   - [VS.スラローム](https://ja.wikipedia.org/wiki/スラローム "wikilink") ※
   - [VS.スーパーマリオブラザーズ](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ#任天堂VS.システム_（アーケードゲーム）版 "wikilink") ※
@@ -56,20 +56,20 @@
 
 ### ナムコ（現：バンダイナムコアミューズメント）
 
-  - [スーパーゼビウス ガンプの謎](https://ja.wikipedia.org/wiki/スーパーゼビウス_ガンプの謎 "wikilink")
-  - [バトルシティー](https://ja.wikipedia.org/wiki/バトルシティー "wikilink")
-  - [スターラスター](https://ja.wikipedia.org/wiki/スターラスター "wikilink")
-  - [バベルの塔](https://ja.wikipedia.org/wiki/バベルの塔_\(ゲーム\) "wikilink")
+  - [スーパーゼビウス ガンプの謎](../Page/スーパーゼビウス_ガンプの謎.md "wikilink")
+  - [バトルシティー](../Page/バトルシティー.md "wikilink")
+  - [スターラスター](../Page/スターラスター.md "wikilink")
+  - [バベルの塔](../Page/バベルの塔_\(ゲーム\).md "wikilink")
   - [ファミリーテニス](../Page/ファミリーテニス.md "wikilink")
   - [プロ野球ファミリースタジアム](../Page/プロ野球ファミリースタジアム.md "wikilink")シリーズ（87年版と88年版）
   - [ワルキューレの冒険](https://ja.wikipedia.org/wiki/ワルキューレの冒険_時の鍵伝説 "wikilink")
-  - [スーパーチャイニーズ](https://ja.wikipedia.org/wiki/スーパーチャイニーズ "wikilink")
+  - [スーパーチャイニーズ](../Page/スーパーチャイニーズ.md "wikilink")
   - [ファミリーボクシング](../Page/ファミリーボクシング.md "wikilink")
-  - [カイの冒険](https://ja.wikipedia.org/wiki/カイの冒険 "wikilink")（日本では最後のVS.システム作品）
+  - [カイの冒険](../Page/カイの冒険.md "wikilink")（日本では最後のVS.システム作品）
 
 ### ジャレコ
 
-  - [忍者じゃじゃ丸くん](https://ja.wikipedia.org/wiki/忍者じゃじゃ丸くん "wikilink")
+  - [忍者じゃじゃ丸くん](../Page/忍者じゃじゃ丸くん.md "wikilink")
 
 ### テクモ（現・コーエーテクモゲームス）
 
@@ -77,22 +77,22 @@
 
 ### コナミ（現・コナミアミューズメント）
 
-  - [VS.グーニーズ](https://ja.wikipedia.org/wiki/グーニーズ_\(ゲーム\) "wikilink") ※
+  - [VS.グーニーズ](../Page/グーニーズ_\(ゲーム\).md "wikilink") ※
   - [VS.トップガン](https://ja.wikipedia.org/wiki/トップガン_\(ゲーム\) "wikilink") ※
-  - [VS.キャッスルヴァニア](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ "wikilink") ※
+  - [VS.キャッスルヴァニア](../Page/悪魔城ドラキュラ.md "wikilink") ※
   - [VS.グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink") ※（[ネメシスではない](../Page/ネメシス_\(ゲーム\).md "wikilink")）
 
 ### サン電子
 
-  - [プラトーン](https://ja.wikipedia.org/wiki/プラトーン "wikilink") ※
-  - [スカイキッド](https://ja.wikipedia.org/wiki/スカイキッド "wikilink") ※
+  - [プラトーン](../Page/プラトーン.md "wikilink") ※
+  - [スカイキッド](../Page/スカイキッド.md "wikilink") ※
   - [マドゥーラの翼](https://ja.wikipedia.org/wiki/マドゥーラの翼 "wikilink")（未発売）
-  - [かんしゃく玉なげカン太郎の東海道五十三次](https://ja.wikipedia.org/wiki/かんしゃく玉なげカン太郎の東海道五十三次 "wikilink")（未発売）
+  - [かんしゃく玉なげカン太郎の東海道五十三次](../Page/かんしゃく玉なげカン太郎の東海道五十三次.md "wikilink")（未発売）
   - [ライオネックス](https://ja.wikipedia.org/wiki/ライオネックス "wikilink")（VS.システムオリジナル作品だが未発売）
 
 ### アタリゲームズ
 
-  - [テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink") ※
+  - [テトリス](../Page/テトリス.md "wikilink") ※
   - [R.B.I.ベースボール](../Page/プロ野球ファミリースタジアム.md "wikilink") ※
 
 ## 脚注

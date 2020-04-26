@@ -1,4 +1,4 @@
-> この記事は[ \(hal\)](https://ja.wikipedia.org/wiki/_\(hal\))から翻訳されています。
+> この記事は[ラブレター \(halのアルバム\)](https://ja.wikipedia.org/wiki/ラブレター_\(halのアルバム\))から翻訳されています。
 
 
 『**ラブレター**』は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースされた[hàlの](https://ja.wikipedia.org/wiki/hal "wikilink")2枚目のフルアルバム。CDコードはVICL-60185。

@@ -19,7 +19,7 @@
 ### 漫画
 
   - **[DARKER THAN BLACK -漆黒の花-](https://ja.wikipedia.org/wiki/DARKER_THAN_BLACK_-黒の契約者-#DARKER_THAN_BLACK_-漆黒の花- "wikilink")**
-      - 2009年5月から2011年1月まで「[ヤングガンガン](https://ja.wikipedia.org/wiki/ヤングガンガン "wikilink")」（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）にて連載。
+      - 2009年5月から2011年1月まで「[ヤングガンガン](../Page/ヤングガンガン.md "wikilink")」（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）にて連載。
       - 「黒の契約者」本編と外伝の間を描く漫画作品。
 
 ### ゲーム

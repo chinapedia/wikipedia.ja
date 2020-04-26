@@ -1,4 +1,4 @@
-> この記事は[ Recall 28 SINGLES SAORI + 1](https://ja.wikipedia.org/wiki/_Recall_28_SINGLES_SAORI_+_1)から翻訳されています。
+> この記事は[南沙織ベスト Recall 〜28 SINGLES SAORI + 1〜](https://ja.wikipedia.org/wiki/南沙織ベスト_Recall_〜28_SINGLES_SAORI_+_1〜)から翻訳されています。
 
 
 『**南沙織ベスト Recall 〜28 SINGLES SAORI + 1〜**』（みなみさおりベスト リコール 28 シングルズ・さおり・プラスワン）は、[南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")単独名義の全シングルA面曲を収録したシングル・コレクション。1992年2月21日発売。発売元は[ソニーレコード](../Page/ソニー・ミュージックレコーズ.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はSRCL-2315/6。

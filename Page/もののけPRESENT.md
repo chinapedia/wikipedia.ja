@@ -1,4 +1,4 @@
-> この記事は[PRESENT](https://ja.wikipedia.org/wiki/PRESENT)から翻訳されています。
+> この記事は[もののけPRESENT](https://ja.wikipedia.org/wiki/もののけPRESENT)から翻訳されています。
 
 
 **もののけPRESENT**（もののけプレゼント）は、[みやさかたかし](../Page/みやさかたかし.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1992年](../Page/1992年.md "wikilink")2-8月・[1994年](../Page/1994年.md "wikilink")7月-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月にかけ、『[サイバーコミックス](../Page/サイバーコミックス.md "wikilink")』『バトルエンジェルス』『コミックWill』に不定期連載された。

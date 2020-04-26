@@ -95,7 +95,7 @@ writer , SOICHIRO TAHARA 1982 , YASUO TANAKA1982 2004-2007 , MIO SAITOH 1982 , H
 
   - [Akihiro Takayama オフィシャル　サイト](http://akihiro.webcrow.jp/)
 
-[Category:日本の写真家](https://ja.wikipedia.org/wiki/Category:日本の写真家 "wikilink") [Category:日本の映像作家](https://ja.wikipedia.org/wiki/Category:日本の映像作家 "wikilink") [Category:長野県出身の人物](https://ja.wikipedia.org/wiki/Category:長野県出身の人物 "wikilink") [Category:1954年生](https://ja.wikipedia.org/wiki/Category:1954年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:20世紀日本の写真家](https://ja.wikipedia.org/wiki/Category:20世紀日本の写真家 "wikilink") [Category:21世紀日本の写真家](https://ja.wikipedia.org/wiki/Category:21世紀日本の写真家 "wikilink") [Category:日本の映像作家](https://ja.wikipedia.org/wiki/Category:日本の映像作家 "wikilink") [Category:長野県出身の人物](https://ja.wikipedia.org/wiki/Category:長野県出身の人物 "wikilink") [Category:1954年生](https://ja.wikipedia.org/wiki/Category:1954年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [ザ・ポリス 全撮影 Akihiro Takayama](http://police.webcrow.jp/)
 2.  [THE POLICE ALBUM 'ZENYATTA MONDATTA'](http://www.andysummers.com/album/zenyatta-mondatta/)

@@ -1,4 +1,4 @@
-> この記事は[MDR](https://ja.wikipedia.org/wiki/MDR)から翻訳されています。
+> この記事は[MDR交響楽団](https://ja.wikipedia.org/wiki/MDR交響楽団)から翻訳されています。
 
 
 **MDR交響楽団**（）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")連邦共和国[ザクセン州](../Page/ザクセン州.md "wikilink")[ライプツィヒ](https://ja.wikipedia.org/wiki/ライプツィヒ "wikilink")に本拠を置く[中部ドイツ放送協会](https://ja.wikipedia.org/wiki/中部ドイツ放送協会 "wikilink")(MDR)所属オーケストラである。日本語で「中部ドイツ放送交響楽団」ともいう。
@@ -7,11 +7,11 @@
 
 以前は「ライプツィヒ放送交響楽団」と称していた。ライプツィヒ放送交響楽団の創立は1923年である。
 
-[ドイツ再統一](https://ja.wikipedia.org/wiki/ドイツ再統一 "wikilink")に伴う放送局の再編によって中部ドイツ放送協会が誕生したのを機に、「ライプツィヒ放送フィルハーモニー管弦楽団」がライプツィヒ放送交響楽団へと合併される形で1992年に再編され、現在の名称になった。
+[ドイツ再統一](../Page/ドイツ再統一.md "wikilink")に伴う放送局の再編によって中部ドイツ放送協会が誕生したのを機に、「ライプツィヒ放送フィルハーモニー管弦楽団」がライプツィヒ放送交響楽団へと合併される形で1992年に再編され、現在の名称になった。
 
 ## 指揮者
 
-ライプツィヒ放送交響楽団時代からの歴代の指揮者として、[ヘルマン・アーベントロート](https://ja.wikipedia.org/wiki/ヘルマン・アーベントロート "wikilink")、[ハインツ・レーグナー](../Page/ハインツ・レーグナー.md "wikilink")、[ヘルベルト・ケーゲル](https://ja.wikipedia.org/wiki/ヘルベルト・ケーゲル "wikilink")、[ダニエル・ナザレス](https://ja.wikipedia.org/wiki/ダニエル・ナザレス "wikilink")、[ファビオ・ルイージ](../Page/ファビオ・ルイージ.md "wikilink")、[準・メルクル](https://ja.wikipedia.org/wiki/準・メルクル "wikilink")らがおり、2012年からは[クリスティアン・ヤルヴィ](https://ja.wikipedia.org/wiki/クリスティアン・ヤルヴィ "wikilink")が首席指揮者を務めている。
+ライプツィヒ放送交響楽団時代からの歴代の指揮者として、[ヘルマン・アーベントロート](../Page/ヘルマン・アーベントロート.md "wikilink")、[ハインツ・レーグナー](../Page/ハインツ・レーグナー.md "wikilink")、[ヘルベルト・ケーゲル](../Page/ヘルベルト・ケーゲル.md "wikilink")、[ダニエル・ナザレス](https://ja.wikipedia.org/wiki/ダニエル・ナザレス "wikilink")、[ファビオ・ルイージ](../Page/ファビオ・ルイージ.md "wikilink")、[準・メルクル](../Page/準・メルクル.md "wikilink")らがおり、2012年からは[クリスティアン・ヤルヴィ](https://ja.wikipedia.org/wiki/クリスティアン・ヤルヴィ "wikilink")が首席指揮者を務めている。
 
 ## 録音
 

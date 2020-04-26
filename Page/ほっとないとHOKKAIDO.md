@@ -1,4 +1,4 @@
-> この記事は[HOKKAIDO](https://ja.wikipedia.org/wiki/HOKKAIDO)から翻訳されています。
+> この記事は[ほっとないとHOKKAIDO](https://ja.wikipedia.org/wiki/ほっとないとHOKKAIDO)から翻訳されています。
 
 
 **ほっとないとHOKKAIDO**（ほっとないとほっかいどう・Hot Night HOKKAIDO）は、[北海道放送](../Page/北海道放送.md "wikilink")にて放送されたテレビ番組である。

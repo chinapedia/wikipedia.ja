@@ -1,4 +1,4 @@
-> この記事は[ALEX \(\)](https://ja.wikipedia.org/wiki/ALEX_\(\))から翻訳されています。
+> この記事は[ALEX \(ファッションモデル\)](https://ja.wikipedia.org/wiki/ALEX_\(ファッションモデル\))から翻訳されています。
 
 
 **ALEX**（アレク、[1988年](../Page/1988年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。ロックバンド「[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")」の元[ギタリスト](../Page/ギタリスト.md "wikilink")。本名は**鬼澤アレクサンダー礼門**（おにざわアレクサンダーれいもん）で、**鬼澤 礼門**の名で[写真家](../Page/写真家.md "wikilink")として活動している。
@@ -23,7 +23,7 @@
 
 ### CM
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") CONCERT TOUR 2000（[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")）
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") CONCERT TOUR 2000（[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")）
   - SALON STYLE（[コーセー](../Page/コーセー.md "wikilink")）
 
 ### 雑誌
@@ -31,7 +31,7 @@
   - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）
   - [MR. High Fashion](../Page/ハイファッション.md "wikilink")（[文化出版局](https://ja.wikipedia.org/wiki/文化服装学院#文化出版局 "wikilink")）
   - [POPEYE](../Page/POPEYE.md "wikilink")（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")（[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")）
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")（[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")）
   - [Boon](https://ja.wikipedia.org/wiki/Boon_\(雑誌\) "wikilink")（[祥伝社](../Page/祥伝社.md "wikilink")）
   - [Men's JOKER](../Page/Men's_JOKER.md "wikilink")（[KKベストセラーズ](../Page/ベストセラーズ.md "wikilink")）
 

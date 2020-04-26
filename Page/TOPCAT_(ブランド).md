@@ -1,4 +1,4 @@
-> この記事は[TOPCAT \(\)](https://ja.wikipedia.org/wiki/TOPCAT_\(\))から翻訳されています。
+> この記事は[TOPCAT \(ブランド\)](https://ja.wikipedia.org/wiki/TOPCAT_\(ブランド\))から翻訳されています。
 
 
 **TOPCAT**（**トップキャット**）は、有限会社アルティエの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。
@@ -7,9 +7,9 @@
 
 同じ[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")メーカーに勤めていた鷹取兵馬やSKYらが退職後に意気投合し、設立された\[1\]。
 
-『雪色のカルテ』などで他メーカーにない独特の路線が注目されていたが、[2000年](../Page/2000年.md "wikilink")に発売した『[果てしなく青い、この空の下で…。](https://ja.wikipedia.org/wiki/果てしなく青い、この空の下で…。 "wikilink")』が[PlayStationに移植されるほどのヒットとなった](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。[ちよれん](../Page/ちよれん.md "wikilink")に加盟していた時期があったが、[2001年](../Page/2001年.md "wikilink")、次回作だった『ReNN』の制作中断をきっかけに『ReNN』を発売後、活動を一時休止した。 その後、サブブランドとして「**Mercurius**」を立ち上げ、活動を続ける。
+『雪色のカルテ』などで他メーカーにない独特の路線が注目されていたが、[2000年](../Page/2000年.md "wikilink")に発売した『[果てしなく青い、この空の下で…。](../Page/果てしなく青い、この空の下で…。.md "wikilink")』が[PlayStationに移植されるほどのヒットとなった](../Page/PlayStation_\(ゲーム機\).md "wikilink")。[ちよれん](../Page/ちよれん.md "wikilink")に加盟していた時期があったが、[2001年](../Page/2001年.md "wikilink")、次回作だった『ReNN』の制作中断をきっかけに『ReNN』を発売後、活動を一時休止した。 その後、サブブランドとして「**Mercurius**」を立ち上げ、活動を続ける。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、ホームページをリニューアルし、TOPCATの活動再開を告知。[CIRCUSのゲーム](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")『[AR 〜忘れられた夏〜](https://ja.wikipedia.org/wiki/AR_〜忘れられた夏〜 "wikilink")』などの開発を担当した。
+[2005年](../Page/2005年.md "wikilink")、ホームページをリニューアルし、TOPCATの活動再開を告知。[CIRCUSのゲーム](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")『[AR 〜忘れられた夏〜](../Page/AR_〜忘れられた夏〜.md "wikilink")』などの開発を担当した。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月、TOPCATブランドでの新作を開発中であることを発表。[2009年](../Page/2009年.md "wikilink")11月に『[アトリの空と真鍮の月](https://ja.wikipedia.org/wiki/アトリの空と真鍮の月 "wikilink")』の発売でゲームメーカーとしての復活を果たし、同作にあわせてフルボイス化などを行なった『果てしなく青い、この空の下で…。完全版』も発売された。
 
@@ -21,7 +21,7 @@
 
 ## フリーウェア
 
-過去に発売した『ZAP\! THE MAGIC』並びに『ReNN』はメーカー公式サイトにおいて[フリーウェア](../Page/フリーウェア.md "wikilink")として公開されている（公式サイトトップページの下部参照）。また、『[TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")』2008年11月号には『MESSENGER FROM DARK NIGHT』Windows版が収録された。
+過去に発売した『ZAP\! THE MAGIC』並びに『ReNN』はメーカー公式サイトにおいて[フリーウェア](../Page/フリーウェア.md "wikilink")として公開されている（公式サイトトップページの下部参照）。また、『[TECH GIAN](../Page/TECH_GIAN.md "wikilink")』2008年11月号には『MESSENGER FROM DARK NIGHT』Windows版が収録された。
 
 いずれもゲーム内容は製品版と変わりないが、公開当時の現行OS (Windows XP/Vista) に対応している。
 
@@ -37,11 +37,11 @@
 
 :\*1999年9月2日 - [L 〜エル〜](https://ja.wikipedia.org/wiki/L_〜エル〜 "wikilink")
 
-:\*2000年6月30日 - [果てしなく青い、この空の下で…。](https://ja.wikipedia.org/wiki/果てしなく青い、この空の下で…。 "wikilink")
+:\*2000年6月30日 - [果てしなく青い、この空の下で…。](../Page/果てしなく青い、この空の下で…。.md "wikilink")
 
 :\*2001年11月22日 - [ReNN 〜Another Story of WORKS DOLL〜](https://ja.wikipedia.org/wiki/ReNN_〜Another_Story_of_WORKS_DOLL〜 "wikilink")
 
-:\*2009年10月30日 - [果てしなく青い、この空の下で…。](https://ja.wikipedia.org/wiki/果てしなく青い、この空の下で…。 "wikilink")完全版
+:\*2009年10月30日 - [果てしなく青い、この空の下で…。](../Page/果てしなく青い、この空の下で…。.md "wikilink")完全版
 
 :\*2009年11月27日 - [アトリの空と真鍮の月](https://ja.wikipedia.org/wiki/アトリの空と真鍮の月 "wikilink")
 
@@ -59,9 +59,9 @@
 
 :\*[雪色のカルテ](https://ja.wikipedia.org/wiki/雪色のカルテ "wikilink")（ブランド名:Peach）
 
-:\*[AR 〜忘れられた夏〜](https://ja.wikipedia.org/wiki/AR_〜忘れられた夏〜 "wikilink")（ブランド名:CIRCUS）
+:\*[AR 〜忘れられた夏〜](../Page/AR_〜忘れられた夏〜.md "wikilink")（ブランド名:CIRCUS）
 
-:\*[D.C.P.K. 〜ダ・カーポーカー〜](https://ja.wikipedia.org/wiki/D.C.P.K._〜ダ・カーポーカー〜 "wikilink")（ブランド名:CIRCUS）\[3\]
+:\*[D.C.P.K. 〜ダ・カーポーカー〜](../Page/D.C.P.K._〜ダ・カーポーカー〜.md "wikilink")（ブランド名:CIRCUS）\[3\]
 
 :\*[操心術3](https://ja.wikipedia.org/wiki/操心術3 "wikilink")（ブランド名:STUDIO 邪恋）- 開発に参加\[4\]。
 
@@ -84,7 +84,7 @@
 ## 関連項目
 
   - [たかみち](../Page/たかみち.md "wikilink") - 「果てしなく青い、この空の下で…。」「みずのかけら」等の原画を手がけた。
-  - [緒方剛志](https://ja.wikipedia.org/wiki/緒方剛志 "wikilink") - 「ぼうのうと」名義で原画に参加した。参加作品は記事参照。
+  - [緒方剛志](../Page/緒方剛志.md "wikilink") - 「ぼうのうと」名義で原画に参加した。参加作品は記事参照。
   - [最終試験くじら](https://ja.wikipedia.org/wiki/最終試験くじら "wikilink") - 専属ライターの鷹取兵馬がシナリオを一部手がけた。
   - [水月陵](../Page/水月陵.md "wikilink")（KIYO） - 「果てしなく青い、この空の下で…。」以降のTOPCAT、Mercurius作品の音楽を一部手がけている。
 

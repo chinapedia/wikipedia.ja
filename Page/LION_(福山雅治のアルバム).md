@@ -1,4 +1,4 @@
-> この記事は[LION \(\)](https://ja.wikipedia.org/wiki/LION_\(\))から翻訳されています。
+> この記事は[LION \(福山雅治のアルバム\)](https://ja.wikipedia.org/wiki/LION_\(福山雅治のアルバム\))から翻訳されています。
 
 
 『**LION**』（ライオン）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が[1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にリリースした2枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。

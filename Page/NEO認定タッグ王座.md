@@ -1,4 +1,4 @@
-> この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
+> この記事は[NEO認定タッグ王座](https://ja.wikipedia.org/wiki/NEO認定タッグ王座)から翻訳されています。
 
 
 **NEO認定タッグ王座**（NEOにんていタッグおうざ）は、[NEO女子プロレス](../Page/NEO女子プロレス.md "wikilink")が管理、認定する[フラッグシップタイトル](../Page/チャンピオンベルト.md "wikilink")。

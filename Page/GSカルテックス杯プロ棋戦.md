@@ -1,4 +1,4 @@
-> この記事は[GS](https://ja.wikipedia.org/wiki/GS)から翻訳されています。
+> この記事は[GSカルテックス杯プロ棋戦](https://ja.wikipedia.org/wiki/GSカルテックス杯プロ棋戦)から翻訳されています。
 
 
 **GSカルテックス杯プロ棋戦**（GSかるてっくすはいプロきせん、GS칼텍스배 프로기전）は、[韓国の](../Page/大韓民国.md "wikilink")[囲碁](../Page/囲碁.md "wikilink")の[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1995年に、**テクロン杯プロ棋戦**として創設。1999年からは**LG精油杯プロ棋戦**に改名。2005年からは現在の名称となる。

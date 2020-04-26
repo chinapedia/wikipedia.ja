@@ -1,4 +1,4 @@
-> この記事は[100%Pure Love](https://ja.wikipedia.org/wiki/100%Pure_Love)から翻訳されています。
+> この記事は[愛・愛〜100%・Pure Love〜](https://ja.wikipedia.org/wiki/愛・愛〜100%・Pure_Love〜)から翻訳されています。
 
 
 「**愛♡愛〜100％♥Pure Love〜**」（あいあいあい〜ひゃくパーセント・ピュア・ラブ〜）は、[2001年](../Page/2001年.md "wikilink")11月にリリースされた[松田聖子](../Page/松田聖子.md "wikilink")の56枚目の[シングル](../Page/シングル.md "wikilink")である。
@@ -17,13 +17,13 @@
       - 作詞:Seiko Matsuda,原田真二／作曲,編曲:原田真二
 2.  Ding Dong \[4:54\]
       - 作詞:Seiko Matsuda,原田真二／作曲,編曲:原田真二
-3.  愛♡愛〜100％♥Pure Love〜（[Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）\[4:59\]
+3.  愛♡愛〜100％♥Pure Love〜（[Instrumental](../Page/器楽曲.md "wikilink")）\[4:59\]
 4.  Ding Dong（Instrumental）\[4:51\]
 
 ## 関連作品
 
   - **愛♡愛〜100%♥Pure Love〜**
-      - [LOVE & EMOTION VOL.2](https://ja.wikipedia.org/wiki/LOVE_&_EMOTION_VOL.2 "wikilink")（アルバム・バージョン）
+      - [LOVE & EMOTION VOL.2](../Page/LOVE_&_EMOTION_VOL.2.md "wikilink")（アルバム・バージョン）
 
 <!-- end list -->
 
@@ -32,6 +32,6 @@
 
 ## 関連項目
 
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
 
 [Category:松田聖子の楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子の楽曲 "wikilink") [Category:松田聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松田聖子が制作した楽曲 "wikilink") [Category:原田真二が制作した楽曲](https://ja.wikipedia.org/wiki/Category:原田真二が制作した楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

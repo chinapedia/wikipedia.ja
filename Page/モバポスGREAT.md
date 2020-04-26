@@ -1,4 +1,4 @@
-> この記事は[GREAT](https://ja.wikipedia.org/wiki/GREAT)から翻訳されています。
+> この記事は[モバポスGREAT](https://ja.wikipedia.org/wiki/モバポスGREAT)から翻訳されています。
 
 
 **モバポスGREAT**（モバポスぐれーと）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで毎週[水曜日](../Page/水曜日.md "wikilink")24:29 - 24:59（[JST](../Page/日本標準時.md "wikilink")）で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

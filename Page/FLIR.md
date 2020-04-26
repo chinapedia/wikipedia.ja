@@ -15,16 +15,15 @@
 
 ## FLIRの用途
 
-  - [捜索救難](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")活動
-  - 流域の温度や[野生動物](../Page/野生動物.md "wikilink")（狩猟動物）の生息地のモニタリング
+  - [捜索](../Page/捜索.md "wikilink")、[救難活動](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")\[2\]
+      - 消防活動において[煙](../Page/煙.md "wikilink")や壁を透過して生存者を探す
+  - 流域の温度や[野生動物](../Page/野生動物.md "wikilink")の生息地のモニタリング\[3\]
   - [エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")損失の検出や[省エネルギー](../Page/省エネルギー.md "wikilink")のための断熱性の検証
   - [軍用機](../Page/軍用機.md "wikilink")における標的捕捉と追尾
-  - [計器飛行](https://ja.wikipedia.org/wiki/計器飛行 "wikilink")（IFR）における[航空機](../Page/航空機.md "wikilink")の先導
+  - [計器飛行](https://ja.wikipedia.org/wiki/計器飛行 "wikilink") (IFR) における[航空機](../Page/航空機.md "wikilink")の先導
   - [道路](../Page/道路.md "wikilink")上での[鹿や他の獣を運転者に警告](../Page/シカ.md "wikilink")
-  - 消防活動において[煙](../Page/煙.md "wikilink")や壁を透過して生存者を探す
-  - [森林](../Page/森林.md "wikilink")や水上における[捜索救難](https://ja.wikipedia.org/wiki/捜索救難 "wikilink")任務
-  - [天然ガス](../Page/天然ガス.md "wikilink")や他の[ガスの漏れの検出](../Page/気体.md "wikilink")
-  - [活火山](../Page/活火山.md "wikilink")の監視
+  - [天然ガス](../Page/天然ガス.md "wikilink")や他の[ガスの漏れの検出](../Page/気体.md "wikilink")\[4\]
+  - [火山活動の監視](https://ja.wikipedia.org/wiki/火山作用 "wikilink")\[5\]
   - [配電盤](https://ja.wikipedia.org/wiki/配電盤 "wikilink")などの機器内部における過熱部位の検出
 
 ## 脚注
@@ -38,6 +37,7 @@
   -
   -
   -
+  -
 ## 外部リンク
 
   - [Electro-Optical Systems](http://www.ausairpower.net/TE-EO-Systems.html)
@@ -45,6 +45,10 @@
   - [Thermal Imaging Equipment](http://thermalvideo.com)
   - [A wide variety of FLIR applications](http://www.eurasia.flir.com)
 
-[Category:アビオニクス](https://ja.wikipedia.org/wiki/Category:アビオニクス "wikilink") [Category:軍用光学機器](https://ja.wikipedia.org/wiki/Category:軍用光学機器 "wikilink")
+[Category:アビオニクス](https://ja.wikipedia.org/wiki/Category:アビオニクス "wikilink") [Category:軍用光学機器](https://ja.wikipedia.org/wiki/Category:軍用光学機器 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.
+2.
+3.
+4.
+5.

@@ -27,4 +27,4 @@
   - [+1](https://ja.wikipedia.org/wiki/+1_\(アルバム\) "wikilink") (\#1)
   - [5years](https://ja.wikipedia.org/wiki/5years "wikilink") (\#1)
 
-[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")

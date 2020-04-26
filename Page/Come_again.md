@@ -57,7 +57,7 @@ imdkmが[リアルサウンドに寄せた記事によると](https://ja.wikiped
 
 ### 出典
 
-[Category:M-floの楽曲](https://ja.wikipedia.org/wiki/Category:M-floの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
+[Category:M-floの楽曲](https://ja.wikipedia.org/wiki/Category:M-floの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 
 1.
 2.   Rolling Stone Japan(ローリングストーン ジャパン）|url=[https://rollingstonejapan.com/articles/detail/28311|website=Rolling](https://rollingstonejapan.com/articles/detail/28311%7Cwebsite=Rolling) Stone Japan|date=2018-05-04|accessdate=2020-03-09|language=ja}}

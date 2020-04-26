@@ -5,9 +5,9 @@
 
 ## 概要
 
-[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[小林武史](../Page/小林武史.md "wikilink")と[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](../Page/桜井和寿.md "wikilink")を中心とした[スーパーバンド](../Page/スーパーグループ.md "wikilink")\[1\]。小林と櫻井、そして[坂本龍一](../Page/坂本龍一.md "wikilink")によって設立された[非営利組織](https://ja.wikipedia.org/wiki/非営利組織 "wikilink")「[ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink")」の可能性を広げるために小林と櫻井が結成したグループで、イベントやフェスといったライブ活動やCDやDVDなどパッケージ製品からの収益はすべてap bankの活動資金や融資にあてられている\[2\]\[3\]。小林、櫻井以外のメンバーは固定されておらず、彼らと親交の深いアーティストが活動の度ごとに参加する形をとっている\[4\]。当初は櫻井をボーカルに据えてカバーをメインにやっていたが、2005年の『ap bank fes '05』開催を機にアーティストを迎え入れてバックバンドとしても活動するようになった\[5\]。
+[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[小林武史](../Page/小林武史.md "wikilink")と[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[櫻井和寿を中心とした](../Page/桜井和寿.md "wikilink")[スーパーバンド](../Page/スーパーグループ.md "wikilink")\[1\]。小林と櫻井、そして[坂本龍一](../Page/坂本龍一.md "wikilink")によって設立された[非営利組織](https://ja.wikipedia.org/wiki/非営利組織 "wikilink")「[ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink")」の可能性を広げるために小林と櫻井が結成したグループで、イベントやフェスといったライブ活動やCDやDVDなどパッケージ製品からの収益はすべてap bankの活動資金や融資にあてられている\[2\]\[3\]。小林、櫻井以外のメンバーは固定されておらず、彼らと親交の深いアーティストが活動の度ごとに参加する形をとっている\[4\]。当初は櫻井をボーカルに据えてカバーをメインにやっていたが、[2005年](../Page/2005年.md "wikilink")の『[ap bank fes '05](https://ja.wikipedia.org/wiki/ap_bank_fes_'05 "wikilink")』開催を機にアーティストを迎え入れてバックバンドとしても活動するようになった\[5\]。
 
-ライブ活動を中心としたグループであり、披露される楽曲は他アーティストからのカヴァーが目立つ。これまで披露されたカヴァーは通算40曲以上に及ぶが、特に桜井が敬愛する邦楽アーティストの楽曲を中心に（影響を公言する[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")など）選曲されている。2曲以上CDにて選曲されたミュージシャンは浜田省吾、[RCサクセション](../Page/RCサクセション.md "wikilink")、[ヒートウェイヴ](../Page/ヒートウェイヴ.md "wikilink")など。また、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のセルフカバーも行っている。一方、桜井自身が敬愛を公言しながら未だカヴァーしていないミュージシャンもあり、その代表格であった[BUMP OF CHICKENに関しては](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、「彼ら自身が演奏しないと意味を持たないし、説得力がないと思ってる」\[6\]と語っていた\[7\]。
+ライブ活動を中心としたグループであり、披露される楽曲は他アーティストからのカバーが目立つ。これまで披露されたカバーは通算40曲以上に及ぶが、特に櫻井が敬愛する邦楽アーティストの楽曲を中心に（影響を公言する[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")など）選曲されている。2曲以上CDにて選曲されたミュージシャンは浜田省吾、[RCサクセション](../Page/RCサクセション.md "wikilink")、[ヒートウェイヴ](../Page/ヒートウェイヴ.md "wikilink")など。また、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[セルフカバー](../Page/セルフカバー.md "wikilink")も行っている。一方、桜井自身が敬愛を公言しながら未だカバーしていないミュージシャンもあり、その代表格であった[BUMP OF CHICKENに関しては](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、「**彼ら自身が演奏しないと意味を持たないし、説得力がないと思ってる**」\[6\]と語っていた\[7\]。
 
 ## 来歴
 
@@ -27,198 +27,77 @@
 
 ## メンバー
 
-小林と櫻井以外のメンバーは流動的。参加作品の表記がないメンバーは全作品・全ライブに参加。またシングル「to U」収録の「生まれくる子供たちのために」は、参加メンバーのクレジットが無く不明。
+小林と櫻井以外のメンバーは流動的。参加作品の表記がないメンバーは全作品・全ライブに参加。またシングル「[to U](https://ja.wikipedia.org/wiki/to_U "wikilink")」収録の「生まれくる子供たちのために」は、参加メンバーのクレジットが無く不明。
 
   - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") & [Guitar](../Page/ギター.md "wikilink")
-
-<!-- end list -->
-
-  - [櫻井和寿](https://ja.wikipedia.org/wiki/櫻井和寿 "wikilink")\[16\]
-
-<!-- end list -->
-
+      - [櫻井和寿](../Page/桜井和寿.md "wikilink")\[16\]
   - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
-
-<!-- end list -->
-
-  - [小林武史](../Page/小林武史.md "wikilink")
-
-<!-- end list -->
-
+      - [小林武史](../Page/小林武史.md "wikilink")
   - [Drums](../Page/ドラムセット.md "wikilink")
-
-<!-- end list -->
-
-  - [山木秀夫](../Page/山木秀夫.md "wikilink") (沿志奏逢1 - 3/ BGM Vol.1, 2/ ap bank fes '05, '06, '08)
-  - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村"カースケ"智康 "wikilink") (沿志奏逢2, 3/ ap bank fes '07, '09 - '18)
-  - [神宮司治](../Page/神宮司治.md "wikilink")（ap bank fes '18）
-
-<!-- end list -->
-
+      - [山木秀夫](../Page/山木秀夫.md "wikilink") (沿志奏逢1 - 3 / BGM Vol.1, 2 / ap bank fes '05, '06, '08)
+      - [河村 "カースケ" 智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink") ( 沿志奏逢2, 3/ ap bank fes '07, '09 - '18)
+      - [神宮司治](../Page/神宮司治.md "wikilink")（ap bank fes '18）
   - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
-
-<!-- end list -->
-
-  - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") (沿志奏逢1, 2/ BGM Vol.1, 2)
-  - [亀田誠治](../Page/亀田誠治.md "wikilink") (沿志奏逢2, 3/ ap bank fes '05 - '18)
-  - [TOKIE](../Page/TOKIE.md "wikilink") (沿志奏逢2)
-
-<!-- end list -->
-
+      - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") (沿志奏逢1, 2 / BGM Vol.1, 2)
+  - [亀田誠治](../Page/亀田誠治.md "wikilink") (沿志奏逢2, 3 / ap bank fes '05 - '18)
+      - [TOKIE](../Page/TOKIE.md "wikilink") (沿志奏逢2)
   - Guitar
-
-<!-- end list -->
-
-  - [古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink") (沿志奏逢1, 2/ BGM Vol.1, 2)
-  - [小倉博和](../Page/小倉博和.md "wikilink") (沿志奏逢2, 3/ ap bank fes '05 - '18)
-  - [高野寛](../Page/高野寛.md "wikilink") (沿志奏逢2)
-
-<!-- end list -->
-
+      - [古川昌義](../Page/古川昌義.md "wikilink") (沿志奏逢1, 2 / BGM Vol.1, 2)
+      - [小倉博和](../Page/小倉博和.md "wikilink") (沿志奏逢2, 3 / ap bank fes '05 - '18)
+      - [高野寛](../Page/高野寛.md "wikilink") (沿志奏逢2)
   - [Saxophone](../Page/サクソフォーン.md "wikilink") / [Flute](../Page/フルート.md "wikilink")
-
-<!-- end list -->
-
-  - [山本拓夫](../Page/山本拓夫.md "wikilink")
-
-<!-- end list -->
-
+      - [山本拓夫](../Page/山本拓夫.md "wikilink")
   - [Trumpet](../Page/トランペット.md "wikilink")
-
-<!-- end list -->
-
-  - 西村浩二 (沿志奏逢2, 3/ ap bank fes '06 - Reborn-Art Festival 2017×ap bank fes)
-  - 小澤篤士 (ap bank fes '18)
-
-<!-- end list -->
-
+      - 西村浩二 (沿志奏逢2, 3 / ap bank fes '06 - Reborn-Art Festival 2017 × ap bank fes)
+      - 小澤篤士 (ap bank fes '18)
   - [Percussion](../Page/パーカッション.md "wikilink")
-
-<!-- end list -->
-
-  - 藤井珠緒 (沿志奏逢2, 3/ ap bank fes '06 - '12)
-
-<!-- end list -->
-
-  - [Cello](../Page/チェロ.md "wikilink")
-
-<!-- end list -->
-
-  - 四家卯大 \[17\]
-
-<!-- end list -->
-
+      - 藤井珠緒 (沿志奏逢2, 3 / ap bank fes '06 - '12)
+      - [Cello](../Page/チェロ.md "wikilink")
+      - 四家卯大 \[17\]
   - [Violin](../Page/ヴィオラ_\(曖昧さ回避\).md "wikilink")
-
-<!-- end list -->
-
-  - 沖祥子 (沿志奏逢2・3/ ap bank fes '05 - '18) \[18\]
-  - 田島朗子 (沿志奏逢3/ ap bank fes '05 - '12) \[19\]
-  - 伊勢三木子 (沿志奏逢2)
-
-<!-- end list -->
-
+      - 沖祥子 (沿志奏逢2, 3 / ap bank fes '05 - '18) \[18\]
+      - 田島朗子 (沿志奏逢3 / ap bank fes '05 - '12) \[19\]
+      - 伊勢三木子 (沿志奏逢2)
   - [Viola](https://ja.wikipedia.org/wiki/ビオラ "wikilink")
-
-<!-- end list -->
-
-  - 菊地幹代 (沿志奏逢2, 3/ ap bank fes '06 - '12)
-
-<!-- end list -->
-
+      - 菊地幹代 (沿志奏逢2, 3 / ap bank fes '06 - '12)
   - [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-
-<!-- end list -->
-
-  - イシイモモコ (沿志奏逢2, 3/ ap bank fes '06 - '18)
-  - 登坂亮太 (沿志奏逢 2, 3/ ap bank fes '05 - '12) \[20\]
-  - 小田原ODY友洋 (Reborn-Art Festival×ap bank fes 2016 - ap bank fes '18)
-
-<!-- end list -->
-
+      - イシイモモコ (沿志奏逢2, 3 / ap bank fes '06 - '18)
+      - 登坂亮太 (沿志奏逢 2, 3 / ap bank fes '05 - '12) \[20\]
+      - 小田原ODY友洋 (Reborn-Art Festival × ap bank fes 2016 - ap bank fes '18)
   - [Feat.Vocal](../Page/フィーチャリング.md "wikilink")
-
-<!-- end list -->
-
-  - [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")「to U」(シングル『to U』、アルバム『沿志奏逢2』)
-  - [GAKU-MC](../Page/GAKU-MC.md "wikilink")「昨日のNo, 明日のYes」(アルバム『沿志奏逢2』)
+      - [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")「to U」（シングル『to U』、アルバム『沿志奏逢2』）
+      - [GAKU-MC](../Page/GAKU-MC.md "wikilink")「昨日のNo, 明日のYes」（アルバム『沿志奏逢2』）
 
 ### サポート・ミュージシャン
 
   - Keyboards
-
-<!-- end list -->
-
-  - 安達練(BGM Vol.2/ ap bank fes '05)
-
-<!-- end list -->
-
+      - 安達練 (BGM Vol.2 / ap bank fes '05)
   - Viola
+      - 西森記子 (ap bank fes '05)
 
-<!-- end list -->
-
-  - 西森記子 (ap bank fes '05)
-
-#### Bank Band Trinity
+### Bank Band Trinity
 
 クラブイベント「[AP BANG\! 東京環境会議 vol.1](https://ja.wikipedia.org/wiki/ap_bank#AP_BANG!_東京環境会議_TOKYO_CREATORS_MEETING "wikilink")」のホスト役としてアーティストを迎え入れるために特別に編成された。
 
   - Keybords
-
-<!-- end list -->
-
-  - 小林武史
-
-<!-- end list -->
-
+      - 小林武史
   - Guitar
-
-<!-- end list -->
-
-  - 高野寛
-
-<!-- end list -->
-
+      - 高野寛
   - Bass
-
-<!-- end list -->
-
-  - TOKIE
-
-<!-- end list -->
-
+      - TOKIE
   - Drums
-
-<!-- end list -->
-
-  - [椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")
-
-<!-- end list -->
-
+      - [椎野恭一](https://ja.wikipedia.org/wiki/椎野恭一 "wikilink")
   - Percussion
-
-<!-- end list -->
-
-  - 藤井珠緒
-
-<!-- end list -->
-
-  - Keybords&[DJ](../Page/ディスクジョッキー.md "wikilink")
-
-<!-- end list -->
-
-  - Toshihiko Mori a.k.a [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")
-
-<!-- end list -->
-
+      - 藤井珠緒
+  - Keybords & [DJ](../Page/ディスクジョッキー.md "wikilink")
+      - Toshihiko Mori a.k.a [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")
   - Chorus
-
-<!-- end list -->
-
-  - イシイモモコ
-  - 登坂亮太
+      - イシイモモコ
+      - 登坂亮太
 
 ## 参加イベント
+
+※[ap bank fesも参照](https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes "wikilink")
 
   - BGM ～Bank with Gift of Music for ap bank Vol.01(以下「BGM Vol.1」)
   - [BGM Vol.2 〜沿志奏逢](../Page/BGM_Vol.2_〜沿志奏逢.md "wikilink")
@@ -267,15 +146,12 @@
 <tr class="odd">
 <td><p>2005年10月31日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/to_U#収録曲" title="wikilink">生まれくる子供たちのために</a></p></td>
-<td><p>iTunes Storeで期間限定配信。後に「<a href="https://ja.wikipedia.org/wiki/to_U" title="wikilink">to U</a>」のカップリングに収録。<br />
-<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系終戦</a>60周年スペシャルドラマ『火垂るの墓』主題歌</p></td>
+<td><p>iTunes Storeで期間限定配信。後に「<a href="https://ja.wikipedia.org/wiki/to_U" title="wikilink">to U</a>」のカップリングに収録。</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年9月1日</p></td>
 <td><p><a href="../Page/はるまついぶき.md" title="wikilink">はるまついぶき</a></p></td>
-<td><p>着うたサイト（期間限定）・iTunes Storeで配信。後に『<a href="../Page/沿志奏逢2.md" title="wikilink">沿志奏逢2</a>』に収録。<br />
-<a href="../Page/松竹.md" title="wikilink">松竹</a>系映画『<a href="../Page/ミッドナイト・イーグル.md" title="wikilink">ミッドナイト・イーグル</a>』主題歌<br />
-<a href="../Page/ネスレ日本.md" title="wikilink">Nestlé</a>「<a href="../Page/キットカット.md" title="wikilink">KitKat</a>」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
+<td><p>着うたサイト（期間限定）・iTunes Storeで配信。後に『<a href="../Page/沿志奏逢2.md" title="wikilink">沿志奏逢2</a>』に収録。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年7月15日</p></td>
@@ -286,13 +162,13 @@
 <tr class="even">
 <td><p>2016年7月20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/こだま、ことだま。" title="wikilink">こだま、ことだま。</a></p></td>
-<td><p>iTunes Store・レコチョクなどで配信。<br />
-<a href="https://ja.wikipedia.org/wiki/東京地下鉄" title="wikilink">東京メトロキャンペーン</a>「Find my Tokyo.」CMソング</p></td>
+<td><p>iTunes Store・レコチョクなどで配信。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年7月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MESSAGE_-メッセージ-" title="wikilink">MESSAGE -メッセージ- (Bank Band with Salyu)</a></p></td>
-<td><p>iTunes Store・moraなどで配信。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MESSAGE_-メッセージ-" title="wikilink">MESSAGE -メッセージ-</a></p></td>
+<td><p>Bank Band with <a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a>名義。<br />
+iTunes Store・moraなどで配信。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -311,9 +187,8 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p>規格品番</p></th>
-<th><p>収録曲</p></th>
-<th><p>備考</p></th>
+<th><p>規格品番 &lt;!--! --style="width:20%;"| 収録曲</p></th>
+<th><p>備考--&gt;</p></th>
 </tr>
 </thead>
 <tbody>
@@ -322,8 +197,8 @@
 <td><p>2005年3月30日</p></td>
 <td><p><strong><a href="../Page/BGM_Vol.2_〜沿志奏逢.md" title="wikilink">BGM Vol.2 〜沿志奏逢</a></strong></p></td>
 <td><p>2DVD</p></td>
-<td><p>TFBQ-18056</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18056 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -373,15 +248,15 @@
 </ol>
 </div>
 </div></td>
-<td><p>2004年11月に東京と大阪で開催されたライブ「BGM Vol.2 〜沿志奏逢」の模様や小林・櫻井のインタビューを収録。</p></td>
+<td><p>2004年11月に東京と大阪で開催されたライブ「BGM Vol.2 〜沿志奏逢」の模様や小林・櫻井のインタビューを収録。--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2005年12月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;05" title="wikilink">ap bank fes '05</a></strong></p></td>
-<td><p>3DVD+写真集</p></td>
-<td><p>TFBQ-18060</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>3DVD</p></td>
+<td><p>TFBQ-18060 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -460,15 +335,15 @@
 </ol>
 </div>
 </div></td>
-<td><p>2005年7月16日から18日までの3日間にかけて、<a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="../Page/掛川市.md" title="wikilink">掛川市</a>の<a href="https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋" title="wikilink">つま恋多目的広場で開催されたap</a> bank主催の<a href="../Page/ロック・フェスティバル.md" title="wikilink">野外フェスティバル</a>「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;05" title="wikilink">ap bank fes '05</a>」でのライブ映像やドキュメンタリー映像を収録。</p></td>
+<td><p>2005年7月16日から18日までの3日間にかけて、<a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="../Page/掛川市.md" title="wikilink">掛川市</a>の<a href="https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋" title="wikilink">つま恋多目的広場で開催されたap</a> bank主催の<a href="../Page/ロック・フェスティバル.md" title="wikilink">野外フェスティバル</a>「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;05" title="wikilink">ap bank fes '05</a>」でのライブ映像やドキュメンタリー映像を収録。--&gt;</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2006年12月20日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;06" title="wikilink">ap bank fes '06</a></strong></p></td>
 <td><p>3DVD</p></td>
-<td><p>TFBQ-18068</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18068 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -562,15 +437,15 @@
 </ol>
 </div>
 </div></td>
-<td><p>2006年7月15日から17日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;06" title="wikilink">ap bank fes '06</a>」でのライブ映像やドキュメンタリー映像を収録。</p></td>
+<td><p>2006年7月15日から17日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;06" title="wikilink">ap bank fes '06</a>」でのライブ映像やドキュメンタリー映像を収録。--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2008年1月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;07" title="wikilink">ap bank fes '07</a></strong></p></td>
 <td><p>3DVD</p></td>
-<td><p>TFBQ-18081</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18081 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -636,8 +511,8 @@
 <td><p>2009年2月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;08" title="wikilink">ap bank fes '08</a></strong></p></td>
 <td><p>3DVD</p></td>
-<td><p>TFBQ-18096</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18096 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -731,15 +606,15 @@
 </ol>
 </div>
 </div></td>
-<td><p>2008年7月19日から21日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;08" title="wikilink">ap bank fes '08</a>」でのライブ映像やドキュメンタリー映像を収録。</p></td>
+<td><p>2008年7月19日から21日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;08" title="wikilink">ap bank fes '08</a>」でのライブ映像やドキュメンタリー映像を収録。--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2010年4月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;09" title="wikilink">ap bank fes '09</a></strong></p></td>
 <td><p>3DVD</p></td>
-<td><p>TFBQ-18108</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18108 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -831,15 +706,15 @@
 </ol>
 </div>
 </div></td>
-<td><p>2009年7月18日から20日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;09" title="wikilink">ap bank fes '09</a>」でのライブ映像やドキュメンタリー映像を収録。</p></td>
+<td><p>2009年7月18日から20日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;09" title="wikilink">ap bank fes '09</a>」でのライブ映像やドキュメンタリー映像を収録。--&gt;</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2011年7月6日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;10" title="wikilink">ap bank fes '10</a></strong></p></td>
 <td><p>3DVD</p></td>
-<td><p>TFBQ-18117</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18117 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -917,15 +792,15 @@
 </ol>
 </div>
 </div></td>
-<td><p>2010年7月17日から19日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;10" title="wikilink">ap bank fes '10</a>」でのライブ映像やドキュメンタリー映像を収録。このDVDの収益は全額震災復興支援プロジェクト「ap bank Fund for Japan」に寄付され、2011年3月11日に発生した東日本大震災の復興支援に充てられる。</p></td>
+<td><p>2010年7月17日から19日までの3日間にかけて、同所で開催されたap bank主催の野外フェスティバル「<a href="https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes_&#39;10" title="wikilink">ap bank fes '10</a>」でのライブ映像やドキュメンタリー映像を収録。このDVDの収益は全額震災復興支援プロジェクト「ap bank Fund for Japan」に寄付され、2011年3月11日に発生した東日本大震災の復興支援に充てられる。--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2012年2月29日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;11_Fund_for_Japan" title="wikilink">ap bank fes '11 Fund for Japan</a></strong></p></td>
 <td><p>3DVD</p></td>
-<td><p>TFBQ-18128</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+<td><p>TFBQ-18128 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -1022,8 +897,8 @@
 <td><p>3Blu-ray<br />
 3DVD</p></td>
 <td><p>TFXQ-78110<br />
-TFBQ-18134</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
+TFBQ-18134 &lt;!--|</p>
+<div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
 </div>
@@ -1087,10 +962,9 @@ TFBQ-18134</p></td>
 </ol>
 </div>
 </div></td>
-<td><p>2011年に引き続き東日本の復興支援を掲げ、「Fund for Japan」としてつま恋と阪神淡路大震災の被災地・淡路、そして東日本大震災の被災地・宮城の3カ所で開催された「<a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;12" title="wikilink">ap bank fes '12</a>」でのライブ映像やドキュメンタリー映像を収録。</p></td>
+<td><p>2011年に引き続き東日本の復興支援を掲げ、「Fund for Japan」としてつま恋と阪神淡路大震災の被災地・淡路、そして東日本大震災の被災地・宮城の3カ所で開催された「<a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;12" title="wikilink">ap bank fes '12</a>」でのライブ映像やドキュメンタリー映像を収録。--&gt;</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1126,7 +1000,7 @@ TFBQ-18134</p></td>
 4.
 5.
 6.  [「沿志奏逢 ３」Release Special　櫻井和寿Interview（前編） - FEATURE - エコレゾ ウェブ](http://archive.eco-reso.jp/feature/bankband/20100630_3848.php)
-7.  その後、Bank Band再始動後の2016年、「Reborn-Art Festival × ap bank fes 2016」にて「[ロストマン](https://ja.wikipedia.org/wiki/ロストマン "wikilink")」をカバー。
+7.  その後、Bank Band再始動後の[2016年](../Page/2016年.md "wikilink")、『Reborn-Art Festival × ap bank fes 2016』にて「[ロストマン](https://ja.wikipedia.org/wiki/ロストマン "wikilink")」をカバー。
 8.
 9.
 10.

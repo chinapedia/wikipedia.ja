@@ -10,7 +10,6 @@
   - 同じVHF帯を使う[NHK旭川放送局](../Page/NHK旭川放送局.md "wikilink")旭山送信所とは場所が大きく離れているため送信所の方向が異なる一部地域ではVHFアンテナ2本とスタック用ミキサーが必要な場合があった。
   - 両局とも地上デジタル放送はUHF波を使用し、UHF受信アンテナも1本に済ませることから、すでにアナログUHFテレビ放送、FMラジオ放送を行っている[旭山](../Page/旭山.md "wikilink")にTVhを除く在札民放4局（そのTVhは1991年開局時の建物をそのまま使用）が共同で設置したデジタル送信所（NHKテレビ・FM送信所隣）から電波を送信しているが、2011年7月24日のアナログテレビ放送終了後もAMラジオの単独送信所として運用を継続している。
   - 両局とも[AMステレオ放送](../Page/AMステレオ放送.md "wikilink")は一貫して実施しなかったが、この地域でもAMステレオ放送を実施していた[札幌送信所が終日受信可能だった](../Page/江別ラジオ放送所.md "wikilink")（モノラル放送に戻した後も札幌送信所からの電波は終日受信可能）。また、テレビでも両局でアナログ波による音声多重放送は実施されず、[字幕放送](https://ja.wikipedia.org/wiki/字幕放送 "wikilink")とアナログデータ放送のみ実施されていた。
-  - FM補完中継局は2019年8月時点では旭川地区を含め、札幌圏以外の中継局は未開局だが、旭川送信所のエリアでは[手稲山](../Page/手稲山.md "wikilink")送信所からの電波を受信出来る場合もある。
 
 ## HBC東旭川送信所
 
@@ -119,15 +118,14 @@
   - 当初はアナログテレビの単独送信所として1959年12月23日に開設。1964年2月26日のラジオ送信所開設の際にテレビ・AMラジオ兼用の一体型送信所となったが、2011年7月24日のアナログテレビ放送終了後はSTVラジオ単独の送信所となった。ただし、放送局内建物は引き続き親会社である札幌テレビ放送の所有となっており、送信所の維持・管理も親会社が行なっている。
   - AMラジオの出力は開設当初は100Wで、その後1kWに、さらに1995年4月に現在の3kWに増力された。
   - STV旭川放送局の所在地はかつて旭川市中心部の4条9丁目（[拓銀ビル](../Page/北海道拓殖銀行.md "wikilink")=現・旭川北洋ビル）にあったが、[1996年](../Page/1996年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に送信所が置かれている現在地に移転した。
-  - ラジオのコールサインはJOWLであるが、アナログテレビはJOKY-TVと異なっている（JOWL-TVはSTV[帯広放送局がアナログテレビ放送で使用していた](../Page/帯広送信所.md "wikilink")。なお、「JOKY」のコールサインは他に使用しているテレビ・ラジオ放送局が無いためアナログテレビ放送終了とともにコールサインも事実上返上された。）。
-  - STVラジオの道北地区の周波数は旭川局・[留萌局](../Page/留萌ラジオ中継局.md "wikilink")・[名寄局](../Page/名寄ラジオ中継局.md "wikilink")・[稚内局](../Page/稚内ラジオ中継局.md "wikilink")・[遠別局で同一周波数の](../Page/遠別ラジオ中継局.md "wikilink")1197kHzとなっている。このため、これらの放送局のうち複数の放送局の電界強度が等しくなる地点では放送波が干渉して番組が聞き取りづらくなる場合がある。また、電界強度が低い地域では夜間稀に[茨城放送](../Page/茨城放送.md "wikilink")水戸局が混信する場合がある。その場合、札幌局を受信すると受信状態が改善される事がある。そのほか、[NHK北見放送局](../Page/NHK北見放送局.md "wikilink")[網走局の周波数](../Page/網走送信所.md "wikilink")(1188kHz)はSTVラジオとの周波数間隔が9kHzしか離れていないため、[石北峠](../Page/石北峠.md "wikilink")などで混信が発生する事もある。この場合は[札幌局](../Page/江別ラジオ放送所.md "wikilink")・旭川局・網走局・[北見局のいずれかの放送局のうち最も受信状態の良い周波数を受信することで混信を回避できる](../Page/北見中継局.md "wikilink")。
+  - ラジオのコールサインはJOWLであるが、アナログテレビはJOKY-TVと異なっている（JOWL-TVはSTV帯広放送局がアナログテレビ放送で使用していた。なお、「JOKY」のコールサインは他に使用しているテレビ・ラジオ放送局が無いためアナログテレビ放送終了とともにコールサインも事実上返上された。）。
 
 ※HBCとSTVの地上デジタルテレビジョン放送はHTB、UHBと共同で旭山にあるデジタル送信所（NHKテレビ・FM放送所隣）から送信されている。
 
 ## 放送エリア
 
   - テレビ…[旭川市](../Page/旭川市.md "wikilink")（神居町の一部は[旭川台場中継局](../Page/旭川台場中継局.md "wikilink")と[深川中継局](https://ja.wikipedia.org/wiki/深川中継局 "wikilink")のエリア）・[上川郡](../Page/上川郡_\(石狩国\).md "wikilink")（[上川町](../Page/上川町.md "wikilink")を除く。[鷹栖町](../Page/鷹栖町.md "wikilink")の一部は旭川台場中継局もカバー）全域と[和寒町](../Page/和寒町.md "wikilink")・[上富良野町](../Page/上富良野町.md "wikilink")の一部地域。
-  - ラジオ…旭川市・上川郡・[和寒町](../Page/和寒町.md "wikilink")・[上富良野町](../Page/上富良野町.md "wikilink")全域、[中富良野町](../Page/中富良野町.md "wikilink")・[富良野市](../Page/富良野市.md "wikilink")・[剣淵町](../Page/剣淵町.md "wikilink")・[士別市](../Page/士別市.md "wikilink")・[名寄市](../Page/名寄市.md "wikilink")・空知管内[深川市](../Page/深川市.md "wikilink")・[沼田町](../Page/沼田町.md "wikilink")・[秩父別町](../Page/秩父別町.md "wikilink")・[妹背牛町](../Page/妹背牛町.md "wikilink")・[幌加内町](../Page/幌加内町.md "wikilink")・[滝川市](../Page/滝川市.md "wikilink")・[歌志内市](https://ja.wikipedia.org/wiki/歌志内市 "wikilink")・[赤平市](../Page/赤平市.md "wikilink")・[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")・オホーツク管内[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")[留辺蘂地区の一部地域](../Page/留辺蘂町.md "wikilink")。\[1\]それ以外の地域でも、電波は弱まるが、[石狩振興局](https://ja.wikipedia.org/wiki/石狩振興局 "wikilink")管内及び空知管内南部の[岩見沢市](../Page/岩見沢市.md "wikilink")・[三笠市](../Page/三笠市.md "wikilink")・[美唄市](../Page/美唄市.md "wikilink")・[砂川市](../Page/砂川市.md "wikilink")・[奈井江町](../Page/奈井江町.md "wikilink")などでも当送信所の電波が受信できる場合がある。
+  - ラジオ…旭川市・上川郡・[和寒町](../Page/和寒町.md "wikilink")・[上富良野町](../Page/上富良野町.md "wikilink")全域、[中富良野町](../Page/中富良野町.md "wikilink")・[富良野市](../Page/富良野市.md "wikilink")・[剣淵町](../Page/剣淵町.md "wikilink")・[士別市](../Page/士別市.md "wikilink")・[名寄市](../Page/名寄市.md "wikilink")・空知管内[深川市](../Page/深川市.md "wikilink")・[沼田町](../Page/沼田町.md "wikilink")・[秩父別町](../Page/秩父別町.md "wikilink")・[妹背牛町](../Page/妹背牛町.md "wikilink")・[幌加内町](../Page/幌加内町.md "wikilink")・[滝川市](../Page/滝川市.md "wikilink")・[歌志内市](../Page/歌志内市.md "wikilink")・[赤平市](../Page/赤平市.md "wikilink")・[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")・オホーツク管内[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")[留辺蘂地区の一部地域](../Page/留辺蘂町.md "wikilink")。\[1\]
 
 ## 脚注
 

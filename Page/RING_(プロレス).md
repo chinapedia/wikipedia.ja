@@ -78,7 +78,7 @@
 
 <!-- end list -->
 
-  - [HIRO](https://ja.wikipedia.org/wiki/HIRO "wikilink")\]\]
+  - [HIRO](https://ja.wikipedia.org/wiki/HIRO "wikilink")
 
 <!-- end list -->
 

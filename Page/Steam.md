@@ -204,8 +204,6 @@ Steamは定期的にどのようなハードウェアが使われているのか
 
   - [Uplay](https://ja.wikipedia.org/wiki/Uplay "wikilink")
 
-  - [123 Slaughter Me Street](https://ja.wikipedia.org/wiki/123_Slaughter_Me_Street "wikilink")
-
   - [インディーズ](../Page/インディーズ.md "wikilink")ゲーム用[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")サービス
 
       - [PLAYISM](https://ja.wikipedia.org/wiki/PLAYISM "wikilink")

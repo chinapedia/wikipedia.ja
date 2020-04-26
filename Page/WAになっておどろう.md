@@ -123,18 +123,19 @@
 2.  **チュンチュンワールド 〜おげんきたいそう** / [大和田りつこ](../Page/大和田りつこ.md "wikilink")、[たいらいさお](../Page/たいらいさお.md "wikilink")、[岡崎裕美](https://ja.wikipedia.org/wiki/岡崎裕美 "wikilink")、[柳田ヒロ](../Page/柳田ヒロ.md "wikilink")、タンポポ児童合唱団
       - 作詞：森有栖香、作曲：赤坂東児
 
-### その他のカバー
+## その他のカバー
 
 シングルとして発売されたもの以外にも、CD等では以下のアーティストらによって歌われている。
 
-  - [児玉国弘](https://ja.wikipedia.org/wiki/児玉国弘 "wikilink")（[日本コロムビア](../Page/日本コロムビア.md "wikilink")版カバー音源。タイトルは「WAになっておどろう 〜イレ アイエ〜」。日本コロムビアから発売された『みんなのうた』関連のアルバムに収録。例としては1999年発売の『NHKみんなのうたベスト WAになっておどろう 〜イレ アイエ〜/小さな木の実』など）
-  - [TOKIO](../Page/TOKIO.md "wikilink")（2004年9月1日発売のジャニーズ歴代ヒット曲のカバーアルバム『[TOK10](../Page/TOK10.md "wikilink")』でカバー。タイトルは「WAになって踊ろう」。V6のカバーであるため、「カバー曲のカバー」である。オリジナルを歌った[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")がコーラスとギターで参加している）
-  - [dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")（[2004年](../Page/2004年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")発売のカバーアルバム『[dream meets Best Hits avex](https://ja.wikipedia.org/wiki/dream_meets_Best_Hits_avex "wikilink")』でカバー。タイトルは「ILE AIYE〜WAになって踊ろう〜」）
-  - [キグルミ](../Page/キグルミ.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")発売『キグルミのこどものうた』収録。タイトルは「WAになっておどろう 〜ILE AIYE〜」）
-  - [ROCO](../Page/ROCO.md "wikilink")（[2012年](../Page/2012年.md "wikilink")発売『こどもじゃず その5』収録。タイトルは「WAになっておどろう」）
-  - [MAY'S](../Page/MAY'S.md "wikilink")（[2014年](../Page/2014年.md "wikilink")発売『VIVA\!\!\! SUMMER COVERS 〜Dancin' In The Round〜』収録。タイトルは「WAになっておどろう 〜ILE AIYE〜 feat. Fatman Scoop, ハーフ芸人オールスターズ」。作曲者である角松敏生本人とも親交の深いMAY'Sによるカバー。"日本のブラジル"と言われている[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[大泉町](../Page/大泉町.md "wikilink")を舞台に、町長や町民も参加した「町おこし[Music Video](https://www.youtube.com/watch?v=UUZFJkeBd_o)」が制作された。）
+  - [児玉国弘](https://ja.wikipedia.org/wiki/児玉国弘 "wikilink") - [日本コロムビア](../Page/日本コロムビア.md "wikilink")版カバー音源。タイトルは「WAになっておどろう 〜イレ アイエ〜」。日本コロムビアから発売された『みんなのうた』関連のアルバムに収録。例としては1999年発売の『NHKみんなのうたベスト WAになっておどろう 〜イレ アイエ〜/小さな木の実』など。
+  - [新座市立第三中学校](../Page/新座市立第三中学校.md "wikilink")合唱部、[新西六郷少年少女合唱団](../Page/西六郷少年少女合唱団.md "wikilink") - 2002年11月18日発売『子供の歌(6) 楽しく歌おう』（キープ／[日本クラウン](../Page/日本クラウン.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")：TCD-506／[カセット](../Page/コンパクトカセット.md "wikilink")：TMC-506）収録
+  - [TOKIO](../Page/TOKIO.md "wikilink") - 2004年9月1日発売のジャニーズ歴代ヒット曲のカバーアルバム『[TOK10](../Page/TOK10.md "wikilink")』でカバー。タイトルは「WAになって踊ろう」。V6のカバーであるため、「カバー曲のカバー」である。オリジナルを歌った[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")がコーラスとギターで参加している。
+  - [dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink") - [2004年](../Page/2004年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")発売のカバーアルバム『[dream meets Best Hits avex](https://ja.wikipedia.org/wiki/dream_meets_Best_Hits_avex "wikilink")』でカバー。タイトルは「ILE AIYE〜WAになって踊ろう〜」
+  - [キグルミ](../Page/キグルミ.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")発売『キグルミのこどものうた』収録。タイトルは「WAになっておどろう 〜ILE AIYE〜」
+  - [ROCO](../Page/ROCO.md "wikilink") - [2012年](../Page/2012年.md "wikilink")発売『こどもじゃず その5』収録。タイトルは「WAになっておどろう」
+  - [MAY'S](../Page/MAY'S.md "wikilink") - [2014年](../Page/2014年.md "wikilink")発売『VIVA\!\!\! SUMMER COVERS 〜Dancin' In The Round〜』収録。タイトルは「WAになっておどろう 〜ILE AIYE〜 feat. Fatman Scoop, ハーフ芸人オールスターズ」。作曲者である角松敏生本人とも親交の深いMAY'Sによるカバー。"日本のブラジル"と言われている[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[大泉町](../Page/大泉町.md "wikilink")を舞台に、町長や町民も参加した「町おこし[Music Video](https://www.youtube.com/watch?v=UUZFJkeBd_o)」が制作された。
 
-### CMへの起用
+## CMへの起用
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月28日から2011年4月11日まで、[トヨタ・ノア](../Page/トヨタ・ノア.md "wikilink")のCM「カピバラの家族観察篇」「忘れモノ篇」にカバーが使われた\[4\]。タイトルは「WAになって踊ろう」である。歌手は非公開、演奏は「デイブレイク」とされているが詳細は公開されていない。
 

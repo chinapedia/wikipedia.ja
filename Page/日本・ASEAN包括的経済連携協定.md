@@ -66,7 +66,7 @@
 
 衆議院において、協定の締結案件は、外務委員会に付託され、2008年5月21日に委員会で、5月22日に衆議院本会議で可決され、参議院に送られた\[25\]。賛成会派は、「自由民主党; 民主党; 公明党; 国民新党」、反対会派は「日本共産党; 社会民主党・市民連合」であった\[26\]\[27\]。
 
-参議院において、協定の締結案件は、委員会付託をされることなく衆議院の議決から30日が経過し2008年6月21日　憲法第61条の規定により衆の議決が国会の議決となった\[28\]。
+参議院において、協定の締結案件は、委員会付託をされることなく衆議院の議決から30日が経過し2008年6月21日　憲法第61条の規定により衆議院の議決が国会の議決となった\[28\]。
 
 2008年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、日本政府は、国内手続の終了した[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[ラオス](../Page/ラオス.md "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[ミャンマー](../Page/ミャンマー.md "wikilink")との間で効力発生の通告を実施。これにより、12月1日に発効することになった\[29\]。それ以外のASEAN加盟国との間についても、順次発効し、2010年7月1日に最後の[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")について発効し、すべての署名国について発効となった。ただし、[インドネシア](../Page/インドネシア.md "wikilink")については、国内の実施のための手続きが遅れ、インドネシアの財務大臣規定が2018年2月15日に公布され、2018年3月1日より施行されたことにより、2018年3月1日より、協定の運用が開始され、2018年3月1日（インドネシアの財務大臣規定施行日）より、日本とインドネシアとの間ではAJCEP協定に基づく特恵関税率（注1）が適用されることになった\[30\]\[31\]。実施が遅れたため、効力発生の告示も、実施後になり、2018年（平成30年）3月6日付けの告示で「平成二十二年三月一日に我が国とインドネシア共和国との間において効力を生じた。」と効力発生後から8年後の告示となった。
 
@@ -102,6 +102,8 @@
 
 日本における国内手続として、2020年2月28日に、協定改正議定書の締結承認案件が閣議決定\[52\]され、同日衆議院へ提出された\[53\]。国内法の改正については、外務省は条約の説明書において、「必要としない」\[54\]としている。
 
+衆議院において、協定改正議定書の締結承認案件は、外務委員会に付託され、2020年4月10日に委員会で、4月14日に衆議院本会議で可決され、参議院に送られた\[55\]。賛成会派は、「自由民主党・無所属の会; 立憲民主・国民・社保・無所属フォーラム; 公明党; 日本維新の会・無所属の会; 希望の党」、反対会派は「日本共産党」であった\[56\]。
+
 ## 注釈
 
 ## 脚注
@@ -116,8 +118,8 @@
 
 ## 外部リンク
 
-  - [日本・ASEAN包括的経済連携構想](http://www.mofa.go.jp/mofaj/gaiko/fta/j_asean/index.html) - 外務省
-  - [日・ASEAN包括的経済連携 (AJCEP) 協定](http://www.meti.go.jp/policy/trade_policy/epa/epa/asean/) - 経済産業省
+  - [日・ASEAN包括的経済連携協定](https://www.mofa.go.jp/mofaj/gaiko/fta/j_asean/index.html) - 外務省
+  - [日・ASEAN包括的経済連携 (AJCEP) 協定](https://www.meti.go.jp/policy/trade_policy/epa/epa/asean/) - 経済産業省
 
 [Category:日本の経済](https://ja.wikipedia.org/wiki/Category:日本の経済 "wikilink") [Category:日本の条約](https://ja.wikipedia.org/wiki/Category:日本の条約 "wikilink") [Category:多国間条約](https://ja.wikipedia.org/wiki/Category:多国間条約 "wikilink") [Category:経済連携協定](https://ja.wikipedia.org/wiki/Category:経済連携協定 "wikilink") [Category:東南アジア諸国連合](https://ja.wikipedia.org/wiki/Category:東南アジア諸国連合 "wikilink") [Category:日本・東南アジア関係](https://ja.wikipedia.org/wiki/Category:日本・東南アジア関係 "wikilink") [Category:2008年の条約](https://ja.wikipedia.org/wiki/Category:2008年の条約 "wikilink")
 
@@ -175,3 +177,5 @@
 52.
 53.
 54.
+55.
+56.

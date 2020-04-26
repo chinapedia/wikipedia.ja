@@ -3,7 +3,7 @@
 
 **JAPAN国際コンテンツフェスティバル**（ジャパンこくさいコンテンツフェスティバル、Japan International Contents Festival）は、[2007年](../Page/2007年.md "wikilink")より毎年秋に開催されている、[経済産業省](../Page/経済産業省.md "wikilink")及び日本のコンテンツ関連企業6団体などによる、世界最大規模の[エンタテインメント](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")[コンテンツ](../Page/コンテンツ.md "wikilink")の総合イベント。通称**コ・フェスタ**（CoFesta）。当初は「国際コンテンツ・カーニバル」という名称で計画されていた。
 
-[2006年](../Page/2006年.md "wikilink")まで、[映画](../Page/映画.md "wikilink")、[音楽](../Page/音楽.md "wikilink")、[ゲーム](../Page/コンピュータゲーム.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")、[テレビ番組](../Page/テレビ番組.md "wikilink")などに関する各種イベントが、[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")や[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")など、それぞれ単独でイベントが開催されてきた。2007年よりこれらのイベントを経済産業省主導の元、包括的・横断的に開催している。これによって日本のエンタテインメントコンテンツを国内外に幅広く紹介する、としている。
+[2006年](../Page/2006年.md "wikilink")まで、[映画](../Page/映画.md "wikilink")、[音楽](../Page/音楽.md "wikilink")、[ゲーム](../Page/コンピュータゲーム.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")、[テレビ番組](../Page/テレビ番組.md "wikilink")などに関する各種イベントが、[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")や[東京国際映画祭](../Page/東京国際映画祭.md "wikilink")など、それぞれ単独でイベントが開催されてきた。2007年よりこれらのイベントを経済産業省主導の元、包括的・横断的に開催している。これによって日本のエンタテインメントコンテンツを国内外に幅広く紹介する、としている。
 
 ## 開催イベント
 
@@ -14,7 +14,7 @@
       - [東京国際ミュージックマーケット](https://ja.wikipedia.org/wiki/東京国際ミュージックマーケット "wikilink")（TIMM、主催：財団法人音楽産業・文化振興財団）
       - [TIFFCOM](https://ja.wikipedia.org/wiki/TIFFCOM "wikilink") Marketplace for Film & TV in Asia（主催：経済産業省・[公益財団法人](https://ja.wikipedia.org/wiki/公益財団法人 "wikilink")[ユニジャパン](https://ja.wikipedia.org/wiki/ユニジャパン "wikilink")）
       - [東京国際アニメ祭](https://ja.wikipedia.org/wiki/東京国際アニメ祭 "wikilink")（TIAF、主催：経済産業省・一般社団法人[日本動画協会](../Page/日本動画協会.md "wikilink"))
-  - [東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")（TIFF、主催：[財団法人](../Page/財団法人.md "wikilink")日本映像国際振興協会（東京国際映画祭実行委員会））
+  - [東京国際映画祭](../Page/東京国際映画祭.md "wikilink")（TIFF、主催：[財団法人](../Page/財団法人.md "wikilink")日本映像国際振興協会（東京国際映画祭実行委員会））
   - [AnimeJapan](https://ja.wikipedia.org/wiki/AnimeJapan "wikilink")
 
 ### オフィシャルイベント

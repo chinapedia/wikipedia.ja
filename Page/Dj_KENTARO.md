@@ -132,7 +132,7 @@
 21. オムニバス『**BOYCOTT RHYTHM MACHINE II〜VERSUS〜**』（2006年7月20日）
       -
         7.DJ KENTARO+[DJ BAKU](../Page/DJ_BAKU.md "wikilink") vs [芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")+[岡部洋一](../Page/岡部洋一.md "wikilink")
-22. [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『**[ayu-mi-x 6 -GOLD-](https://ja.wikipedia.org/wiki/Ayu-mi-x_6 "wikilink")**』（2008年）
+22. [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")『**[ayu-mi-x 6 -GOLD-](https://ja.wikipedia.org/wiki/Ayu-mi-x_6 "wikilink")**』（2008年）
       -
         2.Moments (DJKENTARO remix)
 23. [SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")「**6**」（2009年9月16日）

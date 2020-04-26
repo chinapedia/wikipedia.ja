@@ -419,7 +419,7 @@ MONSTER circus+</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">MASTER LOW</a></li>
 <li><a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li><a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
+<li><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a></li>
 <li><a href="../Page/ケツメイシ.md" title="wikilink">ケツメイシ</a></li>
 <li><a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 </ul></td>
@@ -957,7 +957,7 @@ MONSTER circus+</p></td>
 <li><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></li>
 <li><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a></li>
 <li><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">SPITZ</a></li>
+<li><a href="../Page/スピッツ_(バンド).md" title="wikilink">SPITZ</a></li>
 <li><a href="../Page/9mm_Parabellum_Bullet.md" title="wikilink">9mm Parabellum Bullet</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></li>
 </ul></td>

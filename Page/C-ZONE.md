@@ -598,7 +598,7 @@ tvk<a href="../Page/テレビ神奈川.md" title="wikilink">テレビ神奈川</
   - [乙女♡グッジョブ！](http://www.next-ch.com/otome-gj/)（チバテレ）
   - [ウタカタ](https://ja.wikipedia.org/wiki/ウタカタ "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、毎週月曜26:45〜）
   - [アフリカのツメ](../Page/アフリカのツメ.md "wikilink")（2005年2月24日 - 、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列）
-  - [秋葉系アイドルチャンネル](https://ja.wikipedia.org/wiki/秋葉系アイドルチャンネル "wikilink") (2011年9月23日、[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink"))
+  - [秋葉系アイドルチャンネル](https://ja.wikipedia.org/wiki/秋葉系アイドルチャンネル "wikilink") (2011年9月23日、[BS11](../Page/日本BS放送.md "wikilink"))
 
 ### ラジオ
 

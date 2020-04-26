@@ -6,7 +6,6 @@
 ## メンバー
 
   - **NICKEY**（ボーカル）1984年-
-  - **本間"RAT"章浩**（ギター）2008年- King Biscuit Time
   - **福本 勝治** （ベース）the LEATHERS,ザ・ナカスギロックス
   - **東川 元則**（ドラム）2013年- 元[シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")
   - サポート Drums:魔太朗/牟田　昌広
@@ -20,6 +19,7 @@
   - **CAT**（ギター）1986年3月-1987年9月,2000年代 元ANTI、[THE ZETT](https://ja.wikipedia.org/wiki/THE_ZETT "wikilink")、KOOL RODZ
   - **RED**（ギター）1990-1992?
   - **ROKU**（ギター）1992-1993年　元MACHINE GUN
+  - **本間"RAT"章浩**（ギター）2008年-2020年 King Biscuit Time
 
 **ベース**
 

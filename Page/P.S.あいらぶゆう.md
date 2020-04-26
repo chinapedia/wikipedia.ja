@@ -1,4 +1,4 @@
-> この記事は[P.S.](https://ja.wikipedia.org/wiki/P.S.)から翻訳されています。
+> この記事は[P.S.あいらぶゆう](https://ja.wikipedia.org/wiki/P.S.あいらぶゆう)から翻訳されています。
 
 
 『**P.S.あいらぶゆう**』（ピー・エスあいらぶゆう）は、[吉村明美](../Page/吉村明美.md "wikilink")による漫画作品。[プチコミック](../Page/プチコミック.md "wikilink")（[小学館](../Page/小学館.md "wikilink")）に[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")12月号から[1984年](../Page/1984年.md "wikilink")8月号まで連載されていた。

@@ -1,4 +1,4 @@
-> この記事は[Only for you--](https://ja.wikipedia.org/wiki/Only_for_you--)から翻訳されています。
+> この記事は[Only for you-この永遠がある限り-](https://ja.wikipedia.org/wiki/Only_for_you-この永遠がある限り-)から翻訳されています。
 
 
 「**Only for you－この永遠がある限り－**」（オンリー フォー ユー このえいえんがあるかぎり）は、2001年2月にリリースされた[郷ひろみ](../Page/郷ひろみ.md "wikilink")の81枚目のシングルである。

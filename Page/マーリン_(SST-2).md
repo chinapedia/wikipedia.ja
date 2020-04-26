@@ -1,4 +1,4 @@
-> この記事は[ \(SST-2\)](https://ja.wikipedia.org/wiki/_\(SST-2\))から翻訳されています。
+> この記事は[マーリン \(SST-2\)](https://ja.wikipedia.org/wiki/マーリン_\(SST-2\))から翻訳されています。
 
 
 <div class="thumb tright">

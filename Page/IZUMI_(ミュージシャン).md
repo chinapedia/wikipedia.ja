@@ -1,4 +1,4 @@
-> この記事は[IZUMI \(\)](https://ja.wikipedia.org/wiki/IZUMI_\(\))から翻訳されています。
+> この記事は[IZUMI \(ミュージシャン\)](https://ja.wikipedia.org/wiki/IZUMI_\(ミュージシャン\))から翻訳されています。
 
 
 **IZUMI**（**イズミ**、落合 泉（おちあい いずみ）、[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")出身。[AION](../Page/AION.md "wikilink")、THE BRAINCASEの[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。

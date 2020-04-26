@@ -1,4 +1,4 @@
-> この記事は[ Ah Um](https://ja.wikipedia.org/wiki/_Ah_Um)から翻訳されています。
+> この記事は[ミンガス Ah Um](https://ja.wikipedia.org/wiki/ミンガス_Ah_Um)から翻訳されています。
 
 
 **ミンガス Ah Um**（**Mingus Ah Um**）とは、[ジャズ](../Page/ジャズ.md "wikilink")・[ベーシスト](../Page/ベーシスト.md "wikilink")の[チャールズ・ミンガス](../Page/チャールズ・ミンガス.md "wikilink")が1959年に制作・発表したアルバム。

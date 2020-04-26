@@ -1,4 +1,4 @@
-> この記事は[Good-Day ](https://ja.wikipedia.org/wiki/Good-Day_)から翻訳されています。
+> この記事は[Good-Day 〜思い出に変わるならば〜](https://ja.wikipedia.org/wiki/Good-Day_〜思い出に変わるならば〜)から翻訳されています。
 
 
 「**Good-Day 〜思い出に変わるならば〜**」（グッデイ おもいでにかわるならば）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算14枚目の[シングル](../Page/シングル.md "wikilink")。1991年5月23日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。8センチCDとシングル[カセットの](../Page/コンパクトカセット.md "wikilink")2種類がリリースされた。

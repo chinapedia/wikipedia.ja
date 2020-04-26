@@ -1,4 +1,4 @@
-> この記事は[PLAY!AWA\'S ](https://ja.wikipedia.org/wiki/PLAY!AWA\'S_)から翻訳されています。
+> この記事は[PLAY!AWA\'S 〜美と笑いの大お見せ合いパーティ〜](https://ja.wikipedia.org/wiki/PLAY!AWA\'S_〜美と笑いの大お見せ合いパーティ〜)から翻訳されています。
 
 
 『**PLAY\!AWA'S 〜美と笑いの大お見せ合いパーティ〜**』（プレイ\!アワーズ〜びとわらいのだいおみせあいパーティ〜）とは、インターネットテレビ[GyaOのオリジナルバラエティ番組である](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。[2007年](../Page/2007年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")からGyaOバラエティchにて配信開始。

@@ -1,4 +1,4 @@
-> この記事は[Yellow \(\)](https://ja.wikipedia.org/wiki/Yellow_\(\))から翻訳されています。
+> この記事は[Yellow \(木村カエラの曲\)](https://ja.wikipedia.org/wiki/Yellow_\(木村カエラの曲\))から翻訳されています。
 
 
 **Yellow**（イエロー）は、[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")のメジャー10枚目のシングルで、[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[コロムビアミュージックエンタテインメントから発売された](../Page/日本コロムビア.md "wikilink")。

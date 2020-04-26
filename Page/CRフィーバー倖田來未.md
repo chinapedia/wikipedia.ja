@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRフィーバー倖田來未](https://ja.wikipedia.org/wiki/CRフィーバー倖田來未)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:CRフィーバー倖田來未.JPG "wikilink")

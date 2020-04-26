@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[仮面ライダーSD グランショッカーの野望](https://ja.wikipedia.org/wiki/仮面ライダーSD_グランショッカーの野望)から翻訳されています。
 
 
 『**仮面ライダーSD グランショッカーの野望**』（かめんライダー エスディー グランショッカーのやぼう）は、1993年1月22日に[エンジェルから発売された](https://ja.wikipedia.org/wiki/エンジェル_\(ゲーム会社\) "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト。[メガハウス](../Page/メガハウス.md "wikilink")が制作に参加している。

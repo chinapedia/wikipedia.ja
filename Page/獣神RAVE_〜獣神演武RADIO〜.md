@@ -1,4 +1,4 @@
-> この記事は[RAVE RADIO](https://ja.wikipedia.org/wiki/RAVE_RADIO)から翻訳されています。
+> この記事は[獣神RAVE 〜獣神演武RADIO〜](https://ja.wikipedia.org/wiki/獣神RAVE_〜獣神演武RADIO〜)から翻訳されています。
 
 
 **獣神RAVE 〜獣神演武RADIO〜**（じゅうしんれいぶ-じゅうしんえんぶラジオ ）はアニメ『[獣神演武](https://ja.wikipedia.org/wiki/獣神演武 "wikilink")』の関連番組として、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")にて配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。
@@ -49,7 +49,8 @@
 
 ## 外部リンク
 
-  - [メディアファクラジオ 獣神演武RADIO 獣神RAVE](http://www.mediafactory.co.jp/animation/017/004/17496.html)(メディアファクトリー)　
+  - (メディアファクトリー)　
+
   - [あにてれWEBRADIO 獣神RAVE～獣神演武RADIO～](http://id.ani.tv/static/html/webradio/jyushin.php)（テレビ東京）
 
 [Category:メディファクラジオ](https://ja.wikipedia.org/wiki/Category:メディファクラジオ "wikilink")

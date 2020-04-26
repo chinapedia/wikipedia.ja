@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[W・リチャード・スティーヴンス](https://ja.wikipedia.org/wiki/W・リチャード・スティーヴンス)から翻訳されています。
 
 
 **ウィリアム・リチャード・スティーヴンス**（*William Richard Stevens*, [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")）はコンピュータ技術書の[ライター](../Page/著作家.md "wikilink")。[UNIX](../Page/UNIX.md "wikilink")と[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")の解説書の作者として著名。

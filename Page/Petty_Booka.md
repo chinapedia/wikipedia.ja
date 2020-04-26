@@ -61,6 +61,6 @@
 
 ## 外部リンク
 
-[Petty Booka公式サイト](http://sister.co.jp/pettybooka/index-j.html)
+  - [Petty Booka公式サイト](http://sister.co.jp/pettybooka/index-j.html)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

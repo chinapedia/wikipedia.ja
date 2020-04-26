@@ -111,4 +111,5 @@
     \bjp.cypress.com\b #PSoC
     \btelegraph\.co\.uk\b # [[Special:Diff/59207290|Special:Diff/59207290]]
     \baliexpress\.com\/index\.html\b #AliExpress [[Special:Diff/76190660|Special:Diff/76190660]]
+    \bbusiness-sale\.com\b #コスタコーヒー [[Special:Diff/76740080|Special:Diff/76740080]]
     #

@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[未来戦隊タイムレンジャーVSゴーゴーファイブ](https://ja.wikipedia.org/wiki/未来戦隊タイムレンジャーVSゴーゴーファイブ)から翻訳されています。
 
 
 <div class="pathnavbox">

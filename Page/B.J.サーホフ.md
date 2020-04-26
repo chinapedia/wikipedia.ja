@@ -1,4 +1,4 @@
-> この記事は[B.J.](https://ja.wikipedia.org/wiki/B.J.)から翻訳されています。
+> この記事は[B.J.サーホフ](https://ja.wikipedia.org/wiki/B.J.サーホフ)から翻訳されています。
 
 
 **ウィリアム・ジェームズ・サーホフ**（William James "B. J." Surhoff, [1964年](../Page/1964年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")[ブロンクス区](../Page/ブロンクス区.md "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")、[捕手](../Page/捕手.md "wikilink")、[三塁手](../Page/三塁手.md "wikilink")）。右投左打。
@@ -9,7 +9,7 @@
 
 ### プロ入り前
 
-の[MLBドラフト](https://ja.wikipedia.org/wiki/1982年のMLBドラフト "wikilink")5巡目（全体128位）で地元[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から指名を受けるが契約せず、[ノースカロライナ大学チャペルヒル校](../Page/ノースカロライナ大学チャペルヒル校.md "wikilink")に進学した。には第13回[日米大学野球選手権](https://ja.wikipedia.org/wiki/日米大学野球選手権 "wikilink")に出場\[2\]、さらに[ロサンゼルスオリンピックに](https://ja.wikipedia.org/wiki/1984年ロサンゼルスオリンピックの野球競技 "wikilink")[アメリカ代表として出場し](../Page/野球アメリカ合衆国代表.md "wikilink")、[銀メダル](https://ja.wikipedia.org/wiki/銀メダル "wikilink")を獲得した。
+の[MLBドラフト](https://ja.wikipedia.org/wiki/1982年のMLBドラフト "wikilink")5巡目（全体128位）で地元[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から指名を受けるが契約せず、[ノースカロライナ大学チャペルヒル校](../Page/ノースカロライナ大学チャペルヒル校.md "wikilink")に進学した。には第13回[日米大学野球選手権](https://ja.wikipedia.org/wiki/日米大学野球選手権 "wikilink")に出場\[2\]、さらに[ロサンゼルスオリンピックに](https://ja.wikipedia.org/wiki/1984年ロサンゼルスオリンピックの野球競技 "wikilink")[アメリカ代表として出場し](../Page/野球アメリカ合衆国代表.md "wikilink")、[銀メダル](../Page/銀メダル.md "wikilink")を獲得した。
 
 ### 現役時代
 

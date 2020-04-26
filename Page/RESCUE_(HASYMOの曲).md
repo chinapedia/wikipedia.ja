@@ -1,4 +1,4 @@
-> この記事は[RESCUE \(HASYMO\)](https://ja.wikipedia.org/wiki/RESCUE_\(HASYMO\))から翻訳されています。
+> この記事は[RESCUE \(HASYMOの曲\)](https://ja.wikipedia.org/wiki/RESCUE_\(HASYMOの曲\))から翻訳されています。
 
 
 **RESCUE**（レスキュー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")「[HASYMO（ハシモ）](../Page/ヒューマン・オーディオ・スポンジ.md "wikilink")」のシングル。または同シングルに収録された曲。[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[commmons](https://ja.wikipedia.org/wiki/commmons "wikilink")よりリリース。
@@ -28,4 +28,4 @@
 
   - [細野晴臣→高橋幸宏→坂本龍一によるリレー動画](http://mv-jpop.eplus2.jp/article/60363106.html)
 
-[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:細野晴臣がプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣がプロデュースした楽曲 "wikilink") [Category:細野晴臣が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣が作詞作曲した楽曲 "wikilink") [Category:坂本龍一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が制作した楽曲 "wikilink") [Category:高橋幸宏が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が制作した楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
+[Category:イエロー・マジック・オーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:イエロー・マジック・オーケストラの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:細野晴臣がプロデュースした楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣がプロデュースした楽曲 "wikilink") [Category:細野晴臣が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:細野晴臣が作詞作曲した楽曲 "wikilink") [Category:坂本龍一が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:坂本龍一が作詞作曲した楽曲 "wikilink") [Category:高橋幸宏が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:高橋幸宏が作詞作曲した楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")

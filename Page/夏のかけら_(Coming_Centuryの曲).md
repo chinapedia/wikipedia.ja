@@ -1,4 +1,4 @@
-> この記事は[ \(Coming Century\)](https://ja.wikipedia.org/wiki/_\(Coming_Century\))から翻訳されています。
+> この記事は[夏のかけら \(Coming Centuryの曲\)](https://ja.wikipedia.org/wiki/夏のかけら_\(Coming_Centuryの曲\))から翻訳されています。
 
 
 「**夏のかけら**」（なつのかけら）は、[Coming Centuryのファースト](../Page/V6_\(グループ\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")発売。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
@@ -26,4 +26,4 @@
   - 『[Very best](../Page/Very_best.md "wikilink")』
   - 『[Best of Coming Century 〜Together〜](../Page/Best_of_Coming_Century_〜Together〜.md "wikilink")』
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:Coming_Centuryの楽曲](https://ja.wikipedia.org/wiki/Category:Coming_Centuryの楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:カルピスのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カルピスのコマーシャルソング "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:Coming_Centuryの楽曲](https://ja.wikipedia.org/wiki/Category:Coming_Centuryの楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:カルピスのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カルピスのコマーシャルソング "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink")

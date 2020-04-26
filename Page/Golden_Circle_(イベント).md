@@ -1,4 +1,4 @@
-> この記事は[Golden Circle \(\)](https://ja.wikipedia.org/wiki/Golden_Circle_\(\))から翻訳されています。
+> この記事は[Golden Circle \(イベント\)](https://ja.wikipedia.org/wiki/Golden_Circle_\(イベント\))から翻訳されています。
 
 
 **Golden Circle**（ゴールデン・サークル）は、2001年から始まった[寺岡呼人](../Page/寺岡呼人.md "wikilink")主催のライブイベントである。

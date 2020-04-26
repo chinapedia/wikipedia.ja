@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ジェローム・K・ジェローム](https://ja.wikipedia.org/wiki/ジェローム・K・ジェローム)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Jerome_K._Jerome.jpg "wikilink")  **ジェローム・K・ジェローム**（Jerome Klapka Jerome, [1859年](../Page/1859年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink") - [1927年](../Page/1927年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の作家。ユーモア旅行小説『[ボートの三人男](https://ja.wikipedia.org/wiki/ボートの三人男 "wikilink")』（[丸谷才一](../Page/丸谷才一.md "wikilink")訳、[中公文庫](../Page/中公文庫.md "wikilink")、改版2010年）で著名。

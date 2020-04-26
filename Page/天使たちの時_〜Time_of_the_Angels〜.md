@@ -1,4 +1,4 @@
-> この記事は[ Time of the Angels](https://ja.wikipedia.org/wiki/_Time_of_the_Angels)から翻訳されています。
+> この記事は[天使たちの時 〜Time of the Angels〜](https://ja.wikipedia.org/wiki/天使たちの時_〜Time_of_the_Angels〜)から翻訳されています。
 
 
 「**天使たちの時 〜Time of the Angels〜**」（てんしたちのとき）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算12枚目の[シングル](../Page/シングル.md "wikilink")。1989年11月25日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。8センチCDとシングル[カセットの](../Page/コンパクトカセット.md "wikilink")2種類がリリースされた。

@@ -1,4 +1,4 @@
-> この記事は[CHARISMA \(\)](https://ja.wikipedia.org/wiki/CHARISMA_\(\))から翻訳されています。
+> この記事は[CHARISMA \(郷ひろみの曲\)](https://ja.wikipedia.org/wiki/CHARISMA_\(郷ひろみの曲\))から翻訳されています。
 
 
 「**CHARISMA**」（カリスマ）は、1985年5月にリリースされた[郷ひろみ](../Page/郷ひろみ.md "wikilink")の54枚目のシングルである。

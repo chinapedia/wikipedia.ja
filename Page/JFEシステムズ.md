@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEシステムズ](https://ja.wikipedia.org/wiki/JFEシステムズ)から翻訳されています。
 
 
 **JFEシステムズ株式会社**（[英文社名](../Page/英語.md "wikilink") *JFE Systems, Inc*）は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[情報システム](../Page/情報システム.md "wikilink")開発会社。

@@ -1,4 +1,4 @@
-> この記事は[TODAY \(\)](https://ja.wikipedia.org/wiki/TODAY_\(\))から翻訳されています。
+> この記事は[TODAY \(岡村孝子の曲\)](https://ja.wikipedia.org/wiki/TODAY_\(岡村孝子の曲\))から翻訳されています。
 
 
 「**TODAY/輝き**」（トゥデイ／かがやき）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算9枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")7月1日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。EP[レコード](../Page/レコード.md "wikilink")と8センチ[CD](../Page/コンパクトディスク.md "wikilink")・シングル[カセットの](../Page/コンパクトカセット.md "wikilink")3種類がリリースされた。

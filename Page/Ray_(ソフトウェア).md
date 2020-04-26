@@ -1,4 +1,4 @@
-> この記事は[Ray \(\)](https://ja.wikipedia.org/wiki/Ray_\(\))から翻訳されています。
+> この記事は[Ray \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Ray_\(ソフトウェア\))から翻訳されています。
 
 
 **Ray**（レイ）は、[内田友幸](https://ja.wikipedia.org/wiki/内田友幸 "wikilink")（通常は[ハンドルネーム](../Page/ハンドルネーム.md "wikilink")の「ともゆき」で呼ばれることが多い）作の[フリーウェア](../Page/フリーウェア.md "wikilink")。[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")の[MS-DOS](../Page/MS-DOS.md "wikilink")上で動作する。

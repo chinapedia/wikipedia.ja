@@ -1,4 +1,4 @@
-> この記事は[W-LA CHICA DE CUBA-](https://ja.wikipedia.org/wiki/W-LA_CHICA_DE_CUBA-)から翻訳されています。
+> この記事は[Wブッキング-LA CHICA DE CUBA-](https://ja.wikipedia.org/wiki/Wブッキング-LA_CHICA_DE_CUBA-)から翻訳されています。
 
 
 『**Wブッキング－LA CHICA DE CUBA－**』（ダブル　ブッキング）は、1990年5月にリリースされた[郷ひろみ](../Page/郷ひろみ.md "wikilink")の60枚目のシングルである。

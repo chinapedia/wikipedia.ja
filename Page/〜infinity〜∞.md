@@ -1,4 +1,4 @@
-> この記事は[infinity](https://ja.wikipedia.org/wiki/infinity)から翻訳されています。
+> この記事は[〜infinity〜∞](https://ja.wikipedia.org/wiki/〜infinity〜∞)から翻訳されています。
 
 
 『**〜infinity〜∞**』（インフィニティ）は、1998年4月24日にリリースされた林原めぐみの シングル。

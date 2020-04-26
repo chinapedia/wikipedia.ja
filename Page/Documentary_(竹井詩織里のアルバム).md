@@ -1,4 +1,4 @@
-> この記事は[Documentary \(\)](https://ja.wikipedia.org/wiki/Documentary_\(\))から翻訳されています。
+> この記事は[Documentary \(竹井詩織里のアルバム\)](https://ja.wikipedia.org/wiki/Documentary_\(竹井詩織里のアルバム\))から翻訳されています。
 
 
 『**documentary**』（ドキュメンタリー）は、[竹井詩織里](../Page/竹井詩織里.md "wikilink")のミニアルバム。CDコードはGZCA-5111。

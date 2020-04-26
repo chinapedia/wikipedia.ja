@@ -1,4 +1,4 @@
-> この記事は[THE new WORLD -WORLD TOUR !\? in JAPAN-](https://ja.wikipedia.org/wiki/THE_new_WORLD_-WORLD_TOUR_!\?_in_JAPAN-)から翻訳されています。
+> この記事は[THE “new” WORLD -WORLD TOUR !\? in JAPAN-](https://ja.wikipedia.org/wiki/THE_“new”_WORLD_-WORLD_TOUR_!\?_in_JAPAN-)から翻訳されています。
 
 
 『**THE “new” WORLD ～WORLD TOUR \!? in JAPAN～**』（ザ・ニューワールド～ワールドツアー\!?イン ジャパン～）は、[BENNIE Kの](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")[ライブDVD](../Page/演奏会.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売。発売元は[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")。
@@ -45,4 +45,4 @@
   -   - **THE HOLE**（Original Animation Film）
       - **THE WORLD**（Promotion Video）
 
-[Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:BENNIE_Kの映像作品](https://ja.wikipedia.org/wiki/Category:BENNIE_Kの映像作品 "wikilink") [Category:2007年のコンサート](https://ja.wikipedia.org/wiki/Category:2007年のコンサート "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

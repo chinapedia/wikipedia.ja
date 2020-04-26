@@ -1,4 +1,4 @@
-> この記事は[4th ](https://ja.wikipedia.org/wiki/4th_)から翻訳されています。
+> この記事は[4th 愛のなんちゃら指数](https://ja.wikipedia.org/wiki/4th_愛のなんちゃら指数)から翻訳されています。
 
 
 『**4th 愛のなんちゃら指数**』（フォース あいのなんちゃらしすう）は、[Berryz工房](../Page/Berryz工房.md "wikilink")の4枚目\[1\]の[アルバム](../Page/アルバム.md "wikilink")。日本では[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")（[PICCOLO TOWN](../Page/アップフロントワークス.md "wikilink")）より発売された。韓国では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売\[2\]。

@@ -1,4 +1,4 @@
-> この記事は[X \(\)](https://ja.wikipedia.org/wiki/X_\(\))から翻訳されています。
+> この記事は[X \(ゲーム\)](https://ja.wikipedia.org/wiki/X_\(ゲーム\))から翻訳されています。
 
 
 『**X（エックス）**』は[1992年](../Page/1992年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトとして[任天堂](../Page/任天堂.md "wikilink")より発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフトである](../Page/ゲームソフト.md "wikilink")。

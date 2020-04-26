@@ -1,4 +1,4 @@
-> この記事は[PGR3 - 3 -](https://ja.wikipedia.org/wiki/PGR3_-_3_-)から翻訳されています。
+> この記事は[PGR3 - プロジェクトゴッサムレーシング3 -](https://ja.wikipedia.org/wiki/PGR3_-_プロジェクトゴッサムレーシング3_-)から翻訳されています。
 
 
 『**PGR3 - プロジェクトゴッサムレーシング3 -**』は,Bizarre Creationsが開発し、マイクロソフトが発売するXbox 360用レーシングゲームである。

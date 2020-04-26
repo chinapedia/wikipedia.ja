@@ -1,4 +1,4 @@
-> この記事は[BEST HITS LIVESave The Children SPEED LIVE 2003](https://ja.wikipedia.org/wiki/BEST_HITS_LIVESave_The_Children_SPEED_LIVE_2003)から翻訳されています。
+> この記事は[BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](https://ja.wikipedia.org/wiki/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜)から翻訳されています。
 
 
 『**BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜**』（ベスト・ヒッツ・ライブ セイブ・ザ・チルドレン・スピード・ライブ・にせんさん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")グループ[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の2枚目の[ライブ](../Page/演奏会.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")である。グループが2度目の再結成を行ったときにリリースされた作品である。

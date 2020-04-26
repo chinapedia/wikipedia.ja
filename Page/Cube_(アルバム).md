@@ -1,4 +1,4 @@
-> この記事は[Cube \(\)](https://ja.wikipedia.org/wiki/Cube_\(\))から翻訳されています。
+> この記事は[Cube \(アルバム\)](https://ja.wikipedia.org/wiki/Cube_\(アルバム\))から翻訳されています。
 
 
 『**cube**』（キューブ）は、[BENNIE Kのデビューアルバム](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。

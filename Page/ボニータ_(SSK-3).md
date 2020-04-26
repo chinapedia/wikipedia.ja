@@ -1,4 +1,4 @@
-> この記事は[ \(SSK-3\)](https://ja.wikipedia.org/wiki/_\(SSK-3\))から翻訳されています。
+> この記事は[ボニータ \(SSK-3\)](https://ja.wikipedia.org/wiki/ボニータ_\(SSK-3\))から翻訳されています。
 
 
 |                                                                                                                      |

@@ -1,4 +1,4 @@
-> この記事は[Ecology of Everyday Life ](https://ja.wikipedia.org/wiki/Ecology_of_Everyday_Life_)から翻訳されています。
+> この記事は[Ecology of Everyday Life 毎日の環境学](https://ja.wikipedia.org/wiki/Ecology_of_Everyday_Life_毎日の環境学)から翻訳されています。
 
 
 『**Ecology of Everyday Life 毎日の環境学**』（エコロジー オヴ エヴリデイ ライフ まいにちのかんきょうがく）は、[小沢健二](../Page/小沢健二.md "wikilink")の5枚目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[東芝EMIから発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。

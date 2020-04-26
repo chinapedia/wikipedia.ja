@@ -1,4 +1,4 @@
-> この記事は[YAKSA --](https://ja.wikipedia.org/wiki/YAKSA_--)から翻訳されています。
+> この記事は[YAKSA -ヤシャ-](https://ja.wikipedia.org/wiki/YAKSA_-ヤシャ-)から翻訳されています。
 
 
 『**YAKSA**』（ヤシャ）とは[ハヤトコウジ](https://ja.wikipedia.org/wiki/ハヤトコウジ "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。タイトルは「YAKSA」という綴りで「ヤシャ」と読む。番外編『幻燈忍伝』についても取り扱う。

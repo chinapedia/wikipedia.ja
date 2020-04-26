@@ -1,4 +1,4 @@
-> この記事は[Altair ](https://ja.wikipedia.org/wiki/Altair_)から翻訳されています。
+> この記事は[Altair 〜キミと出逢えたこと〜](https://ja.wikipedia.org/wiki/Altair_〜キミと出逢えたこと〜)から翻訳されています。
 
 
 「**Altair 〜キミと出逢えたこと〜**」（アルタイル キミとであえたこと）は、ロックバンド・[少年カミカゼ](../Page/少年カミカゼ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")にリリースした9枚目のシングルである。

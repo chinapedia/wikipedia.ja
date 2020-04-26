@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ 偉大なる孫悟空伝説](https://ja.wikipedia.org/wiki/ドラゴンボールZ_偉大なる孫悟空伝説)から翻訳されています。
 
 
 『**ドラゴンボールZ 偉大なる孫悟空伝説**』（ドラゴンボールゼット いだいなるそんごくうでんせつ）は[1994年](../Page/1994年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink")[SUPER CD-ROM²用ゲームソフト](../Page/SUPER_CD-ROM2.md "wikilink")。

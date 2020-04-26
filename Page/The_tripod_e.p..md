@@ -13,11 +13,11 @@
 
 ### been so long
 
-シングルにはオリジナル・バージョンと共に、[DJ HASEBEによるリミックスも収録されている](../Page/DJ_HASEBE.md "wikilink")。この楽曲に関しても「flo jack」と同様PVが制作された。冒頭でVERBALがLISAの別名のUNIKAをコールしている。バックトラックは[グローヴァー・ワシントン・ジュニア](../Page/グローヴァー・ワシントン・ジュニア.md "wikilink")の[Just the Two of Usの影響がある](https://ja.wikipedia.org/wiki/Just_the_Two_of_Us "wikilink")。 m-floの存在をシーンに知らしめた作品で、1stアルバム[Planet Shining](../Page/Planet_Shining.md "wikilink")、ベストアルバム[The Intergalactic Collection ～ギャラコレ～](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_～ギャラコレ～ "wikilink")、[MF10-10th ANNIVERSARY BEST-はもちろん](https://ja.wikipedia.org/wiki/MF10-10th_ANNIVERSARY_BEST- "wikilink")、下記のアイテムにも収録されている。
+シングルにはオリジナル・バージョンと共に、[DJ HASEBEによるリミックスも収録されている](../Page/DJ_HASEBE.md "wikilink")。この楽曲に関しても「flo jack」と同様PVが制作された。冒頭でVERBALがLISAの別名のUNIKAをコールしている。バックトラックは[グローヴァー・ワシントン・ジュニア](../Page/グローヴァー・ワシントン・ジュニア.md "wikilink")の "[Just the Two of Us](https://ja.wikipedia.org/wiki/Just_the_Two_of_Us "wikilink")" の影響がある。 m-floの存在をシーンに知らしめた作品で、1stアルバム[Planet Shining](../Page/Planet_Shining.md "wikilink")、ベストアルバム[The Intergalactic Collection ～ギャラコレ～](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_～ギャラコレ～ "wikilink")、[MF10-10th ANNIVERSARY BEST-はもちろん](https://ja.wikipedia.org/wiki/MF10-10th_ANNIVERSARY_BEST- "wikilink")、下記のアイテムにも収録されている。
 
   - [How You Like Me Now?](../Page/How_You_Like_Me_Now?.md "wikilink")-Live Version
-  - [The Replacement Percussionist](https://ja.wikipedia.org/wiki/The_Replacement_Percussionist "wikilink")-[Zed Bias](https://ja.wikipedia.org/wiki/ゼッド・バイアス "wikilink") Remix
-  - [m-flo tour 2001"EXPO EXPO"](https://ja.wikipedia.org/wiki/m-flo_tour_2001"EXPO_EXPO" "wikilink")
+  - [The Replacement Percussionists](../Page/The_Replacement_Percussionists.md "wikilink")-[Zed Bias](https://ja.wikipedia.org/wiki/ゼッド・バイアス "wikilink") Remix
+  - [m-flo tour 2001 "EXPO EXPO"](https://ja.wikipedia.org/wiki/m-flo_tour_2001_"EXPO_EXPO" "wikilink")
   - [m-flo inside -WORKS BEST II-](https://ja.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_II- "wikilink")
   - [m-flo inside -WORKS BEST III-](https://ja.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_III- "wikilink")
   - [m-flo inside -WORKS BEST IV-](https://ja.wikipedia.org/wiki/m-flo_inside_-WORKS_BEST_IV- "wikilink")

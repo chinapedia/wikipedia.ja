@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[カローラIIにのって](https://ja.wikipedia.org/wiki/カローラIIにのって)から翻訳されています。
 
 
 「**カローラIIにのって**」（カローラツーにのって）は、[小沢健二](../Page/小沢健二.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[東芝EMIより発売された](../Page/EMIミュージック・ジャパン.md "wikilink")。
@@ -30,7 +30,7 @@
 
 ## 脚注
 
-[Category:小沢健二の楽曲](https://ja.wikipedia.org/wiki/Category:小沢健二の楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:イーストワールドのシングル](https://ja.wikipedia.org/wiki/Category:イーストワールドのシングル "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink") [Category:自動車を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:自動車を題材とした楽曲 "wikilink") [Category:佐藤雅彦](https://ja.wikipedia.org/wiki/Category:佐藤雅彦 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:小沢健二の楽曲](https://ja.wikipedia.org/wiki/Category:小沢健二の楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:イーストワールドのシングル](https://ja.wikipedia.org/wiki/Category:イーストワールドのシングル "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink") [Category:自動車を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:自動車を題材とした楽曲 "wikilink") [Category:佐藤雅彦](https://ja.wikipedia.org/wiki/Category:佐藤雅彦 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 
 1.  「『カローラ2』が大ヒット\!? ただしCMソング」『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1995年1月13日付朝刊（名古屋）、13頁。
 2.

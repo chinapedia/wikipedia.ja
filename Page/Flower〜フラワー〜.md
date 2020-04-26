@@ -1,4 +1,4 @@
-> この記事は[Flower](https://ja.wikipedia.org/wiki/Flower)から翻訳されています。
+> この記事は[Flower〜フラワー〜](https://ja.wikipedia.org/wiki/Flower〜フラワー〜)から翻訳されています。
 
 
 『**Flower〜フラワー〜**』は、[和田尚子](../Page/和田尚子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

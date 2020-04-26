@@ -1,4 +1,4 @@
-> この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
+> この記事は[KISSが哀しい](https://ja.wikipedia.org/wiki/KISSが哀しい)から翻訳されています。
 
 
 「**KISSが哀しい**」（キスがかなしい）は、1998年4月にリリースされた[郷ひろみ](../Page/郷ひろみ.md "wikilink")の74枚目のシングルである。

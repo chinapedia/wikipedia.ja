@@ -1,4 +1,4 @@
-> この記事は[ \(SSK-2\)](https://ja.wikipedia.org/wiki/_\(SSK-2\))から翻訳されています。
+> この記事は[バス \(SSK-2\)](https://ja.wikipedia.org/wiki/バス_\(SSK-2\))から翻訳されています。
 
 
 |                                                                                                                |

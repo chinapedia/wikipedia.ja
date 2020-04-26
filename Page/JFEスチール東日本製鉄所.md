@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEスチール東日本製鉄所](https://ja.wikipedia.org/wiki/JFEスチール東日本製鉄所)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:JFEStealChibaFactory.jpg "wikilink") **JFEスチール東日本製鉄所**（ジェイエフイースチールひがしにほんせいてつしょ）は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")の[銑鋼一貫製鉄所](https://ja.wikipedia.org/wiki/銑鋼一貫製鉄所 "wikilink")である。京浜地区と千葉地区に分かれており、前者は[川崎市](../Page/川崎市.md "wikilink")[川崎区](../Page/川崎区.md "wikilink")[扇島](https://ja.wikipedia.org/wiki/扇島_\(川崎市\) "wikilink")1-1、後者は[千葉市](../Page/千葉市.md "wikilink")[中央区川崎町](../Page/中央区_\(千葉市\).md "wikilink")1にある。また、[兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")に西宮工場がある。

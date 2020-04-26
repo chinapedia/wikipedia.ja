@@ -1,4 +1,4 @@
-> この記事は[ \(REBORN!\)](https://ja.wikipedia.org/wiki/_\(REBORN!\))から翻訳されています。
+> この記事は[山本武 \(家庭教師ヒットマンREBORN!\)](https://ja.wikipedia.org/wiki/山本武_\(家庭教師ヒットマンREBORN!\))から翻訳されています。
 
 
 **山本武**（やまもと たけし）は、[天野明](../Page/天野明.md "wikilink")作の漫画作品『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』に登場する架空の人物。原作では標的4（第4話）から、アニメでは標的1（第1話）から登場する。

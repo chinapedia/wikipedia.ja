@@ -1,7 +1,7 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBIジャパンネクスト証券](https://ja.wikipedia.org/wiki/SBIジャパンネクスト証券)から翻訳されています。
 
 
-**SBIジャパンネクスト証券株式会社**（エスビーアイジャパンネクストしょうけんかぶしきがいしゃ）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[平河町](../Page/平河町.md "wikilink")に本社を置く[私設取引システム](https://ja.wikipedia.org/wiki/私設取引システム "wikilink")（PTS）を運営する[証券会社](../Page/証券会社.md "wikilink")である。証券取引関係の掲示ではJNXと略される。
+**SBIジャパンネクスト証券株式会社**（エスビーアイジャパンネクストしょうけん）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")に本社を置く[私設取引システム](https://ja.wikipedia.org/wiki/私設取引システム "wikilink")（PTS）を運営する[証券会社](../Page/証券会社.md "wikilink")である。証券取引関係の掲示ではJNXと略される。
 
 ## 概要
 

@@ -1,4 +1,4 @@
-> この記事は[CHANGE THE WORLD \(V6\)](https://ja.wikipedia.org/wiki/CHANGE_THE_WORLD_\(V6\))から翻訳されています。
+> この記事は[CHANGE THE WORLD \(V6の曲\)](https://ja.wikipedia.org/wiki/CHANGE_THE_WORLD_\(V6の曲\))から翻訳されています。
 
 
 「**CHANGE THE WORLD**」（チェンジ ザ ワールド）は、[V6の](../Page/V6_\(グループ\).md "wikilink")17枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[avex traxから発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

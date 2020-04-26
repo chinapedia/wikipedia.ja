@@ -39,4 +39,4 @@ c/wに20th Century、Coming Centuryの両方の曲が収録されるのは今作
   - 『[Best of Coming Century 〜Together〜](../Page/Best_of_Coming_Century_〜Together〜.md "wikilink")』（\#3）
   - 『[SUPER Very best](https://ja.wikipedia.org/wiki/SUPER_Very_best "wikilink")』（\#1）
 
-[Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:小幡英之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小幡英之が制作した楽曲 "wikilink") [Category:風を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:風を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink")
+[Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:V6の楽曲](https://ja.wikipedia.org/wiki/Category:V6の楽曲 "wikilink") [Category:小幡英之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小幡英之が制作した楽曲 "wikilink") [Category:風を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:風を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

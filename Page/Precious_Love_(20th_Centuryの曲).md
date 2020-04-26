@@ -1,4 +1,4 @@
-> この記事は[Precious Love \(20th Century\)](https://ja.wikipedia.org/wiki/Precious_Love_\(20th_Century\))から翻訳されています。
+> この記事は[Precious Love \(20th Centuryの曲\)](https://ja.wikipedia.org/wiki/Precious_Love_\(20th_Centuryの曲\))から翻訳されています。
 
 
 『**Precious Love**』（プレシャス・ラブ）は、[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発売された[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。

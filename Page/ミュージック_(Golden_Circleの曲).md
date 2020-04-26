@@ -1,4 +1,4 @@
-> この記事は[ \(Golden Circle\)](https://ja.wikipedia.org/wiki/_\(Golden_Circle\))から翻訳されています。
+> この記事は[ミュージック \(Golden Circleの曲\)](https://ja.wikipedia.org/wiki/ミュージック_\(Golden_Circleの曲\))から翻訳されています。
 
 
 『**ミュージック**』は[寺岡呼人](../Page/寺岡呼人.md "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[ゆずが](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")「**[Golden Circl](../Page/Golden_Circle_\(イベント\).md "wikilink") feat.[寺岡呼人](../Page/寺岡呼人.md "wikilink")/[松任谷由実](../Page/松任谷由実.md "wikilink")/[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")**」名義で発売した[コラボレーション](../Page/コラボレーション.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")発売。

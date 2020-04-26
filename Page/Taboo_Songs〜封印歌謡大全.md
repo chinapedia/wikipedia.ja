@@ -1,4 +1,4 @@
-> この記事は[Taboo Songs](https://ja.wikipedia.org/wiki/Taboo_Songs)から翻訳されています。
+> この記事は[Taboo Songs〜封印歌謡大全](https://ja.wikipedia.org/wiki/Taboo_Songs〜封印歌謡大全)から翻訳されています。
 
 
 『**Taboo Songs〜封印歌謡大全**』（タブーソングス ふういんかようたいぜん）は、[TBSラジオで放送された](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

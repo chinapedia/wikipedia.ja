@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[雷電III](https://ja.wikipedia.org/wiki/雷電III)から翻訳されています。
 
 
 『**雷電III**』（らいでんスリー）はMOSSが開発し、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から2005年にリリースされたアーケードゲーム。ジャンルはシューティングゲームである。雷電シリーズ第4作目である。

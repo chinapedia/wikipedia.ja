@@ -1,4 +1,4 @@
-> この記事は[OVA](https://ja.wikipedia.org/wiki/OVA)から翻訳されています。
+> この記事は[日本のOVA作品一覧](https://ja.wikipedia.org/wiki/日本のOVA作品一覧)から翻訳されています。
 
 
 <div class="pathnavbox">

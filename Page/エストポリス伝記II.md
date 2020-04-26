@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[エストポリス伝記II](https://ja.wikipedia.org/wiki/エストポリス伝記II)から翻訳されています。
 
 
 『**エストポリス伝記II**』（エストポリスでんきツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。『[エストポリス伝記](../Page/エストポリス伝記.md "wikilink")』シリーズ3部作として発表されたうちの2作目にあたる。略称は「エストII」。

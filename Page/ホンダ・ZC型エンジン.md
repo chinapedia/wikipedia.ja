@@ -1,4 +1,4 @@
-> この記事は[ZC](https://ja.wikipedia.org/wiki/ZC)から翻訳されています。
+> この記事は[ホンダ・ZC型エンジン](https://ja.wikipedia.org/wiki/ホンダ・ZC型エンジン)から翻訳されています。
 
 
 **ZC型エンジン**（ZCがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた1.6Lの[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")である。

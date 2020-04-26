@@ -1,4 +1,4 @@
-> この記事は[JP](https://ja.wikipedia.org/wiki/JP)から翻訳されています。
+> この記事は[JPモルガン・チェース・タワー](https://ja.wikipedia.org/wiki/JPモルガン・チェース・タワー)から翻訳されています。
 
 
 [210px](https://ja.wikipedia.org/wiki/ファイル:Chase_Tower,_a_block_away.jpg "wikilink") **JPモルガン・チェース・タワー**（英文表記: **JPMorgan Chase Tower**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")にあり、75階建て・305メートル（1002フィート）の高さを誇る[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。以前は「テキサス・コマース・タワー」として知られていた建物であり、テキサス州において最も高く、また5面体の建物としては世界で1番高い建物である。

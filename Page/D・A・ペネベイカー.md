@@ -1,4 +1,4 @@
-> この記事は[DA](https://ja.wikipedia.org/wiki/DA)から翻訳されています。
+> この記事は[D・A・ペネベイカー](https://ja.wikipedia.org/wiki/D・A・ペネベイカー)から翻訳されています。
 
 
 **ドン・アラン・ペネベイカー**（**Donn Alan Pennebaker**、[1925年](../Page/1925年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - [2019年](../Page/2019年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")\[1\]）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[映画監督](../Page/映画監督.md "wikilink")。[アカデミー名誉賞](https://ja.wikipedia.org/wiki/アカデミー名誉賞 "wikilink")受賞者。ダイレクト・シネマ（[Direct Cinema](https://ja.wikipedia.org/wiki/:en:Direct_Cinema "wikilink")）/シネマベリテの先駆者の一人でもある。テーマとしては、[パフォーミング・アート](../Page/舞台芸術.md "wikilink")（とくに[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")）や[政治](../Page/政治.md "wikilink")を中心にとりあげている。

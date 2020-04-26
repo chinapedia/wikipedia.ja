@@ -1,4 +1,4 @@
-> この記事は[Maika \(AV\)](https://ja.wikipedia.org/wiki/Maika_\(AV\))から翻訳されています。
+> この記事は[Maika \(AV女優\)](https://ja.wikipedia.org/wiki/Maika_\(AV女優\))から翻訳されています。
 
 
 **Maika**（まいか、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の元[AV女優](../Page/AV女優.md "wikilink")。

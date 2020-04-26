@@ -1,4 +1,4 @@
-> この記事は[Believe \(\)](https://ja.wikipedia.org/wiki/Believe_\(\))から翻訳されています。
+> この記事は[Believe \(岡村孝子の曲\)](https://ja.wikipedia.org/wiki/Believe_\(岡村孝子の曲\))から翻訳されています。
 
 
 「**Believe**」（ビリーブ）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算8枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")4月1日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。EP[レコード](../Page/レコード.md "wikilink")と8センチ[CD](../Page/コンパクトディスク.md "wikilink")・シングル[カセットの](../Page/コンパクトカセット.md "wikilink")3種類がリリースされた。
@@ -71,4 +71,4 @@
 
 <references />
 
-[Category:岡村孝子の楽曲](https://ja.wikipedia.org/wiki/Category:岡村孝子の楽曲 "wikilink") [Category:岡村孝子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岡村孝子が制作した楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:ファンハウスのシングル](https://ja.wikipedia.org/wiki/Category:ファンハウスのシングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
+[Category:岡村孝子の楽曲](https://ja.wikipedia.org/wiki/Category:岡村孝子の楽曲 "wikilink") [Category:岡村孝子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岡村孝子が制作した楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:ファンハウスのシングル](https://ja.wikipedia.org/wiki/Category:ファンハウスのシングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

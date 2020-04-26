@@ -1,13 +1,15 @@
 > この記事は[OVERSEAS TOP40](https://ja.wikipedia.org/wiki/OVERSEAS_TOP40)から翻訳されています。
 
 
-『**OVERSEAS TOP40**』（オーバーシーズ・トップ・フォーティー）は、[α-STATIONで毎週日曜日](../Page/エフエム京都.md "wikilink")15:00～17:00に放送されている[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[カウントダウン](../Page/カウントダウン.md "wikilink")番組である。現在の[DJはポール](../Page/ディスクジョッキー.md "wikilink")・AMI。
+『**OVERSEAS TOP40**』（オーバーシーズ・トップ・フォーティー）は、[α-STATIONで毎週日曜日](../Page/エフエム京都.md "wikilink")15:00～17:00に放送されていた[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[カウントダウン](../Page/カウントダウン.md "wikilink")番組である。
 
 ## 概要
 
 洋楽の同局でのオンエアポイント、京都主要CDショップのセールスポイント、リスナーからのリクエスト、DJの一押しポイントを基にオリジナルランキングを発表している。初期には京都にある[タワーレコード](../Page/タワーレコード.md "wikilink")と[ヴァージン・メガストアーズ](../Page/ヴァージン・メガストアーズ.md "wikilink")からのお勧めアルバムを紹介するコーナーがあった。
 
-番組開始当初は5時間番組であったが、4→3時間と徐々に短縮しており、現在2時間番組となっている。 土曜に放送されている[J-AC TOP40とは事実上](https://ja.wikipedia.org/wiki/J-AC_TOP40 "wikilink")3時間の差が発生している事になり、偏りが見られる。
+番組開始当初は5時間番組であったが、4→3時間と徐々に短縮しており、最終は2時間番組となった。 土曜に放送されている[J-AC TOP40とは事実上](https://ja.wikipedia.org/wiki/J-AC_TOP40 "wikilink")3時間の差が発生している事になり、偏りが見られた。
+
+2020年3月29日の放送をもって、26年9カ月にわたった放送を終了。
 
 ## 放送時間
 
@@ -47,7 +49,6 @@
 次番組であった[TWILIGHT AVENUEとの間が](https://ja.wikipedia.org/wiki/TWILIGHT_AVENUE "wikilink")[ステブレレスとなっていた時期もある](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")。
 初代DJリディア・ティー・ユーンは、1993年7月から翌年3月最終週までは「Overseas TOP30」と併せてその前の「CRUISIN' KYOTO45」の14時から16時までのゾーンも担当していた。
 3代目[久米村直子](../Page/久米村直子.md "wikilink")担当当時は後番組であるTWILIGHT AVENUEのDJ（[後藤晃宏](../Page/後藤晃宏.md "wikilink")）と番組最後にクロストークを行っており、稀にリスナーからの質問を久米村が読み、後番組で後藤が回答するという演出もあった。
-2010年に現在の14:00～17:00の放送時刻に変更になった
 
 ## 関連項目
 

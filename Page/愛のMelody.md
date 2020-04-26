@@ -1,4 +1,4 @@
-> この記事は[Melody](https://ja.wikipedia.org/wiki/Melody)から翻訳されています。
+> この記事は[愛のMelody](https://ja.wikipedia.org/wiki/愛のMelody)から翻訳されています。
 
 
 「**愛のMelody**」（あいのメロディ）は、[V6の](../Page/V6_\(グループ\).md "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxから発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

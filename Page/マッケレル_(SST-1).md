@@ -1,4 +1,4 @@
-> この記事は[ \(SST-1\)](https://ja.wikipedia.org/wiki/_\(SST-1\))から翻訳されています。
+> この記事は[マッケレル \(SST-1\)](https://ja.wikipedia.org/wiki/マッケレル_\(SST-1\))から翻訳されています。
 
 
 <div class="thumb tright">

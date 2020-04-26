@@ -1,4 +1,4 @@
-> この記事は[!KING](https://ja.wikipedia.org/wiki/!KING)から翻訳されています。
+> この記事は[レッツ!八事ジャスKING](https://ja.wikipedia.org/wiki/レッツ!八事ジャスKING)から翻訳されています。
 
 
 『**レッツ\!八事ジャスKING**』（レッツ やごとジャスキング）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[広報](../Page/広報.md "wikilink")番組。ジャスコシティ八事（現・[イオン八事店](../Page/イオン八事店.md "wikilink")）の一社提供。放送時間は毎週日曜 21:54 - 22:00 ([JST](../Page/日本標準時.md "wikilink")) 。

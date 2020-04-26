@@ -1,4 +1,4 @@
-> この記事は[AGOVV](https://ja.wikipedia.org/wiki/AGOVV)から翻訳されています。
+> この記事は[AGOVVアペルドールン](https://ja.wikipedia.org/wiki/AGOVVアペルドールン)から翻訳されています。
 
 
 **AGOVVアペルドールン**（AGOVV Apeldoorn, ）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アペルドールン](../Page/アペルドールン.md "wikilink")に本拠地を置くアマチュア[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。プロクラブとしての最終シーズンとなった2012-13シーズンは[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")（2部）に在籍していた。

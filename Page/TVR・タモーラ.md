@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・タモーラ](https://ja.wikipedia.org/wiki/TVR・タモーラ)から翻訳されています。
 
 
 **タモーラ**（*Tamora*）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[TVR](../Page/TVR.md "wikilink")が発売していた[スポーツカー](../Page/スポーツカー.md "wikilink")。

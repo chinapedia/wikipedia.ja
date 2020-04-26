@@ -1,4 +1,4 @@
-> この記事は[FBS](https://ja.wikipedia.org/wiki/FBS)から翻訳されています。
+> この記事は[FBS金曜トレビアン](https://ja.wikipedia.org/wiki/FBS金曜トレビアン)から翻訳されています。
 
 
 『**FBS金曜トレビアン**』（エフビーエスきんようトレビアン）は、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、[福岡放送](../Page/福岡放送.md "wikilink")で[生放送](../Page/生放送.md "wikilink")されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。通称「**金曜トレビアン**」「**金トレ**」。番組[連動データ放送実施](../Page/データ放送.md "wikilink")。

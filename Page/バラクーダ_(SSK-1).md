@@ -1,4 +1,4 @@
-> この記事は[ \(SSK-1\)](https://ja.wikipedia.org/wiki/_\(SSK-1\))から翻訳されています。
+> この記事は[バラクーダ \(SSK-1\)](https://ja.wikipedia.org/wiki/バラクーダ_\(SSK-1\))から翻訳されています。
 
 
 |                                                                                                                           |

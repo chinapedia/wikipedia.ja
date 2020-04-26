@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[雷電DX](https://ja.wikipedia.org/wiki/雷電DX)から翻訳されています。
 
 
 『**雷電DX**』（らいでんディー・エックス）は、セイブ開発が制作・販売されたアーケードゲーム。

@@ -36,7 +36,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/接吻_(曲)" title="wikilink">接吻 KISS</a>（<a href="https://ja.wikipedia.org/wiki/ORIGINAL_LOVE" title="wikilink">ORIGINAL LOVE</a>）</li>
 <li><a href="../Page/Everything_(MISIAの曲).md" title="wikilink">EVERYTHING</a>（<a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/真夏の果実" title="wikilink">真夏の果実</a>（<a href="../Page/サザンオールスターズ.md" title="wikilink">サザンオールスターズ</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/春の歌/テクテク" title="wikilink">春の歌</a>（<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/春の歌/テクテク" title="wikilink">春の歌</a>（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>）</li>
 <li><a href="../Page/笑顔の行方.md" title="wikilink">未来予想図II</a> （<a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>）</li>
 <li><a href="../Page/One_more_time,_One_more_chance.md" title="wikilink">One more time, One more chance</a>（<a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>）</li>
 <li><a href="../Page/世界に一つだけの花.md" title="wikilink">世界に一つだけの花</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
@@ -58,7 +58,7 @@
 <td><ol>
 <li><a href="../Page/ハナミズキ_(曲).md" title="wikilink">ハナミズキ</a>（<a href="https://ja.wikipedia.org/wiki/一青窈" title="wikilink">一青窈</a>）</li>
 <li><a href="../Page/First_Love_(宇多田ヒカルの曲).md" title="wikilink">First Love</a>（<a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>）</li>
+<li><a href="https://ja.wikipedia.org/wiki/チェリー_(曲)" title="wikilink">チェリー</a>（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>）</li>
 <li>遠く遠く（<a href="../Page/槇原敬之.md" title="wikilink">槇原敬之</a>）</li>
 <li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a>（<a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a>）</li>
 <li><a href="../Page/やさしさに包まれたなら.md" title="wikilink">やさしさに包まれたなら</a>（<a href="../Page/松任谷由実.md" title="wikilink">荒井由実</a>）</li>

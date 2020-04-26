@@ -1329,7 +1329,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/FOMARE" title="wikilink">FOMARE</a>(OA)</li>
 <li><a href="https://ja.wikipedia.org/wiki/teto" title="wikilink">teto</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Creepy_Nuts" title="wikilink">Creepy Nuts</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Dizzy_Sunfist" title="wikilink">Dizzy Sunfist</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NAMBA69" title="wikilink">NAMBA69</a></li>

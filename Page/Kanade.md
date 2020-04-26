@@ -90,6 +90,6 @@
 
   - [オフィシャルサイト](http://sings-kanade.com/)
   - [ユニバーサルJによるオフィシャルサイト](https://www.universal-music.co.jp/kanade/)
-  - [オフィシャルブログ](http://ameblo.jp/0862292735/)
+  - [オフィシャルブログ](https://ameblo.jp/0862292735/)
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:岡山県出身の人物](https://ja.wikipedia.org/wiki/Category:岡山県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -13,7 +13,7 @@
 
   - 平日 18:10 - 19:00（[JST](../Page/日本標準時.md "wikilink")）
       - 祝日は休止され、18:45 - 19:00に県内ニュース・気象情報を放送\[1\]。
-      - 2020年3月11日は、当日で[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")および[東京電力・福島第一原発の事故の発生から](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")9年となることに合わせた特別報道のため、18時の『[ニュース](../Page/NHKニュース_\(テレビ番組\).md "wikilink")（全国向け）』をネット返上\[2\]の上10分前拡大（18:00 - 19:00）し放送する予定。
+      - 2020年3月11日は、当日で[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")および[東京電力・福島第一原発の事故の発生から](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")9年となることに合わせた特別報道のため、18時の『[ニュース](../Page/NHKニュース_\(テレビ番組\).md "wikilink")（全国向け）』をネット返上\[2\]の上10分前拡大（18:00 - 19:00）し放送。
 
 ## 出演者
 
@@ -33,7 +33,8 @@
 | 2016 |  | [荒響子](https://ja.wikipedia.org/wiki/荒響子 "wikilink")     |                                                                  |
 | 2017 |  | [岩間瞳](https://ja.wikipedia.org/wiki/岩間瞳 "wikilink")     | [平川沙英](https://ja.wikipedia.org/wiki/平川沙英 "wikilink")            |
 | 2018 |  |                                                         |                                                                  |
-| 2019 |  | [芳賀健太郎](../Page/芳賀健太郎.md "wikilink")\[8\]               | 高石桃子 浅川理沙                                                        |
+| 2019 |  | [芳賀健太郎](../Page/芳賀健太郎.md "wikilink")\[8\]               | 高石桃子                                                             |
+| 2020 |  |                                                         |                                                                  |
 |      |  |                                                         |                                                                  |
 
 　　　　　　　　　　　　　　　　　　　　
@@ -99,7 +100,7 @@
 [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:NHK福島](https://ja.wikipedia.org/wiki/Category:NHK福島 "wikilink")
 
 1.  2019年現在、一部の祝日は仙台局発東北地方向けのニュース・気象情報を放送。
-2.  なお、本来なら本番組の前座番組は『[ニュース シブ5時](https://ja.wikipedia.org/wiki/ニュース_シブ5時 "wikilink")』であるが、この日同番組は[大相撲春場所](https://ja.wikipedia.org/wiki/大相撲春場所 "wikilink")中継のため休止となっている。
+2.  なお、本来なら本番組の前座番組は『[ニュース シブ5時](https://ja.wikipedia.org/wiki/ニュース_シブ5時 "wikilink")』であるが、この日同番組は大相撲春場所中継のため休止となっている。
 3.  『[630きょうの福島](https://ja.wikipedia.org/wiki/630きょうの福島 "wikilink")』以来、約30年ぶりの登板。伊藤が担当した期間のみ、番組の締めの挨拶が**「今日も**（金曜日は**「今週も」**）**ご覧いただきまして、ありがとうございました。」**という挨拶に替わっていた（片山、若月、本田、芳賀は**「今日（今週）はこの辺で失礼します。」**という挨拶をしていた。一方吾妻は、伊藤と同じように**「今日もご覧頂きありがとうございました。」**で締めくくる事がある。）
 4.
 5.  不在時は[芳賀健太郎](../Page/芳賀健太郎.md "wikilink")・若月弘一郎（いずれも当時福島局）が担当。

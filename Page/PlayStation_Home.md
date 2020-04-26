@@ -206,7 +206,7 @@ Stuff:ポータブルアイテム</p></td>
 
 ### 特設ラウンジ
 
-ナビゲーター経由で別のラウンジ群に移動できる。また、Home内で独自のラウンジを公開している企業も多数いる。一部ラウンジには年齢制限がかけられており、対象となるラウンジは背景色を変えている。（[CEROの基準に倣い](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上は<span style="background:mediumseagreen">緑</span>、15歳以上は<span style="background:mediumslateblue">青</span>、17歳以上は<span style="background:orange">オレンジ</span>、18歳以上は<span style="background:red">赤</span>とする。）すでに公開が終了したラウンジは*斜体*表記とする。また、EAの全ラウンジは現在一時撤去中。
+ナビゲーター経由で別のラウンジ群に移動できる。また、Home内で独自のラウンジを公開している企業も多数いる。一部ラウンジには年齢制限がかけられており、対象となるラウンジは背景色を変えている。（[CEROの基準に倣い](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上は<span style="background:mediumseagreen">緑</span>、15歳以上は<span style="background:mediumslateblue">青</span>、17歳以上は<span style="background:orange">オレンジ</span>、18歳以上は<span style="background:red">赤</span>とする。）すでに公開が終了したラウンジは*斜体*表記とする。また、EAの全ラウンジは現在一時撤去中。
 
 <table>
 <thead>

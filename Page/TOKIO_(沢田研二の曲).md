@@ -56,7 +56,7 @@
 ## 外部リンク
 
   -
-[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が作詞した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink")
+[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が作詞した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink")
 
 1.
 2.

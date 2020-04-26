@@ -1,7 +1,7 @@
 > この記事は[ARTIST LOCKS!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!)から翻訳されています。
 
 
-**ARTIST LOCKS\!**（アーティスト・ロックス）\[1\]\[2\]とは、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている、[SCHOOL OF LOCK\!のコーナーの](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")1つである。放送時間は、月曜日 - 木曜日は23:10ごろから約20分間、金曜日は23:00ごろから約20分間と23:23ごろから約20分間、月曜日 - 金曜日は22:55ごろから約5分間。
+**ARTIST LOCKS\!**（アーティスト・ロックス）\[1\]\[2\]とは、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている、[SCHOOL OF LOCK\!のコーナーの](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")1つである。放送時間は、月曜日 - 木曜日は23:10ごろから約20分間、金曜日は23:00ごろから約20分間と23:23ごろから約20分間、月曜日 - 木曜日は22:55ごろから約5分間。
 
 ## 現在放送中のもの
 
@@ -70,11 +70,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>―</p></td>
+<td><p>月―木曜日</p></td>
 <td><p>豆柴LOCKS！</p></td>
 <td><p>「飼育小屋の子犬」<strong><a href="../Page/豆柴の大群.md" title="wikilink">豆柴の大群</a></strong></p></td>
 <td><p>放送期間：<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a> -<br />
-毎週月～金曜日22時55分から5分間担当。</p></td>
+毎週月～木曜日22時55分から5分間担当。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -280,7 +280,7 @@
 
 #### 親子のキズナプロジェクト
 
-  - [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月27日](../Page/3月27日.md "wikilink")まで期間限定で担当。金曜日の22：30頃から約20分間。生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[7\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
+  - 「絆の春期講習」として、[2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月27日](../Page/3月27日.md "wikilink")まで期間限定で担当。金曜日の22：30頃から約20分間。生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[7\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
 
 ### ユニゾンLOCKS\!
 
@@ -321,7 +321,7 @@
 
   - 出典
 
-[Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
+[Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
 
 1.  「[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")」等と異なり「ARTIST LOCKS\!」という名称は正式ではなく、公式サイト上では、使われることもあるが、通常は「**LOCKS\!**」とまとめられている。また、後記出典のように『ARTIST』ではなく、「アーティスト」と記載される場合もしばしば見られる。
 2.

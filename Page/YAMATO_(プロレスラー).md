@@ -163,7 +163,7 @@
 
 <!-- end list -->
 
-  - DRAGON GATE USA
+  - [DRAGON GATE USA](https://ja.wikipedia.org/wiki/DRAGON_GATE_USA "wikilink")
 
 <!-- end list -->
 

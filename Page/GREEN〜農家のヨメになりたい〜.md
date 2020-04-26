@@ -114,7 +114,7 @@
 
 ## 外部リンク
 
-  - [農家のヨメになりたい ドラマ公式サイト](http://www6.nhk.or.jp/drama/pastprog/detail.html?i=nouka)
+  - [農家のヨメになりたい ドラマ公式サイト](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=nouka)
 
 [Category:漫画作品_く](https://ja.wikipedia.org/wiki/Category:漫画作品_く "wikilink") [Category:Kiss](https://ja.wikipedia.org/wiki/Category:Kiss "wikilink") [Category:埼玉県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:埼玉県を舞台とした作品 "wikilink") [Category:農業を題材とした作品](https://ja.wikipedia.org/wiki/Category:農業を題材とした作品 "wikilink") [Category:二ノ宮知子](https://ja.wikipedia.org/wiki/Category:二ノ宮知子 "wikilink")
 

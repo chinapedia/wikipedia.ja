@@ -11,7 +11,7 @@
 
   - [SHARE（シェア）](https://www.sha-re.jp/) - 公式サイト
 
-[Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:2011年設立の企業](https://ja.wikipedia.org/wiki/Category:2011年設立の企業 "wikilink") [Category:日本のスポーツクラブ](https://ja.wikipedia.org/wiki/Category:日本のスポーツクラブ "wikilink") [Category:代替医療・民間療法に関する組織](https://ja.wikipedia.org/wiki/Category:代替医療・民間療法に関する組織 "wikilink")
+[Category:札幌市中央区の企業](https://ja.wikipedia.org/wiki/Category:札幌市中央区の企業 "wikilink") [Category:2011年設立の企業](https://ja.wikipedia.org/wiki/Category:2011年設立の企業 "wikilink") [Category:日本のスポーツクラブ](https://ja.wikipedia.org/wiki/Category:日本のスポーツクラブ "wikilink") [Category:代替医療・民間療法に関する組織](https://ja.wikipedia.org/wiki/Category:代替医療・民間療法に関する組織 "wikilink") [Category:日本の医療支援サービス業](https://ja.wikipedia.org/wiki/Category:日本の医療支援サービス業 "wikilink")
 
 1.
 2.

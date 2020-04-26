@@ -39,7 +39,7 @@
 
 オルソンの3期に亘る知事としての任期の間、彼は[社会保障](../Page/社会保障.md "wikilink")に重点を置いた政策を行った。
 
-先ず始めに彼は[所得税](../Page/所得税.md "wikilink")を[累進課税](../Page/累進課税.md "wikilink")方式へと変更することで、[低所得者](https://ja.wikipedia.org/wiki/低所得者 "wikilink")の負担を軽減した。更には[最低賃金の引き上げと](https://ja.wikipedia.org/wiki/最低賃金_\(アメリカ\) "wikilink")[失業保険制度](https://ja.wikipedia.org/wiki/失業保険制度 "wikilink")の導入、そして男女の平等な賃金と[団体交渉権](https://ja.wikipedia.org/wiki/団体交渉権 "wikilink")を保障することで[労働者](https://ja.wikipedia.org/wiki/労働者 "wikilink")の保護を手厚いものにした。次に彼は[高齢者](../Page/高齢者.md "wikilink")向けの[社会保障](../Page/社会保障.md "wikilink")プログラムを作成し、[高齢者福祉](../Page/高齢者福祉.md "wikilink")の充実を図った。他にも州の[環境保全](https://ja.wikipedia.org/wiki/環境保全 "wikilink")プログラムを拡大し、[環境](../Page/環境.md "wikilink")の保護に努めた。
+先ず始めに彼は[所得税](../Page/所得税.md "wikilink")を[累進課税](../Page/累進課税.md "wikilink")方式へと変更することで、[低所得者](https://ja.wikipedia.org/wiki/低所得者 "wikilink")の負担を軽減した。更には[最低賃金の引き上げと](https://ja.wikipedia.org/wiki/最低賃金_\(アメリカ\) "wikilink")[失業保険制度](https://ja.wikipedia.org/wiki/失業保険制度 "wikilink")の導入、そして男女の平等な賃金と[団体交渉権](https://ja.wikipedia.org/wiki/団体交渉権 "wikilink")を保障することで[労働者](../Page/労働者.md "wikilink")の保護を手厚いものにした。次に彼は[高齢者](../Page/高齢者.md "wikilink")向けの[社会保障](../Page/社会保障.md "wikilink")プログラムを作成し、[高齢者福祉](../Page/高齢者福祉.md "wikilink")の充実を図った。他にも州の[環境保全](https://ja.wikipedia.org/wiki/環境保全 "wikilink")プログラムを拡大し、[環境](../Page/環境.md "wikilink")の保護に努めた。
 
 次いで彼は[電気事業](https://ja.wikipedia.org/wiki/電気事業 "wikilink")や[鉱業](../Page/鉱業.md "wikilink")、更には[農業](https://ja.wikipedia.org/wiki/農業 "wikilink")の一部の道具を州の所有にすることを目指した。しかしこれらの法案は[社会主義](../Page/社会主義.md "wikilink")的要素が強いとして反対され、結局成立されることは無かった。
 

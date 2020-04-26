@@ -5,9 +5,9 @@
 
 ## 解説
 
-「Good-bye My Darling」は、[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「ギャツビー」のCMソングにも使われた。
+「Good-bye My Darling」は、[ライオン](../Page/ライオン_\(企業\).md "wikilink")「オルタス」のCMソングにも使われた。
 
-両曲とも、アルバム『[街はステキなカーニバル](https://ja.wikipedia.org/wiki/街はステキなカーニバル "wikilink")』の先行シングルだが、「Good-bye My Darling」はアルバム収録バージョンとは異なる。
+両曲とも、アルバム『[街はステキなカーニバル](../Page/街はステキなカーニバル.md "wikilink")』の先行シングルだが、「Good-bye My Darling」はアルバム収録バージョンとは異なる。
 
 ## 収録曲
 
@@ -91,7 +91,7 @@
 
 ## 収録アルバム
 
-  - [街はステキなカーニバル](https://ja.wikipedia.org/wiki/街はステキなカーニバル "wikilink")（1979年）
+  - [街はステキなカーニバル](../Page/街はステキなカーニバル.md "wikilink")（1979年）
 
 ## 関連項目
 

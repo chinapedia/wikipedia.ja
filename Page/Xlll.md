@@ -37,7 +37,7 @@
 
 ## 脚注
 
-[Category:2018年のアルバム](https://ja.wikipedia.org/wiki/Category:2018年のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink")
+[Category:2018年のアルバム](https://ja.wikipedia.org/wiki/Category:2018年のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink") [Category:lynch.のアルバム](https://ja.wikipedia.org/wiki/Category:lynch.のアルバム "wikilink")
 
 1.
 2.

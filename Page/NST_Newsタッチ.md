@@ -20,13 +20,23 @@
 
 ## キャスター
 
-  - 平日版
+○はNST新潟総合テレビアナウンサー、☆は『NST Live News it\!』から続投。
 
-<!-- end list -->
+### 平日版
 
-  - 杉本一機（報道部記者）
+#### メインキャスター
+
+  - 杉本一機（報道部記者）☆
   - [松村道子](../Page/松村道子.md "wikilink")（フリーアナウンサー）\[1\]
-  - 清水祥太（気象予報士）
+
+#### コーナー担当
+
+  - [桶屋美圭](https://ja.wikipedia.org/wiki/NST新潟総合テレビ#女性 "wikilink")【ジョイスポ（月曜スポーツコーナー）担当】○☆
+  - [野澤洋輔](../Page/野澤洋輔.md "wikilink")【ジョイスポ（月曜スポーツコーナー）担当】\[2\]☆
+
+#### 天気予報
+
+  - 清水祥太（気象予報士）☆
 
 ## NST歴代の夕方ニュース
 
@@ -53,3 +63,4 @@
 [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:NST新潟総合テレビの番組](https://ja.wikipedia.org/wiki/Category:NST新潟総合テレビの番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink") [Category:Live_News](https://ja.wikipedia.org/wiki/Category:Live_News "wikilink")
 
 1.  2007年までNSTアナウンサー
+2.  2019年まで『[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")』所属選手、2020年より『株式会社アルビレックス新潟』営業部所属の会社員。

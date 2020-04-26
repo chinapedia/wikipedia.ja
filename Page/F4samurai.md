@@ -1,7 +1,7 @@
 > この記事は[F4samurai](https://ja.wikipedia.org/wiki/F4samurai)から翻訳されています。
 
 
-**株式会社f4samurai**（エフフォーサムライ）は、東京都千代田区に本社を置く、ゲーム開発会社。株式会社[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")の連結子会社で、[セガサミーグループに属する](../Page/セガサミーホールディングス.md "wikilink")。
+**株式会社f4samurai**（エフフォーサムライ）は、東京都千代田区に本社を置く、ゲーム開発会社。株式会社[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の連結子会社で、[セガサミーグループに属する](../Page/セガサミーホールディングス.md "wikilink")。
 
 ## 概要
 
@@ -11,13 +11,13 @@
 
 創業当初はブライダル事業やレンタサイクル事業などの計画もあったが、起業するかどうかの時期に[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")が注目を浴び始めたことで、今後伸びて行くであろう業界の方が面白いとゲーム事業を選択した経緯がある\[3\]。
 
-代表の金は自身による投資会社Nuts\&Aboutを通じてポルトガルのサッカーリーグ[リーガプロ](https://ja.wikipedia.org/wiki/リーガプロ "wikilink")の2部に属するクラブチーム[UDオリヴェイレンセ](../Page/UDオリヴェイレンセ.md "wikilink")の株式70%を取得、チームオーナーとなっている\[4\]。
+代表の金は自身による投資会社nuts\&aboutを通じてポルトガルのサッカーリーグ[リーガプロ](https://ja.wikipedia.org/wiki/リーガプロ "wikilink")の2部に属するクラブチーム[UDオリヴェイレンセ](../Page/UDオリヴェイレンセ.md "wikilink")の株式70%を取得、チームオーナーとなっている\[4\]。
 
 ## 沿革
 
   - 2010年1月 - 株式会社f4samurai創業
   - 2010年2月 - 株式会社サムライインキュベートより出資を受ける
-  - 2012年11月 - 株式会社セガネットワークス（現株式会社[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）と業務提携を締結
+  - 2012年11月 - 株式会社[セガネットワークス](https://ja.wikipedia.org/wiki/セガネットワークス "wikilink")（後の株式会社セガ）と業務提携を締結
   - 2012年12月 - 東京都千代田区小川町にオフィスを移転
   - 2013年3月 - 東京都千代田区岩本町にオフィスを移転
   - 2016年3月 - 東京都千代田区淡路町にオフィスを移転
@@ -49,7 +49,7 @@
 
   - [株式会社 f4samurai](https://www.f4samurai.jp/)
 
-[Category:セガゲームス](https://ja.wikipedia.org/wiki/Category:セガゲームス "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:オンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:オンラインゲーム運営元 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2010年設立の企業](https://ja.wikipedia.org/wiki/Category:2010年設立の企業 "wikilink") [Category:神田](https://ja.wikipedia.org/wiki/Category:神田 "wikilink")
+[Category:セガ](https://ja.wikipedia.org/wiki/Category:セガ "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:オンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:オンラインゲーム運営元 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2010年設立の企業](https://ja.wikipedia.org/wiki/Category:2010年設立の企業 "wikilink") [Category:神田](https://ja.wikipedia.org/wiki/Category:神田 "wikilink")
 
 1.  [沿革｜Company｜株式会社 f4samurai](https://www.f4samurai.jp/company/history/)
 2.  [Company｜株式会社 f4samurai](https://www.f4samurai.jp/company/)

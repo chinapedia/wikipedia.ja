@@ -6,40 +6,23 @@
 ## 主な研究分野
 
   - 人工知能
-
-基礎[人工知能](../Page/人工知能.md "wikilink")（AI）システム、視覚認識、視覚処理、自然言語処理、自動音声認識（ASR）、[機械翻訳](../Page/機械翻訳.md "wikilink")（MT）、[ディープラーニング](https://ja.wikipedia.org/wiki/ディープラーニング "wikilink")、[半導体](../Page/半導体.md "wikilink")材料設計自動化技術
-
+      - 基礎[人工知能](../Page/人工知能.md "wikilink")（AI）システム、視覚認識、視覚処理、自然言語処理、自動音声認識（ASR）、[機械翻訳](../Page/機械翻訳.md "wikilink")（MT）、[ディープラーニング](https://ja.wikipedia.org/wiki/ディープラーニング "wikilink")、[半導体](../Page/半導体.md "wikilink")材料設計自動化技術
   - コンピューティングプラットフォーム
-
-[ニューラルプロセッサ](https://ja.wikipedia.org/wiki/ニューラルプロセッサ "wikilink")、[ニューロモーフィックプロセッサ](https://ja.wikipedia.org/wiki/ニューロモーフィックプロセッサ "wikilink")、メモリ処理、高性能コンピューティング、[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")技術、ソフトウェアエンジニアリング（SE）
-
+      - [ニューラルプロセッサ](https://ja.wikipedia.org/wiki/ニューラルプロセッサ "wikilink")、[ニューロモーフィックプロセッサ](https://ja.wikipedia.org/wiki/ニューロモーフィックプロセッサ "wikilink")、メモリ処理、高性能コンピューティング、[暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")技術、ソフトウェアエンジニアリング（SE）
   - [人間](../Page/人間.md "wikilink")能力拡張技術
-
-[拡張現実](../Page/拡張現実.md "wikilink")技術、[血圧](../Page/血圧.md "wikilink")・ECG信号・抗酸化レベル測定監視技術
-
+      - [拡張現実](../Page/拡張現実.md "wikilink")技術、[血圧](../Page/血圧.md "wikilink")・ECG信号・抗酸化レベル測定監視技術
   - メタフォトニクス
-
-人工ナノ構造技術、ホログラフィックディスプレイ、自由空間光通信
-
+      - 人工ナノ構造技術、ホログラフィックディスプレイ、自由空間光通信
   - ナノエレクトロニクス
-
-[量子コンピュータ](../Page/量子コンピュータ.md "wikilink")、[NanoLED](https://ja.wikipedia.org/wiki/NanoLED "wikilink")ディスプレイ
-
+      - [量子コンピュータ](../Page/量子コンピュータ.md "wikilink")、[NanoLED](https://ja.wikipedia.org/wiki/NanoLED "wikilink")ディスプレイ
   - ディスプレイ技術
-
-[OLED](https://ja.wikipedia.org/wiki/OLED "wikilink")（有機EL）、[QLED](https://ja.wikipedia.org/wiki/QLED "wikilink")（量子配列液晶）、ペロブスカイト、有機イメージセンサー、MicroLED
-
+      - [OLED](https://ja.wikipedia.org/wiki/OLED "wikilink")（有機EL）、[QLED](https://ja.wikipedia.org/wiki/QLED "wikilink")（量子配列液晶）、ペロブスカイト、有機イメージセンサー、MicroLED
   - バッテリー技術
-
-スマートデバイス向け[リチウムイオンバッテリー](https://ja.wikipedia.org/wiki/リチウムイオンバッテリー "wikilink")、医療機器・[電気自動車](../Page/電気自動車.md "wikilink")向けバッテリー
-
+      - スマートデバイス向け[リチウムイオンバッテリー](https://ja.wikipedia.org/wiki/リチウムイオンバッテリー "wikilink")、医療機器・[電気自動車](../Page/電気自動車.md "wikilink")向けバッテリー
   - 半導体技術
-
-[グラフェン](https://ja.wikipedia.org/wiki/グラフェン "wikilink")・2次元材料を用いた半導体技術、\[\[DRAM\]、VNAND、5Gモデム、AP、\[\[集積回路|DRAM\]、VNAND、5Gモデム、AP、[集積回路](../Page/集積回路.md "wikilink")デバイス、カメライメージセンサー、[太陽電池](../Page/太陽電池.md "wikilink")
-
+      - [グラフェン](https://ja.wikipedia.org/wiki/グラフェン "wikilink")・2次元材料を用いた半導体技術、[DRAM](https://ja.wikipedia.org/wiki/DRAM "wikilink")、VNAND、5Gモデム、AP、[集積回路](../Page/集積回路.md "wikilink")デバイス、カメライメージセンサー、[太陽電池](../Page/太陽電池.md "wikilink")
   - 環境
-
-ナノ粒子・ガス用センサー粒子・ガス除去用触媒、メンテナンスフリーの空気浄化装置
+      - ナノ粒子・ガス用センサー粒子・ガス除去用触媒、メンテナンスフリーの空気浄化装置
 
 ## 主な研究成果
 
@@ -120,7 +103,7 @@
 
   - [Samsung Advanced Institute of Technology Official Global Site](https://www.sait.samsung.co.kr/saithome/mobile/main/main.do)
 
-[Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:サムスングループ](https://ja.wikipedia.org/wiki/Category:サムスングループ "wikilink") [Category:研究所](https://ja.wikipedia.org/wiki/Category:研究所 "wikilink") [Category:研究機関](https://ja.wikipedia.org/wiki/Category:研究機関 "wikilink")
 
 1.  [Samsung Advanced Institute of Technology](https://www.sait.samsung.co.kr/saithome/mobile/main/main.do//) *Samsung Advanced Institute of Technology Official Global Site*、2020年3月14日閲覧。
 2.  [Global Labs](https://www.sait.samsung.co.kr/saithome/mobile/about/labs.do//) *Samsung Advanced Institute of Technology Official Global Site*、2020年3月14日閲覧。

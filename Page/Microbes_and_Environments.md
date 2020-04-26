@@ -15,13 +15,11 @@
 
 ## 外部リンク
 
-[Microbes and Environments](https://www.microbes-and-environments.jp/)
+  - [Microbes and Environments](https://www.microbes-and-environments.jp/)
+  - [Microbes and Environments(J-STAGE)](https://www.jstage.jst.go.jp/browse/jsme2)
+  - [Microbes and Environments(PubMed)](https://www.ncbi.nlm.nih.gov/pmc/journals/2423/)
 
-[Microbes and Environments(J-STAGE)](https://www.jstage.jst.go.jp/browse/jsme2)
-
-[Microbes and Environments(PubMed)](https://www.ncbi.nlm.nih.gov/pmc/journals/2423/)
-
-[Category:英語の学術雑誌](https://ja.wikipedia.org/wiki/Category:英語の学術雑誌 "wikilink")
+[Category:英語の学術雑誌](https://ja.wikipedia.org/wiki/Category:英語の学術雑誌 "wikilink") [Category:微生物を題材にした作品](https://ja.wikipedia.org/wiki/Category:微生物を題材にした作品 "wikilink") [Category:生態学](https://ja.wikipedia.org/wiki/Category:生態学 "wikilink")
 
 1.
 2.

@@ -142,35 +142,22 @@ HDM
 
 [Nagant M1895](../Page/ナガンM1895.md "wikilink")
 
-# 登場する乗り物
+## 登場する乗り物
 
-[Opel Blitz](https://ja.wikipedia.org/wiki/オペル・ブリッツ "wikilink")
-
-[Autoblinda AB41](https://ja.wikipedia.org/wiki/AB_41_\(装甲車\) "wikilink")
-
-[Sd.Kfz. 251](../Page/Sd_Kfz_251.md "wikilink")
-
-[Panzer III](../Page/パンツァーヴェルファー.md "wikilink")
-
-[MAS boat](../Page/MAS_\(魚雷艇\).md "wikilink")
-
-[Orchidea](https://ja.wikipedia.org/wiki/オルキデア "wikilink")
-
-[Baptista](https://ja.wikipedia.org/wiki/バプティスタ "wikilink")
-
-[Isonzo](https://ja.wikipedia.org/wiki/イゾンゾ "wikilink")
-
-[Numidia](../Page/ヌミディア.md "wikilink")
-
-[Santa Lucia](../Page/サンタルシア_\(ベネズエラ\).md "wikilink")
-
-[Junkers Ju-87](../Page/Ju_87_\(航空機\).md "wikilink")
-
-[Dornier Do 217](../Page/Do_217_\(航空機\).md "wikilink")
-
-[P-51 Mustang](../Page/P-51_\(航空機\).md "wikilink")
-
-[Avro Lancaster](../Page/アブロ_ランカスター.md "wikilink")
+  - [Opel Blitz](https://ja.wikipedia.org/wiki/オペル・ブリッツ "wikilink")
+  - [Autoblinda AB41](https://ja.wikipedia.org/wiki/AB_41_\(装甲車\) "wikilink")
+  - [Sd.Kfz. 251](../Page/Sd_Kfz_251.md "wikilink")
+  - [Panzer III](../Page/パンツァーヴェルファー.md "wikilink")
+  - [MAS boat](../Page/MAS_\(魚雷艇\).md "wikilink")
+  - [Orchidea](https://ja.wikipedia.org/wiki/オルキデア "wikilink")
+  - [Baptista](https://ja.wikipedia.org/wiki/バプティスタ "wikilink")
+  - [Isonzo](https://ja.wikipedia.org/wiki/イゾンゾ "wikilink")
+  - [Numidia](../Page/ヌミディア.md "wikilink")
+  - [Santa Lucia](../Page/サンタルシア_\(ベネズエラ\).md "wikilink")
+  - [Junkers Ju-87](../Page/Ju_87_\(航空機\).md "wikilink")
+  - [Dornier Do 217](../Page/Do_217_\(航空機\).md "wikilink")
+  - [P-51 Mustang](../Page/P-51_\(航空機\).md "wikilink")
+  - [Avro Lancaster](../Page/アブロ_ランカスター.md "wikilink")
 
 ## 開発
 
@@ -190,14 +177,61 @@ Sniper Elite 4は、Rebellion Developmentsによって開発された。Tim Jone
 
 ### 称賛
 
-| 年                                                                            | 賞            | カテゴリー      | 結果            | 参照 |
-| ---------------------------------------------------------------------------- | ------------ | ---------- | ------------- | -- |
-| 2017年                                                                        | 賞を開発する       | 音楽デザイン |   | \[18\]        |    |
-| サウンドデザイン |                                                                   |              |            |               |    |
-| 独立系ゲーム開発者協会賞                                                                 | ビジュアルデザイン |  | \[19\]     |               |    |
-| アクションとアドベンチャーゲーム |                                                           |              |            |               |    |
-| [ゴールデンジョイスティック賞](https://ja.wikipedia.org/wiki/ゴールデンジョイスティックアワード "wikilink") | 最高のオーディオ |   | \[20\]     |               |    |
-| 2018年                                                                        | 第14回英国アカデミー賞 | イギリスのゲーム | | \[21\] \[22\] |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>賞</p></th>
+<th><p>カテゴリー</p></th>
+<th><p>結果</p></th>
+<th><p>参照</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p>賞を開発する</p></td>
+<td><p>音楽デザイン</p></td>
+<td></td>
+<td><p>[18]</p></td>
+</tr>
+<tr class="even">
+<td><p>サウンドデザイン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>独立系ゲーム開発者協会賞</p></td>
+<td><p>ビジュアルデザイン</p></td>
+<td></td>
+<td><p>[19]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>アクションとアドベンチャーゲーム</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンジョイスティックアワード" title="wikilink">ゴールデンジョイスティック賞</a></p></td>
+<td><p>最高のオーディオ</p></td>
+<td></td>
+<td><p>[20]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>第14回英国アカデミー賞</p></td>
+<td><p>イギリスのゲーム</p></td>
+<td></td>
+<td><p>[21] [22]</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 参照資料
 

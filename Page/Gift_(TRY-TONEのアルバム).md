@@ -29,4 +29,4 @@
 
 ## 脚注
 
-[Category:2011年のアルバム](https://ja.wikipedia.org/wiki/Category:2011年のアルバム "wikilink")
+[Category:2011年のアルバム](https://ja.wikipedia.org/wiki/Category:2011年のアルバム "wikilink") [Category:日本のアルバム](https://ja.wikipedia.org/wiki/Category:日本のアルバム "wikilink")

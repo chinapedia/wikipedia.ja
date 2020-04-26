@@ -66,7 +66,7 @@
 ## 外部リンク
 
   -
-[Category:アメリカ合衆国の映画監督](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画監督 "wikilink") [Category:インドの映画監督](https://ja.wikipedia.org/wiki/Category:インドの映画監督 "wikilink") [Category:インドの編集技師](https://ja.wikipedia.org/wiki/Category:インドの編集技師 "wikilink") [Category:南カリフォルニア大学出身の人物](https://ja.wikipedia.org/wiki/Category:南カリフォルニア大学出身の人物 "wikilink") [Category:オハイオ州の人物](https://ja.wikipedia.org/wiki/Category:オハイオ州の人物 "wikilink") [Category:アイルランド系アメリカ人](https://ja.wikipedia.org/wiki/Category:アイルランド系アメリカ人 "wikilink") [Category:1909年生](https://ja.wikipedia.org/wiki/Category:1909年生 "wikilink") [Category:2001年没](https://ja.wikipedia.org/wiki/Category:2001年没 "wikilink")
+[Category:アメリカ合衆国の映画監督](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画監督 "wikilink") [Category:タミル語映画の監督](https://ja.wikipedia.org/wiki/Category:タミル語映画の監督 "wikilink") [Category:インドの編集技師](https://ja.wikipedia.org/wiki/Category:インドの編集技師 "wikilink") [Category:南カリフォルニア大学出身の人物](https://ja.wikipedia.org/wiki/Category:南カリフォルニア大学出身の人物 "wikilink") [Category:オハイオ州の人物](https://ja.wikipedia.org/wiki/Category:オハイオ州の人物 "wikilink") [Category:アイルランド系アメリカ人](https://ja.wikipedia.org/wiki/Category:アイルランド系アメリカ人 "wikilink") [Category:1909年生](https://ja.wikipedia.org/wiki/Category:1909年生 "wikilink") [Category:2001年没](https://ja.wikipedia.org/wiki/Category:2001年没 "wikilink")
 
 1.
 2.  [The Hindu article on Americans in Tamil cinema](http://www.hindu.com/thehindu/mp/2004/09/06/stories/2004090600190300.htm)

@@ -34,7 +34,7 @@
 4.  **[STAY](https://ja.wikipedia.org/wiki/リリス_\(山下久美子の曲\) "wikilink")**
       - 先行シングル「リリス」のB面曲。
 5.  **Rock me Baby**
-6.  **BULEZY**
+6.  **BLUEZY**
       - [インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")曲。
 
 ## 参加ミュージシャン

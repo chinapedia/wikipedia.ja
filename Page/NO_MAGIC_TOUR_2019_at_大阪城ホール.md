@@ -47,7 +47,7 @@
 
 ## 脚注
 
-[Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink") [Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink") [Category:2019年8月](https://ja.wikipedia.org/wiki/Category:2019年8月 "wikilink") [Category:大阪城ホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:大阪城ホールの行事・イベント "wikilink")
+[Category:back_numberの映像作品](https://ja.wikipedia.org/wiki/Category:back_numberの映像作品 "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink") [Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink") [Category:2019年8月](https://ja.wikipedia.org/wiki/Category:2019年8月 "wikilink") [Category:大阪城ホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:大阪城ホールの行事・イベント "wikilink")
 
 1.
 2.

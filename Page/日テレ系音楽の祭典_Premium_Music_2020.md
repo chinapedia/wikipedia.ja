@@ -90,7 +90,7 @@
   - **[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")**
   - [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")
   - **[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")**
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - [B'z](../Page/B'z.md "wikilink")
   - [光GENJI](../Page/光GENJI.md "wikilink")
   - [一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")
@@ -279,7 +279,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td></td>
 <td></td>

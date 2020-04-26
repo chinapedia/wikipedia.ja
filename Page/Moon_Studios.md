@@ -8,7 +8,7 @@
 ## 外部リンク
 
   -
-[Category:Video_game_development_companies](https://ja.wikipedia.org/wiki/Category:Video_game_development_companies "wikilink") [Category:Video_game_companies_established_in_2010](https://ja.wikipedia.org/wiki/Category:Video_game_companies_established_in_2010 "wikilink") [Category:Video_game_companies_of_Austria](https://ja.wikipedia.org/wiki/Category:Video_game_companies_of_Austria "wikilink") [Category:Companies_based_in_Vienna](https://ja.wikipedia.org/wiki/Category:Companies_based_in_Vienna "wikilink") [Category:2010_establishments_in_Austria](https://ja.wikipedia.org/wiki/Category:2010_establishments_in_Austria "wikilink")
+[Category:コンピュータゲーム制作会社](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム制作会社 "wikilink") [Category:ウィーンの企業](https://ja.wikipedia.org/wiki/Category:ウィーンの企業 "wikilink")
 
 1.
 2.

@@ -7,11 +7,13 @@
 
 ## 概要
 
+前作から約8ヶ月ぶりに発売するアルバム。
+
 [Novelbright](https://ja.wikipedia.org/wiki/Novelbright "wikilink")初の[フル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 今作からCDをリリースするレーベル名が「Emperor Mode」から「Emperor Driver」となった。
 
-今作は過去に限定CDとしてリリースされた「夜空に舞う鷹のように」「スタートライン」「Photo album」なども再収録されている。
+今作は過去に会場限定CDとしてリリースされた「夜空に舞う鷹のように」「スタートライン」「Photo album」なども再収録されている。
 
 ## 収録曲
 
@@ -93,7 +95,9 @@
 
 ## タイアップ
 
-  - [アサヒビール](../Page/アサヒビール.md "wikilink")「[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")」WEB限定[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)
+  - [アサヒビール](../Page/アサヒビール.md "wikilink")「[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")」WEB限定[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)\[7\]\[8\]
+  - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")『[KATE](https://ja.wikipedia.org/wiki/KATE "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#3)\[9\]
+  - スマートフォン向けゲーム『[放置少女](https://ja.wikipedia.org/wiki/放置少女 "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#8)\[10\]
 
 ## 脚注
 
@@ -105,3 +109,7 @@
 4.
 5.
 6.
+7.
+8.
+9.
+10.

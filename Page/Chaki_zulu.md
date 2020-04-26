@@ -1,9 +1,9 @@
 > この記事は[Chaki zulu](https://ja.wikipedia.org/wiki/Chaki_zulu)から翻訳されています。
 
 
-## 概要
+**Chaki Zulu**は、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、作曲家、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")。
 
-Chaki Zuluは[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")としても活動しており(2015年引退)、[ギター](../Page/ギター.md "wikilink")や[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")などを得意とする。 所属していたエレクトロ・デュオ「THE LOWBROWS」は日本国外でも評価され、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")が主催する「SPACE SHOWER MUSIC VIDEO AWARDS 2010」ではGROOVE VIDEO部門に入賞したり\[1\]、Bang Gang 12 inchesなど国外のレーベルからも音源をリリースしている\[2\]。なお、アルバムは[BMG JAPANや](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")などのメジャーレーベルからリリースしている。[サマーソニック](../Page/サマーソニック.md "wikilink")08、ROCK IN JAPAN09\[3\]、[サマーソニック](../Page/サマーソニック.md "wikilink")2012、FREEDOMMUNE 0＜ZERO＞ A NEW ZERO 2012にも出演した。2015年にDJを引退し、レーベル『YENTOWN』を創立、2018年に一夜限りのDJ復活と称し、FUJI ROCK FESTIVAL '18 レッドマーキーに出演、取巻きが盛り上がり過ぎてステージが壊れるハプニンに見舞われる。現在はプライベートスタジオ『Husky Studio』を運営している。
+[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")としても活動しており(2015年引退)、[ギター](../Page/ギター.md "wikilink")や[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")などを得意とする。 所属していたエレクトロ・デュオ「THE LOWBROWS」は日本国外でも評価され、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")が主催する「SPACE SHOWER MUSIC VIDEO AWARDS 2010」ではGROOVE VIDEO部門に入賞したり\[1\]、Bang Gang 12 inchesなど国外のレーベルからも音源をリリースしている\[2\]。なお、アルバムは[BMG JAPANや](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")などのメジャーレーベルからリリースしている。[サマーソニック](../Page/サマーソニック.md "wikilink")08、ROCK IN JAPAN09\[3\]、[サマーソニック](../Page/サマーソニック.md "wikilink")2012、FREEDOMMUNE 0＜ZERO＞ A NEW ZERO 2012にも出演した。2015年にDJを引退し、レーベル『YENTOWN』を創立、2018年に一夜限りのDJ復活と称し、FUJI ROCK FESTIVAL '18 レッドマーキーに出演、取巻きが盛り上がり過ぎてステージが壊れるハプニンに見舞われる。現在はプライベートスタジオ『Husky Studio』を運営している。
 
 ## 略歴
 
@@ -364,7 +364,7 @@ Chaki Zuluは[ディスクジョッキー](../Page/ディスクジョッキー.m
 
 ## 脚注
 
-[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
+[Category:音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の音響技術者](https://ja.wikipedia.org/wiki/Category:日本の音響技術者 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
 
 1.  「THE LOWBROWS」[About « THE LOWBROWS OFFICIAL WEBSITE](http://thelowbrows.com/about-main/)。
 2.  *Dream in the Desert*, Bang Gang 12 inches, [2009](../Page/2009年.md "wikilink").

@@ -38,6 +38,6 @@
 ## 外部リンク
 
   -
-[Category:北海道放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組‎](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組‎ "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:2015年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2015年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink")
+[Category:北海道放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:2015年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2015年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink")
 
 1.

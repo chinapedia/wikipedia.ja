@@ -1,7 +1,7 @@
 > この記事は[OpenCritic](https://ja.wikipedia.org/wiki/OpenCritic)から翻訳されています。
 
 
-**OpenCritic**（**オープンクリティック**）は、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[レビュー収集サイト](https://ja.wikipedia.org/wiki/レビュー収集サイト "wikilink")。OpenCriticはサイトに掲載されているゲームについての複数のコンピュータゲーム出版物の批評家の[レビュー](https://ja.wikipedia.org/wiki/レビュー "wikilink")を掲載しており、それからすべてのスコア付きのレビューを平均することで数値スコアを生成している。ゲームを推薦する批評家の割合や、OpenCriticに掲載されているすべてのゲームにおける相対的順位などの他のいくつかの指標も利用できる。
+**OpenCritic**（**オープンクリティック**）は、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[レビュー収集サイト](../Page/レビュー収集サイト.md "wikilink")。OpenCriticはサイトに掲載されているゲームについての複数のコンピュータゲーム出版物の批評家の[レビュー](https://ja.wikipedia.org/wiki/レビュー "wikilink")を掲載しており、それからすべてのスコア付きのレビューを平均することで数値スコアを生成している。ゲームを推薦する批評家の割合や、OpenCriticに掲載されているすべてのゲームにおける相対的順位などの他のいくつかの指標も利用できる。
 
 ## 歴史
 

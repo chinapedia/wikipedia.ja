@@ -40,6 +40,6 @@
 
 ## 脚注
 
-[Category:lynch.のアルバム](https://ja.wikipedia.org/wiki/Category:lynch.のアルバム "wikilink") [Category:2013年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2013年のミニ・アルバム "wikilink")
+[Category:lynch.のアルバム](https://ja.wikipedia.org/wiki/Category:lynch.のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink") [Category:2013年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2013年のミニ・アルバム "wikilink")
 
 1.  通算7枚目のアルバム

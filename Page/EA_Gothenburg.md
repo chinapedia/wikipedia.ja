@@ -1,7 +1,7 @@
 > この記事は[EA Gothenburg](https://ja.wikipedia.org/wiki/EA_Gothenburg)から翻訳されています。
 
 
-**EA Gothenburg**（EA ヨーテボリ、旧**Ghost Games**）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")にある[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発[企業](../Page/企業.md "wikilink")。[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")子会社であり、ヨーテボリの他、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ギルフォードや](https://ja.wikipedia.org/wiki/ギルフォード_\(イングランド\) "wikilink")[ルーマニア](../Page/ルーマニア.md "wikilink")[ブカレスト](../Page/ブカレスト.md "wikilink")に拠点を置いている。[2013年](../Page/2013年.md "wikilink")から[2020年](../Page/2020年.md "wikilink")まで、[ニード・フォー・スピード](../Page/ニード・フォー・スピード.md "wikilink")シリーズを開発していた。従業員には、 [EA DICE](https://ja.wikipedia.org/wiki/EA_Digital_Illusions_CE "wikilink")、 Black Box、[Criterion Games](https://ja.wikipedia.org/wiki/Criterion_Games "wikilink")、Playground Gamesの元スタッフが含まれている\[1\]\[2\]。
+**EA Gothenburg**（EA ヨーテボリ、旧**Ghost Games**）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")にある[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")開発[企業](../Page/企業.md "wikilink")。[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")子会社であり、ヨーテボリの他、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ギルフォードや](https://ja.wikipedia.org/wiki/ギルフォード_\(イングランド\) "wikilink")[ルーマニア](../Page/ルーマニア.md "wikilink")[ブカレスト](../Page/ブカレスト.md "wikilink")に拠点を置いている。[2013年](../Page/2013年.md "wikilink")から[2020年](../Page/2020年.md "wikilink")まで、[ニード・フォー・スピード](../Page/ニード・フォー・スピード.md "wikilink")シリーズを開発していた。従業員には、 [EA DICE](https://ja.wikipedia.org/wiki/EA_Digital_Illusions_CE "wikilink")、 Black Box、[Criterion Games](../Page/Criterion_Games.md "wikilink")、Playground Gamesの元スタッフが含まれている\[1\]\[2\]。
 
 ## 歴史
 

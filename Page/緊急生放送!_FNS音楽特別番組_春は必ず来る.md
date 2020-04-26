@@ -5,9 +5,9 @@
 
 ## 概要
 
-[新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、感染拡大防止でフジテレビにて[3月19日](../Page/3月19日.md "wikilink")から[3月22日](../Page/3月22日.md "wikilink")まで4夜連続で放送予定だった『[世界フィギュアスケート選手権2020](https://ja.wikipedia.org/wiki/2020年世界フィギュアスケート選手権 "wikilink")』大会が中止となったことに伴い、その代替番組に同局では「**春くるプロジェクト**」と題した一環として当番組が急遽放送されることが決定した\[1\]\[2\]\[3\]\[4\]。
+[新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、感染拡大防止でフジテレビにて[3月19日](../Page/3月19日.md "wikilink")から[3月22日](../Page/3月22日.md "wikilink")まで4夜連続で放送予定だった『[世界フィギュアスケート選手権2020](https://ja.wikipedia.org/wiki/2020年世界フィギュアスケート選手権 "wikilink")』大会が延期\[1\]となったことに伴い、その代替番組に同局では「**春くるプロジェクト**」と題した一環として当番組が急遽放送されることが決定した\[2\]\[3\]\[4\]\[5\]。
 
-「**少しでも音楽の力で元気を取り戻そう\!**」という番組趣旨に賛同したアーティストが集結して、それを基に企画されて、番組名である「**春は必ず来る**」をテーマに日本中を元気にする名曲の数々を披露された\[5\]。
+「**少しでも音楽の力で元気を取り戻そう\!**」という番組趣旨に賛同したアーティストが集結して、それを基に企画されて、番組名である「**春は必ず来る**」をテーマに日本中を元気にする名曲の数々を披露された\[6\]。
 
 フジテレビから番組が放送されることが正式に発表されたのは放送当日の5日前となる[3月16日](../Page/3月16日.md "wikilink")だった。
 
@@ -15,7 +15,7 @@
 
 また、当番組は『FNS歌謡祭』や『FNSうたの夏まつり』とは異なり、上記の前述通りで『世界フィギュアスケート選手権2020』中止が発表された[3月11日](../Page/3月11日.md "wikilink")から出演アーティストの[キャスティングなども含めて](../Page/キャスト.md "wikilink")10日間で制作された。
 
-さらに、新型コロナウイルスによる影響で[帝国劇場](../Page/帝国劇場.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）での公演が中止になった[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）主演のミュージカル『[Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")』と同様の理由で長期休園を余儀なくされている[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")（[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")）から、当初3月19日まで公演する予定だった[ミニーマウス](../Page/ミニーマウス.md "wikilink")主役のイベント『[イッツ・ベリー・ミニー\!](https://ja.wikipedia.org/wiki/ベリー・ベリー・ミニー!#イッツ・ベリー・ミニー！ "wikilink")』の一部をそれぞれ事前収録の上で披露した\[6\]\[7\]\[8\]。
+さらに、新型コロナウイルスによる影響で[帝国劇場](../Page/帝国劇場.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）での公演が中止になった[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）主演のミュージカル『[Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")』と同様の理由で長期休園を余儀なくされている[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")（[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")）から、当初3月19日まで公演する予定だった[ミニーマウス](../Page/ミニーマウス.md "wikilink")主役のイベント『[イッツ・ベリー・ミニー\!](https://ja.wikipedia.org/wiki/ベリー・ベリー・ミニー!#イッツ・ベリー・ミニー！ "wikilink")』の一部をそれぞれ事前収録の上で披露した\[7\]\[8\]\[9\]。
 
 尚、FNS音楽特別番組が土曜日に放送されるのは『[FNS名曲の祭典 秘蔵映像で振り返る55年 -NO MUSIC, NO TV.-](https://ja.wikipedia.org/wiki/FNS名曲の祭典_秘蔵映像で振り返る55年_-NO_MUSIC,_NO_TV.- "wikilink")』以来の約6年4ヶ月ぶりとなる。
 
@@ -31,7 +31,7 @@
 
 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からは[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")、関ジャニ∞、[SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")の3組が出演した。
 
-また、VTR企画「今聴きたい\! 春くるソング」と題してフジテレビのアーカイブに残る『FNS歌謡祭』『FNSうたの春まつり』『[MUSIC FAIR](../Page/ミュージックフェア.md "wikilink")』『[うれしたのし大好き](../Page/うれしたのし大好き.md "wikilink")』『[SOUND ARENA](../Page/SOUND_ARENA.md "wikilink")』『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』『[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")』『[Music Museum](../Page/Music_Museum.md "wikilink")』『[僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink")』などといった過去に放送されたフジテレビの音楽番組・バラエティ番組・特別番組で披露された春の名曲を振り返った。番組の随所で[CM前に行われた](../Page/コマーシャルメッセージ.md "wikilink")。
+また、VTR企画「今聴きたい\! 春くるソング」と題してフジテレビのアーカイブに残る『FNS歌謡祭』『FNSうたの春まつり』『[MUSIC FAIR](../Page/ミュージックフェア.md "wikilink")』『[うれしたのし大好き](../Page/うれしたのし大好き.md "wikilink")』『[SOUND ARENA](../Page/SOUND_ARENA.md "wikilink")』『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』『[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")』『[Music Museum](../Page/Music_Museum.md "wikilink")』『[僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink")』などといった過去に放送されたフジテレビの音楽番組・バラエティ番組・特別番組で披露された春の名曲を振り返った。番組の随所で[CM前に行われた](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## 放送日時
 
@@ -52,7 +52,7 @@
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")
   - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")
   - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")
-  - 『[Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")』カンパニー（[堂本光一](../Page/堂本光一.md "wikilink")・[上田竜也](../Page/上田竜也.md "wikilink") ほか\[9\]）
+  - 『[Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")』カンパニー（[堂本光一](../Page/堂本光一.md "wikilink")・[上田竜也](../Page/上田竜也.md "wikilink") ほか\[10\]）
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
   - [上白石萌音](https://ja.wikipedia.org/wiki/上白石萌音 "wikilink")
   - [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")
@@ -137,10 +137,10 @@
   - [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")「[桜の時](../Page/桜の時.md "wikilink")」(2000) - 『HEY\!HEY\!HEY\! MUSIC CHAMP』より
   - [松任谷由実](../Page/松任谷由実.md "wikilink")×[miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")「[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")」(1994/松任谷由実) - 『MUSIC FAIR』より
   - [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")「[栄光の架橋](../Page/栄光の架橋.md "wikilink")」(2004) - 『MUSIC FAIR』より
-  - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「[桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")」(2000) - 『Musc Museum Since 2000』より
+  - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」(2000) - 『Musc Museum Since 2000』より
   - [YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")×[押尾コータロー](../Page/押尾コータロー.md "wikilink")「[CHE.R.RY](../Page/CHE.R.RY.md "wikilink")」(2007) - 『[2012 FNS歌謡祭](https://ja.wikipedia.org/wiki/2012_FNS歌謡祭 "wikilink")』より
   - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「[旅立ちの唄](../Page/旅立ちの唄_\(Mr.Childrenの曲\).md "wikilink")」(2007) - 『[2007 FNS歌謡祭](https://ja.wikipedia.org/wiki/2007_FNS歌謡祭 "wikilink")』より
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")「[Voyage](../Page/Voyage_\(浜崎あゆみの曲\).md "wikilink")」(2002) - 『[2002 FNS歌謡祭](https://ja.wikipedia.org/wiki/2002_FNS歌謡祭 "wikilink")』より
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")「[Voyage](../Page/Voyage_\(浜崎あゆみの曲\).md "wikilink")」(2002) - 『[2002 FNS歌謡祭](https://ja.wikipedia.org/wiki/2002_FNS歌謡祭 "wikilink")』より
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")「[YELL](https://ja.wikipedia.org/wiki/YELL/じょいふる "wikilink")」(2009) - 『僕らの音楽』より
 
 ## スタッフ
@@ -153,7 +153,7 @@
 
 ## 視聴率
 
-平均視聴率は9.3%だった\[10\]\[11\]\[12\]。
+平均視聴率は9.3%だった\[11\]\[12\]\[13\]。
 
 ## 関連番組
 
@@ -174,15 +174,16 @@
 
 [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:FNS特別番組](https://ja.wikipedia.org/wiki/Category:FNS特別番組 "wikilink") [Category:2020年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2020年の日本の音楽 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:2020年3月](https://ja.wikipedia.org/wiki/Category:2020年3月 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink")
 
-1.  [FNS音楽生特番ほか緊急放送決定！](https://www.fujitv.co.jp/fujitv/news/20200209.html),とれたてフジテレビ,2020年3月16日
-2.  [世界フィギュアスケート中止を受け今週末「FNS音楽特別番組」オンエア](https://natalie.mu/music/news/371321),音楽ナタリー,2020年3月16日
-3.  [FNS音楽特番にナンバガ、エレカシ、関ジャニ、SixTONES、乃木坂46、WANIMAら](https://natalie.mu/music/news/371634),音楽ナタリー,2020年3月18日
-4.  [FNS音楽特番にsumika、スカパラ、NEWS、直太朗、さかなクン、ディズニーの仲間達が登場](https://natalie.mu/music/news/372032),Real Sound,2020年3月21日
-5.  [『春は必ず来る』演出スタッフに聞く、FNS音楽特別番組までの10日間　テレビがいま、エンタメ業界にできること](https://realsound.jp/2020/03/post-526249.html),音楽ナタリー,2020年3月20日
-6.  [緊急生放送『FNS音楽特番』第2弾6組発表 休園中ディズニーのショーも披露](https://www.oricon.co.jp/news/2157946/full/),ORICON NEWS,2020年3月20日
-7.  [ＴＤＬ休園中に終了したミニーマウスのショーをフジテレビが音楽生特番「春は必ず来る」でＶＴＲ紹介](https://hochi.news/articles/20200321-OHT1T50149.html),スポーツ報知,2020年3月21日
-8.  [堂本光一、サプライズ生出演で公演中止を謝罪「一歩踏み出す強い気持ち持ちたい」](https://www.sanspo.com/geino/news/20200321/joh20032122260003-n1.html),サンケイスポーツ,2020年3月22日
-9.  [梅田彩佳](../Page/梅田彩佳.md "wikilink")、[前田美波里](../Page/前田美波里.md "wikilink")、[越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")、[寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")、[松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")なども出演。
-10. [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯・リアルタイム。
-11. [『FNS音楽特別番組』9.3% フジ世界フィギュア代替番組視聴率](https://news.mynavi.jp/article/20200323-1001565/),スポーツ報知,2020年3月21日
-12. [堂本光一、サプライズ生出演で公演中止を謝罪「一歩踏み出す強い気持ち持ちたい」](https://www.sanspo.com/geino/news/20200321/joh20032122260003-n1.html),マイナビニュース,2020年3月23日
+1.  後に今年度の代替開催が中止となった。
+2.  [FNS音楽生特番ほか緊急放送決定！](https://www.fujitv.co.jp/fujitv/news/20200209.html),とれたてフジテレビ,2020年3月16日
+3.  [世界フィギュアスケート中止を受け今週末「FNS音楽特別番組」オンエア](https://natalie.mu/music/news/371321),音楽ナタリー,2020年3月16日
+4.  [FNS音楽特番にナンバガ、エレカシ、関ジャニ、SixTONES、乃木坂46、WANIMAら](https://natalie.mu/music/news/371634),音楽ナタリー,2020年3月18日
+5.  [FNS音楽特番にsumika、スカパラ、NEWS、直太朗、さかなクン、ディズニーの仲間達が登場](https://natalie.mu/music/news/372032),Real Sound,2020年3月21日
+6.  [『春は必ず来る』演出スタッフに聞く、FNS音楽特別番組までの10日間　テレビがいま、エンタメ業界にできること](https://realsound.jp/2020/03/post-526249.html),音楽ナタリー,2020年3月20日
+7.  [緊急生放送『FNS音楽特番』第2弾6組発表 休園中ディズニーのショーも披露](https://www.oricon.co.jp/news/2157946/full/),ORICON NEWS,2020年3月20日
+8.  [ＴＤＬ休園中に終了したミニーマウスのショーをフジテレビが音楽生特番「春は必ず来る」でＶＴＲ紹介](https://hochi.news/articles/20200321-OHT1T50149.html),スポーツ報知,2020年3月21日
+9.  [堂本光一、サプライズ生出演で公演中止を謝罪「一歩踏み出す強い気持ち持ちたい」](https://www.sanspo.com/geino/news/20200321/joh20032122260003-n1.html),サンケイスポーツ,2020年3月22日
+10. [梅田彩佳](../Page/梅田彩佳.md "wikilink")、[前田美波里](../Page/前田美波里.md "wikilink")、[越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")、[寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")、[松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")なども出演。
+11. [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯・リアルタイム。
+12. [『FNS音楽特別番組』9.3% フジ世界フィギュア代替番組視聴率](https://news.mynavi.jp/article/20200323-1001565/),スポーツ報知,2020年3月21日
+13. [堂本光一、サプライズ生出演で公演中止を謝罪「一歩踏み出す強い気持ち持ちたい」](https://www.sanspo.com/geino/news/20200321/joh20032122260003-n1.html),マイナビニュース,2020年3月23日

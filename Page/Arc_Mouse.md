@@ -21,11 +21,9 @@
 
 ### Surface Arc Mouse / Microsoft Arc Mouse
 
-2017年にSurfaceラップトップと共に発表されたSurface Arcマウスは、ボタンとタッチストリップを大きな静電容量式タッチ面に置き換え、新しいラップトップにとあわせて利用できる\[9\]。2019年12月現在、はMicrosoft Storeで69.99ドル（日本円で7410円）で入手できます。 \[10\]
+2017年にSurfaceラップトップと共に発表されたSurface Arcマウスは、ボタンとタッチストリップを大きな静電容量式タッチ面に置き換え、新しいラップトップとあわせて利用できる\[9\]。2019年12月現在、Microsoft Storeで69.99ドル（日本円で7410円）で入手できる\[10\]。
 
 ## 脚注
-
-参考資料
 
 ## 関連項目
 
@@ -33,7 +31,7 @@
 
 ## 外部リンク
 
-[Microsoft Arc Mouse](https://www.microsoft.com/accessories/ja-jp/products/mice/microsoft-arc-mouse) - [Microsoft Store](https://ja.wikipedia.org/wiki/Microsoft_Store "wikilink")
+  - [Microsoft Arc Mouse](https://www.microsoft.com/accessories/ja-jp/products/mice/microsoft-arc-mouse) - [Microsoft Store](https://ja.wikipedia.org/wiki/Microsoft_Store "wikilink")
 
 [Category:マウス_(コンピュータ)](https://ja.wikipedia.org/wiki/Category:マウス_\(コンピュータ\) "wikilink") [Category:マイクロソフトのハードウェア](https://ja.wikipedia.org/wiki/Category:マイクロソフトのハードウェア "wikilink")
 

@@ -26,7 +26,7 @@
 <th><p>放送局</p></th>
 <th><p>系列</p></th>
 <th><p>放送時間（<a href="../Page/日本標準時.md" title="wikilink">JST</a>）</p></th>
-<th><p>ネット状況・備考・脚注</p></th>
+<th><p>ネット状況</p></th>
 </tr>
 </thead>
 <tbody>

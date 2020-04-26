@@ -1,11 +1,16 @@
 > この記事は[KO-TANG](https://ja.wikipedia.org/wiki/KO-TANG)から翻訳されています。
 
 
-**KO-TANG**(コータング、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink"))は、プロダンサー。本名、伊藤恒太。秋田県五城目町出身。実家は滑多羅温泉(なめたらおんせん)。
+**KO-TANG**(コータング、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink"))は、プロダンサー。本名、伊藤恒太。秋田県五城目町出身。実家は滑多羅温泉(なめたらおんせん)。令和2年4月15日より五城目町観光PR大使に任命。
+
+## 外部リンク
+
+  - <http://www.nextjapan.jp/dancers/kotang.html>
+  - <http://www.namelessproduction.com/tanashi/ko-tang.html>
 
 ## 略歴　
 
-秋田県五城目第一中学校、秋田経済法科大学附属高校(現明桜高校)、秋田経済法科大学(現ノースアジア大学)法学部卒業。 中学生の頃、TVで[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")に影響を受けダンスに目覚める。その後独学でダンスを始める。 高校生になり、数々のダンスバトルイベントやコンテストで優勝。 秋田の時代にはダンスチームBLOOMを結成し様々なコンテストで優勝。 その後SLAAAMとして東北を中心にゲストショーなどで活躍。その他 大学のサークル作りイベントの主宰にボランティア、ラジオ出演など精力的に活動。 大学の卒業と共に上京。THE TEAMを結成。
+秋田県五城目第一中学校、秋田経済法科大学附属高校(現明桜高校)、秋田経済法科大学(現ノースアジア大学)法学部卒業。 中学生の頃、TVで[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")に影響を受けダンスに目覚める。その後独学でダンスを始める。 高校生になり、数々のダンスバトルイベントやコンテストで優勝。 秋田の時代にはダンスチームBLOOMを結成し様々なコンテストで優勝。 その後SLAAAMとして東北を中心にゲストショーなどで活躍。その他 大学のサークル作りイベントの主宰にボランティア、ラジオ出演など精力的に活動。 大学の卒業と共に上京。THE TEAMを結成。現在五城目町観光PR大使に任命。
 
 ## ダンスチーム
 
@@ -13,6 +18,8 @@ THE TEAM、6SENCE、PLAYERS INC、SEW MESSENGER
 
 ## 経歴
 
+  - 嵐　'Turning Up' PV、バックダンサー(2019)
+  - HIKAKIN\&SEIKIN '今' Mステ(2018)
   - 嵐「find the answer」メインダンサーPV.TV(2018)
   - 東方神起ダンサー　SMタウンat東京ドーム　ユノsolo(2017)
   - KAT-TUNダンサー「Don't you ever stop」
@@ -65,3 +72,5 @@ THE TEAM、6SENCE、PLAYERS INC、SEW MESSENGER
   - 音楽の祭典
   - 24時間TV
   - 27時間TV
+
+[Category:日本の男性ダンサー](https://ja.wikipedia.org/wiki/Category:日本の男性ダンサー "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:秋田県出身の人物](https://ja.wikipedia.org/wiki/Category:秋田県出身の人物 "wikilink") [Category:ノースアジア大学出身の人物](https://ja.wikipedia.org/wiki/Category:ノースアジア大学出身の人物 "wikilink")

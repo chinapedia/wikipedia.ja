@@ -13,7 +13,7 @@
 
 ## 中継するレースの一覧
 
-  - [読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink") （[2006年](../Page/2006年.md "wikilink")\[1\]）〜）
+  - [読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink") （[2006年](../Page/2006年.md "wikilink")\[1\]〜）
   - [日本選手権競輪](../Page/日本選手権競輪.md "wikilink") （[2016年](../Page/2016年.md "wikilink")）、（[2019年](../Page/2019年.md "wikilink")〜）
   - [高松宮記念杯競輪](../Page/高松宮記念杯競輪.md "wikilink")（[2014年](../Page/2014年.md "wikilink")\[2\]）、（[2016年](../Page/2016年.md "wikilink")〜）
   - [オールスター競輪](../Page/オールスター競輪.md "wikilink") （[2014年](../Page/2014年.md "wikilink")〜[2015年](../Page/2015年.md "wikilink")）、（[2017年](../Page/2017年.md "wikilink")～）
@@ -44,24 +44,34 @@
 
 ### ナレーション
 
-  - [真地勇志](../Page/真地勇志.md "wikilink") ：
+  - [真地勇志](../Page/真地勇志.md "wikilink") ：(2015年～）
 
 ## 過去の出演者
 
-### 進行
+### 司会進行
 
-  - [酒井千佳](../Page/酒井千佳.md "wikilink") ：(2014年6月15日～2016年3月13日）
-  - [望月理恵](https://ja.wikipedia.org/wiki/望月理恵 "wikilink") ：2018年・2019年の全日本選抜競輪の時に、田中みな実の代役として出演
+2006年～2010年は当時の[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")アナウンサーが司会進行していたが、2011年以降は担当していない。
+
+  - [鈴木崇司](../Page/ラルフ鈴木.md "wikilink")：2006年の全日本選抜競輪のみ担当
+  - [上重聡](../Page/上重聡.md "wikilink")：2007年の全日本選抜競輪のみ担当
+  - [新谷保志](../Page/新谷保志.md "wikilink")：2008年の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")のみ担当
+  - [古市幸子](https://ja.wikipedia.org/wiki/古市幸子 "wikilink")：2009年の[KEIRINグランプリ09](https://ja.wikipedia.org/wiki/KEIRINグランプリ09 "wikilink")と2010年の[第26回読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/第26回読売新聞社杯全日本選抜競輪 "wikilink")で担当
+  - [伊藤綾子](../Page/伊藤綾子.md "wikilink")：2010年の[KEIRINグランプリ2010](https://ja.wikipedia.org/wiki/KEIRINグランプリ2010 "wikilink")～2013年の[KEIRINグランプリ2013](https://ja.wikipedia.org/wiki/KEIRINグランプリ2013 "wikilink")で担当
+  - [ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")：「ブラマヨ自転車部」のタイトルで放送していた時に出演、(2011年の[第27回読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/第27回読売新聞社杯全日本選抜競輪 "wikilink")～2014年の[第29回読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/第29回読売新聞社杯全日本選抜競輪 "wikilink")）
+  - [山田玲奈](../Page/山田玲奈.md "wikilink")：2014年の[第29回読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/第29回読売新聞社杯全日本選抜競輪 "wikilink")のみ担当
+  - [酒井千佳](../Page/酒井千佳.md "wikilink")：2014年の[第65回高松宮記念杯競輪](https://ja.wikipedia.org/wiki/第65回高松宮記念杯競輪 "wikilink")～2016年の[第69回日本選手権競輪](https://ja.wikipedia.org/wiki/第69回日本選手権競輪 "wikilink")で担当
+  - [望月理恵](https://ja.wikipedia.org/wiki/望月理恵 "wikilink")：2018年の[第33回読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/第33回読売新聞社杯全日本選抜競輪 "wikilink")・2019年の[第34回読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/第34回読売新聞社杯全日本選抜競輪 "wikilink")に、田中みな実の代役として担当
 
 ### 実況
 
-  - [宮原英治](https://ja.wikipedia.org/wiki/宮原英治 "wikilink") ：(2006年～2013年まで殆ど実況担当)
-  - [佐藤一司](../Page/佐藤一司.md "wikilink") ：当時[ラジオ日本](https://ja.wikipedia.org/wiki/ラジオ日本 "wikilink")アナウンサーで、2008年の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")のみ実況
+  - [宮原英治](https://ja.wikipedia.org/wiki/宮原英治 "wikilink")：(2006年～2013年まで殆ど実況担当)
+  - [佐藤一司](../Page/佐藤一司.md "wikilink")：当時[ラジオ日本](https://ja.wikipedia.org/wiki/ラジオ日本 "wikilink")アナウンサーで、2008年の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")のみ実況
   - [橋本悠督](https://ja.wikipedia.org/wiki/橋本悠督 "wikilink")：2016年の[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")のみ実況
 
 ### ナレーション
 
-  - [大場真人](../Page/大場真人.md "wikilink") ：(2014年6月15日）
+  - [大場真人](../Page/大場真人.md "wikilink")：(2014年)
+  - [皆口裕子](../Page/皆口裕子.md "wikilink")：(2014年～2015年)
 
 ## 放送時間
 

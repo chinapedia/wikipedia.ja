@@ -33,7 +33,7 @@
 
 71-608Kの派生形式には、以下の2種類が存在する。
 
-  - **71-608KU** - 71-608Kのうち、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")）で唯一[軌間1,435 mm（標準軌）の路線網を有する](../Page/標準軌.md "wikilink")****向けの車両は標準軌に対応した台車が設置されており、形式名も「71-608KU（71-608КУ）」として区別された。
+  - **71-608KU** - 71-608Kのうち、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")）で唯一[軌間1,435 mm（標準軌）の路線網を有する](../Page/標準軌.md "wikilink")**[ロストフ・ナ・ドヌ市電](../Page/ロストフ・ナ・ドヌ市電.md "wikilink")**向けの車両は標準軌に対応した台車が設置されており、形式名も「71-608KU（71-608КУ）」として区別された。
   - **71-617（KTM-17）** - [訓練運転用の教習車としての使用を考慮した形式](../Page/習熟運転.md "wikilink")。運転席の面積が拡大し、指導員が座るための運転席が増設された。[1994年](../Page/1994年.md "wikilink")に2両が[モスクワ市電](https://ja.wikipedia.org/wiki/モスクワ市電 "wikilink")に導入された。
 
 <File:Tomsk> tram 310 20070428 03.jpg|車内（[トムスク](../Page/トムスク.md "wikilink")） <File:Пантограф> 606.29.JPG|[集電装置](../Page/集電装置.md "wikilink") <File:Тележка> трамвайного вагона 71-608.JPG|台車
@@ -44,12 +44,12 @@
 （[イルクーツク市電](https://ja.wikipedia.org/wiki/イルクーツク市電 "wikilink")） <File:Khabarovsk> Tram 110.jpg|71-608K（[ハバロフスク](../Page/ハバロフスク.md "wikilink")）
 （[ハバロフスク市電](https://ja.wikipedia.org/wiki/ハバロフスク市電 "wikilink")） <File:Magnitogorsk> KTM-8 3075+3076.jpg|71-608K（[マグニトゴルスク](../Page/マグニトゴルスク.md "wikilink")） <File:KTM-8> 1021, tram line 14, Moscow, 2013.jpg|71-608K（[モスクワ](../Page/モスクワ.md "wikilink")）
 （[モスクワ市電](https://ja.wikipedia.org/wiki/モスクワ市電 "wikilink")） <File:Трамвай> № 1201.JPG|71-608K（[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")）
-（） <File:Noginsk> tram 71-608K 6 (25257645279).jpg|71-608K（[ノギンスク](https://ja.wikipedia.org/wiki/ノギンスク "wikilink")） <File:Perm> asv2019-05 img14 tram at MGorkogo stop.jpg|71-608K（[ペルミ](../Page/ペルミ.md "wikilink")） <File:Ryazan> tram 71-608K 52 2007 (16122026304).jpg|71-608K（[リャザン](../Page/リャザン.md "wikilink")） <File:Saratov> tram 71-608K 2276 (28434717043).jpg|71-608K（[サラトフ](../Page/サラトフ.md "wikilink")） <File:Promyshlennyy> rayon, Smolensk, Smolenskaya oblast', Russia - panoramio (48).jpg|71-608K（[スモレンスク](../Page/スモレンスク.md "wikilink")） <File:Tomsk> tram 311 20070428.jpg|71-608K（[トムスク](../Page/トムスク.md "wikilink")） <File:КТМ-8> 22 на порезке в Туле.jpg|71-608K（[トゥーラ](https://ja.wikipedia.org/wiki/トゥーラ "wikilink")） <File:Tver> tram 163 20050626 103.jpg|71-608K（[トヴェリ](../Page/トヴェリ.md "wikilink")）
+（[ニジニ・ノヴゴロド市電](../Page/ニジニ・ノヴゴロド市電.md "wikilink")） <File:Noginsk> tram 71-608K 6 (25257645279).jpg|71-608K（[ノギンスク](https://ja.wikipedia.org/wiki/ノギンスク "wikilink")） <File:Perm> asv2019-05 img14 tram at MGorkogo stop.jpg|71-608K（[ペルミ](../Page/ペルミ.md "wikilink")） <File:Ryazan> tram 71-608K 52 2007 (16122026304).jpg|71-608K（[リャザン](../Page/リャザン.md "wikilink")） <File:Saratov> tram 71-608K 2276 (28434717043).jpg|71-608K（[サラトフ](../Page/サラトフ.md "wikilink")） <File:Promyshlennyy> rayon, Smolensk, Smolenskaya oblast', Russia - panoramio (48).jpg|71-608K（[スモレンスク](../Page/スモレンスク.md "wikilink")） <File:Tomsk> tram 311 20070428.jpg|71-608K（[トムスク](../Page/トムスク.md "wikilink")） <File:КТМ-8> 22 на порезке в Туле.jpg|71-608K（[トゥーラ](https://ja.wikipedia.org/wiki/トゥーラ "wikilink")） <File:Tver> tram 163 20050626 103.jpg|71-608K（[トヴェリ](../Page/トヴェリ.md "wikilink")）
 （） <File:71-608> tram in Ufa.JPG|71-608K（[ウファ](../Page/ウファ.md "wikilink")） <File:Ulan-Ude> tram 71-608K 67 (32919939855).jpg|71-608K（[ウランウデ](https://ja.wikipedia.org/wiki/ウランウデ "wikilink")） <File:Ulyanovsk> tram 71-608K 1212 - panoramio (1).jpg|71-608K（[ウリヤノフスク](../Page/ウリヤノフスク.md "wikilink")） <File:KTM-8> 313 in Vladivostok.jpg|71-608K（[ウラジオストク](../Page/ウラジオストク.md "wikilink")）
 （[ウラジオストク市電](https://ja.wikipedia.org/wiki/ウラジオストク市電 "wikilink")） <File:Yaroslavl> tram 71-608K 139 20040802 209 ShiftN.jpg|71-608K（[ヤロスラヴリ](../Page/ヤロスラヴリ.md "wikilink")）
 （） <File:Belarus>, Minsk tram 71-608K 022 (19538163198).jpg|71-608K（[ミンスク](../Page/ミンスク.md "wikilink")）
 （） <File:KTM> 5 and 8.jpg|71-608K（[ダウガフピルス](../Page/ダウガフピルス.md "wikilink")）
-（[ダウガフピルス市電](https://ja.wikipedia.org/wiki/ダウガフピルス市電 "wikilink")） <File:Kryvyi> Rih3.jpg|71-608K（[クルィヴィーイ・リーフ](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ "wikilink")） [File:KTM-8-200-Luhansk.jpg|71-608K](File:KTM-8-200-Luhansk.jpg%7C71-608K)（[ルハーンシク](https://ja.wikipedia.org/wiki/ルハーンシク "wikilink")） <File:Tram> 71-608K in Nikolayev.JPG|71-608K（[ムィコラーイウ](https://ja.wikipedia.org/wiki/ムィコラーイウ "wikilink")） <File:КТМ-8> в Ташкенте.jpg|71-608K（[タシュケント](../Page/タシュケント.md "wikilink")）
+（[ダウガフピルス市電](../Page/ダウガフピルス市電.md "wikilink")） <File:Kryvyi> Rih3.jpg|71-608K（[クルィヴィーイ・リーフ](https://ja.wikipedia.org/wiki/クルィヴィーイ・リーフ "wikilink")） [File:KTM-8-200-Luhansk.jpg|71-608K](File:KTM-8-200-Luhansk.jpg%7C71-608K)（[ルハーンシク](https://ja.wikipedia.org/wiki/ルハーンシク "wikilink")） <File:Tram> 71-608K in Nikolayev.JPG|71-608K（[ムィコラーイウ](https://ja.wikipedia.org/wiki/ムィコラーイウ "wikilink")） <File:КТМ-8> в Ташкенте.jpg|71-608K（[タシュケント](../Page/タシュケント.md "wikilink")）
 （[タシュケント市電](https://ja.wikipedia.org/wiki/タシュケント市電 "wikilink")）
 
 ## 71-608KM
@@ -72,9 +72,10 @@
 ### ギャラリー
 
 <File:Ang> tram.JPG|**71-608KM**（[アンガルスク](../Page/アンガルスク.md "wikilink")） <File:Astrakhan> trams, 1044.jpg|71-608KM（[アストラハン](../Page/アストラハン.md "wikilink")） <File:Tram> in Biysk, Russia.jpg|71-608KM（[ビイスク](https://ja.wikipedia.org/wiki/ビイスク "wikilink")） [File:CherTramR8N129.jpg|71-608KM](File:CherTramR8N129.jpg%7C71-608KM)（[チェレポベツ](https://ja.wikipedia.org/wiki/チェレポベツ "wikilink")） <File:KTM-8M> 2379 in Kazan.jpg|71-608KM（[カザン](../Page/カザン.md "wikilink")）
-（[カザン市電](https://ja.wikipedia.org/wiki/カザン市電 "wikilink")） <File:КТМ-8М> 146 у здания Мособлэлектротранс, Коломна.jpg|71-608KM（[コロムナ](../Page/コロムナ.md "wikilink")） <File:Magnitogorsk> KTM-8M 2282+2283.jpg|71-608KM（[マグニトゴルスク](../Page/マグニトゴルスク.md "wikilink")） <File:Sokolinaya> Gora District, Moscow, Russia - panoramio (167).jpg|71-608KM（[モスクワ](../Page/モスクワ.md "wikilink")）
+（[カザン市電](../Page/カザン市電.md "wikilink")） <File:КТМ-8М> 146 у здания Мособлэлектротранс, Коломна.jpg|71-608KM（[コロムナ](../Page/コロムナ.md "wikilink")）
+（） <File:Magnitogorsk> KTM-8M 2282+2283.jpg|71-608KM（[マグニトゴルスク](../Page/マグニトゴルスク.md "wikilink")） <File:Sokolinaya> Gora District, Moscow, Russia - panoramio (167).jpg|71-608KM（[モスクワ](../Page/モスクワ.md "wikilink")）
 （[モスクワ市電](https://ja.wikipedia.org/wiki/モスクワ市電 "wikilink")） <File:Трамвай> 71-608КМ №012 в Набережных Челнах.jpg|71-608KM（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")） <File:71-608> nn.jpg|71-608KM（[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")）
-（） <File:Noginsk> tram 71-608KM 2 (25625227955).jpg|71-608KM（[ノギンスク](https://ja.wikipedia.org/wiki/ノギンスク "wikilink")） <File:Tram> Novokuzneck 2009.jpg|71-608KM（[ノヴォクズネツク](../Page/ノヴォクズネツク.md "wikilink")） <File:71-608КМ> Новосибирск 2194.jpg|71-608KM（[ノヴォシビルスク](../Page/ノヴォシビルスク.md "wikilink")）
+（[ニジニ・ノヴゴロド市電](../Page/ニジニ・ノヴゴロド市電.md "wikilink")） <File:Noginsk> tram 71-608KM 2 (25625227955).jpg|71-608KM（[ノギンスク](https://ja.wikipedia.org/wiki/ノギンスク "wikilink")） <File:Tram> Novokuzneck 2009.jpg|71-608KM（[ノヴォクズネツク](../Page/ノヴォクズネツク.md "wikilink")） <File:71-608КМ> Новосибирск 2194.jpg|71-608KM（[ノヴォシビルスク](../Page/ノヴォシビルスク.md "wikilink")）
 （） [File:71-608КМ.jpg|71-608KM](File:71-608КМ.jpg%7C71-608KM)（[オムスク](../Page/オムスク.md "wikilink")） <File:Saratov> tram 1327.jpg|71-608KM（[サラトフ](../Page/サラトフ.md "wikilink")） <File:Leninskiy> rayon, Smolensk, Smolenskaya oblast', Russia - panoramio (115).jpg|71-608KM（[スモレンスク](../Page/スモレンスク.md "wikilink")） <File:Tomsk> tram 318 20070516 02.jpg|71-608KM（[トムスク](../Page/トムスク.md "wikilink")） <File:Ulan-Ude> tram 71-608KM 84 at newest tram line, opened in 2007 (32105207883).jpg|71-608KM（[ウランウデ](https://ja.wikipedia.org/wiki/ウランウデ "wikilink")） <File:Ktm8> ulya.jpg|71-608KM（[ウリヤノフスク](../Page/ウリヤノフスク.md "wikilink")） <File:Tram> KTM-8 in Kamianske.jpg|71-608KM（[カーミヤンシケ](https://ja.wikipedia.org/wiki/カーミヤンシケ "wikilink")） <File:71-615> (KTM-15) tram at number 212 in Pyatigorsk.jpg|**71-615**（[ピャチゴルスク](../Page/ピャチゴルスク.md "wikilink")） <File:71-617> (KTM-17) tram (educational) in Moscow (front view).jpg|**71-617**（[モスクワ](../Page/モスクワ.md "wikilink")）
 （[モスクワ市電](https://ja.wikipedia.org/wiki/モスクワ市電 "wikilink")）
 
@@ -105,7 +106,7 @@
 
 [KTM-11_Volgograd_depot.jpg](https://ja.wikipedia.org/wiki/File:KTM-11_Volgograd_depot.jpg "fig:KTM-11_Volgograd_depot.jpg")）\]\]
 
-  - **** - 路線の一部を[地下化する事で高速化を図った路面電車路線](https://ja.wikipedia.org/wiki/シュタットバーン "wikilink")「」向けに、KTM-8（71-608）を基に開発された車両。丸みを帯びた前面デザインは71-608KMにも用いられた\[3\]\[4\]。
+  - **[KTM-11](../Page/KTM-11.md "wikilink")（71-611）** - 路線の一部を[地下化する事で高速化を図った路面電車路線](https://ja.wikipedia.org/wiki/シュタットバーン "wikilink")「」向けに、KTM-8（71-608）を基に開発された車両。丸みを帯びた前面デザインは71-608KMにも用いられた\[3\]\[4\]。
 
 ## 脚注
 
@@ -116,7 +117,7 @@
 ## 参考資料
 
   -
-[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:ウラジオストク市電](https://ja.wikipedia.org/wiki/Category:ウラジオストク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:ウズベキスタンの路面電車](https://ja.wikipedia.org/wiki/Category:ウズベキスタンの路面電車 "wikilink") [Category:1988年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1988年製の鉄道車両 "wikilink")
+[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:ウラジオストク市電](https://ja.wikipedia.org/wiki/Category:ウラジオストク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:ベラルーシの路面電車車両](https://ja.wikipedia.org/wiki/Category:ベラルーシの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:ウズベキスタンの路面電車](https://ja.wikipedia.org/wiki/Category:ウズベキスタンの路面電車 "wikilink") [Category:1988年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1988年製の鉄道車両 "wikilink")
 
 1.
 2.

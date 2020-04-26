@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p>＃9</p></td>
 <td><p>2017年12月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上和彦" title="wikilink">井上和彦</a></p></td>
+<td><p><a href="../Page/井上和彦_(声優).md" title="wikilink">井上和彦</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -197,7 +197,7 @@
 <tr class="even">
 <td><p>＃30</p></td>
 <td><p>2019年9月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野島健児" title="wikilink">野島健児</a></p></td>
+<td><p><a href="../Page/野島健児_(声優).md" title="wikilink">野島健児</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -239,7 +239,7 @@
 <tr class="odd">
 <td><p>＃37</p></td>
 <td><p>2020年4月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a></p></td>
+<td><p><a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

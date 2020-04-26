@@ -55,7 +55,7 @@
 
   -
   -
-[Category:24_-TWENTY_FOUR-](https://ja.wikipedia.org/wiki/Category:24_-TWENTY_FOUR- "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:テロリズムを題材にしたテレビドラマ](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にしたテレビドラマ "wikilink")
+[Category:24_-TWENTY_FOUR-](https://ja.wikipedia.org/wiki/Category:24_-TWENTY_FOUR- "wikilink") [Category:テレビ朝日のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のテレビドラマ "wikilink") [Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:リメイクドラマ](https://ja.wikipedia.org/wiki/Category:リメイクドラマ "wikilink") [Category:テロリズムを題材にしたテレビドラマ](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にしたテレビドラマ "wikilink")
 
 1.
 2.

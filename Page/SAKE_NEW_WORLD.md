@@ -3,7 +3,7 @@
 
 『**SAKE NEW WORLD**』（サケ・ニュー・ワールド）は、[日本酒](https://ja.wikipedia.org/wiki/日本酒 "wikilink")に特化した[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[番組](../Page/ミニ番組.md "wikilink")\[1\]\[2\]。
 
-[2019年](../Page/2019年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")（同年[4月19日](../Page/4月19日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）から[6月29日](../Page/6月29日.md "wikilink")（同年[6月28日](../Page/6月28日.md "wikilink")深夜）に第1期として放送し、[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から、第2期として再開予定。
+[2019年](../Page/2019年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")（同年[4月19日](../Page/4月19日.md "wikilink")[深夜](../Page/深夜.md "wikilink")）から[6月29日](../Page/6月29日.md "wikilink")（同年[6月28日](../Page/6月28日.md "wikilink")深夜）に第1期として放送し、[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から、第2期として再開。
 
 ## 概要
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - 土曜日9:55 - 10:00（予定）
+  - 土曜日9:55 - 10:00
 
 ## 脚注・出典
 

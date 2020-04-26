@@ -1,7 +1,7 @@
 > この記事は[STEP \(ラジオ番組\)](https://ja.wikipedia.org/wiki/STEP_\(ラジオ番組\))から翻訳されています。
 
 
-**STEP**（*ステップ*）は、[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")(予定)から[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）で放送される日曜午後の生ワイド番組である\[1\]。
+**STEP**（*ステップ*）は、[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（[KBCラジオ](../Page/KBCラジオ.md "wikilink")）で放送されている日曜午後の生ワイド番組である\[1\]。
 
 ## 概要
 
@@ -15,8 +15,9 @@
 
 ## パーソナリティ
 
-  - 中島つぐまさ
+  - [中島つぐまさ](https://ja.wikipedia.org/wiki/中島つぐまさ "wikilink")
   - [高崎恵理](https://ja.wikipedia.org/wiki/高崎恵理 "wikilink")
+  - [田中菜津美](https://ja.wikipedia.org/wiki/田中菜津美 "wikilink")
 
 ## タイムテーブル
 

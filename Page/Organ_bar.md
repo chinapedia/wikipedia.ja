@@ -44,3 +44,7 @@ Organ bar（オルガンバー）は、[東京都](../Page/東京都.md "wikilin
   - [Organ bar（オルガンバー）公式Webサイト](http://www.organ-b.net/)
   - [Organ bar（オルガンバー）Twitter](https://twitter.com/organbar)
   - [Organ bar（オルガンバー）Facebook](https://www.facebook.com/organ.bar)
+
+‎
+
+[Category:日本の酒場](https://ja.wikipedia.org/wiki/Category:日本の酒場 "wikilink") [Category:東京都の飲食店](https://ja.wikipedia.org/wiki/Category:東京都の飲食店 "wikilink") [Category:ナイトクラブ](https://ja.wikipedia.org/wiki/Category:ナイトクラブ "wikilink") [Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:渋谷区](https://ja.wikipedia.org/wiki/Category:渋谷区 "wikilink")

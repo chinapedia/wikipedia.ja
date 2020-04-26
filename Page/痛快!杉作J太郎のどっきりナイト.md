@@ -1,7 +1,7 @@
 > この記事は[痛快!杉作J太郎のどっきりナイト](https://ja.wikipedia.org/wiki/痛快!杉作J太郎のどっきりナイト)から翻訳されています。
 
 
-**痛快！杉作J太郎のどっきりナイト**（つうかい\!\!すぎさくじぇいたろうのどっきりナイト）とは、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNBラジオ / Fnam）で放送されているAMラジオ[生](../Page/生放送.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")。
+**痛快！杉作J太郎のどっきりナイト**（つうかい\!\!すぎさくじぇいたろうのどっきりナイト）とは、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNBラジオ / Fnam）で放送されている[AMラジオ](https://ja.wikipedia.org/wiki/AMラジオ "wikilink")[生](../Page/生放送.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")。
 
 2020年4月現在、
 
@@ -13,11 +13,21 @@
 
 ## 概要
 
-「サブカルチャー」のトップランナーとして、幾つもの顔を持つ[杉作J太郎](../Page/杉作J太郎.md "wikilink")がプレゼンターを務める生ワイドラジオ番組。その日の大まかなテーマに関するトークとリスナーからのメールやお便りで構成。一つの話題から話が膨らみ、終着駅がどこにあるのか本人ですらわからないコンセプト無しの成り行き任せがモットー。「今夜決定！」「どっきり紅白曲合戦」「映画の感想文大会」など番組内の企画は様々。
+[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")ラジオで[2017年](../Page/2017年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")の土曜日から放送開始。
+
+「サブカルチャー」のトップランナーとして、幾つもの顔を持つ[杉作J太郎](../Page/杉作J太郎.md "wikilink")がプレゼンターを務める生ワイドラジオ番組。
+
+その日の大まかなテーマに関するトークとリスナーからのメールやお便りで構成。杉作の膨大な知識と冴え渡る選曲。番組内番組の充実ぶりが特徴。
+
+一つの話題から話が膨らみ、終着駅がどこにあるのか本人ですらわからないコンセプト無しの成り行き任せがモットー。
+
+[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末までは、『**痛快！杉作Ｊ太郎のどっきりナイト７**』とし、月曜から日曜まで週７日休み無しの帯番組。
+
+「今夜決定！」「どっきり紅白曲合戦」「昭和アニソン特集」「映画の感想文大会」など番組内の企画は様々。
 
 ## 放送時間
 
-  - 痛快！杉作Ｊ太郎のどっきりナイト３
+  - 『痛快！杉作Ｊ太郎のどっきりナイト３』
 
 <!-- end list -->
 
@@ -25,7 +35,7 @@
 
 <!-- end list -->
 
-  - 痛快！杉作J太郎のどっきりナイトＳ
+  - 『痛快！杉作J太郎のどっきりナイトＳ』
 
 <!-- end list -->
 
@@ -40,9 +50,9 @@
 ### パートナー
 
   - [清原梨央](https://ja.wikipedia.org/wiki/清原梨央 "wikilink")
-  - なっちゃん
-  - ひなた狼SUN
-  - 内田名人
+  - [なっちゃん](../Page/なっちゃん.md "wikilink")
+  - [ひなた狼](https://ja.wikipedia.org/wiki/ひなた狼 "wikilink")
+  - [内田名人](https://ja.wikipedia.org/wiki/内田名人 "wikilink")（ライター）
 
 ### ゲスト出演者
 
@@ -57,38 +67,60 @@
   - [大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")
   - [しまおまほ](../Page/しまおまほ.md "wikilink")
   - [丸山昇一](../Page/丸山昇一.md "wikilink")
+  - [川村文乃](https://ja.wikipedia.org/wiki/川村文乃 "wikilink")
   - [ハンター・ナオキ](https://ja.wikipedia.org/wiki/ハンター・ナオキ "wikilink")
 
 ## 番組内番組
 
-  - [驚異の顔面偏差値 たけやま3.5の「顔だけじゃないもん」](https://ja.wikipedia.org/wiki/驚異の顔面偏差値_たけやま3.5の「顔だけじゃないもん」 "wikilink")（[たけやま3.5](https://ja.wikipedia.org/wiki/たけやま3.5 "wikilink")）
-  - [家藤正人の『一句一遊』虎の巻](https://ja.wikipedia.org/wiki/家藤正人の『一句一遊』虎の巻 "wikilink")
-  - [YU-Mエンターテインメントのヤムヤムヤミー](https://ja.wikipedia.org/wiki/YU-Mエンターテインメントのヤムヤムヤミー "wikilink")（[和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink")／[吉川友](../Page/吉川友.md "wikilink")／[仙石みなみ](../Page/仙石みなみ.md "wikilink")／[青山麻由](https://ja.wikipedia.org/wiki/青山麻由 "wikilink")／[アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink")等）
-  - [里咲りさのIn the Rough](https://ja.wikipedia.org/wiki/里咲りさのIn_the_Rough "wikilink")（[里咲りさ](https://ja.wikipedia.org/wiki/里咲りさ "wikilink")）
-  - [大森靖子のびっくりせいこりん](https://ja.wikipedia.org/wiki/大森靖子のびっくりせいこりん "wikilink")（[大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")）
-  - [PALスタジオから、春日太一です！](https://ja.wikipedia.org/wiki/PALスタジオから、春日太一です！ "wikilink")（[春日太一](https://ja.wikipedia.org/wiki/春日太一 "wikilink")）
-  - [しまおまほのお菓子ワンダフル](https://ja.wikipedia.org/wiki/しまおまほのお菓子ワンダフル "wikilink")（[しまおまほ](../Page/しまおまほ.md "wikilink")）
-  - [内田名人とXE先生の古書店探訪](https://ja.wikipedia.org/wiki/内田名人とXE先生の古書店探訪 "wikilink")（[内田名人](https://ja.wikipedia.org/wiki/内田名人 "wikilink")）
-  - [バミューダトリオのミステリーナイト](https://ja.wikipedia.org/wiki/バミューダトリオのミステリーナイト "wikilink")（杉作J太郎／[ギンティ小林](https://ja.wikipedia.org/wiki/ギンティ小林 "wikilink")、[市川力男](https://ja.wikipedia.org/wiki/市川力男 "wikilink")）
-  - [手塚能理子のわたしのまんが道](https://ja.wikipedia.org/wiki/手塚能理子のわたしのまんが道 "wikilink")（[手塚能理子](https://ja.wikipedia.org/wiki/手塚能理子 "wikilink")）
-  - [井上音生のＮＥＯラジ](https://ja.wikipedia.org/wiki/井上音生のＮＥＯラジ "wikilink")（[井上音生](https://ja.wikipedia.org/wiki/井上音生 "wikilink")）
-  - [こんばんわ、リリー・フランキーです](https://ja.wikipedia.org/wiki/こんばんわ、リリー・フランキーです "wikilink")（[リリー・フランキー](../Page/リリー・フランキー.md "wikilink")）
+  - 火曜日
+      - [里咲りさのIn the Rough](https://ja.wikipedia.org/wiki/里咲りさのIn_the_Rough "wikilink")（[里咲りさ](https://ja.wikipedia.org/wiki/里咲りさ "wikilink")）
+      - [PALスタジオから、春日太一です！](https://ja.wikipedia.org/wiki/PALスタジオから、春日太一です！ "wikilink")（[春日太一](https://ja.wikipedia.org/wiki/春日太一 "wikilink")）
+      - [内田名人とXE先生の古書店探訪](https://ja.wikipedia.org/wiki/内田名人とXE先生の古書店探訪 "wikilink")（[杉作J太郎](../Page/杉作J太郎.md "wikilink")／内田名人）
+
+<!-- end list -->
+
+  - 水曜日
+      - [驚異の顔面偏差値 たけやま3.5の「顔だけじゃないもん」](https://ja.wikipedia.org/wiki/驚異の顔面偏差値_たけやま3.5の「顔だけじゃないもん」 "wikilink")（[たけやま3.5](https://ja.wikipedia.org/wiki/たけやま3.5 "wikilink")）
+      - [YU-Mエンターテインメントのヤムヤムヤミー](https://ja.wikipedia.org/wiki/YU-Mエンターテインメントのヤムヤムヤミー "wikilink")（[和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink")／[吉川友](../Page/吉川友.md "wikilink")／[仙石みなみ](../Page/仙石みなみ.md "wikilink")／[青山麻由](https://ja.wikipedia.org/wiki/青山麻由 "wikilink")／[アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink")等）
+      - [しまおまほのお菓子ワンダフル](https://ja.wikipedia.org/wiki/しまおまほのお菓子ワンダフル "wikilink")（[しまおまほ](../Page/しまおまほ.md "wikilink")）
+      - [丸山昇一と杉作J太郎の不良と純情](https://ja.wikipedia.org/wiki/丸山昇一と杉作J太郎の不良と純情 "wikilink")（[丸山昇一](../Page/丸山昇一.md "wikilink")）
+
+<!-- end list -->
+
+  - 木曜日
+      - [家藤正人の『一句一遊』虎の巻](https://ja.wikipedia.org/wiki/家藤正人の『一句一遊』虎の巻 "wikilink")
+      - [住倉カオスのボクとモグの物語](https://ja.wikipedia.org/wiki/住倉カオスのボクとモグの物語 "wikilink")（[住倉カオス](https://ja.wikipedia.org/wiki/住倉カオス "wikilink")）
+      - [バミューダトリオのミステリーナイト](https://ja.wikipedia.org/wiki/バミューダトリオのミステリーナイト "wikilink")（杉作J太郎／[ギンティ小林](https://ja.wikipedia.org/wiki/ギンティ小林 "wikilink")／[市川力男](https://ja.wikipedia.org/wiki/市川力男 "wikilink")）
+      - [ハンター・ナオキの南予ハンター](https://ja.wikipedia.org/wiki/ハンター・ナオキの南予ハンター "wikilink")
+
+<!-- end list -->
+
+  - 土曜日
+      - [井上音生のＮＥＯラジ](https://ja.wikipedia.org/wiki/井上音生のＮＥＯラジ "wikilink")（[井上音生](https://ja.wikipedia.org/wiki/井上音生 "wikilink")）
+      - [大森靖子のびっくりせいこりん](https://ja.wikipedia.org/wiki/大森靖子のびっくりせいこりん "wikilink")（[大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink")）
+      - [内田名人とXE先生の古書店探訪スピリッツ](https://ja.wikipedia.org/wiki/内田名人とXE先生の古書店探訪スピリッツ "wikilink")（[杉作J太郎／内田名人](https://ja.wikipedia.org/wiki/杉作J太郎／内田名人 "wikilink")）
+
+<!-- end list -->
+
+  - 休止
+      - [手塚能理子のわたしのまんが道](https://ja.wikipedia.org/wiki/手塚能理子のわたしのまんが道 "wikilink")（[手塚能理子](https://ja.wikipedia.org/wiki/手塚能理子 "wikilink")）
+      - [こんばんわ、リリー・フランキーです](https://ja.wikipedia.org/wiki/こんばんわ、リリー・フランキーです "wikilink")（[リリー・フランキー](../Page/リリー・フランキー.md "wikilink")）
 
 ## 番組変遷
 
-  - ;[MOTTO！！](https://ja.wikipedia.org/wiki/MOTTO！！ "wikilink")痛快\!杉作J太郎のどっきりナイトナイトナイト
+  - 『[MOTTO\!\!](https://ja.wikipedia.org/wiki/MOTTO!! "wikilink") 痛快\!杉作J太郎のどっきりナイトナイトナイト』2017年10月7日 - 2019年3月
 
 <!-- end list -->
 
-  - 2017年10月7日〜2019年3月末 毎週土曜日 21:00-23:00
+  - 毎週土曜日 21:00-23:00
 
 <!-- end list -->
 
-  - 痛快\!杉作J太郎のどっきりナイト7
+  - 『痛快\!杉作J太郎のどっきりナイト7』2019年4月 - 2020年3月29日
 
 <!-- end list -->
 
-  - 2019年4月〜2020年3月29日 月曜/21:30-22:00,火～金曜/19:00-21:30, 土曜/21:00-23:00, 日曜/21:00-21:30
+  - 月/21:30-22:00, 火～金/19:00-21:30, 土/21:00-23:00, 日/21:00-21:30
 
 ## 主なコーナー
 
@@ -104,7 +136,7 @@
 | [コンビニ](https://ja.wikipedia.org/wiki/コンビニ "wikilink") | [ノーコンテスト](https://ja.wikipedia.org/wiki/ノーコンテスト "wikilink")                                   |
 | [ヒロイン](../Page/ヒロイン.md "wikilink")                    | [藍とも子](../Page/藍とも子.md "wikilink")                                                            |
 
-2019年12月
+Season1～2019年12月
 
 | テーマ                                                                     | 優勝                                                                                                                      |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -118,7 +150,14 @@
 | [天ぷら](../Page/天ぷら.md "wikilink")                                        | [さつまいも](https://ja.wikipedia.org/wiki/さつまいも "wikilink")                                                                 |
 |                                                                         |                                                                                                                         |
 
-2020年3月
+Season2～2020年3月
+
+## 番組で使用される音源
+
+  - [桃井かおり](../Page/桃井かおり.md "wikilink")「Kaori I」（エンディングテーマ）
+  - [三輪明日美](../Page/三輪明日美.md "wikilink")「[あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink")」（エンディングテーマ）
+  - [千葉真一](https://ja.wikipedia.org/wiki/千葉真一 "wikilink")「旅人ひとり」（ハリウッドシステム）
+  - [山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")「ほろほろ鳥」（ハリウッドシステム）
 
 ## 関連項目
 
@@ -134,4 +173,4 @@
 
 [Category:南海放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:南海放送のラジオ番組 "wikilink")
 
-[Category:中国・四国地方のラジオ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のラジオ番組 "wikilink")
+[Category:中国・四国地方のラジオ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のラジオ番組 "wikilink") [Category:2017年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2017年のラジオ番組_\(日本\) "wikilink")

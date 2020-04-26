@@ -1,7 +1,7 @@
 > この記事は[夢現Re:Master](https://ja.wikipedia.org/wiki/夢現Re:Master)から翻訳されています。
 
 
-『**夢現Re:Master**』（ゆめうつつりますたー）は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より[2019年](../Page/2019年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に発売された[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")系[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。略称は「ゆリマスター」。[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")には、新要素を追加した『**夢現Re:After**』が発売予定\[1\]。
+『**夢現Re:Master**』（ゆめうつつりますたー）は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より[2019年](../Page/2019年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に発売された[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")系[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。略称は「ゆリマスター」。[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")には、ファンディスクにあたる『**夢現Re:After**』が発売予定\[1\]。
 
 ## 概要
 
@@ -112,7 +112,7 @@
 
 ### 夢現Re:Idol 〜大鳥あいのキャラが主人公として薄すぎる件について
 
-  - 2020年3月26日、[ミュージック](../Page/ミュージック.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")『夢現Re:Idol 〜大鳥あいのキャラが主人公として薄すぎる件について』が発売。『夢現Re:After』の主題歌「ココロひとつ」の大鳥あいソロバージョンも収録されている\[11\]。
+  - 2020年3月26日、[ミュージック](../Page/ミュージック.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")『夢現Re:Idol 〜大鳥あいのキャラが主人公として薄すぎる件について』が発売。『夢現Re:After』の主題歌「ココロひとつ」の大鳥あいソロバージョンも収録されている\[11\]。CEROレーティングはB（12才以上対象）。
 
 ### 夢現Re:After
 

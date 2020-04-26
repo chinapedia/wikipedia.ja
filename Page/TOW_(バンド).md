@@ -43,7 +43,7 @@
 
 2018年度の国際バンドコンテスト「[エマージェンザ・ミュージック・フェスティバル](https://ja.wikipedia.org/wiki/エマージェンザ・ミュージック・フェスティバル "wikilink")」では、予選および準決勝を1位で通過。[Shibuya O-EASTで行われた決勝大会にて](../Page/Shibuya_O-EAST.md "wikilink")、Best Vocalist賞、Eggman特別賞、Bazooka Studioレコーディング賞を受賞。このコンテストへの出場を切っ掛けに、その年の日本代表となった[大阪](../Page/大阪.md "wikilink")のバンド、[than](https://ja.wikipedia.org/wiki/than "wikilink")など、共演したバンドから招かれる形で、全国各地へのライブツアーを行うようになる。同年、TOW初のCD音源となる「郷ノ月」を発表したほか、[舞](../Page/舞.md "wikilink")や演劇といった多様な分野の表現者を招き、[古事記](../Page/古事記.md "wikilink")を題材とした空間創作「天地開闢ーアメツチハジメノトキー」を「[デザイン・フェスタ](https://ja.wikipedia.org/wiki/デザイン・フェスタ "wikilink")」に出展。
 
-2020年は各地ライブツアーや[神田明神](../Page/神田明神.md "wikilink")での奉納演奏イベントの他、来日公演を予定していた[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")のシンガーソングライター、[Myrra Rosとの共演が決まっていたものの](https://ja.wikipedia.org/wiki/Myrra_Ros "wikilink")、[新型コロナウイルス感染症の流行 (2019年-)を受け](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")、各公演キャンセルとなる。その後、公式[SNS](https://ja.wikipedia.org/wiki/SNS "wikilink")からTOW初の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を製作中であることが発表される。
+2020年は各地ライブツアーや[神田明神](../Page/神田明神.md "wikilink")での奉納演奏イベントの他、来日公演を予定していた[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")のシンガーソングライター、[Myrra Rosとの共演が決まっていたものの](https://ja.wikipedia.org/wiki/Myrra_Ros "wikilink")、[新型コロナウイルス感染症の流行 (2019年-)を受け](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、各公演キャンセルとなる。その後、公式[SNS](https://ja.wikipedia.org/wiki/SNS "wikilink")からTOW初の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を製作中であることが発表される。
 
 また、2021年春にイギリスでのライブやメディア出演を含めたツアーを予定している。
 
@@ -51,7 +51,7 @@
 
 EP
 
-1st 2018年12月01日 「郷ノ月」
+  - 1st 2018年12月01日 「郷ノ月」
 
 ## 脚注
 
@@ -59,6 +59,7 @@ EP
 
 ## 外部リンク
 
-[公式サイト](http://www.tow-music.com/)
+  - [公式サイト](http://www.tow-music.com/)
+  - [TOW music](https://www.youtube.com/channel/UCBrpstSB8bohd2MRq2sd2fA) - YouTube
 
-[TOW music](https://www.youtube.com/channel/UCBrpstSB8bohd2MRq2sd2fA) - YouTube
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2014年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に結成した音楽グループ "wikilink")

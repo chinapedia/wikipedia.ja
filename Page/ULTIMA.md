@@ -58,7 +58,7 @@
 
 ## 脚注
 
-[Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink")
+[Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:lynch.のアルバム](https://ja.wikipedia.org/wiki/Category:lynch.のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink")
 
 1.
 2.

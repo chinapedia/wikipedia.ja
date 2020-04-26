@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作「[PEACE\!\!\!](https://ja.wikipedia.org/wiki/PEACE!!! "wikilink")」から約1年7ヶ月ぶり、[SACRA MUSIC移籍後](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")4枚目のシングルである。
+前作「[PEACE\!\!\!](../Page/PEACE!!!.md "wikilink")」から約1年7ヶ月ぶり、[SACRA MUSIC移籍後](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")4枚目のシングルである。
 
 販売形態は初回生産限定盤、通常盤、期間生産限定盤＜アニメ盤＞の4種リリースで、[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")連載されていた漫画をアニメ化したテレビアニメ『[パズドラ](https://ja.wikipedia.org/wiki/パズドラ_\(テレビアニメ\) "wikilink")』の[エンディングテーマである](../Page/主題歌.md "wikilink")「PEACE\!\!\!」が収録されている。初回生産限定盤には「PEACE\!\!\!」のRemix，通常盤には「PEACE\!\!\!」のインスツルメントの，それぞれ計2曲が収録されている\[1\]。
 

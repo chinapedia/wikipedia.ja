@@ -11,12 +11,22 @@
 
 初回ゲストは三代目 J SOUL BROTHERS\[3\]。
 
+第2回以降は[新型コロナウイルス感染対策としてテレワーク中継を駆使し](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、第3回以降はMC陣もスタジオを使わず配信する。
+
 ## 出演者
 
-### スタジオMC
+### メインMC
 
   - [佐藤大樹](https://ja.wikipedia.org/wiki/佐藤大樹_\(ダンサー\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")、[FANTASTICS from EXILE TRIBE](https://ja.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE "wikilink")）
   - 陣（[THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")）
+
+## 放送リスト
+
+| 放送回 | 初回放送日      | ゲスト |-                                                                                                                                                                                                                                                                                              | 第1回 | 2020年3月31日 | [三代目 J SOUL BROTHERS from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink") |
+| --- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ---------- | ------------------------------------------------------------------------------------------------ |
+| 第2回 | 2020年4月7日  | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")                                                                                                                                                                                               |     |            |                                                                                                  |
+| 第3回 | 2020年4月14日 | [TETSUYA](https://ja.wikipedia.org/wiki/TETSUYA_\(ダンサー\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") / [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")）、[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")（EXILE / EXILE THE SECOND） |     |            |                                                                                                  |
+|     |            |                                                                                                                                                                                                                                                                                                     |     |            |                                                                                                  |
 
 ## スタッフ
 
@@ -27,6 +37,8 @@
 ## 外部リンク
 
   -
+  - [EXILE TRIBEによる新レギュラー「シブザイル」毎週火曜よる8時～生放送！](https://programnews.abema.tv/posts/7982518)
+
 [Category:2020年のWeb動画](https://ja.wikipedia.org/wiki/Category:2020年のWeb動画 "wikilink") [Category:AbemaTVのバラエティ番組](https://ja.wikipedia.org/wiki/Category:AbemaTVのバラエティ番組 "wikilink")
 
 1.

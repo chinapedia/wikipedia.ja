@@ -28,6 +28,11 @@
 
 #### 通常盤CD+DVD
 
+## タイアップ
+
+  - Heart on Fire
+    『[CDTVサタデー](https://ja.wikipedia.org/wiki/CDTVサタデー "wikilink")』2020年4月度オープニングテーマ
+
 ## 脚注
 
 [Category:DA_PUMPの楽曲](https://ja.wikipedia.org/wiki/Category:DA_PUMPの楽曲 "wikilink") [Category:shungo.が制作した楽曲](https://ja.wikipedia.org/wiki/Category:shungo.が制作した楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

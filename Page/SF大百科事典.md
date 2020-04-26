@@ -25,3 +25,5 @@
 ## 日本語版について
 
 日本語版はグラフィック社より1998年8月に発行された。日本語版監修は[高橋良平で](https://ja.wikipedia.org/wiki/高橋良平_\(SF\) "wikilink")、翻訳は[浅倉久志](../Page/浅倉久志.md "wikilink")、[内田昌之](https://ja.wikipedia.org/wiki/内田昌之 "wikilink")、[大野万紀](https://ja.wikipedia.org/wiki/大野万紀 "wikilink")、[岡田靖史](https://ja.wikipedia.org/wiki/岡田靖史 "wikilink")、[大森望](../Page/大森望.md "wikilink")、[金子浩](https://ja.wikipedia.org/wiki/金子浩 "wikilink")、[堺三保](../Page/堺三保.md "wikilink")、高橋良平、[高山祥子](https://ja.wikipedia.org/wiki/高山祥子 "wikilink")、[中村融](https://ja.wikipedia.org/wiki/中村融_\(SF\) "wikilink")、[三沢信](https://ja.wikipedia.org/wiki/三沢信 "wikilink")、[山岸真](../Page/山岸真.md "wikilink")、[蘭堂怜](https://ja.wikipedia.org/wiki/蘭堂怜 "wikilink")による。
+
+[Category:SF](https://ja.wikipedia.org/wiki/Category:SF "wikilink") [Category:百科事典](https://ja.wikipedia.org/wiki/Category:百科事典 "wikilink") [Category:1995年の作品](https://ja.wikipedia.org/wiki/Category:1995年の作品 "wikilink")

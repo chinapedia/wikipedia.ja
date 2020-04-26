@@ -30,15 +30,16 @@
 ## 主な参加ミュージシャン
 
   - **[片岡知子](https://ja.wikipedia.org/wiki/片岡知子 "wikilink")** - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[トイ・ピアノ](../Page/トイピアノ.md "wikilink")
-  - **長瀬五郎** - [アコースティックギター](../Page/アコースティック・ギター.md "wikilink")、[エレクトリックギター](../Page/エレクトリック・ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - **長瀬五郎** - [アコースティックギター](../Page/アコースティック・ギター.md "wikilink")、[エレクトリックギター](../Page/エレクトリック・ギター.md "wikilink")、コーラス
   - 寺谷誠一 - [ドラムス](../Page/ドラムセット.md "wikilink")
-  - [松原秀樹 -](../Page/松原秀樹.md "wikilink") [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - 荒木晋 [-](../Page/松原秀樹.md "wikilink") [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - 関雅之 [-](../Page/松原秀樹.md "wikilink") [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - 冨田謙 [-](../Page/松原秀樹.md "wikilink") [ピアノ](../Page/ピアノ.md "wikilink")、[ローズ・ピアノ](../Page/ローズ・ピアノ.md "wikilink")、[オルガン](../Page/オルガン.md "wikilink")
-  - 里村美和 [-](../Page/松原秀樹.md "wikilink") [パーカッション](../Page/パーカッション.md "wikilink")
-  - [三沢またろう](../Page/三沢またろう.md "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")
-  - 荒木敏男 [-](../Page/三沢またろう.md "wikilink") [トランペット](../Page/トランペット.md "wikilink")
+  - [松原秀樹 -](../Page/松原秀樹.md "wikilink") [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#1,\#8,\#11）
+  - 荒木晋 - ベース（\#2,\#4,\#5,\#6,\#7）
+  - 関雅之 - ベース（\#3,\#9）
+  - バカボン鈴木 - ベース（\#10）
+  - 冨田謙 - [ピアノ](../Page/ピアノ.md "wikilink")（\#1,\#4,\#6,\#7,\#8,\#9）、[ローズ・ピアノ](../Page/ローズ・ピアノ.md "wikilink")（\#2,\#3,\#5,\#6,\#7,\#9,\#11）、[オルガン](../Page/オルガン.md "wikilink")（\#2,\#4）
+  - 里村美和 - [パーカッション](../Page/パーカッション.md "wikilink")（\#1,\#3,\#5,\#7,\#8,\#9,\#10,\#11）
+  - [三沢またろう](../Page/三沢またろう.md "wikilink") - パーカッション（\#2,\#4,\#6）
+  - 荒木敏男 - [トランペット](../Page/トランペット.md "wikilink")
   - [山本拓夫](../Page/山本拓夫.md "wikilink") - [テナーサックス](https://ja.wikipedia.org/wiki/テナーサックス "wikilink")
   - [村田陽一](../Page/村田陽一.md "wikilink") - [トロンボーン](../Page/トロンボーン.md "wikilink")
   - 中山努 - ホーン・[アレンジメント](https://ja.wikipedia.org/wiki/アレンジメント "wikilink")

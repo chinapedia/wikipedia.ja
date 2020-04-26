@@ -95,4 +95,4 @@
 
 ## 脚注
 
-[Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink")
+[Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink")

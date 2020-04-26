@@ -19,4 +19,4 @@
   - <https://landscape.cncf.io/>
   - <https://github.com/cncf/trailmap>
 
-[Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:フリーソフトウェアのプロジェクト](https://ja.wikipedia.org/wiki/Category:フリーソフトウェアのプロジェクト "wikilink") [Category:標準化団体](https://ja.wikipedia.org/wiki/Category:標準化団体 "wikilink")

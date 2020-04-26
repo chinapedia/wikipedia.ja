@@ -14,9 +14,10 @@
 ## 沿革
 
   - 2020年（令和2年）
-      - [3月13日](../Page/3月13日.md "wikilink") - 「スターバックス」開業。
+      - [3月13日](../Page/3月13日.md "wikilink") - 「スターバックス」開業。当初は[日立ライフ](../Page/日立ライフ.md "wikilink")が運営。
       - [3月18日](../Page/3月18日.md "wikilink") - 「ヨークベニマル」開業。
       - [3月19日](../Page/3月19日.md "wikilink") - 開業。
+      - [4月1日](../Page/4月1日.md "wikilink") - 運営会社が合併により、[日立アーバンインベストメント](../Page/日立アーバンインベストメント.md "wikilink")となる。
 
 ## 脚注
 
@@ -27,7 +28,6 @@
 ## 外部リンク
 
   - [SEA MARK SQUARE](https://www.sea-mark.jp/)
-  -
   - [シネマサンライズ](https://www.cinemasunrise.com/)
 
 [Category:茨城県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:茨城県のショッピングセンター "wikilink") [Category:日立市の建築物](https://ja.wikipedia.org/wiki/Category:日立市の建築物 "wikilink") [Category:日立グループの歴史](https://ja.wikipedia.org/wiki/Category:日立グループの歴史 "wikilink") [Category:2020年開業の施設](https://ja.wikipedia.org/wiki/Category:2020年開業の施設 "wikilink")

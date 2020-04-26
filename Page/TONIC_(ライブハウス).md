@@ -39,4 +39,4 @@
   - [The Bunker](http://thebunkerny.com/events)
   - [The Tonic Group Photo Pool](https://www.flickr.com/groups/tonicnyc/?rb=1)
 
-[Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:ニューヨーク](https://ja.wikipedia.org/wiki/Category:ニューヨーク "wikilink") [Category:1998年開業の施設](https://ja.wikipedia.org/wiki/Category:1998年開業の施設 "wikilink") [Category:2007年廃止の施設](https://ja.wikipedia.org/wiki/Category:2007年廃止の施設 "wikilink") [Category:アメリカ合衆国の音楽史](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の音楽史 "wikilink")
+[Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:1998年開業の施設](https://ja.wikipedia.org/wiki/Category:1998年開業の施設 "wikilink") [Category:2007年廃止の施設](https://ja.wikipedia.org/wiki/Category:2007年廃止の施設 "wikilink") [Category:アメリカ合衆国の音楽史](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の音楽史 "wikilink") [Category:ニューヨーク市のコンサート会場](https://ja.wikipedia.org/wiki/Category:ニューヨーク市のコンサート会場 "wikilink")

@@ -28,7 +28,7 @@
 ## 外部リンク
 
   -
-[Category:インドの映画監督](https://ja.wikipedia.org/wiki/Category:インドの映画監督 "wikilink") [Category:インドの映画プロデューサー](https://ja.wikipedia.org/wiki/Category:インドの映画プロデューサー "wikilink") [Category:インドの映画評論家](https://ja.wikipedia.org/wiki/Category:インドの映画評論家 "wikilink") [Category:ラージャスターン州出身の人物](https://ja.wikipedia.org/wiki/Category:ラージャスターン州出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ヒンディー語映画の監督](https://ja.wikipedia.org/wiki/Category:ヒンディー語映画の監督 "wikilink") [Category:インドの映画プロデューサー](https://ja.wikipedia.org/wiki/Category:インドの映画プロデューサー "wikilink") [Category:インドの映画評論家](https://ja.wikipedia.org/wiki/Category:インドの映画評論家 "wikilink") [Category:ラージャスターン州出身の人物](https://ja.wikipedia.org/wiki/Category:ラージャスターン州出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

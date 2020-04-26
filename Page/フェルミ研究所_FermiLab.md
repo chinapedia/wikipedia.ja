@@ -21,7 +21,7 @@
 
 その例として、2019年2月3日に公開された『【衝撃】私立学校と公立学校の違い5選』では[私立学校](../Page/私立学校.md "wikilink")と[公立学校](../Page/公立学校.md "wikilink")の違いを文献をもとに比較したが、『将来子どもを医者や官僚にさせたいなら「私立」、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")にさせたいなら「公立」でいい』『[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")の数は公立学校の方が多いため、強い子どもに育って欲しいなら「公立」に通わせた方がいい』などと内容が公立学校に対する偏見であったため\[15\]、高評価が1.4万に対して低評価が3.1万と動画の内容を批判する声が多い\[16\]。
 
-これについて、YouTuberの[PDRさん](https://ja.wikipedia.org/wiki/PDRさん "wikilink")は私立学校の教員として働く知人の意見を交えながら、内容の真偽について解説した\[17\]\[18\]。
+これについて、YouTuberの[PDRさん](../Page/PDRさん.md "wikilink")は私立学校の教員として働く知人の意見を交えながら、内容の真偽について解説した\[17\]\[18\]。
 
 ## 管理人
 
@@ -55,7 +55,7 @@
 4.
 5.  [フェルミ研究所の動画は信憑性なし？過去の炎上/ためになる動画ランキングをご紹介 - LogTube](https://logtube.jp/entertainment/42684)
 6.  [「5年後のYouTuberはどうなる？」人気YouTuberが公開した風刺画的な予想動画に反響 - Yahoo\!ニュース](https://headlines.yahoo.co.jp/article?a=20191205-00010010-kaiyou-ent)
-7.  [【連載】次世代YouTubeクリエイターの成長戦略 第1回 フェルミ研究所、漫画を"視る"新体験で登録者150万人 - ITSearch](https://news.mynavi.jp/itsearch/article/solution/4607)
+7.  [【連載】次世代YouTubeクリエイターの成長戦略 第1回 フェルミ研究所、漫画を"視る"新体験で登録者180万人 - ITSearch](https://news.mynavi.jp/itsearch/article/solution/4607)
 8.  [電撃ランキング - YouTubeランキング](https://ytranking.net/channel/3287/)
 9.
 10.

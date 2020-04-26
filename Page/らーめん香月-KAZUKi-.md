@@ -1,7 +1,7 @@
 > この記事は[らーめん香月-KAZUKi-](https://ja.wikipedia.org/wiki/らーめん香月-KAZUKi-)から翻訳されています。
 
 
-**らーめん香月～KAZUKi～**とは、元祖背脂チャッチャ系ラーメンである。
+**らーめん香月～KAZUKi～**とは、元祖背脂チャッチャ系ラーメンを提供するラーメン店およびラーメン店を経営する企業。
 
 ## 概要
 
@@ -13,27 +13,17 @@
 
 ## 沿革
 
-1975年　背脂チャッチャ系屋台青山ラーメン
-
-1977年　並木橋店
-
-1987年　恵比寿本店オープン
-
-1987年　1500杯伝説
-
-2012年　三軒茶屋店
-
-2012年　恵比寿リニューアルオープン
-
-2013年　閉店
-
-2016年　六本木店オープン
-
-2016年　池尻大橋店オープン
-
-2019年　五反田店オープン
-
-2019年　六本木店閉店
+  - 1975年　背脂チャッチャ系屋台青山ラーメン
+  - 1977年　並木橋店
+  - 1987年　恵比寿本店オープン
+  - 1987年　1500杯伝説
+  - 2012年　三軒茶屋店
+  - 2012年　恵比寿リニューアルオープン
+  - 2013年　閉店
+  - 2016年　六本木店オープン
+  - 2016年　池尻大橋店オープン
+  - 2019年　五反田店オープン
+  - 2019年　六本木店閉店
 
 ## 店舗
 
@@ -49,6 +39,6 @@
 
   - [らーめん香月～KAZUKi～](http://ramen-kazuki.jp/)
 
-[Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:2016年設立の企業](https://ja.wikipedia.org/wiki/Category:2016年設立の企業 "wikilink")
+[Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:2016年設立の企業](https://ja.wikipedia.org/wiki/Category:2016年設立の企業 "wikilink") [Category:ラーメン店](https://ja.wikipedia.org/wiki/Category:ラーメン店 "wikilink") [Category:五反田](https://ja.wikipedia.org/wiki/Category:五反田 "wikilink")
 
 1.   らーめん香月～KAZUKi～|url=[http://ramen-kazuki.jp/access.html|website=ramen-kazuki.jp|accessdate=2020-03-16](http://ramen-kazuki.jp/access.html%7Cwebsite=ramen-kazuki.jp%7Caccessdate=2020-03-16)}}

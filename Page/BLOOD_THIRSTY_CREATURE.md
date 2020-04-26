@@ -29,4 +29,4 @@
 
 ## 脚注
 
-[Category:2017年のシングル](https://ja.wikipedia.org/wiki/Category:2017年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink")
+[Category:2017年のシングル](https://ja.wikipedia.org/wiki/Category:2017年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:lynch.の楽曲](https://ja.wikipedia.org/wiki/Category:lynch.の楽曲 "wikilink")

@@ -32,7 +32,7 @@ DeepL翻訳の初期の世間の反応は一般に好意的であり、は翻訳
   -
   -
   -
-[Category:翻訳エンジン](https://ja.wikipedia.org/wiki/Category:翻訳エンジン "wikilink") [Category:機械翻訳](https://ja.wikipedia.org/wiki/Category:機械翻訳 "wikilink") [Category:自然言語処理ソフトウェア](https://ja.wikipedia.org/wiki/Category:自然言語処理ソフトウェア "wikilink") [Category:機械翻訳ソフトウェア](https://ja.wikipedia.org/wiki/Category:機械翻訳ソフトウェア "wikilink") [Category:2017年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2017年のソフトウェア "wikilink")
+[Category:翻訳エンジン](https://ja.wikipedia.org/wiki/Category:翻訳エンジン "wikilink") [Category:機械翻訳](https://ja.wikipedia.org/wiki/Category:機械翻訳 "wikilink") [Category:自然言語処理ソフトウェア](https://ja.wikipedia.org/wiki/Category:自然言語処理ソフトウェア "wikilink") [Category:翻訳ソフトウェア](https://ja.wikipedia.org/wiki/Category:翻訳ソフトウェア "wikilink") [Category:2017年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2017年のソフトウェア "wikilink")
 
 1.
 2.

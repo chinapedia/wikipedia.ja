@@ -1,7 +1,7 @@
 > この記事は[Cocomi](https://ja.wikipedia.org/wiki/Cocomi)から翻訳されています。
 
 
-**Cocomi**（ここみ、[2001年](../Page/2001年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[モデル](../Page/モデル_\(職業\).md "wikilink")、[フルート](../Page/フルート.md "wikilink")奏者。本名、木村心美（きむらここみ）。[俳優](../Page/俳優.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[タレント](../Page/タレント.md "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")と歌手・[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")・タレントの[工藤静香](../Page/工藤静香.md "wikilink")夫妻の長女\[1\]、妹は[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")として活動している[Koki,](https://ja.wikipedia.org/wiki/Koki, "wikilink")。
+**Cocomi**（ここみ、[2001年](../Page/2001年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[モデル](../Page/モデル_\(職業\).md "wikilink")、[フルート](../Page/フルート.md "wikilink")奏者。本名、木村心美（きむらここみ）。[俳優](../Page/俳優.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[タレント](../Page/タレント.md "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")と歌手・[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")・タレントの[工藤静香](../Page/工藤静香.md "wikilink")夫妻の長女\[1\]、妹は[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")として活動している[Kōki,](https://ja.wikipedia.org/wiki/Koki, "wikilink")。
 
 ## 来歴
 
@@ -18,6 +18,7 @@
       - 2013年、第23回[ヤマノジュニアフルートコンテスト小学生の部で](../Page/山野楽器.md "wikilink")「[カルメン幻想曲](https://ja.wikipedia.org/wiki/カルメン幻想曲 "wikilink")」を演奏して最優秀賞入賞。
       - 2018年、第73回[全日本学生音楽コンクール](../Page/全日本学生音楽コンクール.md "wikilink")において予選を勝ち抜き、東京大会に出場。
       - 2019年、第2回日本奏楽コンクールにおいて準グランプリ入賞（管楽器部門 高校の部)。管楽器部門1位、フランス近代音楽賞受賞\[9\]。
+  - 漫画やアニメが好きであるという。特に「[鬼滅の刃](https://ja.wikipedia.org/wiki/鬼滅の刃 "wikilink")」のファンであり、自身のInstagramに同作品を読んでいる姿を掲載したこともある\[10\]\[11\]。
 
 ## 雑誌
 
@@ -36,7 +37,7 @@
 ## 外部リンク
 
   -
-[Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本のフルート奏者‎](https://ja.wikipedia.org/wiki/Category:日本のフルート奏者‎ "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:2001年生](https://ja.wikipedia.org/wiki/Category:2001年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:木村拓哉](https://ja.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
+[Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本のフルート奏者](https://ja.wikipedia.org/wiki/Category:日本のフルート奏者 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:2001年生](https://ja.wikipedia.org/wiki/Category:2001年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:木村拓哉](https://ja.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
 
 1.
 2.
@@ -47,3 +48,5 @@
 7.
 8.
 9.
+10.
+11.

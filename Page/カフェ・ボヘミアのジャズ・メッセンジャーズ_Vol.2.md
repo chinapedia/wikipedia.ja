@@ -53,7 +53,7 @@ B面
 
   - ボブ・ブルーメンソール (Bob Bluementhal)、[レナード・フェザー](https://ja.wikipedia.org/wiki/レナード・フェザー "wikilink") - [ライナーノーツ](../Page/ライナーノーツ.md "wikilink")
   - [マイケル・カスクーナ](https://ja.wikipedia.org/wiki/マイケル・カスクーナ "wikilink") - リイシュー盤プロデューサー
-  - [ジョン・ハーマンセイダー](https://ja.wikipedia.org/wiki/ジョン・ハーマンセイダー "wikilink") - カバー・デザイン
+  - [ジョン・ハーマンセイダー](../Page/ジョン・ハーマンセイダー.md "wikilink") - カバー・デザイン
   - [アルフレッド・ライオン](../Page/アルフレッド・ライオン.md "wikilink") - [プロデューサー](../Page/音楽プロデューサー.md "wikilink")
   - [ルディ・ヴァン・ゲルダー](../Page/ルディ・ヴァン・ゲルダー.md "wikilink") - デジタル・リマスタリング
   - [フランシス・ウルフ](https://ja.wikipedia.org/wiki/フランシス・ウルフ "wikilink") - 写真

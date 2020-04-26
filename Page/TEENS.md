@@ -12,7 +12,7 @@
 ## TEENSモデル
 
   - Kirari
-  - 大橋あかり
+  - [大橋あかり](https://ja.wikipedia.org/wiki/大橋あかり "wikilink")
   - [網代聖人](https://ja.wikipedia.org/wiki/網代聖人 "wikilink")
   - 篠ヶ谷歩夢
   - [森長一誠](../Page/森長一誠.md "wikilink")

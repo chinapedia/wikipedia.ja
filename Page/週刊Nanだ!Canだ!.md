@@ -37,7 +37,7 @@
 
 [番組ホームページ（アーカイブ）](http://web.archive.org/web/20050208102556/http://www.htb.co.jp/nancan/)
 
-[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink")
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink") [Category:北海道のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビの情報・ワイドショー番組 "wikilink")
 
 1.
 2.

@@ -29,9 +29,9 @@
 ## イベント
 
   - 朝焼け番長（1996年～2009年12月8日）
-      - 新宿ACIDの週末イベントから[渋谷オルガンバーに移動し](https://ja.wikipedia.org/wiki/Organ_bar "wikilink")、毎月第二火曜日のレギュラーイベントとなった。全国のDJをゲストに招き、様々なDJがプレイした。「～番長」ブームの火付け役。
+      - 新宿ACIDの週末イベントから[渋谷オルガンバーに移動し](../Page/Organ_bar.md "wikilink")、毎月第二火曜日のレギュラーイベントとなった。全国のDJをゲストに招き、様々なDJがプレイした。「～番長」ブームの火付け役。
   - ASAYAKE BREAKS（2004年7月24日～現在）
-      - 現在Asayake Productionが主宰するイベント。現在は不定期に主に[渋谷オルガンバーで開催](https://ja.wikipedia.org/wiki/Organ_bar "wikilink")。
+      - 現在Asayake Productionが主宰するイベント。現在は不定期に主に[渋谷オルガンバーで開催](../Page/Organ_bar.md "wikilink")。
   - 俺カリ～LIVE\!
       - [東京カリ～番長](https://ja.wikipedia.org/wiki/東京カリ～番長 "wikilink")のメンバーが中心となって開催するDJとLIVEとカリ～のセッションイベント。[東京カリ～番長](https://ja.wikipedia.org/wiki/東京カリ～番長 "wikilink")DJ主任のWARAやメロディ主任の[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")がメインとなって活動。
 
@@ -307,7 +307,7 @@
   - [vivid sound](https://www.vividsound.co.jp/artiste.php?aid=254)
   - [Youtubeチャンネル](https://www.youtube.com/channel/UCmE8yurdvi1dUuxEnErEB1g)
 
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:福島県出身の人物](https://ja.wikipedia.org/wiki/Category:福島県出身の人物 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:群馬県出身の人物](https://ja.wikipedia.org/wiki/Category:群馬県出身の人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink") [Category:福島県出身の人物](https://ja.wikipedia.org/wiki/Category:福島県出身の人物 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:群馬県出身の人物](https://ja.wikipedia.org/wiki/Category:群馬県出身の人物 "wikilink")
 
 1.  [アサヤケ・プロダクション / アサヤケ・ブレイクス（CDジャーナル）](https://artist.cdjournal.com/d/asayake-breaks/3204060438)
 2.  [渋谷オルガンバーをはじめ、全国のクラブ界隈で絶大な人気を誇るブレイクビーツ・ユニット、ASAYAKE PRODUCTIONの1stアルバムが遂にドロップ\!\!（VIVID SOUND / High Contrast Recordings）](http://www.highcontrast.jp/news/news_0714asayake.html)

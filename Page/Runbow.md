@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p>コマンダービデオ</p></td>
-<td><p>■■シリーズ</p></td>
+<td><p>シリーズ</p></td>
 <td></td>
 </tr>
 <tr class="even">

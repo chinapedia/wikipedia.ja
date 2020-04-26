@@ -35,28 +35,44 @@
   -
     昨年より規模は拡大し、12作品がノミネート\[4\]。大賞賞金も協賛企業の増加によって120万円まで増額された。審査員は前回も携わった後藤、日高、福岡に加え[Chara](https://ja.wikipedia.org/wiki/Chara "wikilink")が参加した。大賞は中村佳穂の2枚目のオリジナル・アルバム「AINOU」に決定、[KID FRESINOの](https://ja.wikipedia.org/wiki/KID_FRESINO "wikilink")「ài qíng」、[折坂悠太](https://ja.wikipedia.org/wiki/折坂悠太 "wikilink")の「平成」、[GEZAN](https://ja.wikipedia.org/wiki/GEZAN "wikilink")の「Silence Will Speak」の3作品に特別賞が贈られた\[5\]。
 
-| アルバム               | ミュージシャン                                                                     |
-| ------------------ | --------------------------------------------------------------------------- |
-| 大賞                 |                                                                             |
-| AINOU              | [中村佳穂](https://ja.wikipedia.org/wiki/中村佳穂 "wikilink")                       |
-| 特別賞                |                                                                             |
-| ài qíng            | [KID FRESINO](https://ja.wikipedia.org/wiki/KID_FRESINO "wikilink")         |
-| 平成                 | 折坂悠太                                                                        |
-| Silence Will Speak | [GEZAN](https://ja.wikipedia.org/wiki/GEZAN "wikilink")                     |
-| ノミネート              |                                                                             |
-| 「The All」=「Poem」   | [Gateballers](https://ja.wikipedia.org/wiki/Gateballers "wikilink")         |
-| Eutopia            | [STUTS](https://ja.wikipedia.org/wiki/STUTS "wikilink")                     |
-| GOLD               | [Age Factory](https://ja.wikipedia.org/wiki/Age_Factory "wikilink")         |
-| HEX                | [ROTH BART BARON](https://ja.wikipedia.org/wiki/ROTH_BART_BARON "wikilink") |
-| MABOROSI WEEKEND   | [AAAMYYY](https://ja.wikipedia.org/wiki/AAAMYYY "wikilink")                 |
-| Virtual            | [VaVa](https://ja.wikipedia.org/wiki/VaVa "wikilink")                       |
-| なんて素晴らしい世界         | [Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")               |
-| 草木萌動               | [長谷川白紙](../Page/長谷川白紙.md "wikilink")                                        |
+| アルバム                                         | ミュージシャン                                                                     |
+| -------------------------------------------- | --------------------------------------------------------------------------- |
+| 大賞                                           |                                                                             |
+| AINOU                                        | [中村佳穂](https://ja.wikipedia.org/wiki/中村佳穂 "wikilink")                       |
+| 特別賞                                          |                                                                             |
+| ài qíng                                      | [KID FRESINO](https://ja.wikipedia.org/wiki/KID_FRESINO "wikilink")         |
+| [平成](../Page/平成_\(折坂悠太のアルバム\).md "wikilink") | 折坂悠太                                                                        |
+| Silence Will Speak                           | [GEZAN](https://ja.wikipedia.org/wiki/GEZAN "wikilink")                     |
+| ノミネート                                        |                                                                             |
+| 「The All」=「Poem」                             | [Gateballers](https://ja.wikipedia.org/wiki/Gateballers "wikilink")         |
+| Eutopia                                      | [STUTS](https://ja.wikipedia.org/wiki/STUTS "wikilink")                     |
+| GOLD                                         | [Age Factory](https://ja.wikipedia.org/wiki/Age_Factory "wikilink")         |
+| HEX                                          | [ROTH BART BARON](https://ja.wikipedia.org/wiki/ROTH_BART_BARON "wikilink") |
+| MABOROSI WEEKEND                             | [AAAMYYY](https://ja.wikipedia.org/wiki/AAAMYYY "wikilink")                 |
+| Virtual                                      | [VaVa](https://ja.wikipedia.org/wiki/VaVa "wikilink")                       |
+| なんて素晴らしい世界                                   | [Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")               |
+| 草木萌動                                         | [長谷川白紙](../Page/長谷川白紙.md "wikilink")                                        |
 
 ### 第3回（2020年）
 
   -
     2019年リリースの作品を対象に選考され、10作品がノミネートされた。大賞賞金は後藤、坂本龍一、[亀田誠治](../Page/亀田誠治.md "wikilink")、企業5社の協賛によって123万円が用意された。審査員は後藤、日高、福岡に加えて[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")のLicaxxx、タレントの[三原勇希](../Page/三原勇希.md "wikilink")が務める。
+
+| アルバム            | ミュージシャン                                                                   |
+| --------------- | ------------------------------------------------------------------------- |
+| 大賞              |                                                                           |
+| けものたちの名前        | ROTH BART BARON                                                           |
+| 特別賞             |                                                                           |
+| Q曲              | 東郷清丸                                                                      |
+| Andless         | [Daich Yamamoto](https://ja.wikipedia.org/wiki/Daich_Yamamoto "wikilink") |
+| 毎日来日            | [なみちえ](https://ja.wikipedia.org/wiki/なみちえ "wikilink")                     |
+| ノミネート           |                                                                           |
+| Agate           | [Black Boboi](https://ja.wikipedia.org/wiki/Black_Boboi "wikilink")       |
+| BODY            | AAAMYYY                                                                   |
+| Brown           | [Sweet William](https://ja.wikipedia.org/wiki/Sweet_William "wikilink")   |
+| Dos City        | [Dos Monos](https://ja.wikipedia.org/wiki/Dos_Monos "wikilink")           |
+| Down the Valley | [NOT WONK](https://ja.wikipedia.org/wiki/NOT_WONK "wikilink")             |
+| エアにに            | 長谷川白紙                                                                     |
 
 ## 脚注
 

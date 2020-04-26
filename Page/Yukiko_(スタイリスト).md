@@ -41,36 +41,32 @@
 
 ### 講演・セミナー、イベント講師
 
-  - 2013年（平成25年）
+  - 2013年（平成25年）　　
+      - [品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink") カラープロモーションセミナー
 
-[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink") カラープロモーションセミナー
+<!-- end list -->
 
   - 2014年（平成26年）
+      - 販売戦略検討会 カラーセミナー
+      - [千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")岩瀬自治会
+      - [スルガ銀行](../Page/スルガ銀行.md "wikilink") d-laboアルパミニ演奏会　MC、企画、演奏
+      - [スルガ銀行](../Page/スルガ銀行.md "wikilink") ファッションショー　MC、企画、講師
+      - 日本の良さを体感するプロジェクト（日本酒版）
 
-販売戦略検討会 カラーセミナー
-[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")岩瀬自治会
-[スルガ銀行](../Page/スルガ銀行.md "wikilink") d-laboアルパミニ演奏会　MC、企画、演奏
-[スルガ銀行](../Page/スルガ銀行.md "wikilink") ファッションショー　MC、企画、講師
-日本の良さを体感するプロジェクト（日本酒版）
-\* 2015年（平成27年） [鹿児島県](../Page/鹿児島県.md "wikilink")酒造組合 酒青会総会
+<!-- end list -->
 
+  - 2015年（平成27年）
+      - [鹿児島県](../Page/鹿児島県.md "wikilink")酒造組合 酒青会総会
   - 2017年（平成29年）
-
-[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")ビジネスコーディネーター補助員 コンサルティング講師
-
+      - [豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")ビジネスコーディネーター補助員 コンサルティング講師
   - 2018年（平成30年）
-
-[濵田酒造](https://ja.wikipedia.org/wiki/濵田酒造 "wikilink")主催 本格焼酎イベント「DAIYAME Night」
-
+      - [濵田酒造](https://ja.wikipedia.org/wiki/濵田酒造 "wikilink")主催 本格焼酎イベント「DAIYAME Night」
   - 2019年（平成31年/令和元年）
-
-[宮崎県](../Page/宮崎県.md "wikilink")[都城市](https://ja.wikipedia.org/wiki/都城市 "wikilink")主催「[ふるさと納税](../Page/ふるさと納税.md "wikilink")大感謝祭」　焼酎監修含む
-読売カルチャー主催「焼酎スタイリストが教える焼酎の楽しみ方と飲み方」　焼酎セレクター、本格焼酎講師
-[大分県](../Page/大分県.md "wikilink")[日田市](../Page/日田市.md "wikilink")「[日田天領水](../Page/日田天領水.md "wikilink")」[中津市](../Page/中津市.md "wikilink")「西の誉銘醸」特集 「色と食の旅プロジェクト」
-
+      - [宮崎県](../Page/宮崎県.md "wikilink")[都城市](https://ja.wikipedia.org/wiki/都城市 "wikilink")主催「[ふるさと納税](../Page/ふるさと納税.md "wikilink")大感謝祭」　焼酎監修含む
+      - 読売カルチャー主催「焼酎スタイリストが教える焼酎の楽しみ方と飲み方」　焼酎セレクター、本格焼酎講師
+      - [大分県](../Page/大分県.md "wikilink")[日田市](../Page/日田市.md "wikilink")「[日田天領水](../Page/日田天領水.md "wikilink")」[中津市](../Page/中津市.md "wikilink")「西の誉銘醸」特集 「色と食の旅プロジェクト」
   - 2020年（令和2年）
-
-[鹿児島県](../Page/鹿児島県.md "wikilink")主催　[松屋](https://ja.wikipedia.org/wiki/松屋 "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")「焼酎スタイリストyukiko氏が教える焼酎の飲み方・楽しみ方」　焼酎セレクター、本格焼酎講師
+      - [鹿児島県](../Page/鹿児島県.md "wikilink")主催　[松屋](https://ja.wikipedia.org/wiki/松屋 "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")「焼酎スタイリストyukiko氏が教える焼酎の飲み方・楽しみ方」　焼酎セレクター、本格焼酎講師
 
 ### イベントプロデュース
 
@@ -83,116 +79,99 @@
 ### メディア掲載
 
   - 2012年（平成24年）
-
-「[日経WOMAN](https://ja.wikipedia.org/wiki/日経WOMAN "wikilink")」[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")　
-
+      - 「[日経WOMAN](https://ja.wikipedia.org/wiki/日経WOMAN "wikilink")」[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")　
   - 2014年（平成26年）
-
-[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")
-
+      - [日本食糧新聞](../Page/日本食糧新聞.md "wikilink")
   - 2015年（平成27年）
-
-「[ケイコとマナブ](https://ja.wikipedia.org/wiki/ケイコとマナブ "wikilink")」リクルートホールディングス
-Career Groove
-「本格焼酎＆泡盛プレス」日本酒造組合中央会
-
+      - 「[ケイコとマナブ](https://ja.wikipedia.org/wiki/ケイコとマナブ "wikilink")」リクルートホールディングス
+      - Career Groove
+      - 「本格焼酎＆泡盛プレス」日本酒造組合中央会
   - 2016年（平成28年）
-
-[宮崎日日新聞](../Page/宮崎日日新聞.md "wikilink")
-「ar」[主婦と生活社](../Page/主婦と生活社.md "wikilink")
-「NIPPON SHOCHU MAGAZINE」[宝酒造](https://ja.wikipedia.org/wiki/宝酒造 "wikilink")（ファッションスタイリング含む）
-
+      - [宮崎日日新聞](../Page/宮崎日日新聞.md "wikilink")
+      - 「ar」[主婦と生活社](../Page/主婦と生活社.md "wikilink")
+      - 「NIPPON SHOCHU MAGAZINE」[宝酒造](https://ja.wikipedia.org/wiki/宝酒造 "wikilink")（ファッションスタイリング含む）
   - 2017年（平成29年）
-
-「CLASSY.」[光文社](../Page/光文社.md "wikilink")　色彩監修、ファッションアドバイス 焼酎＆泡盛スタイル
-
+      - 「CLASSY.」[光文社](../Page/光文社.md "wikilink")　色彩監修、ファッションアドバイス
+      - 焼酎＆泡盛スタイル
   - 2018年（平成30年）
-
-「ar」[主婦と生活社](../Page/主婦と生活社.md "wikilink")　
-[大分合同新聞](../Page/大分合同新聞.md "wikilink")
-[文化庁](../Page/文化庁.md "wikilink")・[文化遺産](../Page/文化遺産.md "wikilink")サイト（プロデュースを行った「色と食の旅プロジェクト」とともに紹介）
-[日刊ゲンダイ](../Page/日刊ゲンダイ.md "wikilink")
-[日本経済新聞](../Page/日本経済新聞.md "wikilink")
-焼酎＆泡盛スタイル
-
+      - 「ar」[主婦と生活社](../Page/主婦と生活社.md "wikilink")　
+      - [大分合同新聞](../Page/大分合同新聞.md "wikilink")
+      - [文化庁](../Page/文化庁.md "wikilink")・[文化遺産](../Page/文化遺産.md "wikilink")サイト（プロデュースを行った「色と食の旅プロジェクト」とともに紹介）
+      - [日刊ゲンダイ](../Page/日刊ゲンダイ.md "wikilink")
+      - [日本経済新聞](../Page/日本経済新聞.md "wikilink")
+      - 焼酎＆泡盛スタイル
   - 2019年（平成31年/令和元年）
-
-[読売新聞](../Page/読売新聞.md "wikilink")
-
+      - [読売新聞](../Page/読売新聞.md "wikilink")
   - 2020年（令和2年）
-
-焼酎＆泡盛スタイル
-「飲み旅本。vol.6」ブランジスタ
+      - 焼酎＆泡盛スタイル
+      - 「飲み旅本。vol.6」ブランジスタ
 
 ### 動画、配信出演
 
   - 2017年（平成29年）
-
-「[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")スーパーライブTV」にお笑いタレント [デンジャラス](../Page/デンジャラス.md "wikilink")[ノッチ](../Page/ノッチ.md "wikilink")と共演、焼酎スタイリスト、焼酎・泡盛ナビゲーターとしてゲスト出演
-
+      - 「[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")スーパーライブTV」にお笑いタレント [デンジャラス](../Page/デンジャラス.md "wikilink")[ノッチ](../Page/ノッチ.md "wikilink")と共演、焼酎スタイリスト、焼酎・泡盛ナビゲーターとしてゲスト出演
   - 2018年（平成30年）
-
-スポーツアナウンサー[松本秀夫](../Page/松本秀夫.md "wikilink")の番組「ゆるぱら！」にスポーツアナウンサー[胡口和雄](../Page/胡口和雄.md "wikilink")と一緒に焼酎スタイリストとしてゲスト出演（Extractor.live）
-「焼酎＆泡盛スタイル」動画 焼酎女子旅・ほろ酔い女子が楽しむ「大人の焼酎女子旅」ー御宿編（色彩監修含む）\[12\]
-「焼酎＆泡盛スタイル」動画 焼酎女子旅・[麦焼酎](https://ja.wikipedia.org/wiki/麦焼酎 "wikilink")「神の河」・発泡性[リキュール](../Page/リキュール.md "wikilink")「神の河スパークリング」ー[薩摩酒造](../Page/薩摩酒造.md "wikilink")編　（色彩監修含む）\[13\]
-「焼酎＆泡盛スタイル」動画 焼酎女子旅・[奄美黒糖焼酎](https://ja.wikipedia.org/wiki/奄美黒糖焼酎 "wikilink")「はなとり」20度・25度ー[沖永良部酒造編](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")（色彩監修含む）\[14\]
-
+      - スポーツアナウンサー[松本秀夫](../Page/松本秀夫.md "wikilink")の番組「ゆるぱら！」にスポーツアナウンサー[胡口和雄](../Page/胡口和雄.md "wikilink")と一緒に焼酎スタイリストとしてゲスト出演（Extractor.live）
+      - 「焼酎＆泡盛スタイル」動画 焼酎女子旅・ほろ酔い女子が楽しむ「大人の焼酎女子旅」ー御宿編（色彩監修含む）\[12\]
+      - 「焼酎＆泡盛スタイル」動画 焼酎女子旅・[麦焼酎](https://ja.wikipedia.org/wiki/麦焼酎 "wikilink")「神の河」・発泡性[リキュール](../Page/リキュール.md "wikilink")「神の河スパークリング」ー[薩摩酒造](../Page/薩摩酒造.md "wikilink")編　（色彩監修含む）\[13\]
+      - 「焼酎＆泡盛スタイル」動画 焼酎女子旅・[奄美黒糖焼酎](https://ja.wikipedia.org/wiki/奄美黒糖焼酎 "wikilink")「はなとり」20度・25度ー[沖永良部酒造編](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")（色彩監修含む）\[14\]
   - 2019年（平成31年/令和元年）
+      - 「焼酎＆泡盛スタイル」動画 本格焼酎の日イベント・本格焼酎「だいやめ ～DAIYAME～」ー[濵田酒造](https://ja.wikipedia.org/wiki/濵田酒造 "wikilink")（色彩監修含む）\[15\]
+        YouTube「本格焼酎＆泡盛チャンネル」（色彩監修含む）
 
-「焼酎＆泡盛スタイル」動画 本格焼酎の日イベント・本格焼酎「だいやめ ～DAIYAME～」ー[濵田酒造](https://ja.wikipedia.org/wiki/濵田酒造 "wikilink")（色彩監修含む）\[15\]
-YouTube「本格焼酎＆泡盛チャンネル」（色彩監修含む）
-\* 2020年（令和2年）
-YouTube「本格焼酎＆泡盛チャンネル」（色彩監修含む）
-「焼酎＆泡盛スタイル」動画 美容女子・焼酎女子が六本木に集合！「色と食の旅プロジェクト」本格焼酎イベント――世界4大ミネラルウォーター「[日田天領水](../Page/日田天領水.md "wikilink")」（色彩監修含む）\[16\]
+<!-- end list -->
+
+  - 2020年（令和2年）
+      - YouTube「本格焼酎＆泡盛チャンネル」（色彩監修含む）
+        「焼酎＆泡盛スタイル」動画 美容女子・焼酎女子が六本木に集合！「色と食の旅プロジェクト」本格焼酎イベント――世界4大ミネラルウォーター\*\*「[日田天領水](../Page/日田天領水.md "wikilink")」（色彩監修含む）\[16\]
 
 ### 対談
 
-  - 2016年（平成28年）
+  - 2016年（平成28年）　[中田英寿](../Page/中田英寿.md "wikilink")（元サッカー選手日本代表）×yukiko
 
-[中田英寿](../Page/中田英寿.md "wikilink")（元サッカー選手日本代表）×yukiko
-\* 2017年（平成29年）
-[レスリー・キー](../Page/レスリー・キー.md "wikilink")（ファッションカメラマン）×yukiko
-\* 2018年（平成30年）
-[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")（歌手）×yukiko
-[カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")（歌手）×yukiko
-[田上晃吉](../Page/田上晃吉.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")方言指導・俳優）×yukiko
-\* 2019年（平成31年/令和元年）
-[宮下純一](https://ja.wikipedia.org/wiki/宮下純一 "wikilink")（北京オリンピック競泳メダリスト）×yukiko
-[中孝介](../Page/中孝介.md "wikilink")（歌手）×yukiko
+<!-- end list -->
+
+  - 2017年（平成29年）　[レスリー・キー](../Page/レスリー・キー.md "wikilink")（ファッションカメラマン）×yukiko
+
+<!-- end list -->
+
+  - 2018年（平成30年）　[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")（歌手）×yukiko　　 [カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")（歌手）×yukiko　　 [田上晃吉](../Page/田上晃吉.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")方言指導・俳優）×yukiko
+
+<!-- end list -->
+
+  - 2019年（平成31年/令和元年）　[宮下純一](https://ja.wikipedia.org/wiki/宮下純一 "wikilink")（北京オリンピック競泳メダリスト）×yukiko　　 [中孝介](../Page/中孝介.md "wikilink")（歌手）×yukiko
 
 ### 執筆（インタビュー、連載）
 
   - 2013年（平成25年）
-
-[美容家](https://ja.wikipedia.org/wiki/美容家 "wikilink") [佐伯チズ](../Page/佐伯チズ.md "wikilink")インタビュー
-\* 2015年（平成24年）
-Career Groove記事執筆
-\* 2016年（平成28年）
-企業のHP用記事を取材・執筆
-Career Groove記事執筆
-\* 2017年（平成29年）
-Career Groove記事執筆
-[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
-ウェブマガジン「焼酎＆泡盛スタイル」連載
-\* 2018年（平成30年）
-[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
-ウェブマガジン「焼酎＆泡盛スタイル」連載
-[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作者 作家・ [林真理子](../Page/林真理子.md "wikilink")イベント特集記事
-[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作本『西郷どん！』林真理子×西郷真悠子イベント特集記事
-\* 2019年（平成31年/令和元年）
-ウェブマガジン「焼酎＆泡盛スタイル」連載
-[鹿児島県](../Page/鹿児島県.md "wikilink")特産品協会 会報誌　新春号に寄稿\[17\]
-コスメティックブランド「FIVEISMｘTHREE」（ファイブイズム バイ スリー）公式サイト寄稿\[18\]
-\* 2020年（令和2年）
-ウェブマガジン「焼酎＆泡盛スタイル」連載
+    \*[美容家](https://ja.wikipedia.org/wiki/美容家 "wikilink") [佐伯チズ](../Page/佐伯チズ.md "wikilink")インタビュー
+  - 2015年（平成24年）
+    \*Career Groove記事執筆
+  - 2016年（平成28年）
+    \*企業のHP用記事を取材・執筆
+    \*Career Groove記事執筆
+  - 2017年（平成29年）
+    \*Career Groove記事執筆
+    \*[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
+    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
+  - 2018年（平成30年）
+    \*[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
+    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
+    \*[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作者 作家・ [林真理子](../Page/林真理子.md "wikilink")イベント特集記事
+    \*[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作本『西郷どん！』林真理子×西郷真悠子イベント特集記事
+  - 2019年（平成31年/令和元年）
+    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
+    \*[鹿児島県](../Page/鹿児島県.md "wikilink")特産品協会 会報誌　新春号に寄稿\[17\]
+    \*コスメティックブランド「FIVEISMｘTHREE」（ファイブイズム バイ スリー）公式サイト寄稿\[18\]
+  - 2020年（令和2年）
+    \*ウェブマガジン「焼酎＆泡盛スタイル」連載
 
 ### その他
 
   - 2009年（平成21年）
-
-[文部科学省](../Page/文部科学省.md "wikilink")後援 色彩検定において担当した教育機関を「優秀団体賞」に導く
-\* 2018年（平成30年）
-[文化庁](../Page/文化庁.md "wikilink")の[日本遺産](https://ja.wikipedia.org/wiki/日本遺産 "wikilink")サイトに「色と食の旅プロジェクト」が紹介される
+    \*[文部科学省](../Page/文部科学省.md "wikilink")後援 色彩検定において担当した教育機関を「優秀団体賞」に導く
+  - 2018年（平成30年）
+    \*[文化庁](../Page/文化庁.md "wikilink")の[日本遺産](https://ja.wikipedia.org/wiki/日本遺産 "wikilink")サイトに「色と食の旅プロジェクト」が紹介される
 
 ## 脚注
 
@@ -209,7 +188,7 @@ Career Groove記事執筆
   - [焼酎スタイリストyukikoのTwitter](https://twitter.com/yukiko_shochu)　
   - [焼酎スタイリストyukikoのブログ（ameba）](https://ameblo.jp/color-director/)
 
-<!-- end list -->
+[Category:スタイリスト](https://ja.wikipedia.org/wiki/Category:スタイリスト "wikilink") [Category:アドバイザー](https://ja.wikipedia.org/wiki/Category:アドバイザー "wikilink") [Category:ビジネスプロデューサー](https://ja.wikipedia.org/wiki/Category:ビジネスプロデューサー "wikilink") [Category:コンサルタント](https://ja.wikipedia.org/wiki/Category:コンサルタント "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:永谷園](https://ja.wikipedia.org/wiki/Category:永谷園 "wikilink")
 
 1.  「焼酎スタイリスト」は登録商標となっている。（第5922628号、第5959066号）
 2.  「焼酎スタイリスト」のほか、「泡盛スタイリスト」（商標申請中）、「日本酒スタイリスト」（第5968666号）、「清酒スタイリスト」（第6027093号）も登録商標である。

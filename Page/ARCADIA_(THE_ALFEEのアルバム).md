@@ -1,4 +1,4 @@
-> この記事は[ARCADIA \(THE ALFEE\)](https://ja.wikipedia.org/wiki/ARCADIA_\(THE_ALFEE\))から翻訳されています。
+> この記事は[ARCADIA \(THE ALFEEのアルバム\)](https://ja.wikipedia.org/wiki/ARCADIA_\(THE_ALFEEのアルバム\))から翻訳されています。
 
 
 『**ARCADIA**』（アルカディア）は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[オリジナルアルバム](../Page/アルバム.md "wikilink")。

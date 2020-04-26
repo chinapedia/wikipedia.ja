@@ -51,7 +51,7 @@
 
 ## 脚注
 
-[Category:NEWSの楽曲](https://ja.wikipedia.org/wiki/Category:NEWSの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ジャニーズ・エンタテイメントの楽曲](https://ja.wikipedia.org/wiki/Category:ジャニーズ・エンタテイメントの楽曲 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:服飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:服飾のコマーシャルソング "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:嬰ハ長調](https://ja.wikipedia.org/wiki/Category:嬰ハ長調 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:NEWSの楽曲](https://ja.wikipedia.org/wiki/Category:NEWSの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ジャニーズ・エンタテイメントの楽曲](https://ja.wikipedia.org/wiki/Category:ジャニーズ・エンタテイメントの楽曲 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:服飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:服飾のコマーシャルソング "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  「[NEWS、自身初のシングル、アルバム同時初登場1位\!](http://www.oricon.co.jp/news/rankmusic/49603/)」[ORICON STYLE](http://www.oricon.co.jp/)、2007年11月13日。（参照: 2007年11月13日）
 2.  根岸聖子（Text）「毎日を楽しんでいきましょう\!」『oricon style 2007 No.43-1416』、[オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")、2007年。

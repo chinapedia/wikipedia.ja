@@ -1,4 +1,4 @@
-> この記事は[SUPER \(\)](https://ja.wikipedia.org/wiki/SUPER_\(\))から翻訳されています。
+> この記事は[SUPER \(ソフトウェア\)](https://ja.wikipedia.org/wiki/SUPER_\(ソフトウェア\))から翻訳されています。
 
 
 **SUPER ©** (Simplified Universal Player Encoder & Renderer)は、[動画](../Page/動画.md "wikilink")ファイルや[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")ファイルを様々な形式に[エンコード](../Page/エンコード.md "wikilink")するための[フリーウェア](../Page/フリーウェア.md "wikilink")。 日本語環境では文字化けして**SUPER ｩ**と表示される場合がある。

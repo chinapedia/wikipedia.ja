@@ -1,4 +1,4 @@
-> この記事は[Sounds Of Spirit](https://ja.wikipedia.org/wiki/Sounds_Of_Spirit)から翻訳されています。
+> この記事は[ぼくが地球を救う〜Sounds Of Spirit〜](https://ja.wikipedia.org/wiki/ぼくが地球を救う〜Sounds_Of_Spirit〜)から翻訳されています。
 
 
 『**ぼくが地球を救う〜Sounds Of Spirit〜**』（ぼくがちきゅうをすくう サウンズ・オブ・スピリット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")の[Skoop On Somebodyが](../Page/Skoop_On_Somebody.md "wikilink")[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")17枚目（Skoop On Somebodyとしては9枚目）の[シングル](../Page/シングル.md "wikilink")。

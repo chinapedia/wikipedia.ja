@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[チンギスハーン・蒼き狼と白き牝鹿IV](https://ja.wikipedia.org/wiki/チンギスハーン・蒼き狼と白き牝鹿IV)から翻訳されています。
 
 
 『**チンギスハーン・蒼き狼と白き牝鹿IV**』（チンギスハーン・あおきおおかみとしろきめじか フォー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。[蒼き狼と白き牝鹿シリーズ](../Page/蒼き狼と白き牝鹿シリーズ.md "wikilink")の第4作である。

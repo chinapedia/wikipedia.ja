@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[グレトナFC](https://ja.wikipedia.org/wiki/グレトナFC)から翻訳されています。
 
 
 **グレトナFC**（**Gretna Football Club**）は、かつて存在した[スコットランド](../Page/スコットランド.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[グレトナ](https://ja.wikipedia.org/wiki/グレトナ "wikilink")を本拠地とし、2007-08シーズンに[スコティッシュ・プレミアリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink")に初昇格したが、財政破綻により2008年に消滅。

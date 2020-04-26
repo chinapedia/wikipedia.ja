@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[セント・ミレンFC](https://ja.wikipedia.org/wiki/セント・ミレンFC)から翻訳されています。
 
 
 **セント・ミレンFC**（）は、[スコットランド](../Page/スコットランド.md "wikilink")西部の都市[ペイズリーを本拠地とする](https://ja.wikipedia.org/wiki/ペイズリー_\(スコットランド\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[スコティッシュ・プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink") (1部相当) に所属している。
@@ -229,6 +229,6 @@
   - [The St.Mirren Programme Archive](http://www.stmirrenprogrammes.co.uk/)
   - [St. Mirren BBC My Club page](http://news.bbc.co.uk/sport1/hi/football/teams/s/st_mirren/default.stm)
 
-[Category:スコットランドのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スコットランドのサッカークラブ "wikilink") [Category:ペイズリー](https://ja.wikipedia.org/wiki/Category:ペイズリー "wikilink")
+[Category:スコットランドのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スコットランドのサッカークラブ "wikilink") [Category:ペイズリー](https://ja.wikipedia.org/wiki/Category:ペイズリー "wikilink") [Category:1877年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1877年設立のスポーツチーム "wikilink")
 
 1.

@@ -1,7 +1,7 @@
-> この記事は[OK ](https://ja.wikipedia.org/wiki/OK_)から翻訳されています。
+> この記事は[OK コンピューター](https://ja.wikipedia.org/wiki/OK_コンピューター)から翻訳されています。
 
 
-『**OK コンピューター**』は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")のスタジオ・[アルバム](../Page/アルバム.md "wikilink")。
+『**OK コンピューター**』は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[レディオヘッド](../Page/レディオヘッド.md "wikilink")のスタジオ・[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

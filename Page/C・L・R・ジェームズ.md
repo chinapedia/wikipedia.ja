@@ -1,4 +1,4 @@
-> この記事は[CLR](https://ja.wikipedia.org/wiki/CLR)から翻訳されています。
+> この記事は[C・L・R・ジェームズ](https://ja.wikipedia.org/wiki/C・L・R・ジェームズ)から翻訳されています。
 
 
 **シリル・ライオネル・ロバート・ジェームズ**（**Cyril Lionel Robert James**, [1901年](../Page/1901年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")）はアフリカ系[トリニダード人の](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink")[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、教師、[社会主義](../Page/社会主義.md "wikilink")[理論家](../Page/政治哲学.md "wikilink")、[作家](../Page/作家.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[12RIVEN -the climinal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_climinal_of_integral-)から翻訳されています。
+> この記事は[12RIVEN -the Ψcliminal of integral-](https://ja.wikipedia.org/wiki/12RIVEN_-the_Ψcliminal_of_integral-)から翻訳されています。
 
 
 『**12RIVEN -the Ψcliminal of integral-**』（トゥエルブリヴン・ザ・サイクリミナル・オブ・インテグラル）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")に[サイバーフロント](../Page/サイバーフロント.md "wikilink")より[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。略して『**12RIVEN**』『**12R**』と呼ばれる。

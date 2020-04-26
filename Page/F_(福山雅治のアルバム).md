@@ -1,4 +1,4 @@
-> この記事は[F \(\)](https://ja.wikipedia.org/wiki/F_\(\))から翻訳されています。
+> この記事は[F \(福山雅治のアルバム\)](https://ja.wikipedia.org/wiki/F_\(福山雅治のアルバム\))から翻訳されています。
 
 
 『**f**』（エフ）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")8枚目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発売された。制作はユニバーサル、発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、販売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -33,7 +33,7 @@
     （作詞・作曲：福山雅治 / 編曲：佐橋佳幸）
       -
         佐橋佳幸と[小倉博和](../Page/小倉博和.md "wikilink")によるギター・ユニット"[山弦](https://ja.wikipedia.org/wiki/山弦 "wikilink")"とのレコーディング・セッションによって生まれた楽曲。詳細は該当する項目を参照。
-5.  **[桜坂](../Page/桜坂_\(曲\).md "wikilink")**
+5.  **[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")**
     （作詞・作曲：福山雅治 / 編曲：富田素弘）
       -
         15thシングル。[TBS系](../Page/TBSテレビ.md "wikilink")『[ウンナンのホントコ\!](../Page/ウンナンのホントコ!.md "wikilink") “[未来日記V](../Page/未来日記_\(ウンナンのホントコ!\).md "wikilink")”』テーマソング。
@@ -72,7 +72,7 @@
         16thシングル「HEY\!」の[カップリング](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")。テレビ朝日系シドニーオリンピック放送イメージソング。
         [ハーモニカ](../Page/ハーモニカ.md "wikilink")・ソロは福山自身が吹いている\[9\]。
         出だしの[警音器の音がカットされているため厳密にはアルバムバージョンである](https://ja.wikipedia.org/wiki/警音器_\(自転車\) "wikilink")。
-13. **[春夏秋冬](../Page/桜坂_\(曲\).md "wikilink")**
+13. **[春夏秋冬](../Page/桜坂_\(福山雅治の曲\).md "wikilink")**
     （作詞・作曲：[泉谷しげる](../Page/泉谷しげる.md "wikilink")　編曲：[吉川忠英](../Page/吉川忠英.md "wikilink") / ストリングスアレンジ：井上鑑）
       -
         15thシングル「桜坂」初回盤に[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されていた曲。1972年に泉谷しげるが発表した「[春夏秋冬](https://ja.wikipedia.org/wiki/春夏秋冬_\(泉谷しげるの曲\) "wikilink")」の[カバー](../Page/カバー.md "wikilink")曲。

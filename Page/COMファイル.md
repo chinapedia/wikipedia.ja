@@ -1,4 +1,4 @@
-> この記事は[COM](https://ja.wikipedia.org/wiki/COM)から翻訳されています。
+> この記事は[COMファイル](https://ja.wikipedia.org/wiki/COMファイル)から翻訳されています。
 
 
 **COMファイル** (コムファイル、COM file) は、[実行可能ファイル](https://ja.wikipedia.org/wiki/実行可能ファイル "wikilink")形式の一つ。語源はcommand（[命令](../Page/命令_\(コンピュータ\).md "wikilink")）。[拡張子](../Page/拡張子.md "wikilink")は「.COM」（本来は[大文字](../Page/大文字.md "wikilink")）だが、[トップレベルドメイン](../Page/トップレベルドメイン.md "wikilink")の[.com](https://ja.wikipedia.org/wiki/.com "wikilink") ([commercial](../Page/商業.md "wikilink")) とは無関係。

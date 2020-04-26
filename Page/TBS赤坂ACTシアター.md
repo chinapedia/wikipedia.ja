@@ -1,4 +1,4 @@
-> この記事は[TBSACT](https://ja.wikipedia.org/wiki/TBSACT)から翻訳されています。
+> この記事は[TBS赤坂ACTシアター](https://ja.wikipedia.org/wiki/TBS赤坂ACTシアター)から翻訳されています。
 
 
 **TBS赤坂ACTシアター**（ティービーエスあかさかあくとシアター、）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")・[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内にある劇場である。座席数1,324席。赤坂ミュージカル劇場、赤坂ACTシアターを経て、現在の劇場名となった。

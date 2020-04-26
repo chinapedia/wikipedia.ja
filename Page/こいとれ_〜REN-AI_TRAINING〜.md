@@ -1,4 +1,4 @@
-> この記事は[ REN-AI TRAINING](https://ja.wikipedia.org/wiki/_REN-AI_TRAINING)から翻訳されています。
+> この記事は[こいとれ 〜REN-AI TRAINING〜](https://ja.wikipedia.org/wiki/こいとれ_〜REN-AI_TRAINING〜)から翻訳されています。
 
 
 『**こいとれ 〜REN-AI TRAINING〜**』（こいとれ れんあい とれーにんぐ）は、[銀時計から](https://ja.wikipedia.org/wiki/銀時計_\(ブランド\) "wikilink")[2007年](../Page/2007年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。

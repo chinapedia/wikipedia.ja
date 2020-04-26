@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ミュータントX](https://ja.wikipedia.org/wiki/ミュータントX)から翻訳されています。
 
 
 『**ミュータントX**』 (Mutant X) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。『[X-MEN](../Page/X-メン.md "wikilink")』の[マーベルコミックス](https://ja.wikipedia.org/wiki/マーベルコミックス "wikilink")公認のSFアクションであり、[2001年](../Page/2001年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")まで放送された。

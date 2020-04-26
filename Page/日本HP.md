@@ -1,4 +1,4 @@
-> この記事は[HP](https://ja.wikipedia.org/wiki/HP)から翻訳されています。
+> この記事は[日本HP](https://ja.wikipedia.org/wiki/日本HP)から翻訳されています。
 
 
 **株式会社 日本HP**（にほんエイチピー）は、[PCと](https://ja.wikipedia.org/wiki/パーソナル・コンピュータ "wikilink")[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")等の製造・販売を主とする日本のコンピュータ関連企業。
@@ -44,6 +44,8 @@ COMPAQの日本法人から引き継いだ[直販サイト・Directplus](http://
   - Sprout（法人向けイマーシブ）
 
 ### PC（パーソナル・コンピュータ）
+
+[HP_ProDesk_600.jpg](https://ja.wikipedia.org/wiki/File:HP_ProDesk_600.jpg "fig:HP_ProDesk_600.jpg")
 
   - デスクトップPC
       - ENVY☆

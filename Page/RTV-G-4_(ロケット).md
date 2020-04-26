@@ -1,4 +1,4 @@
-> この記事は[RTV-G-4 \(\)](https://ja.wikipedia.org/wiki/RTV-G-4_\(\))から翻訳されています。
+> この記事は[RTV-G-4 \(ロケット\)](https://ja.wikipedia.org/wiki/RTV-G-4_\(ロケット\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Bumper.jpg "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")）\]\] **RTV-G-4 バンパー**（Bumper）、別名**パンパーWAC**は、高高度の大気データを収集するために[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")によって使用された[気象観測用ロケットである](../Page/観測ロケット.md "wikilink")。バンパーは初期の[多段式ロケット](https://ja.wikipedia.org/wiki/多段式ロケット "wikilink")のうちの1つであった。第1段に使われたのは、捕獲した[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[V2ロケット](../Page/V2ロケット.md "wikilink")であり、第2段はアメリカで設計された[WACコーポラル](https://ja.wikipedia.org/wiki/WACコーポラル "wikilink")であった。

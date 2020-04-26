@@ -1,4 +1,4 @@
-> この記事は[RMI](https://ja.wikipedia.org/wiki/RMI)から翻訳されています。
+> この記事は[RMIエレクトラピアノ](https://ja.wikipedia.org/wiki/RMIエレクトラピアノ)から翻訳されています。
 
 
 **RMIエレクトラピアノ** (**RMI Electra-piano and Harpsichord**) は、[エレクトロニックピアノ](https://ja.wikipedia.org/wiki/エレクトロニックピアノ "wikilink")（電子ピアノ）の一種である。

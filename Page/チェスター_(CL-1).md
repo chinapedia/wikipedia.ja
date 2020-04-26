@@ -1,4 +1,4 @@
-> この記事は[ \(CL-1\)](https://ja.wikipedia.org/wiki/_\(CL-1\))から翻訳されています。
+> この記事は[チェスター \(CL-1\)](https://ja.wikipedia.org/wiki/チェスター_\(CL-1\))から翻訳されています。
 
 
 <div class="thumb tright">

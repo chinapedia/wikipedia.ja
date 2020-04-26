@@ -1,4 +1,4 @@
-> この記事は[Debian](https://ja.wikipedia.org/wiki/Debian)から翻訳されています。
+> この記事は[Debianフリーソフトウェアガイドライン](https://ja.wikipedia.org/wiki/Debianフリーソフトウェアガイドライン)から翻訳されています。
 
 
 **Debianフリーソフトウェアガイドライン** (*Debian Free Software Guideline*、**DFSG**) は、ソフトウェアライセンスが、[Debian](../Page/Debian.md "wikilink")の一部として含めることが可能な[フリーソフトウェアライセンス](https://ja.wikipedia.org/wiki/フリーソフトウェアライセンス "wikilink")であるかどうか判定するためにDebianプロジェクトが使用しているガイドラインの集合である。DFSGは[Debian社会契約](https://ja.wikipedia.org/wiki/Debian社会契約 "wikilink")の一部である。

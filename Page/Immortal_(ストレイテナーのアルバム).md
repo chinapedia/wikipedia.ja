@@ -1,4 +1,4 @@
-> この記事は[Immortal \(\)](https://ja.wikipedia.org/wiki/Immortal_\(\))から翻訳されています。
+> この記事は[Immortal \(ストレイテナーのアルバム\)](https://ja.wikipedia.org/wiki/Immortal_\(ストレイテナーのアルバム\))から翻訳されています。
 
 
 『**Immortal**』（イモータル）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")の2枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。発売元は[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[DR](https://ja.wikipedia.org/wiki/DR)から翻訳されています。
+> この記事は[DR放送交響楽団](https://ja.wikipedia.org/wiki/DR放送交響楽団)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:DR_Byen_Concert_hall_Interior_20130223.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Copenhagen_Concert_Hall_by_night.jpg "wikilink")

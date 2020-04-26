@@ -1,4 +1,4 @@
-> この記事は[AKB48 ](https://ja.wikipedia.org/wiki/AKB48_)から翻訳されています。
+> この記事は[AKB48 明日までもうちょっと。](https://ja.wikipedia.org/wiki/AKB48_明日までもうちょっと。)から翻訳されています。
 
 
 **AKB48 明日までもうちょっと。**（エーケービーフォーティエイト あすまでもうちょっと）は、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（出演メンバーは週替わり）と[K太郎が](../Page/砂山圭大郎.md "wikilink")[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[レコメン\!](../Page/レコメン!.md "wikilink")』内の[フロート番組](../Page/フロート番組.md "wikilink")で、毎週[月曜日](../Page/月曜日.md "wikilink")23:35 - 23:50[JST](../Page/日本標準時.md "wikilink")。他6局で放送。[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始、[2012年](../Page/2012年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")終了。略称「あすもちょ」。
@@ -2037,9 +2037,9 @@
 
 ### 2009年10月から放送のラジオ局
 
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBC）：日曜日21:30 - 22:00（2011年4月からは[うっかりチャンネル](https://ja.wikipedia.org/wiki/うっかりチャンネル "wikilink")を放送するために休止）\[5\]
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）：日曜日21:30 - 22:00（2011年4月からは[うっかりチャンネル](https://ja.wikipedia.org/wiki/うっかりチャンネル "wikilink")を放送するために休止）\[5\]
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBS）： 月曜日21:00 - 21:30（2010年度は水曜日の同時間に放送）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRY）： 日曜日21:30 - 22:00
+  - [山口放送](../Page/山口放送.md "wikilink")（KRY）： 日曜日21:30 - 22:00
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）： 日曜日21:30 - 22:00
 
 ### 2010年10月から放送のラジオ局
@@ -2050,7 +2050,7 @@
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）：土曜日20:00 - 20:30
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（RSK）：日曜日21:30 - 22:00
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKC）：月曜日23:30 - 24:00 ※2007年10月 - 2008年3月までは、土曜日21:30 - 22:00に放送。
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）：日曜日21:30 - 22:00
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")（WBS）：日曜日21:30 - 22:00
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）：土曜日22:30 - 23:00
 
 ちなみに2011年のナイターオフシーズンは地方局には全てネットしていない。

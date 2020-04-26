@@ -1,4 +1,4 @@
-> この記事は[AA-1](https://ja.wikipedia.org/wiki/AA-1)から翻訳されています。
+> この記事は[AA-1級潜水艦](https://ja.wikipedia.org/wiki/AA-1級潜水艦)から翻訳されています。
 
 
 | AA-1級潜水艦                                                                      |

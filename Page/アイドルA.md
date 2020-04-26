@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[アイドルA](https://ja.wikipedia.org/wiki/アイドルA)から翻訳されています。
 
 
 『**アイドルA**』（アイドルエース）は、[あだち充](../Page/あだち充.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")」で不定期連載されていた。その後、「[ゲッサン](https://ja.wikipedia.org/wiki/ゲッサン "wikilink")」2010年11月号にて、あだち充画業40周年突破記念号として第5話が掲載され、以後も不定期連載されている。

@@ -1,4 +1,4 @@
-> この記事は[Evergreen \(MY LITTLE LOVER\)](https://ja.wikipedia.org/wiki/Evergreen_\(MY_LITTLE_LOVER\))から翻訳されています。
+> この記事は[Evergreen \(MY LITTLE LOVERのアルバム\)](https://ja.wikipedia.org/wiki/Evergreen_\(MY_LITTLE_LOVERのアルバム\))から翻訳されています。
 
 
 『**evergreen**』（エヴァー・グリーン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")1枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

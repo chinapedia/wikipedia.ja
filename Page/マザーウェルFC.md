@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マザーウェルFC](https://ja.wikipedia.org/wiki/マザーウェルFC)から翻訳されています。
 
 
 **マザーウェルFC**（）は、[スコットランド](../Page/スコットランド.md "wikilink")中部の都市[マザーウェル](https://ja.wikipedia.org/wiki/マザーウェル "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[スコティッシュ・プレミアシップ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")に所属している。マザーウェルがスコットランドを代表する[鉄鋼](https://ja.wikipedia.org/wiki/鉄鋼 "wikilink")の生産地であることから「Steelmen」(鉄の男)の愛称がある。

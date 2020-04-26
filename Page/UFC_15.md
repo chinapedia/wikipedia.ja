@@ -50,8 +50,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-15-Collision-Course)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc15.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc15.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-15-Collision-Course-23)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのミシシッピ州大会](https://ja.wikipedia.org/wiki/Category:UFCのミシシッピ州大会 "wikilink") [Category:1997年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1997年の総合格闘技 "wikilink") [Category:1997年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1997年のアメリカ合衆国のスポーツ "wikilink") [Category:ハンコック郡_(ミシシッピ州)](https://ja.wikipedia.org/wiki/Category:ハンコック郡_\(ミシシッピ州\) "wikilink") [Category:1997年10月](https://ja.wikipedia.org/wiki/Category:1997年10月 "wikilink")

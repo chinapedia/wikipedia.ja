@@ -1,4 +1,4 @@
-> この記事は[NWA\&NEO](https://ja.wikipedia.org/wiki/NWA\&NEO)から翻訳されています。
+> この記事は[NWA女子パシフィック王座\&NEO認定シングル王座](https://ja.wikipedia.org/wiki/NWA女子パシフィック王座\&NEO認定シングル王座)から翻訳されています。
 
 
 **NWA女子パシフィック王座\&NEO認定シングル王座**（エヌ・ダブリュー・エーじょしパシフィックおうざ・アンド・エヌ・イー・オーにんていシングルおうざ）は、[NEO女子プロレス](../Page/NEO女子プロレス.md "wikilink")が管理、認定する[フラッグシップタイトル](../Page/チャンピオンベルト.md "wikilink")。

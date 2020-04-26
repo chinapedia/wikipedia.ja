@@ -1,4 +1,4 @@
-> この記事は[JOC](https://ja.wikipedia.org/wiki/JOC)から翻訳されています。
+> この記事は[JOCスポーツ賞](https://ja.wikipedia.org/wiki/JOCスポーツ賞)から翻訳されています。
 
 
 **JOCスポーツ賞**は、[日本オリンピック委員会](../Page/日本オリンピック委員会.md "wikilink")（略称：JOC）が制定する賞。「年度賞」、「特別貢献賞」、「トップアスリートサポート賞」、「JOCオーダー」の4つからなる。

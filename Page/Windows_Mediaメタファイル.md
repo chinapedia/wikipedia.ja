@@ -1,4 +1,4 @@
-> この記事は[Windows Media](https://ja.wikipedia.org/wiki/Windows_Media)から翻訳されています。
+> この記事は[Windows Mediaメタファイル](https://ja.wikipedia.org/wiki/Windows_Mediaメタファイル)から翻訳されています。
 
 
 **Windows Mediaメタファイル** (Windows Media Metafile) は、[Windows Media Player](../Page/Windows_Media_Player.md "wikilink") (WMP) 用の[ストリーミング](../Page/ストリーミング.md "wikilink")・[メディア](../Page/メディア.md "wikilink")・[メタファイル](../Page/メタファイル.md "wikilink")。

@@ -55,8 +55,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-13-The-Ultimate-Force)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc13.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc13.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-13-The-Ultimate-Force-21)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのジョージア州大会](https://ja.wikipedia.org/wiki/Category:UFCのジョージア州大会 "wikilink") [Category:1997年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1997年の総合格闘技 "wikilink") [Category:1997年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1997年のアメリカ合衆国のスポーツ "wikilink") [Category:オーガスタ_(ジョージア州)](https://ja.wikipedia.org/wiki/Category:オーガスタ_\(ジョージア州\) "wikilink") [Category:1997年5月](https://ja.wikipedia.org/wiki/Category:1997年5月 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[OMO7 ](https://ja.wikipedia.org/wiki/OMO7_)から翻訳されています。
+> この記事は[OMO7 旭川](https://ja.wikipedia.org/wiki/OMO7_旭川)から翻訳されています。
 
 
 **OMO7 旭川**（オモセブン あさひかわ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[旭川市](../Page/旭川市.md "wikilink")にある[ホテル](../Page/ホテル.md "wikilink")。

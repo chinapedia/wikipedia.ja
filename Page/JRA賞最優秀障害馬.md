@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞最優秀障害馬](https://ja.wikipedia.org/wiki/JRA賞最優秀障害馬)から翻訳されています。
 
 
 **JRA賞最優秀障害馬**（ジェイアールエーしょう さいゆうしゅう しょうがいば）とは、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門のひとつである。該当年度中に[障害競走](../Page/障害競走.md "wikilink")で活躍した競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。

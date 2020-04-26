@@ -1,4 +1,4 @@
-> この記事は[Live tour 2003 I hope so](https://ja.wikipedia.org/wiki/Live_tour_2003_I_hope_so)から翻訳されています。
+> この記事は[Live tour 2003 〜I hope so〜](https://ja.wikipedia.org/wiki/Live_tour_2003_〜I_hope_so〜)から翻訳されています。
 
 
 『**Live tour 2003 〜I hope so〜**』（ライブ・ツアー 2003 アイ・ホープ・ソー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のライブ・ビデオ。この映像作品は2003年12月17日に[ユニバーサルJからリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") ([DVD](../Page/DVD.md "wikilink"): UMBK-1073)。
@@ -80,7 +80,7 @@
 ## 外部リンク
 
   -
-[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:2003年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2003年の音楽関連の映像作品 "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:2003年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2003年のライブ・ビデオ "wikilink") [Category:2003年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2003年のコンサート・ツアー "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink")
 
 1.
 2.

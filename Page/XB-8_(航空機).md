@@ -1,4 +1,4 @@
-> この記事は[XB-8 \(\)](https://ja.wikipedia.org/wiki/XB-8_\(\))から翻訳されています。
+> この記事は[XB-8 \(航空機\)](https://ja.wikipedia.org/wiki/XB-8_\(航空機\))から翻訳されています。
 
 
 [Atlantic_XB-8.jpg](https://ja.wikipedia.org/wiki/File:Atlantic_XB-8.jpg "fig:Atlantic_XB-8.jpg") **フォッカー XB-8**（*Fokker XB-8*）は、[1920年代](../Page/1920年代.md "wikilink")末に[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")向けに[フォッカー](../Page/フォッカー.md "wikilink")（アメリカ法人）が製造した[爆撃機](../Page/爆撃機.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Gang](https://ja.wikipedia.org/wiki/Gang)から翻訳されています。
+> この記事は[Gang★](https://ja.wikipedia.org/wiki/Gang★)から翻訳されています。
 
 
 『**Gang<sup>★</sup>**』（ギャング）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")17枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に発売された。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、販売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -20,7 +20,7 @@
       -
         [WOWOW](../Page/WOWOW.md "wikilink") スプリングキャンペーンソング
         「[Peach\!\!](https://ja.wikipedia.org/wiki/Peach!!/Heart_of_Xmas "wikilink")」、「[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN/Squall "wikilink")」、「Gang<sup>★</sup>」からなる“依存症3部作”。
-        製作期間はおよそ1年2ヶ月であったが、メロディーは30分ほどで作られた。ロサンゼルスで「[桜坂](../Page/桜坂_\(曲\).md "wikilink")」などを制作しているときに、気分転換で生まれた曲であるという。
+        製作期間はおよそ1年2ヶ月であったが、メロディーは30分ほどで作られた。ロサンゼルスで「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」などを制作しているときに、気分転換で生まれた曲であるという。
         “ハード・コア”、“サディスティック”などエロティックな言葉が曲中にちりばめられている。また、[サビ](../Page/サビ.md "wikilink")の歌詞にある“愛をちょうだい”の部分は、中学で[吹奏楽](../Page/吹奏楽.md "wikilink")部に所属している頃の顧問の先生が、指揮をとっているときに、盛り上がってくると手を伸ばして「もっとちょうだ～い」と言っていたことを思い出して書かれたという。
         [Music Clipには](../Page/ミュージック・ビデオ.md "wikilink")[加藤晴彦](../Page/加藤晴彦.md "wikilink")と[吉岡美穂](../Page/吉岡美穂.md "wikilink")が出演しており、ベスト・アルバム『[THE BEST BANG\!\!](https://ja.wikipedia.org/wiki/THE_BEST_BANG!! "wikilink")』初回限定盤付属の[DVD](../Page/DVD.md "wikilink")に収録されている。
         2009年3月23日の[WBC準決勝](../Page/2009_ワールド・ベースボール・クラシック.md "wikilink")[日本](https://ja.wikipedia.org/wiki/2009_ワールド・ベースボール・クラシック日本代表 "wikilink") - [アメリカ戦では](https://ja.wikipedia.org/wiki/2009_ワールド・ベースボール・クラシック・アメリカ合衆国代表 "wikilink")、日本側ベンチの[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")として使用されていた。

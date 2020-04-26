@@ -1,4 +1,4 @@
-> この記事は[king](https://ja.wikipedia.org/wiki/king)から翻訳されています。
+> この記事は[めい・king](https://ja.wikipedia.org/wiki/めい・king)から翻訳されています。
 
 
 『**めい・king**』（めい きんぐ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月3日](../Page/7月3日.md "wikilink")に[にくきゅう](../Page/にくきゅう.md "wikilink")から発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。

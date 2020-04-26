@@ -41,7 +41,7 @@
 ### スタッフ
 
   - 監督：[川野浩司](../Page/川野浩司.md "wikilink")
-  - プロデューサー：[中林千賀子](../Page/中林千賀子.md "wikilink")、三宅はるえ
+  - プロデューサー：[中林千賀子](../Page/中林千賀子.md "wikilink")、[三宅はるえ](../Page/三宅はるえ.md "wikilink")
   - 原作：[やまじえびね](https://ja.wikipedia.org/wiki/やまじえびね "wikilink")「LOVE MY LIFE」（[祥伝社](../Page/祥伝社.md "wikilink")）
   - 脚本：[金杉弘子](https://ja.wikipedia.org/wiki/金杉弘子 "wikilink")
   - 撮影：福本淳

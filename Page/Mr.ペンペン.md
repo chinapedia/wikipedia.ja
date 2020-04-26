@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.ペンペン](https://ja.wikipedia.org/wiki/Mr.ペンペン)から翻訳されています。
 
 
 『**Mr.ペンペン**』（ミスターペンペン）は、[室山まゆみ](../Page/室山まゆみ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[小学館の学年別学習雑誌](../Page/小学館の学年別学習雑誌.md "wikilink")にて連載されていた。後に『**ペンギンぱあてぃー**』の題でリメイクされ、『[ちゃおデラックス](../Page/ちゃおデラックス.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて連載されていた。

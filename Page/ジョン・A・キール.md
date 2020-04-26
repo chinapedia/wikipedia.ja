@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ジョン・A・キール](https://ja.wikipedia.org/wiki/ジョン・A・キール)から翻訳されています。
 
 
 **ジョン・A・キール**（**John A. Keel**、[1930年](../Page/1930年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [2009年](../Page/2009年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[作家](../Page/作家.md "wikilink")、[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[未確認飛行物体](../Page/未確認飛行物体.md "wikilink")および[超常現象](../Page/超常現象.md "wikilink")の研究家。[モスマン](../Page/モスマン.md "wikilink")に関するレポートで知られる。

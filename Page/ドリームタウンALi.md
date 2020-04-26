@@ -1,4 +1,4 @@
-> この記事は[ALi](https://ja.wikipedia.org/wiki/ALi)から翻訳されています。
+> この記事は[ドリームタウンALi](https://ja.wikipedia.org/wiki/ドリームタウンALi)から翻訳されています。
 
 
 **ドリームタウンALi**（ドリームタウンアリー）は[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")浜田にある複合型[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。

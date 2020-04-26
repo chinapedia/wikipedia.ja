@@ -1,4 +1,4 @@
-> この記事は[ECO \(\)](https://ja.wikipedia.org/wiki/ECO_\(\))から翻訳されています。
+> この記事は[ECO \(チェス\)](https://ja.wikipedia.org/wiki/ECO_\(チェス\))から翻訳されています。
 
 
 **ECO** (Encyclopaedia of Chess Openings) とは、[チェス](../Page/チェス.md "wikilink")の序盤[定跡](https://ja.wikipedia.org/wiki/定跡 "wikilink")の[事典](https://ja.wikipedia.org/wiki/事典 "wikilink")、およびその事典による定跡の分類体系のことである。書籍は、A～Eまでの5分冊で[セルビア](../Page/セルビア.md "wikilink")の[ベオグラード](../Page/ベオグラード.md "wikilink")にある会社、*Šahovski informator* (Chess Informant) により出版されている。この書籍の特徴は、棋譜の解説に一切[言語](../Page/言語.md "wikilink")を使わず全てを記号で表現していることである。CD-ROM版でも発行されている。類似の書籍に*Modern Chess Openings*や*Nunn's Chess Openings*がある。こちらは、[英語](../Page/英語.md "wikilink")で書かれており1冊になっている。

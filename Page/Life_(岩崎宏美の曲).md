@@ -1,4 +1,4 @@
-> この記事は[Life \(\)](https://ja.wikipedia.org/wiki/Life_\(\))から翻訳されています。
+> この記事は[Life \(岩崎宏美の曲\)](https://ja.wikipedia.org/wiki/Life_\(岩崎宏美の曲\))から翻訳されています。
 
 
 「**Life**」（ライフ）は、[1993年](../Page/1993年.md "wikilink")7月にリリースされた[益田（岩崎）宏美の](../Page/岩崎宏美.md "wikilink")49枚目のシングルである。規格品番VIDL-10372

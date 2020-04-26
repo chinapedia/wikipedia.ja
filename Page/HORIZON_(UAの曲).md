@@ -1,4 +1,4 @@
-> この記事は[HORIZON \(UA\)](https://ja.wikipedia.org/wiki/HORIZON_\(UA\))から翻訳されています。
+> この記事は[HORIZON \(UAの曲\)](https://ja.wikipedia.org/wiki/HORIZON_\(UAの曲\))から翻訳されています。
 
 
 「**HORIZON**」（ホライゾン\[1\]）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に歌手の[UAがリリースしたデビュー作となったシングル](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")。

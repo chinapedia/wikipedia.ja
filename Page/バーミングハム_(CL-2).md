@@ -1,4 +1,4 @@
-> この記事は[ \(CL-2\)](https://ja.wikipedia.org/wiki/_\(CL-2\))から翻訳されています。
+> この記事は[バーミングハム \(CL-2\)](https://ja.wikipedia.org/wiki/バーミングハム_\(CL-2\))から翻訳されています。
 
 
 <div class="thumb tright">

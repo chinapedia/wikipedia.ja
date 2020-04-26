@@ -1,4 +1,4 @@
-> この記事は[Pacific \(NEWS\)](https://ja.wikipedia.org/wiki/Pacific_\(NEWS\))から翻訳されています。
+> この記事は[Pacific \(NEWSのアルバム\)](https://ja.wikipedia.org/wiki/Pacific_\(NEWSのアルバム\))から翻訳されています。
 
 
 『**pacific**』（パシフィック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")である。

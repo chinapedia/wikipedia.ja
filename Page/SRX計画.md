@@ -1,4 +1,4 @@
-> この記事は[SRX](https://ja.wikipedia.org/wiki/SRX)から翻訳されています。
+> この記事は[SRX計画](https://ja.wikipedia.org/wiki/SRX計画)から翻訳されています。
 
 
 **SRX計画**（SRXけいかく、\[1\]）とは、『[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")』に登場する架空の機動兵器開発計画である。

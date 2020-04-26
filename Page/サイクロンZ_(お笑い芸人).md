@@ -1,4 +1,4 @@
-> この記事は[Z \(\)](https://ja.wikipedia.org/wiki/Z_\(\))から翻訳されています。
+> この記事は[サイクロンZ \(お笑い芸人\)](https://ja.wikipedia.org/wiki/サイクロンZ_\(お笑い芸人\))から翻訳されています。
 
 
 **サイクロンZ**（[1977年](../Page/1977年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ） は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ピン芸人](../Page/ピン芸人.md "wikilink")である。本名、**石塚 秀俊**。

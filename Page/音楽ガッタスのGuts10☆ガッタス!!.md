@@ -1,4 +1,4 @@
-> この記事は[Guts10!!](https://ja.wikipedia.org/wiki/Guts10!!)から翻訳されています。
+> この記事は[音楽ガッタスのGuts10☆ガッタス!!](https://ja.wikipedia.org/wiki/音楽ガッタスのGuts10☆ガッタス!!)から翻訳されています。
 
 
 '''音楽ガッタスのGuts10☆ガッタス\!\! '''は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")[チーム](../Page/チーム.md "wikilink")「[Gatas Brilhantes H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")」メンバーで構成される[ユニット](../Page/ユニット.md "wikilink")「[音楽ガッタス](../Page/音楽ガッタス.md "wikilink")」が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[CBCラジオ](../Page/CBCラジオ.md "wikilink")で[ハイパーナイト](../Page/ハイパーナイト.md "wikilink")枠の月曜2部24:00～25:00に放送（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送回より）。番組開始は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")。[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")と他の音楽ガッタスメンバー1名（週代わり）の2名で放送していた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送回までは月曜1部23:30～24:00の放送だった。 [2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")をもって放送終了。

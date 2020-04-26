@@ -1,4 +1,4 @@
-> この記事は[RV.242](https://ja.wikipedia.org/wiki/RV.242)から翻訳されています。
+> この記事は[ヴァイオリン協奏曲RV.242](https://ja.wikipedia.org/wiki/ヴァイオリン協奏曲RV.242)から翻訳されています。
 
 
 **ヴァイオリン協奏曲[ニ短調](https://ja.wikipedia.org/wiki/ニ短調 "wikilink")**『**[ピゼンデル氏のために](../Page/ヨハン・ゲオルク・ピゼンデル.md "wikilink")**』（）[作品](../Page/作品番号.md "wikilink")8-7、[RV.242は](https://ja.wikipedia.org/wiki/RV番号 "wikilink")、[アントニオ・ヴィヴァルディ](../Page/アントニオ・ヴィヴァルディ.md "wikilink")が[作曲](../Page/作曲.md "wikilink")した[ヴァイオリン協奏曲](../Page/ヴァイオリン協奏曲.md "wikilink")集『[和声と創意への試み](https://ja.wikipedia.org/wiki/和声と創意の試み "wikilink")』作品8の一曲である。

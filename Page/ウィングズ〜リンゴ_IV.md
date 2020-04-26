@@ -1,4 +1,4 @@
-> この記事は[ IV](https://ja.wikipedia.org/wiki/_IV)から翻訳されています。
+> この記事は[ウィングズ〜リンゴ IV](https://ja.wikipedia.org/wiki/ウィングズ〜リンゴ_IV)から翻訳されています。
 
 
 **ウィングズ〜リンゴ IV**(**Ringo The 4th**)は、1977年に発表された[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")のアルバム。

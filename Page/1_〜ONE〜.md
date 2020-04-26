@@ -1,4 +1,4 @@
-> この記事は[1 ONE](https://ja.wikipedia.org/wiki/1_ONE)から翻訳されています。
+> この記事は[1 〜ONE〜](https://ja.wikipedia.org/wiki/1_〜ONE〜)から翻訳されています。
 
 
 『**1 〜ONE〜**』（ワン）は、[ゆずの通算](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")6作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。2004年9月15日発売。発売元は[セーニャ・アンド・カンパニー](../Page/セーニャ・アンド・カンパニー.md "wikilink")。

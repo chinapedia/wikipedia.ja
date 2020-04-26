@@ -1,4 +1,4 @@
-> この記事は[de](https://ja.wikipedia.org/wiki/de)から翻訳されています。
+> この記事は[らいぶdeキッチン](https://ja.wikipedia.org/wiki/らいぶdeキッチン)から翻訳されています。
 
 
 『**らいぶdeキッチン**』は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ハピふる\!](../Page/ハピふる!.md "wikilink")』の11時台枠の料理コーナー。

@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[ITガバナンス](https://ja.wikipedia.org/wiki/ITガバナンス)から翻訳されています。
 
 
 **ITガバナンス**（）は[ITへの](../Page/情報技術.md "wikilink")[投資](../Page/投資.md "wikilink")・効果・[リスク](../Page/リスク.md "wikilink")を継続的に最適化する為の組織的な仕組みのこと。[コーポレート・ガバナンス](../Page/コーポレート・ガバナンス.md "wikilink")から派生した概念で、[2002年](../Page/2002年.md "wikilink")4月に起きた[みずほ銀行](../Page/みずほ銀行.md "wikilink")のシステム統合における障害発生を皮切りに声高に叫ばれるようになった\[1\]。

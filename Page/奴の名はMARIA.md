@@ -1,4 +1,4 @@
-> この記事は[MARIA](https://ja.wikipedia.org/wiki/MARIA)から翻訳されています。
+> この記事は[奴の名はMARIA](https://ja.wikipedia.org/wiki/奴の名はMARIA)から翻訳されています。
 
 
 **奴の名はMARIA**（やつのなはまりあ）は、[道元むねのりによる](../Page/道元宗紀.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

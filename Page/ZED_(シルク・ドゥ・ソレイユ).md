@@ -1,4 +1,4 @@
-> この記事は[ZED \(\)](https://ja.wikipedia.org/wiki/ZED_\(\))から翻訳されています。
+> この記事は[ZED \(シルク・ドゥ・ソレイユ\)](https://ja.wikipedia.org/wiki/ZED_\(シルク・ドゥ・ソレイユ\))から翻訳されています。
 
 
 **ZED**（ゼッド）とは、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[10月1日](../Page/10月1日.md "wikilink")より[2011年](../Page/2011年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")まで、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](../Page/舞浜.md "wikilink")の[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")（TDR）内に存在していた[シルク・ドゥ・ソレイユ](../Page/シルク・ドゥ・ソレイユ.md "wikilink")専用劇場「シルク・ドゥ・ソレイユ シアター東京」（現在の[舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")）で行われていたレジデント・ショー（常設公演）のこと。

@@ -53,7 +53,7 @@
 
 ### 2011年3月中・下旬（シーズン4）の特別態勢
 
-[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）が発生した2011年3月11日放送分は、当日出演予定だった[初田啓介](../Page/初田啓介.md "wikilink")に代わり番組OBの[安東弘樹](../Page/安東弘樹.md "wikilink")が担当した。当日の初田は[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのプロ野球オープン戦「[横浜vs](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink").[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の取材中の大地震に遭い、番組の開始時間までに東京・赤坂のTBSに戻ることができなかったという（18日の放送で初田本人が発言）。TBSラジオ向けに安東が震災に伴う非常放送を実施していたのに対し、20時台のネット局（少なくとも[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")を除く）は初田が出演した通常内容の録音放送だった。
+[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）が発生した2011年3月11日放送分は、当日出演予定だった[初田啓介](../Page/初田啓介.md "wikilink")に代わり番組OBの[安東弘樹](../Page/安東弘樹.md "wikilink")が担当した。当日の初田は[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのプロ野球オープン戦「[横浜vs](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink").[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の取材中の大地震に遭い、番組の開始時間までに東京・赤坂のTBSに戻ることができなかったという（18日の放送で初田本人が発言）。TBSラジオ向けに安東が震災に伴う非常放送を実施していたのに対し、20時台のネット局（少なくとも[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")を除く）は初田が出演した通常内容の録音放送だった。
 
 緊急事態を受けて20時台の「カキーンレジェンド」は当初アナウンサーのみの進行の予定だったが、「声だけでも被災地の方々に届けたい」という[槇原敬之](../Page/槇原敬之.md "wikilink")の意向で16日以降は通常態勢となる（ただし各コーナーは18日まで全て自粛）。また、しばらくの間はニュースの時間を増やして各種情報を提供したほか、TBSラジオの送信所がある[埼玉県](../Page/埼玉県.md "wikilink")[戸田市](../Page/戸田市.md "wikilink")がいわゆる「計画停電」の対象地域だったため、送信所の電源切り替えの告知が放送されることもあった。
 
@@ -67,7 +67,7 @@
   - 松尾雄治のノーサイドトーク…3月10日放送分をもって事実上打ち切り。以降火～金曜日の『Kakiiin』は17時50分スタート。
   - [エンタマン](https://ja.wikipedia.org/wiki/エンタマン "wikilink")…3月11日以降放送休止。その後の番組再開後はパーソナリティを交代した上で日曜日夜21時からの30分番組に変更。以降火～金曜日の『Kakiiin』は22時までの放送となった。
 
-ネット局の対応としては、大地震で甚大な被害を受けた地域にある[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")は『Kakiiin』をネットせずに報道特別番組を編成する日があった（ただし4月1日のシーズン4最終回は両局ともにネット）。[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")は3月15日の放送分について21時30分までネットした。また、大地震でプロ野球の開幕が4月12日に延期になったことで、本来は残り数回を残してネットを打ち切る[中部日本放送](../Page/CBCラジオ.md "wikilink")・[中国放送](../Page/中国放送.md "wikilink")は4月1日のシーズン4最終回までネットした。
+ネット局の対応としては、大地震で甚大な被害を受けた地域にある[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")は『Kakiiin』をネットせずに報道特別番組を編成する日があった（ただし4月1日のシーズン4最終回は両局ともにネット）。[信越放送](../Page/信越放送.md "wikilink")は3月15日の放送分について21時30分までネットした。また、大地震でプロ野球の開幕が4月12日に延期になったことで、本来は残り数回を残してネットを打ち切る[中部日本放送](../Page/CBCラジオ.md "wikilink")・[中国放送](../Page/中国放送.md "wikilink")は4月1日のシーズン4最終回までネットした。
 
 ## 放送時間
 
@@ -477,7 +477,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -557,7 +557,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>(SBC)</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a>(SBC)</p></td>
 <td><p>※1</p></td>
 <td><p>※2</p></td>
 <td><p>○</p></td>
@@ -606,7 +606,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>(KRY)</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>(KRY)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>

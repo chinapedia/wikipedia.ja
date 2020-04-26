@@ -1,4 +1,4 @@
-> この記事は[COLONY \(UA\)](https://ja.wikipedia.org/wiki/COLONY_\(UA\))から翻訳されています。
+> この記事は[COLONY \(UAの曲\)](https://ja.wikipedia.org/wiki/COLONY_\(UAの曲\))から翻訳されています。
 
 
 「**COLONY**」（コロニー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に[歌手](../Page/歌手.md "wikilink")の[UAが](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[E \(\)](https://ja.wikipedia.org/wiki/E_\(\))から翻訳されています。
+> この記事は[ジェイムズ・E・ガン \(小説家\)](https://ja.wikipedia.org/wiki/ジェイムズ・E・ガン_\(小説家\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:James_Gunn_writer.jpg "wikilink") **ジェイムズ・エドウィン・ガン**（James Edwin Gunn、[1923年](../Page/1923年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")、編集者 、文学研究家 である。[ミズーリ州](../Page/ミズーリ州.md "wikilink")[カンザス・シティ出身](../Page/カンザスシティ_\(ミズーリ州\).md "wikilink")。彼の作品では、[1960年代](../Page/1960年代.md "wikilink")と[1970年代](../Page/1970年代.md "wikilink")のものが代表作と見なされている。また彼の編纂した選集"Road to Science Fiction"は、学術面での代表作だと見なされている。

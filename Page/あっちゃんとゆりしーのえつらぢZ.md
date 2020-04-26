@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[あっちゃんとゆりしーのえつらぢZ](https://ja.wikipedia.org/wiki/あっちゃんとゆりしーのえつらぢZ)から翻訳されています。
 
 
 **あっちゃんとゆりしーのE☆2(えつ)らぢZ**は、[文化放送](../Page/文化放送.md "wikilink")、及び[音泉](../Page/音泉.md "wikilink")で放送されていたラジオ番組で、[メディエイションが展開する美少女コンテンツ雑誌](https://ja.wikipedia.org/wiki/E☆2#メディエイション "wikilink")「[E☆2](../Page/E☆2.md "wikilink")（えつ）」の宣伝番組。[あっちゃんとゆりしーのE☆2らじ](../Page/あっちゃんとゆりしーのE☆2らじ.md "wikilink")が放送時間を変更の上、番組リニューアルしたものである。

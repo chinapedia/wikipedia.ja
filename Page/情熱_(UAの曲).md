@@ -1,4 +1,4 @@
-> この記事は[ \(UA\)](https://ja.wikipedia.org/wiki/_\(UA\))から翻訳されています。
+> この記事は[情熱 \(UAの曲\)](https://ja.wikipedia.org/wiki/情熱_\(UAの曲\))から翻訳されています。
 
 
 「**情熱**」（じょうねつ）は、[1996年](../Page/1996年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[歌手](../Page/歌手.md "wikilink")の[UAが](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。

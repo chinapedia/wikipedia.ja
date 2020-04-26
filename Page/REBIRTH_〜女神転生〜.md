@@ -22,6 +22,6 @@
 
 </div>
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:田村ゆかりの楽曲](https://ja.wikipedia.org/wiki/Category:田村ゆかりの楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:キャラクターソング](https://ja.wikipedia.org/wiki/Category:キャラクターソング "wikilink") [Category:デビルマン](https://ja.wikipedia.org/wiki/Category:デビルマン "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:田村ゆかりの楽曲](https://ja.wikipedia.org/wiki/Category:田村ゆかりの楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:キャラクターソング](https://ja.wikipedia.org/wiki/Category:キャラクターソング "wikilink") [Category:デビルマン](https://ja.wikipedia.org/wiki/Category:デビルマン "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")
 
 1.  形としては[シングル](../Page/シングル.md "wikilink")であるが、公式サイトではキャラクターソング扱い。

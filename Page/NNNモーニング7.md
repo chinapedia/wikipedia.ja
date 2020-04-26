@@ -28,7 +28,7 @@
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") - 1972年9月に[島根県](../Page/島根県.md "wikilink")への取材も開始した。
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - 1972年9月までは全曜日、以後は週末版のみをネット。
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - 当時の放送エリアは[香川県](../Page/香川県.md "wikilink")のみ。
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - 週末版のみをネット。

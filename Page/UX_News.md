@@ -13,7 +13,7 @@
 
   - [小山裕久](https://ja.wikipedia.org/wiki/小山裕久 "wikilink")
   - [宮里伸哉](https://ja.wikipedia.org/wiki/宮里伸哉 "wikilink")
-  - [冨高由喜](https://ja.wikipedia.org/wiki/冨高由喜 "wikilink")
+  - [冨高由喜](../Page/冨高由喜.md "wikilink")
   - [三河かおり](../Page/三河かおり.md "wikilink")
   - [内山知子](../Page/内山知子.md "wikilink")
   - [大島直子](https://ja.wikipedia.org/wiki/大島直子 "wikilink")

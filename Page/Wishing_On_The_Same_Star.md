@@ -15,7 +15,7 @@
       - プロモーション用に制作された非売品の[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")に「Wishing On The Same Star (GROOVE THAT SOUL MIX)」が収録されている。
   - 『**Did U**』は、前作に引き続き、安室本人が作詞。
       - ビデオ・クリップは[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[釜山で撮影されており](../Page/釜山広域市.md "wikilink")、同ビデオ・クリップはライブDVD『namie amuro tour 2001 break the rules』のファンクラブ限定盤のみに収録されている。このDVDは後に一般発売されたものの、「Did U」のビデオ・クリップは収録されていない。
-      - こちらは、2017年現在アルバム未収録となっている。
+      - こちらは、2020年現在アルバム未収録となっている。
 
 ## 収録曲
 

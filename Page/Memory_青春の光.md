@@ -84,4 +84,4 @@
   - [つんく♂公式サイト コメント](http://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=45#01)
   - ミュージック・ビデオ
       -
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:青春を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:青春を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")

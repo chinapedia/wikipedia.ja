@@ -89,6 +89,6 @@
 
   - [BRAND NEW SONG](https://www.jehp.jp/kinki_discography/article/943)
 
-[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:茶系飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:茶系飲料のコマーシャルソング "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:茶系飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:茶系飲料のコマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.  [KinKi Kids、聖子を抜き単独3位\!](http://www.oricon.co.jp/news/44226/full/) オリコン 2015年12月25日閲覧

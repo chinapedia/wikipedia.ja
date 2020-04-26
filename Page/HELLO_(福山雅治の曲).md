@@ -9,7 +9,7 @@
 
 前作「[IT'S ONLY LOVE／SORRY BABY](https://ja.wikipedia.org/wiki/IT'S_ONLY_LOVE/SORRY_BABY "wikilink")」に続き、[オリコンシングルチャートで初登場](../Page/オリコンチャート.md "wikilink")1位を獲得し、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。オリコン集計で12cmシングル（マキシシングル）がミリオンヒットを記録したのは、本作が初めてとなった\[1\]\[2\]。
 
-その後オリコン累計売上枚数は約187万枚となり、福山のシングルとしては2000年に発売した15thシングル「[桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")」に次ぐヒット作品になっている。
+その後オリコン累計売上枚数は約187万枚となり、福山のシングルとしては2000年に発売した15thシングル「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」に次ぐヒット作品になっている。
 
 [ジャケット写真は写真家](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")・[植田正治](../Page/植田正治.md "wikilink")撮影によるもの。この出会いをきっかけに、福山は植田との交流を深めていくことになる。
 
@@ -105,10 +105,10 @@
   - [第4回ザテレビジョン　ドラマアカデミー賞　主題歌賞](http://blog.television.co.jp/drama/academy/1995/03/hello.html#more)
   - [第10回日本ゴールドディスク大賞](http://www.golddisc.jp/award/10/index.html#gd10_06)
 
-[Category:福山雅治の楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治の楽曲 "wikilink") [Category:福山雅治が制作した楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:水曜劇場_(フジテレビ)の主題歌](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(フジテレビ\)の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:福山雅治の楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治の楽曲 "wikilink") [Category:福山雅治が制作した楽曲](https://ja.wikipedia.org/wiki/Category:福山雅治が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:水曜劇場_(フジテレビ)の主題歌](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(フジテレビ\)の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  [日本レコード協会](../Page/日本レコード協会.md "wikilink")では、[B'z](../Page/B'z.md "wikilink")が1989年に発売したミニ・アルバム『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』がシングル扱いになっており、こちらが12cmシングル初のミリオンセラー作品となっている。
-2.  2000年に発売した「[桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")」は、12cmシングル（マキシシングル）初のダブルミリオンセラー作品になっている。
+2.  2000年に発売した「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」は、12cmシングル（マキシシングル）初のダブルミリオンセラー作品になっている。
 3.  『[M-COLLECTION 風をさがしてる](https://ja.wikipedia.org/wiki/M-COLLECTION_風をさがしてる "wikilink")』に封入されている福山によるLiner notesを参照。
 4.
 5.

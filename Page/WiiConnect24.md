@@ -78,8 +78,8 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.nintendo.co.jp/wii/features/wiiconnect24.html)
-  - [「Wii」ネットワークサービス　一部終了のお知らせ](https://www.nintendo.co.jp/support/information/2013/0412.html)
+  - [公式サイト](https://www.nintendo.co.jp/wii/features/wiiconnect24.html)
+  - [「Wii」ネットワークサービス 一部終了のお知らせ](https://www.nintendo.co.jp/support/information/2013/0412.html)
 
 [Category:Wii](https://ja.wikipedia.org/wiki/Category:Wii "wikilink") [Category:オンラインゲームサービス](https://ja.wikipedia.org/wiki/Category:オンラインゲームサービス "wikilink")
 

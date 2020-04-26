@@ -23,4 +23,4 @@
         作詞：[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")・[藤末樹](https://ja.wikipedia.org/wiki/藤末樹 "wikilink")、作曲：藤末樹、編曲：中野雄太
         初回盤のみ収録。
 
-[Category:玉置成実の楽曲](https://ja.wikipedia.org/wiki/Category:玉置成実の楽曲 "wikilink") [Category:Shusuiが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Shusuiが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink")
+[Category:玉置成実の楽曲](https://ja.wikipedia.org/wiki/Category:玉置成実の楽曲 "wikilink") [Category:Shusuiが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Shusuiが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

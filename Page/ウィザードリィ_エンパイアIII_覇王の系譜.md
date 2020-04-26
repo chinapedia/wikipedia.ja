@@ -1,7 +1,7 @@
 > この記事は[ウィザードリィ エンパイアIII 覇王の系譜](https://ja.wikipedia.org/wiki/ウィザードリィ_エンパイアIII_覇王の系譜)から翻訳されています。
 
 
-『**ウィザードリィ エンパイアIII 覇王の系譜**』（ウィザードリィ エンパイア スリー はおうのけいふ、Wizardry EMPIRE III Ancestry of the Emperor）は[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。[スターフィッシュ](https://ja.wikipedia.org/wiki/スターフィッシュ "wikilink")より発売された『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")』シリーズの作品。2003年にPlayStation 2で発売され、2007年にエキストラダンジョンを追加しPSPに移殖された。
+『**ウィザードリィ エンパイアIII 覇王の系譜**』（ウィザードリィ エンパイア スリー はおうのけいふ、Wizardry EMPIRE III Ancestry of the Emperor）は[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。[スターフィッシュ](https://ja.wikipedia.org/wiki/スターフィッシュ "wikilink")より発売された『[ウィザードリィ](../Page/ウィザードリィ.md "wikilink")』シリーズの作品。2003年にPlayStation 2で発売され、2007年にエキストラダンジョンを追加しPSPに移植された。
 
 PSP版はPS2版にあったバグも修正されている。
 

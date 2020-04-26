@@ -11,12 +11,12 @@
     （作詞・作曲: [甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
       -
         [沢知恵](../Page/沢知恵.md "wikilink")がカバーし、マキシシングル「小さな恋のうた」アルバム『いいうたいろいろ2』『シンガー』に収録されている。
-        ミューッジックビデオ、ライブでのイントロとは大幅に異なる。
+        ミュージックビデオ、ライブでのイントロとは大幅に異なる。
 2.  **すてごま（Live version）**
     （作詞・作曲: 甲本ヒロト）
       -
         6thアルバム『[STICK OUT](../Page/STICK_OUT.md "wikilink")』に収録されている曲のライブバージョン。
-        [1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、[東京](../Page/東京.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（STICK　OUTツアー）でのライブにて収録。
+        [1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、[東京](../Page/東京.md "wikilink")の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（STICK OUTツアー）でのライブにて収録。
 3.  **夜の盗賊団**
     （作詞・作曲: [真島昌利](../Page/真島昌利.md "wikilink")）
 

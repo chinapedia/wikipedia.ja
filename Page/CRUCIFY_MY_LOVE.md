@@ -26,7 +26,7 @@
 
 ## 脚注
 
-[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:人種差別を題材とした作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした作品 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:人種差別を題材とした作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした作品 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
 
 1.  『月刊ギグス』（1997年2月号）シンコーミュージック・エンタテイメント
 2.

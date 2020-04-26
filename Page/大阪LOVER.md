@@ -87,8 +87,6 @@
 
   - [ごぶごぶ](../Page/ごぶごぶ.md "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）- エンディングテーマ
 
-## 脚注
-
 ## 出典
 
-[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:大阪を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:大阪を題材とした楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:嬰ヘ長調](https://ja.wikipedia.org/wiki/Category:嬰ヘ長調 "wikilink")
+[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:大阪を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:大阪を題材とした楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

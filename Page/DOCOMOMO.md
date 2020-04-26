@@ -1,7 +1,7 @@
 > この記事は[DOCOMOMO](https://ja.wikipedia.org/wiki/DOCOMOMO)から翻訳されています。
 
 
-**DOCOMOMO** (ドコモモ、)は、[1988年](../Page/1988年.md "wikilink")に設立された[近代建築](https://ja.wikipedia.org/wiki/近代建築 "wikilink")の[記録](../Page/記録.md "wikilink")と[保存](https://ja.wikipedia.org/wiki/保存 "wikilink")を目的とする国際学術[組織](../Page/組織_\(社会科学\).md "wikilink")。本部 (DOCOMOMO International)と40か国以上に設けられた支部とから成る。本部は、当初、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[デルフト](../Page/デルフト.md "wikilink")に設置され、[2002年](../Page/2002年.md "wikilink")からは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")にある。DOCOMOMOは英語表記における[アクロニム](https://ja.wikipedia.org/wiki/アクロニム "wikilink")（[頭字語](../Page/頭字語.md "wikilink")）である。
+**DOCOMOMO** (ドコモモ、)は、[1988年](../Page/1988年.md "wikilink")に設立された[近代建築](../Page/近代建築.md "wikilink")の[記録](../Page/記録.md "wikilink")と[保存](https://ja.wikipedia.org/wiki/保存 "wikilink")を目的とする国際学術[組織](../Page/組織_\(社会科学\).md "wikilink")。本部 (DOCOMOMO International)と40か国以上に設けられた支部とから成る。本部は、当初、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[デルフト](../Page/デルフト.md "wikilink")に設置され、[2002年](../Page/2002年.md "wikilink")からは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")にある。DOCOMOMOは英語表記における[アクロニム](https://ja.wikipedia.org/wiki/アクロニム "wikilink")（[頭字語](../Page/頭字語.md "wikilink")）である。
 
 ## DOCOMOMO Japan
 

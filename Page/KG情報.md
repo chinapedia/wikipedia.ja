@@ -1,11 +1,11 @@
 > この記事は[KG情報](https://ja.wikipedia.org/wiki/KG情報)から翻訳されています。
 
 
-**株式会社KG情報**（ケージーじょうほう、）は日本の情報・サービス提供会社。主に中国・四国・九州・関東地方で各種情報誌を発行している。[東証ジャスダックに上場し有料職業紹介事業も行っている](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")。
+**株式会社KG情報**（ケージーじょうほう、）は日本の情報・サービス提供会社。主に中国・四国・九州・北海道・関東地方で事業を展開している。[東証ジャスダックに上場し有料職業紹介事業も行っている](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")。
 
 ## 概要
 
-[中国四国地方](https://ja.wikipedia.org/wiki/中国四国地方 "wikilink")の瀬戸内圏および九州北部を中心に事業展開し、仕事・グルメ・住まい・結婚・レジャー等、各種情報を加工し発信している。インターネット、情報誌、エージェント等、戦略的なメディアミックスが特長。
+[中国四国地方](https://ja.wikipedia.org/wiki/中国四国地方 "wikilink")の瀬戸内圏および九州北部を中心に事業展開し、仕事・住まい・結婚・レジャー等、各種情報を加工し発信している。インターネット、情報誌、エージェント等、戦略的なメディアミックスが特長。
 
 ## 沿革
 
@@ -14,10 +14,16 @@
   - [1993年](../Page/1993年.md "wikilink")（平成5年）3月 - 株式会社ケージー情報出版に社名変更。本社機能を岡山市へ移転し組織変更。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）10月 - 現在の社名に変更。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）12月 - ジャスダックに上場。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）10月 - 株式交換により株式会社ディー・ウォーク・クリエイションを完全子会社化。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年） - 家づくり学校岡山校・高松校・福山校を開校。
+  - [2014年](../Page/2014年.md "wikilink")（平成26年） - 家づくり学校松山校を開校。
+  - [2017年](../Page/2017年.md "wikilink")（平成29年） - 家づくり学校川越校を開校。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年） - ミャンマーにKG MYANMAR COMPANY LIMITEDを設立。株式会社アピールコムを完全子会社化。家づくり学校湘南校・神戸校・宇部校を開校。
+  - [2019年](../Page/2019年.md "wikilink")（令和元年） - 家づくり学校甲府校を開校。
 
 ## 事業所
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:KG_Intelligence,_Takamatsu_2012.jpg "wikilink") **本店**
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:KG_Intelligence,_Takamatsu_2020.jpg "wikilink") **本店**
 
   -
     〒760-0078 [香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")[今里町二丁目](https://ja.wikipedia.org/wiki/太田_\(高松市\) "wikilink")2番地10
@@ -25,7 +31,7 @@
 **管理本部**（2009年5月開設）
 
   -
-    〒700-0952 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区辰巳](../Page/北区_\(岡山市\).md "wikilink")20番地113
+    〒700-0952 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区平田](../Page/北区_\(岡山市\).md "wikilink")170番地108
 
 **高松支社**
 
@@ -57,11 +63,6 @@
   -
     〒730-0025 [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区東平塚町](../Page/中区_\(広島市\).md "wikilink")4番7号
 
-**福岡支社**（2012年3月開設）
-
-  -
-    〒810-0002 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")[西中洲](https://ja.wikipedia.org/wiki/西中洲_\(福岡市\) "wikilink")12番33号 大同生命福岡ビル11階
-
 **大分支社**（2011年5月開設）
 
   -
@@ -70,7 +71,7 @@
 **札幌支社**（2013年7月開設）
 
   -
-    〒060-0003 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区北](https://ja.wikipedia.org/wiki/札幌市 "wikilink")3条西3丁目1 大同生命札幌ビル11階
+    〒060-0001 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")中央区北一条西1丁目6(さっぽろ創世スクエア21F)
 
 **丸亀支局**（1993年9月開設）
 
@@ -81,21 +82,6 @@
 
   -
     〒710-0834 [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")[笹沖](../Page/笹沖.md "wikilink")1186番地1
-
-**東広島支局**（2006年10月開設）
-
-  -
-    〒739-0047 [広島県](../Page/広島県.md "wikilink")[東広島市](../Page/東広島市.md "wikilink")西条下見七丁目2番地30 キュアプライド1階
-
-**福山支局**（1989年9月開設）
-
-  -
-    〒720-0066 [広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")三之丸町9番16号 山陽第二ビル3階
-
-**北九州支局**（2010年5月開設）
-
-  -
-    〒811-3425 [福岡県](../Page/福岡県.md "wikilink")宗像市日の里1丁目11番9号　日の里ビル1階
 
 **姫路支局**（1993年9月開設）
 
@@ -121,4 +107,4 @@
 
   - [KG情報](https://www.kg-net.co.jp/)
 
-[Category:日本のタウン情報誌](https://ja.wikipedia.org/wiki/Category:日本のタウン情報誌 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:岡山市北区の企業](https://ja.wikipedia.org/wiki/Category:岡山市北区の企業 "wikilink") [Category:高松市の企業](https://ja.wikipedia.org/wiki/Category:高松市の企業 "wikilink") [Category:ジャスダック上場企業](https://ja.wikipedia.org/wiki/Category:ジャスダック上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:1980年設立の企業](https://ja.wikipedia.org/wiki/Category:1980年設立の企業 "wikilink") [Category:情報処理・提供サービス業‎](https://ja.wikipedia.org/wiki/Category:情報処理・提供サービス業‎ "wikilink")
+[Category:日本のタウン情報誌](https://ja.wikipedia.org/wiki/Category:日本のタウン情報誌 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:岡山市北区の企業](https://ja.wikipedia.org/wiki/Category:岡山市北区の企業 "wikilink") [Category:高松市の企業](https://ja.wikipedia.org/wiki/Category:高松市の企業 "wikilink") [Category:ジャスダック上場企業](https://ja.wikipedia.org/wiki/Category:ジャスダック上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:1980年設立の企業](https://ja.wikipedia.org/wiki/Category:1980年設立の企業 "wikilink") [Category:情報処理・提供サービス業](https://ja.wikipedia.org/wiki/Category:情報処理・提供サービス業 "wikilink")

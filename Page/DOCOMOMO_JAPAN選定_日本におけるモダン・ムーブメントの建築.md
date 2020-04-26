@@ -1,7 +1,7 @@
 > この記事は[DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築](https://ja.wikipedia.org/wiki/DOCOMOMO_JAPAN選定_日本におけるモダン・ムーブメントの建築)から翻訳されています。
 
 
-**DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築**（ドコモモ ジャパンせんてい にほんにおけるモダン・ムーブメントのけんちく）は、[DOCOMOMO](../Page/DOCOMOMO.md "wikilink") Japanが現存する[近代建築](https://ja.wikipedia.org/wiki/近代建築 "wikilink")として選定した216件の建築である。
+**DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築**（ドコモモ ジャパンせんてい にほんにおけるモダン・ムーブメントのけんちく）は、[DOCOMOMO](../Page/DOCOMOMO.md "wikilink") Japanが現存する[近代建築](../Page/近代建築.md "wikilink")として選定した216件の建築である。
 
 ## 概要
 

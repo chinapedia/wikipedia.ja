@@ -42,6 +42,6 @@
 
 ## 脚注
 
-[Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:THE_BLUE_HEARTSの楽曲](https://ja.wikipedia.org/wiki/Category:THE_BLUE_HEARTSの楽曲 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:真島昌利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:真島昌利が制作した楽曲 "wikilink") [Category:徳間ジャパンコミュニケーションズのシングル](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:映画挿入歌](https://ja.wikipedia.org/wiki/Category:映画挿入歌 "wikilink")
+[Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:THE_BLUE_HEARTSの楽曲](https://ja.wikipedia.org/wiki/Category:THE_BLUE_HEARTSの楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:真島昌利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:真島昌利が制作した楽曲 "wikilink") [Category:徳間ジャパンコミュニケーションズのシングル](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:映画挿入歌](https://ja.wikipedia.org/wiki/Category:映画挿入歌 "wikilink")
 
 1.

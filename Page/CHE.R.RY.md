@@ -59,7 +59,7 @@
 
   - [桜ソング](https://ja.wikipedia.org/wiki/桜に関連する作品一覧#ポピュラー音楽 "wikilink")
 
-[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:サクランボを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:サクランボを題材とした楽曲 "wikilink") [Category:桜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:桜を題材とした楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink")
+[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:サクランボを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:サクランボを題材とした楽曲 "wikilink") [Category:桜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:桜を題材とした楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
 
 1.
 2.

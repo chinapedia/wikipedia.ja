@@ -30,7 +30,7 @@ EADS、エアバス、ルフトハンザ・テクニックにより中古のA310
 
 フライングブームを装備したデモンストレーター機は、2017年5月9日に[F-16に対する自動空中給油の試験に初めて成功したと発表された](../Page/F-16_\(戦闘機\).md "wikilink")\[18\]。
 
-ドイツが所有する機体には、生物学的封鎖を可能とする装備を有する機体があり、[2020年](../Page/2020年.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[武漢市](../Page/武漢市.md "wikilink")で[肺炎が流行した際](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")、現地に滞在していたドイツ人を本国へ帰還させる手段として利用されたことがある\[19\]。
+ドイツが所有する機体には、生物学的封鎖を可能とする装備を有する機体があり、[2020年](../Page/2020年.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[武漢市](../Page/武漢市.md "wikilink")で[肺炎が流行した際](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、現地に滞在していたドイツ人を本国へ帰還させる手段として利用されたことがある\[19\]。
 
 <File:CC-150> Polaris tanker refueling two CF-18 Hornets.jpg|2機の[CF-18への給油体勢に入るCC](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")-150 <File:Canadian> relief transport.jpg|左側面の大型扉より荷下ろしを行うCC-150 <File:Airbus> A310 MRT MedEvac - ILA2002-03.jpg|医療搬送仕様のA310 MRT（A310輸送機型） [File:A310MRTT.jpg|フライングブームを装備したデモンストレーター機](File:A310MRTT.jpg%7Cフライングブームを装備したデモンストレーター機)
 

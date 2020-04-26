@@ -14,6 +14,8 @@
 
 1994年10月1日オープン。収容人数280人。開店初期からDJを取り入れ、それまでのライヴハウスには無かった斬新なイベントを展開している。当初はマンチェスターブームやUKロックの流行により、よりブリティッシュなイメージで捉えられていた。
 
+2000年、[ラフィータフィー](https://ja.wikipedia.org/wiki/ラフィータフィー "wikilink")のアルバム[夏の十字架](https://ja.wikipedia.org/wiki/夏の十字架 "wikilink")の収録曲「ライブハウス」について、暗に下北沢QUEを批判していることから、レコード会社に圧をかけ一時的な発売中止に追い込んだ。
+
 [2003年](../Page/2003年.md "wikilink")には[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")のヴォーカル[増子直純](https://ja.wikipedia.org/wiki/増子直純 "wikilink")を主演、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")や[宍戸留美](../Page/宍戸留美.md "wikilink")を助演に映画[Colors of Lifeを自主制作](../Page/Colors_of_Life.md "wikilink")。
 
 [2005年](../Page/2005年.md "wikilink")には姉妹店[Zher the ZOOを代々木にオープン](https://ja.wikipedia.org/wiki/Zher_the_ZOO "wikilink")。
@@ -52,6 +54,7 @@
   - [騒音寺](https://ja.wikipedia.org/wiki/騒音寺 "wikilink")
   - [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
   - [THE HIGH-LOWS](../Page/THE_HIGH-LOWS.md "wikilink")
+  - [ヒューストンズ](../Page/ヒューストンズ.md "wikilink")
   - [プロペラ](../Page/プロペラ_\(バンド\).md "wikilink")
   - [Nostars Inovation](https://ja.wikipedia.org/wiki/Nostars_Inovation "wikilink")
   - [オトナモード](../Page/オトナモード.md "wikilink")

@@ -54,7 +54,7 @@
   - [高知県](../Page/高知県.md "wikilink")（[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")）
   - [広島県](../Page/広島県.md "wikilink")（[広島テレビ](../Page/広島テレビ放送.md "wikilink")）
   - [鳥取県](../Page/鳥取県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")（[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")）
-  - [山口県](../Page/山口県.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")）
+  - [山口県](../Page/山口県.md "wikilink")（[山口放送](../Page/山口放送.md "wikilink")）
   - [福岡県](../Page/福岡県.md "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")（[くまもと県民テレビ](../Page/熊本県民テレビ.md "wikilink")）
   - [長崎県](../Page/長崎県.md "wikilink")（[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")）

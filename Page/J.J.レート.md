@@ -57,13 +57,151 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 
 ### フォーミュラ
 
+#### イギリス・フォーミュラ3選手権
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>チーム</p></th>
+<th><p>エンジン</p></th>
+<th><p>クラス</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>9</p></th>
+<th><p>10</p></th>
+<th><p>11</p></th>
+<th><p>12</p></th>
+<th><p>13</p></th>
+<th><p>14</p></th>
+<th><p>15</p></th>
+<th><p>16</p></th>
+<th><p>17</p></th>
+<th><p>18</p></th>
+<th><p>順位</p></th>
+<th><p>ポイント</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1988年のイギリス・フォーミュラ3選手権" title="wikilink">1988年</a></p></td>
+<td><p><a href="../Page/パシフィック・レーシング.md" title="wikilink">パシフィック・レーシング</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ" title="wikilink">トヨタ</a></p></td>
+<td><p>A</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スラクトン・サーキット" title="wikilink">THR</a><br />
+<small>1</small></p></td>
+<td><p><strong><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></em></strong><br />
+<small>1</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スラクトン・サーキット" title="wikilink">THR</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH</a><br />
+<small>24</small></p></td>
+<td><p><em><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a></em><br />
+<small>2</small></p></td>
+<td><p><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></em><br />
+<small>1</small></p></td>
+<td><p><em><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH</a></em><br />
+<small>1</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スラクトン・サーキット" title="wikilink">THR</a><br />
+<small>Ret</small></p></td>
+<td><p><strong><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></em></strong><br />
+<small>1</small></p></td>
+<td><p><strong><em><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a></em></strong><br />
+<small>1</small></p></td>
+<td><p><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></em><br />
+<small>3</small></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/スネッタートン・モーター・レーシング・サーキット" title="wikilink">SNE</a></em><br />
+<small>3</small></p></td>
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/オウルトン・パーク" title="wikilink">OUL</a></em></strong><br />
+<small>2</small></p></td>
+<td><p><strong><em><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></em></strong><br />
+<small>1</small></p></td>
+<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH</a><br />
+<small>Ret</small></p></td>
+<td><p><em><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></em><br />
+<small>1</small></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/スラクトン・サーキット" title="wikilink">THR</a></strong><br />
+<small>2</small></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
+<small>3</small></p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>164</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/Template:F1_driver_results_legend_2 "wikilink"))
+
+#### 国際F3000選手権
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>チーム</p></th>
+<th><p>シャシー</p></th>
+<th><p>エンジン</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>9</p></th>
+<th><p>10</p></th>
+<th><p>順位</p></th>
+<th><p>ポイント</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1989年の国際F3000選手権" title="wikilink">1989年</a></p></td>
+<td><p><a href="../Page/パシフィック・レーシング.md" title="wikilink">パシフィック・レーシング</a></p></td>
+<td><p><a href="../Page/レイナード.md" title="wikilink">レイナード</a></p></td>
+<td><p><a href="../Page/M-TEC.md" title="wikilink">無限</a></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">{{color</a><br />
+<small>DSQ</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バレルンガ・サーキット" title="wikilink">VAL</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ポー市街地コース" title="wikilink">PAU</a><br />
+<small>4</small></p></td>
+<td><p><a href="../Page/ヘレス・サーキット.md" title="wikilink">JER</a><br />
+<small>6</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エンナ・ペルグーサ" title="wikilink">PER</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRH</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/バーミンガム市街地コース" title="wikilink">BIR</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a><br />
+<small>5</small></p></td>
+<td><p><a href="../Page/ブガッティ・サーキット.md" title="wikilink">BUG</a><br />
+<small>Ret</small></p></td>
+<td><p><a href="../Page/ディジョン・プレノワ・サーキット.md" title="wikilink">DIJ</a><br />
+<small></small></p></td>
+<td><p>14位</p></td>
+<td><p>6</p></td>
+</tr>
+</tbody>
+</table>
+
+([key](https://ja.wikipedia.org/wiki/Template:F1_driver_results_legend_2 "wikilink"))
+
 #### F1
 
 <table>
 <thead>
 <tr class="header">
 <th><p>年</p></th>
-<th><p>所属チーム</p></th>
+<th><p>チーム</p></th>
 <th><p>シャシー</p></th>
 <th><p>1</p></th>
 <th><p>2</p></th>
@@ -366,7 +504,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tbody>
 </table>
 
-  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
+([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 #### CART
 
@@ -450,6 +588,8 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tbody>
 </table>
 
+([key](https://ja.wikipedia.org/wiki/w:en:Template:American_Open_Wheel_driver_results_legend "wikilink"))
+
 ### スポーツカー
 
 #### BPR GT
@@ -487,7 +627,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small></small></p></td>
 <td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a><br />
 <small></small></p></td>
-<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MON</a><br />
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a><br />
 <small></small></p></td>
 <td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a><br />
 <small></small></p></td>
@@ -497,7 +637,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small></small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オートドローム・ド・モンスレリ" title="wikilink">PAR</a><br />
 <small></small></p></td>
-<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">SCA</a><br />
+<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a><br />
 <small></small></p></td>
 <td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
 <small></small></p></td>
@@ -517,7 +657,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p>GT1</p></td>
 <td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a><br />
 <small></small></p></td>
-<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MON</a><br />
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a><br />
 <small></small></p></td>
 <td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a><br />
 <small></small></p></td>
@@ -525,9 +665,9 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small></small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
 <small></small></p></td>
-<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">SCA</a><br />
+<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a><br />
 <small></small></p></td>
-<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
+<td><p><strong><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></strong><br />
 <small>1</small></p></td>
 <td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRA</a><br />
 <small></small></p></td>
@@ -544,7 +684,9 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tbody>
 </table>
 
-#### FIA GT
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
+
+#### FIA GT選手権
 
 <table>
 <thead>
@@ -574,15 +716,15 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
 <td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1</a>-GTR</p></td>
 <td><p>GT1</p></td>
-<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC</a><br />
+<td><p><em><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC</a></em><br />
 <small>1</small></p></td>
 <td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL</a><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL</a></strong><br />
 <small>1</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
 <small>3</small></p></td>
-<td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a><br />
+<td><p><strong><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></strong><br />
 <small>1</small></p></td>
 <td><p><a href="../Page/レッドブル・リンク.md" title="wikilink">A1R</a><br />
 <small>3</small></p></td>
@@ -592,7 +734,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small>3</small></p></td>
 <td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG</a><br />
 <small>1</small></p></td>
-<td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
+<td><p><strong><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></strong><br />
 <small>16</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラグナ・セカ" title="wikilink">LAG</a><br />
 <small>Ret</small></p></td>
@@ -601,6 +743,8 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 </tbody>
 </table>
+
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 #### アメリカン・ル・マン・シリーズ
 
@@ -630,22 +774,22 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1999年のアメリカン・ル・マン・シリーズ" title="wikilink">1999年</a></p></td>
-<td><p><a href="../Page/BMW_M.md" title="wikilink">BMWモータースポーツ</a></p></td>
+<td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BMW・V12_LMR" title="wikilink">BMW・V12 LMR</a></p></td>
 <td><p>LMP</p></td>
-<td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
+<td><p><strong><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></strong><br />
 <small>1</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">ATL</a><br />
 <small></small></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a><br />
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a></em></strong><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a></em><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a><br />
 <small>1</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラスベガス・モーター・スピードウェイ" title="wikilink">LSV</a><br />
 <small>1</small></p></td>
@@ -658,39 +802,37 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2000年のアメリカン・ル・マン・シリーズ" title="wikilink">2000年</a></p></td>
-<td><p><a href="../Page/BMW_M.md" title="wikilink">BMWモータースポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BMW・V12_LMR" title="wikilink">BMW・V12 LMR</a></p></td>
 <td><p>LMP</p></td>
 <td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャーロット・モーター・スピードウェイ" title="wikilink">CHA</a><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/シャーロット・モーター・スピードウェイ" title="wikilink">CHA</a></strong><br />
 <small>1</small></p></td>
 <td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
 <small>1</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<td><p><a href="../Page/ソノマ・レースウェイ.md" title="wikilink">SNM</a><br />
 <small>3</small></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small>2</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テキサス・モーター・スピードウェイ" title="wikilink">TEX</a><br />
 <small>4</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">ROS</a><br />
 <small>3</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a><br />
 <small>3</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラスベガス・モーター・スピードウェイ" title="wikilink">LSV</a><br />
 <small>9</small></p></td>
-<td><p><a href="../Page/アデレード市街地コース.md" title="wikilink">ADE</a><br />
-<small></small></p></td>
+<td><p><a href="../Page/アデレード市街地コース.md" title="wikilink">ADE</a></p></td>
 <td><p>6位</p></td>
 <td><p>220</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2001年のアメリカン・ル・マン・シリーズ" title="wikilink">2001年</a></p></td>
-<td><p><a href="../Page/BMW_M.md" title="wikilink">BMWモータースポーツ</a></p></td>
 <td><p><a href="../Page/BMW・M3.md" title="wikilink">BMW・M3</a></p></td>
 <td><p>GT</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テキサス・モーター・スピードウェイ" title="wikilink">TEX</a><br />
@@ -707,28 +849,29 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td></td>
 <td></td>
 <td><p><strong>2位</strong></p></td>
-<td><p><strong>180</strong></p></td>
+<td><p><strong>186</strong></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BMW・M3.md" title="wikilink">BMW・M3 GTR</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BMW・M3#M3_GTR" title="wikilink">BMW・M3 GTR</a></p></td>
 <td></td>
-<td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
+<td><p><em><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></em><br />
 <small>3</small></p></td>
 <td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a><br />
 <small>Ret</small></p></td>
 <td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<td><p><a href="../Page/ソノマ・レースウェイ.md" title="wikilink">SNM</a><br />
 <small>1</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a><br />
 <small>3</small></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MDO</a><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイアミ市街地コース" title="wikilink">MIA</a><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a></strong><br />
 <small>4</small></p></td>
 <td></td>
 <td></td>
@@ -740,16 +883,16 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2002年のアメリカン・ル・マン・シリーズ" title="wikilink">2002年</a></p></td>
-<td><p><a href="../Page/キャデラック.md" title="wikilink">チーム・キャデラック</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ライリーアンドスコット" title="wikilink">チーム・キャデラック</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/キャデラック・ノーススター・LMP02" title="wikilink">キャデラック・ノーススター・LMP02</a></p></td>
 <td><p>LMP900</p></td>
 <td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
-<small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<small>9</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a><br />
 <small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MID</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MDO</a><br />
 <small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">AME</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">ROA</a><br />
 <small></small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RFKスタジアム市街地コース" title="wikilink">WAS</a><br />
 <small></small></p></td>
@@ -757,7 +900,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small></small></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a><br />
 <small>3</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイアミ市街地コース" title="wikilink">MIA</a><br />
 <small>2</small></p></td>
@@ -770,26 +913,26 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2003年のアメリカン・ル・マン・シリーズ" title="wikilink">2003年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ADT_チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
 <td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
 <td><p>LMP900</p></td>
 <td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
 <small>2</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">ATL</a><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a></em><br />
 <small>2</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シルクィート・トロワ・リヴィエール" title="wikilink">TRO</a><br />
 <small>2</small></p></td>
-<td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
+<td><p><strong><em><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a></em></strong><br />
 <small>4</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">AME</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">ROA</a><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイアミ市街地コース" title="wikilink">MIA</a><br />
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/マイアミ市街地コース" title="wikilink">MIA</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a></em><br />
 <small>1</small></p></td>
 <td></td>
 <td></td>
@@ -799,65 +942,67 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2004年のアメリカン・ル・マン・シリーズ" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ADT_チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
-<td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
 <td><p>LMP1</p></td>
-<td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
+<td><p><strong><em><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></em></strong><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MID</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MDO</a></em><br />
 <small>1</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ライム・ロック・パーク" title="wikilink">LIM</a><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a></em><br />
 <small>2</small></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">AME</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">ROA</a></em><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a></em><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a></em><br />
 <small>2</small></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><strong>1位</strong></p></td>
 <td><p><strong>164</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2005年のアメリカン・ル・マン・シリーズ" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ADT_チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
-<td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
 <td><p>LMP1</p></td>
-<td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
+<td><p><strong><em><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></em></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">ATL</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">ATL</a></em><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MID</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MDO</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライム・ロック・パーク" title="wikilink">LIM</a><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ライム・ロック・パーク" title="wikilink">LIM</a></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SON</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a></em><br />
 <small>3</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a><br />
-<small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">AME</a><br />
+<small>5</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">ROA</a><br />
 <small>3</small></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a><br />
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">PET</a></em><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">MON</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a><br />
 <small>4</small></p></td>
 <td></td>
 <td></td>
 <td><p><strong>3位</strong></p></td>
 <td><p><strong>148</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 #### ル・マン24時間レース
 
@@ -878,7 +1023,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年のル・マン24時間レース" title="wikilink">1990年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リチャード・ロイド・レーシング" title="wikilink">リチャード・ロイド・レーシング</a></p></td>
-<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マニュエル・ロイター</a><br />
+<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マヌエル・ロイター</a><br />
  <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
 <td><p><a href="../Page/ポルシェ・962.md" title="wikilink">ポルシェ・962 GTi</a>C</p></td>
 <td><p>C1</p></td>
@@ -889,7 +1034,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1991年のル・マン24時間レース" title="wikilink">1991年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クレマー・レーシング" title="wikilink">ポルシェ・クレマー・レーシング</a></p></td>
-<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マニュエル・ロイター</a><br />
+<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マヌエル・ロイター</a><br />
  <a href="../Page/ハリ・トイヴォネン.md" title="wikilink">ハリ・トイヴォネン</a></p></td>
 <td><p><a href="../Page/ポルシェ・962.md" title="wikilink">ポルシェ・962</a>CK6</p></td>
 <td><p>C2</p></td>
@@ -913,26 +1058,25 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="https://ja.wikipedia.org/wiki/ガルフ・レーシング_GTC" title="wikilink">ガルフ・レーシング GTC</a></p></td>
 <td><p><a href="../Page/レイ・ベルム.md" title="wikilink">レイ・ベルム</a><br />
  <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
-<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1 GTR</a></p></td>
 <td><p>GT1</p></td>
 <td><p>323</p></td>
 <td><p>9位</p></td>
 <td><p>7位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年のル・マン24時間レース" title="wikilink">1997年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BMW#モータースポーツ" title="wikilink">チームBMWモータースポーツ</a></p></td>
+<td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ソパー" title="wikilink">スティーブ・ソパー</a><br />
  <a href="../Page/ネルソン・ピケ.md" title="wikilink">ネルソン・ピケ</a></p></td>
-<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1 GTR</a></p></td>
 <td><p>GT1</p></td>
 <td><p>236</p></td>
 <td><p>DNF</p></td>
 <td><p>DNF</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1999年のル・マン24時間レース" title="wikilink">1999年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BMW#モータースポーツ" title="wikilink">チームBMWモータースポーツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トム・クリステンセン" title="wikilink">トム・クリステンセン</a><br />
  <a href="https://ja.wikipedia.org/wiki/ヨルグ・ミュラー" title="wikilink">ヨルグ・ミュラー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BMW・V12_LMR" title="wikilink">BMW・V12 LMR</a></p></td>
@@ -940,10 +1084,11 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p>304</p></td>
 <td><p>DNF</p></td>
 <td><p>DNF</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2002年のル・マン24時間レース" title="wikilink">2002年</a></p></td>
-<td><p><a href="../Page/キャデラック.md" title="wikilink">チーム・キャデラック</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ライリーアンドスコット" title="wikilink">チーム・キャデラック</a></p></td>
 <td><p><a href="../Page/エリック・ベルナール.md" title="wikilink">エリック・ベルナール</a><br />
  <a href="../Page/エマニュエル・コラール.md" title="wikilink">エマニュエル・コラール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/キャデラック・ノーススター・LMP02" title="wikilink">キャデラック・ノーススター・LMP02</a></p></td>
@@ -965,25 +1110,25 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2004年のル・マン24時間レース" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ADT_チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
 <td><p><a href="../Page/エマニュエル・ピロ.md" title="wikilink">エマニュエル・ピロ</a><br />
  <a href="../Page/マルコ・ヴェルナー.md" title="wikilink">マルコ・ヴェルナー</a></p></td>
-<td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
 <td><p>LMP1</p></td>
 <td><p>368</p></td>
 <td><p><strong>3位</strong></p></td>
 <td><p><strong>3位</strong></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2005年のル・マン24時間レース" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ADT_チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トム・クリステンセン" title="wikilink">トム・クリステンセン</a><br />
  <a href="../Page/マルコ・ヴェルナー.md" title="wikilink">マルコ・ヴェルナー</a></p></td>
-<td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
 <td><p>LMP1</p></td>
 <td><p>370</p></td>
 <td><p><strong>1位</strong></p></td>
 <td><p><strong>1位</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1054,6 +1199,8 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 </tbody>
 </table>
+
+([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 #### 国際ツーリングカー選手権
 
@@ -1139,8 +1286,6 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1996年の国際ツーリングカー選手権" title="wikilink">1996年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヨースト・レーシング" title="wikilink">オペル・チーム・ヨースト</a></p></td>
-<td><p><a href="../Page/オペル・カリブラ.md" title="wikilink">オペル・カリブラ V6 4x4</a></p></td>
 <td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC1</a><br />
 <small>15</small></p></td>
 <td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC2</a><br />
@@ -1169,9 +1314,9 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small>5</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">SIL2</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NUR1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR1</a><br />
 <small>7</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NUR2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR2</a><br />
 <small>5</small></p></td>
 <td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG1</a><br />
 <small>5</small></p></td>
@@ -1195,9 +1340,13 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small>8</small></p></td>
 <td><p>5位</p></td>
 <td><p>148</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 ## 脚注
 
@@ -1209,7 +1358,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
   - [ドライバー一覧](../Page/ドライバー一覧.md "wikilink")
   - [F1ドライバーの一覧](../Page/F1ドライバーの一覧.md "wikilink")
 
-[Category:フィンランドのF1ドライバー](https://ja.wikipedia.org/wiki/Category:フィンランドのF1ドライバー "wikilink") [Category:ザウバーのF1ドライバー](https://ja.wikipedia.org/wiki/Category:ザウバーのF1ドライバー "wikilink") [Category:ベネトンのF1ドライバー](https://ja.wikipedia.org/wiki/Category:ベネトンのF1ドライバー "wikilink") [Category:国際F3000選手権のドライバー](https://ja.wikipedia.org/wiki/Category:国際F3000選手権のドライバー "wikilink") [Category:イギリスF3選手権のドライバー](https://ja.wikipedia.org/wiki/Category:イギリスF3選手権のドライバー "wikilink") [Category:チャンプカーのドライバー](https://ja.wikipedia.org/wiki/Category:チャンプカーのドライバー "wikilink") [Category:ドイツツーリングカー選手権のドライバー](https://ja.wikipedia.org/wiki/Category:ドイツツーリングカー選手権のドライバー "wikilink") [Category:国際ツーリングカー選手権のドライバー](https://ja.wikipedia.org/wiki/Category:国際ツーリングカー選手権のドライバー "wikilink") [Category:エスポー出身の人物](https://ja.wikipedia.org/wiki/Category:エスポー出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ル・マン24時間勝者](https://ja.wikipedia.org/wiki/Category:ル・マン24時間勝者 "wikilink") [Category:セブリング12時間勝者](https://ja.wikipedia.org/wiki/Category:セブリング12時間勝者 "wikilink") [Category:鈴鹿1000km勝者](https://ja.wikipedia.org/wiki/Category:鈴鹿1000km勝者 "wikilink")
+[Category:フィンランドのF1ドライバー](https://ja.wikipedia.org/wiki/Category:フィンランドのF1ドライバー "wikilink") [Category:ザウバーのF1ドライバー](https://ja.wikipedia.org/wiki/Category:ザウバーのF1ドライバー "wikilink") [Category:ベネトンのF1ドライバー](https://ja.wikipedia.org/wiki/Category:ベネトンのF1ドライバー "wikilink") [Category:国際F3000選手権のドライバー](https://ja.wikipedia.org/wiki/Category:国際F3000選手権のドライバー "wikilink") [Category:イギリスF3選手権のドライバー](https://ja.wikipedia.org/wiki/Category:イギリスF3選手権のドライバー "wikilink") [Category:マカオグランプリのドライバー](https://ja.wikipedia.org/wiki/Category:マカオグランプリのドライバー "wikilink") [Category:チャンプカーのドライバー](https://ja.wikipedia.org/wiki/Category:チャンプカーのドライバー "wikilink") [Category:ドイツツーリングカー選手権のドライバー](https://ja.wikipedia.org/wiki/Category:ドイツツーリングカー選手権のドライバー "wikilink") [Category:国際ツーリングカー選手権のドライバー](https://ja.wikipedia.org/wiki/Category:国際ツーリングカー選手権のドライバー "wikilink") [Category:エスポー出身の人物](https://ja.wikipedia.org/wiki/Category:エスポー出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ル・マン24時間勝者](https://ja.wikipedia.org/wiki/Category:ル・マン24時間勝者 "wikilink") [Category:セブリング12時間勝者](https://ja.wikipedia.org/wiki/Category:セブリング12時間勝者 "wikilink") [Category:鈴鹿1000km勝者](https://ja.wikipedia.org/wiki/Category:鈴鹿1000km勝者 "wikilink")
 
 1.  発音の難しい本名をJ.Jと短くさせプロへの道へと進ませてくれたのがケケ・ロズベルグでした　[F1グランプリ特集](https://ja.wikipedia.org/wiki/F1グランプリ特集 "wikilink") vol.042 1992年12月号 95頁、ファインダー越しの情景(21)可能性を秘めた雪解けを待つ北欧の少年 [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink")
 2.  新世代ドライバーインタビュー J.J.レート 自分にできる事は天命を待つだけ　[F1速報](../Page/F1速報.md "wikilink") 第5巻第3号 1994テスト情報号 52-53頁 [ニューズ出版](../Page/ニューズ出版.md "wikilink")

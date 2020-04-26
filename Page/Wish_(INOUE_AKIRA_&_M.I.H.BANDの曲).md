@@ -40,7 +40,7 @@
       -
         **[井上鑑](../Page/井上鑑.md "wikilink")**（キーボード）
         **[高嶋ちさ子](../Page/高嶋ちさ子.md "wikilink")**（ヴァイオリン）
-        **[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")**（ギター）
+        **[古川昌義](../Page/古川昌義.md "wikilink")**（ギター）
         **古川展生**（チェロ）
         **藤原道山**（尺八）
 

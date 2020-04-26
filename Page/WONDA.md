@@ -495,8 +495,12 @@
 ## 外部リンク
 
   - [ワンダ｜アサヒ飲料](http://www.asahiinryo.co.jp/wonda/sp/) - 製品ブランドサイト
+
+  - [ワンダ｜商品情報｜アサヒ飲料](https://www.asahiinryo.co.jp/products/wonda/)
+
   - [「WONDA」の歴史｜Asahi SOFT DRINKS History｜お楽しみ・プレゼント｜アサヒ飲料](http://www.asahiinryo.co.jp/entertainment/history/wonda/history01.html) - 「WONDA」やアサヒ飲料が過去に発売した缶コーヒーの歴史を紹介している公式サイト
 
+  -
 [Category:缶コーヒー](https://ja.wikipedia.org/wiki/Category:缶コーヒー "wikilink") [Category:アサヒ飲料](https://ja.wikipedia.org/wiki/Category:アサヒ飲料 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.  [ワンダ](http://www.asahiinryo.co.jp/wonda/sp/)アサヒ飲料（2018年4月20日閲覧）

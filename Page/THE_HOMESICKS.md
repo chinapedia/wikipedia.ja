@@ -103,7 +103,7 @@
 ## 外部リンク
 
   - [公式サイト](http://homesicks.com/)
-  - [公式ブログ](http://ameblo.jp/1234homesicks/)
+  - [公式ブログ](https://ameblo.jp/1234homesicks/)
   - [LOST PROJECT](http://www.loft-prj.co.jp/interview/0312/11.html)
 
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink")

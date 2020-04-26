@@ -37,7 +37,7 @@
 
 1.  **Birthday Live 「happy 25th anniversary」@SHIBUYA duo music exchange**
       -
-        2007年2月8日バースデイライブにて披露された曲「Like a Love?」（アコースティックバージョン）「[ねがいごと](https://ja.wikipedia.org/wiki/ねがいごと_\(鈴木亜美の曲\) "wikilink")」「Alright\!」「[Delightful](../Page/Delightful.md "wikilink")」映像に収録。
+        2007年2月8日バースデイライブにて披露された曲「Like a Love?」（アコースティックバージョン）「[ねがいごと](../Page/ねがいごと_\(鈴木亜美の曲\).md "wikilink")」「Alright\!」「[Delightful](../Page/Delightful.md "wikilink")」映像に収録。
 2.  **Making Movie「BEHIND THE SCENES」**(パターンAと同内容)
 3.  **「SINGLE TV-SPOT Collection」**(パターンAと同内容)
 

@@ -106,7 +106,7 @@
   - [地上最強の美女たち\! チャーリーズ・エンジェル](../Page/チャーリーズ・エンジェル.md "wikilink")
   - [奥さまは魔女](https://ja.wikipedia.org/wiki/奥さまは魔女 "wikilink")
   - [かわいい魔女ジニー](../Page/かわいい魔女ジニー.md "wikilink")
-  - [刑事ナッシュ・ブリッジス](https://ja.wikipedia.org/wiki/刑事ナッシュ・ブリッジス "wikilink")
+  - [刑事ナッシュ・ブリッジス](../Page/刑事ナッシュ・ブリッジス.md "wikilink")
   - [LAW & ORDER 性犯罪特捜班](https://ja.wikipedia.org/wiki/LAW_&_ORDER_性犯罪特捜班 "wikilink") - 2016年10月よりFOXチャンネルへ移行
 
 ## 脚注

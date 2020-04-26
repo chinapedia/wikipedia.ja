@@ -60,8 +60,6 @@
           - 隠しコマンドを入力することによりプレイ可能（PS版・3000番台などは最初から選択可能）。
               - 停車駅：十日町、六日町
 
-    　
-
   - [秋田新幹線](../Page/秋田新幹線.md "wikilink")・[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")
     \* 中級（難易度：2）
 
@@ -79,8 +77,6 @@
           - 特級では、ダイヤの問題で最終運転評価100点と全駅定通を両立することができない\[1\]。スコアは全定通を達成したときの方が高くなる。
           - 奥羽本線内の駅通過後などの随所でいきなり80 - 90km/hの制限速度がかけられ、減速が間に合わず大量減点（速度制限超過1回につき15秒の減点、初期持ち時間はノーマルで30秒）→ゲームオーバーとなり、初見ではまずクリアできない仕様であった。このため、後作では事前に制限速度がかけられる位置がわかるように改良されている。
               - 停車駅：大曲（[新花巻](../Page/新花巻駅.md "wikilink")）
-
-    　
 
   - [京浜東北線](https://ja.wikipedia.org/wiki/京浜東北線 "wikilink")
     \* 中級（難易度：3）
@@ -151,9 +147,6 @@
 
 :\* ダイヤ調整が完了していないため、極端に余裕がある駅もあれば、逆に余裕がない駅もある。なおどちらも同じダイヤである。
 
-  -
-    　
-
   - 秋田新幹線（田沢湖線）
     \* 特級（難易度：5）
 
@@ -163,8 +156,6 @@
           - 東北新幹線は「Great\!」や「Good」が獲得できなくても運転できるが、「やまびこ」との連結ボーナスゲームはできない。
               - 東北新幹線区間はE3系単独運転で、自動閉塞で走行する（実際の東北新幹線はATCによる運転となる。また現在の東北新幹線はDS-ATCが保安装置として使用される）。
 
-    　
-
   - 奥羽本線
     \* 中級（難易度：3）
 
@@ -172,16 +163,12 @@
         701系 普通（秋田→大曲）
           - 「こまち」と同じダイヤで設定されているが、速度制限は設定されていない。そのためクリアが相当難しくなっている。
 
-    　
-
   - 田沢湖線
     \* 中級（難易度：3）
 
       -
         701系5000番台 普通（大曲→盛岡）
-          - 「こまち」と同じダイヤで設定されているが、速度制限は設定されていない。そのため、奥羽本線701系同様クリアが難しい。こちらも神代駅を過ぎると風景のほとんどがなくなる。なお『3000番台』では[田沢湖駅](../Page/田沢湖駅.md "wikilink")からの運転だが、こちらは大曲駅からの運転となる。
-
-    　
+          - 「こまち」と同じダイヤで設定されているが、速度制限は設定されていない。そのため奥羽本線701系同様クリアが難しい。こちらも神代駅を過ぎると風景のほとんどがなくなる。なお『3000番台』では[田沢湖駅](../Page/田沢湖駅.md "wikilink")からの運転だが、こちらは大曲駅からの運転となる。
 
   - 京浜東北線
     \* 中級（難易度：3）
@@ -189,8 +176,6 @@
       -
         209系 普通（横浜→品川）
           - この路線のみ、0番台の先行試作車（ロケテスト版）でプレイすることが可能であった。
-
-    　
 
   - 東海道本線
     \* 中級（難易度：3）
@@ -216,7 +201,7 @@
 
 ## 電車でGO\!2高速編 3000番台
 
-1998年8月にタイトーより発売された『電車でGO\!2』のバージョンアップ版。既存路線の延伸や、新規路線・車両の追加が行われた。筐体には、仕様変更は無いが、メインタイトル（電車の写真入りのではない文字だけのタイトル画面）の「量産車」の部分が「3000番台」に変更され、オープニングには、「3000番台」の文字のカットインを追加しているほか、東北新幹線走行シーンですれ違う列車が0番台ではE3系単独運転であったが、『3000番台』ではE3系と200系の併合運転となっている（「量産車」という部分には『0番台』のロケテスト版では「先行試作車」と入れられていた）。2000年4月28日にWindows版が発売され、後にセガドリームキャスト版も販売される。初代PS版とは異なり、アーケードからそのまま移植している為、運転士の音声が初代の『電車でGO\!』と同じである。
+[『電車でGO\!2高速編_3000番台』筐体.jpg](https://ja.wikipedia.org/wiki/File:『電車でGO!2高速編_3000番台』筐体.jpg "fig:『電車でGO!2高速編_3000番台』筐体.jpg") 1998年8月にタイトーより発売された『電車でGO\!2』のバージョンアップ版。既存路線の延伸や、新規路線・車両の追加が行われた。筐体には、仕様変更は無いが、メインタイトル（電車の写真入りのではない文字だけのタイトル画面）の「量産車」の部分が「3000番台」に変更され、オープニングには、「3000番台」の文字のカットインを追加しているほか、東北新幹線走行シーンですれ違う列車が0番台ではE3系単独運転であったが、『3000番台』ではE3系と200系の併合運転となっている（「量産車」という部分には『0番台』のロケテスト版では「先行試作車」と入れられていた）。2000年4月28日にWindows版が発売され、後にセガドリームキャスト版も販売される。初代PS版とは異なり、アーケードからそのまま移植している為、運転士の音声が初代の『電車でGO\!』と同じである。
 
   - コース増加に伴い、「北陸路線」「東北路線」「関東路線」「関西路線」「東北路線（隠し）」の5つのグループに分けられた。
       - なお『0番台』と『3000番台』とで共通に収録されている路線における違いとして、北越急行ほくほく線の特級：681系2000番台「はくたか」において、十日町駅以降の時刻の進み方が異なるというものがある。意図的に変えているのかどうかは不明。またほくほく線では485系・485系3000番台と専用の「はくたか」ダイヤを2種追加収録されている。
@@ -236,8 +221,6 @@
         485系3000番台（JR東日本色） 特急「はくたか」（直江津→六日町）
           - アーケード版では、地区選択時にブレーキの位置で車両が選択できる。「解除」の位置でJR東日本色の3000番台が、「非常」の位置でJR西日本色の0番台が登場する。
               - 停車駅：十日町、六日町
-
-    　
 
   - 秋田新幹線
     \* 中級（難易度：2）
@@ -259,8 +242,6 @@
           - 中級・特級共通で、[大釜](../Page/大釜駅.md "wikilink")→盛岡間で田沢湖線から東北新幹線へ入る際の連絡線を通過する途中に注意信号があるが、通過する際に効果音が流れるだけで制限はかからず45km/h以上で走ってもATSは作動しない。それはおろか「注意」という運転士の点呼もない。
               - 停車駅：大曲、角館、田沢湖、雫石、盛岡、新花巻
 
-    　
-
   - [奥羽本線](https://ja.wikipedia.org/wiki/奥羽本線 "wikilink")
     \* 中級（難易度：3）
 
@@ -268,8 +249,6 @@
         [701系](../Page/JR東日本701系電車.md "wikilink") 普通（秋田→大曲）
           - 没版とは違い、制限45km/hがかかる駅が多い。ノーコンティニューだと大曲駅に[D51牽引の](../Page/国鉄D51形蒸気機関車.md "wikilink")[12系](../Page/国鉄12系客車.md "wikilink")6両編成が現れる。
               - 停車駅：[四ツ小屋](../Page/四ツ小屋駅.md "wikilink")、[和田](../Page/和田駅.md "wikilink")、[大張野](../Page/大張野駅.md "wikilink")、[羽後境](../Page/羽後境駅.md "wikilink")、[峰吉川](../Page/峰吉川駅.md "wikilink")、刈和野、神宮寺、大曲
-
-    　
 
   - [田沢湖線](https://ja.wikipedia.org/wiki/田沢湖線 "wikilink")
     \* 中級（難易度：3）
@@ -279,8 +258,6 @@
           - [志度内信号場](../Page/志度内信号場.md "wikilink")での列車交換待ちイベントがあるが、ほくほく線快速上級の列車交換イベントとは異なり、必ず発生する（ダイヤグラム上も列車交換を想定したダイヤが組まれている）。
               - 停車駅：[赤渕](../Page/赤渕駅.md "wikilink")、[春木場](../Page/春木場駅.md "wikilink")、雫石、[小岩井](../Page/小岩井駅.md "wikilink")、大釜、盛岡
 
-    　
-
   - 京浜東北線
     \* 中級（難易度：3）
 
@@ -289,8 +266,6 @@
           - 始発駅から品川駅までに全て「Great\!」にするか、1回だけ「Good」で残り全てが「Great\!」になると、延長して上野駅まで運転できる。この場合、有楽町 - 東京間と神田 - 秋葉原間の所要時間がそれぞれ5秒ずつ延長される。
               - 停車駅：[東神奈川](https://ja.wikipedia.org/wiki/東神奈川駅 "wikilink")、[新子安](https://ja.wikipedia.org/wiki/新子安駅 "wikilink")、[鶴見](https://ja.wikipedia.org/wiki/鶴見駅 "wikilink")、[川崎](https://ja.wikipedia.org/wiki/川崎駅 "wikilink")、[蒲田](https://ja.wikipedia.org/wiki/蒲田駅 "wikilink")、[大森](https://ja.wikipedia.org/wiki/大森駅_\(東京都\) "wikilink")、[大井町](https://ja.wikipedia.org/wiki/大井町駅 "wikilink")、[品川](https://ja.wikipedia.org/wiki/品川駅 "wikilink")、（田町、東京、秋葉原、上野）
 
-    　
-
   - [山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")
     \* 上級（難易度：4）
 
@@ -298,8 +273,6 @@
         [205系](../Page/国鉄205系電車.md "wikilink") 普通 （[東京](https://ja.wikipedia.org/wiki/東京駅 "wikilink")→[新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")（外回り））
           - 「上級」ではあるが、ほかの上級路線とは違い、停車時の合格範囲は1mまで許容（ほかは0m）され、延着・延通時の減点も1秒（ほかは2秒）となっている。
               - 停車駅：[有楽町](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[新橋](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")、[浜松町](https://ja.wikipedia.org/wiki/浜松町駅 "wikilink")、田町、品川、[大崎](https://ja.wikipedia.org/wiki/大崎駅 "wikilink")、[五反田](https://ja.wikipedia.org/wiki/五反田駅 "wikilink")、[目黒](https://ja.wikipedia.org/wiki/目黒駅 "wikilink")、[恵比寿](https://ja.wikipedia.org/wiki/恵比寿駅 "wikilink")、[渋谷](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")、[原宿](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")、[代々木](https://ja.wikipedia.org/wiki/代々木駅 "wikilink")、[新宿](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")
-
-    　
 
   - [東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")（[JR神戸線](../Page/JR神戸線.md "wikilink")）
     \* 中級（難易度：3）
@@ -377,7 +350,8 @@ N64：[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "
 <td><p><small>AC版</small></p></td>
 <td><p><small>PC版</small></p></td>
 <td><p><small>AC版</small></p></td>
-<td><p><small>DC版・PC版</small></p></td>
+<td><p><small>DC版<br />
+PC版</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -392,7 +366,7 @@ N64：[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "
 <tr class="even">
 <td><p><small>北陸路線</small></p></td>
 <td><p><small>ほくほく線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>直江津→うらがわら</small></p></td>
 <td><p><small>越後湯沢</small></p></td>
@@ -415,7 +389,7 @@ N64：[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "
 </tr>
 <tr class="odd">
 <td><p><small>ほくほく線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>直江津→六日町</small></p></td>
 <td><p><small>越後湯沢</small></p></td>
@@ -686,7 +660,7 @@ E3系</small></p></td>
 <tr class="even">
 <td><p><small>関東路線</small></p></td>
 <td><p><small>京浜東北線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>品川→上野</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/大宮駅_(埼玉県)" title="wikilink">大宮</a></small></p></td>
@@ -709,7 +683,7 @@ E3系</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>京浜東北線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>横浜→品川（→上野）</small></p></td>
 <td><p><small>大宮</small></p></td>
@@ -734,7 +708,7 @@ E3系</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>京浜東北線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>横浜→上野</small></p></td>
 <td><p><small>大宮</small></p></td>
@@ -801,7 +775,7 @@ E3系</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>東海道本線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>大阪→神戸</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/網干駅" title="wikilink">網干</a></small></p></td>
@@ -847,7 +821,7 @@ E3系</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>東海道本線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>大阪→神戸</small></p></td>
 <td><p><small>網干</small></p></td>
@@ -892,8 +866,8 @@ E3系</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>大阪環状線</small></p></td>
-<td><p><small>関空快速</small></p></td>
-<td><p><small>45号</small></p></td>
+<td><p><small></small></p></td>
+<td><p><small></small></p></td>
 <td><p><small>大阪→天王寺</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/関西空港駅" title="wikilink">関西空港</a></small></p></td>
 <td><p><small>223系</small></p></td>
@@ -916,7 +890,7 @@ E3系</small></p></td>
 <td><p><small>九州路線<br />
 [17]</small></p></td>
 <td><p><small>鹿児島本線</small></p></td>
-<td><p><small>快速</small></p></td>
+<td><p><small></small></p></td>
 <td><p><small></small></p></td>
 <td><p><small>折尾→小倉</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/門司港駅" title="wikilink">門司港</a></small></p></td>
@@ -956,7 +930,8 @@ E3系</small></p></td>
 <p></small></p></td>
 </tr>
 <tr class="even">
-<td><p><small>東北路線（隠し）</small></p></td>
+<td><p><small>東北路線<br />
+（隠し）</small></p></td>
 <td><p><small>秋田新幹線</small></p></td>
 <td><p><small></small></p></td>
 <td><p><small></small></p></td>
@@ -1090,17 +1065,18 @@ E3系</small></p></td>
 
 ## 関連項目
 
-  - [ぽっぷんぽっぷ](../Page/ぽっぷんぽっぷ.md "wikilink") - 『電車でGO\!2高速編』のプロモーションムービーが見られる。
+  - [ぽっぷんぽっぷ](../Page/ぽっぷんぽっぷ.md "wikilink")：『電車でGO\!2高速編』のプロモーションムービーが見られる。
+  - [スペースインベーダー](../Page/スペースインベーダー.md "wikilink")2000：本作の体験版が収録されている（同作には『[Gダライアス](../Page/Gダライアス.md "wikilink")』の体験版も収録されている）。
 
 [Category:1998年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1998年のコンピュータゲーム "wikilink") [Category:実機シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:実機シミュレーションゲーム "wikilink") [Category:電車でGO\!](https://ja.wikipedia.org/wiki/Category:電車でGO! "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:東日本旅客鉄道](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道 "wikilink") [Category:北越急行](https://ja.wikipedia.org/wiki/Category:北越急行 "wikilink") [Category:西日本旅客鉄道](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道 "wikilink") [Category:九州旅客鉄道](https://ja.wikipedia.org/wiki/Category:九州旅客鉄道 "wikilink") [Category:新幹線を題材とした作品](https://ja.wikipedia.org/wiki/Category:新幹線を題材とした作品 "wikilink")
 
 1.  これは、[刈和野](../Page/刈和野駅.md "wikilink") - [神宮寺間の距離が](../Page/神宮寺駅.md "wikilink")1469mに対し所要時間が40秒なので平均速度が132.21km/hとなってしまい、運転評価のひとつである「安全性の配慮」（最高速度の95%以上の速度を出すと減点される。E3系の場合は最高速度が135km/h（在来線内）なので、128.25km/hまでは許される）が減点されてしまうためである。
-2.  [吉塚](https://ja.wikipedia.org/wiki/吉塚駅 "wikilink")、[箱崎](https://ja.wikipedia.org/wiki/箱崎駅 "wikilink")、[香椎](https://ja.wikipedia.org/wiki/香椎駅 "wikilink")、[九産大前](https://ja.wikipedia.org/wiki/九産大前駅 "wikilink")、[筑前新宮（現：福工大前）](https://ja.wikipedia.org/wiki/福工大前駅 "wikilink")、[古賀](https://ja.wikipedia.org/wiki/古賀駅 "wikilink")、[千鳥](https://ja.wikipedia.org/wiki/千鳥駅 "wikilink")、[福間](../Page/福間駅.md "wikilink")、[東福間](../Page/東福間駅.md "wikilink")、[東郷](../Page/東郷駅.md "wikilink")、[赤間](https://ja.wikipedia.org/wiki/赤間駅 "wikilink")、[教育大前](https://ja.wikipedia.org/wiki/教育大前駅 "wikilink")、[海老津](https://ja.wikipedia.org/wiki/海老津駅 "wikilink")、[遠賀川](https://ja.wikipedia.org/wiki/遠賀川駅 "wikilink")、[水巻](https://ja.wikipedia.org/wiki/水巻駅 "wikilink")、八幡、[枝光](https://ja.wikipedia.org/wiki/枝光駅 "wikilink")、戸畑、[九州工大前](https://ja.wikipedia.org/wiki/九州工大前駅 "wikilink")、[西小倉](https://ja.wikipedia.org/wiki/西小倉駅 "wikilink")（折尾、黒崎は停車）。なお、[千早](https://ja.wikipedia.org/wiki/千早駅 "wikilink")、[新宮中央](../Page/新宮中央駅.md "wikilink")、[ししぶ](https://ja.wikipedia.org/wiki/ししぶ駅 "wikilink")、[陣原](https://ja.wikipedia.org/wiki/陣原駅 "wikilink")、[スペースワールドは当時未開業](https://ja.wikipedia.org/wiki/スペースワールド駅 "wikilink")。
+2.  [吉塚](https://ja.wikipedia.org/wiki/吉塚駅 "wikilink")、[箱崎](https://ja.wikipedia.org/wiki/箱崎駅 "wikilink")、[香椎](https://ja.wikipedia.org/wiki/香椎駅 "wikilink")、[九産大前](https://ja.wikipedia.org/wiki/九産大前駅 "wikilink")、[筑前新宮（現：福工大前）](https://ja.wikipedia.org/wiki/福工大前駅 "wikilink")、[古賀](https://ja.wikipedia.org/wiki/古賀駅 "wikilink")、[千鳥](https://ja.wikipedia.org/wiki/千鳥駅 "wikilink")、[福間](../Page/福間駅.md "wikilink")、[東福間](../Page/東福間駅.md "wikilink")、[東郷](../Page/東郷駅.md "wikilink")、[赤間](https://ja.wikipedia.org/wiki/赤間駅 "wikilink")、[教育大前](https://ja.wikipedia.org/wiki/教育大前駅 "wikilink")、[海老津](https://ja.wikipedia.org/wiki/海老津駅 "wikilink")、[遠賀川](https://ja.wikipedia.org/wiki/遠賀川駅 "wikilink")、[水巻](https://ja.wikipedia.org/wiki/水巻駅 "wikilink")、八幡、[枝光](https://ja.wikipedia.org/wiki/枝光駅 "wikilink")、戸畑、[九州工大前](https://ja.wikipedia.org/wiki/九州工大前駅 "wikilink")、[西小倉](https://ja.wikipedia.org/wiki/西小倉駅 "wikilink")（折尾、黒崎は停車）。なお[千早](https://ja.wikipedia.org/wiki/千早駅 "wikilink")、[新宮中央](../Page/新宮中央駅.md "wikilink")、[ししぶ](https://ja.wikipedia.org/wiki/ししぶ駅 "wikilink")、[陣原](https://ja.wikipedia.org/wiki/陣原駅 "wikilink")、[スペースワールドは当時未開業](https://ja.wikipedia.org/wiki/スペースワールド駅 "wikilink")。
 3.  [Windows版電GOは凄い\!](http://sylph.lib.net/trainsim/go2_ura2.htm)
 4.  実際は「三**ノ**宮」表記である。
 5.  通常はランダムだが、「路線選択画面」にて「北陸路線」を選択する際に、ブレーキを「解除」に入れると485系、ブレーキを「非常」に入れると485系3000番台となる。
-6.  初期コースを銅星以上ですべてクリアすると出現する。
-7.  STARTボタンと警笛ペダルを押しながらコインを投入、マスコンを「3」およびブレーキを「非常」に入れた状態でスタートボタンを押し、「電車選択画面」にてマスコンを「5」に入れてしばらく待つと出現する。
+6.  初期コースを銅星以上で全てクリアすると出現する。
+7.  STARTボタンと警笛ペダルを押しながらコインを投入、マスコンを「3」およびブレーキを「非常」に入れた状態でSTARTボタンを押し、「電車選択画面」にてマスコンを「5」に入れてしばらく待つと出現する。
 8.  初期コースを全てクリアと出現する。
 9.  通常はランダムだが、「路線選択画面」にて「東北路線」を選択する際に、ブレーキを「非常」に入れると雫石駅停車、ブレーキを「解除」に入れると雫石駅通過となる。
 10. 東北新幹線「やまびこ」は大曲駅で「Great\!」か「Good」を獲得すると運転可能。
@@ -1110,7 +1086,7 @@ E3系</small></p></td>
 14.
 15. 「Good」を1点、「Great\!」を2点として、品川駅到着までに合計15点以上獲得すると、上野駅まで延長運転可能。
 16.
-17. 「九州路線」というカテゴリは、実際には用いられていないが、便宜上使用している。
-18. STARTボタンと警笛ペダルを押しながらコインを投入、マスコンを「3」およびブレーキを「非常」に入れた状態でスタートボタンを押し、「路線選択画面」にてマスコンを「5」に入れてしばらく待つと出現する
+17. 「九州路線」というカテゴリは実際には用いられていないが、便宜上使用している。
+18. STARTボタンと警笛ペダルを押しながらコインを投入、マスコンを「3」およびブレーキを「非常」に入れた状態でSTARTボタンを押し、「路線選択画面」にてマスコンを「5」に入れてしばらく待つと出現する
 19. 東北新幹線「やまびこ」は盛岡駅で「Great\!」か「Good」を獲得し、かつボーナスゲームで連結に成功すると運転可能。
 20.

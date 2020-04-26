@@ -188,8 +188,10 @@
 ## 外部リンク
 
   - [STUDiO B-ROOM](http://www2.raidway.ne.jp/~b_room/)
-  - [『殻の中の小鳥』『雛鳥の囀』から見るヴィクトリア朝](http://homepage3.nifty.com/shinkukan/seminar/semi03/semi03_00.htm)
+
+  -
   - [放課後アニゲ倶楽部 -青いの欲しいの- 「2010-04-05 限りなく漆黒に近いグレー」](http://d.hatena.ne.jp/medee/20100405)
+
   - [SPQR 英国メイドとヴィクトリア朝研究 (特集) 第1期メイドブーム「日本のメイドさん」確立へ（1990年代）](http://spqr.sakura.ne.jp/wp/archives/985)
 
 [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:1999年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:メイドを題材とした作品](https://ja.wikipedia.org/wiki/Category:メイドを題材とした作品 "wikilink") [Category:列車強盗を題材とした作品](https://ja.wikipedia.org/wiki/Category:列車強盗を題材とした作品 "wikilink")

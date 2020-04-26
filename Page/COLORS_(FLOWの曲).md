@@ -73,7 +73,7 @@
 
   - [Sony Music Online Japan : FLOW : COLORS](https://www.sonymusic.co.jp/artist/Flow/discography/KSCL-1067)
 
-[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:コードギアスの音楽](https://ja.wikipedia.org/wiki/Category:コードギアスの音楽 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:嬰イ短調](https://ja.wikipedia.org/wiki/Category:嬰イ短調 "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
+[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:コードギアスの音楽](https://ja.wikipedia.org/wiki/Category:コードギアスの音楽 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
 
 1.  [「COLORS」](http://www.sonymusic.co.jp/artist/Flow/discography/KSCL-1067)（[Sony Musicによるディスコグラフィー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）2013年11月21日閲覧。
 2.  STAGE01 - STAGE12

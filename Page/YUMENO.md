@@ -1,8 +1,9 @@
 > この記事は[YUMENO](https://ja.wikipedia.org/wiki/YUMENO)から翻訳されています。
 
 
-『**YUMENO**」』（ユメノ）は、[2005年](../Page/2005年.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。厳冬の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台に、ある殺人を機に彷徨う、3人の若者の魂の軌跡を描いたロードムービーである。[モントリオール世界映画祭](../Page/モントリオール世界映画祭.md "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[レインダンス映画祭](https://ja.wikipedia.org/wiki/レインダンス映画祭 "wikilink")他に出品。
-1992年に千葉県市川市行徳で起きた[市川一家4人殺人事件](https://ja.wikipedia.org/wiki/市川一家4人殺人事件 "wikilink")を基に作られている。
+『**YUMENO**』（ユメノ）は、[2005年](../Page/2005年.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。厳冬の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を舞台に、ある殺人を機に彷徨う、3人の若者の魂の軌跡を描いたロードムービーである。[モントリオール世界映画祭](../Page/モントリオール世界映画祭.md "wikilink")、[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")、[レインダンス映画祭](https://ja.wikipedia.org/wiki/レインダンス映画祭 "wikilink")他に出品。
+
+1992年に[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")[行徳](../Page/行徳.md "wikilink")で発生した事件（[市川一家4人殺人事件](https://ja.wikipedia.org/wiki/市川一家4人殺人事件 "wikilink")）を基に作られている\[1\]。
 
 ## あらすじ
 
@@ -43,8 +44,11 @@
   - 渓流の女：[中村美玲](https://ja.wikipedia.org/wiki/中村美玲 "wikilink")、ひよこ
   - ヤクザ：[飯島大介](../Page/飯島大介.md "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
-  - [YUMENO](http://www.netcinema.tv/yumeno/story/index.html)
-
+  -
 [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:実際の犯罪に基づいた映画作品](https://ja.wikipedia.org/wiki/Category:実際の犯罪に基づいた映画作品 "wikilink") [Category:日本の犯罪映画](https://ja.wikipedia.org/wiki/Category:日本の犯罪映画 "wikilink") [Category:日本のロードムービー](https://ja.wikipedia.org/wiki/Category:日本のロードムービー "wikilink") [Category:北海道を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした映画作品 "wikilink") [Category:R指定の映画](https://ja.wikipedia.org/wiki/Category:R指定の映画 "wikilink")
+
+1.

@@ -205,7 +205,7 @@
 [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:オンラインRPG](https://ja.wikipedia.org/wiki/Category:オンラインRPG "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ハンゲーム](https://ja.wikipedia.org/wiki/Category:ハンゲーム "wikilink")
 
 1.  [プロデューサーの考える“三On像”とは何か？　新情報満載の「三國志 Online」インタビューは，プレイヤー必読【後編】](http://www.4gamer.net/games/019/G001972/20080528041/)4Gamers
-2.  それ以前に[CEROの審査を受けたタイトルはA](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（全年齢対象）となるよう制作されていた。
+2.  それ以前に[CEROの審査を受けたタイトルはA](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")（全年齢対象）となるよう制作されていた。
 3.  [2年にわたる合戦に幕。コーエーテクモゲームス，「三國志 Online」のサービスを7月19日をもって終了](http://www.4gamer.net/games/019/G001972/20100513024/)4Gamers
 4.  [「三國志 Online」，本日3：00PMよりクローズドβテスト開始](http://www.4gamer.net/games/019/G001972/20070124142811/)
 5.  [2年にわたる合戦に幕。コーエーテクモゲームス，「三國志 Online」のサービスを7月19日をもって終了](http://www.4gamer.net/games/019/G001972/20100513024/)4Gamers

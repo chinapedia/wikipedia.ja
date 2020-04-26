@@ -93,6 +93,8 @@
 | 2020年1月号 (405号) | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")   | 専属モデルである[目黒蓮](https://ja.wikipedia.org/wiki/目黒蓮 "wikilink")を含む          |
 | 2020年2月号 (406号) | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")   | 専属モデルである[ジェシーを含む](https://ja.wikipedia.org/wiki/ジェシー_\(俳優\) "wikilink") |
 | 2020年3月号 (407号) | [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink") | 専属モデル以外                                                                 |
+| 2020年4月号 (408号) | 藤井流星                                                            | 専属モデル以外                                                                 |
+| 2020年5月号 (409号) | 伊野尾慧                                                            | 専属モデル以外                                                                 |
 
 ## FINEBOYS専属モデルオーディション
 
@@ -136,19 +138,19 @@
 
 [Category:男性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:男性向けファッション雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink") [Category:1986年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1986年創刊の雑誌 "wikilink")
 
-1.  「7月号予告」『[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")』2014年6月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、188頁
-2.  『[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")』公式Twitter [2016年2月9日の発言](https://twitter.com/FINEBOYS_JP/status/697277898965676032)
+1.  「7月号予告」『[FINEBOYS](../Page/FINEBOYS.md "wikilink")』2014年6月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、188頁
+2.  『[FINEBOYS](../Page/FINEBOYS.md "wikilink")』公式Twitter [2016年2月9日の発言](https://twitter.com/FINEBOYS_JP/status/697277898965676032)
 3.
 4.
-5.  「第16回専属モデルオーディション、結果発表！専属モデルに決定したのは鈴木志遠くんと青木悠くん！」『**[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")**』第404巻2019年12月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、 64頁。
+5.  「第16回専属モデルオーディション、結果発表！専属モデルに決定したのは鈴木志遠くんと青木悠くん！」『**[FINEBOYS](../Page/FINEBOYS.md "wikilink")**』第404巻2019年12月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、 64頁。
 6.
 7.   インタビュー {{\!}} FINEBOYS Online|url=[https://fineboys-online.jp/interview/detail.php?id=2280\&p=1|website=FINEBOYS](https://fineboys-online.jp/interview/detail.php?id=2280&p=1%7Cwebsite=FINEBOYS) Online｜ファインボーイズオンライン|accessdate=2020-03-05|language=ja}}
-8.  「FINEBOYS専属モデルは日向 隆くんに決定\!」『**[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")**』2015年1月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")。
-9.  「1万字で振り返る4年間。杉野遥亮、専属モデルの総論」『**[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")**』第404巻2019年12月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、 91頁。
+8.  「FINEBOYS専属モデルは日向 隆くんに決定\!」『**[FINEBOYS](../Page/FINEBOYS.md "wikilink")**』2015年1月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")。
+9.  「1万字で振り返る4年間。杉野遥亮、専属モデルの総論」『**[FINEBOYS](../Page/FINEBOYS.md "wikilink")**』第404巻2019年12月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、 91頁。
 10.
 11.
 12.  Johnny's net|url=[https://www.johnnys-net.jp/page?id=bio\&artist=32\&year=2010\&lang=ko_kr|website=ジャニーズ事務所公式サイト「Johnny's](https://www.johnnys-net.jp/page?id=bio&artist=32&year=2010&lang=ko_kr%7Cwebsite=ジャニーズ事務所公式サイト「Johnny's) net」|accessdate=2020-03-05|language=ja}}
-13. 「ありがとう、“男前”な中島裕翔。」『[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")』第371巻2017年3月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、 120-123頁。
+13. 「ありがとう、“男前”な中島裕翔。」『[FINEBOYS](../Page/FINEBOYS.md "wikilink")』第371巻2017年3月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")、 120-123頁。
 14.
 15.  FINEBOYS Online|url=[https://fineboys-online.jp/magazine/|website=FINEBOYS](https://fineboys-online.jp/magazine/%7Cwebsite=FINEBOYS) Online｜ファインボーイズオンライン|accessdate=2020-03-05|language=ja}}
 16.  Magazine {{\!}} FINEBOYS Online|url=[https://fineboys-online.jp/magazine/detail.php?id=784|website=FINEBOYS](https://fineboys-online.jp/magazine/detail.php?id=784%7Cwebsite=FINEBOYS) Online｜ファインボーイズオンライン|accessdate=2020-03-05|language=ja}}
@@ -159,6 +161,6 @@
 21.
 22.
 23.
-24. 「第13回FINEBOYS専属モデルオーディションの結果発表\! 専属モデルに決定したのは江本光輝くんと小島義雅くん」『**[FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")**』2016年11月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")。
+24. 「第13回FINEBOYS専属モデルオーディションの結果発表\! 専属モデルに決定したのは江本光輝くんと小島義雅くん」『**[FINEBOYS](../Page/FINEBOYS.md "wikilink")**』2016年11月号、[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")。
 25.
 26.

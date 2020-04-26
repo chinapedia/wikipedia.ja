@@ -40,6 +40,7 @@
 ## 外部リンク
 
   - [ニュース](https://www.home-tv.co.jp/news/) - 広島ホームテレビ
-  - [Yahoo\!ニュース HOME広島ホームテレビ](https://news.yahoo.co.jp/media/hometvv)
+  - [Yahoo\!ニュース HOME広島ホームテレビ](https://news.yahoo.co.jp/media/hometvv) - 動画配信あり
+  - [gooニュース 広島ホームテレビ](https://news.goo.ne.jp/publisher/home_tv/) - 動画配信なし
 
 [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:1970年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1970年のテレビ番組_\(日本\) "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:ANNニュースレーダー](https://ja.wikipedia.org/wiki/Category:ANNニュースレーダー "wikilink") [Category:600ステーション・530ステーション](https://ja.wikipedia.org/wiki/Category:600ステーション・530ステーション "wikilink") [Category:ステーションEYE](https://ja.wikipedia.org/wiki/Category:ステーションEYE "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

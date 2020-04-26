@@ -18,7 +18,7 @@
   - [持田真樹](https://ja.wikipedia.org/wiki/持田真樹 "wikilink")
   - [藤田香織](../Page/藤田香織.md "wikilink")
   - [河野由佳](../Page/河野由佳.md "wikilink")
-  - 宝田絢子
+  - [宝田絢子](../Page/宝田絢子.md "wikilink")
   - [三輪優子](https://ja.wikipedia.org/wiki/三輪優子 "wikilink")
 
 <!-- end list -->
@@ -277,7 +277,7 @@
 <!-- end list -->
 
   - [松田彩香](../Page/松田彩香.md "wikilink")
-  - 坂田知美
+  - [坂田知美](../Page/坂田知美.md "wikilink")
   - [齊藤彩](https://ja.wikipedia.org/wiki/齊藤彩_\(子役\) "wikilink")
   - 高橋祐月
   - [田川惠理](../Page/田川惠理.md "wikilink")

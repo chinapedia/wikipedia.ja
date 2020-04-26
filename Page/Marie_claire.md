@@ -1,7 +1,7 @@
 > この記事は[Marie claire](https://ja.wikipedia.org/wiki/Marie_claire)から翻訳されています。
 
 
-**Marie Claire**（マリ・クレール）は、フランスで創刊され、現在は各国語で出版されている月刊[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。事業としては[アシェット・フィリパッキ・メディア](https://ja.wikipedia.org/wiki/アシェット・フィリパッキ・メディア "wikilink")が保有する。
+**marie claire**（マリ・クレール）は、フランスで創刊され、現在は各国語で出版されている月刊[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。事業としては[アシェット・フィリパッキ・メディア](https://ja.wikipedia.org/wiki/アシェット・フィリパッキ・メディア "wikilink")が保有する。
 
 同名のファッションブランドも存在する。
 

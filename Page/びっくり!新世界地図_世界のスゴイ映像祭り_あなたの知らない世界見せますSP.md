@@ -1,7 +1,7 @@
-> この記事は[!  SP](https://ja.wikipedia.org/wiki/!__SP)から翻訳されています。
+> この記事は[びっくり!新世界地図 世界のスゴイ映像祭り あなたの知らない世界見せますSP](https://ja.wikipedia.org/wiki/びっくり!新世界地図_世界のスゴイ映像祭り_あなたの知らない世界見せますSP)から翻訳されています。
 
 
-『**びっくり\!新世界地図 世界のスゴイ映像祭り あなたの知らない世界見せますSP**』（びっくり\!しんせかいちず せかいのスゴイえいぞうまつり あなたのしらないせかいみせますスペシャル）は、[日本テレビ系列で放送されていた不定期](../Page/日本テレビ放送網.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。
+『**びっくり\!新世界地図 世界のスゴイ映像祭り あなたの知らない世界見せますSP**』（びっくり\!しんせかいちず せかいのスゴイえいぞうまつり あなたのしらないせかいみせますスペシャル）は、[日本テレビ系列で放送されていた不定期](../Page/日本テレビ放送網.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特別番組](../Page/特別番組.md "wikilink")。
 
 ## 概要
 
@@ -9,15 +9,15 @@
 
 ## 出演者
 
-  - MC : [加藤浩次](https://ja.wikipedia.org/wiki/加藤浩次 "wikilink")
-  - レギュラー : [沢村一樹](https://ja.wikipedia.org/wiki/沢村一樹 "wikilink")、[志村玲那](../Page/志村玲那.md "wikilink")
-  - 天の声 : [山里亮太](https://ja.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
+  - MC : [加藤浩次](../Page/加藤浩次.md "wikilink")
+  - レギュラー : [沢村一樹](../Page/沢村一樹.md "wikilink")、[志村玲那](../Page/志村玲那.md "wikilink")
+  - 天の声 : [山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")）
   - ナレーター : [松本ともこ](../Page/松本ともこ.md "wikilink")、[石川英郎](../Page/石川英郎.md "wikilink")
 
 ### ゲスト
 
-  - 第2回 : [関根勤](../Page/関根勤.md "wikilink")、[松居一代](https://ja.wikipedia.org/wiki/松居一代 "wikilink")、[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")
-  - 第3回 : [うつみ宮土理](https://ja.wikipedia.org/wiki/うつみ宮土理 "wikilink")、[高橋ジョージ](https://ja.wikipedia.org/wiki/高橋ジョージ "wikilink")、[ベッキー](https://ja.wikipedia.org/wiki/ベッキー "wikilink")
+  - 第2回 : [関根勤](../Page/関根勤.md "wikilink")、[松居一代](../Page/松居一代.md "wikilink")、[若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")
+  - 第3回 : [うつみ宮土理](../Page/うつみ宮土理.md "wikilink")、[高橋ジョージ](https://ja.wikipedia.org/wiki/高橋ジョージ "wikilink")、[ベッキー](../Page/ベッキー.md "wikilink")
 
 ## 放送日・時間・視聴率
 
@@ -27,7 +27,7 @@
 
 ## スタッフ
 
-  - 企画構成 : [小野高義](https://ja.wikipedia.org/wiki/小野高義 "wikilink")、[都築浩](https://ja.wikipedia.org/wiki/都築浩 "wikilink")
+  - 企画構成 : [小野高義](https://ja.wikipedia.org/wiki/小野高義 "wikilink")、[都築浩](../Page/都築浩.md "wikilink")
   - リサーチ : 今別府亮・金田佑馬・三橋力（[フォーミュレーション](../Page/フォーミュレーション.md "wikilink")）
   - TM : 江村多加司
   - SW : 高梨正利
@@ -38,7 +38,7 @@
   - 美術 : 高野豊
   - 美術デザイン : [高野雅裕](https://ja.wikipedia.org/wiki/高野雅裕 "wikilink")
   - モニター : 大江房夫
-  - VTR編集 : 瀧川賢一（[麻布プラザ](https://ja.wikipedia.org/wiki/麻布プラザ "wikilink")）
+  - VTR編集 : 瀧川賢一（[麻布プラザ](../Page/麻布プラザ.md "wikilink")）
   - MA : 番匠康雄
   - 音効 : 森山顕仁
   - TK : 井﨑綾子
@@ -52,7 +52,7 @@
   - 演出 : 大熊義紹、花岡圭一郎、長久弦
   - プロデューサー : 北條伸樹、宮本靖広
   - 企画・総合演出・プロデュース : 栗原甚
-  - チーフプロデューサー : [菅賢治](https://ja.wikipedia.org/wiki/菅賢治 "wikilink")
+  - チーフプロデューサー : [菅賢治](../Page/菅賢治.md "wikilink")
   - 協力 : [Google](../Page/Google.md "wikilink")
   - 制作協力 : [AX-ON](../Page/日テレアックスオン.md "wikilink")（2007年1月1日放送では『[日テレ映像センター](https://ja.wikipedia.org/wiki/NTV映像センター "wikilink")』と表記）
   - 製作著作 : 日テレ

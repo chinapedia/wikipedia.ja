@@ -100,7 +100,7 @@ Akina Nakamori Special Live 2005 Empress at CLUB eXは、2005年7月7日から20
 
   - [「歌姫〜UTAHIME〜Akina Nakamori Special Live 2005 Empress CLUB eX」 : 中森明菜 : avex network](http://avexnet.jp/id/nakaa/discography/product/AVBC-22458.html)
 
-[Category:中森明菜のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:中森明菜のコンサート・ツアー "wikilink") [Category:2005年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2005年のコンサート・ツアー "wikilink") [Category:2005年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2005年の日本の音楽 "wikilink") [Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:中森明菜のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:中森明菜のコンサート・ツアー "wikilink") [Category:2005年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2005年のコンサート・ツアー "wikilink") [Category:2005年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2005年の日本の音楽 "wikilink") [Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> この記事は[R \(\)](https://ja.wikipedia.org/wiki/R_\(\))から翻訳されています。
+> この記事は[R級潜水艦 \(アメリカ海軍\)](https://ja.wikipedia.org/wiki/R級潜水艦_\(アメリカ海軍\))から翻訳されています。
 
 
 | R級潜水艦                                                             |

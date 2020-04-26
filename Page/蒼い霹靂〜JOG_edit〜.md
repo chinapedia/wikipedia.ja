@@ -1,7 +1,7 @@
-> この記事は[JOG edit](https://ja.wikipedia.org/wiki/JOG_edit)から翻訳されています。
+> この記事は[蒼い霹靂〜JOG edit〜](https://ja.wikipedia.org/wiki/蒼い霹靂〜JOG_edit〜)から翻訳されています。
 
 
-「**蒼い霹靂 〜JOG edit〜**」（あおいへきれき ジョグ・エディット）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の7枚目のシングル。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink") [エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）。
+「**蒼い霹靂 〜JOG edit〜**」（あおいへきれき ジョグ・エディット）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")にリリースされた[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の7枚目のシングル。発売元は[アンティノスレコード](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 概要
 
@@ -31,6 +31,6 @@
 
 <references/>
 
-[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.

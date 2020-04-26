@@ -1,9 +1,9 @@
-> この記事は[FairChild --](https://ja.wikipedia.org/wiki/FairChild_--)から翻訳されています。
+> この記事は[FairChild -フェアチャイルド-](https://ja.wikipedia.org/wiki/FairChild_-フェアチャイルド-)から翻訳されています。
 
 
 『**FairChild**』は、[Windows上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")ソフト。
 
-[2007年](../Page/2007年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")、有限会社[彩牙](https://ja.wikipedia.org/wiki/彩牙 "wikilink")のブランド・[ALcot](https://ja.wikipedia.org/wiki/ALcot "wikilink")より発売された。
+[2007年](../Page/2007年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")、有限会社[彩牙](https://ja.wikipedia.org/wiki/彩牙 "wikilink")のブランド・[ALcot](../Page/ALcot.md "wikilink")より発売された。
 
 ## 解説
 
@@ -31,28 +31,28 @@
 <!-- end list -->
 
   - 藍沢 とばり(あいざわ とばり)
-    声：[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")
+    声：[成瀬未亜](../Page/成瀬未亜.md "wikilink")
     誕生日:[10月24日](../Page/10月24日.md "wikilink")。身長:142cm。スリーサイズ:B69/W46/H72。B型。
     恋鳥の幼馴染である名家の令嬢。任侠映画とかわいいものが好き。
 
 <!-- end list -->
 
   - 日菜森 こころ(ひなもり こころ)
-    声：[安玖深音](https://ja.wikipedia.org/wiki/安玖深音 "wikilink")
+    声：[安玖深音](../Page/安玖深音.md "wikilink")
     誕生日:[7月1日](../Page/7月1日.md "wikilink")。身長:157cm。スリーサイズ:B79/W54/H77。O型。
     一樹の年上の幼馴染。3年前に母親を亡くして以来、家事をこなしている。
 
 <!-- end list -->
 
   - 有栖川 悠姫(ありすがわ ゆうひ)
-    声：[遠野そよぎ](https://ja.wikipedia.org/wiki/遠野そよぎ "wikilink")
+    声：[遠野そよぎ](../Page/遠野そよぎ.md "wikilink")
     誕生日:[4月30日](../Page/4月30日.md "wikilink")。身長:154cm。スリーサイズ:B77/W56/H78。A型。
     一樹の同級生。クールな性格ゆえ近寄りがたい雰囲気を放つが、実際はおせっかいな人物でもある。
 
 <!-- end list -->
 
   - 加賀見 朔夜(かがみ さくや)
-    声：[佐本二厘](https://ja.wikipedia.org/wiki/佐本二厘 "wikilink")
+    声：[佐本二厘](../Page/佐本二厘.md "wikilink")
     誕生日:[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")。身長:158cm。スリーサイズ:B72/W50/H76。AB型。
     こころの同級生。
 
@@ -64,12 +64,12 @@
 <!-- end list -->
 
   - 羽住 美琴(はずみ みこと)
-    声：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink")
+    声：[まきいづみ](../Page/まきいづみ.md "wikilink")
 
 <!-- end list -->
 
   - 日菜森 真白(ひなもり ましろ)
-    声：[中澤アユム](https://ja.wikipedia.org/wiki/中澤アユム "wikilink")
+    声：[中澤アユム](../Page/中澤アユム.md "wikilink")
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 <!-- end list -->
 
   - 麻生 水瀬(あそう みなせ)
-    声：[倉田まりや](https://ja.wikipedia.org/wiki/倉田まりや "wikilink")
+    声：[倉田まりや](../Page/倉田まりや.md "wikilink")
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
   - プロジェクトマネージャ：[河原巽](https://ja.wikipedia.org/wiki/河原巽 "wikilink")
   - シナリオ：[宮蔵](https://ja.wikipedia.org/wiki/宮蔵 "wikilink")・[時乃](https://ja.wikipedia.org/wiki/時乃 "wikilink")・[空下元](https://ja.wikipedia.org/wiki/空下元 "wikilink")
   - 原画：[仁村有志](https://ja.wikipedia.org/wiki/仁村有志 "wikilink")・[蒼魚真青](https://ja.wikipedia.org/wiki/蒼魚真青 "wikilink")・[コミズミコ](https://ja.wikipedia.org/wiki/コミズミコ "wikilink")
-  - 音楽：[Manack](https://ja.wikipedia.org/wiki/Manack "wikilink")・[戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink")・[MANYO](../Page/MANYO.md "wikilink")
+  - 音楽：[Manack](https://ja.wikipedia.org/wiki/Manack "wikilink")・[戸越まごめ](../Page/戸越まごめ.md "wikilink")・[MANYO](../Page/MANYO.md "wikilink")
   - ムービー：[ぱきら](https://ja.wikipedia.org/wiki/ぱきら "wikilink")
 
 ## 主題歌
@@ -125,9 +125,9 @@
 
   - イメージソング
     ; 「Twinkle Love」
-    : 歌：[YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink") / 作詞：[田島浩二](https://ja.wikipedia.org/wiki/田島浩二 "wikilink") / 作曲：[広瀬充寿](https://ja.wikipedia.org/wiki/広瀬充寿 "wikilink")
+    : 歌：[YURIA](../Page/YURIA.md "wikilink") / 作詞：[田島浩二](https://ja.wikipedia.org/wiki/田島浩二 "wikilink") / 作曲：[広瀬充寿](https://ja.wikipedia.org/wiki/広瀬充寿 "wikilink")
     ; 「Purest Days」
-    : 歌：[真理絵](https://ja.wikipedia.org/wiki/真理絵 "wikilink") / 作詞：神代あみ（Angel Note） / 作曲・編曲：不知火つばさ（Angel Note）
+    : 歌：[真理絵](../Page/真理絵.md "wikilink") / 作詞：神代あみ（Angel Note） / 作曲・編曲：不知火つばさ（Angel Note）
 
 ## 公式HPでのキャンペーンやイベント等
 
@@ -191,7 +191,7 @@
 ## 関連商品
 
   - フェアチャイルドビジュアルファンブック 2008年5月発行 ISBN 978-4758011051
-  - [TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")　2018年11月号 付録として本作の製品版が収録されている。
+  - [TECH GIAN](../Page/TECH_GIAN.md "wikilink")　2018年11月号 付録として本作の製品版が収録されている。
 
 ## 外部リンク
 

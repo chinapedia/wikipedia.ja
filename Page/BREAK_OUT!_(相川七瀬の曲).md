@@ -1,4 +1,4 @@
-> この記事は[BREAK OUT! \(\)](https://ja.wikipedia.org/wiki/BREAK_OUT!_\(\))から翻訳されています。
+> この記事は[BREAK OUT! \(相川七瀬の曲\)](https://ja.wikipedia.org/wiki/BREAK_OUT!_\(相川七瀬の曲\))から翻訳されています。
 
 
 『**BREAK OUT\!**』（ブレイク・アウト）は、日本の女性歌手、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")の4枚目のシングル。

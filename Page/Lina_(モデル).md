@@ -1,7 +1,7 @@
-> この記事は[Lina \(\)](https://ja.wikipedia.org/wiki/Lina_\(\))から翻訳されています。
+> この記事は[Lina \(モデル\)](https://ja.wikipedia.org/wiki/Lina_\(モデル\))から翻訳されています。
 
 
-**Lina**（リナ、[8月2日](../Page/8月2日.md "wikilink")生）は、[中国](../Page/中華人民共和国.md "wikilink")・[吉林省](../Page/吉林省.md "wikilink")出身の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。所属事務所は[ニューフェイス](https://ja.wikipedia.org/wiki/ニューフェイス "wikilink")。中国国内でモデルとして活動した後、2005年6月に来日、その後活動の場を日本に移している。
+**Lina**（リナ、[8月2日](../Page/8月2日.md "wikilink")生）は、[中国](../Page/中華人民共和国.md "wikilink")・[吉林省](../Page/吉林省.md "wikilink")出身の[ファッションモデル](../Page/ファッションモデル.md "wikilink")。所属事務所は[ニューフェイス](https://ja.wikipedia.org/wiki/ニューフェイス "wikilink")。中国国内でモデルとして活動した後、2005年6月に来日、その後活動の場を日本に移している。
 
 ## 受賞歴
 

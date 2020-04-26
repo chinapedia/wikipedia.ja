@@ -1,4 +1,4 @@
-> この記事は[D.C.toEF ](https://ja.wikipedia.org/wiki/D.C.toEF_)から翻訳されています。
+> この記事は[D.C.toEF ラジオ](https://ja.wikipedia.org/wiki/D.C.toEF_ラジオ)から翻訳されています。
 
 
 『**D.C.toEF ラジオ**』（ディーシートゥーイーエフラジオ）は、[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")、[音泉](../Page/音泉.md "wikilink")にて配信された『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』『[エターナルファンタジー](https://ja.wikipedia.org/wiki/エターナルファンタジー "wikilink")』関連の[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。で配信されていた『[D.C.II 〜ダ・カーポII〜 風見学園放送部](https://ja.wikipedia.org/wiki/D.C.II_〜ダ・カーポII〜_風見学園放送部 "wikilink")』の終了に伴い、同番組を引き継ぐような形で始まった。[アニスタ.TV](../Page/アニスタ.TV.md "wikilink")でも同時配信されていたが[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")配信分(第32回)をもってアニスタでの配信は中途終了した。

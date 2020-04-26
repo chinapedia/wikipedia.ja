@@ -1,15 +1,15 @@
-> この記事は[OG](https://ja.wikipedia.org/wiki/OG)から翻訳されています。
+> この記事は[スーパーロボット大戦OG外伝](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG外伝)から翻訳されています。
 
 
-『**スーパーロボット大戦OG外伝**』（スーパーロボットたいせんオージーがいでん）は、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[シミュレーションRPGである](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")。
+『**スーパーロボット大戦OG外伝**』（スーパーロボットたいせんオージーがいでん）は、[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[シミュレーションRPGである](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
 ## 概要
 
-「[スーパーロボット大戦シリーズ](https://ja.wikipedia.org/wiki/スーパーロボット大戦シリーズ "wikilink")」のカテゴリの一つである「OG（ORIGINAL GENERATION）シリーズ」の一作。『[スーパーロボット大戦OG ORIGINAL GENERATIONS](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ORIGINAL_GENERATIONS "wikilink")』（以下、『OGS』）の続編にあたる。**全36話**。「[日本ゲーム大賞](https://ja.wikipedia.org/wiki/日本ゲーム大賞 "wikilink")2007」フューチャー部門受賞作品\[1\]。
+「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」のカテゴリの一つである「OG（ORIGINAL GENERATION）シリーズ」の一作。『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』（以下、『OGS』）の続編にあたる。**全36話**。「[日本ゲーム大賞](../Page/日本ゲーム大賞.md "wikilink")2007」フューチャー部門受賞作品\[1\]。
 
-『OGS』に収録されていた「エピソード2.5」の完全版\[2\]に加え、カードゲーム「シャッフルバトラー」や戦闘シーンを閲覧できる「フリーバトル」を収録。OGシリーズの正当な続編だが、外伝と銘打たれている理由について、プロデューサーの[寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")は「シナリオ2.5」の完結作でしかないことと、ストーリーが短いためだと語っている\[3\]。当初はシャッフルバトラーとフリーバトルがメインのファンディスク的なものの予定だったが、『OGS』でのエピソード2.5への反響を受けてエピソード2.5を中心としたソフトにシフトした\[4\]。
+『OGS』に収録されていた「エピソード2.5」の完全版\[2\]に加え、カードゲーム「シャッフルバトラー」や戦闘シーンを閲覧できる「フリーバトル」を収録。OGシリーズの正当な続編だが、外伝と銘打たれている理由について、プロデューサーの[寺田貴信](../Page/寺田貴信.md "wikilink")は「シナリオ2.5」の完結作でしかないことと、ストーリーが短いためだと語っている\[3\]。当初はシャッフルバトラーとフリーバトルがメインのファンディスク的なものの予定だったが、『OGS』でのエピソード2.5への反響を受けてエピソード2.5を中心としたソフトにシフトした\[4\]。
 
-『OGS』同様、特定の主人公は存在していないが、コウタ・アズマとロア、ラウル・グレーデン、フォルカ・アルバークが主軸となって物語は進行する。また、『OGS』には登場しなかった『[スーパーロボット大戦MX](https://ja.wikipedia.org/wiki/スーパーロボット大戦MX "wikilink")』のキャラクターや『[第3次スーパーロボット大戦α 終焉の銀河へ](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦α_終焉の銀河へ "wikilink")』のトウマ・カノウらがゲスト出演している。
+『OGS』同様、特定の主人公は存在していないが、コウタ・アズマとロア、ラウル・グレーデン、フォルカ・アルバークが主軸となって物語は進行する。また、『OGS』には登場しなかった『[スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")』のキャラクターや『[第3次スーパーロボット大戦α 終焉の銀河へ](../Page/第3次スーパーロボット大戦α_終焉の銀河へ.md "wikilink")』のトウマ・カノウらがゲスト出演している。
 
 ## あらすじ
 
@@ -25,35 +25,35 @@
 
   - スーパーロボット大戦シリーズ（ゲーム作品）
       - DC戦争シリーズ
-          - [第2次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦 "wikilink")
-          - [第3次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦 "wikilink")
-          - [第4次スーパーロボット大戦](https://ja.wikipedia.org/wiki/第4次スーパーロボット大戦 "wikilink")
-          - [スーパーロボット大戦F](https://ja.wikipedia.org/wiki/スーパーロボット大戦F "wikilink")/完結編
+          - [第2次スーパーロボット大戦](../Page/第2次スーパーロボット大戦.md "wikilink")
+          - [第3次スーパーロボット大戦](../Page/第3次スーパーロボット大戦.md "wikilink")
+          - [第4次スーパーロボット大戦](../Page/第4次スーパーロボット大戦.md "wikilink")
+          - [スーパーロボット大戦F](../Page/スーパーロボット大戦F.md "wikilink")/完結編
       - αシリーズ
-          - [スーパーロボット大戦α](https://ja.wikipedia.org/wiki/スーパーロボット大戦α "wikilink")
-          - [スーパーロボット大戦α外伝](https://ja.wikipedia.org/wiki/スーパーロボット大戦α外伝 "wikilink")
-          - [第2次スーパーロボット大戦α](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦α "wikilink")
-          - [第3次スーパーロボット大戦α 終焉の銀河へ](https://ja.wikipedia.org/wiki/第3次スーパーロボット大戦α_終焉の銀河へ "wikilink")
+          - [スーパーロボット大戦α](../Page/スーパーロボット大戦α.md "wikilink")
+          - [スーパーロボット大戦α外伝](../Page/スーパーロボット大戦α外伝.md "wikilink")
+          - [第2次スーパーロボット大戦α](../Page/第2次スーパーロボット大戦α.md "wikilink")
+          - [第3次スーパーロボット大戦α 終焉の銀河へ](../Page/第3次スーパーロボット大戦α_終焉の銀河へ.md "wikilink")
       - COMPACTシリーズ
-          - [スーパーロボット大戦COMPACT2](https://ja.wikipedia.org/wiki/スーパーロボット大戦COMPACT2 "wikilink")
-          - [スーパーロボット大戦COMPACT3](https://ja.wikipedia.org/wiki/スーパーロボット大戦COMPACT3 "wikilink")
-          - [スーパーロボット大戦IMPACT](https://ja.wikipedia.org/wiki/スーパーロボット大戦IMPACT "wikilink")
+          - [スーパーロボット大戦COMPACT2](../Page/スーパーロボット大戦COMPACT2.md "wikilink")
+          - [スーパーロボット大戦COMPACT3](../Page/スーパーロボット大戦COMPACT3.md "wikilink")
+          - [スーパーロボット大戦IMPACT](../Page/スーパーロボット大戦IMPACT.md "wikilink")
       - 任天堂携帯機シリーズ
-          - [スーパーロボット大戦A](https://ja.wikipedia.org/wiki/スーパーロボット大戦A "wikilink")
-          - [スーパーロボット大戦R](https://ja.wikipedia.org/wiki/スーパーロボット大戦R "wikilink")
-      - [魔装機神シリーズ](https://ja.wikipedia.org/wiki/魔装機神シリーズ "wikilink")
-      - [新スーパーロボット大戦](https://ja.wikipedia.org/wiki/新スーパーロボット大戦 "wikilink")
-      - ☆[スーパーロボット大戦MX](https://ja.wikipedia.org/wiki/スーパーロボット大戦MX "wikilink")
-      - [スーパーロボット大戦Scramble Commander](https://ja.wikipedia.org/wiki/スーパーロボット大戦Scramble_Commander "wikilink")
+          - [スーパーロボット大戦A](../Page/スーパーロボット大戦A.md "wikilink")
+          - [スーパーロボット大戦R](../Page/スーパーロボット大戦R.md "wikilink")
+      - [魔装機神シリーズ](../Page/魔装機神シリーズ.md "wikilink")
+      - [新スーパーロボット大戦](../Page/新スーパーロボット大戦.md "wikilink")
+      - ☆[スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")
+      - [スーパーロボット大戦Scramble Commander](../Page/スーパーロボット大戦Scramble_Commander.md "wikilink")
   - スーパーロボット大戦シリーズ（メディア作品）
-      - [スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION "wikilink")
-      - [スーパーロボット大戦OG -ディバイン・ウォーズ-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ディバイン・ウォーズ- "wikilink")
+      - [スーパーロボット大戦ORIGINAL GENERATION THE ANIMATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION_THE_ANIMATION.md "wikilink")
+      - [スーパーロボット大戦OG -ディバイン・ウォーズ-](../Page/スーパーロボット大戦OG_-ディバイン・ウォーズ-.md "wikilink")
       - [スーパーロボット大戦OGクロニクル](https://ja.wikipedia.org/wiki/スーパーロボット大戦OGクロニクル "wikilink")
-  - [コンパチヒーローシリーズ](https://ja.wikipedia.org/wiki/コンパチヒーローシリーズ "wikilink")
+  - [コンパチヒーローシリーズ](../Page/コンパチヒーローシリーズ.md "wikilink")
       - [グレイトバトルシリーズ](https://ja.wikipedia.org/wiki/コンパチヒーローシリーズ#グレイトバトルシリーズ "wikilink")
-      - [ヒーロー戦記 プロジェクト オリュンポス](https://ja.wikipedia.org/wiki/ヒーロー戦記_プロジェクト_オリュンポス "wikilink")
+      - [ヒーロー戦記 プロジェクト オリュンポス](../Page/ヒーロー戦記_プロジェクト_オリュンポス.md "wikilink")
   - その他
-      - [スーパーロボットスピリッツ](https://ja.wikipedia.org/wiki/スーパーロボットスピリッツ "wikilink")
+      - [スーパーロボットスピリッツ](../Page/スーパーロボットスピリッツ.md "wikilink")
 
 ### パッケージ登場機体
 
@@ -88,7 +88,7 @@
 ## スタッフ
 
   - プロデューサー
-    [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+    [寺田貴信](../Page/寺田貴信.md "wikilink")
     宇田歩
     じっぱひとからげ
   - ディレクター
@@ -98,22 +98,22 @@
     青海研一
     石神井練太郎
   - オリジナルメカニックデザイン
-    [宮武一貴](https://ja.wikipedia.org/wiki/宮武一貴 "wikilink")
-    [カトキハジメ](https://ja.wikipedia.org/wiki/カトキハジメ "wikilink")
-    [大張正己](https://ja.wikipedia.org/wiki/大張正己 "wikilink")
-    [大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")
+    [宮武一貴](../Page/宮武一貴.md "wikilink")
+    [カトキハジメ](../Page/カトキハジメ.md "wikilink")
+    [大張正己](../Page/大張正己.md "wikilink")
+    [大河原邦男](../Page/大河原邦男.md "wikilink")
     斉藤和衛
     青木健太
     藤井大誠（レイ・アップ）
     大輪充
     守谷淳一
-    [富士原昌幸](https://ja.wikipedia.org/wiki/富士原昌幸 "wikilink")
-    [津島直人](https://ja.wikipedia.org/wiki/津島直人 "wikilink")
+    [富士原昌幸](../Page/富士原昌幸.md "wikilink")
+    [津島直人](../Page/津島直人.md "wikilink")
     [Mがんぢー](https://ja.wikipedia.org/wiki/Mがんぢー "wikilink")
     射尾卓弥
     間垣亮太
     高倉武史
-    [八房龍之助](https://ja.wikipedia.org/wiki/八房龍之助 "wikilink")
+    [八房龍之助](../Page/八房龍之助.md "wikilink")
     杉浦俊朗
     安藤弘
     小野聖二
@@ -134,7 +134,7 @@
 
 『OGS』と同様。主題歌「Rocks」は、本作でアレンジバージョン「Rocks（Ver.OG）」が最終ステージのBGMとして収録された。ただし「Rocks（Ver.OG）」は『ジ・インスペクター』のサウンドトラックには収録されていない。
 
-どちらも[JAM Projectが担当](https://ja.wikipedia.org/wiki/JAM_Project "wikilink")。
+どちらも[JAM Projectが担当](../Page/JAM_Project.md "wikilink")。
 
   - OP「Rocks」
   - ED「Portal」
@@ -144,7 +144,7 @@
 ### テレビCM
 
   - 阿修羅編
-    [フォルカ・アルバーク役の](../Page/修羅_\(バンプレストオリジナル\).md "wikilink")[松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")が「地球圏を切り裂く巨大な剣〜」とナレーションを行いながらゲーム映像を見せるもの。
+    [フォルカ・アルバーク役の](../Page/修羅_\(バンプレストオリジナル\).md "wikilink")[松本保典](../Page/松本保典.md "wikilink")が「地球圏を切り裂く巨大な剣〜」とナレーションを行いながらゲーム映像を見せるもの。
   - 目撃編
     ソーディアンをバックに「結末を目撃せよ。」という文字が表示された後、ゲームの映像が流れてくるというもの。
 
@@ -168,7 +168,7 @@
 ### CD
 
   - スーパーロボット大戦OG ジ・インスペクター オリジナルサウンドトラック
-    2011年3月23日発売 [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+    2011年3月23日発売 [ランティス](../Page/ランティス.md "wikilink")
     本作では『OGS』の曲に加え追加のBGMが収録されたが、単独のサウンドトラックは発売されず[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")』のサウンドトラックにボーナストラックとしてその一部が収録された。
 
 ## 脚注
@@ -187,7 +187,7 @@
 
 1.
 2.  ゲームバランスの調整やシナリオ、一部キャラクターのグラフィック、戦闘演出、BGMの追加がされている。
-3.  『[ゲーマガ](https://ja.wikipedia.org/wiki/ゲーマガ "wikilink")』2008年 2月号 88-91ページ。
+3.  『[ゲーマガ](../Page/ゲーマガ.md "wikilink")』2008年 2月号 88-91ページ。
 4.
 5.  シナリオ2.5にしか登場しないユニットのカードは一度本編をクリアしないと入手不可。
 6.

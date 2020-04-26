@@ -1,7 +1,7 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[江豆町ブリトビラロマンSF](https://ja.wikipedia.org/wiki/江豆町ブリトビラロマンSF)から翻訳されています。
 
 
-『**江豆町ブリトビラロマンSF**』（えずまちぶりとびらろまんえすえふ）は[小田扉](../Page/小田扉.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「ブリトビラロマン」のタイトルで「[QuickJapan](https://ja.wikipedia.org/wiki/QuickJapan "wikilink")」（[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")）[2002年](../Page/2002年.md "wikilink")から連載され、[2004年](../Page/2004年.md "wikilink")に単行本化された。[2016年](../Page/2016年.md "wikilink")には、描きおろし数頁を加えた『完全版』が刊行されている。
+『**江豆町ブリトビラロマンSF**』（えずまちぶりとびらろまんえすえふ）は[小田扉](../Page/小田扉.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「ブリトビラロマン」のタイトルで「[QuickJapan](https://ja.wikipedia.org/wiki/QuickJapan "wikilink")」（[太田出版](../Page/太田出版.md "wikilink")）[2002年](../Page/2002年.md "wikilink")から連載され、[2004年](../Page/2004年.md "wikilink")に単行本化された。[2016年](../Page/2016年.md "wikilink")には、描きおろし数頁を加えた『完全版』が刊行されている。
 
 ## 概要
 
@@ -61,7 +61,7 @@
 
 ## 単行本
 
-  - [小田扉](../Page/小田扉.md "wikilink") 『江豆町―ブリトビラロマンSF』 [太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")、ISBN 978-4-87-233856-0
-  - [小田扉](../Page/小田扉.md "wikilink") 『完全版 江豆町―ブリトビラロマンSF』 [太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")、ISBN 978-4-77-832270-0
+  - [小田扉](../Page/小田扉.md "wikilink") 『江豆町―ブリトビラロマンSF』 [太田出版](../Page/太田出版.md "wikilink")、ISBN 978-4-87-233856-0
+  - [小田扉](../Page/小田扉.md "wikilink") 『完全版 江豆町―ブリトビラロマンSF』 [太田出版](../Page/太田出版.md "wikilink")、ISBN 978-4-77-832270-0
 
 [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:雑誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:雑誌掲載漫画作品 "wikilink")

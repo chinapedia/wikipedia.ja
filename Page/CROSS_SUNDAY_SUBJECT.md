@@ -15,7 +15,7 @@
         この番組のメインナビゲーター。同局では前番組「[CROSS SUNDAY VIEWS](../Page/CROSS_SUNDAY_VIEWS.md "wikilink")」から引き続き担当。
   - [長谷川弘志](../Page/長谷川弘志.md "wikilink")
       -
-        この番組ではレギュラーコメンテーターを務める。以前「長谷川ひろし」の名で[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を務めていた。また同局ではここ数年、コメンテーターとして他の番組で出演していた。
+        この番組ではレギュラーコメンテーターを務める。以前「長谷川ひろし」の名で[KBCラジオ](../Page/KBCラジオ.md "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を務めていた。また同局ではここ数年、コメンテーターとして他の番組で出演していた。
 
 ## コーナー
 

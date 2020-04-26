@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBIフューチャーズ](https://ja.wikipedia.org/wiki/SBIフューチャーズ)から翻訳されています。
 
 
 **SBIフューチャーズ株式会社**（エスビーアイフューチャーズ）は、かつて存在した[外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")（FX）を行う[先物取引](../Page/先物取引.md "wikilink")会社。日本初のオンライン専業商品先物取引会社であった。

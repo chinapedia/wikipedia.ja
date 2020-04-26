@@ -1,7 +1,7 @@
 > この記事は[Navigatoria](https://ja.wikipedia.org/wiki/Navigatoria)から翻訳されています。
 
 
-『**Navigatoria**』（ナヴィガトリア）は[志方あきこ](https://ja.wikipedia.org/wiki/志方あきこ "wikilink")のメジャーデビューアルバム。[ハッツ・アンリミテッド](https://ja.wikipedia.org/wiki/ハッツ・アンリミテッド "wikilink")のレーベルより[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売。
+『**Navigatoria**』（ナヴィガトリア）は[志方あきこ](../Page/志方あきこ.md "wikilink")のメジャーデビューアルバム。[ハッツ・アンリミテッド](https://ja.wikipedia.org/wiki/ハッツ・アンリミテッド "wikilink")のレーベルより[2005年](../Page/2005年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")発売。
 
 ## 曲目
 
@@ -11,7 +11,7 @@
 
   -
     作編曲：志方あきこ　
-    \- [セイレーン](https://ja.wikipedia.org/wiki/セイレーン "wikilink")をイメージした曲。歌詞なし。
+    \- [セイレーン](../Page/セイレーン.md "wikilink")をイメージした曲。歌詞なし。
 
 <!-- end list -->
 
@@ -20,8 +20,8 @@
 <!-- end list -->
 
   -
-    作編曲：志方あきこ 作詞：[工藤順子](https://ja.wikipedia.org/wiki/工藤順子 "wikilink")
-    \- 表題曲。ナヴィガトリアは航海を導く星（[北極星](https://ja.wikipedia.org/wiki/ポラリス_\(恒星\) "wikilink")）の意。
+    作編曲：志方あきこ 作詞：[工藤順子](../Page/工藤順子.md "wikilink")
+    \- 表題曲。ナヴィガトリアは航海を導く星（[北極星](../Page/ポラリス_\(恒星\).md "wikilink")）の意。
 
 <!-- end list -->
 
@@ -108,6 +108,6 @@
 
   -
     作編曲：志方あきこ　作詞：Leonn
-    \- [シバの女王](https://ja.wikipedia.org/wiki/シバの女王 "wikilink")「マケダ」の意。前半[アムハラ語](https://ja.wikipedia.org/wiki/アムハラ語 "wikilink")コーラス。
+    \- [シバの女王](../Page/シバの女王.md "wikilink")「マケダ」の意。前半[アムハラ語](https://ja.wikipedia.org/wiki/アムハラ語 "wikilink")コーラス。
 
 [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink")

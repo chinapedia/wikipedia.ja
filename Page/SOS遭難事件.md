@@ -1,4 +1,4 @@
-> この記事は[SOS](https://ja.wikipedia.org/wiki/SOS)から翻訳されています。
+> この記事は[SOS遭難事件](https://ja.wikipedia.org/wiki/SOS遭難事件)から翻訳されています。
 
 
 **SOS遭難事件**（エスオーエスそうなんじけん）とは、[1989年](../Page/1989年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[大雪山](../Page/大雪山.md "wikilink")山系[旭岳](../Page/旭岳.md "wikilink")で確認された[遭難](../Page/遭難.md "wikilink")事件である。一部解明されなかった点が残ったものの、遭難者が特定され、事件としては一定の解決を見ている。

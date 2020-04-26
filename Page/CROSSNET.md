@@ -1,9 +1,9 @@
 > この記事は[CROSSNET](https://ja.wikipedia.org/wiki/CROSSNET)から翻訳されています。
 
 
-株式会社**クロスネット** (*CROSSNET*) は、かつて[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に存在していた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")制作会社。
+株式会社**クロスネット** (*CROSSNET*) は、かつて[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に存在していた[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")制作会社。
 
-株式会社[ライトスタッフの取締役を代表取締役として](https://ja.wikipedia.org/wiki/ライトスタッフ_\(ゲーム会社\) "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")西大井6丁目に設立。サブブランド「**EVE**」（イヴ）を抱え、外部の会社が開発したゲームを多く発売していたが、[2009年](../Page/2009年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に公式サイトは閉鎖された。公式サイト跡には閉鎖を知らせる一文が掲載されただけで、単なる閉鎖か事業自体からの撤退かは一切不明となっている。
+株式会社[ライトスタッフの取締役を代表取締役として](https://ja.wikipedia.org/wiki/ライトスタッフ_\(ゲーム会社\) "wikilink")、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")西大井6丁目に設立。サブブランド「**EVE**」（イヴ）を抱え、外部の会社が開発したゲームを多く発売していたが、[2009年](../Page/2009年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に公式サイトは閉鎖された。公式サイト跡には閉鎖を知らせる一文が掲載されただけで、単なる閉鎖か事業自体からの撤退かは一切不明となっている。
 
 傘下ブランドのApRicoT、Favorite、ωstarは独立しており、発売済み作品のユーザーサポートについてはApRicoTが行っている\[1\]。
 
@@ -31,7 +31,7 @@
 
 :\* [Maple Colors 2](https://ja.wikipedia.org/wiki/Maple_Colors_2 "wikilink")
 
-:\* [AYAKASHI](https://ja.wikipedia.org/wiki/AYAKASHI "wikilink")
+:\* [AYAKASHI](../Page/AYAKASHI.md "wikilink")
 
 :\*\* AYAKASHI H
 
@@ -43,7 +43,7 @@
 
 :\*\* ウィズ アニバーサリィー FUNTA\! feat.RURU
 
-:\* [はっぴぃ☆マーガレット\!](https://ja.wikipedia.org/wiki/はっぴぃ☆マーガレット! "wikilink")
+:\* [はっぴぃ☆マーガレット\!](../Page/はっぴぃ☆マーガレット!.md "wikilink")
 
 :\* [星空のメモリア -Wish upon a shooting star-](https://ja.wikipedia.org/wiki/星空のメモリア_-Wish_upon_a_shooting_star- "wikilink")
 
@@ -85,7 +85,7 @@
 
   - Crossnet VideoWorks（アルコ\&EVE）
 
-:\* [魔法戦士スイートナイツ 〜ヒロイン凌辱指令〜](https://ja.wikipedia.org/wiki/魔法戦士スイートナイツ "wikilink")
+:\* [魔法戦士スイートナイツ 〜ヒロイン凌辱指令〜](../Page/魔法戦士スイートナイツ.md "wikilink")
 
 ## 主なスタッフ
 
@@ -119,7 +119,7 @@
 
   - Crossnet-Pie、ωstar
 
-:\* [八宝備仁](https://ja.wikipedia.org/wiki/八宝備仁 "wikilink")（原画）
+:\* [八宝備仁](../Page/八宝備仁.md "wikilink")（原画）
 
 ## 備考
 

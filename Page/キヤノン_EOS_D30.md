@@ -1,4 +1,4 @@
-> この記事は[ EOS D30](https://ja.wikipedia.org/wiki/_EOS_D30)から翻訳されています。
+> この記事は[キヤノン EOS D30](https://ja.wikipedia.org/wiki/キヤノン_EOS_D30)から翻訳されています。
 
 
 [200px](https://ja.wikipedia.org/wiki/画像:Canon_EOS_D30.jpg "wikilink") **キヤノン EOS D30**（キヤノン イオス ディーさんじゅう）は、[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に発売された[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")の[デジタル一眼レフカメラである](../Page/一眼レフカメラ.md "wikilink")。

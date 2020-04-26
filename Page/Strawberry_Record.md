@@ -1,7 +1,7 @@
 > この記事は[Strawberry Record](https://ja.wikipedia.org/wiki/Strawberry_Record)から翻訳されています。
 
 
-**strawberry record**（ストロベリーレコード）は、日本の4人組[ポップス](../Page/ポピュラー音楽.md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")にて結成。長期の[自主制作](https://ja.wikipedia.org/wiki/自主制作 "wikilink")期間を経て、[2007年](../Page/2007年.md "wikilink")10月「milc」でメジャーデビュー。所属レコード会社は[CAMエンタテインメント](https://ja.wikipedia.org/wiki/CAMエンタテインメント "wikilink")。憂鬱をコンセプトの軸に置きながらも陰湿にはならず、[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")的な 楽曲を制作している。通称は**ストレコ**。
+**strawberry record**（ストロベリーレコード）は、日本の4人組[ポップス](../Page/ポピュラー音楽.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[埼玉県](../Page/埼玉県.md "wikilink")にて結成。長期の[自主制作](https://ja.wikipedia.org/wiki/自主制作 "wikilink")期間を経て、[2007年](../Page/2007年.md "wikilink")10月「milc」でメジャーデビュー。所属レコード会社は[CAMエンタテインメント](https://ja.wikipedia.org/wiki/CAMエンタテインメント "wikilink")。憂鬱をコンセプトの軸に置きながらも陰湿にはならず、[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")的な 楽曲を制作している。通称は**ストレコ**。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、高校時代バンドを組んでいた小町とともに、lahcimが同じ大学の石坂をスカウトする形でstrawberry recordを結成、音楽活動を開始する。以後約5年間で各5枚のシングル、アルバムを発表。その後、大手[レーベルからの](../Page/レコードレーベル.md "wikilink")[アプローチ](https://ja.wikipedia.org/wiki/アプローチ "wikilink")があるものの、lahcimが海外留学直前であるために見送り、その際に話を聞いた[プロデューサー](../Page/プロデューサー.md "wikilink")からのアドバイスを受けて、[2004年](../Page/2004年.md "wikilink")、lahcim不在ながらも小町･石坂はライブ活動を開始する。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、6thアルバム「nina」の発表を期に、ライブサポート、楽曲制作に参加していたmanaが正式にメンバーとして加入する。また、同年はオンライン上での活動拠点であったNEXT MUSIC japan主催のコンテスト「NEXT MUSIC AWARDS 2004 2nd Act」にて「nina」からの楽曲「GRETEL」の楽曲賞受賞、テクノ界の大御所と言われる[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")のイベントにゲストとして出演するなど、それまでで最も活動的な年となった。lahcim帰国後の[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")はメンバー加入による制作方法の見直しを図るため、楽曲制作に専念。10月に7thアルバム「mimeme」を発表する。
+[2005年](../Page/2005年.md "wikilink")、6thアルバム「nina」の発表を期に、ライブサポート、楽曲制作に参加していたmanaが正式にメンバーとして加入する。また、同年はオンライン上での活動拠点であったNEXT MUSIC japan主催のコンテスト「NEXT MUSIC AWARDS 2004 2nd Act」にて「nina」からの楽曲「GRETEL」の楽曲賞受賞、テクノ界の大御所と言われる[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")のイベントにゲストとして出演するなど、それまでで最も活動的な年となった。lahcim帰国後の[2006年](../Page/2006年.md "wikilink")はメンバー加入による制作方法の見直しを図るため、楽曲制作に専念。10月に7thアルバム「mimeme」を発表する。
 
 [2007年](../Page/2007年.md "wikilink")、「NEXT MUSIC AWARDS 2006 2nd Act」において「mimeme」からの楽曲「君が最強」がグランプリを獲得。これをきっかけに、同年10月10日「milc」にてメジャーデビューを果たす。なお、メジャーデビューに際し、自主制作盤の販売を停止している。
 
@@ -55,7 +55,7 @@
 
   - 7月　6thシングル「終わりの花」発売。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+[2005年](../Page/2005年.md "wikilink")
 
   - 1月　6thアルバム「nina」発売。サポートギターとしてライブ、アルバム制作に参加していたmanaが正式メンバーとして加入。
   - 4月　インディーズコミュニティサイト　NEXT MUSIC Japan「NEXT MUSIC AWARDS 2004 2nd Act」において「GRETEL」が楽曲賞を受賞。
@@ -63,7 +63,7 @@
   - 9月　サエキけんぞうの定期イベント「テクノエレガンス vol.11」にゲスト出演。
   - 11月　2年の留学期間を終え、lahcimが日本に帰国。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+[2006年](../Page/2006年.md "wikilink")
 
   - 1月　7thシングル「怒号の果て（リメイク）」発売。
   - 10月　7thアルバム「mimeme」発売。
@@ -254,6 +254,6 @@
 ## 外部リンク
 
   - [strawberry record オフィシャルサイト](http://www.strawberryrecord.com/)
-  - [壱語記録〜ストレコのブログ〜 オフィシャルブログ](http://ameblo.jp/strawberryrecord/)
+  - [壱語記録〜ストレコのブログ〜 オフィシャルブログ](https://ameblo.jp/strawberryrecord/)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")

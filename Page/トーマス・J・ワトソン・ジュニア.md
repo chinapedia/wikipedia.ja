@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[トーマス・J・ワトソン・ジュニア](https://ja.wikipedia.org/wiki/トーマス・J・ワトソン・ジュニア)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:ThomasJWatsonJr.jpg "wikilink") **トーマス・ジョン・ワトソン・ジュニア**（Thomas John Watson, Jr.、[1914年](../Page/1914年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")）は、[インターナショナル・ビジネス・マシーンズ](https://ja.wikipedia.org/wiki/インターナショナル・ビジネス・マシーンズ "wikilink")（IBM）社の2代目社長であり、初代社長[トーマス・ジョン・ワトソン・シニア](https://ja.wikipedia.org/wiki/トーマス・ジョン・ワトソン・シニア "wikilink")（Thomas John Watson, Sr.）の長男である。

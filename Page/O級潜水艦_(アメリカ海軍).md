@@ -1,4 +1,4 @@
-> この記事は[O \(\)](https://ja.wikipedia.org/wiki/O_\(\))から翻訳されています。
+> この記事は[O級潜水艦 \(アメリカ海軍\)](https://ja.wikipedia.org/wiki/O級潜水艦_\(アメリカ海軍\))から翻訳されています。
 
 
 | O級潜水艦                                                                                                             |

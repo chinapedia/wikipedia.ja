@@ -5,9 +5,9 @@
 
 ## 大会概要
 
-メインイベントの世界ミドル級タイトルマッチでは、王者[フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink")がExtreme Fightingミドル級王者イゴール・ジノビエフをバスターで叩きつけ失神KO勝ちで王座の初防衛に成功。ジノビエフは鎖骨と頸椎を負傷し、そのまま引退した\[1\]。
+メインイベントの世界ミドル級タイトルマッチでは、王者[フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink")がExtreme Fightingミドル級王者イゴール・ジノビエフをバスターで叩きつけ失神KO勝ちで王座の初防衛に成功。ジノビエフは鎖骨と頸椎を負傷し、そのまま引退した\[1\]。
 
-同日開催されたライト級トーナメントでは、[パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink")が準決勝で[アトランタオリンピック](https://ja.wikipedia.org/wiki/アトランタオリンピック "wikilink")・レスリング銀メダリストの[タウンセンド・ソーンダース](https://ja.wikipedia.org/wiki/タウンセンド・ソーンダース "wikilink")、決勝で[クリス・ブレナン](https://ja.wikipedia.org/wiki/クリス・ブレナン "wikilink")を破り優勝を果たした。
+同日開催されたライト級トーナメントでは、[パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink")が準決勝で[アトランタオリンピック](https://ja.wikipedia.org/wiki/アトランタオリンピック "wikilink")・レスリング銀メダリストの[タウンセンド・ソーンダース](../Page/タウンセンド・ソーンダース.md "wikilink")、決勝で[クリス・ブレナン](../Page/クリス・ブレナン.md "wikilink")を破り優勝を果たした。
 
 ### ルール改正
 
@@ -19,28 +19,28 @@
     ○  ラバーン・クラーク vs.  ジョシュ・ステュアート ×
     1R 1:15 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第2試合 UFC 16ライト級トーナメント リザーブマッチ 12分1R
-    ○  [クリス・ブレナン](https://ja.wikipedia.org/wiki/クリス・ブレナン "wikilink") vs.  コートニー・ターナー ×
-    1R 1:20 [腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")
+    ○  [クリス・ブレナン](../Page/クリス・ブレナン.md "wikilink") vs.  コートニー・ターナー ×
+    1R 1:20 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")
   - 第3試合 UFC 16ライト級トーナメント 1回戦 15分1R
     ○  マイキー・バーネット vs.  エウジェニー・タデウ ×
     1R 9:45 TKO（レフェリーストップ：右アッパー）
     ※バーネットの負傷棄権によりリザーバーのブレナンが決勝進出。
   - 第4試合 UFC 16ライト級トーナメント 1回戦 15分1R
-    ○  [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink") vs.  [タウンセンド・ソーンダース](https://ja.wikipedia.org/wiki/タウンセンド・ソーンダース "wikilink") ×
+    ○  [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink") vs.  [タウンセンド・ソーンダース](../Page/タウンセンド・ソーンダース.md "wikilink") ×
     1R終了 判定2-1
     ※ミレティッチが決勝進出。
   - 第5試合 ミドル級 15分1R
     ○  ジェリー・ボーランダー vs.  [ケビン・ジャクソン](https://ja.wikipedia.org/wiki/ケビン・ジャクソン "wikilink") ×
-    1R 10:23 TKO（レフェリーストップ：[腕ひしぎ十字固め](https://ja.wikipedia.org/wiki/腕挫十字固 "wikilink")）
+    1R 10:23 TKO（レフェリーストップ：[腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）
   - 第6試合 UFC 16ライト級トーナメント 決勝戦 15分1R
-    ○  [パット・ミレティッチ](https://ja.wikipedia.org/wiki/パット・ミレティッチ "wikilink") vs.  [クリス・ブレナン](https://ja.wikipedia.org/wiki/クリス・ブレナン "wikilink") ×
+    ○  [パット・ミレティッチ](../Page/パット・ミレティッチ.md "wikilink") vs.  [クリス・ブレナン](../Page/クリス・ブレナン.md "wikilink") ×
     1R 9:02 [変形肩固め](https://ja.wikipedia.org/wiki/ヴォンフルーチョーク "wikilink")
     ※ミレティッチがトーナメント優勝。
   - 第7試合 ヘビー級 15分1R
-    ○  [高阪剛](https://ja.wikipedia.org/wiki/高阪剛 "wikilink") vs.  [キモ](https://ja.wikipedia.org/wiki/キモ・レオポルド "wikilink") ×
+    ○  [高阪剛](../Page/高阪剛.md "wikilink") vs.  [キモ](../Page/キモ・レオポルド.md "wikilink") ×
     1R終了 判定3-0
   - 第8試合 UFC世界ミドル級タイトルマッチ 20分1R
-    ○  [フランク・シャムロック](https://ja.wikipedia.org/wiki/フランク・シャムロック "wikilink") vs.  イゴール・ジノビエフ ×
+    ○  [フランク・シャムロック](../Page/フランク・シャムロック.md "wikilink") vs.  イゴール・ジノビエフ ×
     1R 0:22 KO（バスター）
     ※シャムロックが王座の初防衛に成功。
 
@@ -49,13 +49,15 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-16-Battle-In-The-Bayou)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc16.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc16.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-16-Battle-in-the-Bayou-25)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのルイジアナ州大会](https://ja.wikipedia.org/wiki/Category:UFCのルイジアナ州大会 "wikilink") [Category:1998年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1998年の総合格闘技 "wikilink") [Category:1998年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1998年のアメリカ合衆国のスポーツ "wikilink") [Category:ニューオーリンズのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ニューオーリンズのスポーツ競技大会 "wikilink") [Category:1998年3月](https://ja.wikipedia.org/wiki/Category:1998年3月 "wikilink")

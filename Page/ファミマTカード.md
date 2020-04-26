@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[ファミマTカード](https://ja.wikipedia.org/wiki/ファミマTカード)から翻訳されています。
 
 
 **ファミマTカード** (Famima T Card) は、株式会社[ファミリーマート](../Page/ファミリーマート.md "wikilink")（ファミマ）が[カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")株式会社 (CCC) と提携して発行する[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")である。クレジット機能付きのカードは、[ポケットカード](../Page/ポケットカード.md "wikilink")株式会社（吸収合併前：[ファミマクレジット](../Page/ファミマクレジット.md "wikilink")株式会社）とも提携している。

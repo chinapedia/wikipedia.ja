@@ -1,4 +1,4 @@
-> この記事は[COMIC](https://ja.wikipedia.org/wiki/COMIC)から翻訳されています。
+> この記事は[COMIC快楽天](https://ja.wikipedia.org/wiki/COMIC快楽天)から翻訳されています。
 
 
 『**COMIC快楽天**』（コミックかいらくてん）は、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[成人向け漫画雑誌](../Page/成人向け漫画雑誌の一覧.md "wikilink")。

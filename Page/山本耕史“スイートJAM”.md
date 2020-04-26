@@ -1,4 +1,4 @@
-> この記事は[JAM](https://ja.wikipedia.org/wiki/JAM)から翻訳されています。
+> この記事は[山本耕史“スイートJAM”](https://ja.wikipedia.org/wiki/山本耕史“スイートJAM”)から翻訳されています。
 
 
 **山本耕史“スイートJAM”**（やまもとこうじ スイートジャム）は、[2007年](../Page/2007年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送されていた[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")&音楽[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")である。

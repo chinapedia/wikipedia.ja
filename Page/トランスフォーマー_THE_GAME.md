@@ -1,4 +1,4 @@
-> この記事は[ THE GAME](https://ja.wikipedia.org/wiki/_THE_GAME)から翻訳されています。
+> この記事は[トランスフォーマー THE GAME](https://ja.wikipedia.org/wiki/トランスフォーマー_THE_GAME)から翻訳されています。
 
 
 『**トランスフォーマー THE GAME**』(*Transformers THE GAME*)は、[アクティビジョン](../Page/アクティビジョン.md "wikilink")から発売されたアクションゲーム。日本では[2007年](../Page/2007年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に公開された映画[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")（[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")制作総指揮、[パラマウント](https://ja.wikipedia.org/wiki/パラマウント "wikilink")映画配給）をゲーム化したものである。

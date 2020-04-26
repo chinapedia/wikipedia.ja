@@ -1,4 +1,4 @@
-> この記事は[KFX \(\)](https://ja.wikipedia.org/wiki/KFX_\(\))から翻訳されています。
+> この記事は[KFX \(航空機\)](https://ja.wikipedia.org/wiki/KFX_\(航空機\))から翻訳されています。
 
 
 **KFX**（KF-XやF-33とも）は、[大韓民国](../Page/大韓民国.md "wikilink")が開発中の、[大韓民国空軍](https://ja.wikipedia.org/wiki/大韓民国空軍 "wikilink")向けの[第4.5世代ジェット戦闘機](https://ja.wikipedia.org/wiki/第4.5世代ジェット戦闘機 "wikilink")である\[1\]\[2\]。

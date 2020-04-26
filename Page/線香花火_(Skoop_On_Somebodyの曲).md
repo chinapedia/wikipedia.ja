@@ -1,4 +1,4 @@
-> この記事は[ \(Skoop On Somebody\)](https://ja.wikipedia.org/wiki/_\(Skoop_On_Somebody\))から翻訳されています。
+> この記事は[線香花火 \(Skoop On Somebodyの曲\)](https://ja.wikipedia.org/wiki/線香花火_\(Skoop_On_Somebodyの曲\))から翻訳されています。
 
 
 『**線香花火**』（せんこうはなび）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")の[Skoop On Somebodyが](../Page/Skoop_On_Somebody.md "wikilink")[2000年](../Page/2000年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")10枚目（Skoop On Somebodyとしては2枚目）の[シングル](../Page/シングル.md "wikilink")。

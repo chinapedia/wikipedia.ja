@@ -1,13 +1,13 @@
-> この記事は[ Face](https://ja.wikipedia.org/wiki/_Face)から翻訳されています。
+> この記事は[報道ゲンバ Face](https://ja.wikipedia.org/wiki/報道ゲンバ_Face)から翻訳されています。
 
 
-『**報道ゲンバ Face**』（ほうどうゲンバ フェイス）は、[テレビ信州](../Page/テレビ信州.md "wikilink")（TSB）で平日夕方に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された[報道番組](../Page/報道番組.md "wikilink")である。
+『**報道ゲンバ Face**』（ほうどうゲンバ フェイス）は、[テレビ信州](../Page/テレビ信州.md "wikilink")（TSB）で平日夕方に[生放送](../Page/生放送.md "wikilink")された[報道番組](../Page/報道番組.md "wikilink")である。
 
 ## 概要
 
-『[TSB Newsリアルタイム](https://ja.wikipedia.org/wiki/TSB_Newsリアルタイム "wikilink")』をリニューアルする形で[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に放送を開始。番組タイトルから『[リアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』が外れ、独自タイトルが採用されている。[2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")までは『**TSB NEWS 報道ゲンバ**』（ティーエスビー ニュース ほうどうゲンバ）の題名だった。
+『[TSB Newsリアルタイム](../Page/TSB_Newsリアルタイム.md "wikilink")』をリニューアルする形で[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に放送を開始。番組タイトルから『[リアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』が外れ、独自タイトルが採用されている。[2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")までは『**TSB NEWS 報道ゲンバ**』（ティーエスビー ニュース ほうどうゲンバ）の題名だった。
 
-メインキャスターは『TSB Newsリアルタイム』から[伊東秀一](https://ja.wikipedia.org/wiki/伊東秀一 "wikilink")と[加納美也子](https://ja.wikipedia.org/wiki/加納美也子 "wikilink")の両[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が続投。また、スタジオセットも前番組とほぼそのままの状態で使用されているが、番組のオープニングやテロップ・BGMなどが一新されている。
+メインキャスターは『TSB Newsリアルタイム』から[伊東秀一](../Page/伊東秀一.md "wikilink")と[加納美也子](../Page/加納美也子.md "wikilink")の両[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が続投。また、スタジオセットも前番組とほぼそのままの状態で使用されているが、番組のオープニングやテロップ・BGMなどが一新されている。
 
 [2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")をもって終了\[1\]。後番組は[news every.となる](https://ja.wikipedia.org/wiki/news_every._\(テレビ信州\) "wikilink")。
 
@@ -15,10 +15,10 @@
 
 ### メインキャスター
 
-  - 2007.10.01 - 2008.03.31： [伊東秀一](https://ja.wikipedia.org/wiki/伊東秀一 "wikilink")（TSBアナウンサー）、[加納美也子](https://ja.wikipedia.org/wiki/加納美也子 "wikilink")（当時TSBアナウンサー）
+  - 2007.10.01 - 2008.03.31： [伊東秀一](../Page/伊東秀一.md "wikilink")（TSBアナウンサー）、[加納美也子](../Page/加納美也子.md "wikilink")（当時TSBアナウンサー）
   - 2008.04.01 - 2013.03.29： 伊東秀一（TSBアナウンサー）、[稲葉陽子](../Page/稲葉陽子.md "wikilink")（TSBアナウンサー）
   - 2013.04.01 - 2014.09.26： 伊東秀一（TSBアナウンサー）、[藤原里瑛](https://ja.wikipedia.org/wiki/藤原里瑛 "wikilink")（TSBアナウンサー）
-  - 2014.09.29 - 2016.04.01： 藤原里瑛（TSBアナウンサー）、[中村守](https://ja.wikipedia.org/wiki/中村守 "wikilink")（当時TSBアナウンサー）
+  - 2014.09.29 - 2016.04.01： 藤原里瑛（TSBアナウンサー）、[中村守](../Page/中村守.md "wikilink")（当時TSBアナウンサー）
   - 2016.04.04 - 2018.03.30： 藤原里瑛（TSBアナウンサー）、[木下歌織](https://ja.wikipedia.org/wiki/木下歌織 "wikilink")（TSBアナウンサー）
   - 2018.04.02 - 2019.03.29 : 藤原里瑛（TSBアナウンサー）、木下歌織（TSBアナウンサー）、[菅野直道](https://ja.wikipedia.org/wiki/菅野直道 "wikilink") (TSBアナウンサー)
 
@@ -63,10 +63,10 @@
 ## TSB歴代夕方のニュース
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月19日](../Page/10月19日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")： 『[信州TODAY](https://ja.wikipedia.org/wiki/信州TODAY "wikilink")』
-  - 1989年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [1989年](../Page/1989年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")： 『[TSBニュースシャトル](https://ja.wikipedia.org/wiki/TSBニュースシャトル "wikilink")』
-  - 1989年[10月2日](../Page/10月2日.md "wikilink") - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")： 『[TSB 600ステーション](https://ja.wikipedia.org/wiki/TSB_600ステーション "wikilink")』（ここまでANN主体）
-  - 1991年[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月31日： 『[ニュースプラス1信州](https://ja.wikipedia.org/wiki/ニュースプラス1信州 "wikilink")』（ここからNNN主体になる）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink") - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")： 『[TSB Newsリアルタイム](https://ja.wikipedia.org/wiki/TSB_Newsリアルタイム "wikilink")』
+  - 1989年[4月3日](../Page/4月3日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")： 『[TSBニュースシャトル](https://ja.wikipedia.org/wiki/TSBニュースシャトル "wikilink")』
+  - 1989年[10月2日](../Page/10月2日.md "wikilink") - [1991年](../Page/1991年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")： 『[TSB 600ステーション](../Page/TSB_600ステーション.md "wikilink")』（ここまでANN主体）
+  - 1991年[4月3日](../Page/4月3日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")3月31日： 『[ニュースプラス1信州](../Page/ニュースプラス1信州.md "wikilink")』（ここからNNN主体になる）
+  - [2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")： 『[TSB Newsリアルタイム](../Page/TSB_Newsリアルタイム.md "wikilink")』
   - [2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")： 『TSB NEWS 報道ゲンバ』
   - [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [2019年](../Page/2019年.md "wikilink")3月29日： 『報道ゲンバFace』
   - 2019年[4月1日](../Page/4月1日.md "wikilink") - ： 『[news every.](https://ja.wikipedia.org/wiki/news_every._\(テレビ信州\) "wikilink")』
@@ -75,7 +75,7 @@
 
 ## 関連項目
 
-  - [ゆうがたGet\!](https://ja.wikipedia.org/wiki/ゆうがたGet! "wikilink")
+  - [ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")
   - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")
 
 ## 外部リンク

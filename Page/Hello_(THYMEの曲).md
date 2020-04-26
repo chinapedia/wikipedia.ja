@@ -1,4 +1,4 @@
-> この記事は[Hello \(THYME\)](https://ja.wikipedia.org/wiki/Hello_\(THYME\))から翻訳されています。
+> この記事は[Hello \(THYMEの曲\)](https://ja.wikipedia.org/wiki/Hello_\(THYMEの曲\))から翻訳されています。
 
 
 「**Hello**」（ハロー）は、[THYME](../Page/THYME.md "wikilink")のメジャーデビュー曲。

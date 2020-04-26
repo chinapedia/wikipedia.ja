@@ -1,4 +1,4 @@
-> この記事は[L \(\)](https://ja.wikipedia.org/wiki/L_\(\))から翻訳されています。
+> この記事は[L級潜水艦 \(アメリカ海軍\)](https://ja.wikipedia.org/wiki/L級潜水艦_\(アメリカ海軍\))から翻訳されています。
 
 
 | L級潜水艦                                                                          |

@@ -1,4 +1,4 @@
-> この記事は[ SEISYuN](https://ja.wikipedia.org/wiki/_SEISYuN)から翻訳されています。
+> この記事は[青春 SEISYuN](https://ja.wikipedia.org/wiki/青春_SEISYuN)から翻訳されています。
 
 
 「**青春** <small>**SEI SYuN**</small>」（せいしゅん）は、[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発売された[TOKIO](../Page/TOKIO.md "wikilink")の38作目の[シングル](../Page/シングル.md "wikilink")。初回盤はAとBがあり、両方にビデオクリップとメーキング映像を収録したDVDと、TOKIOオリジナル卓上カレンダーポスター2008が当たる応募抽選券が付属されている。

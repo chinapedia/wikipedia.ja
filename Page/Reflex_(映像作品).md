@@ -1,4 +1,4 @@
-> この記事は[Reflex \(\)](https://ja.wikipedia.org/wiki/Reflex_\(\))から翻訳されています。
+> この記事は[Reflex \(映像作品\)](https://ja.wikipedia.org/wiki/Reflex_\(映像作品\))から翻訳されています。
 
 
 『**Reflex**』（リフレックス）は、日本の女性歌手、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")初の映像作品。ビデオで販売された後、2000年に[DVD](../Page/DVD.md "wikilink")化し、再発売された。

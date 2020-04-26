@@ -1,4 +1,4 @@
-> この記事は[License \(\)](https://ja.wikipedia.org/wiki/License_\(\))から翻訳されています。
+> この記事は[License \(上戸彩のアルバム\)](https://ja.wikipedia.org/wiki/License_\(上戸彩のアルバム\))から翻訳されています。
 
 
 『**License**』（ライセンス）は、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")にリリースされた[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")の4枚目のアルバム。

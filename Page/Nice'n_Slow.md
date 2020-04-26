@@ -1,12 +1,12 @@
 > この記事は[Nice\'n Slow](https://ja.wikipedia.org/wiki/Nice\'n_Slow)から翻訳されています。
 
 
-『**Nice'n Slow**』（ナイスン・スロー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")SKOOP（現[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
+『**Nice'n Slow**』（ナイスン・スロー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")SKOOP（現[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月21日](../Page/8月21日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
   - TX「モデルファクトリー」オープニング・テーマ。
-  - 金字塔的1曲（[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")曰く）であり、この曲名を冠したアルバム（『[Nice'n Slow Jam](https://ja.wikipedia.org/wiki/Nice'n_Slow_Jam "wikilink")』、『[Nice'n Slow Jam 15years Limited](https://ja.wikipedia.org/wiki/Nice'n_Slow_Jam_15years_Limited "wikilink")』）も発売されている。
+  - 金字塔的1曲（[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")曰く）であり、この曲名を冠したアルバム（『[Nice'n Slow Jam](../Page/Nice'n_Slow_Jam.md "wikilink")』、『[Nice'n Slow Jam 15years Limited](https://ja.wikipedia.org/wiki/Nice'n_Slow_Jam_15years_Limited "wikilink")』）も発売されている。
 
 ## 収録曲
 

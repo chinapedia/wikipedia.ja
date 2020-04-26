@@ -1,11 +1,11 @@
-> この記事は[Club](https://ja.wikipedia.org/wiki/Club)から翻訳されています。
+> この記事は[ガチャピンClub](https://ja.wikipedia.org/wiki/ガチャピンClub)から翻訳されています。
 
 
-『**ガチャピンClub**』は、[BSフジ](../Page/BSフジ.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[子供向け番組](https://ja.wikipedia.org/wiki/子供番組 "wikilink")。
+『**ガチャピンClub**』は、[BSフジ](../Page/BSフジ.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[子供向け番組](../Page/子供番組.md "wikilink")。
 
 ## 概要
 
-地上波の[フジテレビ系で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ポンキッキ](https://ja.wikipedia.org/wiki/ポンキッキ "wikilink")』が、2007年[3月30日](../Page/3月30日.md "wikilink")に終了した事に伴い、BSフジに移した派生番組として、また、[BSフジ](../Page/BSフジ.md "wikilink")で2001年から[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")として放送していた「**東京キッズクラブ**」の後継番組として、実質的に統合される形で開始された（[フジテレビ721](https://ja.wikipedia.org/wiki/フジテレビ721 "wikilink")の『[チルドレンタイム](https://ja.wikipedia.org/wiki/チルドレンタイム "wikilink")』は併存）。『[ひらけ\!ポンキッキ](https://ja.wikipedia.org/wiki/ひらけ!ポンキッキ "wikilink")』や『[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")』で放送されていたコーナーの再編成といった内容は前番組「東京キッズクラブ」と同様だが、「ガチャピンDJ」や「お誕生日コーナー」など、番組オリジナルのコーナーが増えた。
+地上波の[フジテレビ系で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ポンキッキ](../Page/ポンキッキ.md "wikilink")』が、2007年[3月30日](../Page/3月30日.md "wikilink")に終了した事に伴い、BSフジに移した派生番組として、また、[BSフジ](../Page/BSフジ.md "wikilink")で2001年から[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")として放送していた「**東京キッズクラブ**」の後継番組として、実質的に統合される形で開始された（[フジテレビ721](https://ja.wikipedia.org/wiki/フジテレビ721 "wikilink")の『[チルドレンタイム](../Page/チルドレンタイム.md "wikilink")』は併存）。『[ひらけ\!ポンキッキ](../Page/ひらけ!ポンキッキ.md "wikilink")』や『[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")』で放送されていたコーナーの再編成といった内容は前番組「東京キッズクラブ」と同様だが、「ガチャピンDJ」や「お誕生日コーナー」など、番組オリジナルのコーナーが増えた。
 
 番組の[主役](https://ja.wikipedia.org/wiki/主役 "wikilink")である[ガチャピン](../Page/ガチャピン.md "wikilink")は、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")を中心に毎週様々な[幼稚園](../Page/幼稚園.md "wikilink")を訪問している。
 
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - 時々、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の『ポンキッキーズ』で放送されていた「バケツンとオシャベル」や「YAPPOOO」が放送されたこともある。
+  - 時々、[2005年](../Page/2005年.md "wikilink")の『ポンキッキーズ』で放送されていた「バケツンとオシャベル」や「YAPPOOO」が放送されたこともある。
   - 「ブンブン\!セブンちゃん\!」のコーナーは、2007年夏までは毎週火曜日に放送されていたが、同年8月から10月までの間は放送されなかった。同年11月に復活したが、途中で終了した。
 
 ## スペシャル
@@ -77,7 +77,7 @@
   - ガチャピンチャレンジ新作・[スキューバダイビング](https://ja.wikipedia.org/wiki/スキューバダイビング "wikilink")
       - 2007年7月下旬から8月上旬にかけて放送。今回の[ロケは](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")[フィジー](../Page/フィジー.md "wikilink")で行われ、チャレンジの動機や練習の様子なども放送された。その後、[8月31日](../Page/8月31日.md "wikilink")には総集編が放送された。
   - ガチャピン・ムック [富士山](../Page/富士山.md "wikilink")おそうじ大作戦
-      - 2007年[11月23日](../Page/11月23日.md "wikilink")と同年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に放送。[アルピニスト](https://ja.wikipedia.org/wiki/アルピニスト "wikilink")の[野口健](https://ja.wikipedia.org/wiki/野口健 "wikilink")とガチャピン・ムックが富士山を清掃した。
+      - 2007年[11月23日](../Page/11月23日.md "wikilink")と同年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に放送。[アルピニスト](https://ja.wikipedia.org/wiki/アルピニスト "wikilink")の[野口健](../Page/野口健.md "wikilink")とガチャピン・ムックが富士山を清掃した。
 
 ## 楽曲
 
@@ -90,9 +90,9 @@
 ## 出演キャラクター
 
   - [ガチャピン](../Page/ガチャピン.md "wikilink")（声：[雨宮玖二子](https://ja.wikipedia.org/wiki/雨宮玖二子 "wikilink")）
-  - [ムック](https://ja.wikipedia.org/wiki/ムック_\(キャラクター\) "wikilink")（声：[松田重治](https://ja.wikipedia.org/wiki/松田重治 "wikilink")）※『[ポンキッキシリーズ](../Page/ポンキッキシリーズ.md "wikilink")』のコーナー再放送のみ登場。
+  - [ムック](../Page/ムック_\(キャラクター\).md "wikilink")（声：[松田重治](../Page/松田重治.md "wikilink")）※『[ポンキッキシリーズ](../Page/ポンキッキシリーズ.md "wikilink")』のコーナー再放送のみ登場。
   - チビミミナガバンディクート（声：[イズミカワソラ](../Page/イズミカワソラ.md "wikilink")）※『うたをうたおう』番組進行役で登場。また『お誕生日コーナー』オープニング、『はたらくくるま』ナレーションで登場していた。
-  - コニーちゃん（声：[クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")）
+  - コニーちゃん（声：[クリス智子](../Page/クリス智子.md "wikilink")）
 
 ## スタッフ
 

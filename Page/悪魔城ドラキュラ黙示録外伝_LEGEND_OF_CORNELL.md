@@ -1,4 +1,4 @@
-> この記事は[ LEGEND OF CORNELL](https://ja.wikipedia.org/wiki/_LEGEND_OF_CORNELL)から翻訳されています。
+> この記事は[悪魔城ドラキュラ黙示録外伝 LEGEND OF CORNELL](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ黙示録外伝_LEGEND_OF_CORNELL)から翻訳されています。
 
 
 『**悪魔城ドラキュラ黙示録外伝 LEGEND OF CORNELL**』（あくまじょうドラキュラもくしろくがいでん レジェンド オブ コーネル、英題: *[Castlevania: Legacy of Darkness](https://ja.wikipedia.org/wiki/:en:Castlevania:_Legacy_of_Darkness "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から1999年12月25日に発売された[NINTENDO64](../Page/NINTENDO64.md "wikilink")用ソフトの[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

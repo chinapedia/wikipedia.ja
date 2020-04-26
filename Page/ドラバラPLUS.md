@@ -1,4 +1,4 @@
-> この記事は[PLUS](https://ja.wikipedia.org/wiki/PLUS)から翻訳されています。
+> この記事は[ドラバラPLUS](https://ja.wikipedia.org/wiki/ドラバラPLUS)から翻訳されています。
 
 
 **ドラバラPLUS**（- ぷらす）は、[日本テレビで](../Page/日本テレビ放送網.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで毎週[金曜日](../Page/金曜日.md "wikilink")の16:00（[JST](../Page/日本標準時.md "wikilink")）から25もしくは30分間\[1\]放送していた[番宣](../Page/番組宣伝.md "wikilink")[番組である](../Page/テレビ番組.md "wikilink")。なお、[祝日](../Page/国民の祝日.md "wikilink")・[年末年始](../Page/年末年始.md "wikilink")および『[それいけ\!アンパンマン](https://ja.wikipedia.org/wiki/それいけ!アンパンマン "wikilink") クリスマススペシャル』放送日は休止される。2008年[4月4日](../Page/4月4日.md "wikilink")から『**[ドラバラPUSH](https://ja.wikipedia.org/wiki/ドラバラPUSH "wikilink")**』としてリニューアルし、時間も14時55分 - 15時50分の枠に実質移動となる。

@@ -1,4 +1,4 @@
-> この記事は[KBS](https://ja.wikipedia.org/wiki/KBS)から翻訳されています。
+> この記事は[KBS交響楽団](https://ja.wikipedia.org/wiki/KBS交響楽団)から翻訳されています。
 
 
 **KBS交響楽団**（ケービーエスこうきょうがくだん、）は、[1956年](../Page/1956年.md "wikilink")に設立された[韓国の](../Page/大韓民国.md "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")。[韓国放送公社](../Page/韓国放送公社.md "wikilink")（KBS）に所属。[KBSホールと](https://ja.wikipedia.org/wiki/KBSホール_\(韓国\) "wikilink")[芸術の殿堂](../Page/芸術の殿堂.md "wikilink")で定期演奏会を行う。

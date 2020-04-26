@@ -1,4 +1,4 @@
-> この記事は[ \(BB-9\)](https://ja.wikipedia.org/wiki/_\(BB-9\))から翻訳されています。
+> この記事は[ウィスコンシン \(BB-9\)](https://ja.wikipedia.org/wiki/ウィスコンシン_\(BB-9\))から翻訳されています。
 
 
 <div class="thumb tright">
@@ -14,7 +14,7 @@
 | 退役:                                                                                                                |
 | その後:                                                                                                               |
 | 性能諸元                                                                                                               |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink"):                                                               |
+| [排水量](../Page/排水量.md "wikilink"):                                                                                  |
 | 全長:                                                                                                                |
 | 全幅:                                                                                                                |
 | 吃水:                                                                                                                |

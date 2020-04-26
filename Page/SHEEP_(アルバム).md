@@ -1,4 +1,4 @@
-> この記事は[SHEEP \(\)](https://ja.wikipedia.org/wiki/SHEEP_\(\))から翻訳されています。
+> この記事は[SHEEP \(アルバム\)](https://ja.wikipedia.org/wiki/SHEEP_\(アルバム\))から翻訳されています。
 
 
 『**SHEEP**』（シープ）は、山崎まさよし通算4枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1999年11月26日発売。発売元は[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")。

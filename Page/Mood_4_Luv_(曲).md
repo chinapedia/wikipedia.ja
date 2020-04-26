@@ -1,11 +1,11 @@
-> この記事は[Mood 4 Luv \(\)](https://ja.wikipedia.org/wiki/Mood_4_Luv_\(\))から翻訳されています。
+> この記事は[Mood 4 Luv \(曲\)](https://ja.wikipedia.org/wiki/Mood_4_Luv_\(曲\))から翻訳されています。
 
 
-『**Mood 4 Luv**』（ムード・フォー・ラヴ）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&BグループのSKOOP](../Page/リズム・アンド・ブルース.md "wikilink")（現[Skoop On Somebody](https://ja.wikipedia.org/wiki/Skoop_On_Somebody "wikilink")）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")（リサイズ盤[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")）にリリースした通算5枚目のシングル。
+『**Mood 4 Luv**』（ムード・フォー・ラヴ）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&BグループのSKOOP](../Page/リズム・アンド・ブルース.md "wikilink")（現[Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")（リサイズ盤[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")）にリリースした通算5枚目のシングル。
 
 ## 概要
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に本曲を含む同名の2ndアルバム『[Mood 4 Luv](https://ja.wikipedia.org/wiki/Mood_4_Luv_\(アルバム\) "wikilink")』と同時に8cm[シングル](../Page/シングル.md "wikilink")がリリースされた。シングルは12cmリサイズ盤が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")にリリースされている。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に本曲を含む同名の2ndアルバム『[Mood 4 Luv](https://ja.wikipedia.org/wiki/Mood_4_Luv_\(アルバム\) "wikilink")』と同時に8cm[シングル](../Page/シングル.md "wikilink")がリリースされた。シングルは12cmリサイズ盤が[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")にリリースされている。
   - 曲名は、[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")でSKOOPが担当していたレギュラー番組『MOOD 4 LUV』から採られている。
 
 ## シングル収録曲

@@ -1,4 +1,4 @@
-> この記事は[BRAVA!](https://ja.wikipedia.org/wiki/BRAVA!)から翻訳されています。
+> この記事は[シアターBRAVA!](https://ja.wikipedia.org/wiki/シアターBRAVA!)から翻訳されています。
 
 
 **シアターBRAVA\!**（シアターブラバ\!）は、[毎日放送](../Page/毎日放送.md "wikilink")（MBS）が[大阪市](../Page/大阪市.md "wikilink")[中央区城見の](../Page/中央区_\(大阪市\).md "wikilink")[大阪ビジネスパーク](../Page/大阪ビジネスパーク.md "wikilink")（OBP）内で所有・運営していた[劇場](../Page/劇場.md "wikilink")。劇場名の**BRAVA\!**は、「[Bravo\!](../Page/ブラヴォー.md "wikilink")」の女性形に当たる。

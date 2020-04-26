@@ -1,11 +1,11 @@
-> この記事は[ Vol.3](https://ja.wikipedia.org/wiki/_Vol.3)から翻訳されています。
+> この記事は[トラヴェリング・ウィルベリーズ Vol.3](https://ja.wikipedia.org/wiki/トラヴェリング・ウィルベリーズ_Vol.3)から翻訳されています。
 
 
 **トラヴェリング・ウィルベリーズ Vol.3**(**Traveling Wilburys Vol. 3**)は、1990年に発表された[トラヴェリング・ウィルベリーズ](../Page/トラヴェリング・ウィルベリーズ.md "wikilink")のセカンドアルバム。
 
 ## 解説
 
-ファースト・アルバム『トラヴェリング・ウィルベリーズ Vol.1』をリリースした1988年の冬にバンド・メンバーの[レフティ・ウィルベリーが心筋梗塞のため急逝](../Page/ロイ・オービソン.md "wikilink")。後任に[デル・シャノン](../Page/デル・シャノン.md "wikilink")を迎えるが、シャノンも他界したため、4人で製作されたのが本作。
+ファースト・アルバム『トラヴェリング・ウィルベリーズ Vol.1』をリリースした1988年の冬にバンド・メンバーの[レフティ・ウィルベリーが心筋梗塞のため急逝](../Page/ロイ・オービソン.md "wikilink")。後任に[デル・シャノン](../Page/デル・シャノン.md "wikilink")を迎えるが\[1\]、シャノンも他界したため、4人で製作されたのが本作。
 
 2007年7月にデジタルリマスター盤が発売された。
 
@@ -62,4 +62,8 @@
   - [ゲイリー・ムーア](../Page/ゲイリー・ムーア.md "wikilink") - リード・ギター (on "She's my Baby")
   - Tom Brock : Mandolin/ Death Metal Scream
 
+## 出典
+
 [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:ワーナー・ブラザース・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザース・レコードのアルバム "wikilink") [Category:ジェフ・リンがプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:ジェフ・リンがプロデュースしたアルバム "wikilink")
+
+1.  [TOWER RECORDS ONLINE 【CD】トラヴェリング・ウィルベリーズ Vol.3](https://tower.jp/item/2439953/%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A7%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%99%E3%83%AA%E3%83%BC%E3%82%BA-Vol-3)

@@ -1,7 +1,7 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[ITアウトソーシング](https://ja.wikipedia.org/wiki/ITアウトソーシング)から翻訳されています。
 
 
-**ITアウトソーシング**とは、各企業の管理プログラム作りなど、[コンピュータ](../Page/コンピュータ.md "wikilink")や[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")技術に関連した業務の外部委託（[アウトソーシング](../Page/アウトソーシング.md "wikilink")）のことを指す。略して**ITO**（Information Technology Outsourcing）。各企業の内部管理部門で行われていた総務、[人事](https://ja.wikipedia.org/wiki/人事 "wikilink")、経理、給与計算関係のデータ出入力を中心とした業務や[コールセンター](https://ja.wikipedia.org/wiki/コールセンター "wikilink")などを専門企業に外部委託することを指す**[ビジネス・プロセス・アウトソーシング](https://ja.wikipedia.org/wiki/ビジネス・プロセス・アウトソーシング "wikilink")**（略して**BPO**）に対して使われる場合が多い。
+**ITアウトソーシング**とは、各企業の管理プログラム作りなど、[コンピュータ](../Page/コンピュータ.md "wikilink")や[インターネット](../Page/インターネット.md "wikilink")技術に関連した業務の外部委託（[アウトソーシング](../Page/アウトソーシング.md "wikilink")）のことを指す。略して**ITO**（Information Technology Outsourcing）。各企業の内部管理部門で行われていた総務、[人事](../Page/人事.md "wikilink")、経理、給与計算関係のデータ出入力を中心とした業務や[コールセンター](../Page/コールセンター.md "wikilink")などを専門企業に外部委託することを指す**[ビジネス・プロセス・アウトソーシング](../Page/ビジネス・プロセス・アウトソーシング.md "wikilink")**（略して**BPO**）に対して使われる場合が多い。
 
 ## ITアウトソーシングの概要
 
@@ -11,13 +11,13 @@ ITアウトソーシングを行なう理由は、企業での人材不足、コ
 
 ## 国内アウトソーシング
 
-同国内へのITアウトソーシングは、[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")、関連会社、専門会社などに委託される。
+同国内へのITアウトソーシングは、[子会社](../Page/子会社.md "wikilink")、関連会社、専門会社などに委託される。
 
 ただし、国内の受注は同国内の企業が強い、とは必ずしも言い切れない。[インド](../Page/インド.md "wikilink")のように、外国の受注を取ることに熱中していたら、[IBM](../Page/IBM.md "wikilink")など外国の企業が国内に子会社を作り、気がついたら国内受注トップの座を奪われていた、といった事例もある\[2\]。
 
 ## 海外アウトソーシング
 
-[インド](../Page/インド.md "wikilink")は世界最大のアウトソーシング受け入れ国であり、欧米を初め多くの企業がインドにアウトソーシングを行っている。代表的な企業は、[タタ・コンサルタンシー・サービシズ](https://ja.wikipedia.org/wiki/タタ・コンサルタンシー・サービシズ "wikilink")や[ウィプロ](https://ja.wikipedia.org/wiki/ウィプロ "wikilink")など\[3\]。
+[インド](../Page/インド.md "wikilink")は世界最大のアウトソーシング受け入れ国であり、欧米を初め多くの企業がインドにアウトソーシングを行っている。代表的な企業は、[タタ・コンサルタンシー・サービシズ](../Page/タタ・コンサルタンシー・サービシズ.md "wikilink")や[ウィプロ](https://ja.wikipedia.org/wiki/ウィプロ "wikilink")など\[3\]。
 
 また、[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")を契機に企業が一国にアウトソーシングをする危険性を勘案するようになったこと、インドが人材の問題（高い[離職率](https://ja.wikipedia.org/wiki/離職率 "wikilink")、人件費の高騰）、為替の変動により、価格優位が弱まっていることがあり、価格面で相対的に魅力的となってきた[アルゼンチン](../Page/アルゼンチン.md "wikilink")や[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")などが、新たなアウトソーシング先として注目されている\[4\]。
 
@@ -34,7 +34,7 @@ ITアウトソーシングを行なう理由は、企業での人材不足、コ
   - [偽装請負](https://ja.wikipedia.org/wiki/偽装請負 "wikilink")
   - [協力会社](https://ja.wikipedia.org/wiki/協力会社 "wikilink")
   - [人材派遣](https://ja.wikipedia.org/wiki/人材派遣 "wikilink")
-  - [デスマーチ](https://ja.wikipedia.org/wiki/デスマーチ "wikilink")
+  - [デスマーチ](../Page/デスマーチ.md "wikilink")
   - [ITサービスマネジメント](../Page/ITサービスマネジメント.md "wikilink")
 
 [Category:アウトソーシング](https://ja.wikipedia.org/wiki/Category:アウトソーシング "wikilink") [Category:ITサービスマネジメント](https://ja.wikipedia.org/wiki/Category:ITサービスマネジメント "wikilink")

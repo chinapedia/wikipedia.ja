@@ -1,7 +1,7 @@
 > この記事は[THIS BOOWY DRAMATIC](https://ja.wikipedia.org/wiki/THIS_BOOWY_DRAMATIC)から翻訳されています。
 
 
-『**THIS BOØWY DRAMATIC**』（ズィス・ボウイ・ドラマティック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**THIS BOØWY DRAMATIC**』（ズィス・ボウイ・ドラマティック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[BOØWYの](../Page/BOOWY.md "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -14,55 +14,55 @@
 
 ### CD
 
-1.  **[ホンキー・トンキー・クレイジー](https://ja.wikipedia.org/wiki/ホンキー・トンキー・クレイジー "wikilink")**
+1.  **[ホンキー・トンキー・クレイジー](../Page/ホンキー・トンキー・クレイジー.md "wikilink")**
       -
         1stシングル
-2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOOWYの曲\) "wikilink")**
+2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOOWYの曲\).md "wikilink")**
       -
         5thシングル
-3.  **[わがままジュリエット](https://ja.wikipedia.org/wiki/わがままジュリエット "wikilink")**
+3.  **[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")**
       -
         3rdシングル
 4.  **[季節が君だけを変える](../Page/季節が君だけを変える.md "wikilink")**
       -
-        7thシングル。ここでは6thアルバム『[PSYCHOPATH](https://ja.wikipedia.org/wiki/PSYCHOPATH "wikilink")』の音源が収録されている。
+        7thシングル。ここでは6thアルバム『[PSYCHOPATH](../Page/PSYCHOPATH.md "wikilink")』の音源が収録されている。
 5.  **[CLOUDY HEART](https://ja.wikipedia.org/wiki/CLOUDY_HEART "wikilink")**
       -
-        3rdアルバム『[BOØWY](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink")』収録曲。
-6.  **[OH\! MY JULLY Part I](https://ja.wikipedia.org/wiki/INSTANT_LOVE "wikilink")**
+        3rdアルバム『[BOØWY](../Page/BOOWY_\(アルバム\).md "wikilink")』収録曲。
+6.  **[OH\! MY JULLY Part I](../Page/INSTANT_LOVE.md "wikilink")**
       -
         2ndアルバム『INSTANT LOVE』収録曲。
-7.  **[MY HONEY](https://ja.wikipedia.org/wiki/INSTANT_LOVE "wikilink")**
+7.  **[MY HONEY](../Page/INSTANT_LOVE.md "wikilink")**
       -
         2ndアルバム『INSTANT LOVE』収録曲。
-8.  **[MEMORY](https://ja.wikipedia.org/wiki/PSYCHOPATH "wikilink")**
+8.  **[MEMORY](../Page/PSYCHOPATH.md "wikilink")**
       -
         6thアルバム『PSYCHOPATH』収録曲。
-9.  **[SYMPHONIC](https://ja.wikipedia.org/wiki/INSTANT_LOVE "wikilink")**
+9.  **[SYMPHONIC](../Page/INSTANT_LOVE.md "wikilink")**
       -
         2ndアルバム『INSTANT LOVE』収録曲。
-10. **[WELCOME TO THE TWILIGHT](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOOWYのアルバム\) "wikilink")**
+10. **[WELCOME TO THE TWILIGHT](../Page/JUST_A_HERO_\(BOOWYのアルバム\).md "wikilink")**
       -
         4thアルバム『JUST A HERO』収録曲。
-11. **[B・E・L・I・E・V・E](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")**
+11. **[B・E・L・I・E・V・E](../Page/BEAT_EMOTION.md "wikilink")**
       -
         5thアルバム『BEAT EMOTION』収録曲。
-12. **[LONGER THAN FOREVER](https://ja.wikipedia.org/wiki/PSYCHOPATH "wikilink")**
+12. **[LONGER THAN FOREVER](../Page/PSYCHOPATH.md "wikilink")**
       -
         6thアルバム『PSYCHOPATH』収録曲。
-13. **[RAIN IN MY HEART](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")**
+13. **[RAIN IN MY HEART](../Page/BEAT_EMOTION.md "wikilink")**
       -
         5thアルバム『BEAT EMOTION』収録曲。
-14. **[“16”](https://ja.wikipedia.org/wiki/ホンキー・トンキー・クレイジー "wikilink")**
+14. **[“16”](../Page/ホンキー・トンキー・クレイジー.md "wikilink")**
       -
         1stシングル「ホンキー・トンキー・クレイジー」のB面。
-15. **[RUNAWAY TRAIN](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")**
+15. **[RUNAWAY TRAIN](../Page/BEAT_EMOTION.md "wikilink")**
       -
         5thアルバム『BEAT EMOTION』収録曲。
 16. **[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")** (12inch Single Version)
       -
-        1stアルバム『[MORAL](https://ja.wikipedia.org/wiki/MORAL "wikilink")』収録曲。ここでは2ndシングル「[BAD FEELING](https://ja.wikipedia.org/wiki/BAD_FEELING "wikilink")」のB面の音源が収録されている。
-17. **[DREAMIN'](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink")** (from LAST GIGS)
+        1stアルバム『[MORAL](../Page/MORAL.md "wikilink")』収録曲。ここでは2ndシングル「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」のB面の音源が収録されている。
+17. **[DREAMIN'](../Page/BOOWY_\(アルバム\).md "wikilink")** (from LAST GIGS)
       -
         3rdアルバム『BOØWY』収録曲のライブ音源。
 

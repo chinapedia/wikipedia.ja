@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグセミナー](https://ja.wikipedia.org/wiki/Jリーグセミナー)から翻訳されています。
 
 
 **Jリーグセミナー**は、[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")と[Jリーグが](../Page/日本プロサッカーリーグ.md "wikilink")、[Jリーグ準加盟制度](https://ja.wikipedia.org/wiki/Jリーグ準加盟制度 "wikilink")の申請を予定しているクラブ関係者を対象に、[ホームタウン](../Page/ホームタウン.md "wikilink")のあり方、選手契約、事業関連などの情報を提供する[セミナー](https://ja.wikipedia.org/wiki/セミナー "wikilink")である。2006年度から開催されている。

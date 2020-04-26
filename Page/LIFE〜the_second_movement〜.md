@@ -1,11 +1,11 @@
-> この記事は[LIFEthe second movement](https://ja.wikipedia.org/wiki/LIFEthe_second_movement)から翻訳されています。
+> この記事は[LIFE〜the second movement〜](https://ja.wikipedia.org/wiki/LIFE〜the_second_movement〜)から翻訳されています。
 
 
-『**LIFE〜the second movement〜**』（ライフ ザ セカンド ムーブメント）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")、[youが](../Page/You_\(Janne_Da_Arc\).md "wikilink")[バンド結成](../Page/バンド_\(音楽\).md "wikilink")10周年記念のソロ活動としてソロアルバム3部作の第二弾としてリリースの[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。
+『**LIFE〜the second movement〜**』（ライフ ザ セカンド ムーブメント）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")、[youが](../Page/You_\(Janne_Da_Arc\).md "wikilink")[バンド結成](../Page/バンド_\(音楽\).md "wikilink")10周年記念のソロ活動としてソロアルバム3部作の第二弾としてリリースの[インストゥルメンタル](../Page/器楽曲.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。
 
 ## 内容
 
-完全限定生産盤には、『a life trip』の[PVとオフショットを収録したDVDが付属](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、通常盤には永続特典として、20Pフォトブックレット封入。
+完全限定生産盤には、『a life trip』の[PVとオフショットを収録したDVDが付属](../Page/ミュージック・ビデオ.md "wikilink")、通常盤には永続特典として、20Pフォトブックレット封入。
 
 完全限定生産盤と通常盤では[ジャケットが異なる](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。
 

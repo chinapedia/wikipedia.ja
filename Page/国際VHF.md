@@ -1,4 +1,4 @@
-> この記事は[VHF](https://ja.wikipedia.org/wiki/VHF)から翻訳されています。
+> この記事は[国際VHF](https://ja.wikipedia.org/wiki/国際VHF)から翻訳されています。
 
 
 **国際VHF**（こくさいVHF）とは、[船舶](https://ja.wikipedia.org/wiki/船舶 "wikilink")が沿岸海域では入出港の連絡、船位通報、航行の安全、遭難通信、外洋でも船舶相互間通信に使用する[無線である](../Page/無線通信.md "wikilink")。 マリンバンドとも、また英語では”marine VHF band”と呼ばれる。

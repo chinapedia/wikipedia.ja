@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ビットチャーG](https://ja.wikipedia.org/wiki/ビットチャーG)から翻訳されています。
 
 
 **ビットチャーG**は[タカラトミー](../Page/タカラトミー.md "wikilink")から発売されていた小型[ラジコンカー](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")。関連商品として、ビットレーサーがある。

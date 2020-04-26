@@ -1,4 +1,4 @@
-> この記事は[F \(\)](https://ja.wikipedia.org/wiki/F_\(\))から翻訳されています。
+> この記事は[F級潜水艦 \(アメリカ海軍\)](https://ja.wikipedia.org/wiki/F級潜水艦_\(アメリカ海軍\))から翻訳されています。
 
 
 **F級潜水艦** (**F-class submarine**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。1909年に[エレクトリック・ボート](https://ja.wikipedia.org/wiki/エレクトリック・ボート "wikilink")社で設計された。

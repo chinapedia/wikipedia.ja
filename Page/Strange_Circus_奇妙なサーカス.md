@@ -1,4 +1,4 @@
-> この記事は[Strange Circus ](https://ja.wikipedia.org/wiki/Strange_Circus_)から翻訳されています。
+> この記事は[Strange Circus 奇妙なサーカス](https://ja.wikipedia.org/wiki/Strange_Circus_奇妙なサーカス)から翻訳されています。
 
 
 『**Strange Circus 奇妙なサーカス**』（ストレンジ サーカス きみょうなさーかす）は、[2005年](../Page/2005年.md "wikilink")製作の[日本映画](../Page/日本映画.md "wikilink")。

@@ -1,13 +1,13 @@
 > この記事は[NUAGE](https://ja.wikipedia.org/wiki/NUAGE)から翻訳されています。
 
 
-**NUAGE**（ヌアージュ、本名：Denise De Vincenzo(デニス・デ＝ヴィンツェンツォ)、[1984年](../Page/1984年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）は、[GO GO'S MUSICレーベル所属の女性](https://ja.wikipedia.org/wiki/GO_GO'S_MUSIC "wikilink")[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")[歌手](../Page/歌手.md "wikilink")である。
+**NUAGE**（ヌアージュ、本名：Denise De Vincenzo(デニス・デ＝ヴィンツェンツォ)、[1984年](../Page/1984年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）は、[GO GO'S MUSICレーベル所属の女性](https://ja.wikipedia.org/wiki/GO_GO'S_MUSIC "wikilink")[ユーロビート](../Page/ユーロビート.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。
 
 [イタリア共和国](https://ja.wikipedia.org/wiki/イタリア共和国 "wikilink")[カンパニア州](../Page/カンパニア州.md "wikilink")[ナポリ](https://ja.wikipedia.org/wiki/ナポリ "wikilink")県生まれ。NUAGEはフランス語で「雲」を意味する。
 
 ## 概要
 
-[2002年](../Page/2002年.md "wikilink")、[デイブ・ロジャース](https://ja.wikipedia.org/wiki/デイブ・ロジャース "wikilink")のプロデュースの下、コンピレーションアルバム『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")（以下SEB）Vol.126』に収録された「DON'T WANNA LOSE YOU BABY」でユーロビート歌手としてデビューする。
+[2002年](../Page/2002年.md "wikilink")、[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")のプロデュースの下、コンピレーションアルバム『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")（以下SEB）Vol.126』に収録された「DON'T WANNA LOSE YOU BABY」でユーロビート歌手としてデビューする。
 
 高めのBPMが主流になっていた当時としては、数少ないBPMが低めの楽曲であり、また[1980年代](../Page/1980年代.md "wikilink")のPWLサウンドを彷彿させる個性的な曲調が大きな話題を呼び、『SEB VOL.130』ではベスト6位を記録した。
 
@@ -41,7 +41,7 @@
         YELLOWFIN名義での発表。『SEB VOL.169』に収録。
   - I'M GONNA CARRY ON
       -
-        『SEB VOL.171』に収録。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[HINOIチーム](../Page/HINOIチーム.md "wikilink")がカバーしている。
+        『SEB VOL.171』に収録。[2006年](../Page/2006年.md "wikilink")に[HINOIチーム](../Page/HINOIチーム.md "wikilink")がカバーしている。
   - SHINE
       -
         『SEB VOL.173』に収録。
@@ -85,7 +85,7 @@
 <!-- end list -->
 
   -
-    これらのリミックスはOVERHEAD CHAMPIONのアルバムやavexから発売されている[トランスのコンピレーションアルバムに収録されている](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")。
+    これらのリミックスはOVERHEAD CHAMPIONのアルバムやavexから発売されている[トランスのコンピレーションアルバムに収録されている](../Page/トランス_\(音楽\).md "wikilink")。
 
   - コラボレーション
 
@@ -119,7 +119,7 @@
 
 <!-- end list -->
 
-  - WAKE ME UP / [KING & QUEEN](https://ja.wikipedia.org/wiki/キング&クイーン "wikilink")
+  - WAKE ME UP / [KING & QUEEN](../Page/キング&クイーン.md "wikilink")
       -
         『SEB VOL.145』に収録。
   - ECLIPSE OF YOUR LOVE / HAPPY HOURS

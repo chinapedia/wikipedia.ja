@@ -1,4 +1,4 @@
-> この記事は[MBS!](https://ja.wikipedia.org/wiki/MBS!)から翻訳されています。
+> この記事は[MBSどっと!アナ](https://ja.wikipedia.org/wiki/MBSどっと!アナ)から翻訳されています。
 
 
 **MBSどっと\!アナ**は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の[2007年](../Page/2007年.md "wikilink")度下半期[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")レーベルである。MBSの若手アナウンサーが中心でパーソナリティーを務めた。この番組開始に伴い、平日20時台に行っていた[TBSラジオからの番組ネットが解消された](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")。

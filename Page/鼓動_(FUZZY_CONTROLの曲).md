@@ -1,4 +1,4 @@
-> この記事は[ \(FUZZY CONTROL\)](https://ja.wikipedia.org/wiki/_\(FUZZY_CONTROL\))から翻訳されています。
+> この記事は[鼓動 \(FUZZY CONTROLの曲\)](https://ja.wikipedia.org/wiki/鼓動_\(FUZZY_CONTROLの曲\))から翻訳されています。
 
 
 **鼓動**（こどう）は[FUZZY CONTROLの](../Page/FUZZY_CONTROL.md "wikilink")8枚目のシングル。

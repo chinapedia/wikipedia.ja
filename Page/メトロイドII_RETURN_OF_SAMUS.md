@@ -1,4 +1,4 @@
-> この記事は[II RETURN OF SAMUS](https://ja.wikipedia.org/wiki/II_RETURN_OF_SAMUS)から翻訳されています。
+> この記事は[メトロイドII RETURN OF SAMUS](https://ja.wikipedia.org/wiki/メトロイドII_RETURN_OF_SAMUS)から翻訳されています。
 
 
 『**メトロイドII RETURN OF SAMUS**』（メトロイド ツー リターン オブ サムス、*Metroid II: Return of Samus*）は[1992年](../Page/1992年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトである。「[メトロイドシリーズ](../Page/メトロイドシリーズ.md "wikilink")」の第2作目。

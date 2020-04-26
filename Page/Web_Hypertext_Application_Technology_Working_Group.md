@@ -3,13 +3,13 @@
 
 **Web Hypertext Application Technology Working Group**（**WHATWG**、ワットワーキンググループ、ワットダブルジー）は、[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")と関連技術の開発をするためのコミュニティである。[W3C](https://ja.wikipedia.org/wiki/W3C "wikilink")が策定した[XHTML](https://ja.wikipedia.org/wiki/XHTML "wikilink")や、W3Cがウェブ開発者の要望を軽視していることなどを不満に思った[Apple](../Page/アップル_\(企業\).md "wikilink")、[Mozilla](../Page/Mozilla.md "wikilink")、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")の開発者たちによって2004年に結成された\[1\]。2017年末にはMicrosoftも参加している。
 
-W3Cの対抗組織として始まったWHATWGだが、徐々に影響力を強め、[HTML5](https://ja.wikipedia.org/wiki/HTML5 "wikilink")はWHATWGが提唱したものを元にW3Cが策定した\[2\]。最終的には、W3CがHTMLとDOMの策定をやめ、WHATWGに協力を表明するにまで至っている\[3\]。
+W3Cの対抗組織として始まったWHATWGだが、徐々に影響力を強め、[HTML5](../Page/HTML5.md "wikilink")はWHATWGが提唱したものを元にW3Cが策定した\[2\]。最終的には、W3CがHTMLと[DOMの策定をやめ](../Page/Document_Object_Model.md "wikilink")、WHATWGに協力を表明するにまで至っている\[3\]。
 
 ## 脚注
 
 ## 関連項目
 
-  - [標準化団体 (コンピュータと通信)](https://ja.wikipedia.org/wiki/標準化団体_\(コンピュータと通信\) "wikilink")
+  - [標準化団体 (コンピュータと通信)](../Page/標準化団体_\(コンピュータと通信\).md "wikilink")
 
 ## 外部リンク
 

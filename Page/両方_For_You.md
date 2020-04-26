@@ -1,4 +1,4 @@
-> この記事は[ For You](https://ja.wikipedia.org/wiki/_For_You)から翻訳されています。
+> この記事は[両方 For You](https://ja.wikipedia.org/wiki/両方_For_You)から翻訳されています。
 
 
 『**両方 For You/泣けてくる**』（りょうほう フォー ユー/なけてくる）は、[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された[ウルフルズ](../Page/ウルフルズ.md "wikilink")30枚目の[シングル](../Page/シングル.md "wikilink")。

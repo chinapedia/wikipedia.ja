@@ -1,4 +1,4 @@
-> この記事は[Glitter \(\)](https://ja.wikipedia.org/wiki/Glitter_\(\))から翻訳されています。
+> この記事は[Glitter \(柴咲コウの曲\)](https://ja.wikipedia.org/wiki/Glitter_\(柴咲コウの曲\))から翻訳されています。
 
 
 「**Glitter**」（グリッター）は、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")（RUI名義含む）。[2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

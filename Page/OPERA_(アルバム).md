@@ -1,7 +1,7 @@
-> この記事は[OPERA \(\)](https://ja.wikipedia.org/wiki/OPERA_\(\))から翻訳されています。
+> この記事は[OPERA \(アルバム\)](https://ja.wikipedia.org/wiki/OPERA_\(アルバム\))から翻訳されています。
 
 
-**OPERA**（**おぺら**）は、[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された。
+**OPERA**（**おぺら**）は、[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された。
 
 ## 概要
 
@@ -14,7 +14,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[コーダ](https://ja.wikipedia.org/wiki/コーダ_\(坂本龍一のアルバム\) "wikilink")』収録。
+        アルバム『[コーダ](../Page/コーダ_\(坂本龍一のアルバム\).md "wikilink")』収録。
 2.  **Ride Ride Ride**
       - 作曲：[スティーヴン・マッカーディ](https://ja.wikipedia.org/wiki/スティーヴン・マッカーディ "wikilink")
     <!-- end list -->
@@ -24,7 +24,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[メディア・バーン・ライヴ](https://ja.wikipedia.org/wiki/メディア・バーン・ライヴ "wikilink")』収録。
+        アルバム『[メディア・バーン・ライヴ](../Page/メディア・バーン・ライヴ.md "wikilink")』収録。
 4.  **Dear Liz**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -34,22 +34,22 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[ネオ・ジオ](https://ja.wikipedia.org/wiki/ネオ・ジオ "wikilink")』収録。
+        アルバム『[ネオ・ジオ](../Page/ネオ・ジオ.md "wikilink")』収録。
 6.  **Grasshoppers**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[千のナイフ](https://ja.wikipedia.org/wiki/千のナイフ "wikilink")』収録。
+        アルバム『[千のナイフ](../Page/千のナイフ.md "wikilink")』収録。
 7.  **Paradise Lost**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[音楽図鑑](https://ja.wikipedia.org/wiki/音楽図鑑 "wikilink")』収録。
+        アルバム『[音楽図鑑](../Page/音楽図鑑.md "wikilink")』収録。
 8.  **Parolibre**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[未来派野郎](https://ja.wikipedia.org/wiki/未来派野郎 "wikilink")』収録。
+        アルバム『[未来派野郎](../Page/未来派野郎.md "wikilink")』収録。
 9.  **リイクニのテーマ**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -64,12 +64,12 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        サウンドトラック『[子猫物語](https://ja.wikipedia.org/wiki/子猫物語 "wikilink")』収録。
+        サウンドトラック『[子猫物語](../Page/子猫物語.md "wikilink")』収録。
 12. **The Last Emperor Theme**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        サウンドトラック『[ラストエンペラー](https://ja.wikipedia.org/wiki/ラストエンペラー_\(サウンドトラック\) "wikilink")』収録。
+        サウンドトラック『[ラストエンペラー](../Page/ラストエンペラー_\(サウンドトラック\).md "wikilink")』収録。
 
 ## 脚注
 

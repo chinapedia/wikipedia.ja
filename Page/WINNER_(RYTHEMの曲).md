@@ -1,4 +1,4 @@
-> この記事は[WINNER \(RYTHEM\)](https://ja.wikipedia.org/wiki/WINNER_\(RYTHEM\))から翻訳されています。
+> この記事は[WINNER \(RYTHEMの曲\)](https://ja.wikipedia.org/wiki/WINNER_\(RYTHEMの曲\))から翻訳されています。
 
 
 「**WINNER**」（ウィナー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](../Page/デュオ.md "wikilink")・[RYTHEM](../Page/RYTHEM.md "wikilink")の13作目の[シングル](../Page/シングル.md "wikilink")。

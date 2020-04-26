@@ -1,4 +1,4 @@
-> この記事は[Still \(Skoop On Somebody\)](https://ja.wikipedia.org/wiki/Still_\(Skoop_On_Somebody\))から翻訳されています。
+> この記事は[Still \(Skoop On Somebodyの曲\)](https://ja.wikipedia.org/wiki/Still_\(Skoop_On_Somebodyの曲\))から翻訳されています。
 
 
 『**Still**』（スティル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")の[Skoop On Somebodyが](../Page/Skoop_On_Somebody.md "wikilink")[2001年](../Page/2001年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")12枚目（Skoop On Somebodyとしては4枚目）の[シングル](../Page/シングル.md "wikilink")。

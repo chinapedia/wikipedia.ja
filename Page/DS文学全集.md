@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[DS文学全集](https://ja.wikipedia.org/wiki/DS文学全集)から翻訳されています。
 
 
 『**DS文学全集**』（ディーエスぶんがくぜんしゅう）は、[2007年](../Page/2007年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")から発売されたソフト。[Touch\! Generationsの一つ](../Page/Touch!_Generations.md "wikilink")。

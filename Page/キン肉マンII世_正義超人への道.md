@@ -1,7 +1,7 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[キン肉マンII世 正義超人への道](https://ja.wikipedia.org/wiki/キン肉マンII世_正義超人への道)から翻訳されています。
 
 
-『**キン肉マンII世 正義超人への道**』は、[2002年](../Page/2002年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")から発売された[ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")用プロレス[格闘アクションである](../Page/対戦型格闘ゲーム.md "wikilink")。漫画『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2011年](../Page/2011年.md "wikilink")）を題材としている。
+『**キン肉マンII世 正義超人への道**』は、[2002年](../Page/2002年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用プロレス[格闘アクションである](../Page/対戦型格闘ゲーム.md "wikilink")。漫画『[キン肉マンII世](https://ja.wikipedia.org/wiki/キン肉マンII世 "wikilink")』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [2011年](../Page/2011年.md "wikilink")）を題材としている。
 
 ## 概要
 
@@ -71,7 +71,7 @@
 <!-- end list -->
 
   -
-    一部の場合を除き[ミート](../Page/アレキサンドリア・ミート.md "wikilink")（声：[吉田小南美](https://ja.wikipedia.org/wiki/吉田小南美 "wikilink")）がセコンドにつく。
+    一部の場合を除き[ミート](../Page/アレキサンドリア・ミート.md "wikilink")（声：[吉田小南美](../Page/吉田小南美.md "wikilink")）がセコンドにつく。
     必殺技
     キン肉ドライバー（組み中にRボタン）
     キン肉バスター（組み中にR+←or→）
@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - 声 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+  - 声 - [森川智之](../Page/森川智之.md "wikilink")
 
 <!-- end list -->
 
@@ -101,7 +101,7 @@
 
 <!-- end list -->
 
-  - 声 - [増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")
+  - 声 - [増谷康紀](../Page/増谷康紀.md "wikilink")
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 
 <!-- end list -->
 
-  - 声 - [山崎たくみ](https://ja.wikipedia.org/wiki/山崎たくみ "wikilink")
+  - 声 - [山崎たくみ](../Page/山崎たくみ.md "wikilink")
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 
 <!-- end list -->
 
-  - 声 - [野島健児](https://ja.wikipedia.org/wiki/野島健児_\(声優\) "wikilink")
+  - 声 - [野島健児](../Page/野島健児_\(声優\).md "wikilink")
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 
 <!-- end list -->
 
-  - 声 - [稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
+  - 声 - [稲田徹](../Page/稲田徹.md "wikilink")
 
 <!-- end list -->
 
@@ -166,7 +166,7 @@
 
 <!-- end list -->
 
-  - 声 - [高崎拓郎](https://ja.wikipedia.org/wiki/高崎拓郎 "wikilink")
+  - 声 - [高崎拓郎](../Page/高崎拓郎.md "wikilink")
 
 <!-- end list -->
 
@@ -200,7 +200,7 @@
 
 <!-- end list -->
 
-  - 声 - [西村朋紘](https://ja.wikipedia.org/wiki/西村朋紘 "wikilink")
+  - 声 - [西村朋紘](../Page/西村朋紘.md "wikilink")
 
 <!-- end list -->
 
@@ -233,7 +233,7 @@
 
 <!-- end list -->
 
-  - 声 - [太田真一郎](https://ja.wikipedia.org/wiki/太田真一郎 "wikilink")
+  - 声 - [太田真一郎](../Page/太田真一郎.md "wikilink")
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@
 
 <!-- end list -->
 
-  - 声 - [遠近孝一](https://ja.wikipedia.org/wiki/遠近孝一 "wikilink")
+  - 声 - [遠近孝一](../Page/遠近孝一.md "wikilink")
 
 <!-- end list -->
 
@@ -266,7 +266,7 @@
 
 <!-- end list -->
 
-  - 声 - [乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+  - 声 - [乃村健次](../Page/乃村健次.md "wikilink")
 
 <!-- end list -->
 
@@ -299,7 +299,7 @@
 
 <!-- end list -->
 
-  - 声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+  - 声 - [中井和哉](../Page/中井和哉.md "wikilink")
 
 <!-- end list -->
 
@@ -351,7 +351,7 @@
 
 <!-- end list -->
 
-  - 声 - [小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")
+  - 声 - [小野健一](../Page/小野健一_\(声優\).md "wikilink")
 
 <!-- end list -->
 

@@ -1,19 +1,19 @@
 > この記事は[DAKARA](https://ja.wikipedia.org/wiki/DAKARA)から翻訳されています。
 
 
-**DAKARA**（だから）は、[2000年](../Page/2000年.md "wikilink")より[サントリーフーズ](https://ja.wikipedia.org/wiki/サントリーフーズ "wikilink")から発売されている[清涼飲料水](../Page/清涼飲料水.md "wikilink")（[機能性飲料](https://ja.wikipedia.org/wiki/機能性飲料 "wikilink")）の[商品名である](../Page/商標.md "wikilink")。キャッチフレーズは「カラダ・バランス飲料」。
+**DAKARA**（だから）は、[2000年](../Page/2000年.md "wikilink")より[サントリーフーズ](../Page/サントリーフーズ.md "wikilink")から発売されている[清涼飲料水](../Page/清涼飲料水.md "wikilink")（[機能性飲料](../Page/機能性飲料.md "wikilink")）の[商品名である](../Page/商標.md "wikilink")。キャッチフレーズは「カラダ・バランス飲料」。
 
-[グレープフルーツ](https://ja.wikipedia.org/wiki/グレープフルーツ "wikilink")味のすっきりとした甘さで、100mlあたりのカロリーは17kcal。発売当初は後述の商品コンセプトを象徴するものとして[小便小僧](https://ja.wikipedia.org/wiki/小便小僧 "wikilink")の登場するCMが流された。
+[グレープフルーツ](../Page/グレープフルーツ.md "wikilink")味のすっきりとした甘さで、100mlあたりのカロリーは17kcal。発売当初は後述の商品コンセプトを象徴するものとして[小便小僧](../Page/小便小僧.md "wikilink")の登場するCMが流された。
 
 ## 概要
 
-従来の[スポーツドリンク](https://ja.wikipedia.org/wiki/スポーツドリンク "wikilink")同様に[カルシウム](../Page/カルシウム.md "wikilink")、[マグネシウム](https://ja.wikipedia.org/wiki/マグネシウム "wikilink")、カリウム、[食物繊維](../Page/食物繊維.md "wikilink")などの摂取しづらい栄養素の「不足分を補充する」ことにも配慮されているが、それ以上に脂肪分、糖分、塩分といった「余分なものを排出させる」ことを強調したセールス手法が置かれているのが特徴である。
+従来の[スポーツドリンク](../Page/スポーツドリンク.md "wikilink")同様に[カルシウム](../Page/カルシウム.md "wikilink")、[マグネシウム](../Page/マグネシウム.md "wikilink")、カリウム、[食物繊維](../Page/食物繊維.md "wikilink")などの摂取しづらい栄養素の「不足分を補充する」ことにも配慮されているが、それ以上に脂肪分、糖分、塩分といった「余分なものを排出させる」ことを強調したセールス手法が置かれているのが特徴である。
 
-具体的には[イノシトール](https://ja.wikipedia.org/wiki/イノシトール "wikilink")により過剰な中性脂肪の蓄積を、[アラビノース](../Page/アラビノース.md "wikilink")により糖分の吸収を抑制するとしており、さらに砂糖ではなくブドウ糖や果糖、[スクラロース](https://ja.wikipedia.org/wiki/スクラロース "wikilink")を組み合わせて使うことでカロリーが抑えられている。また成分には[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")を含まず、[カリウム](../Page/カリウム.md "wikilink")を配合することで過剰な塩分の排出を促すともしている。また、ほかの清涼飲料水ではほとんど見ることができない糖質と糖類が表記されている。
+具体的には[イノシトール](https://ja.wikipedia.org/wiki/イノシトール "wikilink")により過剰な中性脂肪の蓄積を、[アラビノース](../Page/アラビノース.md "wikilink")により糖分の吸収を抑制するとしており、さらに砂糖ではなくブドウ糖や果糖、[スクラロース](../Page/スクラロース.md "wikilink")を組み合わせて使うことでカロリーが抑えられている。また成分には[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")を含まず、[カリウム](../Page/カリウム.md "wikilink")を配合することで過剰な塩分の排出を促すともしている。また、ほかの清涼飲料水ではほとんど見ることができない糖質と糖類が表記されている。
 
-開発当初は「[ポカリスエット](https://ja.wikipedia.org/wiki/ポカリスエット "wikilink")」（[大塚製薬](../Page/大塚製薬.md "wikilink")）や「[アクエリアス](https://ja.wikipedia.org/wiki/アクエリアス "wikilink")」（[日本コカ・コーラ](../Page/コカ・コーラ.md "wikilink")）といった既存のスポーツドリンクへの対抗商品として「もうひと頑張りできる働く男のスポーツドリンク」という製品コンセプトが2年間をかけて設定された。しかしその過程で詳細に調べていくうちにスポーツドリンクが飲まれるのはスポーツ後ではなくむしろ二日酔いの後や仕事の合間が多いこと、食生活の乱れが顕著であることなどからコンセプトが再設定され、さらに2年間を経て発売となった。
+開発当初は「[ポカリスエット](../Page/ポカリスエット.md "wikilink")」（[大塚製薬](../Page/大塚製薬.md "wikilink")）や「[アクエリアス](../Page/アクエリアス.md "wikilink")」（[日本コカ・コーラ](../Page/コカ・コーラ.md "wikilink")）といった既存のスポーツドリンクへの対抗商品として「もうひと頑張りできる働く男のスポーツドリンク」という製品コンセプトが2年間をかけて設定された。しかしその過程で詳細に調べていくうちにスポーツドリンクが飲まれるのはスポーツ後ではなくむしろ二日酔いの後や仕事の合間が多いこと、食生活の乱れが顕著であることなどからコンセプトが再設定され、さらに2年間を経て発売となった。
 
-2012年4月から発売されている派生製品の「GREEN DA・KA・RA（グリーン ダカラ）」は「日常生活の水分補給」をコンセプト\[1\]としており、汗などで失われた水分と[イオン](../Page/イオン.md "wikilink")を効率よく補給するため、11種類の素材と純水だけで水分補給に適したイオン濃度と[浸透圧](https://ja.wikipedia.org/wiki/浸透圧 "wikilink")に調整されている。
+2012年4月から発売されている派生製品の「GREEN DA・KA・RA（グリーン ダカラ）」は「日常生活の水分補給」をコンセプト\[1\]としており、汗などで失われた水分と[イオン](../Page/イオン.md "wikilink")を効率よく補給するため、11種類の素材と純水だけで水分補給に適したイオン濃度と[浸透圧](../Page/浸透圧.md "wikilink")に調整されている。
 
 ## 沿革
 
@@ -31,8 +31,8 @@
       - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - 2Lペットボトルを追加発売。
       - [4月23日](../Page/4月23日.md "wikilink") - 350mlペットボトルを追加発売。
   - [2003年](../Page/2003年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink") - 九州熊本工場の竣工を記念し、280ml入りの「九州熊本工場竣工記念缶」を九州地区限定で発売。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月29日](../Page/3月29日.md "wikilink") - 初のリニューアル。カルシウム・マグネシウム・食物繊維を強化すると共に、味わいも改良された。リニューアルに伴い、サイズラインナップを見直し、330ml紙パック・350mlペットボトル・410gボトル缶・1.5Lペットボトルを廃止し、新たに160g缶・250ml紙パック・280mlペットボトルを設定。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月28日](../Page/4月28日.md "wikilink") - 2度目のリニューアル。味わいを改良。また、2Lペットボトルは「[ゆびスポットボトル](https://ja.wikipedia.org/wiki/ゆびスポットボトル "wikilink")」を採用。
+  - [2005年](../Page/2005年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - 初のリニューアル。カルシウム・マグネシウム・食物繊維を強化すると共に、味わいも改良された。リニューアルに伴い、サイズラインナップを見直し、330ml紙パック・350mlペットボトル・410gボトル缶・1.5Lペットボトルを廃止し、新たに160g缶・250ml紙パック・280mlペットボトルを設定。
+  - [2006年](../Page/2006年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - 2度目のリニューアル。味わいを改良。また、2Lペットボトルは「[ゆびスポットボトル](https://ja.wikipedia.org/wiki/ゆびスポットボトル "wikilink")」を採用。
   - [2007年](../Page/2007年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - 3度目のリニューアル。食塩不使用（[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")フリー）となる。また、従来の900mlペットボトルに替わり、1Lペットボトルを導入。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 4度目のリニューアル。機能素材である[イノシトール](https://ja.wikipedia.org/wiki/イノシトール "wikilink")や[アラビノース](../Page/アラビノース.md "wikilink")を加えた。パッケージも白地に青空をあしらったデザインとなる。なお、リニューアルに伴い、1L用パウダーを廃止。
   - [2009年](../Page/2009年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - 5度目のリニューアル。今回はパッケージ変更のみに留まる。リニューアルに伴い、160g缶・1Lペットボトルを廃止。
@@ -46,7 +46,7 @@
       - [7月2日](../Page/7月2日.md "wikilink") - 「GREEN DA・KA・RA」のシリーズ製品として、大麦・玄米・はと麦・大豆・白米・黒ごま・海藻の7つの素材と純水だけで製造し、素材由来のミネラル（ナトリウム・[カリウム](../Page/カリウム.md "wikilink")）、アミノ酸、食物繊維を含む[麦茶](../Page/麦茶.md "wikilink")「GREEN DA・KA・RA やさしい麦茶」を発売。
   - [2014年](../Page/2014年.md "wikilink")
       - [3月11日](../Page/3月11日.md "wikilink") - 「GREEN DA・KA・RA やさしい麦茶」をリニューアル。味わいの改良を行った。併せて、「GREEN DA・KA・RA」の2Lもパッケージリニューアル。
-      - [6月24日](../Page/6月24日.md "wikilink") - 4種類の果汁（グレープフルーツ・白ぶどう・りんご・パインアップル）、[ココナッツ](https://ja.wikipedia.org/wiki/ココナッツ "wikilink")ウォーター、ナトリウムを含む「DAKARA 塩と果実」を発売。
+      - [6月24日](../Page/6月24日.md "wikilink") - 4種類の果汁（グレープフルーツ・白ぶどう・りんご・パインアップル）、[ココナッツ](../Page/ココナッツ.md "wikilink")ウォーター、ナトリウムを含む「DAKARA 塩と果実」を発売。
       - [7月1日](../Page/7月1日.md "wikilink") - 「GREEN DA・KA・RA やさしい麦茶」の500mlペットボトルを550mlに増量しリニューアル発売（自動販売機用は除く）。
   - [2015年](../Page/2015年.md "wikilink")
       - [6月23日](../Page/6月23日.md "wikilink") - 「GREEN DA・KA・RA やさしい麦茶」をリニューアル。雑味を除去する製法を採用して味わいを改良（このリニューアルで黒ごまが省かれ、使用素材が6種類となる）。さらに、店頭販売用の550mlペットボトルは内容量を650mlに増量し、ボトル形状を新デザインに変更した。
@@ -67,7 +67,7 @@
       - 9月24日 - [ケルセチン](https://ja.wikipedia.org/wiki/ケルセチン "wikilink")配糖体を含有する特定保健用食品「大人ダカラ」を発売。
       - 12月4日 - 「GREEN DA・KA・RA」の600mlをリニューアル。内容量を従来量の540mlに減量され、[ゆずを加えた限定仕様となる](../Page/ユズ.md "wikilink")。
   - [2019年](../Page/2019年.md "wikilink")
-      - 3月12日 - 「GREEN DA・KA・RA まぜまぜスムージー」を発売。本品は[牛乳](../Page/牛乳.md "wikilink")と混ぜて飲む濃縮タイプ（1本で約5杯分）のスリムペットボトル入り[スムージー](../Page/スムージー.md "wikilink")で、「フルーツミックス」と「[プルーン](https://ja.wikipedia.org/wiki/プルーン "wikilink")ミックス」の2種類が設定される。
+      - 3月12日 - 「GREEN DA・KA・RA まぜまぜスムージー」を発売。本品は[牛乳](../Page/牛乳.md "wikilink")と混ぜて飲む濃縮タイプ（1本で約5杯分）のスリムペットボトル入り[スムージー](../Page/スムージー.md "wikilink")で、「フルーツミックス」と「[プルーン](../Page/プルーン.md "wikilink")ミックス」の2種類が設定される。
       - 3月26日 - 「GREEN DA・KA・RA 塩 ライチ&ヨーグルト味」に自動販売機用の350ml缶を追加発売。
       - 4月16日 - 「GREEN DA・KA・RA やさしい麦茶 濃縮タイプ」を専門店・量販店（スーパー・[ドラッグストア](../Page/ドラッグストア.md "wikilink")・[ホームセンター](../Page/ホームセンター.md "wikilink")等）限定で発売。本品は**濃縮タイプの缶入り麦茶**で、水と混ぜて使用する（1缶(180g)で1～2L分）。1缶のバラ売りの他に、6缶パックも設定される。
       - 5月1日 - 原材料価格の高騰や物流コストの上昇の影響を受け、「DAKARAフレッシュスタート」、「GREEN DA・KA・RA」、「GREEN DA・KA・RA やさしい麦茶」の2Lペットボトル及び「DAKARA SPORTS」が同日出荷分から価格改定され、メーカー希望小売価格が一律20円値上げされた\[2\]。
@@ -77,8 +77,8 @@
 
 ### DAKARA
 
-  - [小便小僧](https://ja.wikipedia.org/wiki/小便小僧 "wikilink")
-      - [津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")
+  - [小便小僧](../Page/小便小僧.md "wikilink")
+      - [津田寛治](../Page/津田寛治.md "wikilink")
       - [高尾晃市](https://ja.wikipedia.org/wiki/高尾晃市 "wikilink")
       - [せいじろう](../Page/せいじろう.md "wikilink")
   - [天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink") - （2008年4月 - 2012年5月）
@@ -109,11 +109,11 @@
   - [熱血飲料](https://ja.wikipedia.org/wiki/熱血飲料 "wikilink")
   - [本城和彦](../Page/本城和彦.md "wikilink") - 元ラグビー選手。サントリー社員としてDAKARAの発売・宣伝に携わった\[5\]。
 
+## 注釈
+
 ## 外部リンク
 
-  - [サントリー「ライフパートナー」シリーズ公式サイト](http://www.suntory.co.jp/softdrink/lifepartner/index.html#lineup)
-
-## 注釈
+  - [グリーン ダ・カ・ラ GREEN DA・KA・RA](https://www.suntory.co.jp/softdrink/greendakara/)
 
 [Category:市販清涼飲料水](https://ja.wikipedia.org/wiki/Category:市販清涼飲料水 "wikilink") [Category:サントリー](https://ja.wikipedia.org/wiki/Category:サントリー "wikilink")
 

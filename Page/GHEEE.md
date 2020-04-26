@@ -136,11 +136,11 @@ DDCB-14001:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                       |                                                                                                                                                                    |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **監督**                                                | **曲名**                                                                                                                                                             |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink") | 「[Bright light](https://www.youtube.com/watch?v=9M6sS7hpdzc)」「[Silver tongue](https://www.youtube.com/watch?v=6KJVGHZr98k)」「Beautiful Stungun」「Runaway Pigeon Bus」 |
-|                                                       |                                                                                                                                                                    |
+|                                    |                                                                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **監督**                             | **曲名**                                                                                                                                                             |
+| [小嶋貴之](../Page/小嶋貴之.md "wikilink") | 「[Bright light](https://www.youtube.com/watch?v=9M6sS7hpdzc)」「[Silver tongue](https://www.youtube.com/watch?v=6KJVGHZr98k)」「Beautiful Stungun」「Runaway Pigeon Bus」 |
+|                                    |                                                                                                                                                                    |
 
 ## 外部リンク
 

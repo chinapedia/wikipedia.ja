@@ -1,7 +1,7 @@
 > この記事は[シャイニング・フォースII 古えの封印](https://ja.wikipedia.org/wiki/シャイニング・フォースII_古えの封印)から翻訳されています。
 
 
-『**シャイニング・フォースII 古えの封印**』（シャイニング・フォースツー いにしえのふういん、*Shining Force II*）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
+『**シャイニング・フォースII 古えの封印**』（シャイニング・フォースツー いにしえのふういん、*Shining Force II*）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本の[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")から発売された[メガドライブ](../Page/メガドライブ.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。
 
 ## 概要
 
@@ -439,7 +439,7 @@
 
   - （英語）
 
-[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:シャイニング・シリーズ](https://ja.wikipedia.org/wiki/Category:シャイニング・シリーズ "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
+[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:キャメロットのゲームソフト](https://ja.wikipedia.org/wiki/Category:キャメロットのゲームソフト "wikilink") [Category:シミュレーションRPG](https://ja.wikipedia.org/wiki/Category:シミュレーションRPG "wikilink") [Category:シャイニング・シリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:シャイニング・シリーズのコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  同小説の設定については作者のHPも参照[シャイニングフォース神竜の血脈](http://homepage2.nifty.com/SAMI/work/sf.htm)
 2.  [ソニックチーム](../Page/ソニックチーム.md "wikilink")では無い。

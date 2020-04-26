@@ -1,15 +1,15 @@
 > この記事は[LADY NAVIGATION](https://ja.wikipedia.org/wiki/LADY_NAVIGATION)から翻訳されています。
 
 
-「**LADY NAVIGATION**」(レディ・ナビゲーション) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲で、[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")8作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**LADY NAVIGATION**」(レディ・ナビゲーション) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")8作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
 前作『[愛しい人よGood Night...](../Page/愛しい人よGood_Night....md "wikilink")』より約5ヶ月ぶりのリリースで、デビューの頃より使用していた初代B'zロゴが使用された最後のシングル。発売日の[1991年](../Page/1991年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")は松本の30歳の誕生日であり、当時のインタビューで松本は「僕の生誕30周年記念シングル」と冗談めかして語っていた\[1\]。
 
-オリコン集計では、B'z初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成したシングルである\[2\]\[3\]。そして本作より、20thシングル『[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")』まで13作連続ミリオンセラーの記録を作ることとなる。チャートインは計56週 (再発盤含む) を記録し、B'zのシングルとしては最多である。オリコン集計による累計売上はミリオンを突破したが、[日本レコード協会](../Page/日本レコード協会.md "wikilink")からはミリオンセラー認定を受けていない。
+オリコン集計では、B'z初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成したシングルである\[2\]\[3\]。そして本作より、20thシングル『[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")』まで13作連続ミリオンセラーの記録を作ることとなる。チャートインは計56週 (再発盤含む) を記録し、B'zのシングルとしては最多である。オリコン集計による累計売上はミリオンを突破した。[日本レコード協会](../Page/日本レコード協会.md "wikilink")からはトリプル・プラチナ\[4\]認定を受けた\[5\]。
 
-この曲で、1991年の第24回[日本有線大賞](../Page/日本有線大賞.md "wikilink")で「最多リクエスト歌手賞」を前年に続き2年連続で受賞した\[4\]。
+この曲で、1991年の第24回[日本有線大賞](../Page/日本有線大賞.md "wikilink")で「最多リクエスト歌手賞」を前年に続き2年連続で受賞した\[6\]。
 
 2003年3月26日にリマスタリング、12cm化で再発売された。
 
@@ -17,9 +17,10 @@
 
 1.  **LADY NAVIGATION** (4:22)
       -
-        カネボウ化粧品 '91夏のイメージソングのために書き下ろされた楽曲で、歌詞の中では当時のカネボウの商品だった「NAVI」がフレーズとして使われた\[5\]。
+        カネボウ化粧品 '91夏のイメージソングのために書き下ろされた楽曲で、歌詞の中では当時のカネボウの商品だった「NAVI」がフレーズとして使われた\[7\]。
         前2作とは異なり、再びデジタル・ナンバーとなっている。
         原曲は[オリジナル・アルバムには収録されておらず](../Page/スタジオ・アルバム.md "wikilink")、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』で収録された。バージョン違いも存在する(後述)。
+        マスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』を制作時にリミックスされたバージョンも制作したが、ベスト・アルバム『B'z The Best "Pleasure"』に収録されているため未収録となった\[8\]。
         ライブでは滅多に[演奏](../Page/演奏.md "wikilink")されることがなく、[2003年](../Page/2003年.md "wikilink")のシークレットライブ『B'z SHOWCASE 2003 "IT'S SHOWCASE\!\!"』のオープニングナンバーとして9年ぶり (オリジナルバージョンとしては『B'z LIVE-GYM '91〜'92 "IN THE LIFE"』以来11年ぶり) に演奏され、「(演奏したのは) イントロで皆がビックリすると思ったから、SHOWCASEっぽい曲だよね。」と述べている。その後2013年まで一切演奏されず、ファンクラブ会報内のインタビューでスタッフから「LADY NAVIGATIONは何でライブでやらないのですか？」と聞かれた際にメンバーは、「(ファンレター等に) LADY NAVIGATIONを演奏してくださいと書かれていないから」と返答していたが、2013年のデビュー25周年記念に開催されたツアー『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』で (レギュラーメニューとしては) 21年ぶりにオリジナルバージョンで演奏された。
 2.  **Pleasure'91 〜人生の快楽〜** (4:25)
       -
@@ -57,7 +58,7 @@
 
 [B'zのライブツアーには](../Page/LIVE-GYM.md "wikilink")『Pleasureツアー』と冠されたものがあり、そのツアーでは一部の年を除いて、ほぼ毎回本楽曲が演奏されている。その際は演奏される年ごとにアレンジと歌詞の一部が変更されており、それに伴い曲名が「Pleasure ○○ 〜人生の快楽〜」(○○には年代が入る)に変更される。
 
-変更される[歌詞](../Page/歌詞.md "wikilink")は主に、2番のAメロの部分である。内容は、91年バージョン（原曲）の歌詞中に登場した「あいつ」のその後の物語が、タイトルに含まれる『○○年』の時期と連動して展開している。
+変更される[歌詞](../Page/歌詞.md "wikilink")は主に、2番のAメロの部分である。内容は、91年バージョン（原曲）の歌詞中に登場した「あいつ」のその後の物語が、タイトルに含まれる「○○年」の時期と連動して展開している。
 
   - **Pleasure'92 〜人生の快楽〜**
       -
@@ -101,7 +102,7 @@
   - [B'z TV Style SONGLESS VERSION](../Page/B'z_TV_Style_SONGLESS_VERSION.md "wikilink") (TV Style)
   - [MARS](../Page/MARS_\(B'zのアルバム\).md "wikilink") (英語詞バージョン「Cookie & Car Stereo Style」)
   - [The 7th Blues](../Page/The_7th_Blues.md "wikilink") (同名タイトル英語詞[ブルース](../Page/ブルース.md "wikilink")バージョン)
-  - [DEVIL](../Page/DEVIL_\(B'zのアルバム\).md "wikilink") (同名タイトル英語詞[ブルース](../Page/ブルース.md "wikilink")バージョン)
+  - [DEVIL](../Page/DEVIL_\(B'zのアルバム\).md "wikilink") (同名タイトル英語詞ブルースバージョン)
   - [B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")
@@ -137,8 +138,11 @@
 
 [Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:1991年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")
 
-1.  『Treasure : B'z Chronicle 1988～1998 10th anniversary special issue』P49より
+1.
 2.
 3.
-4.
+4.  当時の基準で出荷枚数120万枚。
 5.
+6.
+7.
+8.

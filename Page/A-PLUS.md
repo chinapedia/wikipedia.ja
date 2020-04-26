@@ -33,6 +33,7 @@
   - NOBU
   - [高橋文哉](https://ja.wikipedia.org/wiki/高橋文哉 "wikilink")
   - [新條由芽](https://ja.wikipedia.org/wiki/新條由芽 "wikilink")
+  - [森山るり](https://ja.wikipedia.org/wiki/森山るり "wikilink")
 
 ## かつて所属していた主なタレント
 

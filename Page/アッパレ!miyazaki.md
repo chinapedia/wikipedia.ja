@@ -41,6 +41,8 @@
   - [政所智子](https://ja.wikipedia.org/wiki/政所智子 "wikilink")
   - [真鍋杏奈](https://ja.wikipedia.org/wiki/真鍋杏奈 "wikilink")（元[横浜ベイスターズ・チアリーダー](https://ja.wikipedia.org/wiki/diana#2007年 "wikilink")）
   - [堀川涼子](https://ja.wikipedia.org/wiki/堀川涼子 "wikilink")（元[宮崎サンシャインレディ](https://ja.wikipedia.org/wiki/宮崎市#宮崎サンシャインレディ "wikilink")）
+  - 新川真弓（しんかわ・〜2011年3月31日）
+  - 外城美江（ほかじょう・〜2011年3月31日）
 
 ### 過去の司会
 

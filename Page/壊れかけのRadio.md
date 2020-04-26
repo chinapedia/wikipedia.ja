@@ -86,7 +86,7 @@
 
 [Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink")
 
-[Category:徳永英明の楽曲](https://ja.wikipedia.org/wiki/Category:徳永英明の楽曲 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ラジオ放送を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ラジオ放送を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:徳永英明の楽曲](https://ja.wikipedia.org/wiki/Category:徳永英明の楽曲 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ラジオ放送を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ラジオ放送を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.
 2.

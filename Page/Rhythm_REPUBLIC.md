@@ -15,7 +15,7 @@
 エイベックスに所属するアーティストがリミックス盤やアナログ盤をリリースする際に本レーベルを使用する場合がある。（ ）内はメイン・レーベル。
 
   - [坂本龍一](../Page/坂本龍一.md "wikilink") ([commons](https://ja.wikipedia.org/wiki/commons "wikilink"))
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") (avex trax)
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") (avex trax)
   - [globe](https://ja.wikipedia.org/wiki/globe "wikilink") ([avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink"))
   - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink") ([cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink"))
   - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") (rhythm zone)

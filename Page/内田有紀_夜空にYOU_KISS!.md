@@ -206,7 +206,7 @@
 
 <th>
 
-[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
 
 </th>
 
@@ -380,7 +380,7 @@
 
 <th>
 
-[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+[信越放送](../Page/信越放送.md "wikilink")
 
 </th>
 
@@ -670,7 +670,7 @@
 
 <th>
 
-[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")
+[和歌山放送](../Page/和歌山放送.md "wikilink")
 
 </th>
 
@@ -876,7 +876,7 @@
 
 <th>
 
-[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+[山口放送](../Page/山口放送.md "wikilink")
 
 </th>
 

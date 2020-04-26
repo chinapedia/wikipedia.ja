@@ -40,7 +40,7 @@ PVは[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wiki
 
   - ミュージック・ビデオ
       -
-[Category:Globeの楽曲](https://ja.wikipedia.org/wiki/Category:Globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:マーク・パンサーが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マーク・パンサーが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:Globeの楽曲](https://ja.wikipedia.org/wiki/Category:Globeの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:マーク・パンサーが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マーク・パンサーが制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
 1.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1996年9月20日号16P-17Pより。
 2.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1997年1月10-25日合併号148P-151Pより。

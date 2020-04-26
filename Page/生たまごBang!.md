@@ -21,6 +21,8 @@
 
 [放送倫理・番組向上機構](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink")（BPO）が選ぶ2014年度4月「青少年へのおすすめ番組」に選ばれた\[1\]。
 
+2019年4月からは[TVer](https://ja.wikipedia.org/wiki/TVer "wikilink")にて見逃し配信がスタートした\[2\]。
+
 ## 出演者
 
 ☆はBSSアナウンサー。
@@ -30,11 +32,10 @@
 #### 出演者
 
   - [山根伸志](../Page/山根伸志.md "wikilink")（☆、2013年5月11日 - ）
-  - [森田初実](https://ja.wikipedia.org/wiki/森田初実 "wikilink") (☆、2019年10月 - )
-  - MOE（2014年4月 - ） - 2018年3月までガールズユニット[kotonoha](https://ja.wikipedia.org/wiki/kotonoha "wikilink")のメンバーとして出演。
   - [近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink")（2018年4月 - ）
   - [森谷佳奈](https://ja.wikipedia.org/wiki/森谷佳奈 "wikilink")（☆、2019年4月 - ） - tabetterナレーション担当。2019年4月からMC。
-  - [山田ちゃーはん](https://ja.wikipedia.org/wiki/山田裕亮 "wikilink") - 米子市出身。よしもとクリエイティブ・エージェンシー
+  - [山田ちゃーはん](https://ja.wikipedia.org/wiki/山田ちゃーはん "wikilink") - 米子市出身。よしもとクリエイティブ・エージェンシー
+  - [三島遥香](https://ja.wikipedia.org/wiki/三島遥香 "wikilink") (2020年4月 - ) - 松江市出身。元[STU48](https://ja.wikipedia.org/wiki/STU48 "wikilink")のグループメンバー。
 
 #### ナレーション
 
@@ -69,6 +70,7 @@
   - [秦まりな](../Page/秦まりな.md "wikilink")（☆） - 「今夜のあて」のコーナー担当
   - えり - tabetter担当
   - ハラミ - tabetter担当
+  - [森田初実](https://ja.wikipedia.org/wiki/森田初実 "wikilink") (☆、2019年10月 - 2020年3月) - 街ぶらMapとあすメシのコーナーに出演。
 
 ## コーナー
 
@@ -105,7 +107,7 @@
 
 ### 出演者
 
-スタジオMC（大田祐樹、山田弥希寿、森谷佳奈、[中島早也佳](https://ja.wikipedia.org/wiki/中島早也佳 "wikilink")など週替わり）
+スタジオMC（[大田祐樹](../Page/大田祐樹.md "wikilink")、[森谷佳奈](https://ja.wikipedia.org/wiki/森谷佳奈 "wikilink")、[中島早也佳](https://ja.wikipedia.org/wiki/中島早也佳 "wikilink")など週替わり）
 
 ### 主なコーナー
 
@@ -169,3 +171,4 @@
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:山陰放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山陰放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink")
 
 1.  [青少年へのおすすめ番組 | BPO | 放送倫理・番組向上機構 |](http://www.bpo.gr.jp/?page_id=1153&meta_key=2014&m=04&program_key=9)
+2.

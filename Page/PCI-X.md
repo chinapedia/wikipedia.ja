@@ -17,4 +17,4 @@ PCIのバスクロックが33 MHz - 66 MHzであるのに対し、PCI-Xでは133
 
   - [PCI](../Page/Peripheral_Component_Interconnect.md "wikilink")
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

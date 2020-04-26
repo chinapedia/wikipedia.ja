@@ -222,9 +222,9 @@ IPO後、Googleの株価は順調に上昇し、2007年10月31日には株価が
 
 **グーグル合同会社**（グーグルごうどうがいしゃ、）は、Googleの日本法人である。2001年8月に、アメリカ国外で初めての現地法人として設立された\[185\]\[186\]。設立当時、日本法人の取締役の中に[ラリー・ペイジ](../Page/ラリー・ペイジ.md "wikilink")（Google共同創業者、後にGoogle米国本社の[CEOも務めた](../Page/最高経営責任者.md "wikilink")）や[セルゲイ・ブリン](../Page/セルゲイ・ブリン.md "wikilink")（同じく共同創業者）が含まれており、[2004年](../Page/2004年.md "wikilink")に2人が来日した際には、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の電気街にも立ち寄っていた\[187\]。また、Google公式ブログでもしばしば日本法人が開発に関わる重要な報告をしている。
 
-なお、現在の東京オフィスは[渋谷ストリーム](https://ja.wikipedia.org/wiki/渋谷ストリーム "wikilink")に置かれ、2010年夏 - 2019年度までは[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")の[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")\[188\]、2010年夏以前は[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町の](../Page/桜丘町_\(渋谷区\).md "wikilink")[セルリアンタワー](../Page/セルリアンタワー.md "wikilink")に置かれていた\[189\]。
+なお、現在、オフィスは[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[渋谷](../Page/渋谷.md "wikilink")の[渋谷ストリーム](https://ja.wikipedia.org/wiki/渋谷ストリーム "wikilink")に渋谷オフィス、[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[六本木](../Page/六本木.md "wikilink")の[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")に六本木オフィスが置かれている。\[188\]2010年夏以前は[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町の](../Page/桜丘町_\(渋谷区\).md "wikilink")[セルリアンタワー](../Page/セルリアンタワー.md "wikilink")に置かれていた\[189\]。
 
-ファイル:Roppongi-Mori-Tower-02.jpg|2019年度までGoogleの日本法人\[190\]の東京オフィスが置かれていた六本木ヒルズ森タワー ファイル:CeruleanTowerTokyuHotel-2.jpg|2010年までGoogleの日本法人\[191\]の東京オフィスが置かれていたセルリアンタワー ファイル:Shibuya Stream overlooking from SHIBUYA SKY.jpg|渋谷ストリーム（2020年1月）
+ファイル:Roppongi-Mori-Tower-02.jpg|Googleの日本法人\[190\]の六本木オフィスが置かれている六本木ヒルズ森タワー ファイル:CeruleanTowerTokyuHotel-2.jpg|2010年までGoogleの日本法人\[191\]の東京オフィスが置かれていたセルリアンタワー ファイル:Shibuya Stream overlooking from SHIBUYA SKY.jpg|渋谷ストリーム（2020年1月）
 
 ### 日本市場における展開
 
@@ -670,7 +670,7 @@ Googleが開発するウェブブラウザのChromeと、Mozillaが開発するF
 186.
 187.
 188. [Googleキャリアの会社紹介](https://www.google.com/intl/tr_jp/about/careers/locations/tokyo/)
-189. このため、Googleの東京オフィスは2019年度後期に[渋谷](../Page/渋谷.md "wikilink")に戻ったこととなる（渋谷から[六本木](../Page/六本木.md "wikilink")への移転は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")夏に行われた）。
+189. このため、Googleの東京オフィスは2019年度後期に一部が[渋谷](../Page/渋谷.md "wikilink")に戻ったこととなる（渋谷から[六本木](../Page/六本木.md "wikilink")への移転は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")夏に行われた）。
 190. 現在のグーグル合同会社、旧グーグル株式会社。
 191.
 192.

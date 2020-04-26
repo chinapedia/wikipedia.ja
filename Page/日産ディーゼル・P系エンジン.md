@@ -140,16 +140,16 @@
       - [くりはら田園鉄道KD95形気動車](../Page/くりはら田園鉄道KD95形気動車.md "wikilink")
       - [明知鉄道アケチ10形気動車](../Page/明知鉄道アケチ10形気動車.md "wikilink")
       - [長良川鉄道ナガラ3形気動車](../Page/長良川鉄道ナガラ3形気動車.md "wikilink")
-      - [長良川鉄道ナガラ500形気動車](https://ja.wikipedia.org/wiki/長良川鉄道ナガラ500形気動車 "wikilink")
+      - [長良川鉄道ナガラ500形気動車](https://ja.wikipedia.org/wiki/長良川鉄道ナガラ500形気動車 "wikilink")\[3\]
       - [樽見鉄道ハイモ295-310形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-310形気動車 "wikilink")
-      - [樽見鉄道ハイモ295-510形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-510形気動車 "wikilink")
+      - [樽見鉄道ハイモ295-510形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-510形気動車 "wikilink")\[4\]
       - [信楽高原鐵道SKR310形気動車](../Page/信楽高原鐵道SKR310形気動車.md "wikilink")
       - [三木鉄道ミキ300形気動車](https://ja.wikipedia.org/wiki/三木鉄道ミキ300形気動車 "wikilink")
           - →[樽見鉄道ハイモ295-610形気動車](https://ja.wikipedia.org/wiki/樽見鉄道ハイモ295-610形気動車 "wikilink")
           - →北条鉄道フラワ2000形気動車
           - →[ひたちなか海浜鉄道](../Page/ひたちなか海浜鉄道.md "wikilink")ミキ300形気動車
       - [北条鉄道フラワ2000形気動車](../Page/北条鉄道フラワ2000形気動車.md "wikilink")
-      - [甘木鉄道AR300形気動車](../Page/甘木鉄道AR300形気動車.md "wikilink")
+      - [甘木鉄道AR300形気動車](../Page/甘木鉄道AR300形気動車.md "wikilink")\[5\]
       - [甘木鉄道AR400形気動車](../Page/甘木鉄道AR400形気動車.md "wikilink")
 
 ## 後継機
@@ -163,3 +163,6 @@
 
 1.  2ストロークのUDエンジンは爆発回数が4ストロークの2倍という利点を活かし、他社製品が直列6気筒エンジンを要する場合でも[直列4気筒](../Page/直列4気筒.md "wikilink")、場合によっては[直列3気筒](../Page/直列3気筒.md "wikilink")でも十分に対抗できた。
 2.  水平シリンダー型は、型式の気筒数の後に Horizontal を示す H が入る。
+3.  大型[トラック](../Page/貨物自動車.md "wikilink")・[バス用が](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[MD92系に移行した後に新製された](../Page/日産ディーゼル・MD92エンジン.md "wikilink")。日本国内には鉄道車両用ディーゼルエンジンに対する排出ガス規制が存在しない。
+4.
+5.  AR305 - AR307の3両は大型[トラック](../Page/貨物自動車.md "wikilink")・[バス用が](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[MD92系に移行した後に新製された](../Page/日産ディーゼル・MD92エンジン.md "wikilink")。日本国内には鉄道車両用ディーゼルエンジンに対する排出ガス規制が存在しない。

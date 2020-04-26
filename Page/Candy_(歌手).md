@@ -1,7 +1,7 @@
 > この記事は[Candy \(歌手\)](https://ja.wikipedia.org/wiki/Candy_\(歌手\))から翻訳されています。
 
 
-**Candy**（キャンディ、[1989年](../Page/1989年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。身長は150[cm](../Page/センチメートル.md "wikilink")。血液型はB型。[日出高等学校](https://ja.wikipedia.org/wiki/日出高等学校 "wikilink")卒業。
+**Candy**（キャンディ、[1989年](../Page/1989年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。身長は150[cm](../Page/センチメートル.md "wikilink")。血液型はB型。
 
 ## 来歴・人物
 

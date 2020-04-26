@@ -686,7 +686,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>

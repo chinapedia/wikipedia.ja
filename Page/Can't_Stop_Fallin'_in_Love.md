@@ -9,6 +9,8 @@
 
 globeが初出場を果たした[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")で演奏された。
 
+[ケイト・モス](../Page/ケイト・モス.md "wikilink")のホームページのフォトアーカイブを見ている時に、サビの歌詞が浮かんだ\[1\]。
+
 ## 収録曲
 
 1.  **Can't Stop Fallin' in Love (STRAIGHT RUN)**
@@ -31,7 +33,7 @@ globeが初出場を果たした[第47回NHK紅白歌合戦](../Page/第47回NHK
 ## 他のアーティストによるカバー
 
   - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") (2014年)
-  - [當山みれい](https://ja.wikipedia.org/wiki/當山みれい "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録\[1\]。その後當山のアルバム『[My Way](https://ja.wikipedia.org/wiki/My_Way_\(當山みれいのアルバム\) "wikilink")』（2016年7月27日）にも収録された。
+  - [當山みれい](https://ja.wikipedia.org/wiki/當山みれい "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録\[2\]。その後當山のアルバム『[My Way](https://ja.wikipedia.org/wiki/My_Way_\(當山みれいのアルバム\) "wikilink")』（2016年7月27日）にも収録された。
   - [とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")「ほんとのうたばん」で、小室を[石橋貴明](../Page/石橋貴明.md "wikilink")が、マークを[木梨憲武](../Page/木梨憲武.md "wikilink")が、KEIKOを[木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")（当時[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が担当した。木梨はラップを石橋をからかう内容に変えた。
   - avex traxから発売されたライブアイドルによるコンピレーションアルバム[EXA IDOL COMPLEX〜Super duper\!にてclipclipによってカバーされた](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")。
 
@@ -43,4 +45,5 @@ globeが初出場を果たした[第47回NHK紅白歌合戦](../Page/第47回NHK
       -
 [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink") [Category:Globeの楽曲](https://ja.wikipedia.org/wiki/Category:Globeの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:マーク・パンサーが制作した楽曲](https://ja.wikipedia.org/wiki/Category:マーク・パンサーが制作した楽曲 "wikilink") [Category:不倫を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:不倫を題材とした楽曲 "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:JRのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JRのコマーシャルソング "wikilink")
 
-1.
+1.  [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/BART_\(雑誌\) "wikilink")」1996年11月25日号「小室哲哉 デジタル環境がもたらす、5年後の『音楽』革命。」p.13より。
+2.

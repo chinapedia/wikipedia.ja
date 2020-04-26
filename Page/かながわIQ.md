@@ -130,7 +130,7 @@
 
   - [Sony Music Artistsによるプロフィール](http://www.sma.co.jp/artist/profile/biography/84/1)
 
-  - [ブログ『ヨロシク☆IQ』](http://ameblo.jp/iq-kanagawa/)
+  - [ブログ『ヨロシク☆IQ』](https://ameblo.jp/iq-kanagawa/)
 
   -
   - [旧ブログ『IQのヒゴズイ記』](http://blog.livedoor.jp/love009jp/)

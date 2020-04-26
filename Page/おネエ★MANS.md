@@ -439,7 +439,7 @@
 | [福島県](../Page/福島県.md "wikilink")                                  | [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（FCT）                    | 毎週月曜日 24:26 - 24:56 | 不明    |
 | [中京広域圏](../Page/広域放送.md "wikilink")                               | [中京テレビ](../Page/中京テレビ放送.md "wikilink")（CTV）                      | 毎週火曜日 24:56 - 25:26 | 10日遅れ |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（NKT）                 | 毎週水曜日 15:55 - 16:24 | 不明    |
-| [山口県](../Page/山口県.md "wikilink")                                  | [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRY）       | 毎週水曜日 24:26 - 24:56 | 不明    |
+| [山口県](../Page/山口県.md "wikilink")                                  | [山口放送](../Page/山口放送.md "wikilink")（KRY）                          | 毎週水曜日 24:26 - 24:56 | 不明    |
 | [香川県・岡山県](../Page/岡山県・香川県の放送.md "wikilink")                       | [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（RNC）  | 毎週月曜日 25:31 - 26:01 | 不明    |
 | [福岡県](../Page/福岡県.md "wikilink")                                  | [福岡放送](../Page/福岡放送.md "wikilink")（FBS）                          | 毎週月曜日 24:56 - 25:26 | 16日遅れ |
 | [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")（NIB）                    | 毎週土曜日 17:25 - 17:55 | 14日遅れ |

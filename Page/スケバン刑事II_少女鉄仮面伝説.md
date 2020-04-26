@@ -537,7 +537,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -744,7 +744,7 @@
 
 高知県では当初ネットされていなかったため、「ずいぶん古い高知弁が使われているのは当地でネットされていないからだ」と高知県出身者からの批判が絶えなかったという。
 
-シリーズ第1作をネットしていたテレビ山口ではスケバン刑事II以降の放送は行われず、また、競合局である[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（当時は[日本テレビ系列(NNS加盟局)および](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列クロスネット局）でも放送されなかった。
+シリーズ第1作をネットしていたテレビ山口ではスケバン刑事II以降の放送は行われず、また、競合局である[山口放送](../Page/山口放送.md "wikilink")（当時は[日本テレビ系列(NNS加盟局)および](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列クロスネット局）でも放送されなかった。
 
 ## 映像ソフト化
 

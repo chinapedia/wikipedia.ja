@@ -76,7 +76,7 @@
   - Vol.7「日本戦艦は箱入り娘?\!」 表紙・野上武志
     [大和をはじめとする](../Page/大和_\(戦艦\).md "wikilink")[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")時の日本の戦艦を「箱入り娘のお嬢様」と捉えて解説。
       - 参加絵師／野上武志、こがしゅうと、[まもウィリアムズ](https://ja.wikipedia.org/wiki/まもウィリアムズ "wikilink")、田村萌雄、じじ、藤沢孝、重戦車工房、宇佐見遥、天之有、[桐緒](https://ja.wikipedia.org/wiki/桐緒 "wikilink")
-      - 文章執筆／内田弘樹、[鈴木貴昭](https://ja.wikipedia.org/wiki/鈴木貴昭 "wikilink")
+      - 文章執筆／内田弘樹、[鈴木貴昭](../Page/鈴木貴昭.md "wikilink")
   - Vol.8「九七式中戦車チハはせつなくて敵陣を思うとすぐ躍進射しちゃうの」 表紙・じじ
     旧日本軍の[主力戦車](../Page/主力戦車.md "wikilink")「[九七式中戦車](../Page/九七式中戦車.md "wikilink")」（愛称「チハたん」）をバリエーションを交えて解説する。副題は『[恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの](../Page/恋する妹はせつなくてお兄ちゃんを想うとすぐHしちゃうの.md "wikilink")』から。
       - 参加絵師／じじ、上田梯子、田村紀雄、藤沢孝、重戦車工房、[K.G.bros](https://ja.wikipedia.org/wiki/K.G.bros "wikilink")、宇佐見遥、おぐし篤
@@ -138,7 +138,7 @@
     第二次大戦中の旧日本軍（陸軍・海軍）の戦闘機（のちに爆撃機なども）を解説する。話題によっては、その敵役の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")やドイツの機体も登場する。2009年2月、『日本陸海軍戦闘機編』として単行本化。その他、同じ絵師で文章を田村尚也が担当した『萌えよ\!空戦学校』という書籍も存在する。
     現在、本誌連載分までが随時単行本化。
   - ばとしす（Battleship Sisters\!）
-    （テキスト／[鈴木貴昭](https://ja.wikipedia.org/wiki/鈴木貴昭 "wikilink")（深闇文貴） イラスト・キャラクターデザイン／[しのづかあつと](https://ja.wikipedia.org/wiki/しのづかあつと "wikilink")）
+    （テキスト／[鈴木貴昭](../Page/鈴木貴昭.md "wikilink")（深闇文貴） イラスト・キャラクターデザイン／[しのづかあつと](https://ja.wikipedia.org/wiki/しのづかあつと "wikilink")）
     連載小説。[擬人化](../Page/擬人化.md "wikilink")された12隻の[日本海軍の](../Page/大日本帝国海軍.md "wikilink")[戦艦](https://ja.wikipedia.org/wiki/戦艦 "wikilink")がヒロイン。女子高「**[古鷹（ふるたか）女学園](../Page/海軍兵学校_\(日本\).md "wikilink")**」の代用教官として赴任した[山本悟郎は](https://ja.wikipedia.org/wiki/山本五十六 "wikilink")、生徒会「**[水交会](../Page/水交会.md "wikilink")**」の12人のメンバーたちからなぜか「お兄ちゃん」と呼ばれてしまう。どうやら彼女達は悟郎の過去にまつわる秘密があるらしいのだが、悟郎には分からない。他にも「海の女王」などの多くの謎を抱えたまま、悟郎と生徒たちとの学校生活が始まった\[9\]。
   - シャル&ゼナ劇場
     （漫画／じじ）
@@ -170,7 +170,7 @@
 ### その他の主な連載
 
   - 少女艦艇学入門
-    （文／[鈴木貴昭](https://ja.wikipedia.org/wiki/鈴木貴昭 "wikilink")（深闇文貴） イラスト／[蒔島梓](https://ja.wikipedia.org/wiki/蒔島梓 "wikilink")（越阪部俊之））
+    （文／[鈴木貴昭](../Page/鈴木貴昭.md "wikilink")（深闇文貴） イラスト／[蒔島梓](https://ja.wikipedia.org/wiki/蒔島梓 "wikilink")（越阪部俊之））
     軍の艦艇を「戦艦=女王様」「工作艦=女医さん」など、[萌え擬人化](../Page/萌え擬人化.md "wikilink")で例えつつカテゴリーごとに解説する。
     現在、本誌連載分までが書籍化。
   - ミリクラプレビュー\!（MILICLA PREVIEW）

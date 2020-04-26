@@ -89,11 +89,11 @@
 ## 外部リンク
 
   - [Missing Link - SonyMusic](https://www.sonymusic.co.jp/artist/missinglink/)
-  - [Missing Linkオフィシャルブログ「No,Missing Link No,Life」](http://ameblo.jp/missinglink-blog/) - 公式ブログ
-  - [Missing Link MEGUオフィシャルブログ「MEGUの正直三日坊主」](http://ameblo.jp/missinglink-megu/) - 旧ブログ（ - 2009年11月）
-  - [Missing Link SHOCOオフィシャルブログ「全力少女☆全力SHOCO」](http://ameblo.jp/missinglink-shoco/) - 旧ブログ（ - 2009年11月）
-  - [Missing Link HARUKAオフィシャルブログ「ご飯にする？お風呂にする？それともHARUKAにする？」](http://ameblo.jp/missinglink-haruka/) - 旧ブログ（ - 2010年2月）
-  - [Missing Link YOUオフィシャルブログ「北の妖精赤裸々ブログ」](http://ameblo.jp/missinglink-you/) - 旧ブログ（ - 2010年10月）
+  - [Missing Linkオフィシャルブログ「No,Missing Link No,Life」](https://ameblo.jp/missinglink-blog/) - 公式ブログ
+  - [Missing Link MEGUオフィシャルブログ「MEGUの正直三日坊主」](https://ameblo.jp/missinglink-megu/) - 旧ブログ（ - 2009年11月）
+  - [Missing Link SHOCOオフィシャルブログ「全力少女☆全力SHOCO」](https://ameblo.jp/missinglink-shoco/) - 旧ブログ（ - 2009年11月）
+  - [Missing Link HARUKAオフィシャルブログ「ご飯にする？お風呂にする？それともHARUKAにする？」](https://ameblo.jp/missinglink-haruka/) - 旧ブログ（ - 2010年2月）
+  - [Missing Link YOUオフィシャルブログ「北の妖精赤裸々ブログ」](https://ameblo.jp/missinglink-you/) - 旧ブログ（ - 2010年10月）
 
 <!-- end list -->
 
@@ -101,9 +101,9 @@
 
   - [Haruka Hummingbird オフィシャルサイト](http://www.harukahummingbird.com/) - 仲本はる香オフィシャルサイト
 
-  - [柳めぐみオフィシャルブログ「MEGU MISSING LINK」](http://ameblo.jp/megumi-yanagi/)
+  - [柳めぐみオフィシャルブログ「MEGU MISSING LINK」](https://ameblo.jp/megumi-yanagi/)
 
-  - [菊井彰子オフィシャルブログ「全力少女☆全力彰子」](http://ameblo.jp/zenryokushoco-kikui/)
+  - [菊井彰子オフィシャルブログ「全力少女☆全力彰子」](https://ameblo.jp/zenryokushoco-kikui/)
 
   -
   -

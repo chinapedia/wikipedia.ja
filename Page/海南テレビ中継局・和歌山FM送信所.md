@@ -6,7 +6,7 @@
 ## 概要
 
   - 海南テレビ中継局は、和歌山県北部をカバーするテレビ放送の中継局である。
-  - 和歌山FM送信所は、[NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の[FM放送親局送信所であり](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")、加えて2016年5月には[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が本放送を始めた\[4\]。県北部の広範囲に電波を発射している。
+  - 和歌山FM送信所は、[NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の[FM放送親局送信所であり](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")、加えて2016年5月には[和歌山放送](../Page/和歌山放送.md "wikilink")の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")が本放送を始めた\[4\]。県北部の広範囲に電波を発射している。
 
 ## 所在地
 
@@ -210,7 +210,7 @@
 <tr class="even">
 <td><p>94.2[27][28]</p></td>
 <td><p>wbs<br />
-<a href="https://ja.wikipedia.org/wiki/和歌山放送" title="wikilink">和歌山放送</a></p></td>
+<a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a></p></td>
 <td><p>-</p></td>
 <td><p>1.05kW[29]</p></td>
 <td><p>-</p></td>

@@ -28,4 +28,4 @@
   - [SPEED](https://sp-m.mu-mo.net/music/4292396/)（mu-mo インデックス）
   - [SPEED 10th Anniversary](https://www.toysfactory.co.jp/artist/speed/disco)（[TOY'S FACTORYによる](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")10周年記念サイト）
 
-[Category:SPEEDの楽曲](https://ja.wikipedia.org/wiki/Category:SPEEDの楽曲 "wikilink") [Category:伊秩弘将が制作した楽曲](https://ja.wikipedia.org/wiki/Category:伊秩弘将が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")
+[Category:SPEEDの楽曲](https://ja.wikipedia.org/wiki/Category:SPEEDの楽曲 "wikilink") [Category:伊秩弘将が制作した楽曲](https://ja.wikipedia.org/wiki/Category:伊秩弘将が制作した楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

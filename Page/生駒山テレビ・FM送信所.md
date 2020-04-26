@@ -574,7 +574,7 @@ VHFテレビ7chに相当する周波数帯</p></td>
 <td><p>大阪府・京都府・兵庫県・奈良県の一部[92]</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/3月1日.md" title="wikilink">3月1日</a>[93]</p></td>
-<td><p>-</p></td>
+<td><p>2020年3月31日</p></td>
 </tr>
 <tr class="even">
 <td><p>214.714286</p></td>

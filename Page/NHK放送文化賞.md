@@ -274,7 +274,7 @@
 </tr>
 <tr class="odd">
 <td><p>第65回（2013年度）[4]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今村文彦" title="wikilink">今村文彦</a>、<a href="https://ja.wikipedia.org/wiki/内田龍男" title="wikilink">内田龍男</a>、<a href="../Page/大原謙一郎.md" title="wikilink">大原謙一郎</a>、<a href="https://ja.wikipedia.org/wiki/篠弘" title="wikilink">篠弘</a>、<a href="../Page/平尾昌晃.md" title="wikilink">平尾昌晃</a>、<a href="../Page/宮本信子.md" title="wikilink">宮本信子</a></p></td>
+<td><p><a href="../Page/今村文彦.md" title="wikilink">今村文彦</a>、<a href="https://ja.wikipedia.org/wiki/内田龍男" title="wikilink">内田龍男</a>、<a href="../Page/大原謙一郎.md" title="wikilink">大原謙一郎</a>、<a href="https://ja.wikipedia.org/wiki/篠弘" title="wikilink">篠弘</a>、<a href="../Page/平尾昌晃.md" title="wikilink">平尾昌晃</a>、<a href="../Page/宮本信子.md" title="wikilink">宮本信子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第66回（2014年度）[5]</p></td>

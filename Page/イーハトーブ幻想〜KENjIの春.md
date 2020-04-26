@@ -1,7 +1,7 @@
 > この記事は[イーハトーブ幻想〜KENjIの春](https://ja.wikipedia.org/wiki/イーハトーブ幻想〜KENjIの春)から翻訳されています。
 
 
-『**イーハトーブ幻想〜KENjIの春**』（イーハトーブげんそう ケンジのはる、海外タイトル：***Spring and Chaos***）は、当時開局25周年を迎えた[テレビ岩手](../Page/テレビ岩手.md "wikilink")が初めてアニメーション制作に参加し、テレビ岩手開局25周年記念番組として[1996年](../Page/1996年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[日本テレビ系列(NNS)で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。56分。1997年に第23回[放送文化基金賞](https://ja.wikipedia.org/wiki/放送文化基金賞 "wikilink")（テレビエンターテインメント番組）を受賞した。また、2008年の[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")アニメ部門animecsTIFFでも上映された。
+『**イーハトーブ幻想〜KENjIの春**』（イーハトーブげんそう ケンジのはる、海外タイトル：***Spring and Chaos***）は、当時開局25周年を迎えた[テレビ岩手](../Page/テレビ岩手.md "wikilink")が初めてアニメーション制作に参加し、テレビ岩手開局25周年記念番組として[1996年](../Page/1996年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[日本テレビ系列(NNS)で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。56分。1997年に第23回[放送文化基金賞](https://ja.wikipedia.org/wiki/放送文化基金賞 "wikilink")（テレビエンターテインメント番組）を受賞した。また、2008年の[東京国際映画祭](../Page/東京国際映画祭.md "wikilink")アニメ部門animecsTIFFでも上映された。
 
 ## 作品概要
 

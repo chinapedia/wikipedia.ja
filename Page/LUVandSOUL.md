@@ -601,14 +601,14 @@
 
   - \- LUVandSOUL公式Facebookページ
 
-  - DAISUKE [『元新聞配達苦労人NABEDIARY』～幸せ、涙、笑顔、ボクの喜怒哀楽を届けたい\!\! ～](http://ameblo.jp/luvandsoul-daisuke/) - 公式ブログ
+  - DAISUKE [『元新聞配達苦労人NABEDIARY』～幸せ、涙、笑顔、ボクの喜怒哀楽を届けたい\!\! ～](https://ameblo.jp/luvandsoul-daisuke/) - 公式ブログ
 
-  - SATORU [『SATORU の音楽定食』～これが音楽と食のマリアージュ\!? ～](http://ameblo.jp/luvandsoul-satoru/) - 公式ブログ
+  - SATORU [『SATORU の音楽定食』～これが音楽と食のマリアージュ\!? ～](https://ameblo.jp/luvandsoul-satoru/) - 公式ブログ
 
-  - ATSU [『無口なATSUのしゃべくり24/7』～僕のココロを毎日つぶやきます！～](http://ameblo.jp/luvandsoul-atsushi/) - 公式ブログ
+  - ATSU [『無口なATSUのしゃべくり24/7』～僕のココロを毎日つぶやきます！～](https://ameblo.jp/luvandsoul-atsushi/) - 公式ブログ
 
-  - KIKURI [『KIKURI 流「夢持って行こうぜ！」』～仲間と音楽をこよなく愛する熱血漢アニキの情熱源～](http://ameblo.jp/luvandsoul-kikuri/) - 公式ブログ
+  - KIKURI [『KIKURI 流「夢持って行こうぜ！」』～仲間と音楽をこよなく愛する熱血漢アニキの情熱源～](https://ameblo.jp/luvandsoul-kikuri/) - 公式ブログ
 
-  - KENTA [『ハートフル学園 KENTA先生と素敵な家族たち』 ～家族や仲間との明日へのハーモニー～](http://ameblo.jp/luvandsoul-kenta/) - 公式ブログ
+  - KENTA [『ハートフル学園 KENTA先生と素敵な家族たち』 ～家族や仲間との明日へのハーモニー～](https://ameblo.jp/luvandsoul-kenta/) - 公式ブログ
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:コーラス・グループ](https://ja.wikipedia.org/wiki/Category:コーラス・グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink") [Category:2016年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に再結成した音楽グループ "wikilink")

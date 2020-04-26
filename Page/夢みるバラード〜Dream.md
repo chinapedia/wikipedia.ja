@@ -419,7 +419,7 @@ Disc 3
 <tr class="even">
 <td><p>16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Long_time_no_see" title="wikilink">永遠の嘘をついてくれ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田拓郎" title="wikilink">吉田拓郎</a></p></td>
+<td><p><a href="../Page/吉田拓郎.md" title="wikilink">吉田拓郎</a></p></td>
 <td><p>1995年6月21日</p></td>
 <td></td>
 </tr>

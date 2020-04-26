@@ -47,6 +47,6 @@
 
 ## 脚注
 
-[Category:相川七瀬の楽曲](https://ja.wikipedia.org/wiki/Category:相川七瀬の楽曲 "wikilink") [Category:モリナガグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:モリナガグループのコマーシャルソング "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:ラジオ放送を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ラジオ放送を題材とした楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:相川七瀬の楽曲](https://ja.wikipedia.org/wiki/Category:相川七瀬の楽曲 "wikilink") [Category:モリナガグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:モリナガグループのコマーシャルソング "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:ラジオ放送を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ラジオ放送を題材とした楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 
 1.  『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1998年2月号、83頁。

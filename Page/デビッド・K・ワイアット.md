@@ -3,7 +3,7 @@
 
 **デビッド・K・ワイアット**（David K. Wyatt、[1937年](../Page/1937年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")）はアメリカ人歴史学者。東南アジア史の特に現在の[タイ王国](../Page/タイ王国.md "wikilink")の歴史の専門家である。彼の著書、は英語で書かれたタイ史の名著とされ1982年に初版が出てから現在もなお刊行され続けている\[1\]。
 
-1937年[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[フィッチバーグ生まれで](https://ja.wikipedia.org/wiki/フィッチバーグ_\(マサチューセッツ州\) "wikilink")、幼少期を[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")で過ごす。[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")で哲学を学び1959年に学士となり、[ボストン大学](../Page/ボストン大学.md "wikilink")で学業を続け1960年に歴史学修士となる。1966年には[コーネル大学](../Page/コーネル大学.md "wikilink")で[Ph.D.](https://ja.wikipedia.org/wiki/Ph.D. "wikilink")を取得した。
+1937年[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[フィッチバーグ生まれで](https://ja.wikipedia.org/wiki/フィッチバーグ_\(マサチューセッツ州\) "wikilink")、幼少期を[アイオワ州](../Page/アイオワ州.md "wikilink")で過ごす。[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")で哲学を学び1959年に学士となり、[ボストン大学](../Page/ボストン大学.md "wikilink")で学業を続け1960年に歴史学修士となる。1966年には[コーネル大学](../Page/コーネル大学.md "wikilink")で[Ph.D.](https://ja.wikipedia.org/wiki/Ph.D. "wikilink")を取得した。
 
 その後[ロンドン大学](../Page/ロンドン大学.md "wikilink")所属の[東洋アフリカ研究学院](https://ja.wikipedia.org/wiki/東洋アフリカ研究学院 "wikilink")や[ミシガン大学](../Page/ミシガン大学.md "wikilink")などで教鞭をとるが、1969年コーネル大学に戻って2002年まで教鞭をとることになる。
 

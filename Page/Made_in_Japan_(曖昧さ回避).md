@@ -7,7 +7,7 @@
 
 ## 音楽
 
-  - [M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink") - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の17枚目のオリジナルアルバム。
+  - [M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink") - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の17枚目のオリジナルアルバム。
   - [MADE IN JAPAN (V6の曲)](../Page/MADE_IN_JAPAN_\(V6の曲\).md "wikilink") - [デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")の代表曲のひとつで、[V6が](../Page/V6_\(グループ\).md "wikilink")1996年2月14日リリースの2ndシングルとしてカバーした。
   - [メイドインジャパン〜THE BEST OF RHYMESTER〜](../Page/メイドインジャパン〜THE_BEST_OF_RHYMESTER〜.md "wikilink") - [RHYMESTER](../Page/RHYMESTER.md "wikilink")の5枚目のアルバムで、ベストアルバム。
   - [ディープ・パープル](../Page/ディープ・パープル.md "wikilink")のライブ・アルバム "*Made in Japan*" （邦題: 『ライヴ・イン・ジャパン』）。 ⇒ [ライヴ・イン・ジャパン (ディープ・パープルのアルバム)](../Page/ライヴ・イン・ジャパン_\(ディープ・パープルのアルバム\).md "wikilink")

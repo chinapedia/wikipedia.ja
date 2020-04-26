@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 初回限定盤A・Bと通常盤の3形態での発売。初回限定盤Aは[CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD.md "wikilink")、初回限定盤Bと通常盤はCDのみ。初回限定盤Bにはフォトブック付属、通常盤にはフォトカード1種封入。
+  - 初回生産限定盤A・Bと通常盤の3形態での発売。初回生産限定盤Aは[CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD.md "wikilink")、初回生産限定盤Bと通常盤はCDのみ。初回生産限定盤Bにはフォトブック付属、通常盤にはフォトカード1種封入。
   - 今までのシングル曲と違いミディアムテンポな曲。
   - センターは[菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")。メインボーカルは菅谷梨沙子、[夏焼雅](../Page/夏焼雅.md "wikilink")、[熊井友理奈](../Page/熊井友理奈.md "wikilink")である。
 
@@ -17,12 +17,14 @@
 2.  **ガキ大将** \[3:48\]
 3.  **VERY BEAUTY ([Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink"))** \[4:17\]
 
-### 初回限定盤A付属DVD
+### 初回生産限定盤A付属DVD
 
 1.  **[胸さわぎスカーレット](../Page/胸さわぎスカーレット.md "wikilink")**
 2.  **[ファイティングポーズはダテじゃない\!](../Page/ファイティングポーズはダテじゃない!.md "wikilink")**
       -
         Hello\! Project 2007 Winter ～ワンダフルハーツ 乙女Gocoro～ 2007.1.4昼公演より
+
+## 脚注
 
 ## 外部リンク
 
@@ -31,4 +33,4 @@
       -
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/PKCP-5078/)
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:Berryz工房の楽曲](https://ja.wikipedia.org/wiki/Category:Berryz工房の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:Berryz工房の楽曲](https://ja.wikipedia.org/wiki/Category:Berryz工房の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")

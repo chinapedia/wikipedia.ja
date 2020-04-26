@@ -6,7 +6,7 @@
 ## 概要
 
   - 前作『[Departure](../Page/Departure_\(HYのアルバム\).md "wikilink")』から約1年半ぶりのリリース。
-  - 前年に同じく沖縄出身のバンド[MONGOL800](../Page/MONGOL800.md "wikilink")の『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』の大ヒットを受け、インディーズシーン (特に[沖縄](../Page/沖縄県.md "wikilink")) が注目された中でのリリースということもあり、本作でバンド初のオリコン1位を獲得。また初登場から4週連続1位を獲得し続け、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の『[Duty](../Page/Duty.md "wikilink")』以来約3年半ぶりの快挙となった。最終的に[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、インディーズアルバムとしてはMONGOL800以来のミリオンとなった。
+  - 前年に同じく沖縄出身のバンド[MONGOL800](../Page/MONGOL800.md "wikilink")の『[MESSAGE](../Page/MESSAGE_\(MONGOL800のアルバム\).md "wikilink")』の大ヒットを受け、インディーズシーン (特に[沖縄](../Page/沖縄県.md "wikilink")) が注目された中でのリリースということもあり、本作でバンド初のオリコン1位を獲得。また初登場から4週連続1位を獲得し続け、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の『[Duty](../Page/Duty.md "wikilink")』以来約3年半ぶりの快挙となった。最終的に[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、インディーズアルバムとしてはMONGOL800以来のミリオンとなった。
 
 ## エピソード
 
@@ -79,6 +79,8 @@
 8.  **everyone'sASSE\!\! FLAG** (GIFT TRACK)
 
 ## カバー
+
+## 脚注
 
 [Category:HYのアルバム](https://ja.wikipedia.org/wiki/Category:HYのアルバム "wikilink") [Category:HYの映像作品](https://ja.wikipedia.org/wiki/Category:HYの映像作品 "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2003年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

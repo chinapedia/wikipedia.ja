@@ -214,6 +214,7 @@
   - SAGGA (YINGYANG)
   - S.A.D.A (SHITAKILI IX)
   - SATUSSY ([韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink"), CHIEF ROKKA)
+  - surry
   - SAM
   - [ZANE](https://ja.wikipedia.org/wiki/ZANE "wikilink") ([three NATION](https://ja.wikipedia.org/wiki/three_NATION "wikilink"))
   - SALU

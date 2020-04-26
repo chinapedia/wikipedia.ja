@@ -136,6 +136,7 @@ __TOC__{{-}}
   - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")
   - [Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")
   - [Justin.tv](https://ja.wikipedia.org/wiki/Justin.tv "wikilink")
+  - [Youtube](https://ja.wikipedia.org/wiki/Youtube "wikilink")
 
 ## 外部リンク
 

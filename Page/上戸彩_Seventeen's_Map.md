@@ -27,19 +27,19 @@
 
   - **ニッポン放送** - 2002年10月～2007年3月（4年6ヶ月）'''制作・基幹局 '''
   - **[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")** - 2002年10月～2007年3月（4年6ヶ月）
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") - 2005年10月～2007年3月（1年6ヶ月）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") - 2005年10月～2007年3月（1年6ヶ月）
   - [山形放送](../Page/山形放送.md "wikilink") - 2002年10月～2003年3月（1年）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") - 2002年10月～2003年3月、2004年10月～2005年3月（計1年）
   - [茨城放送](../Page/茨城放送.md "wikilink") - 2003年10月～2004年9月（1年）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") - 2002年10月～2003年3月、2005年4月～2006年3月（計1年6ヶ月）
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") - 2004年10月～2005年9月（1年）
+  - [信越放送](../Page/信越放送.md "wikilink") - 2004年10月～2005年9月（1年）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - 2003年10月～2004年3月、2004年10月～2005年3月（計1年）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - 2002年10月～2003年3月、2004年10月～2007年3月（計3年）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") - 2004年4月～2006年3月、2006年10月～2007年3月（計2年6ヶ月）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") - 2002年10月～2006年3月（3年6ヶ月）
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")- 2003年10月～2004年9月（1年）
   - [中国放送](../Page/中国放送.md "wikilink") - 2002年10月～2003年3月、2003年10月～2004年3月、2004年10月～2007年3月（計3年6ヶ月）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") - 2004年10月～2005年3月、2005年10月～2007年3月（計2年）
+  - [山口放送](../Page/山口放送.md "wikilink") - 2004年10月～2005年3月、2005年10月～2007年3月（計2年）
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - 2003年10月～2004年3月（6ヶ月）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") - 2003年4月～2005年3月（2年）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - 2004年4月～2006年3月（2年）

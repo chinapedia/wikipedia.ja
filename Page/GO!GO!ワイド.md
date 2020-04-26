@@ -11,8 +11,8 @@
 
 <!-- end list -->
 
-  - [田島亜聖](https://ja.wikipedia.org/wiki/田島亜聖 "wikilink")
-  - **[古屋敷沙耶](https://ja.wikipedia.org/wiki/古屋敷沙耶 "wikilink")**
+  - **[伊藤透浩](https://ja.wikipedia.org/wiki/伊藤透浩 "wikilink")**
+  - **[川島恵](../Page/川島恵.md "wikilink")**
 
 <!-- end list -->
 
@@ -63,8 +63,8 @@
 
 ### 日替わりコーナー①
 
-  - 月　　　ＧＯＧＯワイフ
-  - 火　　　お好きにヒットソング
+  - 月　　　週間実は…穴があったら入りたい
+  - 火　　　お悩みウーマン！怪傑ポロリ
   - 水　　　これ知っちょたクイズでGO\!GO\!
   - 木・金　「ラジオでバトル・直接投票 喧嘩でGO\!GO\!」 - このコーナーのみ「ラジオクラウド」にて配信（BGMカット。）
 

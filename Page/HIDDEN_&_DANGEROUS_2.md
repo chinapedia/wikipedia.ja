@@ -1,7 +1,7 @@
 > この記事は[HIDDEN \& DANGEROUS 2](https://ja.wikipedia.org/wiki/HIDDEN_\&_DANGEROUS_2)から翻訳されています。
 
 
-『**HIDDEN & DANGEROUS 2**』（ヒドゥン&デンジャラス2、H\&D2、HD2とも）は、[チェコ](../Page/チェコ.md "wikilink")のイリュージョンソフトワークスとギャザリング・オブ・デベロッパーとのチームで開発されたパソコン用ゲームソフトの戦術シューティングアクションである。
+『**HIDDEN & DANGEROUS 2**』（ヒドゥン&デンジャラス2、略称：**H\&D2**、**HD2**）は、[チェコ](../Page/チェコ.md "wikilink")のイリュージョンソフトワークスとギャザリング・オブ・デベロッパーとのチームで開発されたパソコン用ゲームソフトの戦術シューティングアクションである。
 
 ## 概要
 
@@ -111,8 +111,8 @@ ZOO社から完全[日本語](../Page/日本語.md "wikilink")版が発売され
 
   - [HIDDEN\&DANGEROUS2 日本語版公式サイト](http://hidden-and-dangerous2.zoo.co.jp/)
   - [英仏独伊西捷語版公式サイト](http://www.globalstarsoftware.com/hd2/indexFlash.html)
-  - 開発元：[イリュージョンソフトワークス](http://www.illusionsoftworks.com/)
-  - 開発元：[ギャザリング](http://www.gathering.com/)
+  - [イリュージョンソフトワークス](http://www.illusionsoftworks.com/) - 開発元
+  - [ギャザリング](http://www.gathering.com/) - 開発元
   - 日本国内販売流通元：[ズー](http://gamezone.zoo.co.jp/)
 
 [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:チェコで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:チェコで開発されたコンピュータゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink")

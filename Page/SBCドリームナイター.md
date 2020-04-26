@@ -1,7 +1,7 @@
 > この記事は[SBCドリームナイター](https://ja.wikipedia.org/wiki/SBCドリームナイター)から翻訳されています。
 
 
-**SBCドリームナイター**（エスビーシードリームナイター）は、[日本プロ野球（NPB）レギュラーシーズン中](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（基本として4- 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")ラジオ（SBC）で放送されているNPBの[ナイトゲーム](https://ja.wikipedia.org/wiki/ナイトゲーム "wikilink")中継である。
+**SBCドリームナイター**（エスビーシードリームナイター）は、[日本プロ野球（NPB）レギュラーシーズン中](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（基本として4- 9月）の毎週[水曜日](../Page/水曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")に[信越放送](../Page/信越放送.md "wikilink")ラジオ（SBC）で放送されているNPBの[ナイトゲーム](https://ja.wikipedia.org/wiki/ナイトゲーム "wikilink")中継である。
 
 正式には、タイトルの最後に、放送年の西暦を表す4桁の数字が付く（2016年度を除く）。2002年度までのタイトルは、**SBCダイナミックナイター**（エスビーシーダイナミックナイター）だった。
 

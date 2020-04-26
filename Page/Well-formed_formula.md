@@ -1,15 +1,15 @@
 > この記事は[Well-formed formula](https://ja.wikipedia.org/wiki/Well-formed_formula)から翻訳されています。
 
 
-[数理論理学](../Page/数理論理学.md "wikilink")において **well-formed formula** とは、[形式言語](../Page/形式言語.md "wikilink")といったような概念が広まる以前に、"formula" を単なる「記号を任意の順序に並べたもの」であるとして、それらのうち、[数式](../Page/数式.md "wikilink")などとして意味をなすような記号列を特に区別したものである\[1\]。[形式言語](../Page/形式言語.md "wikilink")の考え方が広まるにつれ、そもそも意味のある数式などは何らかのルールに従って導出されるもので、それ以外の、任意の順序に並べたようなものは最初から議論の対象外として扱われるのが普通となった。
+数式や論理式などにおける **well-formed formula** とは、[形式文法](../Page/形式文法.md "wikilink")的に整った形をしている（well-formed である）のでなんらかの意味をなしている、といえる、式（formula）のことである。論理式の場合、整論理式などということもある。
 
 ## 語誌
 
-[thumbを構成する統語論的実体の概念図](https://ja.wikipedia.org/wiki/ファイル:Formal_languages.svg "wikilink")。記号 (symbol) と記号列 (strings of symbols) は、その形式言語に含まれないものと含まれるもの（整式）に大別される。形式言語はその整論理式の集合と等価と考えることができる（大袈裟な言いかたをしているだけで、コンピュータの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で言えば要するに、構文規則に沿ってないソースコードは構文エラー（シンタックスエラー）である、というのと同じ話）。整論理式の集合は[定理](../Page/定理.md "wikilink") (theorem) とそうでないものに大別される。\]\] 初期の[数理論理学](../Page/数理論理学.md "wikilink")者の幾人かは、"formula" を「単なる記号列」、wff を「formulaのうち、正しい構成規則に従って作られた記号列」として区別し\[2\]、幾人かは単に "formula" と総称した\[3\]\[4\]\[5\]\[6\]。
+[thumbを構成する統語論的実体の概念図](https://ja.wikipedia.org/wiki/ファイル:Formal_languages.svg "wikilink")。記号 (symbol) と記号列 (strings of symbols) は、その形式言語に含まれないものと含まれるもの（整式）に大別される。形式言語はその整論理式の集合と等価と考えることができる（大袈裟な言いかたをしているだけで、コンピュータの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で言えば要するに、構文規則に沿ってないソースコードは構文エラー（シンタックスエラー）である、というのと同じ話）。整論理式の集合は[定理](../Page/定理.md "wikilink") (theorem) とそうでないものに大別される。\]\] 初期の[数理論理学](../Page/数理論理学.md "wikilink")者の幾人かは、"formula" を「単なる記号列」、wff を「formulaのうち、正しい構成規則に従って作られた記号列」として区別し\[1\]、幾人かは単に "formula" と総称した\[2\]\[3\]\[4\]\[5\]。
 
 いずれにせよ[形式言語](../Page/形式言語.md "wikilink")という考え方が定着した現代では、わざわざ断ることなどなく、wffのみが議論の対象である。すなわち、定められている構文規則に従った記号の並び（たとえば数式であれば`1 * (2 + 3)`といったような）のみが議論の対象となる式であり、同様の記号を使っていても、単なるデタラメに並べたものにしか見えないようなもの（たとえば数式であれば`* + ) 3 5 /`といったような）は、何か変な議論を仕掛けようとしている哲学者などでもない限り、単に、議論の対象から外すだけである（[オッカムの剃刀](../Page/オッカムの剃刀.md "wikilink")）。
 
-とはいえある程度は意識される概念であり、well-formed formula というフレーズは様々な著作に見られる\[7\]\[8\]\[9\]。
+とはいえある程度は意識される概念であり、well-formed formula というフレーズは様々な著作に見られる\[6\]\[7\]\[8\]。
 
 ## 論理式
 
@@ -17,7 +17,7 @@
 
 ### 命題論理
 
-[命題論理](../Page/命題論理.md "wikilink")の論理式はとも呼ばれ\[10\]、例えば \((A \land (B \lor C))\) といった形で表現される。命題論理式は、と[論理演算](../Page/論理演算.md "wikilink")を表す記号と括弧で定義され、命題変数を表すアルファベットは論理演算記号や括弧を含まないものとされる。論理式はそれらを並べたものである。
+[命題論理](../Page/命題論理.md "wikilink")の論理式はとも呼ばれ\[9\]、例えば \((A \land (B \lor C))\) といった形で表現される。命題論理式は、と[論理演算](../Page/論理演算.md "wikilink")を表す記号と括弧で定義され、命題変数を表すアルファベットは論理演算記号や括弧を含まないものとされる。論理式はそれらを並べたものである。
 
 論理式は次のように[再帰的に定義される](../Page/再帰的定義.md "wikilink")。
 
@@ -106,7 +106,7 @@
 
 原子論理式とは、[論理結合子や](../Page/論理演算.md "wikilink")[量化](../Page/量化.md "wikilink")子を含まない論理式、あるいは厳密な部分論理式を持たない論理式である。原子論理式の厳密な形式は、どんな[形式体系](../Page/形式体系.md "wikilink")のものかで変わってくる。例えば[命題論理](../Page/命題論理.md "wikilink")での原子論理式はである。[一階述語論理](../Page/一階述語論理.md "wikilink")では、項である引数を伴った述語記号が原子論理式である。
 
-量化子を伴わず、論理結合子のみを使って原子論理式を結合した論理式を「開論理式」(open formula) と呼ぶこともある\[11\]。
+量化子を伴わず、論理結合子のみを使って原子論理式を結合した論理式を「開論理式」(open formula) と呼ぶこともある\[10\]。
 
 ### 閉論理式
 
@@ -145,14 +145,13 @@
 
 [Category:論理式](https://ja.wikipedia.org/wiki/Category:論理式 "wikilink") [Category:形式言語](https://ja.wikipedia.org/wiki/Category:形式言語 "wikilink") [Category:数理論理学](https://ja.wikipedia.org/wiki/Category:数理論理学 "wikilink") [Category:述語論理](https://ja.wikipedia.org/wiki/Category:述語論理 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
 
-1.  初歩的概念であり、多くの論理学の入門書で説明されている。例えば , ,
-2.  Alonzo Church, \[1996\] (1944), Introduction to mathematical logic, page 49
-3.  Hilbert, David; Ackermann, Wilhelm (1950) \[1937\], Principles of Mathematical Logic, New York: Chelsea
-4.  Hodges, Wilfrid (1997), A shorter model theory, Cambridge University Press, ISBN 978-0-521-58713-6
-5.  Barwise, Jon, ed. (1982), Handbook of Mathematical Logic, Studies in Logic and the Foundations of Mathematics, Amsterdam: North-Holland, ISBN 978-0-444-86388-1
-6.  Cori, Rene; Lascar, Daniel (2000), Mathematical Logic: A Course with Exercises, Oxford University Press, ISBN 978-0-19-850048-3
-7.  Enderton, Herbert \[2001\] (1972), A mathematical introduction to logic (2nd ed.), Boston, MA: Academic Press, ISBN 978-0-12-238452-3
-8.  R. L. Simpson (1999), Essentials of Symbolic Logic, page 12
-9.  Mendelson, Elliott \[2010\] (1964), An Introduction to Mathematical Logic (5th ed.), London: Chapman & Hall
-10. [First-order logic and automated theorem proving](http://books.google.com/books?id=T8OMqvXvWWQC&lpg=PA11&dq=%22propositional%20formula%22&hl=fr&pg=PA11#v=onepage&q=%22propositional%20formula%22&f=false), Melvin Fitting, Springer, 1996
-11. [Handbook of the history of logic, (Vol 5, Logic from Russell to Church)](http://books.google.fr/books?id=IMgg0Uc00I4C&printsec=frontcover&dq=Logic+from+Russell+to+Church&hl=ja&sa=X&ei=QjtiUaO1E8i4rgfN94GoCg&ved=0CCwQ6AEwAA#v=onepage&q=Logic%20from%20Russell%20to%20Church&f=false), Tarski's logic by Keith Simmons, D. Gabbay and J. Woods Eds, p568.
+1.  Alonzo Church, \[1996\] (1944), Introduction to mathematical logic, page 49
+2.  Hilbert, David; Ackermann, Wilhelm (1950) \[1937\], Principles of Mathematical Logic, New York: Chelsea
+3.  Hodges, Wilfrid (1997), A shorter model theory, Cambridge University Press, ISBN 978-0-521-58713-6
+4.  Barwise, Jon, ed. (1982), Handbook of Mathematical Logic, Studies in Logic and the Foundations of Mathematics, Amsterdam: North-Holland, ISBN 978-0-444-86388-1
+5.  Cori, Rene; Lascar, Daniel (2000), Mathematical Logic: A Course with Exercises, Oxford University Press, ISBN 978-0-19-850048-3
+6.  Enderton, Herbert \[2001\] (1972), A mathematical introduction to logic (2nd ed.), Boston, MA: Academic Press, ISBN 978-0-12-238452-3
+7.  R. L. Simpson (1999), Essentials of Symbolic Logic, page 12
+8.  Mendelson, Elliott \[2010\] (1964), An Introduction to Mathematical Logic (5th ed.), London: Chapman & Hall
+9.  [First-order logic and automated theorem proving](http://books.google.com/books?id=T8OMqvXvWWQC&lpg=PA11&dq=%22propositional%20formula%22&hl=fr&pg=PA11#v=onepage&q=%22propositional%20formula%22&f=false), Melvin Fitting, Springer, 1996
+10. [Handbook of the history of logic, (Vol 5, Logic from Russell to Church)](http://books.google.fr/books?id=IMgg0Uc00I4C&printsec=frontcover&dq=Logic+from+Russell+to+Church&hl=ja&sa=X&ei=QjtiUaO1E8i4rgfN94GoCg&ved=0CCwQ6AEwAA#v=onepage&q=Logic%20from%20Russell%20to%20Church&f=false), Tarski's logic by Keith Simmons, D. Gabbay and J. Woods Eds, p568.

@@ -1,7 +1,7 @@
 > この記事は[MORAL+3](https://ja.wikipedia.org/wiki/MORAL+3)から翻訳されています。
 
 
-『**MORAL+3**』（モラル・プラス・スリー）は、日本のロックバンド、[BOØWYのアルバム](https://ja.wikipedia.org/wiki/BOOWY "wikilink")。[1988年](../Page/1988年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")にビクターインビテーションよりリリースされた。
+『**MORAL+3**』（モラル・プラス・スリー）は、日本のロックバンド、[BOØWYのアルバム](../Page/BOOWY.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")にビクターインビテーションよりリリースされた。
 
 ## 解説
 

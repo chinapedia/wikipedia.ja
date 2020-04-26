@@ -353,7 +353,7 @@ PlayStation CLUBの第二期サービスが開始され、『プレプレ』はP
 <!-- end list -->
 
   -
-    事務局からのお知らせや「[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")」[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")に関してなど
+    事務局からのお知らせや「[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")」[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink")に関してなど
 
 <!-- end list -->
 

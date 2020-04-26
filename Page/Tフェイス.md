@@ -12,6 +12,7 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - 豊田そごうの改装。A館1〜9階のみの展開となり、B館1〜11階全てがT-FACE専門館となる。
   - [2000年](../Page/2000年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink") - 豊田そごうが閉店。
   - [2001年](../Page/2001年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - [松坂屋豊田店](../Page/松坂屋豊田店.md "wikilink")が豊田そごう撤退部分の一部（A館1〜6階）にて開店。それまでの間にA館7〜9階部分もTフェイスとして順次オープン。
+  - [2021年](../Page/2021年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink") - 松坂屋豊田店が閉店予定\[1\]。
 
 ## ビルの特徴
 
@@ -53,6 +54,8 @@ A・B両館は、[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilin
   - [岡崎方面から](../Page/岡崎市.md "wikilink")[国道248号](../Page/国道248号.md "wikilink")線を使い40分
   - 周辺の16のフリーパーキング加盟[駐車場](../Page/駐車場.md "wikilink")を利用すれば、3時間まで[駐車](../Page/駐車.md "wikilink")[料金](https://ja.wikipedia.org/wiki/料金 "wikilink")が無料
 
+## 出典
+
 ## 外部リンク
 
   - [T-FACE](http://www.t-face.com/index.html)
@@ -62,3 +65,5 @@ A・B両館は、[名鉄](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilin
 [Category:愛知県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:愛知県のショッピングセンター "wikilink")
 
 [Category:豊田市の商業施設](https://ja.wikipedia.org/wiki/Category:豊田市の商業施設 "wikilink") [Category:愛知県の再開発地区](https://ja.wikipedia.org/wiki/Category:愛知県の再開発地区 "wikilink") [Category:1988年開業の施設](https://ja.wikipedia.org/wiki/Category:1988年開業の施設 "wikilink") [Category:日本の円形建築物](https://ja.wikipedia.org/wiki/Category:日本の円形建築物 "wikilink")
+
+1.  \[[https://www.chunichi.co.jp/s/article/2020040290152851.html\]中日新聞、2020年4月2日](https://www.chunichi.co.jp/s/article/2020040290152851.html%5D中日新聞、2020年4月2日)

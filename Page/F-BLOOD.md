@@ -76,7 +76,7 @@
   - F-BLOOD FF & Bare 2014 Special Live（2014年3月1日-3月30日）※FC会員限定ライブ (9公演）
   - F-BLOOD 20th Anniversary POP ‘N' ROLL TOUR 2017 （2017年9月17日 - 11月24日）26公演予定
 
-## 関連項目
+<!-- end list -->
 
   - [チェッカーズ](../Page/チェッカーズ.md "wikilink") - メンバーの二人が所属していたロックバンド。
   - [アブラーズ](../Page/アブラーズ.md "wikilink") - 藤井尚之が所属するロックバンド。

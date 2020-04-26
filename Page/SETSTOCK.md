@@ -13,7 +13,7 @@
 
 「[セルラーサウンドマリーナ](../Page/DDIセルラーグループ.md "wikilink")'99 SETSTOCK」として、1999年8月28日に[広島観音マリーナ](https://ja.wikipedia.org/wiki/広島観音マリーナ "wikilink")特設会場（[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[西区](../Page/西区_\(広島市\).md "wikilink")）で開催された。「サウンドマリーナ」は前年の1998年から始まった野外ライブイベント\[1\]だが、SETSTOCKの名称が冠せられたのは本年が最初。
 
-  - 出演 - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")、[SPITZ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")
+  - 出演 - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")、[SPITZ](../Page/スピッツ_\(バンド\).md "wikilink")、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")
 
 ### 2000年
 
@@ -371,7 +371,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li><a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゆず_(音楽グループ)" title="wikilink">ゆず</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">SPITZ</a></li>
+<li><a href="../Page/スピッツ_(バンド).md" title="wikilink">SPITZ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a></li>
 <li><a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 </ul></td>

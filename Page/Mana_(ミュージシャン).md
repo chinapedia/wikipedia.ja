@@ -15,7 +15,7 @@
   - 性別にとらわれず、男装も女装も着こなす。MALICE MIZERで[女形](../Page/女形.md "wikilink")をしており、[ドレス](https://ja.wikipedia.org/wiki/ドレス "wikilink")姿やゴスロリなどの衣装が多い。服装・ヘア・メイクにこだわりがあり、徹底している。彼の姿に憧れて[コスプレ](../Page/コスプレ.md "wikilink")をするファンも多数いる。
   - イメージカラーはブルー。黒も好きで、自身のブランドであるモワティエも青や黒を基調とした商品が多い。
   - ジーパンやスニーカーなどカジュアルなファッション・アイテムは持っておらず、自宅の近くにあるコンビニエンスストアに行く時にさえ、[ゴシック・ファッション](../Page/ゴシック・ファッション.md "wikilink")に身を包み出かける。本人曰く「この方が落ち着く」。
-  - 耽美で中性的なイメージだが、学生時代に[パンク・ファッション](../Page/パンク・ファッション.md "wikilink")を好んで髪型をモヒカンにしていたことがある。
+  - 耽美で中性的なイメージだが、学生時代に[パンク・ファッション](../Page/パンク・ファッション.md "wikilink")を好んで髪型をモヒカンにしていたことがある。\[2\]
   - 広島県出身で、父親は高校の音楽教師。幼少の頃から[クラシック音楽](../Page/クラシック音楽.md "wikilink")に慣れ親しみ、大阪の専門学校時代にはクラスの人気者になる。後のバンド活動でもクラシック音楽とロックを融合させた楽曲を発表する。また彼の作曲した曲でよく[チェンバロ](../Page/チェンバロ.md "wikilink")や[パイプオルガン](https://ja.wikipedia.org/wiki/パイプオルガン "wikilink")などの楽器が使われる。広島へは必ずと言ってよいほど年末年始には帰省している。
   - 学生時代は[ハンドボール](../Page/ハンドボール.md "wikilink")部に所属していた。現在でもライブ中に客席に向かってボールなどを投げ込む演出を行うことがあるが、物凄いスピードかつ正確なコントロールなのはこのハンドボール部での経験が生きている。
   - 料理が得意で、たびたびメンバーにも手料理を振る舞い、好評を得ている。
@@ -77,4 +77,5 @@
 
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本のヘヴィメタル歌手](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル歌手 "wikilink") [Category:インダストリアル・ミュージシャン](https://ja.wikipedia.org/wiki/Category:インダストリアル・ミュージシャン "wikilink") [Category:ヴィジュアル系ミュージシャン](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系ミュージシャン "wikilink") [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本のヘヴィメタル・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・ギタリスト "wikilink") [Category:MALICE_MIZERのメンバー](https://ja.wikipedia.org/wiki/Category:MALICE_MIZERのメンバー "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink")
 
-1.
+1.  [広島県フランス市の間違いです（本人のTwitter並びにMoi dix Mois (モワ ディス モワ) の公式Twitter, 2020年1月29日](https://mobile.twitter.com/M_d_M_official/status/1222440716544036865)
+2.  [簡単に歴史を。（本人のTwitter並びにMoi dix Mois (モワ ディス モワ) の公式Twitter, 2017年9月27日 公開）](https://mobile.twitter.com/M_d_M_official/status/912851728835284992)

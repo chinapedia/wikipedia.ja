@@ -91,7 +91,7 @@
   - 「君とずっと…くらしたい」[To Be Continued](../Page/To_Be_Continued.md "wikilink")（1993年）
   - 「会わずにはいられない」[鈴木トオル](../Page/鈴木トオル.md "wikilink")（1993年）
   - 「[ヴェネツィアン・ラプソディー](https://ja.wikipedia.org/wiki/ヴェネツィアン・ラプソディー "wikilink")」[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")（1994年）
-  - 「[青い車](../Page/青い車_\(曲\).md "wikilink")」[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")（1994年）
+  - 「[青い車](../Page/青い車_\(曲\).md "wikilink")」[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")（1994年）
   - 「[少年](https://ja.wikipedia.org/wiki/少年_\(宇都宮隆の曲\) "wikilink")」[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")（1996年）
   - 「dawn」[和田弘樹](https://ja.wikipedia.org/wiki/和田弘樹 "wikilink")（1997年）
 

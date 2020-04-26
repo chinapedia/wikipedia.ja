@@ -13,6 +13,8 @@
   - 平日及び土日で提供がない場合は「**K-mix HEADLINE NEWS brought you by Chunichi Shimbun**」（ケイミックス・ヘッドライン・ニュース ブロート・ユー・バイ・チュウニチ・シンブン）となり、提供がある場合は「brought you by Chunichi Shimbun」の部分を[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が[提供クレジット](../Page/提供クレジット.md "wikilink")を読み上げる。
   - 2013年4月より、平日日中毎正時の放送の順序が変更となり、[K-MIX Traffic\&Weather Informationに続いて放送されている](https://ja.wikipedia.org/wiki/K-MIX_Traffic&Weather_Information "wikilink")。また、13時台の放送枠が追加された。さらに、土日の日中帯は交通情報と統合されてNEWS & TRAFFICとなり、BGMも異なる。
   - 「[K-mix モーニング ラジラ](https://ja.wikipedia.org/wiki/K-mix_モーニング_ラジラ "wikilink")」内では、コーナーとしてニュースを数回放送している。
+  - 中日新聞提供であるが、中日新聞のCMが流れることはない。ただし、[月刊ドラゴンズ](../Page/月刊ドラゴンズ.md "wikilink")のCMが流れることがある。また、中日新聞とは関係のない企業がスポンサーに付くこともある。
+  - [JFNからニュースを受けるのは](../Page/全国FM放送協議会.md "wikilink")、緊急時を除き「[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")」のみである。
 
 ## 放送時間
 
@@ -34,11 +36,6 @@
 | 20    |         | 20:55 | 20:55       | 20:55       |
 
 **T**…**NEWS & TRAFFIC**
-
-## 備考
-
-  - 中日新聞提供であるが、中日新聞のCMが流れることはない。ただし、[月刊ドラゴンズ](../Page/月刊ドラゴンズ.md "wikilink")のCMが流れることがある。また、中日新聞とは関係のない企業がスポンサーに付くこともある。
-  - [JFNからニュースを受けるのは](../Page/全国FM放送協議会.md "wikilink")、緊急時を除き「[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")」のみである。
 
 ## 関連項目
 

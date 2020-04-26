@@ -35,6 +35,8 @@
 10. **初雪**（作詞・作曲:TUN）
 11. **Song for･･･**（作詞・作曲:IZUMI NAKASONE）
 
+## 脚注
+
 [Category:HYのアルバム](https://ja.wikipedia.org/wiki/Category:HYのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.   OKMusic|url=[https://okmusic.jp/news/293320|website=okmusic.jp|accessdate=2020-03-08](https://okmusic.jp/news/293320%7Cwebsite=okmusic.jp%7Caccessdate=2020-03-08)}}

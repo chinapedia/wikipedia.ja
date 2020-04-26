@@ -1,7 +1,7 @@
 > この記事は[NICE.](https://ja.wikipedia.org/wiki/NICE.)から翻訳されています。
 
 
-『**NICE.**』（ナイス）は、[2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の6枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**NICE.**』（ナイス）は、[2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の5枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 

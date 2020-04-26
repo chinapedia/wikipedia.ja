@@ -280,6 +280,7 @@
   - [長江翔太](https://ja.wikipedia.org/wiki/長江翔太 "wikilink") - 元：読売ジャイアンツ
   - [成瀬友登](https://ja.wikipedia.org/wiki/成瀬友登 "wikilink") - ベストナイン（2010年）
   - [秦裕二](../Page/秦裕二.md "wikilink") - 元：[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")、2014年よりコーチ兼任、引退後1シーズン専任コーチ
+  - 日名田城宏 - 引退後、ビジネスマンとなり、2020年に所属する企業でマスクを製造したことが報じられる\[1\]。
   - [フレディ・バイエスタス](https://ja.wikipedia.org/wiki/フレディ・バイエスタス "wikilink") - 元：オリックス・バファローズ）
   - [松井宏次](https://ja.wikipedia.org/wiki/松井宏次 "wikilink") - 元：東北楽天ゴールデンイーグルス　※コーチ兼任
   - [三橋直樹](../Page/三橋直樹.md "wikilink") - 元：横浜ベイスターズ
@@ -312,3 +313,5 @@
   - [オセアン滋賀ブラックスの選手一覧](https://ja.wikipedia.org/wiki/オセアン滋賀ブラックスの選手一覧 "wikilink")
 
 [Category:野球選手一覧](https://ja.wikipedia.org/wiki/Category:野球選手一覧 "wikilink") [Category:富山GRNサンダーバーズ及びその前身球団の選手](https://ja.wikipedia.org/wiki/Category:富山GRNサンダーバーズ及びその前身球団の選手 "wikilink")
+
+1.

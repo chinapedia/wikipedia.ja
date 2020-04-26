@@ -1,13 +1,13 @@
 > この記事は[フェレンツヴァーロシュTC](https://ja.wikipedia.org/wiki/フェレンツヴァーロシュTC)から翻訳されています。
 
 
-**フェレンツヴァーロシュTC**（、）こと、**フェレンツヴァーロシ・トルナ・クルブ**（）は、[ハンガリー](../Page/ハンガリー.md "wikilink")の首都[ブダペスト](../Page/ブダペスト.md "wikilink")に本拠を置く[スポーツクラブである](../Page/クラブチーム.md "wikilink")。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[水球](../Page/水球.md "wikilink")、[サイクリング](../Page/自転車競技.md "wikilink")、女子[ハンドボール](../Page/ハンドボール.md "wikilink")などの部門がある。
+**フェレンツヴァーロシTC**（、）こと、**フェレンツヴァーロシ・トルナ・クルブ**（）は、[ハンガリー](../Page/ハンガリー.md "wikilink")の首都[ブダペスト](../Page/ブダペスト.md "wikilink")に本拠を置く[スポーツクラブである](../Page/クラブチーム.md "wikilink")。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")、[アイスホッケー](../Page/アイスホッケー.md "wikilink")、[水球](../Page/水球.md "wikilink")、[サイクリング](../Page/自転車競技.md "wikilink")、女子[ハンドボール](../Page/ハンドボール.md "wikilink")などの部門がある。
 
-ブダペストの[フェレンツヴァーロシュ](https://ja.wikipedia.org/wiki/フェレンツヴァーロシュ "wikilink")地区を本拠地としており、ライバルは同市内の[ウーイペシュト](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")、[デブレツェン](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")、[ヴァシャシュ](https://ja.wikipedia.org/wiki/ヴァシャシュSC "wikilink")、[ホンヴェード](../Page/ブダペスト・ホンヴェードFC.md "wikilink")、[MTKブダペストなどがある](../Page/MTKブダペストFC.md "wikilink")。
+ブダペストの[フェレンツヴァーロシ](https://ja.wikipedia.org/wiki/フェレンツヴァーロシ "wikilink")地区を本拠地としており、ライバルは同市内の[ウーイペシュト](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")、[デブレツェン](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")、[ヴァシャシュ](https://ja.wikipedia.org/wiki/ヴァシャシュSC "wikilink")、[ホンヴェード](../Page/ブダペスト・ホンヴェードFC.md "wikilink")、[MTKブダペストなどがある](../Page/MTKブダペストFC.md "wikilink")。
 
 ## サッカー
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Dorog_vs._Ferencvaros_5-0._The_two_teams_together.JPG "wikilink") フェレンツヴァーロシュTCはハンガリーで最も人気のあるサッカー・チームである。サッカー部門が創設されたのは1900年。ハンガリー国内リーグで最多の優勝回数を誇る。共産主義政権時代は、有形無形の優遇を受ける軍や[秘密警察が支援するクラブに対し](https://ja.wikipedia.org/wiki/ハンガリー国家保安局 "wikilink")、FTCは民衆のクラブとして市民の人気を集めた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dorog_vs._Ferencvaros_5-0._The_two_teams_together.JPG "wikilink") フェレンツヴァーロシTCはハンガリーで最も人気のあるサッカー・チームである。サッカー部門が創設されたのは1900年。ハンガリー国内リーグで最多の優勝回数を誇る。共産主義政権時代は、有形無形の優遇を受ける軍や[秘密警察が支援するクラブに対し](https://ja.wikipedia.org/wiki/ハンガリー国家保安局 "wikilink")、FTCは民衆のクラブとして市民の人気を集めた。
 
 ハンガリー人唯一の[バロンドール](../Page/バロンドール.md "wikilink")受賞者[アルベルト・フローリアーン](../Page/アルベルト・フローリアーン.md "wikilink")を擁した1960年代には、1964-1965シーズンの[インターシティーズ・フェアーズカップ](https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ "wikilink")（[UEFAカップの前身](../Page/UEFAヨーロッパリーグ.md "wikilink")）で優勝、1967-1968シーズンのフェアーズ・カップで準優勝した。1974-1975シーズンの[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")でも準優勝した。
 
@@ -15,7 +15,7 @@
 
 2006-07シーズン終了後、財政難を理由として2部リーグに強制降格させられた。1901年のリーグ創設以来常に1部に所属し続けたFTCにとって、初の2部降格となった。
 
-フェレンツヴァーロシュTCの最大のライバルは、[ウーイペシュトFC](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")である。この2チームはハンガリーで最も人気があり成功しているチームである。そのためブダペスト・ダービーの中でも最も関心を集めるダービーである。他に[MTKブダペストFC](../Page/MTKブダペストFC.md "wikilink")、[ブダペスト・ホンヴェードFC](../Page/ブダペスト・ホンヴェードFC.md "wikilink")、[デブレツェンVSC](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")とライバル関係にある。
+フェレンツヴァーロシTCの最大のライバルは、[ウーイペシュトFC](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")である。この2チームはハンガリーで最も人気があり成功しているチームである。そのためブダペスト・ダービーの中でも最も関心を集めるダービーである。他に[MTKブダペストFC](../Page/MTKブダペストFC.md "wikilink")、[ブダペスト・ホンヴェードFC](../Page/ブダペスト・ホンヴェードFC.md "wikilink")、[デブレツェンVSC](https://ja.wikipedia.org/wiki/デブレツェンVSC "wikilink")とライバル関係にある。
 
 ## タイトル
 

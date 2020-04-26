@@ -126,7 +126,7 @@
       - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink"): A型
       - [誕生日](../Page/誕生日.md "wikilink"): [1984年](../Page/1984年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")
       - 嫌いな言葉: 「[萌え](../Page/萌え.md "wikilink")」
-      - 得意な物まね: [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[こずえ鈴](https://ja.wikipedia.org/wiki/こずえ鈴 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、コジコジ、おっくー（木村のマネージャー）、黒幕（リアクションのみ）、日本語を喋る外国人（父親の影響）、酔っ払い
+      - 得意な物まね: [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")、[こずえ鈴](https://ja.wikipedia.org/wiki/こずえ鈴 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、コジコジ、おっくー（木村のマネージャー）、黒幕（リアクションのみ）、日本語を喋る外国人（父親の影響）、酔っ払い
       - 必殺技
           - 「口から火」 - 木村が「ジゴロウ/ヴィンセントばっかり[コラージュ](../Page/コラージュ.md "wikilink")（[デジタル合成](../Page/デジタル合成.md "wikilink")。ジゴロウ「鮭の産卵」やヴィンセント「ボルケーノ」等）使っている」と発言したことから設定された。
           - 「赤爪の女」 - 2009年の限定復帰時に披露

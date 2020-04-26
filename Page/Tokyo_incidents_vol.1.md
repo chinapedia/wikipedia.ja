@@ -34,4 +34,4 @@
 2.  　群青日和 TV-CF
 3.  　遭難 TV-CF
 
-[Category:東京事変](https://ja.wikipedia.org/wiki/Category:東京事変 "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:ビデオ・クリップ集](https://ja.wikipedia.org/wiki/Category:ビデオ・クリップ集 "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")
+[Category:東京事変の映像作品](https://ja.wikipedia.org/wiki/Category:東京事変の映像作品 "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:ビデオ・クリップ集](https://ja.wikipedia.org/wiki/Category:ビデオ・クリップ集 "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")

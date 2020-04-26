@@ -77,4 +77,4 @@
 
   - [ZPP](https://complexityzoo.uwaterloo.ca/Complexity_Zoo:Z#zpp) - from Complexity Zoo
 
-[Category:計算複雑性理論](https://ja.wikipedia.org/wiki/Category:計算複雑性理論 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
+[Category:確率的複雑性クラス](https://ja.wikipedia.org/wiki/Category:確率的複雑性クラス "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")

@@ -13,8 +13,6 @@
 
 不動産は2002年に札幌プラザ親会社の[東急百貨店](../Page/東急百貨店.md "wikilink")が[証券化](../Page/証券化.md "wikilink")を実施し[特別目的会社](https://ja.wikipedia.org/wiki/特別目的会社 "wikilink")であるキューエフ・アセット・ファンディング有限会社に信託受益権を売却。2003年9月に[東急リアル・エステート投資法人](https://ja.wikipedia.org/wiki/東急リアル・エステート投資法人 "wikilink")が同社から信託受益権を取得している。
 
-
-
 ## テナント
 
 中核テナントは1・2階に[スターバックス コーヒー](../Page/スターバックス.md "wikilink")\[1\]、地下2階から地上6階まで[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")の[旗艦店](https://ja.wikipedia.org/wiki/旗艦店 "wikilink")である「SHIBUYA TSUTAYA」が入店している。7階には「TSUTAYA」と「WIRED CAFE」のコラボ店舗である「WIRED TOKYO 1999」、8階にはダイニング・バー「ぷん楽」が入店している。

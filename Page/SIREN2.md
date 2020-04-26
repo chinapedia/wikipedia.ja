@@ -304,6 +304,83 @@
     27年前の人間達。島を怪異から守るため、網元である太田の元へ集結した漁師達。武器を手に、「穢れ」とされる加奈江を始末しようとする。三上と加奈江のシナリオにのみ登場。
     戦闘力は屍人以下だが、いずれの形で倒しても気絶するだけなので時間を置けば復活する。また、武器を落とすこともない。
 
+## 登場する武器
+
+### 銃器
+
+  - [9mm拳銃](../Page/9mm拳銃.md "wikilink")
+    [9mm機関拳銃](https://ja.wikipedia.org/wiki/9mm機関拳銃 "wikilink")
+    [89式小銃](https://ja.wikipedia.org/wiki/89式小銃 "wikilink")
+    [64式小銃](https://ja.wikipedia.org/wiki/64式小銃 "wikilink")
+    [64式小銃](https://ja.wikipedia.org/wiki/64式小銃 "wikilink")（狙撃仕様）
+    [5,56mm機関銃MINIMI](../Page/ミニミ軽機関銃.md "wikilink")
+    [二十六年式拳銃](../Page/二十六年式拳銃.md "wikilink")
+    [NN38口径](../Page/ニューナンブM60.md "wikilink")
+    [狩猟用狙撃銃](../Page/レミントンM700.md "wikilink")
+
+### 鈍器
+
+  - [角材](https://ja.wikipedia.org/wiki/角材 "wikilink")
+    [モンキーレンチ](../Page/モンキーレンチ.md "wikilink")
+    [鎌](../Page/鎌.md "wikilink")
+    [傘](../Page/傘.md "wikilink")
+    闇人の傘
+    [火掻き棒](https://ja.wikipedia.org/wiki/火掻き棒 "wikilink")
+    [鉄パイプ](../Page/鉄パイプ.md "wikilink")
+    [バール](../Page/バール.md "wikilink")
+    縄切り
+    縄切り手鈎
+    左官用こて
+    [警棒](../Page/警棒.md "wikilink")
+    目抜き大切
+    [鉞](https://ja.wikipedia.org/wiki/鉞 "wikilink")
+    [ハンマー](https://ja.wikipedia.org/wiki/ハンマー "wikilink")
+    [金槌](https://ja.wikipedia.org/wiki/金槌 "wikilink")
+    [ピッケル](../Page/ピッケル.md "wikilink")
+    [鶴嘴](https://ja.wikipedia.org/wiki/鶴嘴 "wikilink")
+    [鳶](https://ja.wikipedia.org/wiki/鳶 "wikilink")
+    皮剥き鎌
+    89式小銃用銃剣
+    64式小銃用銃剣
+    [テニスラケット](https://ja.wikipedia.org/wiki/テニスラケット "wikilink")
+    [靴べら](https://ja.wikipedia.org/wiki/靴べら "wikilink")
+    魚鈎
+    手鈎
+    [手斧](https://ja.wikipedia.org/wiki/手斧 "wikilink")
+    [鉈](../Page/鉈.md "wikilink")
+    [アイロン](../Page/アイロン.md "wikilink")
+    [出刃包丁](../Page/出刃包丁.md "wikilink")
+    官給スコップ
+    [シャベル](../Page/シャベル.md "wikilink")
+    [フライパン](../Page/フライパン.md "wikilink")
+    [ゴルフクラブ](https://ja.wikipedia.org/wiki/ゴルフクラブ "wikilink")
+    デッキブラシ
+    [熊手](../Page/熊手.md "wikilink")
+    [トロフィー](../Page/トロフィー.md "wikilink")
+    [木刀](../Page/木刀.md "wikilink")
+    木製バット
+    [釘バット](../Page/釘バット.md "wikilink")
+
+### その他
+
+  - [懐中電灯](../Page/懐中電灯.md "wikilink")、L字型ライト
+    [発煙筒](../Page/発煙筒.md "wikilink")
+    狩猟罠
+    [ナット](../Page/ナット.md "wikilink")
+    [軽トラック](../Page/軽トラック.md "wikilink")
+    [消火器](../Page/消火器.md "wikilink")
+    [蛸壺](../Page/蛸壺.md "wikilink")
+    [電球](../Page/電球.md "wikilink")
+    [水銀灯](../Page/水銀灯.md "wikilink")
+    [21.5㎜信号拳銃](https://ja.wikipedia.org/wiki/21.5mm信号けん銃 "wikilink")
+    潮凪
+    太田家に代々伝わる古刀。
+  - 闇那其
+    焔薙
+    神代家に代々伝わる古刀。
+  - 宇理炎
+    古代の祭祀に使用したと推測される呪具。
+
 ## キーワード
 
   - 闇那其（あんなき）

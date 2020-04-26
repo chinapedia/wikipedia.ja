@@ -66,6 +66,6 @@
 
   - [永遠に](https://www.jehp.jp/kinki_discography/article/965)
 
-[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:Satomiが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Satomiが制作した楽曲 "wikilink") [Category:徳永英明の楽曲](https://ja.wikipedia.org/wiki/Category:徳永英明の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink") [Category:テレビ朝日金曜ナイトドラマの主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日金曜ナイトドラマの主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:KinKi_Kidsの楽曲](https://ja.wikipedia.org/wiki/Category:KinKi_Kidsの楽曲 "wikilink") [Category:Satomiが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Satomiが制作した楽曲 "wikilink") [Category:徳永英明の楽曲](https://ja.wikipedia.org/wiki/Category:徳永英明の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:テレビ朝日金曜ナイトドラマの主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日金曜ナイトドラマの主題歌 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.  [KinKi Kids、デビューからの連続1位ギネス記録更新\!](http://www.oricon.co.jp/news/48072/full/) オリコン 2015年12月25日閲覧

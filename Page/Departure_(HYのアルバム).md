@@ -51,6 +51,8 @@
     <!-- end list -->
       -
 
+## 脚注
+
 [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink") [Category:HYのアルバム](https://ja.wikipedia.org/wiki/Category:HYのアルバム "wikilink")
 
 1.   OKMusic|url=[https://okmusic.jp/news/293320|website=okmusic.jp|accessdate=2020-03-08](https://okmusic.jp/news/293320%7Cwebsite=okmusic.jp%7Caccessdate=2020-03-08)}}

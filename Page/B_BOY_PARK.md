@@ -3,7 +3,7 @@
 
 **B BOY PARK**（ビー・ボーイ・パーク）とは、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2017年](../Page/2017年.md "wikilink")まで、毎年夏に[代々木公園](../Page/代々木公園.md "wikilink")・野外ステージで行われていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")最大規模の[ヒップホップ](../Page/ヒップホップ.md "wikilink")の[ブロックパーティ](../Page/ブロックパーティ.md "wikilink")である。
 
-[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")による[ライヴや](../Page/演奏会.md "wikilink")[パネルディスカッション](https://ja.wikipedia.org/wiki/パネルディスカッション "wikilink")（[トークショー](https://ja.wikipedia.org/wiki/トークショー "wikilink")）の他、[1999年](../Page/1999年.md "wikilink")からは一般参加による[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")、B-BOYバトル（ダンスバトル）、DJバトルが行われていた。 なお、初年度のみ「**Tokyo B-BOY'S ANNIVERSARY**」というタイトルだった。
+[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")による[ライヴや](../Page/演奏会.md "wikilink")[パネルディスカッション](../Page/パネルディスカッション.md "wikilink")（[トークショー](https://ja.wikipedia.org/wiki/トークショー "wikilink")）の他、[1999年](../Page/1999年.md "wikilink")からは一般参加による[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")、B-BOYバトル（ダンスバトル）、DJバトルが行われていた。 なお、初年度のみ「**Tokyo B-BOY'S ANNIVERSARY**」というタイトルだった。
 
 [2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")までは、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")でも開催。
 

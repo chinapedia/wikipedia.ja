@@ -1,7 +1,7 @@
 > この記事は[SPIKE](https://ja.wikipedia.org/wiki/SPIKE)から翻訳されています。
 
 
-『**SPIKE**』（スパイク）は、[2000年](../Page/2000年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の5枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**SPIKE**』（スパイク）は、[2000年](../Page/2000年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 収録曲
 

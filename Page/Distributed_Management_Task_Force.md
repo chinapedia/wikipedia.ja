@@ -46,18 +46,19 @@ DMTFが策定した標準には次のようなものがある。
 
 ## 外部リンク
 
-  -
+  - [公式サイト](https://www.dmtf.org/)
+
   -
 ## 内部リンク
 
-  - <https://en.wikipedia.org/wiki/Cloud_Infrastructure_Management_Interface>
-  - <https://en.wikipedia.org/wiki/Common_Information_Model_(computing)>
-  - <https://en.wikipedia.org/wiki/Desktop_and_mobile_Architecture_for_System_Hardware>
-  - <https://en.wikipedia.org/wiki/Management_Component_Transport_Protocol>
-  - <https://en.wikipedia.org/wiki/NC-SI>
-  - <https://en.wikipedia.org/wiki/Open_Virtualization_Format>
-  - <https://en.wikipedia.org/wiki/Redfish_(specification)>
-  - <https://en.wikipedia.org/wiki/Systems_Management_Architecture_for_Server_Hardware>
-  - <https://en.wikipedia.org/wiki/System_Management_BIOS>
+  - [:en:Cloud Infrastructure Management Interface](https://ja.wikipedia.org/wiki/:en:Cloud_Infrastructure_Management_Interface "wikilink")
+  - [:en:Common Information Model (computing)](https://ja.wikipedia.org/wiki/:en:Common_Information_Model_\(computing\) "wikilink")
+  - [:en:Desktop and mobile Architecture for System Hardware](https://ja.wikipedia.org/wiki/:en:Desktop_and_mobile_Architecture_for_System_Hardware "wikilink")
+  - [:en:Management Component Transport Protocol](https://ja.wikipedia.org/wiki/:en:Management_Component_Transport_Protocol "wikilink")
+  - [:en:NC-SI](https://ja.wikipedia.org/wiki/:en:NC-SI "wikilink")
+  - [:en:Open Virtualization Format](https://ja.wikipedia.org/wiki/:en:Open_Virtualization_Format "wikilink")
+  - [:en:Redfish (specification)](https://ja.wikipedia.org/wiki/:en:Redfish_\(specification\) "wikilink")
+  - [:en:Systems Management Architecture for Server Hardware](https://ja.wikipedia.org/wiki/:en:Systems_Management_Architecture_for_Server_Hardware "wikilink")
+  - [:en:System Management BIOS](https://ja.wikipedia.org/wiki/:en:System_Management_BIOS "wikilink")
 
 [Category:アメリカ合衆国の非営利組織](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の非営利組織 "wikilink") [Category:ネットワーク管理](https://ja.wikipedia.org/wiki/Category:ネットワーク管理 "wikilink") [Category:標準化団体](https://ja.wikipedia.org/wiki/Category:標準化団体 "wikilink") [Category:1992年設立の組織](https://ja.wikipedia.org/wiki/Category:1992年設立の組織 "wikilink")

@@ -28,7 +28,7 @@ PVには[ダイノジ](../Page/ダイノジ.md "wikilink")が出演。
 1.  CHU-LIP
       -
         [TBS系列](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[きらきら研修医](../Page/きらきら研修医.md "wikilink")」主題歌。4thオリジナルアルバム『[LOVE PiECE](../Page/LOVE_PiECE.md "wikilink")』の9曲目に収録。
-        [調](https://ja.wikipedia.org/wiki/調 "wikilink")は[イ長調](../Page/イ長調.md "wikilink")\[1\]。
+        [調](../Page/調.md "wikilink")は[イ長調](../Page/イ長調.md "wikilink")\[1\]。
 2.  キミにカエル。
 3.  CHU-LIP (Instrumental)
 4.  キミにカエル。 (Instrumental)
@@ -46,6 +46,6 @@ PVには[ダイノジ](../Page/ダイノジ.md "wikilink")が出演。
 
 <references />
 
-[Category:大塚愛の楽曲](https://ja.wikipedia.org/wiki/Category:大塚愛の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:TBS木曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS木曜10時枠の連続ドラマ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:王様のブランチ](https://ja.wikipedia.org/wiki/Category:王様のブランチ "wikilink")
+[Category:大塚愛の楽曲](https://ja.wikipedia.org/wiki/Category:大塚愛の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:TBS木曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS木曜10時枠の連続ドラマ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:王様のブランチ](https://ja.wikipedia.org/wiki/Category:王様のブランチ "wikilink")
 
 1.

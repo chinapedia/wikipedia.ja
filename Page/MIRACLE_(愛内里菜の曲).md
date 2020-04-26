@@ -57,4 +57,4 @@
 
   - [MIRACLE](http://rina-aiuchi.com/library_sg22.html)
 
-[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:MÄRの音楽](https://ja.wikipedia.org/wiki/Category:MÄRの音楽 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")
+[Category:愛内里菜の楽曲](https://ja.wikipedia.org/wiki/Category:愛内里菜の楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:MÄRの音楽](https://ja.wikipedia.org/wiki/Category:MÄRの音楽 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")

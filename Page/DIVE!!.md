@@ -3,7 +3,7 @@
 
 『**DIVE\!\!**』（ダイブ）は、[森絵都](https://ja.wikipedia.org/wiki/森絵都 "wikilink")による、[水泳](../Page/水泳.md "wikilink")の[飛込み競技](https://ja.wikipedia.org/wiki/飛込み競技 "wikilink")を題材とした「[スポ根](../Page/スポ根.md "wikilink")」[青春小説](https://ja.wikipedia.org/wiki/青春小説 "wikilink")。[2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、[講談社](../Page/講談社.md "wikilink")より全4巻が刊行された。第52回[小学館児童出版文化賞](../Page/小学館児童出版文化賞.md "wikilink")受賞作。[2006年](../Page/2006年.md "wikilink")に[角川文庫](../Page/角川文庫.md "wikilink")より[文庫版](https://ja.wikipedia.org/wiki/文庫版 "wikilink")（上・下）が発売された。
 
-[2003年](../Page/2003年.md "wikilink")に[NHK-FMの](../Page/NHK-FM放送.md "wikilink")「[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")」で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化、[熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")監督で映画化、2008年6月公開。また、[池野雅博](../Page/池野雅博.md "wikilink")作画で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化されたものが『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[2007年](../Page/2007年.md "wikilink")28号より2008年27号まで連載されていた。2017年より、紅柴るづる作画による新たな漫画版が『[ヤングエース](https://ja.wikipedia.org/wiki/ヤングエース "wikilink")』2017年7月号から連載中。2018年9月に舞台版が上演予定\[1\]。
+[2003年](../Page/2003年.md "wikilink")に[NHK-FMの](../Page/NHK-FM放送.md "wikilink")「[青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")」で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化、[熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")監督で映画化、2008年6月公開。また、[池野雅博](../Page/池野雅博.md "wikilink")作画で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化されたものが『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[2007年](../Page/2007年.md "wikilink")28号より2008年27号まで連載されていた。2017年より、紅柴るづる作画による新たな漫画版が『[ヤングエース](https://ja.wikipedia.org/wiki/ヤングエース "wikilink")』2017年7月号から連載中。2018年9月に舞台版が上演予定\[1\]。
 
 ## あらすじ
 

@@ -148,7 +148,7 @@
   - Synthesizer programming:森下晃
   - Keyboards:[松本晃彦](../Page/松本晃彦.md "wikilink")
   - Bass:荻原基文
-  - Guitar:[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")
+  - Guitar:[古川昌義](../Page/古川昌義.md "wikilink")
   - Drums:江口信夫
   - Strings:[6・6・4・4 桑野聖Strings Group](https://ja.wikipedia.org/wiki/桑野聖 "wikilink")
   - Chorus:[西司](../Page/西司.md "wikilink")

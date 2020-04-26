@@ -18,7 +18,7 @@
 
 ## 来歴
 
-長年続けていたバンド[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")を1994年に解散した石原が、ソロアルバム制作にあたり旧友の二井原をゲスト参加させようと話を持ちかけたところ、一緒にバンドをやろうという計画に発展（元々二井原はEARTHSHAKERのオリジナルメンバーであった）。そこで[LOUDNESS](../Page/LOUDNESS.md "wikilink")を脱退した樋口を勧誘し加入させ、ベーシストは元[ANTHEM](../Page/ANTHEM.md "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")も加入し曲作りを行うも後に脱退、後任に元[BLIZARDの寺沢を迎え活動を開始](../Page/ブリザード_\(バンド\).md "wikilink")。1980年代[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")を象徴した有名バンドの元メンバーが集まった「[夢のバンド](../Page/スーパーグループ.md "wikilink")」となった。
+長年続けていたバンド[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")を1994年に解散した石原が、ソロアルバム制作にあたり旧友の二井原をゲスト参加させようと話を持ちかけたところ、一緒にバンドをやろうという計画に発展（元々二井原はEARTHSHAKERのオリジナルメンバーであった）。そこで[LOUDNESS](../Page/LOUDNESS.md "wikilink")を脱退した樋口を勧誘し加入させ、ベーシストは元[ANTHEM](../Page/ANTHEM.md "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")も加入し曲作りを行うも後に脱退、後任に元[BLIZARDの寺沢を迎え活動を開始](../Page/ブリザード_\(バンド\).md "wikilink")。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")のファンにとっては、豪華な顔ぶれとなった。
 
 [1994年](../Page/1994年.md "wikilink")に1stアルバム『＄￡￥』\[1\]、翌年に2ndアルバム『DREAMS OF DUST』を発表。しかし、1990年代前半～中盤の低迷するジャパニーズ・メタル・シーンの影響を受け、1980年代の正統派HM/HR路線を頑固に貫くSLYは商業的に成功を収められなかった。
 
@@ -63,6 +63,9 @@
   - [BLIZARD](../Page/ブリザード_\(バンド\).md "wikilink")
   - [X.Y.Z.→A](../Page/X.Y.Z.→A.md "wikilink")
   - [RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink")
+  - [BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink")
+  - [ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")
+  - [ハードロック](../Page/ハードロック.md "wikilink")
 
 [Category:LOUDNESS](https://ja.wikipedia.org/wiki/Category:LOUDNESS "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink")
 

@@ -114,4 +114,4 @@
 
 [de:DDR-SDRAM\#DDR2-SDRAM](https://ja.wikipedia.org/wiki/de:DDR-SDRAM#DDR2-SDRAM "wikilink") [fi:DRAM\#DDR2 SDRAM](https://ja.wikipedia.org/wiki/fi:DRAM#DDR2_SDRAM "wikilink")
 
-[Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink") [Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:SDRAM](https://ja.wikipedia.org/wiki/Category:SDRAM "wikilink") [Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

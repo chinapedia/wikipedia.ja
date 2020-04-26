@@ -107,7 +107,7 @@
 
   - [M-AGE](../Page/M-AGE.md "wikilink") 　 (4月～6月)
   - [LUNA SEA](../Page/LUNA_SEA.md "wikilink") 　 (7月～9月)
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") 　 (10月～12月)
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") 　 (10月～12月)
 
 <!-- end list -->
 

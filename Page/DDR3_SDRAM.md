@@ -288,7 +288,7 @@ DDR3にも、DDR2と同様に、帯域幅や容量に加えて、次のような
 
 [de:DDR-SDRAM\#DDR3-SDRAM](https://ja.wikipedia.org/wiki/de:DDR-SDRAM#DDR3-SDRAM "wikilink") [fi:DRAM\#DDR3 SDRAM](https://ja.wikipedia.org/wiki/fi:DRAM#DDR3_SDRAM "wikilink")
 
-[Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink") [Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:SDRAM](https://ja.wikipedia.org/wiki/Category:SDRAM "wikilink") [Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")
 
 1.
 2.

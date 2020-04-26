@@ -5,7 +5,7 @@
 
 ## 概要
 
-楽曲は[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列[木曜ミステリー](../Page/木曜ミステリー.md "wikilink")『[新・京都迷宮案内](../Page/京都迷宮案内.md "wikilink")』の主題歌。[調](https://ja.wikipedia.org/wiki/調 "wikilink")は[ホ短調](https://ja.wikipedia.org/wiki/ホ短調 "wikilink")。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")では[手話](../Page/手話.md "wikilink")が用いられているシーンがある。
+楽曲は[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列[木曜ミステリー](../Page/木曜ミステリー.md "wikilink")『[新・京都迷宮案内](../Page/京都迷宮案内.md "wikilink")』の主題歌。[調](../Page/調.md "wikilink")は[ホ短調](https://ja.wikipedia.org/wiki/ホ短調 "wikilink")。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")では[手話](../Page/手話.md "wikilink")が用いられているシーンがある。
 
 リリース日が[バレンタインデー](../Page/バレンタインデー.md "wikilink")であったことにちなんでハート型の[フライヤーがCDショップで配布された](../Page/チラシ.md "wikilink")。フライヤーには、携帯用待受ダウンロードと「Season of love」スポット映像が携帯で視聴出来るIDとパスワード記載されている。また、[タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店にて『「Season of love」スペシャル店頭DAY』が開催され、倉木の直筆メッセージイラスト入りバレンタインパネルが展示され、店頭でスタッフからハート型フライヤーとミニチョコが先着で配布された。
 

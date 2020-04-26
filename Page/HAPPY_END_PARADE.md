@@ -17,7 +17,7 @@
 2.  **空いろのくれよん** / [曽我部恵一](../Page/曽我部恵一.md "wikilink")
       -
         アルバム『[風街ろまん](../Page/風街ろまん.md "wikilink")』収録
-3.  **12月の雨の日** / [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+3.  **12月の雨の日** / [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
       -
         1stシングル
 4.  **抱きしめたい** / [Jim O'Rourke](../Page/ジム・オルーク_\(ミュージシャン\).md "wikilink") featuring [ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")

@@ -200,6 +200,16 @@ RDAF L-857</p></td>
 </tr>
 <tr class="odd">
 <td><p>PBY-5A</p></td>
+<td><p>22025</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:PBY-505-Catalina-1.jpg" title="fig:PBY-505-Catalina-1.jpg">PBY-505-Catalina-1.jpg</a></p></td>
+<td><p>インドネシア ジョグジャカルタ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Dirgantara_Mandala_Museum" title="wikilink">インドネシア空軍中央博物館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>製造番号 1903。</p></td>
+</tr>
+<tr class="even">
+<td><p>PBY-5A</p></td>
 <td><p>33966</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Polk_County,_FL,_USA_-_panoramio_(53).jpg" title="fig:Polk_County,_FL,_USA_-_panoramio_(53).jpg">Polk_County,_FL,_USA_-_panoramio_(53).jpg</a></p></td>
 <td><p>アメリカ合衆国<br />
@@ -209,7 +219,7 @@ RDAF L-857</p></td>
 <td><p>修復待ち</p></td>
 <td><p>製造番号 1520。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A<br />
 SA-10A</p></td>
 <td><p>33993<br />
@@ -222,19 +232,19 @@ SA-10A</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1547。OA-10A / 434033として展示されている。<a href="http://www.mcchordairmuseum.org/REV%20B%20MAM%20COLLECTION%20SA-10A%20BORDER.htm">7</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>46456</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:HARP_Consolidated_PBY_Catalina_02.JPG" title="fig:HARP_Consolidated_PBY_Catalina_02.JPG">HARP_Consolidated_PBY_Catalina_02.JPG</a></p></td>
 <td><p>アメリカ合衆国<br />
 ニューヨーク市</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Gateway_National_Recreation_Area" title="wikilink">ゲートウェイ国立レクリエーションエリア</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Gateway_National_Recreation_Area" title="wikilink">ゲートウェイ国立保養地区</a><br />
 フロイト・ベネット・フィールド</p></td>
 <td><p>公開</p></td>
 <td><p>修復中</p></td>
 <td><p>製造番号 1820。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>46522</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Canso_(7007126242).jpg" title="fig:Canso_(7007126242).jpg">Canso_(7007126242).jpg</a></p></td>
@@ -245,7 +255,7 @@ SA-10A</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 1886。飛行登録番号 N2172N。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>46582</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:US_Navy_110406-N-YR391-008_World_War_II_Navy_veterans_and_their_sons_pose_for_a_photo_during_a_PBY-5A_BUNO_6582_dedication_at_Naval_Air_Station_Jac.jpg" title="fig:US_Navy_110406-N-YR391-008_World_War_II_Navy_veterans_and_their_sons_pose_for_a_photo_during_a_PBY-5A_BUNO_6582_dedication_at_Naval_Air_Station_Jac.jpg">US_Navy_110406-N-YR391-008_World_War_II_Navy_veterans_and_their_sons_pose_for_a_photo_during_a_PBY-5A_BUNO_6582_dedication_at_Naval_Air_Station_Jac.jpg</a></p></td>
@@ -256,7 +266,7 @@ SA-10A</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1946。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>46590<br />
 RAAF A24-387</p></td>
@@ -268,7 +278,7 @@ RAAF A24-387</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 2143。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A<br />
 OA-10A</p></td>
 <td><p>46595<br />
@@ -281,11 +291,11 @@ OA-10A</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1959。<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196254/consolidated-oa-10-catalina/">8</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>46596<br />
 SPAF DR.1-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBY-5_&quot;Catalina&quot;_(487189643).jpg" title="fig:Consolidated_PBY-5_&quot;Catalina&quot;_(487189643).jpg">Consolidated_PBY-5_"Catalina"_(487189643).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBY-5A_Catalina_‘4_-_74-21’_(25847927183).jpg" title="fig:Consolidated_PBY-5A_Catalina_‘4_-_74-21’_(25847927183).jpg">Consolidated_PBY-5A_Catalina_‘4_-_74-21’_(25847927183).jpg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スペイン" title="wikilink">スペイン</a><br />
 <a href="../Page/マドリード.md" title="wikilink">マドリード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Museo_del_Aire_(Madrid)" title="wikilink">スペイン航空宇宙博物館</a></p></td>
@@ -293,7 +303,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1960。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>46602</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:1940_Consolidated_Vultee_PBY-5A_Catalina_BuNo_46602_(N607CC)_(National_Naval_Aviation_Museum)_(8746052715).jpg" title="fig:1940_Consolidated_Vultee_PBY-5A_Catalina_BuNo_46602_(N607CC)_(National_Naval_Aviation_Museum)_(8746052715).jpg">1940_Consolidated_Vultee_PBY-5A_Catalina_BuNo_46602_(N607CC)_(National_Naval_Aviation_Museum)_(8746052715).jpg</a></p></td>
@@ -304,7 +314,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1966。飛行登録番号 N607CC。<a href="https://www.navalaviationmuseum.org/aircraft/pby-5a-catalina/">9</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>46624</p></td>
 <td></td>
@@ -315,7 +325,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1988。飛行登録番号 N9502C。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>46633</p></td>
 <td><p><a href="https://c1.staticflickr.com/6/5021/5650721728_7aaf17e570_b.jpg">写真</a></p></td>
@@ -327,7 +337,7 @@ SPAF DR.1-1</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 1997。飛行登録番号 VP-BPS。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>48287</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Sub_bomber3_(25989593951).jpg" title="fig:Sub_bomber3_(25989593951).jpg">Sub_bomber3_(25989593951).jpg</a></p></td>
@@ -338,18 +348,18 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1649。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>48294</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:2012-10-18_15-39-47_(Military_Aviation_Museum).jpg" title="fig:2012-10-18_15-39-47_(Military_Aviation_Museum).jpg">2012-10-18_15-39-47_(Military_Aviation_Museum).jpg</a></p></td>
 <td><p>アメリカ合衆国<br />
 <a href="../Page/バージニア州.md" title="wikilink">バージニア州</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Military_Aviation_Museum" title="wikilink">軍事航空博物館</a></p></td>
+<td><p><a href="../Page/軍事航空博物館.md" title="wikilink">軍事航空博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 1656。飛行登録番号 N9521C。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>48334</p></td>
 <td><p><a href="https://s3-us-west-2.amazonaws.com/abpic-media-production/pictures/full_size_0232/1349801-large.jpg">写真</a></p></td>
@@ -359,7 +369,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1696。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>48375</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBY-5A_Catalina_BuNo_48375_N96UC_BelowLWing_FOF_19Feb2010_(14403822648).jpg" title="fig:Consolidated_PBY-5A_Catalina_BuNo_48375_N96UC_BelowLWing_FOF_19Feb2010_(14403822648).jpg">Consolidated_PBY-5A_Catalina_BuNo_48375_N96UC_BelowLWing_FOF_19Feb2010_(14403822648).jpg</a></p></td>
@@ -369,7 +379,7 @@ SPAF DR.1-1</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 1737。飛行登録番号 N96UC。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>48396</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Unmarked_Consolidated_PBY_Catalina_(8739100674).jpg" title="fig:Unmarked_Consolidated_PBY_Catalina_(8739100674).jpg">Unmarked_Consolidated_PBY_Catalina_(8739100674).jpg</a></p></td>
@@ -380,7 +390,7 @@ SPAF DR.1-1</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 1758。飛行登録番号 N10609。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>48406</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:1943_Consolidated_PBY-5A_Catalina_Bu_No_48406-1768_-_San_Diego_Air_&amp;_Space_Museum_(9715112198).jpg" title="fig:1943_Consolidated_PBY-5A_Catalina_Bu_No_48406-1768_-_San_Diego_Air_&amp;_Space_Museum_(9715112198).jpg">1943_Consolidated_PBY-5A_Catalina_Bu_No_48406-1768_-_San_Diego_Air_&amp;_Space_Museum_(9715112198).jpg</a></p></td>
@@ -390,7 +400,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1768。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>48419</p></td>
 <td><p><a href="http://www.museusdorio.com.br/joomla/media/k2/galleries/175/03_MUSEU_AEROESPACIAL_AP5_campos_elisios_creditos_instituicao_aeronave_catalina.jpg">写真</a></p></td>
@@ -400,7 +410,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1781。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-5A</p></td>
 <td><p>48426</p></td>
 <td><p><a href="https://cdn.jetphotos.com/full/6/45326_1514305276.jpg">写真</a></p></td>
@@ -410,7 +420,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 1788。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-5A</p></td>
 <td><p>FAE 53602</p></td>
 <td><p><a href="https://imgproc.airliners.net/photos/airliners/2/0/0/2728002.jpg?v=v40">写真</a></p></td>
@@ -421,7 +431,7 @@ SPAF DR.1-1</p></td>
 <td><p>静態展示</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-6A</p></td>
 <td><p>46643<br />
 FAB 6552</p></td>
@@ -433,7 +443,7 @@ FAB 6552</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 2007。飛行登録番号 PP-PEB。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-6A</p></td>
 <td><p>46644</p></td>
 <td><p><a href="https://cdn.jetphotos.com/full/5/45628_1461587863.jpg">写真</a></p></td>
@@ -444,7 +454,7 @@ FAB 6552</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 2008。飛行登録番号 VH-EAX。<a href="https://qfom.com.au/about/qantas-founders-museum-aircraft-collection/">11</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-6A</p></td>
 <td><p>46645<br />
 RAF FP535</p></td>
@@ -456,7 +466,7 @@ RAF FP535</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 2009。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-6A</p></td>
 <td><p>46655</p></td>
 <td></td>
@@ -467,7 +477,7 @@ RAF FP535</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 2019。飛行登録番号 C-FIZU。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-6A</p></td>
 <td><p>46662</p></td>
 <td><p><a href="http://www.tomahawkfilms.com/blog/wp-content/uploads/2013/03/s-Cataline.jpg">写真</a></p></td>
@@ -477,7 +487,7 @@ RAF FP535</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 2026。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-6A</p></td>
 <td><p>46665</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:VH-CAT_(Consolidated_PBY-6_Catalina)_(16383232207).jpg" title="fig:VH-CAT_(Consolidated_PBY-6_Catalina)_(16383232207).jpg">VH-CAT_(Consolidated_PBY-6_Catalina)_(16383232207).jpg</a></p></td>
@@ -490,7 +500,7 @@ RAF FP535</p></td>
 <td><p>修復中</p></td>
 <td><p>製造番号 2029。飛行登録番号 VH-CAT。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBY-6A</p></td>
 <td><p>46679<br />
 RAAF A24-362</p></td>
@@ -502,7 +512,7 @@ RAAF A24-362</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 2043。飛行登録番号 VH-EPZ。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBY-6A</p></td>
 <td><p>64054<br />
 HK-2115P</p></td>
@@ -514,7 +524,7 @@ HK-2115P</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 2125。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>28-5AMC<br />
 PBV-1A</p></td>
 <td><p>RCAF 9742</p></td>
@@ -526,7 +536,7 @@ PBV-1A</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 407。飛行登録番号 N68740。2017年まで<a href="https://ja.wikipedia.org/wiki/:en:Lone_Star_Flight_Museum" title="wikilink">ローンスター飛行博物館が所有していた</a>。<a href="http://www.pimaair.org/aircraft-by-name/item/canso">12</a><a href="http://www.aerialvisuals.ca/AirframeDossier.php?Serial=53232">13</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 9767<br />
 21996</p></td>
@@ -539,7 +549,7 @@ PBV-1A</p></td>
 <td><p>飛行可能</p></td>
 <td><p>飛行登録番号 N9767。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A<br />
 Tp47</p></td>
 <td><p>RCAF 9810<br />
@@ -551,7 +561,7 @@ RSwAF 47001</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-244。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 9815</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBY-5A_Catalina,_1953_-_Evergreen_Aviation_&amp;_Space_Museum_-_McMinnville,_Oregon_-_DSC00733.jpg" title="fig:Consolidated_PBY-5A_Catalina,_1953_-_Evergreen_Aviation_&amp;_Space_Museum_-_McMinnville,_Oregon_-_DSC00733.jpg">Consolidated_PBY-5A_Catalina,_1953_-_Evergreen_Aviation_&amp;_Space_Museum_-_McMinnville,_Oregon_-_DSC00733.jpg</a></p></td>
@@ -561,7 +571,7 @@ RSwAF 47001</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-249。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 9825</p></td>
 <td><p><a href="https://imgproc.airliners.net/photos/airliners/1/3/4/2530431.jpg?v=v40">写真</a></p></td>
@@ -572,7 +582,7 @@ RSwAF 47001</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 CV-259。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 9830<br />
 RAF CV264</p></td>
@@ -584,7 +594,7 @@ RAF CV264</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-264。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 9837</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:North_Atlantic_Aviation_Museum_Forest_Service_Consolidated_PBY_Catalina.jpg" title="fig:North_Atlantic_Aviation_Museum_Forest_Service_Consolidated_PBY_Catalina.jpg">North_Atlantic_Aviation_Museum_Forest_Service_Consolidated_PBY_Catalina.jpg</a></p></td>
@@ -594,7 +604,7 @@ RAF CV264</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-271。<a href="https://northatlanticaviationmuseum.com/pby-5a-canso-waterbomber-catalina/">14</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 9838</p></td>
 <td><p><a href="https://www.airliners.net/photo/Brazil-Air-Force/Consolidated-Canadian-Vickers-C-10-Catalina-PBY-5A/1077889/L">写真</a></p></td>
@@ -605,7 +615,7 @@ RAF CV264</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-272。飛行登録番号 N4934H。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11005</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBV-1A_Catalina_433915_(G-PBYA)_(9501325431).jpg" title="fig:Consolidated_PBV-1A_Catalina_433915_(G-PBYA)_(9501325431).jpg">Consolidated_PBV-1A_Catalina_433915_(G-PBYA)_(9501325431).jpg</a></p></td>
@@ -616,7 +626,7 @@ RAF CV264</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-283。飛行登録番号 G-PBYA。米陸軍航空隊で運用されたOA-10/44-33915号機の塗装がされている。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11024</p></td>
 <td></td>
@@ -626,7 +636,7 @@ RAF CV264</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 CV-301。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11042</p></td>
 <td><p><a href="https://cdn.planespotters.net/photo/024000/original/5b-pby-athenian-airlift-services-ltd-consolidated-aircraft-pby-5a-catalina_PlanespottersNet_024726_484f4f38bf.jpg">写真</a></p></td>
@@ -637,7 +647,7 @@ RAF CV264</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-333。飛行登録番号 C-FPQF。米海軍で運用された機体のマーキング、5B-PBY/31-P-5の塗装がされている。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11047</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Canadian_Vickers_PBV-1A_Canso_A_&#39;N413PB&#39;_(13071596384).jpg" title="fig:Canadian_Vickers_PBV-1A_Canso_A_&#39;N413PB&#39;_(13071596384).jpg">Canadian_Vickers_PBV-1A_Canso_A_'N413PB'_(13071596384).jpg</a></p></td>
@@ -647,7 +657,7 @@ RAF CV264</p></td>
 <td><p>修復中</p></td>
 <td><p>製造番号 CV-343。飛行登録番号 N343CV。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11054</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBY-5A_Catalina,_Private_JP6877326.jpg" title="fig:Consolidated_PBY-5A_Catalina,_Private_JP6877326.jpg">Consolidated_PBY-5A_Catalina,_Private_JP6877326.jpg</a></p></td>
@@ -657,7 +667,7 @@ RAF CV264</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-357。飛行登録番号 ZK-PBY。ニュージーランド空軍 NZ4017号機の塗装がされている。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11060<br />
 RAAF A24-104</p></td>
@@ -669,7 +679,7 @@ RAAF A24-104</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-369。飛行登録番号 VH-EXG。胴体のみ展示されている。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11074</p></td>
 <td><p><a href="http://www.airport-data.com/images/aircraft/small/000/517/517723.jpg">写真</a></p></td>
@@ -681,7 +691,7 @@ RAAF A24-104</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-397。飛行登録番号 N222FT。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11084</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_PBY-5A_Catalina,_Canadian_Warplane_Heritage_Museum_JP7641239.jpg" title="fig:Consolidated_PBY-5A_Catalina,_Canadian_Warplane_Heritage_Museum_JP7641239.jpg">Consolidated_PBY-5A_Catalina,_Canadian_Warplane_Heritage_Museum_JP7641239.jpg</a></p></td>
@@ -692,7 +702,7 @@ RAAF A24-104</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-417。飛行登録番号 C-FPQL。RAF / 9754と塗装されている。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11088</p></td>
 <td><p><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3Y5IYu3A09JxNfvZnh6E7AGO35mSUACObgxb-c3xtb7HInXqN">写真</a></p></td>
@@ -702,7 +712,7 @@ RAAF A24-104</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-425。飛行登録番号 C-FPQM。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11089</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:PBY-427CV.jpg" title="fig:PBY-427CV.jpg">PBY-427CV.jpg</a></p></td>
@@ -714,7 +724,7 @@ RAAF A24-104</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-427。飛行登録番号 N427CV。<a href="http://tokyoexpress.info/2016/08/02/米海軍の「コンソリデーテッドpby」飛行艇、復元/">18</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11091</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_(Canadian_Vickers)_PBV-1A_Canso_A_(28),_Government_of_Newfoundland_and_Labrador_AN1453758.jpg" title="fig:Consolidated_(Canadian_Vickers)_PBV-1A_Canso_A_(28),_Government_of_Newfoundland_and_Labrador_AN1453758.jpg">Consolidated_(Canadian_Vickers)_PBV-1A_Canso_A_(28),_Government_of_Newfoundland_and_Labrador_AN1453758.jpg</a></p></td>
@@ -725,7 +735,7 @@ RAAF A24-104</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-431。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11093</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Consolidated_(Canadian_Vickers)_PBV-1A_Canso_A_(28)_AN1249783.jpg" title="fig:Consolidated_(Canadian_Vickers)_PBV-1A_Canso_A_(28)_AN1249783.jpg">Consolidated_(Canadian_Vickers)_PBV-1A_Canso_A_(28)_AN1249783.jpg</a></p></td>
@@ -737,7 +747,7 @@ RAAF A24-104</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 CV-435。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A</p></td>
 <td><p>RCAF 11094</p></td>
 <td><p><a href="http://www.edmontonairshow.com/uploads/thumbnails/_DSC5983.jpg.8963cc2b.jpg">写真</a></p></td>
@@ -748,7 +758,7 @@ RAAF A24-104</p></td>
 <td><p>飛行可能</p></td>
 <td><p>製造番号 CV-437。飛行登録番号 C-FNJE。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PBV-1A<br />
 OA-10A</p></td>
 <td><p>RCAF 67918<br />
@@ -761,7 +771,7 @@ OA-10A</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 CV-465。飛行登録番号 N57875。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PBV-1A<br />
 OA-10A</p></td>
 <td><p>RCAF 68013<br />
@@ -774,7 +784,7 @@ OA-10A</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 CV-560。飛行登録番号 N322FA。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>OA-10A</p></td>
 <td><p>44-34009<br />
 FACh 405</p></td>
@@ -786,7 +796,7 @@ FACh 405</p></td>
 <td><p>静態展示</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PB2B-2</p></td>
 <td><p>44248<br />
 RAF JX630<br />
@@ -799,7 +809,7 @@ RAAF A24-385</p></td>
 <td><p>静態展示</p></td>
 <td><p>製造番号 61154。飛行登録番号 VH-ASA。<a href="https://collection.maas.museum/object/207900">20</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

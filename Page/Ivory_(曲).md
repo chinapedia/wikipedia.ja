@@ -1,4 +1,4 @@
-> この記事は[Ivory \(\)](https://ja.wikipedia.org/wiki/Ivory_\(\))から翻訳されています。
+> この記事は[Ivory \(曲\)](https://ja.wikipedia.org/wiki/Ivory_\(曲\))から翻訳されています。
 
 
 「**Ivory**」（アイヴォリー）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。発売元は[MOB SQUAD](../Page/MOB_SQUAD.md "wikilink")。
@@ -25,4 +25,4 @@
 
 [en:Ivory (song)](https://ja.wikipedia.org/wiki/en:Ivory_\(song\) "wikilink")
 
-[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:Dragon_Ashの楽曲](https://ja.wikipedia.org/wiki/Category:Dragon_Ashの楽曲 "wikilink") [Category:降谷建志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:降谷建志が制作した楽曲 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:Dragon_Ashの楽曲](https://ja.wikipedia.org/wiki/Category:Dragon_Ashの楽曲 "wikilink") [Category:降谷建志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:降谷建志が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[BKOOL](https://ja.wikipedia.org/wiki/BKOOL)から翻訳されています。
+> この記事は[B☆KOOL](https://ja.wikipedia.org/wiki/B☆KOOL)から翻訳されています。
 
 
 **B☆KOOL**（ビー・クール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[ダンスグループ](https://ja.wikipedia.org/wiki/ダンスグループ "wikilink")。[1994年](../Page/1994年.md "wikilink")デビュー、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に解散。

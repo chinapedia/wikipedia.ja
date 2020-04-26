@@ -23,7 +23,7 @@
 
   -
     作詞･作曲･編曲: [葉山拓亮](../Page/葉山拓亮.md "wikilink")
-    Rap詞:[Kentaro Akutsu](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")(\#1,\#3)
+    Rap詞:[Kentaro Akutsu](../Page/阿久津健太郎.md "wikilink")(\#1,\#3)
     編曲: CANDY(\#3)
 
 ## 関連項目

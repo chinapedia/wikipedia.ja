@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[N末端](https://ja.wikipedia.org/wiki/N末端)から翻訳されています。
 
 
 [Tetrapeptide_structural_formulae_v.1.png](https://ja.wikipedia.org/wiki/File:Tetrapeptide_structural_formulae_v.1.png "fig:Tetrapeptide_structural_formulae_v.1.png") ([Val](../Page/バリン.md "wikilink")-[Gly](../Page/グリシン.md "wikilink")-[Ser](../Page/セリン.md "wikilink")-[Ala](../Page/アラニン.md "wikilink"))：<span style="color:green;">**緑**</span>で**N末端**α-アミノ酸 (L-[バリン](../Page/バリン.md "wikilink"))を、 <span style="color:blue;">**青**</span>で**C末端**α-アミノ酸 (L-[アラニン](../Page/アラニン.md "wikilink"))を示した。\]\]

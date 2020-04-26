@@ -1,11 +1,11 @@
 > この記事は[PRIDE.22](https://ja.wikipedia.org/wiki/PRIDE.22)から翻訳されています。
 
 
-**PRIDE.22**（プライド・トゥウェンティーツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2002年](../Page/2002年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")の[名古屋レインボーホールで開催された](../Page/名古屋市総合体育館.md "wikilink")。海外[PPVでの大会名は](../Page/ペイ・パー・ビュー.md "wikilink")「**PRIDE 22: Beasts From The East 2**」。
+**PRIDE.22**（プライド・トゥウェンティーツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2002年](../Page/2002年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")の[名古屋レインボーホールで開催された](../Page/名古屋市総合体育館.md "wikilink")。海外[PPVでの大会名は](../Page/ペイ・パー・ビュー.md "wikilink")**PRIDE 22: Beasts From The East 2**。
 
 ## 大会概要
 
-メインイベントに登場した[大山峻護](../Page/大山峻護.md "wikilink")は、プロデビューしたばかりの[吉田秀彦](../Page/吉田秀彦.md "wikilink")をセコンドに付けたが、[ハイアン・グレイシー](../Page/ハイアン・グレイシー.md "wikilink")に[腕ひしぎ十字固めで見込み一本負け](../Page/腕挫十字固.md "wikilink")。右腕肘関節脱臼骨折の重傷となった。大山を含め、出場した日本人選手5名が全員敗北した。
+メインイベントに登場した[大山峻護](../Page/大山峻護.md "wikilink")は、プロデビューしたばかりの[吉田秀彦](../Page/吉田秀彦.md "wikilink")をセコンドに付けたが、[ハイアン・グレイシー](../Page/ハイアン・グレイシー.md "wikilink")に[腕ひしぎ十字固めで一本負け](../Page/腕挫十字固.md "wikilink")。右腕肘関節脱臼骨折の重傷となった。大山を含め、出場した日本人選手5名が全員敗北した。
 
 メインイベント前に[高田延彦](../Page/高田延彦.md "wikilink")がリングに上がり、次回大会[PRIDE.23](../Page/PRIDE.23.md "wikilink")で引退試合を行うことを表明した。
 

@@ -1,4 +1,4 @@
-> この記事は[Tour 2005 To All Tha Dreamers](https://ja.wikipedia.org/wiki/Tour_2005_To_All_Tha_Dreamers)から翻訳されています。
+> この記事は[Tour 2005 “To All Tha Dreamers”](https://ja.wikipedia.org/wiki/Tour_2005_“To_All_Tha_Dreamers”)から翻訳されています。
 
 
 **Tour 2005 “To All Tha Dreamers”**（ツアー 2005 “トゥー オール ザ ドリーマーズ”）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")2枚目のライヴDVDである。
@@ -33,4 +33,4 @@
 18. To All My Dearests
 19. [Dream Drive](https://ja.wikipedia.org/wiki/Dream_Drive/Shut_Out "wikilink")
 
-[Category:コンサート・ツアー](https://ja.wikipedia.org/wiki/Category:コンサート・ツアー "wikilink") [Category:2005年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2005年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:SOUL'd_OUTの映像作品](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの映像作品 "wikilink") [Category:2005年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2005年のコンサート・ツアー "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink")

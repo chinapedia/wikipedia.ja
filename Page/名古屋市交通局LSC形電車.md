@@ -1,4 +1,4 @@
-> この記事は[LSC](https://ja.wikipedia.org/wiki/LSC)から翻訳されています。
+> この記事は[名古屋市交通局LSC形電車](https://ja.wikipedia.org/wiki/名古屋市交通局LSC形電車)から翻訳されています。
 
 
 **名古屋市交通局LSC形電車**（なごやしこうつうきょくLSCけいでんしゃ）とは、かつて[名古屋市交通局](../Page/名古屋市交通局.md "wikilink")が保有していた[路面電車](../Page/路面電車.md "wikilink")（[名古屋市電](https://ja.wikipedia.org/wiki/名古屋市電 "wikilink")）用の車両である。車両番号338から389までの総計52両が当形式に相当する。

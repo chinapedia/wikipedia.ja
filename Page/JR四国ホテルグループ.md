@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR四国ホテルグループ](https://ja.wikipedia.org/wiki/JR四国ホテルグループ)から翻訳されています。
 
 
 **JR四国ホテルグループ**（ジェイアールしこくホテルグループ）は、[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）が展開する[ホテル](../Page/ホテル.md "wikilink")グループ。主に**JRホテルクレメント**ブランドを展開している。

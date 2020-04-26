@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[サニー・ボーイ・ウィリアムソンII](https://ja.wikipedia.org/wiki/サニー・ボーイ・ウィリアムソンII)から翻訳されています。
 
 
 **サニー・ボーイ・ウィリアムスン**\[1\] (**Sonny Boy Williamson II**、[1899年](../Page/1899年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink") - [1965年](../Page/1965年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")) は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")出身の[ブルース](../Page/ブルース.md "wikilink")・[シンガー](../Page/歌手.md "wikilink")、[ブルース](../Page/ブルース.md "wikilink")・[ハーモニカ](../Page/ハーモニカ.md "wikilink")奏者。本名は、アレック・ミラー。晩年の1950年代から60年代にかけて、[チェス・レコード](../Page/チェス・レコード.md "wikilink")傘下の[チェッカー・レコード](https://ja.wikipedia.org/wiki/チェッカー・レコード "wikilink")から数多くの作品を生み、[シカゴ・ブルース](../Page/シカゴ・ブルース.md "wikilink")の歴史に大きな足跡を残した。

@@ -1,4 +1,4 @@
-> この記事は[NOK \(\)](https://ja.wikipedia.org/wiki/NOK_\(\))から翻訳されています。
+> この記事は[NOK \(企業\)](https://ja.wikipedia.org/wiki/NOK_\(企業\))から翻訳されています。
 
 
 **NOK株式会社**（エヌオーケー、*NOK Corporation*）は[東京都](../Page/東京都.md "wikilink")[港区に本社を置く自動車部品](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")、電子部品等を製造・販売する総合部品メーカー。

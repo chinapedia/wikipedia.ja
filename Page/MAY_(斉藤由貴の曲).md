@@ -1,4 +1,4 @@
-> この記事は[MAY \(\)](https://ja.wikipedia.org/wiki/MAY_\(\))から翻訳されています。
+> この記事は[MAY \(斉藤由貴の曲\)](https://ja.wikipedia.org/wiki/MAY_\(斉藤由貴の曲\))から翻訳されています。
 
 
 「**MAY**」（メイ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")に発売された[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")の通算8枚目の[シングル](../Page/シングル.md "wikilink")である\[1\]。
@@ -36,6 +36,6 @@
   - [1987年の音楽](../Page/1987年の音楽.md "wikilink")
   - [メイ](../Page/メイ.md "wikilink")（曖昧さ回避）
 
-[Category:斉藤由貴の楽曲](https://ja.wikipedia.org/wiki/Category:斉藤由貴の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:谷山浩子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:谷山浩子が制作した楽曲 "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
+[Category:斉藤由貴の楽曲](https://ja.wikipedia.org/wiki/Category:斉藤由貴の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:谷山浩子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:谷山浩子が制作した楽曲 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")
 
 1.  [東宝芸能オフィシャルサイト 斉藤由貴プロフィール](http://www.toho-ent.co.jp/actress/show_profile.php?id=1293/)

@@ -1,4 +1,4 @@
-> この記事は[MEGA-TON](https://ja.wikipedia.org/wiki/MEGA-TON)から翻訳されています。
+> この記事は[飯塚雅弓のMEGA-TONスマイル](https://ja.wikipedia.org/wiki/飯塚雅弓のMEGA-TONスマイル)から翻訳されています。
 
 
 『**飯塚雅弓のMEGA-TONスマイル**』（いいづかまゆみのめがとんすまいる）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")にかけて\[1\][ラジオ大阪をキーステーションに](../Page/大阪放送.md "wikilink")、[RFラジオ日本ほかで放送されていた](../Page/アール・エフ・ラジオ日本.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[1314 V-STATION](../Page/1314_V-STATION.md "wikilink")）である。略称は「**メガスマ**」、「**トンスマ**」。
@@ -20,7 +20,7 @@
   - 深井真美（2001年1月 - 9月 ）
   - [奈良沙緒理](../Page/奈良沙緒理.md "wikilink")（2001年4月 - 9月）
   - [折笠奈緒美](https://ja.wikipedia.org/wiki/折笠奈緒美 "wikilink")（2001年10月 - 2003年3月）
-  - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")（2001年11月 - 12月）
+  - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")（2001年11月 - 12月）
   - [仲西環](../Page/仲西環.md "wikilink")（2003年4月 - 2004年9月）
 
 ## コーナー

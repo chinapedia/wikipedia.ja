@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[幼年期の終わり \(TRPGリプレイ\)](https://ja.wikipedia.org/wiki/幼年期の終わり_\(TRPGリプレイ\))から翻訳されています。
 
 
 **幼年期の終わり**（ようねんきのおわり）は[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")(TRPG)『[ナイトウィザード](../Page/ナイトウィザード.md "wikilink")』の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。2005年に発売された『ナイトウィザード』の[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")「ロンギヌス」に書き下ろし作品として掲載。2010年に『エターナルブレイヴ』の題で、続編に当たる『ナイトウィザード The 2nd Edition』のリプレイ「[地球の長い午後](https://ja.wikipedia.org/wiki/地球の長い午後_\(TRPGリプレイ\) "wikilink")」と合わせて文庫化された。全1話。[セッション](../Page/セッション.md "wikilink")数で数えても全1回のプレイ分のリプレイである。

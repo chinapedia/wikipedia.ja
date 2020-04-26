@@ -18,6 +18,6 @@
 
 <references/>
 
-[Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:Accessの楽曲](https://ja.wikipedia.org/wiki/Category:Accessの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:Accessの楽曲](https://ja.wikipedia.org/wiki/Category:Accessの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:高橋栄樹の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督したミュージック・ビデオ "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
 1.

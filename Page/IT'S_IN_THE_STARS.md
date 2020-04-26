@@ -34,6 +34,4 @@
 
   - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
 
------
-
-[Category:W-inds.の楽曲](https://ja.wikipedia.org/wiki/Category:W-inds.の楽曲 "wikilink") [Category:shungo.が制作した楽曲](https://ja.wikipedia.org/wiki/Category:shungo.が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ブルボンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ブルボンのコマーシャルソング "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:W-inds.の楽曲](https://ja.wikipedia.org/wiki/Category:W-inds.の楽曲 "wikilink") [Category:shungo.が制作した楽曲](https://ja.wikipedia.org/wiki/Category:shungo.が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ブルボンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ブルボンのコマーシャルソング "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

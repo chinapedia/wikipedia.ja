@@ -1,4 +1,4 @@
-> この記事は[Vivace \(\)](https://ja.wikipedia.org/wiki/Vivace_\(\))から翻訳されています。
+> この記事は[Vivace \(アイドルグループ\)](https://ja.wikipedia.org/wiki/Vivace_\(アイドルグループ\))から翻訳されています。
 
 
 |                                                                          |

@@ -1,4 +1,4 @@
-> この記事は[KAIS](https://ja.wikipedia.org/wiki/KAIS)から翻訳されています。
+> この記事は[KAISインターナショナルスクール東京](https://ja.wikipedia.org/wiki/KAISインターナショナルスクール東京)から翻訳されています。
 
 
 **KAIS インターナショナルスクール**（旧・帰国子女アカデミーインターナショナルスクール）（KAIS International School）は[帰国子女](../Page/帰国子女.md "wikilink")、[バイリンガル](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")、[外国人](../Page/外国人.md "wikilink")児童向けのインターナショナルスクール。所在地は[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink") (最寄り駅は[目黒駅](https://ja.wikipedia.org/wiki/目黒駅 "wikilink"))。経営陣は外国人。

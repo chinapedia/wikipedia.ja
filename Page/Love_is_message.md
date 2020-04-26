@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **Love is message**
-    （作詞:[Kentaro Akutsu](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")　作曲:Moz.　編曲:[Hayabusa](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")）
+    （作詞:[Kentaro Akutsu](../Page/阿久津健太郎.md "wikilink")　作曲:Moz.　編曲:[Hayabusa](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")）
 2.  **Night Flight〜夜間飛行〜**
     （作詞:[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")　作曲:Thomas Asserholt　編曲:Hayabusa）
 3.  **Love is message （Instrumental）**

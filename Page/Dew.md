@@ -172,7 +172,7 @@
   - [Dewからのメッセージ](http://www.jvcmusic.co.jp/dew/message.html)
   - [yu's//blog](http://dewdubiduba.jugem.jp/) 清水悠のブログ（更新終了）
   - [Dew Official Website](http://dewy.jp/index2.html)
-  - [Dewオフィシャルブログ Dew便り](http://ameblo.jp/dewie/)
+  - [Dewオフィシャルブログ Dew便り](https://ameblo.jp/dewie/)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[FSF](https://ja.wikipedia.org/wiki/FSF)から翻訳されています。
+> この記事は[藤子・F・不二雄のSF短編](https://ja.wikipedia.org/wiki/藤子・F・不二雄のSF短編)から翻訳されています。
 
 
 **藤子・F・不二雄のSF短編**（ふじこ・F・ふじおのSFたんぺん）では、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")が発表したSF（SUKOSHI FUSHIGI\[1\]）短編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")およびこのSF短編を収録した単行本について扱う。

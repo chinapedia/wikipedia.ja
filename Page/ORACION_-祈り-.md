@@ -1,4 +1,4 @@
-> この記事は[ORACION --](https://ja.wikipedia.org/wiki/ORACION_--)から翻訳されています。
+> この記事は[ORACION -祈り-](https://ja.wikipedia.org/wiki/ORACION_-祈り-)から翻訳されています。
 
 
 「**ORACIÓN －祈り－**」（オラシオン －いのり－）は、は、[来生えつこ](../Page/来生えつこ.md "wikilink")の作詞、[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")の作曲による楽曲。[1988年](../Page/1988年.md "wikilink")6月に[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")と[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")の歌唱により、[1988年](../Page/1988年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。

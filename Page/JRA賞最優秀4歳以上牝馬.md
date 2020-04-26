@@ -1,4 +1,4 @@
-> この記事は[JRA4](https://ja.wikipedia.org/wiki/JRA4)から翻訳されています。
+> この記事は[JRA賞最優秀4歳以上牝馬](https://ja.wikipedia.org/wiki/JRA賞最優秀4歳以上牝馬)から翻訳されています。
 
 
 **JRA賞最優秀4歳以上牝馬**（ジェイアールエーしょう さいゆうしゅう よんさいいじょうひんば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の一つ。該当年度中に活躍した4歳（古馬）以上[牝馬](../Page/牝馬.md "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀5歳以上牝馬**という名称だったが、[馬齢](../Page/馬齢.md "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。

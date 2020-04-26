@@ -1,7 +1,7 @@
 > この記事は[PLASMA RADIO](https://ja.wikipedia.org/wiki/PLASMA_RADIO)から翻訳されています。
 
 
-『**PLASMA RADIO**』（プラズマレディオ）とは、[Inter FMで放送されていた](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")[深夜番組](../Page/深夜放送.md "wikilink")。
+『**PLASMA RADIO**』（プラズマレディオ）とは、[InterFM](../Page/InterFM.md "wikilink")で放送されていた[深夜番組](../Page/深夜放送.md "wikilink")。
 
 前身番組となる『**MIDNIGHT VOICE**』（ミッドナイトボイス）についても併せて解説する。
 

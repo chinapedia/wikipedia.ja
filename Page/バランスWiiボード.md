@@ -1,4 +1,4 @@
-> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+> この記事は[バランスWiiボード](https://ja.wikipedia.org/wiki/バランスWiiボード)から翻訳されています。
 
 
 **バランスWiiボード**（Wii Balance Board）は、[任天堂](../Page/任天堂.md "wikilink")の[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")および[Wii Uで使用可能な板状の](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[ゲームコントローラ](../Page/ゲームコントローラ.md "wikilink")。
@@ -79,7 +79,7 @@
 
 ## 外部リンク
 
-  - [Wii | コントローラ](http://www.nintendo.co.jp/wii/controllers/index.html)
+  - [世界で一番売れている体重計「バランスWiiボード」](https://www.nintendo.co.jp/wii/rfpj/board/)
 
 [Category:Wii](https://ja.wikipedia.org/wiki/Category:Wii "wikilink") [Category:Wii_U](https://ja.wikipedia.org/wiki/Category:Wii_U "wikilink") [Category:ゲームコントローラ](https://ja.wikipedia.org/wiki/Category:ゲームコントローラ "wikilink") [Category:日本のギネス世界記録](https://ja.wikipedia.org/wiki/Category:日本のギネス世界記録 "wikilink")
 

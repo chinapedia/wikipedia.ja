@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[アンドレ・S・ラバルト](https://ja.wikipedia.org/wiki/アンドレ・S・ラバルト)から翻訳されています。
 
 
 **アンドレ・S・ラバルト**（André S. Labarthe, 本名：アンドレ・シルヴァン・ラバルト (André-Sylvain Labarthe)、[1931年](../Page/1931年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") [オロロン＝サント＝マリー](../Page/オロロン＝サント＝マリー.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[批評家](https://ja.wikipedia.org/wiki/批評家 "wikilink")、[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")、[映画監督](../Page/映画監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。伝説的テレビドキュメンタリー『[われらの時代のシネアストたち](https://ja.wikipedia.org/wiki/われらの時代のシネアストたち "wikilink")』のプロデューサー、監督として知られる。
@@ -115,9 +115,9 @@
   - [ジャン＝ルイ・コモリ](https://ja.wikipedia.org/wiki/ジャン＝ルイ・コモリ "wikilink")（[Jean-Louis Comolli](https://ja.wikipedia.org/wiki/:fr:Jean-Louis_Comolli "wikilink")）
   - [ノエル・バーチ](../Page/ノエル・バーチ.md "wikilink")
 
-## 註
+## 脚注
 
-<references />
+### 出典
 
 ## 外部リンク
 

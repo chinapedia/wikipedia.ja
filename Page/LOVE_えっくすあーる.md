@@ -1,4 +1,4 @@
-> この記事は[LOVE ](https://ja.wikipedia.org/wiki/LOVE_)から翻訳されています。
+> この記事は[LOVE えっくすあーる](https://ja.wikipedia.org/wiki/LOVE_えっくすあーる)から翻訳されています。
 
 
 『』（ラブ えっくすあーる）は、2007年10月1日から2008年3月28日まで[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")が毎週月曜 - 金曜 23:30 - 翌日 0:00 （[日本標準時](../Page/日本標準時.md "wikilink")）に編成していた深夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")枠である\[1\]。

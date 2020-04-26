@@ -1,4 +1,4 @@
-> この記事は[AKI \(\)](https://ja.wikipedia.org/wiki/AKI_\(\))から翻訳されています。
+> この記事は[AKI \(女性歌手\)](https://ja.wikipedia.org/wiki/AKI_\(女性歌手\))から翻訳されています。
 
 
 **AKI**（あき、[8月11日](../Page/8月11日.md "wikilink")生）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。音楽制作集団「[I've](../Page/I've.md "wikilink")」に所属していた。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

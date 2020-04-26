@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[セオニ・V・アルドリッジ](https://ja.wikipedia.org/wiki/セオニ・V・アルドリッジ)から翻訳されています。
 
 
 **セオニ・V・アルドリッジ** （Theoni V. Aldredge, [1922年](../Page/1922年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")）は[ギリシャ](../Page/ギリシャ.md "wikilink")出身の[衣裳デザイナー](../Page/衣裳デザイナー.md "wikilink")。

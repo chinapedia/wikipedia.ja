@@ -1,4 +1,4 @@
-> この記事は[NAR](https://ja.wikipedia.org/wiki/NAR)から翻訳されています。
+> この記事は[NARグランプリ最優秀ターフ馬](https://ja.wikipedia.org/wiki/NARグランプリ最優秀ターフ馬)から翻訳されています。
 
 
 **NARグランプリ最優秀ターフ馬**（NARグランプリ さいゆうしゅう ターフば）は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に[芝](../Page/芝.md "wikilink")で活躍した競走馬が対象となる。創設は[2004年](../Page/2004年.md "wikilink")。
@@ -197,8 +197,8 @@
 
 ## 出典
 
-  - [NARグランプリ](http://www.keiba.go.jp/about/grandprix.html)
-      - [NARグランプリ歴代表彰馬・表彰者一覧](http://www.keiba.go.jp/about/grandprix_award.html)
+  - [NARグランプリ](https://www.keiba.go.jp/about/grandprix.html)
+      - [NARグランプリ歴代表彰馬・表彰者一覧](https://www.keiba.go.jp/about/grandprix_award.html)
 
 [Category:NARグランプリ](https://ja.wikipedia.org/wiki/Category:NARグランプリ "wikilink")
 

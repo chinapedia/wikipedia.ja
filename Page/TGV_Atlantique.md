@@ -15,7 +15,7 @@ Atlantique編成（24000形）は両端2両の[動力車](../Page/動力車.md "
 
 ブレーキシステムはSud-Est編成と同一の[発電ブレーキ](../Page/発電ブレーキ.md "wikilink")併用[電磁自動空気ブレーキであり](https://ja.wikipedia.org/wiki/自動空気ブレーキ#電磁自動空気ブレーキ "wikilink")、台車には[踏面ブレーキ](../Page/踏面ブレーキ.md "wikilink")・[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")が装備されている。
 
-[パンタグラフは](../Page/集電装置.md "wikilink")、摺り板をダンパで支えることにより[架線](../Page/架線.md "wikilink")の微細な上下動を吸収し、高速走行時の架線に対する追随性と集電性能を向上させた改良型の、GPU型一本マスト・シングルアームパンタグラフに、交流用・直流用ともに改められ、Sud-Est編成の交流用パンタグラフに採用されたダブルアクションAMDE型は採用されていない。
+[パンタグラフは](../Page/集電装置.md "wikilink")、摺り板をダンパで支えることにより[架線](../Page/架線.md "wikilink")の微細な上下動を吸収し、高速走行時の架線に対する追随性と集電性能を向上させた改良型の、GPU型一本マスト・アーム型パンタグラフに、交流用・直流用ともに改められ、Sud-Est編成の交流用パンタグラフに採用されたダブルアクションAMDE型は採用されていない。
 
 Sud-Est編成が運用される[LGV南東線](https://ja.wikipedia.org/wiki/LGV南東線 "wikilink")の最急勾配35 [‰に対しLGV大西洋線の最急勾配は](../Page/パーミル.md "wikilink")15 [‰を標準としていることと](../Page/パーミル.md "wikilink")、Sud-Est編成より出力が増強されたことから、客車はSud-Est編成より2両多い10両とされ、[一等車](../Page/一等車.md "wikilink") (Première classe) 3両、[二等車](../Page/二等車.md "wikilink") (Seconde classe) 6両、二等座席と[バーの合造車](../Page/食堂車.md "wikilink")1両で構成される。車体幅はSud-Est編成の2,814 mmから2,904 mmに拡大されている。編成定員は更新前のSud-Est編成が368人であるのに対し、Atlantique編成は485人となっている。
 

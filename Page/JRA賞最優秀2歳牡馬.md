@@ -1,7 +1,7 @@
-> この記事は[JRA2](https://ja.wikipedia.org/wiki/JRA2)から翻訳されています。
+> この記事は[JRA賞最優秀2歳牡馬](https://ja.wikipedia.org/wiki/JRA賞最優秀2歳牡馬)から翻訳されています。
 
 
-**JRA賞最優秀2歳牡馬**（ジェイアールエーしょう さいゆうしゅう にさいぼば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した2歳[牡馬](https://ja.wikipedia.org/wiki/牡馬 "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀3歳牡馬**という名称だったが、[馬齢](../Page/馬齢.md "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。阪神3歳ステークスが牝馬限定戦（阪神3歳牝馬ステークス＝現在の[阪神ジュベナイルフィリーズ](../Page/阪神ジュベナイルフィリーズ.md "wikilink")）になって以来[朝日杯フューチュリティステークス](../Page/朝日杯フューチュリティステークス.md "wikilink")（2000年までは朝日杯3歳ステークス）の勝ち馬が受賞している。
+**JRA賞最優秀2歳牡馬**（ジェイアールエーしょう さいゆうしゅう にさいぼば）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した2歳[牡馬](https://ja.wikipedia.org/wiki/牡馬 "wikilink")の競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。[2000年](../Page/2000年.md "wikilink")までは**JRA賞最優秀3歳牡馬**という名称だったが、[馬齢](../Page/馬齢.md "wikilink")表記改正に伴って改称された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれている。
 
 ## 歴代受賞馬
 

@@ -33,5 +33,5 @@
 
 [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:水樹奈々の楽曲](https://ja.wikipedia.org/wiki/Category:水樹奈々の楽曲 "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
-1.  [短調でテンポが速い楽曲のこと](https://ja.wikipedia.org/wiki/調 "wikilink")。
+1.  [短調でテンポが速い楽曲のこと](../Page/調.md "wikilink")。
 2.  『水樹奈々 歌手デビュー10周年記念BOOK\! ナナ☆スタ』 [オリコン・エンタテインメント](../Page/オリコン・エンタテインメント.md "wikilink")、2010年12月6日発売、2011年1月1日発行、オリ★スタ2011年1月1日号増刊、60頁。

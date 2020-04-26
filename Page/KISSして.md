@@ -1,4 +1,4 @@
-> この記事は[KISS](https://ja.wikipedia.org/wiki/KISS)から翻訳されています。
+> この記事は[KISSして](https://ja.wikipedia.org/wiki/KISSして)から翻訳されています。
 
 
 「**KISSして**」（キスして）は、[KOH<sup>+</sup>の](../Page/KOH+.md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売。制作はナユタウェイヴレコーズ、発売・販売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

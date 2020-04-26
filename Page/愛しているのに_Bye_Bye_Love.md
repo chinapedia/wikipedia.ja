@@ -1,4 +1,4 @@
-> この記事は[ Bye Bye Love](https://ja.wikipedia.org/wiki/_Bye_Bye_Love)から翻訳されています。
+> この記事は[愛しているのに Bye Bye Love](https://ja.wikipedia.org/wiki/愛しているのに_Bye_Bye_Love)から翻訳されています。
 
 
 **愛しているのに Bye Bye Love**（あいしているのに バイ・バイ・ラブ）は[Cup's](../Page/Cup's.md "wikilink")のシングル。

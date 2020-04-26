@@ -1,4 +1,4 @@
-> この記事は[Forget Me Not \(BONNIE PINK\)](https://ja.wikipedia.org/wiki/Forget_Me_Not_\(BONNIE_PINK\))から翻訳されています。
+> この記事は[Forget Me Not \(BONNIE PINKの曲\)](https://ja.wikipedia.org/wiki/Forget_Me_Not_\(BONNIE_PINKの曲\))から翻訳されています。
 
 
 『**Forget Me Not**』（フォーゲット ミー ノット）は、[BONNIE PINKの](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。CDコードはPCDA-01038。

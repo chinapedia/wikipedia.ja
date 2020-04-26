@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[森永LOVE](https://ja.wikipedia.org/wiki/森永LOVE)から翻訳されています。
 
 
 **森永LOVE**（もりながラブ）とは、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に存在した[ハンバーガー](../Page/ハンバーガー.md "wikilink")チェーンである。 通称「**ラブ**」。

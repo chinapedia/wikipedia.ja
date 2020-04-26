@@ -1,4 +1,4 @@
-> この記事は[OASIS \(\)](https://ja.wikipedia.org/wiki/OASIS_\(\))から翻訳されています。
+> この記事は[OASIS \(アルバム\)](https://ja.wikipedia.org/wiki/OASIS_\(アルバム\))から翻訳されています。
 
 
 『**OASIS**』（オアシス）は、[2003年](../Page/2003年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink") から発売された[TUBE](../Page/TUBE.md "wikilink")の通算23作目の[オリジナル・アルバムである](https://ja.wikipedia.org/wiki/スタジオアルバム "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Mark 5 \(\)](https://ja.wikipedia.org/wiki/Mark_5_\(\))から翻訳されています。
+> この記事は[Mark 5 \(核爆弾\)](https://ja.wikipedia.org/wiki/Mark_5_\(核爆弾\))から翻訳されています。
 
 
 {{ Infobox Nuclear Weapon | 名称=Mark 5 / W5 | 画像= | 画像説明= | タイプ=核爆弾(Mark 5) / 核弾頭(W5) | 開発国= | 配備先=アメリカ空軍

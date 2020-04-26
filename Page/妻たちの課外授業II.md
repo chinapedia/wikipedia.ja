@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[妻たちの課外授業II](https://ja.wikipedia.org/wiki/妻たちの課外授業II)から翻訳されています。
 
 
 『**妻たちの課外授業II**』（つまたちのかがいじゅぎょう2）は、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[水曜ドラマ枠で放映された日本の](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放映期間は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[10月8日](../Page/10月8日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの全24話で、毎週水曜日の22:00 - 22:54に放映された。

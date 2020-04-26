@@ -1,4 +1,4 @@
-> この記事は[JOYRIDE \(\)](https://ja.wikipedia.org/wiki/JOYRIDE_\(\))から翻訳されています。
+> この記事は[JOYRIDE \(ライブイベント\)](https://ja.wikipedia.org/wiki/JOYRIDE_\(ライブイベント\))から翻訳されています。
 
 
 **JOYRIDE**（ジョイライド）は、[DJ TATSUTAと](../Page/DJ_TATSUTA.md "wikilink")[DJ KOHNOが中心となって行われる](../Page/DJ_KOHNO.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")のライブ[イベント](../Page/イベント.md "wikilink")である。[横浜LOGOS](https://ja.wikipedia.org/wiki/横浜LOGOS "wikilink")にて毎週[金曜日](../Page/金曜日.md "wikilink")に開催されている。[2005年](../Page/2005年.md "wikilink")には企画アルバムとして横浜LOGOS presents 『JOYRIDE』が発売された。

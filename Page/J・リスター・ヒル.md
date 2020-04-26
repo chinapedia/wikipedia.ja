@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・リスター・ヒル](https://ja.wikipedia.org/wiki/J・リスター・ヒル)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Listerhill.jpg "wikilink") **ジョーゼフ・リスター・ヒル**（*Joseph Lister Hill*, [1894年](../Page/1894年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink") - [1984年](../Page/1984年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")）は[アラバマ州](../Page/アラバマ州.md "wikilink")選出の[民主党の](../Page/民主党_\(アメリカ\).md "wikilink")[アメリカ合衆国上院議員](https://ja.wikipedia.org/wiki/アメリカ合衆国上院議員 "wikilink")。 彼は[ディクシー・ビブ・グレーヴズ](https://ja.wikipedia.org/wiki/ディクシー・ビブ・グレーヴズ "wikilink")の辞職による残された任期を満たすために選出され、[1938年](../Page/1938年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月3日](../Page/1月3日.md "wikilink")まで上院で務め合計5回再選された。彼は7度目の任期に出馬しなかった。

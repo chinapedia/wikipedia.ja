@@ -1,4 +1,4 @@
-> この記事は[A.D.](https://ja.wikipedia.org/wiki/A.D.)から翻訳されています。
+> この記事は[オトメディウスA.D.](https://ja.wikipedia.org/wiki/オトメディウスA.D.)から翻訳されています。
 
 
 『**オトメディウスA.D.**』は[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")より発売されている[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")『[オトメディウス](../Page/オトメディウス.md "wikilink")』を題材にした[デジタルコミック](../Page/デジタルコミック.md "wikilink")。A.D.は「ANOTHER DIMENSION」（アナザーディメンション）の略。

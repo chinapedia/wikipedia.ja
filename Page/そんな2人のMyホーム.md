@@ -1,4 +1,4 @@
-> この記事は[2My](https://ja.wikipedia.org/wiki/2My)から翻訳されています。
+> この記事は[そんな2人のMyホーム](https://ja.wikipedia.org/wiki/そんな2人のMyホーム)から翻訳されています。
 
 
 『**そんな2人のMyホーム**』（そんなふたりのマイホーム）は、[樹るう](../Page/樹るう.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")の月刊[4コマ漫画](../Page/4コマ漫画.md "wikilink")雑誌『[まんがタウン](../Page/まんがタウン.md "wikilink")』にて連載。

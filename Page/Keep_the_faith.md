@@ -58,6 +58,6 @@
 
   - [J stormによる紹介ページ](https://www.j-storm.co.jp/kat-tun/discography/keep-the-faith)
 
-[Category:KAT-TUNの楽曲](https://ja.wikipedia.org/wiki/Category:KAT-TUNの楽曲 "wikilink") [Category:氷室京介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:氷室京介が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビ火曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ火曜ドラマの主題歌 "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:KAT-TUNの楽曲](https://ja.wikipedia.org/wiki/Category:KAT-TUNの楽曲 "wikilink") [Category:氷室京介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:氷室京介が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビ火曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ火曜ドラマの主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  「[KAT-TUNに氷室が「プロジェクトに参加できて光栄」](http://www.oricon.co.jp/news/confidence/49859/full/)」[ORICON STYLE](http://www.oricon.co.jp/)、2007年11月21日。

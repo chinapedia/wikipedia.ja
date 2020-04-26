@@ -1,4 +1,4 @@
-> この記事は[DESTINY \(MY LITTLE LOVER\)](https://ja.wikipedia.org/wiki/DESTINY_\(MY_LITTLE_LOVER\))から翻訳されています。
+> この記事は[DESTINY \(MY LITTLE LOVERの曲\)](https://ja.wikipedia.org/wiki/DESTINY_\(MY_LITTLE_LOVERの曲\))から翻訳されています。
 
 
 「**DESTINY**」（デスティニー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月13日](../Page/5月13日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

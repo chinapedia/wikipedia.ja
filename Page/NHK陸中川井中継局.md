@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK陸中川井中継局](https://ja.wikipedia.org/wiki/NHK陸中川井中継局)から翻訳されています。
 
 
 **NHK陸中川井中継局**（エヌエイチケイりくちゅうかわいちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")にある[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")と[FMの](../Page/NHK-FM放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

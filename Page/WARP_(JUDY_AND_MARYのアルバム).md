@@ -1,4 +1,4 @@
-> この記事は[WARP \(JUDY AND MARY\)](https://ja.wikipedia.org/wiki/WARP_\(JUDY_AND_MARY\))から翻訳されています。
+> この記事は[WARP \(JUDY AND MARYのアルバム\)](https://ja.wikipedia.org/wiki/WARP_\(JUDY_AND_MARYのアルバム\))から翻訳されています。
 
 
 『**WARP**』（ワープ）は、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")6枚目の[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。

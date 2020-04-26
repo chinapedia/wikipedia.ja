@@ -1,4 +1,4 @@
-> この記事は[ID\; Peace B \(\)](https://ja.wikipedia.org/wiki/ID\;_Peace_B_\(\))から翻訳されています。
+> この記事は[ID\; Peace B \(曲\)](https://ja.wikipedia.org/wiki/ID\;_Peace_B_\(曲\))から翻訳されています。
 
 
 **ID; Peace B**（アイディー・ピース・ビー）は、[BoA](../Page/BoA.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でのデビューシングル。
@@ -39,4 +39,4 @@
 
   - [ID; Peace B](../Page/ID;_Peace_B.md "wikilink")（韓国でのデビューアルバム）
 
-[Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:2001年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2001年のデビュー・シングル "wikilink") [Category:携帯電話のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:携帯電話のコマーシャルソング "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:ユ・ヨンジンが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:ユ・ヨンジンが作詞作曲した楽曲 "wikilink") [Category:2001年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2001年のデビュー・シングル "wikilink") [Category:携帯電話のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:携帯電話のコマーシャルソング "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

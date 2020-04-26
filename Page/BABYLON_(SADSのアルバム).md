@@ -1,4 +1,4 @@
-> この記事は[BABYLON \(SADS\)](https://ja.wikipedia.org/wiki/BABYLON_\(SADS\))から翻訳されています。
+> この記事は[BABYLON \(SADSのアルバム\)](https://ja.wikipedia.org/wiki/BABYLON_\(SADSのアルバム\))から翻訳されています。
 
 
 『**BABYLON**』 (バビロン) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[SADS](../Page/SADS.md "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFE商事](https://ja.wikipedia.org/wiki/JFE商事)から翻訳されています。
 
 
 **JFE商事株式会社**（ジェイエフイーしょうじ）は、[鉄鋼](../Page/鋼.md "wikilink")・鉄鋼材料・[化学品](https://ja.wikipedia.org/wiki/化学品 "wikilink")などの仕入れ販売を行う[JFEホールディングス](../Page/JFEホールディングス.md "wikilink")傘下の[商社](../Page/商社.md "wikilink")である。

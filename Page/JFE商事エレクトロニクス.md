@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFE商事エレクトロニクス](https://ja.wikipedia.org/wiki/JFE商事エレクトロニクス)から翻訳されています。
 
 
 **JFE商事エレクトロニクス株式会社**（ジェイエフイーしょうじ-、[英称](../Page/英語.md "wikilink"):*JFE SHOJI ELECTRONICS CORPORATION*）は、[集積回路](../Page/集積回路.md "wikilink")などの[半導体](../Page/半導体.md "wikilink")製品の仕入れ販売を行う[JFE商事](../Page/JFE商事.md "wikilink")傘下の[卸売](../Page/卸売.md "wikilink")業者。主に[川崎マイクロエレクトロニクス](../Page/川崎マイクロエレクトロニクス.md "wikilink")の製品を販売している。

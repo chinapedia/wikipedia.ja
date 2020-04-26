@@ -1,4 +1,4 @@
-> この記事は[Ave MariaWho](https://ja.wikipedia.org/wiki/Ave_MariaWho)から翻訳されています。
+> この記事は[Ave Maria〜Who](https://ja.wikipedia.org/wiki/Ave_Maria〜Who)から翻訳されています。
 
 
 「**Ave Maria〜Who**」（アヴェ・マリア フー）は、[1989年](../Page/1989年.md "wikilink")11月に[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")がリリースした14枚目の[シングル](../Page/シングル.md "wikilink")である。

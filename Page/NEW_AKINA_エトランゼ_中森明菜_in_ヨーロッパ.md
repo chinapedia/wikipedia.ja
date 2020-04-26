@@ -1,4 +1,4 @@
-> この記事は[NEW AKINA   in ](https://ja.wikipedia.org/wiki/NEW_AKINA___in_)から翻訳されています。
+> この記事は[NEW AKINA エトランゼ 中森明菜 in ヨーロッパ](https://ja.wikipedia.org/wiki/NEW_AKINA_エトランゼ_中森明菜_in_ヨーロッパ)から翻訳されています。
 
 
 『**NEW AKINA エトランゼ 中森明菜 in ヨーロッパ**』（ニュー・アキナ・エトランゼ なかもりあきな・イン・ヨーロッパ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の1作目の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")。この映像作品は1983年10月12日に[ワーナー・パイオニアからリリースされた](../Page/ワーナーミュージック・ジャパン.md "wikilink") ([VHS](../Page/VHS.md "wikilink"): 10PV-10, [β](https://ja.wikipedia.org/wiki/ベータマックス "wikilink"): 10PX-10)。

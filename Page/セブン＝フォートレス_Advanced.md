@@ -1,4 +1,4 @@
-> この記事は[ Advanced](https://ja.wikipedia.org/wiki/_Advanced)から翻訳されています。
+> この記事は[セブン＝フォートレス Advanced](https://ja.wikipedia.org/wiki/セブン＝フォートレス_Advanced)から翻訳されています。
 
 
 **セブン＝フォートレス Advanced**（セブン＝フォートレス アドヴァンスド）は[菊池たけし](../Page/菊池たけし.md "wikilink")が製作した[ヒロイックファンタジー](https://ja.wikipedia.org/wiki/ヒロイックファンタジー "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）。1998年に[アスペクト社より書籍版にて発売された](../Page/アスペクト_\(企業\).md "wikilink")。[セブン＝フォートレス](../Page/セブン＝フォートレス.md "wikilink")シリーズの第二弾である。

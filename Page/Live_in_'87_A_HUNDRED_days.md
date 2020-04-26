@@ -97,7 +97,7 @@
 
   - [中森明菜 「Live in '87・A HUNDRED days \<5.1 version\>」|Warner Music Japan](https://wmg.jp/akina/discography/3298/)
 
-[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:1993年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1993年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:1987年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1987年の日本の音楽 "wikilink")
+[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:1987年のコンサート](https://ja.wikipedia.org/wiki/Category:1987年のコンサート "wikilink") [Category:1993年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1993年のライブ・ビデオ "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:1987年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1987年の日本の音楽 "wikilink")
 
 1.
 2.

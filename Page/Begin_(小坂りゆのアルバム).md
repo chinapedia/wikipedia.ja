@@ -1,4 +1,4 @@
-> この記事は[Begin \(\)](https://ja.wikipedia.org/wiki/Begin_\(\))から翻訳されています。
+> この記事は[Begin \(小坂りゆのアルバム\)](https://ja.wikipedia.org/wiki/Begin_\(小坂りゆのアルバム\))から翻訳されています。
 
 
 『**begin**』（ビギン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手・[BeForU](../Page/BeForU.md "wikilink")のメンバー、[小坂りゆ](../Page/小坂りゆ.md "wikilink")の1枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")発売。

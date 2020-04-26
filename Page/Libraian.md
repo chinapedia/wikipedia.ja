@@ -89,7 +89,7 @@
 
 ## 外部リンク
 
-  - [リブライアンの法則](http://ameblo.jp/libraian) （Libraianの公式ブログ）
+  - [リブライアンの法則](https://ameblo.jp/libraian) （Libraianの公式ブログ）
 
   - （TAKAの公式ブログ）
 

@@ -1,4 +1,4 @@
-> この記事は[MTRC](https://ja.wikipedia.org/wiki/MTRC)から翻訳されています。
+> この記事は[トヨタ・MTRC](https://ja.wikipedia.org/wiki/トヨタ・MTRC)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Toyota_Motor_Triathlon_Race_Car_2007.jpg "wikilink")

@@ -89,8 +89,8 @@
 
 [Category:山崎まさよしのアルバム](https://ja.wikipedia.org/wiki/Category:山崎まさよしのアルバム "wikilink") [Category:2007年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のカバー・アルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
 
-1.  [音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")『SOUND DESIGNER』（サウンド・デザイナー刊、2007年12月号）より。
-2.  [音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")『SOUND DESIGNER』（サウンド・デザイナー刊、2007年12月号）より。
+1.  [音楽雑誌](../Page/音楽雑誌.md "wikilink")『SOUND DESIGNER』（サウンド・デザイナー刊、2007年12月号）より。
+2.  [音楽雑誌](../Page/音楽雑誌.md "wikilink")『SOUND DESIGNER』（サウンド・デザイナー刊、2007年12月号）より。
 3.  2003年12月3日に[DVD](../Page/DVD-Video.md "wikilink")『Augusta Camp 2003〜SUMMER of LOVE 』（AUBK-11002）が発売された。YAMASUGA（山崎まさよし+スガ シカオ）として「SWEET MEMORIES」「[少年時代](../Page/少年時代_\(井上陽水の曲\).md "wikilink")」をセッションしている。
 4.  招待制スタジオ・ライブ『おんがく 山崎まさよし』では、[森進一](../Page/森進一.md "wikilink")の「[襟裳岬](../Page/襟裳岬_\(森進一の曲\).md "wikilink")」、[あんしんパパの](../Page/実川俊晴.md "wikilink")「[はじめてのチュウ](../Page/はじめてのチュウ.md "wikilink")」などもカヴァーされた。
 5.  「山崎まさよし MEETS HATTORI TAKAYUKI & RUSH STRINGS」として[ライヴ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[WITH STRINGS](../Page/WITH_STRINGS.md "wikilink")』（2006/3/29発売）も発売された。

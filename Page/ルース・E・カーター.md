@@ -1,7 +1,7 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ルース・E・カーター](https://ja.wikipedia.org/wiki/ルース・E・カーター)から翻訳されています。
 
 
-**ルース・E・カーター** (Ruth E. Carter) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の映画[衣裳デザイナー](../Page/衣裳デザイナー.md "wikilink")である。
+**ルース・E・カーター** (Ruth E. Carter, [1960年](../Page/1960年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の映画[衣裳デザイナー](../Page/衣裳デザイナー.md "wikilink")。
 
 [ハンプトン大学](https://ja.wikipedia.org/wiki/ハンプトン大学 "wikilink")卒業。[スパイク・リー](../Page/スパイク・リー.md "wikilink")作品の衣裳を手がけている。1992年の『マルコムX』と1997年の『アミスタッド』で[アカデミー衣裳デザイン賞](../Page/アカデミー衣裳デザイン賞.md "wikilink")にノミネートされ、2018年の『[ブラックパンサー](https://ja.wikipedia.org/wiki/ブラックパンサー_\(映画\) "wikilink")』で同賞を受賞した。
 
@@ -35,4 +35,4 @@
 ## 外部リンク
 
   -
-[Category:アメリカ合衆国の衣裳デザイナー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の衣裳デザイナー "wikilink")
+[Category:アメリカ合衆国の衣裳デザイナー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の衣裳デザイナー "wikilink") [Category:アカデミー賞受賞者](https://ja.wikipedia.org/wiki/Category:アカデミー賞受賞者 "wikilink") [Category:マサチューセッツ州スプリングフィールド出身の人物](https://ja.wikipedia.org/wiki/Category:マサチューセッツ州スプリングフィールド出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

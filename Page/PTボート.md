@@ -1,4 +1,4 @@
-> この記事は[PT](https://ja.wikipedia.org/wiki/PT)から翻訳されています。
+> この記事は[PTボート](https://ja.wikipedia.org/wiki/PTボート)から翻訳されています。
 
 
 [USS_PT-105.jpg](https://ja.wikipedia.org/wiki/File:USS_PT-105.jpg "fig:USS_PT-105.jpg") **PTボート**（[英語](../Page/英語.md "wikilink")：Patrol Torpedo boat、哨戒魚雷艇）は、主として[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")期に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")によって運用された[高速魚雷艇](../Page/高速魚雷艇.md "wikilink")。

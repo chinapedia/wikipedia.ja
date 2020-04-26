@@ -1,4 +1,4 @@
-> この記事は[DOWA](https://ja.wikipedia.org/wiki/DOWA)から翻訳されています。
+> この記事は[DOWAエコシステム](https://ja.wikipedia.org/wiki/DOWAエコシステム)から翻訳されています。
 
 
 **DOWAエコシステム株式会社**（どうわエコシステム、[英文社名](../Page/英語.md "wikilink") *DOWA ECO-SYSTEM Co., Ltd.* ）は、[DOWAグループの](../Page/DOWAホールディングス.md "wikilink")[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")事業を手がける[企業](../Page/企業.md "wikilink")である。

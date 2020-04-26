@@ -44,4 +44,4 @@
   - [1991年の音楽](../Page/1991年の音楽.md "wikilink")
   - [バーニングパブリッシャーズ](../Page/バーニングパブリッシャーズ.md "wikilink")管理楽曲
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:井上ヨシマサが制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上ヨシマサが制作した楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink") [Category:ヘ短調](https://ja.wikipedia.org/wiki/Category:ヘ短調 "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:井上ヨシマサが制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上ヨシマサが制作した楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")

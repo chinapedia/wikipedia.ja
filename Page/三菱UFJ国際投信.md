@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJ国際投信](https://ja.wikipedia.org/wiki/三菱UFJ国際投信)から翻訳されています。
 
 
 **三菱UFJ国際投信株式会社**（みつびしユーエフジェイこくさいとうしん、[英称](../Page/英語.md "wikilink")：*Mitsubishi UFJ Kokusai Asset Management Co., Ltd.*）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[運用会社](https://ja.wikipedia.org/wiki/運用会社 "wikilink")。[三菱UFJフィナンシャルグループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャルグループ "wikilink")の一員であり、東京都千代田区有楽町の新有楽町ビル4階に本社を置く。

@@ -1,4 +1,4 @@
-> この記事は[ISLAND OVER THE HORIZONat YOKOHAMA ARENA 06.12.16](https://ja.wikipedia.org/wiki/ISLAND_OVER_THE_HORIZONat_YOKOHAMA_ARENA_06.12.16)から翻訳されています。
+> この記事は[“ISLAND OVER THE HORIZON”at YOKOHAMA ARENA 06.12.16](https://ja.wikipedia.org/wiki/“ISLAND_OVER_THE_HORIZON”at_YOKOHAMA_ARENA_06.12.16)から翻訳されています。
 
 
 **“ISLAND OVER THE HORIZON”at YOKOHAMA ARENA 06.12.16**（**アイランド・オーバー・ザ・ホライズン アット よこはまアリーナ**）は[レミオロメン](../Page/レミオロメン.md "wikilink")のライブビデオ。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。発売元は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
@@ -94,4 +94,4 @@
 | 15  | 2006年[12月29日](../Page/12月29日.md "wikilink")                              | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                          |
 | 16  | 2006年[12月30日](../Page/12月30日.md "wikilink")                              |                                                                     |
 
-[Category:レミオロメンの映像作品](https://ja.wikipedia.org/wiki/Category:レミオロメンの映像作品 "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:レミオロメンの映像作品](https://ja.wikipedia.org/wiki/Category:レミオロメンの映像作品 "wikilink") [Category:レミオロメンのコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:レミオロメンのコンサート・ツアー "wikilink") [Category:2006年のコンサート・ツアー](https://ja.wikipedia.org/wiki/Category:2006年のコンサート・ツアー "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

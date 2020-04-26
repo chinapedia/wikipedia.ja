@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[セルヴェットFC](https://ja.wikipedia.org/wiki/セルヴェットFC)から翻訳されています。
 
 
 **セルヴェットFC** (**Servette FC**) は、[スイス](../Page/スイス.md "wikilink")西部、[ジュネーヴ州](../Page/ジュネーヴ州.md "wikilink")の州都[ジュネーヴ](../Page/ジュネーヴ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。

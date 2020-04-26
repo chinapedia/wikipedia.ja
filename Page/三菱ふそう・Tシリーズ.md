@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[三菱ふそう・Tシリーズ](https://ja.wikipedia.org/wiki/三菱ふそう・Tシリーズ)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:T380-63.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:FUSOT410.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Fuso-T41.JPG "wikilink") '''三菱ふそう・Tシリーズ '''は、1959年から1976年まで[三菱日本重工](../Page/三菱重工業.md "wikilink")→[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")（現:[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")）が製造・販売していた中型、大型[トラックである](../Page/貨物自動車.md "wikilink")。「ふそう」の歴史は古く[1932年](../Page/1932年.md "wikilink")に[三菱造船神戸造船所で完成したバスに](../Page/三菱重工業神戸造船所.md "wikilink")「ふそう」と命名されたのが最初で、Tシリーズは1950年代から1970年代を中心に販売された。 [三菱ふそうTシリーズ.jpg](https://ja.wikipedia.org/wiki/File:三菱ふそうTシリーズ.jpg "fig:三菱ふそうTシリーズ.jpg")

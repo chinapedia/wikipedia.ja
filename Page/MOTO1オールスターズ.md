@@ -1,4 +1,4 @@
-> この記事は[MOTO1](https://ja.wikipedia.org/wiki/MOTO1)から翻訳されています。
+> この記事は[MOTO1オールスターズ](https://ja.wikipedia.org/wiki/MOTO1オールスターズ)から翻訳されています。
 
 
 **MOTO1 ALL STARS**（モトワンオールスターズ）とは、[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")による[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")で、[舗装](../Page/舗装.md "wikilink")路と未舗装路を含むコース（舗装路のみもあり）で速さを競う[スーパーモタード](../Page/スーパーモタード.md "wikilink")競技で、全日本形式の名称である。 [2005年](../Page/2005年.md "wikilink")より[日本モーターサイクルスポーツ協会](https://ja.wikipedia.org/wiki/日本モーターサイクルスポーツ協会 "wikilink")（MFJ）公認の全日本選手権として開催されている。

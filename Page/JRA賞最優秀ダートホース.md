@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞最優秀ダートホース](https://ja.wikipedia.org/wiki/JRA賞最優秀ダートホース)から翻訳されています。
 
 
 **JRA賞最優秀ダートホース**（ジェイアールエーしょう さいゆうしゅうダートホース）は、[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に[ダート](../Page/ダート.md "wikilink")で活躍した競走馬に対して記者投票を行いその合計票数が1位だった馬が選出される。1984年に**優駿賞最優秀ダートホース**として創設され、1987年に現在の名称になった。

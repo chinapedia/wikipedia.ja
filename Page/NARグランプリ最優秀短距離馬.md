@@ -1,4 +1,4 @@
-> この記事は[NAR](https://ja.wikipedia.org/wiki/NAR)から翻訳されています。
+> この記事は[NARグランプリ最優秀短距離馬](https://ja.wikipedia.org/wiki/NARグランプリ最優秀短距離馬)から翻訳されています。
 
 
 **NARグランプリ最優秀短距離馬**（NARグランプリ さいゆうしゅう たんきょりば）は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に短距離で活躍した競走馬が対象となる。創設は[1999年](../Page/1999年.md "wikilink")。
@@ -246,7 +246,8 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルドッグボス" title="wikilink">ブルドッグボス</a></p></td>
 <td><p>牡7</p></td>
-<td><p><a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a></p></td>
+<td><p>7戦3勝<br />
+<a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a>、<a href="https://ja.wikipedia.org/wiki/ゴールドカップ_(浦和競馬)" title="wikilink">ゴールドカップ</a></p></td>
 <td></td>
 <td><p>浦和</p></td>
 <td><p><a href="../Page/小久保智.md" title="wikilink">小久保智</a></p></td>
@@ -259,8 +260,8 @@
 
 ## 出典
 
-  - [NARグランプリ](http://www.keiba.go.jp/about/grandprix.html)
-      - [ＮＡＲグランプリ歴代受賞者一覧](http://www.keiba.go.jp/about/grandprix_award.html)
+  - [NARグランプリ](https://www.keiba.go.jp/about/grandprix.html)
+      - [ＮＡＲグランプリ歴代受賞者一覧](https://www.keiba.go.jp/about/grandprix_award.html)
 
 [Category:NARグランプリ](https://ja.wikipedia.org/wiki/Category:NARグランプリ "wikilink")
 

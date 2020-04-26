@@ -43,7 +43,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td><p>11ch</p></td>
 <td><p>映像25W/<br />
 音声6.25W</p></td>
@@ -534,7 +534,7 @@ ID</a></p></th>
   - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")
   - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")
   - [エフエム岩手](../Page/エフエム岩手.md "wikilink")
 

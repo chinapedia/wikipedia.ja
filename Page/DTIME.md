@@ -39,4 +39,4 @@ DTIMEの定義に使われる機械モデルは様々あるが、資源に関す
 
   -
   -
-[Category:計算複雑性理論](https://ja.wikipedia.org/wiki/Category:計算複雑性理論 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
+[Category:計算資源](https://ja.wikipedia.org/wiki/Category:計算資源 "wikilink") [Category:複雑性クラス](https://ja.wikipedia.org/wiki/Category:複雑性クラス "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")

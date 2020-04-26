@@ -19,4 +19,4 @@
   - Raymond, Eric S. (1991, March 22). [Jargon File Version 2.8.1](http://catb.org/esr/jargon/oldversions/jarg282.txt) （"AI-complete" が初めて追加されたバージョン）
   - Shapiro, Stuart C. (1992). [Artificial Intelligence](http://www.cse.buffalo.edu/~shapiro/Papers/ai.ps) In Stuart C. Shapiro (Ed.), *Encyclopedia of Artificial Intelligence* (Second Edition, pp. 54-57). New York: John Wiley. (Section 4 is on "AI-Complete Tasks".)
 
-[Category:人工知能の哲学](https://ja.wikipedia.org/wiki/Category:人工知能の哲学 "wikilink") [Category:哲学の未解決問題](https://ja.wikipedia.org/wiki/Category:哲学の未解決問題 "wikilink")
+[Category:計算問題](https://ja.wikipedia.org/wiki/Category:計算問題 "wikilink") [Category:人工知能の哲学](https://ja.wikipedia.org/wiki/Category:人工知能の哲学 "wikilink") [Category:哲学の未解決問題](https://ja.wikipedia.org/wiki/Category:哲学の未解決問題 "wikilink")

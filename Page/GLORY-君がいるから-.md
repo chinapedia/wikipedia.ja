@@ -14,7 +14,7 @@
         作詞:[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")　作曲:菊池一仁　編曲:[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 2.  **Changin' my heart**
       -
-        作詞:松本有加　作曲:[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")　編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
+        作詞:松本有加　作曲:[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")　編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
 3.  **GLORY-君がいるから-(remixed by D.M.X.)**
       -
         編曲:宮崎泉

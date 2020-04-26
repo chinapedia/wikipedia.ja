@@ -54,7 +54,7 @@
 
 <references/>
 
-[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:るろうに剣心の音楽](https://ja.wikipedia.org/wiki/Category:るろうに剣心の音楽 "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:ロ短調](https://ja.wikipedia.org/wiki/Category:ロ短調 "wikilink")
+[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:るろうに剣心の音楽](https://ja.wikipedia.org/wiki/Category:るろうに剣心の音楽 "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:高橋栄樹の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督したミュージック・ビデオ "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.
 2.  [WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")　1998年1月号「SELF LINER NOTES '97」

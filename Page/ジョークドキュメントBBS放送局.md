@@ -15,7 +15,7 @@
 
 番組のオープニングとアイキャッチには、毎回[外国語](../Page/外国語.md "wikilink")のナレーションが入っていた（言語は毎回変わる）。その内容を[ハガキに明記して送ると](../Page/はがき.md "wikilink")、正解者には抽選で（番組曰く）普通の記念品が贈られた。後に中京テレビ深夜の単発番組放送枠『[Club26](https://ja.wikipedia.org/wiki/Club26 "wikilink")』で行われた番組の[再放送](../Page/再放送.md "wikilink")（下記「備考」の節参照）においても、この応募は有効とされた。
 
-[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")のBGMには[ホルストの組曲](../Page/グスターヴ・ホルスト.md "wikilink")「[惑星](../Page/惑星_\(組曲\).md "wikilink")」、本編エンディングでは[ビゼーの](../Page/ジョルジュ・ビゼー.md "wikilink")「[カルメン](../Page/カルメン_\(オペラ\).md "wikilink")」を編曲したものが使われていた。
+[アイキャッチ](../Page/アイキャッチ.md "wikilink")のBGMには[ホルストの組曲](../Page/グスターヴ・ホルスト.md "wikilink")「[惑星](../Page/惑星_\(組曲\).md "wikilink")」、本編エンディングでは[ビゼーの](../Page/ジョルジュ・ビゼー.md "wikilink")「[カルメン](../Page/カルメン_\(オペラ\).md "wikilink")」を編曲したものが使われていた。
 
 最終回では「BBSアカデミー賞」と題し、各コーナーから生まれたキャラクターに何らかの賞を贈呈する企画を、[愛知県中小企業センターからの公開録画という形で実施した](https://ja.wikipedia.org/wiki/愛知県産業労働センター "wikilink")。この回のみ、オープニングに「[乾杯の歌](https://ja.wikipedia.org/wiki/乾杯の歌_\(ドイツ民謡\) "wikilink")」が用いられた。
 

@@ -37,7 +37,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
   - 中京広域圏 - [CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（旧・中部日本放送） / [テレビ愛知](../Page/テレビ愛知.md "wikilink")（UHFアニメ形態の作品のみ）
       - CBCでは「**あにせん**」という中京ローカル枠を設置して異なる曜日に放送していたため長らく1週以上の遅れネットであったが、TBS製作アニメを木曜深夜に集約したことで、2015年1月からTBSと同日ネットが実施されていた（例外的に2017年10月期はアニメイズムB1枠との連続編成で1日遅れネット）。2016年10月期以降は本枠のうちどちらか1本のみの同日ネットとなる。2018年1月期には「[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")」共々レギュラーネット局から完全に外れ、TBS製作分は同年7月期の『少女☆歌劇 レヴュースタァライト』、2020年1月期の『[地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")』（1週間遅れネット）をネットしたに留まっている。
       - テレビ愛知では、TBS製作のうちJNN排他協定の適用外番組にあたる[UHFアニメ](../Page/UHFアニメ.md "wikilink")形態の作品を放送。
-  - [BS-TBS](../Page/BS-TBS.md "wikilink") / BS-TBS 4K / [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（UHFアニメ形態の作品が多い）
+  - [BS-TBS](../Page/BS-TBS.md "wikilink") / BS-TBS 4K / [BS11](../Page/日本BS放送.md "wikilink")（UHFアニメ形態の作品が多い）
       - BS-TBSでは「BS-i」時代から一部を除いて遅れネット。かつては遅れ幅が大きかったが、現在はTBS製作分は2日遅れネットの日曜未明（土曜深夜）2:00 - 3:00に放送。
       - BS-TBSではTBS製作枠が2枠（2019年7月期以降は1枠）しか設置していない番組編成の関係で、JNN排他協定の適用外番組にあたる[UHFアニメ](../Page/UHFアニメ.md "wikilink")形態の作品についてはBS11で放送。尚、2019年10月期の『ノー・ガンズ・ライフ』についてはBS11が製作委員会に参加しているため、BS-TBSではなくBS11で放送。
       - 2018年12月よりBS-TBS 4Kが開局したが、2K（HD）のものを4Kに変換するアップコンバート放送として放送。
@@ -54,6 +54,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
   - 2006年10月期よりTBSと一部の系列局で[字幕放送を実施](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。2012年10月期よりTBSのみ後半枠にてデータ放送を開始し、2013年1月期から2016年1月期までは2本ともデータ放送を実施していた。
   - 2018年10月スタートの『[BAKUMATSU](https://ja.wikipedia.org/wiki/恋愛幕末カレシ〜時の彼方で花咲く恋〜#テレビアニメ "wikilink")』がAbemaTVにて時差配信を開始。現在は『[まちカドまぞく](https://ja.wikipedia.org/wiki/まちカドまぞく "wikilink")』を時差配信中。
   - 2019年10月から放送開始した「ノー・ガンズ・ライフ」ではTBSが1955年の開局以来初めて、他局のBS11、AT-Xと共に製作委員会に参加した。
+  - 2020年4月期は[新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、放送予定だった作品が延期となったため、『アニメリコ』枠史上初めて2枠とも再放送となり\[4\]、BS-TBSでは、枠自体が一時的に廃枠となった。
 
 ## 番組一覧
 
@@ -79,13 +80,13 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/ジパング_(漫画)" title="wikilink">ジパング</a></p></td>
 <td><p><a href="../Page/スタジオディーン.md" title="wikilink">スタジオディーン</a></p></td>
 <td><p>2004年10月7日 - 2005年3月31日</p></td>
-<td><p><a href="../Page/アニマックス.md" title="wikilink">アニマックス</a>製作協力[4][5]。</p></td>
+<td><p><a href="../Page/アニマックス.md" title="wikilink">アニマックス</a>製作協力[5][6]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/鋼の錬金術師_(アニメ)" title="wikilink">鋼の錬金術師（2003年版）</a></p></td>
 <td><p><a href="../Page/ボンズ_(アニメ制作会社).md" title="wikilink">ボンズ</a></p></td>
 <td><p>2005年4月7日 - 9月29日</p></td>
-<td><p>MBS製作、シリーズ前半のみの<a href="../Page/再放送.md" title="wikilink">再放送</a>[6]。</p></td>
+<td><p>MBS製作、シリーズ前半のみの<a href="../Page/再放送.md" title="wikilink">再放送</a>[7]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BLACK_CAT.md" title="wikilink">BLACK CAT</a></p></td>
@@ -109,7 +110,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="../Page/009ノ1.md" title="wikilink">009-1</a></p></td>
 <td><p>石森エンタテインメント</p></td>
 <td><p>2006年10月5日 - 12月21日</p></td>
-<td><p>[7]</p></td>
+<td><p>[8]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ひだまりスケッチ_(アニメ)" title="wikilink">ひだまりスケッチ</a></p></td>
@@ -121,13 +122,13 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="../Page/おおきく振りかぶって.md" title="wikilink">おおきく振りかぶって</a></p></td>
 <td><p><a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures</a></p></td>
 <td><p>2007年4月12日 - 9月27日</p></td>
-<td><p>TBS・MBS製作委員会参加[8]。</p></td>
+<td><p>TBS・MBS製作委員会参加[9]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/逮捕しちゃうぞ_(アニメ).md" title="wikilink">逮捕しちゃうぞ フルスロットル</a></p></td>
 <td><p>スタジオディーン</p></td>
 <td><p>2007年10月4日 - 2008年3月27日</p></td>
-<td><p>[9]</p></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="odd">
 <td><p>xxxHOLiC◆継</p></td>
@@ -151,13 +152,13 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="../Page/夜桜四重奏_〜ヨザクラカルテット〜.md" title="wikilink">夜桜四重奏 〜ヨザクラカルテット〜</a></p></td>
 <td><p><a href="../Page/ノーマッド.md" title="wikilink">NOMAD</a></p></td>
 <td><p>2008年10月2日 - 12月19日</p></td>
-<td><p>[10]</p></td>
+<td><p>[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/明日のよいち!.md" title="wikilink">明日のよいち!</a></p></td>
 <td><p><a href="../Page/アニメインターナショナルカンパニー.md" title="wikilink">AIC</a></p></td>
 <td><p>2009年1月8日 - 3月26日</p></td>
-<td><p>[11]</p></td>
+<td><p>[12]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/PandoraHearts.md" title="wikilink">PandoraHearts</a></p></td>
@@ -175,7 +176,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="../Page/けんぷファー.md" title="wikilink">けんぷファー</a></p></td>
 <td><p>NOMAD</p></td>
 <td><p>2009年10月1日 - 12月17日</p></td>
-<td><p>[12][13]</p></td>
+<td><p>[13][14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>ひだまりスケッチ×☆☆☆</p></td>
@@ -205,7 +206,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/IS_〈インフィニット・ストラトス〉" title="wikilink">IS 〈インフィニット・ストラトス〉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイトビット" title="wikilink">エイトビット</a></p></td>
 <td><p>2011年1月6日 - 3月31日</p></td>
-<td><p>[14]</p></td>
+<td><p>[15]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/緋弾のアリア" title="wikilink">緋弾のアリア</a></p></td>
@@ -235,7 +236,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/恋と選挙とチョコレート" title="wikilink">恋と選挙とチョコレート</a></p></td>
 <td><p>AIC Build</p></td>
 <td><p>2012年7月5日 - 9月27日</p></td>
-<td><p>BS-TBS製作協力[15]。</p></td>
+<td><p>BS-TBS製作協力[16]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>ひだまりスケッチ×ハニカム</p></td>
@@ -253,7 +254,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/ささみさん@がんばらない" title="wikilink">ささみさん@がんばらない</a></p></td>
 <td><p>シャフト</p></td>
 <td><p>2013年1月10日 - 3月28日</p></td>
-<td><p>BS-TBS製作協力[16]。</p></td>
+<td><p>BS-TBS製作協力[17]。</p></td>
 </tr>
 <tr class="even">
 <td><p>1:28 - 1:58枠（第1期）</p></td>
@@ -271,7 +272,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/特例措置団体ステラ女学院高等科C3部" title="wikilink">ステラ女学院高等科C3部</a></p></td>
 <td><p><a href="../Page/ガイナックス.md" title="wikilink">GAINAX</a></p></td>
 <td><p>2013年7月4日 - 9月26日</p></td>
-<td><p>[17]</p></td>
+<td><p>[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アウトブレイク・カンパニー_萌える侵略者" title="wikilink">アウトブレイク・カンパニー</a></p></td>
@@ -301,13 +302,13 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/RAIL_WARS!_-日本國有鉄道公安隊-" title="wikilink">RAIL WARS!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パッショーネ_(アニメ制作会社)" title="wikilink">パッショーネ</a></p></td>
 <td><p>2014年7月3日 - 9月18日</p></td>
-<td><p>[18]</p></td>
+<td><p>[19]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺、ツインテールになります。" title="wikilink">俺、ツインテールになります。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プロダクションアイムズ" title="wikilink">プロダクションアイムズ</a></p></td>
 <td><p>2014年10月9日 - 12月25日</p></td>
-<td><p>本作以降CBCでは同日ネットに移行[19]。</p></td>
+<td><p>本作以降CBCでは同日ネットに移行[20]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/幸腹グラフィティ" title="wikilink">幸腹グラフィティ</a></p></td>
@@ -331,7 +332,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/ランス・アンド・マスクス" title="wikilink">ランス・アンド・マスクス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Studio五組" title="wikilink">Studio五組</a></p></td>
 <td><p>2015年10月1日 - 12月18日</p></td>
-<td><p>[20]</p></td>
+<td><p>[21]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファンタシースターオンライン2_ジ_アニメーション" title="wikilink">ファンタシースターオンライン2 ジ アニメーション</a></p></td>
@@ -349,7 +350,7 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/少年メイド" title="wikilink">少年メイド</a></p></td>
 <td><p>エイトビット</p></td>
 <td><p>2016年4月8日 - 7月1日</p></td>
-<td><p>[21]</p></td>
+<td><p>[22]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ばらかもん" title="wikilink">はんだくん</a></p></td>
@@ -361,37 +362,37 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/私がモテてどうすんだ" title="wikilink">私がモテてどうすんだ</a></p></td>
 <td><p>ブレインズ・ベース</p></td>
 <td><p>2016年10月7日 - 12月23日</p></td>
-<td><p>[22]</p></td>
+<td><p>[23]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/うらら迷路帖" title="wikilink">うらら迷路帖</a></p></td>
 <td><p>J.C.STAFF</p></td>
 <td><p>2017年1月5日 - 3月23日</p></td>
-<td><p>[23]</p></td>
+<td><p>[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クロックワーク・プラネット" title="wikilink">クロックワーク・プラネット</a></p></td>
 <td><p>XEBEC</p></td>
 <td><p>2017年4月6日 - 6月22日</p></td>
-<td><p>[24]</p></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コンビニカレシ" title="wikilink">コンビニカレシ</a></p></td>
 <td><p>studioぴえろ</p></td>
 <td><p>2017年7月7日 - 9月29日</p></td>
-<td><p>[25]</p></td>
+<td><p>[26]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/DYNAMIC_CHORD" title="wikilink">DYNAMIC CHORD</a></p></td>
 <td><p>studioぴえろ</p></td>
 <td><p>2017年10月5日 - 12月21日</p></td>
-<td><p>[26]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミイラの飼い方" title="wikilink">ミイラの飼い方</a></p></td>
 <td><p>エイトビット</p></td>
 <td><p>2018年1月12日 - 3月30日</p></td>
-<td><p>|[27][28][29]</p></td>
+<td><p>|[28][29][30]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1:28 - 1:58枠（第2期）</p></td>
@@ -409,50 +410,50 @@ TBSの自社製作深夜アニメは、深夜[バラエティ番組](https://ja.
 <td><p><a href="https://ja.wikipedia.org/wiki/メガロボクス" title="wikilink">メガロボクス</a></p></td>
 <td><p><a href="../Page/トムス・エンタテインメント.md" title="wikilink">トムス・エンタテインメント</a></p></td>
 <td><p>2018年4月6日 - 6月29日</p></td>
-<td><p>[30][31][32]</p></td>
+<td><p>[31][32][33]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/少女☆歌劇_レヴュースタァライト" title="wikilink">少女☆歌劇 レヴュースタァライト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/キネマシトラス" title="wikilink">キネマシトラス</a></p></td>
 <td><p>2018年7月13日 - 9月28日</p></td>
-<td><p>放送開始前週（TBSでは7月6日）に直前特番を放送[33]。</p></td>
+<td><p>放送開始前週（TBSでは7月6日）に直前特番を放送[34]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/戦国BASARA#学園BASARA" title="wikilink">学園BASARA</a></p></td>
 <td><p>ブレインズ・ベース</p></td>
 <td><p>2018年10月5日 - 12月21日</p></td>
-<td><p>[34][35][36]</p></td>
+<td><p>[35][36][37]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/五等分の花嫁" title="wikilink">五等分の花嫁</a></p></td>
 <td><p><a href="../Page/手塚プロダクション.md" title="wikilink">手塚プロダクション</a></p></td>
 <td><p>2019年1月11日 - 3月29日</p></td>
-<td><p>[37][38]</p></td>
+<td><p>[38][39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>けいおん!（セレクト放送）</p></td>
 <td><p>京都アニメーション</p></td>
 <td><p>2019年4月5日 - 6月28日</p></td>
-<td><p>[39]</p></td>
+<td><p>[40]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/まちカドまぞく" title="wikilink">まちカドまぞく</a></p></td>
 <td><p>J.C.STAFF</p></td>
 <td><p>2019年7月12日 - 9月27日</p></td>
-<td><p>[40]</p></td>
+<td><p>[41]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ" title="wikilink">ノー・ガンズ・ライフ</a>（第1期）</p></td>
 <td><p>マッドハウス</p></td>
 <td><p>2019年10月11日 - 12月27日</p></td>
-<td><p>[41]BS-TBS・TBSチャンネルでの放送はなし。<br />
-BS11・AT-Xが製作委員会に参加[42]。</p></td>
+<td><p>[42]BS-TBS・TBSチャンネルでの放送はなし。<br />
+BS11・AT-Xが製作委員会に参加[43]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/推しが武道館いってくれたら死ぬ" title="wikilink">推しが武道館いってくれたら死ぬ</a></p></td>
 <td><p>エイトビット</p></td>
-<td><p>2020年1月10日 -</p></td>
-<td><p>[43]</p></td>
+<td><p>2020年1月10日 - 3月27日</p></td>
+<td><p>[44]</p></td>
 </tr>
 </tbody>
 </table>
@@ -462,36 +463,36 @@ BS11・AT-Xが製作委員会に参加[42]。</p></td>
 | 作品名                                                                                       | 制作                                                                          | 放送期間                     | 備考                                                                                                         |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | 1:50 - 2:20枠                                                                              |                                                                             |                          |                                                                                                            |
-| [Blue Gender](../Page/Blue_Gender.md "wikilink")                                          | AIC                                                                         | 1999年10月7日 - 2000年3月30日  | \[44\]                                                                                                     |
+| [Blue Gender](../Page/Blue_Gender.md "wikilink")                                          | AIC                                                                         | 1999年10月7日 - 2000年3月30日  | \[45\]                                                                                                     |
 | 1:55 - 2:25枠（第1期）                                                                         |                                                                             |                          |                                                                                                            |
-| [ローゼンメイデン](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")                             | NOMAD                                                                       | 2004年10月7日 - 12月23日      | \[45\]                                                                                                     |
+| [ローゼンメイデン](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")                             | NOMAD                                                                       | 2004年10月7日 - 12月23日      | \[46\]                                                                                                     |
 | [ああっ女神さまっ](../Page/ああっ女神さまっ.md "wikilink")                                                | AIC                                                                         | 2005年1月6日 - 7月7日         | [HBCのみネット](../Page/北海道放送.md "wikilink")。                                                                   |
-| [苺ましまろ](../Page/苺ましまろ.md "wikilink")                                                      | [童夢](../Page/童夢_\(アニメ制作会社\).md "wikilink")                                  | 2005年7月14日 - 10月13日      | \[46\]                                                                                                     |
-| ローゼンメイデン トロイメント                                                                           | NOMAD                                                                       | 2005年10月20日 - 2006年1月26日 | \[47\]                                                                                                     |
-| [びんちょうタン](../Page/びんちょうタン.md "wikilink")                                                  | スタジオディーン                                                                    | 2006年2月2日 - 3月30日        | [アニアニランド](../Page/アニアニランド.md "wikilink")枠\[48\]\[49\]。                                                     |
+| [苺ましまろ](../Page/苺ましまろ.md "wikilink")                                                      | [童夢](../Page/童夢_\(アニメ制作会社\).md "wikilink")                                  | 2005年7月14日 - 10月13日      | \[47\]                                                                                                     |
+| ローゼンメイデン トロイメント                                                                           | NOMAD                                                                       | 2005年10月20日 - 2006年1月26日 | \[48\]                                                                                                     |
+| [びんちょうタン](../Page/びんちょうタン.md "wikilink")                                                  | スタジオディーン                                                                    | 2006年2月2日 - 3月30日        | [アニアニランド](../Page/アニアニランド.md "wikilink")枠\[49\]\[50\]。                                                     |
 | [REC](../Page/REC_\(漫画\).md "wikilink")                                                   | シャフト                                                                        |                          |                                                                                                            |
-| ああっ女神さまっ それぞれの翼                                                                           | AIC                                                                         | 2006年4月6日 - 9月14日        | \[50\]                                                                                                     |
+| ああっ女神さまっ それぞれの翼                                                                           | AIC                                                                         | 2006年4月6日 - 9月14日        | \[51\]                                                                                                     |
 | ここからTBSと一部地上波ネット局のみ字幕放送実施。                                                                |                                                                             |                          |                                                                                                            |
 | [あさっての方向。](../Page/あさっての方向。.md "wikilink")                                                | J.C.STAFF                                                                   | 2006年10月5日 - 12月21日      |                                                                                                            |
-| [Venus Versus Virus](../Page/Venus_Versus_Virus.md "wikilink")                            | [スタジオ雲雀](../Page/スタジオ雲雀.md "wikilink")                                      | 2007年1月11日 - 3月29日       | \[51\]                                                                                                     |
+| [Venus Versus Virus](../Page/Venus_Versus_Virus.md "wikilink")                            | [スタジオ雲雀](../Page/スタジオ雲雀.md "wikilink")                                      | 2007年1月11日 - 3月29日       | \[52\]                                                                                                     |
 | [怪物王女](../Page/怪物王女.md "wikilink")                                                        | マッドハウス                                                                      | 2007年4月12日 - 9月27日       |                                                                                                            |
 | [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")                       | [京都アニメーション](../Page/京都アニメーション.md "wikilink")                                | 2007年10月4日 - 2008年3月27日  |                                                                                                            |
-| [To LOVEる -とらぶる-](../Page/To_LOVEる_-とらぶる-.md "wikilink")                                  | XEBEC                                                                       | 2008年4月3日 - 9月25日        | \[52\]                                                                                                     |
+| [To LOVEる -とらぶる-](../Page/To_LOVEる_-とらぶる-.md "wikilink")                                  | XEBEC                                                                       | 2008年4月3日 - 9月25日        | \[53\]                                                                                                     |
 | 1:59 - 2:29枠                                                                              |                                                                             |                          |                                                                                                            |
 | CLANNAD 〜AFTER STORY〜                                                                     | 京都アニメーション                                                                   | 2008年10月2日 - 2009年3月26日  |                                                                                                            |
 | [けいおん\!](https://ja.wikipedia.org/wiki/けいおん! "wikilink")                                  | 2009年4月2日 - 6月25日                                                           |                          |                                                                                                            |
 | [大正野球娘。](https://ja.wikipedia.org/wiki/大正野球娘。 "wikilink")                                 | J.C.STAFF                                                                   | 2009年7月2日 - 9月24日        |                                                                                                            |
 | ここまで地デジ含めてSD4：3サイドカット放送。                                                                  |                                                                             |                          |                                                                                                            |
 | [にゃんこい\!](https://ja.wikipedia.org/wiki/にゃんこい! "wikilink")                                | AIC                                                                         | 2009年10月1日 - 12月17日      |                                                                                                            |
-| [おおかみかくし](https://ja.wikipedia.org/wiki/おおかみかくし "wikilink")                               | 2010年1月7日 - 3月25日                                                           | \[53\]\[54\]             |                                                                                                            |
+| [おおかみかくし](https://ja.wikipedia.org/wiki/おおかみかくし "wikilink")                               | 2010年1月7日 - 3月25日                                                           | \[54\]\[55\]             |                                                                                                            |
 | 1:55 - 2:25枠（第2期）                                                                         |                                                                             |                          |                                                                                                            |
 | [会長はメイド様\!](../Page/会長はメイド様!.md "wikilink")                                               | J.C.STAFF                                                                   | 2010年4月1日 - 9月23日        |                                                                                                            |
-| [それでも町は廻っている](https://ja.wikipedia.org/wiki/それでも町は廻っている "wikilink")                       | シャフト                                                                        | 2010年10月7日 - 12月23日      | \[55\]                                                                                                     |
+| [それでも町は廻っている](https://ja.wikipedia.org/wiki/それでも町は廻っている "wikilink")                       | シャフト                                                                        | 2010年10月7日 - 12月23日      | \[56\]                                                                                                     |
 | [夢喰いメリー](https://ja.wikipedia.org/wiki/夢喰いメリー "wikilink")                                 | J.C.STAFF                                                                   | 2011年1月6日 - 4月7日         |                                                                                                            |
 | [電波女と青春男](https://ja.wikipedia.org/wiki/電波女と青春男 "wikilink")                               | シャフト                                                                        | 2011年4月14日 - 6月30日       |                                                                                                            |
 | [まよチキ\!](https://ja.wikipedia.org/wiki/まよチキ! "wikilink")                                  | feel.                                                                       | 2011年7月7日 - 9月29日        |                                                                                                            |
 | [僕は友達が少ない](https://ja.wikipedia.org/wiki/僕は友達が少ない "wikilink")                             | AIC Build                                                                   | 2011年10月6日 - 12月22日      |                                                                                                            |
-| アマガミSS+ plus                                                                              | AIC                                                                         | 2012年1月5日 - 3月29日        | \[56\]                                                                                                     |
+| アマガミSS+ plus                                                                              | AIC                                                                         | 2012年1月5日 - 3月29日        | \[57\]                                                                                                     |
 | [さんかれあ](https://ja.wikipedia.org/wiki/さんかれあ "wikilink")                                   | スタジオディーン                                                                    | 2012年4月5日 - 6月28日        | BS-TBS製作協力。                                                                                                |
 | [この中に1人、妹がいる\!](https://ja.wikipedia.org/wiki/この中に1人、妹がいる! "wikilink")                    | Studio五組                                                                    | 2012年7月5日 - 9月27日        |                                                                                                            |
 | ここからTBSのみデータ放送実施。                                                                         |                                                                             |                          |                                                                                                            |
@@ -500,49 +501,49 @@ BS11・AT-Xが製作委員会に参加[42]。</p></td>
 | 1:58 - 2:28枠（第1期）                                                                         |                                                                             |                          |                                                                                                            |
 | [フォトカノ](https://ja.wikipedia.org/wiki/フォトカノ "wikilink")                                   | マッドハウス                                                                      | 2013年4月4日 - 6月27日        |                                                                                                            |
 | ローゼンメイデン                                                                                  | スタジオディーン                                                                    | 2013年7月4日 - 9月26日        | [集英社](../Page/集英社.md "wikilink")『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』版を基にしている。 |
-| IS 〈インフィニット・ストラトス〉 2                                                                      | エイトビット                                                                      | 2013年10月3日 - 12月19日      | \[57\]                                                                                                     |
+| IS 〈インフィニット・ストラトス〉 2                                                                      | エイトビット                                                                      | 2013年10月3日 - 12月19日      | \[58\]                                                                                                     |
 | [桜Trick](https://ja.wikipedia.org/wiki/桜Trick "wikilink")                                 | スタジオディーン                                                                    | 2014年1月9日 - 3月27日        |                                                                                                            |
 | 2:16 - 2:46枠                                                                              |                                                                             |                          |                                                                                                            |
-| [僕らはみんな河合荘](https://ja.wikipedia.org/wiki/僕らはみんな河合荘 "wikilink")                           | ブレインズ・ベース                                                                   | 2014年4月3日 - 6月19日        | キッズステーション製作協力\[58\]。                                                                                       |
-| [普通の女子校生が【ろこどる】やってみた。](https://ja.wikipedia.org/wiki/普通の女子校生が【ろこどる】やってみた。 "wikilink")     | feel.                                                                       | 2014年7月3日 - 9月18日        | \[59\]                                                                                                     |
-| [甘城ブリリアントパーク](https://ja.wikipedia.org/wiki/甘城ブリリアントパーク "wikilink")                       | 京都アニメーション                                                                   | 2014年10月6日 - 12月25日      | 本作終盤以降CBCでは同日ネットに移行\[60\]。                                                                                 |
-| [銃皇無尽のファフニール](https://ja.wikipedia.org/wiki/銃皇無尽のファフニール "wikilink")                       | ディオメディア                                                                     | 2015年1月8日 - 3月26日        | \[61\]                                                                                                     |
-| [レーカン\!](https://ja.wikipedia.org/wiki/レーカン! "wikilink")                                  | [ぴえろプラス](https://ja.wikipedia.org/wiki/ぴえろプラス "wikilink")                   | 2015年4月2日 - 6月25日        | \[62\]                                                                                                     |
-| [城下町のダンデライオン](https://ja.wikipedia.org/wiki/城下町のダンデライオン "wikilink")                       | プロダクションアイムズ                                                                 | 2015年7月2日 - 9月17日        | \[63\]                                                                                                     |
-| [ヤング ブラック・ジャック](https://ja.wikipedia.org/wiki/ヤング_ブラック・ジャック_\(漫画\) "wikilink")            | 手塚プロダクション                                                                   | 2015年10月1日 -12月18日       | \[64\]                                                                                                     |
-| [だがしかし](https://ja.wikipedia.org/wiki/だがしかし "wikilink")                                   | feel.                                                                       | 2016年1月8日 - 4月1日         | \[65\]                                                                                                     |
+| [僕らはみんな河合荘](https://ja.wikipedia.org/wiki/僕らはみんな河合荘 "wikilink")                           | ブレインズ・ベース                                                                   | 2014年4月3日 - 6月19日        | キッズステーション製作協力\[59\]。                                                                                       |
+| [普通の女子校生が【ろこどる】やってみた。](https://ja.wikipedia.org/wiki/普通の女子校生が【ろこどる】やってみた。 "wikilink")     | feel.                                                                       | 2014年7月3日 - 9月18日        | \[60\]                                                                                                     |
+| [甘城ブリリアントパーク](https://ja.wikipedia.org/wiki/甘城ブリリアントパーク "wikilink")                       | 京都アニメーション                                                                   | 2014年10月6日 - 12月25日      | 本作終盤以降CBCでは同日ネットに移行\[61\]。                                                                                 |
+| [銃皇無尽のファフニール](https://ja.wikipedia.org/wiki/銃皇無尽のファフニール "wikilink")                       | ディオメディア                                                                     | 2015年1月8日 - 3月26日        | \[62\]                                                                                                     |
+| [レーカン\!](https://ja.wikipedia.org/wiki/レーカン! "wikilink")                                  | [ぴえろプラス](https://ja.wikipedia.org/wiki/ぴえろプラス "wikilink")                   | 2015年4月2日 - 6月25日        | \[63\]                                                                                                     |
+| [城下町のダンデライオン](https://ja.wikipedia.org/wiki/城下町のダンデライオン "wikilink")                       | プロダクションアイムズ                                                                 | 2015年7月2日 - 9月17日        | \[64\]                                                                                                     |
+| [ヤング ブラック・ジャック](https://ja.wikipedia.org/wiki/ヤング_ブラック・ジャック_\(漫画\) "wikilink")            | 手塚プロダクション                                                                   | 2015年10月1日 -12月18日       | \[65\]                                                                                                     |
+| [だがしかし](https://ja.wikipedia.org/wiki/だがしかし "wikilink")                                   | feel.                                                                       | 2016年1月8日 - 4月1日         | \[66\]                                                                                                     |
 | 2:28 - 2:58枠                                                                              |                                                                             |                          |                                                                                                            |
-| [坂本ですが?](https://ja.wikipedia.org/wiki/坂本ですが? "wikilink")                                 | スタジオディーン                                                                    | 2016年4月8日 - 7月1日         | \[66\]                                                                                                     |
-| [この美術部には問題がある\!](https://ja.wikipedia.org/wiki/この美術部には問題がある! "wikilink")                  | feel.                                                                       | 2016年7月8日 -9月23日         | \[67\]                                                                                                     |
-| [ガーリッシュナンバー](https://ja.wikipedia.org/wiki/ガーリッシュナンバー "wikilink")                         | ディオメディア                                                                     | 2016年10月7日 - 12月23日      | \[68\]\[69\]                                                                                               |
-| [セイレン](https://ja.wikipedia.org/wiki/セイレン_\(アニメ\) "wikilink")                             | Studio五組×AXsiZ                                                              | 2017年1月5日 - 3月23日        | \[70\]\[71\]                                                                                               |
+| [坂本ですが?](https://ja.wikipedia.org/wiki/坂本ですが? "wikilink")                                 | スタジオディーン                                                                    | 2016年4月8日 - 7月1日         | \[67\]                                                                                                     |
+| [この美術部には問題がある\!](https://ja.wikipedia.org/wiki/この美術部には問題がある! "wikilink")                  | feel.                                                                       | 2016年7月8日 -9月23日         | \[68\]                                                                                                     |
+| [ガーリッシュナンバー](https://ja.wikipedia.org/wiki/ガーリッシュナンバー "wikilink")                         | ディオメディア                                                                     | 2016年10月7日 - 12月23日      | \[69\]\[70\]                                                                                               |
+| [セイレン](https://ja.wikipedia.org/wiki/セイレン_\(アニメ\) "wikilink")                             | Studio五組×AXsiZ                                                              | 2017年1月5日 - 3月23日        | \[71\]\[72\]                                                                                               |
 | [カブキブ\!](https://ja.wikipedia.org/wiki/カブキブ! "wikilink")                                  | スタジオディーン                                                                    | 2017年4月6日 - 6月22日        |                                                                                                            |
-| [アクションヒロイン チアフルーツ](https://ja.wikipedia.org/wiki/アクションヒロイン_チアフルーツ "wikilink")             | ディオメディア                                                                     | 2017年7月7日 - 9月29日        | \[72\]                                                                                                     |
-| [中二病でも恋がしたい\!](https://ja.wikipedia.org/wiki/中二病でも恋がしたい! "wikilink")                      | 京都アニメーション                                                                   | 2017年10月6日 - 12月22日      | \[73\]\[74\]\[75\]                                                                                         |
-| だがしかし2                                                                                    | 手塚プロダクション                                                                   | 2018年1月12日 - 3月30日       | 15分枠を2本立てで放送\[76\]\[77\]\[78\]。                                                                            |
+| [アクションヒロイン チアフルーツ](https://ja.wikipedia.org/wiki/アクションヒロイン_チアフルーツ "wikilink")             | ディオメディア                                                                     | 2017年7月7日 - 9月29日        | \[73\]                                                                                                     |
+| [中二病でも恋がしたい\!](https://ja.wikipedia.org/wiki/中二病でも恋がしたい! "wikilink")                      | 京都アニメーション                                                                   | 2017年10月6日 - 12月22日      | \[74\]\[75\]\[76\]                                                                                         |
+| だがしかし2                                                                                    | 手塚プロダクション                                                                   | 2018年1月12日 - 3月30日       | 15分枠を2本立てで放送\[77\]\[78\]\[79\]。                                                                            |
 | [たくのみ。](https://ja.wikipedia.org/wiki/たくのみ。 "wikilink")                                   | プロダクションアイムズ                                                                 |                          |                                                                                                            |
 | 1:58 - 2:28枠（第2期）                                                                         |                                                                             |                          |                                                                                                            |
 | ここより**アニメリコ 第2部**                                                                         |                                                                             |                          |                                                                                                            |
-| [されど罪人は竜と踊る](https://ja.wikipedia.org/wiki/されど罪人は竜と踊る_Dances_with_the_Dragons "wikilink") | [セブン・アークス・ピクチャーズ](https://ja.wikipedia.org/wiki/セブン・アークス・ピクチャーズ "wikilink") | 2018年4月6日 - 6月22日        | \[79\]\[80\]                                                                                               |
-| [七星のスバル](https://ja.wikipedia.org/wiki/七星のスバル "wikilink")                                 | [Lerche](../Page/スタジオ雲雀.md "wikilink")                                      | 2018年7月6日 - 9月28日        | \[81\]                                                                                                     |
-| [BAKUMATSU](https://ja.wikipedia.org/wiki/恋愛幕末カレシ〜時の彼方で花咲く恋〜#テレビアニメ "wikilink")           | スタジオディーン                                                                    | 2018年10月5日 - 12月21日      | \[82\]                                                                                                     |
-| [グリムノーツ The Animation](https://ja.wikipedia.org/wiki/グリムノーツ#テレビアニメ "wikilink")            | ブレインズ・ベース                                                                   | 2019年1月11日 - 3月29日       | \[83\]                                                                                                     |
-| BAKUMATSUクライシス                                                                            | スタジオディーン                                                                    | 2019年4月5日 - 6月21日        | \[84\]                                                                                                     |
-| 少女☆歌劇 レヴュースタァライト 再演（再放送）                                                                  | キネマシトラス                                                                     | 2019年7月5日 - 9月20日        | 初回は1:28 - 1:58に放送。BS-TBSでの放送は無し\[85\]。                                                                     |
-| [星合の空](https://ja.wikipedia.org/wiki/星合の空 "wikilink")                                     | エイトビット                                                                      | 2019年10月11日 - 12月27日     | \[86\]\[87\]\[88\]。                                                                                        |
-| [地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")                             | [Lerche](../Page/スタジオ雲雀.md "wikilink")                                      | 2020年1月10日 -             | \[89\]                                                                                                     |
+| [されど罪人は竜と踊る](https://ja.wikipedia.org/wiki/されど罪人は竜と踊る_Dances_with_the_Dragons "wikilink") | [セブン・アークス・ピクチャーズ](https://ja.wikipedia.org/wiki/セブン・アークス・ピクチャーズ "wikilink") | 2018年4月6日 - 6月22日        | \[80\]\[81\]                                                                                               |
+| [七星のスバル](https://ja.wikipedia.org/wiki/七星のスバル "wikilink")                                 | [Lerche](../Page/スタジオ雲雀.md "wikilink")                                      | 2018年7月6日 - 9月28日        | \[82\]                                                                                                     |
+| [BAKUMATSU](https://ja.wikipedia.org/wiki/恋愛幕末カレシ〜時の彼方で花咲く恋〜#テレビアニメ "wikilink")           | スタジオディーン                                                                    | 2018年10月5日 - 12月21日      | \[83\]                                                                                                     |
+| [グリムノーツ The Animation](https://ja.wikipedia.org/wiki/グリムノーツ#テレビアニメ "wikilink")            | ブレインズ・ベース                                                                   | 2019年1月11日 - 3月29日       | \[84\]                                                                                                     |
+| BAKUMATSUクライシス                                                                            | スタジオディーン                                                                    | 2019年4月5日 - 6月21日        | \[85\]                                                                                                     |
+| 少女☆歌劇 レヴュースタァライト 再演（再放送）                                                                  | キネマシトラス                                                                     | 2019年7月5日 - 9月20日        | 初回は1:28 - 1:58に放送。BS-TBSでの放送は無し\[86\]。                                                                     |
+| [星合の空](https://ja.wikipedia.org/wiki/星合の空 "wikilink")                                     | エイトビット                                                                      | 2019年10月11日 - 12月27日     | \[87\]\[88\]\[89\]。                                                                                        |
+| [地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")                             | [Lerche](../Page/スタジオ雲雀.md "wikilink")                                      | 2020年1月10日 - 3月27日       | \[90\]                                                                                                     |
 
 ### 水曜未明（火曜深夜）枠
 
 | 作品名                                                | 制作                                               | 放送期間                    | 放送時間              | 備考                    |
 | -------------------------------------------------- | ------------------------------------------------ | ----------------------- | ----------------- | --------------------- |
 | 金曜未明（木曜深夜）枠が定着する以前に放送された番組                         |                                                  |                         |                   |                       |
-| [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink") | J.C.STAFF                                        | 2001年10月2日 - 2002年3月26日 | 2:20 - 2:50       | \[90\]第1話のみ一部系列局でも放送。 |
+| [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink") | J.C.STAFF                                        | 2001年10月2日 - 2002年3月26日 | 2:20 - 2:50       | \[91\]第1話のみ一部系列局でも放送。 |
 | [ちょびっツ](../Page/ちょびっツ.md "wikilink")               | マッドハウス                                           | 2002年4月2日 - 9月24日       | 1:50 - 2:20       |                       |
-| [ヒートガイジェイ](../Page/ヒートガイジェイ.md "wikilink")         | [サテライト](../Page/サテライト_\(アニメ制作会社\).md "wikilink") | 2002年10月1日 - 2003年3月25日 | \[91\]            |                       |
+| [ヒートガイジェイ](../Page/ヒートガイジェイ.md "wikilink")         | [サテライト](../Page/サテライト_\(アニメ制作会社\).md "wikilink") | 2002年10月1日 - 2003年3月25日 | \[92\]            |                       |
 | [忘却の旋律](../Page/忘却の旋律.md "wikilink")               | J.C.STAFF                                        | 2004年4月6日 - 9月21日       | 2:54 - 3:24       |                       |
 | TBS製作・自局放送の深夜アニメが3枠となったため放送された番組                   |                                                  |                         |                   |                       |
-| [神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")     | 銀画屋                                              | 2007年4月4日 - 6月20日       | 4:15 - 4:45       | \[92\]                |
+| [神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")     | 銀画屋                                              | 2007年4月4日 - 6月20日       | 4:15 - 4:45       | \[93\]                |
 | けいおん                                               |                                                  | 京都アニメーション               | 2010年4月7日 - 9月29日 | 1:25 - 1:55           |
 
 ### TBS製作UHFアニメ形態で放送された番組
@@ -551,26 +552,26 @@ BS11・AT-Xが製作委員会に参加[42]。</p></td>
 
 | 作品名                                                                                 | 制作                               | 放送期間           | 備考                 |
 | ----------------------------------------------------------------------------------- | -------------------------------- | -------------- | ------------------ |
-| [英國戀物語エマ](../Page/エマ_\(漫画\).md "wikilink")                                          | [ぴえろ](../Page/ぴえろ.md "wikilink") | 2005年4月 - 6月   | \[93\]\[94\]       |
-| [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night_\(アニメ\) "wikilink") | スタジオディーン                         | 2006年1月 - 6月   | \[95\]\[96\]\[97\] |
-| [夜明け前より瑠璃色な](https://ja.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")                   | 童夢                               | 2006年10月 - 12月 | \[98\]             |
-| もっとTo LOVEる -とらぶる-                                                                  | XEBEC                            | 2010年10月 - 12月 | \[99\]             |
-| [中二病でも恋がしたい\!](https://ja.wikipedia.org/wiki/中二病でも恋がしたい! "wikilink")                | 京都アニメーション                        | 2012年10月 - 12月 | \[100\]\[101\]     |
-| To LOVEる -とらぶる- ダークネス                                                               | XEBEC                            | 2012年10月 - 12月 | \[102\]            |
-| [たまこまーけっと](https://ja.wikipedia.org/wiki/たまこまーけっと "wikilink")                       | 京都アニメーション                        | 2013年1月 - 3月   | \[103\]            |
-| [境界の彼方](https://ja.wikipedia.org/wiki/境界の彼方 "wikilink")                             | 2013年10月 - 12月                   | \[104\]\[105\] |                    |
-| 中二病でも恋がしたい\!戀                                                                       | 2014年1月 - 3月                     | \[106\]        |                    |
-| To LOVEる -とらぶる- ダークネス 2nd                                                           | XEBEC                            | 2015年7月 - 10月  | \[107\]\[108\]     |
+| [英國戀物語エマ](../Page/エマ_\(漫画\).md "wikilink")                                          | [ぴえろ](../Page/ぴえろ.md "wikilink") | 2005年4月 - 6月   | \[94\]\[95\]       |
+| [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night_\(アニメ\) "wikilink") | スタジオディーン                         | 2006年1月 - 6月   | \[96\]\[97\]\[98\] |
+| [夜明け前より瑠璃色な](https://ja.wikipedia.org/wiki/夜明け前より瑠璃色な "wikilink")                   | 童夢                               | 2006年10月 - 12月 | \[99\]             |
+| もっとTo LOVEる -とらぶる-                                                                  | XEBEC                            | 2010年10月 - 12月 | \[100\]            |
+| [中二病でも恋がしたい\!](https://ja.wikipedia.org/wiki/中二病でも恋がしたい! "wikilink")                | 京都アニメーション                        | 2012年10月 - 12月 | \[101\]\[102\]     |
+| To LOVEる -とらぶる- ダークネス                                                               | XEBEC                            | 2012年10月 - 12月 | \[103\]            |
+| [たまこまーけっと](https://ja.wikipedia.org/wiki/たまこまーけっと "wikilink")                       | 京都アニメーション                        | 2013年1月 - 3月   | \[104\]            |
+| [境界の彼方](https://ja.wikipedia.org/wiki/境界の彼方 "wikilink")                             | 2013年10月 - 12月                   | \[105\]\[106\] |                    |
+| 中二病でも恋がしたい\!戀                                                                       | 2014年1月 - 3月                     | \[107\]        |                    |
+| To LOVEる -とらぶる- ダークネス 2nd                                                           | XEBEC                            | 2015年7月 - 10月  | \[108\]\[109\]     |
 
 ### 放送予定の番組
 
-| 作品名                                                                                    | 制作                                                                            | 放送予定         | 備考 |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ | -- |
-| [ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink")（第2期）                 | マッドハウス                                                                        | 2020年4月10日 - |    |
-| [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")完 | feel.                                                                         |              |    |
-| [アサルトリリィ BOUQUET](https://ja.wikipedia.org/wiki/アサルトリリィ "wikilink")                    | シャフト                                                                          | 2020年7月 -    |    |
-| [五等分の花嫁](https://ja.wikipedia.org/wiki/五等分の花嫁 "wikilink")∬                             | [バイブリーアニメーションスタジオ](https://ja.wikipedia.org/wiki/バイブリーアニメーションスタジオ "wikilink") | 2020年10月 -   |    |
-| [安達としまむら](https://ja.wikipedia.org/wiki/安達としまむら "wikilink")                            | 手塚プロダクション                                                                     | 2020年 -      |    |
+| 作品名                                                                                    | 制作                                                                            | 放送予定       | 備考 |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- | -- |
+| [アサルトリリィ BOUQUET](https://ja.wikipedia.org/wiki/アサルトリリィ "wikilink")                    | シャフト                                                                          | 2020年7月 -  |    |
+| [五等分の花嫁](https://ja.wikipedia.org/wiki/五等分の花嫁 "wikilink")∬                             | [バイブリーアニメーションスタジオ](https://ja.wikipedia.org/wiki/バイブリーアニメーションスタジオ "wikilink") | 2020年10月 - |    |
+| [安達としまむら](https://ja.wikipedia.org/wiki/安達としまむら "wikilink")                            | 手塚プロダクション                                                                     | 2020年 -    |    |
+| [ノー・ガンズ・ライフ](https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ "wikilink")（第2期）                 | マッドハウス                                                                        | 未定         |    |
+| [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")完 | feel.                                                                         |            |    |
 
 TBSに関する脚注  ネット局に関する脚注
 
@@ -634,7 +635,7 @@ TBSに関する脚注  ネット局に関する脚注
 1.  [エキサイトニュース　90Sチョベリー『「新世紀エヴァンゲリオン」が変えた、90年代"深夜アニメ"を振り返る』](https://www.excite.co.jp/News/90s/20150729/E1437968044071.html?_p=2)
 2.  2018年7月期のみ第2部は番組開始時に表示。2019年4月期のみ第1部は非表示。また、2019年10月期の第1部には第2部のジングル、第2部には第1部のジングルがそれぞれ使用され、両方とも番組開始時に表示。2020年1月期には第1部と第2部の両方に第1部のジングルがそれぞれ使用され、両方とも番組開始時に表示。
 3.  2015年頃までCBCとMBS・BS-TBSでは字幕放送のみ対応、サンテレビでは字幕放送にもデータ放送にも対応していなかった。
-4.
+4.  『アニメリコ』枠設置以前の2018年1月期以前を含めても、初となる。
 5.
 6.
 7.
@@ -662,9 +663,9 @@ TBSに関する脚注  ネット局に関する脚注
 29.
 30.
 31.
-32. [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・あいテレビでもネット。
-33. [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")でもネット。
-34.
+32.
+33. [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・あいテレビでもネット。
+34. [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")でもネット。
 35.
 36.
 37.
@@ -690,14 +691,14 @@ TBSに関する脚注  ネット局に関する脚注
 57.
 58.
 59.
-60. 当初は10月2日放送開始予定だったが、特番編成により変更された。
-61.
+60.
+61. 当初は10月2日放送開始予定だったが、特番編成により変更された。
 62.
 63.
 64.
 65.
-66. [あいテレビ](../Page/あいテレビ.md "wikilink")でもネット。
-67.
+66.
+67. [あいテレビ](../Page/あいテレビ.md "wikilink")でもネット。
 68.
 69.
 70.
@@ -705,21 +706,21 @@ TBSに関する脚注  ネット局に関する脚注
 72.
 73.
 74.
-75. 『[されど罪人は竜と踊る](https://ja.wikipedia.org/wiki/されど罪人は竜と踊る_Dances_with_the_Dragons "wikilink")』の放送延期に伴う[穴埋め番組として放送](../Page/つなぎ番組.md "wikilink")。BS-TBSでは同クールに第2期『戀』を放送。
-76. 『[アニメサタデー630](https://ja.wikipedia.org/wiki/アニメサタデー630 "wikilink")』枠と同様に、番組表上では2作品で1本の番組として扱われる。
-77.
+75.
+76. 『[されど罪人は竜と踊る](https://ja.wikipedia.org/wiki/されど罪人は竜と踊る_Dances_with_the_Dragons "wikilink")』の放送延期に伴う[穴埋め番組として放送](../Page/つなぎ番組.md "wikilink")。BS-TBSでは同クールに第2期『戀』を放送。
+77. 『[アニメサタデー630](https://ja.wikipedia.org/wiki/アニメサタデー630 "wikilink")』枠と同様に、番組表上では2作品で1本の番組として扱われる。
 78.
 79.
-80. 当初は2017年10月放送開始予定だったが、制作上の都合により延期された。
-81.
+80.
+81. 当初は2017年10月放送開始予定だったが、制作上の都合により延期された。
 82.
 83.
 84.
 85.
 86.
 87.
-88. [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")でもネット。
-89.
+88.
+89. [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")でもネット。
 90.
 91.
 92.
@@ -727,8 +728,8 @@ TBSに関する脚注  ネット局に関する脚注
 94.
 95.
 96.
-97. 劇場版公開を控えて2010年1月にBS-TBSで特別編集版が放送された。
-98.
+97.
+98. 劇場版公開を控えて2010年1月にBS-TBSで特別編集版が放送された。
 99.
 100.
 101.
@@ -739,3 +740,4 @@ TBSに関する脚注  ネット局に関する脚注
 106.
 107.
 108.
+109.

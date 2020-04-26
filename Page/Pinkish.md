@@ -630,10 +630,10 @@
 
 **公式ブログ**
 
-  - [ぁぉぃのひまわり便り （公式ブログ）](http://ameblo.jp/pinkish4aoi/)
-  - [マオペース☆ （公式ブログ）](http://ameblo.jp/jovb7/)
-  - [そのまんまはるな（公式ブログ）](http://ameblo.jp/hannasproom/)
-  - [Pinkish Staff Blog](http://ameblo.jp/zero-9staff/)
+  - [ぁぉぃのひまわり便り （公式ブログ）](https://ameblo.jp/pinkish4aoi/)
+  - [マオペース☆ （公式ブログ）](https://ameblo.jp/jovb7/)
+  - [そのまんまはるな（公式ブログ）](https://ameblo.jp/hannasproom/)
+  - [Pinkish Staff Blog](https://ameblo.jp/zero-9staff/)
 
 **公式動画配信チャンネル**
 

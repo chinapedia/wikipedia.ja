@@ -22,7 +22,7 @@ SCCS は [Revision Control System](../Page/Revision_Control_System.md "wikilink"
   - M. J. Rochkind: [I Hear Voices Talking About Me](http://www.mudbag.com/marcblog/2005/06/i-hear-voices-talking-about-me.html). In *[Marc's Blog](http://www.mudbag.com/marcblog/)* （2005年6月）
   - [GNU](../Page/GNU.md "wikilink") [CSSC](http://cssc.sourceforge.net/index.shtml) ("Compatibly Stupid Source Control") SCCS互換プログラム。[CVSや](../Page/Concurrent_Versions_System.md "wikilink")[Subversionといった最近のシステムへの乗り換えを可能にする](../Page/Apache_Subversion.md "wikilink")。
   - [SourceForge での SCCS 関連プロジェクト一覧](https://sourceforge.net/softwaremap/trove_list.php?form_cat=260)
-  - [Berlios Hosted Version](http://sccs.berlios.de/)
+  - [Sourceforge Hosted Version](http://sccs.sf.net/)
   - [sccs(1)](http://docs.hp.com/ja/B2355-60104-02/sccs.1.html) マニュアル（HP-UX）
 
 [Category:バージョン管理システム](https://ja.wikipedia.org/wiki/Category:バージョン管理システム "wikilink") [Category:UNIXのソフトウェア](https://ja.wikipedia.org/wiki/Category:UNIXのソフトウェア "wikilink") [Category:1972年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1972年のソフトウェア "wikilink")

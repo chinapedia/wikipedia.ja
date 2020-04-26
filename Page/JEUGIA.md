@@ -20,8 +20,8 @@
   - [2020年](../Page/2020年.md "wikilink")
       - 3月17日 - cross road株式会社による[株式公開買付け](../Page/株式公開買付け.md "wikilink")が成立。
       - 3月25日 - cross road株式会社の連結子会社となる\[2\]。
-      - 4月15日 - 東京証券取引所第2部[上場廃止](../Page/上場廃止.md "wikilink")予定。
-      - 4月17日 - 株式売渡請求により、cross road株式会社の連結子会社となる予定\[3\]。
+      - 4月15日 - 東京証券取引所第2部[上場廃止](../Page/上場廃止.md "wikilink")。
+      - 4月17日 - 株式売渡請求により、cross road株式会社の完全子会社となる\[3\]。
 
 ## 社名の由来
 
@@ -43,7 +43,7 @@
 
   - [JEUGIA](https://www.jeugia.co.jp/)
 
-[Category:日本のレコード店](https://ja.wikipedia.org/wiki/Category:日本のレコード店 "wikilink") [Category:日本の楽器店](https://ja.wikipedia.org/wiki/Category:日本の楽器店 "wikilink") [Category:中京区の企業](https://ja.wikipedia.org/wiki/Category:中京区の企業 "wikilink") [Category:東証二部上場企業](https://ja.wikipedia.org/wiki/Category:東証二部上場企業 "wikilink") [Category:1991年上場の企業](https://ja.wikipedia.org/wiki/Category:1991年上場の企業 "wikilink") [Category:老舗企業_(明治創業)](https://ja.wikipedia.org/wiki/Category:老舗企業_\(明治創業\) "wikilink") [Category:1952年設立の企業](https://ja.wikipedia.org/wiki/Category:1952年設立の企業 "wikilink") [Category:ヤマハグループ](https://ja.wikipedia.org/wiki/Category:ヤマハグループ "wikilink")
+[Category:日本のレコード店](https://ja.wikipedia.org/wiki/Category:日本のレコード店 "wikilink") [Category:日本の楽器店](https://ja.wikipedia.org/wiki/Category:日本の楽器店 "wikilink") [Category:中京区の企業](https://ja.wikipedia.org/wiki/Category:中京区の企業 "wikilink") [Category:1991年上場の企業](https://ja.wikipedia.org/wiki/Category:1991年上場の企業 "wikilink") [Category:老舗企業_(明治創業)](https://ja.wikipedia.org/wiki/Category:老舗企業_\(明治創業\) "wikilink") [Category:1952年設立の企業](https://ja.wikipedia.org/wiki/Category:1952年設立の企業 "wikilink") [Category:ヤマハグループ](https://ja.wikipedia.org/wiki/Category:ヤマハグループ "wikilink")
 
 1.  定款上は1990年3月に株式会社JEUGIAに商号変更したが、当時は登記上では英文字が使用できなかったため、登記を現社名に変更したのは2003年。
 2.  [cross road株式会社による当社株式に対する公開買付けの結果並びに親会社、その他の関係会社及び主要株主である筆頭株主の異動に関するお知らせ](https://ssl4.eir-parts.net/doc/9826/tdnet/1808338/00.pdf)JEUGIA 2020年3月18日

@@ -58,6 +58,6 @@
 
   - [Omni Magazine: Fiction Index](http://zzmaster.best.vwh.net/SF/omni_index.html) - OMNI に発表された作品の紹介
 
-[Category:旺文社](https://ja.wikipedia.org/wiki/Category:旺文社 "wikilink") [Category:廃刊・休刊誌](https://ja.wikipedia.org/wiki/Category:廃刊・休刊誌 "wikilink") [Category:科学技術雑誌](https://ja.wikipedia.org/wiki/Category:科学技術雑誌 "wikilink") [Category:1978年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1978年創刊の雑誌 "wikilink") [Category:1995年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1995年休廃刊の雑誌 "wikilink") [Category:1996年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1996年開設のウェブサイト "wikilink")
+[Category:旺文社](https://ja.wikipedia.org/wiki/Category:旺文社 "wikilink") [Category:廃刊・休刊誌](https://ja.wikipedia.org/wiki/Category:廃刊・休刊誌 "wikilink") [Category:科学技術雑誌](https://ja.wikipedia.org/wiki/Category:科学技術雑誌 "wikilink") [Category:1978年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1978年創刊の雑誌 "wikilink") [Category:1995年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1995年休廃刊の雑誌 "wikilink") [Category:1996年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1996年開設のウェブサイト "wikilink") [Category:2003年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2003年廃止のウェブサイト "wikilink")
 
 1.  Guccione, B. *First word.*, OMNI 1(1):6, October 1978

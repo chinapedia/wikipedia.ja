@@ -1,7 +1,7 @@
 > この記事は[Ryoji](https://ja.wikipedia.org/wiki/Ryoji)から翻訳されています。
 
 
-**Ryoji**（リョウジ、[1974年](../Page/1974年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ[ケツメイシ](../Page/ケツメイシ.md "wikilink")のメンバーで[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当。。[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")や[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")らに楽曲提供するなど[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")としても活動している。本名：**大塚 亮二**（おおつか りょうじ）。
+**Ryoji**（リョウジ、[1974年](../Page/1974年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ[ケツメイシ](../Page/ケツメイシ.md "wikilink")のメンバーで[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を担当。。[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")、[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink")らに楽曲提供するなど[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")としても活動している。本名：**大塚 亮二**（おおつか りょうじ）。
 
 ## 来歴
 
@@ -13,7 +13,7 @@
 
 2016年10月9日 テレビ番組「[情熱大陸](../Page/情熱大陸.md "wikilink")」で、2014年頃から「[特発性大腿骨頭壊死症](../Page/特発性大腿骨頭壊死症.md "wikilink")」を患っていることを公表\[2\]。
 
-2020年4月1日、[新型コロナウイルスに感染していることが公表される](../Page/2019新型コロナウイルス.md "wikilink")\[3\]\[4\]。
+2020年4月1日、[新型コロナウイルスに感染していることが公表される](../Page/2019新型コロナウイルス.md "wikilink")\[3\]\[4\]。17日に医療機関での[PCR検査](https://ja.wikipedia.org/wiki/PCR検査 "wikilink")で2度目の陰性反応が確認された\[5\]。
 
 ## ディスコグラフィ
 
@@ -66,12 +66,14 @@
   - [MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink") - 『[好きなのに](https://ja.wikipedia.org/wiki/LOVE_ALL_PLAY "wikilink")』※[SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")と共同プロデュース
   - [やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink") - 『夢を見た』『いちごいちえ』『拝啓○○さん』
   - [V6](../Page/V6_\(グループ\).md "wikilink") - 『[ある日願いが叶ったんだ](https://ja.wikipedia.org/wiki/ある日願いが叶ったんだ/All_For_You "wikilink")』
+  - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink") - 『君がいた夏に...』
 
 ## 脚注
 
-[Category:ケツメイシのメンバー](https://ja.wikipedia.org/wiki/Category:ケツメイシのメンバー "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:特定疾患に罹患した人物](https://ja.wikipedia.org/wiki/Category:特定疾患に罹患した人物 "wikilink")
+[Category:ケツメイシのメンバー](https://ja.wikipedia.org/wiki/Category:ケツメイシのメンバー "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:特定疾患に罹患した人物](https://ja.wikipedia.org/wiki/Category:特定疾患に罹患した人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.
 3.
 4.
+5.

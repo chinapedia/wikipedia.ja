@@ -23,4 +23,4 @@
 
   - [昭和KDE株式会社](http://www.showa-hp.co.jp/)
 
-[Category:日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の電気機器メーカー "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1934年設立の企業](https://ja.wikipedia.org/wiki/Category:1934年設立の企業 "wikilink")
+[Category:日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:日本の電気機器メーカー "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:1934年設立の企業](https://ja.wikipedia.org/wiki/Category:1934年設立の企業 "wikilink")

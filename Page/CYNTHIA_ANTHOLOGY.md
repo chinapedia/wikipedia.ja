@@ -14,7 +14,7 @@
   - ディスク5は、「CM音源・TV音源・未発表音源・参加音源・[Remix音源](../Page/リミックス.md "wikilink")・バージョン違い・ライブ音源」集。[1970年代](../Page/1970年代.md "wikilink")に公式発売されていない楽曲や初CD化音源が多数、収録されている。
   - ディスク6は、1971年以降の映像を含めたDVD。1984年11月21日発売の映像集『HELLO\!CYNTHIA』（78ZM-3010）と、1992年11月21日発売の映像集『Cynthia Clips』（SRVM-327）の一部をDVD化したものである。
 
-音源は、[SBM](../Page/SBM.md "wikilink")（SuperBitMapping）という、ソニーが持つ技術のフォーマットで[デジタル・リマスタリングが施された](../Page/デジタルリマスター.md "wikilink")。ボックスサイズのカラー解説書付きで、書内には歌詞、[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")、50音順楽曲一覧、酒井政利によるシングル解説のほか、関係者のコメントやインタビューで綴る南沙織ヒストリーを掲載。インタビュー、ライナー、コメントへの参加は南沙織本人のほか、[篠山紀信](../Page/篠山紀信.md "wikilink")、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[酒井政利](../Page/酒井政利.md "wikilink")、[有馬三恵子](../Page/有馬三恵子.md "wikilink")、[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、[村上司](https://ja.wikipedia.org/wiki/村上司 "wikilink")、長谷川具慶、中山寛子、ロージー、小栗俊雄、田代清三、金塚晴子、我妻広己、榊ひろと、堤昌司、藤沢和美、片山邦彦、小山田義根、山下鉄男。
+音源は、[SBM](../Page/SBM.md "wikilink")（SuperBitMapping）という、ソニーが持つ技術のフォーマットで[デジタル・リマスタリングが施された](../Page/デジタルリマスター.md "wikilink")。ボックスサイズのカラー解説書付きで、書内には歌詞、[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")、50音順楽曲一覧、酒井政利によるシングル解説のほか、関係者のコメントやインタビューで綴る南沙織ヒストリーを掲載。インタビュー、ライナー、コメントへの参加は南沙織本人のほか、[篠山紀信](../Page/篠山紀信.md "wikilink")、[吉田拓郎](../Page/吉田拓郎.md "wikilink")、[酒井政利](../Page/酒井政利.md "wikilink")、[有馬三恵子](../Page/有馬三恵子.md "wikilink")、[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、[村上司](https://ja.wikipedia.org/wiki/村上司 "wikilink")、長谷川具慶、中山寛子、ロージー、小栗俊雄、田代清三、金塚晴子、我妻広己、榊ひろと、堤昌司、藤沢和美、片山邦彦、小山田義根、山下鉄男。
 
 未発表曲「あなたの胸で泣けるまで」が収録された。ボーカル録音がいつであるかはさだかではないが、本CD-BOX発売日時点での最新音源となっている。
 

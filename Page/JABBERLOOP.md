@@ -598,7 +598,7 @@
 
   - [かごしま24](https://ja.wikipedia.org/wiki/かごしま24 "wikilink")([南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）- アルバム「CHECK THIS OUT\!\!」より「With all my love」が番組のテーマ音楽に採用されている。
   - [報道LIVE トコトン](https://ja.wikipedia.org/wiki/報道LIVE_トコトン "wikilink")([宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")) - アルバム「攻め燃える」より「ソレソレ」が番組テーマ音楽に採用されている。
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")([日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")) - アルバム「Exclusive Best Selection」より「シロクマ」が番組スポーツコーナーのテーマ曲に採用されている。
+  - [NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink")) - アルバム「Exclusive Best Selection」より「シロクマ」が番組スポーツコーナーのテーマ曲に採用されている。
   - [智弁和歌山](https://ja.wikipedia.org/wiki/智弁和歌山 "wikilink") ‐ 「シロクマ」を野球部の応援曲に採用している。
 
 ## 外部リンク

@@ -25,7 +25,7 @@
 
 収録曲「Midnight Venus」（M4）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")、Andy Abrahamの「All around the world」のカバー曲。尚、この楽曲で春和文が作詞で初起用された。
 
-収録曲「Stomp」（M11）と「Sup wassup\!\!」（M12）は、前アルバム「[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")」収録の「タイムマシーン」に次ぎ、[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")な作品となっている。（いずれの3曲共[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")作詞・作曲。）
+収録曲「Stomp」（M11）と「Sup wassup\!\!」（M12）は、前アルバム「[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")」収録の「タイムマシーン」に次ぎ、[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")な作品となっている。（いずれの3曲共[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")作詞・作曲。）
 
 ## CD収録曲
 

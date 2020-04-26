@@ -262,14 +262,14 @@
   - 新・湘南爆走族 荒くれナイト 第一章（1997年9月12日発売）
   - 新・湘南爆走族 荒くれナイト2 死神たちの公道レース 第二章（1998年9月11日発売）
 
-### オリジナルビデオ
+### Vシネマ
 
-[東映Vシネマ](../Page/東映Vシネマ.md "wikilink")レーベルで東映ビデオよりリリース
+[東映Vシネマ](../Page/東映Vシネマ.md "wikilink")レーベルで東映ビデオよりVHSでリリース。2004年にDVD化リリースされた。
 
-  - 1998 「新・湘南爆走族 荒くれKNIGHT」[大滝純](https://ja.wikipedia.org/wiki/大滝純 "wikilink")主演（元[PENICILLIN](../Page/PENICILLIN.md "wikilink") [GISHO](https://ja.wikipedia.org/wiki/GISHO "wikilink")）
-  - 1998 「新・湘南爆走族 荒くれKNIGHT 2」大滝純主演
-  - 1999 「新・湘南爆走族 荒くれKNIGHT 3」[押尾学](https://ja.wikipedia.org/wiki/押尾学 "wikilink")主演
-  - 1999 「新・湘南爆走族 荒くれKNIGHT 4」押尾学主演
+  - 1998年 「新・湘南爆走族 荒くれKNIGHT」[大滝純](https://ja.wikipedia.org/wiki/大滝純 "wikilink")主演（元[PENICILLIN](../Page/PENICILLIN.md "wikilink") [GISHO](https://ja.wikipedia.org/wiki/GISHO "wikilink")）
+  - 1998年 「新・湘南爆走族 荒くれKNIGHT 2」大滝純主演
+  - 1999年 「新・湘南爆走族 荒くれKNIGHT 3」[押尾学](https://ja.wikipedia.org/wiki/押尾学 "wikilink")主演
+  - 1999年 「新・湘南爆走族 荒くれKNIGHT 4」押尾学主演
 
 ### 映画
 

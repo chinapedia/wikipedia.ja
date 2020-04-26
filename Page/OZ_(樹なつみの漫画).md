@@ -217,7 +217,7 @@ VHS版：VOL.1 約35分、VOL.2 約35分。LD版：VOL.1・2収録約70分。
 
 ## ラジオドラマ
 
-1993年[2月15日](../Page/2月15日.md "wikilink")から2週間かけて、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")のラジオ番組『[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")』で、1話15分の10話構成で放送された。
+1993年[2月15日](../Page/2月15日.md "wikilink")から2週間かけて、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")のラジオ番組『[青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")』で、1話15分の10話構成で放送された。
 
 ## 舞台
 

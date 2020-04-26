@@ -9,7 +9,7 @@
 
 アルバム・タイトル『Journey』は、前年に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")5周年ということで、感謝の気持ちを込めて『THANKS』（＝ありがとう）というタイトルを冠したアルバムを発表し、「5周年ありがとう」と言ってしまったので、また新たな旅立ち・スタートを切りたい、次なるステップを踏みたいという思いを込め、初心に戻った感覚で『Journey』と命名。\[1\]
 
-収録曲「Journey」（M9）は、アルバムのタイトル・ソングではなく、たまたまネーミングが重複したとのことだが、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")・[スタジオ](../Page/スタジオ.md "wikilink")にて、収録曲「Journey」の作詞・作曲者である[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")と顔を合わせた際、メンバーが「タイトル、戴きました。」と挨拶をしたとのこと。
+収録曲「Journey」（M9）は、アルバムのタイトル・ソングではなく、たまたまネーミングが重複したとのことだが、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")・[スタジオ](../Page/スタジオ.md "wikilink")にて、収録曲「Journey」の作詞・作曲者である[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")と顔を合わせた際、メンバーが「タイトル、戴きました。」と挨拶をしたとのこと。
 
 収録曲「THIS IS OUR SHOW」（M1）及び「Is that you」（M3）は、[クレイグ・デイヴィッド](../Page/クレイグ・デイヴィッド.md "wikilink")等海外大物[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")から、[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")、[谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")、[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")、[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")といった邦楽アーティスト、またアジア圏で活躍する[タイのアーティスト](../Page/タイ王国.md "wikilink")[タタ・ヤン](../Page/タタ・ヤン.md "wikilink")に至るまで、ワールドワイドな楽曲提供・[コラボを次々に実現させている多国籍](../Page/コラボレーション.md "wikilink")[コンポーザー](../Page/作曲家.md "wikilink")・[プロデューサー](../Page/プロデューサー.md "wikilink")集団"Phrased Differently\[2\]"が楽曲を提供。「THIS IS OUR SHOW」は、今アルバムを引っさげた[ツアー](../Page/ツアー.md "wikilink")"w-inds.Live Tour 2007 〜Journey〜"のオープニングを飾った。
 

@@ -40,6 +40,6 @@
 
 ### 出典
 
-[Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:前田亘輝の楽曲](https://ja.wikipedia.org/wiki/Category:前田亘輝の楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:前田亘輝が制作した楽曲](https://ja.wikipedia.org/wiki/Category:前田亘輝が制作した楽曲 "wikilink") [Category:春畑道哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:春畑道哉が制作した楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink")
+[Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:前田亘輝の楽曲](https://ja.wikipedia.org/wiki/Category:前田亘輝の楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:前田亘輝が制作した楽曲](https://ja.wikipedia.org/wiki/Category:前田亘輝が制作した楽曲 "wikilink") [Category:春畑道哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:春畑道哉が制作した楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.  これまでハードロック調は主にアルバムに取り入れられる傾向が強かった。

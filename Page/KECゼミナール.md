@@ -12,28 +12,28 @@
 ## 沿革
 
   - [1977年](../Page/1977年.md "wikilink") - [奈良県](../Page/奈良県.md "wikilink")[生駒市](https://ja.wikipedia.org/wiki/生駒市 "wikilink")に学習塾「KEC進学道場」を創業。
-  - [1981年](../Page/1982年.md "wikilink") - 西大寺教室開校。
+  - [1981年](../Page/1981年.md "wikilink") - 西大寺教室開校。
   - [1982年](../Page/1982年.md "wikilink") - 「株式会社ケーイーシー」として、法人経営となる。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 「KECゼミナール」と名称を変更。
-  - [1981年](../Page/1982年.md "wikilink") - 郡山教室開校。
-  - [1985年](../Page/1982年.md "wikilink") - 奈良教室開校。
-  - [1989年](../Page/1982年.md "wikilink") - 桜井教室開校。
-  - [1992年](../Page/1982年.md "wikilink") - 高の原教室開校。
-  - [1993年](../Page/1982年.md "wikilink") - 学園前教室開校。
-  - [1994年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - 個別指導（現KEC個別）開設　個別生駒教室・平城（現高の原）教室開校
-  - [1995年](../Page/1982年.md "wikilink") - 個別西大寺教室開校。
-  - [1996年](../Page/1982年.md "wikilink") - 個別奈良教室開校。
-  - [1998年](../Page/1982年.md "wikilink") - 香芝教室（現五位堂教室）開校。
-  - [2001年](../Page/1982年.md "wikilink") - 個別学園前教室開校。
-  - [2003年](../Page/1982年.md "wikilink") - 個別五位堂教室開校。
-  - [2005年](../Page/1982年.md "wikilink") - 田原本教室（ゼミ・個別）開校。
-  - [2011年](../Page/1982年.md "wikilink") - 王寺教室（ゼミ・個別）開校。
-  - [2013年](../Page/1982年.md "wikilink") - 個別登美ヶ丘教室開校。
-  - [2014年](../Page/1982年.md "wikilink") - 個別高田市駅教室開校。
-  - [2015年](../Page/1982年.md "wikilink") - 初の海外進出　ホーチミン校開校。
-  - [2016年](../Page/1982年.md "wikilink") - 株式会社アンドリュー（志学館）と経営統合。世界初の「企業結婚式」を実施。.KEC志学館4部門増設（KEC志学館ゼミナール、KEC志学館個別、志学館予備校、KEC志学館manavi）。
-  - [2017年](../Page/1982年.md "wikilink") - 天王寺教室開校。
-  - [2018年](../Page/1982年.md "wikilink") - プロスタキッズ生駒校開校　やまと西大寺KEC保育園開園。
+  - [1981年](../Page/1981年.md "wikilink") - 郡山教室開校。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 奈良教室開校。
+  - [1989年](../Page/1989年.md "wikilink") - 桜井教室開校。
+  - [1992年](../Page/1992年.md "wikilink") - 高の原教室開校。
+  - [1993年](../Page/1993年.md "wikilink") - 学園前教室開校。
+  - [1994年](../Page/1994年.md "wikilink") - 個別指導（現KEC個別）開設　個別生駒教室・平城（現高の原）教室開校
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 個別西大寺教室開校。
+  - [1996年](../Page/1996年.md "wikilink") - 個別奈良教室開校。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 香芝教室（現五位堂教室）開校。
+  - [2001年](../Page/2001年.md "wikilink") - 個別学園前教室開校。
+  - [2003年](../Page/2003年.md "wikilink") - 個別五位堂教室開校。
+  - [2005年](../Page/2005年.md "wikilink") - 田原本教室（ゼミ・個別）開校。
+  - [2011年](../Page/2011年.md "wikilink") - 王寺教室（ゼミ・個別）開校。
+  - [2013年](../Page/2013年.md "wikilink") - 個別登美ヶ丘教室開校。
+  - [2014年](../Page/2014年.md "wikilink") - 個別高田市駅教室開校。
+  - [2015年](../Page/2015年.md "wikilink") - 初の海外進出　ホーチミン校開校。
+  - [2016年](../Page/2016年.md "wikilink") - 株式会社アンドリュー（志学館）と経営統合。世界初の「企業結婚式」を実施。.KEC志学館4部門増設（KEC志学館ゼミナール、KEC志学館個別、志学館予備校、KEC志学館manavi）。
+  - [2017年](../Page/2017年.md "wikilink") - 天王寺教室開校。
+  - [2018年](../Page/2018年.md "wikilink") - プロスタキッズ生駒校開校　やまと西大寺KEC保育園開園。
 
 ## 校舎
 

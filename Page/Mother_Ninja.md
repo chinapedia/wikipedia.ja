@@ -98,6 +98,6 @@
 ## 外部リンク
 
   - [Mother NinjaオフィシャルMySpace](http://www.myspace.com/motherninjaspace)
-  - [マザニンAboo a.k.a. Akicoの妊婦奮闘ブログ 1+1=3 〜one plus one is three〜](http://ameblo.jp/akico-ninblo/)
+  - [マザニンAboo a.k.a. Akicoの妊婦奮闘ブログ 1+1=3 〜one plus one is three〜](https://ameblo.jp/akico-ninblo/)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

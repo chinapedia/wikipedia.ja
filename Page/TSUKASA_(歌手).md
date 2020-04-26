@@ -100,7 +100,7 @@
 
   -
   -
-  - [TSUKASAオフィシャルブログ「ライフ is ビューティフル II」](http://ameblo.jp/tsukasa-hime/) (2008年3月18日 - )
+  - [TSUKASAオフィシャルブログ「ライフ is ビューティフル II」](https://ameblo.jp/tsukasa-hime/) (2008年3月18日 - )
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink")
 

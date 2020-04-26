@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 前作『[LOVE 2000](../Page/LOVE_2000_\(安室奈美恵の曲\).md "wikilink")』から半年ぶりにリリース。4枚目のアルバム『[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")』に続くシングル。
+  - 4枚目のアルバム『[GENIUS 2000](../Page/GENIUS_2000.md "wikilink")』に続くシングル。
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が故[小渕恵三](../Page/小渕恵三.md "wikilink")元[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")から九州・沖縄サミット（主要国首脳会議）の総合音楽プロデューサーとして、サミットのイメージソングの作曲をして欲しいと頼まれた事が今作のきっかけである。またこの時、「是非安室奈美恵に歌ってもらいたい」という注文も同時に入った。その後、楽曲は完成したが小渕が急逝したことを受け、明るかった曲調をこの楽曲の曲調に変え、作り直された。曲の完成時にはCDが[森喜朗](../Page/森喜朗.md "wikilink")内閣総理大臣（当時）に贈呈された。2000年[6月21日](../Page/6月21日.md "wikilink")正午には全国計103か所の[有線放送所が一斉にこの曲をオンエアした](../Page/有線ラジオ放送.md "wikilink")\[1\]。
   - [琉球民謡](https://ja.wikipedia.org/wiki/琉球民謡 "wikilink")のメロディが取り入れられ、レコーディングでは[知名定男](https://ja.wikipedia.org/wiki/知名定男 "wikilink")、[ネーネーズ](https://ja.wikipedia.org/wiki/ネーネーズ "wikilink")、[比嘉慶子](https://ja.wikipedia.org/wiki/比嘉慶子 "wikilink")らが、バックコーラスには[沖縄県](../Page/沖縄県.md "wikilink")在住の女子小中学生（当時）30人が参加した\[2\]。[第26回主要国首脳会議](../Page/第26回主要国首脳会議.md "wikilink")の歓迎パーティーにおいて、安室・知名・比嘉・[浦添市](../Page/浦添市.md "wikilink")少年少女合唱団らによって各国首脳の前でこの曲を披露した\[3\]。
   - 安室はこの年の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）に出演し、同曲と「[think of me](https://ja.wikipedia.org/wiki/think_of_me/no_more_tears "wikilink")」の2曲を歌唱して[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")以来3年ぶり2度目のトリを務めた。

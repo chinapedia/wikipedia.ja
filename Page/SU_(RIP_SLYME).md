@@ -34,7 +34,7 @@
 
   - オレはお前じゃない / DJ FUMUYA feat. SU, Ca2o (MELLOW DOWN)
   - 望ム / OZROSAURUS
-  - Two of us "rub’delight mix" / [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - Two of us "rub’delight mix" / [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - ハタラコウ / [GAKU-MC](../Page/GAKU-MC.md "wikilink")
   - Happiness～I don't touch your old love～ (TRACK野郎PRODUCTION REMIX Feat.SU from RIP SLYME) / BETCHIN'
   - The Deep Inner Groove / GAKU-MC

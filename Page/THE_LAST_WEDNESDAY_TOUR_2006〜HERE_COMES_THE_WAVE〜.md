@@ -63,4 +63,4 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [THE LAST WEDNESDAY TOUR 2006〜HERE COMES THE WAVE〜](http://yuming.co.jp/discography/visual/visual11/)
 
-[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

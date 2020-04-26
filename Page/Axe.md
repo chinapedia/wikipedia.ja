@@ -165,8 +165,14 @@
 
 ## 外部リンク
 
-  - [THE AXE EFFECT](http://www.axeeffect.jp)
+  - [AXE](https://www.axeblack.jp/)
 
+  - [アックス | ブランド情報 | ユニリーバ・ジャパン](https://www.unilever.co.jp/brands/our-brands/axe.html)
+
+  -
+  -
+  -
+  -
 [Category:化粧品メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:化粧品メーカー・ブランド "wikilink") [Category:ユニリーバ](https://ja.wikipedia.org/wiki/Category:ユニリーバ "wikilink")
 
 1.  2007年5月号「日経エンタテインメント\!」（日経BP社）

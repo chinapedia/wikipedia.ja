@@ -32,6 +32,6 @@
 
 ## 外部リンク
 
-[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:嬰ニ短調](https://ja.wikipedia.org/wiki/Category:嬰ニ短調 "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  音楽雑誌『[BANDやろうぜ](https://ja.wikipedia.org/wiki/BANDやろうぜ "wikilink")』内の記事にて。

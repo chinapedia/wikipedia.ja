@@ -53,7 +53,7 @@
 
 デビュー25周年記念の『THE ELEPHANT KASHIMASHI IS A BAND\! 25 years history of the fighting men』の企画で2枚組としてリリース。
 1枚目は、[Stephen Marcussenがリマスタリングした全収録曲と](https://ja.wikipedia.org/wiki/スティーブン・マーカソン "wikilink")、ニューミックスされた音源4曲がボーナストラック収録。
-2枚目は、[1988年](../Page/2006年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に行われた初の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")ライブをノーカット収録。
+2枚目は、[1988年](../Page/1988年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に行われた初の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")ライブをノーカット収録。
 全て『Blu-spec CD 2』仕様。
 
 ### 収録曲

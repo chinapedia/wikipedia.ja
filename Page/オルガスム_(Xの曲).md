@@ -13,7 +13,7 @@
 
 当時のメンバーはYOSHIKI（ドラムス）、TOSHI（ボーカル）、[JUN](../Page/高井寿.md "wikilink")（ギター）、HIKARU（ベース。ジャケットには「HIKALU」と表記）。
 
-歴代の音源中と比べ、TOSHIの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")の[キーが高く](https://ja.wikipedia.org/wiki/調 "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")されている。
+歴代の音源中と比べ、TOSHIの[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")の[キーが高く](../Page/調.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")されている。
 
 シングルのタイトルはX（X JAPAN名義含む）の楽曲としては数少ない仮名表記だが、ライブ・アルバムなどに収録される際に「Orgasm」と表記されることもある。
 
@@ -53,7 +53,7 @@ CBSソニーでのオーディションでも「紅」とともに**いつもの
 
 ## 脚注
 
-[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エクスタシーレコードのシングル](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのシングル "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:変イ短調](https://ja.wikipedia.org/wiki/Category:変イ短調 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:エクスタシーレコードのシングル](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのシングル "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
 1.  小松成美『YOSHIKI/佳樹』（角川書店、2009年）p. 164
 2.  『ロッキンf』（2000年11月号）立東社

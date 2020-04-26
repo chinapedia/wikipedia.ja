@@ -39,6 +39,6 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [7 TRUTHS 7 LIES〜ヴァージンロードの彼方で](http://yuming.co.jp/discography/single/single35/)
 
-[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:変イ長調](https://ja.wikipedia.org/wiki/Category:変イ長調 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
+[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
 
 1.

@@ -967,7 +967,7 @@ KSBL-5868（通常盤）</p></td>
 | ----------- | ----------------------------------------- | ------------ | --------------------- |
 | 2017年11月22日 | **TRIBUTE OF MUCC -縁 \[en\]-**            | MSHN-044〜045 | CLASSIC               |
 | 2018年6月6日   | **hide TRIBUTE IMPULSE**                  | UPCH-2162    | D.O.D. (DRINK OR DIE) |
-| 2020年5月13日  | **GRANRODEO Tribute Album "RODEO FREAK"** | LACA-15824   |                       |
+| 発売延期        | **GRANRODEO Tribute Album "RODEO FREAK"** | LACA-15824   |                       |
 |             |                                           |              |                       |
 
 #### ゲスト参加作品

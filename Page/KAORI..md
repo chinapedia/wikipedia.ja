@@ -437,9 +437,6 @@
 
 ## 外部リンク
 
-  - [KAORI. Official Site](http://www.tosp.co.jp/i.asp?i=228kaori)
-  - [-KAORI STATION-](http://kaori.enuii.jp/)
-  - [Spunky Strider Official Site](http://spunkystrider.good.cx/)
   - [Spunky Strider Official Blog](http://spunkystrider.jugem.jp/)
 
 [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の女性声優](https://ja.wikipedia.org/wiki/Category:日本の女性声優 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:MAGES.のアーティスト](https://ja.wikipedia.org/wiki/Category:MAGES.のアーティスト "wikilink") [Category:過去のホリプロ所属者](https://ja.wikipedia.org/wiki/Category:過去のホリプロ所属者 "wikilink") [Category:過去のアクセント所属者](https://ja.wikipedia.org/wiki/Category:過去のアクセント所属者 "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

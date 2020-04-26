@@ -66,7 +66,7 @@
   - [ゲディー・リー](../Page/ゲディー・リー.md "wikilink")（[ラッシュ](../Page/ラッシュ_\(カナダのバンド\).md "wikilink")）
   - [クリス・スクワイア](../Page/クリス・スクワイア.md "wikilink")（[イエス](../Page/イエス_\(バンド\).md "wikilink")）
   - [トニー・レヴィン](../Page/トニー・レヴィン.md "wikilink")
-  - [スチュアート・ハム](https://ja.wikipedia.org/wiki/スチュアート・ハム "wikilink")
+  - [スチュアート・ハム](../Page/スチュアート・ハム.md "wikilink")
   - [ブライアン・ブロンバーグ](https://ja.wikipedia.org/wiki/ブライアン・ブロンバーグ "wikilink")
   - [ランディー・コーヴェン](https://ja.wikipedia.org/wiki/ランディー・コーヴェン "wikilink")
   - [フリー](../Page/フリー.md "wikilink")（[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")）

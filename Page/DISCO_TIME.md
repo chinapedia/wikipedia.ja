@@ -24,4 +24,4 @@
 
   - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
 
-[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:時間を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:時間を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink")
+[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:時間を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:時間を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")

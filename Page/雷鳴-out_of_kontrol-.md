@@ -22,4 +22,4 @@
 3.  **雷鳴-out of kontrol-(INSTRUMENTAL)**
 4.  **GIRL(you WANNA MOVE)(INSTRUMENTAL)**
 
-[Category:m.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:m.o.v.eの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:セガゲームスのゲーム主題歌](https://ja.wikipedia.org/wiki/Category:セガゲームスのゲーム主題歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:m.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:m.o.v.eの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:頭文字Dの音楽](https://ja.wikipedia.org/wiki/Category:頭文字Dの音楽 "wikilink") [Category:セガのゲーム主題歌](https://ja.wikipedia.org/wiki/Category:セガのゲーム主題歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

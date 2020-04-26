@@ -18,4 +18,4 @@
 3.  **Angel Eyes (INSTRUMENTAL)**
 4.  **SAIL AWAY (INSTRUMENTAL)**
 
-[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:天使を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:天使を題材とした楽曲 "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:天使を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:天使を題材とした楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

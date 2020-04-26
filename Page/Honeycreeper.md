@@ -1,7 +1,7 @@
 > この記事は[Honeycreeper](https://ja.wikipedia.org/wiki/Honeycreeper)から翻訳されています。
 
 
-『**honeycreeper**』（ハニークリーパー）は、[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売された[PUFFY](../Page/PUFFY.md "wikilink")の10枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**honeycreeper**』（ハニークリーパー）は、[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売された[PUFFY](../Page/PUFFY.md "wikilink")の9枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 収録曲
 

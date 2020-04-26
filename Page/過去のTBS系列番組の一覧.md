@@ -260,9 +260,9 @@
 
   - *[西武ライオンズ情報番組](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")*
       - [がんばれライオンズ](https://ja.wikipedia.org/wiki/がんばれライオンズ "wikilink")（1979年～1986年）
-      - [ナイスプレー\!\!ライオンズ](https://ja.wikipedia.org/wiki/ナイスプレー!!ライオンズ "wikilink")（1987年・1988年）
-      - [ナイスプレー\!\!ライオンズ サタデースペシャル](https://ja.wikipedia.org/wiki/ナイスプレー!!ライオンズ_サタデースペシャル "wikilink")（1989年～1996年）
-      - [レッツゴー\!ライオンズ](../Page/レッツゴー!ライオンズ.md "wikilink")（1997年～2002年）
+      - [ナイスプレー\!\!ライオンズ](https://ja.wikipedia.org/wiki/ナイスプレー!!ライオンズ "wikilink")（1987年～1994年）
+      - [ナイスプレー\!\!ライオンズ サタデースペシャル](https://ja.wikipedia.org/wiki/ナイスプレー!!ライオンズ_サタデースペシャル "wikilink")（1989年～1993年）
+      - [レッツゴー\!ライオンズ](../Page/レッツゴー!ライオンズ.md "wikilink")（1995年～2002年）
   - *[横浜ベイスターズ情報番組](../Page/横浜DeNAベイスターズ.md "wikilink")*
       - お願い\![EA](../Page/石橋貴明.md "wikilink")（2005年）
       - 教えて\!EA（2006年）

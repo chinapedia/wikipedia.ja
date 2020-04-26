@@ -1,7 +1,7 @@
 > この記事は[ENEOSフロンティア](https://ja.wikipedia.org/wiki/ENEOSフロンティア)から翻訳されています。
 
 
-**株式会社ENEOSフロンティア**（エネオスフロンティア）は、[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")に[本社](../Page/本社.md "wikilink")を置く、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")販売会社である。[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の完全子会社。
+**株式会社ENEOSフロンティア**（エネオスフロンティア）は、[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[京橋に](https://ja.wikipedia.org/wiki/京橋_\(東京都中央区\) "wikilink")[本社](../Page/本社.md "wikilink")を置く、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")販売会社である。[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の完全子会社。
 
 ## 概要
 

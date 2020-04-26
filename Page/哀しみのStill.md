@@ -26,4 +26,4 @@
   - [PRIVATE LOVERS](https://ja.wikipedia.org/wiki/PRIVATE_LOVERS "wikilink")
   - [1983年の音楽](../Page/1983年の音楽.md "wikilink")
 
-[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:変イ短調](https://ja.wikipedia.org/wiki/Category:変イ短調 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")
+[Category:西城秀樹の楽曲](https://ja.wikipedia.org/wiki/Category:西城秀樹の楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:RCAのシングル](https://ja.wikipedia.org/wiki/Category:RCAのシングル "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")

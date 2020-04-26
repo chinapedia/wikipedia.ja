@@ -175,6 +175,6 @@
 
   - [ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")
 
-[Category:ZIP-FMの番組](https://ja.wikipedia.org/wiki/Category:ZIP-FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組 "wikilink") [Category:AbemaRADIO](https://ja.wikipedia.org/wiki/Category:AbemaRADIO "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:名数30](https://ja.wikipedia.org/wiki/Category:名数30 "wikilink")
+[Category:ZIP-FMの番組](https://ja.wikipedia.org/wiki/Category:ZIP-FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組 "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:名数30](https://ja.wikipedia.org/wiki/Category:名数30 "wikilink")
 
 1.

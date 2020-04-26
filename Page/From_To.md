@@ -35,7 +35,7 @@
 7.  **[TRUE LOVE](../Page/TRUE_LOVE_\(藤井フミヤの曲\).md "wikilink")**
       -
         作詞・作曲:[藤井フミヤ](../Page/藤井フミヤ.md "wikilink") / 編曲:佐橋佳幸
-8.  **[桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")**
+8.  **[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")**
       -
         作詞・作曲:[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink") / 編曲:[吉川忠英](../Page/吉川忠英.md "wikilink")
 9.  **[なごり雪](../Page/なごり雪.md "wikilink")**

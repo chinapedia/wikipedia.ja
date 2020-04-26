@@ -34,7 +34,7 @@
   - [みりちゃむ（大木美里亜）](https://ja.wikipedia.org/wiki/大木美里亜 "wikilink")
   - [ゆずは（雨宮由乙花）](../Page/雨宮由乙花.md "wikilink")
   - [ももあ（瀬戸ももあ）](https://ja.wikipedia.org/wiki/瀬戸ももあ "wikilink")
-  - [ゆうちゃみ（古川優奈）](https://ja.wikipedia.org/wiki/古川優奈 "wikilink")
+  - [ゆうちゃみ（古川優奈）](../Page/古川優奈.md "wikilink")
 
 ### 過去
 

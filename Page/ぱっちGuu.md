@@ -21,9 +21,9 @@
 
   - [勝激\!パチ&スロ必勝塾](http://www.jdglobe.com/shogeki/)
 
-  - [ぱっちGuu東京エリアのイベントリポート](http://ameblo.jp/event-t/)
+  - [ぱっちGuu東京エリアのイベントリポート](https://ameblo.jp/event-t/)
 
-  - [「ぱっちGuu」の収録(取材)リポート てつやんの日記～ブログ～](http://ameblo.jp/tetsuyan-2/)
+  - [「ぱっちGuu」の収録(取材)リポート てつやんの日記～ブログ～](https://ameblo.jp/tetsuyan-2/)
 
 ## 脚注
 

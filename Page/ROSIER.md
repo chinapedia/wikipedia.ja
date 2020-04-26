@@ -51,7 +51,7 @@
 ## 外部リンク
 
   -
-[Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink") [Category:バラを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:バラを題材とした楽曲 "wikilink")
+[Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink") [Category:バラを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:バラを題材とした楽曲 "wikilink")
 
 1.  神康幸 『J/WAKE UP\! MOTHER FUCKER 今夜、世界ヲ焼キ尽クセ\!\!』 、[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")、1998年。
 2.

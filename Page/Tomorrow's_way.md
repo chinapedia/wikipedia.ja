@@ -24,4 +24,4 @@
       - 前シングル曲のアコースティックバージョン。本作以降は恒例となっている。
 4.  **Tomorrow's way 〜Instrumental〜** (4:45)
 
-[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:道を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:道を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+[Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:道を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:道を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

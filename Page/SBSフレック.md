@@ -23,6 +23,8 @@
   -
     *他のSBSホールディングス株式会社関連企業については、[SBSホールディングス\#傘下企業](https://ja.wikipedia.org/wiki/SBSホールディングス#傘下企業 "wikilink")を参照のこと。*
 
+## 脚注
+
 ## 外部リンク
 
   - [SBSフレック株式会社](http://www.sbs-flec.co.jp/)

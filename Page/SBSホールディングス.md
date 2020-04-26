@@ -27,7 +27,6 @@
   - [SBSロジコム](../Page/SBSロジコム.md "wikilink")株式会社（持株会社直接の完全子会社）
       - [SBSトランスポート](https://ja.wikipedia.org/wiki/SBSトランスポート "wikilink")株式会社（SBSロジコム傘下）
       - [SBSフレイトサービス](https://ja.wikipedia.org/wiki/SBSフレイトサービス "wikilink")株式会社（SBSロジコム傘下）
-      - [日本レコードセンター](../Page/日本レコードセンター.md "wikilink")株式会社（SBSロジコム傘下）
       - [SBSグローバルネットワーク](https://ja.wikipedia.org/wiki/SBSグローバルネットワーク "wikilink")株式会社（SBSロジコム傘下）
 
 <!-- end list -->

@@ -22,4 +22,4 @@
         [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「パナップ」CMソング
 3.  **ever since (backtracks)** (6:00)
 
-[Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:江崎グリコのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:江崎グリコのコマーシャルソング "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:江崎グリコのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:江崎グリコのコマーシャルソング "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

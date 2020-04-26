@@ -15,7 +15,7 @@
 
 ## チャート成績
 
-2007年3月5日付の[オリコン週間シングルチャートで初登場首位を獲得](../Page/オリコンチャート.md "wikilink")。嵐のシングルとしては「[PIKA★★NCHI DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")」から7作連続、通算14作目の首位獲得となった。初動売上は約20.4万枚となり、[2002年](../Page/2002年.md "wikilink")発売の「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」以来となる20万枚超を記録した\[3\]。同チャートにおける登場回数は85回\[4\]。
+2007年3月5日付の[オリコン週間シングルチャートで初登場首位を獲得](../Page/オリコンチャート.md "wikilink")。嵐のシングルとしては「[PIKA★★NCHI DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")」から7作連続、通算14作目の首位獲得となった。初動売上は20.4万枚となり、[2002年](../Page/2002年.md "wikilink")発売の「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」以来となる20万枚超を記録した\[3\]。同チャートにおける登場回数は86回\[4\]。
 
 2007年度のオリコン上半期シングルチャートでは売上約42.1万枚で3位\[5\]、同年度の年間シングルチャートでは約43.0万枚で4位にランクインした\[6\]。
 

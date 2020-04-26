@@ -33,4 +33,4 @@
 
 ## 脚注・出典
 
-[Category:1993年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1993年のデビュー・シングル "wikilink") [Category:Hideの楽曲](https://ja.wikipedia.org/wiki/Category:Hideの楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:hideが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hideが制作した楽曲 "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:1993年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1993年のデビュー・シングル "wikilink") [Category:Hideの楽曲](https://ja.wikipedia.org/wiki/Category:Hideの楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:hideが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hideが制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

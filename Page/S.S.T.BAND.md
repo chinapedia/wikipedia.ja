@@ -1,7 +1,7 @@
 > この記事は[S.S.T.BAND](https://ja.wikipedia.org/wiki/S.S.T.BAND)から翻訳されています。
 
 
-**S.S.T.BAND**（エスエスティーバンド）とは、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")並びに後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")を[アレンジし演奏することを目的として](../Page/編曲.md "wikilink")[1988年](../Page/1988年.md "wikilink")に結成された、世界初のゲームミュージック“ライブ”バンドである。
+**S.S.T.BAND**（エスエスティーバンド）とは、[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")を[アレンジし演奏することを目的として](../Page/編曲.md "wikilink")[1988年](../Page/1988年.md "wikilink")に結成された、世界初のゲームミュージック“ライブ”バンドである。
 
 「S.S.T.」とは「**Sega Sound Team**」の略であり、アルバム『SUPER SONIC TEAM』からは「**Super Sonic Team**」の略も兼ねている。
 
@@ -109,7 +109,7 @@ PlotData=
 
 ## 来歴
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月に稼働開始したセガ（後のセガ・インタラクティブ）のアーケードゲーム『[アフターバーナー](../Page/アフターバーナー_\(ゲーム\).md "wikilink")』に関連し、同年12月に[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")でイベント「アフターバーナーパニック」を開催。そのイベントにて、セガのサウンド開発者によるバンドがライブを行い、これが同バンドの前身となる\[1\]。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月に稼働開始した[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")のアーケードゲーム『[アフターバーナー](../Page/アフターバーナー_\(ゲーム\).md "wikilink")』に関連し、同年12月に[サンシャインシティ](../Page/サンシャインシティ.md "wikilink")でイベント「アフターバーナーパニック」を開催。そのイベントにて、セガのサウンド開発者によるバンドがライブを行い、これが同バンドの前身となる\[1\]。
 
 ### S.S.T.BAND
 
@@ -243,7 +243,7 @@ PlotData=
 
   -
   -
-[Category:セガグループ](https://ja.wikipedia.org/wiki/Category:セガグループ "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink")
+[Category:セガの人物](https://ja.wikipedia.org/wiki/Category:セガの人物 "wikilink") [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:1993年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に解散した音楽グループ "wikilink")
 
 1.  アルバム『MEGA SELECTION II』ライナーノーツ「The Lineage of S.S.T.BAND」より
 2.

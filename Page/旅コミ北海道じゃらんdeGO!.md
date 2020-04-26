@@ -23,6 +23,17 @@
 
 ローカルタレントがリポーターを務めている。TVhのアナウンサーは基本的に出演しないが、2014年1月11日放送の2時間30分スペシャルでは[千葉真澄](https://ja.wikipedia.org/wiki/千葉真澄 "wikilink")・[磯田彩実](https://ja.wikipedia.org/wiki/磯田彩実 "wikilink")の両アナウンサーが出演している。
 
+### 主な出演者一覧
+
+  - [相川紗登士](../Page/相川紗登士.md "wikilink")
+  - [奈良愛美](../Page/奈良愛美.md "wikilink")
+  - [飯野智行](../Page/飯野智行.md "wikilink") ‎
+  - [かみむらしんや](../Page/かみむらしんや.md "wikilink")
+  - [石川晴恵](https://ja.wikipedia.org/wiki/石川晴恵 "wikilink")
+  - [森崎博之](../Page/森崎博之.md "wikilink")
+  - [音尾琢真](../Page/音尾琢真.md "wikilink")
+  - [安藤麻実](https://ja.wikipedia.org/wiki/安藤麻実 "wikilink")
+
 ## 脚注
 
 ## 外部リンク

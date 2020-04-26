@@ -1,4 +1,4 @@
-> この記事は[NNN \(\)](https://ja.wikipedia.org/wiki/NNN_\(\))から翻訳されています。
+> この記事は[NNNストレイトニュース \(中京テレビ\)](https://ja.wikipedia.org/wiki/NNNストレイトニュース_\(中京テレビ\))から翻訳されています。
 
 
 『**NNNストレイトニュース**』（英語表記：*NNN STRAIGHT NEWS*）は、[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[中京テレビで放送されている昼の](../Page/中京テレビ放送.md "wikilink")[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")。前身は『NNN News D（[NNNニュースダッシュ](../Page/NNNニュースダッシュ.md "wikilink")）』。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](../Page/地上デジタルテレビ放送.md "wikilink")）。

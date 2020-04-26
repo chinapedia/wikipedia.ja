@@ -1,4 +1,4 @@
-> この記事は[RADiO](https://ja.wikipedia.org/wiki/RADiO)から翻訳されています。
+> この記事は[RADiOティンクル☆くるせいだーす](https://ja.wikipedia.org/wiki/RADiOティンクル☆くるせいだーす)から翻訳されています。
 
 
 **RADiO ティンクル☆くるせいだーす**（らじお てぃんくる くるせいだーす、英:*RADiO TWINKLE CRUSADERS*）は、[Lillianから発売された](../Page/ぺんしる.md "wikilink")[ティンクル☆くるせいだーす](https://ja.wikipedia.org/wiki/ティンクル☆くるせいだーす "wikilink")に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。2007年9月から2008年11月まで配信された。全31回+3回。略称は**クルくるラジオ**。

@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[デヴィ \(AV女優\)](https://ja.wikipedia.org/wiki/デヴィ_\(AV女優\))から翻訳されています。
 
 
 **デヴィ**（[1979年](../Page/1979年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\]\[2\]\[3\]\[4\] - ）は、日本で[タレント](../Page/タレント.md "wikilink")・[AV女優](../Page/AV女優.md "wikilink")・[ストリッパー](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")・[DJ](../Page/ディスクジョッキー.md "wikilink")・[歌手](../Page/歌手.md "wikilink")などの活動を行った人物。出身地は神奈川県\[5\]\[6\]もしくは東京都\[7\]とされる。[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")『[あいのり](../Page/あいのり.md "wikilink")』に出演後、AV女優に転向した\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]。
@@ -41,7 +41,7 @@ AV出演と並行して2002年頃から[ストリッパーとしても活動し]
   - 裏撮り生映像 デヴィ（2005年4月8日、裏撮り生映像）
   - RAPE SNIPER ゴールド13（2005年4月15日、[アレックス](https://ja.wikipedia.org/wiki/ネクスト_\(アダルトビデオ\) "wikilink")）共演:[藍山みなみ](../Page/藍山みなみ.md "wikilink")、ミサト
   - Heat Dancing Beat Paradise volume.02（2005年4月30日、[ラハイナ東海](../Page/ラハイナ東海.md "wikilink")）共演:水野リコ、神谷かおり
-  - 妄想カウンセラー、愛のセックスクリニック セクシーキュートなデヴィ先生（2005年5月10日、[AVS](https://ja.wikipedia.org/wiki/エー・ヴィ・エス "wikilink")）
+  - 妄想カウンセラー、愛のセックスクリニック セクシーキュートなデヴィ先生（2005年5月10日、AVS）
   - 外露出恥行 2（2005年5月20日、[ドリームクリエイト](https://ja.wikipedia.org/wiki/麒麟堂 "wikilink")）
   - エクスタシー 快感ノンストップ デヴィ（2005年6月1日、寿幻夢）
   - 美人若奥様 赤貝全開ドキュメント\!（2005年6月24日、デジタルバンク）他5名出演
@@ -50,7 +50,7 @@ AV出演と並行して2002年頃から[ストリッパーとしても活動し]
   - コスプレダンスパラダイス（2005年7月23日、ラハイナ東海）共演:相沢夏海、水沢ダイヤ、[中山りお](../Page/中山りお.md "wikilink")、神谷かおり、水野リコ
   - ヒロインボディーブロー 4（2005年8月12日、GIGA）
   - 中出しマニア デヴィ（2005年9月5日、中出し娘）
-  - エデンの淫獣 3 従順なウェット&メッシー デヴィ（2005年9月9日、[アロマ企画](https://ja.wikipedia.org/wiki/アロマ企画 "wikilink")）
+  - エデンの淫獣 3 従順なウェット&メッシー デヴィ（2005年9月9日、アロマ企画）
   - うちくる\!?デヴィ（2005年10月28日、アロマ企画）
   - 第4弾バスガイドデヴィとイク\!中出し温泉バスツアー全10発 あい○り出演（2005年12月4日、[ディープス](../Page/ディープス.md "wikilink")）
   - 憧れの巨乳痴女お姉さん4時間（2005年12月9日、[メディアステーション](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")）他出演:[黒崎あかり](https://ja.wikipedia.org/wiki/黒崎あかり "wikilink")、片桐美咲、徳田まりな、[緒川さら](../Page/緒川さら.md "wikilink")、[MISAKI](https://ja.wikipedia.org/wiki/MISAKI_\(AV女優\) "wikilink")、菜月レオン、海老川せり、[月野しずく](../Page/月野しずく.md "wikilink")、葉月真琴、内田詩織
@@ -96,8 +96,6 @@ AV出演と並行して2002年頃から[ストリッパーとしても活動し]
   - [Artist Data デヴィ's](http://www.artism.jp/ad_m024.html) - ARTiSM
 
   - \- 公式ブログ
-
-  - [MOODYZ:デヴィ](http://www.moodyz.com/actress/-/detail/=/id=133/) - [MOODYZ](../Page/MOODYZ.md "wikilink")による女優紹介
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:ストリッパー](https://ja.wikipedia.org/wiki/Category:ストリッパー "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:あいのり](https://ja.wikipedia.org/wiki/Category:あいのり "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink")
 

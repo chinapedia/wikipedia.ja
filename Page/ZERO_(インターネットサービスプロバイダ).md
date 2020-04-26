@@ -1,4 +1,4 @@
-> この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
+> この記事は[ZERO \(インターネットサービスプロバイダ\)](https://ja.wikipedia.org/wiki/ZERO_\(インターネットサービスプロバイダ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:pokettoboard.jpg "wikilink") **ZERO**（ゼロ）は、[GMOインターネット](../Page/GMOインターネット.md "wikilink")株式会社が運営する[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）。

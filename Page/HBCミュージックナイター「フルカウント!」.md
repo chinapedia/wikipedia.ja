@@ -1,4 +1,4 @@
-> この記事は[HBC!](https://ja.wikipedia.org/wiki/HBC!)から翻訳されています。
+> この記事は[HBCミュージックナイター「フルカウント!」](https://ja.wikipedia.org/wiki/HBCミュージックナイター「フルカウント!」)から翻訳されています。
 
 
 '''HBCミュージックナイター「フルカウント\!」 '''は、[HBCラジオ](../Page/HBCラジオ.md "wikilink")が[2007年](../Page/2007年.md "wikilink")からプロ野球のオフシーズンに[生放送](../Page/生放送.md "wikilink")している[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

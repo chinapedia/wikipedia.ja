@@ -1,4 +1,4 @@
-> この記事は[ \(F\)](https://ja.wikipedia.org/wiki/_\(F\))から翻訳されています。
+> この記事は[タイムパトロール \(藤子・F・不二雄\)](https://ja.wikipedia.org/wiki/タイムパトロール_\(藤子・F・不二雄\))から翻訳されています。
 
 
 **タイムパトロール**は、[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")の漫画作品『[T・Pぼん](../Page/T・Pぼん.md "wikilink")』や『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』に登場する組織。

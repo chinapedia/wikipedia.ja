@@ -1,4 +1,4 @@
-> この記事は[Because of you \(w-inds.\)](https://ja.wikipedia.org/wiki/Because_of_you_\(w-inds.\))から翻訳されています。
+> この記事は[Because of you \(w-inds.の曲\)](https://ja.wikipedia.org/wiki/Because_of_you_\(w-inds.の曲\))から翻訳されています。
 
 
 「**Because of you**」（ビコーズ・オブ・ユー）は、[2002年](../Page/2002年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")にリリースされた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")グループ[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の、6枚目の[シングル](../Page/シングル.md "wikilink")である。

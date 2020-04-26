@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[アムホテリシンB](https://ja.wikipedia.org/wiki/アムホテリシンB)から翻訳されています。
 
 
 **アムホテリシンB**（アンフォテリシンB、アンポテリシンB、amphotericin B）とは[ポリエン系抗生物質](https://ja.wikipedia.org/wiki/ポリエン系抗生物質 "wikilink")の1つ。[真菌の](../Page/菌類.md "wikilink")[細胞膜](https://ja.wikipedia.org/wiki/細胞膜 "wikilink")の[エルゴステロール](../Page/エルゴステロール.md "wikilink")と結合し、膜に小孔を作ることにより殺菌的に作用する。単体では黄色の結晶。

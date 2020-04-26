@@ -1,4 +1,4 @@
-> この記事は[Akina Nakamori. 2001. 20th Anniversary Live It\'s brand new day](https://ja.wikipedia.org/wiki/Akina_Nakamori._2001._20th_Anniversary_Live_It\'s_brand_new_day)から翻訳されています。
+> この記事は[Akina Nakamori. 2001. 20th Anniversary Live 〜It\'s brand new day〜](https://ja.wikipedia.org/wiki/Akina_Nakamori._2001._20th_Anniversary_Live_〜It\'s_brand_new_day〜)から翻訳されています。
 
 
 『**Akina Nakamori. 2001. 20th Anniversary Live 〜It's brand new day〜**』（アキナ・ナカモリ 2001 トゥェンティース・アニバーサリー・ライブ イッツ・ブラン・ニューデイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のライブ・ビデオ。この映像作品は2001年9月27日に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")からリリースされた ([VHS](../Page/VHS.md "wikilink"): TKVU-62877, [DVD](../Page/DVD.md "wikilink"): TKBU-5082)。
@@ -150,7 +150,7 @@
 ## 外部リンク
 
   -
-[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:2001年のコンサート](https://ja.wikipedia.org/wiki/Category:2001年のコンサート "wikilink") [Category:2001年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2001年の音楽関連の映像作品 "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:2001年のコンサート](https://ja.wikipedia.org/wiki/Category:2001年のコンサート "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

@@ -10,6 +10,7 @@
   - [日本テレビ系列の音楽番組](../Page/日本テレビ放送網.md "wikilink")『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")』のランキングでは5位にランクインされ、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")と[MAXによって唄われている](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
   - 音楽番組出演などによるプロモーション活動はほとんど行われなかった。
   - [久保田利伸](../Page/久保田利伸.md "wikilink")作曲の作品は、それまでシングルのカップリングやアルバムには収録されていたが、シングルA面曲としては初である。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 
@@ -34,4 +35,4 @@
       - Complete SINGLES BOX
       - 30th Anniversary THE PERFECT SINGLES BOX
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:久保田利伸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田利伸が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:キリンのビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:キリンのビールのコマーシャルソング "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:久保田利伸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田利伸が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:キリンのビールのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:キリンのビールのコマーシャルソング "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")

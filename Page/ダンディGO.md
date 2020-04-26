@@ -1,4 +1,4 @@
-> この記事は[GO](https://ja.wikipedia.org/wiki/GO)から翻訳されています。
+> この記事は[ダンディGO](https://ja.wikipedia.org/wiki/ダンディGO)から翻訳されています。
 
 
 **ダンディGO** （ダンディ ゴー、7月19日 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャグリング](../Page/ジャグリング.md "wikilink")・エンターティナー。本名、**三浦 剛**（みうらつよし）。
@@ -70,7 +70,7 @@ TBS『[しあわせ家族計画](../Page/しあわせ家族計画.md "wikilink")
 ## 外部リンク
 
   - [ダンディGO 公式サイト](http://www.dandygo.com)
-  - [ダンディGO ブログ「GO風呂」](http://ameblo.jp/dandygo)
+  - [ダンディGO ブログ「GO風呂」](https://ameblo.jp/dandygo)
   - [オフィスGO 公式サイト](http://officego.net)
   - [パフォーマー派遣](http://perfomer.co.jp)　
   - [ジャグササイズ 公式サイト](http://dandygo.com/juggxercise.htm)

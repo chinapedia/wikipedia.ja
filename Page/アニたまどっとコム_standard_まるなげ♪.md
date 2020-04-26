@@ -1,4 +1,4 @@
-> この記事は[ standard ](https://ja.wikipedia.org/wiki/_standard_)から翻訳されています。
+> この記事は[アニたまどっとコム standard まるなげ♪](https://ja.wikipedia.org/wiki/アニたまどっとコム_standard_まるなげ♪)から翻訳されています。
 
 
 『**アニたまどっとコム standard まるなげ♪**』（あにたまどっとこむ スタンダード まるなげ）は、[ラジオ関西](../Page/ラジオ関西.md "wikilink")の[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")枠内で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

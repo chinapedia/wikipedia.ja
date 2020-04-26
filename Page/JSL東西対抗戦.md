@@ -1,4 +1,4 @@
-> この記事は[JSL](https://ja.wikipedia.org/wiki/JSL)から翻訳されています。
+> この記事は[JSL東西対抗戦](https://ja.wikipedia.org/wiki/JSL東西対抗戦)から翻訳されています。
 
 
 **JSL東西対抗戦**（JSLとうざいたいこうせん）は、[1966年](../Page/1966年.md "wikilink")から[1991年](../Page/1991年.md "wikilink")にかけて[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")（JSL）が主催した対抗試合であり、後の[JOMO CUPの始祖となる大会である](https://ja.wikipedia.org/wiki/JOMO_CUP "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")からは**JSLオールスターサッカー**として開催された。

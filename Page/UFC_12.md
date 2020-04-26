@@ -60,8 +60,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-12-Judgement-Day)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc12.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc12.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-12-Judgement-Day-20)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのアラバマ州大会](https://ja.wikipedia.org/wiki/Category:UFCのアラバマ州大会 "wikilink") [Category:1997年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1997年の総合格闘技 "wikilink") [Category:1997年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1997年のアメリカ合衆国のスポーツ "wikilink") [Category:1997年2月](https://ja.wikipedia.org/wiki/Category:1997年2月 "wikilink")

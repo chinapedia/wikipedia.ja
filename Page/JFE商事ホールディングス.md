@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFE商事ホールディングス](https://ja.wikipedia.org/wiki/JFE商事ホールディングス)から翻訳されています。
 
 
 **JFE商事ホールディングス**（ジェイエフイーしょうじホールディングス）は、かつて存在した[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[持株会社](../Page/持株会社.md "wikilink")（[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")）である。[JFE商事](../Page/JFE商事.md "wikilink")などを傘下にもっていた。

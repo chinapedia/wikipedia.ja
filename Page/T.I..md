@@ -1,7 +1,7 @@
 > この記事は[T.I.](https://ja.wikipedia.org/wiki/T.I.)から翻訳されています。
 
 
-**T.I.**（T.I.、**ティーアイ**、本名：クリフォード・ジョセフ・ハリス・Jr.　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")出身の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[エグゼクティブプロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブプロデューサー "wikilink")である。グランド・ハッスル・レコードの[最高経営責任者](../Page/最高経営責任者.md "wikilink")でもある。\[1\] T.I.P.という[オルター・エゴ](../Page/オルター・エゴ.md "wikilink")を自分の曲の中で演じることがある。ファンの間では、名前の「T.I.P.」は「Ten Inch Playa」の略だと言われている。\[2\]
+**T.I.**（T.I.、**ティーアイ**、本名：クリフォード・ジョセフ・ハリス・Jr.　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")出身の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[エグゼクティブプロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブプロデューサー "wikilink")である。グランド・ハッスル・レコードの[最高経営責任者](../Page/最高経営責任者.md "wikilink")でもある。\[1\] T.I.P.という[オルター・エゴ](../Page/オルター・エゴ.md "wikilink")を自分の曲の中で演じることがある。ファンの間では、名前の「T.I.P.」は「Ten Inch Playa(25センチの陰茎を持つプレイボーイの意)」の略だと言われている。\[2\]
 自身のことを『キング・オブ・ザ・サウス（南部の王）』と呼ぶことで有名。また、ラッパー[ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")には、『サウスの[ジェイ・Z](../Page/ジェイ・Z.md "wikilink")』と才能を称えられたことがある。
 
 ## バイオグラフィー

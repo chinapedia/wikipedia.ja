@@ -1,4 +1,4 @@
-> この記事は[CP](https://ja.wikipedia.org/wiki/CP)から翻訳されています。
+> この記事は[CP戦士ぶちエージャー](https://ja.wikipedia.org/wiki/CP戦士ぶちエージャー)から翻訳されています。
 
 
 **CP戦士ぶちエージャー**は、[山口ケーブルビジョン](../Page/山口ケーブルビジョン.md "wikilink")が製作・放送していた、ローカル戦士番組である。放送期間は[2007年](../Page/2007年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")\[1\]〜[2009年](../Page/2009年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")\[2\]。

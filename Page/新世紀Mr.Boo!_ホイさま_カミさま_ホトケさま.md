@@ -1,4 +1,4 @@
-> この記事は[Mr.Boo!   ](https://ja.wikipedia.org/wiki/Mr.Boo!___)から翻訳されています。
+> この記事は[新世紀Mr.Boo! ホイさま カミさま ホトケさま](https://ja.wikipedia.org/wiki/新世紀Mr.Boo!_ホイさま_カミさま_ホトケさま)から翻訳されています。
 
 
 『**新世紀Mr.Boo\! ホイさま カミさま ホトケさま**』（原題：鬼馬狂想曲、英題：*Fantasia*）は、[2003年](../Page/2003年.md "wikilink")製作[2004年](../Page/2004年.md "wikilink")公開の[香港映画](../Page/香港映画.md "wikilink")。

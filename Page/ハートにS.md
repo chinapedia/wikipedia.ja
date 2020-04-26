@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ハートにS](https://ja.wikipedia.org/wiki/ハートにS)から翻訳されています。
 
 
 『**ハートにS**』（ハートにエス）は[1994年](../Page/1994年.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[フジテレビで放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の深夜[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放送日時は月曜24:50-25:20。

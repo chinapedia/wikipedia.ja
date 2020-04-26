@@ -1,4 +1,4 @@
-> この記事は[STV](https://ja.wikipedia.org/wiki/STV)から翻訳されています。
+> この記事は[STVニューススポット](https://ja.wikipedia.org/wiki/STVニューススポット)から翻訳されています。
 
 
 『**STVニューススポット**』（エス・ティー・ヴィー・ニュース・スポット）は、[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")（STV）で放送されていた[ニュース番組のタイトルである](../Page/報道番組.md "wikilink")。終了時点での放送時間は毎週[日曜日](../Page/日曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 20:54 - 21:00。ただし、番組改編期などには時間変更（たいていは21:24）もしくは休止（主に19:00からの3時間を超える特番編成時）になる場合もあった。
@@ -13,7 +13,7 @@
 
 ## キャスター
 
-STVアナウンサーが日替わりで担当。『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』（日曜には『[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")』）ローカルパートと同じ担当である場合が多い。
+STVアナウンサーが日替わりで担当。『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』（日曜には『[Going\!Sports\&News](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")』）ローカルパートと同じ担当である場合が多い。
 
 ## 関連項目
 

@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[恋と海とTシャツと](https://ja.wikipedia.org/wiki/恋と海とTシャツと)から翻訳されています。
 
 
 「**恋と海とTシャツと**」（こいとうみとTシャツと）は、[天地真理](../Page/天地真理.md "wikilink")通算10枚目の[シングル](../Page/シングル.md "wikilink")。1974年6月1日発売。発売元は[CBS・ソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）。売上15万枚

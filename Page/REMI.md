@@ -173,7 +173,7 @@
 ## 外部リンク
 
   - [-Jewel Seasons-Remi official website](http://remi-stargarnet.net/) - 本人のオフィシャルウェブサイト
-  - [時は琥珀から青玉へ](http://blog.goo.ne.jp/remi117) - 本人によるブログ
+  - [時は琥珀から青玉へ](https://blog.goo.ne.jp/remi117) - 本人によるブログ
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Sound_Horizon](https://ja.wikipedia.org/wiki/Category:Sound_Horizon "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[BIG WAVE!!!](https://ja.wikipedia.org/wiki/BIG_WAVE!!!)から翻訳されています。
+> この記事は[勝利のBIG WAVE!!!](https://ja.wikipedia.org/wiki/勝利のBIG_WAVE!!!)から翻訳されています。
 
 
 「**勝利のBIG WAVE\!\!\!**」（しょうりのビッグ ウェーブ）は、[アテナ&ロビケロッツ](../Page/アテナ&ロビケロッツ.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。

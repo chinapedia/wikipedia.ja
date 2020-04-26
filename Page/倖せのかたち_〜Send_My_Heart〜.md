@@ -1,4 +1,4 @@
-> この記事は[ Send My Heart](https://ja.wikipedia.org/wiki/_Send_My_Heart)から翻訳されています。
+> この記事は[倖せのかたち 〜Send My Heart〜](https://ja.wikipedia.org/wiki/倖せのかたち_〜Send_My_Heart〜)から翻訳されています。
 
 
 『**倖せのかたち 〜Send My Heart〜**』（しあわせのかたち センド・マイ・ハート）は[1996年](../Page/1996年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")44枚目の[シングル](../Page/シングル.md "wikilink")。

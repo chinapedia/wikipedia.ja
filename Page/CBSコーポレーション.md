@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBSコーポレーション](https://ja.wikipedia.org/wiki/CBSコーポレーション)から翻訳されています。
 
 
 **CBSコーポレーション**（CBS Corporation）は、かつて存在した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")である。アメリカ[3大ネットワーク](https://ja.wikipedia.org/wiki/3大ネットワーク "wikilink")のひとつ[CBS](../Page/CBS.md "wikilink")などを所有していた。本社はニューヨーク・マンハッタン区のCBSビルヂングに置いていた。

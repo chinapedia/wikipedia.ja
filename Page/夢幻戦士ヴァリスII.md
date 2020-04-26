@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[夢幻戦士ヴァリスII](https://ja.wikipedia.org/wiki/夢幻戦士ヴァリスII)から翻訳されています。
 
 
 **夢幻戦士ヴァリスII**（**むげんせんしヴァリス**、**Valis: The Fantasm Soldier**）は、[1989年](../Page/1989年.md "wikilink")に[日本テレネットが発売した](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")、横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

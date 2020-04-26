@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[LOVEシーズン](https://ja.wikipedia.org/wiki/LOVEシーズン)から翻訳されています。
 
 
 『**LOVEシーズン**』（*A Change of Seasons*）は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")制作の[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")。

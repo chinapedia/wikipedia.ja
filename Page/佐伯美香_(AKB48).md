@@ -1,4 +1,4 @@
-> この記事は[ \(AKB48\)](https://ja.wikipedia.org/wiki/_\(AKB48\))から翻訳されています。
+> この記事は[佐伯美香 \(AKB48\)](https://ja.wikipedia.org/wiki/佐伯美香_\(AKB48\))から翻訳されています。
 
 
 **佐伯 美香**（さえき みか、[1989年](../Page/1989年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性アイドルグループ[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")・[バイトAKBの元メンバーである](https://ja.wikipedia.org/wiki/AKB48のオーディション#バイトAKB48_プロジェクト "wikilink")。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。元[AKS](../Page/AKS.md "wikilink")所属。現・AKS総務部社員。

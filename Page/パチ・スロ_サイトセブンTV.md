@@ -1,4 +1,4 @@
-> この記事は[ TV](https://ja.wikipedia.org/wiki/_TV)から翻訳されています。
+> この記事は[パチ・スロ サイトセブンTV](https://ja.wikipedia.org/wiki/パチ・スロ_サイトセブンTV)から翻訳されています。
 
 
 **パチ・スロ サイトセブンTV**（パチ・スロ サイトセブンティーヴィー）は、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・[パチスロ](../Page/パチスロ.md "wikilink")の情報を扱う[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。
@@ -35,7 +35,7 @@
   - [パチスロバトルリーグ](https://ja.wikipedia.org/wiki/パチスロバトルリーグ "wikilink")
   - サイトセブンカップ
   - [ういちとヒカルのおもスロいテレビ](https://ja.wikipedia.org/wiki/ういちとヒカルのおもスロいテレビ "wikilink")
-  - [ブラマヨ吉田のガケっぱち\!\!](https://ja.wikipedia.org/wiki/ブラマヨ吉田のガケっぱち!! "wikilink")
+  - [ブラマヨ吉田のガケっぱち\!\!](../Page/ブラマヨ吉田のガケっぱち!!.md "wikilink")
   - [パチマガGIGA](https://ja.wikipedia.org/wiki/パチンコ攻略マガジン "wikilink") WARS
   - [海賊王船長タック](https://ja.wikipedia.org/wiki/海賊王船長タック "wikilink")
   - [どうにか貧乏家族](https://ja.wikipedia.org/wiki/どうにか貧乏家族 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[JBL](https://ja.wikipedia.org/wiki/JBL)から翻訳されています。
+> この記事は[JBLオールスターゲーム](https://ja.wikipedia.org/wiki/JBLオールスターゲーム)から翻訳されています。
 
 
 **JBL[オールスターゲーム](../Page/オールスターゲーム.md "wikilink")**（JBL All-Star Game）は、[日本バスケットボールリーグ](https://ja.wikipedia.org/wiki/日本バスケットボールリーグ "wikilink")（JBL）が主催していた対抗試合である。

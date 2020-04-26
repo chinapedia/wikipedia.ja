@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK双葉ラジオ中継局](https://ja.wikipedia.org/wiki/NHK双葉ラジオ中継局)から翻訳されています。
 
 
 **NHK双葉ラジオ中継局**（エヌエイチケイふたばラジオちゅうけいきょく）は、[福島県](../Page/福島県.md "wikilink")[双葉郡](../Page/双葉郡.md "wikilink")[富岡町](../Page/富岡町.md "wikilink")にある[NHK福島放送局](../Page/NHK福島放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。なお、正式な中継局名は、『双葉ラジオ中継放送所』である\[1\]。
@@ -21,7 +21,7 @@
 
 ## 外部リンク
 
-  - [10,000世帯の難聴が解消-福島県双葉地区のラジオ中継局に免許-](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/tohoku/hodo/h1001-03/0330futa.html) - 総務省東北総合通信局平成10年度報道資料(1998年3月30日プレスリリース)
+  - [10,000世帯の難聴が解消-福島県双葉地区のラジオ中継局に免許-](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/tohoku/hodo/h1001-03/0330futa.html) - 総務省東北総合通信局平成10年度報道資料(1998年3月30日プレスリリース)
 
 ## 関連項目
 

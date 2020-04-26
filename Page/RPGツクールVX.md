@@ -1,4 +1,4 @@
-> この記事は[RPGVX](https://ja.wikipedia.org/wiki/RPGVX)から翻訳されています。
+> この記事は[RPGツクールVX](https://ja.wikipedia.org/wiki/RPGツクールVX)から翻訳されています。
 
 
 『**RPGツクールVX**』（アールピージーツクールブイエックス）は、[2007年](../Page/2007年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から発売されたRPG制作ソフト。「VX」は Vista XP の略であると考えられるが、真相は公開されていない。

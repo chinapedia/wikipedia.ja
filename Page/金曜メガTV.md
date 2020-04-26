@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[金曜メガTV](https://ja.wikipedia.org/wiki/金曜メガTV)から翻訳されています。
 
 
 『**金曜メガTV**』（きんようメガティーヴィー）は、1996年10月11日から1997年3月28日まで[フジテレビ系列局が編成していた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")である。編成時間は毎週金曜 19:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

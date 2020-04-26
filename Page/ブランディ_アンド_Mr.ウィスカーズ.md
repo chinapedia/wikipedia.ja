@@ -1,4 +1,4 @@
-> この記事は[  Mr.](https://ja.wikipedia.org/wiki/__Mr.)から翻訳されています。
+> この記事は[ブランディ アンド Mr.ウィスカーズ](https://ja.wikipedia.org/wiki/ブランディ_アンド_Mr.ウィスカーズ)から翻訳されています。
 
 
 『**ブランディ アンド Mr.ウィスカーズ**』（原題：*Brandy & Mr. Whiskers*）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アニメーション](../Page/アニメーション.md "wikilink")作品。[2005年](../Page/2005年.md "wikilink")からアメリカの[ディズニーチャンネル](https://ja.wikipedia.org/wiki/ディズニーチャンネル "wikilink")で放送を開始し、日本では[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")で21話まで放送された後、同年12月から[ディズニーXD](https://ja.wikipedia.org/wiki/ディズニーXD "wikilink")（旧：[トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")）に移転してリピート放送されている。全39話。16話を除き1話2本構成で計30分前後の短編。
@@ -9,7 +9,7 @@
 
 ## アニメの背景
 
-南米のアマゾン（ブラジル）を舞台にしたもの。現実とは異なって動物たちに文化などがある。本作に登場するキャラクターは擬人動物が多い（一部のエピソードで、ブランディの飼い主や救助隊など人が登場する場面あり）。作中には実写の写真クリップが登場するなど現実とリンクしている部分もある。マヤの遺跡など[古代文明](https://ja.wikipedia.org/wiki/古代文明 "wikilink")を代表する建造物が登場することもある。
+南米のアマゾン（ブラジル）を舞台にしたもの。現実とは異なって動物たちに文化などがある。本作に登場するキャラクターは擬人化した動物が多い（一部のエピソードで、ブランディの飼い主や救助隊など人が登場する場面あり）。作中には実写の写真クリップが登場するなど現実とリンクしている部分もある。マヤの遺跡など[古代文明](https://ja.wikipedia.org/wiki/古代文明 "wikilink")を代表する建造物が登場することもある。
 
 ## 通貨
 
@@ -32,7 +32,7 @@
     ブランディとウィスカーズがジャングルではじめて知り合った蛇。出会った時はウィスカーズを食べようとしたが友だちになった。夢は手を持つことで、実現したが画面には映っていない。エドと両想いだが、継続している気配がない。歌が上手いがあがり性のため人（動物）前では歌えない。「ヴィック」というヘビと仲良くしたことがあった。20歳。
   - エド
     声 - [落合弘治](../Page/落合弘治.md "wikilink")/英 - [トム・ケニー](../Page/トム・ケニー.md "wikilink")
-    [カワウソ](https://ja.wikipedia.org/wiki/カワウソ "wikilink")。ウィスカーズと仲が良い。兄がいる。のんきな性格で、嫌味を言えるよう努力しようと思ったことがある。話好きだが、長く退屈な話になりがちで、話の途中で相手が眠ったり、無視されその場を離れられたりするが、話が終わるまでそのことには気がつかない。ローラボアと付き合ったが続いているかわからない。好物はカキ。
+    [カワウソ](../Page/カワウソ.md "wikilink")。ウィスカーズと仲が良い。兄がいる。のんきな性格で、嫌味を言えるよう努力しようと思ったことがある。話好きだが、長く退屈な話になりがちで、話の途中で相手が眠ったり、無視されその場を離れられたりするが、話が終わるまでそのことには気がつかない。ローラボアと付き合ったが続いているかわからない。好物はカキ。
   - メリル&シェリル
     声 - [日野由利加](../Page/日野由利加.md "wikilink")/英 - シェリー・シェパード
     双子のオオハシ。仲が悪く、互いで悪口を言いあうケンカをしている。
@@ -807,6 +807,6 @@
   - [ブランディアンドMr.ウィスカーズ番組サイト（英語）](http://tv.disney.go.com/disneychannel/brandyandmrwhiskers/index.html)
 
   -
-[Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:ディズニー・チャンネル](https://ja.wikipedia.org/wiki/Category:ディズニー・チャンネル "wikilink") [Category:2000年代のアメリカ合衆国のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年代のアメリカ合衆国のテレビアニメ "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:イヌを主人公にした物語](https://ja.wikipedia.org/wiki/Category:イヌを主人公にした物語 "wikilink") [Category:ウサギを主人公にした物語](https://ja.wikipedia.org/wiki/Category:ウサギを主人公にした物語 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:フロリダ州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:フロリダ州を舞台としたテレビ番組 "wikilink") [Category:シュール・コメディ](https://ja.wikipedia.org/wiki/Category:シュール・コメディ "wikilink")
+[Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:ディズニー・チャンネル](https://ja.wikipedia.org/wiki/Category:ディズニー・チャンネル "wikilink") [Category:2000年代のアメリカ合衆国のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年代のアメリカ合衆国のテレビアニメ "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:イヌを主人公にした物語](https://ja.wikipedia.org/wiki/Category:イヌを主人公にした物語 "wikilink") [Category:ウサギを主人公にした物語](https://ja.wikipedia.org/wiki/Category:ウサギを主人公にした物語 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:フロリダ州を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:フロリダ州を舞台としたテレビ番組 "wikilink") [Category:シュール・コメディアニメ](https://ja.wikipedia.org/wiki/Category:シュール・コメディアニメ "wikilink")
 
 1.  シリーズ中盤ではEDクレジット字幕で「堀内『真』雄」と表記されている。（ギャスパー役の中村秀利も同様）

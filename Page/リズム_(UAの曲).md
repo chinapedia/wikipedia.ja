@@ -1,4 +1,4 @@
-> この記事は[ \(UA\)](https://ja.wikipedia.org/wiki/_\(UA\))から翻訳されています。
+> この記事は[リズム \(UAの曲\)](https://ja.wikipedia.org/wiki/リズム_\(UAの曲\))から翻訳されています。
 
 
 「**リズム**」(RHYTHM)は、[1996年](../Page/1996年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に[歌手](../Page/歌手.md "wikilink")の[UAが](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")[リリースした通算](https://ja.wikipedia.org/wiki/発売 "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[全国FC加盟店協会](https://ja.wikipedia.org/wiki/全国FC加盟店協会)から翻訳されています。
 
 
 **全国FC加盟店協会**（ぜんこくフランチャイズかめいてんきょうかい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")や[飲食店](../Page/飲食店.md "wikilink")などの[フランチャイズ](../Page/フランチャイズ.md "wikilink")（FC）加盟している業者による任意団体である。英文略称・**FCA**。旧称・**コンビニ・FC加盟店全国協議会**。

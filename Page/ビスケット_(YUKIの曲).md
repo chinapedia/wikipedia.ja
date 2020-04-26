@@ -1,4 +1,4 @@
-> この記事は[ \(YUKI\)](https://ja.wikipedia.org/wiki/_\(YUKI\))から翻訳されています。
+> この記事は[ビスケット \(YUKIの曲\)](https://ja.wikipedia.org/wiki/ビスケット_\(YUKIの曲\))から翻訳されています。
 
 
 「**ビスケット**」は、[YUKIの通算](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")15作目となる[シングル](../Page/シングル.md "wikilink")。YUKI初の[配信限定シングルである](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")。

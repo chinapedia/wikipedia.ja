@@ -1,4 +1,4 @@
-> この記事は[Singles \(MY LITTLE LOVER\)](https://ja.wikipedia.org/wiki/Singles_\(MY_LITTLE_LOVER\))から翻訳されています。
+> この記事は[Singles \(MY LITTLE LOVERのアルバム\)](https://ja.wikipedia.org/wiki/Singles_\(MY_LITTLE_LOVERのアルバム\))から翻訳されています。
 
 
 『**singles**』（シングルズ）は、[2001年](../Page/2001年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売された、[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

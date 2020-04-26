@@ -1,4 +1,4 @@
-> この記事は[BigU](https://ja.wikipedia.org/wiki/BigU)から翻訳されています。
+> この記事は[和歌山県立情報交流センターBig・U](https://ja.wikipedia.org/wiki/和歌山県立情報交流センターBig・U)から翻訳されています。
 
 
 **和歌山県立情報交流センターBig・U**（わかやまけんりつじょうほうこうりゅうせんたー ビッグ・ユー、*Wakayama Prefectural Information Exchange Center Big-U*）とは、[和歌山県](../Page/和歌山県.md "wikilink")[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")[新庄町にある複合文化施設である](https://ja.wikipedia.org/wiki/新庄町_\(田辺市\) "wikilink")。貸施設や[カフェ](../Page/カフェ.md "wikilink")、[レストラン](../Page/レストラン.md "wikilink")、[図書館](../Page/図書館.md "wikilink")や[大学](../Page/大学.md "wikilink")施設などからなる。[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")和歌山IT教育機構が[指定管理者](../Page/指定管理者.md "wikilink")として運営する。
@@ -174,10 +174,13 @@
 
 ## 外部リンク
 
-  - [和歌山県立情報交流センターBig・U](http://www.big-u.jp/)
+  -
   - [和歌山県立紀南図書館](https://www.lib.wakayama-c.ed.jp/guide/kinan/index.html)
+
   - [和歌山大学南紀熊野サテライト](http://www.wakayama-u.ac.jp/nanki-kumano/)
+
   - [和歌山県立教育センター学びの丘](http://www.wakayama-edc.big-u.jp/)
+
   - [特定非営利活動法人 和歌山IT教育機構](http://www.wite.jp/)
 
 [Category:和歌山県の図書館](https://ja.wikipedia.org/wiki/Category:和歌山県の図書館 "wikilink") [Category:和歌山大学](https://ja.wikipedia.org/wiki/Category:和歌山大学 "wikilink") [Category:田辺市の教育](https://ja.wikipedia.org/wiki/Category:田辺市の教育 "wikilink") [Category:2004年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2004年竣工の日本の建築物 "wikilink") [Category:2005年開業の施設](https://ja.wikipedia.org/wiki/Category:2005年開業の施設 "wikilink") [Category:2005年設立の教育機関](https://ja.wikipedia.org/wiki/Category:2005年設立の教育機関 "wikilink")

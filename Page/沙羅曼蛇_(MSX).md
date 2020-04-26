@@ -1,4 +1,4 @@
-> この記事は[ \(MSX\)](https://ja.wikipedia.org/wiki/_\(MSX\))から翻訳されています。
+> この記事は[沙羅曼蛇 \(MSX\)](https://ja.wikipedia.org/wiki/沙羅曼蛇_\(MSX\))から翻訳されています。
 
 
 『**沙羅曼蛇**』（サラマンダ *SALAMANDER*）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）から発売された[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。その前年に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として稼働された[同名の作品の移植作だが](../Page/沙羅曼蛇.md "wikilink")、アーケード版などと共通する要素はタイトルとBGMくらいで、ステージ構成などは大幅に変更されている。

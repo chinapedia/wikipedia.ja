@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Qでん百科](https://ja.wikipedia.org/wiki/Qでん百科)から翻訳されています。
 
 
 『**Qでん百科**』（キューでんひゃっか）は、[九州](../Page/九州.md "wikilink")地方の[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")7局で放送された[テレビ西日本](../Page/テレビ西日本.md "wikilink")製作の[生活情報番組](../Page/生活情報番組.md "wikilink")。[九州電力](../Page/九州電力.md "wikilink")の一社提供。

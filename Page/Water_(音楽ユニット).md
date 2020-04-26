@@ -1,4 +1,4 @@
-> この記事は[Water \(\)](https://ja.wikipedia.org/wiki/Water_\(\))から翻訳されています。
+> この記事は[Water \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Water_\(音楽ユニット\))から翻訳されています。
 
 
 **Water**（ウォーター）は、ボーカリストの小林理恵子を中心とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[South to North Records](https://ja.wikipedia.org/wiki/レイズイン#South_to_North_Records "wikilink")、所属[事務所](../Page/事務所.md "wikilink")は[レイズイン](../Page/レイズイン.md "wikilink")。
@@ -580,7 +580,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/草野正宗" title="wikilink">草野正宗</a></p></td>
 <td><p>草野正宗</p></td>
 <td><p>石井徳一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a>「<a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a>」のカバー。</p></td>
+<td><p><a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>「<a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a>」のカバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>

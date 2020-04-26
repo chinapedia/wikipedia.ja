@@ -1,4 +1,4 @@
-> この記事は[COMPLEX BLUE --](https://ja.wikipedia.org/wiki/COMPLEX_BLUE_--)から翻訳されています。
+> この記事は[COMPLEX BLUE -愛だけ哀しすぎて-](https://ja.wikipedia.org/wiki/COMPLEX_BLUE_-愛だけ哀しすぎて-)から翻訳されています。
 
 
 『**COMPLEX BLUE -愛だけ哀しすぎて-**』（コンプレックス・ブルー-あいだけかなしすぎて-）は[1994年](../Page/1994年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")40枚目の[シングル](../Page/シングル.md "wikilink")。

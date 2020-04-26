@@ -1,4 +1,4 @@
-> この記事は[Regret \(\)](https://ja.wikipedia.org/wiki/Regret_\(\))から翻訳されています。
+> この記事は[Regret \(アルバム\)](https://ja.wikipedia.org/wiki/Regret_\(アルバム\))から翻訳されています。
 
 
 『**regret**』（リグレット）は、[1999年](../Page/1999年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に発売された[I've](../Page/I've.md "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")アルバム。

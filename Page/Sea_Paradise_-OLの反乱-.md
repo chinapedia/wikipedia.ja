@@ -1,4 +1,4 @@
-> この記事は[Sea Paradise -OL-](https://ja.wikipedia.org/wiki/Sea_Paradise_-OL-)から翻訳されています。
+> この記事は[Sea Paradise -OLの反乱-](https://ja.wikipedia.org/wiki/Sea_Paradise_-OLの反乱-)から翻訳されています。
 
 
 「**Sea Paradise -OLの反乱-**」（シーパラダイス オーエルのはんらん）は[中山美穂](../Page/中山美穂.md "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-191CDG)
@@ -9,6 +9,7 @@
   - この曲をテレビで歌う際は、ピンク色の[OL](../Page/OL.md "wikilink")風ファッションでミニスカートという格好だった。
   - カップリングの「何度でも愛せるから」は4年振りに発表された本人作詞作曲による楽曲。
   - CMで流されたプロモーション映像の商品化はされていない。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 
@@ -40,4 +41,4 @@
 
   - [1994年の音楽](../Page/1994年の音楽.md "wikilink")
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:海を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:海を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[CSスファクシアン](https://ja.wikipedia.org/wiki/CSスファクシアン)から翻訳されています。
 
 
 **CSスファクシアン**（, ）は、[チュニジア](../Page/チュニジア.md "wikilink")の東部、[スファックス県](../Page/スファックス県.md "wikilink")の県都[スファックス](../Page/スファックス.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

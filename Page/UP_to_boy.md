@@ -414,7 +414,7 @@
   - 7月号：工藤遥 ※*森戸知沙希*
   - 8月号：堀未央奈 ※*森田ひかる*
   - 9月号：[田村保乃](https://ja.wikipedia.org/wiki/田村保乃 "wikilink")、[藤吉夏鈴](https://ja.wikipedia.org/wiki/藤吉夏鈴 "wikilink")、[森田ひかる](https://ja.wikipedia.org/wiki/森田ひかる "wikilink") ※''[井上梨名](https://ja.wikipedia.org/wiki/井上梨名 "wikilink")、[武元唯衣](https://ja.wikipedia.org/wiki/武元唯衣 "wikilink")、[山﨑天](https://ja.wikipedia.org/wiki/山﨑天 "wikilink")
-  - 10月号：[遠藤さくら](https://ja.wikipedia.org/wiki/遠藤さくら "wikilink") ※*北野日奈子*
+  - 10月号：[遠藤さくら](../Page/遠藤さくら.md "wikilink") ※*北野日奈子*
   - 11月号：[小田さくら](https://ja.wikipedia.org/wiki/小田さくら "wikilink")、牧野真莉愛、横山玲奈、森戸知沙希 ※*[北川莉央](https://ja.wikipedia.org/wiki/北川莉央 "wikilink")、[岡村ほまれ](https://ja.wikipedia.org/wiki/岡村ほまれ "wikilink")、[山崎愛生](https://ja.wikipedia.org/wiki/山崎愛生 "wikilink")*
   - 12月号：モーニング娘。'19 ※*譜久村聖*
 

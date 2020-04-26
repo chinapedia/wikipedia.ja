@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[ブラックウォーターUSA](https://ja.wikipedia.org/wiki/ブラックウォーターUSA)から翻訳されています。
 
 
 **Academi**\[1\]（アカデミ、旧Xeサービシズ[LLC](../Page/LLC.md "wikilink")、旧ブラックウォーターUSA）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[民間軍事会社](../Page/民間軍事会社.md "wikilink")である。

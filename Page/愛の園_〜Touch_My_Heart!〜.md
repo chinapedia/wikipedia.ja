@@ -1,4 +1,4 @@
-> この記事は[ Touch My Heart!](https://ja.wikipedia.org/wiki/_Touch_My_Heart!)から翻訳されています。
+> この記事は[愛の園 〜Touch My Heart!〜](https://ja.wikipedia.org/wiki/愛の園_〜Touch_My_Heart!〜)から翻訳されています。
 
 
 「**愛の園 〜Touch My Heart\!〜**」（あいのその タッチ マイ ハート）は[モーニング娘。おとめ組](../Page/モーニング娘。おとめ組.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")に発売。

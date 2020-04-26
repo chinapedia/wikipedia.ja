@@ -1,4 +1,4 @@
-> この記事は[NEC](https://ja.wikipedia.org/wiki/NEC)から翻訳されています。
+> この記事は[NEC俊英囲碁トーナメント戦](https://ja.wikipedia.org/wiki/NEC俊英囲碁トーナメント戦)から翻訳されています。
 
 
 **NEC俊英囲碁トーナメント戦**（エヌイーシーしゅんえいいごトーナメントせん）は、[囲碁](../Page/囲碁.md "wikilink")の[棋戦で](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")、[日本棋院](../Page/日本棋院.md "wikilink")と[関西棋院](../Page/関西棋院.md "wikilink")の、25歳以下で年間賞金額上位の[棋士が](https://ja.wikipedia.org/wiki/棋士_\(囲碁\) "wikilink")13名が参加する。1986年から開始され、2003年18期まで実施。優勝者は翌年の[NECカップ囲碁トーナメント戦](../Page/NECカップ囲碁トーナメント戦.md "wikilink")へ出場資格を得た。

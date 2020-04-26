@@ -1,4 +1,4 @@
-> この記事は[Thinking about you](https://ja.wikipedia.org/wiki/Thinking_about_you)から翻訳されています。
+> この記事は[Thinking about you〜あなたの夜を包みたい〜](https://ja.wikipedia.org/wiki/Thinking_about_you〜あなたの夜を包みたい〜)から翻訳されています。
 
 
 『**Thinking about you〜あなたの夜を包みたい〜**』（シンキング・アバウト・ユー あなたのよるをつつみたい）は、[中山美穂](../Page/中山美穂.md "wikilink")の33枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-271)

@@ -1,4 +1,4 @@
-> この記事は[SEASONS COLOURS --](https://ja.wikipedia.org/wiki/SEASONS_COLOURS_--)から翻訳されています。
+> この記事は[SEASONS COLOURS -秋冬撰曲集-](https://ja.wikipedia.org/wiki/SEASONS_COLOURS_-秋冬撰曲集-)から翻訳されています。
 
 
 『**SEASONS COLOURS -秋冬撰曲集-**』（シーズンズ・カラーズ‐あきふゆせんきょくしゅう‐）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の「四季」をテーマにした[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")第2弾（初回生産限定盤:TOCT-26370/26371、通常盤:TOCT-26372/26373）。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")よりリリースされた。

@@ -1,4 +1,4 @@
-> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+> この記事は[Wiiウェアのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Wiiウェアのゲームタイトル一覧)から翻訳されています。
 
 
 **Wiiウェアのゲームタイトル一覧**（ウィーウェアのゲームタイトルいちらん）では、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")において実施されていたサービス「**[Wiiウェア](../Page/Wiiウェア.md "wikilink")**」においてダウンロード可能だったゲームソフト211タイトル（配信終了分含む）を列記する。

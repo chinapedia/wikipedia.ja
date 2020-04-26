@@ -34,7 +34,7 @@
   - [関野浩之](../Page/関野浩之.md "wikilink")
   - [芦谷有香](../Page/芦谷有香.md "wikilink")
   - [小島友実](https://ja.wikipedia.org/wiki/小島友実 "wikilink")
-  - [秋田奈津子](https://ja.wikipedia.org/wiki/秋田奈津子 "wikilink")（2019年１月 -　2020年3月13日 ）
+  - [秋田奈津子](https://ja.wikipedia.org/wiki/秋田奈津子 "wikilink")（2019年1月 -　2020年3月13日）
 
 ## コーナー
 

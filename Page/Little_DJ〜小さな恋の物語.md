@@ -34,6 +34,7 @@
   - DJ：[掟ポルシェ](../Page/掟ポルシェ.md "wikilink")
   - 部長：[近江谷太朗](../Page/近江谷太朗.md "wikilink")
   - バイトAD：[小林且弥](../Page/小林且弥.md "wikilink")
+  - ヘブンレコード店主：[家城啓之](https://ja.wikipedia.org/wiki/マンボウやしろ "wikilink")（[カリカ](../Page/カリカ_\(お笑いコンビ\).md "wikilink")）
   - 映画館もぎり：[小橋亜樹](../Page/小橋亜樹.md "wikilink")
   - 男性患者たち：[オクラホマ](../Page/オクラホマ_\(お笑い\).md "wikilink")
   - 尾崎誠（ラジオDJ）：[小林克也](../Page/小林克也.md "wikilink")（特別出演）

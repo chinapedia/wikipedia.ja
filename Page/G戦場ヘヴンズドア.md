@@ -3,7 +3,7 @@
 
 『**G戦場ヘヴンズドア**』（ジーせんじょうヘヴンズドア）は、[日本橋ヨヲコ](../Page/日本橋ヨヲコ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊IKKI](../Page/月刊IKKI.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて[2000年](../Page/2000年.md "wikilink")11月から[2003年](../Page/2003年.md "wikilink")6月まで連載された。全18話。単行本は全3巻（1巻のみ大判コミックも存在する。内容は同じ）。現代日本の高校生を描いた[青年漫画](../Page/青年漫画.md "wikilink")。商業漫画の世界を戦場に喩え、そこでともに戦う戦友の関係をテーマとして、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の父を持つ青年と、編集者の父を持つ青年の葛藤、成長を中心に描く。
 
-[NHK-FMのラジオ番組](../Page/NHK-FM放送.md "wikilink")『[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")』にて、2005年3月に[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化された。
+[NHK-FMのラジオ番組](../Page/NHK-FM放送.md "wikilink")『[青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")』にて、2005年3月に[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化された。
 
 タイトルの「G」は、漫画の画材としてよく使われる[Gペンから](../Page/つけペン.md "wikilink")。「戦場」は「線上」と掛詞になっている。「漫画の世界という戦場でGペンの線を走らせる中で、数少ない人間だけがその向こう側にたどり着ける境地＝『ヘヴンズドア』」という意味である。
 

@@ -947,9 +947,9 @@ the message 03 Feat. Hi-Timez</p></td>
 
   - [ユニバーサルミュージックによる公式サイト](http://www.universal-music.co.jp/spontania/)
 
-  - [Spontania MASSATTACK Official Blog](http://ameblo.jp/spontaniam/)
+  - [Spontania MASSATTACK Official Blog](https://ameblo.jp/spontaniam/)
 
-  - [Spontania Tarantula Official Blog](http://ameblo.jp/spontaniat/)
+  - [Spontania Tarantula Official Blog](https://ameblo.jp/spontaniat/)
 
   -
   -

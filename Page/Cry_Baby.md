@@ -42,4 +42,4 @@
 6.  LOVEミサイル（instrumental)
 7.  夢想転生（instrumental)
 
-[Category:SEAMOの楽曲](https://ja.wikipedia.org/wiki/Category:SEAMOの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:クレヨンしんちゃんのアニメソング](https://ja.wikipedia.org/wiki/Category:クレヨンしんちゃんのアニメソング "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:SEAMOの楽曲](https://ja.wikipedia.org/wiki/Category:SEAMOの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:クレヨンしんちゃんのアニメソング](https://ja.wikipedia.org/wiki/Category:クレヨンしんちゃんのアニメソング "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")

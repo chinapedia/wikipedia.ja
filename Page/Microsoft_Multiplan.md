@@ -9,7 +9,7 @@
 
 [Macintosh](../Page/Macintosh.md "wikilink")向けのMultiplanは、マイクロソフト初の[GUI式表計算ソフトであった](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")（他機種版はテキストベース）。
 
-表計算のマルチプラン (Multiplan)、グラフのマルチチャート（[Multi-Chart](https://ja.wikipedia.org/wiki/Multi-Chart "wikilink")、機種や販売元によってはMS-チャート）、簡易データベースのマルチファイル（[Multi-File](https://ja.wikipedia.org/wiki/Multi-File "wikilink")、機種や販売元によっては存在しない）の3種類でマルチツールファミリー (Multi-Tool Family) を構成した。
+表計算のマルチプラン (Multiplan)、グラフのマルチチャート（[Multi-Chart](https://ja.wikipedia.org/wiki/Microsoft_Office_ツール "wikilink")、機種や販売元によってはMS-チャート）、簡易データベースのマルチファイル（[Multi-File](https://ja.wikipedia.org/wiki/Multi-File "wikilink")、機種や販売元によっては存在しない）の3種類でマルチツールファミリー (Multi-Tool Family) を構成した。
 
 ## 特徴
 

@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [あゆロボ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[深キョンロボ](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")、[イチロボ](https://ja.wikipedia.org/wiki/イチロー "wikilink")（稲垣・香取・草彅）
+  - [あゆロボ](../Page/浜崎あゆみ.md "wikilink")、[深キョンロボ](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")、[イチロボ](https://ja.wikipedia.org/wiki/イチロー "wikilink")（稲垣・香取・草彅）
       -
         ロボットを作った博士（草彅）と研究員（香取）が、様々な人物に扮したロボット役の稲垣を笑わせるコーナー。
 

@@ -38,4 +38,4 @@
 </tbody>
 </table>
 
-[Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ZIGGYの楽曲](https://ja.wikipedia.org/wiki/Category:ZIGGYの楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")
+[Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ZIGGYの楽曲](https://ja.wikipedia.org/wiki/Category:ZIGGYの楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

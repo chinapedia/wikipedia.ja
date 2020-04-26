@@ -33,4 +33,4 @@
 
 1.  ULTIMATE GIRLS VIDEO CLIP
 
-[Category:Foxxi_misQの楽曲](https://ja.wikipedia.org/wiki/Category:Foxxi_misQの楽曲 "wikilink") [Category:藤林聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤林聖子が制作した楽曲 "wikilink") [Category:Face_2_fAKEが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Face_2_fAKEが制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+[Category:Foxxi_misQの楽曲](https://ja.wikipedia.org/wiki/Category:Foxxi_misQの楽曲 "wikilink") [Category:藤林聖子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤林聖子が制作した楽曲 "wikilink") [Category:Face_2_fAKEが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Face_2_fAKEが制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")

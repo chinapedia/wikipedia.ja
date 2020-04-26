@@ -64,7 +64,7 @@
   - [公式サイト(閉鎖)](http://www.navy-ivory.com/)
   - [日本コロムビア内公式サイト](http://columbia.jp/artist-info/navy-ivory/)
   - [ブロー・ウィンド・レコード(閉鎖)](http://www.muune.com/n&i/n&i_top.html)
-  - \[<http://ameblo.jp/mikio-ago/>　 吾郷水木生　オフィシャルブログ\]
-  - \[<http://ameblo.jp/masaaki-shimoji/>　下地正晃 オフィシャルブログ\]
+  - \[<https://ameblo.jp/mikio-ago/>　 吾郷水木生　オフィシャルブログ\]
+  - \[<https://ameblo.jp/masaaki-shimoji/>　下地正晃 オフィシャルブログ\]
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink")

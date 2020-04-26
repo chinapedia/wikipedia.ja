@@ -1,21 +1,28 @@
 > この記事は[わーすた STUDIO LIVE ゆうめいに、にゃる!!!!!](https://ja.wikipedia.org/wiki/わーすた_STUDIO_LIVE_ゆうめいに、にゃる!!!!!)から翻訳されています。
 
 
-『**わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!"**』（わーすた スタジオ ライブ "ゆうめいに、にゃる\!\!\!\!\!"）は、[2019年](../Page/2019年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から1週間限定で[iDOL Streetより発売された](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")[わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")のスタジオライブアルバムである。好評により、[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")から再配信されている。
+『**わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!"**』（わーすた スタジオ ライブ "ゆうめいに、にゃる\!\!\!\!\!"）は、[わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")の一連のスタジオライブアルバムの総称である。以下の2タイトルが配信されている。
+
+  - **わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!"**
+  - **わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!" VOL.2**
 
 ## 概要
 
-[2019年](../Page/2019年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から1週間限定で販売された。好評により、[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")から再配信されている\[1\]。ダウンロード配信のみで販売され、ストリーミング配信は一切なかった。また[ハイレゾ音源の配信もなかった](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")。限定配信時は1曲ごとの購入が可能だったが、再配信時はアルバム単位でのみ購入可能となっている。
+2019年[7月12日](../Page/7月12日.md "wikilink")の午後6時、わーすたスタッフから1019年[10月8日](../Page/10月8日.md "wikilink")に[代々木公園](../Page/代々木公園.md "wikilink")野外ステージで『わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜』を開催すると発表があり\[1\]、同日20時からLINE LIVE等で緊急生配信を行い\[2\]、フリーライブに向けての意気込み等が語られた。一方、YouTube上には「最上級ぱらどっくす」、「NEW にゃーくにゃくにゃ水族館2」のスタジオライブの映像がアップされ、コメント欄で『「わーすた FREE LIVE【ゆうめいに、にゃる！！！！！】」へ向けて、7月12日から3ヶ月間連続毎月12日（わんにゃんの日）にSTUDIO LIVEコンテンツをアップする』と発表された。以降、[8月12日](../Page/8月12日.md "wikilink")に「PLATONIC GIRL」、[9月12日](../Page/9月12日.md "wikilink")に「スタンドアロン・コンプレックス」、「うるとらみらくるくるふぁいなるアルティメットチョコびーむ」のスタジオライブの映像がアップされた。これら5曲の音源のみを集めたものが『**わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!"**』である。なお、[10月30日](../Page/10月30日.md "wikilink")に発売された「[遮二無二 生きる\!/バスタブ・アロマティック](https://ja.wikipedia.org/wiki/遮二無二_生きる!/バスタブ・アロマティック "wikilink")」のBlu-rayには「最上級ぱらどっくす」、「NEW にゃーくにゃくにゃ水族館2」、「PLATONIC GIRL」と、当時YouTubeにアップされなかった「Love Unmelt」のスタジオライブ映像が\[3\]、「バスタブ・アロマティック/遮二無二 生きる\!」のBlu-rayにはスタジオライブの舞台裏の映像が収められている。
 
-2019年[7月12日](../Page/7月12日.md "wikilink")の午後6時、わーすたスタッフから1019年[10月8日](../Page/10月8日.md "wikilink")に[代々木公園](../Page/代々木公園.md "wikilink")野外ステージで『わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜』を開催すると発表があり\[2\]、同日20時からLINE LIVE等で緊急生配信を行い\[3\]、フリーライブに向けての意気込み等が語られた。一方、YouTube上には「最上級ぱらどっくす」、「NEW にゃーくにゃくにゃ水族館2」のスタジオライブの映像がアップされ、コメント欄で『「わーすた FREE LIVE【ゆうめいに、にゃる！！！！！】」へ向けて、7月12日から3ヶ月間連続毎月12日（わんにゃんの日）にSTUDIO LIVEコンテンツをアップする』と発表された。以降、[8月12日](../Page/8月12日.md "wikilink")に「PLATONIC GIRL」、[9月12日](../Page/9月12日.md "wikilink")に「スタンドアロン・コンプレックス」、「うるとらみらくるくるふぁいなるアルティメットチョコびーむ」のスタジオライブの映像がアップされた。これら5曲の音源のみを集めたものが本作である。なお、[10月30日](../Page/10月30日.md "wikilink")に発売された「[遮二無二 生きる\!/バスタブ・アロマティック](https://ja.wikipedia.org/wiki/遮二無二_生きる!/バスタブ・アロマティック "wikilink")」のBlu-rayには「最上級ぱらどっくす」、「NEW にゃーくにゃくにゃ水族館2」、「PLATONIC GIRL」と、YouTubeにアップされなかった「Love Unmelt」のスタジオライブ映像が、「バスタブ・アロマティック/遮二無二 生きる\!」のBlu-rayにはスタジオライブの舞台裏の映像が収められている\[4\]。
+一方、後述のクラウドファンディングのリターンである「STUDIO LIVE メンバー全員 サイン入りフォトブック」には5曲以外に「Love Unmelt」、「Just be yourself」、「ねぇ愛してみて」の3曲もクレジットされていた。また、「Just be yourself」、「ねぇ愛してみて」の2曲はスタジオライブの映像公開すら無いままであった。「Just be yourself」、「ねぇ愛してみて」のスタジオライブ映像は「遮二無二 生きる\!/バスタブ・アロマティック」のBlu-rayに収録されなかった「うるとらみらくるくるふぁいなるアルティメットチョコびーむ」、「スタンドアロン・コンプレックス」と共に、2020年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売されたベストアルバム「[わーすたBEST](../Page/わーすたBEST.md "wikilink")」のBlu-rayに収録され、やっと日の目を見ることとなった。2020年[4月1日](../Page/4月1日.md "wikilink")には「Love Unmelt」、「Just be yourself」、「ねぇ愛してみて」の3曲の音源のみを集めて『**わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!" VOL.2**』として配信限定でリリースされた。
 
 ### わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜
 
-2019年[7月12日](../Page/7月12日.md "wikilink")の発表以降、スタジオライブ映像のアップと並行して、[7月26日](../Page/7月26日.md "wikilink")から【わーすた FREE LIVE “ゆうめいに、にゃる\!\!\!\!\!” 〜 5年目からその先へ プロジェクト】と題してクラウドファンディングの募集も行われた\[5\]。目標金額を段階的に設定し、達成するごとに企画を追加する方式がとられたが、初日で第一弾、第二弾の目標金額を達成した(第三弾の企画は募集期間内に目標金額を達成できなかったので中止)\[6\]。
+2019年[7月12日](../Page/7月12日.md "wikilink")の発表以降、スタジオライブ映像のアップと並行して、[7月26日](../Page/7月26日.md "wikilink")から【わーすた FREE LIVE “ゆうめいに、にゃる\!\!\!\!\!” 〜 5年目からその先へ プロジェクト】と題してクラウドファンディングの募集も行われた\[4\]。目標金額を段階的に設定し、達成するごとに企画を追加する方式がとられたが、初日で第一弾、第二弾の目標金額を達成した(第三弾の企画は募集期間内に目標金額を達成できなかったので中止)\[5\]。
 
-[10月8日](../Page/10月8日.md "wikilink")、約3000人が集まるなか『わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜』が開催された。終演後の影ナレで[2020年](../Page/2020年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でワンマンライブを行うことが発表された\[7\]。直後にYouTube上に「スーパーありがとう for わーしっぷ ver.」の映像がアップされた。この中で『わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜』にはノルマがあって、もし、1500人集まらなかったら[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのワンマンライブは行わないことになっていたことが明らかにされた\[8\]。
+[10月8日](../Page/10月8日.md "wikilink")、約3000人が集まるなか『わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜』が開催された。終演後の影ナレで[2020年](../Page/2020年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でワンマンライブを行うことが発表された\[6\]。直後にYouTube上に「スーパーありがとう for わーしっぷ ver.」の映像がアップされた。この中で『わーすた x NEKONOTEBAND FREE LIVE 〜ゆうめいに、にゃる\!\!\!\!\!〜』にはノルマがあって、もし、1500人集まらなかったら[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのワンマンライブは行わないことになっていたことが明らかにされた\[7\]。
 
-## 収録曲
+## わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!"
+
+『**わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!"**』（わーすた スタジオ ライブ "ゆうめいに、にゃる\!\!\!\!\!"）は、[2019年](../Page/2019年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から1週間限定で[iDOL Streetより発売された](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")[わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")のスタジオライブアルバムである。好評により、[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")から再配信されている\[8\]。ダウンロード配信のみで販売され、ストリーミング配信は一切なかった。また[ハイレゾ音源の配信もなかった](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")。限定配信時は1曲ごとの購入が可能だったが、再配信時はアルバム単位でのみ購入可能となっている。
+
+### 収録曲
 
 1.  **最上級ぱらどっくす**
       -
@@ -35,7 +42,7 @@
 
 (注)作詞、作曲、編曲者名は上述のクラウドファンディングのリターンである「STUDIO LIVE メンバー全員 サイン入りフォトブック」に記載されているものである。
 
-## 音楽配信
+### 音楽配信
 
 前述のとおりダウンロード配信のみで販売され、ストリーミング配信は一切なかった。また[ハイレゾ音源の配信もなかった](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")。当初は1週間限定販売だったが、現在は再配信されている。
 
@@ -169,6 +176,62 @@
 
 </div>
 
+## わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!" VOL.2
+
+『**わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!" VOL.2**』（わーすた スタジオ ライブ "ゆうめいに、にゃる\!\!\!\!\!" ボリューム2）は、[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[iDOL Streetより発売された](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")[わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")のスタジオライブアルバムである。ダウンロード配信のみで販売され、ストリーミング配信は一切なかった。またハイレゾ音源の配信もなかった。
+
+### 収録曲
+
+1.  **Love Unmelt**
+      -
+        作詞・作曲・編曲：浅利進吾
+2.  **Just be yourself**
+      -
+        作詞：鈴木まなか、作曲・編曲：[Kon-K](https://ja.wikipedia.org/wiki/Kon-K "wikilink")
+3.  **ねぇ愛してみて**
+      -
+        作詞：鈴木まなか、作曲：鈴木まなか・7th Avenue、編曲：7th Avenue
+
+(注)作詞、作曲、編曲者名は上述のクラウドファンディングのリターンである「STUDIO LIVE メンバー全員 サイン入りフォトブック」に記載されているものである。
+
+### 音楽配信
+
+前述のとおりダウンロード配信のみで販売され、ストリーミング配信は一切なかった。またハイレゾ音源の配信もなかった。
+
+<div class="NavFrame" style="text-align:center; font-size:small;">
+
+<div class="NavHead">
+
+音楽配信
+
+</div>
+
+<div class="NavContent">
+
+| 配信日                                                                                      | タイトル                           | 配信サービス | 備考           |
+| ---------------------------------------------------------------------------------------- | ------------------------------ | ------ | ------------ |
+| 2020年4月1日                                                                                | '''わーすた STUDIO LIVE "ゆうめいに、にゃる |        | \!" VOL.2''' |
+| [dwango.jp](../Page/ドワンゴ.md "wikilink")                                                  |                                |        |              |
+| [dミュージック](https://ja.wikipedia.org/wiki/dマーケット "wikilink")                               |                                |        |              |
+| [GIGA MUSIC](https://ja.wikipedia.org/wiki/フェイス・ワンダワークス "wikilink")                      |                                |        |              |
+| [Google Play Music (ダウンロード)](https://ja.wikipedia.org/wiki/Google_Play_Music "wikilink") | mp3音源を配信                       |        |              |
+| [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")                    |                                |        |              |
+| [LINE MUSIC (ダウンロード)](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")        |                                |        |              |
+| [mora](https://ja.wikipedia.org/wiki/mora "wikilink")                                    |                                |        |              |
+| [mu-mo](../Page/ミュゥモ.md "wikilink")                                                      |                                |        |              |
+| [Music Store](https://ja.wikipedia.org/wiki/Au_Market "wikilink")                        |                                |        |              |
+| [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")                            |                                |        |              |
+| [MySound](../Page/ヤマハミュージックメディア.md "wikilink")                                           |                                |        |              |
+| [OTOTOY](https://ja.wikipedia.org/wiki/OTOTOY "wikilink")                                |                                |        |              |
+| [オリコン](../Page/オリコン.md "wikilink")ミュージックストア                                              |                                |        |              |
+| [ひかりTV (ダウンロード)](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ミュージック                   |                                |        |              |
+| [ミュージコ♪](../Page/エムティーアイ.md "wikilink")                                                  |                                |        |              |
+| [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")                                  |                                |        |              |
+
+</div>
+
+</div>
+
 ## 脚注
 
 ### 注釈
@@ -209,8 +272,8 @@
 
 1.
 2.
-3.
-4.  後述のクラウドファンディングのリターンである「STUDIO LIVE メンバー全員 サイン入りフォトブック」には「Just be yourself」と「ねぇ愛してみて」もクレジットされているが、これらはベストアルバム「[わーすたBEST](../Page/わーすたBEST.md "wikilink")」のBlu-rayに収録される。
+3.  [2020年](../Page/2020年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")になってからYouTube上で公開された。
+4.
 5.
 6.
 7.

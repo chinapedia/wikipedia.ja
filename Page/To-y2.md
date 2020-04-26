@@ -1,7 +1,7 @@
 > この記事は[To-y2](https://ja.wikipedia.org/wiki/To-y2)から翻訳されています。
 
 
-『**To-y2**』（トイズ）は、日本の男性アイドルグループ、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の9作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**To-y2**』（トイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性アイドルグループ、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の9作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -37,7 +37,7 @@
     <!-- end list -->
       - 今作のリードトラック
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[もしもツアーズ](../Page/もしもツアーズ.md "wikilink")」テーマソング
-      - [dTV](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")「**[キスマイどきどきーん](https://ja.wikipedia.org/wiki/キスマイどきどきーん "wikilink")\!**」テーマソング
+      - [dTV](https://ja.wikipedia.org/wiki/dTV_\(NTTドコモ\) "wikilink")「[キスマイどきどきーん](../Page/キスマイどきどきーん.md "wikilink")\!」テーマソング
 3.  **りあらぶ** \[4:17\]
       -
         作詞・作曲・編曲：山田竜平
@@ -100,8 +100,8 @@
 17. **種**\[11\] \[4:53\]
       -
         作詞：浜端ヨウヘイ、作曲：桑山哲也、編曲：山下洋介
-        通常盤のみ収録。
-        自身初の[シークレットトラックとして収録](../Page/隠しトラック.md "wikilink")。
+        通常盤のみ[シークレットトラックとして収録](../Page/隠しトラック.md "wikilink")。
+        [サンドアート](../Page/サンドアート.md "wikilink")ビデオが作成され、2020年4月1日にYouTubeにてショートバージョン、4月9日にジャニーズネット公式サイトにてフルバージョンが公開された。
 
 ### 特典CD
 
@@ -130,7 +130,7 @@
 
 #### 初回盤B
 
-1.  KIS-MY-TV～キスマイリアルすごろく～
+1.  KIS-MY-TV ～キスマイリアルすごろく～
 
 ### シリアル特典
 
@@ -157,7 +157,7 @@
   - [Kis-My-Ft2 / 9th ALBUM 『To-y2』CM Spot Long ver.](https://www.youtube.com/watch?v=_BkXSj6BNbs) - YouTube
   - [Kis-My-Ft2 / 種 Sand Art Video (Short ver.)](https://www.youtube.com/watch?v=6cuX4BxkdOQ) - YouTube
 
-[Category:Kis-My-Ft2のアルバム](https://ja.wikipedia.org/wiki/Category:Kis-My-Ft2のアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink")
+[Category:Kis-My-Ft2のアルバム](https://ja.wikipedia.org/wiki/Category:Kis-My-Ft2のアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:エイベックス・グループのアルバム](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアルバム "wikilink") [Category:2020年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2020年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.  [Kis-My-Ft2、ニューアルバム「To-y2」3月リリース](https://natalie.mu/music/news/365573) - 音楽ナタリー (2020年2月1日) 2020年2月11日閲覧。
 2.  [Kis-My-Ft2、ニューアルバム『To-y2』発売決定！初回盤Bには恒例の『KIS-MY-TV』も収録](https://headlines.yahoo.co.jp/hl?a=20200201-00000020-mnet-musi) - Yahoo\!ニュース (2020年2月1日) 2020年2月11日閲覧。
@@ -165,7 +165,7 @@
 4.  [「種」歌詞 | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/tane_lyrics.php) - avex trax (2020年3月27日) 2020年3月27日閲覧。
 5.  [Kis-My-Ft2｜CD｜ニューアルバム『To-y2』3月25日発売！3形態同時購入特典シリアルコード入りビジュアルカード付き！初回盤A・B オンライン期間限定10%オフ！](https://tower.jp/article/feature_item/2020/02/03/0701) - TOWER RECORDS ONLINE (2020年2月3日) 2020年2月11日閲覧。
 6.  [DISC | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/discography/detail.php?id=1017429) - avex trax (2020年2月1日) 2020年2月11日閲覧。
-7.  ただし、[新型コロナウイルスの感染拡大を防止するため](../Page/2019新型コロナウイルス.md "wikilink")4月9日～12日の[東京ドーム](../Page/東京ドーム.md "wikilink")公演は中止となったため、同会場での公開リハーサルは中止となった。
+7.  ただし、[新型コロナウイルスの感染拡大を防止するため福岡PayPayドーム公演を除く全公演が中止となったため](../Page/2019新型コロナウイルス.md "wikilink")、公演中止となった各会場での公開リハーサルは中止となった。
 8.  [INFO | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/news/detail.php?id=1080957) - avex trax (2020年2月7日) 2020年2月11日閲覧。
 9.  [INFO | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/news/detail.php?id=1082468) - avex trax (2020年3月25日) 2020年3月25日閲覧。
 10.

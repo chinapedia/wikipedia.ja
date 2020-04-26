@@ -1,6 +1,8 @@
 > この記事は[細胞分裂 \(Non Stop Rabbitのアルバム\)](https://ja.wikipedia.org/wiki/細胞分裂_\(Non_Stop_Rabbitのアルバム\))から翻訳されています。
 
 
+{{ external media | align = 細胞分裂 | video1 = [Non Stop Rabbit ALBUM「細胞分裂」全曲トレーラー【ノンラビ】](https://www.youtube.com/watch?v=mr2ONxaAGHM) }}
+
 『**細胞分裂**』(さいぼうぶんれつ) は、[2019年](../Page/2019年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")に、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3ピースロックバンド[Non Stop Rabbitがリリースした](https://ja.wikipedia.org/wiki/Non_Stop_Rabbit "wikilink")2枚目のフルアルバム。発売元は、[Studio Cubic Records](https://ja.wikipedia.org/wiki/Studio_Cubic_Records "wikilink")。
 
 ## 概要

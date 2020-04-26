@@ -17,7 +17,7 @@
 
 ボディカラーにはグレー、ブルー、レッドを用意するが、グローバルモデルには展開されているブラックは用意していない\[2\]。
 
-これまで日本国内向けのXperiaに搭載していた日本語入力システム「[POBox Plus](../Page/POBox.md "wikilink")」を採用していたが本機では非対応となっているためキーボードは[Google](../Page/Google.md "wikilink")製の[Gboard](https://ja.wikipedia.org/wiki/Gboard "wikilink")を利用することとなる。
+これまで日本国内向けのXperiaに搭載していた日本語入力システム「[POBox Plus](../Page/POBox.md "wikilink")」を採用していたが本機では非対応となっているためキーボードは[Google](../Page/Google.md "wikilink")製の[Gboard](../Page/Gboard.md "wikilink")を利用することとなる。
 
 ## 主な機能
 

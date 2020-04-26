@@ -108,7 +108,7 @@ SH-06Gでは非対応だった[VoLTE](https://ja.wikipedia.org/wiki/VoLTE "wikil
 ## 関連項目
 
   - [SH-06G](https://ja.wikipedia.org/wiki/SH-06G "wikilink")
-  - [SH-02L](https://ja.wikipedia.org/wiki/SH-02L "wikilink")
+  - [SH-02L](../Page/SH-02L.md "wikilink")
 
 ## 注釈
 

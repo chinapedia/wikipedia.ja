@@ -9,7 +9,7 @@
 
 ## 登場人物
 
-### 内村健二（うちむらけんじ）
+### 内田一輝（うちだかずき）
 
   -
     22歳の[主人公](../Page/主人公.md "wikilink")。[身長](../Page/身長.md "wikilink")は172㎝、[体重](../Page/体重.md "wikilink")は60㎏。\[3\]森の中で乗っていた[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")が[故障](../Page/故障.md "wikilink")し立ち往生する羽目となった。森の中から[オイル](https://ja.wikipedia.org/wiki/オイル "wikilink")、[ガソリン](../Page/ガソリン.md "wikilink")、[スパークプラグ](https://ja.wikipedia.org/wiki/スパークプラグ "wikilink")、[タイヤ](../Page/タイヤ.md "wikilink")を集めるのが目的。[映画](../Page/映画.md "wikilink")にも全作登場する。\[4\]
@@ -17,7 +17,7 @@
 ### 木村芳恵（きむらよしえ）
 
   -
-    通称『**ヨシエ**』。ゲーム開始後20秒もすると現れる[怨霊](../Page/怨霊.md "wikilink")。[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な顔からプレイヤー達に[強烈](https://ja.wikipedia.org/wiki/強烈 "wikilink")な[インパクト](../Page/インパクト.md "wikilink")を与えてきた。触れると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")。近付くと[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な[音楽](../Page/音楽.md "wikilink")が流れるので急に現れることはない。（[電池](../Page/電池.md "wikilink")が無くなってしばらくすると下から急に現れる。）足も遅いので簡単に逃げられる。また、怨霊でも壁からすり抜けたりはしない。生前は[福井大学](../Page/福井大学.md "wikilink")2年生で[アウトドアクラブ](https://ja.wikipedia.org/wiki/アウトドアクラブ "wikilink")に所属していた。[美人](../Page/美人.md "wikilink")だった。[2007年](../Page/2007年.md "wikilink")、この森の[洞窟](../Page/洞窟.md "wikilink")に探索に息野という男子と出掛け、惨殺事件に巻き込まれた後に消息を絶つ。20歳没。\[5\]歯の付近についている血は自分自身のとこれまでに襲った者の血である。また、ヨシエの顔は制作者であるKazz氏自信の顔を編集している。
+    通称『**ヨシエ**』。ゲーム開始後20秒もすると現れる[怨霊](../Page/怨霊.md "wikilink")。[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な顔からプレイヤー達に[強烈](https://ja.wikipedia.org/wiki/強烈 "wikilink")な[インパクト](../Page/インパクト.md "wikilink")を与えてきた。触れると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")。近付くと[不気味](https://ja.wikipedia.org/wiki/不気味 "wikilink")な[音楽](../Page/音楽.md "wikilink")が流れるので急に現れることはない。（[電池](../Page/電池.md "wikilink")が無くなってしばらくすると下から急に現れる。）足も遅いので簡単に逃げられる。また、怨霊でも壁からすり抜けたりはしない。生前は[福井大学](../Page/福井大学.md "wikilink")2年生で[アウトドアクラブ](https://ja.wikipedia.org/wiki/アウトドアクラブ "wikilink")に所属していた。[美人](../Page/美人.md "wikilink")だった。[2007年](../Page/2007年.md "wikilink")、この森の[洞窟](../Page/洞窟.md "wikilink")に探索に息野という男子と出掛け、惨殺事件に巻き込まれた後に消息を絶つ。20歳没。\[5\]歯の付近についている血は自分自身のとこれまでに襲った者の血である。また、ヨシエの顔は制作者であるKazz氏自身の顔を編集している。
 
 ### 大宮健二（おおみやけんじ）
 

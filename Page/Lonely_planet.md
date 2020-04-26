@@ -81,7 +81,7 @@
       -
   - [lonely planet](https://www.showroom-live.com/lonely_planet) -lonely planetオフィシャルSHOWROOM
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")
 
 [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink")
 

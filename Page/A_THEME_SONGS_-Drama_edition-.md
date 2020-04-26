@@ -1,7 +1,7 @@
 > この記事は[A THEME SONGS -Drama edition-](https://ja.wikipedia.org/wiki/A_THEME_SONGS_-Drama_edition-)から翻訳されています。
 
 
-『**A THEME SONGS -Drama edition-**』(エー・テーマ・ソングス -ドラマ・エディション-)は[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の配信限定アルバム[2015年](../Page/2015年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に発売された。
+『**A THEME SONGS -Drama edition-**』(エー・テーマ・ソングス -ドラマ・エディション-)は[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の配信限定アルバム[2015年](../Page/2015年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")に発売された。
 
 ## 解説
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-各種[DAW](https://ja.wikipedia.org/wiki/DAW "wikilink")で動作するプラグインソフトウェアを主に開発している。 日本においては日本法人のMedia Integration, Inc.（メディア インテグレーション）が販売や登録、サポートなどの業務を行っている\[2\]。 [2016年](../Page/2016年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")[18日](https://ja.wikipedia.org/wiki/18日 "wikilink")、[BernieTorelli](https://ja.wikipedia.org/wiki/BernieTorelli "wikilink")が悪性腫瘍が原因で逝去\[3\]。ソフトウエアの開発を、バーニーの大学院助手である[MaxenceGrandidier](https://ja.wikipedia.org/wiki/MaxenceGrandidier "wikilink")が、販売を[PlugiveryDistribution](https://ja.wikipedia.org/wiki/PlugiveryDistribution "wikilink")社が引き継いだ\[4\]。
+各種[DAW](https://ja.wikipedia.org/wiki/DAW "wikilink")で動作するプラグインソフトウェアを主に開発している。 日本においては日本法人のMedia Integration, Inc.（メディア インテグレーション）が販売や登録、サポートなどの業務を行っている\[2\]。 [2016年](../Page/2016年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")、[BernieTorelli](https://ja.wikipedia.org/wiki/BernieTorelli "wikilink")が悪性腫瘍が原因で逝去\[3\]。ソフトウエアの開発を、バーニーの大学院助手である[MaxenceGrandidier](https://ja.wikipedia.org/wiki/MaxenceGrandidier "wikilink")が、販売を[PlugiveryDistribution](https://ja.wikipedia.org/wiki/PlugiveryDistribution "wikilink")社が引き継いだ\[4\]。
 
 ## ソフトウェア エフェクター
 

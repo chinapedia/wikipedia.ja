@@ -63,7 +63,7 @@
 9.  **サンセットベンチ**［4:34］
       -
         作詞・作曲：[Uru](https://ja.wikipedia.org/wiki/Uru "wikilink")、編曲：[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")
-10. **Your Song**［4:35］
+10. **[Your Song](https://ja.wikipedia.org/wiki/Sleepless_in_Brooklyn "wikilink")**［4:35］
       -
         作詞・作曲：川上洋平 (from [\[ALEXANDROS](https://ja.wikipedia.org/wiki/［ALEXANDROS］ "wikilink")\])、編曲：清水俊也
 11. **My Life**［3:52］

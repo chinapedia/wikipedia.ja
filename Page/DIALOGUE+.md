@@ -103,7 +103,10 @@
 ### 2020年
 
   - 1月18日 - 「DIALOGUE+JAM」開催\[9\]。
-  - 4月8日 - 1st mini Album「DREAMY-LOGUE」発売予定\[10\]。
+  - 4月8日 - 1st mini Album「DREAMY-LOGUE」発売\[10\]。
+
+<!-- end list -->
+
   - 5月9日 - 「DIALOGUE+JAM Vol.2」開催予定\[11\] 。
 
 ## ディスコグラフィ
@@ -148,12 +151,69 @@
 
 ## ライブ・イベント
 
-| 年                                                                                                 | タイトル                                                                                                         | 公演日・会場                                                          |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| 2019年                                                                                             | 「[Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink") 2019 -STORY-」けやきひろばステージ | 8月31日 [さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink") けやきひろば |
-| 2020年                                                                                             | DIALOGUE+JAM (昼夜2公演)                                                                                         | 1月18日 池袋harevutai                                               |
-| [sora tob sakana](https://ja.wikipedia.org/wiki/sora_tob_sakana "wikilink") presents「天体の音楽会Vol.3」 | 2月8日 TSUTAYA O-EAST、TSUTAYA O-WEST、duo MUSIC EXCHANGE                                                        |                                                                 |
-| DIALOGUE+JAM vol.2 (昼夜2公演)                                                                        | 5月9日 新宿ReNY                                                                                                  |                                                                 |
+### 主催ライブ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>タイトル</p></th>
+<th><p>公演日程・会場</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>DIALOGUE+JAM</p></td>
+<td><p>1月18日<br />
+池袋harevutai</p></td>
+<td><p>昼夜2公演</p></td>
+</tr>
+<tr class="even">
+<td><p>DIALOGUE+JAM vol.2</p></td>
+<td><p><del>5月9日</del>（中止・延期検討）<br />
+新宿ReNY</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1st LIVE「ぼくたちのかくめい！」</p></td>
+<td><p>6月20日<br />
+山野ホール</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### ゲスト出演　
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>タイトル</p></th>
+<th><p>公演日程・会場</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/Animelo_Summer_Live" title="wikilink">Animelo Summer Live</a> 2019 -STORY-」</p></td>
+<td><p>8月31日<br />
+<a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a> けやきひろばステージ</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/sora_tob_sakana" title="wikilink">sora tob sakana</a> presents「天体の音楽会Vol.3」</p></td>
+<td><p>2月8日<br />
+TSUTAYA O-EAST<br />
+TSUTAYA O-WEST<br />
+duo MUSIC EXCHANGE</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

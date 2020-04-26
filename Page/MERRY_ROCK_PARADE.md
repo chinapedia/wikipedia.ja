@@ -1,7 +1,7 @@
 > この記事は[MERRY ROCK PARADE](https://ja.wikipedia.org/wiki/MERRY_ROCK_PARADE)から翻訳されています。
 
 
-**MERRY ROCK PARADE**（メリー・ロック・パレード）は、[2014年](../Page/2014年.md "wikilink")より毎年12月に[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[名古屋市国際展示場](../Page/名古屋市国際展示場.md "wikilink")(ポートメッセなごや)で開催される日本の[ライブ](../Page/ライブ.md "wikilink")[イベント](../Page/イベント.md "wikilink")である。
+**MERRY ROCK PARADE**（メリー・ロック・パレード）は、[2014年](../Page/2014年.md "wikilink")より毎年12月に[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[名古屋市国際展示場](../Page/名古屋市国際展示場.md "wikilink")（ポートメッセなごや）で開催される日本のライブイベントである。
 
 主催・企画・制作は[サンデーフォークプロモーション](https://ja.wikipedia.org/wiki/サンデーフォークプロモーション "wikilink")\[1\]。
 
@@ -482,7 +482,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/BURNOUT_SYNDROMES" title="wikilink">BURNOUT SYNDROMES</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Karin." title="wikilink">Karin.</a></li>
+<li><a href="../Page/Karin..md" title="wikilink">Karin.</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ザ・モアイズユー" title="wikilink">ザ・モアイズユー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ユアネス" title="wikilink">ユアネス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Czecho_No_Republic" title="wikilink">Czecho No Republic</a></li>
@@ -491,7 +491,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/LAMP_IN_TERREN" title="wikilink">LAMP IN TERREN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ACE_COLLECTION" title="wikilink">ACE COLLECTION</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マカロニえんぴつ" title="wikilink">マカロニえんぴつ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 </ul></td>
 </tr>
 <tr class="even">

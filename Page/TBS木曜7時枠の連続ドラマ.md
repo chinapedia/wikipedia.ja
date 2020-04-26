@@ -3,7 +3,7 @@
 
 『**TBS木曜7時枠の連続ドラマ**』は、かつて6期にわたって[KRT→TBSテレビ](../Page/TBSテレビ.md "wikilink")[系列の](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[木曜](../Page/木曜日.md "wikilink")19:00 - 19:30（[JST](../Page/日本標準時.md "wikilink")）に放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")の枠である。
 
-[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")後、この枠は[1984年](../Page/1984年.md "wikilink")[9月](../Page/9月.md "wikilink")までローカルセールス枠に降格されたため、この時期放送された第5・6期作品は、一部（[毎日放送など](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）では遅れネットや未ネットの地域があった。
+[1975年](../Page/1975年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")後、[1984年](../Page/1984年.md "wikilink")[9月](../Page/9月.md "wikilink")まで本枠は、[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")の拘束を受けないローカルセールス枠\[1\]になり、この時期に放送された第5・6期の作品は、[毎日放送や](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")など、遅れネットの系列局や未ネットの系列局があった。
 
 ## 歴史
 
@@ -17,7 +17,7 @@
 
 ### 第1期
 
-  - [喜劇大学 珍版太閤記](https://ja.wikipedia.org/wiki/喜劇大学_珍版太閤記 "wikilink")（1960年9月1日 - 1961年3月30日）\[1\]
+  - [喜劇大学 珍版太閤記](https://ja.wikipedia.org/wiki/喜劇大学_珍版太閤記 "wikilink")（1960年9月1日 - 1961年3月30日）\[2\]
 
 ### 第2期
 
@@ -58,4 +58,5 @@
 
 [Category:TBS木曜7時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS木曜7時枠の連続ドラマ "wikilink")
 
-1.
+1.  『[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")』の同時ネットや他系列番組の遅れネットに充てた系列局が多かった。
+2.

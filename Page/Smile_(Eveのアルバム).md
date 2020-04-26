@@ -119,7 +119,7 @@
   - [ヴィレッジヴァンガード](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード "wikilink")
       - 特典CD(ぼっちラジオ3)
   - [Amazon](https://ja.wikipedia.org/wiki/Amazon "wikilink")
-      - Smile缶バッチ
+      - Smile缶バッジ
 
 (全2種の内から、ランダムで1種)
 

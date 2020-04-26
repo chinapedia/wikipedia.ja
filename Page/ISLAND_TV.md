@@ -11,15 +11,23 @@
 
 サイトは大きく「Jj Channel」（ジェジェチャンネル）、「Jemmy Channel」（ジェミーチャンネル）、「Special Channel」（スペシャルチャンネル）の3コンテンツに分かれている。
 
-Jj Channelでは、[SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")、[Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")、[Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")、[HiHi Jets](https://ja.wikipedia.org/wiki/HiHi_Jets "wikilink")、[美 少年](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、[7 MEN 侍](https://ja.wikipedia.org/wiki/7_MEN_侍 "wikilink")、[宇宙Six](https://ja.wikipedia.org/wiki/宇宙Six "wikilink")、[MADE](https://ja.wikipedia.org/wiki/MADE "wikilink")、[なにわ男子](https://ja.wikipedia.org/wiki/なにわ男子 "wikilink")、[Lilかんさい](https://ja.wikipedia.org/wiki/Lil_かんさい "wikilink")、[Aぇ\! groupの計](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")11グループのページが設置されており、各グループごとの動画が配信されている。それぞれのグループにマスコットキャラクターがある。さらにメンバーの詳細なプロフィールも見ることができる。
+Jj Channelでは、[SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")、[Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")、[Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")、[HiHi Jets](https://ja.wikipedia.org/wiki/HiHi_Jets "wikilink")、[美 少年](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、[7 MEN 侍](https://ja.wikipedia.org/wiki/7_MEN_侍 "wikilink")、[<small>少年</small>忍者](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、[Jr.SP](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、[宇宙Six](https://ja.wikipedia.org/wiki/宇宙Six "wikilink")、[なにわ男子](https://ja.wikipedia.org/wiki/なにわ男子 "wikilink")、[Lilかんさい](https://ja.wikipedia.org/wiki/Lil_かんさい "wikilink")、[Aぇ\! groupの計](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")13グループのページが設置されており、各グループごとの動画が配信されている。それぞれのグループにマスコットキャラクターがある。さらにメンバーの詳細なプロフィールも見ることができる。\[5\]
 
-Jemmy Channelでは、グループに属していないジャニーズJr.の動画が配信されている。ただし、[少年忍者の動画はJemmy](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink") Channelで配信される。
+Jemmy Channelでは、グループに属していないジャニーズJr.の動画が配信されている。ただし、2020年3月までの、少年忍者とJr.SPの動画はJemmy Channelで配信されている。
 
-Special Channelでは、ジャニーズJr.のコンサートや公演の生配信がメインに行なわれる。この動画は有料で、大半のコンテンツが500円でコンサート開演から中盤のMCまでが視聴できる。\[5\]
+Special Channelでは、ジャニーズJr.のコンサートや公演の生配信がメインに行なわれる。この動画は有料で、大半のコンテンツが500円でコンサート開演から中盤のMCまでが視聴できる。\[6\]
 
-Jj Channel、Jemmy Channelは非会員でも視聴できるが、Special Channelの視聴には無料の会員登録が必要である。\[6\]
+Jj Channel、Jemmy Channelは非会員でも視聴できるが、Special Channelの視聴には無料の会員登録が必要である。\[7\]
 
 ## 脚注
+
+### 注釈
+
+<references group="注釈" />
+
+### 出典
+
+<references />
 
 ## 外部リンク
 
@@ -31,5 +39,6 @@ Jj Channel、Jemmy Channelは非会員でも視聴できるが、Special Channel
 2.
 3.
 4.
-5.
+5.  2020年3月まで[MADE](https://ja.wikipedia.org/wiki/MADE "wikilink")のページも設置されていたが、解散により削除。過去の動画はJemmy Channelより見ることができる。
 6.
+7.

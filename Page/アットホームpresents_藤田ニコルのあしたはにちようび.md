@@ -17,8 +17,8 @@
 
 ## 放送時間
 
-  - 毎週土曜日 19:00 - 20:30（2020年1月4日 - 2020年3月28日予定）
-  - 毎週土曜日 19:00 - 20:00（2020年4月4日予定 - ）
+  - 毎週土曜日 19:00 - 20:30（2020年1月4日 - 2020年3月28日）
+  - 毎週土曜日 19:00 - 20:00（2020年4月4日 - ）
       - 2020年1月11日の第2回放送にて、4月から放送時間を1時間半から1時間に短縮することが発表された\[2\]。
 
 ## コーナー一覧
@@ -44,7 +44,7 @@
 | [高知県](../Page/高知県.md "wikilink")                                  | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKC）   |                                                                          |                                                                          |         |
 | [山形県](../Page/山形県.md "wikilink")                                  | [山形放送](../Page/山形放送.md "wikilink")（YBC）                      | [2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - |                                                                          |         |
 | [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）   |                                                                          |                                                                          |         |
-| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC）   |                                                                          |                                                                          |         |
+| [長野県](../Page/長野県.md "wikilink")                                  | [信越放送](../Page/信越放送.md "wikilink")（SBC）                      |                                                                          |                                                                          |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB） |                                                                          |                                                                          |         |
 | [福井県](../Page/福井県.md "wikilink")                                  | [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBC）   |                                                                          |                                                                          |         |
 | [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）   |                                                                          |                                                                          |         |

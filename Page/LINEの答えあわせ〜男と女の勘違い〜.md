@@ -1,7 +1,7 @@
 > この記事は[LINEの答えあわせ〜男と女の勘違い〜](https://ja.wikipedia.org/wiki/LINEの答えあわせ〜男と女の勘違い〜)から翻訳されています。
 
 
-『**LINEの答えあわせ〜男と女の勘違い〜**』（ラインのこたえあわせ おとことおんなのかんちがい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[中国の合同プロジェクトで制作され](../Page/中華人民共和国.md "wikilink")、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")ほかで[2020年](../Page/2020年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")から 放送\[1\]、また[TSUTAYAプレミアム](https://ja.wikipedia.org/wiki/TSUTAYAプレミアム "wikilink")・[TSUTAYA TVおよび中国](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ#動画配信事業 "wikilink")・[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")にて[2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から 土曜日の21時に日中同時配信されている[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[古川雄輝](https://ja.wikipedia.org/wiki/古川雄輝 "wikilink")主演\[2\]。
+『**LINEの答えあわせ〜男と女の勘違い〜**』（ラインのこたえあわせ おとことおんなのかんちがい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[中国の合同プロジェクトで制作され](../Page/中華人民共和国.md "wikilink")、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")ほかで[2020年](../Page/2020年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")から[4月5日](../Page/4月5日.md "wikilink")まで放送された\[1\]。また[TSUTAYAプレミアム](https://ja.wikipedia.org/wiki/TSUTAYAプレミアム "wikilink")・[TSUTAYA TVおよび中国](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ#動画配信事業 "wikilink")・[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")にて[2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")から[4月4日](../Page/4月4日.md "wikilink")まで土曜日の21時に日中同時配信された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[古川雄輝](https://ja.wikipedia.org/wiki/古川雄輝 "wikilink")主演\[2\]。
 
 [東京カレンダー](https://ja.wikipedia.org/wiki/東京カレンダー "wikilink")の公式サイト「東京カレンダーWEB」内で[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")まで連載され[2018年](../Page/2018年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に『LINEの答えあわせ 男と女の勘違い』として書籍化もされた、[LINEでのやりとりに潜む男女の心理を綴った人気](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")[エッセイ](../Page/随筆.md "wikilink")「LINEの答えあわせ」\[3\]を原作に、東京の「一日料理教室」で出会った男女7人が繰り広げるLINEにまつわる恋愛模様を男性・女性それぞれの視点で描いて恋愛成功へのヒントを指南する「恋愛実践トレーニングドラマ」\[4\]。
 
@@ -74,17 +74,18 @@
 
 ## 放送・配信日程
 
-| 各話  | 放送日       | 配信日       | サブタイトル         | 脚本   | 監督   |
-| --- | --------- | --------- | -------------- | ---- | ---- |
-| 第1話 | 2020年2月2日 | 2020年2月1日 | 既読スルーは突然に…     | 岸本鮎佳 | 瀧悠輔  |
-| 第2話 | 2月9日      | 2月8日      | 「俺通信」に気をつけろ\!  |      |      |
-| 第3話 | 2月16日     | 2月15日     | 「回り道LINE」の行方   | モラル  | 金井純一 |
-| 第4話 | 2月23日     | 2月22日     | 登場\!「じらしテク」女   | 瀧悠輔  |      |
-| 第5話 | 3月1日      | 2月29日     | 「いい店LINE」の落とし穴 | 岸本鮎佳 | 金井純一 |
-| 第6話 | 3月8日      | 3月7日      | 「元気?LINE」の真実   |      |      |
-| 第7話 | 3月15日     | 3月14日     | 「また今度」っていつ?    | 吉田和弘 |      |
-| 第8話 | 3月22日     | 3月21日     | 圏外男の逆転LINE     | 金井純一 |      |
-| 第9話 | 3月29日     | 3月28日     | まさかの「察してスタンプ男」 | 瀧悠輔  |      |
+| 各話   | 放送日       | 配信日       | サブタイトル         | 脚本   | 監督   |
+| ---- | --------- | --------- | -------------- | ---- | ---- |
+| 第1話  | 2020年2月2日 | 2020年2月1日 | 既読スルーは突然に…     | 岸本鮎佳 | 瀧悠輔  |
+| 第2話  | 2月9日      | 2月8日      | 「俺通信」に気をつけろ\!  |      |      |
+| 第3話  | 2月16日     | 2月15日     | 「回り道LINE」の行方   | モラル  | 金井純一 |
+| 第4話  | 2月23日     | 2月22日     | 登場\!「じらしテク」女   | 瀧悠輔  |      |
+| 第5話  | 3月1日      | 2月29日     | 「いい店LINE」の落とし穴 | 岸本鮎佳 | 金井純一 |
+| 第6話  | 3月8日      | 3月7日      | 「元気?LINE」の真実   |      |      |
+| 第7話  | 3月15日     | 3月14日     | 「また今度」っていつ?    | 吉田和弘 |      |
+| 第8話  | 3月22日     | 3月21日     | 圏外男の逆転LINE     | 金井純一 |      |
+| 第9話  | 3月29日     | 3月28日     | まさかの「察してスタンプ男」 | 瀧悠輔  |      |
+| 第10話 | 4月5日      | 4月4日      | LINEのヴァイヴス     |      |      |
 
 ## 放送局
 

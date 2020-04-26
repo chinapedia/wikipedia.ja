@@ -27,7 +27,7 @@
 
   - [タトラT3R.PV](../Page/タトラT3R.PV.md "wikilink")、タトラT3R.EV - 各都市のタトラT3のうち、機器に加え車体の老朽化も進んでいた車両については、車体が[アライアンスTW](../Page/アライアンスTW.md "wikilink")が製造した「**VerCB3**」に交換されている\[3\]\[4\]。
 
-  - 、[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")R - タトラT3の車体更新車のうち、車体を部分超低床式の「**VerCB3LF**」へ交換した形式。[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")ではタトラT3R.PからT3R.PLFへの改造も行われている\[5\]\[6\]。
+  - 、[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")R - タトラT3の車体更新車のうち、車体を部分超低床式の「**VerCB3LF**」へ交換した形式。[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")ではタトラT3R.PからT3R.PLFへの改造も行われている\[5\]\[6\]。
 
 ## 脚注
 

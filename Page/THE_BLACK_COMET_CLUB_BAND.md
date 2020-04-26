@@ -175,6 +175,7 @@
 
   - [THE BLACK COMET CLUB BAND](http://theblackcometclubband.com/) - [オフィシャルサイト](https://ja.wikipedia.org/wiki/オフィシャルサイト "wikilink")
   - [THE BLACK COMET CLUB BAND](https://www.instagram.com/afroskullrecords/) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
+  - [afroskullrecords](https://www.youtube.com/user/afroskullrecords/videos/) - [youtube](https://ja.wikipedia.org/wiki/youtube "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:2015年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 

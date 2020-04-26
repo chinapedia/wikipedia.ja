@@ -42,13 +42,15 @@
 
 [Tram_Vario_LF_Ostrava.jpg](https://ja.wikipedia.org/wiki/File:Tram_Vario_LF_Ostrava.jpg "fig:Tram_Vario_LF_Ostrava.jpg")
 
-  - **[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")R** - アライアンスTWが展開する「ヴァリオLF」（VarioLF）のうち、タトラT3の機器を流用した形式。車体はT3R.PLFやT3R.SLFと同様に部分超低床構造の「VarCB3LF」を用いるが前面形状や電気機器が異なっている。[2020年](../Page/2020年.md "wikilink")現在、アライアンスTWではT3R.PLFやT3R.SLFについてもヴァリオLFの車種の1つとしている。
+  - **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")R** - アライアンスTWが展開する「ヴァリオLF」（VarioLF）のうち、タトラT3の機器を流用した形式。車体はT3R.PLFやT3R.SLFと同様に部分超低床構造の「VarCB3LF」を用いるが前面形状や電気機器が異なっている。[2020年](../Page/2020年.md "wikilink")現在、アライアンスTWではT3R.PLFやT3R.SLFについてもヴァリオLFの車種の1つとしている。
 
 ### 他国の類似例
 
-[NHK函館放送局_(16534411970).jpg](https://ja.wikipedia.org/wiki/File:NHK函館放送局_\(16534411970\).jpg "fig:NHK函館放送局_(16534411970).jpg")
+  - \- [ベラルーシ](../Page/ベラルーシ.md "wikilink")のが展開する部分超低床電車。新造車両に加え、には[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代に製造された路面電車車両・[KTM-5](https://ja.wikipedia.org/wiki/KTM-5 "wikilink")の一部部品を流用した車両が導入されている\[16\]\[17\]。
 
-  - [函館市交通局8100形電車](../Page/函館市交通局8100形電車.md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における、旧型電車の機器を流用して製造された部分超低床電車の事例。ただしT3R.PLFやT3R.SLFと異なり1両のみの導入に留まった\[16\]。
+  - [函館市交通局8100形電車](../Page/函館市交通局8100形電車.md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における、旧型電車の機器を流用して製造された部分超低床電車。ただしT3R.PLFやT3R.SLF、AKSM-62103と異なり1両のみの導入に留まった\[18\]。
+
+<File:Novosibirsk> tram 2206 2018-12 4.jpg|AKSM-62103（機器流用車） <File:NHK函館放送局> (16534411970).jpg|函館市交通局8100形
 
 ## 脚注
 
@@ -74,3 +76,5 @@
 14.
 15.
 16.
+17.
+18.

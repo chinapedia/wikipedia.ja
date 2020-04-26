@@ -58,7 +58,7 @@
 
   - \[<http://www.joqr.co.jp/moroha/>　MOROHAの\!オニヤンマ獲りにいこうぜ\!|文化放送\]
 
-[Category:2017年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2017年のラジオ番組_\(日本\) "wikilink") [Category:文化放送のトーク番組](https://ja.wikipedia.org/wiki/Category:文化放送のトーク番組 "wikilink") [Category:文化放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:文化放送のバラエティ番組 "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:AbemaRADIO](https://ja.wikipedia.org/wiki/Category:AbemaRADIO "wikilink")
+[Category:2017年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2017年のラジオ番組_\(日本\) "wikilink") [Category:文化放送のトーク番組](https://ja.wikipedia.org/wiki/Category:文化放送のトーク番組 "wikilink") [Category:文化放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:文化放送のバラエティ番組 "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink")
 
 1.
 2.

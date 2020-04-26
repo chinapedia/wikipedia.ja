@@ -207,7 +207,7 @@
 
   - オフィシャルファンブック
     『ブラックスター -Theater Starless- Official Fan Book』
-    [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")より2020年3月11日発売、ISBN 978-4-04-733467-0 \[10\]
+    [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")より2020年3月11日発売、 \[10\]
 
 ## 脚注
 

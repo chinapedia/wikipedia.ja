@@ -27,7 +27,7 @@
         作詞、作曲：[浅利進吾](https://ja.wikipedia.org/wiki/浅利進吾 "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 3.  **禁断の果実**
       -
-        作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")、作曲：KOUDAI IWATSUBO/Seiji Iwasaki、編曲：[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
+        作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")、作曲：KOUDAI IWATSUBO/[Seiji Iwasaki](https://ja.wikipedia.org/wiki/岩崎誠司 "wikilink")、編曲：[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
 4.  **[Honey Honey](https://ja.wikipedia.org/wiki/麒麟の子/Honey_Honey "wikilink")**
       -
         作詞：Kanata Okajima、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：ESME MORI

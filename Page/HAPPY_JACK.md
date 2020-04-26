@@ -57,7 +57,7 @@ HAPPY JACK（ハッピー・ジャック）は、毎年3月に熊本県の複数
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/Puff_Soul" title="wikilink">Puff Soul</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/高田リオン" title="wikilink">高田リオン</a></li>
+<li><a href="../Page/高田リオン.md" title="wikilink">高田リオン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/NIKIIE" title="wikilink">NIKIIE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Schroeder-Headz" title="wikilink">Schroeder-Headz</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Laika_Came_Back" title="wikilink">Laika Came Back</a></li>
@@ -1001,7 +1001,7 @@ HAPPY JACK 2019 H-FINAL EDITION HALL STAGE
   - [あゆみくりかまき](https://ja.wikipedia.org/wiki/あゆみくりかまき "wikilink")
   - [THE イナズマ戦隊](../Page/THE_イナズマ戦隊.md "wikilink")
   - [osage](https://ja.wikipedia.org/wiki/osage "wikilink")
-  - [Karin.](https://ja.wikipedia.org/wiki/Karin. "wikilink")
+  - [Karin.](../Page/Karin..md "wikilink")
   - [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")
   - [kobore](https://ja.wikipedia.org/wiki/kobore "wikilink")
   - [挫・人間](https://ja.wikipedia.org/wiki/挫・人間 "wikilink")

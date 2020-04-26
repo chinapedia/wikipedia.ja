@@ -1,11 +1,11 @@
 > この記事は[CIGNATURE](https://ja.wikipedia.org/wiki/CIGNATURE)から翻訳されています。
 
 
-**CIGNATURE**（シグネイチャー、시그니처）は、[韓国の](../Page/大韓民国.md "wikilink")7人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。C9エンターテイメント所属。[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に1stシングル『NUN NU NAN NA(눈누난나)』でデビュー\[1\]。
+**CIGNATURE**（シグネイチャー、시그니처）は、[韓国の](../Page/大韓民国.md "wikilink")7人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。C9エンターテイメントの子会社、[J9エンターテイメント](https://ja.wikipedia.org/wiki/J9エンターテイメント "wikilink")所属。[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に1stシングル『NUN NU NAN NA(눈누난나)』でデビュー\[1\]。
 
 ## 概要
 
-グループ名の『CIGNATURE』には「音楽界の『SIGNATURE(シグネイチャー)』になる」という意味とメンバーの覚悟が込められている。 CIGNATUREは、[2017年](../Page/2017年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")にデビューして[2019年](../Page/2019年.md "wikilink")[11月](../Page/11月.md "wikilink")に解散したGOOD DAYというガールズグループの再結成したグループでありチェソル・ジウォン・イェア・ソン・ベルの5人のメンバーは、元GOOD DAYのメンバーである。
+グループ名の『CIGNATURE』には「音楽界の『SIGNATURE(シグネイチャー)』になる」という意味とメンバーの覚悟が込められている。また、CIGNATUREという言葉は、SIGNATUREの「S」をC9エンターテイメントの「C」に変えた、造語である。 CIGNATUREは、[GOOD DAYというガールズグループの再結成したグループでありチェソル](https://ja.wikipedia.org/wiki/GOOD_DAY_\(音楽グループ\) "wikilink")・ジウォン・イェア・ソン・ベルの5人は、元GOOD DAYのメンバーである。
 
 ## 略歴
 
@@ -19,12 +19,11 @@
 
 ### 2020年
 
-  - 2月3日、1stシングル(cignature debut lead single Ａ)「NUN NU NAN NA(눈누난나)」のMVを公開。
-  - 2月4日、1stシングル(cignature debut lead single Ａ)「NUN NU NAN NA(눈누난나)」をリリースしてデビュー。
+  - 2月3日、「NUN NU NAN NA(눈누난나)」のMVを午後6時に公開して\[4\]、4日午後6時に1stシングル(cignature debut lead single Ａ)「NUN NU NAN NA(눈누난나)」をリリースしてデビュー。
 
-　同日、ILCHIアートホールにて発売記念ショーケースを開催\[4\]。
+　同日、ILCHIアートホールにて発売記念ショーケースを開催\[5\]。
 
-  - 4月7日、2ndシングル(cignature debut lead single Ｂ)「ASSA(아싸)」をリリース予定。
+  - 4月6日、「ASSA(아싸)」のMVを午前0時に公開して\[6\]、7日午後6時に2ndシングル(cignature debut lead single Ｂ)「ASSA(아싸)」をリリース\[7\]。
 
 ## メンバー
 
@@ -168,6 +167,7 @@
 <tr class="header">
 <th><p>年</p></th>
 <th><p>MV</p></th>
+<th><p>Performance Video</p></th>
 <th><p>Dance Practice　</p></th>
 </tr>
 </thead>
@@ -176,10 +176,16 @@
 <td><p>2020年</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=v1jpv8SMKDU">NUN NU NAN NA(눈누난나)</a></li>
+<li><a href="https://www.youtube.com/watch?v=F0MSirB5aG0">ASSA(아싸)</a></li>
+</ul></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=by7bbpp6jP0">ASSA(아싸)</a></li>
+<li><a href="https://www.youtube.com/watch?v=mYLjqP0q9Uk">ASSA(아싸) (Preview Ver.)</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=PXXnjhyN_Gk">NUN NU NAN NA(눈누난나)</a></li>
-<li><a href="https://www.youtube.com/watch?v=C4mBj_VULlQ">NUN NU NAN NA(눈누난나) Special Video</a></li>
+<li><a href="https://www.youtube.com/watch?v=C4mBj_VULlQ">NUN NU NAN NA(눈누난나) (Special・Preview Ver.)</a></li>
+<li><a href="https://www.youtube.com/watch?v=r3PeZbjc_ls">ASSA(아싸)</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -200,4 +206,7 @@
 1.
 2.
 3.
-4.
+4.  [Cignature – デビュー曲”Nun Nu Nan Na”のMV公開](https://daebak.tokyo/2020/02/03/c9ent-c9girlz/) デバク K-POPニュース＆ゴシップ 2020年4月6日閲覧。
+5.
+6.
+7.

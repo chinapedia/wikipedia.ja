@@ -75,7 +75,7 @@
   -
   -
   -
-[Category:にじさんじ](https://ja.wikipedia.org/wiki/Category:にじさんじ "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:バーチャルYouTuber](https://ja.wikipedia.org/wiki/Category:バーチャルYouTuber "wikilink")
+[Category:にじさんじ](https://ja.wikipedia.org/wiki/Category:にじさんじ "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:バーチャルYouTuber](https://ja.wikipedia.org/wiki/Category:バーチャルYouTuber "wikilink")
 
 1.
 2.

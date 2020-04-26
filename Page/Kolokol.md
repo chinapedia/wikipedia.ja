@@ -65,6 +65,7 @@
   - [1月3日](../Page/1月3日.md "wikilink")　[心斎橋](../Page/心斎橋.md "wikilink")VARONにて不定期単独公演kolojû-2020-を開催。[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に[梅田バナナホール](../Page/梅田バナナホール.md "wikilink")にて2ndワンマンライブ「WONDERLAND」を開催することを発表。
   - [1月24日](../Page/1月24日.md "wikilink")　[アメリカ村](../Page/アメリカ村.md "wikilink")BEYONDにて佳凪きの&藤本さき合同生誕祭を開催。オリジナルユニット曲「千年樹」を披露。
   - [2月20日](../Page/2月20日.md "wikilink")　2ndアルバム「WONDERLAND」を配信開始。
+  - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")　[梅田バナナホール](../Page/梅田バナナホール.md "wikilink")にて2ndワンマンライブ「WONDERLAND」を開催。同日、[青山月見ル君想フ](../Page/青山月見ル君想フ.md "wikilink")にて東京で初のワンマンライブを開催することを発表。
 
 ## 作品
 

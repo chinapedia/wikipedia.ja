@@ -13,7 +13,7 @@
 
 ## 作品
 
-ファイル:Cosmo Oil company logo.svg|コスモ石油 VI [File:Ogakisyoten.jpg|大垣書店VI](File:Ogakisyoten.jpg%7C大垣書店VI) ファイル:Yamaha Motor logo.svg|ヤマハ発動機 VI |ヤマハ発動機 242 Limited S ファイル:Pwcfastturn.jpg|ヤマハ発動機 Wave Runner ファイル:Yamaha Outboard Motors 001.JPG|ヤマハ発動機 船外機 |ヤマハ発動機 F250C VMAX |KARCHER社 高圧洗浄機JTK28 |ソフトバンク 913SH G TYPE-CHAR　シャア専用ケータイ ファイル:Karasuma7599.JPG|御池通りシンボルロード |MCドコー 広告付きバス停京都モデル |京都市 京都市交通局利用促進ポスター「地下鉄に乗るっ」 [File:Tsunamibosai.jpg|津波防災サインピクトグラム](File:Tsunamibosai.jpg%7C津波防災サインピクトグラム)
+ファイル:Cosmo Oil company logo.svg|コスモ石油 VI [File:Ogakisyoten.jpg|大垣書店VI](File:Ogakisyoten.jpg%7C大垣書店VI) ファイル:Yamaha Motor logo.svg|ヤマハ発動機 VI |ヤマハ発動機 242 Limited S ファイル:Pwcfastturn.jpg|ヤマハ発動機 Wave Runner ファイル:Yamaha Outboard Motors 001.JPG|ヤマハ発動機 船外機 |ヤマハ発動機 F250C VMAX |KARCHER社 高圧洗浄機JTK28 |ソフトバンク 913SH G TYPE-CHAR　シャア専用ケータイ ファイル:Karasuma7599.JPG|御池通りシンボルロード |MCドコー 広告付きバス停京都モデル ファイル:地下鉄に乗る.jpg|京都市 京都市交通局利用促進ポスター「地下鉄に乗るっ」 [File:Tsunamibosai.jpg|津波防災サインピクトグラム](File:Tsunamibosai.jpg%7C津波防災サインピクトグラム)
 
   - コーヒー挽き器「[CM101,201](https://ja.wikipedia.org/wiki/CM101,201 "wikilink")」／[株式会社アクトトレーディング](https://ja.wikipedia.org/wiki/アクトトレーディング "wikilink") グッドデザイン賞 1978年
   - ステンレスポット「[ACT-L](https://ja.wikipedia.org/wiki/ACT-L "wikilink")」／[株式会社アクトエル](https://ja.wikipedia.org/wiki/アクトエル "wikilink") グッドデザイン賞 1979年

@@ -281,7 +281,7 @@
 </tr>
 <tr class="odd">
 <td><p><small>1999</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/刑事ナッシュ・ブリッジス" title="wikilink">刑事ナッシュ・ブリッジス</a><br />
+<td><p><small><a href="../Page/刑事ナッシュ・ブリッジス.md" title="wikilink">刑事ナッシュ・ブリッジス</a><br />
 <em>Nash Bridges</em></small></p></td>
 <td><p><small>ウラジミール・ヤドカ</small></p></td>
 <td><p><small>1エピソード</small></p></td>

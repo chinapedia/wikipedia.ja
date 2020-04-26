@@ -1,7 +1,7 @@
 > この記事は[I LOVE...](https://ja.wikipedia.org/wiki/I_LOVE...)から翻訳されています。
 
 
-「**I LOVE...**」（アイラブ）は、[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ピアノPOPバンド](../Page/バンド_\(音楽\).md "wikilink")・[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")の4作目の[シングル](../Page/シングル.md "wikilink")。
+「**I LOVE...**」（アイラブ）は、[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ピアノPOPバンド](../Page/バンド_\(音楽\).md "wikilink")・[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")の楽曲。4作目の[シングル](../Page/シングル.md "wikilink")としてリリースされた。
 
 ## 概要
 
@@ -12,15 +12,19 @@
 
 ## 収録曲
 
-全作詞・作曲：藤原聡/編曲：Official髭男dism
+全作詞・作曲：[藤原聡](https://ja.wikipedia.org/wiki/藤原聡 "wikilink")/編曲：Official髭男dism
 
-1.  **I LOVE...**
-2.  **I LOVE...〜Instrumental〜**
+1.  I LOVE...
+2.  I LOVE...〜Instrumental〜
 
 ## タイアップ
 
   - [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系 [火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")「[恋はつづくよどこまでも](https://ja.wikipedia.org/wiki/恋はつづくよどこまでも "wikilink")」主題歌（\#1）\[2\]。
   - [Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink") CMソング（\#1）\[3\]
+
+## 関連項目
+
+  - [2020年Billboard Japan Streaming Songs1位の一覧](../Page/2020年Billboard_Japan_Streaming_Songs1位の一覧.md "wikilink")
 
 ## 脚注
 

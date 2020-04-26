@@ -43,7 +43,7 @@
 
   - [ユニバーサルミュージックによる紹介ページ](https://www.universal-music.co.jp/mrsgreenapple/products/uu1as-00451/)
 
-[Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:Mrs._GREEN_APPLEの楽曲](https://ja.wikipedia.org/wiki/Category:Mrs._GREEN_APPLEの楽曲 "wikilink") [Category:2017年の楽曲](https://ja.wikipedia.org/wiki/Category:2017年の楽曲 "wikilink")
+[Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:Mrs._GREEN_APPLEの楽曲](https://ja.wikipedia.org/wiki/Category:Mrs._GREEN_APPLEの楽曲 "wikilink") [Category:2017年の楽曲](https://ja.wikipedia.org/wiki/Category:2017年の楽曲 "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink")
 
 1.
 2.

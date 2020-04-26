@@ -15,9 +15,9 @@
 
 シングル発売前の[10月16日](../Page/10月16日.md "wikilink")に[先行配信され](../Page/音楽配信.md "wikilink")、ダウンロード特典として[12月15日](../Page/12月15日.md "wikilink")に都内で開催のスペシャル・アコースティック・ライヴに最大50組100名がされた。このライヴの模様は公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルで生配信された\[3\]\[4\]。
 
-シングルのジャケットは[岩瀬直美](https://ja.wikipedia.org/wiki/岩瀬直美 "wikilink")がデザインしたもので\[5\]、長屋扮するグリーンおばけが被写体となっている\[6\]。
+シングルのジャケットは[岩瀬直美](https://ja.wikipedia.org/wiki/岩瀬直美 "wikilink")がデザインしたもので\[5\]、長屋扮するグリーンおばけが被写体となっている\[6\]\[7\]\[8\]。
 
-シングルは、2019年[11月18日](../Page/11月18日.md "wikilink")付のオリコン週間シングルランキングで初登場32位を獲得した\[7\]。
+シングルは、2019年[11月18日](../Page/11月18日.md "wikilink")付のオリコン週間シングルランキングで初登場32位を獲得した\[9\]。
 
 ## 収録内容
 
@@ -25,26 +25,23 @@
 
 1.  **sabotage**
       -
-        [TBS系](../Page/TBSテレビ.md "wikilink")[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")『[G線上のあなたと私](https://ja.wikipedia.org/wiki/G線上のあなたと私#テレビドラマ "wikilink")』の主題歌で、同作のために書き下ろされた\[8\]。
-        タイトルの「sabotage」は、[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")の「[Sabotage](https://ja.wikipedia.org/wiki/サボタージュ_\(曲\) "wikilink")」（[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")のカバー）から、どんな意味を持つ言葉なのか興味を持ち、「サボる」の語源となっていることを知り、タイアップ先のドラマの主人公・也映子にマッチするということで採用された\[9\]。
-        「自分ってなんだっけ?」という自問自答をテーマとしており、作詞作曲を手掛けた[長屋晴子](https://ja.wikipedia.org/wiki/長屋晴子 "wikilink")は「空っぽからどうするかを描きたかった。物語のようにモヤモヤし続けてきた悩みが火種になって何かが変わる可能だってあるのかなと。」「今の私が納得できる部分と“理想の自分”みたいなものが、不思議なバランスで成り立っている曲」とコメントしている\[10\]。
-        ドラマの制作サイドと共に主題歌を制作するにあたり、「明るい曲にしたい」というテーマを念頭に置かれていた。長屋は「これについては、現在の自分自身とのギャップで戸惑った。」「でも逆に言うと、この曲では“なりたい自分”を表現できたと思う。」とコメントしている。\[11\]
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は[林響太朗](https://ja.wikipedia.org/wiki/林響太朗 "wikilink")、撮影は[花房遼](https://ja.wikipedia.org/wiki/花房遼 "wikilink")が担当しており、楽曲の世界観を表現した映像となっている\[12\]。このほか先行配信に合わせてレコーディング時の映像を元に編集されたリリック・ビデオが公開されている\[13\]。
-        [10月2日](../Page/10月2日.md "wikilink")に放送の[FM802](../Page/FM802.md "wikilink")『802 RADIO MASTERS』で初放送となった\[14\]。
+        [TBS系](../Page/TBSテレビ.md "wikilink")[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")『[G線上のあなたと私](https://ja.wikipedia.org/wiki/G線上のあなたと私#テレビドラマ "wikilink")』の主題歌で、同作のために書き下ろされた\[10\]。
+        タイトルの「sabotage」は、[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")の「[Sabotage](https://ja.wikipedia.org/wiki/サボタージュ_\(曲\) "wikilink")」（[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")のカバー）から、どんな意味を持つ言葉なのか興味を持ち、「サボる」の語源となっていることを知り、タイアップ先のドラマの主人公・也映子にマッチするということで採用された\[11\]。
+        「自分ってなんだっけ?」という自問自答をテーマとしており、作詞作曲を手掛けた[長屋晴子](https://ja.wikipedia.org/wiki/長屋晴子 "wikilink")は「空っぽからどうするかを描きたかった。物語のようにモヤモヤし続けてきた悩みが火種になって何かが変わる可能だってあるのかなと。」「今の私が納得できる部分と“理想の自分”みたいなものが、不思議なバランスで成り立っている曲」とコメントしている\[12\]。
+        ドラマの制作サイドと共に主題歌を制作するにあたり、「明るい曲にしたい」というテーマを念頭に置かれていた。長屋は「これについては、現在の自分自身とのギャップで戸惑った。」「でも逆に言うと、この曲では“なりたい自分”を表現できたと思う。」とコメントしている。\[13\]
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の監督は[林響太朗](https://ja.wikipedia.org/wiki/林響太朗 "wikilink")、撮影は[花房遼](https://ja.wikipedia.org/wiki/花房遼 "wikilink")が担当しており、楽曲の世界観を表現した映像となっている\[14\]。このほか先行配信に合わせてレコーディング時の映像を元に編集されたリリック・ビデオが公開されている\[15\]。
+        [10月2日](../Page/10月2日.md "wikilink")に放送の[FM802](../Page/FM802.md "wikilink")『802 RADIO MASTERS』で初放送となった\[16\]。
 2.  **Alright\!\!**
       -
         [NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")『[うまいッ\!](https://ja.wikipedia.org/wiki/うまいッ! "wikilink")』テーマソング。
-        作詞は長屋と[穴見真吾](https://ja.wikipedia.org/wiki/穴見真吾 "wikilink")の共作で、穴見が書いた歌詞に長屋が手を加える形で制作された\[15\]。楽曲について長屋は「『[始まりの歌](https://ja.wikipedia.org/wiki/ADORE "wikilink")』は、何かを始めるその瞬間に『大丈夫だよ』とその人の背中を押すようなイメージ。でも、『Alright\!\!』はそうではなくては『何かを始めたくて仕方がない\!』と浮かれてワクワクしているような、そんな視点で書いてみようと思った。」と語っている\[16\]。
-        作曲を手掛けた[peppe](https://ja.wikipedia.org/wiki/peppe "wikilink")は、「[ピアノ](../Page/ピアノ.md "wikilink")を弾いているときに冒頭のメロディとコードが思い浮かんだ。」とコメントしている\[17\]。
-
-<!-- end list -->
-
-1.  **Alice -緑黄色社会 vol.9 東京編 2019.6.14-**
+        作詞は長屋と[穴見真吾](https://ja.wikipedia.org/wiki/穴見真吾 "wikilink")の共作で、穴見が書いた歌詞に長屋が手を加える形で制作された\[17\]。楽曲について長屋は「『[始まりの歌](https://ja.wikipedia.org/wiki/ADORE "wikilink")』は、何かを始めるその瞬間に『大丈夫だよ』とその人の背中を押すようなイメージ。でも、『Alright\!\!』はそうではなくては『何かを始めたくて仕方がない\!』と浮かれてワクワクしているような、そんな視点で書いてみようと思った。」と語っている\[18\]。
+        作曲を手掛けた[peppe](https://ja.wikipedia.org/wiki/peppe "wikilink")は、「[ピアノ](../Page/ピアノ.md "wikilink")を弾いているときに冒頭のメロディとコードが思い浮かんだ。」とコメントしている\[19\]。
+3.  **Alice -緑黄色社会 vol.9 東京編 2019.6.14-**
       -
         初回生産限定盤のみに収録。
-        2019年6月14日にLIQUIDROOM\[18\]で開催された「緑黄色夜祭 vol.9 -東京編-」でのライブ音源\[19\]。
+        2019年6月14日にLIQUIDROOM\[20\]で開催された「緑黄色夜祭 vol.9 -東京編-」でのライブ音源\[21\]。
         スタジオ音源は会場限定音源第3弾『リアリズム』や、1stアルバム『[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会_\(アルバム\) "wikilink")』（Album ver.）に収録されている。
-2.  **[またね](https://ja.wikipedia.org/wiki/Nice_To_Meet_You?? "wikilink") -緑黄色社会 vol.9 東京編 2019.6.14-**
+4.  **[またね](https://ja.wikipedia.org/wiki/Nice_To_Meet_You?? "wikilink") -緑黄色社会 vol.9 東京編 2019.6.14-**
       -
         初回生産限定盤のみに収録。
         2019年6月14日にLIQUIDROOMで開催された「緑黄色夜祭 vol.9 -東京編-」でのライブ音源。
@@ -77,13 +74,13 @@
 
   - [TBS系](../Page/TBSテレビ.md "wikilink")[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")『[G線上のあなたと私](https://ja.wikipedia.org/wiki/G線上のあなたと私#テレビドラマ "wikilink")』主題歌（\#1）
   - [NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")『[うまいッ\!](https://ja.wikipedia.org/wiki/うまいッ! "wikilink")』テーマソング（\#2）
-  - [ユニクロ](../Page/ユニクロ.md "wikilink")「2019年秋冬ヒートテックインナー」店内放送曲（\#2）\[20\]
+  - [ユニクロ](../Page/ユニクロ.md "wikilink")「2019年秋冬ヒートテックインナー」店内放送曲（\#2）\[22\]
 
 ## 配信限定シングル「sabotage -acoustic ver.-」
 
-2019年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")放送の『G線上のあなたと私』第7話のエンディングで使用された。タイトルのとおり、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")編成でレコーディングされており、バンドサウンドと[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を主軸としたオリジナルバージョンとは異なるアレンジとなっている\[21\]
+2019年[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")放送の『G線上のあなたと私』第7話のエンディングで使用された。タイトルのとおり、[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")編成でレコーディングされており、バンドサウンドと[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を主軸としたオリジナルバージョンとは異なるアレンジとなっている\[23\]
 
-[2019年](../Page/2019年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に各音楽配信サイトやストリーミングサービスでの配信が開始された\[22\]。
+[2019年](../Page/2019年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に各音楽配信サイトやストリーミングサービスでの配信が開始された\[24\]。
 
 ## 脚注
 
@@ -119,3 +116,5 @@
 20.
 21.
 22.
+23.
+24.

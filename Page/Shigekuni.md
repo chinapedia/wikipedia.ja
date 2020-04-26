@@ -82,7 +82,7 @@ DadaDとして[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")司
 
 <references />
 
-[Category:音楽](https://ja.wikipedia.org/wiki/Category:音楽 "wikilink")
+[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink")
 
 1.
 2.

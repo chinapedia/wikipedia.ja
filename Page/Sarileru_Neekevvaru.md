@@ -59,7 +59,7 @@
   -
   - [インドエイガジャパン株式会社](http://indoeiga.com)
 
-[Category:テルグ語で製作された映画作品](https://ja.wikipedia.org/wiki/Category:テルグ語で製作された映画作品 "wikilink") [Category:インドの映画作品](https://ja.wikipedia.org/wiki/Category:インドの映画作品 "wikilink") [Category:インドのアクション映画](https://ja.wikipedia.org/wiki/Category:インドのアクション映画 "wikilink") [Category:公開前の映画](https://ja.wikipedia.org/wiki/Category:公開前の映画 "wikilink") [Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink")
+[Category:テルグ語で製作された映画作品](https://ja.wikipedia.org/wiki/Category:テルグ語で製作された映画作品 "wikilink") [Category:インドの映画作品](https://ja.wikipedia.org/wiki/Category:インドの映画作品 "wikilink") [Category:インドのアクション映画](https://ja.wikipedia.org/wiki/Category:インドのアクション映画 "wikilink")
 
 1.
 2.

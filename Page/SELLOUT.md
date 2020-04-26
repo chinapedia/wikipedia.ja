@@ -39,7 +39,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><strong>メンバー名</strong></p></th>
+<th><p>名前</p></th>
 <th><p>生年月日</p></th>
 <th><p>出身</p></th>
 <th><p>ポジション</p></th>
@@ -48,48 +48,41 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>名前</strong></p></td>
-<td><p><strong>本名</strong>[4]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>TATSUYA</strong></p></td>
-<td><p>丹羽 達也</p></td>
 <td></td>
 <td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td><p>リーダー</p></td>
+<td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>Liki</strong>(リキ)</p></td>
-<td><p>大内力</p></td>
+<tr class="even">
+<td><p><strong>Liki</strong></p></td>
 <td></td>
 <td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td></td>
+<td><p>作詞、作曲を担当</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>SHOHEI</strong></p></td>
-<td><p>工藤 翔平</p></td>
 <td></td>
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p>メインボーカル・ダンス</p></td>
+<td><p>活動休止後、2020年にオーディション番組「<a href="../Page/G-EGG_(テレビ番組).md" title="wikilink">G-EGG</a>」に参加[4]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>RANMA</strong></p></td>
-<td><p>井尻翼馬</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>SHUN</strong></p></td>
-<td><p>川添俊平</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p>ダンス・ラップ</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -204,7 +197,7 @@ GCER2002</p></td>
 1.  \[<https://www.nikkansports.com/entertainment/news/201812190000715.html>　ＳＥＬＬＯＵＴに新メンバー加入「新しい風吹かす」\]日刊スポーツ2018年12月19日
 2.  \[<https://twitter.com/sskingmaster/status/1075387684145704960?s=20>　PaniCrew YOHEY Twitter\]2018年12月19日
 3.  \[<https://ameblo.jp/selloutofficial/entry-12531114523.html>　SELLOUTに関するお知らせ\]SELLOUTオフィシャルブログ2019年9月30日
-4.  \[<https://yokokokon.com/newevl/?p=11362>　SELLOUTのメンバーの年齢やwikiは？プロフィールや曲まとめ\]
+4.  \[<https://twitter.com/Gegg_yna/status/1195899928989405186?s=20>　【G-EGG生紹介】工藤 翔平\]G-egg公式Twitter2019年11月17日
 5.  [ＳＥＬＬＯＵＴ、新曲オリコン３位！昨年ライブ３００本「将来は武道館」](https://www.sanspo.com/geino/news/20180319/geo18031905010013-n1.html)サンケイスポーツ2018年3月19日
 6.  [男性４人組セルアウト新曲オリコン１位「ビックリ」](https://www.nikkansports.com/entertainment/news/201810240000678.html)日刊スポーツ2018年10月24日
 7.  \[<https://www.oricon.co.jp/prof/718080/rank/single/>　SELLOUTシングル売上ランキング \]オリコン

@@ -55,9 +55,6 @@
         北川がプロデューサーから「インドの曲を作って欲しい」と言われ、カレーを食べるなどしてインドをしっかり研究して作った。曲のタイトルは、その後プロデューサーから「もう少しインド抑えて」と言われて北川が放った言葉「今さら\!?」から。
 9.  **フラフラ**
       - 作詞 : [岩沢厚治](https://ja.wikipedia.org/wiki/岩沢厚治 "wikilink") / 作曲：岩沢厚治 / Arranged by [須藤優](https://ja.wikipedia.org/wiki/須藤優 "wikilink") & ゆず
-    <!-- end list -->
-      -
-        以前から存在していた曲だという。
 10. **[夏疾風](https://ja.wikipedia.org/wiki/夏疾風 "wikilink") (YZ ver.)**
       - 作詞 : 北川悠仁 / 作曲：北川悠仁 / Arranged by [トオミヨウ](https://ja.wikipedia.org/wiki/トオミヨウ "wikilink") & ゆず
     <!-- end list -->
@@ -71,6 +68,7 @@
     <!-- end list -->
       -
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』主題歌
+        本作の中で唯一のCDシングル曲。
 13. **まだまだ**
       - 作詞 : 岩沢厚治 / 作曲：岩沢厚治 / Arranged by トオミヨウ & ゆず
     <!-- end list -->

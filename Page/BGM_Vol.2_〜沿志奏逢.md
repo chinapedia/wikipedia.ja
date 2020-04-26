@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-1.  **[村田朋泰](../Page/村田朋泰.md "wikilink")監督による「[糸](https://ja.wikipedia.org/wiki/沿志奏逢#収録曲 "wikilink")」のアニメーション原画および[MV](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")**
+1.  **[村田朋泰](../Page/村田朋泰.md "wikilink")監督による「[糸](https://ja.wikipedia.org/wiki/沿志奏逢#収録曲 "wikilink")」のアニメーション原画および[MV](../Page/ミュージック・ビデオ.md "wikilink")**
 
 ### Disc 2
 

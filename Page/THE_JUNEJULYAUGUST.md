@@ -182,6 +182,8 @@ Drums：梶原幸嗣　2018年9月13日脱退
 
 [THE JUNEJULYAUGUST official homepage](https://afro-skull.com/main/jja/)
 
+[afroskullrecords](https://www.youtube.com/user/afroskullrecords/videos/) - [youtube](https://ja.wikipedia.org/wiki/youtube "wikilink")
+
 [Tsukasa Inoue - ホームページ](http://tsukka2003.wixsite.com/tsukasadrums)
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2010年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に結成した音楽グループ "wikilink")

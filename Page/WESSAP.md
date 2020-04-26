@@ -17,7 +17,7 @@
   - [彩真留](https://ja.wikipedia.org/wiki/彩真留 "wikilink")
   - [六条瑠伽](https://ja.wikipedia.org/wiki/六条瑠伽 "wikilink")
   - [ゆかもり](https://ja.wikipedia.org/wiki/ゆかもり "wikilink")
-  - [モノクロエール](https://ja.wikipedia.org/wiki/モノクロエール "wikilink")
+  - [モノクロエール](../Page/モノクロエール.md "wikilink")
   - [笹塚真以](https://ja.wikipedia.org/wiki/笹塚真以 "wikilink")
   - [御縁明日菜](https://ja.wikipedia.org/wiki/御縁明日菜 "wikilink")
   - [萬造寺竜希](https://ja.wikipedia.org/wiki/萬造寺竜希 "wikilink")
@@ -62,6 +62,8 @@
   - [虎羽美早紀](https://ja.wikipedia.org/wiki/虎羽美早紀 "wikilink")
   - [古原万稚](https://ja.wikipedia.org/wiki/古原万稚 "wikilink")
   - [伊東秀悟](https://ja.wikipedia.org/wiki/伊東秀悟 "wikilink")
+  - [森崎真帆](https://ja.wikipedia.org/wiki/森崎真帆 "wikilink")
+  - [岩崎三由記](https://ja.wikipedia.org/wiki/岩崎三由記 "wikilink")
 
 ## 脚注
 

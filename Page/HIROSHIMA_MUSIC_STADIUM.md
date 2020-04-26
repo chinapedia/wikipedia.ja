@@ -67,7 +67,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/myeahns" title="wikilink">myeahns</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Unblock" title="wikilink">Unblock</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/EVERLONG" title="wikilink">EVERLONG</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_BOHEMIANS" title="wikilink">THE BOHEMIANS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゆるふわリムーブ" title="wikilink">ゆるふわリムーブ</a></li>
 </ul></td>

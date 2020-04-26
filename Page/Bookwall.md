@@ -42,7 +42,7 @@
   - 『[背中の蜘蛛](https://ja.wikipedia.org/wiki/背中の蜘蛛 "wikilink")』　誉田哲也　双葉社　[2019年](../Page/2019年.md "wikilink")
   - 『[麦本三歩の好きなもの](https://ja.wikipedia.org/wiki/麦本三歩の好きなもの "wikilink")』　住野よる　幻冬舎　2019年　
   - 『[クジラアタマの王様](https://ja.wikipedia.org/wiki/クジラアタマの王様 "wikilink")』　[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")　NHK出版　2019年　
-  - 『[錨を上げよ](https://ja.wikipedia.org/wiki/錨を上げよ "wikilink")』([幻冬社文庫](https://ja.wikipedia.org/wiki/幻冬社文庫 "wikilink")) 　百田尚樹　幻冬舎　2019年　
+  - 『[錨を上げよ](https://ja.wikipedia.org/wiki/錨を上げよ "wikilink")』([幻冬舎文庫](../Page/幻冬舎文庫.md "wikilink")) 　百田尚樹　幻冬舎　2019年　
   - 『[死にがいを求めて生きているの](https://ja.wikipedia.org/wiki/死にがいを求めて生きているの "wikilink")』　[朝井リョウ](https://ja.wikipedia.org/wiki/朝井リョウ "wikilink")　中央公論新社　2019年
   - 『[元気に下山　毎日を愉しむ48のヒント](https://ja.wikipedia.org/wiki/元気に下山_毎日を愉しむ48のヒント "wikilink")』　[五木寛之](../Page/五木寛之.md "wikilink")　[宝島社](../Page/宝島社.md "wikilink")　2019年
   - 『ウチら棺桶まで永遠のランウェイ』　[kemio](https://ja.wikipedia.org/wiki/けみお "wikilink") 　KADOKAWA 2019年

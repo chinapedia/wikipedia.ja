@@ -9,9 +9,9 @@
 
 ## キャスト
 
-  - [ラナ・コンドル](../Page/ラナ・コンドル.md "wikilink") - ララ・ジーン・コヴィー
-  - [ノア・センティネオ](https://ja.wikipedia.org/wiki/ノア・センティネオ "wikilink") - ピーター・ケヴィンスキー
-  - [ジョーダン・フィッシャー](https://ja.wikipedia.org/wiki/ジョーダン・フィッシャー "wikilink") - ジョン・アンブローズ・マクラーレン
+  - [ラナ・コンドル](../Page/ラナ・コンドル.md "wikilink") - ララ・ジーン・コヴィー（吹替：[井上ほの花](https://ja.wikipedia.org/wiki/井上ほの花 "wikilink")）
+  - [ノア・センティネオ](https://ja.wikipedia.org/wiki/ノア・センティネオ "wikilink") - ピーター・ケヴィンスキー （吹替：[小野賢章](../Page/小野賢章.md "wikilink")）
+  - [ジョーダン・フィッシャー](https://ja.wikipedia.org/wiki/ジョーダン・フィッシャー "wikilink") - ジョン・アンブローズ・マクラーレン（吹替：[鈴木崚汰](https://ja.wikipedia.org/wiki/鈴木崚汰 "wikilink")）
   - [ジャネル・パリッシュ](https://ja.wikipedia.org/wiki/ジャネル・パリッシュ "wikilink") - マーゴット
   - [アナ・キャスカート](https://ja.wikipedia.org/wiki/アナ・キャスカート "wikilink") - キャサリン（キティ）
   - [トレッツォ・マホロ](https://ja.wikipedia.org/wiki/トレッツォ・マホロ "wikilink") - ルーカス

@@ -13,7 +13,14 @@
 
 1.  **Philosophy** (18祭 Mix)
       -
-        作詞・作曲：川上洋平　訳詞：戸田よぺ子　編曲：\[Alexandros\]
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：川上洋平
+        訳詞：戸田よぺ子
+        編曲：\[Alexandros\]
+
+        </div>
     <!-- end list -->
       - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『\[\[18祭\#2019年|\[ALEXANDROS\] 18祭\]\]』制作曲
 

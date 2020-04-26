@@ -30,4 +30,4 @@
 
 ## 脚注
 
-[Category:2014年のシングル](https://ja.wikipedia.org/wiki/Category:2014年のシングル "wikilink") [Category:デビュー・シングル](https://ja.wikipedia.org/wiki/Category:デビュー・シングル "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:2014年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2014年のデビュー・シングル "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

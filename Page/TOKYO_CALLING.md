@@ -115,7 +115,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/絶景クジラ" title="wikilink">絶景クジラ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MOSHIMO" title="wikilink">MOSHIMO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/コレサワ" title="wikilink">コレサワ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/カヨコ" title="wikilink">カヨコ</a></li>
+<li><a href="../Page/草野華余子.md" title="wikilink">カヨコ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/出雲咲乃" title="wikilink">出雲咲乃</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/日食なつこ" title="wikilink">日食なつこ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/宇宙まお" title="wikilink">宇宙まお</a></li>
@@ -359,7 +359,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/AIR_SWELL" title="wikilink">AIR SWELL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/I-RabBits" title="wikilink">I-RabBits</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE_BOSSS" title="wikilink">THE BOSSS</a></li>
-<li><a href="../Page/夏の魔物.md" title="wikilink">夏の魔物</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/夏の魔物_(ユニット)" title="wikilink">夏の魔物</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SIX_LOUNGE" title="wikilink">SIX LOUNGE</a></li>
 <li><a href="../Page/プププランド.md" title="wikilink">プププランド</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CIVILIAN_(バンド)" title="wikilink">CIVILIAN</a></li>
@@ -537,7 +537,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/SABANNAMAN" title="wikilink">SABANNAMAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THREE_LIGHTS_DOWN_KINGS" title="wikilink">THREE LIGHTS DOWN KINGS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MINAMI_NiNE" title="wikilink">MINAMI NiNE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_夏の魔物" title="wikilink">THE 夏の魔物</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/夏の魔物_(ユニット)" title="wikilink">THE 夏の魔物</a></li>
 <li><a href="../Page/巨乳まんだら王国。.md" title="wikilink">巨乳まんだら王国。</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE冠" title="wikilink">THE冠</a></li>
 <li><a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
@@ -547,7 +547,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/知る権利_(バンド)" title="wikilink">知る権利</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/人性補欠" title="wikilink">人性補欠</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/谷川POPゴリラ" title="wikilink">谷川POPゴリラ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THIS_IS_JAPAN" title="wikilink">THIS IS JAPAN</a></li>
+<li><a href="../Page/THIS_IS_JAPAN.md" title="wikilink">THIS IS JAPAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Whoops" title="wikilink">The Whoops</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Folkees" title="wikilink">The Folkees</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/アシュラシンドローム" title="wikilink">アシュラシンドローム</a></li>
@@ -777,7 +777,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ピアノゾンビ" title="wikilink">ピアノゾンビ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/mol-74" title="wikilink">mol-74</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/POT_(バンド)" title="wikilink">POT</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Amelie" title="wikilink">Amelie</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/シナリオアート" title="wikilink">シナリオアート</a></li>
@@ -1220,7 +1220,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/The_Wisely_Brothers" title="wikilink">The Wisely Brothers</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PELICAN_FANCLUB" title="wikilink">PELICAN FANCLUB</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Attractions" title="wikilink">Attractions</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SUSHIBOYS" title="wikilink">SUSHIBOYS</a></li>
+<li><a href="../Page/SUSHIBOYS.md" title="wikilink">SUSHIBOYS</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/mol-74" title="wikilink">mol-74</a></li>
@@ -1336,7 +1336,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/Lucie,Too" title="wikilink">Lucie,Too</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/THIS_IS_JAPAN" title="wikilink">THIS IS JAPAN</a></li>
+<li><a href="../Page/THIS_IS_JAPAN.md" title="wikilink">THIS IS JAPAN</a></li>
 <li><a href="../Page/ミソッカス.md" title="wikilink">みそっかす</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/シンガロンパレード" title="wikilink">シンガロンパレード</a></li>
 <li><a href="../Page/ワタナベフラワー.md" title="wikilink">ワタナベフラワー</a></li>
@@ -1554,7 +1554,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/THE_HELLO_WATER" title="wikilink">THE HELLO WATER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/otter_hangout" title="wikilink">otter hangout</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/タカナミ" title="wikilink">タカナミ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Mega_Shinnosuke" title="wikilink">Mega Shinnosuke</a></li>
+<li><a href="../Page/Mega_Shinnosuke.md" title="wikilink">Mega Shinnosuke</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/メレ" title="wikilink">メレ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PENs+" title="wikilink">PENs+</a></li>
 </ul></td>

@@ -25,7 +25,7 @@
 
 オーガスティンは、アメリカ合衆国大統領から[アメリカ国家技術賞](../Page/アメリカ国家技術賞.md "wikilink")、統合参謀長から殊勲公共奉仕章（[Distinguished Public Service Award](https://ja.wikipedia.org/wiki/:en:Awards_and_decorations_of_the_United_States_government#Joint_Chiefs_of_Staff "wikilink")）を授与されている。また、軍人以外の者に対する国防総省の最高の勲章である殊勲文官奉仕章（[Distinguished Civilian Service Award](https://ja.wikipedia.org/wiki/:en:Department_of_Defense_Distinguished_Civilian_Service_Award "wikilink")）を5回受章している。
 
-国防改革（The Defense Revolution）およびシェイクスピア・イン・チャージ（Shakespeare In Charge）の共著者であり、[オーガスティンの法則 Laws）およびオーガスティンの旅行](https://ja.wikipedia.org/wiki/オーガスティンの法則 "wikilink")（Augustine's（Augustine’s Travels）の著者である。34の名誉学位を取得し、フーズ・フー・イン・アメリカ（Who’s Who in America）および[アメリカ議会図書館](../Page/アメリカ議会図書館.md "wikilink")により、フーズ・フーの50周年を記念した「50人の偉大なアメリカ人（Fifty Great Americans）」の一人に選ばれた。130ヵ国以上の国々を旅行し、北極と南極の両方に行ったことがある。
+国防改革（The Defense Revolution）およびシェイクスピア・イン・チャージ（Shakespeare In Charge）の共著者であり、[オーガスティンの法則 Laws）およびオーガスティンの旅行](../Page/オーガスティンの法則.md "wikilink")（Augustine's（Augustine’s Travels）の著者である。34の名誉学位を取得し、フーズ・フー・イン・アメリカ（Who’s Who in America）および[アメリカ議会図書館](../Page/アメリカ議会図書館.md "wikilink")により、フーズ・フーの50周年を記念した「50人の偉大なアメリカ人（Fifty Great Americans）」の一人に選ばれた。130ヵ国以上の国々を旅行し、北極と南極の両方に行ったことがある。
 
 ## 表彰
 

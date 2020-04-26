@@ -1,7 +1,7 @@
 > この記事は[S-record](https://ja.wikipedia.org/wiki/S-record)から翻訳されています。
 
 
-**Motorola S-record**は、[モトローラ](../Page/モトローラ.md "wikilink")によって作成されたファイル形式であり、バイナリ情報を[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink") [16進テキスト形式で伝達する](../Page/十六進法.md "wikilink")。このファイル形式は**SRECORD**、**SREC**、**S19**、**S28**、**S37**とも呼ばれる。マイクロコントローラ、[EPROM](../Page/EPROM.md "wikilink")、[EEPROM](../Page/EEPROM.md "wikilink")、およびその他の種類のプログラマブルロジックデバイスの[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")のプログラミングによく使用される。典型的な適用では、コンパイラやアセンブラはプログラムのソースコード（[C言語](../Page/C言語.md "wikilink")や[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")など）を[機械語](../Page/機械語.md "wikilink")コードに変換し、16進ファイルに出力する。16進ファイルは、プログラマーによってインポートされ、機械語コードを[不揮発性メモリ](../Page/不揮発性メモリ.md "wikilink")に書き込むか、ロードおよび実行のために対象システムに転送される。
+**Motorola S-record**は、[モトローラ](../Page/モトローラ.md "wikilink")によって作成されたファイル形式であり、バイナリ情報を[ASCII](../Page/ASCII.md "wikilink") [16進テキスト形式で伝達する](../Page/十六進法.md "wikilink")。このファイル形式は**SRECORD**、**SREC**、**S19**、**S28**、**S37**とも呼ばれる。マイクロコントローラ、[EPROM](../Page/EPROM.md "wikilink")、[EEPROM](../Page/EEPROM.md "wikilink")、およびその他の種類のプログラマブルロジックデバイスの[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")のプログラミングによく使用される。典型的な適用では、コンパイラやアセンブラはプログラムのソースコード（[C言語](../Page/C言語.md "wikilink")や[アセンブリ言語](../Page/アセンブリ言語.md "wikilink")など）を[機械語](../Page/機械語.md "wikilink")コードに変換し、16進ファイルに出力する。16進ファイルは、プログラマーによってインポートされ、機械語コードを[不揮発性メモリ](../Page/不揮発性メモリ.md "wikilink")に書き込むか、ロードおよび実行のために対象システムに転送される。
 
 ## 概要
 

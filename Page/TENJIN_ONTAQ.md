@@ -500,7 +500,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/FouFou" title="wikilink">FouFou</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Unblock" title="wikilink">Unblock</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/パロミノベッグス" title="wikilink">パロミノベッグス</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/フィッシュライフ" title="wikilink">フィッシュライフ</a></li>
 </ul></td>
 <td><ul>
@@ -585,7 +585,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ENTH" title="wikilink">ENTH</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/おいしくるメロンパン" title="wikilink">おいしくるメロンパン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/眩暈SIREN" title="wikilink">眩暈SIREN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Winking_Owl" title="wikilink">The Winking Owl</a></li>

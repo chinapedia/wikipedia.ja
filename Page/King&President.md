@@ -28,6 +28,7 @@
   - 1月31日、県別の地域グループ展開開始を告知。\[6\]
   - 2月3日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にミュージックビデオ「[社長やっちゃったよ Short version](https://www.youtube.com/watch?v=GRtYbR2s_gU)」を公開。
   - 2月13日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に「[論拠を示せ Short.ver](https://www.youtube.com/watch?v=Zrt4sBgwbxY)」を公開。
+  - 3月25日、シングルCD「社長やっちゃったよ c/w 論拠を示せ」を[キングレコード](../Page/キングレコード.md "wikilink")より発売。
 
 ## メンバー
 

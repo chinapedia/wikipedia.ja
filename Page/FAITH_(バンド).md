@@ -5,9 +5,9 @@
 
 ## 概要
 
-矢島と荒井からなる[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と、ドリチュラーとキャスナー、メランソンからなる[アメリカとの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハーフ](https://ja.wikipedia.org/wiki/ハーフ_\(混血\) "wikilink")、女性2人、男性3人で構成されている。また、ハーフの3人は幼馴染でもある。
+ヤジマと荒井からなる[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")と、ドリチュラーとキャスナー、メランソンからなる[アメリカとの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハーフ](https://ja.wikipedia.org/wiki/ハーフ_\(混血\) "wikilink")、女性2人、男性3人で構成されている。また、ハーフの3人は幼馴染でもある。
 
-中学2年生の時に兄がバンド活動をしており、それを機に地元の[ライブハウス](../Page/ライブハウス.md "wikilink")である伊那GRAMHOUSEに通い出したのがきっかけで意気投合した矢島、キャスナー、メランソンの3人で前身の[バンドを結成する](../Page/バンド_\(音楽\).md "wikilink")。当初はキャスナーが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務めていたが[変声](../Page/変声.md "wikilink")を境に歌えなくなってしまう。その後、中学から高校に進学する[2015年](../Page/2015年.md "wikilink")の春に、幼馴染であり同じように中学時代から伊那GRAMHOUSEに通っていたドリチュラーと荒井が加入して結成された\[1\]\[2\]。
+中学2年生の時に兄がバンド活動をしており、それを機に地元の[ライブハウス](../Page/ライブハウス.md "wikilink")である伊那GRAMHOUSEに通い出したのがきっかけで意気投合したヤジマ、キャスナー、メランソンの3人で前身の[バンドを結成する](../Page/バンド_\(音楽\).md "wikilink")。当初はキャスナーが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を務めていたが[変声](../Page/変声.md "wikilink")を境に歌えなくなってしまう。その後、中学から高校に進学する[2015年](../Page/2015年.md "wikilink")の春に、幼馴染であり同じように中学時代から伊那GRAMHOUSEに通っていたドリチュラーと荒井が加入して結成された\[1\]\[2\]。
 
 楽曲は各々が[サビ](../Page/サビ.md "wikilink")や[イントロを持ち寄り](https://ja.wikipedia.org/wiki/導入部#音楽 "wikilink")、[スタジオで話し合いながら制作していく](https://ja.wikipedia.org/wiki/スタジオ#レコーディングスタジオ・音響効果スタジオ・MAスタジオ "wikilink")。なお、最初のパーツを持ってきた者が制作の指揮を取ることが多いという。そのため、作曲と編曲のクレジットはバンド名義を使用している\[3\]。
 
@@ -18,11 +18,11 @@
   - **Akari Dritschler**
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。インディーズ時代の名義は**ドリチュラーアカリ**。元々は[クラシック専攻で](../Page/クラシック音楽.md "wikilink")、小学生の頃は[合唱](../Page/合唱.md "wikilink")、中学生の頃は[声楽](../Page/声楽.md "wikilink")を学んでおり、[テイラー・スウィフト](https://ja.wikipedia.org/wiki/テイラー・スウィフト "wikilink")や[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")を聴いていた\[5\]。先輩のバンドが開催した自主企画ライブに誘われて[ライブハウス](../Page/ライブハウス.md "wikilink")に行ったのを機にバンド活動に興味を示すようになる。作詞は自身の身の回りに起こったことを元に書いており、普段から携帯にいろいろな感情をメモしていて、それをスタジオで[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")し、同時に[メロディ](../Page/メロディ.md "wikilink")も考えるというスタイルを取っている\[6\]。
   - **ヤジマレイ**
-      - [ギター](../Page/ギター.md "wikilink")、ボーカル担当。インディーズ時代の名義は**ヤジマレイ**で、本名は矢島嶺。小学5年生の誕生日に[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を買ってもらい、[ゆずなどをコピーしていた](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")。中学生の頃より親の影響で[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")に熱中し[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")を弾くようになる\[7\]。[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の影響を受けている。ギターを始めてから洋楽を聴くようになり、特に[Red Hot Chili Peppersから多大な影響を受けている](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")。
+      - [ギター](../Page/ギター.md "wikilink")、ボーカル担当。インディーズ時代の名義は**ヤジマレイ**。小学5年生の誕生日に[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を買ってもらい、[ゆずなどをコピーしていた](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")。中学生の頃より親の影響で[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")に熱中し[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")を弾くようになる\[7\]。ギターを始めてから洋楽を聴くようになり、特に[Red Hot Chili Peppersから多大な影響を受けている](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")。
   - **レイ キャスナー**
       - ギター、ボーカル担当。インディーズ時代の名義は**コバヤシレイ**。[All Time Lowから影響を受けている](https://ja.wikipedia.org/wiki/オール・タイム・ロウ "wikilink")。
   - **荒井藤子**
-      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。インディーズ時代の名義から唯一変わっていない。中学3年生の時に兄の影響でベースを始める。最初に知ったバンドは[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")で、それからライヴハウスに行くようになって、FAITHを組んでからは洋楽やインディーズのバンドも聴くようになりました。
+      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。インディーズ時代の名義から唯一変わっていない。中学3年生の時に兄の影響でベースを始める。FAITHを組んでからは洋楽やインディーズのバンドも聴くようになったという。
   - **ルカ メランソン**
       - [ドラムス担当](../Page/ドラムセット.md "wikilink")。インディーズ時代の名義は**メランソンルカ**。[ポップ・パンク](../Page/ポップ・パンク.md "wikilink")をルーツとしている。小学5年生の時に兄の影響でドラムスを始め、All Time Lowの楽曲をコピーする。
 
@@ -76,8 +76,8 @@
 | ---------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 2017/08/29 |                                                                         | [Summer (Lyric Video)](https://www.youtube.com/watch?v=UB9T3-dPUWU)    |                                                            |
 | 2017/10/09 | [川崎龍弥](https://ja.wikipedia.org/wiki/川崎龍弥 "wikilink")                   | [Take me away from here](https://www.youtube.com/watch?v=JYS5hd8RQyQ)  |                                                            |
-| 2018/07/27 | [Kei Ikeda](https://ja.wikipedia.org/wiki/池田圭_\(映像作家\) "wikilink")      | [Unexpected](https://www.youtube.com/watch?v=2iTKJX0BA_0)              | Cast：高瀬真奈、FAITH                                            |
-| 2019/03/08 | [KOH YAMADA](https://ja.wikipedia.org/wiki/KOH_YAMADA "wikilink")       | [CHAMP](https://www.youtube.com/watch?v=NcGERB6oJ64)                   | 出演:[佐々木歩夢](https://ja.wikipedia.org/wiki/佐々木歩夢 "wikilink") |
+| 2018/07/27 | [Kei Ikeda](https://ja.wikipedia.org/wiki/池田圭_\(映像作家\) "wikilink")      | [Unexpected](https://www.youtube.com/watch?v=2iTKJX0BA_0)              | 出演：高瀬真奈                                                    |
+| 2019/03/08 | [KOH YAMADA](https://ja.wikipedia.org/wiki/KOH_YAMADA "wikilink")       | [CHAMP](https://www.youtube.com/watch?v=NcGERB6oJ64)                   | 出演：[佐々木歩夢](https://ja.wikipedia.org/wiki/佐々木歩夢 "wikilink") |
 | 2019/04/08 | [大久保拓朗](https://ja.wikipedia.org/wiki/大久保拓朗 "wikilink")                 | [Yellow Road](https://www.youtube.com/watch?v=02j6xuzVdgI)             |                                                            |
 | 2019/06/14 | [Hiromu Fujino](https://ja.wikipedia.org/wiki/Hiromu_Fujino "wikilink") | [Stargazer (Lyric Video)](https://www.youtube.com/watch?v=v-0YEwd0kYk) |                                                            |
 | 2019/09/04 | 大久保拓朗                                                                   | [Our State of Mind](https://www.youtube.com/watch?v=gg-B5vRE7p8)       |                                                            |
@@ -145,7 +145,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>02/22 アメリカ村BEYOND (大阪府)w/<a href="https://ja.wikipedia.org/wiki/竹内アンナ" title="wikilink">竹内アンナ</a>、<a href="https://ja.wikipedia.org/wiki/The_Winking_Owl" title="wikilink">The Winking Owl</a><br />
-<del>02/28 池下CLUB UPSET (愛知県)w/<a href="https://ja.wikipedia.org/wiki/Mega_Shinnosuke" title="wikilink">Mega Shinnosuke</a></del><br />
+<del>02/28 池下CLUB UPSET (愛知県)w/<a href="../Page/Mega_Shinnosuke.md" title="wikilink">Mega Shinnosuke</a></del><br />
 <del>02/29 松本ALECX (長野県)w/FINLANDS、竹内アンナ</del><br />
 <del>03/06 TSUTAYA O-Crest (東京都)</del></p>
 </div>
@@ -280,6 +280,12 @@
 
 </div>
 
+## 出演
+
+### ラジオ
+
+  - SONAR'S ROOM（2020年、[J-WAVE](../Page/J-WAVE.md "wikilink")）※『[SONAR MUSIC](https://ja.wikipedia.org/wiki/SONAR_MUSIC "wikilink")』内、水曜日担当\[9\]
+
 ## 脚注
 
 ### 注釈
@@ -329,3 +335,4 @@
 6.
 7.
 8.  楽曲が起用された年ではなく、音源化された年で明記。
+9.

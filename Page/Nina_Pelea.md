@@ -1,11 +1,11 @@
 > この記事は[Nina Pelea](https://ja.wikipedia.org/wiki/Nina_Pelea)から翻訳されています。
 
 
-**Nina Pelea**は、2019年4月から活動している日本の[歌手](../Page/歌手.md "wikilink")・[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")である[Coco海里](https://ja.wikipedia.org/wiki/Coco海里 "wikilink")によるセルフプロデュースソロプロジェクト。 本項では前身ユニットであるDear L manaに関しても述べる
+**Nina Pelea**は、2019年4月から活動している日本の[歌手](../Page/歌手.md "wikilink")・[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")である[Coco海里](https://ja.wikipedia.org/wiki/Coco海里 "wikilink")によるセルフプロデュースソロプロジェクト。所属事務所は[プリュ](https://ja.wikipedia.org/wiki/プリュ "wikilink")。前身ユニット『Dear L mana』からソロ活動に転向した。
 
 ## 概要
 
-「Dear L mana」のメンバー兼プロデューサー・Coco海里が、2019年春にスタートさせた「戦う女の子」をコンセプトとするソロアイドルプロジェクト\[1\]。 「あえてダンスを少なくボーカルを多めにして、歌そのものを聴かせることにこだわる」スタイルを特徴とする\[2\]。 Nina Peleaとしての楽曲だけでなく、Dear L manaでの楽曲をソロ体制用にアレンジ、リミックスした楽曲も持ち歌とする。Dear L manaが大変台湾での人気が高く多くの現地公演を行っていたこともあり、Nina Peleaもデビュー直後から台湾の大型イベントに招聘されたりワンマンツアーの地に台湾を組み込む等している\[3\]。
+「Dear L mana」のメンバー兼プロデューサー・Coco海里が、2019年春にスタートさせた「戦う女の子」をコンセプトとするソロアイドルプロジェクト\[1\]。 「あえてダンスを少なくボーカルを多めにして、歌そのものを聴かせることにこだわる」スタイルを特徴とする\[2\]。 Nina Peleaとしての楽曲だけでなく、Dear L manaでの楽曲をソロ体制用にアレンジ、リミックスした楽曲も持ち歌とする。Dear L manaが大変台湾での人気が高く多くの現地公演を行っていたこともあり、Nina Peleaもデビュー直後から台湾の大型イベントに招聘されたりワンマンツアーの地に台湾を組み込む等している\[3\]。ファンの呼称はDear L manaに引き続き「ファミリア」
 
 ## 略歴
 
@@ -166,6 +166,8 @@ Nina Peleaアジアワンマンツアー〜時代を創るのは私だもん〜
 
 ## 関連項目
 
+  - [JAPANARIZM](https://ja.wikipedia.org/wiki/JAPANARIZM "wikilink")
+  - [ハニースパイス](https://ja.wikipedia.org/wiki/ハニースパイス "wikilink")Re.
   - [プリュ](https://ja.wikipedia.org/wiki/プリュ "wikilink")(所属事務所)
 
 ## 脚注
@@ -178,6 +180,9 @@ Nina Peleaアジアワンマンツアー〜時代を創るのは私だもん〜
 
   -
   -
+  -
+  - [Nina Pelea LIVE予約フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfGhNGFBaK3NC7d3T3V-aJW1tLoHTJuLL57fSt7iAm6qiJmog/viewform)
+
 [Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink")
 
 1.

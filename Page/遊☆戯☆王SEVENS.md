@@ -8,52 +8,116 @@
 
 </div>
 
-『**遊☆戯☆王SEVENS**』（ゆうぎおうセブンス）は、[ブリッジ制作による](https://ja.wikipedia.org/wiki/ブリッジ_\(アニメ制作会社\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列にて放送予定](../Page/TXNネットワーク.md "wikilink")。『[遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")』シリーズとしては第7作目となり、同シリーズ20周年記念作品となる\[1\]\[2\]。
+『**遊☆戯☆王SEVENS**』（ゆうぎおうセブンス）は、[ブリッジ制作による](https://ja.wikipedia.org/wiki/ブリッジ_\(アニメ制作会社\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")より[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列にて放送中](../Page/TXNネットワーク.md "wikilink")。『[遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")』シリーズとしては第7作目となり、同シリーズ20周年記念作品となる\[1\]\[2\]。
 
 ## 登場人物
 
   - 王道遊我（おうどう ゆうが）
     声 - [石橋陽彩](https://ja.wikipedia.org/wiki/石橋陽彩 "wikilink")\[3\]
+    本編の主人公。ゴーハ第7小学校に通う5年生。決めゼリフは「ボクのロードだっ」。新しいデュエルのインストールのために自信のデュエルディスクを分解しこれまで5回のペナルティを課す。ルークから新しいデュエルのきっかけとなる場所に誘われ、ホログラムの男とラッシュデュエルで勝利するのと同時にラッシュデュエルのインストールを認められる。
+    テレビシリーズ初の小学生主人公でもある\[4\]。
   - 上城龍久（かみじょう たつひさ）</span> / ルーク
     声 - [八代拓](https://ja.wikipedia.org/wiki/八代拓 "wikilink")
+    遊我の隣のクラスの同級生。自称「ゴーハ7小ナンバーワンデュエリスト」。機械音痴で天然な性格。遊我と同様新たなデュエルのインストールするためにデュエルを行うもペナルティを6回課せられアカウントを停止状態になった。ラッシュデュエルのインストール後アカウント停止を解除された。
+    名前の由来は「城之内克也」と「神代凌牙」、 SEVENSの友情のじょう。
   - 蒼月学人（そうげつ がくと）</span> / ガクト
     声 - [花江夏樹](https://ja.wikipedia.org/wiki/花江夏樹 "wikilink")
-  - 霧島ロミン（きりしま ろみん）</span> / ロミン
+    ゴーハ第7小学校の生徒会長を務める6年生。真面目な性格で無遅刻、無欠席記録を更新中。遊我の不規則に生徒会室に来るよう言い付け忘れられ、新しいデュエルとなると聞いて遊我について行くことになる。遊我がラッシュデュエルを行う前にデュエルディスクのバッテリー切れの寸前のところ自転車を使い充電するためのサポートを担う。
+    名前の由来は「海馬瀬人」。
+  - 霧島ロミン（きりしま ろみん） / ロミン
     声 - [楠木ともり](https://ja.wikipedia.org/wiki/楠木ともり "wikilink")
+    遊我のクラスメイト。成績優秀・スポーツ万能で、小学生バンド「ロアロミン」の人気ギタリストでもある。デュエルに興味ないと言いつつデュエル用語を知っていたりと謎めいている。新しいデュエルと聞きつけて遊我たちと密かについてくる。実はギタリストでデュエリストの女性（声 - [河村梨恵](https://ja.wikipedia.org/wiki/河村梨恵 "wikilink")）のファンで、その人がライブでファンに投げたカードをキャッチし所持しており、ギターケースに入れてお守りとして持ち歩いていた。
   - カイゾー
     声 - [小林裕介](https://ja.wikipedia.org/wiki/小林裕介 "wikilink")
-  - リク
+    遊我によって改造されたドローン。遊我とルークのラッシュデュエルをライブ配信し世界中にラッシュデュエルの存在を発信した。ロミンに気があり、彼女が遊我の家に来た時はサインを欲しがっていた。またその時にロミンに名前を聞かれ、遊我にサインに名前を書いてもらうために名前をねだり、「じゃあ カイゾーで」となり、「まんまですね」とガッカリしていた。その後はロミンのデュエルの際は、ロミンを応援し遊我を冷たくあしらい、その事が遊我の逆鱗に触れデュエル後リセットボタンを押され再び改造されてしまった。
+  - 遠藤リク（えんどう リク）
     声 - [安田陸矢](https://ja.wikipedia.org/wiki/安田陸矢 "wikilink")
-  - カツ
+    遊我の友人。
+  - 小早川カツ（こばやかわ カツ）
     声 - [大塲駿平](https://ja.wikipedia.org/wiki/大塲駿平 "wikilink")
+    遊我の友人。
+  - 霧島ロア
+    声 - [古田一紀](https://ja.wikipedia.org/wiki/古田一紀 "wikilink")
+  - 蘭世（らんせ）
+    声 - [鎌倉有那](https://ja.wikipedia.org/wiki/鎌倉有那 "wikilink")
+    ゴーハ第7小学校の生徒会副会長。
+  - 凛之介
+    声 - [小林千晃](https://ja.wikipedia.org/wiki/小林千晃 "wikilink")
+  - 大森麺三郎（おおもり めんざぶろう）
+    声 - [南雲大輔](https://ja.wikipedia.org/wiki/南雲大輔 "wikilink")
+    隣町のゴーハ第3小学校のラーメン愛好家の5年生。
   - ホログラムの男
     声 - [浪川大輔](../Page/浪川大輔.md "wikilink")
+    デュエルの王として遊我とデュエルし、ラッシュデュエルという新しいルールのインストールを認めた。
+    「海馬瀬人」や「カイバーマン」を意識したキャラクター・デザインになっており、口癖も「ふぅん」、エースモンスターが「青眼の白龍」など共通点がある。
   - ゴーハ社長
     声 - [はじめしゃちょー](https://ja.wikipedia.org/wiki/はじめしゃちょー "wikilink")
+    口元にＧの文字が書かれた黒マスクを被った謎の男。
   - ゴーハ社の幹部
-    声 - [山根雅史](https://ja.wikipedia.org/wiki/山根雅史 "wikilink")\[4\]
+    声 - [山根雅史](https://ja.wikipedia.org/wiki/山根雅史 "wikilink")\[5\]
+    Ｇの文字が書かれたアイマスクを被った社員の男。勝手にインストールされたラッシュデュエルの問い合わせの殺到で焦っていた。
+
+## 用語
+
+### 世界観
+
+### デュエル関連
+
+  - デュエル
+    今作における基準のデュエルで行われている模様。ラッシュデュエル導入以前ではデュエルディスクのスロットは5つとなっている。
+  - ラッシュデュエル
+    今作の第1話に導入した新しいデュエル。デュエルディスクのスロットが5つから3つに変化し**赤い7の字**となってデュエルを行う。各プレイヤーはデッキから4枚づつ取り出し、初期のライフポイント4000からスタートする。
 
 ## スタッフ
 
-  - 原作 - 『[遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")』（[集英社](../Page/集英社.md "wikilink") [ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")刊）
+  - 原作 - 『[遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")』（[集英社](../Page/集英社.md "wikilink") [ジャンプコミックス](https://ja.wikipedia.org/wiki/ジャンプコミックス "wikilink")刊）
   - 監督 - [近藤信宏](https://ja.wikipedia.org/wiki/近藤信宏 "wikilink")
   - シリーズ構成 - [竹内利光](https://ja.wikipedia.org/wiki/竹内利光 "wikilink")
   - デュエル構成 - 彦久保雅博
   - キャラクターデザイン - [只野和子](../Page/只野和子.md "wikilink")、松下浩美
+  - モンスターデザイン - [きむらひでふみ](../Page/きむらひでふみ.md "wikilink")
+  - プロップデザイン - やまだたかひろ
+  - 美術監督 - 高大浩
+  - 色彩設計 - 舟田圭一
+  - 撮影監督 - 大泉鉱、岩崎敦
+  - CGプロデュース - 永田太
+  - CGディレクション - 上條嘉之
+  - 編集 - 西村英一
   - 音響監督 - 山本浩司
+  - 音楽 - [川﨑龍](https://ja.wikipedia.org/wiki/川崎龍 "wikilink")
+  - 音楽協力 - デルファイサウンド
+  - 音楽制作協力 - MASTERHOOD
+  - プロデューサー - 相川貴彦、髙徳明弘、数野高輔
+  - アニメーションプロデューサー - 牧野公翔
+  - アニメーション統括 - 中山浩太郎
   - アニメーション制作 - [ブリッジ](https://ja.wikipedia.org/wiki/ブリッジ_\(アニメ制作会社\) "wikilink")
+  - 製作 - 遊☆戯☆王SEVENS製作委員会
+
+## 主題歌
+
+  - 「ナナナナナナナ」
+    [佐伯ユウスケ](https://ja.wikipedia.org/wiki/佐伯ユウスケ "wikilink")の歌・作詞・作曲・編曲によるオープニングテーマ。
+  - 「ゴーハ第7小学校校歌」
+    王道遊我（[石橋陽彩](https://ja.wikipedia.org/wiki/石橋陽彩 "wikilink")）とルーク（[八代拓](https://ja.wikipedia.org/wiki/八代拓 "wikilink")）とガクト（[花江夏樹](https://ja.wikipedia.org/wiki/花江夏樹 "wikilink")）によるエンディングテーマ。作詞・作曲・編曲は佐伯ユウスケ。
+
+## 各話リスト
 
 ## 放送局
 
-## 出典
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
   -
   -
-[Category:遊☆戯☆王のアニメ](https://ja.wikipedia.org/wiki/Category:遊☆戯☆王のアニメ "wikilink") [Category:アニメ作品_ゆ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ゆ "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:ブリッジ_(アニメ制作会社)](https://ja.wikipedia.org/wiki/Category:ブリッジ_\(アニメ制作会社\) "wikilink")
+[Category:遊☆戯☆王のアニメ](https://ja.wikipedia.org/wiki/Category:遊☆戯☆王のアニメ "wikilink") [Category:アニメ作品_ゆ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ゆ "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:ブリッジ_(アニメ制作会社)](https://ja.wikipedia.org/wiki/Category:ブリッジ_\(アニメ制作会社\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.
 3.
 4.
+5.

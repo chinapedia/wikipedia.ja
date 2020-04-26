@@ -26,16 +26,13 @@
 ### CD
 
 1.  **I'm Here**
-      -
-        (作詞：三浦大知 / 作曲・編曲：[UTA](https://ja.wikipedia.org/wiki/UTA_\(音楽プロデューサー\) "wikilink"))
-    <!-- end list -->
+    (作詞：三浦大知 / 作曲・編曲：[UTA](https://ja.wikipedia.org/wiki/UTA_\(音楽プロデューサー\) "wikilink"))
       - TBS系金曜ドラマ「病室で念仏を唱えないでください」主題歌
 2.  **Nothing is All**
-      -
-        (作詞：三浦大知 / 作曲：Sunny Boy, 三浦大知 / 編曲：Sunny Boy)
+    (作詞：三浦大知 / 作曲：SUNNY BOY、三浦大知 / 編曲：SUNNY BOY)
 3.  **COLORLESS**
       -
-        (作詞：三浦大知 / 作曲：UTA, 三浦大知 / 編曲：UTA)
+        (作詞：三浦大知 / 作曲：UTA、三浦大知 / 編曲：UTA)
 
 ### DVD・Blu-ray
 

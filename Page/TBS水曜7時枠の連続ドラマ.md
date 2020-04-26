@@ -29,7 +29,7 @@
 ### 第4期
 
   - [ウルトラマン80](../Page/ウルトラマン80.md "wikilink")（1980年4月2日 - 1981年3月25日）
-  - [刑事犬カールII](https://ja.wikipedia.org/wiki/刑事犬カール2 "wikilink")（198１年4月8日 - 9月23日）
+  - [刑事犬カールII](https://ja.wikipedia.org/wiki/刑事犬カール2 "wikilink")（1981年4月8日 - 9月23日）
 
 ### 第5期
 

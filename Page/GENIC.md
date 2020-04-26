@@ -119,7 +119,7 @@
 (''YURARI UI '')</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td></td>
-<td></td>
+<td><p>avex artist academy名古屋校公式育成ユニットflapbeatsのメンバーとして活動した。</p></td>
 </tr>
 </tbody>
 </table>

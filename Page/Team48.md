@@ -1,7 +1,7 @@
 > この記事は[Team48](https://ja.wikipedia.org/wiki/Team48)から翻訳されています。
 
 
-**Team48**（フォーエイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の8人組[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である\[1\]。
+**Team48**（フォーエイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の8人組[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である(元9人組)\[1\]。
 
 ## 概要
 

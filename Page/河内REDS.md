@@ -36,10 +36,12 @@
 
 ## タイアップ
 
-| 曲名    | タイアップ                                                                                                                                                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 東京ガール | [読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")系『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』2019年9〜10月度エンディングテーマ                     |
-| オリオン座 | [ABC](../Page/ABC.md "wikilink")系『[そんなコト考えた事なかったクイズ\!トリニクって何の肉\!?](https://ja.wikipedia.org/wiki/そんなコト考えた事なかったクイズ!トリニクって何の肉!? "wikilink")』2019年11〜12月度エンディングテーマ |
+| 曲名         | タイアップ                                                                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 東京ガール      | [読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")系『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』2019年9〜10月度エンディングテーマ                     |
+| オリオン座      | [ABC](../Page/ABC.md "wikilink")系『[そんなコト考えた事なかったクイズ\!トリニクって何の肉\!?](https://ja.wikipedia.org/wiki/そんなコト考えた事なかったクイズ!トリニクって何の肉!? "wikilink")』2019年11〜12月度エンディングテーマ |
+| 僕はラジオ      | 『[日東リバティ](https://ja.wikipedia.org/wiki/日東リバティ "wikilink")』CMソング                                                                                                |
+| 時計じかけのオレたち | [MBS](https://ja.wikipedia.org/wiki/MBS "wikilink")系『\[\[プレバト                                                                                                   |
 
 ## ミュージックビデオ
 
@@ -55,10 +57,22 @@
 <td><p>CHOKU<br />
 </p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=zXc7_sHZ_lc">東京ガール」</a><br />
-「<a href="https://www.youtube.com/watch?v=4Mp69MaLCgY">オリオン座」</a></p></td>
+「<a href="https://www.youtube.com/watch?v=4Mp69MaLCgY">オリオン座」</a><br />
+「<a href="https://www.youtube.com/watch?v=9g39cb56KTw&amp;feature=emb_title">時計じかけのオレたち」</a></p></td>
 </tr>
 </tbody>
 </table>
+
+## 出演
+
+### テレビ
+
+  - [MBS](https://ja.wikipedia.org/wiki/MBS "wikilink")『関西発\!才能発掘TV マンモスター＋』 (2018年7月-2020年3月)
+
+### ラジオ
+
+  - [CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")『河内REDSのヤロウゼキャンプ』 (2020年3月)
+  - [JFN PARK](https://ja.wikipedia.org/wiki/JFN_PARK "wikilink")『河内REDSのヤロウゼパーク』 (2020年4月)
 
 ## 脚注
 

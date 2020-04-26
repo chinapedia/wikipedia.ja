@@ -27,60 +27,53 @@
 <thead>
 <tr class="header">
 <th><p>名前</p></th>
-<th><p>よみ</p></th>
 <th><p>担当色</p></th>
 <th><p>誕生日</p></th>
-<th><p>愛称</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>MEW</p></td>
-<td><p>みゅー</p></td>
+<td><p><strong>MEW</strong><br />
+<small>ミュー</small></p></td>
 <td><p>白</p></td>
-<td><p><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p>みゅーちゃん</p></td>
+<td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/ミュークラブ" title="wikilink">ミュークラブ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>ASUKA</p></td>
-<td><p>あすか</p></td>
+<td><p><strong>ASUKA</strong><br />
+<small>あすか</small></p></td>
 <td><p>ピンク</p></td>
-<td><p><a href="../Page/12月9日.md" title="wikilink">12月9日</a></p></td>
-<td><p>あしゅちやん</p></td>
+<td></td>
 <td><p>ディアガール<strong>小倉あすか</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>RITO</p></td>
-<td><p>りと</p></td>
+<td><p><strong>RITO</strong><br />
+<small>りと</small></p></td>
 <td><p>青</p></td>
-<td><p><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
-<td><p>りとくん</p></td>
+<td></td>
 <td><p>ディアボーイ<strong>天沢璃人</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>KOROMO</p></td>
-<td><p>ころも</p></td>
+<td><p><strong>KOROMO</strong><br />
+<small>ころも</small></p></td>
 <td><p>緑</p></td>
-<td><p><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
-<td><p>ころもちゃん</p></td>
-<td><p>オーディション合格者</p></td>
+<td></td>
+<td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者</p></td>
 </tr>
 <tr class="odd">
-<td><p>SOLI</p></td>
-<td><p>そり</p></td>
+<td><p><strong>SOLI</strong><br />
+<small>そり</small></p></td>
 <td><p>黄色</p></td>
 <td><p><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
-<td><p>そりちゃん</p></td>
-<td><p>オーディション合格者、学業の為活動休止中</p></td>
+<td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者<br />
+学業の為活動休止中</p></td>
 </tr>
 <tr class="even">
-<td><p>PERO</p></td>
-<td><p>ぺろ</p></td>
+<td><p><strong>PERO</strong><br />
+<small>ぺろ</small></p></td>
 <td><p>たまご色</p></td>
-<td><p><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
-<td><p>ぺろりん</p></td>
+<td></td>
 <td><p>期間限定サポートメンバー<br />
 <a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a>(<a href="https://ja.wikipedia.org/wiki/鹿目凛" title="wikilink">鹿目凛</a>)と兼任</p></td>
 </tr>
@@ -89,11 +82,77 @@
 
 ## 作品
 
-| \# | 発売日         | タイトル            | 順位 | 備考   |
-| -- | ----------- | --------------- | -- | ---- |
-| 1  | 2019年10月11日 | **でんでんぱっしょん**   |    | 配信限定 |
-| 2  | 2019年12月25日 | **メランコリックサーカス** |    |      |
-| 3  | 2020年3月18日  | レトロフューチャー       |    |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><strong>でんでんぱっしょん</strong></p></td>
+<td><p>2019年10月11日</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>でんでんぱっしょん</li>
+</ol>
+</div>
+</div></td>
+<td><p>配信限定</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><strong>メランコリックサーカス</strong></p></td>
+<td><p>2019年12月25日</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li></li>
+<li>でんでんぱっしょん</li>
+<li>バリ3共和国</li>
+<li>メランコリックサーカス(inst)</li>
+<li>でんでんぱっしょん(inst)</li>
+<li>バリ3共和国(inst)</li>
+</ol>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><strong>レトロフューチャー</strong></p></td>
+<td><p>2020年3月18日</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li></li>
+<li>でんぱれーどJAPAN</li>
+<li>ブランニューワールド</li>
+<li>レトロフューチャー(inst)</li>
+<li>でんぱれーどJAPAN(inst)</li>
+<li>ブランニューワールド(inst)</li>
+</ol>
+</div>
+</div></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## ライブ
 
@@ -129,7 +188,20 @@
 ## 外部リンク
 
   - [meme tokyo.公式ウェブサイト](https://www.memetokyo.com/)
+
+<!-- end list -->
+
   - Twitter
+      -
+      -
+      -
+      -
+      -
+      -
+      -
+<!-- end list -->
+
+  - Instagram
       -
       -
       -

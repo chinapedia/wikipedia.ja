@@ -61,9 +61,9 @@
 <tr class="odd">
 <td><p><strong>真っ赤なLip</strong></p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜" title="wikilink">THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜</a></p></td>
+<td><p><a href="../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md" title="wikilink">THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜</a></p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』の<a href="https://ja.wikipedia.org/wiki/コンピレーションアルバム" title="wikilink">コンピレーションアルバム</a>。<br />
-「真っ赤なLip -TV size-」のみ収録。</p></td>
+「真っ赤なLip -TV size-」のみ収録[35][36]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -110,3 +110,5 @@
 32.
 33.
 34.
+35.
+36.

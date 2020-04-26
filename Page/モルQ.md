@@ -7,6 +7,8 @@
 
 [酸素](../Page/酸素.md "wikilink")、[窒素](../Page/窒素.md "wikilink")、[炭素](../Page/炭素.md "wikilink")などの原子カードを組み合わせて分子を作っていくカードゲーム。分子を作って手持ちのカードを早くなくした人が〈あがり〉となる。負けた人は手持ちのカードの[原子番号](../Page/原子番号.md "wikilink")がマイナス点となるため、[原子番号](../Page/原子番号.md "wikilink")の大きい原子カードを最後まで持っていると勝敗に影響する。他の原子とくっついて分子にならない[18族](https://ja.wikipedia.org/wiki/18族 "wikilink")原子の「[アルゴン](../Page/アルゴン.md "wikilink")」「[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")」などは〈役札〉としてゲームを盛り上げる。5回ゲームを行って、最終順位が決定する。[仮説実験授業](https://ja.wikipedia.org/wiki/仮説実験授業 "wikilink")の[授業書](../Page/授業書.md "wikilink")「もしも原子が見えたなら」や「いろいろな気体」などの授業後に遊ぶと効果的に遊ぶことができる。分子を英語でmoleculeというので「もれきゅう」となり、最終的に「モルQ」という名称に決まった。松平は作成したモルQを1992年7月の[仮説実験授業研究会](../Page/仮説実験授業研究会.md "wikilink")の全国合宿研究会で発表し、実際にゲームをやって参加者に好評を得た。
 
+[3D_mole_Q_cards.jpg](https://ja.wikipedia.org/wiki/File:3D_mole_Q_cards.jpg "fig:3D_mole_Q_cards.jpg")
+
 ## 略年表
 
   - 1991年7月3日　志田竜彦と松平亨で原型を作る。同5日、ボール紙で白黒の試作品を10部作り、配布。手ごたえを感じる。

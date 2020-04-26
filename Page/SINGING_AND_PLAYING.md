@@ -7,7 +7,7 @@
 
 [キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**[高中正義](../Page/高中正義.md "wikilink")がいちばんTAKANAKAだった。**」。
 
-前作『[Go-on](../Page/Go-on.md "wikilink")』から、わずか4ヶ月後にリリースされた[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、高中が[1976年](../Page/1976年.md "wikilink")にソロデビュー以降の約10年間に発表された楽曲を収録した、所謂[オールタイムベスト・アルバムとなっている](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")。
+前作『[READY TO FLY / THE BEST](https://ja.wikipedia.org/wiki/READY_TO_FLY_/_THE_BEST "wikilink")』から、わずか2ヶ月後にリリースされた[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、高中が[1976年](../Page/1976年.md "wikilink")にソロデビュー以降の約10年間に発表された楽曲を収録した、所謂[オールタイムベスト・アルバムとなっている](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")。
 
 販売形態は[LPと](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/コンパクトカセット.md "wikilink")3種類でリリースされ、CDは2枚組でCTは2本組、LPは3枚組となっている。
 

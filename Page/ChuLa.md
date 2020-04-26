@@ -64,7 +64,7 @@
 <td><p>桜木妃奈</p></td>
 <td><p>ピチピチピンク</p></td>
 <td><p>2月27日</p></td>
-<td><p>現在唯一の初期メンバー</p></td>
+<td><p>現在唯一の初期メンバー、元<a href="https://ja.wikipedia.org/wiki/ニコニコ♡LOVERS" title="wikilink">ニコニコ♡LOVERS</a>メンバー[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>佐藤まりん</p></td>
@@ -76,7 +76,7 @@
 <td><p>渡辺あやの</p></td>
 <td><p>わたげブルー</p></td>
 <td><p>5月12日</p></td>
-<td><p>(株)SRF所属</p></td>
+<td><p>(株)SRF所属、2019年1月26日までおひさまオレンジ</p></td>
 </tr>
 <tr class="even">
 <td><p>蒼井聖南</p></td>
@@ -88,7 +88,7 @@
 <td><p>花咲ひより</p></td>
 <td><p>幸せグリーン</p></td>
 <td><p>11月2日</p></td>
-<td><p>グラビアでも活躍中 [4]</p></td>
+<td><p>グラビアでも活躍中 [5]</p></td>
 </tr>
 <tr class="even">
 <td><p>長尾優</p></td>
@@ -157,7 +157,7 @@
 <td><p>夏目みさき</p></td>
 <td><p>がきんちょれっど</p></td>
 <td><p>7月5日</p></td>
-<td><p>元がきんちょブルー</p></td>
+<td><p>2019年1月26日までがきんちょブルー</p></td>
 </tr>
 </tbody>
 </table>
@@ -175,7 +175,7 @@
 
   - (作詞:[穐田和恵](https://ja.wikipedia.org/wiki/穐田和恵 "wikilink") 作編曲:川崎ダイスケ)
 
-  - (作詞・作曲:八十島弘之([2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")) 編曲:中村皓、[樋口聖典](https://ja.wikipedia.org/wiki/樋口聖典 "wikilink")) \[5\]
+  - (作詞・作曲:八十島弘之([2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")) 編曲:中村皓、[樋口聖典](https://ja.wikipedia.org/wiki/樋口聖典 "wikilink")) \[6\]
 
   - (作詞:穐田和恵 作編曲:川崎ダイスケ)
 
@@ -192,6 +192,8 @@
   - (作詞:穐田和恵 作編曲:tkr)
 
   - (作詞・作曲:Zactori)
+
+  - (作詞・作編曲:Zactori)
 
   - (作詞・作編曲:Zactori)
 
@@ -437,49 +439,28 @@
 <td><p>3月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p>3月28日</p></td>
-</tr>
-<tr class="even">
-<td><p>4月3日</p></td>
-</tr>
-<tr class="odd">
-<td><p>4月4日</p></td>
-</tr>
-<tr class="even">
-<td><p>リリースイベント</p></td>
-</tr>
-<tr class="odd">
-<td><p>4月15日</p></td>
-</tr>
-<tr class="even">
-<td><p>4月17日</p></td>
-</tr>
-<tr class="odd">
-<td><p>4月18日</p></td>
-</tr>
-<tr class="even">
-<td><p>4月19日</p></td>
-</tr>
-<tr class="odd">
-<td><p>4月21日</p></td>
-</tr>
-<tr class="even">
-<td><p>4月28日</p></td>
-</tr>
-<tr class="odd">
-<td><p>5月5日</p></td>
-</tr>
-<tr class="even">
 <td><p>5月11日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月12日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月5日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月9日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月19日</p></td>
 </tr>
 </tbody>
 </table>
@@ -488,7 +469,7 @@
 
   - 「chuLaの ちゅらららじお！」 (Shibuya-Cross FM、2017年5月2日 - ) 月1回程度放送。
   - 「[NON STYLE](../Page/NON_STYLE.md "wikilink")[井上の渋谷ジャック](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")」(Shibuya-Cross FM、2018年10月28日) ゲスト出演
-  - 「[アイドルゾーン20時](https://ja.wikipedia.org/wiki/アイドルゾーン20時 "wikilink")」（[TOKYO MX2](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2019年4月1日 - 6月21日）金曜レギュラー\[6\]
+  - 「[アイドルゾーン20時](https://ja.wikipedia.org/wiki/アイドルゾーン20時 "wikilink")」（[TOKYO MX2](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2019年4月1日 - 6月21日）金曜レギュラー\[7\]
   - 「[上月せれな](https://ja.wikipedia.org/wiki/上月せれな "wikilink")のラジオモンスター」([エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、2019年7月16日) ゲスト出演
   - 「[この指と〜まれ\!](https://ja.wikipedia.org/wiki/この指と〜まれ! "wikilink")season3」 ([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、2019年7月29日)
   - 「バリふり\!\!\!」（TOKYO MX2、2019年8月18日 -、日曜隔週）
@@ -533,5 +514,6 @@
 2.
 3.
 4.
-5.  かつてFreeKに存在した女性アイドルグループ「女塾オールスターズ」の楽曲のカバーであり、同事務所のKATA☆CHUもこの曲をカバーしている。
-6.
+5.
+6.  かつてFreeKに存在した女性アイドルグループ「女塾オールスターズ」の楽曲のカバーであり、同事務所のKATA☆CHUもこの曲をカバーしている。
+7.

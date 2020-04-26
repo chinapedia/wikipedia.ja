@@ -3,10 +3,6 @@
 
 **mahina**（マヒナ）とは、天性の歌声を持つシンガーであり、mahinaのクリエイティヴに関わる全ての仲間たちを指す。
 
-## 概要
-
-  - SoftlyのMUTSUKIが新プロジェクトとして始動。\[1\]
-
 ## メンバー
 
   - mahina（マヒナ）：ボーカル、作詞・作曲、イラストレーター
@@ -151,9 +147,8 @@
 
 ## ミュージックビデオ
 
-|                                                                      |
-| -------------------------------------------------------------------- |
 | **曲名**                                                               |
+| -------------------------------------------------------------------- |
 | 「[chandelier](https://m.youtube.com/watch?v=YdFxOV2KiZc)」            |
 | 「[You are my all in all](https://m.youtube.com/watch?v=UTjXKtzJtI0)」 |
 | 「[moonlight](https://m.youtube.com/watch?v=wpdKtVbmQJ4)」             |
@@ -170,7 +165,3 @@
   - [mahina official](https://twitter.com/mahina_sound/) (@mahina_sound) - [Twitter](../Page/Twitter.md "wikilink")
   - [mahina](https://www.instagram.com/mahina_info/) (mahina_info) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
   - [mahina](https://www.instagram.com/mahina___official/) (mahina___official) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
-
-<!-- end list -->
-
-1.  [MUTSUKIの新プロジェクト「mahina」始動！](https://softly1997.com/contents/187951)

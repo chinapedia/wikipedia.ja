@@ -7,7 +7,7 @@
 
 [1993年](../Page/1993年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[エピックレコーズよりリリースされた](../Page/エピックレコードジャパン.md "wikilink")。[1996年](../Page/1996年.md "wikilink")には[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』の初代エンディングテーマとして使用され、その後[2018年](../Page/2018年.md "wikilink")放送分のエンディングテーマとして使用された（[3月3日](../Page/3月3日.md "wikilink")放送分を除く。また、[同31日はオープニングで使用された](../Page/3月31日.md "wikilink")）。
 
-[2006年](../Page/2006年.md "wikilink")には、映画『[シムソンズ](../Page/シムソンズ_\(映画\).md "wikilink")』の主題歌として使われる。JUDY AND MARYのシングルのうち、唯一[オリコンTOP](../Page/オリコンチャート.md "wikilink")100入りを逃している。[調](https://ja.wikipedia.org/wiki/調 "wikilink")は[ト長調](https://ja.wikipedia.org/wiki/ト長調 "wikilink")\[1\]。
+[2006年](../Page/2006年.md "wikilink")には、映画『[シムソンズ](../Page/シムソンズ_\(映画\).md "wikilink")』の主題歌として使われる。JUDY AND MARYのシングルのうち、唯一[オリコンTOP](../Page/オリコンチャート.md "wikilink")100入りを逃している。[調](../Page/調.md "wikilink")は[ト長調](https://ja.wikipedia.org/wiki/ト長調 "wikilink")\[1\]。
 
 ## 収録曲
 
@@ -33,6 +33,6 @@
 
 <references />
 
-[Category:JUDY_AND_MARYの楽曲](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:めちゃイケ](https://ja.wikipedia.org/wiki/Category:めちゃイケ "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:YUKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUKIが制作した楽曲 "wikilink") [Category:恩田快人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:恩田快人が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:JUDY_AND_MARYの楽曲](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:めちゃイケ](https://ja.wikipedia.org/wiki/Category:めちゃイケ "wikilink") [Category:YUKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUKIが制作した楽曲 "wikilink") [Category:恩田快人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:恩田快人が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.

@@ -19,118 +19,6 @@
 
 ## 収録曲
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p><strong>www.co.jp</strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：<a href="../Page/たかはしごう.md" title="wikilink">たかはしごう</a><br />
-イントロが伴奏無しの為、ラジオでこの曲を流す時には放送事故防止のため、<br />
-イントロの異なるラジオヴァージョンで放送される。</p></td>
-<td><p>5:22</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p><strong><a href="../Page/負けないで、負けないで….md" title="wikilink">負けないで、負けないで…</a></strong></p></td>
-<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/辛島美登里" title="wikilink">辛島美登里</a>、編曲：<a href="../Page/十川ともじ.md" title="wikilink">十川知司</a><br />
-ラジオ『<a href="../Page/林原めぐみのHeartful_Station.md" title="wikilink">林原めぐみのHeartful Station</a>』2代目エンディングテーマ</p></td>
-<td><p>4:44</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p><strong><a href="../Page/KOIBUMI.md" title="wikilink">KOIBUMI</a></strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
-テレビアニメ『<a href="../Page/朝霧の巫女.md" title="wikilink">朝霧の巫女</a>』エンディングテーマ</p></td>
-<td><p>4:52</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p><strong>trust you</strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』初代エンディングテーマ<br />
-シングル『<a href="../Page/Over_Soul.md" title="wikilink">Over Soul</a>』カップリング曲</p></td>
-<td><p>3:25</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p><strong><a href="../Page/Give_a_reason.md" title="wikilink">Give a reason</a> 〜Ballade Version〜</strong></p></td>
-<td><p>作詞：有森聡美、作曲：<a href="../Page/佐藤英敏.md" title="wikilink">佐藤英敏</a>、編曲：五島翔、コーラスアレンジ：<a href="../Page/高橋洋子_(歌手).md" title="wikilink">高橋洋子</a><br />
-シングル『Meet again』カップリング曲</p></td>
-<td><p>4:36</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p><strong>Breeze</strong></p></td>
-<td><p>作詞：有森聡美、作曲：<a href="../Page/佐藤英敏.md" title="wikilink">佐藤英敏</a>、編曲：添田啓二<br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/スレイヤーズ_(アニメ)" title="wikilink">スレイヤーズTRY</a>』オープニングテーマ<br />
-シングル『<a href="https://ja.wikipedia.org/wiki/don&#39;t_be_discouraged" title="wikilink">don't be discouraged</a>』カップリング曲</p></td>
-<td><p>4:27</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p><strong>BL トライアングル</strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：<a href="../Page/たかはしごう.md" title="wikilink">たかはしごう</a></p></td>
-<td><p>4:07</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p><strong>頑張って、頑張って…</strong></p></td>
-<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/辛島美登里" title="wikilink">辛島美登里</a>、編曲：<a href="https://ja.wikipedia.org/wiki/村山達哉" title="wikilink">村山達哉</a><br />
-シングル『負けないで、負けないで…』カップリング曲<br />
-<a href="https://ja.wikipedia.org/wiki/辛島美登里" title="wikilink">辛島美登里</a>がアルバム『Smile and Tears 〜微笑みの島〜』（<a href="../Page/2004年.md" title="wikilink">2004年</a>）でセルフカバーしている。</p></td>
-<td><p>4:43</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p><strong>4月の雪</strong></p></td>
-<td><p>作詞・作曲：<a href="https://ja.wikipedia.org/wiki/岡崎律子" title="wikilink">岡崎律子</a>、編曲：<a href="../Page/長谷川智樹.md" title="wikilink">長谷川智樹</a>、コーラス：岡崎律子&amp;林原めぐみ</p></td>
-<td><p>6:12</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p><strong>旋律</strong></p></td>
-<td><p>作詞・作曲：MEGUMI、編曲：長谷川智樹、コーラス：meg rock&amp;林原めぐみ</p></td>
-<td><p>6:12</p></td>
-</tr>
-<tr class="odd">
-<td><p>11</p></td>
-<td><p><strong>Forty</strong></p></td>
-<td><p>作詞：MEGUMI、作曲：MEGUMI&amp;たかはしごう、編曲：たかはしごう</p></td>
-<td><p>6:25</p></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td><p><strong><a href="../Page/Meet_again.md" title="wikilink">Meet again</a></strong></p></td>
-<td><p>作詞：MEGUMI、作曲・編曲：たかはしごう<br />
-テレビアニメ『スレイヤーズ』シリーズ TV放映10周年記念アニバーサリーソング</p></td>
-<td><p>4:50</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>bonus track</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>13</p></td>
-<td><p><strong>天国の記憶</strong><br />
-歌：<a href="../Page/綾波レイ.md" title="wikilink">綾波レイ</a>（CV：林原めぐみ）</p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/及川眠子" title="wikilink">及川眠子</a>、作曲・編曲：<a href="https://ja.wikipedia.org/wiki/大森俊之" title="wikilink">大森俊之</a><br />
-テレビアニメ『<a href="https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン" title="wikilink">新世紀エヴァンゲリオン</a>』10周年記念ベストアルバム<br />
-『NEON GENESIS EVANGELION DECADE』書き下ろし楽曲</p></td>
-<td><p>6:12</p></td>
-</tr>
-<tr class="odd">
-<td><p>14</p></td>
-<td><p><strong>りんごウラミウタ</strong><br />
-歌：恐山アンナ（CV：林原めぐみ）</p></td>
-<td><p>作詞：<a href="../Page/武井宏之.md" title="wikilink">武井宏之</a>、作曲・編曲：五島翔<br />
-「シャーマンキング コミックスイメージアルバム」収録曲。</p></td>
-<td><p>3:59</p></td>
-</tr>
-</tbody>
-</table>
-
 ### Disc 2（期間限定盤のみ）
 
 1.  OPENING \[1:20\]
@@ -145,6 +33,120 @@
 10. MC-4 \[2:41\]
 11. Tokyo Boogie Night \[3:38\]
 12. ENDING \[5:59\]
+
+## タイアップ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>曲名</p></th>
+<th><p>タイアップ</p></th>
+<th><p>初出作品</p></th>
+<th><p>発売日</p></th>
+<th><p>品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>|2</p></td>
+<td><p>負けないで、負けないで…</p></td>
+<td><p>ラジオ『<a href="../Page/林原めぐみのHeartful_Station.md" title="wikilink">林原めぐみのHeartful Station</a>』2代目エンディングテーマ</p></td>
+<td><p>負けないで、負けないで…</p></td>
+<td><p>2003年9月26日</p></td>
+<td><p>KICM-1083</p></td>
+<td><p>32ndシングル</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>KOIBUMI</p></td>
+<td><p>テレビアニメ『<a href="../Page/朝霧の巫女.md" title="wikilink">朝霧の巫女</a>』エンディングテーマ</p></td>
+<td><p>KOIBUMI</p></td>
+<td><p>2002年9月25日</p></td>
+<td><p>KICM-3021</p></td>
+<td><p>31stシングル</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>trust you</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/シャーマンキング" title="wikilink">シャーマンキング</a>』初代エンディングテーマ</p></td>
+<td><p>Over soul</p></td>
+<td><p>2001年8月29日</p></td>
+<td><p>KICM-3016（林原盤）<br />
+KICM-3017（アニメ盤）</p></td>
+<td><p>26thシングルカップリング</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>Give a reason〜Ballade Version〜</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>Meet again</p></td>
+<td><p>2006年7月26日</p></td>
+<td><p>KICM-1164</p></td>
+<td><p>11thシングルのバラード音源<br />
+33rdシングルカップリング</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>Breeze</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/スレイヤーズ_(アニメ)#スレイヤーズTRY" title="wikilink">スレイヤーズTRY</a>』オープニングテーマ</p></td>
+<td><p>don't be discouraged</p></td>
+<td><p>1997年4月23日</p></td>
+<td><p>KIDA-148</p></td>
+<td><p>15thシングルカップリング</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>頑張って、頑張って…</p></td>
+<td><center>
+<p>（無し）</p>
+</center></td>
+<td><p>負けないで、負けないで…</p></td>
+<td><p>2003年9月26日</p></td>
+<td><p>KICM-1083</p></td>
+<td><p>32ndシングルカップリング</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>4月の雪</p></td>
+<td><p>A Happy Life（原曲）[2]</p></td>
+<td><p>1996年5月25日</p></td>
+<td><p>TACP-1004（原曲）</p></td>
+<td><p>原曲：岡崎律子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>Meet again</p></td>
+<td><p>テレビアニメ『スレイヤーズ』シリーズ TV放映10周年記念アニバーサリーソング</p></td>
+<td><p>Meet again</p></td>
+<td><p>2006年7月26日</p></td>
+<td><p>KICM-1164</p></td>
+<td><p>33rdシングル</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>天国の記憶</p></td>
+<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン" title="wikilink">新世紀エヴァンゲリオン</a>』企画楽曲</p></td>
+<td><p>NEON GENESIS EVANGELION DECADE</p></td>
+<td><p>2005年10月26日</p></td>
+<td><p>KICA-718</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>りんごウラミウタ</p></td>
+<td><p>テレビアニメ『シャーマンキング』イメージソング</p></td>
+<td><p>シャーマンキング コミックスイメージアルバム</p></td>
+<td><p>2001年6月27日</p></td>
+<td><p>KICA-547</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## クレジット
 
@@ -200,3 +202,4 @@
 [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")
 
 1.
+2.  原曲ライセンス：[ユニバーサルミュージック (日本)](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・[ユニバーサル ミュージック グループ](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")

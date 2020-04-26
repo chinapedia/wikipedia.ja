@@ -18,7 +18,7 @@
   - ニッポン放送 - 毎週[日曜日](../Page/日曜日.md "wikilink")　22時00分 - 22時30分
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") - 毎週日曜日　9時00分 - 9時30分
   - [ぎふチャン](../Page/岐阜放送ラジオ.md "wikilink") - 毎週日曜日　23時00分 - 23時30分　※[NRN非加盟局で唯一のネット局](../Page/全国ラジオネットワーク.md "wikilink")。2011年4月よりネット開始。ニッポン放送より1週遅れ。
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink") - 毎週[月曜日](../Page/月曜日.md "wikilink")　20時30分 - 21時00分
+  - [山口放送](../Page/山口放送.md "wikilink") - 毎週[月曜日](../Page/月曜日.md "wikilink")　20時30分 - 21時00分
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") - 毎週[火曜日](../Page/火曜日.md "wikilink")　23時30分 - 24時00分
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") - 毎週[土曜日](../Page/土曜日.md "wikilink")　23時00分 - 23時30分
 
@@ -32,7 +32,7 @@
 #### タイトル未定（仮）時代
 
   - [茨城放送](../Page/茨城放送.md "wikilink") - 毎週日曜日　21時30分 - 22時00分
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink") - 毎週[木曜日](../Page/木曜日.md "wikilink")　21時00分 - 21時30分　※[2009年](../Page/2009年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")放送分（タイトル未定最終回）をもって終了。
+  - [信越放送](../Page/信越放送.md "wikilink") - 毎週[木曜日](../Page/木曜日.md "wikilink")　21時00分 - 21時30分　※[2009年](../Page/2009年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")放送分（タイトル未定最終回）をもって終了。
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") - 毎週土曜日　21時30分 - 22時00分
 
 #### Sweet Hertz時代

@@ -236,6 +236,7 @@
   - [IMA](../Page/Honda_IMAシステム.md "wikilink")
   - [ホンダのエンジン型式一覧](https://ja.wikipedia.org/wiki/ホンダのエンジン型式一覧 "wikilink")
   - [P型エンジン](../Page/ホンダ・P型エンジン.md "wikilink")
+  - [S型エンジン](https://ja.wikipedia.org/wiki/ホンダ・S型エンジン "wikilink")
 
 ## 外部リンク
 

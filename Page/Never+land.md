@@ -40,7 +40,7 @@
 2.  **[ラブリー♡キャッツアイ〜ネコはコタツで丸くならないの巻〜](../Page/ラブリーキャッツアイ.md "wikilink")**
       -
         作曲: [西川進](../Page/西川進.md "wikilink") / 編曲：西川進&[イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
-        [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")社ゲーム「[テイルズ オブ ザ テンペスト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_テンペスト "wikilink")」イメージ・ソング
+        4thシングルのアレンジ。[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")社ゲーム「[テイルズ オブ ザ テンペスト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_テンペスト "wikilink")」イメージ・ソング
 3.  **[スピードライブ](../Page/スピードライブ.md "wikilink")**
       -
         作曲: [蔦谷好位置](../Page/蔦谷好位置.md "wikilink") / 編曲：[イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
@@ -49,7 +49,7 @@
       -
         作曲: misono / 編曲：[村田昭](https://ja.wikipedia.org/wiki/村田昭_\(編曲家\) "wikilink")
         [MTV](../Page/MTV.md "wikilink")「Girls meet Beauty」イメージ・ソング
-5.  **アリとキリギリス〜10 years later〜**
+5.  **[アリとキリギリス〜10 years later〜](../Page/スピードライブ.md "wikilink")**
       -
         作曲・編曲: 中津川陽三
         「ABCグループ」CMソング
@@ -60,7 +60,7 @@
 7.  **子供の事情＞大人の私情²**
       -
         作曲: keito blow / 編曲：西川進
-8.  **ガラスのくつ**
+8.  **[ガラスのくつ](../Page/VS_\(misonoの曲\).md "wikilink")**
       -
         作曲: misono / 編曲：久保田光太郎
         デビューシングル「VS」のカップリング曲。初のソロバラード曲。
@@ -72,7 +72,7 @@
       -
         （「個人授業」→「恋のダイヤル6700（シックス・セブン・オー・オー）」→「学園天国」→「恋の大予言」→「個人授業」）
         作詞：[阿久悠](../Page/阿久悠.md "wikilink") / 作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")・[井上忠夫](https://ja.wikipedia.org/wiki/井上忠夫 "wikilink") / 編曲：[イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
-11. **pinkies**
+11. **[pinkies](https://ja.wikipedia.org/wiki/個人授業#misonoのカバー・シングル "wikilink")**
       -
         作曲・編曲: [イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
         2ndシングル「個人授業」のカップリング曲。
@@ -95,4 +95,4 @@
       -
         5thシングル収録プロモーションビデオのアルバムバージョン。PVのテーマは「[マッチ売りの少女](../Page/マッチ売りの少女.md "wikilink")」。
 
-[Category:Misonoのアルバム](https://ja.wikipedia.org/wiki/Category:Misonoのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink")
+[Category:misonoのアルバム](https://ja.wikipedia.org/wiki/Category:misonoのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:松浦勝人がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:松浦勝人がプロデュースしたアルバム "wikilink")

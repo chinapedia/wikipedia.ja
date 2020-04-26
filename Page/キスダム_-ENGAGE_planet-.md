@@ -33,7 +33,7 @@
 
 ### キスダムR -ENGAGE planet-
 
-上記の通り『キスダム』では制作上の不具合が散見されたことから、作画のリテイクや新作カットの追加を施したり、元の第4話をカットし、最終話の次に後日談にあたる新作話を追加するなどした『**キスダムR -ENGAGE planet-**』が、地上波から1年遅れで2008年[4月27日](../Page/4月27日.md "wikilink")より[AT-X](../Page/アニメシアターX.md "wikilink")・同年[5月9日](../Page/5月9日.md "wikilink")より[BS11で放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")\[33\]、[5月16日](../Page/5月16日.md "wikilink")より[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")や[Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink")他で無料配信\[34\]。したがって、**『キスダムR』はいわゆる続編ではない**。新作話の制作には総監督の長岡は既に絡んでおらず、佐藤が中心となって制作されている\[35\]。また、オープニングとアイキャッチに表示されるタイトルロゴは『キスダム』当時と同様であったが、『キスダムR』の宣伝などには新たに制作されたタイトルロゴが使用された。なお、BS11での初回放送時には各話放送後に『**キスダムRへの道**』と題して、約1分間のスタッフや出演声優のインタビューが放送された\[36\]。このインタビューは、当時の制作状況をスタッフ自ら面白おかしく語ったり、作品の細かい設定が明かされるなど非常に濃い内容であった。
+上記の通り『キスダム』では制作上の不具合が散見されたことから、作画のリテイクや新作カットの追加を施したり、元の第4話をカットし、最終話の次に後日談にあたる新作話を追加するなどした『**キスダムR -ENGAGE planet-**』が、地上波から1年遅れで2008年[4月27日](../Page/4月27日.md "wikilink")より[AT-X](../Page/アニメシアターX.md "wikilink")・同年[5月9日](../Page/5月9日.md "wikilink")より[BS11で放送された](../Page/日本BS放送.md "wikilink")\[33\]、[5月16日](../Page/5月16日.md "wikilink")より[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")や[Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink")他で無料配信\[34\]。したがって、**『キスダムR』はいわゆる続編ではない**。新作話の制作には総監督の長岡は既に絡んでおらず、佐藤が中心となって制作されている\[35\]。また、オープニングとアイキャッチに表示されるタイトルロゴは『キスダム』当時と同様であったが、『キスダムR』の宣伝などには新たに制作されたタイトルロゴが使用された。なお、BS11での初回放送時には各話放送後に『**キスダムRへの道**』と題して、約1分間のスタッフや出演声優のインタビューが放送された\[36\]。このインタビューは、当時の制作状況をスタッフ自ら面白おかしく語ったり、作品の細かい設定が明かされるなど非常に濃い内容であった。
 
 『キスダムR』は[2011年](../Page/2011年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")よりBS11で再放送されたが、『キスダムRへの道』は放送されず、代わりにBD-BOX（詳細は[後述](https://ja.wikipedia.org/wiki/#映像ソフト "wikilink")）の情報などを伝えるコーナー『**キスダムR INFORMATION**』が第1話から第18話まで放送された\[37\]。また再放送中に、公式サイトでは『**キスダムR BD化への道**』と題して、監督の佐藤がBD-BOX化に向けて作業を進める様子を映した映像に[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")風のナレーションを付けて無料配信を行った。BD-BOXには『キスダムR BD化への道』の完全版が収録され、ナレーション担当者が特殊効果やエンディングイラストなどで本作に参加していた[天神英貴](../Page/天神英貴.md "wikilink")であることが明かされている。なおこの再放送では、2011年[3月11日](../Page/3月11日.md "wikilink")に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で第1話および第2話の豪華客船セイレーン2世沈没シーンに修正が加えられ、特に第1話ではタイトルコール前のイントロダクションをほぼカットし、代わりにOPを挿入して放送した。
 
@@ -1023,7 +1023,7 @@ Joung Soon an<br />
 <td><p>リピートあり</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>2008年5月9日 - 10月31日</p></td>
 <td><p>金曜 23:30 - 24:00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BSデジタル放送" title="wikilink">BSデジタル放送</a></p></td>
@@ -1129,7 +1129,7 @@ BDなどの映像ソフトに関しては[\#映像ソフト](https://ja.wikipedi
   - [株式会社サテライト：作品紹介 キスダムR -ENGAGE planet-](http://www.satelight.co.jp/works/kissdum.php)
   - [AT-X キスダムR -ENGAGE planet-](http://www.at-x.com/program/detail/2249)
   - [BS11 キスダムR -ENGAGE planet-](http://www.bs11.jp/anime/114/)
-  - [バンダイチャンネル キスダムR -ENGAGE planet-](http://www.b-ch.com/ttl/index.php?ttl_c=1296)
+  - [バンダイチャンネル キスダムR -ENGAGE planet-](https://www.b-ch.com/titles/1296/)
   - [ガレージキット NESコックピットアーマー](http://www.hobby-wave.com/LINE_UP/gennteisyouhin/data/cockpitarmor/)
 
 [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:サテライト](https://ja.wikipedia.org/wiki/Category:サテライト "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:怪物を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:怪物を題材としたフィクション作品 "wikilink") [Category:文明崩壊後の世界が描かれたアニメ作品](https://ja.wikipedia.org/wiki/Category:文明崩壊後の世界が描かれたアニメ作品 "wikilink")

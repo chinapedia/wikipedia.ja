@@ -142,7 +142,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1972" title="wikilink">1972</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CDオリンピア" title="wikilink">オリンピア</a></strong></p></td>
+<td><p><strong><a href="../Page/CDオリンピア.md" title="wikilink">オリンピア</a></strong></p></td>
 <td><p><strong>0 - 0</strong><br />
 <strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dutch_Guyana.svg" title="wikilink">25px</a> <a href="https://ja.wikipedia.org/wiki/SVロビンフッド" title="wikilink">ロビンフッド</a></p></td>
@@ -236,7 +236,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ディフェンス・フォース" title="wikilink">ディフェンス・フォース</a></strong></p></td>
 <td><p><strong>2 - 0</strong><br />
 <strong>0 - 1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CDオリンピア" title="wikilink">オリンピア</a></p></td>
+<td><p><a href="../Page/CDオリンピア.md" title="wikilink">オリンピア</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1986" title="wikilink">1986</a></p></td>
@@ -254,7 +254,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ1988" title="wikilink">1988</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CDオリンピア" title="wikilink">オリンピア</a></strong></p></td>
+<td><p><strong><a href="../Page/CDオリンピア.md" title="wikilink">オリンピア</a></strong></p></td>
 <td><p><strong>2 - 0</strong><br />
 <strong>2 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディフェンス・フォース" title="wikilink">ディフェンス・フォース</a></p></td>
@@ -332,7 +332,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2000" title="wikilink">2000</a></p></td>
 <td><p><strong><a href="../Page/ロサンゼルス・ギャラクシー.md" title="wikilink">ロサンゼルス・ギャラクシー</a></strong></p></td>
 <td><p><strong>3 - 2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CDオリンピア" title="wikilink">オリンピア</a></p></td>
+<td><p><a href="../Page/CDオリンピア.md" title="wikilink">オリンピア</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズカップ2002" title="wikilink">2002</a></p></td>
@@ -560,7 +560,7 @@ CONCACAFチャンピオンズリーグへの改編に伴い、参加チームが
 <td><p>1998,2006,2014</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/CDオリンピア" title="wikilink">オリンピア</a></p></td>
+<td><p><a href="../Page/CDオリンピア.md" title="wikilink">オリンピア</a></p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>1972,1988</p></td>

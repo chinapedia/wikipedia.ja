@@ -219,8 +219,8 @@
 
 ## 外部リンク
 
-  - [スーパーロボット大戦W 公式サイト](http://www.suparobo.jp/srw_lineup/srw_w/index.html)
-  - [任天堂ホームページ スーパーロボット大戦W 紹介ページ](http://www.nintendo.co.jp/ds/software/as6j/index.html)
+  - [スーパーロボット大戦W 公式サイト](https://www.suparobo.jp/srw_lineup/srw_w/)
+  - [任天堂ホームページ スーパーロボット大戦W 紹介ページ](https://www.nintendo.co.jp/ds/software/as6j/)
 
 [Category:スーパーロボット大戦のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦のコンピュータゲーム "wikilink") [Category:バンプレストのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンプレストのクロスオーバー作品 "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:家族を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:家族を題材としたコンピュータゲーム "wikilink")
 

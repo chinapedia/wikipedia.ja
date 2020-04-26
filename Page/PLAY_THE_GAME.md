@@ -41,4 +41,4 @@
 
 ## 出典
 
-[Category:ロードオブメジャーの楽曲](https://ja.wikipedia.org/wiki/Category:ロードオブメジャーの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:MAJORの音楽](https://ja.wikipedia.org/wiki/Category:MAJORの音楽 "wikilink") [Category:NHKのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:NHKのテレビアニメ主題歌 "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:ロードオブメジャーの楽曲](https://ja.wikipedia.org/wiki/Category:ロードオブメジャーの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:MAJORの音楽](https://ja.wikipedia.org/wiki/Category:MAJORの音楽 "wikilink") [Category:NHKのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:NHKのテレビアニメ主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

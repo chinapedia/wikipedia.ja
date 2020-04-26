@@ -44,4 +44,4 @@
 
 ## 脚注
 
-[Category:JUDY_AND_MARYの楽曲](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:嬰ヘ長調](https://ja.wikipedia.org/wiki/Category:嬰ヘ長調 "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:YUKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUKIが制作した楽曲 "wikilink") [Category:TAKUYAが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUYAが制作した楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:JUDY_AND_MARYの楽曲](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:YUKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUKIが制作した楽曲 "wikilink") [Category:TAKUYAが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUYAが制作した楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")

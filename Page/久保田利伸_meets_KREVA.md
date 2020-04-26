@@ -16,7 +16,7 @@
 
 [久保田利伸](../Page/久保田利伸.md "wikilink")は2～3年程前に初めて[KREVA](../Page/KREVA.md "wikilink")の曲を聴いて『こんなやつが日本にいるんだ！』と絶賛し、KREVAは子供のころから久保田利伸の大ファンである。
 
-[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")には、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」に久保田利伸 meets KREVAとして出演し、[ダウンタウンと](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[音域](../Page/音域.md "wikilink")対決などを行った。
+[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")には、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」に久保田利伸 meets KREVAとして出演し、[ダウンタウンと](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[音域](../Page/音域.md "wikilink")対決などを行った。
 
 ## ディスコグラフィ
 

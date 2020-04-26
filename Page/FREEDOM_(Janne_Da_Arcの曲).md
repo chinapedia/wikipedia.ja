@@ -18,7 +18,7 @@
       -
         [yasu](https://ja.wikipedia.org/wiki/yasu "wikilink")曰く「初の（メジャーデビュー後）セルフプロデュースでJanne Da ArcらしいタイトルなのにJanne Da Arcらしくない曲」。
         最初は[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に行って[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")しようという話がでて、yasuもそれを意識して曲を作っていったが、結局行かなかった。
-        yasu曰く、「行ってなくてもアメリカンロックな感じ」らしい。ただ『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に出演した際には「外国へ行かなくても日本でレコーディングすればいい」と語っている（[youは少々外国への興味もあったようだが](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink")）。
+        yasu曰く、「行ってなくてもアメリカンロックな感じ」らしい。ただ『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演した際には「外国へ行かなくても日本でレコーディングすればいい」と語っている（[youは少々外国への興味もあったようだが](https://ja.wikipedia.org/wiki/you_\(Janne_Da_Arc\) "wikilink")）。
 2.  **survive?**
       - 作詞・作曲:[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")
 3.  **桜 (acoustic ver.)**

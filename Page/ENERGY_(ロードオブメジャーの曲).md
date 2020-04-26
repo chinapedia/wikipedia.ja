@@ -30,4 +30,4 @@
       -
         作詞・作曲：北川賢一
 
-[Category:ロードオブメジャーの楽曲](https://ja.wikipedia.org/wiki/Category:ロードオブメジャーの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:ロードオブメジャーの楽曲](https://ja.wikipedia.org/wiki/Category:ロードオブメジャーの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

@@ -16,8 +16,8 @@ SHIODOME 19BOXは、主に日本テレビの[生放送](../Page/生放送.md "wi
 
 （丸新ビル新館での編集を含む）
 
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")　スポーツニュース・コーナー
-  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")
+  - [NEWS ZERO → news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")　スポーツニュース・コーナー
+  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")
   - [ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")
   - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")
   - [THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")
@@ -31,7 +31,7 @@ SHIODOME 19BOXは、主に日本テレビの[生放送](../Page/生放送.md "wi
   - [スパモク\!\!](https://ja.wikipedia.org/wiki/スパモク!! "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
   - [火曜サプライズ](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")
   - [ジャック10](https://ja.wikipedia.org/wiki/ジャック10 "wikilink")
-  - [アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ "wikilink")
+  - [アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink")
   - [レコ☆HITS\!](https://ja.wikipedia.org/wiki/レコ☆HITS! "wikilink")
   - [笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")
   - [ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")

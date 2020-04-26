@@ -8,7 +8,7 @@
 ## 概要
 
   - [ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")同士がフリースタイル（即興）でラップをし、お互いに言葉をぶつけ合う勝負。
-  - ポイントは[フロー](https://ja.wikipedia.org/wiki/フロー "wikilink")と韻、そして的確な[ディスが要される](../Page/ディスリスペクト.md "wikilink")。
+  - ポイントは[フロー](../Page/フロー.md "wikilink")と韻、そして的確な[ディスが要される](../Page/ディスリスペクト.md "wikilink")。
   - 観客の声援と会場内より無作為に決められた奇数名の[陪審員](https://ja.wikipedia.org/wiki/陪審員 "wikilink")によって勝敗が決まる。
   - 各地予選においては8小節を交互に2本ずつ、準決勝からは16小節を交互に2本ずつ行う。
   - 2006年度より本戦において先攻は3種類の[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")から自分に有利なものを選ぶことが出来る。小節数も変更となり各交互にROUND1は8小節×3回ずつ、またROUND2.ROUND3は8-8-16小節に、決勝においては16小節×2回ずつという変形方式で行われ、[セコンド](../Page/セコンド.md "wikilink")の配置を3人まで可能とした。
@@ -172,7 +172,7 @@
   - 福岡予選準優勝：Lowch(ILL NEGATIVE EARTH) 初出場
   - 奈良予選優勝：KONG(TENT) 初出場
   - 大阪予選優勝：[R-指定](https://ja.wikipedia.org/wiki/R指定_\(ラッパー\) "wikilink")(コッペパン/梅田サイファー) 二年連続二回目
-  - 大阪予選準優勝：チプルソ(WARAJI CREW) 初出場
+  - 大阪予選準優勝：[チプルソ](https://ja.wikipedia.org/wiki/チプルソ "wikilink")(WARAJI CREW) 初出場
   - 福島予選優勝：NYNJA(PAPER BOY ENT) 初出場
   - 神戸予選優勝：CIMA(BOILRHYEME/RED LAMP/88POSSE/一二三屋) 初出場
   - 茨木予選優勝：磯友(無所属) 初出場
@@ -518,7 +518,7 @@
   - 神奈川予選優勝：BALA a.k.a SBKN(NAJIMA HARUKO RECORDS) 二年連続二回目
   - 熊本予選優勝：H1GH BR1DG3(GEOFRONT) 初出場
   - 大分予選優勝：鋼(Orange House Works) 初出場
-  - 鹿児島予選優勝：優勝者無し\[17\]
+  - 鹿児島予選優勝：開催中止
   - 宮崎予選優勝：だーひー(LOW HIGH WHO?) 二年連続二回目
   - 富山予選優勝：Eftra(E.C.C) 二年振り二回目
   - 栃木予選優勝：MAKA(UDG JAMROCK) 初出場
@@ -535,11 +535,11 @@
   - 山形予選優勝：OSCAR(John illuminati Resistance) 初出場
   - 北海道予選優勝：脱走(00"fool) 初出場
   - 長崎予選優勝：玲音(NG'z/遍在groupsounds) 七年振り二回目
-  - 佐賀予選優勝：視聴覚アルピニスト(Enigmatic Laboratory) 八年振り二回目\[18\]
+  - 佐賀予選優勝：視聴覚アルピニスト(Enigmatic Laboratory) 八年振り二回目\[17\]
   - 島根予選優勝：KOWREE(BLACK SUN) 三年振り五回目
   - 高知予選優勝：RAGA(4THCoast Yella) 初出場
   - 徳島予選優勝：T-STONE(4THCoast Yella) 三年連続三回目
-  - 岡山予選優勝：紅桜(Party Gun Paul) 二年連続五回目\[19\]\[20\]
+  - 岡山予選優勝：紅桜(Party Gun Paul) 二年連続五回目\[18\]\[19\]
   - 福岡天神予選優勝：Amg(Jasmin Notes) 初出場
   - 福岡小倉予選優勝：CJ(修羅天狗) 初出場
   - 愛知予選優勝：梵頭(HIKIGANE SOUND) 二年連続二回目
@@ -556,17 +556,17 @@
   - 石川予選優勝：Jony the sonata(addginjahzz) 二年連続六回目
   - 和歌山予選優勝：SURRY(Bangard) 二年連続四回目
   - 京都予選優勝：早雲(W.B.T.C/ZERO-Gravity) 四年振り三回目
-  - 東京予選優勝：S a.k.a スナフキン(彩-IRODORI-) 五年振り二回目\[21\]
+  - 東京予選優勝：スナフキン(彩-IRODORI-) 五年振り二回目\[20\]
   - REVENGE優勝：MC☆ニガリa.k.a赤い稲妻(爆竹スニッカーズ) 六年連続六回目
-  - UMB RESERVER：BUCHI(よりしまげーむず) 三年振り二回目\[22\]
+  - UMB RESERVER：BUCHI(よりしまげーむず) 三年振り二回目\[21\]
 
 ### ULTIMATE MC BATTLE2020 予選王者
 
-  - UMB2020 GUERRILLA AREA 九州優勝：智大(座敷屋) \[23\]
-  - UMB2020 GUERRILLA AREA 北陸・甲信越優勝：優勝者無し\[24\]\[25\]
-  - UMB2020 GUERRILLA AREA 関東優勝：5月8日開催予定\[26\]
-  - ULTIMATE MC BATTLE® 2020 THE CHOICE IS YOURS Vol4優勝：11月8日開催予定\[27\]
-  - 茨城予選優勝：4月19日開催予定
+  - UMB2020 GUERRILLA AREA 九州優勝：智大(座敷屋) \[22\]
+  - UMB2020 GUERRILLA AREA 北陸・甲信越優勝：開催中止
+  - UMB2020 GUERRILLA AREA 関東優勝：開催中止
+  - ULTIMATE MC BATTLE® 2020 THE CHOICE IS YOURS Vol4優勝：11月8日開催予定\[23\]
+  - 茨城予選優勝：未定\[24\]
 
 ## DVD
 
@@ -851,14 +851,11 @@ OSAKA NAMBA HATCH</strong></p></td>
 14. 香川代表KUYA MIGUELのリザーバー
 15.
 16. 2009年度敗者復活戦代表PONYの新名義
-17. 諸事情により開催が中止され、代わりに福岡天神、小倉両予選の優勝者が本選に送り込まれる形となった。https://twitter.com/UMB_OFFICIAL/status/1141602691862454273?s=19
-18. 2011年度熊本代表カツヲの別名義
-19. 予選にはベートーベンという名前で出場
-20. 一身上の都合により、本戦不参加
-21. 予選にはS名義、決勝大会にはスナフキン名義で出場
-22. 岡山予選優勝者の紅桜が一身上の都合により出場出来なくなった為、準優勝のBUCHIが岡山代表として繰り上げ出場する形になった
+17. 2011年度熊本代表カツヲの別名義
+18. 予選にはベートーベンという名前で出場
+19. 一身上の都合により、本戦不参加
+20. 予選にはSという名前で出場
+21. 岡山予選優勝者の紅桜が一身上の都合により出場出来なくなった為、準優勝のBUCHIが岡山代表として繰り上げ出場する形になった
+22.
 23.
-24.
-25. コロナウイルスの影響を考慮し、開催中止
-26.
-27.
+24. コロナウイルスの影響を考慮し、開催延期

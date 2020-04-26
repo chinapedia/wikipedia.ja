@@ -11,7 +11,7 @@
   - 『空想旅団』『あいのうた』はこのアルバムのオリジナル曲だが人気が高く、[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")にリリースされたファン投票によるベストアルバム『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』にも収録されている。
   - 特に『あいのうた』はライブのアンコール最後の定番曲になっていて、ラストライブで最後に歌われた曲でもある。また『Do The Best "Great Supporters Selection"』収録曲を決める際のファン投票で1位になった。
   - 初回盤はシークレットトラック収録、スリーブケース仕様。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")『[RAINBOW](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")』・[KinKi Kids](../Page/KinKi_Kids.md "wikilink")『[F album](../Page/F_album.md "wikilink")』など強豪アーティストとのアルバムリリース時期と重なったことから4作連続[オリコン](../Page/オリコンチャート.md "wikilink")1位は獲得できず、売り上げも前作より減少してしまった。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")『[RAINBOW](../Page/RAINBOW_\(浜崎あゆみのアルバム\).md "wikilink")』・[KinKi Kids](../Page/KinKi_Kids.md "wikilink")『[F album](../Page/F_album.md "wikilink")』など強豪アーティストとのアルバムリリース時期と重なったことから4作連続[オリコン](../Page/オリコンチャート.md "wikilink")1位は獲得できず、売り上げも前作より減少してしまった。
   - [2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")にデビュー5周年企画として、紙ジャケット仕様の限定盤が発売された。紙ジャケット盤は[CDDA仕様となっている](../Page/CD-DA.md "wikilink")(収録内容は通常盤と同じ)。
   - また2006年[3月15日](../Page/3月15日.md "wikilink")リリースの6枚組[CD](../Page/コンパクトディスク.md "wikilink")＋[DVDの限定ボックスセット](../Page/DVD-Video.md "wikilink")『[Do The Box](../Page/Do_The_Box.md "wikilink")』に入っている『TRUE SONG』もCDDA仕様になっており、こちらは初回盤仕様になっている。
 

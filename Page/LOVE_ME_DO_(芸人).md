@@ -315,7 +315,7 @@
   -
   - [ラブちゃんの占いブログ](https://blog.goo.ne.jp/rutile184) 本人ブログ
 
-  - [Love Me Doのドメネク監督と対談を](http://ameblo.jp/lovemedo-lovechan-uranai/) 本人ブログ
+  - [Love Me Doのドメネク監督と対談を](https://ameblo.jp/lovemedo-lovechan-uranai/) 本人ブログ
 
 [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:占い師](https://ja.wikipedia.org/wiki/Category:占い師 "wikilink") [Category:日本のフットサル選手](https://ja.wikipedia.org/wiki/Category:日本のフットサル選手 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

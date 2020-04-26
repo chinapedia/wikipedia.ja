@@ -55,7 +55,7 @@
   - 2011年、[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")「Taiwan Photo 2011」
   - 2008年、ウズベキスタン国際写真フェスティバル「2008 Tashkentale Photo Festival」日本代表、個展
   - 2007年、[中国](../Page/中国.md "wikilink")の国際写真フェスティバル「Pingyao Int'l Photo Festival 2007」
-  - 2007年、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、出品
+  - 2007年、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[サロン・ドートンヌ](../Page/サロン・ドートンヌ.md "wikilink")出品
   - 2006年、フランス、サロン・ドートンヌ出品
 
 ## 個展

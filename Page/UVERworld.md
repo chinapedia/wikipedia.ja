@@ -174,7 +174,7 @@
   - 5月2日、『**UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan【Blu-ray】**』を発売。
   - 5月- 7月、全国ツアー「UVERworld LIVE Tour 2012」を開催。
   - 8月22日、初のドキュメンタリー映画「[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")」の全国ロードショー開始。
-  - 8月29日、22ndシングル「THE OVER」を発売。
+  - 8月29日、22ndシングル「[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")」を発売。
   - 11月28日、7thオリジナルアルバム『**[THE ONE](https://ja.wikipedia.org/wiki/THE_ONE "wikilink")**』を発売。
   - 12月25日、日本武道館にて5年連続となるクリスマスライブを開催。
   - 12月26日、23rdシングル「[REVERSI](https://ja.wikipedia.org/wiki/REVERSI "wikilink")」を発売。
@@ -197,7 +197,7 @@
   - 3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
   - 3月27日、初の[京セラドーム](https://ja.wikipedia.org/wiki/京セラドーム "wikilink")大阪公演が同年7月5日に行われることが発表された。
   - 6月18日、26thシングル「7日目の決意」を発売。
-  - 7月2日、8thアルバム『0̸ CHOIR』を発売。
+  - 7月2日、8thアルバム『[0̸ CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")』を発売。
 
 #### 2015年
 
@@ -288,7 +288,7 @@
   - 血液型は、自宅出産であったこともあり自分でも分からなかったが、2008年12月25日の日本武道館でのクリスマスライブ「UVERworld 2008 Premium LIVE on Xmas」でのMCでB型と公表した。
   - 非喫煙者である。また年に3回程度しか飲酒をしない。2016年のアリーナツアーからは高音が出しづらくなった事をきっかけに[カフェイン](../Page/カフェイン.md "wikilink")を摂ることやめ、[黒豆茶](https://ja.wikipedia.org/wiki/黒豆茶 "wikilink")などを嗜むようになっている。食生活はグルテンフリーを軸とした肉と野菜のみである。2011年より毎日10kmのランニングを欠かさず行っている。本人曰く、「UVERworldがこれからどうなっていくべきなのか、自分はどう生きて行けば良いのか」と言うことを頭に思い浮かべながら走っているという。
   - 一時期、出会ったファンを家に住まわせていたことがあり、その時のトラブルは小銭をパクられたぐらいだった。
-  - 西川貴教、[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[Taka](https://ja.wikipedia.org/wiki/森田貴寛 "wikilink")、[175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、[Aqua Timezの太志](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")、[シドの](../Page/シド_\(バンド\).md "wikilink")[マオ](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")、[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")の[山村隆太](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、元[JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")で現在はLAID BACK OCEANで活動しているヤフミ、[10-FEET](../Page/10-FEET.md "wikilink")、[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")、[JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")、[山崎裕太](../Page/山崎裕太.md "wikilink")、[IMALU](https://ja.wikipedia.org/wiki/IMALU "wikilink")、[綾野剛](../Page/綾野剛.md "wikilink")などと交友関係がある。特に西川とは同郷ということもあり、TAKUYA∞に限らずUVERworld全員が交流しており、西川主催の[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")にも度々出演している。ヤフミとは家族ぐるみでの交流があり、本人曰く「*心友*」だという。[プロ野球](../Page/プロ野球.md "wikilink")・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[投手](../Page/投手.md "wikilink")の[武田翔太](https://ja.wikipedia.org/wiki/武田翔太 "wikilink")とも親交があり、2015年は武田が先発登板した7月1日の対[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦（東京ドーム）をベースの信人と、9月17日のソフトバンクが[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")連覇を果たした対西武戦（[福岡ヤフオク\!ドーム](https://ja.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")）を観戦している\[13\]。
+  - 西川貴教、[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[Taka](https://ja.wikipedia.org/wiki/森田貴寛 "wikilink")、[175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、[Aqua Timezの太志](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")、[シドの](../Page/シド_\(バンド\).md "wikilink")[マオ](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")、元[JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")で現在はLAID BACK OCEANで活動しているヤフミ、[10-FEET](../Page/10-FEET.md "wikilink")、[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")、[JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")、[山崎裕太](../Page/山崎裕太.md "wikilink")、[IMALU](https://ja.wikipedia.org/wiki/IMALU "wikilink")、[綾野剛](../Page/綾野剛.md "wikilink")などと交友関係がある。特に西川とは同郷ということもあり、TAKUYA∞に限らずUVERworld全員が交流しており、西川主催の[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")にも度々出演している。ヤフミとは家族ぐるみでの交流があり、本人曰く「*心友*」だという。[プロ野球](../Page/プロ野球.md "wikilink")・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[投手](../Page/投手.md "wikilink")の[武田翔太](https://ja.wikipedia.org/wiki/武田翔太 "wikilink")とも親交があり、2015年は武田が先発登板した7月1日の対[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦（東京ドーム）をベースの信人と、9月17日のソフトバンクが[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")連覇を果たした対西武戦（[福岡ヤフオク\!ドーム](https://ja.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")）を観戦している\[13\]。
   - 2016年6月19日、オフィシャルサイトにて一般女性との入籍を発表した。\[14\]
 
 ### 克哉
@@ -3428,7 +3428,7 @@ SIU 鈴鹿国際大学 第12回鈴国祭</p></td>
 <tr class="odd">
 <td><p>10月28日</p></td>
 <td><p>流星祭2007</p></td>
-<td><p>金沢星陵大学 稲置講堂</p></td>
+<td><p>金沢星稜大学 稲置講堂</p></td>
 <td></td>
 <td></td>
 </tr>

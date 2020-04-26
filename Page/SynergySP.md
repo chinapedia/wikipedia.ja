@@ -13,7 +13,7 @@
 
 設立当初から代表取締役だった岡崎稔が代表を退いてからは七野悠里子と小学館集英社プロダクションの中沢利洋の共同体制の後、七野が単独で代表を務める。かつては撮影部門も保有していたが、後述のHORNETS設立に伴い独立・解散している。
 
-[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[シンエイ動画](../Page/シンエイ動画.md "wikilink")の[子会社](../Page/子会社.md "wikilink")となり代表には『[ドラえもん (2005年のテレビアニメ)](https://ja.wikipedia.org/wiki/ドラえもん_\(2005年のテレビアニメ\) "wikilink")』のチーフプロデューサーを務めていた[増子相二郎](../Page/増子相二郎.md "wikilink")が就任した\[3\]。以降はシンエイ動画及び[オー・エル・エム](../Page/オー・エル・エム.md "wikilink")からの[グロス請け](../Page/グロス請け.md "wikilink")（シリーズ制作協力）を中心に活動している。
+[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[シンエイ動画](../Page/シンエイ動画.md "wikilink")の[子会社](../Page/子会社.md "wikilink")となり代表には『[ドラえもん (2005年のテレビアニメ)](https://ja.wikipedia.org/wiki/ドラえもん_\(2005年のテレビアニメ\) "wikilink")』のチーフプロデューサーを務めていた[増子相二郎](../Page/増子相二郎.md "wikilink")が就任した\[3\]。以降はシンエイ動画及び[オー・エル・エム](../Page/オー・エル・エム.md "wikilink")からの実制作の受注（シリーズ制作協力）を中心に活動している。
 
 ## 作品リスト
 
@@ -87,11 +87,11 @@
   - [空戦魔導士候補生の教官](https://ja.wikipedia.org/wiki/空戦魔導士候補生の教官 "wikilink")（制作元請：[ディオメディア](../Page/ディオメディア.md "wikilink")、各話制作協力、2015年）
   - [実は私は](https://ja.wikipedia.org/wiki/実は私は "wikilink")（制作元請：トムス・エンタテインメント、各話制作協力、2015年）
   - [12歳。](https://ja.wikipedia.org/wiki/12歳。 "wikilink")〜ちっちゃなムネのトキメキ〜（制作元請：オー・エル・エム、各話制作協力、2016年）
-  - [カミワザ・ワンダ](https://ja.wikipedia.org/wiki/カミワザ・ワンダ "wikilink")（制作元請：トムス・エンタテインメント、制作協力、2016年）
+  - [カミワザ・ワンダ](https://ja.wikipedia.org/wiki/カミワザ・ワンダ "wikilink")（制作元請：トムス・エンタテインメント、制作協力、2016年 - 2017年）
   - [妖怪アパートの幽雅な日常](https://ja.wikipedia.org/wiki/妖怪アパートの幽雅な日常 "wikilink")（制作元請：[シンエイ動画](../Page/シンエイ動画.md "wikilink")、制作協力、2017年）
-  - [ポチっと発明 ピカちんキット](https://ja.wikipedia.org/wiki/ポチっと発明_ピカちんキット "wikilink")（制作元請：オー・エル・エム×シンエイ動画、制作協力、2018年）
+  - [ポチっと発明 ピカちんキット](https://ja.wikipedia.org/wiki/ポチっと発明_ピカちんキット "wikilink")（制作元請：オー・エル・エム×シンエイ動画、制作協力、2018年 - 2020年）
   - [新幹線変形ロボ シンカリオン THE ANIMATION](https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン_THE_ANIMATION "wikilink")（制作元請：[OLM](../Page/オー・エル・エム.md "wikilink")、各話制作協力→制作協力〈第53話以降〉、2019年）
-  - [八男って、それはないでしょう\!](https://ja.wikipedia.org/wiki/八男って、それはないでしょう! "wikilink")（シンエイ動画と共同制作、2020年）
+  - [八男って、それはないでしょう\!](https://ja.wikipedia.org/wiki/八男って、それはないでしょう! "wikilink")（制作元請：シンエイ動画、制作協力、2020年）
 
 ### OVA
 
@@ -105,6 +105,8 @@
   - [いじめ](https://ja.wikipedia.org/wiki/いじめ_\(漫画\) "wikilink")（2012年）
   - [ナゾトキ姫は名探偵](https://ja.wikipedia.org/wiki/ナゾトキ姫は名探偵 "wikilink")♥（2012年）
   - [12歳。](https://ja.wikipedia.org/wiki/12歳。 "wikilink")（2014年、第1期1話・第2期制作）
+  - やっぱり海が好き（制作元請：シンエイ動画、制作協力、2015年）
+  - やっぱり海が好き2（制作元請：シンエイ動画、制作協力、2017年）
 
 ### 劇場アニメ
 
@@ -115,7 +117,8 @@
   - [劇場版イナズマイレブンGO vs ダンボール戦機W](https://ja.wikipedia.org/wiki/劇場版イナズマイレブンGO_vs_ダンボール戦機W "wikilink")（制作元請：オー・エル・エム、制作協力、2012年）
   - [映画 妖怪ウォッチ エンマ大王と5つの物語だニャン\!](https://ja.wikipedia.org/wiki/妖怪ウォッチ_\(アニメ\) "wikilink")（制作元請：オー・エル・エム、制作協力、2015年）
   - [ちびまる子ちゃん イタリアから来た少年](https://ja.wikipedia.org/wiki/ちびまる子ちゃん_イタリアから来た少年 "wikilink")（制作元請：日本アニメーション、制作協力、2015年）
-  - [ゴーちゃん。〜モコと氷の上の約束〜](https://ja.wikipedia.org/wiki/ゴーちゃん。〜モコと氷の上の約束〜 "wikilink")（シンエイ動画と共同制作、2018年）
+  - [ゴーちゃん。〜モコとちんじゅうの森の仲間たち〜](https://ja.wikipedia.org/wiki/ゴーちゃん。〜モコとちんじゅうの森の仲間たち〜 "wikilink")（制作元請：シンエイ動画、制作協力、2017年）
+  - [ゴーちゃん。〜モコと氷の上の約束〜](https://ja.wikipedia.org/wiki/ゴーちゃん。〜モコと氷の上の約束〜 "wikilink")（制作元請：シンエイ動画、制作協力、2018年）
   - [映画コラショの海底わくわく大冒険\!](https://ja.wikipedia.org/wiki/コラショ#アニメ "wikilink")（制作元請：トムス・エンタテインメント、制作協力、2019年）
   - [劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のALFA-X](https://ja.wikipedia.org/wiki/劇場版_新幹線変形ロボ_シンカリオン_未来からきた神速のALFA-X "wikilink")（制作元請：オー・エル・エム、制作協力、2019年\[4\]）
 

@@ -77,7 +77,7 @@
 
 <references/>
 
-[Category:1991年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1991年の音楽関連の映像作品 "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:1991年のコンサート](https://ja.wikipedia.org/wiki/Category:1991年のコンサート "wikilink") [Category:1991年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1991年のライブ・ビデオ "wikilink")
 
 1.  1992年にBMGルームスに発売元が移管された際に、品番がBMV(L)R-24に変更された上で再発売されている。なお、ROOMS RECORDSへの社名変更と販売元が[J-DISC Beingに移管されたのに伴い](../Page/J-DISC_Being.md "wikilink")、同品番で社名変更されたものが1996年秋以降出荷されていた。
 2.  2017年に発売された『[B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")』の特典DVDに収録

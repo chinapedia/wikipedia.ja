@@ -70,8 +70,6 @@
 
 ## バンド名の由来
 
-アルバム『[イースIV](../Page/イースIV.md "wikilink") VS [風の伝説ザナドゥ](../Page/風の伝説ザナドゥ.md "wikilink") J.D.K.BAND4』付属の[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")によると、名付け親は日本ファルコムの創業者（現会長）の[加藤正幸](https://ja.wikipedia.org/wiki/加藤正幸 "wikilink")。J.D.K.は『ジャパン・ダイナマイト・キッズ』または『ジャンピング・デジタル・キッズ』の略とされる。
-
 ## アルバム
 
 ### J.D.K.BAND

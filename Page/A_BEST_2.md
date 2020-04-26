@@ -1,7 +1,7 @@
 > この記事は[A BEST 2](https://ja.wikipedia.org/wiki/A_BEST_2)から翻訳されています。
 
 
-『**A BEST 2**』（エー・ベスト・ツー）は、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の一連の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の総称。以下の2タイトルが[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxより同時発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトルの頭文字の「A」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")。
+『**A BEST 2**』（エー・ベスト・ツー）は、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の一連の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の総称。以下の2タイトルが[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[avex traxより同時発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトルの頭文字の「A」は[ロゴ表記](../Page/ロゴタイプ.md "wikilink")。
 
   - **A BEST 2 -BLACK-**
   - **A BEST 2 -WHITE-**
@@ -20,7 +20,7 @@
 
 ## A BEST 2 -BLACK-
 
-『**A BEST 2 -BLACK-**』（エー・ベスト・ツー ブラック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**A BEST 2 -BLACK-**』（エー・ベスト・ツー ブラック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ### 解説
 
@@ -141,7 +141,7 @@ DVD2には、[2006年](../Page/2006年.md "wikilink")[12月30日](../Page/12月3
 
 ## A BEST 2 -WHITE-
 
-『**A BEST 2 -WHITE-**』（エー・ベスト・ツー ホワイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**A BEST 2 -WHITE-**』（エー・ベスト・ツー ホワイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ### 解説
 

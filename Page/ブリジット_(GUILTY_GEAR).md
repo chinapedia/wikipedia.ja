@@ -109,7 +109,7 @@
 
   - 誕生日が、担当声優の小西寛子(GGXX\~SLASH)と同じである。
   - 企画当初は女性だったが、[石渡太輔](../Page/石渡太輔.md "wikilink")の意向により男性に変更された。いわゆる「[男の娘](https://ja.wikipedia.org/wiki/男の娘 "wikilink")」のコンセプトで生まれたキャラクターでもある。
-  - [プロスピナーの](https://ja.wikipedia.org/wiki/ヨーヨー#スピナー "wikilink")[長谷川貴彦が監修を行っており](https://ja.wikipedia.org/wiki/Taka_\(スピナー\) "wikilink")、彼が完成させた技『[ソロハム](https://ja.wikipedia.org/wiki/ソロハム "wikilink")』を登場デモで披露している。
+  - [プロスピナーの](https://ja.wikipedia.org/wiki/ヨーヨー#スピナー "wikilink")[長谷川貴彦が監修を行っており](../Page/Taka_\(スピナー\).md "wikilink")、彼が完成させた技『[ソロハム](https://ja.wikipedia.org/wiki/ソロハム "wikilink")』を登場デモで披露している。
   - 公式ホームページの人気投票において、[ソル＝バッドガイなどの主役を差し置さえ](../Page/ソル・バッドガイ.md "wikilink")1位になっている。
 
 ## 参考資料

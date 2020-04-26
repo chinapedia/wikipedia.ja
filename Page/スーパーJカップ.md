@@ -96,6 +96,7 @@
   - [エル・サムライ](../Page/エル・サムライ.md "wikilink")（新日本プロレス）
   - [ケンドー・カシン](../Page/石澤常光.md "wikilink")（新日本プロレス）
   - [田中稔](../Page/田中稔_\(プロレスラー\).md "wikilink")（新日本プロレス）
+  - [望月成晃](../Page/望月成晃.md "wikilink")（闘龍門JAPAN）
   - [アビスモ・ネグロ](../Page/アビスモ・ネグロ.md "wikilink")（[AAA](../Page/AAA_\(プロレス\).md "wikilink")）
   - [オリエンタル](https://ja.wikipedia.org/wiki/オリエンタル_\(プロレスラー\) "wikilink")（AAA）
   - [スーパー・ボーイ](https://ja.wikipedia.org/wiki/スーパー・ボーイ "wikilink")（AAA）
@@ -261,6 +262,6 @@
 
 ## 脚注
 
-[Category:プロレスのトーナメント戦](https://ja.wikipedia.org/wiki/Category:プロレスのトーナメント戦 "wikilink") [Category:新日本プロレスの興行](https://ja.wikipedia.org/wiki/Category:新日本プロレスの興行 "wikilink") [Category:プロレスリング・ノアの興行](https://ja.wikipedia.org/wiki/Category:プロレスリング・ノアの興行 "wikilink") [Category:みちのくプロレスの興行](https://ja.wikipedia.org/wiki/Category:みちのくプロレスの興行 "wikilink") [Category:WAR](https://ja.wikipedia.org/wiki/Category:WAR "wikilink") [Category:大阪プロレス](https://ja.wikipedia.org/wiki/Category:大阪プロレス "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:1994年開始のイベント](https://ja.wikipedia.org/wiki/Category:1994年開始のイベント "wikilink")
+[Category:プロレスのトーナメント戦](https://ja.wikipedia.org/wiki/Category:プロレスのトーナメント戦 "wikilink") [Category:新日本プロレスの興行](https://ja.wikipedia.org/wiki/Category:新日本プロレスの興行 "wikilink") [Category:プロレスリング・ノアの興行](https://ja.wikipedia.org/wiki/Category:プロレスリング・ノアの興行 "wikilink") [Category:みちのくプロレスの興行](https://ja.wikipedia.org/wiki/Category:みちのくプロレスの興行 "wikilink") [Category:WAR](https://ja.wikipedia.org/wiki/Category:WAR "wikilink") [Category:大阪プロレス](https://ja.wikipedia.org/wiki/Category:大阪プロレス "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:1994年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1994年開始のスポーツイベント "wikilink")
 
 1.  [ベースボールマガジン社](https://ja.wikipedia.org/wiki/ベースボールマガジン社 "wikilink")「[週刊プロレス](../Page/週刊プロレス.md "wikilink")モバイル」[2016年](../Page/2016年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")リリース記事より

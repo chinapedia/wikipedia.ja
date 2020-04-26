@@ -32,4 +32,4 @@
   - **宝石箱**
       - Jewelry Box
 
-[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:菅原サトルが制作した楽曲](https://ja.wikipedia.org/wiki/Category:菅原サトルが制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:テレビドラマ挿入歌](https://ja.wikipedia.org/wiki/Category:テレビドラマ挿入歌 "wikilink") [Category:エクスタシーレコードのシングル](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのシングル "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink")
+[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:菅原サトルが制作した楽曲](https://ja.wikipedia.org/wiki/Category:菅原サトルが制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:テレビドラマ挿入歌](https://ja.wikipedia.org/wiki/Category:テレビドラマ挿入歌 "wikilink") [Category:エクスタシーレコードのシングル](https://ja.wikipedia.org/wiki/Category:エクスタシーレコードのシングル "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")

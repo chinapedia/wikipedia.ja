@@ -57,7 +57,7 @@
 </tbody>
 </table>
 
-[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:はたけが制作した楽曲](https://ja.wikipedia.org/wiki/Category:はたけが制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:ドラゴンボールの音楽](https://ja.wikipedia.org/wiki/Category:ドラゴンボールの音楽 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink")
+[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:はたけが制作した楽曲](https://ja.wikipedia.org/wiki/Category:はたけが制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:ドラゴンボールの音楽](https://ja.wikipedia.org/wiki/Category:ドラゴンボールの音楽 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.  [うしろ髪ひかれ隊](../Page/うしろ髪ひかれ隊.md "wikilink")時代には、同じ『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』連載作品だった『[ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink")』および『[ついでにとんちんかん](../Page/ついでにとんちんかん.md "wikilink")』とのタイアップを行なっていた。
 2.  『ついでにとんちんかん』のオープニングテーマに使用されていた。

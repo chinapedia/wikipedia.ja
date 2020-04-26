@@ -19,7 +19,7 @@
 ### 連載中
 
   - [てるみな](https://ja.wikipedia.org/wiki/てるみな "wikilink")（『[楽園](https://ja.wikipedia.org/wiki/楽園_Le_Paradis "wikilink")』5号 - 16号,『楽園』WEB増刊 2011年4月号 - ）[白泉社](../Page/白泉社.md "wikilink")、既刊3巻
-  - [ぱらのま](https://ja.wikipedia.org/wiki/ぱらのま "wikilink")（『[楽園](https://ja.wikipedia.org/wiki/楽園_Le_Paradis "wikilink")』17号 - ,『楽園』WEB増刊 2015年4月号 - ）[白泉社](../Page/白泉社.md "wikilink")、既刊2巻
+  - [ぱらのま](https://ja.wikipedia.org/wiki/ぱらのま "wikilink")（『[楽園](https://ja.wikipedia.org/wiki/楽園_Le_Paradis "wikilink")』17号 - ,『楽園』WEB増刊 2015年4月号 - ）[白泉社](../Page/白泉社.md "wikilink")、既刊3巻
   - [ななかさんの印税生活入門](https://ja.wikipedia.org/wiki/ななかさんの印税生活入門 "wikilink")（『まんがタイムきららMAX』2016年2月号 - ）[芳文社](../Page/芳文社.md "wikilink")、既刊3巻
 
 ### その他

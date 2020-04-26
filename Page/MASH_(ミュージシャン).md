@@ -560,7 +560,7 @@ M.A.R.V.I.N／H.O.Z.E./MASH/Smells Good</p></td>
   - [Twitter(STAFF)](https://twitter.com/MASHSTAFF05)
   - [Facebook](https://www.facebook.com/MASH-184655478348789/)
   - [Youtube Channel](http://www.youtube.com/user/MASHofficial2013)
-  - [公式ブログ](http://ameblo.jp/blog-mash)
+  - [公式ブログ](https://ameblo.jp/blog-mash)
   - [公式サイト（エイベックス内）](http://avex.jp/mash/index.html)
 
 [Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のポップ歌手](https://ja.wikipedia.org/wiki/Category:日本のポップ歌手 "wikilink") [Category:愛知県出身の人物](https://ja.wikipedia.org/wiki/Category:愛知県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

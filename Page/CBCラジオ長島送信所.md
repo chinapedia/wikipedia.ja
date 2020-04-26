@@ -84,7 +84,7 @@
   - [東海ラジオ放送七宝送信所](../Page/東海ラジオ放送七宝送信所.md "wikilink")
   - [NHK鍋田ラジオ放送所](../Page/NHK鍋田ラジオ放送所.md "wikilink") （2つの送信所とも音声出力50kW（※[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")は10kW）で統一している。）
   - [三国山 (岐阜県)](../Page/三国山_\(岐阜県\).md "wikilink") - CBCラジオ、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")（ワイドFM）を設置。過去には[愛知国際放送](../Page/愛知国際放送.md "wikilink")（RADIO-i）の送信所が置かれていた。
-  - [名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink") - 現在は[ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")の送信所があるのみ。
+  - [名古屋テレビ塔](../Page/名古屋テレビ塔.md "wikilink") - アナログテレビ放送終了後は[ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")の送信所として使われてきたが、Jモバのサービス終了で、現在は送信施設としては使われていない。
   - [東山タワー](../Page/東山タワー.md "wikilink") - FMラジオ放送の基幹親局
   - [瀬戸デジタルタワー](../Page/瀬戸デジタルタワー.md "wikilink") - 中京圏の[地上デジタルテレビ放送の基幹親局](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")
 

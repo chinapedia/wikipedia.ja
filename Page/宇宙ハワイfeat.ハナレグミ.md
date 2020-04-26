@@ -29,4 +29,4 @@
 
   - [アルファスペシャル](http://streaming.yahoo.co.jp/p/t/00067/v02012/) - Yahoo\!\!動画にてPV視聴＆コメント掲載
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:日本のヒップホップのシングル](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのシングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink") [Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:日本のヒップホップのシングル](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのシングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")

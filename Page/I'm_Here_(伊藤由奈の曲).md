@@ -33,6 +33,6 @@
 
 <references/>
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:伊藤由奈の楽曲](https://ja.wikipedia.org/wiki/Category:伊藤由奈の楽曲 "wikilink") [Category:原一博が制作した楽曲](https://ja.wikipedia.org/wiki/Category:原一博が制作した楽曲 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:刑事・雪平夏見シリーズ](https://ja.wikipedia.org/wiki/Category:刑事・雪平夏見シリーズ "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:伊藤由奈の楽曲](https://ja.wikipedia.org/wiki/Category:伊藤由奈の楽曲 "wikilink") [Category:原一博が制作した楽曲](https://ja.wikipedia.org/wiki/Category:原一博が制作した楽曲 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:刑事・雪平夏見シリーズ](https://ja.wikipedia.org/wiki/Category:刑事・雪平夏見シリーズ "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [sharksroom diary 2007年03月22日](http://blog.goo.ne.jp/sharksroom/e/bf71128ad7e6038578ba4b3e09be0d8b)

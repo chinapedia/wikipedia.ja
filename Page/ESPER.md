@@ -28,6 +28,6 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [ESPER](http://yuming.co.jp/discography/single/single14/)
 
-[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.

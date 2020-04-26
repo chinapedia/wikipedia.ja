@@ -34,7 +34,7 @@
 
 <references/>
 
-[Category:L'Arc〜en〜Cielの映像作品](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの映像作品 "wikilink") [Category:1992年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1992年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:L'Arc〜en〜Cielの映像作品](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの映像作品 "wikilink") [Category:1992年のコンサート](https://ja.wikipedia.org/wiki/Category:1992年のコンサート "wikilink") [Category:1992年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1992年のライブ・ビデオ "wikilink")
 
 1.  『is』、[シンコー・ミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコー・ミュージック・エンタテイメント "wikilink")、p.47-p.48、1996年。
 2.

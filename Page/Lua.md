@@ -414,7 +414,7 @@ end
 
   - [広井誠:「お気楽 Lua プログラミング超入門」](http://www.nct9.ne.jp/m_hiroi/light/lua.html)
 
-  - [C/C++ 言語プログラマのための Lua 入門リファレンス](https://qiita.com/dwarfJP/items/e033728f5cbecbabe11f)
+  - [C/C++ 言語プログラマのための Lua 入門リファレンス](https://ifritjp.github.io/documents/lua/)
 
 [Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink") [Category:スクリプト言語](https://ja.wikipedia.org/wiki/Category:スクリプト言語 "wikilink") [Category:仮想機械](https://ja.wikipedia.org/wiki/Category:仮想機械 "wikilink")
 

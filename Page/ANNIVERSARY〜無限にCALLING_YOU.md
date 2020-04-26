@@ -58,6 +58,6 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [ANNIVERSARY〜無限にCALLING YOU](http://yuming.co.jp/discography/single/single23/)
 
-[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:変ロ長調](https://ja.wikipedia.org/wiki/Category:変ロ長調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:Yumingの楽曲](https://ja.wikipedia.org/wiki/Category:Yumingの楽曲 "wikilink") [Category:Yumingが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Yumingが制作した楽曲 "wikilink") [Category:エキスプレスのシングル](https://ja.wikipedia.org/wiki/Category:エキスプレスのシングル "wikilink") [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.

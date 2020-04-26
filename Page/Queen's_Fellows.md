@@ -10,7 +10,7 @@
 1.  **[守ってあげたい](../Page/守ってあげたい.md "wikilink")**（『[SINGLES 2000-2003](../Page/SINGLES_2000-2003.md "wikilink")』にも収録） / [鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")
       -
         アルバム『[昨晩お会いしましょう](../Page/昨晩お会いしましょう.md "wikilink")』より
-2.  **14番目の月** / [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+2.  **14番目の月** / [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
       -
         アルバム『[14番目の月](../Page/14番目の月.md "wikilink")』より。逆にユーミンはスピッツの『[楓](https://ja.wikipedia.org/wiki/楓/スピカ "wikilink")』をカヴァーしている。
 3.  **セシルの週末** / [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")

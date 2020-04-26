@@ -699,7 +699,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
 
 :; テレビアニメ第1期『To LOVEる -とらぶる- ダークネス』
 
-:: [2012年](../Page/2012年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の「[アニメ コンテンツ エキスポ](https://ja.wikipedia.org/wiki/アニメ_コンテンツ_エキスポ "wikilink")2012」にて制作が発表された。同年10月より12月までTOKYO MX、サンテレビ、[BS11他にて放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")。全12話。4年ぶりにBS放送局でも放送されるが、TL第1期でのBS-TBS（旧：BS-i）からBS11に変更となった。なおお色気シーンではこれまで同様白光、湯気などで自主規制が行われている（TL第2期と違い、AT-Xにおいても解禁はされていない）\[67\]。
+:: [2012年](../Page/2012年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の「[アニメ コンテンツ エキスポ](https://ja.wikipedia.org/wiki/アニメ_コンテンツ_エキスポ "wikilink")2012」にて制作が発表された。同年10月より12月までTOKYO MX、サンテレビ、[BS11他にて放送された](../Page/日本BS放送.md "wikilink")。全12話。4年ぶりにBS放送局でも放送されるが、TL第1期でのBS-TBS（旧：BS-i）からBS11に変更となった。なおお色気シーンではこれまで同様白光、湯気などで自主規制が行われている（TL第2期と違い、AT-Xにおいても解禁はされていない）\[67\]。
 
 :: 内容的には原作19話までと幾つかの番外編がOVAも含めて、ほぼ忠実に再現されている（中には幾つかの話が結合されていたり、順番が入れ替わっている話もある）。
 
@@ -2311,7 +2311,7 @@ jang sang mi、斎藤美香</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>2012年<a href="../Page/10月8日.md" title="wikilink">10月8日</a> - <a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p>月曜 0:30 - 1:00</p></td>
 <td><p>BS放送</p></td>

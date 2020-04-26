@@ -835,6 +835,7 @@ PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.
   - 『京都アニソンスペシャルライブ presented by KBS京都』（2016年8月20日開催、京都KBSホール）
   - 『美少女ゲームミュージックライブ！！2017 大阪-Fandisk\!\!-』（2017年2月4日開催予定、umeda AKASO）
   - 『Eushully 20th Anniversary Live』（2018年11月25日、[吉祥寺CLUB SEATA](../Page/吉祥寺CLUB_SEATA.md "wikilink")）\[23\]
+  - 『[ランティス祭り](https://ja.wikipedia.org/wiki/ランティス祭り "wikilink")2019 A･R･I･G･A･T･O ANISONG』（2019年6月22日、[幕張メッセ 国際展示場9-11ホール](../Page/幕張メッセ.md "wikilink")）\[24\]
 
 ## 脚注
 
@@ -876,3 +877,4 @@ PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.
 21. 2019年7月より放送休止中。
 22.
 23.
+24.

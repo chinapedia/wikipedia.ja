@@ -1,4 +1,4 @@
-> この記事は[Parallel Harmony ](https://ja.wikipedia.org/wiki/Parallel_Harmony_)から翻訳されています。
+> この記事は[Parallel Harmony 月曜の扉は水曜の向こうに](https://ja.wikipedia.org/wiki/Parallel_Harmony_月曜の扉は水曜の向こうに)から翻訳されています。
 
 
 『**Parallel Harmony 月曜の扉は水曜の向こうに**』（パラレルハーモニー げつようのとびらはすいようのむこうに）は、[シーズウェア](../Page/シーズウェア.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")に発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")にはドラマ兼サントラCD「Parallel Harmony+ さらば ぱられるはぁもに〜 愛の戦士たち…?」も製作された。[2014年](../Page/2014年.md "wikilink")現在は[ダウンロード通販サイトで販売されている](../Page/ダウンロード販売.md "wikilink")。

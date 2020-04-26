@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKバナト・ズレニャニン](https://ja.wikipedia.org/wiki/FKバナト・ズレニャニン)から翻訳されています。
 
 
 **フドバルスキ・クルブ・バナト・ズレニャニン**（, ）は、[セルビア](../Page/セルビア.md "wikilink")共和国北部の都市[ズレニャニン](../Page/ズレニャニン.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2015-16シーズンは[セルビア・スルプスカ・リーガ](https://ja.wikipedia.org/wiki/セルビア・スルプスカ・リーガ "wikilink")・ヴォイヴォディナ地方（3部）に所属。

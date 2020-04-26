@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[H・アレン・ジャーケンスメモリアルステークス](https://ja.wikipedia.org/wiki/H・アレン・ジャーケンスメモリアルステークス)から翻訳されています。
 
 
 **H・アレン・ジャーケンスメモリアルステークス**（*H. Allen Jerkens Memorial Stakes*）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")にある[サラトガ競馬場](../Page/サラトガ競馬場.md "wikilink")で開催される[ダート](../Page/ダート.md "wikilink")7[ハロンの](../Page/ハロン_\(単位\).md "wikilink")[競馬](../Page/競馬.md "wikilink")の[競走](../Page/競走.md "wikilink")である。出走条件は3歳馬、[グレード制](../Page/グレード制.md "wikilink")では[G1に類される](../Page/競馬の競走格付け.md "wikilink")。

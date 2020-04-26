@@ -1,4 +1,4 @@
-> この記事は[DAN](https://ja.wikipedia.org/wiki/DAN)から翻訳されています。
+> この記事は[バイオ戦士DAN](https://ja.wikipedia.org/wiki/バイオ戦士DAN)から翻訳されています。
 
 
 『**バイオ戦士DAN インクリーザーとの闘い**』（バイオせんしダン インクリーザーとのたたかい）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[ジャレコ](../Page/ジャレコ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。

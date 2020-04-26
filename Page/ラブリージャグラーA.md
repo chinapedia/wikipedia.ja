@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ラブリージャグラーA](https://ja.wikipedia.org/wiki/ラブリージャグラーA)から翻訳されています。
 
 
 『**ラブリージャグラーA**』（ラブリージャグラーエース）は、[2007年](../Page/2007年.md "wikilink")7月に[北電子](../Page/北電子.md "wikilink")が発売した[パチスロ](../Page/パチスロ.md "wikilink")機である。『[アイムジャグラーEX](../Page/アイムジャグラーEX.md "wikilink")』、『[アイムジャグラー7](https://ja.wikipedia.org/wiki/アイムジャグラーEX#アイムジャグラー7 "wikilink")』に次ぐ、[5号機におけるジャグラーシリーズ第](../Page/5号機_\(パチスロ\).md "wikilink")3弾。

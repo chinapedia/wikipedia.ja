@@ -1,4 +1,4 @@
-> この記事は[UTAHIME AKINA NAKAMORI PARCO THEATER LIVE](https://ja.wikipedia.org/wiki/UTAHIME_AKINA_NAKAMORI_PARCO_THEATER_LIVE)から翻訳されています。
+> この記事は[“UTAHIME” AKINA NAKAMORI PARCO THEATER LIVE](https://ja.wikipedia.org/wiki/“UTAHIME”_AKINA_NAKAMORI_PARCO_THEATER_LIVE)から翻訳されています。
 
 
 『**“UTAHIME” AKINA NAKAMORI PARCO THEATER LIVE**』（ウタヒメ・アキナ・ナカモリ・パルコ・シアター・ライブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のライブ・ビデオ。この映像作品は1995年3月24日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")からリリースされた ([VHS](../Page/VHS.md "wikilink"): MVVD-7, [LD](../Page/レーザーディスク.md "wikilink"): MVLD-7)。
@@ -140,7 +140,7 @@
 
   -
   -
-[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:1994年のコンサート](https://ja.wikipedia.org/wiki/Category:1994年のコンサート "wikilink") [Category:1995年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1995年のライブ・ビデオ "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:1994年のコンサート](https://ja.wikipedia.org/wiki/Category:1994年のコンサート "wikilink") [Category:1995年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1995年のライブ・ビデオ "wikilink") [Category:2000年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2000年のライブ・ビデオ "wikilink") [Category:2002年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2002年のライブ・ビデオ "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

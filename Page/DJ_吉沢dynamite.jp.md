@@ -1,4 +1,4 @@
-> この記事は[DJ dynamite.jp](https://ja.wikipedia.org/wiki/DJ_dynamite.jp)から翻訳されています。
+> この記事は[DJ 吉沢dynamite.jp](https://ja.wikipedia.org/wiki/DJ_吉沢dynamite.jp)から翻訳されています。
 
 
 **吉沢dynamite.jp**（ヨシザワ ダイナマイト ジェイピィ、[1970年](../Page/1970年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - ）は[東京都](../Page/東京都.md "wikilink")出身の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ターンテーブリスト](https://ja.wikipedia.org/wiki/ターンテーブリスト "wikilink")、[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")、[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")、[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。

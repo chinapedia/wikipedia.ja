@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーザン・J・ネイピア](https://ja.wikipedia.org/wiki/スーザン・J・ネイピア)から翻訳されています。
 
 
 **スーザン・J・ネイピア**（Susan Jolliffe Napier, [1955年](../Page/1955年.md "wikilink")-）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の日本文学・文化研究者。とくに現代日本のアニメ研究で知られる。第27回[日本児童文学学会](https://ja.wikipedia.org/wiki/日本児童文学学会 "wikilink")特別賞受賞。

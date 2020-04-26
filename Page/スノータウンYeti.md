@@ -1,4 +1,4 @@
-> この記事は[Yeti](https://ja.wikipedia.org/wiki/Yeti)から翻訳されています。
+> この記事は[スノータウンYeti](https://ja.wikipedia.org/wiki/スノータウンYeti)から翻訳されています。
 
 
 **スノータウンYeti**（スノータウンイエティ）は、[静岡県](../Page/静岡県.md "wikilink")[裾野市](../Page/裾野市.md "wikilink")に位置する[スキー場](../Page/スキー場.md "wikilink")。[富士急行](../Page/富士急行.md "wikilink")系列の「フジヤマリゾート」が運営する。

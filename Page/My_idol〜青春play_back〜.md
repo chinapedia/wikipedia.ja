@@ -1,4 +1,4 @@
-> この記事は[My idolplay back](https://ja.wikipedia.org/wiki/My_idolplay_back)から翻訳されています。
+> この記事は[My idol〜青春play back〜](https://ja.wikipedia.org/wiki/My_idol〜青春play_back〜)から翻訳されています。
 
 
 『**My idol〜青春play back〜**』（マイアイドル せいしゅんプレイバック）は、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")が企画・制作・発売元で[2007年](../Page/2007年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")リリースの[通販CD](../Page/通販CD.md "wikilink")ボックスである。

@@ -1,4 +1,4 @@
-> この記事は[Heaven\'s Kitchen \(BONNIE PINK\)](https://ja.wikipedia.org/wiki/Heaven\'s_Kitchen_\(BONNIE_PINK\))から翻訳されています。
+> この記事は[Heaven\'s Kitchen \(BONNIE PINKの曲\)](https://ja.wikipedia.org/wiki/Heaven\'s_Kitchen_\(BONNIE_PINKの曲\))から翻訳されています。
 
 
 『**Heaven's Kitchen**』（ヘヴンズ キッチン）は、[BONNIE PINKの](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。BONNIE PINKの代表曲の一つ。CDコードはPCDA-00958。

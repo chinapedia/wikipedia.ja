@@ -1,4 +1,4 @@
-> この記事は[Life goes on \(Dragon Ash\)](https://ja.wikipedia.org/wiki/Life_goes_on_\(Dragon_Ash\))から翻訳されています。
+> この記事は[Life goes on \(Dragon Ashの曲\)](https://ja.wikipedia.org/wiki/Life_goes_on_\(Dragon_Ashの曲\))から翻訳されています。
 
 
 「**Life goes on**」（ライフ・ゴーズ・オン）は、[Dragon Ashの楽曲で](../Page/Dragon_Ash.md "wikilink")、10枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[ビクターエンタテインメントから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[TKU](https://ja.wikipedia.org/wiki/TKU)から翻訳されています。
+> この記事は[TKUニュース](https://ja.wikipedia.org/wiki/TKUニュース)から翻訳されています。
 
 
 『**TKUニュース**』（ティーケーユーニュース）は、[テレビ熊本](../Page/テレビ熊本.md "wikilink")で放送されているローカル[ニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。

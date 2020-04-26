@@ -1,4 +1,4 @@
-> この記事は[LOVERS ](https://ja.wikipedia.org/wiki/LOVERS_)から翻訳されています。
+> この記事は[LOVERS 恋愛アンソロジー](https://ja.wikipedia.org/wiki/LOVERS_恋愛アンソロジー)から翻訳されています。
 
 
 『**LOVERS 恋愛アンソロジー**』（ラバーズ れんあいアンソロジー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[短編](../Page/短編小説.md "wikilink")[恋愛小説](../Page/恋愛小説.md "wikilink")の[アンソロジー](../Page/アンソロジー.md "wikilink")、またそれを原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

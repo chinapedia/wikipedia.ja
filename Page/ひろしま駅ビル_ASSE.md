@@ -1,7 +1,7 @@
-> この記事は[ ASSE](https://ja.wikipedia.org/wiki/_ASSE)から翻訳されています。
+> この記事は[ひろしま駅ビル ASSE](https://ja.wikipedia.org/wiki/ひろしま駅ビル_ASSE)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HiroshimaStation_2008_01.JPG "wikilink") **ひろしま駅ビル ASSE**（ひろしまえきビル あっせ）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[南区にある](../Page/南区_\(広島市\).md "wikilink")[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[広島駅](https://ja.wikipedia.org/wiki/広島駅 "wikilink")[駅ビル](../Page/駅ビル.md "wikilink")の専門店街（[エキナカ](https://ja.wikipedia.org/wiki/エキナカ "wikilink")）である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HiroshimaStation_2008_01.JPG "wikilink") **ひろしま駅ビル ASSE**（ひろしまえきビル あっせ）は、かつて[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[南区に所在した](../Page/南区_\(広島市\).md "wikilink")、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[広島駅](https://ja.wikipedia.org/wiki/広島駅 "wikilink")[駅ビル](../Page/駅ビル.md "wikilink")の専門店街（[エキナカ](https://ja.wikipedia.org/wiki/エキナカ "wikilink")）である。広島駅ビルの再開発計画に伴い、[2020年](../Page/2020年.md "wikilink")3月31日に閉館した。
 
 この項目では、同じ事業会社が運営する、広島駅新幹線口の商業施設である**広島新幹線名店街**及び**ekie**についても記す。
 
@@ -9,14 +9,16 @@
 
 広島駅南口駅舎（地上7階・地下1階建て）の大半を占有する。1階改札口前のコンコース部分とその上空（2階の吹き抜け部分）を除いて商業施設が並ぶ。地下1階と3階に[改札口](https://ja.wikipedia.org/wiki/改札口 "wikilink")が設けられており、駅構内に直結している。元々は単独の法人（広島ステーションビル株式会社）による運営だったが、2010年4月1日を以てJR西日本子会社の別の駅ビル運営会社である[中国SC開発](https://ja.wikipedia.org/wiki/中国SC開発 "wikilink")と合併し、現在は同社の運営となっている。
 
-2020年で閉館し、2025年春までの予定で全面改築が計画されている（後述）。
+後述の駅ビル全面改築により、2020年3月31日で閉館した。
 
 ## 沿革
 
   - 1965年12月 - ひろしま駅ビル完成
   - 1975年3月10日 - 広島新幹線名店街完成
   - 1999年4月 - ひろしま駅ビルASSE完成
-  - 2020年春 - 駅ビル解体
+  - 2020年
+      - 3月31日 - 現駅ビル閉館
+      - 春 - 現駅ビル解体
   - 2025年度 - 新駅ビル完成予定
 
 ## ひろしま駅ビル時代
@@ -55,13 +57,15 @@
 
 [1999年](../Page/1999年.md "wikilink")4月に全面リニューアルされ、「**ひろしま駅ビル ASSE**」の愛称が付けられた。
 
-核店舗と呼べるものはないが、地下一階の大半を地場スーパー・[ユアーズの都市型店舗](../Page/ユアーズ_\(スーパーマーケット\).md "wikilink")「ユアーズLIVI」が占有する。飲食フロアが2階と6階に分かれているのが特徴で、2階飲食店の過半数は[お好み焼き](../Page/お好み焼き.md "wikilink")専門店である。6階の一角には[診療所](../Page/診療所.md "wikilink")・[歯科](../Page/歯科.md "wikilink")・[眼科](https://ja.wikipedia.org/wiki/眼科 "wikilink")があるほか、7階には[マッサージ](../Page/マッサージ.md "wikilink")ルームが入居している。また、3階にある[スターバックスコーヒー](https://ja.wikipedia.org/wiki/スターバックスコーヒー "wikilink")はASSE改札口横にある立地を生かし駅構内からの利用も可能となっており実質的なエキナカ店舗でもある。ただしASSE側と駅構内側は仕切られているため店内ASSE側と往来は不可である（注文口もASSE・駅構内別にある）。
+核店舗と呼べるものはないが、地下一階の大半を地場スーパー・[ユアーズの都市型店舗](../Page/ユアーズ_\(スーパーマーケット\).md "wikilink")「ユアーズLIVI」が占有していた。飲食フロアが2階と6階に分かれているのが特徴で、2階飲食店の過半数は[お好み焼き](../Page/お好み焼き.md "wikilink")専門店であった。6階の一角には[診療所](../Page/診療所.md "wikilink")・[歯科](../Page/歯科.md "wikilink")・[眼科](https://ja.wikipedia.org/wiki/眼科 "wikilink")があるほか、7階には[マッサージ](../Page/マッサージ.md "wikilink")ルームが入居している。また、3階にある[スターバックスコーヒー](https://ja.wikipedia.org/wiki/スターバックスコーヒー "wikilink")はASSE改札口横にある立地を生かし駅構内からの利用も可能となっており実質的なエキナカ店舗でもあった。ただしASSE側と駅構内側は仕切られているため店内ASSE側と往来は不可である（注文口もASSE・駅構内別にある）。
 
-駅改札に隣接する1階・2階の全店舗と3階のコインロッカー6階飲食店では『[ICOCA電子マネー](../Page/ICOCA電子マネー.md "wikilink")』を利用することができる。現在は他のフロアの一部店舗でも利用可能である。
+駅改札に隣接する1階・2階の全店舗と3階のコインロッカー6階飲食店では『[ICOCA電子マネー](../Page/ICOCA電子マネー.md "wikilink")』を利用することができる。現在は他のフロアの一部店舗でも利用可能であった。
 
-[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")中旬まで、各フロアのリニューアルが段階的に行われた。主に女性をターゲットにしたフロア構成となっているが、1F・2Fは女性よりも県内外からの観光客やサラリーマンをターゲットにしたフロアとなっている。
+[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")中旬まで、各フロアのリニューアルが段階的に行われた。主に女性をターゲットにしたフロア構成となったが、1F・2Fは女性よりも県内外からの観光客やサラリーマンをターゲットにしたフロアとなっていた。
 
-各フロアの構成は以下のとおり。店舗の詳細については[公式サイトのフロアガイド](https://www.ekie.jp/asse/floor/)を参照のこと。
+先述通り、2020年3月31日をもって、駅ビルとしての営業を終えた。
+
+閉店当時、各フロアの構成は以下のとおりであった。
 
   - 地下1階 - 食品・ドラッグストアのフロア（スーパー・カフェ・ベーカリー・ドラッグストアなど）
   - 1階 - 和洋スイーツ・ファッション雑貨のフロア（[広島銘菓](../Page/土産菓子.md "wikilink")・コスメ・フラワーショップなど）

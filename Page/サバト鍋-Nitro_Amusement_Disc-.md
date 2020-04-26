@@ -1,4 +1,4 @@
-> この記事は[-Nitro Amusement Disc-](https://ja.wikipedia.org/wiki/-Nitro_Amusement_Disc-)から翻訳されています。
+> この記事は[サバト鍋-Nitro Amusement Disc-](https://ja.wikipedia.org/wiki/サバト鍋-Nitro_Amusement_Disc-)から翻訳されています。
 
 
 『**サバト鍋-Nitro Amusement Disc-**』（さばとなべ-ニトロアミューズメントディスク-）は、[ニトロプラス](../Page/ニトロプラス.md "wikilink")が2006年2月3日に発売した[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。3本のミニゲームが収録されており、「ニトロプラス初のアミューズメントディスク」と銘打たれている。

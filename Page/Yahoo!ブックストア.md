@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!ブックストア](https://ja.wikipedia.org/wiki/Yahoo!ブックストア)から翻訳されています。
 
 
 **Yahoo\!ブックストア**（ヤフー\!ブックストア）は、[Yahoo\! JAPANが運営する](../Page/Yahoo!_JAPAN.md "wikilink")[電子書籍](../Page/電子書籍.md "wikilink")の販売サイト。2003年9月3日に[コミックス専門の](https://ja.wikipedia.org/wiki/漫画 "wikilink")「Yahoo\!コミック」として開設され\[1\]、2011年11月2日にリニューアルし\[2\]コミックス以外の書籍も扱う総合電子書籍ストアとなった。2020年現在、[ヤフー株式会社が株式会社](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")[イーブックイニシアティブジャパン](https://ja.wikipedia.org/wiki/イーブックイニシアティブジャパン "wikilink")と協力して運営している\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[MX](https://ja.wikipedia.org/wiki/MX)から翻訳されています。
+> この記事は[MX大島中継局](https://ja.wikipedia.org/wiki/MX大島中継局)から翻訳されています。
 
 
 **MX大島中継局**（エムエックスおおしまちゅうけいきょく）は、[東京都](../Page/東京都.md "wikilink")[大島町](../Page/大島町.md "wikilink")（[伊豆大島](../Page/伊豆大島.md "wikilink")）に置かれていた[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")（TOKYO MX）の[中継局](../Page/中継局.md "wikilink")である。
@@ -91,7 +91,7 @@
   -
 ## 外部リンク
 
-  - [総務省からの重要なお知らせ 中継局のTVチャンネルが変わります{7月開始分)≪地上デジタル放送の開始に向けたアナログ周波数変更対策≫](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kanto-bt.go.jp/if/press/p16/p1606/p160630b.html) - 総務省関東総合通信局(平成16年度報道資料)
+  - [総務省からの重要なお知らせ 中継局のTVチャンネルが変わります{7月開始分)≪地上デジタル放送の開始に向けたアナログ周波数変更対策≫](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kanto-bt.go.jp/if/press/p16/p1606/p160630b.html) - 総務省関東総合通信局(平成16年度報道資料)
 
 ## 中継局置局住所
 

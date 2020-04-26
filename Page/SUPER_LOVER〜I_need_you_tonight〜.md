@@ -1,4 +1,4 @@
-> この記事は[SUPER LOVERI need you tonight](https://ja.wikipedia.org/wiki/SUPER_LOVERI_need_you_tonight)から翻訳されています。
+> この記事は[SUPER LOVER〜I need you tonight〜](https://ja.wikipedia.org/wiki/SUPER_LOVER〜I_need_you_tonight〜)から翻訳されています。
 
 
 『**SUPER LOVER〜I need you tonight〜**』（スーパー・ラヴァー アイ・ニード・ユー・トゥナイト）は、[2003年](../Page/2003年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")グループ[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。

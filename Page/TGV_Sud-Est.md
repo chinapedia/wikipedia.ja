@@ -13,7 +13,7 @@
 
 ## 機器など
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Paris-Lyon-b.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:SNCF_TGV_101.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:TGV_Sud-Est_01_Carmillon_30_ans.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Paris-Lyon-b.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:SNCF_TGV_101.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:TGV_Sud-Est_01_Carmillon_30_ans.jpg "wikilink") [thumbの引退記念イベントにて](https://ja.wikipedia.org/wiki/ファイル:TGV_sur_le_viaduc_de_Perrache.jpg "wikilink")）\]\]
 
 編成は両端2両の[動力車](../Page/動力車.md "wikilink")と中間8両の[連接](../Page/連接台車.md "wikilink")[客車](../Page/客車.md "wikilink")で構成され、編成重量は385[tである](../Page/トン.md "wikilink")。[主電動機](https://ja.wikipedia.org/wiki/主電動機 "wikilink")は動力車の[台車に](../Page/鉄道車両の台車.md "wikilink")8基、動力車に隣接する客車の台車に4基の計12基が装備され、交流25,000V区間での編成出力は6,450[kW](../Page/ワット.md "wikilink") (537.5kW×12) である。主電動機は車体床下に装着され、トリポードと称する可撓[継手](../Page/継手.md "wikilink")により車軸部の駆動歯車に動力を伝達している。
 
@@ -25,7 +25,7 @@
 
 [連結器](../Page/連結器.md "wikilink")は、先頭部分に車体側面からの操作によって開閉するカバーによって格納された[シャルフェンベルク式密着連結器と](https://ja.wikipedia.org/wiki/連結器#密着連結器 "wikilink")、[動力車](../Page/動力車.md "wikilink")と中間車の間に[ねじ式連結器を装備する](https://ja.wikipedia.org/wiki/連結器#ねじ式連結器 "wikilink")。先頭部は併結運転の際に使用され、中間車側は無動力回送の際に[機関車](https://ja.wikipedia.org/wiki/機関車 "wikilink")によって牽引される場合に用いられる。
 
-[集電装置](../Page/集電装置.md "wikilink")は[シングルアーム型パンタグラフを両端の動力車に交流区間用と直流区間用の二基をそれぞれ搭載する](https://ja.wikipedia.org/wiki/集電装置#Z型・シングルアーム型 "wikilink")。[運転台寄りが直流用](../Page/操縦席.md "wikilink")、連結面側が交流用である。交直切替時の操作によって二つのパンタグラフが[デッドセクション](../Page/デッドセクション.md "wikilink")走行中に切り替えられる。Sud-Est編成の導入当初は直流用パンタグラフがSNCFで一般的に使用されていたY型マストのものであったのに対して、交流用パンタグラフは高速走行時の[架線](../Page/架線.md "wikilink")への追随性を高める目的で、1本マスト型シングルアームパンタグラフの上に小型のシングルアームパンタグラフを載せた形態のダブルアクション型パンタグラフを使用していたが、[LGV大西洋線](../Page/LGV大西洋線.md "wikilink")開業に際して投入された[TGV Atlantique編成からは](../Page/TGV_Atlantique.md "wikilink")、ダブルアクション型の代わりに摺り板の微細な上下動をアシストし、超高速走行時の集電性能を向上させるダンパーを使用した1本マスト型が採用された。Sud-Est編成においても、この改良型への交換が進行している。スイス直通対応編成は、パンタグラフの摺り板の幅が狭いものに交換されている。直流区間では各動力車のパンタグラフを使用するのに対して、交流区間では後部動力車のパンタグラフのみを使用する。
+[集電装置](../Page/集電装置.md "wikilink")は[アーム型パンタグラフを両端の動力車に交流区間用と直流区間用の二基をそれぞれ搭載する](https://ja.wikipedia.org/wiki/集電装置#Z型・アーム型 "wikilink")。[運転台寄りが直流用](../Page/操縦席.md "wikilink")、連結面側が交流用である。交直切替時の操作によって二つのパンタグラフが[デッドセクション](../Page/デッドセクション.md "wikilink")走行中に切り替えられる。Sud-Est編成の導入当初は直流用パンタグラフがSNCFで一般的に使用されていたY型マストのものであったのに対して、交流用パンタグラフは高速走行時の[架線](../Page/架線.md "wikilink")への追随性を高める目的で、1本マスト型シングルアームパンタグラフの上に小型のシングルアームパンタグラフを載せた形態のダブルアクション型パンタグラフを使用していたが、[LGV大西洋線](../Page/LGV大西洋線.md "wikilink")開業に際して投入された[TGV Atlantique編成からは](../Page/TGV_Atlantique.md "wikilink")、ダブルアクション型の代わりに摺り板の微細な上下動をアシストし、超高速走行時の集電性能を向上させるダンパーを使用した1本マスト型が採用された。Sud-Est編成においても、この改良型への交換が進行している。スイス直通対応編成は、パンタグラフの摺り板の幅が狭いものに交換されている。直流区間では各動力車のパンタグラフを使用するのに対して、交流区間では後部動力車のパンタグラフのみを使用する。
 
 車体は耐候性鋼板製で、板厚は3.2mmである。
 
@@ -37,9 +37,11 @@
 
 ## 運用
 
-1981年9月に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")（リヨン駅） - [リヨン](../Page/リヨン.md "wikilink")（[ペラーシュ駅](../Page/リヨン・ペラーシュ駅.md "wikilink")）間を[LGV南東線](https://ja.wikipedia.org/wiki/LGV南東線 "wikilink")経由で営業運行を開始した。長らく南東線系統のみで運用されていたが、[2001年](../Page/2001年.md "wikilink")にLGV地中海線が開業してからは[LGV東連絡線](https://ja.wikipedia.org/wiki/LGV東連絡線 "wikilink")を経由して[LGV北線](https://ja.wikipedia.org/wiki/LGV北線 "wikilink")方面に直通する列車や、北線系統のパリ北駅発着列車などにも運用されるようになった。
+1981年9月に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")（[リヨン駅](../Page/リヨン駅.md "wikilink")） - [リヨン](../Page/リヨン.md "wikilink")（[ペラーシュ駅](../Page/リヨン・ペラーシュ駅.md "wikilink")）間を[LGV南東線](https://ja.wikipedia.org/wiki/LGV南東線 "wikilink")経由で営業運行を開始した。長らく南東線系統のみで運用されていたが、[2001年](../Page/2001年.md "wikilink")にLGV地中海線が開業してからは[LGV東連絡線](https://ja.wikipedia.org/wiki/LGV東連絡線 "wikilink")を経由して[LGV北線](https://ja.wikipedia.org/wiki/LGV北線 "wikilink")方面に直通する列車や、北線系統のパリ北駅発着列車などにも運用されるようになった。
 
 開業以来使用されている車両のため老朽化が進行しており、[2012年](../Page/2012年.md "wikilink")のダイヤ改正以後は運用離脱が進んでいる。北線を中心に運用されているが、[2028年](../Page/2028年.md "wikilink")までに全編成が離脱する見込み。
+
+[2019年](../Page/2019年.md "wikilink")に運用離脱した第1編成「パトリック」は、翌[2020年](../Page/2020年.md "wikilink")2月に歴代3色をまとった復刻塗装となり、[パリ・リヨン駅と](../Page/リヨン駅.md "wikilink")[リヨン・ペラーシュ駅](../Page/リヨン・ペラーシュ駅.md "wikilink")で一般公開を行った。
 
 ## TGV Expérience
 

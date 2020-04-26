@@ -1,4 +1,4 @@
-> この記事は[classic](https://ja.wikipedia.org/wiki/classic)から翻訳されています。
+> この記事は[マッスル牧場classic](https://ja.wikipedia.org/wiki/マッスル牧場classic)から翻訳されています。
 
 
 **マッスル牧場CLASSIC**（マッスルぼくじょうクラシック）は、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")より2007年10月3日から12月26日まで、毎週水曜日深夜2時から放送されていたテレビ番組。通称は「MBC」。全13回。

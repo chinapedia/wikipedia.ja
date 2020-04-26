@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK羽後テレビ中継局](https://ja.wikipedia.org/wiki/NHK羽後テレビ中継局)から翻訳されています。
 
 
 **NHK羽後テレビ中継局**（エヌエイチケイうごテレビちゅうけいきょく）は、[秋田県](../Page/秋田県.md "wikilink")[雄勝郡](../Page/雄勝郡.md "wikilink")[羽後町](../Page/羽後町.md "wikilink")にかつて存在した[NHK秋田放送局](../Page/NHK秋田放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")。[地上デジタル放送中継局開設の予定はなく](../Page/地上デジタルテレビ放送.md "wikilink")、共同聴取施設の新設やケーブルテレビへの接続などで対応することになる。

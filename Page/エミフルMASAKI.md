@@ -1,4 +1,4 @@
-> この記事は[MASAKI](https://ja.wikipedia.org/wiki/MASAKI)から翻訳されています。
+> この記事は[エミフルMASAKI](https://ja.wikipedia.org/wiki/エミフルMASAKI)から翻訳されています。
 
 
 **エミフルMASAKI**（エミフルまさき、[英称](../Page/英語.md "wikilink"):*EMIFULL MASAKI*）は、[愛媛県](../Page/愛媛県.md "wikilink")[伊予郡](../Page/伊予郡.md "wikilink")[松前町にある](../Page/松前町_\(愛媛県\).md "wikilink")[フジ系列の](../Page/フジ_\(チェーンストア\).md "wikilink")[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")である。
@@ -20,7 +20,7 @@
 ## 店舗概要
 
   - 店舗開店 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月26日](../Page/4月26日.md "wikilink")
-  - 敷地面積 約200,000m²（[東京ドーム](../Page/東京ドーム.md "wikilink")5個分）
+  - 敷地面積 約200,000m²（[東京ドーム](../Page/東京ドーム.md "wikilink")5個分）四国で一番大きいショッピングモールである
   - 延床面積 約140,000m²
   - 店舗面積 68,360m²（本館棟/鉄骨造3階建）が中核となり周辺に別棟専門店。
   - 駐車場台数 5,000台
@@ -103,7 +103,7 @@
       - [ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")
       - [au](../Page/Au_\(携帯電話\).md "wikilink")
   - ストア
-      - [ポケモンセンター](../Page/ポケモンセンター.md "wikilink")サテライト松山店
+      - [ポケモンストア](../Page/ポケモンセンター.md "wikilink")
   - その他
       - エミフルMASAKI郵便局（[郵便局](../Page/郵便局.md "wikilink")）
 
@@ -179,6 +179,6 @@
   - [エミフルMASAKI](http://emifull.jp/)
   - [フジ](http://www.the-fuji.com/)
 
-[Category:フジグランの店舗](https://ja.wikipedia.org/wiki/Category:フジグランの店舗 "wikilink") [Category:愛媛県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:愛媛県のショッピングセンター "wikilink") [Category:松前町_(愛媛県)](https://ja.wikipedia.org/wiki/Category:松前町_\(愛媛県\) "wikilink")
+[Category:フジグランの店舗](https://ja.wikipedia.org/wiki/Category:フジグランの店舗 "wikilink") [Category:愛媛県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:愛媛県のショッピングセンター "wikilink") [Category:愛媛県の映画館](https://ja.wikipedia.org/wiki/Category:愛媛県の映画館 "wikilink") [Category:松前町_(愛媛県)](https://ja.wikipedia.org/wiki/Category:松前町_\(愛媛県\) "wikilink")
 
 1.  [四国初「４ＤＸ」シート、４日稼働　松前の映画館](http://www.ehime-np.co.jp/news/local/20150703/news20150703149.html)愛媛新聞2015年07月03日

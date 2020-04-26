@@ -1,4 +1,4 @@
-> この記事は[Essjay](https://ja.wikipedia.org/wiki/Essjay)から翻訳されています。
+> この記事は[Essjay騒動](https://ja.wikipedia.org/wiki/Essjay騒動)から翻訳されています。
 
 
 <table>

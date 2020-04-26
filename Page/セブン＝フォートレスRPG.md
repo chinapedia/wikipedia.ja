@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[セブン＝フォートレスRPG](https://ja.wikipedia.org/wiki/セブン＝フォートレスRPG)から翻訳されています。
 
 
 **セブン＝フォートレスRPG**は[菊池たけし](../Page/菊池たけし.md "wikilink")が製作した[ヒロイックファンタジー](https://ja.wikipedia.org/wiki/ヒロイックファンタジー "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）。1996年にホビージャパン社よりボックス版にて発売された。[セブン＝フォートレス](../Page/セブン＝フォートレス.md "wikilink")シリーズの第一弾である。

@@ -1,4 +1,4 @@
-> この記事は[BAD AGAIN ](https://ja.wikipedia.org/wiki/BAD_AGAIN_)から翻訳されています。
+> この記事は[BAD AGAIN 〜美しき反逆〜](https://ja.wikipedia.org/wiki/BAD_AGAIN_〜美しき反逆〜)から翻訳されています。
 
 
 「**BAD AGAIN 〜美しき反逆〜**」（バッド・アゲイン うつくしきはんぎゃく）は、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンド・[聖飢魔II](../Page/聖飢魔II.md "wikilink")の9枚目の[小教典](../Page/聖飢魔IIの悪魔用語一覧.md "wikilink")（[シングル](../Page/シングル.md "wikilink")）。[B.D.](../Page/魔暦.md "wikilink")9年（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）[2月1日](../Page/2月1日.md "wikilink")に発布された。
@@ -34,7 +34,7 @@
 
   - [1990年の音楽](../Page/1990年の音楽.md "wikilink")
 
-[Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:聖飢魔IIの楽曲](https://ja.wikipedia.org/wiki/Category:聖飢魔IIの楽曲 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:1990年のシングル](https://ja.wikipedia.org/wiki/Category:1990年のシングル "wikilink") [Category:聖飢魔IIの楽曲](https://ja.wikipedia.org/wiki/Category:聖飢魔IIの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）1990年7月号「デーモン小暮閣下のオールナイトニッポン さよなら特集」（p.10）
 2.  1968 - 1997 [オリコン](../Page/オリコン.md "wikilink") チャート・ブック（1997年12月11日第1刷）p.181

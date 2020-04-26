@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[ひみつ戦隊メタモルV](https://ja.wikipedia.org/wiki/ひみつ戦隊メタモルV)から翻訳されています。
 
 
 『**ひみつ戦隊メタモルV**』（ひみつせんたいメタモルファイブ）は、[毎日コミュニケーションズより](../Page/マイナビ.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[4月28日](../Page/4月28日.md "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")版、[10月15日](../Page/10月15日.md "wikilink")に『**ひみつ戦隊メタモルVデラックス**』のタイトルで[PlayStation版が発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。[2009年](../Page/2009年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")にはPS版が[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")で配信開始された。[遠藤正二朗](https://ja.wikipedia.org/wiki/遠藤正二朗 "wikilink")による制作。

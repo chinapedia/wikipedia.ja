@@ -1,4 +1,4 @@
-> この記事は[HAPPINESS \(\)](https://ja.wikipedia.org/wiki/HAPPINESS_\(\))から翻訳されています。
+> この記事は[HAPPINESS \(ラジオ番組\)](https://ja.wikipedia.org/wiki/HAPPINESS_\(ラジオ番組\))から翻訳されています。
 
 
 **HAPPINESS**（ハピネス）は、[2007年](../Page/2007年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

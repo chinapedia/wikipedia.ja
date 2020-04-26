@@ -1,4 +1,4 @@
-> この記事は[V!V!V!](https://ja.wikipedia.org/wiki/V!V!V!)から翻訳されています。
+> この記事は[日曜V!V!V!テレビ](https://ja.wikipedia.org/wiki/日曜V!V!V!テレビ)から翻訳されています。
 
 
 『**日曜V\!V\!V\!テレビ**』（にちようビビビテレビ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[西日本放送で放送された](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 11:40 - 12:30 ([JST](../Page/日本標準時.md "wikilink"))。

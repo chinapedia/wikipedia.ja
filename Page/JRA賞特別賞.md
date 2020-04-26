@@ -1,4 +1,4 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞特別賞](https://ja.wikipedia.org/wiki/JRA賞特別賞)から翻訳されています。
 
 
 **JRA賞特別賞**（ジェイアールエーしょうとくべつしょう）とは、[日本中央競馬会](../Page/日本中央競馬会.md "wikilink") (JRA) が設けている年度表彰・[JRA賞](../Page/JRA賞.md "wikilink")の1つである。ただし毎年表彰されるものではなく、該当年度中に特別に表彰すべき対象が存在する場合に臨時に設けられる。おもな授賞対象は[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")であるが、年度中に顕著な記録を達成した人物にもまれに贈られる。

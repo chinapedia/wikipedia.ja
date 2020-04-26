@@ -1,4 +1,4 @@
-> この記事は[Juliet \(THE ALFEE\)](https://ja.wikipedia.org/wiki/Juliet_\(THE_ALFEE\))から翻訳されています。
+> この記事は[Juliet \(THE ALFEEの曲\)](https://ja.wikipedia.org/wiki/Juliet_\(THE_ALFEEの曲\))から翻訳されています。
 
 
 「**Juliet**」（ジュリエット）は、[2001年](../Page/2001年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")49枚目の[シングル](../Page/シングル.md "wikilink")。同日発売の「[冒険者たち](../Page/冒険者たち_\(THE_ALFEEの曲\).md "wikilink")」「[エルドラド](../Page/エルドラド_\(THE_ALFEEの曲\).md "wikilink")」以来、桜井以外のメンバーがタイトル曲のメインボーカルを担当している。

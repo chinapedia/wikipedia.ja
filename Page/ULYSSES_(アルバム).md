@@ -1,4 +1,4 @@
-> この記事は[ULYSSES \(\)](https://ja.wikipedia.org/wiki/ULYSSES_\(\))から翻訳されています。
+> この記事は[ULYSSES \(アルバム\)](https://ja.wikipedia.org/wiki/ULYSSES_\(アルバム\))から翻訳されています。
 
 
 『**ULYSSES**』（ユリシーズ）は[島みやえい子](../Page/島みやえい子.md "wikilink")のファーストミニ[アルバム](../Page/アルバム.md "wikilink")。この作品でメジャーデビューを飾った。

@@ -1,4 +1,4 @@
-> この記事は[FANTASISTA \(\)](https://ja.wikipedia.org/wiki/FANTASISTA_\(\))から翻訳されています。
+> この記事は[FANTASISTA \(曲\)](https://ja.wikipedia.org/wiki/FANTASISTA_\(曲\))から翻訳されています。
 
 
 「**FANTASISTA**」（ファンタジスタ）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")発売。発売元は[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。

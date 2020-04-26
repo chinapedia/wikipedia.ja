@@ -1,4 +1,4 @@
-> この記事は[ZOO1](https://ja.wikipedia.org/wiki/ZOO1)から翻訳されています。
+> この記事は[樹海少年ZOO1](https://ja.wikipedia.org/wiki/樹海少年ZOO1)から翻訳されています。
 
 
 『**樹海少年ZOO1**』（じゅかいしょうねんずーいち）は原作：[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")、作画：[漫$画太郎によって](../Page/漫☆画太郎.md "wikilink")、[秋田書店](../Page/秋田書店.md "wikilink")「[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")」にて[2001年](../Page/2001年.md "wikilink")31号から[2003年](../Page/2003年.md "wikilink")30号まで連載された[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")である。

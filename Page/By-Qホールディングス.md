@@ -1,4 +1,4 @@
-> この記事は[By-Q](https://ja.wikipedia.org/wiki/By-Q)から翻訳されています。
+> この記事は[By-Qホールディングス](https://ja.wikipedia.org/wiki/By-Qホールディングス)から翻訳されています。
 
 
 **株式会社By-Qホールディングス**（ばいきゅーホールディングス）はかつて東京都渋谷区に本社を置き、[バイク便](../Page/バイク便.md "wikilink")のBy-Q（後の[ロジクエスト](https://ja.wikipedia.org/wiki/ロジクエスト "wikilink")）や[自転車便](../Page/自転車便.md "wikilink")のサイクル急便、軽四輪のQカーゴや[Q配サービス](../Page/Q配サービス.md "wikilink")などを傘下に持っていた持株会社である。同業他社と比べて、M\&Aによる多角化に積極的なことで知られていた。

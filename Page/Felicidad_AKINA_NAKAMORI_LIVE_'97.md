@@ -132,7 +132,7 @@
 
   - \- LD盤
 
-[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:1997年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1997年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink")
+[Category:中森明菜の映像作品](https://ja.wikipedia.org/wiki/Category:中森明菜の映像作品 "wikilink") [Category:1997年のコンサート](https://ja.wikipedia.org/wiki/Category:1997年のコンサート "wikilink") [Category:1997年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1997年のライブ・ビデオ "wikilink") [Category:2000年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2000年のライブ・ビデオ "wikilink") [Category:2002年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2002年のライブ・ビデオ "wikilink") [Category:ユニバーサルミュージックジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンの映像作品 "wikilink")
 
 1.
 2.

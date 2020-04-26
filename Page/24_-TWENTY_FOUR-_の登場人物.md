@@ -1,4 +1,4 @@
-> この記事は[24 -TWENTY FOUR- ](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR-_)から翻訳されています。
+> この記事は[24 -TWENTY FOUR- の登場人物](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR-_の登場人物)から翻訳されています。
 
 
 **24 -TWENTY FOUR- の登場人物**（トゥエンティフォーのとうじょうじんぶつ）では、米国のテレビドラマ『[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")』に登場する人物について記述する。

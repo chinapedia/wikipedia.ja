@@ -1,4 +1,4 @@
-> この記事は[STACIA](https://ja.wikipedia.org/wiki/STACIA)から翻訳されています。
+> この記事は[STACIAカード](https://ja.wikipedia.org/wiki/STACIAカード)から翻訳されています。
 
 
 **STACIAカード**（スタシアカード）は、株式会社阪急阪神カードが発行する[カード](../Page/カード.md "wikilink")の総称である\[1\]。

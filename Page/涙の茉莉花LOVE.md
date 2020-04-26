@@ -1,4 +1,4 @@
-> この記事は[LOVE](https://ja.wikipedia.org/wiki/LOVE)から翻訳されています。
+> この記事は[涙の茉莉花LOVE](https://ja.wikipedia.org/wiki/涙の茉莉花LOVE)から翻訳されています。
 
 
 「**涙の茉莉花LOVE**」（なみだのジャスミン・ラヴ）は、[河合その子](../Page/河合その子.md "wikilink")のソロ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。1985年9月1日発売。発売元は[CBS/SONY](../Page/ソニー・ミュージックレコーズ.md "wikilink")([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): 07SH1684)。

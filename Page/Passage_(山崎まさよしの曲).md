@@ -1,4 +1,4 @@
-> この記事は[Passage \(\)](https://ja.wikipedia.org/wiki/Passage_\(\))から翻訳されています。
+> この記事は[Passage \(山崎まさよしの曲\)](https://ja.wikipedia.org/wiki/Passage_\(山崎まさよしの曲\))から翻訳されています。
 
 
 「**Passage**」（パッセージ）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算9枚目の[シングル](../Page/シングル.md "wikilink")。1999年10月14日発売。発売元は[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")。

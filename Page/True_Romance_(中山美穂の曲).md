@@ -1,4 +1,4 @@
-> この記事は[True Romance \(\)](https://ja.wikipedia.org/wiki/True_Romance_\(\))から翻訳されています。
+> この記事は[True Romance \(中山美穂の曲\)](https://ja.wikipedia.org/wiki/True_Romance_\(中山美穂の曲\))から翻訳されています。
 
 
 『**True Romance**』（トゥルー・ロマンス）は[中山美穂](../Page/中山美穂.md "wikilink")の34枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-301)

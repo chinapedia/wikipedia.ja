@@ -1,4 +1,4 @@
-> この記事は[FRAGILE \(\)](https://ja.wikipedia.org/wiki/FRAGILE_\(\))から翻訳されています。
+> この記事は[FRAGILE \(川本真琴の曲\)](https://ja.wikipedia.org/wiki/FRAGILE_\(川本真琴の曲\))から翻訳されています。
 
 
 『**FRAGILE**』（フラジャイル）は、[川本真琴](https://ja.wikipedia.org/wiki/川本真琴 "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。

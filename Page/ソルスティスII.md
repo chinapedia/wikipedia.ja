@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ソルスティスII](https://ja.wikipedia.org/wiki/ソルスティスII)から翻訳されています。
 
 
 『**ソルスティスII**』（-ツー、*Solstice II*）は、エピックソニーレコード（現・[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")）から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。発売日は[1993年](../Page/1993年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")。[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ゲームソフト『[ソルスティス 三次元迷宮の狂獣](../Page/ソルスティス_三次元迷宮の狂獣.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）の[続編である](https://ja.wikipedia.org/wiki/外伝#続編、前編 "wikilink")。

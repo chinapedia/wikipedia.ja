@@ -1,4 +1,4 @@
-> この記事は[Bell](https://ja.wikipedia.org/wiki/Bell)から翻訳されています。
+> この記事は[鳴り始めた恋のBell](https://ja.wikipedia.org/wiki/鳴り始めた恋のBell)から翻訳されています。
 
 
 「**鳴り始めた恋のBell**」（なりはじめたこいのベル）は、[音楽ガッタス](../Page/音楽ガッタス.md "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")のzetimaレーベル（販売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）より発売。
@@ -38,7 +38,7 @@
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5492/)（CD+DVD）
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5494/)（CDのみ）
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ハロー\!プロジェクトの楽曲](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ハロー\!プロジェクトの楽曲](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink")
 
 1.  [音楽ガッタス　CDシングル『鳴り始めた恋のBELL』 発売日変更のお知らせとお詫び](http://www.helloproject.com/news/gatas_0708131325.html)
 2.  [「ハロプロ新ユニット・音楽ガッタス、9月に発売延期のはずが何故か店頭に…」](http://blog.livedoor.jp/ustan777/archives/51002738.html)

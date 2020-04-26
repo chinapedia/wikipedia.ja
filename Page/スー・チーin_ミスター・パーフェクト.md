@@ -1,4 +1,4 @@
-> この記事は[in ](https://ja.wikipedia.org/wiki/in_)から翻訳されています。
+> この記事は[スー・チーin ミスター・パーフェクト](https://ja.wikipedia.org/wiki/スー・チーin_ミスター・パーフェクト)から翻訳されています。
 
 
 『**スー・チーin ミスター・パーフェクト**』（原題：奇逢敵手、英題：*Looking for Mr. Perfect*）は、[2003年](../Page/2003年.md "wikilink")の[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の合作映画。

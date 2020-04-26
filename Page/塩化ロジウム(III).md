@@ -1,4 +1,4 @@
-> この記事は[\(III\)](https://ja.wikipedia.org/wiki/\(III\))から翻訳されています。
+> この記事は[塩化ロジウム\(III\)](https://ja.wikipedia.org/wiki/塩化ロジウム\(III\))から翻訳されています。
 
 
 **塩化ロジウム(III)**（えんかロジウム さん、Rhodium chloride）は、代表的な[ロジウム](../Page/ロジウム.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")であり、通常三[水和物](../Page/水和物.md "wikilink")を単に塩化ロジウムと呼ぶことが多い。三水和物は各種ロジウム(III)錯体の合成出発物質として用いられる。

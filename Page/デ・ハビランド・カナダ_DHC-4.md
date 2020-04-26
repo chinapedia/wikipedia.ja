@@ -1,4 +1,4 @@
-> この記事は[ DHC-4](https://ja.wikipedia.org/wiki/_DHC-4)から翻訳されています。
+> この記事は[デ・ハビランド・カナダ DHC-4](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-4)から翻訳されています。
 
 
 {{ Infobox 航空機

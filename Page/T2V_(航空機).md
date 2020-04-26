@@ -1,4 +1,4 @@
-> この記事は[T2V \(\)](https://ja.wikipedia.org/wiki/T2V_\(\))から翻訳されています。
+> この記事は[T2V \(航空機\)](https://ja.wikipedia.org/wiki/T2V_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機

@@ -1,4 +1,4 @@
-> この記事は[Beautiful Life \(w-inds.\)](https://ja.wikipedia.org/wiki/Beautiful_Life_\(w-inds.\))から翻訳されています。
+> この記事は[Beautiful Life \(w-inds.の曲\)](https://ja.wikipedia.org/wiki/Beautiful_Life_\(w-inds.の曲\))から翻訳されています。
 
 
 「**Beautiful Life**」（ビューティフル・ライフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")グループ[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に[FLIGHT MASTERから発売された](../Page/ポニーキャニオン.md "wikilink")

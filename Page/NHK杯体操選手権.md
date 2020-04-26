@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK杯体操選手権](https://ja.wikipedia.org/wiki/NHK杯体操選手権)から翻訳されています。
 
 
 **NHK杯体操選手権**（えぬえいちけーはいたいそうせんしゅけん）は、日本の[体操競技](../Page/体操競技.md "wikilink")大会の1つ。第1回大会は[1962年](../Page/1962年.md "wikilink")に開かれた。[オリンピックや](https://ja.wikipedia.org/wiki/オリンピック体操競技 "wikilink")[世界体操競技選手権](../Page/世界体操競技選手権.md "wikilink")の日本代表を決定する予選大会を兼ねることが多い。

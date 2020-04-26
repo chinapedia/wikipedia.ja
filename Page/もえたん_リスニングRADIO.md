@@ -1,4 +1,4 @@
-> この記事は[ RADIO](https://ja.wikipedia.org/wiki/_RADIO)から翻訳されています。
+> この記事は[もえたん リスニングRADIO](https://ja.wikipedia.org/wiki/もえたん_リスニングRADIO)から翻訳されています。
 
 
 **もえたん リスニングRADIO**（もえたんリスニングレイディオ）は、『[もえたん](../Page/もえたん.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[2007年](../Page/2007年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")より[BEAT☆Net Radio\!](../Page/BEAT☆Net_Radio!.md "wikilink")、[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")にて配信されていた。

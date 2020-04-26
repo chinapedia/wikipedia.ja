@@ -1,4 +1,4 @@
-> この記事は[REWINDsingles collection+](https://ja.wikipedia.org/wiki/REWINDsingles_collection+)から翻訳されています。
+> この記事は[REWIND〜singles collection+〜](https://ja.wikipedia.org/wiki/REWIND〜singles_collection+〜)から翻訳されています。
 
 
 『**REWIND〜singles collection+〜**』（リワインド シングルス・コレクション・プラス）は、[moveの通算](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")2枚目のベストアルバムである。

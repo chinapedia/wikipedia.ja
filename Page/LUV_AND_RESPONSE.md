@@ -51,7 +51,7 @@
 ## 外部リンク
 
   - [オフィシャルサイト](http://luvandresponse.com/)
-  - [オフィシャルブログ](http://ameblo.jp/luvandresponse/)
+  - [オフィシャルブログ](https://ameblo.jp/luvandresponse/)
   - [EMIミュージック・ジャパンによるアーティストページ(楽曲試聴あり)](http://www.emimusic.jp/vmc/artist/domestic/luvres/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink")

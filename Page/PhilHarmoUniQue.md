@@ -25,7 +25,7 @@
 
 :\*好きな食べ物 ： 甘いもの（アイスクリームなど）
 
-:\*[ジブリや](../Page/スタジオジブリ.md "wikilink")[野島伸司](../Page/野島伸司.md "wikilink")の[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")が好き
+:\*[ジブリや](../Page/スタジオジブリ.md "wikilink")[野島伸司](../Page/野島伸司.md "wikilink")の[作品](../Page/作品.md "wikilink")が好き
 
 **原拓馬**　（はら たくま）　ギター
 

@@ -9,6 +9,8 @@
 
 [クォーツ時計](../Page/クォーツ時計.md "wikilink")の普及前には最も聴取率が高く、レートもステータスも高いCM枠の一つだったが、 [ステブレレス](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")（シームレス）編成が多用される現在では、番組編成上の邪魔扱いされることもある。
 
+日本初の時報CMは、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")7時に、中部日本放送（現・[CBCラジオ](../Page/CBCラジオ.md "wikilink")）で流された、[精工舎](../Page/精工舎.md "wikilink")提供のものである。
+
 ## 主な使用例
 
 [県域放送](../Page/県域放送.md "wikilink")で流れる、地元一流企業の伝統あるものが多くを占める一方、[スジャータや](https://ja.wikipedia.org/wiki/めいらくグループ "wikilink")[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")、[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")、[ユニーグループ・ホールディングス](https://ja.wikipedia.org/wiki/ユニーグループ・ホールディングス "wikilink")（現・[ユニー・ファミリーマートホールディングス](https://ja.wikipedia.org/wiki/ユニー・ファミリーマートホールディングス "wikilink")）のように全国展開し、各局で同一のものが聞かれる場合もある。JFN系列は各局で同一企業のものを放送する。
@@ -20,7 +22,7 @@
   - [小田急電鉄](../Page/小田急電鉄.md "wikilink")（平日10時、[TOKYO FM](../Page/エフエム東京.md "wikilink")。時報CMのひとつ前に放送。季節ごとに「あなたのx（春・夏・秋・冬）は、yですか」と内容が変わるが、「もうすぐ10時。[小田急ロマンスカー](https://ja.wikipedia.org/wiki/小田急ロマンスカー "wikilink")、発車の時刻\[2\]です。新宿から箱根まで、どうぞごゆっくり」、「今日、ロマンスカーで」のナレーションは固定　曲は『[ロマンスをもう一度](https://ja.wikipedia.org/wiki/ロマンスをもう一度 "wikilink")』）
   - [餃子の王将](../Page/餃子の王将.md "wikilink")（正午、[KBS京都ラジオで土](../Page/京都放送.md "wikilink")・日曜を除いて放送。[王将フードサービス](https://ja.wikipedia.org/wiki/王将フードサービス "wikilink") 通常の「ポーン」に代わり、[餃子](../Page/餃子.md "wikilink")を焼く際の「ジュー」の音になる）
   - [山崎製パン](../Page/山崎製パン.md "wikilink")（平日14時、[ニッポン放送](../Page/ニッポン放送.md "wikilink")。社員や首都圏にある製造工場の従業員がお勧め商品の紹介と「ヤマザキパンが2時をお知らせします」と告げる\[3\]。90年代頃には、JFN系で同社の時報が流れていた。）
-  - [大須ういろ](../Page/大須ういろ.md "wikilink")（15時、[CBCラジオ](../Page/CBCラジオ.md "wikilink")と[東海ラジオが同時に流す](../Page/東海ラジオ放送.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")まで[FM AICHIも参加していた](../Page/エフエム愛知.md "wikilink")。時報音→「わーい、3時だ。大須ういろの時間だ」のメッセージの後にCM）
+  - [大須ういろ](../Page/大須ういろ.md "wikilink")（15時、[CBCラジオ](../Page/CBCラジオ.md "wikilink")と[東海ラジオが同時に流す](../Page/東海ラジオ放送.md "wikilink")。[1990年代](../Page/1990年代.md "wikilink")まで[FM AICHIも参加していた](../Page/エフエム愛知.md "wikilink")。時報音→「わーい、3時だ。大須ういろの時間だ」のメッセージの後にCM。[1960年代](../Page/1960年代.md "wikilink")から提供に就いていたが[2020年](../Page/2020年.md "wikilink")3月で終了）
   - [アートコーポレーション](https://ja.wikipedia.org/wiki/アートコーポレーション "wikilink")（日曜15時、[ラジオ関西](../Page/ラジオ関西.md "wikilink")。通常の「ポーン」に代わり、女性の声で「ゼロ、イチ、ニ、サーン」と流れる）
   - [十六茶](../Page/十六茶.md "wikilink")（16時、[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")。拡販キャンペーン時には大量出稿され、16時に限らず出現する。各種バージョンあり）
   - [沖縄美ら海水族館](../Page/沖縄美ら海水族館.md "wikilink")（祝休日以外の平日16時、[RBCiラジオと](../Page/琉球放送.md "wikilink")[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")で同時に流れる。内容は親子が午後4時の入館を待ちわびている会話があり、最後に「沖縄美ら海水族館は、この後午後4時から入館料が一律三割引」とナレーションで伝える。違いはその後で、RBCiラジオではすぐに時報音に入るが、ラジオ沖縄では「沖縄美ら海水族館が4時をお知らせします」と告げて時報音に入る。）
@@ -97,5 +99,5 @@
 [Category:放送](https://ja.wikipedia.org/wiki/Category:放送 "wikilink") [Category:ラジオ用語](https://ja.wikipedia.org/wiki/Category:ラジオ用語 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
 
 1.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")や[KBS京都も流していた](../Page/京都放送.md "wikilink")。[ニッポン放送](../Page/ニッポン放送.md "wikilink")（ナレーション：[増田みのり](../Page/増田みのり.md "wikilink")、[BGM入り](../Page/バックグラウンドミュージック.md "wikilink")）、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（ナレーション：[菅谷由美子](https://ja.wikipedia.org/wiki/菅谷由美子 "wikilink")）のローカル版も併存する。
-2.  現行ダイヤでは「[スーパーはこね](https://ja.wikipedia.org/wiki/はこね_\(列車\) "wikilink")13号」の[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")発車時刻を指す。
+2.  現行ダイヤでは「[スーパーはこね](https://ja.wikipedia.org/wiki/はこね_\(列車\) "wikilink")7号」の[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")発車時刻を指す。
 3.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")では、土曜日の正午に流れる。

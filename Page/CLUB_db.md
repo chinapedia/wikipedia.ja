@@ -61,7 +61,7 @@
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")
+  - [山口放送](../Page/山口放送.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（アニメマインド内にて放送）
 

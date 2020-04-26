@@ -66,7 +66,7 @@
 ## 外部リンク
 
   - [FM FUKUOKAのプロフィール](http://fmfukuoka.co.jp/dj/detail.php?id=30)
-  - [kaedeポコポコミピョコポコ☆(公式ブログ)](http://ameblo.jp/kaede-poco)
+  - [kaedeポコポコミピョコポコ☆(公式ブログ)](https://ameblo.jp/kaede-poco)
   - [twitter](http://twitter.com/kaede_hug)
   - [facebook](http://www.facebook.com/kaede.hug)
   - [Twit Casying Live](http://twitcasting.tv/kaede_hug)

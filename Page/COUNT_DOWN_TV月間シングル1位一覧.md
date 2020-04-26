@@ -55,7 +55,7 @@
 | 1998年 | [winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")         | L'Arc〜en〜Ciel                                               |      |
 | 1999年 | [Winter,again](../Page/Winter,again.md "wikilink")                          | [GLAY](../Page/GLAY.md "wikilink")                          |      |
 | 2000年 | [TSUNAMI](../Page/TSUNAMI.md "wikilink")                                    | [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")              |      |
-| 2001年 | [evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink") | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")     |      |
+| 2001年 | [evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink") | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")                        |      |
 | 2002年 | [Life goes on](../Page/Life_goes_on_\(Dragon_Ashの曲\).md "wikilink")         | [Dragon Ash](../Page/Dragon_Ash.md "wikilink")              |      |
 | 2003年 | [COLORS](../Page/COLORS_\(宇多田ヒカルの曲\).md "wikilink")                         | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                      |      |
 | 2004年 | [Jupiter](../Page/Jupiter_\(平原綾香の曲\).md "wikilink")                         | [平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")       |      |
@@ -401,7 +401,7 @@
 | 1997年 | [Hate tell a lie](../Page/Hate_tell_a_lie.md "wikilink")                                                            | [華原朋美](../Page/華原朋美.md "wikilink")                         |      |
 | 1998年 | [誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")                                                                           | GLAY                                                       |      |
 | 1999年 | [HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")                                                              | L'Arc〜en〜Ciel                                              |      |
-| 2000年 | [桜坂](https://ja.wikipedia.org/wiki/桜坂_\(福山雅治の曲\) "wikilink")                                                        | 福山雅治                                                       |      |
+| 2000年 | [桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")                                                                           | 福山雅治                                                       |      |
 | 2001年 | [GLOBAL COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")                                                  | GLAY                                                       |      |
 | 2002年 | [SAKURAドロップス/Letters](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")                                 | 宇多田ヒカル                                                     |      |
 | 2003年 | [さくら（独唱）](../Page/さくら_\(森山直太朗の曲\).md "wikilink")                                                                    | [森山直太朗](../Page/森山直太朗.md "wikilink")                       |      |

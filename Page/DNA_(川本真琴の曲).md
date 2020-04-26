@@ -35,7 +35,7 @@
 
 ## 脚注
 
-[Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:川本真琴の楽曲](https://ja.wikipedia.org/wiki/Category:川本真琴の楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink") [Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+[Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:川本真琴の楽曲](https://ja.wikipedia.org/wiki/Category:川本真琴の楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
 
 1.
 2.

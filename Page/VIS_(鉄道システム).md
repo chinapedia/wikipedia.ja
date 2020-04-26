@@ -49,7 +49,8 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
       - [5000系（2代）・5050系・5080系](../Page/東急5000系電車_\(2代\).md "wikilink")
       - [6000系（2代）](../Page/東急6000系電車_\(2代\).md "wikilink")
       - [7000系（2代）](https://ja.wikipedia.org/wiki/東急7000系電車_\(2代\) "wikilink")
-      - [2020系・6020系](https://ja.wikipedia.org/wiki/東急2020系電車 "wikilink")
+      - [2020系・6020系・3020系](https://ja.wikipedia.org/wiki/東急2020系電車 "wikilink")
+      - [3000系（相鉄線直通対応車）](../Page/東急3000系電車_\(2代\).md "wikilink")
       - [Y500系](../Page/横浜高速鉄道Y500系電車.md "wikilink")
 
 液晶ディスプレイにて次駅案内や広告を表示しているほか、運行状況の表示にも対応している。
@@ -64,9 +65,10 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
       - [1000形](https://ja.wikipedia.org/wiki/小田急1000形電車 "wikilink")（リニューアル車）
       - [3000形（2代）](../Page/小田急3000形電車_\(2代\).md "wikilink")（4次車以降）
       - [4000形（2代）](../Page/小田急4000形電車_\(2代\).md "wikilink")
+      - [5000形](https://ja.wikipedia.org/wiki/小田急5000形電車_\(2代\) "wikilink")
       - [50000形](../Page/小田急50000形電車.md "wikilink")
 
-液晶ディスプレイにて次駅案内や運行状況を表示している。4000形と3000形の一部と1000形のリニューアル車ではディスプレイを2台設置し、左側を「小田急TV([電子広告](../Page/デジタルサイネージ.md "wikilink"))」を用いている。50000形では車外に設置されたカメラの映像をリアルタイムでモニターに伝送する機能も搭載されている。このほかスクロール式LEDパネル方式を採用している車両でも運行状況を表示する機能を搭載している。
+液晶ディスプレイにて次駅案内や運行状況を表示している。5000形と4000形と3000形の一部と1000形のリニューアル車ではディスプレイを2台設置し、左側を「小田急TV([電子広告](../Page/デジタルサイネージ.md "wikilink"))」を用いている。50000形では車外に設置されたカメラの映像をリアルタイムでモニターに伝送する機能も搭載されている。このほかスクロール式LEDパネル方式を採用している車両でも運行状況を表示する機能を搭載している。
 
 ファイル:LCD information board of OER 3000.jpg|3000形の旅客案内表示器 ファイル:OER-3223-inside-LCD-Kazamatsuri.jpg|[ドアカット](../Page/ドアカット.md "wikilink")の案内表示
 
@@ -106,6 +108,7 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
       - [13000系](https://ja.wikipedia.org/wiki/東京メトロ13000系電車 "wikilink")
       - [15000系](https://ja.wikipedia.org/wiki/東京メトロ15000系電車 "wikilink")
       - [16000系](https://ja.wikipedia.org/wiki/東京メトロ16000系電車 "wikilink")
+      - [17000系](https://ja.wikipedia.org/wiki/東京メトロ17000系電車 "wikilink")
       - [1000系](https://ja.wikipedia.org/wiki/東京メトロ1000系電車 "wikilink")
       - [02系](../Page/営団02系電車.md "wikilink")（更新車のみ）
       - [8000系](../Page/営団8000系電車.md "wikilink")（2010年度以降の更新車のみ）
@@ -132,7 +135,7 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
   - [東武鉄道](../Page/東武鉄道.md "wikilink")
       - [50070系](https://ja.wikipedia.org/wiki/東武50070系電車 "wikilink")（51076F以降の編成）
       - [60000系](https://ja.wikipedia.org/wiki/東武60000系電車 "wikilink")
-      - [70000系](https://ja.wikipedia.org/wiki/東武70000系電車 "wikilink")（70090型にも搭載予定）
+      - [70000系](https://ja.wikipedia.org/wiki/東武70000系電車 "wikilink")（70090型にも搭載）
   - [ゆりかもめ](../Page/ゆりかもめ_\(企業\).md "wikilink")
       - [7300系](https://ja.wikipedia.org/wiki/ゆりかもめ7300系電車 "wikilink")
 

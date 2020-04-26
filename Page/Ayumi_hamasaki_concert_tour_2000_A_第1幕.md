@@ -1,7 +1,7 @@
 > この記事は[Ayumi hamasaki concert tour 2000 A 第1幕](https://ja.wikipedia.org/wiki/Ayumi_hamasaki_concert_tour_2000_A_第1幕)から翻訳されています。
 
 
-『**ayumi hamasaki concert tour 2000 A 第1幕**』（アユミ・ハマサキ・コンサート・ツアー・2000・エー・だいいちまく）は、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")が[2000年](../Page/2000年.md "wikilink")に開催した[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")ツアー、および[VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")作品。タイトルの「A」はロゴ表記。
+『**ayumi hamasaki concert tour 2000 A 第1幕**』（アユミ・ハマサキ・コンサート・ツアー・2000・エー・だいいちまく）は、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[2000年](../Page/2000年.md "wikilink")に開催した[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")ツアー、および[VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")作品。タイトルの「A」はロゴ表記。
 
 ## 概要
 

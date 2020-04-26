@@ -1,7 +1,7 @@
 > この記事は[突撃HOTスタジオ!](https://ja.wikipedia.org/wiki/突撃HOTスタジオ!)から翻訳されています。
 
 
-『**突撃HOTスタジオ！**』（とつげきホットスタジオ）は、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")と[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")を除く）と[テレビ山口](../Page/テレビ山口.md "wikilink")（当時[フジテレビ系列との](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送されていた[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全7回。TBS系列では1983年4月20日から同年6月29日まで、毎週水曜 19時00分 - 19時54分（[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**突撃HOTスタジオ！**』（とつげきホットスタジオ）は、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[信越放送](../Page/信越放送.md "wikilink")と[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")を除く）と[テレビ山口](../Page/テレビ山口.md "wikilink")（当時[フジテレビ系列との](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送されていた[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全7回。TBS系列では1983年4月20日から同年6月29日まで、毎週水曜 19時00分 - 19時54分（[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 

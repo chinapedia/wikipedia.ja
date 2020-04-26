@@ -92,7 +92,7 @@
 
 ## 受賞記録
 
-  - 第14回[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink")最優秀脚本賞
+  - 第14回[東京国際映画祭](../Page/東京国際映画祭.md "wikilink")最優秀脚本賞
 
 ## 脚注
 

@@ -17,6 +17,7 @@
 
 ## 所属アーティスト
 
+  - [WANDS](../Page/WANDS.md "wikilink")(1991年 - 1993年、2019年 - )
   - [doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")
   - [dps](https://ja.wikipedia.org/wiki/dps_\(バンド\) "wikilink")
   - [白石乃梨](../Page/白石乃梨.md "wikilink")
@@ -24,7 +25,7 @@
   - [Chicago Poodle](../Page/Chicago_Poodle.md "wikilink")
   - [岡崎雪](../Page/岡崎雪.md "wikilink")
   - [rumania montevideo](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")
-  - SARD UNDERGROUND
+  - [SARD UNDERGROUND](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink")
 
 ### 過去に所属していたアーティスト
 
@@ -42,7 +43,6 @@
   - [牧穂エミ](../Page/牧穂エミ.md "wikilink")
   - [RAMJET PULLEY](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")(2003年活動停止)
   - [WAG](../Page/WAG.md "wikilink")(2006年解散)
-  - [WANDS](../Page/WANDS.md "wikilink")
   - [小泉ニロ](../Page/小泉ニロ.md "wikilink")
   - [WAR-ED](https://ja.wikipedia.org/wiki/WAR-ED "wikilink")
   - [Loe](https://ja.wikipedia.org/wiki/Loe "wikilink")

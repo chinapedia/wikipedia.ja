@@ -1,7 +1,7 @@
 > この記事は[Hamasaki Ayumi](https://ja.wikipedia.org/wiki/Hamasaki_Ayumi)から翻訳されています。
 
 
-『**HAMASAKI AYUMI**』（ハマサキ・アユミ）は、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")が[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売した[ビデオクリップ集の](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
+『**HAMASAKI AYUMI**』（ハマサキ・アユミ）は、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売した[ビデオクリップ集の](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
 
 ## 概要
 

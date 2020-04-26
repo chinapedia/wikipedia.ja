@@ -309,7 +309,7 @@
 
   -
   -
-  - [KUSHIDAオフィシャルブログ「KUSHIDAのプロレス浪漫飛行」](http://ameblo.jp/ts-kushida/) - Powered by Ameba
+  - [KUSHIDAオフィシャルブログ「KUSHIDAのプロレス浪漫飛行」](https://ameblo.jp/ts-kushida/) - Powered by Ameba
 
   -
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:新日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:新日本プロレスに所属したプロレスラー "wikilink") [Category:CMLLに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:CMLLに参戦したプロレスラー "wikilink") [Category:NWAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:NWAに参戦したプロレスラー "wikilink") [Category:ROHに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:ROHに参戦したプロレスラー "wikilink") [Category:SMASHに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:SMASHに所属したプロレスラー "wikilink") [Category:全日本プロレスの元関係者](https://ja.wikipedia.org/wiki/Category:全日本プロレスの元関係者 "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:専修大学出身の人物](https://ja.wikipedia.org/wiki/Category:専修大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

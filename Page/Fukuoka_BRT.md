@@ -83,7 +83,7 @@
 
 **　　・香椎照葉五丁目** → アイランドシティ中央公園前 → イオンモール香椎浜 → ( 香椎浜RP→都市高速 → 天神北RP) → 天神ソラリアステージ(福ビル街区)前7C → (以降はBRT内回りと同経路)
 
-朝1便上りのみの運行。　
+朝1便上りのみの運行。アイランドシティ照葉から天神方面を結ぶ「[直行](https://ja.wikipedia.org/wiki/西日本鉄道アイランドシティ自動車営業所#香椎浜~天神線 "wikilink")」と同じ香椎浜ランプ・天神北ランプを利用し、天神以降快速BRTとなることから「特別快速」となっている。直行とは異なり、天神中央郵便局前には停車しない。
 
 **・22T特別快速　　　　**
 
@@ -112,11 +112,13 @@
 
 <references />
 
-## 出典
+## 外部リンク
 
 [西鉄くらしネット](https://jik.nishitetsu.jp/)
 
-[西鉄公式BRT特設サイト](http://www.nishitetsu.jp/)
+[西鉄バス路線図(2020年3月21日版)](http://www.nishitetsu.jp/userfiles/page_contents/e75c0d8457e3bcaddcf311e1fa398be6.pdf)
+
+[Fukuoka BRT 公式サイト](http://www.nishitetsu.jp/bus/rensetsubus/)
 
 [Category:バス](https://ja.wikipedia.org/wiki/Category:バス "wikilink") [Category:バス・ラピッド・トランジット](https://ja.wikipedia.org/wiki/Category:バス・ラピッド・トランジット "wikilink") [Category:西日本鉄道](https://ja.wikipedia.org/wiki/Category:西日本鉄道 "wikilink") [Category:福岡市](https://ja.wikipedia.org/wiki/Category:福岡市 "wikilink") [Category:西鉄バス](https://ja.wikipedia.org/wiki/Category:西鉄バス "wikilink") [Category:西鉄バスの路線](https://ja.wikipedia.org/wiki/Category:西鉄バスの路線 "wikilink")
 

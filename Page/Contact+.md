@@ -61,6 +61,12 @@
 
 後日表形式で整理予定--\>
 
+## 出演
+
+### テレビ番組
+
+  - 顔ラン！\[5\]（2020年4月2日 - 、毎週木曜日20:27～20:56、[TOKYO MX](https://ja.wikipedia.org/wiki/TOKYO_MX "wikilink")1） - メンバー全員出演
+
 ## 脚注
 
 <references />
@@ -77,3 +83,4 @@
 2.
 3.
 4.
+5.  [顔ラン！](https://s.mxtv.jp/variety/kaoran/)TOKYO MX

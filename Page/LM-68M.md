@@ -15,7 +15,7 @@
 
 ## 運用・車種
 
-[1973年](../Page/1973年.md "wikilink")から[1974年](../Page/1974年.md "wikilink")に試作車が製造された後、翌[1975年](../Page/1975年.md "wikilink")に量産に関する認可を受け、[レニングラード市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")（現：サンクトペテルブルク市電）を始めとしたソ連各地の路面電車へ向けて大量生産が開始された。量産中にも一部の設計変更が行われ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")には窓配置の見直しによる後部乗降扉幅の拡大、主要機器の配置の改良が実施され、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降に製造された車両はメンテナンス簡素化を理由に主要機器の一部が車内後部に配置された。その後、更なる需要増加に対応するため同様の機器を用いた[連接車の](../Page/連接台車.md "wikilink")（ЛВС-86、71-86）に量産体制が移行した事でLM-68の製造は[1988年](../Page/1988年.md "wikilink")をもって終了し、総生産数は2,108両にも達した。
+[1973年](../Page/1973年.md "wikilink")から[1974年](../Page/1974年.md "wikilink")に試作車が製造された後、翌[1975年](../Page/1975年.md "wikilink")に量産に関する認可を受け、[レニングラード市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")（現：サンクトペテルブルク市電）を始めとしたソ連各地の路面電車へ向けて大量生産が開始された。量産中にも一部の設計変更が行われ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")には窓配置の見直しによる後部乗降扉幅の拡大、主要機器の配置の改良が実施され、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降に製造された車両はメンテナンス簡素化を理由に主要機器の一部が車内後部に配置された。その後、更なる需要増加に対応するため同様の機器を用いた[連接車の](../Page/連接台車.md "wikilink")[LVS-86](../Page/LVS-86.md "wikilink")（ЛВС-86、71-86）に量産体制が移行した事でLM-68の製造は[1988年](../Page/1988年.md "wikilink")をもって終了し、総生産数は2,108両にも達した。
 
 <File:Sint-Petersburg> trams in 1982 III.jpg|登場当初の塗装（[レニングラード市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")、[1982年](../Page/1982年.md "wikilink")撮影） <File:Sint-Petersburg> trams in 1982 IV.jpg|上半分白色、下半分赤色の塗装に変更されたレニングラード市電のLM-68M（右、[1982年](../Page/1982年.md "wikilink")撮影） [File:TramMoskovskiyeVorotaSquare2008-04-12-1603.jpg|広告塗装](File:TramMoskovskiyeVorotaSquare2008-04-12-1603.jpg%7C広告塗装)（[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")撮影）
 
@@ -51,7 +51,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ニジニ・ノヴゴロド.md" title="wikilink">ゴーリキー</a><br />
-()</p></td>
+(<a href="https://ja.wikipedia.org/wiki/ゴーリキー市電" title="wikilink">ゴーリキー市電</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/チェレポヴェツ.md" title="wikilink">チェレポヴェツ</a></p></td>
@@ -77,7 +77,7 @@
 
 ### LM-68M2（ЛМ-68М2）
 
-[ЛМ-68М2.jpg](https://ja.wikipedia.org/wiki/File:ЛМ-68М2.jpg "fig:ЛМ-68М2.jpg") 安価での設備更新を目的に、[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")のLM-68Mの一部に車体更新を含めた近代化更新を実施した形式。新造した車体は外板を[繊維強化プラスチック](../Page/繊維強化プラスチック.md "wikilink")にする事でサンクトペテルブルクの多湿な環境下での腐食を防いでいる他、後部の乗降扉付近は低床構造となっており、[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")や[ベビーカー](https://ja.wikipedia.org/wiki/ベビーカー "wikilink")での乗降が容易となっている。また制動装置に[回生ブレーキ](../Page/回生ブレーキ.md "wikilink")が導入され、消費電力が削減された他、加減速性能の強化が図られている。更新工事は[2014年](../Page/2014年.md "wikilink")から行われているが、最初に工事が実施された車両のうち1両はを基にしたレトロ調のデザインが導入され、[2019年](../Page/2019年.md "wikilink")には[水素燃料](../Page/水素燃料.md "wikilink")電池を用いた架線レス路線向け試験車両に改造されている\[3\]。
+[ЛМ-68М2.jpg](https://ja.wikipedia.org/wiki/File:ЛМ-68М2.jpg "fig:ЛМ-68М2.jpg") 安価での設備更新を目的に、[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")のLM-68Mの一部に車体更新を含めた近代化更新を実施した形式。新造した車体は外板を[繊維強化プラスチック](../Page/繊維強化プラスチック.md "wikilink")にする事でサンクトペテルブルクの多湿な環境下での腐食を防いでいる他、後部の乗降扉付近は低床構造となっており、[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")や[ベビーカー](https://ja.wikipedia.org/wiki/ベビーカー "wikilink")での乗降が容易となっている。また制動装置に[回生ブレーキ](../Page/回生ブレーキ.md "wikilink")が導入され、消費電力が削減された他、加減速性能の強化が図られている。更新工事は[2014年](../Page/2014年.md "wikilink")から行われているが、最初に工事が実施された車両のうち1両は[LM-57](../Page/LM-57.md "wikilink")を基にしたレトロ調のデザインが導入され、[2019年](../Page/2019年.md "wikilink")には[水素燃料](../Page/水素燃料.md "wikilink")電池を用いた架線レス路線向け試験車両に改造されている\[3\]。
 
 <File:LM68M2> Salon.jpg|車内 <File:LM-68M2> in Saint-Petersburg.jpg|レトロ調の車体に更新された車両 <File:LM-68M2> 7595.jpg|レトロ調車両の後方
 
@@ -94,7 +94,7 @@
   - **同時期のソ連向け量産型路面電車車両**
       - [タトラT3](../Page/タトラT3.md "wikilink") - [チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[タトラ国営会社スミーホフ工場（ČKDタトラ）製の](../Page/タトラ_\(自動車\).md "wikilink")[電車](../Page/電車.md "wikilink")。
       - [KTM-5](https://ja.wikipedia.org/wiki/KTM-5 "wikilink") - ソビエト連邦（現：ロシア連邦）の[ウスチ＝カタフスキー車両製造工場](https://ja.wikipedia.org/wiki/ウスチ＝カタフスキー車両製造工場 "wikilink")製の電車。
-      - [RVZ-6](https://ja.wikipedia.org/wiki/RVZ-6 "wikilink") - [ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink")）の[リガ車両製作工場](https://ja.wikipedia.org/wiki/リガ車両製作工場 "wikilink")製の電車。
+      - [RVZ-6](../Page/RVZ-6.md "wikilink") - [ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink")）の[リガ車両製作工場](https://ja.wikipedia.org/wiki/リガ車両製作工場 "wikilink")製の電車。
 
 ## 脚注
 

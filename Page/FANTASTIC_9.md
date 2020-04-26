@@ -1,7 +1,7 @@
 > この記事は[FANTASTIC 9](https://ja.wikipedia.org/wiki/FANTASTIC_9)から翻訳されています。
 
 
-「**FANTASTIC 9**」（ファンタスティック ナイン）は、[FANTASTICS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE "wikilink")1枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
+「**FANTASTIC 9**」（ファンタスティックナイン）は、[FANTASTICS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE "wikilink")1枚目の[アルバム](../Page/アルバム.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
 
 ## 概要
 

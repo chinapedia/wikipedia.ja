@@ -48,36 +48,27 @@
     イラスト：唐々煙
     主催：サウンドシアター事務局
 
-**<big>外伝</big>**
+### 外伝
 
 **MARS RED 「THE BLACK PRINCE」**\[5\]
 
-2017年11月４日ー５日（会場：舞浜アンフィシアター）
+  -
+    2017年11月４日ー５日（会場：舞浜アンフィシアター）
+    朗読：諏訪部順一、鈴村健一、[高橋広樹](../Page/高橋広樹.md "wikilink")、[朴璐美](../Page/朴ロ美.md "wikilink")、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、[朝倉あき](../Page/朝倉あき.md "wikilink")
+    原作・脚本・演出：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")
+    音楽監督：[村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")
+    美術デザイン：野村 真紀（東宝舞台）
+    照明デザイン：久保 良明（エヂソンライトハウス）
+    音響デザイン：小宮 大輔（soundborn）
+    音響効果：熊谷 健 (オフィスエーワン)
+    衣裳：大戸 美貴（東宝舞台）
+    特効：阪部 聡子（スパーク）
+    舞台監督：諌山 喜由（ISA）
+    （製作：「The Black Prince」製作委員会）
 
-朗読：諏訪部順一、鈴村健一、[高橋広樹](../Page/高橋広樹.md "wikilink")、[朴璐美](../Page/朴ロ美.md "wikilink")、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、[朝倉あき](../Page/朝倉あき.md "wikilink")
+## 主な登場人物
 
-原作・脚本・演出：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")
-
-音楽監督：[村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")
-
-美術デザイン：野村 真紀（東宝舞台）
-
-照明デザイン：久保 良明（エヂソンライトハウス）
-
-音響デザイン：小宮 大輔（soundborn）
-
-音響効果：熊谷 健 (オフィスエーワン)
-
-衣裳：大戸 美貴（東宝舞台）
-
-特効：阪部 聡子（スパーク）
-
-舞台監督：諌山 喜由（ISA）
-
-（製作：「The Black Prince」製作委員会）
-
-
-\== 主な登場人物 == ※担当[声優](../Page/声優.md "wikilink")は左から、2013年公演・2015年公演・テレビアニメの順。
+※担当[声優](../Page/声優.md "wikilink")は左から、2013年公演・2015年公演・テレビアニメの順。
 
   - 栗栖秀太郎（くるす しゅうたろう）
     声 - 徳山秀典\[6\]、古川雄大\[7\]、[畠中祐](https://ja.wikipedia.org/wiki/畠中祐 "wikilink")\[8\]
@@ -169,7 +160,7 @@
       -
 　　　　
 
-[Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:朗読劇](https://ja.wikipedia.org/wiki/Category:朗読劇 "wikilink") [Category:大正時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大正時代を舞台とした作品 "wikilink") [Category:吸血鬼を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたフィクション作品 "wikilink") [Category:2013年の舞台作品](https://ja.wikipedia.org/wiki/Category:2013年の舞台作品 "wikilink") [Category:2015年の舞台作品](https://ja.wikipedia.org/wiki/Category:2015年の舞台作品 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:2019年の漫画](https://ja.wikipedia.org/wiki/Category:2019年の漫画 "wikilink") [Category:マッグガーデンの漫画](https://ja.wikipedia.org/wiki/Category:マッグガーデンの漫画 "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:シグナル・エムディ](https://ja.wikipedia.org/wiki/Category:シグナル・エムディ "wikilink") [Category:吸血鬼を題材としたアニメ作品‎](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品‎ "wikilink")
+[Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:朗読劇](https://ja.wikipedia.org/wiki/Category:朗読劇 "wikilink") [Category:大正時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大正時代を舞台とした作品 "wikilink") [Category:吸血鬼を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたフィクション作品 "wikilink") [Category:2013年の舞台作品](https://ja.wikipedia.org/wiki/Category:2013年の舞台作品 "wikilink") [Category:2015年の舞台作品](https://ja.wikipedia.org/wiki/Category:2015年の舞台作品 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:2019年の漫画](https://ja.wikipedia.org/wiki/Category:2019年の漫画 "wikilink") [Category:マッグガーデンの漫画](https://ja.wikipedia.org/wiki/Category:マッグガーデンの漫画 "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:シグナル・エムディ](https://ja.wikipedia.org/wiki/Category:シグナル・エムディ "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink")
 
 1.
 2.

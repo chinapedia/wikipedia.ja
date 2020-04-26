@@ -7,7 +7,7 @@ Google Classroomは、課題の作成と配布用の[Googleドライブ](https:/
 
 ## 歴史
 
-Google Classroomは2014年5月6日に発表され、Googleの[G Suite for Educationプログラムの一部のメンバーがプレビューを利用できた](https://ja.wikipedia.org/wiki/G_Suite "wikilink")。 \[2\] \[3\] そして、2014年8月12日に公開された。 \[4\] \[5\] 2015年、GoogleはClassroom [APIとウェブサイトの共有ボタンを発表し](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、学校の管理者と開発者がGoogle Classroomをさらに活用できるようになりました。 \[6\] また、2015年には、Googleは[GoogleカレンダーをClassroomに統合して](https://ja.wikipedia.org/wiki/Google_カレンダー "wikilink")、課題の期日、フィールドトリップ、クラススピーカーを割り当てた。 \[7\] 2017年、GoogleはClassroomを開いて個人のGoogleユーザーがG Suite for Educationアカウントを持たずにクラスに参加できるようにし\[8\] 、同年4月に、個人のGoogleユーザーでも利用可能になった。 \[9\] \[10\]
+Google Classroomは2014年5月6日に発表され、Googleの[G Suite for Educationプログラムの一部のメンバーがプレビューを利用できた](https://ja.wikipedia.org/wiki/G_Suite "wikilink")。 \[2\] \[3\] そして、2014年8月12日に公開された。 \[4\] \[5\] 2015年、GoogleはClassroom [APIとウェブサイトの共有ボタンを発表し](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、学校の管理者と開発者がGoogle Classroomをさらに活用できるようになった。 \[6\] さらに同年、Googleは[GoogleカレンダーをClassroomに統合して](https://ja.wikipedia.org/wiki/Google_カレンダー "wikilink")、課題の期日、フィールドトリップ、クラススピーカーを割り当てた。 \[7\] 2017年、GoogleはClassroomを開いて個人のGoogleユーザーがG Suite for Educationアカウントを持たずにクラスに参加できるようにし\[8\] 、同年4月に、個人のGoogleユーザーでも利用可能になった。 \[9\] \[10\]
 
 2018年、Googleは教室の更新、クラスワークセクションの追加、グレーディングインターフェイスの改善、他のクラスからのクラスワークの再利用を許可し、教師がトピックごとにコンテンツを整理する機能を追加することを発表した。 \[11\]
 

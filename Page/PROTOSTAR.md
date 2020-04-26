@@ -1,7 +1,7 @@
 > この記事は[PROTOSTAR](https://ja.wikipedia.org/wiki/PROTOSTAR)から翻訳されています。
 
 
-「**PROTOSTAR**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ・[JO1](../Page/JO1.md "wikilink")のデビューシングル。[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")にLAPONEエンタテインメントより発売。
+「**PROTOSTAR**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ・[JO1](../Page/JO1.md "wikilink")のデビューシングル。[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[LAPONEエンタテインメント](../Page/LAPONEエンタテインメント.md "wikilink")より発売。
 
 ## 収録曲
 

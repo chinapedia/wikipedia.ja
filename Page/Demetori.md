@@ -55,7 +55,7 @@
   - [寺前,徳南@Demetori](https://twitter.com/tera_demetori)（@tera_Demetori）- Twitter
   - [九宝寺前@Demetori](https://twitter.com/kyuhojimae)（@kyuhojimae）- Twitter
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
 
 1.  \[[https://magicalmirai.com/2019/special_afterreport.html\]マジカルミライ2019](https://magicalmirai.com/2019/special_afterreport.html%5Dマジカルミライ2019) アフターレポート 2020年3月10日閲覧
 2.  \[[https://twitter.com/kyuhojimae/status/946361374753435653\]九宝時のTwitterでのつぶやき](https://twitter.com/kyuhojimae/status/946361374753435653%5D九宝時のTwitterでのつぶやき) 2020年3月10日閲覧

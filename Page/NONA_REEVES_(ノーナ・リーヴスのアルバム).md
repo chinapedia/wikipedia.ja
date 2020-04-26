@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作『[DESTINY](https://ja.wikipedia.org/wiki/DESTINY_\(ノーナ・リーヴスのアルバム\) "wikilink")』から約2年ぶりのオリジナル・アルバムとして、[2002年](../Page/2002年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[TOTAL SPECTRUMより発売された](../Page/日本コロムビア.md "wikilink")。
+前作『[DESTINY](../Page/DESTINY_\(ノーナ・リーヴスのアルバム\).md "wikilink")』から約2年ぶりのオリジナル・アルバムとして、[2002年](../Page/2002年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[TOTAL SPECTRUMより発売された](../Page/日本コロムビア.md "wikilink")。
 
 ## 収録曲
 

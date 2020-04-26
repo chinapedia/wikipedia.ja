@@ -1,7 +1,7 @@
 > この記事は[Society5.0 香格里拉](https://ja.wikipedia.org/wiki/Society5.0_香格里拉)から翻訳されています。
 
 
-『**Society5.0 香格里拉**』（ソサエティ5.0 シャングリラ）は[文化放送](../Page/文化放送.md "wikilink")で、2020年4月5日から始まる予定のラジオの生ワイド番組。
+『**Society5.0 香格里拉**』（ソサエティ5.0 シャングリラ）は[文化放送](../Page/文化放送.md "wikilink")で2020年4月5日から始まったラジオの生ワイド番組。
 
 ## 概要
 
@@ -11,11 +11,18 @@
 
 ## 放送時間
 
-  - 日曜日 10:00-13:00
+  - 日曜日 10:00 - 13:00
 
 ## パーソナリティ
 
   - [柴田阿弥](https://ja.wikipedia.org/wiki/柴田阿弥 "wikilink")（フリーアナウンサー）
+
+## フロート番組
+
+  - [峰竜太](../Page/峰竜太.md "wikilink")とみんなの信州（11:05 - 11:20）
+      - 土曜6:45 - 7:00の単独番組から移動。
+  - [柴田阿弥とオテンキのりのジャパン5.0](https://www.gov-online.go.jp/pr/media/radio/japan5/index.html)（12:20 - 12:35）
+      - [政府広報](../Page/政府広報.md "wikilink")番組。[NRN加盟](../Page/全国ラジオネットワーク.md "wikilink")[19局ネット](https://www.gov-online.go.jp/pr/media/radio/japan5/time.html)で放送。
 
 ## 脚注
 
@@ -27,7 +34,11 @@
   - [文化放送日曜朝11時枠](https://ja.wikipedia.org/wiki/文化放送日曜朝11時枠 "wikilink")
   - [文化放送日曜昼12時枠](https://ja.wikipedia.org/wiki/文化放送日曜昼12時枠 "wikilink")
 
-[Category:文化放送のトーク番組‎](https://ja.wikipedia.org/wiki/Category:文化放送のトーク番組‎ "wikilink") [Category:文化放送の情報・ワイドショー番組‎](https://ja.wikipedia.org/wiki/Category:文化放送の情報・ワイドショー番組‎ "wikilink") [Category:文化放送の音楽番組‎](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組‎ "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
+## 外部リンク
+
+  - [『Society5.0 香格里拉』公式サイト](https://joqr.co.jp/s5/)
+
+[Category:文化放送のトーク番組](https://ja.wikipedia.org/wiki/Category:文化放送のトーク番組 "wikilink") [Category:文化放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:文化放送の情報・ワイドショー番組 "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
 
 1.
 2.

@@ -7,7 +7,7 @@
 
   - 中学生の時に読んだ漫画『[キン肉マン](../Page/キン肉マン.md "wikilink")』に感銘を受け、自らも漫画家になる夢を抱く。高校三年生の時に渾身の漫画作品を出版社へ持ち込むが酷評を受ける。その後も4年余り、幾たびも持ち込みを試みるが結果に繋がらなかった。
   - 大学在学中に友人からお笑いの道に誘われ、芸人活動を始める。芸人として有名になったのちに漫画家としてのデビューの道も拓けるかもしれないとの考えもあった\[1\]。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")へ19期生として入学（同期にはGroovy Rubbish、[じぐざぐ](https://ja.wikipedia.org/wiki/じぐざぐ_\(お笑いコンビ\) "wikilink")、[こじま観光](https://ja.wikipedia.org/wiki/こじま観光 "wikilink")、コネオ・インターナショナル、[根菜キャバレー](https://ja.wikipedia.org/wiki/根菜キャバレー "wikilink")の天野舞などがいる）。卒業後、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")所属のお笑い芸人として活動\[2\]。しかし芸人としての芽が出ないことを悟り、[2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、人力舎を退社。改めてギャグ漫画家を目指す。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")へ19期生として入学（同期にはGroovy Rubbish、[じぐざぐ](../Page/じぐざぐ_\(お笑いコンビ\).md "wikilink")、[こじま観光](https://ja.wikipedia.org/wiki/こじま観光 "wikilink")、コネオ・インターナショナル、[根菜キャバレー](https://ja.wikipedia.org/wiki/根菜キャバレー "wikilink")の天野舞などがいる）。卒業後、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")所属のお笑い芸人として活動\[2\]。しかし芸人としての芽が出ないことを悟り、[2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、人力舎を退社。改めてギャグ漫画家を目指す。
   - [2017年](../Page/2017年.md "wikilink")よりフリーの漫画家としての活動を開始。
   - [2019年](../Page/2019年.md "wikilink")12月、第91回[赤塚賞](../Page/赤塚賞.md "wikilink")入選（赤塚賞入選が出たのは29年ぶり、[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")初）。受賞作品は「だるまさんがころんだ時空伝」。
 

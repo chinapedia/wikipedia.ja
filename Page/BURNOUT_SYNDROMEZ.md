@@ -17,7 +17,7 @@
 2.  **[ヒカリアレ](https://ja.wikipedia.org/wiki/ヒカリアレ "wikilink")**
       -
         2ndシングル。テレビアニメ『ハイキュー\!\! 烏野高校VS白鳥沢学園高校』オープニングテーマ。
-3.  **[PHOENIX](https://ja.wikipedia.org/wiki/PHOENIX_\(BURNOUT_SYNDROMESの曲\) "wikilink")**
+3.  **[PHOENIX](../Page/PHOENIX_\(BURNOUT_SYNDROMESの曲\).md "wikilink")**
       -
         5thシングル。テレビアニメ『[ハイキュー\!\! TO THE TOP](https://ja.wikipedia.org/wiki/ハイキュー!!_TO_THE_TOP "wikilink")』オープニングテーマ。
 4.  **Dream On\!\!**

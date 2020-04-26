@@ -23,10 +23,10 @@
 
 ## 収録アルバム
 
-  - [街はステキなカーニバル](https://ja.wikipedia.org/wiki/街はステキなカーニバル "wikilink")（1979年） 「君に捧げるラブ・ソング」と、再発盤に「Gの祈り」を[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録。
+  - [街はステキなカーニバル](../Page/街はステキなカーニバル.md "wikilink")（1979年） 「君に捧げるラブ・ソング」と、再発盤に「Gの祈り」を[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録。
   - [GOOD EVENING 岡林信康LIVE\!](https://ja.wikipedia.org/wiki/GOOD_EVENING_岡林信康LIVE! "wikilink") （1980年） 「Gの祈り」「君に捧げるラブ・ソング」を収録。
-  - [オリジナル・サウンドトラック 影の軍団](https://ja.wikipedia.org/wiki/オリジナル・サウンドトラック_影の軍団 "wikilink")（1986年） 「Gの祈り（Inst.）」を収録。
-  - [影の軍団 音楽編](https://ja.wikipedia.org/wiki/オリジナル・サウンドトラック_影の軍団 "wikilink")（1998年）  「Gの祈り（Inst.）」、「Gの祈り」を収録。
+  - [オリジナル・サウンドトラック 影の軍団](../Page/オリジナル・サウンドトラック_影の軍団.md "wikilink")（1986年） 「Gの祈り（Inst.）」を収録。
+  - [影の軍団 音楽編](../Page/オリジナル・サウンドトラック_影の軍団.md "wikilink")（1998年）  「Gの祈り（Inst.）」、「Gの祈り」を収録。
   - [森羅十二象](https://ja.wikipedia.org/wiki/森羅十二象 "wikilink")（2018年）  「君に捧げるラブ・ソング」をセルフカバー。
 
 ## 関連項目

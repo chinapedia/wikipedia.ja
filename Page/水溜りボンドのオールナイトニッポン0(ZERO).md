@@ -1,7 +1,7 @@
 > この記事は[水溜りボンドのオールナイトニッポン0\(ZERO\)](https://ja.wikipedia.org/wiki/水溜りボンドのオールナイトニッポン0\(ZERO\))から翻訳されています。
 
 
-『**水溜りボンドのオールナイトニッポン0(ZERO)**』（みすたまりボンドのオールナイトニッポンゼロ）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で2020年4月3日（4月2日深夜）から始まる予定のラジオ番組。
+『**水溜りボンドのオールナイトニッポン0(ZERO)**』（みずたまりボンドのオールナイトニッポンゼロ）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で2020年4月3日（4月2日深夜）より放送中のラジオ番組である。
 
 ## 概要
 
@@ -13,13 +13,126 @@
 
 なお、[ユーチューバーがオールナイトニッポンのレギュラーパーソナリティを務めるのはオールナイトニッポンの歴史上初めてとなり](https://ja.wikipedia.org/wiki/YouTuber "wikilink")、ニッポン放送での番組起用も初めてとなる\[5\]\[6\]\[7\]。
 
-## 放送時間
-
-  - 金曜日 3:00-4:30（木曜日深夜）
-
 ## パーソナリティ
 
   - [水溜りボンド](https://ja.wikipedia.org/wiki/水溜りボンド "wikilink")（トミー・カンタ）
+
+## コーナー
+
+  - 週刊ラジTube
+    5年間YouTubeの毎日投稿を続けている水溜りボンドが、動画やバズることについて、できる限り教える\[8\]。
+  - 水溜り。をプロデュース！！
+    水溜りボンドをリスナーがプロデュースしていく\[9\]。
+
+## ネット局と放送時間
+
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送時間</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）<br />
+<strong>制作局</strong></p></td>
+<td><p>2020年4月3日 -</p></td>
+<td><p>金曜 3:00 - 4:30(木曜深夜)</p></td>
+<td><p>同時ネット</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a>（STV）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a>（TBC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
+<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/栃木放送" title="wikilink">栃木放送</a>（CRT）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a>（BSN）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><br />
+<a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="../Page/KBS滋賀.md" title="wikilink">KBS滋賀</a><br />
+<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
+<td><p><a href="../Page/ラジオ関西.md" title="wikilink">ラジオ関西</a>（CRK）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a>（RKC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>（KBC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西日本放送ラジオ" title="wikilink">西日本放送</a>（RNC）</p></td>
+<td><p>金曜 3:00 - 4:00(木曜深夜)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a>（RNB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 
@@ -46,3 +159,5 @@
 5.
 6.
 7.
+8.
+9.

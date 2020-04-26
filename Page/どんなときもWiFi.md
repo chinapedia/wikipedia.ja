@@ -58,11 +58,7 @@ U2sは、uCloudlink社が提供する製品である。
 
 ## TVCM
 
-今田美桜と佐藤二朗を起用した[テレビCMを開始](../Page/コマーシャルメッセージ.md "wikilink")。
-
-・[今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")（2019年）
-
-・[佐藤二朗](../Page/佐藤二朗.md "wikilink")（2019年）
+[今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")と[佐藤二朗](../Page/佐藤二朗.md "wikilink")を起用した[テレビCMを開始](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## 通信障害について
 
@@ -77,13 +73,15 @@ U2sは、uCloudlink社が提供する製品である。
 
 <small>— どんなときもWiFi お客様サポート、通信不具合に対する補償について</small>\[4\]
 
+2020年3月には、前述2月のものとは異なる\[5\]通信障害が発生した。4月1日の復旧を目指すとしていたが復旧のめどはたたず、4月3日にサービスの新規受付およびチャット相談サービスを停止した\[6\]。
+
+## 脚注
+
 ## 外部リンク
 
   - [どんなときもWiFi](https://donnatokimo-wifi.jp/)
   - [どんなときもWiFiお客様サポート](https://support.donnatokimo-wifi.jp/)
   - [株式会社グッド・ラック](https://good-luck-corporation.co.jp/)
-
-## 出典
 
 [Category:Wi-Fi](https://ja.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:ルーター](https://ja.wikipedia.org/wiki/Category:ルーター "wikilink")
 
@@ -91,3 +89,5 @@ U2sは、uCloudlink社が提供する製品である。
 2.  月額3,480円(税抜)～|url=[https://donnatokimo-wifi.jp/gomanzoku|website=【公式】どんなときもWiFi](https://donnatokimo-wifi.jp/gomanzoku%7Cwebsite=【公式】どんなときもWiFi){{\!}}月額3,480円(税抜)～|accessdate=2020-03-30|language=ja}}
 3.
 4.
+5.
+6.

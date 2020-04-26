@@ -5,7 +5,7 @@
 
 ## 概要
 
-第二次世界大戦中、戦時標準船T2タンカー「（*Potrero Hills*）」として[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")、[マリン群](../Page/マリン郡_\(カリフォルニア州\).md "wikilink")[サウサリート](https://ja.wikipedia.org/wiki/サウサリート "wikilink")にある[造船所](../Page/造船所.md "wikilink")、社で建造された。[1955年](../Page/1955年.md "wikilink")に[マルコム・マクレーン](https://ja.wikipedia.org/wiki/マルコム・マクレーン "wikilink")が興した[海運](../Page/海運.md "wikilink")会社、「（*Malcom McLean's Pan-Atlantic Steamship Company*）（現:[A.P. モラー・マースク](../Page/A.P._モラー・マースク.md "wikilink")）」によって購入されている\[1\]\[2\]\[3\]。そこで商用コンテナを運べる様に[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にあるベツレヘム・スティール社（*Bethlehem Steel*）で改造が施され、船名もアイデアル・Xへと変更されている。
+第二次世界大戦中、戦時標準船T2タンカー「（*Potrero Hills*）」として[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")、[マリン群](../Page/マリン郡_\(カリフォルニア州\).md "wikilink")[サウサリート](https://ja.wikipedia.org/wiki/サウサリート "wikilink")にある[造船所](../Page/造船所.md "wikilink")、社で建造された。[1955年](../Page/1955年.md "wikilink")に[マルコム・マクレーン](../Page/マルコム・マクレーン.md "wikilink")が興した[海運](../Page/海運.md "wikilink")会社、「（*Malcom McLean's Pan-Atlantic Steamship Company*）（現:[A.P. モラー・マースク](../Page/A.P._モラー・マースク.md "wikilink")）」によって購入されている\[1\]\[2\]\[3\]。そこで商用コンテナを運べる様に[メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にあるベツレヘム・スティール社（*Bethlehem Steel*）で改造が施され、船名もアイデアル・Xへと変更されている。
 
 [1956年](../Page/1956年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[処女航海](https://ja.wikipedia.org/wiki/処女航海 "wikilink")が行われ\[4\]、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")にあるから58個のコンテナを[テキサス州](../Page/テキサス州.md "wikilink")の[ヒューストン港](https://ja.wikipedia.org/wiki/ヒューストン港 "wikilink")まで運んでおり、そこで58台の[トラック](../Page/トラック.md "wikilink")がコンテナ積載のため待機している\[5\]。
 

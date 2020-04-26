@@ -25,7 +25,7 @@
 
   -
 
-[カテゴリ:1991年設立の企業](https://ja.wikipedia.org/wiki/カテゴリ:1991年設立の企業 "wikilink") [カテゴリ:チェコのブランド](https://ja.wikipedia.org/wiki/カテゴリ:チェコのブランド "wikilink") [カテゴリ:バス車両メーカー](https://ja.wikipedia.org/wiki/カテゴリ:バス車両メーカー "wikilink") [カテゴリ:トロリーバス車両メーカー](https://ja.wikipedia.org/wiki/カテゴリ:トロリーバス車両メーカー "wikilink") [カテゴリ:電気自動車車両メーカー](https://ja.wikipedia.org/wiki/カテゴリ:電気自動車車両メーカー "wikilink")
+[カテゴリ:1991年設立の企業](https://ja.wikipedia.org/wiki/カテゴリ:1991年設立の企業 "wikilink") [カテゴリ:チェコのブランド](https://ja.wikipedia.org/wiki/カテゴリ:チェコのブランド "wikilink") [カテゴリ:バス車両メーカー](https://ja.wikipedia.org/wiki/カテゴリ:バス車両メーカー "wikilink") [カテゴリ:トロリーバス車両メーカー](https://ja.wikipedia.org/wiki/カテゴリ:トロリーバス車両メーカー "wikilink") [車両メーカー](https://ja.wikipedia.org/wiki/カテゴリ:電気自動車 "wikilink")
 
 1.
 2.

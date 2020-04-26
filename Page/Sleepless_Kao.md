@@ -3,7 +3,7 @@
 
 **Sleepless kao**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[絵本作家](https://ja.wikipedia.org/wiki/絵本作家 "wikilink")。[静岡県](../Page/静岡県.md "wikilink")[沼津市](../Page/沼津市.md "wikilink")出身。
 
-[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[バンクーバー](../Page/バンクーバー.md "wikilink") で制作活動を行い、現在は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[バンクーバー](../Page/バンクーバー.md "wikilink")在住。
+[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[バンクーバーで制作活動を行い](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")、現在は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[バンクーバー在住](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")。
 
 [イラストレーター](../Page/イラストレーター.md "wikilink")、[絵本作家](https://ja.wikipedia.org/wiki/絵本作家 "wikilink")でありながら、[コンピューターアニメーション](https://ja.wikipedia.org/wiki/コンピューターアニメーション "wikilink")の指導や[バンクーバー](../Page/バンクーバー.md "wikilink")内の図書館やストアにて[ワークショップ](../Page/ワークショップ.md "wikilink")等も行っている。
 
@@ -37,14 +37,14 @@
 
 ## 特集 
 
-2000年　Loop Magazine(Vancouver, B.C.)
-2003年　Washington Post(Washington, D.C.)
-2004年　Milk Magazine(Hong Kong)
-2005年　Ricepaper Magazine(Vancouver,B.C.)
-2009年 Giant Robot Magazine(Los Angeles C.A.)
-2010年　Bulletin Magazine(Vancouver, B.C.)
-2011年　The Province (Vancouver, B.C.)、Georgia Straight (Vancouver, B.C.)
-2018年　GALLERY（Japan）
+  - 2000年 Loop Magazine(Vancouver, B.C.)
+  - 2003年 Washington Post(Washington, D.C.)
+  - 2004年 Milk Magazine(Hong Kong)
+  - 2005年 Ricepaper Magazine(Vancouver,B.C.)
+  - 2009年 Giant Robot Magazine(Los Angeles C.A.)
+  - 2010年 Bulletin Magazine(Vancouver, B.C.)
+  - 2011年 The Province (Vancouver, B.C.)、Georgia Straight (Vancouver, B.C.)
+  - 2018年 GALLERY（Japan）
 
 ## 外部リンク
 

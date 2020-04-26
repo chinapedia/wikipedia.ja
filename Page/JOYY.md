@@ -135,7 +135,7 @@ PC・モバイルに対応したゲームプレイに特化したライブスト
 
 ## Huya
 
-HUYA Inc.は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")を拠点に子会社を通じてグロバールでゲームプレイに特化したライブストリーミングビジネスを行っているケイマン諸島の企業。2016年にYY Inc.がゲームライブストリーミングビジネスユニットからスピンオフした。
+HUYA Inc.は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")を拠点に子会社を通じてグロバールでゲームプレイに特化したライブストリーミングビジネスを行っているケイマン諸島の企業。2016年にYY Inc.がゲームライブストリーミングビジネスユニットからスピンオフした。2020年に[テンセント](https://ja.wikipedia.org/wiki/テンセント "wikilink")の子会社となった。
 
 ### 虎牙の歴史
 
@@ -165,13 +165,15 @@ HUYA Inc.は、[中華人民共和国](../Page/中華人民共和国.md "wikilin
 
 2018年7月、中国以外での事業を拡大するために、HUYA Inc.が完全所有するケイマン諸島の会社であるTiger Information Technology Inc.の完全子会社HUYA PTE. LTD.をシンガポールに設立。
 
+2020年4月、[Tencent Holdings Limitedの完全子会社Linen](https://ja.wikipedia.org/wiki/テンセント "wikilink") Investment Limitedが過半数を取得して、[Tencent Holdings Limitedの子会社となる](https://ja.wikipedia.org/wiki/テンセント "wikilink")\[19\]。
+
 ### Huya.com
 
 [中華人民共和国](../Page/中華人民共和国.md "wikilink")国内のゲームプレイに特化したライブストリーミングサイト。
 
 動画上にコメントが流れる弾幕機能が実装されている。
 
-2018年11月に弾幕が被写体の人物を回避して表示される「AI弹幕」機能を追加。マスキング処理のbilibiliの智能防挡弹幕と違いリアルタイム処理されライブ配信に対応している\[19\]。
+2018年11月に弾幕が被写体の人物を回避して表示される「AI弹幕」機能を追加。マスキング処理のbilibiliの智能防挡弹幕と違いリアルタイム処理されライブ配信に対応している\[20\]。
 
 ### NIMO TV
 
@@ -189,7 +191,7 @@ HUYA Inc.は、[中華人民共和国](../Page/中華人民共和国.md "wikilin
 
 ### 子会社
 
-  - Duowan Entertainment Corporation (“Duowan BVI”)【100%】 - 投資持株会社\[20\]
+  - Duowan Entertainment Corporation (“Duowan BVI”)【100%】 - 投資持株会社\[21\]
       - NeoTasks Inc. - ミニゲームソーシャルアプリ「HAGO」運営
           - NeoTasks Limited
       - Huanju Shidai Technology (Beijing) Co., Ltd. (“Beijing Huanju Shidai” or “欢聚时代科技（北京）有限公司” , “Duowan Entertainment”)【Duowan BVI 96.5％、NeoTasks Limited 3.5％】 - 投資持株会社
@@ -200,7 +202,7 @@ HUYA Inc.は、[中華人民共和国](../Page/中華人民共和国.md "wikilin
           - Beyond Precision Limited.
               - Bigo Technology Pte. Ltd.
                   - Bigo (Hong Kong) Limited
-  - HUYA Inc. (“Huya”)【44.0%】 - 投資持株会社。議決権
+  - HUYA Inc. (“Huya”)【43.0%】 - 投資持株会社。
       - Huya Limited (“Huya HK”)
           - Guangzhou Huya Technology Co., Ltd. (“Huya Technology”)【44.0%】
       - Tiger Information Technology Inc.
@@ -268,3 +270,4 @@ HUYA Inc.は、[中華人民共和国](../Page/中華人民共和国.md "wikilin
 18.
 19.
 20.
+21.

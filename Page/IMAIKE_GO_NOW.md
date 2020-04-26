@@ -579,7 +579,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/CICADA_(バンド)" title="wikilink">CICADA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ayutthaya" title="wikilink">ayutthaya</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ワンダフルボーイズ" title="wikilink">ワンダフルボーイズ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THIS_IS_JAPAN" title="wikilink">THIS IS JAPAN</a></li>
+<li><a href="../Page/THIS_IS_JAPAN.md" title="wikilink">THIS IS JAPAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Koochewsen" title="wikilink">Koochewsen</a></li>
 </ul></td>
 <td><ul>
@@ -670,7 +670,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/挫・人間" title="wikilink">挫・人間</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Bakyun_the_everyday" title="wikilink">Bakyun the everyday</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Suspended_4th" title="wikilink">Suspended 4th</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THIS_IS_JAPAN" title="wikilink">THIS IS JAPAN</a></li>
+<li><a href="../Page/THIS_IS_JAPAN.md" title="wikilink">THIS IS JAPAN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/uri_gagarn" title="wikilink">uri gagarn</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Helsinki_Lambda_Club" title="wikilink">Helsinki Lambda Club</a></li>
 </ul></td>
@@ -782,7 +782,7 @@
 
 ### 2020年
 
-3月14日・15日に開催予定だったが、[新型コロナウイルス感染症の流行 (2019年-)による政府要請により](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")2月27日に開催中止が決定された\[4\]。
+3月14日・15日に開催予定だったが、[新型コロナウイルス感染症の流行 (2019年-)による政府要請により](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")2月27日に開催中止が決定された\[4\]。
 
 #### 出演予定だったアーティスト
 
@@ -825,7 +825,7 @@
   - [skillkills](https://ja.wikipedia.org/wiki/skillkills "wikilink")
   - [Slimcat](https://ja.wikipedia.org/wiki/Slimcat "wikilink")
   - [Sundayカミデ](https://ja.wikipedia.org/wiki/Sundayカミデ "wikilink")
-  - [SUSHIBOYS](https://ja.wikipedia.org/wiki/SUSHIBOYS "wikilink")
+  - [SUSHIBOYS](../Page/SUSHIBOYS.md "wikilink")
   - [シュリスペイロフ](https://ja.wikipedia.org/wiki/シュリスペイロフ "wikilink")
   - [Tariki Echo](https://ja.wikipedia.org/wiki/Tariki_Echo "wikilink")
   - [te'](https://ja.wikipedia.org/wiki/te' "wikilink")

@@ -361,13 +361,13 @@
 </tbody>
 </table>
 
-### ARENA TOUR MMXX OPENING BGM
+## ARENA TOUR MMXX OPENING BGM
 
 ツアーでは各会場の開場時に流れるBGMを各メンバーが選曲している。選曲したプレイリストは[音楽](../Page/音楽.md "wikilink")[ストリーミング](../Page/ストリーミング.md "wikilink")サービス、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")において順次公開された。新型コロナウイルス感染拡大防止のため開催中止となった2月28日・29日および3月4日・5日公演で公演時に流す予定だったプレイリストも公開されている。
 
-### 新型コロナウイルス感染症の拡大防止に伴う中止の概要
+## 新型コロナウイルス感染症の拡大防止に伴う中止の概要
 
-#### コンサート
+### コンサート
 
   - 2020年[2月26日](../Page/2月26日.md "wikilink")に当初予定されていた下記4公演の中止ならびに、チケット払い戻しを決定。
       - 2020年2月28日 横浜アリーナ
@@ -376,20 +376,20 @@
       - 2020年3月5日 国立代々木競技場第一体育館
   - 中止対象の会場にて受取予定だったコンサートグッズに関し、個別配送またはキャンセル対応を実施。
 
-#### ライブビューイング
+### ライブビューイング
 
   - 2020年2月28日・29日に予定されていた公演について、全国51ヶ所の映画館で公式ファンクラブ「LE-CIEL」会員限定で予定されていたライブビューイングを中止。
   - 2020年3月4日・5日に予定されていた公演について、国内84ヶ所の映画館で予定されていたライブビューイングを中止。3月5日公演については、国内84ヶ所の映画館の他、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")、[タイの映画館で予定されていたライブビューイング](../Page/タイ王国.md "wikilink")\[5\]も併せて中止。
 
-#### 放送局
+### 放送局
 
   - 2020年5月に[WOWOW](../Page/WOWOW.md "wikilink")で放送予定の「L'Arc〜en〜Ciel ARENA TOUR MMXX」について、WOWOW収録予定日の公演が中止となったことに伴い、番組放送を中止。
 
-### その他
+## その他
 
   - チケット料金は全席指定11,000円。当初予定されていたライヴビューイングは全席指定4,500円。
 
-### 外部リンク
+## 外部リンク
 
   - [L'Arc-en-Ciel ARENA TOUR MMXX](https://www.larc-en-ciel.com/mmxx/)
   - [L'Arcafe L'Arc-en-Ciel ARENA TOUR MMXX](https://www.larc-en-ciel.com/mmxx/larcafe/)

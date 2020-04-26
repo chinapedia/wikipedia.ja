@@ -16,7 +16,7 @@
     身長：177cm
     メンバーカラー：白
     KOKOONのリーダー。
-    愛称は「ミンミン」
+    あだ名は「ミンミン」
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
     メンバーカラー：青
     グループ唯一の日本人であり最年少。韓国表記は다나카료。
     お笑いコンビ「ブルーレディ」としても活動している。
-    愛称は「プリンス」
+    あだ名は「プリンス」
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
     生年月日：4月12日
     身長：184cm
     メンバーカラー：黒
-    愛称は「ハニ」
+    あだ名は「ハニ」
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
     生年月日：3月2日
     身長：173cm
     メンバーカラー：ピンク
-    愛称は「ウォンちゃん」
+    あだ名は「ウォンちゃん」
 
 <!-- end list -->
 
@@ -67,11 +67,11 @@
     身長：173cm
     メンバーカラー：赤
     ネタを披露する際はカツラを着用している。
-    愛称は「韓国人」本当はてっちゃんと呼んでほしいらしい。
+    あだ名は「韓国人」本当はてっちゃんと呼んでほしいらしい。
 
 ## 経歴
 
-  - 2018年6月26日 - ユンソナグループは「7月に韓国でデビューするお笑いアイドルのグループ名を『KOKOON』に決めた」と明らかにした。
+  - 2018年6月26日 - ユンソグループは「7月に韓国でデビューするお笑いアイドルのグループ名を『KOKOON』に決めた」と明らかにした。
 
 ## 出演
 
@@ -103,4 +103,4 @@
   -
   -
   -
-[Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:韓国のコメディアン](https://ja.wikipedia.org/wiki/Category:韓国のコメディアン "wikilink") [Category:韓国のアイドルグループ](https://ja.wikipedia.org/wiki/Category:韓国のアイドルグループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")
+[Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:韓国のコメディアン](https://ja.wikipedia.org/wiki/Category:韓国のコメディアン "wikilink") [Category:韓国の歌手グループ](https://ja.wikipedia.org/wiki/Category:韓国の歌手グループ "wikilink") [Category:アイドルグループ](https://ja.wikipedia.org/wiki/Category:アイドルグループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")

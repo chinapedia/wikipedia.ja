@@ -3,7 +3,7 @@
 
 『**R.E.D.**』（原題:*R.E.D.* **R**ealizing **E**very **D**ream）は、アメリカのシンガーソングライター[Ne-Yoの](../Page/ニーヨ.md "wikilink")5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。2012年10月31日に[モータウン](../Page/モータウン.md "wikilink")によってリリースされた。Emanuel "Eman" , Kiriakou, Luke Laird, Phatboiz, Bingo Players, Reeva & Black, Salaam Remi, Harmony Samuels{{\!}}Harmony "H-Money" , ＰSamuels, Shea Taylor, Reginald Smith, [スターゲイト](../Page/スターゲイト.md "wikilink"), Jesse "Corporal" Wilson, | Last album = [リブラ・スケール](https://ja.wikipedia.org/wiki/リブラ・スケール "wikilink")
 (2010年) | This album = **R.E.D.**
-(2012年) | Next album = [ノン・フィクション (Ne-Yoのアルバム)](https://ja.wikipedia.org/wiki/ノン・フィクション_\(Ne-Yoのアルバム\) "wikilink")
+(2012年) | Next album = [ノン・フィクション (Ne-Yoのアルバム)](../Page/ノン・フィクション_\(Ne-Yoのアルバム\).md "wikilink")
 (2015年) | Misc =  }}
 
 ## 概要

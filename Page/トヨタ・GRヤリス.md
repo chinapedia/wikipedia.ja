@@ -42,7 +42,7 @@
 
 ## モータースポーツ
 
-2020年1月の東京オートサロンにて[TOYOTA GAZOO Racingの姉妹チームとなる](https://ja.wikipedia.org/wiki/TOYOTA_GAZOO_Racing "wikilink")[ROOKIE Racingから](https://ja.wikipedia.org/wiki/ROOKIE_Racing "wikilink")、[スーパー耐久](../Page/スーパー耐久.md "wikilink")のST-2クラスへ参戦が発表。規則の関係上で、ラリーより先にサーキットでデビューすることとなった。初走行となった2月29日のテストでは、ほぼノーマルの状態でありながら熟成の進んだ[三菱・ランサー・エボリューションⅩとほぼ同等のタイムを記録した](../Page/三菱・ランサーエボリューション.md "wikilink")\[11\]。
+2020年1月の東京オートサロンにて[TOYOTA GAZOO Racingの姉妹チームとなる](https://ja.wikipedia.org/wiki/TOYOTA_GAZOO_Racing "wikilink")[ROOKIE Racingから](../Page/ROOKIE_Racing.md "wikilink")、[スーパー耐久](../Page/スーパー耐久.md "wikilink")のST-2クラスへ参戦が発表。規則の関係上で、ラリーより先にサーキットでデビューすることとなった。初走行となった2月29日のテストでは、ほぼノーマルの状態でありながら熟成の進んだ[三菱・ランサー・エボリューションⅩとほぼ同等のタイムを記録した](../Page/三菱・ランサーエボリューション.md "wikilink")\[11\]。
 
 2020年2月には[ユホ・ハンニネン](https://ja.wikipedia.org/wiki/ユホ・ハンニネン "wikilink")がテストドライブする[WRカー](https://ja.wikipedia.org/wiki/WRカー "wikilink")仕様の走行映像も公開されている。
 

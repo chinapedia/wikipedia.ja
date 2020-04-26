@@ -48,7 +48,7 @@
 
 ## 関連形式
 
-  - **[タトラT3R.PLF](../Page/タトラT3R.PLF.md "wikilink")、[タトラT3R.SLF](https://ja.wikipedia.org/wiki/タトラT3R.SLF "wikilink")** - [タトラT3](../Page/タトラT3.md "wikilink")の機器流用形式。ヴァリオLFやヴァリオLFRと同型の部分超低床車体を用いる一方、全面形状はT3と同型のデザインが使用されている。ヴァリオLFの車種の1つと見做される場合もある。
+  - **[タトラT3R.PLF](../Page/タトラT3R.PLF.md "wikilink")、[タトラT3R.SLF](https://ja.wikipedia.org/wiki/タトラT3R.SLF "wikilink")** - [タトラT3](../Page/タトラT3.md "wikilink")の機器流用形式。ヴァリオLFやヴァリオLFRと同型の部分超低床車体である一方、前面形状はT3と同型のデザインが使用されている。ヴァリオLFの車種の1つと見做される場合もある。
   - **** - 台車を「コンフォート・プラス（KOMFORT plus）」に変更し、高床部分の床上高さをヴァリオLFから下げた改良型車両\[9\]。
 
 ## 脚注

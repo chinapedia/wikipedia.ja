@@ -1,7 +1,7 @@
 > この記事は[Wonder Wall](https://ja.wikipedia.org/wiki/Wonder_Wall)から翻訳されています。
 
 
-**Wonder Wall**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。\[1\]　4人組バンド、東京都内を中心に活動中。
+**Wonder Wall**（ワンダーウォール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")\[1\]。4人組バンド、東京都内を中心に活動中。
 
 ## メンバー
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - 1月30日 - ROCKIN'ON JAPAN３月号に掲載
+  - 1月30日 - ROCKIN'ON JAPAN 3月号に掲載
   - 12月31日 - EP「赤く」リリース
 
 ## ミュージックビデオ
@@ -107,7 +107,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/12月5日.md" title="wikilink">10月17日</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a></p></td>
 <td><p><strong>plug</strong></p></td>
 <td><p>HSCW-0845</p></td>
 <td><div class="NavFrame">
@@ -145,7 +145,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2019年</a><a href="../Page/4月15日.md" title="wikilink">12月31日</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p>赤く</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">

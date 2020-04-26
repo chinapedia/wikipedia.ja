@@ -1,17 +1,32 @@
 > この記事は[YOUR STORY \(JUJUのアルバム\)](https://ja.wikipedia.org/wiki/YOUR_STORY_\(JUJUのアルバム\))から翻訳されています。
 
 
-『**YOUR STORY**』(ユア・ストーリー)は、日本の女性歌手[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")のベスト・アルバム。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")発売予定。
+『**YOUR STORY**』(ユア・ストーリー)は、日本の女性歌手[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")のベスト・アルバム。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に発売された。
 
 ## 解説
 
-ベスト・アルバムとしては『[BEST STORY 〜Love stories〜](https://ja.wikipedia.org/wiki/BEST_STORY_\(JUJUのアルバム\)#BEST_STORY_〜Love_stories〜 "wikilink")』、『[BEST STORY 〜Life stories〜](https://ja.wikipedia.org/wiki/BEST_STORY_\(JUJUのアルバム\)#BEST_STORY_〜Life_stories〜 "wikilink")』より約7年半振りとなり、自信初のオールタイム・ベスト・アルバムとなる。
+ベスト・アルバムとしては『[BEST STORY 〜Love stories〜](https://ja.wikipedia.org/wiki/BEST_STORY_\(JUJUのアルバム\)#BEST_STORY_〜Love_stories〜 "wikilink")』、『[BEST STORY 〜Life stories〜](https://ja.wikipedia.org/wiki/BEST_STORY_\(JUJUのアルバム\)#BEST_STORY_〜Life_stories〜 "wikilink")』より約7年半振りとなり、自身初の[オールタイム・ベスト](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")となる。
 
 4CD+三方背スリーブ仕様+豪華ブックレット+特典DVD付の初回限定盤と、 CD4枚組のみの通常盤の2形態での発売となる。
 
 4枚のCDは、それぞれ、『Theater RED』『Theater PURPLE』『Theater PINK』『Theater BLUE』となっており、一人一人の女性を描く物語と言う形となっており、それぞれの収録曲は[2019年](../Page/2019年.md "wikilink")に開催された『YOUR REQUEST TOUR』よりリクエストされた楽曲に新曲を加えた52曲が収録されている\[1\]。
 
 また、初回限定盤のDVDにはこれまで映像作品化されていなかった楽曲のビデオクリップ10曲と、JUJU自身の取材の様子を収録した『MY STORY』が収録されている\[2\]。
+
+## 楽曲解説
+
+  - あざみ
+    本楽曲はJUJU本人が「ただ単に既存の曲を並べてベストアルバムを作るのはどうしても嫌だから、必ず新曲を入れたい」と言う本人たっての希望により、収録された楽曲で、この希望を出した所、「丁度、歌って貰いたいなって曲がある」と言われ、デモテープを聞いたところ、JUJU本人も「是非、歌いたい」と言い、本楽曲が制作、完成したのだと言い、「デビューから16年を経た今だからこそ出会った瞬間、歌いたいと思ったし、歌えた曲ですね」と語っており\[3\]、JUJU曰く、人生と言うそのものや、大きな愛をひっくめて歌い上げた曲であると言い、『Theater RED』が織り成す世界観を最も大きな意味での纏まりをつけた位置付けの曲であると言う。また、「日々、生きていく中で、恋をする喜びや高揚感だったり、時にはどうしようもないような思いや切ない思いをしたりと、様々な感情や想いが交錯するんですが、私自身、その想いを全て含めた上で、運命の人とも言うべき人は必ず世の中には存在するんだって事を信じていたいと思っているんですよね。そんな人と運良く出会えたとしたら、それはこの上ない喜びと同時にかけがえのない愛情を抱き、そして注ぐことだって出来るんです。と同時に、未練と言う形ではなく、過去に出会い愛した人への想いや愛も確実に存在はすると思うんです。それは、恋人だけじゃなく、私を含めた家族間の愛は勿論、友人だったりと、そういう様々な形の愛は脈々と受け継がれながら、紆余曲折を経て最後は『RED』へとしっかりと帰って来れる。そんな希望がこの曲を始めとした様々な曲を通して『Theater RED』には込められていますね。」と語っている\[4\]。
+
+<!-- end list -->
+
+  - Woman In Love
+    『Theater PURPLE』に収録されている楽曲で、JUJU曰く「覚悟を決めた心境を歌った曲」であり、例えどんな苦しいことや、辛いことかあったり暗闇に迷ったりしてもなにも怖くないと思えるような人に出会えた人に応援して背中を押せるような曲で、JUJU自身が祝福したいと言う気持ちを込めて最後に収録する形となったとの事であり、聴く人によっては、ウエディングソングになっていくかもしれないとの事であり、ままならない事や至らない所があったとしてもこれでいいって思えるような曲になっていればいいなと思っていると語っている\[5\]。
+
+<!-- end list -->
+
+  - Stop Motion
+    『Theater PINK』に収録された楽曲で、JUJU曰く「ウキウキとさせられるような楽しい気分になるように意識すると同時に「[PLAYBACK](https://ja.wikipedia.org/wiki/PLAYBACK "wikilink")」の続編と言うイメージで制作した」との事であり、夏に相応しい曲としても意識しており、夏の思い出の一つ一つをじっくりと思い出していけるような曲に仕上げたとのだと言う\[6\]。
 
 ## 収録曲
 
@@ -54,6 +69,8 @@
       -
         22ndシングル
 13. **あざみ**
+      -
+        新曲
 
 ### Theater PURPLE
 
@@ -94,6 +111,8 @@
       -
         7thアルバム『[I](https://ja.wikipedia.org/wiki/I_\(JUJUのアルバム\) "wikilink")』収録曲
 13. **Woman In Love**
+      -
+        新曲
 
 ### Theater PINK
 
@@ -134,6 +153,8 @@
       -
         13thシングル
 13. **Stop Motion**
+      -
+        新曲
 
 ### Theater BLUE
 
@@ -201,3 +222,7 @@
 
 1.
 2.
+3.
+4.
+5.
+6.

@@ -7,11 +7,11 @@
 
 ### ディスプレイ
 
-エッジのある[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")ディスプレイで、HDR10+に対応した「Dynamic AMOLED 2X」を全モデルで搭載する。画面[輝度](https://ja.wikipedia.org/wiki/輝度 "wikilink")は、729[ニト](https://ja.wikipedia.org/wiki/ニト "wikilink")で、解像度は3200×1440。120Hzの[リフレッシュレート](../Page/リフレッシュレート.md "wikilink")に対応する。画面は[Gorilla Glass 6で覆われ](https://ja.wikipedia.org/wiki/ゴリラガラス "wikilink")、パンチホールカメラが搭載された「Infinity-O Display」となっている。超音波式[指紋認証](https://ja.wikipedia.org/wiki/指紋認証 "wikilink")スキャナーは画面下に配置され、画面上で[指](../Page/指.md "wikilink")が触れることでロックを解除する。
+エッジのある[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")ディスプレイで、HDR10+に対応した「Dynamic AMOLED 2X」を全モデルで搭載する。画面[輝度](https://ja.wikipedia.org/wiki/輝度 "wikilink")は、729[ニト](https://ja.wikipedia.org/wiki/ニト "wikilink")で、解像度は3200×1440。120Hzの[リフレッシュレート](../Page/リフレッシュレート.md "wikilink")に対応する。画面は[Gorilla Glass 6で覆われ](https://ja.wikipedia.org/wiki/ゴリラガラス "wikilink")、パンチホールカメラが搭載された「Infinity-O Display」となっている。色を変えずに[ブルーライト](https://ja.wikipedia.org/wiki/ブルーライト "wikilink")をカットするEye Comfort Displayは、通常より42%カットする[Galaxy S10よりさらに](https://ja.wikipedia.org/wiki/Galaxy_S10 "wikilink")18%カット性能が高くなっている。[指紋認証](https://ja.wikipedia.org/wiki/指紋認証 "wikilink")スキャナーは画面下に配置され、画面上で[指](../Page/指.md "wikilink")が触れることでロックを解除する。
 
 ### デザイン
 
-デザインテーマは「Upon the Horizon of Innovation」。ディスプレイはパンチホールカメラを搭載し、極限まで全画面まで近づけた「Infinity-O Display」を搭載している。アウトカメラは端末背面左上にスクエアパンプを設け搭載している。
+デザインテーマは「Upon the Horizon of Innovation」。ディスプレイはパンチホールカメラを搭載し、極限まで全画面に近づけた「Infinity-O Display」を搭載している。アウトカメラは端末背面左上にスクエアパンプを設け搭載している。
 
 カラーバリエーションは、シックなコズミックブラックとコズミックグレー、明るく淡いクラウドブルーとクラウドピンクを基本ラインナップとし、国によってはその他の限定カラーも販売する。カラーバリエーションについては、[\#カラーバリエーションも参照](https://ja.wikipedia.org/wiki/Galaxy_S20#カラーバリエーション "wikilink")。
 
@@ -24,29 +24,29 @@
 S20は、広角・超広角・望遠のトリプルカメラ構成。S20+はそれに深度測位用カメラを加えたクアッドカメラ構成。S20 Ultraは画素数の異なるクアッドカメラ構成\[6\]。
 
   - **Galaxy S20**
-      - 広角 - 12MP
-      - 超広角 - 12MP
-      - 望遠 - 64MP
+      - 広角 - 26mm, f/1.8, 12MP, 1/1.76"センサー, 1.8μmピッチ
+      - 超広角 - 13mm, f/2.2, 12MP, 1/2.55”センサー, 1.4μmピッチ
+      - 望遠 - ?mm, f/2.0, 64MP, 1/1.72"センサー, 0.8μmピッチ
 
 <!-- end list -->
 
   - **Galaxy S20+**
-      - 広角 - 12MP
-      - 超広角 - 12MP
-      - 望遠 - 64MP
-      - 深度測位 - 0.3MP
+      - 広角 - 26mm, f/1.8, 12MP, 1/1.76"センサー, 1.8μmピッチ
+      - 超広角 - 13mm, f/2.2, 12MP, 1/2.55”センサー, 1.4μmピッチ
+      - 望遠 - ?mm, f/2.0, 64MP, 1/1.72"センサー, 0.8μmピッチ
+      - 深度測位(ToF) - 0.3MP
 
 <!-- end list -->
 
   - **Galaxy S20 Ultra**
-      - 広角 - 12MP
-      - 超広角 - 108MP
-      - 望遠 - 48MP
-      - 深度測位 - 0.3MP
+      - 広角 - 26mm, f/1.8, 108MP, 1/1.33"センサー, 0.8μmピッチ
+      - 超広角 - 13mm, f/2.2, 12MP, 1/2.55”センサー, 1.4μmピッチ
+      - 望遠 - 103mm, f/3.5, 48MP, 1/2.0"センサー, 0.8μmピッチ
+      - 深度測位(ToF) - 0.3MP
 
 #### カメラ概要
 
-「Space Zoom」として、S20とS20+は3倍ハイブリッド光学[ズーム](../Page/ズーム.md "wikilink")・30倍超解像デジタルズームに対応。S20 Ultraは10倍ハイブリッド光学ズーム・100倍超解像デジタルズームに対応する。また、[8K](https://ja.wikipedia.org/wiki/8K "wikilink")ビデオ撮影に全モデルで対応している。ビデオ内から33MPのスチール写真を取り出すことも可能。ワンタップで複数の動画や画像、[GIF](https://ja.wikipedia.org/wiki/GIF "wikilink")画像を撮影する「Single Take」機能を新しく搭載する。Super Steady（光学式[手ブレ補正](https://ja.wikipedia.org/wiki/手ブレ補正 "wikilink")）とナイトモードは、より強化されている。シーン判別機能、ショット提案機能、ライブフォーカス（背景ボケ）機能、プロモード、スーパースローモーション、ハイパーラプス、ズームインマイク機能、Bixby Vision、パノラマモード、Instagramモード、AR Doodle、AR Emoji、3Dスキャナー機能なども引き続き搭載。その他、[Android 9 Pie](../Page/Android.md "wikilink")・[One UIで廃止となったビデオのプロモードが復活し](https://ja.wikipedia.org/wiki/Galaxy#One_UI "wikilink")、ビデオ撮影時に細かい調整を施せるようになった。F値切り替え機構（デュアルアパチャー）はナイトモードの強化により、今回は搭載されていない。
+「Space Zoom」として、S20とS20+は3倍ハイブリッド光学[ズーム](../Page/ズーム.md "wikilink")・30倍超解像デジタルズームに対応。S20 Ultraは10倍ハイブリッド光学ズーム・100倍超解像デジタルズームに対応する。また、[8K](https://ja.wikipedia.org/wiki/8K "wikilink")ビデオ撮影に全モデルで対応している。ビデオ内から33MPのスチール写真を取り出すことも可能。ワンタップで複数の動画や画像、[GIF](https://ja.wikipedia.org/wiki/GIF "wikilink")画像を撮影する「Single Take」機能を新しく搭載する。Super Steady（光学式[手ブレ補正](https://ja.wikipedia.org/wiki/手ブレ補正 "wikilink")）とナイトモードは、より強化されている。シーン判別機能、ショット提案機能、ライブフォーカス（背景ボケ）機能、プロモード、スーパースローモーション、ハイパーラプス、ズームインマイク機能、Bixby Vision、パノラマモード、Instagramモード、AR Doodle、AR Emoji、3Dスキャナー機能なども引き続き搭載。その他、[Android 9 Pie](../Page/Android.md "wikilink")・[One UIで廃止となったビデオのプロモードが復活し](https://ja.wikipedia.org/wiki/Galaxy#One_UI "wikilink")、ビデオ撮影時に細かい調整を施せるようになった。F値切り替え機構（デュアルアパチャー）はナイトモードの強化により、今回は搭載されていない。その他、新たに4K UHD動画を撮影中にアウトカメラとインカメラの切り替えが可能になった。ギャラリーアプリでは、[検索](../Page/検索.md "wikilink")機能の強化や写真を探しやすくするクリーンビュー機能、自分でフィルターをつくって好きな画像に反映させることができるカスタムフィルター機能、お気に入りの画像や動画からビデオクリップを作成するハイライトリール機能、シミや細かい汚れを消せるSpot Fixer機能などが搭載されるなど、各方面で機能追加・強化が行われた。
 
 ### 音響・レコーディング
 
@@ -214,7 +214,7 @@ Galaxy S20+ 5G Olympic Games Edition</caption>
 
 ### モデル展開とキャンペーン
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては[ドコモ](https://ja.wikipedia.org/wiki/ドコモ "wikilink")と[KDDI](../Page/KDDI.md "wikilink")（各[au](https://ja.wikipedia.org/wiki/au "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）が、[5G対応スマートフォンとしてGalaxy](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink") S20│S20+を投入する。また、(予約)・購入・ウェブ応募でGalaxy Buds+がもらえるキャンペーンも実施した。[楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")は未発表。なお、Galaxy S20 Ultraは国内発表されていない。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては[ドコモ](https://ja.wikipedia.org/wiki/ドコモ "wikilink")と[KDDI](../Page/KDDI.md "wikilink")（各[au](https://ja.wikipedia.org/wiki/au "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）が、[5G対応スマートフォンとしてGalaxy](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink") S20│S20+を投入する。また、(予約)・購入・ウェブ応募でGalaxy Buds+がもらえるキャンペーンも実施した。[楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")は未発表。なお、Galaxy S20 Ultraは国内発表されていない。（Galaxy S20シリーズが販売される130以上の国と地域で、Galaxy S20 Ultraを販売しないのは日本のみ\[12\]。）
 
 ### 販売状況
 
@@ -224,7 +224,7 @@ Galaxy S20+は5月下旬に発売予定。
 
 ### 東京2020オリンピック関連展開
 
-[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")特別モデル「Galaxy S20+ 5G Olympic Games Athlete Edition」が関係者やアスリート向けに配布される見込み\[12\]。また、これとほぼ同仕様となる「Galaxy S20+ 5G Olympic Games Edition」はNTTドコモから発売予定。
+[2020年東京オリンピック](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")特別モデル「Galaxy S20+ 5G Olympic Games Athlete Edition」が関係者やアスリート向けに配布される見込み\[13\]。また、これとほぼ同仕様となる「Galaxy S20+ 5G Olympic Games Edition」はNTTドコモから発売予定。
 
 ## 脚注
 
@@ -262,4 +262,5 @@ Galaxy S20+は5月下旬に発売予定。
 9.  [Galaxy S20のAirDrop風機能、他デバイスでも近日中に使えるよ](https://www.gizmodo.jp/2020/02/galaxy-s20-quick-share.html//) *Gizmodo Japan*、2020年3月1日閲覧。
 10. [サムスンの最新スマホ「Galaxy S20」　世界各地で発売](https://m-jp.yna.co.kr/view/AJP20200306001700882//) *聯合ニュース*、2020年3月8日閲覧。
 11. [Galaxy S20は5G版だけじゃない\!? 一部地域用の4G専用版が予約ページから判明](https://japanese.engadget.com/jp-2020-02-13-galaxy-s20-5g-4g.html//) *Engadget Japanese*、2020年3月1日閲覧。
-12. [「Galaxy S20+ 5G」に東京オリンピックのアスリート限定配布モデル](https://japanese.engadget.com/jp-2020-02-11-galaxy-s20-5g.html//) *Engadget Japanese*、2020年3月1日閲覧。
+12. [「100倍ズームが使いたい」Galaxy S20 Ultraの日本発売を熱烈希望：山根博士のスマホよもやま話](https://japanese.engadget.com/jp-2020-03-26-100-galaxy-s20-ultra.html//) ''Engadget Japanese ''、2020年4月7日閲覧。
+13. [「Galaxy S20+ 5G」に東京オリンピックのアスリート限定配布モデル](https://japanese.engadget.com/jp-2020-02-11-galaxy-s20-5g.html//) *Engadget Japanese*、2020年3月1日閲覧。

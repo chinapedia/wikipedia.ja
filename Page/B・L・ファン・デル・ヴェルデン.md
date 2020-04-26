@@ -7,7 +7,7 @@
 
 ### 教育、初期の経歴
 
-1919年から1926年まで[アムステルダム大学](../Page/アムステルダム大学.md "wikilink")と[ゲッティンゲン大学で高等数学を学んだ](../Page/ゲオルク・アウグスト大学ゲッティンゲン.md "wikilink")。[ゲッティンゲン](../Page/ゲッティンゲン.md "wikilink")では[エミー・ネーター](https://ja.wikipedia.org/wiki/エミー・ネーター "wikilink")から多大な影響を受けた。Hendrick de Vriesの指導の下[代数幾何学](../Page/代数幾何学.md "wikilink")の論文でアムステルダム大学からPh.D.を授与された\[1\]。ゲッティンゲン大学からは1928年に[ハビリテーション](https://ja.wikipedia.org/wiki/ハビリテーション "wikilink")を授与された。その年、25歳で[フローニンゲン大学](https://ja.wikipedia.org/wiki/フローニンゲン大学 "wikilink")の教授職を得た。
+1919年から1926年まで[アムステルダム大学](../Page/アムステルダム大学.md "wikilink")と[ゲッティンゲン大学で高等数学を学んだ](../Page/ゲオルク・アウグスト大学ゲッティンゲン.md "wikilink")。[ゲッティンゲン](../Page/ゲッティンゲン.md "wikilink")では[エミー・ネーター](https://ja.wikipedia.org/wiki/エミー・ネーター "wikilink")から多大な影響を受けた。Hendrick de Vriesの指導の下[代数幾何学](../Page/代数幾何学.md "wikilink")の論文でアムステルダム大学からPh.D.を授与された\[1\]。ゲッティンゲン大学からは1928年に[ハビリテーション](https://ja.wikipedia.org/wiki/ハビリテーション "wikilink")を授与された。その年、25歳で[フローニンゲン大学](../Page/フローニンゲン大学.md "wikilink")の教授職を得た。
 
 27歳の時、[抽象代数学](../Page/抽象代数学.md "wikilink")に関する影響力のある2巻の論文Moderne Algebraを発表した。この著作は現在でも引用されており、おそらくこの主題を包括的に扱った最初の論文である。この研究は[エミー・ネーター](https://ja.wikipedia.org/wiki/エミー・ネーター "wikilink")、[ダフィット・ヒルベルト](../Page/ダフィット・ヒルベルト.md "wikilink")、[リヒャルト・デデキント](../Page/リヒャルト・デーデキント.md "wikilink")、[エミール・アルティン](https://ja.wikipedia.org/wiki/エミール・アルティン "wikilink")による広範な研究を体系化した。翌年の1931年には[ライプツィヒ大学](../Page/ライプツィヒ大学.md "wikilink")の教授に任命された。
 

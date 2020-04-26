@@ -153,7 +153,7 @@ Choi San</p></td>
 <td><p>ボーカル</p></td>
 <td><p>1999年7月10日</p></td>
 <td><p>B型</p></td>
-<td><p>173cm</p></td>
+<td><p>175cm[44]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南海郡" title="wikilink">南海郡</a></p></td>
 </tr>
 <tr class="even">
@@ -173,7 +173,7 @@ Jung Woo Young</p></td>
 <td><p>パフォーマンス、ボーカル</p></td>
 <td><p>1999年11月26日</p></td>
 <td><p>A型</p></td>
-<td><p>172cm</p></td>
+<td><p>173cm[45]</p></td>
 <td><p><a href="../Page/高陽市.md" title="wikilink">高陽市</a></p></td>
 </tr>
 <tr class="even">
@@ -189,7 +189,7 @@ Choi Jong Ho</p></td>
 </tbody>
 </table>
 
-## ディスコグラフィー\[44\]\[45\]
+## ディスコグラフィー\[46\]\[47\]
 
 ### フルアルバム
 
@@ -328,3 +328,5 @@ AURORA -</p></td>
 43.
 44.
 45.
+46.
+47.

@@ -13,11 +13,25 @@
 
 2019年6月公開の『[新聞記者](https://ja.wikipedia.org/wiki/新聞記者 "wikilink")』をプロデュースした[河村光庸](https://ja.wikipedia.org/wiki/河村光庸 "wikilink")が、企画製作、エグゼクティヴプロデューサーを務めた。
 
+## スタッフ
+
+  - 監督：[森達也](https://ja.wikipedia.org/wiki/森達也 "wikilink")
+  - 企画・製作・エグゼクティブプロデューサー：[河村光庸](https://ja.wikipedia.org/wiki/河村光庸 "wikilink")
+  - プロデューサー：石山成人、飯田雅裕
+  - 監督補：小松原茂幸
+  - 撮影：小松原茂幸、[森達也](https://ja.wikipedia.org/wiki/森達也 "wikilink")
+  - 編集：鈴尾啓太
+  - オンラインエディター：池田聡
+  - ミキサー：富永憲一
+  - 音楽：MARTIN
+  - 制作・配給：スターサンズ
+  - 製作：『i ―新聞記者ドキュメント―』製作委員会（スターサンズ、[朝日新聞社](../Page/朝日新聞社.md "wikilink")）
+
 ## 出演者
 
 ## 評価
 
-  - 第32回[東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink") 日本映画スプラッシュ部門 作品賞
+  - 第32回[東京国際映画祭](../Page/東京国際映画祭.md "wikilink") 日本映画スプラッシュ部門 作品賞
   - 第93回[キネマ旬報ベスト・テン](https://ja.wikipedia.org/wiki/キネマ旬報ベスト・テン "wikilink") 文化映画ベスト\*テン第1位
   - 日本映画ペンクラブ賞 文化映画部門2019年ベスト1
 

@@ -13,7 +13,8 @@
 <thead>
 <tr class="header">
 <th><p>名前</p></th>
-<th><p>愛称</p></th>
+<th><p>よみ</p></th>
+<th><p>担当色</p></th>
 <th><p>誕生日</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -21,37 +22,43 @@
 <tbody>
 <tr class="odd">
 <td><p>池田あおい</p></td>
-<td><p>あーちゃん</p></td>
+<td><p>いけだあおい</p></td>
+<td><p>白</p></td>
 <td></td>
 <td><p>2018年1月7日TOKYO PiXiONに加入。</p></td>
 </tr>
 <tr class="even">
 <td><p>斉藤なな</p></td>
-<td><p>なーちゃん</p></td>
+<td><p>さいとうなな</p></td>
+<td><p>赤</p></td>
 <td></td>
-<td><p>2018年1月7日TOKYO PiXiONに加入。</p></td>
+<td><p>2018年1月7日TOKYO PiXiONに加入。2020年4月19日『buGGってまざれっ</p></td>
 </tr>
 <tr class="odd">
 <td><p>清水凛</p></td>
-<td><p>りんてゃ</p></td>
+<td><p>しみずりん</p></td>
+<td><p>ピンク</p></td>
 <td></td>
 <td><p>2018年5月23日TOKYO PiXiONに加入。</p></td>
 </tr>
 <tr class="even">
 <td><p>鈴木媛子</p></td>
-<td><p>ちめこ</p></td>
+<td><p>すずきひめこ</p></td>
+<td><p>黄色</p></td>
 <td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/PPP!_PiXiON" title="wikilink">PPP! PiXiON</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>早見玲花</p></td>
-<td><p>はやみぃ</p></td>
+<td><p>はやみれいか</p></td>
+<td><p>紫</p></td>
 <td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/PPP!_PiXiON" title="wikilink">PPP! PiXiON</a></p></td>
 </tr>
 <tr class="even">
 <td><p>町田つむぎ</p></td>
-<td><p>つむつむ</p></td>
+<td><p>まちだつむぎ</p></td>
+<td><p>黒</p></td>
 <td></td>
 <td><p>2018年1月7日TOKYO PiXiONに加入。</p></td>
 </tr>

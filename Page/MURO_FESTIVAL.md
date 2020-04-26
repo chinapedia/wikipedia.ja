@@ -544,7 +544,7 @@ MURO FESTIVAL 2016 "後夜祭"
 <li><a href="https://ja.wikipedia.org/wiki/ghostnote" title="wikilink">ghostnote</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CHERRY_NADE_169" title="wikilink">CHERRY NADE 169</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Nina_lovegood" title="wikilink">Nina lovegood</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BARICANG" title="wikilink">BARICANG</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HISTGRAM" title="wikilink">HISTGRAM</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Blondie_Plastic_Wagon" title="wikilink">The Blondie Plastic Wagon</a></li>
@@ -643,7 +643,7 @@ MURO FESTIVAL 2016 "後夜祭"
 <li><a href="https://ja.wikipedia.org/wiki/SUPER_BEAVER" title="wikilink">SUPER BEAVER</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/folca" title="wikilink">folca</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ジラフポット" title="wikilink">ジラフポット</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/WOMCADOLE" title="wikilink">WOMCADOLE</a></li>
@@ -752,7 +752,7 @@ MURO FESTIVAL 2017 "後夜祭"
 <li><a href="https://ja.wikipedia.org/wiki/Saucy_Dog" title="wikilink">Saucy Dog</a></li>
 <li><a href="../Page/LUNKHEAD.md" title="wikilink">LUNKHEAD</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Brian_the_Sun" title="wikilink">Brian the Sun</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Rhythmic_Toy_World" title="wikilink">Rhythmic Toy World</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/LEGO_BIG_MORL" title="wikilink">LEGO BIG MORL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/WEAVER" title="wikilink">WEAVER</a></li>
@@ -959,7 +959,7 @@ SHIBUYA O-Crest</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/TOTALFAT" title="wikilink">TOTALFAT</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Hump_Back" title="wikilink">Hump Back</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SIX_LOUNGE" title="wikilink">SIX LOUNGE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ" title="wikilink">ハルカミライ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ハルカミライ_(バンド)" title="wikilink">ハルカミライ</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ABSTRACT_MASH" title="wikilink">ABSTRACT MASH</a></li>

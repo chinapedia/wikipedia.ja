@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作『[NONA REEVES](https://ja.wikipedia.org/wiki/NONA_REEVES_\(ノーナ・リーヴスのアルバム\) "wikilink")』から約10か月ぶりのオリジナル・アルバムとして、[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[A\&R ZEROより発売された](../Page/日本コロムビア.md "wikilink")。
+前作『[NONA REEVES](../Page/NONA_REEVES_\(ノーナ・リーヴスのアルバム\).md "wikilink")』から約10か月ぶりのオリジナル・アルバムとして、[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[A\&R ZEROより発売された](../Page/日本コロムビア.md "wikilink")。
 
 ## 収録曲
 

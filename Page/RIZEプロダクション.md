@@ -25,7 +25,7 @@
 
 08月31日 [loop](https://ja.wikipedia.org/wiki/loop "wikilink")活動休止の報告。\[2\]
 
-09月18日 [loop](https://ja.wikipedia.org/wiki/loop "wikilink")活動休止。
+09月18日 loop活動休止。
 
 ## 特徴
 
@@ -70,38 +70,6 @@
 ## 外部リンク
 
   - [ライズプロダクション official web site](http://rizepro.net/)
-
-<!-- end list -->
-
-  - [FES☆TIVE 公式Webサイト](http://festive.rizepro.net)
-
-<!-- end list -->
-
-  - [loop 公式ブログ](http://ameblo.jp/loop-o/)
-
-<!-- end list -->
-
-  - [FES☆TIVE 公式ブログ](http://ameblo.jp/festive-rize/)
-
-<!-- end list -->
-
-  - [キャンディzoo 公式ブログ](http://ameblo.jp/candyzoo-rize/)
-
-<!-- end list -->
-
-  - [にじいろ学園SEASON4 公式ブログ](http://ameblo.jp/nijiirogakuen/)
-
-<!-- end list -->
-
-  - [FES☆TIVE Twitter](https://twitter.com/festiveofficial)
-
-<!-- end list -->
-
-  - [キャンディzoo Twitter](https://twitter.com/candyzoo_rize)
-
-<!-- end list -->
-
-  - [にじいろ学園SEASON4 Twitter](https://twitter.com/nijiirogakuen)
 
 [Category:音楽プロダクション](https://ja.wikipedia.org/wiki/Category:音楽プロダクション "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:2011年設立の企業](https://ja.wikipedia.org/wiki/Category:2011年設立の企業 "wikilink")
 

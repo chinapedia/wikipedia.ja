@@ -13,7 +13,7 @@
 
 金曜日が[国民の祝日](../Page/国民の祝日.md "wikilink")にあたる場合、『[TOKYO FM ホリデースペシャル](https://ja.wikipedia.org/wiki/TOKYO_FM_ホリデースペシャル "wikilink")』放送のため番組が休止になる事もあり、2019年5月3日（[憲法記念日](../Page/憲法記念日.md "wikilink")）と2020年3月20日（[春分の日](../Page/春分の日.md "wikilink")）は番組が休止になった。
 
-2020年3月13日の放送で、3月27日をもって番組が終了する事を発表され同日に終了した。
+2020年3月13日の放送で、3月27日をもって番組が終了する事を発表され同日に終了した。終了後は15時台・16時台に移動し『[TOKYO TEPPAN FRIDAY](https://ja.wikipedia.org/wiki/TOKYO_TEPPAN_FRIDAY "wikilink")』と改めてスタート。中西がパーソナリティを続投し、ゼビオ提供のコーナーとフロンターレリクエストを引き継いだ。
 
 ## 出演者
 
@@ -92,6 +92,6 @@
   - [TOKYO SPORTS GOOD](https://www.tfm.co.jp/tspg/)
 
   -
-[Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:2019年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオのスポーツ番組‎](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのスポーツ番組‎ "wikilink")
+[Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:2019年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオのスポーツ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのスポーツ番組 "wikilink")
 
 1.  なお、クロノスの金曜日も中西が担当していた時は金曜日のみ『素敵な、週末を。』と締めていた。

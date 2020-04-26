@@ -17,8 +17,9 @@
 
   - [ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")
   - [Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink")
-      - [Xperia 1 II](../Page/Xperia_1_II.md "wikilink")
-      - [Xperia 10 II](../Page/Xperia_10_II.md "wikilink")
+      - [Xperia 1](https://ja.wikipedia.org/wiki/Xperia_1 "wikilink")-プレミアムフラッグシップモデル
+      - [Xperia 1 II](../Page/Xperia_1_II.md "wikilink")-Xperia 1の継続機
+      - [Xperia 10 II](../Page/Xperia_10_II.md "wikilink")-Xperia 10の継続機
 
 ## 外部リンク
 

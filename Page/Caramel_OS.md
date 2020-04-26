@@ -1,40 +1,48 @@
 > この記事は[Caramel OS](https://ja.wikipedia.org/wiki/Caramel_OS)から翻訳されています。
 
 
-Caramel OSは、[Ubuntu](../Page/Ubuntu.md "wikilink")またはUpper Linuxをベースとした[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の一つである。 [代替文=Caramel OSデスクトップ](https://ja.wikipedia.org/wiki/ファイル:Caramelos-desktop.png "wikilink") [コンセプト](https://ja.wikipedia.org/wiki/コンセプト "wikilink")は、「美味しくて可愛いOS」である。 [代替文=Caramel OS公式ロゴ](https://ja.wikipedia.org/wiki/ファイル:Caramel_logo.png "wikilink")
+
+[代替文=Caramel OS公式ロゴ](https://ja.wikipedia.org/wiki/ファイル:Caramel_logo.png "wikilink")
+
+Caramel OSは、[Ubuntu](../Page/Ubuntu.md "wikilink")をベースに日本で開発されている[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")。
 
 ## 概要
 
-  - 開発元:[ときえのき](https://jikantoki.xyz)
-      - 2003年1月6日生まれ
-      - 高校生の頃にCaramel OSとUpper Linuxを作成
-      - [ボカロP](https://ja.wikipedia.org/wiki/ボカロP "wikilink")としての活動もある
-  - パッケージ管理システム:deb形式（Debianから）
-  - 動作プラットフォーム:amd64、x86-64
+初心者にも上級者にも使い勝手がよいディストリビューションを目指して開発が始められた。
 
-## 特徴
+2020年現在、Caramel OS 1.0 が最新バージョンとなり、初の安定版としてリリースされた。
 
-Xfceデスクトップを採用。
+最初から主要なアプリケーションに加え、PythonやC言語のライブラリもプリインストールされており、インストール直後から日本語入力に対応しているなどLinux初心者から上級者が手軽に利用可能とされる。その一方[APT](../Page/APT.md "wikilink")を利用してDebianやUbuntuの豊富なパッケージが利用可能であるとの利点も備える。
 
-これまでにない快適な作業が可能。
+## リリース
 
-美味しくて可愛い。
+主なリリースを以下に列挙する。
+
+| 主なバージョン | リリース日      | 主な変更点                                                          |
+| ------- | ---------- | -------------------------------------------------------------- |
+| 0.1     | 2020年3月1日  | Ubuntu（Basix）をベースにした初回リリース版\[1\]                               |
+| 0.2     | 2019年3月8日  | Xubuntuベースに変更、Caramel Launcher がGUI化\[2\]                      |
+| 1.0     | 2020年4月14日 | 起動音をGUI上で変更可能に、アップデートができるようになると、差分ファイルで自動でダウンロードして適用するように\[3\] |
+
+　
 
 ## 環境
 
-[Xfce](../Page/Xfce.md "wikilink")4、Whiskerメニュー、Plankが基本のUIとなっている。
+[Xfce](../Page/Xfce.md "wikilink")4、Whiskerメニュー、Plankが基本のUI
 
-テーマはオリジナルのものを採用しており、全体的に明るくて見やすい印象である。
+テーマはオリジナル
 
-ログイン画面は[LightDM](https://ja.wikipedia.org/wiki/LightDM "wikilink")を使用しており、軽快に動作する。
+ログイン画面は[LightDM](https://ja.wikipedia.org/wiki/LightDM "wikilink")を使用
 
-## 歴史
+## 脚注
 
-2020年3月1日 [公式ホームページ](https://caramelos.xyz)、Caramel OS発足。バージョン0.1がリリースされる。
+
+
+<references responsive="" />
 
 ## 関連
 
-[Upper Linux](https://ja.wikipedia.org/wiki/Upper_Linux "wikilink") - [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式の後継OS。[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")の[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")を作成できる[ソフトウェア](../Page/ソフトウェア.md "wikilink")が収録されており、Lubuntuに近い環境で動作する。
+[Upper Linux](https://ja.wikipedia.org/wiki/Upper_Linux "wikilink") - [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式 後継OS
 
 ## 外部リンク
 
@@ -47,3 +55,7 @@ Caramel OS公式ダウンロードリンク <https://caramelos.xyz/download>
 ときえのきTwitter <https://caramelos.xyz/twitter>
 
 [Category:Linuxディストリビューション](https://ja.wikipedia.org/wiki/Category:Linuxディストリビューション "wikilink") [Category:Linux](https://ja.wikipedia.org/wiki/Category:Linux "wikilink") [Category:オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:オペレーティングシステム "wikilink") [Category:ソフトウェア](https://ja.wikipedia.org/wiki/Category:ソフトウェア "wikilink")
+
+1.
+2.
+3.

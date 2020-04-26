@@ -39,7 +39,7 @@
 
 ## 技術仕様
 
-[Datamatrix-modulecolours.png](https://ja.wikipedia.org/wiki/File:Datamatrix-modulecolours.png "fig:Datamatrix-modulecolours.png") データマトリックスシンボルは、境界ファインダーとタイミングパターン内に配置されたモジュールで構成される。[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")文字コード全体（拡張子付き）から最大3,116文字をエンコードできる。シンボルは、通常の配列で設定されたモジュールを含むデータ領域で構成されて、大きなシンボルにはいくつかの領域が含まれる。各データ領域はファインダーパターンで区切られ、4辺すべてがクワイエットゾーンの境界（マージン）で囲まれている。
+[Datamatrix-modulecolours.png](https://ja.wikipedia.org/wiki/File:Datamatrix-modulecolours.png "fig:Datamatrix-modulecolours.png") データマトリックスシンボルは、境界ファインダーとタイミングパターン内に配置されたモジュールで構成される。[ASCII](../Page/ASCII.md "wikilink")文字コード全体（拡張子付き）から最大3,116文字をエンコードできる。シンボルは、通常の配列で設定されたモジュールを含むデータ領域で構成されて、大きなシンボルにはいくつかの領域が含まれる。各データ領域はファインダーパターンで区切られ、4辺すべてがクワイエットゾーンの境界（マージン）で囲まれている。
 
 なお、モジュールは円形または正方形の場合があり、標準では特定の形状は定義されていない。たとえば、ドットでピーニングされたセルは通常円形。
 

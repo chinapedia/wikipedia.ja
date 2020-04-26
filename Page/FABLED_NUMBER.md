@@ -796,7 +796,7 @@ CRCP-10398:通常盤</p></td>
   - 2018年09月13日 - wata presents 【TRUST YOUR SOULS】 FREEDOM NAGOYA EXTRA
   - 2018年09月14日 - SWANKY PLAYGROUND 2018
   - 2018年09月17日 - TOKYO CALLING 2018
-  - 2018年010月20日 - BLACK by VANQUISH PRESENTS"INTERZONE vol.1" FABLED NUMBER
+  - 2018年10月20日 - BLACK by VANQUISH PRESENTS "INTERZONE vol.1" FABLED NUMBER
   - 2018年11月03日 - 「Hook Up\!\!vol.2」 × 「魔法少女になりな祭」 special
   - 2018年11月10日・15日・16日 - [オメでたい頭でなにより](https://ja.wikipedia.org/wiki/オメでたい頭でなにより "wikilink")「東名阪3マンスプリットツアー『幸三昧2018』」
   - 2018年11月17日 - SHIMOKITAZAWA SNAZZY TUNES

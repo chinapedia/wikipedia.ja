@@ -5,7 +5,7 @@
 
 ## 概要
 
-美容系、チャレンジ系などを中心に動画投稿している女性YouTuber。日本の女性YouTuberの中でもトップクラスの美人である。2020年3月現在、YouTubeチャンネル登録者80万人突破\[3\]。
+美容系、チャレンジ系などを中心に動画投稿している女性YouTuber。2020年3月現在、YouTubeチャンネル登録者80万人突破\[3\]。
 
 [スカイピース](https://ja.wikipedia.org/wiki/スカイピース "wikilink")（テオくん、☆イニ☆（じん））、[まあたそ](../Page/まあたそ.md "wikilink")、かすの4人で青春しゅわしゅわクラブ（通称青ラブ）というギルドを結成し、歌などにも挑戦する。
 
@@ -26,7 +26,7 @@
   -
   -
   -
-[Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink")
+[Category:日本の女性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の女性YouTuber "wikilink") [Category:1997年生](https://ja.wikipedia.org/wiki/Category:1997年生 "wikilink")
 
 1.
 2.   Twitter|url=[https://twitter.com/kasu_ps?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor|website=twitter.com|accessdate=2020-03-10|language=ja](https://twitter.com/kasu_ps?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor%7Cwebsite=twitter.com%7Caccessdate=2020-03-10%7Clanguage=ja)}}

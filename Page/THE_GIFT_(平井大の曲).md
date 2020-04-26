@@ -84,6 +84,11 @@
 
   - [東宝](../Page/東宝.md "wikilink")配給系[アニメ映画](../Page/アニメーション映画.md "wikilink")『[ドラえもん のび太の月面探査記](https://ja.wikipedia.org/wiki/ドラえもん_のび太の月面探査記 "wikilink")』[主題歌](../Page/主題歌.md "wikilink") (\#1)
 
+## 収録アルバム
+
+  - [THE GIFT](https://ja.wikipedia.org/wiki/THE_GIFT_\(平井大のアルバム\) "wikilink") (\#1)
+  - 映画ドラえもん うたの大全集 (\#1)
+
 ## 脚注
 
 ## 外部リンク

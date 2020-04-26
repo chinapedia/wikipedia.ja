@@ -15,7 +15,7 @@
 
 ドライバーは[カルロス・サインツJr.](https://ja.wikipedia.org/wiki/カルロス・サインツJr. "wikilink")と[ランド・ノリス](https://ja.wikipedia.org/wiki/ランド・ノリス "wikilink")のコンビを継続。
 
-開幕戦となる予定だった[オーストラリアGPはスタッフが](https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ "wikilink")[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")に感染したことによりレースから撤退した\[6\]。これを受け、同GPは中止となった\[7\]。
+開幕戦となる予定だった[オーストラリアGPはスタッフが](../Page/2020年オーストラリアグランプリ.md "wikilink")[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")に感染したことによりレースから撤退した\[6\]。これを受け、同GPは中止となった\[7\]。
 
 ## スペック
 
@@ -110,7 +110,7 @@
 <td></td>
 <td><p>55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・サインツJr." title="wikilink">サインツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
+<td><p><a href="../Page/2020年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
 WD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
 -</p></td>
@@ -140,7 +140,7 @@ WD</p></td>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ランド・ノリス" title="wikilink">ノリス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
+<td><p><a href="../Page/2020年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
 WD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
 -</p></td>
@@ -192,7 +192,7 @@ WD</p></td>
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")
   - <sup>†</sup> 印はリタイアだが、90%以上の距離を走行したため規定により完走扱い。
   - <sup>\*</sup> : 今シーズンのポイント及び順位（現時点）。
-  - オーストラリアGPはスタッフが[新型コロナウイルスに](../Page/2019新型コロナウイルス.md "wikilink")[感染したため撤退](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")\[9\]。これを受けてレース自体が中止となった\[10\]。
+  - オーストラリアGPはスタッフが[新型コロナウイルスに](../Page/2019新型コロナウイルス.md "wikilink")[感染したため撤退](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")\[9\]。これを受けてレース自体が中止となった\[10\]。
   - <sup>‡</sup> 中国GPは新型コロナウイルスの感染拡大により延期\[11\]。
 
 ## 脚注

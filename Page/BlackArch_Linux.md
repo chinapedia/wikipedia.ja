@@ -1,17 +1,17 @@
 > この記事は[BlackArch Linux](https://ja.wikipedia.org/wiki/BlackArch_Linux)から翻訳されています。
 
 
-**BlackArch Linux**はArch linux の派生[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")。大量のサイバーセキュリティツールを提供するArch Linuxに基づく侵入テスト ディストリビューション。これは、侵入テストおよびセキュリティ研究者向けに特別に作成されたオープンソースのディストリビューションです。リポジトリには、個別またはグループでインストールできる2400以上のツールが含まれています。BlackArch Linuxは、既存のArch Linuxインストールと互換性がある\[1\]。
+**BlackArch Linux**は [Arch linux](https://ja.wikipedia.org/wiki/Arch_linux "wikilink") の派生[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")であり、侵入テストおよびセキュリティ研究者向けに特別に開発されたオープンソースのディストリビューションである。リポジトリには、個別またはグループでインストールできる2400以上のツールが含まれている。BlackArch Linuxは、既存のArch Linuxインストールと互換性がある\[1\]。
 
 しかし、その反面、ほかのペネトレーション用OSより利用者が少なく、インストールが困難なためlive CD などからの起動に向いている。
 
-## 概要
+# 概要
 
-Black Archは、完全にインストールされた場合のParrot OSとKali Linuxの両方の使用に似ています。ただし、他のディストリビューションとBlackArchの重要な違いは、BlackArchがデスクトップ環境を提供しないが、事前設定された多くのWindow Managerを提供することです。KaliやParrotと同様に、BlackArchはISOイメージに書き込み、ライブシステムとして実行できます\[2\]。
+Black Archは、完全にインストールされた場合のParrot OSとKali Linuxの両方に類似している。ただし、他のディストリビューションとBlackArchの重要な違いは、BlackArchはデスクトップ環境を提供しないが、事前設定された多くのWindow Managerを提供することである。KaliやParrotと同様に、BlackArchはISOイメージに書き込み、ライブシステムとして実行することができる\[2\]。
 
-## パッケージ
+# パッケージ
 
-BlackArchには現在、2428個のパッケージとツール、およびそれらの依存関係が含まれています\[3\]\[4\]。 BlackArchは、これらのツールの実行に必要なパッケージと依存関係を追加する少数のサイバーセキュリティの専門家と研究者によって開発されています。
+BlackArchには現在、2428個のパッケージとツール、およびそれらの依存関係が含まれている\[3\]\[4\]。 BlackArchは、これらのツールの実行に必要なパッケージと依存関係を追加する少数のサイバーセキュリティの専門家と研究者によって開発されている。
 
 ## 参照
 

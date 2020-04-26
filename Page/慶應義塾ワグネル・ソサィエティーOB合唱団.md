@@ -22,7 +22,7 @@
   - [慶應義塾ワグネル・ソサィエティー男声合唱団](https://www.wagner-society.org/)
   - [慶應連合三田会](http://www.rengo-mitakai.keio.ac.jp/)
 
-[Category:東京都の合唱団](https://ja.wikipedia.org/wiki/Category:東京都の合唱団 "wikilink") [Category:男声合唱団](https://ja.wikipedia.org/wiki/Category:男声合唱団 "wikilink") [Category:慶應義塾大学](https://ja.wikipedia.org/wiki/Category:慶應義塾大学 "wikilink") [Category:1953年設立の組織](https://ja.wikipedia.org/wiki/Category:1953年設立の組織 "wikilink")
+[Category:東京都の合唱団](https://ja.wikipedia.org/wiki/Category:東京都の合唱団 "wikilink") [Category:男声合唱団](https://ja.wikipedia.org/wiki/Category:男声合唱団 "wikilink") [Category:慶應義塾大学](https://ja.wikipedia.org/wiki/Category:慶應義塾大学 "wikilink") [Category:1953年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1953年に結成した音楽グループ "wikilink")
 
 1.
 2.

@@ -18,19 +18,19 @@ ORICON NEWS|accessdate= 2020-03-04}}</ref> | Certification = | Last single = [GO
 
 1.  **POWER GIRLS**
 2.  **NO MORE\!**
-3.  **POWER GIRLS (Instrumental)**
-4.  **NO MORE\! (Instrumental)**
+3.  POWER GIRLS (Instrumental)
+4.  NO MORE\! (Instrumental)
 
 **DISC-2 DVD**
 
-1.  **POWER GIRLS** (Music Video)
+1.  POWER GIRLS (Music Video)
 
 ### 【CD ONLY】
 
-1.  **POWER GIRLS**
-2.  **NO MORE\!**
-3.  **POWER GIRLS (Instrumental)**
-4.  **NO MORE\! (Instrumental)**
+1.  POWER GIRLS
+2.  NO MORE\!
+3.  POWER GIRLS (Instrumental)
+4.  NO MORE\! (Instrumental)
 
 ## 脚注
 

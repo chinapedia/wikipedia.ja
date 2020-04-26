@@ -11,13 +11,17 @@
 
 ### インターネット配信
 
-  - [Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")（パート 1 (2020年1月31日 - 3月27日)、毎週金曜日、22:00～配信）
+  - [Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")（パート 1 (2020年1月31日 - 3月27日)/パート２（2020年4月24日 - ）、毎週金曜日、22:00～配信）
   - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")（2020年3月6日 - 、毎週金曜日、19:00～配信）- 1話を前編・後編に分けてグローバル（世界）公開。
 
 ### テレビ放送
 
   - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（日本テレビ系）- 特集企画として定期的に放送
   - [Hulu傑作シアター](https://ja.wikipedia.org/wiki/Hulu傑作シアター "wikilink")（2020年3月7日 - 、毎週土曜日、25:30～、関東ローカル・日本テレビ系）- ダイジェスト版を放送
+
+<!-- end list -->
+
+  - 虹のかけ橋（2020年4月17日 - 、日本テレビ系）「Nizi Project」を追うオーディションバラエティ
 
 ### 配信日程
 
@@ -34,6 +38,11 @@
 | 第8話               |
 | 第9話               |
 | 第10話(最終話)         |
+
+| Nizi Project パート2 |
+| ----------------- |
+| EP                |
+| 第1話               |
 
 ### YouTube配信
 
@@ -88,23 +97,54 @@
 <li>[<a href="https://www.youtube.com/watch?v=H_sWL7Qlv2k">https://www.youtube.com/watch?v=H_sWL7Qlv2k</a>　Part 1 #5-2]</li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>第6話</p></td>
+<td><p>2020年4月3日</p></td>
+<td><ul>
+<li>[<a href="https://www.youtube.com/watch?v=98ifQUC27Kk">https://www.youtube.com/watch?v=98ifQUC27Kk</a>　Part 1 #6-1]</li>
+<li>[<a href="https://www.youtube.com/watch?v=A4g0SnZDbv0">https://www.youtube.com/watch?v=A4g0SnZDbv0</a>　Part 1 #6-2]</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
+<td><p>2020年4月10日</p></td>
+<td><ul>
+<li>[<a href="https://www.youtube.com/watch?v=RNeC1T_EAL8">https://www.youtube.com/watch?v=RNeC1T_EAL8</a>　Part 1 #7-1]</li>
+<li>[<a href="https://www.youtube.com/watch?v=yap_EmZYyMY">https://www.youtube.com/watch?v=yap_EmZYyMY</a>　Part 1 #7-2]</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
+<td><p>2020年4月17日</p></td>
+<td><ul>
+<li>[<a href="https://www.youtube.com/watch?v=_2tsfo1l_xk">https://www.youtube.com/watch?v=_2tsfo1l_xk</a>　Part 1 #8-1]</li>
+<li>[<a href="https://www.youtube.com/watch?v=Eb1f3vKjsfY">https://www.youtube.com/watch?v=Eb1f3vKjsfY</a>　Part 1 #8-2]</li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
 ## 出演者
 
-### プロデューサー
+### パート1・2
 
-  - J.Y. Park
+#### プロデューサー
 
-### 審査員
+  - J.Y. Park（パク・ジニョン）
+
+#### 審査員
 
   - JYPトレーニングセンター ダンスチーム
 
-### 特別審査員
+#### ゲスト
 
-  - [モモ](https://ja.wikipedia.org/wiki/モモ_\(TWICEのメンバー\) "wikilink")（[TWICEのメンバー](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")）
-  - [サナ](https://ja.wikipedia.org/wiki/サナ "wikilink")（TWICEのメンバー)
+  - [モモ](https://ja.wikipedia.org/wiki/モモ_\(TWICEのメンバー\) "wikilink")（[TWICEのメンバー](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")）- パート1・第9話に特別審査員として出演
+  - [サナ](https://ja.wikipedia.org/wiki/サナ "wikilink")（TWICEのメンバー）- パート1・第9話に特別審査員として出演
+
+### 虹の架け橋
+
+  - [古坂大魔王](../Page/古坂大魔王.md "wikilink")
+  - [森圭介](../Page/森圭介.md "wikilink")
 
 ## 参加メンバー
 
@@ -119,89 +159,93 @@
 <td><p><small>名前</small></p></td>
 </tr>
 <tr class="even">
-<td><p>新井彩花 Arai Ayaka</p></td>
+<td><p><small>パート1</small></p></td>
 </tr>
 <tr class="odd">
+<td><p>新井彩花 Arai Ayaka</p></td>
+</tr>
+<tr class="even">
 <td><p>安攸娜 アン・ユナ</p>
 <p>안유나</p>
 <p>Ahn Yu Na</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>池松里梨愛 Ikematsu Riria</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>伊藤玲 Ito Rei</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>井上あかり Inoue Akari</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>大江梨久 Oe Riku</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>小合</em>麻由佳 Ogou Mayuka</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小栗かこ Oguri Kako</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>尾崎すず Ozaki Suzu</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>勝村摩耶 Katsumura Maya</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>岸田莉里花 Kishida Ririka</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>櫻井美羽 Sakurai Miu</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>佐藤愛夏 Satou Ana</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>鈴野未光 Suzuno Miihi</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>高谷楓菜 Takaya Funa</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>谷川陽菜 Tanigawa Hina</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>谷屋杏香 Taniya Kyoka</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>花田恵理奈 Hanada Erina</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>花橋梨緒 Hanabashi Rio</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>平井桃伽 Hirai Momoka</p></td>
 </tr>
-<tr class="even">
-<td><p>ヒルマン ニナ Hillman Nina</p></td>
-</tr>
 <tr class="odd">
+<td><p>牧野仁菜 ヒルマン ニナ</p>
+<p>Hillman Nina</p></td>
+</tr>
+<tr class="even">
 <td><p>プランケット明 Plunkett Mei</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>丸谷彩音 Marutani Ayane</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>山口真子 Yamaguchi Mako</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>山城萌野 Yamashiro Moeno</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>横井里茉 Yokoi Rima</p></td>
 </tr>
 </tbody>
 </table>
 
-※（3人の合格者は、3月20日のスッキリの特集で一部発表されたメンバーです。まだすべての結果では、ありません。）
+
 
 | オーディション会場別 |
 | ---------- |
@@ -219,6 +263,8 @@
 
 ## 審査方法
 
+### パート1
+
 オーディションを通過した合格者には虹のペンダントが渡された。このペンダントには4つのキューブが入るようになっている。
 
   - ダンス （イエローキューブ）
@@ -230,639 +276,313 @@
 
 **東京合宿トレーニング**
 
-  - **ダンスレベルテスト**
+  - **ダンスレベルテスト -** 評価基準（成長の可能性、ダンスの素質、個人の練習量）のもとに総合的に評価。
 
-評価基準（成長の可能性、ダンスの素質、個人の練習量）のもとに総合的に評価。
+<!-- end list -->
 
   - **ボーカルレベルテスト**
   - **スター性テスト**
-  - **ショーケース**
+  - **ショーケース -** 評価方法（5つのグループに分かれパフォーマンスを披露する）
 
-評価方法（5つのグループに分かれパフォーマンスを披露する）
+### パート2
+
+成長様々なミッションで最下位に2回なったメンバーは脱落となる。
+
+  - **個人レベルテスト**
 
 ## 審査・課題での使用楽曲
 
-### 地域オーディション 最終審査
+### パート1
 
-※放送分のみ
+#### 地域オーディション 最終審査
 
 <table>
 <thead>
 <tr class="header">
-<th><p>メンバー</p></th>
-<th><p>使用楽曲</p></th>
-<th><p>放送回</p></th>
-<th><p>会場</p></th>
-<th><p>結果</p></th>
+<th><p>地域オーディション 最終審査 使用楽曲 ※放送分のみ</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>花田恵理奈</p></td>
-<td><p>ダンス：<a href="https://ja.wikipedia.org/wiki/TWICE_(韓国の音楽グループ)" title="wikilink">TWICE</a>「Candy Pop」</p></td>
-<td><p>EP1</p></td>
-<td><p>名古屋</p></td>
-<td><p>合格</p></td>
+<td><p>使用楽曲</p></td>
 </tr>
 <tr class="even">
-<td><p>花橋梨緒</p></td>
-<td><p>ダンス：<a href="https://ja.wikipedia.org/wiki/Aimer" title="wikilink">Aimer</a>「星屑ビーナス」</p></td>
-<td><p>合格</p></td>
-<td></td>
-<td></td>
+<td><p>ダンス：「Candy Pop」<a href="https://ja.wikipedia.org/wiki/TWICE_(韓国の音楽グループ)" title="wikilink">TWICE</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>ヒルマンニナ</p></td>
-<td><p>ボーカル：<a href="https://ja.wikipedia.org/wiki/安田レイ" title="wikilink">安田レイ</a>「Brand New Day」 ダンス：TWICE「What is Love? -Japanese ver.-」</p></td>
-<td><p>仙台</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ダンス：「星屑ビーナス」<a href="https://ja.wikipedia.org/wiki/Aimer" title="wikilink">Aimer</a></p></td>
 </tr>
 <tr class="even">
-<td><p>丸谷彩音</p></td>
-<td><p>ダンス：J.Y. Park「Who's your mama? (feat. Jessi)」</p></td>
-<td><p>大阪</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ボーカル：「Brand New Day」<a href="https://ja.wikipedia.org/wiki/安田レイ" title="wikilink">安田レイ</a> ダンス：「What is Love? -Japanese ver.-」TWICE</p></td>
 </tr>
 <tr class="odd">
-<td><p>岸田莉里花</p></td>
-<td><p>ダンス：J.Y. Park「Who's your mama? (feat. Jessi)」</p></td>
-<td><p>保留→合格</p></td>
-<td></td>
-<td></td>
+<td><p>ダンス：「Who's your mama? (feat. Jessi)」J.Y. Park</p></td>
 </tr>
 <tr class="even">
-<td><p>井上あかり</p></td>
-<td><p>ボーカル：安田レイ「Brand New Day」</p>
-<p>ダンス：TWICE「BDZ」</p></td>
-<td><p>東京</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ダンス：「Who's your mama? (feat. Jessi)」J.Y. Park</p></td>
 </tr>
 <tr class="odd">
-<td><p>池松里梨愛</p></td>
-<td><p>ボーカル：<a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a>「やさしさで溢れるように」 ダンス：TWICE「Candy Pop」</p></td>
-<td><p>EP2</p></td>
-<td><p>福岡</p></td>
-<td><p>保留→合格</p></td>
+<td><p>ボーカル：「Brand New Day」安田レイ</p>
+<p>ダンス：「BDZ」TWICE</p></td>
 </tr>
 <tr class="even">
-<td><p>尾崎すず</p></td>
-<td><p>ボーカル：TWICE「BDZ」 ダンス：<a href="https://ja.wikipedia.org/wiki/ソンミ_(歌手)" title="wikilink">Sunmi</a>「24간이 모자라 (24 hours)」</p></td>
-<td><p>札幌</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ボーカル：「やさしさで溢れるように」<a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a> ダンス：「Candy Pop」TWICE</p></td>
 </tr>
 <tr class="odd">
-<td><p>谷川陽菜</p></td>
-<td><p>ボーカル・ダンス：<a href="https://ja.wikipedia.org/wiki/Miss_A" title="wikilink">Miss A</a>「Bad Girl Good Girl」</p></td>
-<td><p>東京</p></td>
-<td><p>保留→合格</p></td>
-<td></td>
+<td><p>ボーカル：「BDZ」TWICE ダンス：「24간이 모자라 (24 hours)」<a href="https://ja.wikipedia.org/wiki/ソンミ_(歌手)" title="wikilink">ソンミ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>鈴野未光</p></td>
-<td><p>ボーカル：<a href="https://ja.wikipedia.org/wiki/伊藤由奈" title="wikilink">伊藤由奈</a>「Precious」</p></td>
-<td><p>合格</p></td>
-<td></td>
-<td></td>
+<td><p>ボーカル・ダンス：「Bad Girl Good Girl」<a href="https://ja.wikipedia.org/wiki/Miss_A" title="wikilink">Miss A</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>横井里茉</p></td>
-<td><p>ボーカル：<a href="https://ja.wikipedia.org/wiki/Wonder_Girls" title="wikilink">Wonder Girls</a>「Irony」 ダンス：Miss A「Bad Girl Good Girl」</p></td>
-<td><p>合格</p></td>
-<td></td>
-<td></td>
+<td><p>ボーカル：「Precious」<a href="https://ja.wikipedia.org/wiki/伊藤由奈" title="wikilink">伊藤由奈</a></p></td>
 </tr>
 <tr class="even">
-<td><p>山城萌野</p></td>
-<td><p>ボーカル：JUJU「やさしさで溢れるように」 ダンス：J.Y. Park「Who's your mama? (feat. Jessi)」</p></td>
-<td><p>EP3</p></td>
-<td><p>沖縄</p></td>
-<td><p>合格</p></td>
+<td><p>ボーカル：「Irony」<a href="https://ja.wikipedia.org/wiki/Wonder_Girls" title="wikilink">Wonder Girls</a> ダンス：「Bad Girl Good Girl」Miss A</p></td>
 </tr>
 <tr class="odd">
-<td><p>山口真子</p></td>
-<td><p>ボーカル：<a href="https://ja.wikipedia.org/wiki/Uru" title="wikilink">Uru</a>「フリージア」 ダンス：J.Y. Park「You're the one」</p></td>
-<td><p>東京</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ボーカル：「やさしさで溢れるように」JUJU ダンス：「Who's your mama? (feat. Jessi)」J.Y. Park</p></td>
 </tr>
 <tr class="even">
-<td><p>プランケット明</p></td>
-<td><p>ダンス：Miss A「Bad Girl Good Girl」</p></td>
-<td><p>LA</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ボーカル：「フリージア」<a href="https://ja.wikipedia.org/wiki/Uru" title="wikilink">Uru</a> ダンス：「You're the one」J.Y. Park</p></td>
 </tr>
 <tr class="odd">
-<td><p>佐藤愛夏</p></td>
-<td><p>ダンス：TWICE「What is Love?」</p></td>
-<td><p>合格</p></td>
-<td></td>
-<td></td>
+<td><p>ダンス：「Bad Girl Good Girl」Miss A</p></td>
 </tr>
 <tr class="even">
-<td><p>アン・ユナ</p></td>
-<td><p>ダンス：Wonder Girls「Irony」</p></td>
-<td><p>EP4(一部)</p></td>
-<td><p>東京</p></td>
-<td><p>合格</p></td>
+<td><p>ダンス：「What is Love?」TWICE</p></td>
 </tr>
 <tr class="odd">
-<td><p>新井彩花</p></td>
-<td><p>ダンス：Miss A「Bad Girl Good Girl」</p></td>
-<td><p>合格</p></td>
-<td></td>
-<td></td>
+<td><p>ダンス：「Irony」Wonder Girls</p></td>
 </tr>
 <tr class="even">
-<td><p>平井桃伽</p></td>
-<td><p>ボーカル：Wonder Girls「Be My Baby」 ダンス：Miss A「Good-bye Baby」</p></td>
-<td><p>EP5(一部)</p></td>
-<td><p>福岡</p></td>
-<td><p>合格</p></td>
+<td><p>ダンス：「Bad Girl Good Girl」Miss A</p></td>
 </tr>
 <tr class="odd">
-<td><p>櫻井美羽</p></td>
-<td><p>ボーカル：Miss A「Good-bye Baby」</p></td>
-<td><p>名古屋</p></td>
-<td><p>合格</p></td>
-<td></td>
+<td><p>ボーカル：「Be My Baby」Wonder Girls ダンス：「Good-bye Baby」Miss A</p></td>
 </tr>
 <tr class="even">
-<td><p>大江梨久</p></td>
-<td><p>ボーカル：Aimer「星屑ビーナス」</p></td>
-<td><p>EP6(一部)</p></td>
-<td><p>大阪</p></td>
-<td><p>合格</p></td>
+<td><p>ボーカル：「Good-bye Baby」Miss A</p></td>
 </tr>
 <tr class="odd">
-<td><p>谷屋杏香</p></td>
-<td><p>ボーカル・ダンス：TWICE「What is Love? -Japanese ver.-」</p></td>
-<td><p>EP7(一部)</p></td>
-<td><p>東京</p></td>
-<td></td>
+<td><p>ボーカル：「星屑ビーナス」Aimer</p></td>
+</tr>
+<tr class="even">
+<td><p>ボーカル・ダンス：「What is Love? -Japanese ver.-」TWICE</p></td>
 </tr>
 </tbody>
 </table>
 
-### ダンスレベルテスト
+#### ダンスレベルテスト
 
-(EP3\~5）※放送分のみ
+| ダンスレベルテスト 使用楽曲 (EP3\~5）※放送分のみ                                                     |
+| --------------------------------------------------------------------------------- |
+| 使用楽曲                                                                              |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「CHEER UP -Japanese ver.-」TWICE                                                   |
+| 「LIKEY -Japanese ver.-」TWICE                                                      |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「Summertime」RIRI, KEIJU, 小袋成彬                                                     |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「CHEER UP -Japanese ver.-」TWICE                                                   |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「I'll be back -Japanese ver.-」[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink") |
+| 「CHEER UP -Japanese ver.-」TWICE                                                   |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「FANCY -Japanese ver.-」TWICE                                                      |
+| 「FANCY -Japanese ver.-」TWICE                                                      |
+| 「雪の華」[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")                        |
+| 「FANCY -Japanese ver.-」TWICE                                                      |
+| 「FANCY -Japanese ver.-」TWICE                                                      |
+| 「달라달라 (DALLA DALLA)」ITZY                                                          |
+| 「LIKEY -Japanese ver.-」TWICE                                                      |
+| 「FANCY -Japanese ver.-」TWICE                                                      |
 
-| メンバー    | 使用楽曲                                                                              | 放送回     |
-| ------- | --------------------------------------------------------------------------------- | ------- |
-| 勝村摩耶    | [ITZY](https://ja.wikipedia.org/wiki/ITZY "wikilink")「달라달라 (DALLA DALLA)」         | EP3     |
-| 鈴野未光    | TWICE「CHEER UP -Japanese ver.-」                                                   |         |
-| アン・ユナ   | TWICE「LIKEY -Japanese ver.-」                                                      | EP4     |
-| 新井彩花    | ITZY「달라달라 (DALLA DALLA)」                                                          |         |
-| 池松里梨愛   | ITZY「달라달라 (DALLA DALLA)」                                                          |         |
-| 花橋梨緒    | RIRI, KEIJU, 小袋成彬「Summertime」                                                     |         |
-| 花田恵理奈   | ITZY「달라달라 (DALLA DALLA)」                                                          |         |
-| 小栗かこ    | TWICE「CHEER UP -Japanese ver.-」                                                   |         |
-| 井上あかり   | ITZY「달라달라 (DALLA DALLA)」                                                          |         |
-| 山口真子    | [2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")「I'll be back -Japanese ver.-」 |         |
-| 岸田莉里花   | TWICE「CHEER UP -Japanese ver.-」                                                   | EP5     |
-| ヒルマンニナ  | ITZY「달라달라 (DALLA DALLA)」                                                          |         |
-| 横井里茉    | TWICE「FANCY -Japanese ver.-」                                                      | EP5(一部) |
-| 大江梨久    | TWICE「FANCY -Japanese ver.-」                                                      |         |
-| 山城萌野    | [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「雪の華」                        |         |
-| 平井桃伽    | TWICE「FANCY -Japanese ver.-」                                                      |         |
-| 高谷楓菜    | TWICE「FANCY -Japanese ver.-」                                                      |         |
-| *小合*麻由佳 | ITZY「달라달라 (DALLA DALLA)」                                                          |         |
-| 櫻井美羽    | TWICE「LIKEY -Japanese ver.-」                                                      |         |
-| 谷屋杏香    | TWICE「FANCY -Japanese ver.-」                                                      | EP7(一部) |
+#### ボーカルレベルテスト
 
-### ボーカルレベルテスト
+| ボーカルレベルテスト 使用楽曲 (EP5\~6）※放送分のみ                                           |
+| ------------------------------------------------------------------------ |
+| 使用楽曲                                                                     |
+| 「이 노랠 듣고 돌아와 (Comeback When You Hear This Song)」2PM                      |
+| 「コネクト」[ClariS](https://ja.wikipedia.org/wiki/ClariS "wikilink")          |
+| 「雪の華」中島美嘉                                                                |
+| 「雪の華」中島美嘉                                                                |
+| 「달라달라 (DALLA DALLA)」ITZY ※自作のラップパートを含めて披露                                |
+| 「I'll be back -Japanese ver.-」2PM                                        |
+| 「LIKEY -Japanese ver.-」TWICE                                             |
+| 「雪の華」中島美嘉                                                                |
+| 「A -Japanese ver.-」[GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink") |
+| 「雪の華」中島美嘉                                                                |
+| 「One More Time」TWICE                                                     |
+| 「One More Time」TWICE                                                     |
+| 「One More Time」TWICE                                                     |
 
-(EP5\~6）※放送分のみ
+#### スター性テスト
 
-| メンバー   | 使用楽曲                                                                     | 放送回     |
-| ------ | ------------------------------------------------------------------------ | ------- |
-| 平井桃伽   | 2PM「이 노랠 듣고 돌아와 (Comeback When You Hear This Song)」                      | EP5     |
-| 櫻井美羽   | [ClariS](https://ja.wikipedia.org/wiki/ClariS "wikilink")「コネクト」          |         |
-| 鈴野未光   | 中島美嘉「雪の華」                                                                |         |
-| 大江梨久   | 中島美嘉「雪の華」                                                                | EP6     |
-| 横井里茉   | ITZY「달라달라 (DALLA DALLA)」※自作のラップパートを含めて披露                                 |         |
-| ヒルマンニナ | 2PM「I'll be back -Japanese ver.-」                                        |         |
-| アン・ユナ  | TWICE「LIKEY -Japanese ver.-」                                             |         |
-| 山口真子   | 中島美嘉「雪の華」                                                                |         |
-| 勝村摩耶   | [GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")「A -Japanese ver.-」 |         |
-| 花橋梨緒   | 中島美嘉「雪の華」                                                                |         |
-| 新井彩花   | TWICE「One More Time」                                                     |         |
-| 岸田莉里花  | TWICE「One More Time」                                                     |         |
-| 谷屋杏香   | TWICE「One More Time」                                                     | EP7(一部) |
+| スター性テスト 使用楽曲 (EP7\~8）※放送分のみ     |
+| ------------------------------- |
+| 使用楽曲                            |
+| 「One More Time」TWICE            |
+| 「CHEER UP -Japanese ver.-」TWICE |
+| 「CHEER UP -Japanese ver.-」TWICE |
+| 「Again & Again」2PM              |
+| 「One More Time」TWICE            |
+| 「A」GOT7                         |
+| 「TT -Japanese ver.-」TWICE       |
+| 「CHEER UP -Japanese ver.-」TWICE |
+| 「FANCY -Japanese ver.-」TWICE    |
 
-### スター性テスト
+#### ショーケース・グループバトル
 
-(EP7\~8）※放送分のみ
+| ショーケース・グループバトル 使用楽曲 (EP9\~10）※放送分のみ      |
+| ---------------------------------------- |
+| 使用楽曲                                     |
+| 「Be My Baby (Japanese ver.)」Wonder Girls |
+| 「Again & Again」2PM                       |
+| 「달라달라 (DALLA DALLA)」ITZY                 |
+| 「Bad Girl Good Girl」Miss A               |
+| 「TT -Japanese ver.-」TWICE                |
 
-| メンバー   | 使用楽曲                            | 放送回 |
-| ------ | ------------------------------- | --- |
-| 花田恵理奈  | TWICE「One More Time」            | EP7 |
-| 新井彩花   | TWICE「CHEER UP -Japanese ver.-」 |     |
-| 谷屋杏香   | TWICE「CHEER UP -Japanese ver.-」 |     |
-| 大江梨久   | 2PM「Again & Again」              |     |
-| 横井里茉   | TWICE「One More Time」            | EP8 |
-| 谷川陽菜   | GOT7「A」                         |     |
-| 鈴野未光   | TWICE「TT -Japanese ver.-」       |     |
-| ヒルマンニナ | TWICE「CHEER UP -Japanese ver.-」 |     |
-| 井上あかり  | TWICE「FANCY -Japanese ver.-」    |     |
+### パート2
 
-### ショーケース・グループバトル
+#### 個人レベルテスト
 
-(EP9\~10）※放送分のみ
-
-| 使用楽曲                                     | チーム名        | メンバー  | 放送回  |
-| ---------------------------------------- | ----------- | ----- | ---- |
-| Wonder Girls「Be My Baby (Japanese ver.)」 | Niziガールズ    | 尾崎すず  | EP9  |
-| 谷川陽菜                                     |             |       |      |
-| 花橋梨緒                                     |             |       |      |
-| 平井桃伽                                     |             |       |      |
-| プランケット明                                  |             |       |      |
-| 2PM「Again & Again」                       | 5PM         | 新井彩花  |      |
-| 井上あかり                                    |             |       |      |
-| 谷屋杏香                                     |             |       |      |
-| 山口真子                                     |             |       |      |
-| 山城萌野                                     |             |       |      |
-| ITZY「달라달라 (DALLA DALLA)」                 | DALLA DALLA | アン・ユナ |      |
-| *小合*麻由佳                                  |             |       |      |
-| 岸田莉里花                                    |             |       |      |
-| 花田恵理奈                                    |             |       |      |
-| ヒルマンニナ                                   |             |       |      |
-| Miss A「Bad Girl Good Girl」               | miss G      | 大江梨久  | EP10 |
-| 伊藤玲                                      |             |       |      |
-| 勝村摩耶                                     |             |       |      |
-| 高谷楓菜                                     |             |       |      |
-| 丸谷彩音                                     |             |       |      |
-| 横井里茉                                     |             |       |      |
-| TWICE「TT -Japanese ver.-」                | TT          | 池松里梨愛 |      |
-| 小栗かこ                                     |             |       |      |
-| 櫻井美羽                                     |             |       |      |
-| 佐藤愛夏\[5\]                                |             |       |      |
-| 鈴野未光                                     |             |       |      |
+| 個人レベルテスト 使用楽曲    |
+| ---------------- |
+| 使用楽曲             |
+| 「숙녀 (Lady)」Yubin |
 
 ## 審査・課題での結果
 
-### キューブ獲得状況
+### パート1
+
+#### キューブ獲得状況
 
 | \-           | 獲得メンバー                                                                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ダンスキューブ**  | <small>山口真子、鈴野未光、池松里梨愛</small> <small>追加（岸田莉里花、尾崎すず、大江梨久、横井里茉、アン・ユナ、花橋梨緒、井上あかり、伊藤玲、勝村摩耶、山城萌野、プランケット明、平井桃伽、新井彩花、小栗かこ、*小合*麻由佳）</small>　※（順位順） |
 | **ボーカルキューブ** | <small>山口真子、ヒルマンニナ、鈴野未光、大江梨久、尾崎すず、池松里梨愛、櫻井美羽</small> <small>追加（横井里茉、アン・ユナ、井上あかり、平井桃伽、勝村摩耶、花橋梨緒、*小合*麻由佳）</small>　<small>※（順位順）</small>       |
 | **スター性キューブ** | <small>新井彩花、アン・ユナ、大江梨久、尾崎すず、勝村摩耶、鈴野未光、ヒルマンニナ、横井里茉</small> <small>追加（井上あかり、*小合*麻由佳、谷屋杏香、平井桃伽、山城萌野、山口真子）　　※（50音順）</small>                     |
-| 人柄キューブ       | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ（順位順）</small>                                                                                          |
+| 人柄キューブ       | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ、花橋梨緒、池松里梨愛、新井彩花、ヒルマンニナ※（順不同） </small>                                                                 |
 | **全キューブ獲得**  | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ　※（順位順）</small>                                                                                        |
 
-### ダンスレベルテスト
+#### ダンスレベルテスト
 
-| 順位  | 名前      | キューブ 獲得 |
-| --- | ------- | ------- |
-| 1位  | 山口真子    | ●       |
-| 2位  | 鈴野未光    | ●       |
-| 3位  | 池松里梨愛   | ●       |
-| 4位  | 岸田莉里花   | ●(追加)   |
-| 5位  | 尾崎すず    | ●(追加)   |
-| 6位  | 大江梨久    | ●(追加)   |
-| 7位  | 横井里茉    | ●(追加)   |
-| 8位  | アン・ユナ   | ●(追加)   |
-| 9位  | 花橋梨緒    | ●(追加)   |
-| 10位 | 井上あかり   | ●(追加)   |
-| 11位 | 伊藤玲     | ●(追加)   |
-| 12位 | 勝村摩耶    | ●(追加)   |
-| 13位 | 山城萌野    | ●(追加)   |
-| 14位 | プランケット明 | ●(追加)   |
-| 15位 | 平井桃伽    | ●(追加)   |
-| 16位 | 新井彩花    | ●(追加)   |
-| 17位 | 櫻井美羽    | \-      |
-| 18位 | 谷屋杏香    | \-      |
-| 19位 | 高谷楓菜    | \-      |
-| 20位 | 小栗かこ    | \-      |
-| 21位 | *小合*麻由佳 | \-      |
-| 22位 | 谷川陽菜    | \-      |
-| 23位 | 丸谷彩音    | \-      |
-| 24位 | ヒルマンニナ  | \-      |
-| 25位 | 花田恵理奈   | \-      |
-| 26位 | 佐藤愛夏    | \-      |
+| ダンスレベルテスト 結果 |
+| ------------ |
+| 順位           |
+| 1位           |
+| 2位           |
+| 3位           |
+| 4位           |
+| 5位           |
+| 6位           |
+| 7位           |
+| 8位           |
+| 9位           |
+| 10位          |
+| 11位          |
+| 12位          |
+| 13位          |
 
-### ボーカルレベルテスト
+#### ボーカルレベルテスト
 
-| 順位  | 名前      | キューブ 獲得 |
-| --- | ------- | ------- |
-| 1位  | 山口真子    | ●       |
-| 2位  | ヒルマンニナ  | ●       |
-| 3位  | 鈴野未光    | ●       |
-| 4位  | 大江梨久    | ●       |
-| 5位  | 尾崎すず    | ●       |
-| 6位  | 池松里梨愛   | ●       |
-| 7位  | 横井里茉    | ●(追加)   |
-| 8位  | アン・ユナ   | ●(追加)   |
-| 9位  | 井上あかり   | ●(追加)   |
-| 10位 | 櫻井美羽    | ●       |
-| 11位 | 平井桃伽    | ●(追加)   |
-| 12位 | 勝村摩耶    | ●(追加)   |
-| 13位 | 花橋梨緒    | ●(追加)   |
-| 14位 | プランケット明 | \-      |
-| 15位 | 谷川陽菜    | \-      |
-| 16位 | 高谷楓菜    | \-      |
-| 17位 | 伊藤玲     | \-      |
-| 18位 | 新井彩花    | \-      |
-| 19位 | 谷屋杏香    | \-      |
-| 20位 | 小栗かこ    | \-      |
-| 21位 | 岸田莉里花   | \-      |
-| 22位 | 丸谷彩音    | \-      |
-| 23位 | 山城萌野    | \-      |
-| 24位 | *小合*麻由佳 | \-      |
-| 25位 | 佐藤愛夏    | \-      |
-| 26位 | 花田恵理奈   | \-      |
+| ボーカルレベルテスト 結果 |
+| ------------- |
+| 順位            |
+| 1位            |
+| 2位            |
+| 3位            |
+| 4位            |
+| 5位            |
+| 6位            |
+| 7位            |
+| 8位            |
+| 9位            |
+| 10位           |
+| 11位           |
+| 12位           |
+| 13位           |
 
-### スター性テスト
+#### スター性テスト
 
-| 順位 | 名前（50音順) | 内容               | キューブ 獲得 |
-| -- | -------- | ---------------- | ------- |
-| \- | 新井彩花     | 少し変わったテニス講座      | ●       |
-| \- | アン・ユナ    | 不明\[6\]          | ●       |
-| \- | 池松里梨愛    | ダンス              | \-      |
-| \- | 伊藤玲      | 不明\[7\]          | \-      |
-| \- | 井上あかり    | チアリーディング         | ●(追加)   |
-| \- | 大江梨久     | 空手               | ●       |
-| \- | 小栗かこ     | 不明\[8\]          | \-      |
-| \- | *小合*麻由佳  | オカリナ             | \-      |
-| \- | 尾崎すず     | 不明\[9\]          | ●       |
-| \- | 勝村摩耶     | 紙芝居（「醜いアヒルの子」）   | ●       |
-| \- | 岸田莉里花    | バレエ              | \-      |
-| \- | 櫻井美羽     | モッパン             | \-      |
-| \- | 佐藤愛夏     | 不明\[10\]         | \-      |
-| \- | 鈴野未光     | バトン              | ●       |
-| \- | 高谷楓菜     | 不明\[11\]         | \-      |
-| \- | 谷川陽菜     | 一人芝居（7人の女の子）     | \-      |
-| \- | 谷屋杏香     | 料理（トッポッキ作り）、ダンス  | ●(追加)   |
-| \- | 花田恵理奈    | チアリーディング         | \-      |
-| \- | 花橋梨緒     | ダンス              | \-      |
-| \- | 平井桃伽     | 1人2役の芝居          | \-      |
-| \- | ヒルマンニナ   | ラジオ番組（BGM、OPを自作） | ●       |
-| \- | プランケット明  | マジックショー          | \-      |
-| \- | 丸谷彩音     | ダンス              | \-      |
-| \- | 山口真子     | レモンを無表情で食べる、習字   | ●(追加)   |
-| \- | 山城萌野     | 不明\[12\]         | ●(追加)   |
-| \- | 横井里茉     | ドラム              | ●       |
+| スター性テスト 結果 |
+| ---------- |
+| 順位         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
+| \-         |
 
-### ショーケース・グループバトル
+#### ショーケース・グループバトル
 
 チームのリーダーを太字表記とする。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>チーム名</p></th>
-<th><p>課題曲</p></th>
-<th><p>メンバー</p></th>
-<th><p>ダンス キューブ</p></th>
-<th><p>ボーカル キューブ</p></th>
-<th><p>スター性 キューブ</p></th>
-<th><p>人柄 キューブ</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Niziガールズ</p></td>
-<td><p>「Be My Baby (Japanese ver.)」 Wonder Girls</p></td>
-<td><p><strong>尾崎すず</strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>谷川陽菜</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>花橋梨緒</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>平井桃伽</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●(追加)</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>プランケット明</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5PM</p></td>
-<td><p>「Again &amp; Again」 2PM</p></td>
-<td><p>新井彩花</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>井上あかり</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>谷屋杏香</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>山口真子</strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>山城萌野</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DALLA DALLA</p></td>
-<td><p>「달라달라 (DALLA DALLA)」 ITZY</p></td>
-<td><p><strong>アン・ユナ</strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-</tr>
-<tr class="even">
-<td><p><em>小合</em>麻由佳</p></td>
-<td><p>●(追加)</p></td>
-<td><p>●(追加)</p></td>
-<td><p>●(追加)</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>岸田莉里花</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>花田恵理奈</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>ヒルマンニナ</p></td>
-<td><p>-</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>miss G</p></td>
-<td><p>「Bad Girl Good Girl」</p>
-<p>Miss A</p></td>
-<td><p>伊藤玲</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>大江梨久</strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>勝村摩耶</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>高谷楓菜</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>丸谷彩音</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>横井里茉</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>TT</p></td>
-<td><p>「TT -Japanese ver.-」 TWICE</p></td>
-<td><p>池松里梨愛</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>小栗かこ</p></td>
-<td><p>●(追加)</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>櫻井美羽</p></td>
-<td><p>-</p></td>
-<td><p>●</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>佐藤愛夏</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>鈴野未光</strong></p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td><p>●</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| ショーケース・グループバトル 結果 |
+| ----------------- |
+| チーム名              |
+| Niziガールズ          |
+| 谷川陽菜              |
+| 花橋梨緒              |
+| 平井桃伽              |
+| プランケット明           |
+| 5PM               |
+| 井上あかり             |
+| 谷屋杏香              |
+| **山口真子**          |
+| 山城萌野              |
+| DALLA DALLA       |
+| *小合*麻由佳           |
+| 岸田莉里花             |
+| 花田恵理奈             |
+| ヒルマンニナ            |
+| miss G            |
+| **大江梨久**          |
+| 勝村摩耶              |
+| 高谷楓菜              |
+| 丸谷彩音              |
+| 横井里茉              |
+| TT                |
+| 小栗かこ              |
+| 櫻井美羽              |
+| 佐藤愛夏              |
+| **鈴野未光**          |
+
+## 参加メンバーのその後
+
+  - 伊藤玲 - ([Instagram](https://www.instagram.com/reihwan/))
+  - 小栗かこ - 自身のInstagramにダンス動画をアップしている。([Instagram](https://www.instagram.com/kako_oguri/))
+  - 岸田莉里花 - 韓国人3人、日本人2人の5人組ガールズグループ「Orange Latte」のメンバー・RIRIとして活動している\[5\]。
+  - 高谷楓菜 - ([Instagram](https://www.instagram.com/fuuchan._.28/))
+  - 谷川陽菜 - [aoiro](https://ja.wikipedia.org/wiki/aoiro "wikilink")「負けてたまるか」のミュージックビデオに出演\[6\]。([Twitter](https://twitter.com/tanigawa_hina)/[Instagram](https://www.instagram.com/tanihina._.0927/)/[SHOWROOM](https://www.showroom-live.com/happy_hina)/[Tiktok](https://www.tiktok.com/@tanihina0927))
+  - 谷屋杏香 - 自身のYouTubeチャンネルを開設し、ダンス動画をアップしている。([Instagram](https://www.instagram.com/kyokataniya/)/[YouTube](https://www.youtube.com/channel/UCVZ1MmDO3k2BKI9V4HUwegg?app=desktop))
+  - プランケット明 - ([Twitter](https://twitter.com/mei_plunkett?s=20)/[Instagram](https://www.instagram.com/mei_plunkett/))
+  - 丸谷彩音 - ([Twitter](https://twitter.com/Ayane_marutani?s=20)/[Instagram](https://www.instagram.com/yon._.0h/))
+  - 山城萌野 - ([Instagram](https://www.instagram.com/moeno_going/))
+  - 佐藤愛夏 - 自身のYouTubeチャンネルを開設し、NiziProjectでの経験談を話した。([Instagram](https://www.instagram.com/_suasn/?hl=ja)/[YouTube](https://www.youtube.com/channel/UCWNXLWFciksYLhQGMe-ioSA))
 
 ## 脚注
 
@@ -885,11 +605,5 @@
 2.
 3.
 4.
-5.  膝痛のため練習途中に辞退という形となった。
-6.  放送されていないため
-7.
-8.
-9.
-10.
-11.
-12.
+5.
+6.

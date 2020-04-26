@@ -68,7 +68,7 @@
 
           -
             作詞・作曲：西寺郷太
-              - リミックス・アルバム「[CHERISH\! NONA REEVES THE REMIXES](https://ja.wikipedia.org/wiki/CHERISH!_NONA_REEVES_THE_REMIXES "wikilink")」の8曲目。
+              - リミックス・アルバム「[CHERISH\! NONA REEVES THE REMIXES](../Page/CHERISH!_NONA_REEVES_THE_REMIXES.md "wikilink")」の8曲目。
 
     14\. **[I LOVE YOUR SOUL](https://ja.wikipedia.org/wiki/I_LOVE_YOUR_SOUL "wikilink")**
 

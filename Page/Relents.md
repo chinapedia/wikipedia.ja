@@ -249,7 +249,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>WAHAHA/<a href="https://ja.wikipedia.org/wiki/AT-FIELD" title="wikilink">AT-FIELD</a></li>
-<li>読心術/<a href="https://ja.wikipedia.org/wiki/Relents" title="wikilink">Relents</a></li>
+<li>読心術/<a href="../Page/Relents.md" title="wikilink">Relents</a></li>
 <li>keeping your love/<a href="https://ja.wikipedia.org/wiki/SUNSHINE_DUB" title="wikilink">SUNSHINE DUB</a></li>
 <li>sunset irie/<a href="https://ja.wikipedia.org/wiki/ヨンバルカン" title="wikilink">ヨンバルカン</a></li>
 </ol>

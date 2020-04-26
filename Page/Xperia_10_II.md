@@ -23,6 +23,9 @@
 
   - 2020年2月24日 - 同社[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルより発表。\[9\]
   - 2020年3月18日 - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が公式サイトにてdocomo版 Xperia 10 II SO-41Aを発表。\[10\]
+  - 2020年4月15日 - [KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラーが公式サイトにてau版](../Page/沖縄セルラー電話.md "wikilink") Xperia 10 II SOV43を発表。\[11\]
+
+## 脚注
 
 ## 関連項目
 
@@ -54,3 +57,4 @@
 8.   仕様（スペック）{{\!}} ソニーモバイル公式サイト|url=[https://www.sonymobile.co.jp/xperia/xperia10m2/spec_docomo.html|website=www.sonymobile.co.jp|accessdate=2020-03-20](https://www.sonymobile.co.jp/xperia/xperia10m2/spec_docomo.html%7Cwebsite=www.sonymobile.co.jp%7Caccessdate=2020-03-20)}}
 9.
 10.  製品 {{\!}} NTTドコモ|url=[https://www.nttdocomo.co.jp/product/promotion/20_docomo_collection_4g/|website=www.nttdocomo.co.jp|accessdate=2020-03-20|language=ja](https://www.nttdocomo.co.jp/product/promotion/20_docomo_collection_4g/%7Cwebsite=www.nttdocomo.co.jp%7Caccessdate=2020-03-20%7Clanguage=ja)}}
+11.

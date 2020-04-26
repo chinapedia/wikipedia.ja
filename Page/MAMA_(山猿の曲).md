@@ -22,9 +22,7 @@
 
         </div>
 
-        </div>
-
-        初の[ママ](../Page/ママ.md "wikilink")を題材にした楽曲で、世の中の全ての[母親](../Page/母親.md "wikilink")に捧げる応援歌をテーマに制作された[バラード](https://ja.wikipedia.org/wiki/バラード#ポピュラー音楽におけるバラード "wikilink")\[2\]。
+\#: 初の[ママ](../Page/ママ.md "wikilink")を題材にした楽曲で、世の中の全ての[母親](../Page/母親.md "wikilink")に捧げる応援歌をテーマに制作された[バラード](https://ja.wikipedia.org/wiki/バラード#ポピュラー音楽におけるバラード "wikilink")\[2\]。
 
 ## 参加ミュージシャン
 
@@ -52,7 +50,7 @@
 
 ## 脚注
 
-[Category:2015年のシングル](https://ja.wikipedia.org/wiki/Category:2015年のシングル "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:2015年のシングル](https://ja.wikipedia.org/wiki/Category:2015年のシングル "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink")
 
 1.
 2.

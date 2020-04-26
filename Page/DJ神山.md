@@ -1,6 +1,8 @@
 > この記事は[DJ神山](https://ja.wikipedia.org/wiki/DJ神山)から翻訳されています。
 
 
+**DJ神山**（でぃーじぇーかみやま）は、日本の[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")である。
+
 ## 出演
 
 ### ラジオ
@@ -43,4 +45,4 @@
   - 変わがらないんだよー（給料200円について変わらないくて、さらに上がらないと訴える際に甘噛み）
   - ターンテーブルと一緒にぐるぐる回してやろうか？(女の子を口説くときのキメ台詞)
 
-[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:架空の人物](https://ja.wikipedia.org/wiki/Category:架空の人物 "wikilink")

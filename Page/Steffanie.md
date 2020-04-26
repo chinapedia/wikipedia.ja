@@ -40,7 +40,7 @@
   - 「Rock the Planet」/「Every Day」（1985）
       - シリーズ*うる星やつら*、エピソード150–165の曲
   - 「Born to Be Free」/「Remember My Love」（1985）
-      - 映画「*うる星やつら：Remember My Love」の*曲*[1](https://en.wikipedia.org/wiki/Urusei_Yatsura#Films)*
+      - 映画「*うる星やつら：Remember My Love」の*曲
   - 「隠れ家」/「通りのサバイバル」（1985）
       - 日本のテレビドラマ*Triangle Blueの*歌
   - 「Burnin 'Up the Night」/「Breakout」（1986）

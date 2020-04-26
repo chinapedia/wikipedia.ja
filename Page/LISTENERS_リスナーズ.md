@@ -1,7 +1,7 @@
 > この記事は[LISTENERS リスナーズ](https://ja.wikipedia.org/wiki/LISTENERS_リスナーズ)から翻訳されています。
 
 
-『**LISTENERS リスナーズ**』は、[MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")制作による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")4月より[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』B1ほかにて放送予定\[1\]。
+『**LISTENERS リスナーズ**』は、[MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")制作による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")4月より[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』B1ほかにて放送中\[1\]。
 
 とある少年が身体にインプットジャックが空いた謎の少女であるミュウと出会って、共に世界を旅していくストーリーが描かれる\[2\]。
 
@@ -9,8 +9,13 @@
 
   - エコヲ・レック
     声 - [村瀬歩](https://ja.wikipedia.org/wiki/村瀬歩 "wikilink")\[3\]
+    リバチェスタに住む本作の主人公。ジャンク拾いを生業としているが、時折お宝と称してパーツをくすね、自作のアンプを作っている。
+    プレイヤーと呼ばれる存在にあこがれを抱いている。性格は弱気ではあるが、イクイップメントとプレイヤーに対しての情熱は高い。
   - ミュウ
     声 - [高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")
+    記憶喪失の少女。ジャンクの山からエコヲに拾われる。名前はエコヲによって名付けられた。
+    プレイヤーではあるが、自らがプレイヤーであるということはエコヲに聞くまでわからず、エコヲの持っている図鑑にも彼女の情報が載っていない\[4\]。腰の部分にインプットジャックがあり、真空管の首飾りが首に掛けられている。
+    性格は強気で、なし崩し的にエコヲと共に自分の記憶を取り戻す旅に付き合わせてしまう。
   - ニル
     声 - [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")
   - ロズ
@@ -43,8 +48,10 @@
     声 - [黒沢ともよ](https://ja.wikipedia.org/wiki/黒沢ともよ "wikilink")
   - スエル・レック
     声 - [佐藤利奈](../Page/佐藤利奈.md "wikilink")
+    エコヲの姉。リバチェスタでバー『オアシス』を営んでいる。
   - マッギィ
     声 - [チョー](../Page/チョー_\(俳優\).md "wikilink")
+    リバチェスタの町長。過去に起こった出来事をきっかけに、プレイヤーとイクイップメントの存在を毛嫌いしており、ミュウにも冷たい態度を取った。
   - サリー・シンプソン
     声 - [島袋美由利](https://ja.wikipedia.org/wiki/島袋美由利 "wikilink")
   - トミー・ウォーカー
@@ -68,7 +75,7 @@
   - シリーズ構成 - 佐藤大
   - キャラクターデザイン - pomodorosa
   - アニメーションキャラクターデザイン - 鎌田晋平
-  - サブキャラクターデザイン・総作画監督 - 小泉初栄、高原修司
+  - サブキャラクターデザイン - 小泉初栄、高原修司
   - メカニックデザイン - 寺尾洋之
   - 色彩設計 - 末永絢子
   - 美術監督 - [谷岡善王](https://ja.wikipedia.org/wiki/谷岡善王 "wikilink")
@@ -83,19 +90,33 @@
   - 楽曲プロデュース - じん
   - 音楽 - L\!th\!um
   - 音楽制作 - [DMM music](https://ja.wikipedia.org/wiki/DMM_music "wikilink")、清水聖太郎
+  - 音楽プロデューサー - 中川岳、藤江将希
+  - プロデューサー - 高篠秀一、亀井博司、尾畑聡明　
+  - クリエイティブプロデューサー - 橋本太知
+  - アニメーションプロデューサー - 小川崇博
   - アニメーション制作 - [MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")
+  - 製作 - LISTENERS 製作委員会（[DMM pictures](https://ja.wikipedia.org/wiki/DMM_pictures "wikilink")、[MBS](../Page/毎日放送.md "wikilink")、[スロウカーブ](../Page/スロウカーブ.md "wikilink")）
 
 ## 主題歌
 
-[じん](https://ja.wikipedia.org/wiki/じん "wikilink")が主題歌全曲の作詞・作曲・プロデュースを手掛けており、オープニングテーマはACCAMERの歌唱による「Into the blue's」\[4\]、エンディングテーマはミュウ（[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")）の歌唱による各話ごとに異なる楽曲となっている\[5\]。
+[じん](https://ja.wikipedia.org/wiki/じん "wikilink")が主題歌全曲の作詞・作曲・プロデュースを手掛けており、エンディングテーマはミュウ（[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")）の歌唱による各話ごとに異なる楽曲となっている\[5\]。
+
+  - 「Into the blue's」\[6\]
+    ACCAMERの歌唱によるオープニングテーマ、編曲は[菅波栄純](../Page/菅波栄純.md "wikilink")と[じん](https://ja.wikipedia.org/wiki/じん "wikilink")。
+  - 「Muse」
+    第2話のエンディングテーマ。編曲はzukio。
+  - 「Borders」
+    第3話のエンディングテーマ。編曲はじん。
+
+## 各話リスト
 
 ## 放送局
 
-インターネットでは、同年4月4日より[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")にて配信。
+インターネットでは同年4月4日より[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")にて、地上波放送より先行して配信。
 
 ## BD
 
-| 巻 | 発売日\[6\]     | 収録話        | 規格品番      |
+| 巻 | 発売日\[7\]     | 収録話        | 規格品番      |
 | - | ------------ | ---------- | --------- |
 | 1 | 2020年7月29日予定 | 第1話 - 第6話  | DMPXA-120 |
 | 2 | 2020年8月26日予定 | 第7話 - 第12話 | DMPXA-122 |
@@ -113,6 +134,7 @@
 1.
 2.
 3.
-4.
+4.  公式サイトのキャラクター紹介より
 5.
 6.
+7.

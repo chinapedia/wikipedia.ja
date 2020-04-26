@@ -10,8 +10,6 @@
   - [ACE COLLECTIONのメジャーデビュー作品である](https://ja.wikipedia.org/wiki/ACE_COLLECTION "wikilink")\[2\]。
   - 前作のアルバムから約6ヶ月ぶりの発売である。
 
-## チャート成績
-
 ## 特典
 
   - 初回限定盤特典
@@ -21,7 +19,27 @@
 ## 収録曲
 
 1.  **拝啓、君は...**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：たつや◎
+        編曲：ACE COLLECTION
+
+        </div>
+
+        </div>
 2.  **WaVe**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：たつや◎
+        編曲：[Hiroshi Shibasaki](../Page/柴崎浩.md "wikilink")
+
+        </div>
+
+        </div>
 3.  **ワインレッドのラビリンス**
       -
 
@@ -34,8 +52,38 @@
 
         </div>
 4.  **二人フタ色**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：たつや◎
+        編曲：ACE COLLECTION
+
+        </div>
+
+        </div>
 5.  **Treasure**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：たつや◎
+        編曲：ACE COLLECTION
+
+        </div>
+
+        </div>
 6.  **リアピックアップ**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞・作曲：たつや◎
+        編曲：ACE COLLECTION
+
+        </div>
+
+        </div>
 7.  **約束のしおり**
       -
 
@@ -61,7 +109,8 @@
 
         </div>
     <!-- end list -->
-      - [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")オリジナルドラマ『[僕だけが17歳の世界で](../Page/僕だけが17歳の世界で.md "wikilink")』主題歌\[8\]\[9\]\[10\]
+      - [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")オリジナルドラマ『[僕だけが17歳の世界で](../Page/僕だけが17歳の世界で.md "wikilink")』主題歌\[8\]\[9\]\[10\]。
+      - ミュージック・ビデオには[花柳のぞみ](https://ja.wikipedia.org/wiki/花柳のぞみ "wikilink")が出演。
 
 ## 脚注
 

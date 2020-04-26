@@ -9,7 +9,7 @@
 
 BRTサンウェイ線は[サンウェイ-スティア・ジャヤ駅から](https://ja.wikipedia.org/wiki/スティア・ジャヤ駅 "wikilink")[USJ7駅](https://ja.wikipedia.org/wiki/USJ7駅 "wikilink")までの計7駅、全長5.4kmを結び、[スバン・ジャヤ](https://ja.wikipedia.org/wiki/スバン・ジャヤ "wikilink")市の主要地域を通る。
 
-全線が高架によるバス専用道であり、[都市高速鉄道](../Page/都市高速鉄道.md "wikilink")と類似した機能を持つ。この専用道は一般道路と接続する[ランプは設けられておらず](../Page/ランプ_\(道路\).md "wikilink")、またBRTサンウェイ線以外の車両の乗り入れは禁止されている。
+全線が高架によるバス専用道であり、[都市高速鉄道](../Page/都市高速鉄道.md "wikilink")と類似した機能を持つ。この専用道は一般道路と接続する[ランプは設けられておらず](../Page/ランプ_\(道路\).md "wikilink")、またBRTサンウェイ線以外の車両の通行権はない。
 
 本路線の整備における総額は63.4億[リンギット](../Page/リンギット.md "wikilink")となり、70％がプラサラナ・マレーシア、15％がサンウェイ・グループにより出資され、残りはUnit Kerjasama Awam Swasta（UKAS）の補助金で賄われた\[2\]。
 

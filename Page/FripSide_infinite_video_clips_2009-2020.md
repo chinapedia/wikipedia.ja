@@ -45,7 +45,7 @@
 
 ### 音声特典
 
-**[八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")とSTAFFによるまったりオーディオコメンタリー**
+**[八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")とSTAFFによるまったりオーディオコメンタリー** ＜M1,2,3,7,8,11,16,19,25＞
 
 ## 脚注
 

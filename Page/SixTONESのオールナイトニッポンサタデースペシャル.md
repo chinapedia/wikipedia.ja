@@ -1,7 +1,7 @@
 > この記事は[SixTONESのオールナイトニッポンサタデースペシャル](https://ja.wikipedia.org/wiki/SixTONESのオールナイトニッポンサタデースペシャル)から翻訳されています。
 
 
-『**SixTONESのオールナイトニッポンサタデースペシャル**』（ストーンズのオールナイトニッポンサタデースペシャル）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で2020年4月4日から始まる予定の[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")ブランドのワイド番組。
+『**SixTONESのオールナイトニッポンサタデースペシャル**』（ストーンズのオールナイトニッポンサタデースペシャル）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で2020年4月4日から放送している[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")ブランドのワイド番組。
 
 ## 概要
 
@@ -11,7 +11,9 @@
 
 この番組では、メンバーのフリートークに加え、ネタや企画のコーナーやリスナーとの交流が行われることになっている\[6\]。なお、SixTONESの冠レギュラー番組はこの番組が初めてとなる\[7\]\[8\]\[9\]。
 
-オールナイトニッポンのプロデューサーの冨山雄一は今回の起用について「この『大倉くんと高橋くん』の後番組を始めるには、リスナーの熱狂というか、「始まるの楽しみだな」と思ってもらえることが大事だと思っていました。」とした上で「彼らにはラジオのポテンシャルが非常にあって、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")の数字もすごく良かったですし、とにかくラジオ的な“勘”が良かったのが印象に残りました。彼ら自身がYouTubeでラジオ的な番組を配信していたりと、新しい『オールナイトニッポン』の感じが作れるのではないかという期待も込みでオファーしました」と述べている\[10\]。
+オールナイトニッポンのプロデューサーの[冨山雄一](https://ja.wikipedia.org/wiki/冨山雄一 "wikilink")は今回の起用について「この『大倉くんと高橋くん』の後番組を始めるには、リスナーの熱狂というか、「始まるの楽しみだな」と思ってもらえることが大事だと思っていました。」とした上で「彼らにはラジオのポテンシャルが非常にあって、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")の数字もすごく良かったですし、とにかくラジオ的な“勘”が良かったのが印象に残りました。彼ら自身がYouTubeでラジオ的な番組を配信していたりと、新しい『オールナイトニッポン』の感じが作れるのではないかという期待も込みでオファーしました」と述べている\[10\]。
+
+2020年4月4日の放送では、番組のハッシュタグである「\#SixTONESANN」がツイッターの日本におけるトレンドの第1位となり、ツイート数も2020年4月5日の1時45分の時点でおよそ50万件となり\[11\]、2019年8月2日未明（2019年8月1日深夜）に放送されたオールナイトニッポン1部のツイート数の17万件越えから大きく上回った。
 
 ## 放送時間
 
@@ -23,7 +25,34 @@
 
 ## 番組テーマ曲
 
-  - オープニング：[Herb Alpert](../Page/ハーブ・アルパート.md "wikilink") & The Tijuana Brass「[BITTERSWEET SAMBA](../Page/BITTERSWEET_SAMBA.md "wikilink")」
+  - [Herb Alpert](../Page/ハーブ・アルパート.md "wikilink") & The Tijuana Brass「[BITTERSWEET SAMBA](../Page/BITTERSWEET_SAMBA.md "wikilink")」REMIXバージョン（編曲:[DJ松永](https://ja.wikipedia.org/wiki/DJ松永 "wikilink")（[Creepy Nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")））
+
+## 番組内コーナー
+
+  - **We are SixTONES\!\!**\[12\]
+
+<!-- end list -->
+
+  -
+    「我こそはSixTONESだ\!」と自負するリスナーが、自己PRを行う。
+
+<!-- end list -->
+
+  - **週間ワールドワイド報道局**\[13\]
+
+<!-- end list -->
+
+  -
+    リスナーがジャーナリストとなって、SixTONESのメンバーが取りこぼしているニュースや情報を提供する。
+
+<!-- end list -->
+
+  - **ウィルサーチ**\[14\]
+
+<!-- end list -->
+
+  -
+    未来において投稿されるかもしれないSNSの投稿をリスナーが調べてSixTONESに対して報告を行う。
 
 ## ネット局
 
@@ -40,7 +69,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）[11]<br />
+<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）[15]<br />
 <strong>制作局</strong></p></td>
 <td><p>2020年4月4日 -</p></td>
 <td><p>土曜 23:30 - 25:00</p></td>
@@ -62,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,7 +126,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
-<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）[12]</p></td>
+<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）[16]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -111,7 +140,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>（SBC）</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a>（SBC）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +182,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
-<td><p><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ放送</a>（SF）[13]</p></td>
+<td><p><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ放送</a>（SF）[17]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162,7 +191,7 @@
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><br />
 <a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/KBS滋賀.md" title="wikilink">KBS滋賀</a><br />
-<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）[14]</p></td>
+<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）[18]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -198,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -233,7 +262,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）[15]</p></td>
+<td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）[19]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -277,7 +306,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a>（ROK）[16]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a>（ROK）[20]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -313,9 +342,13 @@
 8.
 9.
 10.
-11. NRN系列単独局
+11.
 12.
 13.
 14.
-15. [JRN系列単独局](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
+15. NRN系列単独局
 16.
+17.
+18.
+19. [JRN系列単独局](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
+20.

@@ -1,7 +1,7 @@
 > この記事は[DREAMY-LOGUE](https://ja.wikipedia.org/wiki/DREAMY-LOGUE)から翻訳されています。
 
 
-『**DREAMY-LOGUE**』（ドリーミー・ローグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")である[DIALOGUE+](../Page/DIALOGUE+.md "wikilink")の1枚目の[ミニアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売される。
+『**DREAMY-LOGUE**』（ドリーミー・ローグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")である[DIALOGUE+](../Page/DIALOGUE+.md "wikilink")の1枚目の[ミニアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
 
 ## 概要
 

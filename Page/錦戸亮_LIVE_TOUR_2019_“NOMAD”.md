@@ -3,7 +3,7 @@
 
 {{ external media | align = right | video1 = [錦戸 亮 LIVE TOUR 2019 "NOMAD" Trailer](https://m.youtube.com/watch?v=a5mB4nXCR4E) }}
 
-『**錦戸亮 LIVE TOUR 2019 “NOMAD”**』（にしきどりょう ライブツアー 2019 ノマド）は、[錦戸亮](../Page/錦戸亮.md "wikilink")の1作目のライブBlu-ray/DVD。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にNOMAD RECORDSから発売予定\[1\]。
+『**錦戸亮 LIVE TOUR 2019 “NOMAD”**』（にしきどりょう ライブツアー 2019 ノマド）は、[錦戸亮](../Page/錦戸亮.md "wikilink")の1作目のライブBlu-ray/DVD。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にNOMAD RECORDSから発売された\[1\]。
 
 ## 概要
 
@@ -36,9 +36,9 @@
 
 ## 収録内容
 
-### Disc.1
+### 本編映像
 
-※全形態共通
+Disc.1
 
 1.  **[Point of Departure](https://ja.wikipedia.org/wiki/NOMAD_\(錦戸亮のアルバム\) "wikilink")**
 2.  **[バッジ](https://ja.wikipedia.org/wiki/NOMAD_\(錦戸亮のアルバム\) "wikilink")**
@@ -62,29 +62,48 @@
 
 #### WIZY限定盤
 
-##### Disc.1
+Disc.1
 
-1.  錦戸亮Album”NOMAD”リリースイベント映像
+1.  錦戸亮 Album ”NOMAD” リリースイベント映像
 
 #### 初回限定盤
 
-##### Disc.2
+Disc.2
 
-1.  錦戸亮LIVE TOUR 2019 ”NOMAD” 2019年11月22日 豊洲PIT公演映像
+  - 錦戸亮 LIVE TOUR 2019 ”NOMAD” 2019年11月22日 豊洲PIT公演映像
+
+<!-- end list -->
+
+1.  **Point of Departure**
+2.  **バッジ**
+3.  **ホンキートンクラプソディ**
+4.  **code**
+5.  **Traffic**
+6.  **スケアクロウ**
+7.  **オールドスクール**
+8.  **狛犬**
+9.  **いとしのエリ**
+10. **罰ゲーム**
+11. **Half Down**
+12. **ヤキモチ**
+13. **アンブレラ**
+14. **Potential**
+15. **Tokyoholic**
+16. **ノマド**
 
 #### 通常盤
 
-##### Disc.1
+Disc.1
 
-1.  錦戸亮LIVE TOUR 2019 ”NOMAD”メイキング映像
+1.  錦戸亮 LIVE TOUR 2019 ”NOMAD”メイキング映像
 
 ### 特典CD
 
-#### 通常盤
+※通常盤のみ
 
-1.  錦戸亮LIVE TOUR 2019 ”NOMAD”ライブアルバムCD
+1.  錦戸亮 LIVE TOUR 2019 ”NOMAD” ライブアルバムCD
       -
-        DVDの収録内容と同じである。
+        収録内容は本編映像と同内容。
 
 ## 脚注
 

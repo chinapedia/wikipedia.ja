@@ -27,7 +27,7 @@
 
 ### インターネット放送
 
-  - music marché（[Backstage Café](https://ja.wikipedia.org/wiki/Backstage_Cafe "wikilink")、2019年4月1日 - （毎月第3月曜））
+  - music marché（[Backstage Café](https://ja.wikipedia.org/wiki/Backstage_Cafe "wikilink")、2019年4月1日 - （毎月第1月曜））
   - WONDER WHEEL（[YouTube Live](https://ja.wikipedia.org/wiki/YouTube_Live "wikilink")、2019年12月12日 - 2020年2月13日（毎月第2木曜））
 
 ## 脚注
@@ -38,6 +38,7 @@
 
 ## 外部リンク
 
+  -
   -
   -
   -

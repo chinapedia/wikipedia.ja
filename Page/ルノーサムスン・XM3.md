@@ -19,6 +19,8 @@
 
 [プラットフォームはロシア向けのアルカナに採用される](../Page/プラットフォーム_\(自動車\).md "wikilink")[ダチア・B0+プラットフォームとは異なり](https://ja.wikipedia.org/wiki/ダチア・B0プラットフォーム "wikilink")、2代目[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")や2代目[ルノー・キャプチャー](https://ja.wikipedia.org/wiki/ルノー・キャプチャー "wikilink")と同じく、[ルノー・日産・三菱アライアンス](https://ja.wikipedia.org/wiki/ルノー・日産・三菱アライアンス "wikilink")にて開発された[CMF-Bを採用](https://ja.wikipedia.org/wiki/日産・CMF "wikilink")。
 
+SUVではあるが、[FFのみで](../Page/前輪駆動.md "wikilink")、[4WD](https://ja.wikipedia.org/wiki/4WD "wikilink")の設定はない。
+
 エンジンバリエーションは1.3Lの[直噴ガソリン](https://ja.wikipedia.org/wiki/直噴ガソリンエンジン "wikilink")[ターボ](../Page/ターボチャージャー.md "wikilink")（TCe260）と1.6Lガソリン（1.6 GTe）の計2種が用意され、前者には[ゲトラグ](../Page/ゲトラグ.md "wikilink")製の7速[DCTが](../Page/デュアルクラッチトランスミッション.md "wikilink")、後者には[ジヤトコ](../Page/ジヤトコ.md "wikilink")製の[エクストロニックCVTが組み合わされる](../Page/無段変速機.md "wikilink")。尚、1.3Lはルノーと[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")が共同で新開発したエンジンで、[Aクラス（W177型）にも搭載されている](../Page/メルセデス・ベンツ・Aクラス.md "wikilink")。
 
 ## グレード
@@ -45,7 +47,7 @@ TCe260
 
 ## 関連項目
 
-  - [ルノー・アルカナ](https://ja.wikipedia.org/wiki/ルノー・アルカナ "wikilink")- [兄弟車](https://ja.wikipedia.org/wiki/兄弟車 "wikilink")
+  - [ルノー・アルカナ](../Page/ルノー・アルカナ.md "wikilink")- [兄弟車](https://ja.wikipedia.org/wiki/兄弟車 "wikilink")
   - [日産・CMF](https://ja.wikipedia.org/wiki/日産・CMF "wikilink")
 
 ## 外部リンク

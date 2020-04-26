@@ -27,7 +27,7 @@
   -
   -
   -
-[Category:空港運営者](https://ja.wikipedia.org/wiki/Category:空港運営者 "wikilink") [Category:イル＝ド＝フランスの企業](https://ja.wikipedia.org/wiki/Category:イル＝ド＝フランスの企業 "wikilink") [Category:フランスの公企業](https://ja.wikipedia.org/wiki/Category:フランスの公企業 "wikilink") [Category:ユーロネクスト・パリ上場企業](https://ja.wikipedia.org/wiki/Category:ユーロネクスト・パリ上場企業 "wikilink") [Category:1945年設立の企業](https://ja.wikipedia.org/wiki/Category:1945年設立の企業 "wikilink")
+[Category:フランスの空港運営者](https://ja.wikipedia.org/wiki/Category:フランスの空港運営者 "wikilink") [Category:イル＝ド＝フランスの企業](https://ja.wikipedia.org/wiki/Category:イル＝ド＝フランスの企業 "wikilink") [Category:フランスの公企業](https://ja.wikipedia.org/wiki/Category:フランスの公企業 "wikilink") [Category:ユーロネクスト・パリ上場企業](https://ja.wikipedia.org/wiki/Category:ユーロネクスト・パリ上場企業 "wikilink") [Category:1945年設立の企業](https://ja.wikipedia.org/wiki/Category:1945年設立の企業 "wikilink")
 
 1.
 2.

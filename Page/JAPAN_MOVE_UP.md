@@ -7,11 +7,13 @@
 
 毎週著名人をゲストに招くトーク番組である。番組の概要はホームページだけでなくフリーペーパーの[TOKYO HEADLINEやOKAYAMA](../Page/TOKYO_HEADLINE.md "wikilink") MOVEUPに詳細を載せている。
 
-## パーソナリティ
+## 出演者
+
+### パーソナリティ
 
   - [一木広治](../Page/一木広治.md "wikilink")
 
-## アシスタント
+### アシスタント
 
   - [Chigusa](https://ja.wikipedia.org/wiki/Chigusa "wikilink")
 

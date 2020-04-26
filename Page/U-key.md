@@ -1,7 +1,7 @@
 > この記事は[U-key](https://ja.wikipedia.org/wiki/U-key)から翻訳されています。
 
 
-**U-key** (ゆーき、1986年6月4日)は、日本の歌手。[BOOOST](https://booost.jp)の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、作詞、作曲担当、LINELIVER、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。埼玉県[深谷市](../Page/深谷市.md "wikilink")出身。血液型AB型。
+**U-key** (ゆーき、1986年6月4日)は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink") [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")／[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")／映像編集も手がける。農夫でもある。４人組バンドBOOOSTの[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。LINELIVER、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。埼玉県[深谷市](../Page/深谷市.md "wikilink")出身。血液型AB型。
 
 ## 来歴
 
@@ -23,73 +23,128 @@
 
 バンド活動以外にも、[LINEのライブ配信アプリ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")「[LINE LIVE](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")」でのライブ配信にも力を入れている。\[2\]昔の名曲から最新曲までのカバーやオリジナル曲を歌い、多くの[リスナー](../Page/リスナー.md "wikilink")から人気を集めている。約２年間配信を継続した結果、LINELIVE Presents LIVER AWARD 2018とLINELIVE Presents LIVER AWARD 2019でグランプリを2年連続受賞し、また、[LINE LIVEの育成プログラムである](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")「LIVER Support Program(ライバーサポートプログラム)」のライバーとしても選抜され、[LINEと](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")[UUUM](https://ja.wikipedia.org/wiki/UUUM "wikilink")から活動の共同サポートを受ける。\[3\]
 
-また、昔から[深谷市](../Page/深谷市.md "wikilink")で家族と農業を育てていた経験を生かし、バンドの新企画としてメンバーと一緒に[深谷ねぎ](https://ja.wikipedia.org/wiki/深谷ねぎ "wikilink")を育て、2020年2月に「バンド深谷ねぎ」販売開始した。\[4\]
+また、バンドの新企画としてメンバーと一緒に[深谷ねぎ](https://ja.wikipedia.org/wiki/深谷ねぎ "wikilink")を育て、2020年2月に「バンド深谷ねぎ」販売開始した。\[4\]
 
 ## 作詞・作曲
 
-| 曲名                | 作詞作曲 | 収録                 |
-| ----------------- | ---- | ------------------ |
-| 会いたくて…会えなくて…      | 作詞   |                    |
-| I believe in you  | 作詞   |                    |
-| ありがとう             | 作詞作曲 | BOOOST アルバム『愛されたい』 |
-| 大好きだよ             | 作詞作曲 |                    |
-| R                 | 作詞作曲 |                    |
-| 輪になって             | 作詞作曲 | BOOOST アルバム『愛されたい』 |
-| 薄っぺらくてありきたりなラブソング | 作詞   |                    |
-| 愛されたい愛されたい        | 作詞作曲 | BOOOST アルバム『愛されたい』 |
-| Best Friend       | 作詞作曲 | BOOOST アルバム『愛されたい』 |
-| 熱帯夜               | 作詞   |                    |
-| 嫌いになれたらいいのに       | 作詞作曲 | BOOOST アルバム『愛されたい』 |
-| We’ll Be There    | 作詞作曲 | BOOOST アルバム『愛されたい』 |
-| わた雪               | 作詞   | BOOOST アルバム『愛されたい』 |
+<table>
+<thead>
+<tr class="header">
+<th><p>曲名</p></th>
+<th><p>作詞作曲</p></th>
+<th><p>収録</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>会いたくて…会えなくて…</p></td>
+<td><p>作曲</p></td>
+<td><p>Breathing Booost シングル 『会いたくて…会えなくて…』</p>
+<p>BOOOST ミニアルバム</p>
+<p>『愛されたい』</p>
+<p>2020年ver.</p></td>
+</tr>
+<tr class="even">
+<td><p>I believe in you</p></td>
+<td><p>作詞</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ありがとう</p></td>
+<td><p>作詞作曲</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+<tr class="even">
+<td><p>大好きだよ</p></td>
+<td><p>作詞作曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>R</p></td>
+<td><p>作詞作曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>輪になって</p></td>
+<td><p>作詞作曲</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+<tr class="odd">
+<td><p>薄っぺらくてありきたりなラブソング</p></td>
+<td><p>作詞</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>愛されたい愛されたい</p></td>
+<td><p>作詞作曲</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+<tr class="odd">
+<td><p>Best Friend</p></td>
+<td><p>作詞作曲</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+<tr class="even">
+<td><p>熱帯夜</p></td>
+<td><p>作詞</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>嫌いになれたらいいのに</p></td>
+<td><p>作詞作曲</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+<tr class="even">
+<td><p>We’ll Be There</p></td>
+<td><p>作詞作曲</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+<tr class="odd">
+<td><p>わた雪</p></td>
+<td><p>作詞</p></td>
+<td><p>BOOOST アルバム『愛されたい』</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 出演
 
-#### イベント・コンサートゲスト出演
+### イベント・コンサートゲスト出演
 
-・映画『[アリー/スター誕生](https://ja.wikipedia.org/wiki/アリー/_スター誕生 "wikilink")』ジャパンプレミア（2018年12月）\[5\]\[6\]
+  - 映画『[アリー/スター誕生](https://ja.wikipedia.org/wiki/アリー/_スター誕生 "wikilink")』ジャパンプレミア（2018年12月）\[5\]\[6\]
+  - [Lady Gaga Enigmaリハーサル](https://ja.wikipedia.org/wiki/Lady_Gaga_Enigma "wikilink")（2018年12月）\[7\]
+  - [Tigh-Z](https://tigh-z.jp) -ROAD TO CASTLE 1st STAGE 大阪公演　（2019年12月29日）
+  - [さっぽろ雪祭り](../Page/さっぽろ雪まつり.md "wikilink")（2020年2月8日）\[8\]
 
-・[Lady Gaga Enigmaリハーサル](https://ja.wikipedia.org/wiki/Lady_Gaga_Enigma "wikilink")（2018年12月）\[7\]
+### ラジオ番組
 
-・[Tigh-Z](https://tigh-z.jp) -ROAD TO CASTLE 1st STAGE 大阪公演　（2019年12月29日）
+  - [night nippon.com/ オールナイトニッポンi](https://i.all)（2018年11月7日、ニッポン放送）
 
-・[さっぽろ雪祭り](../Page/さっぽろ雪まつり.md "wikilink")（2020年2月8日）\[8\]
+### バラエティ番組
 
-#### ラジオ番組
+  - [ドキドキ！芸能人とテレ東で「さしめし」してみた！](https://www.tv-tokyo.co.jp/tvtokyo_sashimeshi/)(2016年12月5日、テレビ東京）
+  - [話題のアプリ　ええじゃないか！](https://eejyanaika.tv/)（2019年６月27日、TOKYO MX）
+  - [メッセンジャーの〇〇は大丈夫なのか？](https://www.mbs.jp/daijyoubu/)（2020年1月９日、MBS毎日放送）
 
-・[オールナイトニッポンi](https://i.allnightnippon.com/)（2018年11月7日、ニッポン放送）
+### 雑誌・広報
 
-#### バラエティ番組
+  - [JUNON](../Page/JUNON.md "wikilink")（2018年12月発売号）
+  - 広報ふかや（2019年２月号）\[9\]
+  - [smart](https://smartmag.jp)（2020年12月発売号）
 
-・[ドキドキ！芸能人とテレ東で「さしめし」してみた！](https://www.tv-tokyo.co.jp/tvtokyo_sashimeshi/)(2016年12月5日、テレビ東京）
+### 書籍
 
-・[話題のアプリ　ええじゃないか！](https://eejyanaika.tv/)（2019年６月27日、TOKYO MX）
+  - LINE LIVER STYLE BOOK電子ブック（2018年11月６日、著者：後藤麻衣子）\[10\]
 
-・[メッセンジャーの〇〇は大丈夫なのか？](https://www.mbs.jp/daijyoubu/)（2020年1月９日、MBS毎日放送）
+### CM・広告
 
-#### 雑誌・広報
+  - LINE LIVE （2020年予定）\[11\]
 
-・[JUNON](../Page/JUNON.md "wikilink")（2018年12月発売号）
+### 受賞
 
-・広報ふかや（2019年２月号）\[9\]
-
-・[smart](https://smartmag.jp)（2020年12月発売号）
-
-#### 書籍
-
-LINE LIVER STYLE BOOK電子ブック（2018年11月６日、著者：後藤麻衣子）\[10\]
-
-#### CM・広告
-
-・LINE LIVE （2020年予定）\[11\]
-
-#### 受賞
-
-・LINE LIVE OF THE YEAR 2016\[12\]
-
-・LINE LIVE Presents LIVER AWARD 2018 グランプリ受賞
-
-・LINE LIVE Presents LIVER AWARD 2019グランプリ受賞\[13\]
+  - LINE LIVE OF THE YEAR 2016\[12\]
+  - LINE LIVE Presents LIVER AWARD 2018 グランプリ受賞
+  - LINE LIVE Presents LIVER AWARD 2019グランプリ受賞\[13\]
 
 ## 脚注
 

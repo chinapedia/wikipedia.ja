@@ -68,9 +68,9 @@ GOSATシリーズの後継として温室効果ガス濃度の状況を継続し
 
 ## 外部リンク
 
-  - [宇宙航空研究開発機構](http://www.jaxa.jp/)
-      - [温室効果ガス観測技術衛星「いぶき(GOSAT)」](http://www.jaxa.jp/projects/sat/gosat/index_j.html)
-      - [温室効果ガス観測技術衛星2号「いぶき2号」（GOSAT-2）](http://www.jaxa.jp/projects/sat/gosat2/index_j.html)
+  - [宇宙航空研究開発機構](https://www.jaxa.jp/)
+      - [温室効果ガス観測技術衛星「いぶき(GOSAT)」](https://www.jaxa.jp/projects/sat/gosat/index_j.html)
+      - [温室効果ガス観測技術衛星2号「いぶき2号」（GOSAT-2）](https://www.jaxa.jp/projects/sat/gosat2/index_j.html)
   - [国立環境研究所](http://www.nies.go.jp/index.html)
       - [国立環境研究所 GOSATプロジェクト（いぶき）](http://www.gosat.nies.go.jp/)
       - [国立環境研究所 GOSAT-2 プロジェクト](http://www.gosat-2.nies.go.jp/jp)

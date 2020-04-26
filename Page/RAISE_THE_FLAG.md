@@ -18,7 +18,7 @@
 
 1.  **[RAISE THE FLAG](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[5:41\]
       -
-        作詞：ZERO(YVES\&ADAMS), [CrazyBoy](https://ja.wikipedia.org/wiki/ELLY "wikilink")、作曲：[T.Kura](../Page/T.KURA.md "wikilink"), ZERO(YVES\&ADAMS), [JAY'ED](../Page/JAY'ED.md "wikilink")
+        作詞：ZERO (YVES\&ADAMS), [CrazyBoy](https://ja.wikipedia.org/wiki/ELLY "wikilink")、作曲：[T.Kura](../Page/T.KURA.md "wikilink"), ZERO (YVES\&ADAMS), [JAY'ED](../Page/JAY'ED.md "wikilink")
 2.  **[Yes we are](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[4:17\]
       -
         作詞：[RYUJI IMAICHI](https://ja.wikipedia.org/wiki/今市隆二 "wikilink"), [HIROOMI TOSAKA](https://ja.wikipedia.org/wiki/登坂広臣 "wikilink"), YVES\&ADAMS, JAY'ED、作曲：MATS LIE SKARE, CHRIS HOPE, RICO GREENE
@@ -35,13 +35,13 @@
         作詞：小竹正人、作曲：Mike Macdermid, Carlos Okabe, Toshiya Hosokawa
 6.  **東京** \[6:03\]
       -
-        作詞：小竹正人、作曲：Jun Tanaka(GENTOUKI)
+        作詞：小竹正人、作曲：Jun Tanaka ([GENTOUKI](../Page/ゲントウキ.md "wikilink"))
     <!-- end list -->
       - 映画『ウタモノガタリ -CINEMA FIGHTERS project-「ファンキー」』主題歌
       - [ディップ](../Page/ディップ_\(企業\).md "wikilink")「バイトルNEXT」CMソング
 7.  **[Rat-tat-tat](https://ja.wikipedia.org/wiki/Rat-tat-tat "wikilink")** \[2:30\]
       -
-        作詞：ZERO(YVES\&ADAMS), Ricky Luna, Rolando Luna, Deekei、作曲：Ricky Luna, Rolando Luna, Deekei
+        作詞：ZERO (YVES\&ADAMS), Ricky Luna, Rolando Luna, Deekei、作曲：Ricky Luna, Rolando Luna, Deekei
     <!-- end list -->
       - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink") ZOMBIE de DANCE HALLOWEEN HORROR NIGHTS CMソング
 8.  **[GOLDEN](https://ja.wikipedia.org/wiki/SCARLET_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[4:04\]
@@ -52,7 +52,7 @@
         作詞：YVES\&ADAMS、作曲：[Giorgio Tuinfort](https://ja.wikipedia.org/wiki/:en:Giorgio_Tuinfort "wikilink"), [Afrojack](https://ja.wikipedia.org/wiki/アフロジャック "wikilink")
 10. **[花歌 〜Flowers for you〜](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[4:24\]
       -
-        作詞：RYUJI IMAICHI, HIROOMI TOSAKA, SUNNY BOY、作曲：UTA, SUNNY BOY
+        作詞：RYUJI IMAICHI, HIROOMI TOSAKA, SUNNY BOY、作曲：[UTA](https://ja.wikipedia.org/wiki/UTA_\(音楽プロデューサー\) "wikilink"), SUNNY BOY
 
 ### DVD/Blu-ray
 
@@ -135,10 +135,10 @@
 
 #### DISC-5
 
-**LDH BASE Presents ファンクラブ限定 三代目 J SOUL BROTHERS SPECIAL LIVE "RAISE THE FLAG" ～X'mas Party～**
+**LDH BASE Presents ファンクラブ限定 三代目 J SOUL BROTHERS SPECIAL LIVE “RAISE THE FLAG” 〜X'mas Party〜**
 
   - ゲームコーナー
-      - イントロドン～LDH BASE 障害物リレー
+      - イントロドン〜LDH BASE 障害物リレー
 
 <!-- end list -->
 

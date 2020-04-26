@@ -32,12 +32,12 @@
 <tr class="odd">
 <td><p>石川 裕太 （いしかわ ゆうた）</p></td>
 <td><p>24歳</p></td>
-<td><p>非公表</p></td>
+<td><p>福岡県</p></td>
 <td><p>Vocal Keyboard</p></td>
 </tr>
 <tr class="even">
 <td><p>貫代 実津季 （かんだい みづき）</p></td>
-<td><p>2001.04.11（18歳）</p></td>
+<td><p>2001.04.11（19歳）</p></td>
 <td><p>三重県</p></td>
 <td><p>Vocal Keyboard</p></td>
 </tr>
@@ -103,7 +103,7 @@
 <tr class="even">
 <td><p>よせい</p></td>
 <td><p>2002.01.08（18歳）</p></td>
-<td><p>兵庫県</p></td>
+<td><p>大阪府</p></td>
 <td><p>Vocal Guitar</p>
 <p>Keyboard</p></td>
 </tr>
@@ -125,4 +125,4 @@
   - [Twitter](https://twitter.com/RupoTime)
   - [TikTok](https://www.tiktok.com/@rupotime)
 
-[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:YouTubeの歌い手](https://ja.wikipedia.org/wiki/Category:YouTubeの歌い手 "wikilink")
+[Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:YouTubeの歌い手](https://ja.wikipedia.org/wiki/Category:YouTubeの歌い手 "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")

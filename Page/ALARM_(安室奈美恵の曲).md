@@ -6,7 +6,7 @@
 ## 解説
 
   - 6枚目のアルバム『[STYLE](https://ja.wikipedia.org/wiki/STYLE_\(安室奈美恵のアルバム\) "wikilink")』に続く[2004年](../Page/2004年.md "wikilink")第1弾シングル。[3月17日](../Page/3月17日.md "wikilink")に[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")でリリースされた。
-  - 前作「[SO CRAZY/Come](https://ja.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")」に引き続き、自身がイメージキャラクターに選ばれ出演した[マンダム](../Page/マンダム.md "wikilink")「LUCIDO-L プリズムマジックヘアカラー」の[CMソング](../Page/コマーシャルソング.md "wikilink")。
+  - 前作「[SO CRAZY](https://ja.wikipedia.org/wiki/SO_CRAZY/Come "wikilink")」に引き続き、自身がイメージキャラクターに選ばれ出演した[マンダム](../Page/マンダム.md "wikilink")「LUCIDO-L プリズムマジックヘアカラー」の[CMソング](../Page/コマーシャルソング.md "wikilink")。
   - ジャケット・[PV共に](../Page/ミュージック・ビデオ.md "wikilink")[モノクロ仕様となっている](../Page/モノクローム.md "wikilink")。
   - 2004年5月23日に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で開催された「[MTV Video Music Awards Japan 2004](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")」にパフォーミング・アーティストとして出演し、「ALARM」をパフォーマンス。「Best R\&B Video」、「Best buzzAsia from Japan」の2冠となった。
   - 安室奈美恵単独名義のシングル作品では、唯一オリコントップ10入りできなかった作品であり、「[太陽のSEASON](https://ja.wikipedia.org/wiki/太陽のSEASON "wikilink")」から26作連続で続いていたトップ10入り記録が今作で一旦途切れた。しかし、初動売上枚数、累計売上枚数共に、前作を上回っていた。

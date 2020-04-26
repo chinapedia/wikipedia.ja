@@ -24,4 +24,4 @@
   - [よろしくお願いします](../Page/よろしくお願いします.md "wikilink")（\#1）
   - [クレバのベスト盤](../Page/クレバのベスト盤.md "wikilink")（\#1）
 
-[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:日本のヒップホップのシングル](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのシングル "wikilink") [Category:KREVAの楽曲](https://ja.wikipedia.org/wiki/Category:KREVAの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:日本のヒップホップのシングル](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのシングル "wikilink") [Category:KREVAの楽曲](https://ja.wikipedia.org/wiki/Category:KREVAの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")

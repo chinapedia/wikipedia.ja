@@ -26,7 +26,7 @@
     [NHKアーカイブスに保存されている番組のリスト](https://ja.wikipedia.org/wiki/NHKアーカイブス_\(施設\) "wikilink") : 2007年2月に公開\[15\]。
     [NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink") : 2008年12月に開始\[16\]。
     [NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink") : 2011年9月に配信開始\[17\]。
-    [NHKプラス](../Page/NHKプラス.md "wikilink") : 2020年4月に配信開始。
+    [NHKプラス](../Page/NHKプラス.md "wikilink") : 2020年3月に配信開始。
 
 ## 脚注
 

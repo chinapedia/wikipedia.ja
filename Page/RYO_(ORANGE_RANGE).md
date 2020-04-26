@@ -124,7 +124,7 @@
 
   - [RYO from ORANGE RANGE - Official Web Site](http://orangerange.com/ryo/)
 
-  - [Mytive Funtive 〜ORANGE RANGE RYO Official Blog〜](http://ameblo.jp/or-ryo)
+  - [Mytive Funtive 〜ORANGE RANGE RYO Official Blog〜](https://ameblo.jp/or-ryo)
 
   - \- RYOの公式Twitter
 

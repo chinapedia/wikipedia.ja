@@ -10,12 +10,12 @@
 ## 収録曲
 
 1.  **Glass**
-    作詞:河村隆一 作曲:河村隆一&吉田美智子
+    作詞：河村隆一　作曲：河村隆一＆吉田美智子　編曲：河村隆一＆[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")＆難波正司
       - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ
 2.  **Kiss**
-    作詞:河村隆一&吉田美智子 作曲:河村隆一
+    作詞：河村隆一&吉田美智子　作曲：河村隆一　編曲：河村隆一＆難波正司
 3.  **Glass**（フルート・ヴァージョン）
       -
         自身は、こちらの方が気に入っていると語っている。
 
-[Category:河村隆一の楽曲](https://ja.wikipedia.org/wiki/Category:河村隆一の楽曲 "wikilink") [Category:河村隆一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:河村隆一が制作した楽曲 "wikilink") [Category:吉田美智子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美智子が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:河村隆一の楽曲](https://ja.wikipedia.org/wiki/Category:河村隆一の楽曲 "wikilink") [Category:河村隆一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:河村隆一が制作した楽曲 "wikilink") [Category:吉田美智子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美智子が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")

@@ -72,7 +72,7 @@
 
   - [SPEED 10th Anniversary](https://www.toysfactory.co.jp/artist/speed/disco)（[TOY'S FACTORYによる](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")10周年記念サイト）
 
-[Category:SPEEDの楽曲](https://ja.wikipedia.org/wiki/Category:SPEEDの楽曲 "wikilink") [Category:伊秩弘将が制作した楽曲](https://ja.wikipedia.org/wiki/Category:伊秩弘将が制作した楽曲 "wikilink") [Category:1996年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1996年のデビュー・シングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink") [Category:ロ短調](https://ja.wikipedia.org/wiki/Category:ロ短調 "wikilink")
+[Category:SPEEDの楽曲](https://ja.wikipedia.org/wiki/Category:SPEEDの楽曲 "wikilink") [Category:伊秩弘将が制作した楽曲](https://ja.wikipedia.org/wiki/Category:伊秩弘将が制作した楽曲 "wikilink") [Category:1996年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1996年のデビュー・シングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:菓子のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:菓子のコマーシャルソング "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")
 
 1.  [SPEEDさよならツアー涙、涙…](http://web.archive.org/web/20010316014911/www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  「ポップスと著作権 よく似た曲がぞろぞろ（ニュース・スナップ）」『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1998年10月15日付朝刊、25頁。（[尾谷幸憲](https://ja.wikipedia.org/wiki/尾谷幸憲 "wikilink")による指摘）

@@ -66,6 +66,6 @@ Z1トラスには、[コントロール・モーメント・ジャイロ](https:
 ## 外部リンク
 
   - [NASA mission summary](http://science.ksc.nasa.gov/shuttle/missions/sts-92/mission-sts-92.html)
-  - [(JAXA HP) STS-92 若田宇宙飛行士搭乗 国際宇宙ステーションの打上げ 3A](http://iss.jaxa.jp/iss/3a/)
+  - [(JAXA HP) STS-92 若田宇宙飛行士搭乗 国際宇宙ステーションの打上げ 3A](https://iss.jaxa.jp/iss/3a/)
 
 [Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:2000年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:2000年のアメリカ合衆国 "wikilink") [Category:2000年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2000年の宇宙飛行 "wikilink") [Category:2000年10月](https://ja.wikipedia.org/wiki/Category:2000年10月 "wikilink")

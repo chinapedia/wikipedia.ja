@@ -88,4 +88,4 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [YUMING SPECTACLE SHANGRILA II](http://yuming.co.jp/discography/visual/visual09/)
 
-[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink")

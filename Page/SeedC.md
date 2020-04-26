@@ -1,11 +1,9 @@
 > この記事は[SeedC](https://ja.wikipedia.org/wiki/SeedC)から翻訳されています。
 
 
-**SeedC株式会社**（シードシー、SeedC,Inc.）は[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置く](../Page/北区_\(大阪市\).md "wikilink")、オンラインゲームの運営や企画・開発等を行う企業。旧社名は「株式会社ブロードゲーム」。
+**SeedC株式会社**（シードシー、SeedC,Inc.）は[大阪市](../Page/大阪市.md "wikilink")[中央区に本社を置く](../Page/中央区_\(大阪市\).md "wikilink")、オンラインゲームの運営や企画・開発等を行う企業。旧社名は「株式会社ブロードゲーム」。
 
 ## 沿革
-
-[SeedC_Head_Office.JPG](https://ja.wikipedia.org/wiki/File:SeedC_Head_Office.JPG "fig:SeedC_Head_Office.JPG")
 
   - [2002年](../Page/2002年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - [大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")のATC内ソフト産業プラザiMedioインキュベーション施設内にて、株式会社ブロードゲームとして創業。
   - [2002年](../Page/2002年.md "wikilink")[11月](../Page/11月.md "wikilink") - ゲームポータルサイト「ブロードゲーム」のサービスを開始。
@@ -45,4 +43,4 @@
   - [SeedC株式会社](http://www.seedc.co.jp/)
   - [Webゲー](http://www.webga.jp/)
 
-[Category:かつて存在したオンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:かつて存在したオンラインゲーム運営元 "wikilink") [Category:ソリューションサービス業](https://ja.wikipedia.org/wiki/Category:ソリューションサービス業 "wikilink") [Category:インターネット付随サービス業](https://ja.wikipedia.org/wiki/Category:インターネット付随サービス業 "wikilink") [Category:大阪市北区の企業](https://ja.wikipedia.org/wiki/Category:大阪市北区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:SeedC](https://ja.wikipedia.org/wiki/Category:SeedC "wikilink")
+[Category:かつて存在したオンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:かつて存在したオンラインゲーム運営元 "wikilink") [Category:ソリューションサービス業](https://ja.wikipedia.org/wiki/Category:ソリューションサービス業 "wikilink") [Category:インターネット付随サービス業](https://ja.wikipedia.org/wiki/Category:インターネット付随サービス業 "wikilink") [Category:大阪市中央区の企業](https://ja.wikipedia.org/wiki/Category:大阪市中央区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:SeedC](https://ja.wikipedia.org/wiki/Category:SeedC "wikilink")

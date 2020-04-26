@@ -69,7 +69,7 @@
 <td><p>1956</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Iowa.svg" title="wikilink">22px</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/キャロル・モリス" title="wikilink">キャロル・モリス</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイオワ州" title="wikilink">アイオワ州</a></p></td>
+<td><p><a href="../Page/アイオワ州.md" title="wikilink">アイオワ州</a></p></td>
 <td><p>ロングビーチ</p></td>
 <td><p>優勝</p></td>
 </tr>

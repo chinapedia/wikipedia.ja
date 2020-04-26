@@ -1,9 +1,9 @@
 > この記事は[KARATEKA](https://ja.wikipedia.org/wiki/KARATEKA)から翻訳されています。
 
 
-『**KARATEKA**』（カラテカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")ユニットである[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**KARATEKA**』（カラテカ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テクノユニットである](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
-[1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[キューン・ソニーレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")／トレフォートよりリリースされた。
+[1992年](../Page/1992年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[キューン・ソニーレコード](../Page/キューンミュージック.md "wikilink")／トレフォートよりリリースされた。
 
 帯のキャッチコピーは「**空手のマネして新聞配る-これ究極のKARATEKAなり。<small>ポップにヒート・アップした電気GROOVEのサード・アルバム。</small>**」（これはメンバー自ら考案したものではない）。このアルバムから以前まで歌詞カードに記載されていた収録曲の[BPM表記が無くなる](../Page/テンポ.md "wikilink")。
 

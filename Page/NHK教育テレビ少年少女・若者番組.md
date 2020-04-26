@@ -242,7 +242,7 @@ hello,</a></p></td>
 
 | 番組名                                                                         | 放送時間            |
 | --------------------------------------------------------------------------- | --------------- |
-| [こども手話ウイークリー](https://ja.wikipedia.org/wiki/こども手話ウイークリー "wikilink")         | 日曜17:50 - 18:00 |
+| [こども手話ウイークリー](../Page/こども手話ウイークリー.md "wikilink")                            | 日曜17:50 - 18:00 |
 | [ネコメンタリー 猫も、杓子も。](https://ja.wikipedia.org/wiki/ネコメンタリー_猫も、杓子も。 "wikilink") | 日曜18:30 - 18:55 |
 | [ごちそんぐDJ](https://ja.wikipedia.org/wiki/DJみそしるとMCごはん "wikilink")            | 日曜18:55 - 19:00 |
 | [もっと\!まじめにふまじめ かいけつゾロリ](../Page/もっと!まじめにふまじめ_かいけつゾロリ.md "wikilink")         | 日曜19:00 - 19:25 |
@@ -1021,7 +1021,7 @@ NHK短期ドラマ
 <td><p>復興</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/こども手話ウイークリー" title="wikilink">こども手話ウイークリー</a></p></td>
+<td><p><a href="../Page/こども手話ウイークリー.md" title="wikilink">こども手話ウイークリー</a></p></td>
 <td><p>1998年度 - 継続</p></td>
 <td><p>障害者</p></td>
 </tr>

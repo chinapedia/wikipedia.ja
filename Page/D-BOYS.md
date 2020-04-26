@@ -198,228 +198,32 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 
 ### 過去のメンバー
 
-（備考の「事務所」はワタナベエンターテインメントを表す）
-
-<table>
-<thead>
-<tr class="header">
-<th><p>名前</p></th>
-<th><p>よみ</p></th>
-<th><p>脱退時期</p></th>
-<th><p>卒業/脱退</p></th>
-<th><p>加入時期</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/一太郎_(俳優).md" title="wikilink">一太郎</a></p></td>
-<td><p>いちたろう</p></td>
-<td><p>2005年3月</p></td>
-<td><p>卒業</p></td>
-<td><p>結成時</p></td>
-<td><p><small><a href="../Page/グランドスラム.md" title="wikilink">グランドスラム</a>に移籍</small></p></td>
-</tr>
-<tr class="even">
-<td><p>中村勝樹</p></td>
-<td><p>なかむら かつき</p></td>
-<td><p>2005年4月1日[15]</p></td>
-<td><p>脱退[16]</p></td>
-<td><p>2004年10月</p></td>
-<td><p>事務所移籍</p></td>
-</tr>
-<tr class="odd">
-<td><p>鐵進太郎</p></td>
-<td><p>てつ しんたろう</p></td>
-<td><p>2004年10月</p></td>
-<td><p>事務所移籍</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/皆川佑馬.md" title="wikilink">皆川佑馬</a></p></td>
-<td><p>みなかわ ゆうま</p></td>
-<td><p>2007年2月1日[17]</p></td>
-<td><p>脱退</p></td>
-<td><p>2004年10月</p></td>
-<td><p><small>2009年に事務所を離籍、芸能界引退</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/城田優" title="wikilink">城田優</a></p></td>
-<td><p>しろた ゆう</p></td>
-<td><p>2008年7月6日</p></td>
-<td><p>卒業</p></td>
-<td><p>2004年10月</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/熊井幸平.md" title="wikilink">熊井幸平</a></p></td>
-<td><p>くまい こうへい</p></td>
-<td><p>2008年10月1日[18]</p></td>
-<td><p>脱退</p></td>
-<td><p>2005年12月</p></td>
-<td><p><small>第2回D-BOYSオーディショングランプリ<br />
-2009年に事務所を離籍、オフィスシュウに移籍</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/中村昌也.md" title="wikilink">中村昌也</a></p></td>
-<td><p>なかむら まさや</p></td>
-<td><p>2010年4月6日[19]</p></td>
-<td><p>脱退[20]</p></td>
-<td><p>2007年7月</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/中川真吾.md" title="wikilink">中川真吾</a></p></td>
-<td><p>なかがわ しんご</p></td>
-<td><p>2010年11月30日[21]</p></td>
-<td><p>脱退[22]</p></td>
-<td><p>2005年12月</p></td>
-<td><p>事務所移籍</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/中村優一.md" title="wikilink">中村優一</a></p></td>
-<td><p>なかむら ゆういち</p></td>
-<td><p>2011年11月8日</p></td>
-<td><p>脱退[23]</p></td>
-<td><p>2004年10月</p></td>
-<td><p><small>第1回D-BOYSオーディショングランプリ<br />
-元D☆DATEメンバー<br />
-2012年に芸能界引退につき事務所離籍[24]</small></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/遠藤雄弥.md" title="wikilink">遠藤雄弥</a></p></td>
-<td><p>えんどう ゆうや</p></td>
-<td><p>2012年9月17日[25]</p></td>
-<td><p>卒業[26]</p></td>
-<td><p>結成時</p></td>
-<td><p><small>D-BOYS初代リーダー</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/加治将樹.md" title="wikilink">加治将樹</a></p></td>
-<td><p>かじ まさき</p></td>
-<td><p>2004年10月</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/足立理.md" title="wikilink">足立理</a></p></td>
-<td><p>あだち おさむ</p></td>
-<td><p>2004年10月</p></td>
-<td><p><small>脱退・復帰を経ての卒業</small><br />
-<small><a href="https://ja.wikipedia.org/wiki/Breath_(芸能事務所)" title="wikilink">Breathに移籍</a></small></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/五十嵐隼士.md" title="wikilink">五十嵐隼士</a></p></td>
-<td><p>いがらし しゅんじ</p></td>
-<td><p>2013年11月30日[27]</p></td>
-<td><p>卒業[28]</p></td>
-<td><p>2004年10月</p></td>
-<td><p><small>元D☆DATEメンバー<br />
-芸能界引退につき事務所離籍</small></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/上鶴徹" title="wikilink">上鶴徹</a></p></td>
-<td><p>かみつる とおる</p></td>
-<td><p>2014年12月25日</p></td>
-<td><p>脱退</p></td>
-<td><p>2013年10月[29]</p></td>
-<td><p><small>D2メンバー<br />
-事務所離籍</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/橋本汰斗" title="wikilink">橋本汰斗</a></p></td>
-<td><p>はしもと たいと</p></td>
-<td><p>2015年12月25日</p></td>
-<td><p>卒業</p></td>
-<td><p>2008年12月</p></td>
-<td><p><small>事務所離籍</small></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山口賢貴" title="wikilink">山口賢貴</a></p></td>
-<td><p>やまぐち けんき</p></td>
-<td><p>2013年10月[30]</p></td>
-<td><p><small>D2メンバー<br />
-芸能界引退につき事務所離籍</small></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/近江陽一郎" title="wikilink">近江陽一郎</a></p></td>
-<td><p>おおみ よういちろう</p></td>
-<td><p>2016年3月31日</p></td>
-<td><p>卒業</p></td>
-<td><p>2013年10月[31]</p></td>
-<td><p><small>D2メンバー<br />
-芸能界引退につき事務所離籍</small></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋龍輝" title="wikilink">高橋龍輝</a></p></td>
-<td><p>たかはし りゅうき</p></td>
-<td><p>2016年6月30日</p></td>
-<td><p>卒業</p></td>
-<td><p>2008年7月</p></td>
-<td><p><small>芸能界引退につき事務所離籍</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/阿久津愼太郎" title="wikilink">阿久津愼太郎</a></p></td>
-<td><p>あくつ しんたろう</p></td>
-<td><p>2016年9月30日</p></td>
-<td><p>卒業</p></td>
-<td><p>2013年10月[32]</p></td>
-<td><p><small>D2メンバー<br />
-第6回D-BOYSオーディショングランプリ<br />
-芸能界引退につき事務所離籍</small></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/柳浩太郎.md" title="wikilink">柳浩太郎</a></p></td>
-<td><p>やなぎ こうたろう</p></td>
-<td><p>2016年12月20日</p></td>
-<td><p>卒業</p></td>
-<td><p>結成時</p></td>
-<td><p><small>2014年11月より芸能活動休止[33][34]<br />
-事務所離籍[35]</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/三上真史.md" title="wikilink">三上真史</a></p></td>
-<td><p>みかみ まさし</p></td>
-<td><p>2017年4月30日</p></td>
-<td><p>卒業</p></td>
-<td><p>2007年12月</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/土屋シオン.md" title="wikilink">土屋シオン</a></p></td>
-<td><p>つちや しおん</p></td>
-<td><p>2018年9月28日</p></td>
-<td><p>卒業</p></td>
-<td><p>2013年10月[36]</p></td>
-<td><p><small>D2メンバー<br />
-事務所離籍、卒業後はフリー活動</small></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/根岸拓哉" title="wikilink">根岸拓哉</a></p></td>
-<td><p>ねぎし たくや</p></td>
-<td><p>2018年12月26日</p></td>
-<td><p>卒業</p></td>
-<td><p>2013年10月[37]</p></td>
-<td><p><small>D2メンバー<br />
-事務所離籍、卒業後はフリー活動</small></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/白又敦.md" title="wikilink">白又敦</a></p></td>
-<td><p>しらまた あつし</p></td>
-<td><p>2019年3月29日</p></td>
-<td><p>卒業</p></td>
-<td><p>2013年10月[38]</p></td>
-<td><p><small>D2メンバー<br />
-事務所離籍、卒業後はフリー活動</small></p></td>
-</tr>
-</tbody>
-</table>
+| 名前                                                        | よみ         | 脱退時期              | 卒業/脱退                                                                                 | 加入時期           | 備考                                                                            |
+| --------------------------------------------------------- | ---------- | ----------------- | ------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------- |
+| [一太郎](../Page/一太郎_\(俳優\).md "wikilink")                   | いちたろう      | 2005年3月           | 卒業                                                                                    | 結成時            | <small>[グランドスラム](../Page/グランドスラム.md "wikilink")に移籍</small>                    |
+| [中村勝樹](https://ja.wikipedia.org/wiki/中村勝樹 "wikilink")     | なかむら かつき   | 2005年4月1日\[15\]   | 脱退\[16\]                                                                              | 2004年10月       | 事務所離籍                                                                         |
+| [鐵進太郎](https://ja.wikipedia.org/wiki/鐵進太郎 "wikilink")     | てつ しんたろう   | 2004年10月          | 事務所離籍                                                                                 |                |                                                                               |
+| [皆川佑馬](../Page/皆川佑馬.md "wikilink")                        | みなかわ ゆうま   | 2007年2月1日\[17\]   | 脱退                                                                                    | 2004年10月       | <small>芸能界引退につき事務所離籍</small>                                                  |
+| [城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")       | しろた ゆう     | 2008年7月6日         | 卒業                                                                                    | 2004年10月       |                                                                               |
+| [熊井幸平](../Page/熊井幸平.md "wikilink")                        | くまい こうへい   | 2008年10月1日\[18\]  | 脱退                                                                                    | 2005年12月       | <small>[オフィスシュウ](https://ja.wikipedia.org/wiki/オフィスシュウ "wikilink")に移籍</small> |
+| [中村昌也](../Page/中村昌也.md "wikilink")                        | なかむら まさや   | 2010年4月6日\[19\]   | 脱退\[20\]                                                                              | 2007年7月        |                                                                               |
+| [中川真吾](../Page/中川真吾.md "wikilink")                        | なかがわ しんご   | 2010年11月30日\[21\] | 脱退\[22\]                                                                              | 2005年12月       | 事務所離籍                                                                         |
+| [中村優一](../Page/中村優一.md "wikilink")                        | なかむら ゆういち  | 2011年11月8日        | 脱退\[23\]                                                                              | 2004年10月       | <small>芸能界引退につき事務所離籍</small>                                                  |
+| [遠藤雄弥](../Page/遠藤雄弥.md "wikilink")                        | えんどう ゆうや   | 2012年9月17日\[24\]  | 卒業\[25\]                                                                              | 結成時            |                                                                               |
+| [加治将樹](../Page/加治将樹.md "wikilink")                        | かじ まさき     | 2004年10月          |                                                                                       |                |                                                                               |
+| [足立理](../Page/足立理.md "wikilink")                          | あだち おさむ    | 2004年10月          | <small>[Breathに移籍](https://ja.wikipedia.org/wiki/Breath_\(芸能事務所\) "wikilink")</small> |                |                                                                               |
+| [五十嵐隼士](../Page/五十嵐隼士.md "wikilink")                      | いがらし しゅんじ  | 2013年11月30日\[26\] | 卒業\[27\]                                                                              | 2004年10月       | <small>芸能界引退につき事務所離籍</small>                                                  |
+| [上鶴徹](https://ja.wikipedia.org/wiki/上鶴徹 "wikilink")       | かみつる とおる   | 2014年12月25日       | 脱退                                                                                    | 2013年10月\[28\] | <small>事務所離籍</small>                                                          |
+| [橋本汰斗](https://ja.wikipedia.org/wiki/橋本汰斗 "wikilink")     | はしもと たいと   | 2015年12月25日       | 卒業                                                                                    | 2008年12月       | <small>事務所離籍</small>                                                          |
+| [山口賢貴](https://ja.wikipedia.org/wiki/山口賢貴 "wikilink")     | やまぐち けんき   | 2013年10月\[29\]    | <small>芸能界引退につき事務所離籍</small>                                                          |                |                                                                               |
+| [近江陽一郎](https://ja.wikipedia.org/wiki/近江陽一郎 "wikilink")   | おおみ よういちろう | 2016年3月31日        | 卒業                                                                                    | 2013年10月\[30\] | <small>芸能界引退につき事務所離籍</small>                                                  |
+| [高橋龍輝](https://ja.wikipedia.org/wiki/高橋龍輝 "wikilink")     | たかはし りゅうき  | 2016年6月30日        | 卒業                                                                                    | 2008年7月        | <small>芸能界引退につき事務所離籍</small>                                                  |
+| [阿久津愼太郎](https://ja.wikipedia.org/wiki/阿久津愼太郎 "wikilink") | あくつ しんたろう  | 2016年9月30日        | 卒業                                                                                    | 2013年10月\[31\] | <small>芸能界引退につき事務所離籍</small>                                                  |
+| [柳浩太郎](../Page/柳浩太郎.md "wikilink")                        | やなぎ こうたろう  | 2016年12月20日       | 卒業                                                                                    | 結成時            | <small>事務所離籍</small>                                                          |
+| [三上真史](../Page/三上真史.md "wikilink")                        | みかみ まさし    | 2017年4月30日        | 卒業                                                                                    | 2007年12月       |                                                                               |
+| [土屋シオン](../Page/土屋シオン.md "wikilink")                      | つちや しおん    | 2018年9月28日        | 卒業                                                                                    | 2013年10月\[32\] | <small>事務所離籍、卒業後はフリー活動</small>                                                |
+| [根岸拓哉](https://ja.wikipedia.org/wiki/根岸拓哉 "wikilink")     | ねぎし たくや    | 2018年12月26日       | 卒業                                                                                    | 2013年10月\[33\] | <small>事務所離籍、卒業後はフリー活動</small>                                                |
+| [白又敦](../Page/白又敦.md "wikilink")                          | しらまた あつし   | 2019年3月29日        | 卒業                                                                                    | 2013年10月\[34\] | <small>事務所離籍、卒業後はフリー活動</small>                                                |
 
 ### D-BOYSオーディション
 
@@ -434,69 +238,69 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 
 **第2回D-BOYSオーディション**
 
-  - ファイナル開催日：2005年7月31日\[39\]
-  - 受賞者\[40\]：
+  - ファイナル開催日：2005年7月31日\[35\]
+  - 受賞者\[36\]：
       - グランプリ：熊井幸平
       - 準グランプリ：瀬戸康史
-      - 審査員特別賞：佐藤雄一 \[41\]・中川真吾
+      - 審査員特別賞：佐藤雄一 \[37\]・中川真吾
 
 **第3回D-BOYSオーディション**
 
-  - ファイナル開催日：2006年9月3日\[42\]
+  - ファイナル開催日：2006年9月3日\[38\]
   - 受賞者：
       - グランプリ：柳下大
       - 準グランプリ：牧田哲也
       - [月刊デ・ビュー賞](https://ja.wikipedia.org/wiki/De☆View "wikilink")：牧田哲也
-      - [smart賞](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")：[三好真](../Page/三好真.md "wikilink")\[43\]
+      - [smart賞](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")：[三好真](../Page/三好真.md "wikilink")\[39\]
   - 主な最終選考出場者：橋本汰斗
 
 **第4回D-BOYSオーディション**
 
-  - ファイナル開催日：2007年5月26日\[44\]
+  - ファイナル開催日：2007年5月26日\[40\]
   - 受賞者：
       - グランプリ：碓井将大
       - 準グランプリ：三上真史
-  - 主な最終選考出場者：山口賢貴\[45\]
+  - 主な最終選考出場者：山口賢貴\[41\]
 
 **第5回D-BOYSオーディション**
 
-  - ファイナル開催日：2008年6月1日\[46\]
-  - 応募者総数：約2万2千人\[47\]
+  - ファイナル開催日：2008年6月1日\[42\]
+  - 応募者総数：約2万2千人\[43\]
   - 受賞者：
       - グランプリ：山田悠介
-      - 準グランプリ：西井幸人\[48\]
-      - 審査員特別賞：三津谷亮\[49\]
+      - 準グランプリ：西井幸人\[44\]
+      - 審査員特別賞：三津谷亮\[45\]
 
 **第6回D-BOYSオーディション**
 
-  - コンセプトは「毎週がオーディション」\[50\]\[51\]。
-  - ファイナル開催日：2009年9月6日\[52\]
-  - 応募者総数：約2万5千人\[53\]
-  - 最終選考出場人数：10人\[54\]
+  - コンセプトは「毎週がオーディション」\[46\]\[47\]。
+  - ファイナル開催日：2009年9月6日\[48\]
+  - 応募者総数：約2万5千人\[49\]
+  - 最終選考出場人数：10人\[50\]
   - 受賞者：
-      - グランプリ：阿久津愼太郎\[55\]
-      - 準グランプリ：池岡亮介\[56\]
-      - 審査員特別賞：近江陽一郎\[57\]・谷川竜一\[58\]\[59\]
+      - グランプリ：阿久津愼太郎\[51\]
+      - 準グランプリ：池岡亮介\[52\]
+      - 審査員特別賞：近江陽一郎\[53\]・谷川竜一\[54\]\[55\]
 
 **D☆DATE新メンバーオーディション**
 
-  - スペシャルユニット・D☆DATEの新メンバーを選考するオーディション。全国での予選やネット投票などを経て、最終選考会会場ではファン約500人による投票が行われた\[60\]。「D-BOYSオーディショングランプリ」部門は、ファイナル開催当日に急遽設けられたものである\[61\]。
-  - ファイナル開催日：2010年9月19日\[62\]
-  - 応募者総数：約3万人\[63\]
-  - 最終選考出場人数：6人\[64\]
+  - スペシャルユニット・D☆DATEの新メンバーを選考するオーディション。全国での予選やネット投票などを経て、最終選考会会場ではファン約500人による投票が行われた\[56\]。「D-BOYSオーディショングランプリ」部門は、ファイナル開催当日に急遽設けられたものである\[57\]。
+  - ファイナル開催日：2010年9月19日\[58\]
+  - 応募者総数：約3万人\[59\]
+  - 最終選考出場人数：6人\[60\]
   - 受賞者：
       - グランプリ：堀井新太
-      - D-BOYSオーディショングランプリ：山田裕貴\[65\]
-  - 主な最終選考出場者：今野良太郎\[66\]・前山剛久\[67\]
+      - D-BOYSオーディショングランプリ：山田裕貴\[61\]
+  - 主な最終選考出場者：今野良太郎\[62\]・前山剛久\[63\]
 
 **D-BOYSオーディション10th**
 
-  - D-BOYS結成10周年に先駆けて開催されたオーディション\[68\]。ファイナル開催の翌日、[TBSにてオーディションに密着した特別番組](../Page/TBSテレビ.md "wikilink")『THE・オーディション〜夢はD-BOYS・少年たちの戦い〜』が放送された。本オーディション受賞者および最終選考進出から事務所に入所した者はすべて、2014年5月にワタナベエンターテインメントから新設された系列事務所「DIVE'」に移籍となった\[69\]。
-  - ファイナル開催日：2013年11月3日\[70\]\[71\]
-  - 応募者総数：約3万人\[72\]\[73\]
-  - 最終選考出場人数：8人\[74\]\[75\]
-  - 受賞者：\[76\]\[77\]
-      - グランプリ：[楡木直也](https://ja.wikipedia.org/wiki/楡木直也 "wikilink")\[78\]
+  - D-BOYS結成10周年に先駆けて開催されたオーディション\[64\]。ファイナル開催の翌日、[TBSにてオーディションに密着した特別番組](../Page/TBSテレビ.md "wikilink")『THE・オーディション〜夢はD-BOYS・少年たちの戦い〜』が放送された。本オーディション受賞者および最終選考進出から事務所に入所した者はすべて、2014年5月にワタナベエンターテインメントから新設された系列事務所「DIVE'」に移籍となった\[65\]。
+  - ファイナル開催日：2013年11月3日\[66\]\[67\]
+  - 応募者総数：約3万人\[68\]\[69\]
+  - 最終選考出場人数：8人\[70\]\[71\]
+  - 受賞者：\[72\]\[73\]
+      - グランプリ：[楡木直也](https://ja.wikipedia.org/wiki/楡木直也 "wikilink")\[74\]
       - 準グランプリ：太田啓斗・[谷井優貴](https://ja.wikipedia.org/wiki/谷井優貴 "wikilink")
       - [non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")賞：楡木直也
       - D-BOYSドラマ賞：楡木直也
@@ -514,7 +318,7 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
     Discovery（旧名「p.o.t challenge」）は、D-BOYSオーディション受賞者などからD-BOYS加入を目指す育成システムで、東啓介・太田啓斗・谷井優貴などが所属した。2015年にD-BOYSに加入した宮崎秋人はこの「p.o.t challenge」出身である。Developmentは、Discoveryを卒業した者が個々に俳優として活動しながらD-BOYS加入を目指すシステムで、[安川純平](https://ja.wikipedia.org/wiki/安川純平 "wikilink")・楡木直也などが在籍した。Discovery・Developmentメンバーはすべて当時DIVE'所属。
   - 妖〜AYAKASHI〜
     メンバー：中尾暢樹・楡木直也・東啓介・安川純平・谷井優貴
-    2015年、D-BOYS出演のバラエティ番組『7Days BOYS 〜ボクタチの超☆育成計画〜』にて結成された、阿久津愼太郎が総合プロデュースを務める「妖怪を擬人化する」というコンセプトのユニット\[79\]。同年末で活動終了。
+    2015年、D-BOYS出演のバラエティ番組『7Days BOYS 〜ボクタチの超☆育成計画〜』にて結成された、阿久津愼太郎が総合プロデュースを務める「妖怪を擬人化する」というコンセプトのユニット\[75\]。同年末で活動終了。
 
 ### 地域弟分グループ
 
@@ -534,7 +338,7 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 ### バラエティ
 
   - [DD-BOYS](../Page/DD-BOYS.md "wikilink")（2006年4月 - 9月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [D-BOYS BE AMBITIOUS](https://ja.wikipedia.org/wiki/D-BOYS_BE_AMBITIOUS "wikilink")（2010年7月 - 12月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")\[80\]）レギュラー：D☆DATE
+  - [D-BOYS BE AMBITIOUS](https://ja.wikipedia.org/wiki/D-BOYS_BE_AMBITIOUS "wikilink")（2010年7月 - 12月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")\[76\]）レギュラー：D☆DATE
   - [カタリダス IT GREAT〜](https://ja.wikipedia.org/wiki/カタリダス "wikilink")〜MAKE（2010年10月 - 12月、[TBS](../Page/TBSテレビ.md "wikilink")）
   - 7Days BOYS 〜ボクタチの超☆育成計画〜（2015年4月 - 6月、[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")ほか）
 
@@ -542,8 +346,8 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 
   - [ザ・ヒットパレード〜芸能界を変えた男・渡辺晋物語〜](../Page/ザ・ヒットパレード〜芸能界を変えた男・渡辺晋物語〜.md "wikilink")（2006年5月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [D×TOWN](https://ja.wikipedia.org/wiki/D×TOWN "wikilink")（2012年4月 - 9月、テレビ東京）五十嵐・鈴木・山田裕・瀬戸・遠藤・柳下が各作品で主演
-  - D-BOYSお正月スペシャルドラマ「巫女に恋して」（2014年1月、テレビ東京）山田裕\[81\]
-  - D-BOYS 10th Anniversary Project ショートフィルムフェスティバル（2014年1月24日、[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）\[82\]\[83\]\[84\]
+  - D-BOYSお正月スペシャルドラマ「巫女に恋して」（2014年1月、テレビ東京）山田裕\[77\]
+  - D-BOYS 10th Anniversary Project ショートフィルムフェスティバル（2014年1月24日、[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）\[78\]\[79\]\[80\]
       - 「Breed in 10 hours」西井・陳内・荒井
       - 「10年目の告白」柳下・堀井
       - 「10分な学級会」池岡・近江・根岸・前山・志尊
@@ -569,7 +373,7 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
       - D-BOYS STAGE 9th「検察側の証人」（2011年10月 - 11月）
       - D-BOYS STAGE 10th「淋しいマグネット」（2012年4月 - 5月）
       - Dステ 11th「クールの誕生」（2012年8月 - 9月）
-      - Dステ 12th「TRUMP」（2013年1月 - 2月）\[85\]
+      - Dステ 12th「TRUMP」（2013年1月 - 2月）\[81\]
       - Dステ 13th「チョンガンネ 〜おいしい人生お届けします〜」（2013年4月 - 5月）
       - Dステ 14th「[十二夜](../Page/十二夜.md "wikilink")」（2013年10月）
       - Dステ 15th「駆けぬける風のように」（2014年10月 - 11月）
@@ -590,7 +394,7 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 
 <!-- end list -->
 
-  - [D-BOYS BE AMBITIOUS](https://ja.wikipedia.org/wiki/D-BOYS_BE_AMBITIOUS "wikilink")（2010年7月 - 12月、[InterFM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")\[86\]）
+  - [D-BOYS BE AMBITIOUS](https://ja.wikipedia.org/wiki/D-BOYS_BE_AMBITIOUS "wikilink")（2010年7月 - 12月、[InterFM](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")\[82\]）
   - D-RADIO BOYS SUPER（2011年10月 - 2017年9月、bay-fm）
 
 <!-- end list -->
@@ -706,7 +510,7 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 21.
 22.
 23.
-24. 2014年に芸能界に復帰。
+24.
 25.
 26.
 27.
@@ -719,15 +523,15 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 34.
 35.
 36.
-37.
+37. D-BOYS非加入（ワタナベエンターテインメント入所発表もなし）。
 38.
-39.
+39. ワタナベエンターテインメント所属となったが、D-BOYSには非加入。
 40.
-41. D-BOYS非加入（ワタナベエンターテインメント入所発表もなし）。
+41. D2に加入。
 42.
-43. ワタナベエンターテインメント所属となったが、D-BOYSには非加入。
+43.
 44.
-45. D2に加入。
+45.
 46.
 47.
 48.
@@ -737,11 +541,11 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 52.
 53.
 54.
-55.
+55. 谷川は当時10歳であり、第5回オーディションで西井幸人が作った史上最年少記録を更新した。
 56.
 57.
 58.
-59. 谷川は当時10歳であり、第5回オーディションで西井幸人が作った史上最年少記録を更新した。
+59.
 60.
 61.
 62.
@@ -756,16 +560,12 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 71.
 72.
 73.
-74.
+74. D-BOYSへの加入がないまま系列事務所DIVE'を退所。
 75.
-76.
-77.
-78. D-BOYSへの加入がないまま系列事務所DIVE'を退所。
+76. テレビとラジオの連動放送。
+77. 主演はD-BOYSオーディション10thグランプリ（D-BOYS非加入）の楡木直也。
+78.
 79.
-80. テレビとラジオの連動放送。
-81. 主演はD-BOYSオーディション10thグランプリ（D-BOYS非加入）の楡木直也。
+80.
+81. D-BOYSと合体する以前のD2による「Dステ」。
 82.
-83.
-84.
-85. D-BOYSと合体する以前のD2による「Dステ」。
-86.

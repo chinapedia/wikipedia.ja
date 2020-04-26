@@ -748,7 +748,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
     テレビシリーズ第4作。2014年4月より同年9月まで放送された。主人公は鋼牙の息子である冴島雷牙。
   - 『[牙狼〈GARO〉-炎の刻印-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-炎の刻印- "wikilink")』
     シリーズ初となる[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。中世ヨーロッパを舞台としており、2014年10月から2015年3月までの2クール放送。監督は林祐一郎、シリーズ構成・脚本は[小林靖子](../Page/小林靖子.md "wikilink")。ファミリー劇場ではFLASHアニメーションの「ゆるがろ」も放送された他、ラジオ『魔戒通信』やスペシャルドラマCDなどもリリースされた。
-  - 『牙狼-GARO the BIBLE-』
+  - 『[牙狼-GARO the BIBLE-](https://ja.wikipedia.org/wiki/牙狼-GARO_the_BIBLE- "wikilink")』
     『牙狼』初の漫画オリジナル作品。鋼牙の父であり雷牙の祖父である大河の活躍が描かれている。
     掲載誌『[コミックガム](../Page/コミックガム.md "wikilink")』が2015年6月で一時休刊した際に本作も連載休止した。その後『ガム』はweb媒体のコミックサイトとして再開したが、本作は再開未定状態が続いている。単行本化もされていない。
   - 『[牙狼〈GARO〉-GOLD STORM- 翔](https://ja.wikipedia.org/wiki/牙狼-GARO-_-GOLD_STORM-_翔 "wikilink")』（劇場版）
@@ -762,13 +762,13 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
   - 『[牙狼〈GARO〉 -魔戒烈伝-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-魔戒烈伝- "wikilink")』
     10周年記念映像作品第2弾として2016年4月から同年6月まで放送。歴代実写シリーズ作品に登場した様々な人物の知られざる物語をオムニバス形式で描く。
   - 『[牙狼〈GARO〉-DIVINE FLAME-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-炎の刻印-#劇場版 "wikilink")』
-    シリーズ初のアニメ映画。『炎の刻印』から4年後を描いた続編で「愛」をテーマにしている。2016年5月21日より公開開始。
+    シリーズ初のアニメ映画。『炎の刻印』から4年後を描いた続編で[愛](../Page/愛.md "wikilink")をテーマにしている。2016年5月21日より公開開始。
   - 『[牙狼〈GARO〉 -阿修羅-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-魔戒烈伝-#牙狼〈GARO〉_-阿修羅- "wikilink")』
     10周年記念スペシャル作品として2016年7月1日に放送。[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")に所属するプロレスラー[棚橋弘至](../Page/棚橋弘至.md "wikilink")と[真壁刀義](../Page/真壁刀義.md "wikilink")が出演。
   - 『[絶狼〈ZERO〉 -DRAGON BLOOD-](https://ja.wikipedia.org/wiki/絶狼-ZERO-_-DRAGON_BLOOD- "wikilink")』
-    2017年放送。『絶狼〈ZERO〉』シリーズの続編となっている\[71\]。
+    2017年放送。『絶狼〈ZERO〉』シリーズの2作目\[71\]。[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")で撮影。
   - 『[牙狼〈GARO〉 -VANISHING LINE-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-VANISHING_LINE- "wikilink")』
-    近未来都市を舞台にしたテレビアニメ第3弾。『炎の刻印』『紅蓮ノ月』と同様に2017年10月から連続2クールで放送。制作発表時にはGAROシリーズであることが伏せられていたが、放送開始約1か月前にシリーズ作品の1つであることが正式に発表された。また、本作品公開中にアニメ作の空間は全て同一のものであることが明かされた。
+    近未来都市を舞台にしたテレビアニメ第3弾。『炎の刻印』『紅蓮ノ月』と同様に2017年10月から連続2クールで放送。制作発表時にはGAROシリーズであることが伏せられていたが、放送開始約1か月前にシリーズ作品の1つであることが正式に発表された。また、作中でこれまでのアニメ版は全て[同一の世界である事が明かされた](../Page/シェアード・ワールド.md "wikilink")。
   - 『[牙狼〈GARO〉神ノ牙-KAMINOKIBA-](https://ja.wikipedia.org/wiki/牙狼-GARO-_神ノ牙-KAMINOKIBA- "wikilink")』
     2018年公開の映画。流牙を主役に据えた一連のシリーズの集大成として製作。『闇を照らす者』で共に戦った2人の魔戒騎士、テレビシリーズ版『GOLD STORM 翔』で最凶の敵として立ちはだかったホラー・ジンガが登場する。
   - 『[薄墨桜 -GARO-](https://ja.wikipedia.org/wiki/牙狼_-紅蓮ノ月-#劇場版 "wikilink")』
@@ -777,6 +777,8 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
     2018年10月放送。ジンガが魔戒騎士・御影神牙として転生した物語を描く。
   - 『[牙狼〈GARO〉-月虹ノ旅人-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-月虹ノ旅人- "wikilink")』
     雷牙を主人公にした映画かつ冴島家シリーズの集大成作品。
+  - 『[GARO -VERSUS ROAD-](https://ja.wikipedia.org/wiki/GARO_-VERSUS_ROAD- "wikilink")』
+    2020年4月放送。15周年記念作品。これまでのシリーズとは異なり[VR](../Page/バーチャル・リアリティ.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")を題材にしている。
 
 ## 関連商品
 
@@ -970,9 +972,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 
   - 劇場版関連
 
-:\* [牙狼〈GARO〉 〜RED REQUIEM〜公式サイト](http://www.garo-3dmovie.jp/)
-
-:\* [「呀〈KIBA〉〜暗黒騎士鎧伝〜」公式サイト](http://garo-project.jp/KIBA/) - 劇場公開当時は http://kiba-gaiden.jp/ であったが手放され、以降は無関係なサイトとなっている。
+:\* [「呀〈KIBA〉〜暗黒騎士鎧伝〜」公式サイト](http://garo-project.jp/KIBA/)
 
 :\* [蒼哭ノ魔竜 -GARO SOUKOKU NO MARYU-公式サイト](http://garo-project.jp/SOUKOKU/)
 

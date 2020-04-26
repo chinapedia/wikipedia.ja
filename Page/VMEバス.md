@@ -57,4 +57,4 @@ VMEでの転送はすべて[DMAであり](../Page/Direct_Memory_Access.md "wikil
   - [VME bus pinout and signals](http://pinouts.ru/Slots/vmebus_pinout.shtml)
   - [First PCIexpess based VMEboard](http://www.recab.se/products/rvme1200)
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

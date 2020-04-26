@@ -17,6 +17,8 @@
 
 ## 特徴
 
+[Acer_Veriton_Back_Panel_Interface.jpg](https://ja.wikipedia.org/wiki/File:Acer_Veriton_Back_Panel_Interface.jpg "fig:Acer_Veriton_Back_Panel_Interface.jpg")
+
   - ライセンス料が必要なHDMIに対して、VESAはDisplayPortを無償で使用できるように策定していた\[7\]。2015年になってMPEG LA社がDisplayPortライセンスを策定しライセンス料の支払いを要求している\[8\]がVESAは認めていない\[9\]。VESAの公式サイトの[FAQ](https://www.vesa.org/faqs/#General%20DisplayPort%20FAQs)によれば、2017年10月現在、ライセンス料は支払われていないようである。[MPEG LAのプレスリリースによれば](https://ja.wikipedia.org/wiki/MPEG_LA "wikilink")、MPEG LAライセンスプールの一つ以上の特許が含まれている地域で製造または販売された場合、1製品当たり0.20ドルのライセンス料が発生するとしている\[10\]。2015年9月現在、MPEG LAのライセンスには[日立マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")、[Philips](https://ja.wikipedia.org/wiki/Philips "wikilink")、[ラティスセミコンダクター](https://ja.wikipedia.org/wiki/ラティスセミコンダクター "wikilink")、[Rambus](https://ja.wikipedia.org/wiki/Rambus "wikilink")、[Sony](https://ja.wikipedia.org/wiki/Sony "wikilink")の特許が含まれる\[11\]。またDisplayPortはケーブルの両端に制御ICが必要なため、ケーブルの製造コストはHDMIより高い。DisplayPort規格は無料で利用できるが、規格へのアクセスにVESAの会員資格を必要とし\[12\]年会費は安い場合で5,000ドルである\[13\]。
   - 複数のディスプレイを数珠つなぎにし、今までよりも簡単に[マルチディスプレイ環境を構築することが出来る](../Page/マルチモニター.md "wikilink")。
   - [PCや](../Page/パーソナルコンピュータ.md "wikilink")[セットトップボックス](../Page/セットトップボックス.md "wikilink")はソース機器、モニタ・[プロジェクタ](../Page/プロジェクタ.md "wikilink")などはシンク機器として定義されている。
@@ -60,6 +62,19 @@
   - HDCP 1.3に対応\[24\]
   - コネクタ寸法：約15.9 mm×4.66 mm
   - 最大ケーブル長：15 m
+
+### DisplayPort dual-mode (DP++)
+
+DisplayPort dual-mode（DP++）は、デュアルモードDisplayPortとも呼ばれ、DisplayPort出力を単純なパッシブアダプタを使用してHDMIまたはDVIディスプレイに接続できるようにする規格である。デュアルモードはオプション機能なので、すべてのDisplayPortソースが必ずしもDVI/HDMIパッシブアダプタをサポートしているわけではないが、実際にはほぼすべてのデバイスがサポートしている。公式には、デュアルモードをサポートするDPポートを示すために「DP++」のロゴを使用する必要があるが、ほとんどの最新のデバイスではこのロゴは使用されていない。
+
+デュアルモードを実装したデバイスは、DVIまたはHDMIアダプタが接続されていることを検出し、DisplayPort信号の代わりにDVI/HDMI TMDS信号を送信する。
+
+#### デュアルモードの制限
+
+  - 接続端子の速度制限 - DP++ポートから送信されるピンアウトとデジタル信号値はネイティブのDVI/HDMI出力と同じだが、信号はDVIやHDMIで使用される5Vではなく、DisplayPortのネイティブ電圧（3.3V）で出力される。そのため、デュアルモードアダプタには、電圧を変化させるレベルシフト回路が必要になる。この回路があると、接続端子の動作速度に制限があるため、高速な規格が追加されるたびに新しい接続端子が必要になる。
+  - 一方向性 - デュアルモード規格では、DisplayPort出力が単純なパッシブアダプタを使用してDVI/HDMI信号を出力する方法が規定されているが、DisplayPortディスプレイがパッシブアダプタを使用してDVI/HDMI入力信号を受信できるようにするための対応規格は存在しない。その結果、DisplayPortディスプレイは、ネイティブのDisplayPort信号のみを受信することができ、DVIまたはHDMI入力信号は、アクティブ変換デバイスを使用してDisplayPortフォーマットに変換する必要がある。DVIおよびHDMIソースは、パッシブアダプタを使用してDisplayPortディスプレイに接続することはできない。
+  - シングルリンクDVIのみ - DisplayPortデュアルモードは、DisplayPortコネクタのピンを使用してDVI/HDMI信号を送信することで動作するため、20ピンのDisplayPortコネクタはシングルリンクDVI信号（19ピンを使用）のみを出力することができる。デュアルリンクDVI信号は25ピンを使用するため、DisplayPortコネクタからパッシブアダプタを介してネイティブに送信することはできない。デュアルリンクDVI信号は、アクティブ変換デバイスを使用してネイティブのDisplayPort出力信号から変換することによってのみ生成することができる。
+  - USB-Cの不適合性 - [USB-C](https://ja.wikipedia.org/wiki/USB-C "wikilink")ケーブルを介してDisplayPort信号を送信するDisplayPort代替モード仕様には、デュアルモードプロトコルのサポートが含まれていない。そのため、DP-to-DVIおよびDP-to-HDMIパッシブアダプタは、USB-CからDPアダプタに接続した場合には機能しない。
 
 <table>
 <thead>

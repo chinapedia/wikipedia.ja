@@ -1,19 +1,30 @@
 > この記事は[CD Manipulator](https://ja.wikipedia.org/wiki/CD_Manipulator)から翻訳されています。
 
 
-『**CD Manipulator**』（シーディー マニピュレーター）は、[Windows上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[CDの](../Page/コンパクトディスク.md "wikilink")[ディスクイメージを抽出](https://ja.wikipedia.org/wiki/ディスクドライブ仮想化ソフト#イメージファイル "wikilink")（[リッピング](../Page/リッピング.md "wikilink")）することができる[ライティングソフトである](../Page/ライティングソフトウェア.md "wikilink")。主にCDの[バックアップ](../Page/バックアップ.md "wikilink")を取るために使う。操作ボタンが「[CloneCD](../Page/CloneCD.md "wikilink")」と酷似しているため便利であり、CDドライブを調べる機能やMSF計算機機能なども搭載されている。ただし、対応しているメディアがCDのみで[DVD](../Page/DVD.md "wikilink")には対応しておらず開発も10年以上前に終了しているが、[Windows 7にも対応している](../Page/Microsoft_Windows_7.md "wikilink")。
+**CD Manipulator**（シーディー マニピュレーター）は、[Windows上で動作するCD](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[リッピング](../Page/リッピング.md "wikilink")・[ライティングソフトウェア](../Page/ライティングソフトウェア.md "wikilink")である。
 
-上述の通り公式サイトでは開発が終了しているが、その後も公式公認の有志により[2007年](../Page/2007年.md "wikilink")まで公式版で発生する[バグ](../Page/バグ.md "wikilink")を直した修正版が開発された。
+[フリーウェア](../Page/フリーウェア.md "wikilink")であること、国産であるためすべてのUIが日本語で表示できることから大きな人気を集めた。2003年には、[窓の杜](../Page/窓の杜.md "wikilink")大賞「金賞」受賞\[1\]。
 
-## 関連項目
+CDドライブを調べる機能やMSF計算機機能なども搭載されている。CDドライブが対応していればRAW+96モードでデータの読み書きを行える。対応メディアはCDのみでDVDには対応していない。
 
-  - [DVD Decrypter](../Page/DVD_Decrypter.md "wikilink")
-  - [DVD Shrink](../Page/DVD_Shrink.md "wikilink")
-  - [CloneCD](../Page/CloneCD.md "wikilink")
+2004年1月のバージョン2.70をもって更新を終了した\[2\]。
+
+## 派生版
+
+作者によるリリースは2004年1月に終了したが、オープンソースであるため、不具合修正など派生版を作成するものもいた。
+
+2006年6月には、しーやんがcdm-fixの名称で修正を行ったものを公開し、2007年5月まで更新が行われた。2012年10月の著作権法の改正の施行に伴い、公開を停止した。
+
+## 脚注
 
 ## 外部リンク
 
   - [CD Manipulator跡地](http://www.storeroom.info/cdm/)（公式サイト）
-  - [CD Manipulator Version 2.70 Fix-7](https://ux.getuploader.com/software/download/3)（有志による修正版DLリンク）
 
+  - [cdm-fix](https://hp.vector.co.jp/authors/VA015850/software/cdm-fix.html)（しーやんによる派生版）
+
+  -
 [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:ライティングソフト](https://ja.wikipedia.org/wiki/Category:ライティングソフト "wikilink") [Category:DVDリッパー](https://ja.wikipedia.org/wiki/Category:DVDリッパー "wikilink") [Category:マニピュレーター](https://ja.wikipedia.org/wiki/Category:マニピュレーター "wikilink")
+
+1.
+2.

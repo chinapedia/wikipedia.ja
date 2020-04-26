@@ -11,7 +11,7 @@
 
 SEGAHIKARUはアーケードの最高峰を目指して開発された基板であったが、2000年3月4日に発売された[PlayStation 2に性能面で抜かれている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。例えば、公称スペック上の浮動小数点演算性能では[PlayStation 2に](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2.2倍以上の差を付けられている上に、独立したGPUも設けられていない。
 
-同時期に登場した[NAOMI](../Page/NAOMI.md "wikilink")が[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")の設計の転用で作られているように、以降のアーケードゲームでは[家庭用ゲーム機や](../Page/ゲーム機.md "wikilink")[パソコンの](../Page/パーソナルコンピュータ.md "wikilink")[システムアーキテクチャ](../Page/システムアーキテクチャ.md "wikilink")を転用した基盤が主流となって行き、SEGAHIKARUのような[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用の[システムアーキテクチャ](../Page/システムアーキテクチャ.md "wikilink")を持つ基板は姿を消して行った。
+本基板は、[NAOMI](../Page/NAOMI.md "wikilink")のバージョンアップ版であるNAOMI2を除いた場合、セガがシステムアーキテクチャを含めて独自に設計した最後の基板となった。同時期に登場したNAOMIもセガ独自の設計であるものの、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")の設計の転用で作られているように、以降のアーケードゲームでは[家庭用ゲーム機（ハード）や](../Page/ゲーム機.md "wikilink")[パソコン（PC）の](../Page/パーソナルコンピュータ.md "wikilink")[システムアーキテクチャ](../Page/システムアーキテクチャ.md "wikilink")を転用した基板が主流となって行き（以降のセガとしては前者に[Xbox](../Page/Xbox.md "wikilink")互換のChihiro、後者にLinuxやWindows OSベースの[LINDBERGH](../Page/LINDBERGH.md "wikilink")などがある）、本基板のような[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用の[システムアーキテクチャ](../Page/システムアーキテクチャ.md "wikilink")を持つ基板は姿を消して行った。
 
 ## スペック
 

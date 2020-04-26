@@ -42,7 +42,7 @@
   - 6月23日(日)、『「ゼロからでも始められるアイドル運営」刊行5周年記念ライブ＆トーク「17歳」東京編・昼の部』(渋谷 LOFT9)、同日夜「ステキなタイミング vol.5」(LOFT HEAVEN)にそれぞれ出演。
   - 6月27日(木)、グループ初となる「バタフライエフェクト」Official Music Video を公開\[7\]。
   - 6月29日(土)、初遠征。京都にてオフ会「RAYと観光しよう」を開催。メンバーによる解説付き京都・東寺観光と、梅小路公園でチェキ会を行った。また、同日夜に滋賀県大津市にて「フラクタル！！(ナイト)」に出演。(滋賀 U★STONE) この日のライヴから月日が舞台出演の為ライヴ、物販、遠征共に不参加となる。
-  - 6月30日(日)、xoxo(Kiss\&Hug) EXTREME & RAY合同オフ会「50分完全サイレントオフ会」を開催。(大阪市)また、同日「HUG！BUG！FAT！」に出演。(北堀江 club vijon)
+  - 6月30日(日)、朝、xoxo(Kiss\&Hug) EXTREME & RAY合同オフ会「50分完全サイレントオフ会」を開催。(大阪市)また、同日「HUG！BUG！FAT！」に出演。(北堀江 club vijon)
   - 7月1日(月)、「COSMICBOX vol.89 - SUMMER SPECIAL -」に出演。(渋谷 eggman) この日のライヴから甲斐莉乃の喉の調子が悪く、ライブではダンスのみでのパフォーマンス、物販では筆談となる。また、白川さやかは膝の故障により着席での歌唱のみ、月日は舞台出演の為不参加となり、内山結愛のみ五体満足での参加となった。この日、RAYの[公式Facebook](https://m.facebook.com/RAY.world.official/)が開設された。
   - 7月4日(木)、LosingMySilentDoors presents 音景-Onkei- 12「極彩色の7月」に出演。(吉祥寺 NEPO) この日のライヴから月日が復帰。
   - 7月6日(土)、「ミルキーウェイの岸辺から」に出演。(代々木 Zher the Zoo)
@@ -54,9 +54,9 @@
   - 7月23日(火)、「エクストロメ〜GROWING PENTAGON〜」に出演。(渋谷 O-NEST) 白川さやかが学業の為不参加。
   - 7月26日(金)、「会心ノ一撃 不定期公演\[\#名称未設定 -vol 1-\]」に出演。(新宿 MARZ)
   - 7月27日(土)、「[第58回 日本SF大会 彩こん Sci-con アイドルシンギュラリティ](https://www.scicon.jp/ja/event/hall/1.html)」に出演。(大宮Sonic City 小ホール)、また同日開催された「[アイドル×SF交流企画トークショー](https://www.scicon.jp/ja/event/floor/07271100/295.html)」に楽曲担当のみきれちゃんが参加。(大宮 Sonic City 6階 603)
-  - 8月4日(日)、昼『LiLii Kaona × 月見ル君想フ 「Moonromantic by Organica Vol.2｣』 (青山 月見ル君想フ)、夜「The Florist presents 「STRANGE LOVE」(下北沢 ERA)に出演。この日の昼のライブにて、7月1日から喉の故障でダンスのみのパフォーマンスだった甲斐莉乃が歌唱に復帰。昼夜公演ともにノンストップのライヴを行った。
+  - 8月4日(日)、昼『LiLii Kaona × 月見ル君想フ 「Moonromantic by Organica Vol.2｣』 (青山 月見ル君想フ)、夜「The Florist presents 「STRANGE LOVE」(下北沢 ERA)に出演。この日の昼のライブにて、7月1日から喉の故障でダンスのみのパフォーマンスだった甲斐莉乃が歌唱に復帰、フロアでシーチキンの缶詰を食べる。昼夜公演ともにノンストップのライヴを行った。
   - 8月9日(金)、NECRONOMIDOLヨーロッパツアー記念公演「TOKYO INQUISITION」 に出演。(渋谷 Chelsea Hotel)
-  - 8月10日(土)、「\#DSPM のど自慢」に内山結愛が出演。(新宿 LOFT) MUSH & Co.の「明日も」を披露。
+  - 8月10日(土)、「\#DSPM のど自慢」に内山結愛が出演。(新宿 LOFT) MUSH & Co.「明日も」のカバーを披露。
   - 8月11日(日)、昼「RAYの夏祭り」、夜「自動運動 vol.1」をそれぞれ主催。昼のイベントにて「しづかの海」を初披露。(詳細は主催イベント欄を参照)。(大塚 HEARTS NEXT)。
   - 8月14日(水)、「じゅじゅの『宴』三十一戒目」に出演。(渋谷 REX)
   - 8月15日(木)、本邦初公開となる新曲「[星に願いを (Wish Upon a Star)」のOfficial Audio](https://www.youtube.com/watch?v=rQ9im3MmgcU)をYou Tubeにて公開\[8\]。
@@ -98,7 +98,7 @@
   - 10月19日(土)、初の海外遠征で台湾の台北にてTotal Feedbackに出演。『Blue』の世界最速先行販売。この日のみライブ動画撮影可。(台北 The WALL)
   - 10月20日(日)、オフ会「RAYと雙連朝市をめぐろう！」開催。(RAYと一緒にローカル感満天の朝市を観光しよう。参加者の皆さん一人ひとりに思いを込めて、メンバーがその場で買ったものをプレゼント！)
   - 10月22日(火)、「new encounters SP vol.25」、「new encounters SP vol.26」にそれぞれ出演。(渋谷 VUENOS)
-  - 10月25日(金)、ニコニコ生放送「IDOL & READ チャンネル vol.23」に生出演。
+  - 10月25日(金)、ニコニコ生放送「[IDOL AND READチャンネル](../Page/IDOL_AND_READ.md "wikilink") vol.23」に生出演。
   - 10月26日(土)、「Meteor」MV公開\[12\]\[13\]。
   - 10月27日(日)、Total Feedbackに出演。(KOENJI HIGH)
   - 10月30日(水)、 リリースとしては初となる1stシングル『Blue』発売日。
@@ -115,7 +115,7 @@
   - 11月17日(日)、「MIC RAW RUGA(laboratory) 定期公演 HIGH-HO vol.12」に出演。(下北沢 BASEMENT BAR)、RAY公式You Tubeアカウントにて新曲「no title」Official Audioを公開。
   - 11月18日(月)、月日が「月日と優美〜邂逅〜」主催。(ゲスト:是枝優美)(カラオケONE 銀座店)
   - 11月23日(土・祝)、「NIGHT ON THE PLANET！presents『MAGICAL GAMES vol.5』」「アナザー甲斐莉乃 第二弾」( 西永福 JAM)、「1stシングル『Blue』リリースイベント」(タワーレコード 渋谷店 5F)に出演。
-  - 11月24日(日)、「武井麻里子presents『エレ日。vol.16』に出演。「アナザー甲斐莉乃 第一弾」開催。(下北沢 MOSAiC)、夜は内山結愛のみ「Total Feedback」(高円寺HIGH)にDJで出演。
+  - 11月24日(日)、「武井麻里子presents『エレ日。vol.16』に出演。「アナザー甲斐莉乃 第三弾」開催。(下北沢 MOSAiC)、夜は内山結愛のみ「Total Feedback」(高円寺HIGH)にDJで出演。
   - 11月27日(水)、「『ギュウ農フェスクロニクル』お渡し会」に出演。(ジュンク堂書店 池袋店 1F)
   - 11月29日(金)、「LiLii Kaona presents Surrounded by Organica vol.11」に出演。(青山月見ル君想フ)
   - 11月30日(土)、Instagramにて生配信「RAYのツキイチ」開催(14:00〜15:00)。
@@ -169,22 +169,29 @@
   - 3月21日(土)、月日がcollectionsにて『SKIP×SKIP 〜イルカの波長を感じたい〜』を開催。(静岡県伊東 ドルフィンファンタジー)
   - 3月22日(日)、「ギュウ農フェス春のSPプレイベント最終号」に出演。 (大塚Hearts＋、大塚Hearts Next)
   - 3月23日(月)、「さっきの女の子、はみんなで祝いたい〜古川すい/乃々宮いぶ生誕〜」に出演。(池袋CYBER)
+  - 3月25日(水)、1st ワンマンライブ「アイドル」連動企画第二弾として、白川さやかが「温度」をテーマにした演出をファンと練り上げるYouTubeを生配信。
   - 3月26日(木)、ekoms presents 「cry for the moon vol.3」に出演。(青山 月見ル君想フ)
   - 3月27日(金)、instagram生配信にて「RAYのツキイチ」開催。久しぶりに4人揃っての配信。
-  - 3月27日(金)、「尊しあなたのすべてを」Official Music Video\[16\] を公開\[17\]\[18\]。
+  - 3月27日(金)、「尊しあなたのすべてを」Official Music Video\[16\] を公開、プレスリリース発表\[17\]\[18\]。 ※新型コロナ・ウイルスの感染拡大防止策として政府の外出自粛要請や緊急事態宣言発令を受け、イベントの開催延期・開催中止が相次ぐ。
   - <s>3月28日(土)、【イベント中止】「エクストロメ‼️GOLDEN NUGGETS 2」</s>
   - <s>3月29日(日)、【延期】主催イベント「PREDAWN vol.10」開催。(渋谷Milkyway)</s>
   - <s>3月29日(日)、【中止】「Total Feedback」に内山結愛がDJ出演。(KOENJI HIGH)</s>
-  -
-<!-- end list -->
+  - 4月2日(木)、1st ワンマンライブ「アイドル」連動企画第三弾として、内山結愛が「粒子」をテーマにした演出をファンと練り上げる<s>YouTube配信</s>インスタライブを生配信。
+  - 4月3日(金)、完全未発表の新曲[「オールニードイズラブ/ALL NEED IS LOVE」Official Audio](https://www.youtube.com/watch?v=24KZm2NhCog&feature=youtu.be)をYou Tubeにて公開。
+  - 4月4日(土)、1st ワンマンライブ「アイドル」連動企画第四弾として、甲斐莉乃が「波長」をテーマにした演出をファンと練り上げるインスタライブを生配信。<s>【延期】ギュウ農フェス 春のSP2020 \~5th anniversary 2days\~</s>
+  - 4月5日(日)、<s>【延期】ギュウ農フェス 春のSP2020 \~5th anniversary 2days\~</s>
+  - 4月11日(土)、[RAY公式通販サイト](https://ray-world.booth.pm/)をBOOTHにて開設。
+  - <s>4月12日(日)、昼【中止】Hearts＋ presents 『春のYOIMACHI』、夜【延期】new encounters SPvol.29</s>
+  - 4月15日(水)、1st Album『Pink』が5月23日にリリースされるとプレスリリースを発表\[19\]\[20\]\[21\]。[RAY公式You Tubeにて期間限定アルバムフル視聴](https://www.youtube.com/watch?v=Yc-riJnvqWY&feature=youtu.be)開始。また、流通元のDisk Unionにて『Pink』Tシャツ付きセット受注生産を開始した。<s>【中止】エクストロメ‼</s>
+  - <s>4月18日(土)、昼【延期】「tipToe. 第2期お披露目ライブ」、夜【延期】甲斐莉乃生誕祭「灰」</s>
+  - <s>4月19日(日)、【中止】『ゑりかちゃんべいびーと谷さんの食いしん坊万歳！』に月日が出演</s>
 
-  -
 ## メンバー
 
 <table>
 <thead>
 <tr class="header">
-<th></th>
+<th><p>メンバー</p></th>
 <th><p>読み方 (Name)</p></th>
 <th><p>加入日</p></th>
 <th><p>生年月日 (Birthday)</p></th>
@@ -195,7 +202,7 @@
 <tbody>
 <tr class="odd">
 <td><p>内山結愛</p></td>
-<td><p>Uchiyama Yuua</p></td>
+<td><p>うちやまゆうあ Uchiyama Yuua</p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>2000年11月14日</p></td>
 <td><p><a href="https://twitter.com/__yuuaself__">Twitter</a>: <a href="https://twitter.com/__yuuaself__">@__yuuaself__</a> Instagram: <a href="https://www.instagram.com/_yuua__4649o0/">_yuua__4649o0</a></p>
@@ -204,7 +211,7 @@
 </tr>
 <tr class="even">
 <td><p>甲斐莉乃</p></td>
-<td><p>kai Marino</p></td>
+<td><p>かいまりの Kai Marino</p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>1998年3月30日</p></td>
 <td><p>Twitter: <a href="https://twitter.com/norimaika">@norimaika</a> Instagram: <a href="https://www.instagram.com/norimaika">norimaika</a></p>
@@ -213,7 +220,7 @@
 </tr>
 <tr class="odd">
 <td><p>白川さやか</p></td>
-<td><p>Shirakawa Sayaka</p></td>
+<td><p>しらかわさやか Shirakawa Sayaka</p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>2004年9月27日</p></td>
 <td><p>Twitter: <a href="https://twitter.com/akayas0927">@akayas0927</a> Instagram: <a href="https://www.instagram.com/shirakawa0927sayaka/">shirakawa0927sayaka</a></p>
@@ -222,7 +229,7 @@
 </tr>
 <tr class="even">
 <td><p>月日</p></td>
-<td><p>Tsukihi</p></td>
+<td><p>つきひ Tsukihi</p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>1996年3月8日</p></td>
 <td><p>Twitter: <a href="https://twitter.com/melt__away_">@melt__away_</a> Instagram: <a href="https://www.instagram.com/melt__away_">melt__away_</a></p>
@@ -232,7 +239,8 @@
 </tbody>
 </table>
 
-## ディスコグラフィー
+
+\==ディスコグラフィー==
 
 ### 楽曲一覧
 
@@ -279,8 +287,8 @@
 <tr class="even">
 <td><p>2019年5月1日</p></td>
 <td><p>バタフライエフェクト (Butterfly Effect)</p></td>
-<td><p>管梓</p></td>
-<td><p>管梓・みきれちゃん</p></td>
+<td><p>管梓 (For Tracy Hyde)</p></td>
+<td><p>管梓(For Tracy Hyde)・みきれちゃん</p></td>
 <td><p>みきれちゃん</p></td>
 <td><p><a href="https://twitter.com/chiita1211">CHIHIRO</a></p></td>
 <td><p>RAYオリジナル楽曲。 ライブにて初披露。</p>
@@ -292,7 +300,7 @@
 <td><p>管梓</p></td>
 <td><p>管梓</p></td>
 <td><p>管梓</p></td>
-<td><p>YUKO</p></td>
+<td><p><a href="https://dance-yk.tumblr.com/post/183157016834/%E6%B4%BB%E5%8B%95%E5%AE%9F%E7%B8%BE">YUKO</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=rjCugrrNY24">・・・・・・・・・「スライド」</a>のカバー ライブにて初披露。</p></td>
 </tr>
 <tr class="even">
@@ -301,7 +309,7 @@
 <td></td>
 <td><p>死んだ僕の彼女</p></td>
 <td></td>
-<td><p>riko</p></td>
+<td><p><a href="https://twitter.com/0oWatashi00">riko</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=RpNGIABt2-4">死んだ僕の彼女「彼女が冷たく笑ったら」</a>のカバー ライブにて初披露。</p></td>
 </tr>
 <tr class="odd">
@@ -326,19 +334,19 @@
 <tr class="odd">
 <td><p>2019年8月11日(昼)</p></td>
 <td><p>しづかの海</p></td>
-<td><p>管梓</p></td>
-<td><p>管梓</p></td>
-<td><p>管梓</p></td>
-<td></td>
+<td><p>管梓 (For Tracy Hyde)</p></td>
+<td><p>管梓 (For Tracy Hyde)</p></td>
+<td><p>管梓 (For Tracy Hyde)</p></td>
+<td><p><a href="https://dance-yk.tumblr.com/post/183157016834/%E6%B4%BB%E5%8B%95%E5%AE%9F%E7%B8%BE">YUKO</a></p></td>
 <td><p>・・・・・・・・・「しづかの海」のカバー ライブにて初披露。</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年8月15日 (ライヴ初披露は2019年9月7日)</p></td>
+<td><p>2019年8月15日(木)</p></td>
 <td><p>星に願いを (Wish Upon a Star)</p></td>
 <td><p>みきれちゃん</p></td>
 <td><p>Kei Toriki</p></td>
 <td><p>Kei Toriki</p></td>
-<td><p>riko</p></td>
+<td><p><a href="https://twitter.com/0oWatashi00">riko</a></p></td>
 <td><p>RAYオリジナル楽曲。 2019年8月15日 <a href="https://www.youtube.com/watch?v=rQ9im3MmgcU">Official Audio</a>にて初公開。<br />
 2019年9月7日ライヴ初披露。</p></td>
 </tr>
@@ -348,7 +356,7 @@
 <td><p>Lilia Ijiri (OLDTIMER)</p></td>
 <td><p>Elliott Frazier (Ringo Deathstarr )</p></td>
 <td><p>Elliott Frazier (Ringo Deathstarr )</p></td>
-<td><p>riko</p></td>
+<td><p><a href="https://twitter.com/0oWatashi00">riko</a></p></td>
 <td><p>Ringo Deathstarr 楽曲提供となるRAYオリジナル楽曲。 2019年9月22日ライブにて初披露。 2019年10月26日 <a href="https://www.youtube.com/watch?v=Z_l26v8R9v8&amp;feature=youtu.be">Official Music Video</a> 公開。<br />
 </p></td>
 </tr>
@@ -358,7 +366,7 @@
 <td><p>甲斐莉乃</p></td>
 <td><p>みきれちゃん</p></td>
 <td><p>みきれちゃん</p></td>
-<td></td>
+<td><p>月日</p></td>
 <td><p>RAYオリジナル楽曲。</p>
 <p>イラスト：甲斐莉乃</p>
 <p>2019年11月14日 <a href="https://www.youtube.com/watch?v=g8KHwhwAhLY&amp;feature=youtu.be">Official Audio</a>にて初公開。</p>
@@ -383,10 +391,55 @@
 <td><p>ハタユウスケ (<a href="https://ja.wikipedia.org/wiki/cruyff_in_the_bedroom" title="wikilink">cruyff in the bedroom</a>)</p></td>
 <td><p>ハタユウスケ (cruyff in the bedroom)</p></td>
 <td><p>ハタユウスケ (cruyff in the bedroom)</p></td>
-<td></td>
+<td><p><a href="https://twitter.com/0oWatashi00">riko</a></p></td>
 <td><p>RAYオリジナル楽曲。</p>
 <p>ライブにて初披露。</p>
 <p>3月27日 <a href="https://www.youtube.com/watch?v=bmBR6iNnXVY&amp;feature=youtu.be">Official Music Video</a> 公開。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年4月3日(金)</p></td>
+<td><p>オールニードイズラブ (ALL NEED IS LOVE)</p></td>
+<td><p>みきれちゃん</p></td>
+<td><p>みきれちゃん</p></td>
+<td><p>みきれちゃん</p></td>
+<td></td>
+<td><p>RAYオリジナル楽曲。 2020年4月3日 <a href="https://www.youtube.com/watch?v=24KZm2NhCog&amp;feature=youtu.be">Official Audio</a> にて初公開。</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年4月15n日(水)</p></td>
+<td><p>Fading Lights</p></td>
+<td><p>管梓(For Tracy Hyde/エイプリルブルー)</p></td>
+<td><p>管梓(For Tracy Hyde/エイプリルブルー)</p></td>
+<td><p>管梓(For Tracy Hyde/エイプリルブルー)</p></td>
+<td></td>
+<td><p>RAYオリジナル楽曲。 2020年4月15日 <a href="https://www.youtube.com/watch?v=Yc-riJnvqWY&amp;feature=youtu.be">RAY 1st Album “Pink” 期間限定アルバムフル視聴</a>にて初公開。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年4月15n日(水)</p></td>
+<td><p>シルエット</p></td>
+<td><p>Hiroyuki Imamura(The Florist)</p></td>
+<td><p>Hiroyuki Imamura(The Florist)</p></td>
+<td><p>Hiroyuki Imamura(The Florist)</p></td>
+<td></td>
+<td><p>RAYオリジナル楽曲。 2020年4月15日 <a href="https://www.youtube.com/watch?v=Yc-riJnvqWY&amp;feature=youtu.be">RAY 1st Album “Pink” 期間限定アルバムフル視聴</a>にて初公開。</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年4月15n日(水)</p></td>
+<td><p>スライド(新バージョン)</p></td>
+<td><p>管梓(For Tracy Hyde/エイプリルブルー)</p></td>
+<td><p>管梓(For Tracy Hyde/エイプリルブルー)</p></td>
+<td><p>管梓(For Tracy Hyde/エイプリルブルー)</p></td>
+<td></td>
+<td><p>新バージョン。 2020年4月15日 <a href="https://www.youtube.com/watch?v=Yc-riJnvqWY&amp;feature=youtu.be">RAY 1st Album “Pink” 期間限定アルバムフル視聴</a>にて初公開。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年4月15n日(水)</p></td>
+<td><p>サテライト(新バージョン)</p></td>
+<td><p>みきれちゃん、ジム</p></td>
+<td><p>みきれちゃん</p></td>
+<td><p>みきれちゃん、ジム</p></td>
+<td></td>
+<td><p>新バージョン。 2020年4月15日 <a href="https://www.youtube.com/watch?v=Yc-riJnvqWY&amp;feature=youtu.be">RAY 1st Album “Pink” 期間限定アルバムフル視聴</a>にて初公開。</p></td>
 </tr>
 </tbody>
 </table>
@@ -397,12 +450,12 @@
 <thead>
 <tr class="header">
 <th><p>#</p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>レーベル</p></th>
+<th><p>発売日 Release</p></th>
+<th><p>タイトル Title</p></th>
+<th><p>レーベル Label</p></th>
 <th><p>販売形態</p></th>
-<th><p>規格番号</p></th>
-<th><p>収録曲</p></th>
+<th><p>販売形態</p></th>
+<th><p>収録曲 Tracks</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -424,7 +477,50 @@
 </tbody>
 </table>
 
-## 主なライヴ活動
+### アルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>発売日 Release</p></th>
+<th><p>タイトル Title</p></th>
+<th><p>レーベル Label</p></th>
+<th><p>販売形態</p></th>
+<th><p>販売形態</p></th>
+<th><p>収録曲 Tracks</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2020年5月23日(土)予定</p></td>
+<td><p>Pink</p></td>
+<td><p>DISTORTED RECORDS</p></td>
+<td><p>CD</p></td>
+<td><p>HZMI-002</p></td>
+<td><p>1. Fading Lights 2.バタフライエフェクト</p>
+<p>3.世界の終わりは君とふたりで</p>
+<p>4.Blue Monday</p>
+<p>5.ネモフィラ</p>
+<p>6.Meteor</p>
+<p>7.尊しあなたのすべてを</p>
+<p>8.星に願いを</p>
+<p>9.no title</p>
+<p>10.GENERATION</p>
+<p>11.シルエット</p>
+<p>12.オールニードイズラブ</p>
+<p>13.スライド (New Recording Version)</p>
+<p>14.サテライト (New Recording Version)<br />
+</p></td>
+<td><p>4月15日より公式You Tubeにて期間限定アルバムフル視聴開<a href="https://www.youtube.com/watch?v=Yc-riJnvqWY&amp;feature=youtu.be">始</a></p></td>
+</tr>
+</tbody>
+</table>
+
+
+\==主なライヴ活動==
 
 ### 主催イベント
 
@@ -606,6 +702,208 @@
 <p>の三部構成。</p>
 <p>生誕パートではアイドル特化型クラウドファンディングcollectionsにて支援達成した「白川さやか　キラキラなアイドルソングを歌いたい（タイトル未定）」を初披露。</p>
 <p>・ライヴ終了後のMCにて白川さやかが高校受験に専念する為、2019年11月6日〜2020年3月の受験期間、活動休止することが本人から発表された。</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2019年11月9日(土)</p></td>
+<td><p>内山結愛生誕祭＋RAY長めライブ</p></td>
+<td><p>原宿 STROBE CAFE</p></td>
+<td><p>1. 星に願いを 2. スライド</p>
+<p>3. Blue Monday</p>
+<p>4. 彼女が冷たく笑ったら</p>
+<p>5. Meteor</p>
+<p>6. しづかの海</p>
+<p>〜生誕パート〜</p>
+<p>7. 世界の終わりは君とふたりで</p>
+<p>8. ネモフィラ</p>
+<p>9. サテライト</p>
+<p>10. バタフライエフェクト</p></td>
+<td><p>RAY 小林潤</p>
+<p>みんちゃん</p></td>
+<td><p>予約特典：あなた宛の直筆ラブレター</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><s>2019年10月13日(日)</s> 2019年11月16日(土)</p></td>
+<td><p>PREDAWN vol.6</p></td>
+<td><p>目黒 鹿鳴館</p></td>
+<td><p>1. スライド 2. サテライト</p>
+<p>3. 星に願いを</p>
+<p>4. しづかの海</p>
+<p>5. ネモフィラ</p>
+<p>6. 彼女が冷たく笑ったら</p>
+<p>7. Blue Monday</p>
+<p>8. バタフライエフェクト</p>
+<p>9. 世界の終わりは君とふたりで</p>
+<p>10. Meteor</p></td>
+<td><p>クロスノエシス SAKA-SAMA</p>
+<p>白羽</p>
+<p>MiNO</p>
+<p>ぴゅーぴるモ！</p>
+<p>回せ！グルーヴ開発部<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>2019年12月28日(土)</p></td>
+<td><p>PREDAWN vol.7</p></td>
+<td><p>渋谷Milkyway</p></td>
+<td><p>1. 東京マヌカン 2. バタフライエフェクト</p>
+<p>3. スライド</p>
+<p>4. しづかの海</p>
+<p>5. ネモフィラ</p>
+<p>6. 1998-</p>
+<p>7. 彼女が冷たく笑ったら</p>
+<p>8. Meteor</p>
+<p>9. 世界の終わりは君とふたりで</p>
+<p>10. no title</p></td>
+<td><p>XOXO EXTREME LAST IN MY CULT</p>
+<p>APOKALIPPPS</p>
+<p>THE BANANA MONKEYS</p>
+<p>スコール</p>
+<p>ダブルハピネス</p></td>
+<td><p>高校受験の為活動休止中の白川さやか、扁桃摘出手術の為休養中の月日を欠く内山結愛と甲斐莉乃の二人体制にてピノキオピー「東京マヌカン」、・・・・・・・・・「1998-」を披露。</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>2020年1月4日(土)</p></td>
+<td><p>ドキッ！RAYだらけの新春大バラエティ祭り</p></td>
+<td><p>新宿　club SCIENCE</p></td>
+<td><p>1. サテライト 2. 世界の終わりは君とふたりで</p>
+<p>3. Meteor</p>
+<p>4. no title</p>
+<p>5. GENERATION</p>
+<p>6. バタフライフェクト</p>
+<p>7. 1998-</p></td>
+<td><p>RAY</p></td>
+<td><p>・みんなで初詣 ・バラエティパート盛り沢山</p>
+<p>・ライブ</p>
+<p>※内山、甲斐での出演</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>2020年1月12日(日)</p></td>
+<td><p>PREDAWN vol.8</p></td>
+<td><p>渋谷Milkyway</p></td>
+<td><p>1. no title 2. バタフライエフェクト</p>
+<p>3. スライド</p>
+<p>4. Blue Monday</p>
+<p>5. しづかの海</p>
+<p>6. 彼女が冷たく笑ったら</p>
+<p>7. 星に願いを</p>
+<p>8. 世界の終わりは君とふたりで</p>
+<p>9. Meteor</p></td>
+<td><p>キャンディzoo ワガママきいて？？</p>
+<p>ピューパ</p></td>
+<td><p>EMOE</p>
+<p>Peach sugar story</p>
+<p>D'yerMak'er?</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>2020年2月16日(日)</p></td>
+<td><p>PREDAWN vol.9</p></td>
+<td><p>渋谷Milkyway</p></td>
+<td><p>1. 世界の終わりは君とふたりで 2. 彼女が冷たく笑ったら</p>
+<p>3. GENERATION</p>
+<p>4. バタフライエフェクト</p>
+<p>5. 尊しあなたのすべてを</p>
+<p>6. Blue Monday</p>
+<p>7. Meteor</p>
+<p>8. サテライト</p>
+<p>9. 星に願いを</p></td>
+<td><p>劇場版ゴキゲン帝国Ω The Grateful a MogAAAz</p>
+<p>まちだガールズ・クワイア</p>
+<p>朝ぼらけの紅色は未だ君のうちに壊れずにいる</p>
+<p>一瞬しかない</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>2020年2月22日(土)</p></td>
+<td><p>RAY持ち曲全曲披露無料イベント</p></td>
+<td><p>大塚Hearts+</p></td>
+<td><p>1. 尊しあなたのすべてを 2. 彼女が冷たく笑ったら</p>
+<p>3. Meteor</p>
+<p>4. サテライト</p>
+<p>5. GENERATION</p>
+<p>6. ネモフィラ</p>
+<p>7. Blue Monday</p>
+<p>8. 星に願いを</p>
+<p>9. バタフライエフェクト</p>
+<p>10. 世界の終わりは君とふたりで</p>
+<p>11. 5センチメートル (アイドルネッサンスのカバー)</p>
+<p>12.しづかの海</p>
+<p>13. no title</p>
+<p>14. スライド</p></td>
+<td><p>RAY</p></td>
+<td><p>・RAY持ち曲全曲披露 ・何らかのカバー</p>
+<p>　アイドルネッサンス「5センチメートル」をコスプレ?衣装でカバー</p>
+<p>・ちょっとした企画</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>2020年3月8日(日)</p></td>
+<td><p>月日生誕『ふれる春』</p></td>
+<td><p>横須賀 Younger Than Yesterday‬</p></td>
+<td><p>1.甲斐莉乃ソロ 「Is this call ? (BiSH)」のギター弾き語りカバー)</p>
+<p>2. 内山結愛ソロ</p>
+<p>「金木犀の夜(きのこ帝国)」の歌唱カバー</p>
+<p>3. 月日ソロ</p>
+<p>「流星群 (鬼束ちひろ)」の歌唱カバー</p>
+<p>RAY</p>
+<p>4. 世界の終わりは君とふたりで</p>
+<p>5. 尊しあなたのすべてを</p>
+<p>6. 星に願いを</p>
+<p>7. 彼女が冷たく笑ったら</p>
+<p>8. Meteor</p>
+<p>9. no title</p>
+<p>10. バタフライエフェクト</p>
+<p>11. GENERATION</p>
+<p>12, スライド</p>
+<p>13. サテライト</p>
+<p>14. しづかの海</p></td>
+<td><p>RAY</p></td>
+<td><p>・月日こだわりの演出あり ①指定席でのお食事(food/drinkの1オーダー制)とスタンディングのライブ</p>
+<p>②"皆を祝う"生誕祭?!</p>
+<p>③月日が一輪の花とちょっとしたプレゼント</p>
+<p>・RAYのライブも長め！</p>
+<p>※会場側からの感染症対策強化要望を受け「声援禁止」の中開催された。</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>2020年3月15日(日)</p></td>
+<td><p>鳥語花香〜白川さやか復帰公演〜</p></td>
+<td><p>目黒 鹿鳴館</p></td>
+<td><p>1. 尊しあなたのすべてを 2. バタフライエフェクト</p>
+<p>3. 世界の終わりは君とふたりで</p>
+<p>4. Blue Monday</p>
+<p>5. GENERATION</p>
+<p>6. スライド</p>
+<p>7. 星に願いを</p>
+<p>8. no title</p>
+<p>9. ダイヤモンドリリー(白川ソロ)</p></td>
+<td><p>RAY</p></td>
+<td><p>高校受験のため活動休止中だった白川さやかが活動再開。4人揃ってのライブは2019年11月5日ぶりとなった。</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p><s>3月29日(日)、【延期】</s></p></td>
+<td><p><s>PREDAWN vol.10</s></p></td>
+<td><p><s>渋谷Milkyway</s></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>イベント延期</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p><s>4月18日(土)</s></p></td>
+<td><p><s>【延期】甲斐莉乃生誕祭「灰」</s></p></td>
+<td><p><s>大塚Hearts+</s></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>イベント延期</p></td>
 </tr>
 </tbody>
 </table>
@@ -1633,15 +1931,528 @@
 <p>cruyff in the bedroom</p></td>
 <td><p>死んだ僕の彼女 と初の共演。</p></td>
 </tr>
+<tr class="even">
+<td><p>66</p></td>
+<td><p>2019年10月31日(木)</p></td>
+<td><p>1stシングル『Blue』リリースイベント</p></td>
+<td><p>タワーレコード新宿店</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>67</p></td>
+<td><p>2019年11月1日(金)</p></td>
+<td><p>1stシングル『Blue』リリースイベント「エクストロメ　DISTORTED night！」</p></td>
+<td><p>渋谷 Glad</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>68</p></td>
+<td><p>2019年11月3日(日)</p></td>
+<td><p>Hearts＋ presents「秋のYOIMACHI」</p></td>
+<td><p>大塚 Hearts+</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>69</p></td>
+<td><p>2019年11月5日(火)</p></td>
+<td><p>エクストロメ Final Frontier　</p></td>
+<td><p>渋谷 WWW</p></td>
+<td></td>
+<td></td>
+<td><p>高校受験のため白川さやか活動休止前ラストライブ</p></td>
+</tr>
+<tr class="even">
+<td><p>70</p></td>
+<td><p>2019年11月9日(土)</p></td>
+<td><p>内山結愛生誕祭＋RAY長めライブ</p></td>
+<td><p>原宿 STROBE CAFE</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="odd">
+<td><p>71</p></td>
+<td><p>2019年11月10日(日)</p></td>
+<td><p>1stシングル『Blue』リリースイベント 「エクストロメ FREE EVENT</p></td>
+<td></td>
+<td><p>TOWER RECORDS 渋谷店 B1 CUTUP STUDIO</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>72</p></td>
+<td><p>2019年11月10日(日)</p></td>
+<td><p>エクストロメ 〜大塚クリームシチュー物語～</p></td>
+<td><p>大塚 Hearts Next</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>73</p></td>
+<td><p>2019年11月12日(火)</p></td>
+<td><p>1stシングル『Blue』リリースイベント</p></td>
+<td><p>タワーレコード 渋谷店5F</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>74</p></td>
+<td><p>2019年11月14日(木)</p></td>
+<td><p>エクストロメ presents RAY 1st single「Blue」リリースイベント</p></td>
+<td><p>新宿 Loft BAR SPACE</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>75</p></td>
+<td><p>2019年11月16日(土)</p></td>
+<td><p>PREDAWN vol.6</p></td>
+<td><p>目黒 鹿鳴館</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>・主催イベント欄参照 ・アナザー甲斐莉乃 第一弾</p></td>
+</tr>
+<tr class="even">
+<td><p>76</p></td>
+<td><p>2019年11月17日(日)</p></td>
+<td><p>MIC RAW RUGA(laboratory) 定期公演 HIGH-HO vol.12</p></td>
+<td><p>下北沢 BASEMENT BAR</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>77</p></td>
+<td><p>2019年11月23日(土・祝)</p></td>
+<td><p>NIGHT ON THE PLANET！presents『MAGICAL GAMES vol.5』</p></td>
+<td><p>西永福 JAM</p></td>
+<td></td>
+<td></td>
+<td><p>アナザー甲斐莉乃 第二弾</p></td>
+</tr>
+<tr class="even">
+<td><p>78</p></td>
+<td><p>2019年11月23日(土・祝)</p></td>
+<td><p>「1stシングル『Blue』リリースイベント」</p></td>
+<td><p>タワーレコード 渋谷店 5F</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>79</p></td>
+<td><p>2019年11月24日(日)</p></td>
+<td><p>武井麻里子presents『エレ日。vol.16』</p></td>
+<td><p>下北沢 MOSAiC</p></td>
+<td></td>
+<td></td>
+<td><p>アナザー甲斐莉乃 第三弾</p></td>
+</tr>
+<tr class="even">
+<td><p>80</p></td>
+<td><p>2019年11月29日(金)</p></td>
+<td><p>LiLii Kaona presents Surrounded by Organica vol.11</p></td>
+<td><p>青山　 月見ル君想フ</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>81</p></td>
+<td><p>2019年12月1日(日)</p></td>
+<td><p>昼 new encounters SP vol.27</p></td>
+<td><p>渋谷 VUENOS</p></td>
+<td></td>
+<td></td>
+<td><p>アナザー甲斐莉乃 第四弾</p></td>
+</tr>
+<tr class="even">
+<td><p>82</p></td>
+<td><p>2019年12月1日(日)</p></td>
+<td><p>夜 new encounters SP vol.28</p></td>
+<td><p>渋谷 VUENOS</p></td>
+<td></td>
+<td></td>
+<td><p>アナザー甲斐莉乃 第五弾</p></td>
+</tr>
+<tr class="odd">
+<td><p>83</p></td>
+<td><p>2019年12月3日(火)</p></td>
+<td><p>エクストロメ　FINAL FRONTIER 【episode ⅱ】1stシングル『Blue』リリースイベント)</p></td>
+<td><p>タワーレコード渋谷店B1 CUTUP STUDIO</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>84</p></td>
+<td><p>2019年12月5日(木)</p></td>
+<td><p>ハミパ –ハミシス史上最強照明ライブ-</p></td>
+<td><p>マウントレーニアホール渋谷</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>85</p></td>
+<td><p>2019年12月6日(金)</p></td>
+<td><p>ユレルランドスケープ主催カルチャー・イベント 『メランコリックシティ Vol.0』</p></td>
+<td><p>渋谷 Club Asia</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>86</p></td>
+<td><p>2019年12月7日(土)</p></td>
+<td><p>エクストロメ Just Like Honey…</p></td>
+<td><p>渋谷 Glad</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>87</p></td>
+<td><p>2019年12月9日(月)</p></td>
+<td><p>choir loft -アナスィ〜★スペシャル-</p></td>
+<td><p>新宿 LOFT</p></td>
+<td></td>
+<td></td>
+<td><p>この日から月日が扁桃摘出手術のため活動を一時休止。 内山結愛と甲斐莉乃の二人体制にて・・・・・・・・・「1998-」を披露</p></td>
+</tr>
+<tr class="even">
+<td><p>88</p></td>
+<td><p>2019年12月12日(木)</p></td>
+<td><p>令和アイドル見聞録〜今年も大変お世話になりました！チケット代金全額推しグループに入ります3DaysSP！！！〜</p></td>
+<td><p>新宿SAMURAI</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>89</p></td>
+<td><p>2019年12月14日(土)</p></td>
+<td><p>1stシングル『Blue』リリースイベント</p></td>
+<td><p>タワーレコード錦糸町店</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>90</p></td>
+<td><p>2019年12月18日(水)</p></td>
+<td><p>春のYOIMACHIプレイベント『PRE-MACHI〜春よ来い〜』</p></td>
+<td><p>大塚 Hearts＋</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>91</p></td>
+<td><p>2019年12月19日(木)</p></td>
+<td><p>ヨネ子主催「Adult Baby Fes✌️DAY1.DAY2」</p></td>
+<td><p>高円寺LOFT X</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>92</p></td>
+<td><p>2019年12月20日(金)</p></td>
+<td><p>MAD FRIDAY!</p></td>
+<td><p>渋谷O-Nest</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>93</p></td>
+<td><p>2019年12月22日(日)</p></td>
+<td><p>Total Feedback</p></td>
+<td><p>高円寺 HIGH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>94</p></td>
+<td><p>2019年12月28日(土)</p></td>
+<td><p>PREDAWN vol.7</p></td>
+<td><p>渋谷Milkyway</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="odd">
+<td><p>95</p></td>
+<td><p>2019年12月29日(日)</p></td>
+<td><p>MAD SUNDAY!</p></td>
+<td><p>WOMB-LIVE</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>96</p></td>
+<td><p>2019年12月31日(火)</p></td>
+<td><p>KOENJI HIGH 12th Anniversary 前夜祭</p></td>
+<td><p>高円寺 HIGH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2020年</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>97</p></td>
+<td><p>2020年1月4日(土)</p></td>
+<td><p>ドキッ！RAYだらけの新春大バラエティ祭り</p></td>
+<td><p>新宿club SCIENCE</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="odd">
+<td><p>98</p></td>
+<td><p>2020年1月5日(日)</p></td>
+<td><p>武井麻里子presents『エレ日。vol.17』</p></td>
+<td><p>下北沢 MOSAiC</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>99</p></td>
+<td><p>2020年1月12日(日)</p></td>
+<td><p>昼「Pop'n Party」</p></td>
+<td><p>新宿LOFT</p></td>
+<td></td>
+<td></td>
+<td><p>このイベントから扁桃摘出手術で活動休止中だった月日が復帰、内山結愛、甲斐莉乃、月日の三人体制に。</p></td>
+</tr>
+<tr class="odd">
+<td><p>100</p></td>
+<td><p>2020年1月12日(日)</p></td>
+<td><p>夜「PREDAWN vol.8」</p></td>
+<td><p>渋谷Milkyway</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="even">
+<td><p>101</p></td>
+<td><p>2020年1月15日(水)</p></td>
+<td><p>SOL主催公演 MONTAGE scene.8</p></td>
+<td><p>TSUTAYA O-crest</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>102</p></td>
+<td><p>2020年1月16日(木)</p></td>
+<td><p>エクストロメ ROUND TRIP‼</p></td>
+<td><p>新宿LOFT-HALL&amp;BAR</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>103</p></td>
+<td><p>2020年1月20日(月)</p></td>
+<td><p>shibuya luisant Vol.5</p></td>
+<td><p>TSUTAYA O-Crest</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>104</p></td>
+<td><p>2020年1月25日(土)</p></td>
+<td><p>cuatro vol.2</p></td>
+<td><p>新宿MARZ</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>105</p></td>
+<td><p>2020年1月29日(水)</p></td>
+<td><p>RINGO DEATHSTARR 来日ツアー 東京公演</p></td>
+<td><p>吉祥寺CLUB SEATA</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>106</p></td>
+<td><p>2020年2月6日(木)</p></td>
+<td><p>IDOL AND READ LIVE NEO vol.3</p></td>
+<td><p>目黒鹿鳴館</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>107</p></td>
+<td><p>2020年2月8日(土)</p></td>
+<td><p>エクストロメ‼︎ GOLDEN NUGGETS</p></td>
+<td><p>大塚Hearts+</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>108</p></td>
+<td><p>2020年2月9日(日)</p></td>
+<td><p>バナフェスSP</p></td>
+<td><p>渋谷Circus Tokyo</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>109</p></td>
+<td><p>2020年2月15日(土)</p></td>
+<td><p>エクストロメ‼ Lose daydream</p></td>
+<td><p>渋谷 Glad</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>110</p></td>
+<td><p>2020年2月16日(日)</p></td>
+<td><p>PREDAWN vol.9</p></td>
+<td><p>渋谷Milkyway</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="even">
+<td><p>111</p></td>
+<td><p>2020年2月18日(火)</p></td>
+<td><p>MIC RAW RUGA(laboratory) 定期公演HIGH-HO vol.17</p></td>
+<td><p>渋谷NoStyle</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>112</p></td>
+<td><p>2020年2月22日(土)</p></td>
+<td><p>RAY持ち曲全曲披露無料イベント</p></td>
+<td><p>大塚Hearts+</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="even">
+<td><p>113</p></td>
+<td><p>2020年2月23日(日)</p></td>
+<td><p>昼 エクストロメ Path to the Black Lodge」</p></td>
+<td><p>渋谷GLAD</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>114</p></td>
+<td><p>2020年2月24日(月・祝)</p></td>
+<td><p>出雲にっき生誕祭-わんきゅう</p></td>
+<td><p>-</p></td>
+<td><p>高円寺 HIGH</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>115</p></td>
+<td><p>2020年3月1日(日)</p></td>
+<td><p>『IDOL is magic vol.1』</p></td>
+<td><p>新宿 SAMURAI</p></td>
+<td></td>
+<td><p>RAY</p></td>
+<td><p>コロナ・ウイルスの影響による他出演者全組がイベント出演を辞退したため、急遽ワンマンとなる。</p></td>
+</tr>
+<tr class="odd">
+<td><p>116</p></td>
+<td><p>2020年3月8日(日)</p></td>
+<td><p>月日生誕『ふれる春』</p></td>
+<td><p>横須賀 Younger Than Yesterday</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="even">
+<td><p>117</p></td>
+<td><p>2020年3月15日(日)</p></td>
+<td><p>鳥語花香〜白川さやか復帰公演〜</p></td>
+<td><p>目黒 鹿鳴館</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+<td><p>主催イベント欄参照</p></td>
+</tr>
+<tr class="odd">
+<td><p>118</p></td>
+<td><p>2020年3月20日(金・祝)</p></td>
+<td><p>くぴぽ pre. 「呪泉郷」</p></td>
+<td><p>西永福 JAM</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>119</p></td>
+<td><p>2020年3月22日(日)</p></td>
+<td><p>ギュウ農フェス春のSPプレイベント最終号</p></td>
+<td><p>大塚Hearts＋ 大塚Hearts Next</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>120</p></td>
+<td><p>2020年3月23日(月)</p></td>
+<td><p>さっきの女の子、はみんなで祝いたい〜古川すい/乃々宮いぶ生誕〜</p></td>
+<td><p>池袋CYBER</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>121</p></td>
+<td><p>2020年3月26日(木)</p></td>
+<td><p>ekoms presents 「cry for the moon vol.3」</p></td>
+<td><p>青山 月見ル君想フ</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-### 出演イベント (ソロ)
+
+\=== 出演イベント (ソロ等) ===
 
 <table>
 <thead>
 <tr class="header">
-<th></th>
 <th><p>日時 (DAY)</p></th>
 <th><p>出演メンバー</p></th>
 <th><p>イベントタイトル (EVENT TITLE)</p></th>
@@ -1653,7 +2464,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1</p></td>
 <td><p>2019年4月28日(日)</p></td>
 <td><p>内山結愛</p></td>
 <td><p>Total Feedback</p></td>
@@ -1676,48 +2486,18 @@
 <p>・Walkblind / Luminous Orange</p>
 <p>・Alison / Slowdive</p></td>
 <td><p>-</p></td>
-<td><p>DJを行なった</p></td>
+<td><p>DJとして出演</p></td>
 </tr>
 <tr class="even">
-<td><p>2</p></td>
 <td><p>2019年6月28日(金)～ 2019年7月7日(日)</p></td>
 <td><p>月日</p></td>
 <td><p>「13月の女の子」(舞台)</p></td>
 <td><p>新宿シアターモリエール</p></td>
 <td><p>-</p></td>
-<td><p>【Aチーム】</p>
-<p>達家真姫宝（AKB48）</p>
-<p>磯原杏華</p>
-<p>酒井萌衣</p>
-<p>北村優衣</p>
-<p>茜屋日海夏</p>
-<p>※6/30,7/1,7/5のみ</p>
-<p>倉田瑠夏</p>
-<p>眞壁小百合</p>
-<p>月城かなむ</p>
-<p>佐々木麻里（アイドル諜報機関LEVEL7）</p>
-<p>月日（RAY）</p>
-<p>雛森りんご（Lion net girl）</p>
-<p>櫻井まい（VeryVeryRedBerry）</p>
-<p>星咲メグ（143∽）</p>
-<p>一宮ゆい（群青の世界）</p>
-<p>百千もね（夢幻クレッシェンド）</p>
-<p>綾瀬絵梨香（Tokyo Flamingo）</p>
-<p>濱田梨華子（Angel Eyes）</p>
-<p>田沢涼夏</p>
-<p>片瀬美月</p>
-<p>紫宮雷（僕のClove）</p>
-<p>染谷音羽</p>
-<p>佐々野愛美</p>
-<p>天衣夢乃（SUGAR PLANET）</p>
-<p>咲坂菜友（維新グラビティ）</p>
-<p>濱岡志帆</p>
-<p>七瀬真生子</p>
-<p>篠塚沙由美</p></td>
+<td></td>
 <td><p>舞台「13月の女の子」Aチーム公演に出演。</p></td>
 </tr>
 <tr class="odd">
-<td><p>3</p></td>
 <td><p>2019年8月10日(土)</p></td>
 <td><p>内山結愛</p></td>
 <td><p>＃DSPM のど自慢</p></td>
@@ -1727,7 +2507,6 @@
 <td><p>私服にてカラオケをバックにソロ歌唱。</p></td>
 </tr>
 <tr class="even">
-<td><p>4</p></td>
 <td><p>2019年9月15日(日)</p></td>
 <td><p>内山結愛</p></td>
 <td><p>ハミシスの、トークくらいはテキトーに。</p></td>
@@ -1738,7 +2517,6 @@
 <td><p>私服にてカラオケをバックにソロ歌唱と、Me、Sheとの3人によるコラボ歌唱を披露。</p></td>
 </tr>
 <tr class="odd">
-<td><p>5</p></td>
 <td><p>2019年9月29日(日)</p></td>
 <td><p>内山結愛</p></td>
 <td><p>Total Feedback</p></td>
@@ -1765,12 +2543,103 @@
 <p>嘉藤毅(broken little sister)</p>
 <p>なお(concrete twin)</p>
 <p>ishikawa(死んだ僕の彼女)</p></td>
-<td><p>DJを行なった</p></td>
+<td><p>DJとして出演</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月16日(土)</p></td>
+<td><p>甲斐莉乃</p></td>
+<td><p>小鳥遊すわの座覧会</p></td>
+<td><p>」に甲斐莉乃がゲスト出演</p></td>
+<td><p>よろずや駒沢</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月18日(月)</p></td>
+<td><p>月日</p></td>
+<td><p>月日と優美〜邂逅〜</p></td>
+<td><p>カラオケONE 銀座店</p></td>
+<td></td>
+<td></td>
+<td><p>ゲスト:是枝優美</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月24日(日)</p></td>
+<td><p>内山結愛</p></td>
+<td><p>Total Feedback</p></td>
+<td><p>高円寺HIGH</p></td>
+<td></td>
+<td></td>
+<td><p>DJとして出演</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月13日(月・祝)</p></td>
+<td><p>甲斐莉乃</p></td>
+<td><p>甲斐莉乃と岡本太郎美術館見学 ~打ち上げ飲み会&amp;アナザー甲斐莉乃チェキ会も！~</p></td>
+<td><p>川崎市岡本太郎美術館と最寄りのお店</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月18日(土)</p></td>
+<td><p>月日</p></td>
+<td><p>振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」</p></td>
+<td><p>神楽坂 セッションハウス</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月19日(日)</p></td>
+<td><p>月日</p></td>
+<td><p>振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」</p></td>
+<td><p>神楽坂 セッションハウス</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月19日(日)</p></td>
+<td><p>内山結愛</p></td>
+<td><p>Total Feedback</p></td>
+<td><p>高円寺 HIGH</p></td>
+<td></td>
+<td></td>
+<td><p>DJとして出演</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年2月23日(日)</p></td>
+<td><p>内山結愛</p></td>
+<td><p>Total Feedback</p></td>
+<td><p>高円寺 HIGH</p></td>
+<td></td>
+<td></td>
+<td><p>DJとして出演</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年3月14日(土)</p></td>
+<td><p>内山結愛と月日</p></td>
+<td><p>アイドルと人狼7 にゲスト出演</p></td>
+<td><p>阿佐ヶ谷 LoftA</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
-## collections
+
+\==collections== 「[collections](https://collections.id/about/)」はアイドルに特化した、新しいクラウドファンディングプラットフォームです。
 
 <table>
 <thead>
@@ -1790,7 +2659,7 @@
 <td><p><a href="https://collections.en-jine.com/projects/shiseisai">甲斐莉乃 〜死生祭〜</a></p></td>
 <td><p>原宿 STOROBE CAFE</p></td>
 <td><p>2019年3月12日20:00〜 2019年4月14日24:00</p></td>
-<td><p>ゲストに里咲りさ、柚木萌花、白川さやかが参加</p></td>
+<td><p>ゲスト出演:里咲りさ、柚木萌花、白川さやか ※RAY発表前</p></td>
 </tr>
 <tr class="even">
 <td><p>内山結愛</p></td>
@@ -1802,8 +2671,7 @@
 </tr>
 <tr class="odd">
 <td><p>白川さやか</p></td>
-<td><p>- お披露目は2019年9月28日(土)</p>
-<p>白川さやか生誕 + RAY長めライブ</p></td>
+<td><p>お披露目は2019年9月28日(土) の"白川さやか生誕 + RAY長めライブ"</p></td>
 <td><p>[<a href="https://collections.en-jine.com/projects/kirakira-idol-song">https://collections.en-jine.com/projects/kirakira-idol-song</a> キラキラなアイドルソングを歌いたい</p></td>
 <td><p>]</p></td>
 <td><p>- (原宿 STROBE CAFEにて初披露)</p></td>
@@ -1819,30 +2687,61 @@
 </tr>
 <tr class="odd">
 <td><p>月日</p></td>
-<td><p>-</p></td>
+<td><p>Webにて2020年2月29日一般公開<br />
+</p></td>
 <td><p><a href="https://collections.en-jine.com/projects/documentary">ドキュメンタリー映像をのこしたい</a></p></td>
 <td><p>- (イベント未定)</p></td>
 <td><p>2019年6月12日〜 2019年7月14日22:00</p></td>
 <td><p>・イベント予定中（未定） ・予告映像動画</p>
-<p><a href="https://www.youtube.com/watch?v=INFsB6mXuRQ&amp;feature=youtu.be">https://www.youtube.com/watch?v=INFsB6mXuRQ&amp;feature=youtu.be</a></p></td>
+<p><a href="https://www.youtube.com/watch?v=INFsB6mXuRQ&amp;feature=youtu.be">https://www.youtube.com/watch?v=INFsB6mXuRQ&amp;feature=youtu.be</a></p>
+<p>・2019年12月31日に支援者限定先行公開、2020年2月29日に一般公開された。</p>
+<p>・本編動画</p>
+<p><a href="https://www.youtube.com/watch?v=ATtfrU6M-vw">https://www.youtube.com/watch?v=ATtfrU6M-vw</a></p></td>
 </tr>
 <tr class="even">
 <td><p>甲斐莉乃</p></td>
 <td><p>2019年11月2日(土)</p></td>
-<td><p>甲斐莉乃 〜竹馬〜</p></td>
-<td><p>未定</p></td>
+<td><p><a href="https://collections.id/takeuma/">甲斐莉乃 〜竹馬〜</a></p></td>
+<td><p>代々木公園某所</p></td>
 <td><p>2019年9月4日22:00〜2019年9月30日23:59</p></td>
-<td></td>
+<td><p>竹馬にすこしでも興味がある方、甲斐莉乃と一緒に竹馬と触れ合いませんか？</p></td>
 </tr>
 <tr class="odd">
 <td><p>甲斐莉乃</p></td>
 <td><p>2019年9月28日(土)〜10月11日(金) 13:00〜19:00</p>
 <p>※月・火休み</p></td>
-<td><p>甲斐莉乃 〜個展〜 『403 Forbidden』</p></td>
+<td><p><a href="https://collections.id/koten/">甲斐莉乃 〜個展〜</a> <a href="https://collections.id/koten/">『403 Forbidden』</a></p></td>
 <td><p>水道橋 Ohshima Fine Art</p></td>
 <td><p>2019年9月14日22:00〜2019年10月11日23:59</p></td>
 <td><p>会期は2019年9月28日(土)〜10月11日(金) 13:00〜19:00</p>
-<p>※月・火休み</p></td>
+<p>※月・火休み</p>
+<p>会期中、在廊した甲斐莉乃と会えた場合はスタンプラリー(1日1回まで)押印、最大7つ集めると特典あり。</p></td>
+</tr>
+<tr class="even">
+<td><p>月日</p></td>
+<td><p>手術無事完了</p></td>
+<td><p>『<a href="https://collections.id/hentosen/">SKIP×SKIP 〜手術チャレンジ〜</a>』</p></td>
+<td><p>-</p></td>
+<td><p>2019年11月30日〜2019年12月27日</p></td>
+<td><p>扁桃腺摘出手術を受けて、同時公開のバンジー編に万全の体調で挑むためのSKIP x SKIP 第0弾！ 支援者には【月一年ボイス】【プライベートメール】【X-RAYキーホルダー】など。</p></td>
+</tr>
+<tr class="odd">
+<td><p>月日</p></td>
+<td><p>2020年1月26日(日)</p></td>
+<td><p>『<a href="https://collections.id/iwanttofly/">SKIP×SKIP 〜翼をください〜</a>』</p></td>
+<td><p>茨城県 竜神大吊橋バンジー</p></td>
+<td><p>2019年11月30日〜2020年1月23日</p></td>
+<td><p>いっとき、ニンゲンを放棄し、野生に還りたいという願いを叶えるバンジー。SKIP x SKIP 第1弾！ ・当日のダイジェスト動画</p>
+<p><a href="https://www.youtube.com/watch?v=oyua1E3DUFc&amp;feature=youtu.be">https://www.youtube.com/watch?v=oyua1E3DUFc&amp;feature=youtu.be</a><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p>月日</p></td>
+<td><p>2020年3月21日(日)</p></td>
+<td><p>『<a href="https://collections.id/le-grand-bleu/">SKIP×SKIP 〜イルカの波長を感じたい〜</a>』</p></td>
+<td><p>静岡県伊東 ドルフィン・ファンタジー</p></td>
+<td><p>2020年3月4日〜2020年3月18日</p></td>
+<td><p>生命の源、海に還り、イルカの波長を感じたいという願いを叶えるSKIP x SKIP 第2弾！</p></td>
 </tr>
 </tbody>
 </table>
@@ -1905,3 +2804,6 @@
 16.
 17.
 18.
+19.
+20.
+21.

@@ -16,7 +16,7 @@
   - [Days (HIGH and MIGHTY COLORの曲)](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink") - [HIGH and MIGHTY COLORの楽曲](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")。
   - [Days (堀江由衣の曲)](../Page/Days_\(堀江由衣の曲\).md "wikilink") - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の楽曲。アニメ『[ながされて藍蘭島](../Page/ながされて藍蘭島.md "wikilink")』オープニングテーマ。
   - [Days (Hawaiian6の曲)](https://ja.wikipedia.org/wiki/Days_\(Hawaiian6の曲\) "wikilink") - [Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")の楽曲。
-  - Days - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の楽曲。シングル「[Days/GREEN](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」に収録。
+  - Days - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の楽曲。シングル「[Days/GREEN](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」に収録。
   - days －tears of the world－ - [20th Centuryの楽曲](../Page/V6_\(グループ\).md "wikilink")。アルバム「[seVen](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")」に収録。
   - Days - [嵐の楽曲](../Page/嵐_\(グループ\).md "wikilink")。アルバム「[One](../Page/One_\(嵐のアルバム\).md "wikilink")」に収録。
   - Days - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のCD未収録のオリジナル曲。⇒[ジャニーズJr.\#オリジナル曲](https://ja.wikipedia.org/wiki/ジャニーズJr.#オリジナル曲 "wikilink")

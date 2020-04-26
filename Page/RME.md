@@ -1,7 +1,7 @@
 > この記事は[RME](https://ja.wikipedia.org/wiki/RME)から翻訳されています。
 
 
-**RME株式会社**は、[声優](../Page/声優.md "wikilink")のマネージメント主体の[芸能事務所](../Page/芸能事務所.md "wikilink")。代表取締役会長は[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属声優の**[柴田秀勝](../Page/柴田秀勝.md "wikilink")**。代表取締役社長は柴田勝俊。
+**RME株式会社**は、[声優](../Page/声優.md "wikilink")のマネージメント主体の[芸能事務所](../Page/芸能事務所.md "wikilink")。代表取締役会長は**[柴田秀勝](../Page/柴田秀勝.md "wikilink")**。代表取締役社長は柴田勝俊。
 
 ## 概要
 
@@ -60,6 +60,7 @@
   - [沢井由](https://ja.wikipedia.org/wiki/沢井由 "wikilink")
   - [沢木信宏](https://ja.wikipedia.org/wiki/沢木信宏 "wikilink")
   - [座間富士夫](https://ja.wikipedia.org/wiki/座間富士夫 "wikilink")
+  - [柴田秀勝](../Page/柴田秀勝.md "wikilink")
   - [嶋村征太郎](https://ja.wikipedia.org/wiki/嶋村征太郎 "wikilink")
   - [鈴木龍樹](https://ja.wikipedia.org/wiki/鈴木龍樹 "wikilink")
 
@@ -156,6 +157,7 @@
   - [清水じゅん](https://ja.wikipedia.org/wiki/清水じゅん "wikilink")
   - [白壁爽子](https://ja.wikipedia.org/wiki/白壁爽子 "wikilink")
   - [杉浦圭](https://ja.wikipedia.org/wiki/杉浦圭 "wikilink")
+  - [関根明子](../Page/関根明子_\(声優\).md "wikilink")
   - [関友里恵](https://ja.wikipedia.org/wiki/関友里恵 "wikilink")
 
 <!-- end list -->

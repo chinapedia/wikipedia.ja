@@ -108,6 +108,6 @@
 ## 外部リンク
 
   - [rhythm zone](http://rhythmzone.net/micronstuff/index.html)
-  - [MICRON' STUFF オフィシャルブログ Powered by アメブロ](http://ameblo.jp/micronstuff/)
+  - [MICRON' STUFF オフィシャルブログ Powered by アメブロ](https://ameblo.jp/micronstuff/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

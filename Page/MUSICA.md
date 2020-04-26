@@ -68,7 +68,7 @@
   - 8月号、くるり
   - 9月号、BUMP OF CHICKEN
   - 10月号、マキシマム ザ ホルモン
-  - 11月号、[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+  - 11月号、[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
   - 12月号、[神聖かまってちゃん](https://ja.wikipedia.org/wiki/神聖かまってちゃん "wikilink")
 
 ### 2011年

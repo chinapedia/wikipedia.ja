@@ -279,9 +279,9 @@
   - [twenty4-7 Official Web Site](http://www.rhythmzone.net/twenty4-7/) - rhythm zoneによるオフィシャルサイト
   - [twenty4-7 ： avex network](https://web.archive.org/web/20130710024602/http://avexnet.jp/id/twen4/) - avexによるプロフィール（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [MIKA'S DIARY](http://customsneaker-carryon.blogspot.jp/) - MIKAオフィシャルブログ（2012年7月 - ）
-  - [twenty4-7 ME オフィシャルブログ Powered by Ameba](http://ameblo.jp/twenty4-7me/) - MEオフィシャルブログ（2010年3月 - ）
-  - [twenty4-7 MIKA オフィシャルブログ Powered by Ameba](http://ameblo.jp/twenty4-7mika/) - MIKA旧オフィシャルブログ（2010年2月 - 2012年7月）
-  - [twenty4-7 Official Blog Powered by アメブロ](http://ameblo.jp/twenty4-7/) - 旧オフィシャルブログ（2007年8月 - 2010年3月）
+  - [twenty4-7 ME オフィシャルブログ Powered by Ameba](https://ameblo.jp/twenty4-7me/) - MEオフィシャルブログ（2010年3月 - ）
+  - [twenty4-7 MIKA オフィシャルブログ Powered by Ameba](https://ameblo.jp/twenty4-7mika/) - MIKA旧オフィシャルブログ（2010年2月 - 2012年7月）
+  - [twenty4-7 Official Blog Powered by アメブロ](https://ameblo.jp/twenty4-7/) - 旧オフィシャルブログ（2007年8月 - 2010年3月）
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink")
 

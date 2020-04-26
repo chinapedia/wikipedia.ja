@@ -23,20 +23,21 @@
 
 1966年 「[リュイ・ブラス](https://ja.wikipedia.org/wiki/リュイ・ブラース "wikilink")」における演技で[村松英子](../Page/村松英子.md "wikilink")が第1回[紀伊国屋演劇賞受賞](../Page/紀伊國屋演劇賞.md "wikilink")。
 
-1967年 「[朱雀家の滅亡](https://ja.wikipedia.org/wiki/朱雀家の滅亡 "wikilink")」における演技で中村伸郎が第2回紀伊国屋演劇賞受賞。
+1967年 「[朱雀家の滅亡](https://ja.wikipedia.org/wiki/朱雀家の滅亡 "wikilink")」における演技で[中村伸郎](../Page/中村伸郎.md "wikilink")が第2回紀伊国屋演劇賞受賞。
 
 1970年 「マカロニ金融」で[昭和45年](https://ja.wikipedia.org/wiki/昭和45年 "wikilink")度芸術祭優秀賞受賞。
 
-1976年 「ササフラスの枝にそよぐ風」における演出で利光哲夫と賀原夏子が[昭和51年度芸術祭優秀賞演出部門賞受賞](../Page/1976年.md "wikilink")。
+1976年 「ササフラスの枝にそよぐ風」における演出で利光哲夫と[賀原夏子](../Page/賀原夏子.md "wikilink")が[昭和51年度芸術祭優秀賞演出部門賞受賞](../Page/1976年.md "wikilink")。
 
 1989年 「[毒薬と老嬢](https://ja.wikipedia.org/wiki/毒薬と老嬢 "wikilink")」で[平成元年](https://ja.wikipedia.org/wiki/平成元年 "wikilink")度芸術祭演劇部門賞受賞。
 
 2018年 「やっとことっちゃうんとこな」における作・演出で[池田政之が第](https://ja.wikipedia.org/wiki/池田政之_\(脚本家\) "wikilink")20回[テアトロ演劇賞](https://ja.wikipedia.org/wiki/テアトロ演劇賞 "wikilink")受賞。
 
+　※同作は、若手俳優たちが劇中で歌舞伎を演じるという[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")史上初の試みが高く評価された。
+
   -
 
       -
-        ※同作は、若手俳優たちが劇中で歌舞伎を演じるという[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")史上初の試みが高く評価された。
 
 ## 所属俳優
 

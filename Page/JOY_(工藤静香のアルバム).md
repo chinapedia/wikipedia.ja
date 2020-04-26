@@ -12,7 +12,9 @@
 
 ## 収録曲
 
-全曲作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
+  - 全作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
+
+<!-- end list -->
 
 1.  **天使みたいに踊らせて**
       - 作詞: [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")
@@ -34,6 +36,17 @@
       - 作詞: [三浦徳子](../Page/三浦徳子.md "wikilink")
 10. **[恋一夜](../Page/恋一夜.md "wikilink")**
       - 作詞: 松井五郎
+
+## 参加ミュージシャン
+
+  - Drums: [山木秀夫](../Page/山木秀夫.md "wikilink")
+  - Bass: [後藤次利](../Page/後藤次利.md "wikilink")
+  - Guitar: [今剛](../Page/今剛.md "wikilink"), [大村憲司](../Page/大村憲司.md "wikilink")
+  - Keyboards: [門倉聡](../Page/門倉聡.md "wikilink"), 難波正司
+  - Synth. Operation: [藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink"), 迫田到
+  - Percussion & Flute: [浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")
+  - Sax: [JAKE H. CONCEPCION](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
+  - Chorus: [坪倉唯子](../Page/坪倉唯子.md "wikilink"), [広谷順子](https://ja.wikipedia.org/wiki/広谷順子 "wikilink"), [RAJI](../Page/RAJIE.md "wikilink"), 浜田良美
 
 ## 関連作品
 

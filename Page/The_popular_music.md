@@ -37,7 +37,7 @@
 10. **[真夏の出来事](../Page/真夏の出来事_\(曲\).md "wikilink")**/[melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")（作詞:橋本淳 作曲:筒美京平 編曲:melody.,[浜松祐一](https://ja.wikipedia.org/wiki/浜松祐一 "wikilink") for my）
       -
         オリジナル…[平山みき](../Page/平山みき.md "wikilink") 1971年5月25日
-11. **[木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")**/[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）（作詞:松本隆 作曲:筒美京平 編曲:[常田真太郎](../Page/常田真太郎.md "wikilink")）
+11. **[木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")**/[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）（作詞:松本隆 作曲:筒美京平 編曲:[常田真太郎](../Page/常田真太郎.md "wikilink")）
       -
         オリジナル…[太田裕美](../Page/太田裕美.md "wikilink") 1975年12月21日
 12. **[また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")**/[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")（作詞:阿久悠 作曲:筒美京平 編曲・コーラスアレンジ:[小野瀬雅生](https://ja.wikipedia.org/wiki/小野瀬雅生 "wikilink") ホーンアレンジ:小野瀬雅生＋Trio the Dog Horns）

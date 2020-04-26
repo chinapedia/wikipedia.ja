@@ -23,11 +23,9 @@ RI + R'COR'' → R(R')C(OH)R''
 
 このタイプのバルビエ反応で5員環、6員環を作る分子内反応も報告されている\[7\]。
 
-## 参考文献
+## 脚注
 
 <references />
-
-{{-}}
 
 [Category:ヨウ化物](https://ja.wikipedia.org/wiki/Category:ヨウ化物 "wikilink") [Category:サマリウムの化合物](https://ja.wikipedia.org/wiki/Category:サマリウムの化合物 "wikilink") [Category:有機反応試剤](https://ja.wikipedia.org/wiki/Category:有機反応試剤 "wikilink")
 

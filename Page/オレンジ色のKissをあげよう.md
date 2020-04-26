@@ -15,4 +15,4 @@
 3.  **オレンジ色のKissをあげよう（original karaoke）**
 4.  **TRY ON MY DREAMS（original karaoke）**
 
-[Category:飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:飲料のコマーシャルソング "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:米倉千尋の楽曲](https://ja.wikipedia.org/wiki/Category:米倉千尋の楽曲 "wikilink") [Category:渡辺なつみが制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺なつみが制作した楽曲 "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:飲料のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:飲料のコマーシャルソング "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:米倉千尋の楽曲](https://ja.wikipedia.org/wiki/Category:米倉千尋の楽曲 "wikilink") [Category:渡辺なつみが制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺なつみが制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

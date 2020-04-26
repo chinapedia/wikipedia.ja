@@ -5,7 +5,7 @@
 
 [体感ゲームの中でも最大級のサイズを誇り](../Page/大型筐体ゲーム.md "wikilink")、上下左右に揺れるのは当たり前で、筐体そのものが回転してGを作り出す。
 
-[1996年](../Page/1996年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には『スピードキング』として[プレイステーションにも移殖された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。追加要素については[\#家庭用追加要素](https://ja.wikipedia.org/wiki/#家庭用追加要素 "wikilink")を参照の事。
+[1996年](../Page/1996年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には『スピードキング』として[プレイステーションにも移植された](../Page/PlayStation_\(ゲーム機\).md "wikilink")。追加要素については[\#家庭用追加要素](https://ja.wikipedia.org/wiki/#家庭用追加要素 "wikilink")を参照の事。
 
 ## 概要
 

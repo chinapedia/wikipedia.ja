@@ -371,7 +371,7 @@ SouthEnd Interactive</p></td>
 
 ### PlayStation版
 
-商品名は『R・TYPES』。『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』と共に収録されたカップリング移植で、1998年2月5日に発売された。『R-TYPE II』の初の忠実な移殖作品。[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて[PlayStation Portableや](../Page/PlayStation_Portable.md "wikilink")[PlayStation 3用にも](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")2011年8月11日までダウンロード配信されていた（配信終了後もダウンロード済みのものは引き続きプレイ可能）。
+商品名は『R・TYPES』。『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』と共に収録されたカップリング移植で、1998年2月5日に発売された。『R-TYPE II』の初の忠実な移植作品。[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて[PlayStation Portableや](../Page/PlayStation_Portable.md "wikilink")[PlayStation 3用にも](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")2011年8月11日までダウンロード配信されていた（配信終了後もダウンロード済みのものは引き続きプレイ可能）。
 
 オープニングムービー・エンディングムービーが追加されているほか、R戦闘機および敵キャラクターの設定資料が収められた「R'sライブラリー」や『[R-TYPE Δ](../Page/R-TYPE_Δ.md "wikilink")』のプロモーションムービーも収録されている。
 

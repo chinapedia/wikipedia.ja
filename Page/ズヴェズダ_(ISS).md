@@ -55,8 +55,8 @@
 
 ## 外部リンク
 
-  - [ズヴェズダ（ロシアのサービスモジュール）](http://iss.jaxa.jp/glossary/jp/su/zvezda.html) -- JAXA
-  - [国際宇宙ステーションの打上げ 1R Zvezda](http://iss.jaxa.jp/iss/1r/) -- JAXA
+  - [ズヴェズダ（ロシアのサービスモジュール）](https://iss.jaxa.jp/glossary/jp/su/zvezda.html) -- JAXA
+  - [国際宇宙ステーションの打上げ 1R Zvezda](https://iss.jaxa.jp/iss/1r/) -- JAXA
 
 [Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2000年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2000年の宇宙飛行 "wikilink")
 

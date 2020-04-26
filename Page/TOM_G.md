@@ -83,7 +83,7 @@
 
 ## 外部リンク
 
-  - [G-SIDE STORY](http://ameblo.jp/dj-tomg/)（本人のブログ）
+  - [G-SIDE STORY](https://ameblo.jp/dj-tomg/)（本人のブログ）
 
   - [ギラヴァンツ北九州スタジアムDJ TOM Gオフィシャルブログ](http://diamondblog.jp/tomg_giravanz/)
 

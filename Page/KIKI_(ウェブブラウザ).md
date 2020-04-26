@@ -1,4 +1,4 @@
-> この記事は[KIKI \(\)](https://ja.wikipedia.org/wiki/KIKI_\(\))から翻訳されています。
+> この記事は[KIKI \(ウェブブラウザ\)](https://ja.wikipedia.org/wiki/KIKI_\(ウェブブラウザ\))から翻訳されています。
 
 
 **KIKI**（キキ）は、ogi が開発・配布しているツリー型の[IEコンポーネントブラウザ](../Page/IEコンポーネントブラウザ.md "wikilink")である。「シンプルに軽く」を開発コンセプトとしている。

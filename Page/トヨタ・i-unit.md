@@ -1,4 +1,4 @@
-> この記事は[i-unit](https://ja.wikipedia.org/wiki/i-unit)から翻訳されています。
+> この記事は[トヨタ・i-unit](https://ja.wikipedia.org/wiki/トヨタ・i-unit)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Toyota_I-Unit_low_position_with_passenger.jpg "wikilink") **トヨタ・i-unit**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が開発した[パーソナルモビリティ](https://ja.wikipedia.org/wiki/パーソナルモビリティ "wikilink")のこと。

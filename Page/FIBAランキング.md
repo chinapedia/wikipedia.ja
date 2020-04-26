@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBAランキング](https://ja.wikipedia.org/wiki/FIBAランキング)から翻訳されています。
 
 
 <table>

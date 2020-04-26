@@ -1,4 +1,4 @@
-> この記事は[GLA](https://ja.wikipedia.org/wiki/GLA)から翻訳されています。
+> この記事は[GLA系諸教団](https://ja.wikipedia.org/wiki/GLA系諸教団)から翻訳されています。
 
 
 **GLA系諸教団**（ジーエルエーけいしょきょうだん）とは、[高橋信次が設立した](../Page/高橋信次_\(宗教家\).md "wikilink")[宗教法人](../Page/宗教法人.md "wikilink")[GLA総合本部](https://ja.wikipedia.org/wiki/GLA総合本部 "wikilink")から分派したとされる一群の宗教団体やグループである。

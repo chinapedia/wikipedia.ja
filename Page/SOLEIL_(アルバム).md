@@ -1,4 +1,4 @@
-> この記事は[SOLEIL \(\)](https://ja.wikipedia.org/wiki/SOLEIL_\(\))から翻訳されています。
+> この記事は[SOLEIL \(アルバム\)](https://ja.wikipedia.org/wiki/SOLEIL_\(アルバム\))から翻訳されています。
 
 
 『**SOLEIL**』（ソレイユ）は、[岡村孝子](../Page/岡村孝子.md "wikilink")通算4枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。1988年7月1日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。

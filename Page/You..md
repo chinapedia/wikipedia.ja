@@ -113,9 +113,6 @@
 
   - [you.チャンネル](http://www.waap.co.jp/you/) - 公式サイト
   - [you.ブログ まるみえにっき](http://blog.livedoor.jp/you_blog/) - 公式ブログ
-  - [公式ブログ 海馬ゆう果報は寝て待て](http://blog.livedoor.jp/kaibayou/)
-  - [ピュアネスプラネット公式サイト 海馬ゆう](http://www.p-planet.tv/profile/pp_act_13.php)
-  - [プレステージ公式サイト 海馬ゆう（1）](http://www.prestige-av.com/ec/index.php?main_page=product_prestige_info&products_id=3423)[（2）](http://www.prestige-av.com/ec/index.php?main_page=product_prestige_info&products_id=3450)
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:ワープエンタテインメント女優](https://ja.wikipedia.org/wiki/Category:ワープエンタテインメント女優 "wikilink") [Category:KUKI女優](https://ja.wikipedia.org/wiki/Category:KUKI女優 "wikilink") [Category:ゴーゴーズ女優](https://ja.wikipedia.org/wiki/Category:ゴーゴーズ女優 "wikilink") [Category:アウダースジャパン女優](https://ja.wikipedia.org/wiki/Category:アウダースジャパン女優 "wikilink") [Category:SOD女優](https://ja.wikipedia.org/wiki/Category:SOD女優 "wikilink") [Category:プレステージ女優](https://ja.wikipedia.org/wiki/Category:プレステージ女優 "wikilink") [Category:TMA女優](https://ja.wikipedia.org/wiki/Category:TMA女優 "wikilink") [Category:クリスタル映像女優](https://ja.wikipedia.org/wiki/Category:クリスタル映像女優 "wikilink") [Category:妄想族女優](https://ja.wikipedia.org/wiki/Category:妄想族女優 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

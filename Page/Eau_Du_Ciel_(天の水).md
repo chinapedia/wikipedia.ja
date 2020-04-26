@@ -1,4 +1,4 @@
-> この記事は[Eau Du Ciel \(\)](https://ja.wikipedia.org/wiki/Eau_Du_Ciel_\(\))から翻訳されています。
+> この記事は[Eau Du Ciel \(天の水\)](https://ja.wikipedia.org/wiki/Eau_Du_Ciel_\(天の水\))から翻訳されています。
 
 
 『**Eau Du Ciel （天の水）**』（オー・ド・シエル てんのみず）は、[岡村孝子](../Page/岡村孝子.md "wikilink")通算5枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。1989年6月24日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。

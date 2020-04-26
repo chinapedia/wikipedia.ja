@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[みちのくドライバーII](https://ja.wikipedia.org/wiki/みちのくドライバーII)から翻訳されています。
 
 
 **みちのくドライバーII**（みちのくドライバー・ツー）は、[プロレス技](../Page/プロレス技.md "wikilink")の一種である。[海外](../Page/海外.md "wikilink")では**ミチノク・ドライバー**と呼ばれている。

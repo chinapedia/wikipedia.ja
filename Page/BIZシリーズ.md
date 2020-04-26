@@ -1,4 +1,4 @@
-> この記事は[BIZ](https://ja.wikipedia.org/wiki/BIZ)から翻訳されています。
+> この記事は[BIZシリーズ](https://ja.wikipedia.org/wiki/BIZシリーズ)から翻訳されています。
 
 
 **BIZシリーズ**とは、劇団[AGAPE storeの](https://ja.wikipedia.org/wiki/AGAPE_store "wikilink")、「**BIG BIZ**」「**BIGGER BIZ**」「**BIGGEST BIZ**」から成る演劇作品三部作。

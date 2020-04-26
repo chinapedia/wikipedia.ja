@@ -1,4 +1,4 @@
-> この記事は[AWD](https://ja.wikipedia.org/wiki/AWD)から翻訳されています。
+> この記事は[ミニッツAWDシリーズ](https://ja.wikipedia.org/wiki/ミニッツAWDシリーズ)から翻訳されています。
 
 
 『**ミニッツAWDシリーズ**』は[京商](../Page/京商.md "wikilink")が2005年より発売している、1/27スケールの[RCカー](https://ja.wikipedia.org/wiki/RCカー "wikilink")である\[1\]\[2\]。

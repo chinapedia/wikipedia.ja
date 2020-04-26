@@ -5,7 +5,7 @@
 
 ## 解説
 
-アルバムタイトルはMe=自分、imi=意味、で「自分の意味」という岡村靖幸の造語である。 [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") 「[HEY\! HEY\! HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」エンディングテーマ、「ミラクルジャンプ」を含む。そのほか「モン・シロ」等を収録している。初回限定盤のみ「ミラクルジャンプ」のビデオクリップDVD付。
+アルバムタイトルはMe=自分、imi=意味、で「自分の意味」という岡村靖幸の造語である。 [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") 「[HEY\! HEY\! HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」エンディングテーマ、「ミラクルジャンプ」を含む。そのほか「モン・シロ」等を収録している。初回限定盤のみ「ミラクルジャンプ」のビデオクリップDVD付。
 
 ## 収録曲
 

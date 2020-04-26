@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダンディーFC](https://ja.wikipedia.org/wiki/ダンディーFC)から翻訳されています。
 
 
 **ダンディー・フットボール・クラブ**（）は、[スコットランド](../Page/スコットランド.md "wikilink")東部の都市[ダンディーに本拠を置くサッカークラブである](https://ja.wikipedia.org/wiki/ダンディー_\(スコットランド\) "wikilink")。愛称は「**The Dees**」。同じ市のすぐ近くにある[ダンディー・ユナイテッドFC](../Page/ダンディー・ユナイテッドFC.md "wikilink")とは永遠のライバル関係にある。

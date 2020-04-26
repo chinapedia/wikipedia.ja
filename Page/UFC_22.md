@@ -47,8 +47,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-22-There-Can-Be-Only-One-Champion)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/report/ufc/99/0924/index.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc22.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-22-There-Can-Be-Only-One-Champion-32)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのルイジアナ州大会](https://ja.wikipedia.org/wiki/Category:UFCのルイジアナ州大会 "wikilink") [Category:1999年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1999年の総合格闘技 "wikilink") [Category:1999年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1999年のアメリカ合衆国のスポーツ "wikilink") [Category:レイクチャールズ](https://ja.wikipedia.org/wiki/Category:レイクチャールズ "wikilink") [Category:1999年9月](https://ja.wikipedia.org/wiki/Category:1999年9月 "wikilink")

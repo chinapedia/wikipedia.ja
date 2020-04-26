@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[ハル・シティAFC](https://ja.wikipedia.org/wiki/ハル・シティAFC)から翻訳されています。
 
 
 **ハル・シティ・アソシエーション・フットボール・クラブ**（\[1\]）は、[イングランド](../Page/イングランド.md "wikilink")・[ヨークシャー](https://ja.wikipedia.org/wiki/ヨークシャー "wikilink")[キングストン・アポン・ハル](../Page/キングストン・アポン・ハル.md "wikilink")をホームタウンとするプロサッカークラブである。愛称は「**タイガーズ**（The Tigers）」。
@@ -366,7 +366,7 @@
 
   - [ビリー・ラッセル](https://ja.wikipedia.org/wiki/ビリー・ラッセル "wikilink") 2002.2 - 2002.4
 
-  - [ヤン・モルビー](https://ja.wikipedia.org/wiki/ヤン・モルビー "wikilink") 2002.4 - 2002.10
+  - [ヤン・モルビー](../Page/ヤン・モルビー.md "wikilink") 2002.4 - 2002.10
 
   - [ビリー・ラッセル](https://ja.wikipedia.org/wiki/ビリー・ラッセル "wikilink") 2002.10
 
@@ -446,7 +446,7 @@
 
   - [オーガスティン・オコチャ](../Page/オーガスティン・オコチャ.md "wikilink") 2007-2008
 
-  - [マヌーチョ・ゴンサウヴェス](https://ja.wikipedia.org/wiki/マヌーチョ・ゴンサウヴェス "wikilink") 2009
+  - [マヌーショ](https://ja.wikipedia.org/wiki/マテウス・アルベルト・コントレイラス・ゴンサルヴェス "wikilink") 2009
 
   - [ジョジー・アルティドール](../Page/ジョジー・アルティドール.md "wikilink") 2009-2010
 

@@ -1,4 +1,4 @@
-> この記事は[ ALTERED FABLE](https://ja.wikipedia.org/wiki/_ALTERED_FABLE)から翻訳されています。
+> この記事は[マブラヴ ALTERED FABLE](https://ja.wikipedia.org/wiki/マブラヴ_ALTERED_FABLE)から翻訳されています。
 
 
 『**マブラヴ ALTERED FABLE**』（Muvluv オルタード フェイブル）は、成人向けゲームメーカー âge（[アージュ](../Page/アージュ.md "wikilink")）が[2007年](../Page/2007年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に発売した成人向けPCゲーム。2006年に発売された『[マブラヴ オルタネイティヴ](../Page/マブラヴ_オルタネイティヴ.md "wikilink")』のファンディスクである。

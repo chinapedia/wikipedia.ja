@@ -1,4 +1,4 @@
-> この記事は[BRILLIANT \(hiro\)](https://ja.wikipedia.org/wiki/BRILLIANT_\(hiro\))から翻訳されています。
+> この記事は[BRILLIANT \(hiroのアルバム\)](https://ja.wikipedia.org/wiki/BRILLIANT_\(hiroのアルバム\))から翻訳されています。
 
 
 『**BRILLIANT**』（ブリリアント）は、日本の女性歌手[hiroの](../Page/島袋寛子.md "wikilink")1枚目の[アルバム](../Page/アルバム.md "wikilink")。

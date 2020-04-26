@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRサクラ大戦](https://ja.wikipedia.org/wiki/CRサクラ大戦)から翻訳されています。
 
 
 **CRサクラ大戦**（シーアールサクラたいせん）は、[サミー](../Page/サミー.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[サクラ大戦](../Page/サクラ大戦.md "wikilink")のタイアップ機。

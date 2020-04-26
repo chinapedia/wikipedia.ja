@@ -1,4 +1,4 @@
-> この記事は[ERYX \(\)](https://ja.wikipedia.org/wiki/ERYX_\(\))から翻訳されています。
+> この記事は[ERYX \(ミサイル\)](https://ja.wikipedia.org/wiki/ERYX_\(ミサイル\))から翻訳されています。
 
 
 **ERYX**（エリックス）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")が共同開発した第3世代の[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")に完成し、[1994年](../Page/1994年.md "wikilink")から逐次採用された。名前の由来は[ケニアスナボア（Eryx colubrinus）から](../Page/ナイルスナボア.md "wikilink")。

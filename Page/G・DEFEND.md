@@ -1,4 +1,4 @@
-> この記事は[GDEFEND](https://ja.wikipedia.org/wiki/GDEFEND)から翻訳されています。
+> この記事は[G・DEFEND](https://ja.wikipedia.org/wiki/G・DEFEND)から翻訳されています。
 
 
 『**G・DEFEND**』（ジー・ディフェンド）は、[森本秀](../Page/森本秀.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

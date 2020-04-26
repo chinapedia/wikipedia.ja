@@ -1,4 +1,4 @@
-> この記事は[i](https://ja.wikipedia.org/wiki/i)から翻訳されています。
+> この記事は[魔法のiらんど文庫](https://ja.wikipedia.org/wiki/魔法のiらんど文庫)から翻訳されています。
 
 
 **魔法のiらんど文庫**（まほうのあいらんどぶんこ）は、[携帯電話](../Page/携帯電話.md "wikilink")向け無料[ウェブサイト](../Page/ウェブサイト.md "wikilink")提供スペース・[魔法のiらんど](../Page/魔法のiらんど.md "wikilink")に投稿された[ケータイ小説](../Page/ケータイ小説.md "wikilink")の中で特に人気が高い作品を再録・出版していた[文庫本](../Page/文庫本.md "wikilink")レーベル。後年は書下ろし作品を出版することも増えた。[2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")創刊。

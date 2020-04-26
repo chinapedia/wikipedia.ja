@@ -1,4 +1,4 @@
-> この記事は[Lucid \(\)](https://ja.wikipedia.org/wiki/Lucid_\(\))から翻訳されています。
+> この記事は[Lucid \(プログラミング言語\)](https://ja.wikipedia.org/wiki/Lucid_\(プログラミング言語\))から翻訳されています。
 
 
 **Lucid** は[データフロープログラミング](../Page/データフロープログラミング.md "wikilink")言語である。非[ノイマン型](../Page/ノイマン型.md "wikilink") プログラミング言語の実験の為に設計された。Bill Wadge と Ed Ashcroft によって設計され、書籍 *Lucid, the Dataflow Programming Language* が出版された。

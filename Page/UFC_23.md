@@ -31,7 +31,7 @@
     1R 1:12 TKO（タオル投入：足の負傷）
   - 第5試合 UFC-Jミドル級トーナメント 決勝戦 5分3R
     ○  [山本喧一](../Page/山本喧一.md "wikilink") vs.  [藤井克久](../Page/藤井克久.md "wikilink") ×
-    1R 4:15 [膝十字固め](https://ja.wikipedia.org/wiki/膝十字固め "wikilink")
+    1R 4:15 [膝十字固め](../Page/膝十字固め.md "wikilink")
     ※山本がトーナメント優勝。
   - 第6試合 ヘビー級 5分3R
     ○  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") vs.  [高阪剛](../Page/高阪剛.md "wikilink") ×
@@ -51,8 +51,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-23-Ultimate-Japan-2)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/report/ufc/99/1114/index.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc-j.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-23-Ultimate-Japan-2-33)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCの日本大会](https://ja.wikipedia.org/wiki/Category:UFCの日本大会 "wikilink") [Category:1999年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1999年の総合格闘技 "wikilink") [Category:1999年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1999年の日本のスポーツ "wikilink") [Category:千葉県のスポーツ史](https://ja.wikipedia.org/wiki/Category:千葉県のスポーツ史 "wikilink") [Category:浦安市の歴史](https://ja.wikipedia.org/wiki/Category:浦安市の歴史 "wikilink") [Category:1999年11月](https://ja.wikipedia.org/wiki/Category:1999年11月 "wikilink")

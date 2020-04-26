@@ -1,4 +1,4 @@
-> この記事は[Baby\'s breath \(\)](https://ja.wikipedia.org/wiki/Baby\'s_breath_\(\))から翻訳されています。
+> この記事は[Baby\'s breath \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/Baby\'s_breath_\(松田聖子のアルバム\))から翻訳されています。
 
 
 『**Baby's breath**』（ベイビーズ・ブレス）は、2007年6月にリリースされた[松田聖子](../Page/松田聖子.md "wikilink")（通算42枚目）の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GAU-12 ](https://ja.wikipedia.org/wiki/GAU-12_)から翻訳されています。
+> この記事は[GAU-12 イコライザー](https://ja.wikipedia.org/wiki/GAU-12_イコライザー)から翻訳されています。
 
 
 [GAU-12U_test_firing.ogv](https://ja.wikipedia.org/wiki/File:GAU-12U_test_firing.ogv "fig:GAU-12U_test_firing.ogv") **GAU-12 イコライザー**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[GE社が開発した](../Page/ゼネラル・エレクトリック.md "wikilink")25mm[口径](../Page/口径.md "wikilink")5[砲身の](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[ガトリング式ロータリー](../Page/ガトリング砲.md "wikilink")[機関砲](../Page/機関砲.md "wikilink")。アメリカ以外にも[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[NATO加盟諸国が採用しており](../Page/北大西洋条約機構.md "wikilink")、[戦闘機](../Page/戦闘機.md "wikilink")や[装甲戦闘車両](../Page/装甲戦闘車両.md "wikilink")に搭載して使用されている。

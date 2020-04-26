@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[BBコード](https://ja.wikipedia.org/wiki/BBコード)から翻訳されています。
 
 
 **BBコード**（びーびーこーど）は、 *Bulletin Board Code* の略で、[電子掲示板](../Page/電子掲示板.md "wikilink")や[ブログ](../Page/ブログ.md "wikilink")などで使用される[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")である。 キーワードを[角括弧](https://ja.wikipedia.org/wiki/角括弧 "wikilink")で囲んでタグとし、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")が理解して表示できるように[構文解析](../Page/構文解析.md "wikilink")して[HTML](../Page/HyperText_Markup_Language.md "wikilink")（[XHTML](https://ja.wikipedia.org/wiki/XHTML "wikilink")）に変換される。

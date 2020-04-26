@@ -1,7 +1,7 @@
-> この記事は[N,N-](https://ja.wikipedia.org/wiki/N,N-)から翻訳されています。
+> この記事は[三フッ化N,N-ジエチルアミノ硫黄](https://ja.wikipedia.org/wiki/三フッ化N,N-ジエチルアミノ硫黄)から翻訳されています。
 
 
-**三フッ化N,N-ジエチルアミノ硫黄** (さんフッかN,N-ジエチルアミノいおう、*N*,*N*-diethylaminosulfur trifluoride）は、[有機合成化学](../Page/有機合成化学.md "wikilink")においてフッ素化試薬として用いられる化合物。略称は **DAST**。市販品が入手可能。
+**三フッ化*N*,*N*-ジエチルアミノ硫黄** (さんフッか*N*,*N*-ジエチルアミノいおう、*N*,*N*-diethylaminosulfur trifluoride）は、[有機合成化学](../Page/有機合成化学.md "wikilink")においてフッ素化試薬として用いられる化合物。略称は **DAST**。市販品が入手可能。
 
 ## 調製
 

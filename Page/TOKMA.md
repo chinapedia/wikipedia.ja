@@ -27,7 +27,7 @@
 
 [2012年](../Page/2012年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")に、国有化されて間もない尖閣諸島に上陸した\[2\]\[3\]\[4\]（[日本人活動家尖閣諸島上陸事件](https://ja.wikipedia.org/wiki/日本人活動家尖閣諸島上陸事件 "wikilink") 参照）。
 
-この行為に対し[9月28日](../Page/9月28日.md "wikilink")、[沖縄県警察](../Page/沖縄県警察.md "wikilink")[八重山警察署](https://ja.wikipedia.org/wiki/八重山警察署 "wikilink")は[軽犯罪法](../Page/軽犯罪法.md "wikilink")違反容疑で[那覇地方検察庁](../Page/那覇地方検察庁.md "wikilink")石垣支部に[書類送検](../Page/書類送検.md "wikilink")したが\[5\]\[6\]、[不起訴](https://ja.wikipedia.org/wiki/不起訴 "wikilink")処分となった。\[7\]不起訴となったものの、軽犯罪法違反で書類送検されたことに政治的な問題意識を感じ、政治家を志すようになった。
+この行為に対し[9月28日](../Page/9月28日.md "wikilink")、[沖縄県警察](../Page/沖縄県警察.md "wikilink")[八重山警察署](../Page/八重山警察署.md "wikilink")は[軽犯罪法](../Page/軽犯罪法.md "wikilink")違反容疑で[那覇地方検察庁](../Page/那覇地方検察庁.md "wikilink")石垣支部に[書類送検](../Page/書類送検.md "wikilink")したが\[5\]\[6\]、[不起訴](https://ja.wikipedia.org/wiki/不起訴 "wikilink")処分となった。\[7\]不起訴となったものの、軽犯罪法違反で書類送検されたことに政治的な問題意識を感じ、政治家を志すようになった。
 
 その後、2012年10月に[幸福実現党](https://ja.wikipedia.org/wiki/幸福実現党 "wikilink")青年局長に就任し、[11月7日](../Page/11月7日.md "wikilink")に[東京都知事選挙への立候補表明した](https://ja.wikipedia.org/wiki/2012年東京都知事選挙 "wikilink")。\[8\]\[9\]。
 
@@ -127,7 +127,7 @@
 
   - CDアルバム『**Get Your Freedom\!\!**』
       -
-        集録曲： 1. TAX HEAVEN〜増税反対\!\!〜 、2. SKY - HIGHWAY 、 3. レクエイム〜祖父へ\! 、 4. 格差社会はなくせない\! 、5. リトルボーイ (1945)〜原爆≠原発 、 6. 優しい記憶、 7. 静かなる微笑み (ROCK VERSION) 、 8. I LOVE ZIPANG〜自分の国は自分で守る。 、 9. Watch Over Me 〜光は不滅
+        集録曲： 1. TAX HEAVEN〜増税反対\!\!〜 、2. SKY - HIGHWAY 、 3. レクイエム〜祖父へ\! 、 4. 格差社会はなくせない\! 、5. リトルボーイ (1945)〜原爆≠原発 、 6. 優しい記憶、 7. 静かなる微笑み (ROCK VERSION) 、 8. I LOVE ZIPANG〜自分の国は自分で守る。 、 9. Watch Over Me 〜光は不滅
         レーベル： 555 RECORDS
         EAN： 4580282022922
         発売日： 2012年10月24日
@@ -177,7 +177,7 @@
 ## 外部リンク
 
   - [トクマ公式サイト](http://tokma.jp/)
-  - [今日も晴れにするぞ！ トクマのハレホロ日記](http://ameblo.jp/tokma-555/) - ブログ
+  - [今日も晴れにするぞ！ トクマのハレホロ日記](https://ameblo.jp/tokma-555/) - ブログ
   - [旧ブログ](http://blog.livedoor.jp/tokma555/)
 
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の保守活動家](https://ja.wikipedia.org/wiki/Category:日本の保守活動家 "wikilink") [Category:幸福実現党](https://ja.wikipedia.org/wiki/Category:幸福実現党 "wikilink") [Category:幸福の科学の人物](https://ja.wikipedia.org/wiki/Category:幸福の科学の人物 "wikilink") [Category:日本の国政選挙の立候補経験者](https://ja.wikipedia.org/wiki/Category:日本の国政選挙の立候補経験者 "wikilink") [Category:東京都知事選挙の立候補経験者](https://ja.wikipedia.org/wiki/Category:東京都知事選挙の立候補経験者 "wikilink") [Category:青山学院大学出身の人物](https://ja.wikipedia.org/wiki/Category:青山学院大学出身の人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

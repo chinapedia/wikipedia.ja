@@ -1,4 +1,4 @@
-> この記事は[N.Y.T.](https://ja.wikipedia.org/wiki/N.Y.T.)から翻訳されています。
+> この記事は[N.Y.T.アトラスタワー西新宿](https://ja.wikipedia.org/wiki/N.Y.T.アトラスタワー西新宿)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Atlastower-nishishinjyuku1.jpg "wikilink")

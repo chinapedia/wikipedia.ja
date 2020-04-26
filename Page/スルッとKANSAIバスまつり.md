@@ -1,4 +1,4 @@
-> この記事は[KANSAI](https://ja.wikipedia.org/wiki/KANSAI)から翻訳されています。
+> この記事は[スルッとKANSAIバスまつり](https://ja.wikipedia.org/wiki/スルッとKANSAIバスまつり)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/image:surutto_kansai_bus_matsuri_2007.jpg "wikilink") **スルッとKANSAIバスまつり**（スルっとかんさいバスまつり）は、[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")が主催するバスが主体の[イベント](../Page/イベント.md "wikilink")で、[9月20日](../Page/9月20日.md "wikilink")の[バスの日](../Page/バスの日.md "wikilink")を記念して開催されるイベント（後援の団体は、開催地の自治体など開催時により異なるが、近畿バス団体協議会が毎回後援に名を連ねている）。

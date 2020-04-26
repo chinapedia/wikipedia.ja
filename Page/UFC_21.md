@@ -1,7 +1,7 @@
 > この記事は[UFC 21](https://ja.wikipedia.org/wiki/UFC_21)から翻訳されています。
 
 
-**UFC 21: Return of the Champions**（ユーエフシー・トゥエンティワン：リターン・オブ・ザ・チャンピオンズ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1999年](../Page/1999年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")、[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[シーダーラピッズ](https://ja.wikipedia.org/wiki/シーダーラピッズ "wikilink")のファイブシーズンズ・イベントセンターで開催された。
+**UFC 21: Return of the Champions**（ユーエフシー・トゥエンティワン：リターン・オブ・ザ・チャンピオンズ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[1999年](../Page/1999年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")、[アイオワ州](../Page/アイオワ州.md "wikilink")[シーダーラピッズ](https://ja.wikipedia.org/wiki/シーダーラピッズ "wikilink")のファイブシーズンズ・イベントセンターで開催された。
 
 ## 大会概要
 
@@ -47,8 +47,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-21-Return-Of-The-Champions)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/total/ufc/results/99/0716/index.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc21.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-21-Return-of-the-Champions-31)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのアイオワ州大会](https://ja.wikipedia.org/wiki/Category:UFCのアイオワ州大会 "wikilink") [Category:1999年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1999年の総合格闘技 "wikilink") [Category:1999年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1999年のアメリカ合衆国のスポーツ "wikilink") [Category:シーダーラピッズ](https://ja.wikipedia.org/wiki/Category:シーダーラピッズ "wikilink") [Category:1999年7月](https://ja.wikipedia.org/wiki/Category:1999年7月 "wikilink")

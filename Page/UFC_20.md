@@ -40,8 +40,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-20-Battle-For-The-Gold)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc20.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc20.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-20-Battle-for-the-Gold-30)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのアラバマ州大会](https://ja.wikipedia.org/wiki/Category:UFCのアラバマ州大会 "wikilink") [Category:1999年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1999年の総合格闘技 "wikilink") [Category:1999年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1999年のアメリカ合衆国のスポーツ "wikilink") [Category:バーミングハム_(アラバマ州)](https://ja.wikipedia.org/wiki/Category:バーミングハム_\(アラバマ州\) "wikilink") [Category:1999年5月](https://ja.wikipedia.org/wiki/Category:1999年5月 "wikilink")

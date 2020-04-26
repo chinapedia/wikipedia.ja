@@ -37,7 +37,7 @@
   - 全作詞・作曲: 岡村孝子（except「銀色の少女 ～あみんVersion～」さだまさし）
   - 全編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")
 
-[thumb交差点より星ヶ丘駅方面を見る](https://ja.wikipedia.org/wiki/ファイル:Hoshigaoka_terrace_Sugiyama_univ.jpg "wikilink")。「神様のご褒美」の歌詞の通りの緩い坂である。\]\]
+[thumb交差点より星ヶ丘駅](https://ja.wikipedia.org/wiki/ファイル:Hoshigaoka_terrace_Sugiyama_univ.jpg "wikilink")（坂を下り切った[大通り沿いにある](../Page/東山通_\(名古屋市\).md "wikilink")）方面を見る。「神様のご褒美」の歌詞の通りの緩い坂である。\]\]
 
 ## 関連作品
 

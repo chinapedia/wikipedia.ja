@@ -1,4 +1,4 @@
-> この記事は[A.S.A.P. \(\)](https://ja.wikipedia.org/wiki/A.S.A.P._\(\))から翻訳されています。
+> この記事は[A.S.A.P. \(曲\)](https://ja.wikipedia.org/wiki/A.S.A.P._\(曲\))から翻訳されています。
 
 
 「**A.S.A.P.**」（エー・エス・エー・ピー）は、日本の音楽ユニットLittle Kissの唯一のシングル。1997年2月14日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

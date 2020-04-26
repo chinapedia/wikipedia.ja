@@ -1,11 +1,11 @@
-> この記事は[Yellow \(\)](https://ja.wikipedia.org/wiki/Yellow_\(\))から翻訳されています。
+> この記事は[Yellow \(岡村靖幸のアルバム\)](https://ja.wikipedia.org/wiki/Yellow_\(岡村靖幸のアルバム\))から翻訳されています。
 
 
 『**yellow**』（イエロー）は、[岡村靖幸](../Page/岡村靖幸.md "wikilink")のデビューアルバム。
 
 ## 解説
 
-デビュー曲の「Out of Blue」、そのほか「Young oh\! oh\!」「Check Out Love」等を収録している。
+デビュー曲の「Out of Blue」、そのほか「Young oh\! oh\!」「Check Out Love」などを収録している。
 
 ## 収録曲
 

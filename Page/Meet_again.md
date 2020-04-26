@@ -44,4 +44,4 @@
       -
         『[feel well](https://ja.wikipedia.org/wiki/feel_well#アルバム "wikilink")』、『スレイヤーズMEGUMIX』、『VINTAGE White』
 
-[Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink")

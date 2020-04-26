@@ -19,6 +19,6 @@
 ## 外部リンク
 
   - [monstar.fm公式サイト](http://monstar.fm/)
-  - [monstar-fm社長ブログ](http://ameblo.jp/monstar/)
+  - [monstar-fm社長ブログ](https://ameblo.jp/monstar/)
 
 [Category:音楽のウェブサイト](https://ja.wikipedia.org/wiki/Category:音楽のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink")

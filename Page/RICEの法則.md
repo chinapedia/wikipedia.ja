@@ -1,4 +1,4 @@
-> この記事は[RICE](https://ja.wikipedia.org/wiki/RICE)から翻訳されています。
+> この記事は[RICEの法則](https://ja.wikipedia.org/wiki/RICEの法則)から翻訳されています。
 
 
 **RICEの法則**（ライスのほうそく）とは身体が傷害を負った際に早急に執るべき[応急処置](../Page/応急処置.md "wikilink")における法則の事である。

@@ -1,4 +1,4 @@
-> この記事は[JOINT \(\)](https://ja.wikipedia.org/wiki/JOINT_\(\))から翻訳されています。
+> この記事は[JOINT \(川田まみの曲\)](https://ja.wikipedia.org/wiki/JOINT_\(川田まみの曲\))から翻訳されています。
 
 
 「**JOINT**」（ジョイント）は、日本の女性歌手、[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")の楽曲。川田の5作目の[シングル](../Page/シングル.md "wikilink")として、[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")から発売された。本シングルに収録された楽曲「JOINT」・「triangle」は[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系テレビアニメ](../Page/TBSテレビ.md "wikilink")『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』の前期[オープニングテーマ](../Page/主題歌.md "wikilink")・エンディングテーマとしてそれぞれ起用された。

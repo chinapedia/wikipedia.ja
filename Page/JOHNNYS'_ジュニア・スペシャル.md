@@ -1,7 +1,7 @@
-> この記事は[JOHNNYS\' ](https://ja.wikipedia.org/wiki/JOHNNYS\'_)から翻訳されています。
+> この記事は[JOHNNYS\' ジュニア・スペシャル](https://ja.wikipedia.org/wiki/JOHNNYS\'_ジュニア・スペシャル)から翻訳されています。
 
 
-**JOHNNYS' ジュニア・スペシャル**は、[1974年](../Page/1974年.md "wikilink")夏に「**ジュニア・スペシャル**」の名で結成され、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に在籍していたアイドルグループ。[1970年](../Page/1970年.md "wikilink")代の中期に活躍。表記は「**JOHNNY'S**」ではなく「**JOHNNYS**'」（所有形ではなく「ジャニー達」の意）が正しい。愛称は頭文字を取って「**JJS**」。旧グループ名は「ジュニア・スペシャル」。後に「**[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")**」（後述）というグループとなった。
+**JOHNNYS' ジュニア・スペシャル**は、[1974年](../Page/1974年.md "wikilink")夏に「**ジュニア・スペシャル**」の名で結成され、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に在籍していたアイドルグループ。[1970年](../Page/1970年.md "wikilink")代の中期に活躍。表記は「**JOHNNY'S**」ではなく「**JOHNNYS**'」（「ジャニーの」ではなく「ジャニーズの」の意）が正しい。愛称は頭文字を取って「**JJS**」。旧グループ名は「ジュニア・スペシャル」。後に「**[VIP](https://ja.wikipedia.org/wiki/#VIP "wikilink")**」（後述）というグループとなった。
 
 ## メンバー
 
@@ -194,9 +194,12 @@
 
 ## メンバーのその後
 
-  - 板野は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")から「ジャPAニーズ」に加入した為、その後の詳細は**[ジャPAニーズ](../Page/ジャPAニーズ.md "wikilink")**の項目を参照。
-  - 畠山は脱退後に事務所を移籍。1980年に「**畠 真之**（はた まさゆき）」に改名して[俳優](../Page/俳優.md "wikilink")として活動。 [1984年](../Page/1984年.md "wikilink")に[劇団四季](../Page/劇団四季.md "wikilink")へ入団すると、再び「畠山昌久」の名に戻して活動していたが、しばらくしてから「**畠山 久**（はたけやま ひさし）」へと改名した。1993年には[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われたロックオペラ「ハムレット」にレアティーズ役で出演し、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ToshI](https://ja.wikipedia.org/wiki/ToshI "wikilink")や[デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン小暮閣下 "wikilink")などと共演。[2003年](../Page/2003年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、転移性[胆管癌](../Page/胆管癌.md "wikilink")により死去。45歳没。
-  - 林は脱退の1ヶ月後から、プライベートでソロのアコースティックライブ活動を数年間続けていた。その後は結婚して男児を一人もうけ、妻の実家の家業である不動産業を手伝っていた。[2016年](../Page/2016年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[心筋梗塞](../Page/心筋梗塞.md "wikilink")により死去していたことが判明した（死亡月日は未公表）。57歳没。5月28日に[横浜市](../Page/横浜市.md "wikilink")内で葬儀が行われた\[3\]。
+  - 板野は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")から「ジャPAニーズ」に加入した。
+
+<!-- end list -->
+
+  - 畠山は脱退後に事務所を移籍。1980年に「**畠 真之**（はた まさゆき）」に改名して[俳優](../Page/俳優.md "wikilink")として活動。 [1984年](../Page/1984年.md "wikilink")に[劇団四季](../Page/劇団四季.md "wikilink")へ入団すると、再び「畠山昌久」の名に戻して活動していたが、しばらくしてから「**畠山 久**（はたけやま ひさし）」へと改名した。1993年には[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われたロックオペラ「ハムレット」にレアティーズ役で出演し、[X JAPANの](../Page/X_JAPAN.md "wikilink")[TOSHI](https://ja.wikipedia.org/wiki/ToshI "wikilink")（当時）や[デーモン小暮](https://ja.wikipedia.org/wiki/デーモン小暮 "wikilink")（当時）などと共演。[2003年](../Page/2003年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、転移性[胆管癌](../Page/胆管癌.md "wikilink")により死去。45歳没。
+  - 林は[VIP脱退の](https://ja.wikipedia.org/wiki/JOHNNYS%27_ジュニア・スペシャル#VIP "wikilink")1ヶ月後から、プライベートでソロのアコースティックライブ活動を数年間続けていた。その後は結婚して男児を一人もうけ、妻の実家の家業である不動産業を手伝っていた。[2016年](../Page/2016年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[心筋梗塞](../Page/心筋梗塞.md "wikilink")により死去していたことが判明した（死亡月日は未公表）。57歳没。5月28日に[横浜市](../Page/横浜市.md "wikilink")内で葬儀が行われた\[3\]。
 
 ## 出典
 

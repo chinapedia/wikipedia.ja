@@ -1,4 +1,4 @@
-> この記事は[ES](https://ja.wikipedia.org/wiki/ES)から翻訳されています。
+> この記事は[E・S・ガードナー](https://ja.wikipedia.org/wiki/E・S・ガードナー)から翻訳されています。
 
 
 **アール・スタンリー・ガードナー**（**Erle Stanley Gardner**、[1889年](../Page/1889年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [1970年](../Page/1970年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[モールデン](https://ja.wikipedia.org/wiki/モールデン_\(マサチューセッツ州\) "wikilink") (Malden) 生まれの[推理作家](../Page/推理作家.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。ミドルネームは**スタンレー**、**スタンリ**、**スタンレイ**などの表記もある。

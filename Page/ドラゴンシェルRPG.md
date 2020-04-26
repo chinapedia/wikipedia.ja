@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[ドラゴンシェルRPG](https://ja.wikipedia.org/wiki/ドラゴンシェルRPG)から翻訳されています。
 
 
 **ドラゴンシェルRPG**は[伏見健二](../Page/伏見健二.md "wikilink")が製作した[空戦](https://ja.wikipedia.org/wiki/空戦 "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")物の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）。[2006年](../Page/2006年.md "wikilink")に[グランペール](https://ja.wikipedia.org/wiki/グランペール "wikilink")よりボックス版にて発売された。メインイラストレーターは[相沢美良](https://ja.wikipedia.org/wiki/相沢美良 "wikilink")が担当している。

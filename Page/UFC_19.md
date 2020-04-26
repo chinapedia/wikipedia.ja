@@ -14,7 +14,7 @@
     1R 10:01 TKO（レフェリーストップ：カット）
   - 第2試合 ヘビー級 15分1R
     ○  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") vs.  ジェイソン・ゴドシー ×
-    1R 1:46 [膝十字固め](https://ja.wikipedia.org/wiki/膝十字固め "wikilink")
+    1R 1:46 [膝十字固め](../Page/膝十字固め.md "wikilink")
   - 第3試合 ミドル級 15分1R
     ○  [エヴァン・タナー](../Page/エヴァン・タナー.md "wikilink") vs.  ヴァレリ・イグナトフ ×
     1R 2:58 TKO（レフェリーストップ：グラウンドの肘打ち）
@@ -38,8 +38,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-19-Young-Guns)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc19.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc19.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-19-Ultimate-Young-Guns-29)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのミシシッピ州大会](https://ja.wikipedia.org/wiki/Category:UFCのミシシッピ州大会 "wikilink") [Category:1999年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1999年の総合格闘技 "wikilink") [Category:1999年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1999年のアメリカ合衆国のスポーツ "wikilink") [Category:ハンコック郡_(ミシシッピ州)](https://ja.wikipedia.org/wiki/Category:ハンコック郡_\(ミシシッピ州\) "wikilink") [Category:1999年3月](https://ja.wikipedia.org/wiki/Category:1999年3月 "wikilink")

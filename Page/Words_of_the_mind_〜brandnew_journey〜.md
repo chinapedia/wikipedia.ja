@@ -1,4 +1,4 @@
-> この記事は[Words of the mind brandnew journey](https://ja.wikipedia.org/wiki/Words_of_the_mind_brandnew_journey)から翻訳されています。
+> この記事は[Words of the mind 〜brandnew journey〜](https://ja.wikipedia.org/wiki/Words_of_the_mind_〜brandnew_journey〜)から翻訳されています。
 
 
 『**words of the mind 〜brandnew journey〜**』（ワーズオブザマインド〜ブランドニュージャーニー〜）は、[moveの](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -29,4 +29,4 @@
 
   - [「move」のCD EXTRAにワーム混入](https://internet.watch.impress.co.jp/www/article/2000/0119/move.htm)
 
-[Category:m.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:m.o.v.eの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink")
+[Category:m.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:m.o.v.eの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")

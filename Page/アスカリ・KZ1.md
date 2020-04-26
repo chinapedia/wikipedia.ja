@@ -1,4 +1,4 @@
-> この記事は[KZ1](https://ja.wikipedia.org/wiki/KZ1)から翻訳されています。
+> この記事は[アスカリ・KZ1](https://ja.wikipedia.org/wiki/アスカリ・KZ1)から翻訳されています。
 
 
 **アスカリ・KZ1**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー[アスカリ・カーズ](https://ja.wikipedia.org/wiki/アスカリ・カーズ "wikilink")が製造・販売していた[スーパーカー](../Page/スーパーカー.md "wikilink")である。

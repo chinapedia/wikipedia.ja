@@ -1,4 +1,4 @@
-> この記事は[ DRAGON RETRIEVER](https://ja.wikipedia.org/wiki/_DRAGON_RETRIEVER)から翻訳されています。
+> この記事は[西武新宿戦線異状なし DRAGON RETRIEVER](https://ja.wikipedia.org/wiki/西武新宿戦線異状なし_DRAGON_RETRIEVER)から翻訳されています。
 
 
 **『西武新宿戦線異状なし　DRAGON RETRIEVER』**は、[押井守](../Page/押井守.md "wikilink")原作、[大野安之](../Page/大野安之.md "wikilink")（当時おおのやすゆき名義）作画の漫画作品である。

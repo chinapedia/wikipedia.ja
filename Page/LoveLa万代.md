@@ -1,4 +1,4 @@
-> この記事は[LoveLa](https://ja.wikipedia.org/wiki/LoveLa)から翻訳されています。
+> この記事は[LoveLa万代](https://ja.wikipedia.org/wiki/LoveLa万代)から翻訳されています。
 
 
 [Map_of_NiigataBandaiCity.svg](https://ja.wikipedia.org/wiki/File:Map_of_NiigataBandaiCity.svg "fig:Map_of_NiigataBandaiCity.svg")で結ばれている。\]\] **ラブラ万代**（ラブラばんだい、**LoveLa Bandai**）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[万代一丁目の](https://ja.wikipedia.org/wiki/万代_\(新潟市\) "wikilink")[万代シテイ](../Page/万代シテイ.md "wikilink")内の万代シテイビルに所在する、専門店複合型の[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")。

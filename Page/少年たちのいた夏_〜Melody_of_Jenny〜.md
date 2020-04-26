@@ -1,4 +1,4 @@
-> この記事は[ Melody of Jenny](https://ja.wikipedia.org/wiki/_Melody_of_Jenny)から翻訳されています。
+> この記事は[少年たちのいた夏 〜Melody of Jenny〜](https://ja.wikipedia.org/wiki/少年たちのいた夏_〜Melody_of_Jenny〜)から翻訳されています。
 
 
 『**少年たちのいた夏 〜Melody of Jenny〜**』（しょうねんたちのいたなつ メロディオブジェニー）は[北条司](../Page/北条司.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")短編、及びこれを表題作とした短編集。

@@ -1,4 +1,4 @@
-> この記事は[Part2](https://ja.wikipedia.org/wiki/Part2)から翻訳されています。
+> この記事は[プレイバックPart2](https://ja.wikipedia.org/wiki/プレイバックPart2)から翻訳されています。
 
 
 「**プレイバックPart2**」（プレイバック パート・ツー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")5月にリリースされた[山口百恵](../Page/山口百恵.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")である。「[赤い衝撃](../Page/赤い衝撃_\(曲\).md "wikilink")」以来となる50万枚以上のセールスを記録。
@@ -128,7 +128,7 @@
 ## 外部リンク
 
   -
-[Category:山口百恵の楽曲](https://ja.wikipedia.org/wiki/Category:山口百恵の楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:阿木燿子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿木燿子が制作した楽曲 "wikilink") [Category:宇崎竜童が制作した楽曲](https://ja.wikipedia.org/wiki/Category:宇崎竜童が制作した楽曲 "wikilink") [Category:自動車を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:自動車を題材とした楽曲 "wikilink") [Category:プレオのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:プレオのコマーシャルソング "wikilink") [Category:ハ短調](https://ja.wikipedia.org/wiki/Category:ハ短調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:山口百恵の楽曲](https://ja.wikipedia.org/wiki/Category:山口百恵の楽曲 "wikilink") [Category:1978年のシングル](https://ja.wikipedia.org/wiki/Category:1978年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:阿木燿子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:阿木燿子が制作した楽曲 "wikilink") [Category:宇崎竜童が制作した楽曲](https://ja.wikipedia.org/wiki/Category:宇崎竜童が制作した楽曲 "wikilink") [Category:自動車を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:自動車を題材とした楽曲 "wikilink") [Category:プレオのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:プレオのコマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.  川瀬泰雄『プレイバック　制作ディレクター回想記〜音楽「山口百恵」全軌跡〜』学研、2011年2月25日初版／ISBN 978-4-05-404725-9
 2.  『[NHK花のステージ](../Page/花のステージ.md "wikilink")』1978年5月25日放送回（2015年6月現在NHKの番組公開ライブラリーで視聴可能）など。

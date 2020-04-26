@@ -1,4 +1,4 @@
-> この記事は[LOVE LETTER](https://ja.wikipedia.org/wiki/LOVE_LETTER)から翻訳されています。
+> この記事は[雪にかいたLOVE LETTER](https://ja.wikipedia.org/wiki/雪にかいたLOVE_LETTER)から翻訳されています。
 
 
 「**雪にかいたLOVE LETTER**」（ゆきにかいたラヴレター）は、[菊池桃子](../Page/菊池桃子.md "wikilink")の3枚目のシングルである。

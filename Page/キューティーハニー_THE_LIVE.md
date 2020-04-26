@@ -1,4 +1,4 @@
-> この記事は[ THE LIVE](https://ja.wikipedia.org/wiki/_THE_LIVE)から翻訳されています。
+> この記事は[キューティーハニー THE LIVE](https://ja.wikipedia.org/wiki/キューティーハニー_THE_LIVE)から翻訳されています。
 
 
 『**キューティーハニー THE LIVE**』（キューティーハニー ザ ライブ）は、[2007年](../Page/2007年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された、[特撮](../Page/特撮.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。全25話（DVDでは全26話）。[永井豪](../Page/永井豪.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品『[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")』の実写ドラマ版リメイクである。

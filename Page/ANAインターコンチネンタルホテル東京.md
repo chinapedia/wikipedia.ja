@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAインターコンチネンタルホテル東京](https://ja.wikipedia.org/wiki/ANAインターコンチネンタルホテル東京)から翻訳されています。
 
 
 **ANAインターコンチネンタルホテル東京**（エイ・エヌ・エイインターコンチネンタルホテルとうきょう、ANA InterContinental Tokyo）は、東京・[赤坂の](../Page/赤坂_\(東京都港区\).md "wikilink")[アークヒルズ](../Page/アークヒルズ.md "wikilink")にある高級[ホテル](../Page/ホテル.md "wikilink")である。運営は[IHG・ANA・ホテルズグループジャパン](../Page/IHG・ANA・ホテルズグループジャパン.md "wikilink")。

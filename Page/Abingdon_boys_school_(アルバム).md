@@ -1,4 +1,4 @@
-> この記事は[Abingdon boys school \(\)](https://ja.wikipedia.org/wiki/Abingdon_boys_school_\(\))から翻訳されています。
+> この記事は[Abingdon boys school \(アルバム\)](https://ja.wikipedia.org/wiki/Abingdon_boys_school_\(アルバム\))から翻訳されています。
 
 
 『**abingdon boys school**』（アビングドンボーイズスクール）は、ロックバンドの[abingdon boys schoolの](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")1作目のアルバム。[2007年](../Page/2007年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売された。

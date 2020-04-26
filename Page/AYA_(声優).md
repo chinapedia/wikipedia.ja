@@ -1,4 +1,4 @@
-> この記事は[AYA \(\)](https://ja.wikipedia.org/wiki/AYA_\(\))から翻訳されています。
+> この記事は[AYA \(声優\)](https://ja.wikipedia.org/wiki/AYA_\(声優\))から翻訳されています。
 
 
 **AYA**（あや、 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[声優](../Page/声優.md "wikilink")。主に[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")に声をあてている。

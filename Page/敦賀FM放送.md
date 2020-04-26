@@ -52,8 +52,8 @@
 ## 外部リンク
 
   - [HARBOR STATION - 敦賀FM放送](http://www.harbor779.com/)
-  - [コミュニティ放送局に予備免許 〜福井県嶺南で初めてのコミュニティ放送局〜](http://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokuriku-bt.go.jp/press/2006/pre070227-2.html) [北陸総合通信局](../Page/北陸総合通信局.md "wikilink") 報道資料 平成19年2月27日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2007年8月8日収集）
-  - [コミュニティ放送局（ＦＭ放送局）に免許 〜 福井県嶺南で初めてのコミュニティ放送局 〜](http://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokuriku-bt.go.jp/press/2006/pre070330-3.html) 同上 平成19年3月30日（同上）
+  - [コミュニティ放送局に予備免許 〜福井県嶺南で初めてのコミュニティ放送局〜](https://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokuriku-bt.go.jp/press/2006/pre070227-2.html) [北陸総合通信局](../Page/北陸総合通信局.md "wikilink") 報道資料 平成19年2月27日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2007年8月8日収集）
+  - [コミュニティ放送局（ＦＭ放送局）に免許 〜 福井県嶺南で初めてのコミュニティ放送局 〜](https://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokuriku-bt.go.jp/press/2006/pre070330-3.html) 同上 平成19年3月30日（同上）
 
 [Category:東海・北陸地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のコミュニティ放送局 "wikilink") [Category:福井県のマスメディア](https://ja.wikipedia.org/wiki/Category:福井県のマスメディア "wikilink") [Category:敦賀市の企業](https://ja.wikipedia.org/wiki/Category:敦賀市の企業 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink")
 

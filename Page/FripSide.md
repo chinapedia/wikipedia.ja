@@ -182,7 +182,15 @@ fripSide NAO project\!
 
 第2期fripSide
 
-### ライブ会場限定販売CD
+### コラボシングル
+
+|       | 発売日         | タイトル                                                                                | 規格品番       | オリコン      |
+| ----- | ----------- | ----------------------------------------------------------------------------------- | ---------- | --------- |
+| 初回限定盤 | 通常盤         |                                                                                     |            |           |
+| 1st   | 2016年10月19日 | **[僕は僕であって](https://ja.wikipedia.org/wiki/僕は僕であって "wikilink")**                     | KICM-91710 | KICM-1711 |
+| 2nd   | 2016年12月7日  | **[The end of escape](https://ja.wikipedia.org/wiki/The_end_of_escape "wikilink")** | GNCA-0461  | GNCA-0462 |
+
+### ライブ会場限定販売PLAYBUTTON
 
 <table>
 <caption>第2期fripSide</caption>
@@ -201,7 +209,7 @@ fripSide NAO project\!
 <td><p>1st</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p><strong>fripSide playbutton #001</strong></p></td>
-<td><p>CD</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PLAYBUTTON" title="wikilink">PLAYBUTTON</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:left;">
 </div>
@@ -492,7 +500,7 @@ fripSide NAO project\!
 | 2019年                                                                                                           | BLACKFOX                                                                                                                                                                                                                                                                    | [東映ビデオ](../Page/東映ビデオ.md "wikilink")配給アニメーション映画『[BLACKFOX](https://ja.wikipedia.org/wiki/BLACKFOX "wikilink")』主題歌                                                                                                                                                                           |
 | [perpetual wishes](https://ja.wikipedia.org/wiki/infinite_synthesis_5 "wikilink")                               | Android/iOS専用中華人民共和国向け携帯電話ゲーム『ラグナロクM：永遠の愛』主題歌                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                             |
 | [lighting of my heart](https://ja.wikipedia.org/wiki/infinite_synthesis_5 "wikilink")                           | Android/iOS専用[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")向け携帯電話ゲーム『封印者M』主題歌                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                             |
-| 2020年                                                                                                           | final phase                                                                                                                                                                                                                                                                 | TOKYO MX系アニメ『とある科学の超電磁砲T』オープニングテーマ                                                                                                                                                                                                                                                          |
+| 2020年                                                                                                           | [final phase](https://ja.wikipedia.org/wiki/final_phase "wikilink")                                                                                                                                                                                                         | TOKYO MX系アニメ『とある科学の超電磁砲T』オープニングテーマ                                                                                                                                                                                                                                                          |
 | rowspan="3"                                                                                                     | floral summer                                                                                                                                                                                                                                                               | Windows10/8/7/Vista専用ゲームソフト『[フローラル・フローラブ](https://ja.wikipedia.org/wiki/フローラル・フローラブ "wikilink")』オープニングテーマ                                                                                                                                                                                   |
 | happy colorful day                                                                                              | WindowsVista SP2/7/8/10専用ゲームソフト『ハナヒメ\*アブソリュート\!』花姫テーマソング                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                             |
 | My Own Way                                                                                                      | ネット配信ドラマ『[BLACKFOX: Age of the Ninja](https://ja.wikipedia.org/wiki/BLACKFOX:_Age_of_the_Ninja "wikilink")』主題歌                                                                                                                                                              |                                                                                                                                                                                                                                                                                             |

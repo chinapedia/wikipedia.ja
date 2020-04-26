@@ -27,12 +27,12 @@
 
 1.  **ダイナマイト**
       -
-        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲・編曲:[小森田実](../Page/小森田実.md "wikilink")
+        作詞：[森浩美](../Page/森浩美.md "wikilink") / 作曲・編曲：[小森田実](../Page/小森田実.md "wikilink")
     <!-- end list -->
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")」テーマソング
+      - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』テーマソング。
 2.  **Fool On The Hill**
       -
-        作詞:相田毅 / 作曲:[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink") / 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+        作詞：相田毅 / 作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink") / 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 3.  ダイナマイト（music track）
 4.  Fool On The Hill（music track）
 

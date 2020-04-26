@@ -685,6 +685,15 @@ ShinyaがDrumsを担当。</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
+<td><p>愛が地球救うんさ!だってでんぱ組.incはファミリーでしょ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a></p></td>
+<td><p>「<strong>レジェンド・オブ・エイ</strong>」にて<br />
+薫がギターソロを担当。</p></td>
+<td><p>2CD</p></td>
+<td><p>TFCC-86709</p></td>
+</tr>
 </tbody>
 </table>
 

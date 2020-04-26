@@ -1,7 +1,7 @@
 > この記事は[ダイハツ・JB型エンジン](https://ja.wikipedia.org/wiki/ダイハツ・JB型エンジン)から翻訳されています。
 
 
-**ダイハツ・JB型エンジン**は、[1994年](../Page/1994年.md "wikilink")（平成6年）から[2012年](../Page/2012年.md "wikilink")（平成24年）まで[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")用[エンジン](../Page/エンジン.md "wikilink")の一つである。
+**ダイハツ・JB型エンジン**は、[1994年](../Page/1994年.md "wikilink")（平成6年）から[2012年](../Page/2012年.md "wikilink")（平成24年）まで[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")用[エンジン](../Page/エンジン.md "wikilink")の一つである。通称・[森口エンジン](../Page/森口博子.md "wikilink")\[1\]。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 このJB（-JL）型をベースに、排気量を713ccに拡大したのが[ストーリアX4に搭載された](https://ja.wikipedia.org/wiki/ダイハツ・ストーリア#ストーリアX4 "wikilink")[JC-DET型である](https://ja.wikipedia.org/wiki/ダイハツ・JC型エンジン "wikilink")。このことからも解るように[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")ベースとしての潜在能力も高く、純正搭載車種はもちろん、本来搭載されていない車種（特に車体が軽いミラの[バン仕様](../Page/軽ボンネットバン.md "wikilink")）にチューンを施したJB型を[スワップしたマシンも存在する](https://ja.wikipedia.org/wiki/エンジンスワップ "wikilink")。
 
-[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")を以って初代[コペンの生産終了と共にJB型エンジンも生産終了となった](../Page/ダイハツ・コペン.md "wikilink")。ダイハツは今後軽自動車用エンジンを3気筒に一本化（2014年7月現在の時点において、[EF-VE型](https://ja.wikipedia.org/wiki/ダイハツ・EF型エンジン#EF-VE "wikilink")\[1\]が存在）することを表明していることもあり、後継となる4気筒エンジンも存在しないと思われる。
+[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")を以って初代[コペンの生産終了と共にJB型エンジンも生産終了となった](../Page/ダイハツ・コペン.md "wikilink")。ダイハツは今後軽自動車用エンジンを3気筒に一本化（2014年7月現在の時点において、[EF-VE型](https://ja.wikipedia.org/wiki/ダイハツ・EF型エンジン#EF-VE "wikilink")\[2\]が存在）することを表明していることもあり、後継となる4気筒エンジンも存在しないと思われる。
 
 車種を現す3桁の形式番号の1の位が「+2」されているかが、搭載車種を見分ける方法である（コペンを除く）。例・L502、L152など
 
@@ -84,4 +84,5 @@ L880用
 
 [Category:ダイハツ工業のエンジン](https://ja.wikipedia.org/wiki/Category:ダイハツ工業のエンジン "wikilink")
 
-1.  2014年7月現在[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")市場専売車種[プロドゥア・ビバ](https://ja.wikipedia.org/wiki/プロドゥア・ビバ "wikilink")用のみ生産。
+1.  L500系[ミラのCMのキャッチコピー](../Page/ダイハツ・ミラ.md "wikilink")。
+2.  2014年7月現在[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")市場専売車種[プロドゥア・ビバ](https://ja.wikipedia.org/wiki/プロドゥア・ビバ "wikilink")用のみ生産。

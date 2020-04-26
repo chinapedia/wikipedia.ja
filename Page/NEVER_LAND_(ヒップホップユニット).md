@@ -153,7 +153,7 @@
 
 ## 外部リンク
 
-  - [TO-C official blog Powered by Ameba](http://ameblo.jp/to-c-blog/)（2009年2月 - 2012年1月）
+  - [TO-C official blog Powered by Ameba](https://ameblo.jp/to-c-blog/)（2009年2月 - 2012年1月）
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")
 

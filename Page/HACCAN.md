@@ -32,7 +32,10 @@
 ### ゲーム
 
   - [虫姫さま ふたり](https://ja.wikipedia.org/wiki/虫姫さま_ふたり "wikilink")（[ケイブ](../Page/ケイブ.md "wikilink")開発 / [エイエムアイ](../Page/エイエムアイ.md "wikilink")発売）
-  - [聖剣伝説-ファイナルファンタジー外伝-（リメイク版）](https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜 "wikilink")（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
+  - 聖剣伝説シリーズ（リメイク版）（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
+      - [聖剣伝説-ファイナルファンタジー外伝-](https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜 "wikilink")
+      - [聖剣伝説2 SECRET of MANA](https://ja.wikipedia.org/wiki/聖剣伝説2_SECRET_of_MANA "wikilink")
+      - [聖剣伝説3 TRIALS of MANA](https://ja.wikipedia.org/wiki/聖剣伝説3_TRIALS_of_MANA "wikilink")
   - [英雄伝説 空の軌跡 the 3rd](../Page/英雄伝説VI_空の軌跡.md "wikilink")（[日本ファルコム](../Page/日本ファルコム.md "wikilink")）
   - [アヴァロンコード](https://ja.wikipedia.org/wiki/アヴァロンコード "wikilink")（[マトリックス開発](../Page/マトリックス_\(ゲーム会社\).md "wikilink") / [マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")発売）
   - [斬撃のREGINLEIV](https://ja.wikipedia.org/wiki/斬撃のREGINLEIV "wikilink")（[サンドロット](../Page/サンドロット.md "wikilink")開発 / [任天堂](../Page/任天堂.md "wikilink")発売）

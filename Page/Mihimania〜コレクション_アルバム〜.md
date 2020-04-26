@@ -21,7 +21,7 @@
       - 作詞：mitsuyuki miyake / 作曲：mitsuyuki miyake
     <!-- end list -->
       -
-        2ndシングル「帰ろう歌」のカップリング曲で、原曲より[キーが](https://ja.wikipedia.org/wiki/調 "wikilink")[半音](../Page/半音.md "wikilink")低い。タイトルはユニット名の候補のひとつだったという。
+        2ndシングル「帰ろう歌」のカップリング曲で、原曲より[キーが](../Page/調.md "wikilink")[半音](../Page/半音.md "wikilink")低い。タイトルはユニット名の候補のひとつだったという。
 3.  **[プライスレス](../Page/ユルメのレイデ.md "wikilink") -TAKE 06-**
       - 作詞：hiroko and mitsuyuki miyake / 作曲：mitsuyuki miyake
     <!-- end list -->

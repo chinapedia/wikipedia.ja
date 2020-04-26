@@ -176,6 +176,7 @@
   - [ロシア](../Page/ロシア.md "wikilink")
       - [アエロフロート](https://ja.wikipedia.org/wiki/アエロフロート "wikilink")
       - （Altay Airlines）
+      - （Aviation Shelf）
       - （Baltiiskie Avialinii）
       - （Barkol）
       - （Kazan Enterprise）

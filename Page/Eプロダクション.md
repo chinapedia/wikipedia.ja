@@ -14,6 +14,6 @@
 
 ## 脚注
 
-[Category:かつて存在した千葉県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した千葉県の企業 "wikilink") [Category:かつて存在した芸能プロダクション](https://ja.wikipedia.org/wiki/Category:かつて存在した芸能プロダクション "wikilink") [Category:浦安市の歴史](https://ja.wikipedia.org/wiki/Category:浦安市の歴史 "wikilink") [Category:オリエンタルランドグループ](https://ja.wikipedia.org/wiki/Category:オリエンタルランドグループ "wikilink") [Category:京成グループの歴史](https://ja.wikipedia.org/wiki/Category:京成グループの歴史 "wikilink")
+[Category:かつて存在した千葉県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した千葉県の企業 "wikilink") [Category:かつて存在した芸能プロダクション](https://ja.wikipedia.org/wiki/Category:かつて存在した芸能プロダクション "wikilink") [Category:浦安市の歴史](https://ja.wikipedia.org/wiki/Category:浦安市の歴史 "wikilink") [Category:オリエンタルランドグループ](https://ja.wikipedia.org/wiki/Category:オリエンタルランドグループ "wikilink") [Category:京成グループの歴史](https://ja.wikipedia.org/wiki/Category:京成グループの歴史 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:2009年廃止の企業](https://ja.wikipedia.org/wiki/Category:2009年廃止の企業 "wikilink")
 
 1.   - オリエンタルランド

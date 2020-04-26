@@ -51,4 +51,4 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [Yumi Arai The Concert with old Friends](http://yuming.co.jp/discography/visual/visual06/)
 
-[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:1996年のコンサート](https://ja.wikipedia.org/wiki/Category:1996年のコンサート "wikilink") [Category:1996年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1996年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:1996年のコンサート](https://ja.wikipedia.org/wiki/Category:1996年のコンサート "wikilink") [Category:1996年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1996年のライブ・ビデオ "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

@@ -5,9 +5,9 @@
 
 ## 解説
 
-  - コンサートツアー『[YUMING SPECTACLE SHANGRILA 1999](../Page/YUMING_SPECTACLE_SHANGRILA.md "wikilink")』の映像や裏側などを収録したライブ・ビデオ。
+  - コンサートツアー『[YUMING SPECTACLE SHANGRILA 1999](../Page/YUMING_SPECTACLE_SHANGRILA.md "wikilink")』の映像や裏側などを収録したライブ・ビデオ。1999年版にはビデオCDも付属する。
   - コンサートでは「[スラバヤ通りの妹へ](../Page/水の中のASIAへ.md "wikilink")」「[BABYLON](../Page/DA・DI・DA.md "wikilink")」「[真珠のピアス](../Page/PEARL_PIERCE.md "wikilink")」「[VOYAGER〜日付のない墓標](../Page/VOYAGER〜日付のない墓標.md "wikilink")」「[オールマイティー](../Page/REINCARNATION_\(松任谷由実のアルバム\).md "wikilink")」も演奏されたが、未収録となっている。
-  - 事前の打ち合わせやリハーサルの段階では、「[Glory Birdland](../Page/天国のドア.md "wikilink")」「[青い船で](../Page/VOYAGER_\(松任谷由実のアルバム\).md "wikilink")」「[チャイニーズ・スープ](../Page/COBALT_HOUR.md "wikilink")」「[ジェラシーと云う名の悪魔](https://ja.wikipedia.org/wiki/ALARM_à_la_mode "wikilink")」などの楽曲も候補となっていたが、演奏は見送られた。
+  - 事前の打ち合わせやリハーサルの段階では、「[Glory Birdland](../Page/天国のドア.md "wikilink")」「[青い船で](../Page/VOYAGER_\(松任谷由実のアルバム\).md "wikilink")」「[チャイニーズ・スープ](../Page/COBALT_HOUR.md "wikilink")」「[ジェラシーと云う名の悪夢](https://ja.wikipedia.org/wiki/ALARM_à_la_mode "wikilink")」などの楽曲も候補となっていたが、演奏は見送られた。
   - DVD5.1chサラウンド音声版には「[Rāga\#3](../Page/Frozen_Roses.md "wikilink")」のプロモーションビデオを追加収録。
 
 ## 収録曲
@@ -45,4 +45,4 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [YUMING SPECTACLE SHANGRILA 1999](http://yuming.co.jp/discography/visual/visual07/)
 
-[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:1999年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1999年のライブ・ビデオ "wikilink")
+[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:1999年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1999年のライブ・ビデオ "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink")

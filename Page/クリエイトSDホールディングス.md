@@ -1,7 +1,7 @@
 > この記事は[クリエイトSDホールディングス](https://ja.wikipedia.org/wiki/クリエイトSDホールディングス)から翻訳されています。
 
 
-**株式会社クリエイトSDホールディングス**（クリエイトエスディーホールディングス、）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")に所在する[持株会社](../Page/持株会社.md "wikilink")である。事業会社は[ドラッグストア](../Page/ドラッグストア.md "wikilink")（薬店）・調剤薬局を運営する**株式会社クリエイトエス・ディー**()など4社である。
+**株式会社クリエイトSDホールディングス**（クリエイトエスディーホールディングス、）は、[東京都](../Page/東京都.md "wikilink")・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[静岡県](../Page/静岡県.md "wikilink")など[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")を中心に展開する[持株会社](../Page/持株会社.md "wikilink")である。事業会社は[ドラッグストア](../Page/ドラッグストア.md "wikilink")（薬店）・調剤薬局を運営する**株式会社クリエイトエス・ディー**()など4社である。
 
 社名のSDは、[Super DrugStoreの頭文字に由来する](https://ja.wikipedia.org/wiki/ドラッグストア#医薬品販売の業態分類 "wikilink")。
 
@@ -27,6 +27,17 @@
   - 現在646店舗（うちFC店 2店舗、調剤併設 109店舗）（2019年5月末現在）
   - 単独調剤薬局30店舗
   - 2019年現在、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")を除く全ての[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")の都県と[静岡県](../Page/静岡県.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")に出店している。
+
+<!-- end list -->
+
+1.  神奈川県 351店舗
+2.  東京都 100店舗
+3.  静岡県 87店舗
+4.  千葉県 43店舗
+5.  愛知県 16店舗
+6.  埼玉県 15店舗
+7.  茨城県 6店舗
+8.  群馬県 5店舗
 
 ファイル:CREATE SDS Nerima-sekimachi-minami.jpg|練馬[関町南](../Page/関町南.md "wikilink")店（175号店、[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")）
 

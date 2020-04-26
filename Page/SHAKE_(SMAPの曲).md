@@ -13,7 +13,7 @@
   - 高校野球での応援曲としても使用されており、主に[大阪桐蔭高等学校の吹奏楽部が使用している](../Page/大阪桐蔭中学校・高等学校.md "wikilink")。
   - 「[ジャニーズカウントダウンライブ](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ "wikilink")2011-2012」では、本曲を[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")が歌唱した。
   - 歌詞に用いられている「チョー ベリ ベリ」とは、当時流行した[ギャル語](../Page/ギャル語.md "wikilink")の「[チョベリバ](https://ja.wikipedia.org/wiki/チョベリバ "wikilink")・チョベリグ」からきている\[3\]。
-  - SMAP解散後、[2020年](../Page/2020年.md "wikilink")にソロ歌手デビューした木村が同年2月8日に行われたライブツアー『[TAKUYA　KIMURA　Live Tоur 2020 Gо with the　Flоw](https://ja.wikipedia.org/wiki/TAKUYA_KIMURA_Live_Tоur_2020_Gо_with_the_Flоw "wikilink")』にて、『[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")』とともに、同曲を披露した<ref>
+  - SMAP解散後、[2020年](../Page/2020年.md "wikilink")にソロ歌手デビューした木村が同年2月8日に行われたライブツアー「[TAKUYA KIMURA Live Tоur 2020 Gо with the Flоw](https://ja.wikipedia.org/wiki/TAKUYA_KIMURA_Live_Tоur_2020_Gо_with_the_Flоw "wikilink")」にて、「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」とともに、同曲を披露した<ref>
 
 [木村拓哉がソロライブでSMAP曲を熱唱も、『新しい地図』が歌わないのはナゼ？](https://www.msn.com/ja-jp/entertainment/celebrity/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E3%81%8C%E3%82%BD%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A7smap%E6%9B%B2%E3%82%92%E7%86%B1%E5%94%B1%E3%82%82%E3%80%81%E3%80%8E%E6%96%B0%E3%81%97%E3%81%84%E5%9C%B0%E5%9B%B3%E3%80%8F%E3%81%8C%E6%AD%8C%E3%82%8F%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%83%8A%E3%82%BC%EF%BC%9F/ar-BB105Tp8) 週刊女性PRIME 2020年2月18日</ref>。
 
@@ -27,13 +27,13 @@
 
 1.  **SHAKE**
       -
-        作詞:[森浩美](../Page/森浩美.md "wikilink") / 作曲:[小森田実](../Page/小森田実.md "wikilink") / 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+        作詞：[森浩美](../Page/森浩美.md "wikilink") / 作曲：[小森田実](../Page/小森田実.md "wikilink") / 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")」テーマソング
-      - SMAP出演 [NTT東日本](https://ja.wikipedia.org/wiki/NTT東日本 "wikilink") CMソング
+      - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』テーマソング。
+      - SMAP出演 [NTT東日本](https://ja.wikipedia.org/wiki/NTT東日本 "wikilink") CMソング。
 2.  **黙って俺について来い**
       -
-        作詞:小倉めぐみ / 作曲:[Jimmy Johnson](../Page/馬飼野康二.md "wikilink") / 編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink") / コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")
+        作詞：小倉めぐみ / 作曲：[Jimmy Johnson](../Page/馬飼野康二.md "wikilink") / 編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink") / コーラスアレンジ：[松下誠](../Page/松下誠.md "wikilink")
 3.  SHAKE（music track）
 4.  黙って俺について来い（music track）
 
@@ -141,7 +141,7 @@
 
   - [SHAKE - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VIDL-10820.html)
 
-[Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:森浩美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森浩美が制作した楽曲 "wikilink") [Category:小森田実が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小森田実が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink")
+[Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:森浩美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森浩美が制作した楽曲 "wikilink") [Category:小森田実が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小森田実が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  [糸井ＳＭＡＰ存続に「ヨッピハッピシェイクやね」](http://www.nikkansports.com/m/baseball/news/1597618_m.html)
 2.  [オリ・糸井、SMAP存続に超ゴキゲン！「ヨッピハッピシェイクやね」](http://www.sanspo.com/smp/baseball/news/20160128/buf16012805010002-s.html)

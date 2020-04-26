@@ -1,4 +1,4 @@
-> この記事は[There will be love there --](https://ja.wikipedia.org/wiki/There_will_be_love_there_--)から翻訳されています。
+> この記事は[There will be love there -愛のある場所-](https://ja.wikipedia.org/wiki/There_will_be_love_there_-愛のある場所-)から翻訳されています。
 
 
 「**There will be love there -愛のある場所-**」（ゼア・ウィル・ビー・ラヴ・ゼア あいのあるばしょ）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月13日](../Page/5月13日.md "wikilink")に発売された[the brilliant greenの](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。発売元は、[ソニーレコード](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

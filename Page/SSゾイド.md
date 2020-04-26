@@ -1,4 +1,4 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[SSゾイド](https://ja.wikipedia.org/wiki/SSゾイド)から翻訳されています。
 
 
 **SSゾイド**（エスエスゾイド）は、[タカラトミー](../Page/タカラトミー.md "wikilink")（旧[トミー](../Page/トミー_\(企業\).md "wikilink")）より発売されている『[ゾイド](../Page/ゾイド.md "wikilink")』シリーズに登場する架空の兵器。[2001年](../Page/2001年.md "wikilink")より商品ラインナップに登場した、可動部を多く設けられた小型の無動力キットを指す。

@@ -1,4 +1,4 @@
-> この記事は[ EP](https://ja.wikipedia.org/wiki/_EP)から翻訳されています。
+> この記事は[ザ・クリーピー EP](https://ja.wikipedia.org/wiki/ザ・クリーピー_EP)から翻訳されています。
 
 
 **ザ・クリーピー EP**（**The Creepy EP**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[クリスチャン・ロック](../Page/クリスチャン・ロック.md "wikilink")、[リライアントK](../Page/リライアントK.md "wikilink")による[2001年](../Page/2001年.md "wikilink")のコンパクト盤。アメリカ合衆国では2001年8月28日。

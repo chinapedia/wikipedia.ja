@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKアジア・フィルム・フェスティバル](https://ja.wikipedia.org/wiki/NHKアジア・フィルム・フェスティバル)から翻訳されています。
 
 
 **NHKアジア・フィルム・フェスティバル**は、[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アジア](../Page/アジア.md "wikilink")各国と映画を共同制作するプロジェクト、及びそれらの作品を上映する[映画祭](../Page/映画祭.md "wikilink")。現在までに19ヶ国で28の作品がNHKとの共同制作により作られている。

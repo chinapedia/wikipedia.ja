@@ -1,4 +1,4 @@
-> この記事は[Rx4](https://ja.wikipedia.org/wiki/Rx4)から翻訳されています。
+> この記事は[ベレッタRx4](https://ja.wikipedia.org/wiki/ベレッタRx4)から翻訳されています。
 
 
 **Rx4 Storm**は、[イタリア](../Page/イタリア.md "wikilink")の[ベレッタ社により開発された](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")[自動小銃](../Page/自動小銃.md "wikilink")である。

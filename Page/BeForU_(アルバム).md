@@ -1,4 +1,4 @@
-> この記事は[BeForU \(\)](https://ja.wikipedia.org/wiki/BeForU_\(\))から翻訳されています。
+> この記事は[BeForU \(アルバム\)](https://ja.wikipedia.org/wiki/BeForU_\(アルバム\))から翻訳されています。
 
 
 『**BeForU**』（ビーフォーユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手グループ[BeForU](../Page/BeForU.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")である。2003年11月28日発売。

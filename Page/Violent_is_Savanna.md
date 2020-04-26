@@ -148,7 +148,7 @@
   - [Violent is Savanna.jp](http://v-i-s.jp/)
 
   -
-  - [Violent is Savanna Blog(公式ブログ)](http://ameblo.jp/violent-is-savanna-blog/)
+  - [Violent is Savanna Blog(公式ブログ)](https://ameblo.jp/violent-is-savanna-blog/)
 
   - [AIR-G'](http://www.air-g.co.jp/vis/)
 

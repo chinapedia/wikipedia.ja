@@ -1,4 +1,4 @@
-> この記事は[GoodDay!](https://ja.wikipedia.org/wiki/GoodDay!)から翻訳されています。
+> この記事は[上柳昌彦のお早うGoodDay!](https://ja.wikipedia.org/wiki/上柳昌彦のお早うGoodDay!)から翻訳されています。
 
 
 **上柳昌彦のお早うGoodDay\!**（うえやなぎまさひこのおはようグッデイ\!）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で2007年10月1日から2010年6月25日に放送されていた、[平日朝の情報番組である](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。通称「**グッデイ\!**」

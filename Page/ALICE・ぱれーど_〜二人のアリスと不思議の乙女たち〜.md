@@ -1,4 +1,4 @@
-> この記事は[ALICE ](https://ja.wikipedia.org/wiki/ALICE_)から翻訳されています。
+> この記事は[ALICE・ぱれーど 〜二人のアリスと不思議の乙女たち〜](https://ja.wikipedia.org/wiki/ALICE・ぱれーど_〜二人のアリスと不思議の乙女たち〜)から翻訳されています。
 
 
 『**ALICE♥ぱれーど 〜二人のアリスと不思議の乙女たち〜**』（アリスぱれーど ふたりのアリスとふしぎのおとめたち）は、[2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")に[ユニゾンシフト・ブロッサムより初回限定版が発売された](https://ja.wikipedia.org/wiki/ソフパル#ユニゾンシフト・ブロッサム "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。同年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には通常版が発売された。

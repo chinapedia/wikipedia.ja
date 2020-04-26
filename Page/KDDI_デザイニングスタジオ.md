@@ -1,4 +1,4 @@
-> この記事は[KDDI ](https://ja.wikipedia.org/wiki/KDDI_)から翻訳されています。
+> この記事は[KDDI デザイニングスタジオ](https://ja.wikipedia.org/wiki/KDDI_デザイニングスタジオ)から翻訳されています。
 
 
 **KDDI デザイニングスタジオ**（ケイディーディーアイ デザイニングスタジオ、*KDDI Designing Studio*）は、かつて[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")にあった、[KDDI](../Page/KDDI.md "wikilink")の[ショールーム](https://ja.wikipedia.org/wiki/ショールーム "wikilink")・PR施設。

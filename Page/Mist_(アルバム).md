@@ -1,4 +1,4 @@
-> この記事は[Mist \(\)](https://ja.wikipedia.org/wiki/Mist_\(\))から翻訳されています。
+> この記事は[Mist \(アルバム\)](https://ja.wikipedia.org/wiki/Mist_\(アルバム\))から翻訳されています。
 
 
 『**Mist**』（ミスト）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[さだまさし](../Page/さだまさし.md "wikilink")の[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")発表のソロ33枚目のオリジナル・アルバムである。同年9月から翌年までの、さだまさしコンサートツアーにも同じタイトルが用いられた。

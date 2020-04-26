@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ウニオン・サンジョアンEC](https://ja.wikipedia.org/wiki/ウニオン・サンジョアンEC)から翻訳されています。
 
 
 **ウニオン・サンジョアンEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")・[アララスに本拠地を置く](https://ja.wikipedia.org/wiki/アララス_\(サンパウロ\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2013シーズンは[サンパウロ州選手権セリエA](../Page/カンピオナート・パウリスタ.md "wikilink")3（3部に相当）に所属。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCモスクワ](https://ja.wikipedia.org/wiki/FCモスクワ)から翻訳されています。
 
 
 **FCモスクワ**（****）は、かつて存在した[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠とするサッカークラブである。[ロシア・プレミアリーグ最高成績は](../Page/ロシアサッカー・プレミアリーグ.md "wikilink")、2007年シーズンの4位。

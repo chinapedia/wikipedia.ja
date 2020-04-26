@@ -1,4 +1,4 @@
-> この記事は[ON AND ON \(\)](https://ja.wikipedia.org/wiki/ON_AND_ON_\(\))から翻訳されています。
+> この記事は[ON AND ON \(福山雅治のアルバム\)](https://ja.wikipedia.org/wiki/ON_AND_ON_\(福山雅治のアルバム\))から翻訳されています。
 
 
 『**ON AND ON**』（オン・アンド・オン）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")が[1994年](../Page/1994年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にリリースした6枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。また、同アルバム1曲目に収録された楽曲である。

@@ -1,4 +1,4 @@
-> この記事は[ I carry a ticket of eternity](https://ja.wikipedia.org/wiki/_I_carry_a_ticket_of_eternity)から翻訳されています。
+> この記事は[銀河鉄道の夜 I carry a ticket of eternity](https://ja.wikipedia.org/wiki/銀河鉄道の夜_I_carry_a_ticket_of_eternity)から翻訳されています。
 
 
 『**銀河鉄道の夜 I carry a ticket of eternity**』（ぎんがてつどうのよる アイ・キャリー・ア・チケット・オブ・エタニティ）は、[宮沢賢治](../Page/宮沢賢治.md "wikilink")の小説『[銀河鉄道の夜](../Page/銀河鉄道の夜.md "wikilink")』を原作とした、[2006年](../Page/2006年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。

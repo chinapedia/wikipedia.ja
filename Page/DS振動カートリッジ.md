@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[DS振動カートリッジ](https://ja.wikipedia.org/wiki/DS振動カートリッジ)から翻訳されています。
 
 
 **DS振動カートリッジ**（DSしんどうカートリッジ）とは、[任天堂](../Page/任天堂.md "wikilink")から販売されている、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")に[振動](../Page/振動.md "wikilink")機能を付加する[周辺機器](../Page/周辺機器.md "wikilink")。DSの[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用スロットに差し込んで使用する。なお、[ニンテンドーDSi LL](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")、ニンテンドーDSi、[ニンテンドー3DS LL](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、ニンテンドー3DS、[ニンテンドー2DS](https://ja.wikipedia.org/wiki/ニンテンドー2DS "wikilink")、[Newニンテンドー3DS LL](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")、Newニンテンドー3DS、[Newニンテンドー2DS LLではGBA用スロットが搭載されていないため使用できない](https://ja.wikipedia.org/wiki/Newニンテンドー2DS_LL "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(ASIAN KUNG-FU GENERATION\)](https://ja.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION\))から翻訳されています。
+> この記事は[アフターダーク \(ASIAN KUNG-FU GENERATIONの曲\)](https://ja.wikipedia.org/wiki/アフターダーク_\(ASIAN_KUNG-FU_GENERATIONの曲\))から翻訳されています。
 
 
 「**アフターダーク**」は、[ASIAN KUNG-FU GENERATIONの楽曲](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")。同グループメジャー10枚目の[シングル](../Page/シングル.md "wikilink")として[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に[Ki/oon Recordsから発売された](../Page/キューンミュージック.md "wikilink")。

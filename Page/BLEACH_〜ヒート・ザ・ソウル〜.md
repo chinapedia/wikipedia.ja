@@ -1,4 +1,4 @@
-> この記事は[BLEACH ](https://ja.wikipedia.org/wiki/BLEACH_)から翻訳されています。
+> この記事は[BLEACH 〜ヒート・ザ・ソウル〜](https://ja.wikipedia.org/wiki/BLEACH_〜ヒート・ザ・ソウル〜)から翻訳されています。
 
 
 **BLEACH 〜ヒート・ザ・ソウル〜**（ブリーチ 〜ヒート・ザ・ソウル〜）とは、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が発売した[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のシリーズ。

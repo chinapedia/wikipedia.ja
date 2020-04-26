@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[最後のKiss](https://ja.wikipedia.org/wiki/最後のKiss)から翻訳されています。
 
 
 「**最後のKiss**」（さいごのキッス）は、[Kiroro](../Page/Kiroro.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。

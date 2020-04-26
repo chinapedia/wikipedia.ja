@@ -1,4 +1,4 @@
-> この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
+> この記事は[UCIプロ・チーム](https://ja.wikipedia.org/wiki/UCIプロ・チーム)から翻訳されています。
 
 
 **UCIプロチーム**(UCI ProTeam)とは、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink") (UCI) による[自転車ロードレースチームの格付けの一つで](../Page/ロードレース_\(自転車競技\).md "wikilink")、トップカテゴリーである[UCIワールドチーム](https://ja.wikipedia.org/wiki/UCIワールドチーム "wikilink")の下に位置づけられるカテゴリーである。2019年までの名称は**UCIプロフェッショナルコンチネンタルチーム** (UCI Professional Continental Teams)で、日本では**プロコンチネンタルチーム**、**プロコン（チ）**などとも呼ばれた。2005年から2014年までのトップカテゴリーである「UCIプロチーム（現[UCIワールドチーム](https://ja.wikipedia.org/wiki/UCIワールドチーム "wikilink")）」とは異なる。

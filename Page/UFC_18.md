@@ -42,8 +42,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-18-Road-To-The-Heavyweight-Title)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc18.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc18.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-18-Road-to-the-Heavyweight-Title-28)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのルイジアナ州大会](https://ja.wikipedia.org/wiki/Category:UFCのルイジアナ州大会 "wikilink") [Category:1999年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1999年の総合格闘技 "wikilink") [Category:1999年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1999年のアメリカ合衆国のスポーツ "wikilink") [Category:ニューオーリンズのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ニューオーリンズのスポーツ競技大会 "wikilink") [Category:1999年1月](https://ja.wikipedia.org/wiki/Category:1999年1月 "wikilink")

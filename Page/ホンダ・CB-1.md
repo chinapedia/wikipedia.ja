@@ -1,4 +1,4 @@
-> この記事は[CB-1](https://ja.wikipedia.org/wiki/CB-1)から翻訳されています。
+> この記事は[ホンダ・CB-1](https://ja.wikipedia.org/wiki/ホンダ・CB-1)から翻訳されています。
 
 
 **CB-1**（シービーワン）とは、かつて[本田技研工業](../Page/本田技研工業.md "wikilink")が発売していた400[cc](https://ja.wikipedia.org/wiki/立方メートル#分量・倍量単位 "wikilink")[ネイキッドタイプの](../Page/ネイキッド_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

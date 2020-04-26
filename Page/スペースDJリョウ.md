@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[スペースDJリョウ](https://ja.wikipedia.org/wiki/スペースDJリョウ)から翻訳されています。
 
 
 **スペースDJリョウ（Space DJ Ryo）**（[1963年](../Page/1963年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ）は日本の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ハウス](../Page/ハウス_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[レイヴ音楽バンド](../Page/レイブ_\(音楽\).md "wikilink")、[ファー・イースト・アシッド・ハウス・クワルテットの元](../Page/ファー・イースト・アシッド・ハウス・クワルテット、もしくはLSD解放同盟.md "wikilink")・メンバー。[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")にかけて活動していたが、現在は音楽活動は引退している。

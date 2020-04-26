@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[宝島Z バルバロスの秘宝](https://ja.wikipedia.org/wiki/宝島Z_バルバロスの秘宝)から翻訳されています。
 
 
 『**宝島Z バルバロスの秘宝**』（たからじまゼット バルバロスのひほう、*Zack & Wiki: Quest for Barbaros' Treasure*）は、[2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にて発売された新感覚思考アドベンチャーゲーム。[カプコン](../Page/カプコン.md "wikilink")の[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用オリジナルタイトル第一弾。宣伝キャラクターには[草野仁](https://ja.wikipedia.org/wiki/草野仁 "wikilink")が起用され、草野が出演する[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")が放映された。また海外では米国の大手ゲームサイトの[IGN](http://www.ign.com/)と米国最大の任天堂コミュニティである[Go Nintendo](http://gonintendo.com/)が大々的に宣伝キャンペーンを行なっている。

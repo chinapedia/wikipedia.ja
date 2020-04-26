@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[リモートコントロールダンディSF](https://ja.wikipedia.org/wiki/リモートコントロールダンディSF)から翻訳されています。
 
 
 **リモートコントロールダンディSF**は、[2005年](../Page/2005年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロボット](../Page/ロボット.md "wikilink")操縦[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。

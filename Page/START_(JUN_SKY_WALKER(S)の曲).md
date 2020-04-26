@@ -1,4 +1,4 @@
-> この記事は[START \(JUN SKY WALKER\(S\)\)](https://ja.wikipedia.org/wiki/START_\(JUN_SKY_WALKER\(S\)\))から翻訳されています。
+> この記事は[START \(JUN SKY WALKER\(S\)の曲\)](https://ja.wikipedia.org/wiki/START_\(JUN_SKY_WALKER\(S\)の曲\))から翻訳されています。
 
 
 「**START**」（スタート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロック[バンド](../Page/バンド_\(音楽\).md "wikilink")、[JUN SKY WALKER(S)の](../Page/JUN_SKY_WALKER\(S\).md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。

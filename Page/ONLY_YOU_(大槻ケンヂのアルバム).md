@@ -1,4 +1,4 @@
-> この記事は[ONLY YOU \(\)](https://ja.wikipedia.org/wiki/ONLY_YOU_\(\))から翻訳されています。
+> この記事は[ONLY YOU \(大槻ケンヂのアルバム\)](https://ja.wikipedia.org/wiki/ONLY_YOU_\(大槻ケンヂのアルバム\))から翻訳されています。
 
 
 『**ONLY YOU**』（オンリー・ユー）は[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")である。

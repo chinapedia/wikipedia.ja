@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[スペクターX](https://ja.wikipedia.org/wiki/スペクターX)から翻訳されています。
 
 
 『**スペクターX**』（原題：最佳拍檔之千里救差婆、英題：*Aces go Places 4*、国際題：*Mad Mission 4*）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の[香港映画](../Page/香港映画.md "wikilink")。同時上映『魔界天使』

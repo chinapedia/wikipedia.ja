@@ -1,4 +1,4 @@
-> この記事は[TOMORROW \(\)](https://ja.wikipedia.org/wiki/TOMORROW_\(\))から翻訳されています。
+> この記事は[TOMORROW \(岡本真夜の曲\)](https://ja.wikipedia.org/wiki/TOMORROW_\(岡本真夜の曲\))から翻訳されています。
 
 
 「**TOMORROW**」（トゥモロー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）[5月10日](../Page/5月10日.md "wikilink")に発売された、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[岡本真夜](../Page/岡本真夜.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[Clover \(hiro\)](https://ja.wikipedia.org/wiki/Clover_\(hiro\))から翻訳されています。
+> この記事は[Clover \(hiroの曲\)](https://ja.wikipedia.org/wiki/Clover_\(hiroの曲\))から翻訳されています。
 
 
 **clover**（クローバー）は、[hiroの](../Page/島袋寛子.md "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(Kiroro\)](https://ja.wikipedia.org/wiki/_\(Kiroro\))から翻訳されています。
+> この記事は[未来へ \(Kiroroの曲\)](https://ja.wikipedia.org/wiki/未来へ_\(Kiroroの曲\))から翻訳されています。
 
 
 「**未来へ**」（みらいへ）は、[Kiroro](../Page/Kiroro.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -33,7 +33,7 @@
 
 ## 脚注
 
-[Category:Kiroroの楽曲](https://ja.wikipedia.org/wiki/Category:Kiroroの楽曲 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
+[Category:Kiroroの楽曲](https://ja.wikipedia.org/wiki/Category:Kiroroの楽曲 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
 
 1.  [Kiroro玉城千春　中3で『未来へ』を書いたきっかけ　感動秘話](https://www.excite.co.jp/news/article/Techinsight_20160704_277277/)
 2.

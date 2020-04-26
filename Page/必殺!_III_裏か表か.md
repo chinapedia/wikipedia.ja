@@ -1,4 +1,4 @@
-> この記事は[! III ](https://ja.wikipedia.org/wiki/!_III_)から翻訳されています。
+> この記事は[必殺! III 裏か表か](https://ja.wikipedia.org/wiki/必殺!_III_裏か表か)から翻訳されています。
 
 
 『**必殺\!III 裏か表か**』（ひっさつ\! スリー うらかおもてか）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に公開された[松竹](../Page/松竹.md "wikilink")株式会社・[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・京都映画撮影所（現・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）の制作の映画である。

@@ -1,4 +1,4 @@
-> この記事は[ \(YUKI\)](https://ja.wikipedia.org/wiki/_\(YUKI\))から翻訳されています。
+> この記事は[プリズム \(YUKIの曲\)](https://ja.wikipedia.org/wiki/プリズム_\(YUKIの曲\))から翻訳されています。
 
 
 「**プリズム**」は、[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。

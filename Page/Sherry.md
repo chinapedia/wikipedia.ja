@@ -148,7 +148,7 @@
 
   - [藤賀事務所｜片岡春香プロフィール](http://www.mh-fujiga.com/artist/kataokaharuka.html)
 
-  - [黒木晴香オフィシャルブログ「U\&I」powered by Ameba](http://ameblo.jp/kuroki--haruka/)
+  - [黒木晴香オフィシャルブログ「U\&I」powered by Ameba](https://ameblo.jp/kuroki--haruka/)
 
   -
   -

@@ -1,4 +1,4 @@
-> この記事は[KDS](https://ja.wikipedia.org/wiki/KDS)から翻訳されています。
+> この記事は[ムラテックKDS](https://ja.wikipedia.org/wiki/ムラテックKDS)から翻訳されています。
 
 
 **ムラテックKDS株式会社**（*Muratec-KDS Corporation*）は、建設用資材、[メジャーなどの製造販売をする企業で](../Page/メジャー_\(測定機器\).md "wikilink")、[村田機械](../Page/村田機械.md "wikilink")のグループ会社。

@@ -1,4 +1,4 @@
-> この記事は[ MARGINAL](https://ja.wikipedia.org/wiki/_MARGINAL)から翻訳されています。
+> この記事は[マージ 〜MARGINAL〜](https://ja.wikipedia.org/wiki/マージ_〜MARGINAL〜)から翻訳されています。
 
 
 『**マージ 〜MARGINAL〜**』（マージ マージナル）は、[ACTRESS](../Page/ACTRESS.md "wikilink")のブランドWHITE CLARITYから「洋館ファンタジーメイドADV」として2003年1月23日に発売された18禁[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

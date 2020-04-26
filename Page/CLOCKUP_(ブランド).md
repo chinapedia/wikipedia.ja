@@ -1,4 +1,4 @@
-> この記事は[CLOCKUP \(\)](https://ja.wikipedia.org/wiki/CLOCKUP_\(\))から翻訳されています。
+> この記事は[CLOCKUP \(ブランド\)](https://ja.wikipedia.org/wiki/CLOCKUP_\(ブランド\))から翻訳されています。
 
 
 **CLOCKUP**（**クロックアップ**）は株式会社エンタコンの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド。サブブランドに「[銀時計](https://ja.wikipedia.org/wiki/銀時計_\(ブランド\) "wikilink")」がある。当初は[コンピュータソフトウェア倫理機構](../Page/コンピュータソフトウェア倫理機構.md "wikilink")審査だったが、[2006年](../Page/2006年.md "wikilink")発売の『かけた月は戻らない』以降、[コンテンツ・ソフト協同組合](../Page/コンテンツ・ソフト協同組合.md "wikilink")の審査を受けて発売している。
@@ -75,7 +75,7 @@ CLOCKUPというブランド名は、コンピュータにおける[オーバー
 
   - 2005年2月25日 - [ジオグラマトン](../Page/ジオグラマトン.md "wikilink")
   - 2007年4月27日 - [Zwei Worter](../Page/Zwei_Worter.md "wikilink")
-  - 2010年1月29日 - [ルーンロオド](https://ja.wikipedia.org/wiki/ルーンロオド "wikilink")
+  - 2010年1月29日 - [ルーンロオド](../Page/ルーンロオド.md "wikilink")
 
 ### CLOCKUP team.ANISE
 

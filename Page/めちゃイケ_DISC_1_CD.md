@@ -1,4 +1,4 @@
-> この記事は[ DISC 1 CD](https://ja.wikipedia.org/wiki/_DISC_1_CD)から翻訳されています。
+> この記事は[めちゃイケ DISC 1 CD](https://ja.wikipedia.org/wiki/めちゃイケ_DISC_1_CD)から翻訳されています。
 
 
 「**めちゃイケ DISC 1 CD**」（めちゃイケ ディスク ワン シーディー）は[めちゃ²イケてるッ\!のBGMをまとめた](../Page/めちゃ×2イケてるッ!.md "wikilink")8cm[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")発売。発売元は[Epic/Sony Records](../Page/エピックレコードジャパン.md "wikilink")。

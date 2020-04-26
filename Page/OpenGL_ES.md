@@ -73,7 +73,9 @@ OpenGL ES 3.2は[2015年](../Page/2015年.md "wikilink")[8月10日](../Page/8月
 
 OpenGL ESの代替として推奨されているAPIは[Metalだが](https://ja.wikipedia.org/wiki/Metal_\(API\) "wikilink")、MetalはOpenGL ESよりもハードウェア層に近い下位レベルのAPIであり、基本的に[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")開発向けではなく[ミドルウェア](../Page/ミドルウェア.md "wikilink")開発向けである。Metal APIを利用してOpenGL ESを実現する**MoltenGL**ライブラリが[Brenwill Workshop](http://brenwill.com/)によって開発されている\[11\]。
 
-## 出典
+## 脚注
+
+### 出典
 
 <references/>
 

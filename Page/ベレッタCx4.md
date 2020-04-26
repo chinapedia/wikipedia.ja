@@ -1,7 +1,7 @@
-> この記事は[Cx4](https://ja.wikipedia.org/wiki/Cx4)から翻訳されています。
+> この記事は[ベレッタCx4](https://ja.wikipedia.org/wiki/ベレッタCx4)から翻訳されています。
 
 
-**ベレッタCx4**は、[イタリア](../Page/イタリア.md "wikilink")の[ベレッタ社により](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")、民間市場および[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")向けに開発された[自動小銃](../Page/自動小銃.md "wikilink")である。カテゴリーこそ自動小銃に位置するものの、[実包](../Page/実包.md "wikilink")は[ライフル弾ではなく](../Page/小銃.md "wikilink")[ピストル弾を使用する](../Page/拳銃.md "wikilink")。Stormファミリーで最初に発表された。デザイナーは[ベレッタ9000Sも担当した](https://ja.wikipedia.org/wiki/:en:Beretta_9000 "wikilink")[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")。前述の通り、民間市場および法執行機関向けの銃であるため、フルオート機能は初めから無い(誤射による第三者、[人質](../Page/人質.md "wikilink")および味方の被害を防ぐため、法執行機関は(最近は[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")も)[市街地](../Page/市街地.md "wikilink")でフルオート機能は使わない)。
+**ベレッタCx4**は、[イタリア](../Page/イタリア.md "wikilink")の[ベレッタ社により](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")、民間市場および[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")向けに開発された[自動小銃](../Page/自動小銃.md "wikilink")である。カテゴリーこそ自動小銃に位置するものの、[実包](../Page/実包.md "wikilink")は[ライフル弾ではなく](../Page/小銃.md "wikilink")[ピストル弾を使用する](../Page/拳銃.md "wikilink")。Stormファミリーで最初に発表された。デザイナーは[ベレッタ9000Sも担当した](https://ja.wikipedia.org/wiki/:en:Beretta_9000 "wikilink")[ジョルジェット・ジウジアーロ](../Page/ジョルジェット・ジウジアーロ.md "wikilink")。前述の通り、民間市場および法執行機関向けの銃であるため、フルオート機能は初めから無い(誤射による第三者、[人質](../Page/人質.md "wikilink")および味方の被害を防ぐため、法執行機関は(最近は[軍](https://ja.wikipedia.org/wiki/軍 "wikilink")も)[市街地](../Page/市街地.md "wikilink")でフルオート機能は使わない。
 
 ## 概要
 
@@ -52,9 +52,9 @@ Cx4の「C」は「Caliber（[口径](../Page/口径.md "wikilink")）」（「[
 
       -
         メカニックの武器として「MX4」の名称で登場。近距離火力に優れ低反動、更に装弾数も拡張[マガジンで](../Page/弾倉.md "wikilink")36発と多く、バランスのいい武器。
-        『Rainbow Six Siege』
 
-    　　Year3season2、オペレーションPalaで登場の防衛オペレーター「Alibi」の武器として登場。低反動高レート低ダメージ。
+  - 『[レインボーシックス シージ](https://ja.wikipedia.org/wiki/レインボーシックス_シージ "wikilink")』
+    DLC第9弾「OPERATION PARA BELLUM(オペレーション・パラベラム)」で登場した防衛オペレーター「アリバイ」の武器として登場。低反動高レート低ダメージ。
 
 ## 関連項目
 

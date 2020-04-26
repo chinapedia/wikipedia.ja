@@ -1,4 +1,4 @@
-> この記事は[MEGAROCKS](https://ja.wikipedia.org/wiki/MEGAROCKS)から翻訳されています。
+> この記事は[MEGA☆ROCKS](https://ja.wikipedia.org/wiki/MEGA☆ROCKS)から翻訳されています。
 
 
 **MEGA☆ROCKS**（メガ・ロックス）

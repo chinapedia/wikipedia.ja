@@ -1,4 +1,4 @@
-> この記事は[RUN \(\)](https://ja.wikipedia.org/wiki/RUN_\(\))から翻訳されています。
+> この記事は[RUN \(長渕剛の曲\)](https://ja.wikipedia.org/wiki/RUN_\(長渕剛の曲\))から翻訳されています。
 
 
 「**RUN**」（ラン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である[長渕剛](../Page/長渕剛.md "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[PNC](https://ja.wikipedia.org/wiki/PNC)から翻訳されています。
+> この記事は[PNCアリーナ](https://ja.wikipedia.org/wiki/PNCアリーナ)から翻訳されています。
 
 
 **PNCアリーナ**（PNC Arena）は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")・[ローリーにある屋内競技場](../Page/ローリー_\(ノースカロライナ州\).md "wikilink")。

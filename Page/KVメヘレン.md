@@ -1,4 +1,4 @@
-> この記事は[KV](https://ja.wikipedia.org/wiki/KV)から翻訳されています。
+> この記事は[KVメヘレン](https://ja.wikipedia.org/wiki/KVメヘレン)から翻訳されています。
 
 
 **YRKVメヘレン**（**Yellow Red [Koninklijke](https://ja.wikipedia.org/wiki/コーニンクレッカ "wikilink") Voetbalclub Mechelen**\[1\] ()）は、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[アントウェルペン州](../Page/アントウェルペン州.md "wikilink")[メヘレン](../Page/メヘレン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

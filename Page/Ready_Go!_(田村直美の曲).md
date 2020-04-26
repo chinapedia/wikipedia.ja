@@ -1,4 +1,4 @@
-> この記事は[Ready Go! \(\)](https://ja.wikipedia.org/wiki/Ready_Go!_\(\))から翻訳されています。
+> この記事は[Ready Go! \(田村直美の曲\)](https://ja.wikipedia.org/wiki/Ready_Go!_\(田村直美の曲\))から翻訳されています。
 
 
 「**Ready Go\!**」（レディー・ゴー）は、[田村直美](../Page/田村直美.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[ピカチュウレコード](../Page/ピカチュウレコード.md "wikilink")から発売された。
@@ -103,4 +103,4 @@
 </tbody>
 </table>
 
-[Category:田村直美の楽曲](https://ja.wikipedia.org/wiki/Category:田村直美の楽曲 "wikilink") [Category:田村直美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田村直美が制作した楽曲 "wikilink") [Category:田中宏和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田中宏和が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:メディアファクトリーの楽曲](https://ja.wikipedia.org/wiki/Category:メディアファクトリーの楽曲 "wikilink") [Category:ポケットモンスターのアニメソング](https://ja.wikipedia.org/wiki/Category:ポケットモンスターのアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+[Category:田村直美の楽曲](https://ja.wikipedia.org/wiki/Category:田村直美の楽曲 "wikilink") [Category:田村直美が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田村直美が制作した楽曲 "wikilink") [Category:田中宏和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:田中宏和が制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:メディアファクトリーの楽曲](https://ja.wikipedia.org/wiki/Category:メディアファクトリーの楽曲 "wikilink") [Category:ポケットモンスターのアニメソング](https://ja.wikipedia.org/wiki/Category:ポケットモンスターのアニメソング "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")

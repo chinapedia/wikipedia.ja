@@ -1,4 +1,4 @@
-> この記事は[VENUS \(2007\)](https://ja.wikipedia.org/wiki/VENUS_\(2007\))から翻訳されています。
+> この記事は[VENUS \(2007年結成のアイドルユニット\)](https://ja.wikipedia.org/wiki/VENUS_\(2007年結成のアイドルユニット\))から翻訳されています。
 
 
 **VENUS**（ビーナス）は、2007年に登場したグラビアアイドル女性4人組のユニットである。[@Victor Entertainmentに所属した](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Hurt to Heart](https://ja.wikipedia.org/wiki/Hurt_to_Heart)から翻訳されています。
+> この記事は[Hurt to Heart〜痛みの行方〜](https://ja.wikipedia.org/wiki/Hurt_to_Heart〜痛みの行方〜)から翻訳されています。
 
 
 『**Hurt to Heart〜痛みの行方〜**』（ハート・トゥ・ハート いたみのゆくえ）は、[中山美穂](../Page/中山美穂.md "wikilink")の32枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-251)
@@ -8,6 +8,7 @@
   - 表題作は[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[ひと夏のラブレター](../Page/ひと夏のラブレター.md "wikilink")』主題歌。カップリングは同ドラマ挿入歌。
   - 中山本人によると、発売年の数年前にレコーディングされていたが、当時では大人っぽすぎるという理由からお蔵入りになっていた。この年、ドラマ主題歌のオファーがありレコーディングをし直してのシングル化となった。
   - 中山（個人名義）のシングルとしては、現時点で最後のオリコントップ10入りを果たした楽曲である。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 

@@ -1,4 +1,4 @@
-> この記事は[MIDNIGHT BLUE \(\)](https://ja.wikipedia.org/wiki/MIDNIGHT_BLUE_\(\))から翻訳されています。
+> この記事は[MIDNIGHT BLUE \(林原めぐみの曲\)](https://ja.wikipedia.org/wiki/MIDNIGHT_BLUE_\(林原めぐみの曲\))から翻訳されています。
 
 
 「**MIDNIGHT BLUE**」（ミッドナイト・ブルー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。

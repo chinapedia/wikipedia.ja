@@ -1,4 +1,4 @@
-> この記事は[Dash!!](https://ja.wikipedia.org/wiki/Dash!!)から翻訳されています。
+> この記事は[卓球Dash!!](https://ja.wikipedia.org/wiki/卓球Dash!!)から翻訳されています。
 
 
 『**卓球Dash\!\!**』（ピンポンダッシュ）は、[本田真吾による](https://ja.wikipedia.org/wiki/本田真吾_\(漫画家\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年チャンピオン](../Page/月刊少年チャンピオン.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて[2004年](../Page/2004年.md "wikilink")2月号から[2009年](../Page/2009年.md "wikilink")12月号まで連載された。

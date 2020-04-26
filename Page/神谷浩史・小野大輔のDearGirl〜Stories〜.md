@@ -1,7 +1,7 @@
-> この記事は[DearGirlStories](https://ja.wikipedia.org/wiki/DearGirlStories)から翻訳されています。
+> この記事は[神谷浩史・小野大輔のDearGirl〜Stories〜](https://ja.wikipedia.org/wiki/神谷浩史・小野大輔のDearGirl〜Stories〜)から翻訳されています。
 
 
-**神谷浩史・小野大輔のDearGirl〜Stories〜**（かみやひろし・おのだいすけのディアガールストーリーズ）は、[文化放送](../Page/文化放送.md "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**神谷浩史・小野大輔のDearGirl〜Stories〜**』（かみやひろし・おのだいすけのディアガールストーリーズ）は、[文化放送](../Page/文化放送.md "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -77,7 +77,7 @@
 
 各話にはそれぞれにサブタイトルが付けられており、ストーリーテラーである小野が毎回読み上げている。
 
-サブタイトル名は各回の前打合せ中に構成作家が付けているが、第19話と第21話、第402話、第552話は構成作家がタイトルを付け忘れたため、小野大輔がその場で考え読み上げた。番組内で小野が読み上げるサブタイトルは、番組が始まる直前に構成作家が小野にしか教えていないため、小野が読み上げるまで神谷はサブタイトルを知らない状態になっている。
+サブタイトル名は各回の前打合せ中に構成作家が付けているが、第19話と第21話、第402話、第552話は構成作家がタイトルを付け忘れたため、小野大輔がその場で考え読み上げた。第678話ではタイトルを付け忘れたまま進行されエンディングにて発表された異例もある。番組内で小野が読み上げるサブタイトルは、番組が始まる直前に構成作家が小野にしか教えていないため、小野が読み上げるまで神谷はサブタイトルを知らない状態になっている。
 
 ただし、第108話（小野大輔聖誕祭）のようにその日の番組内容自体を小野が知らされていない場合は、神谷が読み上げる時もある。
 
@@ -129,6 +129,8 @@
   - 第36話 「なにもすじゃねえよひねもすだよ！」
   - 第37話 「「2008年、神谷浩史宅で公開録音決定！(？)」
   - 第38話 「中村、フラッグのプラモ買ったから後でサインしてくれ」
+
+</div>
 
 </div>
 
@@ -201,6 +203,8 @@
 
 </div>
 
+</div>
+
 <div class="NavFrame" style="clear:both; border:0">
 
 <div class="NavHead" style="text-align:left">
@@ -268,6 +272,8 @@
 
 </div>
 
+</div>
+
 <div class="NavFrame" style="clear:both; border:0">
 
 <div class="NavHead" style="text-align:left">
@@ -330,6 +336,8 @@
   - 第192話 「この表紙かわいいな」
   - 第193話 「俺の重大発表は…」
   - 第194話 「俺も一緒に温泉入りたいな」
+
+</div>
 
 </div>
 
@@ -403,6 +411,8 @@
 
 </div>
 
+</div>
+
 <div class="NavFrame" style="clear:both; border:0">
 
 <div class="NavHead" style="text-align:left">
@@ -465,6 +475,8 @@
   - 第297話 「ヒロCがお茶を買いすぎている」
   - 第298話 「僕と一緒にPARTYしようよ」
   - 第299話 「神谷さん！神谷さんが脱ぎ始めたらこの番組は終了ですよ？」
+
+</div>
 
 </div>
 
@@ -537,6 +549,8 @@
 
 </div>
 
+</div>
+
 <div class="NavFrame" style="clear:both; border:0">
 
 <div class="NavHead" style="text-align:left">
@@ -599,6 +613,8 @@
   - 第401話 「3M、ハネた」
   - 第402話 「メリークリスもす、メリークリスもす、もすもすもすもす Kiss Kiss Kiss」
   - 第403話 「今夜は男だらけのスウィーツパーティー！」
+
+</div>
 
 </div>
 
@@ -671,6 +687,8 @@
 
 </div>
 
+</div>
+
 <div class="NavFrame" style="clear:both; border:0">
 
 <div class="NavHead" style="text-align:left">
@@ -733,6 +751,8 @@
   - 第505話 「今夜もお前をビリビリさせるぜ。雷耐性つけるんじゃねえぞ」
   - 第506話 「『To be continued･･･』はライブで歌ってないらしい」
   - 第507話 「神谷さんその服着てるの3回目じゃないですか？」
+
+</div>
 
 </div>
 
@@ -806,6 +826,8 @@
 
 </div>
 
+</div>
+
 <div class="NavFrame" style="clear:both; border:0">
 
 <div class="NavHead" style="text-align:left">
@@ -873,7 +895,17 @@
 
 </div>
 
-'''2019年 第613話 -第664話 '''
+</div>
+
+<div class="NavFrame" style="clear:both; border:0">
+
+<div class="NavHead" style="text-align:left">
+
+2019年 第613話 -第664話
+
+</div>
+
+<div class="NavContent" style="text-align:left">
 
   - 第613話「はい、お年玉！」
   - 第614話「今日はこのあと新年会。ヒロC8万円のおごり！」
@@ -928,6 +960,12 @@
   - 第663話「ダウン買った」
   - 第664話「今年のMVPは…桜坂たけし」
 
+</div>
+
+</div>
+
+</div>
+
 **2020年 第665話 -**
 
   - 第665話「子年だけに、きみとチューチュー！」
@@ -939,6 +977,13 @@
   - 第671話「神谷さん、俺老眼が来たかもしれない」
   - 第672話「2月22日。にゃーにゃーにゃー！」
   - 第673話「大輔、ヒゲを生やし始めました」
+  - 第674話「とくになし」
+  - 第675話「腹を割って話そう」
+  - 第676話「奥さん、パイ食わねぇか」
+  - 第677話「スターな俺は星柄が好き」
+  - 第678話「無」(「第６７８話、祝！番組１４年目突入！」) \[5\]
+  - 第679話「もう二度とタイトルを忘れない」
+  - 第680話「神谷さんはすごいプレゼントをくれると思う！」
 
 ## ゲスト
 
@@ -948,7 +993,7 @@
   - 第28話：[中村悠一](../Page/中村悠一.md "wikilink")
   - 第29話：中村悠一 - ゲストとしては紹介されなかった。
   - 第30話：杉原千秋 - comic SYLPH編集長
-  - 第31話：[小林ちゃんこちゃんこ](https://ja.wikipedia.org/wiki/小林洋平 "wikilink") - 文化放送[AD](../Page/アシスタントディレクター.md "wikilink")
+  - 第31話：[小林ちゃんこちゃんこ](https://ja.wikipedia.org/wiki/小林洋平_\(放送作家\) "wikilink") - 文化放送[AD](../Page/アシスタントディレクター.md "wikilink")
   - 第34話：[御徒町鳩](https://ja.wikipedia.org/wiki/御徒町鳩 "wikilink") - 公録ゲスト、「腐女子っス\!」（comic SYLPH連載）作者
   - 第38話：安元洋貴・杉田智和・中村悠一
   - 第39話：安元洋貴・杉田智和・中村悠一
@@ -1006,7 +1051,10 @@
   - 第547話：代永翼 - 秋恒例の電話出演。
   - 第584話：[梶裕貴](../Page/梶裕貴.md "wikilink") - 『いつかすべてが君の力になる』の宣伝。
   - 第599話：代永翼 - 秋恒例の電話出演。
-  - 第622話：松原秀 - 3月15日公開『えいがのおそ松さん』の宣伝。
+  - 第622話：[松原秀](https://ja.wikipedia.org/wiki/松原秀 "wikilink") - 3月15日公開『えいがのおそ松さん』の宣伝。
+  - 第668話：[石川界人](https://ja.wikipedia.org/wiki/石川界人 "wikilink") - 神谷浩史聖誕祭2020で筋トレトレーナーとして出演。
+  - 第675話：[藤村忠寿](../Page/藤村忠寿.md "wikilink")・[嬉野雅道](../Page/嬉野雅道.md "wikilink") - 『[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")』（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")）Blu-ray\&DVD第29弾『[原付日本列島制覇](https://ja.wikipedia.org/wiki/水曜どうでしょうの企画_\(2003年以降\)_#原付日本列島制覇_東京-紀伊半島-高知 "wikilink")』のオープニングアニメーションに神谷と小野が声優として出演していることが縁で出演\[6\]。
+  - 第676話：藤村忠寿・嬉野雅道 - 前回の撮れ高が1.8本分もあった為、急遽分割し2週に渡ってのゲストとなった。
 
 ## 番組オープニングテーマ・エンディングテーマ
 
@@ -1056,7 +1104,8 @@
 | 第521話 | Say Your Name～Dear Girl～(2017ver.)                                                                          |                          |                          |                                                                                               |                       |
 | 11    | 第522話 - 第572話                                                                                               | ON the AIR               | トケイとテガミ                  |                                                                                               | ON the AIR            |
 | 12    | 第573話 - 第625話                                                                                               | タイセツの鍵                   | Prime Haven              |                                                                                               | タイセツの鍵                |
-| 13    | 第626話 -                                                                                                     | SPEEDILLUSION            | 百年ドラマ                    |                                                                                               | SPEEDILLUSION         |
+| 13    | 第626話 - 第677話                                                                                               | SPEEDILLUSION            | 百年ドラマ                    |                                                                                               | SPEEDILLUSION         |
+| 14    | 第678話 -                                                                                                     | Like a FAKE              | Forever Notes            | 両曲、[MASOCHISTIC ONO BANDによる楽曲](https://ja.wikipedia.org/wiki/MASOCHISTIC_ONO_BAND "wikilink") | 6.9                   |
 
 ## メディアミックス
 
@@ -1119,7 +1168,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://ja.wikipedia.org/wiki/2月24日" title="wikilink">2月24日</a></p></td>
 <td><p>Dear Girl〜Stories〜Birthday Disc2010<br />
-神谷浩史聖誕祭ラジオCD[5]</p></td>
+神谷浩史聖誕祭ラジオCD[7]</p></td>
 <td><p>QRAG21-22</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1151,7 +1200,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
-<td><p>Shiny × Shiny[6]</p></td>
+<td><p>Shiny × Shiny[8]</p></td>
 <td><p>BMCS-1006</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1175,7 +1224,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
-<td><p>TEN-der land[7]</p></td>
+<td><p>TEN-der land[9]</p></td>
 <td><p>MO-AG-DGSEXPO16-03</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1199,7 +1248,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
-<td><p>タイセツの鍵[8]</p></td>
+<td><p>タイセツの鍵[10]</p></td>
 <td><p>DUED-1251</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1289,10 +1338,10 @@ QEDV-0012/13(DVD)</p></td>
 
 <!-- end list -->
 
-  - DearGirl〜Stories〜 響 第1巻（2009年3月23日 発売）
-  - DearGirl〜Stories〜 響 第2巻（2010年1月22日 発売）
-  - DearGirl〜Stories〜 響 第3巻（2012年3月22日 発売）
-  - DearGirl〜Stories〜 響 第4巻（2012年4月21日 発売）
+  - 第1巻 2009年3月23日 発売、ISBN 978-4-04-867786-8
+  - 第2巻 2010年1月22日 発売、ISBN 978-4-04-868359-3
+  - 第3巻 2012年3月22日 発売、ISBN 978-4-04-886501-2
+  - 第4巻 2012年4月21日 発売、ISBN 978-4-04-886567-8
 
 <!-- end list -->
 
@@ -1308,7 +1357,7 @@ QEDV-0012/13(DVD)</p></td>
 
 <!-- end list -->
 
-  - Dear Girl‐Stories‐響 響特訓大作戦\!～ガチdeビジュアルブック（2010年3月 発売）
+  - Dear Girl‐Stories‐響 響特訓大作戦\!～ガチdeビジュアルブック（2010年3月23日 発売、ISBN 978-4-04-868437-8）
 
 ### Dear Girl～Stories～ 緋月
 
@@ -1326,10 +1375,10 @@ QEDV-0012/13(DVD)</p></td>
 
 <!-- end list -->
 
-  - Dear Girl〜Stories〜 緋月 第1巻（2013年5月22日 発売）
-  - Dear Girl〜Stories〜 緋月 第2巻（2014年1月22日 発売）
-  - Dear Girl〜Stories〜 緋月 第3巻（2014年6月21日 発売）
-  - Dear Girl〜Stories〜 緋月 第4巻（2015年1月22日 発売）
+  - 第1巻 2013年5月22日 発売、ISBN 978-4-04-891684-4
+  - 第2巻 2014年1月22日 発売、ISBN 978-4-04-866188-1
+  - 第3巻 2014年6月21日 発売、ISBN 978-4-04-866658-9
+  - 第4巻 2015年1月22日 発売、ISBN 978-4-04-869195-6
 
 ### 劇場版
 
@@ -1345,17 +1394,17 @@ QEDV-0012/13(DVD)</p></td>
 
 シネ・リーブル池袋では『DGS EXPO』と題し、『DearGirl〜Stories〜響』のつなぎや映画の中で代永翼が着用したカッパの衣装などが公開された。
 
-2011年2月24日に発売された『Dear Girl〜Stories〜Birthday　Disc2010　神谷浩史聖誕祭ラジオCD』にDVD特典として収録されている。 \[9\]
+2011年2月24日に発売された『Dear Girl〜Stories〜Birthday　Disc2010　神谷浩史聖誕祭ラジオCD』にDVD特典として収録されている。 \[11\]
 
   - 第二弾『**DearGirl〜Stories〜THE MOVIE 2 -ACE OF ASIA-**』
 
-2013年11月24日に開催された『Dear Girl〜Stories〜 Dear Boy祭』にて劇場第二弾の公開が発表され、2014年2月15日より全国ロードショーされた。超！A\&Gショップ等でDVD/Blu-ray販売中。 \[10\]
+2013年11月24日に開催された『Dear Girl〜Stories〜 Dear Boy祭』にて劇場第二弾の公開が発表され、2014年2月15日より全国ロードショーされた。超！A\&Gショップ等でDVD/Blu-ray販売中。 \[12\]
 
   - 第三弾『**DearGirl〜Stories〜THE MOVIE 3 the United Kingdom of KOCHI**』
 
 2017年11月25日より前編『〜六人の龍馬編〜』、2018年1月6日より後編『〜蒼の継承編〜』が全国ロードショーされた。
 
-前編『〜六人の龍馬編〜』は2018年12月6日より超！A\&Gショップ、アニメイト店頭にてDVD/Blu-ray販売中。 後編『〜蒼の継承編〜』は2018年12月20日より、同じく超！A\&Gショップ、アニメイト店頭にてDVD/Blu-ray販売中。 \[11\]
+前編『〜六人の龍馬編〜』は2018年12月6日より超！A\&Gショップ、アニメイト店頭にてDVD/Blu-ray販売中。 後編『〜蒼の継承編〜』は2018年12月20日より、同じく超！A\&Gショップ、アニメイト店頭にてDVD/Blu-ray販売中。 \[13\]
 
 ## 公開録音・イベント、等
 
@@ -1372,7 +1421,7 @@ QEDV-0012/13(DVD)</p></td>
   - 2013年11月24日(日) [埼玉県](../Page/埼玉県.md "wikilink")[三郷市](../Page/三郷市.md "wikilink")文化会館にて番組史上初の男性限定イベント「Dear Girl〜Stories〜 Dear Boy祭」開催。（イベントの一部を第349話で放送）
       - イベント内容を同時中継する[ライブビューイング](../Page/ライブビューイング.md "wikilink")も同時開催。こちらは女性も参加が可能。
   - 2014年8月23日(土) 「神谷浩史・小野大輔のDear Girl～Stories～公開録音 in キャラホビ2014」開催。（第387話放送分）
-  - 2015年6月、7月 「MASOCHISTIC ONO BAND LIVE TOUR 2015 What is Rock？〜ロックって何ですか？〜」全国2箇所4公演に「神谷浩史＋小野大輔」としてゲスト出演\[12\]。
+  - 2015年6月、7月 「MASOCHISTIC ONO BAND LIVE TOUR 2015 What is Rock？〜ロックって何ですか？〜」全国2箇所4公演に「神谷浩史＋小野大輔」としてゲスト出演\[14\]。
   - 2016年6月25日(土)、26日(日) さいたまスーパーアリーナにて「DGS EXPO」開催。
   - 2018年4月21日(土)、22日(日) さいたまスーパーアリーナにて「DGS vs MOB LIVE SURVIVE」開催。
   - 2019年8月24日(土) 「神谷浩史・小野大輔のDear Girl～Stories～公開録音 in C3AFA TOKYO 2019」開催。（第648話放送分）
@@ -1412,11 +1461,13 @@ QEDV-0012/13(DVD)</p></td>
 2.  3週目は編集の都合上番組の尺が余ったため、後半部分を新録している。
 3.  撮れ高が6週分程だった上(530話サブタイトルより)、様々事情が重なり二部作の映画化となった(後述)
 4.  年末最後2週は先に始まった「どうしてもゲットしたいストーリー」「鍋回」のため。
-5.  特典として、2010年10月に劇場公開された劇場用映画「Dear Girl〜Stories〜THE MOVIE」を収録したDVDを同梱。
-6.  2013年に武道館で開催された「DearGirl〜Stories〜 Festival Carnival Matsuri」会場限定販売
-7.  2016年にさいたまスーパーアリーナで開催された「DearGirl〜Stories〜 10th ANNIVERSARY DGS EXPO」会場限定販売
-8.  2018年4月21日・22日にさいたまスーパーアリーナで開催された「DGS vs MOB LIVE SURVIVE」会場(さいたまスーパーアリーナ・ライブビューイング劇場)限定先行販売があった(20日に前日物販あり)
-9.  [DearGirl〜Stories〜THE MOVIE 公式サイト](http://www.joqr.co.jp/dgsmovie//)
-10. [DearGirl〜Stories〜THE MOVIE 2 -ACE OF ASIA-公式サイト](http://www.joqrextend.co.jp/dgsmovie2/)
-11. [Dear Girl〜Stories〜 THE MOVIE3 the United Kingdom of KOCHI 公式サイト](https://www.joqrextend.co.jp/dgsmovie3/info/?p=464/)
-12.
+5.  構成作家・諏訪勝の[2020年4月6日のツイート](https://twitter.com/suwamasaru/status/1246823963243642881?s=21)より
+6.
+7.  特典として、2010年10月に劇場公開された劇場用映画「Dear Girl〜Stories〜THE MOVIE」を収録したDVDを同梱。
+8.  2013年に武道館で開催された「DearGirl〜Stories〜 Festival Carnival Matsuri」会場限定販売
+9.  2016年にさいたまスーパーアリーナで開催された「DearGirl〜Stories〜 10th ANNIVERSARY DGS EXPO」会場限定販売
+10. 2018年4月21日・22日にさいたまスーパーアリーナで開催された「DGS vs MOB LIVE SURVIVE」会場(さいたまスーパーアリーナ・ライブビューイング劇場)限定先行販売があった(20日に前日物販あり)
+11. [DearGirl〜Stories〜THE MOVIE 公式サイト](http://www.joqr.co.jp/dgsmovie//)
+12. [DearGirl〜Stories〜THE MOVIE 2 -ACE OF ASIA-公式サイト](http://www.joqrextend.co.jp/dgsmovie2/)
+13. [Dear Girl〜Stories〜 THE MOVIE3 the United Kingdom of KOCHI 公式サイト](https://www.joqrextend.co.jp/dgsmovie3/info/?p=464/)
+14.

@@ -1,4 +1,4 @@
-> この記事は[  Splash Star !](https://ja.wikipedia.org/wiki/__Splash_Star_!)から翻訳されています。
+> この記事は[映画 ふたりはプリキュア Splash Star チクタク危機一髪!](https://ja.wikipedia.org/wiki/映画_ふたりはプリキュア_Splash_Star_チクタク危機一髪!)から翻訳されています。
 
 
 『**映画 ふたりはプリキュア Splash Star チクタク危機一髪\!**』（えいが ふたりはプリキュア スプラッシュスター チクタクききいっぱつ）は、[2006年](../Page/2006年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に公開された、『[ふたりはプリキュア Splash Star](https://ja.wikipedia.org/wiki/ふたりはプリキュア_Splash_Star "wikilink")』の劇場用アニメーション。
@@ -181,6 +181,10 @@
   - 本作に登場したキャラクターは、のちのクロスオーバー映画で台詞無しのモブキャラクターとして登場している\[4\]。
   - チョッピ役の[松来未祐](../Page/松来未祐.md "wikilink")の訃報が報じられた[2015年](../Page/2015年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")は奇しくも[CS](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")[テレ朝チャンネル1で本作の再放送がされていた](https://ja.wikipedia.org/wiki/テレ朝チャンネル#テレ朝チャンネル1_ドラマ・バラエティ・アニメ "wikilink")\[5\]。
 
+## ネット配信
+
+  - [2020年](../Page/2020年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")より[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の「プリキュア公式YouTubeチャンネル」から、本作と『[映画 ふたりはプリキュア Max Heart](../Page/映画_ふたりはプリキュア_Max_Heart.md "wikilink")』・『[映画 ふたりはプリキュア Max Heart 2 雪空のともだち](../Page/映画_ふたりはプリキュア_Max_Heart_2_雪空のともだち.md "wikilink")』の計3作が、同年[3月27日](../Page/3月27日.md "wikilink")17:59まで期間限定無料配信された\[6\]。
+
 ## 脚注
 
 <references/>
@@ -196,3 +200,4 @@
 3.  初回封入限定
 4.  アワーズとミニッツは『[映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ\!](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズDX2_希望の光☆レインボージュエルを守れ! "wikilink")』・『[映画 プリキュアオールスターズDX3 未来にとどけ\! 世界をつなぐ☆虹色の花](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズDX3_未来にとどけ!_世界をつなぐ☆虹色の花 "wikilink")』・『[映画 プリキュアオールスターズ 春のカーニバル♪](https://ja.wikipedia.org/wiki/映画_プリキュアオールスターズ_春のカーニバル♪ "wikilink")』の3作品（『春のカーニバル♪』では咲と舞を含む歴代プリキュアたちの回想シーン（挿入歌「39フェアリーズ」の映像シーン）のみ登場）、その他の時計の精霊たちは『DX3』のみ登場している。
 5.
+6.

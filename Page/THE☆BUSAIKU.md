@@ -1,4 +1,4 @@
-> この記事は[THEBUSAIKU](https://ja.wikipedia.org/wiki/THEBUSAIKU)から翻訳されています。
+> この記事は[THE☆BUSAIKU](https://ja.wikipedia.org/wiki/THE☆BUSAIKU)から翻訳されています。
 
 
 **THE☆BUSAIKU**（**ザ　ブサイク**）は、[2005年](../Page/2005年.md "wikilink")7月にサンモールスタジオ（東京・新宿）で公開された [vintage organization](http://www.vintage-produced.com/)制作の[ミュージカル](../Page/ミュージカル.md "wikilink")・[コメディー](../Page/喜劇.md "wikilink")。
@@ -63,8 +63,8 @@
   - [桜木さやかの桜Blog](http://blog.livedoor.jp/ss_sakurablog/)
   - [TA-SACRA.com](http://www.ta-sacra.com/)
   - [鎌苅健太official web site](http://www.top-flight.biz/)
-  - [ちよのパンダライフ](http://ameblo.jp/chiyo-panda/)
-  - [民部良子の☆みんぶろぐ☆](http://ameblo.jp/minbu/)
+  - [ちよのパンダライフ](https://ameblo.jp/chiyo-panda/)
+  - [民部良子の☆みんぶろぐ☆](https://ameblo.jp/minbu/)
   - [vintage organization](http://www.vintage-produced.com/)
 
 [Category:日本のミュージカル作品](https://ja.wikipedia.org/wiki/Category:日本のミュージカル作品 "wikilink") [Category:2000年代のミュージカル](https://ja.wikipedia.org/wiki/Category:2000年代のミュージカル "wikilink") [Category:2005年の舞台作品](https://ja.wikipedia.org/wiki/Category:2005年の舞台作品 "wikilink")

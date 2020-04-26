@@ -1,4 +1,4 @@
-> この記事は[ Again](https://ja.wikipedia.org/wiki/_Again)から翻訳されています。
+> この記事は[星のかけらを探しに行こう Again](https://ja.wikipedia.org/wiki/星のかけらを探しに行こう_Again)から翻訳されています。
 
 
 「**星のかけらを探しに行こう Again**」（ほしのかけらをさがしにいこう アゲイン）は、[福耳の](../Page/福耳_\(音楽\).md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[キティより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

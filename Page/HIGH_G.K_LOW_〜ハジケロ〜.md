@@ -1,4 +1,4 @@
-> この記事は[HIGH G.K LOW ](https://ja.wikipedia.org/wiki/HIGH_G.K_LOW_)から翻訳されています。
+> この記事は[HIGH G.K LOW 〜ハジケロ〜](https://ja.wikipedia.org/wiki/HIGH_G.K_LOW_〜ハジケロ〜)から翻訳されています。
 
 
 「**HIGH G.K LOW 〜ハジケロ〜**」は、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")の通算2枚目となる[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[NAYUTAWAVE RECORDSより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

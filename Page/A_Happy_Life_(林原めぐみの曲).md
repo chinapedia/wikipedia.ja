@@ -1,4 +1,4 @@
-> この記事は[A Happy Life \(\)](https://ja.wikipedia.org/wiki/A_Happy_Life_\(\))から翻訳されています。
+> この記事は[A Happy Life \(林原めぐみの曲\)](https://ja.wikipedia.org/wiki/A_Happy_Life_\(林原めぐみの曲\))から翻訳されています。
 
 
 「**A Happy Life**」（ア・ハッピー・ライフ）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の [シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")、[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）より発売された。

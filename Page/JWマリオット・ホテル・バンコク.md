@@ -1,4 +1,4 @@
-> この記事は[JW](https://ja.wikipedia.org/wiki/JW)から翻訳されています。
+> この記事は[JWマリオット・ホテル・バンコク](https://ja.wikipedia.org/wiki/JWマリオット・ホテル・バンコク)から翻訳されています。
 
 
 **JWマリオット・ホテル・バンコク**(JW Marriott Hotel Bangkok)は、[タイの](../Page/タイ王国.md "wikilink")[首都](../Page/首都.md "wikilink")である[バンコク](../Page/バンコク.md "wikilink")・[クローントゥーイ区](https://ja.wikipedia.org/wiki/クローントゥーイ区 "wikilink")にある最高級[ホテル](../Page/ホテル.md "wikilink")。

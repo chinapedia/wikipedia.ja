@@ -1,4 +1,4 @@
-> この記事は[GTP](https://ja.wikipedia.org/wiki/GTP)から翻訳されています。
+> この記事は[GTPアーゼ](https://ja.wikipedia.org/wiki/GTPアーゼ)から翻訳されています。
 
 
 **GTPアーゼ**は[グアノシン三リン酸](../Page/グアノシン三リン酸.md "wikilink")（GTP）を結合し[加水分解](../Page/加水分解.md "wikilink")する一群の[酵素](../Page/酵素.md "wikilink")あるいは[タンパク質](../Page/タンパク質.md "wikilink")で、非常に多数の種類がある。

@@ -1,4 +1,4 @@
-> この記事は[LALALA LOVE SONG](https://ja.wikipedia.org/wiki/LALALA_LOVE_SONG)から翻訳されています。
+> この記事は[LA・LA・LA LOVE SONG](https://ja.wikipedia.org/wiki/LA・LA・LA_LOVE_SONG)から翻訳されています。
 
 
 『**LA・LA・LA LOVE SONG**』（ラ・ラ・ラ・ラヴソング）は、[1996年](../Page/1996年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")に発売された[久保田利伸](../Page/久保田利伸.md "wikilink") with [NAOMI CAMPBELLのシングル](../Page/ナオミ・キャンベル.md "wikilink")。[久保田利伸](../Page/久保田利伸.md "wikilink")としては16作目となるシングル。
@@ -44,7 +44,7 @@
 
 ## 脚注
 
-[Category:久保田利伸の楽曲](https://ja.wikipedia.org/wiki/Category:久保田利伸の楽曲 "wikilink") [Category:久保田利伸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田利伸が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:久保田利伸の楽曲](https://ja.wikipedia.org/wiki/Category:久保田利伸の楽曲 "wikilink") [Category:久保田利伸が制作した楽曲](https://ja.wikipedia.org/wiki/Category:久保田利伸が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.  [MULAKAN](http://karenkongmusic.com/zh-cht/mulakan) Karen Kong Official Website 2015年11月4日閲覧
 2.

@@ -1,4 +1,4 @@
-> この記事は[GTP](https://ja.wikipedia.org/wiki/GTP)から翻訳されています。
+> この記事は[低分子量GTPアーゼ](https://ja.wikipedia.org/wiki/低分子量GTPアーゼ)から翻訳されています。
 
 
 **低分子GTPアーゼ**（ていぶんしりょうジーティーピーアーゼ）または**低分子GTP結合タンパク質**は、一群の[GTP結合タンパク質](https://ja.wikipedia.org/wiki/GTP結合タンパク質 "wikilink")で、低[分子量](../Page/分子量.md "wikilink")（20-25 k[Da](https://ja.wikipedia.org/wiki/統一原子質量単位 "wikilink")）のものをいう。[グアノシン三リン酸](../Page/グアノシン三リン酸.md "wikilink")（GTP）を結合し、加水分解してGDP（[グアノシン二リン酸](https://ja.wikipedia.org/wiki/グアノシン二リン酸 "wikilink")）とし、さらにそのGDPをGTPに交換することで、細胞内[シグナル伝達](../Page/シグナル伝達.md "wikilink")のスイッチ機能を果たす。代表的なものとして[がん遺伝子](../Page/がん遺伝子.md "wikilink")*[ras](https://ja.wikipedia.org/wiki/Rasタンパク質 "wikilink")*（ラス）の産物があり、いずれもこれとの配列類似性が高いので、Ras[スーパーファミリー](https://ja.wikipedia.org/wiki/スーパーファミリー "wikilink")とも呼ぶ。

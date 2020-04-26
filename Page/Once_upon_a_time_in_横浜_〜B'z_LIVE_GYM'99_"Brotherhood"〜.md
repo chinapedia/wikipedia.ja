@@ -7,8 +7,8 @@ DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wiki
 
 ## メンバー
 
-  - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")・[プロデュース](../Page/音楽プロデューサー.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ブルースハープ](../Page/ハーモニカ.md "wikilink")・ギター
+  - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、[プロデュース](../Page/音楽プロデューサー.md "wikilink")
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ブルースハープ](../Page/ハーモニカ.md "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")
 
 ## サポートメンバー
 
@@ -51,7 +51,7 @@ DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wiki
 5.  **[TIME](https://ja.wikipedia.org/wiki/BLOWIN'#収録曲 "wikilink")**
 6.  **[Easy Come, Easy Go\!](../Page/Easy_Come,_Easy_Go!.md "wikilink")**
       -
-        稲葉がアコースティックギターを弾きながら歌唱。間奏ではメインステージから延びたサブステージに移動し、コールアンドレスポンスを行う。
+        稲葉が[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を弾きながら歌唱。間奏ではメインステージから延びたサブステージに移動し、コールアンドレスポンスを行う。
 7.  **[ながい愛](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")**
 8.  **[銀の翼で翔べ](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")**
 9.  '''[SKIN](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink") '''
@@ -106,7 +106,7 @@ DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wiki
 
 ### 出典
 
-[Category:2000年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2000年の音楽関連の映像作品 "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:1999年のコンサート](https://ja.wikipedia.org/wiki/Category:1999年のコンサート "wikilink") [Category:2000年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2000年のライブ・ビデオ "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.  MCの一部は『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』にも収録されている。

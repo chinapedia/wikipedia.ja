@@ -31,7 +31,7 @@
 
 ## 脚注
 
-[Category:槇原敬之の楽曲](https://ja.wikipedia.org/wiki/Category:槇原敬之の楽曲 "wikilink") [Category:槇原敬之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:槇原敬之が制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:1993年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1993年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:KDDI/auのCMソング](https://ja.wikipedia.org/wiki/Category:KDDI/auのCMソング "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink")
+[Category:槇原敬之の楽曲](https://ja.wikipedia.org/wiki/Category:槇原敬之の楽曲 "wikilink") [Category:槇原敬之が制作した楽曲](https://ja.wikipedia.org/wiki/Category:槇原敬之が制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:1993年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1993年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:KDDI/auのCMソング](https://ja.wikipedia.org/wiki/Category:KDDI/auのCMソング "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_な](https://ja.wikipedia.org/wiki/Category:楽曲_な "wikilink")
 
 1.  [槇原敬之 ORICON STYLE](http://www.oricon.co.jp/prof/artist/251006/profile/history/p/2/)
 2.

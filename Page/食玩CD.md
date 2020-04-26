@@ -13,7 +13,7 @@
 
 食玩CDブームが起こった2003年、1月〜11月の8センチCDの生産枚数が[日本レコード協会](../Page/日本レコード協会.md "wikilink")調べで1709万5000枚と前年同期の2倍以上を記録した\[3\]。
 
-食玩CDに採用されたアーティストの[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の売上が伸びるという影響もあった。2003年、[キャンディーズ](../Page/キャンディーズ.md "wikilink")は前年の1.5倍、[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")は3倍、[久保田早紀は](../Page/久米小百合.md "wikilink")4倍以上の売上を記録した\[4\]。
+食玩CDに採用されたアーティストの[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の売上が伸びるという影響もあった。2003年、[キャンディーズ](../Page/キャンディーズ.md "wikilink")は前年の1.5倍、[吉田拓郎](../Page/吉田拓郎.md "wikilink")は3倍、[久保田早紀は](../Page/久米小百合.md "wikilink")4倍以上の売上を記録した\[4\]。
 
 ## 食玩CDを発売した実績のあるメーカーと商品
 
@@ -75,7 +75,7 @@
       -
         2003年10月28日より、日本全国で順次発売
     <!-- end list -->
-      - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") - 「[結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")」「[旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")」
+      - [吉田拓郎](../Page/吉田拓郎.md "wikilink") - 「[結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")」「[旅の宿](../Page/旅の宿_\(よしだたくろうの曲\).md "wikilink")」
       - [はしだのりひことクライマックス](https://ja.wikipedia.org/wiki/はしだのりひことクライマックス "wikilink") - 「[花嫁](https://ja.wikipedia.org/wiki/花嫁 "wikilink")」/ [はしだのりひことシューベルツ](../Page/はしだのりひことシューベルツ.md "wikilink") - 「[風](../Page/風_\(曖昧さ回避\).md "wikilink")」
       - [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink") - 「[17才](../Page/17才_\(南沙織の曲\).md "wikilink")」「[潮風のメロディ](../Page/潮風のメロディ.md "wikilink")」
       - [甲斐バンド](../Page/甲斐バンド.md "wikilink") - 「[HERO（ヒーローになる時、それは今）](https://ja.wikipedia.org/wiki/HERO（ヒーローになる時、それは今） "wikilink")」「[安奈](https://ja.wikipedia.org/wiki/安奈 "wikilink")」
@@ -190,7 +190,7 @@
   - 原田知世 - 「時をかける少女」（ジャケット違い）
   - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink") - 「[卒業写真](https://ja.wikipedia.org/wiki/卒業写真_\(荒井由実の曲\)#ハイ・ファイ・セットのシングル "wikilink")」
   - [沢田研二](../Page/沢田研二.md "wikilink") - 「[時の過ぎゆくままに](../Page/時の過ぎゆくままに.md "wikilink")」
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") - 「[イメージの詩](https://ja.wikipedia.org/wiki/イメージの詩 "wikilink")」
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink") - 「[イメージの詩](https://ja.wikipedia.org/wiki/イメージの詩 "wikilink")」
   - [子門真人](../Page/子門真人.md "wikilink") - 「[およげ！たいやきくん](../Page/およげ!たいやきくん.md "wikilink")」
 
 #### タイムスリップグリコ　グループサウンズ編

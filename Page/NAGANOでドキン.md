@@ -34,7 +34,7 @@
 在長局では長野オリンピックの開催に合わせ、生放送を主体とする自社製作番組が一時的に増加したが、それらは長野オリンピックの閉幕とともに軒並み終了しており、結果的には一過性に終わっている。
 
   - [長野五輪とれたて情報](https://ja.wikipedia.org/wiki/長野五輪とれたて情報 "wikilink")（[NHK長野放送局](../Page/NHK長野放送局.md "wikilink")）
-  - [SBCオリンピック夢パーク](https://ja.wikipedia.org/wiki/SBCオリンピック夢パーク "wikilink")（[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）
+  - [SBCオリンピック夢パーク](https://ja.wikipedia.org/wiki/SBCオリンピック夢パーク "wikilink")（[信越放送](../Page/信越放送.md "wikilink")）
       - [SBCパラリンピック夢パーク](https://ja.wikipedia.org/wiki/SBCパラリンピック夢パーク "wikilink")
   - [NBS情報いちばん星](https://ja.wikipedia.org/wiki/NBS情報いちばん星 "wikilink")（[長野放送](../Page/長野放送.md "wikilink")）
   - [やじうまNAGANO](https://ja.wikipedia.org/wiki/やじうまNAGANO "wikilink") （[長野朝日放送](../Page/長野朝日放送.md "wikilink")）

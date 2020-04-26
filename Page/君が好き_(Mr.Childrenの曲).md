@@ -1,7 +1,7 @@
 > この記事は[君が好き \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/君が好き_\(Mr.Childrenの曲\))から翻訳されています。
 
 
-「**君が好き**」（きみがすき）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
+「**君が好き**」（きみがすき）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
@@ -13,26 +13,29 @@
 
 ## 収録曲
 
-1.  **君が好き**
-      - 作詞・作曲:[桜井和寿](../Page/桜井和寿.md "wikilink")　編曲:[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
-    <!-- end list -->
+  - 全作詞・作曲：[桜井和寿](../Page/桜井和寿.md "wikilink") / 全編曲：[小林武史](../Page/小林武史.md "wikilink") & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
+
+<!-- end list -->
+
+1.  **君が好き** \[4:32\]
       -
         [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[アンティーク 〜西洋骨董洋菓子店〜](../Page/アンティーク_〜西洋骨董洋菓子店〜.md "wikilink")』挿入歌。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は病気の治療（というより延命）のために病院内の隣同士の部屋に隔離され、お互いに恋心を抱くもガラス越しにしか触れ合う事の出来ない男女を、彼らを哀れんだ桜井が不思議な力を使って解き放ち、初めて直接触れ合えた男女が病院の外に出たところで全てを見届けた桜井が他のメンバーの乗る車に入る、というものである。このミュージック・ビデオには[窪塚洋介](../Page/窪塚洋介.md "wikilink")が出演している。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 ＜micro＞](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹下紘希](../Page/丹下紘希.md "wikilink")。
-2.  **さよなら2001年**
-      - 作詞・作曲:桜井和寿　編曲:小林武史 & Mr.Children
-    <!-- end list -->
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は病気の治療（というより延命）のために病院内の隣同士の部屋に隔離され、お互いに恋心を抱くもガラス越しにしか触れ合う事の出来ない男女を、彼らを哀れんだ桜井が不思議な力を使って解き放ち、初めて直接触れ合えた男女が病院の外に出たところで全てを見届けた桜井が他のメンバーの乗る車に入る、というものである。このミュージック・ビデオには[窪塚洋介](../Page/窪塚洋介.md "wikilink")が出演している。[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2001-2005 <micro>](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹下紘希](../Page/丹下紘希.md "wikilink")。
+2.  **さよなら2001年** \[6:29\]
       -
-        当初は発売日（1月1日）にちなんで「[A HAPPY NEW YEAR](https://ja.wikipedia.org/wiki/昨晩お会いしましょう#収録曲 "wikilink")」（[松任谷由実](../Page/松任谷由実.md "wikilink")）のカバーを[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")にする予定でレコーディングもされたが、上手くいかなかったためこの曲が収録された。
-        [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発生した[アメリカ同時多発テロ](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ "wikilink")を意識しており、桜井によると、「A HAPPY NEW YEAR」をカバーしようとしたのは、歌詞中の「今年もいいことがありますように」が皮肉にも、わかりやすい祈りにも聞こえるからとのこと。
+        当初は発売日（1月1日）にちなんで[松任谷由実](../Page/松任谷由実.md "wikilink")の「[A HAPPY NEW YEAR](https://ja.wikipedia.org/wiki/昨晩お会いしましょう#収録曲 "wikilink")」のカバーを[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")にする予定でレコーディングもされたが、上手くいかなかったため新たにこの曲が制作された。
+        [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に発生した[アメリカ同時多発テロ](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ "wikilink")を意識しており、桜井によると、「A HAPPY NEW YEAR」をカバーしようとしたのは、歌詞中の「今年もいいことがありますように」が皮肉にも、わかりやすい祈りにも聴こえるからとのこと。
 
 ## 収録アルバム
 
-  - 『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』(\#1)
-  - 『[Mr.Children 2001-2005 <micro>](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』(\#1)
-  - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』(\#1)
-  - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』(\#2)
+  - 『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』 (\#1)
+  - 『[Mr.Children 2001-2005 <micro>](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』 (\#1)
+  - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』 (\#1)
+  - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2)
 
+## 外部リンク
+
+  -
 [it:Kimi Ga Suki](https://ja.wikipedia.org/wiki/it:Kimi_Ga_Suki "wikilink")
 
-[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink")
+[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:2002年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

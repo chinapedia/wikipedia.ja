@@ -10,4 +10,4 @@
 
 ## 収録曲
 
-[Category:黒夢の楽曲](https://ja.wikipedia.org/wiki/Category:黒夢の楽曲 "wikilink") [Category:清春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清春が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:変イ短調](https://ja.wikipedia.org/wiki/Category:変イ短調 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:黒夢の楽曲](https://ja.wikipedia.org/wiki/Category:黒夢の楽曲 "wikilink") [Category:清春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清春が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

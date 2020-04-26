@@ -87,6 +87,6 @@ DVDは2001年3月14日に、シングル「[ultra soul](https://ja.wikipedia.org
 
 <references/>
 
-[Category:1993年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1993年の音楽関連の映像作品 "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:1993年のコンサート](https://ja.wikipedia.org/wiki/Category:1993年のコンサート "wikilink") [Category:1993年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1993年のライブ・ビデオ "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink")
 
 1.  ROOMS RECORDSへの社名変更と販売元が[J-DISC Beingに移管されたのに伴い](../Page/J-DISC_Being.md "wikilink")、同品番で社名変更されたものが1996年秋以降出荷されていた。

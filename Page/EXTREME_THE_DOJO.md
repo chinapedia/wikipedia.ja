@@ -345,7 +345,7 @@
 サポート
 
   - [REBEL FAMILIA](https://ja.wikipedia.org/wiki/REBEL_FAMILIA "wikilink")（東京）
-  - [ルルル](https://ja.wikipedia.org/wiki/ルルル "wikilink")（東京）
+  - [ルルル](../Page/ルルル.md "wikilink")（東京）
   - [mudy on the 昨晩](https://ja.wikipedia.org/wiki/mudy_on_the_昨晩 "wikilink")（名古屋、大阪）
 
 会場

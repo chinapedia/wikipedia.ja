@@ -13,4 +13,4 @@
 
 ## 収録曲
 
-[Category:黒夢の楽曲](https://ja.wikipedia.org/wiki/Category:黒夢の楽曲 "wikilink") [Category:清春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清春が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
+[Category:黒夢の楽曲](https://ja.wikipedia.org/wiki/Category:黒夢の楽曲 "wikilink") [Category:清春が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清春が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

@@ -130,6 +130,6 @@
 
 <references />
 
-[Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.  ただし、「OFF LIMITS 〜HOW TWO MEN CREATED A MONSTER〜」に、リハーサルで演奏されている映像が少し挿入されている。

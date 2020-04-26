@@ -153,7 +153,7 @@
 
 ### 咲-Saki-阿知賀編 episode of side-A
 
-『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』2011年9月号から2013年4月号まで連載された[外伝](../Page/外伝.md "wikilink")作品。それから7年後に『[月刊ビッグガンガン](../Page/月刊ビッグガンガン.md "wikilink")』で2020年4月号から連載が再開された。作画は[五十嵐あぐり](../Page/五十嵐あぐり.md "wikilink")が担当している。話数カウントは本編と同じく「第●局」。
+『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』2011年9月号から2013年4月号まで連載された[外伝](../Page/外伝.md "wikilink")作品。月刊少年ガンガンでの連載終了の7年後に『[月刊ビッグガンガン](../Page/月刊ビッグガンガン.md "wikilink")』で2020年4月号から連載が再開された。作画は[五十嵐あぐり](../Page/五十嵐あぐり.md "wikilink")が担当している。話数カウントは本編と同じく「第●局」。
 
 かつて原村和が在籍していた[奈良県](../Page/奈良県.md "wikilink")の女子校・阿知賀女子学院を舞台に、インターミドルでの和の活躍をテレビで見たかつての旧友・高鴨穏乃達が「和とまた遊びたい」と奮起、麻雀同好会を結成し部員を集めて麻雀部にした後インターハイ出場を目指す。
 
@@ -2031,7 +2031,7 @@ LACM-4920（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
 <td><p>2016年<a href="../Page/12月21日.md" title="wikilink">12月21日</a> - 2017年<a href="../Page/1月18日.md" title="wikilink">1月18日</a></p></td>
 <td><p>水曜 1:28 - 1:58（火曜深夜）</p></td>
 <td></td>
@@ -2055,7 +2055,7 @@ LACM-4920（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a>（SBC）</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a>（SBC）</p></td>
 <td><p>2017年<a href="../Page/1月10日.md" title="wikilink">1月10日</a> - <a href="../Page/1月31日.md" title="wikilink">1月31日</a>[97]</p></td>
 <td><p>火曜 1:54 - 2:24（月曜深夜）</p></td>
 <td><p>原作の舞台</p></td>
@@ -2185,7 +2185,7 @@ LACM-4920（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
+<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
 <td><p>2018年<a href="../Page/1月10日.md" title="wikilink">1月10日</a> - <a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
 <td><p>水曜 1:28 - 1:58（火曜深夜）</p></td>
 <td><p><a href="../Page/2月7日.md" title="wikilink">2月7日</a>は特別編を放送</p></td>
@@ -2217,7 +2217,7 @@ LACM-4920（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/信越放送" title="wikilink">信越放送</a> (SBC)</p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a> (SBC)</p></td>
 <td><p>2018年<a href="../Page/5月22日.md" title="wikilink">5月22日</a> - <a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
 <td><p>火曜 2:05 - 2:35 (月曜深夜)</p></td>
 <td><p><a href="../Page/6月19日.md" title="wikilink">6月19日</a>は特別編を放送</p></td>

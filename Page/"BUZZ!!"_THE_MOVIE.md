@@ -114,4 +114,4 @@ DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wiki
   - 29位：孤独のRunaway
   - 30位：いつかのメリークリスマス
 
-[Category:1996年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1996年の音楽関連の映像作品 "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:1995年のコンサート](https://ja.wikipedia.org/wiki/Category:1995年のコンサート "wikilink") [Category:1996年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1996年のライブ・ビデオ "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink")

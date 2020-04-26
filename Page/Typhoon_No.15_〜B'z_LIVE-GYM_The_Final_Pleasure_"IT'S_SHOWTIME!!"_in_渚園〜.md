@@ -182,7 +182,7 @@ B'zデビュー15周年の記念日となった2003年9月20、21日に[渚園](
 
 ### 出典
 
-[Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:2004年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2004年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:B'zの映像作品](https://ja.wikipedia.org/wiki/Category:B'zの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:2003年のコンサート](https://ja.wikipedia.org/wiki/Category:2003年のコンサート "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink")
 
 1.  ソロを含めると、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の「[LIVE 2004 〜en〜](../Page/LIVE_2004_〜en〜.md "wikilink")」が最後。
 2.  15年後の「B'z LIVE-GYM Pleasure 2018 -HINOTORI-」にも「FIREBIRD」をアレンジしたステージセットが登場した。

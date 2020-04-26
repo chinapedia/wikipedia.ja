@@ -16,7 +16,7 @@
 いずれも[JST](https://ja.wikipedia.org/wiki/日本標準時間 "wikilink")。
 
   - 木曜日24:20 - 24:50（2005年11月 - 2006年9月）
-  - 木曜日24:26 - 24:56（2006年10月 - 2007年9月） - 『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』開始に伴い繰り下げ
+  - 木曜日24:26 - 24:56（2006年10月 - 2007年9月） - 『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』開始に伴い繰り下げ
   - 木曜日24:29 - 24:59（2007年10月 - 2008年9月） - 3分繰り下げ
   - 木曜日24:38 - 25:08（2008年10月 - 2010年9月） - 『[木曜ナイトドラマ](https://ja.wikipedia.org/wiki/木曜ナイトドラマ "wikilink")』開始に伴い繰り下げ
   - 木曜日24:38 - 25:18（2010年10月 - 2012年3月） - 10分拡大

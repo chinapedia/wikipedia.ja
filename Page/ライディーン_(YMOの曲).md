@@ -37,7 +37,7 @@ B面の「コズミック・サーフィン」はアルバム『[イエロー・
   - [1982年](../Page/1982年.md "wikilink")にセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スーパーロコモーティブ](https://ja.wikipedia.org/wiki/スーパーロコモーティブ "wikilink")』のメインBGMで使用された。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[シグマが発売したアーケードゲーム](../Page/ケイエム企業.md "wikilink")『[バトルクルーザーM12](https://ja.wikipedia.org/wiki/バトルクルーザーM12 "wikilink")』で大型潜水艦登場時のテーマとして使用された。
   - プロレスラー[リッキー・スティムボート](../Page/リッキー・スティムボート.md "wikilink")の日本での入場曲として使用された。
-  - [1991年](../Page/1991年.md "wikilink")に[ジブリ映画](../Page/スタジオジブリ.md "wikilink")、『[おもひでぽろぽろ](../Page/おもひでぽろぽろ.md "wikilink")』で背景曲として使用されている。27歳のタエ子が果物屋に立ち寄っているシーンではあるが、たった数秒間だけでノイズ扱いであるため、かなり聴き取りにくい。
+  - [1991年](../Page/1991年.md "wikilink")に[ジブリ映画](../Page/スタジオジブリ.md "wikilink")、『[おもひでぽろぽろ](../Page/おもひでぽろぽろ.md "wikilink")』で背景曲として使用されている。
   - [1999年](../Page/1999年.md "wikilink")にコナミ（後の[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）が発売したゲームボーイ版ゲーム『beatmania GB2 ガッチャミックス』の隠し楽曲で収録された。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にはYMO自身が出演した「[ポッキー](../Page/ポッキー.md "wikilink")」（[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")）のCMに使用された。
   - [プロ野球](../Page/プロ野球.md "wikilink")の[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の応援団（広島にある応援団GLOVE）が広島・甲子園・九州を中心として[チャンステーマ](../Page/チャンステーマ.md "wikilink")として使用している。

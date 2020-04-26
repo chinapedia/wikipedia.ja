@@ -7,7 +7,7 @@
 
 ## 概要
 
-元々は、デスクトップ向けのDimensionシリーズの上位機種として発売され、後にノートブック向けの[Inspironシリーズの上位機種として投入される](../Page/Dell_Inspiron.md "wikilink")。今後は「Alienware」が後継シリーズとして投入する事が決定された為にXPSシリーズはミドルレンジのデスクトップとして存続していく方向である。
+元々は、デスクトップ向けの[Dimensionシリーズの上位機種として発売され](../Page/Dell_Dimension.md "wikilink")、後にノートブック向けの[Inspironシリーズの上位機種として投入される](../Page/Dell_Inspiron.md "wikilink")。今後は「Alienware」が後継シリーズとして投入する事が決定された為にXPSシリーズはミドルレンジのデスクトップとして存続していく方向である。
 
 ## 特長
 
@@ -63,6 +63,8 @@
   - [ノートパソコン](../Page/ノートパソコン.md "wikilink")
 
   - [Dell Inspiron](../Page/Dell_Inspiron.md "wikilink")
+
+  - [Dell Dimension](../Page/Dell_Dimension.md "wikilink")
 
   -
   -

@@ -41,6 +41,6 @@
 
 ## 外部リンク
 
-  - [番組公式ブログ](http://d.hatena.ne.jp/blogirl/)
+  - [番組公式ブログ](https://blogirl.hatenadiary.org/)
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:BS-TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:BS-TBSのバラエティ番組の歴史 "wikilink") [Category:BS-TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの情報・ワイドショー番組 "wikilink") [Category:BS-TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの一社提供番組 "wikilink") [Category:プロクター・アンド・ギャンブル](https://ja.wikipedia.org/wiki/Category:プロクター・アンド・ギャンブル "wikilink") [Category:ブログ](https://ja.wikipedia.org/wiki/Category:ブログ "wikilink")

@@ -133,7 +133,7 @@
 | ----------------------------------------------------- | ------------------------------------------------------ |
 | **監督**                                                | **曲名**                                                 |
 | [岩口哲也](https://ja.wikipedia.org/wiki/岩口哲也 "wikilink") | 「[ENEMY](https://www.youtube.com/watch?v=CxGWi40lgVE)」 |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink") | 「"Lorraine"」                                           |
+| [小嶋貴之](../Page/小嶋貴之.md "wikilink")                    | 「"Lorraine"」                                           |
 | [横山大平](https://ja.wikipedia.org/wiki/横山大平 "wikilink") | 「Marine」                                               |
 |                                                       |                                                        |
 

@@ -14,7 +14,7 @@
   - 7:41頃（[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")に内包）
   - 10:15頃（[おはようナイスキャッチ](../Page/おはようナイスキャッチ.md "wikilink")に内包）
   - 11:50 - 11:53.25（[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")に内包）
-  - 14:55 - 15:00
+  - 15:46 - 15:50
   - 22:54 - 22:00（金のみ）
   - 23:50 - 23:52（[news23に内包](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")）（金を除く）
 

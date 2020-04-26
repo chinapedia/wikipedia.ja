@@ -1,11 +1,10 @@
 > この記事は[L・O・V・E・L・Y 〜夢見るLOVELY BOY〜](https://ja.wikipedia.org/wiki/L・O・V・E・L・Y_〜夢見るLOVELY_BOY〜)から翻訳されています。
 
 
-『**L・O・V・E・L・Y ～夢見るLOVELY BOY～**』（エル・オー・ブイ・イー・エル・ワイ ゆめみるラブリーボーイ）は、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")の「Tommy february<sup>6</sup>」名義の7枚目の[シングル](../Page/シングル.md "wikilink")。
+『**L・O・V・E・L・Y ～夢見るLOVELY BOY～**』（エル・オー・ブイ・イー・エル・ワイ ゆめみるラブリーボーイ）は、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")の「Tommy february<sup>6</sup>」名義の7枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")からリリースされた。
 
 ## 解説
 
-  - [2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")からリリースされた。
   - 『L・O・V・E・L・Y ～夢見るLOVELY BOY～』は、『[劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_裂空の訪問者_デオキシス "wikilink")』の主題歌。その影響で、[CDジャケットやこの曲の](../Page/コンパクトディスク.md "wikilink")[PVには](../Page/ミュージック・ビデオ.md "wikilink")、[ピカチュウ](../Page/ピカチュウ.md "wikilink")が出演している。
   - 『[I ONLY WANT TO BE WITH YOU](https://ja.wikipedia.org/wiki/二人だけのデート "wikilink")』は、[ダスティ・スプリングフィールド](https://ja.wikipedia.org/wiki/ダスティ・スプリングフィールド "wikilink")の曲のカヴァーで、[TBS系](../Page/TBSテレビ.md "wikilink")[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")オープニングテーマ。
   - 『エル・オー・ヴィー・イー・エル・ワイ ～ゆめみるラブリーボーイ～（ピカチュウといっしょ★ヴァージョンだよ\!）』は、『L・O・V・E・L・Y ～夢見るLOVELY BOY～』の[ピカチュウ](../Page/ピカチュウ.md "wikilink")・[プラスル](https://ja.wikipedia.org/wiki/プラスル "wikilink")・[マイナン](https://ja.wikipedia.org/wiki/マイナン "wikilink")との共演版。[まゆみおねえさん](https://ja.wikipedia.org/wiki/まゆみおねえさん "wikilink")がナレーションをしている（一瞬だけTommy february6がでてくる）。原曲同様、『劇場版ポケットモンスター　アドバンスジェネレーション　裂空の訪問者　デオキシス』のエンディングテーマとして使用されている（原曲終了後、曲の一部が流れる）。歌詞・クレジットはすべて[平仮名](../Page/平仮名.md "wikilink")と[片仮名](../Page/片仮名.md "wikilink")だけで表記されている。

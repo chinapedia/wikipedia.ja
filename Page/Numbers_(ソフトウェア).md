@@ -1,7 +1,7 @@
 > この記事は[Numbers \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Numbers_\(ソフトウェア\))から翻訳されています。
 
 
-**Numbers**（ナンバーズ）は、[アップルが開発している](../Page/アップル_\(企業\).md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") / [iOS用の](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[表計算ソフト](../Page/表計算ソフト.md "wikilink")である。2011年7月まで、[Keynote](../Page/Keynote.md "wikilink")や[Pages](../Page/Pages.md "wikilink")とともに、「[iWork](https://ja.wikipedia.org/wiki/iWork "wikilink")」という商品名でDVD-ROMがパッケージ販売されていたが、2011年8月以降[Mac App Store及び](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")[App Storeで単体としてダウンロード販売されている](../Page/App_Store.md "wikilink")。また、2013年10月22日以降のMacおよびiOS機器の新規購入者に対しては無償で提供されている。
+**Numbers**（ナンバーズ）は、[アップルが開発している](../Page/アップル_\(企業\).md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") / [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") / [iPadOS](https://ja.wikipedia.org/wiki/iPadOS "wikilink")用の[表計算ソフト](../Page/表計算ソフト.md "wikilink")である。2011年7月まで、[Keynote](../Page/Keynote.md "wikilink")や[Pages](../Page/Pages.md "wikilink")とともに、「[iWork](https://ja.wikipedia.org/wiki/iWork "wikilink")」という商品名でDVD-ROMがパッケージ販売されていたが、2011年8月以降[Mac App Store及び](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")[App Storeで単体としてダウンロード販売されている](../Page/App_Store.md "wikilink")。また、2013年10月22日以降のMacおよびiOS機器の新規購入者に対しては無償で提供されている。
 
 [Excel](https://ja.wikipedia.org/wiki/Excel "wikilink")などの他の表計算ソフトウェアと異なり、1つの画面に複数の表を自由に配置できる強力なレイアウト機能が特徴である。
 
@@ -67,6 +67,7 @@
               - VoiceOverを使用して、グラフの音声表現を聞く
               - ハードウェアキーボードでShiftキーまたはCommandキーを押して、複数のオブジェクトを選択できる
   - 2019年11月14日 - macOS Mojave向けNumbers 6.2.1, iOS 12向けNumbers 5.2.1リリース
+  - 2019年6月25日 - macOS Mojave, iOS 12, iPadOS 13向け**Numbers 10.0**, Numbers for iCloud March 2020\[8\]リリース
 
 ## 脚注
 
@@ -94,3 +95,4 @@
 5.
 6.
 7.
+8.

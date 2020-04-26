@@ -1,7 +1,7 @@
 > この記事は[Ableton Live](https://ja.wikipedia.org/wiki/Ableton_Live)から翻訳されています。
 
 
-**Ableton Live**（エイブルトン ライヴ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のAbleton社による[Macintosh](../Page/Macintosh.md "wikilink")と[Windows用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デスクトップオーディオワークステーションソフトウェア](../Page/デジタル・オーディオ・ワークステーション.md "wikilink")。最新のメジャーリリースはバージョン10。競合類似ソフトと同様に、MIDIシーケンスデータとオーディオデータの両方を扱うことができる。[Steinberg](https://ja.wikipedia.org/wiki/Steinberg "wikilink")の[VST](https://ja.wikipedia.org/wiki/VST "wikilink")プラグイン規格に準拠しており（ただしVST3.0以降には未対応）、サードパーティのプラグインシンセサイザーやプラグインエフェクターを導入して機能を拡張させることができる。
+**Ableton Live**（エイブルトン ライヴ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のAbleton社による[Macintosh](../Page/Macintosh.md "wikilink")と[Windows用の](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デスクトップオーディオワークステーションソフトウェア](../Page/デジタル・オーディオ・ワークステーション.md "wikilink")。最新のメジャーリリースはバージョン10。競合類似ソフトと同様に、MIDIシーケンスデータとオーディオデータの両方を扱うことができる。[Steinberg](https://ja.wikipedia.org/wiki/Steinberg "wikilink")の[VST](https://ja.wikipedia.org/wiki/VST "wikilink")プラグイン規格に準拠しており（VST3.0にはバージョン10.1へのアップデートで対応）、サードパーティのプラグインシンセサイザーやプラグインエフェクターを導入して機能を拡張させることができる。
 
 ## 概要
 
@@ -19,27 +19,27 @@ Ableton Liveは、[C++](../Page/C++.md "wikilink")で書かれ、商業ソフト
 
 2018年3月に5年ぶりのバージョンアップとなる10が発売された。以前からAbleton Liveと密接な関係にあった[Cycling '74を](https://ja.wikipedia.org/wiki/Cycling_'74 "wikilink")2017年7月に吸収したことで、MAXとの統合がより深化している。Push2の対応機能がより豊富になった。上位版のSuiteでは、新しいソフトウェアシンセサイザーのWavetableや、コンボリューションリバーブを利用できるようになった。
 
-| バージョン          | 年月                |
-| -------------- | ----------------- |
-| Live 1         | 2001年10月30日\[3\]  |
-| Live 1.5       | 2002年4月28日\[4\]   |
-| Live 2         | 2002年12月22日\[5\]  |
-| Live 2.1       | 2003年6月24日\[6\]   |
-| Live 3         | 2003年10月10日\[7\]  |
-| Live 4         | 2004年6月28日\[8\]   |
-| Live 5         | 2005年6月24日\[9\]   |
-| Live 5.2       | 2006年4月10日\[10\]  |
-| Live 6         | 2006年9月29日\[11\]  |
-| Live 7         | 2007年11月29日\[12\] |
-| Live 8         | 2009年4月2日\[13\]   |
-| Live 8.2       | 2010年9月22日\[14\]  |
-| Live 8.3       | 2012年4月2日\[15\]   |
-| Live 9         | 2013年3月5日\[16\]   |
-| Live 9.1       | 2013年11月20日       |
-| Live 9.2       | 2015年6月29日        |
-| Live 10        | 2018年2月6日\[17\]   |
-| Live 10.1 Beta | 開発中 \[18\]        |
-|                |                   |
+| バージョン     | 年月                |
+| --------- | ----------------- |
+| Live 1    | 2001年10月30日\[3\]  |
+| Live 1.5  | 2002年4月28日\[4\]   |
+| Live 2    | 2002年12月22日\[5\]  |
+| Live 2.1  | 2003年6月24日\[6\]   |
+| Live 3    | 2003年10月10日\[7\]  |
+| Live 4    | 2004年6月28日\[8\]   |
+| Live 5    | 2005年6月24日\[9\]   |
+| Live 5.2  | 2006年4月10日\[10\]  |
+| Live 6    | 2006年9月29日\[11\]  |
+| Live 7    | 2007年11月29日\[12\] |
+| Live 8    | 2009年4月2日\[13\]   |
+| Live 8.2  | 2010年9月22日\[14\]  |
+| Live 8.3  | 2012年4月2日\[15\]   |
+| Live 9    | 2013年3月5日\[16\]   |
+| Live 9.1  | 2013年11月20日       |
+| Live 9.2  | 2015年6月29日        |
+| Live 10   | 2018年2月6日\[17\]   |
+| Live 10.1 | 最新版               |
+|           |                   |
 
 メジャーリリースの時系列
 
@@ -75,4 +75,3 @@ Ableton Liveは、[C++](../Page/C++.md "wikilink")で書かれ、商業ソフト
 15.
 16.
 17.
-18.

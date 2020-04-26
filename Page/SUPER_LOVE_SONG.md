@@ -17,7 +17,7 @@
 
 18.1万枚を売り上げ、2007年[10月15日](../Page/10月15日.md "wikilink")付のオリコン週間シングルランキングで初登場1位を獲得。これにより、5thシングル『[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")』以来40作連続の1位となり、自身が持つ「シングル首位獲得数」と「シングル連続首位獲得数」を更新することとなった\[3\]。
 
-このシングルで、同年9月の『[HEY\!HEY\!HEY\! 見よ\!3時間生放送スペシャル](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に出演し、[ダウンタウンと初めて対面した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。
+このシングルで、同年9月の『[HEY\!HEY\!HEY\! 見よ\!3時間生放送スペシャル](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演し、[ダウンタウンと初めて対面した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。
 
 ## 参加ミュージシャン
 

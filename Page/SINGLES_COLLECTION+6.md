@@ -11,7 +11,7 @@
 
 全曲に、クリアな低音の[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")音源が処理されている。その為、音質が格段に向上している。
 
-デビュー曲の「[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")」から「[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")」までの全シングルが低音の[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源で収録されている。既に発売されていた「[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")」、「[Same Side](../Page/Same_Side.md "wikilink")」、「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」は収録されていない。当時は『Burn The Bridge』（橋を燃やせ=退路を断て）というタイトルで発表された。これは本来、『[PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink")』の次作オリジナルアルバムの仮題だったが、制作途中で2人が脱退したため幻の作品となった。
+デビュー曲の「[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")」から「[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")」までの全シングルが低音の[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")音源で収録されている。既に発売されていた「[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")」、「[Same Side](../Page/Same_Side.md "wikilink")」、「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」は収録されていない。
 
 パッケージにはフォトブックがついており、CDケースを収録できるプラスチック製の青い箱が付属している。
 

@@ -267,7 +267,9 @@ Amazonプライムとは、日本では2007年6月から開始された有料の
 
 :;プライム・ビデオ
 
-::2015年9月24日サービス開始。Amazonプライム会員向けの定額制映像配信サービス。Amazonプライムの年会費に追加料金なしで「Amazonビデオ」の中の「プライム・ビデオ」対象作品が見放題となる。自社制作の独占番組を含むドラマや映画などが提供されている\[130\]\[131\]。[深夜アニメ](../Page/深夜アニメ.md "wikilink")に関しては[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』および[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』各作品が2019年1月期まで独占配信となっていた\[132\]。[Amazonビデオ](https://ja.wikipedia.org/wiki/Amazonビデオ "wikilink")の項目も参照。
+::2015年9月24日サービス開始。Amazonプライム会員向けの定額制映像配信サービス。Amazonプライムの年会費に追加料金なしで「Amazonビデオ」の中の「プライム・ビデオ」対象作品が見放題となる。自社制作の独占番組を含むドラマや映画などが提供されている\[130\]\[131\]。[深夜アニメ](../Page/深夜アニメ.md "wikilink")に関しては[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』および[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』各作品が2019年1月期まで独占配信となっていた\[132\]。
+
+::
 
 :;Prime Music
 

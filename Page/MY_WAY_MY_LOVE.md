@@ -3318,6 +3318,8 @@ BLWT-004:UK</p></td>
 </tbody>
 </table>
 
+## 脚注
+
 ## 関連項目
 
   - [村田有希生](https://ja.wikipedia.org/wiki/村田有希生 "wikilink")

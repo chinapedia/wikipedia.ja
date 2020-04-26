@@ -81,7 +81,7 @@
   - [SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink") - 「スペースレンジャー」「恋模様」「DOLL」「[SAKURAグッバイ](https://ja.wikipedia.org/wiki/SAKURAグッバイ "wikilink")」
   - [SUPER STUPID](../Page/SUPER_STUPID.md "wikilink") - 「What a hells going on」
   - [START FROM SCRATCH](../Page/START_FROM_SCRATCH.md "wikilink") - 「SUNNY DAY」「Change the world」
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") - 「[ハネモノ](../Page/ハネモノ_\(曲\).md "wikilink")」「[スターゲイザー](../Page/スターゲイザー_\(曲\).md "wikilink")」「[魔法のコトバ](../Page/魔法のコトバ.md "wikilink")」「[若葉](https://ja.wikipedia.org/wiki/若葉_\(スピッツの曲\) "wikilink")」
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") - 「[ハネモノ](../Page/ハネモノ_\(曲\).md "wikilink")」「[スターゲイザー](../Page/スターゲイザー_\(曲\).md "wikilink")」「[魔法のコトバ](../Page/魔法のコトバ.md "wikilink")」「[若葉](https://ja.wikipedia.org/wiki/若葉_\(スピッツの曲\) "wikilink")」
   - [SPREAD](https://ja.wikipedia.org/wiki/SPREAD "wikilink") - 「FREEDOM」
   - [SUPER JUNKY MONKEY](https://ja.wikipedia.org/wiki/SUPER_JUNKY_MONKEY "wikilink") - 「if」
   - [SUPER TRAPP](https://ja.wikipedia.org/wiki/SUPER_TRAPP "wikilink") - 「オートマな人々」
@@ -140,6 +140,7 @@
   - [Ken Yokoyama](../Page/横山健.md "wikilink") - 「Running On The Winding Road」「Believer」「Longing(A Quiet Time)」「How Many More Times」「Last Train Home」「Ten Years From Now」「Why」「Not Fooling Anyone」「I Love」「Punk Rock Dream」「 You And I, Against The World 」
   - [RIZE](../Page/RIZE.md "wikilink") - 「LAUGH IT OUT」「LOCAL DEFENSE ORGANIZATION」
   - [Lita](../Page/Lita.md "wikilink") - 「蕾」「黒い雨」「火の神〜ヒヌカン〜」「今日も地球に朝が来る」
+  - LITTLE「聖者が街にやってくる」
   - [LINA OHTA](https://ja.wikipedia.org/wiki/LINA_OHTA "wikilink") - 「PUZZLE-RIDDLE」
   - [RAZORS EDGE](https://ja.wikipedia.org/wiki/RAZORS_EDGE "wikilink") - 「JUSO CRAZY NIGHT」「MOUNTAIN MOUNTAIN」「PUNKADELIC」「the close game」
   - [REGISTRATORS](https://ja.wikipedia.org/wiki/REGISTRATORS "wikilink") - 「She Knows A Right」

@@ -37,7 +37,8 @@
   - [2014年](../Page/2014年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink") - 本社を[上尾市](https://ja.wikipedia.org/wiki/上尾市 "wikilink")上から、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")[上木崎](https://ja.wikipedia.org/wiki/上木崎 "wikilink")に新築した「ビバモールさいたま新都心」6・7階に移転。
   - [2017年](../Page/2017年.md "wikilink")4月12日 - 東証1部上場。
   - [2018年](../Page/2018年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [佐賀県](../Page/佐賀県.md "wikilink")[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")のイオン佐賀ショッピングセンター内に「スーパービバホーム佐賀店」をオープンし、九州地区に進出\[4\]。
-  - [2019年](../Page/2019年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - ビバホーム豊島5丁目店オープン
+  - [2019年](../Page/2019年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - ビバホーム豊島5丁目店オープン。
+  - [2020年](../Page/2020年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - 株式会社[イズミ](../Page/イズミ.md "wikilink")から[ゆめタウン宗像](../Page/ゆめタウン宗像.md "wikilink")を購入し、ビバモール宗像にリブランド（予定）\[5\]。
 
 ## 運営店舗
 
@@ -70,7 +71,8 @@
       - ビバモール和泉中央（大阪府[和泉市](../Page/和泉市.md "wikilink")）
       - ビバモール厚木南インター（神奈川県[厚木市](../Page/厚木市.md "wikilink")）
       - ビバモール本庄（埼玉県[本庄市](../Page/本庄市.md "wikilink")）
-      - ビバモール甲斐甲府（仮）（[山梨県](../Page/山梨県.md "wikilink")[甲府市](../Page/甲府市.md "wikilink")と[甲斐市](../Page/甲斐市.md "wikilink")に跨る土地）※2020年2月上旬開業予定（当初は2019年8月\[5\]予定だったが、[半年延期となった](https://shutten-watch.com/chubu/6556)）
+      - ビバモール甲斐敷島（[山梨県](../Page/山梨県.md "wikilink")[甲斐市](../Page/甲斐市.md "wikilink")）（スーパービバホームが核店舗。当初は2019年8月\[6\]予定だったが、[半年延期され、2020年2月22日となり](https://shutten-watch.com/chubu/6556)、モールの専門店街は同月26日にオープンした）
+      - ビバモール東松山（埼玉県[東松山市](https://ja.wikipedia.org/wiki/東松山市 "wikilink")）
 
 ## 脚注・出典
 
@@ -97,3 +99,4 @@
 3.  [住生活G 子会社のトステムビバの社名をLIXILビバに変更](http://sankei.jp.msn.com/economy/news/110120/biz11012011090089-n1.htm) msn産経ニュース・2011年1月20日
 4.
 5.
+6.

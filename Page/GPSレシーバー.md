@@ -68,15 +68,10 @@ PSP本体を電源OFFにして上部[USB端子に接続する](../Page/ユニバ
 
   - [GPSレシーバー 公式サイト](http://www.jp.playstation.com/psp/gps/)
   - [PSPはカーナビになりました――GPSレシーバー＋カメラで広がるPSPの世界](http://plusd.itmedia.co.jp/games/articles/0609/29/news011.html)
-
-:\*[ホームスターポータブル 公式サイト](http://homestar.sega.jp/)
-
-:\*[MAPLUSポータブルナビ 公式サイト](http://maplus-navi.jp/products/index.html)
-
-:\*[METAL GEAR SOLID Portable OPS 公式サイト](http://www.konami.jp/gs/game/mpo/)
-
-:\*[みんなの地図2 公式サイト](http://www.zenrin.co.jp/product/minchizu2.html)
-
-:\*[プロアトラストラベルガイド　公式サイト](http://maplus-navi.jp/travelguide/)
+      - [ホームスターポータブル 公式サイト](http://homestar.sega.jp/)
+      - [MAPLUSポータブルナビ 公式サイト](http://maplus-navi.jp/products/index.html)
+      - [METAL GEAR SOLID Portable OPS 公式サイト](http://www.konami.jp/gs/game/mpo/)
+      - [みんなの地図2 公式サイト](http://www.zenrin.co.jp/product/minchizu2.html)
+      - [プロアトラストラベルガイド　公式サイト](http://maplus-navi.jp/travelguide/)
 
 [Category:PlayStation_Portable](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable "wikilink") [Category:コンピュータゲームの周辺機器](https://ja.wikipedia.org/wiki/Category:コンピュータゲームの周辺機器 "wikilink") [Category:PSP用GPSレシーバー対応ソフト](https://ja.wikipedia.org/wiki/Category:PSP用GPSレシーバー対応ソフト "wikilink")

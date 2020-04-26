@@ -3,7 +3,7 @@
 
 『**快感MAP**』（かいかんまっぷ）は、[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")（2日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")0:15 - 0:45（[月曜日](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")、『[ネオネオバラエティ](../Page/ネオネオバラエティ.md "wikilink")』枠）にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
-姉妹番組にあたる『**[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")**』がゴールデン枠のレギュラー番組に昇格したことに伴い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")より『**快感MAP〜もしものシミュレーション〜**』に改題され、内容も大幅にリニューアルした。2008年4月より『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』と改題し、月曜『[ネオバラエティ](https://ja.wikipedia.org/wiki/ネオバラエティ "wikilink")』枠に移動。
+姉妹番組にあたる『**[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")**』がゴールデン枠のレギュラー番組に昇格したことに伴い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")より『**快感MAP〜もしものシミュレーション〜**』に改題され、内容も大幅にリニューアルした。2008年4月より『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』と改題し、月曜『[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")』枠に移動。
 
 ## 2007年12月まで
 

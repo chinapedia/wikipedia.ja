@@ -67,7 +67,7 @@
 
 ## 外部リンク
 
-  - [Roni Motion](http://ameblo.jp/dj-roni/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [Roni Motion](https://ameblo.jp/dj-roni/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   -

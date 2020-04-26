@@ -240,7 +240,7 @@ ATDV-388</p></td>
 
   - [松原正樹オフィシャルサイト](http://www.matsubaramasaki.com/official/TOP.html)
   - [斎藤ノブ official Web Site](http://www.nobusaito.com/)
-  - [林立夫オフィシャルブログ](http://ameblo.jp/soft-edge/)
+  - [林立夫オフィシャルブログ](https://ameblo.jp/soft-edge/)
   - [井上鑑オフィシャルサイト](http://www.akira-inoue.com/)
   - [PARACHUTE Web Site](http://dl.dropbox.com/u/25000861/ParachuteWebSite./parachute.html)
 

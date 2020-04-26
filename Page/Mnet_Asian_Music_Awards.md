@@ -215,8 +215,8 @@
   - 最優秀女性グループ賞 ＝2NE1
   - 最優秀男性ソロアーティスト賞＝SOL（BIGBANG）
   - 最優秀女性ソロアーティスト賞＝[BoA](../Page/BoA.md "wikilink")
-  - 最優秀ダンスパフォーマンス賞女性部門＝2PM「I’ll Be Back」
-  - 最優秀ダンスパフォーマンス賞男性部門＝miss A「Bad Girl Good Girl」
+  - 最優秀ダンスパフォーマンス賞男性部門＝2PM「I’ll Be Back」
+  - 最優秀ダンスパフォーマンス賞女性部門＝miss A「Bad Girl Good Girl」
   - 最優秀ソロダンスパフォーマンス賞＝[ピ](https://ja.wikipedia.org/wiki/ピ "wikilink")（Rain、[비](https://ja.wikipedia.org/wiki/:ko:비 "wikilink")）「君をつかまえる歌（널 붙잡을 노래）」
   - 最優秀ソロ歌唱賞＝GUMMY（[거미](https://ja.wikipedia.org/wiki/:ko:거미 "wikilink")）「男だから（남자라서）」
   - 最優秀グループ歌唱賞＝[2AM](https://ja.wikipedia.org/wiki/2AM "wikilink")「死んでも手放せない（죽어도 못 보내）」
@@ -520,7 +520,7 @@
 
 出典：\[22\]
 
-  - **今年の歌手賞＝[防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink")**
+  - **今年の歌手賞＝[防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink")(BTS)**
   - **今年の歌賞＝[TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")「What is Love？」**
   - **今年のアルバム賞＝防弾少年団「LOVE YOURSELF 轉 “Tear”」**
   - **今年のワールドアイコン賞＝防弾少年団**

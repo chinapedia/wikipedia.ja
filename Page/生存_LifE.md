@@ -102,7 +102,7 @@
 
 ## 外部リンク
 
-  - [NHK公式サイト](http://www6.nhk.or.jp/drama/pastprog/detail.html?i=seizon)
+  - [NHK公式サイト](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=seizon)
   - [講談社コミックプラス - 生在〜Ｌｉｆｅ〜 紹介ページ](http://kc.kodansha.co.jp/previously/list.php/1000001567)
 
 [Category:漫画作品_ら](https://ja.wikipedia.org/wiki/Category:漫画作品_ら "wikilink") [Category:福本伸行](https://ja.wikipedia.org/wiki/Category:福本伸行 "wikilink") [Category:かわぐちかいじ](https://ja.wikipedia.org/wiki/Category:かわぐちかいじ "wikilink") [Category:ヤングマガジンアッパーズ](https://ja.wikipedia.org/wiki/Category:ヤングマガジンアッパーズ "wikilink")

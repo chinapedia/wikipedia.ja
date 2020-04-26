@@ -195,10 +195,10 @@
       - ハローサタデー
 
       - [ひろこの音部屋](https://web.archive.org/web/20100802003332/http://hiroko.radilog.net/)（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2010年8月2日収集）
-  - [倶知安町のコミュニティ放送局の免許申請を受理](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2006/0831a.htm) 北海道総合通信局 報道資料 平成18年8月31日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年1月13日収集）
-  - [倶知安町のコミュニティ放送局に予備免許](http://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokkaido-bt.go.jp/2006/1116.htm) 同上 平成18年11月16日（同上:2007年8月8日収集）
-  - [倶知安町のコミュニティ放送局に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/2006/1212.htm) 同上 平成18年12月12日（同上:2009年7月22日収集）
-  - [コミュニティ放送局の廃止について](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/2008/0321.htm) 同上 平成20年3月21日（同上:2009年7月22日収集）
+  - [倶知安町のコミュニティ放送局の免許申請を受理](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/2006/0831a.htm) 北海道総合通信局 報道資料 平成18年8月31日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2009年1月13日収集）
+  - [倶知安町のコミュニティ放送局に予備免許](https://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.hokkaido-bt.go.jp/2006/1116.htm) 同上 平成18年11月16日（同上:2007年8月8日収集）
+  - [倶知安町のコミュニティ放送局に免許](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/2006/1212.htm) 同上 平成18年12月12日（同上:2009年7月22日収集）
+  - [コミュニティ放送局の廃止について](https://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/2008/0321.htm) 同上 平成20年3月21日（同上:2009年7月22日収集）
   - [がんばれ、FMニセコ](http://www.niseko.net/fmniseko/) 勝手にFMニセコを応援するページ
   - [ニセコラジオ](https://web.archive.org/web/20091005230943/http://www.nisekoradio.com/) ニセコラジオの会（Internet Archiveのアーカイブ:2009年10月5日収集）
 

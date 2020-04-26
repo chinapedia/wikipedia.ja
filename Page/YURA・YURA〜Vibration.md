@@ -23,6 +23,6 @@
 
 [Category:Fayrayの楽曲](https://ja.wikipedia.org/wiki/Category:Fayrayの楽曲 "wikilink")
 
-[Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink") [Category:変ロ短調](https://ja.wikipedia.org/wiki/Category:変ロ短調 "wikilink") [Category:HEY\!HEY\!HEY\!MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+[Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
 
 1.

@@ -52,7 +52,7 @@
 
 ## 脚注
 
-[Category:EXILEの楽曲](https://ja.wikipedia.org/wiki/Category:EXILEの楽曲 "wikilink") [Category:松尾潔が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松尾潔が制作した楽曲 "wikilink") [Category:Jin_Nakamuraが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Jin_Nakamuraが制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:嬰ト短調](https://ja.wikipedia.org/wiki/Category:嬰ト短調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:R\&B・バラード](https://ja.wikipedia.org/wiki/Category:R&B・バラード "wikilink")
+[Category:EXILEの楽曲](https://ja.wikipedia.org/wiki/Category:EXILEの楽曲 "wikilink") [Category:松尾潔が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松尾潔が制作した楽曲 "wikilink") [Category:Jin_Nakamuraが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Jin_Nakamuraが制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:Au_LISTEN_MOBILE_SERVICEのコマーシャルソング "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:ポップ・バラード](https://ja.wikipedia.org/wiki/Category:ポップ・バラード "wikilink") [Category:R\&B・バラード](https://ja.wikipedia.org/wiki/Category:R&B・バラード "wikilink")
 
 1.
 2.

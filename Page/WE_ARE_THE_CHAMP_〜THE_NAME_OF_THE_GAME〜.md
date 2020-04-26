@@ -42,7 +42,7 @@ Jリーグ発足前に、[ロッテオリオンズの応援団が演奏してい
   - [CAMPIONE NIPPON](https://ja.wikipedia.org/wiki/CAMPIONE_NIPPON "wikilink")
   - [Olé, Olé, Olé](https://ja.wikipedia.org/wiki/:en:Olé,_Olé,_Olé "wikilink")
 
-[Category:サッカー音楽](https://ja.wikipedia.org/wiki/Category:サッカー音楽 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:変イ長調](https://ja.wikipedia.org/wiki/Category:変イ長調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:サッカー音楽](https://ja.wikipedia.org/wiki/Category:サッカー音楽 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  『[読売新聞](../Page/読売新聞.md "wikilink")』1993年5月31日付東京夕刊、3頁。
 2.  *"Desde el vestuario realista salían voces cantarinas de los jugadores que se apuntaban al clarnor popular: «Campeones hobe, hobe, hobe». Lo de hobe se puede traducir por el mejor en la lengua vasca"*

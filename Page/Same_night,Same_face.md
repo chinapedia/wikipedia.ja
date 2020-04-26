@@ -42,6 +42,6 @@
 
 <references/>
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:Fayrayの楽曲](https://ja.wikipedia.org/wiki/Category:Fayrayの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:Fayrayの楽曲](https://ja.wikipedia.org/wiki/Category:Fayrayの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
 
 1.

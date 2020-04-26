@@ -99,13 +99,22 @@
 
 ## スタッフ
 
+  - 制作総指揮：[工藤浩](https://ja.wikipedia.org/wiki/工藤浩_\(ハドソン\) "wikilink")、[遠藤英俊](https://ja.wikipedia.org/wiki/遠藤英俊 "wikilink")
   - 原作：P.H.チャダ
-  - 企画・監修：広井王子
+  - 企画・監修：[広井王子](../Page/広井王子.md "wikilink")
+  - 監督：[芳賀タカヒロ](https://ja.wikipedia.org/wiki/芳賀孝宏 "wikilink")
   - 絵師：[辻野寅次郎](../Page/辻野芳輝.md "wikilink")
+  - 美術：[久保久](https://ja.wikipedia.org/wiki/久保久 "wikilink")
+  - 映像演出：[水野祥司](https://ja.wikipedia.org/wiki/水野祥司 "wikilink")
+  - デザイン：安保英樹、丸山浩平、関口暁信
+  - 脚本：[竹下功一](https://ja.wikipedia.org/wiki/竹下功一 "wikilink")
+  - プログラム：坪田和男
   - 音楽監督・作編曲：[加藤和彦](../Page/加藤和彦.md "wikilink")
   - オーケストラ指揮：[佐渡裕](../Page/佐渡裕.md "wikilink")
   - 演奏：[新日本フィルハーモニー交響楽団](../Page/新日本フィルハーモニー交響楽団.md "wikilink")
   - 主題歌：『NAMIDA (When Firebird Cry)』（[サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink")）
+  - プロデューサー：木本旬、小栗丈知、三上寛幸、三上哲
+  - エグゼクティブプロデューサー：[和気正則](https://ja.wikipedia.org/wiki/和気正則 "wikilink")、[名越康晃](https://ja.wikipedia.org/wiki/名越康晃 "wikilink")
 
 ## 当初の作品
 

@@ -32,7 +32,7 @@
 
 ## 外部リンク
 
-  - [Duke Nukem Forever 日本語版公式サイト](http://www.2kgames.jp/dnf/)（※18歳以上のみ向け（[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") Z）ソフト）
+  - [Duke Nukem Forever 日本語版公式サイト](http://www.2kgames.jp/dnf/)（※18歳以上のみ向け（[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") Z）ソフト）
 
 [Category:シューティングゲーム](https://ja.wikipedia.org/wiki/Category:シューティングゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink")
 

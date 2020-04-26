@@ -1,7 +1,7 @@
 > この記事は[ソニック・ザ・ヘッジホッグCD](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグCD)から翻訳されています。
 
 
-『**ソニック・ザ・ヘッジホッグCD**』 は、[1993年](../Page/1993年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガCD](../Page/メガCD.md "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")\[1\]。略称は**ソニックCD**。
+『**ソニック・ザ・ヘッジホッグCD**』 は、[1993年](../Page/1993年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に日本の[セガ・エンタープライゼス](https://ja.wikipedia.org/wiki/セガ・エンタープライゼス "wikilink")から発売された[メガCD](../Page/メガCD.md "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")\[1\]。略称は**ソニックCD**。
 
 [メガドライブ](../Page/メガドライブ.md "wikilink")での『[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")』の3作目。主人公のソニックを操作し、惑星「リトルプラネット」の巨大な湖「ネバーレイク」を占拠しているDr.エッグマンを倒して世界征服の野望を阻止する事を目的としている。この作品でエミー・ローズとメタルソニックが初めて登場した（キャラクターの詳しい説明は「[ソニックシリーズに登場するキャラクターの一覧](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧 "wikilink")」を参照）。なおOP及びEDアニメーションは東映動画（後の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が担当した。販売本数は150万本（全世界）。
 
@@ -356,7 +356,7 @@ H.I.C</p></td>
 
   - （英語）
 
-[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:タイムトラベルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
+[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ソニックシリーズのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ソニックシリーズのコンピュータゲーム "wikilink") [Category:タイムトラベルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.
 2.  [当時の声担当者によるTwitterでの発言](https://twitter.com/Mazin__/status/597905450147819520?p=v)

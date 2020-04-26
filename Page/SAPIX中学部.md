@@ -46,8 +46,8 @@ SAPIX中学部を経営しているサピエンス研究所が経営している
 ## 校舎
 
   - 東京都：東京校（[人形町駅](../Page/人形町駅.md "wikilink")）・[荻窪校](https://ja.wikipedia.org/wiki/杉並区 "wikilink")・[成城](../Page/成城.md "wikilink")校・[練馬校](https://ja.wikipedia.org/wiki/練馬区 "wikilink")・[自由が丘](../Page/自由が丘.md "wikilink")校・[成増](../Page/成増.md "wikilink")校・[明大前校](https://ja.wikipedia.org/wiki/明大前駅 "wikilink")・[高田馬場](../Page/高田馬場.md "wikilink")校・[大井町校](https://ja.wikipedia.org/wiki/大井町駅 "wikilink")・[国立校](../Page/国立市.md "wikilink")・[田無校](../Page/西東京市.md "wikilink")・[三鷹校](../Page/三鷹市.md "wikilink")・[調布校](../Page/調布市.md "wikilink")・[町田校](../Page/町田市.md "wikilink")・[渋谷](../Page/渋谷.md "wikilink")校
-  - 神奈川県：[横浜](../Page/横浜.md "wikilink")校・[たまプラーザ](https://ja.wikipedia.org/wiki/たまプラーザ "wikilink")校・[日吉](https://ja.wikipedia.org/wiki/日吉 "wikilink")校
-  - 千葉県：[松戸](https://ja.wikipedia.org/wiki/松戸 "wikilink")校・[西船橋](https://ja.wikipedia.org/wiki/西船橋 "wikilink")校・[新浦安校](https://ja.wikipedia.org/wiki/新浦安駅 "wikilink")・[柏](https://ja.wikipedia.org/wiki/柏 "wikilink")校
+  - 神奈川県：[横浜](../Page/横浜.md "wikilink")校・[たまプラーザ](https://ja.wikipedia.org/wiki/たまプラーザ "wikilink")校・[日吉校](../Page/日吉_\(横浜市\).md "wikilink")
+  - 千葉県：[松戸校](https://ja.wikipedia.org/wiki/松戸市 "wikilink")・[西船橋](https://ja.wikipedia.org/wiki/西船橋 "wikilink")校・[新浦安校](https://ja.wikipedia.org/wiki/新浦安駅 "wikilink")・[柏校](https://ja.wikipedia.org/wiki/柏市 "wikilink")
   - 埼玉県：[南浦和校](https://ja.wikipedia.org/wiki/南区_\(さいたま市\) "wikilink")・[大宮校](https://ja.wikipedia.org/wiki/大宮区 "wikilink")
   - 兵庫県：[西宮北口校](https://ja.wikipedia.org/wiki/西宮北口駅 "wikilink")
 

@@ -92,7 +92,7 @@
   - [成田梨紗](../Page/成田梨紗.md "wikilink")（元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")。オフィス斬にも所属していた） - 後にオフィス斬に完全移籍。
   - [江利塚たまみ](https://ja.wikipedia.org/wiki/江利塚たまみ "wikilink")（ミヤギテレビ『OH\!バンデス』などに出演） - 2010年より[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")の[ビーエフエム](../Page/ビーエフエム.md "wikilink")に所属。
   - [新海史子](https://ja.wikipedia.org/wiki/新海史子 "wikilink")（プロフィギュアスケーターとしても活動） - 2011年に[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")に入社、アナウンサーに転向。
-  - [安部香里](../Page/安部香里.md "wikilink")（[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")「[じゃじゃじゃTV](../Page/じゃじゃじゃTV.md "wikilink")」など）
+  - [安部香里](../Page/安部香里.md "wikilink")（[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")「[じゃじゃじゃTV](../Page/じゃじゃじゃTV.md "wikilink")」など）
   - [星奈美](https://ja.wikipedia.org/wiki/星奈美 "wikilink")（[キャベツ](../Page/宮城ネットワーク.md "wikilink")「[スキダッちゃ\!\!](https://ja.wikipedia.org/wiki/スキダッちゃ!! "wikilink")」など）
   - [堀米智也](../Page/堀米智也.md "wikilink")（ミヤギテレビ「OH\!バンデス」など）
   - [真野みづほ](../Page/真野みづほ.md "wikilink")（ミヤギテレビ「OH\!バンデス」など）

@@ -27,6 +27,6 @@
 
 ## 脚注
 
-[Category:Crystal_Kayの楽曲](https://ja.wikipedia.org/wiki/Category:Crystal_Kayの楽曲 "wikilink") [Category:H.U.B.が制作した楽曲](https://ja.wikipedia.org/wiki/Category:H.U.B.が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:Crystal_Kayの楽曲](https://ja.wikipedia.org/wiki/Category:Crystal_Kayの楽曲 "wikilink") [Category:H.U.B.が制作した楽曲](https://ja.wikipedia.org/wiki/Category:H.U.B.が制作した楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.  [Crystal Kayの名曲、着うたフルチャート急上昇](http://www.excite.co.jp/music/news/story/65375/)、エキサイトミュージック、2009年8月11日。

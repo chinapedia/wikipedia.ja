@@ -82,4 +82,4 @@ AC（アフターコロニー）196年。ロームフェラ財団の戦争推進
 
   - [ガンダムシリーズの登場機動兵器一覧](https://ja.wikipedia.org/wiki/ガンダムシリーズの登場機動兵器一覧 "wikilink")
 
-[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink")
+[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink")

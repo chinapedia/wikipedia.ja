@@ -1,7 +1,7 @@
 > この記事は[Splurge](https://ja.wikipedia.org/wiki/Splurge)から翻訳されています。
 
 
-『**Splurge**』（スプラージ）は、[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の9枚目の[アルバム](../Page/アルバム.md "wikilink")。 デビュー10周年記念アルバム。
+『**Splurge**』（スプラージ）は、[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売した[PUFFY](../Page/PUFFY.md "wikilink")の8枚目の[アルバム](../Page/アルバム.md "wikilink")。 デビュー10周年記念アルバム。
 
 ## 収録曲
 
@@ -28,7 +28,7 @@
       -
         作詞・作曲：[草野正宗](../Page/草野マサムネ.md "wikilink")　プロデュース・ベース：[根岸孝旨](../Page/根岸孝旨.md "wikilink")
         ギター・コーラス：[奥田民生](../Page/奥田民生.md "wikilink")、ドラム：[古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")、キーボード：柴田俊文
-          - 『[愛のしるし](../Page/愛のしるし.md "wikilink")』以来となる[スピッツの草野正宗提供曲](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")。
+          - 『[愛のしるし](../Page/愛のしるし.md "wikilink")』以来となる[スピッツの草野正宗提供曲](../Page/スピッツ_\(バンド\).md "wikilink")。
           - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[ムーヴラテ](../Page/ダイハツ・ムーヴ.md "wikilink")」CMソング（「デラックスリラックス」篇）
 6.  **女マシンガン**
       -

@@ -264,7 +264,7 @@ Googleの[オンラインストレージ](../Page/オンラインストレージ
 
 ### Google Play Music
 
-[クラウド](https://ja.wikipedia.org/wiki/クラウド "wikilink")を利用した、音楽共有、保存サービス。 現在は英語版のみ。
+[クラウド](https://ja.wikipedia.org/wiki/クラウド "wikilink")を利用した、音楽共有、保存サービス。後継サービスとなる[YouTube Musicと統合される予定となっている](https://ja.wikipedia.org/wiki/YouTube_Music "wikilink")。
 
 ### Blogger
 

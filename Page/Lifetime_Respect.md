@@ -42,7 +42,7 @@
 
 ## 脚注
 
-[Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:徳間ジャパンコミュニケーションズのシングル](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:ハ長調](https://ja.wikipedia.org/wiki/Category:ハ長調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:徳間ジャパンコミュニケーションズのシングル](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのシングル "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.  [レゲエをうたう三木道三、チャートをにぎわす](https://web.archive.org/web/20010802055028/http://www.sanspo.com/music/top/m0107/g_top2001072204.html)、SANSPO.COM、2001年7月21日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.

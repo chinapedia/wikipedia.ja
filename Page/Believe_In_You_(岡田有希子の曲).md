@@ -22,4 +22,4 @@
         「贈りもの」収録のものと同じバージョン
 3.  Believe In You (2003 Strings Version/[インストゥルメンタル](../Page/器楽曲.md "wikilink"))
 
-[Category:岡田有希子の楽曲](https://ja.wikipedia.org/wiki/Category:岡田有希子の楽曲 "wikilink") [Category:1984年の楽曲](https://ja.wikipedia.org/wiki/Category:1984年の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink")
+[Category:岡田有希子の楽曲](https://ja.wikipedia.org/wiki/Category:岡田有希子の楽曲 "wikilink") [Category:1984年の楽曲](https://ja.wikipedia.org/wiki/Category:1984年の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink")

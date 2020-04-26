@@ -1,4 +1,4 @@
-> この記事は[SU-76i \(\)](https://ja.wikipedia.org/wiki/SU-76i_\(\))から翻訳されています。
+> この記事は[SU-76i \(自走砲\)](https://ja.wikipedia.org/wiki/SU-76i_\(自走砲\))から翻訳されています。
 
 
 **SU-76i**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[自走砲](../Page/自走砲.md "wikilink")。[ドイツ軍から](../Page/ドイツ国防軍.md "wikilink")[鹵獲](../Page/鹵獲.md "wikilink")した[III号戦車](../Page/III号戦車.md "wikilink")をベースに、[1943年](../Page/1943年.md "wikilink")4月-11月の間に改造・生産された。第37工場（第38工場説もあり）で200輌前後が完成した。

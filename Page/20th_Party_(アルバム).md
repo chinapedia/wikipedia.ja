@@ -1,4 +1,4 @@
-> この記事は[20th Party \(\)](https://ja.wikipedia.org/wiki/20th_Party_\(\))から翻訳されています。
+> この記事は[20th Party \(アルバム\)](https://ja.wikipedia.org/wiki/20th_Party_\(アルバム\))から翻訳されています。
 
 
 『**20th Party**』（トゥウェンティース・パーティー）は、[松田聖子](../Page/松田聖子.md "wikilink")（通算33枚目）の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。2000年6月28日発売。発売元は[マーキュリー・ミュージックエンタテインメント](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

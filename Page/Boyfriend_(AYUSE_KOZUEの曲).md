@@ -1,4 +1,4 @@
-> この記事は[Boyfriend \(AYUSE KOZUE\)](https://ja.wikipedia.org/wiki/Boyfriend_\(AYUSE_KOZUE\))から翻訳されています。
+> この記事は[Boyfriend \(AYUSE KOZUEの曲\)](https://ja.wikipedia.org/wiki/Boyfriend_\(AYUSE_KOZUEの曲\))から翻訳されています。
 
 
 「**boyfriend**」（ボーイフレンド）は[AYUSE KOZUEの](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")発売。発売元は[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

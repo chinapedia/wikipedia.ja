@@ -1,4 +1,4 @@
-> この記事は[Fairy \(\)](https://ja.wikipedia.org/wiki/Fairy_\(\))から翻訳されています。
+> この記事は[Fairy \(アルバム\)](https://ja.wikipedia.org/wiki/Fairy_\(アルバム\))から翻訳されています。
 
 
 『**fairy**』（フェアリー）は、[松田聖子](../Page/松田聖子.md "wikilink")（通算38枚目）の[オリジナルアルバム](../Page/アルバム.md "wikilink")。2005年4月6日発売。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

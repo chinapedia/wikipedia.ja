@@ -1,4 +1,4 @@
-> この記事は[@MOVIE](https://ja.wikipedia.org/wiki/@MOVIE)から翻訳されています。
+> この記事は[萌えキュン@MOVIE〜猫耳少女キキ](https://ja.wikipedia.org/wiki/萌えキュン@MOVIE〜猫耳少女キキ)から翻訳されています。
 
 
 『**萌えキュン@MOVIE**』（もえきゆんあつとむうひい）は、日本の[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")シリーズ。
@@ -67,4 +67,4 @@
 
   - [萌えキュン@MOVIE](https://archive.fo/sitHE)
 
-[Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:日本の映画のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の映画のシリーズ "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:おたくを主題とする作品](https://ja.wikipedia.org/wiki/Category:おたくを主題とする作品 "wikilink")
+[Category:2006年の映画](https://ja.wikipedia.org/wiki/Category:2006年の映画 "wikilink") [Category:日本の映画のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の映画のシリーズ "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:おたくを主題とする映画作品](https://ja.wikipedia.org/wiki/Category:おたくを主題とする映画作品 "wikilink")

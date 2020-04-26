@@ -1,0 +1,557 @@
+> この記事は[Osaka Metro中央線](https://ja.wikipedia.org/wiki/Osaka_Metro中央線)から翻訳されています。
+
+
+**中央線**（ちゅうおうせん）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")の[コスモスクエア駅](https://ja.wikipedia.org/wiki/コスモスクエア駅 "wikilink")から大阪府[東大阪市](../Page/東大阪市.md "wikilink")の[長田駅までを結ぶ](https://ja.wikipedia.org/wiki/長田駅_\(大阪府\) "wikilink")[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") (Osaka Metro) の路線。正式名称は**高速電気軌道第4号線**と称し、『[鉄道要覧](../Page/鉄道要覧.md "wikilink")』では**4号線（中央線）**と記載されている。[駅番号を表す際に用いられる路線記号は](../Page/駅ナンバリング.md "wikilink")「**C**」。
+
+路線愛称の由来は[中央大通](../Page/中央大通.md "wikilink")の地下を走ることから。[ラインカラーは](https://ja.wikipedia.org/wiki/日本の鉄道ラインカラー一覧 "wikilink")[大阪城公園](../Page/大阪城公園.md "wikilink")の木々をイメージした[緑](../Page/緑.md "wikilink")（スペクトリウムグリーン [Osaka_Metro_Chuo_line_symbol.svg](https://ja.wikipedia.org/wiki/File:Osaka_Metro_Chuo_line_symbol.svg "fig:Osaka_Metro_Chuo_line_symbol.svg")）である。なお、[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")（近鉄）の[けいはんな線の](../Page/近鉄けいはんな線.md "wikilink")[学研奈良登美ヶ丘駅](../Page/学研奈良登美ヶ丘駅.md "wikilink")までの開通・相互直通運転実施を機に、両線と併せて「**[ゆめはんな](../Page/ゆめはんな.md "wikilink")**」の愛称が名付けられている。
+
+## 概要
+
+大阪市中心部の[船場のほぼ中央を横断する](../Page/船場_\(大阪市\).md "wikilink")[中央大通](../Page/中央大通.md "wikilink")に沿って走り、[大阪港](../Page/大阪港.md "wikilink")に至る。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に一部区間が開通して以来、大阪市街の東西方向の交通を担っている。[2005年](../Page/2005年.md "wikilink")にコスモスクエア駅 - [大阪港駅](https://ja.wikipedia.org/wiki/大阪港駅 "wikilink")間の運営が[大阪港トランスポートシステム](../Page/大阪港トランスポートシステム.md "wikilink") (OTS) から[大阪市交通局](https://ja.wikipedia.org/wiki/大阪市交通局 "wikilink")に移管されて同区間が中央線に編入（[後述](https://ja.wikipedia.org/wiki/#OTSテクノポート線の編入 "wikilink")）されてからは、[ニュートラムを含めた大阪市交通局](../Page/Osaka_Metro南港ポートタウン線.md "wikilink")（2018年4月からはOsaka Metro）のすべての路線との乗り換えが可能な唯一の路線となっている。
+
+2004年度当時の大阪市営地下鉄の各線で5番目に利用者が多い。また、2008年度の経常収支では[御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")、[谷町線に次ぐ黒字を達成している](https://ja.wikipedia.org/wiki/Osaka_Metro谷町線 "wikilink")（[大阪市営地下鉄の経営状況も参照](https://ja.wikipedia.org/wiki/大阪市営地下鉄#経営状況 "wikilink")）。大阪市街において南側の[千日前通](../Page/千日前通.md "wikilink")を走る[阪神なんば線](https://ja.wikipedia.org/wiki/阪神なんば線 "wikilink")・[近鉄難波線](../Page/近鉄難波線.md "wikilink")・[近鉄奈良線](https://ja.wikipedia.org/wiki/近鉄奈良線 "wikilink")とは、近鉄が乗り入れている路線同士でありながら[九条駅](../Page/九条駅_\(大阪府\).md "wikilink") - [生駒駅](https://ja.wikipedia.org/wiki/生駒駅 "wikilink")間で競合関係にあるが、両路線間では路線の使命が異なるため、本格的な競争は行っていない。
+
+ラインカラーの由来は大阪城公園とされており、[森ノ宮駅](https://ja.wikipedia.org/wiki/森ノ宮駅 "wikilink")前から[本町通](https://ja.wikipedia.org/wiki/本町通 "wikilink")と分岐する城南交差点までの区間で同公園の南縁を走っている。
+
+[2025年](../Page/2025年.md "wikilink")の[万国博覧会](https://ja.wikipedia.org/wiki/万国博覧会 "wikilink")の開催地が大阪に決定した事を受け、万博開催に向けて同区間には万博の会場が建設される予定であることから、コスモスクエア駅より延伸した上で万博会場（[夢洲](../Page/夢洲.md "wikilink")）のためのアクセス鉄道にもなる予定である（[延伸計画も参照](https://ja.wikipedia.org/wiki/#延伸計画 "wikilink")）。
+
+Osaka Metroの[駅番号は原則として起点駅を](../Page/駅ナンバリング.md "wikilink")11としているが、コスモスクエア駅 - 大阪港駅間が大阪港トランスポートシステムから編入されたという経緯により、大阪港駅の駅番号が11で、コスモスクエア駅の駅番号が10となっている。また、この歴史的経緯により、距離を示す[キロポストが](../Page/距離標.md "wikilink")2つに分かれている（矢印の方向にキロ数が増える）。
+
+  - （南港ポートタウン線中ふ頭駅←）コスモスクエア駅←大阪港駅：OTSの南港・港区連絡線として開通した区間を大阪港起点でキロポストを打っているため。
+  - 大阪港駅→長田駅：大阪港起点でキロポストを打っているため。
+
+### 路線データ
+
+  - 管轄・路線距離（実キロ）：全長 17.9 [km](../Page/キロメートル.md "wikilink")（[営業キロ](../Page/営業キロ.md "wikilink")（運賃計算キロ）も同じ）
+      - [大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")（[第二種鉄道事業](https://ja.wikipedia.org/wiki/鉄道事業者#第二種鉄道事業 "wikilink")）・[大阪港トランスポートシステム](../Page/大阪港トランスポートシステム.md "wikilink")（[第三種鉄道事業](https://ja.wikipedia.org/wiki/鉄道事業者#第三種鉄道事業 "wikilink")）
+          - コスモスクエア駅 - 大阪港駅間 2.4 km
+      - 大阪市高速電気軌道（[軌道事業](../Page/軌道法.md "wikilink")）
+          - 大阪港駅 - 長田駅間 15.5 km
+  - [軌間](../Page/軌間.md "wikilink")：1435 [mm](../Page/ミリメートル.md "wikilink")
+  - 駅数：14駅（起終点駅含む）
+  - [複線](https://ja.wikipedia.org/wiki/複線 "wikilink")区間：全線
+  - [電化区間](../Page/鉄道の電化.md "wikilink")：全線電化（直流 750 [V](../Page/ボルト_\(単位\).md "wikilink")・[第三軌条方式](../Page/第三軌条方式.md "wikilink")）
+  - 地上区間：大阪港駅 - 九条駅間
+  - [閉塞方式](../Page/閉塞_\(鉄道\).md "wikilink")：自動閉塞式
+  - 保安装置：[WS-ATC](../Page/自動列車制御装置.md "wikilink")
+  - 最高速度：70 [km/h](../Page/キロメートル毎時.md "wikilink")\[1\]
+  - 最大編成両数：6両（1984年 - ）
+  - ホーム最大対応編成両数：8両
+  - 車内案内装置設置率：100%
+  - [混雑率](https://ja.wikipedia.org/wiki/定員#混雑率・乗車率 "wikilink")（コスモスクエア方面行き）：144%（2017年度：森ノ宮駅→谷町四丁目駅間）\[2\]
+  - 混雑率（長田・学研奈良登美ヶ丘方面行き）：80%（2017年度：本町駅→堺筋本町駅間）\[3\]
+
+## 沿線概況
+
+始点の[コスモスクエア駅](https://ja.wikipedia.org/wiki/コスモスクエア駅 "wikilink")は[大阪港咲洲トンネル](../Page/大阪港咲洲トンネル.md "wikilink")の[咲洲](../Page/咲洲.md "wikilink")側出入口付近にあり、[南港ポートタウン線](../Page/Osaka_Metro南港ポートタウン線.md "wikilink")（ニュートラム）と接続している。中央線は地下2階から発着している\[4\]。同駅を出て北東に進み、道路併用[トンネル](../Page/トンネル.md "wikilink")である大阪港咲洲トンネルを通る。このトンネルは箇体部分を先に地上で造り、それを海底に沈めて繋ぎ合わせる[沈埋工法で建設された](../Page/沈埋トンネル.md "wikilink")。当初は海底トンネルの構想であったが、[高架駅](../Page/高架駅.md "wikilink")である大阪港駅から海底までの勾配がきつくなる（現在の沈埋トンネルでも40[‰の急勾配である](../Page/パーミル.md "wikilink")）ため、工法が変更された経緯がある。
+
+大阪港駅手前から東、[阿波座駅](https://ja.wikipedia.org/wiki/阿波座駅 "wikilink")手前までは高架線で、[朝潮橋駅](https://ja.wikipedia.org/wiki/朝潮橋駅 "wikilink")の手前まで[みなと通](../Page/みなと通.md "wikilink")（[国道172号](../Page/国道172号.md "wikilink")）の、朝潮橋駅から阿波座駅の手前まで[中央大通](../Page/中央大通.md "wikilink")（[大阪市道築港深江線](../Page/大阪市道築港深江線.md "wikilink")）の中央分離帯上を進んでいく。この区間を高架とした理由は、浸水被害の可能性（当時は台風や高潮による浸水に何度も見舞われていたほか、江戸時代には[南海地震](https://ja.wikipedia.org/wiki/南海地震 "wikilink")による津波被害を受けたこともあった）、地盤沈下への対策（不等沈下によりトンネルに高低差ができ、排水が困難になる）、地層が大量の塩分を含む[シルト](../Page/シルト.md "wikilink")層であったことである。地盤沈下対策のため高架部分は[ラーメン構造にせず](../Page/ラーメン_\(骨組\).md "wikilink")、[PC桁を連続して架設している](../Page/プレストレスト・コンクリート.md "wikilink")\[5\]。
+
+トンネルを出て高架線に入ると大阪港駅に到着する。駅周辺は[大阪港](../Page/大阪港.md "wikilink")（築港地区）として大阪で最初に完成した港であり、[明石海峡大橋](../Page/明石海峡大橋.md "wikilink")の開通前は[淡路島](../Page/淡路島.md "wikilink")や[四国](../Page/四国.md "wikilink")方面へ向かう高速船とも接続していた。平成に入ってからは[海遊館](../Page/海遊館.md "wikilink")などがある[天保山ハーバービレッジ](../Page/天保山ハーバービレッジ.md "wikilink")などが開業し、大阪における[ウォーターフロント](../Page/ウォーターフロント.md "wikilink")開発の一大拠点となっている。同駅を出ると、天保山運河を渡りながら[阪神高速道路](https://ja.wikipedia.org/wiki/阪神高速道路 "wikilink")[天保山ジャンクションの下を通る](../Page/天保山出入口.md "wikilink")。かつてはこの付近で[大阪臨港線](https://ja.wikipedia.org/wiki/大阪臨港線 "wikilink")とも立体交差していた（今でもその部分は鋼桁のままである）。さらに高架線を進み、右手に[八幡屋商店街](https://ja.wikipedia.org/wiki/八幡屋商店街 "wikilink")、左手に[大阪市中央体育館](../Page/大阪市中央体育館.md "wikilink")（大阪国際見本市会場跡地）が見えると、左にカーブしてみなと通（国道172号）と分かれ、高架線が中央大通に入ったところで朝潮橋駅に到着する。かつてはこの駅の南側に[港検車場](https://ja.wikipedia.org/wiki/港検車場 "wikilink")があり、単線分岐していた。ここから先は[阪神高速16号大阪港線](../Page/阪神高速16号大阪港線.md "wikilink")と一体化した高架区間を走行する。右にカーブして進むと、JR[大阪環状線](../Page/大阪環状線.md "wikilink")と接続する[弁天町駅](https://ja.wikipedia.org/wiki/弁天町駅 "wikilink")で、ホームは[阪神高速17号西大阪線](../Page/阪神高速17号西大阪線.md "wikilink")の上にある。そのまま進むと、[阪神なんば線](https://ja.wikipedia.org/wiki/阪神なんば線 "wikilink")と接続する[九条駅に到着する](../Page/九条駅_\(大阪府\).md "wikilink")。しばらく進むと右にカーブして、進路が北東からほぼ東に変わる。[木津川を渡った先で地下に入ると](../Page/木津川_\(大阪府\).md "wikilink")、[千日前線と接続する阿波座駅に到着する](https://ja.wikipedia.org/wiki/Osaka_Metro千日前線 "wikilink")。駅西側の地下線進入口には防潮扉がある。
+
+阿波座駅から東の地下区間は、中央大通の下を通る。同通と併行して、阪神高速16号大阪港線、[13号東大阪線が真上の高架部分を走る](../Page/阪神高速13号東大阪線.md "wikilink")。
+
+阿波座駅の東で千日前線との連絡線と合流し、[四つ橋線との連絡線分岐点を過ぎる](../Page/Osaka_Metro四つ橋線.md "wikilink")。上下線が広く分かれたところで[御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")・四つ橋線と接続する本町駅に、続いて[堺筋線と接続する](https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線 "wikilink")[堺筋本町駅](https://ja.wikipedia.org/wiki/堺筋本町駅 "wikilink")に到着する。本町駅から堺筋本町駅にかけては古くから大阪の中心として栄えた[船場にあたり](../Page/船場_\(大阪市\).md "wikilink")、現在も周辺は[中心業務地区](../Page/中心業務地区.md "wikilink")の一つとしてオフィス街になっている。中央線も[船場センタービル](../Page/船場センタービル.md "wikilink")の真下を走る。堺筋本町駅の東で東横堀川をくぐり、しばらく東進すると、[谷町線と接続する](https://ja.wikipedia.org/wiki/Osaka_Metro谷町線 "wikilink")[谷町四丁目駅](https://ja.wikipedia.org/wiki/谷町四丁目駅 "wikilink")に到着する。駅周辺は[大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")の西（[大手前](../Page/大手前.md "wikilink")）に広がる官庁街で、同駅は[大阪府庁](../Page/大阪府庁.md "wikilink")[本庁舎](../Page/大阪府庁舎.md "wikilink")、[大阪府警察](https://ja.wikipedia.org/wiki/大阪府警察 "wikilink")本部庁舎のほか、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")、[国立病院大阪医療センター](https://ja.wikipedia.org/wiki/独立行政法人国立病院機構大阪医療センター "wikilink")、[難波宮](../Page/難波宮.md "wikilink")跡の最寄り駅である。谷町線への連絡線と合流し、[大阪城公園](../Page/大阪城公園.md "wikilink")の南縁付近を東に進むと、[長堀鶴見緑地線](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink")・JR大阪環状線と接続する[森ノ宮駅](https://ja.wikipedia.org/wiki/森ノ宮駅 "wikilink")に到着する。駅の北東側には中央線のほかに谷町線・千日前線の車両の検査などを担当する[森之宮検車場](https://ja.wikipedia.org/wiki/森之宮検車場 "wikilink")と、JR大阪環状線の車両基地である[吹田総合車両所](https://ja.wikipedia.org/wiki/吹田総合車両所 "wikilink")森ノ宮支所がある。
+
+さらに東に進み[平野川](../Page/平野川.md "wikilink")をくぐると[今里筋線と接続する](https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線 "wikilink")[緑橋駅](https://ja.wikipedia.org/wiki/緑橋駅 "wikilink")に、さらに平野川分水路（城東運河）をくぐると[深江橋駅](https://ja.wikipedia.org/wiki/深江橋駅 "wikilink")に到着する。[東大阪市](../Page/東大阪市.md "wikilink")に入ると、JR[おおさか東線](../Page/おおさか東線.md "wikilink")[高井田中央駅](https://ja.wikipedia.org/wiki/高井田中央駅 "wikilink")と接続する[高井田駅を過ぎ](https://ja.wikipedia.org/wiki/高井田駅_\(大阪府東大阪市\) "wikilink")、[長瀬川と](../Page/長瀬川_\(大阪府\).md "wikilink")[第二寝屋川](../Page/第二寝屋川.md "wikilink")の下を通って、終点の[長田駅に到着する](https://ja.wikipedia.org/wiki/長田駅_\(大阪府\) "wikilink")。中央線は同駅が終点であるが、一部を除くほぼ全列車が[近鉄けいはんな線](../Page/近鉄けいはんな線.md "wikilink")[生駒駅](https://ja.wikipedia.org/wiki/生駒駅 "wikilink")・[学研奈良登美ヶ丘駅](../Page/学研奈良登美ヶ丘駅.md "wikilink")に直通する。
+
+OsakaSubway-20-Osakako Station.JPG|大阪港駅付近を走行する20系電車。上は阪神高速道路の天保山ジャンクション。
+（2006年6月28日） Bentencho station 0357.jpg|弁天町駅における大阪環状線（下）と中央線（上）の交差部分。橋脚の共有は交通局側が申し入れ、共同で設計された。
+（2010年8月21日） Kousei.JPG|大阪港駅 - 朝潮橋駅間の高架線上を行く[近鉄7020系電車](../Page/近鉄7020系電車.md "wikilink")
+（2011年5月30日）
+
+## 運行形態
+
+長田駅から[近鉄けいはんな線](../Page/近鉄けいはんな線.md "wikilink")[学研奈良登美ヶ丘駅](../Page/学研奈良登美ヶ丘駅.md "wikilink")まで相互直通運転を行っている。運転間隔は朝ラッシュ時は3分45秒間隔（2018年3月24日以降は最短3分15秒間隔）、昼間時間帯は7分30秒間隔（1時間8本）で、半数の列車はけいはんな線生駒駅で折り返す。そのほか朝夕ラッシュ時に車両基地のある森ノ宮駅発着の区間列車、早朝と夜に長田駅 - コスモスクエア駅間の線内折り返し列車が少数設定されている。
+
+近鉄けいはんな線生駒駅 - 学研奈良登美ヶ丘駅間が[2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に開業し、運転区間が延びたことと、近鉄線内でのワンマン運転開始に伴って駅における停車時間が伸びたことから、所要時間の短縮のため近鉄けいはんな線内では最高速度が 70 km/h から 95 km/h に引き上げられた。これは第三軌条方式を採用している日本国内の鉄道路線では最高速度である。なお、快速列車の運転も検討されていた\[6\]が見送られた。
+
+乗務員の交代は[森ノ宮駅](https://ja.wikipedia.org/wiki/森ノ宮駅 "wikilink")と長田駅（長田駅ではOsaka Metroと近鉄の運転士が交代）で行われる。
+
+中央線は、御堂筋線を除いた第三軌条方式の全路線と線路が結ばれており、森之宮検車場への入出庫の関係で森之宮検車場所属となっている千日前線の車両がラッシュ時前後を中心に[阿波座駅](https://ja.wikipedia.org/wiki/阿波座駅 "wikilink") - 森ノ宮駅間で毎日、森之宮工場で車両検査を行う谷町線の車両が[谷町四丁目駅](https://ja.wikipedia.org/wiki/谷町四丁目駅 "wikilink") - 森ノ宮駅間でそれぞれ回送列車として、また、森之宮工場での検査後の試運転で千日前線と谷町線の車両が森ノ宮駅 - 大阪港駅間を走行することがある。2016年から第三軌条路線の定期検査等は四つ橋線の緑木検車場で実施されることになったが、谷町線、千日前線の車両も当路線の森ノ宮駅 - 本町駅間を経由して四つ橋線へと乗り入れる形となっている。2018年には谷町線から転用された四つ橋線の車両（23系第56編成）が森之宮検車場で改造が実施されたため、試運転で中央線を走行したこともある\[7\]。
+
+20系・24系ともに学研奈良登美ヶ丘駅まで乗り入れており、大阪市高速電気軌道所有の車両が日常的に大阪府外の[奈良県](../Page/奈良県.md "wikilink")へ直通する唯一の路線である。
+
+## 旅客案内
+
+[LCD_in_Morinomiya_Station_Track_1.jpg](https://ja.wikipedia.org/wiki/File:LCD_in_Morinomiya_Station_Track_1.jpg "fig:LCD_in_Morinomiya_Station_Track_1.jpg") 2006年末の時点では当時の大阪市営地下鉄では唯一、ホームの列車案内表示装置がコスモスクエア駅を除いて旧型の行灯式だったが（コスモスクエア駅と御堂筋線・谷町線・四つ橋線・堺筋線・長堀鶴見緑地線の各駅は[LED式](../Page/発光ダイオード.md "wikilink")、千日前線・今里筋線各駅はフルカラー[LCD式](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")）、2007年1月になり各駅で列車案内表示装置の更新工事が始まり、同年3月に比較的新しかったコスモスクエア駅の列車案内表示装置も交換され、全駅の更新が完了した。更新された列車案内表示装置は、千日前線と今里筋線でも採用された液晶式である。
+
+また、2007年1月10日 - 12日に発車ベルが作動する駅のみ[発車メロディ](../Page/発車メロディ.md "wikilink")が導入されたが、同年3月24日に発車ベルがなかった駅にも発車メロディが導入され、全駅への導入が完了した。この日は同時にホームの自動列車接近放送が御堂筋線タイプに英語放送を追加したものに更新され、さらに列車案内表示装置は多様な文字情報が表示されるようになった。
+
+## 車両
+
+### 自社車両
+
+| 系列                                       | 画像                                                                                                                        | 使用期間    |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [24系](../Page/大阪市交通局20系電車.md "wikilink") | [OsakaSubway24Series01.jpg](https://ja.wikipedia.org/wiki/File:OsakaSubway24Series01.jpg "fig:OsakaSubway24Series01.jpg") | 1991年 - |
+| [20系](../Page/大阪市交通局20系電車.md "wikilink") | [OsakaSubway20Series01.jpg](https://ja.wikipedia.org/wiki/File:OsakaSubway20Series01.jpg "fig:OsakaSubway20Series01.jpg") | 1984年 - |
+
+けいはんな線[生駒駅](https://ja.wikipedia.org/wiki/生駒駅 "wikilink") - 学研奈良登美ヶ丘駅間開業を前にして、2006年に谷町線所属の20系9編成 (2631 - 2639F) が転入。これと入れ替わる形で、中央線所属の24系9編成 (24605 - 24611・651・652F) が谷町線に転出し22系50番台 (22655 - 22663F) となった。
+
+651・652Fは元[大阪港トランスポートシステム](../Page/大阪港トランスポートシステム.md "wikilink") (OTS) 所属編成。大阪市に移籍後OTSの文字が消されたが、谷町線に転属するまでOTS時代の塗装はそのままだった。転属後は谷町線カラーに変更されたが、内装はOTS時代のままである。近鉄けいはんな線生駒駅 - 学研奈良登美ヶ丘駅間開業前の2006年3月以前に転属したため、この区間に営業列車で乗り入れたことはない。
+
+24656Fは、四つ橋線23系23606Fにリフレッシュ工事とけいはんな線乗り入れ対応改造を施工した上で中央線に転用したものである。この編成と入れ替わる形で2601Fが運用を終了している。
+
+これらすべての車両には、後述の近鉄車両と同様、[生駒トンネル](../Page/生駒トンネル.md "wikilink")内にある連続勾配に備えて、[抑速制動を完備している](https://ja.wikipedia.org/wiki/抑速ブレーキ "wikilink")（過去に使用された30系・50系も同じ）。
+
+2018年8月1日にOsaka Metroから民営化後初の新型車両「40000系」（仮称）を導入することが発表された\[8\]\[9\]。
+
+### 乗り入れ車両
+
+当線に乗り入れる[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")の車両。
+
+| 系列                                       | 画像                                                                                                                                                    | 使用期間    |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [7020系](../Page/近鉄7020系電車.md "wikilink") | [Kintetsu_7124_at_Kujo_Station.jpg](https://ja.wikipedia.org/wiki/File:Kintetsu_7124_at_Kujo_Station.jpg "fig:Kintetsu_7124_at_Kujo_Station.jpg") | 2004年 - |
+| [7000系](../Page/近鉄7000系電車.md "wikilink") | [Kintetsu_7108_at_Kujo_Station.jpg](https://ja.wikipedia.org/wiki/File:Kintetsu_7108_at_Kujo_Station.jpg "fig:Kintetsu_7108_at_Kujo_Station.jpg") | 1986年 - |
+
+### 過去の自局車両
+
+  - [6000形→800形](../Page/大阪市交通局6000形電車.md "wikilink")（1961年 - 1978年）
+  - [6100形→900形](../Page/大阪市交通局6000形電車.md "wikilink")（1964年 - 1978年）
+  - [50系](../Page/大阪市交通局5000形電車.md "wikilink")（1969年 - 1991年）
+  - [7000・8000形→30系](../Page/大阪市交通局30系電車.md "wikilink")（1967年 - 1969年、1984年 - 1995年）
+
+### 車両運用について
+
+どの列車がどちらの車両で運転されるかは、近鉄がダイヤ改正時に発刊している「近鉄時刻表」（中央線内のみで運転される列車は掲載されない）で判別できる。「近鉄時刻表」に記載されているけいはんな線の列車番号は[東京メトロの各線と同じような付与方を採用しており](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")（近鉄の他の鉄道路線とは列車番号の付与方が異なる）、列車番号の千位・百位は始発駅の発車時間帯を、十位・一位は車両の運用番号を表している。[2013年](../Page/2013年.md "wikilink")（平成25年）[3月23日](../Page/3月23日.md "wikilink")改正ダイヤにおける運用番号は、大阪市交通局所属車両（20系・24系）が01 - 、近鉄所属車両（7000系・7020系）が70 - 、となっている。東京メトロでは列車番号の頭に「A」「B」を付与して方向を区別しているが、けいはんな線では学研奈良登美ヶ丘方面行きには前述の法則に3000を加算した列車番号を付与して方向を区別している。
+
+なお、平日朝方に学研奈良登美ヶ丘駅始発の列車が増発された[2009年](../Page/2009年.md "wikilink")（平成21年）[8月30日](../Page/8月30日.md "wikilink")改正ダイヤにて、大阪市交通局所属車両1本がけいはんな線内で、また近鉄所属車両1本が中央線内でそれぞれ夜間留置となる「外泊運用」が設定されたが、2013年3月改正ダイヤにて外泊運用は再び設定されなくなった。
+
+## 利用状況
+
+2015年度決算における経常収支は約53億円の黒字、営業収支は約57億円の黒字、[営業係数](../Page/営業係数.md "wikilink")は66.0である。当時の大阪市営地下鉄全線で営業係数が70を下回っているのは当路線と御堂筋線 (44.8) のみである。
+
+また、2014年度の一日平均輸送人員は299,892人で、御堂筋線、谷町線、堺筋線に次ぐ第4位の輸送人員を記録している。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>収支状況[10]</p></th>
+<th><p>一日平均<br />
+輸送人員：人</p></th>
+<th><p>特記事項</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>経常収支：百万円</p></td>
+<td><p>営業収支：百万円</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>収益</p></td>
+<td><p>費用</p></td>
+<td><p>収支差引</p></td>
+<td><p>収益</p></td>
+</tr>
+<tr class="odd">
+<td><p>2002年（平成14年）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2006年（平成18年）</p></td>
+<td><p>14,797</p></td>
+<td><p>15,110</p></td>
+<td><p>△ 313</p></td>
+</tr>
+<tr class="odd">
+<td><p>2007年（平成19年）</p></td>
+<td><p>18,633</p></td>
+<td><p>14,745</p></td>
+<td><p>3,888</p></td>
+</tr>
+<tr class="even">
+<td><p>2008年（平成20年）</p></td>
+<td><p>18,205</p></td>
+<td><p>13,435</p></td>
+<td><p>4,770</p></td>
+</tr>
+<tr class="odd">
+<td><p>2009年（平成21年）</p></td>
+<td><p>18,164</p></td>
+<td><p>12,884</p></td>
+<td><p>5,280</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年（平成22年）</p></td>
+<td><p>17,901</p></td>
+<td><p>13,200</p></td>
+<td><p>4,701</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011年（平成23年）</p></td>
+<td><p>17,068</p></td>
+<td><p>13,507</p></td>
+<td><p>3,561</p></td>
+</tr>
+<tr class="even">
+<td><p>2012年（平成24年）</p></td>
+<td><p>16,858</p></td>
+<td><p>12,109</p></td>
+<td><p>4,749</p></td>
+</tr>
+<tr class="odd">
+<td><p>2013年（平成25年）</p></td>
+<td><p>17,187</p></td>
+<td><p>11,866</p></td>
+<td><p>5,321</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年（平成26年）</p></td>
+<td><p>18,399</p></td>
+<td><p>12,054</p></td>
+<td><p>6,345</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年（平成27年）</p></td>
+<td><p>17,329</p></td>
+<td><p>12,052</p></td>
+<td><p>5,277</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年（平成28年）</p></td>
+<td><p>17,680</p></td>
+<td><p>12,559</p></td>
+<td><p>5,121</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年（平成29年）</p></td>
+<td><p>18,075</p></td>
+<td><p>11,955</p></td>
+<td><p>6,120</p></td>
+</tr>
+</tbody>
+</table>
+
+## 歴史
+
+### OTSテクノポート線の編入
+
+コスモスクエア駅 - 大阪港駅間は[大阪港トランスポートシステム](../Page/大阪港トランスポートシステム.md "wikilink") (OTS) の**南港・港区連絡線（テクノポート線）**として[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に開業した。
+
+[大阪府咲洲庁舎](../Page/大阪府咲洲庁舎.md "wikilink")（コスモタワー、当時は大阪ワールドトレードセンタービルディング）や[アジア太平洋トレードセンター](../Page/アジア太平洋トレードセンター.md "wikilink") (ATC) などがある[南港コスモスクエア地区と大阪市中心部を結ぶ役割を担っているが](../Page/大阪港.md "wikilink")、運賃体系が別立て（2005年6月時点で大人全線230円均一）のため通算運賃が割高となり、利用者数が開業当初見込みより低迷していた。そこで、[大阪市営地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")と運賃体系を統一することで運賃を値下げして利用者増加を図ることになり、大阪港トランスポートシステムは2005年2月9日に鉄道事業廃止届を提出するとともに、テクノポート線大阪港駅 - コスモスクエア駅間の線路以外の施設・車両などを大阪市に売却し、第三種鉄道事業者として線路を大阪市交通局に貸与する形をとり、同年7月1日から大阪市交通局は第二種鉄道事業者として同区間を中央線の一部として運営することになった\[11\]\[12\]\[13\]。
+
+なお、それまで[弁天町と南港を結び](https://ja.wikipedia.org/wiki/弁天町駅 "wikilink")、OTS線に比べ運賃が安いため利用者もそれなりにいた[大阪市営バス](../Page/大阪市営バス.md "wikilink")の[44・44A系統](https://ja.wikipedia.org/wiki/大阪市営バス港営業所#44号系統 "wikilink")（弁天町バスターミナル - ポートタウン東駅前・南港バスターミナル）が、前述のOTS線移管に伴う運賃の値下げにより乗客が減少することが見込まれるため、2005年8月16日から運行経路と区間が変更され、本数もこれまでより削減された。詳細は「[大阪市営バス酉島営業所\#84号系統](https://ja.wikipedia.org/wiki/大阪市営バス酉島営業所#84号系統 "wikilink")」を参照。
+
+乗務員は大阪市交・OTS両社局ともコスモスクエア駅 - 長田駅間を通しで乗務していた。
+
+### 年表
+
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（[昭和](../Page/昭和.md "wikilink")36年）[12月11日](../Page/12月11日.md "wikilink")：4号線 大阪港駅 - 弁天町駅間 (3.1 km) が開業。この区間は大阪市交通局で初めての高架鉄道で、車両はクレーンによって直接高架に搬入された\[14\]。通常は単行（1両編成）運転であったが、朝潮橋で見本市開催時などは3両連結することもあった。当時御堂筋線は慢性的な混雑に悩まされており、乗客の少ないこの路線について、交通局内では、ドラ息子と言われていた。
+  - [1964年](../Page/1964年.md "wikilink")（昭和39年）[10月31日](../Page/10月31日.md "wikilink")：弁天町駅 - 本町駅（仮）間 (3.7 km) が開業。阿波座駅 - 本町駅（仮）間は単線運転。2両編成運転開始。
+  - [1967年](../Page/1967年.md "wikilink")（昭和42年）[9月30日](../Page/9月30日.md "wikilink")：谷町四丁目駅 - 森ノ宮駅間 (1.3 km) が開業。ATC・[列車集中制御装置](../Page/列車集中制御装置.md "wikilink") (CTC) 採用。2両編成運転。立ち退きが遅れたため本町駅 - 谷町四丁目駅間は未開通であり、4号線は東部と西部で分かれて運転していた。
+  - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）[7月29日](../Page/7月29日.md "wikilink")：森ノ宮駅 - 深江橋駅間 (2.3 km) が開業。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）
+      - [7月1日](../Page/7月1日.md "wikilink")：本町駅本駅完成 (+0.2 km)。本町駅部分は、旧来の船場地区の立ち退き後、船場センタービルおよび中央大通・阪神高速道路・地下鉄中央線本町駅を同時に建設するという大事業であった。この事業を映画化した『新しいまち船場・中央大通建設の記録』というフィルムがあり、大阪歴史博物館で見ることができる。
+      - [12月6日](../Page/12月6日.md "wikilink")：愛称が**中央線**に決まる。本町駅 - 谷町四丁目駅間 (1.7 km) が開業、これにより大阪港駅 - 深江橋駅間が貫通した。4両編成運転開始。1編成2両のみ配置されていた30系と7000・8000形電車が撤退。全線ATC・CTC化、[打子式ATS廃止](https://ja.wikipedia.org/wiki/自動列車停止装置#打子式ATS "wikilink")。
+  - [1984年](../Page/1984年.md "wikilink")（昭和59年）
+      - [11月5日](../Page/11月5日.md "wikilink")：30系電車投入。30系により6両編成運転開始\[15\]。
+      - [12月24日](../Page/12月24日.md "wikilink")：20系電車（6両編成）投入。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[4月5日](../Page/4月5日.md "wikilink")：深江橋駅 - 長田駅間 (3.2 km) が開業。この延伸によって初めて東大阪市まで地下鉄が路線を延ばすことになる。直前より50系の6両編成化も開始。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）
+      - [5月13日](../Page/5月13日.md "wikilink")：全列車6両編成化完了。
+      - [10月1日](../Page/10月1日.md "wikilink")：近鉄東大阪線（現在のけいはんな線）長田駅 - 生駒駅間が開業し、大阪港駅 - 生駒駅間で相互直通運転開始。
+  - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[6月11日](../Page/6月11日.md "wikilink")：24系電車運用開始。
+  - [1993年](../Page/1993年.md "wikilink")（平成5年）[12月31日](../Page/12月31日.md "wikilink")：大晦日の[終夜運転](../Page/終夜運転.md "wikilink")実施開始。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[12月18日](../Page/12月18日.md "wikilink")：OTSテクノポート線大阪港駅 - コスモスクエア駅間 (2.4 km) が正午に開業し、現在の中央線が全通。相互直通運転開始。
+      - それに伴うダイヤ改正は12月11日に実施され、開業までは「予行運転」の形で大阪港駅 - コスモスクエア駅間は回送列車として運転。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）7月1日：OTSテクノポート線を中央線に編入。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[3月27日](../Page/3月27日.md "wikilink")：近鉄けいはんな線生駒駅 - 学研奈良登美ヶ丘駅間が開業し、相互直通運転区間を学研奈良登美ヶ丘駅まで延長。
+      - それに伴うダイヤ改正は3月21日に実施され、3月26日までは「予行運転」の形で生駒駅 - 学研奈良登美ヶ丘駅間は回送列車として運転。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）[3月24日](../Page/3月24日.md "wikilink")：運転指令機能を輸送指令所に移転・統合。全駅発車メロディ導入。自動接近放送を御堂筋線タイプのものに更新。英語放送の機能も追加。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年）[8月30日](../Page/8月30日.md "wikilink")：平日朝方に学研奈良登美ヶ丘始発列車の拡大を中心としたダイヤ改正を実施。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）[3月23日](../Page/3月23日.md "wikilink")：ダイヤ改正を実施\[16\]。森ノ宮行きの上り終電を新設し、コスモスクエア23:57発とする。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）
+      - [3月24日](../Page/3月24日.md "wikilink")：ダイヤ改正を実施\[17\]。平日朝ラッシュ時の最短運転間隔を3分45秒から3分15秒に短縮。下り終電を29分繰り下げ、長田0:09発とする。長田行きの上り終電を11分繰り下げ、コスモスクエア23:48発とする。
+      - [4月1日](../Page/4月1日.md "wikilink")：大阪市営地下鉄の民営化により、大阪市高速電気軌道（Osaka Metro）の路線となる。
+
+※上記のキロ数は実キロ
+
+### 映画『高架線誕生』について
+
+中央線（大阪港駅 - 弁天町駅間）の起工式から開通式までの建設記録映画。廃止直前の[市電やその路線の撤去](../Page/大阪市電.md "wikilink")、スチームハンマーによる杭打ち、基礎工事、高架線建設、クレーンによる車両吊り上げ、当時の大阪市長[中井光次](../Page/中井光次.md "wikilink")によるテープカットなど、建設当時の様子を知ることができる貴重な映像が収められている。
+
+この映画の[16ミリフィルムは大阪市公文書館に保管されている](https://ja.wikipedia.org/wiki/16mmフィルム "wikilink")。なお、大阪市交通局の書庫にはオリジナルフィルムを転写した[VHS](../Page/VHS.md "wikilink")ビデオ（モノクロ・音声付き）が保管されており、[情報公開](../Page/情報公開.md "wikilink")請求により閲覧や[DVD](../Page/DVD.md "wikilink")転写による入手が可能である。
+
+## 駅一覧
+
+全駅[大阪府](../Page/大阪府.md "wikilink")に所在。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>駅番号</p></th>
+<th><p>駅名</p></th>
+<th><p>駅間<br />
+キロ</p></th>
+<th><p>営業<br />
+キロ</p></th>
+<th><p>接続路線</p></th>
+<th><p>地上／地下</p></th>
+<th><p>所在地</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>C10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コスモスクエア駅" title="wikilink">コスモスクエア駅</a></p></td>
+<td><p>-</p></td>
+<td><p>0.0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道" title="wikilink">大阪市高速電気軌道</a>：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nanko_Port_Town_line_symbol.svg" title="fig:Osaka_Metro_Nanko_Port_Town_line_symbol.svg">Osaka_Metro_Nanko_Port_Town_line_symbol.svg</a> <a href="../Page/Osaka_Metro南港ポートタウン線.md" title="wikilink">南港ポートタウン線（ニュートラム）</a> (P09)</p></td>
+<td><p>地下</p></td>
+<td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
+</tr>
+<tr class="even">
+<td><p>この間で<a href="../Page/大阪港咲洲トンネル.md" title="wikilink">大阪港咲洲トンネル</a>を通る</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪港駅" title="wikilink">大阪港駅</a><br />
+</p></td>
+<td><p>2.4</p></td>
+<td><p>2.4</p></td>
+<td><p> </p></td>
+<td><p>地上区間</p></td>
+<td><p><a href="../Page/港区_(大阪市).md" title="wikilink">港区</a></p></td>
+</tr>
+<tr class="even">
+<td><p>C12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/朝潮橋駅" title="wikilink">朝潮橋駅</a></p></td>
+<td><p>1.5</p></td>
+<td><p>3.9</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C13</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/弁天町駅" title="wikilink">弁天町駅</a></p></td>
+<td><p>1.6</p></td>
+<td><p>5.5</p></td>
+<td><p><a href="../Page/西日本旅客鉄道.md" title="wikilink">西日本旅客鉄道</a>： <a href="../Page/大阪環状線.md" title="wikilink">大阪環状線</a> (JR-O15)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>C14</p></td>
+<td><p><a href="../Page/九条駅_(大阪府).md" title="wikilink">九条駅</a></p></td>
+<td><p>1.3</p></td>
+<td><p>6.8</p></td>
+<td><p><a href="../Page/阪神電気鉄道.md" title="wikilink">阪神電気鉄道</a>：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hanshin_line.svg" title="fig:Number_prefix_Hanshin_line.svg">Number_prefix_Hanshin_line.svg</a> <a href="https://ja.wikipedia.org/wiki/阪神なんば線" title="wikilink">阪神なんば線</a> (HS 44)</p></td>
+<td><p><a href="../Page/西区_(大阪市).md" title="wikilink">西区</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/阿波座駅" title="wikilink">阿波座駅</a></p></td>
+<td><p>1.5</p></td>
+<td><p>8.3</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sennichimae_line_symbol.svg" title="fig:Osaka_Metro_Sennichimae_line_symbol.svg">Osaka_Metro_Sennichimae_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro千日前線" title="wikilink">千日前線</a> (S13)</p></td>
+<td><p>地下区間</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>C16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/本町駅" title="wikilink">本町駅</a><br />
+</p></td>
+<td><p>1.1</p></td>
+<td><p>9.4</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線" title="wikilink">御堂筋線</a> (M18) ・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Yotsubashi_line_symbol.svg" title="fig:Osaka_Metro_Yotsubashi_line_symbol.svg">Osaka_Metro_Yotsubashi_line_symbol.svg</a> <a href="../Page/Osaka_Metro四つ橋線.md" title="wikilink">四つ橋線</a> (Y13)</p></td>
+<td><p><a href="../Page/中央区_(大阪市).md" title="wikilink">中央区</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C17</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/堺筋本町駅" title="wikilink">堺筋本町駅</a><br />
+</p></td>
+<td><p>0.7</p></td>
+<td><p>10.1</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sakaisuji_line_symbol.svg" title="fig:Osaka_Metro_Sakaisuji_line_symbol.svg">Osaka_Metro_Sakaisuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線" title="wikilink">堺筋線</a> (K15)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>C18</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/谷町四丁目駅" title="wikilink">谷町四丁目駅</a></p></td>
+<td><p>1.0</p></td>
+<td><p>11.1</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Tanimachi_line_symbol.svg" title="fig:Osaka_Metro_Tanimachi_line_symbol.svg">Osaka_Metro_Tanimachi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro谷町線" title="wikilink">谷町線</a> (T23)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C19</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森ノ宮駅" title="wikilink">森ノ宮駅</a></p></td>
+<td><p>1.3</p></td>
+<td><p>12.4</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg" title="fig:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg">Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線" title="wikilink">長堀鶴見緑地線</a> (N20)<br />
+西日本旅客鉄道： 大阪環状線 (JR-O06)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>C20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/緑橋駅" title="wikilink">緑橋駅</a></p></td>
+<td><p>1.2</p></td>
+<td><p>13.6</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Imazatosuji_line_symbol.svg" title="fig:Osaka_Metro_Imazatosuji_line_symbol.svg">Osaka_Metro_Imazatosuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線" title="wikilink">今里筋線</a> (I20)</p></td>
+<td><p><a href="../Page/東成区.md" title="wikilink">東成区</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/深江橋駅" title="wikilink">深江橋駅</a></p></td>
+<td><p>1.1</p></td>
+<td><p>14.7</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>C22</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高井田駅_(大阪府東大阪市)" title="wikilink">高井田駅</a></p></td>
+<td><p>1.4</p></td>
+<td><p>16.1</p></td>
+<td><p>西日本旅客鉄道： <a href="../Page/おおさか東線.md" title="wikilink">おおさか東線</a>…<a href="https://ja.wikipedia.org/wiki/高井田中央駅" title="wikilink">高井田中央駅</a> (JR-F09)</p></td>
+<td><p><a href="../Page/東大阪市.md" title="wikilink">東大阪市</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>C23</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長田駅_(大阪府)" title="wikilink">長田駅</a></p></td>
+<td><p>1.8</p></td>
+<td><p>17.9</p></td>
+<td><p><a href="../Page/近畿日本鉄道.md" title="wikilink">近畿日本鉄道</a>： <a href="../Page/近鉄けいはんな線.md" title="wikilink">けいはんな線</a><br />
+（<a href="../Page/学研奈良登美ヶ丘駅.md" title="wikilink">学研奈良登美ヶ丘駅</a>まで直通運転）</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 近鉄と当線との連絡乗車券（長田駅経由指定）を購入した場合、両社との接続駅である[鶴橋駅](https://ja.wikipedia.org/wiki/鶴橋駅 "wikilink")・[谷町九丁目駅](https://ja.wikipedia.org/wiki/谷町九丁目駅 "wikilink")（[大阪上本町駅](https://ja.wikipedia.org/wiki/大阪上本町駅 "wikilink")）・[天王寺駅](https://ja.wikipedia.org/wiki/天王寺駅 "wikilink")（[大阪阿部野橋駅](https://ja.wikipedia.org/wiki/大阪阿部野橋駅 "wikilink")）・[日本橋駅](https://ja.wikipedia.org/wiki/日本橋駅_\(大阪府\) "wikilink")（[近鉄日本橋駅](https://ja.wikipedia.org/wiki/近鉄日本橋駅 "wikilink")）・[難波駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")（[大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink")）の各駅では乗り継ぎできない。
+
+## 延伸計画
+
+中央線の延伸計画として[大阪港トランスポートシステム (OTS) 北港テクノポート線が存在し](https://ja.wikipedia.org/wiki/大阪港トランスポートシステム北港テクノポート線 "wikilink")、コスモスクエア駅から[此花区](../Page/此花区.md "wikilink")の[夢洲](../Page/夢洲.md "wikilink")、[舞洲](../Page/舞洲.md "wikilink")を経由して新桜島駅（仮称）に至る路線とされている\[18\]。付帯設備として夢洲地区内に車庫が設置される予定とされていた\[19\]。当初、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")開催を目標としていた[大阪オリンピック構想](../Page/大阪オリンピック構想.md "wikilink")に向けて事業に着手したものの、実現しなかったことで採算性が問題視され、コスモスクエア - 夢洲間の[夢咲トンネル](https://ja.wikipedia.org/wiki/夢咲トンネル "wikilink")に鉄道部分の準備工事が行われたのみで事業は休止された\[20\]。
+
+その後、夢洲において[2014年](../Page/2014年.md "wikilink")に[カジノ](../Page/カジノ.md "wikilink")を軸とした[統合型リゾート](https://ja.wikipedia.org/wiki/統合型リゾート "wikilink") (IR)の誘致、[2016年](../Page/2016年.md "wikilink")に[2025年万国博覧会の大阪招致構想](https://ja.wikipedia.org/wiki/2025年万国博覧会の大阪招致構想 "wikilink")において会場として一本化したため、コスモスクエア - 夢洲間についてはこれらのアクセス路線として延伸が再び検討されることになった\[21\]\[22\]。大阪市高速電気軌道も[2024年](../Page/2024年.md "wikilink")までの中期経営計画で2024年度の開業を目標とした\[23\]。[2018年](../Page/2018年.md "wikilink")には[2025年国際博覧会](https://ja.wikipedia.org/wiki/2025年国際博覧会 "wikilink")の開催地が大阪で決定したため、大阪市の[吉村洋文](https://ja.wikipedia.org/wiki/吉村洋文 "wikilink")市長（当時）は地下鉄延伸のための補正予算を計上する方針を示した\[24\]。また、この夢洲延伸に合わせて阿波座駅 - 夢洲駅間で自動運転の実証実験を行うとしている\[25\]\[26\]。このほか、直通先である近鉄ではけいはんな線を経由して[近鉄奈良駅](https://ja.wikipedia.org/wiki/近鉄奈良駅 "wikilink")もしくは[賢島駅](https://ja.wikipedia.org/wiki/賢島駅 "wikilink") - 夢洲駅間の直通特急の検討を行っている（[近鉄特急\#Osaka Metro中央線への乗り入れを参照](https://ja.wikipedia.org/wiki/近鉄特急#Osaka_Metro中央線への乗り入れ "wikilink")）。
+
+なお、北港テクノポート線として事業化されている区間は2018年現在もOTSが第一種鉄道事業として事業許可を取得しており\[27\]、大阪市高速電気軌道に事業が譲渡されるのか、あるいは大阪港 - コスモスクエア間と同様に大阪港トランスポートシステムが線路を保有し、運営を大阪市高速電気軌道が実施する形になるかは未定である。
+
+## 輸送実績
+
+### 中央線利用分
+
+| 調査年月日       | 乗車人員（人） | 降車人員（人） |
+| ----------- | ------- | ------- |
+| 定期利用        | 定期外利用   | 合計      |
+| 1998年11月10日 | 96,675  | 89,812  |
+| 2007年11月13日 | 101,089 | 115,899 |
+
+### 相互直通運転区間利用分
+
+以下は、地下鉄中央線との相互直通運転区間である近畿日本鉄道けいはんな線の長田 - 学研奈良登美ヶ丘駅間を利用した輸送人員である。
+
+なお、2006年3月27日までの路線名は近畿日本鉄道東大阪線で、その相互直通運転区間も長田 - 生駒間であった。
+
+| 調査年月日       | 乗車人員（人） | 降車人員（人） |
+| ----------- | ------- | ------- |
+| 定期利用        | 定期外利用   | 合計      |
+| 1998年11月10日 | 20,473  | 9,211   |
+| 2007年11月13日 | 21,155  | 11,737  |
+
+## 駅別乗降人員
+
+| 1998年11月10日調査結果 |
+| --------------- |
+| 駅名              |
+| 定期利用            |
+| コスモスクエア         |
+| 大阪港             |
+| 朝潮橋             |
+| 弁天町             |
+| 九条              |
+| 阿波座             |
+| 本町              |
+| 堺筋本町            |
+| 谷町四丁目           |
+| 森ノ宮             |
+| 緑橋              |
+| 深江橋             |
+| 高井田             |
+| 長田              |
+
+| 2007年11月13日調査結果 |
+| --------------- |
+| 駅名              |
+| 定期利用            |
+| コスモスクエア         |
+| 大阪港             |
+| 朝潮橋             |
+| 弁天町             |
+| 九条              |
+| 阿波座             |
+| 本町              |
+| 堺筋本町            |
+| 谷町四丁目           |
+| 森ノ宮             |
+| 緑橋              |
+| 深江橋             |
+| 高井田             |
+| 長田              |
+
+## 脚注
+
+## 関連項目
+
+  - [日本の鉄道路線一覧](https://ja.wikipedia.org/wiki/日本の鉄道路線一覧 "wikilink")
+  - [東大阪電気鉄道](../Page/東大阪電気鉄道.md "wikilink")（森ノ宮 - 四条畷 - 奈良間[未成線](../Page/未成線.md "wikilink")）
+  - [大阪電気軌道四条畷線](../Page/大阪電気軌道四条畷線.md "wikilink")（桜ノ宮 - 住道 - 額田間未成線）
+  - [船場センタービル](../Page/船場センタービル.md "wikilink")
+
+## 外部リンク
+
+  - [路線情報｜Osaka Metro](https://subway.osakametro.co.jp/station_guide/index.php#chuo)
+
+[Category:近畿地方の鉄道路線](https://ja.wikipedia.org/wiki/Category:近畿地方の鉄道路線 "wikilink") [Category:大阪市高速電気軌道の鉄軌道事業](https://ja.wikipedia.org/wiki/Category:大阪市高速電気軌道の鉄軌道事業 "wikilink") [Category:大阪市交通局の鉄軌道事業](https://ja.wikipedia.org/wiki/Category:大阪市交通局の鉄軌道事業 "wikilink") [Category:大阪港トランスポートシステム](https://ja.wikipedia.org/wiki/Category:大阪港トランスポートシステム "wikilink") [Category:大阪府の交通](https://ja.wikipedia.org/wiki/Category:大阪府の交通 "wikilink")
+
+1.
+2.   - 国土交通省、2018年9月14日閲覧。
+3.
+4.  地下3階とよく勘違いされるが、コスモスクエア駅の案内図に「地下2階」と表示されている。
+5.  岩村潔 『大阪の地下鉄 : 発展を支えた遺風と建設技術開発』 日刊建設産業新聞社大阪支社、1981年
+6.  [大阪市交通局、地下鉄中央線に快速運行検討](https://web.archive.org/web/20050410151354/http://www.nikkei.co.jp/kansai/topics/25527.html) (Inetrnet Archive) - [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2005年3月19日朝刊・日経ネット関西版
+7.  [四つ橋線用の23系23656編成が中央線で試運転](https://railf.jp/news/2018/01/18/170000.html) - 鉄道ファン・railf.jp 鉄道ニュース、2018年1月18日
+8.
+9.  [大阪メトロ、中央線に新型車両を導入へ](https://www.tetsudo.com/news/1970/)（鉄道コム 2018年8月15日12時8分）
+10. [地下鉄 路線別収支](http://www.kotsu.city.osaka.lg.jp/business/management/financial/yosan_kessan/sub_rosen.html) - 大阪市交通局
+11. 「[OTS線鉄道料金 平成17年7月下旬値下げに向けて手続きを行います](https://web.archive.org/web/20051118112516/http://www.kotsu.city.osaka.jp/news/houdouhappyou/16/050209a.html)」(InternetArchive) 大阪市交通局、2005年2月9日。
+12. 「[OTS線の事業主体変更等に向けた申請書・届出書の提出について](https://web.archive.org/web/20051231073557/http://www.kotsu.city.osaka.jp/news/houdouhappyou/17/ots.pdf)」(PDF, InternetArchive) 大阪市交通局、2005年4月21日。
+13. 「[OTS線を交通局が一体的に運営し、通算料金とします](https://web.archive.org/web/20051218215042/http://www.kotsu.city.osaka.jp/news/houdouhappyou/17/ots_ittai.pdf)」(PDF, InternetArchive) 大阪市交通局、2005年6月7日。
+14.
+15. 6両編成運転開始日は『大阪市交通局百年史（本編）』大阪市交通局、2005年、pp.385-386
+16. [市営地下鉄・ニュートラムの終発時間を延長します 〜3月23日からダイヤ改正を行います〜](http://www.kotsu.city.osaka.lg.jp/general/announce/w_new_info/w_new/list_h24_all/20130207_shuhatsuencho.html) - 大阪市交通局、2013年3月6日
+17. [御堂筋線・中央線のダイヤ改正を行います](http://www.kotsu.city.osaka.lg.jp/general/announce/w_new_info/w_new/list_h29_all/20180216_r1r4dia_henko.html) - 大阪市交通局、2018年2月16日
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26. 自動運転区間が阿波座駅以西のみである理由は、同駅以東は他線との連絡線があることから、他線から緑木検車場へ回送する車両への[自動列車運転装置](../Page/自動列車運転装置.md "wikilink")搭載を省略するためである。
+27.

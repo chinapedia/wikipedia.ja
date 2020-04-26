@@ -1,4 +1,4 @@
-> この記事は[Go!Go!](https://ja.wikipedia.org/wiki/Go!Go!)から翻訳されています。
+> この記事は[Go!Go!チアーズ](https://ja.wikipedia.org/wiki/Go!Go!チアーズ)から翻訳されています。
 
 
 『**Go\!Go\!チアーズ**』 （*But I'm a Cheerleader*） は、[1999年](../Page/1999年.md "wikilink")制作の[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ映画 "wikilink")。 [ジェイミー・バビット](https://ja.wikipedia.org/wiki/ジェイミー・バビット "wikilink")監督による[ガールズラブ](https://ja.wikipedia.org/wiki/ガールズラブ "wikilink")[青春](../Page/青春映画.md "wikilink")[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")。日本では劇場未公開。

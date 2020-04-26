@@ -1,4 +1,4 @@
-> この記事は[Girl\'s Style](https://ja.wikipedia.org/wiki/Girl\'s_Style)から翻訳されています。
+> この記事は[ユア・メモリーズオフ〜Girl\'s Style〜](https://ja.wikipedia.org/wiki/ユア・メモリーズオフ〜Girl\'s_Style〜)から翻訳されています。
 
 
 『**ユア・メモリーズオフ〜Girl's Style〜**』（ユア・メモリーズオフ ガールズスタイル）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")に[5pb.](../Page/5pb..md "wikilink")Gamesから[PS2用に発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。[Memories Offシリーズの女性向け版となっている](../Page/Memories_Offシリーズ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[PSG \(\)](https://ja.wikipedia.org/wiki/PSG_\(\))から翻訳されています。
+> この記事は[PSG \(バンド\)](https://ja.wikipedia.org/wiki/PSG_\(バンド\))から翻訳されています。
 
 
 **PSG**（ピーエスジー）は、[音楽バンド](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")（[楽器](../Page/楽器.md "wikilink")編成はないがバンドと称している）。

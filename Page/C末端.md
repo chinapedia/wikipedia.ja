@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[C末端](https://ja.wikipedia.org/wiki/C末端)から翻訳されています。
 
 
 [Tetrapeptide_structural_formulae_v.1.png](https://ja.wikipedia.org/wiki/File:Tetrapeptide_structural_formulae_v.1.png "fig:Tetrapeptide_structural_formulae_v.1.png") ([Val](../Page/バリン.md "wikilink")-[Gly](../Page/グリシン.md "wikilink")-[Ser](../Page/セリン.md "wikilink")-[Ala](../Page/アラニン.md "wikilink"))：<span style="color:green;">**緑**</span>で**N末端**α-アミノ酸 (L-[バリン](../Page/バリン.md "wikilink"))を、 <span style="color:blue;">**青**</span>で**C末端**α-アミノ酸 (L-[アラニン](../Page/アラニン.md "wikilink"))を示した。\]\]
@@ -44,7 +44,7 @@ C末端ドメイン(CTD)に特別な機能があるタンパク質もある。
 <!-- end list -->
 
   -
-    [RNAポリメラーゼII](https://ja.wikipedia.org/wiki/RNAポリメラーゼII "wikilink")のC末端ドメインは、Tyr-Ser-Pro-Thr-Ser-Pro-Ser配列の52回の繰り返しで構成される\[1\]。このC末端ドメインにはしばしば[ポリメラーゼ](https://ja.wikipedia.org/wiki/ポリメラーゼ "wikilink")を活性化するタンパク質が結合する。[転写を開始し](https://ja.wikipedia.org/wiki/転写_\(生物学\) "wikilink")、[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")にキャップを付加し、[スプライシング](https://ja.wikipedia.org/wiki/スプライシング "wikilink")のための[スプライセオソーム](https://ja.wikipedia.org/wiki/スプライセオソーム "wikilink")に結合するのに関与するドメインである。\[2\]。
+    [RNAポリメラーゼII](../Page/RNAポリメラーゼII.md "wikilink")のC末端ドメインは、Tyr-Ser-Pro-Thr-Ser-Pro-Ser配列の52回の繰り返しで構成される\[1\]。このC末端ドメインにはしばしば[ポリメラーゼ](https://ja.wikipedia.org/wiki/ポリメラーゼ "wikilink")を活性化するタンパク質が結合する。[転写を開始し](https://ja.wikipedia.org/wiki/転写_\(生物学\) "wikilink")、[mRNA](https://ja.wikipedia.org/wiki/mRNA "wikilink")にキャップを付加し、[スプライシング](https://ja.wikipedia.org/wiki/スプライシング "wikilink")のための[スプライセオソーム](https://ja.wikipedia.org/wiki/スプライセオソーム "wikilink")に結合するのに関与するドメインである。\[2\]。
 
 ## 脚注
 

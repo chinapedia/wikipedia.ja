@@ -1,4 +1,4 @@
-> この記事は[SEC](https://ja.wikipedia.org/wiki/SEC)から翻訳されています。
+> この記事は[SECカーボン](https://ja.wikipedia.org/wiki/SECカーボン)から翻訳されています。
 
 
 **SECカーボン株式会社**（エスイーシーカーボン、英文社名: SEC Carbon, Ltd.）は、[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")潮江に本社を置く日本の独立系[炭素](../Page/炭素.md "wikilink")製品の大手メーカー。

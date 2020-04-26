@@ -1,4 +1,4 @@
-> この記事は[ LM-GT](https://ja.wikipedia.org/wiki/_LM-GT)から翻訳されています。
+> この記事は[トヨタ・スープラ LM-GT](https://ja.wikipedia.org/wiki/トヨタ・スープラ_LM-GT)から翻訳されています。
 
 
 **スープラ LM-GT**は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")・[1996年](../Page/1996年.md "wikilink")に[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")に出場した、[トヨタ・スープラベースの](https://ja.wikipedia.org/wiki/トヨタ・スープラ#A80.E7.B3.BB_.281993-2002.E5.B9.B4.29 "wikilink")[レーシングカー](../Page/レーシングカー.md "wikilink")。

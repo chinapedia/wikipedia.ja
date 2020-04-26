@@ -101,7 +101,7 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック オフィシャルサイト](http://www.sonymusic.co.jp/artist/TetsuyaKomuro/discography/MHCL-30104)
+  - [ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/TetsuyaKomuro/discography/MHCL-30104)
 
   -
 [Category:1992年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1992年のセルフカバー・アルバム "wikilink") [Category:EPICソニーのアルバム](https://ja.wikipedia.org/wiki/Category:EPICソニーのアルバム "wikilink") [Category:小室哲哉のアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉のアルバム "wikilink")

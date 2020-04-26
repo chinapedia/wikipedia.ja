@@ -1,4 +1,4 @@
-> この記事は[UCI](https://ja.wikipedia.org/wiki/UCI)から翻訳されています。
+> この記事は[UCIトラックサイクリング・ワールドカップ](https://ja.wikipedia.org/wiki/UCIトラックサイクリング・ワールドカップ)から翻訳されています。
 
 
 **UCIトラックサイクリングワールドカップ**（UCI Track Cycling World Cup、旧称**UCIトラックワールドカップクラシックス**）とは、[自転車競技](../Page/自転車競技.md "wikilink")・[トラックレース](../Page/トラックレース.md "wikilink")におけるシリーズ戦。[1993年](../Page/1993年.md "wikilink")より実施されている。通常は**トラックワールドカップ**と略して言われる。タイトルスポンサーはオフィシャルタイムキーパーの[ティソ](../Page/ティソ.md "wikilink")。

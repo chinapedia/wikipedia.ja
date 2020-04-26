@@ -1,4 +1,4 @@
-> この記事は[BOX 2 V:](https://ja.wikipedia.org/wiki/BOX_2_V:)から翻訳されています。
+> この記事は[キャラメルBOX やるきばこ2 エピソードV:やるきねこの逆襲](https://ja.wikipedia.org/wiki/キャラメルBOX_やるきばこ2_エピソードV:やるきねこの逆襲)から翻訳されています。
 
 
 『**やるきばこ2 エピソードV:やるきねこの逆襲**』は、[キャラメルBOX](../Page/キャラメルBOX.md "wikilink")より[2007年](../Page/2007年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。

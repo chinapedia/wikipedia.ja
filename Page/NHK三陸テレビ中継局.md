@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK三陸テレビ中継局](https://ja.wikipedia.org/wiki/NHK三陸テレビ中継局)から翻訳されています。
 
 
 **NHK三陸テレビ中継局**（エヌエイチケイさんりくテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")に置かれていた[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

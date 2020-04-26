@@ -48,8 +48,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/UFC-11-The-Proving-Ground)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc11.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/ufc11.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-11-The-Proving-Ground-18)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのジョージア州大会](https://ja.wikipedia.org/wiki/Category:UFCのジョージア州大会 "wikilink") [Category:1996年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1996年の総合格闘技 "wikilink") [Category:1996年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1996年のアメリカ合衆国のスポーツ "wikilink") [Category:オーガスタ_(ジョージア州)](https://ja.wikipedia.org/wiki/Category:オーガスタ_\(ジョージア州\) "wikilink") [Category:1996年9月](https://ja.wikipedia.org/wiki/Category:1996年9月 "wikilink")

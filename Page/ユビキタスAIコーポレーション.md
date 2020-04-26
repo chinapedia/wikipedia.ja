@@ -1,4 +1,4 @@
-> この記事は[AI](https://ja.wikipedia.org/wiki/AI)から翻訳されています。
+> この記事は[ユビキタスAIコーポレーション](https://ja.wikipedia.org/wiki/ユビキタスAIコーポレーション)から翻訳されています。
 
 
 **株式会社ユビキタスAIコーポレーション**（*Ubiquitous AI Corporation*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")に本社を置く通信ソフトウェアの開発・ライセンス提供を行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ロバート・W・スミス](https://ja.wikipedia.org/wiki/ロバート・W・スミス)から翻訳されています。
 
 
 **ロバート・W・スミス**（**Robert W. Smith**, [1958年](../Page/1958年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[指揮者](../Page/指揮者.md "wikilink")、[音楽教師](https://ja.wikipedia.org/wiki/音楽教師 "wikilink")。主として[吹奏楽](../Page/吹奏楽.md "wikilink")や[映画音楽](../Page/映画音楽.md "wikilink")の作曲家として知られる。

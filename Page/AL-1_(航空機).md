@@ -1,4 +1,4 @@
-> この記事は[AL-1 \(\)](https://ja.wikipedia.org/wiki/AL-1_\(\))から翻訳されています。
+> この記事は[AL-1 \(航空機\)](https://ja.wikipedia.org/wiki/AL-1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=YAL-1 | 画像=ファイル:YAL-1A Airborne Laser unstowed.jpg | キャプション=YAL-1A | 用途=試験機 | 分類= | 設計者= | 製造者=[ボーイング](../Page/ボーイング.md "wikilink")社 | 運用者=（[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")） | 初飛行年月日=[2002年](../Page/2002年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=開発中止 | ユニットコスト= }} **YAL-1**は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[レーザー](../Page/レーザー.md "wikilink")によるミサイル迎撃試験用の軍用機。[アメリカ軍](../Page/アメリカ軍.md "wikilink")で**ABL**（Airborne Laser、空中発射レーザー）兵器システムとして開発されているメガワット級の[酸素-ヨウ素化学レーザー](https://ja.wikipedia.org/wiki/酸素-ヨウ素化学レーザー "wikilink")（[COIL](https://ja.wikipedia.org/wiki/#COIL "wikilink")）を搭載し、[ミサイル防衛](../Page/ミサイル防衛.md "wikilink")システムにおいて、主に[スカッド](../Page/スカッド.md "wikilink")のような戦術[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")を[ブースト段階で撃墜するために設計されたミサイル迎撃の実用試験用機である](https://ja.wikipedia.org/wiki/ミサイル防衛#ブースト段階 "wikilink")。

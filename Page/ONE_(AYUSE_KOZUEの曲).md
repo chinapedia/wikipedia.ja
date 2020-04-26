@@ -1,4 +1,4 @@
-> この記事は[ONE \(AYUSE KOZUE\)](https://ja.wikipedia.org/wiki/ONE_\(AYUSE_KOZUE\))から翻訳されています。
+> この記事は[ONE \(AYUSE KOZUEの曲\)](https://ja.wikipedia.org/wiki/ONE_\(AYUSE_KOZUEの曲\))から翻訳されています。
 
 
 『**ONE**』（ワン）は[AYUSE KOZUEの](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")発売。発売元は[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

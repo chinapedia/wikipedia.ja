@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCテレク・グロズヌイ](https://ja.wikipedia.org/wiki/FCテレク・グロズヌイ)から翻訳されています。
 
 
 **リパブリカン・フットボール・クラブ・アフマト・グロズヌイ**（****, [英語](../Page/英語.md "wikilink")：**Republican Football Club Akhmat Grozny**）は、[ロシア](../Page/ロシア.md "wikilink")連邦、[チェチェン共和国](../Page/チェチェン共和国.md "wikilink")[グロズヌイ](../Page/グロズヌイ.md "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2018-19シーズンは[ロシア・プレミアリーグに所属](../Page/ロシアサッカー・プレミアリーグ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[G!](https://ja.wikipedia.org/wiki/G!)から翻訳されています。
+> この記事は[中川翔子のGサイエンス!](https://ja.wikipedia.org/wiki/中川翔子のGサイエンス!)から翻訳されています。
 
 
 『**KYOCERA近未来story 中川翔子のGサイエンス\!**』（きょうセラ きんみらいストーリー なかがわしょうこのギザサイエンス）は、[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")（3月27日深夜）まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[京セラ](../Page/京セラ.md "wikilink")の一社提供。

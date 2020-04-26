@@ -1,4 +1,4 @@
-> この記事は[AK](https://ja.wikipedia.org/wiki/AK)から翻訳されています。
+> この記事は[A・K](https://ja.wikipedia.org/wiki/A・K)から翻訳されています。
 
 
 『**A♥K**』（エイ・ケイ）は[AYUSE KOZUEの](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。発売元はTOY'S FACTORY。

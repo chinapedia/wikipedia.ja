@@ -1,4 +1,4 @@
-> この記事は[Kissing](https://ja.wikipedia.org/wiki/Kissing)から翻訳されています。
+> この記事は[Kissingジェシカ](https://ja.wikipedia.org/wiki/Kissingジェシカ)から翻訳されています。
 
 
 『**Kissingジェシカ**』（キッシングジェシカ、*Kissing Jessica Stein*）は、[2001年制作の](../Page/2001年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。日本では[2003年](../Page/2003年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")より東京の新宿[テアトルタイムズスクエアにて単館上映された](../Page/東京テアトル.md "wikilink")。
@@ -21,7 +21,7 @@
 | ヘレン・クーパー      | [ヘザー・ジャーゲンセン](https://ja.wikipedia.org/wiki/ヘザー・ジャーゲンセン "wikilink")           | [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")       |
 | ジョシュ・マイヤーズ    | [スコット・コーエン](https://ja.wikipedia.org/wiki/スコット・コーエン "wikilink")               | [佐久田修](https://ja.wikipedia.org/wiki/佐久田修 "wikilink")       |
 | ジュディ・スタイン     | [トーヴァ・フェルドシャー](https://ja.wikipedia.org/wiki/トーヴァ・フェルドシャー "wikilink")         | [火野カチコ](https://ja.wikipedia.org/wiki/火野カチコ "wikilink")     |
-| ダン・"ダニー"・スタイン | [デイヴィッド・アーロン・ベイカー](https://ja.wikipedia.org/wiki/デイヴィッド・アーロン・ベイカー "wikilink") | [小形満](../Page/小形満.md "wikilink")                            |
+| ダン・“ダニー”・スタイン | [デイヴィッド・アーロン・ベイカー](https://ja.wikipedia.org/wiki/デイヴィッド・アーロン・ベイカー "wikilink") | [小形満](../Page/小形満.md "wikilink")                            |
 | シドニー・スタイン     | [ロバート・アリ](https://ja.wikipedia.org/wiki/ロバート・アリ "wikilink")                   | [小山武宏](../Page/小山武宏.md "wikilink")                          |
 | ジョーン          | [ジャッキー・ホフマン](https://ja.wikipedia.org/wiki/ジャッキー・ホフマン "wikilink")             | [寺内よりえ](../Page/寺内よりえ.md "wikilink")                        |
 | マーティン         | [マイケル・マストロ](https://ja.wikipedia.org/wiki/マイケル・マストロ "wikilink")               | [中村大樹](../Page/中村大樹.md "wikilink")                          |
@@ -29,7 +29,7 @@
 | スタンリー         | [ピーター・ハーシュ](https://ja.wikipedia.org/wiki/ピーター・ハーシュ "wikilink")               | [石井隆夫](../Page/石井隆夫.md "wikilink")                          |
 | グランマ・エスター     | [エスター・ワームフェルド](https://ja.wikipedia.org/wiki/エスター・ワームフェルド "wikilink")         | [鳳芳野](../Page/鳳芳野.md "wikilink")                            |
 | スティーブン        | [マイケル・ショーウォルター](https://ja.wikipedia.org/wiki/マイケル・ショーウォルター "wikilink")       | [三宅健太](../Page/三宅健太.md "wikilink")                          |
-| グレッグ          | [マイケル・アーリー](https://ja.wikipedia.org/wiki/マイケル・アーリー "wikilink")               | [浜田賢二](../Page/浜田賢二.md "wikilink")                          |
+| グレッグ          | [マイケル・イーリー](https://ja.wikipedia.org/wiki/マイケル・イーリー "wikilink")               | [浜田賢二](../Page/浜田賢二.md "wikilink")                          |
 | チャールズ         | [ジョン・ハム](https://ja.wikipedia.org/wiki/ジョン・ハム_\(俳優\) "wikilink")              | [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")                          |
 | ナンパ男\#1       |                                                                               | [木村雅史](../Page/木村雅史.md "wikilink")                          |
 | ハワード          | [ニック・コーリー](https://ja.wikipedia.org/wiki/ニック・コーリー "wikilink")                 | [下山吉光](../Page/下山吉光.md "wikilink")                          |

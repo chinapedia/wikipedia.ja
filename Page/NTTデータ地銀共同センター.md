@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTデータ地銀共同センター](https://ja.wikipedia.org/wiki/NTTデータ地銀共同センター)から翻訳されています。
 
 
 **NTTデータ地銀共同センター**（エヌ・ティ・ティ・データちぎんきょうどうセンター）は、[2004年](../Page/2004年.md "wikilink")よりサービス提供開始した、[NTTデータ](../Page/NTTデータ.md "wikilink")が構築・運営する主に[地方銀行](../Page/地方銀行.md "wikilink")向け[勘定系システム](https://ja.wikipedia.org/wiki/勘定系システム "wikilink")の共同利用型センター。

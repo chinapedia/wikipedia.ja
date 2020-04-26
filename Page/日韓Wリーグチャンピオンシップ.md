@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[日韓Wリーグチャンピオンシップ](https://ja.wikipedia.org/wiki/日韓Wリーグチャンピオンシップ)から翻訳されています。
 
 
 **日韓Wリーグチャンピオンシップ**（にっかん―）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の女子バスケットボール・Wリーグの王者による対抗戦である。

@@ -1,4 +1,4 @@
-> この記事は[GRA \(\)](https://ja.wikipedia.org/wiki/GRA_\(\))から翻訳されています。
+> この記事は[GRA \(テレビ番組\)](https://ja.wikipedia.org/wiki/GRA_\(テレビ番組\))から翻訳されています。
 
 
 『**GRA**』は、[2007年](../Page/2007年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バニラ気分\!](../Page/バニラ気分!.md "wikilink")』枠（[土曜日](../Page/土曜日.md "wikilink")：12:59 - 13:30）の第2部にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。番組名は「**ゴールデンラッシュ嵐**」（ごーるでんらっしゅあらし、***G**olden **R**ush **A**rashi*）の頭文字を採った略語である。

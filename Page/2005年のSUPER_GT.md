@@ -269,7 +269,7 @@
 <td><p><a href="../Page/桧井保孝.md" title="wikilink">三船剛</a><br />
  <a href="../Page/松田秀士.md" title="wikilink">松田秀士</a>（Rd.1,3-5,7,8）<br />
 → <a href="../Page/番場琢.md" title="wikilink">番場琢</a>（Rd.2,6）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GAINER" title="wikilink">JIM GAINER</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゲイナー_(企業)" title="wikilink">JIM GAINER</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

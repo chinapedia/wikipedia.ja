@@ -30,7 +30,7 @@
       -
         作詞：相田毅、作曲・編曲：[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
         2ndインストゥルメンタルアルバムにも収録されている。
-5.  **[たいせつ](../Page/たいせつ.md "wikilink")**
+5.  **[たいせつ](../Page/たいせつ_\(SMAPの曲\).md "wikilink")**
       -
         作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：[小森田実](../Page/小森田実.md "wikilink")、編曲：長岡成貢、コーラスアレンジ：佐々木久美
     <!-- end list -->

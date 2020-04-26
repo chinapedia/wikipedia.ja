@@ -27,7 +27,7 @@
   - [YBCラジオ](../Page/山形放送.md "wikilink")（山形県）
   - [KNBラジオ](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（富山県）
   - [BSSラジオ](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（鳥取県、島根県。00:50で飛び降り）
-  - [KRYラジオ](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（山口県。01:00 - 02:00に時差放送）
+  - [KRYラジオ](../Page/山口放送.md "wikilink")（山口県。01:00 - 02:00に時差放送）
   - [JRTラジオ](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（徳島県）
   - [RKCラジオ](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（高知県）
 

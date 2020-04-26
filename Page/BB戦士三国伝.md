@@ -2464,7 +2464,7 @@
 
   - [あにてれ：SDガンダム三国伝 BraveBattleWarriors](http://www.tv-tokyo.co.jp/contents/sdgundam3gd/index.html) テレビ東京内アニメ版公式サイト
 
-  - [SDガンダム三国伝 BraveBattleWarriors サンライズ バンダイチャンネル視聴ページ](http://www.b-ch.com/ttl/index.php?ttl_c=2631)
+  - [SDガンダム三国伝 BraveBattleWarriors サンライズ バンダイチャンネル視聴ページ](https://www.b-ch.com/titles/2631/)
 
   - [デジタルビート| SDガンダム三国伝 BraveBattleWarriors コレクションボックス](http://dbeat.bandaivisual.co.jp/sangokuden-bd/)
 

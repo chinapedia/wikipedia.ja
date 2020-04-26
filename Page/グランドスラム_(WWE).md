@@ -27,10 +27,10 @@
   - [ジョン "ブラッドショー" レイフィールド](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")
   - [クリスチャン](../Page/ジェイソン・リソ.md "wikilink")
   - [ビッグ・ショー](https://ja.wikipedia.org/wiki/ポール・ワイト "wikilink")
+  - [エッジ](../Page/アダム・コープランド.md "wikilink")
 
 #### 2015年度以降
 
-  - [エッジ](../Page/アダム・コープランド.md "wikilink")
   - [ドルフ・ジグラー](https://ja.wikipedia.org/wiki/ドルフ・ジグラー "wikilink")
   - [ザ・ミズ](../Page/ザ・ミズ.md "wikilink")
   - [ダニエル・ブライアン](https://ja.wikipedia.org/wiki/ダニエル・ブライアン "wikilink")

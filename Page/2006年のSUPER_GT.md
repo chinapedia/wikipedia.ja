@@ -250,7 +250,7 @@
 <td><p><a href="../Page/ヒロミ.md" title="wikilink">ヒロミ</a><br />
  <a href="https://ja.wikipedia.org/wiki/尾本直史" title="wikilink">尾本直史</a><br />
  <a href="../Page/山田英二.md" title="wikilink">山田英二</a>（Rd.6）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GAINER" title="wikilink">JIM GAINER</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゲイナー_(企業)" title="wikilink">JIM GAINER</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -15,7 +15,7 @@
 
 **[第56回日本レコード大賞](https://ja.wikipedia.org/wiki/第56回日本レコード大賞 "wikilink")**（[2014年](../Page/2014年.md "wikilink")）
 
-  - 「[R.Y.U.S.E.I.](https://ja.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink")」（[三代目J Soul Brothers from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")）
+  - 「[R.Y.U.S.E.I.](https://ja.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink")」（[三代目 J Soul Brothers from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")）
       - 作詞 ： **STY**
       - 作曲 ： **STY**・[Maozon](https://ja.wikipedia.org/wiki/Maozon "wikilink")
       - 編曲 ： **STY**・Maozon

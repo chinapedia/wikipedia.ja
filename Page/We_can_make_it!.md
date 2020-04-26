@@ -53,7 +53,7 @@
 
 ## 脚注
 
-[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink") [Category:ハ長調](https://ja.wikipedia.org/wiki/Category:ハ長調 "wikilink")
+[Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.
 2.

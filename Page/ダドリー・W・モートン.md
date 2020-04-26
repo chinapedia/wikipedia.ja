@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ダドリー・W・モートン](https://ja.wikipedia.org/wiki/ダドリー・W・モートン)から翻訳されています。
 
 
 **ダドリー・ウォーカー・モートン**（**Dudley Walker Morton**, [1907年](../Page/1907年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink") - [1943年](../Page/1943年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink") ）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前、同戦中の[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")軍人、潜水艦艦長。最終階級は中佐。

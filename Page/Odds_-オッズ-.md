@@ -1,4 +1,4 @@
-> この記事は[Odds --](https://ja.wikipedia.org/wiki/Odds_--)から翻訳されています。
+> この記事は[Odds -オッズ-](https://ja.wikipedia.org/wiki/Odds_-オッズ-)から翻訳されています。
 
 
 『**Odds**』（オッズ）は、[石渡治](../Page/石渡治.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[競輪](../Page/競輪.md "wikilink")をテーマとした漫画のシリーズである。

@@ -1,7 +1,7 @@
 > この記事は[UFC 26](https://ja.wikipedia.org/wiki/UFC_26)から翻訳されています。
 
 
-**UFC 26: Ultimate Field of Dreams**（ユーエフシー・トゥエンティシックス：アルティメット・フィールド・オブ・ドリームズ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2000年](../Page/2000年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")、[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[シーダーラピッズ](https://ja.wikipedia.org/wiki/シーダーラピッズ "wikilink")のファイブシーズンズ・イベントセンターで開催された。
+**UFC 26: Ultimate Field of Dreams**（ユーエフシー・トゥエンティシックス：アルティメット・フィールド・オブ・ドリームズ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2000年](../Page/2000年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")、[アイオワ州](../Page/アイオワ州.md "wikilink")[シーダーラピッズ](https://ja.wikipedia.org/wiki/シーダーラピッズ "wikilink")のファイブシーズンズ・イベントセンターで開催された。
 
 ## 大会概要
 

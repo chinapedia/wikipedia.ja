@@ -1,4 +1,4 @@
-> この記事は[ROAD \(20th Century\)](https://ja.wikipedia.org/wiki/ROAD_\(20th_Century\))から翻訳されています。
+> この記事は[ROAD \(20th Centuryのアルバム\)](https://ja.wikipedia.org/wiki/ROAD_\(20th_Centuryのアルバム\))から翻訳されています。
 
 
 『**ROAD**』（ロード）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

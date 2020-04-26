@@ -1,4 +1,4 @@
-> この記事は[Kiss a cote de la mer](https://ja.wikipedia.org/wiki/Kiss_a_cote_de_la_mer)から翻訳されています。
+> この記事は[Kiss 〜a cote de la mer〜](https://ja.wikipedia.org/wiki/Kiss_〜a_cote_de_la_mer〜)から翻訳されています。
 
 
 『**Kiss 〜à côté de la mer〜**』（キス ア・コーテ・デ・ラ・メール）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の通算6枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。1990年6月27日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。

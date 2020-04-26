@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグプレビューショー](https://ja.wikipedia.org/wiki/Jリーグプレビューショー)から翻訳されています。
 
 
 『**Jリーグプレビューショー**』 (J league preview show) は、[2006年](../Page/2006年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで放送されていた[J SPORTS制作の](../Page/J_SPORTS.md "wikilink")[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。原則として、初回放送は試合前日の金曜日22時から[J sports Plusで放送されていた](https://ja.wikipedia.org/wiki/J_SPORTS#J_SPORTS_4 "wikilink")。

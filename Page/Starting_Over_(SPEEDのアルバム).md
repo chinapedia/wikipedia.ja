@@ -1,4 +1,4 @@
-> この記事は[Starting Over \(SPEED\)](https://ja.wikipedia.org/wiki/Starting_Over_\(SPEED\))から翻訳されています。
+> この記事は[Starting Over \(SPEEDのアルバム\)](https://ja.wikipedia.org/wiki/Starting_Over_\(SPEEDのアルバム\))から翻訳されています。
 
 
 『**Starting Over**』（スターティング・オーヴァー）は、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。

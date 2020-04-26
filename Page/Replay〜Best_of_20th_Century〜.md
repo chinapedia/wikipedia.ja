@@ -1,4 +1,4 @@
-> この記事は[ReplayBest of 20th Century](https://ja.wikipedia.org/wiki/ReplayBest_of_20th_Century)から翻訳されています。
+> この記事は[Replay〜Best of 20th Century〜](https://ja.wikipedia.org/wiki/Replay〜Best_of_20th_Century〜)から翻訳されています。
 
 
 『**Replay〜Best of 20th Century〜**』（リプレイ ベスト・オブ・トウェンティースセンチュリー）は、[20th Centuryの](../Page/V6_\(グループ\).md "wikilink")[1st](https://ja.wikipedia.org/wiki/序数詞 "wikilink")[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

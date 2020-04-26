@@ -1,4 +1,4 @@
-> この記事は[Au ](https://ja.wikipedia.org/wiki/Au_)から翻訳されています。
+> この記事は[Au ポータル](https://ja.wikipedia.org/wiki/Au_ポータル)から翻訳されています。
 
 
 **au ポータル**（エーユーポータル）は、[2007年](../Page/2007年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[KDDI](../Page/KDDI.md "wikilink")が運営を開始した[ポータルサイト](../Page/ポータルサイト.md "wikilink")「au one」を、[2012年](../Page/2012年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に名称変更したポータルサイト。[2013年](../Page/2013年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に[auスマートパス](https://ja.wikipedia.org/wiki/auスマートパス "wikilink")に統合された\[1\]。

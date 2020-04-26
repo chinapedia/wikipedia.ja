@@ -1,4 +1,4 @@
-> この記事は[Sneaker](https://ja.wikipedia.org/wiki/Sneaker)から翻訳されています。
+> この記事は[虹色のSneaker](https://ja.wikipedia.org/wiki/虹色のSneaker)から翻訳されています。
 
 
 「**虹色のSneaker**」（にじいろのスニーカー）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の通算2枚目の[シングル](../Page/シングル.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")から発売された。8cmCD版（KIDA-15）、カセットテープ版（KISA-15）。

@@ -1,4 +1,4 @@
-> この記事は[FRP](https://ja.wikipedia.org/wiki/FRP)から翻訳されています。
+> この記事は[FRP防水](https://ja.wikipedia.org/wiki/FRP防水)から翻訳されています。
 
 
 **FRP防水**（エフアールピーぼうすい）は、液状の不飽和[ポリエステル樹脂](https://ja.wikipedia.org/wiki/ポリエステル樹脂 "wikilink")に硬化剤を加えて混合し、この混合物を[ガラス繊維](../Page/ガラス繊維.md "wikilink")などの補強材と組み合わせて一体にした[塗膜防水工法](https://ja.wikipedia.org/wiki/塗膜防水工法 "wikilink")である。出来上がった防水層は継ぎ目のないシームレスな構造となる。

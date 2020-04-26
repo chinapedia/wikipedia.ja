@@ -1,4 +1,4 @@
-> この記事は[Victory \(THE ALFEE\)](https://ja.wikipedia.org/wiki/Victory_\(THE_ALFEE\))から翻訳されています。
+> この記事は[Victory \(THE ALFEEの曲\)](https://ja.wikipedia.org/wiki/Victory_\(THE_ALFEEの曲\))から翻訳されています。
 
 
 「**Victory**」（ヴィクトリー）は、[1993年](../Page/1993年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")37枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ SUPER BEST 2000](https://ja.wikipedia.org/wiki/_SUPER_BEST_2000)から翻訳されています。
+> この記事は[岡村孝子ベスト SUPER BEST 2000](https://ja.wikipedia.org/wiki/岡村孝子ベスト_SUPER_BEST_2000)から翻訳されています。
 
 
 『**岡村孝子ベスト SUPER BEST 2000**』（おかむらたかこベスト スーパー・ベストにせん）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の非公式セレクション・アルバム。1995年11月15日発売。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。

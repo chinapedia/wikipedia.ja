@@ -1,4 +1,4 @@
-> この記事は[LS](https://ja.wikipedia.org/wiki/LS)から翻訳されています。
+> この記事は[LS愛ちゃん](https://ja.wikipedia.org/wiki/LS愛ちゃん)から翻訳されています。
 
 
 『**LS愛ちゃん**』（エルエスあいちゃん）は、[永井豪](../Page/永井豪.md "wikilink")とダイナミックプロ（[安田タツ夫](https://ja.wikipedia.org/wiki/安田タツ夫 "wikilink")：画）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[学研の](../Page/学研ホールディングス.md "wikilink")『[6年の科学](../Page/科学と学習.md "wikilink")』[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[1988年](../Page/1988年.md "wikilink")および、同社『[5年の科学](../Page/科学と学習.md "wikilink")』[1984年](../Page/1984年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に掲載された、[マイコン](../Page/ホビーパソコン.md "wikilink")\[1\]をテーマにした漫画作品である。

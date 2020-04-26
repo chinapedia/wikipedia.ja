@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRアラジンデスティニー](https://ja.wikipedia.org/wiki/CRアラジンデスティニー)から翻訳されています。
 
 
 **CRアラジンデスティニー**は、[サミー](../Page/サミー.md "wikilink")が[2007年](../Page/2007年.md "wikilink")に販売した[デジパチ・羽根モノ混合タイプの](https://ja.wikipedia.org/wiki/羽根モノ#デジパチ・羽根モノ混合タイプ "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。型式名は「CRアラジンデスティニーEX」。

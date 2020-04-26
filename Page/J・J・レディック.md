@@ -1,4 +1,4 @@
-> この記事は[JJ](https://ja.wikipedia.org/wiki/JJ)から翻訳されています。
+> この記事は[J・J・レディック](https://ja.wikipedia.org/wiki/J・J・レディック)から翻訳されています。
 
 
 **J・J・レディック**（**Jonathan Clay Redick**, [1984年](../Page/1984年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テネシー州](../Page/テネシー州.md "wikilink")出身の[バスケットボール](../Page/バスケットボール.md "wikilink")選手。[NBA](../Page/NBA.md "wikilink")の[ニューオーリンズ・ペリカンズ](../Page/ニューオーリンズ・ペリカンズ.md "wikilink")に所属している。ポジションは[シューティングガード](https://ja.wikipedia.org/wiki/シューティングガード "wikilink")。193cm、86kg。

@@ -54,7 +54,7 @@
 8.  [いちご白書をもう一度](../Page/『いちご白書』をもう一度.md "wikilink")（[バンバン](../Page/バンバン_\(フォークグループ\).md "wikilink")）/メロン記念日・ばんばひろふみ
 9.  [オリビアを聴きながら](https://ja.wikipedia.org/wiki/オリビアを聴きながら "wikilink")（[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")・[杏里](../Page/杏里.md "wikilink")）/中澤裕子・メロン記念日
 10. [長い間](../Page/長い間.md "wikilink")（[Kiroro](../Page/Kiroro.md "wikilink")）/松浦亜弥
-11. [夏休み](https://ja.wikipedia.org/wiki/夏休み_\(吉田拓郎の曲\) "wikilink")（[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")）/メロン記念日
+11. [夏休み](https://ja.wikipedia.org/wiki/夏休み_\(吉田拓郎の曲\) "wikilink")（[吉田拓郎](../Page/吉田拓郎.md "wikilink")）/メロン記念日
 12. [木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")（[太田裕美](../Page/太田裕美.md "wikilink")）/中澤裕子
 13. [神田川](../Page/神田川_\(曲\).md "wikilink")（[かぐや姫](../Page/かぐや姫_\(フォークグループ\).md "wikilink")）/松浦亜弥
 14. [わかってください](https://ja.wikipedia.org/wiki/わかってください "wikilink")（[因幡晃](../Page/因幡晃.md "wikilink")）/中澤裕子・因幡晃
@@ -80,7 +80,7 @@
 9.  [青春時代](../Page/青春時代_\(森田公一とトップギャランの曲\).md "wikilink")（[森田公一とトップギャラン](https://ja.wikipedia.org/wiki/森田公一とトップギャラン "wikilink")）/ 後藤真希・中澤裕子・藤本美貴
 10. [風](../Page/風_\(曖昧さ回避\).md "wikilink")（[はしだのりひことシューベルツ](../Page/はしだのりひことシューベルツ.md "wikilink")）/ 中澤裕子・藤本美貴
 11. [雨が空から降れば](https://ja.wikipedia.org/wiki/雨が空から降れば "wikilink")（[六文銭](../Page/六文銭_\(音楽ユニット\).md "wikilink")）/ 後藤真希
-12. [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")（[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")）/ 藤本美貴
+12. [結婚しようよ](https://ja.wikipedia.org/wiki/結婚しようよ "wikilink")（[吉田拓郎](../Page/吉田拓郎.md "wikilink")）/ 藤本美貴
 13. [思い出まくら](https://ja.wikipedia.org/wiki/思い出まくら "wikilink")（[小坂恭子](../Page/小坂恭子.md "wikilink")）/ 中澤裕子
 14. [さなえちゃん](https://ja.wikipedia.org/wiki/さなえちゃん "wikilink")（[古井戸](../Page/古井戸.md "wikilink")）/ 後藤真希・藤本美貴
 15. [あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink")（[加藤和彦](../Page/加藤和彦.md "wikilink")と[北山修](../Page/北山修.md "wikilink")）/ 後藤真希・中澤裕子・藤本美貴
@@ -200,7 +200,7 @@
   - [童謡ポップス](../Page/童謡ポップス.md "wikilink")
   - [メガベスト](https://ja.wikipedia.org/wiki/メガベスト "wikilink")
 
-[Category:ハロー\!プロジェクト関連アルバム](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連アルバム "wikilink") [Category:カバー・コンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:カバー・コンピレーション・アルバム "wikilink") [Category:日本のフォークソングアルバム](https://ja.wikipedia.org/wiki/Category:日本のフォークソングアルバム "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:ハロー\!プロジェクト関連アルバム](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連アルバム "wikilink") [Category:カバー・コンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:カバー・コンピレーション・アルバム "wikilink") [Category:日本のフォークソングアルバム](https://ja.wikipedia.org/wiki/Category:日本のフォークソングアルバム "wikilink") [Category:2002年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2002年のライブ・ビデオ "wikilink") [Category:2003年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2003年のライブ・ビデオ "wikilink")
 
 1.
 2.

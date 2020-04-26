@@ -1,4 +1,4 @@
-> この記事は[BUS](https://ja.wikipedia.org/wiki/BUS)から翻訳されています。
+> この記事は[くるっとBUS](https://ja.wikipedia.org/wiki/くるっとBUS)から翻訳されています。
 
 
 [thumbnail](https://ja.wikipedia.org/wiki/画像:Keihan-e-3130-kuruttobus_for-wiki.JPG "wikilink") **くるっとBUS**（くるっとバス）は、[大阪府](../Page/大阪府.md "wikilink")[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")でかつて運行されていた[京阪バス](../Page/京阪バス.md "wikilink")の[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。

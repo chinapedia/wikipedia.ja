@@ -1,4 +1,4 @@
-> この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
+> この記事は[ANAクラウンプラザホテル熊本ニュースカイ](https://ja.wikipedia.org/wiki/ANAクラウンプラザホテル熊本ニュースカイ)から翻訳されています。
 
 
 **ANAクラウンプラザホテル熊本ニュースカイ**（エーエヌエークラウンプラザホテルくまもとニュースカイ、*ANA CROWNE PLAZA KUMAMOTO NEW SKY*）は、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")[中央区にある](https://ja.wikipedia.org/wiki/中央区_\(熊本市\) "wikilink")、[IHG ANA ホテルズのフランチャイズ](https://ja.wikipedia.org/wiki/全日空ホテルズ "wikilink")[ホテル](../Page/ホテル.md "wikilink")。建物は25階建て、高さ81.4mのシティホテルである。運営は、株式会社ニュースカイホテルが行っている。[2014年](../Page/2014年.md "wikilink")4月16日より「熊本全日空ホテルニュースカイ」から名称を変更。

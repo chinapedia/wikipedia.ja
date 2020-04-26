@@ -1,4 +1,4 @@
-> この記事は[Reflection \(\)](https://ja.wikipedia.org/wiki/Reflection_\(\))から翻訳されています。
+> この記事は[Reflection \(林原めぐみの曲\)](https://ja.wikipedia.org/wiki/Reflection_\(林原めぐみの曲\))から翻訳されています。
 
 
 「**Reflection**」（リフレクション）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の シングル。発売元[スターチャイルド](../Page/スターチャイルド.md "wikilink")・販売元は[キングレコード](../Page/キングレコード.md "wikilink")（KIDA-154）。

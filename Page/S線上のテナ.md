@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S線上のテナ](https://ja.wikipedia.org/wiki/S線上のテナ)から翻訳されています。
 
 
 『**S線上のテナ**』（エスせんじょうのテナ、Tena on S-string）は、[岬下部せすな](../Page/岬下部せすな.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。通称“**Sテナ**”。『[まんがタイムきららフォワード](../Page/まんがタイムきららフォワード.md "wikilink")』（[芳文社](../Page/芳文社.md "wikilink")刊）で創刊号から2010年10月号まで連載された。各話にはサブタイトルは付かず、話数は「第○楽章」と書かれ○には[漢数字](https://ja.wikipedia.org/wiki/漢数字 "wikilink")が入る。

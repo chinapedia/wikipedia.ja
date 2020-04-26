@@ -1,4 +1,4 @@
-> この記事は[Brave heart \(\)](https://ja.wikipedia.org/wiki/Brave_heart_\(\))から翻訳されています。
+> この記事は[Brave heart \(林原めぐみの曲\)](https://ja.wikipedia.org/wiki/Brave_heart_\(林原めぐみの曲\))から翻訳されています。
 
 
 「**brave heart**」（ブレイブ・ハート）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の27作目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（KICM-3021）よりリリースされた。

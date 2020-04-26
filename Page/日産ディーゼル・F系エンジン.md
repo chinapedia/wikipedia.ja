@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[日産ディーゼル・F系エンジン](https://ja.wikipedia.org/wiki/日産ディーゼル・F系エンジン)から翻訳されています。
 
 
 **日産ディーゼル・F系エンジン**とは、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）が1980年から生産している[水冷](../Page/水冷.md "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")・[直列6気筒](../Page/直列6気筒.md "wikilink")[OHV](../Page/OHV.md "wikilink")のディーゼルエンジンである。日産ディーゼル製の中型及び大型[トラック](../Page/貨物自動車.md "wikilink")・[バス](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")・小型艇（[モーターボート](../Page/モーターボート.md "wikilink")）に搭載されている。

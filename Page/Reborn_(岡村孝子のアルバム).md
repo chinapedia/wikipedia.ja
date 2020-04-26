@@ -1,4 +1,4 @@
-> この記事は[Reborn \(\)](https://ja.wikipedia.org/wiki/Reborn_\(\))から翻訳されています。
+> この記事は[Reborn \(岡村孝子のアルバム\)](https://ja.wikipedia.org/wiki/Reborn_\(岡村孝子のアルバム\))から翻訳されています。
 
 
 『**Reborn**』（リボーン）は、[岡村孝子](../Page/岡村孝子.md "wikilink")通算12枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。2000年8月23日発売。発売元は[East west japan](../Page/ワーナーミュージック・ジャパン.md "wikilink")。

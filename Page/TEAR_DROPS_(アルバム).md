@@ -1,4 +1,4 @@
-> この記事は[TEAR DROPS \(\)](https://ja.wikipedia.org/wiki/TEAR_DROPS_\(\))から翻訳されています。
+> この記事は[TEAR DROPS \(アルバム\)](https://ja.wikipedia.org/wiki/TEAR_DROPS_\(アルバム\))から翻訳されています。
 
 
 『**TEAR DROPS**』（ティア・ドロップス）は、[岡村孝子](../Page/岡村孝子.md "wikilink")通算13枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。2003年9月25日発売。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

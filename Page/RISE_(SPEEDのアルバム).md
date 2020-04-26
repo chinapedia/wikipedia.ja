@@ -1,4 +1,4 @@
-> この記事は[RISE \(SPEED\)](https://ja.wikipedia.org/wiki/RISE_\(SPEED\))から翻訳されています。
+> この記事は[RISE \(SPEEDのアルバム\)](https://ja.wikipedia.org/wiki/RISE_\(SPEEDのアルバム\))から翻訳されています。
 
 
 『**RISE**』（ライズ）は、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。ジャケットのジャージー姿が特徴である。

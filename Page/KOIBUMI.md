@@ -51,7 +51,7 @@
         Welcome To FM MIE（FM三重）
   - 福岡
       -
-        平成アニメッ娘倶楽部（[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")）
+        平成アニメッ娘倶楽部（[KBCラジオ](../Page/KBCラジオ.md "wikilink")）
         [FM福岡でトークイベント](../Page/エフエム福岡.md "wikilink")
 
 など

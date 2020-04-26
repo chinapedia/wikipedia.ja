@@ -58,7 +58,7 @@ Nero LinuxはNero Burning ROMの[Linux](../Page/Linux.md "wikilink")版。現在
   - Nero 8 - 8.1.1.1
     Nero RescueAgent追加、[BDAV](../Page/BDAV.md "wikilink")対応
 
-<!-- end list -->
+プラグインで[HD_DVD](../Page/HD_DVD.md "wikilink")の再生にも対応していた\[1\]。
 
   - [Windows 9x系は今バージョンより対応外となるため](../Page/Windows_9x系.md "wikilink")、Windows2000以降のみ対応となる。
 
@@ -99,3 +99,5 @@ Nero LinuxはNero Burning ROMの[Linux](../Page/Linux.md "wikilink")版。現在
   - [Neroシリーズ（ジャングル）](http://www.junglejapan.com/products/av/nero/)
 
 [Category:ライティングソフト](https://ja.wikipedia.org/wiki/Category:ライティングソフト "wikilink") [Category:1997年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1997年のソフトウェア "wikilink")
+
+1.  <https://av.watch.impress.co.jp/docs/20070926/nero.htm>

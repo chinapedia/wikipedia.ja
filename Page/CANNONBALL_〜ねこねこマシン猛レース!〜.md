@@ -1,4 +1,4 @@
-> この記事は[CANNONBALL !](https://ja.wikipedia.org/wiki/CANNONBALL_!)から翻訳されています。
+> この記事は[CANNONBALL 〜ねこねこマシン猛レース!〜](https://ja.wikipedia.org/wiki/CANNONBALL_〜ねこねこマシン猛レース!〜)から翻訳されています。
 
 
 『**CANNONBALL 〜ねこねこマシン猛レース\!〜**』（キャノンボール ねこねこマシンもうレース）は、2003年2月7日にPC向け[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランド・[ライアーソフト](../Page/ライアーソフト.md "wikilink")から発売されたアダルトゲーム。現在、パッケージ版は生産・販売終了となっているが、公式ホームページからの[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")販売で購入可能である。

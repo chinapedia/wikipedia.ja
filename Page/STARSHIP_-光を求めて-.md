@@ -1,4 +1,4 @@
-> この記事は[STARSHIP --](https://ja.wikipedia.org/wiki/STARSHIP_--)から翻訳されています。
+> この記事は[STARSHIP -光を求めて-](https://ja.wikipedia.org/wiki/STARSHIP_-光を求めて-)から翻訳されています。
 
 
 「**STARSHIP -光を求めて-**」（スターシップ ひかりをもとめて）は、[1984年](../Page/1984年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた[ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")18枚目の[シングル](../Page/シングル.md "wikilink")、およびそこに収録される楽曲。
@@ -32,4 +32,4 @@
   - [THE ALFEE 單曲全集一](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1、新録）
 
-[Category:THE_ALFEEの楽曲](https://ja.wikipedia.org/wiki/Category:THE_ALFEEの楽曲 "wikilink") [Category:高見沢俊彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高見沢俊彦が制作した楽曲 "wikilink") [Category:高橋研が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋研が制作した楽曲 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:1984年のシングル](https://ja.wikipedia.org/wiki/Category:1984年のシングル "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:変イ長調](https://ja.wikipedia.org/wiki/Category:変イ長調 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
+[Category:THE_ALFEEの楽曲](https://ja.wikipedia.org/wiki/Category:THE_ALFEEの楽曲 "wikilink") [Category:高見沢俊彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高見沢俊彦が制作した楽曲 "wikilink") [Category:高橋研が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高橋研が制作した楽曲 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:1984年のシングル](https://ja.wikipedia.org/wiki/Category:1984年のシングル "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

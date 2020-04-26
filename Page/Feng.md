@@ -34,9 +34,7 @@
   - [2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [ずっと前から女子でした](https://ja.wikipedia.org/wiki/ずっと前から女子でした "wikilink")
   - [2019年](../Page/2019年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - [夢と色でできている](https://ja.wikipedia.org/wiki/夢と色でできている "wikilink")\[11\]
 
-## 主なスタッフ
-
-### 現在のスタッフ
+## 在籍していたスタッフ
 
   - 代表・プロデューサー・広報
 
@@ -64,13 +62,6 @@
 <!-- end list -->
 
   - [なかひろ](https://ja.wikipedia.org/wiki/なかひろ "wikilink") - 外注。『彼女のセイイキ』から参入。
-
-### 過去に在籍していたスタッフ
-
-  - シナリオ
-
-<!-- end list -->
-
   - サイトウケンジ - 上様の同人時代からの知り合い\[13\]。PS2 版『White Princess』でシナリオ大幅書き換えに着手して以降メインシナリオライターを務める。[ういんどみる](../Page/ういんどみる.md "wikilink")へ移籍ののち、2011年に[株式会社エクスへ移籍](https://ja.wikipedia.org/wiki/EX-ONE "wikilink")。
 
 ## 出典

@@ -1,4 +1,4 @@
-> この記事は[Happiness \(\)](https://ja.wikipedia.org/wiki/Happiness_\(\))から翻訳されています。
+> この記事は[Happiness \(グループ\)](https://ja.wikipedia.org/wiki/Happiness_\(グループ\))から翻訳されています。
 
 
 **Happiness**（ハピネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性7人組パフォーマンスグループ。[LDH所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")。レーベルは[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -225,7 +225,7 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019年6月12日</p></td>
-<td><p>POWER GIRLS</p></td>
+<td><p><a href="../Page/POWER_GIRLS.md" title="wikilink">POWER GIRLS</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -315,16 +315,16 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - <s> 8月12日</s>：埼玉・HEAVEN'S ROCK さいたま新都心（[MAYUが伝染性単核球症を患い延期](https://ja.wikipedia.org/wiki/杉枝真結 "wikilink")\[20\]）
-  - <s>8月17日</s>：愛知・[ell.FITS ALL](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")（同上）
-  - <s>8月18日</s>：福岡・DRUM Be-1</s>（同上）
-  - *8月23日：ツアー中止を発表*\[21\]
-  - <s>8月26日</s>：大阪・OSAKA MUSE
-  - <s>9月01日、9月02日</s>：東京・渋谷STAR LOUNGE
-  - <s>9月08日</s>：大阪・ESAKA MUSE
-  - <s>10月06日</s>：埼玉・HEAVEN'S ROCK さいたま新都心（振替公演）
-  - <s>10月11日</s>：愛知・ell.FITS ALL（振替公演）
-  - <s>10月14日</s>：福岡・DRUM Be-1（振替公演）
+  - <s> 8月12日：埼玉・HEAVEN'S ROCK さいたま新都心</s>（[MAYUが伝染性単核球症を患い延期](https://ja.wikipedia.org/wiki/杉枝真結 "wikilink")\[20\]）
+  - <s>8月17日：愛知・[ell.FITS ALL](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")</s>（同上）
+  - <s>8月18日：福岡・DRUM Be-1</s>（同上）
+  - 8月23日：ツアー中止を発表\[21\]
+  - <s>8月26日：大阪・OSAKA MUSE
+  - 9月01日、9月02日：東京・渋谷STAR LOUNGE
+  - 9月08日：大阪・ESAKA MUSE
+  - 10月06日：埼玉・HEAVEN'S ROCK さいたま新都心（振替公演）
+  - 10月11日：愛知・ell.FITS ALL（振替公演）
+  - 10月14日：福岡・DRUM Be-1（振替公演）</s>
 
 </div>
 

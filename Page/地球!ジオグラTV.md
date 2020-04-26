@@ -1,4 +1,4 @@
-> この記事は[!TV](https://ja.wikipedia.org/wiki/!TV)から翻訳されています。
+> この記事は[地球!ジオグラTV](https://ja.wikipedia.org/wiki/地球!ジオグラTV)から翻訳されています。
 
 
 **地球\!ジオグラTV**（ちきゅうじおぐらティービー）は、[2007年](../Page/2007年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")まで[TBS](../Page/TBSテレビ.md "wikilink")[系列で毎週土曜](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")19:56 ‐20:54（[JST](../Page/日本標準時.md "wikilink")）に放送された[教養](../Page/教養.md "wikilink")ドキュメント[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。初回の2007年10月13日と最終回の2008年2月9日は、19:00 ‐20:54の2時間拡大版で放送された。

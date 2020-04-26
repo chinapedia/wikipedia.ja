@@ -1,4 +1,4 @@
-> この記事は[Mr.](https://ja.wikipedia.org/wiki/Mr.)から翻訳されています。
+> この記事は[Mr.バッド・ガイ](https://ja.wikipedia.org/wiki/Mr.バッド・ガイ)から翻訳されています。
 
 
 『**Mr.バッド・ガイ**』 (*Mr. Bad Guy*) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[クイーンのボーカリスト](../Page/クイーン_\(バンド\).md "wikilink")、[フレディ・マーキュリー](../Page/フレディ・マーキュリー.md "wikilink")が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に発表したアルバム。

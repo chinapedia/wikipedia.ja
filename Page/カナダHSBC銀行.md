@@ -1,4 +1,4 @@
-> この記事は[HSBC](https://ja.wikipedia.org/wiki/HSBC)から翻訳されています。
+> この記事は[カナダHSBC銀行](https://ja.wikipedia.org/wiki/カナダHSBC銀行)から翻訳されています。
 
 
 **カナダHSBC銀行**（英称：**HSBC Bank Canada**）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の銀行で、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の大手金融グループ[HSBCホールディングス](../Page/HSBCホールディングス.md "wikilink")の一部を成している。カナダ国内で銀行業界7位の規模をもち、外資系銀行としてはカナダ国内最大。[プリンスエドワードアイランド州](https://ja.wikipedia.org/wiki/プリンスエドワードアイランド州 "wikilink")を除くすべての州にオフィスを構えている。本社は[ブリティッシュコロンビア州](../Page/ブリティッシュコロンビア州.md "wikilink")の[バンクーバーに置かれている](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")。

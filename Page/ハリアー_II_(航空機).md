@@ -1,4 +1,4 @@
-> この記事は[ II \(\)](https://ja.wikipedia.org/wiki/_II_\(\))から翻訳されています。
+> この記事は[ハリアー II \(航空機\)](https://ja.wikipedia.org/wiki/ハリアー_II_\(航空機\))から翻訳されています。
 
 
 **AV-8B ハリアー II**（AV-8B Harrier II）は、[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink")（現[ボーイング](../Page/ボーイング.md "wikilink")）社が[短距離離陸垂直着陸機の](https://ja.wikipedia.org/wiki/航空機の離着陸方法#短距離離陸垂直着陸機 "wikilink")[ホーカー・シドレー ハリアーを基に](../Page/ホーカー・シドレー_ハリアー.md "wikilink")[スーパークリティカル翼や](https://ja.wikipedia.org/wiki/翼型#遷音速翼型 "wikilink")[揚力強化装置を組み合わせて開発した](../Page/高揚力装置.md "wikilink")[攻撃機](../Page/攻撃機.md "wikilink")である。

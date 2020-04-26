@@ -1,4 +1,4 @@
-> この記事は[SHINGO](https://ja.wikipedia.org/wiki/SHINGO)から翻訳されています。
+> この記事は[SHINGO☆西成](https://ja.wikipedia.org/wiki/SHINGO☆西成)から翻訳されています。
 
 
 **SHINGO★西成**（シンゴ にしなり、[1972年](../Page/1972年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")‐）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西成区](../Page/西成区.md "wikilink")出身の[ヒップホップMCである](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。本名：**池上　真悟**（いけがみ　しんご）。
@@ -259,7 +259,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 ### 客演作品
 
-  - [Asuka](https://ja.wikipedia.org/wiki/Asuka "wikilink")　『7days』　（2004年4月14日）
+  - [Asuka](../Page/ARIA_\(歌手\).md "wikilink")『7days』（2004年4月14日）
 
 <!-- end list -->
 
@@ -268,7 +268,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - オムニバス　『コネクション』　（2005年7月27日）
+  - オムニバス『コネクション』（2005年7月27日）
 
 <!-- end list -->
 
@@ -278,18 +278,18 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - オムニバス　「KING3LDK works」（2006年5月24日）
+  - オムニバス「KING3LDK works」（2006年5月24日）
 
 <!-- end list -->
 
   -
-    1.俺,見てるで　(シンゴ西成\&KING3LDK)
+    1.俺,見てるで(シンゴ西成\&KING3LDK)
 
 <!-- end list -->
 
-  - Libra Compilation Album　『Libra Record -天秤録音-』　（2006年8月11日）
-  - [漢](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), PRIMAL, O2, メシアTHEフライ, [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink"), 太華, SHINGO☆西成, SATUSSY, ERONE. HIDA, 志人　『[暴言](../Page/証言_\(ヒップホップ\).md "wikilink")』　（2006年8月11日）
-  - SEVEN SAMURAI　「みなさん、ごきげんよう」（2006年8月23日）
+  - Libra Compilation Album『Libra Record -天秤録音-』（2006年8月11日）
+  - [漢](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), PRIMAL, O2, メシアTHEフライ, [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink"), 太華, SHINGO☆西成, SATUSSY, ERONE. HIDA, 志人『[暴言](../Page/証言_\(ヒップホップ\).md "wikilink")』（2006年8月11日）
+  - SEVEN SAMURAI「みなさん、ごきげんよう」（2006年8月23日）
   - [サイプレス上野とロベルト吉野](https://ja.wikipedia.org/wiki/サイプレス上野とロベルト吉野 "wikilink")、『ドリーム』（2007年1月26日）
 
 <!-- end list -->
@@ -299,7 +299,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [Romancrew](../Page/Romancrew.md "wikilink")　『THE BEGINNING』（2007年2月7日）
+  - [Romancrew](../Page/Romancrew.md "wikilink")『THE BEGINNING』（2007年2月7日）
 
 <!-- end list -->
 
@@ -317,7 +317,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [NG HEAD](https://ja.wikipedia.org/wiki/NG_HEAD "wikilink")　「HEAD ROCK」（2007年7月18日）
+  - [NG HEAD](https://ja.wikipedia.org/wiki/NG_HEAD "wikilink")「HEAD ROCK」（2007年7月18日）
 
 <!-- end list -->
 
@@ -326,7 +326,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - LARGE PROPHITS　『Makin'Prophits』（2007年9月5日）
+  - LARGE PROPHITS『Makin'Prophits』（2007年9月5日）
 
 <!-- end list -->
 
@@ -335,7 +335,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [KREVA](../Page/KREVA.md "wikilink")　『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』（2007年9月5日）
+  - [KREVA](../Page/KREVA.md "wikilink")『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』（2007年9月5日）
 
 <!-- end list -->
 
@@ -344,7 +344,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [ARIA](../Page/ARIA_\(歌手\).md "wikilink")　「THE JUKEBOX 」（2007年11月28日）
+  - [ARIA](../Page/ARIA_\(歌手\).md "wikilink")「THE JUKEBOX 」（2007年11月28日）
 
 <!-- end list -->
 
@@ -353,7 +353,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")　「Foundation Rock」（2007年12月12日）
+  - [INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")「Foundation Rock」（2007年12月12日）
 
 <!-- end list -->
 
@@ -362,7 +362,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - オムニバス　「[ポチョムキン](../Page/ポチョムキン_\(ラッパー\).md "wikilink") ＆ スーパースター列伝 ゴキゲンRADIO」（2007年12月21日）
+  - オムニバス「[ポチョムキン](../Page/ポチョムキン_\(ラッパー\).md "wikilink") ＆ スーパースター列伝 ゴキゲンRADIO」（2007年12月21日）
 
 <!-- end list -->
 
@@ -371,8 +371,8 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - 鉄板BOYZ (SHINGO☆西成 + PRIMAL)　「鉄板BOYZ」（2008年4月18日）
-  - [BUZZER BEATS](https://ja.wikipedia.org/wiki/BUZZER_BEATS "wikilink")　「Just The Beginning」（2008年5月14日）
+  - 鉄板BOYZ (SHINGO☆西成 + PRIMAL)「鉄板BOYZ」（2008年4月18日）
+  - [BUZZER BEATS](https://ja.wikipedia.org/wiki/BUZZER_BEATS "wikilink")「Just The Beginning」（2008年5月14日）
 
 <!-- end list -->
 
@@ -381,7 +381,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [Shing02](../Page/Shing02.md "wikilink")　「[歪曲](https://ja.wikipedia.org/wiki/歪曲_\(アルバム\) "wikilink")」（2008年6月18日）
+  - [Shing02](../Page/Shing02.md "wikilink")「[歪曲](https://ja.wikipedia.org/wiki/歪曲_\(アルバム\) "wikilink")」（2008年6月18日）
 
 <!-- end list -->
 
@@ -390,13 +390,15 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink") with ICHIMONKAI「串かつ（二度付け禁止）」　（2009年8月5日）トラックメイク
+  - [赤井英和](https://ja.wikipedia.org/wiki/赤井英和 "wikilink") with ICHIMONKAI「串かつ（二度付け禁止）」（2009年8月5日）トラックメイク
+  - [JAM KANE](../Page/JAM_KANE.md "wikilink") 「Special Code」（2009年10月07日）
 
 <!-- end list -->
 
-  - [JAM KANE](../Page/JAM_KANE.md "wikilink") 「Special Code」（2009年10月07日）
+  -
+    15.HANDS UP \!\!\!\! feat. SHINGO☆西成 and YOSHI and MINT and MOGGYY and YOUNGI and 小林 and yamane and 友
 
-　 15.HANDS UP \!\!\!\! feat. SHINGO☆西成 and YOSHI and MINT and MOGGYY and YOUNGI and 小林 and yamane and 友
+<!-- end list -->
 
   - [KENTY GROSS](https://ja.wikipedia.org/wiki/KENTY_GROSS "wikilink")「ARD NICE GET」（2010年10月1日）
 
@@ -407,9 +409,9 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [L-VOKAL](../Page/L-VOKAL.md "wikilink")　「SHOCHU, ROOBEE, SAKE feat. SHINGO☆西成, [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")」　『麻天楼 〜秋場所〜』　（2010年6月9日）
-  - BOMBRUSH\!　「STAY STRONG feat. [NORIKIYO](../Page/NORIKIYO.md "wikilink"), SHINGO★西成 & DAG FORCE」　（2010年11月17日）
-  - [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") & MUTA & 49　「耳ヲ貸スベキ Feat. SHINGO☆西成」　（[RHYMESTER](../Page/RHYMESTER.md "wikilink")の代表曲カバー）　（2010年11月23日）
+  - [L-VOKAL](../Page/L-VOKAL.md "wikilink")「SHOCHU, ROOBEE, SAKE feat. SHINGO☆西成, [鎮座DOPENESS](https://ja.wikipedia.org/wiki/鎮座DOPENESS "wikilink")」『麻天楼 〜秋場所〜』（2010年6月9日）
+  - BOMBRUSH\!「STAY STRONG feat. [NORIKIYO](../Page/NORIKIYO.md "wikilink"), SHINGO★西成 & DAG FORCE」（2010年11月17日）
+  - [MEGA-G](https://ja.wikipedia.org/wiki/MEGA-G "wikilink") & MUTA & 49「耳ヲ貸スベキ Feat. SHINGO☆西成」（[RHYMESTER](../Page/RHYMESTER.md "wikilink")の代表曲カバー）（2010年11月23日）
   - 「WOOFIN' Presents "勝ちウタ" Mixed by DJ AGETETSU」（2011年1月1日）
 
 <!-- end list -->
@@ -539,7 +541,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [STUDIO360](https://ja.wikipedia.org/wiki/STUDIO360 "wikilink")　「参六零式 蜂ノ巣ミックス」（2014年3月12日）
+  - [STUDIO360](https://ja.wikipedia.org/wiki/STUDIO360 "wikilink")「参六零式 蜂ノ巣ミックス」（2014年3月12日）
 
 <!-- end list -->
 
@@ -549,7 +551,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - [R-指定](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")　「セカンドオピニオン」（2014年4月1日）
+  - [R-指定](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")「セカンドオピニオン」（2014年4月1日）
 
 <!-- end list -->
 
@@ -558,7 +560,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 
 <!-- end list -->
 
-  - 　「昭和レコード TOUR SPECIAL 2013 -THE LIVE DVD-」（2014年4月16日）
+  - 「昭和レコード TOUR SPECIAL 2013 -THE LIVE DVD-」（2014年4月16日）
 
 <!-- end list -->
 
@@ -606,7 +608,7 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 ## 外部リンク
 
   - [公式サイト](http://www.shingonishinari.jp/)
-  - [公式ブログ](http://ameblo.jp/shingo-nishinari/)
+  - [公式ブログ](https://ameblo.jp/shingo-nishinari/)
   - [公式 Twitter](http://twitter.com/shingo_ghetto)
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:天理大学出身の人物](https://ja.wikipedia.org/wiki/Category:天理大学出身の人物 "wikilink") [Category:1972年生](https://ja.wikipedia.org/wiki/Category:1972年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

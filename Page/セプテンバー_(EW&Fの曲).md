@@ -1,4 +1,4 @@
-> この記事は[ \(EW\&F\)](https://ja.wikipedia.org/wiki/_\(EW\&F\))から翻訳されています。
+> この記事は[セプテンバー \(EW\&Fの曲\)](https://ja.wikipedia.org/wiki/セプテンバー_\(EW\&Fの曲\))から翻訳されています。
 
 
 「**セプテンバー**」（*September*）は、[アース・ウィンド・アンド・ファイアー](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")（Earth, Wind & Fire）が[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に発売した[シングル](../Page/シングル.md "wikilink")。
@@ -11,7 +11,7 @@
 
 [2002年](../Page/2002年.md "wikilink")、日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[続・平成夫婦茶碗](../Page/平成夫婦茶碗.md "wikilink")』の主題歌に起用された。[2003年](../Page/2003年.md "wikilink")、[GAPの](../Page/ギャップ_\(企業\).md "wikilink")[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として使用された\[1\]。[2006年](../Page/2006年.md "wikilink")、アメリカ映画『[バベル](../Page/バベル_\(映画\).md "wikilink")』のサウンドトラックで使用された\[2\]。
 
-[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")の[深澤仁博](../Page/深澤仁博.md "wikilink")、[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")の[和田拓也](https://ja.wikipedia.org/wiki/和田拓也_\(サッカー選手\) "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[久保建英](https://ja.wikipedia.org/wiki/久保建英 "wikilink")、[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")ののチャントの原曲でもある。
+[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")の[深澤仁博](../Page/深澤仁博.md "wikilink")、[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")の[和田拓也](https://ja.wikipedia.org/wiki/和田拓也_\(サッカー選手\) "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[久保建英](https://ja.wikipedia.org/wiki/久保建英 "wikilink")、[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")のチャントの原曲でもある。
 
 [プロ野球](../Page/プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[阿部慎之助](../Page/阿部慎之助.md "wikilink")が[バッターボックス](https://ja.wikipedia.org/wiki/バッターボックス "wikilink")に入る際に流れる曲（ホームゲームの場合は主催球場の関係者がCDで、ビジターゲームの場合は巨人の応援団がトランペットで流す）でもある。また、近年は歌詞に合わせて「ホームラン、阿部 慎之助」とコールされることがある。
 

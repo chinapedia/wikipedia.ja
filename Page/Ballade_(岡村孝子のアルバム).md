@@ -1,4 +1,4 @@
-> この記事は[Ballade \(\)](https://ja.wikipedia.org/wiki/Ballade_\(\))から翻訳されています。
+> この記事は[Ballade \(岡村孝子のアルバム\)](https://ja.wikipedia.org/wiki/Ballade_\(岡村孝子のアルバム\))から翻訳されています。
 
 
 『**Ballade**』（バラード）は、[岡村孝子](../Page/岡村孝子.md "wikilink")の最初の[バラード](../Page/バラード.md "wikilink")・セレクション・[アルバム](../Page/アルバム.md "wikilink")。1992年12月16日発売。発売元は [ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")（現・[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\)#ソニー・ミュージックレーベルズ "wikilink")）。

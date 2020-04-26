@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAオールスターウィークエンド](https://ja.wikipedia.org/wiki/NBAオールスターウィークエンド)から翻訳されています。
 
 
 **NBAオールスターウィークエンド**は、[NBA](../Page/NBA.md "wikilink")が、毎年レギュラーシーズン中盤である2月に集中して開催するイベントの総称である。[金曜日](../Page/金曜日.md "wikilink")に開催されるルーキーチャレンジを皮切りに様々なゲームやイベントが催され、日曜日の[NBAオールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")で締めくくられる。

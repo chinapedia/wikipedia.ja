@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・グランチュラ](https://ja.wikipedia.org/wiki/TVR・グランチュラ)から翻訳されています。
 
 
 **グランチュラ**（*Grantura* ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[TVR](../Page/TVR.md "wikilink")がかつて市販していた[自動車](../Page/自動車.md "wikilink")。

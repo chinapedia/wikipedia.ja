@@ -1,4 +1,4 @@
-> この記事は[SeVen \(V6\)](https://ja.wikipedia.org/wiki/SeVen_\(V6\))から翻訳されています。
+> この記事は[SeVen \(V6のアルバム\)](https://ja.wikipedia.org/wiki/SeVen_\(V6のアルバム\))から翻訳されています。
 
 
 『**seVen**』（セブン）は、[V6の](../Page/V6_\(グループ\).md "wikilink")[7th](https://ja.wikipedia.org/wiki/セヴンス "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")に、[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
@@ -38,7 +38,7 @@
         作詞：上田起氏、作曲・編曲：鈴木健治
     <!-- end list -->
       - 21stシングルの2曲目
-8.  **B.G.B（booin’ groovin’ boogie）** - [坂本昌行](../Page/坂本昌行.md "wikilink")・[長野博](../Page/長野博.md "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
+8.  **B.G.B（booin’ groovin’ boogie）**- [坂本昌行](../Page/坂本昌行.md "wikilink")・[長野博](../Page/長野博.md "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
       -
         作詞：[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink")、作曲・編曲：[宮崎歩](../Page/宮崎歩.md "wikilink")
 9.  **MAGMA**

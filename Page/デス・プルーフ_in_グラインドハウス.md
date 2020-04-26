@@ -1,4 +1,4 @@
-> この記事は[ in ](https://ja.wikipedia.org/wiki/_in_)から翻訳されています。
+> この記事は[デス・プルーフ in グラインドハウス](https://ja.wikipedia.org/wiki/デス・プルーフ_in_グラインドハウス)から翻訳されています。
 
 
 『**デス・プルーフ in グラインドハウス**』（*Death Proof*）は、[2007年の](../Page/2007年の映画.md "wikilink")[アメリカ合衆国の](../Page/アメリカ合衆国の映画.md "wikilink")[アクション](../Page/アクション映画.md "wikilink")・[ホラー映画](../Page/ホラー映画.md "wikilink")。[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督、[カート・ラッセル](https://ja.wikipedia.org/wiki/カート・ラッセル "wikilink")主演による[カーアクション](../Page/カーアクション映画.md "wikilink")・[スリラー映画](https://ja.wikipedia.org/wiki/スリラー映画 "wikilink")である。2本立て映画『[グラインドハウス](../Page/グラインドハウス.md "wikilink")』（*Grindhouse*）の1編「デス・プルーフ」に、[アメリカでの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2本立て公開時にカットされたシーンを加えて、1本の作品としたもの。

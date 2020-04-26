@@ -1,4 +1,4 @@
-> この記事は[GOOD MORNING \& GOOD MUSIC 786SUPER MEDIO](https://ja.wikipedia.org/wiki/GOOD_MORNING_\&_GOOD_MUSIC_786SUPER_MEDIO)から翻訳されています。
+> この記事は[GOOD MORNING \& GOOD MUSIC 786・SUPER MEDIO](https://ja.wikipedia.org/wiki/GOOD_MORNING_\&_GOOD_MUSIC_786・SUPER_MEDIO)から翻訳されています。
 
 
 **786・SUPER MEDIO**（ナナハチロク スーパー・メディオ）は、[エフエム香川](../Page/エフエム香川.md "wikilink")で放送されているラジオ番組である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")開始。放送時間は平日 7:30 - 8:55。正式タイトル名は『**GOOD MORNING & GOOD MUSIC 786・SUPER MEDIO**』（グッドモーニング アンド グッドミュージック ナナハチロク スーパー・メディオ）。

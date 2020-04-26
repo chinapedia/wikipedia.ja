@@ -1,4 +1,4 @@
-> この記事は[vs](https://ja.wikipedia.org/wiki/vs)から翻訳されています。
+> この記事は[アメリカvsジョン・レノン](https://ja.wikipedia.org/wiki/アメリカvsジョン・レノン)から翻訳されています。
 
 
 **アメリカvsジョン・レノン**(**The U.S. vs. John Lennon**)は、[2006年](../Page/2006年.md "wikilink")に発表された[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")映画『[PEACE BED アメリカVSジョン・レノン](https://ja.wikipedia.org/wiki/PEACE_BED_アメリカVSジョン・レノン "wikilink")』のサウンドトラック・アルバム。

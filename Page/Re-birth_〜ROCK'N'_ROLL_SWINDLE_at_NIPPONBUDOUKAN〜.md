@@ -1,7 +1,7 @@
-> この記事は[Re-birth ROCK\'N\' ROLL SWINDLE at NIPPONBUDOUKAN](https://ja.wikipedia.org/wiki/Re-birth_ROCK\'N\'_ROLL_SWINDLE_at_NIPPONBUDOUKAN)から翻訳されています。
+> この記事は[Re-birth 〜ROCK\'N\' ROLL SWINDLE at NIPPONBUDOUKAN〜](https://ja.wikipedia.org/wiki/Re-birth_〜ROCK\'N\'_ROLL_SWINDLE_at_NIPPONBUDOUKAN〜)から翻訳されています。
 
 
-『**Re-birth 〜ROCK'N' ROLL SWINDLE at [NIPPONBUDOUKAN](../Page/日本武道館.md "wikilink")〜**』は[GLAY](../Page/GLAY.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にリリースしたライブDVD。
+『**Re-birth 〜ROCK'N' ROLL SWINDLE at [NIPPONBUDOUKAN](../Page/日本武道館.md "wikilink")〜**』は、[GLAY](../Page/GLAY.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")にリリースしたライブDVD。
 
 ## 解説
 
@@ -26,7 +26,7 @@ DISC2には特典映像として、2月2、3日に行われた「GLAY ROCK'N'ROL
 11. **[つづれ織り 〜so far and yet so close〜](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")**
 12. **[KISSIN'NOISE](../Page/灰とダイヤモンド_\(GLAYのアルバム\).md "wikilink")**
 13. **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
-14. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED.md "wikilink")**
+14. **[SHUTTER SPEEDSのテーマ](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")**
 15. **[ピーク果てしなく ソウル限りなく](https://ja.wikipedia.org/wiki/天使のわけまえ/ピーク果てしなく_ソウル限りなく "wikilink")**
 16. **[BEAUTIFUL DREMER](https://ja.wikipedia.org/wiki/BEAUTIFUL_DREAMER/STREET_LIFE "wikilink")**
 17. **[LAYLA](../Page/G4_\(シングル\).md "wikilink")**
@@ -55,4 +55,4 @@ DISC2には特典映像として、2月2、3日に行われた「GLAY ROCK'N'ROL
   - **Re-birth短編映像120秒TVSPOT**
   - **Re-birth短編映画告知ティーザー15秒SPOT**
 
-[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink") [Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

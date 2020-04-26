@@ -1,4 +1,4 @@
-> この記事は[VSC](https://ja.wikipedia.org/wiki/VSC)から翻訳されています。
+> この記事は[ローランド・VSC](https://ja.wikipedia.org/wiki/ローランド・VSC)から翻訳されています。
 
 
 **VSC**は[ローランド](../Page/ローランド.md "wikilink")製の[GS対応](../Page/GSフォーマット.md "wikilink")[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")。VSC とは「Virtual Sound Canvas」の略で、「仮想サウンド・キャンバス」と呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[SUPER HEROES \(V6\)](https://ja.wikipedia.org/wiki/SUPER_HEROES_\(V6\))から翻訳されています。
+> この記事は[SUPER HEROES \(V6のアルバム\)](https://ja.wikipedia.org/wiki/SUPER_HEROES_\(V6のアルバム\))から翻訳されています。
 
 
 『**SUPER HEROES**』（スーパー・ヒーローズ）は、[V6の](../Page/V6_\(グループ\).md "wikilink")2nd[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に発売された。

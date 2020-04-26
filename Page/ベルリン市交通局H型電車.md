@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ベルリン市交通局H型電車](https://ja.wikipedia.org/wiki/ベルリン市交通局H型電車)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:U-Bahn_Berlin_H_Type_Quersitze.JPG "wikilink") **H型電車**（エイチがたでんしゃ）は、[ベルリン地下鉄](https://ja.wikipedia.org/wiki/ベルリン地下鉄 "wikilink")U5〜U9において使用されている電車である。
@@ -22,5 +22,7 @@
 ## 今後
 
 増備は小型規格用のHK形も含めされない見通し。現在I形電車の計画が進められている。
+
+## 脚注
 
 [Category:ドイツの電車](https://ja.wikipedia.org/wiki/Category:ドイツの電車 "wikilink") [Category:ベルリン地下鉄](https://ja.wikipedia.org/wiki/Category:ベルリン地下鉄 "wikilink") [Category:地下鉄車両](https://ja.wikipedia.org/wiki/Category:地下鉄車両 "wikilink") [Category:1995年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1995年製の鉄道車両 "wikilink") [Category:ボンバルディア製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ボンバルディア製の鉄道車両 "wikilink")

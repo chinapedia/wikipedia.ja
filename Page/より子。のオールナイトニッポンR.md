@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[より子。のオールナイトニッポンR](https://ja.wikipedia.org/wiki/より子。のオールナイトニッポンR)から翻訳されています。
 
 
 **より子。のオールナイトニッポンR**（**よりこのオールナイトニッポンアール**）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")の[水曜日](../Page/水曜日.md "wikilink")で、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[より子](../Page/より子.md "wikilink")（当時**より子。**名義）が[パーソナリティを担当した](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [9月24日](../Page/9月24日.md "wikilink")に放送された。また番組終了後にも[オールナイトニッポンRスペシャルナイト](https://ja.wikipedia.org/wiki/オールナイトニッポンRスペシャルナイト "wikilink")枠で複数回単発放送されている。
@@ -41,7 +41,7 @@
 
 ### カバーした楽曲
 
-1.  [桜坂](../Page/桜坂_\(曲\).md "wikilink")（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[4月2日](../Page/4月2日.md "wikilink")）
+1.  [桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[4月2日](../Page/4月2日.md "wikilink")）
 2.  STARS（[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[4月9日](../Page/4月9日.md "wikilink")）
 3.  [世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[4月16日](../Page/4月16日.md "wikilink")）
 4.  [Tears In Heaven](../Page/ティアーズ・イン・ヘヴン.md "wikilink")（[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")、[4月23日](../Page/4月23日.md "wikilink")）

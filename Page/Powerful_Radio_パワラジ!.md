@@ -1,4 +1,4 @@
-> この記事は[Powerful Radio !](https://ja.wikipedia.org/wiki/Powerful_Radio_!)から翻訳されています。
+> この記事は[Powerful Radio パワラジ!](https://ja.wikipedia.org/wiki/Powerful_Radio_パワラジ!)から翻訳されています。
 
 
 『**Powerful Radio パワラジ！**』（パワフルラジオ パワラジ）は、2000年10月2日\[1\]から2009年3月31日まで[エフエム香川](../Page/エフエム香川.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

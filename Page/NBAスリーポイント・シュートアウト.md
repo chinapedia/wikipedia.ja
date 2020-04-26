@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAスリーポイント・シュートアウト](https://ja.wikipedia.org/wiki/NBAスリーポイント・シュートアウト)から翻訳されています。
 
 
 **NBAスリーポイント・シュートアウト**(正式にはフットロッカー・スリーポイント・シュートアウト)は、[NBA](../Page/NBA.md "wikilink")が毎年2月に開催される[NBAオールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")に先立って開かれる[NBAオールスターウィークエンド](../Page/NBAオールスターウィークエンド.md "wikilink")の中で土曜日に行われるコンテストである\[1\]。。日本では一般的に**[スリーポイントシュートコンテスト](https://ja.wikipedia.org/wiki/スリーポイントフィールドゴール "wikilink")**と呼ばれている。
@@ -20,16 +20,16 @@
 
 ## 記録
 
-| プレーヤー                                                           | 得点           | シーズン |
-| --------------------------------------------------------------- | ------------ | ---- |
-| [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink") | 25 points    | 1985 |
-| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                    | 25 points    | 2007 |
-| [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink") | 24 points    | 1990 |
-| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                      | 24 points    | 1993 |
-| [ハバート・デイビス](https://ja.wikipedia.org/wiki/ハバート・デイビス "wikilink") | 24 points    | 1997 |
-| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                    | 24 points    | 2006 |
-| [マルコ・ベリネッリ](https://ja.wikipedia.org/wiki/マルコ・ベリネッリ "wikilink") | \* 24 points | 2013 |
-| \[2\]                                                           |              |      |
+| プレーヤー                                                               | 得点           | シーズン |
+| ------------------------------------------------------------------- | ------------ | ---- |
+| [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink")     | 25 points    | 1985 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                        | 25 points    | 2007 |
+| [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink")     | 24 points    | 1990 |
+| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                          | 24 points    | 1993 |
+| [ヒューバート・デイビス](https://ja.wikipedia.org/wiki/ヒューバート・デイビス "wikilink") | 24 points    | 1997 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                        | 24 points    | 2006 |
+| [マルコ・ベリネッリ](https://ja.wikipedia.org/wiki/マルコ・ベリネッリ "wikilink")     | \* 24 points | 2013 |
+| \[2\]                                                               |              |      |
 
 ラウンド得点
 
@@ -52,18 +52,18 @@
 
 決勝得点
 
-| プレーヤー                                                             | 得点       | シーズン |
-| ----------------------------------------------------------------- | -------- | ---- |
-| [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink")   | 19 shots | 1990 |
-| [ラリー・バード](../Page/ラリー・バード.md "wikilink")                          | 11 shots | 1985 |
-| [ハバート・デイビス](https://ja.wikipedia.org/wiki/ハバート・デイビス "wikilink")   | 11 shots | 1995 |
-| [カイリー・アービング](https://ja.wikipedia.org/wiki/カイリー・アービング "wikilink") | 10 shots | 2012 |
-| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                      | 10 shots | 2007 |
-| [レイ・アレン](../Page/レイ・アレン.md "wikilink")                            | 10 shots | 2010 |
-| [デニス・スコット](../Page/デニス・スコット.md "wikilink")                        | 9 shots  | 1990 |
-| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                        | 9 shots  | 1993 |
-| [スティーブ・カー](../Page/スティーブ・カー.md "wikilink")                        | 9 shots  | 1996 |
-| \[3\]                                                             |          |      |
+| プレーヤー                                                               | 得点       | シーズン |
+| ------------------------------------------------------------------- | -------- | ---- |
+| [クレイグ・ホッジス](https://ja.wikipedia.org/wiki/クレイグ・ホッジス "wikilink")     | 19 shots | 1990 |
+| [ラリー・バード](../Page/ラリー・バード.md "wikilink")                            | 11 shots | 1985 |
+| [ヒューバート・デイビス](https://ja.wikipedia.org/wiki/ヒューバート・デイビス "wikilink") | 11 shots | 1995 |
+| [カイリー・アービング](https://ja.wikipedia.org/wiki/カイリー・アービング "wikilink")   | 10 shots | 2012 |
+| [ジェイソン・カポノ](../Page/ジェイソン・カポノ.md "wikilink")                        | 10 shots | 2007 |
+| [レイ・アレン](../Page/レイ・アレン.md "wikilink")                              | 10 shots | 2010 |
+| [デニス・スコット](../Page/デニス・スコット.md "wikilink")                          | 9 shots  | 1990 |
+| [マーク・プライス](../Page/マーク・プライス.md "wikilink")                          | 9 shots  | 1993 |
+| [スティーブ・カー](../Page/スティーブ・カー.md "wikilink")                          | 9 shots  | 1996 |
+| \[3\]                                                               |          |      |
 
 連続成功数
 

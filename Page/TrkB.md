@@ -39,7 +39,7 @@
 
   - \[4\]
 
-  - (デプレニル、)
+  - [セレギリン](../Page/セレギリン.md "wikilink") (デプレニル、)
 
   - [ジオスメチン](https://ja.wikipedia.org/wiki/ジオスメチン "wikilink")
 

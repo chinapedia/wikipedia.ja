@@ -28,4 +28,4 @@ PMC規格によってシリアル通信、[SCSI](../Page/Small_Computer_System_I
   - [VME board with a PMC slot](http://www.extensionmedia.com/interconnect/datasheet.php?ds=27)
   - [Picture of an PMC graphics card (with ATI Radeon chip)](http://www.gocct.com/sheets/picture/iopmcdg1.htm)
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink")

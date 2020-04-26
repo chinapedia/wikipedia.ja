@@ -1,4 +1,4 @@
-> この記事は[Magic](https://ja.wikipedia.org/wiki/Magic)から翻訳されています。
+> この記事は[ぷるぷるMagicモンスター](https://ja.wikipedia.org/wiki/ぷるぷるMagicモンスター)から翻訳されています。
 
 
 **ぷるぷるMagicモンスター**（ぷるぷるまじっくモンスター）とは、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送されていたラジオ番組。放送時間帯は月 - 金曜の21:00 - 24:00。略称は「ぷるマジ」など。

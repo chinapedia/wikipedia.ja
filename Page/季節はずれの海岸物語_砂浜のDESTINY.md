@@ -1,4 +1,4 @@
-> この記事は[ DESTINY](https://ja.wikipedia.org/wiki/_DESTINY)から翻訳されています。
+> この記事は[季節はずれの海岸物語 砂浜のDESTINY](https://ja.wikipedia.org/wiki/季節はずれの海岸物語_砂浜のDESTINY)から翻訳されています。
 
 
 『**季節はずれの海岸物語 砂浜のDESTINY**』（きせつはずれのかいがんものがたり すなはまのDESTINY）は、[季節はずれの海岸物語](../Page/季節はずれの海岸物語.md "wikilink")シリーズの第3作目である。

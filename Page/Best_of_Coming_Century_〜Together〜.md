@@ -1,4 +1,4 @@
-> この記事は[Best of Coming Century Together](https://ja.wikipedia.org/wiki/Best_of_Coming_Century_Together)から翻訳されています。
+> この記事は[Best of Coming Century 〜Together〜](https://ja.wikipedia.org/wiki/Best_of_Coming_Century_〜Together〜)から翻訳されています。
 
 
 『**Best of Coming Century 〜Together〜**』（ベスト・オブ・カミングセンチュリー 〜トゥゲザー〜）は、[Coming Centuryの](../Page/V6_\(グループ\).md "wikilink")1枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ing](https://ja.wikipedia.org/wiki/ing)から翻訳されています。
+> この記事は[街ingメーカーシリーズ](https://ja.wikipedia.org/wiki/街ingメーカーシリーズ)から翻訳されています。
 
 
 『**街ingメーカーシリーズ**』（まっちんぐメーカーシリーズ）とは、[インディソフトウェア](https://ja.wikipedia.org/wiki/インディソフトウェア "wikilink")に開発され、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（第1作）、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")（第2作目から）から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")の総称。

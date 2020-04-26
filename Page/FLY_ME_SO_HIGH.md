@@ -25,4 +25,4 @@
 
   - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
 
-[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:M.o.v.eの楽曲](https://ja.wikipedia.org/wiki/Category:M.o.v.eの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

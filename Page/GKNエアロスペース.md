@@ -1,4 +1,4 @@
-> この記事は[GKN](https://ja.wikipedia.org/wiki/GKN)から翻訳されています。
+> この記事は[GKNエアロスペース](https://ja.wikipedia.org/wiki/GKNエアロスペース)から翻訳されています。
 
 
 **GKNエアロスペース**（GKN Aerospace）は、[航空機](../Page/航空機.md "wikilink")、[誘導ミサイル](https://ja.wikipedia.org/wiki/誘導ミサイル "wikilink")および[ロケットエンジン](../Page/ロケットエンジン.md "wikilink")を開発・製造する企業である\[1\]。イギリスのエンジニアリング大手[GKN](https://ja.wikipedia.org/wiki/GKN "wikilink")グループに属する。

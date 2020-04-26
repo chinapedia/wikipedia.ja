@@ -1,4 +1,4 @@
-> この記事は[Sanctuary \(\)](https://ja.wikipedia.org/wiki/Sanctuary_\(\))から翻訳されています。
+> この記事は[Sanctuary \(岡村孝子のアルバム\)](https://ja.wikipedia.org/wiki/Sanctuary_\(岡村孝子のアルバム\))から翻訳されています。
 
 
 『**Sanctuary**』（サンクチュアリー）は、[岡村孝子](../Page/岡村孝子.md "wikilink")通算14枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。2005年3月23日発売。発売元は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

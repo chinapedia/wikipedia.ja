@@ -1,4 +1,4 @@
-> この記事は[ INFINITY LOVE \& LIFE](https://ja.wikipedia.org/wiki/_INFINITY_LOVE_\&_LIFE)から翻訳されています。
+> この記事は[∞ INFINITY 〜LOVE \& LIFE〜](https://ja.wikipedia.org/wiki/∞_INFINITY_〜LOVE_\&_LIFE〜)から翻訳されています。
 
 
 『**∞ INFINITY 〜LOVE & LIFE〜**』（インフィニティ ラヴ・アンド・ライフ）は、[V6の](../Page/V6_\(グループ\).md "wikilink")8枚目の[アルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")。
@@ -87,7 +87,7 @@
 </tr>
 <tr class="even">
 <td><p>Darling</p></td>
-<td><p>TBS系列<a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/きみはペット" title="wikilink">きみはペット</a>』主題歌<br />
+<td><p>TBS系列<a href="../Page/テレビドラマ.md" title="wikilink">ドラマ</a>『<a href="../Page/きみはペット.md" title="wikilink">きみはペット</a>』主題歌<br />
 映画:『<a href="../Page/ハードラックヒーロー.md" title="wikilink">ハードラックヒーロー</a>』<a href="../Page/サウンドトラック.md" title="wikilink">挿入歌</a></p></td>
 <td><p>23rdシングル。</p></td>
 </tr>

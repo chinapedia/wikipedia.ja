@@ -74,7 +74,7 @@
   - [マシーン・ヘッド](https://ja.wikipedia.org/wiki/マシーン・ヘッド "wikilink")
   - [ワン・ミニット・サイレンス](https://ja.wikipedia.org/wiki/ワン・ミニット・サイレンス "wikilink")
   - [バイオハザード](https://ja.wikipedia.org/wiki/バイオハザード_\(バンド\) "wikilink")
-  - [モービッド・エンジェル](https://ja.wikipedia.org/wiki/モービッド・エンジェル "wikilink")
+  - [モービッド・エンジェル](../Page/モービッド・エンジェル.md "wikilink")
   - [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")
   - [キティー](https://ja.wikipedia.org/wiki/キティー_\(バンド\) "wikilink")
   - [PULLING TEETH](https://ja.wikipedia.org/wiki/PULLING_TEETH "wikilink")

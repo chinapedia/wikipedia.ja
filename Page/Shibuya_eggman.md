@@ -13,7 +13,7 @@
 
 ## 歴史
 
-  - 1981年3月11日：[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[公園通りに](../Page/渋谷公園通り.md "wikilink")、ライブハウス「Egg-man」をオープン。オープニングライブは[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が率いる「桑田バンド\[1\]」（3月21日、22日）、[山下久美子](../Page/山下久美子.md "wikilink")（3月23日）らが出演。他に1年目の主な出演者は、[J-WALK](https://ja.wikipedia.org/wiki/J-WALK "wikilink")、[ヒカシュー](../Page/ヒカシュー.md "wikilink")、[近田春夫](../Page/近田春夫.md "wikilink")、[杉真理](../Page/杉真理.md "wikilink")など。[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")も出演。また、[井上陽水](../Page/井上陽水.md "wikilink")が突如土曜日の昼、2週連続でライブを行った。
+  - 1981年3月11日：[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[公園通りに](../Page/渋谷公園通り.md "wikilink")、ライブハウス「Egg-man」をオープン。オープニングライブは[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が率いる「嘉門雄三\&Victor Wheels\[1\]」（3月21日、22日）、[山下久美子](../Page/山下久美子.md "wikilink")（3月23日）らが出演。他に1年目の主な出演者は、[J-WALK](https://ja.wikipedia.org/wiki/J-WALK "wikilink")、[ヒカシュー](../Page/ヒカシュー.md "wikilink")、[近田春夫](../Page/近田春夫.md "wikilink")、[杉真理](../Page/杉真理.md "wikilink")など。[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")も出演。また、[井上陽水](../Page/井上陽水.md "wikilink")が突如土曜日の昼、2週連続でライブを行った。
   - 1981年：リボルバー中心に[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")追悼イベント「ジョン・レノン・フォーエヴァー」スタート。以後毎年の恒例イベントとなる。
   - 1983年：オールナイトイベント「東京フリークス」に[爆風スランプ](../Page/爆風スランプ.md "wikilink")、[くじら](../Page/くじら_\(バンド\).md "wikilink")、[じゃがたら](../Page/JAGATARA.md "wikilink")、[有頂天](https://ja.wikipedia.org/wiki/有頂天 "wikilink")出演。[久保田利伸](../Page/久保田利伸.md "wikilink")がHOTENTOTSのボーカルとして昼の部に初出演。[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")10周年記念イベント〈接触〉を7日間開催。
   - 1984年4月：[安全地帯が](../Page/安全地帯_\(ロックバンド\).md "wikilink")2日間ワンマンライブ。前年からほぼマンスリーで出演し­ていたが 「[ワインレッドの心](../Page/ワインレッドの心.md "wikilink")」ヒットで初めて超満員。12月：ココナッツ・ボーイズが[C-C-B](../Page/C-C-B.md "wikilink")と改名後初ライブ。直後「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」が大ヒット。
@@ -71,7 +71,7 @@
 
 ## 脚注
 
-<references/>
+<references responsive="" />
 
 ## 外部リンク
 

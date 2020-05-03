@@ -7,7 +7,7 @@
 
   - 玉露　（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・トラックメーカー [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[葉山](../Page/葉山.md "wikilink")出身） （本名：畔柳慎一）
   - KIT　（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・トラックメーカー 神奈川県[横須賀市](../Page/横須賀市.md "wikilink")出身） （元：JAP KIT）
-  - [FORK](https://ja.wikipedia.org/wiki/FORK "wikilink")　（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink") 神奈川県横浜市出身） （元：FORK MASTER） （本名：田中貴之）
+  - [FORK](https://ja.wikipedia.org/wiki/FORK "wikilink")　（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink") 神奈川県横浜市出身） （元：FORK MASTER ， TAKA） （本名：田中貴之）
   - BEAT 奉行　（トラックメーカー）
 
 ### 元メンバー

@@ -9,7 +9,7 @@ RIPE NCCの本部は[オランダ](https://ja.wikipedia.org/wiki/オランダ "w
 
 ## RIPE NCCに参加している国家・地域
 
-中央アジア
+[Regional_Internet_Registries_world_map.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map.svg "fig:Regional_Internet_Registries_world_map.svg") [Regional_Internet_Registries_world_map_2002-2005.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map_2002-2005.svg "fig:Regional_Internet_Registries_world_map_2002-2005.svg") 中央アジア
 
   - [ウズベキスタン](../Page/ウズベキスタン.md "wikilink")
   - [カザフスタン](../Page/カザフスタン.md "wikilink")
@@ -25,6 +25,7 @@ RIPE NCCの本部は[オランダ](https://ja.wikipedia.org/wiki/オランダ "w
 
   - [ICANN](../Page/ICANN.md "wikilink")
   - [地域インターネットレジストリ](../Page/地域インターネットレジストリ.md "wikilink")
+  - [割り当て済みの/8アドレスブロックの一覧](https://ja.wikipedia.org/wiki/割り当て済みの/8アドレスブロックの一覧 "wikilink")
 
 ## 外部リンク
 

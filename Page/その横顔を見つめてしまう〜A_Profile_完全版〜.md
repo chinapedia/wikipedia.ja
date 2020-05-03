@@ -1,7 +1,7 @@
 > この記事は[その横顔を見つめてしまう〜A Profile 完全版〜](https://ja.wikipedia.org/wiki/その横顔を見つめてしまう〜A_Profile_完全版〜)から翻訳されています。
 
 
-『**その横顔を見つめてしまう〜A Profile 完全版〜**』（そのよこがおをみつめてしまう ア プロフィール かんぜんばん）は、[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink")）より[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[同人ソフト](../Page/同人ソフト.md "wikilink")としてAKABEiSOFT×mixed upより[2005年](../Page/2005年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された**A profile（ア プロフィール）**の[リメイク](../Page/リメイク.md "wikilink")[作品](../Page/作品.md "wikilink")。
+『**その横顔を見つめてしまう〜A Profile 完全版〜**』（そのよこがおをみつめてしまう ア プロフィール かんぜんばん）は、[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink")）より[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[同人ソフト](../Page/同人ソフト.md "wikilink")としてAKABEiSOFT×mixed upより[2005年](../Page/2005年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された**A profile（ア プロフィール）**の[リメイク](../Page/リメイク.md "wikilink")作品。
 
 ## ストーリー
 

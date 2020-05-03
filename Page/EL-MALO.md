@@ -1,7 +1,7 @@
 > この記事は[EL-MALO](https://ja.wikipedia.org/wiki/EL-MALO)から翻訳されています。
 
 
-**EL-MALO**（エル・マロ）は日本の[ギター](../Page/ギター.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ユニットである](../Page/音楽ユニット.md "wikilink")。1991年結成。[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員である。
+**EL-MALO**（エル・マロ）は、日本の[ギター](../Page/ギター.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ユニットである](../Page/音楽ユニット.md "wikilink")。1991年結成。[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員である。
 
 ## 活動とスタイル
 
@@ -12,7 +12,7 @@
   - [柚木隆一郎](https://ja.wikipedia.org/wiki/柚木隆一郎 "wikilink")（ボーカル・インスト・その他）
   - [會田茂一](../Page/會田茂一.md "wikilink")（ボーカル・ギター・その他）
       -
-        2008年脱退。現在はソロ・[HONESTY](https://ja.wikipedia.org/wiki/HONESTY "wikilink")・[FOE](https://ja.wikipedia.org/wiki/FOE "wikilink")などで活動中。
+        2008年脱退。現在はソロ・[HONESTY](https://ja.wikipedia.org/wiki/HONESTY_\(バンド\) "wikilink")・[FOE](https://ja.wikipedia.org/wiki/FOE "wikilink")などで活動中。
 
 ## ディスコグラフィー
 

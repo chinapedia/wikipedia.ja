@@ -29,7 +29,7 @@
 5.  **[魔法の言葉 〜Would you marry me?〜](../Page/魔法の言葉_〜Would_you_marry_me?〜.md "wikilink")**
       -
         15thシングル。
-        [MBS](../Page/毎日放送.md "wikilink")・TBS系[ドラマ30](../Page/ドラマ30.md "wikilink")『[ショコラ](../Page/ショコラ_\(漫画\).md "wikilink")』主題歌。イントロ前の｢Would you marry me?｣とアウトロ後の｢Yes, I will\!｣というセリフが抜かれている。
+        [MBS](../Page/毎日放送.md "wikilink")・TBS系[ドラマ30](../Page/ドラマ30.md "wikilink")『[ショコラ](../Page/ショコラ_\(漫画\).md "wikilink")』主題歌。イントロ前の｢Would you marry me?｣とアウトロ後の｢Yes, I will\!｣というセリフがカットされている。
 6.  **ブランコ**
       -
         ネット配信限定のみで先行リリースされた楽曲。[PVも制作された](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")（[DVD](../Page/DVD-Video.md "wikilink")「8」に収録）。
@@ -44,8 +44,8 @@
 11. **Thanksgiving Day**
       -
         アメリカの感謝祭をテーマにした曲。このアルバムの発売日がアメリカでは感謝祭(Thanksgiving Day)だった。
-12. 初回限定Bonus Track：**本日ハ晴天ナリ**(a-nation 2003 Live ver.)
+12. **本日ハ晴天ナリ**(a-nation 2003 Live ver.)
       -
-        初回限定盤のみに収録。「本日ハ晴天ナリ」の[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") 2003でのライブバージョン。
+        初回限定盤のみに収録。「本日ハ晴天ナリ」の[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") 2003のライブ音源。
 
 [Category:Do_As_Infinityのアルバム](https://ja.wikipedia.org/wiki/Category:Do_As_Infinityのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")

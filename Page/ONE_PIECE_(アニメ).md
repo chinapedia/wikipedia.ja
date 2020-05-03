@@ -69,7 +69,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")（第440話）は、、地上アナログ放送において、前日に発生した[チリ地震の津波による大津波警報が発表された影響で](https://ja.wikipedia.org/wiki/チリ地震_\(2010年\) "wikilink")、本編開始からしばらく無音状態・緊急警報信号が鳴り、そして復帰するという事態が発生した。その後地上アナログ放送・地上デジタル放送共に津波警報を知らせる日本地図を放送中常時表示した。このため、同年3月7日（3月6日深夜）の再放送が実施された（番組中での案内は無し）。また、同日のBSフジの放送でも津波警報を知らせる日本地図が表示された。
   - [2011年](../Page/2011年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")は第490話の放送予定であったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う報道特番の影響により放送休止とされ、第490話の放送は翌週に延期された。
   - [2016年](../Page/2016年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")放送予定分（第729話）は、[北朝鮮によるミサイル発射実験を受けて](https://ja.wikipedia.org/wiki/北朝鮮によるミサイル発射実験_\(2016年\) "wikilink")、放送開始後まもなく放送が中断され緊急報道特番が組まれた。その影響で同時ネット局、同時刻で放送の遅れネット局を含め、放送が翌週に延期となり、残りの遅れネット局は遅れ日数が縮小された。
-  - [2020年](../Page/2020年.md "wikilink")、[新型コロナウイルス感染症（COVID-19）流行の影響により](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")、4月26日以降の放送が延期となり、ワノ国編の再放送に変更された。4月26日に放送予定だった第930話以降の放送予定は未定\[23\]。
+  - [2020年](../Page/2020年.md "wikilink")、[新型コロナウイルス感染症（COVID-19）流行の影響により](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、4月26日以降の放送が延期となり、ワノ国編の再放送（第892話から）に変更された。4月26日に放送予定だった第930話以降の放送時期は未定\[23\]。
 
 ### 声優の交代
 
@@ -196,16 +196,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/有本欽隆.md" title="wikilink">有本欽隆</a></p></td>
-<td><p>2019年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/海賊_(ONE_PIECE)#エドワード・ニューゲート" title="wikilink">エドワード・ニューゲート</a></p></td>
-<td><p>2015年<a href="../Page/8月22日.md" title="wikilink">8月22日</a><br />
-（TVSP『<a href="https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブサボ_〜3兄弟の絆_奇跡の再会と受け継がれる意志〜" title="wikilink">エピソードオブサボ</a>』）</p></td>
-<td><p><a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a></p></td>
-<td><p>2020年2月7日<br />
-（TVCM『<a href="https://ja.wikipedia.org/wiki/ONE_PIECE#その他" title="wikilink">HUNGRY DAYS</a>』[25]）</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -276,7 +266,7 @@
 <td><p>2012年<a href="../Page/11月4日.md" title="wikilink">11月4日</a>（第571話）</p></td>
 <td><p><a href="../Page/小山茉美.md" title="wikilink">小山茉美</a></p></td>
 <td><p>2017年<a href="../Page/4月30日.md" title="wikilink">4月30日</a>（第786話）</p></td>
-<td><p>藤田は2018年に死去[26]。</p></td>
+<td><p>藤田は2018年に死去[25]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広瀬正志.md" title="wikilink">広瀬正志</a></p></td>
@@ -312,28 +302,28 @@
   - 企画
       - フジテレビ - [鈴木吉弘](../Page/鈴木吉弘.md "wikilink")（第1話-第47話）→金田耕司（第48話-第106話）→熊谷剛（第107話-第132話）→[松崎容子](../Page/松崎容子.md "wikilink")（第133話-第240話）→渋谷謙太郎（第241話-第368話）→情野誠人（第369話-第604話・第612話-第614話）→髙木明梨須（第591話-第652話）→狩野雄太（第653話-）
       - 東映アニメーション - 清水慎治（第1話-第228話）→[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")（第229話-第298話）→浅間陽介（第279話-第368話）→[柴田宏明](https://ja.wikipedia.org/wiki/柴田宏明 "wikilink")（第369話-第530話）→櫻田博之（第531話-第734話）→小山弘起（第683話-第853話）→櫻田博之（第854話-第926話）→柴田宏明（第927話-）
-  - シリーズ構成 - [武上純希](../Page/武上純希.md "wikilink")（第1話-第195話\[27\]\[28\]）→上坂浩彦（第196話-第798話\[29\]）→[米村正二](../Page/米村正二.md "wikilink")（第799話-）
+  - シリーズ構成 - [武上純希](../Page/武上純希.md "wikilink")（第1話-第195話\[26\]\[27\]）→上坂浩彦（第196話-第798話\[28\]）→[米村正二](../Page/米村正二.md "wikilink")（第799話-）
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink")
-  - 製作担当 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")（第1話-第115話）→藤岡和実（第40話-第302話）、坂本憲生知（第270話-第298話）→松坂一光（第303話-第425話）→黒木耕次郎（第426話-第584話\[30\]）→稲垣哲雄（第579話-第692話）→吉田智哉（第693話-）・赤堀哲嗣（第807話-）
-  - キャラクターデザイン - [小泉昇](../Page/小泉昇.md "wikilink")（第1話-第425話）→久田和也（第385話-第891話）\[31\]→松田翠（第780話-第782話・第892話-）
-  - 総作画監督\[32\] - 久田和也（第575話-第782話）→市川慶一（第783話-\[33\]）、松田翠（第780話-第782話・第899話-\[34\]）
+  - 製作担当 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")（第1話-第115話）→藤岡和実（第40話-第302話）、坂本憲生知（第270話-第298話）→松坂一光（第303話-第425話）→黒木耕次郎（第426話-第584話\[29\]）→稲垣哲雄（第579話-第692話）→吉田智哉（第693話-）・赤堀哲嗣（第807話-）
+  - キャラクターデザイン - [小泉昇](../Page/小泉昇.md "wikilink")（第1話-第425話）→久田和也（第385話-第891話）\[30\]→松田翠（第780話-第782話・第892話-）
+  - 総作画監督\[31\] - 久田和也（第575話-第782話）→市川慶一（第783話-\[32\]）、松田翠（第780話-第782話・第899話-\[33\]）
   - 美術デザイン - 吉池隆司
-  - 美術監督 - 本間禎章（第892話-\[35\]）、吉池隆司（第895話-第896話）
-  - 色彩設定→色彩設計\[36\] - 塚田劭（第1話-第312話）→堀田哲平（第313話-\[37\]）・永井留美子（第926話-）
-  - 撮影監督 - 大西弘悟→千葉秀樹（第892話-第917話\[38\]）→保坂友哉（第918話-）
-  - シリーズディレクター - [宇田鋼之介](../Page/宇田鋼之介.md "wikilink")（第1話-第278話）、[志水淳児](../Page/志水淳児.md "wikilink")（第131話-第159話）→[境宗久](../Page/境宗久.md "wikilink")（第244話-第372話）→[宮元宏彰](https://ja.wikipedia.org/wiki/宮元宏彰 "wikilink")（第352話-第679話）\[39\]→[深澤敏則](../Page/深澤敏則.md "wikilink")（第663話-第891話）、伊藤聡伺（第780話-第782話）→[長峯達也](https://ja.wikipedia.org/wiki/長峯達也 "wikilink")（第780話-第782話・第892話-）、[暮田公平](https://ja.wikipedia.org/wiki/暮田公平 "wikilink")、小牧文（第892話-）
-  - キャラクターデザイン補佐\[40\] - 髙木雅之（第892話-第894話）、太田朝子、高橋成美
-  - 編集 - 福光伸一（第1話-第203話）→後藤正浩（第204話-第345話）→牧信公（第346話-\[41\]）
-  - アシスタントプロデューサー\[42\] - 出樋昌稔（フジテレビ）（-第741話）・寺本知資（第653話-第672話）→小山弘起（第668話-第682話）（東映アニメーション）
+  - 美術監督 - 本間禎章（第892話-\[34\]）、吉池隆司（第895話-第896話）
+  - 色彩設定→色彩設計\[35\] - 塚田劭（第1話-第312話）→堀田哲平（第313話-\[36\]）・永井留美子（第926話-）
+  - 撮影監督 - 大西弘悟→千葉秀樹（第892話-第917話\[37\]）→保坂友哉（第918話-）
+  - シリーズディレクター - [宇田鋼之介](../Page/宇田鋼之介.md "wikilink")（第1話-第278話）、[志水淳児](../Page/志水淳児.md "wikilink")（第131話-第159話）→[境宗久](../Page/境宗久.md "wikilink")（第244話-第372話）→[宮元宏彰](https://ja.wikipedia.org/wiki/宮元宏彰 "wikilink")（第352話-第679話）\[38\]→[深澤敏則](../Page/深澤敏則.md "wikilink")（第663話-第891話）、伊藤聡伺（第780話-第782話）→[長峯達也](https://ja.wikipedia.org/wiki/長峯達也 "wikilink")（第780話-第782話・第892話-）、[暮田公平](https://ja.wikipedia.org/wiki/暮田公平 "wikilink")、小牧文（第892話-）
+  - キャラクターデザイン補佐\[39\] - 髙木雅之（第892話-第894話）、太田朝子、高橋成美
+  - 編集 - 福光伸一（第1話-第203話）→後藤正浩（第204話-第345話）→牧信公（第346話-\[40\]）
+  - アシスタントプロデューサー\[41\] - 出樋昌稔（フジテレビ）（-第741話）・寺本知資（第653話-第672話）→小山弘起（第668話-第682話）（東映アニメーション）
   - 広報 - 為永佐知男（第1話-第79話）→北野あすか（第80話-第126話）→正岡高子（第127話-第278話）→遠藤恵（第279話-第408話）→田中杏子（第409話-第460話）→瀬田裕幸（第461話-第482話）→熊谷知子（第483話-第652話）→山本麻未子（第653話-第734話）→清田美智子（第735話-第757話）→太田真紀子（第758話-第891話）（フジテレビ）→瀬川ネリ（第892話-）、加藤美穂子（-第882話）→小林美姫（第883話-）、中台郁美
   - 音響効果 - 新井秀徳（[フィズサウンドクリエイション](../Page/フィズサウンドクリエイション.md "wikilink")→JetSoundEngine）
   - 選曲 - 神保直史（オーディオ・タナカ）
-  - 録音調整 - 二宮健治（第1話-第230話）→渡辺絵里奈（第231話-\[43\]）
+  - 録音調整 - 二宮健治（第1話-第230話）→渡辺絵里奈（第231話-\[42\]）
   - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")（第1話-第721話 ）→[スリーエススタジオ](../Page/スワラ・プロ.md "wikilink")（第722話- ）
   - 音響制作 - タバック（第722話- ）
-  - オンライン編集 - [TOVIC→東映デジタルラボ](../Page/東映ラボ・テック.md "wikilink")\[44\]、原田侑→小山雅史
+  - オンライン編集 - [TOVIC→東映デジタルラボ](../Page/東映ラボ・テック.md "wikilink")\[43\]、原田侑→小山雅史
   - 制作協力 - [東映](../Page/東映.md "wikilink")（第1話-第806話）
-  - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")・[ADK](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")\[45\]\[46\]
+  - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")・[ADK](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")\[44\]\[45\]
 
 ## 主題歌
 
@@ -357,7 +347,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィーアー!" title="wikilink">ウィーアー!</a></p></td>
 <td><p><a href="../Page/きただにひろし.md" title="wikilink">きただにひろし</a></p></td>
 <td><p>第1話 - 第47話</p></td>
-<td><p>[47]<br />
+<td><p>[46]<br />
 オープニングで唯一、効果音が挿入されている。</p></td>
 </tr>
 <tr class="even">
@@ -365,7 +355,7 @@
 <td><p><a href="../Page/Believe_(Folder5の曲).md" title="wikilink">Believe</a></p></td>
 <td><p><a href="../Page/Folder5.md" title="wikilink">Folder5</a></p></td>
 <td><p>第48話 - 第115話</p></td>
-<td><p>[48]<br />
+<td><p>[47]<br />
 イントロの一部にCDにはない部分がある。</p></td>
 </tr>
 <tr class="odd">
@@ -373,14 +363,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒカリへ_(ザ・ベイビースターズの曲)" title="wikilink">ヒカリへ</a></p></td>
 <td><p><a href="../Page/ザ・ベイビースターズ.md" title="wikilink">ザ・ベイビースターズ</a></p></td>
 <td><p>第116話 - 第168話</p></td>
-<td><p>[49][50]</p></td>
+<td><p>[48][49]</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BON_VOYAGE!" title="wikilink">BON VOYAGE!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Bon-Bon_Blanco" title="wikilink">Bon-Bon Blanco</a></p></td>
 <td><p>第169話 - 第206話</p></td>
-<td><p>[51]<br />
+<td><p>[50]<br />
 CD版にはないイントロが使われている。</p></td>
 </tr>
 <tr class="odd">
@@ -395,7 +385,7 @@ CD版にはないイントロが使われている。</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BRAND_NEW_WORLD" title="wikilink">BRAND NEW WORLD</a></p></td>
 <td><p><a href="../Page/D-51.md" title="wikilink">D-51</a></p></td>
 <td><p>第264話 - 第278話</p></td>
-<td><p>[52]</p></td>
+<td><p>[51]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -407,7 +397,7 @@ CD版にはないイントロが使われている。</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/×〜ダメ〜/Crazy_Rainbow" title="wikilink">Crazy Rainbow</a>[53]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/×〜ダメ〜/Crazy_Rainbow" title="wikilink">Crazy Rainbow</a>[52]</p></td>
 <td><p><a href="../Page/タッキー&amp;翼.md" title="wikilink">タッキー&amp;翼</a></p></td>
 <td><p>第284話 - 第325話</p></td>
 <td></td>
@@ -422,7 +412,7 @@ CD版にはないイントロが使われている。</p></td>
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Share_The_World/ウィーアー!" title="wikilink">ウィーアー! 〜10周年Ver.〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東方神起" title="wikilink">東方神起</a>[54]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東方神起" title="wikilink">東方神起</a>[53]</p></td>
 <td><p>第373話 - 第394話</p></td>
 <td></td>
 </tr>
@@ -436,7 +426,7 @@ CD版にはないイントロが使われている。</p></td>
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/風をさがして" title="wikilink">風をさがして</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘキサゴンファミリー" title="wikilink">矢口真里とストローハット</a>[55]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘキサゴンファミリー" title="wikilink">矢口真里とストローハット</a>[54]</p></td>
 <td><p>第426話 - 第458話</p></td>
 <td></td>
 </tr>
@@ -460,7 +450,7 @@ CD版にはないイントロが使われている。</p></td>
 <td><p>きただにひろし</p></td>
 <td><p>第517話 - 第590話</p></td>
 <td><p>オープニングでは最も長く放送。<br />
-[56]</p></td>
+[55]</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -474,7 +464,7 @@ CD版にはないイントロが使われている。</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Wake_up!" title="wikilink">Wake up!</a></p></td>
 <td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a></p></td>
 <td><p>第629話 - 第686話</p></td>
-<td><p>第663話、第680話で映像の一部が変更。[57]</p></td>
+<td><p>第663話、第680話で映像の一部が変更。[56]</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -489,15 +479,15 @@ CD版にはないイントロが使われている。</p></td>
 <td><p><a href="../Page/氣志團.md" title="wikilink">氣志團</a>ときただにひろし</p></td>
 <td><p>第747話 - 第806話</p></td>
 <td><p>第753話から第756話は劇場版『<a href="https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD" title="wikilink">GOLD</a>』の映像を使用。<br />
-第783話で映像の一部が変更[58]。</p></td>
+第783話で映像の一部が変更[57]。</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Finally_(安室奈美恵のアルバム)" title="wikilink">Hope</a></p></td>
 <td><p>安室奈美恵</p></td>
 <td><p>第807話 - 第855話</p></td>
-<td><p>第825話では映像の一部がこの回のみの特別版に変更[59]。<br />
-第826話で映像の一部が変更[60]。</p></td>
+<td><p>第825話では映像の一部がこの回のみの特別版に変更[58]。<br />
+第826話で映像の一部が変更[59]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -508,7 +498,7 @@ CD版にはないイントロが使われている。</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p>OVER THE TOP[61]</p></td>
+<td><p>OVER THE TOP[60]</p></td>
 <td><p>きただにひろし</p></td>
 <td><p>第892話 -</p></td>
 <td></td>
@@ -533,7 +523,7 @@ CD版にはないイントロが使われている。</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>memories[62]</p></td>
+<td><p>memories[61]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大槻真希" title="wikilink">大槻真希</a></p></td>
 <td><p>第1話 - 第30話</p></td>
 <td></td>
@@ -557,7 +547,7 @@ CD版にはないイントロが使われている。</p></td>
 <td><p>しょうちのすけ</p></td>
 <td><p><a href="../Page/推定少女.md" title="wikilink">推定少女</a></p></td>
 <td><p>第74話 - 第81話</p></td>
-<td><p>[63]</p></td>
+<td><p>[62]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -583,7 +573,7 @@ CD版にはないイントロが使われている。</p></td>
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Shining_ray" title="wikilink">Shining ray</a></p></td>
-<td><p><a href="../Page/Janne_Da_Arc.md" title="wikilink">Janne Da Arc</a>[64]</p></td>
+<td><p><a href="../Page/Janne_Da_Arc.md" title="wikilink">Janne Da Arc</a>[63]</p></td>
 <td><p>第119話 - 第132話</p></td>
 <td></td>
 </tr>
@@ -596,14 +586,14 @@ CD版にはないイントロが使われている。</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FAITH/Thousand_Lights" title="wikilink">FAITH</a>[65]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FAITH/Thousand_Lights" title="wikilink">FAITH</a>[64]</p></td>
 <td><p>第157話 - 第168話</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A_to_Z" title="wikilink">A to Z〜ONE PIECE Edition〜</a>[66]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A_to_Z" title="wikilink">A to Z〜ONE PIECE Edition〜</a>[65]</p></td>
 <td><p><a href="../Page/ZZ_(バンド).md" title="wikilink">ZZ</a></p></td>
 <td><p>第169話 - 第181話</p></td>
 <td></td>
@@ -624,10 +614,10 @@ CD版にはないイントロが使われている。</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仮面/未来航海" title="wikilink">未来航海</a>[67]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仮面/未来航海" title="wikilink">未来航海</a>[66]</p></td>
 <td><p>タッキー&amp;翼</p></td>
 <td><p>第207話 - 第230話</p></td>
-<td><p>[68]</p></td>
+<td><p>[67]</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -641,7 +631,7 @@ CD版にはないイントロが使われている。</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Dear_friends_(TRIPLANEの曲)" title="wikilink">Dear friends</a></p></td>
 <td><p><a href="../Page/TRIPLANE.md" title="wikilink">TRIPLANE</a></p></td>
 <td><p>第246話 - 第255話</p></td>
-<td><p>[69]</p></td>
+<td><p>[68]</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -662,7 +652,7 @@ CD版にはないイントロが使われている。</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Family_〜7人の麦わら海賊団篇〜" title="wikilink">Family</a></p></td>
 <td><p>麦わら海賊団（128話）<br />
 7人の麦わら海賊団（TVSP2以降）</p></td>
-<td><p>第128話[70]、<br />
+<td><p>第128話[69]、<br />
 TVSP2 - 4、総集編</p></td>
 <td></td>
 </tr>
@@ -724,7 +714,7 @@ TVSP2 - 4、総集編</p></td>
     ルフィとサンジは、捕らわれたゾロとウソップを救出し、4人はメリー号のあるドックを目指す。ナミとチョッパーも、コバトの協力を得てドックに向かう。そこにはドレイク少佐が待ち受けていたが、コバトと彼女の父親である整備士・メカオが起こした混乱に乗じて、ルフィたちはメリー号に乗り込む。ロビンもメリー号へと合流し、一路脱出をはかる。
     脱出寸前、ナミは船内に空島で手に入れた黄金がないことに気付く。黄金奪還のため、麦わらの一味は再び要塞へ上陸する。ジョナサンは、黄金をエサにルフィとナミを自室へおびき寄せるが、ナミが海兵たちを打ち倒し、黄金を奪い返す。それでもジョナサンは余裕を見せる。
     ジョナサンの作戦通り、夜9時になると起こる引き潮のせいで、メリー号は航行不能に陥る。ジョナサンは完全に包囲し、降伏を勧めてくる。ナバロン不要論を説き、自分だけの力で一味を捕らえようと画策するシェパードは、投降してしまう前に仕留めようと、バズーカ砲で彼らを狙う。ルフィたちは「貝（ダイアル）」とタコバルーンを使って空へと逃げる。ジョナサンはそれを読んでおり、大砲の照準をメリー号に合わさせるが、シェパードが放った砲弾が砲台を破壊してしまう。そしてルフィたちは無事、要塞から脱出を果たす。ルフィを取り逃がしてしまったジョナサンだが、この事件によってナバロンの必要性を示すことができ、さらに内部の結束が固まったと考えていた。
-  -  / 記憶喪失編（第220話 - 第224話）\[71\]
+  -  / 記憶喪失編（第220話 - 第224話）\[70\]
     麦わらの一味はとある島の沖に船を止め、一夜を過ごす。朝起きると、ロビンを除く6人が、仲間と出会って以降の記憶を失ってしまっていた。ルフィたちは、タツノオトシゴのような形の笛を吹く少年・[ノコが記憶喪失に関わっていることをつきとめる](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ノコ "wikilink")。そして少年の行方を追うため島に上陸するが、島の人々も記憶を失っていた。
     ゾロは笛を持つ少年に操られ、ルフィと戦う。一方、少年はただ操られていただけで、記憶を奪ったのはタツノオトシゴだということが判明する。タツノオトシゴは、濃い記憶を食って千年竜になるため、麦わらの一味の記憶を全て奪う。だが、ルフィに吹き飛ばされ、一味の記憶は元に戻った。
   - （第326話 - 第335話）
@@ -734,14 +724,14 @@ TVSP2 - 4、総集編</p></td>
   - Zの野望編（第575話 - 第578話）
     劇場版第12作『[ONE PIECE FILM Z](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")』と連動したエピソード。魚人島編とパンクハザード編の間に位置する。
   - シーザー誘拐編（仮称）（第626話 - 第628話）
-    パンクハザード編とドレスローザ編の間に位置するエピソード\[72\]。
+    パンクハザード編とドレスローザ編の間に位置するエピソード\[71\]。
     パンクハザードで科学者シーザー・クラウンの捕縛に成功し、シーザー引き渡しのためドレスローザへ向かう一味は、突如現れた海獣にシーザーを誘拐されてしまう。後を追うルフィ、チョッパー、ローの3人は謎のアジトに潜入し、かつてアラバスタで出会ったクンフージュゴン率いる「[海獣海賊団](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#海獣海賊団 "wikilink")」と遭遇。彼らは人や動物をペットとして服従させられる「ペトペトの実」の能力者[ブリードに操られていた](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ブリード "wikilink")。そこへブリードが現われ、ルフィたちもペットにされてしまう。ルフィたちを支配下に置いたブリードはルフィとローに死ぬまで互いを殴り続けろと命じる。二人は体の制御がきかずボロボロになるまで殴り合うが、「ペトペトの実」の弱点を見抜いたローの機転で窮地を脱する。逆上したブリードは自らの肉体を強化し襲いかかるが、ルフィとジュゴンの合体技によって倒される。ブリードの支配から解放されたジュゴンたちは、新たな旅に出発した。
-  - （第747話 - 第750話）\[73\]
+  - （第747話 - 第750話）\[72\]
     劇場版第13作『[ONE PIECE FILM GOLD](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD "wikilink")』と連動したエピソード。ドレスローザ編とゾウ編の間に位置する。
-  - （第780話 - 第782話）\[74\]
+  - （第780話 - 第782話）\[73\]
     ゾウ編とホールケーキアイランド編の間に位置するエピソード。
-    「ゾウ」を出発して早々深刻な食糧難に陥ったルフィたちは、食料を確保するためホールケーキアイランドの近くにある海軍の最前線基地[G-F支部に潜入し](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#海軍G-F支部（アニメオリジナル） "wikilink")、海軍の若き実力者たちと相まみえる\[75\]。
-  - （第895話 - 第896話）\[76\]
+    「ゾウ」を出発して早々深刻な食糧難に陥ったルフィたちは、食料を確保するためホールケーキアイランドの近くにある海軍の最前線基地[G-F支部に潜入し](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#海軍G-F支部（アニメオリジナル） "wikilink")、海軍の若き実力者たちと相まみえる\[74\]。
+  - （第895話 - 第896話）\[75\]
     劇場版第14作『[ONE PIECE STAMPEDE](https://ja.wikipedia.org/wiki/ONE_PIECE_STAMPEDE "wikilink")』と連動したエピソード。ワノ国編の途中で、その時点のストーリーとは無関係に挿入された。
 
 ## 番外編スペシャル
@@ -751,26 +741,26 @@ TVSP2 - 4、総集編</p></td>
   - 守れ\! 最後の大舞台（2003年12月14日）
   - [ワンピース時代劇](../Page/ワンピース時代劇.md "wikilink")（2005年 - 2009年）
   - [麦わら劇場](../Page/ONE_PIECE_麦わら劇場.md "wikilink")、[チョッパーマン](../Page/チョッパーマン.md "wikilink")（2006年 - 2007年）
-  - [トリコ×ONE PIECE×ドラゴンボールZ 超コラボスペシャル\!\!](https://ja.wikipedia.org/wiki/トリコ×ONE_PIECE×ドラゴンボールZ_超コラボスペシャル!! "wikilink")（2013年4月7日）\[77\] - 『[トリコ](https://ja.wikipedia.org/wiki/トリコ#アニメ "wikilink")』、『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』とのコラボレーションアニメ。
-  - ROMANCE DAWN（2019年10月20日）\[78\] - 読み切り漫画『[ROMANCE DAWN](https://ja.wikipedia.org/wiki/WANTED!_尾田栄一郎短編集#WJ版 "wikilink")』のアニメ化作品。
+  - [トリコ×ONE PIECE×ドラゴンボールZ 超コラボスペシャル\!\!](https://ja.wikipedia.org/wiki/トリコ×ONE_PIECE×ドラゴンボールZ_超コラボスペシャル!! "wikilink")（2013年4月7日）\[76\] - 『[トリコ](https://ja.wikipedia.org/wiki/トリコ#アニメ "wikilink")』、『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』とのコラボレーションアニメ。
+  - ROMANCE DAWN（2019年10月20日）\[77\] - 読み切り漫画『[ROMANCE DAWN](https://ja.wikipedia.org/wiki/WANTED!_尾田栄一郎短編集#WJ版 "wikilink")』のアニメ化作品。
 
 ### 土曜プレミアム
 
 フジテレビ系列の単発特別番組枠「[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")」で放送されたスペシャル番組。
 
   - [ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブナミ_〜航海士の涙と仲間の絆〜 "wikilink")（2012年8月25日）
-  - [ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブルフィ_〜ハンドアイランドの冒険〜 "wikilink")（2012年12月15日）\[79\]
-  - [ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブメリー_〜もうひとりの仲間の物語〜 "wikilink")（2013年8月24日）\[80\]
+  - [ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブルフィ_〜ハンドアイランドの冒険〜 "wikilink")（2012年12月15日）\[78\]
+  - [ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブメリー_〜もうひとりの仲間の物語〜 "wikilink")（2013年8月24日）\[79\]
   - [ONE PIECE “3D2Y” エースの死を越えて\! ルフィ仲間との誓い](https://ja.wikipedia.org/wiki/ONE_PIECE_“3D2Y”_エースの死を越えて!_ルフィ仲間との誓い "wikilink")（2014年8月30日）
-  - [ONE PIECE エピソードオブサボ 〜3兄弟の絆 奇跡の再会と受け継がれる意志〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブサボ_〜3兄弟の絆_奇跡の再会と受け継がれる意志〜 "wikilink")（2015年8月22日）\[81\]
-  - [ONE PIECE 〜アドベンチャー オブ ネブランディア〜](https://ja.wikipedia.org/wiki/ONE_PIECE_〜アドベンチャー_オブ_ネブランディア〜 "wikilink")（2015年12月19日）\[82\]
+  - [ONE PIECE エピソードオブサボ 〜3兄弟の絆 奇跡の再会と受け継がれる意志〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブサボ_〜3兄弟の絆_奇跡の再会と受け継がれる意志〜 "wikilink")（2015年8月22日）\[80\]
+  - [ONE PIECE 〜アドベンチャー オブ ネブランディア〜](https://ja.wikipedia.org/wiki/ONE_PIECE_〜アドベンチャー_オブ_ネブランディア〜 "wikilink")（2015年12月19日）\[81\]
   - [ONE PIECE 〜ハートオブ ゴールド〜](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD#ONE_PIECE_〜ハートオブゴールド〜 "wikilink")（2016年7月16日）
-  - [ONE PIECE エピソードオブ東の海 〜ルフィと4人の仲間の大冒険\!\!〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブ東の海_〜ルフィと4人の仲間の大冒険!!〜 "wikilink")（2017年8月26日）\[83\]
-  - [ONE PIECE エピソードオブ空島](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブ空島 "wikilink")（2018年8月25日）\[84\]
+  - [ONE PIECE エピソードオブ東の海 〜ルフィと4人の仲間の大冒険\!\!〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブ東の海_〜ルフィと4人の仲間の大冒険!!〜 "wikilink")（2017年8月26日）\[82\]
+  - [ONE PIECE エピソードオブ空島](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブ空島 "wikilink")（2018年8月25日）\[83\]
 
 ### ワンピース キャラクターズLog
 
-『**ワンピース キャラクターズLog**』は、映画『[ONE PIECE FILM GOLD](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD "wikilink")』公開記念として放送された、麦わらの一味9人に焦点を当てた総集編（関東ローカル）\[85\]。全9話。ナレーションはバルトロメオ（声 - [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）。また2016年7月16日より「[フジテレビオンデマンド](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")」にて2週間限定で無料配信された\[86\]。8月26日より2話分（ロビン編・フランキー編・ブルック編は3話収録）を収録したDVDが発売。
+『**ワンピース キャラクターズLog**』は、映画『[ONE PIECE FILM GOLD](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD "wikilink")』公開記念として放送された、麦わらの一味9人に焦点を当てた総集編（関東ローカル）\[84\]。全9話。ナレーションはバルトロメオ（声 - [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）。また2016年7月16日より「[フジテレビオンデマンド](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")」にて2週間限定で無料配信された\[85\]。8月26日より2話分（ロビン編・フランキー編・ブルック編は3話収録）を収録したDVDが発売。
 
 | 話数  | キャラクター | 放送日               | DVD発売日      |
 | --- | ------ | ----------------- | ----------- |
@@ -805,18 +795,18 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>（CX）</p></td>
-<td><p>日曜 9:30 - 10:00[87]</p></td>
+<td><p>日曜 9:30 - 10:00[86]</p></td>
 <td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
 <td><p><strong>制作局</strong></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p>[88]</p></td>
+<td><p>[87]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a>（uhb）</p></td>
 <td><p>同時ネット</p></td>
-<td><p>[89]</p></td>
+<td><p>[88]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -825,7 +815,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p><a href="../Page/岩手めんこいテレビ.md" title="wikilink">岩手めんこいテレビ</a>（mit）</p></td>
-<td><p>[90]</p></td>
+<td><p>[89]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -835,7 +825,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
 <td><p><a href="../Page/仙台放送.md" title="wikilink">仙台放送</a>（OX）</p></td>
-<td><p>[91]</p></td>
+<td><p>[90]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -845,7 +835,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a>（SAY）</p></td>
-<td><p>[92]</p></td>
+<td><p>[91]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -855,7 +845,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a>（FTV）</p></td>
-<td><p>|[93]</p></td>
+<td><p>|[92]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -865,7 +855,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>（NBS）</p></td>
-<td><p>[94]</p></td>
+<td><p>[93]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -875,7 +865,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a>（SUT）</p></td>
-<td><p>[95]</p></td>
+<td><p>[94]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -885,7 +875,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a>（BBT）</p></td>
-<td><p>[96]</p></td>
+<td><p>[95]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -895,7 +885,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a>（ITC）</p></td>
-<td><p>[97]</p></td>
+<td><p>[96]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -905,7 +895,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>（THK）</p></td>
-<td><p>[98]</p></td>
+<td><p>[97]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -915,7 +905,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>（KTV）</p></td>
-<td><p>[99]</p></td>
+<td><p>[98]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -925,7 +915,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
 <td><p><a href="../Page/高知さんさんテレビ.md" title="wikilink">高知さんさんテレビ</a>（KSS）</p></td>
-<td><p>[100]</p></td>
+<td><p>[99]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -935,7 +925,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>（TNC）</p></td>
-<td><p>[101]</p></td>
+<td><p>[100]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -945,7 +935,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サガテレビ" title="wikilink">サガテレビ</a>（sts）</p></td>
-<td><p>[102]</p></td>
+<td><p>[101]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -955,7 +945,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a>（TKU）</p></td>
-<td><p>[103]</p></td>
+<td><p>[102]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -965,7 +955,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a>（KTS）</p></td>
-<td><p>[104]</p></td>
+<td><p>[103]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -978,7 +968,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p>月曜 1:25 - 1:55（日曜深夜）</p></td>
 <td><p>遅れネット</p></td>
 <td><p>×</p></td>
-<td><p>[105]</p></td>
+<td><p>[104]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -986,7 +976,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
 <td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">NST新潟総合テレビ</a>（NST）</p></td>
 <td><p>土曜 5:30 - 6:00</p></td>
-<td><p>[106]</p></td>
+<td><p>[105]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -996,7 +986,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a>（FTB）</p></td>
 <td><p>木曜 1:00 - 1:30（水曜深夜）</p></td>
-<td><p>[107]</p></td>
+<td><p>[106]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1006,7 +996,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>（OHK）</p></td>
 <td><p>日曜 8:25 - 8:55</p></td>
-<td><p>[108]</p></td>
+<td><p>[107]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1016,7 +1006,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a>（TSK）</p></td>
 <td><p>木曜 16:20 - 16:50</p></td>
-<td><p>[109]</p></td>
+<td><p>[108]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1026,7 +1016,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ新広島" title="wikilink">テレビ新広島</a>（tss）</p></td>
 <td><p>日曜 8:30 - 9:00</p></td>
-<td><p>[110]</p></td>
+<td><p>[109]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1035,7 +1025,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p><a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>（EBC）</p></td>
-<td><p>[111]</p></td>
+<td><p>[110]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1049,7 +1039,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p>フジテレビ系列<br />
 <a href="../Page/日本ニュースネットワーク.md" title="wikilink">日本テレビ系列</a><br />
 <a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
-<td><p>[112]</p></td>
+<td><p>[111]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1057,9 +1047,9 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a>（KTN）</p></td>
-<td><p>日曜 9:30 - 10:00[113]</p></td>
+<td><p>日曜 9:30 - 10:00[112]</p></td>
 <td><p>フジテレビ系列</p></td>
-<td><p>[114]</p></td>
+<td><p>[113]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1068,7 +1058,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a>（OTV）</p></td>
 <td><p>木曜 2:25 - 2:55（水曜深夜）</p></td>
-<td><p>[115]</p></td>
+<td><p>[114]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1076,11 +1066,11 @@ TVSP2 - 4、総集編</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>（OBS）</p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a>（OBS）</p></td>
 <td><p>日曜 2:08 - 2:38（土曜深夜）</p></td>
 <td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p>×</p></td>
-<td><p>[116]</p></td>
+<td><p>[115]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1089,7 +1079,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a>（KRY）</p></td>
 <td><p>火曜 1:54 - 2:24（月曜深夜）</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
-<td><p>[117]</p></td>
+<td><p>[116]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1100,7 +1090,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p>日曜 10:30 - 11:00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送" title="wikilink">BS放送</a></p></td>
 <td><p>○</p></td>
-<td><p>[118]</p></td>
+<td><p>[117]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1110,7 +1100,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p>日曜 8:30 - 8:55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送" title="wikilink">CS放送</a></p></td>
 <td><p>×</p></td>
-<td><p>[119]</p></td>
+<td><p>[118]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1119,7 +1109,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビNEXT" title="wikilink">フジテレビNEXT<br />
 {{Smaller</a></p></td>
 <td><p>金曜 0:00 - 0:30（木曜深夜）</p></td>
-<td><p>[120]</p></td>
+<td><p>[119]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1129,11 +1119,11 @@ TVSP2 - 4、総集編</p></td>
 </tbody>
 </table>
 
-  - 最新話は放送当日から1週間、「[TVer](https://ja.wikipedia.org/wiki/TVer "wikilink")」で無料配信される（2018年4月8日開始\[121\]）。過去の放送話は有料コンテンツとしてフジテレビ・オン・デマンドで配信。
+  - 最新話は放送当日から1週間、「[TVer](https://ja.wikipedia.org/wiki/TVer "wikilink")」で無料配信される（2018年4月8日開始\[120\]）。過去の放送話は有料コンテンツとしてフジテレビ・オン・デマンドで配信。
   - ローカルセールス枠になってからはスポンサーと[字幕放送の有無がバラバラになっていたが](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")、字幕放送に関しては2019年現在、フジテレビ系列局ではクロスネット局・BS含め全局実施している。
   - 長野放送・富山テレビでは、2006年9月末を以って放送が打ち切られた後、2011年春に再開された。その間の4年半分のエピソードは未放送となっている。
   - 秋田テレビでは、2006年9月末を以って放送が打ち切られた後、2013年5月に再開された。その間の5年半分のエピソードは未放送となっている。
-  - 2017年9月までフジテレビとの同時ネット局では番組終了後、CMをはさまずに『[ワイドナショー](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")』\[122\] に接続していた。
+  - 2017年9月までフジテレビとの同時ネット局では番組終了後、CMをはさまずに『[ワイドナショー](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")』\[121\] に接続していた。
 
 ### 過去に放送されていた局
 
@@ -1153,7 +1143,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/青森テレビ.md" title="wikilink">青森テレビ</a>（ATV）</p></td>
 <td><p>木曜 1:29 - 1:59（水曜深夜）</p></td>
 <td><p>TBS系列</p></td>
-<td><p>[123]</p></td>
+<td><p>[122]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
@@ -1168,7 +1158,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p>不明</p></td>
 <td><p>日本テレビ系列<br />
 フジテレビ系列</p></td>
-<td><p>[124]</p></td>
+<td><p>[123]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1185,7 +1175,7 @@ TVSP2 - 4、総集編</p></td>
 
 『**ONE PIECE Log Collection**』（ワンピース ログコレクション）は、テレビシリーズをエピソードごとにまとめた[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")。放送10周年記念として[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より発売されている。
 
-発売前にシリーズ合計10万セット以上の予約があり、『EAST BLUE』・『SANJI』は2010年7月22日付[オリコン](../Page/オリコン.md "wikilink")DVDデイリーランキングアニメ部門と8月2日付オリコン週間DVDランキングアニメ部門で1位・2位を独占。オリコン週間DVD総合ランキングでも2位・3位となった\[125\]。また、『GOD』・『ROCKET MAN』（初動1.9万枚売り上げ\[126\]）・『FRANKY』も、週間DVDランキング総合首位を獲得した。2013年にはシリーズ累計100万本を突破した\[127\]。
+発売前にシリーズ合計10万セット以上の予約があり、『EAST BLUE』・『SANJI』は2010年7月22日付[オリコン](../Page/オリコン.md "wikilink")DVDデイリーランキングアニメ部門と8月2日付オリコン週間DVDランキングアニメ部門で1位・2位を独占。オリコン週間DVD総合ランキングでも2位・3位となった\[124\]。また、『GOD』・『ROCKET MAN』（初動1.9万枚売り上げ\[125\]）・『FRANKY』も、週間DVDランキング総合首位を獲得した。2013年にはシリーズ累計100万本を突破した\[126\]。
 
 <table>
 <caption>ONE PIECE Log Collection</caption>
@@ -2010,52 +2000,52 @@ TVSP2 - 4、総集編</p></td>
 23.
 24. 劇場版第7作『[カラクリ城のメカ巨兵](../Page/ONE_PIECE_THE_MOVIE_カラクリ城のメカ巨兵.md "wikilink")』（2006年[3月4日](../Page/3月4日.md "wikilink")公開）を含む。
 25.
-26.
-27. クレジットなし。
-28. [ワンピース（avex movie）](http://avexmovie.jp/wk/000135.html)
-29. 第196話から第283話までクレジットなし。
-30. 第395話-第425話は「製作担当補佐」でのクレジット。
-31. 2009年1月から小泉と久田の連名。2009年11月に小泉の降板に伴い、単独で久田のみがクレジットされるようになった。
-32. 第575話から新設。
-33. 第895話・第896話を除く。
-34. 一部話数を除く。
-35.
-36. 色彩設定は第115話まではEDで、第116話以降は色彩設計とOPでクレジット。
-37. 堀田は色彩設計に昇格する前は、色指定を担当していた。
-38.
-39. 志水は一時期、宇田と連名でクレジット。境と宮元は連名でクレジットされた後に境の降板に伴い宮元単独でクレジットされる様になった。
-40. 第892話から新設。
-41. 第323話-第345話までの「編集」に昇格するまでは「編集助手」という役職でクレジット。
-42. 第653話から新設。
-43. 第781話は、藤村聡が担当。
-44. 第460話までは「TOVIC」、第461話以降は「東映デジタルラボ」とクレジット。
-45. ノンクレジット。
-46. [NAS 作品紹介 ワンピース](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=72&mm_category) 日本アドシステムズ
-47. 冒頭の約30秒間にナレーション（声 - [大場真人](../Page/大場真人.md "wikilink")）と[ゴールド・ロジャー](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ゴール・D・ロジャー "wikilink")（声 - [大塚周夫](../Page/大塚周夫.md "wikilink")）のセリフがある。
-48. 冒頭の約30秒間にゴールド・ロジャー（声 - 大塚周夫）のセリフがある。
-49.
-50. CD版とはアレンジが異なる。
-51. 冒頭の約30秒間に[モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")（声 - [田中真弓](../Page/田中真弓.md "wikilink")）のセリフがある。
-52.
-53. [FODをはじめとするネット配信ではカットされているが](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")、各サイト上にその旨の告知はない。
-54. 第383話まではノンクレジット。
-55. 『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』とのコラボレーションによる企画ユニット。第429話まではノンクレジット。
-56.
-57. 中盤に[マーシャル・D・ティーチ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#マーシャル・D・ティーチ "wikilink")（声 - [大塚明夫](../Page/大塚明夫.md "wikilink")）とモンキー・D・ルフィ（声 - 田中真弓）のセリフがある。
+26. クレジットなし。
+27. [ワンピース（avex movie）](http://avexmovie.jp/wk/000135.html)
+28. 第196話から第283話までクレジットなし。
+29. 第395話-第425話は「製作担当補佐」でのクレジット。
+30. 2009年1月から小泉と久田の連名。2009年11月に小泉の降板に伴い、単独で久田のみがクレジットされるようになった。
+31. 第575話から新設。
+32. 第895話・第896話を除く。
+33. 一部話数を除く。
+34.
+35. 色彩設定は第115話まではEDで、第116話以降は色彩設計とOPでクレジット。
+36. 堀田は色彩設計に昇格する前は、色指定を担当していた。
+37.
+38. 志水は一時期、宇田と連名でクレジット。境と宮元は連名でクレジットされた後に境の降板に伴い宮元単独でクレジットされる様になった。
+39. 第892話から新設。
+40. 第323話-第345話までの「編集」に昇格するまでは「編集助手」という役職でクレジット。
+41. 第653話から新設。
+42. 第781話は、藤村聡が担当。
+43. 第460話までは「TOVIC」、第461話以降は「東映デジタルラボ」とクレジット。
+44. ノンクレジット。
+45. [NAS 作品紹介 ワンピース](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=72&mm_category) 日本アドシステムズ
+46. 冒頭の約30秒間にナレーション（声 - [大場真人](../Page/大場真人.md "wikilink")）と[ゴールド・ロジャー](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ゴール・D・ロジャー "wikilink")（声 - [大塚周夫](../Page/大塚周夫.md "wikilink")）のセリフがある。
+47. 冒頭の約30秒間にゴールド・ロジャー（声 - 大塚周夫）のセリフがある。
+48.
+49. CD版とはアレンジが異なる。
+50. 冒頭の約30秒間に[モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")（声 - [田中真弓](../Page/田中真弓.md "wikilink")）のセリフがある。
+51.
+52. [FODをはじめとするネット配信ではカットされているが](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")、各サイト上にその旨の告知はない。
+53. 第383話まではノンクレジット。
+54. 『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』とのコラボレーションによる企画ユニット。第429話まではノンクレジット。
+55.
+56. 中盤に[マーシャル・D・ティーチ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#マーシャル・D・ティーチ "wikilink")（声 - [大塚明夫](../Page/大塚明夫.md "wikilink")）とモンキー・D・ルフィ（声 - 田中真弓）のセリフがある。
+57.
 58.
 59.
 60.
-61.
-62. テレビオンエア時は「Memories」名義。
-63. CD版とはアレンジが異なる。
-64. テレビオンエア時は「ジャンヌダルク」名義。
-65. テレビオンエア時は「faith」名義。
-66. テレビオンエア時は「A to Z」名義。
-67. [FODをはじめとするネット配信ではカットされている](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")。こちらは各サイト上に「エンディングがカットされている」旨の告知がある。
+61. テレビオンエア時は「Memories」名義。
+62. CD版とはアレンジが異なる。
+63. テレビオンエア時は「ジャンヌダルク」名義。
+64. テレビオンエア時は「faith」名義。
+65. テレビオンエア時は「A to Z」名義。
+66. [FODをはじめとするネット配信ではカットされている](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")。こちらは各サイト上に「エンディングがカットされている」旨の告知がある。
+67.
 68.
-69.
-70. テレビ本放送時のみ。
-71. ゲーム『ONE PIECE オーシャンズドリーム\!』を元にしたストーリー。
+69. テレビ本放送時のみ。
+70. ゲーム『ONE PIECE オーシャンズドリーム\!』を元にしたストーリー。
+71.
 72.
 73.
 74.
@@ -2070,45 +2060,44 @@ TVSP2 - 4、総集編</p></td>
 83.
 84.
 85.
-86.
-87. 2017年9月まで本編の開始は9:32頃から。
-88. フジテレビおよび同時ネット局はストロング9後半枠（ただし名称表示はない）として放送。
-89. 2013年以降、毎年8月に開催される『[北海道マラソン](../Page/北海道マラソン.md "wikilink")』放送日は同日の12:30 - 13:00に放送。2017年8月27日は同大会中継のため、12:30 - 13:00での放送となったが、同日は13:00 - 13:30にも放送し、同年9月3日から同時ネットに移行。
-90. 2010年12月までは木曜 17:24 - 17:54に放送され、2011年1月9日から現在の日時。さらに、2014年12月28日・2015年1月4日にそれぞれ4話連続放送を行い、2015年1月11日から同時ネットに移行。
-91. 2007年3月までは金曜 15:30 - 15:59。2007年4月から現在の時間に移動。2017年12月31日に遅れ分の1話を放送し、2018年1月7日より同時ネットに移行。
-92. 時差ネット開始当初は木曜 16:24 - 16:53に放送されていたが、2010年4月1日・8日・15日に2話連続放送をした後、4月18日から同時ネットに移行。また、スペシャルエディションは2012年7月7日に放送している。2012年8月4日・11日・18日に3話連続放送をした。
-93. 2008年3月までは月曜19:00 - 19:30。また、『トリコ』が未放送になったため、第492話・第542話・第590話 （『トリコ』とのコラボの回）は、未放送。3月26日は土曜 10:00 - 10:30。2016年3月21日に遅れ分の4話、4月3日の9:00に遅れ分の1話を放送し9:30から同時ネットに移行。
-94. 2011年4月3日より第491話から放送再開。2011年7月3日までは日曜 5:30 - 6:00で放送され、2011年7月5日から2012年9月30日まで火曜15:30 - 16:00に放送された。2012年10月7日から2013年4月7日まで再び日曜 5:30 - 6:00で放送し、2013年4月7日より同時ネット。そのため、4月7日は1日に2話放送となった。
-95. 当初は1週遅れだったが、2009年3月22日に『[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")』のためにフジテレビ系列で放送が休止された日に時間を変更して遅れ分を放送し、3月29日から同時ネットに移行。
-96. 2011年3月27日に第336話を放送した後、4月3日より第490話から放送再開。2012年3月17日には『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』が遅れ日数調整のため休止になったため、代わりに本作の第291話が放送され、2013年1月5日にも同様に第303話が放送された。[EPGでは](../Page/電子番組ガイド.md "wikilink")、2012年10月14日放送の第566話まで本来の話数ではなく再開時を起点とした話数が表示されていたが、その後話数表示はなくなった。2013年10月6日より同時ネットに移行し、この日のみそれまでの6:30 - 7:00と併せて2話放送。
-97. 番組開始から2006年9月まで同時ネット。2006年10月よりフジテレビが現在の日曜9:30枠に移動後からは遅れネット（月曜 15:26 - 15:56→土曜 16:55 - 17:25。ただし休止となる場合があったり、未放送となっている場合がある）での放送再開まで非ネットであった。当該枠は関西テレビ制作の『[旅っきり\!〜ふれあい紀行〜](../Page/旅っきり!〜ふれあい紀行〜.md "wikilink")』に差し替えていた。2008年4月改編で、フジテレビ『[もしもツアーズ](../Page/もしもツアーズ.md "wikilink")』に差し替えに変更、同時ネットできないための代替編成となり、この影響で第542話トリコとのコラボの回は放送されず、2013年4月改編で『もしもツアーズ』が土曜 9:55 - 10:25に枠移動したため、再度同時ネットに移行。
-98. 2011年9月までは[特選アニメ劇場](../Page/特選アニメ劇場.md "wikilink")枠で放送（2007年3月までは木曜 16:00 - 16:30。2011年3月までは金曜 15:59 - 16:30。2011年9月までは金曜 16:21 - 16:51。編成上の都合で他の曜日の放送となる場合があり、遅れネット最後の放送は9月28日の水曜。また、2011年3月11日に[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（東日本大震災）が起きたため、休止となり翌週の3月18日に放送。同年の4月1日は『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』の再放送が拡大したため翌週の4月8日に放送。そのため、これらの日は遅れを拡大しないように2話連続放送をした）2011年10月2日より同時ネットになった。
-99. 2008年3月までは土曜 16:55 - 17:25であったが、4月20日から日曜 9:28 - 9:56に移動、2009年1月から現在の時間に移動となった。東日本大震災の影響で内容に配慮し、2011年3月20日から4月10日まで再放送を4話挿入したため、さらに遅れが広がった。しかし、2012年8月8日 - 10日に5話一拳に放送し、2016年4月3日の9:00 - 9:30に遅れ分の1話を放送し同時ネットに移行。データ放送は6月12日放送より開始した。但し、放送のタイミングによってはデータ放送や解説放送を実施しない場合がある。
-100. 2007年3月までは月曜 15:25 - 15:55、2012年3月までは月曜 15:30 - 16:00。2012年8月13日 - 8月17日まで2話連続で放送し、8月19日から同時ネットに移行。
-101. 2008年3月までは木曜 16:00 - 16:30、2008年4月から2018年3月25日までは日曜 9:30 - 10:00だった。第829話を2018年4月1日6:30 - 7:00に放送して遅れを解消し、同日の現在の時間から同時ネットに移行。
-102. 2007年4月から放送再開。ただし、2006年10月 - 2007年3月までの放送分は未放送。
-103. 作者の出身地。2006年9月までは同時ネット、2006年10月から2009年3月までは火曜15:30-16:00、2009年4月から2014年9月までは土曜 10:25 - 10:55に放送。通常の日曜 9:30 - 10:00の同時刻の遅れネットに加え、2018年9月17日・24日の月曜 10:50 - 11:20に計2話を放送し、同年9月30日から同時ネットに移行。
-104. 2011年4月17日までは日曜 9:00 - 9:30。ただし、毎月第1日曜日は『ぐっとグッドかごしま』（[鹿児島市](../Page/鹿児島市.md "wikilink")の広報番組）を放送のため休止し、遅れが拡大していた。東日本大震災の影響で内容に配慮し、2011年3月20日から4月17日まで再放送を4話挿入したため、さらに遅れが広がった。2011年4月24日より放送時間が9:30 - 10:00に移行。2011年5月と6月にスペシャルとして各4話の計8話を集中放送したため、遅れが解消された。2013年4月20日に5話まとめて放送され、翌4月21日より同時ネットが開始された。
-105. 2013年5月5日より第588話から放送再開（2006年9月をもって一旦放送を終了した局の中では、最も遅い再開となった）。2013年8月10日に第312話 - 第315話を集中放送（『エピソードオブメリー』放送に合わせたもの）。2013年8月14日に第336話を放送（『トリコ』放送休止週の穴埋め）。2016年3月27日までは日曜 6:30 - 7:00に放送した。2016年4月4日 - 2017年4月10日の月曜 0:30 - 1:00（日曜深夜）への移動を経て2017年4月17日より現在の時間で放送。なお、2018年以降は東北地方の系列局で唯一、遅れネットならびに深夜での放送となっている。
-106. 2007年3月28日までは火曜 1:49 - 2:19（月曜深夜）。2019年9月までは新潟総合テレビ。
-107. 当初は金曜 15:28 - 15:58だった。
-108. 2008年3月までは木曜 16:00 - 16:30。2019年9月までは日曜 6:30 - 7:00。岡山放送の放送休止が相次ぎ、遅れ幅が広がった。2012年8月25日から9月15日にかけて、現行枠だけでなく土曜10:10 - 10:40にも計5回放送されていたため、遅れ幅が縮小。
-109. 2006年12月下旬3ヶ月分を集中放送した後、2007年1月から日曜9:00 - 9:30に毎週放送を再開。2018年4月19日から現在の時間に移動。
-110. 2013年3月までは木曜 16:30 - 17:00。2008年3月までは『こち亀』スペシャルの放送をしなくても特番を入れ、差が開きも縮まりもしないように毎回調整されていたが、2008年4月以降は『こち亀』スペシャルも放送するようになった。2013年4月から土曜 11:10 - 11:40に移動。2016年10月から表記の時間に移動。
-111. 2006年12月下旬に第279話 - 第288話を集中放送。2007年1月6日から2009年3月28日まで日曜 5:00 - 5:30で毎週放送再開した。2009年4月13日より月曜 15:30 - 16:00に移動し、2009年10月4日より日曜6:30 - 7:00に移動し、2011年4月3日より9:30 - 10:00に移動。また、2012年4月2日から2014年3月28日まで平日午後に再放送を行っていた。2014年4月5日から2018年3月までは土曜 5:30 - 6:00に、2018年4月から12月までは日曜 6:30 - 7:00に、2019年1月から3月までは日曜 5:30 - 6:00に放送。2019年4月より現在の時間に移動。
-112. 水曜19:00枠時代は同時ネット、日曜の枠に変更以降は時差ネット。2013年3月までは水曜 15:27 - 15:56（変動あり）に放送。毎年8月に開催される『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』（[日本テレビ制作](../Page/日本テレビ放送網.md "wikilink")）の放送の日は、放送休止となる。
-113. 同時ネット局と同時刻であるが遅れネット。
-114. 2006年10月から2007年3月まで日曜 9:00 - 9:30、2007年4月から同年9月まで日曜 6:30 - 7:00に放送。2007年10月から2012年3月まで月曜 15:00 - 15:29、2012年4月から12月まで土曜 2:10 - 2:40（金曜深夜）での放送を経て、2013年1月から3月まで再び日曜 9:00 - 9:30に移動し、同年4月から現在の時間に移動。
-115. 2007年1月24日 - 1月26日に3話連続放送した後、2007年1月31日から放送再開。2008年9月までは木曜 15:29 - 15:59で、2009年4月11日までは土曜 5:00 - 5:30だった。また、2010年8月2日 - 12日まで、月曜 - 木曜 14:05 - 14:30に日曜のレギュラー放送と連動して集中放送した。その結果遅れが短くなった。第542話 (『トリコ』とのコラボの回) は、2012年6月26日に放送。しかし、『トリコ』は2013年4月16日を以って打ち切られたため、第590話 （『トリコ』とのコラボの回） は未放送となった。2016年3月までは水曜 16:20 - 16:50。
-116. 2008年10月4日より放送開始。2010年3月までは土曜 6:00 - 6:30、2010年4月15日から2010年6月24日までは木曜 19:00 - 19:30、2018年12月までは日曜 5:15 - 5:45に放送。なお、大分県では本来の系列局の[テレビ大分](../Page/テレビ大分.md "wikilink")（日本テレビ系列・フジテレビ系列の[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送していた時期がある。
-117. SD画質での放送。2011年3月27日までは日曜 11:00 - 11:30で（4:3画面のアップコンバートでの放送）、2011年10月4日までは火曜 1:29 - 1:59（月曜深夜）で放送していた。2011年10月31日から2016年3月28日まで月曜 2:20 - 2:50（日曜深夜）を経て現在の時間で再開。日曜時代は地元スーパー[丸久](../Page/丸久.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")により[丸久サンデー劇場](https://ja.wikipedia.org/wiki/丸久サンデー劇場 "wikilink")枠で放送。
-118. 2006年[11月4日](../Page/11月4日.md "wikilink")より放送開始。2008年9月27日までは土曜 8:30 - 9:00。2011年1月2日（第216話）に字幕放送開始。特別篇「麦わら劇場&麦わら海賊譚」（第279話 - 第283話）は未放送のため、第284話以降のEPGで表示されている話数は本来の話数より5話少ないものとなっている。
-119. 2010年3月で一端打ち切られたが6月より現在の時間に移動して再開。放送内容は打ち切り前は週替わりだったが現在は隔週変更になっている。
-120. 更に暫くして（何十話か遅れた）2話単位の再放送と更に時間を置いた再々放送がある。基本は毎日1話放送だが、特番などで放送されない日は土曜・月曜の再放送も放送分だけの短縮放送になる。
-121.
-122. 2014年3月30日までは『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』。なお、2016年9月25日までは『ワイドナショー』を唯一遅れネットしていた関西テレビでは『[よ〜いドン\!サンデー](https://ja.wikipedia.org/wiki/ごきげんライフスタイル_よ〜いドン!#よ〜いドン!サンデー_→_よ〜いドン!サタデー "wikilink")』。
-123. 2011年4月17日より第457話から放送開始。2011年9月までは日曜 6:00 - 6:30に放送、2011年10月から2015年3月にかけては土曜 9:30 - 10:00、2015年4月から2016年3月にかけては土曜 6:00 - 6:30、2016年4月から6月23日にかけては木曜 16:18 - 16:48、2016年7月7日から9月にかけては木曜 15:20 - 15:50、2016年10月から2017年4月1日にかけては土曜 10:45 - 11:15に放送。2017年4月6日より木曜 1:29 - 1:59（水曜深夜）に移動し、同年9月6日に第782話をもって打ち切り。
-124. 打ち切り後、大分放送で再開。
+86. 2017年9月まで本編の開始は9:32頃から。
+87. フジテレビおよび同時ネット局はストロング9後半枠（ただし名称表示はない）として放送。
+88. 2013年以降、毎年8月に開催される『[北海道マラソン](../Page/北海道マラソン.md "wikilink")』放送日は同日の12:30 - 13:00に放送。2017年8月27日は同大会中継のため、12:30 - 13:00での放送となったが、同日は13:00 - 13:30にも放送し、同年9月3日から同時ネットに移行。
+89. 2010年12月までは木曜 17:24 - 17:54に放送され、2011年1月9日から現在の日時。さらに、2014年12月28日・2015年1月4日にそれぞれ4話連続放送を行い、2015年1月11日から同時ネットに移行。
+90. 2007年3月までは金曜 15:30 - 15:59。2007年4月から現在の時間に移動。2017年12月31日に遅れ分の1話を放送し、2018年1月7日より同時ネットに移行。
+91. 時差ネット開始当初は木曜 16:24 - 16:53に放送されていたが、2010年4月1日・8日・15日に2話連続放送をした後、4月18日から同時ネットに移行。また、スペシャルエディションは2012年7月7日に放送している。2012年8月4日・11日・18日に3話連続放送をした。
+92. 2008年3月までは月曜19:00 - 19:30。また、『トリコ』が未放送になったため、第492話・第542話・第590話 （『トリコ』とのコラボの回）は、未放送。3月26日は土曜 10:00 - 10:30。2016年3月21日に遅れ分の4話、4月3日の9:00に遅れ分の1話を放送し9:30から同時ネットに移行。
+93. 2011年4月3日より第491話から放送再開。2011年7月3日までは日曜 5:30 - 6:00で放送され、2011年7月5日から2012年9月30日まで火曜15:30 - 16:00に放送された。2012年10月7日から2013年4月7日まで再び日曜 5:30 - 6:00で放送し、2013年4月7日より同時ネット。そのため、4月7日は1日に2話放送となった。
+94. 当初は1週遅れだったが、2009年3月22日に『[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")』のためにフジテレビ系列で放送が休止された日に時間を変更して遅れ分を放送し、3月29日から同時ネットに移行。
+95. 2011年3月27日に第336話を放送した後、4月3日より第490話から放送再開。2012年3月17日には『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』が遅れ日数調整のため休止になったため、代わりに本作の第291話が放送され、2013年1月5日にも同様に第303話が放送された。[EPGでは](../Page/電子番組ガイド.md "wikilink")、2012年10月14日放送の第566話まで本来の話数ではなく再開時を起点とした話数が表示されていたが、その後話数表示はなくなった。2013年10月6日より同時ネットに移行し、この日のみそれまでの6:30 - 7:00と併せて2話放送。
+96. 番組開始から2006年9月まで同時ネット。2006年10月よりフジテレビが現在の日曜9:30枠に移動後からは遅れネット（月曜 15:26 - 15:56→土曜 16:55 - 17:25。ただし休止となる場合があったり、未放送となっている場合がある）での放送再開まで非ネットであった。当該枠は関西テレビ制作の『[旅っきり\!〜ふれあい紀行〜](../Page/旅っきり!〜ふれあい紀行〜.md "wikilink")』に差し替えていた。2008年4月改編で、フジテレビ『[もしもツアーズ](../Page/もしもツアーズ.md "wikilink")』に差し替えに変更、同時ネットできないための代替編成となり、この影響で第542話トリコとのコラボの回は放送されず、2013年4月改編で『もしもツアーズ』が土曜 9:55 - 10:25に枠移動したため、再度同時ネットに移行。
+97. 2011年9月までは[特選アニメ劇場](../Page/特選アニメ劇場.md "wikilink")枠で放送（2007年3月までは木曜 16:00 - 16:30。2011年3月までは金曜 15:59 - 16:30。2011年9月までは金曜 16:21 - 16:51。編成上の都合で他の曜日の放送となる場合があり、遅れネット最後の放送は9月28日の水曜。また、2011年3月11日に[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（東日本大震災）が起きたため、休止となり翌週の3月18日に放送。同年の4月1日は『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』の再放送が拡大したため翌週の4月8日に放送。そのため、これらの日は遅れを拡大しないように2話連続放送をした）2011年10月2日より同時ネットになった。
+98. 2008年3月までは土曜 16:55 - 17:25であったが、4月20日から日曜 9:28 - 9:56に移動、2009年1月から現在の時間に移動となった。東日本大震災の影響で内容に配慮し、2011年3月20日から4月10日まで再放送を4話挿入したため、さらに遅れが広がった。しかし、2012年8月8日 - 10日に5話一拳に放送し、2016年4月3日の9:00 - 9:30に遅れ分の1話を放送し同時ネットに移行。データ放送は6月12日放送より開始した。但し、放送のタイミングによってはデータ放送や解説放送を実施しない場合がある。
+99. 2007年3月までは月曜 15:25 - 15:55、2012年3月までは月曜 15:30 - 16:00。2012年8月13日 - 8月17日まで2話連続で放送し、8月19日から同時ネットに移行。
+100. 2008年3月までは木曜 16:00 - 16:30、2008年4月から2018年3月25日までは日曜 9:30 - 10:00だった。第829話を2018年4月1日6:30 - 7:00に放送して遅れを解消し、同日の現在の時間から同時ネットに移行。
+101. 2007年4月から放送再開。ただし、2006年10月 - 2007年3月までの放送分は未放送。
+102. 作者の出身地。2006年9月までは同時ネット、2006年10月から2009年3月までは火曜15:30-16:00、2009年4月から2014年9月までは土曜 10:25 - 10:55に放送。通常の日曜 9:30 - 10:00の同時刻の遅れネットに加え、2018年9月17日・24日の月曜 10:50 - 11:20に計2話を放送し、同年9月30日から同時ネットに移行。
+103. 2011年4月17日までは日曜 9:00 - 9:30。ただし、毎月第1日曜日は『ぐっとグッドかごしま』（[鹿児島市](../Page/鹿児島市.md "wikilink")の広報番組）を放送のため休止し、遅れが拡大していた。東日本大震災の影響で内容に配慮し、2011年3月20日から4月17日まで再放送を4話挿入したため、さらに遅れが広がった。2011年4月24日より放送時間が9:30 - 10:00に移行。2011年5月と6月にスペシャルとして各4話の計8話を集中放送したため、遅れが解消された。2013年4月20日に5話まとめて放送され、翌4月21日より同時ネットが開始された。
+104. 2013年5月5日より第588話から放送再開（2006年9月をもって一旦放送を終了した局の中では、最も遅い再開となった）。2013年8月10日に第312話 - 第315話を集中放送（『エピソードオブメリー』放送に合わせたもの）。2013年8月14日に第336話を放送（『トリコ』放送休止週の穴埋め）。2016年3月27日までは日曜 6:30 - 7:00に放送した。2016年4月4日 - 2017年4月10日の月曜 0:30 - 1:00（日曜深夜）への移動を経て2017年4月17日より現在の時間で放送。なお、2018年以降は東北地方の系列局で唯一、遅れネットならびに深夜での放送となっている。
+105. 2007年3月28日までは火曜 1:49 - 2:19（月曜深夜）。2019年9月までは新潟総合テレビ。
+106. 当初は金曜 15:28 - 15:58だった。
+107. 2008年3月までは木曜 16:00 - 16:30。2019年9月までは日曜 6:30 - 7:00。岡山放送の放送休止が相次ぎ、遅れ幅が広がった。2012年8月25日から9月15日にかけて、現行枠だけでなく土曜10:10 - 10:40にも計5回放送されていたため、遅れ幅が縮小。
+108. 2006年12月下旬3ヶ月分を集中放送した後、2007年1月から日曜9:00 - 9:30に毎週放送を再開。2018年4月19日から現在の時間に移動。
+109. 2013年3月までは木曜 16:30 - 17:00。2008年3月までは『こち亀』スペシャルの放送をしなくても特番を入れ、差が開きも縮まりもしないように毎回調整されていたが、2008年4月以降は『こち亀』スペシャルも放送するようになった。2013年4月から土曜 11:10 - 11:40に移動。2016年10月から表記の時間に移動。
+110. 2006年12月下旬に第279話 - 第288話を集中放送。2007年1月6日から2009年3月28日まで日曜 5:00 - 5:30で毎週放送再開した。2009年4月13日より月曜 15:30 - 16:00に移動し、2009年10月4日より日曜6:30 - 7:00に移動し、2011年4月3日より9:30 - 10:00に移動。また、2012年4月2日から2014年3月28日まで平日午後に再放送を行っていた。2014年4月5日から2018年3月までは土曜 5:30 - 6:00に、2018年4月から12月までは日曜 6:30 - 7:00に、2019年1月から3月までは日曜 5:30 - 6:00に放送。2019年4月より現在の時間に移動。
+111. 水曜19:00枠時代は同時ネット、日曜の枠に変更以降は時差ネット。2013年3月までは水曜 15:27 - 15:56（変動あり）に放送。毎年8月に開催される『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』（[日本テレビ制作](../Page/日本テレビ放送網.md "wikilink")）の放送の日は、放送休止となる。
+112. 同時ネット局と同時刻であるが遅れネット。
+113. 2006年10月から2007年3月まで日曜 9:00 - 9:30、2007年4月から同年9月まで日曜 6:30 - 7:00に放送。2007年10月から2012年3月まで月曜 15:00 - 15:29、2012年4月から12月まで土曜 2:10 - 2:40（金曜深夜）での放送を経て、2013年1月から3月まで再び日曜 9:00 - 9:30に移動し、同年4月から現在の時間に移動。
+114. 2007年1月24日 - 1月26日に3話連続放送した後、2007年1月31日から放送再開。2008年9月までは木曜 15:29 - 15:59で、2009年4月11日までは土曜 5:00 - 5:30だった。また、2010年8月2日 - 12日まで、月曜 - 木曜 14:05 - 14:30に日曜のレギュラー放送と連動して集中放送した。その結果遅れが短くなった。第542話 (『トリコ』とのコラボの回) は、2012年6月26日に放送。しかし、『トリコ』は2013年4月16日を以って打ち切られたため、第590話 （『トリコ』とのコラボの回） は未放送となった。2016年3月までは水曜 16:20 - 16:50。
+115. 2008年10月4日より放送開始。2010年3月までは土曜 6:00 - 6:30、2010年4月15日から2010年6月24日までは木曜 19:00 - 19:30、2018年12月までは日曜 5:15 - 5:45に放送。なお、大分県では本来の系列局の[テレビ大分](../Page/テレビ大分.md "wikilink")（日本テレビ系列・フジテレビ系列の[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送していた時期がある。
+116. SD画質での放送。2011年3月27日までは日曜 11:00 - 11:30で（4:3画面のアップコンバートでの放送）、2011年10月4日までは火曜 1:29 - 1:59（月曜深夜）で放送していた。2011年10月31日から2016年3月28日まで月曜 2:20 - 2:50（日曜深夜）を経て現在の時間で再開。日曜時代は地元スーパー[丸久](../Page/丸久.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")により[丸久サンデー劇場](https://ja.wikipedia.org/wiki/丸久サンデー劇場 "wikilink")枠で放送。
+117. 2006年[11月4日](../Page/11月4日.md "wikilink")より放送開始。2008年9月27日までは土曜 8:30 - 9:00。2011年1月2日（第216話）に字幕放送開始。特別篇「麦わら劇場&麦わら海賊譚」（第279話 - 第283話）は未放送のため、第284話以降のEPGで表示されている話数は本来の話数より5話少ないものとなっている。
+118. 2010年3月で一端打ち切られたが6月より現在の時間に移動して再開。放送内容は打ち切り前は週替わりだったが現在は隔週変更になっている。
+119. 更に暫くして（何十話か遅れた）2話単位の再放送と更に時間を置いた再々放送がある。基本は毎日1話放送だが、特番などで放送されない日は土曜・月曜の再放送も放送分だけの短縮放送になる。
+120.
+121. 2014年3月30日までは『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』。なお、2016年9月25日までは『ワイドナショー』を唯一遅れネットしていた関西テレビでは『[よ〜いドン\!サンデー](https://ja.wikipedia.org/wiki/ごきげんライフスタイル_よ〜いドン!#よ〜いドン!サンデー_→_よ〜いドン!サタデー "wikilink")』。
+122. 2011年4月17日より第457話から放送開始。2011年9月までは日曜 6:00 - 6:30に放送、2011年10月から2015年3月にかけては土曜 9:30 - 10:00、2015年4月から2016年3月にかけては土曜 6:00 - 6:30、2016年4月から6月23日にかけては木曜 16:18 - 16:48、2016年7月7日から9月にかけては木曜 15:20 - 15:50、2016年10月から2017年4月1日にかけては土曜 10:45 - 11:15に放送。2017年4月6日より木曜 1:29 - 1:59（水曜深夜）に移動し、同年9月6日に第782話をもって打ち切り。
+123. 打ち切り後、大分放送で再開。
+124.
 125.
 126.
-127.

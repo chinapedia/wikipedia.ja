@@ -14,14 +14,14 @@
 1.  **UTAO-UTAO**（読み：うたをうたおう）
       -
         作詞:[御徒町凧](../Page/御徒町凧.md "wikilink")、作曲:[HIKARI](../Page/HIKARI.md "wikilink")、編曲：[シライシ紗トリ](../Page/シライシ紗トリ.md "wikilink")
-        坂本、井ノ原、岡田にソロパートがある。
 2.  **BREAKTHROUGH** - Coming Century
       -
         作詞:[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink") 作曲:[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink")、編曲：[DREAMFIELD](https://ja.wikipedia.org/wiki/DREAMFIELD "wikilink")
-3.  **晴れ過ぎた空**
+3.  **[晴れ過ぎた空](https://ja.wikipedia.org/wiki/Film_V6_act_IV_-BALLAD_CLIPS_and_more- "wikilink")**
       -
         作詞/作曲/編曲:[清水昭男](../Page/清水昭男.md "wikilink")
-        DVD「[Film V6 act IV -BALLAD CLIPS and more-](https://ja.wikipedia.org/wiki/Film_V6_act_IV_-BALLAD_CLIPS_and_more- "wikilink")」にミュージック・ビデオが収録されている。
+    <!-- end list -->
+      - DVD「Film V6 act IV -BALLAD CLIPS and more-」収録曲
 4.  **Drivin’**
       -
         作詞:[MIZUE](https://ja.wikipedia.org/wiki/MIZUE "wikilink") 作曲:森元康介、編曲：[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")

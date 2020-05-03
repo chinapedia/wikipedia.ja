@@ -191,7 +191,7 @@
 6.  BREAKTHROUGH
 7.  INNOCENCE
 8.  それぞれの空
-9.  **[days-tears of the world-](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")** - 20th Century
+9.  **[days -tears of the world-](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")** - 20th Century
       -
         作詞・作曲・編曲：[浅田直](https://ja.wikipedia.org/wiki/浅田直 "wikilink")
     <!-- end list -->
@@ -200,7 +200,7 @@
       -
         作詞：MIZUE、作曲：[中野雄太](../Page/中野雄太.md "wikilink")、編曲：鈴木雅也
     <!-- end list -->
-      - 20th Centuryのベストアルバム「Replay 〜Best of 20th Century〜」収録曲
+      - 20th Century ベストアルバム「Replay 〜Best of 20th Century〜」収録曲
 11. **[夏のメモリー](../Page/Volume_6.md "wikilink")** - 20th Century
       -
         作詞：六ツ見純代、作曲：浅田直、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
@@ -220,7 +220,7 @@
       -
         作詞・作曲：[松任谷由実](../Page/松任谷由実.md "wikilink")、編曲：[古池孝浩](https://ja.wikipedia.org/wiki/古池孝浩 "wikilink")
     <!-- end list -->
-      - Coming Centuryのベストアルバム「Best of Coming Century 〜Together〜」収録曲
+      - Coming Century ベストアルバム「Best of Coming Century 〜Together〜」収録曲
 15. **グッデイ\!\!** -Very best Ⅱ-Ver.
       -
         編曲：[genepool](https://ja.wikipedia.org/wiki/GENEPOOL "wikilink")

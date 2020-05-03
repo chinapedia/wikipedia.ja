@@ -7,7 +7,7 @@
 
 デビュー当時新人の[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")**森下知美**（もりしたともみ）、[ラッパー](../Page/ラップ.md "wikilink")**King Opal**（キング オパール）、GIZA所属のディレクターだった**寺尾広**（てらおひろし）からなる。プロデューサーは[KANONJI](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")。また、作詞に[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）、作曲に[大野愛果](../Page/大野愛果.md "wikilink")が参加している。
 
-2000年12月4日と2001年3月12日にフジテレビの音楽番組「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」に出演している。
+2000年12月4日と2001年3月12日にフジテレビの音楽番組「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」に出演している。
 
 2002年10月解散。但し、同年7月の時点で既に寺尾のプロフィールに「元Soul Crusaders」との表現がある\[1\]。
 

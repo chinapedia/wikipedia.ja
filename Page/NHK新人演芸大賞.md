@@ -336,7 +336,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桂華紋" title="wikilink">桂華紋</a>「ふぐ鍋」</p></td>
+<td><p><a href="../Page/桂華紋.md" title="wikilink">桂華紋</a>「ふぐ鍋」</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古今亭志ん吉" title="wikilink">古今亭志ん吉</a><br />
 <a href="https://ja.wikipedia.org/wiki/笑福亭笑利" title="wikilink">笑福亭笑利</a><br />
 <a href="https://ja.wikipedia.org/wiki/立川こはる" title="wikilink">立川こはる</a><br />

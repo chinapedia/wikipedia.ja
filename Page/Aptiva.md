@@ -1,9 +1,9 @@
 > この記事は[Aptiva](https://ja.wikipedia.org/wiki/Aptiva)から翻訳されています。
 
 
-**Aptiva** (**アプティバ**) は、[IBM](../Page/IBM.md "wikilink")が販売していたコンシューマー向け[パソコンの](../Page/パーソナルコンピュータ.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")（[商標](../Page/商標.md "wikilink")）名。
+**Aptiva** (**アプティバ**) は、[IBM](../Page/IBM.md "wikilink")が1995年から販売したコンシューマー向け[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")名。
 
-IBMのコンシューマー向けPC（ノートPCを除く）からの撤退に伴い、後継シリーズは無い。その後、残ったPC事業（ノートPC、およびビジネス向けデスクトップ）も2005年に[レノボ（聯想集団、Lenovo）に売却された](https://ja.wikipedia.org/wiki/聯想集団 "wikilink")。Aptivaという名称に語源はなくIBMによる造語である。
+前身は[PS/1](https://ja.wikipedia.org/wiki/PS/1 "wikilink")や[PS/V](https://ja.wikipedia.org/wiki/PS/V "wikilink")など。後継はIBMのコンシューマー向けPC（ノートPCを除く）からの撤退に伴い、無い。その後、残ったPC事業（ノートPC、およびビジネス向けデスクトップ）も2005年に[レノボ](../Page/レノボ.md "wikilink")（聯想集団、Lenovo）に売却された。Aptivaという名称に語源はなくIBMによる造語である。
 
 ## 概要
 

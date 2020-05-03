@@ -7,6 +7,7 @@
 
   - カップリング曲の「南東風 〜PEACEFULL SESSION〜」は本来同年の[7月14日](../Page/7月14日.md "wikilink")に同タイトルで発売予定であったが、[7月31日](../Page/7月31日.md "wikilink")の[GLAY EXPO 2004の開催と同ライブでの](../Page/GLAY_EXPO.md "wikilink")「Blue Jean」の披露にあわせてカップリング曲となった。
   - 初回盤には数量限定でデニムパッケージ仕様が存在し、店頭で[GLAY EXPO 2004のポスターが貰えた](../Page/GLAY_EXPO.md "wikilink")。
+  - 2002年に発売の「[Way of Difference](../Page/Way_of_Difference.md "wikilink")」以来約2年ぶりに表題曲のカラオケバージョンが収録されている。
 
 ## 収録曲
 
@@ -34,6 +35,7 @@
 
 ## 収録アルバム
 
+  - [THE FRUSTRATED](../Page/THE_FRUSTRATED.md "wikilink")（\#2、オリジナルバージョン）
   - [-Ballad Best Singles- WHITE ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")（\#1）
   - [THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink") （\#1、Jet the Phantom Mix）
   - [rare collectives vol.3](https://ja.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")（\#2,3,4）

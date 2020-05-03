@@ -1,7 +1,7 @@
 > この記事は[PU-PU-PU-](https://ja.wikipedia.org/wiki/PU-PU-PU-)から翻訳されています。
 
 
-『**PU-PU-PU-**』（プープープー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜21時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[V6の年少組のComing](../Page/V6_\(グループ\).md "wikilink") Century（[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")・[三宅健](../Page/三宅健.md "wikilink")・[岡田准一](../Page/岡田准一.md "wikilink")）が連続ドラマ初主演を果たした作品。主題歌はV6「[over](https://ja.wikipedia.org/wiki/over/EASY_SHOW_TIME "wikilink")」。
+『**PU-PU-PU-**』（プープープー）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")まで毎週金曜日21:00 - 21:54に、[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜21時](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")・[三宅健](../Page/三宅健.md "wikilink")・[岡田准一](../Page/岡田准一.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）が連続ドラマ初主演を果たした作品。主題歌はV6「[over](https://ja.wikipedia.org/wiki/over/EASY_SHOW_TIME "wikilink")」。
 
 18歳の丹下隼人、楠木陸男、小峰和哉の3人が自分のやりたいことを見つけるまで**プー**（フリーター）をやると同時に友情、恋愛、家族の絆、を深めていく物語である。
 

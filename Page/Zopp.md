@@ -169,6 +169,21 @@
       - リンゴリボン(2013年)
       - ヘルプルミミ(2013年)
 
+<!-- end list -->
+
+  - [BATON＝RELAY](https://ja.wikipedia.org/wiki/BATON=RELAY "wikilink")
+      - Start me up(2019年)
+      - かけだしのモノローグ(2019年)
+      - ミライ＝バトン(2019年)
+      - 四月のDreams come true(2019年)
+      - MAJI de MAGIA(2019年)
+      - ビバフィーバーバンビーナ(2019年)
+      - 四葉のクローバー～10000分の1の君～(2019年)
+      - 金糸雀(2019年)
+      - TADAIMA(2019年)
+      - Daylight Sinfonia(2019年)
+      - 月光アイ歌(2019年)
+
 ### 女性アイドル・アーティスト
 
   - [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")

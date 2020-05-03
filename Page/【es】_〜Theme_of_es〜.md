@@ -8,17 +8,17 @@
   - 1995年度年間12位（オリコン）
   - オリコン歴代シングルランキング74位
 
-| Last single = \[\[奇跡の地球|奇跡の 「**【es】 〜Theme of es〜**」（エス テーマ・オブ・エス）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された\[1\]。
+| Last single = \[\[奇跡の地球|奇跡の 「**【es】 〜Theme of es〜**」（エス テーマ・オブ・エス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された\[1\]。
 
 ## 概要
 
-前作から約5ヶ月ぶりのシングルとなるが、この間に[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と[桑田佳祐 & Mr.Children名義でコラボレーションシングル](../Page/桑田佳祐&Mr.Children.md "wikilink")「[奇跡の{{Ruby](../Page/奇跡の地球.md "wikilink")」をリリースしている。
+前作「[everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")」から約5ヶ月ぶりの[シングル](../Page/シングル.md "wikilink")となるが、この間に[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と「**[桑田佳祐 & Mr.Children](../Page/桑田佳祐&Mr.Children.md "wikilink")**」名義でコラボレーションシングル「[奇跡の{{Ruby](../Page/奇跡の地球.md "wikilink")」をリリースしている。
 
 4thシングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」から5作連続で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。初週で52.1万枚。累計売上は157.2万枚。
 
-本作の発売日がデビュー3周年であった。
+本作の発売日が[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のメジャーデビュー3周年の日であった。
 
-アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
+[アートディレクター](../Page/アートディレクター.md "wikilink")は[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
 ## 収録曲
 
@@ -54,7 +54,6 @@
   - 『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』 (\#1)
   - 『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』 (\#1)
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』 (\#1)
-  - 『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』（\#2、原曲）
   - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2)
 
 ## 脚注

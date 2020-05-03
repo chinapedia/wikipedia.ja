@@ -15,7 +15,7 @@
   - NETテレビ（現・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）★
   - [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")
   - [東日本放送](../Page/東日本放送.md "wikilink") - 1975年10月放送開始。
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - 土曜 18:00 - 18:30に放送\[1\]。
+  - [福井放送](../Page/福井放送.md "wikilink") - 土曜 18:00 - 18:30に放送\[1\]。
   - 名古屋放送（現・[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")）★
   - [岡山放送](../Page/岡山放送.md "wikilink")（当時の愛称はテレビ岡山）★
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")★

@@ -49,7 +49,7 @@
 
 [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:エフエム青森の番組](https://ja.wikipedia.org/wiki/Category:エフエム青森の番組 "wikilink")
 
-1.  この体制は2019年現在でも継続されており、『サントリー・サタデー・ウェイティング・バー』終了後、同時間帯に放送されている『[ピートのふしぎなガレージ](https://ja.wikipedia.org/wiki/ピートのふしぎなガレージ "wikilink")』も19時からの遅れネットで放送されている。
+1.  この体制は2020年現在でも継続されており、『サントリー・サタデー・ウェイティング・バー』終了後、同時間帯に放送されている『[ピートのふしぎなガレージ](https://ja.wikipedia.org/wiki/ピートのふしぎなガレージ "wikilink")』→『[Monthly Artist File-THE VOICE-](https://ja.wikipedia.org/wiki/Monthly_Artist_File-THE_VOICE- "wikilink")』も19時からの遅れネットで放送されている。
 2.  [番組Twitterでの告知](https://twitter.com/afbtokuban/status/1144152790979080192?s=21)
 3.  [番組Twitterでの告知](https://twitter.com/afbtokuban/status/1147055273955061761?s=21)
 4.  [FM青森アナウンサー 鈴木耕治のTwitterによる告知](https://twitter.com/djcozy196872/status/1147057467471196160?s=21)

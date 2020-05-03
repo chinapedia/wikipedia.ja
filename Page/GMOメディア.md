@@ -88,7 +88,7 @@ AutoPage（オートページ）はteacup.の[ブログ](../Page/ブログ.md "w
 
 ## ヤプログ！
 
-**ヤプログ！**（**yaplog\!**）は、GMOメディアが運営するレンタル[ブログ](../Page/ブログ.md "wikilink")サービス。ネット初心者の女性ユーザを主たるターゲットにしており、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を用いて視覚的で簡便な操作性を意識して構築されているのが特徴である。
+**ヤプログ！**（**yaplog\!**）は、GMOメディアが運営していたレンタル[ブログ](../Page/ブログ.md "wikilink")サービス。ネット初心者の女性ユーザを主たるターゲットにしており、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を用いて視覚的で簡便な操作性を意識して構築されているのが特徴である。
 
 500種類以上のスキン（ブログ[テンプレート](../Page/テンプレート.md "wikilink")）があり、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")、[携帯](https://ja.wikipedia.org/wiki/携帯 "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に対応。[HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")の知識がなくてもマウスクリックだけで思い通りのブログデザインが完成できるようになっている。HTML・[CSS](../Page/CSS.md "wikilink")が編集可能の「フリースキン」もある。
 
@@ -135,7 +135,6 @@ AutoPage（オートページ）はteacup.の[ブログ](../Page/ブログ.md "w
 
   - [GMOメディア株式会社](https://www.gmo.media/)
   - [teacup.ブログ AutoPage](https://autopage.teacup.com/)
-  - [ヤプログ](https://www.yaplog.jp/)
 
 [Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:東証マザーズ上場企業](https://ja.wikipedia.org/wiki/Category:東証マザーズ上場企業 "wikilink") [Category:2015年上場の企業](https://ja.wikipedia.org/wiki/Category:2015年上場の企業 "wikilink")
 

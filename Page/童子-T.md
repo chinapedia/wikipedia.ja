@@ -648,7 +648,7 @@ AVCD-93417</p></td>
   - 2008年04月22日 - 日本テレビ系「[THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")」
   - 2008年05月15日 - TBS系「[うたばん](../Page/うたばん.md "wikilink")」
   - 2008年05月16日 - フジテレビ系「[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")」
-  - 2008年05月19日 - フジテレビ系「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」
+  - 2008年05月19日 - フジテレビ系「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」
   - 2008年06月16日 - TBS系「[月光音楽団](../Page/月光音楽団.md "wikilink")」
   - 2008年06月19日・07月17日 - NHK「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」
   - 2008年06月20日 - テレビ朝日系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」

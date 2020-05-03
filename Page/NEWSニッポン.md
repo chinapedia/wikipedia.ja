@@ -1,7 +1,7 @@
 > この記事は[NEWSニッポン](https://ja.wikipedia.org/wiki/NEWSニッポン)から翻訳されています。
 
 
-「**NEWSニッポン**」（ニュースニッポン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSの](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")\[1\]。
+「**NEWSニッポン**」（ニュースニッポン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")、[NEWSのインディーズ](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")\[1\]。
 
 本作のタイトルを冠した[DVD](../Page/DVD.md "wikilink")・[VHS](../Page/VHS.md "wikilink")『**[NEWSニッポン0304](https://ja.wikipedia.org/wiki/#NEWSニッポン0304 "wikilink")**』についても本項で詳述する。
 

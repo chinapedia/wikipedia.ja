@@ -33,24 +33,14 @@
 <td><p><a href="../Page/山路和弘.md" title="wikilink">山路和弘</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>マロイ</p></td>
-<td><p><a href="../Page/ステイシー・キーチ.md" title="wikilink">ステイシー・キーチ</a></p></td>
-<td><p><a href="../Page/佐々木勝彦.md" title="wikilink">佐々木勝彦</a></p></td>
-</tr>
-<tr class="even">
 <td><p>スター・マップのエディ</p></td>
 <td><p><a href="../Page/スティーヴ・ブシェミ.md" title="wikilink">スティーヴ・ブシェミ</a></p></td>
 <td><p><a href="../Page/梅津秀行.md" title="wikilink">梅津秀行</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>パイプライン</p></td>
 <td><p><a href="../Page/ピーター・フォンダ.md" title="wikilink">ピーター・フォンダ</a></p></td>
 <td><p><a href="../Page/菅生隆之.md" title="wikilink">菅生隆之</a></p></td>
-</tr>
-<tr class="even">
-<td><p>クエボ・ジョーンズ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・コラフェイス" title="wikilink">ジョージ・コラフェイス</a></p></td>
-<td><p><a href="../Page/石塚運昇.md" title="wikilink">石塚運昇</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>大統領</p></td>
@@ -63,14 +53,24 @@
 <td><p><a href="../Page/安達忍.md" title="wikilink">安達忍</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>マロイ</p></td>
+<td><p><a href="../Page/ステイシー・キーチ.md" title="wikilink">ステイシー・キーチ</a></p></td>
+<td><p><a href="../Page/佐々木勝彦.md" title="wikilink">佐々木勝彦</a></p></td>
+</tr>
+<tr class="even">
 <td><p>ハーシー・ラス・パーマス</p></td>
 <td><p><a href="../Page/パム・グリア.md" title="wikilink">パム・グリア</a></p></td>
 <td><p><a href="../Page/中田和宏.md" title="wikilink">中田和宏</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ビバリーヒルズ公衆衛生局長官</p></td>
 <td><p><a href="../Page/ブルース・キャンベル.md" title="wikilink">ブルース・キャンベル</a></p></td>
 <td><p><a href="../Page/古田信幸.md" title="wikilink">古田信幸</a></p></td>
+</tr>
+<tr class="even">
+<td><p>クエボ・ジョーンズ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・コラフェイス" title="wikilink">ジョージ・コラフェイス</a></p></td>
+<td><p><a href="../Page/石塚運昇.md" title="wikilink">石塚運昇</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ブレイゼン</p></td>
@@ -83,34 +83,14 @@
 <td><p><a href="../Page/篠原恵美.md" title="wikilink">篠原恵美</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>ダーティ・サージェント</p></td>
-<td><p>ピーター・ジェイソン</p></td>
-<td><p><a href="../Page/宝亀克寿.md" title="wikilink">宝亀克寿</a></p></td>
-</tr>
-<tr class="even">
-<td><p>サイゴン・シャドウ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・イマダ" title="wikilink">ジェフ・イマダ</a></p></td>
-<td><p><a href="../Page/辻親八.md" title="wikilink">辻親八</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>スキンヘッド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロバート・キャラダイン" title="wikilink">ロバート・キャラダイン</a></p></td>
-<td><p><a href="../Page/室園丈裕.md" title="wikilink">室園丈裕</a></p></td>
-</tr>
-<tr class="even">
-<td><p>テストチューブ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リーランド・オーサー" title="wikilink">リーランド・オーサー</a></p></td>
-<td><p><a href="../Page/坂東尚樹.md" title="wikilink">坂東尚樹</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>ナレーター</p></td>
-<td><p>キャスリーン・ブランチャード</p></td>
-<td><p><a href="../Page/野沢由香里.md" title="wikilink">野沢由香里</a></p></td>
-</tr>
-<tr class="even">
 <td><p>フッカー</p></td>
 <td><p>イナ・ロメオ</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>ダーティ・サージェント</p></td>
+<td><p>ピーター・ジェイソン</p></td>
+<td><p><a href="../Page/宝亀克寿.md" title="wikilink">宝亀克寿</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ポリス・アンカー</p></td>
@@ -128,9 +108,29 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>サイゴン・シャドウ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・イマダ" title="wikilink">ジェフ・イマダ</a></p></td>
+<td><p><a href="../Page/辻親八.md" title="wikilink">辻親八</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>サーファー</p></td>
 <td><p><a href="../Page/ブレッキン・メイヤー.md" title="wikilink">ブレッキン・メイヤー</a></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>スキンヘッド</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロバート・キャラダイン" title="wikilink">ロバート・キャラダイン</a></p></td>
+<td><p><a href="../Page/室園丈裕.md" title="wikilink">室園丈裕</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>テストチューブ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/リーランド・オーサー" title="wikilink">リーランド・オーサー</a></p></td>
+<td><p><a href="../Page/坂東尚樹.md" title="wikilink">坂東尚樹</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ナレーター</p></td>
+<td><p>キャスリーン・ブランチャード</p></td>
+<td><p><a href="../Page/野沢由香里.md" title="wikilink">野沢由香里</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ハーシーの部下</p></td>

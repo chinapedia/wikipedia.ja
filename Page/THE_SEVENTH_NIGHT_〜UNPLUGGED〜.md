@@ -42,7 +42,7 @@
         13thシングルの表題曲。
 11. **[Last Song](https://ja.wikipedia.org/wiki/Last_Song_\(Gacktの曲\) "wikilink")** (6:34)
       -
-        16thシングルの表題曲。ベストアルバム『[BEST OF THE BEST vol.1 -MILD-](https://ja.wikipedia.org/wiki/BEST_OF_THE_BEST_vol.1_-MILD- "wikilink")』には、再録バージョンが収録された。2004年[5月31日](../Page/5月31日.md "wikilink")放送の[HEY\!HEY\!HEY\!MUSIC CHAMPにて](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")、こちらのバージョンが演奏された。
+        16thシングルの表題曲。ベストアルバム『[BEST OF THE BEST vol.1 -MILD-](https://ja.wikipedia.org/wiki/BEST_OF_THE_BEST_vol.1_-MILD- "wikilink")』には、再録バージョンが収録された。2004年[5月31日](../Page/5月31日.md "wikilink")放送の[HEY\!HEY\!HEY\! MUSIC CHAMPにて](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")、こちらのバージョンが演奏された。
 
 ## 参加ミュージシャン
 

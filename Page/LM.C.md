@@ -55,7 +55,7 @@ PIERROTのギタリストだった[Aiji](../Page/Aiji.md "wikilink")と、Sinner
       - 2月1日に[韓国](../Page/大韓民国.md "wikilink")、2月3日には台湾にて単独ライブを敢行\[4\]。
       - 7月5日、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")でワンマンライヴを開催\[5\]\[6\]。。
       - 7月27日 、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")のロック・フェスティバル『Formoz Festival 2008』に参加\[7\]。
-      - 11月5日、アルバム『GIMMICAL☆IMPACT\!\!』を発売。11月17日には、[HEY\!HEY\!HEY\!MUSIC CHAMPに出演し](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")、「[88](../Page/88.md "wikilink")」を披露した。
+      - 11月5日、アルバム『GIMMICAL☆IMPACT\!\!』を発売。11月17日には、[HEY\!HEY\!HEY\! MUSIC CHAMPに出演し](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")、「[88](../Page/88.md "wikilink")」を披露した。
 
 <!-- end list -->
 

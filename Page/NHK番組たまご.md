@@ -3,6 +3,24 @@
 
 **NHK番組たまご**（エヌエイチケイばんぐみたまご）は、[NHKが随時行っていた実験的](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")の総称である。
 
+## 概要
+
+NHKでは以前から、新番組編成の参考となる[特別番組](../Page/特別番組.md "wikilink")（[パイロット版](../Page/パイロット版.md "wikilink")）やレギュラー化を目指したさまざまな実験的番組を企画・制作し放送してきた。しかしそれらは必ずしもすべてが事後に十分な検証が行われたとはいえず、そのままで終わってしまったりレギュラー化しても続かないといったことがあった。
+
+そんな中、[一連の不祥事から脱却しより視聴者に楽しんでもらえる番組作りを心がけようとこれらの番組を](https://ja.wikipedia.org/wiki/NHKの不祥事 "wikilink")[2005年](../Page/2005年.md "wikilink")に「番組たまご」の名でプロジェクトとして体系化した。以後はこのプロジェクトの中で随時新しい発想のテレビ番組を企画し、視聴者からの意見も反映して今後のレギュラー化等につなげようとする試みを行っている。
+
+「番組たまご」の名前の由来は、今後新たに放送されるかもしれないレギュラー番組の素であるというプロジェクトの趣旨と[NHKのロゴマークのたまご型である](https://ja.wikipedia.org/wiki/日本放送協会#名称について "wikilink")。また競争原理の導入を求められていることもあり、最近では外部の[プロダクションに対しても企画提案を広く呼びかけている](../Page/制作プロダクション.md "wikilink")。
+
+この「番組たまご」によって放送された番組がすべてレギュラー化されるというわけではない。放送後、視聴者から寄せられた反応、視聴率などのデータの分析に加え、番組制作にかかった費用の計算と報告が義務付けられているのがそれまでと大きく異なる点である。つまり、視聴者からの反応が良くても番組制作に多額の費用がかかった場合は大幅なコストダウンをしなければレギュラー化されない。この事後検証によって、定番化の可否が決定される。さらに定番化が決まった番組についても、上記の事後検証によりそのままの形での放送か大幅な手直しをしてからの放送かが決められる。
+
+また[2006年](../Page/2006年.md "wikilink")から、NHK関連団体のプロダクション（[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")・[NHKエデュケーショナル](../Page/NHKエデュケーショナル.md "wikilink")・[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")など）を通さず外部の民間プロダクションに直接制作を委託する「外注」を行う番組もある。
+
+[NHKワールドTV](../Page/NHKワールドTV.md "wikilink")でも「番組たまご」と同じ趣旨の番組として制作される「**WORLD TV TRYOUT**」（2012年度は11月～12月放送予定）がある。
+
+[2013年](../Page/2013年.md "wikilink")夏を最後に「番組たまご」名目での番組は作られなくなり、[2014年](../Page/2014年.md "wikilink")3月をもって、番組たまごのホームページも閉鎖された。
+
+[2016年](../Page/2016年.md "wikilink")度からは、土曜23:00-24:00の枠において「開発ゾーン枠」と題した単発枠\[1\]でこれらの番組を編成することになり、事実上「番組たまご」の体裁が復活した。
+
 ## これまでに放送された番組
 
 「※」は外部番組制作会社に番組企画を募り、採択、委託して制作・放送された番組。 特記に放送チャンネルのないものは[総合テレビで放映された](../Page/NHK総合テレビジョン.md "wikilink")。一部、NHKワールド・プレミアムでも放送されたものがある。
@@ -392,7 +410,7 @@
 | 11月28日                                                                 | 祝女〜SHUKUJO〜                                                                                                  | |                                                                 |
 | 11月29日                                                                 | U-30                                                                                                         |                                                                   |
 | 11月30日                                                                 | [あなたが主役 50ボイス](https://ja.wikipedia.org/wiki/あなたが主役_50ボイス "wikilink")                                        |                                                                   |
-| 12月13日                                                                 | [ブラタモリ](https://ja.wikipedia.org/wiki/ブラタモリ "wikilink")\[1\]                                                 |                                                                   |
+| 12月13日                                                                 | [ブラタモリ](https://ja.wikipedia.org/wiki/ブラタモリ "wikilink")\[2\]                                                 |                                                                   |
 | 12月21日                                                                 | WHITE ROOM －リリー・フランキーと斉藤和義－                                                                                  |                                                                   |
 | 12月27日                                                                 | [キッチンワゴンがゆく\! 日本列島・海岸線の旅](https://ja.wikipedia.org/wiki/キッチンが走る! "wikilink")                                 |                                                                   |
 
@@ -616,7 +634,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>8月13日[2]</p></td>
+<td><p>8月13日[3]</p></td>
 <td><p>もしも明日…〜家族の<a href="https://ja.wikipedia.org/wiki/葬式" title="wikilink">葬式</a>をあげることになったら〜</p></td>
 <td><p>「夏のたまごまつり」</p></td>
 </tr>
@@ -627,7 +645,7 @@
 </tr>
 <tr class="odd">
 <td><p>8月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笑世記×芸人激突" title="wikilink">笑世記×芸人激突</a>[3] ※</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/笑世記×芸人激突" title="wikilink">笑世記×芸人激突</a>[4] ※</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -672,7 +690,7 @@
 <td><p>「秋の番組たまごまつり」</p></td>
 </tr>
 <tr class="even">
-<td><p>9月23日[4]</p></td>
+<td><p>9月23日[5]</p></td>
 <td><p>ゆずれない夜「オレの“男の中の男”」高橋克実『松田優作伝』VS劇団ひとり『<a href="../Page/男はつらいよ.md" title="wikilink">寅さん</a>』</p></td>
 <td></td>
 </tr>
@@ -683,7 +701,7 @@
 教育テレビで放送</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ココロ見" title="wikilink">ココロ見</a>[5]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ココロ見" title="wikilink">ココロ見</a>[6]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -779,7 +797,7 @@
 </tr>
 <tr class="even">
 <td><p>8月16日 - 20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/連続クイズ_ホールドオン!" title="wikilink">連続クイズ ホールドオン!</a>[6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/連続クイズ_ホールドオン!" title="wikilink">連続クイズ ホールドオン!</a>[7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -794,18 +812,18 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>8月23日[7]</p></td>
+<td><p>8月23日[8]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サバイバル頭脳ゲーム_ええクイズ売りまっせ!" title="wikilink">サバイバル頭脳ゲーム ええクイズ売りまっせ!</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/号外!ダッシュかべ新聞" title="wikilink">号外!ダッシュかべ新聞</a>[8]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/号外!ダッシュかべ新聞" title="wikilink">号外!ダッシュかべ新聞</a>[9]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/週末よりみち道場" title="wikilink">週末よりみち道場</a>[9]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/週末よりみち道場" title="wikilink">週末よりみち道場</a>[10]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -825,7 +843,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北島三郎" title="wikilink">サブちゃんとセッション</a>! みんなでバーチャルバンド[10]※</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北島三郎" title="wikilink">サブちゃんとセッション</a>! みんなでバーチャルバンド[11]※</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -917,7 +935,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>10月4日[11]</p></td>
+<td><p>10月4日[12]</p></td>
 <td><p>ひらめき伝脳ゲーム ピカッチ!</p></td>
 <td><p>「秋の番組たまごまつり」</p></td>
 </tr>
@@ -1005,7 +1023,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1月26日[12]</p></td>
+<td><p>1月26日[13]</p></td>
 <td><p>5分間の“大切な物語”</p></td>
 <td><p>第1話 from 釧路<br />
 第2話 from 熊本<br />
@@ -1084,7 +1102,7 @@
 <tr class="odd">
 <td><p>8月7日</p></td>
 <td><p>好きだモノ。。。</p></td>
-<td><p>第1回 メガネ[13]</p></td>
+<td><p>第1回 メガネ[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月23日</p></td>
@@ -1122,7 +1140,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>4月</p></td>
-<td><p>|<a href="../Page/2009年.md" title="wikilink">2009年</a>3月[14]</p></td>
+<td><p>|<a href="../Page/2009年.md" title="wikilink">2009年</a>3月[15]</p></td>
 <td><p><a href="../Page/きよしとこの夜.md" title="wikilink">きよしとこの夜</a>※</p></td>
 <td><p>同題</p></td>
 </tr>
@@ -1164,8 +1182,8 @@
 </tr>
 <tr class="even">
 <td><p>2006年4月</p></td>
-<td><p>2011年9月[15]</p></td>
-<td><p><a href="../Page/サラリーマンNEO.md" title="wikilink">サラリーマンNEO</a>[16]※</p></td>
+<td><p>2011年9月[16]</p></td>
+<td><p><a href="../Page/サラリーマンNEO.md" title="wikilink">サラリーマンNEO</a>[17]※</p></td>
 <td><p>謎のホームページ サラリーマンNEO</p></td>
 </tr>
 <tr class="odd">
@@ -1199,7 +1217,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ドキュメント72時間.md" title="wikilink">ドキュメント72時間</a>[17]</p></td>
+<td><p><a href="../Page/ドキュメント72時間.md" title="wikilink">ドキュメント72時間</a>[18]</p></td>
 <td><p>72時間@渋谷ハチ公広場コインロッカー</p></td>
 <td></td>
 <td></td>
@@ -1254,7 +1272,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年10月</p></td>
-<td><p>2009年3月[18]</p></td>
+<td><p>2009年3月[19]</p></td>
 <td><p><a href="../Page/世界びっくり旅行社.md" title="wikilink">びっくり法律旅行社</a></p></td>
 <td><p><a href="../Page/世界びっくり旅行社.md" title="wikilink">世界おもしろ法律旅行</a></p></td>
 </tr>
@@ -1289,13 +1307,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2010年2月[19]</p></td>
+<td><p>2010年2月[20]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熱中スタジアム#にっぽん熱中クラブ" title="wikilink">にっぽん熱中クラブ</a></p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2010年3月[20]</p></td>
+<td><p>2010年3月[21]</p></td>
 <td><p><a href="../Page/BS熱中夜話.md" title="wikilink">BS熱中夜話</a></p></td>
 <td><p>同題</p></td>
 <td></td>
@@ -1332,7 +1350,7 @@
 </tr>
 <tr class="even">
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大人ドリル" title="wikilink">大人ドリル</a>（月1回）[21]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大人ドリル" title="wikilink">大人ドリル</a>（月1回）[22]</p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
@@ -1344,7 +1362,7 @@
 </tr>
 <tr class="even">
 <td><p>2010年1月</p></td>
-<td><p>2010年9月[22]</p></td>
+<td><p>2010年9月[23]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1410,7 +1428,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012年4月</p></td>
-<td><p>2012年6月[23]</p></td>
+<td><p>2012年6月[24]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1422,13 +1440,13 @@
 </tr>
 <tr class="odd">
 <td><p>2014年4月</p></td>
-<td><p>2014年9月[24]</p></td>
+<td><p>2014年9月[25]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2009年4月</p></td>
-<td><p>-[25]</p></td>
+<td><p>-[26]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タビうた" title="wikilink">タビうた</a>（不定期）</p></td>
 <td><p>同題</p></td>
 </tr>
@@ -1457,14 +1475,14 @@
 <td><p>同題</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年7月[26]</p></td>
+<td><p>2009年7月[27]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/たったひとりの反乱" title="wikilink">たったひとりの反乱</a></p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2009年7月</p></td>
-<td><p>-[27]</p></td>
+<td><p>-[28]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファミリーヒストリー" title="wikilink">ファミリーヒストリー</a></p></td>
 <td><p>同題</p></td>
 </tr>
@@ -1482,132 +1500,144 @@
 </tr>
 <tr class="odd">
 <td><p>2014年10月</p></td>
-<td><p>（放送中）</p></td>
+<td><p>2017年3月</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2017年10月</p></td>
+<td><p>（放送中）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2009年10月</p></td>
 <td><p>2010年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラタモリ" title="wikilink">ブラタモリ</a></p></td>
 <td><p>同題</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年10月</p></td>
 <td><p>2011年3月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年10月</p></td>
 <td><p>2012年4月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2015年4月[28]</p></td>
+<tr class="even">
+<td><p>2015年4月[29]</p></td>
 <td><p>（放送中）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年10月</p></td>
 <td><p>2009年12月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ママさんバレーでつかまえて" title="wikilink">ママさんバレーでつかまえて</a></p></td>
 <td><p>同題</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年1月</p></td>
 <td><p>2010年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/祝女_(NHK)" title="wikilink">祝女</a></p></td>
 <td><p>同題</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年10月</p></td>
 <td><p>2011年3月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年10月</p></td>
 <td><p>2012年2月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年1月</p></td>
 <td><p>2010年3月</p></td>
 <td><p>（EYES）<a href="https://ja.wikipedia.org/wiki/勤労女子ドキュメント_カンテツな女" title="wikilink">勤労女子ドキュメント カンテツな女</a></p></td>
 <td><p>同題</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010年4月</p></td>
 <td><p>2011年4月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新感覚ゲーム_クエスタ" title="wikilink">新感覚ゲーム クエスタ</a></p></td>
 <td><p>クエスタ〜目指せ質問王!〜</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/関口知宏のOnly1" title="wikilink">関口知宏のオンリーワン</a></p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ザ☆スター" title="wikilink">ザ☆スター</a></p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2010年9月[29]</p></td>
+<tr class="odd">
+<td><p>2010年9月[30]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みんなでニホンGO!" title="wikilink">みんなでニホンGO!</a></p></td>
 <td><p>国民的ことばバラエティー みんなでニホンGO!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2010年9月[30]</p></td>
+<tr class="even">
+<td><p>2010年9月[31]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/総合診療医ドクターG" title="wikilink">総合診療医ドクターG</a></p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011年7月</p></td>
 <td><p>2011年10月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012年6月</p></td>
 <td><p>2012年9月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年4月</p></td>
 <td><p>2013年9月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年4月</p></td>
 <td><p>2014年9月</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年10月</p></td>
-<td><p>2016年10月</p></td>
+<td><p>2016年9月[32]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年4月</p></td>
+<td><p>2017年9月[33]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010年7月</p></td>
-<td><p>2010年9月[31]</p></td>
+<td><p>2010年9月[34]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/WALKING_EYES_アルクメデス" title="wikilink">WALKING EYES アルクメデス</a></p></td>
 <td><p>同題</p></td>
 </tr>
 <tr class="even">
-<td><p>2011年2月[32]</p></td>
+<td><p>2011年2月[35]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディープピープル" title="wikilink">ディープピープル</a></p></td>
 <td><p>同題</p></td>
 <td></td>
@@ -1638,7 +1668,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010年10月</p></td>
-<td><p>2010年12月[33]</p></td>
+<td><p>2010年12月[36]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/洋楽倶楽部80&#39;s" title="wikilink">洋楽倶楽部80's</a></p></td>
 <td><p>同題</p></td>
 </tr>
@@ -1649,7 +1679,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年3月[34]</p></td>
+<td><p>2017年3月[37]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/キッチンが走る!" title="wikilink">キッチンが走る!</a></p></td>
 <td><p>つくって食べて旅をして キッチンが走る!</p></td>
 <td></td>
@@ -1662,7 +1692,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011年4月</p></td>
-<td><p>2014年3月[35]</p></td>
+<td><p>2014年3月[38]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/のんびりゆったり_路線バスの旅" title="wikilink">のんびりゆったり 路線バスの旅</a></p></td>
 <td><p>同題</p></td>
 </tr>
@@ -1679,20 +1709,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2011年7月[36]</p></td>
+<td><p>2011年7月[39]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/仕事ハッケン伝" title="wikilink">仕事ハッケン伝</a></p></td>
 <td><p>人材ハッケン伝</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年4月</p></td>
-<td><p>2012年9月[37]</p></td>
+<td><p>2012年9月[40]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013年4月</p></td>
-<td><p>2013年9月[38]</p></td>
+<td><p>2013年9月[41]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1722,13 +1752,13 @@
 </tr>
 <tr class="odd">
 <td><p>2015年10月</p></td>
-<td><p>（放送中）</p></td>
+<td><p>2017年2月</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012年4月</p></td>
-<td><p>2012年5月[39]</p></td>
+<td><p>2012年5月[42]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/頭がしびれるテレビ" title="wikilink">頭がしびれるテレビ</a></p></td>
 <td><p>同題</p></td>
 </tr>
@@ -1763,8 +1793,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>-[40]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クイズ_100人力" title="wikilink">クイズ 100人力</a>（原則月1回）[41]</p></td>
+<td><p>-[43]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クイズ_100人力" title="wikilink">クイズ 100人力</a>（原則月1回）[44]</p></td>
 <td><p>クイズ!100人力</p></td>
 <td></td>
 </tr>
@@ -1806,44 +1836,47 @@
 
 [Category:NHK番組たまご](https://ja.wikipedia.org/wiki/Category:NHK番組たまご "wikilink")
 
-1.  当初[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")深夜の放送だったが、臨時ニュースにより延期
-2.  [北海道地方（NHK北海道）は単発特別番組枠の](https://ja.wikipedia.org/wiki/NHK札幌放送局#NHK北海道ネットワークの各放送局 "wikilink")[北海道プラス](https://ja.wikipedia.org/wiki/北海道プラス "wikilink")を放送するため、8月21日10時5分から週遅れネット
-3.  NHK大阪放送局制作。[2010年7月9日24:15から放送されるはず](http://natalie.mu/owarai/news/34400)だったが、パク・ヨンハの追悼番組の1つ『[WALKING EYES アルクメデス](https://ja.wikipedia.org/wiki/WALKING_EYES_アルクメデス "wikilink")』再放送に変更になった為放送延期。中部地方9放送局は、[ヒューマンドキュメンタリー「子どもたちと笑いたい」](http://www.nhk.or.jp/nagoya/program/bangumi/sonota_20100816-17_1.html)（NHK名古屋放送局製作）を放送する為、8月22日24:10から5日遅れネット。
-4.  [北海道地方（NHK北海道）は](https://ja.wikipedia.org/wiki/NHK札幌放送局#NHK北海道ネットワークの各放送局 "wikilink")、NHK札幌放送局制作の特別番組『[さっぽろ穴場ハンター](https://ja.wikipedia.org/wiki/北海道_夢☆旅プロジェクト "wikilink")』に差し替え、2010年10月11日25:10 - 25:39 JSTに遅れネット
-5.  [堂本剛がNHK教育で僧侶と対談！　テレビで初めて「自分自身」を告白！](http://blog.television.co.jp/entertainment/entnews/2010/09/20100901_07.html) - Webザテレビジョン
-6.  東北地方は別番組（震災関連ニュース）で放送時間や編成を変更して放送した。
-7.
-8.  NHKワールド・プレミアムではノンスクランブル放送を実施。東海・北陸地方は『[中学生日記](https://ja.wikipedia.org/wiki/中学生日記 "wikilink")』の再放送を行うため、1時間20分遅れ
-9.
-10. [NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")製作[Generation H枠](https://ja.wikipedia.org/wiki/Generation_H "wikilink")
-11. [NHK広島放送局](../Page/NHK広島放送局.md "wikilink")地方はプロ野球「[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")VS[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の中継のため10月8日（体育の日・祝日）に、[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")地方は地域情報番組「NHKが映した沖縄」の放送のため10月6日にそれぞれ県域ローカルで時差ネット。
-12. 福岡放送局は差し替えで『[ふっくTV ふくおかをカンガェル〜](https://ja.wikipedia.org/wiki/ふっく_\(NHK福岡\)#ふっくTV "wikilink")』と埋め合わせのスポットを放送したが、北九州放送局ではこの番組を放送した。
-13. 2014年1月29日22:00 - 22:49 JSTに[第2回「腕時計」](http://www4.nhk.or.jp/sukidamono/)を放送。
-14. 終了後は年1～2回、特別番組を放送。
-15. 『サラリーマンNEO』は原則として年度上半期の放送。
-16. 定期放送開始当初は原題「謎のホームページ サラリーマンNEO」にて放送
-17. 2012年7月に新作が集中放送された。
-18. レギュラー放送終了後の2009年4月以降は『[世界びっくり旅行社](../Page/世界びっくり旅行社.md "wikilink")』と改題し、2014年3月まで不定期番組として放送。
-19. 2010年4月からは『[熱中時間](https://ja.wikipedia.org/wiki/熱中時間 "wikilink") 忙中"趣味"あり』と統合されて『[熱中スタジアム](https://ja.wikipedia.org/wiki/熱中スタジアム "wikilink")』となり、2012年2月まで放送。
-20.
-21. 2014年度からは不定期。
-22. 打ち切り後、NHKワンセグ2の『ワンセグボイス』並びに改編時の特別番組（春秋の新番組紹介、大河ドラマ紹介時等）として放送されている。
-23. 2012年12月に特別版を放送。
-24. 2015年1月に特別版を放送。2015年4月から2016年3月まで「タイムスクープハンター・セレクション」を放送。
-25. 2012年5月と11月に、ほぼ同内容の「マチウタ」という番組が放送された。
-26. 2009年7月に3回、同年11月から12月にかけて3回放送された。
-27. 当初は不定期。
-28. 2015年1月に特別版を放送。
-29. 終了後の2010年12月に特別版を放送。2011年7月から9月まで別タイトルで放送。
-30. 終了後の2010年12月に特別版を放送。
-31. 2011年5月と2011年12月に特別版を放送
-32. 2010年7月、同年10月、2011年2月に3回ずつ放送。また、2010年11月に[宝塚トップスターの回を](../Page/宝塚歌劇団.md "wikilink")90分にした「完全版」を放送
-33. レギュラー放送後は不定期で特番の他、NHK-FMで派生番組を放送、2013年5月よりNHK総合では『洋楽倶楽部@glee』として放送。
-34. 地上波・総合テレビは[NHK放送センター](../Page/NHK放送センター.md "wikilink")が管轄する関東・甲信越地方の1都9県（回により[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")1都6県=デジタルはさらに茨城県を除く1都5県）のみで放映。ただし[NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink")では全国に配信される。2010年12月29日12:15 - 13:00 JSTや2010年12月30日12:15 - 13:00 JST、『特集 キッチンが走る\!』として全国ネットで総集編を放送。夏休み・年末に特集番組が放送された。
-35. 2014年度からは不定期の特番として放送。
-36. 2012年1月に特別版を放送。
-37. 2013年1月に特別版を放送。
-38. 2014年8月に特別版を放送。
-39. 2012年12月に特別版を放送する予定だったが、新政権発足の特別番組のため2013年2月に放送延期となった。
-40. 最終放送は2015年3月。
-41. 2014年度からは不定期。
+1.  [平成28年度前期基本放送番組表](https://www.nhk.or.jp/pr/keiei/hensei/pdf/28jikokuhyo-kokunai.pdf)
+2.  当初[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")深夜の放送だったが、臨時ニュースにより延期
+3.  [北海道地方（NHK北海道）は単発特別番組枠の](https://ja.wikipedia.org/wiki/NHK札幌放送局#NHK北海道ネットワークの各放送局 "wikilink")[北海道プラス](https://ja.wikipedia.org/wiki/北海道プラス "wikilink")を放送するため、8月21日10時5分から週遅れネット
+4.  NHK大阪放送局制作。[2010年7月9日24:15から放送されるはず](http://natalie.mu/owarai/news/34400)だったが、パク・ヨンハの追悼番組の1つ『[WALKING EYES アルクメデス](https://ja.wikipedia.org/wiki/WALKING_EYES_アルクメデス "wikilink")』再放送に変更になった為放送延期。中部地方9放送局は、[ヒューマンドキュメンタリー「子どもたちと笑いたい」](http://www.nhk.or.jp/nagoya/program/bangumi/sonota_20100816-17_1.html)（NHK名古屋放送局製作）を放送する為、8月22日24:10から5日遅れネット。
+5.  [北海道地方（NHK北海道）は](https://ja.wikipedia.org/wiki/NHK札幌放送局#NHK北海道ネットワークの各放送局 "wikilink")、NHK札幌放送局制作の特別番組『[さっぽろ穴場ハンター](https://ja.wikipedia.org/wiki/北海道_夢☆旅プロジェクト "wikilink")』に差し替え、2010年10月11日25:10 - 25:39 JSTに遅れネット
+6.  [堂本剛がNHK教育で僧侶と対談！　テレビで初めて「自分自身」を告白！](http://blog.television.co.jp/entertainment/entnews/2010/09/20100901_07.html) - Webザテレビジョン
+7.  東北地方は別番組（震災関連ニュース）で放送時間や編成を変更して放送した。
+8.
+9.  NHKワールド・プレミアムではノンスクランブル放送を実施。東海・北陸地方は『[中学生日記](https://ja.wikipedia.org/wiki/中学生日記 "wikilink")』の再放送を行うため、1時間20分遅れ
+10.
+11. [NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")製作[Generation H枠](https://ja.wikipedia.org/wiki/Generation_H "wikilink")
+12. [NHK広島放送局](../Page/NHK広島放送局.md "wikilink")地方はプロ野球「[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")VS[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の中継のため10月8日（体育の日・祝日）に、[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")地方は地域情報番組「NHKが映した沖縄」の放送のため10月6日にそれぞれ県域ローカルで時差ネット。
+13. 福岡放送局は差し替えで『[ふっくTV ふくおかをカンガェル〜](https://ja.wikipedia.org/wiki/ふっく_\(NHK福岡\)#ふっくTV "wikilink")』と埋め合わせのスポットを放送したが、北九州放送局ではこの番組を放送した。
+14. 2014年1月29日22:00 - 22:49 JSTに[第2回「腕時計」](http://www4.nhk.or.jp/sukidamono/)を放送。
+15. 終了後は年1～2回、特別番組を放送。
+16. 『サラリーマンNEO』は原則として年度上半期の放送。
+17. 定期放送開始当初は原題「謎のホームページ サラリーマンNEO」にて放送
+18. 2012年7月に新作が集中放送された。
+19. レギュラー放送終了後の2009年4月以降は『[世界びっくり旅行社](../Page/世界びっくり旅行社.md "wikilink")』と改題し、2014年3月まで不定期番組として放送。
+20. 2010年4月からは『[熱中時間](https://ja.wikipedia.org/wiki/熱中時間 "wikilink") 忙中"趣味"あり』と統合されて『[熱中スタジアム](https://ja.wikipedia.org/wiki/熱中スタジアム "wikilink")』となり、2012年2月まで放送。
+21.
+22. 2014年度からは不定期。
+23. 打ち切り後、NHKワンセグ2の『ワンセグボイス』並びに改編時の特別番組（春秋の新番組紹介、大河ドラマ紹介時等）として放送されている。
+24. 2012年12月に特別版を放送。
+25. 2015年1月に特別版を放送。2015年4月から2016年3月まで「タイムスクープハンター・セレクション」を放送。
+26. 2012年5月と11月に、ほぼ同内容の「マチウタ」という番組が放送された。
+27. 2009年7月に3回、同年11月から12月にかけて3回放送された。
+28. 当初は不定期。
+29. 2015年1月に特別版を放送。
+30. 終了後の2010年12月に特別版を放送。2011年7月から9月まで別タイトルで放送。
+31. 終了後の2010年12月に特別版を放送。
+32. 放送休止期間中も不定期で放送された他、過去の番組を一部地域で放送
+33. 2018年7月にBSプレミアムで特別版を放送
+34. 2011年5月と2011年12月に特別版を放送
+35. 2010年7月、同年10月、2011年2月に3回ずつ放送。また、2010年11月に[宝塚トップスターの回を](../Page/宝塚歌劇団.md "wikilink")90分にした「完全版」を放送
+36. レギュラー放送後は不定期で特番の他、NHK-FMで派生番組を放送、2013年5月よりNHK総合では『洋楽倶楽部@glee』として放送。
+37. 地上波・総合テレビは[NHK放送センター](../Page/NHK放送センター.md "wikilink")が管轄する関東・甲信越地方の1都9県（回により[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")1都6県=デジタルはさらに茨城県を除く1都5県）のみで放映。ただし[NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink")では全国に配信される。2010年12月29日12:15 - 13:00 JSTや2010年12月30日12:15 - 13:00 JST、『特集 キッチンが走る\!』として全国ネットで総集編を放送。夏休み・年末に特集番組が放送された。
+38. 2014年度からは不定期の特番として放送。
+39. 2012年1月に特別版を放送。
+40. 2013年1月に特別版を放送。
+41. 2014年8月に特別版を放送。
+42. 2012年12月に特別版を放送する予定だったが、新政権発足の特別番組のため2013年2月に放送延期となった。
+43. 最終放送は2015年3月。
+44. 2014年度からは不定期。

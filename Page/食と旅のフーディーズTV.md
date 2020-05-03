@@ -62,7 +62,7 @@ IMAGICAティーヴィの子会社、株式会社IMAGICA FTVが[2016年](../Page
   - [新・世界の料理ショー](../Page/世界の料理ショー.md "wikilink")（[カナダ放送協会](../Page/カナダ放送協会.md "wikilink")）
   - [ためしてガッテン](../Page/ためしてガッテン.md "wikilink")（[NHK制作](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、料理をテーマにした回を中心に放送）
   - [どさんこクッキング 星澤幸子の奥様ここでもう一品](https://ja.wikipedia.org/wiki/奥様ここでもう一品 "wikilink")（[札幌テレビ制作](../Page/札幌テレビ放送.md "wikilink")）
-  - [水野真紀の魔法のレストラン](https://ja.wikipedia.org/wiki/水野真紀の魔法のレストラン "wikilink")（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
+  - [水野真紀の魔法のレストラン](../Page/水野真紀の魔法のレストラン.md "wikilink")（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")（毎日放送制作）
   - [女子アナクッキング〜教えて\!料理のアナとツボ〜](../Page/女子アナクッキング〜教えて!料理のアナとツボ〜.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作）
   - 裸のシェフ　ジェイミーのシンプル・クッキング

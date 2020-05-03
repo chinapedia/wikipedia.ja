@@ -13,15 +13,14 @@ AFRINICの本部は[モーリシャス](../Page/モーリシャス.md "wikilink"
 
 ## AFRINICに参加している国家
 
+[Regional_Internet_Registries_world_map.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map.svg "fig:Regional_Internet_Registries_world_map.svg") [Regional_Internet_Registries_world_map_2002-2005.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map_2002-2005.svg "fig:Regional_Internet_Registries_world_map_2002-2005.svg") [Regional_Internet_Registries_world_map_until_2002.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map_until_2002.svg "fig:Regional_Internet_Registries_world_map_until_2002.svg")
+
 <table>
 <thead>
 <tr class="header">
 <th><p><a href="../Page/東アフリカ.md" title="wikilink">東アフリカ</a></p></th>
 <th><p><a href="../Page/西アフリカ.md" title="wikilink">西アフリカ</a></p></th>
 <th><p><a href="../Page/中部アフリカ.md" title="wikilink">中部アフリカ</a></p></th>
-<th><p><a href="../Page/北アフリカ.md" title="wikilink">北アフリカ</a></p></th>
-<th><p><a href="../Page/南部アフリカ.md" title="wikilink">南部アフリカ</a></p></th>
-<th><p><a href="../Page/インド洋.md" title="wikilink">インド洋</a>諸国</p></th>
 </tr>
 </thead>
 <tbody>
@@ -63,6 +62,20 @@ AFRINICの本部は[モーリシャス](../Page/モーリシャス.md "wikilink"
 <li></li>
 <li></li>
 </ul></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p><a href="../Page/北アフリカ.md" title="wikilink">北アフリカ</a></p></th>
+<th><p><a href="../Page/南部アフリカ.md" title="wikilink">南部アフリカ</a></p></th>
+<th><p><a href="../Page/インド洋.md" title="wikilink">インド洋</a>諸国</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td><ul>
 <li></li>
 <li></li>
@@ -104,6 +117,7 @@ AFRINIC設立前は[コンゴ共和国](../Page/コンゴ共和国.md "wikilink"
 
   - [ICANN](../Page/ICANN.md "wikilink")
   - [地域インターネットレジストリ](../Page/地域インターネットレジストリ.md "wikilink")
+  - [割り当て済みの/8アドレスブロックの一覧](https://ja.wikipedia.org/wiki/割り当て済みの/8アドレスブロックの一覧 "wikilink")
 
 ## 外部リンク
 

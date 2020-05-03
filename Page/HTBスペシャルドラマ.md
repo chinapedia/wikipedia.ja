@@ -11,7 +11,7 @@
 
 ### ネット局
 
-  - [2005年](../Page/2005年.md "wikilink")までと[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")を除く[テレビ朝日系列の各局が北海道テレビ放送と同時ネット](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")までと[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[福井放送](../Page/福井放送.md "wikilink")を除く[テレビ朝日系列の各局が北海道テレビ放送と同時ネット](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")。
 
 <!-- end list -->
 

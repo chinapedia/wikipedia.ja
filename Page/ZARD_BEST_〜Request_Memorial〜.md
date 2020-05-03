@@ -9,7 +9,7 @@
   - 本作も初期の作品は未収録となっているが、アルバムオリジナル曲をはじめ、「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」のカップリング曲「雨に濡れて」が収録されている。
   - 当初このアルバムの発売予定日は1999年9月24日であったが、avexが[globe](https://ja.wikipedia.org/wiki/globe "wikilink")のベストアルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』を同じ週の9月22日にぶつけてきた為、[ビーイング](../Page/ビーイング.md "wikilink")側がZARDの連続1位記録更新を狙った為に発売日が9月15日に変更されている。
   - このアルバム発表時に都内に彼女の肖像を塗装し、1999年9月5日から9月23日まで、[東京都](../Page/東京都.md "wikilink")内で、宣伝用の2階建てバス「ZARD ロンドンバス」が運行された\[1\]。そしてアルバムに封入された葉書による応募抽選で5000名に、ミニチュアで再現したオルゴールバス（非売品）がプレゼントされた\[2\]。このオルゴールの音色は「[揺れる想い](../Page/揺れる想い.md "wikilink")」である。発売日以後のTVスポットでの特典紹介の部分でもオルゴール音源の一部が流された。
-  - 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』からこの作品まで、ZARDはアルバム9作連続の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。この連続記録は2019年現在に至るまで誰にも破られていない\[3\]。
+  - 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』からこの作品まで、ZARDはアルバム9作連続の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。この連続記録は2020年現在に至るまで誰にも破られていない\[3\]。
   - [ロック・アルバム・オブ・ザ・イヤー受賞](../Page/日本ゴールドディスク大賞.md "wikilink")\[4\]。
   - なお、28thシングル「[MIND GAMES](../Page/MIND_GAMES_\(ZARDの曲\).md "wikilink")」が収録されているのは本作のみである（BOXセットを除く）。
 
@@ -108,59 +108,59 @@
 
 Music Freak Magazine 1999年9月号で紹介された順位\[8\]。初期のファンクラブの紙面でも紹介されたという。
 
-  - 1位:Don't you see\!
-  - 2位:あなたを感じていたい
-  - 3位:息もできない
-  - 4位:君に逢いたくなったら…
-  - 5位:あの微笑みを忘れないで
-  - 6位:Oh my love
-  - 7位:サヨナラは今もこの胸に居ます
-  - 8位:My Baby Grand 〜ぬくもりが欲しくて〜
-  - 9位:Forever you
-  - 10位:突然
-  - 11位:遠い日のNostalgia
-  - 12位:雨に濡れて
-  - 13位:I still remember
-  - 14位:MIND GAMES
+  - 1位:Don't you see\! （19th single）1997年
+  - 2位:あなたを感じていたい （13th single）1994年
+  - 3位:息もできない （24th single）1998年
+  - 4位:君に逢いたくなったら… （20th single）1997年
+  - 5位:あの微笑みを忘れないで （3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）1992年
+  - 6位:Oh my love （5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
+  - 7位:サヨナラは今もこの胸に居ます （16th single）1995年
+  - 8位:My Baby Grand 〜ぬくもりが欲しくて〜 （23th single）1997年
+  - 9位:Forever you （6th album『[Forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）1995年
+  - 10位:突然 （7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）1996年
+  - 11位:遠い日のNostalgia （3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）1992年
+  - 12位:雨に濡れて （「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」c/w）1993年
+  - 13位:I still remember （5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
+  - 14位:MIND GAMES （28th single）1999年
 
 ### 15位以下の順位
 
-  - 15位:[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")（4th single）
-  - 16位:[不思議ね…](../Page/不思議ね….md "wikilink")（2nd single）
-  - 17位:[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")（1st single）
-  - 18位:[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")（5th single）
-  - 19位:好きなように踊りたいの（3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）
-  - 20位:Today is another day（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）
-  - 21位:[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")（29th single）
-  - 22位:[GOOD DAY](../Page/GOOD_DAY_\(ZARDの曲\).md "wikilink")（27th single）
-  - 23位:あなたを好きだけど（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）
-  - 24位:[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")（21st single）
-  - 25位:[新しいドア〜冬のひまわり〜](https://ja.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")（26th single）
-  - 26位:二人の夏（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）
-  - 27位:[もう探さない](../Page/もう探さない.md "wikilink")（3rd single）
-  - 28位:眠り（16th single 「[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")」c/w）
-  - 29位:カナリヤ（9th single 「[もう少し あと少し…](../Page/もう少し_あと少し….md "wikilink")」c/w）
-  - 30位:瞳そらさないで（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）
-  - 31位:ハイヒール脱ぎ捨てて（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）
-  - 32位:帰らぬ時間の中で（19th single 「[Don't you see\!](../Page/Don't_you_see!.md "wikilink")」c/w）
-  - 33位:少女の頃に戻ったみたいに（25th single 「[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")」c/w）
-  - 34位:DAN DAN 心魅かれてく（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）
-  - 35位:来年の夏も（5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）
-  - 36位:Season（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）
-  - 37位:フォトグラフ（8th album 『[永遠](https://ja.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』）
-  - 38位:君がいたから（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）
-  - 39位:Ready,Go\!（14th single 「[Just believe in love](../Page/Just_believe_in_love.md "wikilink")」c/w）
-  - 40位:I'm in love（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）
-  - 41位:遠い星を数えて（21st single 「[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")」c/w）
-  - 42位:見つめていたいね（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）
-  - 43位:You and me（and…）（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）
-  - 44位:あなたに帰りたい（5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）
-  - 45位:So Together（3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）
-  - 46位:Don't U see！（アナログ盤）
-  - 47位:Love is Gone（23rd single 「[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")」c/w）
-  - 48位:If you gimme smile（5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）
-  - 49位:気楽に行こう（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）
-  - 50位:こんなに愛しても（3rd single 「[もう探さない](../Page/もう探さない.md "wikilink")」c/w）
+  - 15位:[眠れない夜を抱いて](../Page/眠れない夜を抱いて.md "wikilink")（4th single）1992年
+  - 16位:[不思議ね…](../Page/不思議ね….md "wikilink")（2nd single）1991年
+  - 17位:[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")（1st single）1991年
+  - 18位:[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")（5th single）1992年
+  - 19位:好きなように踊りたいの（3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）1992年
+  - 20位:Today is another day（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）1996年
+  - 21位:[世界はきっと未来の中](../Page/世界はきっと未来の中.md "wikilink")（29th single）1999年
+  - 22位:[GOOD DAY](../Page/GOOD_DAY_\(ZARDの曲\).md "wikilink")（27th single）1998年
+  - 23位:あなたを好きだけど（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）1993年
+  - 24位:[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")（21st single）1997年
+  - 25位:[新しいドア〜冬のひまわり〜](https://ja.wikipedia.org/wiki/新しいドア〜冬のひまわり〜 "wikilink")（26th single）1998年
+  - 26位:二人の夏（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）1993年
+  - 27位:[もう探さない](../Page/もう探さない.md "wikilink")（3rd single）1991年
+  - 28位:眠り（16th single 「[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink")」c/w）1995年
+  - 29位:カナリヤ（9th single 「[もう少し あと少し…](../Page/もう少し_あと少し….md "wikilink")」c/w）1993年
+  - 30位:瞳そらさないで（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）1995年
+  - 31位:ハイヒール脱ぎ捨てて（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）1995年
+  - 32位:帰らぬ時間の中で（19th single 「[Don't you see\!](../Page/Don't_you_see!.md "wikilink")」c/w）1997年
+  - 33位:少女の頃に戻ったみたいに（25th single 「[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")」c/w）1998年
+  - 34位:DAN DAN 心魅かれてく（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）1996年
+  - 35位:来年の夏も（5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
+  - 36位:Season（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）1993年
+  - 37位:フォトグラフ（8th album 『[永遠](https://ja.wikipedia.org/wiki/永遠_\(アルバム\) "wikilink")』）1999年
+  - 38位:君がいたから（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）1996年
+  - 39位:Ready,Go\!（14th single 「[Just believe in love](../Page/Just_believe_in_love.md "wikilink")」c/w）1995年
+  - 40位:I'm in love（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）1995年
+  - 41位:遠い星を数えて（21st single 「[風が通り抜ける街へ](../Page/風が通り抜ける街へ.md "wikilink")」c/w）1997年
+  - 42位:見つめていたいね（7th album 『[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")』）1996年
+  - 43位:You and me（and…）（4th album 『[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")』）1993年
+  - 44位:あなたに帰りたい（5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
+  - 45位:So Together（3rd album 『[HOLD ME](../Page/HOLD_ME.md "wikilink")』）1992年
+  - 46位:Don't U see！（アナログ盤）1997年
+  - 47位:Love is Gone（23rd single 「[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")」c/w）1997年
+  - 48位:If you gimme smile（5th album 『[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")』）1994年
+  - 49位:気楽に行こう（6th album 『[forever you](../Page/Forever_you_\(アルバム\).md "wikilink")』）1995年
+  - 50位:こんなに愛しても（3rd single 「[もう探さない](../Page/もう探さない.md "wikilink")」c/w）1991年
 
 ## 脚注
 

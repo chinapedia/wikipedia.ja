@@ -267,39 +267,12 @@ JX日鉱日石シッピング株式会社</p></td>
 </tbody>
 </table>
 
-### 設備・工事関連
+### 設備・工事事業
 
-<table>
-<thead>
-<tr class="header">
-<th><p>会社名</p></th>
-<th><p>本社所在地</p></th>
-<th><p>主な事業内容</p></th>
-<th><p>旧法人名</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/NIPPO.md" title="wikilink">株式会社NIPPO</a></p></td>
-<td><p>東京都中央区</p></td>
-<td><p>道路工事・土木工事などの請負い</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/JXエンジニアリング" title="wikilink">JXエンジニアリング</a>株式会社</p></td>
-<td><p>横浜市中区</p></td>
-<td><p>機械・電気・土木・建築工事の設計・施工・施工管理、保全業務</p></td>
-<td><p>日陽エンジニアリング株式会社<br />
-株式会社NIPPOのプラントエンジニアリング部門であるエネルギー事業本部</p></td>
-</tr>
-<tr class="odd">
-<td><p>アナテックサービス株式会社</p></td>
-<td><p>岡山県倉敷市</p></td>
-<td><p>分析計のメンテナンス</p></td>
-<td><p>-</p></td>
-</tr>
-</tbody>
-</table>
+| 会社名                                      | 本社所在地  | 主な事業内容                             | 旧法人名 |
+| ---------------------------------------- | ------ | ---------------------------------- | ---- |
+| [株式会社NIPPO](../Page/NIPPO.md "wikilink") | 東京都中央区 | 道路工事、舗装工事及び土木工事並びに石油関連設備の企画、設計及び建設 | \-   |
+| アナテックサービス株式会社                            | 岡山県倉敷市 | 分析計のメンテナンス                         | \-   |
 
 ### 石油製品販売・流通事業
 
@@ -320,47 +293,46 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p>株式会社<a href="../Page/ENEOSネット.md" title="wikilink">ENEOSネット</a>を吸収合併</p></td>
 </tr>
 <tr class="even">
+<td><p>株式会社ENEOSジェネレーションズ</p></td>
+<td><p>東京都港区</p></td>
+<td><p>石油製品の販売<br />
+（旧東燃ゼネラル石油系）</p></td>
+<td><p>中央石油販売株式会社</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ENEOSグローブ" title="wikilink">ENEOSグローブ</a>株式会社</p></td>
 <td><p>東京都千代田区</p></td>
 <td><p>液化石油ガスの輸入・販売、新エネルギー関連機器の販売<br />
 （JXTGエネルギー・<a href="https://ja.wikipedia.org/wiki/三井物産" title="wikilink">三井物産</a>・<a href="../Page/丸紅.md" title="wikilink">丸紅</a>の3社合弁）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャパンガスエナジー" title="wikilink">株式会社ジャパンガスエナジー</a></p></td>
 <td><p>東京都港区</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LPガス" title="wikilink">LPガス</a>元売<br />
 （JXTGエネルギー・日商LPガス・<a href="../Page/伊藤忠エネクス.md" title="wikilink">伊藤忠エネクス</a>の3社合弁）</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ENEOSサンエナジー" title="wikilink">株式会社ENEOSサンエナジー</a></p></td>
 <td><p>東京都港区</p></td>
 <td><p>石油製品、石油化学製品の販売・営業</p></td>
 <td><p>株式会社JOMOサンエナジー<br />
 →JX日鉱日石サンエナジー株式会社</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/JXリテールサービス" title="wikilink">JXリテールサービス</a>株式会社</p></td>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ENEOSリテールサービス" title="wikilink">株式会社ENEOSリテールサービス</a></p></td>
 <td><p>東京都中央区</p></td>
 <td><p>石油製品、自動車関連用品の販売</p></td>
 <td><p>株式会社JOMOリテールサービス<br />
-→JX日鉱日石リテールサービス株式会社</p></td>
+→JX日鉱日石リテールサービス株式会社<br />
+→JXリテールサービス株式会社</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>株式会社ジェイ・クエスト</p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 <td><p>石油製品の販売、コンビニエンスストアーの運営</p></td>
 <td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ネクステージ_(石油販売)" title="wikilink">株式会社ネクステージ</a></p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
-<td><p>石油製品の販売</p></td>
-<td><p>株式会社ネクステージ中部<br />
-株式会社ネクステージ関西<br />
-株式会社ネクステージ中国<br />
-株式会社ネクステージ九州</p></td>
 </tr>
 <tr class="even">
 <td><p>アジア商事株式会社</p></td>
@@ -396,11 +368,14 @@ JX日鉱日石シッピング株式会社</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>株式会社ENEOSジェネレーションズ　</p></td>
-<td><p>東京都港区</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ネクステージ_(石油販売)" title="wikilink">株式会社ネクステージ</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p>石油製品の販売<br />
-（旧東燃ゼネラル石油系）</p></td>
-<td><p>-</p></td>
+（JXTGエネルギーと<a href="../Page/三菱商事エネルギー.md" title="wikilink">三菱商事エネルギー</a>の合弁会社）</p></td>
+<td><p>株式会社ネクステージ中部<br />
+株式会社ネクステージ関西<br />
+株式会社ネクステージ中国<br />
+株式会社ネクステージ九州</p></td>
 </tr>
 <tr class="even">
 <td><p>EMGルブリカンツ合同会社</p></td>
@@ -426,14 +401,22 @@ JX日鉱日石シッピング株式会社</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>JXトレーディング株式会社</p></td>
+<td><p>ENEOSトレーディング株式会社</p></td>
 <td><p>東京都千代田区</p></td>
 <td><p>SSに関する各種サポート、グループ向けリース、カーショップ・ゴルフ場・旅行代理店の運営、通信販売の運営</p></td>
 <td><p>新日石トレーディング株式会社<br />
 株式会社JOMOサポートシステム<br />
 株式会社JOMOエンタープライズ（リース部門ならびに物販関係）<br />
 株式会社ジョモガーディアン<br />
-→JX日鉱日石トレーディング株式会社</p></td>
+→JX日鉱日石トレーディング株式会社<br />
+→JXトレーディング株式会社</p></td>
+</tr>
+<tr class="even">
+<td><p>株式会社ENEOSスカイサービス</p></td>
+<td><p>東京都港区</p></td>
+<td><p><a href="../Page/空港.md" title="wikilink">空港</a>における給油サービス、空港給油施設受託運営</p></td>
+<td><p>株式会社EAS<br />
+株式会社ENEOSサンエナジー（航空事業部）</p></td>
 </tr>
 </tbody>
 </table>
@@ -528,144 +511,7 @@ JX日鉱日石シッピング株式会社</p></td>
 </tbody>
 </table>
 
-### 資源開発事業
-
-<table>
-<thead>
-<tr class="header">
-<th><p>会社名</p></th>
-<th><p>本社所在地</p></th>
-<th><p>主な事業内容</p></th>
-<th><p>旧法人名</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>春日鉱山株式会社</p></td>
-<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="../Page/枕崎市.md" title="wikilink">枕崎市</a></p></td>
-<td><p>含金硅酸鉱の生産・販売</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>JX金属探開株式会社</p></td>
-<td><p>東京都港区</p></td>
-<td><p>地質構造調査、試錐工事</p></td>
-<td><p>日鉱探開株式会社<br />
-→JX日鉱日石探開株式会社</p></td>
-</tr>
-<tr class="odd">
-<td><p>JXドリリング株式会社</p></td>
-<td><p>東京都港区</p></td>
-<td><p>試錐および技術援助</p></td>
-<td><p>日鉱ドリリング株式会社</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/パンパシフィック・カッパー.md" title="wikilink">パンパシフィック・カッパー</a>株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>非鉄金属資源の開発・調達、銅精錬、銅製品加工・販売<br />
-（金属精錬事業も兼務）<br />
-（JX金属と<a href="../Page/三井金属鉱業.md" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>ジェコ株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>エスコンディーダ鉱山（チリ）への投資</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>ジャパン・エスコンディーダファイナンス株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>エスコンディーダ鉱山（チリ）事業資金貸付</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>株式会社日照整備工場</p></td>
-<td><p>大分市</p></td>
-<td><p>自動車分解整備業、機械整備業</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>株式会社PPCプラント佐賀関</p></td>
-<td><p>大分市</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パンパシフィック・カッパー佐賀関製錬所" title="wikilink">佐賀関製錬所保全工事および設備工事の請負</a></p></td>
-<td><p>株式会社日鉱プラント佐賀関</p></td>
-</tr>
-<tr class="odd">
-<td><p>サーカムパシフィック海運株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>船舶傭船業</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>株式会社コフコ</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>コジャワシ鉱山（チリ）事業資金貸付</p></td>
-<td><p>-</p></td>
-</tr>
-</tbody>
-</table>
-
-### 金属精錬事業
-
-<table>
-<thead>
-<tr class="header">
-<th><p>会社名</p></th>
-<th><p>本社所在地</p></th>
-<th><p>主な事業内容</p></th>
-<th><p>旧法人名</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>日照港運株式会社</p></td>
-<td><p><a href="../Page/大分市.md" title="wikilink">大分市</a></p></td>
-<td><p>沿岸・船内荷役業および貨物自動車運送業</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/日比共同製錬.md" title="wikilink">日比共同製錬</a>株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>電気銅等の製錬・精製受託</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>日比製錬物流株式会社</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><a href="../Page/玉野市.md" title="wikilink">玉野市</a></p></td>
-<td><p>玉野製錬所関連の荷役、作業請負</p></td>
-<td><p>三金日比港運株式会社</p></td>
-</tr>
-<tr class="even">
-<td><p>日本鋳銅株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>タフピッチ銅、リン脱酸銅、無酸素銅等のケーク・ビレット等の製造</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>株式会社京浜化成品センター</p></td>
-<td><p>横浜市<a href="https://ja.wikipedia.org/wiki/神奈川区" title="wikilink">神奈川区</a></p></td>
-<td><p>硫酸の入出荷業務、薄硫酸の製造</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>日韓共同製錬株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>韓国における銅製錬事業および付帯関連する事業への投融資</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/パンパシフィック・カッパー.md" title="wikilink">パンパシフィック・カッパー</a>株式会社</p></td>
-<td><p>東京都千代田区</p></td>
-<td><p>非鉄金属資源の開発・調達、銅精錬、銅製品加工・販売<br />
-（資源開発事業も兼務）<br />
-（JX金属と<a href="../Page/三井金属鉱業.md" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
-<td><p>-</p></td>
-</tr>
-</tbody>
-</table>
-
-### 電材加工事業
+### 機能材料事業
 
 <table>
 <thead>
@@ -684,24 +530,11 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>北茨城精密加工株式会社</p></td>
-<td><p>茨城県<a href="../Page/北茨城市.md" title="wikilink">北茨城市</a></p></td>
-<td><p>金属および金属化合物の切削・研磨等</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p>JX金属コイルセンター株式会社</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/高座郡.md" title="wikilink">高座郡</a><a href="../Page/寒川町.md" title="wikilink">寒川町</a></p></td>
 <td><p>金属加工製品のスリット加工およびデリバリー・サービス</p></td>
 <td><p>日鉱コイルセンター株式会社<br />
 →JX日鉱日石コイルセンター株式会社</p></td>
-</tr>
-<tr class="even">
-<td><p>JX金属ファウンドリー株式会社</p></td>
-<td><p>茨城県北茨城市</p></td>
-<td><p>磯原工場および日立事業所銅箔製造部の製造工程等受託請負業</p></td>
-<td><p>日鉱ファウンドリー株式会社<br />
-→JX日鉱日石ファウンドリー株式会社</p></td>
 </tr>
 <tr class="odd">
 <td><p>JX金属プレシジョンテクノロジー株式会社</p></td>
@@ -713,27 +546,161 @@ JX日鉱日石シッピング株式会社</p></td>
 </tbody>
 </table>
 
+### 薄膜材料事業
+
+<table>
+<thead>
+<tr class="header">
+<th><p>会社名</p></th>
+<th><p>本社所在地</p></th>
+<th><p>主な事業内容</p></th>
+<th><p>旧法人名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>北茨城精密加工株式会社</p></td>
+<td><p>茨城県<a href="../Page/北茨城市.md" title="wikilink">北茨城市</a></p></td>
+<td><p>金属および金属化合物の切削・研磨等</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>JX金属ファウンドリー株式会社</p></td>
+<td><p>茨城県北茨城市</p></td>
+<td><p>磯原工場および日立事業所銅箔製造部の製造工程等受託請負業</p></td>
+<td><p>日鉱ファウンドリー株式会社<br />
+→JX日鉱日石ファウンドリー株式会社</p></td>
+</tr>
+</tbody>
+</table>
+
+### 資源事業
+
+<table>
+<thead>
+<tr class="header">
+<th><p>会社名</p></th>
+<th><p>本社所在地</p></th>
+<th><p>主な事業内容</p></th>
+<th><p>旧法人名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>JX金属探開株式会社</p></td>
+<td><p>東京都港区</p></td>
+<td><p>地質構造調査、試錐工事</p></td>
+<td><p>日鉱探開株式会社<br />
+→JX日鉱日石探開株式会社</p></td>
+</tr>
+<tr class="even">
+<td><p>ニッポン・カセロネス・リソーシズ株式会社</p></td>
+<td><p>東京都<a href="https://ja.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a></p></td>
+<td><p>カセロネス銅・モリブデン高山関連</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>春日鉱山株式会社</p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="../Page/枕崎市.md" title="wikilink">枕崎市</a></p></td>
+<td><p>含金硅酸鉱の生産・販売</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 金属事業
+
+<table>
+<thead>
+<tr class="header">
+<th><p>会社名</p></th>
+<th><p>本社所在地</p></th>
+<th><p>主な事業内容</p></th>
+<th><p>旧法人名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>株式会社京浜化成品センター</p></td>
+<td><p>横浜市<a href="https://ja.wikipedia.org/wiki/神奈川区" title="wikilink">神奈川区</a></p></td>
+<td><p>硫酸の入出荷業務、薄硫酸の製造</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>JX金属精錬株式会社</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>電気銅等の製錬・精製受託</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>日韓共同製錬株式会社</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>韓国における銅製錬事業および付帯関連する事業への投融資</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>日本鋳銅株式会社</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>タフピッチ銅、リン脱酸銅、無酸素銅等のケーク・ビレット等の製造</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/パンパシフィック・カッパー.md" title="wikilink">パンパシフィック・カッパー</a>株式会社</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>非鉄金属資源の開発・調達、銅精錬、銅製品加工・販売<br />
+（JX金属と<a href="../Page/三井金属鉱業.md" title="wikilink">三井金属鉱業</a>の共同出資会社）</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>株式会社PPCロジスティックス</p></td>
+<td><p>東京都千代田区</p></td>
+<td><p>物流管理業務の受託およびコンサルティング</p></td>
+<td><p>株式会社日鉱物流パートナーズ</p></td>
+</tr>
+<tr class="odd">
+<td><p>日照港運株式会社</p></td>
+<td><p><a href="../Page/大分市.md" title="wikilink">大分市</a></p></td>
+<td><p>沿岸・船内荷役業および貨物自動車運送業</p></td>
+<td><p>-</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 環境リサイクル事業
 
 | 会社名                                                                     | 本社所在地                                                                                                    | 主な事業内容                             | 旧法人名           |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------- | -------------- |
-| JX金属環境株式会社                                                              | 茨城県[日立市](../Page/日立市.md "wikilink")                                                                      | 産業廃棄物処理業                           | 日鉱環境株式会社       |
-| 神峯クリーンサービス株式会社                                                          | 茨城県日立市                                                                                                   | ごみ処理施設の運転管理業務の受託                   | \-             |
 | JX金属苫小牧ケミカル株式会社                                                         | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink") | 産業廃棄物の処理                           | 苫小牧ケミカル株式会社    |
+| JX金属環境株式会社                                                              | 茨城県[日立市](../Page/日立市.md "wikilink")                                                                      | 産業廃棄物処理業                           | 日鉱環境株式会社       |
+| JX金属髙商株式会社                                                              | 東京都中央区                                                                                                   | プリント基板スクラップの集荷・破砕・選別および産業廃棄物の集荷・選別 | 株式会社髙商         |
 | [JX金属敦賀リサイクル](https://ja.wikipedia.org/wiki/JX金属敦賀リサイクル "wikilink")株式会社 | [福井県](../Page/福井県.md "wikilink")[敦賀市](../Page/敦賀市.md "wikilink")                                         | 産業廃棄物の処理                           | 日鉱敦賀リサイクル株式会社  |
 | JX金属三日市リサイクル株式会社                                                        | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")                      | 産業廃棄物の処理                           | 日鉱三日市リサイクル株式会社 |
-| JX金属髙商株式会社                                                              | 東京都中央区                                                                                                   | プリント基板スクラップの集荷・破砕・選別および産業廃棄物の集荷・選別 | 株式会社髙商         |
-| JX金属黒部ガルバ株式会社                                                           | 富山県黒部市                                                                                                   | 溶融亜鉛めっき加工業                         | \-             |
+
+### タンタル・ニオブ事業
+
+| 会社名             | 本社所在地   | 主な事業内容                                                                         | 旧法人名 |
+| --------------- | ------- | ------------------------------------------------------------------------------ | ---- |
+| エイチ・シー・スタルク株式会社 | 東京都千代田区 | 高純度[タンタル](../Page/タンタル.md "wikilink")・[ニオブ](../Page/ニオブ.md "wikilink")製品の製造、販売 |      |
 
 ### その他金属関連事業
 
-| 会社名              | 本社所在地                                                                                                    | 主な事業内容                  | 旧法人名           |
-| ---------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- | -------------- |
-| JX金属商事株式会社       | 東京都中央区                                                                                                   | 非鉄金属・金属加工品・硫酸および化成品の卸売業 | 日鉱商事株式会社       |
-| ニットートレイディング株式会社  | [北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink") | 非鉄金属の卸売、中古農業機械の輸出入事業    | \-             |
-| 日本マリン株式会社        | 東京都港区                                                                                                    | 海上運送業および内航海運業           | \-             |
-| 株式会社PPCロジスティックス  | 東京都千代田区                                                                                                  | 物流管理業務の受託およびコンサルティング    | 株式会社日鉱物流パートナーズ |
-| JX金属エコマネジメント株式会社 | 東京都千代田区                                                                                                  | 休廃止した鉱山・製錬所の管理業務の受託     | \-             |
+| 会社名                                          | 本社所在地                                                                                                    | 主な事業内容                                     | 旧法人名     |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------- |
+| 神峯クリーンサービス株式会社                               | 茨城県日立市                                                                                                   | ごみ処理施設の運転管理業務の受託                           | \-       |
+| JX金属エコマネジメント株式会社                             | 東京都千代田区                                                                                                  | 休廃止した鉱山・製錬所の管理業務の受託                        | \-       |
+| JX金属商事株式会社                                   | 東京都中央区                                                                                                   | 非鉄金属・金属加工品・硫酸および化成品の卸売業                    | 日鉱商事株式会社 |
+| [東邦チタニウム](../Page/東邦チタニウム.md "wikilink")株式会社 | 神奈川県茅ケ崎市                                                                                                 | 金属チタン等の製造・販売                               | \-       |
+| フルウチ化学株式会社                                   | 東京都品川区                                                                                                   | 薄膜材料・半導体材料の加工、卸売業                          | \-       |
+| 下田温泉株式会社                                     | 静岡県[下田市](../Page/下田市.md "wikilink")                                                                      | 下田市近隣地域への[温泉](../Page/温泉.md "wikilink")の供給 | \-       |
+| ニットートレイディング株式会社                              | [北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[門司区](https://ja.wikipedia.org/wiki/門司区 "wikilink") | 非鉄金属の卸売、中古農業機械の輸出入事業                       | \-       |
+| 日本マリン株式会社                                    | 東京都港区                                                                                                    | 海上運送業および内航海運業                              | \-       |
+| JX金属黒部ガルバ株式会社                                | 富山県黒部市                                                                                                   | 溶融亜鉛めっき加工業                                 | \-       |
 
 ### 共通機能会社・その他個別事業会社
 

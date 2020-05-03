@@ -63,7 +63,7 @@
 14. **Wonderful**
       -
         （作詞：RYO-Z, ILMARI, PES, SU　作曲：DJ FUMIYA）
-        後に発売されたシングル「[SPEED KING](https://ja.wikipedia.org/wiki/SPEED_KING "wikilink")」に「Wonderful (CHRISTMAS CLASSIC version)」が収録されている。
+        後に発売されたシングル「[SPEED KING](../Page/SPEED_KING_\(曲\).md "wikilink")」に「Wonderful (CHRISTMAS CLASSIC version)」が収録されている。
 
 ## 外部リンク
 

@@ -13,6 +13,8 @@
 
 [2006年](../Page/2006年.md "wikilink")に発売された[リミックス](../Page/リミックス.md "wikilink")アルバム『[Squeezed](../Page/Squeezed.md "wikilink")』には[石野卓球](../Page/石野卓球.md "wikilink")によるリミックスバージョンが収録されたほか、[2016年](../Page/2016年.md "wikilink")に発売されたコラボベストアルバム『[縁盤](https://ja.wikipedia.org/wiki/縁盤 "wikilink")』には[MONGOL800](../Page/MONGOL800.md "wikilink")とのコラボレーションバージョンが収録されており、両者とも[PVが製作された](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。オリジナル版のPVは存在しない。
 
+[2006年](../Page/2006年.md "wikilink")に公開された映画『[チェケラッチョ\!\!](../Page/チェケラッチョ!!.md "wikilink")』の挿入歌として使用された。
+
 ## 詳細
 
   - 作詞・作曲：ORANGE RANGE

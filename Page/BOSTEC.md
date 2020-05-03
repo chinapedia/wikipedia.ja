@@ -40,7 +40,7 @@
   - 2017年 - 27インチタッチパネル式[キャッシュレス決済専用端末](https://ja.wikipedia.org/wiki/キャッシュレス社会 "wikilink")**[FCL-27V](https://bostec.jp/product/639/)**の販売を開始。
   - 2019年 - セットメニューの購入を容易にした券売機及びセルフ決済機の[特許](../Page/特許.md "wikilink")を出願。[4](https://bostec.jp/#03)
   - 2019年 - [レセプトコンピュータ](../Page/レセプトコンピュータ.md "wikilink")と自動精算機を連動させたシステムを開発。
-  - 2019年 - ECサイトをリニューアルオープン。[\[7\]](https://bostec.official.ec)
+  - 2019年 - ECサイトをリニューアルオープン。[\[6\]](https://bostec.official.ec)
 
 ## 主な商品
 

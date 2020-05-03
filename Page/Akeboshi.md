@@ -530,6 +530,7 @@ ESCL-3067:通常盤</p></td>
   - 『[恋人たち](https://ja.wikipedia.org/wiki/恋人たち_\(2015年の映画\) "wikilink")』音楽・主題歌担当
   - 『[あめつちの日々](https://ja.wikipedia.org/wiki/あめつちの日々 "wikilink")』音楽担当
   - 『[鈴木家の嘘](https://ja.wikipedia.org/wiki/鈴木家の嘘 "wikilink")』音楽・主題歌担当
+  - 『もち』音楽担当
 
 ## 出演
 

@@ -3,14 +3,14 @@
 
 **TOHOシネマズみゆき座**（トウホウシネマ みゆきざ、TOHO CINEMAS MIYUKIZA）は、[日比谷](../Page/日比谷.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")）に所在していた[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社運営の[映画館](../Page/映画館.md "wikilink")。現在の[TOHOシネマズ日比谷](https://ja.wikipedia.org/wiki/東京ミッドタウン日比谷 "wikilink")・スクリーン13に当たる。
 
-館名は、東宝会館・東京宝塚ビルが面している『**みゆき通り**』に由来する。かつては東宝会館（旧東宝本社ビル）地下1階にあり、[日比谷映画](../Page/日比谷映画.md "wikilink")（現：[シアタークリエ](../Page/シアタークリエ.md "wikilink")）と共に運営され、数々のヒット作を上映してきた。その後のみゆき座は「日比谷スカラ座②」が館名を継承した2代目であり、[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink")と共に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")ビルに同居する形で地下2階に所在した。
+館名は、東宝会館・東京宝塚ビルが面している**みゆき通り**に由来する。かつては東宝会館（旧東宝本社ビル）地下1階にあり、[日比谷映画](../Page/日比谷映画.md "wikilink")（現：[シアタークリエ](../Page/シアタークリエ.md "wikilink")）と共に運営され、数々のヒット作を上映してきた。その後のみゆき座は「日比谷スカラ座②」が館名を継承した2代目であり、[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink")と共に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")ビルに同居する形で地下2階に所在した。
 
 ## 沿革
 
   - [1934年](../Page/1934年.md "wikilink")（昭和9年）1月 東京宝塚劇場がオープン。
   - [1955年](../Page/1955年.md "wikilink")（昭和30年） 東京宝塚ビルに「日比谷スカラ座」オープン。（オープニング作品「[戦略空軍命令](../Page/戦略空軍命令.md "wikilink")」）
   - [1957年](../Page/1957年.md "wikilink")（昭和32年）[4月14日](../Page/4月14日.md "wikilink") 東宝会館（東宝本社ビル）が完成し、映画館「みゆき座」オープン。こけら落としは「曙荘の殺人」（[野村浩将](https://ja.wikipedia.org/wiki/野村浩将 "wikilink")監督）\[1\]。
-  - [1962年](../Page/1962年.md "wikilink")（昭和37年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") この日封切の「[私生活](https://ja.wikipedia.org/wiki/私生活_\(映画\) "wikilink")」（[ルイ・マル](../Page/ルイ・マル.md "wikilink")監督）より外国映画のロードショー上映を開始\[2\]。
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") この日封切の「[私生活](../Page/私生活_\(映画\).md "wikilink")」（[ルイ・マル](../Page/ルイ・マル.md "wikilink")監督）より外国映画のロードショー上映を開始\[2\]。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[2月1日](../Page/2月1日.md "wikilink") みゆき座に日本初となるノンリワインド映写機を導入する。
   - [1974年](../Page/1974年.md "wikilink")（昭和49年）[12月21日](../Page/12月21日.md "wikilink") [シルビア・クリステル](../Page/シルビア・クリステル.md "wikilink")主演の「[エマニエル夫人](../Page/エマニエル夫人.md "wikilink")」封切。みゆき座だけで37万人以上を動員する大ヒットとなる。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年） 東京宝塚ビル建て替えのため「日比谷スカラ座」閉館。（最終上映作品「[エアフォース・ワン](../Page/エアフォース・ワン_\(映画\).md "wikilink")」）
@@ -160,7 +160,7 @@ Screen13</p></td>
 
 :\*2011年6月 - [第三の男](../Page/第三の男.md "wikilink")、[十二人の怒れる男](https://ja.wikipedia.org/wiki/十二人の怒れる男#映画版 "wikilink")、[激突\!](../Page/激突!.md "wikilink")、[羊たちの沈黙](../Page/羊たちの沈黙_\(映画\).md "wikilink")
 
-:\*2011年7月 - [薔薇の名前](../Page/薔薇の名前.md "wikilink")、[ライトスタッフ](../Page/ライトスタッフ.md "wikilink")、[ミクロの決死圏](../Page/ミクロの決死圏.md "wikilink")、[パピヨン](../Page/パピヨン_\(映画\).md "wikilink")、[ブリット](../Page/ブリット.md "wikilink")
+:\*2011年7月 - [薔薇の名前](../Page/薔薇の名前.md "wikilink")、[ライトスタッフ](../Page/ライトスタッフ.md "wikilink")、[ミクロの決死圏](../Page/ミクロの決死圏.md "wikilink")、[パピヨン](https://ja.wikipedia.org/wiki/パピヨン_\(1973年の映画\) "wikilink")、[ブリット](../Page/ブリット.md "wikilink")
 
 :\*2011年8月 - [ウエスト・サイド物語](../Page/ウエスト・サイド物語_\(映画\).md "wikilink")、[雨に唄えば](../Page/雨に唄えば.md "wikilink")、[アラビアのロレンス](../Page/アラビアのロレンス.md "wikilink")、[ベン・ハー](../Page/ベン・ハー.md "wikilink")
 

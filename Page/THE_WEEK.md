@@ -60,7 +60,7 @@
 
 1992年当時の番組スタッフ
 
-  - ナレーター：[森功至](../Page/森功至.md "wikilink")、[渡辺友里江](../Page/渡辺友里江.md "wikilink")
+  - ナレーター：[森功至](../Page/森功至.md "wikilink")、[渡辺友里江](../Page/渡辺友里江.md "wikilink")、[鈴木ふう](../Page/鈴木ふう.md "wikilink")
   - ロケ技術：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - タイトルロゴ：吉川友子
   - ディレクター：[原田冬彦](https://ja.wikipedia.org/wiki/原田冬彦 "wikilink")、谷山雄次郎、丸山雅史、川村隆弘、鈴木鉄平

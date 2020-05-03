@@ -167,7 +167,7 @@
 
 ## ゲーム
 
-2006年8月24日に[メディアワークス](../Page/メディアワークス.md "wikilink")より、[PlayStation 2用のゲームとして発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[CEROによる対象年齢はB](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（12歳以上）である。
+2006年8月24日に[メディアワークス](../Page/メディアワークス.md "wikilink")より、[PlayStation 2用のゲームとして発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[CEROによる対象年齢はB](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")（12歳以上）である。
 
 初回限定版特典は本格百合[ドラマCD](../Page/ドラマCD.md "wikilink")・聖アストラエア特製生徒証。予約特典は聖アストラエア3校合同入学案内であった。
 

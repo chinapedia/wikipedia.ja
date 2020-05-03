@@ -1,7 +1,7 @@
 > この記事は[JX童話の花束](https://ja.wikipedia.org/wiki/JX童話の花束)から翻訳されています。
 
 
-『**清水ミチコのJX-ENEOS童話の花束**』（しみずミチコのジェイエックス・エネオスどうわのはなたば）は[NRN系列局](../Page/全国ラジオネットワーク.md "wikilink")（ただし[沖縄県](../Page/沖縄県.md "wikilink")は[JRN単独ネットの](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")（RBC）にネット）で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")頃スタート。[ニッポン放送](../Page/ニッポン放送.md "wikilink")など一部ネット局では『[清水ミチコのミッチャン・インポッシブル](../Page/清水ミチコのミッチャン・インポッシブル.md "wikilink")』内で放送されている（[下記参照](https://ja.wikipedia.org/wiki/#ネット局・放送時間 "wikilink")）。[JOMO](../Page/ジャパンエナジー.md "wikilink")→[ENEOSの](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")[単独提供番組である](../Page/一社提供.md "wikilink")。旧タイトルは『**清水ミチコのJOMO童話の花束**』（しみずミチコのジョモ - ）→『**清水ミチコのJX童話の花束**』（しみずミチコのジェイエックス - ）。本項では、本番組と関係があるJX-ENEOS童話賞（現・JXTG童話賞）についても説明する。
+『**清水ミチコのJX-ENEOS童話の花束**』（しみずミチコのジェイエックス・エネオスどうわのはなたば）は[NRN系列局](../Page/全国ラジオネットワーク.md "wikilink")（ただし[沖縄県](../Page/沖縄県.md "wikilink")は[JRN単独ネットの](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")（RBC）にネット）で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")頃スタート。[ニッポン放送](../Page/ニッポン放送.md "wikilink")など一部ネット局では『[清水ミチコのミッチャン・インポッシブル](../Page/清水ミチコのミッチャン・インポッシブル.md "wikilink")』内で放送されている（[下記参照](https://ja.wikipedia.org/wiki/#ネット局・放送時間 "wikilink")）。[JOMO](../Page/ジャパンエナジー.md "wikilink")→[ENEOSの](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")[単独提供番組である](../Page/一社提供.md "wikilink")。旧タイトルは『**清水ミチコのJOMO童話の花束**』（しみずミチコのジョモ - ）→『**清水ミチコのJX童話の花束**』（しみずミチコのジェイエックス - ）。本項では、本番組と関係があるJX-ENEOS童話賞（現・ENEOS童話賞）についても説明する。
 
 ## 番組内容
 
@@ -60,11 +60,11 @@
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                                       |
 | [沖縄県](../Page/沖縄県.md "wikilink")                                                         |
 
-## JXTG童話賞
+## ENEOS童話賞
 
-**JXTG童話賞**（ジェイエックスティージーどうわしょう）はJXTGホールディングスが「心のふれあい」をテーマにした創作[童話](../Page/童話.md "wikilink")を募集する[メセナ](../Page/メセナ.md "wikilink")活動である。
+**ENEOS童話賞**（エネオスどうわしょう）はJXTGホールディングスが「心のふれあい」をテーマにした創作[童話](../Page/童話.md "wikilink")を募集する[メセナ](../Page/メセナ.md "wikilink")活動である。
 
-JXTG童話賞はJXTGホールディングス（前・JXホールディングス）の前身・共同石油が1970年に創設した「共石創作童話賞」が前身。合併に伴い、1994年に「JOMO童話賞」、2010年7月に「JX童話賞」、2013年3月に「JX-ENEOS童話賞」と名称が変更され、2017年から現名称に改称された。
+ENEOS童話賞はJXTGホールディングスの前身企業にあたる共同石油が1970年に創設した「共石創作童話賞」が前身。合併に伴い、1994年に「JOMO童話賞」、2010年7月に「JX童話賞」、2013年3月に「JX-ENEOS童話賞」、2017年に「JXTG童話賞」と名称が変更され、2020年に主催するJXTGホールディングスがENEOSホールディングスに社名変更されるのに伴い、現名称に改称された。
 
 応募作品の中から審査により優秀作を表彰および童話集『童話の花束』に編纂、発行している。『童話の花束』は応募者全員および児童施設・機関などに無償配布される他、ENEOSサービスステーション（店舗）利用客への配布、および有償で一般にプレゼントされている。なお、『童話の花束』は書店では販売されていない。
 

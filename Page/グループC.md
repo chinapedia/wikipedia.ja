@@ -3,7 +3,7 @@
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Porsche_956_front-left_Porsche_Museum.jpg "wikilink")'''\]\] **グループC**は、[自動車レースに使用する](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")[スポーツカーのカテゴリー](https://ja.wikipedia.org/wiki/スポーツカー_\(モータースポーツ\) "wikilink")。それまでの[二座席レーシングカー](https://ja.wikipedia.org/wiki/二座席レーシングカー "wikilink")の後継にあたるカテゴリーである。
 
-[1981年](../Page/1981年.md "wikilink")、国際自動車スポーツ連盟（FISA）によって発表され、それまで1から8の数字によって形成されていたレギュレーション（国際スポーツ法典・付則J項）を改正し、1982年からAからE・N・Sという7つのアルファベットへ簡略化されたものの1つである。
+[1981年](../Page/1981年.md "wikilink")、国際自動車スポーツ連盟（FISA）によって発表され、それまで1から8の数字によって形成されていたレギュレーション（国際スポーツ法典・付則J項）を改正し、1982年からAからEおよびNという6つのアルファベットへ簡略化されたものの1つである。
 
 ## 規定
 

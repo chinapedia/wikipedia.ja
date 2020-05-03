@@ -1254,8 +1254,7 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鉄の骨#WOWOW版" title="wikilink">鉄の骨</a></p></td>
-<td><p>4月18日 - 5月16日<br />
-(予定)</p></td>
+<td><p>4月18日 - 5月16日</p></td>
 <td><p>全5回</p></td>
 <td><p>鈴木浩介</p></td>
 <td><p>前川洋一</p></td>

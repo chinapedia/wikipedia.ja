@@ -31,7 +31,7 @@
 
 ## 外部リンク
 
-  - [公式ページ](http://www.nintendo.co.jp/ds/ajyj/index.html?link=jpg/)
+  - [公式ページ](https://www.nintendo.co.jp/ds/ajyj/)
 
 [en:List of Touch\! Generations titles\#Kanshū_Nippon_Jōshikiryoku_Kentei_Kyōkai:_Imasara_Hito ni_wa_Kikenai_Otona_no_Jōshikiryoku_Training_DS](https://ja.wikipedia.org/wiki/en:List_of_Touch!_Generations_titles#Kanshū_Nippon_Jōshikiryoku_Kentei_Kyōkai:_Imasara_Hito_ni_wa_Kikenai_Otona_no_Jōshikiryoku_Training_DS "wikilink")
 

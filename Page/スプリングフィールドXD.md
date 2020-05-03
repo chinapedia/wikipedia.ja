@@ -5,7 +5,7 @@
 
 ## 概要
 
-[HS_2000_cal._9x19.JPG](https://ja.wikipedia.org/wiki/File:HS_2000_cal._9x19.JPG "fig:HS_2000_cal._9x19.JPG") オリジナルの**[HS2000](https://ja.wikipedia.org/wiki/:en:HS2000 "wikilink")**[拳銃](../Page/拳銃.md "wikilink")は[1990年代](../Page/1990年代.md "wikilink")後半に登場し、[クロアチア](../Page/クロアチア.md "wikilink")の[軍や](../Page/クロアチア共和国軍.md "wikilink")[警察](../Page/警察.md "wikilink")に制式拳銃として採用された。その後、[アメリカに現地法人を設立して販売を始める](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。HS自体は無名だったものの少しずつ売れ行きは伸び始め、それに注目した[スプリングフィールド・アーモリー](../Page/スプリングフィールド・アーモリー.md "wikilink")社がアメリカでのブランディングと販売を委託することになった。[2002年](../Page/2002年.md "wikilink")にHS2000は**XD**という名を与えられて販売を開始した。様々な[口径](../Page/口径.md "wikilink")とモデルの開発を進めた結果、[銃身を延長したタクティカルや](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、コンシールド（秘匿携行）向けのサブ・コンパクトが登場する。[2006年](../Page/2006年.md "wikilink")には.45弾を使用するモデルが登場し、アメリカ市場での人気を決定的なものとした。
+[HS_2000_cal._9x19.JPG](https://ja.wikipedia.org/wiki/File:HS_2000_cal._9x19.JPG "fig:HS_2000_cal._9x19.JPG") オリジナルの**[HS2000](https://ja.wikipedia.org/wiki/:en:HS2000 "wikilink")**[拳銃](../Page/拳銃.md "wikilink")は[1990年代](../Page/1990年代.md "wikilink")後半に登場し、[クロアチア](../Page/クロアチア.md "wikilink")の[軍や](../Page/クロアチア共和国軍.md "wikilink")[警察](../Page/警察.md "wikilink")に制式拳銃として採用された。その後、[アメリカに現地法人を設立して販売を始める](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。HS自体は無名だったものの少しずつ売れ行きは伸び始め、それに注目した[スプリングフィールド・アーモリー](../Page/スプリングフィールド・アーモリー.md "wikilink")社がアメリカでのブランディングと販売を受託することになった。[2002年](../Page/2002年.md "wikilink")にHS2000は**XD**という名を与えられて販売を開始した。様々な[口径](../Page/口径.md "wikilink")とモデルの開発を進めた結果、[銃身を延長したタクティカルや](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、コンシールド（秘匿携行）向けのサブ・コンパクトが登場する。[2006年](../Page/2006年.md "wikilink")には.45弾を使用するモデルが登場し、アメリカ市場での人気を決定的なものとした。
 
 ## 特徴
 

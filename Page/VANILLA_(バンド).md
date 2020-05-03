@@ -80,7 +80,7 @@
 ### テレビ
 
   - [MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")　(1995年、テレビ朝日)
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")　(1995年、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")　(1995年、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
 
 ## 関連項目
 

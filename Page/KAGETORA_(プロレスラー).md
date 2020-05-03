@@ -88,17 +88,58 @@
 
 ## タイトル履歴
 
+  - [みちのくプロレス](../Page/みちのくプロレス.md "wikilink")
+
+<!-- end list -->
+
   - [東北ジュニアヘビー級王座](../Page/東北ジュニアヘビー級王座.md "wikilink")
   - [東北タッグ王座](../Page/東北タッグ王座.md "wikilink")
   - 鉄人優勝
   - みちのくふたり旅優勝
+
+<!-- end list -->
+
+  - [大阪プロレス](../Page/大阪プロレス.md "wikilink")
+
+<!-- end list -->
+
   - [大阪プロレスタッグ王座](../Page/大阪プロレスタッグ王座.md "wikilink")
+
+<!-- end list -->
+
+  - [プロレスリングElDorado](../Page/プロレスリング・エルドラド.md "wikilink")
+
+<!-- end list -->
+
   - [UWA世界タッグ王座](https://ja.wikipedia.org/wiki/UWA世界タッグ王座 "wikilink")
+
+<!-- end list -->
+
+  - [DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
+
+<!-- end list -->
+
   - [オープン・ザ・ブレイブゲート王座](../Page/オープン・ザ・ブレイブゲート王座.md "wikilink")
   - [オープン・ザ・ツインゲート統一タッグ王座](../Page/オープン・ザ・ツインゲート統一タッグ王座.md "wikilink")
   - [オープン・ザ・トライアングルゲート王座](../Page/オープン・ザ・トライアングル・ゲート王座.md "wikilink")
+  - [KING OF チョップ\!\!優勝](https://ja.wikipedia.org/wiki/KING_OF_チョップ!! "wikilink")
   - [Summer Adventure Tag League優勝](../Page/Summer_Adventure_Tag_League.md "wikilink")
+
+<!-- end list -->
+
+  - [ZERO1](../Page/ZERO1.md "wikilink")
+
+<!-- end list -->
+
   - [NWAインターナショナルライトタッグ王座](https://ja.wikipedia.org/wiki/NWAインターナショナルライトタッグ王座 "wikilink")
+
+<!-- end list -->
+
+  - [闘龍門](../Page/闘龍門.md "wikilink")X
+
+<!-- end list -->
+
+  - ヤマハカップ優勝
 
 ## エピソード
 

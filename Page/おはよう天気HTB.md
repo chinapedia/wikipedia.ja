@@ -23,8 +23,8 @@
       - 現在はイチモニ\!平日版のメインキャスター
   - [石沢綾子](https://ja.wikipedia.org/wiki/石沢綾子 "wikilink")（HTBアナウンサー）2010年3月29日からメインキャスター、2010年3月24日までは水曜日「とれたて中継」リポーター
       - 現在はイチモニ\!平日版のメインキャスター
-  - [国井美佐](https://ja.wikipedia.org/wiki/国井美佐 "wikilink")（HTBアナウンサー）水曜日「とれたて中継」リポーター
-      - 現在は[イチオシ\!のニュースキャスター](../Page/イチオシ!!.md "wikilink")
+  - [国井美佐](https://ja.wikipedia.org/wiki/国井美佐 "wikilink")（HTBアナウンサー、現:[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）水曜日「とれたて中継」リポーター
+      - 元[イチオシ\!ニュースキャスター](../Page/イチオシ!!.md "wikilink")
   - [大野恵](../Page/大野恵.md "wikilink")（HTBアナウンサー、2010年3月29日から）
       - 現在はイチモニ\!平日版のニュースキャスター
   - [大山ゆうか](../Page/大山ゆうか.md "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")、2008年3月24日から）
@@ -47,10 +47,10 @@
   - [どですか\!](../Page/どですか!.md "wikilink")（[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")）
   - [アサデス。](https://ja.wikipedia.org/wiki/アサデス。 "wikilink")KBC（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）
 
-### HTBの情報番組
+### 現在のHTBの情報番組
 
   - [イチオシ\!\!](../Page/イチオシ!!.md "wikilink")（平日夕方）
-  - [スキップ](../Page/スキップ_\(情報番組\).md "wikilink")（土曜昼）
+  - [イチモニ\!](https://ja.wikipedia.org/wiki/イチモニ! "wikilink")（平日・土曜朝）
 
 ### HTB制作の過去の朝番組
 
@@ -59,8 +59,8 @@
       - 気分は天気730 (1987-1993)
       - ハイパーワイド気分は天気 (1993)
   - [ハーイ朝です](https://ja.wikipedia.org/wiki/ハーイ朝です "wikilink")
-  - [発信\!生スタ 早起きクマさん](https://ja.wikipedia.org/wiki/発信!生スタ_早起きクマさん "wikilink")
-  - [情報ワイド 早起きDon\!Don\!](https://ja.wikipedia.org/wiki/情報ワイド_早起きDon!Don! "wikilink")
+  - [発信\!生スタ 早起きクマさん](../Page/発信!生スタ_早起きクマさん.md "wikilink")
+  - [情報ワイド 早起きDon\!Don\!](../Page/情報ワイド_早起きDon!Don!.md "wikilink")
   - [eあさ540](https://ja.wikipedia.org/wiki/eあさ540 "wikilink")
   - [あさばんっ\!](https://ja.wikipedia.org/wiki/あさばんっ! "wikilink")
   - [おはよう\!遠藤商店→朝情報 おはよう\!遠藤商店](../Page/朝情報_おはよう!遠藤商店.md "wikilink")

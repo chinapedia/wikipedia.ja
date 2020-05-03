@@ -101,7 +101,7 @@
 ### テレビ
 
   - 『[ポンキッキーズ21](../Page/ポンキッキーズ21.md "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）コーナーレギュラー
-  - 『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - 『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 
 ### CM
 

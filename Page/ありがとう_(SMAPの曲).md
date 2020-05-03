@@ -94,6 +94,6 @@
 3.  [ありがとう／SMAP -レビュー一覧-](http://www.oricon.co.jp/music/release/d/679788/1/)
 4.  [父の日に贈りたい曲、SMAP、プリプリ、陽水・民生](http://career.oricon.co.jp/news/45533/)
 5.
-6.  このうち、[女子マラソン競技の中継はTBS系](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの陸上競技 "wikilink")28局のみならず、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系単独加盟）・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（日本テレビ系・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[クロスネット](../Page/クロスネット局.md "wikilink")）・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（フジテレビ系単独加盟）にもネットされた。
+6.  このうち、[女子マラソン競技の中継はTBS系](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの陸上競技 "wikilink")28局のみならず、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系単独加盟）・[福井放送](../Page/福井放送.md "wikilink")（日本テレビ系・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[クロスネット](../Page/クロスネット局.md "wikilink")）・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（フジテレビ系単独加盟）にもネットされた。
 7.
 8.

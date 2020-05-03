@@ -1,7 +1,7 @@
 > この記事は[NTTデータ](https://ja.wikipedia.org/wiki/NTTデータ)から翻訳されています。
 
 
-**株式会社エヌ・ティ・ティ・データ**（NTTデータ、*NTT DATA Corporation*）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にある、[データ通信](../Page/データ通信.md "wikilink")やシステム構築事業を行っている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")。情報サービス事業では業界最大手である。[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）のデータ通信事業本部を源とし、その完全子会社である[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")のNTT株式会社が発行済[株式](../Page/株式.md "wikilink")総数の54.19%（[2018年](../Page/2018年.md "wikilink")（平成30年）11月2日現在）を所有する[連結子会社](../Page/連結子会社.md "wikilink")で[NTTグループ](../Page/NTTグループ.md "wikilink")主要企業の一つである。
+**株式会社エヌ・ティ・ティ・データ**（NTTデータ、*NTT DATA Corporation*）は、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")にある、[データ通信](../Page/データ通信.md "wikilink")やシステム構築事業を行っている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")。情報サービス事業では業界最大手である。[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）のデータ通信事業本部を源とし、その完全子会社である[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")のNTT株式会社が発行済[株式](../Page/株式.md "wikilink")総数の54.19%（[2018年](../Page/2018年.md "wikilink")（平成30年）11月2日現在）を所有する[連結子会社](../Page/連結子会社.md "wikilink")で[NTTグループ](../Page/NTTグループ.md "wikilink")主要企業の一つである
 
 ## 企業概要
 

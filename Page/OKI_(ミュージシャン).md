@@ -95,7 +95,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 [Category:アイヌ](https://ja.wikipedia.org/wiki/Category:アイヌ "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:東京芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京芸術大学出身の人物 "wikilink") [Category:1957年生](https://ja.wikipedia.org/wiki/Category:1957年生 "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:アイヌ音楽](https://ja.wikipedia.org/wiki/Category:アイヌ音楽 "wikilink")
 
 1.  [北海道文化賞・北海道文化奨励賞受賞者一覧](http://www.pref.hokkaido.lg.jp/ks/bns/bunkasho/jushoshaichiran2.pdf) [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
-2.  [北原次郎太](https://ja.wikipedia.org/wiki/北原次郎太 "wikilink")[「トンコリの戦後史2」『千葉大学 ユーラシア言語文化論集』6(2003) 67-94](http://mitizane.ll.chiba-u.jp/metadb/up/AA11256001/KJ00004166055.pdf)
+2.  [北原次郎太](../Page/北原次郎太.md "wikilink")[「トンコリの戦後史2」『千葉大学 ユーラシア言語文化論集』6(2003) 67-94](http://mitizane.ll.chiba-u.jp/metadb/up/AA11256001/KJ00004166055.pdf)
 3.  [樺太](../Page/樺太.md "wikilink")[アイヌ](../Page/アイヌ.md "wikilink")の伝統弦楽器。
 4.  [写真で深呼吸。仁礼博のだいじな思いで](http://www.1101.com/nirei/47scene68.html) 2012-03-14-WED [ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")
 5.  [阿寒湖温泉でＯＫＩさんがトンコリのライブ](http://www.hokkaido-np.co.jp/cont/video/?c=&v=394800762002) （2008/05/14） [北海道新聞](../Page/北海道新聞.md "wikilink")

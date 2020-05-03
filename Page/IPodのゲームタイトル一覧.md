@@ -56,7 +56,7 @@
   - 12月9日 [Real Soccer 2009](https://ja.wikipedia.org/wiki/Real_Soccer_2009 "wikilink")（ゲームロフト）
   - 12月9日 [Slyder Adventures](https://ja.wikipedia.org/wiki/Slyder_Adventures "wikilink")（Sandlot Games）
   - 12月9日 [Tiger Woods PGA Tour](https://ja.wikipedia.org/wiki/Tiger_Woods_PGA_Tour "wikilink")（エレクトロニック・アーツ）
-  - 12月16日 [リバーシ](https://ja.wikipedia.org/wiki/リバーシ "wikilink")（アップル）
+  - 12月16日 [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")（アップル）
   - 12月16日 [Wonder Blocks](https://ja.wikipedia.org/wiki/Wonder_Blocks "wikilink")（エレクトロニック・アーツ）
   - 12月16日 [ロードランナー](../Page/ロードランナー.md "wikilink")（ハドソン）
   - 12月23日 [Chinese checkers](../Page/ダイヤモンドゲーム.md "wikilink")（アップル）

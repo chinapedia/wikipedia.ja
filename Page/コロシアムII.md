@@ -28,7 +28,7 @@
   - [ドン・エイリー](../Page/ドン・エイリー.md "wikilink") (Don Airey) - キーボード（1975年 - 1978年）
   - [ニール・マーレイ](../Page/ニール・マーレイ.md "wikilink") (Neil Murray) - ベース（1975年 - 1976年）
   - マイク・スターズ (Mike Starrs) - ボーカル（1975年 - 1976年）
-  - ジョン・モール (John Mole) - ベース（1976年 - 1978年）
+  - ジョン・モール (John Mole) - ベース（1976年 - 1978年）♰RIP.2006
   - キース・エイリー (Keith Airey) - ギター（1978年）
 
 <File:Jon> Hiseman (2015).jpg|ジョン・ハイズマン(Ds) 2015年 <File:Gary> Moore 2010-11-23 01 25 9152.jpg|ゲイリー・ムーア(G) 2010年 <File:Don> Airey at Wacken Open Air 2013.jpg|ドン・エイリー(Key) 2013年

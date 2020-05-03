@@ -1,7 +1,7 @@
 > この記事は[愛しい人よGood Night...](https://ja.wikipedia.org/wiki/愛しい人よGood_Night...)から翻訳されています。
 
 
-「**愛しい人よGood Night...**\[1\]」(いとしいひとよ グッド ナイト…) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[BMGルームス](../Page/VERMILLION_RECORDS.md "wikilink")7作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**愛しい人よGood Night...**\[1\]」(いとしいひとよ グッド ナイト…) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")7作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

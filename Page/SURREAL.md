@@ -5,7 +5,7 @@
 
 ## 解説
 
-シングルとしては、前作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」より3か月半振りのリリースとなり、3rd[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』と同時発売で、初回限定生産シングル。
+シングルとしては、前作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」より3か月半振りのリリースとなり、3rd[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』と同時発売の初回限定生産シングル。シングルリリースが3ヶ月以上途絶えるのはデビュー3年目にして初であった。初登場1位、累計売上は41.7万枚。
 
 本作、『Duty』、DVD『[ayumi hamasaki concert tour 2000 A 第1幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第1幕 "wikilink")』の3作が、それぞれ週間シングル、アルバム、DVDチャートで首位を記録し、[オリコン史上初の](../Page/オリコンチャート.md "wikilink")3冠となった\[2\]。
 

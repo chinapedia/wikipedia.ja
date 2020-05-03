@@ -11,6 +11,8 @@
 
 この楽曲に[インスパイア](https://ja.wikipedia.org/wiki/インスパイア "wikilink")された主演[短編映画](../Page/短編映画.md "wikilink")『[月に沈む](https://ja.wikipedia.org/wiki/月に沈む "wikilink")』が2002年[10月26日](../Page/10月26日.md "wikilink")に公開された\[1\]。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は「月に沈む」のダイジェストとなっている。
 
+3週連続1位、累計売上67.9万枚。この年の「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」で4回目の出場を果たした。
+
 この楽曲で、同年の『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』\[2\]と『第35回[日本有線大賞](../Page/日本有線大賞.md "wikilink")』\[3\]を受賞した。
 
 ## 収録曲

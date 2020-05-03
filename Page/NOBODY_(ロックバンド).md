@@ -721,8 +721,8 @@
       - [バンg バンg バンg](https://ja.wikipedia.org/wiki/Baby_Baby_\(山下久美子のアルバム\) "wikilink")
       - [Darlin' Darlin'](https://ja.wikipedia.org/wiki/Sophia_\(アルバム\) "wikilink")
       - [Please Don't Go](https://ja.wikipedia.org/wiki/Sophia_\(アルバム\) "wikilink")
-      - [GIMME LOVE](https://ja.wikipedia.org/wiki/アニマ・アニムス "wikilink")
-      - [5・6・7・8 DANCE\!](https://ja.wikipedia.org/wiki/アニマ・アニムス "wikilink")
+      - [GIMME LOVE](../Page/アニマ・アニムス.md "wikilink")
+      - [5・6・7・8 DANCE\!](../Page/アニマ・アニムス.md "wikilink")
   - [山本達彦](../Page/山本達彦.md "wikilink")
       - MIDNIGHT HARBOR（作曲・編曲）
       - LAST SHOW（編曲）

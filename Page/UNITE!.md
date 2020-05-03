@@ -7,6 +7,8 @@
 
 前作「[Endless sorrow](../Page/Endless_sorrow.md "wikilink")」より、2ヶ月振りのリリース。
 
+初登場1位、累計売上57.1万枚。
+
 [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")はサビのみのプロモーショナルクリップしか存在しない。
 
 ## 収録曲

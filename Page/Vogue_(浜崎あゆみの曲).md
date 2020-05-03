@@ -5,7 +5,11 @@
 
 ## 解説
 
-シングルとしては前作「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」より、約2か月半振りのシングル。[オリコン週間シングルチャートでは最高](../Page/オリコンチャート.md "wikilink")3位ながら、累計76.8万枚を売り上げるヒットとなった\[2\]。
+シングルとしては前作「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」より、約2か月半振りのシングル。
+
+[オリコン週間シングルチャートでは初登場](../Page/オリコンチャート.md "wikilink")3位ながら、累計76.8万枚を売り上げるヒットとなった\[2\]。（1位は[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」、2位は[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「[Secret of my heart](../Page/Secret_of_my_heart.md "wikilink")」であった）
+
+僅か半年前に本人出演していた[花王](../Page/花王.md "wikilink")「AUBE」CMの契約満期直後、ライバル社となる[コーセー](../Page/コーセー.md "wikilink")「VISSE」の新キャラクターに起用され話題に。プロモーションで謳った通称"あゆグロス"は3ヶ月の目標売上を僅か2日で売上げ、歌手デビューから丸2年にして女子高生を中心にファッションアイコンとしての地位を急速に高めていった。
 
 本作は、次作「[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")」、次々作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の1作目にあたり\[3\]、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も3作品で繋がっている。
 

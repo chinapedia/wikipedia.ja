@@ -7,9 +7,15 @@
 
 前作「[UNITE\!](../Page/UNITE!.md "wikilink")」から約2ヶ月半でのリリース。
 
+初登場1位、累計売上75万枚。
+
+デビューから僅か3年半にして24枚目のシングルであり、1年間で平均8枚という驚異的なペースでのリリースとなった。
+
 リミックスアルバム『[SUPER EUROBEAT presents ayu-ro mix 2](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix_2.md "wikilink")』、『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』と同時発売された。
 
 本楽曲で、同年の『[第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")』の大賞を初受賞した\[2\]。アニメ主題歌がレコード大賞を受賞するのは『[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")』のポップス・ロック部門で大賞となった「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」以来となる。 また、本楽曲は『第34回[日本有線大賞](../Page/日本有線大賞.md "wikilink")』も受賞した\[3\]。日本レコード大賞と日本有線大賞のダブル受賞は、史上6組目の快挙であった。
+
+この曲で同年の「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」に3回目の出場を果たした。
 
 [日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2002年](../Page/2002年.md "wikilink")度の年間4位\[4\]を獲得した。
 

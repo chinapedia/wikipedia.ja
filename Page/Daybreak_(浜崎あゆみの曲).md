@@ -5,9 +5,9 @@
 
 ## 解説
 
-シングルとしては前作「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」から約5か月ぶりのリリースで、4thアルバム『[I am...](../Page/I_am....md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。
+シングルとしては前作「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」から約5か月ぶりのリリース（[KEIKO](../Page/KEIKO.md "wikilink")とのデュエット「[A song is born](../Page/A_song_is_born.md "wikilink")」を含むと3ヶ月ぶり）で、4thアルバム『[I am...](../Page/I_am....md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。アルバムとは大幅にアレンジが異なっており、スローテンポになっている。
 
-30万枚限定生産ではあったが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")で[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」に敗れ初登場2位となってしまい、2000年発売の19枚目「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」以来続いていた連続首位記録が途絶えてしまう。
+30万枚限定生産ではあったが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")で[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")「[FANTASISTA](../Page/FANTASISTA_\(曲\).md "wikilink")」に敗れ初登場2位となってしまい、2000年発売の19枚目「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」以来続いていた連続首位記録が途絶えてしまう。累計売上も19.7万枚となり、20万枚を下回るのは6thシングル「[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink")」以来3年ぶりのこと。
 
 リカットシングルだが、『[I am...](../Page/I_am....md "wikilink")』に収録されているオリジナルは収録されていない。
 

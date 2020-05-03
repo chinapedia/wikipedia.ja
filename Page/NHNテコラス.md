@@ -45,7 +45,7 @@
   - [NHNテコラス株式会社](https://nhn-techorus.com/)
   - [NHN TECHORUS :: テックブログ](https://techblog.nhn-techorus.com/) - 公式技術系ブログ
 
-[Category:NHN](https://ja.wikipedia.org/wiki/Category:NHN "wikilink") [Category:ライブドア](https://ja.wikipedia.org/wiki/Category:ライブドア "wikilink") [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink") [Category:ドメインのレジストラ](https://ja.wikipedia.org/wiki/Category:ドメインのレジストラ "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:2007年設立の企業](https://ja.wikipedia.org/wiki/Category:2007年設立の企業 "wikilink")
+[Category:NHN](https://ja.wikipedia.org/wiki/Category:NHN "wikilink") [Category:ライブドアのグループ企業](https://ja.wikipedia.org/wiki/Category:ライブドアのグループ企業 "wikilink") [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink") [Category:ドメインのレジストラ](https://ja.wikipedia.org/wiki/Category:ドメインのレジストラ "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:2007年設立の企業](https://ja.wikipedia.org/wiki/Category:2007年設立の企業 "wikilink")
 
 1.  株式会社データホテル[「オフィス移転のご案内」](http://www.datahotel.co.jp/release/detail/?nid=25)2012年09月27日
 2.  [データホテルと東北大学、学術無線LANローミングeduroam JPにおいて クラウド型大規模eduroam認証サービスの産学連携提供を開始。 - 株式会社データホテル-DATAHOTEL](http://www.datahotel.co.jp/release/detail/?nid=26)

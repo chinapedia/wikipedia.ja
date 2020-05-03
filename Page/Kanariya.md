@@ -5,7 +5,7 @@
 
 ## 解説
 
-2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産。ピクチャーレーベル仕様。黒の半透明のケースに収められている。
+2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産。ピクチャーレーベル仕様。黒の半透明のケースに収められている。この年、7作品目のシングルであり1-2ヶ月に1枚の超ハイペースでのリリースとなった。
 
 トラック最後の「kanariya "Vocal Track"」は、一般からの[リミックス](../Page/リミックス.md "wikilink")作品を広く募集するために収録された。
 

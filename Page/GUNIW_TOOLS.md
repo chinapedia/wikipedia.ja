@@ -9,14 +9,14 @@
   - 1992年　ギターのJAKE加入。バンド名をGUNIW TOOLSと改める。デモテープ「プロトタイプ1」発売。
   - 1992年5月　ビデオ「プロトタイプ2」発売。
   - 1994年　ギターのASAKI（山鼻朝樹）加入。
-  - 1994年５月 札幌PLAHAにてライブ「おさびし山の一夜」
+  - 1994年5月 札幌PLAHAにてライブ「おさびし山の一夜」
   - 1996年　ビデオ『1992-1994』でビクターからメジャーデビュー。
   - 1996年12月 SSTVミュージックビデオアワード ベストデビュークリップ賞受賞。
   - 1997年9月10日　NHKホールでライブ。その後（97年秋）、JAKE脱退。
   - 2000年11月26日　渋谷公会堂でライブ「続REAL Guniw 2000Ls～来ないと後悔堂～」をもって活動休止。それぞれソロ活動へ。
   - 2011年11月22日　札幌KRAPS HALL『Solo Solo GUNIW Tell Miracle』にてAGE of PUNKとSHILFEE AND TULIPCOROBOCKLESが対バン。セッションでGUNIW TOOLSの曲を演奏した。
   - 2011年12月5日　SHILFEE AND TULIPCOROBOCKLESのライブにJAKEがゲスト出演し、GUNIW TOOLSの曲を演奏した。
-  - 2013年12月19{{～}}21日　SHILFEE AND TULIPCOROBOCKLES + Jake + Asakiのツアーを[東名阪で開催](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")。久々に初代メンバー3人が集結した。
+  - 2013年12月19～21日　SHILFEE AND TULIPCOROBOCKLES + Jake + Asakiのツアーを[東名阪で開催](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")。久々に初代メンバー3人が集結した。
   - 2014年6月17日　SHILFEE AND TULIPCOROBOCKLESのアルバム「Tulip Chair Edition 1」に、JAKEがリメイクで参加。
   - 2014年8月23日　ASAKIが自身の[Twitter](../Page/Twitter.md "wikilink")上で、GUNIW TOOLSの復活を発表した（FULLとの2人体制）。札幌、東京でのライブも発表するが、即完売。
 
@@ -35,7 +35,7 @@
         BUCK-TICKの[櫻井敦司](../Page/櫻井敦司.md "wikilink")、[Plastic Treeの](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")[有村竜太朗](https://ja.wikipedia.org/wiki/有村竜太朗 "wikilink")と親交が深い。
   - [ASAKI](../Page/ASAKI.md "wikilink")：[ギター](../Page/ギター.md "wikilink")
       -
-        本名・山鼻朝樹（やまはな あさき）。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ。\[1\][青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")出身。
+        本名・山鼻朝樹（やまはな あさき）。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ\[1\]。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")出身。
         BUCK-TICKの[今井寿](../Page/今井寿.md "wikilink")と親交が深く、『DAZZLE』収録の「GRAZING」の作曲を依頼し、実現した。
         2015年、[織田哲郎](../Page/織田哲郎.md "wikilink")が結成したバンド「**ROLL-B DINOSAUR**」（ロール・ビー・ダイナソー）に参加。ギター担当\[2\]。
 

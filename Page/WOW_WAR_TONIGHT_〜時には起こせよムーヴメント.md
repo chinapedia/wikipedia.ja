@@ -23,7 +23,7 @@
 ## 録音
 
   - 曲の合間には「背後霊」をモチーフにした「BUSAIKU HAMADA（ブサイク浜田）」という掛け声と、最後の小室がテープレコーダーを持ってダウンタウンのレギュラー番組の収録現場に赴き、ダウンタウンの思い出話をテーマにした語りは相方である[松本人志](../Page/松本人志.md "wikilink")が、曲の合間にあるラップは[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")がそれぞれ担当している。これはリスナーに「何を言っているのか」と興味を持ってもらい、1枚でも多く買ってもらうための演出である\[10\]。
-  - ボーカルのレコーディングは小室の当時の個人スタジオのソファーがある以外は何の変哲もない広いリビングで行われた。そこでマイクを持たされて歌ったため浜田は「他の人の目も気にしないで、本当に『ただ家でカラオケしているだけか』とも思ってレコーディングできた」と語っている。しかし、本当は天井の近くにカメラがついていて、小室はカメラに向かって別の部屋の本格的な機材のある部屋のスタッフに部分的な支持を出していた\[11\]。
+  - ボーカルのレコーディングは小室の当時の個人スタジオのソファーがある以外は何の変哲もない広いリビングで行われた。そこでマイクを持たされて歌ったため浜田は「他の人の目も気にしないで、本当に『ただ家でカラオケしているだけか』とも思ってレコーディングできた」と語っている。しかし、本当は天井の近くにカメラがついていて、小室はカメラに向かって別の部屋の本格的な機材のある部屋のスタッフに部分的な指示を出していた\[11\]。
   - 仕事でハワイに向かわなくてはならない浜田に考慮し、1995年1月1日に仮歌付きのデモテープを完成させた\[12\]。最初の打ち合わせのときに既にデモテープを用意していた小室に対する礼儀として、浜田は小室の自宅内スタジオでのレコーディングが始まる2週間前に小室から間髪入れずに渡された完成版を聞き込み、全ての歌詞と譜割りを暗記した。それが功を奏し、歌入れは1995年1月中にわずか4テイク・わずか1時間半でOKテイクが出された\[13\]\[14\]。その後もロンドンにてそこから良いテイクを厳選して編集し、さらにバックトラックにパートを追加した\[15\]。
 
 ## 音楽性とテーマ
@@ -78,7 +78,7 @@
 
 ## 脚注
 
-[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:1995年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1995年のデビュー・シングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:1995年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1995年のデビュー・シングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:夜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夜を題材とした楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  当日は浜田の相方である[松本人志](../Page/松本人志.md "wikilink")も乱入というかたちで出演している。
 2.  浜田自身は、しばしばこの曲を「一番嫌いな曲」と冗談交じりに語っていた。その理由は、キーが高く本人であるにもかかわらずオリジナルのキーで歌うことが困難で疲れるからだとしていた（最高音が[A4で](https://ja.wikipedia.org/wiki/音名・階名表記#オクターブ表記 "wikilink")、他の持ち歌よりおおむね1音階高い）。

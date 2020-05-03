@@ -23,14 +23,11 @@
 
 1.  **[time will tell](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")**(5:26)
       -
-        1stシングルの2曲目
+        1stシングル
         フジテレビ系『[ごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")』エンディングテーマ
 2.  **[Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")**(5:11)
       -
-        1stシングルの1曲目
-        表記されていないが、本作に収録されているのは、1stアルバム『[First Love](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")』収録されていたAlbum Editでの収録となっている。
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[笑う犬](../Page/笑う犬.md "wikilink")の生活-YARANEVA\!\!-』・『[笑う犬](../Page/笑う犬.md "wikilink")2008秋』エンディングテーマ
-        [FM802](../Page/FM802.md "wikilink")・[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink"): 1998年12月の邦楽（[J-POP](../Page/J-POP.md "wikilink")）[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")
+        1stシングル
         編曲：[西平彰](../Page/西平彰.md "wikilink")
         Rhythm track Arrangement：Taka & Speedy
         Additional Arrangement：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")
@@ -41,9 +38,6 @@
 4.  **[First Love](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")**(4:19)
       -
         3rdシングル
-        1999年TBS系テレビドラマ『魔女の条件』主題歌。
-        2000年春選抜高校野球選手権入場曲。
-        2014年NTT東日本CF曲。
         編曲：河野圭
 5.  **[Addicted To You \[UP-IN-HEAVEN MIX](../Page/Addicted_To_You.md "wikilink")\]**(5:20)
       -
@@ -56,11 +50,11 @@
         シングルバージョンはアルバム初収録。
 7.  **[For You](https://ja.wikipedia.org/wiki/For_You/タイム・リミット "wikilink")**(5:24)
       -
-        6thシングルの1曲目
+        6thシングル
         編曲：河野圭
 8.  **[タイム・リミット](https://ja.wikipedia.org/wiki/For_You/タイム・リミット "wikilink")**(4:56)
       -
-        6thシングルの2曲目
+        6thシングル
         作曲：宇多田ヒカル&[久保琢郎](../Page/TAKURO.md "wikilink")([GLAY](../Page/GLAY.md "wikilink"))/編曲：[ロドニー・ジャーキンス](https://ja.wikipedia.org/wiki/:en:Rodney_Jerkins "wikilink")、宇多田ヒカル
 9.  **[Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")**(5:10)
       -
@@ -81,11 +75,11 @@
         編曲：河野圭、宇多田ヒカル
 13. **[SAKURAドロップス](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")**(5:07)
       -
-        11thシングルの1曲目
+        11thシングル
         編曲：宇多田ヒカル、河野圭
 14. **[Letters](https://ja.wikipedia.org/wiki/SAKURAドロップス/Letters "wikilink")**(4:48)
       -
-        11thシングルの2曲目
+        11thシングル
         編曲：河野圭、宇多田ヒカル
 15. **[COLORS](../Page/COLORS_\(宇多田ヒカルの曲\).md "wikilink")**(3:59)
       -

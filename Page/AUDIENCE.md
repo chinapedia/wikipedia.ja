@@ -5,7 +5,9 @@
 
 ## 解説
 
-シングルとしては前作「[SURREAL](../Page/SURREAL.md "wikilink")」より約1か月でのリリースで、3rd[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産作品。
+シングルとしては前作「[SURREAL](../Page/SURREAL.md "wikilink")」より約1か月でのリリースで、3rd[アルバム](../Page/アルバム.md "wikilink")『[Duty](../Page/Duty.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。アルバム収録版とはミックスが異なっており、30万枚完全限定生産作品。
+
+初登場2位、累計売上29.3万枚。
 
 最後のトラック「SEASONS "Vocal Track"」は一般からの[リミックス](../Page/リミックス.md "wikilink")作品を広く募集するために収録された。
 

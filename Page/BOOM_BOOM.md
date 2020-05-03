@@ -35,7 +35,7 @@
   - [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")
   - [KBS京都](../Page/京都放送.md "wikilink")
   - [サンテレビ](../Page/サンテレビジョン.md "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
   - [テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink") - 1998年から2001年まで放送。
   - [テレビ西日本](../Page/テレビ西日本.md "wikilink")
   - [サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink") - 1997年から2000年まで放送。

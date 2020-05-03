@@ -65,9 +65,9 @@
 
 ## 外部リンク
 
-  - [えいご漬け](http://www.plato-web.com/software/eigo/)（プラト）
-  - [英語が苦手な大人のDSトレーニング えいご漬け](http://www.nintendo.co.jp/ds/angj/)（任天堂）
-  - [英語が苦手な大人のDSトレーニング もっとえいご漬け](http://www.nintendo.co.jp/ds/anhj/)（任天堂）
-  - [各版の違い](http://www.plato-web.com/software/eigo/eigo_com.html)
+  - [えいご漬け](https://www.plato-web.com/software/eigo/)（プラト）
+  - [英語が苦手な大人のDSトレーニング えいご漬け](https://www.nintendo.co.jp/ds/angj/)（任天堂）
+  - [英語が苦手な大人のDSトレーニング もっとえいご漬け](https://www.nintendo.co.jp/ds/anhj/)（任天堂）
+  - [各版の違い](https://www.plato-web.com/software/eigo/eigo_com.html)
 
 [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:英語教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:英語教育ソフトウェア "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink")

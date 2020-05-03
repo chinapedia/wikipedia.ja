@@ -7,9 +7,9 @@
 
 ## 解説
 
-2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』と同時発売の30万枚完全限定生産シングル。
+2ndアルバム『[LOVEppears](../Page/LOVEppears.md "wikilink")』と同時発売の30万枚完全限定生産シングル。『LOVEppears』収録版とはミックスが異なっている。
 
-[オリコン週間シングルランキングでは](../Page/オリコンチャート.md "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[Addicted To You](../Page/Addicted_To_You.md "wikilink")」が1位を獲得したため、阻ばれて最高2位となった。前作から続いた2作連続1位にはならなかったが、本作のCD累計売上枚数は31万枚（オリコン調べ）を記録した。
+[オリコン週間ランキング初登場](../Page/オリコンチャート.md "wikilink")2位で累計売上は29.1万枚（オリコン調べ）を記録。
 
 [2001年](../Page/2001年.md "wikilink")には、[アメリカで表題曲の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リミックス](../Page/リミックス.md "wikilink")がアナログ盤としてavex usaより発売されている\[3\]。
 

@@ -17,6 +17,8 @@
 
 ### 言語機能(Verbal response)「V」
 
+\=
+
   - 5点：[見当識](https://ja.wikipedia.org/wiki/見当識 "wikilink")が保たれている
   - 4点：会話は成立するが見当識が混乱
   - 3点：発語はみられるが会話は成立しない
@@ -30,8 +32,8 @@
   - 6点：命令に従って四肢を動かす
   - 5点：痛み刺激に対して手で払いのける
   - 4点：指への痛み刺激に対して四肢を引っ込める
-  - 3点：痛み刺激に対して緩徐な屈曲運動（[除皮質姿勢](https://ja.wikipedia.org/wiki/除皮質硬直 "wikilink")）
-  - 2点：痛み刺激に対して緩徐な伸展運動（[除脳姿勢](../Page/除脳硬直.md "wikilink")）
+  - 3点：痛み刺激に対してかんじょな屈曲運動（[除皮質姿勢](https://ja.wikipedia.org/wiki/除皮質硬直 "wikilink")）
+  - 2点：痛み刺激に対してかんじょな伸展運動（[除脳姿勢](../Page/除脳硬直.md "wikilink")）
   - 1点：運動みられず
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、簡便な[Japan Coma Scale](../Page/Japan_Coma_Scale.md "wikilink")(JCS)が広く用いられている。
@@ -40,6 +42,8 @@
 
   - [意識障害](../Page/意識障害.md "wikilink")
   - [脳死](https://ja.wikipedia.org/wiki/脳死 "wikilink")
-  - [切迫するD](https://ja.wikipedia.org/wiki/外傷初期診療ガイドライン日本版#ABCDE.E3.82.A2.E3.83.97.E3.83.AD.E3.83.BC.E3.83.81 "wikilink")
+  - [切迫する](https://ja.wikipedia.org/wiki/外傷初期診療ガイドライン日本版#ABCDE.E3.82.A2.E3.83.97.E3.83.AD.E3.83.BC.E3.83.81 "wikilink")
 
-[Category:医学的指標](https://ja.wikipedia.org/wiki/Category:医学的指標 "wikilink") [Category:脳神経外科学](https://ja.wikipedia.org/wiki/Category:脳神経外科学 "wikilink") [Category:認知検査](https://ja.wikipedia.org/wiki/Category:認知検査 "wikilink")
+[y:認知検査](https://ja.wikipedia.org/wiki/y:認知検査 "wikilink")
+
+[Category:医学的指標](https://ja.wikipedia.org/wiki/Category:医学的指標 "wikilink") [Category:脳神経外科学](https://ja.wikipedia.org/wiki/Category:脳神経外科学 "wikilink")

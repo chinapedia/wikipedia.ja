@@ -9,7 +9,9 @@
 
 [1996年](../Page/1996年.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](../Page/伊藤一朗.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作詞・作曲・編曲担当の[五十嵐充](../Page/五十嵐充.md "wikilink")の3人で、1stシングル「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](../Page/エイベックス・エンタテインメント.md "wikilink")）からCDデビューした。同シングルは[オリコンで最高位](../Page/オリコンチャート.md "wikilink")24位を記録し、約10万枚を売り上げた。
 
-1997年に3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入りをしてブレイクを果たす。1998年には8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が350万枚を超える大ヒットを記録した\[1\]。 五十嵐の楽曲の世界観、[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
+90年代ビーイングで圧倒的人気を博していた[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")や当時のエイベックスを牽引していた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が在籍する[Globe](../Page/Globe.md "wikilink")の大成功手法を取り入れ、人気に火がつく。
+
+翌1997年に3rdシングル「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」で初のトップ10入りをしてブレイクを果たし、1stアルバム『[Everlasting](../Page/Everlasting_\(Every_Little_Thingのアルバム\).md "wikilink")』では初の1位・初のミリオンセラーを記録。1998年には8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が350万枚を超える大ヒットを記録した\[1\]。 五十嵐の楽曲の世界観、[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
 
 デビュー以来ハイペースでシングルリリースを続けてきたが、1999年はプロデュースのための十分な時間を確保したいという五十嵐の思いで、1月の11thシングル「[Over and Over](../Page/Over_and_Over.md "wikilink")」、3月の12thシングル「[Someday, Someplace](../Page/Someday,_Someplace.md "wikilink")」とベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』のリリース後はリリースやツアーのない期間を過ごした。
 

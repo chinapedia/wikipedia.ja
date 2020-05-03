@@ -9,7 +9,7 @@
     [2002年](../Page/2002年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版と[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が発売。
   - Ever17 -the out of infinity- Premium Edition（改良版）
     [2003年](../Page/2003年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、PC版 (CD-ROM) が発売。CGが追加されている。
-    2003年[11月27日](../Page/11月27日.md "wikilink")、DC版（全年齢対象）およびPS2版（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象）が発売。
+    2003年[11月27日](../Page/11月27日.md "wikilink")、DC版（全年齢対象）およびPS2版（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が発売。
     [2004年](../Page/2004年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[サクセスより](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズでPS](../Page/SuperLiteシリーズ.md "wikilink")2版が発売。
     [2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、PC版 (DVD-ROM) が発売。
     2005年[8月12日](../Page/8月12日.md "wikilink")、ポータルサイト・[goo](https://ja.wikipedia.org/wiki/goo "wikilink")内でオンデマンドゲームとして供給開始。[2007年](../Page/2007年.md "wikilink")8月17日をもって終了。

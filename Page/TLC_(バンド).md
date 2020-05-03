@@ -5,7 +5,7 @@
 
 ## 来歴
 
-メインボーカルは[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")出身のT-ボズ（T-Boz, 本名：Tionne Watkins, [1970年](../Page/1970年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - ）、[ラップ](../Page/ラップ.md "wikilink")と作詞担当はレフト・アイ（Left Eye, 本名：Lisa Nicole Lopes, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）、メインボーカルと[コーラスをチリ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（Chilli, 本名：Rozonda Thomas, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）が担当。
+メインボーカルは[アイオワ州](../Page/アイオワ州.md "wikilink")出身のT-ボズ（T-Boz, 本名：Tionne Watkins, [1970年](../Page/1970年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink") - ）、[ラップ](../Page/ラップ.md "wikilink")と作詞担当はレフト・アイ（Left Eye, 本名：Lisa Nicole Lopes, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")）、メインボーカルと[コーラスをチリ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（Chilli, 本名：Rozonda Thomas, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）が担当。
 
 グループの名前は「Tender Loving Care」からと、三人の[ニックネームの頭文字から](../Page/愛称.md "wikilink")。最初はT-ボズ、レフト・アイ、クリスタルというメンバーでデビューするはずだったが、デビュー前にクリスタルは解雇され、チリが加入した。
 

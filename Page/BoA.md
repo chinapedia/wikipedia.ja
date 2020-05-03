@@ -249,7 +249,7 @@
 
 主なジャンルは[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")、[ダンスポップ](https://ja.wikipedia.org/wiki/ダンスポップ "wikilink")である。またBoAは、通常のピンク、アヴリル・ラヴィーンの曲を聴きながらロックのジャンルの音楽をしてみたいと語っていた。日本ではバラード曲である。
 
-[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")等の多くの歌手と比較された。
+[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")等の多くの歌手と比較された。
 
 ## ディスコグラフィ
 

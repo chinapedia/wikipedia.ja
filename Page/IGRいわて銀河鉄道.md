@@ -85,7 +85,7 @@ IGRいわて銀河鉄道の[旅行業](https://ja.wikipedia.org/wiki/旅行業 "
   - 〒020-0133 盛岡市青山二丁目2番8号（青山駅南口駅舎兼IGR本社社屋1階）
   - 営業時間：9:30 - 18:30（年末年始（12月29日 - 1月3日）は休業）
 
-[IBCラジオ](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")「[盛岡駅前探偵団](../Page/盛岡駅前探偵団.md "wikilink")」にて毎週木曜日に[CMを不定期で放送している](../Page/コマーシャルメッセージ.md "wikilink")。
+[IBCラジオ](../Page/IBC岩手放送.md "wikilink")「[盛岡駅前探偵団](../Page/盛岡駅前探偵団.md "wikilink")」にて毎週木曜日に[CMを不定期で放送している](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ### IGRいわて銀河鉄道不動産
 

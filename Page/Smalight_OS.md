@@ -1,7 +1,7 @@
 > この記事は[Smalight OS](https://ja.wikipedia.org/wiki/Smalight_OS)から翻訳されています。
 
 
-**Smalight OS**（スマライトオーエス、SMArt & LIGHT Operating System）は、[マクセルシステムテック](https://ja.wikipedia.org/wiki/マクセルシステムテック "wikilink")株式会社が製造・販売している[組み込み用](../Page/組み込みシステム.md "wikilink")[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")のこと。
+**Smalight OS**（スマライトオーエス、SMArt & LIGHT Operating System）は、[マクセルフロンティア株式会社が製造](https://ja.wikipedia.org/wiki/マクセルシステムテック "wikilink")・販売している[組み込み用](../Page/組み込みシステム.md "wikilink")[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")のこと。
 
 ## 特徴
 
@@ -51,7 +51,7 @@
   -
 ## 外部リンク
 
-  - [Smalightホームページ](http://www.systemtech.maxell.co.jp/solution/smalight-index/)
+  - [Smalightホームページ](https://www.frontier.maxell.co.jp/dms/solution/smalight-index/index.html)
 
 ## 注釈
 

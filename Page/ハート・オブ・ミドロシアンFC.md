@@ -685,7 +685,7 @@
 
   - [トミー・マクリーン](https://ja.wikipedia.org/wiki/トミー・マクリーン "wikilink") 1994-1995
 
-  - [ジム・ジェフェリーズ](https://ja.wikipedia.org/wiki/ジム・ジェフェリーズ "wikilink") 1995-2000
+  -  1995-2000
 
   - [クレイグ・リベイン](https://ja.wikipedia.org/wiki/クレイグ・リベイン "wikilink") 2000-2004
 
@@ -703,7 +703,7 @@
 
   - [チャバ・ラースロー](https://ja.wikipedia.org/wiki/チャバ・ラースロー "wikilink") 2008.7-2010.1
 
-  - [ジム・ジェフリーズ](https://ja.wikipedia.org/wiki/ジム・ジェフリーズ "wikilink") 2010.1-2011.8
+  -  2010.1-2011.8
 
   - [パウロ・セルジオ](https://ja.wikipedia.org/wiki/パウロ・セルジオ "wikilink") 2011.8-2012
 

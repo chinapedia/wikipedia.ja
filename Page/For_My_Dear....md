@@ -1,9 +1,12 @@
 > この記事は[For My Dear...](https://ja.wikipedia.org/wiki/For_My_Dear...)から翻訳されています。
 
 
-「**For My Dear...**」（フォー・マイ・ディアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の4th[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
+
+ 「**For My Dear...**」（フォー・マイ・ディアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の4th[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
+
+プロデューサーの[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")曰く、半年前の歌手デビューの時点で四枚目である本作までは完成しており、[東京プリン](../Page/東京プリン.md "wikilink")の伊藤洋介の協力を得て[森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「メレンゲショコラ」のCMに起用された。歌手デビュー後としては初の本人出演CM曲となった（プロモーションビデオと連動）。
 
 ## 収録曲
 

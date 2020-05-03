@@ -1,7 +1,7 @@
 > この記事は[Sports Graphic Number](https://ja.wikipedia.org/wiki/Sports_Graphic_Number)から翻訳されています。
 
 
-**『Sports Graphic Number』**（スポーツ グラフィック ナンバー）は、[文藝春秋](../Page/文藝春秋.md "wikilink")が発行している総合[スポーツ](../Page/スポーツ.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。隔週木曜日発行。略称『Number』（[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")では「Sports Graphic」の部分は小さく表記されている）。
+**『Sports Graphic Number』**（スポーツ グラフィック ナンバー）は、[文藝春秋](../Page/文藝春秋.md "wikilink")が発行している総合[スポーツ](../Page/スポーツ.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")。隔週木曜日発行。略称『Number』。[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")では「Sports Graphic」の部分は小さく表記されている。
 
 ## 概要
 
@@ -45,7 +45,7 @@
 
 ナンバー誌の選考により「その年に最もスポーツファンを興奮させたアスリート」に贈られる。
 
-| 回  | 年                                                       | 受賞者                                                         | ジャンル            | 備考                                                                                                                                                                                                                                                            |
+| 回  | 年                                                       | 受賞者\[10\]                                                   | ジャンル            | 備考                                                                                                                                                                                                                                                            |
 | -- | ------------------------------------------------------- | ----------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | nowrap|[1982年](../Page/1982年.md "wikilink")             | [広岡達朗](../Page/広岡達朗.md "wikilink")                          | 野球              | [西武ライオンズ初の日本一](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")                                                                                                                                                                                            |
 | 2  | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") | [青木功](../Page/青木功.md "wikilink")                            | ゴルフ             | 日本人初の米国PGAツアー優勝                                                                                                                                                                                                                                               |
@@ -84,6 +84,7 @@
 | 35 | [2016年](../Page/2016年.md "wikilink")                    | [大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")       | 野球              | 攻守で[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")を日本一に導く                                                                                                                                                                                                |
 | 36 | [2017年](../Page/2017年.md "wikilink")                    | [桐生祥秀](https://ja.wikipedia.org/wiki/桐生祥秀 "wikilink")       | 陸上              | 100m走で日本初の9秒台となる9秒98を達成                                                                                                                                                                                                                                       |
 | 37 | [2018年](../Page/2018年.md "wikilink")                    | [大坂なおみ](https://ja.wikipedia.org/wiki/大坂なおみ "wikilink")     | テニス             | [全米オープン](https://ja.wikipedia.org/wiki/全米オープン "wikilink")を制し、日本人初の[グランドスラム](../Page/グランドスラム.md "wikilink")シングルス優勝                                                                                                                                             |
+| 38 | [2019年](../Page/2019年.md "wikilink")                    | ラグビー日本代表                                                    | ラグビー            | [第9回ラグビーワールドカップ](https://ja.wikipedia.org/wiki/第9回ラグビーワールドカップ "wikilink")で、史上初のベスト8進出                                                                                                                                                                         |
 
 ### 特別賞
 
@@ -98,7 +99,7 @@
 
 2010年11月、「見るスポーツ」から「するスポーツ」を特集する「[Number Do](https://ja.wikipedia.org/wiki/Number_Do "wikilink")」を創刊。
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")『[GET SPORTS](../Page/GET_SPORTS.md "wikilink")』は開始当初、本誌の「テレビ版」を目指して制作されていた。\[10\]
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")『[GET SPORTS](../Page/GET_SPORTS.md "wikilink")』は開始当初、本誌の「テレビ版」を目指して制作されていた。\[11\]
 
 ## 関連項目
 
@@ -107,7 +108,7 @@
   - [神を見た夜](https://ja.wikipedia.org/wiki/J1参入決定予備戦 "wikilink")
   - [秋天の陽炎](../Page/1999年J2最終節.md "wikilink")
   - [高橋直人](https://ja.wikipedia.org/wiki/高橋直人 "wikilink")
-  - [青島健太](../Page/青島健太.md "wikilink") - 1992年頃に掲載された「野球少年よ、和式便器を使え！」でスポーツライターとしてデビューした。\[11\]
+  - [青島健太](../Page/青島健太.md "wikilink") - 1992年頃に掲載された「野球少年よ、和式便器を使え！」でスポーツライターとしてデビューした。\[12\]
   - [柳澤健](https://ja.wikipedia.org/wiki/柳澤健_\(ノンフィクション作家\) "wikilink") - 元編集部員
 
 ## 出典
@@ -137,5 +138,6 @@
 7.  [創刊35年で初\!「Number」表紙を読者投票で決める](http://www.hochi.co.jp/topics/20150527-OHT1T50209.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2015年5月28日　6:00。
 8.  Number編集部「[Number Ex 新日本プロレス総選挙の結果発表\!\! 初代1位に輝いたのは……あの逸材。](http://number.bunshun.jp/articles/-/823739)」、Number Web、2015年7月16日 10:30。
 9.  ただしこれらは本誌とは事実上無関係で、単発企画としてのいわゆる[ムック](https://ja.wikipedia.org/wiki/ムック "wikilink")を出版する際にその流通を円滑化させるため、便宜的に本誌の別冊という体裁にしたものである。
-10. [大下容子　過去の担当番組](http://www.tv-asahi.co.jp/announcer/personal/women/ooshita/kako/get.html)
-11. [1](https://www.kouenirai.com/kakeru/magazine/ma_interview/2816)
+10.
+11. [大下容子　過去の担当番組](http://www.tv-asahi.co.jp/announcer/personal/women/ooshita/kako/get.html)
+12. [1](https://www.kouenirai.com/kakeru/magazine/ma_interview/2816)

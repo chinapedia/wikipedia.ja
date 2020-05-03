@@ -358,7 +358,7 @@ S.E.S解散後、パダはミュージカル俳優とソロ歌手、ユジンは
 
 #### 音楽番組
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 1998年12月7日、1999年2月22日、7月12日
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 1998年12月7日、1999年2月22日、7月12日
   - [MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink") （[テレビ朝日](../Page/テレビ朝日.md "wikilink")）- 2002年6月21日 （[V6](../Page/V6_\(グループ\).md "wikilink") with Shoo）
   - [POP JAM](https://ja.wikipedia.org/wiki/ポップジャム "wikilink") （[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - 1999年7月10日
   - [Music Jump](https://ja.wikipedia.org/wiki/Music_Jump "wikilink") （[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")） - 1999年7月4日

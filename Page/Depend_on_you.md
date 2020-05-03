@@ -7,7 +7,7 @@
 
 ## 解説
 
-1999年発売の1枚目のアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』の先行シングル。
+1999年発売の1stアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』の先行シングル。累計13.1万を記録し、3rdシングル「[Trust](https://ja.wikipedia.org/wiki/Trust "wikilink")」以来4ヶ月ぶりに10万枚を突破。
 
 1999年[7月17日](../Page/7月17日.md "wikilink")にアナログ盤で再発売された。
 

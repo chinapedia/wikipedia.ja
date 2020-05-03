@@ -46,7 +46,7 @@
 
 ## 日本への就航
 
-[Yakovlev_Yak-40.svg](https://ja.wikipedia.org/wiki/File:Yakovlev_Yak-40.svg "fig:Yakovlev_Yak-40.svg") [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の航空会社は運用したことはないが、[ロシア](../Page/ロシア.md "wikilink")の[ウラジオストク航空](../Page/ウラジオストク航空.md "wikilink")が日本の[富山](../Page/富山空港.md "wikilink") - [ウラジオストク便](https://ja.wikipedia.org/wiki/ウラジオストク空港 "wikilink")（20席）に使用していた。日本の国際航空路線では最小のジェット旅客機であった。2010年12月24日を持って運休。
+[Yakovlev_Yak-40.svg](https://ja.wikipedia.org/wiki/File:Yakovlev_Yak-40.svg "fig:Yakovlev_Yak-40.svg") [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の航空会社は運用したことはないが、[ロシア](../Page/ロシア.md "wikilink")の[ウラジオストク航空](../Page/ウラジオストク航空.md "wikilink")が日本の[富山](../Page/富山空港.md "wikilink") - [ウラジオストク便](https://ja.wikipedia.org/wiki/ウラジオストク空港 "wikilink")（20席）に使用していた。日本の国際航空路線では最小のジェット旅客機であったが、2010年12月24日を持って運休となった。
 
 ## 脚注
 

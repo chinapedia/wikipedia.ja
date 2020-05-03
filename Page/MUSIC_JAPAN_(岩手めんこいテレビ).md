@@ -332,7 +332,7 @@ Weekly Countdownお休み</p></td>
   - [新潟県](../Page/新潟県.md "wikilink")：[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
   - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")：[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")(日本テレビ系列)
   - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")：[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")([テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink"))
-  - [福井県](../Page/福井県.md "wikilink")：[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")(日本テレビ系列)
+  - [福井県](../Page/福井県.md "wikilink")：[福井放送](../Page/福井放送.md "wikilink")(日本テレビ系列)
   - [中京広域圏](../Page/広域放送.md "wikilink")：[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")(テレビ朝日系列)
   - [静岡県](../Page/静岡県.md "wikilink")：[テレビ静岡](../Page/テレビ静岡.md "wikilink")
   - [京都府](../Page/京都府.md "wikilink")：[KBS京都](../Page/京都放送.md "wikilink")(独立UHF放送局)

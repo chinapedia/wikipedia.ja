@@ -3,7 +3,7 @@
 
 **メアリー・J. ブライジ**（Mary Jane Blige、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[女性](../Page/女性.md "wikilink")[R\&B](../Page/コンテンポラリー・R&B.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")。「**クイーン・オブ・ヒップホップ・ソウル**」と称され\[1\]\[2\]、「ニュー・ジャック・ディーヴァ」、「ニュー・チャカ（[チャカ・カーン](../Page/チャカ・カーン.md "wikilink")）」、「ニュー・アレサ（[アレサ・フランクリン](../Page/アレサ・フランクリン.md "wikilink")）」とも形容される\[3\]。
 
-「ローリング・ストーンの選ぶ歴史上最も偉大な100人のシンガー」において第100位\[4\]。
+「[ローリング・ストーンの選ぶ歴史上最も偉大な100人のシンガー](../Page/ローリング・ストーンの選ぶ歴史上最も偉大な100人のシンガー.md "wikilink")」において第100位\[4\]。
 
 「[Q誌](https://ja.wikipedia.org/wiki/Q誌 "wikilink")の選ぶ歴史上最も偉大な100人のシンガー」において第78位\[5\]。
 

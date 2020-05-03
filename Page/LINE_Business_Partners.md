@@ -20,6 +20,6 @@
 
   - [LINE Business Partners株式会社](http://linebp.com/)
 
-[Category:NHN](https://ja.wikipedia.org/wiki/Category:NHN "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink")
+[Category:ネイバー](https://ja.wikipedia.org/wiki/Category:ネイバー "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2003年設立の企業](https://ja.wikipedia.org/wiki/Category:2003年設立の企業 "wikilink")
 
 1.  [社名変更に関するお知らせ | プレスリリース | ニュースリリース | LINE Business Partners株式会社](http://www.jlisting.jp/information/press_release/2013/20130401)

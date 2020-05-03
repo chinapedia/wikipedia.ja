@@ -5,7 +5,7 @@
 
 ## 解説
 
-シングルとしては、前作「[Depend on you](../Page/Depend_on_you.md "wikilink")」より、約2か月ぶりとなる。
+シングルとしては前作「[Depend on you](../Page/Depend_on_you.md "wikilink")」より約2か月ぶり、アルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』が前月に発売されてチャートを賑わせている頃に発売され、初登場5位、累計19万枚を記録。
 
 "version M" のPVは制作されたが、"version J" は、制作されていない。また、2種類のCM SPOT（"version M"・"version J"）が存在。"version J" の映像は前述のPVとは全く別のもので、オレンジを風景にしたものとなっている。なお、"version J" に関しては、アルバムにも収録されておらず、このシングルのみの収録である。
 

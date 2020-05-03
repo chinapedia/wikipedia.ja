@@ -7,7 +7,9 @@
 
 ## 解説
 
-前作「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から、わずか2か月でのリリースとなった。この年のシングルリリースは、約2か月に1枚のペースでのリリースとなる。
+前作のデビュー曲「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から、わずか2か月でのリリースとなった。以後、デビュー年ながらも約2か月に1枚の超ハイペースでのリリースとなる。
+
+この曲で[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に初出演した。
 
 2008年の43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
 

@@ -262,9 +262,8 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
 
   - 『[レインボーシックス](../Page/レインボーシックス.md "wikilink")』
     『[ディビジョン (ゲーム)](https://ja.wikipedia.org/wiki/ディビジョン_\(ゲーム\) "wikilink")』
-    　『[PLAYERUNKNOWN'S　BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』
-
-G36Cという名称で登場。なお本銃はVikendi(雪原マップ)にのみ登場する。
+    『[PLAYERUNKNOWN'S　BATTLEGROUNDS](https://ja.wikipedia.org/wiki/PLAYERUNKNOWN'S_BATTLEGROUNDS "wikilink")』
+    G36Cという名称で登場。なお本銃はVikendi(雪原マップ)にのみ登場する。
 
 ### 小説
 

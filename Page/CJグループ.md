@@ -37,7 +37,7 @@
   - CJフレッシュウェイ（[給食](../Page/給食.md "wikilink")・食材流通事業、旧CJフードシステム）
   - [CJ CGV](https://ja.wikipedia.org/wiki/CJ_CGV "wikilink")（[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")事業）
   - CJ 4DPLEX（体験型のシアターシート「[4DX](https://ja.wikipedia.org/wiki/4DX "wikilink")」を開発）
-  - [CJ ENM](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")（エンタテインメント事業。放送部門のCJメディア、[オンメディア](https://ja.wikipedia.org/wiki/オンメディア "wikilink")、映画部門のCJエンタテインメント、オンラインゲーム部門のCJインターネット、 CJオーホームショッピング（通販事業）などが合併。音楽専門チャンネル[Mnet](../Page/Mnet.md "wikilink")を運営）
+  - [CJ ENM](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")（エンタテインメント事業。放送部門のCJメディア、[オンメディア](https://ja.wikipedia.org/wiki/オンメディア "wikilink")、映画部門のCJエンタテインメント、オンラインゲーム部門のCJインターネット、 CJオーホームショッピング（通販事業）などが合併。音楽専門チャンネル[Mnet](../Page/Mnet.md "wikilink")や[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル[tVN](https://ja.wikipedia.org/wiki/tVN "wikilink")などを運営）
 
 <!-- end list -->
 

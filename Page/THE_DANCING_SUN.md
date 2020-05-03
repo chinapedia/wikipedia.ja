@@ -27,7 +27,7 @@
 5.  **GET AWAY**
       -
         1994年度の「[キリンラガービール](../Page/麒麟麦酒.md "wikilink")」CMソング（出演・[西島秀俊](../Page/西島秀俊.md "wikilink")、[りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")）。
-6.  **[Hello, my friend](../Page/Hello,_my_friend.md "wikilink")**
+6.  **[Hello, my friend](../Page/Hello,_my_friend.md "wikilink")(album Mix)**
       -
         前記のドラマ『君といた夏』の主題歌となった先行シングル。ユーミンの公式サイトと公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルでプロモーション・ビデオが視聴可能。
 7.  **RIVER**

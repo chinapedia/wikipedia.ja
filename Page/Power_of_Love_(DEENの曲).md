@@ -19,11 +19,11 @@
 
 「**Power of Love 〜Jawaiian Style〜**」（パワー オブ ラブ 〜ジャワイアン・スタイル〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")の配信限定シングル。
 
-## 解説
+### 解説
 
 配信限定シングルとしては、前作より一週間でのリリースとなる。
 
-## 収録曲
+### 収録曲
 
 1.  **Power of Love 〜Jawaiian Style〜**
       -

@@ -257,7 +257,7 @@
 ### ラジオ
 
   - [BAY FM](https://ja.wikipedia.org/wiki/BAY_FM "wikilink")、[Inter FM](https://ja.wikipedia.org/wiki/Inter_FM "wikilink") - レギュラー[パーソナリティー](../Page/ラジオパーソナリティ.md "wikilink")&選曲
-  - [TFM](https://ja.wikipedia.org/wiki/TFM "wikilink") - [ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")
+  - [TFM](https://ja.wikipedia.org/wiki/TFM "wikilink") - [ナビゲーター](../Page/ナビゲーター.md "wikilink")
 
 舞台
 

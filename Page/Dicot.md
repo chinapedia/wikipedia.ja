@@ -77,7 +77,7 @@
 ### テレビ番組
 
   - [パパパパPUFFY](https://ja.wikipedia.org/wiki/パパパパPUFFY "wikilink")(2001年8月8日/2001年8月15日)
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")(2001年5月14日/2001年7月23日)
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")(2001年5月14日/2001年7月23日)
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")(2001年5月18日)
   - [WEST21](../Page/WEST21.md "wikilink")
   - [音楽職業案内所ドレかむ](https://ja.wikipedia.org/wiki/音楽職業案内所ドレかむ "wikilink")(2003年8月14日)

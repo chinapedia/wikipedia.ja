@@ -5,6 +5,8 @@
 
 ## 歴史
 
+かつてTBS火曜20時枠は、『[源氏鶏太シリーズ](https://ja.wikipedia.org/wiki/源氏鶏太シリーズ "wikilink")』（第1期。前半）や『[サンヨーテレビ劇場](https://ja.wikipedia.org/wiki/サンヨーテレビ劇場 "wikilink")』（後半）などといった「30分単発ドラマ」は放送したものの、その後は『[TBS歌のグランプリ](../Page/TBS歌のグランプリ.md "wikilink")』などの1時間[歌謡番組を継続していたため](../Page/音楽番組.md "wikilink")、「1時間連続ドラマ」の開始は極めて遅く、1975年[3月31日](../Page/3月31日.md "wikilink")の[腸捻転解消から半年たった](https://ja.wikipedia.org/wiki/ネットチェンジ#大阪準キー局「腸捻転」の解消 "wikilink")1975年10月からである\[1\]。
+
   - 1975年10月～1983年2月
 
 <!-- end list -->
@@ -117,6 +119,11 @@
 ## 特記事項
 
   - 『女子高生\!キケンなアルバイト』は全3回の短期シリーズであるが、便宜上記載している。
+  - 当時の恒例改編期[特番](../Page/特別番組.md "wikilink")『[4月だョ（10月だョ）\!全員集合](https://ja.wikipedia.org/wiki/4・10月だョ!全員集合 "wikilink")』→『[春（秋）のスペシャル決定版・テレビまるごと大集合](https://ja.wikipedia.org/wiki/春秋のスペシャル決定版・テレビまるごと大集合 "wikilink")』→『[クイズまるごと大集合](../Page/クイズまるごと大集合.md "wikilink")』は、一部を除き火曜日に放送されていたため、本枠のドラマは改編期は最終週の1週前に放送を終わるのが多かった。
+
+## 脚注
+
+<references />
 
 ## 関連項目
 
@@ -127,3 +134,5 @@
   - [TBS火曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS火曜10時枠の連続ドラマ "wikilink")
 
 [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink") [Category:TBS火曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜8時枠の連続ドラマ "wikilink")
+
+1.  なお[毎日放送は腸捻転時代の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[NET（現：テレビ朝日）](../Page/テレビ朝日.md "wikilink")[系列時代には](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、NET制作の1時間ドラマをネットした事はあった。

@@ -170,7 +170,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1946-1947シーズンのNCAA男子バスケットボール・シーズン" title="wikilink">1946-47</a></p></td>
 <td><p>1947年3月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ホーリークロス・クルセイダーズ" title="wikilink">ホーリークロス・クルセイダーズ</a><br />
-（<a href="https://ja.wikipedia.org/wiki/ホーリークロス大学" title="wikilink">ホーリークロス大学</a>）</strong><br />
+（<a href="../Page/ホーリークロス大学.md" title="wikilink">ホーリークロス大学</a>）</strong><br />
 無所属 / 26勝3敗・勝率.897</p></td>
 <td><p>初優勝</p></td>
 <td><p><strong>58</strong>－47</p></td>
@@ -1350,7 +1350,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年NCAA男子バスケットボールトーナメント" title="wikilink">82</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2019-2020シーズンのNCAAディビジョンI男子バスケットボール・シーズン" title="wikilink">2019-20</a></p></td>
 <td><p><del>2020年4月6日</del></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_(2019年-)" title="wikilink">新型コロナウイルス感染症流行のため開催中止</a>[1]</p></td>
+<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウイルス感染症流行のため開催中止</a>[1]</p></td>
 <td><p><del><a href="https://ja.wikipedia.org/wiki/メルセデス・ベンツ・スタジアム" title="wikilink">メルセデス・ベンツ・スタジアム</a><br />
 （<a href="../Page/ジョージア州.md" title="wikilink">ジョージア州</a><a href="../Page/アトランタ.md" title="wikilink">アトランタ</a>）</del></p></td>
 <td><p>－</p></td>

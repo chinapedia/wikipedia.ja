@@ -95,7 +95,7 @@ __TOC__{{-}}
 
 ## ネット局
 
-  - [2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の放送開始以来3年半の間[文化放送](../Page/文化放送.md "wikilink")のみで放送されてきたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")より他4局へ[ラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink")内にてネットされるようになった。また、[2009年](../Page/2009年.md "wikilink")も秋の改編から全国4局へ向けて（前回から[福井が抜け](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、代わって石川が追加）ネットが開始される。ネット局に於いては放送時間の都合上、番組の最後半部がカットされている。その為、番組頭から45分ほどすると[降りコメント](https://ja.wikipedia.org/wiki/降りコメント "wikilink")（[飛び降り](https://ja.wikipedia.org/wiki/飛び降り_\(放送\) "wikilink")）「一部地域でお聞きの皆さんとは、この曲でお別れです」が挿入される。
+  - [2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の放送開始以来3年半の間[文化放送](../Page/文化放送.md "wikilink")のみで放送されてきたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")より他4局へ[ラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink")内にてネットされるようになった。また、[2009年](../Page/2009年.md "wikilink")も秋の改編から全国4局へ向けて（前回から[福井が抜け](../Page/福井放送.md "wikilink")、代わって石川が追加）ネットが開始される。ネット局に於いては放送時間の都合上、番組の最後半部がカットされている。その為、番組頭から45分ほどすると[降りコメント](https://ja.wikipedia.org/wiki/降りコメント "wikilink")（[飛び降り](https://ja.wikipedia.org/wiki/飛び降り_\(放送\) "wikilink")）「一部地域でお聞きの皆さんとは、この曲でお別れです」が挿入される。
 
 ### 放送終了時のネット局
 

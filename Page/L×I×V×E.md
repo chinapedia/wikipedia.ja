@@ -310,7 +310,7 @@
   - [しあわせのシッポ](../Page/しあわせのシッポ.md "wikilink")（2002年、TBS）
   - [白い影](../Page/白い影.md "wikilink")スペシャル（2003年、TBS）
   - [GOOD LUCK\!\!](../Page/GOOD_LUCK!!.md "wikilink")（2003年、TBS）
-  - [きみはペット](https://ja.wikipedia.org/wiki/きみはペット "wikilink")（2003年、TBS）
+  - [きみはペット](../Page/きみはペット.md "wikilink")（2003年、TBS）
   - [ちょっと待って、神様](../Page/ちょっと待って、神様.md "wikilink")（2004年、NHK）
   - [吾輩は主婦である](../Page/吾輩は主婦である.md "wikilink")（2006年、TBS）
   - [学校の怪談](../Page/学校の怪談.md "wikilink")（2007年、[アンプラグド](https://ja.wikipedia.org/wiki/アンプラグド "wikilink")）
@@ -338,4 +338,4 @@
 
   - [LIVE ロケ地ガイド](http://loca.ash.jp/show/1999/d199904_live.htm)
 
-[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:吹奏楽を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吹奏楽を題材としたテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:横須賀市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:横須賀市を舞台とした作品 "wikilink")
+[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:吹奏楽を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吹奏楽を題材としたテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:横須賀市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:横須賀市を舞台としたテレビドラマ "wikilink")

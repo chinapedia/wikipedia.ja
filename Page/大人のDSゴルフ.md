@@ -62,7 +62,7 @@
 
 ## 外部リンク
 
-  - [大人のDSゴルフ](http://www.nintendo.co.jp/ds/agfj/index.html)
+  - [大人のDSゴルフ](https://www.nintendo.co.jp/ds/agfj/)
   - [デジタルゴルフ](http://www.digitalgolf.co.jp/)
 
 [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:ゴルフゲーム](https://ja.wikipedia.org/wiki/Category:ゴルフゲーム "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:T\&E_SOFTのゲームソフト](https://ja.wikipedia.org/wiki/Category:T&E_SOFTのゲームソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink")

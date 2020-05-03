@@ -26,7 +26,7 @@ Windows 1.0ではコマンドの頭文字がキーボードショートカット
   - [カレンダー](https://ja.wikipedia.org/wiki/Windows_Calendar "wikilink") (CALENDAR.EXE)
   - [電卓](../Page/電卓_\(Windows\).md "wikilink") (CALC.EXE)
   - 時計 (TIME.EXE) - アナログ時計。タスクアイコン状態でも機能する
-  - [リバーシ](https://ja.wikipedia.org/wiki/リバーシ "wikilink") (REVERSI.EXE) - ゲーム
+  - [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink") (REVERSI.EXE) - ゲーム
   - ターミナル (TERMINAL.EXE) - 通信アプリケーション
 
 **ツール類**

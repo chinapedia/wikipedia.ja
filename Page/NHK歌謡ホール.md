@@ -21,4 +21,4 @@
   - [NHK歌謡ホール - NHK名作選(動画・静止画)NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010259_00000)
   - [番組エピソード　歌謡番組-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=music005)
 
-[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:1981年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のテレビ番組_\(日本\) "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink")
+[Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:1981年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のテレビ番組_\(日本\) "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink")

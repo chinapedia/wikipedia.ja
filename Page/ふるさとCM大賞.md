@@ -64,7 +64,7 @@
 5.
 6.
 7.
-8.  テレビ朝日系列（[ANNネットワーク](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）加盟26局のうち17局が開催。キー局である[テレビ朝日](../Page/テレビ朝日.md "wikilink")、基幹局である[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")、[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、クロスネット局である[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、ほか、[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")、[山口朝日放送](../Page/山口朝日放送.md "wikilink")、の9局では開催していない。
+8.  テレビ朝日系列（[ANNネットワーク](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）加盟26局のうち17局が開催。キー局である[テレビ朝日](../Page/テレビ朝日.md "wikilink")、基幹局である[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")、[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、クロスネット局である[福井放送](../Page/福井放送.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")、ほか、[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")、[山口朝日放送](../Page/山口朝日放送.md "wikilink")、の9局では開催していない。
 9.
 10.
 11.

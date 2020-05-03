@@ -195,7 +195,7 @@ UMCK-5227:通常盤</p></td>
   - [A BATHING APE](../Page/A_BATHING_APE.md "wikilink")
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
-  - [TERIYAKI BEEF](https://ja.wikipedia.org/wiki/SEEDA#TERIYAKI_BEEF)
+  - [TERIYAKI BEEF](https://ja.wikipedia.org/wiki/SEEDA#TERIYAKI_BEEF "wikilink")
 
 ## 外部リンク
 

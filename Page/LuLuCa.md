@@ -164,7 +164,7 @@ LuLuCa\[POINT\]のポイントカード機能に加え、[三井住友VISAカー
 
 [ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg")
 
-交通系ICカード全国相互利用により、加盟するカード全てがLuLuCaエリアで利用できる\[20\]。静岡鉄道電車各駅・しずてつジャストラインの一般乗合バス・自治体受託路線は「PiTaPa交通ご利用エリア」であるため、サービス内容はPiTaPaとそれ以外では異なる（制限を有する）。
+[交通系ICカード全国相互利用により](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")、加盟するカード全てがLuLuCaエリアで利用できる\[20\]。静岡鉄道電車各駅・しずてつジャストラインの一般乗合バス・自治体受託路線は「PiTaPa交通ご利用エリア」であるため、サービス内容はPiTaPaとそれ以外では異なる（制限を有する）。
 
   - [PiTaPa](../Page/PiTaPa.md "wikilink")
     静岡鉄道・しずてつジャストラインの静鉄グループ内をはじめ、国内広域での共通利用を見据えたIC乗車カードとして、LuLuCaと並行導入された。

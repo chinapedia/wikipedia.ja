@@ -94,7 +94,7 @@
   - Reed Organ:[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
   - Drums:[沼澤尚](../Page/沼澤尚.md "wikilink")
   - Bass:[沖山優司](../Page/沖山優司.md "wikilink")
-  - Acoustic Guitar(Left):[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")
+  - Acoustic Guitar(Left):[古川昌義](../Page/古川昌義.md "wikilink")
   - Acoustic Guitar(Right):堂珍嘉邦
   - Bouzouki:間宮工
   - Strings:後藤勇一郎ストリングス

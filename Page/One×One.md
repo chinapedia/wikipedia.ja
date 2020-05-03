@@ -97,7 +97,7 @@
 ### YOUR NAME NEVER GONE
 
   - All Keyboards, Programming, Fender Rhodes, Pro Tools Editing, Strings Arrangement:[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
-  - Gut Guitar:[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")
+  - Gut Guitar:[古川昌義](../Page/古川昌義.md "wikilink")
   - Strings:後藤勇一郎ストリングス
 
 ### my Rivets
@@ -123,7 +123,7 @@
 ### meaning of tears
 
   - All Keyboards, Programming, Pro Tools Editing, Strings Arrangement:[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
-  - Acoustic Guitar:[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")
+  - Acoustic Guitar:[古川昌義](../Page/古川昌義.md "wikilink")
   - Strings:後藤勇一郎ストリングス
 
 ### Ordinary hero

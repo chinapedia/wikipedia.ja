@@ -33,7 +33,7 @@
 
 解散後、俳優を目指した入江以外のメンバーは個々に音楽活動を続けていたが、[2002年](../Page/2002年.md "wikilink")（平成14年）三木が33歳の若さで[膵臓癌](https://ja.wikipedia.org/wiki/膵臓癌 "wikilink")で死去した\[5\]。これにより5人での復活は叶わなくなったが、[2005年](../Page/2005年.md "wikilink")阿久と横山が「[razz.](https://ja.wikipedia.org/wiki/razz. "wikilink")」として活動を開始。razz.の公式ページでは「ラズ 第二章」を謳い、RAZZ MA TAZZサウンドの継承を示していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にリリースされた2枚目のアルバムを最後に活動停止している。
 
-その後、阿久が[2019年](../Page/2019年.md "wikilink")（平成31年）4月末から、『RAZZ MA TAZZ』として20年ぶりに活動を再開。[東京](../Page/東京都.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[大阪での](../Page/大阪市.md "wikilink")[ライブ](../Page/ライブ.md "wikilink")をはじめ、ミニアルバムもリリースされる\[6\]。
+その後、阿久が[2019年](../Page/2019年.md "wikilink")（平成31年）4月末から、『RAZZ MA TAZZ』として20年ぶりに活動を再開。[東京](../Page/東京都.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[大阪での](../Page/大阪市.md "wikilink")[ライブ](../Page/ライブ.md "wikilink")をはじめ、ミニアルバムもリリースした\[6\]。その翌年には東京でのライブの模様をノーカットで収めたDVDも発売された。
 
 ## ディスコグラフィ
 

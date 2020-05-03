@@ -131,7 +131,7 @@
 </tr>
 <tr class="even">
 <td><p>山磨香織</p></td>
-<td></td>
+<td><p><a href="../Page/NHK松山放送局.md" title="wikilink">松山</a></p></td>
 <td><p>ならナビ（気象キャスター）</p></td>
 </tr>
 </tbody>

@@ -789,7 +789,7 @@ RCCについては、過去にヤクルト主催（火曜日のLF）・在阪球
 
 <!-- end list -->
 
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+  - [福井放送](../Page/福井放送.md "wikilink")
   - [山口放送](../Page/山口放送.md "wikilink")※
 
 <!-- end list -->
@@ -825,7 +825,7 @@ RCCについては、過去にヤクルト主催（火曜日のLF）・在阪球
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")◎
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")◎（2010年度のみNRN土曜ナイターを定時放送）
+  - [大分放送](../Page/大分放送.md "wikilink")◎（2010年度のみNRN土曜ナイターを定時放送）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")◎（2010年度のオールスターゲーム第2戦のみ、土曜開催ながらもTBS受けで放送した）
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")◎

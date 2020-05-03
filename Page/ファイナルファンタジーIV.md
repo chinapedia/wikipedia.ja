@@ -19,15 +19,15 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")、及び[1999年](../Page/1999年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")には[PlayStation版が発売されている](../Page/PlayStation_\(ゲーム機\).md "wikilink")（1997年に発売されたのは[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")向けの単品、1999年に発売されたのは『[FFV](../Page/ファイナルファンタジーV.md "wikilink")』及び『[FFVI](../Page/ファイナルファンタジーVI.md "wikilink")』を含めた一般ルート向けの『[ファイナルファンタジーコレクション](../Page/ファイナルファンタジーコレクション.md "wikilink")』）。
 
-[2002年](../Page/2002年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")には「スクウェア マスターピース」シリーズの1つとして[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")版が、[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")には[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")版が発売されている ([ゲームボーイミクロ](../Page/ゲームボーイミクロ.md "wikilink")本体とソフトとの同梱版『ファイナルファンタジーIV アドバンス+天野喜孝デザインGBミクロFFモデル同梱セット』も発売)。
+[2002年](../Page/2002年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")には「スクウェア マスターピース」シリーズの1つとして[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")版が、[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")には[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")版が発売されている ([ゲームボーイミクロ](../Page/ゲームボーイミクロ.md "wikilink")本体とソフトとの同梱版『ファイナルファンタジーIV アドバンス+天野喜孝デザインGBミクロFFモデル同梱セット』も発売\[1\])。
 
 [2007年](../Page/2007年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")には[3Dでフルリメイクされた](../Page/3次元コンピュータグラフィックス.md "wikilink")[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版が発売され、[2009年](../Page/2009年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")から[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")でスーパーファミコン版が配信されている。
 
 2009年[10月5日](../Page/10月5日.md "wikilink")より[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）版の配信が始まり、同年[12月10日](../Page/12月10日.md "wikilink")には[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink") ([au](../Page/Au_\(携帯電話\).md "wikilink")) 版が配信され、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")には[S\!アプリ](../Page/S!アプリ.md "wikilink")（[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）版が配信されている。
 
-[2011年](../Page/2011年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")には『ファイナルファンタジーIV コンプリートコレクション』 (*FINAL FANTASY IV Complete Collection FINAL FANTASY IV & THE AFTER YEARS*) として、[PlayStation Portableにて発売](../Page/PlayStation_Portable.md "wikilink")。 また、ソフト・ガイドブック・楽曲CD等との同梱版『ファイナルファンタジーIV コンプリートコレクション アルティメット パック』(*Ultimate Pack*) もネット限定で発売。 PSP版は本編と続編『月の帰還』に加え、2つの話を繋ぐシナリオ「ファイナルファンタジーIV - インタールード - (*FINAL FANTASY IV - Interlude -*)」も挿入されている\[1\]\[2\]。
+[2011年](../Page/2011年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")には『ファイナルファンタジーIV コンプリートコレクション』 (*FINAL FANTASY IV Complete Collection FINAL FANTASY IV & THE AFTER YEARS*) として、[PlayStation Portableにて発売](../Page/PlayStation_Portable.md "wikilink")。 また、ソフト・ガイドブック・楽曲CD等との同梱版『ファイナルファンタジーIV コンプリートコレクション アルティメット パック』(*Ultimate Pack*) もネット限定で発売。 PSP版は本編と続編『月の帰還』に加え、2つの話を繋ぐシナリオ「ファイナルファンタジーIV - インタールード - (*FINAL FANTASY IV - Interlude -*)」も挿入されている\[2\]\[3\]。
 
-[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")には[PlayStation 3とPlayStation](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") PortableにてPlayStation版が[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")版として配信開始された。 2012年12月18日にネット限定販売で、FFIからFFXIIIまでのナンバリングソフト（FFI・FFII・FFIV〜FFIXはPS、FFIIIはPSP、FFX〜FFXIIはPS2、FFXIIIはPS3)、及びFF25周年記念CDやレプリカ等の限定アイテムをセットにした特別パッケージ『**ファイナルファンタジー 25th アニバーサリー アルティメットボックス**』(*FINAL FANTASY 25th ANNIVERSARY ULTIMATE BOX*) が発売された。
+[2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")には[PlayStation 3とPlayStation](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") PortableにてPlayStation版が[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")版として配信開始された。 2012年12月18日にネット限定販売で、FFIからFFXIIIまでのナンバリングソフト（FFI・FFII・FFIV〜FFIXはPS、FFIIIはPSP、FFX〜FFXIIはPS2、FFXIIIはPS3)、及びFF25周年記念CDやレプリカ等の限定アイテムをセットにした特別パッケージ『**ファイナルファンタジー 25th アニバーサリー アルティメットボックス**』(*FINAL FANTASY 25th ANNIVERSARY ULTIMATE BOX*) が発売された\[4\]。
 
 2012年[12月20日](../Page/12月20日.md "wikilink")にはDS版を移植した[iOS版が配信開始され](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[2013年](../Page/2013年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")には[Android](../Page/Android.md "wikilink")版の配信も開始された。
 
@@ -64,13 +64,13 @@
 
 また、[HPが](../Page/ヒットポイント.md "wikilink")0になった時の表現は、前3作では「死亡」であったが、本作以降では「戦闘不能」という表現に変更された。これにより、ストーリー上の「死」と戦闘における従来の「死亡」とが区別されるようになり、戦闘で死んだはずのキャラクターがイベント上で行動や会話をするという矛盾がなくなった。
 
-前3作と異なり、本作では主人公を始めとするキャラクターには予め設定されたデフォルトネームが存在し、ゲーム開始時にプレイヤーがプレイヤーキャラクターの名前入力を行う必要がなくなった\[3\]。また、それぞれのキャラクターの名前はゲーム中の各地に存在する「ネミングウェイ」という人物に話しかけることによって任意に変更が可能となる（DS版では不可）。
+前3作と異なり、本作では主人公を始めとするキャラクターには予め設定されたデフォルトネームが存在し、ゲーム開始時にプレイヤーがプレイヤーキャラクターの名前入力を行う必要がなくなった\[5\]。また、それぞれのキャラクターの名前はゲーム中の各地に存在する「ネミングウェイ」という人物に話しかけることによって任意に変更が可能となる（DS版では不可）。
 
 ### 戦闘
 
 #### アクティブタイムバトルシステム
 
-本作の最大の特徴として、戦闘シーンがリアルタイムになったことが挙げられる。このシステムを[アクティブタイムバトル](../Page/アクティブタイムバトルシステム.md "wikilink")（Active Time Battle、略称ATB）といい、以後のスクウェアの作品においても使用される代表的な戦闘システムとなった。また、[特許](../Page/特許.md "wikilink")化されている\[4\]。敵味方双方の各キャラクターにそれぞれ待機時間が設定されリアルタイムにカウントダウンされていく。本作（GBA版以降は除く）では画面上で待機時間を知ることはできない。待機時間が0になった（ゲージが最大になった）キャラクターはコマンド入力が可能になる。そしてコマンド入力からさらに一定時間が経つとコマンド入力通りの行動を行い、行動後は再び待機時間がリセットされる。
+本作の最大の特徴として、戦闘シーンがリアルタイムになったことが挙げられる。このシステムを[アクティブタイムバトル](../Page/アクティブタイムバトルシステム.md "wikilink")（Active Time Battle、略称ATB）といい、以後のスクウェアの作品においても使用される代表的な戦闘システムとなった。また、[特許](../Page/特許.md "wikilink")化されている\[6\]。敵味方双方の各キャラクターにそれぞれ待機時間が設定されリアルタイムにカウントダウンされていく。本作（GBA版以降は除く）では画面上で待機時間を知ることはできない。待機時間が0になった（ゲージが最大になった）キャラクターはコマンド入力が可能になる。そしてコマンド入力からさらに一定時間が経つとコマンド入力通りの行動を行い、行動後は再び待機時間がリセットされる。
 
 コマンドの選択中にもほかのキャラクターの行動が行われるのが特徴だが、ウェイトモードに設定することによってアイテムや魔法の選択中はこのカウントをストップさせることも可能。
 
@@ -163,7 +163,7 @@ PlayStation版では[CD-ROM](../Page/CD-ROM.md "wikilink")の読み込み時にB
       - エッジ - 「盗む」が、盗む+ダメージを与える「ぶんどる」に変化。
     フースーヤの「精神波」は、効果が及んでいる間もコマンド入力可能になった。
 
-この移植版には[バグ](../Page/バグ.md "wikilink")が多く確認され、一部にセーブデータを破壊しかねないものも存在する。例えば、パーティメンバーが4人の状態でアイテムを使用した後にメンバーを空欄に移動し、そのままメニュー画面を閉じずにアイテム画面を開くと画面が砂嵐状態になってフリーズ、セーブデータが消失するケースがある、というものである\[5\]。
+この移植版には[バグ](../Page/バグ.md "wikilink")が多く確認され、一部にセーブデータを破壊しかねないものも存在する。例えば、パーティメンバーが4人の状態でアイテムを使用した後にメンバーを空欄に移動し、そのままメニュー画面を閉じずにアイテム画面を開くと画面が砂嵐状態になってフリーズ、セーブデータが消失するケースがある、というものである\[7\]。
 
 上記のものを含む多くのバグを修正したバージョン1.1（初期に生産されたものが1.0）が出荷・販売されている。未修正版と修正版はパッケージなどは全く同じで見分けが付かず、唯一見分ける方法はカートリッジ表面に刻印された「E3（未修正版）」「E4（修正版）」の記号のみである。
 
@@ -173,7 +173,7 @@ PlayStation版では[CD-ROM](../Page/CD-ROM.md "wikilink")の読み込み時にB
 
 基本的なシステム・ストーリーはオリジナル版と同じだが、世界を根本から再構築し、新エピソードが追加されている。タッチペンを使ったミニゲームなどのDSならではの要素も追加されている。イベントシーンは[金田伊功](../Page/金田伊功.md "wikilink")が[絵コンテ](../Page/絵コンテ.md "wikilink")を担当し、一部のイベントはボイス付きで演出されている。また、イベントシーンなどで一部の台詞が変更された 。 配役は[時田貴司](../Page/時田貴司.md "wikilink")がオリジナル版のシナリオを書いた時に、イメージしていた声優が多く含まれている。
 
-GBA版の追加要素（パーティチェンジや追加ダンジョン）は廃止されている。また、GBA版でもいくつかのバグが公式に告知されたが、DS版にもゲーム進行に支障を来すバグがある\[6\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")よりアルティメットヒッツ版（廉価版）が発売された。
+GBA版の追加要素（パーティチェンジや追加ダンジョン）は廃止されている。また、GBA版でもいくつかのバグが公式に告知されたが、DS版にもゲーム進行に支障を来すバグがある\[8\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")よりアルティメットヒッツ版（廉価版）が発売された。
 
   - ダンジョンマップを各フロアごとに完成させるとアイテムが手に入る
   - ゲームボーイアドバンス版（以下GBA版）の最終メンバー変更と、隠しダンジョンの追加はなくなった（GBA版には無い
@@ -403,7 +403,7 @@ PS版に準拠した内容。
     ギルバートの恋人で、テラの一人娘。テラがギルバートとの仲に反対したためにダムシアンへと駆け落ちした。テラにギルバートとの婚約を許してもらおうとカイポに戻ろうとしていたが、ダムシアンがゴルベーザ率いるバロンの赤い翼の襲撃に遭い、ギルバートをかばって弓に撃たれる。その後、駆け付けたテラとギルバートに自分の思いを伝えて息を引き取った。ギルバートがモンスターに襲われた際は一つの魂としてギルバートの前に現れ、「戦うための勇気」を授けた後に天へと昇っていった。
   - ミシディアの長老
     声 - [槐柳二](../Page/槐柳二.md "wikilink")（DS版及びiOS/Android版）
-    魔道士達の国ミシディアを統べる長老。ミンウという名前だが、本編で明かされない。仲間の命やクリスタルを奪ったセシルに憤りながらもセシルの内にある輝きを見い出し、セシルに試練の山へ行くことを勧め、その際に監視役としてパロムとポロムを連れて行かせた。セシルがパラディンとなって戻ってきた後はセシルの良き理解者となり、デビルロードの封印を解くことによってセシルを本来の目的地であるバロンへと送り、バブイルの巨人阻止\[7\]、セシルたちの打倒ゼロムスのための応援祈祷などで活躍する。テラとは旧知の間柄。
+    魔道士達の国ミシディアを統べる長老。ミンウという名前だが、本編で明かされない。仲間の命やクリスタルを奪ったセシルに憤りながらもセシルの内にある輝きを見い出し、セシルに試練の山へ行くことを勧め、その際に監視役としてパロムとポロムを連れて行かせた。セシルがパラディンとなって戻ってきた後はセシルの良き理解者となり、デビルロードの封印を解くことによってセシルを本来の目的地であるバロンへと送り、バブイルの巨人阻止\[9\]、セシルたちの打倒ゼロムスのための応援祈祷などで活躍する。テラとは旧知の間柄。
     続編『ジ・アフター 月の帰還』ではかつてテラと共に修行のために世界を巡ったことが明らかになる。旅の後は魔法を守るためにミシディアに戻ったという設定で、続編では戦闘で操作できるシーンもあるが、魔法コマンドは白魔法のみとなっている。
   - コリオ（Corio）
     アガルトの村に住む天文学者。巨大な天文台にこもって月の観測をしている。ストーリーには絡まず「月」の存在を裏付ける役割。
@@ -548,7 +548,7 @@ PS版に準拠した内容。
   - サウンド - [植松伸夫](../Page/植松伸夫.md "wikilink")監修、[仲野順也](../Page/仲野順也.md "wikilink")編曲
   - Sound Editors [神谷智洋](https://ja.wikipedia.org/wiki/神谷智洋 "wikilink")
   - エンディング主題歌 - [伊田恵美](https://ja.wikipedia.org/wiki/伊田恵美 "wikilink") 「月の明り-ファイナルファンタジーIV 愛のテーマ」
-    （レーベル：[BMGJAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")\[8\]）
+    （レーベル：[BMGJAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")\[10\]）
 
 <!-- end list -->
 
@@ -563,9 +563,9 @@ PS版に準拠した内容。
 
 ## 企画（ファミコン版『FFIV』など）
 
-現在の『ファイナルファンタジーIV』は、元々『[ファイナルファンタジーV](../Page/ファイナルファンタジーV.md "wikilink")』として企画されたものであり、それとは別の[ファミコン用ソフト](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")『ファイナルファンタジーIV』と同時に製作発表が行われた。開発開始は同時だったものの『ファイナルファンタジーV』の方が開発状況が先行しており、市場状況との兼ね合いもあってファミコン版『ファイナルファンタジーIV』の開発は一時凍結、スタッフを『ファイナルファンタジーV』に集中して先に発売してファミコン版『ファイナルファンタジーIV』は後から開発されることになった\[9\]。『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』では内容予想の企画で、飛空艇を店で売っている飛空艇屋が登場する『ファイナルファンタジーIII』風のファミコン版『ファイナルファンタジーIV』のゲーム画面が創作され、掲載されたこともあった。しかしファミコン版『ファイナルファンタジーIV』は初期コンセプトが作られたのみで、本格的な開発には至らないまま\[10\]製作中止となり、『ファイナルファンタジーV』のナンバリングが繰り上がって『ファイナルファンタジーIV』になった\[11\]。シリーズ前3作のシナリオを手がけた[寺田憲史](../Page/寺田憲史.md "wikilink")によると、お蔵入りしたのは経営側が開発に介入した事が原因であり、またSFC版についてもゲーム内容にまで口を挟まれた為、ファイナルファンタジー新作（SFCの『ファイナルファンタジーIV』）のシナリオから降りたとのこと\[12\]。
+現在の『ファイナルファンタジーIV』は、元々『[ファイナルファンタジーV](../Page/ファイナルファンタジーV.md "wikilink")』として企画されたものであり、それとは別の[ファミコン用ソフト](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")『ファイナルファンタジーIV』と同時に製作発表が行われた。開発開始は同時だったものの『ファイナルファンタジーV』の方が開発状況が先行しており、市場状況との兼ね合いもあってファミコン版『ファイナルファンタジーIV』の開発は一時凍結、スタッフを『ファイナルファンタジーV』に集中して先に発売してファミコン版『ファイナルファンタジーIV』は後から開発されることになった\[11\]。『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』では内容予想の企画で、飛空艇を店で売っている飛空艇屋が登場する『ファイナルファンタジーIII』風のファミコン版『ファイナルファンタジーIV』のゲーム画面が創作され、掲載されたこともあった。しかしファミコン版『ファイナルファンタジーIV』は初期コンセプトが作られたのみで、本格的な開発には至らないまま\[12\]製作中止となり、『ファイナルファンタジーV』のナンバリングが繰り上がって『ファイナルファンタジーIV』になった\[13\]。シリーズ前3作のシナリオを手がけた[寺田憲史](../Page/寺田憲史.md "wikilink")によると、お蔵入りしたのは経営側が開発に介入した事が原因であり、またSFC版についてもゲーム内容にまで口を挟まれた為、ファイナルファンタジー新作（SFCの『ファイナルファンタジーIV』）のシナリオから降りたとのこと\[14\]。
 
-また、立案された企画の中には、[田中弘道によるシームレスバトルの](../Page/田中弘道_\(プロデューサー\).md "wikilink")『ファイナルファンタジーIV』案があった。この企画はコンペに敗れ、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[鳥山明](../Page/鳥山明.md "wikilink")とコラボレーションした[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[CD-ROM](../Page/CD-ROM.md "wikilink")専用のオリジナルタイトル『[クロノ・トリガー](../Page/クロノ・トリガー.md "wikilink")』（企画段階であり、CD-ROMの大容量を活かした内容になる予定だった。[堀井雄二](../Page/堀井雄二.md "wikilink")は参加していない）として企画され直すのだが、スーパーファミコン用CD-ROMの開発を[任天堂](../Page/任天堂.md "wikilink")が中止したため開発は中止になった。『クロノ・トリガー』の企画再編は一時保留され、それとは別にモーションバトルシステムのゲームとして再編される。さらに、聖剣伝説シリーズとして企画修正されて『[聖剣伝説2](../Page/聖剣伝説2.md "wikilink")』として発売されるに至った。後に『クロノ・トリガー』も、堀井を迎えたドリームプロジェクトの企画として生まれ変わり発売に至った\[13\]。
+また、立案された企画の中には、[田中弘道によるシームレスバトルの](../Page/田中弘道_\(プロデューサー\).md "wikilink")『ファイナルファンタジーIV』案があった。この企画はコンペに敗れ、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[鳥山明](../Page/鳥山明.md "wikilink")とコラボレーションした[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[CD-ROM](../Page/CD-ROM.md "wikilink")専用のオリジナルタイトル『[クロノ・トリガー](../Page/クロノ・トリガー.md "wikilink")』（企画段階であり、CD-ROMの大容量を活かした内容になる予定だった。[堀井雄二](../Page/堀井雄二.md "wikilink")は参加していない）として企画され直すのだが、スーパーファミコン用CD-ROMの開発を[任天堂](../Page/任天堂.md "wikilink")が中止したため開発は中止になった。『クロノ・トリガー』の企画再編は一時保留され、それとは別にモーションバトルシステムのゲームとして再編される。さらに、聖剣伝説シリーズとして企画修正されて『[聖剣伝説2](../Page/聖剣伝説2.md "wikilink")』として発売されるに至った。後に『クロノ・トリガー』も、堀井を迎えたドリームプロジェクトの企画として生まれ変わり発売に至った\[15\]。
 
 ## ファイナルファンタジーIV ジ・アフター -月の帰還-
 
@@ -672,16 +672,18 @@ PS版に準拠した内容。
 
 [Category:ファイナルファンタジーのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファイナルファンタジーのコンピュータゲーム "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:1991年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:1991年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:2011年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2011年のコンピュータゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ワンダースワン用ソフト](https://ja.wikipedia.org/wiki/Category:ワンダースワン用ソフト "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
 
-1.  『Vジャンプ』2011年2月号p344。
-2.  [もう一度あの“青き星”を歩ける喜び！ 『FFIV コンプリートコレクション』レビュー](https://dengekionline.com/elem/000/000/354/354851/) .電撃オンライン (2011年3月22日)
-3.  デフォルトネーム自体は『FFII』にも設定されていたが、それはあくまで取扱説明書などに表記されているものであり、ゲームソフト内に設定されているものではなかった。
-4.  特許-2794230 または特許-3571207：[特許電子図書館](http://www.ipdl.inpit.go.jp/Tokujitu/tjsogodb.ipdl?N0000=101)で文献種別：B、文献番号：2794230 または 3571207 を入力すると詳細を読むことができる。
-5.  [「ファイナルファンタジーIVアドバンス」に関するお知らせ](http://www.square-enix.co.jp/ff4a/info.html)。
-6.  [ニンテンドーDS版「ファイナルファンタジーIV」に関するお知らせ](http://www.square-enix.co.jp/ff4ds/info.html)。
-7.  この際に石化したパロムとポロムを救っている。
-8.  現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")
-9.  『ファミコン通信』1990年11月23日増刊号Vol.1。
-10. 『HIPPON SUPER\!』1991年8月号 坂口博信インタビューより。『ファイナルファンタジー竜騎士団』p22-25にも抜粋再掲。
-11. 『ファミコン通信』1991年2月22日号。
-12. 『ゲーム批評』2001年11月号より。
-13. [電撃オンライン DS版『ファイナルファンタジーIII』のインタビュー記事](http://dol.dengeki.com/soft/interview/ff3/index.html)より。
+1.
+2.  『Vジャンプ』2011年2月号p344。
+3.  [もう一度あの“青き星”を歩ける喜び！ 『FFIV コンプリートコレクション』レビュー](https://dengekionline.com/elem/000/000/354/354851/) .電撃オンライン (2011年3月22日)
+4.
+5.  デフォルトネーム自体は『FFII』にも設定されていたが、それはあくまで取扱説明書などに表記されているものであり、ゲームソフト内に設定されているものではなかった。
+6.  特許-2794230 または特許-3571207：[特許電子図書館](http://www.ipdl.inpit.go.jp/Tokujitu/tjsogodb.ipdl?N0000=101)で文献種別：B、文献番号：2794230 または 3571207 を入力すると詳細を読むことができる。
+7.  [「ファイナルファンタジーIVアドバンス」に関するお知らせ](http://www.square-enix.co.jp/ff4a/info.html)。
+8.  [ニンテンドーDS版「ファイナルファンタジーIV」に関するお知らせ](http://www.square-enix.co.jp/ff4ds/info.html)。
+9.  この際に石化したパロムとポロムを救っている。
+10. 現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")
+11. 『ファミコン通信』1990年11月23日増刊号Vol.1。
+12. 『HIPPON SUPER\!』1991年8月号 坂口博信インタビューより。『ファイナルファンタジー竜騎士団』p22-25にも抜粋再掲。
+13. 『ファミコン通信』1991年2月22日号。
+14. 『ゲーム批評』2001年11月号より。
+15. [電撃オンライン DS版『ファイナルファンタジーIII』のインタビュー記事](http://dol.dengeki.com/soft/interview/ff3/index.html)より。

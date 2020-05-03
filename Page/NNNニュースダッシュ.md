@@ -253,7 +253,7 @@
 
 ## 地上波放送の備考
 
-  - 2006年[8月27日](../Page/8月27日.md "wikilink")及び2007年[8月19日](../Page/8月19日.md "wikilink")（いずれも[日曜日](../Page/日曜日.md "wikilink")）の放送は、『[24時間テレビ愛は地球を救う](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送のため、11:17 - 11:27\[5\]の放送となり、通常は全国天気を放送しない青森放送等でも全国の天気を放送した。ただし、2006年度のみ[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")のみ、『[サンデープロジェクト](../Page/サンデープロジェクト.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）同時放送の関係で平常同様11:30からの録画番組だったが、2007年度放送は、一切放送なし（[撮って出し](../Page/撮って出し.md "wikilink")）。
+  - 2006年[8月27日](../Page/8月27日.md "wikilink")及び2007年[8月19日](../Page/8月19日.md "wikilink")（いずれも[日曜日](../Page/日曜日.md "wikilink")）の放送は、『[24時間テレビ愛は地球を救う](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送のため、11:17 - 11:27\[5\]の放送となり、通常は全国天気を放送しない青森放送等でも全国の天気を放送した。ただし、2006年度のみ[福井放送](../Page/福井放送.md "wikilink")のみ、『[サンデープロジェクト](../Page/サンデープロジェクト.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）同時放送の関係で平常同様11:30からの録画番組だったが、2007年度放送は、一切放送なし（[撮って出し](../Page/撮って出し.md "wikilink")）。
   - 日曜日の放送は[2004年](../Page/2004年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")9月まで、日本テレビ他一部地域では[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[@サプリッ\!](../Page/@サプリッ!.md "wikilink")』に内包されていた。
 
 ## その他
@@ -378,7 +378,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>日本テレビ系列<br />
 <a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a><br />
 （<a href="../Page/クロスネット局.md" title="wikilink">クロスネット</a>）</p></td>
@@ -491,7 +491,7 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - [YBSニュース](../Page/YBSニュース.md "wikilink")（平日）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - [KNBニュース](../Page/KNBニュース.md "wikilink")
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink") - [北國新聞ニュース](../Page/北國新聞ニュース.md "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（平日、11:53頃からローカルニュース）、[FBCニュース](../Page/FBCニュース.md "wikilink")（週末）
+  - [福井放送](../Page/福井放送.md "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（平日、11:53頃からローカルニュース）、[FBCニュース](../Page/FBCニュース.md "wikilink")（週末）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNCニュース](../Page/RNCニュース.md "wikilink")（ただし、RNCのホームページのタイムテーブルには「NNNニュースD」と表記）
   - [広島テレビ](../Page/広島テレビ放送.md "wikilink") - NNNニュースダッシュひろしま→広島テレビニュース（ただし、広テレのホームページのタイムテーブルや実際の番組では「NNNニュースD」と表記。）
   - [山口放送](../Page/山口放送.md "wikilink") - [KRYニュース](../Page/KRYニュース.md "wikilink")

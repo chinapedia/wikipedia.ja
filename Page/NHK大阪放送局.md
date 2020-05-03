@@ -717,7 +717,7 @@
 <thead>
 <tr class="header">
 <th><p>氏名</p></th>
-<th><p>所属・前職等</p></th>
+<th><p>前職</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -753,17 +753,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>老子知歩</p></td>
-<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a><br />
-（契約キャスター）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かんさいミュージックBOX_なみはな" title="wikilink">かんさいミュージックBOX なみはな</a><br />
-関西のニュース<br />
-（ラジオ）</p></td>
+<td><p>新口絢子</p></td>
+<td><p>関西ラジオワイド</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>山本賀保子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a><br />
+<td><p>高松<br />
 （契約キャスター）</p></td>
 <td><p>ニュースほっと関西<br />
 （スポーツキャスター）</p></td>
@@ -780,73 +777,69 @@
 <thead>
 <tr class="header">
 <th><p>氏名</p></th>
-<th><p>所属・前職等</p></th>
+<th><p>前職など</p></th>
 <th><p>主な担当番組</p></th>
-<th><p>備考</p></th>
+<th><p>所属</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>石倉美佳</p></td>
-<td><p>フリーアナウンサー（グループエコー所属）</p></td>
-<td><p><strong><a href="../Page/関西ラジオワイド.md" title="wikilink">関西ラジオワイド</a></strong><br />
-<a href="../Page/西日本の旅.md" title="wikilink">西日本の旅</a></p></td>
+<td><p>岸有佳里</p></td>
 <td></td>
+<td><p>関西ラジオワイド</p></td>
+<td><p>グループエコー</p></td>
 </tr>
 <tr class="even">
+<td><p>根木おおみ</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/河島あみる.md" title="wikilink">河島あみる</a></p></td>
-<td><p>タレント</p></td>
-<td><p><strong><a href="../Page/ぐるっと関西おひるまえ.md" title="wikilink">ぐるっと関西おひるまえ</a></strong></p></td>
-<td><p>月～木曜版進行</p></td>
-</tr>
-<tr class="odd">
-<td><p>斉藤弓子</p></td>
-<td><p>フリーアナウンサー（ボイスプロダクション所属）</p></td>
-<td><p><strong>関西ラジオワイド</strong></p></td>
 <td></td>
+<td><p><a href="../Page/ぐるっと関西おひるまえ.md" title="wikilink">ぐるっと関西おひるまえ</a><br />
+（月曜 - 木曜）</p></td>
+<td><p>クレッセント</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佐藤誠_(アナウンサー).md" title="wikilink">佐藤誠</a>*</p></td>
-<td><p><a href="../Page/神戸松蔭女子学院大学.md" title="wikilink">神戸松蔭女子学院大学</a>教授・<br />
-元正職員アナウンサー</p></td>
-<td><p><strong><a href="../Page/かんさい土曜ほっとタイム.md" title="wikilink">かんさい土曜ほっとタイム</a></strong></p></td>
-<td><p>地元要員</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/大平サブロー.md" title="wikilink">大平サブロー</a></p></td>
-<td><p>タレント</p></td>
-<td><p><strong>ぐるっと関西おひるまえ</strong></p></td>
 <td></td>
+<td><p>ぐるっと関西おひるまえ<br />
+（月曜 - 金曜）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉本興業" title="wikilink">吉本興業</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/八木早希" title="wikilink">八木早希</a></p></td>
+<td><p>元<a href="../Page/毎日放送.md" title="wikilink">毎日放送</a>アナウンサー</p></td>
+<td><p>ぐるっと関西おひるまえ<br />
+（金曜）</p></td>
+<td><p>Blossom Out</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/八木早希" title="wikilink">八木早希</a></p></td>
-<td><p>フリーアナウンサー（Blossom Out所属）<br />
-元<a href="../Page/毎日放送.md" title="wikilink">毎日放送</a>アナウンサー</p></td>
-<td><p><strong>ぐるっと関西おひるまえ</strong></p></td>
-<td><p>金曜版進行</p></td>
+<td><p>気象予報士</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/坂下恵理" title="wikilink">坂下恵理</a></p></td>
-<td><p>南気象予報士事務所所属<br />
-元<a href="../Page/NHK福島放送局.md" title="wikilink">福島局契約キャスター</a></p></td>
-<td><p><strong>ニュースほっと関西</strong><br />
-気象キャスター</p></td>
-<td></td>
+<td><p><a href="../Page/NHK_BSニュース.md" title="wikilink">NHK BSニュース</a><br />
+（気象キャスター）</p></td>
+<td><p>ニュースほっと関西</p></td>
+<td><p>南気象予報士事務所</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/塩見泰子_(気象予報士)" title="wikilink">塩見泰子</a></p></td>
-<td><p>南気象予報士事務所所属<br />
-元<a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビアナウンサー</a></p></td>
-<td><p><strong><a href="../Page/NHKニュースおはよう関西.md" title="wikilink">NHKニュースおはよう関西</a></strong><br />
-気象キャスター</p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビアナウンサー</a></p></td>
+<td><p>NHKニュースおはよう関西</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/垂水千佳" title="wikilink">垂水千佳</a></p></td>
-<td><p>南気象予報士事務所所属<br />
-元神戸局契約キャスター</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィークエンド関西" title="wikilink">ウィークエンド関西</a><br />
-気象キャスター</p></td>
+<td><p>神戸<br />
+（契約キャスター）</p></td>
+<td><p>ウイークエンド関西</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -56,6 +56,6 @@
   - [岐阜放送](../Page/岐阜放送.md "wikilink")
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink")（タイトルを『**BBCニュースTODAY**』に改題して放送）
   - [奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
 
 [Category:TXN番組の歴史](https://ja.wikipedia.org/wiki/Category:TXN番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:1989年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のテレビ番組_\(日本\) "wikilink") [Category:桂文枝_(6代目)](https://ja.wikipedia.org/wiki/Category:桂文枝_\(6代目\) "wikilink")

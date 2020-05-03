@@ -1,7 +1,7 @@
 > この記事は[リヴァプールFC](https://ja.wikipedia.org/wiki/リヴァプールFC)から翻訳されています。
 
 
-**リヴァプール・フットボール・クラブ** () は、[イングランド](../Page/イングランド.md "wikilink")・[リヴァプール](../Page/リヴァプール.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[赤](../Page/赤.md "wikilink")。愛称は**レッズ** () 。 [エヴァートンとのマージーサイドダービーは](../Page/エヴァートンFC.md "wikilink")、イングランドの中でも有数の熱いダービーとなっている。
+**リヴァプール・フットボール・クラブ** () は、[イングランド](../Page/イングランド.md "wikilink")・[リヴァプール](../Page/リヴァプール.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[赤](../Page/赤.md "wikilink")。愛称は**レッズ** () 。
 
 ## 概要
 
@@ -55,7 +55,7 @@
 
 1978-79シーズンは[アラン・ケネディ](../Page/アラン・ケネディ.md "wikilink")を獲得し、再びリーグを優勝した。続く1979-80シーズンも再びリーグ連覇を達成。オフシーズンに[イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink")を獲得し、迎えた1980-81シーズンには決勝でレアル・マドリードを[アラン・ケネディ](../Page/アラン・ケネディ.md "wikilink")のゴールで1－0と破り\[16\]、3度目となる[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")制覇を達成したほか、[リーグカップも優勝し](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")、カップ戦の2冠を達成した。また、シーズン中に[ブルース・グロベラー](https://ja.wikipedia.org/wiki/ブルース・グロベラー "wikilink")を獲得している。
 
-1981-82シーズン、リヴァプールは[マーク・ローレンソン](https://ja.wikipedia.org/wiki/マーク・ローレンソン "wikilink")、[スティーブ・ニコル](https://ja.wikipedia.org/wiki/スティーブ・ニコル "wikilink")を獲得し、リーグ戦優勝、リーグカップ連覇を達成。なお、1978年から1981年までの3年間、本拠地[アンフィールド](../Page/アンフィールド.md "wikilink")におけるすべてのリーグ戦・カップ戦は85試合連続で無敗だった。85試合中63試合はリーグ戦であり、63試合連続リーグ戦ホーム無敗記録も樹立している（このリーグ戦ホーム無敗記録は2007年に[チェルシーに破られた](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")）。しかしインターコンチネンタルカップでは[フラメンゴに](../Page/CRフラメンゴ.md "wikilink")0－3と敗れた。
+1981-82シーズン、リヴァプールは[マーク・ローレンソン](https://ja.wikipedia.org/wiki/マーク・ローレンソン "wikilink")、[スティーブ・ニコル](../Page/スティーブ・ニコル.md "wikilink")を獲得し、リーグ戦優勝、リーグカップ連覇を達成。なお、1978年から1981年までの3年間、本拠地[アンフィールド](../Page/アンフィールド.md "wikilink")におけるすべてのリーグ戦・カップ戦は85試合連続で無敗だった。85試合中63試合はリーグ戦であり、63試合連続リーグ戦ホーム無敗記録も樹立している（このリーグ戦ホーム無敗記録は2007年に[チェルシーに破られた](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")）。しかしインターコンチネンタルカップでは[フラメンゴに](../Page/CRフラメンゴ.md "wikilink")0－3と敗れた。
 
 1982-83シーズンにもリーグとリーグカップを連覇したが、これを置き土産に[ペイズリーは監督を辞任することを発表した](https://ja.wikipedia.org/wiki/ボブ・ペイズリー "wikilink")。後任にはアシスタントコーチを務めていた[ジョー・フェイガン](https://ja.wikipedia.org/wiki/ジョー・フェイガン "wikilink")が就任。リーグ連覇中のチームを引き継いだフェイガンだったが、フェイガン体制でもリヴァプールの強さが揺らぐことはなく、1983-84シーズンもリーグ戦とリーグカップの連覇を達成。リーグ戦はクラブ史上初となる3連覇、リーグカップは4連覇となった。また決勝でPK戦の末、[ASローマ](../Page/ASローマ.md "wikilink")を破り4度目となる[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")制覇した\[17\]。
 
@@ -294,7 +294,7 @@
 
 ## 歴代所属選手
 
-ファイル:Ian Rush.jpg|[イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink")はリヴァプール最多記録となる346得点を挙げ、1993年から1996年まで主将を務めた。 ファイル:Bruce Grobbelaar.png|[ブルース・グロベラー](https://ja.wikipedia.org/wiki/ブルース・グロベラー "wikilink")は、海外出身の選手としてはリヴァプールで最も多くの試合に出場した。 ファイル:Alan hansen in 2004.png|[アラン・ハンセン](https://ja.wikipedia.org/wiki/アラン・ハンセン "wikilink")は1985年から1988年と1989–90シーズンに主将を務めた。 ファイル:The big 4-0.jpg|[スティーブン・ジェラード](https://ja.wikipedia.org/wiki/スティーブン・ジェラード "wikilink")は2003年から2015年までリヴァプール史上最長の12シーズンの間主将を務めた ファイル:Billy Liddell.jpg|[ビリー・リデル](https://ja.wikipedia.org/wiki/ビリー・リデル "wikilink")は1955年から1958年まで主将を務めた。 ファイル:Ronnie Whelan.JPG|[ロニー・ウィーラン](https://ja.wikipedia.org/wiki/ロニー・ウィーラン "wikilink")は1988–89シーズンに主将を務め、1990-91シーズンには[スティーブ・ニコル](https://ja.wikipedia.org/wiki/スティーブ・ニコル "wikilink")と2人で主将を務めた。 ファイル:Elisha Scott.jpg|[イライシャ・スコット](https://ja.wikipedia.org/wiki/イライシャ・スコット "wikilink")はリヴァプールで最も長く守護神を務めた選手である。 ファイル:Hyypia.jpg|[サミ・ヒーピア](../Page/サミ・ヒーピア.md "wikilink")は2001年から2003年まで主将を務めた。 ファイル:Donald McKinlay-2.jpg|[ドナルド・マッキンリー](https://ja.wikipedia.org/wiki/ドナルド・マッキンリー "wikilink")は1919–20シーズンに主将を務めたほか、1921年に再び主将に就任し、1928年まで務めた。
+ファイル:Ian Rush.jpg|[イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink")はリヴァプール最多記録となる346得点を挙げ、1993年から1996年まで主将を務めた。 ファイル:Bruce Grobbelaar.png|[ブルース・グロベラー](https://ja.wikipedia.org/wiki/ブルース・グロベラー "wikilink")は、海外出身の選手としてはリヴァプールで最も多くの試合に出場した。 ファイル:Alan hansen in 2004.png|[アラン・ハンセン](https://ja.wikipedia.org/wiki/アラン・ハンセン "wikilink")は1985年から1988年と1989–90シーズンに主将を務めた。 ファイル:The big 4-0.jpg|[スティーブン・ジェラード](https://ja.wikipedia.org/wiki/スティーブン・ジェラード "wikilink")は2003年から2015年までリヴァプール史上最長の12シーズンの間主将を務めた ファイル:Billy Liddell.jpg|[ビリー・リデル](https://ja.wikipedia.org/wiki/ビリー・リデル "wikilink")は1955年から1958年まで主将を務めた。 ファイル:Ronnie Whelan.JPG|[ロニー・ウィーラン](../Page/ロニー・ウィーラン.md "wikilink")は1988–89シーズンに主将を務め、1990-91シーズンには[スティーブ・ニコル](../Page/スティーブ・ニコル.md "wikilink")と2人で主将を務めた。 ファイル:Elisha Scott.jpg|[イライシャ・スコット](https://ja.wikipedia.org/wiki/イライシャ・スコット "wikilink")はリヴァプールで最も長く守護神を務めた選手である。 ファイル:Hyypia.jpg|[サミ・ヒーピア](../Page/サミ・ヒーピア.md "wikilink")は2001年から2003年まで主将を務めた。 ファイル:Donald McKinlay-2.jpg|[ドナルド・マッキンリー](https://ja.wikipedia.org/wiki/ドナルド・マッキンリー "wikilink")は1919–20シーズンに主将を務めたほか、1921年に再び主将に就任し、1928年まで務めた。
 
 ### 出場試合数
 

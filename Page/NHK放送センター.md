@@ -180,7 +180,7 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
 <!-- end list -->
 
   -
-    生放送やバーチャルスタジオとしても使用。『[テレビ体操](https://ja.wikipedia.org/wiki/テレビ体操 "wikilink")』、『[サラリーマンNEO](../Page/サラリーマンNEO.md "wikilink")』の1コーナー「[テレビサラリーマン体操](../Page/サラリーマンNEOのコーナー一覧.md "wikilink")」などを収録。
+    生放送やバーチャルスタジオとしても使用。『[テレビ体操](https://ja.wikipedia.org/wiki/テレビ体操 "wikilink")』、『[サラリーマンNEO](../Page/サラリーマンNEO.md "wikilink")』の1コーナー「[テレビサラリーマン体操](../Page/サラリーマンNEOのコーナー一覧.md "wikilink")」『[英雄たちの選択](https://ja.wikipedia.org/wiki/英雄たちの選択 "wikilink")』などを収録。
 
 <!-- end list -->
 
@@ -237,11 +237,11 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
 <!-- end list -->
 
   -
-    『[きょうの健康](../Page/きょうの健康.md "wikilink")』ほかで使用
+    『[きょうの健康](../Page/きょうの健康.md "wikilink")』などで使用
 
 <!-- end list -->
 
-  - **CT-112**（2011年度 更新整備 5.1chサラウンド対応）
+  - **CT-112**（2011年度 更新整備 5.1chサラウンド対応）『[Rの法則](https://ja.wikipedia.org/wiki/Rの法則 "wikilink")』などで使用。
   - **CT-113**（約150坪）
 
 <!-- end list -->
@@ -758,7 +758,7 @@ IPサイマルラジオサービス「[らじる★らじる](https://ja.wikiped
 
 #### 総合テレビ
 
-2019年度。原則として関東1都6県のブロック放送。
+2020年度。原則として関東1都6県のブロック放送。
 
 <table>
 <thead>
@@ -798,8 +798,8 @@ IPサイマルラジオサービス「[らじる★らじる](https://ja.wikiped
 <td><p>平日 18:10 - 19:00</p></td>
 <td><ul>
 <li>水戸：『<a href="https://ja.wikipedia.org/wiki/いば6" title="wikilink">いば6</a>』</li>
-<li>宇都宮：18:40 - 『<a href="https://ja.wikipedia.org/wiki/とちぎ640" title="wikilink">とちぎ640</a>』</li>
-<li>前橋：18:40 - 『<a href="https://ja.wikipedia.org/wiki/ほっとぐんま640" title="wikilink">ほっとぐんま640</a>』</li>
+<li>宇都宮：18:30 - 『<a href="https://ja.wikipedia.org/wiki/とちぎ630" title="wikilink">とちぎ630</a>』</li>
+<li>前橋：18:30 - 『<a href="https://ja.wikipedia.org/wiki/ほっとぐんま630" title="wikilink">ほっとぐんま630</a>』</li>
 </ul></td>
 <td><ul>
 <li>番組宣伝・お知らせなどで18:59もしくは18:59.30に終了時刻を繰り上げる場合がある。</li>
@@ -1352,8 +1352,8 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
   - [青井実](../Page/青井実.md "wikilink")（あおい・みのる）
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink")（あさの・たつろう）
-  - [新井秀和（あらい・ひでかず）](../Page/松尾剛.md "wikilink")
-  - [阿部渉](../Page/阿部渉.md "wikilink")（あべ・わたる）
+  - [阿部渉](../Page/阿部渉.md "wikilink")（あべ・わたる）（EA）
+  - [新井秀和](https://ja.wikipedia.org/wiki/新井秀和 "wikilink")（あらい・ひでかず）
   - [新井隆太](https://ja.wikipedia.org/wiki/新井隆太 "wikilink")（あらい・りゅうた）
   - [飯島徹郎](https://ja.wikipedia.org/wiki/飯島徹郎 "wikilink")（いいじま・てつろう）
   - [飯塚洋介](../Page/飯塚洋介.md "wikilink") (いいづか・ようすけ)
@@ -1369,7 +1369,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [井上裕貴](https://ja.wikipedia.org/wiki/井上裕貴 "wikilink")（いのうえ・ゆうき）
   - [今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")（いまい・しょうま）
   - [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")（いわの・よしき）
-  - [太田雅英](../Page/太田雅英.md "wikilink")（おおた・まさひで）(CA)
+  - [太田雅英](../Page/太田雅英.md "wikilink")（おおた・まさひで）
   - [大槻隆行](https://ja.wikipedia.org/wiki/大槻隆行 "wikilink")（おおつき・たかゆき）
   - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく)
   - [小澤康喬](../Page/小澤康喬.md "wikilink")(おざわ・やすたか)
@@ -1434,7 +1434,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [森田洋平](https://ja.wikipedia.org/wiki/森田洋平_\(アナウンサー\) "wikilink")（もりた・ようへい）
   - [山田賢治](https://ja.wikipedia.org/wiki/山田賢治 "wikilink")（やまだ・けんじ）（SA）
   - [吉田浩](https://ja.wikipedia.org/wiki/吉田浩_\(アナウンサー\) "wikilink")（よしだ・ひろし）（SA）
-  - [渡辺憲司](../Page/渡辺憲司.md "wikilink")（わたなべ・けんじ）(CA)
+  - [渡辺憲司](../Page/渡辺憲司.md "wikilink")（わたなべ・けんじ）
   - [渡辺健太](https://ja.wikipedia.org/wiki/渡辺健太 "wikilink")（わたなべ・けんた）
 
 #### 女性
@@ -1689,6 +1689,6 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 49. ただし、[1980年代](../Page/1980年代.md "wikilink")末期から[1990年代](../Page/1990年代.md "wikilink")はじめごろに、当時の早朝ニュース番組『[NHKニュースワイド](../Page/NHKニュースワイド.md "wikilink")』→『[NHKモーニングワイド](../Page/NHKモーニングワイド.md "wikilink")』→『NHKニュース・おはよう日本』で午前7:30から7:45に放送されていた各地の基幹局\<札幌、仙台、東京、名古屋、大阪、広島、松山、福岡\>のローカルニュースを1週間単位の週替わりローテーションで放送したことがあった。
 50. 2018年の第100回大会も「ふるさとリポーター」が派遣されたが、「NHK東京」ではなく、単に「東京」とのみ表示された（東京以外の46道府県は「NHK○○放送局」と表示）。
 51. [菖蒲久喜ラジオ放送所・ラジオ第2放送 減力放送について](http://www.nhk.or.jp/pr/keiei/otherpress/110318-001.html)
-52. 同例は民放の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")にもある。
+52. 同例は民放の[福井放送](../Page/福井放送.md "wikilink")にもある。
 53. 背景としては、これまで煩わしくなっていた「パーソナリティー」としてのアナウンサーと「制作担当者」としてのアナウンサーを分割させるねらいもあったとみられる。
 54. 2011年度を最終年度とする3か年計画では、「報道・番組制作要員は増やし、技術は増加抑制、ほかは容赦なく削減」することを明確にしていた。

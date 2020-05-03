@@ -111,6 +111,7 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
   - [TOTOアクアエンジ](https://ja.wikipedia.org/wiki/TOTOハイリビング "wikilink")　システムキッチン・ユニットバスルームの製造・販売、オフィス等のトイレリニューアル
   - [TOTOオキツモコーティングス](https://ja.wikipedia.org/wiki/TOTOオキツモコーティングス "wikilink")　塗料及び有機・無機・金属材料に塗布するコート材の製造
   - [TOTOサニテクノ](https://ja.wikipedia.org/wiki/TOTOサニテクノ "wikilink")　衛生陶器の製造・販売
+  - TOTOハイリビング　システムキッチン、洗面化粧台の製造
   - [TOTOプラテクノ](http://tpt.toto-group.jp/)　便座、プラスチックゴム成形部品の製造・販売
 
 ## TOTO歴史資料館
@@ -192,10 +193,10 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
   - [TOTOジャパンクラシック](../Page/TOTOジャパンクラシック.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、大筆頭スポンサー）
   - [プレバト\!\!](https://ja.wikipedia.org/wiki/プレバト!! "wikilink")（同上、2017年4月より）
   - [情報プレゼンター とくダネ\!](../Page/情報プレゼンター_とくダネ!.md "wikilink") （[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※金曜日9時台後半→前半
-  - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")（[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")）
+  - [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")（[福井放送](../Page/福井放送.md "wikilink")）
   - [渡辺篤史の建もの探訪](../Page/渡辺篤史の建もの探訪.md "wikilink")（[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")）
   - [Pluspo](https://ja.wikipedia.org/wiki/Pluspo "wikilink") → [ドラHOTプラス](https://ja.wikipedia.org/wiki/ドラHOTプラス "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
-  - [演歌百撰](https://ja.wikipedia.org/wiki/演歌百撰 "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、不定期放送）
+  - [演歌百撰](https://ja.wikipedia.org/wiki/演歌百撰 "wikilink")（[BS11](../Page/日本BS放送.md "wikilink")、不定期放送）
   - [世界が驚いたニッポン\! スゴ〜イデスネ\!\!視察団](https://ja.wikipedia.org/wiki/世界が驚いたニッポン!_スゴ〜イデスネ!!視察団 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
 
 **過去**
@@ -223,7 +224,7 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
   - [早川英里](https://ja.wikipedia.org/wiki/早川英里 "wikilink") - TOTO[陸上競技](../Page/陸上競技.md "wikilink")部に5年間（2012年4月～2017年3月）所属した、女子[長距離走](../Page/長距離走.md "wikilink")・[マラソン](../Page/マラソン.md "wikilink")元[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")。[2014年仁川アジア大会](../Page/2014年アジア競技大会.md "wikilink")・女子マラソン日本代表
   - [ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink") - [2019年](../Page/2019年.md "wikilink")にで開催される第9回大会のオフィシャルスポンサーを担当する。　
   - [ヒカシュー](../Page/ヒカシュー.md "wikilink") - 戸川純出演前のウォシュレットのCMでCMソングを担当
-  - [幼児用便器](https://ja.wikipedia.org/wiki/幼児用便器 "wikilink")
+  - [幼児用便器](../Page/幼児用便器.md "wikilink")
 
 ## 脚注
 

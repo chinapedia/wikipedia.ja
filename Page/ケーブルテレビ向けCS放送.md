@@ -69,14 +69,4 @@
 
 ## 関連項目
 
-  - [専門チャンネル](../Page/専門チャンネル.md "wikilink")
-  - [通信と放送の融合](../Page/通信と放送の融合.md "wikilink")
-  - [光放送](../Page/光放送.md "wikilink") : 光CATV。
-  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
-  - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
-  - [社団法人日本CATV技術協会](../Page/日本CATV技術協会.md "wikilink")
-  - [日本ケーブルラボ](../Page/日本ケーブルラボ.md "wikilink")
-  - [社団法人日本ケーブルテレビ連盟](../Page/日本ケーブルテレビ連盟.md "wikilink")
-  - [デジタルCATV実験協議会](https://ja.wikipedia.org/wiki/デジタルCATV実験協議会 "wikilink")
-
-[Category:有線通信](https://ja.wikipedia.org/wiki/Category:有線通信 "wikilink") [Category:日本のケーブルテレビ](https://ja.wikipedia.org/wiki/Category:日本のケーブルテレビ "wikilink")
+[Category:ケーブルテレビ](https://ja.wikipedia.org/wiki/Category:ケーブルテレビ "wikilink") [Category:日本のケーブルテレビ](https://ja.wikipedia.org/wiki/Category:日本のケーブルテレビ "wikilink")

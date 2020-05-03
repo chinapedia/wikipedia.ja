@@ -31,7 +31,7 @@
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（1968年の時点で火曜 17:30 - 18:00にて遅れネット\[9\]。その後1973年10月1日同時ネット開始。それまでの同時ネット時間帯は日本テレビ系列の『[流星人間ゾーン](../Page/流星人間ゾーン.md "wikilink")』を同時ネットしていた\[10\]）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")：金曜 18:00 - 18:30\[11\]
+  - [福井放送](../Page/福井放送.md "wikilink")：金曜 18:00 - 18:30\[11\]
   - [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")\[12\]
       - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")
@@ -46,7 +46,7 @@
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")

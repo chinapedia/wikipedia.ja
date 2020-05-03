@@ -48,7 +48,7 @@
 <td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a></p></td>
 <td><p><a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a><br />
-<a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@
 </tr>
 <tr class="even">
 <td><p>TV051</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TV061　</p></td>

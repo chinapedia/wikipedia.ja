@@ -11,8 +11,6 @@
 
 また、[マニピュレーター](../Page/マニピュレーター.md "wikilink")兼[キーボーディスト](../Page/キーボーディスト.md "wikilink")であるd-kikuこと[菊地大輔](https://ja.wikipedia.org/wiki/菊地大輔 "wikilink")が製作に関わり始めたのもこの頃である\[2\]\[3\]。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 収録曲
 
 全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")

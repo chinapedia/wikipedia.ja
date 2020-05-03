@@ -26,7 +26,7 @@ OpenXPS と XPS の違い\[3\]
 
 ## ソフトウェアとハードウェアのサポート
 
-今日主流の [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") では XPS の閲覧および出力をサポートしている。マイクロソフト以外の XPS の取り扱いは、ソフトウェアとハードウェアのいずれかまたは両方での対応が増えてきている\[4\]。Windows 以外の環境、Mac OS X や GNU/Linux 環境においても、[KDE](../Page/KDE.md "wikilink") プロジェクトの [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink") や [NiXPS](https://ja.wikipedia.org/wiki/NiXPS "wikilink") をはじめ、XPS に対応したものがある。
+マイクロソフトは [Microsoft Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") で XPS の閲覧および出力をサポートしたが、[Windows 10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink") バージョン 1803 で機能が削除された\[4\]。マイクロソフト以外の XPS の取り扱いは、ソフトウェアとハードウェアのいずれかまたは両方での対応が増えてきている\[5\]。Windows 以外の環境、Mac OS X や GNU/Linux 環境においても、[KDE](../Page/KDE.md "wikilink") プロジェクトの [Okular](https://ja.wikipedia.org/wiki/Okular "wikilink") や [NiXPS](https://ja.wikipedia.org/wiki/NiXPS "wikilink") をはじめ、XPS に対応したものがある。
 
 ## 脚注
 
@@ -48,4 +48,5 @@ OpenXPS と XPS の違い\[3\]
 1.
 2.
 3.
-4.  [XPS テクノロジ ショーケース](http://www.microsoft.com/japan/whdc/xps/showcase.mspx)
+4.  [Windows 10 で削除された機能](https://docs.microsoft.com/ja-jp/windows/deployment/planning/windows-10-removed-features)、Microsoft Docs、2020年4月12日。2020年5月1日閲覧。
+5.  [XPS テクノロジ ショーケース](http://www.microsoft.com/japan/whdc/xps/showcase.mspx)

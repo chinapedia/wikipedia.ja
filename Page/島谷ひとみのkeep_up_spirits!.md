@@ -85,7 +85,7 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
 
 ## 脚注
 

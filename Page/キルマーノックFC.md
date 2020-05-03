@@ -368,7 +368,7 @@
 
   - [ボビー・ウィリアムソン](https://ja.wikipedia.org/wiki/ボビー・ウィリアムソン "wikilink") 1996-2002
 
-  - [ジム・ジェフリーズ](https://ja.wikipedia.org/wiki/ジム・ジェフリーズ "wikilink") 2002-2010
+  -  2002-2010
 
   - [ミクス・パーテライネン](https://ja.wikipedia.org/wiki/ミクス・パーテライネン "wikilink") 2010-2011
 

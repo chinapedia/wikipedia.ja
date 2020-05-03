@@ -51,8 +51,6 @@
 
 2018年12月23日のさいたまスーパーアリーナでのライブ『SEARCH FOR MY EDEN』にて、「Rejuvenescence」と「LASTLY」を除く全曲が演奏された\[3\]。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 参考文献
 
   - BAND SCORE LUNA SEA / EDEN（[ドレミ楽譜出版社](../Page/ドレミ楽譜出版社.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")）ISBN 4-8108-3897-8

@@ -128,7 +128,7 @@
 
 ## 関連項目
 
-  - [ブルーガール](https://ja.wikipedia.org/wiki/ブルーガール "wikilink")
+  - [ブルーガール](../Page/ブルーガール.md "wikilink")
 
 ## 外部リンク
 

@@ -31,7 +31,7 @@
         清盛の養父。自らの出自について複雑な感情を持つ清盛を見守る。
   - [祇園女御](https://ja.wikipedia.org/wiki/祇園女御 "wikilink")→澪之禅尼：**[新珠三千代](../Page/新珠三千代.md "wikilink")**
   - [有子→池禅尼](../Page/池禅尼.md "wikilink")：**[初代水谷八重子](../Page/水谷八重子_\(初代\).md "wikilink")**
-  - [時忠](../Page/平時忠.md "wikilink")：**[中村まなぶ](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")** → **[山崎努](../Page/山崎努.md "wikilink")**
+  - [時忠](../Page/平時忠.md "wikilink")：**[中村まなぶ](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")** → **[山崎努](../Page/山崎努.md "wikilink")**
   - [師ノ局](../Page/藤原領子.md "wikilink")：**[真屋順子](../Page/真屋順子.md "wikilink")**
   - [時実](../Page/平時実.md "wikilink")：[小池正史](https://ja.wikipedia.org/wiki/小池正史 "wikilink")
   - [夕顔](https://ja.wikipedia.org/wiki/蕨姫 "wikilink")：[林靖子](https://ja.wikipedia.org/wiki/林靖子 "wikilink")

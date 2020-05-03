@@ -1,52 +1,183 @@
 > この記事は[ホンダ・RVF](https://ja.wikipedia.org/wiki/ホンダ・RVF)から翻訳されています。
 
 
-**RVF**（アールブイエフ）は、かつて[ホンダ・レーシング](../Page/ホンダ・レーシング.md "wikilink")が開発した[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンを搭載した[オートバイ](../Page/オートバイ.md "wikilink")である。当初は競技専用車両として開発されたものだが、後に[本田技研工業](../Page/本田技研工業.md "wikilink")から一般市販車として製造販売された。
+**RVF**（アールブイエフ）は、かつて[本田技研工業](../Page/本田技研工業.md "wikilink")が製造した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ商標である。
 
-## モデル一覧
+## 概要
 
-### RVF400 (TT-F3)
+[排気量](../Page/排気量.md "wikilink")400ccクラスの[普通自動二輪車](../Page/普通自動二輪車.md "wikilink")ならびに750ccクラスの[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")で、[ホンダ・レーシング](../Page/ホンダ・レーシング.md "wikilink")（**HRC**）が開発し[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")から投入された[レース専用](../Page/ロードレース_\(オートバイ\).md "wikilink")[ワークスマシン](https://ja.wikipedia.org/wiki/ワークスチーム "wikilink")。[1994年](../Page/1994年.md "wikilink")に発売された[公道](../Page/公道.md "wikilink")走行可能モデルに使用された商標である。
 
-RVF400とは、[全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")TT-F3クラスで活躍した競技専用車両である。ホンダが[ワークス体制で投入したこのマシンは](../Page/ワークス・チーム.md "wikilink")、競技規則により市販車両の[VF400Fをベース車両にしているが](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")、エンジンブロックなどの規則で規定されている部分以外は、[フレームから全くの別物である](https://ja.wikipedia.org/wiki/フレーム形式_\(オートバイ\) "wikilink")。
+## モデル別解説
 
-[HRC契約](../Page/ホンダ・レーシング.md "wikilink")[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")の山本陽一などが搭乗し、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")シーズンを連覇した。1986年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には、RVF400と同様のHRCトリコロールのカラーリングを施した特別仕様の[VFR400R(NC21)を発売した](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR400R/Z/K\(NC21\) "wikilink")。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売の[VFR400R(NC24)ではカタログのモデルに山本を起用するなど](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR400R\(NC24\) "wikilink")、広告塔としての役割もあった。
+本項では競技専用モデルと公道走行モデルにわけて解説を行うが、いずれのモデルも以下の共通点がある。
 
-### RVF750
+  - フル[カウル](../Page/カウル.md "wikilink")を装着
+  - [水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[カムギアトレーン](../Page/カムギアトレーン.md "wikilink")4バルブ[DOHC](../Page/DOHC.md "wikilink")90°バンク[V型4気筒](../Page/V型4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")を搭載
+  - 前：ダブル/後：シングルの油圧式[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")を装備
 
-[Honda_RVF_750_r.jpg](https://ja.wikipedia.org/wiki/File:Honda_RVF_750_r.jpg "fig:Honda_RVF_750_r.jpg") RVF750とは、1985年シーズンからホンダがTT-F1に投入した競技専用車両である。、登場直後からスプリントレースや耐久レースで数々のタイトルを獲得した。
+### 競技専用モデル
 
-主な獲得タイトルは次の通りである。
+RVF400・RVF750の2モデルが製造された。
 
-  - [鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")
-      - 1985年 [ワイン・ガードナー](../Page/ワイン・ガードナー.md "wikilink")/[徳野政樹](https://ja.wikipedia.org/wiki/徳野政樹 "wikilink")（チームHRC）
-      - 1986年 ワイン・ガードナー/[ドミニク・サロン](https://ja.wikipedia.org/wiki/ドミニク・サロン "wikilink")（チームHRC）
-      - 1989年 ドミニク・サロン/[アレックス・ビエラ](https://ja.wikipedia.org/wiki/アレックス・ビエラ "wikilink")（Beamsホンダwithイクザワ）
-      - 1991年 ワイン・ガードナー/[マイケル・ドゥーハン](../Page/マイケル・ドゥーハン.md "wikilink")（[OKIホンダ](../Page/沖電気工業.md "wikilink")・レーシングチーム）
-      - 1992年 ワイン・ガードナー/[ダリル・ビーティー](https://ja.wikipedia.org/wiki/ダリル・ビーティー "wikilink")（OKIホンダ・レーシングチーム）
-  - [全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")
-      - 1988年 [宮崎祥司](https://ja.wikipedia.org/wiki/宮崎祥司 "wikilink")
-      - 1990年 [岩橋健一郎](https://ja.wikipedia.org/wiki/岩橋健一郎 "wikilink")
-      - 1991年 宮崎祥司
-  - [FIM世界耐久選手権](../Page/FIM世界耐久選手権.md "wikilink")
-  - [マン島TTレース](../Page/マン島TTレース.md "wikilink")
+#### RVF400
 
-### RVF
+[Honda_RVF400_1986.jpg](https://ja.wikipedia.org/wiki/File:Honda_RVF400_1986.jpg "fig:Honda_RVF400_1986.jpg")優勝車
+[ホンダコレクションホール](https://ja.wikipedia.org/wiki/ホンダコレクションホール "wikilink")所蔵\]\] [1984年](../Page/1984年.md "wikilink")から開催された[全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")TT-F3クラス\[1\]用に開発され、1985年から投入された。
 
-#### RVF(NC35)
+レギュレーションで公道用市販車をベースにすることを規定されたことから[NC13型VF400Fが基になるが](../Page/ホンダ・VF400F.md "wikilink")、エンジンも[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")を除くとほぼ新設計となり、カムギアトレーンならびに軽量高剛性の[ピストン](../Page/ピストン.md "wikilink")バルブ・コンロッドの採用、キャブ挟み角を72°から52°へと変更しストレートインテーク化を実施し\[2\]、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")モデルで最高出力70ps以上/13,500rpm・最大トルク3.85kg-m/11,000rpmのスペックを発揮\[3\]。変速機は常時噛合式6段[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")を搭載する\[4\]。
 
-[VFR400(NC30)の後継モデルとして](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR400R\(NC30\) "wikilink")[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された\[1\]。フレームは新設計の目の字断面構造のダイアモンドフレームで、NC30とはエンジン懸架をはじめとするフレーム各部の剛性バランスなどが変更されている。他には吸・排気ポートの形状、キャブレターの構造、1 - 3速ギア比、[サスペンションなどが変更されている](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")。また、前年のワークスRVF750と同形状の外見を持ち、750ccのRVF/RC45とは同時開発となっている。
+[フレームもVF](../Page/フレーム_\(オートバイ\).md "wikilink")400Fのダブルクレドール型\[5\]に対して[アルミ製ツインチューブダイヤモンド型と全くの別物である](https://ja.wikipedia.org/wiki/アルミ合金 "wikilink")\[6\]。また[サスペンションは](https://ja.wikipedia.org/wiki/サスペンション_\(オートバイ\) "wikilink")[前輪が正立テレスコピック](https://ja.wikipedia.org/wiki/フロントサスペンション_\(オートバイ\) "wikilink")、[後輪がプロリンクで](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")、乾燥重量は128kgである\[7\]。
 
-比較的コストのかかるパーツが装備されていて販売価格が同クラスの車両より高くなっているが、レーサーレプリカ最後発だけに完成度は高い\[2\]。一方、機能部品に掛かったコストが外装部品の簡素化（従来ABS樹脂だったパーツをAES樹脂に変更し塗装を省略）という形になってしまい\[3\]、こととなる。
+全日本ロードレース選手権での戦績は1985年 - 1986年に山本陽一が、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[田口益充](https://ja.wikipedia.org/wiki/田口益充 "wikilink")が年間チャンピオンを獲得している。TT-F3カテゴリー廃止の[1991年](../Page/1991年.md "wikilink")までレースに投入された。
 
-新たな自主規制として59ps→53psと出荷時の馬力を抑えられているが、社外品のスリップオンマフラーに交換する事だけで60ps以上を発揮する。
+#### RVF750
 
-が欠点で、[点火プラグ](../Page/点火プラグ.md "wikilink")が特殊なサイズであり部品価格が高い。ヘッドライト形状も特殊なH4R型となり汎用性が低く、
+1984年から開催された全日本ロードレース選手権TT-F3クラス\[8\]ならびにスーパーバイククラス\[9\]、さらに[国際モーターサイクリズム連盟](../Page/国際モーターサイクリズム連盟.md "wikilink")（**FIM**）が主催する[世界耐久選手権用のモデル](../Page/FIM世界耐久選手権.md "wikilink")。モデルコードは**NW1**\[10\]。ベースモデルは[RC15型VF750Fで](https://ja.wikipedia.org/wiki/ホンダ・VF#VF750 "wikilink")1984年に投入された[RS750R](../Page/ホンダ・RS.md "wikilink")を経て開発された\[11\] 。改造範囲はRVF400同様にアルミツインチューブダイヤモンド型フレームや後輪プロリンクサスペンションのほか多岐に渡っており、点火順序変更をしたほか4 into2 into 1[マフラーを装着し](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")\[12\]、車重は約140kgで最高出力は130ps以上とされた\[13\]。
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では排気量による保険制度により、特に。 {{-}}
+1985年にモデルコードNW1Aが投入されて以降、以下で解説する改良が行われた\[14\]。
 
-#### RVF / RC45
+  - 1986年[モデル](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")：NW1B
+    リヤサスペンションを片持ち式プロアームへ変更。
 
-[VFR750R(RC30)に代わるレースベース車で](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR750R\(RC30\) "wikilink")、[スーパーバイク用の](../Page/スーパーバイク世界選手権.md "wikilink")[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")マシンとして開発、1994年1月に発売された車両である。当初は日本国内500台\[4\]、。 {{-}}
+<!-- end list -->
+
+  - 1987年モデル：NW1C
+    1986年の[鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")[ワイン・ガードナー](../Page/ワイン・ガードナー.md "wikilink")/[ドミニク・サロン](https://ja.wikipedia.org/wiki/ドミニク・サロン "wikilink")組へ先行投入。エンジンを[RC24型VFR750Fベースへ変更](../Page/ホンダ・VFR.md "wikilink")。
+
+<!-- end list -->
+
+  - [1988年](../Page/1988年.md "wikilink")モデル：NW1D
+    ベースをRC30型VFR750Rへ変更。
+
+<!-- end list -->
+
+  - [1989年](../Page/1989年.md "wikilink")モデル：NW1G
+    1989年モデルを熟成させる小変更。最高出力142.3psのスペックを発揮。
+
+<!-- end list -->
+
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")モデル：NW1H
+    カウル前面メッシュ穴など細部に至る部分まで見直し約7kg軽量化。この年を最後に鈴鹿を除く世界耐久選手権から撤退。
+
+<!-- end list -->
+
+  - 1991年モデル：NW1K
+    従来許されていたボアアップ1％の禁止化およびガス欠防止策に対応。フロントフォークを倒立化。この年を最後にTT-F1が終了。
+
+<!-- end list -->
+
+  - [1992年](../Page/1992年.md "wikilink")モデル：NW1P
+    ラムエアインテークを採用したほか、エンジン・車体剛性など13項目を改良。
+
+<!-- end list -->
+
+  - [1993年](../Page/1993年.md "wikilink")モデル：NW1P
+    最終モデル。カウルやタンク形状を変更。
+
+以下は主な獲得タイトルである。
+
+  - FIM世界耐久選手権
+
+:\* 1989年全4戦優勝
+
+:\* [ル・マン24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース "wikilink")：1986年 - 1990年
+
+:\* [ボルドール24時間耐久ロードレース](https://ja.wikipedia.org/wiki/ボルドール24時間耐久ロードレース "wikilink")：1989年・1990年
+
+:\* 鈴鹿8時間耐久ロードレース：1985年・1986年・1989年・1991年・1992年
+
+  - [スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")：1988年
+
+<!-- end list -->
+
+  - [マン島TTレース](../Page/マン島TTレース.md "wikilink")：1985年・1988年
+
+<!-- end list -->
+
+  - 全日本ロードレース選手権TT-F1クラス：1988年・1990年・1991年
+
+### 公道走行可能モデル
+
+400cc・750cc共に[レーサーレプリカに分類されるモデルであるが](../Page/スーパースポーツ.md "wikilink")、750ccモデルはスーパーバイク競技用の[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")を兼ねて製造販売された。
+
+#### RVF
+
+[1994_Honda_RVF400.jpg](https://ja.wikipedia.org/wiki/File:1994_Honda_RVF400.jpg "fig:1994_Honda_RVF400.jpg") 1993年10月22日 - 11月5日に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された第30回[東京モーターショー](../Page/東京モーターショー.md "wikilink")に参考出品\[15\]。1994年1月12日に同月20日から発売することが発表された排気量399ccのモデルである\[16\]。型式名NC35。NC30型VFR400Rからのフル[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")車で、上述したRVF750のテイストを加味した上で以下の変更を実施した\[17\]。
+
+  - キャブレターをレスポンス性に優れ吸気系のストレート化にも貢献するバキュー ムピストン型へ変更
+  - エアファンネルを前後不等長タイプとし前後バンクの吸気管長を変更
+  - 吸気ポートの内径と形状を見直し
+  - バルブ開閉時期の変更外気
+  - エクリーナーに直接導入するダイレクトエアインテークシステムを採用
+  - 6速マニュアルトランスミッションの1速 - 3速をローレシオ化
+  - [クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")プレートを10→9枚へ変更
+  - フレームを新設計のアルミツインチューブダイヤモンド式へ変更
+  - 大径ステムパイプによるフロント廻りを高剛性化
+  - フロント側エンジンヘッドとロアケース2点支持方式としたエンジン懸架
+  - スイングアームピボット部の結合剛性を最適化
+  - フロントフォークを41mm径の倒立タイプへ変更
+  - 後輪径サイズを17インチ化
+  - フロントブレーキは後述するRVF/RC45と同じ異径4ポット対向ピストン[キャリパーと](https://ja.wikipedia.org/wiki/ブレーキキャリパー "wikilink")[ローター径](../Page/ブレーキローター.md "wikilink")296mmのフローティングダブルディスクへ変更
+  - リヤブレーキは2ポット・ピンスライドタイのキャリパーに焼結パッドを組み合わせたシングルディスクへ変更
+  - 空力特性を一層向上させ前面投影面積も減少させる目的からフロントカウルをよりスラント・スリム化
+  - シートカウル形状を後方へ絞り込んだタイプへ変更
+  - [ヘッドライトに二輪車国内初となる配光性および明澄性に優れたマルチリフレクター式ツインフォーカスタイプを採用](../Page/前照灯.md "wikilink")
+  - ハンドルグリップ位置を10mm上方・24mm手前へ変更
+
+最高出力は1992年に実施された[自主規制の引き下げより](../Page/自動車馬力規制.md "wikilink")59ps\[18\]から53psへダウンされた\[19\]。
+
+販売目標は5,000台/年、[消費税](../Page/消費税.md "wikilink")抜希望小売価格は780,000円に設定された
+
+[1996年](../Page/1996年.md "wikilink")2月14日発売で価格据え置きのままカラーリング変更を実施し、[2000年代](../Page/2000年代.md "wikilink")初頭まで販売された\[20\]。
+
+なお、本モデルを最後に本田技研工業が製造する排気量400cc以下のV型4気筒エンジンを搭載するオートバイは存在しない。
+
+#### RVF/RC45
+
+上述したNC35型RVF同様に第30回東京モーターショーに参考出品後、1994年1月7日に同月8日から発売することが発表された排気量749ccのモデルである\[21\]。車名はNC35型RVFと区別するため型式名まで含ませた。
+
+NC35型同様にRVF750で得た技術のフィードバックがされたと共にプロダクションレースのベース車両としてホモロゲーションモデルでもあったRC30型VFR750Rからのモデルチェンジ車という位置付けがされたことから、本モデルもスーパーバイク世界選手権のホモロゲーションに対応して当初は500台限定\[22\]、1994年8月22日には同日から同年10月15日まで受注期間限定とした上で同年12月10日に発売することが発表された\[23\]。
+
+このため[チタン合金](https://ja.wikipedia.org/wiki/チタン合金 "wikilink")・[マグネシウム合金](../Page/マグネシウム合金.md "wikilink")・[鋳造](../Page/鋳造.md "wikilink")アルミ合金などの軽量素材を多用するほか、最新技術を惜しみなく投入したことから消費税抜希望小売価格は当時としては破格の2,000,000円に設定されており、以下の変更を実施した\[24\]。
+
+  - 搭載するエンジンは[1982年](../Page/1982年.md "wikilink")のRC07型VF750セイバーから[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")され続けてきたRC07E型から大幅な設計変更を施したRC45E型へ変更。
+
+:\* 内径x行程：70.0x48.6（mm）・排気量748ccを72.0x46.0（mm）・排気量749ccへ変更
+
+:\* 燃料供給を[キャブレター](../Page/キャブレター.md "wikilink")からPGM-FI電子式[燃料噴射装置](../Page/燃料噴射装置.md "wikilink")へ変更
+
+:\* カムギアトレーンエンジン中央から右端に配置変更しギア枚数やベアリング数を減少
+
+:\* [カムシャフト](../Page/カムシャフト.md "wikilink")の長さを短縮
+
+:\* パウダーメタルコンポジットのシリンダースリーブを採用
+
+:\* スリッパータイプピストンにチタン合金製[コンロッド](https://ja.wikipedia.org/wiki/コンロッド "wikilink")を採用
+
+:\* 大口径4連ボアのスロットルボディやストレートインテークポートを採用
+
+:\* 点火時期を最適にコントロールするPGMイグニションを採用
+
+:\* [ラジエーター](../Page/ラジエーター.md "wikilink")はアルミ製上下2分割タイプとし下部裏側に薄型ファンモーターを搭載
+
+:\* 大型空冷式[オイルクーラー](https://ja.wikipedia.org/wiki/オイルクーラー "wikilink")をラジエーター後方へ縦に設置
+
+  - [速度計](../Page/速度計.md "wikilink")は針ぶれの少ない軽量コンパクトなアナログタイプ電気式を搭載
+  - デジタル[水温計](https://ja.wikipedia.org/wiki/水温計 "wikilink")を搭載
+  - 燃料タンクは容量18Lの軽量アルミ製
+  - 足回りの基本設計はNC35型と同様なシステムを構成するが前輪ディスクブレーキはローター径を310mmとした上で焼結パッドを採用
+
+スペックは馬力自主規制により最高出力77ps/11,500rpm・最大トルク5.7kg-m/7,000rpmとされたが\[25\]、HRCから販売されていたレースオプションキットを使用することにより150psを発生させることが可能であり\[26\]、鈴鹿8時間耐久ロードレース1997年仕様では最高出力160ps以上/14,500rpmを発揮する\[27\]。
+
+  - 主なレースでの戦績
+
+<!-- end list -->
+
+  - スーパーバイク世界選手権：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")年間チャンピオン（[ジョン・コシンスキー](../Page/ジョン・コシンスキー.md "wikilink")）
+  - 全日本ロードレース選手権スーパーバイククラス：1994年 - 1996年年間チャンピオン（[青木拓磨](../Page/青木拓磨.md "wikilink")）/1998年年間チャンピオン（[伊藤真一](https://ja.wikipedia.org/wiki/伊藤真一 "wikilink")）
+  - 鈴鹿8時間耐久ロードレース：1994年・1995年・1997年 - [1999年](../Page/1999年.md "wikilink")優勝
+
+スーパーバイクカテゴリーのレギュレーション変更により1999年をもってレース活動を終了し後継の[VTR1000 SPWへ移行した](https://ja.wikipedia.org/wiki/ホンダ・VTR1000_SP-1/2 "wikilink")。
 
 ## 脚注
 
@@ -57,16 +188,53 @@ RVF400とは、[全日本ロードレース選手権](../Page/全日本ロード
 ## 関連項目
 
   - [ホンダ・VF](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")
+  - [ホンダ・VF400F](../Page/ホンダ・VF400F.md "wikilink")
   - [ホンダ・VFR](../Page/ホンダ・VFR.md "wikilink")
 
 ## 外部リンク
 
-  - [ホンダ製品アーカイブ・VF/VFR/RVF](http://www.honda.co.jp/pressroom/products/motor/vf/) - RVF（NC35・RC45）
-  - [BBB The History 時代を彩ったバイクたち ホンダ RVF750](http://www.bbb-bike.com/history/data14_1.html)
+  - 本田技研工業公式HP
+
+<!-- end list -->
+
+  - [2輪製品アーカイブ RVF](https://www.honda.co.jp/pressroom/products/motor/vf/rvf_1994-01-12/)
+  - [2輪製品アーカイブ RVF/RC45](https://www.honda.co.jp/pressroom/products/motor/vf/rvfrc45_1994-01-07/)
+  - [FACT BOOK RVF 1994.01](https://www.honda.co.jp/factbook/motor/RVF/19940100/)
+
+<!-- end list -->
+
+  - BBB The History
+
+<!-- end list -->
+
+  - [File No.14 RVF750](https://www.bbb-bike.com/history/data14_1.html)
 
 [Category:ホンダのオートバイの車種](https://ja.wikipedia.org/wiki/Category:ホンダのオートバイの車種 "wikilink") [Category:レーサー_(オートバイ)](https://ja.wikipedia.org/wiki/Category:レーサー_\(オートバイ\) "wikilink")
 
-1.
+1.  4ストローク400cc以下または[2ストローク](../Page/2ストローク機関.md "wikilink")250cc以下の公道用市販車をベースにしたバイクによって競われるクラス。
 2.
 3.
 4.
+5.
+6.  [THE444RR大全・2 HONDA VFR/RVF](http://www.mr-bike.jp/?p=97431) - Web Mr.Bike [モーターマガジン社](https://ja.wikipedia.org/wiki/モーターマガジン社 "wikilink")
+7.
+8.  4ストローク750cc以下または2ストローク500cc以下の公道用市販車をベースにした改造バイクによって競われるクラス。市販車のクランクケースを使用していれば、フレーム交換やサスペンションの構造変更も可能であり、1988年からはスーパーバイク仕様でのエントリーも可能であった。
+9.  4ストロークエンジンを搭載する公道用市販車をベースにした改造車によって競われる。4気筒の場合は600cc超750cc以下、3気筒では600cc超900cc以下、2気筒では750cc超1000cc以下と、気筒数によって排気量制限が変わるクラス。
+10. [鈴鹿8耐・栄光のTT-F1マシン［1984-1993］](https://young-machine.com/2019/07/11/39464/) - - Web ヤングマシン [内外出版社](https://ja.wikipedia.org/wiki/内外出版社 "wikilink") 2019年7月11日
+11. [HONDAコレクションホール所蔵車両 走行確認レポート 闘うDNA 二輪編その3](http://www.mr-bike.jp/?p=55228) - Web Mr.Bike モーターマガジン社
+12.
+13. [本田技研工業公式HP 宮城光の鈴鹿8耐歴代ロードレーサの鼓動 第4話 グランプリマシンより熱いRVF750](https://www.honda.co.jp/WGP/spcontents2004/8tai/vol41/)
+14.
+15. [1994年1月12日プレスリリース](https://www.honda.co.jp/news/1994/2940112.html)
+16.
+17.
+18.
+19.
+20.
+21. [1994年1月7日プレスリリース](https://www.honda.co.jp/news/1994/2940107.html)
+22.
+23. [1994年8月22日プレスリリース](https://www.honda.co.jp/news/1994/2940107.html)
+24.
+25.
+26. [RC45 ワークスレーサー譲りのスペックを市販車に投入したV4マシン](https://bike-news.jp/post/150587) - バイクのニュース 2019年11月14日
+27.

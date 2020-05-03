@@ -13,7 +13,7 @@
 
 ## 売上記録
 
-[オリコン調べによると](../Page/オリコンチャート.md "wikilink")、10週連続でトップ50をキープ。オリコン・2004年間シングルチャートで86位を獲得した。更に『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2004年間総合ランキングで78位、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』・2004年間パーフェクトランキングでも39位を獲得している。
+[オリコン調べによると](../Page/オリコンチャート.md "wikilink")、10週連続でトップ50をキープ。オリコン・2004年間シングルチャートで86位を獲得した。更に『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2004年間総合ランキングで78位、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』・2004年間パーフェクトランキングでも39位を獲得している。
 
 ## 収録曲
 

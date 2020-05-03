@@ -21,7 +21,7 @@ ETOPSの認定は、まず機体とエンジンの組み合わせにより型式
 
 また、ETOPSルールの適用時間は同じ機種・型式の旅客機でも航空会社（の運航実績と整備水準）によって違いがある。
 
-ETOPSルール適用の旅客機は3発機（[ボーイング727](../Page/ボーイング727.md "wikilink")、[DC-10](../Page/マクドネル・ダグラス_DC-10.md "wikilink")、[トライスターなど](../Page/ロッキード_L-1011_トライスター.md "wikilink")）や4発機（[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")、[エアバスA340](../Page/エアバスA340.md "wikilink")・[A380など](https://ja.wikipedia.org/wiki/エアバスA380 "wikilink")）よりも、エンジンを中心として厳しい検査体制が採られている。
+ETOPSルール適用の旅客機は3発機（[ボーイング727](../Page/ボーイング727.md "wikilink")、[DC-10](../Page/マクドネル・ダグラス_DC-10.md "wikilink")、[トライスターなど](../Page/ロッキード_L-1011_トライスター.md "wikilink")）や4発機（[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")、[エアバスA340](../Page/エアバスA340.md "wikilink")・[A380など](../Page/エアバスA380.md "wikilink")）よりも、エンジンを中心として厳しい検査体制が採られている。
 
 ## ETOPS-120からETOPS-180へ
 

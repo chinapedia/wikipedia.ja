@@ -1,7 +1,7 @@
 > この記事は[HITACHI FAN! FUN! TODAY](https://ja.wikipedia.org/wiki/HITACHI_FAN!_FUN!_TODAY)から翻訳されています。
 
 
-『**HITACHI FAN\! FUN\! TODAY**』（ヒタチ・ファン・ファン・トゥデイ）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月まで[ニッポン放送](../Page/ニッポン放送.md "wikilink")が制作し、[NRN系列のラジオ局で放送された音楽情報番組](../Page/全国ラジオネットワーク.md "wikilink")。担当パーソナリティは[ニッポン放送](../Page/ニッポン放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[上柳昌彦](../Page/上柳昌彦.md "wikilink")\[1\]。
+『**HITACHI FAN\! FUN\! TODAY**』（ヒタチ・ファン・ファン・トゥデイ）は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月までに[ニッポン放送](../Page/ニッポン放送.md "wikilink")が制作し、[NRN系列のラジオ局で放送された音楽情報番組](../Page/全国ラジオネットワーク.md "wikilink")。担当パーソナリティは[ニッポン放送](../Page/ニッポン放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[上柳昌彦](../Page/上柳昌彦.md "wikilink")\[1\]。
 
 ## 番組形態と放送時間
 
@@ -94,7 +94,7 @@
 <li><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ</a> - 22:30 - 23:00</li>
 <li><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>、23:00 - 23:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>、22:00 - 22:30</li>
+<li><a href="../Page/福井放送.md" title="wikilink">福井放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>、23:00 - 23:30</li>
 <li><a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪</a>、24:00 - 24:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a>、23:00 - 23:30</li>
@@ -108,7 +108,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>、23:30 - 24:00</li>
-<li><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>、22:00 - 22:30</li>
+<li><a href="../Page/大分放送.md" title="wikilink">大分放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a>、22:00 - 22:30</li>

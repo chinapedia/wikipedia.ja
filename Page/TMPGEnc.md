@@ -1,7 +1,7 @@
 > この記事は[TMPGEnc](https://ja.wikipedia.org/wiki/TMPGEnc)から翻訳されています。
 
 
-**TMPGEnc**（ティーエムペグエンク）は、現在は株式会社ペガシスが販売している[MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink")映像作成・編集[ソフトウェア](../Page/ソフトウェア.md "wikilink")、及びそのシリーズの名称である。[Microsoft Windows用のみ](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。**T**sunami **MP**E**G** **Enc**oderの略。
+**TMPGEnc**（ティーエムペグエンク）は、現在は株式会社ペガシスが販売している[MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink")映像作成・編集[ソフトウェア](../Page/ソフトウェア.md "wikilink")、及び、そのシリーズの名称である。[Microsoft Windows用のみ](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。**T**sunami **MP**E**G** **Enc**oderの略。
 
 ## 歴史
 

@@ -9,13 +9,13 @@
 
 A\&Wの名は、創業者のロイ・アレン（Roy Allen）と、[1919年](../Page/1919年.md "wikilink")に彼と提携したフランク・ライト（Frank Wright）の2人の[ファミリーネームの頭文字に由来する](../Page/姓.md "wikilink")。当初は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ローダイに本拠を置き](https://ja.wikipedia.org/wiki/ローダイ_\(カリフォルニア州\) "wikilink")、ルートビアスタンドの形態であった。
 
-A\&Wは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では、[ヤム・ブランズ](../Page/ヤム・ブランズ.md "wikilink")が展開している。
+A\&Wはアメリカ合衆国では[ヤム・ブランズ](../Page/ヤム・ブランズ.md "wikilink")が展開している。
 
 ## 米国以外での展開
 
 米国以外では、[オーストラリア](../Page/オーストラリア.md "wikilink")、日本、[バングラデシュ](../Page/バングラデシュ.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[パキスタン](../Page/パキスタン.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")、[カタール](../Page/カタール.md "wikilink")、[タイ王国](../Page/タイ王国.md "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")にも進出している。かつては[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[エジプト](../Page/エジプト.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")にも店舗があったが、[2000年代](../Page/2000年代.md "wikilink")に撤退した。
 
-カナダの運営は、1972年に[ユニリーバ](../Page/ユニリーバ.md "wikilink")社が取得したが、現在はアメリカのA\&Wとは無関係な経営陣に代わった。その経緯のため、A\&Wカナダの[ロゴは](../Page/ロゴタイプ.md "wikilink")、アメリカのものとは異なるものに変更されている。
+[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の運営は、1972年に[ユニリーバ](../Page/ユニリーバ.md "wikilink")社が取得したが、現在はアメリカのA\&Wとは無関係な経営陣に代わった。その経緯のため、A\&Wカナダの[ロゴは](../Page/ロゴタイプ.md "wikilink")、アメリカのものとは異なるものに変更されている。
 
 インドネシアでは広く全国展開しており、北米を除くと店舗数が一番多い。
 

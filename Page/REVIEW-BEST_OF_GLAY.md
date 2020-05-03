@@ -3,7 +3,7 @@
 
 『**REVIEW-BEST OF GLAY**』（レビュー・ベスト・オブ・グレイ）は、[GLAY](../Page/GLAY.md "wikilink")が発売した初の[ベストアルバムである](../Page/ベスト・アルバム.md "wikilink")。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")よりリリース。[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")には、[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")より再リリースされた。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[プラチナムレコード](https://ja.wikipedia.org/wiki/プラチナムレコード "wikilink")(販売元：[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink"))よりリリース。[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")には、[エクスタシー・ジャパンより再リリースされた](../Page/エクスタシーレコード.md "wikilink")。
 
 ## 概要
 

@@ -260,7 +260,7 @@
 
 ## 関連項目
 
-  - [ダイナブック (東芝)](https://ja.wikipedia.org/wiki/ダイナブック_\(東芝\) "wikilink")
+  - [dynabook (ブランド)](https://ja.wikipedia.org/wiki/dynabook_\(ブランド\) "wikilink")
   - [リブレット (パーソナルコンピュータ)](../Page/リブレット_\(パーソナルコンピュータ\).md "wikilink")
   - [レグザリンク](../Page/レグザリンク.md "wikilink")
 

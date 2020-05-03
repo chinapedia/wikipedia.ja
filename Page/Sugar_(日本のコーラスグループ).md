@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - クミ（長沢久美子（[2009年](../Page/2009年.md "wikilink")より長澤久美子と表記）、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） - ボーカル、[ギター](../Page/リードギター.md "wikilink") 　[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
+  - クミ（長沢久美子（[2009年](../Page/2009年.md "wikilink")より旧字表記の長**澤**）、[1960年](../Page/1960年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） - ボーカル、[ギター](../Page/リードギター.md "wikilink") 　[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -23,13 +23,13 @@
 
 <!-- end list -->
 
-  - モーリ（毛利公子、本名：徳本公子 - 旧姓・毛利、[1960年](../Page/1960年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")／） - ボーカル、[ベース](../Page/エレクトリックベース.md "wikilink")、 [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink") 　神奈川県横浜市出身。
+  - モーリ（毛利公子→徳本公子（結婚で改姓）、[1960年](../Page/1960年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")／） - ボーカル、[ベース](../Page/エレクトリックベース.md "wikilink")、 [リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink") 　神奈川県横浜市出身。
 
 <!-- end list -->
 
   -
     解散後は[タレント](../Page/タレント.md "wikilink")としてラジオのリポーターなどを中心に活動。1988年6月に結婚後も仕事を続けていた。1989年に第一子を妊娠、翌年4月に出産予定であった。4月6日に陣痛を覚え病院に向かったが、既に胎児の心音が確認出来なくなっており、医師より死産を告げられ強い悲しみに取り乱したという。精神的な落ち込みや母体への負担を考え、胎児の処置はすぐに行わず一旦安静の措置をとることになった。4月7日午前2時ごろ、呼吸をしていないことに付き添っていた妹が気づき、すぐに別の救急救命病院に搬送されたが死去した。享年29。
-    [常位胎盤早期剥離](https://ja.wikipedia.org/wiki/常位胎盤早期剥離 "wikilink")による[羊水塞栓症や](../Page/塞栓.md "wikilink")[妊娠高血圧症候群](../Page/妊娠高血圧症候群.md "wikilink")などが死因ではないかとの憶測が当時から流れているが、詳細な死因は現在も不明である\[2\]\[3\]。
+    [常位胎盤早期剥離](https://ja.wikipedia.org/wiki/常位胎盤早期剥離 "wikilink")による[羊水塞栓症や](../Page/塞栓.md "wikilink")[妊娠高血圧症候群](../Page/妊娠高血圧症候群.md "wikilink")などが死因ではないかとの憶測が当時から流れているが、詳細な死因は現在も不明（非公表ではない。医師でも解説不可能な突然死）である\[2\]\[3\]。
 
 ## 来歴
 

@@ -37,7 +37,7 @@
       -
         <small>（作詞・作曲：浜田省吾、編曲：[町支寛二](../Page/町支寛二.md "wikilink")）</small>
     <!-- end list -->
-      - 町支寛二によるアレンジで、[リッケンバッカー](https://ja.wikipedia.org/wiki/リッケンバッカー "wikilink")を使った[バーズ](https://ja.wikipedia.org/wiki/バーズ "wikilink")風のカントリー・ナンバー。
+      - 町支寛二によるアレンジで、[リッケンバッカー](https://ja.wikipedia.org/wiki/リッケンバッカー "wikilink")を使った[バーズ風のカントリー](https://ja.wikipedia.org/wiki/バーズ_\(アメリカのバンド\) "wikilink")・ナンバー。
 4.  **想い出のファイヤー・ストーム**
       -
         <small>（作詞・作曲：浜田省吾、編曲：江澤宏明）</small>

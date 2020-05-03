@@ -22,7 +22,7 @@
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2000年11月3日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
       -
         「この青い空、みどり 〜BLUE IN GREEN〜」を披露した\[1\]。
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（2000年11月13日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（2000年11月13日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
       -
         「この青い空、みどり 〜BLUE IN GREEN〜」を披露した\[2\]。
   - [桑田佳祐の音楽寅さん 〜MUSIC TIGER〜](../Page/桑田佳祐の音楽寅さん_〜MUSIC_TIGER〜.md "wikilink")（2000年12月29日、フジテレビ）

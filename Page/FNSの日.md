@@ -753,7 +753,7 @@ SMAP×FNS 27時間テレビ</a><br />
 <td><p>第11回</p></td>
 <td><p>1997年</p></td>
 <td><p>REBORN</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a><br />
 明石家さんまのスポーツするぞ!大放送</p></td>
 <td><p>7月27日</p></td>
 <td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>

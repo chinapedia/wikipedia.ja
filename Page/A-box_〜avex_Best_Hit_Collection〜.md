@@ -143,7 +143,7 @@
 <td><p><a href="../Page/H_Jungle_with_t.md" title="wikilink">H Jungle with t</a></p></td>
 <td><p>1995年7月19日</p></td>
 <td><p>avex trax</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>』イメージソング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>』イメージソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -429,7 +429,7 @@
 <td><p><a href="../Page/WOW_WAR_TONIGHT_〜時には起こせよムーヴメント.md" title="wikilink">WOW WAR TONIGHT 〜時には起こせよムーヴメント</a></p></td>
 <td><p>H Jungle with t</p></td>
 <td><p>1995年3月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>』</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -818,9 +818,12 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
 ## 外部リンク
 
-  - [「LOVE THANKS\!」](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=199600011452&DSP_SKHKETSEQ=001)（ポニーキャニオン）
-  - [「fine〜フィーネ〜」](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=199700050822&DSP_SKHKETSEQ=001)（ポニーキャニオン）
+  - （ポニーキャニオン）
+
+  - （ポニーキャニオン）
+
   - [Melody](http://cdcookie.jp/artist/summary/name/Melody/)（ポニーキャニオン／CD COOKIE）
+
   - [タナカユキミインフォ](http://tanakayukimi.info/)（[田中有紀美](../Page/田中有紀美.md "wikilink") Official Website）
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:過去のフォスター所属者](https://ja.wikipedia.org/wiki/Category:過去のフォスター所属者 "wikilink")

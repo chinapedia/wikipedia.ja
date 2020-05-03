@@ -20,7 +20,7 @@
   - [猿の惑星](https://ja.wikipedia.org/wiki/猿の惑星_\(映画\) "wikilink") - *Planet of the Apes*（1968年）※[アカデミー名誉賞](https://ja.wikipedia.org/wiki/アカデミー名誉賞 "wikilink")受賞
   - [パットン大戦車軍団](../Page/パットン大戦車軍団.md "wikilink") - *Patton*（1970年）※アカデミー作品賞ほか7部門受賞
   - [ニコライとアレクサンドラ](https://ja.wikipedia.org/wiki/ニコライとアレクサンドラ "wikilink") - *Nicholas and Alexandra*（1971年）※[アカデミー美術賞](../Page/アカデミー美術賞.md "wikilink")ほか2部門受賞
-  - [パピヨン](../Page/パピヨン_\(映画\).md "wikilink") - *Papillon*（1973年）
+  - [パピヨン](../Page/パピヨン_\(1973年の映画\).md "wikilink") - *Papillon*（1973年）
   - [海流のなかの島々](../Page/海流のなかの島々.md "wikilink") - *Islands in the Stream*（1976年）
   - [ブラジルから来た少年](../Page/ブラジルから来た少年.md "wikilink") - *The Boys from Brazil*（1978年）
   - [スフィンクス](https://ja.wikipedia.org/wiki/スフィンクス_\(映画\) "wikilink") - *Sphinx*（1980年）

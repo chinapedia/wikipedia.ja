@@ -1,7 +1,7 @@
 > この記事は[The World of GOLDEN EGGS](https://ja.wikipedia.org/wiki/The_World_of_GOLDEN_EGGS)から翻訳されています。
 
 
-『**The World of GOLDEN EGGS**』（ザ・ワールド・オブ・ゴールデン・エッグス）は、[PLUS heads inc.が製作している日本の](https://ja.wikipedia.org/wiki/PLUS_heads_inc. "wikilink")[CG](../Page/コンピュータグラフィックス.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")である。[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")を使用している。また、一部実写も使用。
+『**The World of GOLDEN EGGS**』（ザ・ワールド・オブ・ゴールデン・エッグス）は、[PLUS heads inc.が製作している日本の](https://ja.wikipedia.org/wiki/PLUS_heads_inc. "wikilink")[CG](../Page/コンピュータグラフィックス.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")である。[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")を使用している。
 
 2008年度[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")受賞。
 
@@ -16,12 +16,6 @@
 メインストーリーの各話に明確なつながりはないが、別の視点で[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")に加わっていることがある。なお、TV放送とDVDではメインストーリーとTHBCの組み合わせが一部異なる。
 
 音楽との[コラボレート](https://ja.wikipedia.org/wiki/コラボレート "wikilink")も強く一部の登場人物が[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")という設定があり、彼らのオリジナルソング及び[ミュージッククリップ](https://ja.wikipedia.org/wiki/ミュージッククリップ "wikilink")をMTVなどで放送している。
-
-### 放送
-
-CSの[キッズステーション](../Page/キッズステーション.md "wikilink")や[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")、[MTV Japanなど多岐に渡って放送がされ](../Page/MTVジャパン.md "wikilink")、[BIGLOBE](../Page/BIGLOBE.md "wikilink")で[ストリーミング](../Page/ストリーミング.md "wikilink")配信もされていた。現在は上記のほか、[tvk](../Page/テレビ神奈川.md "wikilink")・[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[USEN](../Page/USEN.md "wikilink")のインターネットプログラム・[GyaOにてオンエアされている](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。また、[2006年](../Page/2006年.md "wikilink")2月よりボイスキャストのLARRYによる[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")の[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")プログラム「LARRY'S SHOW」の放送がされている。
-
-[2005年](../Page/2005年.md "wikilink")1月からの本放送の後、2005年にSEASON1の[DVD](../Page/DVD.md "wikilink")3作品と[CD](../Page/コンパクトディスク.md "wikilink")1作品がリリース。更に、2006年のSEASON2放送分を収録したDVDが[2007年](../Page/2007年.md "wikilink")3月に発売された。
 
 ### 広告キャラクター/コラボレートなど
 
@@ -185,7 +179,7 @@ CSの[キッズステーション](../Page/キッズステーション.md "wikil
     ローズマリー兄弟と共に「MORI MORI EXCERCISE」を担当。大柄で筋肉質な女性。[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")の[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")（[鮫洲で免許を取得](https://ja.wikipedia.org/wiki/鮫洲駅 "wikilink")）で、ローズマリー兄弟とは[従姉妹](https://ja.wikipedia.org/wiki/従姉妹 "wikilink")の間柄。[さくらんぼのプリントTシャツを着ている](../Page/サクランボ.md "wikilink")。過去に、子猫のような女に恋人を取られた経験がある。
   - ワイルドジミー
     声 - MONICA
-    「世界の珍獣」[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")を務める[冒険家](https://ja.wikipedia.org/wiki/冒険家 "wikilink")。Turkey's Hill近郊の[ジャングルで](../Page/熱帯雨林.md "wikilink")、珍しい生き物を紹介していく野生の[スペシャリスト](https://ja.wikipedia.org/wiki/スペシャリスト "wikilink")。[腰巻き](https://ja.wikipedia.org/wiki/腰巻き "wikilink")一枚という自然に近い格好で、体当たりで獣と接する(コブラに噛み付かれても全く平気)。
+    「世界の珍獣」[ナビゲーター](../Page/ナビゲーター.md "wikilink")を務める[冒険家](https://ja.wikipedia.org/wiki/冒険家 "wikilink")。Turkey's Hill近郊の[ジャングルで](../Page/熱帯雨林.md "wikilink")、珍しい生き物を紹介していく野生の[スペシャリスト](https://ja.wikipedia.org/wiki/スペシャリスト "wikilink")。[腰巻き](https://ja.wikipedia.org/wiki/腰巻き "wikilink")一枚という自然に近い格好で、体当たりで獣と接する(コブラに噛み付かれても全く平気)。
   - セツコ・ローレンセン
     声 - LARRY
     「世界の珍獣」の語りべ。独特の口調で番組を盛り上げる。ワイルドジミーの言葉に笑ってしまうこともある。
@@ -298,24 +292,30 @@ CSの[キッズステーション](../Page/キッズステーション.md "wikil
 1.  ターキーレンジャー4（Movie Trailer）
 2.  港町パンモンターニュ
 
-## 放送局・放送日時
+## 放送
 
-| 放送地域                                                  | 放送局                                               | 放送期間      | 放送日時             |
-| ----------------------------------------------------- | ------------------------------------------------- | --------- | ---------------- |
-| SEASON1                                               |                                                   |           |                  |
-| [日本全域](../Page/全国放送.md "wikilink")                    | [KIDS STATION](../Page/キッズステーション.md "wikilink")   | 2005年1月 - | 土曜 22:45 - 23:00 |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")               |           | 土曜 18:45 - 19:00 |
-| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") |           | 木曜 23:30 - 23:45 |
-| [京都府](../Page/京都府.md "wikilink")                      | [KBS京都](../Page/京都放送.md "wikilink")               |           | 金曜 22:30 - 23:45 |
-| SEASON2                                               |                                                   |           |                  |
-| 日本全域                                                  | KIDS STATION                                      |           | 土曜 23:30 - 23:45 |
-| 神奈川県                                                  | tvk                                               |           | 日曜 22:45 - 23:00 |
+CSの[キッズステーション](../Page/キッズステーション.md "wikilink")や[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")、[MTV Japanなど多岐に渡って放送がされ](../Page/MTVジャパン.md "wikilink")、[BIGLOBE](../Page/BIGLOBE.md "wikilink")で[ストリーミング](../Page/ストリーミング.md "wikilink")配信もされていた。現在は上記のほか、[tvk](../Page/テレビ神奈川.md "wikilink")・[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[USEN](../Page/USEN.md "wikilink")のインターネットプログラム・[GyaOにてオンエアされている](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。また、[2006年](../Page/2006年.md "wikilink")2月よりボイスキャストのLARRYによる[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")の[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")プログラム「LARRY'S SHOW」の放送がされている。
+
+[2005年](../Page/2005年.md "wikilink")1月からの本放送の後、2005年にSEASON1の[DVD](../Page/DVD.md "wikilink")3作品と[CD](../Page/コンパクトディスク.md "wikilink")1作品がリリース。更に、2006年のSEASON2放送分を収録したDVDが[2007年](../Page/2007年.md "wikilink")3月に発売された。
+
+### 放送局
+
+| 放送地域                                                  | 放送局                                               | 放送期間                                                                                                               | 放送日時             |
+| ----------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------- |
+| SEASON1                                               |                                                   |                                                                                                                    |                  |
+| [日本全域](../Page/全国放送.md "wikilink")                    | [KIDS STATION](../Page/キッズステーション.md "wikilink")   | 2005年1月 -                                                                                                          | 土曜 22:45 - 23:00 |
+| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")               |                                                                                                                    | 土曜 18:45 - 19:00 |
+| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink") | [2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") - [6月28日](../Page/6月28日.md "wikilink")\[1\] | 木曜 23:30 - 23:45 |
+| [京都府](../Page/京都府.md "wikilink")                      | [KBS京都](../Page/京都放送.md "wikilink")               |                                                                                                                    | 金曜 22:30 - 23:45 |
+| SEASON2                                               |                                                   |                                                                                                                    |                  |
+| 日本全域                                                  | KIDS STATION                                      |                                                                                                                    | 土曜 23:30 - 23:45 |
+| 神奈川県                                                  | tvk                                               |                                                                                                                    | 日曜 22:45 - 23:00 |
 
 ## スタッフ
 
   - 企画・製作 - [PLUS heads inc.](https://ja.wikipedia.org/wiki/PLUS_heads_inc. "wikilink")、[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")
-  - 企画・エグザクティブ プロデュース・制作・監督 - Dai Yoshihiko、臺佳彦
-  - 企画・キャラクター・アニメーション - Fumihara Satoshi（Matsushima Satoshi）、[文原聡](https://ja.wikipedia.org/wiki/文原聡 "wikilink")
+  - 企画・エグザクティブ プロデュース・制作・監督 - [Dai Yoshihiko](https://ja.wikipedia.org/wiki/臺佳彦 "wikilink")
+  - 企画・キャラクター・アニメーション - [Fumihara Satoshi](https://ja.wikipedia.org/wiki/文原聡 "wikilink")（Matsushima Satoshi）
   - プロデュース - Harada nanao、原田七生
   - アシスタント・タイトルデザイン - Watanabe Saori、渡邊さおり
   - マネジメント - Kaneko Futaba、金子ふたば
@@ -391,4 +391,6 @@ CSの[キッズステーション](../Page/キッズステーション.md "wikil
   - [The World of GOLDEN EGGS](http://www.theworldofgoldeneggs.com/) - 公式サイト
   - [The World of GOLDEN EGGS](http://www.mxtv.co.jp/goldeneggs/) - TOKYO MX内サイト
 
-[Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink")
+[Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:実写とアニメーションが混在した作品](https://ja.wikipedia.org/wiki/Category:実写とアニメーションが混在した作品 "wikilink")
+
+1.

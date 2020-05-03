@@ -148,6 +148,8 @@ Winnyが開発された当初は、どのようなファイルがネットワー
   - \- 現在はWinny関連の記述は残っていない
 
   -
+  - [小説で読む「Winny」～ 栄光無き天才プログラマー「金子勇」が無罪を勝ち取るまでの7年半 ～　(インプレスInternet Watch記事2020年4月22日)](https://internet.watch.impress.co.jp/docs/news/1248125.html)
+
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:著作権侵害](https://ja.wikipedia.org/wiki/Category:著作権侵害 "wikilink") [Category:2ちゃんねる関連事象](https://ja.wikipedia.org/wiki/Category:2ちゃんねる関連事象 "wikilink") [Category:匿名ネットワーク](https://ja.wikipedia.org/wiki/Category:匿名ネットワーク "wikilink")
 
 1.  [byte2004 p.25](https://ja.wikipedia.org/wiki/#byte2004 "wikilink")

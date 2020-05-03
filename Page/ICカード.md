@@ -7,7 +7,7 @@
 
 ## 歴史
 
-ICカードの普及以前は、[1960年](../Page/1960年.md "wikilink")に[IBM](../Page/IBM.md "wikilink")によって発明された[磁気ストライプカード](https://ja.wikipedia.org/wiki/磁気ストライプカード "wikilink")が主に使われていた。
+ICカードの普及以前は、[1960年](../Page/1960年.md "wikilink")に[IBM](../Page/IBM.md "wikilink")によって発明された[磁気ストライプカード](https://ja.wikipedia.org/wiki/磁気ストライプカード "wikilink")が使われていた。
 
 ICカードは、ドイツでは[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[ヘルムート・グレトルップ](https://ja.wikipedia.org/wiki/ヘルムート・グレトルップ "wikilink")（Helmut Gröttrup）とユルゲン・デトロフ（Jürgen Dethloff）が共同で、日本では[1970年](../Page/1970年.md "wikilink")に[有村國孝](https://ja.wikipedia.org/wiki/有村國孝 "wikilink")が、フランスでは[1974年](../Page/1974年.md "wikilink")にローラン・モレノ (Roland Moreno) が、それぞれ発明している。グレトルップは1968年に[特許](../Page/特許.md "wikilink")を申請したが、認められたのは1982年になった。
 
@@ -62,7 +62,7 @@ ICカードは[プラスチック](https://ja.wikipedia.org/wiki/プラスチッ
 
 ### 非接触型
 
-非接触型ICカードは、読取り機の磁界を通過する際の誘導起電力を利用している。国際規格[ISO/IEC 14443がある](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")。リーダとライタの通信距離に応じて「密着型」「近接型」「近傍型」「遠隔型」の4種類に区別され、さらに近接型は「Type A」「Type B」に分類される。欧州ではType Aカード、特に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップスエレクトロニクス](https://ja.wikipedia.org/wiki/フィリップスエレクトロニクス "wikilink")が開発した[MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink")が普及している。米国では[モトローラ](../Page/モトローラ.md "wikilink")が開発したType Bカードも普及している。
+非接触型ICカードは、読取り機の磁界を通過する[電磁誘導](../Page/電磁誘導.md "wikilink")の起電力を利用している。国際規格[ISO/IEC 14443がある](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")。リーダとライタの通信距離に応じて「密着型」「近接型」「近傍型」「遠隔型」の4種類に区別され、さらに近接型は「Type A」「Type B」に分類される。欧州ではType Aカード、特に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[フィリップスエレクトロニクス](https://ja.wikipedia.org/wiki/フィリップスエレクトロニクス "wikilink")が開発した[MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink")が普及している。米国では[モトローラ](../Page/モトローラ.md "wikilink")が開発したType Bカードも普及している。
 
 [ソニー](../Page/ソニー.md "wikilink")は自社が開発した[FeliCa](../Page/FeliCa.md "wikilink")をType CとしてISO/IEC 14443に提案したが、この国際規格には採用されず、後にFeliCaとMIFAREの上位通信方式がISO/IEC 18092 ([NFC](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink"), Near Field Communication) として標準化された（FeliCaと同時期にType D - Gも提案されていたが、規格が乱立するとして標準化の議論を停止した）。2005年1月には、拡張規格であるNFC IP-2がISO/IEC 21481として国際標準規格に制定されType Bにも対応した。
 
@@ -74,15 +74,15 @@ ICカードは[プラスチック](https://ja.wikipedia.org/wiki/プラスチッ
 
 #### 公衆電話
 
-ICカードの最初の大規模な適用先は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にフランステレコム（現・[Orange](../Page/Orange_\(通信会社\).md "wikilink")）が[公衆電話](../Page/公衆電話.md "wikilink")の支払い用に使い捨ての[プリペイドカード](../Page/プリペイドカード.md "wikilink")として採用したテレフォンカードである。なお、フランスのICテレフォンカードは接触型である\[4\]。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも 国際電信電話（KDD、現・[KDDI](../Page/KDDI.md "wikilink")）が接触型のカードを 採用している。[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には[NTTグループ](../Page/NTTグループ.md "wikilink")が主に[磁気テレホンカードの偽造対策として非接触型の](../Page/テレホンカード.md "wikilink")[ICテレホンカード](https://ja.wikipedia.org/wiki/ICテレホンカード "wikilink")（ICテレカ）を導入し、同時にICカード式[公衆電話](../Page/公衆電話.md "wikilink")も導入した。
+ICカードの最初の大規模な適用先は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")にフランステレコム（現・[Orange](../Page/Orange_\(通信会社\).md "wikilink")）が[公衆電話](../Page/公衆電話.md "wikilink")の支払い用に使い捨ての[プリペイドカード](../Page/プリペイドカード.md "wikilink")として採用したテレフォンカードである。なお、フランスのICテレフォンカードは接触型である\[4\]。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも 国際電信電話（KDD、現・[KDDI](../Page/KDDI.md "wikilink")）が接触型のカードを 採用している。[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には[日本電信電話](../Page/日本電信電話.md "wikilink")が[磁気テレホンカードの偽造対策として非接触型の](../Page/テレホンカード.md "wikilink")[ICテレホンカード](https://ja.wikipedia.org/wiki/ICテレホンカード "wikilink")（ICテレカ）を導入し、同時にICカード式[公衆電話も導入した](../Page/日本の公衆電話.md "wikilink")。
 
-その後、[公衆電話](../Page/公衆電話.md "wikilink")は世界的に[携帯電話](../Page/携帯電話.md "wikilink")に取って代わられ、プリペイドカードとしての利用は減少した。そのため、NTTグループは[2005年](../Page/2005年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")に利用者の減少を理由にICテレホンカードとICカード式[公衆電話](../Page/公衆電話.md "wikilink")の廃止を発表し、翌[2006年](../Page/2006年.md "wikilink")3月までにすべてのIC公衆電話を撤去し、利用者の多かった場所のもののみ磁気カード式公衆電話に置き換えている。
+その後、[公衆電話](../Page/公衆電話.md "wikilink")は世界的に[携帯電話](../Page/携帯電話.md "wikilink")に取って代わられ、プリペイドカードとしての利用は減少した。そのため、NTTは[2005年](../Page/2005年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")に利用者の減少を理由に、費用がかかるICテレホンカードとICカード式公衆電話の廃止を発表し、翌[2006年](../Page/2006年.md "wikilink")3月までに、全てののIC公衆電話を撤去し、利用者の多かった場所のもののみ磁気カード式公衆電話に置き換えている。
 
 #### 携帯電話
 
 [GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")、[NTT docomoの](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")[FOMA](../Page/FOMA.md "wikilink")の[FOMAカード](https://ja.wikipedia.org/wiki/FOMAカード "wikilink")、[第3.9世代移動通信システム](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink")の[Xi及び](https://ja.wikipedia.org/wiki/Xi_\(携帯電話\) "wikilink")[第4世代移動通信システム](../Page/第4世代移動通信システム.md "wikilink")の[PREMIUM 4Gで使用される](https://ja.wikipedia.org/wiki/PREMIUM_4G "wikilink")[ドコモUIMカード](../Page/ドコモUIMカード.md "wikilink")、[auの](../Page/Au_\(携帯電話\).md "wikilink")[au VoLTEで使用される](https://ja.wikipedia.org/wiki/au_VoLTE "wikilink")[au ICカード](https://ja.wikipedia.org/wiki/au_ICカード "wikilink")、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")の[SoftBank 3Gにおける](../Page/SoftBank_3G.md "wikilink")[SoftBank 3G USIMカード](../Page/SoftBank_3G_USIMカード.md "wikilink")、[イー・モバイル](../Page/イー・モバイル.md "wikilink")における[EM chipなどは](../Page/EM_chip.md "wikilink")、[SIMカード](../Page/SIMカード.md "wikilink")/[UIMカード](../Page/UIMカード.md "wikilink")という電話番号などが記録されたICカードが搭載された。SIM/UIMカードは取り外す事ができて、カードを別の端末に挿入する事で、別の端末に同じ番号を引き継ぐ事が可能になっており、通話用端末とデータ通信用端末とを1枚のカードを抜き差しして利用できる。
 
-日本においては、これと別に「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」としてNTTドコモを皮切りにauとVodafone（現・ソフトバンク）が相次いで非接触ICチップ ([FeliCa](../Page/FeliCa.md "wikilink")) を携帯電話のアプリケーションとして導入している。
+日本においては、これと別に「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」としてNTTドコモを皮切りに、auと[Vodafone](https://ja.wikipedia.org/wiki/Vodafone "wikilink")（現・ソフトバンク）が相次いで、非接触ICチップ ([FeliCa](../Page/FeliCa.md "wikilink")) を携帯電話のアプリケーションとして導入している。
 
 #### デジタル放送
 
@@ -110,7 +110,7 @@ ICカードの最初の大規模な適用先は、[1983年](https://ja.wikipedia
 
 #### ICキャッシュカード
 
-[thumb付きICキャッシュカード](https://ja.wikipedia.org/wiki/ファイル:Jpbank_suica.jpg "wikilink")\]\] **ICキャッシュカード**とは、口座番号などの取引に必要な情報と[秘密鍵](https://ja.wikipedia.org/wiki/秘密鍵 "wikilink")を書き込んだICチップを搭載した[キャッシュカード](../Page/キャッシュカード.md "wikilink")のことである。従来の[磁気ストライプカード](https://ja.wikipedia.org/wiki/磁気ストライプカード "wikilink")より偽造が困難とされる。
+[thumb付きICキャッシュカード](https://ja.wikipedia.org/wiki/ファイル:Jpbank_suica.jpg "wikilink")\]\] **ICキャッシュカード**とは、口座番号などの取引に必要な情報と[秘密鍵](https://ja.wikipedia.org/wiki/秘密鍵 "wikilink")を書き込んだICチップを搭載した[キャッシュカード](../Page/キャッシュカード.md "wikilink")のことである。従来の[磁気ストライプカード](https://ja.wikipedia.org/wiki/磁気ストライプカード "wikilink")より偽造が困難である。
 
 磁気ストライプ式キャッシュカードでは、磁性体の塗布や磁気カードリーダー／ライターを使って磁気情報を読み取る「[スキミング](../Page/スキミング.md "wikilink")」が容易にでき、偽造カードによる被害が多発したため、分解・解析しようとすると壊れる（）ICチップを採用したキャッシュカードが必要となった。
 
@@ -120,7 +120,7 @@ ICカードの最初の大規模な適用先は、[1983年](https://ja.wikipedia
 
 韓国では、2014年2月より[ATMにおける](../Page/現金自動預け払い機.md "wikilink")、磁気ストライプ式キャッシュカードの取り扱いを中止する予定（2013年2月から試験運用開始）。
 
-日本では、2001年3月に旧・[全国銀行協会](../Page/全国銀行協会.md "wikilink")が「ICキャッシュカード標準仕様」を制定し、[2002年](../Page/2002年.md "wikilink")頃から導入検討や実証実験などが行われていたが、カード偽造が拡大し、その被害が報道された2004年 - 2005年以降、導入が加速した。ICチップ自体の耐タンパー性に加えて指静脈認証などの[生体認証](../Page/生体認証.md "wikilink")機能を搭載する事によって、強固な本人認証を可能にしている。なお、現行の規格上は、[2049年](../Page/2049年.md "wikilink")末まで利用可能となっており、[2050年](../Page/2050年.md "wikilink")以降でも利用可能な規格の新規開発ないしはソフトウェアのバージョンアップなどが必要とされる。
+日本では、2001年3月に旧・[全国銀行協会](../Page/全国銀行協会.md "wikilink")が「ICキャッシュカード標準仕様」を制定し、[2002年](../Page/2002年.md "wikilink")頃から導入検討や実証実験などが行われていたが、カード偽造が拡大し、その被害が報道された2004年 - 2005年以降、導入が加速した。ICチップ自体の耐タンパー性に加えて指静脈認証などの[生体認証](../Page/生体認証.md "wikilink")機能を搭載する事によって、強固な[本人確認](../Page/本人確認.md "wikilink")を可能にしている。なお、現行の規格上は、[2049年](../Page/2049年.md "wikilink")末まで利用可能となっており、[2050年](../Page/2050年.md "wikilink")以降でも利用可能な規格の新規開発ないしはソフトウェアのバージョンアップなどが必要とされる。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在では、いまだICキャッシュカードにも磁気ストライプが付いている事が多い(後述のように、[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")は2012年3月までに、ICカード付きキャッシュカードを使用不可とする措置を取り、差し替えの上で磁気ストライプのみのカードに戻している)。これはICチップ通信に対応していないATMや決済端末のための後方互換性の問題があるからだが、磁気ストライプでの引き出し金額を低く設定するサービスを行っている金融機関が多い。また、接触式ICチップに加えて非接触式ICカード通信方式に対応したものも登場し、ICカード乗車券として使えるものも登場している。
 

@@ -143,7 +143,7 @@ B'zが初めて観客の前でライブを披露したのは、1989年にTM NETW
 
 2006年は15thアルバム『[MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")』発売後に5大ドームを含むツアー『B'z LIVE-GYM 2006 "MONSTER'S GARAGE"』を開催した。また、ライブ映像配信事業の「Network LIVE」（当時）に初の日本人アーティストとして参加し\[56\]、映像収録のためのライブを行った。
 
-2007年はB'zとしては初の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")出演となる『[SUMMER SONIC 07](../Page/サマーソニック.md "wikilink")』に出演した。また、デビュー20年目を迎えるに当たり、アジア圏のミュージシャンとしては初めて「」に殿堂入りし、[ハリウッド](../Page/ハリウッド.md "wikilink")のギター・センターで記念セレモニーが行われた\[57\]\[58\]。16thアルバム『[ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")』を発売し、2008年に『B'z LIVE-GYM 2008 "ACTION"』を開催した。また、ベスト・アルバム『[B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』と[インターネット](../Page/インターネット.md "wikilink")からのリクエストによって収録曲を決定したベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』を発売し\[59\]\[60\]、5年ぶりとなるPleasureシリーズ『B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-』を開催した。
+2007年はB'zとしては初の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")出演となる『[SUMMER SONIC 07](../Page/サマーソニック.md "wikilink")』に出演した。また、デビュー20年目を迎えるに当たり、アジア圏のミュージシャンとしては初めて「」に殿堂入りし、[ハリウッド](../Page/ハリウッド.md "wikilink")のギター・センターで記念セレモニーが行われた\[57\]\[58\]。16thアルバム『[ACTION](../Page/ACTION_\(アルバム\).md "wikilink")』を発売し、2008年に『B'z LIVE-GYM 2008 "ACTION"』を開催した。また、ベスト・アルバム『[B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』と[インターネット](../Page/インターネット.md "wikilink")からのリクエストによって収録曲を決定したベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』を発売し\[59\]\[60\]、5年ぶりとなるPleasureシリーズ『B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-』を開催した。
 
 ### 2009年 - 2013年
 
@@ -165,33 +165,33 @@ B'zが初めて観客の前でライブを披露したのは、1989年にTM NETW
 
 ### 2019年 - 現在
 
-2019年、21stアルバム『[NEW LOVE](https://ja.wikipedia.org/wiki/NEW_LOVE "wikilink")』発売後、『B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-』を開催し、7月6日の大阪公演で[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")通算1000回公演を達成した\[92\]\[93\]。千秋楽となる福岡公演では日本と台湾の映画館でライブビューイングを開催した\[94\]。また10年ぶりに『[SUMMER SONIC 2019](../Page/サマーソニック.md "wikilink")』に出演、日本人アーティストでは初のヘッドライナーを務めた\[95\]。
+2019年、21stアルバム『[NEW LOVE](https://ja.wikipedia.org/wiki/NEW_LOVE "wikilink")』発売後、『B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-』を開催し、7月6日の大阪公演で[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")通算1000回公演を達成した\[92\]\[93\]。千秋楽となる福岡公演では日本と台湾の映画館でライブビューイングを開催した\[94\]。また、10年ぶりに『[SUMMER SONIC 2019](../Page/サマーソニック.md "wikilink")』に出演、日本人アーティストでは初のヘッドライナーを務めた\[95\]。
 
-2020年4月13日、『B'z LIVE-GYM -At Your Home-』と題して過去にリリースした映像作品23本を5月31日までの期間限定で[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")公式チャンネルにて公開した\[96\]。
+2020年、[新型コロナウイルスの外出自粛に伴い](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")『B'z LIVE-GYM -At Your Home-』と題して、過去にリリースした映像作品23本を4月13日から5月31日までの期間限定で[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")公式チャンネルにて公開した\[96\]\[97\]。また、4月27日にYouTube公式チャンネルにメンバー2人で「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」をセッションする動画を公開し\[98\]\[99\]\[100\]、4月30日には『B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-』のサポートメンバーを加えた「HOME」のバンドセッション動画を公開した\[101\]\[102\]\[103\]。
 
 ## 評価
 
-[音楽評論家](../Page/音楽評論家.md "wikilink")の[大貫憲章](../Page/大貫憲章.md "wikilink")は、熱心なリスナーではないため印象論でしかないという前置きをした上で、「ハードロックサウンドとシャウト、稲葉の外見の良さなどによって、B'zが日本の一般人が想定するロックのイメージをわかりやすく体現しているためではないか\[97\]」と分析している。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[亀田誠治](../Page/亀田誠治.md "wikilink")によると、ヒット曲に必要な条件とする「アーティストパワー」と「楽曲のパワー」の両方を兼ね備えて安定的に売れ続けている「勝ち組安定型」の例としてB'zを挙げており\[98\]、[CDショップ](https://ja.wikipedia.org/wiki/CDショップ "wikilink")も積極的に売り出すことでさらに売上枚数が増えると述べている\[99\]。[作詞家](../Page/作詞家.md "wikilink")の[森雪之丞](../Page/森雪之丞.md "wikilink")は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ビートに](../Page/ビート_\(音楽\).md "wikilink")[日本語](../Page/日本語.md "wikilink")をどう近づけていくかという「日本語ロック」の試行錯誤において、「稲葉君が歌えば何でもロックになるんですよ。彼の歌詞は、とても四畳半的な男の意気地ない言葉が入っていても、B'zのサウンドの中で彼が歌ったら、ロックである」としており、「詞の世界として、か弱く、セコい心情を吐露していても、松本君のギターがあって、B'zの世界の中で聴くと、それがセコくないんですよ。それがロックだろうって思うんです」と述べている。[ギタリスト](../Page/ギタリスト.md "wikilink")の[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")は、「B'zはあれだけ人気なのにフォロワーがいないでしょ。テクニックがめちゃくちゃあるし、2人とも自分だけの独特なスタイルを確立しているから、マネしたくてもできないんだと思うよ」と述べている\[100\]。音楽評論家の[伊藤政則](../Page/伊藤政則.md "wikilink")は、「B'zは邦楽と洋楽の壁を少しずつ壊して今日に至っているからね」、「B'zの音楽を聴いていると、どうしてもそういう音楽も聴きたくなる。だから（邦楽と洋楽の）境界線みたいなものは壊している。今思えばこれはすごいことです」、「（松本さんや稲葉さんが影響を受けた海外アーティストやアルバムに関するエピソードが）B'zファンの音楽的な裾野を広げているという言い方もできるんじゃないかな」と述べている\[101\]。
+[音楽評論家](../Page/音楽評論家.md "wikilink")の[大貫憲章](../Page/大貫憲章.md "wikilink")は、熱心なリスナーではないため印象論でしかないという前置きをした上で、「ハードロックサウンドとシャウト、稲葉の外見の良さなどによって、B'zが日本の一般人が想定するロックのイメージをわかりやすく体現しているためではないか\[104\]」と分析している。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[亀田誠治](../Page/亀田誠治.md "wikilink")によると、ヒット曲に必要な条件とする「アーティストパワー」と「楽曲のパワー」の両方を兼ね備えて安定的に売れ続けている「勝ち組安定型」の例としてB'zを挙げており\[105\]、[CDショップ](https://ja.wikipedia.org/wiki/CDショップ "wikilink")も積極的に売り出すことでさらに売上枚数が増えると述べている\[106\]。[作詞家](../Page/作詞家.md "wikilink")の[森雪之丞](../Page/森雪之丞.md "wikilink")は[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ビートに](../Page/ビート_\(音楽\).md "wikilink")[日本語](../Page/日本語.md "wikilink")をどう近づけていくかという「日本語ロック」の試行錯誤において、「稲葉君が歌えば何でもロックになるんですよ。彼の歌詞は、とても四畳半的な男の意気地ない言葉が入っていても、B'zのサウンドの中で彼が歌ったら、ロックである」としており、「詞の世界として、か弱く、セコい心情を吐露していても、松本君のギターがあって、B'zの世界の中で聴くと、それがセコくないんですよ。それがロックだろうって思うんです」と述べている。[ギタリスト](../Page/ギタリスト.md "wikilink")の[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")は、「B'zはあれだけ人気なのにフォロワーがいないでしょ。テクニックがめちゃくちゃあるし、2人とも自分だけの独特なスタイルを確立しているから、マネしたくてもできないんだと思うよ」と述べている\[107\]。音楽評論家の[伊藤政則](../Page/伊藤政則.md "wikilink")は、「B'zは邦楽と洋楽の壁を少しずつ壊して今日に至っているからね」、「B'zの音楽を聴いていると、どうしてもそういう音楽も聴きたくなる。だから（邦楽と洋楽の）境界線みたいなものは壊している。今思えばこれはすごいことです」、「（松本さんや稲葉さんが影響を受けた海外アーティストやアルバムに関するエピソードが）B'zファンの音楽的な裾野を広げているという言い方もできるんじゃないかな」と述べている\[108\]。
 
-B'zの2人は、売上枚数やライブの動員数などが話題になることについて松本は「セールスがプレッシャーになることは全然ない」、「たとえば、“数字”っていうのは一番世間にわかりやすい。何万枚売れたとか、いくら稼いだとか。それはそれでいいんですけど、自分の中での質の向上みたいなものには終わりがない」、稲葉は「数字を気にする人たちがいるのは、それはそれで悪いことじゃないと思う。おもしろい話題の1つとしてとらえてくれればね……」と述べている。また、稲葉は「記録とか目標よりも、今は、もうちょっと違う…例えば、やったことない場所でライブをやってみたいとか、そういうことが楽しい\[102\]」と述べており、松本も「新しいアルバムを創って新しいものが生まれてくる経験とか、知らない場所でライブをやったりしたいなって思えることの方が、今は楽しみ\[103\]」と述べている。
+B'zの2人は、売上枚数やライブの動員数などが話題になることについて松本は「セールスがプレッシャーになることは全然ない」、「たとえば、“数字”っていうのは一番世間にわかりやすい。何万枚売れたとか、いくら稼いだとか。それはそれでいいんですけど、自分の中での質の向上みたいなものには終わりがない」、稲葉は「数字を気にする人たちがいるのは、それはそれで悪いことじゃないと思う。おもしろい話題の1つとしてとらえてくれればね……」と述べている。また、稲葉は「記録とか目標よりも、今は、もうちょっと違う…例えば、やったことない場所でライブをやってみたいとか、そういうことが楽しい\[109\]」と述べており、松本も「新しいアルバムを創って新しいものが生まれてくる経験とか、知らない場所でライブをやったりしたいなって思えることの方が、今は楽しみ\[110\]」と述べている。
 
 ### パクリ問題
 
-B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.wikipedia.org/wiki/パクリ "wikilink")」であるといわれている\[104\]。『[マルコポーロ](../Page/マルコポーロ_\(雑誌\).md "wikilink")』94年10月号では、8曲を例に挙げて「パクリのオンパレード」と評しており\[105\]、『音楽誌が書かないJポップ批評14』では、[メロディ](../Page/メロディ.md "wikilink")、[リフ](../Page/リフ.md "wikilink")、[アレンジなどのテーマごとに](../Page/編曲.md "wikilink")、計38曲の元ネタを明かしているとしている\[106\]。 2枚のベストアルバムの記録的大ヒットを受けて、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")で特集された際にも、「洋楽のパクリというのはよく言われていること」と紹介されていた\[107\]。
+B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.wikipedia.org/wiki/パクリ "wikilink")」であるといわれている\[111\]。『[マルコポーロ](../Page/マルコポーロ_\(雑誌\).md "wikilink")』94年10月号では、8曲を例に挙げて「パクリのオンパレード」と評しており\[112\]、『音楽誌が書かないJポップ批評14』では、[メロディ](../Page/メロディ.md "wikilink")、[リフ](../Page/リフ.md "wikilink")、[アレンジなどのテーマごとに](../Page/編曲.md "wikilink")、計38曲の元ネタを明かしているとしている\[113\]。 2枚のベストアルバムの記録的大ヒットを受けて、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")で特集された際にも、「洋楽のパクリというのはよく言われていること」と紹介されていた\[114\]。
 
-音楽ライターの夏至明および[別冊宝島](../Page/別冊宝島.md "wikilink")編集部が「B'zはファン以外からはどうみられているか」を調査した結果によると、ロックや音楽に通じている層からは「パクリ・ネタが露骨すぎ」「[ビーイング](../Page/ビーイング.md "wikilink")という出自から来る商業主義の匂いへの嫌悪」と見られているとしている\[108\]。
+音楽ライターの夏至明および[別冊宝島](../Page/別冊宝島.md "wikilink")編集部が「B'zはファン以外からはどうみられているか」を調査した結果によると、ロックや音楽に通じている層からは「パクリ・ネタが露骨すぎ」「[ビーイング](../Page/ビーイング.md "wikilink")という出自から来る商業主義の匂いへの嫌悪」と見られているとしている\[115\]。
 
-また、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")や[奥田民生](../Page/奥田民生.md "wikilink")など他のアーティストなら「リスペクト」や「オマージュ」として好意的に解釈されるのに、なぜB'zだけが叩かれるのか、という点について、様々な分析がされており、元ネタへの愛情と知識の蓄積量、元ネタを商品の「タネ」としかみなしていない創作姿勢の差であるという意見\[109\]、元ネタである[ハードロック](../Page/ハードロック.md "wikilink")に対する評価がそのままパクリの質として評価されているという意見\[110\]\[111\]、「パクリ」という行為から読み取れる思想がないという意見\[112\]、B'zのメーンリスナー層と元ネタであるハードロックが共有されないことで、「共犯関係」を築けないためであるという意見\[113\]などがある。
+また、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")や[奥田民生](../Page/奥田民生.md "wikilink")など他のアーティストなら「リスペクト」や「オマージュ」として好意的に解釈されるのに、なぜB'zだけが叩かれるのか、という点について、様々な分析がされており、元ネタへの愛情と知識の蓄積量、元ネタを商品の「タネ」としかみなしていない創作姿勢の差であるという意見\[116\]、元ネタである[ハードロック](../Page/ハードロック.md "wikilink")に対する評価がそのままパクリの質として評価されているという意見\[117\]\[118\]、「パクリ」という行為から読み取れる思想がないという意見\[119\]、B'zのメーンリスナー層と元ネタであるハードロックが共有されないことで、「共犯関係」を築けないためであるという意見\[120\]などがある。
 
-この問題についての作曲者である松本の発言として、夏至明は以下のインタビューを引用している\[114\]\[115\]。
+この問題についての作曲者である松本の発言として、夏至明は以下のインタビューを引用している\[121\]\[122\]。
 
-> 松本 「よくいるでしょ。この曲のここは[ツェッペリンだな](../Page/レッド・ツェッペリン.md "wikilink")、とかいう人。それをまるですごいことでも発見したようにいう人、いるじゃない（笑）。僕らはそういう次元ではやってないんだよね。あくまでも楽しんでやっていることだから」\[116\]
+> 松本 「よくいるでしょ。この曲のここは[ツェッペリンだな](../Page/レッド・ツェッペリン.md "wikilink")、とかいう人。それをまるですごいことでも発見したようにいう人、いるじゃない（笑）。僕らはそういう次元ではやってないんだよね。あくまでも楽しんでやっていることだから」\[123\]
 > \- 「遊び心があるわけですよね」
 > 松本 「たとえば、B'zの曲の中に「[スモーク・オン・ザ・ウォーター](../Page/スモーク・オン・ザ・ウォーター.md "wikilink")」のフレーズを入れちゃおうか、とかね」
 > \- 「でも、必ず“あれパクリだぜ”とかいうヤツがいるでしょ（笑）」
 > 松本 「いるよ（笑）。ピントがずれてるよね。ロック好きなヤツがバンドやって、そうならない方が不思議だよ。遊ぶ側のセンスだし、聞く人のセンスの問題だと思うけど」。
 
-夏至明はこの問題について、B'zだけの問題ではなく西洋の[ロックを範とする](../Page/ロック_\(音楽\).md "wikilink")[J-POP](../Page/J-POP.md "wikilink")に構造的に内包されているものであるとし、1999年の『音楽誌が書かないJポップ批評3\[117\]』にて、B'zを「全肯定」する論陣を張った。ただし2007年には、この「全肯定」が「[永遠の翼](../Page/永遠の翼_\(B'zの曲\).md "wikilink")」にみられるような保守回帰傾向に荷担してしまったかもしれない、という反省と後悔をしている\[118\]\[119\]。
+夏至明はこの問題について、B'zだけの問題ではなく西洋の[ロックを範とする](../Page/ロック_\(音楽\).md "wikilink")[J-POP](../Page/J-POP.md "wikilink")に構造的に内包されているものであるとし、1999年の『音楽誌が書かないJポップ批評3\[124\]』にて、B'zを「全肯定」する論陣を張った。ただし2007年には、この「全肯定」が「[永遠の翼](../Page/永遠の翼_\(B'zの曲\).md "wikilink")」にみられるような保守回帰傾向に荷担してしまったかもしれない、という反省と後悔をしている\[125\]\[126\]。
 
 ## 賞・記録
 
@@ -199,34 +199,34 @@ B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.
 
 **[日本有線大賞](../Page/日本有線大賞.md "wikilink")**
 
-  - 『第23回日本有線大賞』最多リクエスト歌手賞\[120\]
-  - 『第24回日本有線大賞』最多リクエスト歌手賞\[121\]
+  - 『第23回日本有線大賞』最多リクエスト歌手賞\[127\]
+  - 『第24回日本有線大賞』最多リクエスト歌手賞\[128\]
 
 **[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")**
 
-  - 『[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")』【ポップス・ロック部門】優秀アルバム賞『[WICKED BEAT](../Page/WICKED_BEAT.md "wikilink")』\[122\]
-  - 『[第33回日本レコード大賞](https://ja.wikipedia.org/wiki/第33回日本レコード大賞 "wikilink")』【ポップス・ロック部門】優秀アルバム賞『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』\[123\]
-  - 『[第34回日本レコード大賞](https://ja.wikipedia.org/wiki/第34回日本レコード大賞 "wikilink")』【ポップス・ロック部門】優秀アルバム賞『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』\[124\]
+  - 『[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")』【ポップス・ロック部門】優秀アルバム賞『[WICKED BEAT](../Page/WICKED_BEAT.md "wikilink")』\[129\]
+  - 『[第33回日本レコード大賞](https://ja.wikipedia.org/wiki/第33回日本レコード大賞 "wikilink")』【ポップス・ロック部門】優秀アルバム賞『[RISKY](../Page/RISKY_\(アルバム\).md "wikilink")』\[130\]
+  - 『[第34回日本レコード大賞](https://ja.wikipedia.org/wiki/第34回日本レコード大賞 "wikilink")』【ポップス・ロック部門】優秀アルバム賞『[IN THE LIFE](../Page/IN_THE_LIFE.md "wikilink")』\[131\]
 
 **[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")**
 
-  - 『第5回日本ゴールドディスク大賞』ベスト5アーティスト賞\[125\]
-  - 『第6回日本ゴールドディスク大賞』ベスト5アーティスト賞\[126\]、ベスト5シングル賞『[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")』\[127\]、ミュージック・ビデオ賞『[JUST ANOTHER LIFE](../Page/JUST_ANOTHER_LIFE.md "wikilink")』\[128\]
-  - 『第7回日本ゴールドディスク大賞』ベスト5アーティスト賞\[129\]、ベスト5シングル賞『[BLOWIN'](../Page/BLOWIN'.md "wikilink")』\[130\]
-  - 『第8回日本ゴールドディスク大賞』ベスト5シングル賞『[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")』\[131\]、ミュージック・ビデオ賞『[LIVE RIPPER](../Page/LIVE_RIPPER.md "wikilink")』\[132\]
-  - 『第9回日本ゴールドディスク大賞』ベスト5アーティスト賞\[133\]、ベスト5シングル賞『[Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")』\[134\]
-  - 『第10回日本ゴールドディスク大賞』ベスト5アーティスト賞\[135\]、ベスト5シングル賞『[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")』\[136\]、グランプリ・アルバム賞『[LOOSE](../Page/LOOSE.md "wikilink")』\[137\]、アルバム賞 ロック・フォーク部門（男性）『LOOSE』\[138\]、ミュージック・ビデオ賞『["BUZZ\!\!" THE MOVIE](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』\[139\]
-  - 『第12回日本ゴールドディスク大賞』ロック・アルバム・オブ・ザ・イヤー『[SURVIVE](../Page/SURVIVE.md "wikilink")』\[140\]
-  - 『第13回日本ゴールドディスク大賞』アーティスト・オブ・ザ・イヤー\[141\]、ロック・アルバム・オブ・ザ・イヤー『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』\[142\]、ソング・オブ・ザ・イヤー「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」\[143\]
-  - 『第14回日本ゴールドディスク大賞』ロック・アルバム・オブ・ザ・イヤー『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』\[144\]
-  - 『第15回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」\[145\]、ロック・アルバム・オブ・ザ・イヤー『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』\[146\]
-  - 『第17回日本ゴールドディスク大賞』ロック&ポップ・アルバム・オブ・ザ・イヤー『[GREEN](../Page/GREEN_\(B'zのアルバム\).md "wikilink")』『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』\[147\]、ミュージック・ビデオ・オブ・ザ・イヤー（長編）『[a BEAUTIFUL REEL.](https://ja.wikipedia.org/wiki/a_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜 "wikilink")』\[148\]
-  - 『第18回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」「[野性のENERGY](../Page/野性のENERGY.md "wikilink")」\[149\]、ロック&ポップ・アルバム・オブ・ザ・イヤー『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』\[150\]
-  - 『第19回日本ゴールドディスク大賞』ミュージック・ビデオ・オブ・ザ・イヤー『[Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』\[151\]
-  - 『第20回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[OCEAN](../Page/OCEAN_\(B'zの曲\).md "wikilink")」\[152\]、ロック&ポップ・アルバム・オブ・ザ・イヤー『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』\[153\]
-  - 『第23回日本ゴールドディスク大賞』ザ・ベスト10アルバム『[B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』\[154\]
-  - 『第24回日本ゴールドディスク大賞』ザ・ベスト5ソング「[イチブトゼンブ](https://ja.wikipedia.org/wiki/イチブトゼンブ "wikilink")」\[155\]
-  - 『第28回日本ゴールドディスク大賞』ベスト5アルバム『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』\[156\]
+  - 『第5回日本ゴールドディスク大賞』ベスト5アーティスト賞\[132\]
+  - 『第6回日本ゴールドディスク大賞』ベスト5アーティスト賞\[133\]、ベスト5シングル賞『[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")』\[134\]、ミュージック・ビデオ賞『[JUST ANOTHER LIFE](../Page/JUST_ANOTHER_LIFE.md "wikilink")』\[135\]
+  - 『第7回日本ゴールドディスク大賞』ベスト5アーティスト賞\[136\]、ベスト5シングル賞『[BLOWIN'](../Page/BLOWIN'.md "wikilink")』\[137\]
+  - 『第8回日本ゴールドディスク大賞』ベスト5シングル賞『[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")』\[138\]、ミュージック・ビデオ賞『[LIVE RIPPER](../Page/LIVE_RIPPER.md "wikilink")』\[139\]
+  - 『第9回日本ゴールドディスク大賞』ベスト5アーティスト賞\[140\]、ベスト5シングル賞『[Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")』\[141\]
+  - 『第10回日本ゴールドディスク大賞』ベスト5アーティスト賞\[142\]、ベスト5シングル賞『[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")』\[143\]、グランプリ・アルバム賞『[LOOSE](../Page/LOOSE.md "wikilink")』\[144\]、アルバム賞 ロック・フォーク部門（男性）『LOOSE』\[145\]、ミュージック・ビデオ賞『["BUZZ\!\!" THE MOVIE](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』\[146\]
+  - 『第12回日本ゴールドディスク大賞』ロック・アルバム・オブ・ザ・イヤー『[SURVIVE](../Page/SURVIVE.md "wikilink")』\[147\]
+  - 『第13回日本ゴールドディスク大賞』アーティスト・オブ・ザ・イヤー\[148\]、ロック・アルバム・オブ・ザ・イヤー『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』\[149\]、ソング・オブ・ザ・イヤー「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」\[150\]
+  - 『第14回日本ゴールドディスク大賞』ロック・アルバム・オブ・ザ・イヤー『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』\[151\]
+  - 『第15回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」\[152\]、ロック・アルバム・オブ・ザ・イヤー『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』\[153\]
+  - 『第17回日本ゴールドディスク大賞』ロック&ポップ・アルバム・オブ・ザ・イヤー『[GREEN](../Page/GREEN_\(B'zのアルバム\).md "wikilink")』『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』\[154\]、ミュージック・ビデオ・オブ・ザ・イヤー（長編）『[a BEAUTIFUL REEL.](https://ja.wikipedia.org/wiki/a_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜 "wikilink")』\[155\]
+  - 『第18回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")」「[野性のENERGY](../Page/野性のENERGY.md "wikilink")」\[156\]、ロック&ポップ・アルバム・オブ・ザ・イヤー『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』\[157\]
+  - 『第19回日本ゴールドディスク大賞』ミュージック・ビデオ・オブ・ザ・イヤー『[Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")』\[158\]
+  - 『第20回日本ゴールドディスク大賞』ソング・オブ・ザ・イヤー「[OCEAN](../Page/OCEAN_\(B'zの曲\).md "wikilink")」\[159\]、ロック&ポップ・アルバム・オブ・ザ・イヤー『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』\[160\]
+  - 『第23回日本ゴールドディスク大賞』ザ・ベスト10アルバム『[B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")』\[161\]
+  - 『第24回日本ゴールドディスク大賞』ザ・ベスト5ソング「[イチブトゼンブ](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」\[162\]
+  - 『第28回日本ゴールドディスク大賞』ベスト5アルバム『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』\[163\]
 
 **[ワールド・ミュージック・アワード](https://ja.wikipedia.org/wiki/ワールド・ミュージック・アワード "wikilink")**
 
@@ -234,60 +234,60 @@ B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.
 
 **[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink")**
 
-  - 『第24回ザテレビジョンドラマアカデミー賞』ドラマソング賞「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」（[TBS系](../Page/TBS系列.md "wikilink")[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")『[Beautiful Life〜ふたりでいた日々〜](../Page/ビューティフルライフ.md "wikilink")』主題歌）\[157\]
+  - 『第24回ザテレビジョンドラマアカデミー賞』ドラマソング賞「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」（[TBS系](../Page/TBS系列.md "wikilink")[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")『[Beautiful Life〜ふたりでいた日々〜](../Page/ビューティフルライフ.md "wikilink")』主題歌）\[164\]
 
 **[オリコン](../Page/オリコン.md "wikilink")**
 
-  - 『WE LOVE MUSIC AWARDS』\[158\]
+  - 『WE LOVE MUSIC AWARDS』\[165\]
 
 **[ビルボード・ジャパン・ミュージック・アワード](https://ja.wikipedia.org/wiki/ビルボード・ジャパン・ミュージック・アワード "wikilink")**
 
-  - 『Billboard JAPAN Music Awards 2009』Hot 100 of the Year 2009「[イチブトゼンブ](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」\[159\]
+  - 『Billboard JAPAN Music Awards 2009』Hot 100 of the Year 2009「[イチブトゼンブ](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」\[166\]
 
 ### オリコン記録
 
-  - アーティスト・トータル・セールス（CD総売上枚数）：8,262.4万枚（歴代1位）\[160\]
-      - 平成30年ランキング　アーティスト別セールス（CD総売上枚数）：8,262.4万枚（総合1位）\[161\]
+  - アーティスト・トータル・セールス（CD総売上枚数）：8,262.4万枚（歴代1位）\[167\]
+      - 平成30年ランキング　アーティスト別セールス（CD総売上枚数）：8,262.4万枚（総合1位）\[168\]
 
 **シングル**
 
-  - シングル総売上枚数：約3,596.9万枚（歴代2位）\[162\]\[163\]
-  - シングル1位獲得作品数：49作（歴代2位）\[164\]
-  - シングル連続1位獲得作品数：49作（歴代1位・継続中）\[165\]
-  - シングル連続初登場1位獲得作品数：49作（歴代1位・継続中）\[166\]
-  - シングル1位獲得週数：66週（歴代1位）\[167\]
-  - シングル連続1位獲得年数：20年（歴代2位）\[168\]
+  - シングル総売上枚数：約3,596.9万枚（歴代2位）\[169\]\[170\]
+  - シングル1位獲得作品数：49作（歴代2位）\[171\]
+  - シングル連続1位獲得作品数：49作（歴代1位・継続中）\[172\]
+  - シングル連続初登場1位獲得作品数：49作（歴代1位・継続中）\[173\]
+  - シングル1位獲得週数：66週（歴代1位）\[174\]
+  - シングル連続1位獲得年数：20年（歴代2位）\[175\]
   - シングルTOP10獲得作品数：50作（歴代5位）
   - シングル連続TOP10獲得作品数：50作（歴代3位タイ・継続中）
   - シングル連続TOP10獲得年数：20年（歴代3位タイ）
-  - シングルミリオン獲得作品数：15作（歴代2位）\[169\]
-  - シングル連続ミリオン獲得作品数：13作（歴代2位）\[170\]
-  - シングル連続ミリオン獲得年数：7年（歴代1位）\[171\]
-  - 同一アーティストによる週間シングルチャートTOP10ランクイン作品数：9作（歴代1位）\[172\]\[173\]
+  - シングルミリオン獲得作品数：15作（歴代2位）\[176\]
+  - シングル連続ミリオン獲得作品数：13作（歴代2位）\[177\]
+  - シングル連続ミリオン獲得年数：7年（歴代1位）\[178\]
+  - 同一アーティストによる週間シングルチャートTOP10ランクイン作品数：9作（歴代1位）\[179\]\[180\]
 
 **アルバム**
 
-  - アルバム総売上枚数：約4,687.2万枚（歴代1位）\[174\]
-  - アルバム1位獲得作品数：29作（歴代1位）\[175\]
-  - アルバム連続首位獲得年数：8年（1996年から2003年まで。男性アーティスト部門歴代3位）\[176\]
-  - アルバムミリオン獲得作品数：19作（歴代1位）\[177\]
+  - アルバム総売上枚数：約4,687.2万枚（歴代1位）\[181\]
+  - アルバム1位獲得作品数：29作（歴代1位）\[182\]
+  - アルバム連続首位獲得年数：8年（1996年から2003年まで。男性アーティスト部門歴代3位）\[183\]
+  - アルバムミリオン獲得作品数：19作（歴代1位）\[184\]
   - アルバム連続ミリオン獲得作品数：8作（歴代2位、歴代1位は[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の9作）
-  - アルバム初週ミリオン獲得作品数：10作（歴代1位）\[178\]
+  - アルバム初週ミリオン獲得作品数：10作（歴代1位）\[185\]
 
 **映像作品**
 
   - 音楽映像作品による年間音楽ビデオチャート1位獲得作品数：8作（[VHS](../Page/VHS.md "wikilink")：5作、[DVD](../Page/DVD.md "wikilink")：1作、[Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink")：2作、歴代1位）
   - 音楽映像作品による年間総合ビデオチャート1位獲得作品数：5作（歴代1位）
   - 音楽VHS作品売上本数：30.1万本（歴代3位）
-  - 音楽DVD作品でのDVD総合ランキング1位獲得作品数：11作\[179\]
+  - 音楽DVD作品でのDVD総合ランキング1位獲得作品数：11作\[186\]
   - 音楽DVD作品でのDVD総合ランキング1位連続獲得作品数：8作（歴代1位）
-  - 音楽Blu-ray Disc作品年間ランキング1位獲得作品数：2作（歴代1位）\[180\]
-  - 音楽Blu-ray Disc作品でのBlu-ray Disc総合ランキング1位獲得作品数：6作\[181\]
+  - 音楽Blu-ray Disc作品年間ランキング1位獲得作品数：2作（歴代1位）\[187\]
+  - 音楽Blu-ray Disc作品でのBlu-ray Disc総合ランキング1位獲得作品数：6作\[188\]
 
 ### その他
 
-  - 「」殿堂入り\[182\]\[183\]
-  - [ギネス世界記録](../Page/ギネス世界記録.md "wikilink")「日本でもっともアルバムを売り上げたアーティスト」\[184\]\[185\]
+  - 「」殿堂入り\[189\]\[190\]
+  - [ギネス世界記録](../Page/ギネス世界記録.md "wikilink")「日本でもっともアルバムを売り上げたアーティスト」\[191\]\[192\]
 
 ## ディスコグラフィ
 
@@ -370,7 +370,7 @@ B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.
 13. [BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")（2003年）
 14. [THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")（2005年）
 15. [MONSTER](../Page/MONSTER_\(アルバム\).md "wikilink")（2006年）
-16. [ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")（2007年）
+16. [ACTION](../Page/ACTION_\(アルバム\).md "wikilink")（2007年）
 17. [MAGIC](https://ja.wikipedia.org/wiki/MAGIC_\(B'zのアルバム\) "wikilink")（2009年）
 18. [C'mon](https://ja.wikipedia.org/wiki/C'mon "wikilink")（2011年）
 19. [EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink")（2015年）
@@ -418,7 +418,7 @@ B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.
 
 ### Z'b
 
-Z'b（ズービ）とは、『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前に肩慣らしと遊び心からつけたバンド名であり、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[カバー](../Page/カバー.md "wikilink")を中心に日本国内4ヵ所の[ライブハウス](../Page/ライブハウス.md "wikilink")で『Z'b LIVE HOUSE TOUR』を開催した。その後はライブの1コーナーにZ'bのメンバーが登場することもあったが、ファンからの「Z'bはもうやらないのか」という質問に対して松本は「多分やらないと思います」と回答している\[186\]。
+Z'b（ズービ）とは、『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前に肩慣らしと遊び心からつけたバンド名であり、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[カバー](../Page/カバー.md "wikilink")を中心に日本国内4ヵ所の[ライブハウス](../Page/ライブハウス.md "wikilink")で『Z'b LIVE HOUSE TOUR』を開催した。その後はライブの1コーナーにZ'bのメンバーが登場することもあったが、ファンからの「Z'bはもうやらないのか」という質問に対して松本は「多分やらないと思います」と回答している\[193\]。
 
 | 人名                          | パート                                                   | 演じた人物                                                 |
 | --------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -446,22 +446,22 @@ Z'bメンバー
   - [The MUSIC 272](../Page/The_MUSIC_272.md "wikilink")『B'z LIVE-GYM 2002 "Rock n' California Roll" LIVE\&DOCUMENT』（2002年12月21日）
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『B'z 15周年特別番組「IT'S SHOWTIME\!\! 〜とどけ！世界水泳バルセロナ2003〜」』（2003年6月27日）
   - BSデジタル5局 開局3周年共同特別番組『B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA" LIVE\&DOCUMENT』（2003年12月23日）
-  - [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")『NHKスペシャル「メガヒットの秘密 〜20年目のB'z〜」』（2008年10月6日\[187\]、2018年9月17日\[188\]）
+  - [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")『NHKスペシャル「メガヒットの秘密 〜20年目のB'z〜」』（2008年10月6日\[194\]、2018年9月17日\[195\]）
   - [NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『RUN 〜B'z・20年の軌跡〜』（2009年1月1日）
-  - [WOWOW](../Page/WOWOW.md "wikilink")『B'z 25th Anniversary Special「Only Two」』（2012年12月9日）\[189\]
-  - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")『B'z 25th Anniversary DIGEST 1988-2013』（2013年6月8日）\[190\]\[191\]
-  - B'z Official YouTube Channel『B'z 25th Anniversary YouTube Special Program』（2013年6月16日、2013年6月19日 -）\[192\]\[193\]
-  - WOWOW『WOWOW×B'z スペシャル番組』（2018年4月11日、5月26日、6月30日、7月21日、8月18日）\[194\]
-  - WOWOW『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』（2018年11月24日）\[195\]
+  - [WOWOW](../Page/WOWOW.md "wikilink")『B'z 25th Anniversary Special「Only Two」』（2012年12月9日）\[196\]
+  - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")『B'z 25th Anniversary DIGEST 1988-2013』（2013年6月8日）\[197\]\[198\]
+  - B'z Official YouTube Channel『B'z 25th Anniversary YouTube Special Program』（2013年6月16日、2013年6月19日 -）\[199\]\[200\]
+  - WOWOW『WOWOW×B'z スペシャル番組』（2018年4月11日、5月26日、6月30日、7月21日、8月18日）\[201\]
+  - WOWOW『B'z LIVE-GYM Pleasure 2018 -HINOTORI-』（2018年11月24日）\[202\]
 
 **CM**
 
   - [ペプシコーラ](../Page/ペプシコーラ.md "wikilink")「ペプシネックス」
-      - エフェクト篇・荒野篇（2011年3月1日 - ）\[196\]
-      - People篇（2011年7月16日 - ）\[197\]
-      - Xmas Lover篇（2011年12月3日 - ）\[198\]
-      - Tshirts Live篇（2012年2月28日 - ）\[199\]
-      - Summer Line篇（2012年7月14日 - ）\[200\]
+      - エフェクト篇・荒野篇（2011年3月1日 - ）\[203\]
+      - People篇（2011年7月16日 - ）\[204\]
+      - Xmas Lover篇（2011年12月3日 - ）\[205\]
+      - Tshirts Live篇（2012年2月28日 - ）\[206\]
+      - Summer Line篇（2012年7月14日 - ）\[207\]
 
 ## タイアップ一覧
 
@@ -491,12 +491,12 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BE_THERE.md" title="wikilink">BE THERE</a></p></td>
-<td><p>テレビ朝日系『<a href="https://ja.wikipedia.org/wiki/水曜スペシャル#水曜スーパーキャスト" title="wikilink">水曜スーパーキャスト</a>』エンディングテーマ[201]</p></td>
+<td><p>テレビ朝日系『<a href="https://ja.wikipedia.org/wiki/水曜スペシャル#水曜スーパーキャスト" title="wikilink">水曜スーパーキャスト</a>』エンディングテーマ[208]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/太陽のKomachi_Angel.md" title="wikilink">太陽のKomachi Angel</a></p></td>
-<td><p><a href="../Page/三貴.md" title="wikilink">三貴</a>「カメリアダイヤモンド」イメージソング[202][203]</p></td>
+<td><p><a href="../Page/三貴.md" title="wikilink">三貴</a>「カメリアダイヤモンド」イメージソング[209][210]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -506,7 +506,7 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/愛しい人よGood_Night....md" title="wikilink">愛しい人よGood Night...</a></p></td>
-<td><p>テレビ朝日系ドラマ『<a href="../Page/代表取締役刑事.md" title="wikilink">代表取締役刑事</a>』エンディングテーマ[204]</p></td>
+<td><p>テレビ朝日系ドラマ『<a href="../Page/代表取締役刑事.md" title="wikilink">代表取締役刑事</a>』エンディングテーマ[211]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -522,11 +522,11 @@ Z'bメンバー
 <tr class="even">
 <td><p>1991年</p></td>
 <td><p><a href="../Page/LADY_NAVIGATION.md" title="wikilink">LADY NAVIGATION</a></p></td>
-<td><p><a href="../Page/カネボウ化粧品.md" title="wikilink">カネボウ化粧品</a> '91夏のイメージソング[205]</p></td>
+<td><p><a href="../Page/カネボウ化粧品.md" title="wikilink">カネボウ化粧品</a> '91夏のイメージソング[212]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ALONE_(B&#39;zの曲).md" title="wikilink">ALONE</a></p></td>
-<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・フジテレビ系ドラマ『<a href="../Page/ホテルウーマン.md" title="wikilink">ホテルウーマン</a>』主題歌[206]</p></td>
+<td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・フジテレビ系ドラマ『<a href="../Page/ホテルウーマン.md" title="wikilink">ホテルウーマン</a>』主題歌[213]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -536,7 +536,7 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/BLOWIN&#39;.md" title="wikilink">BLOWIN'</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルビー" title="wikilink">カルビー</a>「<a href="../Page/ポテトチップス.md" title="wikilink">ポテトチップス</a>」<a href="../Page/コマーシャルソング.md" title="wikilink">CFソング</a>[207]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カルビー" title="wikilink">カルビー</a>「<a href="../Page/ポテトチップス.md" title="wikilink">ポテトチップス</a>」<a href="../Page/コマーシャルソング.md" title="wikilink">CFソング</a>[214]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -547,36 +547,36 @@ Z'bメンバー
 <tr class="odd">
 <td><p>1993年</p></td>
 <td><p><a href="../Page/愛のままにわがままに_僕は君だけを傷つけない.md" title="wikilink">愛のままにわがままに 僕は君だけを傷つけない</a></p></td>
-<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ開局</a>40年記念ドラマ『<a href="https://ja.wikipedia.org/wiki/西遊記_(1993年のテレビドラマ)" title="wikilink">西遊記</a>』主題歌[208]</p></td>
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ開局</a>40年記念ドラマ『<a href="https://ja.wikipedia.org/wiki/西遊記_(1993年のテレビドラマ)" title="wikilink">西遊記</a>』主題歌[215]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/裸足の女神.md" title="wikilink">裸足の女神</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ</a>「<a href="../Page/トヨタ・カローラレビン.md" title="wikilink">カローラ・レビン</a>」CFソング[209]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ</a>「<a href="../Page/トヨタ・カローラレビン.md" title="wikilink">カローラ・レビン</a>」CFソング[216]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/Don&#39;t_Leave_Me.md" title="wikilink">Don't Leave Me</a></p></td>
-<td><p>テレビ朝日系<a href="../Page/木曜ドラマ_(テレビ朝日).md" title="wikilink">木曜ドラマ</a>『<a href="../Page/新空港物語.md" title="wikilink">新空港物語</a>』主題歌[210]</p></td>
+<td><p>テレビ朝日系<a href="../Page/木曜ドラマ_(テレビ朝日).md" title="wikilink">木曜ドラマ</a>『<a href="../Page/新空港物語.md" title="wikilink">新空港物語</a>』主題歌[217]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MOTEL_(B&#39;zの曲).md" title="wikilink">MOTEL</a></p></td>
-<td><p>三貴「ブティックJOY」CFイメージソング[211]</p></td>
+<td><p>三貴「ブティックJOY」CFイメージソング[218]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1995年</p></td>
 <td><p><a href="../Page/ねがい_(B&#39;zの曲).md" title="wikilink">ねがい</a></p></td>
-<td><p>全国25局ネット『<a href="../Page/J-ROCK_ARTIST_COUNT_DOWN_50.md" title="wikilink">J-ROCK ARTIST COUNT DOWN 50</a>』エンディングテーマ[212]</p></td>
+<td><p>全国25局ネット『<a href="../Page/J-ROCK_ARTIST_COUNT_DOWN_50.md" title="wikilink">J-ROCK ARTIST COUNT DOWN 50</a>』エンディングテーマ[219]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/love_me,_I_love_you" title="wikilink">love me, I love you</a></p></td>
-<td><p>テレビ朝日系木曜ドラマ『<a href="../Page/外科医柊又三郎.md" title="wikilink">外科医柊又三郎</a>』主題歌[213]</p></td>
+<td><p>テレビ朝日系木曜ドラマ『<a href="../Page/外科医柊又三郎.md" title="wikilink">外科医柊又三郎</a>』主題歌[220]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/LOVE_PHANTOM.md" title="wikilink">LOVE PHANTOM</a></p></td>
-<td><p>テレビ朝日系ドラマ『<a href="https://ja.wikipedia.org/wiki/Xファイル" title="wikilink">X-FILE</a>』主題歌[214]</p></td>
+<td><p>テレビ朝日系ドラマ『<a href="https://ja.wikipedia.org/wiki/Xファイル" title="wikilink">X-FILE</a>』主題歌[221]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -587,16 +587,16 @@ Z'bメンバー
 <tr class="odd">
 <td><p>1996年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミエナイチカラ_〜INVISIBLE_ONE〜/MOVE" title="wikilink">ミエナイチカラ 〜INVISIBLE ONE〜</a></p></td>
-<td><p>テレビ朝日系アニメ『<a href="../Page/地獄先生ぬ〜べ〜.md" title="wikilink">地獄先生ぬ〜べ〜</a>』エンディングテーマ[215]</p></td>
+<td><p>テレビ朝日系アニメ『<a href="../Page/地獄先生ぬ〜べ〜.md" title="wikilink">地獄先生ぬ〜べ〜</a>』エンディングテーマ[222]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミエナイチカラ_〜INVISIBLE_ONE〜/MOVE" title="wikilink">MOVE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベネッセコーポレーション" title="wikilink">ベネッセコーポレーション</a>「<a href="https://ja.wikipedia.org/wiki/進研ゼミ中学講座" title="wikilink">進研ゼミ中学講座</a>」CMソング[216]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ベネッセコーポレーション" title="wikilink">ベネッセコーポレーション</a>「<a href="https://ja.wikipedia.org/wiki/進研ゼミ中学講座" title="wikilink">進研ゼミ中学講座</a>」CMソング[223]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Real_Thing_Shakes.md" title="wikilink">Real Thing Shakes</a></p></td>
-<td><p>日本テレビ系ドラマ『<a href="../Page/俺たちに気をつけろ。.md" title="wikilink">俺たちに気をつけろ。</a>』主題歌[217]</p></td>
+<td><p>日本テレビ系ドラマ『<a href="../Page/俺たちに気をつけろ。.md" title="wikilink">俺たちに気をつけろ。</a>』主題歌[224]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -607,7 +607,7 @@ Z'bメンバー
 <tr class="odd">
 <td><p>1997年</p></td>
 <td><p><a href="../Page/FIREBALL_(B&#39;zの曲).md" title="wikilink">FIREBALL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/資生堂" title="wikilink">資生堂</a>「<a href="../Page/ピエヌ.md" title="wikilink">ピエヌ</a>」CMソング[218]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/資生堂" title="wikilink">資生堂</a>「<a href="../Page/ピエヌ.md" title="wikilink">ピエヌ</a>」CMソング[225]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FIREBALL_(B&#39;zの曲).md" title="wikilink">哀しきdreamer</a></p></td>
@@ -621,12 +621,12 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Calling_(B&#39;zの曲).md" title="wikilink">Calling</a></p></td>
-<td><p>テレビ朝日系ドラマ『<a href="../Page/ガラスの仮面.md" title="wikilink">ガラスの仮面</a>』主題歌[219]</p></td>
+<td><p>テレビ朝日系ドラマ『<a href="../Page/ガラスの仮面.md" title="wikilink">ガラスの仮面</a>』主題歌[226]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Liar!_Liar!.md" title="wikilink">Liar! Liar!</a></p></td>
-<td><p><a href="../Page/スカパー!プレミアムサービス.md" title="wikilink">PerfecTV! ch.199</a>『<a href="../Page/The_MUSIC_272.md" title="wikilink">MUSIC FREAK TV</a>』CMソング[220]</p></td>
+<td><p><a href="../Page/スカパー!プレミアムサービス.md" title="wikilink">PerfecTV! ch.199</a>『<a href="../Page/The_MUSIC_272.md" title="wikilink">MUSIC FREAK TV</a>』CMソング[227]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -642,7 +642,7 @@ Z'bメンバー
 <tr class="even">
 <td><p>1998年</p></td>
 <td><p><a href="../Page/さまよえる蒼い弾丸.md" title="wikilink">さまよえる蒼い弾丸</a></p></td>
-<td><p><a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a>「<a href="../Page/ポカリスエット.md" title="wikilink">ポカリスエット</a>」CMソング[221]</p></td>
+<td><p><a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a>「<a href="../Page/ポカリスエット.md" title="wikilink">ポカリスエット</a>」CMソング[228]</p></td>
 </tr>
 <tr class="odd">
 <td><p>『J-ROCK ARTIST BEST 50』エンディングテーマ</p></td>
@@ -661,17 +661,17 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="../Page/さまよえる蒼い弾丸.md" title="wikilink">Hi</a></p></td>
-<td><p>フジテレビ系『<a href="../Page/フォーミュラ・ニッポン.md" title="wikilink">Fomurla Nippon</a>』テーマソング[222]</p></td>
+<td><p>フジテレビ系『<a href="../Page/フォーミュラ・ニッポン.md" title="wikilink">Fomurla Nippon</a>』テーマソング[229]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/HOME_(B&#39;zの曲).md" title="wikilink">The Wild Wind</a></p></td>
-<td><p><a href="../Page/東映.md" title="wikilink">東映</a>・<a href="../Page/アスミック・エース.md" title="wikilink">アスミック・エース</a>映画『<a href="https://ja.wikipedia.org/wiki/不夜城_(小説)" title="wikilink">不夜城</a>』主題歌[223]</p></td>
+<td><p><a href="../Page/東映.md" title="wikilink">東映</a>・<a href="../Page/アスミック・エース.md" title="wikilink">アスミック・エース</a>映画『<a href="https://ja.wikipedia.org/wiki/不夜城_(小説)" title="wikilink">不夜城</a>』主題歌[230]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/HOME_(B&#39;zの曲).md" title="wikilink">HOME</a></p></td>
-<td><p><a href="../Page/角川書店.md" title="wikilink">角川文庫CMソング</a>[224]</p></td>
+<td><p><a href="../Page/角川書店.md" title="wikilink">角川文庫CMソング</a>[231]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -687,11 +687,11 @@ Z'bメンバー
 <tr class="odd">
 <td><p>1999年</p></td>
 <td><p><a href="../Page/ギリギリchop.md" title="wikilink">ONE</a></p></td>
-<td><p>東宝系映画『<a href="../Page/名探偵コナン_世紀末の魔術師.md" title="wikilink">名探偵コナン 世紀末の魔術師</a>』主題歌[225]</p></td>
+<td><p>東宝系映画『<a href="../Page/名探偵コナン_世紀末の魔術師.md" title="wikilink">名探偵コナン 世紀末の魔術師</a>』主題歌[232]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ギリギリchop.md" title="wikilink">ギリギリchop</a></p></td>
-<td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>・日本テレビ系アニメ『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』オープニングテーマ[226]</p></td>
+<td><p><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>・日本テレビ系アニメ『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』オープニングテーマ[233]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -707,7 +707,7 @@ Z'bメンバー
 <tr class="odd">
 <td><p>2000年</p></td>
 <td><p><a href="../Page/今夜月の見える丘に.md" title="wikilink">今夜月の見える丘に</a></p></td>
-<td><p>TBS系<a href="https://ja.wikipedia.org/wiki/日曜劇場" title="wikilink">東芝日曜劇場</a>『<a href="../Page/ビューティフルライフ.md" title="wikilink">Beautiful Life～ふたりでいた日々～</a>』主題歌[227]</p></td>
+<td><p>TBS系<a href="https://ja.wikipedia.org/wiki/日曜劇場" title="wikilink">東芝日曜劇場</a>『<a href="../Page/ビューティフルライフ.md" title="wikilink">Beautiful Life～ふたりでいた日々～</a>』主題歌[234]</p></td>
 </tr>
 <tr class="even">
 <td><p>F・E・A・R</p></td>
@@ -716,23 +716,23 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/May_(B&#39;zの曲).md" title="wikilink">You pray,I stay</a></p></td>
-<td><p><a href="../Page/サントリー.md" title="wikilink">サントリー</a>「スーパーチューハイ」CMソング[228]</p></td>
+<td><p><a href="../Page/サントリー.md" title="wikilink">サントリー</a>「スーパーチューハイ」CMソング[235]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/juice_(B&#39;zの曲)" title="wikilink">juice</a></p></td>
-<td><p>テレビ朝日系『<a href="../Page/おネプ!.md" title="wikilink">おネプ!</a>』エンディングテーマ[229]</p></td>
+<td><p>テレビ朝日系『<a href="../Page/おネプ!.md" title="wikilink">おネプ!</a>』エンディングテーマ[236]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/RING_(B&#39;zの曲).md" title="wikilink">RING</a></p></td>
-<td><p>読売テレビ・日本テレビ系ドラマ『<a href="../Page/明日を抱きしめて.md" title="wikilink">明日を抱きしめて</a>』主題歌[230]</p></td>
+<td><p>読売テレビ・日本テレビ系ドラマ『<a href="../Page/明日を抱きしめて.md" title="wikilink">明日を抱きしめて</a>』主題歌[237]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2001年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a></p></td>
-<td><p>『<a href="../Page/2001年世界水泳選手権.md" title="wikilink">世界水泳福岡2001</a>』大会公式テーマソング[231]</p></td>
+<td><p>『<a href="../Page/2001年世界水泳選手権.md" title="wikilink">世界水泳福岡2001</a>』大会公式テーマソング[238]</p></td>
 </tr>
 <tr class="odd">
 <td><p>[[ultra_soul|スイマーよ2001</p></td>
@@ -746,17 +746,17 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/GOLD_(B&#39;zの曲).md" title="wikilink">GOLD</a></p></td>
-<td><p>『世界水泳福岡2001』大会公式テーマソング[232]</p></td>
+<td><p>『世界水泳福岡2001』大会公式テーマソング[239]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2002年</p></td>
 <td><p><a href="../Page/GREEN_(B&#39;zのアルバム).md" title="wikilink">SIGNAL</a></p></td>
-<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">コナミ</a>『<a href="../Page/ときめきメモリアル_Girl&#39;s_Side.md" title="wikilink">ときめきメモリアル Girl's Side</a>』オープニングテーマ[233]</p></td>
+<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">コナミ</a>『<a href="../Page/ときめきメモリアル_Girl&#39;s_Side.md" title="wikilink">ときめきメモリアル Girl's Side</a>』オープニングテーマ[240]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/GREEN_(B&#39;zのアルバム).md" title="wikilink">美しき世界</a></p></td>
-<td><p>コナミ『ときめきメモリアル Girl's Side』エンディングテーマ[234]</p></td>
+<td><p>コナミ『ときめきメモリアル Girl's Side』エンディングテーマ[241]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -766,11 +766,11 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/熱き鼓動の果て.md" title="wikilink">熱き鼓動の果て</a></p></td>
-<td><p>『<a href="../Page/TV_ASAHI_NETWORK_SPORTS.md" title="wikilink">TV ASAHI NETWORK SPORTS 2002</a>』テーマソング[235]</p></td>
+<td><p>『<a href="../Page/TV_ASAHI_NETWORK_SPORTS.md" title="wikilink">TV ASAHI NETWORK SPORTS 2002</a>』テーマソング[242]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>『<a href="https://ja.wikipedia.org/wiki/2002年パンパシフィック水泳選手権" title="wikilink">パンパシ水泳横浜2002</a>』大会公式テーマソング[236]</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/2002年パンパシフィック水泳選手権" title="wikilink">パンパシ水泳横浜2002</a>』大会公式テーマソング[243]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -796,7 +796,7 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/野性のENERGY.md" title="wikilink">野性のENERGY</a></p></td>
-<td><p>『TV ASAHI NETWORK SPORTS 2003』テーマソング[237]</p></td>
+<td><p>『TV ASAHI NETWORK SPORTS 2003』テーマソング[244]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -822,11 +822,11 @@ Z'bメンバー
 <tr class="even">
 <td><p>2004年</p></td>
 <td><p><a href="../Page/BANZAI_(B&#39;zの曲).md" title="wikilink">BANZAI</a></p></td>
-<td><p>アサヒビール「スーパードライ」CMソング[238]</p></td>
+<td><p>アサヒビール「スーパードライ」CMソング[245]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ARIGATO_(B&#39;zの曲).md" title="wikilink">ARIGATO</a></p></td>
-<td><p>『TV ASAHI NETWORK SPORTS 2004』テーマソング[239]</p></td>
+<td><p>『TV ASAHI NETWORK SPORTS 2004』テーマソング[246]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -840,7 +840,7 @@ Z'bメンバー
 <td></td>
 </tr>
 <tr class="even">
-<td><p>いつかのメリークリスマス アンプラグド ver.[240]</p></td>
+<td><p>いつかのメリークリスマス アンプラグド ver.[247]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -866,7 +866,7 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/OCEAN_(B&#39;zの曲).md" title="wikilink">OCEAN</a></p></td>
-<td><p>フジテレビ系火曜9時ドラマ『<a href="https://ja.wikipedia.org/wiki/海猿#テレビドラマ" title="wikilink">海猿 UMIZARU EVOLUTION</a>』主題歌[241]</p></td>
+<td><p>フジテレビ系火曜9時ドラマ『<a href="https://ja.wikipedia.org/wiki/海猿#テレビドラマ" title="wikilink">海猿 UMIZARU EVOLUTION</a>』主題歌[248]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -882,21 +882,21 @@ Z'bメンバー
 <tr class="even">
 <td><p>2006年</p></td>
 <td><p><a href="../Page/衝動_(B&#39;zの曲).md" title="wikilink">衝動</a></p></td>
-<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[242]</p></td>
+<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[249]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/衝動_(B&#39;zの曲).md" title="wikilink">結晶</a></p></td>
-<td><p>日本テレビ系<a href="../Page/土曜ドラマ_(日本テレビ).md" title="wikilink">土曜ドラマ</a>『<a href="../Page/喰いタン_(テレビドラマ).md" title="wikilink">喰いタン</a>』主題歌[243]</p></td>
+<td><p>日本テレビ系<a href="../Page/土曜ドラマ_(日本テレビ).md" title="wikilink">土曜ドラマ</a>『<a href="../Page/喰いタン_(テレビドラマ).md" title="wikilink">喰いタン</a>』主題歌[250]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ゆるぎないものひとつ.md" title="wikilink">ゆるぎないものひとつ</a></p></td>
-<td><p>東宝系映画『<a href="../Page/名探偵コナン_探偵たちの鎮魂歌.md" title="wikilink">名探偵コナン 探偵たちの鎮魂歌</a>』主題歌[244]</p></td>
+<td><p>東宝系映画『<a href="../Page/名探偵コナン_探偵たちの鎮魂歌.md" title="wikilink">名探偵コナン 探偵たちの鎮魂歌</a>』主題歌[251]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ゆるぎないものひとつ.md" title="wikilink">ピエロ</a></p></td>
-<td><p><a href="../Page/ドワンゴ.md" title="wikilink">ドワンゴ</a>「<a href="https://ja.wikipedia.org/wiki/いろメロミックス" title="wikilink">いろメロミックス</a>」CMソング[245]</p></td>
+<td><p><a href="../Page/ドワンゴ.md" title="wikilink">ドワンゴ</a>「<a href="https://ja.wikipedia.org/wiki/いろメロミックス" title="wikilink">いろメロミックス</a>」CMソング[252]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -907,11 +907,11 @@ Z'bメンバー
 <tr class="odd">
 <td><p>2007年</p></td>
 <td><p><a href="../Page/永遠の翼_(B&#39;zの曲).md" title="wikilink">永遠の翼</a></p></td>
-<td><p>東映系映画『<a href="../Page/俺は、君のためにこそ死ににいく.md" title="wikilink">俺は、君のためにこそ死ににいく</a>』主題歌[246][247]</p></td>
+<td><p>東映系映画『<a href="../Page/俺は、君のためにこそ死ににいく.md" title="wikilink">俺は、君のためにこそ死ににいく</a>』主題歌[253][254]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/永遠の翼_(B&#39;zの曲).md" title="wikilink">ロンリースターズ</a></p></td>
-<td><p>映画『<a href="../Page/真救世主伝説_北斗の拳.md" title="wikilink">真救世主伝説 北斗の拳 ラオウ伝 激闘の章</a>』主題歌[248][249]</p></td>
+<td><p>映画『<a href="../Page/真救世主伝説_北斗の拳.md" title="wikilink">真救世主伝説 北斗の拳 ラオウ伝 激闘の章</a>』主題歌[255][256]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -921,7 +921,7 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="../Page/SUPER_LOVE_SONG.md" title="wikilink">FRICTION</a></p></td>
-<td><p><a href="../Page/エレクトロニック・アーツ.md" title="wikilink">エレクトロニック・アーツ</a>『<a href="../Page/バーンアウト_(ゲーム).md" title="wikilink">バーンアウト ドミネーター</a>』挿入歌[250]</p></td>
+<td><p><a href="../Page/エレクトロニック・アーツ.md" title="wikilink">エレクトロニック・アーツ</a>『<a href="../Page/バーンアウト_(ゲーム).md" title="wikilink">バーンアウト ドミネーター</a>』挿入歌[257]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -930,22 +930,22 @@ Z'bメンバー
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACTION_(アルバム)" title="wikilink">オレとオマエの新しい季節</a></p></td>
+<td><p><a href="../Page/ACTION_(アルバム).md" title="wikilink">オレとオマエの新しい季節</a></p></td>
 <td><p>日本テレビ系ドラマ『<a href="https://ja.wikipedia.org/wiki/The_O.C." title="wikilink">The O.C.</a>』エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACTION_(アルバム)" title="wikilink">ONE ON ONE</a></p></td>
+<td><p><a href="../Page/ACTION_(アルバム).md" title="wikilink">ONE ON ONE</a></p></td>
 <td><p>TBS系『<a href="../Page/日立_世界・ふしぎ発見!.md" title="wikilink">世界・ふしぎ発見!</a>』エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACTION_(アルバム)" title="wikilink">純情ACTION</a></p></td>
+<td><p><a href="../Page/ACTION_(アルバム).md" title="wikilink">純情ACTION</a></p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/日本バスケットボールリーグ" title="wikilink">JAPAN BASKETBALL LEAGUE</a> 2007-2008』オフィシャルソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ACTION_(アルバム)" title="wikilink">パーフェクトライフ</a></p></td>
+<td><p><a href="../Page/ACTION_(アルバム).md" title="wikilink">パーフェクトライフ</a></p></td>
 <td><p><a href="../Page/エムティーアイ.md" title="wikilink">エムティーアイ</a>「<a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a>」CMソング</p></td>
 <td></td>
 </tr>
@@ -956,72 +956,72 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/BURN_-フメツノフェイス-.md" title="wikilink">BURN -フメツノフェイス-</a></p></td>
-<td><p><a href="../Page/コーセー.md" title="wikilink">コーセー</a>「<a href="../Page/エスプリーク・プレシャス.md" title="wikilink">エスプリーク・プレシャス</a>」CMソング[251]</p></td>
+<td><p><a href="../Page/コーセー.md" title="wikilink">コーセー</a>「<a href="../Page/エスプリーク・プレシャス.md" title="wikilink">エスプリーク・プレシャス</a>」CMソング[258]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;" title="wikilink">いつかまたここで</a></p></td>
-<td><p>テレビ朝日系木曜ドラマ『<a href="https://ja.wikipedia.org/wiki/小児救命" title="wikilink">小児救命</a>』主題歌[252]</p></td>
+<td><p>テレビ朝日系木曜ドラマ『<a href="https://ja.wikipedia.org/wiki/小児救命" title="wikilink">小児救命</a>』主題歌[259]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
 <td><p><a href="../Page/ZERO_(B&#39;zの曲).md" title="wikilink">ZERO</a></p></td>
-<td><p><a href="../Page/麒麟麦酒.md" title="wikilink">キリンビール</a>「麒麟ZERO」CMソング[253][254]</p></td>
+<td><p><a href="../Page/麒麟麦酒.md" title="wikilink">キリンビール</a>「麒麟ZERO」CMソング[260][261]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">DIVE</a></p></td>
-<td><p><a href="../Page/スズキ_(企業).md" title="wikilink">スズキ</a>「<a href="../Page/スズキ・スイフト.md" title="wikilink">スイフト</a>」TVCMソング[255][256]</p></td>
+<td><p><a href="../Page/スズキ_(企業).md" title="wikilink">スズキ</a>「<a href="../Page/スズキ・スイフト.md" title="wikilink">スイフト</a>」TVCMソング[262][263]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">イチブトゼンブ</a></p></td>
-<td><p>フジテレビ系<a href="../Page/フジテレビ月曜9時枠の連続ドラマ.md" title="wikilink">月曜9時ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/ブザー・ビート〜崖っぷちのヒーロー〜" title="wikilink">ブザー・ビート〜崖っぷちのヒーロー〜</a>』主題歌[257][258]</p></td>
+<td><p>フジテレビ系<a href="../Page/フジテレビ月曜9時枠の連続ドラマ.md" title="wikilink">月曜9時ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/ブザー・ビート〜崖っぷちのヒーロー〜" title="wikilink">ブザー・ビート〜崖っぷちのヒーロー〜</a>』主題歌[264][265]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/MY_LONELY_TOWN" title="wikilink">イチブトゼンブ -Ballad Version-</a></p></td>
-<td><p>フジテレビ系月曜9時ドラマ『ブザー・ビート〜崖っぷちのヒーロー〜』挿入歌[259]</p></td>
+<td><p>フジテレビ系月曜9時ドラマ『ブザー・ビート〜崖っぷちのヒーロー〜』挿入歌[266]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/MAGIC_(B&#39;zのアルバム)" title="wikilink">PRAY</a></p></td>
-<td><p>東急系映画『<a href="https://ja.wikipedia.org/wiki/TAJOMARU" title="wikilink">TAJOMARU</a>』主題歌[260]</p></td>
+<td><p>東急系映画『<a href="https://ja.wikipedia.org/wiki/TAJOMARU" title="wikilink">TAJOMARU</a>』主題歌[267]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MAGIC_(B&#39;zのアルバム)" title="wikilink">long time no see</a></p></td>
-<td><p>テレビ朝日系<a href="../Page/金曜ナイトドラマ.md" title="wikilink">金曜ナイトドラマ</a>『<a href="https://ja.wikipedia.org/wiki/サラリーマン金太郎_(永井大のテレビドラマ)" title="wikilink">サラリーマン金太郎2</a>』主題歌[261]</p></td>
+<td><p>テレビ朝日系<a href="../Page/金曜ナイトドラマ.md" title="wikilink">金曜ナイトドラマ</a>『<a href="https://ja.wikipedia.org/wiki/サラリーマン金太郎_(永井大のテレビドラマ)" title="wikilink">サラリーマン金太郎2</a>』主題歌[268]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さよなら傷だらけの日々よ" title="wikilink">さよなら傷だらけの日々よ</a></p></td>
-<td><p><a href="../Page/ペプシコーラ.md" title="wikilink">ペプシコーラ</a>「ペプシネックス」エフェクト篇・荒野篇 TVCMソング[262][263]</p></td>
+<td><p><a href="../Page/ペプシコーラ.md" title="wikilink">ペプシコーラ</a>「ペプシネックス」エフェクト篇・荒野篇 TVCMソング[269][270]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Don&#39;t_Wanna_Lie" title="wikilink">Don't Wanna Lie</a></p></td>
-<td><p>東宝系映画『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_沈黙の15分" title="wikilink">名探偵コナン 沈黙の15分</a>』主題歌[264][265]</p></td>
+<td><p>東宝系映画『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_沈黙の15分" title="wikilink">名探偵コナン 沈黙の15分</a>』主題歌[271][272]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[266][267]</p></td>
+<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[273][274]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Don&#39;t_Wanna_Lie" title="wikilink">Homebound</a></p></td>
-<td><p>TBS系『<a href="https://ja.wikipedia.org/wiki/NEWS23X" title="wikilink">NEWS23X</a>』エンディングテーマ[268][269]</p></td>
+<td><p>TBS系『<a href="https://ja.wikipedia.org/wiki/NEWS23X" title="wikilink">NEWS23X</a>』エンディングテーマ[275][276]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/C&#39;mon" title="wikilink">ultra soul 2011</a></p></td>
-<td><p>テレビ朝日系『<a href="https://ja.wikipedia.org/wiki/2011年世界水泳選手権" title="wikilink">世界水泳上海2011</a>』テーマソング[270]</p></td>
+<td><p>テレビ朝日系『<a href="https://ja.wikipedia.org/wiki/2011年世界水泳選手権" title="wikilink">世界水泳上海2011</a>』テーマソング[277]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/C&#39;mon" title="wikilink">C'mon</a></p></td>
-<td><p>ペプシコーラ「ペプシネックス」People篇 TVCMソング[271]</p></td>
+<td><p>ペプシコーラ「ペプシネックス」People篇 TVCMソング[278]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1031,32 +1031,32 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p>いつかのメリークリスマス</p></td>
-<td><p>ペプシコーラ「ペプシネックス」Xmas Lover篇 TVCMソング[272]</p></td>
+<td><p>ペプシコーラ「ペプシネックス」Xmas Lover篇 TVCMソング[279]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p><a href="../Page/さまよえる蒼い弾丸.md" title="wikilink">Into Free -Dangan-</a></p></td>
-<td><p><a href="../Page/カプコン.md" title="wikilink">カプコン</a>『<a href="https://ja.wikipedia.org/wiki/Dragon&#39;s_Dogma" title="wikilink">Dragon's Dogma</a>』主題歌[273]</p></td>
+<td><p><a href="../Page/カプコン.md" title="wikilink">カプコン</a>『<a href="https://ja.wikipedia.org/wiki/Dragon&#39;s_Dogma" title="wikilink">Dragon's Dogma</a>』主題歌[280]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/GO_FOR_IT,_BABY_-キオクの山脈-" title="wikilink">GO FOR IT, BABY -キオクの山脈-</a></p></td>
-<td><p>ペプシコーラ「ペプシネックス」Tshirts Live篇 TVCMソング[274][275]</p></td>
+<td><p>ペプシコーラ「ペプシネックス」Tshirts Live篇 TVCMソング[281][282]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/B&#39;z_(2012年のアルバム)" title="wikilink">Love Bomb</a></p></td>
-<td><p>ペプシコーラ「ペプシネックス」Summer Line篇 TVCMソング[276]</p></td>
+<td><p>ペプシコーラ「ペプシネックス」Summer Line篇 TVCMソング[283]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1988-1998" title="wikilink">核心</a></p></td>
-<td><p>日本テレビ系<a href="../Page/水曜ドラマ_(日本テレビ).md" title="wikilink">水曜ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/雲の階段" title="wikilink">雲の階段</a>』主題歌[277]</p></td>
+<td><p>日本テレビ系<a href="../Page/水曜ドラマ_(日本テレビ).md" title="wikilink">水曜ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/雲の階段" title="wikilink">雲の階段</a>』主題歌[284]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1999-2012" title="wikilink">Q&amp;A</a></p></td>
-<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[278]</p></td>
+<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[285]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1066,7 +1066,7 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/B&#39;z_The_Best_XXV_1999-2012" title="wikilink">ユートピア</a></p></td>
-<td><p>テレビ朝日系木曜ドラマ『<a href="https://ja.wikipedia.org/wiki/DOCTORS〜最強の名医〜" title="wikilink">DOCTORS 2〜最強の名医〜</a>』主題歌[279]</p></td>
+<td><p>テレビ朝日系木曜ドラマ『<a href="https://ja.wikipedia.org/wiki/DOCTORS〜最強の名医〜" title="wikilink">DOCTORS 2〜最強の名医〜</a>』主題歌[286]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1081,18 +1081,18 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/EPIC_DAY" title="wikilink">Exit To The Sun</a></p></td>
-<td><p>NHKドラマ『<a href="https://ja.wikipedia.org/wiki/ダークスーツ" title="wikilink">ダークスーツ</a>』主題歌[280]</p></td>
+<td><p>NHKドラマ『<a href="https://ja.wikipedia.org/wiki/ダークスーツ" title="wikilink">ダークスーツ</a>』主題歌[287]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/EPIC_DAY" title="wikilink">NO EXCUSE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スミノフ" title="wikilink">スミノフ</a>／キリンビール「<a href="https://ja.wikipedia.org/wiki/スミノフ#スミノフアイス" title="wikilink">スミノフアイス</a>」CMソング[281]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スミノフ" title="wikilink">スミノフ</a>／キリンビール「<a href="https://ja.wikipedia.org/wiki/スミノフ#スミノフアイス" title="wikilink">スミノフアイス</a>」CMソング[288]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有頂天_(B&#39;zの曲)" title="wikilink">有頂天</a></p></td>
-<td><p>日本テレビ系土曜ドラマ『<a href="https://ja.wikipedia.org/wiki/学校のカイダン" title="wikilink">学校のカイダン</a>』主題歌[282][283]</p></td>
+<td><p>日本テレビ系土曜ドラマ『<a href="https://ja.wikipedia.org/wiki/学校のカイダン" title="wikilink">学校のカイダン</a>』主題歌[289][290]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/EPIC_DAY" title="wikilink">アマリニモ</a></p></td>
@@ -1101,7 +1101,7 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/EPIC_DAY" title="wikilink">Las Vegas</a></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/2015年レッドブル・エアレース・ワールドシリーズ_千葉" title="wikilink">Red Bull Air Race Chiba 2015</a>』テーマソング[284]</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/2015年レッドブル・エアレース・ワールドシリーズ_千葉" title="wikilink">Red Bull Air Race Chiba 2015</a>』テーマソング[291]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1111,12 +1111,12 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/RED_(B&#39;zの曲)" title="wikilink">RED</a></p></td>
-<td><p><a href="../Page/スカパー!プレミアムサービス.md" title="wikilink">スカパー!</a> <a href="../Page/セ・パ交流戦.md" title="wikilink">プロ野球交流戦</a>「もっと、ドキドキな毎日『黒田篇』」TVCMソング[285][286]</p></td>
+<td><p><a href="../Page/スカパー!プレミアムサービス.md" title="wikilink">スカパー!</a> <a href="../Page/セ・パ交流戦.md" title="wikilink">プロ野球交流戦</a>「もっと、ドキドキな毎日『黒田篇』」TVCMソング[292][293]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>日本テレビ系『[[スッキリ_(テレビ番組)|スッキリ</p></td>
-<td><p>]]』6月テーマソング[287]</p></td>
+<td><p>]]』6月テーマソング[294]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1127,22 +1127,22 @@ Z'bメンバー
 <tr class="odd">
 <td><p>2016年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/世界はあなたの色になる" title="wikilink">世界はあなたの色になる</a></p></td>
-<td><p>東宝系映画『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_純黒の悪夢" title="wikilink">名探偵コナン 純黒の悪夢</a>』主題歌[288][289]</p></td>
+<td><p>東宝系映画『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_純黒の悪夢" title="wikilink">名探偵コナン 純黒の悪夢</a>』主題歌[295][296]</p></td>
 </tr>
 <tr class="even">
-<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[290]</p></td>
+<td><p>読売テレビ・日本テレビ系アニメ『名探偵コナン』オープニングテーマ[297]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フキアレナサイ" title="wikilink">フキアレナサイ</a></p></td>
-<td><p>東映系映画 『<a href="https://ja.wikipedia.org/wiki/疾風ロンド#映画" title="wikilink">疾風ロンド</a>』主題歌[291][292]</p></td>
+<td><p>東映系映画 『<a href="https://ja.wikipedia.org/wiki/疾風ロンド#映画" title="wikilink">疾風ロンド</a>』主題歌[298][299]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/声明/Still_Alive" title="wikilink">Still Alive</a></p></td>
-<td><p>TBS系日曜劇場『<a href="https://ja.wikipedia.org/wiki/A_LIFE〜愛しき人〜" title="wikilink">A LIFE〜愛しき人〜</a>』主題歌[293][294]</p></td>
+<td><p>TBS系日曜劇場『<a href="https://ja.wikipedia.org/wiki/A_LIFE〜愛しき人〜" title="wikilink">A LIFE〜愛しき人〜</a>』主題歌[300][301]</p></td>
 </tr>
 <tr class="odd">
 <td><p>TBS系『<a href="https://ja.wikipedia.org/wiki/有田ジェネレーション" title="wikilink">有田ジェネレーション</a>』6・7月度エンディングテーマ<ref name="still">{{Cite web |url=<a href="https://bz-vermillion.com/news/170601.html">https://bz-vermillion.com/news/170601.html</a> |title=B’z「Still Alive」TBS各番組 6・7月度テーマソングに決定</p></td>
@@ -1150,18 +1150,18 @@ Z'bメンバー
 <td></td>
 </tr>
 <tr class="even">
-<td><p>TBS『イベントGO!』6月度オープニングテーマ[295]</p></td>
+<td><p>TBS『イベントGO!』6月度オープニングテーマ[302]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>TBS系『<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>』6・7月度オープニングテーマ[296]</p></td>
+<td><p>TBS系『<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>』6・7月度オープニングテーマ[303]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/声明/Still_Alive" title="wikilink">声明</a></p></td>
-<td><p><a href="../Page/UCC上島珈琲.md" title="wikilink">UCC上島珈琲</a>「UCC BLACK無糖」TVCMソング[297][298]</p></td>
+<td><p><a href="../Page/UCC上島珈琲.md" title="wikilink">UCC上島珈琲</a>「UCC BLACK無糖」TVCMソング[304][305]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1171,7 +1171,7 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DINOSAUR_(B&#39;zのアルバム)" title="wikilink">CHAMP</a></p></td>
-<td><p>B'z×<a href="../Page/セブン-イレブン.md" title="wikilink">セブン-イレブン</a>フェア TVCMソング[299]</p></td>
+<td><p>B'z×<a href="../Page/セブン-イレブン.md" title="wikilink">セブン-イレブン</a>フェア TVCMソング[306]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1182,11 +1182,11 @@ Z'bメンバー
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DINOSAUR_(B&#39;zのアルバム)" title="wikilink">Dinosaur</a></p></td>
-<td><p><a href="../Page/ワーナー・ブラザース.md" title="wikilink">ワーナー・ブラザース</a>映画『<a href="https://ja.wikipedia.org/wiki/ジオストーム_(映画)" title="wikilink">ジオストーム</a>』日本語吹替版主題歌[300]</p></td>
+<td><p><a href="../Page/ワーナー・ブラザース.md" title="wikilink">ワーナー・ブラザース</a>映画『<a href="https://ja.wikipedia.org/wiki/ジオストーム_(映画)" title="wikilink">ジオストーム</a>』日本語吹替版主題歌[307]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/DINOSAUR_(B&#39;zのアルバム)" title="wikilink">King Of The Street</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>『<a href="https://ja.wikipedia.org/wiki/真・三國無双8" title="wikilink">真・三國無双8</a>』テーマソング[301]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コーエーテクモゲームス" title="wikilink">コーエーテクモゲームス</a>『<a href="https://ja.wikipedia.org/wiki/真・三國無双8" title="wikilink">真・三國無双8</a>』テーマソング[308]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1196,22 +1196,22 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEW_LOVE" title="wikilink">マジェスティック</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江崎グリコ" title="wikilink">江崎グリコ</a>「<a href="../Page/ポッキー.md" title="wikilink">ポッキー</a>」CM主題歌[302][303]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/江崎グリコ" title="wikilink">江崎グリコ</a>「<a href="../Page/ポッキー.md" title="wikilink">ポッキー</a>」CM主題歌[309][310]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEW_LOVE" title="wikilink">WOLF</a></p></td>
-<td><p>フジテレビ系月曜9時ドラマ『<a href="https://ja.wikipedia.org/wiki/SUITS/スーツ_(日本のテレビドラマ)" title="wikilink">SUITS/スーツ</a>』主題歌[304]</p></td>
+<td><p>フジテレビ系月曜9時ドラマ『<a href="https://ja.wikipedia.org/wiki/SUITS/スーツ_(日本のテレビドラマ)" title="wikilink">SUITS/スーツ</a>』主題歌[311]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>WOLF バラードバージョン</p></td>
-<td><p>フジテレビ系月曜9時ドラマ『SUITS/スーツ』挿入歌[305]</p></td>
+<td><p>フジテレビ系月曜9時ドラマ『SUITS/スーツ』挿入歌[312]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEW_LOVE" title="wikilink">兵、走る</a></p></td>
-<td><p><a href="../Page/大正製薬.md" title="wikilink">大正製薬</a>「<a href="../Page/リポビタンD.md" title="wikilink">リポビタンD</a>」<a href="../Page/ラグビー日本代表.md" title="wikilink">ラグビー日本代表</a>応援ソング・「最強の自分」篇 CMソング[306]</p></td>
+<td><p><a href="../Page/大正製薬.md" title="wikilink">大正製薬</a>「<a href="../Page/リポビタンD.md" title="wikilink">リポビタンD</a>」<a href="../Page/ラグビー日本代表.md" title="wikilink">ラグビー日本代表</a>応援ソング・「最強の自分」篇 CMソング[313]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1221,12 +1221,12 @@ Z'bメンバー
 </tr>
 <tr class="even">
 <td><p>兵、走る</p></td>
-<td><p>大正製薬「リポビタンD」ラグビー日本代表応援ソング・「最強の自分」篇・「日本への熱き想い」篇[307]・「諦めない強さ」篇[308]・「支える人を支えたい」篇[309]・「立ち向かう人」篇[310] CMソング</p></td>
+<td><p>大正製薬「リポビタンD」ラグビー日本代表応援ソング・「最強の自分」篇・「日本への熱き想い」篇[314]・「諦めない強さ」篇[315]・「支える人を支えたい」篇[316]・「立ち向かう人」篇[317] CMソング</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEW_LOVE" title="wikilink">デウス</a></p></td>
-<td><p>スズキ「<a href="../Page/スズキ・エスクード.md" title="wikilink">エスクード</a>」TVCMソング[311]</p></td>
+<td><p>スズキ「<a href="../Page/スズキ・エスクード.md" title="wikilink">エスクード</a>」TVCMソング[318]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1236,7 +1236,7 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p>きみとなら</p></td>
-<td><p>テレビ朝日系<a href="../Page/土曜ナイトドラマ_(テレビ朝日).md" title="wikilink">土曜ナイトドラマ</a>『<a href="../Page/べしゃり暮らし.md" title="wikilink">べしゃり暮らし</a>』主題歌[312]</p></td>
+<td><p>テレビ朝日系<a href="../Page/土曜ナイトドラマ_(テレビ朝日).md" title="wikilink">土曜ナイトドラマ</a>『<a href="../Page/べしゃり暮らし.md" title="wikilink">べしゃり暮らし</a>』主題歌[319]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1246,13 +1246,13 @@ Z'bメンバー
 </tr>
 <tr class="odd">
 <td><p>兵、走る</p></td>
-<td><p>大正製薬「リポビタンD」ラグビー日本代表応援ソング・「今日の全力に」篇 CMソング[313]</p></td>
+<td><p>大正製薬「リポビタンD」ラグビー日本代表応援ソング・「今日の全力に」篇 CMソング[320]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>WOLF</p></td>
 <td><p>フジテレビ系月曜9時ドラマ『SUITS/スーツ2』主題歌<ref>{{Cite web|url=<a href="https://bz-vermillion.com/news/200413_3.html%7Ctitle=B’z「WOLF」フジテレビ系月曜9時ドラマ『SUITS／スーツ2』主題歌に決定">https://bz-vermillion.com/news/200413_3.html|title=B’z「WOLF」フジテレビ系月曜9時ドラマ『SUITS／スーツ2』主題歌に決定</a></p></td>
-<td><p>|date=2020-04-13|website=B'z Official Website|publisher=VERMILLION RECORDS |accessdate=2020-04-14}}</ref>[314]</p></td>
+<td><p>|date=2020-04-13|website=B'z Official Website|publisher=VERMILLION RECORDS |accessdate=2020-04-14}}</ref>[321]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1396,23 +1396,23 @@ Z'bメンバー
 104.
 105.
 106.
-107. 批評の広場「見えない姿 奇妙な存在感」 都築響一の文より 『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1999年1月30日
+107.
 108.
 109.
 110.
 111.
 112.
 113.
-114.
+114. 批評の広場「見えない姿 奇妙な存在感」 都築響一の文より 『[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")』1999年1月30日
 115.
-116. 『GB』94年5月号 ソニーマガジン社
+116.
 117.
 118.
 119.
 120.
 121.
 122.
-123.
+123. 『GB』94年5月号 ソニーマガジン社
 124.
 125.
 126.
@@ -1522,21 +1522,21 @@ Z'bメンバー
 230.
 231.
 232.
-233. Beingモバイルサイト内、B'zのディスコグラフィでは[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）となっているが、それは誤表記である。
+233.
 234.
 235.
 236.
 237.
 238.
 239.
-240. 2005年発売のベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』には「いつかのメリークリスマス 〜「恋するハニカミ\!」バージョン〜」として収録している。
+240. Beingモバイルサイト内、B'zのディスコグラフィでは[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）となっているが、それは誤表記である。
 241.
 242.
 243.
 244.
 245.
 246.
-247.
+247. 2005年発売のベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』には「いつかのメリークリスマス 〜「恋するハニカミ\!」バージョン〜」として収録している。
 248.
 249.
 250.
@@ -1604,3 +1604,10 @@ Z'bメンバー
 312.
 313.
 314.
+315.
+316.
+317.
+318.
+319.
+320.
+321.

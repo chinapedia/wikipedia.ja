@@ -122,6 +122,9 @@
   - 2009年
       - [国際競走](../Page/国際競走.md "wikilink")に変更され、外国調教馬が9頭まで出走可能となる\[26\]。
       - 格付表記をGI（国際格付）に変更\[27\]。
+  - 2020年
+      - [NHKでの地上波中継が中止される](../Page/NHK競馬中継.md "wikilink")。
+      - [COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の流行により客を入れずに「[無観客競馬](https://ja.wikipedia.org/wiki/無観客試合#競馬 "wikilink")」として開催。
 
 ### 歴代優勝馬
 
@@ -210,7 +213,7 @@
 
 ## 外部リンク
 
-  - [レース分析：NHKマイルカップ　今週の注目レース](http://www.jra.go.jp/keiba/thisweek/2019/0505_1/) - 日本中央競馬会
+  - [レース分析：NHKマイルカップ　今週の注目レース](http://www.jra.go.jp/keiba/thisweek/2020/0510_1/) - 日本中央競馬会
 
 [Category:中央競馬の競走](https://ja.wikipedia.org/wiki/Category:中央競馬の競走 "wikilink") [Category:東京競馬場の競走](https://ja.wikipedia.org/wiki/Category:東京競馬場の競走 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:1996年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1996年開始のスポーツイベント "wikilink")
 

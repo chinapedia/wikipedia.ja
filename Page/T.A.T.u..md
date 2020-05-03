@@ -519,7 +519,7 @@
 5.  [Voitinsky about Yugoslavia](http://www.sostav.ru/video/files/09yugoslavia.mp3)
 6.  [t.A.T.u.: «Мы и сейчас иногда целуемся\!»](http://www.ok-magazine.ru/exclusive/item16832.php) // OK, № 20 （133）, 2009
 7.  [t.A.T.u. upstage Koizumi, Kan on live NTV show](http://www.japantoday.com/jp/news/276939)
-8.  [紅白狙い？タトゥー12月東京ドーム公演](http://web.archive.org/web/20040908045325/http://www.sponichi.co.jp/entertainment/kiji/2003/08/19/02.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年8月19日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+8.  [紅白狙い？タトゥー12月東京ドーム公演](https://web.archive.org/web/20040908045325/http://www.sponichi.co.jp/entertainment/kiji/2003/08/19/02.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年8月19日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 9.  [タトゥーの初来日が正式決定…紅白出場か](https://web.archive.org/web/20030803230748/http://www.sanspo.com/geino/top/gt200306/gt2003060601.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2003年6月5日。（インターネットアーカイブのキャッシュ）
 10. [タトゥー暴挙にテレ朝キレた…宇多田も出入り禁止か](https://web.archive.org/web/20030804032247/http://www.sanspo.com/geino/top/gt200306/gt2003062901.html)、SANSPO.COM、2003年6月28日。（インターネットアーカイブのキャッシュ）
 11. [タトゥーふざけるな、ナメきった“釈明会見”](https://web.archive.org/web/20030704111239/http://www.sanspo.com/geino/top/gt200306/gt2003063001.html)、SANSPO.COM、2003年6月29日。（インターネットアーカイブのキャッシュ）

@@ -288,14 +288,14 @@ EmacsのLispベースの設計の欠点は、Lispコードの読込み、[解釈
 
   - [井田昌之](http://www.sociono.net/session-ida/short-bio.html)による[BIT誌上の連載](https://ja.wikipedia.org/wiki/ビット_\(曖昧さ回避\) "wikilink")「Emacs解剖学」（[Internet Archiveのキャッシュ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
 
-      - [GNUの誕生](http://web.archive.org/web/20041210205259/http://www.sipeb.aoyama.ac.jp/~ida/books/gnu_rms.html)
-      - [TecoとEmacs](http://web.archive.org/web/20041210210448/http://www.sipeb.aoyama.ac.jp/~ida/books/teco.html)
-      - [Emacsとkeyboard](http://web.archive.org/web/20041125085658/http://www.sipeb.aoyama.ac.jp/~ida/books/emacs-and-keyboard.html)
-      - [(続)keyboard](http://web.archive.org/web/20041213185802/http://www.sipeb.aoyama.ac.jp/~ida/books/keyboard2.html)
-      - [Gosling Emacs](http://web.archive.org/web/20041211111627/http://www.sipeb.aoyama.ac.jp/~ida/books/gosling.html)
-      - [Multics Emacs](http://web.archive.org/web/20041125182250/http://www.sipeb.aoyama.ac.jp/~ida/books/multics-emacs.html)
-      - [ソースで遊ぼう](http://web.archive.org/web/20041216123818/http://www.sipeb.aoyama.ac.jp/~ida/books/source.html)
-      - [入力の補完](http://web.archive.org/web/20041211105551/http://www.sipeb.aoyama.ac.jp/~ida/books/completion.html)
+      - [GNUの誕生](https://web.archive.org/web/20041210205259/http://www.sipeb.aoyama.ac.jp/~ida/books/gnu_rms.html)
+      - [TecoとEmacs](https://web.archive.org/web/20041210210448/http://www.sipeb.aoyama.ac.jp/~ida/books/teco.html)
+      - [Emacsとkeyboard](https://web.archive.org/web/20041125085658/http://www.sipeb.aoyama.ac.jp/~ida/books/emacs-and-keyboard.html)
+      - [(続)keyboard](https://web.archive.org/web/20041213185802/http://www.sipeb.aoyama.ac.jp/~ida/books/keyboard2.html)
+      - [Gosling Emacs](https://web.archive.org/web/20041211111627/http://www.sipeb.aoyama.ac.jp/~ida/books/gosling.html)
+      - [Multics Emacs](https://web.archive.org/web/20041125182250/http://www.sipeb.aoyama.ac.jp/~ida/books/multics-emacs.html)
+      - [ソースで遊ぼう](https://web.archive.org/web/20041216123818/http://www.sipeb.aoyama.ac.jp/~ida/books/source.html)
+      - [入力の補完](https://web.archive.org/web/20041211105551/http://www.sipeb.aoyama.ac.jp/~ida/books/completion.html)
 
   - [EmacsWiki](http://www.emacswiki.org/emacs?interface=ja) – Emacsの文書化や議論専用のコミュニティー・サイト
 

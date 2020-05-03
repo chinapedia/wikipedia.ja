@@ -1,7 +1,7 @@
 > この記事は[UCS](https://ja.wikipedia.org/wiki/UCS)から翻訳されています。
 
 
-**株式会社UCS**（ユーシーエス、）は、[パン・パシフィック・インターナショナルホールディングス](https://ja.wikipedia.org/wiki/パン・パシフィック・インターナショナルホールディングス "wikilink")傘下の金融事業会社であり、[クレジットカード](../Page/クレジットカード.md "wikilink")事業を行う登録割賦購入あっせん業者・[貸金業](../Page/貸金業.md "wikilink")・[保険](../Page/保険.md "wikilink")代理店業者である。
+**株式会社UCS**（ユーシーエス、）は、[パン・パシフィック・インターナショナルホールディングス](https://ja.wikipedia.org/wiki/パン・パシフィック・インターナショナルホールディングス "wikilink")傘下の金融事業会社であり、[クレジットカード](../Page/クレジットカード.md "wikilink")事業を行う登録割賦購入あっせん業者・[貸金業](../Page/貸金業.md "wikilink")・[保険](../Page/保険.md "wikilink")代理店業者である。[uniko](https://ja.wikipedia.org/wiki/uniko "wikilink")を発行・運用していたが2020年に終了。
 
 国際ブランドとして[MasterCard](../Page/マスターカード.md "wikilink")\[1\]、[JCB及び](../Page/ジェーシービー.md "wikilink")[VISA](../Page/Visa.md "wikilink")\[2\]ブランドのクレジットカードを発行している。かつては、VISAブランドの場合、 [Visa Touchと](../Page/Visa_Touch.md "wikilink")[QUICPay](../Page/QUICPay.md "wikilink")の両方に対応していたが、 Visa Touchについては、現在は受付を終了し、どのブランドでもUCS QUICPayが発行できるようになった\[3\]。クレジットカード会員数は283万人、電子マネー会員数は223万人である。全社の取扱高は9164億円。（[2019年](../Page/2019年.md "wikilink")（平成31年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")現在）
 
@@ -62,7 +62,7 @@
 
   - [株式会社UCS 公式サイト](https://www.ucscard.co.jp/)
 
-[Category:ドン・キホーテ_(企業)](https://ja.wikipedia.org/wiki/Category:ドン・キホーテ_\(企業\) "wikilink") [Category:日本のクレジットカード事業者](https://ja.wikipedia.org/wiki/Category:日本のクレジットカード事業者 "wikilink") [Category:稲沢市の企業](https://ja.wikipedia.org/wiki/Category:稲沢市の企業 "wikilink") [Category:2005年上場の企業](https://ja.wikipedia.org/wiki/Category:2005年上場の企業 "wikilink") [Category:1991年設立の企業](https://ja.wikipedia.org/wiki/Category:1991年設立の企業 "wikilink")
+[Category:ユニー](https://ja.wikipedia.org/wiki/Category:ユニー "wikilink") [Category:日本のクレジットカード事業者](https://ja.wikipedia.org/wiki/Category:日本のクレジットカード事業者 "wikilink") [Category:稲沢市の企業](https://ja.wikipedia.org/wiki/Category:稲沢市の企業 "wikilink") [Category:2005年上場の企業](https://ja.wikipedia.org/wiki/Category:2005年上場の企業 "wikilink") [Category:1991年設立の企業](https://ja.wikipedia.org/wiki/Category:1991年設立の企業 "wikilink")
 
 1.  プリンシパルメンバーとして加盟しているが、プロセシングは三菱UFJニコスが担当。
 2.  [三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")からのライセンス供与。発行開始当初には[UFJカード](../Page/UFJカード.md "wikilink")のロゴも券面に記載されていた。

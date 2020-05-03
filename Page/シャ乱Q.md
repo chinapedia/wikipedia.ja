@@ -86,7 +86,7 @@
 <!-- end list -->
 
   - [2006年](../Page/2006年.md "wikilink")
-    4月2日、[エプソン 品川アクアスタジアムにて行われたイルカショーにて](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")、同施設の1周年の祝賀イベントにメンバー全員が集結した。記者会見を開き、シャ乱Qの活動再開の発表に加えて、たいせーが『たいせい』に改名することを発表し、他のメンバーを驚かせた。同月放送の「HEY\!HEY\!HEY\!MUSIC CHAMP」にて、活動休止後初のテレビ出演を果たした。9月には[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（[ABC放送](https://ja.wikipedia.org/wiki/ABC放送 "wikilink")）「[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")」や「[めちゃイケ](https://ja.wikipedia.org/wiki/めちゃイケ "wikilink")」、ネットでブレイクした[養老の星☆幸ちゃん](../Page/養老の星☆幸ちゃん.md "wikilink")と共演した。10月には約6年ぶりとなるライブを敢行し、11月にはモーニング娘。のカバー曲を活動再開後初のシングルとして発表。12月にはディナーショーを行った。
+    4月2日、[エプソン 品川アクアスタジアムにて行われたイルカショーにて](https://ja.wikipedia.org/wiki/エプソン_アクアパーク品川 "wikilink")、同施設の1周年の祝賀イベントにメンバー全員が集結した。記者会見を開き、シャ乱Qの活動再開の発表に加えて、たいせーが『たいせい』に改名することを発表し、他のメンバーを驚かせた。同月放送の「HEY\!HEY\!HEY\! MUSIC CHAMP」にて、活動休止後初のテレビ出演を果たした。9月には[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（[ABC放送](https://ja.wikipedia.org/wiki/ABC放送 "wikilink")）「[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")」や「[めちゃイケ](https://ja.wikipedia.org/wiki/めちゃイケ "wikilink")」、ネットでブレイクした[養老の星☆幸ちゃん](../Page/養老の星☆幸ちゃん.md "wikilink")と共演した。10月には約6年ぶりとなるライブを敢行し、11月にはモーニング娘。のカバー曲を活動再開後初のシングルとして発表。12月にはディナーショーを行った。
 
 <!-- end list -->
 

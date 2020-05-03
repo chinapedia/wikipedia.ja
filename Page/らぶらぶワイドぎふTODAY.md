@@ -31,7 +31,7 @@
       - 水曜日 「ふるさとキャラバン」「コープ情報クリップ」等
       - 木曜日 「すてきにchu\!モレラ」 - [モレラ岐阜](../Page/モレラ岐阜.md "wikilink")（[本巣市](../Page/本巣市.md "wikilink")）からの情報コーナー。
       - 金曜日 - この曜日のみ引き続き県内ニュースを伝える枠になっており、高山スタジオから生中継で[飛騨](../Page/飛騨国.md "wikilink")[高山地方の話題を伝える](../Page/高山市.md "wikilink")。
-  - [日本まんなか直送便](https://ja.wikipedia.org/wiki/日本まんなか直送便 "wikilink") - [びわ湖放送](../Page/びわ湖放送.md "wikilink")・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")・[三重テレビとの共同制作コーナー](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")。
+  - [日本まんなか直送便](https://ja.wikipedia.org/wiki/日本まんなか直送便 "wikilink") - [びわ湖放送](../Page/びわ湖放送.md "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[三重テレビとの共同制作コーナー](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")。
   - 中継（らぶらぶライブ）
       - 火曜日には[サンサンシティマーゴ](../Page/サンサンシティマーゴ.md "wikilink")（[関市](../Page/関市.md "wikilink")）、金曜日には[マーサ21](../Page/マーサ21.md "wikilink")（[岐阜市](../Page/岐阜市.md "wikilink")）からの中継と決まっていた。
       - 月曜日には「[吉村功](../Page/吉村功.md "wikilink")のスポーツミニッツ」を実施。

@@ -23,7 +23,7 @@
 ## 現在の担当番組
 
   - [ピンボケ\!](https://ja.wikipedia.org/wiki/ピンボケ!_\(ラジオ番組\) "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）
-  - DJ EIJIの「OH\! Big Saturday」（OBS[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")　毎週土曜日13:00〜16:00）
+  - DJ EIJIの「OH\! Big Saturday」（OBS[大分放送](../Page/大分放送.md "wikilink")　毎週土曜日13:00〜16:00）
 
 ## 過去の担当番組
 

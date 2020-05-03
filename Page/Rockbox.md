@@ -128,7 +128,7 @@ Rockbox は、音楽を聞く以外の機能として、プラグインという
   - WAV から MP3 へのエンコーダ
   - WAV から WavPack へのエンコーダ
   - MPEGビデオプレーヤー \[16\]
-  - 様々なゲーム（[数独](../Page/数独.md "wikilink"), [ソリティア](../Page/ソリティア.md "wikilink"), [マインスイーパ](../Page/マインスイーパ.md "wikilink"), [テトリス](../Page/テトリス.md "wikilink"), [リバーシ](https://ja.wikipedia.org/wiki/リバーシ "wikilink"), pong等40種以上）
+  - 様々なゲーム（[数独](../Page/数独.md "wikilink"), [ソリティア](../Page/ソリティア.md "wikilink"), [マインスイーパ](../Page/マインスイーパ.md "wikilink"), [テトリス](../Page/テトリス.md "wikilink"), [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink"), pong等40種以上）
   - MIDIプレーヤー。ある程度の処理能力があるプレイヤーではリアルタイムで再生可能。再生には外部の楽器セットファイルが必要であり、Rockboxのページからダウンロードできる。CPUが追いつかなくなると、音飛びが生じる。
   - 電卓（関数電卓機能付）
   - カレンダー

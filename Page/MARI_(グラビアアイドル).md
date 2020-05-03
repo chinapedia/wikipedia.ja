@@ -3,7 +3,7 @@
 
 **MARI**（**まり** [1984年](../Page/1984年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[タレント](../Page/タレント.md "wikilink")。[ディスカバリー・エンターテインメント](https://ja.wikipedia.org/wiki/ディスカバリー・エンターテインメント "wikilink")に所属していた。
 
-[フジテレビの深夜番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[SDM発\!](https://ja.wikipedia.org/wiki/SDM発! "wikilink")」のオーディション企画で選ばれた初代[フジムスメ](https://ja.wikipedia.org/wiki/フジムスメ "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に**下村真理**から改名した。
+[フジテレビの深夜番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「SDM発\!」のオーディション企画で選ばれた初代[フジムスメ](https://ja.wikipedia.org/wiki/フジムスメ "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に**下村真理**から改名した。
 
 ## 主な活動
 
@@ -47,7 +47,7 @@
 
 ### その他
 
-  - [ザマギ](../Page/ザマギ.md "wikilink")の「[くらっ](https://ja.wikipedia.org/wiki/くらっ "wikilink")」のPVに出演（2005年）
+  - [ザマギ](../Page/ザマギ.md "wikilink")の「くらっ」のPVに出演（2005年）
 
 ### ゲーム
 
@@ -55,11 +55,6 @@
 
 ## 外部リンク
 
-  - [DISCOVERY ENTERTAINMENT 公式](http://www.discovery-e.co.jp/model/00169.html)
   - [MARIオフィシャルブログ Fiesta de MARI](https://ameblo.jp/mari-de/) ※2009年02月20日より更新無し
-
-<!-- end list -->
-
-  - [スポニチアイドルレポート MARI](http://www.sponichi.co.jp/gravure/special/ir_mari/20070821top.html)
 
 [Category:ディスカバリー・ネクスト](https://ja.wikipedia.org/wiki/Category:ディスカバリー・ネクスト "wikilink") [Category:グラビアアイドル](https://ja.wikipedia.org/wiki/Category:グラビアアイドル "wikilink") [Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:キャンペーンガール](https://ja.wikipedia.org/wiki/Category:キャンペーンガール "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1984年生](https://ja.wikipedia.org/wiki/Category:1984年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

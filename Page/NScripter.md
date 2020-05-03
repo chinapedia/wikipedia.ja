@@ -13,7 +13,7 @@ Windows環境上で動作するスクリプトエンジンである。特に[ア
 
 [商用](https://ja.wikipedia.org/wiki/市販ソフトウェア "wikilink")・[同人を問わず](../Page/同人ソフト.md "wikilink")、テキストを主体としたゲーム作品のエンジンとして、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で広く利用されていた。[2009年](../Page/2009年.md "wikilink")4月公開のVer2.93より[DLLによる機能追加が行われ](../Page/ダイナミックリンクライブラリ.md "wikilink")、[スクリプト言語](../Page/スクリプト言語.md "wikilink")[Lua](../Page/Lua.md "wikilink")を使用してエンジンの[フレームワークの振る舞いをユーザーが自由に改変可能な柔軟性が取り入れられている](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")。
 
-2009年9月公開のVer2.95が[Windows 98](../Page/Microsoft_Windows_98.md "wikilink")/[me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")/[2000対応最終版で](../Page/Microsoft_Windows_2000.md "wikilink")、[2011年](../Page/2011年.md "wikilink")12月公開のVer2.96以降は[Windows XP以降専用となった](../Page/Microsoft_Windows_XP.md "wikilink")。なお、NScripterの全てのバージョンにセキュリティ問題が存在するため、[2015年](../Page/2015年.md "wikilink")8月に[脆弱性に対応したVer](../Page/セキュリティホール.md "wikilink")3.00が\[1\]、同年9月には[バグ](../Page/バグ.md "wikilink")フィックス版の3.03が公開されている。
+2009年9月公開のVer2.95が[Windows 98](../Page/Microsoft_Windows_98.md "wikilink")/[Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")/[2000対応最終版で](../Page/Microsoft_Windows_2000.md "wikilink")、[2011年](../Page/2011年.md "wikilink")12月公開のVer2.96以降は[Windows XP以降専用となった](../Page/Microsoft_Windows_XP.md "wikilink")。なお、NScripterの全てのバージョンにセキュリティ問題が存在するため、[2015年](../Page/2015年.md "wikilink")8月に[脆弱性に対応したVer](../Page/セキュリティホール.md "wikilink")3.00が\[1\]、同年9月には[バグ](../Page/バグ.md "wikilink")フィックス版の3.03が公開されている。
 
 ### 特徴
 

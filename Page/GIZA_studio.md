@@ -336,7 +336,7 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 
 #### CRIMZON
 
-  - 甘い暴力
+  - [甘い暴力](https://ja.wikipedia.org/wiki/甘い暴力 "wikilink")
   - \-真天地開闘集団-ジグザグ
 
 ### かつて所属していたアーティスト

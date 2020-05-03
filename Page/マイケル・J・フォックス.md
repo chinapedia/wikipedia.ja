@@ -412,7 +412,7 @@
   - [ホンダ・インテグラ](../Page/ホンダ・インテグラ.md "wikilink")：[1989年](../Page/1989年.md "wikilink")にホンダ・インテグラのCM（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内のみ）に出演し、本人による台詞には「カッコインテグラ」・「調子インテグラ」・「気持ちインテグラ」・「めっちゃインテグラ」等といくつかのバリエーションがあった。
   - [キリン](../Page/キリンビバレッジ.md "wikilink")・[午後の紅茶](../Page/午後の紅茶.md "wikilink")：[1994年](../Page/1994年.md "wikilink") 「グッドアフターヌーン」が有名。マイケル・J・フォックスらしいコメディングなCM。
   - [シマノ](../Page/シマノ.md "wikilink")・釣り具：
-  - [イトマン](../Page/イトマン.md "wikilink"):[1991年](../Page/1991年.md "wikilink")に伊藤萬から社名変更した頃のCMキャラクター。その[2年後に](../Page/1993年.md "wikilink")[日鉄物産](../Page/日鉄物産.md "wikilink")に吸収合併された。
+  - [イトマン](../Page/イトマン.md "wikilink")：[1991年](../Page/1991年.md "wikilink")に伊藤萬から社名変更した頃のCMキャラクター。その[2年後に](../Page/1993年.md "wikilink")[日鉄物産](../Page/日鉄物産.md "wikilink")に吸収合併された。
 
 ### 受賞一覧
 
@@ -469,12 +469,12 @@
 2.
 3.
 4.
-5.  Baker, Stephen 2009 "The numerati "
+5.  Baker, Stephen 2009 "The numerati"
 6.  売上は全て同財団に寄付されるという
 7.
 8.
 9.
 10.
 11.
-12. [Ｍ・Ｊ・フォックスが13年ぶり主演、闘病生活基にしたコメディー](http://jp.reuters.com/article/idJPTYE96R01D20130728)（[ロイター](../Page/ロイター.md "wikilink")、2013年7月29日）
+12. [Ｍ・Ｊ・フォックスが13年ぶり主演、闘病生活基にしたコメディー](https://jp.reuters.com/article/l4n0fy03v-michael-j-fox-idJPTYE96R01D20130728)（[ロイター](../Page/ロイター.md "wikilink")、2013年7月29日）
 13.

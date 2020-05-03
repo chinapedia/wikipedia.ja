@@ -27,9 +27,9 @@
 
 歌手の[イルカにも声がそっくりである](https://ja.wikipedia.org/wiki/イルカ_\(歌手\) "wikilink")。それが縁で同作のエンディングテーマ『針切りじいさんのロケンロール』（歌・[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")）で共にコーラス担当した。
 
-[1988年](../Page/1988年.md "wikilink")の夏に、[名古屋](../Page/名古屋.md "wikilink")でライブを終えた後にファンの女性スタッフから差し入れとして好物の生[タラコの](../Page/たらこ.md "wikilink")[おにぎり](https://ja.wikipedia.org/wiki/おにぎり "wikilink")をもらい、宿泊先のホテルで就寝前に夜食として食べた後の深夜、[食あたりを訴えて入院した事があった](https://ja.wikipedia.org/wiki/食中毒 "wikilink")\[2\]。翌日に退院したが、歌が歌える程度には回復しておらず、ライブは急遽トークショーに変更された\[3\]。半年後に同じライブハウスで女性スタッフと再会するも食あたりのことは言えなかった\[4\]。このエピソードは『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』で取り上げられ、『ちびまる子ちゃん』スタッフが製作したアニメによって紹介され、TARAKOが本人役で出演している\[5\]。
+[1988年](../Page/1988年.md "wikilink")の夏に、[名古屋](../Page/名古屋.md "wikilink")でライブを終えた後にファンの女性スタッフから差し入れとして好物の生[タラコの](../Page/たらこ.md "wikilink")[おにぎり](https://ja.wikipedia.org/wiki/おにぎり "wikilink")をもらい、宿泊先のホテルで就寝前に夜食として食べた後の深夜、[食あたりを訴えて入院した事があった](https://ja.wikipedia.org/wiki/食中毒 "wikilink")\[2\]。翌日に退院したが、歌が歌える程度には回復しておらず、ライブは急遽トークショーに変更された。半年後に同じライブハウスで女性スタッフと再会するも食あたりのことは言えなかった。このエピソードは『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』で取り上げられ、『ちびまる子ちゃん』スタッフが製作したアニメによって紹介され、TARAKOが本人役で出演している。
 
-[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[作詩](https://ja.wikipedia.org/wiki/作詩 "wikilink")、[空](../Page/空.md "wikilink")を見ること\[6\]。
+[趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[作詩](https://ja.wikipedia.org/wiki/作詩 "wikilink")、[空](../Page/空.md "wikilink")を見ること\[3\]。
 
 ## 出演
 
@@ -42,6 +42,8 @@
 ### OVA
 
 ### Webアニメ
+
+  - [ポケモン不思議のダンジョン 出動ポケモン救助隊ガンバルズ\!](../Page/ポケモン不思議のダンジョン_青の救助隊・赤の救助隊.md "wikilink")（2007年、[チャーレム](https://ja.wikipedia.org/wiki/チャーレム "wikilink")）
 
 ### ゲーム
 
@@ -161,7 +163,7 @@
 
   - [こどもちゃれんじ](../Page/こどもちゃれんじ.md "wikilink")・[しまじろう](https://ja.wikipedia.org/wiki/しまじろう "wikilink")シリーズ（[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")） - 本人役、ナレーションなど
 
-### その他
+### その他コンテンツ
 
   - [静岡鉄道](../Page/静岡鉄道.md "wikilink")「ちびまる子ちゃん[ラッピング](https://ja.wikipedia.org/wiki/ラッピング "wikilink")電車」 - 車内放送（**さくらももこ〈まる子〉**役として）(各駅停車で全区間を走行する列車のみ。[2015年](../Page/2015年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")より運行終了となる[2018年](../Page/2018年.md "wikilink")までの期間限定)
   - 「[ダンガンロンパ THE STAGE 〜希望の学園と絶望の高校生〜2016](https://ja.wikipedia.org/wiki/ダンガンロンパ_希望の学園と絶望の高校生#再演 "wikilink")」 - モノクマ（声の出演）
@@ -212,11 +214,13 @@
   - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")
   - ハッピーカムカム（[アニメミライ](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")2015参加作品）
 
-## 出典
+## 脚注
+
+### 出典
 
 ## 外部リンク
 
-  - [トルバドール音楽事務所によるプロフィール](http://troubadour.boo.jp/blog/tarako)
+  - [トルバドール音楽事務所によるプロフィール](https://troubadour.tokyo/Home/Member00/TALENTS/tarako)
 
   -
   -
@@ -225,6 +229,3 @@
 1.
 2.
 3.
-4.
-5.
-6.

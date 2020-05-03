@@ -73,7 +73,7 @@ DJは開始初期から数年は[木河淳](https://ja.wikipedia.org/wiki/木河
 
 <references />
 
-[Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink") [Category:電話リクエスト番組](https://ja.wikipedia.org/wiki/Category:電話リクエスト番組 "wikilink") [Category:独立系FMラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組の歴史 "wikilink")
+[Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink") [Category:1989年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のラジオ番組_\(日本\) "wikilink") [Category:電話リクエスト番組](https://ja.wikipedia.org/wiki/Category:電話リクエスト番組 "wikilink") [Category:独立系FMラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組の歴史 "wikilink")
 
 1.  当時[FMぐんまや](../Page/エフエム群馬.md "wikilink")[FM三重では放送しなかった](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")。
 2.  一部の局（特に[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")）において放送しない番組もあった。

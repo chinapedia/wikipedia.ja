@@ -28,7 +28,7 @@
 
 ## 外部リンク
 
-  - [秋田テレビ ニュース](http://www.akt.co.jp/news)
+  - [秋田テレビ ニュース](https://www.akt.co.jp/news)
   - [Yahoo\!ニュース 秋田テレビ](https://news.yahoo.co.jp/media/akt)
 
 [Category:東北地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組 "wikilink") [Category:秋田テレビの番組](https://ja.wikipedia.org/wiki/Category:秋田テレビの番組 "wikilink") [Category:東北地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのミニ番組 "wikilink") [Category:FNNニュース6:30](https://ja.wikipedia.org/wiki/Category:FNNニュース6:30 "wikilink") [Category:FNNニュースレポート11:30](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート11:30 "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink")

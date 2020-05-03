@@ -1,9 +1,13 @@
 > この記事は[La-7 \(航空機\)](https://ja.wikipedia.org/wiki/La-7_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称= La-7 / Ла-7 | 画像=画像:Memorial La-7 open 7-may-2007.jpg | キャプション= | 用途= [戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者= [ラボーチキン](https://ja.wikipedia.org/wiki/ラボーチキン "wikilink")設計局 | 運用者=  | 初飛行年月日=1944年 | 生産数=5753機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }}
+{{ Infobox 航空機 | 名称 = La-7 / Ла-7 | 画像 = <File:La-7> 4 ld.jpg | キャプション = チェコスロヴァキア機の画像 | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = | 設計者 = | 製造者 = [ラヴァーチュキン設計局](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink") | 運用者 more =
+\*\*  [労働者・農民赤色空軍](../Page/赤色空軍.md "wikilink")
 
-**La-7**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<span style="font-size:90%;">ラー・スィェーミ</span>）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")で、最も優秀とされるもののひとつ。[La-5FNの改良型として](https://ja.wikipedia.org/wiki/La-5_\(航空機\) "wikilink")、[ラヴォーチキン](https://ja.wikipedia.org/wiki/ラヴォーチキン "wikilink")設計局が開発した。[1944年](../Page/1944年.md "wikilink")初飛行。[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")にも使われた。
+  -   -
+| 初飛行年月日 = [1944年](../Page/1944年.md "wikilink") | 生産数 = 5753機 | 生産開始年月日 = | 運用開始年月日 = | 退役年月日 = | 運用状況 = 退役 | ユニットコスト = }} **La-7**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):**** ラー・スィェーミ）は、[ラヴァーチュキン設計局が開発し](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[ソヴィエト連邦の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[赤色空軍](../Page/赤色空軍.md "wikilink")などで運用された[戦闘機](../Page/戦闘機.md "wikilink")。
+
+第二次世界大戦時に運用された最も優秀とされる戦闘機のひとつ。[La-5FNの改良型で](https://ja.wikipedia.org/wiki/La-5_\(航空機\) "wikilink")、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")にも使われた。
 
 ## 概要
 

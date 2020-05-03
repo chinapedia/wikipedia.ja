@@ -86,7 +86,7 @@
 ### 2004年
 
   - 松下電器産業の[薄型テレビ](../Page/薄型テレビ.md "wikilink")のCMで使用された[エンヤ](../Page/エンヤ.md "wikilink")の新曲「菫草」が、[小雪が出演するイメージ映像と共にロングバージョンで公開された](https://ja.wikipedia.org/wiki/小雪_\(女優\) "wikilink")。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")は毎年、街頭でのシークレットライブで出演している。2004年にはさんまから来年一緒に司会をすることを要請され快諾したが2005年はさんまが降板してしまい、浜崎も司会は担当しなかった。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")は毎年、街頭でのシークレットライブで出演している。2004年にはさんまから来年一緒に司会をすることを要請され快諾したが2005年はさんまが降板してしまい、浜崎も司会は担当しなかった。
   - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のメンバーが昭和[歌謡曲](../Page/歌謡曲.md "wikilink")などを集めたスペシャルメドレーを披露。
 
 ### 2005年
@@ -105,7 +105,7 @@
 
   - 出演者は下記の通り。
       - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") 「[クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")」
-      - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") 「[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")」、「Days」
+      - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") 「[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")」、「Days」
       - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") 「[GIFT](../Page/GIFT_\(Mr.Childrenの曲\).md "wikilink")」、「[エソラ](https://ja.wikipedia.org/wiki/SUPERMARKET_FANTASY#収録曲 "wikilink")」
       - [コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink") 「[赤い糸](https://ja.wikipedia.org/wiki/赤い糸_\(コブクロの曲\) "wikilink")」、「[時の足音](https://ja.wikipedia.org/wiki/時の足音 "wikilink")」
       - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") 「[きよしこの夜](../Page/きよしこの夜.md "wikilink")」、「今夜も星に抱かれて…」

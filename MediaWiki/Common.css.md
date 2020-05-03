@@ -144,21 +144,13 @@ th.navbox-group { /\* Group style \*/
 
 }
 
-/\* [en:MediaWiki:Common.css](https://ja.wikipedia.org/wiki/en:MediaWiki:Common.css "wikilink") から複製。 \*/ /\* Style for horizontal lists (separator following item).
+/\*\*
 
-`  Note: hlist formatting will break if the resulting HTML lacks a breakable character`
-`  between list items. This happens when the following conditions are true:`
-`  1) The list is made using wiki markup (where HTML is built by parser.php)`
-`  2) HTMLTidy is disabled or unavailable (such as on Special: pages)`
-`  In such cases, building lists with .hlist using HTML instead of wiki markup`
-`  will work around this problem. See also `[`Bugzilla:39617`](https://ja.wikipedia.org/wiki/Bugzilla:39617 "wikilink")`.`
-`  IE8-specific classes are assigned in `[`MediaWiki:Common.js/IEFixes.js`](https://ja.wikipedia.org/wiki/MediaWiki:Common.js/IEFixes.js "wikilink")`.`
-`  Last updated: January 24, 2013`
-`  @source mediawiki.org/wiki/Snippets/Horizontal_lists`
-`  @maintainer: `[`User:Edokter`](https://ja.wikipedia.org/wiki/User:Edokter "wikilink")
-`  @revision: 3.1`
-
-  - /
+`* Style for horizontal lists (separator following item).`
+`* @source mediawiki.org/wiki/Snippets/Horizontal_lists`
+`* @revision 3.2 (2013-09-25)`
+`* @author `[`User:Edokter`](https://ja.wikipedia.org/wiki/User:Edokter "wikilink")
+`*/`
 
 .skin-monobook .hlist dl, .skin-modern .hlist dl, .skin-vector .hlist dl {
 
@@ -233,19 +225,19 @@ th.navbox-group { /\* Group style \*/
 `   content: ")";`
 `   font-weight: normal;`
 
-} /\* Put numbers in front of ordered list items \*/ .hlist.hnum ol {
+} /\* Put ordinals in front of ordered list items \*/ .hlist ol {
 
 `   counter-reset: list-item;`
 
-} .hlist.hnum ol \> li {
+} .hlist ol \> li {
 
 `   counter-increment: list-item;`
 
-} .hlist.hnum ol \> li:before {
+} .hlist ol \> li:before {
 
 `   content: counter(list-item) ".\a0";`
 
-} .hlist.hnum dd ol \> li:first-child:before, .hlist.hnum dt ol \> li:first-child:before, .hlist.hnum li ol \> li:first-child:before {
+} .hlist dd ol \> li:first-child:before, .hlist dt ol \> li:first-child:before, .hlist li ol \> li:first-child:before {
 
 `   content: "(" counter(list-item) " ";`
 
@@ -282,67 +274,6 @@ th.navbox-group { /\* Group style \*/
 h1 {
 
 `   line-height: 1.2em;`
-
-}
-
-/\*
-
-`Add formatting to make sure that "external references" from `[`Template:Ref`](https://ja.wikipedia.org/wiki/Template:Ref "wikilink")` do`
-`not get URL expansion, not even when printed. The mechanism up to MediaWiki 1.4 was`
-`that the HTML code contained a SPAN following the anchor A; this SPAN had the class`
-`"urlexpansion", which was not displayed on screen, but was shown when the medium was`
-`"print". The rules below ensure (a) that there is no extra padding to the right of`
-`the anchor (displayed as "[`<number>`]"), (b) that there is no "external link arrow" for`
-`the link, and (c) that this SPAN of class "urlexpansion" is never shown.`
-
-  - /
-
-.plainlinksneverexpand {
-
-`   background: none !important;`
-`   padding: 0 !important;`
-
-}
-
-.plainlinksneverexpand .urlexpansion {
-
-`   display: none !important;`
-
-}
-
-/\*
-
-`Make sure that ext links displayed within "plainlinksneverexpand" don't get`
-`the arrow...`
-
-  - /
-
-.plainlinksneverexpand a {
-
-`   background: none !important;`
-`   padding: 0 !important`
-
-}
-
-/\*
-
-`With MediaWiki 1.5, the mechanism has changed: instead of a SPAN of class "urlexpansion"`
-`following the anchor A, the anchor itself now has class "external autonumber" and the`
-`expansion is inserted when printing (see the common printing style sheet at`
-`//en.wikipedia.org/w/skins/common/commonPrint.css) using the ":after" pseudo-`
-`element of CSS. We have to switch this off for links due to Template:Ref!`
-
-  - /
-
-.plainlinksneverexpand a.external.text:after {
-
-`   display: none !important;`
-
-}
-
-.plainlinksneverexpand a.external.autonumber:after {
-
-`   display: none !important;`
 
 }
 

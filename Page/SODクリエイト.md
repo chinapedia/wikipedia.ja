@@ -759,6 +759,7 @@
 | ☆     | [菊川みつ葉](https://ja.wikipedia.org/wiki/葉山夏菜 "wikilink")    | 菊川みつ葉 AVデビュー(2017-3-18)                                                                                          |
 | ☆     | [神坂ひなの](https://ja.wikipedia.org/wiki/神坂ひなの "wikilink")   | 神坂ひなの AV Debut(2017-7-6)                                                                                         |
 |       | [榎本美咲](https://ja.wikipedia.org/wiki/榎本美咲 "wikilink")     | 榎本美咲 SODstar DEBUT\!&移籍即中出し解禁 (2017-8-24)                                                                        |
+| ☆     | [竹田ゆめ](https://ja.wikipedia.org/wiki/竹田ゆめ "wikilink")     | 竹田ゆめ AV Debut (2017-10-5)                                                                                        |
 |       | [小向美奈子](https://ja.wikipedia.org/wiki/小向美奈子 "wikilink")   | 小向美奈子 中出しいいなり温泉旅行 (2017-10-19)                                                                                   |
 | ☆     | [三田杏](https://ja.wikipedia.org/wiki/三田杏 "wikilink")       | 三田杏 AV Debut (2017-11-2)                                                                                         |
 | 2018年 |                                                           |                                                                                                                  |
@@ -787,7 +788,6 @@
 | ☆       | [古川いおり](https://ja.wikipedia.org/wiki/古川いおり "wikilink")   | 古川いおり AV Debut(2012-11-8)                |
 |         | [市川まさみ](https://ja.wikipedia.org/wiki/市川まさみ "wikilink")   | 市川まさみ SODstar debut(2016-3-5)            |
 |         | [戸田真琴](https://ja.wikipedia.org/wiki/戸田真琴 "wikilink")     | 戸田真琴 SODstar DEBUT\!(2016-11-23)         |
-| ☆       | [竹田ゆめ](https://ja.wikipedia.org/wiki/竹田ゆめ "wikilink")     | 竹田ゆめ AV Debut (2017-10-5)                |
 | ☆       | [小倉由菜](https://ja.wikipedia.org/wiki/小倉由菜 "wikilink")     | AV Debut ボクらの彼女 小倉由菜 (2017-12-7)         |
 | ☆       | [本庄鈴](https://ja.wikipedia.org/wiki/本庄鈴 "wikilink")       | 本庄鈴 みなさまのおかげです。AV DEBUT 初回特別版(2018-4-26) |
 | ☆       | [唯井まひろ](https://ja.wikipedia.org/wiki/唯井まひろ "wikilink")   | SOD Star 唯井まひろ 18歳 AV DEBUT (2018-6-7)   |
@@ -798,7 +798,7 @@
 | ☆       | [白川ゆず](https://ja.wikipedia.org/wiki/白川ゆず "wikilink")     | 白川ゆず 18歳 AV DEBUT (2019-12-26)           |
 | ☆       | [楠木あず](https://ja.wikipedia.org/wiki/楠木あず "wikilink")     | 楠木あず AV DEBUT（2020-2-20）※同年1月17日配信開始     |
 | ☆       | [朝比奈ななせ](https://ja.wikipedia.org/wiki/朝比奈ななせ "wikilink") | 朝比奈ななせ AV DEBUT (2020-3-12)              |
-| ☆       | \----                                                     | 名前はまだない。 緊急発売 AV出演（2020-4-23予定)          |
+| ☆       | \----                                                     | 名前はまだない。 緊急発売 AV出演（2020-4-23)            |
 |         |                                                           |                                          |
 
 ### SODstarシンデレラオーディション

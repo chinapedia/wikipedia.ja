@@ -13,34 +13,39 @@
 
 [2012年](../Page/2012年.md "wikilink")4月にトムス・エンタテインメントの完全子会社からセガの完全子会社となり、同年10月にセガアミューズメント施設事業部共々株式会社セガ ビーリンクに吸収合併されて\[2\]株式会社[セガ エンタテインメントとなった](https://ja.wikipedia.org/wiki/セガ_エンタテインメント "wikilink")。
 
-合併後もしばらくはAGスクエアのブランドのまま営業されていたが、2017年以降順次セガブランドへの転換が進められており、2019年10月をもってAGスクエアブランドは消滅した。
+合併後もしばらくはAGスクエアのブランドのまま営業されていたが、2017年以降順次セガブランドへの転換が進められ、2019年10月をもってAGスクエアブランドは消滅した。
 
 ## 店舗
 
-### 過去の店舗
+### セガブランドに転換された店舗
 
-  - 水戸店（[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")）→セガ水戸に転換
-  - 石岡店（茨城県[石岡市](../Page/石岡市.md "wikilink")）→セガ石岡に転換
+特記ない店舗は「AGスクエア○○店」から「セガ○○」に転換。
+
+  - 庄内店（[山形県](../Page/山形県.md "wikilink")[東田川郡](../Page/東田川郡.md "wikilink")[三川町](../Page/三川町.md "wikilink")）
+  - 水戸店（[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")）
+  - 石岡店（茨城県[石岡市](../Page/石岡市.md "wikilink")）
   - AG BOWL（[ボウリング](../Page/ボウリング.md "wikilink")場、茨城県石岡市、石岡店に併設）→セガボウルに転換
   - 埼玉花園店（[埼玉県](../Page/埼玉県.md "wikilink")[深谷市](../Page/深谷市.md "wikilink")）→セガ花園に転換
-  - 松戸店（[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")）→セガ松戸に転換
-  - 赤羽店（[東京都](../Page/東京都.md "wikilink")[北区](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")）→セガ赤羽に転換
-  - 松本店（[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")）→セガ松本に転換
-  - 岡谷店（長野県[岡谷市](../Page/岡谷市.md "wikilink")）→セガ岡谷に転換
-  - 清水店（静岡県[清水市](../Page/清水市.md "wikilink")）→セガ[ベイドリーム清水](https://ja.wikipedia.org/wiki/ベイドリーム清水 "wikilink")に転換
-  - 掛川店（静岡県[掛川市](../Page/掛川市.md "wikilink")）→セガ掛川に転換
-  - 袋井店（静岡県[袋井市](../Page/袋井市.md "wikilink")）→セガ袋井に転換
-  - 栄店（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")） - 1号店。2007年9月24日閉店\[3\]。
-  - 豊川店（愛知県[豊川市](../Page/豊川市.md "wikilink")）
-  - 刈谷店（愛知県[刈谷市](../Page/刈谷市.md "wikilink")）→セガ[イオンタウン刈谷](https://ja.wikipedia.org/wiki/イオンタウン刈谷 "wikilink")に転換
-  - 伊勢店（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊勢市](../Page/伊勢市.md "wikilink")）→セガ伊勢に転換
-  - 大津店（[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")）
-  - 東大阪店（[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")）→セガ東大阪に転換
-  - 小郡店（[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")）→セガ小郡に転換
-  - 徳島店（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")） - 2006年10月閉店
+  - 松戸店（[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")）
+  - 赤羽店（[東京都](../Page/東京都.md "wikilink")[北区](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")）
+  - 松本店（[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")）
+  - 岡谷店（長野県[岡谷市](../Page/岡谷市.md "wikilink")）
+  - 清水店（[静岡県](../Page/静岡県.md "wikilink")[清水市](../Page/清水市.md "wikilink")）→セガ[ベイドリーム清水](https://ja.wikipedia.org/wiki/ベイドリーム清水 "wikilink")に転換
+  - 掛川店（静岡県[掛川市](../Page/掛川市.md "wikilink")）
+  - 袋井店（静岡県[袋井市](../Page/袋井市.md "wikilink")）
+  - 刈谷店（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")）→セガ[イオンタウン刈谷](https://ja.wikipedia.org/wiki/イオンタウン刈谷 "wikilink")に転換
+  - 伊勢店（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊勢市](../Page/伊勢市.md "wikilink")）
+  - 東大阪店（[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")）
+  - 小郡店（[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")）
   - 佐賀武雄店（[佐賀県](../Page/佐賀県.md "wikilink")[武雄市](../Page/武雄市.md "wikilink")）→セガ武雄に転換
-  - 磐田店（[静岡県](../Page/静岡県.md "wikilink")[磐田市](../Page/磐田市.md "wikilink")）
-  - 庄内店（[山形県](../Page/山形県.md "wikilink")[東田川郡](../Page/東田川郡.md "wikilink")[三川町](../Page/三川町.md "wikilink")）→セガ庄内に転換
+
+### 閉店した店舗
+
+  - 磐田店（静岡県[磐田市](../Page/磐田市.md "wikilink")） - 2019年3月閉店
+  - 栄店（愛知県[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")） - 1号店。2007年9月24日閉店\[3\]。
+  - 豊川店（愛知県[豊川市](../Page/豊川市.md "wikilink")） - 2017年7月23日閉店
+  - 大津店（[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")） - 2017年5月7日閉店、現：滋賀[レジャーランド大津店](../Page/レジャラン.md "wikilink")
+  - 徳島店（[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")[徳島市](../Page/徳島市.md "wikilink")） - 2006年10月閉店
 
 ## 出典
 

@@ -120,7 +120,7 @@
   -
 
       -
-        演 - [藤井章満](https://ja.wikipedia.org/wiki/藤井章満 "wikilink")
+        演 - [藤井章満](../Page/藤井章満.md "wikilink")
         患者。
 
   - 第4話

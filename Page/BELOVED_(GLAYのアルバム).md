@@ -80,6 +80,7 @@
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
+        [三菱自動車工業](../Page/三菱自動車工業.md "wikilink")「[PAJERO Jr.](../Page/三菱・パジェロジュニア.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。
         サビは全部で5つあり、それぞれ春夏秋冬、そして最後に春を歌っている。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も制作され、『[VIDEO GLAY 3](../Page/VIDEO_GLAY_3.md "wikilink")』に収録されている。後に11thシングル「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」のカップリングにも収録された。
         ベストアルバム『[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")』、『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にも収録されている。
 10. **カーテンコール**

@@ -296,7 +296,7 @@ FRIDAY</a></strong><br />
 MAGNIFICENT<br />
 CAMP</strong><br />
 加美幸伸</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Got_You_OSAKA" title="wikilink">Got You OSAKA</a></strong><br />
+<td><p><strong><a href="../Page/Got_You_OSAKA.md" title="wikilink">Got You OSAKA</a></strong><br />
 <a href="../Page/トータス松本.md" title="wikilink">トータス松本</a></p></td>
 <td><p>14</p></td>
 <td></td>

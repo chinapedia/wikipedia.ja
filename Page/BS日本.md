@@ -235,7 +235,8 @@
 （4:00 - 4:05は通販番組のため一時中断。<br />
 日によって4:05から開始であったり、<br />
 4:00までで終了の場合あり）<br />
-土曜・日曜 5:00 - 5:30</p></td>
+土曜・日曜 5:00 - 5:30<br />
+月曜 - 金曜 18:00 - 19:00（142ch）</p></td>
 <td><p>2019年3月29日からはインターネット配信版にて放送<br />
 （インターネット配信版切り替え直後となる、4月1日までの3日間は臨時に開始時刻を3:00に、<br />
 4月1日は終了時刻も5:00に変更）。<br />
@@ -246,7 +247,8 @@
 月・火・水曜のいずれかの5:00 - 5:30に放送休止時間帯が設けられた週には、<br />
 本来放送するはずだった番組の他日振替先となる木曜 5:00 - 5:30の放送が臨時で休止となる。<br />
 2019年10月から5時台の放送は平日に音楽番組が編成されたため、<br />
-土・日曜日のみとなった（週により休止となる日もある）。</p></td>
+土・日曜日のみとなった（週により休止となる日もある）。<br />
+2020年4月1日から、142chで月曜 - 金曜18:00 - 19:00の放送を開始</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/深層NEWS" title="wikilink">深層NEWS</a></p></td>
@@ -357,7 +359,7 @@
 <td><p><a href="../Page/格闘技.md" title="wikilink">格闘技</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KNOCK_OUT" title="wikilink">キックボクシング KNOCK OUT！</a></p></td>
 <td><p>水曜 23:00 - 23:30</p></td>
-<td><p>2019年10月から放送。2019年9月までは<a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11で放送されていた</a>。</p></td>
+<td><p>2019年10月から放送。2019年9月までは<a href="../Page/日本BS放送.md" title="wikilink">BS11で放送されていた</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>[[スターダム|We are STARDOM</p></td>
@@ -367,39 +369,39 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/公営競技.md" title="wikilink">公営競技</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KEIRIN_LIVE〜夢見マクリ!S級新聞社" title="wikilink">KEIRIN LIVE〜夢見マクリ!S級新聞社</a></p></td>
+<td><p>パンサーの競輪はじめました</p></td>
 <td><p>不定期</p></td>
-<td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立局と同時放送</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>パンサーの競輪はじめました</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/BOAT_RACE_ライブ" title="wikilink">BOAT RACE ライブ</a></p></td>
 <td><p><a href="../Page/BSフジ.md" title="wikilink">BSフジ</a>、BSテレ東とフォーマットを統一</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ゴルフ.md" title="wikilink">ゴルフ</a></p></td>
 <td><p>ゴルフの翼NEXT</p></td>
 <td><p>土曜 17:30 - 18:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴルフサバイバル" title="wikilink">ゴルフサバイバル</a></p></td>
 <td><p>金曜 21:00 - 22:00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モータースポーツ" title="wikilink">モータースポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フォーミュラE" title="wikilink">フォーミュラE</a></p></td>
+<td><p>速報！MotoGP</p></td>
 <td><p>不定期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/フォーミュラE" title="wikilink">フォーミュラE</a></p></td>
 <td><p>ダイジェスト放送</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FIM世界耐久選手権.md" title="wikilink">FIM世界耐久選手権</a></p></td>
@@ -450,8 +452,8 @@
 <tbody>
 <tr class="odd">
 <td><p>映画</p></td>
-<td><p>プレシャスタイム</p></td>
-<td><p>金曜 19:00 - 20:54 土曜 19:00 - 20:54</p></td>
+<td><p>（枠名なしの映画枠）</p></td>
+<td><p>金曜 - 土曜 19:00 - 20:54</p></td>
 <td><p><a href="../Page/映画.md" title="wikilink">映画</a></p></td>
 <td><p>一部は<a href="../Page/標準画質映像.md" title="wikilink">SD画質放送</a><br />
 映画以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>が編成される週もある</p></td>
@@ -522,7 +524,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>オスマン帝国外伝〜愛と欲望のハレム〜 シーズン2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オスマン帝国外伝〜愛と欲望のハレム〜" title="wikilink">オスマン帝国外伝〜愛と欲望のハレム〜</a> シーズン3</p></td>
 <td><p>月曜 - 金曜 14:30 - 15:30</p></td>
 <td><p>海外ドラマの帯放送枠</p></td>
 <td></td>
@@ -548,7 +550,7 @@
 
 その後、2018年春から、前年の夏から「AnichU」と名付けられ復活していた日テレ深夜アニメ枠の作品を一部ではあるが数か月遅れで放送するようになり、同年10月期からは『[風が強く吹いている](https://ja.wikipedia.org/wiki/風が強く吹いている "wikilink")』を、久々に日テレ系地上波局と同時期に本放送した。なお復活前の日テレ旧作深夜アニメも、同年春よりいくつか放送するようになった（一部の作品はBS初放送）。
 
-地上波における[独立局系放送局が幹事となって放送している深夜アニメ](../Page/全国独立放送協議会.md "wikilink")（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）を、2013年4月[期ごろから深夜帯を中心に](../Page/クール_\(放送\).md "wikilink")、不定期に放送している（放送の無い時期も多く、[BS11で放送されたUHFアニメを再放送することも多い](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）。2017年7月期に放送した『[ひとりじめマイヒーロー](https://ja.wikipedia.org/wiki/ひとりじめマイヒーロー "wikilink")』は、本局としては初めて深夜アニメの製作委員会に参加した事例となった。
+地上波における[独立局系放送局が幹事となって放送している深夜アニメ](../Page/全国独立放送協議会.md "wikilink")（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）を、2013年4月[期ごろから深夜帯を中心に](../Page/クール_\(放送\).md "wikilink")、不定期に放送している（放送の無い時期も多く、[BS11で放送されたUHFアニメを再放送することも多い](../Page/日本BS放送.md "wikilink")）。2017年7月期に放送した『[ひとりじめマイヒーロー](https://ja.wikipedia.org/wiki/ひとりじめマイヒーロー "wikilink")』は、本局としては初めて深夜アニメの製作委員会に参加した事例となった。
 
 2019年4月期からは独立局系放送局を除く他局が製作した深夜アニメが放送されている（実質再放送）。以降、深夜アニメの枠数は増加傾向にあり、同年10月期から金曜日を除く深夜帯に『**[アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink")**』枠を設置した。
 
@@ -598,87 +600,92 @@
 以前は不定期で放送していた。 2020年3月28日までは土曜 23:30 - 24:00で放送していた。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/しゅみじん。〜世界コスプレ計画〜" title="wikilink">しゅみじん。</a></p></td>
+<td><p>第4火曜 24:00 - 24:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/音のソノリティ.md" title="wikilink">音のソノリティ</a></p></td>
 <td><p>水曜 20:54 - 21:00</p></td>
 <td><p>日本テレビ製作 地上波より3日遅れ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/極上!三ツ星キャンプ" title="wikilink">極上!三ツ星キャンプ</a></p></td>
 <td><p>水曜 21:00 - 22:00</p></td>
 <td><p>2018年10月3日スタート</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑点_特大号" title="wikilink">笑点 特大号</a></p></td>
 <td><p>木曜 19:00 - 19:54</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>照英・秋丸美帆の最強!釣りバカ対決</p></td>
 <td></td>
 <td><p>木曜 21:00 - 22:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>全国一斉生クイズバトル　Q-フェス！</p></td>
 <td><p>第3金曜 23:00 - 24:00</p></td>
 <td><p><s>2020年4月17日スタート予定</s> 放送開始日変更、開始日未定。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>てぇてぇTV</p></td>
 <td><p>金曜 23:30 - 24:00</p></td>
 <td><p>2019年10月18日スタート<br />
 2019年4月26日から9月27日までは、「月いちのてぇてぇTV」として最終金曜23:00 - 23:55に放送。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/めざせ!プログラミングスター_〜プロスタ★キッズ大集合〜" title="wikilink">今こそ知りたい！めざせ！プログラミングスター</a></p></td>
 <td><p>土曜 10:30 - 11:00</p></td>
 <td><p>2019年4月6日スタート</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>とびだせ!ぐーちょきぱーてぃー</p></td>
 <td><p>土曜 10:15 - 10:30</p></td>
 <td><p>2020年3月28日までは土曜 11:00 - 11:15で放送していた。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/チルテレ" title="wikilink">チルテレ</a></p></td>
 <td><p>土曜 17:00 - 17:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おぎやはぎの愛車遍歴_NO_CAR,_NO_LIFE!" title="wikilink">おぎやはぎの愛車遍歴 NO CAR, NO LIFE!</a></p></td>
 <td><p>土曜 21:00 - 21:54</p></td>
 <td><p>制作協力 - 東阪企画</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/バカリズムの大人のたしなみズム" title="wikilink">バカリズムの大人のたしなみズム</a></p></td>
 <td><p>土曜 22:00 - 22:54</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コーポレートファイル" title="wikilink">コーポレートファイル</a></p></td>
 <td><p>土曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ももクロと行く!" title="wikilink">ももクロと行く!</a></p></td>
 <td><p>土曜 23:30 - 24:00</p></td>
 <td><p>2019年10月4日スタート 2020年3月27日までは金曜 23:30 - 24:00で放送していた。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/旬感レシピ_〜最高の贈りもの〜" title="wikilink">旬感レシピ 〜最高の贈りもの〜</a></p></td>
 <td><p>日曜 18:00 - 18:30</p></td>
 <td><p>2019年1月20日スタート</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>汐留TV!-こちら、汐テレ★さきどり女子部-</p></td>
 <td><p>日曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>笑イザップ</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>中国語で満喫!日本HOLIDAY</p></td>
 <td><p>不定期</p></td>
 <td></td>
@@ -718,7 +725,7 @@
 <td><p>2020年3月31日までは火曜 20:00 - 20:54で放送していた。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東野・岡村の旅猿_プライベートでごめんなさい…" title="wikilink">東野・岡村の旅猿 プライベートでごめんなさい…</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東野・岡村の旅猿_プライベートでごめんなさい…" title="wikilink">東野・岡村の旅猿17 プライベートでごめんなさい…</a></p></td>
 <td><p>火曜 23:00 - 23:30</p></td>
 <td></td>
 </tr>
@@ -809,35 +816,33 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/日テレポシュレ.md" title="wikilink">日テレポシュレ</a>BS店</p></td>
-<td><p>月曜 2:00 - 3:00<br />
-火曜 - 金曜 2:30 - 3:00<br />
-土曜 2:30 - 3:30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中美奈子" title="wikilink">田中美奈子</a>、<a href="../Page/クワバタオハラ.md" title="wikilink">クワバタオハラ</a>、<a href="../Page/遼河はるひ.md" title="wikilink">遼河はるひ</a>ほか</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ちょっプルTV" title="wikilink">ちょっプルTV</a></p></td>
-<td><p>金曜 5:00 - 5:30<br />
-土曜 6:00 - 6:30</p></td>
+<td><p>日曜 7:30 - 8:00<br />
+金曜 5:00 - 5:30</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/坂田陽子" title="wikilink">坂田陽子</a>、<a href="https://ja.wikipedia.org/wiki/ビバ太田" title="wikilink">ビバ太田</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/ショップチャンネル.md" title="wikilink">ショップチャンネル</a><br />
-お買い物エンターテイメント</p></td>
-<td><p>土曜 0:00 - 2:00<br />
-日曜・月曜 1:00 - 2:00</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ヤマダ電機.md" title="wikilink">YAMADA家電住まいる館 BS日テレ店</a></p></td>
-<td><p>土曜 8:00 - 8:30<br />
-日曜 9:30 - 10:00</p></td>
+<td><p>日曜 9:30 - 10:00 土曜 8:00 - 8:30</p></td>
 <td><p><a href="../Page/安藤和津.md" title="wikilink">安藤和津</a>、<a href="../Page/レッド吉田.md" title="wikilink">レッド吉田</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>NERV購買部第4BS出張所</p></td>
 <td><p>日曜 24:31 - 25:00</p></td>
 <td><p>その他不定期放送有り</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/日テレポシュレ.md" title="wikilink">日テレポシュレ</a>BS店</p></td>
+<td><p>日曜 26:00 - 27:00 月曜 - 金曜 26:30 - 27:00</p>
+<p>金曜 - 土曜 27:00 - 27:30</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田中美奈子" title="wikilink">田中美奈子</a>、<a href="../Page/クワバタオハラ.md" title="wikilink">クワバタオハラ</a>、<a href="../Page/遼河はるひ.md" title="wikilink">遼河はるひ</a>ほか</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ショップチャンネル.md" title="wikilink">ショップチャンネル</a><br />
+お買い物エンターテイメント</p></td>
+<td><p>金曜 24:00 - 26:00<br />
+土曜 - 日曜 25:00 - 26:00</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ジャパネットたかた.md" title="wikilink">ジャパネットテレビショッピング</a></p></td>
@@ -849,25 +854,26 @@
 <td><p>不定期</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/音楽のある風景.md" title="wikilink">音楽のある風景</a></p></td>
+<td><p>不定期</p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージック提供</a></p></td>
+</tr>
 </tbody>
 </table>
 
 ### その他
 
-  - [音楽のある風景](../Page/音楽のある風景.md "wikilink")（[ユニバーサルミュージック提供](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [QVC](../Page/QVC.md "wikilink")
       - Qスタイル生放送\!（月曜 - 金曜 7:00 - 8:00 HOT PICKを中心に放送）
-      - Q17（月曜 - 金曜 17:00 - 18:00 TSVを中心に放送）、Q18（142chでのみ、月曜 - 金曜 18:00 - 19:00 QVCの生放送）を放送。
+      - Q17（月曜 - 金曜 17:00 - 18:00 TSVを中心に放送）、
+          - 2020年3月31日まではQ18（142chでのみ、月曜 - 金曜 18:00 - 19:00 QVCの生放送）を放送していた。
 
 ## 終了した番組
 
-「※」 - 番組自体は継続中
+「※」 - 番組自体は継続
 
 <div class="NavFrame" style="clear: both; border:0">
-
-<div class="NavHead" style="text-align: left">
-
-</div>
 
 <div class="NavContent" style="text-align: left">
 

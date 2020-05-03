@@ -207,6 +207,7 @@
   - [「ゲット・スポーツ」を、ほぼ日はひいきします。](http://www.1101.com/get_sports/index.html) - 2000年1月から2004年7月まで『[ほぼ日刊イトイ新聞](../Page/ほぼ日刊イトイ新聞.md "wikilink")』に掲載されていた番組予告。番組スタッフが情報提供していた。
 
   -
+  -
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:テレビ朝日のドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のドキュメンタリー番組 "wikilink") [Category:テレビ朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組 "wikilink") [Category:漫画作品_け](https://ja.wikipedia.org/wiki/Category:漫画作品_け "wikilink") [Category:2009年の漫画](https://ja.wikipedia.org/wiki/Category:2009年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:スポーツ漫画](https://ja.wikipedia.org/wiki/Category:スポーツ漫画 "wikilink") [Category:伝記漫画](https://ja.wikipedia.org/wiki/Category:伝記漫画 "wikilink") [Category:南原清隆](https://ja.wikipedia.org/wiki/Category:南原清隆 "wikilink")
 
 1.  例として2012年より毎年[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の[G1 CLIMAXの中継がGET](../Page/G1_CLIMAX.md "wikilink") SPORTS内で組まれている（当日録画）

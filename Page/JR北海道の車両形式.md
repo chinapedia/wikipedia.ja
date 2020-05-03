@@ -51,9 +51,9 @@ JR北海道の公式文書では、気動車の形式は「キハ」を付けず
   - **特急形**
       - [785系](../Page/JR北海道785系電車.md "wikilink")（[すずらん](../Page/すずらん_\(列車\).md "wikilink")）
       - [789系](../Page/JR北海道789系電車.md "wikilink")（[カムイ・ライラック](https://ja.wikipedia.org/wiki/カムイ_\(列車\) "wikilink")・すずらん）
-  - ****
+  - **近郊形**
       - [721系](../Page/JR北海道721系電車.md "wikilink")
-  - ****
+  - **通勤形**
       - [731系](../Page/JR北海道731系電車.md "wikilink")
       - [733系](https://ja.wikipedia.org/wiki/JR北海道733系電車 "wikilink")
       - [735系](https://ja.wikipedia.org/wiki/JR北海道735系電車 "wikilink")
@@ -62,7 +62,6 @@ JR北海道の公式文書では、気動車の形式は「キハ」を付けず
 
   - **特急形**
       - [キハ183系](https://ja.wikipedia.org/wiki/国鉄キハ183系気動車 "wikilink")（[オホーツク](https://ja.wikipedia.org/wiki/オホーツク_\(列車\) "wikilink")・[大雪](https://ja.wikipedia.org/wiki/オホーツク_\(列車\) "wikilink")）
-          - [クリスタルエクスプレス トマム & サホロ](https://ja.wikipedia.org/wiki/クリスタルエクスプレス_トマム_&_サホロ "wikilink")（5100番台）
           - [ノースレインボーエクスプレス](../Page/ノースレインボーエクスプレス.md "wikilink")（5200番台）
           - お座敷車両（6000番台）
       - [キハ261系](../Page/JR北海道キハ261系気動車.md "wikilink")（[宗谷](https://ja.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")・[サロベツ](https://ja.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")・[とかち](https://ja.wikipedia.org/wiki/とかち_\(列車\) "wikilink")・[北斗](../Page/北斗_\(列車\).md "wikilink")）
@@ -74,7 +73,7 @@ JR北海道の公式文書では、気動車の形式は「キハ」を付けず
       - [キハ141系](../Page/JR北海道キハ141系気動車.md "wikilink")（キハ143形のみ在籍）
       - [キハ150形](../Page/JR北海道キハ150形気動車.md "wikilink")
       - [H100形](https://ja.wikipedia.org/wiki/JR北海道H100形気動車 "wikilink")（電気式気動車）
-  - ****
+  - **通勤形**
       - [キハ201系](../Page/JR北海道キハ201系気動車.md "wikilink")
 
 ### 客車
@@ -136,6 +135,7 @@ JR北海道の公式文書では、気動車の形式は「キハ」を付けず
           - [トマムサホロエクスプレス](../Page/トマムサホロエクスプレス.md "wikilink")
       - [キハ183系](https://ja.wikipedia.org/wiki/国鉄キハ183系気動車 "wikilink")
           - [ニセコエクスプレス](../Page/ニセコエクスプレス.md "wikilink")（5000番台）
+          - [クリスタルエクスプレス トマム & サホロ](https://ja.wikipedia.org/wiki/クリスタルエクスプレス_トマム_&_サホロ "wikilink")（5100番台）
       - [キハ285系](https://ja.wikipedia.org/wiki/#キハ285系 "wikilink")（試作車のみ落成したが開発中止、詳細後述）
   - **急行形**
       - [キハ27形・キハ56形・キロ26形](../Page/国鉄キハ56系気動車.md "wikilink")

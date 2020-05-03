@@ -16,7 +16,7 @@
   - 2001年11月22日 - 『**Canvas DVD 〜セピア色のモチーフ〜**』発売。ドリームキャスト版の追加要素を盛り込みDVDに対応。
   - 2001年12月25日 - [OVA](../Page/OVA.md "wikilink")が発売（全2巻・15禁、[れもんは〜と](https://ja.wikipedia.org/wiki/れもんは〜と "wikilink")より）
   - 2003年4月10日 - [PlayStation 2版発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（全年齢対象、NECインターチャネルより発売）
-  - 2005年3月3日 - PlayStation 2向け廉価版発売（[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象）
+  - 2005年3月3日 - PlayStation 2向け廉価版発売（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象）
   - 2006年4月6日 - 『Canvas DVD 〜セピア色のモチーフ〜』のダウンロード販売開始（萌えキュンDLより）
   - 2007年5月25日 - [DLsite.com](https://ja.wikipedia.org/wiki/DLsite.com "wikilink")にてダウンロード販売開始。
   - 2008年7月25日 - [DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")（DVD-PG）版発売（アイチェリーより）。\[3\]『Canvas DVD 〜セピア色のモチーフ〜』をベースにHシーンのオリジナル新作動画を追加。

@@ -39,7 +39,7 @@ PC-98版との差異は、[ハードウェア](../Page/ハードウェア.md "wi
 
 ### リメイク版
 
-[MAGES.](https://ja.wikipedia.org/wiki/MAGES. "wikilink")より、PS4/PSVita用ソフトとして2017年3月16日に発売された\[14\]。また、2018年3月に開かれた[AnimeJapan 2018にて](https://ja.wikipedia.org/wiki/AnimeJapan "wikilink")、リメイク版が[Nintendo Switchと](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Steam](../Page/Steam.md "wikilink")向けにも開発されることが明かされ\[15\]、このうちNintendo Switch版は2019年3月14日に発売された\[16\]。Steam版は[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")より、2019年10月2日に発売された\[17\]。[CEROレーティングは](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[D（17才以上対象）](../Page/CEROレーティング17才以上対象ソフトの一覧.md "wikilink")。
+[MAGES.](https://ja.wikipedia.org/wiki/MAGES. "wikilink")より、PS4/PSVita用ソフトとして2017年3月16日に発売された\[14\]。また、2018年3月に開かれた[AnimeJapan 2018にて](https://ja.wikipedia.org/wiki/AnimeJapan "wikilink")、リメイク版が[Nintendo Switchと](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Steam](../Page/Steam.md "wikilink")向けにも開発されることが明かされ\[15\]、このうちNintendo Switch版は2019年3月14日に発売された\[16\]。Steam版は[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")より、2019年10月2日に発売された\[17\]。[CEROレーティングは](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[D（17才以上対象）](../Page/CEROレーティング17才以上対象ソフトの一覧.md "wikilink")。
 
 キャストを一新してフルボイス化され、キャラクターデザインは全て描き直される\[18\]。原作ではマウスで画面上をくまなく調べる必要があったのに対し、リメイク版では菅野作品『[ミステリート](../Page/ミステリート_\(第1作\).md "wikilink")』のシステム**プルーフターゲット**を採用しており、反応のある箇所にアイコンが表示され、カーソルを近付けるとターゲットフレームが表示される\[19\]。また、原作のキーシステムであるA.D.M.Sも継承されており、A.D.M.S上の宝玉にカーソルを当てると宝玉を使用した場面がサムネイル表示される改良が施された\[20\]。シナリオは倫理上の都合で変更された点はあるものの、ほぼ原作通りである\[21\]。
 

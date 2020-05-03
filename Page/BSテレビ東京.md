@@ -309,53 +309,15 @@
 
 ### 報道
 
-<table>
-<thead>
-<tr class="header">
-<th><p>番組名</p></th>
-<th><p>放送日時</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/ニュースモーニングサテライト.md" title="wikilink">モーサテ</a></p></td>
-<td><p>月 - 金曜 5:45 - 7:05</p></td>
-<td><p>☆ 2000年12月4日スタート[37]</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日経モーニングプラス" title="wikilink">日経モーニングプラス</a>FT</p></td>
-<td><p>月 - 金曜 7:05 - 7:50</p></td>
-<td><p>★ 2014年3月31日スタート[38]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/BSニュース_日経プラス10" title="wikilink">BSニュース 日経プラス10</a></p></td>
-<td><p>月 - 金曜 22:00 - 23:00</p></td>
-<td><p>★ 2013年4月1日スタート</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/ワールドビジネスサテライト.md" title="wikilink">ワールドビジネスサテライト</a></p></td>
-<td><p>月 - 金曜 23:00 - 23:58<br />
-</p></td>
-<td><p>☆ 2000年12月1日スタート[39]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/BSニュース_日経プラス10" title="wikilink">日経プラス10サタデー ニュースの疑問</a></p></td>
-<td><p>土曜 9:30 - 10:30</p></td>
-<td><p>★ 2017年4月1日スタート[40]2020年3月28日までは土曜 9:00 - 10:00で放送していた。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NIKKEI日曜サロン" title="wikilink">NIKKEI日曜サロン</a></p></td>
-<td><p>日曜 9:30 - 10:00</p></td>
-<td><p>2018年10月7日スタート</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 番組名                                                                            | 放送日時                 | 備考                                                   |
+| ------------------------------------------------------------------------------ | -------------------- | ---------------------------------------------------- |
+| [モーサテ](../Page/ニュースモーニングサテライト.md "wikilink")                                   | 月 - 金曜 5:45 - 7:05   | ☆ 2000年12月4日スタート\[37\]                               |
+| [日経モーニングプラス](https://ja.wikipedia.org/wiki/日経モーニングプラス "wikilink")FT            | 月 - 金曜 7:05 - 7:50   | ★ 2014年3月31日スタート\[38\]                               |
+| [BSニュース 日経プラス10](https://ja.wikipedia.org/wiki/BSニュース_日経プラス10 "wikilink")      | 月 - 金曜 22:00 - 23:00 | ★ 2013年4月1日スタート                                      |
+| [ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")                           | 月 - 金曜 23:00 - 24:00 | ☆ 2000年12月1日スタート\[39\]                               |
+| [日経プラス10サタデー ニュースの疑問](https://ja.wikipedia.org/wiki/BSニュース_日経プラス10 "wikilink") | 土曜 9:30 - 10:30      | ★ 2017年4月1日スタート 2020年3月28日までは土曜 9:00 - 10:00で放送していた。 |
+| [NIKKEI日曜サロン](https://ja.wikipedia.org/wiki/NIKKEI日曜サロン "wikilink")            | 日曜 9:30 - 10:00      | 2018年10月7日スタート                                       |
+|                                                                                |                      |                                                      |
 
 ### 教養・経済・ドキュメンタリー
 
@@ -391,7 +353,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/美の巨人たち.md" title="wikilink">美の巨人たち</a></p></td>
-<td><p>土曜 23:00 - 24:00</p></td>
+<td><p>土曜 23:30 - 24:00</p></td>
 <td><p>放送時間拡大SPも不定期に放送、字幕放送なし</p></td>
 </tr>
 <tr class="even">
@@ -404,9 +366,9 @@
 
 ### アニメ
 
-地上波で朝から夕方（いわゆる[全日](../Page/全日.md "wikilink")）に放送されている作品群は、大半が地上波から1日から10日程度遅れて放送される\[41\]\[42\]。必ずしも放送中の全ての番組をネットするとは限らない。
+地上波で朝から夕方（いわゆる[全日](../Page/全日.md "wikilink")）に放送されている作品群は、大半が地上波から1日から10日程度遅れて放送される\[40\]\[41\]。必ずしも放送中の全ての番組をネットするとは限らない。
 
-[深夜アニメ](../Page/深夜アニメ.md "wikilink")については放送実績が限られているが、2010年代半ば頃からは増加傾向にある\[43\]。一方で当社やテレビ東京が関与しない、[TOKYO MX等の](../Page/東京メトロポリタンテレビジョン.md "wikilink")[独立局を中心に放送される作品群](../Page/全国独立放送協議会.md "wikilink")（いわゆる[UHFアニメ](../Page/UHFアニメ.md "wikilink")）については放送に消極的で、過去に2本を放送したのみに留まっている。
+[深夜アニメ](../Page/深夜アニメ.md "wikilink")については放送実績が限られているが、2010年代半ば頃からは増加傾向にある\[42\]。一方で当社やテレビ東京が関与しない、[TOKYO MX等の](../Page/東京メトロポリタンテレビジョン.md "wikilink")[独立局を中心に放送される作品群](../Page/全国独立放送協議会.md "wikilink")（いわゆる[UHFアニメ](../Page/UHFアニメ.md "wikilink")）については放送に消極的で、過去に2本を放送したのみに留まっている。
 
 テレビ東京および系列局が制作に関与する番組のうち、当チャンネルで放送されないものについては、衛星放送全体では同じくテレビ東京グループの[AT-Xで同時期に放送される事例がほとんどである](../Page/アニメシアターX.md "wikilink")（地上波と同時期以外に放送される際はこの限りではない）。
 
@@ -419,14 +381,14 @@
 | **水曜**                                                                                                              |                         |                       |
 | [あひるの空](../Page/あひるの空.md "wikilink")                                                                                | 24:30 - 24:59           |                       |
 | **金曜**                                                                                                              |                         |                       |
-| [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")                                                     | 17:00 - 17:28           | \[44\]                |
+| [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")                                                     | 17:00 - 17:28           | \[43\]                |
 | [遊☆戯☆王SEVENS](../Page/遊☆戯☆王SEVENS.md "wikilink")                                                                    | 17:28 - 17:58           |                       |
-| [ブラッククローバー](https://ja.wikipedia.org/wiki/ブラッククローバー "wikilink")                                                     | 24:30 - 24:59           | \[45\]                |
+| [ブラッククローバー](https://ja.wikipedia.org/wiki/ブラッククローバー "wikilink")                                                     | 24:30 - 24:59           | \[44\]                |
 | **土曜**                                                                                                              |                         |                       |
 | [妖怪学園Y 〜Nとの遭遇〜](https://ja.wikipedia.org/wiki/妖怪学園Y_〜Nとの遭遇〜 "wikilink")                                             | 7:00 - 7:30             | 連動データ放送なし             |
 | \[\[カードファイト                                                                                                         | _ヴァンガード_(アニメ)|カードファイト | ヴァンガード2019\]\]        |
 | **日曜**                                                                                                              |                         |                       |
-| [ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(2019年のアニメ\) "wikilink")                                       | 7:00 - 7:30             | 連動データ放送なし\[46\]\[47\] |
+| [ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(2019年のアニメ\) "wikilink")                                       | 7:00 - 7:30             | 連動データ放送なし\[45\]\[46\] |
 
 
 
@@ -529,7 +491,7 @@
 司会：<a href="../Page/薬丸裕英.md" title="wikilink">薬丸裕英</a>、<a href="../Page/香坂みゆき.md" title="wikilink">香坂みゆき</a></p></td>
 </tr>
 <tr class="even">
-<td><p>THE名門校 日本全国すごい学校名鑑</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/THE名門校_日本全国すごい学校名鑑" title="wikilink">THE名門校 日本全国すごい学校名鑑</a></p></td>
 <td><p>日曜 21:00 - 21:54</p></td>
 <td><p>2020年4月19日スタート</p></td>
 </tr>
@@ -624,7 +586,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/シネマジャパン" title="wikilink">シネマジャパン</a>【土曜は寅さん！４Ｋでらっくす】</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シネマジャパン" title="wikilink">シネマジャパン</a>【土曜は寅さん!4Kでらっくす】</p></td>
 <td><p>土曜 18:30 - 20:54</p></td>
 <td><p>★2020年4月4日スタート<br />
 『<a href="../Page/男はつらいよ.md" title="wikilink">男はつらいよ</a>』シリーズを4Kデジタル修復版で1作目から順に放送。</p></td>
@@ -634,7 +596,7 @@
 <td><p>シネマ・アディクト</p></td>
 <td><p>日曜 26:50 - 26:55</p></td>
 <td><p>新作映画紹介or放送予定映画紹介<br />
-不定期放送多数有り</p></td>
+他にも不定期放送有り。 シネマクラッシュやシネマジャパンのクッション枠に放送される場合もある。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -663,7 +625,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラマホリック!" title="wikilink">ドラマホリック！</a><a href="https://ja.wikipedia.org/wiki/僕はどこから" title="wikilink">僕はどこから</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドラマホリック!" title="wikilink">ドラマホリック!</a>「<a href="https://ja.wikipedia.org/wiki/僕はどこから" title="wikilink">僕はどこから</a>」</p></td>
 <td><p>日曜 24:35 - 25:15</p></td>
 <td><p>2020年4月5日スタート 字幕放送実施</p></td>
 <td></td>
@@ -679,7 +641,7 @@
 <td><p>日曜 19:00 - 20:54</p></td>
 <td><p><a href="../Page/2時間ドラマ.md" title="wikilink">2時間サスペンス番組</a><br />
 2012年4月1日スタート<br />
-字幕放送実施・解説放送なし[48]</p></td>
+字幕放送実施・解説放送なし[47]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -721,9 +683,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラマBiz" title="wikilink">ドラマBiz</a>「<a href="https://ja.wikipedia.org/wiki/行列の女神〜らーめん才遊記〜" title="wikilink">行列の女神～らーめん才遊記～</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドラマBiz" title="wikilink">ドラマBiz</a>「<a href="https://ja.wikipedia.org/wiki/らーめん才遊記#テレビドラマ" title="wikilink">行列の女神～らーめん才遊記～</a>」</p></td>
 <td><p>金曜 21:00 - 21:54</p></td>
-<td><p>★2020年4月24日スタート予定<br />
+<td><p>★2020年4月24日スタート<br />
 字幕放送実施<br />
 BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <td></td>
@@ -735,13 +697,13 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>土曜ドラマ９ <a href="https://ja.wikipedia.org/wiki/サイレント・ヴォイス_行動心理捜査官・楯岡絵麻" title="wikilink">サイレント・ヴォイス 行動心理捜査官・楯岡絵麻</a> Season2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土曜ドラマ9" title="wikilink">土曜ドラマ9</a>「<a href="https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ" title="wikilink">サイレント・ヴォイス 行動心理捜査官・楯岡絵麻</a> Season2」</p></td>
 <td><p>土曜 21:00 - 21:54</p></td>
 <td><p>★2020年4月11日スタート</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>真夜中ドラマ「<a href="https://ja.wikipedia.org/wiki/女ともだち_(柴門ふみの漫画)" title="wikilink">女ともだち</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真夜中ドラマ" title="wikilink">真夜中ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/女ともだち_(柴門ふみの漫画)" title="wikilink">女ともだち</a>」</p></td>
 <td><p>土曜 24:00 - 24:30</p></td>
 <td><p>★2020年4月11日スタート<br />
 字幕放送実施</p></td>
@@ -754,36 +716,9 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ドラマスペシャル1</p></td>
-<td><p>不定期</p></td>
-<td><p>地上波との共同制作作品<br />
-『<a href="https://ja.wikipedia.org/wiki/雪冤" title="wikilink">雪冤</a>』（2010年秋）・『風の少年』（2011年春）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>ドラマスペシャル2</p></td>
-<td><p>地上波の単独制作作品<br />
-『命のバトン〜最高の人生の終わり方』・『天国までの百マイル』（2001年制作）・他</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>ドラマスペシャル3</p></td>
-<td><p>BSジャパンの単独制作作品<br />
-『<a href="https://ja.wikipedia.org/wiki/黒い報告書" title="wikilink">黒い報告書</a>〜女と男の事件ファイル』シリーズ（2012年 - ）　</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京月曜9時枠の連続ドラマ" title="wikilink">女のサスペンス名作選</a></p></td>
-<td><p>平日のベルト枠（月-木曜）で放送中のドラマ番組の開始日を調整するためのいわゆる『<a href="https://ja.wikipedia.org/wiki/フィラー" title="wikilink">クッション番組</a>』。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>アジア<br />
 ドラマ</p></td>
-<td><p>韓ドラ☆ <a href="https://ja.wikipedia.org/wiki/私はチャン・ボリ!" title="wikilink">私はチャン・ボリ！</a></p></td>
+<td><p>韓ドラ☆ <a href="https://ja.wikipedia.org/wiki/私はチャン・ボリ!" title="wikilink">私はチャン・ボリ!</a></p></td>
 <td><p>月 - 金曜 8:56 - 9:51</p></td>
 <td></td>
 </tr>
@@ -866,7 +801,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <tr class="odd">
 <td><p><a href="../Page/ベースボールLive.md" title="wikilink">ALWAYS Baseball</a>（プロ野球中継）</p></td>
 <td><p>不定期</p></td>
-<td><p><a href="../Page/日本選手権シリーズ.md" title="wikilink">日本シリーズはこれまで放送せず</a>[49]番組延長時は172chで放送（平日・週末のナイターのみ）。</p></td>
+<td><p><a href="../Page/日本選手権シリーズ.md" title="wikilink">日本シリーズはこれまで放送せず</a>[48]番組延長時は172chで放送（平日・週末のナイターのみ）。</p></td>
 </tr>
 <tr class="even">
 <td><p>ゴルフ中継</p></td>
@@ -876,7 +811,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <tr class="odd">
 <td><p><a href="../Page/世界卓球選手権.md" title="wikilink">世界卓球選手権</a></p></td>
 <td><p>毎年5月開催（2016年は2月28日から3月6日に開催）</p></td>
-<td><p>2011年はハイライト[50]を放送。2016年は地上波で放送しない火曜日[51]だけ放送。</p></td>
+<td><p>2011年はハイライト[49]を放送。2016年は地上波で放送しない火曜日[50]だけ放送。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/グランドスラム・東京.md" title="wikilink">グランドスラム・東京</a></p></td>
@@ -1242,7 +1177,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
   - [鬼平](../Page/鬼平犯科帳.md "wikilink")
   - [京都寺町三条のホームズ](https://ja.wikipedia.org/wiki/京都寺町三条のホームズ#テレビアニメ "wikilink")
 
-\[52\]
+\[51\]
 
 ### UHFアニメ
 
@@ -1369,16 +1304,15 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 37. 2006年4月3日から2012年3月30日までは同日 7:30 - 8:09に再放送も行っていた。
 38. 2017年3月末までは、[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")でも一部分がサイマル放送されていた。
 39. 2010年9月までと2018年4月以降はテレビ東京と同時ネット。2010年10月から2018年3月までは火 - 土曜 0:00 - 0:58にテレビ東京と1時間遅れネットとしていた。なお、2018年4月から9月までは、BSジャパンでの終了時刻が翌0:00となっているが、番組本編終わりのステブレをテレビ東京系列地上波より2分増やして対応（テレビ東京からBSテレビ東京に裏送りされる本編部分があるわけではない）。稀にBSテレビ東京のみで放送時間が繰り下がる場合がある。2018年10月1日より、終了時刻を現在の時間に変更。
-40. 2018年9月までは10:30までの放送だった。
-41. 例外として、[プリティーシリーズ](https://ja.wikipedia.org/wiki/プリティーシリーズ "wikilink")（『[プリティーリズム・オーロラドリーム](https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリーム "wikilink")』から『[プリパラ](https://ja.wikipedia.org/wiki/プリパラ_\(アニメ\) "wikilink")』1stシーズンまで）と『[カードファイト\!\! ヴァンガード](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")』（アジアサーキット編からG Zまで）は地上波との同時ネットで放送された。
-42.
-43. 例として、2018年7月期にはテレビ東京で放送された深夜アニメ・5本（短編1本含む）中3本がネットされた。
-44. 2019年9月27日までは『遊☆戯☆王デュエルアワー』第一部枠で放送。第二部枠の『[遊☆戯☆王VRAINS](https://ja.wikipedia.org/wiki/遊☆戯☆王VRAINS "wikilink")』終了により、同年10月4日から2分拡大のうえ単独枠化。2020年4月10日から1分短縮。
-45. 2018年3月までは0:58 - 1:28に放送。字幕放送は第60話から実施。
-46. TXNネットワークで2話連続等のスペシャルで放送された回については字幕放送が実施されない。
-47. 劇場版については別の放送枠で放送される。
-48. 2018年11月18日までは字幕放送も実施されていなかった。
-49. BSは[NHK BS1で放映](../Page/NHK_BS1.md "wikilink")
-50. テレビ東京制作のBSジャパンオリジナルプログラム
-51. [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")を優先して放送中止しないので卓球の中継ができない為
-52. 参照HP：[1](http://www.bs-tvtokyo.co.jp/main/bangumi/anime_archive.html)
+40. 例外として、[プリティーシリーズ](https://ja.wikipedia.org/wiki/プリティーシリーズ "wikilink")（『[プリティーリズム・オーロラドリーム](https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリーム "wikilink")』から『[プリパラ](https://ja.wikipedia.org/wiki/プリパラ_\(アニメ\) "wikilink")』1stシーズンまで）と『[カードファイト\!\! ヴァンガード](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")』（アジアサーキット編からG Zまで）は地上波との同時ネットで放送された。
+41.
+42. 例として、2018年7月期にはテレビ東京で放送された深夜アニメ・5本（短編1本含む）中3本がネットされた。
+43. 2019年9月27日までは『遊☆戯☆王デュエルアワー』第一部枠で放送。第二部枠の『[遊☆戯☆王VRAINS](https://ja.wikipedia.org/wiki/遊☆戯☆王VRAINS "wikilink")』終了により、同年10月4日から2分拡大のうえ単独枠化。2020年4月10日から1分短縮。
+44. 2018年3月までは0:58 - 1:28に放送。字幕放送は第60話から実施。
+45. TXNネットワークで2話連続等のスペシャルで放送された回については字幕放送が実施されない。
+46. 劇場版については別の放送枠で放送される。
+47. 2018年11月18日までは字幕放送も実施されていなかった。
+48. BSは[NHK BS1で放映](../Page/NHK_BS1.md "wikilink")
+49. テレビ東京制作のBSジャパンオリジナルプログラム
+50. [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")を優先して放送中止しないので卓球の中継ができない為
+51. 参照HP：[1](http://www.bs-tvtokyo.co.jp/main/bangumi/anime_archive.html)

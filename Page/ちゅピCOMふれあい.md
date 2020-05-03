@@ -84,7 +84,7 @@
 | 68   | BS181-183 | [BSフジ](../Page/BSフジ.md "wikilink")                                                   |
 | 62   | BS191-193 | [WOWOW](../Page/WOWOW.md "wikilink")                                                 |
 |      | BS200     | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") ハイビジョン                                  |
-|      | BS211     | [BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                          |
+|      | BS211     | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                             |
 |      | BS222     | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                    |
 | 33   | C012      | [ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")                        |
 | 13   | 4         |                                                                                      |

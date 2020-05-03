@@ -101,7 +101,7 @@
 
   - [ユリオカ超特Q](http://www.top-color.jp/?page_id=146) - 所属事務所によるプロフィール
 
-  - [ユリオカ超特Qオフィシャルブログ「新・らっしゃい！ブログ」](http://ameblo.jp/yuri-q/)
+  - [ユリオカ超特Qオフィシャルブログ「新・らっしゃい！ブログ」](https://ameblo.jp/yuri-q/)
 
   -
   -

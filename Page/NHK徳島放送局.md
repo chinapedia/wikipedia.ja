@@ -55,7 +55,7 @@
 
 #### 第1放送
 
-  - **[徳島](https://ja.wikipedia.org/wiki/徳島ラジオ送信所 "wikilink")** 945kHz 5kW
+  - **[徳島](../Page/徳島ラジオ送信所.md "wikilink")** 945kHz 5kW
   - 池田 1161kHz 100W
   - 牟岐 1584kHz 100W
   - [山城](https://ja.wikipedia.org/wiki/NHK山城ラジオ中継局 "wikilink") 1503kHz 50W

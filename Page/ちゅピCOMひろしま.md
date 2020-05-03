@@ -65,7 +65,7 @@
 | 69   | 55      | BS181-183                                                                                          |
 | 62   | 60      | BS191-193                                                                                          |
 |      | BS200   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink") ハイビジョン                                                |
-|      | BS211   | [BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                        |
+|      | BS211   | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                                           |
 |      | BS222   | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                  |
 | 15   |         |                                                                                                    |
 | 34   | 48      | JC701                                                                                              |

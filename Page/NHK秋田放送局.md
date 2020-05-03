@@ -407,7 +407,7 @@
 秋田県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p>宮﨑慶太</p></td>
+<td><p>宮崎慶太</p></td>
 <td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュースこまち" title="wikilink">ニュースこまち</a><br />
 （キャスター）</p></td>

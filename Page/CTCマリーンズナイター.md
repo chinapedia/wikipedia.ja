@@ -86,7 +86,7 @@
   - [八塚浩](../Page/八塚浩.md "wikilink")（ごく数試合）
   - [熊谷龍一](https://ja.wikipedia.org/wiki/熊谷龍一 "wikilink")（[ボイスワークス](../Page/ボイスワークス.md "wikilink")所属・元[鹿児島放送](../Page/鹿児島放送.md "wikilink")アナウンサー）2011年度まで
   - [杉山俊輔](https://ja.wikipedia.org/wiki/杉山俊輔 "wikilink")（[エス・オープロモーション](https://ja.wikipedia.org/wiki/エス・オープロモーション "wikilink")所属）2011年度まで
-  - [廣瀬隼也](https://ja.wikipedia.org/wiki/廣瀬隼也 "wikilink")（出演時ボイスワークス所属・元[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")アナウンサー）2012年度。現在[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")アナウンサー
+  - [廣瀬隼也](https://ja.wikipedia.org/wiki/廣瀬隼也 "wikilink")（出演時ボイスワークス所属・元[福井放送](../Page/福井放送.md "wikilink")アナウンサー）2012年度。現在[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")アナウンサー
   - [瀬尾貴紀](https://ja.wikipedia.org/wiki/瀬尾貴紀 "wikilink")（ボイスワークス所属）2013年度
   - [小林習之](https://ja.wikipedia.org/wiki/小林習之 "wikilink") 2014年度
   - [菅野詩朗](../Page/菅野詩朗.md "wikilink")（元[文化放送](../Page/文化放送.md "wikilink")）

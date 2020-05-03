@@ -403,7 +403,7 @@
 
   - クロスネット局が多かった頃の例
       - 1980年代前半ごろまで他系列の番組を放送する関係で、19時30分や20時から飛び乗りする局があったため、飛び乗り用のポイントを設けていたことがあった\[46\]。
-      - 曜日によって21時から22時台に他系列の番組を放送する局（[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")のような例）では延長放送がなく、代わりに『巨人戦ハイライト』が放送された（21時・22時台共に日テレ系の番組を放送する日は延長されていた）\[47\]。延長されない局があるときは、中継を延長する際の告知で「一部の地域を除いて」という注記が加えられていた\[48\]。
+      - 曜日によって21時から22時台に他系列の番組を放送する局（[福井放送](../Page/福井放送.md "wikilink")のような例）では延長放送がなく、代わりに『巨人戦ハイライト』が放送された（21時・22時台共に日テレ系の番組を放送する日は延長されていた）\[47\]。延長されない局があるときは、中継を延長する際の告知で「一部の地域を除いて」という注記が加えられていた\[48\]。
       - こうした事情から、放送終了時に表示される後続の番組情報の表示は、日本テレビではなく各系列局ごとに表示する形を取っている（日曜日は22時台後半・23時台前半がローカルセールス枠で別番組の場合もあるため、その対応という意味合いもある）。[西日本放送など](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")、一部ネット局では、後続の番組情報が一切表示されない局もある。
 
 ### 地上波以外
@@ -694,7 +694,7 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
 
 <!-- end list -->
 
-  - 2002年 - [independent](../Page/H_\(シングル\).md "wikilink")（[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）
+  - 2002年 - [independent](../Page/H_\(シングル\).md "wikilink")（[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）
   - 2003年 - [FULL JUMP](../Page/FULL_JUMP.md "wikilink")（[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")）
 
 <!-- end list -->
@@ -953,8 +953,9 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
   - [マック鈴木](../Page/マック鈴木.md "wikilink")（2015年 - 。[J SPORTSオリックス戦](../Page/J_SPORTS.md "wikilink")・MLB中継解説者）
   - [山崎武司](../Page/山崎武司.md "wikilink")（2014年 - 在仙放送局、その他放送局で解説）
   - [山村宏樹](../Page/山村宏樹.md "wikilink")（2013年 -　在仙各局で解説）
-  - [笘篠賢治](../Page/笘篠賢治.md "wikilink")（2011年 -。[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")本数契約\[84\]・[J SPORTS](../Page/J_SPORTS.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")解説者兼）
+  - [笘篠賢治](../Page/笘篠賢治.md "wikilink")（2011年 - 。[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")本数契約\[84\]・[J SPORTS](../Page/J_SPORTS.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")解説者兼）
   - [草野大輔](../Page/草野大輔.md "wikilink")（2019年 - 。在仙各局で解説）
+  - [佐藤義則](../Page/佐藤義則.md "wikilink")（2020年 - 。在仙各局で解説）
 
 基本的に専属ないしは特定の解説者を置かず、系列各局の解説者やフリーの本数契約解説者が派遣される形で担当。2005年は中畑・水野が、2006年は1試合（対広島戦）のみ池谷が担当（HTVでは放送なし）。それ以外は、2006年から2008年まで[川尻哲郎](../Page/川尻哲郎.md "wikilink")が担当していた。2009年以降は川尻の出演はなく阿波野、若菜、[駒田徳広](../Page/駒田徳広.md "wikilink")（[BS-TBS](../Page/BS-TBS.md "wikilink")・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")他兼）、[黒木知宏](../Page/黒木知宏.md "wikilink")（2012年まで）が担当。2015年の[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")でのオリックス戦（ytvは別制作で録画放送）ではマック鈴木が本数契約で、[マツダスタジアム](https://ja.wikipedia.org/wiki/マツダスタジアム "wikilink")での対広島戦（HTV制作分のネット受け）では山本、星野が出演。この他、対日本ハム・広島戦の場合、札幌テレビ・広島テレビから解説者を派遣している。
 
@@ -1151,12 +1152,12 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
 
   - [岩本勉](../Page/岩本勉.md "wikilink")（2006年、本数契約）
   - [広瀬哲朗](../Page/広瀬哲朗.md "wikilink")（2004年 - 2006年。[北海道文化放送](../Page/北海道文化放送.md "wikilink")兼）
-  - [佐藤義則](../Page/佐藤義則.md "wikilink")（2008年）
+  - 佐藤義則（2008年）
   - [大沢啓二](../Page/大沢啓二.md "wikilink")（2004年 - 2009年）
   - [阿波野秀幸](../Page/阿波野秀幸.md "wikilink")（2007年 - 2011年。テレビ東京解説者兼）
   - [水上善雄](../Page/水上善雄.md "wikilink")（2010年 - 2013年。テレビ東京・GAORA解説者兼）
   - [片岡篤史](../Page/片岡篤史.md "wikilink")（2015年。[関西テレビ](../Page/関西テレビ放送.md "wikilink")、[フジテレビ解説者兼](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [武田勝](../Page/武田勝.md "wikilink") (2017年 - 2019年。[北海道文化放送](../Page/北海道文化放送.md "wikilink")ゲスト解説者兼)
+  - [武田勝](../Page/武田勝.md "wikilink")（2017年 - 2019年。[北海道文化放送](../Page/北海道文化放送.md "wikilink")ゲスト解説者兼）
 
 <!-- end list -->
 

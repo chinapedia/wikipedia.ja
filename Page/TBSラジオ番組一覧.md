@@ -244,12 +244,8 @@
 <td><p>50 <a href="https://ja.wikipedia.org/wiki/ミヤリサン製薬プレゼンツ_腸から始まる健康ライフ" title="wikilink">ミヤリサン製薬プレゼンツ<br />
 腸から始まる健康ライフ</a><br />
 <a href="../Page/中澤有美子.md" title="wikilink">中澤有美子</a></p></td>
-<td><p>50 <a href="https://ja.wikipedia.org/wiki/エレベーターが来るまで" title="wikilink">エレベーターが来るまで</a>[2]<br />
-<a href="https://ja.wikipedia.org/wiki/田村真子" title="wikilink">田村真子</a></p></td>
-<td><p>50 TBSラジオ 採用試験攻略番組<br />
-<a href="https://ja.wikipedia.org/wiki/エントリーシート読み上げます！" title="wikilink">エントリーシート読み上げます！</a>[3]<br />
-<a href="https://ja.wikipedia.org/wiki/渡部峻" title="wikilink">渡部峻</a></p></td>
-<td><p>50 <a href="https://ja.wikipedia.org/wiki/Times_2020" title="wikilink">Times 2020</a>[4]<br />
+<td><p>50 <a href="https://ja.wikipedia.org/wiki/何かが始まる音がする" title="wikilink">何かが始まる音がする</a></p></td>
+<td><p>50 <a href="https://ja.wikipedia.org/wiki/Times_2020" title="wikilink">Times 2020</a>[2]<br />
 <a href="https://ja.wikipedia.org/wiki/山本恵里伽" title="wikilink">山本恵里伽</a></p></td>
 <td><p>50 <a href="../Page/講談社.md" title="wikilink">講談社</a> presents<br />
 <a href="https://ja.wikipedia.org/wiki/小森谷徹の「あした話したくなるラジオ」" title="wikilink">小森谷徹の<br />
@@ -257,10 +253,11 @@
 <a href="../Page/小森谷徹.md" title="wikilink">小森谷徹</a>、<a href="https://ja.wikipedia.org/wiki/金井憧れ" title="wikilink">金井憧れ</a></p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/アフター6ジャンクション" title="wikilink">アフター6ジャンクション</a></strong>[5]<br />
+<td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/アフター6ジャンクション" title="wikilink">アフター6ジャンクション</a></strong>[3]<br />
 パーソナリティ：<a href="../Page/宇多丸.md" title="wikilink">宇多丸</a><br />
 パートナー：月 <a href="https://ja.wikipedia.org/wiki/熊崎風斗" title="wikilink">熊崎風斗</a>、火 <a href="https://ja.wikipedia.org/wiki/宇垣美里" title="wikilink">宇垣美里</a>、水 <a href="https://ja.wikipedia.org/wiki/日比麻音子" title="wikilink">日比麻音子</a>、木 <a href="https://ja.wikipedia.org/wiki/宇内梨沙" title="wikilink">宇内梨沙</a>、金 <a href="https://ja.wikipedia.org/wiki/山本匠晃" title="wikilink">山本匠晃</a></p></td>
 <td><p>18</p></td>
@@ -294,8 +291,9 @@
 <td><p>|High School a Go Go</p></td>
 <td><p>]]<br />
 <a href="https://ja.wikipedia.org/wiki/石井大裕" title="wikilink">石井大裕</a></p></td>
-<td><p>00 <a href="https://ja.wikipedia.org/wiki/ハライチ岩井勇気のアニニャン!" title="wikilink">ハライチ岩井勇気のアニニャン!</a><br />
-<a href="https://ja.wikipedia.org/wiki/岩井勇気" title="wikilink">岩井勇気</a>（<a href="https://ja.wikipedia.org/wiki/ハライチ" title="wikilink">ハライチ</a>）</p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/東京上野クリニック" title="wikilink">東京上野クリニック</a> presents<br />
+成瀬心美 ぷるるんhoneyトラップ<br />
+<a href="https://ja.wikipedia.org/wiki/成瀬心美" title="wikilink">成瀬心美</a></p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/テンカイズ" title="wikilink">テンカイズ</a><br />
 <a href="https://ja.wikipedia.org/wiki/宇賀なつみ" title="wikilink">宇賀なつみ</a></p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/ライムスター宇多丸とマイゲーム・マイライフ" title="wikilink">ライムスター宇多丸と<br />
@@ -341,7 +339,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:55 <a href="https://ja.wikipedia.org/wiki/BLITZ_POWER_PUSH" title="wikilink">BLITZ POWER PUSH</a> - <a href="https://ja.wikipedia.org/wiki/近藤夏子_(アナウンサー)" title="wikilink">近藤夏子</a>、<a href="https://ja.wikipedia.org/wiki/篠原梨菜" title="wikilink">篠原梨菜</a>[6][7]</p></td>
+<td><p>23:55 <a href="https://ja.wikipedia.org/wiki/BLITZ_POWER_PUSH" title="wikilink">BLITZ POWER PUSH</a> - <a href="https://ja.wikipedia.org/wiki/近藤夏子_(アナウンサー)" title="wikilink">近藤夏子</a>、<a href="https://ja.wikipedia.org/wiki/篠原梨菜" title="wikilink">篠原梨菜</a>[4][5]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -451,7 +449,7 @@
 パーソナリティ：山形純菜<br />
 ▽6:10 <a href="../Page/こども音楽コンクール.md" title="wikilink">こども音楽コンクール</a><br />
 ▽6:45（月最終週のみ） <a href="https://ja.wikipedia.org/wiki/TBSラジオレビュー" title="wikilink">TBSラジオレビュー</a><br />
-▽7:03 <a href="https://ja.wikipedia.org/wiki/Changeの瞬間_～がんサバイバーストーリー" title="wikilink">Changeの瞬間 ～がんサバイバーストーリー</a> - <a href="https://ja.wikipedia.org/wiki/八木早希" title="wikilink">八木早希</a><br />
+▽7:03 <a href="https://ja.wikipedia.org/wiki/Changeの瞬間_～がんサバイバーストーリー" title="wikilink">Changeの瞬間 ～がんサバイバーストーリー</a>（ABC） - <a href="https://ja.wikipedia.org/wiki/八木早希" title="wikilink">八木早希</a><br />
 ▽7:40 <a href="https://ja.wikipedia.org/wiki/石川實_DAIRY_LIFE" title="wikilink">石川實 DAIRY LIFE</a><br />
 ▽8:15 <a href="https://ja.wikipedia.org/wiki/ママとパパのごきげんドライブ" title="wikilink">ママとパパのごきげんドライブ</a> - <a href="../Page/照英.md" title="wikilink">照英</a>、小倉弘子<br />
 ▽8:30 <a href="https://ja.wikipedia.org/wiki/「今を生きる楽しさ」を!" title="wikilink">「今を生きる楽しさ」を!</a> - <a href="../Page/片桐千晶.md" title="wikilink">片桐千晶</a></p></td>
@@ -480,12 +478,13 @@
 パーソナリティ：<a href="../Page/ナイツ_(お笑いコンビ).md" title="wikilink">ナイツ</a><br />
 アシスタント：<a href="https://ja.wikipedia.org/wiki/出水麻衣" title="wikilink">出水麻衣</a><br />
 リポーター：伊東楓<br />
-▽12:12 <a href="https://ja.wikipedia.org/wiki/おぎやはぎのクルマびいき" title="wikilink">おぎやはぎのクルマびいき</a> - 出水麻衣</p></td>
+▽10:00（最終週のみ） <a href="../Page/毒蝮三太夫のミュージックプレゼント.md" title="wikilink">毒蝮三太夫のミュージックプレゼント</a> - <a href="../Page/毒蝮三太夫.md" title="wikilink">毒蝮三太夫</a><br />
+▽12:12 <a href="https://ja.wikipedia.org/wiki/おぎやはぎのクルマびいき" title="wikilink">おぎやはぎのクルマびいき</a> - おぎやはぎ、出水麻衣</p></td>
 <td><p>9</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9:35 <a href="https://ja.wikipedia.org/wiki/ハライチ岩井_ダイナミックなターン" title="wikilink">ハライチ岩井 ダイナミックなターン</a> - 岩井勇気（ハライチ）、<a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
+<td><p>9:35 <a href="https://ja.wikipedia.org/wiki/ハライチ岩井_ダイナミックなターン!" title="wikilink">ハライチ岩井 ダイナミックなターン!</a> - 岩井勇気（ハライチ）、<a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -603,7 +602,7 @@
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>00 <a href="https://ja.wikipedia.org/wiki/司馬遼太郎短篇傑作選" title="wikilink">司馬遼太郎短篇傑作選</a>（<a href="../Page/大阪放送.md" title="wikilink">OBC</a>） - <a href="../Page/竹下景子.md" title="wikilink">竹下景子</a>、朗読担当男性声優[8]</p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/司馬遼太郎短篇傑作選" title="wikilink">司馬遼太郎短篇傑作選</a>（<a href="../Page/大阪放送.md" title="wikilink">OBC</a>） - <a href="../Page/竹下景子.md" title="wikilink">竹下景子</a>、朗読担当男性声優[6]</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/村上ゆきのスローリビング" title="wikilink">村上ゆきのスローリビング</a> - <a href="https://ja.wikipedia.org/wiki/村上ゆき" title="wikilink">村上ゆき</a></p></td>
 <td><p>18</p></td>
 </tr>
@@ -615,7 +614,7 @@
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p>00 <strong><a href="../Page/アットホームpresents_藤田ニコルのあしたはにちようび.md" title="wikilink">アットホームpresents 藤田ニコルのあしたはにちようび</a></strong><br />
+<td><p>00 <a href="../Page/アットホームpresents_藤田ニコルのあしたはにちようび.md" title="wikilink">アットホームpresents 藤田ニコルのあしたはにちようび</a><br />
 パーソナリティ：<a href="https://ja.wikipedia.org/wiki/藤田ニコル" title="wikilink">藤田ニコル</a></p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/清塚信也_Ｘタイム_ラジオ" title="wikilink">清塚信也 Ｘタイム ラジオ</a> - <a href="../Page/清塚信也.md" title="wikilink">清塚信也</a></p></td>
 <td><p>19</p></td>
@@ -632,7 +631,7 @@
 <td><p>00 <a href="../Page/ラジオワールド.md" title="wikilink">ラジオワールド</a></p>
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/べしゃり王選手権" title="wikilink">べしゃり王選手権</a>（ABC） - <a href="../Page/ケンドーコバヤシ.md" title="wikilink">ケンドーコバヤシ</a>、<a href="https://ja.wikipedia.org/wiki/増田紗織" title="wikilink">増田紗織</a>（最終週のみ）
+<dd>（最終週のみ）<a href="https://ja.wikipedia.org/wiki/べしゃり王選手権" title="wikilink">べしゃり王選手権</a>（ABC） - <a href="../Page/ケンドーコバヤシ.md" title="wikilink">ケンドーコバヤシ</a>、<a href="https://ja.wikipedia.org/wiki/増田紗織" title="wikilink">増田紗織</a>
 </dd>
 </dl></td>
 <td><p>20</p></td>
@@ -656,7 +655,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>45 <a href="https://ja.wikipedia.org/wiki/納言のイチナナゴン！～17Liveでおいしゃーす～" title="wikilink">納言のイチナナゴン！～17Liveでおいしゃーす～</a> - <a href="https://ja.wikipedia.org/wiki/納言_(お笑いコンビ)" title="wikilink">納言</a></p></td>
+<td><p>45 <a href="https://ja.wikipedia.org/wiki/納言のイチナナゴン！〜17Liveでおいしゃーす〜" title="wikilink">納言のイチナナゴン！〜17Liveでおいしゃーす〜</a> - <a href="https://ja.wikipedia.org/wiki/納言_(お笑いコンビ)" title="wikilink">納言</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -697,8 +696,8 @@
 <td><p>00 <a href="../Page/放送休止.md" title="wikilink">放送休止</a></p>
 <dl>
 <dt></dt>
-<dd><a href="../Page/文化系トークラジオ_Life.md" title="wikilink">文化系トークラジオ Life</a> 〜社会時評&amp;サブカルチャー<br />
-<a href="../Page/鈴木謙介.md" title="wikilink">鈴木謙介</a>（偶数月 第4週のみ）
+<dd>（偶数月 第4週のみ）<a href="../Page/文化系トークラジオ_Life.md" title="wikilink">文化系トークラジオ Life</a> 〜社会時評&amp;サブカルチャー<br />
+<a href="../Page/鈴木謙介.md" title="wikilink">鈴木謙介</a>
 </dd>
 </dl></td>
 <td><p>1</p></td>
@@ -724,7 +723,7 @@
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/Fine_music" title="wikilink">Fine music</a> - <a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a></p></td>
-<td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/オーディナリーミュージック" title="wikilink">オーディナリーミュージック</a></strong> - <a href="../Page/カジヒデキ.md" title="wikilink">カジヒデキ</a>、<a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/オーディナリーミュージック" title="wikilink">オーディナリーミュージック</a> - <a href="../Page/カジヒデキ.md" title="wikilink">カジヒデキ</a>、<a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></p></td>
 <td><p>4</p></td>
 </tr>
 </tbody>
@@ -732,7 +731,7 @@
 
 ## 裏送り番組
 
-  - JRNナイター\[9\]
+  - JRNナイター\[7\]
       - [TBSラジオ エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")（終了）
   - [はがきでこんにちは](../Page/はがきでこんにちは.md "wikilink")
   - [萩原健太のMusic SMiLE](https://ja.wikipedia.org/wiki/萩原健太のMusic_SMiLE "wikilink")
@@ -852,6 +851,7 @@
   - [SOLIDEMO](https://ja.wikipedia.org/wiki/SOLIDEMO "wikilink") CLUB 8
   - [東貴博](../Page/東貴博.md "wikilink")のドンといこうぜ\!
   - [宇賀なつみ](https://ja.wikipedia.org/wiki/宇賀なつみ "wikilink") BATON
+  - [ハライチ岩井勇気のアニニャン\!](https://ja.wikipedia.org/wiki/ハライチ岩井勇気のアニニャン! "wikilink")
 
 #### 週末
 
@@ -969,7 +969,7 @@
   - [センチュリー21](../Page/センチュリー21・ジャパン.md "wikilink") presents [伊原六花](https://ja.wikipedia.org/wiki/伊原六花 "wikilink")とブカツ☆ダンス
   - ハツデンキ
   - Catch UP Music
-  - [簡易恋愛プログラム 宮川賢のデートの時間でそ?\!](https://ja.wikipedia.org/wiki/簡易恋愛プログラム_宮川賢のデートの時間でそ?! "wikilink")（2016年4月16日\[10\] - 2019年12月28日）
+  - [簡易恋愛プログラム 宮川賢のデートの時間でそ?\!](https://ja.wikipedia.org/wiki/簡易恋愛プログラム_宮川賢のデートの時間でそ?! "wikilink")（2016年4月16日\[8\] - 2019年12月28日）
   - [chelmicoのでも、まだ土曜日](https://ja.wikipedia.org/wiki/chelmicoのでも、まだ土曜日 "wikilink")
   - [のどの窓](https://ja.wikipedia.org/wiki/のどの窓 "wikilink")
   - [RADIO-EX](https://ja.wikipedia.org/wiki/ラジオワールド#RADIO-EX "wikilink")
@@ -983,9 +983,10 @@
 
 #### 平日
 
-  - [ミッドナイト・ストリート](https://ja.wikipedia.org/wiki/ミッドナイト・ストリート "wikilink")
+  - [ミッドナイト・ストリート](https://ja.wikipedia.org/wiki/ミッドナイト・ストリート "wikilink")（1959年 - 1964年）
+  - [夜のバラード](https://ja.wikipedia.org/wiki/夜のバラード_\(東京放送\) "wikilink")
   - [ラジオでこんばんわ](https://ja.wikipedia.org/wiki/ラジオでこんばんわ "wikilink")
-  - [小島一慶](../Page/小島一慶.md "wikilink")・[林美雄](../Page/林美雄.md "wikilink")→[生島ヒロシ](../Page/生島ヒロシ.md "wikilink")→[春風亭小朝](https://ja.wikipedia.org/wiki/春風亭小朝 "wikilink")・山本雄二→[松宮一彦](../Page/松宮一彦.md "wikilink") [夜はともだち](../Page/夜はともだち.md "wikilink")
+  - [小島一慶](../Page/小島一慶.md "wikilink")・[林美雄](../Page/林美雄.md "wikilink")→[生島ヒロシ](../Page/生島ヒロシ.md "wikilink")→[春風亭小朝](https://ja.wikipedia.org/wiki/春風亭小朝 "wikilink")・山本雄二→[松宮一彦](../Page/松宮一彦.md "wikilink") [夜はともだち](../Page/夜はともだち.md "wikilink")（1976年 - 1978年）
   - [るんるんナイト・松宮一彦 ワォ\!](../Page/るんるんナイト_ワオ!.md "wikilink")
   - [エド山口のまんてんワイド](../Page/エド山口のまんてんワイド.md "wikilink")
   - [所ジョージの進め\!おもしろバホバホ隊](https://ja.wikipedia.org/wiki/所ジョージの進め!おもしろバホバホ隊 "wikilink")（1984年10月8日 - 1986年9月）
@@ -1045,6 +1046,7 @@
 
 ### 平日0時台の番組
 
+  - [5スイート・キャッツ](https://ja.wikipedia.org/wiki/5スイート・キャッツ "wikilink")
   - [ミッドナイトプレスクラブ](https://ja.wikipedia.org/wiki/ミッドナイトプレスクラブ "wikilink")
   - ナイトナイトジョッキー
   - [エミ子の長いつきあい](../Page/エミ子の長いつきあい.md "wikilink")
@@ -1201,12 +1203,10 @@
 [Category:TBSラジオの番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組 "wikilink") [Category:ラジオ番組一覧](https://ja.wikipedia.org/wiki/Category:ラジオ番組一覧 "wikilink")
 
 1.  この「ラジオ局のアナウンサーが関連会社のテレビ局からの出向」という形式は、同様にラテ兼営から分社化した[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（親会社の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")から）と[CBCラジオ](../Page/CBCラジオ.md "wikilink")（親会社の[中部日本放送](../Page/中部日本放送.md "wikilink")→兄弟会社の[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")から）と[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（兄弟会社の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")から）でも踏襲されている。
-2.  エレベーターを待つ人に、エレベーターが来るまで、話を聞く番組。TBSのエレベーターホールで繰り広げられる、ささやかな交流を通して、社内の雰囲気を伝えるインタビュー企画。
-3.  TBSラジオの新卒採用を有利に進めるための攻略番組。そこそこ難関のはずの採用試験をくぐり抜けたTBSラジオの職員が、どんなエントリーシートを書いていたのか、そのまんま読み上げる。
-4.  当時のニュースの伝え方を2020年の伝え方と比較する。
-5.
-6.
-7.  TBS RADIO Press 2019 OCT - NOV p.15
-8.  毎年9月頃放送の作品は竹下自ら朗読。
-9.  2017年まで、[スペシャルウィークは](../Page/聴取率.md "wikilink")[巨人や](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[DeNA主催カードなどの中継で](../Page/横浜DeNAベイスターズ.md "wikilink")、首都圏向けと全国向けを二重制作していたため。
-10. TBSラジオ以外のネット局では裏送りで2016年4月2日放送開始
+2.  当時のニュースの伝え方を2020年の伝え方と比較する。
+3.
+4.
+5.  TBS RADIO Press 2019 OCT - NOV p.15
+6.  毎年9月頃放送の作品は竹下自ら朗読。
+7.  2017年まで、[スペシャルウィークは](../Page/聴取率.md "wikilink")[巨人や](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[DeNA主催カードなどの中継で](../Page/横浜DeNAベイスターズ.md "wikilink")、首都圏向けと全国向けを二重制作していたため。
+8.  TBSラジオ以外のネット局では裏送りで2016年4月2日放送開始

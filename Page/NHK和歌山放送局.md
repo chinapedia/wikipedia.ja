@@ -181,7 +181,6 @@
 ## アナウンサー・キャスター
 
   - 氏名の後の\*印は過去に和歌山放送局勤務経験あり。
-  - 本局から[NHK放送センター](../Page/NHK放送センター.md "wikilink")や[福岡](../Page/NHK福岡放送局.md "wikilink")、[松山といった大都市局への異動や](../Page/NHK松山放送局.md "wikilink")、地方局への赴任であっても役職等が昇級するなど、栄転するアナウンサーが多い。\[4\]
 
 <table>
 <thead>
@@ -198,7 +197,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/押尾駿吾" title="wikilink">押尾駿吾</a></p></td>
+<td><p><a href="../Page/押尾駿吾.md" title="wikilink">押尾駿吾</a></p></td>
 <td><p><a href="../Page/NHK鹿児島放送局.md" title="wikilink">鹿児島</a></p></td>
 <td><p>|<a href="../Page/ギュギュっと和歌山.md" title="wikilink">ギュギュっと和歌山</a>（キャスター）</p></td>
 </tr>
@@ -283,4 +282,3 @@
 1.
 2.  [4月9日号　パーソナリティトーク：金岡紀子](http://www.nhk.or.jp/wakayama/powerstation/p_talk_h22/1004.html)
 3.  [受信情報](http://www.nhk.or.jp/wakayama/station_info/channel.html)
-4.  [児林大介](https://ja.wikipedia.org/wiki/児林大介 "wikilink")（[NHK放送センター](../Page/NHK放送センター.md "wikilink")、現[盛岡局](../Page/NHK盛岡放送局.md "wikilink")）、[登坂淳一](../Page/登坂淳一.md "wikilink")（[大阪局](../Page/NHK大阪放送局.md "wikilink")、現フリー）、[田中寛人](../Page/田中寛人.md "wikilink")（[松山局](../Page/NHK松山放送局.md "wikilink")、現[長野局](../Page/NHK長野放送局.md "wikilink")）、[横林良純](../Page/横林良純.md "wikilink")（[松山局](../Page/NHK松山放送局.md "wikilink")、現[和歌山局CA](../Page/NHK和歌山放送局.md "wikilink")）、[今城和久](../Page/今城和久.md "wikilink")（[富山局副部長](../Page/NHK富山放送局.md "wikilink")）、[藤澤義貴](../Page/藤澤義貴.md "wikilink")（[福岡局](../Page/NHK福岡放送局.md "wikilink")）など

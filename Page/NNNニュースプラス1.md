@@ -902,7 +902,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>☆</p></td>
 <td><p>1988年4月 - 1996年3月：<a href="https://ja.wikipedia.org/wiki/FBCニュースプラス1" title="wikilink">FBC NNNニュースプラス1</a><br />
 1996年4月 - 2006年3月：<a href="../Page/夕方いちばんプラス1.md" title="wikilink">夕方いちばんプラス1</a><br />

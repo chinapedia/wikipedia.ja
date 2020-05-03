@@ -549,7 +549,8 @@ TYCT-30063</p></td>
 <td><p>28th</p></td>
 <td><p>2020年<a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
 <td><p><strong><a href="../Page/灰色の街.md" title="wikilink">灰色の街</a></strong></p></td>
-<td></td>
+<td><p>TYCT-39133<br />
+TYCT-30111/2</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -822,6 +823,18 @@ TRCP-113</p></td>
 TYCT-60109</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
+<td><p><strong><a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>トリビュート集 楽園十三景</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/追憶のライラック" title="wikilink">追憶のライラック</a></p></td>
+<td><p>CTCR-14956</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年<a href="../Page/11月27日.md" title="wikilink">11月27日</a></p></td>
+<td><p><strong><a href="../Page/井上陽水トリビュート.md" title="wikilink">井上陽水トリビュート</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/傘がない" title="wikilink">傘がない</a></p></td>
+<td><p>UPCH-2198</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1013,6 +1026,17 @@ TYXT-19008/9 (BD版)</p></td>
   - [情熱大陸](../Page/情熱大陸.md "wikilink")×[綾野剛](../Page/綾野剛.md "wikilink") プレミアムエディション (映像内の楽曲提供)
       - [2014年](../Page/2014年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")発売 / PCXE-50328(Blu-ray版) / PCBE-54408(DVD版)
 
+## タイアップ
+
+| 曲名             | タイアップ                                                                           |
+| -------------- | ------------------------------------------------------------------------------- |
+| 赤橙             | スペースシャワーTV2002年10月度[POWER PUSH](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink") |
+| world symphony | 「[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")」2005年12月度オープニングテーマ    |
+| REMIND         | HTB「NO MATTER BOARD」エンディングテーマ                                                   |
+| DEAR FREEDOM   | ソニー・エリクソン・モバイルコミュニケーション「XPERIA」CMソング                                            |
+| ±0             | 「カウンターストライクオンライン」CMソング                                                          |
+| 世界が終わる夜        | TBSテレビ系「スーパーサッカー」エンディングテーマ                                                      |
+
 ## Cinema
 
 「**音楽に求める感動は映画に求める感動に似ている**」という発想から生まれたACIDMAN主催のイベントである。複数のアーティストがライブを行って、セットチェンジの間に短編のショートフィルムを流すという形をとっている。ショートフィルムは一般でも募集しているが、海外からの作品を上映することが多い。2002年から始まり、2005年までにVol.0を含めると4回開催されたが2006年以降は開催されていない。また毎回パンフレットが作成され、無料で配られていた。
@@ -1113,25 +1137,153 @@ TYXT-19008/9 (BD版)</p></td>
 
 ### ワンマンライブ
 
-  - ACIDMAN ファーストワンマンライブ ([2002年](../Page/2002年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")) 下北沢GARAGE
-  - ACIDMAN LIVE TOUR "創" ([2002年](../Page/2002年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")～[12月26日](../Page/12月26日.md "wikilink")) 2公演
-  - ACIDMAN ワンマンライブ ([2003年](../Page/2003年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")〜[4月29日](../Page/4月29日.md "wikilink")) 3公演
-  - ACIDMAN LIVE TOUR "Loop" ([2003年](../Page/2003年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")～[10月10日](../Page/10月10日.md "wikilink")) 8公演
-  - ACIDMAN LIVE TOUR "equal" ([2004年](../Page/2004年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")～[12月5日](../Page/12月5日.md "wikilink")) 14公演
-  - ACIDMAN LIVE TOUR "and world" ([2006年](../Page/2006年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")～[4月9日](../Page/4月9日.md "wikilink")) 8公演
-  - ACIDMAN LIVE TOUR "green chord" ([2007年](../Page/2007年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")～[5月12日](../Page/5月12日.md "wikilink")) 12公演
-  - ACIDMAN LIVE TOUR "LIFE" ([2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")～[7月12日](../Page/7月12日.md "wikilink")) 15公演
-  - ACIDMAN LIVE TOUR "A beautiful greed" ([2009年](../Page/2009年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")～[12月22日](../Page/12月22日.md "wikilink")) 21公演
-  - ACIDMAN LIVE TOUR "ALMA" ([2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")～[6月4日](../Page/6月4日.md "wikilink")) 16公演
-  - ACIDMAN（Acoustic set）"Second line & Acoustic live" ([2011年](../Page/2011年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")〜[10月16日](../Page/10月16日.md "wikilink")) 4公演
-  - ACIDMAN LIVE "15th & 10th Anniversary Tour" ([2012年](../Page/2012年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")〜[4月21日](../Page/4月21日.md "wikilink")) 10公演
-  - ACIDMAN LIVE in FUKUSHIMA 2013 ([2013年](../Page/2013年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")) [いわき芸術文化交流館アリオス](https://ja.wikipedia.org/wiki/いわき芸術文化交流館アリオス "wikilink")
-  - ACIDMAN LIVE TOUR "新世界" ([2013年](../Page/2013年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")～[2013年](../Page/2013年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")) 18公演
-  - ACIDMAN LIVE in FUKUSHIMA 2014 ([2014年](../Page/2014年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")) [いわき市文化センター](https://ja.wikipedia.org/wiki/いわき市文化センター "wikilink")
-  - ACIDMAN LIVE TOUR "ANTHOLOGY" ([2014年](../Page/2014年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")～[2014年](../Page/2014年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")) 6公演
-  - ACIDMAN New Single『世界が終わる夜』発売記念ワンマンライブ ([2014年](../Page/2014年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")) Zepp Tokyo
-  - ACIDMAN LIVE TOUR "有と無" ([2015年](../Page/2015年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")～[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")) 20公演
-  - ACIDMAN LIVE TOUR "Second line & Acoustic collection II" ([2016年](../Page/2016年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")～[2016年](../Page/2016年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")) 8公演
+<table>
+<thead>
+<tr class="header">
+<th><p>開催日</p></th>
+<th><p>タイトル</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
+<td><p>ACIDMAN ファーストワンマンライブ</p></td>
+<td><p>下北沢GARAGE</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a>～<a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "創"</p></td>
+<td><p>2公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月25日.md" title="wikilink">4月25日</a>〜<a href="../Page/4月29日.md" title="wikilink">4月29日</a></p></td>
+<td><p>ACIDMAN ワンマンライブ</p></td>
+<td><p>3公演</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/9月15日.md" title="wikilink">9月15日</a>～<a href="../Page/10月10日.md" title="wikilink">10月10日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "Loop"</p></td>
+<td><p>8公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/10月30日.md" title="wikilink">10月30日</a>～<a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "equal"</p></td>
+<td><p>14公演</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月4日.md" title="wikilink">3月4日</a>～<a href="../Page/4月9日.md" title="wikilink">4月9日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "and world"</p></td>
+<td><p>8公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a>～<a href="../Page/5月12日.md" title="wikilink">5月12日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "green chord"</p></td>
+<td><p>12公演</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a>～<a href="../Page/7月12日.md" title="wikilink">7月12日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "LIFE"</p></td>
+<td><p>15公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/10月16日.md" title="wikilink">10月16日</a>～<a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "A beautiful greed"</p></td>
+<td><p>21公演</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/2月26日.md" title="wikilink">2月26日</a>～<a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "ALMA"</p></td>
+<td><p>16公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/10月9日.md" title="wikilink">10月9日</a>〜<a href="../Page/10月16日.md" title="wikilink">10月16日</a></p></td>
+<td><p>ACIDMAN（Acoustic set）"Second line &amp; Acoustic live"</p></td>
+<td><p>4公演</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a>〜<a href="../Page/4月21日.md" title="wikilink">4月21日</a></p></td>
+<td><p>ACIDMAN LIVE "15th &amp; 10th Anniversary Tour"</p></td>
+<td><p>10公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/3月11日.md" title="wikilink">3月11日</a></p></td>
+<td><p>ACIDMAN LIVE in FUKUSHIMA 2013</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いわき芸術文化交流館アリオス" title="wikilink">いわき芸術文化交流館アリオス</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a>～<a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "新世界"</p></td>
+<td><p>18公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/3月11日.md" title="wikilink">3月11日</a></p></td>
+<td><p>ACIDMAN LIVE in FUKUSHIMA 2014</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いわき市文化センター" title="wikilink">いわき市文化センター</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/5月22日.md" title="wikilink">5月22日</a>～<a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "ANTHOLOGY"</p></td>
+<td><p>6公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/10月23日.md" title="wikilink">10月23日</a></p></td>
+<td><p>ACIDMAN New Single『世界が終わる夜』発売記念ワンマンライブ</p></td>
+<td><p>Zepp Tokyo</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a>～<a href="../Page/4月18日.md" title="wikilink">4月18日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "有と無"</p></td>
+<td><p>20公演</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a>～<a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
+<td><p>ACIDMAN LIVE TOUR "Second line &amp; Acoustic collection II"</p></td>
+<td><p>8公演</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年1月21日</p></td>
+<td><p>「ACIDMAN 20th Anniversary Fans' Best Selection Album "Your Song" 」<br />
+リリース記念プレミアムワンマンライブ</p></td>
+<td><p>Zepp Tokyo</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年3月11日</p></td>
+<td><p>ACIDMAN LIVE in FUKUSHIMA 2018</p></td>
+<td><p>いわき芸術文化交流館アリオス 中劇場</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月1日〜7月13日</p></td>
+<td><p>ACIDMAN LIVE TOUR "Λ(ラムダ)"</p></td>
+<td><p>16公演</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年3月2日〜5月18日</p></td>
+<td><p>ACIDMAN LIVE TOUR "ANTHOLOGY 2"</p></td>
+<td><p>12公演</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月30日〜12月12日</p></td>
+<td><p>ACIDMAN LIVE TOUR "創、再現"</p></td>
+<td><p>6公演</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年3月11日</p></td>
+<td><p>LIVE in FUKUSHIMA 2020</p></td>
+<td><p>南相馬BACK BEAT</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年7月8日〜7月30日</p></td>
+<td><p>『灰色の街』リリース記念プレミアム・ワンマンツアー</p></td>
+<td><p>5公演</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### ツーマンライブ
 
@@ -1147,12 +1299,18 @@ TYXT-19008/9 (BD版)</p></td>
 
 <div class="NavHead" style="text-align: center;">
 
-[2003年](../Page/2003年.md "wikilink")
+\- [2003年](../Page/2003年.md "wikilink")
 
 </div>
 
 <div class="NavContent" style="text-align: left;">
 
+  - 2001年10月20日 - MINAMI WHEEL 2001
+  - 2002年10月19日 - MINAMI WHEEL 2002
+  - 2003年01月12日 - JAPAN CIRCUIT vol.8
+  - 2003年03月02日 - ROCK AROUND KOBE Vol.20
+  - 2003年05月04日 - MUSIC DAY 2003
+  - 2003年05月30日・31日 - Rolling Rocks Episode 8
   - 2003年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2003
   - 2003年08月09日 - [SETSTOCK](../Page/SETSTOCK.md "wikilink") '03
   - 2003年09月07日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09072003
@@ -1175,7 +1333,7 @@ TYXT-19008/9 (BD版)</p></td>
   - 2004年07月01日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2004 in 武道館
   - 2004年08月07日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2004
   - 2004年08月13日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2004 in EZO
-  - 2004年08月18日 - TREASURE052 2004 ～rainbow surprise～
+  - 2004年08月18日 - [TREASURE052](https://ja.wikipedia.org/wiki/TREASURE052 "wikilink") 2004 ～rainbow surprise～
   - 2004年08月22日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2004
   - 2004年08月29日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2004
   - 2004年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
@@ -1426,7 +1584,7 @@ TYXT-19008/9 (BD版)</p></td>
   - 2014年06月27日 - [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink") TRIBUTE ALBUM RELEASE EVENT"Broccasion Live TOKYO & OSAKA"
   - 2014年07月02日 - EX THEATER PREMIUM LIVE SERIES GO LIVE VOL.2
   - 2014年07月20日 - [JOIN ALIVE](https://ja.wikipedia.org/wiki/JOIN_ALIVE "wikilink") 2014
-  - 2014年07月27日 - OGA NAMAHAGE ROCK FESTIVAL VOL.5
+  - 2014年07月27日 - [OGA NAMAHAGE ROCK FESTIVAL](https://ja.wikipedia.org/wiki/OGA_NAMAHAGE_ROCK_FESTIVAL "wikilink") VOL.5
   - 2014年07月29日 - MUSIC ON\!TV presents GG14
   - 2014年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2014
   - 2014年08月23日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2014
@@ -1502,7 +1660,7 @@ TYXT-19008/9 (BD版)</p></td>
 
   - 2016年05月04日 - rockin'on presents JAPAN JAM BEACH 2016
   - 2016年06月26日 - [04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink") 「AIM tour 2016」
-  - 2016年07月09日 - DEAD POP FESTIVAL 2016
+  - 2016年07月09日 - [DEAD POP FESTiVAL](https://ja.wikipedia.org/wiki/DEAD_POP_FESTiVAL "wikilink") 2016
   - 2016年07月17日 - KESEN ROCK FESTIVAL '16
   - 2016年07月23日 - Talking Rock\! FES.2016
   - 2016年07月30日 - Reborn‒Art Festival x [ap bank fes](https://ja.wikipedia.org/wiki/ap_bank_fes "wikilink") 2016
@@ -1510,14 +1668,141 @@ TYXT-19008/9 (BD版)</p></td>
   - 2016年08月20日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink")2016
   - 2016年09月11日 - [中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink") 2016
   - 2016年09月14日 - [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")”原点回帰全国ツアー”
-  - 2016年09月17日 - New Acoustic Camp 2016
+  - 2016年09月17日 - [New Acoustic Camp](https://ja.wikipedia.org/wiki/New_Acoustic_Camp "wikilink") 2016
   - 2016年09月19日 - [CROSS FAITH](https://ja.wikipedia.org/wiki/Crossfaith "wikilink") New Age Warriors Tour 2016
   - 2016年10月30日 - GOTTON JAM 2016
   - 2016年11月05日 - [追手門学院大学](../Page/追手門学院大学.md "wikilink")第50回将軍山祭
   - 2016年12月03日 - SKULLSHIT 20th ANNIVERSARY 「骸骨祭り」
   - 2016年12月10日 - Balance 20周年感謝祭 Quartet
-  - 2016年12月24日 - MERRY ROCK PARADE 2016
-  - 2016年12月??日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 16/17
+  - 2016年12月24日 - [MERRY ROCK PARADE](../Page/MERRY_ROCK_PARADE.md "wikilink") 2016
+  - 2016年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 16/17
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear:;">
+
+<div class="NavHead" style="text-align: center;">
+
+[2017年](../Page/2017年.md "wikilink")
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 03月17日 - NO NUKES 2017
+  - 04月08日 - [TOWER RECORDS presents Bowline](https://ja.wikipedia.org/wiki/TOWER_RECORDS_presents_Bowline "wikilink") 2017 curated by ACIDMAN & TOWER RECORDS
+  - 04月29日 - ARABAKI ROCK FEST.17
+      -
+        ゲスト:浅野忠信 / 片平里菜 / 小林武史 / 斉藤和義 / 四家卯大strings / HAPPY CHOIR & ゴスペルスパークル / 谷中敦 / 加藤隆志
+  - 05月05日 - VIVA LA ROCK 2017
+  - 05月06日 - JAPAN JAM 2017
+  - 06月27日 - NTT Docomo presents MIYAVI 15th Anniversary Live "NEO TOKYO 15"
+  - 07月07日 - uP\!\!\!SPECIAL LIVE HOLIC vol.11
+  - 07月15日 - JOIN ALIVE 2017
+  - 07月29日 - Reborn-Art Festival × ap bank fes 2017
+  - 08月20日 - MONSTER baSH 2017
+  - 08月26日 - RUSH BALL 2017
+  - 09月17日 - New Acoustic Camp 2017
+  - 09月23日 - 中津川 THE SOLAR BUDOKAN 2017
+  - 09月30日 - MEGA☆ROCKS 2017
+  - 12月23日 - ストレイテナー「BROKEN SCENE TOUR 2017 AW」
+  - 12月31日 - COUNTDOWN JAPAN 17/18
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear:;">
+
+<div class="NavHead" style="text-align: center;">
+
+[2018年](../Page/2018年.md "wikilink")
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 01月28日 - フルカワユタカ presents「5×20」
+  - 02月24日 - s60&[Xmas Eileen](https://ja.wikipedia.org/wiki/Xmas_Eileen "wikilink") DJ Presents【ZASSO.】
+  - 03月03日 - NCC SUPER LIVE 2018
+  - 05月03日 - GBGB2018
+  - 06月01日 - LOVE MUSIC FESTIVAL 2018
+  - 08月04日 - ホットフィールド2018
+  - 08月11日 - とみROCK 2018
+  - 08月12日 - ROCK IN JAPAN FESTIVAL 2018
+  - 08月26日 - Fight\!～FOOD×ENTERTAINMENT BATTLE HOT MUSIC DAY
+  - 09月01日 - RUSH BALL 2018 20th ANNIVERSARY
+  - 09月15日 - New Acoustic Camp 2018 ～わらう、うたう、たべる、ねっころがる。
+  - 09月22日 - 中津川 THE SOLAR BUDOKAN 2018
+  - 09月24日 - RESORT JAM 2018
+  - 10月07日 - [THE GREAT SATSUMANIAN HESTIVAL](https://ja.wikipedia.org/wiki/THE_GREAT_SATSUMANIAN_HESTIVAL "wikilink") 2018
+  - 10月13日 - SMOOTH LIKE GREENSPIA 2018
+  - 10月25日・11月1日 - [TK from 凛として時雨](https://ja.wikipedia.org/wiki/TK_from_凛として時雨 "wikilink") presents "error for 0 vol.4"
+  - 11月04日 - [駒澤大学](../Page/駒澤大学.md "wikilink") KOMAZAWA UNIV. AUTUMN FESTIVAL LIVE2018\!\!月夜編
+  - 11月28日 - STOMPIN' NITE 外伝 -TOKYO-
+  - 12月16日 - HOLON SOUNDS presents "THE DAY"
+  - 12月21日 - [Dragon Ash](../Page/Dragon_Ash.md "wikilink") LIVE TOUR 『UNITED FRONT』
+  - 12月23日 - MERRY ROCK PARADE 2018
+  - 12月26日 - CROSS FM 25th Anniversary MUSIC JUNCTION 2018
+  - 12月30日 - COUNTDOWN JAPAN 18/19
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear:;">
+
+<div class="NavHead" style="text-align: center;">
+
+[2019年](../Page/2019年.md "wikilink")
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 02月16日 - [アルカラ](https://ja.wikipedia.org/wiki/アルカラ "wikilink")「ドコドコまでもどこまでもツアー2019」
+  - 03月09日 - 川越春一番コンサート2019ACIDMAN\&IMO楽団
+  - 03月24日 - NO NUKES 2019
+  - 03月30日 - uP\!\!\! SPECIAL LIVE HOLIC extra vol.3 supported by SPACE SHOWER TV
+  - 03月31日 - 業音69(カルマロック)Vol.1
+  - 04月27日 - ARABAKI ROCK FEST.19
+  - 05月03日 - VIVA LA ROCK 2019
+  - 06月03日 - [FOMARE](https://ja.wikipedia.org/wiki/FOMARE "wikilink")「SLAM TOUR 2019」
+  - 06月05日〜28日 - ACIDMAN×STRAIGHTENER×THE BACK HORN Tour "THREE for THREE"
+  - 06月30日 - 京都大作戦2019 ～倍返しです\!喰らいな祭～
+  - 07月06日 - 猪苗代 THE SOLAR BUDOKAN 2019
+  - 07月13日 - KESEN ROCK FESTIVAL'19
+  - 08月12日 - ROCK IN JAPAN FESTIVAL 2019
+  - 09月05日 - BIGCAT 20th Anniversary\!\! "SPECIAL 2MAN LIVE ACIDMAN×[LAMP IN TERREN](https://ja.wikipedia.org/wiki/LAMP_IN_TERREN "wikilink")"
+  - 09月14日 - New Acoustic Camp 2019 ～わらう、うたう、たべる、ねっころがる。 - 10th Anniversary MAGICAL CAMPING EVERLASTING\! -
+  - 09月22日 - 山人音楽祭 2019
+  - 09月29日 - 中津川 THE SOLAR BUDOKAN 2019
+  - 10月20日 - Chillin'Vibes 2019
+  - 11月29日 - [サンボマスター](../Page/サンボマスター.md "wikilink")「デカスロン ～強敵と書いて友と呼ぶ～」
+  - 12月07日 - 「Starry Music Special Edition～music by ACIDMAN～」投影開始記念ライブイベント
+  - 12月18日 - エアトリ presents 毎日がクリスマス 2019～ACIDMAN × KEYTALK～
+  - 12月29日 - COUNTDOWN JAPAN 19/20
+  - 12月30日 - New years eve GALA CONCERT Somewhere, 1001 candles
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear:;">
+
+<div class="NavHead" style="text-align: center;">
+
+[2020年](../Page/2020年.md "wikilink")
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 02月24日 - [SCOOBIE DO](https://ja.wikipedia.org/wiki/SCOOBIE_DO "wikilink") TOUR「Have A Nice 25周年\!Season 1」
+
+</div>
 
 </div>
 
@@ -1531,7 +1816,7 @@ TYXT-19008/9 (BD版)</p></td>
 | [柿本ケンサク](https://ja.wikipedia.org/wiki/柿本ケンサク "wikilink")   | 「[ALMA](https://www.youtube.com/watch?v=ylEDfirYJaY)」「[2145年](https://www.youtube.com/watch?v=GKTub2Lk3wg)」「[赤橙（Acoustic）](https://www.youtube.com/watch?v=xeS-5RZoKYY)」「[to live](https://www.youtube.com/watch?v=0PEPZDZhcjk)」「[アルケミスト](https://www.youtube.com/watch?v=nHoWPc8inpk)」「[新世界](https://www.youtube.com/watch?v=PcWQuSLmi7s)」「[風追い人（前編）](https://www.youtube.com/watch?v=6X8OiZgOCQo)」「[EVERLIGHT](https://www.youtube.com/watch?v=RLZ_ktxGLOo)」「[Stay in my hand](https://www.youtube.com/watch?v=3qlP35kl04s)」 「[世界が終わる夜](https://www.youtube.com/watch?v=ZPzF7T5q9-Y)」「最後の星」                                  |
 | [菊池早苗](https://ja.wikipedia.org/wiki/菊池早苗 "wikilink")       | 「[Returning](https://www.youtube.com/watch?v=7QxHixag6_Y)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | [小島淳二](../Page/小島淳二.md "wikilink")                          | 「[今、透明か](https://www.youtube.com/watch?v=LB7gb9SLvVg)」「[造花が笑う](https://www.youtube.com/watch?v=k4BEmdzejy4)」「[アレグロ](https://www.youtube.com/watch?v=sBP3W59qqSg)」「[赤橙](https://www.youtube.com/watch?v=EXYTyVR1Eac)」「at」「[slow view](https://www.youtube.com/watch?v=o6OPpYSpA7I)「[飛光](https://www.youtube.com/watch?v=o0ftuDdhKYc)」「[静かなる嘘と調和](https://www.youtube.com/watch?v=d5PC13tva4A)」「[リピート](https://www.youtube.com/watch?v=FqqLVVMkgm0)」「[波、白く](https://www.youtube.com/watch?v=n3NPPKQsqy8)」                                                                                                                        |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink")       | 「[HUM](https://www.youtube.com/watch?v=V4rmwxg__lk)」「[Ucess](https://www.youtube.com/watch?v=CZXEMF2tPeQ)」「[ファンタジア](https://www.youtube.com/watch?v=UbiuQZDXQCY)」                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [小嶋貴之](../Page/小嶋貴之.md "wikilink")                          | 「[HUM](https://www.youtube.com/watch?v=V4rmwxg__lk)」「[Ucess](https://www.youtube.com/watch?v=CZXEMF2tPeQ)」「[ファンタジア](https://www.youtube.com/watch?v=UbiuQZDXQCY)」                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | [島田大介](../Page/島田大介.md "wikilink")                          | 「[式日](https://www.youtube.com/watch?v=m67bzCl4RAo)」「[FREE STAR](https://www.youtube.com/watch?v=iGZBzcClsFQ)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [鈴木大伸](https://ja.wikipedia.org/wiki/鈴木大伸 "wikilink")       | 「[REMIND](https://www.youtube.com/watch?v=zV8ui5QAzrc)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | [須永秀明](../Page/須永秀明.md "wikilink")                          | 「[CARVE WITH THE SENSE](https://www.youtube.com/watch?v=V-GJ3CDFaNk)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -1562,6 +1847,20 @@ TYXT-19008/9 (BD版)</p></td>
 
   - [FREESTAR](http://freestar.jp/)
 
+  -
+  -   - [ミュージックビデオ - YouTube(再生リスト)](https://www.youtube.com/playlist?list=PLNYTQ2DdD26IbIa_HGwKSKK4VXUGPqQ8N)
+
+  -
+  -
+  - [ACIDMAN 歌詞リスト - J-Lyric.net](http://j-lyric.net/artist/a00b172/)
+
+  - [うたまっぷ歌詞検索/歌手:ACIDMAN/歌詞一覧](https://www.utamap.com/searchartist.php?artistid=1002352_1&sortname=3&pattern=4)
+
+  -
+  -
+  -
+  -
+  -
 **浦山一悟**
 
   -

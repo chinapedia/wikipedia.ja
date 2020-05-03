@@ -11,7 +11,7 @@
 
 ハイカラのシングルとしては初めて原型の入ったシングルに、ミックスした曲が収録されている。
 
-「[OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」から久しぶりにこの曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演を果たし、同番組に出演したのは、これが最後となった。また、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』の『RANK-IN』コーナーにて初出演も果たしている。
+「[OVER](../Page/OVER_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」から久しぶりにこの曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演を果たし、同番組に出演したのは、これが最後となった。また、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』の『RANK-IN』コーナーにて初出演も果たしている。
 
 ## 収録曲
 

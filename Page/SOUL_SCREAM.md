@@ -101,7 +101,7 @@
 
 ## 外部リンク
 
-  - [SOUL SCREAM](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30209100)
+  -
   - [SOUL SCREAM MYSPACE](http://www.myspace.com/soulscreamhiphop)
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

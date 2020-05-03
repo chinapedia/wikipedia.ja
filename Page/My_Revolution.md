@@ -102,6 +102,7 @@
 
 ## 同曲の作品等の利用など
 
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）1月-3月に[TBS系で放映された](../Page/TBSテレビ.md "wikilink")『[セーラー服通り](../Page/セーラー服通り.md "wikilink")』のオープニングテーマとして起用。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）に[大友克洋](../Page/大友克洋.md "wikilink")原作の映画『SO WHAT』（監督：[山川直人](../Page/山川直人_\(映画監督\).md "wikilink")）の主題歌として起用。
   - [1992年](../Page/1992年.md "wikilink")（平成4年）[4月22日](../Page/4月22日.md "wikilink")に渡辺美里自身が「My Revolution -第2章-」としてセルフカバー。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）4月に[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[部長刑事 シンマイ。](../Page/部長刑事.md "wikilink")シリーズ』の主題歌として起用。
@@ -111,7 +112,7 @@
   - [2006年](../Page/2006年.md "wikilink")（平成18年）、『[ますだおかだのオールナイトニッポン](../Page/ますだおかだのオールナイトニッポン.md "wikilink")』のエンディングテーマ曲として起用。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）11月に公開された映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』の主題歌として起用。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[MBS](../Page/毎日放送.md "wikilink")『[水野真紀の魔法のレストランR](../Page/水野真紀の魔法のレストランR.md "wikilink")』「新100人の料理人\!レボリューション」のエンディンクテーマとしてオーケストラVer.を使用。
-  - 2013年（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「株主優待で暮らす桐谷さんシリーズ」のコーナーで度々使用されている。
+  - 2013年（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「株主優待で暮らす桐谷さんシリーズ」のコーナーで桐谷さんが自転車を全力で漕ぐ際に度々使用されている。
   - [2020年](../Page/2020年.md "wikilink")（令和2年）[BSテレ東](../Page/BSテレビ東京.md "wikilink")「[真夜中ドラマ](https://ja.wikipedia.org/wiki/真夜中ドラマ "wikilink")」『[ハイポジ 1986年、二度目の青春。](https://ja.wikipedia.org/wiki/ハイポジ_\(漫画\)#テレビドラマ "wikilink")』最終回で挿入歌として使用\[8\]。
 
 ## 同曲のカバーアーティスト

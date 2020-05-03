@@ -7,7 +7,7 @@
 
 Lily Chou-Chouとは2001年公開の映画『[リリイ・シュシュのすべて](../Page/リリイ・シュシュのすべて.md "wikilink")』（[岩井俊二](../Page/岩井俊二.md "wikilink")監督）に登場する架空のシンガーソングライターのことであるが、映画から生まれた同名の音楽ユニットも実在し、映画内で流れる曲を担当している。またLily Chou-Chouの歌はいずれも[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")\[1\]が歌唱している。\[2\]\[3\]
 
-「リリイ・シュシュ」と言う名前は、[ドビュッシーの最初の妻](../Page/クロード・ドビュッシー.md "wikilink")（Rosalie Texier）の愛称である"Lily"と、2番目の妻との間に出来た娘（Claude-Emma）の愛称"Chou-Chou"から付けられている。 オーダイルEX
+「リリイ・シュシュ」と言う名前は、[ドビュッシーの最初の妻](../Page/クロード・ドビュッシー.md "wikilink")（Rosalie Texier）の愛称である"Lily"と、2番目の妻との間に出来た娘（Claude-Emma）の愛称"Chou-Chou"から付けられている。
 
 ## ユニット (実在)
 

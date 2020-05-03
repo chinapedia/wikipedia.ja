@@ -1176,7 +1176,7 @@
     一寸法師のどんなもんだい（ROM）
 
   - カプコン
-    [魔界島](https://ja.wikipedia.org/wiki/魔界島 "wikilink")（ROM）
+    [魔界島 七つの島大冒険](https://ja.wikipedia.org/wiki/魔界島_七つの島大冒険 "wikilink")（ROM）
 
   - キャリーラボ
     マッドライダー（ROM）

@@ -73,7 +73,7 @@
 
 『[はぐれ刑事純情派](../Page/はぐれ刑事純情派.md "wikilink")』『[はみだし刑事情熱系](../Page/はみだし刑事情熱系.md "wikilink")』『[相棒](https://ja.wikipedia.org/wiki/相棒 "wikilink")』など、数多くの刑事ドラマが放送されているテレビ朝日水曜21時枠で放映。「夏の単独作品第2弾」。
 
-なお、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")および[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")では土曜22時から22時54分、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では火曜22時から22時54分に放送している。[山陰中央テレビでは](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、2006年11月16日から2007年2月1日まで、毎週木曜1時05分から2時に放送されていた。
+なお、[福井放送](../Page/福井放送.md "wikilink")および[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")では土曜22時から22時54分、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では火曜22時から22時54分に放送している。[山陰中央テレビでは](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、2006年11月16日から2007年2月1日まで、毎週木曜1時05分から2時に放送されていた。
 
 テレ朝水曜21時枠刑事ドラマシリーズ初の女性主演作品で、またこの作品が初の原作付きの作品だった。平均視聴率は8.9%と1桁と2桁を行き来するという低視聴率に終わった。
 

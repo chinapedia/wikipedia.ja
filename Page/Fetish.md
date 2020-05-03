@@ -57,7 +57,7 @@
         布袋自身が「数年に一度の名曲」と語っている。\[2\]
 4.  **BEAUTY & THE BEAST**
       -
-        アルバムリリース後、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』にてを除くツアーメンバー全員により生演奏で披露された。
+        アルバムリリース後、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』にてを除くツアーメンバー全員により生演奏で披露された。
 5.  **PRINCE OF DARKNESS**
       -
         バックに流れる声は[ロシア](../Page/ロシア.md "wikilink")の[僧侶の](https://ja.wikipedia.org/wiki/僧侶_\(曖昧さ回避\) "wikilink")[読経](../Page/読経.md "wikilink")を[サンプリング](../Page/サンプリング.md "wikilink")したもの。

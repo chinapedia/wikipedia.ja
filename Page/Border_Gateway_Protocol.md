@@ -7,7 +7,7 @@
 
 [自律システム](../Page/自律システム_\(インターネット\).md "wikilink") (AS) 間の[ルーティング](../Page/ルーティング.md "wikilink")を行う[Exterior Gateway Protocol](../Page/Exterior_Gateway_Protocol.md "wikilink")（EGP）の[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。
 
-BGPはIPネットワークか[自律システム](../Page/自律システム_\(インターネット\).md "wikilink") (AS) 間の到達性を示すプレフィックス () の[ルーティングテーブル](../Page/ルーティングテーブル.md "wikilink")を維持することでルーティングを行う。 BGPは****に分類され、技術的なメトリックは使用しないが、ネットワークの細かい規則や方針に従って[ルーティング](../Page/ルーティング.md "wikilink")を行う。 BGPはクラスレスドメイン間ルーティング ([CIDR](https://ja.wikipedia.org/wiki/CIDR "wikilink")) をサポートし、経路の集約を行うことでルーティングテーブルのサイズを削減することができる。
+BGPはIPネットワークか[自律システム](../Page/自律システム_\(インターネット\).md "wikilink") (AS) 間の到達性を示すプレフィックス () の[ルーティングテーブル](../Page/ルーティングテーブル.md "wikilink")を維持することでルーティングを行う。 BGPは****に分類され、技術的なメトリックは使用しないが、ネットワークの細かい規則や方針に従って[ルーティング](../Page/ルーティング.md "wikilink")を行う。 BGPはクラスレスドメイン間ルーティング ([CIDR](https://ja.wikipedia.org/wiki/CIDR "wikilink")) をサポートし、[経路集約](https://ja.wikipedia.org/wiki/経路集約 "wikilink")を行うことでルーティングテーブルのサイズを削減することができる。
 
 BGPを利用するルーター間は[IGP](../Page/Interior_Gateway_Protocol.md "wikilink")[セッション](../Page/セッション.md "wikilink")を張る。 [ルーター](../Page/ルーター.md "wikilink")の数が多いネットワークでBGPを利用する場合、IGPセッションの数が多くなり、[スケーラビリティ](https://ja.wikipedia.org/wiki/スケーラビリティ "wikilink")の問題が発生する。この問題を解決するために利用している技術を[ルートリフレクション](https://ja.wikipedia.org/wiki/ルートリフレクション "wikilink")と言う。
 

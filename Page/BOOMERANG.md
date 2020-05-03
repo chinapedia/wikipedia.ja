@@ -72,7 +72,7 @@
 
 ## 外部リンク
 
-  - [ブーメラン\! 日本公式](https://www.cartoonnetwork.jp/boomerang/)
+  - [ブーメラン\!](https://www.cartoonnetwork.jp/boomerang/)
 
   -
 [Category:テレビアニメの放送枠](https://ja.wikipedia.org/wiki/Category:テレビアニメの放送枠 "wikilink") [Category:カートゥーン_ネットワーク](https://ja.wikipedia.org/wiki/Category:カートゥーン_ネットワーク "wikilink") [Category:アトランタの企業](https://ja.wikipedia.org/wiki/Category:アトランタの企業 "wikilink") [Category:ワーナーメディア](https://ja.wikipedia.org/wiki/Category:ワーナーメディア "wikilink")

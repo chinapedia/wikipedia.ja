@@ -267,7 +267,7 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a>(4)</p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a>(4)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Voyage_(曲)" title="wikilink">Voyage</a></p></td>
 <td><p>29</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポルノグラフィティ" title="wikilink">ポルノグラフィティ</a>(2)</p></td>

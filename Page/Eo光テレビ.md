@@ -157,7 +157,7 @@ KBS京都（一部のみ）</p></td>
 <td><p>和歌山県</p></td>
 <td><p><a href="../Page/NHK和歌山放送局.md" title="wikilink">NHK和歌山</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -198,7 +198,7 @@ KBS京都（一部のみ）</p></td>
 <tr class="even">
 <td><p><strong>5</strong></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a>（京都・大阪・奈良[8][9]）、<a href="../Page/びわ湖放送.md" title="wikilink">びわ湖放送</a>（滋賀）<br />
-サンテレビ（兵庫の一部[10]）、<a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a>（和歌山）</p></td>
+サンテレビ（兵庫の一部[10]）、<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a>（和歌山）</p></td>
 <td><p>KBS京都</p></td>
 </tr>
 <tr class="odd">

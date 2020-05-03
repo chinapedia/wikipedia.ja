@@ -54,7 +54,7 @@ L.A.Angel、HbG等も含む。
   - [石原朋香](../Page/石原朋香.md "wikilink")（ - 2008年12月7日）
   - [岩田ゆり](../Page/岩田ゆり.md "wikilink")（ - 2005年[11月23日](../Page/11月23日.md "wikilink")、初代キャプテン）
   - [植田幸英](https://ja.wikipedia.org/wiki/植田幸英 "wikilink")（コーチ、 - 2008年[9月30日](../Page/9月30日.md "wikilink")）
-  - [宇津木有香](https://ja.wikipedia.org/wiki/宇津木有香 "wikilink")（コーチ、 - 2008年[9月7日](../Page/9月7日.md "wikilink")）
+  - [宇津木有香](../Page/宇津木有香.md "wikilink")（コーチ、 - 2008年[9月7日](../Page/9月7日.md "wikilink")）
   - [江東夏美](https://ja.wikipedia.org/wiki/江東夏美 "wikilink")
   - [岡田ひかり](../Page/岡田ひかり.md "wikilink")（2007年1月20日 - 2008年12月7日）
   - [岡田ひとみ](../Page/岡田ひとみ_\(タレント\).md "wikilink")

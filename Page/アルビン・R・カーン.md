@@ -1,7 +1,7 @@
 > この記事は[アルビン・R・カーン](https://ja.wikipedia.org/wiki/アルビン・R・カーン)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Yoshio_Shirai_and_Alvin_Rober_Cahn_1952.JPG "wikilink") **アルビン・ロバー・カーン**（**Alvin Rober Cahn**、[1892年](../Page/1892年.md "wikilink") - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")、日本人最初の[ボクシング](../Page/ボクシング.md "wikilink")世界チャンピオンとなる[白井義男](../Page/白井義男.md "wikilink")のコーチ兼マネージャーである。日本ボクシング界に与えた影響は大きい。通称「**カーン博士（はかせ）**」。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Yoshio_Shirai_and_Alvin_Rober_Cahn_1952.JPG "wikilink") **アルビン・ロバー・カーン**（**Alvin Rober Cahn**、[1892年](../Page/1892年.md "wikilink") - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")、日本人最初の[ボクシング](../Page/ボクシング.md "wikilink")世界チャンピオンとなる[白井義男](../Page/白井義男.md "wikilink")のコーチ兼マネージャーである。通称「**カーン博士（はかせ）**」。
 
 ## 来歴
 

@@ -108,7 +108,7 @@
 | 23                         | [伍代夏子](../Page/伍代夏子.md "wikilink")(12)                                      |
 | 25                         | [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")(2)                    |
 | 第2部                        |                                                                             |
-| 28                         | [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")(3)                  |
+| 28                         | [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")(3)                                     |
 | 30                         | [小林幸子](../Page/小林幸子.md "wikilink")(23)                                      |
 | 32                         | [Kiroro](../Page/Kiroro.md "wikilink")(3)                                   |
 | 34                         | [島津亜矢](../Page/島津亜矢.md "wikilink")(初)                                       |

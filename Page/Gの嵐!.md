@@ -766,14 +766,14 @@
 | [長野県](../Page/長野県.md "wikilink")                                                     | [テレビ信州](../Page/テレビ信州.md "wikilink")                    | 月曜24:50 - 25:20 | 12日遅れ   |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") | 金曜25:50 - 26:20 | 23日遅れ   |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [テレビ金沢](../Page/テレビ金沢.md "wikilink")                    | 日曜25:30 - 26:00 | 11日遅れ   |
-| [福井県](../Page/福井県.md "wikilink")                                                     | [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")   | 木曜24:50 - 25:20 | 15日遅れ   |
+| [福井県](../Page/福井県.md "wikilink")                                                     | [福井放送](../Page/福井放送.md "wikilink")                      | 木曜24:50 - 25:20 | 15日遅れ   |
 | [近畿広域圏](../Page/広域放送.md "wikilink")                                                  | [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")                | 木曜24:50 - 25:20 | 8日遅れ    |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")                    | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")             | 日曜10:55 - 11:25 | 151日遅れ  |
 | [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")                                  | [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")   | 火曜24:20 - 24:50 | 13日遅れ   |
 | [香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [西日本放送](../Page/西日本放送.md "wikilink")                    | 木曜24:55 - 25:25 | 64日遅れ   |
 | [高知県](../Page/高知県.md "wikilink")                                                     | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")   | 土曜25:50 - 26:20 | 24日遅れ   |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")                | 水曜24:20 - 24:50 | 14日遅れ   |
-| [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")   | 月曜24:55 - 25:25 | 12日遅れ   |
+| [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](../Page/大分放送.md "wikilink")                      | 月曜24:55 - 25:25 | 12日遅れ   |
 
 ### DVD
 

@@ -46,7 +46,7 @@
 
 2017年7～8月、プロジェクトの第四弾として舞台公演『天国への階段』を上演\[3\]。
 
-## 公演
+## 復活後の公演
 
   - Takayuki Suzui Project Vol.1『CUT』
 
@@ -97,7 +97,7 @@
 
   - [Out of Place ARTiSt「OOPARTS」（公式ホームページ）](http://ooparts-hokkaido.net/index.php)
 
-[Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink")
+[Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:鈴井貴之](https://ja.wikipedia.org/wiki/Category:鈴井貴之 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink")
 
 1.
 2.

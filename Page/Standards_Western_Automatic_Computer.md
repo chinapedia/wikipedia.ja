@@ -7,7 +7,7 @@
 
 ## 概要
 
-設計者は。同時期に開発された[SEAC](../Page/SEAC.md "wikilink")と同様で、もっと強力なコンピュータ（特に[レイセオン](../Page/レイセオン.md "wikilink")社の[RAYDAC](https://ja.wikipedia.org/wiki/RAYDAC "wikilink")）が完成するまでのつなぎとして NBS 内で使用するために短期間で開発した小型のコンピュータである。
+設計者は[ハリー・ハスキー](https://ja.wikipedia.org/wiki/ハリー・ハスキー "wikilink")。同時期に開発された[SEAC](../Page/SEAC.md "wikilink")と同様で、もっと強力なコンピュータ（特に[レイセオン](../Page/レイセオン.md "wikilink")社の[RAYDAC](https://ja.wikipedia.org/wiki/RAYDAC "wikilink")）が完成するまでのつなぎとして NBS 内で使用するために短期間で開発した小型のコンピュータである。
 
 2300本の[真空管](../Page/真空管.md "wikilink")で構成されている。256[ワード](../Page/ワード.md "wikilink")の[主記憶装置](../Page/主記憶装置.md "wikilink")（[ウィリアムス管](https://ja.wikipedia.org/wiki/ウィリアムス管 "wikilink")使用）を備え、ワード長は37[ビット](../Page/ビット.md "wikilink")である。[命令は](../Page/命令_\(コンピュータ\).md "wikilink")7種類で、[加算](https://ja.wikipedia.org/wiki/加算 "wikilink")、[減算](https://ja.wikipedia.org/wiki/減算 "wikilink")、[乗算](https://ja.wikipedia.org/wiki/乗算 "wikilink")（[単精度](https://ja.wikipedia.org/wiki/単精度 "wikilink")と[倍精度](https://ja.wikipedia.org/wiki/倍精度 "wikilink")）、比較、データ抽出、[入力](../Page/入力.md "wikilink")、[出力](https://ja.wikipedia.org/wiki/出力 "wikilink")である。数年後に[磁気ドラムメモリ](../Page/磁気ドラムメモリ.md "wikilink")が追加された\[1\]。
 

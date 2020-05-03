@@ -41,7 +41,7 @@
 | 5月30日  | [プチコプター](https://ja.wikipedia.org/wiki/プチコプター "wikilink")                                                           | |[アクアシステム](https://ja.wikipedia.org/wiki/アクアシステム "wikilink")       | ★  |
 | 6月13日  | [梅沢由香里の囲碁セミナー](https://ja.wikipedia.org/wiki/梅沢由香里の囲碁セミナー "wikilink")                                               | |[サクセス](../Page/サクセス_\(ゲーム会社\).md "wikilink")                      | ★  |
 | 6月13日  | [高橋純子の麻雀セミナー](https://ja.wikipedia.org/wiki/高橋純子の麻雀セミナー "wikilink")                                                 | サクセス                                                               | ★  |
-| 6月13日  | [中島哲也のオセロセミナー](https://ja.wikipedia.org/wiki/中島哲也のオセロセミナー "wikilink")                                               | サクセス                                                               | ★  |
+| 6月13日  | [中島哲也のオセロセミナー](../Page/オセロ_\(ボードゲーム\).md "wikilink")                                                                | サクセス                                                               | ★  |
 | 6月13日  | [ビストロ・きゅーぴっと](../Page/ビストロ・きゅーぴっと.md "wikilink")                                                                    | サクセス                                                               | ★  |
 | 6月13日  | [米長邦雄の将棋セミナー](https://ja.wikipedia.org/wiki/米長邦雄の将棋セミナー "wikilink")                                                 | サクセス                                                               | ★  |
 | 6月13日  | [マイクロソフト ラリースポーツチャレンジ](https://ja.wikipedia.org/wiki/マイクロソフト_ラリースポーツチャレンジ "wikilink")                               | マイクロソフト                                                            | ★  |

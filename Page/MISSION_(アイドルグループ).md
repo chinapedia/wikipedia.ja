@@ -42,7 +42,7 @@
   - [国産ひな娘](../Page/国産ひな娘.md "wikilink")（1999年4月 - 9月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [うたばん](../Page/うたばん.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink"))
   - [Channel-a](../Page/Channel-a.md "wikilink")([テレビ神奈川](../Page/テレビ神奈川.md "wikilink"))
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [L×I×V×E](../Page/L×I×V×E.md "wikilink")（1999年4月 - 6月、[TBS](../Page/TBSテレビ.md "wikilink")）折田・橋本のみ
   - [24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
@@ -105,6 +105,6 @@
 
   - [エイベックスによる紹介ページ](http://www.avexnet.or.jp/avexdb/mission/index.htm)
 
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink")
 
 1.  [＊　ライジング・ネットワーク-オフィシャルレスポンス　＊](https://web.archive.org/web/20000609141507/http://www.rising.ne.jp/web/off_res/ansr44.html)、ライジングプロダクション公式ウェブサイト。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

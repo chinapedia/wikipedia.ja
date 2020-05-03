@@ -3,7 +3,7 @@
 
 **BOOM BOOM SATELLITES**（ブンブンサテライツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックユニット](../Page/ロック_\(音楽\).md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に結成され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")のレーベル[R\&Sレコーズ](../Page/R&Sレコーズ.md "wikilink")からデビュー。後に日本では[gr8\!recordsからデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
-2016年10月9日、ボーカルの川島が逝去。2017年6月18日、新木場STUDIO COASTにてラストライブを開催した。
+2016年10月9日、ボーカルの川島が逝去。2017年6月18日、新木場STUDIO COASTにてラストライブを開催した。その後も、中野は自身のクレジットに「BOOM BOOM SATELLITES」のバンド名を冠することを宣言している。
 
 ## メンバー
 

@@ -48,10 +48,10 @@
 
 ## 外部リンク
 
-  - [JR九州高速船｜BEETLE　ビートル](http://www.jrbeetle.com/)
+  - [JR九州高速船｜BEETLE　ビートル](https://www.jrbeetle.com/)
 
 [Category:日本の海運業者](https://ja.wikipedia.org/wiki/Category:日本の海運業者 "wikilink") [Category:博多区の企業](https://ja.wikipedia.org/wiki/Category:博多区の企業 "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink") [Category:JR九州グループ](https://ja.wikipedia.org/wiki/Category:JR九州グループ "wikilink")
 
-1.  [九州郵船ウェブサイト](http://www.kyu-you.co.jp/)
-2.  [JR九州高速船ウェブサイト](http://www.jrbeetle.co.jp/internet/tsushima_2/index.html)
-3.  [JR九州高速船 時刻表](http://www.jrbeetle.co.jp/internet/schedule/index.html)
+1.  [九州郵船ウェブサイト](https://www.kyu-you.co.jp/)
+2.  [JR九州高速船ウェブサイト](https://www.jrbeetle.com/)
+3.  [JR九州高速船 時刻表](https://www.jrbeetle.com/time-table/)

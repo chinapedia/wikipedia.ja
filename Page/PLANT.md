@@ -81,7 +81,7 @@
 
   - [SUPER CENTER PLANT](https://www.plant-co.jp/) - 公式サイト
 
-[Category:坂井市の企業](https://ja.wikipedia.org/wiki/Category:坂井市の企業 "wikilink") [Category:日本のホームセンター](https://ja.wikipedia.org/wiki/Category:日本のホームセンター "wikilink") [Category:日本のスーパーセンター](https://ja.wikipedia.org/wiki/Category:日本のスーパーセンター "wikilink") [Category:北陸地方のスーパーマーケット](https://ja.wikipedia.org/wiki/Category:北陸地方のスーパーマーケット "wikilink") [Category:流通](https://ja.wikipedia.org/wiki/Category:流通 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:1982年設立の企業](https://ja.wikipedia.org/wiki/Category:1982年設立の企業 "wikilink")
+[Category:坂井市の企業](https://ja.wikipedia.org/wiki/Category:坂井市の企業 "wikilink") [Category:日本のホームセンター](https://ja.wikipedia.org/wiki/Category:日本のホームセンター "wikilink") [Category:日本のスーパーセンター](https://ja.wikipedia.org/wiki/Category:日本のスーパーセンター "wikilink") [Category:北陸地方のスーパーマーケット](https://ja.wikipedia.org/wiki/Category:北陸地方のスーパーマーケット "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:1982年設立の企業](https://ja.wikipedia.org/wiki/Category:1982年設立の企業 "wikilink")
 
 1.
 2.

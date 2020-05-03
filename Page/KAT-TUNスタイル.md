@@ -517,9 +517,9 @@
 ## 外部リンク
 
   - [東貴博のヤンピース ヤンピースファミリー（ヤンピース内包当時の番組情報ページ）](http://www.allnightnippon.com/youngp/family/) - ニッポン放送ホームページ（「allnightnippon.com」サーバ）より
-  - [『宇宙GメンTAKUYA』タイムテーブル（月曜 - 木曜）](http://www.1242.com/takuya/timetable/) - 本番組（『KAT-TUN STYLE』表記）情報含む。ニッポン放送ホームページ（「1242.com」サーバ）より
-  - [『宇宙GメンTAKUYA』終了に伴う放送時間移動のお知らせ](http://www.1242.com/takuya/info/move/index.html) - ニッポン放送ホームページ（「1242.com」サーバ）より
-  - [2009年11月30日以降の番組情報ページ](http://www.allnightnippon.com/kat-tun/) - ニッポン放送ホームページ（「allnightnippon.com」サーバ）より。放送日時は2011年9月までのままとなっている。
+  - [『宇宙GメンTAKUYA』タイムテーブル（月曜 - 木曜）](https://www.1242.com/takuya/timetable/) - 本番組（『KAT-TUN STYLE』表記）情報含む。ニッポン放送ホームページ（「1242.com」サーバ）より
+  - [『宇宙GメンTAKUYA』終了に伴う放送時間移動のお知らせ](https://www.1242.com/takuya/info/move/index.html) - ニッポン放送ホームページ（「1242.com」サーバ）より
+  - [2009年11月30日以降の番組情報ページ](https://www.allnightnippon.com/kat-tun/) - ニッポン放送ホームページ（「allnightnippon.com」サーバ）より。放送日時は2011年9月までのままとなっている。
 
 [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:KAT-TUN](https://ja.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
 

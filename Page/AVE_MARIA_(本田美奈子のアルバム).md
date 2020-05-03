@@ -75,7 +75,7 @@
   - 刈田雅治 - [ヴィオロンチェロ](../Page/チェロ.md "wikilink")（on 2.）
   - [朝川朋之](../Page/朝川朋之.md "wikilink") - [ハープ](../Page/ハープ.md "wikilink")（on 3. 6.）
   - [金原千恵子](../Page/金原千恵子.md "wikilink") - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")（on 3. 4. 9. ）
-  - [古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink") - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（on 5.）
+  - [古川昌義](../Page/古川昌義.md "wikilink") - [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")（on 5.）
   - 高桑英世 - [フルート](../Page/フルート.md "wikilink")（on 6. 10.）
   - 千葉純子 - アルトフルート（on 6.）
   - 山根公男 - [クラリネット](../Page/クラリネット.md "wikilink")（on 6.）

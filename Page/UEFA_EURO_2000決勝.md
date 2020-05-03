@@ -190,6 +190,6 @@
   - [French passion fits final](http://usproxy.bbc.com/2/hi/euro2000/teams/france/817520.stm)
   - [Host nations: Holland and Belgium Winners: France](http://soccernet.espn.go.com/feature?id=530723&cc=4716) ([ESPN](../Page/ESPN.md "wikilink"))
 
-[Category:サッカーの試合](https://ja.wikipedia.org/wiki/Category:サッカーの試合 "wikilink") [Category:UEFA_EURO_2000](https://ja.wikipedia.org/wiki/Category:UEFA_EURO_2000 "wikilink") [Category:ロッテルダムのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ロッテルダムのスポーツ競技大会 "wikilink") [Category:サッカーフランス代表](https://ja.wikipedia.org/wiki/Category:サッカーフランス代表 "wikilink") [Category:サッカーイタリア代表](https://ja.wikipedia.org/wiki/Category:サッカーイタリア代表 "wikilink") [Category:イタリア・フランス関係](https://ja.wikipedia.org/wiki/Category:イタリア・フランス関係 "wikilink")
+[Category:サッカーの試合](https://ja.wikipedia.org/wiki/Category:サッカーの試合 "wikilink") [Category:UEFA_EURO_2000](https://ja.wikipedia.org/wiki/Category:UEFA_EURO_2000 "wikilink") [Category:ロッテルダムのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:ロッテルダムのスポーツ競技大会 "wikilink") [Category:サッカーフランス代表](https://ja.wikipedia.org/wiki/Category:サッカーフランス代表 "wikilink") [Category:サッカーイタリア代表](https://ja.wikipedia.org/wiki/Category:サッカーイタリア代表 "wikilink") [Category:イタリア・フランス関係](https://ja.wikipedia.org/wiki/Category:イタリア・フランス関係 "wikilink") [Category:ジネディーヌ・ジダン](https://ja.wikipedia.org/wiki/Category:ジネディーヌ・ジダン "wikilink")
 
 1.  反対に「EURO→W杯連覇」達成は[1972年](../Page/1972年.md "wikilink")（EURO）・[1974年](../Page/1974年.md "wikilink")（W杯）の[西ドイツが果たしている](../Page/サッカードイツ代表.md "wikilink")。

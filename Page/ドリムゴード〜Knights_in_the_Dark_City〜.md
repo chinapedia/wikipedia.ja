@@ -1,7 +1,7 @@
 > この記事は[ドリムゴード〜Knights in the Dark City〜](https://ja.wikipedia.org/wiki/ドリムゴード〜Knights_in_the_Dark_City〜)から翻訳されています。
 
 
-『**ドリムゴード 〜Knights in the Dark City〜**』は[中西達郎](https://ja.wikipedia.org/wiki/中西達郎 "wikilink")が『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』において2003年1月号から2005年10月号まで連載した[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](../Page/作品.md "wikilink")。同作家の初の連載作品。全5巻。
+『**ドリムゴード 〜Knights in the Dark City〜**』は[中西達郎](https://ja.wikipedia.org/wiki/中西達郎 "wikilink")が『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』において2003年1月号から2005年10月号まで連載した[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。同作家の初の連載作品。全5巻。
 
 暗黒シティのどこかにあるという秘宝「ドリムゴード」を巡る物語が描かれる。最終話は「SIDE:B」（『コミックブレイド』掲載）と「SIDE:A」（単行本収録）の2つが存在し、内容が異なる。本編中で明かされない設定が多数存在するが、それらのうち幾つかは第5巻収録の用語辞典にて説明されている。2019年3月5日に作者個人ホームページで「SIDE:B」が掲載された。同じく、オリジナルの「SIDE:C」と銘打たれた物語も掲載。こちらは大きく内容が異なるが、本編では明かされない謎が明らかになる部分もある。
 

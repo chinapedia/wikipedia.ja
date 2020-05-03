@@ -65,7 +65,7 @@
       - [アリア](../Page/リリック_\(TOKIOの曲\).md "wikilink")（作詞/作曲/編曲）
       - [story](https://ja.wikipedia.org/wiki/クモ_\(TOKIOの曲\) "wikilink")（共編曲）
   - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
-      - [願い](https://ja.wikipedia.org/wiki/Hatachi "wikilink")（作詞/作曲）
+      - [願い](../Page/Hatachi.md "wikilink")（作詞/作曲）
       - 陽の当たる場所（作詞/作曲）
       - Detroit（作曲）
   - [タッキー&翼](../Page/タッキー&翼.md "wikilink")
@@ -179,6 +179,8 @@
   - [Nissy](https://ja.wikipedia.org/wiki/Nissy "wikilink")
       - [愛tears](https://ja.wikipedia.org/wiki/OK?_\(Nissyのシングル\) "wikilink")（作曲/編曲）
       - [The Days](https://ja.wikipedia.org/wiki/HOCUS_POCUS_2 "wikilink")（編曲）
+  - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")
+      - [ひとひら](https://ja.wikipedia.org/wiki/北風と太陽_\(E-girlsの曲\) "wikilink")（共作曲）
   - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
       - [Unstoppable](https://ja.wikipedia.org/wiki/CAST "wikilink")（作詞/共作曲）
   - [西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")

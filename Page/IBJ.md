@@ -33,6 +33,7 @@
   - [2018年](../Page/2018年.md "wikilink") - Forbes Asiaの優良企業「Asia’s 200 Best Under A Billion」に選出。
   - [2019年](../Page/2019年.md "wikilink") - 老舗結婚相談所を運営する株式会社[サンマリエをグループ会社化](https://ja.wikipedia.org/wiki/結婚相談所サンマリエ "wikilink")。
   - [2019年](../Page/2019年.md "wikilink") - 韓国語学学校を運営する[株式会社 K Village Tokyo](https://kvillage.jp/)をグループ会社化。
+  - [2020年](../Page/2020年.md "wikilink") - 結婚相談所を運営する株式会社[ツヴァイをグループ会社](../Page/ツヴァイ_\(企業\).md "wikilink")
 
 ## 脚注
 

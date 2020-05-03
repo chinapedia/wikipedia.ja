@@ -43,73 +43,34 @@
       - グランプリ:[稲生美紀](../Page/稲生美紀.md "wikilink")
       - 準グランプリ:[吉原夏紀](../Page/吉原夏紀.md "wikilink")、[ますきあこ](../Page/桝木亜子.md "wikilink")
       - 審査員特別賞:[山本由貴](../Page/山本由貴.md "wikilink")
-
-<!-- end list -->
-
   - 第2回（2007年）
       - グランプリ:[辰巳奈都子](https://ja.wikipedia.org/wiki/辰巳奈都子 "wikilink")
       - 準グランプリ:[谷麻紗美](../Page/谷麻紗美.md "wikilink")、[吉田もも](../Page/吉田もも.md "wikilink")
-
-<!-- end list -->
-
   - 第3回（2008年）
       - グランプリ:[澤田友美](https://ja.wikipedia.org/wiki/澤田友美 "wikilink")
       - 準グランプリ:[野田彩加](https://ja.wikipedia.org/wiki/野田彩加 "wikilink")
       - 審査員特別賞:[かの夏帆](../Page/豊田果歩.md "wikilink")
-
-<!-- end list -->
-
   - 第4回（2009年）
-      - グランプリ:[柳本絵美](https://ja.wikipedia.org/wiki/柳本絵美 "wikilink") （史上初の[平成生まれ](https://ja.wikipedia.org/wiki/平成生まれ "wikilink")\[8\]からの受賞）
+      - グランプリ:[柳本絵美](https://ja.wikipedia.org/wiki/柳本絵美 "wikilink") （史上初の[平成生まれ](https://ja.wikipedia.org/wiki/平成生まれ "wikilink")\[8\] からの受賞）
       - 準グランプリ:[平有紀子](https://ja.wikipedia.org/wiki/平有紀子 "wikilink")、[村上友梨](https://ja.wikipedia.org/wiki/村上友梨 "wikilink")
-
-<!-- end list -->
-
   - 第5回（2011年）
       - グランプリ:[鈴木ふみ奈](https://ja.wikipedia.org/wiki/鈴木ふみ奈 "wikilink")、[黒田有彩](../Page/黒田有彩.md "wikilink")、[斎藤眞利奈](https://ja.wikipedia.org/wiki/斎藤眞利奈 "wikilink")、[仁藤みさき](https://ja.wikipedia.org/wiki/仁藤みさき "wikilink")
-
-<!-- end list -->
-
   - 第6回（2012年）
       - グランプリ:[遠野千夏](../Page/金山睦.md "wikilink")、[小松美咲](https://ja.wikipedia.org/wiki/小松美咲 "wikilink")、[葉加瀬マイ](https://ja.wikipedia.org/wiki/葉加瀬マイ "wikilink")
-
-<!-- end list -->
-
   - 第7回（2013年）
       - グランプリ:[池田裕子](https://ja.wikipedia.org/wiki/池田裕子 "wikilink")、[階戸瑠李](https://ja.wikipedia.org/wiki/階戸瑠李 "wikilink")、[永井里菜](https://ja.wikipedia.org/wiki/永井里菜 "wikilink")
-
-<!-- end list -->
-
   - 第8回（2014年）
       - グランプリ:[加藤智子](https://ja.wikipedia.org/wiki/加藤智子 "wikilink")（当時[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")メンバー）、[Kagami](https://ja.wikipedia.org/wiki/Kagami "wikilink")、[尾崎礼香](https://ja.wikipedia.org/wiki/尾崎礼香 "wikilink")
-
-<!-- end list -->
-
   - 第9回（2015年）
-      - グランプリ:[あべみほ](https://ja.wikipedia.org/wiki/あべみほ "wikilink") （最年長の27歳\[9\]での受賞）、[為近あんな](https://ja.wikipedia.org/wiki/為近あんな "wikilink")、[星乃まおり](https://ja.wikipedia.org/wiki/星乃まおり "wikilink")
-
-<!-- end list -->
-
+      - グランプリ:[あべみほ](https://ja.wikipedia.org/wiki/あべみほ "wikilink") （最年長の27歳\[9\] での受賞）、[為近あんな](https://ja.wikipedia.org/wiki/為近あんな "wikilink")、[星乃まおり](https://ja.wikipedia.org/wiki/星乃まおり "wikilink")
   - 第10回（2016年）
       - グランプリ:[川崎あや](https://ja.wikipedia.org/wiki/川崎あや "wikilink")、[豊田瀬里奈](https://ja.wikipedia.org/wiki/豊田瀬里奈 "wikilink")、[中野杏](https://twitter.com/apricot_0322)\[10\]\[11\]
-
-<!-- end list -->
-
   - 第11回（2017年）
       - グランプリ:[池田ゆり](http://ament.co.jp/talent/yuri-ikeda-池田ゆり)、[月城まゆ](https://ja.wikipedia.org/wiki/月城まゆ "wikilink")、[吉澤玲菜](https://ja.wikipedia.org/wiki/吉澤玲菜 "wikilink")\[12\]
-
-<!-- end list -->
-
   - 第12回（2018年）
       - グランプリ:[小島瑠那](https://ja.wikipedia.org/wiki/小島瑠那 "wikilink")、[保﨑麗](https://ja.wikipedia.org/wiki/保崎麗 "wikilink")、[麻亜子](https://ja.wikipedia.org/wiki/麻亜子 "wikilink")\[13\]
-
-<!-- end list -->
-
   - 第13回（2019年）
       - グランプリ:[沙倉しずか](https://ja.wikipedia.org/wiki/沙倉しずか "wikilink")（歴代最年長、32歳での受賞\[14\]）、[阿南萌花](https://www.projectyamato.jp/所属タレント-女性/阿南-萌花/)、[山岸奈津美](https://ja.wikipedia.org/wiki/山岸奈津美 "wikilink")\[15\]
-
-<!-- end list -->
-
   - 第14回（2020年）
       - グランプリ:[藤田いろは](../Page/藤田いろは.md "wikilink")\[16\]・[崎川みずき](https://ja.wikipedia.org/wiki/崎川みずき "wikilink")・[白宮奈々](../Page/白宮奈々.md "wikilink")
       - 審査員特別賞:[日野アリス](https://ja.wikipedia.org/wiki/日野アリス "wikilink")
@@ -120,21 +81,18 @@
   - 第5回大会（2011年）は2年ぶりの開催（2010年は未開催）となり、「セミファイナリスト30名 → ファイナリスト10名 → 4名選出」という形式だったが、準グランプリ・審査員特別賞はなかった。グランプリの発表は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[イマジンスタジオ](../Page/イマジンスタジオ.md "wikilink")で行われ、その模様は『[サタデーキューティナイト アイドルスタジオNo.1](https://ja.wikipedia.org/wiki/サタデーキューティナイト_アイドルスタジオNo.1 "wikilink")』で録音放送された。また、上記4名とこの回のエントリー者のうちの5名（[椎名歩美](https://ja.wikipedia.org/wiki/椎名歩美 "wikilink")、[しづか](../Page/しづか_\(1992年生\).md "wikilink")、[堀口アンナ](https://ja.wikipedia.org/wiki/堀口アンナ "wikilink")、[石原美優](https://ja.wikipedia.org/wiki/石原美優 "wikilink")、[大津琴子](https://ja.wikipedia.org/wiki/大津琴子 "wikilink")）が[アイドルユニット](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")「[G☆Girls](https://ja.wikipedia.org/wiki/G☆Girls "wikilink")」（ジー・ガールズ）を結成。2011年9月にデビュー[シングル](../Page/シングル.md "wikilink")をリリースし、メンバーを変更しながら活動を続けていたが、[2018年](../Page/2018年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")をもって解散した\[17\]。
   - 第6回大会（2012年）は「セミファイナリスト30名 → ファイナリスト12名\[18\] → 3名選出」という形式だったが、第5回大会同様、準グランプリ・審査員特別賞はなかった。グランプリの発表は同じくイマジンスタジオで行われた。また、遠野や小松と共にグランプリを受賞した葉加瀬マイはそれまで本名である「袴田真衣」で活動していたが、これを機に芸名「葉加瀬マイ」と改名した\[19\]\[20\]。
   - 第7回大会（2013年）以降も準グランプリや特別賞の位置付けが行われておらず、グランプリが3名という体制が続いていたが、2020年は2008年以来となる審査員特別賞が追加された。
-  - 第5回から第9回まで毎年2月上旬にグランプリが発表されていたが、第10回大会（2016年）以降は1月上旬～中旬に前倒しされている。なお、第10回ではグランプリ3名が初めて[平成生まれ](https://ja.wikipedia.org/wiki/平成生まれ "wikilink")\[21\]に統一されている。
+  - 第5回から第9回まで毎年2月上旬にグランプリが発表されていたが、第10回大会（2016年）以降は1月上旬～中旬に前倒しされている。なお、第10回ではグランプリ3名が初めて[平成生まれ](https://ja.wikipedia.org/wiki/平成生まれ "wikilink")\[21\] に統一されている。
 
 ## 誤報・不祥事・発売中止
 
-  - 2013年7月30日、8月13日号「テレビ“真夏の暗闘”日テレ[24時間テレビvs](https://ja.wikipedia.org/wiki/24時間テレビ「愛は地球を救う」 "wikilink").フジ[27時間テレビCM料金](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")、タレントのギャラ…マル秘原価をスクープ入手\!\!」と題する記事を掲載した\[22\]。24時間テレビは、メインパーソナリティの[嵐が](../Page/嵐_\(グループ\).md "wikilink")5000万円で、特別ドラマに主演する[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")は+500万円。チャリティマラソンランナーである[森三中](../Page/森三中.md "wikilink")・[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")は1000万円。チャリティパーソナリティの[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")が500万円、総合司会の[羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")アナが500万円。さらにカラオケメンバーは、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")・[谷村新司](../Page/谷村新司.md "wikilink")クラスの大御所が200万円で、そのほかは10～100万円としたが、8月16日、[日本テレビは毎夏恒例の日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『24時間テレビ36　愛は地球を救う』（8月24日、25日放送）で2年連続メインパーソナリティーを務める嵐に対し、一部写真誌で「5000万円」のギャラが支払われていると報じられたことを受け、コメントを発表。「今年もボランティアで務めて頂いております」と全面否定した。同社は「一部報道とは違い、嵐のメンバーにはチャリTシャツのデザインを含め、24時間テレビのメインパーソナリティーを今年もボランティアで務めて頂いております」と説明した\[23\]。
+  - 2013年7月30日、8月13日号「テレビ“真夏の暗闘”日テレ[24時間テレビvs](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink").フジ[27時間テレビCM料金](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")、タレントのギャラ…マル秘原価をスクープ入手\!\!」と題する記事を掲載した\[22\]。24時間テレビは、メインパーソナリティの[嵐が](../Page/嵐_\(グループ\).md "wikilink")5000万円で、特別ドラマに主演する[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")は+500万円。チャリティマラソンランナーである[森三中](../Page/森三中.md "wikilink")・[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")は1000万円。チャリティパーソナリティの[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")が500万円、総合司会の[羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")アナが500万円。さらにカラオケメンバーは、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")・[谷村新司](../Page/谷村新司.md "wikilink")クラスの大御所が200万円で、そのほかは10～100万円としたが、8月16日、[日本テレビは毎夏恒例の日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『24時間テレビ36　愛は地球を救う』（8月24日、25日放送）で2年連続メインパーソナリティーを務める嵐に対し、一部写真誌で「5000万円」のギャラが支払われていると報じられたことを受け、コメントを発表。「今年もボランティアで務めて頂いております」と全面否定した。同社は「一部報道とは違い、嵐のメンバーにはチャリTシャツのデザインを含め、24時間テレビのメインパーソナリティーを今年もボランティアで務めて頂いております」と説明した\[23\]。
   - 2014年9月8日、9月23日号（この号で通巻1300号を達成するはずだった）が、発売予定前日の8日、一部記事に不備があり発売を中止することにしたと公式サイトで発表した\[24\]\[25\]。
-
-<!-- end list -->
-
-  - 誤報および不祥事の定義に当てはまるかは判断が分かれるが（どちらかといえば[飛ばし](https://ja.wikipedia.org/wiki/飛ばし "wikilink")記事に近い）、批判が殺到した一例として、2020年4月14日号にて「宮迫博之、1kg700円の「セレブ米」こっそり買い溜め」と題した記事\[26\]がある。記事内容としては「宮迫氏が米8キロ相当を買い占めした」とし、居合わせた客によるコメントとして「お米屋さんで、高級寿司店でも利用される1kg700円ほどの高級米を、8kg以上も買っていました（原文）」であると紹介し、「闇米ならぬセレブ米の買い溜めはさすがに笑えないよ（原文）」と編集者がコメントして記事はまとめられている。
+  - 誤報および不祥事の定義に当てはまるかは判断が分かれるが（どちらかといえば[飛ばし](https://ja.wikipedia.org/wiki/飛ばし "wikilink")記事に近い）、批判が殺到した一例として、2020年4月14日号にて「宮迫博之、1kg700円の「セレブ米」こっそり買い溜め」と題した記事\[26\] がある。記事内容としては「宮迫氏が米8キロ相当を買い占めした」とし、居合わせた客によるコメントとして「お米屋さんで、高級寿司店でも利用される1kg700円ほどの高級米を、8kg以上も買っていました（原文）」であると紹介し、「闇米ならぬセレブ米の買い溜めはさすがに笑えないよ（原文）」と編集者がコメントして記事はまとめられている。
 
 <!-- end list -->
 
   -
-    だが、2020年4月1日、宮迫氏のユーチューブチャンネルにてユーチューバー[ヒカルとともにこれを見た宮迫側は反論](https://ja.wikipedia.org/wiki/ヒカル_\(YouTuber\) "wikilink")。自身が購入した品種は[魚沼コシヒカリ](https://ja.wikipedia.org/wiki/魚沼コシヒカリ "wikilink")\[27\]などの高級米に分類されるものではなく、一般的な品種とされる[あきたこまち](../Page/あきたこまち.md "wikilink")\[28\]を購入したと明言し、購入量も家族構成から考えれば不自然ではないと主張。その過程で週刊FALSH編集部へ電話し、記事の事実確認と編集部の見解などの質問を行った。その動画内におけるFLASH編集部の見解にて白い字幕(テロップ)で表示された主なコメントは以下の通りである。
+    だが、2020年4月1日、宮迫氏のユーチューブチャンネルにてユーチューバー[ヒカルとともにこれを見た宮迫側は反論](https://ja.wikipedia.org/wiki/ヒカル_\(YouTuber\) "wikilink")。自身が購入した品種は[魚沼コシヒカリ](https://ja.wikipedia.org/wiki/魚沼コシヒカリ "wikilink")\[27\] などの高級米に分類されるものではなく、一般的な品種とされる[あきたこまち](../Page/あきたこまち.md "wikilink")\[28\] を購入したと明言し、購入量も家族構成から考えれば不自然ではないと主張。その過程で週刊FALSH編集部へ電話し、記事の事実確認と編集部の見解などの質問を行った。その動画内におけるFLASH編集部の見解にて白い字幕(テロップ)で表示された主なコメントは以下の通りである。
       -
         「家族3人で米8Kgは買い占めに当たる」「宮迫氏を中傷する意図はまったくない」「お国のためにFLASH誌を発行しているわけではない」
     ただ、両者平行線をたどり、宮迫側は編集部の見解を確認したうえで「記事内容に問題があったとして謝罪してほしい」と主張したが、動画内でのFLASH側は「記事に問題ない」の一点張りであり、編集部による謝罪はなく、議論は平行線のまま通話を終えた。そのため、動画のまとめとして「このような記事を書いている雑誌を信用しないでほしい」とし今回の週刊誌の言動を批判するコメントで終わっている。
@@ -194,8 +152,8 @@
 23.
 24.
 25.
-26. \[<https://smart-flash.jp/showbiz/97991>　宮迫博之、1kg700円の「セレブ米」こっそり買い溜め\]smart-flash.jp　2020年3月31日電子版掲載
+26. \[<https://smart-flash.jp/showbiz/97991>　宮迫博之、1kg700円の「セレブ米」こっそり買い溜め\] smart-flash.jp　2020年3月31日電子版掲載
 27. 魚沼コシヒカリの仮渡金価格は、新潟県産の一般コシヒカリに比べて1俵(60 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink"))あたり5000 - 6000円程度高い値が付くことが多い。
 28. 一般的に見れば、作付面積では常時上位を維持し、流通量が多いため、魚沼コシヒカリなどの特別なブランドと比べれば安価なことが多い。一応、あきたこまちでも一商品としての金額の差異や購入量が多いがゆえの高額化なども考えられるが、それは別の問題なため、ここでは省略する。
-29. [「家飯食べないか家計に興味ない人だな？」　宮迫博之さんを中傷する『FLASH』記事に批判集まる](https://getnews.jp/archives/2473960)getnews.jp 2020年3月31日電子版掲載
-30. [宮迫さん“盗撮”騒動：FLASHという「いじめ雑誌」は必要か？](http://agora-web.jp/archives/2045214.html)agora-web.jp 2020年4月3日電子版掲載
+29. [「家飯食べないか家計に興味ない人だな？」　宮迫博之さんを中傷する『FLASH』記事に批判集まる](https://getnews.jp/archives/2473960) getnews.jp 2020年3月31日電子版掲載
+30. [宮迫さん“盗撮”騒動：FLASHという「いじめ雑誌」は必要か？](http://agora-web.jp/archives/2045214.html) agora-web.jp 2020年4月3日電子版掲載

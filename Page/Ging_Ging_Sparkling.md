@@ -172,7 +172,7 @@
 
 ### 甲斐田貴之＆コガ☆アキ
 
-  - 2008年10月-2008年12月 　月:[BOØWY占い](https://ja.wikipedia.org/wiki/BOOWY "wikilink") 火:[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")占い　※リスナー参加型
+  - 2008年10月-2008年12月 　月:[BOØWY占い](../Page/BOOWY.md "wikilink") 火:[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")占い　※リスナー参加型
   - 2009年1月-2008年3月 　月・火:音楽占い（日替わりでアーティスト1人に絞り、選曲する）　※リスナー参加型
   - 2009年4月-2009年9月　　月・火:名曲占い（血液型別に選曲される、アーティストはランダム）
 

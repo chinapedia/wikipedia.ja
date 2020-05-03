@@ -69,7 +69,7 @@
 
 全長は640mmで、重量はTAR-21よりも軽い2,700g（基本[オプション](https://ja.wikipedia.org/wiki/オプション "wikilink")無し、オプション取り付け時3,230g）、銃口初速は890m/sである。全長が短く小回りが利くため、メーカーは[落下傘兵](../Page/エアボーン.md "wikilink")、[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")兵、[特殊部隊](../Page/特殊部隊.md "wikilink")向けとしている。[イスラエル軍では](../Page/イスラエル国防軍.md "wikilink")、このCTAR-21の方がTAR-21より多く配備されている。
 
-[ディスカバリーチャンネル](../Page/ディスカバリーチャンネル.md "wikilink")の「[フューチャー・ウェポン・21世紀　戦争の真実では](https://ja.wikipedia.org/wiki/:en:Future_Weapons "wikilink")、[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")の[リチャード・マコウィッツがCTAR](https://ja.wikipedia.org/wiki/:en:Richard_Machowicz "wikilink")-21をイスラエル軍の施設でテスト射撃し、300m先の標的の[頭](../Page/頭.md "wikilink")と[肩](../Page/肩.md "wikilink")に命中させている。
+[ディスカバリーチャンネル](../Page/ディスカバリーチャンネル.md "wikilink")の「[フューチャー・ウェポン・21世紀　戦争の真実では](https://ja.wikipedia.org/wiki/:en:Future_Weapons "wikilink")、[ナビゲーター](../Page/ナビゲーター.md "wikilink")の[リチャード・マコウィッツがCTAR](https://ja.wikipedia.org/wiki/:en:Richard_Machowicz "wikilink")-21をイスラエル軍の施設でテスト射撃し、300m先の標的の[頭](../Page/頭.md "wikilink")と[肩](../Page/肩.md "wikilink")に命中させている。
 
 ### STAR-21（シャープシューター・タボール）
 

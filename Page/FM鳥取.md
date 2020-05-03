@@ -13,6 +13,8 @@
 
 [鳥取市](../Page/鳥取市.md "wikilink")の沿岸部と、同市の南東に隣接する[八頭町](../Page/八頭町.md "wikilink")の一部。およそ51,000世帯。
 
+開局以来、鳥取砂丘の南東部にそびえる本陣山から上記を中心とする旧市街地をサービスエリアとしていたが、中継局として[毛無山中継局と小倉山中継局](https://ja.wikipedia.org/wiki/毛無山_\(鳥取市\) "wikilink")（旧[用瀬町](../Page/用瀬町.md "wikilink")）を整備、2020年4月1日に開局。新たに市内西部と旧用瀬町エリアを中心とする南部の合わせて72,200世帯がサービスエリアとなった\[3\]\[4\]。
+
 ## ケーブルテレビ再送信局
 
 以下のケーブルテレビではFM鳥取が再送信されている。
@@ -68,7 +70,7 @@
       - RADIO BIRDアナウンサーが担当する。
   - ガイナーレ鳥取 HOME GAME RADIO
       - [ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")ホーム戦開催日放送。
-      - [USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")でも配信。試合の中継権はないため、キックオフ時間で番組終了となる\[3\]。
+      - [USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")でも配信。試合の中継権はないため、キックオフ時間で番組終了となる\[5\]。
 
 ### 土曜日
 
@@ -172,4 +174,6 @@
 
 1.  [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")は[米子市](../Page/米子市.md "wikilink")（但しテレビは[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")が親局）、[エフエム山陰](../Page/エフエム山陰.md "wikilink")は島根県松江市にそれぞれ本社があり、鳥取市はそれぞれの支社・中継局が設置されている程度
 2.  [奈良県](../Page/奈良県.md "wikilink")は全国で唯一[県域の民間ラジオ局が存在しない県であるが](https://ja.wikipedia.org/wiki/県域放送#一般放送事業者の県域放送が存在しない都府県 "wikilink")、県庁所在地の[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")には2000年に[奈良シティエフエムコミュニケーションズ](../Page/奈良シティエフエムコミュニケーションズ.md "wikilink")が開局している
-3.  [米子市](../Page/米子市.md "wikilink")の[DARAZ FMには試合の中継権があるがインターネット再送信](https://ja.wikipedia.org/wiki/DARAZコミュニティ放送 "wikilink")（普段DARAZではインターネット再送信が行われている）はない。
+3.  [FM鳥取の放送エリアが拡大しました！](http://www.radiobird.net/item/20412.html#itemid20412)
+4.  [鳥取市西部及び南部にコミュニティ放送のエリアを拡大](https://www.soumu.go.jp/soutsu/chugoku/hodo_2019/01sotsu08_01001119.html)
+5.  [米子市](../Page/米子市.md "wikilink")の[DARAZ FMには試合の中継権があるがインターネット再送信](https://ja.wikipedia.org/wiki/DARAZコミュニティ放送 "wikilink")（普段DARAZではインターネット再送信が行われている）はない。

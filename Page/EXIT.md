@@ -33,7 +33,7 @@
 
   - [EXIT (企業)](https://ja.wikipedia.org/wiki/EXIT_\(企業\) "wikilink") - [退職代行サービス](../Page/退職代行サービス.md "wikilink")を行う企業。
 
-  - [EXIT (フェスティバル)](https://ja.wikipedia.org/wiki/EXIT_\(フェスティバル\) "wikilink") - [セルビア](../Page/セルビア.md "wikilink")で毎年開催される音楽フェスティバル
+  - [EXIT (フェスティバル)](../Page/EXIT_\(フェスティバル\).md "wikilink") - [セルビア](../Page/セルビア.md "wikilink")で毎年開催される音楽フェスティバル
 
 ## 関連項目
 

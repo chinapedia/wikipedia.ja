@@ -261,10 +261,10 @@
       - 武器
         雷雲丸/爆神砲
     元祖 No.101黒魔神闇皇帝に付属。雷雲丸を装備。
-  - 技連\<[ギレン](https://ja.wikipedia.org/wiki/ザビ家#ギレン・ザビ "wikilink")\>（[黒い三連星専用高機動型ザクII](https://ja.wikipedia.org/wiki/高機動型ザクII#高機動型ザクII（R-1A型） "wikilink")）
-    怒鋭\<[ドズル](https://ja.wikipedia.org/wiki/ザビ家#ドズル・ザビ "wikilink")\>（[ドズル専用ザクII](https://ja.wikipedia.org/wiki/ザクII#量産型ザクII（ザクII_F型） "wikilink")\[11\]）
-    駆舞\<[ガルマ](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")\>（[ガルマ専用ザクII](https://ja.wikipedia.org/wiki/ザクII#ザクII_FS型 "wikilink")\[12\]）
-    殺駆に仕える**初代殺駆三兄弟**。名前の由来は[ザビ家](../Page/ザビ家.md "wikilink")のギレン・ザビ、ドズル・ザビ、ガルマ・ザビから\[13\]。
+  - 技連<ギレン>（[黒い三連星専用高機動型ザクII](https://ja.wikipedia.org/wiki/高機動型ザクII#高機動型ザクII（R-1A型） "wikilink")）
+    怒鋭<ドズル>（[ドズル専用ザクII](https://ja.wikipedia.org/wiki/ザクII#量産型ザクII（ザクII_F型） "wikilink")\[11\]）
+    駆舞<ガルマ>（[ガルマ専用ザクII](https://ja.wikipedia.org/wiki/ザクII#ザクII_FS型 "wikilink")\[12\]）
+    殺駆に仕える**初代殺駆三兄弟**。名前の由来は[ザビ家](../Page/ザビ家.md "wikilink")の[ギレン・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ギレン・ザビ "wikilink")、[ドズル・ザビ](https://ja.wikipedia.org/wiki/ザビ家#ドズル・ザビ "wikilink")、[ガルマ・ザビから](https://ja.wikipedia.org/wiki/ザビ家#ガルマ・ザビ "wikilink")\[13\]。
     なお、この三人の誰かが[武者七人衆編の殺駆三兄弟の父親となっているのだが](../Page/SD戦国伝_武者七人衆編.md "wikilink")、一部書籍では「『武者七人衆編』の殺駆三兄弟の若りし日の姿」と紹介されている。
 
 #### 構成員

@@ -1205,7 +1205,7 @@ VICL-61506</p></td>
 <li>水溶性 / LA-PPISCH</li>
 <li>クズんなってGO / THE ピーズ</li>
 <li>アゲハ / 斉藤和義</li>
-<li><a href="https://ja.wikipedia.org/wiki/風になる" title="wikilink">風になる</a> / つじあやの</li>
+<li><a href="../Page/風になる_(つじあやのの曲).md" title="wikilink">風になる</a> / つじあやの</li>
 <li>風の吹き抜ける場所へ(Growin' Up, Blowin' In The Wind) / FLYING KIDS</li>
 <li><a href="https://ja.wikipedia.org/wiki/ナキムシのうた" title="wikilink">ナキムシのうた</a> / 風味堂</li>
 <li><a href="../Page/おなじ星.md" title="wikilink">おなじ星</a> / Jungle Smile</li>

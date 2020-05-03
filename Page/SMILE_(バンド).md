@@ -30,7 +30,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1995/7/21</p></td>
-<td><p><strong>明日の行方</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/明日の行方" title="wikilink">明日の行方</a></strong></p></td>
 <td><p>SRDL-4066</p></td>
 <td><ol>
 <li>明日の行方</li>

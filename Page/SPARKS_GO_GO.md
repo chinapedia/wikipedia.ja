@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [阿部義晴](../Page/阿部義晴.md "wikilink")との共同バンド「ABEX GO GO」名義
+  - [阿部義晴](../Page/阿部義晴.md "wikilink")との共同バンド「[ABEX GO GO](../Page/ABEX_GO_GO.md "wikilink")」名義
 
 <!-- end list -->
 

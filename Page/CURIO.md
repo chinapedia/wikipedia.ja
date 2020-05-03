@@ -18,6 +18,7 @@
         本名・朝 潤一郎。[大阪府](../Page/大阪府.md "wikilink")出身。O型。
         活動休止後に脱退、[ONE TRACK MINDのギタリストとして活動した](../Page/ONE_TRACK_MIND.md "wikilink")。
         2012年、CURIOの活動再開に合流。
+        現在名前、表記をAJ（えいじぇい）に変更している。
   - **BRITAIN**（ブリテン、[1970年](../Page/1970年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）
       -
         ドラムス、プログラミング担当。
@@ -133,9 +134,9 @@
 <td><p>ESDB-3873</p></td>
 <td><ol>
 <li>TO BE LOUD 【作詞:NOB,AJA/作曲:AJA/編曲:CURIO,佐久間正英】</li>
-<li>粉雪～Acoustic Breath～ 【作詞:NOB/作曲:AJA/編曲:CURIO,白井良明】</li>
+<li>粉雪〜Acoustic Breath〜 【作詞:NOB/作曲:AJA/編曲:CURIO,白井良明】</li>
 <li>TO BE LOUD（BACKING TRACK）</li>
-<li>粉雪～Acoustic Breath～（BACKING TRACK）</li>
+<li>粉雪〜Acoustic Breath〜（BACKING TRACK）</li>
 </ol></td>
 <td><p>オリコン最高22位、登場回数3回</p></td>
 </tr>
@@ -253,7 +254,7 @@ RACC-1001:通常盤</p></td>
 <tr class="even">
 <td><p>14th</p></td>
 <td><p>2015年10月21日</p></td>
-<td><p><strong>LIFETIME??? ～LIFETIME BEGINS AT THIS POP MUSIC～</strong></p></td>
+<td><p><strong>LIFETIME??? 〜LIFETIME BEGINS AT THIS POP MUSIC〜</strong></p></td>
 <td><p>RACC-1002</p></td>
 <td><ol>
 <li>楽園</li>
@@ -266,7 +267,7 @@ RACC-1001:通常盤</p></td>
 <tr class="odd">
 <td><p>15th</p></td>
 <td><p>2016年02月24日</p></td>
-<td><p><strong>BEGINS AT… ～LIFETIME BEGINS AT THIS POP MUSIC～</strong></p></td>
+<td><p><strong>BEGINS AT… 〜LIFETIME BEGINS AT THIS POP MUSIC〜</strong></p></td>
 <td><p>RACC-1003</p></td>
 <td><ol>
 <li>PUZZLE</li>
@@ -279,7 +280,8 @@ RACC-1001:通常盤</p></td>
 <tr class="even">
 <td><p>16th</p></td>
 <td><p>2016年06月22日</p></td>
-<td><p><strong>THIS POP MUSIC！！！ ～LIFETIME BEGINS AT THIS POP MUSIC～</strong></p></td>
+<td><p>'''THIS POP MUSIC</p></td>
+<td><p>! 〜LIFETIME BEGINS AT THIS POP MUSIC〜'''</p></td>
 <td><p>RACC-1004</p></td>
 <td><ol>
 <li>SUMMER SYMPOSIUM</li>
@@ -287,7 +289,6 @@ RACC-1001:通常盤</p></td>
 <li>恋の果実</li>
 <li>TINY SEEDS</li>
 </ol></td>
-<td><p>オリコン圏外</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -504,7 +505,7 @@ POCE-2034:メジャー</p></td>
 
 ### DVD
 
-  - 「FINAL TOUR CURIO FREAK -Last Meeting-」（通信販売限定リリース）2004/1/29発売
+  - 「FINAL TOUR CURIO FREAK -Last Meeting-」（通信販売限定リリース）2004年1月29日発売
 
 ### 参加作品
 
@@ -547,16 +548,16 @@ POCE-2034:メジャー</p></td>
 </ol>
 <p>ディスク2</p>
 <ol>
-<li>“君は誰を守っている”(オリジナル・ミックス)</li>
-<li>運命の歯車~京都へのプロローグ~</li>
-<li>Departure(マスター・ミックス)</li>
-<li>飛天御剣流・天翔龍閃(a theme of 比古清十郎)</li>
+<li>“君は誰を守っている”（オリジナル・ミックス）</li>
+<li>運命の歯車〜京都へのプロローグ〜</li>
+<li>Departure（マスター・ミックス）</li>
+<li>飛天御剣流・天翔龍閃（a theme of 比古清十郎）</li>
 <li>維新転覆計画</li>
-<li>Warriors Suite:1.怨炎~2.過去への乱舞~3.TORAWARE~4.Warriors</li>
+<li>Warriors Suite:1.怨炎〜2.過去への乱舞〜3.TORAWARE〜4.Warriors</li>
 <li>Twist of Time</li>
 <li>No Way Out</li>
 <li>Her Most Beautiful Smile</li>
-<li>るろうに剣心VOICES sing「この世界の片隅で…」~Epilogue-終章-「残照~Venus and Mars~」(インストゥルメンタル)</li>
+<li>るろうに剣心VOICES sing「この世界の片隅で…」〜Epilogue-終章-「残照〜Venus and Mars〜」(インストゥルメンタル)</li>
 </ol>
 <p>ディスク3</p>
 <ol>
@@ -582,7 +583,7 @@ POCE-2034:メジャー</p></td>
 </tr>
 <tr class="even">
 <td><p>2003年12月17日</p></td>
-<td><p><strong>Golden Age～全国高校サッカー選手権大会イメージソングコンピレーション</strong></p></td>
+<td><p><strong>Golden Age〜全国高校サッカー選手権大会イメージソングコンピレーション</strong></p></td>
 <td><p>KSCL-634</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -590,7 +591,7 @@ POCE-2034:メジャー</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/新大阪_(ゴスペラーズの曲)" title="wikilink">Golden Age ～黄金世代～</a> / <a href="../Page/ゴスペラーズ.md" title="wikilink">ゴスペラーズ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/新大阪_(ゴスペラーズの曲)" title="wikilink">Golden Age 〜黄金世代〜</a> / <a href="../Page/ゴスペラーズ.md" title="wikilink">ゴスペラーズ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/理由なきNew_Days" title="wikilink">理由なきNew Days</a> / <a href="../Page/SOPHIA.md" title="wikilink">SOPHIA</a></li>
 <li>Yourself / <a href="../Page/Dream_(音楽ユニット).md" title="wikilink">dream</a></li>
 <li>約束 / <a href="https://ja.wikipedia.org/wiki/中武佳奈子" title="wikilink">中武佳奈子</a></li>
@@ -599,7 +600,7 @@ POCE-2034:メジャー</p></td>
 <li>SPARKLE / <a href="https://ja.wikipedia.org/wiki/奥居香" title="wikilink">奥居香</a></li>
 <li>この地球が果てるまで / <a href="../Page/佳苗.md" title="wikilink">佳苗</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Melodies_&amp;_Memories" title="wikilink">Melodies &amp; Memories</a> / <a href="../Page/TUBE.md" title="wikilink">TUBE</a></li>
-<li><a href="../Page/ふり向くな君は美しい.md" title="wikilink">ふり向くな君は美しい</a> / <a href="../Page/バーズ_(音楽ユニット).md" title="wikilink">ザ・バーズ</a></li>
+<li><a href="../Page/ふり向くな君は美しい.md" title="wikilink">ふり向くな君は美しい</a> / <a href="../Page/ザ・バーズ_(日本テレビ音楽学院).md" title="wikilink">ザ・バーズ</a></li>
 <li>ふり向くな君は美しい(カラオケ) / ザ・バーズ
 </div>
 </div></li>
@@ -607,7 +608,7 @@ POCE-2034:メジャー</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年12月08日</p></td>
-<td><p><strong>802 HEAVY ROTATIONS ～J-HITS COMPLETE '96-'99</strong></p></td>
+<td><p><strong>802 HEAVY ROTATIONS 〜J-HITS COMPLETE '96-'99</strong></p></td>
 <td><p>TOCT-25520</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -642,7 +643,7 @@ POCE-2034:メジャー</p></td>
 <li>防波堤で見た景色 / <a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGIN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/白日_(GRAPEVINEの曲)" title="wikilink">白日</a> / <a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a></li>
 <li><a href="../Page/東京_(くるりの曲).md" title="wikilink">東京</a> / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
-<li>TEARS～時間(とき)の中で... / <a href="../Page/我那覇美奈.md" title="wikilink">我那覇美奈</a></li>
+<li>TEARS〜時間(とき)の中で... / <a href="../Page/我那覇美奈.md" title="wikilink">我那覇美奈</a></li>
 <li>sometime somewhere / <a href="https://ja.wikipedia.org/wiki/rough_laugh" title="wikilink">rough laugh</a></li>
 <li><a href="../Page/ここでキスして。.md" title="wikilink">ここでキスして。</a> / <a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a></li>
 <li><a href="../Page/Let_yourself_go,_Let_myself_go.md" title="wikilink">Let yourself go, Let myself go</a> / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a>
@@ -665,7 +666,7 @@ POCE-2034:メジャー</p></td>
 <li><a href="../Page/サイレント・イヴ.md" title="wikilink">サイレント・イヴ</a> / <a href="https://ja.wikipedia.org/wiki/辛島美登里" title="wikilink">辛島美登里</a></li>
 <li>I LOVE YOU / <a href="../Page/徳永英明.md" title="wikilink">徳永英明</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Christmas_For_You" title="wikilink">Christmas For You</a> / <a href="../Page/前田亘輝.md" title="wikilink">前田亘輝</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ZUTTO_(永井真理子の曲)" title="wikilink">Zutto　～Xmas Version～</a> / <a href="../Page/永井真理子.md" title="wikilink">永井真理子</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ZUTTO_(永井真理子の曲)" title="wikilink">Zutto 〜Xmas Version〜</a> / <a href="../Page/永井真理子.md" title="wikilink">永井真理子</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/最後のHoly_Night" title="wikilink">最後のHoly Night</a> / <a href="../Page/杉山清貴.md" title="wikilink">杉山清貴</a></li>
 <li>Merry X'masをあげたい -LAST FOR YOU‐ / <a href="https://ja.wikipedia.org/wiki/井上昌己_(歌手)" title="wikilink">井上昌己</a></li>
 <li>クリスマスまで待てない (雪だるま Version) / <a href="../Page/渡辺美里.md" title="wikilink">渡辺美里</a></li>
@@ -681,7 +682,7 @@ POCE-2034:メジャー</p></td>
 <ol>
 <li><a href="../Page/My_Gift_to_You.md" title="wikilink">My Gift to You</a> / <a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></li>
 <li><a href="../Page/DEAR...again.md" title="wikilink">DEAR...again (Ver.2.05)</a> / <a href="https://ja.wikipedia.org/wiki/広瀬香美" title="wikilink">広瀬香美</a></li>
-<li><a href="../Page/WINTER_SONG.md" title="wikilink">WINTER SONG～DANCING SNOWFLAKES VERSION～</a> / <a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></li>
+<li><a href="../Page/WINTER_SONG.md" title="wikilink">WINTER SONG〜DANCING SNOWFLAKES VERSION〜</a> / <a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Cheese_&quot;PIZZA&quot;/クリスマス" title="wikilink">クリスマス</a> / <a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/一緒に・・・" title="wikilink">一緒に・・・</a> / <a href="https://ja.wikipedia.org/wiki/MAX_(音楽グループ)" title="wikilink">MAX</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Angel_song_-イヴの鐘-" title="wikilink">Angel song -イヴの鐘-</a> / <a href="https://ja.wikipedia.org/wiki/the_brilliant_green" title="wikilink">the brilliant green</a></li>
@@ -721,13 +722,13 @@ POCE-2034:メジャー</p></td>
 
 ## 主なライブ
 
-  - 1998年08月08日 - KIRIN SOUND TOGETHER [POP HILL](https://ja.wikipedia.org/wiki/POP_HILL "wikilink") '98
-  - 1998年08月25日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 '98
-  - 1999年07月24日 - LIVE STOCK
+  - 1998年8月8日 - KIRIN SOUND TOGETHER [POP HILL](https://ja.wikipedia.org/wiki/POP_HILL "wikilink") '98
+  - 1998年8月25日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 '98
+  - 1999年7月24日 - LIVE STOCK
   - 2014年10月12日 - MINAMI WHEEL 2014
-  - 2015年05月17日 - 柏MUSIC SUN
-  - 2015年07月25日 - CLUB Que夏ノ陣 VSシリーズ vol.14 ～RETURN TO NATURAL～
-  - 2016年05月22日 - 柏 MUSIC SUN 2016
+  - 2015年5月17日 - 柏MUSIC SUN
+  - 2015年7月25日 - CLUB Que夏ノ陣 VSシリーズ vol.14 〜RETURN TO NATURAL〜
+  - 2016年5月22日 - 柏 MUSIC SUN 2016
 
 ## 脚注
 

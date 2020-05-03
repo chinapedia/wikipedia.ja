@@ -226,9 +226,15 @@
 
 ### GK
 
+  - [デニス・ヘンテナール](https://ja.wikipedia.org/wiki/デニス・ヘンテナール "wikilink") 1995-2005
+
+  - [バボシュ・ガボール](https://ja.wikipedia.org/wiki/バボシュ・ガボール "wikilink") 2005-2013
+
   - [ハンネス・ソール・ハルドーソン](https://ja.wikipedia.org/wiki/ハンネス・ソール・ハルドーソン "wikilink")　2015-2016
 
 ### DF
+
+  - [ペーテル・ヴィスヘルホフ](https://ja.wikipedia.org/wiki/ペーテル・ヴィスヘルホフ "wikilink") 2000-2009
 
   - [ヨナス・オルソン](https://ja.wikipedia.org/wiki/ヨナス・オルソン "wikilink")　2005-2008
 

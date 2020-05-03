@@ -5,7 +5,7 @@
 
 ## 概説
 
-[二階健](../Page/二階健.md "wikilink")監督作品らしい鮮烈な映像美と俳優として主人公を演じている[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")の奏でる音楽、同監督の緻密な脚本構成が独自性を放つ[映画](../Page/映画.md "wikilink")[作品](../Page/作品.md "wikilink")。[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")のセマナ国際ファンタスティック映画祭で最優秀撮影監督賞と最優秀脚本賞を受賞している。
+[二階健](../Page/二階健.md "wikilink")監督作品らしい鮮烈な映像美と俳優として主人公を演じている[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")の奏でる音楽、同監督の緻密な脚本構成が独自性を放つ[映画](../Page/映画.md "wikilink")作品。[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")のセマナ国際ファンタスティック映画祭で最優秀撮影監督賞と最優秀脚本賞を受賞している。
 
 ## ストーリー
 

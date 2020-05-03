@@ -102,6 +102,16 @@ CDジャーナルは、「驚くほどキャッチーで、生き生きしたメ
 
 ### 概要
 
+『[灰とダイヤモンド Anthology](https://ja.wikipedia.org/wiki/灰とダイヤモンド_\(GLAYのアルバム\)#灰とダイヤモンド_Anthology "wikilink")』に続く、Anthologyシリーズの第3弾。
+
+2CDとDVDの全3枚組。DISC 1にはアルバム全12曲と、シングル「[ずっと2人で…/GONE WITH THE WIND](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")」より「GONE WITH THE WIND」と、カップリング曲「ACID HEAD」の、計14曲をマイケル・ツィマリングがリミックスおよびリマスタリングし収録\[13\]。
+
+DISC 2にはDISC 1収録曲のデモ音源やライブ音源、未発表曲を計13曲収録\[14\]。こちらは山崎翼がリマスタリングを担当した。
+
+DVDには20年前のライブ映像や当時の関係者によるインタビュー、そしてTAKUROによるコメンタリーも収録。
+
+また、当時の貴重な写真をおさめたブックレット付。
+
 ### 収録曲
 
 #### Disc 1
@@ -226,11 +236,17 @@ SPEED POP Anthology Demo & Bootleg
   - [UP-BEAT](../Page/UP-BEAT.md "wikilink")
       - [HERMIT COMPLEX](https://ja.wikipedia.org/wiki/HERMIT_COMPLEX "wikilink")
 
-## 脚注
+## 脚注・注釈
+
+### 脚注
 
 <div class="references-small">
 
 <references />
+
+### 注釈
+
+<div class="references-small">
 
 </div>
 
@@ -253,3 +269,5 @@ SPEED POP Anthology Demo & Bootleg
 10.
 11.
 12.
+13. 以降のAnthologyシリーズ(『[BEAT out\! Anthology](https://ja.wikipedia.org/wiki/BEAT_out!#BEAT_out!_Anthology "wikilink")』から『[HEAVY GAUGE Anthology](https://ja.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAYのアルバム\)#HEAVY_GAUGE_Anthology "wikilink")』まで)も担当した。
+14.

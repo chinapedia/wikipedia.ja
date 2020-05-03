@@ -21,9 +21,17 @@
 
 ## 歴代監督
 
+  - [マルコ・ペッツァイオリ](https://ja.wikipedia.org/wiki/マルコ・ペッツァイオリ "wikilink") 2006
+
   - [マリオ・バスラー](../Page/マリオ・バスラー.md "wikilink") 2009–2010
 
-  - Roland Seitz 2010-
+## 歴代所属選手
+
+  - [ゾラン・マミッチ](https://ja.wikipedia.org/wiki/ゾラン・マミッチ "wikilink") 2004-2005
+
+  - [ロビン・コッホ](https://ja.wikipedia.org/wiki/ロビン・コッホ "wikilink") 2004-2005
+
+  - [鈴木伸貴](../Page/鈴木伸貴.md "wikilink") 2005-2006
 
 ## 外部リンク
 

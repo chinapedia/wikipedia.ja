@@ -107,7 +107,7 @@
 
 ## スタッフ
 
-  - 構成：[滝大作](https://ja.wikipedia.org/wiki/滝大作 "wikilink")、[長谷川勝士](https://ja.wikipedia.org/wiki/長谷川勝士 "wikilink")、廣岡豊、谷口秀一、黒木一由
+  - 構成：[滝大作](https://ja.wikipedia.org/wiki/滝大作 "wikilink")、[長谷川勝士](../Page/長谷川勝士.md "wikilink")、廣岡豊、谷口秀一、黒木一由
   - ディレクター：[梅原幹](../Page/梅原幹.md "wikilink")、河西裕、武田幹治、雨宮秀彦、大草昭男、中嶋勉、影沼沢聖紀、鈴木幸也、朝倉隆、玉木新悟、竹川誠
   - 演出：矢野義幸
   - プロデューサー：園田広実

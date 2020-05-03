@@ -7,7 +7,7 @@
 
 ## シリーズ
 
-最終作のVol.12までの時点で、発売されているタイトルは全て[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[レーティング12歳以上対象](../Page/CEROレーティング12才以上対象ソフトの一覧.md "wikilink")（Vol.5『餓狼伝説 バトルアーカイブズ1』以降は新基準の「」表示）。
+最終作のVol.12までの時点で、発売されているタイトルは全て[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[レーティング12歳以上対象](../Page/CEROレーティング12才以上対象ソフトの一覧.md "wikilink")（Vol.5『餓狼伝説 バトルアーカイブズ1』以降は新基準の「」表示）。
 
   - Vol.1：[餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")
 

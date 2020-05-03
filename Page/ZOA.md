@@ -1,7 +1,7 @@
 > この記事は[ZOA](https://ja.wikipedia.org/wiki/ZOA)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:ZOA-Kofu.JPG "wikilink") **株式会社ZOA**（ゾア、）は、[パソコンショップ](../Page/パソコンショップ.md "wikilink")、バイク用品などを運営する[小売](../Page/小売.md "wikilink")業者。現在は[ダイワボウホールディングス](../Page/ダイワボウホールディングス.md "wikilink")、[ダイワボウ情報システム](../Page/ダイワボウ情報システム.md "wikilink")の関連会社である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:ZOA-Kofu.JPG "wikilink") **株式会社ZOA**（ゾア、）は、[パソコンショップ](../Page/パソコンショップ.md "wikilink")やバイク用品店などを運営する[小売](../Page/小売.md "wikilink")業者。店舗によってはパソコン用品とバイク用品の両方を扱っている店もある。2001年に[ダイワボウ情報システム](../Page/ダイワボウ情報システム.md "wikilink")の子会社になって以降（2005年からは関連会社）[ダイワボウホールディングス](../Page/ダイワボウホールディングス.md "wikilink")との関連が深い。
 
 本社所在地は[静岡県](../Page/静岡県.md "wikilink")[沼津市](../Page/沼津市.md "wikilink")大諏訪719。[JASDAQ上場](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")（証券コード3375）。
 

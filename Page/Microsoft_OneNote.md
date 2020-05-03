@@ -113,8 +113,8 @@ Windowsのデスクトップ版とmacOS版には無料版の「Microsoft OneNote
 
 ## 外部リンク
 
-  - [Microsoft Office OneNote ホームページ](https://www.onenote.com)
-  - [Microsoft Office OneNote サポートページ - 製品の基本的な使い方](https://support.office.com/ja-jp/onenote)
+  - [Microsoft OneNote](https://www.microsoft.com/ja-jp/microsoft-365/onenote/digital-note-taking-app)
+  - [OneNote のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/onenote)
   - [OneNoteのGemシリーズのプラグイン](http://www.onenotegem.com/)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink")

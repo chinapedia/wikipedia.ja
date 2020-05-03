@@ -176,7 +176,7 @@
 ### 作詞提供
 
   - [藤井隆](../Page/藤井隆.md "wikilink")「[ナンダカンダ](https://ja.wikipedia.org/wiki/ナンダカンダ "wikilink")」「アイモカワラズ」
-  - [大山百合香](../Page/大山百合香.md "wikilink")「春色」※作詞提供
+  - [大山百合香](../Page/大山百合香.md "wikilink")「春色」
   - [メロフロート](https://ja.wikipedia.org/wiki/メロフロート "wikilink")「夢のカケラ」
 
 ## ミュージックビデオ

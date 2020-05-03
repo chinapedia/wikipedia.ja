@@ -32,7 +32,7 @@
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")4月 - 東北トーヨーゴム株式会社を合併
   - [1979年](../Page/1979年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 日東タイヤ株式会社（現・[日東化工](../Page/日東化工.md "wikilink")株式会社）と生産、技術、販売、管理等業務全般にわたり提携
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")4月 - 自動車部品技術センター（愛知県みよし市）開設
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月](../Page/11月.md "wikilink") - 株式会社オルビス（現・[CACオルビス](https://ja.wikipedia.org/wiki/CACオルビス "wikilink")）設立
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月](../Page/11月.md "wikilink") - 株式会社オルビス（現・[CACオルビス](../Page/CACオルビス.md "wikilink")）設立
   - [1996年](https://ja.wikipedia.org/wiki/1996年のエベレスト大量遭難 "wikilink")10月 - 菱東タイヤ（株）を吸収合併
   - [2000年](../Page/2000年.md "wikilink")2月 - 国内全8製造事業所で ISO 14001を認証取得
   - [2001年](../Page/2001年.md "wikilink")

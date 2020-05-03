@@ -36,7 +36,7 @@
   - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
   - [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+  - [福井放送](../Page/福井放送.md "wikilink")
   - [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")
 
 ## 外部リンク

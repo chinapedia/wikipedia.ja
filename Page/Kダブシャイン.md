@@ -34,7 +34,7 @@
   - [2001年](../Page/2001年.md "wikilink")
       - ミニアルバム『SAVE THE CHILDREN』をリリース。
   - [2002年](../Page/2002年.md "wikilink")
-      - キングギドラを再結成。発表したシングルが次々[オリコンチャート](../Page/オリコンチャート.md "wikilink")インし、[地上波](../Page/地上波.md "wikilink")の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")の音楽番組である『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』、[CDTV](https://ja.wikipedia.org/wiki/CDTV "wikilink")に出演、知名度を広める。同年に発表したアルバム『最終兵器』はオリコン初登場3位にランクインする。
+      - キングギドラを再結成。発表したシングルが次々[オリコンチャート](../Page/オリコンチャート.md "wikilink")インし、[地上波](../Page/地上波.md "wikilink")の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")の音楽番組である『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』、[CDTV](https://ja.wikipedia.org/wiki/CDTV "wikilink")に出演、知名度を広める。同年に発表したアルバム『最終兵器』はオリコン初登場3位にランクインする。
       - 自身やキングギドラの[PVを手掛ける](../Page/ミュージック・ビデオ.md "wikilink")[薗田賢次](https://ja.wikipedia.org/wiki/薗田賢次 "wikilink")が監督を務め、親交のある窪塚洋介が主演した映画『[凶気の桜](../Page/凶気の桜.md "wikilink")』で初の音楽監督を務める。
       - 児童虐待をテーマにしたコンセプトアルバム『CHANGE THE GAME』に参加。
   - [2003年](../Page/2003年.md "wikilink")

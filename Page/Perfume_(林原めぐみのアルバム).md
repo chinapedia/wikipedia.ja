@@ -116,7 +116,7 @@
   - Directed：山崎淳（SOFTHOUSE UNO）
   - Mixed：森元浩二
 
-**ハートの行方〜MEMORIES FOREVER〜**
+**ハートの行方 -MEMORIES FOREVER-**
 
   - Sound Produce：Vink
   - Synthersizer Operation：矢吹俊郎・大平勉

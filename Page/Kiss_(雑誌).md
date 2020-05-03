@@ -80,7 +80,7 @@
   - 家電の女（[西山優里子](../Page/西山優里子.md "wikilink")）
   - 彼と彼女のヒストリごはん（[真船きょうこ](https://ja.wikipedia.org/wiki/真船きょうこ "wikilink")）
   - [キス&ネバークライ](../Page/キス&ネバークライ.md "wikilink") （[小川彌生](../Page/小川彌生.md "wikilink")）
-  - [きみはペット](https://ja.wikipedia.org/wiki/きみはペット "wikilink") （小川彌生）
+  - [きみはペット](../Page/きみはペット.md "wikilink") （小川彌生）
   - 君はぼくのヒーローさ（[真柴ひろみ](https://ja.wikipedia.org/wiki/真柴ひろみ "wikilink")）
   - キャバママ（原作：城戸口靜、漫画：[山田圭子](https://ja.wikipedia.org/wiki/山田圭子_\(漫画家\) "wikilink")）
   - [銀のスプーン](https://ja.wikipedia.org/wiki/銀のスプーン "wikilink")（小沢真理）

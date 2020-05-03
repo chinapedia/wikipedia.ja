@@ -203,7 +203,7 @@
 
 :\* 大沢広之（印刷会社社員） - [野村貴志](https://ja.wikipedia.org/wiki/野村貴志 "wikilink")
 
-:\* マンション管理人 - [春延朋也](https://ja.wikipedia.org/wiki/春延朋也 "wikilink")
+:\* マンション管理人 - [春延朋也](../Page/春延朋也.md "wikilink")
 
 :\* 東光ビルサービス 社員 - [矢作公一](../Page/矢作公一.md "wikilink")
 

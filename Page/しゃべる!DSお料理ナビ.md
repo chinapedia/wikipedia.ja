@@ -115,10 +115,9 @@
 
 ## 外部リンク
 
-  - [しゃべる\!DSお料理ナビ](http://www.nintendo.co.jp/ds/a4vj/index.html)
+  - [しゃべる\!DSお料理ナビ](https://www.nintendo.co.jp/ds/a4vj/)
   - [しゃべる\!DSお料理ナビ まるごと帝国ホテル](http://www.gamecity.ne.jp/ds/cook/)
-  - [世界のごはん しゃべる\!DSお料理ナビ](http://www.nintendo.co.jp/ds/cnvj/index.html)
-  - [辻学園調理・製菓専門学校](http://www.tec-tsuji.com/chouri/index.html)
+  - [世界のごはん しゃべる\!DSお料理ナビ](https://www.nintendo.co.jp/ds/cnvj/)
 
 [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:インディーズゼロのゲームソフト](https://ja.wikipedia.org/wiki/Category:インディーズゼロのゲームソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:料理を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:料理を題材としたコンピュータゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink")
 

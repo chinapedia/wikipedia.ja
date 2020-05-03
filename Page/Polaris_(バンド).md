@@ -3,47 +3,30 @@
 
 **Polaris**（ポラリス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ・バンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。
 
-ベトナム人アイドル「[POLARIS★ポラリス](../Page/POLARIS★ポラリス.md "wikilink")」はこちら参照。
+## 来歴
 
-## 概要
+[2000年](../Page/2000年.md "wikilink")11月にオオヤユウスケと柏原譲によって結成。[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")風のヴォーカルと浮遊感の漂うサウンドはダブポップと呼ばれる。
 
-[2000年](../Page/2000年.md "wikilink")[11月](../Page/11月.md "wikilink")に[オオヤユウスケ](https://ja.wikipedia.org/wiki/オオヤユウスケ "wikilink")と[柏原譲](https://ja.wikipedia.org/wiki/柏原譲 "wikilink")によって結成された。
+[2001年](../Page/2001年.md "wikilink")3月に坂田学が加入。9月、[Nathalie Wiseと共にレーベルFamily](../Page/Nathalie_Wise.md "wikilink") Songを設立。[11月](../Page/11月.md "wikilink")にファースト・ミニ・アルバム『Polaris』でデビュー。外資系CDショップでトップ5に、[J-WAVE](../Page/J-WAVE.md "wikilink")の「TOKIO HOT 100」では20位圏内にチャートインする。
 
-[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[坂田学](https://ja.wikipedia.org/wiki/坂田学 "wikilink")が加入。[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")風のヴォーカルと浮遊感の漂うサウンドや、10分近くの長さの曲はダブポップと呼ばれる。
+[2002年](../Page/2002年.md "wikilink")2月に東京・大阪でレーベル設立イベントを開催。日本のみならずアジア各国からもインターネットでチケットを購入したファンが訪れた。6月にセカンド・ミニ・アルバム『Tide』をリリース。初のセルフ・レコーディング、セルフ・エンジニアリング。7月、8月[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")、[ROCK IN JAPAN FESTIVALに出演](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。フル・アルバムのレコーディングに着手。11月ファーストフル・アルバム『Home』をリリース。初のワンマン・ツアー。
 
-[9月](../Page/9月.md "wikilink")。[Nathalie Wiseと共にレーベルFamily](../Page/Nathalie_Wise.md "wikilink") Songを設立。
-
-[11月](../Page/11月.md "wikilink")に『Polaris』でデビュー。外資系CDショップでトップ5に、[J-WAVE](../Page/J-WAVE.md "wikilink")の「TOKIO HOT 100」では20位圏内にチャートインする。
-
-[2002年](../Page/2002年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に東京・大阪でレーベル設立イベントを開催。日本のみならずアジア各国からもインターネットでチケットを購入したファンが訪れた。
-
-6月にセカンド・ミニ・アルバム『[Tide](https://ja.wikipedia.org/wiki/Tide "wikilink")』をリリース。初のセルフ・レコーディング、セルフ・エンジニアリング。
-
-7月、8月。[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")、[ROCK IN JAPAN FESTIVALに出演](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")。 フル・アルバムのレコーディングに着手。サポート・エンジニアは[中野正之](https://ja.wikipedia.org/wiki/中野正之 "wikilink")。
-
-[11月](../Page/11月.md "wikilink")フル・アルバム『Home』をリリース。初のワンマン・ツアー。[パーティー](https://ja.wikipedia.org/wiki/パーティー "wikilink")、continuityをスタート。第一回目はDRY\&HEAVYを迎えた。
+[2005年](../Page/2005年.md "wikilink")3月に坂田が脱退。
 
 ## メンバー
 
-### 現メンバー
+  - オオヤユウスケ（おおや ゆうすけ、[1974年](../Page/1974年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ）- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
+    [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[Lab LIFeの元メンバー](https://ja.wikipedia.org/wiki/Lab_LIFe "wikilink")。[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")の[原田郁子](../Page/原田郁子.md "wikilink")、[ハナレグミ](../Page/ハナレグミ.md "wikilink")の[永積タカシ](https://ja.wikipedia.org/wiki/永積タカシ "wikilink")とともに[ohana](https://ja.wikipedia.org/wiki/ohana "wikilink")を結成。ソロユニットSPENCER（スペンサァ）としても活動。
 
-  - オオヤユウスケ（[1974年](../Page/1974年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink") - ）- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
-      - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
-      - [Lab LIFeの元メンバー](https://ja.wikipedia.org/wiki/Lab_LIFe "wikilink")。
-      - [クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")の[原田郁子](../Page/原田郁子.md "wikilink")、[ハナレグミ](../Page/ハナレグミ.md "wikilink")の[永積タカシ](https://ja.wikipedia.org/wiki/永積タカシ "wikilink")とともに[ohana](https://ja.wikipedia.org/wiki/ohana "wikilink")を結成。
-      - ソロユニット[SPENCER](https://ja.wikipedia.org/wiki/SPENCER "wikilink")（スペンサァ）としても活動中。
-  - 柏原譲（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ）- [ベース](../Page/エレクトリックベース.md "wikilink")
-      - [東京都](../Page/東京都.md "wikilink")出身。
-      - [フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")のメンバー。
-      - [作曲家](../Page/作曲家.md "wikilink")の[丸山康太郎](https://ja.wikipedia.org/wiki/丸山康太郎 "wikilink")とともに[OTOUTA](https://ja.wikipedia.org/wiki/OTOUTA "wikilink")を結成。
-      - 茂木欣一（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")／[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")）、加藤隆志（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）とともに[So many tearsとしても活動中](https://ja.wikipedia.org/wiki/So_many_tears "wikilink")。
+<!-- end list -->
 
-### 元メンバー
+  - 柏原譲（かしわばら ゆずる、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ）'''- [ベース](../Page/エレクトリックベース.md "wikilink")
+    [東京都](../Page/東京都.md "wikilink")出身。[フィッシュマンズ](../Page/フィッシュマンズ.md "wikilink")の元メンバー。[作曲家](../Page/作曲家.md "wikilink")の[丸山康太郎](https://ja.wikipedia.org/wiki/丸山康太郎 "wikilink")とともに[OTOUTA](https://ja.wikipedia.org/wiki/OTOUTA "wikilink")を結成。茂木欣一（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")／フィッシュマンズ）、加藤隆志（東京スカパラダイスオーケストラ）とともに[So many tearsとしても活動](https://ja.wikipedia.org/wiki/So_many_tears "wikilink")。
 
-  - 坂田学（[1973年](../Page/1973年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）- [ドラム](../Page/ドラムセット.md "wikilink")
-      - [埼玉県](../Page/埼玉県.md "wikilink")出身。
-      - 父はサックス奏者の[坂田明](../Page/坂田明.md "wikilink")。
-      - [2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に加入し、[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に脱退。
+### 旧メンバー
+
+  - 坂田学（さかた まなぶ、[1973年](../Page/1973年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ） - [ドラム](../Page/ドラムセット.md "wikilink")
+    [埼玉県](../Page/埼玉県.md "wikilink")出身。父はサックス奏者の[坂田明](../Page/坂田明.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に加入し、[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に脱退。
 
 ## ディスコグラフィー
 

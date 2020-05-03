@@ -17,8 +17,8 @@
 ## 主な記録
 
   - 1997年度年間シングルチャート38位。
-  - 『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』パーフェクトランキング・3 YEARS BEST 100（95・96・97）86位。
-  - 『HEY\!HEY\!HEY\!MUSIC CHAMP'97』年間パーフェクトランキング29位。
+  - 『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』パーフェクトランキング・3 YEARS BEST 100（95・96・97）86位。
+  - 『HEY\!HEY\!HEY\! MUSIC CHAMP'97』年間パーフェクトランキング29位。
 
 ## 収録曲
 

@@ -162,7 +162,7 @@
 <li><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a></li>
 <li><a href="../Page/びわ湖放送.md" title="wikilink">びわ湖放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></li>
+<li><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -194,7 +194,7 @@
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
   - [テレビ長崎](../Page/テレビ長崎.md "wikilink")
   - [テレビくまもと](../Page/テレビ熊本.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

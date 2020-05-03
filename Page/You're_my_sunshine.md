@@ -17,8 +17,8 @@
 
 ## 主な記録
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") 96年下半期総合パーフェクト・ランキング - 7位
-  - HEY\!HEY\!HEY\!MUSIC CHAMP パーフェクト・ランキング 3 YEARS BEST 100（95・96・97） - 44位
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") 96年下半期総合パーフェクト・ランキング - 7位
+  - HEY\!HEY\!HEY\! MUSIC CHAMP パーフェクト・ランキング 3 YEARS BEST 100（95・96・97） - 44位
 
 ## 収録曲
 

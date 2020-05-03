@@ -93,7 +93,7 @@
 
 ### 旧メンバー
 
-  - **[You](../Page/小柳友.md "wikilink")**（ユウ）（2006年7月1日脱退） - [Drums](../Page/ドラマー.md "wikilink")。現在は本名の[小柳友](../Page/小柳友.md "wikilink")名義で俳優として活動。著名な家族 として[Bro.TOM](../Page/Bro.TOM.md "wikilink")（ブラザー・トム)（父）、[小柳心](https://ja.wikipedia.org/wiki/小柳心 "wikilink")（兄）がいる。
+  - **[You](../Page/小柳友.md "wikilink")**（ユウ）（2006年7月1日脱退） - [Drums](../Page/ドラマー.md "wikilink")。現在は本名の[小柳友](../Page/小柳友.md "wikilink")名義で俳優として活動。著名な家族 として[Bro.TOM](../Page/Bro.TOM.md "wikilink")（ブラザー・トム)（父）、[小柳心](https://ja.wikipedia.org/wiki/小柳心 "wikilink")（兄）がいる。バンド名の名付け親である。
   - **[Alex](../Page/ALEX_\(ファッションモデル\).md "wikilink")**（アレク）（2009年5月13日脱退） - [Guitar](../Page/ギタリスト.md "wikilink")。現在はファッションモデルとして活動。主にリードギターを担当していた。
 
 ## 来歴
@@ -1288,7 +1288,7 @@
 2020年4月1日(予定)</p></td>
 <td><p><strong>ONE OK ROCK 2019-2020 EYE OF THE STORM JAPAN TOUR</strong></p></td>
 <td><p>17会場35公演(予定)</p></td>
-<td><p>11月13日の公演が中止となり、2020年3月31日と4月1日に振替公演を行う。</p></td>
+<td><p>11月13日の公演が中止となり、2020年3月31日と4月1日に振替公演を行う予定だったが、新型コロナウイルス(COVID-19)の影響により振替公演も中止となった。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1740,7 +1740,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 02.02 - [BLARE FEST. 2020](https://ja.wikipedia.org/wiki/BLARE_FEST._2020 "wikilink"), WATER STAGE at ポートメッセなごや (愛知県)
+  - 02.02 - BLARE FEST. 2020, WATER STAGE at ポートメッセなごや (愛知県)
 
 </div>
 
@@ -1809,13 +1809,13 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - [Soundwave Festival](https://ja.wikipedia.org/wiki/Soundwave_Festival "wikilink") 2015 Australia /Festival
+  - Soundwave Festival 2015 Australia /Festival
   - 02.21 - Adelaide - Bonython Park
   - 02.22 - Melbourne - Flemington Racecourse
-  - 02.25 - Sydney - Hordern [Soundwave Touring](https://ja.wikipedia.org/wiki/Soundwave_Touring "wikilink") [THE SMASHING PUMPKINS](https://ja.wikipedia.org/wiki/THE_SMASHING_PUMPKINS "wikilink")、Support Act
+  - 02.25 - Sydney - Hordern Soundwave Touring THE SMASHING PUMPKINS、Support Act
   - 02.28 - Sydney - Olympic Park
   - 03.01 - Brisbane - RNA Showgrounds
-  - [Yellowcard US Tour with Special Guests (FINCH / ONE OK ROCK)](https://ja.wikipedia.org/wiki/Yellowcard_US_Tour_with_Special_Guests_\(FINCH_/_ONE_OK_ROCK\) "wikilink")
+  - Yellowcard US Tour with Special Guests (FINCH / ONE OK ROCK)
   - 04.06 - Lawrence, KS – Granada Theatre
   - 04.07 - Columbia, MO – The Blue Note
   - 04.08 - Lincoln, NE – Bourbon Theatre
@@ -1825,8 +1825,8 @@
   - 04.14 - Indianapolis, IN – Deluxe @ Old National Center
   - 04.15 - Cleveland, OH – House of Blues
   - 04.17 - Pittsburgh, PA – Altar Bar
-  - 07.26 - [安山Mバレーロックフェスティバル](https://ja.wikipedia.org/wiki/安山Mバレーロックフェスティバル "wikilink") 2015 韓国 /Festival
-  - Back To The Future Hearts Tour (Main Act:[All Time Low](https://ja.wikipedia.org/wiki/All_Time_Low "wikilink") , [Sleeping with sirens](https://ja.wikipedia.org/wiki/Sleeping_with_Sirens "wikilink")／Support Act:**ONE OK ROCK** , [Neck Deep](https://ja.wikipedia.org/wiki/Neck_Deep "wikilink"))
+  - 07.26 - 安山Mバレーロックフェスティバル 2015 韓国 /Festival
+  - Back To The Future Hearts Tour (Main Act:[All Time Low](https://ja.wikipedia.org/wiki/All_Time_Low "wikilink") , [Sleeping with sirens](https://ja.wikipedia.org/wiki/Sleeping_with_Sirens "wikilink")／Support Act:**ONE OK ROCK** , Neck Deep)
   - 10.09 Orlando, FL CFE Arena at UCF
   - 10.10 Alpharetta, GA Verizon Wireless Amphitheatre
   - 10,11 Charlotte, NC Uptown Amphitheatre
@@ -1838,7 +1838,7 @@
   - 10.20 Mesa, AZ Mesa Amphitheatre
   - 10.23 Los Angeles, CA Shrine Exposition Hall
   - 10.24 Las Vegas, NV Downtown Las Vegas Events Center
-  - 10.25 - [AFTERSHOCK](https://ja.wikipedia.org/wiki/AFTERSHOCK "wikilink") 2015 USA CA Sacramento Gibson Ranch Park /Festival
+  - 10.25 - AFTERSHOCK 2015 USA CA Sacramento Gibson Ranch Park /Festival
   - 10.26 San Jose, CA City National Civic
   - 10.28 Kent, WA ShoWare Center
   - 10.30 Portland, OR Roseland Theater
@@ -1866,7 +1866,7 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - [Monster Energy Outbreak Tour](https://ja.wikipedia.org/wiki/Monster_Energy_Outbreak_Tour "wikilink")・[ISSUES US TOUR 2016](https://ja.wikipedia.org/wiki/ISSUES_US_TOUR_2016 "wikilink")
+  - Monster Energy Outbreak Tour・ISSUES US TOUR 2016
 
 <!-- end list -->
 
@@ -1876,7 +1876,7 @@
 <!-- end list -->
 
   - 03.18 San francisco, CA – The Regency Ballroom
-  - 03.19 [Self Help Festival](https://ja.wikipedia.org/wiki/Self_Help_Festival "wikilink") – San Bernardino, CA /Festival
+  - 03.19 Self Help Festival – San Bernardino, CA /Festival
   - 03.20 Sacrament, CA – Ace of Spades
   - 03.22 San Diego, CA – House of Blues
   - 03.23 Las Vegas, NV – Vinyl
@@ -1903,9 +1903,9 @@
   - 06.03 [Rock am Ring](https://ja.wikipedia.org/wiki/Rock_am_Ring "wikilink")– Vulkaneifel, Germany /Festival
   - 06.04 [Rock im Park](https://ja.wikipedia.org/wiki/Rock_im_Park "wikilink") – Nuremberg, Germany /Festival
   - 06.10 [Pinkpop Festival](https://ja.wikipedia.org/wiki/Pinkpop_Festival "wikilink") – Landgraaf, Holland /Festival
-  - 06.11 [Download Festival](https://ja.wikipedia.org/wiki/Download_Festival "wikilink") – Paris, France /Festival
+  - 06.11 Download Festival – Paris, France /Festival
   - 06.12 Download Festival– Donington, UK /Festival
-  - Sounds Live Feels live North American Summer Tour (Main Act:[ファイヴ・セカンズ・オブ・サマー](https://ja.wikipedia.org/wiki/ファイヴ・セカンズ・オブ・サマー "wikilink")／Support Act:[Hey Vioret](https://ja.wikipedia.org/wiki/Hey_Vioret "wikilink") , **ONE OK ROCK**)
+  - Sounds Live Feels live North American Summer Tour (Main Act:[ファイヴ・セカンズ・オブ・サマー](https://ja.wikipedia.org/wiki/ファイヴ・セカンズ・オブ・サマー "wikilink")／Support Act:Hey Vioret , **ONE OK ROCK**)
   - 06.30 Uncasville, CT / Mohegan Sun Arena
   - 07.01 Uncasville, CT / Mohegan Sun Arena
   - 07.02 Hershey, PA / Hersheypark Stadium
@@ -1943,11 +1943,11 @@
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 07.17 [AP Music Awards](https://ja.wikipedia.org/wiki/AP_Music_Awards "wikilink")2017,US/OH/ Cleveland/The Quicken Loans Arena
-  - 08.24 [CZAD FESTIWAL](https://ja.wikipedia.org/wiki/CZAD_FESTIWAL "wikilink") , Poland/ Straszecin- Arena Park
-  - 08.26 [Reading \&Leeds Festival](https://ja.wikipedia.org/wiki/Reading_&Leeds_Festival "wikilink") ,UK /Reading /THE PIT
-  - 08.27 [Reading \&Leeds Festival](https://ja.wikipedia.org/wiki/Reading_&Leeds_Festival "wikilink") ,UK /Leeds/THE PIT
-  - 10.27 [Linkin Park and Friends Celebrate Life in Honor of Chester Bennington](https://ja.wikipedia.org/wiki/Linkin_Park_and_Friends_Celebrate_Life_in_Honor_of_Chester_Bennington "wikilink"),US/CA/the Hollywood Bowl
+  - 07.17 AP Music Awards2017,US/OH/ Cleveland/The Quicken Loans Arena
+  - 08.24 CZAD FESTIWAL , Poland/ Straszecin- Arena Park
+  - 08.26 Reading \&Leeds Festival ,UK /Reading /THE PIT
+  - 08.27 Reading \&Leeds Festival ,UK /Leeds/THE PIT
+  - 10.27 Linkin Park and Friends Celebrate Life in Honor of Chester Bennington,US/CA/the Hollywood Bowl
 
 </div>
 

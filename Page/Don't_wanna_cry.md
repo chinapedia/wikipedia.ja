@@ -16,11 +16,11 @@
 
 ## 主な記録
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・2週連続（96/04/15～22・\#063～64）**1位**。
+  - [HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・2週連続（96/04/15～22・\#063～64）**1位**。
   - 1996オリコン年間カラオケリクエスト回数11位。
   - 第38回“[日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")”史上最年少記録（当時19歳）で大賞受賞。
   - 第11回“[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")”ベスト5・シングル賞。
-  - HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）21位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）21位。
 
 ## 収録曲
 

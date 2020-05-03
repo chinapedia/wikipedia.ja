@@ -1,7 +1,7 @@
 > この記事は[HGX](https://ja.wikipedia.org/wiki/HGX)から翻訳されています。
 
 
-『**HGX**』（エイチジーエックス）は、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[NHK鹿児島放送局](../Page/NHK鹿児島放送局.md "wikilink")で放送されていた[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。放送時間は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 17時05分 - 18時00分。\[1\]
+『**HGX**』（エイチジーエックス）は、[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[NHK鹿児島放送局](../Page/NHK鹿児島放送局.md "wikilink")で放送されていた、[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")。放送時間は毎週[月曜](../Page/月曜日.md "wikilink") - [金曜](../Page/金曜日.md "wikilink") 17時05分 - 18時00分。\[1\]
 
 ## 概要
 

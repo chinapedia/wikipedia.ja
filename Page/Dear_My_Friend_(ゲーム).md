@@ -13,7 +13,7 @@
 
 本作の制作スタッフと一部の声優が『[もしも明日が晴れならば](../Page/もしも明日が晴れならば.md "wikilink")』（[ぱれっと](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")）に引き継がれている。
 
-[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Dear My Friend 〜Love like powderly snow〜**』（粉雪のような恋）が[イエティより](../Page/イエティ_\(ゲームブランド\).md "wikilink")1万本の限定生産で発売された。PS2版にはBGMを収録した[ソノシート](../Page/ソノシート.md "wikilink")が同梱されているが、これを最後に[東洋化成](https://ja.wikipedia.org/wiki/東洋化成 "wikilink")がソノシートのプレスを打ち切り、国産ソノシートレコードの終焉となった\[1\]。なお、ハードの画像メモリの都合でPS2版は動作速度が遅く、プレイの際にもたつきを感じると言われている\[2\]。
+[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Dear My Friend 〜Love like powderly snow〜**』（粉雪のような恋）が[イエティより](../Page/イエティ_\(ゲームブランド\).md "wikilink")1万本の限定生産で発売された。PS2版にはBGMを収録した[ソノシート](../Page/ソノシート.md "wikilink")が同梱されているが、これを最後に[東洋化成](https://ja.wikipedia.org/wiki/東洋化成 "wikilink")がソノシートのプレスを打ち切り、国産ソノシートレコードの終焉となった\[1\]。なお、ハードの画像メモリの都合でPS2版は動作速度が遅く、プレイの際にもたつきを感じると言われている\[2\]。
 
 PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能がなくなった代わりに、麻衣以外の各ヒロインの追加シナリオと各ヒロイン5名+司役の声優インタビュー、そして月夜シナリオにバッドエンドが追加された。
 

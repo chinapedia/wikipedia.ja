@@ -57,6 +57,6 @@ GNU Go 3.8 February 19, 2009.（最新安定版）
   - [Pocket GNU Go](http://www.vieka.com/gnugo/)
   - [Game Boy Advance version](http://www.thingker.com/gba/)
 
-[Category:コンピュータ囲碁](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁 "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:GNUプロジェクト](https://ja.wikipedia.org/wiki/Category:GNUプロジェクト "wikilink") [Category:1989年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1989年のソフトウェア "wikilink")
+[Category:コンピュータ囲碁](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁 "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:GNUプロジェクト](https://ja.wikipedia.org/wiki/Category:GNUプロジェクト "wikilink") [Category:1989年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1989年のソフトウェア "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink")
 
 1.  <https://www.ieice.org/iss/jpn/Publications/issposter_2015/data/pdf/ISS-SP-223.pdf>

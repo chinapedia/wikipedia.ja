@@ -9,7 +9,7 @@
 
 初の[オリコン初登場](../Page/オリコンチャート.md "wikilink")3位を獲得。また、今までリリースされた全シングル・[アルバム](../Page/アルバム.md "wikilink")のジャケットを飾っていたキャラクター"UVERちゃん"がこのシングルからは使われなくなり、今作以降のCDからはメンバーを絵柄にしたジャケットに替わった。
 
-この曲で、音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）に再び出演した。
+この曲で、音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）に再び出演した。
 
 キャッチコピーは、『**土6アニメ「BLOOD+」新オープニングテーマ\!**　**サンスター「VO5シリーズ」CMシューっとタイアップ\!**』
 

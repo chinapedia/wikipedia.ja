@@ -88,7 +88,7 @@
 
 <!-- end list -->
 
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") - [番組販売](../Page/番組販売.md "wikilink")にて、数日の[遅れネット](../Page/遅れネット.md "wikilink")。
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink") - [番組販売](../Page/番組販売.md "wikilink")にて、数日の[遅れネット](../Page/遅れネット.md "wikilink")。
 
 ## 脚注
 

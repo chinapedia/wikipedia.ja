@@ -87,7 +87,7 @@
 | [高知県](../Page/高知県.md "wikilink")                                                     | [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）                              |                     |         |
 | [福岡県](../Page/福岡県.md "wikilink")                                                     | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（rkb）        |                     |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）              |                     |         |
-| [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）              |                     |         |
+| [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](../Page/大分放送.md "wikilink")（OBS）                                 |                     |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                                     | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）              |                     |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）            |                     |         |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                               | 木曜23:55 - 翌0:26     | 7日遅れ    |

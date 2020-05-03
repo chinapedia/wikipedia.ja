@@ -5,7 +5,7 @@
 
 ## 概要
 
-タイトル曲は、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』1997年4月 - 6月度エンディングテーマに起用。
+タイトル曲は、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』1997年4月 - 6月度エンディングテーマに起用。
 
 自身初のオリコンシングルチャート1位を獲得し、初動27.8万枚、累計99.4万枚のセールスを記録\[1\]。日本レコード協会の集計（出荷枚数）では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に認定された。
 

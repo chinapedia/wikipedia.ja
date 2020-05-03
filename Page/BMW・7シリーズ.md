@@ -1,7 +1,7 @@
 > この記事は[BMW・7シリーズ](https://ja.wikipedia.org/wiki/BMW・7シリーズ)から翻訳されています。
 
 
-**7シリーズ**（[英語](../Page/英語.md "wikilink")名: **7 Series**、[ドイツ語](../Page/ドイツ語.md "wikilink")名: **7er**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[BMW](../Page/BMW.md "wikilink")が製造・販売している大型[高級](../Page/高級車.md "wikilink")[セダン](../Page/セダン.md "wikilink")である。
+**7シリーズ**（[英語](../Page/英語.md "wikilink")名: **7 Series**、[ドイツ語](../Page/ドイツ語.md "wikilink")名: **7er**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー、[BMW](../Page/BMW.md "wikilink")が製造・販売している大型[高級](../Page/高級車.md "wikilink")[セダン](../Page/セダン.md "wikilink")である。
 
 ## 概要
 

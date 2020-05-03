@@ -208,11 +208,11 @@
   - [魍魎の匣](../Page/魍魎の匣.md "wikilink")（テレビアニメ 2008年） - キャラクターデザイン原案
   - [鉄拳6](../Page/鉄拳6.md "wikilink")（PS3、PSP、XBOX360版） - 風間仁のEXコスチュームデザイン
   - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")MAX（2009年） - ガールズ通信社キャラクター・ハピ子 キャラクターデザイン
-  - [BLOOD-C](https://ja.wikipedia.org/wiki/BLOOD-C "wikilink")（2011年） - 原作・ストーリー・キャラクターデザイン原案
+  - [BLOOD-C](https://ja.wikipedia.org/wiki/BLOOD-C "wikilink")（2011年） - 原作・ストーリー・キャラクターデザイン原案\[18\]
   - [劇場版 BLOOD-C The Last Dark](https://ja.wikipedia.org/wiki/BLOOD-C#映画 "wikilink")（2012年） - 原作・ストーリー・キャラクターデザイン原案
   - [コードギアス 反逆のルルーシュ ナナリーinワンダーランド](https://ja.wikipedia.org/wiki/コードギアス_反逆のルルーシュ_ナナリーinワンダーランド "wikilink")（2012年） - キャラクター原案
   - [コードギアス 亡国のアキト](https://ja.wikipedia.org/wiki/コードギアス_亡国のアキト "wikilink")（2012年） - キャラクターデザイン原案
-  - MOONSAGA-義経秘伝-（原作/脚本/演出/主演:[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") 企画協力/衣装コンセプトデザイン:CLAMP）\[18\]
+  - MOONSAGA-義経秘伝-（原作/脚本/演出/主演:[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") 企画協力/衣装コンセプトデザイン:CLAMP）\[19\]
   - [BLOOD-C The LAST MIND](https://ja.wikipedia.org/wiki/BLOOD-C#舞台 "wikilink")（2015年） - 原作
   - [カブキブ\!](https://ja.wikipedia.org/wiki/カブキブ! "wikilink")（テレビアニメ 2017年） - アニメキャラクター原案
   - [阿修羅少女～BLOOD-C異聞～](https://ja.wikipedia.org/wiki/BLOOD-C#実写映画 "wikilink")（2017年） - 原作
@@ -274,4 +274,5 @@
 15.
 16.
 17.
-18. [義経秘伝公式サイト](http://www.dmm.com/moonsaga)
+18.
+19. [義経秘伝公式サイト](http://www.dmm.com/moonsaga)

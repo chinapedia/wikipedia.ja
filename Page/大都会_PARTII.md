@@ -615,7 +615,7 @@
   - 撮影協力 - [大丸百貨店](https://ja.wikipedia.org/wiki/井門グループ "wikilink")\[13\]、[インテリア井門](https://ja.wikipedia.org/wiki/インテリア井門 "wikilink")、[富士工](https://ja.wikipedia.org/wiki/富士工 "wikilink")、[日本シーメンス](../Page/シーメンス.md "wikilink")、[フクダ電子](../Page/フクダ電子.md "wikilink")
   - 医事指導 - 斉藤喜好
   - 技斗 - [高倉英二](https://ja.wikipedia.org/wiki/高倉英二 "wikilink")（グループ十二騎会）
-  - カーアクション - [三石千尋](https://ja.wikipedia.org/wiki/三石千尋 "wikilink")とマイク・スタントマンチーム
+  - カーアクション - [三石千尋](../Page/三石千尋.md "wikilink")とマイク・スタントマンチーム
   - ナレーター - [小林清志](../Page/小林清志.md "wikilink")
   - 制作 - [石原プロモーション](../Page/石原プロモーション.md "wikilink")
 
@@ -671,7 +671,7 @@
 
   - 日本テレビ（制作局）：火曜 21:00 - 21:54
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")：火曜 21:00 - 21:54\[14\]
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")：火曜 21:00 - 21:54\[15\]
+  - [福井放送](../Page/福井放送.md "wikilink")：火曜 21:00 - 21:54\[15\]
 
 ## 補足
 

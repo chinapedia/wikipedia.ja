@@ -11,6 +11,8 @@
 
 本作で自身の持つシングル首位獲得数記録は27作に更新され、女性アーティスト部門では歴代1位の記録を更新、総合では[B'z](../Page/B'z.md "wikilink")の38作に次ぐ歴代2位となった。また、シングルの総売り上げ枚数が2,000万枚を突破した。それまでシングルの総売り上げが2,000万枚を突破したのはB'z・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4組のみで、ソロ歌手および女性歌手としては史上初の快挙となった\[1\]。
 
+初登場1位、累計売上25.9万枚。
+
 ## 収録曲
 
 全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki

@@ -75,7 +75,7 @@
   - [ザ・クイズマンショー](../Page/ザ・クイズマン!.md "wikilink")（テレビ朝日）
   - ぷりてぃうーまん（テレビ朝日）※2008年4月 - 9月、司会
   - [J-SPO](../Page/J-SPO.md "wikilink")（TBS）
-  - [なるトモ\!](https://ja.wikipedia.org/wiki/なるトモ! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
+  - [なるトモ\!](../Page/なるトモ!.md "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
   - [女神のアンテナ](../Page/女神のアンテナ.md "wikilink")（テレビ朝日）
   - [ライオンのごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※ゲスト
   - [フルタの方程式](https://ja.wikipedia.org/wiki/フルタの方程式 "wikilink")（テレビ朝日）※2010年7月18日、ゲスト

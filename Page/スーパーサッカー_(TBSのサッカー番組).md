@@ -329,7 +329,7 @@
 | [関東広域圏](../Page/広域放送.md "wikilink")                 | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）                | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 月曜 0:50 - 1:20（日曜深夜） | **制作局** |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")（TBC）                    | 同時ネット                                           |                      |         |
 | [山梨県](../Page/山梨県.md "wikilink")                    | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                  |                                                 |                      |         |
-| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（SBC） |                                                 |                      |         |
+| [長野県](../Page/長野県.md "wikilink")                    | [信越放送](../Page/信越放送.md "wikilink")（SBC）                    |                                                 |                      |         |
 | [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS） |                                                 |                      |         |
 | [広島県](../Page/広島県.md "wikilink")                    | [中国放送](../Page/中国放送.md "wikilink")（RCC）                    |                                                 |                      |         |
 | [大分県](../Page/大分県.md "wikilink")                    | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS） |                                                 |                      |         |
@@ -351,7 +351,7 @@
   - [2000年](../Page/2000年.md "wikilink")12月　生島が卒業。
   - [2001年](../Page/2001年.md "wikilink")1月 徳永がメインキャスターに就任。
   - 2001年7月　徳永が[もやもや病](../Page/もやもや病.md "wikilink")（[脳血管障害](../Page/脳血管障害.md "wikilink")）のため降板（5月から休養中）。
-  - 2001年10月　[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")（当時）の加藤浩次がメインキャスターに就任。
+  - 2001年10月　[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")の加藤浩次がメインキャスターに就任。
   - [2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") 『[JNNスポーツ&ニュース](../Page/JNNスポーツ&ニュース.md "wikilink")』のスポーツニュースを『J-SPORTS』として内包するため放送時間を30分から45分に延長し、『**J-SPORTS・スーパーサッカーPLUS**』にタイトルを変更。（スポーツニュースを内包する構成は『S☆1・スパサカ』時代も踏襲）。スポーツニュース担当として初田が参加。
   - 2003年4月　土井が『[ウォッチ\!](../Page/ウォッチ!.md "wikilink")』メインキャスターとなるため佐藤に交代。初田がスポーツ実況に専念するため有馬に交代。
   - [2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")　通算500回。タイトルの星の数は5つとなった。

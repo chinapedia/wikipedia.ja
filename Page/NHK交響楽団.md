@@ -295,17 +295,12 @@ NHK交響楽団の定期演奏会の模様は、[NHK-FM放送](../Page/NHK-FM放
   - 岩野裕一「NHK交響楽団全演奏会記録2・焼け跡の日比谷公会堂から新NHKホールまで」『Philharmony 2000/2001SPECIAL ISSULE』NHK交響楽団、2001年。
   - 岩野裕一「NHK交響楽団全演奏会記録3・繁栄の中の混沌を経て新時代へ - "世界のN響"への飛躍をめざして」『Philharmony 2001/2002SPECIAL ISSULE』NHK交響楽団、2002年。
 
+## 脚注
+
 ## 関連項目
 
   - [N響アワー](../Page/N響アワー.md "wikilink")
   - [クラシック音楽館](https://ja.wikipedia.org/wiki/クラシック音楽館 "wikilink")
-
-## 脚注
-
-### 注釈・出典
-
-## 関連記事
-
   - [N響団友オーケストラ](https://ja.wikipedia.org/wiki/N響団友オーケストラ "wikilink")
   - [NHKマイルカップ](../Page/NHKマイルカップ.md "wikilink") - 年によって[ファンファーレ](../Page/ファンファーレ.md "wikilink")を演奏する場合がある。
 
@@ -316,8 +311,6 @@ NHK交響楽団の定期演奏会の模様は、[NHK-FM放送](../Page/NHK-FM放
   -
   -
   -
-__目次強制__
-
 [Category:NHK交響楽団](https://ja.wikipedia.org/wiki/Category:NHK交響楽団 "wikilink") [Category:東京都のオーケストラ](https://ja.wikipedia.org/wiki/Category:東京都のオーケストラ "wikilink") [Category:NHKのオーケストラ](https://ja.wikipedia.org/wiki/Category:NHKのオーケストラ "wikilink") [Category:公益財団法人_(内閣総理大臣認定)](https://ja.wikipedia.org/wiki/Category:公益財団法人_\(内閣総理大臣認定\) "wikilink") [Category:東京都港区の公益法人](https://ja.wikipedia.org/wiki/Category:東京都港区の公益法人 "wikilink") [Category:日本オーケストラ連盟正会員](https://ja.wikipedia.org/wiki/Category:日本オーケストラ連盟正会員 "wikilink") [Category:朝日賞受賞者](https://ja.wikipedia.org/wiki/Category:朝日賞受賞者 "wikilink") [Category:1926年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1926年に結成した音楽グループ "wikilink")
 
 1.  [プロフィール](http://www.nhkso.or.jp/about/index.php) - NHK交響楽団

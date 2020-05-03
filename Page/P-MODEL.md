@@ -434,7 +434,7 @@ PlotData=
 
 <!-- end list -->
 
-  - 5thアルバム『[ANOTHER GAME](https://ja.wikipedia.org/wiki/ANOTHER_GAME "wikilink")』の発売延期に関して、当時のマネージャーである広瀬充が[ジャパンレコードと揉めて帰ってきたところ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、平沢に「その怒りを音で表現するんだ」と言われて結成したバンド。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に“P-MODELの前座”という形で1回ライブを行っている。
+  - 5thアルバム『[ANOTHER GAME](https://ja.wikipedia.org/wiki/ANOTHER_GAME "wikilink")』の発売延期に関して、当時のマネージャーである広瀬充が[ジャパンレコードと揉めて帰ってきたところ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、平沢に「その怒りを音で表現するんだ」と言われて結成したバンド。LPを1枚リリースしている他、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に“P-MODELの前座”という形で1回ライブを行っている。
 
 <table>
 <thead>
@@ -455,7 +455,7 @@ PlotData=
 <td><p>平沢進<br />
 三浦俊一</p></td>
 <td><p>菊池達也</p></td>
-<td><p>―</p></td>
+<td><p>（三浦俊一）</p></td>
 <td><p>田井中貞利</p></td>
 <td></td>
 </tr>

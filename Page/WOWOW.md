@@ -13,7 +13,7 @@
 
 天気予報は月曜 - 土曜の朝などに放送されており、ニュースやワイドショーなどの情報番組は、1991年の開局時からは、平日7時に[小林克也](../Page/小林克也.md "wikilink")司会のワイドショー番組『WOWOW TODAY』を、平日11時台に民放各局の昼のニュース\[2\]を放送していた。番組終了後の空白期間を経て、2011年10月からは『[ザ・プライムショー](https://ja.wikipedia.org/wiki/ザ・プライムショー "wikilink")』などが定期的にノンスクランブル放送されている。一部のスポーツ中継や音楽・舞台中継などでは生放送も行われている。
 
-[アニメ](../Page/アニメ.md "wikilink")番組を中心とする一部番組では、番組[スポンサー](../Page/スポンサー.md "wikilink")がWOWOWから放送枠を買い取ってノンスクランブルの無料放送を行っており、番組中に[CMが流されていた](../Page/コマーシャルメッセージ.md "wikilink")（[WOWOWアニメ](../Page/WOWOWアニメ.md "wikilink")を参照のこと）。[TOEFL](../Page/TOEFL.md "wikilink")受験対策番組である[POKKA PRESENTS PRACTICE FOR THE TOEFL TESTを飲料メーカー](https://ja.wikipedia.org/wiki/POKKA_PRESENTS_PRACTICE_FOR_THE_TOEFL_TEST "wikilink")、ポッカコーポレーション（現：[ポッカサッポロフード&ビバレッジ](../Page/ポッカサッポロフード&ビバレッジ.md "wikilink")）がスポンサーとなりノンスクランブル放送を行っていた。
+[アニメ](../Page/アニメ.md "wikilink")番組を中心とする一部番組では、番組[スポンサー](../Page/スポンサー.md "wikilink")がWOWOWから放送枠を買い取ってノンスクランブルの無料放送を行っており、番組中に[CMが流されるものがある](../Page/コマーシャルメッセージ.md "wikilink")（[WOWOWアニメ](../Page/WOWOWアニメ.md "wikilink")を参照のこと）。[TOEFL](../Page/TOEFL.md "wikilink")受験対策番組である[POKKA PRESENTS PRACTICE FOR THE TOEFL TESTを飲料メーカー](https://ja.wikipedia.org/wiki/POKKA_PRESENTS_PRACTICE_FOR_THE_TOEFL_TEST "wikilink")、ポッカコーポレーション（現：[ポッカサッポロフード&ビバレッジ](../Page/ポッカサッポロフード&ビバレッジ.md "wikilink")）がスポンサーとなりノンスクランブル放送を行っていた。
 
 不定期で地上波各局でCMを放送するが、[2007年](../Page/2007年.md "wikilink")と[2015年](../Page/2015年.md "wikilink")の[全国高校野球選手権大会中継](../Page/全国高校野球選手権大会中継.md "wikilink")で同業の[BS朝日放送の番組で](../Page/ビーエス朝日.md "wikilink")、また[2009年](../Page/2009年.md "wikilink")には[BS日テレが行う](../Page/BS日本.md "wikilink")[プロ野球中継](../Page/プロ野球中継.md "wikilink")でも中継協賛スポンサーとしてCMを提供した。更に、[2009年](../Page/2009年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")深夜（[10月10日](../Page/10月10日.md "wikilink")未明）0時から0時54分まで「WOWOW SPECIAL [松任谷由実](../Page/松任谷由実.md "wikilink")コンサートツアー2009 TRANSIT」を在京民放系BS5局で同時放送した。これは10日に[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")などで行われるイベント「WOW FES」のキックオフイベントとして開催されたもので、同イベントへの来場とWOWOW加入の宣伝を目的として同業の在京民放系BS5局とコラボレーション・同時放送が行われた。
 
@@ -424,7 +424,7 @@ WOWOWの[新聞](../Page/新聞.md "wikilink")における[番組表](https://ja
 ### 元アナウンサー
 
   - [久保田光彦](../Page/久保田光彦.md "wikilink")（元テレビ東京アナウンサー）
-  - [池田真由美](https://ja.wikipedia.org/wiki/池田真由美 "wikilink")（現在は[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
+  - [池田真由美](../Page/池田真由美.md "wikilink")（現在は[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
   - [今村知子](https://ja.wikipedia.org/wiki/今村知子 "wikilink")（元[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")）
   - [岩佐徹](../Page/岩佐徹.md "wikilink")（元[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、現在はフリーアナウンサー）
   - [大久保涼香](https://ja.wikipedia.org/wiki/大久保涼香 "wikilink")（元[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")、2011年4月より2年間）

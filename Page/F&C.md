@@ -7,7 +7,7 @@
 
 ## 沿革
 
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - 株式会社[ジャストから](../Page/ジャスト_\(ブランド\).md "wikilink")**有限会社キララ''が独立し、ブランド**[フェアリーテール](../Page/フェアリーテール_\(ブランド\).md "wikilink")'''を設立。デビュー作は『[ふぇありぃてぃる](https://ja.wikipedia.org/wiki/ふぇありぃてぃる "wikilink")』。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - 株式会社[ジャストから](../Page/ジャスト_\(ブランド\).md "wikilink")**有限会社キララ''が独立し、ブランド**[フェアリーテール](../Page/フェアリーテール_\(ブランド\).md "wikilink")'''を設立。デビュー作は『[ふぇありぃてぃる](https://ja.wikipedia.org/wiki/ふぇありぃてぃる "wikilink")』\[1\]。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年） - 有限会社キララの一部のスタッフが独立し、株式会社[エルフを設立](../Page/エルフ_\(ブランド\).md "wikilink")。
   - [1989年](../Page/1989年.md "wikilink")（平成元年） - 有限会社キララが株式会社ジャストと共同で**[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")**を設立。ブランド名の由来は、両社のいいところを混ぜ合わせる（カクテルする）ことから。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）[11月25日](../Page/11月25日.md "wikilink") - [沙織事件](../Page/沙織事件.md "wikilink")で摘発される。同年、有限会社キララから有限会社**アイデス**（IDES）に社名変更。
@@ -34,7 +34,7 @@
 
 2000年から2006年の間、F\&C作品の初回版によく付属していた[プリペイドカード](../Page/プリペイドカード.md "wikilink")で、関連会社のRPAが運営する「きゃろっとアイランド」内の有料コンテンツが利用できた。
 
-F\&Cカードは、[2000年](../Page/2000年.md "wikilink")に株式会社インターナショナルサイエンティフィックのライセンスを受けて発行を開始した\[1\]。インターナショナルサイエンティフィックは、1999年にインターネット上のコンテンツへの課金システムに関する[ビジネスモデル特許](../Page/ビジネスモデル特許.md "wikilink")を取得したことで話題になった会社である（ちなみに2012年時点ではインターネット関連事業からは撤退し、健康用品の販売業を営んでいる）。
+F\&Cカードは、[2000年](../Page/2000年.md "wikilink")に株式会社インターナショナルサイエンティフィックのライセンスを受けて発行を開始した\[2\]。インターナショナルサイエンティフィックは、1999年にインターネット上のコンテンツへの課金システムに関する[ビジネスモデル特許](../Page/ビジネスモデル特許.md "wikilink")を取得したことで話題になった会社である（ちなみに2012年時点ではインターネット関連事業からは撤退し、健康用品の販売業を営んでいる）。
 
 ## ブランド一覧
 
@@ -298,7 +298,7 @@ RED-ZONEは、2度活動を休止している。1度目は2001年の「研究日
 
 ### サンタ・フェ
 
-\[2\]
+\[3\]
 
   - [1992年](../Page/1992年.md "wikilink")1月 - ディスク美少女大図鑑
   - 1992年2月 - 101回目のアプローチショット
@@ -306,7 +306,7 @@ RED-ZONEは、2度活動を休止している。1度目は2001年の「研究日
 
 ### FMC
 
-\[3\]
+\[4\]
 
   - [1994年](../Page/1994年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - 横浜エレジィ
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月14日](../Page/9月14日.md "wikilink") - ガラスの運命
@@ -421,8 +421,15 @@ F\&Cは[2001年](../Page/2001年.md "wikilink")の組織改編以降、積極的
   - [RED-ZONE 公式ウェブページ](https://fandc.co.jp/rzone/)（<span style="color:red">18禁</span>：年齢確認あり）
   - [きゃろっとアイランド](http://www.icardpark.com/island/)（リンク切れ）
 
+<!-- end list -->
+
+  -
+  -
+  -
+  -
 [Category:F\&C](https://ja.wikipedia.org/wiki/Category:F&C "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink")
 
-1.  [シャルラク、時限課金システムにより“おたく向け”コンテンツ販売](https://internet.watch.impress.co.jp/www/article/2000/0630/shall.htm)（[INTERNET Watch](../Page/Impress_Watch.md "wikilink")、2000年6月30日
-2.  [Bi_List](https://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-3.
+1.
+2.  [シャルラク、時限課金システムにより“おたく向け”コンテンツ販売](https://internet.watch.impress.co.jp/www/article/2000/0630/shall.htm)（[INTERNET Watch](../Page/Impress_Watch.md "wikilink")、2000年6月30日
+3.  [Bi_List](https://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+4.

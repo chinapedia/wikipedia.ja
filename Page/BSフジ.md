@@ -1,7 +1,7 @@
 > この記事は[BSフジ](https://ja.wikipedia.org/wiki/BSフジ)から翻訳されています。
 
 
-**株式会社BSフジ**（ビーエスフジ、登記上[商号](../Page/商号.md "wikilink")：**株式会社ビーエスフジ**、*BS FUJI INC.*）は、[BSデジタル放送を行っている](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[衛星基幹放送事業者](https://ja.wikipedia.org/wiki/衛星基幹放送事業者 "wikilink")である。[リモコンキーID](../Page/リモコンキーID.md "wikilink")はフジテレビのアナログ親局**8ch**から「**8**」。
+**株式会社BSフジ**（ビーエスフジ、登記上[商号](../Page/商号.md "wikilink")：**株式会社ビーエスフジ**、）は、[BSデジタル放送を行っている](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[衛星基幹放送事業者](https://ja.wikipedia.org/wiki/衛星基幹放送事業者 "wikilink")である。[リモコンキーID](../Page/リモコンキーID.md "wikilink")はフジテレビのアナログ親局**8ch**から「**8**」。
 
 ## 概要
 
@@ -385,7 +385,7 @@
 </tr>
 <tr class="odd">
 <td><p>ドラマ</p></td>
-<td><p>〈フジテレビドラマ再放送〉明日の約束</p></td>
+<td><p>〈フジテレビドラマ再放送〉ラスト・シンデレラ</p></td>
 <td><p>月曜 - 金曜 10:00 - 10:57</p></td>
 <td></td>
 </tr>
@@ -436,9 +436,8 @@
 <td><p><a href="../Page/競馬.md" title="wikilink">競馬</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BSフジ競馬中継#BSスーパーKEIBA" title="wikilink">BSスーパーKEIBA</a></p></td>
 <td><p>日曜 15:00 - 16:00</p></td>
-<td><p>2019年までは一部重賞競走施行日のみ放送。<br />
-2020年よりレギュラー放送に昇格。<br />
-中継映像は、東京・中山の関東主場、福島・新潟の夏季開催（7-9月）はフジテレビ制作映像を使用するが、札幌・函館・福島・新潟（何れも第3場開催のみ）及び京都・阪神の関西主場、中京・小倉の夏季開催（7-9月）及び第3場開催時は原則としてグリーンチャンネルと同じJRA公式映像を使用する。</p></td>
+<td><p>2019年までは一部重賞競走施行日のみ放送。2020年よりレギュラー放送に昇格。<br />
+中継映像は、東京・中山の関東主場、福島・新潟の夏季開催（7-9月）はフジテレビ制作映像を使用するが、 札幌・函館・福島・新潟（何れも第3場開催のみ）及び京都・阪神の関西主場、中京・小倉の夏季開催（7-9月）及び第3場開催時は原則としてグリーンチャンネルと同じJRA公式映像を使用する。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボートレース" title="wikilink">ボートレース</a></p></td>
@@ -446,18 +445,6 @@
 <td><p>日曜 16:00 - 16:56</p></td>
 <td><p>BOAT RACE 提供 <a href="../Page/島崎和歌子.md" title="wikilink">島崎和歌子</a>・<a href="../Page/堂前英男.md" title="wikilink">堂前英男</a>司会／秋山基裕 ナビゲーター兼解説</p>
 <p>2020年4月05日より「BOAT RACEライブ 〜勝利へのターン〜」より改題し番組リニューアル。</p></td>
-</tr>
-<tr class="odd">
-<td><p>BOAT RACEライブ</p></td>
-<td><p>不定期</p></td>
-<td><p>BOAT RACE 提供</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/サッカー" title="wikilink">サッカー</a></p></td>
-<td><p><a href="../Page/日本女子サッカーリーグ.md" title="wikilink">なでしこリーグ中継</a></p></td>
-<td><p>不定期</p></td>
-<td><p>毎節1試合程度放送。原則生中継だが、一部の試合は録画中継。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/野球.md" title="wikilink">野球</a></p></td>
@@ -501,10 +488,22 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ゴルフ.md" title="wikilink">ゴルフ</a></p></td>
+<td><p>激芯ゴルフ〜93期生への道〜</p></td>
+<td><p>月曜 23:00 - 23:30</p></td>
+<td><p>2020年3月30日スタート</p></td>
+</tr>
+<tr class="odd">
+<td><p>attest ～WEEKLY GOLF NEWS～</p></td>
+<td><p>月曜 23:30 - 23:55</p></td>
+<td><p>2020年4月6日スタート</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/フジサンケイクラシック.md" title="wikilink">フジサンケイクラシック</a></p></td>
 <td><p>毎年<a href="../Page/9月.md" title="wikilink">9月</a></p></td>
 <td><p>フジテレビ系列で中継される大会の模様を全て録画放送。<br />
 また地上波と同時放送、さらに地上波・CS放送とのリレー形式で放送を行う場合もある。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/フジサンケイレディスクラシック.md" title="wikilink">フジサンケイレディスクラシック</a></p></td>
@@ -552,7 +551,7 @@
 <tr class="even">
 <td><p><a href="../Page/延岡西日本マラソン.md" title="wikilink">延岡西日本マラソン</a></p></td>
 <td><p>2月第2日曜</p></td>
-<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>制作。2012年から放送開始。2012年・2013年は地上波と同時放送だったが、2014年以降は23:00 - 翌0:30のダイジェスト放送となった。</p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>制作。2012年から放送開始。2012年・2013年は地上波と同時放送だったが、 2014年以降は23:00 - 翌0:30のダイジェスト放送となった。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -588,19 +587,19 @@
 </tr>
 <tr class="even">
 <td><p>その他</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フィギュアスケートTV!" title="wikilink">フィギュアスケートTV!</a></p></td>
+<td><p>第1金曜 23:00 - 23:55</p></td>
+<td><p>出演：<a href="../Page/八木沼純子.md" title="wikilink">八木沼純子</a>、<a href="https://ja.wikipedia.org/wiki/松村未央" title="wikilink">松村未央</a>（フジテレビアナウンサー）</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/JUDO" title="wikilink">JUDO</a></p></td>
 <td><p>土曜 17:30 - 17:55</p></td>
 <td><p>隔週新作 2020年3月28日までは土曜 18:30 - 18:55で放送していた。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フィギュアスケートTV!" title="wikilink">フィギュアスケートTV!</a></p></td>
-<td><p>月1回</p></td>
-<td><p>出演：<a href="../Page/八木沼純子.md" title="wikilink">八木沼純子</a>、<a href="https://ja.wikipedia.org/wiki/松村未央" title="wikilink">松村未央</a>（フジテレビアナウンサー）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/お台場バドミントン学園" title="wikilink">お台場バドミントン学園</a></p></td>
-<td><p>日曜 13:00 - 14:00</p></td>
+<td><p>最終日曜 13:00 - 14:00</p></td>
 <td><p>出演：<a href="https://ja.wikipedia.org/wiki/潮田玲子" title="wikilink">潮田玲子</a>、<a href="https://ja.wikipedia.org/wiki/内田嶺衣奈" title="wikilink">内田嶺衣奈</a>（フジテレビアナウンサー） 2019年5月26日スタート</p></td>
 <td></td>
 </tr>
@@ -633,7 +632,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハイビジョン・ワールドツアー完璧MAP" title="wikilink">ワールドツアー完璧MAP</a></p></td>
-<td><p>火曜 - 金曜 7:30 - 7:55</p></td>
+<td><p>月曜 - 金曜 7:30 - 7:55</p></td>
 <td><p>深夜帯にも放送あり</p></td>
 </tr>
 <tr class="even">
@@ -668,7 +667,7 @@
 </tbody>
 </table>
 
-### 音楽・バラエティ
+### 音楽・バラエティ・エンタメ
 
 <table>
 <thead>
@@ -713,7 +712,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/中川家&amp;コント" title="wikilink">中川家&amp;コント</a></p></td>
 <td><p>火曜 23:00 - 23:30</p></td>
-<td><p>2020年3月24日までは月曜 23:00 - 23:55で放送していた。</p></td>
+<td><p>2020年3月24日までは月曜 23:30 - 23:55で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/BSいきものがかり" title="wikilink">BSいきものがかり</a></p></td>
@@ -746,14 +745,24 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td></td>
 </tr>
 <tr class="even">
-<td><p>タイプライターズ～物書きの世界～</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/タイプライターズ〜物書きの世界〜" title="wikilink">タイプライターズ～物書きの世界～</a></p></td>
 <td><p>最終金曜 23:00 - 23:55</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ギルドフレンズ～世界へ？本気です！～</p></td>
-<td><p>第3金曜 24:00 - 23:55</p></td>
+<td><p><ジャパコンProject>二次元領域拡大通信</p></td>
+<td><p>第1金曜 24:00 - 24:30</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><ジャパコンProject>ギルドフレンズ～世界へ？本気です！～</p></td>
+<td><p>第3金曜 24:00 - 24:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/人生は三百六十五歩のマーチ" title="wikilink">人生は三百六十五歩のマーチ</a></p></td>
+<td><p>土曜 16:00 - 17:25</p></td>
+<td><p>※隔週新作</p></td>
 </tr>
 <tr class="even">
 <td><p><BSフジ歌の時間></p></td>
@@ -784,7 +793,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 </tr>
 <tr class="odd">
 <td><p>荒野女子部Season2 ～ただいま交戦中～</p></td>
-<td><p>土曜 27:30 -28:25</p></td>
+<td><p>土曜 26:00 -26:55</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
 <tr class="even">
@@ -844,7 +853,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 | [ガリレオX](https://ja.wikipedia.org/wiki/ガリレオX "wikilink") | 日曜 11:30 - 12:00 | ※隔週新作         |
 | [FNSドキュメンタリー大賞](../Page/FNSドキュメンタリー大賞.md "wikilink")    | 日曜 27:00 - 27:55 | FNS各局制作       |
 | ウイスキペディア                                                | 木曜 23:30 - 23:55 |               |
-| ESPRIT JAPON                                            | 金曜 24:00 - 24:30 |               |
+| <ジャパコンProject>ESPRIT JAPON                              | 金曜 24:00 - 24:30 |               |
 | CROSSOVER ～こころを動かすスポーツ～                                 | 土曜 21:00 - 21:55 | 2020年4月4日スタート |
 | The GAME ～震えた日～                                         | 不定期              |               |
 

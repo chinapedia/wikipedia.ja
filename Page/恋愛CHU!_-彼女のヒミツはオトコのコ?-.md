@@ -3,7 +3,7 @@
 
 『**恋愛CHU\! -彼女のヒミツはオトコのコ?-**』（れんあいちゅう かのじょのヒミツはオトコのコ）は[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[SAGA PLANETSより発売された](../Page/SAGA_PLANETS.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。
 
-同年[8月31日](../Page/8月31日.md "wikilink")には全年齢対象のファンディスク『**もっとLOVEちゅ\!**』も発売されている。また、[2003年](../Page/2003年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[GN Softwareより](../Page/GN_Software.md "wikilink")[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")18才以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版『**恋愛CHU\! ハッピーパーフェクト**』も発売された。また、2005年3月25日に発売された『[ウソツキは天使のはじまり](../Page/ウソツキは天使のはじまり.md "wikilink")』の限定版に本編と『もっとLOVEちゅ\!』の[XP対応版が同梱されている](../Page/Microsoft_Windows_XP.md "wikilink")。
+同年[8月31日](../Page/8月31日.md "wikilink")には全年齢対象のファンディスク『**もっとLOVEちゅ\!**』も発売されている。また、[2003年](../Page/2003年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[GN Softwareより](../Page/GN_Software.md "wikilink")[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18才以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版『**恋愛CHU\! ハッピーパーフェクト**』も発売された。また、2005年3月25日に発売された『[ウソツキは天使のはじまり](../Page/ウソツキは天使のはじまり.md "wikilink")』の限定版に本編と『もっとLOVEちゅ\!』の[XP対応版が同梱されている](../Page/Microsoft_Windows_XP.md "wikilink")。
 
 作品と同名の主題歌「[恋愛CHU\!](../Page/恋愛CHU!_\(テーマソング\).md "wikilink")」のインパクトが強く、DC版公式サイトでも「伝説となった主題歌」と謳われている。『もっとLOVEちゅ\!』に2種類の[パラパラ](../Page/パラパラ.md "wikilink")風リミックスが収録されており、さらに原曲も含めた3バージョンについて、それぞれ曲の途中で入る台詞の声が異なる2種類のバージョンが存在する。これに2003年11月27日に発売されたCD『[SHORT CIRCUIT](../Page/SHORT_CIRCUIT_\(アルバム\).md "wikilink")』に収録されたリミックスバージョン（ボーカル:KOTOKO TO 詩月カオリ）を含めて7種類のバージョンが存在する。
 

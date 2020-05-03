@@ -332,7 +332,7 @@ MBSテレビでは、当番組の後番組として『[よゐこのワケアリ]
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">IBC岩手放送</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a></p></td>
 <td style="text-align: center;"><p>1998年頃、集中的に不定期放送し、1999年4月 - 9月はレギュラー放送。</p></td>
 <td style="text-align: center;"><p><a href="../Page/ニュースエコー.md" title="wikilink">ニュースエコー</a>ダイジェスト開始のため</p></td>
 <td style="text-align: center;"></td>

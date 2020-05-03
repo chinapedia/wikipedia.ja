@@ -74,29 +74,22 @@ A.C.195年、[地球圏統一連合の支配に反目する一部のコロニー
 
 ## スタッフ
 
-### シリーズスタッフ
+（オープニングクレジットより）
 
   - 企画 - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
   - 原作 - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』より）
-  - 監督 - [池田成](../Page/池田成.md "wikilink")→[高松信司](../Page/高松信司.md "wikilink")（クレジットなし）
-  - シリーズ構成 - 隅沢克之
-  - キャラクターデザイン - [村瀬修功](../Page/村瀬修功.md "wikilink")
-  - 衣装デザイン協力 - [出渕裕](../Page/出渕裕.md "wikilink")
+  - [シリーズ構成](../Page/シリーズ構成.md "wikilink") - [隅沢克之](../Page/隅沢克之.md "wikilink")
+  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [村瀬修功](../Page/村瀬修功.md "wikilink")
   - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink") - [大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
-  - 色彩設定 - 池さゆり
-  - 美術設定 - 平沢晃弘
-  - 美術監督 - 竹田悠介、佐藤勝
-  - 撮影監督 - 大神洋一
-  - 編集 - 辺見俊夫、山森重之（[ジェイ・フィルム](../Page/ジェイ・フィルム.md "wikilink")）
-  - 音響監督 - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
-  - 音楽 - [大谷幸](../Page/大谷幸.md "wikilink")
-  - 文芸 - 高橋哲子
-  - 企画担当 - 中山浩太郎
-  - 設定制作 - 竹内崇
-  - 制作デスク - 渡辺洋一
-  - 制作協力 - [電通](../Page/電通.md "wikilink")、[創通](../Page/創通.md "wikilink")（当時・創通エージェンシー）
-  - プロデューサー - 小泉美明（テレビ朝日）、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")、富岡秀行
-  - 制作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+  - 衣装デザイン協力 - [出渕裕](../Page/出渕裕.md "wikilink")
+  - [美術監督](../Page/美術監督.md "wikilink") - 佐藤勝
+  - [撮影監督](../Page/撮影監督.md "wikilink") - 大神洋一
+  - [音楽](../Page/音楽.md "wikilink") - [大谷幸](../Page/大谷幸.md "wikilink")
+  - [音響監督](../Page/音響監督.md "wikilink") - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
+  - 制作協力 - [電通](../Page/電通.md "wikilink")、[創通](../Page/創通.md "wikilink")エージェンシー
+  - [プロデューサー](../Page/プロデューサー.md "wikilink") - 小泉美明（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")（サンライズ）、富岡秀行（サンライズ）
+  - [監督](https://ja.wikipedia.org/wiki/アニメ監督 "wikilink") - [池田成](../Page/池田成.md "wikilink")
+  - [制作](https://ja.wikipedia.org/wiki/制作 "wikilink") - テレビ朝日、サンライズ
 
 ## 主題歌
 
@@ -832,7 +825,7 @@ A.C.195年、[地球圏統一連合の支配に反目する一部のコロニー
 
   - 東京都 MXTV [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")
   - 埼玉県 TVS [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")
-  - 全国 [アニマックス](../Page/アニマックス.md "wikilink")、[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")、[BS-i（現・BS-TBS）](../Page/BS-TBS.md "wikilink")、[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（本局のみ『ガンダム・Gセレクション』のひとつとして4話分を放送）
+  - 全国 [アニマックス](../Page/アニマックス.md "wikilink")、[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")、[BS-i（現・BS-TBS）](../Page/BS-TBS.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")（本局のみ『ガンダム・Gセレクション』のひとつとして4話分を放送）
   - インターネット配信 [バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")（有料会員に限り、全話閲覧可能）
 
 ## OVA・映画

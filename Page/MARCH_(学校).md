@@ -63,6 +63,7 @@
   - [摂神追桃](../Page/摂神追桃.md "wikilink")
   - [旧制大学](../Page/旧制大学.md "wikilink")
       - [帝国大学](../Page/帝国大学.md "wikilink")
+  - [筑横千](https://ja.wikipedia.org/wiki/筑横千 "wikilink")
   - [アイビー・リーグ](../Page/アイビー・リーグ.md "wikilink")
   - [セブン・シスターズ](https://ja.wikipedia.org/wiki/セブン・シスターズ_\(大学\) "wikilink")
   - [学閥](../Page/学閥.md "wikilink")

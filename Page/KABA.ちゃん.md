@@ -276,7 +276,7 @@ CONCERT TOUR 2000・2001・2002・2003 等</p></td>
   - わたしが子どもだったころ（2007年8月、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - スペシャルドラマ [必殺仕事人2012](https://ja.wikipedia.org/wiki/必殺仕事人2012 "wikilink")（2012年2月19日、[朝日放送](../Page/朝日放送テレビ.md "wikilink")）
   - [クレオパトラな女たち](https://ja.wikipedia.org/wiki/クレオパトラな女たち "wikilink") 第5話（2012年5月16日、日本テレビ系）
-  - [仮面ライダーウィザード](https://ja.wikipedia.org/wiki/仮面ライダーウィザード "wikilink")（2012年9月 - 、テレビ朝日系連続ドラマ） - ドーナツ屋店長 役
+  - [仮面ライダーウィザード](https://ja.wikipedia.org/wiki/仮面ライダーウィザード "wikilink")（2012年9月9日 - 2013年9月22日、テレビ朝日系連続ドラマ） - ドーナツ屋店長 役
   - [女はそれを許さない](https://ja.wikipedia.org/wiki/女はそれを許さない "wikilink") 第8話（2014年12月9日、TBS系） - 小坂俊彦役
 
 ### テレビアニメ

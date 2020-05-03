@@ -7,7 +7,7 @@
 
 『[Pia♥キャロットへようこそ\!\!2](https://ja.wikipedia.org/wiki/Pia♥キャロットへようこそ!!2 "wikilink")』から1年後、『Pia2.2』から約半年後に相当しており、『Pia2.2』において主人公の前田耕治が愛沢ともみから好かれつつ、彼女ではなく日野森あずさとハッピーエンドを迎えた場合から続く物語。
 
-家庭用ゲーム機版は2003年3月27日に[NECインターチャネルより](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")、『**round summer**』のサブタイトルの全年齢対象[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（2005年3月3日に[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象の廉価版発売）とCEROレーティング18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版を発売。2008年8月29日に[アイチェリー](https://ja.wikipedia.org/wiki/アイチェリー "wikilink")から、Hシーンのオリジナル新作動画を追加した[DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")（DVD-PG）版が発売。
+家庭用ゲーム機版は2003年3月27日に[NECインターチャネルより](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")、『**round summer**』のサブタイトルの全年齢対象[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（2005年3月3日に[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象の廉価版発売）とCEROレーティング18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版を発売。2008年8月29日に[アイチェリー](https://ja.wikipedia.org/wiki/アイチェリー "wikilink")から、Hシーンのオリジナル新作動画を追加した[DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")（DVD-PG）版が発売。
 
 ユーザーに意見を反映する機会を提供して作品に親しみを感じてもらうため、13種の候補の中から劇中に登場する制服を選ぶコスチュームコンテストがF\&Cのホームページと『[電撃G'sマガジン](../Page/電撃G's_magazine.md "wikilink")』で行われた。投票の結果としてフローラルミントタイプとトロピカルタイプが採用され、また発売直前に[不二家](../Page/不二家.md "wikilink")系列のレストラン「[ブロンズパロット](https://ja.wikipedia.org/wiki/ブロンズパロット "wikilink")」の制服がモデルのぱろぱろタイプが発表されている。
 

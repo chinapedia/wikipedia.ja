@@ -376,7 +376,7 @@ Jリーグの全日程終了から「[Jリーグアウォーズ](https://ja.wiki
   - CG：横井勝（以前はタイトル・CG）、山本裕之
   - メイク：高柳尚子
   - TK：山内洋子
-  - 技術協力：[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")、[TSP](../Page/東京サウンドプロダクション.md "wikilink")、[VPN](https://ja.wikipedia.org/wiki/ビデオパックニッポン "wikilink")、[KYORITZ](../Page/共立_\(照明\).md "wikilink")
+  - 技術協力：[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")、[TSP](../Page/東京サウンドプロダクション.md "wikilink")（旧[VPN](../Page/ビデオ・パック・ニッポン.md "wikilink")）、[KYORITZ](../Page/共立_\(照明\).md "wikilink")
   - 協力：[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")、[Jリーグメディアプロモーション](https://ja.wikipedia.org/wiki/Jリーグメディアプロモーション "wikilink")、[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")
   - 編集デスク：二村隆、檜山崇(2人共→以前は、技術デスク)
   - 編集：平山大仁、溝江誠、増子雅裕、村中健太郎

@@ -246,7 +246,7 @@
 
 <!-- end list -->
 
-  - 土屋飛鳥
+  - [土屋飛鳥](https://ja.wikipedia.org/wiki/土屋飛鳥 "wikilink")
       - 『Super Sunday』
       - 『三つ星』
       - 『Brand New Day Brand New Me』
@@ -289,12 +289,12 @@ TVドラマ / アニメ
 
 ### テレビ
 
-  - 『いま裸にしたい男達　- 椎名桔平 - 』（[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")）（ゲスト出演）
+  - 『いま裸にしたい男達　- 椎名桔平 - 』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）（ゲスト出演）
 
 <!-- end list -->
 
   - 『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink") 』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
-  - 『[行列のできる行列相談所](../Page/行列のできる法律相談所.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - 『[行列のできる行列相談所](../Page/行列のできる法律相談所.md "wikilink")』（日本テレビ）
   - 『[ノンストップ](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink") 』[（フジテレビ）](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 受賞歴

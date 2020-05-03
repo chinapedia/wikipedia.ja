@@ -73,7 +73,7 @@
 
 :\*愛銃：[ベレッタM1919](../Page/ベレッタM1915.md "wikilink")\[8\]・初期型\[9\]（自称「イクイク」）
 
-:\*声：[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")（be/TLO）/[三石琴乃](../Page/三石琴乃.md "wikilink")（PLUS/R/ZERO\[10\]/TFA/ng）/如月美琴（PLUS18禁）/不明（ADAM）/[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")（ngX/EVE雀）
+:\*声：[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")（be/TLO）/[三石琴乃](../Page/三石琴乃.md "wikilink")（PLUS/R/ZERO\[10\]/TFA/ng/rt）/如月美琴（PLUS18禁）/不明（ADAM）/[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")（ngX/EVE雀）
 
   -
     『beシリーズ』『[ZERO](https://ja.wikipedia.org/wiki/#ZERO "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』における[主人公](../Page/主人公.md "wikilink")の一人で、『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
@@ -132,7 +132,7 @@
 
 :\*生年月日：[12月24日](../Page/12月24日.md "wikilink")（TLO）
 
-:\*声：[松井菜桜子](../Page/松井菜桜子.md "wikilink")（be/PLUS/R/TLO/TFA/ng）/神月あおい（PLUS18禁）/不明（ADAM）/[藤森ゆき奈](../Page/藤森ゆき奈.md "wikilink")（ngX/EVE雀）
+:\*声：[松井菜桜子](../Page/松井菜桜子.md "wikilink")（be/PLUS/R/TLO/TFA/ng/rt）/神月あおい（PLUS18禁）/不明（ADAM）/[藤森ゆき奈](../Page/藤森ゆき奈.md "wikilink")（ngX/EVE雀）
 
   -
     『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』『[TFAシリーズ](https://ja.wikipedia.org/wiki/#The_Fatal_Attractionシリーズ "wikilink")』『[ngシリーズ](https://ja.wikipedia.org/wiki/#new_generationシリーズ "wikilink")』にも登場。
@@ -317,7 +317,7 @@
 :\*声：[渕崎ゆり子](../Page/渕崎ゆり子.md "wikilink")/結城みづほ（PLUS18禁）
 
   -
-    『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』にも登場。
+    『[TLO](https://ja.wikipedia.org/wiki/#The_Lost_One "wikilink")』『rebirth terror』にも登場。
     公安の内務監査官。駐日エルディア大使・御堂から外務省経由でまりなの御堂真弥子護衛任務に不手際があったとしてこれを監査することになるが、元から破天驚なまりなの事は快く思っていなかった。
     見た目通りプライドが高く、キツめな性格の持ち主。また、デスクワーク重視の職業のため、現場の現状に対する理解力は薄い。まりなへの敵視の原因は、まりなの上司である甲野との不倫関係にある事で、。
       - 『1st』での設定
@@ -1287,6 +1287,66 @@
     倉庫街の片隅に捨てられていた子犬を小次郎が拾って養っている。[ミニチュアシュナウザー](https://ja.wikipedia.org/wiki/ミニチュアシュナウザー "wikilink")。小次郎曰く、自分の名前と足して2で割ると名探偵の名前になるとか。
 
 ## rebirth terror
+
+  - 桐野 杏子（きりの きょうこ）
+
+:\*性別 : 女
+
+:\*声：[大橋彩香](https://ja.wikipedia.org/wiki/大橋彩香 "wikilink")
+
+  - キア
+
+:\*性別 : 男
+
+:\*声：[村瀬歩](https://ja.wikipedia.org/wiki/村瀬歩 "wikilink")
+
+  - 市種 悠馬（いちぐさ ゆうま）
+
+:\*性別 : 男
+
+:\*声：[森田成一](../Page/森田成一.md "wikilink")
+
+  - 音無 橘花（おとなし きっか）
+
+:\*性別 : 女
+
+:\*声：[東山奈央](https://ja.wikipedia.org/wiki/東山奈央 "wikilink")
+
+  - 深浦 麻世（ふかうら まよ）
+
+:\*性別 : 女
+
+:\*声：[石川由依](../Page/石川由依.md "wikilink")
+
+  - ヴィーネ・フラル
+
+:\*性別 : 女
+
+:\*声：[洲崎綾](https://ja.wikipedia.org/wiki/洲崎綾 "wikilink")
+
+  - リバー
+
+:\*性別 : 男
+
+:\*声：[竹内良太](https://ja.wikipedia.org/wiki/竹内良太 "wikilink")
+
+  - 謎の女A
+
+:\*性別 : 女
+
+:\*声：[小山茉美](../Page/小山茉美.md "wikilink")
+
+  - 謎の女B
+
+:\*性別 : 女
+
+:\*声：[富沢美智恵](../Page/富沢美智恵.md "wikilink")
+
+  - ジェス・カスター
+
+:\*性別 : 男
+
+:\*声：[大川透](../Page/大川透.md "wikilink")
 
 ## 脚注
 

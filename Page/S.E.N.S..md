@@ -477,6 +477,8 @@
   - [2014年](../Page/2014年.md "wikilink")亞洲電視本港台新再見艷陽天：Willow Bridge
   - [2014年](../Page/2014年.md "wikilink")亞洲電視本港台[新再見艷陽天](https://ja.wikipedia.org/wiki/新再見艷陽天 "wikilink")：[愛芙羅黛蒂](https://ja.wikipedia.org/wiki/愛芙羅黛蒂 "wikilink")（Aphrodite）
 
+## 脚注
+
 ## 関連項目
 
   - TBS「[いのちの響](../Page/いのちの響.md "wikilink")」

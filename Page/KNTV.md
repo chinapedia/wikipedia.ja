@@ -9,9 +9,9 @@
 
 放送開始当初は一日数時間、韓国からのニュース番組を生放送するなど日本に在住している韓国人向けの放送局という意味合いが強かったが、開局後数年して[韓国ドラマ](../Page/韓国ドラマ.md "wikilink")が日本でブームとなったため、ほとんどの韓国ドラマを[日本語字幕](../Page/日本語字幕.md "wikilink")付きで放送を行い日本人主婦層などの韓国ドラマファンの視聴者を増やしている。例えばMBCのドラマ「大長今」は、NHKで「[宮廷女官チャングムの誓い](../Page/宮廷女官チャングムの誓い.md "wikilink")」として放送される前に、KNTVで日本語字幕付きで放送されていた。
 
-2006年、[KBSが自ら日本法人を設立し](../Page/韓国放送公社.md "wikilink")「[KBS WORLD](https://ja.wikipedia.org/wiki/KBS_WORLD "wikilink")」の放送を開始したため、KBSの番組はほとんどKBS WORLDに移行し、それ以降のKBSの番組は現在も外部が製作したドラマのみを放送している。このため、MBC・SBSのコンテンツを中心とした放送を行っている。2008年には、MBC・SBSがKNTVに出資している\[1\]。
+2006年、[KBSが自ら日本法人を設立し](../Page/韓国放送公社.md "wikilink")「[KBS WORLD](https://ja.wikipedia.org/wiki/KBS_WORLD "wikilink")」の放送を開始したため、KBSの番組はほとんどKBS WORLDに移行し、それ以降のKBSの番組は現在も外部が製作したドラマのみを放送している。このため、MBC・SBSのコンテンツを中心とした放送を行っている。2008年には、MBC・SBSがKNTV国除放送に送出している\[1\]。
 
-また、毎日20時から放送している「[SBS 8時のニュース](https://ja.wikipedia.org/wiki/SBS8ニュース "wikilink")」\[2\]は韓国からの生放送であるにも関わらず、日本語字幕（2006年12月以降）を入れて放送を行っている。
+また、毎日20時から放送している「[SBS 8時のニュース](https://ja.wikipedia.org/wiki/SBS8ニュース "wikilink")」\[2\]は韓国からの生放送であるにも関わらず、日本語字幕（2006年12月以降）韓国語、英語、中国語、アラビア語、ロシア語、ベトナム語、ポルトガル語など、世界中の言語を入れて放送を行っている。
 
 2009年11月、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")にてハイビジョン放送（チャンネル名は「**KNテレビジョンHD**」）を開始した。
 
@@ -43,6 +43,7 @@
       - [加盟ケーブルテレビ局一覧](https://ja.wikipedia.org/wiki/ジャパンケーブルネット#JCNパートナー局 "wikilink")（一部対応していない局がある）
   - [テレビ小山放送](../Page/テレビ小山放送.md "wikilink")
   - [本庄ケーブルテレビ](../Page/本庄ケーブルテレビ.md "wikilink")
+  - [国除放送](https://ja.wikipedia.org/wiki/国除放送 "wikilink")
   - [イッツコム](https://ja.wikipedia.org/wiki/イッツコム "wikilink")
   - [多摩テレビ](../Page/多摩テレビ.md "wikilink")
   - [トコちゃんねる静岡](../Page/トコちゃんねる静岡.md "wikilink")

@@ -168,7 +168,7 @@
   - [日本の自動車技術330選　尿素ＳＣＲシステム(ＦＬＥＮＤＳ)](http://www.jsae.or.jp/autotech/11-3.php) - [公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink") [自動車技術会](https://ja.wikipedia.org/wiki/自動車技術会 "wikilink")
   - [Quon：燃費](https://www.udtrucks.com/ja-jp/trucks/quon/new-cd/fuel-efficiency) - UDトラックス公式サイト（FLENDSについての記述あり）
 
-[Category:エンジン](https://ja.wikipedia.org/wiki/Category:エンジン "wikilink") [Category:環境技術](https://ja.wikipedia.org/wiki/Category:環境技術 "wikilink") [Category:自動車環境技術](https://ja.wikipedia.org/wiki/Category:自動車環境技術 "wikilink") [Category:日本の自動車技術180選](https://ja.wikipedia.org/wiki/Category:日本の自動車技術180選 "wikilink") [Category:UDトラックス](https://ja.wikipedia.org/wiki/Category:UDトラックス "wikilink")
+[Category:エンジン](https://ja.wikipedia.org/wiki/Category:エンジン "wikilink") [Category:環境技術](https://ja.wikipedia.org/wiki/Category:環境技術 "wikilink") [Category:自動車環境技術](https://ja.wikipedia.org/wiki/Category:自動車環境技術 "wikilink") [Category:日本の自動車技術180選](https://ja.wikipedia.org/wiki/Category:日本の自動車技術180選 "wikilink") [Category:UDトラックスのエンジン](https://ja.wikipedia.org/wiki/Category:UDトラックスのエンジン "wikilink")
 
 1.  [日本の自動車技術330選　尿素ＳＣＲシステム(ＦＬＥＮＤＳ) 公益社団法人 自動車技術会](http://www.jsae.or.jp/autotech/11-3.php)
 2.  [日産ディーゼル工業／平成17年（新長期）排出ガス規制対応技術「FLENDS」実用化](https://lnews.jp/backnumber/2004/10/13615.html) 2004年10月11日、物流ニュース LNEWS

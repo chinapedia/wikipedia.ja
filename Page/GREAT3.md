@@ -1,71 +1,58 @@
 > この記事は[GREAT3](https://ja.wikipedia.org/wiki/GREAT3)から翻訳されています。
 
 
-**GREAT3**（グレイト・スリー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3ピース・ロックバンド。
+**GREAT3**（グレイト・スリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3ピース・ロックバンド。
 
 ## 来歴
 
-  -
-    90年代前半の東京ポップスシーンで異彩を放った[ロッテンハッツ](../Page/ロッテンハッツ.md "wikilink")が解散した1994年、ロッテンハッツのメンバーであった片寄、高桑、白根の3人により結成された。ちなみに3人の平均身長は180㎝を超えており、東京一平均身長が高いバンドとのキャッチも結成当時は散見された。なお、ロッテンハッツの残る3人（真城めぐみ、木暮晋也、中森泰弘）は[ヒックスヴィル](../Page/ヒックスヴィル.md "wikilink")を結成し、現在も活動中。
-    1995年、東芝EMIからシングル「Fool ＆ The Gang」でメジャーデビュー。
-    普遍と革新を併せ持ったサウンドと清濁併せ呑んだリリックで、コアなリスナーやクリエイターから大きな支持を獲得。
-    レーベル“BODICIOUS”設立や世界的なミュージシャン“[ジョン・マッケンタイア](https://ja.wikipedia.org/wiki/ジョン・マッケンタイア "wikilink")”との交流といった音楽シーンだけでなく、ファッションブランドとのコラボレーションやオリジナルショップ経営などカルチャーシーンでも存在感を示した。
-    ライブでは、大胆なアレンジを施した緊張感のある演奏と巧みなボーカル＆コーラスワークで、プレイヤーとしての能力も存分に発揮。
-    2004年2月のライブを最後に活動休止。それぞれのプロジェクトと合わせて、プロデューサー、プレイヤーとしてもソロ活動をスタートする。
-    2012年5月、片寄明人と白根賢一の2人で“GREAT3”の活動再開を発表。
-    8月1日に新ベーシストとしてjan(ヤン)の加入発表、9年ぶりの新曲「Emotion / レイディ」を配信限定で販売。合わせて新生GREAT3初ライブをO-nestで実施。
-    8月10日にRising Sun Rock Festival 2012 in EZO、8月18日にSUMMERSONIC 2012に出演。
+1990年代前半の東京ポップスシーンで異彩を放った[ロッテンハッツ](../Page/ロッテンハッツ.md "wikilink")が解散した1994年、ロッテンハッツのメンバーであった片寄、高桑、白根の3人により結成された。ちなみに3人の平均身長は180㎝を超えており、東京一平均身長が高いバンドとのキャッチも結成当時は散見された。なお、ロッテンハッツの残る3人（真城めぐみ、木暮晋也、中森泰弘）は[ヒックスヴィル](../Page/ヒックスヴィル.md "wikilink")を結成し、現在も活動中。
+
+1995年、東芝EMIからシングル「Fool ＆ The Gang」でメジャーデビュー。普遍と革新を併せ持ったサウンドと清濁併せ呑んだリリックで、コアなリスナーやクリエイターから大きな支持を獲得。
+
+レーベル“BODICIOUS”設立や世界的なミュージシャン“[ジョン・マッケンタイア](https://ja.wikipedia.org/wiki/ジョン・マッケンタイア "wikilink")”との交流といった音楽シーンだけでなく、ファッションブランドとのコラボレーションやオリジナルショップ経営などカルチャーシーンでも存在感を示した。ライブでは、大胆なアレンジを施した緊張感のある演奏と巧みなボーカル＆コーラスワークで、プレイヤーとしての能力も存分に発揮。
+
+2004年2月のライブを最後に活動休止。それぞれのプロジェクトと合わせて、プロデューサー、プレイヤーとしてもソロ活動をスタートする。
+
+2012年5月、片寄明人と白根賢一の2人で“GREAT3”の活動再開を発表。8月1日に新ベーシストとしてjan(ヤン)の加入発表、9年ぶりの新曲「Emotion / レイディ」を配信限定で販売。合わせて新生GREAT3初ライブをO-nestで実施。8月10日にRising Sun Rock Festival 2012 in EZO、8月18日にSUMMERSONIC 2012に出演。
 
 ## メンバー
 
   - **片寄明人**（かたよせ あきと、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [東京都](../Page/東京都.md "wikilink")出身、B型、180cm）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
-
-<!-- end list -->
-
-  -
-    高校生の頃から東京の[モッズ](../Page/モッズ.md "wikilink")・シーンに関わっており、当時、[ザ・コーツ](https://ja.wikipedia.org/wiki/ザ・コーツ "wikilink")に在籍していた[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")（[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")）や、THE BIKE(の[加藤ひさし](https://ja.wikipedia.org/wiki/加藤ひさし "wikilink")（現[THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink")）と親交がある。[法政二高](https://ja.wikipedia.org/wiki/法政二高 "wikilink")、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")卒業。
-    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、歌手・モデルの[Chocolat](../Page/Chocolat.md "wikilink")と結婚。chocolatとのデュオChocolat & Akitoとして活動。
-    [2000年](../Page/2000年.md "wikilink")、[THE SEA AND CAKEや](https://ja.wikipedia.org/wiki/ザ・シー・アンド・ケイク "wikilink")、[TORTOISE](https://ja.wikipedia.org/wiki/TORTOISE "wikilink")で活躍している[ジョン・マッケンタイア](https://ja.wikipedia.org/wiki/ジョン・マッケンタイア "wikilink")のプロデュースにより、ソロアルバム『HEY MISTER GIRL\!』を発表。
-    [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")のCMでのナレーションや、妻であるChocolatと[ニッカ](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink")・[シードルや](https://ja.wikipedia.org/wiki/シードル#日本 "wikilink")[UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink")のCM出演などの活動も行っている。
-    [フジファブリック](../Page/フジファブリック.md "wikilink")のメジャーデビュー作『[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック_\(アルバム\) "wikilink")』の全曲、いわゆる「四季盤」のシングル4枚プロデュース、[SOPHIA](../Page/SOPHIA.md "wikilink")の「[黒いブーツ 〜oh my friend〜](https://ja.wikipedia.org/wiki/黒いブーツ_〜oh_my_friend〜 "wikilink")」、[SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")、[サクラメリーメン](../Page/サクラメリーメン.md "wikilink")、[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE "wikilink")、[メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink")、[テスラは泣かない](https://ja.wikipedia.org/wiki/テスラは泣かない "wikilink")、[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")、[Any](https://ja.wikipedia.org/wiki/Any_\(バンド\) "wikilink")、[Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink")、[daoko](https://ja.wikipedia.org/wiki/daoko "wikilink")、[acari](https://ja.wikipedia.org/wiki/acari "wikilink")、 [TENDOUJI](https://ja.wikipedia.org/wiki/TENDOUJI "wikilink")、[SHE IS SUMMER](https://ja.wikipedia.org/wiki/SHE_IS_SUMMER "wikilink")、[The Wisely Brothers](https://ja.wikipedia.org/wiki/The_Wisely_Brothers "wikilink") などのプロデューサーとしても活動している。
-    親戚に小説家の[北方謙三](../Page/北方謙三.md "wikilink")がいる。小学生の時に空手の大会で武道館に出た事がある。GREAT3の曲「SOUL GLOW」のPVでは正拳突きを披露している。
+      -
+        高校生の頃から東京の[モッズ](../Page/モッズ.md "wikilink")・シーンに関わっており、当時、[ザ・コーツ](https://ja.wikipedia.org/wiki/ザ・コーツ "wikilink")に在籍していた[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")（[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")）や、THE BIKE(の[加藤ひさし](https://ja.wikipedia.org/wiki/加藤ひさし "wikilink")（現[THE COLLECTORS](https://ja.wikipedia.org/wiki/THE_COLLECTORS "wikilink")）と親交がある。[法政二高](https://ja.wikipedia.org/wiki/法政二高 "wikilink")、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")卒業。
+        [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、歌手・モデルの[Chocolat](../Page/Chocolat.md "wikilink")と結婚。chocolatとのデュオChocolat & Akitoとして活動。
+        [2000年](../Page/2000年.md "wikilink")、[THE SEA AND CAKEや](https://ja.wikipedia.org/wiki/ザ・シー・アンド・ケイク "wikilink")、[TORTOISE](https://ja.wikipedia.org/wiki/TORTOISE "wikilink")で活躍している[ジョン・マッケンタイア](https://ja.wikipedia.org/wiki/ジョン・マッケンタイア "wikilink")のプロデュースにより、ソロアルバム『HEY MISTER GIRL\!』を発表。
+        [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")のCMでのナレーションや、妻であるChocolatと[ニッカ](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink")・[シードルや](https://ja.wikipedia.org/wiki/シードル#日本 "wikilink")[UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink")のCM出演などの活動も行っている。
+        [フジファブリック](../Page/フジファブリック.md "wikilink")のメジャーデビュー作『[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック_\(アルバム\) "wikilink")』の全曲、いわゆる「四季盤」のシングル4枚プロデュース、[SOPHIA](../Page/SOPHIA.md "wikilink")の「[黒いブーツ 〜oh my friend〜](https://ja.wikipedia.org/wiki/黒いブーツ_〜oh_my_friend〜 "wikilink")」、[SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")、[サクラメリーメン](../Page/サクラメリーメン.md "wikilink")、[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE "wikilink")、[メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink")、[テスラは泣かない](https://ja.wikipedia.org/wiki/テスラは泣かない "wikilink")、[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")、[Any](https://ja.wikipedia.org/wiki/Any_\(バンド\) "wikilink")、[Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink")、[daoko](https://ja.wikipedia.org/wiki/daoko "wikilink")、[acari](https://ja.wikipedia.org/wiki/acari "wikilink")、 [TENDOUJI](https://ja.wikipedia.org/wiki/TENDOUJI "wikilink")、[SHE IS SUMMER](https://ja.wikipedia.org/wiki/SHE_IS_SUMMER "wikilink")、[The Wisely Brothers](https://ja.wikipedia.org/wiki/The_Wisely_Brothers "wikilink") などのプロデューサーとしても活動している。
+        親戚に小説家の[北方謙三](../Page/北方謙三.md "wikilink")がいる。小学生の時に空手の大会で武道館に出た事がある。GREAT3の曲「SOUL GLOW」のPVでは正拳突きを披露している。
 
 <!-- end list -->
 
   - **白根賢一**（しらね けんいち [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - 東京都出身、A型、176cm）ボーカル、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-
-<!-- end list -->
-
-  -
-    元GREAT3メンバーの高桑とは幼馴染み。
-    ソロユニットLAS VEGAS、Acapulcoとして、また他ミュージシャンのサウンドデザイナー、プロデューサーとしても活動している。
-    シンプルながらテクニックを感じさせるドラムさばき。ドラム以外にピアノやフルコーラスをボーカル＆ドラムで参加するなど多才。
-    [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[THE BEATNIKS](../Page/THE_BEATNIKS.md "wikilink")、[Bonnie Pink](https://ja.wikipedia.org/wiki/Bonnie_Pink "wikilink")、[Caravan](../Page/Caravan.md "wikilink")、[Chara](https://ja.wikipedia.org/wiki/Chara "wikilink")、[LEO今井](../Page/LEO今井.md "wikilink")、[KIMONOS](https://ja.wikipedia.org/wiki/KIMONOS "wikilink")、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")、[チュール](https://ja.wikipedia.org/wiki/チュール_\(歌手\) "wikilink")、[中田裕二](https://ja.wikipedia.org/wiki/中田裕二 "wikilink")、[SOLEIL](https://ja.wikipedia.org/wiki/SOLEIL_\(バンド\) "wikilink") 、[大沢樹生](../Page/大沢樹生.md "wikilink")、[Kotoko Tanaka Band](https://ja.wikipedia.org/wiki/Kotoko_Tanaka_Band "wikilink") など、数々のミュージシャンのライブサポート、スタジオサポートとして参加している。
-    その際、高桑とセットで参加することも多い。
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、Manmancerでソロデビュー。
+      -
+        元GREAT3メンバーの高桑とは幼馴染み。
+        ソロユニットLAS VEGAS、Acapulcoとして、また他ミュージシャンのサウンドデザイナー、プロデューサーとしても活動している。
+        シンプルながらテクニックを感じさせるドラムさばき。ドラム以外にピアノやフルコーラスをボーカル＆ドラムで参加するなど多才。
+        [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[THE BEATNIKS](../Page/THE_BEATNIKS.md "wikilink")、[Bonnie Pink](https://ja.wikipedia.org/wiki/Bonnie_Pink "wikilink")、[Caravan](../Page/Caravan.md "wikilink")、[Chara](https://ja.wikipedia.org/wiki/Chara "wikilink")、[LEO今井](../Page/LEO今井.md "wikilink")、[KIMONOS](https://ja.wikipedia.org/wiki/KIMONOS "wikilink")、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")、[チュール](https://ja.wikipedia.org/wiki/チュール_\(歌手\) "wikilink")、[中田裕二](https://ja.wikipedia.org/wiki/中田裕二 "wikilink")、[SOLEIL](https://ja.wikipedia.org/wiki/SOLEIL_\(バンド\) "wikilink") 、[大沢樹生](../Page/大沢樹生.md "wikilink")、[Kotoko Tanaka Band](https://ja.wikipedia.org/wiki/Kotoko_Tanaka_Band "wikilink") など、数々のミュージシャンのライブサポート、スタジオサポートとして参加している。
+        その際、高桑とセットで参加することも多い。
+        [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、Manmancerでソロデビュー。
 
 <!-- end list -->
 
   - **jan**（やん [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - B型、187cm）ボーカル、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-
-<!-- end list -->
-
-  -
-    母は、[1994年](../Page/1994年.md "wikilink")2月に[ロッテンハッツ](../Page/ロッテンハッツ.md "wikilink")を解散した後デモテープを完成させたGREAT3結成時の初写真の撮影を担当した歌手・カメラマンの[佐藤奈々子](../Page/佐藤奈々子.md "wikilink")。その際、息子であるjanは撮影の様子を見ていた。また、[新宿パワーステーションで行われたGREAT](../Page/日清パワーステーション.md "wikilink")3のメジャー・デビューライブにも佐藤と訪れていた。その後はしばらくメンバーとの縁が遠のいていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から再び片寄と交流するようになった。
-    GREAT3が[2012年](../Page/2012年.md "wikilink")に活動を再開するにあたり高桑が脱退、後任のベーシストを探している際に、白根の「[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")のような（テクニックうんぬんより図抜けた存在感がある）奴は、どうか?」という提案を受けた片寄がjanに声をかけ、加入へと至った。[jan and naomiとしても活動中](https://ja.wikipedia.org/wiki/jan_and_naomi "wikilink")。
+      -
+        母は、[1994年](../Page/1994年.md "wikilink")2月に[ロッテンハッツ](../Page/ロッテンハッツ.md "wikilink")を解散した後デモテープを完成させたGREAT3結成時の初写真の撮影を担当した歌手・カメラマンの[佐藤奈々子](../Page/佐藤奈々子.md "wikilink")。その際、息子であるjanは撮影の様子を見ていた。また、[新宿パワーステーションで行われたGREAT](../Page/日清パワーステーション.md "wikilink")3のメジャー・デビューライブにも佐藤と訪れていた。その後はしばらくメンバーとの縁が遠のいていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から再び片寄と交流するようになった。
+        GREAT3が[2012年](../Page/2012年.md "wikilink")に活動を再開するにあたり高桑が脱退、後任のベーシストを探している際に、白根の「[シド・ヴィシャス](../Page/シド・ヴィシャス.md "wikilink")のような（テクニックうんぬんより図抜けた存在感がある）奴は、どうか?」という提案を受けた片寄がjanに声をかけ、加入へと至った。[jan and naomiとしても活動中](https://ja.wikipedia.org/wiki/jan_and_naomi "wikilink")。
 
 ### 在籍していたメンバー
 
   - **高桑圭**（たかくわ きよし [1967年](../Page/1967年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - [オーストラリア](../Page/オーストラリア.md "wikilink")出身、O型、187cm）ボーカル、[ベース](../Page/エレクトリックベース.md "wikilink")
-
-<!-- end list -->
-
-  -
-    ソロユニット[Curly Giraffe](https://ja.wikipedia.org/wiki/Curly_Giraffe "wikilink")（カーリー・ジラフ）や[曾田茂一](https://ja.wikipedia.org/wiki/曾田茂一 "wikilink")（元[EL-MALO](../Page/EL-MALO.md "wikilink")ボーカル・ギター）とのバンド[HONESTY](https://ja.wikipedia.org/wiki/HONESTY "wikilink")としても活動している。
-    メロディののったベースラインと、低くセクシーなボーカル、コーラスを放つ。
-    数々のミュージシャンのライブサポート、スタジオサポートとして参加している。その際、白根とセットで参加することも多い。
-    [2005年](../Page/2005年.md "wikilink")にCurly Giraffeとしてソロデビュー。2008年[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。音源の発表とライブ活動のみというノンプロモーション、そして詳細なプロフィールは明かさないというスタイルを取っていた。本人曰く「音楽のブラインドテストをしてみたかった」とのこと\[1\]。
-    2012年5月、GREAT3の活動再開と同時にグループを脱退したことを発表した。
+      -
+        ソロユニット[Curly Giraffe](https://ja.wikipedia.org/wiki/Curly_Giraffe "wikilink")（カーリー・ジラフ）や[曾田茂一](https://ja.wikipedia.org/wiki/曾田茂一 "wikilink")（元[EL-MALO](../Page/EL-MALO.md "wikilink")ボーカル・ギター）とのバンド[HONESTYとしても活動している](https://ja.wikipedia.org/wiki/HONESTY_\(バンド\) "wikilink")。
+        メロディののったベースラインと、低くセクシーなボーカル、コーラスを放つ。
+        数々のミュージシャンのライブサポート、スタジオサポートとして参加している。その際、白根とセットで参加することも多い。
+        [2005年](../Page/2005年.md "wikilink")にCurly Giraffeとしてソロデビュー。2008年[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。音源の発表とライブ活動のみというノンプロモーション、そして詳細なプロフィールは明かさないというスタイルを取っていた。本人曰く「音楽のブラインドテストをしてみたかった」とのこと\[1\]。
+        2012年5月、GREAT3の活動再開と同時にグループを脱退したことを発表した。
 
 ## ディスコグラフィー
 
@@ -639,7 +626,7 @@ TOBF-91136</p></td>
 | [我喜屋位瑳務](https://ja.wikipedia.org/wiki/我喜屋位瑳務 "wikilink")                                                   | 「[彼岸](https://www.youtube.com/watch?v=mFEEB3OgyMM)」                                                                                                                                                        |
 | [川村賢輔](https://ja.wikipedia.org/wiki/川村賢輔 "wikilink")                                                       | 「[CALiGULA](https://www.youtube.com/watch?v=irtJaJSZr4Q)」「[QUINCY](https://www.youtube.com/watch?v=lLoujBY3h8k)」                                                                                           |
 | [COOP](https://ja.wikipedia.org/wiki/COOP "wikilink")                                                       | 「[Chop The Meat](https://www.youtube.com/watch?v=4n0p04ot7P4)」                                                                                                                                             |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink")                                                       | 「[愛の関係](https://www.youtube.com/watch?v=EV_Eenh-8D8)」                                                                                                                                                      |
+| [小嶋貴之](../Page/小嶋貴之.md "wikilink")                                                                          | 「[愛の関係](https://www.youtube.com/watch?v=EV_Eenh-8D8)」                                                                                                                                                      |
 | [Jan](https://ja.wikipedia.org/wiki/Jan "wikilink")                                                         | 「[穴と月](https://www.youtube.com/watch?v=mFEEB3OgyMM)」                                                                                                                                                       |
 | [STEPHEN KIRKLYS](https://ja.wikipedia.org/wiki/STEPHEN_KIRKLYS "wikilink")                                 | 「[玉突き](https://www.youtube.com/watch?v=Fnl4UYEOqEM)」                                                                                                                                                       |
 | [陳承郁](https://ja.wikipedia.org/wiki/陳承郁 "wikilink")                                                         | 「[GRASS ROOTS](https://www.youtube.com/watch?v=j6agkVPlqDk)」                                                                                                                                               |
@@ -700,7 +687,7 @@ TOBF-91136</p></td>
   - [Dr.StrangeLove](../Page/Dr.StrangeLove.md "wikilink")
   - [PLAGUES](../Page/PLAGUES.md "wikilink")
   - [Chocolat](../Page/Chocolat.md "wikilink")
-  - [HONESTY](https://ja.wikipedia.org/wiki/HONESTY "wikilink")
+  - [HONESTY](https://ja.wikipedia.org/wiki/HONESTY_\(バンド\) "wikilink")
   - [會田茂一](../Page/會田茂一.md "wikilink")
   - [フジファブリック](../Page/フジファブリック.md "wikilink")
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")

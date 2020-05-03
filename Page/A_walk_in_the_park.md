@@ -17,9 +17,9 @@
 ## 主な記録
 
   - 1997オリコン年間カラオケリクエスト回数12位。
-  - [HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・2週連続（97/01/13～97/01/20・\#097～98）**1位**。
-  - HEY\!HEY\!HEY\!MUSIC CHAMP97年上半期・邦楽パーフェクトランキング9位。
-  - HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）45位。
+  - [HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・2週連続（97/01/13～97/01/20・\#097～98）**1位**。
+  - HEY\!HEY\!HEY\! MUSIC CHAMP97年上半期・邦楽パーフェクトランキング9位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）45位。
 
 ## 収録曲
 

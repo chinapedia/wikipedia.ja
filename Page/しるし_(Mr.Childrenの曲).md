@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（2006年11月6日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（2006年11月6日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（2006年11月10日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")（2006年11月15日、フジテレビ）
 

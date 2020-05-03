@@ -17,7 +17,7 @@
 
 ## 主な記録
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・3 YEARS BEST 100（95・96・97）74位。
+  - [HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・3 YEARS BEST 100（95・96・97）74位。
   - 1997オリコン年間シングルチャート23位。
   - 1997オリコン年間アーティストセールス4位。
   - この曲を以って[オリコンでのシングル売り上げが](../Page/オリコンチャート.md "wikilink")1000万枚を突破した。デビューからの2年1ヶ月での1000万枚達成は、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の2年7ヶ月をしのぐ、史上最速での達成である（現在も最速記録保持）。

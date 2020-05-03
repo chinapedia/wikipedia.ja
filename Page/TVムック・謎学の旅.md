@@ -20,7 +20,7 @@
 
 ### 備考
 
-[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")では、[テレビ金沢](../Page/テレビ金沢.md "wikilink")が開局するまで[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")で日曜朝に放送されていた。
+[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")では、[テレビ金沢](../Page/テレビ金沢.md "wikilink")が開局するまで[TBS系列の](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")で日曜朝に放送されていた。
 
 ## 出演者
 

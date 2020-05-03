@@ -30,7 +30,7 @@
   - [J-WAVE](../Page/J-WAVE.md "wikilink") 「[CIRCUS CIRCUS](https://ja.wikipedia.org/wiki/CIRCUS_CIRCUS "wikilink")」（金曜日 レポーター、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") - 2010年[9月24日](../Page/9月24日.md "wikilink")）
   - FM NACK5 「[MAGICAL SNOWLAND](https://ja.wikipedia.org/wiki/MAGICAL_SNOWLAND "wikilink")」（パーソナリティー、[2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、2012年[10月6日](../Page/10月6日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")、2013年[10月5日](../Page/10月5日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")、[2017年](../Page/2017年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")）
   - FM NACK5 「[ラジオのアナ〜ラジアナ](https://ja.wikipedia.org/wiki/ラジオのアナ〜ラジアナ "wikilink")」（月曜パーソナリティ、2014年[4月7日](../Page/4月7日.md "wikilink") - 2016年[9月26日](../Page/9月26日.md "wikilink")）
-  - FM NACK5「[Saturday Morning Radio おびハピ\!](https://ja.wikipedia.org/wiki/Saturday_Morning_Radio_おびハピ! "wikilink")」（パーソナリティ、2020年4月4日 - ）
+  - FM NACK5「[Saturday Morning Radio おびハピ\!](../Page/Saturday_Morning_Radio_おびハピ!.md "wikilink")」（パーソナリティ、2020年4月4日 - ）
 
 ### テレビ番組
 

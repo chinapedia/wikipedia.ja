@@ -1,7 +1,7 @@
 > この記事は[CEROレーティング18才以上のみ対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング18才以上のみ対象ソフトの一覧)から翻訳されています。
 
 
-[CERO_Z.svg](https://ja.wikipedia.org/wiki/File:CERO_Z.svg "fig:CERO_Z.svg") **CEROレーティング18才以上のみ対象ソフトの一覧**（セロレーティング18さいいじょうのみたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（CERO）によるレーティングで*' 18才以上のみ対象とする表現内容が含まれていること表示し、<span style="color:red">「18才未満の方には販売しておりません」</span>*'旨が記載されたゲームソフトの一覧である。
+[CERO_Z.svg](https://ja.wikipedia.org/wiki/File:CERO_Z.svg "fig:CERO_Z.svg") **CEROレーティング18才以上のみ対象ソフトの一覧**（セロレーティング18さいいじょうのみたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")（CERO）によるレーティングで*' 18才以上のみ対象とする表現内容が含まれていること表示し、<span style="color:red">「18才未満の方には販売しておりません」</span>*'旨が記載されたゲームソフトの一覧である。
 
 ## 概要
 

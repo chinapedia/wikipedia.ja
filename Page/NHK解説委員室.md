@@ -536,7 +536,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ニュース_シブ5時" title="wikilink">ニュース シブ5時</a><br />
 <a href="https://ja.wikipedia.org/wiki/ジセダイの逸材" title="wikilink">ジセダイの逸材</a><br />
 <a href="../Page/日曜討論.md" title="wikilink">日曜討論</a></p></td>
-<td><p>|遊軍プロジェクト長</p></td>
+<td><p>|遊軍プロジェクト長、現在は<a href="../Page/長野県.md" title="wikilink">長野県</a><a href="../Page/松本市.md" title="wikilink">松本市</a>長。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/影山日出夫" title="wikilink">影山日出夫</a></p></td>
@@ -611,7 +611,7 @@
 <td><p><a href="../Page/一橋大学.md" title="wikilink">一橋大学</a>教授、<a href="../Page/中央教育審議会.md" title="wikilink">中央教育審議会</a>臨時委員、<a href="https://ja.wikipedia.org/wiki/国際商科大学" title="wikilink">国際商科大学</a>教授</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/迫田朋子" title="wikilink">迫田朋子</a></p></td>
+<td><p><a href="../Page/迫田朋子.md" title="wikilink">迫田朋子</a></p></td>
 <td><p>医療・教育</p></td>
 <td><p>アナウンサー</p></td>
 <td></td>
@@ -848,27 +848,34 @@
 <td><p>福祉ジャーナリスト</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/村田英明" title="wikilink">村田英明</a></p></td>
+<td><p>社会保障・医療・福祉・労働</p></td>
+<td><p>記者</p></td>
+<td></td>
+<td><p>NHK放送文化研究所</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/室山哲也" title="wikilink">室山哲也</a></p></td>
 <td><p>科学全般・医学・環境</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/科学大好き土よう塾.md" title="wikilink">科学大好き土よう塾</a></p></td>
 <td><p>2018年10月末で定年退職。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/目黒英一" title="wikilink">目黒英一</a></p></td>
 <td><p>経済</p></td>
 <td><p>記者</p></td>
 <td><p>NHKビジネスライン</p></td>
 <td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島局放送部長</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/持田直武" title="wikilink">持田直武</a></p></td>
 <td><p>米国、朝鮮半島</p></td>
 <td></td>
 <td></td>
 <td><p>|</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/柳澤秀夫" title="wikilink">柳澤秀夫</a></p></td>
 <td><p>中東・アフリカ</p></td>
 <td><p>記者</p></td>
@@ -876,35 +883,35 @@
 <a href="https://ja.wikipedia.org/wiki/あさイチ" title="wikilink">あさイチ</a>[3]</p></td>
 <td><p>カイロ支局長。2012年6月15日より2014年6月まで解説委員長。2018年9月30日付で退職し、フリージャーナリストに転身。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/山崎登" title="wikilink">山崎登</a></p></td>
 <td><p>災害</p></td>
 <td><p>|アナウンサー・記者</p></td>
 <td></td>
 <td><p>元解説副委員長。<a href="https://ja.wikipedia.org/wiki/国士館大学" title="wikilink">国士館大学</a>教授</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/山本孝_(解説委員)" title="wikilink">山本孝</a></p></td>
 <td><p>政治</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/日曜討論.md" title="wikilink">日曜討論</a></p></td>
 <td><p><a href="../Page/徳島文理大学.md" title="wikilink">徳島文理大学</a>教授</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/山本浩.md" title="wikilink">山本浩</a></p></td>
 <td><p>スポーツ</p></td>
 <td><p>アナウンサー</p></td>
 <td></td>
 <td><p>2007年途中まではアナウンサー兼務。<a href="https://ja.wikipedia.org/wiki/法政大学" title="wikilink">法政大学</a>スポーツ健康学部教授、<a href="../Page/日本相撲協会.md" title="wikilink">日本相撲協会</a>再発防止検討委員会委員、</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/横島庄治" title="wikilink">横島庄治</a></p></td>
 <td><p>都市行政・都市経営・交通・環境</p></td>
 <td><p>記者</p></td>
 <td><p><a href="../Page/特報首都圏.md" title="wikilink">特報首都圏</a></p></td>
 <td><p>解説委員主幹、<a href="../Page/高崎経済大学.md" title="wikilink">高崎経済大学</a>地域政策学部教授、<a href="../Page/特定非営利活動法人.md" title="wikilink">特定非営利活動法人</a>環境システム研究会理事長、<a href="https://ja.wikipedia.org/wiki/社会資本整備審議会" title="wikilink">社会資本整備審議会</a>委員、<a href="../Page/東京都.md" title="wikilink">東京都</a>廃棄物審議会会長、<a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a>環境懇話会座長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/吉村秀實" title="wikilink">吉村秀實</a><br />
 （よしむら・ひでみ）</p></td>
 <td><p>災害</p></td>

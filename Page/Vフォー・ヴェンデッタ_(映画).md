@@ -5,7 +5,7 @@
 
 ## 概要
 
-監督は『[ムーラン・ルージュ](../Page/ムーラン・ルージュ_\(映画\).md "wikilink")』や『[マトリックス](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink")』三部作の[助監督を務めた](../Page/助監督_\(映画スタッフ\).md "wikilink")[ジェームズ・マクティーグ](https://ja.wikipedia.org/wiki/ジェームズ・マクティーグ "wikilink")。製作・脚本は『マトリックス』シリーズの[ウォシャウスキー兄弟](https://ja.wikipedia.org/wiki/ウォシャウスキー兄弟 "wikilink")。V役を『マトリックス』で[エージェント・スミス](https://ja.wikipedia.org/wiki/エージェント・スミス "wikilink")役を演じた[ヒューゴ・ウィーヴィング](../Page/ヒューゴ・ウィーヴィング.md "wikilink")が担当している。
+監督は『[ムーラン・ルージュ](../Page/ムーラン・ルージュ_\(映画\).md "wikilink")』や『[マトリックス](../Page/マトリックス_\(映画\).md "wikilink")』三部作の[助監督を務めた](../Page/助監督_\(映画スタッフ\).md "wikilink")[ジェームズ・マクティーグ](https://ja.wikipedia.org/wiki/ジェームズ・マクティーグ "wikilink")。製作・脚本は『マトリックス』シリーズの[ウォシャウスキー兄弟](https://ja.wikipedia.org/wiki/ウォシャウスキー兄弟 "wikilink")。V役を『マトリックス』で[エージェント・スミス](https://ja.wikipedia.org/wiki/エージェント・スミス "wikilink")役を演じた[ヒューゴ・ウィーヴィング](../Page/ヒューゴ・ウィーヴィング.md "wikilink")が担当している。
 
 [第56回ベルリン国際映画祭](../Page/第56回ベルリン国際映画祭.md "wikilink")での招待上映を経て、[2006年](../Page/2006年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")にアメリカほか数か国で同時公開された（一部15日・16日）、日本では2006年4月22日より公開。全米公開日は当初2005年[11月5日](../Page/11月5日.md "wikilink")に設定されていたが延期になった。劇中に[ロンドン同時爆破事件](../Page/ロンドン同時爆破事件.md "wikilink")を彷彿させるシーンがあることが原因だといわれている\[1\]。
 

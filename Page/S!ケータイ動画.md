@@ -26,6 +26,9 @@
 ## 関連項目
 
   - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")
+  - [GYAO\!](../Page/GYAO!.md "wikilink") - 2009年にYahoo\!動画と統合
+  - [EZチャンネル](../Page/EZチャンネル.md "wikilink") - [auブランドを展開する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")が提供していた同種のサービス
+  - [ドコモ動画](https://ja.wikipedia.org/wiki/ドコモ動画 "wikilink") - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が提供していた同種のサービス
 
 ## 外部リンク
 

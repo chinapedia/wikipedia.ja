@@ -135,31 +135,24 @@ Gossamerアーキテクチャは後に発売されたPowerBook G3や[iMac](https
 
 ### Old World ROM
 
-  - [Power Macintosh 4400](https://ja.wikipedia.org/wiki/Power_Macintosh_4400 "wikilink")/160, 200 (PC)
-  - [Power Macintosh 5200](https://ja.wikipedia.org/wiki/Power_Macintosh_5200 "wikilink")/75 LC
-  - [Power Macintosh 5260](https://ja.wikipedia.org/wiki/Power_Macintosh_5260 "wikilink")/100, 120
-  - [Power Macintosh 5300](https://ja.wikipedia.org/wiki/Power_Macintosh_5300 "wikilink")/100 LC
-  - [Power Macintosh 5400](https://ja.wikipedia.org/wiki/Power_Macintosh_5400 "wikilink")/120, 180, 200
-  - [Power Macintosh 5500](https://ja.wikipedia.org/wiki/Power_Macintosh_5500 "wikilink")/225, 250
-  - [Power Macintosh 6100](https://ja.wikipedia.org/wiki/Power_Macintosh_6100 "wikilink")/60 (PC), 60AV, 66 (PC), 66AV
+  - [Power Macintosh 4400](https://ja.wikipedia.org/wiki/Power_Macintosh_4400 "wikilink")/200
+  - [Power Macintosh 5500](https://ja.wikipedia.org/wiki/Power_Macintosh_5500 "wikilink")/225
+  - [Power Macintosh 6100](https://ja.wikipedia.org/wiki/Power_Macintosh_6100 "wikilink")/66
   - [Power Macintosh 6200](https://ja.wikipedia.org/wiki/Power_Macintosh_6200 "wikilink")/75
-  - [Power Macintosh 6300](https://ja.wikipedia.org/wiki/Power_Macintosh_6300 "wikilink")/120
-  - [Power Macintosh 6400](https://ja.wikipedia.org/wiki/Power_Macintosh_6400 "wikilink")/180, 200
-  - [Power Macintosh 6500](https://ja.wikipedia.org/wiki/Power_Macintosh_6500 "wikilink")/225, 250, 275, 300
-  - [Power Macintosh 7100](https://ja.wikipedia.org/wiki/Power_Macintosh_7100 "wikilink")/66, 66AV, 80, 80AV
-  - [Power Macintosh 7200](https://ja.wikipedia.org/wiki/Power_Macintosh_7200 "wikilink")/75, 90, 120 (PC), 200 (PC)
-  - [Power Macintosh 7300](https://ja.wikipedia.org/wiki/Power_Macintosh_7300 "wikilink")/166, 180 (PC), 200
+  - [Power Macintosh 6300](https://ja.wikipedia.org/wiki/Power_Macintosh_6300 "wikilink")/120, 160
+  - [Power Macintosh 7100](https://ja.wikipedia.org/wiki/Power_Macintosh_7100 "wikilink")/80AV
+  - [Power Macintosh 7200](https://ja.wikipedia.org/wiki/Power_Macintosh_7200 "wikilink")/120
+  - [Power Macintosh 7300](https://ja.wikipedia.org/wiki/Power_Macintosh_7300 "wikilink")/166
   - [Power Macintosh 7500](https://ja.wikipedia.org/wiki/Power_Macintosh_7500 "wikilink")/100
-  - [Power Macintosh 7600](https://ja.wikipedia.org/wiki/Power_Macintosh_7600 "wikilink")/120, 132, 200
-  - [Power Macintosh 8100](https://ja.wikipedia.org/wiki/Power_Macintosh_8100 "wikilink")/80, 80AV, 100, 100AV, 110, 110AV
+  - [Power Macintosh 7600](https://ja.wikipedia.org/wiki/Power_Macintosh_7600 "wikilink")/120, 200
+  - [Power Macintosh 8100](https://ja.wikipedia.org/wiki/Power_Macintosh_8100 "wikilink")/100AV
   - [Power Macintosh 8115](https://ja.wikipedia.org/wiki/Power_Macintosh_8115 "wikilink")/110
   - [Power Macintosh 8200](https://ja.wikipedia.org/wiki/Power_Macintosh_8200 "wikilink")/100, 120
   - [Power Macintosh 8500](https://ja.wikipedia.org/wiki/Power_Macintosh_8500 "wikilink")/120, 132, 150, 180
   - [Power Macintosh 8515](https://ja.wikipedia.org/wiki/Power_Macintosh_8515 "wikilink")/120
-  - [Power Macintosh 8600](https://ja.wikipedia.org/wiki/Power_Macintosh_8600 "wikilink")/200, 250, 300
+  - [Power Macintosh 8600](https://ja.wikipedia.org/wiki/Power_Macintosh_8600 "wikilink")/200, 250
   - [Power Macintosh 9500](https://ja.wikipedia.org/wiki/Power_Macintosh_9500 "wikilink")/120, 132, 150, 180MP, 200
-  - [Power Macintosh 9515](https://ja.wikipedia.org/wiki/Power_Macintosh_9515 "wikilink")/132
-  - [Power Macintosh 9600](https://ja.wikipedia.org/wiki/Power_Macintosh_9600 "wikilink")/200, 200MP, 233, 300, 350
+  - [Power Macintosh 9600](https://ja.wikipedia.org/wiki/Power_Macintosh_9600 "wikilink")/200MP, 233, 300, 350
   - [Power Macintosh G3 (beige)](https://ja.wikipedia.org/wiki/Power_Macintosh_G3 "wikilink")/233, 266, 300, 333
 
 ### New World ROM

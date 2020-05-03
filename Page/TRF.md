@@ -400,7 +400,7 @@
 
 ★印の曲以外はアルバム未収録
 
-  - lights and any more（アニメ『[湾岸MIDNIGHT](https://ja.wikipedia.org/wiki/湾岸MIDNIGHT "wikilink")』主題歌）（2007年7月11日）★→『[GRAVITY](https://ja.wikipedia.org/wiki/GRAVITY "wikilink")』に収録
+  - lights and any more（アニメ『[湾岸MIDNIGHT](https://ja.wikipedia.org/wiki/湾岸MIDNIGHT "wikilink")』主題歌）（2007年7月11日）★→『[GRAVITY](https://ja.wikipedia.org/wiki/GRAVITY_\(TRFのアルバム\) "wikilink")』に収録
   - survival dAnce '07（映画『[阿波DANCE](../Page/阿波DANCE.md "wikilink")』主題歌）（2007年7月11日）
   - BOY MEETS GIRL '07（2007年7月11日）
   - FUNKY M '07（2007年7月11日）

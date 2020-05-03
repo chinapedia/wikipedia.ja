@@ -130,4 +130,4 @@
     作者が双子の球児を見て、試合中に入れ替わったら面白いだろうなとコメントしている。
     阿久根・飛島・沢村・蔵田・岩神・明智・大前田・俵星・秋・そしてKジロー。冠学園野球部の最後の戦いの結末はいかに。
 
-[Category:水島新司の漫画作品](https://ja.wikipedia.org/wiki/Category:水島新司の漫画作品 "wikilink") [Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:1989年の漫画](https://ja.wikipedia.org/wiki/Category:1989年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:千葉県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした作品 "wikilink")
+[Category:水島新司の漫画作品](https://ja.wikipedia.org/wiki/Category:水島新司の漫画作品 "wikilink") [Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:1989年の漫画](https://ja.wikipedia.org/wiki/Category:1989年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:千葉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした漫画作品 "wikilink")

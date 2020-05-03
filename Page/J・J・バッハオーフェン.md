@@ -15,13 +15,13 @@
 
 2）Das Mutterecht。母権制。農業に基づく、常習的な神秘的[カルト](../Page/カルト.md "wikilink")と[法律](../Page/法律.md "wikilink")の出現と一夫一婦制かつ女性支配の「月の」段階。初期の[デメテル](https://ja.wikipedia.org/wiki/デメテル "wikilink")を支配的神と考えた。
 
-3）Dionysian。家長制度が誕生し始めたため父権化する。オリジナルの[ディオニュソス](https://ja.wikipedia.org/wiki/ディオニュソス "wikilink")を支配的神と考えた。
+3）Dionysian。[家長](https://ja.wikipedia.org/wiki/家長 "wikilink")制度が誕生し始めたため[父権化する](../Page/家父長制.md "wikilink")。オリジナルの[ディオニュソス](https://ja.wikipedia.org/wiki/ディオニュソス "wikilink")を支配的神と考えた。
 
 4）Apollonian。過去の Matriarchal と Dionysian のすべての痕跡が消える。そして、現代の文明があらわれてくる父権的な「太陽の」段階。
 
-このモデルは20世紀に実証主義から批判が出されるまで影響力を保った（→[地母神\#母権制と女神の歴史](https://ja.wikipedia.org/wiki/地母神#母権制と女神の歴史 "wikilink")、[天空神\#概念の歴史](https://ja.wikipedia.org/wiki/天空神#概念の歴史 "wikilink")）。
+このモデルは20世紀に実証主義から批判が出されるまで影響力を保った（→[地母神\#母権制と女神の歴史](https://ja.wikipedia.org/wiki/地母神#母権制と女神の歴史 "wikilink")）。
 
-『西洋の神話学』を著した[ジョゼフ・キャンベル](https://ja.wikipedia.org/wiki/ジョゼフ・キャンベル "wikilink")などの注意を引いたように、バッハオーフェンの理論は結果として宗教・文化・社会の[アーリア](https://ja.wikipedia.org/wiki/アーリア "wikilink")民族起源論に鋭い反対を突きつけている。
+『西洋の神話学』その他を著した[ジョゼフ・キャンベル](https://ja.wikipedia.org/wiki/ジョゼフ・キャンベル "wikilink")の注意を引いたように、バッハオーフェンの理論は結果として宗教・文化・社会の[アーリア民族](https://ja.wikipedia.org/wiki/アーリア民族 "wikilink")起源論に鋭い反対を突きつけている。
 
 ## 経歴
 

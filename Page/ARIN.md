@@ -11,6 +11,8 @@ ARINは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月、当時
 
 ## ARINに参加している国家・地域
 
+[Regional_Internet_Registries_world_map.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map.svg "fig:Regional_Internet_Registries_world_map.svg") [Regional_Internet_Registries_world_map_2002-2005.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map_2002-2005.svg "fig:Regional_Internet_Registries_world_map_2002-2005.svg") [Regional_Internet_Registries_world_map_until_2002.svg](https://ja.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map_until_2002.svg "fig:Regional_Internet_Registries_world_map_until_2002.svg")
+
   - [イギリス領ヴァージン諸島](../Page/イギリス領ヴァージン諸島.md "wikilink")
   - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
   - [アメリカ領有小離島](../Page/合衆国領有小離島.md "wikilink")
@@ -40,6 +42,10 @@ ARINは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月、当時
   - [プエルトリコ](../Page/プエルトリコ.md "wikilink")
   - [マルティニーク](../Page/マルティニーク.md "wikilink")
   - [モントセラト](../Page/モントセラト.md "wikilink")
+
+## 関連項目
+
+  - [割り当て済みの/8アドレスブロックの一覧](https://ja.wikipedia.org/wiki/割り当て済みの/8アドレスブロックの一覧 "wikilink")
 
 ## 外部リンク
 

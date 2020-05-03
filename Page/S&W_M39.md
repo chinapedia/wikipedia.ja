@@ -1,7 +1,7 @@
 > この記事は[S\&W M39](https://ja.wikipedia.org/wiki/S\&W_M39)から翻訳されています。
 
 
-**S\&W M39**は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[銃](../Page/銃.md "wikilink")器メーカー[S\&W社が開発した](../Page/スミス&ウェッソン.md "wikilink")[自動拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。
+**S\&W M39**は、 [アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[銃](../Page/銃.md "wikilink")器メーカー[S\&W社が開発した](../Page/スミス&ウェッソン.md "wikilink")[自動拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。
 
 ## 特徴
 

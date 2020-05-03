@@ -35,7 +35,7 @@
 **1977年**
 
   - **[天北原野](https://ja.wikipedia.org/wiki/天北原野 "wikilink")**（4月～8月）出演：北大路欣也、[山本陽子](../Page/山本陽子.md "wikilink")、[松坂慶子](../Page/松坂慶子.md "wikilink")
-  - **[分水嶺](https://ja.wikipedia.org/wiki/分水嶺_\(テレビドラマ\) "wikilink")**（9月～11月）出演：香山美子、[近藤正臣](../Page/近藤正臣.md "wikilink")、[梶芽衣子](../Page/梶芽衣子.md "wikilink")
+  - **[分水嶺](../Page/分水嶺_\(テレビドラマ\).md "wikilink")**（9月～11月）出演：香山美子、[近藤正臣](../Page/近藤正臣.md "wikilink")、[梶芽衣子](../Page/梶芽衣子.md "wikilink")
 
 **1978年**
 

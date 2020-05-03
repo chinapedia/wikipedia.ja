@@ -1,7 +1,7 @@
 > この記事は[DROPS](https://ja.wikipedia.org/wiki/DROPS)から翻訳されています。
 
 
-**DROPS**（ドロップ）は、[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属（当時）の女性[声優](../Page/声優.md "wikilink")5人による[声優ユニット](../Page/声優ユニット.md "wikilink")。なお、読みは「ドロップ」であり、「ドロップス」は誤りである。[2004年](../Page/2004年.md "wikilink")デビュー。解散発表はしていないが、2004年末の活動を最後に活動していない。
+**DROPS**（ドロップ）は、[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属（当時）\[1\]の女性[声優](../Page/声優.md "wikilink")5人による[声優ユニット](../Page/声優ユニット.md "wikilink")。なお、読みは「ドロップ」であり、「ドロップス」は誤りである。[2004年](../Page/2004年.md "wikilink")デビュー。解散発表はしていないが、2004年末の活動を最後に活動していない。
 
 ## 経歴
 
@@ -109,7 +109,7 @@ KICM-1105（一般発売通常盤）</p></td>
 <tr class="odd">
 <td><p>2004年4月28日</p></td>
 <td><p>ネギま! 麻帆良学園中等部2-A：1学期</p></td>
-<td><p><strong>DROPS</strong>[1]</p></td>
+<td><p><strong>DROPS</strong>[2]</p></td>
 <td><p>「☆まか♥メチャ不思議パラダイス」<br />
 「バカップル♥」</p></td>
 <td><p>テレビアニメ『<a href="../Page/魔法先生ネギま!_(アニメ).md" title="wikilink">魔法先生ネギま!</a>』イメージソング</p></td>
@@ -164,4 +164,5 @@ KICM-1105（一般発売通常盤）</p></td>
 
 [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:野中藍](https://ja.wikipedia.org/wiki/Category:野中藍 "wikilink") [Category:白石涼子](https://ja.wikipedia.org/wiki/Category:白石涼子 "wikilink")
 
-1.  DROPS名義で収録されていたが、白石がメインボーカルを務めており、ライブ・イベントでは完全に白石ソロ曲として披露されていた。
+1.  現在は金田のみ移籍している（[アクロスエンタテインメント](https://ja.wikipedia.org/wiki/アクロスエンタテインメント "wikilink")所属）
+2.  DROPS名義で収録されていたが、白石がメインボーカルを務めており、ライブ・イベントでは完全に白石ソロ曲として披露されていた。

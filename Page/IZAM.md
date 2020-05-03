@@ -92,7 +92,7 @@ SHAZNAのインディーズラストアルバム 『Promise Eve』より現「**
     1.  恋してクラ☆クラ (NEO ROMANESQUE edit)\[3:55\]
           -
             作詞：IZAM／作曲：a-k／作曲：S・Shiera
-            [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』2003年4・5月度EDテーマ
+            [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』2003年4・5月度EDテーマ
     2.  恋してクラ☆クラ (IZAMLESS edit)\[3:52\]
     3.  (エンハンスド)映像特典:恋してクラ☆クラ (VIDEO clip)
 

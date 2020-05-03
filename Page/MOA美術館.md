@@ -5,7 +5,7 @@
 
 ## 概要
 
-静岡県熱海市の高台にある美術館。[岡田茂吉](../Page/岡田茂吉.md "wikilink")（おかだもきち、1882年 - 1955年）が創立者で、彼のコレクションを基盤に、[国宝](../Page/国宝.md "wikilink")3件、[重要文化財](../Page/重要文化財.md "wikilink")67件（2019年現在）\[2\]、[重要美術品](../Page/重要美術品.md "wikilink")46件を含む約3500件を所蔵している。その内容は、絵画・書跡・工芸・彫刻等、日本・中国をはじめ東洋美術の各分野にわたり、美術的にも、研究的にも大きな魅力と価値のある作品によって構成されている。
+静岡県熱海市の高台にある美術館。[世界救世教](../Page/世界救世教.md "wikilink")教祖・[岡田茂吉](../Page/岡田茂吉.md "wikilink")（おかだもきち、1882年 - 1955年）が創立者で、彼のコレクションを基盤に、[国宝](../Page/国宝.md "wikilink")3件、[重要文化財](../Page/重要文化財.md "wikilink")67件（2019年現在）\[2\]、[重要美術品](../Page/重要美術品.md "wikilink")46件を含む約3500件を所蔵している。その内容は、絵画・書跡・工芸・彫刻等、日本・中国をはじめ東洋美術の各分野にわたり、美術的にも、研究的にも大きな魅力と価値のある作品によって構成されている。
 
 メインロビーからは、初島や伊豆大島、房総半島から三浦半島、伊豆半島まで180度の大パノラマを眺望できる。
 
@@ -223,7 +223,7 @@
 [Category:浮世絵の美術館・博物館](https://ja.wikipedia.org/wiki/Category:浮世絵の美術館・博物館 "wikilink") [Category:静岡県の美術館](https://ja.wikipedia.org/wiki/Category:静岡県の美術館 "wikilink") [Category:熱海市の教育](https://ja.wikipedia.org/wiki/Category:熱海市の教育 "wikilink") [Category:熱海市の建築物](https://ja.wikipedia.org/wiki/Category:熱海市の建築物 "wikilink") [Category:日本美術の美術館とギャラリー](https://ja.wikipedia.org/wiki/Category:日本美術の美術館とギャラリー "wikilink") [Category:日本の国宝_(絵画)](https://ja.wikipedia.org/wiki/Category:日本の国宝_\(絵画\) "wikilink") [Category:日本の国宝_(工芸品)](https://ja.wikipedia.org/wiki/Category:日本の国宝_\(工芸品\) "wikilink") [Category:日本の国宝_(書跡・典籍・古文書)](https://ja.wikipedia.org/wiki/Category:日本の国宝_\(書跡・典籍・古文書\) "wikilink") [Category:静岡県の重要文化財](https://ja.wikipedia.org/wiki/Category:静岡県の重要文化財 "wikilink") [Category:第24回BCS賞](https://ja.wikipedia.org/wiki/Category:第24回BCS賞 "wikilink") [Category:1982年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1982年竣工の日本の建築物 "wikilink") [Category:1982年開設の博物館](https://ja.wikipedia.org/wiki/Category:1982年開設の博物館 "wikilink")
 
 1.  館名読みは[美術館公式ツイッター](https://twitter.com/moa_museum?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)による。
-2.  「66件」には姉妹館の箱根美術館保管の埴輪1件を含む。
+2.  姉妹館の箱根美術館保管の埴輪1件を含む。
 3.  [美術館について - 公益財団法人岡田茂吉美術文化財団](http://okada-foundation.or.jp/art.html)
 4.  [活動 ＭＯＡ美術館・箱根美術館](http://www.izunome.jp/action/art/moa/) 世界救世教いづのめ教団
 5.  [岡田茂吉とMOAの歩み](http://www.moainternational.or.jp/intro/nenpu.html)（一般社団法人MOAインターナショナルのサイト）

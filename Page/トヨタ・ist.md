@@ -60,7 +60,7 @@
 
 ### 日本でのCM
 
-初期のCMは「大切にしたくなる。」がキャッチフレーズ。その後[松田龍平](../Page/松田龍平.md "wikilink")、[安藤政信](../Page/安藤政信.md "wikilink")、[村上淳](../Page/村上淳.md "wikilink")、[柏原崇](../Page/柏原崇.md "wikilink")、[浅野忠信](../Page/浅野忠信.md "wikilink")を5人で起用。独身男性をターゲットにした[CMで](../Page/コマーシャルメッセージ.md "wikilink")「ist」に合わせた単語を個々に持ち、ショートフィルムも公開された。
+初期のCMは「大切にしたくなる。」がキャッチフレーズ。その後[松田龍平](../Page/松田龍平.md "wikilink")、[安藤政信](../Page/安藤政信.md "wikilink")、[村上淳](../Page/村上淳.md "wikilink")、[柏原崇](../Page/柏原崇.md "wikilink")、[浅野忠信](../Page/浅野忠信.md "wikilink")を5人で起用。独身男性をターゲットにした[CMで](../Page/コマーシャルメッセージ.md "wikilink")「ist」に合わせた単語を個々に持ち、ショートフィルムも公開された。楽曲は[bondの](../Page/ボンド_\(バンド\).md "wikilink")「Viva\!」。
 
 ### ピカチュウカー
 

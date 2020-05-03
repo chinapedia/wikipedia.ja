@@ -49,7 +49,7 @@
 
 ### 製品
 
-  - [小田急3000形電車 (初代)の愛称](https://ja.wikipedia.org/wiki/小田急3000形電車_\(初代\) "wikilink")。Super Expressの略。またそれ以降の[EXE以外の](../Page/小田急30000形電車.md "wikilink")[小田急ロマンスカー](https://ja.wikipedia.org/wiki/小田急ロマンスカー "wikilink")の名称。
+  - [小田急3000形電車 (初代)の愛称](../Page/小田急3000形電車_\(初代\).md "wikilink")。Super Expressの略。またそれ以降の[EXE以外の](../Page/小田急30000形電車.md "wikilink")[小田急ロマンスカー](https://ja.wikipedia.org/wiki/小田急ロマンスカー "wikilink")の名称。
   - [SoftEther](../Page/SoftEther.md "wikilink") の略。
   - [iPhone SE](https://ja.wikipedia.org/wiki/iPhone_SE "wikilink") の略称。
   - [東芝](../Page/東芝.md "wikilink")製の[鉄道車両](../Page/鉄道車両.md "wikilink")用モーターの型番。

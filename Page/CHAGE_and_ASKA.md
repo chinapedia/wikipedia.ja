@@ -121,7 +121,7 @@
   - [2013年](../Page/2013年.md "wikilink")
       - 1月25日、公式サイトにて活動再開することを一旦発表\[23\]、当初同年8月末に国立代々木第一体育館において、復活スペシャルライブを開催する予定を組んでいた。だが同年6月11日、公式サイトでASKAに一過性脳虚血症の疑いがあり、静養が必要と診断されたため、スペシャルライブを延期\[24\]。しかし同年12月12日、会報誌で開催の目処が全く立たない状況のため、復活ライブを完全中止する事を発表した。
   - [2014年](../Page/2014年.md "wikilink")
-      - 5月17日、ASKAが[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反（所持）の疑いで逮捕された\[25\]。5月19日、今回の逮捕に伴い、ASKA、CHAGE and ASKAの音楽・映像および関連商品の販売中止・回収と、全楽曲・映像のデジタル配信停止が発表された\[26\]\[27\]\[28\]\[29\]。5月25日にはASKAの[覚醒剤](../Page/覚醒剤.md "wikilink")所持・使用に絡み、所属事務所である「ロックダムアーティスツ」が家宅捜索を受ける\[30\]。
+      - 5月17日、ASKAが[覚醒剤取締法](../Page/覚醒剤取締法.md "wikilink")違反（所持）の疑いで逮捕された\[25\]。5月19日、今回の逮捕に伴い、ASKA、CHAGE and ASKAの音楽・映像および関連商品の販売中止・回収と、全楽曲・映像のデジタル配信停止が発表された\[26\]\[27\]\[28\]\[29\]。5月25日にはASKAの[覚醒剤](../Page/覚醒剤.md "wikilink")所持・使用に絡み、所属事務所である「ロックダムアーティスツ」が家宅捜索を受ける\[30\]。
       - 6月27日、所属事務所「ロックダムアーティスツ」が、ASKAの契約解除を発表。CHAGE and ASKAのファンクラブ「TUG OF C\&A」も8月末を以って休止する予定であることも併せて発表\[31\]。
       - 7月3日、ASKA保釈される。深く一礼しその後軽く一礼後、車に乗り込み家族と会い謝罪する。深い一礼の間にマイクにも入らない小さい声で「すみませんでした」と反省した言葉を述べている。8月28日に初公判が行われた。
       - 7月6日、1993年より支援してきた「セーブ・ザ・チルドレン」からの申し出より「Save the Children with CHAGE and ASKA」の活動を終了を発表\[32\]。
@@ -2569,7 +2569,7 @@ Best-selling Artist/Asia</p></td>
   -
   -
   -
-[Category:CHAGE_and_ASKA](https://ja.wikipedia.org/wiki/Category:CHAGE_and_ASKA "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のフォークグループ](https://ja.wikipedia.org/wiki/Category:日本のフォークグループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:オリコン年間シングルチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位獲得アーティスト "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:1978年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1978年に結成した音楽グループ "wikilink") [Category:2019年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に解散した音楽グループ "wikilink") [Category:ポプコン出身者](https://ja.wikipedia.org/wiki/Category:ポプコン出身者 "wikilink")
+[Category:CHAGE_and_ASKA](https://ja.wikipedia.org/wiki/Category:CHAGE_and_ASKA "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のフォークグループ](https://ja.wikipedia.org/wiki/Category:日本のフォークグループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:オリコン年間シングルチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位獲得アーティスト "wikilink") [Category:オリコン年間アルバムチャート1位獲得アーティスト](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位獲得アーティスト "wikilink") [Category:ポプコン出身者](https://ja.wikipedia.org/wiki/Category:ポプコン出身者 "wikilink") [Category:1978年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1978年に結成した音楽グループ "wikilink") [Category:2019年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に解散した音楽グループ "wikilink")
 
 1.  [CHAGE and ASKA プロフィール](http://www.oricon.co.jp/prof/4069/profile/) オリコン 2016年2月8日閲覧
 2.
@@ -2649,7 +2649,7 @@ Best-selling Artist/Asia</p></td>
 76. [歴代1位の記録も！ CHAGE and ASKAの凄さを改めて振り返る\!](http://a.excite.co.jp/News/90s/20161202/E1479368070334.html) exciteニュース 2016年12月3日閲覧
 77. [AKB48、初週売上138万枚で43作連続1位 今年度最高シングル売上を記録【オリコンランキング】](https://www.oricon.co.jp/news/2145042/full/) オリコン 2019年9月24日配信, 2020年1月26日閲覧
 78. [B'z、シングル10冠の偉業達成\!](https://www.oricon.co.jp/news/48676/full/) オリコン 2007年10月9日配信, 2020年1月26日閲覧
-79. 歴代1位は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（10年）、2位は[B'z](../Page/B'z.md "wikilink")（7年）であり、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[GLAY](../Page/GLAY.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")も4年連続となる。
+79. 歴代1位は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（10年）、2位は[B'z](../Page/B'z.md "wikilink")（7年）であり、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[GLAY](../Page/GLAY.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")も4年連続となる。
 80. [【オリコン】SMAP、25年越し「SAY YES」超え 「世界に一つ～」が歴代6位に](http://www.oricon.co.jp/news/2078334/full/) オリコン 2016年9月13日閲覧
 81. [アスカ残し、チャゲ逝く　「なんかショック…」ちょっとした騒動に](http://withnews.jp/article/f0160206001qq000000000000000G0010401qq000012994A) with news 2016年2月15日閲覧
 82.

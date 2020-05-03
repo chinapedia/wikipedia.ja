@@ -748,11 +748,14 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 <!-- end list -->
 
-  - [2月1日](../Page/2月1日.md "wikilink")：ライブツアー「LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE-」が、[三郷市文化会館](https://ja.wikipedia.org/wiki/三郷市文化会館 "wikilink")にてスタート。13カ所全26公演。
+  - [2月1日](../Page/2月1日.md "wikilink")：ライブツアー「LUNA SEA 30th Anniversary Tour 2020 -CROSS THE UNIVERSE-」が、[三郷市文化会館](https://ja.wikipedia.org/wiki/三郷市文化会館 "wikilink")にてスタート。13カ所全26公演の予定だったが、新型コロナウイルスの影響により二月末以降の公演がすべて延期。
+  - [2月13日](../Page/2月13日.md "wikilink")、[14日](../Page/2月14日.md "wikilink")：FC限定ライブ「LUNA SEA 30th Anniversary SLAVE限定GIG 2020 at 町田市民ホール」が、開催。1カ所2公演。前述アルバムツアーに組み込まれたFC限定ライブとなった。
   - [2月26日](../Page/2月26日.md "wikilink")、政府から新型コロナウイルス感染拡大防止の為の、イベント中止要請があり、[2月27日](../Page/2月27日.md "wikilink")、28日の宇都宮市文化会館での公演、[3月7日](../Page/3月7日.md "wikilink")、8日の本多の森ホールでの公演が延期となった\[50\]\[51\]。
-  - [3月7日](../Page/3月7日.md "wikilink")、新型コロナウイルスの終息が見通せない為、3月の公演を全て延期にすることが発表された\[52\]。
-  - [4月15日](../Page/4月15日.md "wikilink")、新曲「Make a vow」の無料配信が決定。それに先駆け、SLAVE会員限定で公開\[53\]。
-  - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定。
+  - [3月7日](../Page/3月7日.md "wikilink")：新型コロナウイルスの終息が見通せない為、3月の公演を全て延期にすることが発表された\[52\]。
+  - [4月15日](../Page/4月15日.md "wikilink")：新曲「Make a vow」の無料配信が決定。それに先駆け、SLAVE会員限定で公開\[53\]。
+  - [4月23日](../Page/4月23日.md "wikilink")：LUNASEA official Instagramがオープン。
+  - [4月28日](../Page/4月28日.md "wikilink")：新曲「Make a vow」が、サブスクリプション配信スタート。同夜21時からMusic Videoが公式Youtubeで配信スタート予定。
+  - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定だったが延期となった。
 
 ## ディスコグラフィ
 
@@ -801,11 +804,33 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 #### 配信限定シングル
 
-| 発売日              | タイトル                                                                                   | 収録アルバム                                            |
-| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 2011年4月9日        | [PROMISE](https://ja.wikipedia.org/wiki/PROMISE_\(LUNA_SEAの曲\) "wikilink")             | LUNA SEA 25th Anniversary Ultimate Best -THE ONE- |
-| 2019年9月6日        | [BEYOND THE TIME ～メビウスの宇宙を越えて～](../Page/BEYOND_THE_TIME_\(メビウスの宇宙を越えて\).md "wikilink") | CROSS                                             |
-| 2020年4月15日\[54\] | Make a vow                                                                             |                                                   |
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録アルバム</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2011年4月9日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PROMISE_(LUNA_SEAの曲)" title="wikilink">PROMISE</a></p></td>
+<td><p>LUNA SEA 25th Anniversary Ultimate Best -THE ONE-</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月6日</p></td>
+<td><p><a href="../Page/BEYOND_THE_TIME_(メビウスの宇宙を越えて).md" title="wikilink">BEYOND THE TIME ～メビウスの宇宙を越えて～</a></p></td>
+<td><p>CROSS</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年4月15日[54]<br />
+2020年4月28日</p></td>
+<td><p>Make a vow</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### ライブ会場内限定販売シングル
 
@@ -3015,7 +3040,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <div class="NavContent" style="text-align:left">
 <p>2月1日 三郷市文化会館<br />
 2月2日 三郷市文化会館<br />
-(新型コロナウイルスの影響で延期)<br />
+<br />
 <del>2月27日 宇都宮市文化会館大ホール<br />
 2月28日 宇都宮市文化会館大ホール<br />
 3月7日 本多の森ホール(旧石川厚生年金会館)<br />
@@ -3039,7 +3064,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 5月9日 札幌文化芸術劇場 hitaru<br />
 5月10日 札幌文化芸術劇場 hitaru<br />
 5月14日 名古屋国際会議場 センチュリーホール<br />
-5月15日 名古屋国際会議場 センチュリーホール</del></p>
+5月15日 名古屋国際会議場 センチュリーホール</del> [97]</p>
 </div>
 </div></td>
 </tr>
@@ -3051,11 +3076,11 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>追加公演</p></td>
-<td><p><small>LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL</p></td>
-<td><p>5月29日 <a href="https://ja.wikipedia.org/wiki/東京ガーデンシアター" title="wikilink">東京ガーデンシアター</a><br />
+<td><p><del>追加公演</del></p></td>
+<td><p><del><small>LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL</del></p></td>
+<td><p><del>5月29日 <a href="https://ja.wikipedia.org/wiki/東京ガーデンシアター" title="wikilink">東京ガーデンシアター</a><br />
 5月30日 東京ガーデンシアター<br />
-5月31日 東京ガーデンシアター</p></td>
+5月31日 東京ガーデンシアター</del> [98]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3369,3 +3394,5 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 94.
 95. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
 96.
+97. 新型コロナウイルスの影響で延期
+98. 新型コロナウイルスの影響で延期

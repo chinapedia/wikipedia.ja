@@ -42,7 +42,7 @@
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a><br />
 <a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>テレビ大分<br />
 <a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
@@ -78,7 +78,7 @@
 <tr class="odd">
 <td><p><del>5</del></p></td>
 <td><p>D031(3)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p><del>8</del></p></td>
@@ -163,7 +163,7 @@
 <tr class="even">
 <td></td>
 <td><p>BS211</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11デジタル</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11デジタル</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

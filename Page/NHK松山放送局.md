@@ -409,7 +409,7 @@
 
 ### アナウンサー
 
-  - 氏名の後の\*印は過去に松山放送局勤務経験あり。
+  - 氏名の後の\*印は過去に松山放送局勤務経験あり。前任地が太字は初任地。
 
 <table>
 <thead>
@@ -449,7 +449,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/小野文明" title="wikilink">小野文明</a></p></td>
-<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td><p><strong><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></strong></p></td>
 <td><p><a href="../Page/ギュッと!四国.md" title="wikilink">ギュッと!四国</a><br />
 （キャスター）</p></td>
 <td></td>
@@ -564,7 +564,8 @@
 </tr>
 <tr class="odd">
 <td><p>岸本南奈</p></td>
-<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a><br />
+（契約キャスター）</p></td>
 <td><p>ひめポン!<br />
 （サブキャスター）</p></td>
 <td></td>
@@ -596,7 +597,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/丹友美.md" title="wikilink">丹友美</a></p></td>
-<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a><br />
+（契約キャスター）</p></td>
 <td><p>ひめポン!（リポーター）</p></td>
 <td></td>
 </tr>

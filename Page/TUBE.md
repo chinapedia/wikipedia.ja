@@ -2049,8 +2049,7 @@ in Aloha Stadium</strong></p></td>
 <td><p>2000年8月12日-<br />
 2000年8月29日</p></td>
 <td><p><strong>JAPAN TELECOM<br />
-TUBE LIVE AROUND SPECIAL 2000<br />
-LANI KAI</strong></p></td>
+TUBE LIVE AROUND SPECIAL 2000</strong> <strong>Lani Kai</strong></p></td>
 <td><p>全3会場・3公演<br />
 ナゴヤ球場、横浜スタジアム、阪神甲子園球場</p></td>
 <td></td>

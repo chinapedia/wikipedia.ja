@@ -25,7 +25,7 @@
 
 アダルトゲームに関してはDVDPGが広く定着していたためもあって長らく開発されなかったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")には[mintsより](../Page/ミルキーレーベル.md "wikilink")『[After... BDPG](../Page/After....md "wikilink")』と『[真章 幻夢館 BDPG](https://ja.wikipedia.org/wiki/真章_幻夢館 "wikilink")』がアダルトゲーム初のBDPGとして同時発売された。これらには、DVDPG版では不可能だったセーブ機能なども実装されている。
 
-アダルトゲームメーカーの[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")は、『あそべる\!BD-GAME』シリーズ第1弾として『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』など6タイトルを2011年12月16日に発売した。 あそBDの動作環境\[3\]にもあるように、[PowerDVD](../Page/PowerDVD.md "wikilink")等のPCソフトでもプレイ可能である。 しかし、\[4\]を見る限りセーブデータを作成する為にBD-Live(ネット接続は不要)にソフトが対応しているのも必要と思われる。
+アダルトゲームメーカーの[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")は、『あそべる\!BD-GAME』シリーズ第1弾として『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』など6タイトルを2011年12月16日に発売した。 あそBDの動作環境\[3\]にもあるように、PCでは[PowerDVD](../Page/PowerDVD.md "wikilink")11以降や[TotalMedia_Theatre](https://ja.wikipedia.org/wiki/TotalMedia_Theatre "wikilink")でプレイ可能である。 しかし、\[4\]を見る限りセーブデータを作成する為にBD-Live(ネット接続は不要)にソフトが対応しているのも必要と思われる。
 
 ## 現状
 
@@ -43,7 +43,7 @@ PC版ではDVD-ROM1枚に収録されている作品が多いのに対し、DVDP
 
 DVDPGの延長線として、[PSP用に](../Page/PlayStation_Portable.md "wikilink")[UMDを用いた](../Page/ユニバーサル・メディア・ディスク.md "wikilink")**UMDPG**も[2005年](../Page/2005年.md "wikilink")以降に登場している。UMD自体は一般規格であるが、現状ではUMDを再生可能な機器がPSP（PSP-1000/2000/3000型）しかないため、UMDPGは事実上「PSP用アダルトゲーム」となっていた。
 
-レインソフトウェアなど他社は共同でPalaceを立ち上げ意欲的にUMDPGを販売していた。また、UMDPGのほとんどは18禁であるが、JIN企画のオリジナル作品は（[CEROやソフ倫などから審査は受けておらず](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")）、[自主規制](../Page/自主規制.md "wikilink")の一環として「15歳〜18歳以上推奨」となっていた。
+レインソフトウェアなど他社は共同でPalaceを立ち上げ意欲的にUMDPGを販売していた。また、UMDPGのほとんどは18禁であるが、JIN企画のオリジナル作品は（[CEROやソフ倫などから審査は受けておらず](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")）、[自主規制](../Page/自主規制.md "wikilink")の一環として「15歳〜18歳以上推奨」となっていた。
 
 ## Players Gameメーカー一覧
 

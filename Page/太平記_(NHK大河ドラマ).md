@@ -445,11 +445,23 @@
   - 乙夜叉
     演：[中島啓江](../Page/中島啓江.md "wikilink")
     花夜叉一座の一員
+  - 木斎
+    演：[丹治靖之](https://ja.wikipedia.org/wiki/丹治靖之 "wikilink")
+    花夜叉一座の一員
+  - 歌夜叉
+    演：[平吉佐千子](https://ja.wikipedia.org/wiki/平吉佐千子 "wikilink")
+    花夜叉一座の一員
   - 大男
     演：[ストロング金剛](https://ja.wikipedia.org/wiki/ストロング金剛 "wikilink")
     花夜叉一座の一員
   - 小男
     演：[Mr.オクレ](../Page/Mr.オクレ.md "wikilink")
+    花夜叉一座の一員
+  - 猿回し
+    演：[佐藤信一](../Page/佐藤信一.md "wikilink")
+    花夜叉一座の一員
+  - 子夜叉
+    演：[楠野紋子](https://ja.wikipedia.org/wiki/楠野紋子 "wikilink")
     花夜叉一座の一員
   - [服部清次](../Page/観阿弥.md "wikilink")
     演：[西岡秀記](https://ja.wikipedia.org/wiki/西岡秀記 "wikilink")
@@ -570,7 +582,7 @@
 <td><p>1月27日</p></td>
 <td><p>帝 ご謀反</p></td>
 <td><p>田中賢二</p></td>
-<td></td>
+<td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><a href="../Page/伊吹山.md" title="wikilink">伊吹山</a>麓</p></td>
 <td><p>31.0%</p></td>
 <td></td>
 </tr>

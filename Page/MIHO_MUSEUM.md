@@ -48,7 +48,7 @@
 
 ## 交通アクセス
 
-  - [JR](../Page/西日本旅客鉄道.md "wikilink")[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")([琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink"))[石山駅](https://ja.wikipedia.org/wiki/石山駅 "wikilink")から[帝産湖南交通](../Page/帝産湖南交通.md "wikilink")MIHO MUSEUM行きで50分
+  - [JR](../Page/西日本旅客鉄道.md "wikilink")[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")([琵琶湖線](../Page/琵琶湖線.md "wikilink"))[石山駅](https://ja.wikipedia.org/wiki/石山駅 "wikilink")から[帝産湖南交通](../Page/帝産湖南交通.md "wikilink")MIHO MUSEUM行きで50分
 
 ## その他
 

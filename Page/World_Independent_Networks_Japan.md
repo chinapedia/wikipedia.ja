@@ -76,7 +76,7 @@ BSデジタル放送でのテレビ放送新チャンネル参入容認など総
 
 [Category:委託放送事業者](https://ja.wikipedia.org/wiki/Category:委託放送事業者 "wikilink") [Category:日本のラジオ局](https://ja.wikipedia.org/wiki/Category:日本のラジオ局 "wikilink") [Category:日本のBSラジオ放送](https://ja.wikipedia.org/wiki/Category:日本のBSラジオ放送 "wikilink") [Category:廃止になった放送局](https://ja.wikipedia.org/wiki/Category:廃止になった放送局 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:かつて存在した日本の放送事業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の放送事業者 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:2007年廃止の企業](https://ja.wikipedia.org/wiki/Category:2007年廃止の企業 "wikilink")
 
-1.  [日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（BS11）、[ワールド・ハイビジョン・チャンネル](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")（TwellV）、[スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")（ハイビジョン化）。この3社は[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にBSデジタルテレビ放送を開始した。
+1.  [日本BS放送](../Page/日本BS放送.md "wikilink")（BS11）、[ワールド・ハイビジョン・チャンネル](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")（TwellV）、[スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")（ハイビジョン化）。この3社は[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")にBSデジタルテレビ放送を開始した。
 2.
 3.
 4.  p.19（総務省電波監理審議会　第924回会長会見資料4　平成19年11月14日）

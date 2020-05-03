@@ -50,7 +50,7 @@ b-netというインターネット接続サービスも行っている。
 <a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a><br />
 <a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a><br />
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a><br />
 <a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>テレビ大分<br />
@@ -72,7 +72,7 @@ b-netというインターネット接続サービスも行っている。
 | ------ | ---------- | ------------------------------------------------------------------------------------------ |
 | ~~1~~  | D011-0（1）  | [NHK大分](../Page/NHK大分放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")             |
 | ~~2~~  | D021（2）    | NHK大分[Eテレ](../Page/NHK教育テレビジョン.md "wikilink")                                              |
-| ~~8~~  | D031（3）    | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")                                      |
+| ~~8~~  | D031（3）    | [大分放送](../Page/大分放送.md "wikilink")                                                         |
 | ~~9~~  | D041-0（4）  | [テレビ大分](../Page/テレビ大分.md "wikilink")                                                       |
 | ~~5~~  | D051-0（5）  | [大分朝日放送](../Page/大分朝日放送.md "wikilink")                                                     |
 | ~~4~~  | D011-1（6）  | [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")                                  |
@@ -91,7 +91,7 @@ b-netというインターネット接続サービスも行っている。
 |        | BS181      | [BSフジ](../Page/BSフジ.md "wikilink")                                                         |
 |        | BS191      | [WOWOW](../Page/WOWOW.md "wikilink")                                                       |
 |        | BS200      | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")BS                                             |
-|        | BS211      | [BS11デジタル](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                |
+|        | BS211      | [BS11デジタル](../Page/日本BS放送.md "wikilink")                                                   |
 |        | BS222      | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                          |
 |        | BS231      | [放送大学BSテレビ](../Page/放送大学学園.md "wikilink")                                                  |
 |        | BS910      | [ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")                              |

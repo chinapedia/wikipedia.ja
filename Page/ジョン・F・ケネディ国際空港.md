@@ -19,6 +19,8 @@
 
 日本では通称「JFK」とされているが、現地ではJFK AirportもしくはKennedy Airportといわないと通じないことが多い（単にJFKではなく）。
 
+2020年4月28日から当面、新型コロナウィルス/COVID-19対策として、各ターミナル入館は空港施設職員、航空会社職員、および搭乗者のみに限定され、また、マスク着用が義務づけられている（館内での見送りや出迎え不可）。
+
 ## 歴史
 
   - [1942年](../Page/1942年.md "wikilink")：アイドルワイルド・[ゴルフ](../Page/ゴルフ.md "wikilink")コースの一部を空港に転用。当初は4平方キロメートルしかなかったが、後に航空機産業の活性化に伴い16平方キロメートルが追加される。
@@ -29,12 +31,12 @@
   - [1976年](../Page/1976年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")：パンアメリカン航空のボーイング747SPで ニューヨーク - [東京](../Page/東京.md "wikilink")(当時は羽田空港)ノンストップ便が就航する。
   - [1976年](../Page/1976年.md "wikilink")：[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")と[エールフランス](../Page/エールフランス.md "wikilink")によって大西洋上を超音速で飛行する[コンコルド](../Page/コンコルド.md "wikilink")の運航を開始。[2003年](../Page/2003年.md "wikilink")まで続いた
   - [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")：[9.11テロの直後](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、最も早く一時閉鎖される。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月1日と3日：[エミレーツ航空](../Page/エミレーツ航空.md "wikilink")により世界最大の旅客機[エアバスA380](https://ja.wikipedia.org/wiki/エアバスA380 "wikilink")がドバイ - ニューヨーク間においてお披露目となるフライトが行われる。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月1日と3日：[エミレーツ航空](../Page/エミレーツ航空.md "wikilink")により世界最大の旅客機[エアバスA380](../Page/エアバスA380.md "wikilink")がドバイ - ニューヨーク間においてお披露目となるフライトが行われる。
   - 2008年8月8日：ドバイ - ニューヨーク間でニューヨーク行EK201便([水](../Page/水曜日.md "wikilink")・[金](../Page/金曜日.md "wikilink")・[日曜日](../Page/日曜日.md "wikilink")運航)とドバイ行EK202便（水・金・日曜日運航）の往復便として、エアバスA380の商業飛行が開始された。アメリカ大陸では初の乗り入れ空港となった。しかし、2009年3月、採算の悪化を受け、エアバスA380による運航の撤退を決定し、ボーイング777-300ERに変更されたが他社のA380型機が軌道に乗り始めたことや同空港に乗り入れを開始したことで再度A380の乗り入れを開始した(以降欧州便が対象である)。
 
 ### B747SP誕生のきっかけとなった空港
 
-当時パンアメリカン航空の本拠地であったこの空港は、[ロンドン](../Page/ロンドン.md "wikilink")・[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")・[ローマ](../Page/ローマ.md "wikilink")からはノンストップで行けるのに対し、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")からのアクセスは747就航後でも[アンカレジ](https://ja.wikipedia.org/wiki/アンカレジ "wikilink")または[ホノルル](../Page/ホノルル.md "wikilink")・[シアトル](../Page/シアトル.md "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")を経由する必要があった。そこで、極東からJFKまでの無着陸飛行のためにボーイング社が開発したのが超長距離用747SPである。1976年4月25日、パンアメリカン航空により、世界で初めて同空港から日本（到着地は、[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")）への無着陸直行便が就航した。
+当時パンアメリカン航空の本拠地であったこの空港は、[ロンドン](../Page/ロンドン・ヒースロー空港.md "wikilink")・[パリ](../Page/パリ＝シャルル・ド・ゴール空港.md "wikilink")・[ローマからはノンストップで行けるのに対し](../Page/フィウミチーノ空港.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")からのアクセスは747就航後でも[アンカレジまたは](../Page/テッド・スティーブンス・アンカレッジ国際空港.md "wikilink")[ホノルル](../Page/ダニエル・K・イノウエ国際空港.md "wikilink")・[シアトル](../Page/シアトル・タコマ国際空港.md "wikilink")・[ロサンゼルスを経由する必要があった](../Page/ロサンゼルス国際空港.md "wikilink")。そこで、極東からJFKまでの無着陸飛行のためにボーイング社が開発したのが超長距離用747SPである。1976年4月25日、パンアメリカン航空により、世界で初めて同空港から[東京への無着陸直行便が就航した](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。
 
 ## 構造と機能
 
@@ -68,11 +70,7 @@
 
 ### 第7ターミナル
 
-[JFK_Terminal_7.JPG](https://ja.wikipedia.org/wiki/File:JFK_Terminal_7.JPG "fig:JFK_Terminal_7.JPG") 当初、[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")のターミナルとして[1970年](../Page/1970年.md "wikilink")に完成した。[1991年](../Page/1991年.md "wikilink")・[2003年](../Page/2003年.md "wikilink")・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にそれぞれ改装された。ゲート数は20。2017年8月現在、改装作業が進められており、2018年末に完了予定である。
-
-ブリティッシュ・エアウェイズは[ヒースロー空港](https://ja.wikipedia.org/wiki/ヒースロー空港 "wikilink")とジョン・F・ケネディ国際空港に[コンコルド](../Page/コンコルド.md "wikilink")搭乗客専用の[空港ラウンジ](../Page/空港ラウンジ.md "wikilink")『コンコルド・ルーム』を用意していた。現在は[ファーストクラス](../Page/ファーストクラス.md "wikilink")専用ラウンジとして利用されている\[1\]。
-
-当ターミナルを使用していたユナイテッド航空は、2015年10月24日をもって、当空港における全てのサービスを終了し、[ニューアーク・リバティー国際空港](../Page/ニューアーク・リバティー国際空港.md "wikilink")に移転した\[2\]。
+[JFK_Terminal_7.JPG](https://ja.wikipedia.org/wiki/File:JFK_Terminal_7.JPG "fig:JFK_Terminal_7.JPG") 当初、[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")のターミナルとして[1970年](../Page/1970年.md "wikilink")に完成した。[1991年](../Page/1991年.md "wikilink")・[2003年](../Page/2003年.md "wikilink")・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にそれぞれ改装された。ゲート数は20。[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")のラウンジ（ANAが利用提携）と[アラスカ航空](../Page/アラスカ航空.md "wikilink")のラウンジが併設されている。
 
 ### 第8ターミナル
 
@@ -318,7 +316,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Airtrain_jfk.jpg "wikilink")
 
-1998年から高速軽軌道システム「エアトレイン」の[建設](../Page/建設.md "wikilink")が始まった。2001年の[9.11テロの影響で当初の計画を大幅に縮小し](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、予定より1年遅れの2003年12月17日に開業した。ケネディ空港内の各ターミナルや、[駐車場](../Page/駐車場.md "wikilink")、[レンタカー](../Page/レンタカー.md "wikilink")[会社](../Page/会社.md "wikilink")のオフィスなどを結び、[地下鉄A線のハワードビーチ駅行き](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄A系統 "wikilink")、[地下鉄E,J,Z線の](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")[Sutphin Boulevard駅](https://ja.wikipedia.org/wiki/サットフィン・ブールバード-アーチャー・アベニュー-JFKエアポート駅 "wikilink")／[ロングアイランド鉄道](../Page/ロングアイランド鉄道.md "wikilink")の[ジャマイカ駅行き](https://ja.wikipedia.org/wiki/ジャマイカ駅_\(ニューヨーク\) "wikilink")、そして空港内環状線（ターミナル１→３→4・・8→1の順の一方運行）の三つの運行系統がある。ターミナル間の移動は無料、地下鉄接続駅利用の際は[運賃](../Page/運賃.md "wikilink")7.50ドル\[3\]がかかる。
+1998年から高速軽軌道システム「エアトレイン」の[建設](../Page/建設.md "wikilink")が始まった。2001年の[9.11テロの影響で当初の計画を大幅に縮小し](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")、予定より1年遅れの2003年12月17日に開業した。ケネディ空港内の各ターミナルや、[駐車場](../Page/駐車場.md "wikilink")、[レンタカー](../Page/レンタカー.md "wikilink")[会社](../Page/会社.md "wikilink")のオフィスなどを結び、[地下鉄A線のハワードビーチ駅行き](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄A系統 "wikilink")、[地下鉄E,J,Z線の](https://ja.wikipedia.org/wiki/ニューヨーク市地下鉄E系統 "wikilink")[Sutphin Boulevard駅](https://ja.wikipedia.org/wiki/サットフィン・ブールバード-アーチャー・アベニュー-JFKエアポート駅 "wikilink")／[ロングアイランド鉄道](../Page/ロングアイランド鉄道.md "wikilink")の[ジャマイカ駅行き](https://ja.wikipedia.org/wiki/ジャマイカ駅_\(ニューヨーク\) "wikilink")、そして空港内環状線（ターミナル１→３→4・・8→1の順の一方運行）の三つの運行系統がある。ターミナル間の移動は無料、地下鉄接続駅利用の際は[運賃](../Page/運賃.md "wikilink")7.50ドル\[1\]がかかる。
 
 エアトレインを計画建設したのは、ニューヨークの空港を管理運営するニューヨーク・ニュージャージー港湾公社だが、同公社は崩壊した[ワールドトレードセンターをはじめ](../Page/ワールドトレードセンター_\(ニューヨーク\).md "wikilink")、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")被害により一部使用が不能になった[パストレイン](../Page/パストレイン.md "wikilink")や、被災現場に近いことから通行規制が1年近く続いた[ホランドトンネルなども運営しており](https://ja.wikipedia.org/wiki/ホランド・トンネル "wikilink")、これらの施設からの[賃貸](../Page/賃貸.md "wikilink")料、運賃、通行料などが途絶えたことや、観光客の激減で定期便のキャンセルが相次ぎ空港発着料をはじめとするさまざまな空港関連[収益](../Page/収益.md "wikilink")が減少したことで、深刻な[財政](../Page/財政.md "wikilink")難に直面することになった。そのため当初計画されていたジャマイカ駅から[ラガーディア空港](../Page/ラガーディア空港.md "wikilink")を経由してマンハッタンの三番街59丁目通りの新駅に至る2期[工事](https://ja.wikipedia.org/wiki/工事 "wikilink")は中止となってしまった。
 
@@ -340,7 +338,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 ## 事件
 
-  - [アップルは](../Page/アップル_\(企業\).md "wikilink")[2012年](../Page/2012年.md "wikilink")に発売を開始した[iPad miniについて](https://ja.wikipedia.org/wiki/iPad_mini "wikilink")、[中国から到着した約](../Page/中華人民共和国.md "wikilink")3,600台（約150万ドル相当）を、発送のため同空港の貨物ビル内に保管していたが、[11月12日](../Page/11月12日.md "wikilink")[深夜](../Page/深夜.md "wikilink")（[東部標準時](../Page/東部標準時.md "wikilink")）に、全て盗まれているのが発見された。事件の舞台となった貨物ビルは、[映画](../Page/映画.md "wikilink")「[グッドフェローズ](../Page/グッドフェローズ.md "wikilink")」のモデルとなった[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[現金](../Page/現金.md "wikilink")[強奪](../Page/強奪.md "wikilink")事件が発生した場所でもある\[4\]。
+  - [アップルは](../Page/アップル_\(企業\).md "wikilink")[2012年](../Page/2012年.md "wikilink")に発売を開始した[iPad miniについて](https://ja.wikipedia.org/wiki/iPad_mini "wikilink")、[中国から到着した約](../Page/中華人民共和国.md "wikilink")3,600台（約150万ドル相当）を、発送のため同空港の貨物ビル内に保管していたが、[11月12日](../Page/11月12日.md "wikilink")[深夜](../Page/深夜.md "wikilink")（[東部標準時](../Page/東部標準時.md "wikilink")）に、全て盗まれているのが発見された。事件の舞台となった貨物ビルは、[映画](../Page/映画.md "wikilink")「[グッドフェローズ](../Page/グッドフェローズ.md "wikilink")」のモデルとなった[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[現金](../Page/現金.md "wikilink")[強奪](../Page/強奪.md "wikilink")事件が発生した場所でもある\[2\]。
 
 ## 脚注
 
@@ -365,7 +363,5 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 [Category:ジョン・F・ケネディ国際空港](https://ja.wikipedia.org/wiki/Category:ジョン・F・ケネディ国際空港 "wikilink") [Category:ニューヨーク州の空港](https://ja.wikipedia.org/wiki/Category:ニューヨーク州の空港 "wikilink") [Category:ニューヨーク市の交通](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の交通 "wikilink") [Category:ニューヨーク市の航空](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の航空 "wikilink") [Category:ニューヨーク市の観光](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の観光 "wikilink") [Category:クイーンズ](https://ja.wikipedia.org/wiki/Category:クイーンズ "wikilink") [Category:クラスBの空港](https://ja.wikipedia.org/wiki/Category:クラスBの空港 "wikilink") [Category:人名空港](https://ja.wikipedia.org/wiki/Category:人名空港 "wikilink") [Category:ジョン・F・ケネディ](https://ja.wikipedia.org/wiki/Category:ジョン・F・ケネディ "wikilink") [Category:ニューヨーク＝ニュージャージー港湾公社](https://ja.wikipedia.org/wiki/Category:ニューヨーク＝ニュージャージー港湾公社 "wikilink")
 
-1.  [Firstラウンジ](http://www.britishairways.com/ja-jp/information/lounges/first-lounges) - ブリティッシュ・エアウェイズ
-2.
-3.
-4.  [アイパッドミニ３６００台盗難…ＪＦＫ国際空港](http://www.yomiuri.co.jp/world/news/20121116-OYT1T00470.htm) 読売新聞 2012年11月16日
+1.
+2.  [アイパッドミニ３６００台盗難…ＪＦＫ国際空港](http://www.yomiuri.co.jp/world/news/20121116-OYT1T00470.htm) 読売新聞 2012年11月16日

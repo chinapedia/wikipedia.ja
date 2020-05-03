@@ -1454,7 +1454,7 @@ tae</p></td>
 <li>Sadowsky NYC Vintage 4</li>
 <li>Sadowsky NYC Vintage 5</li>
 <li>Sadowsky NYC Vintage S-Style</li>
-<li><a href="https://ja.wikipedia.org/wiki/VOX" title="wikilink">VOX</a> PHANTOM IV</li>
+<li><a href="../Page/ヴォックス_(楽器メーカー).md" title="wikilink">VOX</a> PHANTOM IV</li>
 <li>VOX DELTA IV</li>
 <li>VOX PANTHER</li>
 <li><a href="../Page/ギブソン_(楽器メーカー).md" title="wikilink">Gibson</a> V-BASS</li>
@@ -1611,9 +1611,9 @@ tae</p></td>
 ### エピソード
 
   - 中学時代は帰宅部だった。理由は所謂、体育会系のノリ（年功序列、汗かいた時に水を飲んではダメ等）が嫌だったため。逆に、昔に比べると緩くなった現在のような状態の方が好きだと語っている\[75\]。そのため当時は家に帰り、夕方のドラマの[再放送](../Page/再放送.md "wikilink")をよく見ていたと述べている。
-  - 事務所に所属する前のアマチュアの頃は、自宅のワンルームに電話回線を別に引き[私書箱](../Page/私書箱.md "wikilink")を借りて、自身でバンドのマネジメントを行っていた\[76\]。tetsuya本人がスタッフのふりをし、ライブのブッキング等を行っていた\[77\]。
-  - 「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」や「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の[コーラスなどから判るように](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、音域はかなり高い。4thアルバム『[True](https://ja.wikipedia.org/wiki/True "wikilink")』に収録されている「[Dearest Love](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」では、高音の[ファルセット](../Page/ファルセット.md "wikilink")コーラスを聴くことが出来る（最高音はhihiA）。L'Arc〜en〜Cielのレコーディングでtetsuyaのコーラスが使い始められたのは、[1996年](../Page/1996年.md "wikilink")発売のシングル「[風にきえないで](../Page/風にきえないで.md "wikilink")」以降で、それ以前は、[CD](../Page/コンパクトディスク.md "wikilink")[音源](../Page/音源.md "wikilink")のコーラスはhydeが担当していた。
-  - L'Arc〜en〜Cielの[ライヴ](https://ja.wikipedia.org/wiki/ライヴ "wikilink")では「俺のバナナが食べたいかー\!」と言って[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")を客席に投げるのが恒例になっている。投げられるバナナには、tetsuya考案のオリジナルキャラクターMUKIMPO（ムキンポ）の[ステッカーが貼られている](../Page/シール.md "wikilink")。バナナ以外では[マンゴー](../Page/マンゴー.md "wikilink")、[ズッキーニ](../Page/ズッキーニ.md "wikilink")、[茄子](../Page/ナス.md "wikilink")、[ニンジン](../Page/ニンジン.md "wikilink")、[エリンギ](../Page/エリンギ.md "wikilink")、時には[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")型の[ビーチボール](https://ja.wikipedia.org/wiki/ビーチボール "wikilink")を投げたこともある。
+  - 事務所に所属する前のアマチュアの頃は、自宅のワンルームに電話回線を別に引き[私書箱](../Page/私書箱.md "wikilink")を借り、「L'Arc〜en〜Ciel コンタクト」という名でバンドのマネジメントを自身の手で行っていた\[76\]。tetsuya本人がスタッフのふりをして電話応対し、ライブのブッキング等を行っていた\[77\]。後に所属することとなるデンジャークルー（現：[マーヴェリック・ディー・シー・グループ](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")）とのやり取りもtetsuya自身が行っており、事務所代表の大石征裕は「その頃から"バンドを自分たちで運営する"という体制作りのことをちゃんと考えていたのだと思う\[78\]」と述べている。また、[ブランディング](https://ja.wikipedia.org/wiki/ブランディング "wikilink")の観点から、自作したライブのチラシやフライヤーをバンドのメンバーが直接配布することは避けていたという\[79\]。
+  - 「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」や「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の[コーラスワークなどから判るように](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、音域はかなり高い。4thアルバム『[True](https://ja.wikipedia.org/wiki/True "wikilink")』に収録されている「[Dearest Love](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」では、高音の[ファルセット](../Page/ファルセット.md "wikilink")コーラスを聴くことが出来る（最高音はhihiA）。L'Arc〜en〜Cielのレコーディングでtetsuyaのコーラスが使い始められたのは、[1996年](../Page/1996年.md "wikilink")発売のシングル「[風にきえないで](../Page/風にきえないで.md "wikilink")」以降で、それ以前は、[CD](../Page/コンパクトディスク.md "wikilink")[音源](../Page/音源.md "wikilink")のコーラスはhydeが担当していた。
+  - L'Arc〜en〜Cielの[ライヴ](https://ja.wikipedia.org/wiki/ライヴ "wikilink")のMCでは「俺のバナナが食べたいかー\!」と言って[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")を客席に投げるパフォーマンスが恒例になっている。投げられるバナナには、tetsuya考案のオリジナルキャラクター「MUKIMPO（読み：ムキンポ）」の[ステッカーが貼られており](../Page/シール.md "wikilink")、キャラクターグッズもライブグッズとして販売されている。バナナ以外では[マンゴー](../Page/マンゴー.md "wikilink")、[ズッキーニ](../Page/ズッキーニ.md "wikilink")、[茄子](../Page/ナス.md "wikilink")、[ニンジン](../Page/ニンジン.md "wikilink")、[エリンギ](../Page/エリンギ.md "wikilink")、時には[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")型の[ビーチボール](https://ja.wikipedia.org/wiki/ビーチボール "wikilink")を投げたこともある。
   - 漫画家の[矢沢あい](../Page/矢沢あい.md "wikilink")と親交があり、『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』への参加の他に、漫画『[NANA](../Page/NANA.md "wikilink")』にも名前だけではあるが登場する。また、シングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl "wikilink")」では矢沢が作詞を担当している。
   - 私生活では2007年末に[酒井彩名](../Page/酒井彩名.md "wikilink")と結婚。酒井との間には2014年に長男、2016年に長女が誕生している。また、2歳ずつ年の離れた妹が2人いる。
 
@@ -1647,7 +1647,7 @@ tae</p></td>
   -
   - [TETSUYA Official YouTube Channel（UNIVERSAL MUSIC JAPAN）](https://www.youtube.com/channel/UCVxQ5KMi8t1gxTIsezag3DA) - 2019年開設
 
-  - [TETSUYA Official YouTube Channel（Sony Music）](https://www.youtube.com/user/tetsuyaSMEJ) - 2012年開設\[78\]
+  - [TETSUYA Official YouTube Channel（Sony Music）](https://www.youtube.com/user/tetsuyaSMEJ) - 2012年開設\[80\]
 
   - [TETSUYA Official VEVO Channel](https://www.youtube.com/user/TetsuyaVEVO)
 
@@ -1751,4 +1751,6 @@ tae</p></td>
 75. [NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")『[POP JAM](https://ja.wikipedia.org/wiki/POP_JAM "wikilink")』2005年5月20日放送回より
 76.
 77.
-78. [TETSUYA DVD発売を記念して、You Tube Official Channnel開設！](https://news.utamap.com/music/123632/)
+78. 『大石征裕 自伝 夢の船』、p.76-p.77、シンコーミュージック・エンタテイメント、2020年
+79. [L'Arc〜en〜Ciel バンド結成20年の歴史を振り返るメンバー4人ソロインタビュー](http://natalie.mu/music/pp/larcenciel/page/8) ナタリー
+80. [TETSUYA DVD発売を記念して、You Tube Official Channnel開設！](https://news.utamap.com/music/123632/)

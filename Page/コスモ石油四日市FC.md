@@ -13,7 +13,7 @@
 
 [1996年](../Page/1996年.md "wikilink")に将来の[Jリーグ参戦を念頭とし](../Page/日本プロサッカーリーグ.md "wikilink")、チーム名に本拠地[四日市市](../Page/四日市市.md "wikilink")を被せ「**コスモ石油四日市FC**」（通称、コスモ四日市）と改めた。同年の天皇杯では前年度覇者である[名古屋グランパスエイト](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")を1-0で破り存在感を示したが、四日市市がJリーグ支援に難色を示した上、スタジアムの整備も充分にできなかったことから同年を最後にチームは解散している。
 
-現在、同好会として三重県リーグ4部に存在はしているが強化の予定はまったくない。
+現在、同好会として三重県リーグ4部に存在はしているが強化の予定はまったくない。その一方で、コスモ石油は2018年7月に三重県を本拠地とするサッカーチームである[ヴィアティン三重](https://ja.wikipedia.org/wiki/ヴィアティン三重 "wikilink")とスポンサー契約を締結した\[1\]。
 
   - 本拠地
     [四日市中央緑地陸上競技場](https://ja.wikipedia.org/wiki/四日市中央緑地陸上競技場 "wikilink")、[三重県営鈴鹿スポーツガーデン](../Page/三重県営鈴鹿スポーツガーデン.md "wikilink")球技場。
@@ -109,3 +109,5 @@
 ## 脚注
 
 [Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:コスモ石油](https://ja.wikipedia.org/wiki/Category:コスモ石油 "wikilink") [Category:三重県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:三重県のスポーツチーム "wikilink") [Category:四日市市の歴史](https://ja.wikipedia.org/wiki/Category:四日市市の歴史 "wikilink") [Category:四日市市のスポーツ](https://ja.wikipedia.org/wiki/Category:四日市市のスポーツ "wikilink") [Category:三重県のスポーツ史](https://ja.wikipedia.org/wiki/Category:三重県のスポーツ史 "wikilink")
+
+1.  [コスモ石油株式会社様　2018オフィシャルクラブスポンサー決定](http://www.veertien.jp/fc/news_all/club/18078)（ヴィアティン三重公式サイト 2018年7月31日閲覧）

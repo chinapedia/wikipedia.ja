@@ -28,6 +28,8 @@
   - [分子インプリント法](https://ja.wikipedia.org/wiki/分子インプリント法 "wikilink") ()
   - [心筋梗塞](../Page/心筋梗塞.md "wikilink") ()
   - [僧帽弁閉鎖不全](../Page/僧帽弁閉鎖不全.md "wikilink")〔症〕（mitral insufficiency）\[1\]
+  - [マテリアルズ・インフォマティクス](https://ja.wikipedia.org/wiki/:en:materials_informatics "wikilink")（materials informatics）
+  - マテリアルズ・インテグレーション（materials integration）
 
 ### その他
 

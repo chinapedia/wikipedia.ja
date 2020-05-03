@@ -43,5 +43,5 @@
   - [平成10年アイドリング規制に適合した乗車定員](https://ja.wikipedia.org/wiki/1998年 "wikilink")10名以下の[乗用車](../Page/乗用車.md "wikilink")を意味する記号。車両型式の前に付与（例：GF-[JZX100](../Page/トヨタ・マークII.md "wikilink")）。
   - [漁船](../Page/漁船.md "wikilink")の登録番号において[岐阜県](../Page/岐阜県.md "wikilink")を表す識別標（漁船法施行規則13条・付録第二）
   - 自動車の[ナンバープレートで](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、[国際ナンバー](../Page/国際ナンバー.md "wikilink")につけられる地名のひとつ。日本の地名の「岐」にあたる。
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")のコールサイン「JO**GF**-DTV」
+  - [大分放送](../Page/大分放送.md "wikilink")のコールサイン「JO**GF**-DTV」
   - [ガルフ・エア](../Page/ガルフ・エア.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")

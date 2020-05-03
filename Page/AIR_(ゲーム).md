@@ -17,7 +17,7 @@
 
 [Windows用ゲームとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")2000年9月8日に18禁初回版が、2001年[7月19日](../Page/7月19日.md "wikilink")に18禁通常版が、7月27日に[全年齢対象](../Page/全年齢対象.md "wikilink")版が発売された。また、2005年4月8日に全年齢対象版に含まれたイベント[CGを追加したWindows用](../Page/コンピュータグラフィックス.md "wikilink")[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")『AIR Standard Edition』（18禁）が発売された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月28日](../Page/5月28日.md "wikilink")には、Windows VistaとWindows 7への対応版（全年齢対象）が『AIR メモリアルエディション全年齢対象版』の名称で発売された。
 
-前作『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』と同様に少年少女の恋愛劇に不可思議要素を絡めたアドベンチャーゲームであり、シナリオが感動に特化した[泣きゲー](../Page/泣きゲー.md "wikilink")として支持を集め\[1\]\[2\]、2000年度の年間セールスで10万本を超える大ヒットとなった\[3\]。家庭用版のみヒロインの声が付き、更にPS2版以降主人公に声が付いている。 コンシューマー機への移植では2001年9月20日にドリームキャスト版（全年齢対象）、2002年8月8日にPlayStation 2版（全年齢対象）が発売された。2005年9月1日には、PlayStation 2用ベスト版（[廉価版](../Page/廉価版.md "wikilink")、[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象）が発売された。[プロトタイプより](../Page/プロトタイプ_\(企業\).md "wikilink")[PSP版が](../Page/PlayStation_Portable.md "wikilink")2007年11月22日に発売された（[データインストール](https://ja.wikipedia.org/wiki/データインストール "wikilink")機能が搭載された、初のゲームとなった）。さらに[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3Gと](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けにも配信されている。発売時期は不明だが、ビジュアルアーツアプリポータルにて、Android向けの全年齢版AIRが発売された。値段はDREAM編、SUMMER,AIR編(共に音声あり）、セットの音声無しが800円、セットの音声ありが1,400円である。また、2013年[5月2日](../Page/5月2日.md "wikilink")にはAndroid18禁版（音声無し）とiOS全年齢版（リリース時は音声無し、のちアップデートでフルボイス対応）が発売された。iTunes App StoreやGoogle Playなどで購入できる。
+前作『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』と同様に少年少女の恋愛劇に不可思議要素を絡めたアドベンチャーゲームであり、シナリオが感動に特化した[泣きゲー](../Page/泣きゲー.md "wikilink")として支持を集め\[1\]\[2\]、2000年度の年間セールスで10万本を超える大ヒットとなった\[3\]。家庭用版のみヒロインの声が付き、更にPS2版以降主人公に声が付いている。 コンシューマー機への移植では2001年9月20日にドリームキャスト版（全年齢対象）、2002年8月8日にPlayStation 2版（全年齢対象）が発売された。2005年9月1日には、PlayStation 2用ベスト版（[廉価版](../Page/廉価版.md "wikilink")、[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が発売された。[プロトタイプより](../Page/プロトタイプ_\(企業\).md "wikilink")[PSP版が](../Page/PlayStation_Portable.md "wikilink")2007年11月22日に発売された（[データインストール](https://ja.wikipedia.org/wiki/データインストール "wikilink")機能が搭載された、初のゲームとなった）。さらに[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3Gと](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けにも配信されている。発売時期は不明だが、ビジュアルアーツアプリポータルにて、Android向けの全年齢版AIRが発売された。値段はDREAM編、SUMMER,AIR編(共に音声あり）、セットの音声無しが800円、セットの音声ありが1,400円である。また、2013年[5月2日](../Page/5月2日.md "wikilink")にはAndroid18禁版（音声無し）とiOS全年齢版（リリース時は音声無し、のちアップデートでフルボイス対応）が発売された。iTunes App StoreやGoogle Playなどで購入できる。
 
 発売以降しばらくはコンシューマ版への移植や各種アンソロジーコミック以外にはほとんどメディアミックス的展開がなされなかった。ファンによる同人活動も前作の『Kanon』と比較すると低調であったと更科修一郎は指摘している\[4\]\[5\]。しかしながら、発売後4年経過した[2004年](../Page/2004年.md "wikilink")になって、コミックの連載が開始された他、翌2005年には京都アニメーションによるTVアニメ化がなされ、[BS-iにて全](../Page/BS-TBS.md "wikilink")12話、総集編と特別編前後編が放送、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")による劇場映画化がなされた。このように長く間が空いたにもかかわらずメディアミックス展開されるのは、同手法が広まってからでは、特にゲームを大元にするものとしては稀なケースである。
 
@@ -183,6 +183,8 @@ TVアニメ版が[2005年](../Page/2005年.md "wikilink")[1月6日](../Page/1月
     作詞・作曲 - 麻枝准（Key） / 編曲 - 折戸伸治 / 歌 - Lia
 
 ### 各話リスト
+
+サブタイトルの日本語部分は[大和言葉](../Page/大和言葉.md "wikilink")で統一されている。
 
 <table>
 <thead>

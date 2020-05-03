@@ -101,6 +101,8 @@
 
 ## 関連項目
 
+  - [JR貨物EF500形電気機関車](../Page/JR貨物EF500形電気機関車.md "wikilink")、[JR貨物ED500形電気機関車](../Page/JR貨物ED500形電気機関車.md "wikilink") - EF200形と同時期に試作された、大出力の交流直流両用電気機関車。試作車のみで量産されず。
+
 [Category:日本貨物鉄道の電気機関車](https://ja.wikipedia.org/wiki/Category:日本貨物鉄道の電気機関車 "wikilink") [Category:日立製作所製の電気機関車](https://ja.wikipedia.org/wiki/Category:日立製作所製の電気機関車 "wikilink") [Category:1990年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1990年製の鉄道車両 "wikilink")
 
 1.  運転台構体には、9mm厚の鉄板が使用されている。

@@ -8,7 +8,7 @@
   - 前作「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」、「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」から7ヶ月ぶりの新曲となった。
   - タイトル曲「BE WITH YOU」は[フジテレビのドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[タブロイド](../Page/タブロイド_\(テレビドラマ\).md "wikilink")』主題歌。
   - 『[うたばん](../Page/うたばん.md "wikilink")』（[1999年](../Page/1999年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")放送）によれば、この曲は西日本で人気があったという。
-  - UNLIMITED RECORDSで発売された最初の作品(アルバム『[pure soul](https://ja.wikipedia.org/wiki/pure_soul "wikilink")』までは[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")からの発売だった)。なお、ポリドールとの契約自体は翌[1999年](../Page/1999年.md "wikilink")にレーベルの販売権が[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移行するまで継続していた。
+  - UNLIMITED RECORDSで発売された最初の作品(アルバム『[pure soul](https://ja.wikipedia.org/wiki/pure_soul "wikilink")』までは[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")からの発売だった)。なお、ポリドールとの契約自体は翌[1999年](../Page/1999年.md "wikilink")にレーベルの販売権が[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移行するまで継続していた。
 
 ## 収録曲
 

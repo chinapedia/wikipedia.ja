@@ -9,7 +9,7 @@
 2.  紅白→[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
 3.  エンタの→[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
 4.  フレンドパーク→[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
-5.  Hey Hey→[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+5.  Hey Hey→[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 6.  ステーション→[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")、[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
 7.  …に泊まろう\!→[田舎に泊まろう\!](../Page/田舎に泊まろう!.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
 

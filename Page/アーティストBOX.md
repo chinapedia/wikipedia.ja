@@ -171,7 +171,7 @@
 | [茨城県](../Page/茨城県.md "wikilink")                    | [茨城放送](../Page/茨城放送.md "wikilink")（IBS）                    | 日曜 12:00 - 13:00 | \[14\] |
 | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（CRT） | 日曜 22:00 - 23:00 |        |
 | [長野県](../Page/長野県.md "wikilink")                    | [信越放送](../Page/信越放送.md "wikilink")（SBC）                    | 土曜 17:35 - 17:45 |        |
-| [福井県](../Page/福井県.md "wikilink")                    | [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBC） | 月曜 18:35 - 19:00 | \[15\] |
+| [福井県](../Page/福井県.md "wikilink")                    | [福井放送](../Page/福井放送.md "wikilink")（FBC）                    | 月曜 18:35 - 19:00 | \[15\] |
 | [岐阜県](../Page/岐阜県.md "wikilink")                    | [ぎふチャン](../Page/岐阜放送ラジオ.md "wikilink")                     | 土曜 23:45 - 24:00 |        |
 | 近畿広域圏                                               | [ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC）                   | 火曜 23:30 - 24:00 | \[16\] |
 | [愛媛県](../Page/愛媛県.md "wikilink")                    | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB） | 日曜 17:00 - 17:15 | \[17\] |

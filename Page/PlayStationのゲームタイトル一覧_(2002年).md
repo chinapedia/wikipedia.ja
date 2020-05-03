@@ -53,7 +53,7 @@
   - 2月28日 [SLOT\!PRO4 〜大漁スペシャル〜](https://ja.wikipedia.org/wiki/SLOT!PRO4_〜大漁スペシャル〜 "wikilink")（CBC／日本テレネット）
   - 2月28日 [テニスの王子様](https://ja.wikipedia.org/wiki/テニスの王子様_\(ゲーム\) "wikilink")（コナミ）
   - 2月28日 [SHADOW AND SHADOW](https://ja.wikipedia.org/wiki/SHADOW_AND_SHADOW "wikilink")（ゼロシステム）
-  - 2月28日 [SuperLite GOLDシリーズ みんなのオセロ](../Page/オセロ_\(遊戯\).md "wikilink")（サクセス）
+  - 2月28日 [SuperLite GOLDシリーズ みんなのオセロ](../Page/オセロ_\(ボードゲーム\).md "wikilink")（サクセス）
   - 2月28日 [SIMPLE1500シリーズ Vol.82 THE 潜水艦](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 2月28日 [SIMPLE1500シリーズ Vol.86 THE 鬼ごっこ](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）
   - 2月28日 [SIMPLE1500シリーズ Vol.87 THE 競艇](../Page/SIMPLEシリーズ.md "wikilink")（D3パブリッシャー）

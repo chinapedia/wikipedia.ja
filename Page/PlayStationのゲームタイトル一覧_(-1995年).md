@@ -144,7 +144,7 @@
   - 12月8日 [カルネージハート](../Page/カルネージハート.md "wikilink")（アートディンク）
   - 12月8日 [スノーマン](../Page/スノーマン.md "wikilink")（ギャガ・コミュニケーションズ）
   - 12月8日 [将棋 女流名人位戦](https://ja.wikipedia.org/wiki/将棋_女流名人位戦 "wikilink")（セタ）
-  - 12月8日 [オセロワールド 夢と未知への挑戦](https://ja.wikipedia.org/wiki/オセロワールド "wikilink")II（[ツクダオリジナル](../Page/ツクダオリジナル.md "wikilink")）
+  - 12月8日 [オセロワールドII 夢と未知への挑戦](../Page/オセロ_\(ボードゲーム\).md "wikilink")（[ツクダオリジナル](../Page/ツクダオリジナル.md "wikilink")）
   - 12月8日 [ミラクルワールド 不思議の国のIQ迷路](https://ja.wikipedia.org/wiki/ミラクルワールド "wikilink")（[ウイザード](https://ja.wikipedia.org/wiki/ウイザード "wikilink")）●
   - 12月15日 [鉄道王 いくぜ億万長者\!\!](../Page/鉄道王.md "wikilink")'96（アトラス）
   - 12月15日 [クラシックロード](https://ja.wikipedia.org/wiki/クラシックロード "wikilink")（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）

@@ -10,7 +10,7 @@
   - 所在地：[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区](../Page/中央区_\(札幌市\).md "wikilink")[北1条西8丁目](https://ja.wikipedia.org/wiki/北○条西_\(札幌市\) "wikilink")1番地1
   - アクセス：[札幌市営地下鉄東西線](https://ja.wikipedia.org/wiki/札幌市営地下鉄東西線 "wikilink")・[西11丁目駅](../Page/西11丁目駅.md "wikilink")から徒歩約5分
 
-北海道内の放送局では唯一のホールスタジオとして、1971年に現・放送会館落成とともに開設された。観客席が468席設けられており、テレビや[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の番組収録をはじめ、映画試写会やライブ、イベント等が行われる。かつては北海道では数少ない定例の[寄席](../Page/寄席.md "wikilink")（STVホール名人会）も開催していた。
+北海道内の放送局では唯一のホールスタジオとして、1971年に現・放送会館落成とともに開設された。観客席が468席設けられており、テレビや[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の番組収録をはじめ、映画試写会やライブ、イベント等が行われる。かつては北海道では数少ない定例の[寄席](../Page/寄席.md "wikilink")（[STVホール名人会](https://ja.wikipedia.org/wiki/STVホール名人会 "wikilink")）も開催していた。
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")にはSTVラジオと同じ[NRNに属する](../Page/全国ラジオネットワーク.md "wikilink")[ABCラジオの](../Page/朝日放送ラジオ.md "wikilink")「[おはようパーソナリティ道上洋三です](../Page/おはようパーソナリティ道上洋三です.md "wikilink")」の公開生放送に使用された\[1\]\[2\]。
 

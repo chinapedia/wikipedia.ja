@@ -1,7 +1,7 @@
 > この記事は[PlayStationのゲームタイトル一覧 \(1996年\)](https://ja.wikipedia.org/wiki/PlayStationのゲームタイトル一覧_\(1996年\))から翻訳されています。
 
 
-'''PlayStationのゲームタイトル一覧 (1996年) '''（プレイステーションのゲームタイトルいちらん (1996ねん)）では[1996年](../Page/1996年.md "wikilink")に[PlayStation対応ソフトとして発売された全](../Page/PlayStation_\(ゲーム機\).md "wikilink")415タイトルのゲームソフトを発売順に列記する。ただし追加要素のない廉価版は含まない。●のついているソフトは、[PlayStation 3で起動した際に](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、何らかの不具合が発生するソフト（2007年1月現在）。なお、これらは本体のバージョンアップに伴い改善される予定。
+'''PlayStationのゲームタイトル一覧 (1996年) '''（プレイステーションのゲームタイトルいちらん (1996ねん)）では[1996年](../Page/1996年.md "wikilink")に[PlayStation対応ソフトとして発売された全](../Page/PlayStation_\(ゲーム機\).md "wikilink")415タイトルのゲームソフトを発売順に列記する。ただし追加要素のない廉価版は含まない。●のついているソフトは、[PlayStation 3で起動した際に](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、何らかの不具合が発生するソフト（2007年1月現在）。なお、これらは本体のバージョンアップに伴い改善される予定。 \[C\]のついているソフトは、[プレイステーション クラシックに内蔵されているソフト](https://ja.wikipedia.org/wiki/プレイステーション_クラシック "wikilink")。
 
 ## 1月
 
@@ -280,7 +280,7 @@
   - 9月20日 [ヴィクトリーゾーン](https://ja.wikipedia.org/wiki/ヴィクトリーゾーン "wikilink")2（ソニー・コンピュータエンタテインメント、同梱セットあり）
   - 9月20日 [アイドル雀士 スーチーパイII Limited](../Page/アイドル雀士スーチーパイ.md "wikilink")（ジャレコ）
   - 9月20日 [パチンコ大好き](https://ja.wikipedia.org/wiki/パチンコ大好き "wikilink")（セタ）
-  - 9月20日 [女神異聞録ペルソナ](../Page/女神異聞録ペルソナ.md "wikilink")（アトラス）
+  - 9月20日 [女神異聞録ペルソナ](../Page/女神異聞録ペルソナ.md "wikilink")（アトラス）\[C\]
   - 9月27日 [ウェディングピーチ ドキドキお色直し](https://ja.wikipedia.org/wiki/ウェディングピーチ_ドキドキお色直し "wikilink")（ケイエスエス）
   - 9月27日 [ときめきメモリアル 対戦ぱずるだま](https://ja.wikipedia.org/wiki/ときめきメモリアル#ときめきメモリアル対戦ぱずるだま "wikilink")（コナミ）
   - 9月27日 [女子高生の放課後・・ぷくんパ](https://ja.wikipedia.org/wiki/女子高生の放課後・・ぷくんパ "wikilink")（アテナ）
@@ -345,7 +345,7 @@
 
 ## 11月
 
-  - 11月1日 [アークザラッドII](../Page/アークザラッドII.md "wikilink")（ソニー・コンピュータエンタテインメント）
+  - 11月1日 [アークザラッドII](../Page/アークザラッドII.md "wikilink")（ソニー・コンピュータエンタテインメント）\[C\]
   - 11月1日 [デジクロ デジタルナンバーク](https://ja.wikipedia.org/wiki/デジクロ_デジタルナンバーク "wikilink")（アトラス）
   - 11月1日 [LULU](https://ja.wikipedia.org/wiki/LULU "wikilink")（アリアドネメディア）
   - 11月1日 [チェスマスター](https://ja.wikipedia.org/wiki/チェスマスター "wikilink")（アルトロン）●
@@ -398,7 +398,7 @@
 
   - 12月3日 [レイジレーサー](https://ja.wikipedia.org/wiki/レイジレーサー "wikilink")（ナムコ）
   - 12月6日 [DX億万長者ゲーム](https://ja.wikipedia.org/wiki/DX億万長者ゲーム "wikilink")（タカラ）
-  - 12月6日 [スーパーパズルファイター](https://ja.wikipedia.org/wiki/スーパーパズルファイター "wikilink")IIX（カプコン）
+  - 12月6日 [スーパーパズルファイターIIX](../Page/スーパーパズルファイターIIX.md "wikilink")（カプコン）\[C\]
   - 12月6日 [キッドクラウンのクレイジーチェイス2](https://ja.wikipedia.org/wiki/クレイジーチェイス "wikilink")（コトブキシステム）
   - 12月6日 [ピットボール](https://ja.wikipedia.org/wiki/ピットボール "wikilink")（ココナッツジャパン エンターテイメント）
   - 12月6日 [DEPTH](https://ja.wikipedia.org/wiki/DEPTH "wikilink")（ソニー・コンピュータエンタテインメント）
@@ -438,7 +438,7 @@
   - 12月20日 [NOT TREASURE HUNTER](../Page/NOT_TREASURE_HUNTER.md "wikilink")（[アクティアート](https://ja.wikipedia.org/wiki/アクティアート "wikilink")、アドベンチャーゲーム）●
   - 12月20日 [ウエルカムハウス](https://ja.wikipedia.org/wiki/ウエルカムハウス "wikilink")2（ガスト）
   - 12月20日 [ライトニングレジェンド](https://ja.wikipedia.org/wiki/ライトニングレジェンド "wikilink")（コナミ）
-  - 12月20日 [ワイルドアームズ](../Page/ワイルドアームズ.md "wikilink")（ソニー・コンピュータエンタテインメント）
+  - 12月20日 [ワイルドアームズ](../Page/ワイルドアームズ.md "wikilink")（ソニー・コンピュータエンタテインメント）\[C\]
   - 12月20日 [DX日本特急旅行ゲーム](https://ja.wikipedia.org/wiki/DX日本特急旅行ゲーム "wikilink")（タカラ）
   - 12月20日 [新日本プロレス 闘魂烈伝2](https://ja.wikipedia.org/wiki/新日本プロレス_闘魂烈伝 "wikilink")（トミー）
   - 12月20日 [3Dシューティングツクール](https://ja.wikipedia.org/wiki/3Dシューティングツクール "wikilink")（アスキー）
@@ -458,7 +458,7 @@
   - 12月27日 [マイティヒット](https://ja.wikipedia.org/wiki/マイティヒット "wikilink")（アルトロン）
   - 12月27日 [大航海時代II](../Page/大航海時代II.md "wikilink")（光栄）
   - 12月27日 [ブラック ドーン](https://ja.wikipedia.org/wiki/ブラック_ドーン "wikilink")（ヴァージンインタラクティブ）
-  - 12月27日 [スターウォーズ](https://ja.wikipedia.org/wiki/スターウォーズ "wikilink")レベルアサルト2（BPS）●
+  - 12月27日 [スター・ウォーズ レベルアサルトII](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")（BPS）●
   - 12月27日 [バーチャルギャロップ 騎手道](https://ja.wikipedia.org/wiki/バーチャルギャロップ_騎手道 "wikilink")（サンソフト、限定版あり）
   - 12月28日 [BASTARD\!\! -虚ろなる神々の器-](../Page/BASTARD!!_-虚ろなる神々の器-.md "wikilink")（集英社）
 

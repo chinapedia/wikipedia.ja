@@ -32,7 +32,7 @@
   - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
   - [工藤静香](../Page/工藤静香.md "wikilink")
   - [野猿](../Page/野猿.md "wikilink")
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - [吉田拓郎](../Page/吉田拓郎.md "wikilink")
   - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")
   - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")

@@ -177,8 +177,6 @@
 
 ## 脚注
 
-<references />
-
 ## 外部リンク
 
   - [立川俊之オフィシャルウェブサイト](http://www.tachikawatoshiyuki.net/)

@@ -149,12 +149,12 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - [天使と悪魔](https://ja.wikipedia.org/wiki/てんしとあくま "wikilink")
   - **土佐駒**
   - 回転ハッスル
-  - [トット](https://ja.wikipedia.org/wiki/トット "wikilink")
+  - **[トット](https://ja.wikipedia.org/wiki/トット "wikilink")**
   - [ミルクボーイ](https://ja.wikipedia.org/wiki/ミルクボーイ "wikilink")
 
 【オーディションtryメンバー】コンビ・トリオ
 
-  - [アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink") 「逆境乗り越えピン芸人」(河井)
+  - **[アインシュタイン](https://ja.wikipedia.org/wiki/アインシュタイン_\(お笑い\) "wikilink")** 「逆境乗り越えピン芸人」(河井)
   - **[コマンダンテ](https://ja.wikipedia.org/wiki/コマンダンテ_\(お笑いコンビ\) "wikilink")**
   - [ドルフィンズ](https://ja.wikipedia.org/wiki/ドルフィンズ_\(お笑い\) "wikilink")
   - [モストデンジャラス](https://ja.wikipedia.org/wiki/モストデンジャラス "wikilink")（旧: 極悪連合 → モストデンジャラストリオ）「base1いじら連合」( 極悪連合 )（解散）
@@ -239,7 +239,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - [山田ひろあき](https://ja.wikipedia.org/wiki/山田ひろあき "wikilink")
   - **[ツジカオルコ](../Page/ツジカオルコ.md "wikilink")**
   - **[三浦マイルド](https://ja.wikipedia.org/wiki/三浦マイルド "wikilink")**
-  - [おいでやす小田](https://ja.wikipedia.org/wiki/おいでやす小田 "wikilink")
+  - **[おいでやす小田](https://ja.wikipedia.org/wiki/おいでやす小田 "wikilink")**
   - **[ハロー植田](https://ja.wikipedia.org/wiki/ハロー植田 "wikilink")**
   - ハッピーちゃん☆
   - [ヒューマン中村](https://ja.wikipedia.org/wiki/ヒューマン中村 "wikilink")
@@ -514,7 +514,7 @@ NHKの「[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "w
 
   - [SUMMER SMILE](https://ja.wikipedia.org/wiki/SUMMER_SMILE "wikilink")(baseオールスターズ〈FUJIWARA、シャンプーハット、陣内智則
 
-バッファロー吾郎、ハリガネロック、サバンナ、ルート33、たむらけんじ、$10、次長課長、ランディーズ、野性爆弾、ケンドーコバヤシ、フットボールアワー、ビッキーズ、チュートリアル、ロザン、土肥ポン太、ザ・プラン9、ブラックマヨネーズ、キングコング〉) ※base summer smile02での歌唱時にはハリガネロック・たむらけんじ・ルート33が東京進出した為、参加していない。base summer smile03では上記の3組に加え、2002年に東京進出した次長課長も参加していない。 base summer smile02から後藤秀樹が、base summer summer03でダイアンが参加している。
+バッファロー吾郎、ハリガネロック、サバンナ、ルート33、たむらけんじ、$10、次長課長、ランディーズ、野性爆弾、ケンドーコバヤシ、フットボールアワー、ビッキーズ、チュートリアル、ロザン、土肥ポン太、ザ・プラン9、ブラックマヨネーズ、キングコング〉) ※base SUMMER SMILE02での歌唱時にはハリガネロック・たむらけんじ・ルート33が東京進出した為、参加していない。base SUMMER SMILE03では上記の3組に加え、2002年に東京進出した次長課長も参加していない。 また入れ替わる形で2002年から後藤秀樹が、2003年はダイアンが参加している。
 
 ## 関連項目
 
@@ -532,4 +532,4 @@ NHKの「[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "w
 
   - [公式サイト](http://www.yoshimoto.co.jp/base/)
 
-[Category:演芸場](https://ja.wikipedia.org/wiki/Category:演芸場 "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:大阪市中央区の歴史](https://ja.wikipedia.org/wiki/Category:大阪市中央区の歴史 "wikilink") [Category:かつて存在した大阪府の劇場](https://ja.wikipedia.org/wiki/Category:かつて存在した大阪府の劇場 "wikilink") [Category:吉本興業の劇場](https://ja.wikipedia.org/wiki/Category:吉本興業の劇場 "wikilink") [Category:吉本興業の歴史](https://ja.wikipedia.org/wiki/Category:吉本興業の歴史 "wikilink")
+[Category:吉本興業の劇場](https://ja.wikipedia.org/wiki/Category:吉本興業の劇場 "wikilink") [Category:演芸場](https://ja.wikipedia.org/wiki/Category:演芸場 "wikilink") [Category:かつて存在した大阪府の劇場](https://ja.wikipedia.org/wiki/Category:かつて存在した大阪府の劇場 "wikilink") [Category:吉本興業の歴史](https://ja.wikipedia.org/wiki/Category:吉本興業の歴史 "wikilink") [Category:大阪市中央区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市中央区の建築物 "wikilink") [Category:大阪市中央区の歴史](https://ja.wikipedia.org/wiki/Category:大阪市中央区の歴史 "wikilink") [Category:1999年開業の施設](https://ja.wikipedia.org/wiki/Category:1999年開業の施設 "wikilink") [Category:2010年廃止の施設](https://ja.wikipedia.org/wiki/Category:2010年廃止の施設 "wikilink")

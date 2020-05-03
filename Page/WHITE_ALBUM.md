@@ -5,26 +5,26 @@
 
 ## 歴史
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
-      - [5月1日](../Page/5月1日.md "wikilink") - PCオリジナル版発売（18禁）。
-      - [8月14日](../Page/8月14日.md "wikilink") - CDアルバム「WHITE ALBUM ORIGINAL SOUND TRACK」発売（イベント通販限定商品）。
-      - [12月23日](../Page/12月23日.md "wikilink") - CDシングル「WHITE ALBUM」発売。
-  - [1999年](../Page/1999年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") - PCオリジナル版攻略本「WHITE ALBUM 公式ガイド 〜Official Art Book〜」発売。
-  - [2000年](../Page/2000年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - CDアルバム「Leaf VOCAL COLLECTION Vol.1」発売。
-  - [2001年](../Page/2001年.md "wikilink")[12月19日](../Page/11月19日.md "wikilink") - MAXIシングル「POWDER SNOW」発売。
-  - [2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - CDアルバム「Leaf Piano Collection Vol.1」発売。
-  - [2006年](../Page/2006年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink") - CDアルバム「AQUAPLUS VOCAL COLLECTION Vol.1」発売（Leaf VOCAL COLLECTION Vol.1のパッケージリニューアル版。収録内容は同一）。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink") - この日発売の[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")8月号よりコミック版の連載開始。
-  - [2009年](../Page/2009年.md "wikilink")
+  - 1998年
+      - 5月1日 - PCオリジナル版発売（18禁）。
+      - 8月14日 - CDアルバム「WHITE ALBUM ORIGINAL SOUND TRACK」発売（イベント通販限定商品）。
+      - 12月23日 - CDシングル「WHITE ALBUM」発売。
+  - 1999年9月8日 - PCオリジナル版攻略本「WHITE ALBUM 公式ガイド 〜Official Art Book〜」発売。
+  - 2000年1月28日 - CDアルバム「Leaf VOCAL COLLECTION Vol.1」発売。
+  - 2001年12月19日 - MAXIシングル「POWDER SNOW」発売。
+  - 2002年7月24日 - CDアルバム「Leaf Piano Collection Vol.1」発売。
+  - 2006年8月23日 - CDアルバム「AQUAPLUS VOCAL COLLECTION Vol.1」発売（Leaf VOCAL COLLECTION Vol.1のパッケージリニューアル版。収録内容は同一）。
+  - 2008年6月27日 - この日発売の[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")8月号よりコミック版の連載開始。
+  - 2009年
       - 1月 - [UHFアニメ](../Page/UHFアニメ.md "wikilink")の形態にてTVシリーズ前半が放映開始。
-      - [1月21日](../Page/1月21日.md "wikilink") - MAXIシングル「深愛」発売。
-      - [1月28日](../Page/1月28日.md "wikilink") - MAXIシングル「舞い落ちる雪のように」発売。
+      - 1月21日 - MAXIシングル「[深愛](https://ja.wikipedia.org/wiki/深愛 "wikilink")」発売。
+      - 1月28日 - MAXIシングル「[舞い落ちる雪のように](https://ja.wikipedia.org/wiki/舞い落ちる雪のように "wikilink")」発売。
       - 10月 - UHFアニメの形態にてTVシリーズ後半が放映開始。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
-      - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 続編『[WHITE ALBUM2 -introductory chapter-](https://ja.wikipedia.org/wiki/WHITE_ALBUM2 "wikilink")』発売。
-      - [6月24日](../Page/6月24日.md "wikilink") - [PlayStation 3で](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[リメイク](../Page/リメイク.md "wikilink")版『WHITE ALBUM -綴られる冬の想い出-』が発売（当初の発表では2009年発売予定だった）。
-  - [2012年](../Page/2012年.md "wikilink")
-      - [3月30日](../Page/3月30日.md "wikilink") - 『WHITE ALBUM -綴られる冬の想い出-』の[Windows版が発売](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[DMM.com](../Page/DMM.com.md "wikilink")経由のダウンロード版のみ。パッケージ版は非発売）。
+  - 2010年
+      - 3月26日 - 続編『[WHITE ALBUM2 -introductory chapter-](https://ja.wikipedia.org/wiki/WHITE_ALBUM2 "wikilink")』発売。
+      - 6月24日 - [PlayStation 3で](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[リメイク](../Page/リメイク.md "wikilink")版『**WHITE ALBUM -綴られる冬の想い出-**』が発売（当初の発表では2009年発売予定だった）。
+  - 2012年
+      - 3月30日 - 『WHITE ALBUM -綴られる冬の想い出-』の[Windows版が発売](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[DMM.com](../Page/DMM.com.md "wikilink")経由のダウンロード版のみ。パッケージ版は非発売）。
 
 ## 特徴
 

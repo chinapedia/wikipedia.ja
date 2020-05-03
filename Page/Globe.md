@@ -48,7 +48,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、トランスという切り口から新たなglobeサウンドを展開。
 
-[2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")のアメリカの[同時多発テロ](https://ja.wikipedia.org/wiki/同時多発テロ "wikilink")を受け、被害地の一刻も早い復興の願いをこめ、『songnation(一部、song+nationと表記)』というプロジェクトを小室哲哉および[MAX松浦を中心として発足し](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")、チャリティーCDを発売。その第一弾にKEIKOが、[ayumi hamasaki](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") & keiko 名義で「[a song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")」を発売した。 songnationとして、翌年1月にアルバム『songnation』を、3月にそのリミックス盤『songnation 2 trance』を発売。リミックスアルバムにはglobeとして参加した。
+[2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")のアメリカの[同時多発テロ](https://ja.wikipedia.org/wiki/同時多発テロ "wikilink")を受け、被害地の一刻も早い復興の願いをこめ、『songnation(一部、song+nationと表記)』というプロジェクトを小室哲哉および[MAX松浦を中心として発足し](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")、チャリティーCDを発売。その第一弾にKEIKOが、[ayumi hamasaki](../Page/浜崎あゆみ.md "wikilink") & keiko 名義で「[a song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")」を発売した。 songnationとして、翌年1月にアルバム『songnation』を、3月にそのリミックス盤『songnation 2 trance』を発売。リミックスアルバムにはglobeとして参加した。
 
 [2002年](../Page/2002年.md "wikilink")春からは全国ツアー"category trance" "category all genre"を開催。追加公演を含め、3種類もの演出でアーティスト性の高いステージを披露した。
 
@@ -90,7 +90,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 ### globe 2 decade（デビュー20周年）（2015 - ）
 
-[2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、デビュー20周年を記念して女性ボーカル＆男性ラッパーによるユニット「baby globe（仮）」のオーディションを開始した。 [8月5日](../Page/8月5日.md "wikilink")、これまで発表した曲から20曲を小室哲哉自身により、リプロダクトしたアルバム『[Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")』発売。 [8月9日](../Page/8月9日.md "wikilink")、『globe 20th anniversary special event』をシンセサイザーを小室哲哉、DJをMARCで[新宿ステーションスクウェア](https://ja.wikipedia.org/wiki/新宿ステーションスクウェア "wikilink")においてフリーイベントとして実施。イベント冒頭にKEIKOの手書きメッセージを本人が読み上げる形でKEIKOの肉声が流れた。 [12月16日](../Page/12月16日.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")､[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")などが参加した『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』を発売。
+[2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、デビュー20周年を記念して女性ボーカル＆男性ラッパーによるユニット「baby globe（仮）」のオーディションを開始した。 [8月5日](../Page/8月5日.md "wikilink")、これまで発表した曲から20曲を小室哲哉自身により、リプロダクトしたアルバム『[Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")』発売。 [8月9日](../Page/8月9日.md "wikilink")、『globe 20th anniversary special event』をシンセサイザーを小室哲哉、DJをMARCで[新宿ステーションスクウェア](https://ja.wikipedia.org/wiki/新宿ステーションスクウェア "wikilink")においてフリーイベントとして実施。イベント冒頭にKEIKOの手書きメッセージを本人が読み上げる形でKEIKOの肉声が流れた。 [12月16日](../Page/12月16日.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")､[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")などが参加した『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』を発売。
 
 [2016年](../Page/2016年.md "wikilink")3月、globe MUSIC VIDEO ドラマ PROJECT をたちあげ、「[FACE](https://ja.wikipedia.org/wiki/FACE "wikilink")」が[池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")主演、[薮内省吾](https://ja.wikipedia.org/wiki/薮内省吾 "wikilink")監督で映像化された\[12\]。 また、デビュー20周年の締めくくりとして、リプロダクト・アルバム『[Remode 2](https://ja.wikipedia.org/wiki/Remode_2 "wikilink")』(8月3日発売)、[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink")ボックス『globe 2 decade -live blu-ray box-』(9月7日発売)をリリース\[13\]、「globe 20th FINAL ニコ生スペシャルナイト」(8月8日、六本木[ニコファーレ](https://ja.wikipedia.org/wiki/ニコファーレ "wikilink"))を開催\[14\]。
 
@@ -503,54 +503,46 @@ AVCG-70072</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
-<td><p><a href="../Page/CRUISE_RECORD_1995-2000.md" title="wikilink">CRUISE RECORD 1995-2000</a></p></td>
-<td><p>AVCG-70006~7</p></td>
-<td><p>1位</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/outernet" title="wikilink">outernet</a></p></td>
 <td><p>AVCG-70008</p></td>
 <td><p>9位</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>7th</p></td>
+<tr class="even">
+<td><p>6th</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td><p><a href="../Page/Lights_(globeのアルバム).md" title="wikilink">Lights</a></p></td>
 <td><p>AVCG-70010</p></td>
 <td><p>2位</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>8th</p></td>
+<tr class="odd">
+<td><p>7th</p></td>
 <td><p>2002年<a href="../Page/4月17日.md" title="wikilink">4月17日</a></p></td>
 <td><p><a href="../Page/Lights_(globeのアルバム).md" title="wikilink">Lights2</a></p></td>
 <td><p>AVCG-70011</p></td>
 <td><p>2位</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>9th</p></td>
+<tr class="even">
+<td><p>8th</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
 <td><p><a href="../Page/LEVEL_4_(globeのアルバム).md" title="wikilink">LEVEL 4</a></p></td>
 <td><p>AVCG-70014</p></td>
 <td><p>CCCD</p></td>
 <td><p>17位</p></td>
 </tr>
-<tr class="even">
-<td><p>10th</p></td>
+<tr class="odd">
+<td><p>9th</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月10日.md" title="wikilink">8月10日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/globe2_pop/rock" title="wikilink">globe2 pop/rock</a></p></td>
 <td><p>AVCG-70062</p></td>
 <td><p>CD</p></td>
 <td><p>5位</p></td>
 </tr>
-<tr class="odd">
-<td><p>11th</p></td>
+<tr class="even">
+<td><p>10th</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/maniac" title="wikilink">maniac</a></p></td>
 <td><p>AVCG-70066~7<br />
@@ -558,7 +550,7 @@ AVCX-70066~7</p></td>
 <td><p>12位</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

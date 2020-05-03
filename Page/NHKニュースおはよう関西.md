@@ -106,7 +106,7 @@
 
 ## 外部リンク
 
-  - [NHK大阪放送局 おはよう関西](http://www4.nhk.or.jp/P2849/)
+  - [NHK大阪放送局 おはよう関西](https://www4.nhk.or.jp/P2849/)
 
 [Category:NHKニュースおはよう日本の地域情報番組](https://ja.wikipedia.org/wiki/Category:NHKニュースおはよう日本の地域情報番組 "wikilink") [Category:NHK大阪](https://ja.wikipedia.org/wiki/Category:NHK大阪 "wikilink") [Category:NHK関西](https://ja.wikipedia.org/wiki/Category:NHK関西 "wikilink")
 

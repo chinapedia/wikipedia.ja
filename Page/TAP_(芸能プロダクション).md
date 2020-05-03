@@ -38,7 +38,7 @@
   - [ラッシャー板前](../Page/ラッシャー板前.md "wikilink")
   - [グレート義太夫](../Page/グレート義太夫.md "wikilink")
   - [井手らっきょ](../Page/井手らっきょ.md "wikilink")
-  - [浅草キッド](../Page/浅草キッド.md "wikilink")（[水道橋博士](../Page/水道橋博士.md "wikilink")、[玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")）
+  - [水道橋博士](../Page/水道橋博士.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")）
   - [ほたるゲンジ](https://ja.wikipedia.org/wiki/ほたるゲンジ "wikilink")（[無法松](../Page/無法松_\(お笑い芸人\).md "wikilink")、[桐畑トール](../Page/桐畑トール.md "wikilink")）
   - [ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")
   - [三又又三](../Page/三又又三.md "wikilink")
@@ -105,6 +105,7 @@
   - [大和悠河](../Page/大和悠河.md "wikilink") - 業務提携
   - [山本モナ](../Page/山本モナ.md "wikilink") - 現在は[ARIES](https://ja.wikipedia.org/wiki/ARIES "wikilink")所属
   - [横山ひとし](../Page/横山ひとし.md "wikilink")
+  - [玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")）
 
 <!-- end list -->
 
@@ -150,7 +151,7 @@
   - [林健太郎](https://ja.wikipedia.org/wiki/林健太郎 "wikilink")
   - [把瑠都](../Page/把瑠都凱斗.md "wikilink")
   - [ヒロホンダ](https://ja.wikipedia.org/wiki/ヒロホンダ "wikilink") - 現在はBohemia Group New York所属
-  - [藤井21](https://ja.wikipedia.org/wiki/藤井21 "wikilink") - 現在はサンミュージックプロダクション所属
+  - [藤井21](../Page/藤井21.md "wikilink") - 現在はサンミュージックプロダクション所属
   - [プチ鹿島](https://ja.wikipedia.org/wiki/プチ鹿島 "wikilink")\[10\] - 現在はワタナベエンターテインメント所属
   - [プリズムシャワー](https://ja.wikipedia.org/wiki/プリズムシャワー "wikilink")（湯川セイント、橋本ピー助） - 現在はラフィーネプロモーション所属
   - [ポップコーン正一](https://ja.wikipedia.org/wiki/ポップコーン正一 "wikilink")

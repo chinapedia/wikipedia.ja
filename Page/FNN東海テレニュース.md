@@ -74,7 +74,7 @@
 
 ## 外部リンク
 
-  - [東海のニュース](http://tokai-tv.com/tokainews/) - 東海テレビ放送
+  - [東海テレビNEWS](https://www.tokai-tv.com/tokainews/) - 東海テレビ放送
   - [Yahoo\!ニュース 東海テレビ](https://news.yahoo.co.jp/media/tokai) - 動画配信あり
   - [gooニュース 東海テレビ](https://news.goo.ne.jp/publisher/tokaitv/) - 動画配信なし
 

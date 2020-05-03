@@ -5,7 +5,7 @@
 
 ## 概要
 
-7年間続いた人気番組『[WEEKEND Hi\!](../Page/WEEKEND_Hi!.md "wikilink")』を終了させ、新しいタイプの若者向けのエンターテイメント番組として、土曜夜9時の時間帯に登場。DJはお笑いコンビの[アンバランスと](../Page/アンバランス_\(お笑いコンビ\).md "wikilink")、女性アイドルグループの[MISSIONを起用した](https://ja.wikipedia.org/wiki/MISSION_\(アイドルグループ\) "wikilink")。
+7年間続いた人気番組『[WEEKEND Hi\!](../Page/WEEKEND_Hi!.md "wikilink")』を終了させ、新しいタイプの若者向けのエンターテイメント番組として、土曜夜9時の時間帯に登場。DJはお笑いコンビの[アンバランスと](../Page/アンバランス_\(お笑いコンビ\).md "wikilink")、女性アイドルグループの[MISSIONを起用した](../Page/MISSION_\(アイドルグループ\).md "wikilink")。
 
 アンバランス降板後は[BOOMER](../Page/BOOMER.md "wikilink")と[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")が担当。その後、最終回まではピン芸人の[劇団ひとり](../Page/劇団ひとり.md "wikilink")が担当した。
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [MISSION](https://ja.wikipedia.org/wiki/MISSION_\(アイドルグループ\) "wikilink")（実際の出演は[沖弥生](https://ja.wikipedia.org/wiki/沖弥生 "wikilink")（[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）、[三浦絵理子](../Page/三浦絵理子.md "wikilink")（同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")）、[佐藤千寿子](https://ja.wikipedia.org/wiki/佐藤千寿子 "wikilink")（同年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - [19日](../Page/6月19日.md "wikilink")）のみとなった）
+  - [MISSION](../Page/MISSION_\(アイドルグループ\).md "wikilink")（実際の出演は[沖弥生](https://ja.wikipedia.org/wiki/沖弥生 "wikilink")（[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）、[三浦絵理子](../Page/三浦絵理子.md "wikilink")（同年[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")）、[佐藤千寿子](https://ja.wikipedia.org/wiki/佐藤千寿子 "wikilink")（同年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - [19日](../Page/6月19日.md "wikilink")）のみとなった）
   - [国仲涼子](https://ja.wikipedia.org/wiki/国仲涼子 "wikilink")
   - 村田洋子（現:[黒沢ひろ](https://ja.wikipedia.org/wiki/黒沢ひろ "wikilink")）
   - [小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")
@@ -53,7 +53,7 @@
 
 ## MISSION降板問題
 
-1999年4月のスタートと同時に起用された[MISSIONは](https://ja.wikipedia.org/wiki/MISSION_\(アイドルグループ\) "wikilink")、メンバー5人が月替わりで1名ずつ担当する予定だった。しかし、[佐藤千寿子](https://ja.wikipedia.org/wiki/佐藤千寿子 "wikilink")の担当期間中に突然降板する事態となった。原因については、メンバーの一人であった[橋本真実](../Page/橋本真実.md "wikilink")の脱退問題にあったとも言われる。結果、7月担当予定だった[折田みゆき](../Page/折田みゆき.md "wikilink")の出演、予定通りなら8月に担当するはずだった橋本の出演は消滅した。  MISSION降板の代役として、[6月26日](../Page/6月26日.md "wikilink")放送分より[国仲涼子](https://ja.wikipedia.org/wiki/国仲涼子 "wikilink")と[村田洋子 (現：黒沢ひろ)を急遽起用した](https://ja.wikipedia.org/wiki/黒沢ひろ "wikilink")。それからしばらくは国仲・村田が隔週担当、アンバランスと息の合った掛け合いを見せた。
+1999年4月のスタートと同時に起用された[MISSIONは](../Page/MISSION_\(アイドルグループ\).md "wikilink")、メンバー5人が月替わりで1名ずつ担当する予定だった。しかし、[佐藤千寿子](https://ja.wikipedia.org/wiki/佐藤千寿子 "wikilink")の担当期間中に突然降板する事態となった。原因については、メンバーの一人であった[橋本真実](../Page/橋本真実.md "wikilink")の脱退問題にあったとも言われる。結果、7月担当予定だった[折田みゆき](../Page/折田みゆき.md "wikilink")の出演、予定通りなら8月に担当するはずだった橋本の出演は消滅した。  MISSION降板の代役として、[6月26日](../Page/6月26日.md "wikilink")放送分より[国仲涼子](https://ja.wikipedia.org/wiki/国仲涼子 "wikilink")と[村田洋子 (現：黒沢ひろ)を急遽起用した](https://ja.wikipedia.org/wiki/黒沢ひろ "wikilink")。それからしばらくは国仲・村田が隔週担当、アンバランスと息の合った掛け合いを見せた。
 
 ## 番組の終了とその後
 

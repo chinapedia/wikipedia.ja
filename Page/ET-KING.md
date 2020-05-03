@@ -800,7 +800,7 @@ REGGAE MILLION III</p></td>
   - 2007年06月01日 - テレビ朝日系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」
   - 2007年06月08日・09月07日 - 日本テレビ系「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」
   - 2007年06月11日 - 日本テレビ系「[MusiG](../Page/MusiG.md "wikilink")」
-  - 2007年06月25日・10月22日 - フジテレビ系「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」
+  - 2007年06月25日・10月22日 - フジテレビ系「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」
   - 2007年06月27日 - フジテレビ系「[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")」
   - 2007年07月08日 - 日本テレビ系「[Music Lovers](../Page/Music_Lovers.md "wikilink")」
   - 2007年09月22日 - TBS系「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」

@@ -508,7 +508,7 @@
     大阪桐生高校監督。恰幅のいい福耳の男性。常にえびす顔だが、食えない性格をしている。練習に厳しい鬼監督。選手のモチベーションの保ち方、相手の弱点を的確に付く采配など、監督としての力量は確か。
   - 館 広美（たち ひろみ）
     声 - 松本忍
-    大阪桐生高校3年→OB。投手。右投げ右打ち。エースで4番、桐生の中心選手。球質の重いボールが武器。変化球はスライダー。試合を最大限楽しむタイプ。人相が悪く、調子が良い時には満面の笑顔になるのだが、とても怖い。シャイな性格。夏の大会では西邦の佐野にサヨナラ本塁打を浴び、敗退する。青道との練習試合では、降谷に三振を取られ、ホームランを打たれている。ドラフトでは広島東洋カープ入りを果たす。
+    大阪桐生高校3年→OB。投手。右投げ右打ち。エースで4番、桐生の中心選手。球質の重いボールが武器。変化球はスライダー。試合を最大限楽しむタイプ。人相が悪く、調子が良い時には満面の笑みになるのだが、とても怖い。シャイな性格。夏の大会では西邦の佐野にサヨナラ本塁打を浴び、敗退する。青道との練習試合では、降谷に三振を取られ、ホームランを打たれている。ドラフトでは広島東洋カープ入りを果たす。
 
 #### 巨摩大藤巻高校
 
@@ -3020,7 +3020,7 @@ Go Gyoung Nam、Han Jung Y</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>2020年4月22日予定</p></td>
+<td><p>2020年4月22日</p></td>
 <td><p>第34話 - 第39話</p></td>
 <td><p>PCXG-50667</p></td>
 </tr>
@@ -3449,7 +3449,7 @@ PCCN-00022</p></td>
 [Category:漫画作品_た](https://ja.wikipedia.org/wiki/Category:漫画作品_た "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:多摩地域を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:多摩地域を舞台とした漫画作品 "wikilink") [Category:多摩地域を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:多摩地域を舞台としたアニメ作品 "wikilink") [Category:甲子園球場を舞台とした作品](https://ja.wikipedia.org/wiki/Category:甲子園球場を舞台とした作品 "wikilink") [Category:アニメ作品_た](https://ja.wikipedia.org/wiki/Category:アニメ作品_た "wikilink") [Category:2013年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2013年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:AT-Xのアニメ](https://ja.wikipedia.org/wiki/Category:AT-Xのアニメ "wikilink") [Category:キッズステーションのアニメ](https://ja.wikipedia.org/wiki/Category:キッズステーションのアニメ "wikilink") [Category:野球アニメ](https://ja.wikipedia.org/wiki/Category:野球アニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:Production_I.Gのアニメ作品](https://ja.wikipedia.org/wiki/Category:Production_I.Gのアニメ作品 "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:創通のアニメ作品](https://ja.wikipedia.org/wiki/Category:創通のアニメ作品 "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:高等学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたアニメ作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  週刊少年マガジン2007年16号の企画で作者の[寺嶋裕二](../Page/寺嶋裕二.md "wikilink")と[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[和田毅](https://ja.wikipedia.org/wiki/和田毅 "wikilink")が対談し語った。
-2.  {{[https://comics.shogakukan.co.jp/shogakukan-mangasho-archives\#a10|title=小学館漫画賞歴代受賞作品](https://comics.shogakukan.co.jp/shogakukan-mangasho-archives#a10%7Ctitle=小学館漫画賞歴代受賞作品)|
+2.
 3.
 4.
 5.

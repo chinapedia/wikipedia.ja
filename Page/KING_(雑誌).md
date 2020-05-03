@@ -13,7 +13,7 @@
 
 連載企画の[グラビアシリーズ](https://ja.wikipedia.org/wiki/グラビア写真 "wikilink")『**[妄撮](https://ja.wikipedia.org/wiki/妄撮 "wikilink")**』は単行本化されて、単行本2冊で10万部以上とヒットした\[2\]\[3\]。
 
-女性誌『FRaU』を出版する講談社の第四編集局から出されており（現在『FRaU』は第二編集局）、初代の編集長である原田隆も男性向け雑誌『[ホットドッグプレス](https://ja.wikipedia.org/wiki/ホットドッグプレス "wikilink")』の編集を経て、『FRaU』の編集長を7年間務めた人物であった。
+女性誌『[FRaU](https://ja.wikipedia.org/wiki/FRaU "wikilink")』を出版する講談社の第四編集局から出されており（現在『FRaU』は第二編集局）、初代の編集長である原田隆も男性向け雑誌『[ホットドッグプレス](https://ja.wikipedia.org/wiki/ホットドッグプレス "wikilink")』の編集を経て、『FRaU』の編集長を7年間務めた人物であった。
 
 ## 連載
 
@@ -29,13 +29,13 @@
 
 ## 参考資料
 
-  - 「講談社『キング』と朝日新聞社『朝日新書』 混迷出版界に船出するこの秋話題の二つの創刊」『創』2006年11月号
-  - 丸山昇「巨艦講談社が模索する活路とは…」『創』2007年2月号
+  - 「講談社『キング』と朝日新聞社『朝日新書』 混迷出版界に船出するこの秋話題の二つの創刊」（『[創](https://ja.wikipedia.org/wiki/創_\(雑誌\) "wikilink")』2006年11月号）
+  - 丸山昇「巨艦講談社が模索する活路とは…」（『創』2007年2月号）
 
 ## 出典
 
 [Category:日本の雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の雑誌_\(休廃刊\) "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:講談社の雑誌](https://ja.wikipedia.org/wiki/Category:講談社の雑誌 "wikilink") [Category:講談社の歴史](https://ja.wikipedia.org/wiki/Category:講談社の歴史 "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:2008年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2008年休廃刊の雑誌 "wikilink")
 
-1.  [「有名雑誌が次々と...」'08休刊雑誌プレイバック](http://www.cyzo.com/2009/01/post_1410.html) 日刊[サイゾー](../Page/サイゾー.md "wikilink") 2009年01月12日。
-2.  [【エロか？アートか？】話題のグラビア写真集「妄撮」](http://sankei.jp.msn.com/culture/books/090504/bks0905041801000-n1.htm) MSN産経ニュース 2009年5月4日。リンク切れ
-3.  [すべての男子の夢をかなえる「妄撮」とは?](http://www.mosatsu.com/about.php) [妄撮 MOSATSU.COM](http://www.mosatsu.com/)
+1.
+2.
+3.

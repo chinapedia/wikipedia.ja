@@ -78,7 +78,7 @@
 | [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(9)                   | [紅とんぼ](https://ja.wikipedia.org/wiki/紅とんぼ "wikilink")                                   |
 | [石川さゆり](../Page/石川さゆり.md "wikilink")(11)                    | [滝の白糸](https://ja.wikipedia.org/wiki/滝の白糸_\(石川さゆりの曲\) "wikilink")                       |
 | [五輪真弓](../Page/五輪真弓.md "wikilink")(5)                       | [Wind and Roses](https://ja.wikipedia.org/wiki/Wind_and_Roses "wikilink")               |
-| [小林幸子](../Page/小林幸子.md "wikilink")(10)                      | [雪椿](../Page/雪椿.md "wikilink")                                                          |
+| [小林幸子](../Page/小林幸子.md "wikilink")(10)                      | [雪椿](../Page/雪椿.md "wikilink")\[10\]                                                    |
 |                                                             |                                                                                         |
 
 ### 選考を巡って
@@ -87,28 +87,28 @@
 
 前回から連続出場の[佐藤しのぶ](../Page/佐藤しのぶ_\(歌手\).md "wikilink")（クラシック）、[谷村新司](../Page/谷村新司.md "wikilink")（ニューミュージック）、[尾形大作](../Page/尾形大作.md "wikilink")（演歌）らに加え、[民謡](../Page/民謡.md "wikilink")界からは[岸千恵子](../Page/岸千恵子.md "wikilink")、[ミュージカル](../Page/ミュージカル.md "wikilink")界からは[島田歌穂](../Page/島田歌穂.md "wikilink")、[ロック界からは](../Page/ロック_\(音楽\).md "wikilink")[TM NETWORK](../Page/TM_NETWORK.md "wikilink")、[BAKUFU-SLUMP](../Page/爆風スランプ.md "wikilink")、男性コーラスグループの[タイム・ファイブ](../Page/タイム・ファイブ.md "wikilink")らが初出場した（なお、男性コーラスグループの出場は[第27回](../Page/第27回NHK紅白歌合戦.md "wikilink")（[1976年](../Page/1976年.md "wikilink")）に出場した[ダークダックス](../Page/ダークダックス.md "wikilink")以来、12年ぶりのことであった）。
 
-前回出場を辞退（紅白卒業宣言）した[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")が、この年「[人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")」（前年発売）の大ヒットにより、NHKに請われる形で[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）以来2年ぶりに復帰となった。この復帰出場に対しては「1度降りたのに」と批判の声も上がった。出演を決めた背景には当時療養中だった同曲の作曲者・[浜口庫之助](../Page/浜口庫之助.md "wikilink")\[10\]\[11\]に「歌う姿を見て元気になって貰いたい」との思いがあったためである\[12\]。翌年の第40回は落選となったが、その後島倉は[第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")（[1994年](../Page/1994年.md "wikilink")） - [第47回](../Page/第47回NHK紅白歌合戦.md "wikilink")（[1996年](../Page/1996年.md "wikilink")）、[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）に復帰出場している。
+前回出場を辞退（紅白卒業宣言）した[島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")が、この年「[人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")」（前年発売）の大ヒットにより、NHKに請われる形で[第37回](../Page/第37回NHK紅白歌合戦.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）以来2年ぶりに復帰となった。この復帰出場に対しては「1度降りたのに」と批判の声も上がった。出演を決めた背景には当時療養中だった同曲の作曲者・[浜口庫之助](../Page/浜口庫之助.md "wikilink")\[11\]\[12\]に「歌う姿を見て元気になって貰いたい」との思いがあったためである\[13\]。翌年の第40回は落選となったが、その後島倉は[第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")（[1994年](../Page/1994年.md "wikilink")） - [第47回](../Page/第47回NHK紅白歌合戦.md "wikilink")（[1996年](../Page/1996年.md "wikilink")）、[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）に復帰出場している。
 
-[田原俊彦](../Page/田原俊彦.md "wikilink")がこの年「[抱きしめてTONIGHT](https://ja.wikipedia.org/wiki/抱きしめてTONIGHT "wikilink")」がヒットし、当初2年ぶりに選出されていたが、前回に落選したこともあって田原曰く「**昨年の段階で卒業しました**」として辞退を宣言した\[13\]。今回は代わって、田原と同じ[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の[男闘呼組](../Page/男闘呼組.md "wikilink")が初めて紅白に出場した。
+[田原俊彦](../Page/田原俊彦.md "wikilink")がこの年「[抱きしめてTONIGHT](https://ja.wikipedia.org/wiki/抱きしめてTONIGHT "wikilink")」がヒットし、当初2年ぶりに選出されていたが、前回に落選したこともあって田原曰く「**昨年の段階で卒業しました**」として辞退を宣言した\[14\]。今回は代わって、田原と同じ[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の[男闘呼組](../Page/男闘呼組.md "wikilink")が初めて紅白に出場した。
 
 前回の出場歌手の中より今回不選出となった歌手は以下。
 
 | 組  | 落選した歌手・グループ                                                                                                                                                                                                                                                                         |
 | -- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 紅組 | [荻野目洋子](../Page/荻野目洋子.md "wikilink")・[金子由香利](https://ja.wikipedia.org/wiki/金子由香利 "wikilink")・[川中美幸](../Page/川中美幸.md "wikilink")・[小比類巻かほる](../Page/小比類巻かほる.md "wikilink")・[神野美伽](../Page/神野美伽.md "wikilink")・[八代亜紀](../Page/八代亜紀.md "wikilink")・[由紀さおり](../Page/由紀さおり.md "wikilink") |
-| 白組 | [稲垣潤一](../Page/稲垣潤一.md "wikilink")・[沢田研二](../Page/沢田研二.md "wikilink")・[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")\[14\]・[村田英雄](../Page/村田英雄.md "wikilink")・[山本譲二](../Page/山本譲二.md "wikilink")・[竜童組](https://ja.wikipedia.org/wiki/竜童組 "wikilink")                           |
+| 白組 | [稲垣潤一](../Page/稲垣潤一.md "wikilink")・[沢田研二](../Page/沢田研二.md "wikilink")・[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")\[15\]・[村田英雄](../Page/村田英雄.md "wikilink")・[山本譲二](../Page/山本譲二.md "wikilink")・[竜童組](https://ja.wikipedia.org/wiki/竜童組 "wikilink")                           |
 
 なお、紅白の常連だった[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")、[岩崎宏美](../Page/岩崎宏美.md "wikilink")（結婚を機に今回益田宏美へ改名）、[ちあきなおみ](../Page/ちあきなおみ.md "wikilink")（今回[第28回](../Page/第28回NHK紅白歌合戦.md "wikilink")（[1977年](../Page/1977年.md "wikilink")）以来11年ぶりに復帰）、[五輪真弓](../Page/五輪真弓.md "wikilink")、[菅原洋一](../Page/菅原洋一.md "wikilink")、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")らが今回限りで紅白出場が途切れ、また1980年代デビューの[松田聖子](../Page/松田聖子.md "wikilink")、[近藤真彦](../Page/近藤真彦.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")らが今回限りで初出場からの紅白連続出場がストップした（ただし聖子、中森、加山、近藤はその後紅白復帰を果たしており、小泉も[第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）にゲスト歌手という形で紅白に復帰している）。ベテランアイドル勢と入れ替わる様に[光GENJI](../Page/光GENJI.md "wikilink")、[中山美穂](../Page/中山美穂.md "wikilink")、[工藤静香](../Page/工藤静香.md "wikilink")ら後に大活躍する新世代アイドル勢が初出場を果たしたのも、今回である。
 
-[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")はこの年大河ドラマ「[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")」の出演や「[吐息でネット](https://ja.wikipedia.org/wiki/吐息でネット "wikilink")」等のシングルがヒットし、紅白歌合戦出場の打診を受け、初出場者会見の日にドラマの現場からおめでとうと見送られてNHKに行くも「ごめんなさい、ミスでした。今回はナシです」と帰されてしまい、その後も出場のオファーは無かった\[15\]。
+[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")はこの年大河ドラマ「[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")」の出演や「[吐息でネット](https://ja.wikipedia.org/wiki/吐息でネット "wikilink")」等のシングルがヒットし、紅白歌合戦出場の打診を受け、初出場者会見の日にドラマの現場からおめでとうと見送られてNHKに行くも「ごめんなさい、ミスでした。今回はナシです」と帰されてしまい、その後も出場のオファーは無かった\[16\]。
 
-この年「[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")」がヒットした[長渕剛](../Page/長渕剛.md "wikilink")はスケジュールが合わず出場を辞退した\[16\]。
+この年「[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")」がヒットした[長渕剛](../Page/長渕剛.md "wikilink")はスケジュールが合わず出場を辞退した\[17\]。
 
-この年開催された[ソウルオリンピック](https://ja.wikipedia.org/wiki/ソウルオリンピック "wikilink")の[NHK中継テーマソング](../Page/NHKオリンピック歴代テーマソング.md "wikilink")（NHKはこの時から[オリンピック中継の自局テーマソングを設けるようになった](../Page/近代オリンピック.md "wikilink")）「HEART & SOUL」を担当した[浜田麻里](../Page/浜田麻里.md "wikilink")も出場を辞退\[17\]。
+この年開催された[ソウルオリンピック](https://ja.wikipedia.org/wiki/ソウルオリンピック "wikilink")の[NHK中継テーマソング](../Page/NHKオリンピック歴代テーマソング.md "wikilink")（NHKはこの時から[オリンピック中継の自局テーマソングを設けるようになった](../Page/近代オリンピック.md "wikilink")）「HEART & SOUL」を担当した[浜田麻里](../Page/浜田麻里.md "wikilink")も出場を辞退\[18\]。
 
-その他、[松任谷由実](../Page/松任谷由実.md "wikilink")、布施明（前回7年ぶり15度目の復帰出場）、[井上陽水](../Page/井上陽水.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")（この年デビュー10周年）も出場を辞退している\[18\]。
+その他、[松任谷由実](../Page/松任谷由実.md "wikilink")、布施明（前回7年ぶり15度目の復帰出場）、[井上陽水](../Page/井上陽水.md "wikilink")、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")（この年デビュー10周年）も出場を辞退している\[19\]。
 
-[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")を出場させるというプランがあった。この年[12月9日](../Page/12月9日.md "wikilink") - [26日まで](../Page/12月26日.md "wikilink")9回の[東京ドーム](../Page/東京ドーム.md "wikilink")公演を開催するマイケルにそのまま[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に滞在してもらい、出場してもらうというものだった。結局、マイケルの出場は実現しなかったものの、これがこの後しばらく外国人歌手を紅白に出場させるケースを作り出した\[19\]。
+[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")を出場させるというプランがあった。この年[12月9日](../Page/12月9日.md "wikilink") - [26日まで](../Page/12月26日.md "wikilink")9回の[東京ドーム](../Page/東京ドーム.md "wikilink")公演を開催するマイケルにそのまま[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に滞在してもらい、出場してもらうというものだった。結局、マイケルの出場は実現しなかったものの、これがこの後しばらく外国人歌手を紅白に出場させるケースを作り出した\[20\]。
 
 ## ゲスト出演者
 
@@ -155,13 +155,14 @@
 7.  後者は以後司会を担当していない（ただし、[第41回](../Page/第41回NHK紅白歌合戦.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）で白組司会再登板の可能性が取り沙汰された）が、前者は[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）で紅組司会に復帰している。
 8.  放送が行われた翌年の第40回でも特に作品に触れられることはなかった。
 9.  この中には[1988年ソウルオリンピック](../Page/1988年ソウルオリンピック.md "wikilink")[スポーツピストル銀メダルの長谷川智子](https://ja.wikipedia.org/wiki/ライフル射撃#ピストル種目 "wikilink")（現：[福島實智子](../Page/福島實智子.md "wikilink")）もいた。
-10. 2年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")に死去。
-11. 前回辞退を浜口に報告したところ、「紅白で「人生いろいろ」が聞けないのか」と返されたことを明かしている（『島倉家-これが私の遺言』）。
-12. 『紅白50回』、56頁。
-13. 『[読売新聞](../Page/読売新聞.md "wikilink")』1988年12月14日付東京夕刊、13頁。
-14. 後述の出場辞退により。
-15. 『プレイボーイ』1995年連載「月待ちの窓」第15回82頁
-16. 『朝日新聞』1988年12月6日付朝刊、30頁。
-17. 合田『紅白歌合戦の舞台裏』、170頁。
+10. 小林は、2回紅組のトリ([2004年は大トリ](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink"))を担当しているが、2回とも「雪椿」を歌唱している。
+11. 2年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")に死去。
+12. 前回辞退を浜口に報告したところ、「紅白で「人生いろいろ」が聞けないのか」と返されたことを明かしている（『島倉家-これが私の遺言』）。
+13. 『紅白50回』、56頁。
+14. 『[読売新聞](../Page/読売新聞.md "wikilink")』1988年12月14日付東京夕刊、13頁。
+15. 後述の出場辞退により。
+16. 『プレイボーイ』1995年連載「月待ちの窓」第15回82頁
+17. 『朝日新聞』1988年12月6日付朝刊、30頁。
 18. 合田『紅白歌合戦の舞台裏』、170頁。
-19. 合田『紅白歌合戦の舞台裏』
+19. 合田『紅白歌合戦の舞台裏』、170頁。
+20. 合田『紅白歌合戦の舞台裏』

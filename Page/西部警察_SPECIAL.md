@@ -98,7 +98,7 @@
   - 音響効果 - 渡部健一（[カモメファン](../Page/カモメファン.md "wikilink")）
   - ロケーションコーディネーター - [サイモン・ツェー](https://ja.wikipedia.org/wiki/サイモン・ツェー "wikilink")
   - 技斗 - [高倉英二](https://ja.wikipedia.org/wiki/高倉英二 "wikilink")、[ジョージ・チェン](https://ja.wikipedia.org/wiki/ジョージ・チェン "wikilink")
-  - カースタント - [三石千尋](https://ja.wikipedia.org/wiki/三石千尋 "wikilink")とマイクスタントマンチーム、[カースタントTAKA](https://ja.wikipedia.org/wiki/カースタントTAKA "wikilink")
+  - カースタント - [三石千尋](../Page/三石千尋.md "wikilink")とマイクスタントマンチーム、[カースタントTAKA](https://ja.wikipedia.org/wiki/カースタントTAKA "wikilink")
   - ガンエフェクト - [BIGSHOT](../Page/ビッグショット_\(特殊効果\).md "wikilink")
   - 特殊効果 - 太平特殊効果
   - デジタルグラフィックデザイン - [ペパーワークス](https://ja.wikipedia.org/wiki/ペパーワークス "wikilink")

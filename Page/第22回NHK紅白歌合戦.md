@@ -36,7 +36,7 @@
 | [朝丘雪路](../Page/朝丘雪路.md "wikilink")(10)                      | [雨がやんだら](https://ja.wikipedia.org/wiki/雨がやんだら "wikilink")             |
 | [雪村いづみ](../Page/雪村いづみ.md "wikilink")(9)                     | 涙                                                                     |
 | [伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")(9)  | [誰も知らない](https://ja.wikipedia.org/wiki/誰も知らない_\(伊東ゆかりの曲\) "wikilink") |
-| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(3)                   | [砂漠のような東京で](https://ja.wikipedia.org/wiki/砂漠のような東京で "wikilink")       |
+| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(3)                   | [砂漠のような東京で](../Page/砂漠のような東京で.md "wikilink")                          |
 | [本田路津子](../Page/本田路津子.md "wikilink")(初)                     | 一人の手                                                                  |
 | [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(13)                | [サンフランシスコの女](https://ja.wikipedia.org/wiki/サンフランシスコの女 "wikilink")     |
 | [渚ゆう子](../Page/渚ゆう子.md "wikilink")(初)                       | [京都慕情](../Page/京都慕情.md "wikilink")                                    |

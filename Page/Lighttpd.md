@@ -62,7 +62,7 @@ lighttpd は多くのトラフィックの多い[WEBサイト](https://ja.wikipe
 ## 外部リンク
 
   - lighttpd の公式[Webサイト](https://www.lighttpd.net/)、[ドキュメント](https://redmine.lighttpd.net/projects/lighttpd/wiki/Docs)、[ブログ](https://blog.lighttpd.net/)
-  - [Lighttpd for Windows (Windowsに移植されたlighttpd)](http://www.kevinworthington.com/category/computers/lighttpd/)
+  - [Lighttpd for Windows (Windowsに移植されたlighttpd)](https://www.kevinworthington.com/category/computers/lighttpd/)
   - [freshmeatのページ](http://freshmeat.net/projects/lighttpd/)
   - [lighttpdを知っていますか？ | Think IT（シンクイット）](https://thinkit.co.jp/article/119/1)
   - [lighttpdでユーザー認証を行うには（Digest認証編） － ＠IT](https://www.atmarkit.co.jp/flinux/rensai/linuxtips/850lighttpddigest.html)

@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")に入団しプロレスラーを目指すも怪我で退団、同期であった[北上知恵美と共に](../Page/未来_\(プロレスラー\).md "wikilink")[KAIENTAI DOJOに入団し](../Page/KAIENTAI_DOJO.md "wikilink")[2002年](../Page/2002年.md "wikilink")6月1日、[SMACK GIRLでのvs](../Page/スマックガール.md "wikilink")[ナナチャンチン](../Page/ナナチャンチン.md "wikilink")戦にて**高橋エリ**の名でデビューした。
+[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")に入団しプロレスラーを目指すも怪我で退団、同期であった[北上知恵美と共に](../Page/未来_\(プロレスラー\).md "wikilink")[KAIENTAI DOJOに入団し](../Page/KAIENTAI_DOJO.md "wikilink")[2002年](../Page/2002年.md "wikilink")6月1日、[SMACK GIRLでのvs](../Page/スマックガール.md "wikilink")[ナナチャンチン](../Page/ナナチャンチン.md "wikilink")戦にて**高橋エリ**の名でデビューした。しかしプロレスデビューはせず退団している。
 
 その後、リングネームを**15**（いちご）と改名し覆面を被りFWFで[レフェリーを務めたりしながら練習を続けSMACK](../Page/レフェリー_\(プロレス\).md "wikilink") GIRLを主戦場とし、[パンクラス](../Page/パンクラス.md "wikilink")等にも参戦した。ラウンドガールなどにも挑戦した。
 

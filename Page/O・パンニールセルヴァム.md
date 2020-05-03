@@ -1,7 +1,7 @@
 > この記事は[O・パンニールセルヴァム](https://ja.wikipedia.org/wiki/O・パンニールセルヴァム)から翻訳されています。
 
 
-**O・パンニールセルヴァム**（**ஒ. பன்னீர்செல்வம்** : O. Paneerselvam、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") - ）は[インド](../Page/インド.md "wikilink")の[政治家](../Page/政治家.md "wikilink")。主に[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")の政治に参画している。タミル・ナードゥ州首相を一期務めた。
+**O・パンニールセルヴァム**（ஒ. பன்னீர்செல்வம்、O. Paneerselvam、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") - ）は[インド](../Page/インド.md "wikilink")の[政治家](../Page/政治家.md "wikilink")。主に[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")の政治に参画している。タミル・ナードゥ州首相を一期務めた。
 
 ## 略歴
 
@@ -13,7 +13,7 @@
 
 ## 人物
 
-パンニールセルヴァムはとても柔和な性格で、[テーニ](../Page/テーニ.md "wikilink")から[マドゥライ](../Page/マドゥライ.md "wikilink")にかけての地方では非常に良い評判を得ている。
+とても柔和な性格で、[テーニ](../Page/テーニ.md "wikilink")から[マドゥライ](../Page/マドゥライ.md "wikilink")にかけての地方では非常に良い評判を得ている。
 
 政治家になる以前には茶屋の主であり、現在でも店を営んでいる。
 
@@ -21,4 +21,4 @@
 
   - [タミル・ナードゥの政治](https://ja.wikipedia.org/wiki/タミル・ナードゥの政治 "wikilink")
 
-[Category:タミル・ナードゥ州首相](https://ja.wikipedia.org/wiki/Category:タミル・ナードゥ州首相 "wikilink") [Category:全インド・アンナー・ドラーヴィダ進歩党の政治家](https://ja.wikipedia.org/wiki/Category:全インド・アンナー・ドラーヴィダ進歩党の政治家 "wikilink") [Category:1951年生](https://ja.wikipedia.org/wiki/Category:1951年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:インドの政治家](https://ja.wikipedia.org/wiki/Category:インドの政治家 "wikilink") [Category:タミル・ナードゥ州首相](https://ja.wikipedia.org/wiki/Category:タミル・ナードゥ州首相 "wikilink") [Category:全インド・アンナー・ドラーヴィダ進歩党の政治家](https://ja.wikipedia.org/wiki/Category:全インド・アンナー・ドラーヴィダ進歩党の政治家 "wikilink") [Category:タミル・ナードゥ州出身の人物](https://ja.wikipedia.org/wiki/Category:タミル・ナードゥ州出身の人物 "wikilink") [Category:1951年生](https://ja.wikipedia.org/wiki/Category:1951年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

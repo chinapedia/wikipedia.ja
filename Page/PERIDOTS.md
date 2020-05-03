@@ -362,7 +362,7 @@
 | ----------------------------------------------------- | ---------------------------------------------------------- |
 | **監督**                                                | **曲名**                                                     |
 | [木山健司](https://ja.wikipedia.org/wiki/木山健司 "wikilink") | 「[ホーム・ムーヴィー](https://www.youtube.com/watch?v=gqpBH2wW60Y)」 |
-| [小嶋貴之](https://ja.wikipedia.org/wiki/小嶋貴之 "wikilink") | 「[オールライト](https://www.youtube.com/watch?v=ZpAs4VT_MPI)」    |
+| [小嶋貴之](../Page/小嶋貴之.md "wikilink")                    | 「[オールライト](https://www.youtube.com/watch?v=ZpAs4VT_MPI)」    |
 | [佐藤孝至](https://ja.wikipedia.org/wiki/佐藤孝至 "wikilink") | 「9月のソーダ」(出演:[高橋由真](../Page/高橋由真.md "wikilink"))            |
 | [野村徹](../Page/野村徹.md "wikilink")                      | 「[異常気象](https://www.youtube.com/watch?v=qUdYSDhI4Xg)」      |
 | [松崎茂登](https://ja.wikipedia.org/wiki/松崎茂登 "wikilink") | 「労働」(出演:[青木崇高](../Page/青木崇高.md "wikilink"))                |

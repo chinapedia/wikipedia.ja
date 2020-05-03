@@ -197,7 +197,7 @@
   - Drums：[Joey Waronker](https://ja.wikipedia.org/wiki/:en:Joey_Waronker "wikilink")
   - E.Bass：Neil Stubenhaus
   - E.Piano & B-3：Jon Gilutin
-  - E.Guitar：Michael Thompson, [古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")
+  - E.Guitar：Michael Thompson, [古川昌義](../Page/古川昌義.md "wikilink")
   - Keyboards：小林信吾
   - Programming：小林信吾, 浦田恵司
   - Bouzouki：古川望

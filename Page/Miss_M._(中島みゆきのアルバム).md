@@ -5,7 +5,7 @@
 
 ## 解説
 
-[ロック色が](../Page/ロック_\(音楽\).md "wikilink")『[はじめまして](../Page/はじめまして_\(中島みゆきのアルバム\).md "wikilink")』『[御色なおし](../Page/御色なおし.md "wikilink")』よりも更に濃厚になった作品で、レコーディングに[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[布袋寅泰](../Page/布袋寅泰.md "wikilink")や[パール兄弟](../Page/パール兄弟.md "wikilink")の[窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink")が参加している。
+[ロック色が](../Page/ロック_\(音楽\).md "wikilink")『[はじめまして](../Page/はじめまして_\(中島みゆきのアルバム\).md "wikilink")』『[御色なおし](../Page/御色なおし.md "wikilink")』よりも更に濃厚になった作品で、レコーディングに[BOØWYの](../Page/BOOWY.md "wikilink")[布袋寅泰](../Page/布袋寅泰.md "wikilink")や[パール兄弟](../Page/パール兄弟.md "wikilink")の[窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink")が参加している。
 
 本作から[LP](../Page/レコード.md "wikilink")、[CT](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/CD-DA.md "wikilink")3形態が同時発売された。現行盤のCDは[2018年](../Page/2018年.md "wikilink")に[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")から発売されたもの（[デジタルリマスタリングもされた](../Page/デジタルリマスター.md "wikilink")）。
 
@@ -39,7 +39,7 @@
 8.  **ショウ・タイム**
       - 後にシングル「[つめたい別れ](https://ja.wikipedia.org/wiki/つめたい別れ "wikilink")」のB面として[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
 9.  **ノスタルジア**
-      - この曲のギターは[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[布袋寅泰](../Page/布袋寅泰.md "wikilink")と[松原正樹](../Page/松原正樹.md "wikilink")の演奏である。
+      - この曲のギターは[BOØWYの](../Page/BOOWY.md "wikilink")[布袋寅泰](../Page/布袋寅泰.md "wikilink")と[松原正樹](../Page/松原正樹.md "wikilink")の演奏である。
 10. **肩に降る雨**
       -
         編曲：倉田信雄

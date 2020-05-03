@@ -5,7 +5,7 @@
 
 ## 概要
 
-普通の[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")との違いは、ネット上に散らばっている同一論文をまとめて表示する点にある。論文本体が有料の[査読](../Page/査読.md "wikilink")つき[雑誌](../Page/雑誌.md "wikilink")に投稿されている場合でも、本人のウェブサイトに論文が無料でアップロードされている場合や、[arXiv](https://ja.wikipedia.org/wiki/arXiv "wikilink")に[プレプリント](https://ja.wikipedia.org/wiki/プレプリント "wikilink")がアップロードされているなどの場合は、検索結果右下の「全5バージョン」などと書かれている部分から、その論文本文にたどり着くことができる。検索時に使える演算子などについては、例えばが詳しい。サービスの開始は[2004年](../Page/2004年.md "wikilink")11月18日の[ベータ版](../Page/ベータ版.md "wikilink")の公開から\[3\]\[4\]。
+普通の[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")との違いは、ネット上に散らばっている同一論文をまとめて表示する点にある。論文本体が有料の[査読](../Page/査読.md "wikilink")つき[雑誌](../Page/雑誌.md "wikilink")に投稿されている場合でも、本人のウェブサイトに論文が無料でアップロードされている場合や、[arXiv](https://ja.wikipedia.org/wiki/arXiv "wikilink")に[プレプリント](../Page/プレプリント.md "wikilink")がアップロードされているなどの場合は、検索結果右下の「全5バージョン」などと書かれている部分から、その論文本文にたどり着くことができる。検索時に使える演算子などについては、例えばが詳しい。サービスの開始は[2004年](../Page/2004年.md "wikilink")11月18日の[ベータ版](../Page/ベータ版.md "wikilink")の公開から\[3\]\[4\]。
 
 [2011年](../Page/2011年.md "wikilink")11月から新たな関連サービスとして[Google Scholar Citations](http://scholar.google.co.jp/intl/ja/scholar/citations.html)が一般公開された\[5\]。これは学術文献の著者プロフィールとともに，その著作物が一元的に管理できるサービスである。
 

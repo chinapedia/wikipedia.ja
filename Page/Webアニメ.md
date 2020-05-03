@@ -1,17 +1,17 @@
 > この記事は[Webアニメ](https://ja.wikipedia.org/wiki/Webアニメ)から翻訳されています。
 
 
-**Webアニメ**（ウェブアニメ）とは、[インターネット](../Page/インターネット.md "wikilink")環境での公開を前提に制作された[アニメ](../Page/アニメ.md "wikilink")作品を指す。日本国外では[OVA](../Page/OVA.md "wikilink")（オリジナル・ビデオ・アニメーション）になぞらえて「original net anime」(ONA) と呼ばれることがある\[1\]。
+**Webアニメ**（ウェブアニメ）とは、[インターネット](../Page/インターネット.md "wikilink")環境での公開を前提に制作された[アニメ](../Page/アニメ.md "wikilink")作品を指す。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国外では[OVA](../Page/OVA.md "wikilink")（オリジナル・ビデオ・アニメーション）になぞらえて「original net anime」(ONA) と呼ばれることがある\[1\]。
 
 なお、「既存の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の[ストリーミング](../Page/ストリーミング.md "wikilink")配信や[PV配信](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")」は当項の対象としては扱わない。
 
 ## 概要
 
-古くから[自主制作アニメ](https://ja.wikipedia.org/wiki/自主制作アニメ "wikilink")\[2\]を発表・投稿する動きは見られたが、インターネットの普及と[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")を用いたアニメーション制作ツールの高機能化により、それに合わせて個人ならびに少数で制作した2D・3Dアニメ作品がインターネットで公開される動きも見られていった。小さなものでは[GIFアニメによるショートアニメやループアニメを公開することもあり](../Page/Graphics_Interchange_Format.md "wikilink")、また、Flashの普及とともにFlashを用いたアニメ制作の手軽さに着目して、Flashムービークリエイターの作品発表の場としても活用されている。
+古くから[自主制作アニメ](https://ja.wikipedia.org/wiki/自主制作アニメ "wikilink")\[2\]を発表・投稿する動きは見られたが、インターネットの普及と[PCを用いたアニメーション制作ツールの高機能化により](../Page/パーソナルコンピュータ.md "wikilink")、それに合わせて個人ならびに少数で制作した2D・3Dアニメ作品がインターネットで公開される動きも見られていった。小さなものでは[GIFアニメによるショートアニメやループアニメを公開することもあり](../Page/Graphics_Interchange_Format.md "wikilink")、また、Flashの普及とともにFlashを用いたアニメ制作の手軽さに着目して、Flashムービークリエイターの作品発表の場としても活用されている。
 
 その後、[光ファイバー](../Page/光ファイバー.md "wikilink")回線網の普及など、大容量のデータを取り扱える[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")環境の整備が進み、[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")並みの放映品質での配信も可能となったことから、さらに増加の兆しを見せている。
 
-近年ではゲーム機や携帯電話向けコンテンツとしてのwebアニメも登場している。
+[2010年代](../Page/2010年代.md "wikilink")以降は[ゲーム機](../Page/ゲーム機.md "wikilink")や[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けコンテンツとしてのwebアニメも登場している。
 
 変わった例では『[ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(2008年のテレビアニメ\) "wikilink")（2作目）』の[番組スポンサー](https://ja.wikipedia.org/wiki/番組スポンサー "wikilink")である[東芝](../Page/東芝.md "wikilink")が自社製品の宣伝を兼ねたwebアニメサイトを開設している。
 
@@ -2832,7 +2832,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゾゾゾ_ゾンビ〜くん" title="wikilink">ゾゾゾ ゾンビ〜くん</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゾゾゾ_ゾンビーくん" title="wikilink">ゾゾゾ ゾンビーくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月17日</p></td>
 <td></td>
@@ -3068,7 +3068,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_Twilight_AXIS" title="wikilink">機動戦士ガンダム Twilight AXIS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムファンクラブ" title="wikilink">ガンダムファンクラブ</a>等</p></td>
 <td><p>2017年6月23日</p></td>
-<td><p>後にこの映像を用いて映画化</p></td>
+<td><p>後にこの映像を用いて映画化<br />
+後に映画版がTV放映</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソニックトゥーン" title="wikilink">ソニックトゥーン</a></p></td>
@@ -4653,7 +4654,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゼノンザード" title="wikilink">ゼノンザード THE ANIMATION</a></p></td>
+<td><p><a href="../Page/ゼノンザード.md" title="wikilink">ゼノンザード THE ANIMATION</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月10日</p></td>
 <td><p>後にTV放映</p></td>
@@ -5040,89 +5041,107 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/つのつのまめたん" title="wikilink">つのつのまめたん</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年3月28日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロノー先生の悪魔な神授業" title="wikilink">ロノー先生の悪魔な神授業</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタディサプリ" title="wikilink">スタディサプリ</a></p></td>
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大垣まつりにいこうよ!" title="wikilink">大垣まつりにいこうよ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/がきたびっ!" title="wikilink">がきたびっ!</a>〜青春お城編〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャラ" title="wikilink">ニンジャラ エピソード0</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/神酒ノ尊-ミキノミコト-.md" title="wikilink">神酒ノ尊〜絆の物語〜</a></p></td>
 <td><p>[[&amp;CAST</p></td>
 <td><p>!|&amp;CAST</p></td>
 <td><p>!]]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Sol_Levante" title="wikilink">Sol Levante</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/かいじゅうせかいせいふく" title="wikilink">かいじゅうせかいせいふく</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/爆丸アーマードアライアンス" title="wikilink">爆丸アーマードアライアンス</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/爆丸アーマードアライアンス.md" title="wikilink">爆丸アーマードアライアンス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a>等</p></td>
 <td><p>2020年4月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベイブレードバースト" title="wikilink">ベイブレードバースト スパーキング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/イエスタデイをうたって.md" title="wikilink">イエスタデイをうたって 配信限定episode</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2020年4月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファンタシースターオンライン2#Webアニメ" title="wikilink">アニメぷそ煮コミおかわり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2020年4月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE" title="wikilink">ガンダムビルドダイバーズRe:RISE 2nd Season</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月9日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ざしきわらしのタタミちゃん" title="wikilink">ざしきわらしのタタミちゃん</a></p></td>
+<tr class="even">
+<td><p><a href="../Page/ざしきわらしのタタミちゃん.md" title="wikilink">ざしきわらしのタタミちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV" title="wikilink">dTV</a>等</p></td>
 <td><p>2020年4月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/魔神英雄伝ワタル_七魂の龍神丸" title="wikilink">魔神英雄伝ワタル 七魂の龍神丸</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/魔神英雄伝ワタル_七魂の龍神丸.md" title="wikilink">魔神英雄伝ワタル 七魂の龍神丸</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月10日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪団のジェネリックトラベル大作戦2030</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年4月16日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/攻殻機動隊_SAC_2045" title="wikilink">攻殻機動隊 SAC_2045</a></p></td>
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
+<td><p>2020年4月23日</p></td>
 <td></td>
 </tr>
 </tbody>

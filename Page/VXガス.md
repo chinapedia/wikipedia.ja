@@ -1,7 +1,7 @@
 > この記事は[VXガス](https://ja.wikipedia.org/wiki/VXガス)から翻訳されています。
 
 
-**VXガス**（ブイエックス・ガス、**[VX](https://ja.wikipedia.org/wiki/:en:VX_\(nerve_agent\) "wikilink")**、*O*-エチル-*S*-（2-ジイソプロピルアミノエチル）メチルホスホノチオラート）とは、猛[毒](../Page/毒.md "wikilink")の[神経剤](../Page/神経ガス.md "wikilink")（[V剤](https://ja.wikipedia.org/wiki/V剤 "wikilink")）の一種である。[サリン](../Page/サリン.md "wikilink")などと同様、[コリンエステラーゼ阻害剤](https://ja.wikipedia.org/wiki/コリンエステラーゼ阻害剤 "wikilink")として作用し、人類が作った[化学物質](../Page/化学物質.md "wikilink")の中で最も毒性の強い物質の一つといわれる。（[ノビチョク](https://ja.wikipedia.org/wiki/ノビチョク "wikilink")はその5−８倍の強度）1994年の[オウム真理教のテロ事件でも使われた](../Page/駐車場経営者VX襲撃事件.md "wikilink")。
+**VXガス**（ブイエックス・ガス、**[VX](https://ja.wikipedia.org/wiki/:en:VX_\(nerve_agent\) "wikilink")**、*O*-エチル-*S*-（2-ジイソプロピルアミノエチル）メチルホスホノチオラート）とは、猛[毒](../Page/毒.md "wikilink")の[神経剤](../Page/神経ガス.md "wikilink")（[V剤](https://ja.wikipedia.org/wiki/V剤 "wikilink")）の一種である。[サリン](../Page/サリン.md "wikilink")などと同様、[コリンエステラーゼ阻害剤](https://ja.wikipedia.org/wiki/コリンエステラーゼ阻害剤 "wikilink")として作用し、人類が作った[化学物質](../Page/化学物質.md "wikilink")の中で最も毒性の強い物質の一つといわれる。（[ノビチョク](https://ja.wikipedia.org/wiki/ノビチョク "wikilink")はその5−8倍の強度）1994年の[オウム真理教のテロ事件でも使われた](../Page/駐車場経営者VX襲撃事件.md "wikilink")。
 
   - [致死量](../Page/致死量.md "wikilink")
       - 大気中濃度 0.1 mg・min/m<sup>3</sup>。

@@ -90,7 +90,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アキトはカードを引くようです" title="wikilink">アキトはカードを引くようです</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川田両悟" title="wikilink">川田両悟</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/よう太" title="wikilink">よう太</a></p></td>
-<td><p>既刊2巻</p></td>
+<td><p>既刊3巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アキハバラヴァンパイアナイト" title="wikilink">アキハバラヴァンパイアナイト</a></p></td>
@@ -109,7 +109,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/朝比奈若葉と○○な彼氏" title="wikilink">朝比奈若葉と○○な彼氏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/間孝史" title="wikilink">間孝史</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桃餅" title="wikilink">桃餅</a></p></td>
-<td><p>既刊2巻</p></td>
+<td><p>全2巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/明日、今日の君に逢えなくても" title="wikilink">明日、今日の君に逢えなくても</a></p></td>
@@ -627,7 +627,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/可愛ければ変態でも好きになってくれますか?" title="wikilink">可愛ければ変態でも好きになってくれますか?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/花間燈" title="wikilink">花間燈</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/sune" title="wikilink">sune</a></p></td>
-<td><p>既刊9巻</p></td>
+<td><p>既刊10巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/巌窟王_(テレビアニメ).md" title="wikilink">巌窟王</a></p></td>
@@ -1196,7 +1196,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神童勇者とメイドおねえさん" title="wikilink">神童勇者とメイドおねえさん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/望公太" title="wikilink">望公太</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぴょん吉_(イラストレーター)" title="wikilink">ぴょん吉</a></p></td>
-<td><p>既刊3巻</p></td>
+<td><p>既刊4巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/神明解ろーどぐらす" title="wikilink">神明解ろーどぐらす</a></p></td>
@@ -1797,7 +1797,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西野_〜学内カースト最下位にして異能世界最強の少年〜" title="wikilink">西野 〜学内カースト最下位にして異能世界最強の少年〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぶんころり" title="wikilink">ぶんころり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/またのんき" title="wikilink">またのんき</a></p></td>
-<td><p>既刊7巻</p></td>
+<td><p>既刊8巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/人間の分際で悩むな_超能力者に放課後を捧ぐ" title="wikilink">人間の分際で悩むな 超能力者に放課後を捧ぐ</a></p></td>

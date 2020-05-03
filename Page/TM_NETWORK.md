@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にデビュー。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")リリースの10枚目のシングル「[Get Wild](../Page/Get_Wild.md "wikilink")」で初のオリコンシングルチャートベストテン入り。それに先んじて、同年[2月26日](../Page/2月26日.md "wikilink")リリースの4枚目のオリジナルアルバム「[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")」で初のオリコンアルバムチャートベストテン入りを果たす。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、名義を「**TMN**（ティーエムエヌ）」にリニューアル。その後、デビュー10周年となる[1994年](../Page/1994年.md "wikilink")4月21日に「**プロジェクト終了**」宣言、同年5月18、19日のその最後のライブ『**[TMN 4001 DAYS GROOVE](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(VHS・DVD\) "wikilink")**』をもって“終了”。[1999年](../Page/1999年.md "wikilink")には再び**TM NETWORK**として再始動。現在の所属レコード会社は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。現時点でのシングル、アルバムの売上総数は公称1,600万枚を突破している（LP、カセット含む）。
+[1984年](../Page/1984年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")にデビュー。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")リリースの4枚目のオリジナルアルバム「[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")」で初のオリコンアルバムチャートベストテン入りを果たす。同年[4月8日](../Page/4月8日.md "wikilink")リリースの10枚目のシングル「[Get Wild](../Page/Get_Wild.md "wikilink")」で初のオリコンシングルチャートベストテン入りを果たす。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、名義を「**TMN**（ティーエムエヌ）」にリニューアル。その後、デビュー10周年となる[1994年](../Page/1994年.md "wikilink")4月21日に「**プロジェクト終了**」宣言、同年5月18、19日のその最後のライブ『**[TMN 4001 DAYS GROOVE](https://ja.wikipedia.org/wiki/TMN_final_live_LAST_GROOVE_\(VHS・DVD\) "wikilink")**』をもって“終了”。[1999年](../Page/1999年.md "wikilink")には再び**TM NETWORK**として再始動。現在の所属レコード会社は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。現時点でのシングル、アルバムの売上総数は公称1,600万枚を突破している（LP、カセット含む）。
 
 デビュー当初のコンセプトは「ライブはしない、その代わり[PVにはテレビCM界の大御所を起用する](../Page/ミュージック・ビデオ.md "wikilink")」というものだったが、正確には「ライブをしない」ではなく「小室の要求を満たすテクノサウンドを制作できる機材が高価過ぎて手が届かなくて、ライブができなかった」と言うのが正しい。それに気付かされたのが「DEBUT CONCERT」開催時の音色の薄さであり、その後すかさず「ライブをしない」というフェイクのコンセプトを打ち立てた\[3\]。そのような試行錯誤を続けていく内に、「アルバム毎」あるいは「何年かの周期」という小室の音楽的な志向や興味をその時の活動のテーマにして、それを宇都宮・木根が理解し3人が意思統一して、「その時代でやりたいことを徹底してやる」\[4\]「洋楽と邦楽の間にある溝は何なのかを常に話し合い、その上で洋楽への入り口になって、代理人として道案内をする」\[5\]ことをTMの活動の基本コンセプトとし、その方針は小室のTM以外での活動でも活用されることとなった\[6\]。
 
@@ -13,15 +13,17 @@
 
 ライブはどのような演出・構成・プレイリストなのかは読めないように仕込み、幕が開いて初めて分かるように演出した。天井からスピーカーをぶら下げる形の[サラウンド](../Page/サラウンド.md "wikilink")システムを導入したり、ムービングライト等様々な最新のテクノロジーを取り込んだ。木根は「サポートメンバーもTMの正式メンバー」という精神で、気持ちよく集団制作ができるロックバンドとしての環境作りに気を回した\[10\]\[11\]。基本は「音楽・照明・舞台構成・パフォーマンスが一体となって融合している」ことを目標にし、観客が場内に入ってから、ライブが終わって場外へ出る間の余韻まで綿密に計算している。それ故にアンコールは一度も行わず、強いていえばカーテンコールで一礼して観客に答えるだけだったが\[12\]、「TM NETWORK FANKS CRY-MAX」以降は時折アンコールを取り入れるようになった\[13\]。
 
-[YMOのような](../Page/イエロー・マジック・オーケストラ.md "wikilink")[フュージョン寄りのインストではなく](../Page/フュージョン_\(音楽\).md "wikilink")、[デジタルシンセサイザー](https://ja.wikipedia.org/wiki/デジタルシンセサイザー "wikilink")や[サンプラー](../Page/サンプラー.md "wikilink")を中心としたスタイリッシュなポップスの在り方を明確に提示し、1980年代末から1990年代初めの日本国内に一大旋風を巻き起こした。その音楽性は、デビュー直後の[B'z](../Page/B'z.md "wikilink")や[access等](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")[1990年代](../Page/1990年代.md "wikilink")以降の[J-POP](../Page/J-POP.md "wikilink")や[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")にも非常に大きな影響を与えている。ロックを基盤とした独特の緊張感を持つ作風から、同時期に活動していた[BOØWYとよく比較される](https://ja.wikipedia.org/wiki/BOOWY "wikilink")\[14\]。
+[YMOのような](../Page/イエロー・マジック・オーケストラ.md "wikilink")[フュージョン寄りのインストではなく](../Page/フュージョン_\(音楽\).md "wikilink")、[デジタルシンセサイザー](https://ja.wikipedia.org/wiki/デジタルシンセサイザー "wikilink")や[サンプラー](../Page/サンプラー.md "wikilink")を中心としたスタイリッシュなポップスの在り方を明確に提示し、1980年代末から1990年代初めの日本国内に一大旋風を巻き起こした。その音楽性は、デビュー直後の[B'z](../Page/B'z.md "wikilink")や[access等](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")[1990年代](../Page/1990年代.md "wikilink")以降の[J-POP](../Page/J-POP.md "wikilink")や[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")にも非常に大きな影響を与えている。ロックを基盤とした独特の緊張感を持つ作風から、同時期に活動していた[BOØWYとよく比較される](../Page/BOOWY.md "wikilink")\[14\]。
 
 デビュー30周年を迎えた2014年は、新曲発表・2度の全国ツアー・7年ぶりのオリジナルアルバム・アリーナ公演・大型フェス出演など、精力的に活動した。
 
 また、2012〜2015年に行われたライブ（30周年関連）では、シアトリカル（演劇的）なライブ演出を強めたため、80年代同様にMCやアンコールはほぼ行わなかった。
 
-[2018年](../Page/2018年.md "wikilink")に[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が[芸能](../Page/芸能.md "wikilink")界からの引退を表明したが、グループの今後の活動については発表されていない（小室のみが事実上脱退と思われる）。
+[2018年](../Page/2018年.md "wikilink")に[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が[芸能](../Page/芸能.md "wikilink")界からの引退を表明したが、グループの今後の活動については発表されていない 。
 
 [2019年](../Page/2019年.md "wikilink")4月21日にデビュー35周年記念祭として、1994年5月18日と5月19日に東京ドームで行われたTMN終了ライブを5.1ch HDリマスタリングした「TMN final live LAST GROOVE 1994」が全国14都市、24の映画館で1日限定上映された。
+
+[2020年](../Page/2020年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink") ベストアルバム「[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")」・「[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")」を発売。
 
 ## メンバー
 
@@ -77,7 +79,7 @@
 
 ## 略歴
 
-TM NETWORKは小室をリーダーとする3人組の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[作曲](../Page/作曲.md "wikilink")と[編曲](../Page/編曲.md "wikilink")は全て小室や木根が担当している。前身は[SPEEDWAY](../Page/SPEEDWAY.md "wikilink")\[15\]。
+TM NETWORKは小室をリーダーとする3人組の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[作曲](../Page/作曲.md "wikilink")と[編曲](../Page/編曲.md "wikilink")の殆どは小室や木根が担当している。 前身は[SPEEDWAY](../Page/SPEEDWAY.md "wikilink")\[15\]。
 
 [作詞](../Page/作詞.md "wikilink")は[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[小説家](../Page/小説家.md "wikilink")の[小室みつ子](../Page/小室みつ子.md "wikilink")\[16\]（アルバム『**[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")**』までは「西門加里」の[ペンネーム](../Page/ペンネーム.md "wikilink")）によるものが多い。初期には[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、[三浦徳子](../Page/三浦徳子.md "wikilink")、[川村真澄](../Page/川村真澄.md "wikilink")などといった作詞家の他、TMNリニューアル期は脚本家の[坂元裕二](../Page/坂元裕二.md "wikilink")も詞を提供している。
 
@@ -441,7 +443,7 @@ TM NETWORKは小室をリーダーとする3人組の[音楽ユニット](../Pag
 
   - [2020年](../Page/2020年.md "wikilink")
 
-:\* [3月18日](../Page/3月18日.md "wikilink") ファン投票によるベスト・アルバム『[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")』および『[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")』をリリース予定。
+:\* [3月18日](../Page/3月18日.md "wikilink") ファン投票によるベスト・アルバム『[Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")』および『[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")』をリリース。
 
 ## 歴代サポートメンバー
 

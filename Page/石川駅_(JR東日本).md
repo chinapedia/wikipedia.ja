@@ -9,7 +9,7 @@
 
   - [1916年](../Page/1916年.md "wikilink")（[大正](../Page/大正.md "wikilink")5年）[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")：[国鉄の駅として](../Page/日本国有鉄道.md "wikilink")[南津軽郡](../Page/南津軽郡.md "wikilink")[石川村に開業](https://ja.wikipedia.org/wiki/石川町_\(青森県\) "wikilink")\[3\]。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）[10月1日](../Page/10月1日.md "wikilink")：駅無人化。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink")：[国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")によりJR東日本の駅となる。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink")：[国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")により、JR東日本の駅となる。
 
 ## 駅構造
 

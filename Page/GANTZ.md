@@ -1094,13 +1094,13 @@
 ## ゲーム
 
   - GANTZ THE GAME
-    [CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") 18歳以上対象
+    [CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") 18歳以上対象
       - 機種 - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
       - メーカー - [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")
       - ジャンル - 3Dアクションソフト
       - [2005年](../Page/2005年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")発売
   - GANTZ/XAOS（モバイルゲーム）
-    [CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") なし。2012年1月12日に開始し、2014年5月23日にサービス終了\[42\]。順次スマートフォン向けでも対応。
+    [CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink") なし。2012年1月12日に開始し、2014年5月23日にサービス終了\[42\]。順次スマートフォン向けでも対応。
     [GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")。ジャンルはソーシャルゲーム。基本プレイ無料のアイテム課金制。メーカーは[インデックス](../Page/インデックス・ホールディングス.md "wikilink")（旧法人）→[インデックス](https://ja.wikipedia.org/wiki/iXIT "wikilink")（旧：セガドリーム）。
 
 ## パチンコ

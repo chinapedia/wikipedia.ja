@@ -36,12 +36,12 @@
       - 奈良市都祁地区歴史民俗資料展示
       - 高原野菜・物産品の販売（物販コーナー）
   - 針T・R・Sベリーファーム（観光農園）
-  - 針インターバスストップ（[奈良交通](../Page/奈良交通.md "wikilink")路線バス・高速バス）
+  - [針インターバスストップ](https://ja.wikipedia.org/wiki/#針インターバスストップ "wikilink")（[奈良交通](../Page/奈良交通.md "wikilink")路線バス・高速バス）
   - [電気自動車](../Page/電気自動車.md "wikilink")[急速充電器](https://ja.wikipedia.org/wiki/CHAdeMO "wikilink")（24時間営業）\[2\]
 
 ## 運営会社
 
-道の駅針T・R・Sの運営は株式会社三興（本社：[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")）が手掛けており、道の駅の建屋も所有していた。奈良市は2017年11月以降に土地使用料や[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")などを滞納していたことを理由として、2018年12月21日付で三興との事業契約を解除し、同時に[大阪地方裁判所](../Page/大阪地方裁判所.md "wikilink")に[破産を申し立てた](../Page/破産手続開始の申立て.md "wikilink")。道の駅の建屋は[保全命令](../Page/保全命令.md "wikilink")を受けており、奈良市は今後建屋の所有権移転を請求する予定。なお、道の駅の店舗などの営業は継続される予定である\[3\]\[4\]その後、[ダイナック](../Page/ダイナック.md "wikilink")に運営は移管されている。\[5\]
+道の駅針T・R・Sの運営は株式会社三興（本社：[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")）が手掛けており、道の駅の建屋も所有していた。奈良市は[2017年](../Page/2017年.md "wikilink")[11月](../Page/11月.md "wikilink")以降に土地使用料や[税金](https://ja.wikipedia.org/wiki/税金 "wikilink")などを滞納していたことを理由として、[2018年](../Page/2018年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")付で三興との事業契約を解除し、同時に[大阪地方裁判所](../Page/大阪地方裁判所.md "wikilink")に[破産を申し立てた](../Page/破産手続開始の申立て.md "wikilink")。道の駅の建屋は[保全命令](../Page/保全命令.md "wikilink")を受けており、奈良市は今後建屋の所有権移転を請求した。なお、道の駅の店舗などの営業は継続されることとなった\[3\]\[4\]。その後、[ダイナック](../Page/ダイナック.md "wikilink")に運営は移管されている\[5\]。
 
 ## 休館日
 
@@ -53,7 +53,7 @@
 
   - [国道369号](../Page/国道369号.md "wikilink")
 
-### 針インターバスストップ
+## 針インターバスストップ
 
 **針インターバスストップ**（はりインターバスストップ）は、道の駅針T・R・Sにある[バス停](../Page/バス停留所.md "wikilink")。
 奈良交通のホームページでは、「**大和高原都祁**」(やまとこうげんつげ)の名前で案内されている。\[6\]
@@ -83,6 +83,9 @@
       - 21系統 山辺高校 行
       - 23系統 [榛原駅](../Page/榛原駅.md "wikilink") 行 （外の橋経由）
       - 29系統 天理駅 行 （馬場・苣原経由）
+
+<!-- end list -->
+
   - 奈良市コミュニティバス（奈良都祁線代替バス）
       - 下水間 行
       - 奈良市都祁交流センター 行
@@ -141,4 +144,4 @@
 3.
 4.
 5.  [針テラスについて](http://hari-trs.com/haritrs.html) お問い合わせ先
-6.  <http://www.narakotsu.co.jp/kousoku/map/map-hari_terasu.html>
+6.  [大和高原都祁（針テラス内）｜奈良交通](http://www.narakotsu.co.jp/kousoku/map/map-hari_terasu.html)

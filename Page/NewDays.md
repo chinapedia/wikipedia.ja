@@ -21,7 +21,7 @@
 
 初期は「NEWDAYS **by KIOSK**」（KIOSK＝東日本キヨスクが運営しているという意）と看板などに書かれていた（上記の蒲田駅のNEWDAYSの写真も拡大するとそれが読み取れる）が、運営する東日本キヨスクが、JR東日本リテールネットに社名変更したことに伴い、その前日の閉店後に「by KIOSK」表記が消去された。
 
-[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")など各地で動きが出ている[レジ袋](https://ja.wikipedia.org/wiki/レジ袋 "wikilink")削減の動きがNEWDAYSでもあり、[2006年](../Page/2006年.md "wikilink")末から[2007年](../Page/2007年.md "wikilink")1月まで、[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")期間中に[Suica](../Page/Suica.md "wikilink")で400円以上の買い物をするとSuicaエコバッグがプレゼントされていた。また、これを次回の買い物の際にレジ袋の代わりとして持参するとシールが貰え、20枚貯まると50円値引きされた。一方、[Suica電子マネーの利用によるキャンペーンの実施は期間限定で続いており](https://ja.wikipedia.org/wiki/Suicaショッピングサービス "wikilink")、2010年現在では特定曜日に[JRE POINT](https://ja.wikipedia.org/wiki/JRE_POINT "wikilink")（旧・[Suicaポイント](https://ja.wikipedia.org/wiki/Suica電子マネー#Suicaポイントクラブ "wikilink")）を通常の2 - 5倍付与したり、特定商品をSuica利用で割引にするキャンペーンを実施している。
+[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")など各地で動きが出ている[レジ袋](https://ja.wikipedia.org/wiki/レジ袋 "wikilink")削減の動きがNEWDAYSでもあり、[2006年](../Page/2006年.md "wikilink")末から[2007年](../Page/2007年.md "wikilink")1月まで、[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")期間中に[Suica](../Page/Suica.md "wikilink")で400円以上の買い物をするとSuicaエコバッグがプレゼントされていた。また、これを次回の買い物の際にレジ袋の代わりとして持参するとシールが貰え、20枚貯まると50円値引きされた。一方、[Suica電子マネーの利用によるキャンペーンの実施は期間限定で続いており](https://ja.wikipedia.org/wiki/Suicaショッピングサービス "wikilink")、2010年現在では特定曜日に[JRE POINT](../Page/JRE_POINT.md "wikilink")（旧・[Suicaポイント](https://ja.wikipedia.org/wiki/Suica電子マネー#Suicaポイントクラブ "wikilink")）を通常の2 - 5倍付与したり、特定商品をSuica利用で割引にするキャンペーンを実施している。
 
 なお、[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の[消費税](../Page/消費税.md "wikilink")総額表示変更に伴いすべて1円単位の内税方式に統一されたが、それ以前は消費税の計算方法が異なり、NEWDAYSが1円単位の外税方式、NEWDAYS MINIがキヨスクに準じて5円単位の内税方式で、同じ商品でも値段が異なっていた。
 

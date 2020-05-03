@@ -151,7 +151,7 @@ NHK広島</p></td>
 </tr>
 <tr class="even">
 <td><p>211</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本BS放送" title="wikilink">BS11</a></p></td>
+<td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>222</p></td>

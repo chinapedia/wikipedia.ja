@@ -113,10 +113,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a><br />
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a><br />
 （NST）</p></td>
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td></td>
+<td><p>現・NST新潟総合テレビ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -193,7 +193,7 @@
 <td><p><a href="../Page/テレビ山口.md" title="wikilink">テレビ山口</a><br />
 （tys）</p></td>
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -259,7 +259,7 @@
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p>日本テレビ系列<br />
 フジテレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

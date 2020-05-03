@@ -144,8 +144,8 @@
 
 ## 提供番組（全て過去）
 
-  - 愛ラブ・リビング（日本テレビ）
-  - [美味しんぼ](../Page/美味しんぼ.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - 愛ラブ・リビング（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [美味しんぼ](../Page/美味しんぼ.md "wikilink")（日本テレビ）
   - [クイズ どんなMONだい?\!](../Page/クイズ_どんなMONだい?!.md "wikilink")（日本テレビ）
   - [JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")・平日の隔日）※1980年代に[日本生命と共にナショナルスポンサー](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")。
   - [大改造\!\!劇的ビフォーアフター](../Page/大改造!!劇的ビフォーアフター.md "wikilink")（[ABC制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）※競合会社の[TOTOと提供](../Page/TOTO_\(企業\).md "wikilink")（現在も）。同じLIXILブランドである[TOEXもスポンサーだった](https://ja.wikipedia.org/wiki/東洋エクステリア "wikilink")。
@@ -160,7 +160,7 @@
   - [宮本工業所 (富山市)](https://ja.wikipedia.org/wiki/宮本工業所_\(富山市\) "wikilink")
   - [森村グループ](../Page/森村グループ.md "wikilink") - かつて所属した陶業を主軸とした企業集団
   - [佐賀LIXIL FC](../Page/佐賀LIXIL_FC.md "wikilink")（旧称・九州INAXサッカー部）
-  - [幼児用便器](https://ja.wikipedia.org/wiki/幼児用便器 "wikilink")
+  - [幼児用便器](../Page/幼児用便器.md "wikilink")
 
 ## 外部リンク
 

@@ -692,7 +692,7 @@ JOIB</p></th>
       - NHKニュースおはよう北海道 土曜プラス（土曜 7:30 - 8:00）
   - [ひるまえナマら\!北海道](https://ja.wikipedia.org/wiki/ひるまえナマら!北海道 "wikilink")（平日 11:30 - 12:00）
   - [ほっとニュース北海道](https://ja.wikipedia.org/wiki/ほっとニュース北海道 "wikilink")（平日 18:10 - 18:59）
-  - [ニュース北海道645](https://ja.wikipedia.org/wiki/ニュース北海道645 "wikilink")（土曜・日曜・祝日 18:45 - 18:59）
+  - [ニュース北海道645](../Page/ニュース北海道645.md "wikilink")（土曜・日曜・祝日 18:45 - 18:59）
   - [ほっとニュース845](https://ja.wikipedia.org/wiki/ほっとニュース845 "wikilink")（平日 20:45 - 21:00）
       - 祝日・[オリンピック期間中は](../Page/近代オリンピック.md "wikilink")、『NHKニュース』に改題\[19\]の上5 - 10分繰り下げ・短縮し放送\[20\]。
   - [北海道道](../Page/北海道道_\(テレビ番組\).md "wikilink")（金曜日 19:30 - 19:55、再放送：日曜日 8:00 - 8:25）
@@ -834,7 +834,7 @@ JOIB</p></th>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/赤松俊理.md" title="wikilink">赤松俊理</a>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHKニュースおはよう北海道" title="wikilink">NHKニュースおはよう北海道</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/NHKニュースおはよう北海道" title="wikilink">NHKニュース おはよう北海道</a><br />
 （キャスター）</p></td>
 <td><p>秩父別町出身</p></td>
 <td></td>
@@ -842,7 +842,7 @@ JOIB</p></th>
 <tr class="even">
 <td><p><a href="../Page/古谷敏郎.md" title="wikilink">古谷敏郎</a></p></td>
 <td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
-<td><p>NHKニュースおはよう北海道<br />
+<td><p>NHKニュース おはよう北海道<br />
 いくぞ～!北の出会い旅</p></td>
 <td></td>
 </tr>
@@ -908,7 +908,7 @@ JOIB</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/八尋隆蔵" title="wikilink">八尋隆蔵</a>*</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/八尋隆蔵" title="wikilink">八尋隆蔵</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -953,126 +953,140 @@ JOIB</p></th>
 <thead>
 <tr class="header">
 <th><p>氏名</p></th>
-<th><p>前職等</p></th>
+<th><p>前任地</p></th>
 <th><p>主な担当番組</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>IK専属</p></td>
+<td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/掛橋愛理" title="wikilink">掛橋愛理</a></p></td>
-<td><p>元<a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭局契約キャスター</a><br />
-元<a href="../Page/NHK_BS1.md" title="wikilink">NHK BS1契約キャスター</a><br />
-元<a href="https://ja.wikipedia.org/wiki/日経CNBC" title="wikilink">日経CNBC</a>キャスター</p></td>
-<td><p>ひるまえナマら!北海道 キャスター</p></td>
+<td><p>太細真弥</p></td>
+<td><p><a href="../Page/NHK函館放送局.md" title="wikilink">函館</a><br />
+（契約キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ほっとニュース北海道" title="wikilink">ほっとニュース北海道</a><br />
+（キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>毎熊千遥</p></td>
+<td><p><a href="../Page/NHK前橋放送局.md" title="wikilink">前橋</a><br />
+（契約キャスター）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>加藤美穂</p></td>
-<td><p>元<a href="../Page/NHK釧路放送局.md" title="wikilink">釧路局契約キャスター</a></p></td>
-<td><p>ほっとニュース北海道 スポーツキャスター</p></td>
+<td><p><a href="../Page/NHK釧路放送局.md" title="wikilink">釧路</a><br />
+（契約キャスター）</p></td>
+<td><p>ほっとニュース北海道<br />
+（スポーツキャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>岩尾亮</p></td>
+<td></td>
+<td><p>ほっとニュース北海道<br />
+（リポーター）</p></td>
+<td><p>舞台俳優</p></td>
+</tr>
+<tr class="even">
+<td><p>坂井里紗</p></td>
+<td></td>
+<td><p>ほっとニュース北海道</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>二株麻依</p></td>
+<td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a><br />
+（契約キャスター）</p></td>
+<td><p>ほっとニュース北海道<br />
+（JIMOTO自慢）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>工藤恵里奈</p></td>
-<td><p>元<a href="../Page/NHK帯広放送局.md" title="wikilink">帯広局契約キャスター</a></p></td>
-<td><p>おはよう北海道 土曜プラス サブキャスター</p></td>
+<td><p><a href="../Page/NHK帯広放送局.md" title="wikilink">帯広</a><br />
+（契約キャスター）</p></td>
+<td><p>NHKニュース おはよう北海道<br />
+（キャスター）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>坂井里紗</p></td>
+<td><p>堀若菜</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>佐藤千佳</p></td>
+<td><p><a href="../Page/NHK北見放送局.md" title="wikilink">北見</a><br />
+（契約キャスター）</p></td>
+<td><p>ひるまえナマら!北海道<br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>谷本侑喜代</p></td>
+<td><p>帯広<br />
+（契約キャスター）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>西條真央</p></td>
+<td><p>旭川<br />
+（契約キャスター）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>西野愛由</p></td>
+<td><p>室蘭<br />
+（契約キャスター）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>佐々木愛英</p></td>
-<td><p>元<a href="../Page/NHK釧路放送局.md" title="wikilink">釧路局契約キャスター</a></p></td>
-<td><p>リポーター</p></td>
+<td><p>釧路<br />
+（契約キャスター）</p></td>
+<td><p>くらしナビ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>佐藤千佳</p></td>
-<td><p>元<a href="../Page/NHK北見放送局.md" title="wikilink">北見局契約キャスター</a></p></td>
-<td><p>ひるまえナマら!北海道 キャスター</p></td>
+<td><p>気象予報士</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>谷本侑喜代</p></td>
-<td><p>元<a href="../Page/NHK帯広放送局.md" title="wikilink">帯広局契約キャスター</a></p></td>
-<td><p>ひるまえナマら!北海道 キャスター</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>太細真弥</p></td>
-<td><p>元<a href="../Page/NHK函館放送局.md" title="wikilink">函館局契約キャスター</a></p></td>
-<td><p>ほっとニュース北海道 キャスター</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/永井華子" title="wikilink">永井華子</a></p></td>
-<td><p>元<a href="../Page/秋田朝日放送.md" title="wikilink">秋田朝日放送</a>アナウンサー</p></td>
-<td><p>ほっとニュース北海道 キャスター</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>二株麻依</p></td>
-<td><p>元<a href="../Page/NHK大分放送局.md" title="wikilink">大分局契約キャスター</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>堀若菜</p></td>
+<td><p>浜崎慎二</p></td>
 <td></td>
-<td><p>おはよう北海道 土曜プラス サブキャスター</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>村上陽子</p></td>
-<td></td>
-<td><p>ひるまえナマら!北海道 キャスター<br />
-北海道まるごとラジオ</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>出演者契約（外部プロダクション所属）</p></td>
-<td></td>
-<td></td>
+<td><p>ほっとニュース北海道</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>岩尾亮</p></td>
-<td><p>舞台俳優</p></td>
-<td><p>ほっとニュース北海道 など</p></td>
+<td><p>杉山友衣可</p></td>
+<td></td>
+<td><p>NHKニュース おはよう北海道<br />
+ひるまえナマら!北海道</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>森和也</p></td>
-<td><p><a href="../Page/日本気象協会.md" title="wikilink">日本気象協会</a></p></td>
-<td><p>NHKニュースおはよう北海道</p></td>
-<td><p><a href="../Page/気象予報士.md" title="wikilink">気象予報士</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>杉山友衣可</p></td>
-<td><p>NHKニュースおはよう北海道土曜プラス</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>濱崎慎二</p></td>
-<td><p>ほっとニュース北海道</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平出真有</p></td>
-<td><p>ひるまえナマら!北海道</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

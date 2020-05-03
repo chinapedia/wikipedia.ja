@@ -1,7 +1,7 @@
 > この記事は[ホンダ・NSX](https://ja.wikipedia.org/wiki/ホンダ・NSX)から翻訳されています。
 
 
-**NSX**（エヌエスエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売していた2シーターの[スポーツカー](../Page/スポーツカー.md "wikilink")である。本稿ではNSXタイプS(NSX-S)、NSXタイプR(NSX-R)についても述べる。
+**NSX**（エヌエスエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売していた2シーターの[スーパーカーである](../Page/スポーツカー.md "wikilink")。本稿ではNSXタイプS(NSX-S)、NSXタイプR(NSX-R)についても述べる。
 
 ## 概要
 

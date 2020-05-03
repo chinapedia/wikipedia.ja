@@ -67,7 +67,7 @@
 | 20    | 2016年7月29日  | **[アマツツミ](https://ja.wikipedia.org/wiki/アマツツミ "wikilink")**                                          | 克、月杜尋、鳥取砂丘                                                      | 御影、他                                                               |
 | 21    | 2017年11月24日 | **[アオイトリ](https://ja.wikipedia.org/wiki/アオイトリ_\(アダルトゲーム\) "wikilink")**<ref>{{Cite web               | last =                                                          | first =                                                            |
 | 22    | 2019年3月29日  | **[リアライブ](https://ja.wikipedia.org/wiki/リアライブ "wikilink")**                                          | 克、むちゃ                                                           | なかひろ                                                               |
-| 23    | 発売日未定       | **[青春フラジャイル](https://ja.wikipedia.org/wiki/青春フラジャイル "wikilink")**<ref>{{Cite web                     | last =                                                          | first =                                                            |
+| 23    | 2020年8月28日  | **[青春フラジャイル](https://ja.wikipedia.org/wiki/青春フラジャイル "wikilink")**<ref>{{Cite web                     | last =                                                          | first =                                                            |
 |       |             |                                                                                                      |                                                                 |                                                                    |
 
 #### ボンボンカンパニー

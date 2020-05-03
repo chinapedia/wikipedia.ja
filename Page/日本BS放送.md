@@ -422,11 +422,11 @@ BS11では、通常のハイビジョン放送とは別に[3D立体映像](../Pa
 | レディの品格            | 月曜 - 金曜 11:29 - 12:00                                         | 韓国ドラマ 韓ドラ11枠          |                                                                                  |
 | 運命の渦              | 月曜 - 金曜 13:00 - 13:30                                         | 韓国ドラマ 韓流プラスⅠ枠         |                                                                                  |
 | ミスティ～愛の真実～        | 月曜 - 金曜 13:59 - 15:00                                         | 韓国ドラマ 韓流プラスⅡ枠         |                                                                                  |
-| 月に咲く花の如く          | 月曜 - 金曜 15:29 - 16:30                                         | 中国時代劇                 |                                                                                  |
+| 女医明妃伝〜雪の日の誓い〜     | 月曜 - 金曜 15:29 - 16:30                                         | 中国時代劇                 |                                                                                  |
 | 武則天-The Empress-  | 月曜 - 木曜 19:00 - 20:00                                         | 中国時代劇                 |                                                                                  |
 | アバウトタイム～止めたい時間～   | 火曜 - 土曜 4:00 - 5:00                                           | 韓国ドラマ アーリーモーニング枠      |                                                                                  |
 | 駆け抜けろ1996         | 金曜 - 日曜 4:00 - 5:00                                           | 中国ドラマ アーリーモーニング枠      |                                                                                  |
-| 油っこいロマンス          | 土曜 - 日曜 9:59 - 10:55                                          | 韓流ウィークエンド枠            |                                                                                  |
+| 油っこいロマンス          | 土曜 - 日曜 9:59 - 10:55                                          | 韓国ドラマ 韓流ウィークエンド枠      |                                                                                  |
 
 ### アニメ
 
@@ -444,22 +444,27 @@ BSの無料民放局では最も多くのアニメを放送している。特に
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アニメ+" title="wikilink">ANIME+<br />
-アニメ+</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アニメ+" title="wikilink">ANIME+</a></p></td>
 <td><p>当該項目を参照</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>キッズアニメ∞</p></td>
-<td><p>金曜 19:00 - 20:00</p></td>
-<td><p>2020年4月10日開始予定</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アニメ+" title="wikilink">アニメ+</a></p></td>
+<td><p>土曜 19:00 - 20:00</p></td>
+<td><p>全2作品のアニメを放送</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アニメ+" title="wikilink">キッズアニメ∞</a></p></td>
+<td><p>金曜 19:00 - 20:00</p></td>
+<td><p>2020年4月10日開始<br />
+全2作品のアニメを放送</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/はっけん_たいけん_だいすき!_しまじろう" title="wikilink">しまじろうのわお!</a></p></td>
 <td><p>日曜 17:30 - 18:00</p></td>
 <td><p><a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a>制作、24日遅れ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アニナビ☆イレブン！</p></td>
 <td><p>不定期</p></td>
 <td></td>
@@ -496,7 +501,7 @@ BSの無料民放局では最も多くのアニメを放送している。特に
 <td><p>2019年9月までは月曜 19:00 - 20:00に放送されていた。</p></td>
 </tr>
 <tr class="even">
-<td><p>世界の国境を歩いてみたら・・・【傑作選】</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/世界の国境を歩いてみたら…" title="wikilink">世界の国境を歩いてみたら…</a>【傑作選】</p></td>
 <td><p>水曜 20:00 - 20:58 ※最終水曜除く</p></td>
 <td></td>
 </tr>
@@ -882,7 +887,7 @@ BSの無料民放局では最も多くのアニメを放送している。特に
 
 ### アニメ
 
-BS11が製作委員会に参加した作品は [:Category:BS11のテレビアニメを参照されたい](https://ja.wikipedia.org/wiki/Category:BS11のテレビアニメ "wikilink")。
+BS11が製作委員会に参加した作品は[:Category:BS11のテレビアニメを参照されたい](https://ja.wikipedia.org/wiki/Category:BS11のテレビアニメ "wikilink")。
 
 ## アナウンサー
 

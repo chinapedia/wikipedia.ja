@@ -55,7 +55,7 @@
 
 #### 編著・共著
 
-  - [仁義なき戦い](https://ja.wikipedia.org/wiki/仁義なき戦い "wikilink")浪漫アルバム 杉作J太郎,[植地毅](https://ja.wikipedia.org/wiki/植地毅 "wikilink")編著 徳間書店, 1998.5
+  - [仁義なき戦い](../Page/仁義なき戦い.md "wikilink")浪漫アルバム 杉作J太郎,[植地毅](https://ja.wikipedia.org/wiki/植地毅 "wikilink")編著 徳間書店, 1998.5
   - 東映ピンキー・バイオレンス浪漫アルバム 杉作J太郎,[植地毅](https://ja.wikipedia.org/wiki/植地毅 "wikilink")編著 徳間書店, 1999.6
   - [トラック野郎](https://ja.wikipedia.org/wiki/トラック野郎 "wikilink") 浪漫アルバム 杉作J太郎,[植地毅](https://ja.wikipedia.org/wiki/植地毅 "wikilink")編著 徳間書店 2014.4
   - Jさん&豪さんの世相を斬る\!@ロフトプラスワン\[青春愛欲編\] 杉作J太郎,[吉田豪](../Page/吉田豪.md "wikilink") ロフトブックス 2014.12

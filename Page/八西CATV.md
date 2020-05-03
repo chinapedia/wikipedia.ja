@@ -51,7 +51,7 @@
 | BS200 | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")1                                                      |
 | BS201 | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")2                                                      |
 | BS202 | [スターチャンネル](https://ja.wikipedia.org/wiki/スターチャンネル "wikilink")3                                                      |
-| BS211 | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                                             |
+| BS211 | [BS11](../Page/日本BS放送.md "wikilink")                                                                                |
 | BS222 | [BS12 トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                               |
 | 222   | [映画・チャンネルNECO](../Page/チャンネルNECO.md "wikilink")                                                                     |
 | 245   | [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")1 ドラマ・バラエティ・アニメ                                                           |

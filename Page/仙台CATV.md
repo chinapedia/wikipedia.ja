@@ -54,7 +54,7 @@
 |      | 181   | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                   |
 | 52   | 191   | [WOWOW](../Page/WOWOW.md "wikilink")                                                                                 |
 |      | 200   | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")BS                                                                       |
-|      | 211   | [BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")                                                              |
+|      | 211   | [BS11](../Page/日本BS放送.md "wikilink")                                                                                 |
 |      | 222   | [TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                                                    |
 |      | 706   | [シアター・テレビジョン](https://ja.wikipedia.org/wiki/シアター・テレビジョン "wikilink")                                                  |
 | 33   | 709   | [放送大学テレビ](../Page/放送大学学園.md "wikilink")                                                                              |

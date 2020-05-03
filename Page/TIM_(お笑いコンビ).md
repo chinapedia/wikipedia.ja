@@ -1,7 +1,7 @@
 > この記事は[TIM \(お笑いコンビ\)](https://ja.wikipedia.org/wiki/TIM_\(お笑いコンビ\))から翻訳されています。
 
 
-**TIM**（ティーアイエム）は、レッド吉田とゴルゴ松本からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。コンビ名の由来は「タイム・イズ・マネー」から。
+**TIM**（ティーアイエム）は、[レッド吉田](../Page/レッド吉田.md "wikilink")と[ゴルゴ松本](../Page/ゴルゴ松本.md "wikilink")からなる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。コンビ名の由来は「タイム・イズ・マネー」（**T**ime **i**s **m**oney）から。
 
 ## メンバー
 
@@ -69,7 +69,7 @@ TIMとしての出演を記載。個人での出演は[レッド吉田](https://
   - [Odds On TV\! ダートチャンネル](../Page/Odds_On_TV!.md "wikilink")「馬の子TIM」（[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")、2006年7月 - 全13回 第2シリーズ 2007年4月2日 - 2007年6月25日 第3シリーズ 2008年1月 - 2008年3月 第4シリーズ 2009年7月 - 2009年9月）
   - メルヘンプロダクション（[三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")、2008年4月 - 2009年1月） - **MC**
   - [新感覚ゲーム クエスタ](https://ja.wikipedia.org/wiki/新感覚ゲーム_クエスタ "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")、2010年4月1日 - 2011年4月14日）
-  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、2011年1月 - 2016年12月25日）
+  - [BSイレブン競馬中継](https://ja.wikipedia.org/wiki/BSイレブン競馬中継 "wikilink")（[BS11](../Page/日本BS放送.md "wikilink")、2011年1月 - 2016年12月25日）
   - [うまナビ\!イレブン](https://ja.wikipedia.org/wiki/うまナビ!イレブン "wikilink")（BS11、2011年1月 - 2016年12月25日）
   - [うまのこTIM](https://ja.wikipedia.org/wiki/うまのこTIM "wikilink")（グリーンチャンネル、2017年4月 - 2017年6月）
 

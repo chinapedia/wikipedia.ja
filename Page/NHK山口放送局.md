@@ -271,7 +271,7 @@
   - ニュース (平日 12:15 - 12:20)
   - [情報維新\!やまぐち](https://ja.wikipedia.org/wiki/情報維新!やまぐち "wikilink")（平日18:10～19:00）
   - [Yスペ -YAMAGUCHI SPECIAL-](https://ja.wikipedia.org/wiki/Yスペ_-YAMAGUCHI_SPECIAL- "wikilink")（金曜19:30～19:55、土曜7:30〜7:55／※年8回程度放送予定。その他の週は広島発『[ラウンドちゅうごく 為になるテレビ](https://ja.wikipedia.org/wiki/ラウンドちゅうごく_為になるテレビ "wikilink")』）
-  - [情報維新\!やまぐち845](https://ja.wikipedia.org/wiki/情報維新!やまぐち845 "wikilink")（平日20:45〜21:00）※祝日は20:55 - 21:00に「中国地方のニュース・気象情報」を放送。
+  - [情報維新\!やまぐち845](https://ja.wikipedia.org/wiki/情報維新!やまぐち845 "wikilink")（平日20:45〜21:00）※祝日は休止し、20:55 - 21:00に「中国地方のニュース・気象情報」を放送。
 
 <!-- end list -->
 

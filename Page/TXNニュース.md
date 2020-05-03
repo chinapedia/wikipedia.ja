@@ -23,7 +23,7 @@
 
 2010年代に入ってからは放送枠の削減が進み、土曜最終版は2010年9月に、日曜昼→日曜朝は2017年8月に、月-金曜の祝祭日の朝は2017年9月を以ってそれぞれ終了している。日曜最終版は2018年1月から3月まで休止して番宣枠に差し替えられていたほか、2019年4月からミニ番組の開始で再度廃枠となった。
 
-かつては[岐阜放送](../Page/岐阜放送.md "wikilink")・[びわ湖放送](../Page/びわ湖放送.md "wikilink")・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")・[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")・BSジャパンでも放送されていたが、2017年現在はいずれの局も放送を終了している\[1\]。
+かつては[岐阜放送](../Page/岐阜放送.md "wikilink")・[びわ湖放送](../Page/びわ湖放送.md "wikilink")・[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")・[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")・BSジャパンでも放送されていたが、2017年現在はいずれの局も放送を終了している\[1\]。
 
 ## 現在の放送時間
 
@@ -211,7 +211,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>土曜深夜のみネットしていたが、2010年9月26日（25日深夜）終了</p></td>
 <td></td>
 </tr>
@@ -359,7 +359,7 @@
   - 0:20 - 0:25（2008年4月6日 - 2009年9月27日）
   - 0:50 - 0:55（2009年10月4日 - 2010年9月26日）
       - 2002年10月に『[ワールドビジネスサテライト土曜版](../Page/ワールドビジネスサテライト土曜版.md "wikilink")』の開始に伴い一旦終了したものの、2008年4月に同番組の終了に伴い再開された。当番組の枠確保のため、『[メガスポ\!](../Page/メガスポ!.md "wikilink")』が5分短縮された。
-      - 2010年3月28日（27日深夜）をもって[テレビ北海道](../Page/テレビ北海道.md "wikilink")・[テレビ愛知](../Page/テレビ愛知.md "wikilink")の2局における放送は終了した他、同年9月26日（25日深夜）には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[テレビせとうち](../Page/テレビせとうち.md "wikilink")・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")における放送も終了した。これに伴い、1969年12月に『[東京12チャンネルニュース](https://ja.wikipedia.org/wiki/東京12チャンネルニュース "wikilink")』を放送開始以来40年9か月に渡って放送されてきた土曜最終版のニュース枠は廃枠となった\[9\]。
+      - 2010年3月28日（27日深夜）をもって[テレビ北海道](../Page/テレビ北海道.md "wikilink")・[テレビ愛知](../Page/テレビ愛知.md "wikilink")の2局における放送は終了した他、同年9月26日（25日深夜）には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[テレビせとうち](../Page/テレビせとうち.md "wikilink")・[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")・[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")における放送も終了した。これに伴い、1969年12月に『[東京12チャンネルニュース](https://ja.wikipedia.org/wiki/東京12チャンネルニュース "wikilink")』を放送開始以来40年9か月に渡って放送されてきた土曜最終版のニュース枠は廃枠となった\[9\]。
 
 ### 月曜未明（日曜深夜）
 

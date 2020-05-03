@@ -103,7 +103,7 @@
 コールサイン：**JOIP**
 
   - 大分：639kHz　5kW（[大分市](../Page/大分市.md "wikilink")生石、[NHK平原ラジオ放送所](../Page/NHK平原ラジオ放送所.md "wikilink")※[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[11月23日](../Page/11月23日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月31日](../Page/7月31日.md "wikilink")は、819kHzで送信していた）
-  - 中津：981kHz　100W（[中津市](../Page/中津市.md "wikilink")下池永字錆矢堂、局舎及びアンテナは[OBSラジオ](https://ja.wikipedia.org/wiki/大分放送 "wikilink")[中津中継局](https://ja.wikipedia.org/wiki/中津中継局 "wikilink")と共用）
+  - 中津：981kHz　100W（[中津市](../Page/中津市.md "wikilink")下池永字錆矢堂、局舎及びアンテナは[OBSラジオ](../Page/大分放送.md "wikilink")[中津中継局](https://ja.wikipedia.org/wiki/中津中継局 "wikilink")と共用）
   - 日田：1026kHz　100W（[日田市](../Page/日田市.md "wikilink")高瀬字銭渕町、[NHK日田ラジオ中継局](https://ja.wikipedia.org/wiki/NHK日田ラジオ中継局 "wikilink")）
   - 佐伯：1161kHz　100W（[佐伯市](../Page/佐伯市.md "wikilink")野岡、局舎及びアンテナはOBSラジオ[佐伯ラジオ中継局](https://ja.wikipedia.org/wiki/佐伯ラジオ中継局 "wikilink")と共用）
   - 竹田：1323kHz　100W（[竹田市](../Page/竹田市.md "wikilink")飛田川字荒巻、[NHK竹田ラジオ中継局](https://ja.wikipedia.org/wiki/NHK竹田ラジオ中継局 "wikilink")）
@@ -119,7 +119,7 @@
 コールサイン：**JOID**
 
   - 大分：1467kHz　1kW（大分市生石、NHK平原ラジオ放送所※ - 1978年11月22日までは、1470kHzで送信していた）
-  - 佐伯：1521kHz　100W（佐伯市野岡、局舎及びアンテナは[OBSラジオ佐伯ラジオ中継局と共用](https://ja.wikipedia.org/wiki/大分放送 "wikilink")）
+  - 佐伯：1521kHz　100W（佐伯市野岡、局舎及びアンテナは[OBSラジオ佐伯ラジオ中継局と共用](../Page/大分放送.md "wikilink")）
 
 <!-- end list -->
 

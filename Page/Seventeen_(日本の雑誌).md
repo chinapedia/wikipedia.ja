@@ -7,29 +7,29 @@
 
 ## 概要
 
-1968年6月に、総合少女週刊誌『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』のお姉さん雑誌『**週刊セブンティーン**』として創刊、[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1944年に創刊された『[Seventeen](https://ja.wikipedia.org/wiki/Seventeen_\(アメリカの雑誌\) "wikilink")』の日本版として出発した。掲載内容は[ファッション](../Page/ファッション.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[芸能など多岐にわたる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")。
+[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")6月に、総合少女週刊誌『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』のお姉さん雑誌『**週刊セブンティーン**』として創刊、[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1944年に創刊された『[Seventeen](https://ja.wikipedia.org/wiki/Seventeen_\(アメリカの雑誌\) "wikilink")』の日本版として出発した。掲載内容は[ファッション](../Page/ファッション.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[芸能など多岐にわたる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")。
 
-通巻1000号となる1988年1月3日号より、誌名の表記をアルファベットの『**SEVENTEEN**』としてリニューアル。判型は大きいサイズ、刊行は月2回の隔週刊（毎月1日・15日）に変更し、漫画部分が無くなった。 [漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")としての部分は『月刊ティアラ』として新創刊され、引き継がれた。その後、ライバル誌だった[小学館](../Page/小学館.md "wikilink")の『[プチセブン](../Page/プチセブン.md "wikilink")』の廃刊後、急速に売り上げを伸ばし、「ティーンのNo.1雑誌」と銘打っている。
+通巻1000号となる[1988年](../Page/1988年.md "wikilink")1月3日号より、誌名の表記をアルファベットの『**SEVENTEEN**』としてリニューアル。判型は大きいサイズ、刊行は月2回の隔週刊（毎月1日・15日）に変更し、漫画部分が無くなった。 [漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")としての部分は『月刊ティアラ』として新創刊され、引き継がれた。その後、ライバル誌だった[小学館](../Page/小学館.md "wikilink")の『[プチセブン](../Page/プチセブン.md "wikilink")』の廃刊後、急速に売り上げを伸ばし、「ティーンのNo.1雑誌」と銘打っている。
 
 [2001年](../Page/2001年.md "wikilink")から徐々に芸能人の記事や表紙掲載が減り、表紙は当雑誌の専属モデルを起用、誌面にも多数の現役女子高生読者モデルを登場させ、女子中高生向けファッション雑誌に特化するようになった。
 
 創刊40周年を機に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月号より月刊化。表記も『**Seventeen**』に変更した。
 
-上位誌は1971年創刊の『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』であるが、2004～09年にかけては系統の異なる上位誌として『[PINKY](../Page/PINKY.md "wikilink")』も発売された。
+上位誌は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")創刊の『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』であるが、[2004年](../Page/2004年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")にかけては系統の異なる上位誌として『[PINKY](../Page/PINKY.md "wikilink")』も発売された。
 
 ## 月刊セブンティーン
 
-1969年に『**別冊セブンティーン**』として創刊（1969年12月号）。毎月24日発売。掲載内容は、少女漫画の他にファッションや芸能もあった。1973年6月号より『**月刊セブンティーン**』へ名称を変更し、新創刊する。『週刊』の「**週セ**」に対し、「**月セ**」と呼ばれ、以下のヒット作を生み出したが、1986年12月号を最後に廃刊。従来「月刊セブンティーン特別編集」とされていた『[ヤングユー](../Page/ヤングユー.md "wikilink")』が隔月刊から月刊になった。
+[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に『**別冊セブンティーン**』として創刊（1969年12月号）。毎月24日発売。掲載内容は、少女漫画の他にファッションや芸能もあった。[1973年](../Page/1973年.md "wikilink")6月号より『**月刊セブンティーン**』へ名称を変更し、新創刊する。『週刊』の「**週セ**」に対し、「**月セ**」と呼ばれ、以下のヒット作を生み出したが、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")12月号を最後に廃刊。従来「月刊セブンティーン特別編集」とされていた『[ヤングユー](../Page/ヤングユー.md "wikilink")』が隔月刊から月刊になった。
 
 ## 掲載されていた漫画
 
 ### 週刊セブンティーン時代
 
-  - [西谷祥子](https://ja.wikipedia.org/wiki/西谷祥子 "wikilink")『花びら日記』1968年1号より掲載。
+  - [西谷祥子](https://ja.wikipedia.org/wiki/西谷祥子 "wikilink")『花びら日記』[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")1号より掲載。
   - [水野英子](../Page/水野英子.md "wikilink")『[ファイヤー\!](https://ja.wikipedia.org/wiki/ファイヤー! "wikilink")』
   - [津雲むつみ](../Page/津雲むつみ.md "wikilink")『[おれは男だ\!](../Page/おれは男だ!.md "wikilink")』『彩りのころ』『[風と共に去りぬ](../Page/風と共に去りぬ.md "wikilink")』
   - 武田京子『さぼてんとマシュマロ』
-  - [宮脇明子](https://ja.wikipedia.org/wiki/宮脇明子 "wikilink")『[ヤヌスの鏡](../Page/ヤヌスの鏡.md "wikilink")』1981年 - 1982年掲載。1985年12月、ドラマ化され、フジテレビ系の水8枠で放映。
+  - [宮脇明子](https://ja.wikipedia.org/wiki/宮脇明子 "wikilink")『[ヤヌスの鏡](../Page/ヤヌスの鏡.md "wikilink")』[1981年](../Page/1981年.md "wikilink") - [1982年](../Page/1982年.md "wikilink")掲載。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")12月、ドラマ化され、フジテレビ系の水8枠で放映。
 
 ### 月刊セブンティーン
 
@@ -51,7 +51,7 @@
 
 誌面に登場する[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")は「**STモ**」と呼ばれる。STモは一般公募のオーディション「**[ミスセブンティーン](https://ja.wikipedia.org/wiki/#現在のオーディション "wikilink")**」で選出されたり\[1\]、大手芸能事務所からの編集部への売り込みなどで定期的に補充される「プロダクション組」がいる。
 
-特にプロダクション組は2010年以降ローティーン向け雑誌『nicola』（新潮社）からのトップモデルもしくはナンバー2モデルの移籍が続いており、2010年の[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")、2011年の[立石晴香](../Page/立石晴香.md "wikilink")、2013年の[古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")を皮切りに、以降2017年までは毎年9月号で1～2名の移籍が発生している。[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")はトップモデルとし活躍し表紙25回在籍64か月であったが、ローティーン雑誌主催のモデルオーディション出身者は冷遇される傾向があり、[立石晴香](../Page/立石晴香.md "wikilink")（在籍29ヶ月）や[藤麻理亜](https://ja.wikipedia.org/wiki/藤麻理亜 "wikilink")（在籍20ヶ月）は表紙を経験せずに比較的短期間で『seventeen』を卒業しており、4年間在籍した[古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")も当時同年代でも唯一の表紙未経験であった。2017年8月現在プロダクション組の10名中7名がローティーン雑誌からの移籍組が占めている。
+特にプロダクション組は2010年以降ローティーン向け雑誌『nicola』（新潮社）からのトップモデルもしくはナンバー2モデルの移籍が続いており、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")、[2011年](../Page/2011年.md "wikilink")の[立石晴香](../Page/立石晴香.md "wikilink")、[2013年](../Page/2013年.md "wikilink")の[古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")を皮切りに、以降[2017年](../Page/2017年.md "wikilink")までは毎年9月号で1～2名の移籍が発生している。[西内まりや](https://ja.wikipedia.org/wiki/西内まりや "wikilink")はトップモデルとし活躍し表紙25回在籍64か月であったが、ローティーン雑誌主催のモデルオーディション出身者は冷遇される傾向があり、[立石晴香](../Page/立石晴香.md "wikilink")（在籍29ヶ月）や[藤麻理亜](https://ja.wikipedia.org/wiki/藤麻理亜 "wikilink")（在籍20ヶ月）は表紙を経験せずに比較的短期間で『seventeen』を卒業しており、4年間在籍した[古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")も当時同年代でも唯一の表紙未経験であった。2017年8月現在プロダクション組の10名中7名がローティーン雑誌からの移籍組が占めている。
 
 人気モデルは頻繁にカバーガール（表紙）を務めたり、連載ページを担当するほか、ソロで[フォトエッセイが発売されることもある](../Page/写真集.md "wikilink")。本誌に限らないが、『[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")』、『[MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")』など集英社の男性向け雑誌に出演して、女性に限らず男性からも支持を集めるという手法も採られている。卒業後は、他のファッション誌に移籍し引き続きモデルとして活躍する者がほとんどだが、[女優や](../Page/俳優.md "wikilink")[歌手](../Page/歌手.md "wikilink")に転向し人気を得る者もいる。
 
@@ -791,15 +791,15 @@
 
 ## ミスセブンティーン
 
-1986年から1999年までの休止期をはさんで2期に分かれる。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1999年](../Page/1999年.md "wikilink")までの休止期をはさんで2期に分かれる。
 
 ### 旧オーディション
 
-1970年から1986年まで、「**ミスセブンティーン**」と題したオーディション大会を開催していた。
+[1970年](../Page/1970年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで、「**ミスセブンティーン**」と題したオーディション大会を開催していた。
 
-1971年大会は坂口良子がグランプリ、1978年大会では松田聖子が地区大会でスカウトされた。中でも1984年大会は非常に水準の高い大会となり（応募総数歴代最大18万325人）、松本典子や網浜直子らがグランプリを受賞し、入賞者の全てが歌手ないしは女優としてデビューしている。国生さゆり、渡辺美里、工藤静香、渡辺満里奈、清原亜希などが出場していた。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")大会は[坂口良子](../Page/坂口良子.md "wikilink")がグランプリ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")大会では[松田聖子](../Page/松田聖子.md "wikilink")が地区大会でスカウトされた。中でも[1984年](../Page/1984年.md "wikilink")大会は非常に水準の高い大会となり（応募総数歴代最大18万325人）、[松本典子](../Page/松本典子.md "wikilink")や[網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")らがグランプリを受賞し、入賞者の全てが歌手ないしは女優としてデビューしている。[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")、\[\[工藤静香\]、\[\[渡辺満里奈|工藤静香\]、[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")、[清原亜希](https://ja.wikipedia.org/wiki/清原亜希 "wikilink")などが出場していた。
 
-1986年の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した（出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された）。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した（出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された）。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
 
 #### コンテスト受賞者
 
@@ -837,7 +837,7 @@
 
 ### 現在のオーディション
 
-1986年以降一時休止していたが、1999年からオーディションが再開され、現在は専属モデルの選出に特化している。下記のテンプレート参照。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")以降一時休止していたが、[1999年](../Page/1999年.md "wikilink")からオーディションが再開され、現在は専属モデルの選出に特化している。下記のテンプレート参照。
 
 4月号にモデルの応募方法が記載され、8月号で最終選考で残った候補者による読者投票で決定する。
 
@@ -847,7 +847,7 @@
 
 ## 連動番組
 
-[BS-TBS](../Page/BS-TBS.md "wikilink")では、2008年から「夏の学園祭」の模様を放送するようになり、2009年4月からは本誌との[メディアミックス](../Page/メディアミックス.md "wikilink")として『[恋とオシャレと男のコ](https://ja.wikipedia.org/wiki/恋とオシャレと男のコ "wikilink")』という[テレビドラマ](../Page/テレビドラマ.md "wikilink")が放送され、セブンティーンの専属モデルが主演を務めた。7月からは、メディアミックスの第2弾となる[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・バラエティ番組『[激モテ\!セブンティーン学園](https://ja.wikipedia.org/wiki/激モテ!セブンティーン学園 "wikilink")』が開始、やはり同誌の専属モデルがレギュラー出演していた。
+[BS-TBS](../Page/BS-TBS.md "wikilink")では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から「夏の学園祭」の模様を放送するようになり、[2009年](../Page/2009年.md "wikilink")4月からは本誌との[メディアミックス](../Page/メディアミックス.md "wikilink")として『[恋とオシャレと男のコ](https://ja.wikipedia.org/wiki/恋とオシャレと男のコ "wikilink")』という[テレビドラマ](../Page/テレビドラマ.md "wikilink")が放送され、セブンティーンの専属モデルが主演を務めた。7月からは、メディアミックスの第2弾となる[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・バラエティ番組『[激モテ\!セブンティーン学園](https://ja.wikipedia.org/wiki/激モテ!セブンティーン学園 "wikilink")』が開始、やはり同誌の専属モデルがレギュラー出演していた。
 
 ## Seventeenモデビュ
 
@@ -856,7 +856,7 @@
 ## その他
 
   - [SH-05B](https://ja.wikipedia.org/wiki/SH-05B "wikilink") - Seventeenとコラボ（[docomo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）
-  - [中村昇 (写真家)](https://ja.wikipedia.org/wiki/中村昇_\(写真家\) "wikilink") - 1972年の入社から2008年の定年まで集英社に勤務したが、最初の配属先がセブンティーン編集部。
+  - [中村昇 (写真家)](https://ja.wikipedia.org/wiki/中村昇_\(写真家\) "wikilink") - [1972年](../Page/1972年.md "wikilink")の入社から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の定年まで集英社に勤務したが、最初の配属先がセブンティーン編集部。
 
 ## 脚注
 

@@ -189,31 +189,26 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/與芝由三栄.md" title="wikilink">與芝由三栄</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a> |-<a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a>ＩＩ<a href="https://ja.wikipedia.org/wiki/NHK放送センター東京アナウンス室" title="wikilink">NHK放送センター東京アナウンス室</a></p></td>
+<td><p>契約キャスター</p></td>
 </tr>
 <tr class="even">
-<td><p>契約キャスター</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岩崎愛_(モデル)" title="wikilink">岩崎愛</a></p></td>
 <td></td>
 <td><p>日刊!さいたま〜ず<br />
 ひるまえほっと</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>岸田祥子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>渡辺恵理</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武田涼花</p></td>
 <td></td>
 <td></td>
@@ -227,8 +222,8 @@
 
 ## 関連人物
 
-  - [永井多恵子](../Page/永井多恵子.md "wikilink")（元NHK副会長。1990 - 1993年、当時の浦和放送局でNHKの女性正職員として史上初の放送局長を務めた）
-  - [荒木美和](../Page/荒木美和.md "wikilink")（ラジオセンターディレクター、元正職員アナウンサー〈初任地は[新潟](../Page/NHK新潟放送局.md "wikilink")〉になる前はリポーター）
+  - [永井多恵子](../Page/永井多恵子.md "wikilink")(ながい・たえこ)（元NHK副会長。1990 - 1993年、当時の浦和放送局でNHKの女性正職員として史上初の放送局長を務めた）
+  - [荒木美和](../Page/荒木美和.md "wikilink")(あらき・みわ)（ラジオセンターディレクター、元正職員アナウンサー〈初任地は[新潟](../Page/NHK新潟放送局.md "wikilink")〉になる前はリポーター）
 
 ## 脚注
 

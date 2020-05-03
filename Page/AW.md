@@ -32,7 +32,7 @@
 ## コード・形式名
 
   - [国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、[アルバ](../Page/アルバ.md "wikilink")を示す。
-  - [トヨタ・MR-2](https://ja.wikipedia.org/wiki/トヨタ・MR-2 "wikilink")初代モデル(AW10/11)の通称。
+  - [トヨタ・MR2](../Page/トヨタ・MR2.md "wikilink")初代モデル(AW10/11)の通称。
 
 ## フィクションのことがら
 

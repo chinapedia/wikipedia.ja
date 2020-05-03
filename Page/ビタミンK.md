@@ -283,7 +283,7 @@ Glaタンパク質はヒトの場合16個見付かっており、機能別に挙
 
 ヒトでの研究\[67\]によると、ビタミンK1は膵臓、肝臓、心臓に比較的多く存在している。ビタミンK2(MK-4)は膵臓、腎臓、脳、肝臓に多い。 MK-4/K1の比でみると、腎臓と脳にはK1の6-7倍のMK-4が存在しておりビタミンK2には未知の機能がまだあるのではないかとする意見もある。
 
-血液中では[LDL](../Page/リポタンパク質.md "wikilink")、[HDL](../Page/リポタンパク質.md "wikilink")、[トリグリセライド](https://ja.wikipedia.org/wiki/トリグリセライド "wikilink")([中性脂肪](https://ja.wikipedia.org/wiki/中性脂肪 "wikilink"))にビタミンK1が多い。
+血液中では[LDL](../Page/リポタンパク質.md "wikilink")、[HDL](../Page/リポタンパク質.md "wikilink")、[トリグリセライド](https://ja.wikipedia.org/wiki/トリグリセライド "wikilink")([中性脂肪](../Page/中性脂肪.md "wikilink"))にビタミンK1が多い。
 
 細胞内ではミトコンドリアに比較的多いとする報告がある\[68\]。
 

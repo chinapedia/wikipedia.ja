@@ -501,11 +501,42 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>LK専属</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>松崎洋子</p></td>
+<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a><br />
+（契約キャスター）</p></td>
+<td><p>ロクいち!福岡<br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>中田理奈</p></td>
+<td></td>
+<td><p>ロクいち!福岡<br />
+（リポーター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>福地礼奈</p></td>
+<td><p>元AKB48チーム8<br />
+佐賀県代表</p></td>
+<td><p>ロクいち!福岡<br />
+（リポーター）<br />
+実感ドドド!@福岡（リポーター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡野唯" title="wikilink">岡野唯</a></p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a>スポーツキャスター</p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a><br />
+スポーツキャスター</p></td>
 <td><p>ロクいち!福岡<br />
 （スポーツキャスター）</p></td>
-<td><p>2019年入局</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐々木理恵_(NHK福岡)" title="wikilink">佐々木理恵</a></p></td>
@@ -515,66 +546,50 @@
 <td><p>ふっくの「お守り」役のひとり</p></td>
 </tr>
 <tr class="odd">
+<td><p>辻本彩乃</p></td>
+<td><p>元<a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ放送</a><br />
+契約タレント</p></td>
+<td><p>はっけんTV</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>柴田文子</p></td>
-<td><p>元<a href="../Page/東北放送.md" title="wikilink">東北放送</a>スポーツ記者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/はっけんTV" title="wikilink">はっけんTV</a><br />
+<td><p>元<a href="../Page/東北放送.md" title="wikilink">東北放送</a><br />
+スポーツ記者</p></td>
+<td><p>はっけんTV<br />
 （福岡県域枠担当）</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>辻本彩乃</p></td>
-<td><p>元<a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ放送</a>契約タレント</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/はっけんTV" title="wikilink">はっけんTV</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>中尾友香</p></td>
-<td></td>
-<td><p>九州沖縄のニュース</p></td>
-<td><p>2017年入局</p></td>
-</tr>
-<tr class="even">
-<td><p>中田理奈</p></td>
-<td></td>
-<td><p>ロクいち!福岡<br />
-（リポーター）</p></td>
-<td><p>2019年入局</p></td>
-</tr>
 <tr class="odd">
 <td><p><a href="../Page/長安智子.md" title="wikilink">長安智子</a></p></td>
-<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
+<td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a><br />
+（契約キャスター）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/はっけんラジオ" title="wikilink">はっけんラジオ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>福地礼奈</p></td>
+<td><p>中尾友香</p></td>
 <td></td>
-<td><p>ロクいち!福岡<br />
-（リポーター）<br />
-実感ドドド!@福岡（リポーター）</p></td>
-<td><p>2019年入局<br />
-元AKB48チーム8佐賀県代表</p></td>
+<td><p>九州沖縄のニュース</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>松崎洋子</p></td>
-<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
-<td><p>ロクいち!福岡<br />
-（キャスター）</p></td>
-<td><p>2017年入局</p></td>
+<td><p>気象予報士</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>松井渉|松井<ruby>渉<rt>わたる</rt></ruby></p></td>
-<td><p><a href="../Page/日本気象協会.md" title="wikilink">日本気象協会</a>九州支社所属<br />
-<a href="../Page/気象予報士.md" title="wikilink">気象予報士</a><br />
-（福岡局公式サイト非掲載）</p></td>
+<td></td>
 <td><p>はっけんTV<br />
 はっけんラジオ</p></td>
-<td></td>
+<td><p><a href="../Page/日本気象協会.md" title="wikilink">日本気象協会</a>九州支社所属</p></td>
 </tr>
 <tr class="odd">
 <td><p>吉竹顕彰|吉竹<ruby>顕彰<rt>あきら</rt></ruby></p></td>
+<td></td>
 <td><p>ロクいち!福岡</p></td>
-<td><p>NHK出演歴20年以上</p></td>
 <td></td>
 </tr>
 </tbody>

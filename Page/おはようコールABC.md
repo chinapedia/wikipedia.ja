@@ -54,7 +54,7 @@
   - [斎藤真美](https://ja.wikipedia.org/wiki/斎藤真美 "wikilink")（2014年4月3日 - ）
       - 木・金曜のエンタメキャスターや、桂が休演した場合のメインキャスター代理を経て、2015年3月31日から正式にメインキャスターを担当。木・金曜日→全曜日のエンタメキャスターや、横山と共同で全曜日のニュースキャスターを兼務する。
 
-2020年には、日本国内で[新型コロナウイルスへの感染が拡大していることを背景に](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")、同年4月15日（水曜日）放送分から『おはよう朝日です』と共同で司会陣に2班体制を導入。感染拡大の一因とされる[飛沫感染のリスクを回避するための暫定措置として](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")、担当のアナウンサーと曜日を以下のように変更している。
+2020年には、日本国内で[新型コロナウイルスへの感染が拡大していることを背景に](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、同年4月15日（水曜日）放送分から『おはよう朝日です』と共同で司会陣に2班体制を導入。感染拡大の一因とされる[飛沫感染のリスクを回避するための暫定措置として](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")、担当のアナウンサーと曜日を以下のように変更している。[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")期間中（4月29日 - 5月6日）には、番組自体を休止する代わりに、自社制作番組の再放送などで対応。
 
   - 月曜 - 横山太一・[増田紗織](https://ja.wikipedia.org/wiki/増田紗織 "wikilink")
   - 火・水曜 - [柴田博](../Page/柴田博.md "wikilink")・斎藤真美
@@ -92,7 +92,7 @@
   - 水曜 - 木原善隆（朝日放送テレビ報道局ニュース情報センター所属、2015年4月2日 - ）
       - 放送上は、他の出演番組（『キャスト』月曜など）を含めて「ABCテレビコメンテーター」という肩書を使用。
   - 木曜
-      - [二木啓孝](../Page/二木啓孝.md "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")取締役）
+      - [二木啓孝](../Page/二木啓孝.md "wikilink")（[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")取締役）
       - [脇浜紀子](https://ja.wikipedia.org/wiki/脇浜紀子 "wikilink")（[京都産業大学](../Page/京都産業大学.md "wikilink")教授、元・[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")アナウンサー\[8\]、2020年4月2日 - ）
   - 金曜
       - [青木理](../Page/青木理.md "wikilink")\[9\]（ジャーナリスト）
@@ -104,10 +104,10 @@
 
 ##### スポーツ
 
-  - 月曜 - [加地亮](../Page/加地亮.md "wikilink")（2020年4月3日 - ）\[10\]
+  - 月曜 - [加地亮](../Page/加地亮.md "wikilink")（元・[プロサッカー選手](https://ja.wikipedia.org/wiki/プロサッカー選手 "wikilink")、2020年4月3日 - ）\[10\]
   - 火曜・金曜 - [中邨雄二](../Page/中邨雄二.md "wikilink")（[2018年](../Page/2018年.md "wikilink")4月2日 - ）
   - 水曜 - [伊藤史隆](../Page/伊藤史隆.md "wikilink")（2018年4月3日 - ）
-  - 木曜 - [掛布雅之](../Page/掛布雅之.md "wikilink")（2020年4月2日 - ）\[11\]
+  - 木曜 - [掛布雅之](../Page/掛布雅之.md "wikilink")（[阪神電気鉄道](../Page/阪神電気鉄道.md "wikilink")の顧問＜HLT＝ハンシン・レジェンド・テラー＞、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の元・内野手および二軍監督、2020年4月2日 - ）\[11\]
 
 2019年3月までは、井関真（2001年10月から出演）を皮切りに、[日刊スポーツ西日本](https://ja.wikipedia.org/wiki/日刊スポーツ西日本 "wikilink")大阪本社の編集委員（井関・寺尾博和・高原寿夫から）から1名が日替わりで担当。同年4月改編からは、現役のスポーツアナウンサーでもある中邨・伊藤も、スポーツキャスターではなく「スポーツコメンテーター」としてレギュラーで出演している。
 
@@ -192,13 +192,13 @@
   - [シュークリーム 吉岡久美子](https://ja.wikipedia.org/wiki/吉岡久美子 "wikilink")（2014年10月3日 - 不明）
   - [池口なる](https://ja.wikipedia.org/wiki/池口なる "wikilink")（2015年1月12日 - 不明）
   - [松田栞](https://ja.wikipedia.org/wiki/松田栞 "wikilink")（2015年1月12日 - 不明）
-  - [河邑ミク](https://ja.wikipedia.org/wiki/河邑ミク "wikilink")（2016年3月4日 - 不明）
+  - [河邑ミク](https://ja.wikipedia.org/wiki/河邑ミク "wikilink")（2016年3月4日 - 2020年3月）
   - [出口亜梨沙](https://ja.wikipedia.org/wiki/出口亜梨沙 "wikilink")（2016年3月16日 - 不明）
   - [笠原美香](https://ja.wikipedia.org/wiki/笠原美香 "wikilink")（2016年3月17日 - 不明）
   - [大濱絵梨香](https://ja.wikipedia.org/wiki/大濱絵梨香 "wikilink")（2016年3月23日 - 不明）
   - [吉岡結紀](https://ja.wikipedia.org/wiki/吉岡結紀 "wikilink")（2017年1月20日 - 不明）
   - [吉川亜樹](https://ja.wikipedia.org/wiki/吉川亜樹 "wikilink")（2017年1月20日 - 不明）
-  - [山根七星](https://ja.wikipedia.org/wiki/山根七星 "wikilink")（2017年4月3日 - 不明）
+  - [山根七星](https://ja.wikipedia.org/wiki/山根七星 "wikilink")（2017年4月3日 - 2020年3月）
 
 ## コーナー
 
@@ -206,18 +206,64 @@
 
 ※2020年4月現在
 
-  - 5:00 オープニング～きょうのトピックス
-  - 5:02ごろ 正木さんのお天気
-  - 5:06ごろ THE SPORTS
-  - 5:18ごろ 朝イチ\!news
-  - 5:38ごろ 正木さんのお天気
-  - 5:41ごろ エンタメこれみ～や
-  - 5:50 全国ニュース
-  - 5:59 オープニング～きょうのトピックス
-  - 6:00ごろ 正木さんのお天気
-  - 6:05ごろ トレたて\!
-  - 6:30ごろ 正木さんのお天気
-  - 6:39ごろ エンタメ
+<table>
+<thead>
+<tr class="header">
+<th><p>第1部（5:00 - 5:50）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>放送時間</p></td>
+</tr>
+<tr class="even">
+<td><p>5:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:02</p></td>
+</tr>
+<tr class="even">
+<td><p>5:06</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:18</p></td>
+</tr>
+<tr class="even">
+<td><p>5:27</p></td>
+</tr>
+<tr class="odd">
+<td><p>5:38</p></td>
+</tr>
+<tr class="even">
+<td><p>5:41</p></td>
+</tr>
+<tr class="odd">
+<td><p>（※5:50 - 6:00は『<a href="https://ja.wikipedia.org/wiki/グッド!モーニング_(テレビ番組)" title="wikilink">グッド!モーニング</a>・5時台』〈<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>制作。実質的には『<a href="https://ja.wikipedia.org/wiki/ANNニュース" title="wikilink">ANNニュース</a>』のみ。〉のため一旦中断（EPGなどでは5:00から6:45まで本番組と一括りされている）。<br />
+5:59 - 6:00は自社差し替えを行い、オープニング〜きょうのトピックスを放送する。5:59の時点で横山・斎藤が再び挨拶をする。）</p></td>
+</tr>
+<tr class="even">
+<td><p>第2部（6:00 - 6:45）</p></td>
+</tr>
+<tr class="odd">
+<td><p>放送時間</p></td>
+</tr>
+<tr class="even">
+<td><p>6:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>6:05</p></td>
+</tr>
+<tr class="even">
+<td><p>6:30</p></td>
+</tr>
+<tr class="odd">
+<td><p>6:39</p></td>
+</tr>
+<tr class="even">
+<td><p>6:44</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 過去
 

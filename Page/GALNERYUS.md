@@ -1644,7 +1644,7 @@ VPXQ-79003:Blu-ray 通常盤</p></td>
 「<a href="https://www.youtube.com/watch?v=6PBmGXTWjFk">絆</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p>ダイシン &amp; <a href="https://ja.wikipedia.org/wiki/小嶋貴之" title="wikilink">小嶋貴之</a></p></td>
+<td><p>ダイシン &amp; <a href="../Page/小嶋貴之.md" title="wikilink">小嶋貴之</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=pb7zn8cy3_8">SHINING MOMENTS</a>」<br />
 「<a href="https://www.youtube.com/watch?v=8KN3ju3xPmo">THERE'S NO ESCAPE</a>」</p></td>
 </tr>

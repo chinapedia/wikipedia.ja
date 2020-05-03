@@ -224,7 +224,7 @@
 
 <!-- end list -->
 
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
 
 <!-- end list -->
 

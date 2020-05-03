@@ -214,7 +214,7 @@ YAMAHA MUSIC FOUNDATION（著作権）</p></td>
 
 ## 外部リンク
 
-  - [PONYCANYON Shopping Club](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200500002343&DSP_SKHKETSEQ=001&SITKBN=S)
+  -
   - [Hits on TV　－　テレビショッピングのマニフィカ](http://www.shopmgca.jp/entertaiment/5/index.php)
 
 [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink") [Category:ワーナーミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアルバム "wikilink") [Category:ソニー・ミュージックダイレクトのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックダイレクトのアルバム "wikilink") [Category:通販CD](https://ja.wikipedia.org/wiki/Category:通販CD "wikilink") [Category:2005年のコンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のコンピレーション・アルバム "wikilink") [Category:テレビドラマ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビドラマ主題歌集 "wikilink")

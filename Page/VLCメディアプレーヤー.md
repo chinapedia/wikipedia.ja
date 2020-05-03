@@ -73,67 +73,95 @@ Windows、LinuxなどのプラットフォームでNPAPIプラグインを提供
 
 ## 再生サポート
 
-  - メディア
-    [DVD-Video](../Page/DVD-Video.md "wikilink")、[ビデオCD](../Page/ビデオCD.md "wikilink")、[スーパービデオCD](../Page/スーパービデオCD.md "wikilink")、[音楽CD](../Page/CD-DA.md "wikilink")、[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[FTP](../Page/File_Transfer_Protocol.md "wikilink")、[MMS](https://ja.wikipedia.org/wiki/MMS "wikilink")など
+### 入力メディア
 
-また[AACS](https://ja.wikipedia.org/wiki/AACS "wikilink")が使用されていなければ[HD_DVD](../Page/HD_DVD.md "wikilink")も3.0以降で再生できるという\[1\]。
+  - ディスク
 
-  - コンテナ形式
-    [AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")([DMF](https://ja.wikipedia.org/wiki/DivX#DivX_Media_Format "wikilink"))、[ASF](../Page/Advanced_Systems_Format.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[MOV](../Page/QuickTime.md "wikilink")、[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[OGM](../Page/Ogg_Media.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")([WebM](https://ja.wikipedia.org/wiki/WebM "wikilink"))、[WAV](../Page/WAV.md "wikilink")、[FLVなど](../Page/Flash_Video.md "wikilink")
+[DVD-Video](../Page/DVD-Video.md "wikilink")、[ビデオCD](../Page/ビデオCD.md "wikilink")、[スーパービデオCD](../Page/スーパービデオCD.md "wikilink") (メニューに対応)、[音楽CD](../Page/CD-DA.md "wikilink") (DTS-CDは非対応。[CD-TEXT](https://ja.wikipedia.org/wiki/CD-TEXT "wikilink")に対応)\[1\] 3.0以降では、[AACS](https://ja.wikipedia.org/wiki/AACS "wikilink")がかかっていない[HD_DVD](../Page/HD_DVD.md "wikilink")に限りその中の`.evo`ファイルを再生できる \[2\]。 2.0以降では、[AACS](https://ja.wikipedia.org/wiki/AACS "wikilink")がかかっていない[ブルーレイを再生できる](../Page/Blu-ray_Disc.md "wikilink")。
 
-<!-- end list -->
+  - ネットワークプロトコル
 
-  - ビデオコーデック
-    [MPEG-4](../Page/MPEG-4.md "wikilink")([DivX](https://ja.wikipedia.org/wiki/DivX "wikilink")・[Xvid](../Page/Xvid.md "wikilink")・3ivX)、[MS-MPEG4](https://ja.wikipedia.org/wiki/MS-MPEG4 "wikilink")、[H.263](../Page/H.263.md "wikilink")、[WMV9](../Page/Windows_Media_Video.md "wikilink")([VC-1](../Page/VC-1.md "wikilink"))、[DV](../Page/DV_\(ビデオ規格\).md "wikilink")、[Theora](../Page/Theora.md "wikilink")、[H.264](../Page/H.264.md "wikilink")、[Motion JPEG](../Page/Motion_JPEG.md "wikilink")、[On2VP3](https://ja.wikipedia.org/wiki/On2VP3 "wikilink")、[On2 VP6](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")、[VP8](https://ja.wikipedia.org/wiki/VP8 "wikilink")、[Cinepak](../Page/Cinepak.md "wikilink")、[RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink")、[Dirac](https://ja.wikipedia.org/wiki/Dirac "wikilink")など
+[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[FTP](../Page/File_Transfer_Protocol.md "wikilink")、[MMS](https://ja.wikipedia.org/wiki/MMS "wikilink")、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")など
 
-<!-- end list -->
+  - その他
 
-  - オーディオコーデック
-    MP1、[MP2](https://ja.wikipedia.org/wiki/MP2 "wikilink")、[MP3](../Page/MP3.md "wikilink")、[AC-3](../Page/ドルビーデジタル.md "wikilink")、[DTS](https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")、[LPCM](../Page/パルス符号変調.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[Vorbis](../Page/Vorbis.md "wikilink")、[WMA](../Page/Windows_Media_Audio.md "wikilink")、[ADPCM](https://ja.wikipedia.org/wiki/ADPCM "wikilink")、[DV Audio](../Page/DV_\(ビデオ規格\).md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Real Audio](https://ja.wikipedia.org/wiki/Real_Audio "wikilink")、[Speex](../Page/Speex.md "wikilink")、[ATRAC](../Page/ATRAC.md "wikilink")、[WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")、[TTA](../Page/TTA.md "wikilink")、[Monkey's Audio](../Page/Monkey's_Audio.md "wikilink")、[Musepack](../Page/Musepack.md "wikilink")、[Apple Lossless](../Page/Apple_Lossless.md "wikilink") など
+DVB、ビデオキャプチャーデバイス ([Webカメラ](../Page/Webカメラ.md "wikilink")など)
+
+### コンテナ形式
+
+[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")([DMF](https://ja.wikipedia.org/wiki/DivX#DivX_Media_Format "wikilink"))、[ASF](../Page/Advanced_Systems_Format.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[MOV](../Page/QuickTime.md "wikilink")、[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[OGM](../Page/Ogg_Media.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")([WebM](https://ja.wikipedia.org/wiki/WebM "wikilink"))、[WAV](../Page/WAV.md "wikilink")、[FLVなど](../Page/Flash_Video.md "wikilink")
+
+### ビデオコーデック
+
+[MPEG-1/2](../Page/Moving_Picture_Experts_Group.md "wikilink")、[DivX](https://ja.wikipedia.org/wiki/DivX "wikilink") (1/2/3/4/5/6)、[MPEG-4 ASP](../Page/MPEG-4.md "wikilink")、[Xvid](../Page/Xvid.md "wikilink")、3ivX D4、[H.261](../Page/H.261.md "wikilink")、[H.263](../Page/H.263.md "wikilink")、H.263i、[H.264](../Page/H.264.md "wikilink") (MPEG-4 AVC)、[Cinepak](../Page/Cinepak.md "wikilink")、[Theora](../Page/Theora.md "wikilink")、[Dirac](https://ja.wikipedia.org/wiki/Dirac "wikilink") (VC-2)、[モーションJPEG](../Page/Motion_JPEG.md "wikilink") (A/B)、[WMV](../Page/Windows_Media_Video.md "wikilink") 1/2、 WMV 3、WMV9、[VC-1](../Page/VC-1.md "wikilink")、Sorenson 1/3、[DV](../Page/DV_\(ビデオ規格\).md "wikilink")、On2 ([VP3](https://ja.wikipedia.org/wiki/VP3 "wikilink")/VP5/[VP6](../Page/VP6.md "wikilink"))、[Indeo Video v3](../Page/Indeo.md "wikilink")、[RealVideo](https://ja.wikipedia.org/wiki/RealVideo "wikilink") (1/2/3/4)\[3\]
+
+### オーディオコーデック
+
+MPEG-1/2 Layer 1、[MP2](https://ja.wikipedia.org/wiki/MPEG-1/2_Layer_2 "wikilink")、[MP3](../Page/MP3.md "wikilink")、[MPEG-4 AAC](https://ja.wikipedia.org/wiki/MPEG-4_AAC "wikilink") part3、[Ogg Vorbis](../Page/Vorbis.md "wikilink")、[AC-3](https://ja.wikipedia.org/wiki/AC-3 "wikilink") (ドルビーデジタル)、E-AC-3、MLP/TrueHD、[DTS](https://ja.wikipedia.org/wiki/DTS "wikilink")、[WMA](../Page/Windows_Media_Audio.md "wikilink") (1/2/3)、[FLAC](../Page/FLAC.md "wikilink")、[ALAC](../Page/Apple_Lossless.md "wikilink")、[Speex](../Page/Speex.md "wikilink")、[Musepack](../Page/Musepack.md "wikilink") (MPC)、[ATRAC](../Page/ATRAC.md "wikilink") 3、[WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")、[Mod](../Page/MOD_\(ファイルフォーマット\).md "wikilink")、TrueAudio、APE ([Monkey's Audio](../Page/Monkey's_Audio.md "wikilink"))、[Real Audio](https://ja.wikipedia.org/wiki/Real_Audio "wikilink")、[Alaw](https://ja.wikipedia.org/wiki/A-lawアルゴリズム "wikilink")/[μlaw](https://ja.wikipedia.org/wiki/Μ-lawアルゴリズム "wikilink")、[AMR](../Page/Adaptive_Multi-Rate.md "wikilink") (3GPP)、[MIDI](../Page/MIDI.md "wikilink")、[LPCM](https://ja.wikipedia.org/wiki/LPCM "wikilink")、[ADPCM](https://ja.wikipedia.org/wiki/ADPCM "wikilink")、QCELP、[DV Audio](../Page/DV_\(ビデオ規格\).md "wikilink")、QDM2 (QDMC)、MACE\[4\]
+
+### 字幕コーデック
+
+DVD字幕、テキストファイル (MicroDVD、[SubRIP](https://ja.wikipedia.org/wiki/SubRip "wikilink") (SRT)、SubViewer、SSA1-5、SAMI、VPlayer)、[クローズドキャプション](../Page/クローズドキャプション.md "wikilink")、Vobsub、Universal Subtitle Format (USF)、SVCD字幕 (CVD)、DVB字幕、OGM、CMML、OggKate、[ID3タグ](../Page/ID3タグ.md "wikilink")、APEv2、Vorbis comment
 
 ## 対応OS
 
-以下の[OSに対応している](../Page/オペレーティングシステム.md "wikilink")。
+以下の[OSに対応している](../Page/オペレーティングシステム.md "wikilink")。\[5\]
+
+  - Windows
+
+<!-- end list -->
 
   - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-    [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
-    [GNU/Linux](https://ja.wikipedia.org/wiki/GNU/Linux "wikilink")
-    [Debian GNU/Linux](https://ja.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
+  - [UWPアプリ形式](https://ja.wikipedia.org/wiki/ユニバーサルWindowsプラットフォーム "wikilink")
+  - Windows Phone
 
-    [Ubuntu](../Page/Ubuntu.md "wikilink")
+<!-- end list -->
 
-    [Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink")
+  - Apple
 
-    [openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")
+<!-- end list -->
 
-    [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")
+  - [MacOS X](../Page/MacOS.md "wikilink")
+  - [iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")
+  - [Apple TV](../Page/Apple_TV.md "wikilink")
 
-    [Fedora](../Page/Fedora.md "wikilink")
+<!-- end list -->
 
-    [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink")
+  - [GNU/Linux](https://ja.wikipedia.org/wiki/GNU/Linux "wikilink")
 
-    [Slackware Linux](https://ja.wikipedia.org/wiki/Slackware_Linux "wikilink")
+<!-- end list -->
 
-    [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")
+  - [Debian GNU/Linux](https://ja.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
+  - [Ubuntu](../Page/Ubuntu.md "wikilink")
+  - [Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink")
+  - [openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")
+  - [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")
+  - [Fedora](../Page/Fedora.md "wikilink")
+  - [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink")
+  - [Slackware Linux](https://ja.wikipedia.org/wiki/Slackware_Linux "wikilink")
+  - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")
 
-    [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")
+<!-- end list -->
 
+  - その他
+
+<!-- end list -->
+
+  - [Android](../Page/Android.md "wikilink")
+  - [Chrome OS](https://ja.wikipedia.org/wiki/Google_Chrome_OS "wikilink")
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
-    [NetBSD](../Page/NetBSD.md "wikilink")
-    [OpenBSD](../Page/OpenBSD.md "wikilink")
-    [Solaris](../Page/Solaris.md "wikilink")
-    [Android](../Page/Android.md "wikilink")
-    [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
-    [QNX](../Page/QNX.md "wikilink")
-    [Syllable](https://ja.wikipedia.org/wiki/Syllable "wikilink")
-    [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")
+  - [NetBSD](../Page/NetBSD.md "wikilink")
+  - [OpenBSD](../Page/OpenBSD.md "wikilink")
+  - [Solaris](../Page/Solaris.md "wikilink")
+  - [QNX](../Page/QNX.md "wikilink")
+  - [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")
 
 ## 脚注
 
 ## 関連項目
 
   - [ソフトウェア特許](../Page/ソフトウェア特許.md "wikilink")
-  - [HD_DVD](../Page/HD_DVD.md "wikilink")
+  - [HD DVD](../Page/HD_DVD.md "wikilink")
   - [オープンソースのメディアプレーヤー](https://ja.wikipedia.org/wiki/オープンソースのメディアプレーヤー "wikilink")
 
 ## 外部リンク
@@ -143,4 +171,8 @@ Windows、LinuxなどのプラットフォームでNPAPIプラグインを提供
 
 [Category:メディアプレーヤーソフト](https://ja.wikipedia.org/wiki/Category:メディアプレーヤーソフト "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:DVD関連のソフト](https://ja.wikipedia.org/wiki/Category:DVD関連のソフト "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:Qtを使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:Qtを使用するソフトウェア "wikilink") [Category:2001年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2001年のソフトウェア "wikilink")
 
-1.  <https://av.watch.impress.co.jp/docs/news/1106943.html>
+1.
+2.
+3.
+4.
+5.

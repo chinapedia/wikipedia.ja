@@ -103,7 +103,7 @@
 <!-- end list -->
 
   - [5月16日](../Page/5月16日.md "wikilink")、5thアルバム『Family』をリリース。
-  - [9月24日](../Page/9月24日.md "wikilink")、[HEY\!HEY\!HEY\!MUSIC CHAMPの](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")3時間特番「えっ\!? マジで\!? 秋の歌祭り\! HEY\!HEY\!HEY\! お台場から生放送スペシャル\!\!」にm-floと共に出演し、「come again」を披露した。
+  - [9月24日](../Page/9月24日.md "wikilink")、[HEY\!HEY\!HEY\! MUSIC CHAMPの](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")3時間特番「えっ\!? マジで\!? 秋の歌祭り\! HEY\!HEY\!HEY\! お台場から生放送スペシャル\!\!」にm-floと共に出演し、「come again」を披露した。
 
 <!-- end list -->
 
@@ -173,7 +173,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 | 2nd | 2005年[7月27日](../Page/7月27日.md "wikilink")                                                   | **かぜのおんがく 〜Radiating from an N.G.O.〜**   | \[9\]                                                                         |      |
 | 3rd | 2006年[3月23日](../Page/3月23日.md "wikilink")                                                   | **GOD SISTA**                            | R\&Bコンセプトアルバム。CD版とCD+DVD版がある。                                                 | 98位  |
 | 4th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") | **ready to disco**                       | ミニアルバム + LIVE DVD（LISA LIVE PREMIUM 2007 "THE GOD SISTA"）                     | 173位 |
-| 5th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月27日](../Page/8月27日.md "wikilink") | **got that fever**                       | ミニアルバム + DVD（「SEND MY HEART」「Leave」MUSIC VIDEO）                               |      |
+| 5th | 2008年[8月27日](../Page/8月27日.md "wikilink")                                                   | **got that fever**                       | ミニアルバム + DVD（「SEND MY HEART」「Leave」MUSIC VIDEO）                               |      |
 | 6th | [2016年](../Page/2016年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")                    | **avex nico presents KID'S SONGS vol.1** | [☆Taku Takahashi監修](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink") |      |
 
 #### ベストアルバム
@@ -330,7 +330,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 ### テレビ番組
 
   - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（日本テレビ、火曜日「WEニュース」9月度マンスリーMC）
-  - [あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink") ([NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")、金曜日「特選\!エンタ」英語ナビゲーター)
+  - [あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink") ([NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、金曜日「特選\!エンタ」英語ナビゲーター)
 
 ## 関連のある主なアーティスト
 

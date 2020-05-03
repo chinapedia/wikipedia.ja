@@ -268,6 +268,6 @@
   - [Forgotten Empiresホームページ](http://www.forgottenempires.net/)
   - [UserPatchホームページ](http://userpatch.aiscripters.net/)
 
-[Category:エイジ_オブ_エンパイア](https://ja.wikipedia.org/wiki/Category:エイジ_オブ_エンパイア "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink")
+[Category:エイジ_オブ_エンパイア](https://ja.wikipedia.org/wiki/Category:エイジ_オブ_エンパイア "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Steamワークショップ対応ゲーム](https://ja.wikipedia.org/wiki/Category:Steamワークショップ対応ゲーム "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink")
 
 1.  <http://userpatch.aiscripters.net/reference.html>

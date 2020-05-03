@@ -71,7 +71,7 @@
   - サンボマスターの大ファンでライブへは頻繁に通っている。ライブの曲中にヴォーカルの山口隆にステージ上から名前を呼ばれ、アリーナからステージに上がり一緒に歌った事がある。
   - 2015年のラグビーワールドカップの南アフリカ戦をテレビで観戦してからラグビーファンに。それから頻繁にラグビー会場に足を運びトップリーグや大学ラグビーの観戦をしている。ラグビーファンからも「本当に観戦に来てるし、愛がある」と言われている。
   - 好きなラグビーチームは、サントリーサンゴリアス、キヤノンイーグルス、NECグリーンロケッツ。大学ラグビーでは明治大学。ちなみに母校ではない。
-  - 選手との交流も多く、垣永真之介(サントリー)、山路泰生(キヤノン)、川村慎(NEC)、吉廣広征(NEC)、秋山哲平(NEC)、亀井亮依(NEC)、平野翔平(パナソニック)、祝原涼介(サントリー)、齊藤剣(NTTコム)や明治大学の選手などと飲みに行ったりしている写真がSNSに良く載っている。
+  - 選手との交流も多く、垣永真之介(サントリー)、山路泰生(キヤノン)、川村慎(NEC)、吉廣広征(NEC)、秋山哲平(NEC)、亀井亮依(NEC)、平野翔平(パナソニック)、 藤田慶和(パナソニック)、祝原涼介(サントリー)、齊藤剣(NTTコム)や明治大学の選手などと飲みに行ったりしている写真がSNSに良く載っている。
   - 祝原涼介(サントリー)とはAAAのライブやAAAのメンバーのソロライブにも一緒に行っている。
 
 ### さがね正裕
@@ -157,6 +157,7 @@
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（テレビ朝日）さがねのみ
   - [伊集院光のばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のばんぐみ "wikilink")（[BS11デジタル](../Page/日本BS放送.md "wikilink")）
   - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")）さがねのみ不定期出演
+  - 健康カプセル\!ゲンキの時間（CBC・TBS）
 
 ### ラジオ
 
@@ -181,7 +182,7 @@
   - [三匹のおっさん〜正義の味方、見参\!\!〜](https://ja.wikipedia.org/wiki/三匹のおっさん#テレビドラマ "wikilink")「第5話」（テレビ東京、2014年）西尾のみ
   - [スペシャリスト3](https://ja.wikipedia.org/wiki/スペシャリスト_\(テレビドラマ\)#土曜ワイド劇場（特別企画） "wikilink")（テレビ朝日、2015年）さがねのみ
   - [赤ひげ (2017年のテレビドラマ)](https://ja.wikipedia.org/wiki/赤ひげ_\(2017年のテレビドラマ\) "wikilink")（2017年） ‐ 壱岐守 西尾のみ
-  - [100文字アイデアをドラマにした\!](https://ja.wikipedia.org/wiki/100文字アイデアをドラマにした! "wikilink") 第8話 - 第10話（テレビ東京、2020年）
+  - [100文字アイデアをドラマにした\!](https://ja.wikipedia.org/wiki/100文字アイデアをドラマにした! "wikilink") 第8話 - 第10話（テレビ東京、2020年）西尾のみ
 
 ### 映画
 
@@ -213,7 +214,7 @@
 
   - 「ネタDE笑辞典」M2カンパニー編（日本コロムビア、1998年1月）
   - 君を抱きしめたい\[11\]（ホリプロ、1998年8月）
-  - 振り向け\[12\]（東芝EMI、1996年8月）
+  - 振り向け\[12\]（東芝EMI、1996年8月）西尾のみ
   - まんぷくトランス（ビクターエンタテインメント、2006年5月）西尾のみ
 
 ### VTR
@@ -259,7 +260,7 @@
   -
   -
   -
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:ものまねタレント](https://ja.wikipedia.org/wiki/Category:ものまねタレント "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:MIDTOWN_TV](https://ja.wikipedia.org/wiki/Category:MIDTOWN_TV "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:ものまねタレント](https://ja.wikipedia.org/wiki/Category:ものまねタレント "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:MIDTOWN_TV](https://ja.wikipedia.org/wiki/Category:MIDTOWN_TV "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  [「ココロの旅」2012年11月20日放送分](http://archive.is/5Z3dU)（webアーカイブ）
 2.  『[ブラマヨとゆかいな仲間たち アツアツっ\!](https://ja.wikipedia.org/wiki/ブラマヨとゆかいな仲間たち_アツアツっ! "wikilink")』2011年10月22日放送より。

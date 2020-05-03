@@ -38,7 +38,7 @@
 10. **[MERRY-GO-ROUND](../Page/GUITARHYTHM_II.md "wikilink")**
 11. **[DANCE CRAZE](../Page/BOOWY_\(アルバム\).md "wikilink")**
       -
-        [BOØWY時代の曲だが](https://ja.wikipedia.org/wiki/BOOWY "wikilink")、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
+        [BOØWY時代の曲だが](../Page/BOOWY.md "wikilink")、原曲から大幅にアレンジされ、[ハウス・ミュージック](https://ja.wikipedia.org/wiki/ハウス・ミュージック "wikilink")を取り入れたダンス・チューンになっている。また曲中で[ボレロの一節が挿入されている](../Page/ボレロ_\(ラヴェル\).md "wikilink")。
 12. **[FLY INTO YOUR DREAM](../Page/GUITARHYTHM_II.md "wikilink")**
 13. **[GLORIOUS DAYS](../Page/GUITARHYTHM.md "wikilink")**
 14. **[RADIO\! RADIO\! RADIO\!](https://ja.wikipedia.org/wiki/BEAT_EMOTION_\(布袋寅泰の曲\) "wikilink")**

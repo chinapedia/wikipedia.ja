@@ -33,7 +33,7 @@ Susieで読み込める[画像ファイルフォーマット](https://ja.wikiped
   - [Susieの部屋](http://www.digitalpad.co.jp/~takechin/)
   - [kana's Home Page](http://www2f.biglobe.ne.jp/~kana/)
   - [Shimitei's homepage](http://www.asahi-net.or.jp/~kh4s-smz/)
-  - [Susieプラグインかたろぐ](http://web.archive.org/web/20011104192348/http://www5.ocn.ne.jp/~cronos/s/spic.html)
+  - [Susieプラグインかたろぐ](https://web.archive.org/web/20011104192348/http://www5.ocn.ne.jp/~cronos/s/spic.html)
 
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:画像処理ソフト](https://ja.wikipedia.org/wiki/Category:画像処理ソフト "wikilink") [Category:画像ビューア](https://ja.wikipedia.org/wiki/Category:画像ビューア "wikilink") [Category:1994年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1994年のソフトウェア "wikilink")
 

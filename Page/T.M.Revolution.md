@@ -876,11 +876,11 @@
 
   - [ギター](../Page/ギター.md "wikilink")
       - [葛城哲哉](../Page/葛城哲哉.md "wikilink") (1996年)
-      - [JAKE](https://ja.wikipedia.org/wiki/JAKE "wikilink") (1995年、1998年〜1999年2月) (ex.[GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink"))
-      - [一戸賢司](https://ja.wikipedia.org/wiki/一戸賢司 "wikilink")(1996年〜1997年4月)
-      - [西尾智浩](https://ja.wikipedia.org/wiki/西尾智浩 "wikilink")(1996年8月〜1997年4月)(ex.[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink"))
-      - [後藤孝顕](https://ja.wikipedia.org/wiki/後藤孝顕 "wikilink")(1997年8月〜12月)
-      - [伊東正](https://ja.wikipedia.org/wiki/伊東正 "wikilink")(1997年11月〜1998年4月)
+      - JAKE (1995年、1998年〜1999年2月)(ex.[GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink"))
+      - 一戸賢司（1996年〜1997年4月）(ex.[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink"))
+      - 西尾智浩（1996年8月〜1997年4月）
+      - 後藤孝顕（1997年8月〜12月）
+      - 伊東正（1997年11月〜1998年4月）
       - [大橋イサム](https://ja.wikipedia.org/wiki/大橋イサム "wikilink")（1998年〜2001年）
       - [SUNAO](../Page/SUNAO.md "wikilink")（1998年7月〜1999年2月、2000年8月〜2014年）([abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink"))
       - [柴崎浩](../Page/柴崎浩.md "wikilink")（2004年〜）([WANDS](../Page/WANDS.md "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")）

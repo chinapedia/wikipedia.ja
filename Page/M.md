@@ -119,7 +119,7 @@
 
 #### タイトル
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の歌「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の歌「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」。
   - [プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")の歌「[M](../Page/Diamonds_\(プリンセス_プリンセスの曲\).md "wikilink")」。
   - [フリッツ・ラング](../Page/フリッツ・ラング.md "wikilink")監督・[ピーター・ローレ](../Page/ピーター・ローレ.md "wikilink")主演、1931年のドイツ映画『[M](../Page/M_\(1931年の映画\).md "wikilink")』。
   - [廣木隆一](../Page/廣木隆一.md "wikilink")監督・[美元](../Page/美元.md "wikilink")主演、2007年の日本映画『[M](../Page/M_\(2007年の日本映画\).md "wikilink")』。

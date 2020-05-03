@@ -1,7 +1,7 @@
 > この記事は[TOPPERSプロジェクト](https://ja.wikipedia.org/wiki/TOPPERSプロジェクト)から翻訳されています。
 
 
-**TOPPERSプロジェクト**は、[ITRON](../Page/ITRON.md "wikilink")仕様の技術開発成果を出発点として、[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")構築の基盤となる各種のソフトウェアを開発し、良質な[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")として公開することで、[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")技術と産業の振興を図ることを目的とした[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")である。また、教育コースや教材の開発と、それを用いた教育の場を提供するなどの活動を通じて、[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")技術者の育成に貢献することも目的としている。 TOPPERSは、**T**oyohashi **Op**en **P**latform for **E**mbedded **R**eal-**T**ime **S**ystemsの略であり、トッパーズと読む\[1\]。 TOPPERSプロジェクトから公開されている[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")向けリアルタイムカーネル([リアルタイムOS](https://ja.wikipedia.org/wiki/リアルタイムOS "wikilink"))およびソフトウェア部品群を、TOPPERS、TOPPERSカーネル(TOPPERS OS)、TOPPERSソフトウェア等と呼ぶことがある。
+**TOPPERSプロジェクト**は、[ITRON](../Page/ITRON.md "wikilink")仕様の技術開発成果を出発点として、[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")構築の基盤となる各種のソフトウェアを開発し、良質な[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")として公開することで、[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")技術と産業の振興を図ることを目的とした[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")である。また、教育コースや教材の開発と、それを用いた教育の場を提供するなどの活動を通じて、[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")技術者の育成に貢献することも目的としている。 TOPPERSは、**T**oyohashi **Op**en **P**latform for **E**mbedded **R**eal-time **S**ystemsの略であり、トッパーズと読む\[1\]。 TOPPERSプロジェクトから公開されている[組込みシステム](https://ja.wikipedia.org/wiki/組込みシステム "wikilink")向けリアルタイムカーネル([リアルタイムOS](https://ja.wikipedia.org/wiki/リアルタイムOS "wikilink"))およびソフトウェア部品群を、TOPPERS、TOPPERSカーネル(TOPPERS OS)、TOPPERSソフトウェア等と呼ぶことがある。
 
 ## 概要
 

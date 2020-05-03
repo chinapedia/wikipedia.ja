@@ -116,7 +116,7 @@ Osaka Newtram01.jpg|100A系
 <td><p><a href="https://ja.wikipedia.org/wiki/コスモスクエア駅" title="wikilink">コスモスクエア駅</a></p></td>
 <td><p>-</p></td>
 <td><p>0.0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道" title="wikilink">大阪市高速電気軌道</a>：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Chuo_line_symbol.svg" title="fig:Osaka_Metro_Chuo_line_symbol.svg">Osaka_Metro_Chuo_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro中央線" title="wikilink">中央線</a> (C10)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道" title="wikilink">大阪市高速電気軌道</a>：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Chuo_line_symbol.svg" title="fig:Osaka_Metro_Chuo_line_symbol.svg">Osaka_Metro_Chuo_line_symbol.svg</a> <a href="../Page/Osaka_Metro中央線.md" title="wikilink">中央線</a> (C10)</p></td>
 </tr>
 <tr class="even">
 <td><p>P10</p></td>
@@ -179,7 +179,7 @@ Osaka Newtram01.jpg|100A系
 <td><p><a href="https://ja.wikipedia.org/wiki/住之江公園駅" title="wikilink">住之江公園駅</a></p></td>
 <td><p>1.2</p></td>
 <td><p>7.9</p></td>
-<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Yotsubashi_line_symbol.svg" title="fig:Osaka_Metro_Yotsubashi_line_symbol.svg">Osaka_Metro_Yotsubashi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線" title="wikilink">四つ橋線</a> (Y21)</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Yotsubashi_line_symbol.svg" title="fig:Osaka_Metro_Yotsubashi_line_symbol.svg">Osaka_Metro_Yotsubashi_line_symbol.svg</a> <a href="../Page/Osaka_Metro四つ橋線.md" title="wikilink">四つ橋線</a> (Y21)</p></td>
 </tr>
 </tbody>
 </table>
@@ -238,7 +238,7 @@ Osaka Newtram01.jpg|100A系
 
 [Category:近畿地方の鉄道路線](https://ja.wikipedia.org/wiki/Category:近畿地方の鉄道路線 "wikilink") [Category:大阪市高速電気軌道の鉄軌道事業](https://ja.wikipedia.org/wiki/Category:大阪市高速電気軌道の鉄軌道事業 "wikilink") [Category:大阪市交通局の鉄軌道事業](https://ja.wikipedia.org/wiki/Category:大阪市交通局の鉄軌道事業 "wikilink") [Category:大阪港トランスポートシステム](https://ja.wikipedia.org/wiki/Category:大阪港トランスポートシステム "wikilink") [Category:大阪府の交通](https://ja.wikipedia.org/wiki/Category:大阪府の交通 "wikilink") [Category:日本の新交通システム](https://ja.wikipedia.org/wiki/Category:日本の新交通システム "wikilink") [Category:案内軌条式鉄道路線](https://ja.wikipedia.org/wiki/Category:案内軌条式鉄道路線 "wikilink") [Category:大阪湾](https://ja.wikipedia.org/wiki/Category:大阪湾 "wikilink")
 
-1.  nanko **P**ort town。Nが[長堀鶴見緑地線](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink") (Nagahori Tsurumi-ryokuchi) で使われたため。[堺筋線とともに](https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線 "wikilink")、路線記号がローマ字表記の頭文字になっていない。参照：[地下鉄・ニュートラムの路線名及び駅名への記号・番号表示について](https://web.archive.org/web/20040605135836/http://www.kotsu.city.osaka.jp/news/kotsu_b/no_hyouji/no_hyouji1.html) (Internet Archive) - 大阪市交通局、2004年2月24日。
+1.  nanko **P**ort town。Nが[長堀鶴見緑地線](../Page/Osaka_Metro長堀鶴見緑地線.md "wikilink") (Nagahori Tsurumi-ryokuchi) で使われたため。[堺筋線とともに](../Page/Osaka_Metro堺筋線.md "wikilink")、路線記号がローマ字表記の頭文字になっていない。参照：[地下鉄・ニュートラムの路線名及び駅名への記号・番号表示について](https://web.archive.org/web/20040605135836/http://www.kotsu.city.osaka.jp/news/kotsu_b/no_hyouji/no_hyouji1.html) (Internet Archive) - 大阪市交通局、2004年2月24日。
 2.  厳密には「ニュートラム」は新交通システムの愛称であり、路線の愛称ではない。
 3.  軌道法区間における都市計画上の路線名はトレードセンター前駅 - 中ふ頭駅間が「コスモスクエア新交通専用道」、フェリーターミナル駅 - 住之江公園駅間は「南港都市ガイドウェイ専用道」。
 4.  「[OTS線鉄道料金 平成17年7月下旬値下げに向けて手続きを行います](https://web.archive.org/web/20051118112516/http://www.kotsu.city.osaka.jp/news/houdouhappyou/16/050209a.html)」(InternetArchive) 大阪市交通局、2005年2月9日。

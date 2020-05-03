@@ -35,7 +35,7 @@
 
 ### 過去の番組構成
 
-番組開始時には「円盤観察日記」（1984 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）「ポップスドクター」（1987 - [1988年](../Page/1988年.md "wikilink")）「アーティストディクショナリー」（1988 - [1989年](../Page/1989年.md "wikilink")）「ポップス人名辞典」（1989 - [1994年](../Page/1994年.md "wikilink")）といった洋楽に関するコーナーもあった。このコーナーは当時ディレクターを勤めていた是枝正美の選曲によるもので、是枝ディレクターの色彩が濃かったといえよう。また円盤観察日記開始半年後から選曲された曲とその歌手をリスナーが当てるという、クイズの要素も持っていた。しかし番組自体のアニラジ人気が強くなり始めた1994年のリニューアルで終了。
+番組開始時には「円盤観察日記」（1984 - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）「ポップスドクター」（1987 - [1988年](../Page/1988年.md "wikilink")）「アーティストディクショナリー」（1988 - [1989年](../Page/1989年.md "wikilink")）「ポップス人名辞典」（1989 - [1994年](../Page/1994年.md "wikilink")）といった洋楽に関するコーナーもあった。このコーナーは当時ディレクターを勤めていた**是枝正美**の選曲によるもので、是枝ディレクターの色彩が濃かったといえよう。また円盤観察日記開始半年後から選曲された曲とその歌手をリスナーが当てるという、クイズの要素も持っていた。しかし番組自体のアニラジ人気が強くなり始めた1994年のリニューアルで終了。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")までの1年間、小森の産休・病気療養のため[矢尾一樹](../Page/矢尾一樹.md "wikilink")がメインパーソナリティを務め、1990年11月からは、番組タイトルも「**mamiのRADIかるコミュニケーション 矢尾だよ～ん**」となった。小森が復帰してからもしばらく番組に出演していた。ピンチヒッター候補には[日高のり子](../Page/日高のり子.md "wikilink")、[森口博子](../Page/森口博子.md "wikilink")、井潤千代美（小森の友人の漫画家、現：月嶋つぐ美）などが挙がっていた。このピンチヒッターは番組で候補者を挙げ、リスナーのハガキ投票で最終的に決定された。この投票をダービーゲームに例え、ミンキーヤスが競馬実況風に発表した（RADIコミダービーの前身にあたるのだろうか？）。この際候補者それぞれに競馬風の名前がつけられており、矢尾一樹は「サケノミホマレ」であった。
 
@@ -185,7 +185,7 @@
   - 2006年8月20日 18:00-19:30　mamiのRADIかるコミュニケーション
       -
         “～ユ・メ・ノ・チ・カ・ラ～+GP”
-        [名古屋城宵まつり](https://ja.wikipedia.org/wiki/名古屋城宵まつり "wikilink")　名古屋城内[本丸](../Page/本丸.md "wikilink")[ステージ](https://ja.wikipedia.org/wiki/ステージ "wikilink")
+        [名古屋城宵まつり](https://ja.wikipedia.org/wiki/名古屋城宵まつり "wikilink")　名古屋城内[本丸](../Page/本丸.md "wikilink")ステージ
   - 2007年8月19日 18:00-20:00　mamiのRADIかるコミュニケーション
       -
         “みんなのパワーだ☆ちょこエコナイト\!”
@@ -206,7 +206,7 @@
 
 ## 外部リンク
 
-  - [mamiのRADIかるコミュニケーション](http://web.archive.org/web/20091115230120/http://www.tokairadio.co.jp/program/radical/index.htm) - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")。閉鎖（2009年11月15日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [mamiのRADIかるコミュニケーション](https://web.archive.org/web/20091115230120/http://www.tokairadio.co.jp/program/radical/index.htm) - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")。閉鎖（2009年11月15日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
   - [mamiのRADIかるコミュニケーション](https://web.archive.org/web/20100704084153/http://anitama.com/bangumi_i/radical_communication.html) - [ラジオ関西](../Page/ラジオ関西.md "wikilink")。閉鎖（2010年7月4日時点のアーカイブ）
 
@@ -214,7 +214,7 @@
 
   -
   -
-[Category:東海ラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの番組の歴史 "wikilink") [Category:アニラジ](https://ja.wikipedia.org/wiki/Category:アニラジ "wikilink") [Category:1984年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のラジオ番組_\(日本\) "wikilink")
+[Category:東海ラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの番組の歴史 "wikilink") [Category:アニラジ](https://ja.wikipedia.org/wiki/Category:アニラジ "wikilink") [Category:ラジオの声優バラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオの声優バラエティ番組 "wikilink") [Category:1984年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のラジオ番組_\(日本\) "wikilink")
 
 1.  [mamiのRADIかるコミュニケーション：小森まなみの伝説のラジオ番組が10年ぶり復活](https://mantan-web.jp/article/20190905dog00m200077000c.html),まんたんウェブ,2019年9月6日
 2.  [小森まなみ＆ミンキー・ヤス｜ラジオ『RADIコミスペシャル』レポ](https://www.animatetimes.com/news/details.php?id=1571105670),アニメイトタイムズ,2019年10月16日

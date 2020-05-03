@@ -100,7 +100,7 @@
       - [S (企業)](https://ja.wikipedia.org/wiki/S_\(企業\) "wikilink") - 日本の音楽プロデュース・アーティストマネージメント企業（株式会社S）。
   - 交通・車両
       - [電車](../Page/電車.md "wikilink")等、鉄道車両の車種を表す副記号で、[特別車両](../Page/特別席.md "wikilink")（[グリーン車](../Page/グリーン車.md "wikilink")。寝台車の記号Nと組み合わせて[A寝台](../Page/A寝台.md "wikilink")車）のこと。
-      - 日本の地下鉄における[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度で、東京では[都営地下鉄新宿線](https://ja.wikipedia.org/wiki/都営地下鉄新宿線 "wikilink") (**S**hinjuku)、大阪では[Osaka Metro千日前線](https://ja.wikipedia.org/wiki/Osaka_Metro千日前線 "wikilink") (**S**ennichimae)、名古屋では[名古屋市営地下鉄桜通線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄桜通線 "wikilink") (**S**akuradori)、神戸では[神戸市営地下鉄西神・山手線](../Page/神戸市営地下鉄西神・山手線.md "wikilink") (**S**eishin-Yamate) を表す。
+      - 日本の地下鉄における[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度で、東京では[都営地下鉄新宿線](https://ja.wikipedia.org/wiki/都営地下鉄新宿線 "wikilink") (**S**hinjuku)、大阪では[Osaka Metro千日前線](../Page/Osaka_Metro千日前線.md "wikilink") (**S**ennichimae)、名古屋では[名古屋市営地下鉄桜通線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄桜通線 "wikilink") (**S**akuradori)、神戸では[神戸市営地下鉄西神・山手線](../Page/神戸市営地下鉄西神・山手線.md "wikilink") (**S**eishin-Yamate) を表す。
       - [東京メトロの路線で](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")、他社線との相互直通がある場合に東京メトロ車両の所定運用に付けられるアルファベット。[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）、[東武鉄道](../Page/東武鉄道.md "wikilink")、[西武鉄道](../Page/西武鉄道.md "wikilink")、[埼玉高速鉄道](../Page/埼玉高速鉄道.md "wikilink")・[東葉高速鉄道](../Page/東葉高速鉄道.md "wikilink")でも、自社線と東京メトロ線を直通走行する列車で東京メトロの車両が原則使用される場合の運行番号は「xxxxS」となる。
       - [自動列車停止装置](../Page/自動列車停止装置.md "wikilink")の一種「ATS-S」型の略称。各社によって改良されているため、現在は存在しない。
       - [海図](../Page/海図.md "wikilink")の記号で底質が[砂](../Page/砂.md "wikilink")(表記はS)。
@@ -129,6 +129,7 @@
       - [Mr.S](https://ja.wikipedia.org/wiki/アイカツ!の登場人物一覧 "wikilink") - [アニメ](../Page/アニメ.md "wikilink")「[アイカツ\!](https://ja.wikipedia.org/wiki/アイカツ!_\(アニメ\) "wikilink")」の登場人物。
       - [営団地下鉄](https://ja.wikipedia.org/wiki/営団地下鉄 "wikilink")(現・[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink"))の旧社紋。
       - [編集者](../Page/編集者.md "wikilink")・[文筆家](../Page/著作家.md "wikilink")・[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")・[住職](../Page/住職.md "wikilink")・[アニメ映画](../Page/アニメーション映画.md "wikilink")『[コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")』[漫画原作者](../Page/漫画原作者.md "wikilink")・[群雄社出版](https://ja.wikipedia.org/wiki/群雄社出版 "wikilink")編集局長の[佐山哲郎](https://ja.wikipedia.org/wiki/佐山哲郎 "wikilink")の別名。
+      - 英語「Super」の略であり、ゲーム・マンガ・アニメ等ポップカルチャー領域における一種の能力値設定の評価単位として使用される。具体例としては『[東京喰種](https://ja.wikipedia.org/wiki/東京喰種トーキョーグール "wikilink")』における「S～SSS級喰種」、『[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")』における適正「S」、スマホガチャゲームにおける「SR（スーパーレアの意）」等が挙げられる。通常は段階評価基準の最高ランクである「A」ランクをも上回る規格外評価とされている。
 
 ## 符号位置
 

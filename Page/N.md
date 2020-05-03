@@ -90,7 +90,7 @@
   - 自動車の[国際識別記号](../Page/国際識別記号.md "wikilink")では、[ノルウェー](../Page/ノルウェー.md "wikilink") ()。
   - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")での路線符号。
       - [東京メトロ南北線](../Page/東京メトロ南北線.md "wikilink") ()
-      - [Osaka Metro長堀鶴見緑地線](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink") ()
+      - [Osaka Metro長堀鶴見緑地線](../Page/Osaka_Metro長堀鶴見緑地線.md "wikilink") ()
       - [札幌市営地下鉄南北線](https://ja.wikipedia.org/wiki/札幌市営地下鉄南北線 "wikilink") ()
       - [JR四国](../Page/四国旅客鉄道.md "wikilink")[鳴門線](https://ja.wikipedia.org/wiki/鳴門線 "wikilink") ()
       - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") [トランジリアン](https://ja.wikipedia.org/wiki/トランジリアン "wikilink")モンパルナス線。

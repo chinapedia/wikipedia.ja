@@ -611,7 +611,7 @@
 21. web上だと[2002年](../Page/2002年.md "wikilink")には実写化の報道があったことが確認出来る。
 22.
 23. [「AKIRA」ハリウッドで実写版](http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html) [スポーツニッポン](../Page/スポーツニッポン.md "wikilink") 2008年2月23日
-    ※現在は掲載期間終了につき、[Internet Archive Wayback Machine内に納められたキャッシュ先](../Page/インターネットアーカイブ.md "wikilink")\[[http://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html\]から閲覧されたし](http://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html%5Dから閲覧されたし)。
+    ※現在は掲載期間終了につき、[Internet Archive Wayback Machine内に納められたキャッシュ先](../Page/インターネットアーカイブ.md "wikilink")\[[https://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html\]から閲覧されたし](https://web.archive.org/web/20080620074732/http://www.sponichi.co.jp/entertainment/news/2008/02/23/05.html%5Dから閲覧されたし)。
 24. [ディカプリオのプロデュースによる実写映画版「AKIRA」は中止か？](http://www.cinematoday.jp/page/N0018461) シネマトゥデイ 2009年6月15日
 25.
 26.

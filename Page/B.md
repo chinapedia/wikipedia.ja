@@ -122,7 +122,7 @@
   - 日本にあるプロ野球チーム「[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")」の略号（**B**uffaloesより）。
   - [スポーツ](../Page/スポーツ.md "wikilink")の世界では、後衛（バック(**B**ack)）を表す記号。
   - [バックストレッチ](https://ja.wikipedia.org/wiki/バックストレッチ "wikilink") (**B**ackstretch) - [陸上競技場](../Page/陸上競技場.md "wikilink")・[競馬場](../Page/競馬場.md "wikilink")・[競輪場](../Page/競輪場.md "wikilink")などで、決勝線のある側と反対側（向こう正面）の略。[BS](../Page/BS.md "wikilink")とも。
-  - [コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")のレーティング表示において12歳以上対象を表す（2006年3月以降）。
+  - [コンピュータエンターテインメントレーティング機構](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")のレーティング表示において12歳以上対象を表す（2006年3月以降）。
   - [メルセデス・ベンツ・Bクラス](../Page/メルセデス・ベンツ・Bクラス.md "wikilink")。
   - 「ブラボー」[フォネティックコード](https://ja.wikipedia.org/wiki/フォネティックコード "wikilink")の第二コード。
   - [ローマ地下鉄](../Page/ローマ地下鉄.md "wikilink")[B線](../Page/ローマ地下鉄B線.md "wikilink")

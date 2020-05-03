@@ -239,6 +239,7 @@ RSA暗号をサポートしているライブラリは以下の通り。
   - [Nettle](https://ja.wikipedia.org/wiki/:en:Nettle_\(cryptographic_library\) "wikilink")
   - [OpenSSL](https://ja.wikipedia.org/wiki/OpenSSL "wikilink")
   - [wolfCrypt](https://ja.wikipedia.org/wiki/wolfCrypt "wikilink")
+  - [GnuTLS](https://ja.wikipedia.org/wiki/GnuTLS "wikilink")
 
 ## 脚注
 

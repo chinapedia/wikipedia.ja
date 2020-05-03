@@ -249,7 +249,7 @@
 
 ## 参考文献
 
-  - [Bi_List](http://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Bi_List](https://web.archive.org/web/20080105104557/http://sowhat.magical.gr.jp/bilist/) - 美少女ゲームの20世紀（2008年1月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 ## 関連項目
 
@@ -271,7 +271,7 @@
 4.  主なメンバーとして鷲見努、みつみ美里、甘露樹、秋葉秀樹、ばんろっほ、武内よしみ
 5.  『Leaf読本1995-2006』、「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」2006年6月号付録
 6.  [弊社作品の二次創作物について](https://aquaplus.jp/copyright/) 発表当時は販売本数が振るわなかった『雫』、『痕』が二次創作によって広まりLeaf人気が高まったという事もあり、エンドユーザー無視の姿勢に批判が集まった。
-7.  高橋龍也の日記によると、竹林は一時は業界からの引退を考えていた。[当時の日記](http://web.archive.org/web/20031202013831/www.bungle.info/text/index.html)
+7.  高橋龍也の日記によると、竹林は一時は業界からの引退を考えていた。[当時の日記](https://web.archive.org/web/20031202013831/www.bungle.info/text/index.html)
 8.  参考・2典「[2・14事件](http://www.media-k.co.jp/jiten/wiki.cgi?mycmd=search&mymsg=2%A1%A614%BB%F6%B7%EF)」、「[552文書](http://www.media-k.co.jp/jiten/wiki.cgi?mycmd=search&mymsg=552%CA%B8%BD%F1)」
 9.  当時、度重なる延期の末に発売された『こみっくパーティー』の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")移植のシステム改悪や音声の飛びやゲームの途中停止など、致命的なバグへの説明を求めるコメントで非常に荒れていた。
 10. 『Leaf読本1995-2006』、「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」2006年6月号付録

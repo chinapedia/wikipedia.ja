@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-**J**は、[ラテン文字](../Page/ラテン文字.md "wikilink")（[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")）の[10](../Page/10.md "wikilink")番目の文字。小文字は**j**。
+**J**は、[ラテン文字](../Page/ラテン文字.md "wikilink")（[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")）の[10](../Page/10.md "wikilink")番目の文字。小文字は **j** 。
 
 ## 字形
 
@@ -51,7 +51,7 @@
 
   - [朝鮮語](../Page/朝鮮語.md "wikilink")では、に近い有声音で発音される（[{{IPA](../Page/有声歯茎硬口蓋破擦音.md "wikilink")）に J が当てられている。大韓民国の[文化観光部2000年式](../Page/文化観光部2000年式.md "wikilink")では無声音でと発音される場合でも母音が後続するなら J を用いる。は常に無声音で発音されるが jj となる。
   - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の[漢語拼音](https://ja.wikipedia.org/wiki/漢語拼音 "wikilink")では、J は[無声歯茎硬口蓋破擦音](../Page/無声歯茎硬口蓋破擦音.md "wikilink")の無気音を表す。
-  - [日本語](../Page/日本語.md "wikilink")の[ヘボン式](https://ja.wikipedia.org/wiki/ヘボン式 "wikilink")ローマ字表記では、に近い「ジャ」「ジ」「ジュ」「ジェ」「ジョ」の子音に J が当てられている。訓令式では使用しない。
+  - [日本語](../Page/日本語.md "wikilink")の[ヘボン式ローマ字](../Page/ヘボン式ローマ字.md "wikilink")表記では、に近い「ジャ」「ジ」「ジュ」「ジェ」「ジョ」の子音に J が当てられている。jy と表記されることもあるが、基本的には正しくない。訓令式では使用しない。
 
 ## J の意味
 

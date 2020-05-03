@@ -252,7 +252,7 @@
   - [西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")◆（2018年10月1日より下記の区間でポストペイ導入開始<sup>※12</sup>）
       - [大阪環状線](../Page/大阪環状線.md "wikilink")：全駅
       - [桜島線](../Page/桜島線.md "wikilink")（JRゆめ咲線）：全駅
-      - [東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")（[琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")・[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[JR神戸線](../Page/JR神戸線.md "wikilink")）：[米原駅](../Page/米原駅.md "wikilink") - [神戸駅](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")
+      - [東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")（[琵琶湖線](../Page/琵琶湖線.md "wikilink")・[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[JR神戸線](../Page/JR神戸線.md "wikilink")）：[米原駅](../Page/米原駅.md "wikilink") - [神戸駅](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")
       - [北陸本線](../Page/北陸本線.md "wikilink")（琵琶湖線）：米原駅 - [近江塩津駅](https://ja.wikipedia.org/wiki/近江塩津駅 "wikilink")
       - [山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")（JR神戸線）：神戸駅 - [相生駅](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink")
       - 山陽本線支線（[和田岬線](../Page/和田岬線.md "wikilink")）：[兵庫駅](../Page/兵庫駅.md "wikilink") - [和田岬駅](../Page/和田岬駅.md "wikilink")

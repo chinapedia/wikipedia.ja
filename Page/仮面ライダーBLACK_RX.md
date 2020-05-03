@@ -1180,13 +1180,13 @@
   - [東京都](../Page/東京都.md "wikilink")・[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")：TBS 東京放送（現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")：HBC [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")：ATV [青森テレビ](../Page/青森テレビ.md "wikilink")
-  - [岩手県](../Page/岩手県.md "wikilink")：IBC 岩手放送（現・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）（[仙台放送](../Page/仙台放送.md "wikilink")制作[新・サンデートーク](../Page/新・サンデートーク.md "wikilink")放送の為、30分遅れネット、[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
+  - [岩手県](../Page/岩手県.md "wikilink")：IBC 岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）（[仙台放送](../Page/仙台放送.md "wikilink")制作[新・サンデートーク](../Page/新・サンデートーク.md "wikilink")放送の為、30分遅れネット、[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
   - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")：TBC [東北放送](../Page/東北放送.md "wikilink")
   - [秋田県](../Page/秋田県.md "wikilink")：ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）
   - [山形県](../Page/山形県.md "wikilink")：YBC [山形放送](../Page/山形放送.md "wikilink")
   - [福島県](../Page/福島県.md "wikilink")：TUF [テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - [山梨県](../Page/山梨県.md "wikilink")：UTY [テレビ山梨](../Page/テレビ山梨.md "wikilink")
-  - [長野県](../Page/長野県.md "wikilink")：SBC [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")
+  - [長野県](../Page/長野県.md "wikilink")：SBC [信越放送](../Page/信越放送.md "wikilink")
   - [新潟県](../Page/新潟県.md "wikilink")：BSN [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
   - [静岡県](../Page/静岡県.md "wikilink")：SBS [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（遅れネット、日曜日10:30-11:00放送）
   - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[中京広域圏](../Page/東海3県.md "wikilink")：CBC 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、日曜日10:30-11:00放送）

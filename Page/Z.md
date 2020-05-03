@@ -66,7 +66,7 @@
   - アルファベットの最後であるので、これより上位のものは存在しない・最終・最高・究極、などの意味(具体例：[日産・フェアレディZ](../Page/日産・フェアレディZ.md "wikilink")、[スバル・BRZ](https://ja.wikipedia.org/wiki/スバル・BRZ "wikilink"))。また、Z級、Zクラスのようにこれよりひどいものはない最低最悪のという意味
   - 第3の[座標軸](../Page/座標軸.md "wikilink")Z軸。Z軸方向の位置はzで表す。上下方向、視線方向などに使う。
   - [Zゲージ](../Page/Zゲージ.md "wikilink")。縮尺1/220、軌間6.5mmの[鉄道模型](../Page/鉄道模型.md "wikilink")。
-  - [CEROレーティングで](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[『18歳以上のみ』の対象](../Page/CEROレーティング18才以上のみ対象ソフトの一覧.md "wikilink")（2006年3月以降）。
+  - [CEROレーティングで](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[『18歳以上のみ』の対象](../Page/CEROレーティング18才以上のみ対象ソフトの一覧.md "wikilink")（2006年3月以降）。
   - [数学](../Page/数学.md "wikilink")（特に[代数学](../Page/代数学.md "wikilink")）において、[整数](../Page/整数.md "wikilink")の[集合](../Page/集合.md "wikilink")を太字の **Z** あるいは[黒板太字](https://ja.wikipedia.org/wiki/黒板太字 "wikilink")の \(\mathbb Z\) で表す。
   - 群や環などの[中心](https://ja.wikipedia.org/wiki/群の中心 "wikilink")
   - （コ）サイクルのなす部分加群

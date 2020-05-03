@@ -481,7 +481,7 @@ WMATA では、2030年までに地下鉄の利用客は1日平均100万人にな
 
 主な国際線は、[ワシントン・ダレス国際空港](../Page/ワシントン・ダレス国際空港.md "wikilink")に発着する。ダレス空港はD.C.から42.3km西の、バージニア州フェアファクス郡とラウダウン郡にある。同空港はアメリカ合衆国東海岸における[ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")の主要なハブ空港として機能しており、日本へは全日空、ユナイテッド航空がそれぞれ成田への直行便を運航している。
 
-[ボルチモア・ワシントン国際空港](../Page/ボルチモア・ワシントン国際空港.md "wikilink")はD.C.から51km北東、メリーランド州アン・アランデル郡にあり、[サウスウエスト航空](https://ja.wikipedia.org/wiki/サウスウエスト航空 "wikilink")と[エアトラン航空](https://ja.wikipedia.org/wiki/エアトラン航空 "wikilink")のハブ空港となっている。
+[ボルチモア・ワシントン国際空港](../Page/ボルチモア・ワシントン国際空港.md "wikilink")はD.C.から51km北東、メリーランド州アン・アランデル郡にあり、[サウスウエスト航空](../Page/サウスウエスト航空.md "wikilink")と[エアトラン航空](https://ja.wikipedia.org/wiki/エアトラン航空 "wikilink")のハブ空港となっている。
 
 ### 高速道路
 
@@ -541,7 +541,7 @@ WMATA では、2030年までに地下鉄の利用客は1日平均100万人にな
 
   - [サンダーランド](../Page/サンダーランド_\(イングランド\).md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")連合王国）
 
-  - [ブラザビル](https://ja.wikipedia.org/wiki/ブラザビル "wikilink")（[コンゴ共和国](https://ja.wikipedia.org/wiki/コンゴ共和国 "wikilink") [特別市](https://ja.wikipedia.org/wiki/特別市#コンゴ共和国 "wikilink")）
+  - [ブラザビル](https://ja.wikipedia.org/wiki/ブラザビル "wikilink")（[コンゴ共和国](../Page/コンゴ共和国.md "wikilink") [特別市](https://ja.wikipedia.org/wiki/特別市#コンゴ共和国 "wikilink")）
 
   - [ローマ](../Page/ローマ.md "wikilink")（[イタリア共和国](https://ja.wikipedia.org/wiki/イタリア共和国 "wikilink") [ラツィオ州](../Page/ラツィオ州.md "wikilink")）
 

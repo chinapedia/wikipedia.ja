@@ -127,7 +127,7 @@
   - [石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")→[H (石井竜也のアルバム)](https://ja.wikipedia.org/wiki/H_\(石井竜也のアルバム\) "wikilink")。
   - 「[H](https://ja.wikipedia.org/wiki/H_\(雑誌\) "wikilink")」又は「[コミックH](https://ja.wikipedia.org/wiki/コミックH "wikilink")」は、株式会社[ロッキング・オン](../Page/ロッキング・オン.md "wikilink") (rockin'on) から出版された雑誌。
   - [田中康夫](../Page/田中康夫.md "wikilink")の小説→[H (小説)](https://ja.wikipedia.org/wiki/H_\(小説\) "wikilink")。
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のシングル。[H (シングル)](../Page/H_\(シングル\).md "wikilink")。
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")のシングル。[H (シングル)](../Page/H_\(シングル\).md "wikilink")。
   - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が1947年から1981年まで発売していた貨物自動車→[Hトラック](../Page/シトロエン・Hトラック.md "wikilink")（アッシュトラック）。
   - [桜井まちこ](https://ja.wikipedia.org/wiki/桜井まちこ "wikilink")の漫画。→[H-エイチ-](https://ja.wikipedia.org/wiki/H-エイチ- "wikilink")。
   - [きんこうじたま](https://ja.wikipedia.org/wiki/きんこうじたま "wikilink")の漫画。→[H (アッシュ)](https://ja.wikipedia.org/wiki/H_\(アッシュ\) "wikilink")。

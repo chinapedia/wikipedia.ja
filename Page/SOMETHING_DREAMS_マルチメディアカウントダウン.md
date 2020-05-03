@@ -189,7 +189,7 @@
   -
 ## 外部リンク
 
-  - [公式サイト（2005年12月頃のウェブアーカイブ）](http://web.archive.org/web/20051216215732/http://www.joqr.co.jp/dorican/) - 過去のランキングが掲載されていた。最終回では番組歴代ランキングが掲載された。
+  - [公式サイト（2005年12月頃のウェブアーカイブ）](https://web.archive.org/web/20051216215732/http://www.joqr.co.jp/dorican/) - 過去のランキングが掲載されていた。最終回では番組歴代ランキングが掲載された。
 
 [Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:文化放送の深夜ラジオ番組 "wikilink") [Category:文化放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組の歴史 "wikilink") [Category:アニメソングのラジオ番組](https://ja.wikipedia.org/wiki/Category:アニメソングのラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:マルチメディア](https://ja.wikipedia.org/wiki/Category:マルチメディア "wikilink")
 

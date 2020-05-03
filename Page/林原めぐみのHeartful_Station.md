@@ -257,17 +257,17 @@
 
 2015年3月放送終了時点。本番組は[番組販売](../Page/番組販売.md "wikilink")され、またラジオ関西が独立局という立場上JRN・[NRNなどのネットワークに関係なくネットされていた](../Page/全国ラジオネットワーク.md "wikilink")。
 
-| 放送地域                                                | 放送局                                                         | 放送開始日            | 放送時間                   |
-| --------------------------------------------------- | ----------------------------------------------------------- | ---------------- | ---------------------- |
-| [兵庫県](../Page/兵庫県.md "wikilink")\[14\]              | [ラジオ関西](../Page/ラジオ関西.md "wikilink")（キー局）                   | 1991年10月5日       | 土曜 23:00 - 24:00       |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/HBCラジオ.md "wikilink")                       | 1997年4月11日\[15\] | 土曜 25:00 - 26:00       |
-| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink") | 2004年4月          | 土曜 22:00 - 23:00       |
-| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")       | 2001年10月         | 土曜 24:00 - 25:00       |
-| [茨城県](../Page/茨城県.md "wikilink")                    | [茨城放送](../Page/茨城放送.md "wikilink")                          | 2002年10月         | 土曜 22:30 - 23:30\[16\] |
-| [山梨県](../Page/山梨県.md "wikilink")\[17\]              | [FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")  | 2001年4月          | 日曜 19:00 - 20:00\[18\] |
-| [岐阜県](../Page/岐阜県.md "wikilink")\[19\]              | [岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")                       | 1997年6月          | 土曜 24:00 - 25:00       |
-| [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](../Page/RKBラジオ.md "wikilink")                     | 1997年4月11日\[20\] | 日曜 25:00 - 26:00       |
-| [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球放送](../Page/琉球放送.md "wikilink")                          | 土曜 26:00 - 27:00 |                        |
+| 放送地域                                                | 放送局                                                        | 放送開始日            | 放送時間                   |
+| --------------------------------------------------- | ---------------------------------------------------------- | ---------------- | ---------------------- |
+| [兵庫県](../Page/兵庫県.md "wikilink")\[14\]              | [ラジオ関西](../Page/ラジオ関西.md "wikilink")（キー局）                  | 1991年10月5日       | 土曜 23:00 - 24:00       |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/HBCラジオ.md "wikilink")                      | 1997年4月11日\[15\] | 土曜 25:00 - 26:00       |
+| [岩手県](../Page/岩手県.md "wikilink")                    | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")                   | 2004年4月          | 土曜 22:00 - 23:00       |
+| [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink") | [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")      | 2001年10月         | 土曜 24:00 - 25:00       |
+| [茨城県](../Page/茨城県.md "wikilink")                    | [茨城放送](../Page/茨城放送.md "wikilink")                         | 2002年10月         | 土曜 22:30 - 23:30\[16\] |
+| [山梨県](../Page/山梨県.md "wikilink")\[17\]              | [FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink") | 2001年4月          | 日曜 19:00 - 20:00\[18\] |
+| [岐阜県](../Page/岐阜県.md "wikilink")\[19\]              | [岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")                      | 1997年6月          | 土曜 24:00 - 25:00       |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](../Page/RKBラジオ.md "wikilink")                    | 1997年4月11日\[20\] | 日曜 25:00 - 26:00       |
+| [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球放送](../Page/琉球放送.md "wikilink")                         | 土曜 26:00 - 27:00 |                        |
 
 ※一部の放送局は[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")プレミアム会員向けのエリアフリー聴取では、番組制作会社の都合で配信されず、radikoの都道府県のエリア内でしか聴取出来なかった。
 

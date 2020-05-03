@@ -107,7 +107,7 @@ MS-DOSの後継OSであるWindowsへの対応としては、1995年に[NIFTY-Ser
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:解凍ソフト](https://ja.wikipedia.org/wiki/Category:解凍ソフト "wikilink") [Category:データ圧縮規格](https://ja.wikipedia.org/wiki/Category:データ圧縮規格 "wikilink") [Category:1988年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1988年のソフトウェア "wikilink")
 
 1.  CRC値のみでハッシュ値でのチェックは無いため、意図的な改竄は検出できず、破損の検出以上のチェックには使えない。
-2.  [吉崎栄泰のLHAワールド - LHAの今とこれから](http://web.archive.org/web/19990506162851/www.clione.ne.jp/lha/lha4.html) - [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")の1999年5月8日付のキャッシュ
+2.  [吉崎栄泰のLHAワールド - LHAの今とこれから](https://web.archive.org/web/19990506162851/www.clione.ne.jp/lha/lha4.html) - [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")の1999年5月8日付のキャッシュ
 3.
 4.  バージョン2.67付属ドキュメント
 5.  両者ではファイル名のエンコードが異なり、macOSの機能（[UTF-8](../Page/UTF-8.md "wikilink")でエンコード）で作成したアーカイブをWindowsの機能（[Microsoftコードページ932](../Page/Microsoftコードページ932.md "wikilink")でエンコード）で復元すると、ファイル名によっては文字化けする。内容には影響しない。Windows → macOSでは問題ない。

@@ -180,19 +180,19 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
       - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")：片福連絡線の第二種鉄道事業免許取得。
   - [1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）
       - [5月16日](../Page/5月16日.md "wikilink")：正式名称がJR東西線に決定\[25\]。
-      - [9月25日](../Page/9月25日.md "wikilink")：レール締結式挙行。
-      - [10月20日](../Page/10月20日.md "wikilink")：大阪城北詰駅 → 大阪天満宮駅間でJR東西線トンネルウォークが実施される\[26\]。
-      - [12月4日](../Page/12月4日.md "wikilink")：試運転開始\[27\]。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[3月8日](../Page/3月8日.md "wikilink")：京橋駅 - 尼崎駅間開業\[28\]。片町線の京橋駅 - [片町駅](../Page/片町駅.md "wikilink")間は京橋駅 - 大阪城北詰駅間に代替されて廃止。ただし片町駅までの定期券などは、京橋駅 - 大阪城北詰駅間を利用できる乗車券としては継承されなかった。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年） [12月2日](../Page/12月2日.md "wikilink")：女性専用車が導入される\[29\]。
+      - [9月25日](../Page/9月25日.md "wikilink")：レール締結式挙行\[26\]。
+      - [10月20日](../Page/10月20日.md "wikilink")：大阪城北詰駅 → 大阪天満宮駅間でJR東西線トンネルウォークが実施される\[27\]。
+      - [12月4日](../Page/12月4日.md "wikilink")：試運転開始\[28\]。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[3月8日](../Page/3月8日.md "wikilink")：京橋駅 - 尼崎駅間開業\[29\]。片町線の京橋駅 - [片町駅](../Page/片町駅.md "wikilink")間は京橋駅 - 大阪城北詰駅間に代替されて廃止。ただし片町駅までの定期券などは、京橋駅 - 大阪城北詰駅間を利用できる乗車券としては継承されなかった。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年） [12月2日](../Page/12月2日.md "wikilink")：女性専用車が導入される\[30\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月15日](../Page/3月15日.md "wikilink")：おおさか東線（この日開業）・片町線（学研都市線）・JR東西線経由で関西本線（大和路線）奈良駅 - 尼崎駅間に直通快速が運転開始。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[12月1日](../Page/12月1日.md "wikilink")：組織改正により、[大阪支社の管轄から近畿統括本部の管轄に変更](../Page/西日本旅客鉄道大阪支社.md "wikilink")\[30\]。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[12月1日](../Page/12月1日.md "wikilink")：組織改正により、[大阪支社の管轄から近畿統括本部の管轄に変更](../Page/西日本旅客鉄道大阪支社.md "wikilink")\[31\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）
-      - 3月8日：JR宝塚・JR東西・学研都市線運行管理システム (SUNTRAS) が導入される\[31\]。
-      - [3月27日](../Page/3月27日.md "wikilink")：北新地駅でJR西日本の在来線で初めて可動式ホーム柵（ホームドア）の使用を開始\[32\]。
-      - [4月18日](../Page/4月18日.md "wikilink")：女性専用車が毎日、終日設定される\[33\]。
+      - 3月8日：JR宝塚・JR東西・学研都市線運行管理システム (SUNTRAS) が導入される\[32\]。
+      - [3月27日](../Page/3月27日.md "wikilink")：北新地駅でJR西日本の在来線で初めて可動式ホーム柵（ホームドア）の使用を開始\[33\]。
+      - [4月18日](../Page/4月18日.md "wikilink")：女性専用車が毎日、終日設定される\[34\]。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）[3月28日](../Page/3月28日.md "wikilink")：大阪天満宮駅で可動式ホーム柵の使用を開始。
-  - [2015年](../Page/2015年.md "wikilink")（平成27年）[7月31日](../Page/7月31日.md "wikilink")：京橋駅 - 尼崎駅間の地下線内で携帯電話通信サービスが開始される\[34\]。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）[7月31日](../Page/7月31日.md "wikilink")：京橋駅 - 尼崎駅間の地下線内で携帯電話通信サービスが開始される\[35\]。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）[3月17日](../Page/3月17日.md "wikilink")：各駅に[駅ナンバーが導入され](../Page/駅ナンバリング.md "wikilink")、使用を開始する。
   - [2019年](../Page/2019年.md "wikilink")（平成31年）[3月15日](../Page/3月15日.md "wikilink")：おおさか東線全通に伴い、この日限りで直通快速の乗り入れを終了。
 
@@ -204,14 +204,14 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 
   - ：[特定都区市内](../Page/特定都区市内.md "wikilink")制度における「大阪市内」エリアの駅
 
-  - [駅ナンバーは](../Page/駅ナンバリング.md "wikilink")2018年3月より導入\[35\]、片町線からの通し番号となっている。
+  - [駅ナンバーは](../Page/駅ナンバリング.md "wikilink")2018年3月より導入\[36\]、片町線からの通し番号となっている。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>駅<br />
 ナンバー<br />
-[36]</p></th>
+[37]</p></th>
 <th><p>駅名</p></th>
 <th><p>駅間<br />
 営業キロ</p></th>
@@ -230,7 +230,7 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 <td><p>0.0</p></td>
 <td><p><a href="../Page/西日本旅客鉄道.md" title="wikilink">西日本旅客鉄道</a>：<a href="https://ja.wikipedia.org/wiki/片町線" title="wikilink">片町線</a>（ 学研都市線）（最長<a href="../Page/関西本線.md" title="wikilink">関西本線</a><a href="https://ja.wikipedia.org/wiki/奈良駅" title="wikilink">奈良駅</a>まで直通運転）・ <a href="../Page/大阪環状線.md" title="wikilink">大阪環状線</a> (JR-O08)<br />
 <a href="../Page/京阪電気鉄道.md" title="wikilink">京阪電気鉄道</a>：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Keihan_lines.png" title="fig:Number_prefix_Keihan_lines.png">Number_prefix_Keihan_lines.png</a> <a href="../Page/京阪本線.md" title="wikilink">京阪本線</a> (KH04)<br />
-<a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道" title="wikilink">大阪市高速電気軌道</a>：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg" title="fig:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg">Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線" title="wikilink">長堀鶴見緑地線</a> (N22)</p></td>
+<a href="https://ja.wikipedia.org/wiki/大阪市高速電気軌道" title="wikilink">大阪市高速電気軌道</a>：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg" title="fig:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg">Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg</a> <a href="../Page/Osaka_Metro長堀鶴見緑地線.md" title="wikilink">長堀鶴見緑地線</a> (N22)</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -248,7 +248,7 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 <td><p><a href="https://ja.wikipedia.org/wiki/大阪天満宮駅" title="wikilink">大阪天満宮駅</a></p></td>
 <td><p>1.3</p></td>
 <td><p>2.2</p></td>
-<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Tanimachi_line_symbol.svg" title="fig:Osaka_Metro_Tanimachi_line_symbol.svg">Osaka_Metro_Tanimachi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro谷町線" title="wikilink">谷町線</a>・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sakaisuji_line_symbol.svg" title="fig:Osaka_Metro_Sakaisuji_line_symbol.svg">Osaka_Metro_Sakaisuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線" title="wikilink">堺筋線</a> …<a href="https://ja.wikipedia.org/wiki/南森町駅" title="wikilink">南森町駅</a> (T21・K13)</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Tanimachi_line_symbol.svg" title="fig:Osaka_Metro_Tanimachi_line_symbol.svg">Osaka_Metro_Tanimachi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro谷町線" title="wikilink">谷町線</a>・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sakaisuji_line_symbol.svg" title="fig:Osaka_Metro_Sakaisuji_line_symbol.svg">Osaka_Metro_Sakaisuji_line_symbol.svg</a> <a href="../Page/Osaka_Metro堺筋線.md" title="wikilink">堺筋線</a> …<a href="https://ja.wikipedia.org/wiki/南森町駅" title="wikilink">南森町駅</a> (T21・K13)</p></td>
 <td><p><a href="../Page/ウメ.md" title="wikilink">梅</a></p></td>
 <td><p><a href="../Page/北区_(大阪市).md" title="wikilink">北区</a></p></td>
 </tr>
@@ -257,11 +257,11 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 <td><p><a href="https://ja.wikipedia.org/wiki/北新地駅" title="wikilink">北新地駅</a></p></td>
 <td><p>1.4</p></td>
 <td><p>3.6</p></td>
-<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/東海道本線" title="wikilink">東海道本線</a>（ <a href="https://ja.wikipedia.org/wiki/JR京都線" title="wikilink">JR京都線</a>・ <a href="../Page/JR神戸線.md" title="wikilink">JR神戸線</a>・ <a href="../Page/福知山線.md" title="wikilink">JR宝塚線</a>）・ 大阪環状線 …<a href="https://ja.wikipedia.org/wiki/大阪駅" title="wikilink">大阪駅</a>[37]<br />
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/東海道本線" title="wikilink">東海道本線</a>（ <a href="https://ja.wikipedia.org/wiki/JR京都線" title="wikilink">JR京都線</a>・ <a href="../Page/JR神戸線.md" title="wikilink">JR神戸線</a>・ <a href="../Page/福知山線.md" title="wikilink">JR宝塚線</a>）・ 大阪環状線 …<a href="https://ja.wikipedia.org/wiki/大阪駅" title="wikilink">大阪駅</a>[38]<br />
 （JR-A47・同左・JR-G47・JR-O11）<br />
-大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線" title="wikilink">御堂筋線</a> …<a href="https://ja.wikipedia.org/wiki/梅田駅_(Osaka_Metro)" title="wikilink">梅田駅</a> (M16)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Tanimachi_line_symbol.svg" title="fig:Osaka_Metro_Tanimachi_line_symbol.svg">Osaka_Metro_Tanimachi_line_symbol.svg</a> 谷町線 …<a href="https://ja.wikipedia.org/wiki/東梅田駅" title="wikilink">東梅田駅</a> (T20)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Yotsubashi_line_symbol.svg" title="fig:Osaka_Metro_Yotsubashi_line_symbol.svg">Osaka_Metro_Yotsubashi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線" title="wikilink">四つ橋線</a> …<a href="https://ja.wikipedia.org/wiki/西梅田駅" title="wikilink">西梅田駅</a> (Y11)<br />
+大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線" title="wikilink">御堂筋線</a> …<a href="https://ja.wikipedia.org/wiki/梅田駅_(Osaka_Metro)" title="wikilink">梅田駅</a> (M16)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Tanimachi_line_symbol.svg" title="fig:Osaka_Metro_Tanimachi_line_symbol.svg">Osaka_Metro_Tanimachi_line_symbol.svg</a> 谷町線 …<a href="https://ja.wikipedia.org/wiki/東梅田駅" title="wikilink">東梅田駅</a> (T20)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Yotsubashi_line_symbol.svg" title="fig:Osaka_Metro_Yotsubashi_line_symbol.svg">Osaka_Metro_Yotsubashi_line_symbol.svg</a> <a href="../Page/Osaka_Metro四つ橋線.md" title="wikilink">四つ橋線</a> …<a href="https://ja.wikipedia.org/wiki/西梅田駅" title="wikilink">西梅田駅</a> (Y11)<br />
 <a href="../Page/阪神電気鉄道.md" title="wikilink">阪神電気鉄道</a>：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_Hanshin_line.svg" title="wikilink">15px</a> <a href="../Page/阪神本線.md" title="wikilink">本線</a> …<a href="https://ja.wikipedia.org/wiki/大阪梅田駅_(阪神)" title="wikilink">大阪梅田駅</a> (HS 01)<br />
-<a href="../Page/阪急電鉄.md" title="wikilink">阪急電鉄</a>：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kōbe_line.svg" title="fig:Number_prefix_Hankyu_Kōbe_line.svg">Number_prefix_Hankyu_Kōbe_line.svg</a> <a href="https://ja.wikipedia.org/wiki/阪急神戸本線" title="wikilink">神戸本線</a>・<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Takarazuka_line.svg" title="fig:Number_prefix_Hankyu_Takarazuka_line.svg">Number_prefix_Hankyu_Takarazuka_line.svg</a> <a href="../Page/阪急宝塚本線.md" title="wikilink">宝塚本線</a>・<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kyōto_line.svg" title="fig:Number_prefix_Hankyu_Kyōto_line.svg">Number_prefix_Hankyu_Kyōto_line.svg</a> <a href="../Page/阪急京都本線.md" title="wikilink">京都本線</a>[38] …<a href="https://ja.wikipedia.org/wiki/大阪梅田駅_(阪急)" title="wikilink">大阪梅田駅</a> (HK-01)</p></td>
+<a href="../Page/阪急電鉄.md" title="wikilink">阪急電鉄</a>：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kōbe_line.svg" title="fig:Number_prefix_Hankyu_Kōbe_line.svg">Number_prefix_Hankyu_Kōbe_line.svg</a> <a href="https://ja.wikipedia.org/wiki/阪急神戸本線" title="wikilink">神戸本線</a>・<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Takarazuka_line.svg" title="fig:Number_prefix_Hankyu_Takarazuka_line.svg">Number_prefix_Hankyu_Takarazuka_line.svg</a> <a href="../Page/阪急宝塚本線.md" title="wikilink">宝塚本線</a>・<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kyōto_line.svg" title="fig:Number_prefix_Hankyu_Kyōto_line.svg">Number_prefix_Hankyu_Kyōto_line.svg</a> <a href="../Page/阪急京都本線.md" title="wikilink">京都本線</a>[39] …<a href="https://ja.wikipedia.org/wiki/大阪梅田駅_(阪急)" title="wikilink">大阪梅田駅</a> (HK-01)</p></td>
 <td><p><a href="../Page/イネ.md" title="wikilink">稲穂</a></p></td>
 <td></td>
 </tr>
@@ -281,7 +281,7 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 <td><p>1.2</p></td>
 <td><p>6.0</p></td>
 <td><p>阪神電気鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Number_prefix_Hanshin_line.svg" title="wikilink">15px</a> 本線 …<a href="https://ja.wikipedia.org/wiki/野田駅_(阪神)" title="wikilink">野田駅</a> (HS 03)<br />
-大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sennichimae_line_symbol.svg" title="fig:Osaka_Metro_Sennichimae_line_symbol.svg">Osaka_Metro_Sennichimae_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro千日前線" title="wikilink">千日前線</a> …<a href="https://ja.wikipedia.org/wiki/野田阪神駅" title="wikilink">野田阪神駅</a> (S11)</p></td>
+大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sennichimae_line_symbol.svg" title="fig:Osaka_Metro_Sennichimae_line_symbol.svg">Osaka_Metro_Sennichimae_line_symbol.svg</a> <a href="../Page/Osaka_Metro千日前線.md" title="wikilink">千日前線</a> …<a href="https://ja.wikipedia.org/wiki/野田阪神駅" title="wikilink">野田阪神駅</a> (S11)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジ_(植物)#人間との関わり" title="wikilink">野田藤</a></p></td>
 <td></td>
 </tr>
@@ -347,12 +347,12 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 7.
 8.  [転落防止：JR大阪天満宮駅に可動式ホーム柵が設置](http://mainichi.jp/photo/news/20120328k0000e040252000c.html) - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink") 2012年3月28日
 9.  ただし、ダイヤが乱れた場合は、学研都市線への直通運転は行われず、京橋駅止め列車が運転されることがある。
-10. この案内方法は、大阪市内では[Osaka Metro堺筋線](https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線 "wikilink")、首都圏では[東京メトロ千代田線](../Page/東京メトロ千代田線.md "wikilink")、[都営地下鉄浅草線](https://ja.wikipedia.org/wiki/都営地下鉄浅草線 "wikilink")など多くの地下鉄路線で見られる。
+10. この案内方法は、大阪市内では[Osaka Metro堺筋線](../Page/Osaka_Metro堺筋線.md "wikilink")、首都圏では[東京メトロ千代田線](../Page/東京メトロ千代田線.md "wikilink")、[都営地下鉄浅草線](https://ja.wikipedia.org/wiki/都営地下鉄浅草線 "wikilink")など多くの地下鉄路線で見られる。
 11.
 12. [JRダイヤ改正は2019年3月16日(3) JR西日本、おおさか東線全線開業後の新大阪発直通快速の時刻公開](https://news.mynavi.jp/article/jrdiagram2019-3/) - マイナビニュース、2018年12月14日
 13.
 14.
-15. [〜より快適な車内環境をめざして〜「女性専用車」を拡大します](http://web.archive.org/web/20021018141417/http://www.westjr.co.jp/news/021017a.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2002年10月17日
+15. [〜より快適な車内環境をめざして〜「女性専用車」を拡大します](https://web.archive.org/web/20021018141417/http://www.westjr.co.jp/news/021017a.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2002年10月17日
 16. [女性専用車の全日化･終日化について](http://www.westjr.co.jp/news/newslist/article/1175252_799.html) ・ [車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html) - 西日本旅客鉄道プレスリリース 2011年3月4日・2011年4月6日
 17. [JRおでかけネット - 新しい大阪駅へ。新ダイヤ、はじまる。3.12 新ダイヤ](http://pamph.jr-odekake.net/view_pamph2.php?client_id=jrwest&book_id=osaka_newdaiya) - 西日本旅客鉄道
 18.
@@ -363,16 +363,17 @@ JR西日本単独での建設は困難なため、[1988年](../Page/1988年.md "
 23. 当時、国道2号以北では福知山線の尼崎港支線が営業中であったが1981年には旅客営業が廃止されている。
 24. 1975年以前は[阪神国道線](../Page/阪神国道線.md "wikilink")が運行されていた。
 25.
-26. 「完成したJR東西線の地下トンネルを歩こう 10月20日に開く」読売新聞 1996年9月15日
-27. 「JR東西線（京橋 - 尼崎） 営業車両のテスト走行始まる／JR西日本」- 読売新聞 1996年12月4日
-28.
+26.
+27. 「完成したJR東西線の地下トンネルを歩こう 10月20日に開く」読売新聞 1996年9月15日
+28. 「JR東西線（京橋 - 尼崎） 営業車両のテスト走行始まる／JR西日本」- 読売新聞 1996年12月4日
 29.
-30. [組織改正などについて](http://www.westjr.co.jp/news/newslist/article/1175068_799.html) - 西日本旅客鉄道プレスリリース 2010年11月16日
-31. [2011年2月定例社長会見](http://www.westjr.co.jp/news/newslist/article/1175201_799.html) - 西日本旅客鉄道 2011年2月18日
-32. [北新地駅にホームドア JR西在来線で初](http://sankei.jp.msn.com/affairs/news/110327/dst11032715370038-n1.htm) - 産経新聞 2011年3月27日
-33.
-34. [JR西日本、大阪の在来線地下区間で携帯電話サービス開始](http://response.jp/article/2015/07/30/256785.html) - レスポンス、2015年7月30日
-35. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線 のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
-36.  - 西日本旅客鉄道、2016年7月20日
-37. 北新地駅と大阪駅の間は徒歩連絡の特例がある（[\#乗車制度](https://ja.wikipedia.org/wiki/#乗車制度 "wikilink")を参照）
-38. 運転系統上の「京都本線」を表す。同線の正式な起点は[十三駅](https://ja.wikipedia.org/wiki/十三駅 "wikilink")
+30.
+31. [組織改正などについて](http://www.westjr.co.jp/news/newslist/article/1175068_799.html) - 西日本旅客鉄道プレスリリース 2010年11月16日
+32. [2011年2月定例社長会見](http://www.westjr.co.jp/news/newslist/article/1175201_799.html) - 西日本旅客鉄道 2011年2月18日
+33. [北新地駅にホームドア JR西在来線で初](http://sankei.jp.msn.com/affairs/news/110327/dst11032715370038-n1.htm) - 産経新聞 2011年3月27日
+34.
+35. [JR西日本、大阪の在来線地下区間で携帯電話サービス開始](http://response.jp/article/2015/07/30/256785.html) - レスポンス、2015年7月30日
+36. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線 のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
+37.  - 西日本旅客鉄道、2016年7月20日
+38. 北新地駅と大阪駅の間は徒歩連絡の特例がある（[\#乗車制度](https://ja.wikipedia.org/wiki/#乗車制度 "wikilink")を参照）
+39. 運転系統上の「京都本線」を表す。同線の正式な起点は[十三駅](https://ja.wikipedia.org/wiki/十三駅 "wikilink")

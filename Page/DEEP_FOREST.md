@@ -44,7 +44,7 @@
 11. **遠雷**
       -
         [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Do The Best](../Page/Do_The_Best.md "wikilink")』及び『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』にも収録されている。PVも制作され、2001年9月27日に発売されたクリップ集『5』で視聴が可能である。
-12. 初回限定Bonus Track：**[シグナル](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink")(Album Remix)**
+12. **[シグナル](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink")(Album Remix)**
       -
         初回限定盤のみに収録。「[遠くまで](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink")」カップリング曲の[リミックス](../Page/リミックス.md "wikilink")バージョン（オリジナルバージョンは『[Do The B-side](../Page/Do_The_B-side.md "wikilink")』に収録）。花王「ラビナス」CMソング。
 

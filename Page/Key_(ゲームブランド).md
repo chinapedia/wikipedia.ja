@@ -161,6 +161,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
       - PlayStation Portable版ゲーム：2010年11月25日発売（発売元:プロトタイプ）
       - PlayStation Vita版ゲーム：2012年3月22日発売（発売元:プロトタイプ）
       - PlayStation 3版ゲーム：2013年3月20日発売（発売元:プロトタイプ）
+      - [Nintendo Switch版ゲーム](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")：2020年4月23日発売（発売元:プロトタイプ）
 
   - [クドわふたー Converted Edition](https://ja.wikipedia.org/wiki/クドわふたー "wikilink")
 
@@ -180,7 +181,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
   - [Summer Pockets](https://ja.wikipedia.org/wiki/Summer_Pockets "wikilink")
 
-      - [Nintendo Switch版ゲーム](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")：2019年6月20日発売（発売元:プロトタイプ）
+      - Nintendo Switch版ゲーム：2019年6月20日発売（発売元:プロトタイプ）
 
 ## アニメ化作品一覧
 

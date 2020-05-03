@@ -52,7 +52,7 @@
   - **[プログラミング](../Page/プログラミング.md "wikilink")(Programming)** ： [中山信彦](https://ja.wikipedia.org/wiki/中山信彦 "wikilink")・[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")
   - **[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")(Drums)** ： [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")・[佐野康夫](../Page/佐野康夫.md "wikilink")・[倉内充](https://ja.wikipedia.org/wiki/倉内充 "wikilink")
   - **[ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")(Bass)** ： [亀田誠治](../Page/亀田誠治.md "wikilink")・[渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")
-  - **[ギター](../Page/ギター.md "wikilink")(Guitar)** ： [林部直樹](../Page/林部直樹.md "wikilink")・[西川進](../Page/西川進.md "wikilink")・[古川昌義](https://ja.wikipedia.org/wiki/古川昌義 "wikilink")
+  - **[ギター](../Page/ギター.md "wikilink")(Guitar)** ： [林部直樹](../Page/林部直樹.md "wikilink")・[西川進](../Page/西川進.md "wikilink")・[古川昌義](../Page/古川昌義.md "wikilink")
   - **[キーボード](../Page/キーボード_\(楽器\).md "wikilink")(Keyboard)** ： [高瀬順](https://ja.wikipedia.org/wiki/高瀬順 "wikilink")・[上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")・[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")
   - **[ホーン](https://ja.wikipedia.org/wiki/ホーン "wikilink")＆[ハープ](../Page/ハープ.md "wikilink")(Horn\&Harp)** ： [Yokan](https://ja.wikipedia.org/wiki/Yokan "wikilink")
   - **[パーカッション](../Page/パーカッション.md "wikilink")(Percussion)**：[三沢またろう](../Page/三沢またろう.md "wikilink")

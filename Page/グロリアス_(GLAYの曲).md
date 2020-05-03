@@ -1,7 +1,7 @@
 > この記事は[グロリアス \(GLAYの曲\)](https://ja.wikipedia.org/wiki/グロリアス_\(GLAYの曲\))から翻訳されています。
 
 
-「**グロリアス**」は、[GLAY](../Page/GLAY.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")から発売された。
+「**グロリアス**」は、[GLAY](../Page/GLAY.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")から発売された。
 
 ## 概要
 

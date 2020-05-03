@@ -59,6 +59,5 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオンによる紹介ページ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200600000486&DSP_SKHKETSEQ=001)
-
+  -
 [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")

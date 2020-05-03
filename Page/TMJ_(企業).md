@@ -11,7 +11,7 @@
 
 ベネッセグループのノーマライゼーションの考え方を特に考えた会社でもあり、障害者雇用に積極的に取り組んでいる。
 
-[テレマーケティング](../Page/テレマーケティング.md "wikilink")[エージェンシー](https://ja.wikipedia.org/wiki/エージェンシー "wikilink")（コールセンター運営）の中では、[ベルシステム24](../Page/ベルシステム24.md "wikilink")・[りらいあコミュニケーションズ](../Page/りらいあコミュニケーションズ.md "wikilink")・[トランスコスモス](../Page/トランスコスモス.md "wikilink")・[KDDIエボルバ](https://ja.wikipedia.org/wiki/KDDIエボルバ "wikilink")・[NTTソルコ](https://ja.wikipedia.org/wiki/NTTソルコ "wikilink")についで6位規模。
+総合BPOサービス会社の中では、[ベルシステム24](../Page/ベルシステム24.md "wikilink")・[りらいあコミュニケーションズ](../Page/りらいあコミュニケーションズ.md "wikilink")・[トランスコスモス](../Page/トランスコスモス.md "wikilink")・[KDDIエボルバ](https://ja.wikipedia.org/wiki/KDDIエボルバ "wikilink")・[NTTソルコ](https://ja.wikipedia.org/wiki/NTTソルコ "wikilink")についで6位規模。
 
 ベネッセホールディングスと[丸紅](../Page/丸紅.md "wikilink")は、[2017年](../Page/2017年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に両社が保有する全株式を大手警備会社である[セコム](../Page/セコム.md "wikilink")へ売却することと、TMJとベネッセコーポレーションとの間で業務提携を締結した事を発表。ベネッセホールディングスと丸紅が保有していたTMJ全株式は、同年10月2日にセコムへ譲渡され、TMJはセコムグループの1社として、100%子会社となる。セコムはTMJを完全子会社化したことで、グループビジョンで掲げている「あんしんプラットフォーム」構想の一翼を担う\[1\]\[2\]\[3\]。
 

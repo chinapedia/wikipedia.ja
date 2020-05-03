@@ -2724,21 +2724,43 @@ Vo：ROD、G：LEZYNA、Ba：SHOWY、Dr：RALF<br />
 <td><p>1987年</p></td>
 <td><p>ライブ</p></td>
 <td><p>1stライブ</p></td>
-<td><p>1987年4月20日 大阪BAHAMA[28]<br />
-（JUSTY-NASTY初ライブ）</p></td>
+<td><p>4月20日 大阪BAHAMA[28]<br />
+（Justy-Nasty初ライブ）</p></td>
+</tr>
+<tr class="even">
+<td><p>1989年</p></td>
+<td><p>ライブ</p></td>
+<td><p>7DAYS CRASH</p></td>
+<td><p>10月 代々木チョコレートシティ<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>1990年</p></td>
+<td><p>ライブツアー</p></td>
+<td><p>PLASTIC ROMANTIC TOUR</p></td>
+<td><p>＜全8会場＞<br />
+6月11日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a><br />
+6月15日 <a href="https://ja.wikipedia.org/wiki/愛知県勤労会館" title="wikilink">愛知県勤労会館</a><br />
+6月16日 <a href="../Page/オリックス劇場.md" title="wikilink">大阪厚生年金会館</a><br />
+6月18日 <a href="https://ja.wikipedia.org/wiki/都久志会館" title="wikilink">福岡都久志会館</a><br />
+6月22日 札幌ヤマハ 第二ホール<br />
+6月25日 <a href="https://ja.wikipedia.org/wiki/広島県民文化センターふくやま" title="wikilink">広島県民文化センター</a><br />
+6月26日 <a href="../Page/ロームシアター京都.md" title="wikilink">京都会館</a><br />
+6月28日 <a href="https://ja.wikipedia.org/wiki/新潟市音楽文化会館" title="wikilink">新潟市音楽文化会館</a><br />
+</p></td>
 </tr>
 <tr class="even">
 <td><p>1995年</p></td>
 <td><p>ライブ</p></td>
 <td><p>LAST LIVE</p></td>
-<td><p>1995年2月24日 <a href="../Page/Shibuya_O-WEST.md" title="wikilink">渋谷ON AIR WEST</a><br />
+<td><p>2月24日 <a href="../Page/Shibuya_O-WEST.md" title="wikilink">渋谷ON AIR WEST</a><br />
 （JUSTY-NASTY解散ライブ）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
 <td><p>ライブ</p></td>
 <td><p>STILL</p></td>
-<td><p>2008年6月15日 タワーレコード渋谷店B1 STAGE ONE<br />
+<td><p>6月15日 タワーレコード渋谷店B1 STAGE ONE<br />
 （1995年2月24日解散ライブから13年ぶりのJUSTY-NASTYライブ）</p></td>
 </tr>
 <tr class="even">
@@ -2746,7 +2768,7 @@ Vo：ROD、G：LEZYNA、Ba：SHOWY、Dr：RALF<br />
 <td><p>ライブイベント</p></td>
 <td><p>KENICHI FUJISAKI 20th ANNIVERSARY LIVE<br />
 “明日も夢を”</p></td>
-<td><p>2009年6月25日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">渋谷O-CREST</a><br />
+<td><p>6月25日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">渋谷O-CREST</a><br />
 （藤崎賢一デビュー20周年記念ライブイベント。G.A.N.G.、bluevox、藤崎賢一ソロバンド、6(six)、JUSTY-NASTYが出演。RALFは不参加、ロッキーがサポート）</p></td>
 </tr>
 <tr class="odd">
@@ -2754,15 +2776,15 @@ Vo：ROD、G：LEZYNA、Ba：SHOWY、Dr：RALF<br />
 <td><p>ライブ</p></td>
 <td><p>Original Justy-Nasty Live -4 FRENEMIES-</p></td>
 <td><p>＜全2会場＞<br />
-2015年7月25日 渋谷チェルシーホテル<br />
-2015年8月22日 大阪心斎橋パラダイム[29]<br />
+7月25日 渋谷チェルシーホテル<br />
+8月22日 大阪心斎橋パラダイム[29]<br />
 （1988年8月31日以来、27年ぶりのOriginal Justy-Nastyライブ）<br />
 New Mini Album「4 FRENEMIES」会場発売。</p></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>DEAD END主催LIVE「四鬼夜行-六喰-」</p></td>
-<td><p>2015年9月12日 渋谷<a href="../Page/Shibuya_O-EAST.md" title="wikilink">TSUTAYA O-EAST</a><br />
+<td><p>9月12日 渋谷<a href="../Page/Shibuya_O-EAST.md" title="wikilink">TSUTAYA O-EAST</a><br />
 （対バン：<a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a>、<a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>、<a href="../Page/Gargoyle.md" title="wikilink">GARGOYLE</a>）</p></td>
 <td></td>
 </tr>
@@ -2770,14 +2792,14 @@ New Mini Album「4 FRENEMIES」会場発売。</p></td>
 <td><p>ライブイベント</p></td>
 <td><p>大人世代のライブガイド「ライブイコーゼ」 presents<br />
 『Amplifier』 vol.4</p></td>
-<td><p>2015年10月18日 池袋手刀<br />
+<td><p>10月18日 池袋手刀<br />
 （対バン：<a href="https://ja.wikipedia.org/wiki/vez" title="wikilink">vez</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブ</p></td>
 <td><p>2015 LAST GIG</p></td>
-<td><p>2015年12月13日 渋谷チェルシーホテル<br />
+<td><p>12月13日 渋谷チェルシーホテル<br />
 New Mini Album「FAKE STAR」会場発売</p></td>
 <td></td>
 </tr>
@@ -2786,11 +2808,11 @@ New Mini Album「FAKE STAR」会場発売</p></td>
 <td><p>ライブツアー</p></td>
 <td><p>TOUR 2016 -SHOT THE VANITY-</p></td>
 <td><p>＜全5会場＞<br />
-2016年3月5日 <del><a href="../Page/難波ロケッツ.md" title="wikilink">大阪 ROCKETS</a></del>[30] → 大阪 ORTO LOUNGE[31]<br />
-2016年3月12日 <a href="../Page/HeartLand_STUDIO.md" title="wikilink">名古屋 HEARTLAND STUDIO</a><br />
-2016年3月19日 札幌 CRAZY MONKEY<br />
-2016年3月26日 小倉 FUSE<br />
-2016年4月3日 東京 <a href="https://ja.wikipedia.org/wiki/東京キネマ倶楽部" title="wikilink">キネマ倶楽部</a><br />
+3月5日 <del><a href="../Page/難波ロケッツ.md" title="wikilink">大阪 ROCKETS</a></del>[30] → 大阪 ORTO LOUNGE[31]<br />
+3月12日 <a href="../Page/HeartLand_STUDIO.md" title="wikilink">名古屋 HEARTLAND STUDIO</a><br />
+3月19日 札幌 CRAZY MONKEY<br />
+3月26日 小倉 FUSE<br />
+4月3日 東京 <a href="https://ja.wikipedia.org/wiki/東京キネマ倶楽部" title="wikilink">キネマ倶楽部</a><br />
 New Full Album「SHOT THE VANITY」会場発売</p></td>
 </tr>
 <tr class="even">
@@ -2798,22 +2820,22 @@ New Full Album「SHOT THE VANITY」会場発売</p></td>
 <td><p>D'ERLANGER×Justy-Nasty、夏の京都 &amp; 東京LIVE<br />
 「The Time Machine Never Destroyed 2016」</p></td>
 <td><p>＜全2会場＞<br />
-2016年8月7日 京都FANJ<br />
-2016年8月11日 渋谷duo MUSIC EXCHANGE<br />
+8月7日 京都FANJ<br />
+8月11日 渋谷duo MUSIC EXCHANGE<br />
 （対バン：<a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブ</p></td>
 <td><p>2016 TOKYO LAST LIVE ONEMAN</p></td>
-<td><p>2016年12月4日 新宿 MARZ<br />
+<td><p>12月4日 新宿 MARZ<br />
 2016年最後の東京ワンマンLIVE</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブ</p></td>
 <td><p>BAYSIDE ROCK'N ROLL</p></td>
-<td><p>2016年12月11日 神戸 Harbor Studio<br />
+<td><p>12月11日 神戸 Harbor Studio<br />
 （対バン：<a href="../Page/THE_SLUT_BANKS.md" title="wikilink">THE SLUT BANKS</a>）<br />
 2016年最後のLIVE</p></td>
 <td></td>
@@ -2823,7 +2845,7 @@ New Full Album「SHOT THE VANITY」会場発売</p></td>
 <td><p>ライブイベント</p></td>
 <td><p>KENICHI FUJISAKI 50th ANNIVERSARY LIVE<br />
 「RODROCK ABSOLUTE PARTY 2017」</p></td>
-<td><p>2017年1月28日 東京 初台DOORS<br />
+<td><p>1月28日 東京 初台DOORS<br />
 （藤崎賢一生誕50周年ライブイベント）<br />
 KENICHI FUJISAKIソロ Justy-Nasty<br />
 Bordeaux<br />
@@ -2833,14 +2855,14 @@ Special DEATHRASH Session</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>TOKYO DEATH DISCO #7</p></td>
-<td><p>2017年2月11日 渋谷VUENOS<br />
+<td><p>2月11日 渋谷VUENOS<br />
 （対バン：<a href="https://ja.wikipedia.org/wiki/八田敦" title="wikilink">DALLE</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブ</p></td>
 <td><p>Respect up-beat #Ⅳ x Justy-Nasty</p></td>
-<td><p>2017年3月5日 原宿アストロホール<br />
+<td><p>3月5日 原宿アストロホール<br />
 （対バン：Respect up-beat）</p></td>
 <td></td>
 </tr>
@@ -2848,7 +2870,7 @@ Special DEATHRASH Session</p></td>
 <td><p>ライブ</p></td>
 <td><p>Justy-Nasty 30th ANNIVERSARY SPECIAL LIVE<br />
 “Reprises”</p></td>
-<td><p>2017年7月29日 Zirco TOKYO<br />
+<td><p>7月29日 Zirco TOKYO<br />
 当日会場で、Justy-Nasty結成30年記念再録ベストアルバム『Reprises』先行発売</p></td>
 <td></td>
 </tr>
@@ -2856,13 +2878,13 @@ Special DEATHRASH Session</p></td>
 <td><p>ライブイベント</p></td>
 <td><p>D'ERLANGER×Justy-Nasty LIVE<br />
 「The Time Machine Never Destroyed 2017」</p></td>
-<td><p>2017年8月6日 <a href="https://ja.wikipedia.org/wiki/TSUTAYA_O-EAST" title="wikilink">TSUTAYA O-EAST</a></p></td>
+<td><p>8月6日 <a href="https://ja.wikipedia.org/wiki/TSUTAYA_O-EAST" title="wikilink">TSUTAYA O-EAST</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブ</p></td>
 <td><p>Justy-Nasty SHOWCASE LIVE</p></td>
-<td><p>2017年9月18日 大阪KING COBRA<br />
+<td><p>9月18日 大阪KING COBRA<br />
 OPENING ACT：TAI：LEN　THE RUDEBOYS　ALUCARD<br />
 <br />
 beatskyメール予約特典：Justy-Nasty新曲デモ音源プレゼント</p></td>
@@ -2871,7 +2893,7 @@ beatskyメール予約特典：Justy-Nasty新曲デモ音源プレゼント</p><
 <tr class="odd">
 <td><p>ライブ</p></td>
 <td><p>Justy-Nasty SHOWCASE LIVE IN TOKYO</p></td>
-<td><p>2017年9月23日 渋谷VUENOS<br />
+<td><p>9月23日 渋谷VUENOS<br />
 <br />
 2017年9月18日大阪公演とは違うJusty-Nasty新曲デモ音源を来場者全員プレゼント</p></td>
 <td></td>
@@ -2880,7 +2902,7 @@ beatskyメール予約特典：Justy-Nasty新曲デモ音源プレゼント</p><
 <td><p>ライブイベント</p></td>
 <td><p>岸根-showy-光 50th聖誕祭<br />
 GLOW IN THE DARKNESS PARTY</p></td>
-<td><p>2017年10月29日 渋谷VUENOS<br />
+<td><p>10月29日 渋谷VUENOS<br />
 <br />
 ACT：bluevox、Bordeaux、Krishna Blue、AUTO-MOD、Justy-Nasty &amp; SPECIAL SESSION BAND<br />
 入場者全員にJusty-Nasty新曲DEMO配布</p></td>
@@ -2888,20 +2910,20 @@ ACT：bluevox、Bordeaux、Krishna Blue、AUTO-MOD、Justy-Nasty &amp; SPECIAL S
 </tr>
 <tr class="odd">
 <td><p>ライブ</p></td>
-<td><p>Justy-Nasty　LAST LIVE OF 2017</p></td>
-<td><p>2017年12月16日 <a href="https://ja.wikipedia.org/wiki/恵比寿CreAto" title="wikilink">恵比寿CreAto</a></p></td>
+<td><p>Justy-Nasty LAST LIVE OF 2017</p></td>
+<td><p>12月16日 <a href="https://ja.wikipedia.org/wiki/恵比寿CreAto" title="wikilink">恵比寿CreAto</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>ライブ</p></td>
 <td><p>One's Mind Undergoes a Revolution 2018</p></td>
-<td><p>2018年2月24日 aube渋谷</p></td>
+<td><p>2月24日 aube渋谷</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライブ</p></td>
 <td><p>30th FINAL -Heading for Future-</p></td>
-<td><p>2018年4月29日 初台DOORS<br />
+<td><p>4月29日 初台DOORS<br />
 <br />
 Justy-Nasty 30th HISTORY FILM[45min]<br />
 KENICHI FUJISAKI SOLO BAND LIVE<br />
@@ -2916,9 +2938,9 @@ JUSTY-NASTY LIVE<br />
 <tr class="even">
 <td><p>ライブ</p></td>
 <td><p>The Time Machine Never Destroyed 2018</p></td>
-<td><p>2018年8月4日 大阪Banana Hall<br />
-2018年8月5日 TSUTAYA O-EAST<br />
-2018年8月11日 名古屋ReNY limited<br />
+<td><p>8月4日 大阪Banana Hall<br />
+8月5日 TSUTAYA O-EAST<br />
+8月11日 名古屋ReNY limited<br />
 <br />
 Justy-Nasty / THE SLUT BANKS / D’ERLANGER</p></td>
 <td></td>

@@ -21,7 +21,7 @@
 
 ## 主な記録
 
-  - 『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』96年下半期総合パーフェクトランキング22位。
+  - 『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』96年下半期総合パーフェクトランキング22位。
   - [2005年](../Page/2005年.md "wikilink")[元日](../Page/元日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")『全部歌えるカラオケ祭り日本の名曲ベスト100』の歴代カラオケランキングで28位。
 
 ## 収録曲

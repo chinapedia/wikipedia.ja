@@ -9,6 +9,8 @@
 
 [1960年](../Page/1960年.md "wikilink")にドリフターズを脱退しソロ歌手に転向。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に「スタンド・バイ・ミー」の大ヒットを放った。この曲はスタンダードナンバーとして[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")をはじめ多くの歌手にカバーされている。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には映画「[スタンド・バイ・ミー](../Page/スタンド・バイ・ミー.md "wikilink")」の主題歌に起用されてリバイバルヒットした。
 
+＊「グルーヴィン」はレッド・ツェッペリン「ウィアー・ゴナ・グルーヴ」の原曲になっている。
+
 ベン・E・キング・スタンド・バイ・ミー財団を設立し、慈善活動を行っていた。
 
 2015年4月30日、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[ハッケンサックのハッケンサック大学メディカル](https://ja.wikipedia.org/wiki/ハッケンサック_\(ニュージャージー州\) "wikilink")・センター（[Hackensack University Medical Center](https://ja.wikipedia.org/wiki/:en:Hackensack_University_Medical_Center "wikilink")）で死去\[1\]\[2\]。76歳没。「[冠動脈](../Page/冠動脈.md "wikilink")に問題があった」とキングの代理人は述べたが詳しい死因には言及していない\[3\]。[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")誌、[デイリー・メール](../Page/デイリー・メール.md "wikilink")、[デイリー・テレグラフ](../Page/デイリー・テレグラフ.md "wikilink")は自然死と報じている\[4\]\[5\]\[6\]。

@@ -21,6 +21,9 @@
     2000年12月7日にWindows 95・[98に向けて発売された](../Page/Microsoft_Windows_98.md "wikilink")。本作にはゲーム作品「[これD.P.S.?](https://ja.wikipedia.org/wiki/D.P.S.#これD.P.S? "wikilink")」と「[かえるにょ国にょアリス](../Page/かえるにょ・ぱにょ〜ん.md "wikilink")」の2本が収められたほか、キャラクターの設定画などを収集したイラスト集「アリスのえほん」も収録されている。
   - ALICEの館7
     2004年12月17日発売。「しまいま。」・「DUNGEONS\&DOLLS」・「鈴宮刑務娼館」のゲーム3編に加え、『[ウルトラ魔法少女まなな](../Page/ウルトラ魔法少女まなな.md "wikilink")』シリーズの第3弾（第6 - 8話）などが同梱された。
+
+<!-- end list -->
+
   - アリス2010
     2009年12月18日に[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink")・[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")・[7に向けて発売された](../Page/Microsoft_Windows_7.md "wikilink")。『[Rance II -反逆の少女たち-](https://ja.wikipedia.org/wiki/Rance#Rance_II_-反逆の少女たち- "wikilink")』の一部をリメイクした「ランス02 -反逆の少女たち-」、「[超昂閃忍ハルカ](../Page/超昂閃忍ハルカ.md "wikilink") ハルカvsエスカレイヤー」、『[ばにしゅ\! 〜おっぱいの消えた王国〜](https://ja.wikipedia.org/wiki/ばにしゅ!_〜おっぱいの消えた王国〜 "wikilink")』（2009年2月発売）の後日談にあたる「ばにしゅ！ 〜この手のひらにおっぱいを〜」、『[ままにょにょ](https://ja.wikipedia.org/wiki/ままにょにょ "wikilink")』をワイド画面に対応させたリニューアル版「わいどにょ」、「はるうられ -校内赤線区域-」といった作品群や音楽集などが同梱された。
 

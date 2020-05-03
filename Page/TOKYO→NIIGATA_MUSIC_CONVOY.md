@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [ゴホウビ](https://ja.wikipedia.org/wiki/ゴホウビ "wikilink")（2019年4月〜）
+    [ゴホウビ](../Page/ゴホウビ.md "wikilink")（2019年4月〜）
 
 <!-- end list -->
 

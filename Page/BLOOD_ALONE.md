@@ -167,8 +167,19 @@
     9.  [2013年](../Page/2013年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")発売 ISBN 978-4-06-352460-4
     10. 2013年11月22日発売 ISBN 978-4-06-352490-1
   - 高野真之『BLOOD ALONE』VANISHING POINT〈同人誌〉
-      -
-        11\. [2014年](../Page/2014年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売
+    1.  ASIN B00UCRUEKW
+    2.  ASIN B0178QBUE8
+    3.  ASIN B01BQ2FNES
+    4.  ASIN B01I4K5N90
+    5.  ASIN B01MTD90CI
+    6.  ASIN B0768LRR14
+    7.  ASIN B07BZM3279
+    8.  ASIN B07F2P44XP
+    9.  ASIN B07FDVGDQ1
+    10. ASIN B06XDCCKDQ
+    11. [2014年](../Page/2014年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")発売 ASIN B00NDD3IFA
+    12. [2017年](../Page/2017年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")発売 ASIN B07515WLVK
+    13. [2019年](../Page/2019年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")発売 ASIN B07N67LT8S
 
 ## 脚注
 

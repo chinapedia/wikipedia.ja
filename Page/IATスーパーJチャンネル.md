@@ -45,7 +45,7 @@
   - [坂本奈津美](https://ja.wikipedia.org/wiki/坂本奈津美 "wikilink")（2013年4月 - 2017年3月）
   - 相埜裕樹（2015年4月 - 2019年3月に木曜・金曜を担当。2019年4月からは天気予報担当で不定期出演）
   - [黒須聡瑛](https://ja.wikipedia.org/wiki/黒須聡瑛 "wikilink")（2017年4月 - 2019年3月に木曜・金曜を担当）
-  - [原田佳子](https://ja.wikipedia.org/wiki/原田佳子 "wikilink")
+  - [原田佳子](../Page/原田佳子.md "wikilink")
   - [矢部順子](https://ja.wikipedia.org/wiki/矢部順子 "wikilink")
   - [矢田雄二郎](../Page/矢田雄二郎.md "wikilink")
   - [三橋泰介](../Page/三橋泰介.md "wikilink")

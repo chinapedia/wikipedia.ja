@@ -17,7 +17,7 @@
 
 [1996年](../Page/1996年.md "wikilink")にはジャパニーズ[テクノの先駆者](../Page/テクノポップ.md "wikilink")[ケン・イシイ](../Page/ケン・イシイ.md "wikilink")の「EXTRA」の[ミュージッククリップ](https://ja.wikipedia.org/wiki/ミュージッククリップ "wikilink")を森本晃司が手がけSTUDIO4℃が制作。
 
-[2002年](../Page/2002年.md "wikilink")、『[マトリックス](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink")』のアンソロジーアニメーション『[アニマトリックス](../Page/アニマトリックス.md "wikilink")』の制作を行う。
+[2002年](../Page/2002年.md "wikilink")、『[マトリックス](../Page/マトリックス_\(映画\).md "wikilink")』のアンソロジーアニメーション『[アニマトリックス](../Page/アニマトリックス.md "wikilink")』の制作を行う。
 
 [2004年](../Page/2004年.md "wikilink")に公開された[湯浅政明](../Page/湯浅政明.md "wikilink")監督『[マインド・ゲーム](../Page/マインド・ゲーム.md "wikilink")』は単館上映ながら、2004年文化庁メディア芸術祭で大賞に選ばれた。[2005年](../Page/2005年.md "wikilink")カナダ・モントリオール映画祭では4部門受賞という快挙をなしとげた。また、2006年に公開された[マイケル・アリアス](../Page/マイケル・アリアス.md "wikilink")監督『[鉄コン筋クリート](../Page/鉄コン筋クリート.md "wikilink")』では日本アカデミー賞優秀アニメーション作品賞を受賞、米国アカデミー賞長編アニメーション部門の選考対象11作品にも選ばれている。
 
@@ -52,7 +52,7 @@
   - 4-Day Weekend（1999年 - [The Bluetones](https://ja.wikipedia.org/wiki/The_Bluetones "wikilink")、イギリス）
   - サバイバル（1999年 - [GLAY](../Page/GLAY.md "wikilink")）
   - 次元ループ（2001年 - [キセル](../Page/キセル_\(バンド\).md "wikilink")）
-  - Connected（2002年 - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）
+  - Connected（2002年 - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）
   - EXODUS（2005年 - [Utada](https://ja.wikipedia.org/wiki/Utada "wikilink")） [FLUX](https://ja.wikipedia.org/wiki/FLUX "wikilink")アニメーション（アルバムEXODUS収録曲全14曲）
   - Passion（2005年 - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、アニメーションパート）
   - 夢のかけら（2006年 - [信近エリ](../Page/信近エリ.md "wikilink")）

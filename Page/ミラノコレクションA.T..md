@@ -156,7 +156,7 @@ T2P時代は[ギミック上](../Page/ギミック_\(プロレス\).md "wikilink
 
 ## 外部リンク
 
-  - [ミラノコレクションA.T. 〜2nd Life〜](http://ameblo.jp/milano-collection-at/)
+  - [ミラノコレクションA.T. 〜2nd Life〜](https://ameblo.jp/milano-collection-at/)
 
   -
   - \[<http://www.carerest.net/>　ケアレスト公式サイト\]

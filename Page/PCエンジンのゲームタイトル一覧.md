@@ -8243,7 +8243,7 @@
 <tr class="odd">
 <td><p>569</p></td>
 <td><p>07月22日</p></td>
-<td><p><span style="display:none">あ16</span><a href="../Page/ヴァリアブル・ジオ.md" title="wikilink">アドヴァンスドV.G.</a></p></td>
+<td><p><span style="display:none">あ16</span><a href="../Page/ヴァリアブル・ジオ.md" title="wikilink">アドヴァンストV.G.</a></p></td>
 <td><p><span style="display:none">テイ2</span><a href="../Page/TGL.md" title="wikilink">TGL</a></p></td>
 <td><p>SC</p></td>
 <td><p>ACT</p></td>

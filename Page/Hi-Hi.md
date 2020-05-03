@@ -174,9 +174,8 @@
 ## 外部リンク
 
   - [公式プロフィール](http://www.kdash.jp/profile/stage/hi-hi/index.php)
-  - [一般社団法人 漫才協会プロフィール](http://www.manzaikyokai.org/entertainer/hi-hi/)
 
-<!-- end list -->
+  - [一般社団法人 漫才協会プロフィール](http://www.manzaikyokai.org/entertainer/hi-hi/)
 
   - [Hi-Hi上田浩二郎オフィシャルブログ「Hi-Hi上田のブログもどーもねっ\!」](https://ameblo.jp/hihi-ueda/)
 
@@ -184,7 +183,7 @@
   -
   - \- ハミングステッチ時代の公認サイト（メンバーのコメントあり）
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:さいたま市出身の人物](https://ja.wikipedia.org/wiki/Category:さいたま市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ニコジョッキー](https://ja.wikipedia.org/wiki/Category:ニコジョッキー "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:ニコジョッキー](https://ja.wikipedia.org/wiki/Category:ニコジョッキー "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink")
 
 1.
 2.

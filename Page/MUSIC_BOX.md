@@ -243,7 +243,7 @@
   - [NHKオンライン](http://www.nhk.or.jp/)
   - [NHK番組表](http://www.nhk.or.jp/hensei/) - NHK番組の放送内容が確認可能
 
-[Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink")
+[Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink")
 
 1.  楽曲名、歌手、発売年は、楽曲放送の始めにはキャプション情報としての情報はある。映像の撮影された「年」や「話題名」等の情報は、キャプション情報としては表示されていない。あきらかに映像の撮影年と、放送楽曲の発表年の違うものもある。
 2.  例えば「自動車」としての「話題」では「自動車工場での新車の生産ライン」の映像、「道路にある路面電車の線路と自動車の通行風景」の映像、「昼休みなどで路肩に駐車して、運転している人が休憩している」映像、「大きな道路で車が渋滞しており、交差点で交通整理をしている警官」の映像、「大きな道路の交差点で、沢山の自動車が行き交っているところを、ビルの屋上などから撮影」の映像など。

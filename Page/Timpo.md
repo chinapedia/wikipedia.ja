@@ -1,7 +1,7 @@
 > この記事は[Timpo](https://ja.wikipedia.org/wiki/Timpo)から翻訳されています。
 
 
-[Timpo_Toys_logo.svg](https://ja.wikipedia.org/wiki/File:Timpo_Toys_logo.svg "fig:Timpo_Toys_logo.svg")  ****は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[1938年](../Page/1938年.md "wikilink")に創業した、かつての[玩具](../Page/玩具.md "wikilink")メーカー。創業者は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルト](https://ja.wikipedia.org/wiki/フランクフルト "wikilink")に生まれ、後に亡命した[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")のサリー・ゴウリーロヴィッツ（、後に に改名、1907年 - 2000年9月28日）\[1\]\[2\]。
+****は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[1938年](../Page/1938年.md "wikilink")に創業した、かつての[玩具](../Page/玩具.md "wikilink")メーカー。創業者は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[フランクフルト](https://ja.wikipedia.org/wiki/フランクフルト "wikilink")に生まれ、後に亡命した[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")のサリー・ゴウリーロヴィッツ（、後に に改名、1907年 - 2000年9月28日）\[1\]\[2\]。
 
 ## 概要
 

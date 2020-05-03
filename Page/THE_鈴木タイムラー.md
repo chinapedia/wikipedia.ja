@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>大分県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>（OBS）</p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a>（OBS）</p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a></p></td>
 <td><p>FILE1-10</p></td>
 <td><p>毎週土曜 25:40-26:10</p></td>

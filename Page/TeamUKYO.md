@@ -298,4 +298,4 @@
 
   - [TeamUKYOオフィシャルサイト](http://www.teamukyo.com/)
 
-[Category:日本のレーシングチーム](https://ja.wikipedia.org/wiki/Category:日本のレーシングチーム "wikilink") [Category:日本の自転車競技チーム](https://ja.wikipedia.org/wiki/Category:日本の自転車競技チーム "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink")
+[Category:日本のレーシングチーム](https://ja.wikipedia.org/wiki/Category:日本のレーシングチーム "wikilink") [Category:日本の自転車競技チーム](https://ja.wikipedia.org/wiki/Category:日本の自転車競技チーム "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:片山右京](https://ja.wikipedia.org/wiki/Category:片山右京 "wikilink")

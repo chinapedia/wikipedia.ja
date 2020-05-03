@@ -31,4 +31,4 @@
 
   - [ALi Corporation.](http://www.ali.com.tw/) （中文・英語）
 
-[Category:半導体企業](https://ja.wikipedia.org/wiki/Category:半導体企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:エイサー](https://ja.wikipedia.org/wiki/Category:エイサー "wikilink") [Category:マザーボードメーカー](https://ja.wikipedia.org/wiki/Category:マザーボードメーカー "wikilink")
+[Category:半導体企業](https://ja.wikipedia.org/wiki/Category:半導体企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:台湾証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:台湾証券取引所上場企業 "wikilink") [Category:エイサー](https://ja.wikipedia.org/wiki/Category:エイサー "wikilink") [Category:マザーボードメーカー](https://ja.wikipedia.org/wiki/Category:マザーボードメーカー "wikilink")

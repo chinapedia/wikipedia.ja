@@ -26,7 +26,7 @@
 
 ## 業務委託駅
 
-  - [琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")・[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[JR神戸線](../Page/JR神戸線.md "wikilink")（東海道本線・山陽本線）
+  - [琵琶湖線](../Page/琵琶湖線.md "wikilink")・[JR京都線](https://ja.wikipedia.org/wiki/JR京都線 "wikilink")・[JR神戸線](../Page/JR神戸線.md "wikilink")（東海道本線・山陽本線）
 
       - [米原駅](../Page/米原駅.md "wikilink")（お忘れ物承り所のみを受託）、[南彦根駅](https://ja.wikipedia.org/wiki/南彦根駅 "wikilink")、[河瀬駅](https://ja.wikipedia.org/wiki/河瀬駅 "wikilink")、[稲枝駅](https://ja.wikipedia.org/wiki/稲枝駅 "wikilink")、[安土駅](https://ja.wikipedia.org/wiki/安土駅 "wikilink")、[能登川駅](https://ja.wikipedia.org/wiki/能登川駅 "wikilink")、[篠原駅](https://ja.wikipedia.org/wiki/篠原駅_\(滋賀県\) "wikilink")、[守山駅](https://ja.wikipedia.org/wiki/守山駅_\(滋賀県\) "wikilink")、[栗東駅](https://ja.wikipedia.org/wiki/栗東駅 "wikilink")、[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")（地下東口・八条東口・西洞院口・鉄道案内所・忘れ物センターのみを受託）、[島本駅](https://ja.wikipedia.org/wiki/島本駅 "wikilink")、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")（鉄道案内所・お忘れ物承り所のみを受託）、[さくら夙川駅](https://ja.wikipedia.org/wiki/さくら夙川駅 "wikilink")、[甲南山手駅](https://ja.wikipedia.org/wiki/甲南山手駅 "wikilink")、[須磨海浜公園駅](https://ja.wikipedia.org/wiki/須磨海浜公園駅 "wikilink")、[塩屋駅](https://ja.wikipedia.org/wiki/塩屋駅_\(兵庫県\) "wikilink")、[西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")（忘れ物承り所のみ受託）、[魚住駅](https://ja.wikipedia.org/wiki/魚住駅 "wikilink")、[曽根駅](https://ja.wikipedia.org/wiki/曽根駅_\(兵庫県\) "wikilink")、[ひめじ別所駅](https://ja.wikipedia.org/wiki/ひめじ別所駅 "wikilink")、[東姫路駅](https://ja.wikipedia.org/wiki/東姫路駅 "wikilink")、[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")（忘れ物センター・中央口みどりの窓口み受託）、
 
@@ -34,7 +34,7 @@
 
       - [はりま勝原駅](https://ja.wikipedia.org/wiki/はりま勝原駅 "wikilink")、[竜野駅](https://ja.wikipedia.org/wiki/竜野駅 "wikilink")
 
-  - [赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")
+  - [赤穂線](../Page/赤穂線.md "wikilink")
 
       - [西相生駅](https://ja.wikipedia.org/wiki/西相生駅 "wikilink")、[坂越駅](https://ja.wikipedia.org/wiki/坂越駅 "wikilink")
 

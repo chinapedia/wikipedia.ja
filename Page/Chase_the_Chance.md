@@ -15,9 +15,9 @@
 
 ## 主な記録
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・パーフェクトランキング（96/01/15・\#052） **1位**。
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・パーフェクトランキング（96/01/15・\#052） **1位**。
   - オリコン・1996年間カラオケリクエスト回数 5位。ボーカロイドの安室奈美恵はサビの部分が「チャンス・エン・チャンス」と言っている様に聞こえる場合が多く、当時に日本人として歌詞を重視するユーザーとの間ではカラオケボックスなどで僅かながら安室奈美恵とシンクロさせずに歌う人には場合により批判の声があった。
-  - HEY\!HEY\!HEY\!MUSIC CHAMP・パーフェクトランキング 3 YEARS BEST 100（95・96・97） 40位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMP・パーフェクトランキング 3 YEARS BEST 100（95・96・97） 40位。
 
 ## 収録曲
 

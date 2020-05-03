@@ -103,7 +103,7 @@
   - [牧野秀紀](https://ja.wikipedia.org/wiki/牧野秀紀 "wikilink")
   - [森訓久](../Page/森訓久.md "wikilink")（現所属：[賢プロダクション](../Page/賢プロダクション.md "wikilink")）
   - [山内悠椰](../Page/山内悠椰.md "wikilink")
-  - [吉本裕介](https://ja.wikipedia.org/wiki/吉本裕介 "wikilink")（現所属：[SRプロダクション](https://ja.wikipedia.org/wiki/SRプロダクション "wikilink")）
+  - [吉本裕介](../Page/吉本裕介.md "wikilink")（現所属：[SRプロダクション](https://ja.wikipedia.org/wiki/SRプロダクション "wikilink")）
 
 ### 女性
 

@@ -1010,7 +1010,7 @@
 <td><p>2019-20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アララト=アルメニア" title="wikilink">アララト=アルメニア</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アララト＝アルメニア" title="wikilink">アララト＝アルメニア</a></p></td>
 <td><p>3-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''4-3</p></td>

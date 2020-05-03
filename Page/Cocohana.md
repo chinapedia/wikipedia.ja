@@ -25,6 +25,7 @@
   - [芦原妃名子](../Page/芦原妃名子.md "wikilink") 「[Bread & Butter](https://ja.wikipedia.org/wiki/Bread_&_Butter "wikilink")」
   - [板羽皆](https://ja.wikipedia.org/wiki/板羽皆 "wikilink") 「[トギー博士と夢みるトン子とノンちゃん](https://ja.wikipedia.org/wiki/トギー博士と夢みるトン子とノンちゃん "wikilink")」
   - [川端志季](https://ja.wikipedia.org/wiki/川端志季 "wikilink") 「[僕のオリオン](https://ja.wikipedia.org/wiki/僕のオリオン "wikilink")」
+  - [かねこゆかり](https://ja.wikipedia.org/wiki/かねこゆかり "wikilink")「[ジカジョの惑星](https://ja.wikipedia.org/wiki/ジカジョの惑星 "wikilink")」（2020年6月号\[2\] - ）
   - [楠本まき](../Page/楠本まき.md "wikilink") 「[赤白つるばみ・裏](https://ja.wikipedia.org/wiki/赤白つるばみ・裏 "wikilink")」
   - [くらもちふさこ](../Page/くらもちふさこ.md "wikilink") 「[とことこクエスト](https://ja.wikipedia.org/wiki/とことこクエスト "wikilink")」
   - [こう森](https://ja.wikipedia.org/wiki/こう森 "wikilink") 「[きみのすきなひと](https://ja.wikipedia.org/wiki/きみのすきなひと "wikilink")」
@@ -121,21 +122,21 @@
 
 ## 発行部数
 
-  - [2003年](../Page/2003年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")、151,250部\[2\]
-  - 2004年9月 - [2005年](../Page/2005年.md "wikilink")8月、145,833部\[3\]
-  - 2005年9月1日 - [2006年](../Page/2006年.md "wikilink")8月31日、164,583部\[4\]
-  - 2006年9月1日 - [2007年](../Page/2007年.md "wikilink")8月31日、162,916部\[5\]
-  - 2007年[10月1日](../Page/10月1日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")、160,417部\[6\]
-  - 2008年10月1日 - [2009年](../Page/2009年.md "wikilink")9月30日、150,417部\[7\]
-  - 2009年10月1日 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月30日、136,250部\[8\]
-  - [2011年](../Page/2011年.md "wikilink")10月1日 - [2012年](../Page/2012年.md "wikilink")9月30日、98,364部\[9\]
-  - 2012年10月1日 - [2013年](../Page/2013年.md "wikilink")9月30日、78,834部\[10\]
-  - 2013年10月1日 - [2014年](../Page/2014年.md "wikilink")9月30日、76,917部\[11\]
-  - 2014年10月1日 - [2015年](../Page/2015年.md "wikilink")9月30日、76,000部\[12\]
-  - 2015年10月1日 - [2016年](../Page/2016年.md "wikilink")9月30日、67,333部\[13\]
-  - 2016年10月1日 - [2017年](../Page/2017年.md "wikilink")9月30日、60,833部\[14\]
-  - 2017年10月1日 - [2018年](../Page/2018年.md "wikilink")9月30日、55,000部\[15\]
-  - 2018年10月1日 - [2019年](../Page/2019年.md "wikilink")9月30日、53,483部\[16\]
+  - [2003年](../Page/2003年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")、151,250部\[3\]
+  - 2004年9月 - [2005年](../Page/2005年.md "wikilink")8月、145,833部\[4\]
+  - 2005年9月1日 - [2006年](../Page/2006年.md "wikilink")8月31日、164,583部\[5\]
+  - 2006年9月1日 - [2007年](../Page/2007年.md "wikilink")8月31日、162,916部\[6\]
+  - 2007年[10月1日](../Page/10月1日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")、160,417部\[7\]
+  - 2008年10月1日 - [2009年](../Page/2009年.md "wikilink")9月30日、150,417部\[8\]
+  - 2009年10月1日 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月30日、136,250部\[9\]
+  - [2011年](../Page/2011年.md "wikilink")10月1日 - [2012年](../Page/2012年.md "wikilink")9月30日、98,364部\[10\]
+  - 2012年10月1日 - [2013年](../Page/2013年.md "wikilink")9月30日、78,834部\[11\]
+  - 2013年10月1日 - [2014年](../Page/2014年.md "wikilink")9月30日、76,917部\[12\]
+  - 2014年10月1日 - [2015年](../Page/2015年.md "wikilink")9月30日、76,000部\[13\]
+  - 2015年10月1日 - [2016年](../Page/2016年.md "wikilink")9月30日、67,333部\[14\]
+  - 2016年10月1日 - [2017年](../Page/2017年.md "wikilink")9月30日、60,833部\[15\]
+  - 2017年10月1日 - [2018年](../Page/2018年.md "wikilink")9月30日、55,000部\[16\]
+  - 2018年10月1日 - [2019年](../Page/2019年.md "wikilink")9月30日、53,483部\[17\]
 
 ## 脚注
 
@@ -151,18 +152,19 @@
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:集英社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:集英社の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:女性漫画雑誌](https://ja.wikipedia.org/wiki/Category:女性漫画雑誌 "wikilink") [Category:1994年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1994年創刊の雑誌 "wikilink") [Category:ザ_マーガレット](https://ja.wikipedia.org/wiki/Category:ザ_マーガレット "wikilink") [Category:Cocohana](https://ja.wikipedia.org/wiki/Category:Cocohana "wikilink")
 
 1.
-2.  [日本雑誌協会](http://www.j-magazine.or.jp/)マガジンデータによる。前身誌『コーラス』のデータ。
-3.
+2.
+3.  [日本雑誌協会](http://www.j-magazine.or.jp/)マガジンデータによる。前身誌『コーラス』のデータ。
 4.
 5.
 6.
 7.
 8.
-9.  [日本雑誌協会](http://www.j-magazine.or.jp/)マガジンデータによる。
-10.
+9.
+10. [日本雑誌協会](http://www.j-magazine.or.jp/)マガジンデータによる。
 11.
 12.
 13.
 14.
 15.
 16.
+17.

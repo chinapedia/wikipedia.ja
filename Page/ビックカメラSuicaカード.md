@@ -10,7 +10,7 @@
 
 **ビックカメラSuicaカード**（ビックカメラスイカカード）は、株式会社ビューカード（JR東日本100%子会社）が株式会社[ビックカメラ](../Page/ビックカメラ.md "wikilink")との提携により発行する[ビューカード](../Page/ビューカード.md "wikilink")、[Suica](../Page/Suica.md "wikilink")\[1\]、ビックポイントカードを一枚にまとめた多機能カード（[クレジットカード](../Page/クレジットカード.md "wikilink")、[ストアードフェア](https://ja.wikipedia.org/wiki/ストアードフェア "wikilink")カード、[電子マネー](../Page/電子マネー.md "wikilink")カード、[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")）である。
 
-3種類のポイント（[JRE POINT](https://ja.wikipedia.org/wiki/JRE_POINT "wikilink")、ビックポイント、バスポイント）を貯めることができ、バスポイントを除く各ポイント間の交換およびバスポイントを除く各ポイントから[Suica](../Page/Suica.md "wikilink")のSF（ストアードフェア）への交換を行うことができる。なおビューサンクスポイントについては2018年6月28日にJRE POINTに統合された\[2\]。
+3種類のポイント（[JRE POINT](../Page/JRE_POINT.md "wikilink")、ビックポイント、バスポイント）を貯めることができ、バスポイントを除く各ポイント間の交換およびバスポイントを除く各ポイントから[Suica](../Page/Suica.md "wikilink")のSF（ストアードフェア）への交換を行うことができる。なおビューサンクスポイントについては2018年6月28日にJRE POINTに統合された\[2\]。
 
 当カードを[モバイルSuica](../Page/モバイルSuica.md "wikilink")の決済クレジットとして登録した後に、「ビュー・エクスプレス特約」を申し込む事で[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）の[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")のサービスが受けられるようになる。その場合、エクスプレス予約会員の年会費1000円（税抜）と運賃の決済は当カードで行われる。*（詳細は[エクスプレス予約\#モバイルSuicaでの利用](https://ja.wikipedia.org/wiki/エクスプレス予約#モバイルSuicaでの利用 "wikilink")を参照）*また当カードを決済カードおよび新幹線乗車時に利用する交通系ICカードとしてJR東海の[スマートEXを利用することもできる](https://ja.wikipedia.org/wiki/エクスプレス予約#スマートEXサービス "wikilink")。
 

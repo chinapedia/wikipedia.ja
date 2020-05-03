@@ -1,7 +1,7 @@
 > この記事は[JRタワースクエア](https://ja.wikipedia.org/wiki/JRタワースクエア)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:JR_Tower_Square.jpg "wikilink") **JRタワースクエア** (ジェイアールタワースクエア、*JR TOWER SQUARE*) は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区の](../Page/中央区_\(札幌市\).md "wikilink")[JRタワー](../Page/JRタワー.md "wikilink")にある商業施設（[アピア](../Page/アピア_\(札幌市\).md "wikilink")、[エスタ](../Page/札幌エスタ.md "wikilink")、[パセオ](../Page/パセオ_\(札幌市\).md "wikilink")、[札幌ステラプレイス](../Page/札幌ステラプレイス.md "wikilink")）の総称\[1\]。
+[thumb](https://ja.wikipedia.org/wiki/画像:Stellar_Place_Sapporo_Void_201406.jpg "wikilink") **JRタワースクエア** (ジェイアールタワースクエア、*JR TOWER SQUARE*) は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区の](../Page/中央区_\(札幌市\).md "wikilink")[JRタワー](../Page/JRタワー.md "wikilink")にある商業施設（[アピア](../Page/アピア_\(札幌市\).md "wikilink")、[エスタ](../Page/札幌エスタ.md "wikilink")、[パセオ](../Page/パセオ_\(札幌市\).md "wikilink")、[札幌ステラプレイス](../Page/札幌ステラプレイス.md "wikilink")）の総称\[1\]。
 
 ## 概要
 
@@ -41,7 +41,7 @@
 
   - [2003年](../Page/2003年.md "wikilink")（平成15年）の[JRタワー](../Page/JRタワー.md "wikilink")開業と同時にオープン\[12\]。札幌駅に直結しており、[シネマコンプレックス](../Page/シネマコンプレックス.md "wikilink")「[札幌シネマフロンティア](../Page/札幌シネマフロンティア.md "wikilink")」などがある[複合商業施設](../Page/複合商業施設.md "wikilink")になっている。
 
-ESTA JR Sapporo Sta01n3200.jpg|エスタ（2009年10月） Sapporo station.jpg|札幌ステラプレイス（2004年8月）
+ESTA JR Sapporo Sta01n3200.jpg|エスタ（2009年10月） Sapporo station.jpg|札幌ステラプレイス（2004年8月） JR TOWER Basement Access 2014.jpg|地下通道（2014年6月）
 
 ## JRタワースクエアカード
 

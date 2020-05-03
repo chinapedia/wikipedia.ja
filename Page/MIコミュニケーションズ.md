@@ -23,4 +23,4 @@
   - [フレックスホールディングス](http://www.flex-hd.jp/)
   - [エフアイジー](http://www.flex-hd.jp/fig/)
 
-[Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:ライブドア](https://ja.wikipedia.org/wiki/Category:ライブドア "wikilink") [Category:2003年設立の企業](https://ja.wikipedia.org/wiki/Category:2003年設立の企業 "wikilink")
+[Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:ライブドアのグループ企業](https://ja.wikipedia.org/wiki/Category:ライブドアのグループ企業 "wikilink") [Category:2003年設立の企業](https://ja.wikipedia.org/wiki/Category:2003年設立の企業 "wikilink")

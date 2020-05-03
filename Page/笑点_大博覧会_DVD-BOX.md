@@ -324,7 +324,7 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
           - 座布団運び：桂歌丸
       - [ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")アナウンサー大喜利（[1984年](../Page/1984年.md "wikilink")（昭和59年）[11月25日](../Page/11月25日.md "wikilink")放送）
           - 司会：5代目三遊亭圓楽
-          - [清田精二](../Page/清田精二.md "wikilink") - 放送当時は[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")アナウンサー。
+          - [清田精二](../Page/清田精二.md "wikilink") - 放送当時は[福井放送](../Page/福井放送.md "wikilink")アナウンサー。
           - [万屋満紀](https://ja.wikipedia.org/wiki/万屋満紀 "wikilink") - 放送当時[山口放送](../Page/山口放送.md "wikilink")担当だった[ローカルタレント](../Page/ローカルタレント.md "wikilink")。
           - [辛坊治郎](https://ja.wikipedia.org/wiki/辛坊治郎 "wikilink") - 放送当時は[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")アナウンサー。同局報道局解説委員長を経て現在はフリージャーナリスト。
           - [脇田義信](../Page/脇田義信.md "wikilink") - 放送当時は[広島テレビ放送](../Page/広島テレビ放送.md "wikilink")アナウンサー。

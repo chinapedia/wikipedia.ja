@@ -20,7 +20,7 @@
         作詞：[スガシカオ](../Page/スガシカオ.md "wikilink")、作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")（[B'z](../Page/B'z.md "wikilink")）、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
         同時発売したアルバム『Best of KAT-TUN』に、[アレンジ違いの](../Page/編曲.md "wikilink")「**Real Face**\#1」が収録されている。
         活動再開後にリリースしたシングル「**[Ask Yourself](https://ja.wikipedia.org/wiki/Ask_Yourself "wikilink")**」に3人体制で新規歌い直しされた「**Real Face**\#2」が収録されている。
-        また、田中脱退以降はラップ部分がカットされた状態で歌われてきたが、「**Real Face**\#2」ではラップ詞も新たに書き下ろされている。
+        また、田中脱退以降はラップ部分がカットされた状態で歌われてきたが、「**Real Face**\#2」ではラップ詞も新たに書き下ろされ、主に上田が担当しており、Bパートのラップは亀梨が担当している。
         また、PV音源とCD音源では亀梨のボーカル、中丸のビートボックス、舌打ちの音など、一部テイク違いがある。
         作詞を担当したスガが後に発売したベストアルバム『[SugarlessII](https://ja.wikipedia.org/wiki/SugarlessII "wikilink")』にてセルフカバーしている。
         ベストアルバム「[KAT-TUN 10TH ANNIVERSARY BEST “10Ks”](https://ja.wikipedia.org/wiki/KAT-TUN_10TH_ANNIVERSARY_BEST_“10Ks” "wikilink")」に収録されている「**君のユメ ぼくのユメ**」は「**Real Face**」のアンサーソングであり、作詞作曲はスガが担当した。

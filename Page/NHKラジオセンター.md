@@ -75,6 +75,6 @@
 1.   - NHK年鑑2011 p.815
 2.  [R1 NHKラジオ第一：ラジオセンターとは?](http://www.nhk.or.jp/r1/about/)
 3.  1990年代に入ると、[KBCラジオ](../Page/KBCラジオ.md "wikilink")、[エフエム京都](../Page/エフエム京都.md "wikilink")、[セント・ギガ](../Page/セント・ギガ.md "wikilink")（[BS](../Page/BS.md "wikilink")ラジオ）、[ZIP-FM](../Page/ZIP-FM.md "wikilink")でもほぼ同じようなワンフォーマット編成を実施している。
-4.  民放では[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")にも「ラジオセンター」という明確な部署があり、所属アナウンサーは原則テレビ出演しない。
+4.  民放では[福井放送](../Page/福井放送.md "wikilink")にも「ラジオセンター」という明確な部署があり、所属アナウンサーは原則テレビ出演しない。
 5.  [R1 blogNHKブログ NHKきょうのニュース あと少しで完成　新ラジオスタジオ](http://www.nhk.or.jp/r1-blog/1200/145009.html)
 6.

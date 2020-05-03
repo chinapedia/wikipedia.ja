@@ -47,10 +47,10 @@
 
 ## 外部リンク　
 
-  - [DS楽引辞典](http://www.nintendo.co.jp/ds/adjj/index.html)
-  - [漢字そのまま DS楽引辞典](http://www.nintendo.co.jp/ds/arjj/index.html)
-  - [明鏡国語楽引辞典](http://www.nintendo.co.jp/ds/dsiware/kd4j/index.html)
-  - [ジーニアスパーソナル 英和楽引辞典](http://www.nintendo.co.jp/ds/dsiware/kd3j/index.html)
-  - [ジーニアスパーソナル 和英楽引辞典](http://www.nintendo.co.jp/ds/dsiware/kd5j/index.html)
+  - [DS楽引辞典](https://www.nintendo.co.jp/ds/adjj/)
+  - [漢字そのまま DS楽引辞典](https://www.nintendo.co.jp/ds/arjj/)
+  - [明鏡国語楽引辞典](https://www.nintendo.co.jp/ds/dsiware/kd4j/)
+  - [ジーニアスパーソナル 英和楽引辞典](https://www.nintendo.co.jp/ds/dsiware/kd3j/)
+  - [ジーニアスパーソナル 和英楽引辞典](https://www.nintendo.co.jp/ds/dsiware/kd5j/)
 
 [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:日本の辞典](https://ja.wikipedia.org/wiki/Category:日本の辞典 "wikilink") [Category:国語教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:国語教育ソフトウェア "wikilink")

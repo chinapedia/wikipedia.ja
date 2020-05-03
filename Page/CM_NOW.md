@@ -1134,6 +1134,8 @@ CMタレント名鑑2006</p></td>
 
 </div>
 
+## 脚注
+
 ## 関連項目
 
   - [コマーシャルメッセージ](../Page/コマーシャルメッセージ.md "wikilink")
@@ -1145,8 +1147,6 @@ CMタレント名鑑2006</p></td>
 
   - [CM NOW](http://www.genkosha.co.jp/cm/)
 
-[Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink")
-
-[Category:日本の隔月刊誌](https://ja.wikipedia.org/wiki/Category:日本の隔月刊誌 "wikilink") [Category:業界雑誌](https://ja.wikipedia.org/wiki/Category:業界雑誌 "wikilink") [Category:玄光社](https://ja.wikipedia.org/wiki/Category:玄光社 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
+[Category:日本の隔月刊誌](https://ja.wikipedia.org/wiki/Category:日本の隔月刊誌 "wikilink") [Category:業界雑誌](https://ja.wikipedia.org/wiki/Category:業界雑誌 "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink") [Category:玄光社](https://ja.wikipedia.org/wiki/Category:玄光社 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
 
 1.

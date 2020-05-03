@@ -1,7 +1,7 @@
 > この記事は[Newsリアルタイムふくい](https://ja.wikipedia.org/wiki/Newsリアルタイムふくい)から翻訳されています。
 
 
-『**Newsリアルタイムふくい**』（ニュースリアルタイムふくい）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBCテレビ）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[福井県](../Page/福井県.md "wikilink")ローカルパート）。通称は『**リアルタイムふくい**』。
+『**Newsリアルタイムふくい**』（ニュースリアルタイムふくい）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[福井放送](../Page/福井放送.md "wikilink")（FBCテレビ）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[福井県](../Page/福井県.md "wikilink")ローカルパート）。通称は『**リアルタイムふくい**』。
 
 基本的に前番組『[夕方いちばんプラス1](../Page/夕方いちばんプラス1.md "wikilink")』を踏襲しており、同年[5月1日](../Page/5月1日.md "wikilink")からは全編が[HDで制作されていた](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。2007年10月1日以降、[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")までは17時台を『[おじゃまっテレ](../Page/おじゃまっテレ.md "wikilink")』に分割し、本番組は18時台のローカルニュース番組となっていた。
 

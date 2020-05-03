@@ -40,6 +40,5 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオンディスコグラフィ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200500001595&DSP_SKHKETSEQ=001)
-
+  -
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:トヨタ自動車のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:トヨタ自動車のコマーシャルソング "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

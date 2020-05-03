@@ -11,7 +11,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
 
 ロックから[ポップな曲](../Page/ポピュラー音楽.md "wikilink")、[バラード](../Page/バラード.md "wikilink")、はたまた[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調、[ブルース](../Page/ブルース.md "wikilink")調など幅広くバラエティ豊かな曲構成をしている\[4\]\[5\]。また、近作である『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』『[THE CIRCLE](../Page/THE_CIRCLE.md "wikilink")』のシンプルなバンド志向とは異なり、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音や[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ストリングス](../Page/弦楽器.md "wikilink")、[ブラス](../Page/管楽器.md "wikilink")、[コーラスなどを多用している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。本作では珍しくコーラスに[サポートメンバーの声を使っている](https://ja.wikipedia.org/wiki/バックバンド "wikilink")。近年ではほとんどなかった[フェード](../Page/フェード.md "wikilink")アウトの曲も3曲ある。
 
-楽曲は17曲制作され、[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")となった3曲は、「[BUDDY](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")」「[yokohama」「希望の歌](../Page/BURN_-フメツノフェイス-.md "wikilink")」と後に判明した。
+楽曲は17曲制作され、[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")となった3曲は、「[BUDDY](../Page/ACTION_\(アルバム\).md "wikilink")」「[yokohama」「希望の歌](../Page/BURN_-フメツノフェイス-.md "wikilink")」と後に判明した。
 
 [ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、黒い背景にカラフルなメンバーの写真などのコラージュというデザイン。これは、「タイトルから直接的に想像できるイメージとは逆に、ポップでライトな感じ」というテーマに制作された\[6\]。
 
@@ -19,7 +19,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
 
 初回限定盤には、[9月1日](../Page/9月1日.md "wikilink")になんばHatchで開催されたリリース記念を兼ねた完全招待制のライブ『[B'z NETWORK LIVE in Japan](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")』の応募抽選ハガキが封入されている\[8\]。
 
-[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[徳永暁人](../Page/徳永暁人.md "wikilink")がアルバム全般の楽曲制作に参加した最後の作品であり、次作『[ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")』は一部の楽曲のみ参加、それ以降はB'zにまったく関与していない\[9\]。
+[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[徳永暁人](../Page/徳永暁人.md "wikilink")がアルバム全般の楽曲制作に参加した最後の作品であり、次作『[ACTION](../Page/ACTION_\(アルバム\).md "wikilink")』は一部の楽曲のみ参加、それ以降はB'zにまったく関与していない\[9\]。
 
 [2018年](../Page/2018年.md "wikilink")に結成30周年記念として『[DINOSAUR](https://ja.wikipedia.org/wiki/DINOSAUR_\(B'zのアルバム\) "wikilink")』までのオリジナル・アルバムと共に[アナログレコード化された](../Page/レコード.md "wikilink")\[10\]。
 
@@ -33,7 +33,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
         B'zの楽曲にはあまりなかったCメロが存在しており、セクションによって[ビート](../Page/ビート.md "wikilink")が変わる。松本によると、異なる3曲を1曲にしたものであるらしい。
         2006年[10月13日](../Page/10月13日.md "wikilink")放送の『[ミュージックステーション 20周年記念スペシャル](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でもライブ形式で披露された\[11\]。
         [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』の収録曲を決める際のファン投票では中間発表時の結果では31位で、最終的に収録となる30位以内には入れなかった。
-        [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[男性](../Page/男性.md "wikilink")限定で[エキストラ](../Page/エキストラ.md "wikilink")を募集し収録されている。このPVは「[純情ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")」のPVに一部流用された。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[男性](../Page/男性.md "wikilink")限定で[エキストラ](../Page/エキストラ.md "wikilink")を募集し収録されている。このPVは「[純情ACTION](../Page/ACTION_\(アルバム\).md "wikilink")」のPVに一部流用された。
 2.  **[SPLASH\!](../Page/SPLASH!.md "wikilink")** (3:33)
       -
         42ndシングル。

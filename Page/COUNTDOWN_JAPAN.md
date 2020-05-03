@@ -5,11 +5,11 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までは年末3日間の開催であったが、[2006年](../Page/2006年.md "wikilink")から4日間の開催となる。[2006年](../Page/2006年.md "wikilink")は年末3日間＋元日の4日間開催であったが、翌年[2007年](../Page/2007年.md "wikilink")から年末4日間の開催へと変更されている。[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[インテックス大阪](https://ja.wikipedia.org/wiki/インテックス大阪 "wikilink")で**COUNTDOWN JAPAN WEST**が開かれた。
+[2003年](../Page/2003年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までは年末3日間の開催であったが、[2006年](../Page/2006年.md "wikilink")から4日間の開催となる。[2006年](../Page/2006年.md "wikilink")は年末3日間＋元日の4日間開催であったが、翌年[2007年](../Page/2007年.md "wikilink")から年末4日間の開催へと変更されている。[2006年](../Page/2006年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[インテックス大阪](https://ja.wikipedia.org/wiki/インテックス大阪 "wikilink")で「**COUNTDOWN JAPAN WEST**」が開かれた。
 
 会場は当初[幕張メッセ](../Page/幕張メッセ.md "wikilink")国際展示場のうち1ホールから7ホールを使用していたが、[2004年](../Page/2004年.md "wikilink")より8ホール、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")よりイベントホール、[2014年](../Page/2014年.md "wikilink")より9ホールから11ホールをそれぞれ追加している。[2013年](../Page/2013年.md "wikilink")と[2019年](../Page/2019年.md "wikilink")は、会場の都合上[12月28日](../Page/12月28日.md "wikilink")のみイベントホールを使用しない形で公演が行われた。
 
-タイトルにその年と翌年の年が末尾に加わる（例:2015年に行われる場合、COUNTDOWN JAPAN 15/16）。
+タイトルにその年と翌年の西暦の下2桁が末尾に加わる（例：2015年に行われる場合、「COUNTDOWN JAPAN 15/16」となる。また、数字部分は「いちご・いちろく」と読む）。
 
 公演終了後には、[初日の出](../Page/初日の出.md "wikilink")に引っ掛けて、[ザ・ビートルズの](../Page/ビートルズ.md "wikilink")「[ヒア・カムズ・ザ・サン](../Page/ヒア・カムズ・ザ・サン.md "wikilink")」が流れる。
 

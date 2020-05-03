@@ -26,7 +26,7 @@
   - **外川慎一郎**（Guitar／[1975年](../Page/1975年.md "wikilink")（昭和50年）4月28日生まれ）東京都出身．A型
       - リズムギター担当。
       - 使用ギター…1stでは[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・[クラプトン](https://ja.wikipedia.org/wiki/クラプトン "wikilink")・モデル、[レスポール](https://ja.wikipedia.org/wiki/レスポール "wikilink")・デラックス
-      - 使用アンプ…[VOX](https://ja.wikipedia.org/wiki/VOX "wikilink") AC30
+      - 使用アンプ…[VOX](../Page/ヴォックス_\(楽器メーカー\).md "wikilink") AC30
       - 現在はソロプロジェクトTOGUAR（のちThe Creeplands）として音楽活動を続ける一方、THE HIGH STREETSのベーシストとしての活動もスタートしている。
   - **川添宏之**（Bass／[1975年](../Page/1975年.md "wikilink")（昭和50年）11月23日生まれ） 横浜市出身．B型
       - 使用ギター…フェンダー・[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")

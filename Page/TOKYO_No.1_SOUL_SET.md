@@ -90,7 +90,7 @@ BVCR-8821（再発盤）</p></td>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>1995年2月22日</p></td>
-<td><p><strong>黄昏'95〜太陽の季節</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/黄昏&#39;95〜太陽の季節" title="wikilink">黄昏'95〜太陽の季節</a></strong></p></td>
 <td><p>EDCR-12001</p></td>
 <td><ol>
 <li>黄昏'95 〜太陽の季節</li>

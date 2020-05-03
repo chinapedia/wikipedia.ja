@@ -144,7 +144,7 @@
 
 </div>
 
-TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[板東英二のわがままミッドナイト](../Page/板東英二のわがままミッドナイト.md "wikilink")』の放送に伴う）、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")では放映されなかった。[あいテレビ](../Page/あいテレビ.md "wikilink")は当番組放送当時、未開局だった。
+TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（『[板東英二のわがままミッドナイト](../Page/板東英二のわがままミッドナイト.md "wikilink")』の放送に伴う）、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")では放映されなかった。[あいテレビ](../Page/あいテレビ.md "wikilink")は当番組放送当時、未開局だった。
 
 また「えび天」中盤から遅れネットとなっていたCBCテレビでは最終回が放映されず、ひとつ前の放送回終盤で三宅裕司が、次回が最終回となる旨のコメントをしている場面に「この番組は今回をもちまして終了させていただきます」というお断りテロップが表示されて終了という、地元在住の視聴者にとっては理不尽極まりない終わり方をした。
 

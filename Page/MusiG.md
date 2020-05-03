@@ -300,7 +300,7 @@
 <td><p>25日遅れ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>（OBS、<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a>）</p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a>（OBS、<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a>）</p></td>
 <td><p>毎週月曜 24:25-24:55</p></td>
 <td><p>39日遅れ</p></td>
 </tr>

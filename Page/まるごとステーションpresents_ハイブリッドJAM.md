@@ -32,7 +32,7 @@
 
 ### 参考
 
-  - 火曜から土曜のこの時間に放送されている[日野ミッドナイトグラフィティ 走れ\!歌謡曲のネット局](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")（[SF](../Page/東海ラジオ放送.md "wikilink")、[OBC](../Page/大阪放送.md "wikilink")、[RCC](../Page/中国放送.md "wikilink")、[SBS](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[FBC](https://ja.wikipedia.org/wiki/福井放送 "wikilink")）のうち、[SFとRCCは](../Page/東海ラジオ放送.md "wikilink")、それぞれ一部時間帯（SFは前半、RCCは後半）が別番組に差し替えられた。また4月には[KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、5月には[OBC](../Page/大阪放送.md "wikilink")、またSBS、SF、RCCはこの番組を最後に日曜未明の文化放送 (QR) のネット受けから撤退した。FBCはもともと日曜未明のQRからのネット受けはされていない。
+  - 火曜から土曜のこの時間に放送されている[日野ミッドナイトグラフィティ 走れ\!歌謡曲のネット局](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")（[SF](../Page/東海ラジオ放送.md "wikilink")、[OBC](../Page/大阪放送.md "wikilink")、[RCC](../Page/中国放送.md "wikilink")、[SBS](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[FBC](../Page/福井放送.md "wikilink")）のうち、[SFとRCCは](../Page/東海ラジオ放送.md "wikilink")、それぞれ一部時間帯（SFは前半、RCCは後半）が別番組に差し替えられた。また4月には[KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、5月には[OBC](../Page/大阪放送.md "wikilink")、またSBS、SF、RCCはこの番組を最後に日曜未明の文化放送 (QR) のネット受けから撤退した。FBCはもともと日曜未明のQRからのネット受けはされていない。
 
 #### QRを除くネット各局の差し替えおよび後続番組
 

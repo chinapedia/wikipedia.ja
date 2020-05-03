@@ -30,7 +30,7 @@
 9.  **let me hold you baby** - <span style="font-size:90%;">(4:29)</span>\[11\]
 10. **my home town** - <span style="font-size:90%;">(6:04)</span>\[12\]
       -
-        このアルバムのタイトル曲で、[第一生命](../Page/第一生命保険.md "wikilink")「パスポート5000」CMソング。同時に[FM横浜が](../Page/横浜エフエム放送.md "wikilink")「ハマラジ」と呼称を変更した時のキャンペーンソングでもあった。小田が自身の故郷である横浜を歌ったもので、歌詞の中に[根岸線](https://ja.wikipedia.org/wiki/根岸線 "wikilink")が出てくる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")からは[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[本線](https://ja.wikipedia.org/wiki/京急本線 "wikilink")[金沢文庫駅](https://ja.wikipedia.org/wiki/金沢文庫駅 "wikilink")で、[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている（編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた。）。小田のコンサートが横浜（主に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）で行われた際のアンコールでは必ず歌われている。
+        このアルバムのタイトル曲で、[第一生命](../Page/第一生命保険.md "wikilink")「パスポート5000」CMソング。同時に[FM横浜が](../Page/横浜エフエム放送.md "wikilink")「ハマラジ」と呼称を変更した時のキャンペーンソングでもあった。小田が自身の故郷である横浜を歌ったもので、歌詞の中に[根岸線](https://ja.wikipedia.org/wiki/根岸線 "wikilink")が出てくる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")からは、[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[本線](https://ja.wikipedia.org/wiki/京急本線 "wikilink")[金沢文庫駅](https://ja.wikipedia.org/wiki/金沢文庫駅 "wikilink")において[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている\[13\]（編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた\[14\]）。小田のコンサートが横浜（主に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")）で行われた際のアンコールでは必ず歌われている。
 
 ## 脚注
 
@@ -54,3 +54,5 @@
 10.
 11.
 12.
+13.
+14.

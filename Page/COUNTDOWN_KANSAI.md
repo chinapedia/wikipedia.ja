@@ -79,6 +79,6 @@ FM大阪開局40周年特番として1日限りで復活した\[4\]。
 [Category:エフエム大阪の番組](https://ja.wikipedia.org/wiki/Category:エフエム大阪の番組 "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink")
 
 1.  ミチコは当時大分県在住のDJで、当番組のために毎週飛行機で来阪していた。
-2.  特に[HEY\!HEY\!HEY\!MUSIC CHAMPの収録](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+2.  特に[HEY\!HEY\!HEY\! MUSIC CHAMPの収録](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
 3.  [声帯結節急性咽頭気管炎](https://ja.wikipedia.org/wiki/声帯結節急性咽頭気管炎 "wikilink")と診断された
 4.  [aikoのCOUNT DOWN KANSAI TOP 40](http://fmosaka.net/851event/info/2010/03/aikocount_down_kansai_top_40.html)

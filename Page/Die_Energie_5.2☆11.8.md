@@ -1,7 +1,7 @@
 > この記事は[Die Energie 5.2☆11.8](https://ja.wikipedia.org/wiki/Die_Energie_5.2☆11.8)から翻訳されています。
 
 
-『'''Die Energie 5.2☆11.8 '''』(でぃ えねるぎー）は[三原順](../Page/三原順.md "wikilink")の中編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](../Page/作品.md "wikilink")。電力会社の社員を主人公にアメリカ合衆国の原子力発電所で起こった「[テロ事件](https://ja.wikipedia.org/wiki/テロ事件 "wikilink")」を[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")仕立てで描いている。
+『'''Die Energie 5.2☆11.8 '''』(でぃ えねるぎー）は[三原順](../Page/三原順.md "wikilink")の中編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。電力会社の社員を主人公にアメリカ合衆国の原子力発電所で起こった「[テロ事件](https://ja.wikipedia.org/wiki/テロ事件 "wikilink")」を[ミステリー](https://ja.wikipedia.org/wiki/ミステリー "wikilink")仕立てで描いている。
 
 初出は[1982年](../Page/1982年.md "wikilink")の『[LaLa](../Page/LaLa.md "wikilink")』（[白泉社](../Page/白泉社.md "wikilink")）である。
 

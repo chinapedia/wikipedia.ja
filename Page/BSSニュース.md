@@ -89,7 +89,7 @@
 
 ## 外部リンク
 
-  - [BSSニュース](http://bss.jp/news/)
+  - [山陰放送 ニュース](https://www.bss.jp/news/)
   - [gooニュース BSSニュース](https://news.goo.ne.jp/publisher/bss/)
 
 [Category:山陰放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:山陰放送のテレビ番組 "wikilink") [Category:山陰放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:山陰放送のラジオ帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:朝日新聞社のニュース番組](https://ja.wikipedia.org/wiki/Category:朝日新聞社のニュース番組 "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink")

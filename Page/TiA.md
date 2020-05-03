@@ -67,7 +67,7 @@ Rey chew,Yolanda Adams,Donnie McClurkin,Shirley Caesar,Richard Smallwood,Dionne 
 
 ### シングル
 
-1.  [Every time](https://ja.wikipedia.org/wiki/Every_time "wikilink")（2004年6月9日）　[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』エンディングテーマ
+1.  [Every time](https://ja.wikipedia.org/wiki/Every_time "wikilink")（2004年6月9日）　[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』エンディングテーマ
 2.  [流星](https://ja.wikipedia.org/wiki/流星_\(TiAの曲\) "wikilink")（2004年8月4日）　[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』エンディングテーマ
 3.  [ねがい/バースデーイヴ](https://ja.wikipedia.org/wiki/ねがい/バースデーイヴ "wikilink")（2004年11月17日）
     1.  ねがい　日本テレビ系『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』エンディングテーマ

@@ -218,6 +218,8 @@
 4.  [GROOVE COASTER](https://ja.wikipedia.org/wiki/GROOVE_COASTER "wikilink") 4
       - 熟成\!醸造\!発酵星◎～スペースヨーグルアース～
       - ≪AI≫リアリィ・フェアリィ≪tubers≫
+5.  [CHUNITHM](https://ja.wikipedia.org/wiki/CHUNITHM "wikilink") AMAZON PLUS
+      - アイリちゃんは暗黒魔導士！
 
 ## 出演
 

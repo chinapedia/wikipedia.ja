@@ -7,7 +7,7 @@
 
 なお、[1981年](../Page/1981年.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（第9回記念大会）まで行われた中学招待部門を踏まえ、[1984年](../Page/1984年.md "wikilink")より[NHK杯全国中学校放送コンテスト](https://ja.wikipedia.org/wiki/NHK杯全国中学校放送コンテスト "wikilink")が開かれている。
 
-2020年に開催予定の第67回大会は[オリンピック・パラリンピックにより東京での開催が難しいため](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")、神戸・[甲南大学](../Page/甲南大学.md "wikilink")で開催される。
+2020年の第67回大会は[オリンピック・パラリンピックにより東京での開催が難しいため](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")、神戸・[甲南大学](../Page/甲南大学.md "wikilink")で開催される予定だったが、新型コロナウイルスの感染拡大のため、全国大会・都道府県大会ともに中止が決まった\[1\]。
 
 ## 概要
 
@@ -172,7 +172,7 @@
 1.  「柳橋物語・むかしも今も」　[山本周五郎](../Page/山本周五郎.md "wikilink") 著(新潮文庫)
 2.  「日々是好日－『お茶』が教えてくれた15のしあわせ－」　[森下典子](https://ja.wikipedia.org/wiki/森下典子 "wikilink") 著(新潮文庫)
 3.  「海の見える理髪店」　[荻原浩](../Page/荻原浩.md "wikilink") 著(集英社文庫)
-4.  「自負と偏見」　[ジェイン・オースティン](https://ja.wikipedia.org/wiki/ジェイン・オースティン "wikilink") 著／[小山太一](https://ja.wikipedia.org/wiki/小山太一 "wikilink") 訳(新潮文庫)
+4.  「自負と偏見」　[ジェイン・オースティン](../Page/ジェイン・オースティン.md "wikilink") 著／[小山太一](https://ja.wikipedia.org/wiki/小山太一 "wikilink") 訳(新潮文庫)
 5.  「[雨月物語](../Page/雨月物語.md "wikilink")」　[上田秋成](../Page/上田秋成.md "wikilink")
 
 ## 高校時代に全国大会で入賞したアナウンサー
@@ -713,3 +713,5 @@ FM青森</p></td>
   - [NHKホール](http://www.nhk-sc.or.jp/nhk_hall/)
 
 [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:日本のコンテスト](https://ja.wikipedia.org/wiki/Category:日本のコンテスト "wikilink") [Category:高校生参加の日本のイベント](https://ja.wikipedia.org/wiki/Category:高校生参加の日本のイベント "wikilink") [Category:日本の放送](https://ja.wikipedia.org/wiki/Category:日本の放送 "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink")
+
+1.  [「第67回ＮＨＫ杯全国高校放送コンテスト」の中止について](https://www.nhk.or.jp/event/n-con/assets/pdf/cancellation.pdf)

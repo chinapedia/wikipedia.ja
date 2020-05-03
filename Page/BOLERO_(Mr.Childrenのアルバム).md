@@ -32,10 +32,10 @@
 3.  **タイムマシーンに乗って** \[5:48\]
       -
         社会風刺のロックナンバーで仮タイトルは「**バカ・ロック**」。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が製作されており、ビデオ・クリップ集『[music clips ALIVE](https://ja.wikipedia.org/wiki/music_clips_ALIVE "wikilink")』に収録されている。監督は[丹修一](../Page/丹修一.md "wikilink")で、宇宙飛行士に扮した桜井が歌う場面では、宇宙船内のモニターに「シーソーゲーム 〜勇敢な恋の歌〜」のミュージック・ビデオが流れていることが僅かに確認できる。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が製作されており、ビデオ・クリップ集『[music clips ALIVE](https://ja.wikipedia.org/wiki/music_clips_ALIVE "wikilink")』に収録されている。監督は[丹修一](../Page/丹修一.md "wikilink")で、宇宙飛行士に扮した桜井が歌う場面では宇宙船内のモニターに「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」「シーソーゲーム 〜勇敢な恋の歌〜」のミュージック・ビデオが流れていることが僅かに確認できる。
 4.  **Brandnew my lover** \[4:46\]
       -
-        「FUCKする豚だ」「Kill me」などの過激なフレーズが散りばめられた攻撃的なロックナンバー。
+        「Fuckする豚だ」「Kill me」などの過激なフレーズが散りばめられた攻撃的なロックナンバー。
         ミュージック・ビデオが製作されており、ビデオ・クリップ集『music clips ALIVE』に収録されている。監督は丹修一で、ツアー『[Mr.Children TOUR "REGRESS OR PROGRSS" '96-'97 FINAL](../Page/Regress_or_progress_'96-'97_tour_final_IN_TOKYO_DOME.md "wikilink")」では桜井がカプセルに入り、ミュージック・ビデオの世界観を再現した様な演出で披露された。
 5.  **[【es】 〜Theme of es〜](../Page/【es】_〜Theme_of_es〜.md "wikilink")** \[5:49\]
       -

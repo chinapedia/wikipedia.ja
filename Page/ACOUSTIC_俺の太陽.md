@@ -25,7 +25,7 @@
 
 ## プロモーション
 
-本作に関連するテレビ出演は、1999年10月17日に[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』（1969年 - ）に出演、「とんぼ」、「巡恋歌」、「HOLD YOUR LAST CHANCE」、「乾杯」を演奏、10月18日にはフジテレビ系音楽番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[1994年](../Page/1994年.md "wikilink") - [2012年](../Page/2012年.md "wikilink")）に出演、お笑いコンビの[ダウンタウンと](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")2度目の共演を果たしトーク中に空手の板割りを披露した上、「とんぼ」、「STAY DREAM」を演奏した\[8\]。また、10月23日には[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")にて『人間じゃ』が放送され、音楽グループの[ゆずがゲストとして参加し](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")、長渕とセッションを行った。
+本作に関連するテレビ出演は、1999年10月17日に[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』（1969年 - ）に出演、「とんぼ」、「巡恋歌」、「HOLD YOUR LAST CHANCE」、「乾杯」を演奏、10月18日にはフジテレビ系音楽番組『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[1994年](../Page/1994年.md "wikilink") - [2012年](../Page/2012年.md "wikilink")）に出演、お笑いコンビの[ダウンタウンと](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")2度目の共演を果たしトーク中に空手の板割りを披露した上、「とんぼ」、「STAY DREAM」を演奏した\[8\]。また、10月23日には[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")にて『人間じゃ』が放送され、音楽グループの[ゆずがゲストとして参加し](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")、長渕とセッションを行った。
 
 ## アートワーク
 

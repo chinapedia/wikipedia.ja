@@ -22,7 +22,7 @@
 
   - [伊藤利尋](../Page/伊藤利尋.md "wikilink")（フジテレビアナウンサー）
   - [千野志麻](https://ja.wikipedia.org/wiki/千野志麻 "wikilink")（当時・フジテレビアナウンサー）
-  - [池田真由美](https://ja.wikipedia.org/wiki/池田真由美 "wikilink")
+  - [池田真由美](../Page/池田真由美.md "wikilink")
   - [諸星和己](../Page/諸星和己.md "wikilink") 番組コーナー「Be New Yorker 諸星和己のNYライブ・リポート」にて毎週現地リポーターとして出演
 
 ## スタッフ

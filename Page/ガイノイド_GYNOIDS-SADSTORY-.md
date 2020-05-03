@@ -61,4 +61,4 @@
   - [GAION LABEL](http://west-power.co.jp/gaion/)
   - [作品紹介(制作会社公式サイト内)](http://west-power.co.jp/gaion/prodacts/prodacts_gainoid.html)
 
-[Category:SF作品](https://ja.wikipedia.org/wiki/Category:SF作品 "wikilink") [Category:ロボットを題材とした映画](https://ja.wikipedia.org/wiki/Category:ロボットを題材とした映画 "wikilink") [Category:東京都を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした作品 "wikilink") [Category:特撮オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:特撮オリジナルビデオ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink")
+[Category:SF作品](https://ja.wikipedia.org/wiki/Category:SF作品 "wikilink") [Category:ロボットを題材とした映画](https://ja.wikipedia.org/wiki/Category:ロボットを題材とした映画 "wikilink") [Category:東京都を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした映画作品 "wikilink") [Category:特撮オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:特撮オリジナルビデオ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink")

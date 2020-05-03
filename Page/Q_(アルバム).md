@@ -13,7 +13,7 @@
 
 曲のテンポを[ダーツ](../Page/ダーツ.md "wikilink")の合計点によって決めたり、コード進行を[くじ引き](https://ja.wikipedia.org/wiki/くじ引き "wikilink")によって決めたりと、非常に自由なセッションによって制作が進められた。そのため、作曲クレジットがMr.Childrenとなっている曲も存在している。一方で「つよがり」のような、バンドが目立たない曲（桜井曰く「ソロシンガーとして歌うような曲」）も収録されている。
 
-同日発売の『[Duty](../Page/Duty.md "wikilink")』（[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）に阻まれてオリコンチャート初登場2位となり、連続1位獲得記録は5作でストップした。累計売上は89万枚であり、3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』以来6作ぶりに100万枚を下回った（日本レコード協会からはミリオン認定を受けている）。初めて1位を獲得した4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』以降のオリジナルアルバムで1位を獲得できなかったのは本作のみである。
+同日発売の『[Duty](../Page/Duty.md "wikilink")』（[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）に阻まれてオリコンチャート初登場2位となり、連続1位獲得記録は5作でストップした。累計売上は89万枚であり、3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』以来6作ぶりに100万枚を下回った（日本レコード協会からはミリオン認定を受けている）。初めて1位を獲得した4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』以降のオリジナルアルバムで1位を獲得できなかったのは本作のみである。
 
 本作発売後にライブツアー『[Mr.Children Concert Tour Q 2000-2001](../Page/Mr.Children_Concert_Tour_Q_2000-2001.md "wikilink")』を開催。[2001年](../Page/2001年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に行われた[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")公演では[BIGLOBE](../Page/BIGLOBE.md "wikilink")提供でMr.Children初の[インターネット生中継が行われた](../Page/インターネットテレビ.md "wikilink")。
 

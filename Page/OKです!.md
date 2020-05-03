@@ -29,7 +29,7 @@
   -
     番組テーマ\[2\]が流れ終わるとすぐ恒例の1曲目のコーナーが始まる。
     まず高木が「今日は○○（人気アーティスト名）の曲をかけるね。○○っていいよね。○○って最高だよね。」と言い、人気アーティストのヒット曲をかけるかと思いきやマニアックな曲がかかるという内容。
-    主な例として、[山崎君の曲](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")→[山崎邦正](https://ja.wikipedia.org/wiki/山崎邦正 "wikilink")の曲。[マッキーの曲](../Page/槇原敬之.md "wikilink")→[牧伸二](../Page/牧伸二.md "wikilink")の曲があった。ちなみに最終回の恒例の一曲目は[あゆに見せかけ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[鮎ゆうき](https://ja.wikipedia.org/wiki/鮎ゆうき "wikilink")の曲がかかった。
+    主な例として、[山崎君の曲](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")→[山崎邦正](https://ja.wikipedia.org/wiki/山崎邦正 "wikilink")の曲。[マッキーの曲](../Page/槇原敬之.md "wikilink")→[牧伸二](../Page/牧伸二.md "wikilink")の曲があった。ちなみに最終回の恒例の一曲目は[あゆに見せかけ](../Page/浜崎あゆみ.md "wikilink")、[鮎ゆうき](https://ja.wikipedia.org/wiki/鮎ゆうき "wikilink")の曲がかかった。
 
 <!-- end list -->
 

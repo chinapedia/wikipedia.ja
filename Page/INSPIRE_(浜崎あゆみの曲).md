@@ -7,6 +7,10 @@
 
 前作「[Moments](../Page/Moments.md "wikilink")」より約4か月振りのリリースとなる。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売。
 
+初登場1位、売上32.9万枚。
+
+当時プロモーションビデオ制作費に1億円をかけたことでも話題となった。
+
 [CCCD仕様での発売は本作が最後となった](../Page/コピーコントロールCD.md "wikilink")。
 
 ## 収録曲

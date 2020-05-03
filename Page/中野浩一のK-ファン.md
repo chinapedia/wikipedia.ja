@@ -91,7 +91,7 @@
 
   - [競輪情報番組 中野浩一のK-ファン](http://www.home-tv.co.jp/kfan/index.html)
 
-[Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:中国・四国地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方の深夜テレビ番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink") [Category:中国・四国地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のバラエティ番組 "wikilink") [Category:中国・四国地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのスポーツ番組 "wikilink") [Category:競輪番組_(放送・配信)](https://ja.wikipedia.org/wiki/Category:競輪番組_\(放送・配信\) "wikilink")
+[Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:中国・四国地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方の深夜テレビ番組 "wikilink") [Category:中国・四国地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの情報・ワイドショー番組 "wikilink") [Category:中国・四国地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のバラエティ番組 "wikilink") [Category:中国・四国地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのスポーツ番組 "wikilink") [Category:競輪番組_(放送・配信)](https://ja.wikipedia.org/wiki/Category:競輪番組_\(放送・配信\) "wikilink") [Category:中野浩一](https://ja.wikipedia.org/wiki/Category:中野浩一 "wikilink")
 
 1.  [菊池美佳タレントベース](http://www.weblio.jp/content/%E8%8F%8A%E6%B1%A0%E7%BE%8E%E4%BD%B3)
 2.  [三宅真希子のBlog](http://blog.livedoor.jp/stylish_makiko/)

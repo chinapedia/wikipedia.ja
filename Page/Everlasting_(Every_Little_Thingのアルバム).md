@@ -6,8 +6,7 @@
 ## 概要
 
   - シングル、アルバム通して初の首位獲得作。Every Little Thing 初のミリオンセラー作品。
-  - オリコン週間チャートでは1997年4月21日と28日（週間売上23万2,650枚）の2週に渡り1位だった。
-  - 累計出荷枚数は200万枚を超える\[1\]。
+  - 3ヶ月前に発売した「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」でブレイクした勢いもあり初動売上50万枚を突破し、オリコン週間チャートでは1997年4月21日と28日（週間売上23万2,650枚）の2週に渡り1位だった。累計売上は192.2万枚（累計出荷は200万枚を突破）\[1\]。
   - 初回限定盤は三方背BOX仕様、カレンダー封入。
   - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")作詞の楽曲と[伊藤一朗](../Page/伊藤一朗.md "wikilink")作曲の[インストが](../Page/器楽曲.md "wikilink")2曲ずつ収録。[五十嵐充](../Page/五十嵐充.md "wikilink")以外のメンバーが作詞・作曲を担当するのはこれが初めて。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")には、本作収録曲（インストを除く）をリミックスした、初のリミックスアルバム『[THE REMIXES](https://ja.wikipedia.org/wiki/THE_REMIXES "wikilink")』が発売された。

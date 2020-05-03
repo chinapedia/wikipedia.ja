@@ -309,7 +309,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分</a></p></td>
 <td><p><a href="../Page/NHK大分放送局.md" title="wikilink">NHK大分</a>、<a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
-<td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a>（<a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>）</p></td>
+<td><p><a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a>（<a href="../Page/大分放送.md" title="wikilink">大分放送</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC" title="wikilink">鹿児島</a></p></td>
@@ -855,7 +855,7 @@ VSQ[63]*</p></td>
 <td><p>TOSエンタープライズ[64]*<br />
 <a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a><br />
 <a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a>*<br />
-<a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>*<br />
+<a href="../Page/大分放送.md" title="wikilink">大分放送</a>*<br />
 VSQ[65]</p></td>
 <td><p>2007 - 2009<br />
 2010<br />
@@ -958,6 +958,8 @@ DAZNは、不具合を発見した段階で、まだ試合中であったG大阪
 [radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")での配信状況としては、基本サービスではほぼ全ての番組で配信されているが、radikoプレミアム（エリアフリー）およびタイムフリーでは配信されている番組と配信されていない番組で大きく分かれる。主催チームの放映権の都合上によるもの。一例として、『Jリーグ RADIO』は、ニッポン放送およびネット局は、エリアフリーおよびタイムフリーでの配信も実施されている。
 
 ## 脚注
+
+### 注釈
 
 ### 出典
 

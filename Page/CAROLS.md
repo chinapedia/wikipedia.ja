@@ -7,6 +7,8 @@
 
 前作「[INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")」より約2か月振りのリリース。
 
+初登場1位、累計売上30.9万枚。
+
 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD-Video.md "wikilink")」、「[SACD](../Page/Super_Audio_CD.md "wikilink")」、「[DVD-Audio](../Page/DVD-Audio.md "wikilink")」の4形態で発売された。「SACD」・「DVD-Audio」が発売されたシングルは本作のみとなる。 初回盤は4種類のピクチャーレーベル仕様。
 
 「DVD-Audio」「SACD」には、「CAROLS-[5.1ch](../Page/サラウンド.md "wikilink") mix-」を収録。ただし、「DVD-Audio」には映像は収録されていない。

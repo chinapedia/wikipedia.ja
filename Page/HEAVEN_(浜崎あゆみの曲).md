@@ -7,6 +7,8 @@
 
 前作「[fairyland](https://ja.wikipedia.org/wiki/fairyland_\(浜崎あゆみの曲\) "wikilink")」より1か月半振りのリリース。「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売された。
 
+初登場1位、累計売上32.7万枚。7作連続で30万枚突破となった。
+
 「Will」は、[ノルウェー](../Page/ノルウェー.md "wikilink")の放送局NRKの[2007年](../Page/2007年.md "wikilink")[世界陸上](https://ja.wikipedia.org/wiki/世界陸上 "wikilink")大阪大会の番組テーマソングとして起用された。
 
 「[CAROLS](../Page/CAROLS.md "wikilink")」に引き続き、「HEAVEN」が自身2度目の着うた[ミリオンヒットを記録した](../Page/ミリオンセラー.md "wikilink")。

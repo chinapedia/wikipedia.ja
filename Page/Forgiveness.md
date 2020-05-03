@@ -7,6 +7,8 @@
 
 前作「[&](../Page/&_\(シングル\).md "wikilink")」より、約1か月振りのリリースとなった。
 
+初登場1位、累計22.2万枚。シングルカットを除き、6thシングル「[WHATEVER](../Page/WHATEVER_\(浜崎あゆみの曲\).md "wikilink")」以来4年半ぶりの低いセールスとなった。
+
 シングル30枚目を記念し、同年10月にシングル曲中心のスペシャルライブ「[A museum 〜30th single collection live〜](https://ja.wikipedia.org/wiki/A_museum_〜30th_single_collection_live〜 "wikilink")」が行われた。
 
 ジャケットは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[CGクリエイター集団Me](../Page/コンピュータグラフィックス.md "wikilink") Companyが手がけた\[1\]。

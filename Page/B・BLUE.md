@@ -1,7 +1,7 @@
 > この記事は[B・BLUE](https://ja.wikipedia.org/wiki/B・BLUE)から翻訳されています。
 
 
-「**B・BLUE**」（ビー・ブルー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")4枚目のシングル。
+「**B・BLUE**」（ビー・ブルー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](../Page/BOOWY.md "wikilink")4枚目のシングル。
 
 ## 背景
 

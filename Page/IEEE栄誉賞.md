@@ -98,7 +98,7 @@
   - 2008年: [ゴードン・ムーア](../Page/ゴードン・ムーア.md "wikilink")
   - 2009年: [ロバート・デナード](https://ja.wikipedia.org/wiki/ロバート・デナード "wikilink")
   - 2010年: [アンドリュー・ビタビ](https://ja.wikipedia.org/wiki/アンドリュー・ビタビ "wikilink")
-  - 2011年: [:en:Morris Chang](https://ja.wikipedia.org/wiki/:en:Morris_Chang "wikilink")
+  - 2011年: [モリス・チャン](https://ja.wikipedia.org/wiki/モリス・チャン "wikilink")
   - 2012年: [ジョン・ヘネシー](../Page/ジョン・ヘネシー.md "wikilink")
   - 2013年: [:en:Irwin M. Jacobs](https://ja.wikipedia.org/wiki/:en:Irwin_M._Jacobs "wikilink")
   - 2014年: [:en:B. Jayant Baliga](https://ja.wikipedia.org/wiki/:en:B._Jayant_Baliga "wikilink")

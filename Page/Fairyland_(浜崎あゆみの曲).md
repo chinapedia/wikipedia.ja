@@ -7,7 +7,13 @@
 
 前作「[STEP you/is this LOVE?](https://ja.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")」より約3か月振りのリリース。
 
+初登場1位、累計売上31.7万枚。
+
+プロモーションビデオの制作費は2億4千万と過去最大規模で撮影された。
+
 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売された。本作以降、「CDのみ」と「CD+DVD」ではジャケットが異なる。
+
+この曲で同年の「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」に7回目の出場を果たした。
 
 ## 収録曲
 

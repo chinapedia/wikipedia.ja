@@ -25,7 +25,7 @@
     <!-- end list -->
       -
         21stシングル。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましどようび](../Page/めざましどようび.md "wikilink")』テーマソング（2005年4月〜2005年6月）
-3.  **[You look at me〜one](https://ja.wikipedia.org/wiki/ダンシング_\(倉木麻衣の曲\) "wikilink")** – 3:58
+3.  **[You look at me〜one](../Page/ダンシング_\(倉木麻衣の曲\).md "wikilink")** – 3:58
       - 作曲・編曲：[大賀好修](../Page/大賀好修.md "wikilink")（from [OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")）
     <!-- end list -->
       -
@@ -45,7 +45,7 @@
     <!-- end list -->
       -
         19thシングル。初のセルフプロデュース作品。
-7.  **[ダンシング](https://ja.wikipedia.org/wiki/ダンシング_\(倉木麻衣の曲\) "wikilink")** – 3:47
+7.  **[ダンシング](../Page/ダンシング_\(倉木麻衣の曲\).md "wikilink")** – 3:47
       - 作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -

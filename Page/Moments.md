@@ -7,7 +7,11 @@
 
 シングルとしては前作「[No way to say](../Page/No_way_to_say.md "wikilink")」以来、約5か月振りのリリースとなる。
 
+初登場1位、累計30.3万枚。
+
 自身初の「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD＋[DVD](../Page/DVD-Video.md "wikilink")」の2形態で販売を行った。
+
+本作で同年の「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」に6度目の出場を果たした。
 
 ## 収録曲
 

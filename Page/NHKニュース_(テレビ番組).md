@@ -94,17 +94,22 @@
 <td><p>2017年10月7日から<a href="https://ja.wikipedia.org/wiki/二か国語放送" title="wikilink">二か国語放送</a>を実施。</p></td>
 </tr>
 <tr class="even">
+<td><p>18:45 - 18:55</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/NHKニュース7" title="wikilink">NHKニュース7</a>』休止日</p></td>
+<td><p>年末年始等でNHKニュース７が休止する場合は、代替として放送される。</p></td>
+</tr>
+<tr class="odd">
 <td><p>20:45 - 20:55</p></td>
 <td><p><a href="../Page/ニュース845.md" title="wikilink">土・日・一部の祝日 </a></p></td>
 <td><p>また、月 - 金曜でも一部の祝日編成により『<a href="../Page/ニュースウオッチ9.md" title="wikilink">ニュースウオッチ9</a>』が休止する場合は、代替として放送される。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22:50 - 22:55</p></td>
 <td><p>日</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>23:30 - 23:35</p></td>
+<tr class="odd">
+<td><p>23:25 - 23:30</p></td>
 <td><p>月 - 金の祝日</p></td>
 <td></td>
 </tr>
@@ -150,6 +155,7 @@
 
   - その他
     重大な災害が発生した時は、通常の放送枠を拡大したり、通常は放送しない深夜から早朝の時間帯での放送が行われる場合がある。
+    2020年4月7日に日本政府が新型コロナウイルスに関する緊急事態宣言が7都府県に発出されたことから、4月13日から当面、平日10時のニュースを30分に拡大し、[おはよう日本のローカル枠](../Page/NHKニュースおはよう日本.md "wikilink")（[おはよう日本・関東甲信越](../Page/NHKニュースおはよう日本・関東甲信越.md "wikilink")(東京)・[おはよう関西](../Page/NHKニュースおはよう関西.md "wikilink")(大阪)・[おはよう九州沖縄](../Page/おはよう九州沖縄.md "wikilink")(福岡)・[おはよう東海](https://ja.wikipedia.org/wiki/おはよう東海 "wikilink")(名古屋)）の「新型コロナウイルス」関連ニュースの時差放送を行う。
 
 ### ローカルニュース
 
@@ -216,12 +222,12 @@
 <tr class="odd">
 <td><p>18:45 - 18:59</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュース645" title="wikilink">土曜・日曜・祝日</a></p></td>
-<td><p>途中、全国の気象情報</p></td>
+<td><p>途中、全国の気象情報、ニュース7休止日は18:55 - 19:00。</p></td>
 </tr>
 <tr class="even">
 <td><p>18:50 - 19:00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKニュース645" title="wikilink">年末年始</a></p></td>
-<td></td>
+<td><p>途中、全国の気象情報、ニュース7休止日は18:55 - 19:00。</p></td>
 </tr>
 <tr class="odd">
 <td><p>20:45 - 21:00</p></td>

@@ -100,4 +100,4 @@
 3.  平日の『[マスターズ・トーナメント](../Page/マスターズ・トーナメント.md "wikilink")』終了後に放送される『JNNニュース』のローカル枠では、関東ローカルのニュースをそのまま流している。
 4.  それ以前にも設定されていた時期はあったが、前述の番組が始まるまでは天気予報を放送していた。
 5.  ただし、金曜日の放送に関してはMROではローカル枠を設定していない。
-6.  Yahoo\!ニュースにおいて、MROと同様の方式を採用している放送局は、[秋田ケーブルテレビ](../Page/秋田ケーブルテレビ.md "wikilink")、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")、[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")（2019年3月時点）。[2018年](../Page/2018年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")から[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")もMROと同様に同サイトでの動画配信を実施している。
+6.  Yahoo\!ニュースにおいて、MROと同様の方式を採用している放送局は、[秋田ケーブルテレビ](../Page/秋田ケーブルテレビ.md "wikilink")、[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")、[三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")、[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")（2019年3月時点）。[2018年](../Page/2018年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")から[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")もMROと同様に同サイトでの動画配信を実施している。

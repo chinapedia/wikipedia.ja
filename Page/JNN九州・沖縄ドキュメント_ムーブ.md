@@ -70,7 +70,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 <td><p>25:50-26:20<br />
 （月1:50-2:20）</p></td>
 <td><p>20時間35分遅れ</p></td>

@@ -3,7 +3,7 @@
 
 **六三四Musashi**（むさし）は、[1991年](../Page/1991年.md "wikilink")から活動している、日本の伝統楽器と、[ギター](../Page/ギター.md "wikilink")や[ベース等の楽器で演奏するインスト中心のロックバンド](../Page/ベース_\(弦楽器\).md "wikilink")。現在はメンバー個々の活動が主となっており、グループとしての活動は休止状態が続いている（バンドというよりは、ユニット的活動となっている）。「六三四」の名は、「六」はギター、「三」は[津軽三味線](../Page/津軽三味線.md "wikilink")、「四」はベースの弦の数が由来となっている。
 
-また、六三四プロジェクト名義で、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の音楽を担当していた。
+また、六三四プロジェクト名義で、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の音楽を担当していた（[増田俊郎](https://ja.wikipedia.org/wiki/増田俊郎 "wikilink")と共同）。
 
 1998年リリースのアルバム『Far East Groove』に収録されている「鳳凰」は、[K-1](../Page/K-1.md "wikilink") JAPANのテーマ曲として使用された。
 

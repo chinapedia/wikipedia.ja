@@ -60,7 +60,7 @@
 
   - （オカマのホームレス・牛尾とは旧知の間柄） - [三夏紳](../Page/三夏紳.md "wikilink")（第4作・第8作・第9作）
 
-  - 牛尾澄枝（牛尾の妻） - [岡江久美子](../Page/岡江久美子.md "wikilink")
+  - 牛尾澄枝（牛尾の妻） - [岡江久美子](../Page/岡江久美子.md "wikilink")（第1作 - 第16作）
 
 ### 事件記者冴子の殺人スクープより（第3作 - ）
 
@@ -869,11 +869,11 @@
       -
       -
   - 東映
-      - [終着駅の牛尾刑事VS事件記者・冴子12](http://www.toei.co.jp/release/tv/1200895_963.html)
-      - [終着駅の牛尾刑事VS事件記者・冴子13](http://www.toei.co.jp/release/tv/1202933_963.html)
-      - [終着駅の牛尾刑事VS事件記者・冴子14](http://www.toei.co.jp/release/tv/1204838_963.html)
-      - [終着駅の牛尾刑事VS事件記者・冴子15](http://www.toei.co.jp/release/tv/1206708_963.html)
-      - [終着駅の牛尾刑事VS事件記者・冴子16](http://www.toei.co.jp/release/tv/1208792_963.html)
+      - [終着駅の牛尾刑事VS事件記者・冴子12](https://www.toei.co.jp/release/tv/1200895_963.html)
+      - [終着駅の牛尾刑事VS事件記者・冴子13](https://www.toei.co.jp/release/tv/1202933_963.html)
+      - [終着駅の牛尾刑事VS事件記者・冴子14](https://www.toei.co.jp/release/tv/1204838_963.html)
+      - [終着駅の牛尾刑事VS事件記者・冴子15](https://www.toei.co.jp/release/tv/1206708_963.html)
+      - [終着駅の牛尾刑事VS事件記者・冴子16](https://www.toei.co.jp/release/tv/1208792_963.html)
 
 <div class="NavFrame" style="border:0;">
 

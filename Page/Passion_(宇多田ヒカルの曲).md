@@ -57,7 +57,7 @@
 
 ### 解説
 
-配信限定シングルとしては、「[Beautiful World -PLANiTb Acoustica Mix-](https://ja.wikipedia.org/wiki/Beautiful_World_-PLANiTb_Acoustica_Mix- "wikilink")」から僅か1ヶ月での発売となり、「passion」の英語版に当たる。
+配信限定シングルとしては、「[Beautiful World -PLANiTb Acoustica Mix-](https://ja.wikipedia.org/wiki/Beautiful_World_-PLANiTb_Acoustica_Mix- "wikilink")」から僅か1ヶ月での発売となり、「Passion」の英語版に当たる。
 
 北米版『キングダム ハーツII』および『キングダム ハーツII FINAL MIX』ではこの楽曲の英語詞バージョン「Sanctuary」が主題歌となっており、アレンジも「Passion」とは少し異なっている。この「Sanctuary」はCD化とデジタル配信などのリリースが長い間されていなかったが、2009年にUtada名義のアルバム『[This Is The One](https://ja.wikipedia.org/wiki/This_Is_The_One "wikilink")』（アメリカ版）のボーナストラックとして待望の収録を果たした。日本ではデジタル配信で2009年7月にリリースされ、2010年11月に発売された『[Utada The Best](https://ja.wikipedia.org/wiki/Utada_The_Best "wikilink")』にも2バージョンが収録されている（正規の日本盤CDで「Sanctuary」が聴けるのはこの『Utada The Best』のみ）。
 

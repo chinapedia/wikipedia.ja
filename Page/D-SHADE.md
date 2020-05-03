@@ -5,7 +5,7 @@
 
 ## 概説
 
-バンド名のD-SHADEはDEAREST SHADEの略。 当初は「D†SHADE」という表記だった。 [インディーズ](../Page/インディーズ.md "wikilink")時は広島並木ジャンクションを中心に活動。『ポスト[BOφWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")』などとも呼ばれていた\[1\]。1998年にシングル『BELIEVE』で[メジャーデビューし](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")、その後1998年にシングル「[ENDLESS LOVE](https://ja.wikipedia.org/wiki/ENDLESS_LOVE "wikilink")」がヒットしたが、ボーカルのHIBIKIが[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")に転向するため音楽界を引退し、2000年5月31日をもって解散。
+バンド名のD-SHADEはDEAREST SHADEの略。 当初は「D†SHADE」という表記だった。 [インディーズ](../Page/インディーズ.md "wikilink")時は広島並木ジャンクションを中心に活動。『ポスト[BOφWY](../Page/BOOWY.md "wikilink")』などとも呼ばれていた\[1\]。1998年にシングル『BELIEVE』で[メジャーデビューし](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")、その後1998年にシングル「[ENDLESS LOVE](https://ja.wikipedia.org/wiki/ENDLESS_LOVE "wikilink")」がヒットしたが、ボーカルのHIBIKIが[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")に転向するため音楽界を引退し、2000年5月31日をもって解散。
 
 ## メンバー
 

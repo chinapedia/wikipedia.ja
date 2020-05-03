@@ -11,11 +11,11 @@
 
 しかし、テナント料の問題として裁判沙汰になったことから2005年（平成17年）[10月14日](../Page/10月14日.md "wikilink")突然の休業に入り、事実上の撤退をした\[1\]。
 
-後継テナントとして、民間棟部分のビルオーナーの[秋田新都心ビル](https://ja.wikipedia.org/wiki/秋田新都心ビル "wikilink")の作業が難航したことから、民間棟のテナント会有志が、[黒沢久雄](https://ja.wikipedia.org/wiki/黒沢久雄 "wikilink")の事務所に直接掛け合って交渉するなど、後継探しが二分している状況になっていた時期もあった。
+後継テナントとして、民間棟部分のビルオーナーの秋田新都心ビルの作業が難航したことから、民間棟のテナント会有志が、[黒沢久雄](https://ja.wikipedia.org/wiki/黒沢久雄 "wikilink")の事務所に直接掛け合って交渉するなど、後継探しが二分している状況になっていた時期もあった。
 
 後に、テナント有志側が**駅の映画館 AKITAシアター**の名称で暫定営業を行った\[2\]\[3\]。
 
-その後、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")で名劇、ルミエール、ピカデリーなど5館の映画館を展開する[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の[南部興行](https://ja.wikipedia.org/wiki/南部興行 "wikilink")が運営に名乗りを上げた。同社は「AKITAシアター」（現・[ルミエール秋田](https://ja.wikipedia.org/wiki/ルミエール_\(映画館\) "wikilink")）の名称で、[2006年](../Page/2006年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")から営業を行っている\[4\]\[5\]。
+その後、[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")で名劇、ルミエール、ピカデリーなど5館の映画館を展開する[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の南部興行が運営に名乗りを上げた。同社は「AKITAシアター」（現・[ルミエール秋田](https://ja.wikipedia.org/wiki/ルミエール_\(映画館\) "wikilink")）の名称で、[2006年](../Page/2006年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")から営業を行っている\[4\]\[5\]。
 
 ## 施設概要
 
@@ -29,8 +29,6 @@
       - [シリウス](../Page/シリウス.md "wikilink")：127席
       - [プロキオン](../Page/プロキオン.md "wikilink")：127席
       - [ボルックス](https://ja.wikipedia.org/wiki/ボルックス "wikilink")：127席
-
-施設面では[映画館](../Page/映画館.md "wikilink")であった。
 
 ## 沿革
 
@@ -59,7 +57,7 @@
   - 7月2日 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")の配給が打ち切られる。
   - 8月29日 - 上映開始時間を08:30から09:00へ戻す。
   - 10月12日 - 運営がラスカルからM\&Tピクチャーズへ戻る。[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[UIP](../Page/ユナイテッド・インターナショナル・ピクチャーズ.md "wikilink")、[東芝エンタテインメントの配給が打ち切られる](../Page/博報堂DYミュージック&ピクチャーズ.md "wikilink")。
-  - 10月14日 - **突然の休館**。\[7\]
+  - 10月14日 - **突然の休館**\[7\]。
   - 11月2日 - 水野晴郎とM\&Tピクチャーズ西田和昭代表らが秋田市役所を訪れ、[佐竹敬久](../Page/佐竹敬久.md "wikilink")[市長](https://ja.wikipedia.org/wiki/市長 "wikilink")に対し映画館再開の意欲を伝えるとともに、再開への側面的な支援を依頼する。
   - 11月16日 - 秋田新都心ビルが映画館を運営するM\&Tピクチャーズや水野晴郎などを相手取り、建物の明け渡しとテナント料などの支払いを求めた[訴訟](../Page/訴訟.md "wikilink")の[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")が東京地裁であり、新都心ビル側の主張を全面的に認めた。秋田新都心ビルは秋田地裁に明け渡しの仮執行の手続に入る旨を発表した\[8\]。
   - 11月25日 - 秋田新都心ビル関口昇司社長は、映画運営会社を今年度中に決定し、来年3月までには映画館を再開させる考えであることを発表した。
@@ -69,7 +67,7 @@
 
   - 8月5日 - 9月15日までの期間限定で、テナント有志が「**駅の映画館 AKITAシアター**」の名称で、一時再開する\[9\]。
   - 9月14日 - 採算ライン（このクラスの規模では平均:100人／日と発表されている）をクリアしたことから、「駅の映画館　AKITAシアター」における当面の運営継続が決まる。継続期間は、長期運営が可能な後継テナント（せっかく見つかった後継テナントに1年程度で撤退されては困るとの判断より）が見つかるまでとのことだが、採算ラインが維持できない場合はその時点での打ち切りもあり得ると発表。
-  - 11月18日 - 経営に名乗りを上げた[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の[南部興行](https://ja.wikipedia.org/wiki/南部興行 "wikilink")により、AKITAシアターとして1年1ヶ月ぶりにフルオープンする\[10\]。
+  - 11月18日 - 経営に名乗りを上げた[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の南部興行により、AKITAシアターとして1年1ヶ月ぶりにフルオープンする\[10\]。
 
 ### 2007年（平成19年）
 
@@ -87,22 +85,9 @@
 
 また、集客力のある「イオン秋田・TOHOシネタウン」（現「[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")秋田」）に優先的に配給をしたい大手配給会社の思惑もあり、[東宝](../Page/東宝.md "wikilink")、[東映](../Page/東映.md "wikilink")、[ブエナビスタ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ "wikilink")、[ソニー・ピクチャーズ エンタテインメント作品は一度も上映されなかった](../Page/ソニー・ピクチャーズ_エンタテインメント_\(日本\).md "wikilink")。
 
-## 関連項目
-
-  - [秋田拠点センターアルヴェ](../Page/秋田拠点センターアルヴェ.md "wikilink")
-  - [ルミエール秋田](https://ja.wikipedia.org/wiki/ルミエール_\(映画館\) "wikilink")（現在、同所で営業している映画館）
-
 ## 出典
 
 <references />
-
-## 外部リンク
-
-  - [水野晴郎ドットコム](http://www.mizunoharuo.com/)
-  - [株式会社ラスカル](http://www.rascal-co.jp/)
-  - [パンテオンシネマズAKiTA](http://www.pca.st)
-  - [AKITAシアター](http://www.e-alve.com/shop/theatre.html)
-  - [ルミエール秋田](http://www.nanbukogyo.jp/lumiere/)
 
 [Category:かつて存在した日本の映画館](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の映画館 "wikilink") [Category:秋田市の商業施設](https://ja.wikipedia.org/wiki/Category:秋田市の商業施設 "wikilink") [Category:秋田市の歴史](https://ja.wikipedia.org/wiki/Category:秋田市の歴史 "wikilink") [Category:2004年開業の施設](https://ja.wikipedia.org/wiki/Category:2004年開業の施設 "wikilink")
 

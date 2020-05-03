@@ -162,7 +162,7 @@
 
   - [PDF-XChange シリーズ](https://ja.wikipedia.org/wiki/PDF-XChange "wikilink")（[Tracker Software Products Ltd.](http://www.docu-track.com/)）
 
-  - [LightPDF](https://ja.wikipedia.org/wiki/LightPDF "wikilink") [2](https://lightpdf.com/jp/) - ウェブベースのPDF変換・編集ソフトウェア
+  - [LightPDF](../Page/LightPDF.md "wikilink") [2](https://lightpdf.com/jp/) - ウェブベースのPDF変換・編集ソフトウェア
 
   - （[Solid Documents](http://www.soliddocuments.com/ja/)）
 

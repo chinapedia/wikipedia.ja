@@ -13,7 +13,7 @@
 
   - 。
 
-1996年[3月30日](../Page/3月30日.md "wikilink")に[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』に初出演。タイトル曲を演奏した。これがDEEN最古の[ハイビジョン](../Page/ハイビジョン.md "wikilink")撮影された映像である。
+1996年[3月30日](../Page/3月30日.md "wikilink")に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』に初出演。タイトル曲を演奏した。これがDEEN最古の[ハイビジョン](../Page/ハイビジョン.md "wikilink")撮影された映像である。
 
 ## 収録曲
 

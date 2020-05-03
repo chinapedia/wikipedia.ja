@@ -57,7 +57,7 @@
   - [虎渡瑞季](https://ja.wikipedia.org/wiki/虎渡瑞季 "wikilink")
   - [長島光那](https://ja.wikipedia.org/wiki/長島光那 "wikilink")
   - [新津奈々](https://ja.wikipedia.org/wiki/新津奈々 "wikilink")
-  - [葉山ゆりか](https://ja.wikipedia.org/wiki/葉山ゆりか "wikilink")
+  - [葉山ゆりか](../Page/葉山ゆりか.md "wikilink")
   - [藤田知未](https://ja.wikipedia.org/wiki/藤田知未 "wikilink")
   - [藤森多哉](https://ja.wikipedia.org/wiki/藤森多哉 "wikilink")
   - [舞原由佳](https://ja.wikipedia.org/wiki/舞原由佳 "wikilink")

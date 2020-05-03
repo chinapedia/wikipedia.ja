@@ -11,9 +11,11 @@
 
 [PVが](../Page/ミュージック・ビデオ.md "wikilink")2種類存在する珍しい楽曲である。最初のPVは真冬の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[美瑛町](../Page/美瑛町.md "wikilink")で撮影したが、殆どTERUの顔しか映っておらず、しかも本人達はそのような構成になっているとは全く知らされていなかったため、メンバー間でボーカルを代えようと喧嘩になったと『[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")』で語られていた。その後新しいPVが作られ現在に至っており、PVが2種類あるシングルは「[Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")」と合せて2作品目となった\[4\]。
 
-ポリドールから発売された最後の作品で、発売直後に当時の所属レーベルであったUNLIMITED RECORDSの販売権が[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移行した。
+ポリドールから発売された最後の作品で、発売直後に当時の所属レーベルであったUNLIMITED RECORDSの販売権が[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移行した。\[5\]
 
 楽曲制作の際、音楽番組で映画『[八甲田山](../Page/八甲田山_\(映画\).md "wikilink")』から楽曲のインスピレーションを得たと語っていた。
+
+初回特典として、先着でポスターが付いていた。
 
 ## 収録曲
 
@@ -23,11 +25,11 @@
       - 作詞：TAKURO　編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
-        歌詞には当時の[TAKURO](../Page/TAKURO.md "wikilink")の作品（「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」など）に顕著な日常で滅多に使わない難しい言葉が多々用いられており、一部分はTAKUROの当時の恋人に対してTAKUROの故郷である北海道の景色を見せたいという想いが込められている。イントロは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")公開の[映画](../Page/映画.md "wikilink")「[タイタニック](../Page/タイタニック_\(1997年の映画\).md "wikilink")」主題歌「[MY HEART WILL GO ON](../Page/マイ・ハート・ウィル・ゴー・オン.md "wikilink")」（[セリーヌ・ディオン](https://ja.wikipedia.org/wiki/セリーヌ・ディオン "wikilink")）をTAKUROが意図して作ったという。アルバム『[HEAVY GAUGE](../Page/HEAVY_GAUGE_\(GLAYのアルバム\).md "wikilink")』にはボーカルのみ別テイクのバージョンが収録されており、また僅か一字のみだが歌詞が変わっている\[5\]。[2009年](../Page/2009年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に放送された[フジテレビ系の音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")』では「アコースティック・バージョン」で披露された\[6\]。
+        歌詞には当時の[TAKURO](../Page/TAKURO.md "wikilink")の作品（「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」など）に顕著な日常で滅多に使わない難しい言葉が多々用いられており、一部分はTAKUROの当時の恋人に対してTAKUROの故郷である北海道の景色を見せたいという想いが込められている。イントロは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")公開の[映画](../Page/映画.md "wikilink")「[タイタニック](../Page/タイタニック_\(1997年の映画\).md "wikilink")」主題歌「[MY HEART WILL GO ON](../Page/マイ・ハート・ウィル・ゴー・オン.md "wikilink")」（[セリーヌ・ディオン](https://ja.wikipedia.org/wiki/セリーヌ・ディオン "wikilink")）をTAKUROが意図して作ったという。アルバム『[HEAVY GAUGE](../Page/HEAVY_GAUGE_\(GLAYのアルバム\).md "wikilink")』にはボーカルのみ別テイクのバージョンが収録されており、また僅か一字のみだが歌詞が変わっている\[6\]。[2009年](../Page/2009年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に放送された[フジテレビ系の音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")』では「アコースティック・バージョン」で披露された\[7\]。
         TAKUROが[リードギター](../Page/リードギター.md "wikilink")を担当しており、ライヴで披露する際にはほぼ一貫して[エピフォン・カジノ](../Page/エピフォン・カジノ.md "wikilink")を使用している。一方HISASHIはサイドギターながら必ず[ビブラート・ユニット](../Page/ビブラート・ユニット.md "wikilink")を備えた[東海楽器・Talbo](../Page/東海楽器・Talbo.md "wikilink")を使用し、ビブラートを活かした音が目立っている。
         [2011年](../Page/2011年.md "wikilink")に発売された[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[CRUSH\! -90's V-Rock best hit cover songs-](https://ja.wikipedia.org/wiki/CRUSH!_-90's_V-Rock_best_hit_cover_songs- "wikilink")』に、[12012が本曲のカバーで参加した](https://ja.wikipedia.org/wiki/12012_\(バンド\) "wikilink")。
-        [2015年](../Page/2015年.md "wikilink")に[Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")が発売したアルバム、『THE HITS 〜No.1 SONG COVERS〜』でカバーが収録されている\[7\]。
-        [2013年](../Page/2013年.md "wikilink")に[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")が発表した「GLAY 名曲ランキング」では3位にランクインしている\[8\]。
+        [2015年](../Page/2015年.md "wikilink")に[Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")が発売したアルバム、『THE HITS 〜No.1 SONG COVERS〜』でカバーが収録されている\[8\]。
+        [2013年](../Page/2013年.md "wikilink")に[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")が発表した「GLAY 名曲ランキング」では3位にランクインしている\[9\]。
 2.  **Young oh\! oh\!**
       - 作詞：TAKURO 編曲：GLAY
     <!-- end list -->
@@ -76,7 +78,8 @@
 2.  合算すると「[Automatic/time will tell](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")」([宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink"))に次いで3位
 3.
 4.  ただし、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")のGLAY Official Channelには、最初のPVが公開されている。
-5.  2番の「愛はあの日から動けないと、」の「と」が抜けている。
-6.
+5.  1998年にリリースした2作のライブビデオはポニーキャニオンより販売されている。
+6.  2番の「愛はあの日から動けないと、」の「と」が抜けている。
 7.
 8.
+9.

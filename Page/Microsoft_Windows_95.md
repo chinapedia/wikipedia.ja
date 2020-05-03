@@ -207,6 +207,8 @@ Windows 95からはマイナーバージョン (OSR) の有無に関わらず、
 ## 外部リンク
 
   - [パソコンブーム（1995年）](https://cgi2.nhk.or.jp/archives/tab/tv60bin/detail/index.cgi?das_id=D0009030271_00000) - [NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")（[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+  - [Weezer - Buddy Holly](http://www.youtube.com/watch?v=kemivUKb4f4) - Windows95のCD-ROMにサンプルとして附属していたミュージックビデオ
+  - [Edie Brickell - Good Times](https://www.youtube.com/watch?v=iqL1BLzn3qc)　- Windows95のCD-ROMにサンプルとして附属していたミュージックビデオ
 
 [Category:MS-DOS・Windows3.x・9x系](https://ja.wikipedia.org/wiki/Category:MS-DOS・Windows3.x・9x系 "wikilink") [Category:1995年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1995年のソフトウェア "wikilink")
 

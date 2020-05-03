@@ -36,7 +36,7 @@ JRグループ各社傘下の[吹奏楽団](https://ja.wikipedia.org/wiki/吹奏
 <th><p>法人名</p></th>
 <th><p>種別</p></th>
 <th><p>通称</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/コーポレートカラー" title="wikilink">コーポレートカラー</a></p></th>
+<th><p><a href="../Page/コーポレートカラー.md" title="wikilink">コーポレートカラー</a></p></th>
 <th><p>本社</p></th>
 <th><p>主な事業区域</p></th>
 </tr>
@@ -203,7 +203,7 @@ JRグループにおける各社の略称は、分割民営化前の国鉄時代
 
 ## コーポレートカラー
 
-JRグループにおける各社の[コーポレートカラー](https://ja.wikipedia.org/wiki/コーポレートカラー "wikilink")は、分割民営化前の国鉄時代に原案が作られており、それらを元に決定され、1987年2月20日に発表された。
+JRグループにおける各社の[コーポレートカラー](../Page/コーポレートカラー.md "wikilink")は、分割民営化前の国鉄時代に原案が作られており、それらを元に決定され、1987年2月20日に発表された。
 
   - [北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink") - ライトグリーン。真白な雪の大地から一斉に芽生え、やがて野山を彩る柔らかな色。新会社のさわやかで伸びやかなイメージを表現\[15\]。
   - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink") - グリーン。[東北](https://ja.wikipedia.org/wiki/東北 "wikilink")・[信越](https://ja.wikipedia.org/wiki/信越 "wikilink")・[関東](../Page/関東.md "wikilink")の豊かな緑色で、力強く発展していく新会社の未来を象徴させる。また、[東北](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")・[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")の[カラーでもある](../Page/緑14号.md "wikilink")\[16\]。
@@ -276,7 +276,7 @@ JRマークはわずかな例外を除き、各社の鉄道車両に掲出され
 11.
 12.
 13.
-14. [参考リンク](http://web.archive.org/web/20060219160420/http://www.westjr.co.jp/gallery/naruhodo/02.html#q11)
+14. [参考リンク](https://web.archive.org/web/20060219160420/http://www.westjr.co.jp/gallery/naruhodo/02.html#q11)
 15.
 16.
 17.

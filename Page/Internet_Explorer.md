@@ -3,7 +3,7 @@
 
 **Internet Explorer**（インターネット エクスプローラー）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")がかつて開発していた[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")である。以前の名称は**Microsoft Internet Explorer**や**Windows Internet Explorer**であった。一般的に、**IE**や**MSIE**と呼ばれる。
 
-[Windows 95以降の](../Page/Microsoft_Windows_95.md "wikilink")[Windows ファミリーには標準で含まれている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[Windows Mobile](../Page/Windows_Mobile.md "wikilink")（[Windows CEの一部構成を含む](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")）にはInternet Explorer Mobileが含まれていた。以前は[Macintosh](../Page/Macintosh.md "wikilink")用の[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")（IE:mac）や [HP-UX](../Page/HP-UX.md "wikilink")と[Solaris](../Page/Solaris.md "wikilink")用のInternet Explorer for UNIXも存在したが、これらは現在サポートされていない。
+[Windows 95以降の](../Page/Microsoft_Windows_95.md "wikilink")[Windows ファミリーには標準で含まれている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。[Windows Mobile](../Page/Windows_Mobile.md "wikilink")（[Windows CEの一部構成を含む](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")）にはInternet Explorer Mobileが含まれていた。以前は[Macintosh](../Page/Macintosh.md "wikilink")用の[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")（IE:mac）や [HP-UX](../Page/HP-UX.md "wikilink")と[Solaris](../Page/Solaris.md "wikilink")用のInternet Explorer for UNIXも存在したが、これらは現在サポートされていない。現在はEdgeのテーマを用いる。
 
 [Windows 10から標準ブラウザは](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[Microsoft Edgeに置き換えられ](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")、Internet Explorerの開発は終了し、マイクロソフトはInternet Explorerを利用しないことを呼びかけている\[1\]\[2\]。ただし、互換性維持のため、Internet Explorer 11はWindows 10に引き続き搭載されており、セキュリティアップデートの提供も継続されている。
 

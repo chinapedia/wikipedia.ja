@@ -178,8 +178,8 @@ LightWave 2018でレンダラーが書き直され物理ベースのレンダリ
 23. [Lightwave 2018 released with a new PBR rendering system and more](http://cgpress.org/archives/lightwave-2018-released-with-a-pbr-rendering-system-and-more.html) CGPress 2017年12月13日
 24. [LightWave 3D Group Offers Powerful Creativity Bundle for 3D Modeling, Animation, and Rendering](http://www.prweb.com/releases/2015/08/prweb12895558.htm) PRWeb 2015年8月10日
 25. [Origami Digital Tools Purchase & Information](http://www.origamidigital.com/odtoolsOrder.html) Origami Digital
-26. [LightWave 3D shines](http://web.archive.org/web/19990219100632/http://macweek.zdnet.com/1220/rv_lightwave.html) Mac Publishing 1998年5月25日
-27. [Products: Particles Storm](http://web.archive.org/web/19971222001355/http://dynamic-realities.com/ps_info.htm) Dynamic Realities
+26. [LightWave 3D shines](https://web.archive.org/web/19990219100632/http://macweek.zdnet.com/1220/rv_lightwave.html) Mac Publishing 1998年5月25日
+27. [Products: Particles Storm](https://web.archive.org/web/19971222001355/http://dynamic-realities.com/ps_info.htm) Dynamic Realities
 28. [NewTek Releases LightWave 6.5](http://www.gamasutra.com/view/news/91148/NewTek_Releases_LightWave_65.php) Gamasutra 2000年12月15日
 29. [Cloth Simulation for LightWave 6](http://www.digitalpostproduction.com/Htm/Articles/News/2000/June/ClothSimulationforLightWave6.htm) Digital Post Production 2000年6月21日
 30. [LightWave 7.0b](http://www.digitalanimators.com/2001/11_nov/features/lightwave7review25.htm) DMN 2001年11月11日

@@ -34,6 +34,7 @@ IRCはデータの通信に関する[プロトコル](../Page/プロトコル.md
       - [Empathy](https://ja.wikipedia.org/wiki/Empathy "wikilink")
       - [KSirc](../Page/KSirc.md "wikilink")
       - [Loqui](https://ja.wikipedia.org/wiki/Loqui "wikilink")
+      - [polari](https://ja.wikipedia.org/wiki/polari "wikilink")
   - [Android](../Page/Android.md "wikilink")
       - AiCiA
   - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")

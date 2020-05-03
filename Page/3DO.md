@@ -80,7 +80,7 @@ M2端末は1997年4月から6月の発売とされており、旧来の3DO端末
 
 ## 3DO端末
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:GoldStar_3DO_ALIVE_20011029.jpg "wikilink") 3DO ALIVE\]\] [東芝](../Page/東芝.md "wikilink")や[AT\&T](../Page/AT&T.md "wikilink")などかなり多くの企業が3DO端末の発売に意欲を示した。しかし3DO端末を発売したのは、最終的には松下電器（Panasonic）、三洋電機（Sanyo）、[金星電子](../Page/LGエレクトロニクス.md "wikilink")（Goldstar）の3社だけで、ほかには[クリエイティブ・テクノロジー](https://ja.wikipedia.org/wiki/クリエイティブ・テクノロジー "wikilink")がPCカードの形で販売を行ったに留まっている。北米市場・日本市場ともに、松下電器の機種「3DO REAL」が最もよく知られている。遅れて[サムスン電子](../Page/サムスン電子.md "wikilink")（Samsung）も3DO端末の発売を表明したが、ハードを発売する前に3DOが終息してしまったため、モックアップが公開されたのみである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:3DO-TRY-Console-FL.jpg "wikilink") [東芝](../Page/東芝.md "wikilink")や[AT\&T](../Page/AT&T.md "wikilink")などかなり多くの企業が3DO端末の発売に意欲を示した。しかし3DO端末を発売したのは、最終的には松下電器（Panasonic）、三洋電機（Sanyo）、[金星電子](../Page/LGエレクトロニクス.md "wikilink")（Goldstar）の3社だけで、ほかには[クリエイティブ・テクノロジー](https://ja.wikipedia.org/wiki/クリエイティブ・テクノロジー "wikilink")がPCカードの形で販売を行ったに留まっている。北米市場・日本市場ともに、松下電器の機種「3DO REAL」が最もよく知られている。遅れて[サムスン電子](../Page/サムスン電子.md "wikilink")（Samsung）も3DO端末の発売を表明したが、ハードを発売する前に3DOが終息してしまったため、モックアップが公開されたのみである。
 
   - **Panasonic FZ-1 R.E.A.L. 3DO Interactive Multiplayer** (日本、アジア、北米、ヨーロッパ) — 3DO REAL。最初に登場した3DO端末であり、北米市場で$699.99で販売された。1994年に$399.99に値下げされた。\[1\]
   - **Panasonic FZ-10 R.E.A.L. 3DO Interactive Multiplayer** (日本、北米、ヨーロッパ) – 3DO REAL II。1995年発売。FZ-1の後継機として、より低価格化、スリム化、軽量化がなされた製品。 トップローディングCDトレイ、内部メモリマネージャーが付いており、[LED](https://ja.wikipedia.org/wiki/LED "wikilink")とコントローラ接続端子の位置が変更されている。コントローラもFZ-1より軽量化・小型化されており、ヘッドホン出力端子は削除された。

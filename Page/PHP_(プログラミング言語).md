@@ -114,13 +114,13 @@ PHPは数多くの[DBMS](https://ja.wikipedia.org/wiki/DBMS "wikilink")を標準
 
 ### Webサーバとの統合
 
-PHPをWebサーバで動作させる方法には、実行ファイル形式 (CGI / [FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink"))、モジュール形式（mod_php / [ISAPI](../Page/ISAPI.md "wikilink") など）がある。 どの方法を利用するか（利用出来るか）はWebサーバにより異なる。 実行ファイル形式によるCGIはほぼ全てのWebサーバに対応しているが、[Apacheで動作させる場合はmod](../Page/Apache_HTTP_Server.md "wikilink")_phpとFastCGI、[IISで動作させる場合はFastCGIとISAPI](../Page/Internet_Information_Services.md "wikilink")、[lighttpd](https://ja.wikipedia.org/wiki/lighttpd "wikilink")や[Nginx](https://ja.wikipedia.org/wiki/Nginx "wikilink")で動作させる場合は[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")が利用可能である。
+PHPをWebサーバで動作させる方法には、実行ファイル形式 (CGI / [FastCGI](../Page/FastCGI.md "wikilink"))、モジュール形式（mod_php / [ISAPI](../Page/ISAPI.md "wikilink") など）がある。 どの方法を利用するか（利用出来るか）はWebサーバにより異なる。 実行ファイル形式によるCGIはほぼ全てのWebサーバに対応しているが、[Apacheで動作させる場合はmod](../Page/Apache_HTTP_Server.md "wikilink")_phpとFastCGI、[IISで動作させる場合はFastCGIとISAPI](../Page/Internet_Information_Services.md "wikilink")、[lighttpd](https://ja.wikipedia.org/wiki/lighttpd "wikilink")や[Nginx](https://ja.wikipedia.org/wiki/Nginx "wikilink")で動作させる場合は[FastCGI](../Page/FastCGI.md "wikilink")が利用可能である。
 
 このほかにも、PHPに標準で実装されているWebサーバ用[APIは多い](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。以下に一覧を挙げる。
 
 <div style="columns: 24em 4; column-rule: 2px solid #eee;">
 
-  - [CGI](../Page/Common_Gateway_Interface.md "wikilink") / [FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")
+  - [CGI](../Page/Common_Gateway_Interface.md "wikilink") / [FastCGI](../Page/FastCGI.md "wikilink")
 
       - FastCGIについては、php-cgiプログラムとFastCGI Process Manager (FPM)の2種類が用意されている。
 
@@ -149,7 +149,7 @@ PHPをWebサーバで動作させる方法には、実行ファイル形式 (CGI
 
 </div>
 
-とくに、HTTPリクエストの度にプロセスを起動させないインタフェース（Apacheとmod_phpの組み合わせ、または[lighttpd](https://ja.wikipedia.org/wiki/lighttpd "wikilink")などの[FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink")に対応したWebサーバ）での動作が高速である。
+とくに、HTTPリクエストの度にプロセスを起動させないインタフェース（Apacheとmod_phpの組み合わせ、または[lighttpd](https://ja.wikipedia.org/wiki/lighttpd "wikilink")などの[FastCGI](../Page/FastCGI.md "wikilink")に対応したWebサーバ）での動作が高速である。
 
 ### その他の処理系
 

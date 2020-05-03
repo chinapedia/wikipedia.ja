@@ -434,7 +434,7 @@ X11R7.0</p></td>
   - [The X-Windows Disaster](http://www.art.net/~hopkins/Don/unix-haters/x-windows/disaster.html) *UNIX-HATERS Handbook*
   - Robert W. Scheifler and James Gettys: *X Window System: Core and extension protocols: X version 11, releases 6 and 6.1*, Digital Press 1996, ISBN 1-55558-148-X
   - [The Evolution of the X Server Architecture](http://keithp.com/~keithp/talks/Xarchitecture/Talk.htm) キース・パッカード、1999年
-  - [The means to an X for Linux: an interview with David Dawes from XFree86.org](http://web.archive.org/web/20060916213448/http://www.cat.org.au/maffew/cat/xfree-dawes.html) Matthew Arnison, CAT TV, June 1999
+  - [The means to an X for Linux: an interview with David Dawes from XFree86.org](https://web.archive.org/web/20060916213448/http://www.cat.org.au/maffew/cat/xfree-dawes.html) Matthew Arnison, CAT TV, June 1999
   - [Lessons Learned about Open Source](http://www.usenix.org/publications/library/proceedings/usenix2000/invitedtalks/gettys_html/Talk.htm) Jim Gettys, [USENIX](../Page/USENIX.md "wikilink") 2000 での X の歴史に関する講演資料
   - [On the Thesis that X is Big/Bloated/Obsolete and Should Be Replaced](http://cbbrowne.com/info/xbloat.html) Christopher B. Browne
   - [Open Source Desktop Technology Road Map](http://freedesktop.org/~jg/roadmap.html) Jim Gettys, [2003年](../Page/2003年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")

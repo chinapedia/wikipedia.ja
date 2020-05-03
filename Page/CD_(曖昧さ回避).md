@@ -15,7 +15,7 @@
   - [円偏光二色性](../Page/円偏光二色性.md "wikilink") (circular dichroism)
   - [CD分類](../Page/CD分類.md "wikilink") (cluster of differentiation) - [モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")の分類
   - [ジュネーブ軍縮会議](../Page/ジュネーブ軍縮会議.md "wikilink") (Conference on Disarmament)
-  - [継続的デリバリー](https://ja.wikipedia.org/wiki/継続的デリバリー "wikilink") (Continuous Delivery)
+  - [継続的デリバリー](../Page/継続的デリバリー.md "wikilink") (Continuous Delivery)
   - [継続的デプロイ](https://ja.wikipedia.org/wiki/継続的デプロイ "wikilink") (Continuous Deployment)
   - [掃天星表](https://ja.wikipedia.org/wiki/掃天星表 "wikilink")のうち、コルドバ掃天星表（Cordoba Durchmusterung、CoDとも）、ケープ写真掃天星表（Cape Photographic Durchmusterung、CPとも）の略称。
   - [クリエイティブ・ディレクター](https://ja.wikipedia.org/wiki/クリエイティブ・ディレクター "wikilink")（creative director）

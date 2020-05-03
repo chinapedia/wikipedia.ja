@@ -3,6 +3,8 @@
 
 [リンク=<https://en.wikipedia.org/wiki/File:Web_Page.png>](https://ja.wikipedia.org/wiki/File:Web_Page.png "fig:リンク=https://en.wikipedia.org/wiki/File:Web_Page.png") [リンク=<https://en.wikipedia.org/wiki/File:Web_Index.svg>](https://ja.wikipedia.org/wiki/File:Web_Index.svg "fig:リンク=https://en.wikipedia.org/wiki/File:Web_Index.svg") （**ワールド・ワイド・ウェブ**、略名：**WWW**）とは、[インターネット](../Page/インターネット.md "wikilink")上で提供されている[ハイパーテキスト](../Page/ハイパーテキスト.md "wikilink")システムである。、**ウェブ**、（ダブリュー スリー）\[1\]とも呼ばれる。俗には「インターネット」という表現がワールド・ワイド・ウェブを指す場合もある。情報提供を担う者は[ウェブサーバを公開し](../Page/Webサーバ.md "wikilink")、一般利用者は[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を介して[ウェブサーバにある情報を閲覧するようなシステムが基本である](../Page/Webサーバ.md "wikilink")。
 
+上記の逆の俗語として、インターネットそのものを示す言葉としてウェブという言葉が使われる。[Web会議](https://ja.wikipedia.org/wiki/Web会議 "wikilink")など必ずしもWeb技術が使われていないがインターネット経由で行われる物などがある。
+
 ## 概要
 
 [thumbの一例でもある](https://ja.wikipedia.org/wiki/ファイル:WorldWideWebAroundWikipedia.png "wikilink")。\]\]

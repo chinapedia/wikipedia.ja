@@ -43,7 +43,7 @@ Bomis.comは2010年頃に閲覧不能となった\[7\]。
 
 1.  [インターネット・アーカイブ](https://ja.wikipedia.org/wiki/インターネット・アーカイブ "wikilink")に残っているbomis.comのアーカイブは[2010年2月24日付](https://web.archive.org/web/20100224110713/http://www.bomis.com/)が最後となっている。同じ[URLで次に記録が残っているのは](../Page/Uniform_Resource_Locator.md "wikilink")[2013年8月15日付のアーカイブ](https://web.archive.org/web/20130815153925/http://www.bomis.com/)だが、表示されるのはbomis.comのページではなく、[PetaBoxという](https://ja.wikipedia.org/wiki/:en:PetaBox "wikilink")[レンタルサーバ](https://ja.wikipedia.org/wiki/レンタルサーバ "wikilink")会社のウェルカムメッセージである。
 2.
-3.  [ドメイン名の登録情報](http://www.whois.sc/nekkid.info) および [アーカイブされたページ](http://web.archive.org/web/*/www.nekkid.info/) を参照。
+3.  [ドメイン名の登録情報](http://www.whois.sc/nekkid.info) および [アーカイブされたページ](https://web.archive.org/web/*/www.nekkid.info/) を参照。
 4.  このサイトはBomis.comで宣伝されていた。2006年3月現在、premium.bomis.comと同じIPアドレスを用いており、[ネームサーバ](https://ja.wikipedia.org/wiki/ネームサーバ "wikilink")としてbomis.comを使用している。
 5.
 6.

@@ -1,7 +1,7 @@
 > この記事は[OSI参照モデル](https://ja.wikipedia.org/wiki/OSI参照モデル)から翻訳されています。
 
 
-**OSI参照モデル**（OSIさんしょうモデル、）は、[コンピュータ](../Page/コンピュータ.md "wikilink")の持つべき[通信](../Page/通信.md "wikilink")機能を[階層構造](../Page/階層構造.md "wikilink")に分割した[モデルである](../Page/モデル_\(自然科学\).md "wikilink")。[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")(ISO)によって策定された。 **OSI基本参照モデル**、**OSIモデル**などとも呼ばれ、通信機能（[通信プロトコル](../Page/通信プロトコル.md "wikilink")）を7つの階層に分けて定義している。
+**OSI参照モデル**（OSIさんしょうモデル、）は、OSIにおいて「[コンピュータ](../Page/コンピュータ.md "wikilink")の持つべき」だとされた、通信機能を階層構造に分割したモデルである。[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")(ISO)によって策定された。2020年4月現在広く使われているインターネットがこれとは大幅に違っている[DARPAモデル](https://ja.wikipedia.org/wiki/DARPAモデル "wikilink")であるように、一般論としてこれがコンピュータの持つべきモデルというわけではない。**OSI基本参照モデル**、**OSIモデル**などとも呼ばれ、通信機能（[通信プロトコル](../Page/通信プロトコル.md "wikilink")）を7つの階層に分けて定義している。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 [OSI-model-Communication.svg](https://ja.wikipedia.org/wiki/File:OSI-model-Communication.svg "fig:OSI-model-Communication.svg") OSI参照モデルは、[1977年](../Page/1977年.md "wikilink")から[1984年](../Page/1984年.md "wikilink")にかけて定義された[OSIのために策定されたが](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink")、OSI自体は普及せずに、OSI参照モデルだけがネットワークの基本モデルとして広く参照されるようになった。 OSI参照モデルはISO/IEC 7498として規格化され、後に[ITU-T](../Page/ITU-T.md "wikilink")ではX.200、[JISではJIS](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink") X5003として、同一内容を定義している。
 
-ただし、OSI参照モデルは、本来はOSI準拠製品用の参照モデルであり、*OSI以外の通信プロトコルはOSI参照モデルに準拠して作られた訳ではない*。 例えばいくつかの教科書では、OSIの7階層を、[SNAの](../Page/Systems_Network_Architecture.md "wikilink")7階層や、[TCP/IPなどを含む](../Page/インターネット・プロトコル・スイート.md "wikilink")[DARPAモデル](https://ja.wikipedia.org/wiki/DARPAモデル "wikilink")の4階層と対応付けして説明しているが、これらは全て理解を助けるための参考資料である。 厳密にはそれぞれ各層の定義・範囲・役割なども異なり、個々のプロトコルをどの層に位置づけるかも著者により異なる。なお[IETFは](../Page/Internet_Engineering_Task_Force.md "wikilink")、[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")と構造の開発はOSIに準拠する意図はないと述べている。
+なお、いくつかの教科書や、以下の「[\#例](https://ja.wikipedia.org/wiki/#例 "wikilink")」の節で「理解を助けるための参考資料」などとして、[SNAの](../Page/Systems_Network_Architecture.md "wikilink")7階層や、[TCP/IPの](../Page/インターネット・プロトコル・スイート.md "wikilink")[DARPAモデル](https://ja.wikipedia.org/wiki/DARPAモデル "wikilink")に沿っているプロトコルなどを、このOSIのモデルに対応付けした表などが見られるが、[IETFなどが](../Page/Internet_Engineering_Task_Force.md "wikilink")[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")と構造の開発はOSIに準拠する意図はないとしているように、そういった対応付けはたいてい公式には存在していないものである。
 
 ### レイヤー構成
 
@@ -66,8 +66,6 @@ ISO（国際標準化機構）の情報処理システム技術委員会は[1977
 ## TCP/IPとOSI参照モデル
 
 [TCP/IPの基本仕様は](../Page/インターネット・プロトコル・スイート.md "wikilink")[1982年](../Page/1982年.md "wikilink")頃にはほぼ固まっており、OSI参照モデルは[1984年](../Page/1984年.md "wikilink")に完成した。当初の予定ではOSI参照モデルを基に、準拠した通信機器やソフトウェアが開発・製品化していくはずであったが、TCP/IPが[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代中ごろから急速に普及したため、OSI準拠製品は普及しなかった。
-
-OSI参照モデルはネットワークの基本として残り、互いを補い合う形に落ち着いた。
 
 ## 回線速度と通信速度
 

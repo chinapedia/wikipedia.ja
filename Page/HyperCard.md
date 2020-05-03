@@ -30,7 +30,7 @@
 
 HyperCardは非常に優れたソフトウェアである。そのため多数の類似品が生まれた。また現在の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")では言語体系がHyperTalkに似た[AppleScript](../Page/AppleScript.md "wikilink")が開発環境の一つになっているが、用途がオーサリングではなくmacOSのバッチ処理が主体であり、大きく異なっている。そのためHyperCardの復活を望む声は原作者のアトキンソンを始め絶えることはない。
 
-  - [SuperCard](https://ja.wikipedia.org/wiki/SuperCard "wikilink")
+  - [SuperCard](../Page/SuperCard.md "wikilink")
   - [Serf](https://ja.wikipedia.org/wiki/Serf "wikilink")
   - [TownsGEAR](../Page/TownsGEAR.md "wikilink")
   - [UserLand Frontier](https://ja.wikipedia.org/wiki/UserLand_Frontier "wikilink")

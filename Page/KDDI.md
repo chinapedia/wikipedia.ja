@@ -42,7 +42,7 @@
 
 ## 沿革
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Telecom_history_in_Japan.png "wikilink") 現在のKDDIは2000年10月1日に、
+[thumb](https://ja.wikipedia.org/wiki/画像:Telecom_history_in_Japan_2019.png "wikilink") 現在のKDDIは2000年10月1日に、
 
   - 特殊会社として過去に（1986年まで）国際通信を独占的に行い、特殊会社で無くなった後に[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が経営参加していた[ケイディディ](https://ja.wikipedia.org/wiki/ケイディディ "wikilink")（旧 [国際電信電話](../Page/国際電信電話.md "wikilink")/KDD+旧[日本高速通信](../Page/日本高速通信.md "wikilink")/TWJ）
   - [京セラ](../Page/京セラ.md "wikilink")主体の新電電で国内長距離通信を主たる事業としていた[第二電電](../Page/第二電電.md "wikilink") (DDI)
@@ -295,6 +295,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
   - [SATCH](https://ja.wikipedia.org/wiki/SATCH "wikilink")（同社が2011年12月15日に発足した[AR事業のブランド](https://ja.wikipedia.org/wiki/拡張現実感 "wikilink")\[35\]）
   - [KKBOX](https://ja.wikipedia.org/wiki/KKBOX "wikilink")（台湾の音楽配信大手企業にしてKDDIの連結子会社）
   - [auでんき](https://ja.wikipedia.org/wiki/auでんき "wikilink")（[電力自由化](../Page/電力自由化.md "wikilink")により[新電力](https://ja.wikipedia.org/wiki/新電力 "wikilink")として参入した一般家庭向け電力事業）
+  - [TELASA](https://ja.wikipedia.org/wiki/TELASA "wikilink")（旧：ビデオパス。KDDIと[テレビ朝日](../Page/テレビ朝日.md "wikilink")の合弁会社であるTELASAが提供する動画配信サービス）
 
 ## かつて運営した事業
 
@@ -338,11 +339,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 
 ### 社員自殺と残業代未払い問題
 
-2019年3月に、社員4613人に対して未払いの残業代が計約6億7千万円あったと発表。入社2年目の20代社員の自殺により発覚\[46\]。
-
-### ブラック企業大賞ノミネート
-
-「日本を代表する企業が自らの不祥事を長年にわたり隠蔽してきた」として2019年の第8回[ブラック企業大賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")にノミネートされた。\[47\]
+2019年3月に、社員4613人に対して未払いの残業代が計約6億7千万円あったと発表した。入社2年目の20代社員の自殺により判明した\[46\]。この問題に関連して、「日本を代表する企業が自らの不祥事を長年にわたり隠蔽してきた」として2019年の第8回[ブラック企業大賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")にノミネートされた\[47\]。
 
 ## イメージキャラクター
 
@@ -376,25 +373,25 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 
 ### テレビ番組：全国ネットワーク番組
 
-2019年10月期において、レギュラーで提供する全国ネットワーク番組は以下13番組。大部分がバラエティ、もしくは音楽番組である。提供クレジットは基本「KDDI」。レギュラー提供以外の提供クレジットは基本[PT枠](../Page/パーティシペーション.md "wikilink")。スポーツ関連番組など、一部「au」であるものが確認される[6](http://www.kddi.com/corporate/cm/sponsor)。
+2020年4月期において、レギュラーで提供する全国ネットワーク番組は以下13番組。大部分がバラエティ、もしくは音楽番組である。提供クレジットは基本「KDDI」。レギュラー提供以外の提供クレジットは基本[PT枠](../Page/パーティシペーション.md "wikilink")。スポーツ関連番組など、一部「au」であるものが確認される[6](http://www.kddi.com/corporate/cm/sponsor)。
 
 競合社も一緒に提供しているものは●印で表記する。
 
-| 放送網    | 番組                                                                                                        | 時間           | 期間                | ソフトバンク提供 | ドコモ提供                                |
-| ------ | --------------------------------------------------------------------------------------------------------- | ------------ | ----------------- | -------- | ------------------------------------ |
-| 日本テレビ系 | [人生が変わる1分間の深イイ話](../Page/人生が変わる1分間の深イイ話.md "wikilink")                                                    | 30秒          | 2013年4月 -         |          |                                      |
-| 日本テレビ系 | [しゃべくり007](../Page/しゃべくり007.md "wikilink")                                                                | 30秒          | 2009年10月 -        | ●        |                                      |
-| 日本テレビ系 | \[\[踊る\!さんま御殿                                                                                             | |踊る\!さんま御殿   | \]\]              | 30秒      | 2013年10月 -                           |
-| 日本テレビ系 | [金曜ロードSHOW\!](../Page/金曜ロードSHOW!.md "wikilink")                                                           | 30秒          | 2012年4月 -         | ●        |                                      |
-| 日本テレビ系 | [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")                                         | 30秒          | 2018年10月 -        | \[48\]   |                                      |
-| 日本テレビ系 | \[\[ザ\!鉄腕\!DASH                                                                                           | |ザ\!鉄腕\!DASH | \]\]              | 30秒      | 2017年4月 -2020年3月(2007〜8年ごろにも提供していた。) |
-| TBS系   | [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink")                                         | 30秒          | 2015年4月 -         | ●        | ●                                    |
-| TBS系   | [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")                                         | 30秒          | 2016年10月 -        | ●        |                                      |
-| フジテレビ系 | [土曜プレミアム](../Page/土曜プレミアム.md "wikilink")                                                                  | 30秒          | 2017年4月 -         | ●        | ●                                    |
-| テレビ朝日系 | [10万円でできるかな](https://ja.wikipedia.org/wiki/10万円でできるかな "wikilink")                                         | 30秒          | 2019年10月 -2020年3月 |          |                                      |
-| テレビ朝日系 | [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")                                     | 30秒          | 不明                | ●        |                                      |
-| テレビ東京系 | [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")                                                            | 30秒          | 2014年4月 -         |          | ●                                    |
-| テレビ東京系 | [有吉ぃぃeeeee\!そうだ\!今からお前んチでゲームしない?](https://ja.wikipedia.org/wiki/有吉ぃぃeeeee!そうだ!今からお前んチでゲームしない? "wikilink") | 30秒          | 2018年10月 -        | ●        |                                      |
+| 放送網    | 番組                                                                                                        | 時間          | 期間         | ソフトバンク提供 | ドコモ提供      |
+| ------ | --------------------------------------------------------------------------------------------------------- | ----------- | ---------- | -------- | ---------- |
+| 日本テレビ系 | [しゃべくり007](../Page/しゃべくり007.md "wikilink")                                                                | 30秒         | 2009年10月 - | ●        |            |
+| 日本テレビ系 | \[\[踊る\!さんま御殿                                                                                             | |踊る\!さんま御殿  | \]\]       | 30秒      | 2013年10月 - |
+| 日本テレビ系 | [金曜ロードSHOW\!](../Page/金曜ロードSHOW!.md "wikilink")                                                           | 30秒         | 2012年4月 -  | ●        |            |
+| 日本テレビ系 | [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")                                         | 30秒         | 2018年10月 - | \[48\]   |            |
+| TBS系   | [CDTVライブ\!ライブ\!](../Page/COUNT_DOWN_TV.md "wikilink")                                                     | 30秒         | 2020年4月 -  | \[49\]   |            |
+| TBS系   | [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink")                                         | 30秒         | 2015年4月 -  | ●        | ●          |
+| TBS系   | [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")                                         | 30秒         | 2016年10月 - | ●        |            |
+| フジテレビ系 | [土曜プレミアム](../Page/土曜プレミアム.md "wikilink")                                                                  | 30秒         | 2017年4月 -  | ●        | ●          |
+| テレビ朝日系 | \[\[帰れマンデー見っけ隊                                                                                            | |帰れマンデー見っけ隊 | \]\]       | 30秒      | 2020年4月 -  |
+| テレビ朝日系 | [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")                                     | 30秒         | 不明         | ●        |            |
+| テレビ朝日系 | [ナニコレ珍百景](https://ja.wikipedia.org/wiki/ナニコレ珍百景 "wikilink")                                               | 30秒         | 2020年4月 -  |          |            |
+| テレビ東京系 | [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")                                                            | 30秒         | 2014年4月 -  |          | ●          |
+| テレビ東京系 | [有吉ぃぃeeeee\!そうだ\!今からお前んチでゲームしない?](https://ja.wikipedia.org/wiki/有吉ぃぃeeeee!そうだ!今からお前んチでゲームしない? "wikilink") | 30秒         | 2018年10月 - | ●        |            |
 
 ### テレビ番組：ローカル番組
 
@@ -436,15 +433,15 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
   - [かぐや姫の物語](https://ja.wikipedia.org/wiki/かぐや姫の物語 "wikilink")（2013年[11月23日](../Page/11月23日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している）
   - [永遠の0](https://ja.wikipedia.org/wiki/永遠の0 "wikilink")（2013年[12月21日](../Page/12月21日.md "wikilink")に公開された劇場用映画で同社はこの作品に制作協力している）
   - [劇場版 HUNTER×HUNTER -The LAST MISSION-](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_-The_LAST_MISSION- "wikilink")（2013年[12月27日](../Page/12月27日.md "wikilink")に公開された劇場用アニメーション映画）
-  - [Hello\! Project ひなフェス2014 〜Fullコース〜 supported by au](../Page/ハロー!プロジェクト.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")展示ホールにて開催された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")\[49\]のコンサートで同社はこのコンサートに特別協賛している）
-  - [思い出のマーニー](https://ja.wikipedia.org/wiki/思い出のマーニー "wikilink")（2014年[7月19日](../Page/7月19日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している\[50\]）
+  - [Hello\! Project ひなフェス2014 〜Fullコース〜 supported by au](../Page/ハロー!プロジェクト.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")展示ホールにて開催された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")\[50\]のコンサートで同社はこのコンサートに特別協賛している）
+  - [思い出のマーニー](https://ja.wikipedia.org/wiki/思い出のマーニー "wikilink")（2014年[7月19日](../Page/7月19日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している\[51\]）
   - [ルパン三世 (2014年の映画)](https://ja.wikipedia.org/wiki/ルパン三世_\(2014年の映画\) "wikilink")（2014年8月30日に公開された劇場用映画で同社はこの作品に制作協力している）
   - [アオハライド](https://ja.wikipedia.org/wiki/アオハライド#映画 "wikilink")（2014年12月13日に公開された劇場用映画）
   - [映画 妖怪ウォッチ 誕生の秘密だニャン\!](https://ja.wikipedia.org/wiki/妖怪ウォッチ_\(アニメ\)#劇場版 "wikilink")（2014年12月20日に公開された劇場用アニメーション映画で同社はこの作品に制作協力している）
   - [ストロボ・エッジ](https://ja.wikipedia.org/wiki/ストロボ・エッジ#映画 "wikilink")（2015年3月14日に公開された劇場用映画）
   - [orange](https://ja.wikipedia.org/wiki/orange_\(漫画\)#映画 "wikilink")（2015年12月12日に公開された劇場用映画）
   - [カゲロウデイズ -in a day's-](https://ja.wikipedia.org/wiki/カゲロウプロジェクト#映画 "wikilink") (2016年11月4日から公開された劇場用アニメーション映画で製作委員会として参加している)
-  - [au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink") × [HELLO\! PROJECT 20th](../Page/ハロー!プロジェクト.md "wikilink")（2018年3月31日 - 4月1日にパシフィコ横浜にて開催された[「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう2018」内に出展された](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")「**au × HELLO\! PROJECT 20th 音のVR**」で同社は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18（2018年当時の名義）、および[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")を筆頭とする[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")が所属する大手芸能プロダクションの[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")と共同制作している\[51\]\[52\]\[53\]\[54\]）
+  - [au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink") × [HELLO\! PROJECT 20th](../Page/ハロー!プロジェクト.md "wikilink")（2018年3月31日 - 4月1日にパシフィコ横浜にて開催された[「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう2018」内に出展された](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")「**au × HELLO\! PROJECT 20th 音のVR**」で同社は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18（2018年当時の名義）、および[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")を筆頭とする[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")が所属する大手芸能プロダクションの[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")と共同制作している\[52\]\[53\]\[54\]\[55\]）
 
 ## ギャラリー
 
@@ -470,8 +467,8 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 [Category:KDDI](https://ja.wikipedia.org/wiki/Category:KDDI "wikilink") [Category:有線役務利用放送事業者](https://ja.wikipedia.org/wiki/Category:有線役務利用放送事業者 "wikilink") [Category:災害対策基本法指定公共機関](https://ja.wikipedia.org/wiki/Category:災害対策基本法指定公共機関 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1993年上場の企業](https://ja.wikipedia.org/wiki/Category:1993年上場の企業 "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:日経平均株価](https://ja.wikipedia.org/wiki/Category:日経平均株価 "wikilink") [Category:1984年設立の企業](https://ja.wikipedia.org/wiki/Category:1984年設立の企業 "wikilink") [Category:トヨタ自動車](https://ja.wikipedia.org/wiki/Category:トヨタ自動車 "wikilink") [Category:京セラ](https://ja.wikipedia.org/wiki/Category:京セラ "wikilink") [Category:飯田橋](https://ja.wikipedia.org/wiki/Category:飯田橋 "wikilink") [Category:新宿](https://ja.wikipedia.org/wiki/Category:新宿 "wikilink")
 
 1.  [沿革 KDDIについて](http://www.kddi.com/corporate/kddi/history/) - KDDI株式会社、2016年1月7日閲覧。
-2.  [合併契約について](http://web.archive.org/web/20020222000514/http://www.kddi.com/release/2000/0405/index.html) - 第二電電株式会社 KDD株式会社 日本移動通信株式会社 2000年4月5日ニュースリリース（2002年2月22日時点での[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）、2016年1月7日閲覧。
-3.  [合併認可申請について〔別紙〕](http://web.archive.org/web/20020311170630/http://www.kddi.com/release/2000/0809/index2.html) - 第二電電株式会社 KDD株式会社 日本移動通信株式会社 2000年8月9日ニュースリリース（2002年3月11日時点でのインターネットアーカイブ）、2016年1月7日閲覧。
+2.  [合併契約について](https://web.archive.org/web/20020222000514/http://www.kddi.com/release/2000/0405/index.html) - 第二電電株式会社 KDD株式会社 日本移動通信株式会社 2000年4月5日ニュースリリース（2002年2月22日時点での[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）、2016年1月7日閲覧。
+3.  [合併認可申請について〔別紙〕](https://web.archive.org/web/20020311170630/http://www.kddi.com/release/2000/0809/index2.html) - 第二電電株式会社 KDD株式会社 日本移動通信株式会社 2000年8月9日ニュースリリース（2002年3月11日時点でのインターネットアーカイブ）、2016年1月7日閲覧。
 4.  [公正取引委員会、第二電電㈱，ケイディディ(株)及び日本移動通信(株)の合併（新会社名 KDDI㈱）](http://www.jftc.go.jp/dk/kiketsu/jirei/h12mokuji/h12jirei10.html)
 5.  対外的表記は2001年4月より「**KDDI株式会社**」を使用していたが、当時はアルファベットが[登記上使用できなかったためこの表記となった](../Page/商業登記.md "wikilink")。詳しくは[商号\#商号登記](https://ja.wikipedia.org/wiki/商号#商号登記 "wikilink")の項目を参照。
 6.  「業種・社名変更会社一覧」、『[会社四季報](https://ja.wikipedia.org/wiki/会社四季報 "wikilink")』2002年1集新春号、[東洋経済新報社](../Page/東洋経済新報社.md "wikilink")、2001年、43頁。2016年1月23日閲覧。
@@ -517,9 +514,10 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 46.
 47.
 48. 2019年3月までは●。
-49. [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'14（2014年当時の名義）、[Berryz工房](../Page/Berryz工房.md "wikilink")（2015年3月活動停止）、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")、[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（現・[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）、[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")等
-50. [映画「思い出のマーニー」公式ホームページ](http://marnie.jp/index.html)
-51. [au×ハロー\! プロジェクト 推しメンの声が際立つ\!「音のVR」による新音楽視聴体験コンテンツを制作](http://news.kddi.com/kddi/corporate/newsrelease/2018/03/14/3010.html) - KDDI 2018年3月14日（2018年3月23日閲覧）
-52. [au×ハロー！プロジェクト推しメンの声が際立つ！モーニング娘。‘18、アンジュルムとコラボした「音のVR」の新音楽視聴体験コンテンツがイベントで体験可能に ～KDDI直営店、HMVでも体験できる！～](https://www.au.com/information/topic/mobile/2018-032/) - KDDI 2018年3月30日(2018年3月31日閲覧)
-53. [推しメンの歌声もズームできる「音のVR」、モーニング娘。'18とKDDIがコラボVR動画（ケータイWatch）](https://k-tai.watch.impress.co.jp/docs/news/1111546.html) - [インプレス](../Page/インプレス.md "wikilink") 2018年3月14日（2018年3月23日閲覧）
-54. [TIME & SPACE by KDDI 通信のチカラ『モーニング娘。’18 「音のVR」撮影現場を独占レポ 音にズームできる新視聴体験とは』](https://time-space.kddi.com/kddi-now/tsushin-chikara/20180330/2287) - KDDI 2018年3月30日(2018年3月31日閲覧)
+49. 初回のみスポンサー更新前の放送だったため、当社ではなく、前番組までのスポンサーだったソフトバンクが提供。
+50. [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'14（2014年当時の名義）、[Berryz工房](../Page/Berryz工房.md "wikilink")（2015年3月活動停止）、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")、[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（現・[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）、[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")等
+51. [映画「思い出のマーニー」公式ホームページ](http://marnie.jp/index.html)
+52. [au×ハロー\! プロジェクト 推しメンの声が際立つ\!「音のVR」による新音楽視聴体験コンテンツを制作](http://news.kddi.com/kddi/corporate/newsrelease/2018/03/14/3010.html) - KDDI 2018年3月14日（2018年3月23日閲覧）
+53. [au×ハロー！プロジェクト推しメンの声が際立つ！モーニング娘。‘18、アンジュルムとコラボした「音のVR」の新音楽視聴体験コンテンツがイベントで体験可能に ～KDDI直営店、HMVでも体験できる！～](https://www.au.com/information/topic/mobile/2018-032/) - KDDI 2018年3月30日(2018年3月31日閲覧)
+54. [推しメンの歌声もズームできる「音のVR」、モーニング娘。'18とKDDIがコラボVR動画（ケータイWatch）](https://k-tai.watch.impress.co.jp/docs/news/1111546.html) - [インプレス](../Page/インプレス.md "wikilink") 2018年3月14日（2018年3月23日閲覧）
+55. [TIME & SPACE by KDDI 通信のチカラ『モーニング娘。’18 「音のVR」撮影現場を独占レポ 音にズームできる新視聴体験とは』](https://time-space.kddi.com/kddi-now/tsushin-chikara/20180330/2287) - KDDI 2018年3月30日(2018年3月31日閲覧)

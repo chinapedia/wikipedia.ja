@@ -77,7 +77,7 @@
 
 ### 発売体制
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Kansai5000.jpg "wikilink") 鉄道の駅においては駅窓口及び[自動券売機](../Page/自動券売機.md "wikilink")での発売、近鉄などでは駅構内にスルッとKANSAIだけを発売する専用の自動券売機を設置したり、[大阪線](https://ja.wikipedia.org/wiki/近鉄大阪線 "wikilink")（[大和八木以西](../Page/大和八木駅.md "wikilink")）、[橿原線](../Page/近鉄橿原線.md "wikilink")、[京都線等の特急車内で車掌が販売を行ったり](../Page/近鉄京都線.md "wikilink")、阪急に至っては主要駅の構内に専用のブースを設け、駅係員が自ら販売するなど積極的に販売活動を行っていた。また各社の一部の駅売店でも販売されていた。
+[thumb](https://ja.wikipedia.org/wiki/画像:Kansai5000.jpg "wikilink") 鉄道の駅においては駅窓口及び[自動券売機](../Page/自動券売機.md "wikilink")での発売、近鉄などでは駅構内にスルッとKANSAIだけを発売する専用の自動券売機を設置したり、[大阪線](../Page/近鉄大阪線.md "wikilink")（[大和八木以西](../Page/大和八木駅.md "wikilink")）、[橿原線](../Page/近鉄橿原線.md "wikilink")、[京都線等の特急車内で車掌が販売を行ったり](../Page/近鉄京都線.md "wikilink")、阪急に至っては主要駅の構内に専用のブースを設け、駅係員が自ら販売するなど積極的に販売活動を行っていた。また各社の一部の駅売店でも販売されていた。
 
 しかし、末期には後述の偽造カードの発覚や、IC乗車カード（PiTaPa・[ICOCA](../Page/ICOCA.md "wikilink")（京阪・近鉄の2社（いずれも一部路線・区間を除く）での発売））の普及により、発売箇所を自動券売機のみに縮小する社局が出た。
 
@@ -793,7 +793,7 @@
 
 [Category:乗車カード発行団体](https://ja.wikipedia.org/wiki/Category:乗車カード発行団体 "wikilink") [Category:大阪市中央区の企業](https://ja.wikipedia.org/wiki/Category:大阪市中央区の企業 "wikilink")
 
-1.  会社年設立時の商号は「株式会社スルッとカンサイ」であったが、商業登記規則改正後に商号変更を行った[1](http://www.hanshin.co.jp/company/about/history05.html)([Internet Archive](http://web.archive.org/web/*/http://www.hanshin.co.jp/company/about/history05.html))。
+1.  会社年設立時の商号は「株式会社スルッとカンサイ」であったが、商業登記規則改正後に商号変更を行った[1](http://www.hanshin.co.jp/company/about/history05.html)([Internet Archive](https://web.archive.org/web/*/http://www.hanshin.co.jp/company/about/history05.html))。
 2.  なお、Bトレインショーティーはパッケージや一部モールドを変更して後年一般発売されている。
 3.  ただし、[入札](https://ja.wikipedia.org/wiki/入札 "wikilink")によることが要求される公営交通機関はこの一括調達から外れる
 4.  システム上は京阪バス扱い。

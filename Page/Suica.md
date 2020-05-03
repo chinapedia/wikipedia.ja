@@ -348,7 +348,7 @@ JR東日本のエリアはおおむね[東京近郊区間と一致する](https:
 
 :\* [東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")：[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink") - [那須塩原駅](../Page/那須塩原駅.md "wikilink")間
 
-:\* [上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")：[大宮駅](https://ja.wikipedia.org/wiki/大宮駅 "wikilink") - [上毛高原駅](../Page/上毛高原駅.md "wikilink")間
+:\* [上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")：[大宮駅](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink") - [上毛高原駅](../Page/上毛高原駅.md "wikilink")間
 
 :\* [北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink")：[高崎駅](https://ja.wikipedia.org/wiki/高崎駅 "wikilink") - [上越妙高駅](../Page/上越妙高駅.md "wikilink")間
 

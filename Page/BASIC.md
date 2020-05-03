@@ -262,6 +262,7 @@ BASICは依然として初心者向けの言語ではあるが、パソコンに
 
 #### 独自系
 
+  - [PureBasic](../Page/PureBasic.md "wikilink") （マルチプラットフォーム、AmigaOS版はオープンソース）
   - [FutureBASIC](https://ja.wikipedia.org/wiki/FutureBASIC "wikilink") （Mac OS、構文はQuickBASIC互換 ）
   - [BCX](https://ja.wikipedia.org/wiki/BCX "wikilink")（GPLv2 + BCX例外ライセンスのオープンソースソフトウェア BASIC → C言語トランスレータでインラインC/[C++](../Page/C++.md "wikilink")およびアセンブリを扱えるなどの特徴を持つ）
   - [UBASIC](https://ja.wikipedia.org/wiki/UBASIC "wikilink") （DOS用フリーウェア 多倍長演算に特化）

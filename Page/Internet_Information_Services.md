@@ -34,7 +34,7 @@
     アプリケーションコンポーネントはユーザーモードに残したまま、送受信を行うコンポーネントはカーネルモードに移された。カーネルモードでもキャッシュを行うなどにより、パフォーマンスが向上した。
     サーバー構成のメタデータは、それまでのバイナリ形式から [XML](../Page/Extensible_Markup_Language.md "wikilink") 形式に変更された。
   - IIS 7.0
-    [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") と [Windows Server 2008](../Page/Microsoft_Windows_Server_2008.md "wikilink") に付属するバージョンである。Windows Vista は Windows Vista Service Pack 1 で Windows Server 2008 と同じ [FastCGI](https://ja.wikipedia.org/wiki/FastCGI "wikilink") に標準で対応したものに変更された。
+    [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") と [Windows Server 2008](../Page/Microsoft_Windows_Server_2008.md "wikilink") に付属するバージョンである。Windows Vista は Windows Vista Service Pack 1 で Windows Server 2008 と同じ [FastCGI](../Page/FastCGI.md "wikilink") に標準で対応したものに変更された。
     IIS の機能のモジュール化が行われた。
     Server Core インストールで IIS の機能を有効化させることができるが、静的 Web サイトのみ対応し、ASP.NET 等の動的 Web サイトを構築できない。
   - IIS 7.5

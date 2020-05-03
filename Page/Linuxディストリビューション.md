@@ -1,7 +1,13 @@
 > この記事は[Linuxディストリビューション](https://ja.wikipedia.org/wiki/Linuxディストリビューション)から翻訳されています。
 
 
-**Linuxディストリビューション**とは、[Linux](../Page/Linux.md "wikilink")を一般利用者が[インストール](../Page/インストール.md "wikilink")したり、利用できる形にまとめ上げたもの（distribution＝配布・流通・頒布形態）。
+**Linuxディストリビューション**は[Linux](../Page/Linux.md "wikilink")カーネルとその他ソフトウェア群を1つにまとめ、利用者が容易に[インストール](../Page/インストール.md "wikilink")・利用できるようにしたものである。
+
+## 概要
+
+[Linux](../Page/Linux.md "wikilink")カーネルは[プロセス](../Page/プロセス.md "wikilink")や[ソケット通信などの機能を提供する](../Page/ソケット_\(BSD\).md "wikilink")。これらは様々なソフトウェアを動作させるうえで基礎となる重要な機能であるが、ユーザーが利用する機能としては非常にプリミティブである。例えばカーネルそのものにはOS起動時のデーモン自動起動機能は存在しないし、[Bash](../Page/Bash.md "wikilink")のようなインタラクティブコンソール機能も存在しない。これらの機能はすべて[Linux](../Page/Linux.md "wikilink")カーネルを利用する個別のソフトウェアによって実現されている。
+
+ユーザーの利便性を高めるためにLinuxカーネルとこれらソフトウェア群を1つのパッケージにしたものがLinuxディストリビューションである。無償・有償様々な[distribution](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")＝配布・流通・頒布形態が存在し、各ディストリビューションはその理念・目的によって[派生し](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")、それぞれ異なるソフトウェアをパッケージに含んでいる。ユーザーはLinuxディストリビューションをインストールするだけでシェル機能やパッケージ管理機能、デスクトップ環境などを利用することができる。
 
 ## コンポーネント
 
@@ -54,41 +60,93 @@
 
   - [Debian GNU/Linux](../Page/Debian.md "wikilink") : 100%[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であることが理念、コミュニティベース。
       - [ARMA aka Omoikane GNU/Linux](https://ja.wikipedia.org/wiki/ARMA_aka_Omoikane_GNU/Linux "wikilink") : [ファイルシステム](../Page/ファイルシステム.md "wikilink")に[XFS](../Page/XFS.md "wikilink")を採用している。
+
+      - :[ロシアの政府機関で使用されているOS](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")。\[2\]
+
+      - [Clonezilla](https://ja.wikipedia.org/wiki/Clonezilla "wikilink") - [ディスクまたは](../Page/補助記憶装置.md "wikilink")[パーティション](../Page/パーティション.md "wikilink")の複製（クローニング）ならびに[イメージ作成](../Page/ディスクドライブ仮想化ソフト.md "wikilink")（イメージング）用。
+
       - [gNewSense](https://ja.wikipedia.org/wiki/gNewSense "wikilink") : [GNU FSDGに適合し](https://ja.wikipedia.org/wiki/GNUプロジェクト#GNU_FSDG "wikilink")、[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")の支援を受ける。[Linux-libre](https://ja.wikipedia.org/wiki/Linux-libre "wikilink")を使用し、ファームウェアのレベルまで100%自由ソフトで構成される。
-      - [Kali Linux](https://ja.wikipedia.org/wiki/Kali_Linux "wikilink") : Debianベースの1DVDタイプ。[ペネトレーションテスト](https://ja.wikipedia.org/wiki/ペネトレーションテスト "wikilink")目的に特化していることが特徴。[BackTrack](https://ja.wikipedia.org/wiki/BackTrack "wikilink")からフォーク。
+
+      - [Kali Linux](https://ja.wikipedia.org/wiki/Kali_Linux "wikilink") : Debianベースの1DVDタイプ。[ペネトレーションテスト](https://ja.wikipedia.org/wiki/ペネトレーションテスト "wikilink")目的に特化していることが特徴。[BackTrack](https://ja.wikipedia.org/wiki/BackTrack "wikilink")から[派生](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")。
+
       - [KANOTIX](https://ja.wikipedia.org/wiki/KANOTIX "wikilink") : DebianベースでCDブート/HDDインストール共可能。
+
       - [KNOPPIX](../Page/KNOPPIX.md "wikilink") : DebianをベースにCDブートで利用できるようにしている。
-      - [MX Linux](../Page/MX_Linux.md "wikilink") : Debianをベースとした中量級のディストリビューション。
-      - [PureOS](https://ja.wikipedia.org/wiki/PureOS "wikilink") : 完全に自由ソフトウェアだけで構成されている、プライバシーとセキュリティ、利便性に重点を置いているGNU/Linuxディストリビューション。
-      - [SLAX](../Page/SLAX.md "wikilink") : CDブートで利用できるようにしている。9.xより前のバージョンではSlackwareをベースにしていた。日本語化された\[<http://hatochan.dyndns.org/slax-ja/index.php>? SLAX-ja\]も存在する。
+
       - [Kona Linux](https://ja.wikipedia.org/wiki/Kona_Linux "wikilink")(Ubuntu Editionを除く): 最初から日本語化されており、LXDEからGNOME、KDE、Cinammonなど、いろいろなデスクトップ環境が選べるのが特徴。
-      - [SteamOS](https://ja.wikipedia.org/wiki/SteamOS "wikilink") : ゲーム配信サービス[Steam](../Page/Steam.md "wikilink")の運営元が開発した[ゲーミングPC用OS](../Page/ゲームパソコン.md "wikilink")。
-      - [Tails](https://ja.wikipedia.org/wiki/Tails_\(オペレーティングシステム\) "wikilink") : Debianベースでプライバシーと匿名性に特化している。[Live CD](../Page/Live_CD.md "wikilink")・[Live USBに対応している](https://ja.wikipedia.org/wiki/Live_USB "wikilink")。
-      - [Ubuntu](../Page/Ubuntu.md "wikilink") : 6ヶ月ごとのリリースと商用サポートを掲げる。デスクトップ環境として[Unityを採用している](https://ja.wikipedia.org/wiki/Unity_\(ユーザインタフェース\) "wikilink")。
-          - [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink") : ユーザーのカスタマイズを前提としたディストリビューション。
-          - [elementary OS](https://ja.wikipedia.org/wiki/elementary_OS "wikilink") : Pantheonという独自のデスクトップ環境を採用している。
-          - [Caramel OS](../Page/Caramel_OS.md "wikilink") : 美味しくて可愛いOS。
-          - [Nusy Linux](https://ja.wikipedia.org/wiki/Nusy_Linux "wikilink") : xfceを採用し、モダンな外観ながらも軽量なディストリビューション。
-          - [Edubuntu](https://ja.wikipedia.org/wiki/Edubuntu "wikilink") : 教育用にカスタマイズされている。
-          - [Elbuntu](https://ja.wikipedia.org/wiki/Elbuntu "wikilink") : [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")として[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")を採用している。
-          - [Gobuntu](https://ja.wikipedia.org/wiki/Gobuntu "wikilink") : [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")のみを利用している。
-          - [Goobuntu](https://ja.wikipedia.org/wiki/Goobuntu "wikilink") : [Google](../Page/Google.md "wikilink")が社内で開発・利用しているとされている。非公開。\[2\]\[3\]
-          - [Kubuntu](../Page/Kubuntu.md "wikilink") : デスクトップ環境として[KDE](../Page/KDE.md "wikilink")を採用している。
-          - [Kona Linux](https://ja.wikipedia.org/wiki/Kona_Linux "wikilink") Ubuntu Edition : 前述のKona LinuxをUbuntuベースに置き換えたもの。
-          - [linuxBean](https://ja.wikipedia.org/wiki/linuxBean "wikilink") : 軽量ながらも初心者向けのディストリビューション。
-          - [Lubuntu](https://ja.wikipedia.org/wiki/Lubuntu "wikilink") : デスクトップ環境として[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")を採用している。
-          - [nUbuntu](https://ja.wikipedia.org/wiki/nUbuntu "wikilink") : セキュリティツールを多数含んでいる。
-          - [Trisquel GNU/Linux](https://ja.wikipedia.org/wiki/Trisquel_GNU/Linux "wikilink") : GNU FSDGに適合し、フリーソフトウェア財団のサーバーで使用される。ファームウェアのレベルまで100%自由ソフトで構成される。
-          - [Ubuntu Christian Edition](https://ja.wikipedia.org/wiki/Ubuntu_Christian_Edition "wikilink") : 聖書全文とURLフィルタリングを搭載している。
-          - [Ubuntu Lite](https://ja.wikipedia.org/wiki/Ubuntu_Lite "wikilink") : [レガシーデバイス](../Page/レガシーデバイス.md "wikilink")を備えた古いコンピュータ用。
-          - [Ubuntu Pico](https://ja.wikipedia.org/wiki/Ubuntu_Pico "wikilink") : [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式の後継。さらに軽く、安定した環境を追い求める。
-          - [Ubuntu Studio](https://ja.wikipedia.org/wiki/Ubuntu_Studio "wikilink") : ハイエンドデスクトップ向け。デジタルコンテンツ制作ツールが多数プリインストールされている。[リアルタイムカーネルのパッチも当てられている](../Page/リアルタイムオペレーティングシステム.md "wikilink")。
-          - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用している。
-          - [zUbuntu](https://ja.wikipedia.org/wiki/zUbuntu "wikilink") : [IBM eServer zSeries](../Page/System_z.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")用。
-          - [Linux Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink") : デザインやソフトウェア環境を改善し、マルチメディア関係のコーデックを充実させている。
-              - [Peppermint](https://ja.wikipedia.org/wiki/Peppermint "wikilink") : [Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")を搭載している軽量のディストリビューション。Webアプリとの連携も強い。
+
+      - [MX Linux](../Page/MX_Linux.md "wikilink") : Debianをベースとした中量級のディストリビューション。
+
+      - [OpenMediaVault](https://ja.wikipedia.org/wiki/OpenMediaVault "wikilink") - [NAS向け](../Page/ネットワークアタッチトストレージ.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")OS。
+
+      - [PureOS](../Page/PureOS.md "wikilink") : 完全に自由ソフトウェアだけで構成されている、プライバシーとセキュリティ、利便性に重点を置いているGNU/Linuxディストリビューション。
+
       - [Raspbian](https://ja.wikipedia.org/wiki/Raspbian "wikilink")：[Raspberry Pi用のdebian](https://ja.wikipedia.org/wiki/Raspberry_Pi "wikilink")。特定の機種用としての配布は、装置が固定しているため使いやすい。Idとパスワードの初期設定が好ましくない。ネットワークに接続する前にrootとID:piのパスワード設定をする必要がある。
-      - [WLinux](https://ja.wikipedia.org/wiki/WLinux "wikilink")\[4\]\[5\]
+
+      - [SLAX](../Page/SLAX.md "wikilink") : CDブートで利用できるようにしている。9.xより前のバージョンではSlackwareをベースにしていた。日本語化された\[<http://hatochan.dyndns.org/slax-ja/index.php>? SLAX-ja\]も存在する。
+
+      - [SteamOS](https://ja.wikipedia.org/wiki/SteamOS "wikilink") : ゲーム配信サービス[Steam](../Page/Steam.md "wikilink")の運営元が開発した[ゲーミングPC用OS](../Page/ゲームパソコン.md "wikilink")。
+
+      - [Tails](https://ja.wikipedia.org/wiki/Tails_\(オペレーティングシステム\) "wikilink") : Debianベースでプライバシーと匿名性に特化している。[Live CD](../Page/Live_CD.md "wikilink")・[Live USBに対応している](https://ja.wikipedia.org/wiki/Live_USB "wikilink")。
+
+      - [Ubuntu](../Page/Ubuntu.md "wikilink") : 6ヶ月ごとのリリースと商用サポートを掲げる。デスクトップ環境として[Unityを採用している](https://ja.wikipedia.org/wiki/Unity_\(ユーザインタフェース\) "wikilink")。
+
+          - [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink") : ユーザーのカスタマイズを前提としたディストリビューション。
+
+          - [Bodhi Linux](../Page/Bodhi_Linux.md "wikilink") : [Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")から派生したウィンドウマネージャ、Mokshaを採用した軽量版。
+
+          - [Caramel OS](../Page/Caramel_OS.md "wikilink") : 美味しくて可愛いOS。
+
+          - [Edubuntu](https://ja.wikipedia.org/wiki/Edubuntu "wikilink") : 教育用にカスタマイズされている。
+
+          - [Elbuntu](https://ja.wikipedia.org/wiki/Elbuntu "wikilink") : [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")として[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")を採用している。
+
+          - [elementary OS](https://ja.wikipedia.org/wiki/elementary_OS "wikilink") : 独自のデスクトップ環境「Pantheon」を採用した[MacOS](../Page/MacOS.md "wikilink")風の画面。\[3\]
+
+          - [Gobuntu](https://ja.wikipedia.org/wiki/Gobuntu "wikilink") : [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")のみを利用している。
+
+          - [Goobuntu](https://ja.wikipedia.org/wiki/Goobuntu "wikilink") : [Google](../Page/Google.md "wikilink")が社内で開発・利用しているとされている。非公開。\[4\]\[5\]
+
+          - [Kubuntu](../Page/Kubuntu.md "wikilink") : デスクトップ環境として[KDE](../Page/KDE.md "wikilink")を採用している。
+
+          - [Kona Linux](https://ja.wikipedia.org/wiki/Kona_Linux "wikilink") Ubuntu Edition : 前述のKona LinuxをUbuntuベースに置き換えたもの。
+
+          - [linuxBean](https://ja.wikipedia.org/wiki/linuxBean "wikilink") : 軽量ながらも初心者向けのディストリビューション。
+
+          - [Linux Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink") : [MATEや](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")の採用でデザインやソフトウェア環境を改善し、[マルチメディア](../Page/マルチメディア.md "wikilink")関係の[コーデック](../Page/コーデック.md "wikilink")を充実させている。
+
+              - [Peppermint](https://ja.wikipedia.org/wiki/Peppermint "wikilink") : [Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")を搭載している[軽量のディストリビューション](https://ja.wikipedia.org/wiki/軽量Linuxディストリビューション "wikilink")。[Webアプリとの連携も強い](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")。
+
+          - \- Ubuntu LTS（長期サポート版）を基に開発。Xfce採用でアイコンや壁紙が美しい。アプリの追加や削除、[WEBブラウザの](../Page/ウェブブラウザ.md "wikilink")[キャッシュの削除なども容易](../Page/キャッシュ_\(コンピュータシステム\).md "wikilink")。
+
+          - [Lubuntu](https://ja.wikipedia.org/wiki/Lubuntu "wikilink") : デスクトップ環境として[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")を採用している。
+
+          - [nUbuntu](https://ja.wikipedia.org/wiki/nUbuntu "wikilink") : セキュリティツールを多数含んでいる。
+
+          - [Nusy Linux](https://ja.wikipedia.org/wiki/Nusy_Linux "wikilink") : xfceを採用し、モダンな外観ながらも軽量なディストリビューション。
+
+          - [Pear Linux](https://ja.wikipedia.org/wiki/Pear_Linux "wikilink") : macOS風に構成されたディストリビューション。\[6\]
+
+          - [Trisquel GNU/Linux](https://ja.wikipedia.org/wiki/Trisquel_GNU/Linux "wikilink") : GNU FSDGに適合し、フリーソフトウェア財団のサーバーで使用される。ファームウェアのレベルまで100%自由ソフトで構成される。
+
+          - [Ubuntu Christian Edition](https://ja.wikipedia.org/wiki/Ubuntu_Christian_Edition "wikilink") : 聖書全文とURLフィルタリングを搭載している。
+
+          - [Ubuntu Lite](https://ja.wikipedia.org/wiki/Ubuntu_Lite "wikilink") : [レガシーデバイス](../Page/レガシーデバイス.md "wikilink")を備えた古いコンピュータ用。
+
+          - [Ubuntu Pico](https://ja.wikipedia.org/wiki/Ubuntu_Pico "wikilink") : [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式の後継。さらに軽く、安定した環境を追い求める。
+
+          - [Ubuntu Studio](https://ja.wikipedia.org/wiki/Ubuntu_Studio "wikilink") : ハイエンドデスクトップ向け。デジタルコンテンツ制作ツールが多数プリインストールされている。[リアルタイムカーネルのパッチも当てられている](../Page/リアルタイムオペレーティングシステム.md "wikilink")。
+
+          - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用している。
+
+              - [ChaletOS](https://ja.wikipedia.org/wiki/ChaletOS "wikilink")\[7\] : [Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")に似た[操作性で](../Page/ユーザインタフェース.md "wikilink")、Windowsアプリを動かす[Wine](../Page/Wine.md "wikilink")も標準搭載。Xubuntuから派生。
+              - [Voyager](https://ja.wikipedia.org/wiki/Voyager_\(オペレーティングシステム\) "wikilink") : Xubuntuから派生した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")産のOS。Xfce採用であるが、MacOS風の画面が美しい。[32bit版と](../Page/32ビット.md "wikilink")[64bit版がある](https://ja.wikipedia.org/wiki/64ビット "wikilink")。\[8\]
+
+          - [Zorin OS](https://ja.wikipedia.org/wiki/Zorin_OS "wikilink") : Windows風の操作性を提供するディストリビューション。[Wine](../Page/Wine.md "wikilink")を追加するとWindowsアプリも動作する。
+
+          - [zUbuntu](https://ja.wikipedia.org/wiki/zUbuntu "wikilink") : [IBM eServer zSeries](../Page/System_z.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")用。
+
+      - [WLinux](https://ja.wikipedia.org/wiki/WLinux "wikilink")\[9\]\[10\]
 
 ### 開発停止
 
@@ -99,15 +157,15 @@
       - [Xandros](../Page/Xandros.md "wikilink") : Corel Linuxの後継。[Eee PCに搭載されていた](https://ja.wikipedia.org/wiki/Eee_PC "wikilink")。
   - [Ecolinux](../Page/Ecolinux.md "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用した日本発のディストリビューション。
   - [Freespire](https://ja.wikipedia.org/wiki/Freespire "wikilink") : [Linspire](../Page/Linspire.md "wikilink")の無料版。CDブート/HDDインストール共可能。
+  - [gOS](https://ja.wikipedia.org/wiki/gOS "wikilink") : Googleが提供するWebアプリケーションを活用できるように設定されている。
+  - [Damn Small Linux](../Page/Damn_Small_Linux.md "wikilink") : KNOPPIXベース、軽量。
+  - [Xenoppix](../Page/KNOPPIX.md "wikilink") : KNOPPIXに[Xenを搭載した日本のディストリビューション](../Page/Xen_\(仮想化ソフトウェア\).md "wikilink")。
+  - [Regret](https://ja.wikipedia.org/wiki/Regret_\(Linuxディストリビューション\) "wikilink") : KNOPPIXベースの日本のディストリビューション。
   - [Linspire](../Page/Linspire.md "wikilink") : [Windowsのような使い勝手を実現](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。旧称はLindows。
   - [MEPIS](../Page/MEPIS.md "wikilink") : 主にデスクトップ向け。CDブート/HDDインストール共可能。
   - [Progeny Debian](../Page/Progeny_Debian.md "wikilink") : Red HatのAnacondaインストーラを移植したGNU/Linux。
-  - [UserLinux](../Page/UserLinux.md "wikilink") : Debianベースの企業向けデスクトップ用GNU/Linux。
-  - [Damn Small Linux](../Page/Damn_Small_Linux.md "wikilink") : KNOPPIXベース、軽量。
-  - [gOS](https://ja.wikipedia.org/wiki/gOS "wikilink") : Googleが提供するWebアプリケーションを活用できるように設定されている。
-  - [Regret](https://ja.wikipedia.org/wiki/Regret_\(Linuxディストリビューション\) "wikilink") : KNOPPIXベースの日本のディストリビューション。
-  - [Xenoppix](../Page/KNOPPIX.md "wikilink") : KNOPPIXに[Xenを搭載した日本のディストリビューション](../Page/Xen_\(仮想化ソフトウェア\).md "wikilink")。
   - [Fluxbuntu](https://ja.wikipedia.org/wiki/Fluxbuntu "wikilink") : Ubuntuベース。ウィンドウマネージャとして[Fluxbox](../Page/Fluxbox.md "wikilink")を採用している。
+  - [UserLinux](../Page/UserLinux.md "wikilink") : Debianベースの企業向けデスクトップ用GNU/Linux。
   - 巫女 GNYO/Linux : [openMosix](https://ja.wikipedia.org/wiki/openMosix "wikilink")と[SCore](https://ja.wikipedia.org/wiki/SCore "wikilink")を利用したPCクラスタが構築可能。CDブート/HDDインストール共可能。
 
 ## Red Hat系
@@ -149,7 +207,9 @@
 
   - [Slackware](../Page/Slackware.md "wikilink") : Linux普及初期は有名だったディストリビューション。
       - [Plamo Linux](../Page/Plamo_Linux.md "wikilink") : Slackwareを日本語化し、[プラモデル](../Page/プラモデル.md "wikilink")のようにいじれることを念頭に置いて開発されている。Version3.3までは[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")に対応した。
-      - [Puppy Linux](../Page/Puppy_Linux.md "wikilink") : Live CD、HDインストールも可。debパッケージ利用可。
+      - [Puppy Linux](../Page/Puppy_Linux.md "wikilink") : Live CD、HDインストールも可。日本語化も可能\[11\]\[12\]。debパッケージ利用可。
+          - [Lxpup](https://ja.wikipedia.org/wiki/Lxpup "wikilink") : Puppy Linuxを基盤に、デスクトップ環境をLXDEに置き換えたもの。\[13\]
+          - [Yara OSX](https://ja.wikipedia.org/wiki/Yara_OSX "wikilink") : Puppy Linux派生。[Xfce](../Page/Xfce.md "wikilink")を採用したMacOS風の画面。\[14\]
   - [openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink") : ドイツで開発されていたため、ヨーロッパで強い。[SUSE](../Page/SUSE.md "wikilink")は[ノベルに買収されたことに伴い](../Page/ノベル_\(企業\).md "wikilink")、SUSE Linuxから改名。
       - [SUSE Linux Enterprise Server](https://ja.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server "wikilink") : コミュニティによるテスト済みの[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")をベースにして安定させた。商用。
       - [SUSE Linux Enterprise Desktop](../Page/SUSE_Linux_Enterprise_Desktop.md "wikilink") : SUSE Linux Enterprise Serverのデスクトップ版。
@@ -164,6 +224,8 @@
 
   - [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink") : [パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")に[Pacman](https://ja.wikipedia.org/wiki/Pacman "wikilink")を使用。
       - [Antergos](https://ja.wikipedia.org/wiki/Antergos "wikilink") : Arch Linuxをベースに、GUIによるインストーラーであるCnchiを備えたもの。
+      - [AlterLinux](https://ja.wikipedia.org/wiki/AlterLinux "wikilink") : Arch Linux派生で初の完全日本語化されたもの。LXDE版、Xfce版、KDE版がある。
+      - [Audiophile Linux](https://ja.wikipedia.org/wiki/Audiophile_Linux "wikilink")\[15\] - [Fluxbox](../Page/Fluxbox.md "wikilink")を採用した、[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")愛好家向けOS。
       - [Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink") : Arch Linuxをベースに、プリインストールされたデスクトップ環境、GUIによるインストーラー等を備えたもの。
       - [Parabola GNU/Linux-libre](https://ja.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink") : Arch Linuxからフリーでないソフトウェアを除去し、100%フリーなソフトウェアで構成されたもの。
   - [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink") : [BSD系OSのportに似た](../Page/BSDの子孫.md "wikilink")[Portage](../Page/Portage.md "wikilink")と呼ばれるパッケージ管理システムを採用。
@@ -197,11 +259,13 @@
 ## 関連項目
 
   - [ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")
+  - [派生](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")
   - [インタフェース](https://ja.wikipedia.org/wiki/インタフェース "wikilink")
   - [GNU/Linuxシステム](https://ja.wikipedia.org/wiki/GNU/Linuxシステム "wikilink")
   - [Linux](../Page/Linux.md "wikilink")
   - [軽量Linuxディストリビューション](https://ja.wikipedia.org/wiki/軽量Linuxディストリビューション "wikilink")
   - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
+  - [Linuxライブディストリビューションの比較](../Page/Linuxライブディストリビューションの比較.md "wikilink")
   - [組み込みLinux](../Page/組み込みLinux.md "wikilink")
   - [Linux Standard Base](../Page/Linux_Standard_Base.md "wikilink")
   - [Linux from Scratch](../Page/Linux_from_Scratch.md "wikilink") : 一から環境を構築する手法
@@ -215,6 +279,16 @@
 
 1.  例えば[Ubuntu](http://www.ubuntulinux.jp/download/ja-remix)など。
 2.
-3.
-4.  [Windows 10に最適化されたLinuxディストロ「WLinux」が爆誕 - 期間限定の50%オフでセール中](https://www.softantenna.com/wp/windows/wlinux/)
-5.  [Windows 10 now has its own exclusive Linux distro -- WLinux](https://betanews.com/2018/09/24/windows-10-now-has-its-own-exclusive-linux-distro-wlinux/)
+3.  [Elementary OS](https://elementary.io/)
+4.
+5.
+6.  [Pear Linux](http://pearlinux.fr/)
+7.  [ChaletOS - Google Sites](https://sites.google.com/site/chaletoslinux/home)
+8.  [Live Voyager](https://voyagerlive.org/)
+9.  [Windows 10に最適化されたLinuxディストロ「WLinux」が爆誕 - 期間限定の50%オフでセール中](https://www.softantenna.com/wp/windows/wlinux/)
+10. [Windows 10 now has its own exclusive Linux distro -- WLinux](https://betanews.com/2018/09/24/windows-10-now-has-its-own-exclusive-linux-distro-wlinux/)
+11. [日本語サポートパッケージ - sakurapup.browserloadofcoolness.com](http://sakurapup.browserloadofcoolness.com/viewtopic.php?t=1937)
+12. [日本語化ファイル入手先](http://shinobar.server-on.net/puppy/opt/)
+13. [LxPup - Puppy Linux + LXDE 日本語情報トップページ - OSDN](https://ja.osdn.net/projects/sfnet_lxpup/)
+14. [Yara OSX - Home](https://yara-osx.weebly.com/)
+15. [AudioPhile Linux | Quality audio on Linux](https://www.ap-linux.com/)

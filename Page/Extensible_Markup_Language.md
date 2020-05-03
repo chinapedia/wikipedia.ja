@@ -15,7 +15,7 @@ XML の仕様は、[World Wide Web Consortium](../Page/World_Wide_Web_Consortium
 
 XMLは、個別の目的に応じた[マークアップ言語](../Page/マークアップ言語.md "wikilink")群を創るために汎用的に使える。マークアップ言語とは、[コンピュータ言語](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")の一種で（広義の「[コンピュータ言語](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")」であり、[プログラミング言語](../Page/プログラミング言語.md "wikilink")ではない[データ記述言語](../Page/データ記述言語.md "wikilink")などを含む意味）あるが、詳細は「[マークアップ言語](../Page/マークアップ言語.md "wikilink")」の記事を参照のこと。XMLは、その「入子状にタグで囲まれたもの」という構文を共通としたことで、拡張が容易であるとして「extensible」と主張している。
 
-上記の理由もあって、しばしば「あらゆる目的に使える」などと主張されるが、プログラム自体の構造としては入れ子構造（木構造）であって、より入り組んだネットワーク構造（[グラフ構造](../Page/グラフ_\(データ構造\).md "wikilink")）を直接扱うことは不可能である（[XLink](../Page/XLink.md "wikilink")などの提案はあるが）。
+上記の理由もあって、しばしば「あらゆる目的に使える」などと主張されるが、[データ構造的には木であって](../Page/木構造_\(データ構造\).md "wikilink")、より入り組んだネットワーク構造（[グラフ構造](../Page/グラフ_\(データ構造\).md "wikilink")）を直接扱うことは不可能である（[XLink](../Page/XLink.md "wikilink")などの提案はあるが）。
 
 XMLの最も重要な目的は、異なる[情報システム](../Page/情報システム.md "wikilink")の間で、特に[インターネット](../Page/インターネット.md "wikilink")を介して、構造化された文書や構造化されたデータの共有を、容易にすることである\[2\]。XMLを使うと、文書を構造化して記述できるし、[コンピュータ](../Page/コンピュータ.md "wikilink")のデータを[直列化](../Page/シリアライズ.md "wikilink") （シリアライズ） できる。データを直列化する用途でXMLを使う際には、XMLは、[JavaScript Object Notation](../Page/JavaScript_Object_Notation.md "wikilink") (JSON) や[YAML](../Page/YAML.md "wikilink")などの、[テキストを基にした他の直列化言語と比較衡量できる](../Page/プレーンテキスト.md "wikilink")\[3\]。
 

@@ -58,7 +58,7 @@
   - [井上聞多](../Page/井上馨.md "wikilink")：[明石勤](../Page/明石勤.md "wikilink")
   - [北添佶摩](../Page/北添佶摩.md "wikilink")：[前川哲男](https://ja.wikipedia.org/wiki/前川哲男 "wikilink")
   - [小栗上野介](../Page/小栗忠順.md "wikilink")：[原保美](https://ja.wikipedia.org/wiki/原保美 "wikilink")
-  - [徳川家茂](../Page/徳川家茂.md "wikilink")：坂東八十助（[十代目 坂東三津五郎](../Page/坂東三津五郎_\(10代目\).md "wikilink")）
+  - [徳川家茂](../Page/徳川家茂.md "wikilink")：坂東八十助（[十代目坂東三津五郎](../Page/坂東三津五郎_\(10代目\).md "wikilink")）
   - [一橋慶喜](../Page/徳川慶喜.md "wikilink")：[津川雅彦](../Page/津川雅彦.md "wikilink")
       -
         将軍後見職。政治は徳川家が担うものという考えが強いためか、海舟や春嶽の考えには否定的で折り合いも悪い。

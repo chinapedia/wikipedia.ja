@@ -12,7 +12,7 @@
   - 発売前の6月に静岡県御殿場市の乗馬クラブ「アルカディア」で白馬に跨って登場し、復帰会見を行ったが、当時は明らかに不完全な状態で本人曰く、30%程度しか本来の自分を取り戻していない状態であった。TVでも痛々しい姿で復帰し、当時は激太りだったと語っている。
   - 完全復活後の[2001年](../Page/2001年.md "wikilink")に開催した当時デビュー7年目にして初となったファーストライブツアー“待っててくれてアリガトウ”では、涙ながらに力強く歌い、会場を感動させた。
   - 初登場で6位にランクインし、「[here we are](https://ja.wikipedia.org/wiki/here_we_are "wikilink")」以来、1年ぶりにTOP10入りを果たし、以降も3週連続10位内をキープし、最終的には約30万枚を売り上げた。
-  - 1999[オリコン年間シングルチャートでは](../Page/オリコンチャート.md "wikilink")79位。『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）年間パーフェクトランキングでは54位。
+  - 1999[オリコン年間シングルチャートでは](../Page/オリコンチャート.md "wikilink")79位。『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）年間パーフェクトランキングでは54位。
 
 ## 収録曲
 

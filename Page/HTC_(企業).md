@@ -497,6 +497,7 @@
   - [Nexus One](https://ja.wikipedia.org/wiki/Nexus_One "wikilink")
   - [Nexus 9](https://ja.wikipedia.org/wiki/Nexus_9 "wikilink")
   - [VIA Technologies](../Page/VIA_Technologies.md "wikilink")
+  - [Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink") - 初期のモデル（日本未発売の、[Windows Mobile搭載機](../Page/Windows_Mobile.md "wikilink")）はHTCのOEMだった。
   - 提供番組（いずれも[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）
       - [乃木坂って、どこ?](https://ja.wikipedia.org/wiki/乃木坂って、どこ? "wikilink") - 日本の女性アイドルグループ・[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")の冠番組。2012年5月よりISW13HTのCM開始と同時にメインスポンサーとなっている。放映されているCMも[先述の通り本人たちが出演している](https://ja.wikipedia.org/wiki/HTC_\(企業\)#CMキャラクター "wikilink")。2013年1月をもって降板。
       - [ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink") - 2012年に入ってからスポンサーとなっており、2012年5月までは企業CMのみで、6月頃まで。

@@ -5,13 +5,13 @@
 
 ## 人物
 
-幼少時代から、[ピアノ](../Page/ピアノ.md "wikilink")に親しんでおり、[クラシックを通じて音楽の基礎を習得](../Page/クラシック音楽.md "wikilink")。中学生・高校生時代には、知人と[バンドを組んでいた](../Page/バンド_\(音楽\).md "wikilink")。 [トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")の[キャップは](../Page/帽子.md "wikilink")、SOUL'd OUTメジャーデビュー時から欠かさず被っており、キャップを外した姿で、[メディア](../Page/メディア.md "wikilink")や[ライブに出演することは](../Page/演奏会.md "wikilink")、滅多にない。デビュー当時から「ブレイズ&ビーズ」と呼ばれるヘアスタイルを通している。
+幼少時代から、[ピアノ](../Page/ピアノ.md "wikilink")に親しんでおり、[クラシックを通じて音楽の基礎を習得](../Page/クラシック音楽.md "wikilink")。中学生・高校生・大学時代には、知人と[バンドを組んでいた](../Page/バンド_\(音楽\).md "wikilink")。\[1\] [トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")の[キャップは](../Page/帽子.md "wikilink")、SOUL'd OUTメジャーデビュー時から欠かさず被っており、キャップを外した姿で、[メディア](../Page/メディア.md "wikilink")や[ライブに出演することは](../Page/演奏会.md "wikilink")、滅多にない。デビュー当時から「ブレイズ&ビーズ」と呼ばれるヘアスタイルを通している。
 
 影響を受けた[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")に、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ザ・ルーツ](../Page/ザ・ルーツ.md "wikilink")などを挙げている。雑誌などでのインタビューでは、常に「S.Oをサザンオールスターズや[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")などのように幅広い層に愛されるグループに育て上げたい」と語る。
 
 Diggy-MO'という名前の[由来](https://ja.wikipedia.org/wiki/由来 "wikilink")は、SOUL'd OUTの曲である「[Diggy Diggy Diggy](../Page/ウェカピポ.md "wikilink")」のサビ部分である、「Diggy Diggy Diggy」を[ファン](../Page/ファン.md "wikilink")が連呼していたため、「じゃあ、俺はDiggyでいい」と、今の名前を名乗るようになった。[左利き](../Page/左利き.md "wikilink")である。好きな食べ物にチョコレートパフェ、嫌いな食べ物に大学芋を挙げている。本名や誕生日等のプロフィールは、非公開となっている。
 
-2017年に自宅をスタジオ化し\[1\]、楽曲製作に取り組んでいる。
+2017年に自宅をスタジオ化し\[2\]、楽曲製作に取り組んでいる。
 
 ## 経歴
 
@@ -225,4 +225,5 @@ SECL-862</p></td>
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のラッパー](https://ja.wikipedia.org/wiki/Category:日本のラッパー "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  [Diggy-MO’『DX - 10th Anniversary All This Time 2008-2018 -』インタビュー](http://www.billboard-japan.com/special/detail/2531)
+1.
+2.  [Diggy-MO’『DX - 10th Anniversary All This Time 2008-2018 -』インタビュー](http://www.billboard-japan.com/special/detail/2531)

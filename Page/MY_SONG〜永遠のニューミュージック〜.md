@@ -194,7 +194,7 @@ TV『<a href="../Page/邦ちゃんのやまだかつてないテレビ.md" title
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/どうぞこのまま" title="wikilink">どうぞこのまま</a></p></td>
+<td><p><a href="../Page/どうぞこのまま.md" title="wikilink">どうぞこのまま</a></p></td>
 <td><p><a href="../Page/丸山圭子.md" title="wikilink">丸山圭子</a></p></td>
 <td><p>1976年7月5日</p></td>
 <td><p>-</p></td>

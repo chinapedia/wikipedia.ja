@@ -674,7 +674,7 @@ TVアニメビジュアルガイドブック</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
 <td><p>2009年<a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7月8日</a> - <a href="../Page/9月23日.md" title="wikilink">9月23日</a></p></td>
 <td><p>水曜 25:29 - 25:59</p></td>
 <td><p>日本テレビ系列<br />

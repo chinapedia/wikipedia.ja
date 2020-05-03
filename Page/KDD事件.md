@@ -37,7 +37,7 @@
 
   - 当時、日本の国際通信を独占し、巨額の利益を上げる[特殊会社](../Page/特殊会社.md "wikilink")KDDについて、捜査の過程で明らかにされたのは、元[郵政省](../Page/郵政省.md "wikilink")高級官僚である板野社長の公私混同・会社を食い物にする経費の使い道であり、世論の怒りは凄まじかった。
   - また、過去3年間で58億円という巨額であったKDDの交際接待費は、判明分だけで、1億2000万円が郵政族を中心にした政治家190人に対し、[政治資金パーティ](https://ja.wikipedia.org/wiki/政治資金パーティ "wikilink")券購入や[政治献金](../Page/政治献金.md "wikilink")としてばら撒かれ、郵政省幹部らに対しても、プライベート海外旅行費等、過剰[接待](../Page/接待.md "wikilink")が明らかになった。しかし、政官界への工作状況は、最後まで追及されず、政治家の立件はなされなかった。
-  - 当時、[浜田幸一](https://ja.wikipedia.org/wiki/浜田幸一 "wikilink")衆議院議員のラスベガス賭博事件・[鉄建公団乱脈経理事件等](https://ja.wikipedia.org/wiki/日本鉄道建設公団 "wikilink")、相次いだ不祥事により、[大平正芳](../Page/大平正芳.md "wikilink")首相の威信は大きく低下した。1980年5月16日には、[日本社会党](../Page/日本社会党.md "wikilink")が[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")に提出した内閣不信任案が、自民党反主流派の欠席によって[本会議](https://ja.wikipedia.org/wiki/本会議 "wikilink")で可決され、[ハプニング解散](../Page/ハプニング解散.md "wikilink")となり、憲政史上初めて衆参同日選挙が行われる事態を招来した。
+  - 当時、[浜田幸一](https://ja.wikipedia.org/wiki/浜田幸一 "wikilink")衆議院議員のラスベガス賭博事件・[鉄建公団乱脈経理事件等](https://ja.wikipedia.org/wiki/日本鉄道建設公団 "wikilink")、相次いだ不祥事により、[大平正芳](../Page/大平正芳.md "wikilink")首相の威信は大きく低下した。1980年5月16日には、[日本社会党](../Page/日本社会党.md "wikilink")が[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")に提出した内閣不信任案が、自民党反主流派の欠席によって[本会議](https://ja.wikipedia.org/wiki/本会議 "wikilink")で可決され、[ハプニング解散](../Page/ハプニング解散.md "wikilink")となり、憲政史上初めて[衆参同日選挙](../Page/衆参同日選挙.md "wikilink")が行われる事態を招来した。
 
 ## 脚注
 

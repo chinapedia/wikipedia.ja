@@ -917,7 +917,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 1.
 2.
 3.
-4.  2007年10月15日放送の『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』《フジテレビ》にて
+4.  2007年10月15日放送の『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』《フジテレビ》にて
 5.
 6.
 7.  『[競馬最強の法則](https://ja.wikipedia.org/wiki/競馬最強の法則 "wikilink")』（[KKベストセラーズ](https://ja.wikipedia.org/wiki/KKベストセラーズ "wikilink")）2008年12月号 pp.124 - 125

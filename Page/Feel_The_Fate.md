@@ -8,7 +8,7 @@
   - 初の[オリコンTOP](../Page/オリコンチャート.md "wikilink")10入りを果たしたシングル。
   - 2001年7月3日[AX MUSIC-TVに出演](../Page/AX_MUSIC-TV.md "wikilink")。
   - 2001年7月13日[FUN](../Page/FUN.md "wikilink")に出演。
-  - 2001年7月16日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2001年7月16日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ### タイアップ
 

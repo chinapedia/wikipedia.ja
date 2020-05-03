@@ -8,7 +8,7 @@
   - 自身最大のヒット作であり、これをきっかけに[第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")最優秀新人賞を始め第39回ゴールデン･アロー賞音楽新人賞、第16回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニューアーティストオブザイヤーと新人賞を総なめした。
   - またこの楽曲をキーボードで[耳コピー](https://ja.wikipedia.org/wiki/耳コピー "wikilink")した龍一はその達成感からより楽器に興味を持ち、涼平は自ら出演した番組を見て未熟だと気づきダンスや仕事への気持ちを改めるなど、後の個々の活躍に大きな影響を与えている。
   - 2001年10月17日[AX MUSIC-TVに出演](../Page/AX_MUSIC-TV.md "wikilink")。
-  - 2001年11月5日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2001年11月5日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ### タイアップ
 

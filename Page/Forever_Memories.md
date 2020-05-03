@@ -15,7 +15,7 @@
 
 2001年4月27日[FUN](../Page/FUN.md "wikilink")に初出演。
 
-2001年4月30日[HEY\!HEY\!HEY\!MUSIC CHAMPに初出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+2001年4月30日[HEY\!HEY\!HEY\! MUSIC CHAMPに初出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ### 初回特典
 

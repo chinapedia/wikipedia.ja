@@ -47,41 +47,34 @@
   - [ガシャァン](https://ja.wikipedia.org/wiki/ガシャァン "wikilink")（[たいがー・りー](../Page/たいがー・りー.md "wikilink")／肩パット／コールユーブンゲン）
   - [2世代ターボ](https://ja.wikipedia.org/wiki/2世代ターボ "wikilink")（[河崎健男](../Page/キリングセンス.md "wikilink")／栗本宗昌）
   - [じゃむ](https://ja.wikipedia.org/wiki/じゃむ "wikilink")（牧山俊之／じゃむじゅん）
-  - [キュンキュンパフェ](https://ja.wikipedia.org/wiki/キュンキュンパフェ "wikilink")（荒川陽路人／稲垣社長／中垣塾長）
   - [松下ひもの](https://ja.wikipedia.org/wiki/松下ひもの "wikilink")（松下泰久／ひもの）
   - [だーりんず](https://ja.wikipedia.org/wiki/だーりんず "wikilink")（松本りんす／小田祐一郎）
   - [ムシャムシャ](https://ja.wikipedia.org/wiki/ムシャムシャ "wikilink")（児島淳子／村上友香）
   - [バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")（[小峠英二](https://ja.wikipedia.org/wiki/小峠英二 "wikilink")／[西村瑞樹](https://ja.wikipedia.org/wiki/西村瑞樹 "wikilink")）
   - [ツインクル](../Page/ツインクル_\(お笑いコンビ\).md "wikilink")（ポリスじろう\[2\]／クック井上。\[3\]）
-  - [グラッチェ](https://ja.wikipedia.org/wiki/グラッチェ "wikilink")（こんちゃん／ 大久保ジュン）
   - [つくし野センター](https://ja.wikipedia.org/wiki/つくし野センター "wikilink")（鈴木トド／松井瀬己）
-  - [キッチンパーク](../Page/キッチンパーク.md "wikilink")（えみぴょん／瞳ちゃん）
-  - [べっこちゃん](https://ja.wikipedia.org/wiki/べっこちゃん "wikilink")（ガンジー横須賀／もじゃ）
-  - [プラッチック](https://ja.wikipedia.org/wiki/プラッチック_\(お笑い\) "wikilink")（[渡部一丁](https://ja.wikipedia.org/wiki/渡部一丁 "wikilink")／[ニッタロビンソン](https://ja.wikipedia.org/wiki/仁田和伸 "wikilink")）
+  - [プラッチック](https://ja.wikipedia.org/wiki/プラッチック_\(お笑い\) "wikilink")（[一丁](https://ja.wikipedia.org/wiki/一丁 "wikilink")／[ニッタロビンソン](https://ja.wikipedia.org/wiki/仁田和伸 "wikilink")）
   - [キリンキリン](https://ja.wikipedia.org/wiki/キリンキリン "wikilink")（きりん田／岡下浩也）
   - [しめじクリニック](https://ja.wikipedia.org/wiki/しめじクリニック "wikilink")（中山亮／あんご）
   - [レインボーグランド](https://ja.wikipedia.org/wiki/レインボーグランド "wikilink")（根本正一／目良圭佑）
-  - [全力じじぃ](https://ja.wikipedia.org/wiki/全力じじぃ "wikilink")（[カンカン](../Page/カンカン_\(お笑い芸人\).md "wikilink")\[4\]／[前すすむ](../Page/グーとパー.md "wikilink")）
-  - [まめのき](https://ja.wikipedia.org/wiki/まめのき "wikilink")（木村直博／豆山しんご）
+  - [TOKYO COOL](https://ja.wikipedia.org/wiki/TOKYO_COOL "wikilink")（[カンカン](../Page/カンカン_\(お笑い芸人\).md "wikilink")\[4\]／[前すすむ](../Page/グーとパー.md "wikilink")）
+
+<!-- end list -->
+
   - [ダンシングヒーロー](https://ja.wikipedia.org/wiki/シャングリラ_\(お笑い\) "wikilink")（河中美二／宮田庸平）
   - [ハンライス](https://ja.wikipedia.org/wiki/ハンライス "wikilink")（伴田大輔／飯田健吾）
-  - [トブ電波。](https://ja.wikipedia.org/wiki/トブ電波。 "wikilink")（オニー／[石川勇樹](https://ja.wikipedia.org/wiki/フライングマン "wikilink")）
-  - [モーニングマン](https://ja.wikipedia.org/wiki/モーニングマン "wikilink")（小堺隆志／[あらしろん](https://ja.wikipedia.org/wiki/ペンタゴン_\(お笑いコンビ\) "wikilink")）
-  - [ボーンキタムラ](https://ja.wikipedia.org/wiki/ボーンキタムラ "wikilink")（北村村長／くにぼ〜ん）
   - [シャチ](https://ja.wikipedia.org/wiki/シャチ_\(お笑い\) "wikilink")（古山紘基／リアル鈴木／江口マサル）
   - [ズンズンポイポイ](https://ja.wikipedia.org/wiki/ズンズンポイポイ "wikilink")（ロックキッズ太朗／THE小野）
   - [リッチドッグ](https://ja.wikipedia.org/wiki/リッチドッグ "wikilink")（山中陽裕／宮本裕平）
   - [Wニードロップ](https://ja.wikipedia.org/wiki/Wニードロップ "wikilink")（[小橋太っ太](https://ja.wikipedia.org/wiki/3フランシスコ "wikilink")／奥村CEO）
   - [万福](https://ja.wikipedia.org/wiki/万福 "wikilink")（桑本／トントン\[5\]）
-  - [てまきずし](https://ja.wikipedia.org/wiki/てまきずし "wikilink")（原澤ユキノリ／奥田正春）
   - [愛のゼブラ](https://ja.wikipedia.org/wiki/愛のゼブラ "wikilink")（田中ゼブラ／愛のかたまり）
-  - [ゆかりてるみ](https://ja.wikipedia.org/wiki/ゆかりてるみ "wikilink")（ジェット／たくや）
   - [あるてぃんぐ](https://ja.wikipedia.org/wiki/あるてぃんぐ "wikilink")（大矢はるき／鷲尾あきと）
-  - [梅エース](https://ja.wikipedia.org/wiki/梅エース "wikilink")（白岩渉／阿久津和正）
   - [社長のおにぎり](https://ja.wikipedia.org/wiki/社長のおにぎり "wikilink")（ヤキオニギリ／社長）
   - [ベイボイン](https://ja.wikipedia.org/wiki/ベイボイン "wikilink")
   - [はぐれ超人](https://ja.wikipedia.org/wiki/はぐれ超人 "wikilink")（[エイテツ](../Page/庵。.md "wikilink")／植田マコト）
   - [カレーナポリタン](https://ja.wikipedia.org/wiki/カレーナポリタン "wikilink")（かんちゃん／マスタング佐藤）
+  - [雷ZINちゃん](https://ja.wikipedia.org/wiki/雷ZINちゃん "wikilink")（稲垣社長／中垣塾長）
 
 <!-- end list -->
 
@@ -127,8 +120,7 @@
   - [フランキー為谷](../Page/フランキー為谷.md "wikilink")
   - [スコッチ](https://ja.wikipedia.org/wiki/スコッチ_\(お笑い\) "wikilink")
   - [ちぇく田](https://ja.wikipedia.org/wiki/ちぇく田 "wikilink")
-  - [ちくわまん](https://ja.wikipedia.org/wiki/YUJI_KOITO "wikilink")
-  - [スガモ智之](https://ja.wikipedia.org/wiki/スガモ智之 "wikilink")
+  - [帰ってきたちくわまん](https://ja.wikipedia.org/wiki/YUJI_KOITO "wikilink")
   - [大陸](https://ja.wikipedia.org/wiki/大陸_\(お笑い\) "wikilink")
   - [カルメンおじさん](../Page/カルメンおじさん.md "wikilink")
   - [ワクワクタイル](https://ja.wikipedia.org/wiki/ワクワクタイル "wikilink")
@@ -138,6 +130,11 @@
   - [ケジタン](https://ja.wikipedia.org/wiki/ケジタン "wikilink")
   - [野田航裕](https://ja.wikipedia.org/wiki/チャーミング_\(お笑いコンビ\) "wikilink")
   - [田中要一郎](https://ja.wikipedia.org/wiki/メインストリート_\(お笑いコンビ\) "wikilink")
+  - [もじゃ](https://ja.wikipedia.org/wiki/もじゃ "wikilink")
+  - [ジャック豆山](https://ja.wikipedia.org/wiki/ジャック豆山 "wikilink")
+  - [小声くん](https://ja.wikipedia.org/wiki/小声くん "wikilink")
+  - [ツジモト](https://ja.wikipedia.org/wiki/ツジモト "wikilink")
+  - [今泉](https://ja.wikipedia.org/wiki/今泉 "wikilink")
 
 ## かつて所属していた主なタレント
 
@@ -250,6 +247,17 @@
 
   -
     2006年に村田の死去によって活動終了
+
+<!-- end list -->
+
+  - [まめのき](https://ja.wikipedia.org/wiki/まめのき "wikilink")（木村直博／豆山しんご）
+  - [トブ電波。](https://ja.wikipedia.org/wiki/トブ電波。 "wikilink")（オニー／[石川勇樹](https://ja.wikipedia.org/wiki/フライングマン "wikilink")）
+  - [モーニングマン](https://ja.wikipedia.org/wiki/モーニングマン "wikilink")（小堺隆志／[あらしろん](https://ja.wikipedia.org/wiki/ペンタゴン_\(お笑いコンビ\) "wikilink")）
+  - [ボーンキタムラ](https://ja.wikipedia.org/wiki/ボーンキタムラ "wikilink")（北村村長／くにぼ〜ん）
+  - [キュンキュンパフェ](https://ja.wikipedia.org/wiki/キュンキュンパフェ "wikilink")（荒川陽路人／稲垣社長／中垣塾長）
+  - [キッチンパーク](../Page/キッチンパーク.md "wikilink")（えみぴょん／瞳ちゃん）
+  - [べっこちゃん](https://ja.wikipedia.org/wiki/べっこちゃん "wikilink")（ガンジー横須賀／もじゃ）
+  - [梅エース](https://ja.wikipedia.org/wiki/梅エース "wikilink")（白岩渉／阿久津和正）
 
 <!-- end list -->
 
@@ -444,6 +452,10 @@
 <!-- end list -->
 
   - [龍勝](https://ja.wikipedia.org/wiki/龍勝 "wikilink")
+  - [グラッチェ](https://ja.wikipedia.org/wiki/グラッチェ "wikilink")（こんちゃん／ 大久保ジュン）
+  - [てまきずし](https://ja.wikipedia.org/wiki/てまきずし "wikilink")（原澤ユキノリ／奥田正春）
+  - [ゆかりてるみ](https://ja.wikipedia.org/wiki/ゆかりてるみ "wikilink")（ジェット／たくや）
+  - [スガモ智之](https://ja.wikipedia.org/wiki/スガモ智之 "wikilink")
 
 ## Beach V
 
@@ -459,7 +471,7 @@
 
 地下へ通じる階段部分に、村田の組んでいた[フォークダンスDE成子坂](../Page/フォークダンスDE成子坂.md "wikilink")単独ライブで使われたイラストが飾られるほか、SMA所属芸人の獲得したトロフィーなどが飾られている。また、[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")が『[キングオブコント](../Page/キングオブコント.md "wikilink")』優勝時には劇場のマットが張り替えられた。
 
-近隣は住宅街のため、ライブ開催時には毎回、「芸人との待ち合わせは徒歩30秒の駅前（もしくは[三井住友銀行](../Page/三井住友銀行.md "wikilink")前）で」とアナウンスされる。
+近隣は住宅街のため、ライブ開催時には毎回、「芸人との待ち合わせは徒歩30秒の駅前で」とアナウンスされる。
 
 ### アクセス
 

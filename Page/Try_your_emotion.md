@@ -9,7 +9,7 @@
   - PVでは初の演技を披露、SEP所属[宮坂まゆみ](https://ja.wikipedia.org/wiki/宮坂まゆみ "wikilink")が初めて担当した。
   - 2002年2月13日[パパパパパフィー](../Page/パパパパパフィー.md "wikilink")に出演。
   - 2002年2月22日[FUN](../Page/FUN.md "wikilink")に出演。
-  - 2002年3月25日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2002年3月25日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ### タイアップ
 

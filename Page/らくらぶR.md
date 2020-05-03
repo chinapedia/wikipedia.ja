@@ -46,7 +46,7 @@
   - [京阪石山坂本線](../Page/京阪石山坂本線.md "wikilink")・[京阪京津線](../Page/京阪京津線.md "wikilink")（[石山寺駅](../Page/石山寺駅.md "wikilink")→[京阪山科駅](https://ja.wikipedia.org/wiki/京阪山科駅 "wikilink")）
   - [京阪本線](../Page/京阪本線.md "wikilink")
   - [京福電気鉄道](../Page/京福電気鉄道.md "wikilink")（[嵐山駅](../Page/嵐山駅_\(京福電気鉄道\).md "wikilink")→[四条大宮駅](../Page/四条大宮駅.md "wikilink")）
-  - JR[琵琶湖線](https://ja.wikipedia.org/wiki/琵琶湖線 "wikilink")（東海道本線：[長浜駅](https://ja.wikipedia.org/wiki/長浜駅 "wikilink")→[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")）
+  - JR[琵琶湖線](../Page/琵琶湖線.md "wikilink")（東海道本線：[長浜駅](https://ja.wikipedia.org/wiki/長浜駅 "wikilink")→[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")）
   - JR[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")（企画名としては「JR[三都物語](https://ja.wikipedia.org/wiki/西日本旅客鉄道#CM "wikilink")」）
   - JR[奈良線](../Page/奈良線.md "wikilink")（[奈良駅](https://ja.wikipedia.org/wiki/奈良駅 "wikilink")→[京都駅](https://ja.wikipedia.org/wiki/京都駅 "wikilink")）
 

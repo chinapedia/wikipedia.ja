@@ -82,9 +82,9 @@
 
   - テレビ東京系列6局 水曜（18:30〜19:00）
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink") [木曜](../Page/木曜日.md "wikilink")（24:20〜24:50）
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") 水曜（24:20〜24:50）
+  - [福井放送](../Page/福井放送.md "wikilink") 水曜（24:20〜24:50）
   - [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink") 木曜（24:50〜25:20）
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") 木曜（17:25〜17:55）
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink") 木曜（17:25〜17:55）
   - [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") [日曜](../Page/日曜日.md "wikilink")（10:55〜11:25）
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 水曜（24:25〜24:55）
   - [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink") 水曜（24:26〜24:56、[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")〜、但し、「[エンジョイガレッジ](../Page/エンジョイガレッジ.md "wikilink")」を放送することもあった。）

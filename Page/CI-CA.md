@@ -9,15 +9,15 @@
 
 ## 歴史
 
-  - 2004年12月15日：奈良市北西部、平城・北大和営業所が管轄する路線へ導入
-  - 2005年9月：奈良、西大和、京都、エヌシー郡山営業所が管轄する路線へ導入
-  - 2006年2月1日：全営業所へ導入
-  - 2007年4月1日：ICOCAならびにPiTaPaのCI-CAエリアでの利用開始
+  - [2004年](../Page/2004年.md "wikilink")12月15日：奈良市北西部、平城・北大和営業所が管轄する路線へ導入
+  - [2005年](../Page/2005年.md "wikilink")9月：奈良、西大和、京都、エヌシー郡山営業所が管轄する路線へ導入
+  - [2006年](../Page/2006年.md "wikilink")2月1日：全営業所へ導入
+  - [2007年](../Page/2007年.md "wikilink")4月1日：ICOCAならびにPiTaPaのCI-CAエリアでの利用開始
   - 2007年6月1日：チャージ額の改訂（1000円チャージ時以外はプレミア額が減額されたため実質値上げ）
-  - 2008年8月20日：定期券割引率の改訂（引き下げ）、定期券の記名人以外の利用が可能になる
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月20日：定期券割引率の改訂（引き下げ）、定期券の記名人以外の利用が可能になる
   - 2008年12月16日：深夜急行バス「はんな号」でのCI-CA利用開始（PiTaPa,ICOCAでの利用も同日より可能）
-  - 2014年4月1日：定期券割引率、普通券のチャージ額（10％増→14％増）、払戻手数料改訂
-  - 2016年4月1日：[Kitaca](../Page/Kitaca.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")のCI-CAエリアでの利用開始
+  - [2014年](../Page/2014年.md "wikilink")4月1日：定期券割引率、普通券のチャージ額（10％増→14％増）、払戻手数料改訂
+  - [2016年](../Page/2016年.md "wikilink")4月1日：[Kitaca](../Page/Kitaca.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")（[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")対応カード）のCI-CAエリアでの利用開始
 
 磁気式バスカードは当初[2006年](../Page/2006年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")で発売を終了する予定だったが、CI-CAの入荷が遅れたため、4ヵ月後の[5月31日](../Page/5月31日.md "wikilink")まで発売終了時期が延期され、その2ヵ月後の[7月31日](../Page/7月31日.md "wikilink")で使用を終了し、カード読取機は撤去された。また、新規発行・継続する[定期券も紙式からIC式に完全移行された](../Page/定期乗車券.md "wikilink")。（ただし、奈良学園～小泉駅・近鉄郡山駅等の一部区間ではいまだに紙式定期が使用されている）なお、磁気式バスカード（普通のみ）からプレミアを含めたCI-CAへの積み替えは[2011年](../Page/2011年.md "wikilink")7月31日まで実施していた。
 
@@ -33,14 +33,14 @@ CI-CAの新規購入は案内窓口・バス車内でできる。チャージは
 
 [180px](https://ja.wikipedia.org/wiki/ファイル:CI-CA_Charge_machine.jpg "wikilink")
 
-### 普通
+#### 普通
 
   - 1,000円＜利用額1,140円＞
   - 2,000円＜利用額2,280円＞
   - 3,000円＜利用額3,420円＞
   - 5,000円＜利用額5,700円＞
 
-### ひまわり
+#### ひまわり
 
   - 標準発車時刻9時30分～15時30分（日曜、祝日は終日）で自動的に引き落とし
 
@@ -78,11 +78,11 @@ CI-CAの新規購入は案内窓口・バス車内でできる。チャージは
 
 [ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg")
 
-  - [2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にスルッとKANSAIのICカード部門であるPiTaPaへ参入した。そのためPiTaPaの相互利用先であるICOCAも同時に使用できるようになった。さらに2016年4月1日からは、[Kitaca](../Page/Kitaca.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")も使用できるようになった。しかし、あくまでCI-CAとは**片利用**の関係であり、CI-CAを使ってそれらのカードのエリアは利用できない。
+  - [2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にスルッとKANSAIのICカード部門であるPiTaPaへ参入した。そのためPiTaPaの相互利用先であるICOCAも同時に使用できるようになった。さらに2016年4月1日からは、Kitaca・Suica・PASMO・TOICA・manaca・ICOCA・PiTaPa・SUGOCA・nimoca・はやかけんも使用できるようになった。しかし、あくまでCI-CAとは**片利用**の関係であり、CI-CAを使ってそれらのカードのエリアは利用できない。
 
 <!-- end list -->
 
-  - 奈良交通の車両であっても、[大阪国際空港](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")行きのリムジンバスについては、[Kitaca](../Page/ICOCA.md "wikilink")・[Suica](../Page/Suica.md "wikilink")・[PASMO](../Page/PASMO.md "wikilink")・[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")・[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")・[ICOCA](../Page/ICOCA.md "wikilink")・[PiTaPa](../Page/PiTaPa.md "wikilink")・[SUGOCA](https://ja.wikipedia.org/wiki/SUGOCA "wikilink")・[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")・[はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink")は使用できるが、CI-CAは使用できない。また、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")行きの場合は全てのICカードを使用できなかったが、2018年3月より使用可能になった。
+  - 奈良交通の車両であっても、[大阪国際空港](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")行きのリムジンバスについては、Kitaca・Suica・PASMO・TOICA・manaca・SUGOCA・nimoca・はやかけんは使用できるが、CI-CAは使用できない。また、[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")行きの場合は全てのICカードを使用できなかったが、2018年3月より使用可能になった。
 
 ## その他
 

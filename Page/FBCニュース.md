@@ -1,7 +1,7 @@
 > この記事は[FBCニュース](https://ja.wikipedia.org/wiki/FBCニュース)から翻訳されています。
 
 
-『**FBCニュース**』（エフビーシーニュース）は、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")のラジオ放送（[大和田ラジオ本舗](https://ja.wikipedia.org/wiki/大和田ラジオ本舗 "wikilink") FBCラジオ）とテレビ放送（FBCテレビ）で放送されている[ローカルニュース番組である](../Page/報道番組.md "wikilink")。
+『**FBCニュース**』（エフビーシーニュース）は、[福井放送](../Page/福井放送.md "wikilink")のラジオ放送（[大和田ラジオ本舗](https://ja.wikipedia.org/wiki/大和田ラジオ本舗 "wikilink") FBCラジオ）とテレビ放送（FBCテレビ）で放送されている[ローカルニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## FBCテレビ
 

@@ -50,9 +50,9 @@
 
 ## 概要
 
-[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としての活動を休止し、1993年から1994年にかけてアルバム『[孤独の太陽](../Page/孤独の太陽_\(アルバム\).md "wikilink")』発売に向け本格的なソロ活動を送っていた[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と、シングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」以降前年発売のシングルを全て120万枚以上を売り上げて、急激に知名度と人気を上げた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")が合体して生まれた人気アーティスト同士のコラボレーションである。
+[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")としての活動を休止し、[1993年](../Page/1993年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")にかけてアルバム『[孤独の太陽](../Page/孤独の太陽_\(アルバム\).md "wikilink")』発売に向け本格的なソロ活動を送っていた[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と、シングル「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」以降前年発売のシングルを全て120万枚以上を売り上げて、急激に知名度と人気を上げた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")が合体して生まれた人気アーティスト同士のコラボレーションである。
 
-本プロジェクトは[Act Against AIDS](../Page/アクト・アゲインスト・エイズ.md "wikilink")（AAA）に参加していた桑田と、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")ころから桑田ソロやサザンオールスターズのプロデュース、編曲やサポートメンバーとして関わっていた[小林武史](../Page/小林武史.md "wikilink")の交友から、小林がプロデュースするMr.Childrenとのコラボレーションが実現し、その中で生まれた曲が「[奇跡の地球](../Page/奇跡の地球.md "wikilink")」である。
+本プロジェクトは[Act Against AIDS](../Page/アクト・アゲインスト・エイズ.md "wikilink")（AAA）に参加していた桑田と、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")ころから桑田ソロやサザンオールスターズのプロデュース、編曲やサポートメンバーとして関わっていた[小林武史](../Page/小林武史.md "wikilink")の交友から、小林がプロデュースするMr.Childrenとのコラボレーションが実現し、その中で生まれた曲が「[奇跡の{{Ruby](../Page/奇跡の地球.md "wikilink")」である。
 
 この企画は両雄に接点のある小林が発起しすすめた企画で「桜井が（音楽界の大御所である）桑田さんと共演することで、桜井にもっと成長してほしい」という意図があった。また、小林としては既に桑田サイド（ソロ、サザン含め）の長年のプロデュースから離れた時期でもあり、これが桑田作曲の最後のプロデュースとなっている。
 

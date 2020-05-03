@@ -142,7 +142,7 @@
   - オリジナル曲の作詞・作曲はすべてKeikoが手がけている（後述の「向日葵」の作詞を除く）。
   - 「X'mas Melody」は、最初はKeiko単独のオリジナル曲として2006年冬に携帯電話用に配信された他、2006年12月の公演では4人での演奏も行った。なお、ヴィジョンファクトリーのオムニバスアルバム「VISION FACTORY presents CHRISTMAS HARMONY」（2007年11月21日発売・AVCD-16141・16142）にはKeiko単独のものが収録されており、シングル「アジュカ」には4人でのものが収録されている。
   - [今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")の「雪空Letter」にストリングス担当として参加。コラボレーションのきっかけは2006年7月16日のVision Fes.。当時今井とまた仕事しようと約束したことによる（今井の日記より）。オムニバスアルバム「VISION FACTORY presents CHRISTMAS HARMONY」に収録されている。
-  - [知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")とのコラボレーション作品として「向日葵」（ひまわり）がある。Keikoが作曲、[阿久津健太郎](https://ja.wikipedia.org/wiki/阿久津健太郎 "wikilink")が作詞し、知念がボーカルを務めた。オムニバスアルバム「VISION FACTORY presents FLOWER FESTIVAL」（2008年3月19日発売・AVCD-16150）に収録されている。
+  - [知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")とのコラボレーション作品として「向日葵」（ひまわり）がある。Keikoが作曲、[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")が作詞し、知念がボーカルを務めた。オムニバスアルバム「VISION FACTORY presents FLOWER FESTIVAL」（2008年3月19日発売・AVCD-16150）に収録されている。
   - [東京都](../Page/東京都.md "wikilink")[港区に](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")1999年創業の同名のライブバー「Vanilla Mood」があるが、同施設との関係はない（同所で公演を行ったことはない）。
 
 ## ライブ

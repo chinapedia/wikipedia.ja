@@ -306,7 +306,7 @@
 <li>Wild Wild Caravan</li>
 <li>ファミリーサーカスのテーマ</li>
 <li>Floor99 (<a href="https://ja.wikipedia.org/wiki/寺田創一" title="wikilink">Soichi Terada</a> House Remix)</li>
-<li>You Can Be A Star ( <a href="https://ja.wikipedia.org/wiki/パソコン音楽クラブ" title="wikilink">パソコン音楽クラブ</a> Go Go General MIDI Remix)</li>
+<li>You Can Be A Star ( <a href="../Page/パソコン音楽クラブ.md" title="wikilink">パソコン音楽クラブ</a> Go Go General MIDI Remix)</li>
 </ol>
 </div>
 </div></td>

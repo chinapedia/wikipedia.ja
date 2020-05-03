@@ -491,7 +491,7 @@
       - 歌：ユウ＝ヤマナミ（[嶋方淳子](../Page/嶋方淳子.md "wikilink")）
       - 作詞：藤海琢樹 / 作曲・編曲：[景家淳](https://ja.wikipedia.org/wiki/景家淳 "wikilink")
 4.  **Survivor's Drive**
-      - ゲイル＝ランティス（[長嶝高士](../Page/長嶝高士.md "wikilink")）
+      - 歌：ゲイル＝ランティス（[長嶝高士](../Page/長嶝高士.md "wikilink")）
       - 作詞：AlAi / 作曲・編曲：鈴木マサキ
 5.  **Link,the world.**
       - 歌：永瀬沙佳（[増田ゆき](../Page/増田ゆき.md "wikilink")）
@@ -500,7 +500,7 @@
       - 歌：新田和彦（[子安武人](../Page/子安武人.md "wikilink")）
       - 作詞：AlAi / 作曲・編曲：ms竏男acky
 7.  **DESIRE**
-      - セラリア＝マーカライト（[手塚ちはる](../Page/手塚ちはる.md "wikilink")）
+      - 歌：セラリア＝マーカライト（[手塚ちはる](../Page/手塚ちはる.md "wikilink")）
       - 作詞：藤海琢樹 / 作曲・編曲：ms竏男acky
 8.  **Scenes**
       - 歌：森本茂道（[若本規夫](../Page/若本規夫.md "wikilink")）

@@ -3,7 +3,7 @@
 
 『**North Wind**』（ノースウインド）は、[2004年](../Page/2004年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")に発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。[F\&C FC03がDreamSoftへブランド名を変更してから](../Page/F&C.md "wikilink")、初の作品にあたる。
 
-[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には、[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")から[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**North Wind 〜永遠の約束〜**』が[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")15歳以上対象で発売された。初回限定版にはドラマCDを同梱している。
+[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には、[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")から[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**North Wind 〜永遠の約束〜**』が[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象で発売された。初回限定版にはドラマCDを同梱している。
 
 ## ストーリー
 

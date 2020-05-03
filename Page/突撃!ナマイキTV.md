@@ -124,14 +124,22 @@
 </tr>
 <tr class="even">
 <td><p>2018年4月2日</p></td>
-<td><p>現在</p></td>
+<td><p>2019年3月29日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/糸井文菜" title="wikilink">糸井文菜</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>colspan=7 style="text-align:left| <small></p>
+<td><p>2019年4月1日</p></td>
+<td><p>現在</p></td>
+<td><p><strong>糸井文菜</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><small></p>
 <dl>
 <dt>備考</dt>
 
@@ -144,14 +152,15 @@
 <li><sup>4</sup> 2015年3月まではリポーターとして出演</li>
 <li><sup>5</sup> 2017年3月まではリポーターとして出演、2012年11月 - 2014年3月は「デパスパ一番のり」木曜日担当を兼務</li>
 </ul>
-<p></small></p></td>
+<p><br />
+</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -174,7 +183,7 @@
 
 <!-- end list -->
 
-  - [内藤俊太郎](https://ja.wikipedia.org/wiki/内藤俊太郎 "wikilink")（[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")）（2017年4月3日 - ）
+  - [高橋香純](https://ja.wikipedia.org/wiki/高橋香純 "wikilink")（[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")）（2020年4月10日 - ）
 
 <!-- end list -->
 
@@ -184,9 +193,9 @@
 
   - [宮田敬子](../Page/宮田敬子.md "wikilink")（月曜日、2018年4月2日 - ）
   - [なべくらみほ](../Page/なべくらみほ.md "wikilink")（火曜日、2015年3月30日 - 、2018年3月までは月・火曜日担当）
-  - [千葉めぐみ](https://ja.wikipedia.org/wiki/千葉めぐみ_\(ローカルタレント・フリーアナウンサー\) "wikilink")（水曜日、2015年4月1日 - 、 2015年9月24日までは水・木曜日担当）
-  - [風間みなみ](https://ja.wikipedia.org/wiki/風間みなみ "wikilink")（木曜日、2018年4月5日 - ）
-  - [きぬ](../Page/きぬ_\(タレント\).md "wikilink")（金曜日、2014年4月 - ）
+  - [白澤奈緒子](../Page/白澤奈緒子.md "wikilink")（水曜日、2020年4月1日 - 、KHBアナウンサー）
+  - [坪北奈津美](https://ja.wikipedia.org/wiki/坪北奈津美 "wikilink")（木曜日、2020年4月2日 - 、KHBアナウンサー）
+  - [重信友里](https://ja.wikipedia.org/wiki/重信友里 "wikilink")（金曜日、2020年4月3日 - 、KHBアナウンサー）
 
 <!-- end list -->
 
@@ -207,27 +216,49 @@
 
 ### 過去の出演者
 
+  - お天気情報
+
+<!-- end list -->
+
   - [大江和美](https://ja.wikipedia.org/wiki/大江和美 "wikilink")（[日本気象協会](../Page/日本気象協会.md "wikilink")東北支局）（ - 2010年3月26日、「ゴゴ天」担当）
-  - [奈良岡希実子](https://ja.wikipedia.org/wiki/奈良岡希実子 "wikilink")（日本気象協会東北支局）（2010年3月29日 - 2014年3月28日、お天気情報担当）
-  - [樋口康弘](https://ja.wikipedia.org/wiki/樋口康弘 "wikilink")（日本気象協会東北支局）（2014年3月31日 - 2015年3月27日、お天気情報担当）
-  - [綾木紫乃](https://ja.wikipedia.org/wiki/綾木紫乃 "wikilink")（日本気象協会東北支局）（2015年3月30日 - 8月21日、お天気情報担当）
-  - [菅原ゆうこ](https://ja.wikipedia.org/wiki/菅原ゆうこ "wikilink")（ - 2010年3月26日、「デパスパ一番のり」火曜日担当）
-  - [野口あき子](https://ja.wikipedia.org/wiki/野口亜紀子 "wikilink")（2003年4月 - 2010年3月26日、「デパスパ一番のり」金曜日担当）
-  - [あべだいち](https://ja.wikipedia.org/wiki/あべだいち "wikilink")（元・ハンプティダンプティ）（ - 2010年5月26日、リポーター・「園児でGO\!」担当）
-  - [ふじポン](../Page/ふじポン.md "wikilink")（2008年3月31日 - 2010年12月23日、「デパスパ一番のり」木曜日担当）
-  - あやか（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2010年8月24日、リポーター、結婚のため番組を降板）
-  - なつみ（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2012年10月25日、リポーター・「デパスパ一番のり」木曜日担当、産休のため番組を降板）
-  - [シャベルカー](https://ja.wikipedia.org/wiki/シャベルカー "wikilink")（ティーライズ所属）
-  - あさだのりこ（ - 2014年3月、「デパスパ一番のり」月曜日担当、2012年7月 - 2013年3月は金曜アシスタント兼務）
-  - [菅野紀子](https://ja.wikipedia.org/wiki/菅野紀子 "wikilink")（2012年4月 - 2014年3月、「デパスパ一番のり」火曜日担当）
-  - 佐藤智恵子（ - 2014年3月、「デパスパ一番のり」水曜日担当、2012年7月 - 2013年3月は月曜アシスタント兼務）
-  - 岩手佳代子（2010年4月2日 - 2014年3月28日、「デパスパ一番のり」金曜日担当）
-  - [齋藤幸恵](../Page/齋藤幸恵.md "wikilink")（「デパスパ一番のり」月曜日担当、2014年4月 - 9月）
-  - [中野美咲](https://ja.wikipedia.org/wiki/中野美咲 "wikilink")（「デパスパ一番のり」木曜日担当、2014年4月 - 9月）
-  - [庄司由加](https://ja.wikipedia.org/wiki/庄司由加 "wikilink")（「デパスパ一番のり」火曜日担当、2014年4月 - 2015年3月24日）
-  - [真野みづほ](../Page/真野みづほ.md "wikilink")（「デパスパ一番のり」水曜日担当、2014年4月 - 2015年3月25日）
-  - [阿部未来](https://ja.wikipedia.org/wiki/阿部未来 "wikilink")（「デパスパ一番のり」月曜日担当、2014年10月 - 2015年3月23日）
-  - [江利塚たまみ](https://ja.wikipedia.org/wiki/江利塚たまみ "wikilink")（「デパスパ一番のり」木曜日担当、2014年10月 - 2015年3月26日）
+  - [奈良岡希実子](https://ja.wikipedia.org/wiki/奈良岡希実子 "wikilink")（日本気象協会東北支局）（2010年3月29日 - 2014年3月28日）
+  - [樋口康弘](https://ja.wikipedia.org/wiki/樋口康弘 "wikilink")（日本気象協会東北支局）（2014年3月31日 - 2015年3月27日）
+  - [綾木紫乃](https://ja.wikipedia.org/wiki/綾木紫乃 "wikilink")（日本気象協会東北支局）（2015年3月30日 - 8月21日）
+  - [内藤俊太郎](https://ja.wikipedia.org/wiki/内藤俊太郎 "wikilink")（[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")）（2017年4月3日 - 2019年3月29日）
+  - [寺嶋由利子](https://ja.wikipedia.org/wiki/寺嶋由利子 "wikilink")（[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")）（2019年4月1日 - 2020年3月27日）
+
+<!-- end list -->
+
+  - デパスパ一番のり
+
+<!-- end list -->
+
+  - [菅原ゆうこ](https://ja.wikipedia.org/wiki/菅原ゆうこ "wikilink")（ - 2010年3月26日、火曜日担当）
+  - [野口あき子](https://ja.wikipedia.org/wiki/野口亜紀子 "wikilink")（2003年4月 - 2010年3月26日、金曜日担当）
+  - [ふじポン](../Page/ふじポン.md "wikilink")（2008年3月31日 - 2010年12月23日、木曜日担当）
+  - なつみ（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2012年10月25日、木曜日担当）
+  - あさだのりこ（ - 2014年3月、月曜日担当、2012年7月 - 2013年3月は金曜アシスタント兼務）
+  - [河野珠実](https://ja.wikipedia.org/wiki/河野珠実 "wikilink")（ - 2012年3月27日、火曜日担当。2015年10月1日- 2018年3月29日、木曜日担当）
+  - [菅野紀子](https://ja.wikipedia.org/wiki/菅野紀子 "wikilink")（2012年4月 - 2014年3月、火曜日担当）
+  - [山口祥未](https://ja.wikipedia.org/wiki/山口祥未 "wikilink")（2012年11月 - 2014年3月、木曜日担当
+  - 佐藤智恵子（ - 2014年3月、水曜日担当、2012年7月 - 2013年3月は月曜アシスタント兼務）
+  - 岩手佳代子（2010年4月2日 - 2014年3月28日、金曜日担当）
+  - [齋藤幸恵](../Page/齋藤幸恵.md "wikilink")（2014年4月 - 9月、月曜日担当
+  - [中野美咲](https://ja.wikipedia.org/wiki/中野美咲 "wikilink")（2014年4月 - 9月、木曜日担当）
+  - [庄司由加](https://ja.wikipedia.org/wiki/庄司由加 "wikilink")（2014年4月 - 2015年3月24日、火曜日担当）
+  - [真野みづほ](../Page/真野みづほ.md "wikilink")（2014年4月 - 2015年3月25日、水曜日担当）
+  - [阿部未来](https://ja.wikipedia.org/wiki/阿部未来 "wikilink")（2014年10月 - 2015年3月23日、月曜日担当）
+  - [江利塚たまみ](https://ja.wikipedia.org/wiki/江利塚たまみ "wikilink")（2014年10月 - 2015年3月26日、木曜日担当）
+  - [千葉めぐみ](https://ja.wikipedia.org/wiki/千葉めぐみ_\(ローカルタレント・フリーアナウンサー\) "wikilink")（2015年4月1日 - 2020年3月25日、水曜日担当（2015年9月24日までは水・木曜日担当））
+  - [風間みなみ](https://ja.wikipedia.org/wiki/風間みなみ "wikilink")（2018年4月5日 - 2020年3月26日、木曜日担当）
+  - [きぬ](../Page/きぬ_\(タレント\).md "wikilink")（2014年4月 -2020年3月27日、金曜日担当）
+
+<!-- end list -->
+
+  - リポーター
+
+<!-- end list -->
+
   - [菅原美話](../Page/菅原美話.md "wikilink")（[MOC所属](https://ja.wikipedia.org/wiki/MOCプランニング "wikilink")）
   - [かれん](https://ja.wikipedia.org/wiki/岩田華怜 "wikilink")（MOC所属）
   - [安藤智夏](https://ja.wikipedia.org/wiki/安藤智夏 "wikilink")（MOC所属）
@@ -250,6 +281,10 @@
   - [岩崎心平](../Page/岩崎心平.md "wikilink")（KHBアナウンサー）
   - [高木玲](https://ja.wikipedia.org/wiki/高木玲 "wikilink")（KHBアナウンサー）
   - [渋佐和佳奈](https://ja.wikipedia.org/wiki/渋佐和佳奈 "wikilink")（KHBアナウンサー）
+  - [あべだいち](https://ja.wikipedia.org/wiki/あべだいち "wikilink")（元・ハンプティダンプティ）（ - 2010年5月26日、リポーター・「園児でGO\!」担当）
+  - あやか（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2010年8月24日、リポーター、結婚のため番組を降板）
+  - なつみ（[チェリブロ](https://ja.wikipedia.org/wiki/チェリブロ "wikilink")）（ - 2012年10月25日、リポーター・「デパスパ一番のり」木曜日担当、産休のため番組を降板）
+  - [シャベルカー](https://ja.wikipedia.org/wiki/シャベルカー "wikilink")（ティーライズ所属）
   - [河野珠実](https://ja.wikipedia.org/wiki/河野珠実 "wikilink")（2012年3月27日まではリポーターと「デパスパ一番のり」火曜日担当、最初の産休に伴う番組の一時降板を経て2014年3月からリポーターとして復帰し、2015年1月22日の番組放送後から2回目の産休に入った後\[1\]、同年8月6日から再び復帰、同年10月1日からは「デパスパ一番のり」木曜日担当を兼務。2018年3月29日の番組放送後から3回目の産休に入る）
 
 ## 主なコーナー

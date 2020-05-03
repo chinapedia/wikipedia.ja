@@ -538,7 +538,7 @@
   - エルザ
     原作では既に死亡した状態で登場したため、実際のところは不明（ただし、その時SIG SAUER P228かP229が登場している）。アニメ第1期で登場したシーンでは[SIG 550および](../Page/SIG_SG550.md "wikilink")[SIG 552を使用](../Page/SIG_SG552.md "wikilink")。
   - ペトルーシュカ
-    使用武器は[スペクトラ M4](https://ja.wikipedia.org/wiki/:en:Spectre_M4 "wikilink")、薄着など服装の都合でSMGが携行出来ない場合は[トーラスPT92も使用する](https://ja.wikipedia.org/wiki/:en:Taurus_PT92 "wikilink")。
+    使用武器は[スペクトラ M4](https://ja.wikipedia.org/wiki/:en:Spectre_M4 "wikilink")、薄着など服装の都合でSMGが携行出来ない場合は[トーラス PT92も使用する](../Page/トーラス_PT92.md "wikilink")。
   - アレッサンドロ
     使用拳銃は[ベレッタM92](https://ja.wikipedia.org/wiki/ベレッタM92 "wikilink")。
   - ベアトリーチェ

@@ -260,7 +260,7 @@
 
 ### テレビ
 
-  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（ゲスト）
+  - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（ゲスト）
 
 ### ラジオ
 

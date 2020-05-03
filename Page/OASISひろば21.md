@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - 完成当時は1階に[OBSラジオのサテライトスタジオ](https://ja.wikipedia.org/wiki/大分放送 "wikilink")「パルテ」があったが、現在は花屋（[日比谷花壇](https://ja.wikipedia.org/wiki/日比谷花壇 "wikilink")）になっている。
+  - 完成当時は1階に[OBSラジオのサテライトスタジオ](../Page/大分放送.md "wikilink")「パルテ」があったが、現在は花屋（[日比谷花壇](https://ja.wikipedia.org/wiki/日比谷花壇 "wikilink")）になっている。
 
 ## 所在地
 

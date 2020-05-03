@@ -383,7 +383,7 @@
   -
   -
   -
-[Category:バック・トゥ・ザ・フューチャー](https://ja.wikipedia.org/wiki/Category:バック・トゥ・ザ・フューチャー "wikilink") [Category:1989年の映画](https://ja.wikipedia.org/wiki/Category:1989年の映画 "wikilink") [Category:アラン・シルヴェストリの作曲映画](https://ja.wikipedia.org/wiki/Category:アラン・シルヴェストリの作曲映画 "wikilink") [Category:アンブリン・エンターテインメントの作品](https://ja.wikipedia.org/wiki/Category:アンブリン・エンターテインメントの作品 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink")
+[Category:バック・トゥ・ザ・フューチャー](https://ja.wikipedia.org/wiki/Category:バック・トゥ・ザ・フューチャー "wikilink") [Category:1989年の映画](https://ja.wikipedia.org/wiki/Category:1989年の映画 "wikilink") [Category:アラン・シルヴェストリの作曲映画](https://ja.wikipedia.org/wiki/Category:アラン・シルヴェストリの作曲映画 "wikilink") [Category:アンブリン・エンターテインメントの作品](https://ja.wikipedia.org/wiki/Category:アンブリン・エンターテインメントの作品 "wikilink") [Category:未来を題材にした映画作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした映画作品 "wikilink")
 
 1.  二見書房刊『大怪獣ゴジラ99の謎』より
 2.  [Magsurf](http://www.univ-paris-diderot.fr/Mediatheque/spip.php?article237)

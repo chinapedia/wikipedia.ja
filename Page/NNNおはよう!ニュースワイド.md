@@ -109,7 +109,7 @@ NNN系列の朝の全国ニュース番組であった『[NNN朝のニュース]
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -68,9 +68,9 @@
 <thead>
 <tr class="header">
 <th><p>時刻</p></th>
-<th><p>月曜日</p></th>
+<th><p>月曜日 &lt;!--</p></th>
 <th><p>火曜日</p></th>
-<th><p>水曜日</p></th>
+<th><p>水曜日 --&gt;</p></th>
 <th><p>木曜日</p></th>
 <th><p>金曜日</p></th>
 <th><p>土曜日</p></th>
@@ -206,10 +206,10 @@
 </tr>
 <tr class="even">
 <td><p>翌1:00</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/楠木ともり_The_Music_Reverie" title="wikilink">楠木ともり The Music Reverie</a></strong></p></td>
+<td><p><strong><a href="../Page/楠木ともり_The_Music_Reverie.md" title="wikilink">楠木ともり The Music Reverie</a></strong></p></td>
 <td><p>[他]<strong><a href="../Page/神谷浩史・小野大輔のDearGirl〜Stories〜.md" title="wikilink">神谷浩史・小野大輔のDearGirl〜Stories〜</a></strong><br />
 2011年3月まで[AG+][文+]</p></td>
-<td><p>[AG+]<strong><a href="https://ja.wikipedia.org/wiki/RADIO_HAMAMATSUCHO" title="wikilink">RADIO HAMAMATSUCHO</a></strong></p></td>
+<td><p>[AG+]<strong><a href="../Page/RADIO_HAMAMATSUCHO.md" title="wikilink">RADIO HAMAMATSUCHO</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -231,7 +231,7 @@
 <td><p>翌2:00</p></td>
 <td><p>[他]<strong><a href="../Page/堀江由衣の天使のたまご.md" title="wikilink">堀江由衣の天使のたまご</a></strong><br />
 2011年3月まで[文+]</p></td>
-<td><p><strong>MOMO・SORA・SHIINA Talking Box</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/TrySail" title="wikilink">MOMO・SORA・SHIINA Talking Box</a></strong><br />
 <a href="https://ja.wikipedia.org/wiki/麻倉もも" title="wikilink">麻倉もも</a>、<a href="https://ja.wikipedia.org/wiki/雨宮天" title="wikilink">雨宮天</a>、<a href="https://ja.wikipedia.org/wiki/夏川椎菜" title="wikilink">夏川椎菜</a></p></td>
 <td></td>
 <td></td>
@@ -264,9 +264,9 @@
 </tr>
 <tr class="odd">
 <td><p>時刻</p></td>
-<td><p>月曜日</p></td>
+<td><p>月曜日 &lt;!--</p></td>
 <td><p>火曜日</p></td>
-<td><p>水曜日</p></td>
+<td><p>水曜日 --&gt;</p></td>
 <td><p>木曜日</p></td>
 <td><p>金曜日</p></td>
 <td><p>土曜日</p></td>

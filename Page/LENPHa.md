@@ -1,42 +1,47 @@
 > この記事は[LENPHa](https://ja.wikipedia.org/wiki/LENPHa)から翻訳されています。
 
 
-**LENPHa**（**れんふぁ**）は、 女性2人による[音楽ユニット](../Page/二人組.md "wikilink")。
+**LENPHa**（れんふぁ）は、 女性2名による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/二人組.md "wikilink")。
 
-[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")、[全薬工業](../Page/全薬工業.md "wikilink")株式会社新ジキニン顆粒の[CMソングとして](../Page/コマーシャルソング.md "wikilink")「スウィート スマイル」で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。ユニット名のLENPHaは[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で恋花（れんふぁ）と書き、響きが良く、女性の恋の歌を花のように優しく歌っていきたいという気持ちを込めて命名された。
+## メンバー
 
-メンバーは[永遠花](https://ja.wikipedia.org/wiki/吉田玲奈 "wikilink")（はるか、[大阪府](../Page/大阪府.md "wikilink")出身）と[樹凛花](https://ja.wikipedia.org/wiki/河田純子 "wikilink")（じゅりか、[秋田県](../Page/秋田県.md "wikilink")出身）の2人。本人たちの[ブログ](../Page/ブログ.md "wikilink")では「LENPHa☆ハルカ」「LENPHa☆ジュリカ」と自らを表記している。
+  - [永遠花](https://ja.wikipedia.org/wiki/吉田玲奈 "wikilink")（はるか、[大阪府](../Page/大阪府.md "wikilink")出身）
+  - [樹凛花](https://ja.wikipedia.org/wiki/河田純子 "wikilink")（じゅりか、[秋田県](../Page/秋田県.md "wikilink")出身）
 
-## 略歴
+## 概要
 
-2005年夏、全薬工業株式会社の新ジキニン顆粒のCMが作られる。同年秋にCDデビューすることが決まり、15秒のCM部分に歌詞･曲を加筆し、『スウィート スマイル』として完成。同年11月30日CDデビュー。
+[2005年](../Page/2005年.md "wikilink")夏、[全薬工業](../Page/全薬工業.md "wikilink")株式会社「新ジキニン顆粒」のCM、および[CMソングが作られ](../Page/コマーシャルソング.md "wikilink")、2人で歌唱。
 
-## ディスコグラフィー
+同年秋、正式にCDデビューすることが決まり、15秒のCMソングに歌詞・曲が加筆され、「LENPHa」のユニット名で、11月30日にシングル『スウィート スマイル』をリリース。「LENPHa」は[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で「恋花（れんふぁ）」と書き、響きが良く、女性の恋の歌を花のように優しく歌っていきたいという気持ちを込めて命名。オフィシャルサイトを開設したり、「♪LENPHa（れんふぁ）のぽかぽか日記♪」と題した[ブログ](../Page/ブログ.md "wikilink")も綴っていた。
 
-  - スウィート スマイル/Flower tears（2005年11月30日発売）
-    \*\#スウィート スマイル（作詞:樹凛花　作曲:[角田崇徳](https://ja.wikipedia.org/wiki/角田崇徳 "wikilink")　編曲:角田崇徳）
-    \*\#Flower tears（作詞:樹凛花　作曲:[MOTO G3](https://ja.wikipedia.org/wiki/MOTO_G3 "wikilink")　編曲:[MOTO G3](https://ja.wikipedia.org/wiki/MOTO_G3 "wikilink")）
-    \*\#スウィート スマイル (Inst Ver.)
-    \*\#Flower tears (Inst Ver.)
+## ディスコグラフィ
+
+### シングル
+
+  - スウィート スマイル　c/w　Flower tears（2005年11月30日発売）
+    1.  スウィート スマイル（作詞:樹凛花　作曲:[角田崇徳](https://ja.wikipedia.org/wiki/角田崇徳 "wikilink")　編曲:角田崇徳）
+    2.  Flower tears（作詞:樹凛花　作曲:[MOTO G3](https://ja.wikipedia.org/wiki/MOTO_G3 "wikilink")　編曲:[MOTO G3](https://ja.wikipedia.org/wiki/MOTO_G3 "wikilink")）
+    3.  スウィート スマイル (Inst Ver.)
+    4.  Flower tears (Inst Ver.)
 
 ## ライブイベント
 
-  - 2006年01月08日　ライヴ「[横浜ベイサイドマリーナ](https://ja.wikipedia.org/wiki/横浜ベイサイドマリーナ "wikilink")」(3ステージ)
-  - 2006年02月12日　ライヴ「横浜ベイサイドマリーナ」(3ステージ)
-  - 2006年02月19日　ライヴ「[ガーデンウォ〜ク幕張](https://ja.wikipedia.org/wiki/ガーデンウォ〜ク幕張 "wikilink")」(3ステージ)
+  - 2006年1月8日 - [横浜ベイサイドマリーナ](https://ja.wikipedia.org/wiki/横浜ベイサイドマリーナ "wikilink")（3ステージ）
+  - 2006年2月12日 - 横浜ベイサイドマリーナ（3ステージ）
+  - 2006年2月19日 - [ガーデンウォ〜ク幕張](https://ja.wikipedia.org/wiki/ガーデンウォ〜ク幕張 "wikilink")（3ステージ）
 
-## ラジオ出演
+## 出演
 
-  - 2006年02月28日　[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")『TOKYO UPSIDE STATION』ゲスト出演
+### ラジオ
 
-## その他
+  - TOKYO UPSIDE STATION（2006年2月28日、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")）
 
-  - 2006年02月03日　[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")『[晴香葉子](https://ja.wikipedia.org/wiki/晴香葉子 "wikilink")のスピリチュアルLives』生出演
+### WEB
+
+  - [晴香葉子](https://ja.wikipedia.org/wiki/晴香葉子 "wikilink")のスピリチュアルLives（2006年2月3日、[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）
 
 ## 外部リンク
 
-  - [LENPHa（レンファ／恋花）オフィシャルサイト](http://www.lenpha.com/)
   - [コロムビアミュージックエンタテインメント | LENPHa(レンファ)](http://columbia.jp/artist-info/lenpha/)
-  - [♪LENPHa（れんふぁ）のぽかぽか日記♪](http://blog.lenpha.com/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

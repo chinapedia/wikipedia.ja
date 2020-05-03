@@ -6,7 +6,7 @@
 ## 解説
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")に[エイベックスよりリリース](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
-  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』のイメージソング。
+  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』のイメージソング。
   - このPVは、[サイパン島](../Page/サイパン島.md "wikilink")の近くの[マニャガハ島](../Page/マニャガハ島.md "wikilink")で撮影された。最初は小室のスタジオで2人で撮影して、[ブルーバック](../Page/ブルーバック.md "wikilink")で南の島の風景を映すだけの予定だったが「フィルムに自分が映っていたらおもろいな」という浜田の意向で1泊2日のサイパンロケを強行した\[1\]。
   - 1995年5月初頭に企画が動き出し同月下旬にメロディーが完成したが\[2\]、浜田はデモテープを聞いた途端「何やこれ\!めちゃ難しいよ\!この曲\!」と叫んで一度帰ってしまったほどに、間を置くエフェクト・仕掛け・驚かし等の演出が無い「Aメロ→Bメロ→サビ→間奏→Aメロ」の中でボーカルを[フィーチャリング](../Page/フィーチャリング.md "wikilink")していく方針をとった\[3\]。
   - 楽曲のタイトルの意味は「故郷に帰る」という意味もあるが、今作では「自分の大事な人・大切な女性」という意味を込めている\[4\]。
@@ -26,7 +26,7 @@
 
 ## 脚注
 
-[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:家を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:家を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.  [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/Bart "wikilink")」1995年8月14日号88Pより。
 2.

@@ -332,6 +332,11 @@
   - [COSMIC CUTE Official Website（年齢確認あり）](http://www.cosmiccute.com/)
   - [同人サークル「有葉と愉快な仲間達HP」（年齢確認有）](http://home.att.ne.jp/omega/akabeisoft/) - 同人サークルAKABEiSOFTの情報も掲載
 
+<!-- end list -->
+
+  -
+  -
+  -
 [Category:AKABEiSOFT2](https://ja.wikipedia.org/wiki/Category:AKABEiSOFT2 "wikilink") [Category:福岡市中央区の企業](https://ja.wikipedia.org/wiki/Category:福岡市中央区の企業 "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.  [あかべぇそふとつぅ＞求人情報](http://www.akabeesoft2.com/recruit.html) 2014年12月23日閲覧

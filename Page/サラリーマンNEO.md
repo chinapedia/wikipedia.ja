@@ -770,8 +770,7 @@
 
   - [サラリーマンNEO　メイキングインタビュー](http://www.tvco.tv/interview/index.php?action=detail&id=26)（[テレビコ](https://ja.wikipedia.org/wiki/MEDIACO "wikilink")）
 
-  - [DVD公式サイト](http://www.ponycanyon.co.jp/neo/)
-
+  -
   - [「サラリーマンNEO 劇場版（笑）」公式サイト](http://www.neo-movie.com/)
 
   - [「劇場版サラリーマンNEO」公式アカウント](https://twitter.com/neothemovie)（neothemovie） - [Twitter](../Page/Twitter.md "wikilink")

@@ -35,7 +35,7 @@
       -
         チームスローガン：「**粘り勝つ\! 常昇**」\[14\]
 
-    元[G大阪の](../Page/ガンバ大阪.md "wikilink")[伊藤博幹](../Page/伊藤博幹.md "wikilink")ら経験者を中心に11名を補強\[15\]。[同年の中国リーグでは連覇は逃したが](https://ja.wikipedia.org/wiki/2009年の地域リーグ_\(サッカー\)#中国 "wikilink")、優勝した[佐川急便中国が](../Page/佐川急便中国サッカー部.md "wikilink")[地域決勝出場を辞退したため](https://ja.wikipedia.org/wiki/第33回全国地域サッカーリーグ決勝大会 "wikilink")、繰り上げで2年連続で地域決勝に進出。1次ラウンドグループCで[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")にPK戦で勝利し、[浜松大学FCに勝利するも松本山雅FCに敗れてグループ](https://ja.wikipedia.org/wiki/常葉大学浜松キャンパスサッカー部 "wikilink")2位となり敗退。
+    元[G大阪の](../Page/ガンバ大阪.md "wikilink")[伊藤博幹](../Page/伊藤博幹.md "wikilink")ら経験者を中心に11名を補強\[15\]。[同年の中国リーグでは連覇は逃したが](https://ja.wikipedia.org/wiki/2009年の地域リーグ_\(サッカー\)#中国 "wikilink")、優勝した[佐川急便中国が](../Page/佐川急便中国サッカー部.md "wikilink")[地決出場を辞退したため](https://ja.wikipedia.org/wiki/第33回全国地域サッカーリーグ決勝大会 "wikilink")、繰り上げで2年連続で地域決勝に進出。1次ラウンドグループCで[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")にPK戦で勝利し、[浜松大学FCに勝利するも松本山雅FCに敗れてグループ](https://ja.wikipedia.org/wiki/常葉大学浜松キャンパスサッカー部 "wikilink")2位となり敗退。
 
     [第89回天皇杯では](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink")[三菱水島FC](../Page/三菱水島FC.md "wikilink")を下して初勝利を上げ、Jリーグ勢との対戦を実現させた（[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")に敗戦）。
 
@@ -101,7 +101,7 @@
 
 上野体制2年目。契約満了等によりMF[飯塚亮](https://ja.wikipedia.org/wiki/飯塚亮 "wikilink")、GK寺田賢人、DF[高田健吾](https://ja.wikipedia.org/wiki/高田健吾 "wikilink")、MF[三浦旭人](https://ja.wikipedia.org/wiki/三浦旭人 "wikilink")、DF[孫正倫](https://ja.wikipedia.org/wiki/孫正倫 "wikilink")、MF坂本博、DF[吉弘充志](../Page/吉弘充志.md "wikilink")、MF[松元亮仁](https://ja.wikipedia.org/wiki/松元亮仁 "wikilink")、DF内山勇斗、FW[岡本秀雄](https://ja.wikipedia.org/wiki/岡本秀雄 "wikilink")、期限付き移籍中だったMF福原康太とMF田村隆生が退団。また、期限付き移籍期間満了により[熊本から加入していたMF](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")[山崎侑輝](https://ja.wikipedia.org/wiki/山崎侑輝 "wikilink")（JFL・[栃木Uに完全移籍](../Page/栃木シティフットボールクラブ.md "wikilink")）、DF[藤本大](https://ja.wikipedia.org/wiki/藤本大 "wikilink")（熊本に復帰）、FW[ジョン・ミンヒョク](https://ja.wikipedia.org/wiki/鄭民奕 "wikilink")（熊本も退団）、[福岡から加入していたMF](../Page/アビスパ福岡.md "wikilink")[ジャン・ジョンウォン](https://ja.wikipedia.org/wiki/張庭源 "wikilink")（福岡も退団）、[長崎から加入していたMF](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")[西森正明](../Page/西森正明.md "wikilink")（引退）、[松本から加入していたMF](../Page/松本山雅FC.md "wikilink")[岩渕良太](https://ja.wikipedia.org/wiki/岩渕良太 "wikilink")（[琉球に期限付き移籍](../Page/FC琉球.md "wikilink")）がいずれもチームを離れた。加えて、GK[永冨裕尚](https://ja.wikipedia.org/wiki/永冨裕尚 "wikilink")がJFL・[滋賀に](../Page/MIOびわこ滋賀.md "wikilink")、FW三橋隼斗がJFL・[横河武蔵野にそれぞれ完全移籍することになった](https://ja.wikipedia.org/wiki/横河電機サッカー部 "wikilink")。これにより、中国リーグ時代からの選手はDF[碇野壱馬](https://ja.wikipedia.org/wiki/碇野壱馬 "wikilink")（2010年加入）とMF[平林輝良寛](../Page/平林輝良寛.md "wikilink")（2013年加入）の2名だけとなった。
 
-一方、[町田から期限付き加入中だった前年JFL得点王のFW](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")[岸田和人](https://ja.wikipedia.org/wiki/岸田和人 "wikilink")が完全移籍加入、MF[小塚和季](https://ja.wikipedia.org/wiki/小塚和季 "wikilink")の[新潟からの期限付き移籍期間を延長](../Page/アルビレックス新潟.md "wikilink")、JFL・[V大分からDF](../Page/ヴェルスパ大分.md "wikilink")[黒木恭平](https://ja.wikipedia.org/wiki/黒木恭平 "wikilink")とMF[福満隆貴](https://ja.wikipedia.org/wiki/福満隆貴 "wikilink")、[讃岐からGK](../Page/カマタマーレ讃岐.md "wikilink")[森田耕一郎](../Page/森田耕一郎_\(サッカー選手\).md "wikilink")、町田からMF[庄司悦大](https://ja.wikipedia.org/wiki/庄司悦大 "wikilink")をそれぞれ完全移籍で、[広島からMF](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")[キム・ジョンソク](https://ja.wikipedia.org/wiki/金廷錫 "wikilink")（前年は熊本に期限付き移籍）、[横浜FMからMF](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[松本翔](https://ja.wikipedia.org/wiki/松本翔 "wikilink")、[Kリーグクラシック](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")・[水原三星からMF](../Page/水原三星ブルーウィングス.md "wikilink")[チェ・ジュヨンをそれぞれ期限付き移籍でそれぞれ獲得](https://ja.wikipedia.org/wiki/崔珠龍 "wikilink")。また、MF[浦紘史](https://ja.wikipedia.org/wiki/浦紘史 "wikilink")（[佐賀大学](../Page/佐賀大学.md "wikilink")）、FW[原口拓人](https://ja.wikipedia.org/wiki/原口拓人 "wikilink")（[関西大学](https://ja.wikipedia.org/wiki/関西大学サッカー部 "wikilink")）、DF[古澤慶太](https://ja.wikipedia.org/wiki/古澤慶太 "wikilink")（[桐蔭横浜大学](../Page/桐蔭横浜大学.md "wikilink")）、DF[香川勇気](https://ja.wikipedia.org/wiki/香川勇気 "wikilink")（[阪南大学](https://ja.wikipedia.org/wiki/阪南大学サッカー部 "wikilink")）、DF[廣木雄磨](https://ja.wikipedia.org/wiki/廣木雄磨 "wikilink")（[東京学芸大学](../Page/東京学芸大学.md "wikilink")）、DF[泉悠哉](https://ja.wikipedia.org/wiki/泉悠哉 "wikilink")（[徳山大学](../Page/徳山大学.md "wikilink")）、GK[村上昌謙](https://ja.wikipedia.org/wiki/村上昌謙 "wikilink")（[大阪体育大学](../Page/大阪体育大学.md "wikilink")）の大卒7名が新加入となった。開幕後、[特別指定選手](../Page/特別指定選手.md "wikilink")としてFW川口真史（[山口大学](../Page/山口大学.md "wikilink")）が加入。夏の移籍期間にはMFキム・ジョンソクが広島からの期限付き加入を終了し、DF古澤慶太と共に[東海リーグ](../Page/東海社会人サッカーリーグ.md "wikilink")・[FC刈谷](../Page/FC刈谷.md "wikilink")に期限付き移籍した一方で、琉球からDF[前田晃一を完全移籍で](https://ja.wikipedia.org/wiki/前田晃一_\(サッカー選手\) "wikilink")、[愛媛からDF](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")[代健司](https://ja.wikipedia.org/wiki/代健司 "wikilink")を期限付き移籍で獲得した。
+一方、[町田から期限付き加入中だった前年JFL得点王のFW](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")[岸田和人](https://ja.wikipedia.org/wiki/岸田和人 "wikilink")が完全移籍加入、MF[小塚和季](https://ja.wikipedia.org/wiki/小塚和季 "wikilink")の[新潟からの期限付き移籍期間を延長](../Page/アルビレックス新潟.md "wikilink")、JFL・[V大分からDF](../Page/ヴェルスパ大分.md "wikilink")[黒木恭平](https://ja.wikipedia.org/wiki/黒木恭平 "wikilink")とMF[福満隆貴](https://ja.wikipedia.org/wiki/福満隆貴 "wikilink")、[讃岐からGK](../Page/カマタマーレ讃岐.md "wikilink")[森田耕一郎](../Page/森田耕一郎_\(サッカー選手\).md "wikilink")、町田からMF[庄司悦大](https://ja.wikipedia.org/wiki/庄司悦大 "wikilink")をそれぞれ完全移籍で、[広島からMF](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")[キム・ジョンソク](https://ja.wikipedia.org/wiki/金廷錫 "wikilink")（前年は熊本に期限付き移籍）、[横浜FMからMF](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[松本翔](https://ja.wikipedia.org/wiki/松本翔 "wikilink")、[Kリーグクラシック](../Page/Kリーグ1.md "wikilink")・[水原三星からMF](../Page/水原三星ブルーウィングス.md "wikilink")[チェ・ジュヨンをそれぞれ期限付き移籍でそれぞれ獲得](https://ja.wikipedia.org/wiki/崔珠龍 "wikilink")。また、MF[浦紘史](https://ja.wikipedia.org/wiki/浦紘史 "wikilink")（[佐賀大学](../Page/佐賀大学.md "wikilink")）、FW[原口拓人](https://ja.wikipedia.org/wiki/原口拓人 "wikilink")（[関西大学](https://ja.wikipedia.org/wiki/関西大学サッカー部 "wikilink")）、DF[古澤慶太](https://ja.wikipedia.org/wiki/古澤慶太 "wikilink")（[桐蔭横浜大学](https://ja.wikipedia.org/wiki/桐蔭横浜大学サッカー部 "wikilink")）、DF[香川勇気](https://ja.wikipedia.org/wiki/香川勇気 "wikilink")（[阪南大学](https://ja.wikipedia.org/wiki/阪南大学サッカー部 "wikilink")）、DF[廣木雄磨](https://ja.wikipedia.org/wiki/廣木雄磨 "wikilink")（[東京学芸大学](../Page/東京学芸大学.md "wikilink")）、DF[泉悠哉](https://ja.wikipedia.org/wiki/泉悠哉 "wikilink")（[徳山大学](../Page/徳山大学.md "wikilink")）、GK[村上昌謙](https://ja.wikipedia.org/wiki/村上昌謙 "wikilink")（[大阪体育大学](../Page/大阪体育大学.md "wikilink")）の大卒7名が新加入となった。開幕後、[特別指定選手](../Page/特別指定選手.md "wikilink")としてFW川口真史（[山口大学](../Page/山口大学.md "wikilink")）が加入。夏の移籍期間にはMFキム・ジョンソクが広島からの期限付き加入を終了し、DF古澤慶太と共に[東海リーグ](../Page/東海社会人サッカーリーグ.md "wikilink")1部・[FC刈谷](../Page/FC刈谷.md "wikilink")に期限付き移籍した一方で、琉球からDF[前田晃一を完全移籍で](https://ja.wikipedia.org/wiki/前田晃一_\(サッカー選手\) "wikilink")、[愛媛からDF](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")[代健司](https://ja.wikipedia.org/wiki/代健司 "wikilink")を期限付き移籍で獲得した。
 
 Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスターティングメンバー](../Page/ガイナーレ鳥取.md "wikilink")11名のうち9名がJリーグ初出場となる顔ぶれで臨んだJ3参入初年度\[30\] の下馬評は決して高くなかったが、前年から引き続き“細かくパスをつないで崩すサッカー”を徹底\[31\] し、第2節・[J-22戦ではJリーグ記録タイとなる](https://ja.wikipedia.org/wiki/Jリーグ・アンダー22選抜 "wikilink")8-0で圧勝する\[32\] など前線の4人を中心に全員が連動する攻撃的サッカーを展開。第1クール（第1節-第13節）を10勝2敗、第2クール（第14節-第26節）を10勝1分1敗とリーグを席巻する。
 
@@ -128,9 +128,9 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 
     上野体制3年目。新たにコーチとして元[金沢コーチの](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")[山根巌](../Page/山根巌.md "wikilink")が就任。
 
-    契約満了等により、DF[池永航](https://ja.wikipedia.org/wiki/池永航 "wikilink")、DF[泉悠哉](https://ja.wikipedia.org/wiki/泉悠哉 "wikilink")（以上JFL・[滋賀へ移籍](../Page/MIOびわこ滋賀.md "wikilink")）、DF[碇野壱馬](https://ja.wikipedia.org/wiki/碇野壱馬 "wikilink")（現役引退しアカデミーのスタッフに転身）、MF[黒田拓真](https://ja.wikipedia.org/wiki/黒田拓真 "wikilink")（[東海リーグ](../Page/東海社会人サッカーリーグ.md "wikilink")・[FC刈谷](../Page/FC刈谷.md "wikilink")へ移籍）、DF[前田晃一](https://ja.wikipedia.org/wiki/前田晃一_\(サッカー選手\) "wikilink")（[藤枝へ移籍](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")）、DF[菊本侑希](https://ja.wikipedia.org/wiki/菊本侑希 "wikilink")（JFL・[浦安へ移籍](https://ja.wikipedia.org/wiki/ブリオベッカ浦安 "wikilink")）、MF[浦紘史](https://ja.wikipedia.org/wiki/浦紘史 "wikilink")（[関西リーグ](../Page/関西サッカーリーグ.md "wikilink")2部・[FCティアモ枚方](../Page/FCティアモ枚方.md "wikilink")へ移籍）、GK[森田耕一郎の](../Page/森田耕一郎_\(サッカー選手\).md "wikilink")8名が退団。期限付き加入中だったMF[松本翔](https://ja.wikipedia.org/wiki/松本翔 "wikilink")（[横浜FMも契約満了](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）、MF[チェ・ジュヨン](https://ja.wikipedia.org/wiki/崔珠龍 "wikilink")（[Kリーグクラシック](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")・[水原三星に復帰](../Page/水原三星ブルーウィングス.md "wikilink")）、DF[代健司](https://ja.wikipedia.org/wiki/代健司 "wikilink")（[富山へ完全移籍](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")）、MF[小塚和季](https://ja.wikipedia.org/wiki/小塚和季 "wikilink")（[新潟に復帰](../Page/アルビレックス新潟.md "wikilink")）が期限付き移籍満了となった。また、期限付き移籍中だったDF[古澤慶太](https://ja.wikipedia.org/wiki/古澤慶太 "wikilink")は新たにJFL・[東京武蔵野への期限付き移籍となった](https://ja.wikipedia.org/wiki/東京武蔵野シティFC "wikilink")。
+    契約満了等により、DF[池永航](https://ja.wikipedia.org/wiki/池永航 "wikilink")、DF[泉悠哉](https://ja.wikipedia.org/wiki/泉悠哉 "wikilink")（以上JFL・[滋賀へ移籍](../Page/MIOびわこ滋賀.md "wikilink")）、DF[碇野壱馬](https://ja.wikipedia.org/wiki/碇野壱馬 "wikilink")（現役引退しアカデミーのスタッフに転身）、MF[黒田拓真](https://ja.wikipedia.org/wiki/黒田拓真 "wikilink")（[東海リーグ](../Page/東海社会人サッカーリーグ.md "wikilink")1部・[FC刈谷](../Page/FC刈谷.md "wikilink")へ移籍）、DF[前田晃一](https://ja.wikipedia.org/wiki/前田晃一_\(サッカー選手\) "wikilink")（[藤枝へ移籍](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")）、DF[菊本侑希](https://ja.wikipedia.org/wiki/菊本侑希 "wikilink")（JFL・[浦安へ移籍](https://ja.wikipedia.org/wiki/ブリオベッカ浦安 "wikilink")）、MF[浦紘史](https://ja.wikipedia.org/wiki/浦紘史 "wikilink")（[関西リーグ](../Page/関西サッカーリーグ.md "wikilink")2部・[FCティアモ枚方](../Page/FCティアモ枚方.md "wikilink")へ移籍）、GK[森田耕一郎の](../Page/森田耕一郎_\(サッカー選手\).md "wikilink")8名が退団。期限付き加入中だったMF[松本翔](https://ja.wikipedia.org/wiki/松本翔 "wikilink")（[横浜FMも契約満了](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）、MF[チェ・ジュヨン](https://ja.wikipedia.org/wiki/崔珠龍 "wikilink")（[Kリーグクラシック](../Page/Kリーグ1.md "wikilink")・[水原三星に復帰](../Page/水原三星ブルーウィングス.md "wikilink")）、DF[代健司](https://ja.wikipedia.org/wiki/代健司 "wikilink")（[富山へ完全移籍](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")）、MF[小塚和季](https://ja.wikipedia.org/wiki/小塚和季 "wikilink")（[新潟に復帰](../Page/アルビレックス新潟.md "wikilink")）が期限付き移籍満了となった。また、期限付き移籍中だったDF[古澤慶太](https://ja.wikipedia.org/wiki/古澤慶太 "wikilink")は新たにJFL・[東京武蔵野への期限付き移籍となった](https://ja.wikipedia.org/wiki/東京武蔵野シティFC "wikilink")。
 
-    戦力補強として、[秋田からDF](../Page/ブラウブリッツ秋田.md "wikilink")[島川俊郎](https://ja.wikipedia.org/wiki/島川俊郎 "wikilink")、[鳥取からMF](../Page/ガイナーレ鳥取.md "wikilink")[安藤由翔](https://ja.wikipedia.org/wiki/安藤由翔 "wikilink")とFW[中山仁斗](https://ja.wikipedia.org/wiki/中山仁斗 "wikilink")、[東京VからDF](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[福井諒司](https://ja.wikipedia.org/wiki/福井諒司 "wikilink")、JFL・[SP京都からMF](../Page/SP京都FC.md "wikilink")[加藤大樹](https://ja.wikipedia.org/wiki/加藤大樹_\(サッカー選手\) "wikilink")、[福島からDF](../Page/福島ユナイテッドFC.md "wikilink")[星雄次](https://ja.wikipedia.org/wiki/星雄次 "wikilink")、[盛岡からGK](../Page/いわてグルージャ盛岡.md "wikilink")[田端信成](https://ja.wikipedia.org/wiki/田端信成 "wikilink")、Kリーグクラシック・[大田からDF](https://ja.wikipedia.org/wiki/大田シチズン "wikilink")[ユン・シンヨン](https://ja.wikipedia.org/wiki/尹信榮 "wikilink")、元[相模原のMF](../Page/SC相模原.md "wikilink")[三幸秀稔](https://ja.wikipedia.org/wiki/三幸秀稔 "wikilink")をそれぞれ完全移籍で、[名古屋からMF](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[望月嶺臣](https://ja.wikipedia.org/wiki/望月嶺臣 "wikilink")、横浜FMからDF[北谷史孝](https://ja.wikipedia.org/wiki/北谷史孝 "wikilink")をそれぞれ期限付き移籍で獲得。また、DF[奥山政幸](https://ja.wikipedia.org/wiki/奥山政幸 "wikilink")（[早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")）とMF[篠原宏仁](https://ja.wikipedia.org/wiki/篠原宏仁 "wikilink")（[関西大学](https://ja.wikipedia.org/wiki/関西大学体育会サッカー部 "wikilink")）が新加入。
+    戦力補強として、[秋田からDF](../Page/ブラウブリッツ秋田.md "wikilink")[島川俊郎](https://ja.wikipedia.org/wiki/島川俊郎 "wikilink")、[鳥取からMF](../Page/ガイナーレ鳥取.md "wikilink")[安藤由翔](https://ja.wikipedia.org/wiki/安藤由翔 "wikilink")とFW[中山仁斗](https://ja.wikipedia.org/wiki/中山仁斗 "wikilink")、[東京VからDF](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[福井諒司](https://ja.wikipedia.org/wiki/福井諒司 "wikilink")、JFL・[SP京都からMF](../Page/SP京都FC.md "wikilink")[加藤大樹](https://ja.wikipedia.org/wiki/加藤大樹_\(サッカー選手\) "wikilink")、[福島からDF](../Page/福島ユナイテッドFC.md "wikilink")[星雄次](https://ja.wikipedia.org/wiki/星雄次 "wikilink")、[盛岡からGK](../Page/いわてグルージャ盛岡.md "wikilink")[田端信成](https://ja.wikipedia.org/wiki/田端信成 "wikilink")、Kリーグクラシック・[大田からDF](../Page/大田ハナシチズン.md "wikilink")[ユン・シンヨン](https://ja.wikipedia.org/wiki/尹信榮 "wikilink")、元[相模原のMF](../Page/SC相模原.md "wikilink")[三幸秀稔](https://ja.wikipedia.org/wiki/三幸秀稔 "wikilink")をそれぞれ完全移籍で、[名古屋からMF](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[望月嶺臣](https://ja.wikipedia.org/wiki/望月嶺臣 "wikilink")、横浜FMからDF[北谷史孝](https://ja.wikipedia.org/wiki/北谷史孝 "wikilink")をそれぞれ期限付き移籍で獲得。また、DF[奥山政幸](https://ja.wikipedia.org/wiki/奥山政幸 "wikilink")（[早稲田大学](../Page/早稲田大学ア式蹴球部.md "wikilink")）とMF[篠原宏仁](https://ja.wikipedia.org/wiki/篠原宏仁 "wikilink")（[関西大学](https://ja.wikipedia.org/wiki/関西大学体育会サッカー部 "wikilink")）が新加入。
 
     シーズン途中には出場機会のなかったDF福井諒司が[水戸へ](../Page/水戸ホーリーホック.md "wikilink")、DF島川俊郎が[栃木へそれぞれ期限付き移籍する一方で](../Page/栃木SC.md "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")からMF[幸野志有人](https://ja.wikipedia.org/wiki/幸野志有人 "wikilink")を[育成型期限付き移籍](https://ja.wikipedia.org/wiki/育成型期限付き移籍 "wikilink")で、[岡山からFW](../Page/ファジアーノ岡山FC.md "wikilink")[岡本英也](../Page/岡本英也.md "wikilink")を期限付き移籍で、・からアルゼンチン人のMF[ルシアーノを完全移籍でそれぞれ獲得した](https://ja.wikipedia.org/wiki/ルシアーノ・ロメロ "wikilink")。
 
@@ -336,14 +336,15 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <tr class="even">
 <td><p>背中下部</p></td>
 <td><p><a href="http://exzeal.co.jp/">エクスジール</a></p></td>
-<td><p>EXZEAL</p></td>
+<td><p>EXZEΛL</p></td>
 <td><p>2020年 -</p></td>
 <td><p>2018年 - 2019年は鎖骨</p></td>
 </tr>
 <tr class="odd">
 <td><p>袖</p></td>
 <td><p><a href="http://maeda-shoji.co.jp/">マエダ商事</a></p></td>
-<td><p>ME</p></td>
+<td><p>ME<br />
+</p></td>
 <td><p>2014年 -</p></td>
 <td><p>2013年はパンツ</p></td>
 </tr>
@@ -351,7 +352,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <td><p>パンツ</p></td>
 <td><p><a href="../Page/マックスバリュ西日本.md" title="wikilink">マックスバリュ西日本</a></p></td>
 <td><p><a href="../Page/マックスバリュ.md" title="wikilink">MaxValu</a>（1st）<br />
-<a href="https://ja.wikipedia.org/wiki/ザ・ビッグ" title="wikilink">BIG</a>（2nd）</p></td>
+<a href="https://ja.wikipedia.org/wiki/ザ・ビッグ" title="wikilink">BiG</a>（2nd）</p></td>
 <td><p>2016年 -</p></td>
 <td></td>
 </tr>
@@ -361,7 +362,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 ### ユニフォームサプライの遍歴
 
   - 2006年 - 2012年：[アシックス](../Page/アシックス.md "wikilink")
-  - 2013年：[ディアドラ](https://ja.wikipedia.org/wiki/ディアドラ "wikilink")
+  - 2013年：[ディアドラ](../Page/ディアドラ_\(イタリアの企業\).md "wikilink")
   - 2014年 - 現在：[フィンタ](https://ja.wikipedia.org/wiki/フィンタ "wikilink")
 
 ### 歴代ユニフォーム
@@ -399,7 +400,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <td><p>シティコンタクト</p></td>
 <td><p>解禁前</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">美・メーク</a></p></td>
-<td><p>ほっぷ</p></td>
+<td><p><a href="https://www.hoppu.co.jp/">ほっぷ</a></p></td>
 <td><p><a href="../Page/アシックス.md" title="wikilink">asics</a></p></td>
 </tr>
 <tr class="odd">
@@ -416,7 +417,8 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <td><p>2008</p></td>
 <td><p><a href="../Page/富士商.md" title="wikilink">富士商</a></p></td>
 <td><p>赤崎興産</p></td>
-<td><p>MC Fujiyama</p></td>
+<td><p>MC<br />
+Fujiyama</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -424,7 +426,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><a href="../Page/豆子郎.md" title="wikilink">10shiro</a></p></td>
+<td><p><a href="../Page/豆子郎.md" title="wikilink">10{{smaller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -454,7 +456,8 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">PIECE IS PEACE</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">PIECE IS PEACE<br />
+高品質で美しく</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -464,10 +467,14 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p>ヒューモア</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">ビ・メーク</a></p></td>
-<td><p><a href="http://maeda-shoji.co.jp/">ME</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディアドラ" title="wikilink">DIADORA</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">BEMAKE<br />
+{{smaller</a></p></td>
+<td><p>(株)ヒューモア<br />
+Humore<br />
+</p></td>
+<td><p><a href="http://maeda-shoji.co.jp/">ME<br />
+</a></p></td>
+<td><p><a href="../Page/ディアドラ_(イタリアの企業).md" title="wikilink">DIADORA</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -475,8 +482,10 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <tr class="even">
 <td><p>2014</p></td>
 <td><p><a href="../Page/ユーピーアール.md" title="wikilink">upr</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">VAN-VEAL</a></p></td>
-<td><p><a href="http://maeda-shoji.co.jp/">ME</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">VAN-VEAL<br />
+{{smaller</a></p></td>
+<td><p><a href="http://maeda-shoji.co.jp/">ME<br />
+</a></p></td>
 <td><p><a href="http://www.yamaguchi-mazda.co.jp/top/">山口マツダ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フィンタ" title="wikilink">FINTA</a></p></td>
 <td></td>
@@ -484,7 +493,8 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">VAN-VEAL<br />
+{{smaller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -495,9 +505,9 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <tr class="even">
 <td><p>2016</p></td>
 <td><p><a href="http://www.yamaguchi-mazda.co.jp/top/">山口マツダ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">VAN-VEAL</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">{{smaller</a></p></td>
 <td><p><a href="../Page/マックスバリュ.md" title="wikilink">MaxValu</a>（1st）<br />
-<a href="https://ja.wikipedia.org/wiki/ザ・ビッグ" title="wikilink">BIG</a>（2nd）</p></td>
+<a href="https://ja.wikipedia.org/wiki/ザ・ビッグ" title="wikilink">BiG</a>（2nd）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -515,8 +525,8 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="http://exzeal.co.jp/">EXZEAL</a></p></td>
-<td></td>
+<td><p><a href="http://exzeal.co.jp/">EXZEΛL</a>（左）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビ・メーク" title="wikilink">{{smaller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -525,7 +535,7 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p><a href="http://exzeal.co.jp/">EXZEAL</a>（左）<br />
+<td><p><a href="http://exzeal.co.jp/">EXZEΛL</a>（左）<br />
 <a href="../Page/山口銀行.md" title="wikilink">山口銀行</a>（右）</p></td>
 <td></td>
 <td></td>
@@ -538,7 +548,17 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 <td><p>2020</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">FRONTIER</a>（左）<br />
 <a href="../Page/山口銀行.md" title="wikilink">山口銀行</a>（右）</p></td>
-<td><p><a href="http://exzeal.co.jp/">EXZEAL</a></p></td>
+<td><p><a href="http://exzeal.co.jp/">EXZEΛL</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,9 +1,9 @@
 > この記事は[YGエンターテインメント](https://ja.wikipedia.org/wiki/YGエンターテインメント)から翻訳されています。
 
 
-**YGエンタテインメント**（、）は、[ヤン・ヒョンソク](https://ja.wikipedia.org/wiki/ヤン・ヒョンソク "wikilink")（梁鉉錫）が設立した[韓国の](../Page/大韓民国.md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。
+**YGエンタテインメント**（、）は、[ヤン・ヒョンソク](https://ja.wikipedia.org/wiki/ヤン・ヒョンソク "wikilink")（梁玄錫）が設立した[韓国の](../Page/大韓民国.md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。
 
-[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の自主性を重んじる社風で、[2012年](../Page/2012年.md "wikilink")に[カンナムスタイル](https://ja.wikipedia.org/wiki/カンナムスタイル "wikilink")で世界的に有名となった[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")に代表されるように多くのアーティストが自ら[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")や[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を行う。現在の他所属アーティストに日本市場での本格的成功を果たした[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")・[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")・[WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")・[iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")・[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")・[TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink")がいる。しかし、代表のヤンヒョンソク自ら不祥事を起こすなどのことがあった。
+[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の自主性を重んじる社風で、[2012年](../Page/2012年.md "wikilink")に[カンナムスタイル](https://ja.wikipedia.org/wiki/カンナムスタイル "wikilink")で世界的に有名となった[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")に代表されるように多くのアーティストが自ら[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")や[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を行う。現在の他所属アーティストに日本市場での本格的成功を果たした[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")・[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")・[WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")・[iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")・[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")・[TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink")がいる。しかし、代表のヤンヒョンソク自ら不祥事を起こすなどの事件があった。
 
 ## 沿革
 

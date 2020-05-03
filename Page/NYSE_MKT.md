@@ -7,11 +7,11 @@
 
 [AMEX.jpg](https://ja.wikipedia.org/wiki/File:AMEX.jpg "fig:AMEX.jpg")
 
-アメリカン証券取引所の特徴は、[株式](../Page/株式.md "wikilink")（主に中小型株）、オプション、[上場投資信託](../Page/上場投資信託.md "wikilink")（ETF）および仕組み債といった[金融商品](../Page/金融商品.md "wikilink")を幅広く取り扱っていることにある。なお、同取引所では、1993年に[S\&P500指数を対象としたETFを上場させているが](../Page/S&P_500.md "wikilink")、これが米国内におけるETFの先駆となった。2006年12月末現在で同取引所には200を超えるETFが上場されている。また、同取引所では、個別株オプションだけでなく、セクター（業種）単位でのインデックスを参考指標とするオプションも取り扱っている。
+アメリカン証券取引所の特徴は、[株式](../Page/株式.md "wikilink")（主に中小型株）、オプション、[上場投資信託](../Page/上場投資信託.md "wikilink")（ETF）および仕組み債といった[金融商品](../Page/金融商品.md "wikilink")を幅広く取り扱っていることにある。なお、同取引所では、1993年に[S\&P500指数を対象としたETFを上場させているが](../Page/S&P_500.md "wikilink")、これが米国内におけるETFの先駆となった。2006年12月末現在で同取引所には200を超える[ETF](https://ja.wikipedia.org/wiki/ETF "wikilink")が上場されている。また、同取引所では、個別株オプションだけでなく、セクター（業種）単位でのインデックスを参考指標とするオプションも取り扱っている。
 
 ## 沿革
 
-1908年、場外取引ブローカー (curbstone broker) たちは場外マーケット (curb market) を標準化し整理するために**New York Curb Market Agency**（ニューヨーク場外市場エージェンシー）を設立した。1911年に、このブローカーたちは取引や上場の体系的な成文法を持った**New York Curb Market**として知られるようになった。彼らは屋外取引を行っていたが、1921年に[ロウアー・マンハッタン](https://ja.wikipedia.org/wiki/ロウアー・マンハッタン "wikilink")の[グリニッジ・ストリート](https://ja.wikipedia.org/wiki/グリニッジ・ストリート "wikilink")に建つ[ニューヨーク場外取引所ビル](https://ja.wikipedia.org/wiki/:en:_American_Stock_Exchange_Building "wikilink") (New York Curb Exchange Building) 内に取引所を移した。1929年、New York Curb Marketは**New York Curb Exchange**（ニューヨーク場外取引所）に改称した。
+1908年、場外[取引](https://ja.wikipedia.org/wiki/取引 "wikilink")[ブローカー](https://ja.wikipedia.org/wiki/ブローカー "wikilink") (curbstone broker) たちは場外[マーケット](https://ja.wikipedia.org/wiki/マーケット "wikilink") (curb market) を標準化し整理するために**New York Curb Market Agency**（ニューヨーク場外市場エージェンシー）を設立した。1911年に、このブローカーたちは取引や上場の体系的な成文法を持った**New York Curb Market**として知られるようになった。彼らは屋外取引を行っていたが、1921年に[ロウアー・マンハッタン](https://ja.wikipedia.org/wiki/ロウアー・マンハッタン "wikilink")の[グリニッジ・ストリート](https://ja.wikipedia.org/wiki/グリニッジ・ストリート "wikilink")に建つ[ニューヨーク場外取引所ビル](https://ja.wikipedia.org/wiki/:en:_American_Stock_Exchange_Building "wikilink") (New York Curb Exchange Building) 内に取引所を移した。1929年、New York Curb Marketは**New York Curb Exchange**（ニューヨーク場外取引所）に改称した。
 
 1953年、Curb Exchangeは **American Stock Exchange** (AMEX) に改称した\[1\]。1961年に店頭市場でスキャンダルが起こり、コーエン報告書（Report of Special Study of Securities Markets of the Securities and Exchange Commission）がまとめられた。
 

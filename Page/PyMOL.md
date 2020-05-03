@@ -7,13 +7,13 @@
 
 PyMOLはOpenGL Extension Wranglerライブラリ()やを用いており、またプラグインとしてプログラムソフトウェアAPBS\[1\]を利用して[ポアソン＝ボルツマン方程式](https://ja.wikipedia.org/wiki/ポアソン＝ボルツマン方程式 "wikilink")を解いて、タンパク質表面に電荷分布を表示させることが可能となっている。
 
-2017年9月20日にPyMOL 2.0がリリースされた\[2\]。GUIが[PyQt](https://ja.wikipedia.org/wiki/PyQt "wikilink")対応になり、以前の[Tk](https://ja.wikipedia.org/wiki/Tk "wikilink")やaquaを用いた描画から置き換えられた。またPython 3に対応した動作となっている（ただし、推奨動作環境は依然としてPython 2である）。
+2017年9月20日にPyMOL 2.0がリリースされた\[2\]。GUIが[PyQt](https://ja.wikipedia.org/wiki/PyQt "wikilink")対応になり、以前の[Tk](https://ja.wikipedia.org/wiki/Tk "wikilink")やaquaを用いた描画から置き換えられた。またサポートが行われなくなったPython 2からPython 3への以降を行っており、現在のバージョンではPython 3単独で動作するようになっているが、一部の古いプラグインは依然としてPython 2でしか動作しないものも存在する。
 
 ## バイナリの配布とソースコードの利用
 
-2006年8月1日にデラノ・サイエンティフィックはコンパイル済みのPyMOL製品（ベータ版を含む）のダウンロードシステムにアクセス制限を設け、長らく最新版のバイナリの配布は有償となっていた。しかし2017年9月のPyMOL 2.0のリリースとともに、Windows, Mac OS, Linux OSについての最新バージョンのバイナリの公開を再開した。ユーザーは無償でダウンロードして使用することが可能であるが、一部の機能に制限がある。
+2006年8月1日にデラノ・サイエンティフィックはコンパイル済みのPyMOL製品（ベータ版を含む）のダウンロードシステムにアクセス制限を設け、長らく最新版のバイナリの配布は有償となっていた。しかし2017年9月のPyMOL 2.0のリリースとともに、Windows, macOS, Linux OSについての最新バージョンのバイナリの公開を再開した。ユーザーは無償でダウンロードして使用することが可能であるが、一部の機能に制限がある。
 
-一方で、最新のソースコードは継続して無償公開されており、PyMOL 2についてのソースコードも2018年3月に公開が再開された\[3\]。ユーザーがソースコードをダウンロードしてコンパイルし利用することは許可されている。Windows OSについてはオンライン上で非公式のバイナリが配布されている\[4\]。
+一方で、最新のソースコードは継続して無償公開されており、PyMOL 2についてのソースコードも2018年3月に公開が再開された\[3\]。ユーザーがソースコードをダウンロードしてコンパイルし利用することは許可されている。Windows OSについてはオンライン上で非公式のバイナリが配布されている\[4\]。macOSについては[Homebrewを用いて簡単にソースコードからのインストールを行うことが可能になっている](https://ja.wikipedia.org/wiki/Homebrew_\(パッケージ管理システム\) "wikilink")\[5\]。
 
 ## 脚注
 
@@ -27,3 +27,4 @@ PyMOLはOpenGL Extension Wranglerライブラリ()やを用いており、また
 2.  [PyMOL v2.0 Release Notes](https://pymol.org/dokuwiki/?id=media:new2)
 3.  <https://sourceforge.net/projects/pymol/>
 4.  [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pymol)
+5.  \[<https://pymolwiki.org/index.php/MAC_Install#Open-Source_PyMOL>　pymolwiki\]

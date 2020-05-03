@@ -15,9 +15,6 @@
   - 2012年1月 - 3月 [泉浩司](../Page/泉浩司.md "wikilink")、小林巳記
   - 2012年度 - 2014年度 泉浩司、[小倉実華](https://ja.wikipedia.org/wiki/小倉実華 "wikilink")（不在時には[丹野なな子](https://ja.wikipedia.org/wiki/丹野なな子 "wikilink")）
   - 2015年度 - 2016年6月29日 [斉藤孝信](../Page/斉藤孝信.md "wikilink")、[早川美奈](https://ja.wikipedia.org/wiki/早川美奈 "wikilink")
-
-　この2人は週刊誌の報道で不倫が発覚したため番組を降板した。
-
   - 2016年6月30日 - 2017年3月31日 [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")、[濱本梨沙](https://ja.wikipedia.org/wiki/濱本梨沙 "wikilink")
 
 ### 代理キャスター

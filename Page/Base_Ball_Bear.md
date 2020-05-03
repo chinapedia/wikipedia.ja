@@ -371,20 +371,23 @@
 
 #### シングル
 
-| 通算    | 発売日                                                                                       | タイトル                                                                          | 補足           |
-| ----- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
-| 1st   | [2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **[YUME is VISION](https://ja.wikipedia.org/wiki/YUME_is_VISION "wikilink")** | 2008年11月に再発売 |
-| スプリット | [2004年](../Page/2004年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")                | '''B Beginning                                                                | '''          |
-|       |                                                                                           |                                                                               |              |
+| 通算                                 | 発売日                                                                                       | タイトル                                                                          | 補足           |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
+| RIHOMI RECORDS / BLITZ・PIA RECORDS |                                                                                           |                                                                               |              |
+| 1st                                | [2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **[YUME is VISION](https://ja.wikipedia.org/wiki/YUME_is_VISION "wikilink")** | 2008年11月に再発売 |
+| DAIZAWA RECORDS                    |                                                                                           |                                                                               |              |
+| スプリット                              | [2004年](../Page/2004年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")                | '''B Beginning                                                                | '''          |
+|                                    |                                                                                           |                                                                               |              |
 
 #### アルバム
 
-| 通算    | 発売日                                                                                           | タイトル                                                                              | 補足                                                         |
-| ----- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1stミニ | [2003年](../Page/2003年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[夕方ジェネレーション](https://ja.wikipedia.org/wiki/夕方ジェネレーション "wikilink")**             | \-                                                         |
-| 1st   | [2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")                      | **[HIGH COLOR TIMES](https://ja.wikipedia.org/wiki/HIGH_COLOR_TIMES "wikilink")** | \-                                                         |
-| \-    | [2005年](../Page/2005年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")                    | **バンドBについて**                                                                      | ライブ会場・ハイラインレコーズ下北沢店（現存せず）のみで販売され完売。2006年1月には全国流通盤がリリースされた。 |
-|       |                                                                                               |                                                                                   |                                                            |
+| 通算                                 | 発売日                                                                                           | タイトル                                                                              | 補足                                                         |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| RIHOMI RECORDS / BLITZ・PIA RECORDS |                                                                                               |                                                                                   |                                                            |
+| 1stミニ                              | [2003年](../Page/2003年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[夕方ジェネレーション](https://ja.wikipedia.org/wiki/夕方ジェネレーション "wikilink")**             | \-                                                         |
+| 1st                                | [2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")                      | **[HIGH COLOR TIMES](https://ja.wikipedia.org/wiki/HIGH_COLOR_TIMES "wikilink")** | \-                                                         |
+| \-                                 | [2005年](../Page/2005年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")                    | **バンドBについて**                                                                      | ライブ会場・ハイラインレコーズ下北沢店（現存せず）のみで販売され完売。2006年1月には全国流通盤がリリースされた。 |
+|                                    |                                                                                               |                                                                                   |                                                            |
 
 #### コンピレーションアルバム
 
@@ -408,31 +411,45 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/東芝EMI" title="wikilink">東芝EMI</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ELECTRIC_SUMMER" title="wikilink">ELECTRIC SUMMER</a></strong></p></td>
 <td><p>41</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/C_(Base_Ball_Bearのアルバム)" title="wikilink">C</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2006年<a href="https://ja.wikipedia.org/wiki/10月4日" title="wikilink">10月4日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/STAND_BY_ME_(Base_Ball_Bearの曲)" title="wikilink">STAND BY ME</a></strong></p></td>
 <td><p>26</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3rd</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/抱きしめたい_(Base_Ball_Bearの曲)" title="wikilink">抱きしめたい</a></strong></p></td>
 <td><p>26</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/十七歳_(Base_Ball_Bearのアルバム)" title="wikilink">十七歳</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4th</p></td>
 <td><p>2007年<a href="../Page/5月16日.md" title="wikilink">5月16日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ドラマチック_(Base_Ball_Bearの曲)" title="wikilink">ドラマチック</a></strong></p></td>
 <td><p>13</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>EMIミュージック・ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -511,9 +528,16 @@
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月13日.md" title="wikilink">2月13日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PERFECT_BLUE" title="wikilink">PERFECT BLUE</a></strong></p></td>
 <td><p>11</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/二十九歳" title="wikilink">二十九歳</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/二十九歳" title="wikilink">二十九歳</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">EMI Records</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>16th</p></td>
 <td><p>2013年<a href="../Page/11月27日.md" title="wikilink">11月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ファンファーレがきこえる/senkou_hanabi" title="wikilink">ファンファーレがきこえる/senkou_hanabi</a></strong></p></td>
@@ -521,28 +545,28 @@
 <td><p>二十九歳[18]<br />
 増補改訂完全版「バンドBのベスト」[19]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>17th</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/「それって、for_誰?」part.1" title="wikilink">「それって、for 誰?」part.1</a></strong></p></td>
 <td><p>25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/C2_(アルバム)" title="wikilink">C2</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>18th</p></td>
 <td><p>2015年<a href="../Page/9月2日.md" title="wikilink">9月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/文化祭の夜" title="wikilink">文化祭の夜</a></strong></p></td>
 <td><p>33</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>19th</p></td>
 <td><p>2015年<a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/不思議な夜" title="wikilink">不思議な夜</a></strong></p></td>
 <td><p>21</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -552,37 +576,72 @@
 </tbody>
 </table>
 
+##### EP
+
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>オリコン最高位</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">DGP RECORDS</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ポラリス_(Base_Ball_Bearのアルバム)" title="wikilink">ポラリス</a></strong></p></td>
+<td><p>15</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2019年<a href="../Page/9月4日.md" title="wikilink">9月4日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Grape_(Base_Ball_Bearのアルバム)" title="wikilink">Grape</a></strong></p></td>
+<td><p>4[20]</p></td>
+<td><p>配信限定だがCD盤も販売。<br />
+CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～」（2019年9月15日）<br />
+および「Guitar！Drum！Bass！Tour」（2019年9月〜12月）の各会場でのみ販売。</p></td>
+</tr>
+</tbody>
+</table>
+
 ##### 配信リリース
 
 | 発売日                                                          | タイトル                                                                                               | 収録作品                                                                                                                                                 | 備考                                                                                                                                               |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| EMIミュージック・ジャパン                                               |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
 | 2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") | **SCHOOL GIRL FANTASY**                                                                            | [LOVE MATHEMATICS](https://ja.wikipedia.org/wiki/LOVE_MATHEMATICS "wikilink")                                                                        |                                                                                                                                                  |
 | 2010年[6月23日](../Page/6月23日.md "wikilink")                    | **kimino-me**                                                                                      | [CYPRESS GIRLS](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")                                                                              | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の[山口一郎とのコラボ曲](https://ja.wikipedia.org/wiki/山口一郎_\(歌手\) "wikilink")                   |
-| 2010年[7月21日](../Page/7月21日.md "wikilink")                    | **クチビル・ディテクティヴ**                                                                                   | [DETECTIVE BOYS](https://ja.wikipedia.org/wiki/DETECTIVE_BOYS "wikilink")                                                                            | [福岡晃子](https://ja.wikipedia.org/wiki/福岡晃子 "wikilink")\[20\]とラッパーの呂布（Ryohu、[KANDYTOWN](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink")）とのコラボ曲 |
+| 2010年[7月21日](../Page/7月21日.md "wikilink")                    | **クチビル・ディテクティヴ**                                                                                   | [DETECTIVE BOYS](https://ja.wikipedia.org/wiki/DETECTIVE_BOYS "wikilink")                                                                            | [福岡晃子](https://ja.wikipedia.org/wiki/福岡晃子 "wikilink")\[21\]とラッパーの呂布（Ryohu、[KANDYTOWN](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink")）とのコラボ曲 |
 | 2010年[8月25日](../Page/8月25日.md "wikilink")                    | **Transfer Girl**                                                                                  |                                                                                                                                                      |                                                                                                                                                  |
 | 2010年[9月15日](../Page/9月15日.md "wikilink")                    | **十字架You and I**                                                                                   | [CYPRESS GIRLS](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")                                                                              |                                                                                                                                                  |
+| [EMI Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")     |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
 | 2013年[7月24日](../Page/7月24日.md "wikilink")                    | 夏のShow Window ～Base Ball Bear サマーコレクション2013～                                                       |                                                                                                                                                      | 「senkou_hanabi」含む、歴代の「夏ソング」を集めた配信限定パック                                                                                                          |
 | **senkou_hanabi**                                           | [ファンファーレがきこえる/senkou_hanabi](https://ja.wikipedia.org/wiki/ファンファーレがきこえる/senkou_hanabi "wikilink") | 後発両A面シングルからの先行配信                                                                                                                                     |                                                                                                                                                  |
 | 2013年[10月23日](../Page/10月23日.md "wikilink")                  | **ファンファーレがきこえる**                                                                                   |                                                                                                                                                      |                                                                                                                                                  |
 | 2014年[2月26日](../Page/2月26日.md "wikilink")                    | **Funny Bunny**                                                                                    | [ROCK AND SYMPATHY](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink")（[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")） | the pillowsの楽曲をカバーしたもの。[トリビュートアルバム収録曲](../Page/トリビュート・アルバム.md "wikilink")                                                                        |
+| DGP RECORDS                                                  |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
 | 2019年[1月9日](../Page/1月9日.md "wikilink")                      | **Flame**                                                                                          | [ポラリス](https://ja.wikipedia.org/wiki/ポラリス_\(Base_Ball_Bearのアルバム\) "wikilink")                                                                        | EPからの先行配信                                                                                                                                        |
 | 2019年[12月25日](../Page/12月25日.md "wikilink")                  | **Cross Words**                                                                                    | [C3](../Page/C3_\(アルバム\).md "wikilink")                                                                                                              | アルバムからの先行配信                                                                                                                                      |
 |                                                              |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
 
 ##### ライブ会場限定シングル
 
-| 枚   | 発売日                                     | タイトル                                                                                      |
-| --- | --------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 1st | 2011年[4月7日](../Page/4月7日.md "wikilink") | **[yoakemae-no-yoakemae](https://ja.wikipedia.org/wiki/yoakemae-no-yoakemae "wikilink")** |
-|     |                                         |                                                                                           |
-
-#### EP
-
-| 枚   | 発売日                                                                      | タイトル                                                                                | オリコン最高位 | 備考                                                                                                                         |
-| --- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1st | [2019年](../Page/2019年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") | **[ポラリス](https://ja.wikipedia.org/wiki/ポラリス_\(Base_Ball_Bearのアルバム\) "wikilink")**   | 15      |                                                                                                                            |
-|     |                                                                          |                                                                                     |         |                                                                                                                            |
-| 2nd | 2019年[9月4日](../Page/9月4日.md "wikilink")                                  | **[Grape](https://ja.wikipedia.org/wiki/Grape_\(Base_Ball_Bearのアルバム\) "wikilink")** | 4\[21\] | 配信限定だがCD盤も販売。 CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～」（2019年9月15日）および「Guitar！Drum！Bass！Tour」（2019年9月〜12月）の各会場でのみ販売。 |
+| 枚              | 発売日                                     | タイトル                                                                                      |
+| -------------- | --------------------------------------- | ----------------------------------------------------------------------------------------- |
+| EMIミュージック・ジャパン |                                         |                                                                                           |
+| 1st            | 2011年[4月7日](../Page/4月7日.md "wikilink") | **[yoakemae-no-yoakemae](https://ja.wikipedia.org/wiki/yoakemae-no-yoakemae "wikilink")** |
+|                |                                         |                                                                                           |
 
 #### アルバム
 
@@ -599,10 +658,22 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>東芝EMI</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/C_(Base_Ball_Bearのアルバム)" title="wikilink">C</a></strong></p></td>
 <td><p>28</p></td>
+</tr>
+<tr class="odd">
+<td><p>EMIミュージック・ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -631,24 +702,36 @@
 <td><p>5</p></td>
 </tr>
 <tr class="even">
+<td><p>EMI Records</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>5th</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/二十九歳" title="wikilink">二十九歳</a></strong></p></td>
 <td><p>8</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6th</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/11月11日.md" title="wikilink">11月11日</a>（CD）<br />
 2015年<a href="../Page/12月2日.md" title="wikilink">12月2日</a>（<a href="https://ja.wikipedia.org/wiki/アナログレコード" title="wikilink">LP</a>）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/C2_(アルバム)" title="wikilink">C2</a></strong></p></td>
 <td><p>14</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7th</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/4月12日.md" title="wikilink">4月12日</a>（CD）<br />
 2017年<a href="../Page/6月7日.md" title="wikilink">6月7日</a>（LP）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/光源_(アルバム)" title="wikilink">光源</a></strong></p></td>
 <td><p>7</p></td>
+</tr>
+<tr class="even">
+<td><p>DGP RECORDS</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
@@ -667,40 +750,109 @@
 
 ##### ミニアルバム
 
-| 枚   | 発売日                                                                      | タイトル                                                                                            | オリコン最高位 |
-| --- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------- |
-| 1st | [2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") | **[GIRL FRIEND](https://ja.wikipedia.org/wiki/GIRL_FRIEND_\(Base_Ball_Bearのアルバム\) "wikilink")** | 113     |
-| 2nd | [2012年](../Page/2012年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") | **[初恋](https://ja.wikipedia.org/wiki/初恋_\(Base_Ball_Bearのアルバム\) "wikilink")**                   | 9       |
-| 3rd | [2013年](../Page/2013年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") | **[THE CUT](https://ja.wikipedia.org/wiki/THE_CUT "wikilink")**                                 | 18      |
-|     |                                                                          |                                                                                                 |         |
+| 枚              | 発売日                                                                      | タイトル                                                                                            | オリコン最高位 |
+| -------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------- |
+| 東芝EMI          |                                                                          |                                                                                                 |         |
+| 1st            | [2006年](../Page/2006年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") | **[GIRL FRIEND](https://ja.wikipedia.org/wiki/GIRL_FRIEND_\(Base_Ball_Bearのアルバム\) "wikilink")** | 113     |
+| EMIミュージック・ジャパン |                                                                          |                                                                                                 |         |
+| 2nd            | [2012年](../Page/2012年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") | **[初恋](https://ja.wikipedia.org/wiki/初恋_\(Base_Ball_Bearのアルバム\) "wikilink")**                   | 9       |
+| EMI Records    |                                                                          |                                                                                                 |         |
+| 3rd            | [2013年](../Page/2013年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") | **[THE CUT](https://ja.wikipedia.org/wiki/THE_CUT "wikilink")**                                 | 18      |
+|                |                                                                          |                                                                                                 |         |
 
 ##### ベストアルバム
 
-| 発売日                                                                      | タイトル                                                                                | オリコン最高位 | 備考                                                                                                     |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |
-| [2006年](../Page/2006年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") | **[バンドBについて](https://ja.wikipedia.org/wiki/バンドBについて "wikilink")**                   | 134     | 「イントロデューシング・アルバム（Introducing Album）」として、5,000枚限定で販売されたアルバム。実質的なベスト盤で、2005年にライブ会場限定で発売された同名作品の全国流通盤である。 |
-| [2009年](../Page/2009年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")   | **[完全版「バンドBについて」](https://ja.wikipedia.org/wiki/完全版「バンドBについて」 "wikilink")**         | 10      | インディーズベスト                                                                                              |
-| [2013年](../Page/2013年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") | **[バンドBのベスト](https://ja.wikipedia.org/wiki/バンドBのベスト "wikilink")**                   | 6       |                                                                                                        |
-| [2016年](../Page/2016年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") | **[増補改訂完全版「バンドBのベスト」](https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」 "wikilink")** | 28      | 「[バンドBのベスト](https://ja.wikipedia.org/wiki/バンドBのベスト "wikilink")」のリニューアル盤。                               |
-|                                                                          |                                                                                     |         |                                                                                                        |
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>オリコン最高位</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>東芝EMI</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Introducing</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月12日.md" title="wikilink">1月12日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/バンドBについて" title="wikilink">バンドBについて</a></strong></p></td>
+<td><p>134</p></td>
+<td><p>「イントロデューシング・アルバム（Introducing Album）」として、5,000枚限定で販売されたアルバム。<br />
+実質的なベスト盤で、2005年にライブ会場限定で発売された同名作品の全国流通盤である。</p></td>
+</tr>
+<tr class="odd">
+<td><p>EMIミュージック・ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Indies Best</p></td>
+<td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/1月7日.md" title="wikilink">1月7日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/完全版「バンドBについて」" title="wikilink">完全版「バンドBについて」</a></strong></p></td>
+<td><p>10</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/2月13日.md" title="wikilink">2月13日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/バンドBのベスト" title="wikilink">バンドBのベスト</a></strong></p></td>
+<td><p>6</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>EMI Records</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Renewal</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」" title="wikilink">増補改訂完全版「バンドBのベスト」</a></strong></p></td>
+<td><p>28</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/バンドBのベスト" title="wikilink">バンドBのベスト</a>」のリニューアル盤。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ##### ライブアルバム
 
-| 枚   | 発売日                                                                                         | タイトル                                                               | オリコン最高位 |
-| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------- |
-| 1st | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") | **[1235](https://ja.wikipedia.org/wiki/1235_\(アルバム\) "wikilink")** | 34      |
-|     |                                                                                             |                                                                    |         |
+| 枚              | 発売日                                                                                         | タイトル                                                               | オリコン最高位 |
+| -------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------- |
+| EMIミュージック・ジャパン |                                                                                             |                                                                    |         |
+| 1st            | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") | **[1235](https://ja.wikipedia.org/wiki/1235_\(アルバム\) "wikilink")** | 34      |
+|                |                                                                                             |                                                                    |         |
 
 #### 映像作品
 
 ##### ミュージックビデオ集
 
-| 枚   | 発売日                                                                                         | タイトル                                                                               | オリコン最高位 |
-| --- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------- |
-| 1st | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月12日](../Page/3月12日.md "wikilink") | **[映像版『バンドBについて』第一巻](https://ja.wikipedia.org/wiki/映像版『バンドBについて』第一巻 "wikilink")**  | 32      |
-| 2nd | [2011年](../Page/2011年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")                    | **[映像版『バンドBについて』第二巻](https://ja.wikipedia.org/wiki/映像版『バンドBについて』第二巻 "wikilink")**  | 9       |
-| 3rd | [2016年](../Page/2016年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")                    | **[映像版『バンドBについて』第三巻](https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」 "wikilink")** | \[22\]  |
-|     |                                                                                             |                                                                                    |         |
+| 枚              | 発売日                                                                                         | タイトル                                                                               | オリコン最高位 |
+| -------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------- |
+| EMIミュージック・ジャパン |                                                                                             |                                                                                    |         |
+| 1st            | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月12日](../Page/3月12日.md "wikilink") | **[映像版『バンドBについて』第一巻](https://ja.wikipedia.org/wiki/映像版『バンドBについて』第一巻 "wikilink")**  | 32      |
+| 2nd            | [2011年](../Page/2011年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")                    | **[映像版『バンドBについて』第二巻](https://ja.wikipedia.org/wiki/映像版『バンドBについて』第二巻 "wikilink")**  | 9       |
+| EMI Records    |                                                                                             |                                                                                    |         |
+| 3rd            | [2016年](../Page/2016年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")                    | **[映像版『バンドBについて』第三巻](https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」 "wikilink")** | \[22\]  |
+|                |                                                                                             |                                                                                    |         |
 
 ##### ライブ映像作品
 
@@ -715,16 +867,28 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>EMIミュージック・ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE;(THIS_IS_THE)BASE_BALL_BEAR._NIPPON_BUDOUKAN_2010.01.03" title="wikilink">LIVE;(THIS IS THE)BASE BALL BEAR. NIPPON BUDOUKAN 2010.01.03</a></strong></p></td>
 <td><p>7</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2nd</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/10th_Anniversary_tour(This_Is_The)Base_Ball_Bear_part.2「Live新呼吸」" title="wikilink">10th Anniversary tour(This Is The)Base Ball Bear part.2「Live新呼吸」</a></strong></p></td>
 <td><p>11</p></td>
+</tr>
+<tr class="even">
+<td><p>EMI Records</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -752,7 +916,6 @@
 
 | 発売日                                                                      | タイトル                                                                                                     | 作品アーティスト                                                            | 規格品番       | 収録曲                                      | 販売元                                                                   | オリコン順位 | 備考                                                                             |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- | ---------------------------------------- | --------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------ |
-|                                                                          |                                                                                                          |                                                                     |            |                                          |                                                                       |        |                                                                                |
 | [2012年](../Page/2012年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") | [カノジョは嘘を愛しすぎてる MIX TAPE VOL.1](https://ja.wikipedia.org/wiki/カノジョは嘘を愛しすぎてる#映画#ディスコグラフィ#アルバム "wikilink")  | [V.A.](https://ja.wikipedia.org/wiki/オムニバス盤 "wikilink")             | BVCL-214   | 4\. short hair / Base Ball Bear          | [Ariola Japan](https://ja.wikipedia.org/wiki/Ariola_Japan "wikilink") | 296    | オムニバス盤                                                                         |
 | [2014年](../Page/2014年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") | [ROCK AND SYMPATHY -tribute to the pillows-](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink") | [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink") | AVCD-38831 | 4\. Funny Bunny / Base Ball Bear         | [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")       | 24     | [the pillowsのトリビュートアルバム](https://ja.wikipedia.org/wiki/the_pillows "wikilink") |
 | [2019年](../Page/2019年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")   | epoch                                                                                                    | [フルカワユタカ](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")         | NIW-147    | 1\. コトバとオト feat.Base Ball Bear / フルカワユタカ | Niw\!                                                                 | 82     | フルカワユタカのアルバムに客演参加                                                              |
@@ -1650,6 +1813,54 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 </ol></td>
 <td><p>2nd EPのリリースに伴うツアー。なお東京公演は『<strong>Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～</strong>』として開催された。</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><del><span style="color:#FF0000"><a href="../Page/3月19日.md" title="wikilink">3月19日</a> - <a href="../Page/3月28日.md" title="wikilink">3月28日</a></span></del><br />
+↓<br />
+<a href="../Page/9月9日.md" title="wikilink">9月9日</a> - <a href="../Page/9月17日.md" title="wikilink">9月17日</a></p></td>
+<td><p>Tour「LIVE IN LIVE～I HUB YOU 2～」</p></td>
+<td><p>【延期された公演】</p>
+<ol>
+<li><del>3月19日（木）東京都 Zepp Tokyo (<a href="https://ja.wikipedia.org/wiki/KANA-BOON" title="wikilink">KANA-BOON</a>)</del></li>
+<li><del>3月26日（木）愛知県 Zepp Nagoya(<a href="https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a>)</del></li>
+<li><del>3月28日（土）大阪府 Zepp Osaka Bayside (<a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a>)</del></li>
+</ol>
+<p>【ツアー日程修正後の日程】</p>
+<ol>
+<li>9月9日(水) 愛知県 Zepp Nagoya（UNISON SQUARE GARDEN）</li>
+<li>9月10日（木）大阪府 Zepp Osaka　Bayside（the telephones）</li>
+<li>9月17日（木）東京都 Zepp Tokyo（KANA-BOON）</li>
+</ol></td>
+<td><p>「LIVE IN LIVE」ツアーの2度目となる対バン編。当初同年3月に3公演が開催される予定だったが新型コロナウイルスの感染拡大防止の観点から全公演が同年の9月に延期となった。</p></td>
+</tr>
+<tr class="even">
+<td><p><del><span style="color:#FF0000"><a href="../Page/5月9日.md" title="wikilink">5月9日</a> - <a href="../Page/7月12日.md" title="wikilink">7月12日</a></span></del></p></td>
+<td><p>TOUR 「LIVE BY THE C3」</p></td>
+<td><p>【中止された公演】</p>
+<ol>
+<li><del><span style="color:#FF0000">5月9日（土） 広島県 広島CAVE-BE</span></del></li>
+<li><del><span style="color:#FF0000">5月10日（日）香川県 高松DIME</span></del></li>
+<li><del><span style="color:#FF0000">5月16日（土）栃木県 HEAVEN'S ROCK 宇都宮 VJ-2</span></del></li>
+<li><del><span style="color:#FF0000">5月23日（土）茨城県 水戸LIGHT HOUSE</span></del></li>
+<li><del><span style="color:#FF0000">5月30日（土）石川県 金沢AZ</span></del></li>
+<li><del><span style="color:#FF0000">5月31日（日）長野県 松本Sound Hall a.C.</span></del></li>
+<li><del><span style="color:#FF0000">6月7日（日）大阪府 BIGCAT</span></del></li>
+<li><del><span style="color:#FF0000">6月14日（日）東京都 Zepp Divercity(TOKYO)</span></del></li>
+<li><del><span style="color:#FF0000">6月20日（土）北海道 札幌cube garden</span></del></li>
+<li><del><span style="color:#FF0000">6月27日（土）岡山県 LIVEHOUSE IMAGE</span></del></li>
+<li><del><span style="color:#FF0000">6月28日（土）愛知県 名古屋 DIAMOND HALL</span></del></li>
+<li><del><span style="color:#FF0000">7月4日（土）岩手県 CLUB CHANGE WAVE</span></del></li>
+<li><del><span style="color:#FF0000">7月5日（日）宮城県 仙台Darwin</span></del></li>
+<li><del><span style="color:#FF0000">7月11日（土）鹿児島県 SR HALL</span></del></li>
+<li><del><span style="color:#FF0000">7月12日（日）福岡県 DRUM Be-1</span></del></li>
+</ol></td>
+<td><p>8thフルアルバム『C3』リリースに伴うツアー。全15公演を予定していたが新型コロナウイルスの感染拡大防止の観点から全公演が中止となった。全公演が中止となるのはキャリアでは初のことである。</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1819,6 +2030,8 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
       - 8月11日 - ROCK IN JAPAN FESTIVAL 2019
       - 10月6日 - THE GREAT SATSUMANIAN HESTIVAL 2019
       - 12月30日 - COUNTDOWN JAPAN 19/20
+  - [2020年](../Page/2020年.md "wikilink")
+      - ~~<span style="color:#FF0000">5月5日 - JAPAN JAM 2020</span>~~（開催中止）
 
 ## 脚注
 
@@ -1870,8 +2083,8 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 17. 「スローモーションをもう一度 part.2」。A面曲だが、フルアルバムなどには収録されておらず、今作が初収録となった
 18. 「ファンファーレがきこえる」。
 19. 「senkou_hanabi」。A面曲だが、フルアルバムなどには収録されず、今作が初収録となった。
-20. [チャットモンチー](../Page/チャットモンチー.md "wikilink")（当時）。今作では「acco」名義。
-21. ※ただし順位は[オリコン](../Page/オリコン.md "wikilink")・週間デジタルアルバムチャートのもの
+20. ※ただし順位は[オリコン](../Page/オリコン.md "wikilink")・週間デジタルアルバムチャートのもの
+21. [チャットモンチー](../Page/チャットモンチー.md "wikilink")（当時）。今作では「acco」名義。
 22. 『増補改訂完全版「バンドBのベスト」』における初回限定盤特典DVDのためオリコンの順位算出はなし
 23. 3.5thアルバム「[DETECTIVE BOYS](https://ja.wikipedia.org/wiki/DETECTIVE_BOYS "wikilink")」に収録されている「東京」の元となった楽曲。
 24. 山野楽器 ホームページ （タイアップについての記載参照） <https://www.yamano-music.co.jp/userProdDetailCD.do?itemCode=4107101338&itemClass=C> 2015年11月2日閲覧。

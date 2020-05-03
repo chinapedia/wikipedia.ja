@@ -45,7 +45,7 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
 <!-- end list -->
 
   - 『[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")〈[BS1](../Page/NHK_BS1.md "wikilink")、[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")〉）
-  - 『[DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")』（[BS日テレ](https://ja.wikipedia.org/wiki/ビーエス日本 "wikilink")、[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）
+  - 『[DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")』（[BS日テレ](../Page/BS日本.md "wikilink")、[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）
   - 『[スーパーベースボール](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")』（[BS朝日](../Page/ビーエス朝日.md "wikilink")、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
   - 『[S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』（[BS-TBS](../Page/BS-TBS.md "wikilink")、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - 『[ALWAYS Baseball](../Page/ベースボールLive.md "wikilink")』（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")、[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）

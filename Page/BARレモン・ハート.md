@@ -3,7 +3,7 @@
 
 『**BARレモン・ハート**』（バーレモンハート）は、[古谷三敏](../Page/古谷三敏.md "wikilink")（ファミリー企画）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[うんちく](https://ja.wikipedia.org/wiki/うんちく "wikilink")を扱った漫画作品で、『[漫画アクション](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）にて連載中である。内容は酒場で繰り広げられる数々の人間模様と、それに関係した様々な酒の紹介となっている。
 
-2015年10月に[BSフジ](../Page/BSフジ.md "wikilink")にて[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")の主演で[テレビドラマ](../Page/テレビドラマ.md "wikilink")化され\[1\]、以後何度かドラマ化が実施されている（後述）。
+2015年10月に[BSフジ](../Page/BSフジ.md "wikilink")にて[中村梅雀の主演で](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化され\[1\]、以後何度かドラマ化が実施されている（後述）。
 
 ## 概要
 
@@ -125,7 +125,7 @@
 
 ## テレビドラマ
 
-同作を原作とした連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")が[BSフジ](../Page/BSフジ.md "wikilink")「[BSフジの22時](https://ja.wikipedia.org/wiki/BSフジの22時 "wikilink")」枠（月曜日22:00 - 22:55）にて同局の開局15周年記念ドラマとして[2015年](../Page/2015年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[11月9日](../Page/11月9日.md "wikilink")まで放送された。全6話。主演は[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")。
+同作を原作とした連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")が[BSフジ](../Page/BSフジ.md "wikilink")「[BSフジの22時](https://ja.wikipedia.org/wiki/BSフジの22時 "wikilink")」枠（月曜日22:00 - 22:55）にて同局の開局15周年記念ドラマとして[2015年](../Page/2015年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[11月9日](../Page/11月9日.md "wikilink")まで放送された。全6話。主演は[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")。
 
 2016年4月4日から9月26日まで『**SEASON2**』全26話が放送された。また、以下の単発ドラマが放送されている。
 
@@ -141,7 +141,7 @@
 
 ### キャスト
 
-  - マスター - [中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")
+  - マスター - [中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")
   - メガネさん - [川原和久](../Page/川原和久.md "wikilink")
   - 松ちゃん - [松尾諭](../Page/松尾諭.md "wikilink")
 
@@ -658,7 +658,7 @@
 59. → 第10巻 Part.133 「浦島インアメリカ」
 60. アクション・コミックスの文庫本は「双葉文庫名作シリーズ」として発行されているが、選り抜き版は「双葉文庫」からの発行となっている。
 61. 古谷三敏の孫
-62. 2016年5月29日の「[フジバラナイト](https://ja.wikipedia.org/wiki/フジバラナイト "wikilink") FRI」([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink"))枠でも放送。
+62. 2016年5月29日の「[フジバラナイト](https://ja.wikipedia.org/wiki/フジバラナイト "wikilink") FRI」([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))枠でも放送。
 63. 2016年6月25日の「フジバラナイト FRI」(フジテレビ)枠でも放送。
 64. 2016年7月2日の「フジバラナイト FRI」(フジテレビ)枠でも放送。
 65. 2016年7月23日の「フジバラナイト FRI」(フジテレビ)枠でも放送。

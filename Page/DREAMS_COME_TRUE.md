@@ -3525,7 +3525,7 @@ The best covers of DREAMS COME TRUE ドリウタフェス 2017 in 大阪舞洲\[
 33. **中村正人**名義
 34.
 35. このベスト・アルバムは、20周年記念オリジナル・アルバム『[DO YOU DREAMS COME TRUE?](https://ja.wikipedia.org/wiki/DO_YOU_DREAMS_COME_TRUE? "wikilink")』初回限定盤の2CD盤にのみ付属しており、単体でのリリースはされていない。
-36. このアルバムを巡っては、アーティスト本人の同意を得ないまま原盤権を持つエピックレコード側が[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")発売を強行したため、当時アーティスト側がファンクラブ会員向けに「このベスト盤が出たことは私達の本意ではないため購入を控えて欲しい」と異例の呼びかけを行った他、ドリカム側もベストアルバムが勝手に発売された事に不満を抱いてエピックに抗議して廃盤を求めたという経緯がある。そのため現在ではこのアルバムは廃盤となっており、公式のディスコグラフィにもその存在は載っていない（似たようなケースに[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")『[RECYCLE Greatest Hits of SPITZ](../Page/RECYCLE_Greatest_Hits_of_SPITZ.md "wikilink")』やUtadaの『[Utada The Best](https://ja.wikipedia.org/wiki/Utada_The_Best "wikilink")』などがある）。
+36. このアルバムを巡っては、アーティスト本人の同意を得ないまま原盤権を持つエピックレコード側が[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")発売を強行したため、当時アーティスト側がファンクラブ会員向けに「このベスト盤が出たことは私達の本意ではないため購入を控えて欲しい」と異例の呼びかけを行った他、ドリカム側もベストアルバムが勝手に発売された事に不満を抱いてエピックに抗議して廃盤を求めたという経緯がある。そのため現在ではこのアルバムは廃盤となっており、公式のディスコグラフィにもその存在は載っていない（似たようなケースに[スピッツの](../Page/スピッツ_\(バンド\).md "wikilink")『[RECYCLE Greatest Hits of SPITZ](../Page/RECYCLE_Greatest_Hits_of_SPITZ.md "wikilink")』やUtadaの『[Utada The Best](https://ja.wikipedia.org/wiki/Utada_The_Best "wikilink")』などがある）。
 37. このDVDは、15thアルバム『[DO YOU DREAMS COME TRUE?](https://ja.wikipedia.org/wiki/DO_YOU_DREAMS_COME_TRUE? "wikilink")』初回限定盤のCD+DVD盤に付属しており、単体でのリリースはされていない。
 38. それまでは、「WHEREVER YOU ARE」でのコラボレーションやデビュー時の所属事務所の先輩であった[永井真理子](../Page/永井真理子.md "wikilink")への楽曲提供、『ドリカムワンダーランド'95』で交流の生まれた[LUV DELUXEのプロデュース及び楽曲提供があった](https://ja.wikipedia.org/wiki/LUV_DELUXE "wikilink")。
 39.

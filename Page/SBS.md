@@ -18,6 +18,7 @@
   - [SBSトランジット](../Page/SBSトランジット.md "wikilink") (旧 ) - シンガポールのバス・鉄道会社
   - [スイス銀行コーポレイション](../Page/スイス銀行コーポレイション.md "wikilink") () - スイスの銀行
   - [SBSホールディングス](../Page/SBSホールディングス.md "wikilink") - 日本の物流会社
+  - [センコービジネスサポート](https://ja.wikipedia.org/wiki/センコービジネスサポート "wikilink") - 日本の事務代行会社
   - [ソニーブロードバンドソリューション](../Page/ソニーブロードバンドソリューション.md "wikilink")
   - [住信ビジネスサービス](https://ja.wikipedia.org/wiki/住信ビジネスサービス "wikilink") - [住友信託銀行](../Page/住友信託銀行.md "wikilink")系列で事務ビジネスを専門とする人材サービス会社
   - [神商ビジネスサポート](https://ja.wikipedia.org/wiki/神商ビジネスサポート "wikilink") - [神鋼商事](../Page/神鋼商事.md "wikilink")系列の人材サービス会社

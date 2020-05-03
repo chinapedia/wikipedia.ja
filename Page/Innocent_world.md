@@ -1,21 +1,21 @@
 > この記事は[Innocent world](https://ja.wikipedia.org/wiki/Innocent_world)から翻訳されています。
 
 
-「**innocent world**」（イノセント・ワールド）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")である。[1994年](../Page/1994年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+「**innocent world**」（イノセント・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")である。[1994年](../Page/1994年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
-前作から約7ヶ月ぶりのシングル。前作のロングヒットで知名度を大きく上げた状況での発売となった。
+前作「[CROSS ROAD](../Page/CROSS_ROAD_\(Mr.Childrenの曲\).md "wikilink")」から約7ヶ月ぶりのシングル。前作のロングヒットで知名度を大きく上げた状況での発売となった。
 
-アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
+[アートディレクター](../Page/アートディレクター.md "wikilink")は[信藤三雄](../Page/信藤三雄.md "wikilink")。
+
+本作は[1994年](../Page/1994年.md "wikilink")の[第36回日本レコード大賞](https://ja.wikipedia.org/wiki/第36回日本レコード大賞 "wikilink")で大賞を受賞したが、メンバーは[オーストラリア](../Page/オーストラリア.md "wikilink")で「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")撮影のために授賞式を欠席するという異例の事態になった\[1\]。代わりに所属レコード会社[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")の代表でアマチュア時代の[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")を発掘した稲葉貢一が授賞式に出席しトロフィーを受け取った。以降9年間、[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")に関わることはなかったものの、[2004年](../Page/2004年.md "wikilink")に26thシングル「[Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")」で10年ぶりに再び大賞を受賞した時は、メンバー全員が授賞式に出席した。
 
 ## チャート成績
 
-シングル・アルバム通じて初のオリコン週間チャート1位を獲得\[1\]、その後2ヶ月足らずで100万枚を突破し1994年度のオリコン年間シングルチャート1位を獲得。本作のヒットによって過去の作品が再びチャートにランクインするなど大きな相乗効果も生まれた。最終的には193.6万枚を売り上げ、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のシングルでは6thシングル「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」、10thシングル「[名もなき詩](../Page/名もなき詩.md "wikilink")」に次いで3番目に高い累計売上を記録している。
+シングル・アルバム通じて初のオリコン週間チャート1位を獲得\[2\]、その後2ヶ月足らずで100万枚を突破し1994年度のオリコン年間シングルチャート1位を獲得。本作のヒットによって過去の作品が再びチャートにランクインするなど大きな相乗効果も生まれた。最終的には193.6万枚を売り上げ、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のシングルでは6thシングル「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」、10thシングル「[名もなき詩](../Page/名もなき詩.md "wikilink")」に次いで3番目に高い累計売上を記録している。
 
-## 本作に関するエピソード
-
-[1994年](../Page/1994年.md "wikilink")の[第36回日本レコード大賞](https://ja.wikipedia.org/wiki/第36回日本レコード大賞 "wikilink")で大賞を受賞したが、メンバーは[オーストラリア](../Page/オーストラリア.md "wikilink")で「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」の[PV撮影のために授賞式を欠席するという異例の事態になった](../Page/ミュージック・ビデオ.md "wikilink")\[2\]。代わりに所属レコード会社[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")の代表でアマチュア時代の[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")を発掘した稲葉貢一が授賞式に出席しトロフィーを受け取った。以降9年間、[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")に関わることはなかったものの、[2004年](../Page/2004年.md "wikilink")に26thシングル「[Sign](../Page/Sign_\(Mr.Childrenの曲\).md "wikilink")」で10年ぶりに再び大賞を受賞した時は、メンバー全員が授賞式に出席した。
+また、カラオケ年間チャートでも1994年、1995年の2年連続で1位を獲得している。
 
 ## 収録曲
 
@@ -35,9 +35,8 @@
         イントロのメロディーは[田原健一](../Page/田原健一.md "wikilink")の提案によるものである\[6\]。
         歌詞中には英語表記ではなく「イノセントワールド」になっている。音楽番組では「innocent world」と紹介されるが、主に文献やカラオケでは「イノセントワールド」と表記される\[7\]。
         ミリオンセラーとなったシングル曲では10thシングル「名もなき詩」、15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」などと共にライブでは頻繁に演奏される\[8\]。ライブで披露される時は1番を全て観客に歌わせる場合が多く、以前はアンコール待ちで観客がこの曲を歌って待つというパターンもあった\[9\]。
-        後に2度、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")がカバーした（1回目は『[桑田佳祐の音楽寅さん {{～}}MUSIC TIGER{{～}}](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_{{～}}MUSIC_TIGER{{～}} "wikilink")』（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、2回目は[2006年](../Page/2006年.md "wikilink")に行われた『[ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")』）。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[信藤三雄](../Page/信藤三雄.md "wikilink")。
-        元[阪神タイガース](../Page/阪神タイガース.md "wikilink")の[筒井和也](../Page/筒井和也.md "wikilink")が主催試合での登場曲として、2008年から2014年まで使用していた。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作され、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売のライブ・ビデオ『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[信藤三雄](../Page/信藤三雄.md "wikilink")。
+        元[阪神タイガース](../Page/阪神タイガース.md "wikilink")の[筒井和也](../Page/筒井和也.md "wikilink")が主催試合での登場曲として、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2014年](../Page/2014年.md "wikilink")まで使用していた。
 2.  **my confidence song** \[1:54\]
       - 作詞・作曲：桜井和寿
     <!-- end list -->
@@ -61,7 +60,8 @@
 
 ## カバー
 
-  - [arie](https://ja.wikipedia.org/wiki/arie "wikilink")（2007年、アルバム『THE BEST OF BOSSA COVERS 青春ロック』）
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が2度カバーしている（1回目は『[桑田佳祐の音楽寅さん {{～}}MUSIC TIGER{{～}}](https://ja.wikipedia.org/wiki/桑田佳祐の音楽寅さん_{{～}}MUSIC_TIGER{{～}} "wikilink")』（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、2回目は[2006年](../Page/2006年.md "wikilink")に行われた『[ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")』）。
+  - [arie](https://ja.wikipedia.org/wiki/arie "wikilink")（[2007年](../Page/2007年.md "wikilink")、アルバム『THE BEST OF BOSSA COVERS 青春ロック』）
   - [美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink")（2007年、アルバム『pure flavor \#1 〜color of love〜』）
 
 ## 収録アルバム
@@ -83,9 +83,9 @@
   -
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:1994年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1994年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン年間シングルチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:アクエリアスのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アクエリアスのコマーシャルソング "wikilink") [Category:世界を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:世界を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
 
-1.  Mr.Childrenは本作から[2012年](../Page/2012年.md "wikilink")の34thシングル「[祈り 〜涙の軌道/End of the day/pieces](https://ja.wikipedia.org/wiki/祈り_〜涙の軌道/End_of_the_day/pieces "wikilink")」まで30作連続で初登場1位記録が続いていた。
-2.  本人不在の大賞授賞式はこの回のみ。
-3.  『\[es\] Mr.Children in 370 DAYS』 株式会社角川書店 1995年 ISBN 4-04-852567-0
+1.  本人不在の大賞授賞式はこの回のみ。
+2.  Mr.Childrenは本作から[2012年](../Page/2012年.md "wikilink")の34thシングル「[祈り 〜涙の軌道/End of the day/pieces](https://ja.wikipedia.org/wiki/祈り_〜涙の軌道/End_of_the_day/pieces "wikilink")」まで30作連続で初登場1位記録が続いていた。
+3.  『【es】 Mr.Children in 370 DAYS』 [角川書店](../Page/角川書店.md "wikilink") 1995年 ISBN 4-04-852567-0
 4.  『[FAN](../Page/FAN.md "wikilink")』（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列、1995年6月9日放映分）
 5.
 6.

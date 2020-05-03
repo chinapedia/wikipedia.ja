@@ -430,7 +430,7 @@
 
 ## 外部リンク
 
-  - [第48回NHK上方漫才コンテスト - NHK](http://www4.nhk.or.jp/P4765/)
+  - [第48回NHK上方漫才コンテスト - NHK](https://www4.nhk.or.jp/P4765/)
 
 [Category:漫才](https://ja.wikipedia.org/wiki/Category:漫才 "wikilink") [Category:演芸の賞](https://ja.wikipedia.org/wiki/Category:演芸の賞 "wikilink") [Category:お笑いのコンテスト](https://ja.wikipedia.org/wiki/Category:お笑いのコンテスト "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:NHK大阪](https://ja.wikipedia.org/wiki/Category:NHK大阪 "wikilink") [Category:テレビの演芸番組](https://ja.wikipedia.org/wiki/Category:テレビの演芸番組 "wikilink") [Category:漫才番組](https://ja.wikipedia.org/wiki/Category:漫才番組 "wikilink")
 
@@ -439,7 +439,7 @@
 3.
 4.  ノミネート：コメディNo.1、若井小づえ・みどり、レツゴー三匹、横山たかし・ひろし、その他は不明。
 5.  ノミネート：中田カウス・ボタン、船仁のるか・喜和そるか、浮世亭三吾・十吾、海原はるか・かなた、その他は不明。
-6.  ノミネート：はな寛太・いま寛大、横山たかし・ひろし、海原千里・万里、[海原はるか・かなた](../Page/海原はるか・かなた.md "wikilink")、[北京一](https://ja.wikipedia.org/wiki/北京一 "wikilink")・京二、その他は不明。
+6.  ノミネート：はな寛太・いま寛大、横山たかし・ひろし、海原千里・万里、[海原はるか・かなた](../Page/海原はるか・かなた.md "wikilink")、[北京一](https://ja.wikipedia.org/wiki/北京一 "wikilink")・京二、[若井けいじ・えいじ](https://ja.wikipedia.org/wiki/若井けいじ・えいじ "wikilink")、その他は不明。
 7.  ノミネート：チグハグコンビ、森啓二・喜多洋司、ザ・ぼんち、海原はるか・かなた、大木こだま・ひかり、酒井くにお・とおる、[青芝幸之助・福之助](https://ja.wikipedia.org/wiki/青芝幸之助・福之助 "wikilink")、[ガッツジョージ・アーボー](https://ja.wikipedia.org/wiki/ガッツジョージ・アーボー "wikilink")、[浮世亭ケンケン・てるてる](https://ja.wikipedia.org/wiki/浮世亭ケンケン・てるてる "wikilink")（棄権）。
 8.  ノミネート：大木こだま・ひかり、ヤングにっぽんず、島田紳助・松本竜介、[松みのる・杉ゆたか](https://ja.wikipedia.org/wiki/松みのる・杉ゆたか "wikilink")、[青芝金太・紋太](../Page/青芝金太・紋太.md "wikilink")、[太平サブロー・シロー](../Page/太平サブロー・シロー.md "wikilink")。
 9.  ノミネート：中田伸江・伸児、中田ブラック・ホワイト、青芝金太・紋太、[古都からん・ころん](https://ja.wikipedia.org/wiki/大木こだま・ひびき#メンバー "wikilink")、[海原さおり・しおり](../Page/海原さおり・しおり.md "wikilink")、[青芝一世・八世](https://ja.wikipedia.org/wiki/青芝一世・八世 "wikilink")、[松みのる・杉ゆたか](https://ja.wikipedia.org/wiki/松みのる・杉ゆたか "wikilink")、[団トリオ](https://ja.wikipedia.org/wiki/団トリオ "wikilink")。
@@ -447,7 +447,7 @@
 11. ノミネート：ミヤ蝶美・蝶子、大阪笑ルーム、大空テント・幸つくる、[ミヤ鈴丸・花丸](https://ja.wikipedia.org/wiki/ミヤ鈴丸・花丸 "wikilink")、[うきうき・どきどき](https://ja.wikipedia.org/wiki/幸助・福助 "wikilink")、その他は不明。
 12. ノミネート：じゃんけんぽん、中田新作・優作、やすえ・やすよ、トミーズ、[銀次・政二](https://ja.wikipedia.org/wiki/銀次・政二 "wikilink")、[まさと・ひとし](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[歌メリ・マリ](https://ja.wikipedia.org/wiki/歌メリ・マリ "wikilink")、[北乃笑斗・南乃勝斗](https://ja.wikipedia.org/wiki/北乃笑斗・南乃勝斗 "wikilink")。
 13. ノミネート：トミーズ、ダウンタウン、ザ・バッテリー、まるむし商店、ハイヒール、その他は不明。
-14. ノミネート：ちゃらんぽらん、ハイヒール、西田タカミ・キヨミ、まるむし商店、[中田八作・草井毛平](https://ja.wikipedia.org/wiki/中田八作・草井毛平 "wikilink")、[ざっと31](https://ja.wikipedia.org/wiki/ざっと31 "wikilink")、[ひろみ・ゆか](https://ja.wikipedia.org/wiki/ソフィア_\(お笑いコンビ\) "wikilink")、岡けん太・ゆう太。
+14. ノミネート：ちゃらんぽらん、ハイヒール、西田タカミ・キヨミ、まるむし商店、[中田八作・草井毛平](https://ja.wikipedia.org/wiki/中田八作・草井毛平 "wikilink")、[ざっと31](https://ja.wikipedia.org/wiki/ざっと31 "wikilink")、[ひろみ・ゆか](https://ja.wikipedia.org/wiki/ひろみ・ゆか "wikilink")、岡けん太・ゆう太。
 15. ノミネート：非常階段、まるむし商店、立山センター・オーバー、[ピンナップ](https://ja.wikipedia.org/wiki/ピンナップ_\(お笑いコンビ\) "wikilink")、[ブレイク](https://ja.wikipedia.org/wiki/ブレイク_\(お笑いコンビ\) "wikilink")、[ザ・ポテト](https://ja.wikipedia.org/wiki/ポテトフライ_\(お笑いコンビ\) "wikilink")、和光亭幸助・福助、[ソフィア](https://ja.wikipedia.org/wiki/ソフィア_\(お笑いコンビ\) "wikilink")。
 16. ノミネート：どんきほ〜て、岡けん太・ゆう太、ポテトフライ、[ピンクダック](https://ja.wikipedia.org/wiki/ピンクダック "wikilink")、和光亭幸助・福助、[やっちゃん&ゆうちゃん](https://ja.wikipedia.org/wiki/やっちゃん&ゆうちゃん "wikilink")、[ソフィア](https://ja.wikipedia.org/wiki/ソフィア_\(お笑いコンビ\) "wikilink")、[小川あたる・たまる](https://ja.wikipedia.org/wiki/小川あたる・たまる "wikilink")。
 17. ノミネート：オールディーズ、ビッグブラザーズ、和光亭幸助・福助、[キャラメルランド](https://ja.wikipedia.org/wiki/キャラメルランド "wikilink")、[ベジタブル](https://ja.wikipedia.org/wiki/大滝エージェンシー "wikilink")、ミモ・ファルス、[やっちゃん&なお君](https://ja.wikipedia.org/wiki/やっちゃん&なお君 "wikilink")、[ライム・ライト](https://ja.wikipedia.org/wiki/ライム・ライト_\(お笑いコンビ\) "wikilink")。

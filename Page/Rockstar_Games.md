@@ -17,7 +17,7 @@
 
 また、[違法な表現が多いために](../Page/違法性.md "wikilink")、[市民団体](../Page/市民団体.md "wikilink")やゲーム規制団体、[銃規制](../Page/銃規制.md "wikilink")団体からや『[グランド・セフト・オートIV](../Page/グランド・セフト・オートIV.md "wikilink")』では、[飲酒運転](../Page/飲酒運転.md "wikilink")が可能のため、飲酒運転撲滅団体から反感を買い、[訴訟](../Page/訴訟.md "wikilink")問題にまで発展した事例もある\[5\]。その最も有名なものが、[ヒラリー・クリントン](../Page/ヒラリー・クリントン.md "wikilink")氏が訴訟した『[グランド・セフト・オート・サンアンドレアス](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』の「[ホットコーヒー問題](https://ja.wikipedia.org/wiki/ホットコーヒー問題 "wikilink")」である。
 
-日本では、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")が『[グランド・セフト・オートIII](../Page/グランド・セフト・オートIII.md "wikilink")』を[有害図書](../Page/有害図書.md "wikilink")に指定し、[CEROが新しいレーティング区分である](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")「CERO: Z（18才以上のみ対象）」を設定するきっかけになった。
+日本では、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")が『[グランド・セフト・オートIII](../Page/グランド・セフト・オートIII.md "wikilink")』を[有害図書](../Page/有害図書.md "wikilink")に指定し、[CEROが新しいレーティング区分である](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")「CERO: Z（18才以上のみ対象）」を設定するきっかけになった。
 
 しかし、過激な表現の[ゲームソフト](../Page/ゲームソフト.md "wikilink")を開発するだけでなく、[リアリスティック](https://ja.wikipedia.org/wiki/リアリスティック "wikilink")で大人向けな[脚本](../Page/脚本.md "wikilink")や[風刺](../Page/風刺.md "wikilink")が含まれるなど、他社が[影響](https://ja.wikipedia.org/wiki/影響 "wikilink")を受けるほどのゲームシステムや高い[技術](../Page/技術.md "wikilink")力で表現される映像美（[グラフィック](../Page/グラフィック.md "wikilink")）については、ゲーム業界から高い評価を得ている。
 

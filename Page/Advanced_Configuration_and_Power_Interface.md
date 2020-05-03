@@ -66,7 +66,7 @@ LinuxやFreeBSDや[NetBSD](../Page/NetBSD.md "wikilink")ではインテルによ
 
 ## 歴史
 
-1997年に初めて仕様が公開された\[2\]。
+1997年に初めて仕様が公開された\[2\]。ACPI 2.0は2000年にリリースされ、ACPI 3.0は2004年にリリースされ、ACPI 4.0は2009年にリリースされ、ACPI 5.0は2011年にリリースされました。2013年10月、ACPIは[Unified EFI Forumの責任下に置かれ](https://ja.wikipedia.org/wiki/Unified_EFI_Forum "wikilink")、新しいACPI仕様はUEFI Forumによって開発されます。
 
 ## 脚注
 

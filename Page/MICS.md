@@ -114,4 +114,4 @@ MICSの事務局の運営は東京銀行協会（現：[全国銀行協会](../P
 7.  『銀行協会五十年史』p.795
 8.  『銀行協会五十年史』p.798
 9.  [決済システム等の企画・運営 - 全国銀行協会](http://www.zenginkyo.or.jp/abstract/efforts/system/)
-10. {[法人名義のキャッシュカードをお持ちのお客さまへ](https://www.fukuokabank.co.jp/announcement/important/y2013/page_021399.html)}}
+10. [法人名義のキャッシュカードをお持ちのお客さまへ](https://www.fukuokabank.co.jp/announcement/important/y2013/page_021399.html)

@@ -393,6 +393,7 @@
 ## 関連番組
 
   - [バリューナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink") - この番組の流れから中京テレビ、よみうりテレビも製作に関与。
+  - [TVじゃん‼︎](../Page/どんまい!!_VARIETYSHOW&SPORTS.md "wikilink") - 本放送枠の直前の枠名
 
 ## 外部リンク
 

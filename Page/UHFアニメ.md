@@ -60,7 +60,7 @@
 
 [近畿広域圏と](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[中京広域圏では](../Page/東海3県.md "wikilink")、関東広域圏の独立局とは異なりテレビ東京からの番組ネットや独自番組などによる番組編成を行なっている独立局が多いことから、広域局の[準キー局](../Page/準キー局.md "wikilink")・[在名局を含めた](../Page/在名テレビジョン放送局.md "wikilink")[ネットワークに属する各局が独立局に代わってUHFアニメを放送するケースが目立つ](../Page/ネットワーク_\(放送\).md "wikilink")。
 
-近畿広域圏においては、大阪府のほとんどの地域ないし[奈良県](../Page/奈良県.md "wikilink")や[滋賀県](../Page/滋賀県.md "wikilink")の一部地域および[和歌山県](../Page/和歌山県.md "wikilink")\[21\]のごく一部の地域では、[サンテレビないし](../Page/サンテレビジョン.md "wikilink")[KBS京都が](../Page/京都放送.md "wikilink")、直接受信やケーブルテレビなどで視聴できる。そのため、近畿圏ではこの2局でのUHFアニメの放送が主流ではあるが\[22\]、古くから[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦完全中継を行っている『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』（KBS京都では『[KBS京都エキサイトナイター](../Page/KBS京都エキサイトナイター.md "wikilink")』）が放送される[プロ野球](../Page/プロ野球.md "wikilink")シーズンの間は放送時間が非常に不安定になりやすい特有の事情を抱えており（[電子番組ガイド](../Page/電子番組ガイド.md "wikilink")を搭載した録画機器が普及する以前は、地元視聴者にとっては悩みの種であった）、この影響も加わって[広域](../Page/広域放送.md "wikilink")[準キー局](../Page/準キー局.md "wikilink")4局でもUHFアニメが放送されており、特に古くから深夜帯に（旧作の再放送を含めた）テレビアニメを放送している[毎日放送での放送本数が群を抜いて多い](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。これらの影響から、[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")・[びわ湖放送](../Page/びわ湖放送.md "wikilink")やテレビ東京系列県域放送局のテレビ大阪で放送されるUHFアニメは非常に少ない。
+近畿広域圏においては、大阪府のほとんどの地域ないし[奈良県](../Page/奈良県.md "wikilink")や[滋賀県](../Page/滋賀県.md "wikilink")の一部地域および[和歌山県](../Page/和歌山県.md "wikilink")\[21\]のごく一部の地域では、[サンテレビないし](../Page/サンテレビジョン.md "wikilink")[KBS京都が](../Page/京都放送.md "wikilink")、直接受信やケーブルテレビなどで視聴できる。そのため、近畿圏ではこの2局でのUHFアニメの放送が主流ではあるが\[22\]、古くから[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦完全中継を行っている『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』（KBS京都では『[KBS京都エキサイトナイター](../Page/KBS京都エキサイトナイター.md "wikilink")』）が放送される[プロ野球](../Page/プロ野球.md "wikilink")シーズンの間は放送時間が非常に不安定になりやすい特有の事情を抱えており（[電子番組ガイド](../Page/電子番組ガイド.md "wikilink")を搭載した録画機器が普及する以前は、地元視聴者にとっては悩みの種であった）、この影響も加わって[広域](../Page/広域放送.md "wikilink")[準キー局](../Page/準キー局.md "wikilink")4局でもUHFアニメが放送されており、特に古くから深夜帯に（旧作の再放送を含めた）テレビアニメを放送している[毎日放送での放送本数が群を抜いて多い](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。これらの影響から、[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")・[びわ湖放送](../Page/びわ湖放送.md "wikilink")やテレビ東京系列県域放送局のテレビ大阪で放送されるUHFアニメは非常に少ない。
 
 中京広域圏においては、人口が集中する愛知県においても大阪府同様に全国独立放送協議会加盟局のテレビ局が存在せず、さらに独立局である[岐阜放送](../Page/岐阜放送.md "wikilink")および[三重テレビでは電波の届き具合から](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")周辺を十分にはカバーできない。それゆえに中京広域圏の「人口エリア」の殆どをカバーしているテレビ東京系列県域放送局のテレビ愛知が中京広域圏におけるUHFアニメの放送をほぼ寡占状態としているほか、広域在名局各局でも若干数ながら放送されている。ただし2010年代半ばからBS民放各局に実質代替される形で中京圏地上波局での未放送番組が増加傾向にある。
 
@@ -78,7 +78,7 @@
 
 ### UHFアニメにおける同時ネットの進展
 
-2014年からTOKYO MXなどの独立局と[BS11や](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")[BSフジ](../Page/BSフジ.md "wikilink")、[BS日テレといった民放BS局との組み合わせで](../Page/BS日本.md "wikilink")「**大都市圏は（独立局の）地上波、地方圏はBS**」と言った役割分担の形で、キー局系列による地上波全国[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")と比べると**低コストでの全国同時ネット**を行うUHFアニメも登場している。当初は主に[アニプレックス](../Page/アニプレックス.md "wikilink")製作作品に目立った（『[メカクシティアクターズ](https://ja.wikipedia.org/wiki/カゲロウプロジェクト#テレビアニメ "wikilink")』・『[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_\(アニメ\) "wikilink")』ほか）が、次第に他社製作作品でも徐々に増えている。
+2014年からTOKYO MXなどの独立局と[BS11や](../Page/日本BS放送.md "wikilink")[BSフジ](../Page/BSフジ.md "wikilink")、[BS日テレといった民放BS局との組み合わせで](../Page/BS日本.md "wikilink")「**大都市圏は（独立局の）地上波、地方圏はBS**」と言った役割分担の形で、キー局系列による地上波全国[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")と比べると**低コストでの全国同時ネット**を行うUHFアニメも登場している。当初は主に[アニプレックス](../Page/アニプレックス.md "wikilink")製作作品に目立った（『[メカクシティアクターズ](https://ja.wikipedia.org/wiki/カゲロウプロジェクト#テレビアニメ "wikilink")』・『[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_\(アニメ\) "wikilink")』ほか）が、次第に他社製作作品でも徐々に増えている。
 
 別パターンとして、TOKYO MXをはじめとする主要独立局で同時ネットするがBS11などBS民放局・（放送される場合）その他の地上波局で遅れネットとなるUHFアニメも若干数ながら存在する\[31\]。いずれの場合も、近畿広域局や二大都市圏以外の局では放送されても遅れネットとなる\[32\]。
 
@@ -162,7 +162,7 @@
 <!-- end list -->
 
   -
-    地上波で放送している[TOKYO MXとサンテレビは当初プライムタイム](../Page/東京メトロポリタンテレビジョン.md "wikilink")（22時半）に放送していたが、「中高生の[青少年](https://ja.wikipedia.org/wiki/青少年 "wikilink")が視聴しやすい時間帯にもかかわらず、過激な性表現が含まれている」としてBPOへ苦情が寄せられ、その結果両局は2月から深夜帯で放送することになった\[60\]（[BS11では最初から](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")27時台に放送した）。
+    地上波で放送している[TOKYO MXとサンテレビは当初プライムタイム](../Page/東京メトロポリタンテレビジョン.md "wikilink")（22時半）に放送していたが、「中高生の[青少年](https://ja.wikipedia.org/wiki/青少年 "wikilink")が視聴しやすい時間帯にもかかわらず、過激な性表現が含まれている」としてBPOへ苦情が寄せられ、その結果両局は2月から深夜帯で放送することになった\[60\]（[BS11では最初から](../Page/日本BS放送.md "wikilink")27時台に放送した）。
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@
 
   - ウイルスによるトラブルについて
 
-2020年の作品は、2020年4月10日現在で[新型コロナウイルスの影響による放送延期や開始時期の変更も相次いでいる](../Page/2019新型コロナウイルス.md "wikilink")。
+2020年の作品は、2020年4月10日現在で[新型コロナウイルスの影響による放送延期や開始時期の変更も相次いでいる](../Page/2019新型コロナウイルス.md "wikilink")。なお、これに関してはUHFアニメに限らず、在京キー局が製作・放送している作品にも当てはまる。
 
   - **[A3\! SEASON SPRING & SUMMER](https://ja.wikipedia.org/wiki/A3! "wikilink")**（2020年1月期）
 
@@ -269,13 +269,14 @@
     第7話の放送終了後、第8話以降についても、2週間放送が延期されることが発表された。ただしこちらは理由を明らかにしていない \[84\]。放送予定だった日は、OVAのほかに[佐藤利奈](../Page/佐藤利奈.md "wikilink")と[新井里美](../Page/新井里美.md "wikilink")による簡単なトークコーナーが放送された<ref>
 
 </ref>。
+: その後は順調に進んでいたが、第13話もコロナウイルスによる延期が発表され、通算で3回延期になる異常事態となった。ここでは第12話の再放送で対応される\[85\]。
 
   - **[インフィニット・デンドログラム](https://ja.wikipedia.org/wiki/＜Infinite_Dendrogram＞-インフィニット・デンドログラム- "wikilink")**（2020年1月期）
 
 <!-- end list -->
 
   -
-    [NAZ制作](https://ja.wikipedia.org/wiki/アニマ&カンパニー "wikilink")。新型コロナウイルスの影響による制作上の事情で第7話が放送延期。放送予定だった日は、第1話が再放送された\[85\]。
+    [NAZ制作](https://ja.wikipedia.org/wiki/アニマ&カンパニー "wikilink")。新型コロナウイルスの影響による制作上の事情で第7話が放送延期。放送予定だった日は、第1話が再放送された\[86\]。
     また、3月13日時点で一部の局では4月からの番組が決まっているため、3月までに通常枠で放送出来ない12話と13話については、4月に各局で空いていた枠にて放送される。
 
 <!-- end list -->
@@ -285,9 +286,9 @@
 <!-- end list -->
 
   -
-    [A-1 Pictures制作](../Page/A-1_Pictures.md "wikilink")。4月10日、TOKYO MXほかで25日から放送予定であったテレビアニメ『[ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン_アリシゼーション_War_of_Underworld "wikilink")』最終章となる第2期の放送および配信が7月に延期することに決定した\[86\]。
+    [A-1 Pictures制作](../Page/A-1_Pictures.md "wikilink")。4月10日、TOKYO MXほかで25日から放送予定であったテレビアニメ『[ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン_アリシゼーション_War_of_Underworld "wikilink")』最終章となる第2期の放送および配信が7月に延期することに決定した\[87\]。
 
-その他、『[number24](https://ja.wikipedia.org/wiki/number24 "wikilink")』\[87\] 、『[ツキウタ。 THE ANIMATION 2](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink")』 なども影響が及んだ。
+その他、『[天晴爛漫\!](../Page/天晴爛漫!.md "wikilink")』\[88\]と『[放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌 "wikilink")』\[89\]も5月以降の放送を取りやめる。『[number24](https://ja.wikipedia.org/wiki/number24 "wikilink")』\[90\] 、『[ツキウタ。 THE ANIMATION 2](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink")』 なども影響が及んだ。
 
 ## 脚注
 
@@ -323,7 +324,7 @@
   - [あに。](https://ja.wikipedia.org/wiki/あに。 "wikilink")（[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")）
   - [アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")）
   - [アニメギルド](https://ja.wikipedia.org/wiki/アニメギルド "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）
-  - [ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")（[BS11](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）
+  - [ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")（[BS11](../Page/日本BS放送.md "wikilink")）
 
 [Category:テレビアニメ](https://ja.wikipedia.org/wiki/Category:テレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink")
 
@@ -414,3 +415,6 @@
 85.
 86.
 87.
+88.
+89.
+90.

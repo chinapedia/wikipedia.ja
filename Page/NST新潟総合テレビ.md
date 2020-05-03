@@ -867,13 +867,13 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - [真保恵理](https://ja.wikipedia.org/wiki/真保恵理 "wikilink")（2015年入社。新潟市生まれ）
   - [杉山萌奈](https://ja.wikipedia.org/wiki/杉山萌奈 "wikilink")（2015年入社。柏崎市生まれ）
   - 松尾和泉（2016年入社。柏崎市生まれ）
-  - 桶屋美佳（2019年入社。富山市生まれ）
+  - 桶屋美圭（2019年入社。富山市生まれ）
 
 ### 過去
 
 #### 男性
 
-  - [山本安幸](../Page/山本安幸.md "wikilink")（1973年[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")から移籍。現[FMゆきぐに取締役放送局長](../Page/エフエム雪国.md "wikilink")）
+  - [山本安幸](../Page/山本安幸.md "wikilink")（1973年[和歌山放送](../Page/和歌山放送.md "wikilink")から移籍。現[FMゆきぐに取締役放送局長](../Page/エフエム雪国.md "wikilink")）
   - 山田晟
   - [藤田嘉宏](https://ja.wikipedia.org/wiki/藤田嘉宏 "wikilink")（[山口放送](../Page/山口放送.md "wikilink")から移籍。現国際音楽エンタテイメント専門学校講師）
   - [田島義彦](https://ja.wikipedia.org/wiki/田島義彦 "wikilink")（1984年[山形テレビ](../Page/山形テレビ.md "wikilink")へ移籍。現酒田支社長）

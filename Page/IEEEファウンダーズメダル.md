@@ -15,8 +15,11 @@
 
 ## 受賞者
 
-以下の人々がIEEEファウンダーズメダルを受賞している\[2\]。 Narayana Murthy
+以下の人々がIEEEファウンダーズメダルを受賞している\[2\]。
 
+  - 2020: [ジェン・スン・ファン](https://ja.wikipedia.org/wiki/ジェン・スン・ファン "wikilink")
+  - 2019: Robin Saxby
+  - 2018: N. R. Narayana Murthy
   - 2017: [金出武雄](../Page/金出武雄.md "wikilink")
   - 2016: 受賞者無し
   - 2015: James D. Plummer
@@ -29,7 +32,7 @@
   - 2008: Steven Sample
   - 2007: Anita K. Jones
   - 2006: 青木利晴
-  - 2005: Eugene Wong\]\]
+  - 2005: Eugene Wong
   - 2004: Mildred Dresselhaus
   - 2003: Ray Stata
   - 2002: Thomas E. Everhart
@@ -50,7 +53,7 @@
   - 1987: James B. Owens
   - 1986: George H. Heilmeier
   - 1985: [ウィリアム・ノリス](https://ja.wikipedia.org/wiki/ウィリアム・ノリス "wikilink")
-  - 1984: 小林宏治
+  - 1984: [小林宏治](../Page/小林宏治.md "wikilink")
   - 1983: Joseph M. Pettit
   - 1982: 米澤滋
   - 1981: James Hillier
@@ -61,16 +64,16 @@
   - 1976: Edward W. Herold
   - 1975: John Grist Brainerd
   - 1974: Lawrence A. Hyland
-  - 1973: ウィリアム・ヒューレット\]\]
+  - 1973: [ウィリアム・ヒューレット](../Page/ウィリアム・ヒューレット.md "wikilink")
   - 1972: [井深大](../Page/井深大.md "wikilink")
   - 1971: Ernst Weber
   - 1970: Morris D. Hooven
   - 1969: E. Finley Carter
   - 1968: Patrick E. Haggerty
   - 1967: [ハーヴェイ・フレッチャー](../Page/ハーヴェイ・フレッチャー.md "wikilink")
-  - 1966: Elmer William Engstrom{{\!}}Elmer W. Engstrom
+  - 1966: Elmer William Engstrom
   - 1965: 受賞者無し
-  - 1964: Andrew McNaughton{{\!}}Andrew G. L. McNaughton
+  - 1964: Andrew McNaughton
   - 1963: [フレデリック・ターマン](https://ja.wikipedia.org/wiki/フレデリック・ターマン "wikilink")
   - 1962: 受賞者無し
   - 1961: Ralph Bown
@@ -81,7 +84,7 @@
   - 1956: 受賞者無し
   - 1955: 受賞者無し
   - 1954: Alfred N. Goldsmith
-  - 1953: [デイヴィッド・サーノフ](https://ja.wikipedia.org/wiki/デイヴィッド・サーノフ "wikilink")|colwidth=30em}}
+  - 1953: [デイヴィッド・サーノフ](https://ja.wikipedia.org/wiki/デイヴィッド・サーノフ "wikilink")
 
 ## 出典
 

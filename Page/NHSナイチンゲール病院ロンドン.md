@@ -3,6 +3,8 @@
 
 **NHSナイチンゲール病院ロンドン**、）は、[新型コロナウイルス感染症の流行 (2019年-)を受け](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、[エクセル展覧会センター](https://ja.wikipedia.org/wiki/エクセル展覧会センター "wikilink")の改装により建設された、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[国民保健サービス](https://ja.wikipedia.org/wiki/国民保健サービス "wikilink")（NHS）の運営する[病院](../Page/病院.md "wikilink")である\[1\]。4000-5000床の設置が可能で\[2\]、[2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")500床で開設された。
 
+[left](https://ja.wikipedia.org/wiki/ファイル:Aerial_view_of_ExCeL_Exhibition_London,_July_2015.jpg "wikilink")、2015年7月\]\]
+
 ## 脚注
 
 ## 関連項目

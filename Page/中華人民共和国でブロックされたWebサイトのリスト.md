@@ -1,24 +1,24 @@
 > この記事は[中華人民共和国でブロックされたWebサイトのリスト](https://ja.wikipedia.org/wiki/中華人民共和国でブロックされたWebサイトのリスト)から翻訳されています。
 
 
-中華人民共和国政府は、中国本土にある[サーバ](../Page/サーバ.md "wikilink")ーでホストされている多くのWebサイトを閉鎖しました。 また、管轄区域外にある[万里の長城によって耐火されたサイト](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")（主に中国のサイト）があります（  ）全体または一部をブロックします。一部は主に本土のユーザーを対象としています。ブロックした後のユーザーの損失は、Webサイトの運用を継続できないためです。
+中華人民共和国政府は、中国本土にある[サーバ](../Page/サーバ.md "wikilink")でホストされている多くのWebサイトを閉鎖しました。また、管轄区域外にある[グレート・ファイアウォール](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")によって耐火されたサイト（主に中国のサイト）があります（  ）全体または一部をブロックします。一部は主に本土のユーザーを対象としています。ブロックした後のユーザーの損失は、Webサイトの運用を継続できないためです。
 
-以下は、よく知られているブロックされた（閉じられたものとブロックされたものを含む）Webサイト、またはWebサイトのすべてのメディアと組織のリストです。 その中で、 [チャイナモバイルは万里の長城のブラックリストに基づいて独自のブラックリスト](../Page/中国移動通信.md "wikilink")（一般に「ウォールインザウォール」として知られています）を追加したため、 [チャイナユニコムやチャイナテレコムよりも](../Page/中国聯合通信.md "wikilink")、 [チャイナモバイルのブロードバンドおよびデータネットワークでアクセスできない海外のWebサイトが多くなっています](../Page/中国移動通信.md "wikilink")。
+以下は、よく知られているブロックされた（閉じられたものとブロックされたものを含む）Webサイト、またはWebサイトのすべてのメディアと組織のリストです。その中で、[チャイナモバイルは万里の長城のブラックリストに基づいて独自のブラックリスト](../Page/中国移動通信.md "wikilink")（一般に「ウォールインザウォール」として知られています）を追加したため、[チャイナユニコムやチャイナテレコムよりも](../Page/中国聯合通信.md "wikilink")、[チャイナモバイルのブロードバンドおよびデータネットワークでアクセスできない海外のWebサイトが多くなっています](../Page/中国移動通信.md "wikilink")。
 
 ## 海外
 
 ### シールド
 
-`中国政府による、ほとんどの海外メディア、クラウドストレージ、ビデオウェブサイト、フォーラムブログのブロック。ブロック方法には、IPブロック（Google、Facebook、Twitterなどの大規模な海外ネットワークサービスの場合）、 DNS汚染、接続のリセット、 `[`HTTP接続のターゲティングなどがあり`](../Page/Hypertext_Transfer_Protocol.md "wikilink")[`ます`](../Page/Hypertext_Transfer_Protocol.md "wikilink")` 。 `[`HTTPS`](../Page/HTTPS.md "wikilink")接続の[`SNI接続がリセットされました`](https://ja.wikipedia.org/wiki/Server_Name_Indication "wikilink")`。 `
+`中国政府による、ほとんどの海外メディア、クラウドストレージ、ビデオウェブサイト、フォーラムブログのブロック。ブロック方法には、IPブロック（Google、Facebook、Twitterなどの大規模な海外ネットワークサービスの場合）、DNS汚染、接続のリセット、`[`HTTP接続のターゲティングなどがあります`](../Page/Hypertext_Transfer_Protocol.md "wikilink")`。`[`HTTPS`](../Page/HTTPS.md "wikilink")接続の[`SNI接続がリセットされました`](https://ja.wikipedia.org/wiki/Server_Name_Indication "wikilink")`。`
 
 <div style="{{column-count|3}}">
 
 #### 政府および政党
 
   - [民主党 (アメリカ)](../Page/民主党_\(アメリカ\).md "wikilink")
-  - [:en:Congressional-Executive Commission on China](https://ja.wikipedia.org/wiki/:en:Congressional-Executive_Commission_on_China "wikilink")
+  - [Congressional-Executive Commission on China](https://ja.wikipedia.org/wiki/:en:Congressional-Executive_Commission_on_China "wikilink")
   - [全米民主主義基金](../Page/全米民主主義基金.md "wikilink")
-  - [:en:U.S. Agency for Global Media](https://ja.wikipedia.org/wiki/:en:U.S._Agency_for_Global_Media "wikilink")
+  - [U.S. Agency for Global Media](https://ja.wikipedia.org/wiki/:en:U.S._Agency_for_Global_Media "wikilink")
   - [米国在台湾協会](https://ja.wikipedia.org/wiki/米国在台湾協会 "wikilink")
   - [中華民国大統領官邸](https://ja.wikipedia.org/wiki/中華民国大統領官邸 "wikilink")
   - ドメイン名としてgov.twを使用する台湾のほとんどの政府のWebサイトまたはアフィリエイト（DNSで汚染されており、アクセスされている本土のIPからの台湾バックボーンネットワークのパケット損失が原因で一部の台湾のIPにアクセスできない）
@@ -33,7 +33,7 @@
   - [中国民主党 (中華人民共和国)](../Page/中国民主党_\(中華人民共和国\).md "wikilink")
   - [内モンゴル人民党](../Page/内モンゴル人民党.md "wikilink")
   - [ガンデンポタン](../Page/ガンデンポタン.md "wikilink") (チベット亡命政府)
-  - [香港特別行政区立法会](../Page/香港特別行政区立法会.md "wikilink")議員[:en:Liu Huiqing](https://ja.wikipedia.org/wiki/:en:Liu_Huiqing "wikilink")、[:en:Liang Jiajie](https://ja.wikipedia.org/wiki/:en:Liang_Jiajie "wikilink")、[:en:Liang Guoxiong個人Webサイト](https://ja.wikipedia.org/wiki/:en:Liang_Guoxiong "wikilink")
+  - [香港特別行政区立法会](../Page/香港特別行政区立法会.md "wikilink")議員[Liu Huiqing](https://ja.wikipedia.org/wiki/:en:Liu_Huiqing "wikilink")、[Liang Jiajie](https://ja.wikipedia.org/wiki/:en:Liang_Jiajie "wikilink")、[Liang Guoxiong個人Webサイト](https://ja.wikipedia.org/wiki/:en:Liang_Guoxiong "wikilink")
   - [満洲国政府 (政治団体)](../Page/満洲国政府_\(政治団体\).md "wikilink")
 
 #### ソーシャルネットワーク
@@ -48,12 +48,12 @@
   - [XING](https://ja.wikipedia.org/wiki/XING "wikilink")
   - [Tumblr](../Page/Tumblr.md "wikilink")
   - [Pinterest](https://ja.wikipedia.org/wiki/Pinterest "wikilink")
-  - [Discord](https://ja.wikipedia.org/wiki/Discord "wikilink")
+  - [Discord](https://ja.wikipedia.org/wiki/Discord_\(ソフトウェア\) "wikilink")
   - [Odnoklassniki](https://ja.wikipedia.org/wiki/Odnoklassniki "wikilink")
   - [Sina Weibo北米](https://ja.wikipedia.org/wiki/Sina_Weibo "wikilink")
   - [:zh:可能吧](https://ja.wikipedia.org/wiki/:zh:可能吧 "wikilink")
   - [DeviantART](../Page/DeviantART.md "wikilink")
-  - [vk](https://ja.wikipedia.org/wiki/vk "wikilink")
+  - [vk](https://ja.wikipedia.org/wiki/フコンタクテ "wikilink")
 
 注：①Discordは現在、半シールド状態であり、ユーザーはテキストメッセージを時々閲覧できます。
 
@@ -61,16 +61,16 @@
 
   - [FC2](../Page/FC2.md "wikilink")
   - [:zh:香港綜合討論區](https://ja.wikipedia.org/wiki/:zh:香港綜合討論區 "wikilink")
-  - [:en:Hong Kong Discuss Forum](https://ja.wikipedia.org/wiki/:en:Hong_Kong_Discuss_Forum "wikilink")
+  - [Hong Kong Discuss Forum](https://ja.wikipedia.org/wiki/:en:Hong_Kong_Discuss_Forum "wikilink")
   - [Uwantsフォーラム](https://ja.wikipedia.org/wiki/Uwantsフォーラム "wikilink")
-  - [:en:HKGolden](https://ja.wikipedia.org/wiki/:en:HKGolden "wikilink")（hkgoldenmobile.comおよびwestkit.netを含む）
-  - [:en:LIHKG](https://ja.wikipedia.org/wiki/:en:LIHKG "wikilink")
+  - [HKGolden](https://ja.wikipedia.org/wiki/:en:HKGolden "wikilink")（hkgoldenmobile.comおよびwestkit.netを含む）
+  - [LIHKG](https://ja.wikipedia.org/wiki/:en:LIHKG "wikilink")
   - [PTT (台湾)](https://ja.wikipedia.org/wiki/PTT_\(台湾\) "wikilink")
-  - [:en:Union of Chinese Nationalists](https://ja.wikipedia.org/wiki/:en:Union_of_Chinese_Nationalists "wikilink")
+  - [Union of Chinese Nationalists](https://ja.wikipedia.org/wiki/:en:Union_of_Chinese_Nationalists "wikilink")
   - [:zh:Mobile01](https://ja.wikipedia.org/wiki/:zh:Mobile01 "wikilink")
   - [:zh:台灣論壇](https://ja.wikipedia.org/wiki/:zh:台灣論壇 "wikilink")
   - [:zh:醫聲論壇](https://ja.wikipedia.org/wiki/:zh:醫聲論壇 "wikilink")
-  - [:en:MIT_BBS](https://ja.wikipedia.org/wiki/:en:MIT_BBS "wikilink")
+  - [MIT_BBS](https://ja.wikipedia.org/wiki/:en:MIT_BBS "wikilink")
   - [Disqus](https://ja.wikipedia.org/wiki/Disqus "wikilink")
   - [Komica](https://ja.wikipedia.org/wiki/Komica "wikilink")
   - [Quora](https://ja.wikipedia.org/wiki/Quora "wikilink")
@@ -108,7 +108,7 @@
   - [Googleカレンダー](https://ja.wikipedia.org/wiki/Googleカレンダー "wikilink")
   - [Googleフォト](https://ja.wikipedia.org/wiki/Googleフォト "wikilink")
   - [Googleショッピング](https://ja.wikipedia.org/wiki/Googleショッピング "wikilink")
-  - [デュオ](../Page/デュオ.md "wikilink")
+  - [Google Duo](https://ja.wikipedia.org/wiki/Google_Duo "wikilink")
   - [Googleドキュメント](https://ja.wikipedia.org/wiki/Googleドキュメント "wikilink")
   - [Googleスプレッドシート](https://ja.wikipedia.org/wiki/Googleスプレッドシート "wikilink")
   - [Googleスライド](https://ja.wikipedia.org/wiki/Googleスライド "wikilink")
@@ -122,8 +122,8 @@
 
   - [Diigo](https://ja.wikipedia.org/wiki/Diigo "wikilink")
   - [HootSuite](https://ja.wikipedia.org/wiki/HootSuite "wikilink")
-  - ほとんどのTwitterサードパーティ製コンピューターは、Webサイトまたはクライアント（[TweetDeck](https://ja.wikipedia.org/wiki/TweetDeck "wikilink")、[Seesmic](https://ja.wikipedia.org/wiki/Seesmic "wikilink")、[Topsy](https://ja.wikipedia.org/wiki/Topsy "wikilink")、[Twipple.jp](https://ja.wikipedia.org/wiki/Twipple.jp "wikilink")、[Twitterチャイニーズサークル](https://ja.wikipedia.org/wiki/Twitterチャイニーズサークル "wikilink")など）および[API](https://ja.wikipedia.org/wiki/API "wikilink")にログインします。
-  - ほとんどのTwitterモバイルサードパーティクライアント（[Gravity](https://ja.wikipedia.org/wiki/Gravity "wikilink")、[Socialscope](https://ja.wikipedia.org/wiki/Socialscope "wikilink")など）
+  - ほとんどのTwitterサードパーティ製コンピューターは、Webサイトまたはクライアント（[TweetDeck](https://ja.wikipedia.org/wiki/TweetDeck "wikilink")、[Seesmic](https://ja.wikipedia.org/wiki/Seesmic "wikilink")、[Topsy](https://ja.wikipedia.org/wiki/Topsy "wikilink")、[Twipple.jp](https://ja.wikipedia.org/wiki/Twipple.jp "wikilink")、[Twitterチャイニーズサークル](https://ja.wikipedia.org/wiki/Twitterチャイニーズサークル "wikilink")など）および[APIにログインします](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。
+  - ほとんどのTwitterモバイルサードパーティクライアント（[Gravity](https://ja.wikipedia.org/wiki/:en:Gravity_\(Twitter_client\) "wikilink")、[Socialscope](https://ja.wikipedia.org/wiki/Socialscope "wikilink")など）
   - [WorldCat](https://ja.wikipedia.org/wiki/WorldCat "wikilink")
   - [DuckDuckGo](https://ja.wikipedia.org/wiki/DuckDuckGo "wikilink")
   - [Veoh](../Page/Veoh.md "wikilink")
@@ -191,8 +191,8 @@
   - [電報](../Page/電報.md "wikilink")
   - [カカオトーク](https://ja.wikipedia.org/wiki/カカオトーク "wikilink")
   - [スナップチャット](https://ja.wikipedia.org/wiki/スナップチャット "wikilink")
-  - [ビバー](https://ja.wikipedia.org/wiki/ビバー "wikilink")
-  - [ライン](../Page/ライン.md "wikilink")
+  - [Viber](https://ja.wikipedia.org/wiki/Viber "wikilink")
+  - [LINE](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")
   - [ブログロビン](https://ja.wikipedia.org/wiki/ブログロビン "wikilink")
 
 #### ウイルス対策ソフトウェア
@@ -287,7 +287,7 @@
   - [オリエンタルプレスグループ](https://ja.wikipedia.org/wiki/オリエンタルプレスグループ "wikilink")（on.cc、hk.on.cc）
       - [オリエンタルデイリー](https://ja.wikipedia.org/wiki/オリエンタルデイリー "wikilink")
       - [イーストネットTV](https://ja.wikipedia.org/wiki/イーストネットTV "wikilink")
-  - [新聞に](https://ja.wikipedia.org/wiki/新聞に "wikilink")
+  - [新聞](../Page/新聞.md "wikilink")
       - [太陽](../Page/太陽.md "wikilink")（香港）
   - [香港経済ジャーナル](https://ja.wikipedia.org/wiki/香港経済ジャーナル "wikilink")
   - [ミン・パオ](https://ja.wikipedia.org/wiki/ミン・パオ "wikilink")
@@ -538,7 +538,7 @@
   - [Yahoo Hong Kong](https://ja.wikipedia.org/wiki/Yahoo_Hong_Kong "wikilink") （ホームページ、検索、辞書、ニュースセクション）
   - [Avira](https://ja.wikipedia.org/wiki/Avira_AntiVirus "wikilink") （search.avira.com）
   - [Steam](../Page/Steam.md "wikilink") （コミュニティおよび市場steamcommunity.com）
-  - [Chunghwa Telecom](https://ja.wikipedia.org/wiki/Chunghwa_Telecom "wikilink") （ニュース、マイWebサイト、 [Xuite](https://ja.wikipedia.org/wiki/Xuite "wikilink")ブログ）
+  - [Chunghwa Telecom](https://ja.wikipedia.org/wiki/Chunghwa_Telecom "wikilink") （ニュース、マイWebサイト、[Xuite](https://ja.wikipedia.org/wiki/Xuite "wikilink")ブログ）
   - [TVBS](https://ja.wikipedia.org/wiki/TVBS "wikilink") （写真とスクリプトcc.tvbs.com.tw）
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") （ニュースおよび国際的な[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")パートwww3.nhk.or.jp、通常のアクセスではwww2.nhk.or.jpに置き換えられ、NHKワールドの簡潔な日本語パートはブロックされません）
   - [WordPress.com](https://ja.wikipedia.org/wiki/WordPress.com "wikilink")ドメイン名の下のいくつかの個人Webサイト
@@ -555,7 +555,7 @@
   - [Sky Media](https://ja.wikipedia.org/wiki/Sky_Media "wikilink") Sweet Potato Vine Yam（Sky News n.yam.com、Sky Tribe tian.yam.com）
   - [オーストラリアンデイリー](https://ja.wikipedia.org/wiki/オーストラリアンデイリー "wikilink") （Australian Chinese Newspaper Group 1688.com.auおよびausdaily.net.au）
   - 世界ニュースネットワーク（ホームwn.com）
-  - [香港中華大学の](https://ja.wikipedia.org/wiki/香港中華大学の "wikilink")中国研究サービスセンター（図書館目録、ドキュメンタリー、民俗史セクションlibrary.usc.cuhk.edu.hkおよびmjlsh.usc.cuhk.edu.hkを含む）
+  - [香港中華大学](https://ja.wikipedia.org/wiki/香港中華大学 "wikilink")の中国研究サービスセンター（図書館目録、ドキュメンタリー、民俗史セクションlibrary.usc.cuhk.edu.hkおよびmjlsh.usc.cuhk.edu.hkを含む）
   - [シカゴ大学](../Page/シカゴ大学.md "wikilink") （文化革命のページhumanities.uchicago.edu/faculty/ywang/history/）
   - [Box Company](https://ja.wikipedia.org/wiki/Box_Company "wikilink") （\* app.box.com、m.box.com）
   - [Github](https://ja.wikipedia.org/wiki/Github "wikilink") （gist.github.com、raw.githubusercontent.com、avatars1.githubusercontent.com、avatars3.githubusercontent.com）
@@ -563,9 +563,9 @@
   - [Xanga](https://ja.wikipedia.org/wiki/Xanga "wikilink")
   - [エキサイトブログ](https://ja.wikipedia.org/wiki/エキサイトブログ "wikilink") exblog.jp、唯一の家庭訪問）
   - [ライブドア](../Page/ライブドア.md "wikilink") （ピクチャードメインlivedoor.blogimg.jp）
-  - [ウィキア](../Page/ウィキア.md "wikilink") （たとえば、 [香港サイバー辞書](https://ja.wikipedia.org/wiki/香港網絡大典 "wikilink") ）（完全なリストについては、 [こちらを参照して](https://ja.wikipedia.org/wiki/Wikia#Wikia.E7.9F.A5.E5.90.8D.E7.AB.99.E5.8F.B0 "wikilink")[ください](https://ja.wikipedia.org/wiki/Wikia#Wikia.E7.9F.A5.E5.90.8D.E7.AB.99.E5.8F.B0 "wikilink") ）
+  - [ウィキア](../Page/ウィキア.md "wikilink") （たとえば、[香港サイバー辞書](https://ja.wikipedia.org/wiki/香港網絡大典 "wikilink") ）（完全なリストについては、[こちらを参照して](https://ja.wikipedia.org/wiki/Wikia#Wikia.E7.9F.A5.E5.90.8D.E7.AB.99.E5.8F.B0 "wikilink")[ください](https://ja.wikipedia.org/wiki/Wikia#Wikia.E7.9F.A5.E5.90.8D.E7.AB.99.E5.8F.B0 "wikilink") ）
   - [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink") （一部のアプリ）
-  - [香港ジョッキークラブ](../Page/香港ジョッキークラブ.md "wikilink") （中国語版ホームページ、競馬、 [マークシックス](https://ja.wikipedia.org/wiki/六合彩 "wikilink") 、サッカーくじ抽選ページ）
+  - [香港ジョッキークラブ](../Page/香港ジョッキークラブ.md "wikilink") （中国語版ホームページ、競馬、[マークシックス](https://ja.wikipedia.org/wiki/六合彩 "wikilink")、サッカーくじ抽選ページ）
   - [CTM](../Page/CTM.md "wikilink")マカオモバイルコミュニティ
   - [Hotfile](https://ja.wikipedia.org/wiki/Hotfile "wikilink")
   - [Naver](https://ja.wikipedia.org/wiki/Naver "wikilink") （cafe.naver.com）
@@ -587,12 +587,12 @@
 
 ### チャイナモバイル（ブロードバンドおよびワイヤレスネットワークを含む）追加のブラックリスト
 
-[万里の長城の](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")[防火に基づいて](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")[、チャイナモバイルはさらに](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")60万を超える「悪い」ウェブサイトをブロックしました。そのうち1.2％は中国本土がアクセスするアダルトウェブサイトで、98.8％は海外にアクセスし、インターネットサイトが過半数を占めています。ウェブサイトの割合は5％未満です。 つまり、モバイルブロードバンドを使用すると、本土、香港、マカオ、および海外のWebサイトは利用できなくなりますが、他のISPネットワークではアクセスできます。
+[グレート・ファイアウォール](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")の防火に基づいて、チャイナモバイルはさらに60万を超える「悪い」ウェブサイトをブロックしました。そのうち1.2％は中国本土がアクセスするアダルトウェブサイトで、98.8％は海外にアクセスし、インターネットサイトが過半数を占めています。ウェブサイトの割合は5％未満です。つまり、モバイルブロードバンドを使用すると、本土、香港、マカオ、および海外のWebサイトは利用できなくなりますが、他のISPネットワークではアクセスできます。
 
 <div style="{{column-count|3}}">
 
-  - [HTC](https://ja.wikipedia.org/wiki/HTC "wikilink")携帯電話（香港および台湾を含む、外国のライセンス済み）天気予報サーバー（htc.accuweather.com 、 [AccuWeather](https://ja.wikipedia.org/wiki/AccuWeather "wikilink")提供）
-  - [アマゾン](https://ja.wikipedia.org/wiki/亞馬遜公司 "wikilink") （images-na.ssl-images-amazon.com、sellercentral.amazon.com、corvo-reports.s3.amazonaws.com、sellercentral.amazon.com、unagi-na.amazon.com、fls-na.amazon。 com、m.media-amazon.com、www.amazon.com）
+  - [HTC](https://ja.wikipedia.org/wiki/HTC "wikilink")携帯電話（香港および台湾を含む、外国のライセンス済み）天気予報サーバー（htc.accuweather.com、[AccuWeather](https://ja.wikipedia.org/wiki/AccuWeather "wikilink")提供）
+  - [アマゾン](https://ja.wikipedia.org/wiki/亞馬遜公司 "wikilink") （images-na.ssl-images-amazon.com、sellercentral.amazon.com、corvo-reports.s3.amazonaws.com、sellercentral.amazon.com、unagi-na.amazon.com、fls-na.amazon。com、m.media-amazon.com、www.amazon.com）
   - Fastly（すべての所属IPの断続的なブロック）
   - [Yahoo](https://ja.wikipedia.org/wiki/雅虎 "wikilink") Weather Server（weather.yahooapis.com）
   - [Jack'd](https://ja.wikipedia.org/wiki/Jack'd "wikilink")画像サーバーと多数の[地理位置情報サービスおよび](https://ja.wikipedia.org/wiki/基于位置的服务 "wikilink")[ソーシャルネットワーキングサービス](https://ja.wikipedia.org/wiki/社交網路服務 "wikilink")
@@ -628,7 +628,7 @@
   - [台北コンピュータビジネス協会](https://ja.wikipedia.org/wiki/台北コンピュータビジネス協会 "wikilink")
   - [バチカンラジオ](https://ja.wikipedia.org/wiki/バチカンラジオ "wikilink")
   - [Microsoft Azure](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink") （\* .azureedge.net）
-  - [7-Zip](../Page/7-Zip.md "wikilink") 、 [WinRAR](../Page/WinRAR.md "wikilink") 、 [Foobar2000](../Page/Foobar2000.md "wikilink") 、 [IDM](https://ja.wikipedia.org/wiki/Internet_Download_Manager "wikilink") 、 [Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink") 、 [XnView](https://ja.wikipedia.org/wiki/XnView "wikilink") 、 [フロッピーディスクを介して](https://ja.wikipedia.org/wiki/UltraISO "wikilink") （/ 6/24 6分の2019/1から2019は、64ビットのキーワードに疑われるサイトのコンテンツは、傍受されるシールド）
+  - [7-Zip](../Page/7-Zip.md "wikilink")、[WinRAR](../Page/WinRAR.md "wikilink")、[Foobar2000](../Page/Foobar2000.md "wikilink")、[IDM](https://ja.wikipedia.org/wiki/Internet_Download_Manager "wikilink")、[Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")、[XnView](https://ja.wikipedia.org/wiki/XnView "wikilink")、[フロッピーディスクを介して](https://ja.wikipedia.org/wiki/UltraISO "wikilink") （/ 6/24 6分の2019/1から2019は、64ビットのキーワードに疑われるサイトのコンテンツは、傍受されるシールド）
   - [MediaFire](https://ja.wikipedia.org/wiki/MediaFire "wikilink")
   - [C-SPAN](../Page/C-SPAN.md "wikilink")
   - [イランイスラム共和国のラジオおよびテレビ局](https://ja.wikipedia.org/wiki/イランイスラム共和国のラジオおよびテレビ局 "wikilink")
@@ -656,7 +656,7 @@
   - [OpenShift](https://ja.wikipedia.org/wiki/OpenShift "wikilink") （\* .rhcloud.com）
   - [オペラミニ](https://ja.wikipedia.org/wiki/オペラミニ "wikilink")インターナショナル
   - [台湾ディープブルー学生合同フォーラム](https://ja.wikipedia.org/wiki/台湾ディープブルー学生合同フォーラム "wikilink")
-  - [AICO：インカネーション](https://ja.wikipedia.org/wiki/AICO：インカネーション "wikilink")プロパガンダの[公式ウェブサイト](https://ja.wikipedia.org/wiki/公式ウェブサイト "wikilink") （www.project-aico.com）
+  - [AICO：インカネーション](https://ja.wikipedia.org/wiki/AICO：インカネーション "wikilink")プロパガンダの公式ウェブサイト （www.project-aico.com）
   - [米国国務省情報局国際](https://ja.wikipedia.org/wiki/米国国務省情報局国際 "wikilink")リファレンス（blogs.america.gov/mgck）
   - [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink") Webサイト（solarsystem.nasa.gov）の下の[ジェット推進研究所の太陽系探査Webサイト](https://ja.wikipedia.org/wiki/喷气推进实验室 "wikilink")
   - [ノーベル賞](../Page/ノーベル賞.md "wikilink")インターネットアーカイブ（nobelprizes.com）
@@ -671,7 +671,7 @@
   - [Qoos](https://ja.wikipedia.org/wiki/Qoos "wikilink")
   - [ちりべや](https://ja.wikipedia.org/wiki/ちりべや "wikilink")
   - [ゲームベース](https://ja.wikipedia.org/wiki/ゲームベース "wikilink")
-  - [嘉里フォーラムの](https://ja.wikipedia.org/wiki/嘉里フォーラムの "wikilink")中国語版
+  - [嘉里フォーラム](https://ja.wikipedia.org/wiki/嘉里フォーラム "wikilink")の中国語版
   - [アノニマスステーション](https://ja.wikipedia.org/wiki/アノニマスステーション "wikilink")
   - [私のOperaコミュニティ](https://ja.wikipedia.org/wiki/私のOperaコミュニティ "wikilink")
   - [qBittorrent](https://ja.wikipedia.org/wiki/qBittorrent "wikilink")
@@ -766,11 +766,11 @@
 
 ## 領土
 
-戦闘へ2009年末、中国政府[ポルノ大小のサイトは](../Page/ポルノグラフィ.md "wikilink")100000と同数のシャットダウン、の無料BBSサービスプロバイダのかなりの数を含め、。 この影響を受け、中国のウェブサイトの数は2010年までに44万件減少しました
+戦闘へ2009年末、中国政府[ポルノ大小のサイトは](../Page/ポルノグラフィ.md "wikilink")100000と同数のシャットダウン、の無料BBSサービスプロバイダのかなりの数を含め。この影響を受け、中国のウェブサイトの数は2010年までに44万件減少しました
 
 ### これまで閉鎖
 
-  - [Niubo](https://ja.wikipedia.org/wiki/Niubo "wikilink")が2006年7月に作成したブログサイト[罗永浩](https://ja.wikipedia.org/wiki/罗永浩 "wikilink")は、自由由主義的な知識人のグループを集め、いくつかの公開トピックについての議論を組織し、当局に異議を唱えました。 [RAN Yunfei](https://ja.wikipedia.org/wiki/RAN_Yunfei "wikilink")、[梁文道](https://ja.wikipedia.org/wiki/梁文道 "wikilink")、[艾未未](https://ja.wikipedia.org/wiki/艾未未 "wikilink")、[王山](https://ja.wikipedia.org/wiki/王山 "wikilink")、[莫之许](https://ja.wikipedia.org/wiki/莫之许 "wikilink")、Wuyue Sanren、10年の薪割り、Adingなどのブログの作者が参加しました。 [Charter 08](https://ja.wikipedia.org/wiki/Charter_08 "wikilink")。 2009年1月9日、中国のNiuboのサーバーがシャットダウンされました。
+  - [Niubo](https://ja.wikipedia.org/wiki/Niubo "wikilink")が2006年7月に作成したブログサイト[罗永浩](https://ja.wikipedia.org/wiki/罗永浩 "wikilink")は、自由由主義的な知識人のグループを集め、いくつかの公開トピックについての議論を組織し、当局に異議を唱えました。[RAN Yunfei](https://ja.wikipedia.org/wiki/RAN_Yunfei "wikilink")、[梁文道](https://ja.wikipedia.org/wiki/梁文道 "wikilink")、[艾未未](https://ja.wikipedia.org/wiki/艾未未 "wikilink")、[王山](https://ja.wikipedia.org/wiki/王山 "wikilink")、[莫之许](https://ja.wikipedia.org/wiki/莫之许 "wikilink")、Wuyue Sanren、10年の薪割り、Adingなどのブログの作者が参加しました。[Charter 08](https://ja.wikipedia.org/wiki/Charter_08 "wikilink")。2009年1月9日、中国のNiuboのサーバーがシャットダウンされました。
   - 「Skynet Searching for People」（海外では「[四四天网](https://ja.wikipedia.org/wiki/四四天网 "wikilink")」として知られています）とそのトレンドフォーラム（Huang Qiが議長を務め、2000年3月31日に完全に閉鎖）。
   - 2016年7月19日、有名な脆弱性報告プラットフォーム[Wuyun.comが突然閉鎖され](https://ja.wikipedia.org/wiki/Wuyun（Vulnerability_Reporting_Platform） "wikilink")、Wuyun.comの創設者が逮捕されました。
   - [燕南网](https://ja.wikipedia.org/wiki/燕南网 "wikilink")とそのBBSは2005年9月30日に閉鎖されます。
@@ -798,15 +798,15 @@
 
 ### 閉鎖
 
-  - [ユートピアの故郷](https://ja.wikipedia.org/wiki/ユートピアの故郷 "wikilink")は、[王立军事](https://ja.wikipedia.org/wiki/王立军事 "wikilink") Chongqing Municipal Party Committee Secretary [Bo XilaiがWuyou](https://ja.wikipedia.org/wiki/Bo_Xilai "wikilink") Zhixiang事務所から削除されたため、2012年3月に国内の有名な[Mao Zedong Thought](https://ja.wikipedia.org/wiki/Mao_Zedong_Thought "wikilink") Webサイトでした。臨時休業いたしました。 2012年に第18回中国全国大会が閉会した直後に再開されました。
-  - ぎこちない[嘀gur](https://ja.wikipedia.org/wiki/嘀gur "wikilink")。中国の有名な[微ブログ](https://ja.wikipedia.org/wiki/微ブログ "wikilink")ウェブサイト。 2009年7月22日にファンNoの後、同時に閉鎖されました。どちらのホームページも維持されているとのことで、再開時間はありませんでした。ムターは後に10月26日に再開した。 。
-  - [译言](https://ja.wikipedia.org/wiki/译言 "wikilink")、中国語のオンライン翻訳プラットフォーム。 2009年末に閉鎖され、2010年に再開されました。
+  - [ユートピアの故郷](https://ja.wikipedia.org/wiki/ユートピアの故郷 "wikilink")は、[王立军事](https://ja.wikipedia.org/wiki/王立军事 "wikilink") Chongqing Municipal Party Committee Secretary [Bo XilaiがWuyou](https://ja.wikipedia.org/wiki/Bo_Xilai "wikilink") Zhixiang事務所から削除されたため、2012年3月に国内の有名な[Mao Zedong Thought](https://ja.wikipedia.org/wiki/Mao_Zedong_Thought "wikilink") Webサイトでした。臨時休業いたしました。2012年に第18回中国全国大会が閉会した直後に再開されました。
+  - ぎこちない[嘀gur](https://ja.wikipedia.org/wiki/嘀gur "wikilink")。中国の有名な[微ブログ](https://ja.wikipedia.org/wiki/微ブログ "wikilink")ウェブサイト。2009年7月22日にファンNoの後、同時に閉鎖されました。どちらのホームページも維持されているとのことで、再開時間はありませんでした。ムターは後に10月26日に再開した。
+  - [译言](https://ja.wikipedia.org/wiki/译言 "wikilink")、中国語のオンライン翻訳プラットフォーム。2009年末に閉鎖され、2010年に再開されました。
   - [時光网](https://ja.wikipedia.org/wiki/時光网 "wikilink")、映画レビューサイト。
   - [ご飯](https://ja.wikipedia.org/wiki/ご飯 "wikilink")、中国のソーシャルネットワーキングサイト（500日の閉鎖後に復元）。
   - [一トウ糊塗BBS](../Page/一トウ糊塗BBS.md "wikilink")は2004年9月に閉鎖され、2007年1月に再開されました。
   - [中国選挙・統治ネットワーク](https://ja.wikipedia.org/wiki/中国選挙・統治ネットワーク "wikilink")は、[王立军事](https://ja.wikipedia.org/wiki/王立军事 "wikilink")と[博熙来](https://ja.wikipedia.org/wiki/博熙来 "wikilink")に関する不適切な発言により修正のため閉鎖され、ウェブページは「メンテナンス中」と表示され、アクセスは後で復元されました。
-  - 有料の音声質問応答サービス[分分](https://ja.wikipedia.org/wiki/分分 "wikilink")は2016年8月10日に閉鎖されました。これは、サイトで機密性の高い問題について誰かが話していることに関連していると考えられています。 9月28日、分割回答がオンラインに戻りました。
-  - 2018年5月8日、[レイジコミック](https://ja.wikipedia.org/wiki/レイジコミック "wikilink")は、58秒の長さの投稿に対して「侮辱的」であると見なされた殉教者[ドンカンルイ](https://ja.wikipedia.org/wiki/ドンカンルイ "wikilink")、[叶挺](https://ja.wikipedia.org/wiki/叶挺 "wikilink")のビデオとしてリリースされました。ウェブサイトをシャットダウンします。 2018年7月16日、公式の修正が完了し、お詫びの手紙が発行され、公式Webサイトへのアクセスが再開されました。
+  - 有料の音声質問応答サービス[分分](https://ja.wikipedia.org/wiki/分分 "wikilink")は2016年8月10日に閉鎖されました。これは、サイトで機密性の高い問題について誰かが話していることに関連していると考えられています。9月28日、分割回答がオンラインに戻りました。
+  - 2018年5月8日、[レイジコミック](https://ja.wikipedia.org/wiki/レイジコミック "wikilink")は、58秒の長さの投稿に対して「侮辱的」であると見なされた殉教者[ドンカンルイ](https://ja.wikipedia.org/wiki/ドンカンルイ "wikilink")、[叶挺](https://ja.wikipedia.org/wiki/叶挺 "wikilink")のビデオとしてリリースされました。ウェブサイトをシャットダウンします。2018年7月16日、公式の修正が完了し、お詫びの手紙が発行され、公式Webサイトへのアクセスが再開されました。
 
 </div>
 

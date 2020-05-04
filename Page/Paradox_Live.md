@@ -162,7 +162,8 @@
       - 02\. Get it
         作詞 - GASHIMA from WHITE JAM / 作曲・編曲 - [SHIGE & SHIMI from BUZZER BEATS](https://ja.wikipedia.org/wiki/SHIGE_&_SHIMI_from_BUZZER_BEATS "wikilink") / 歌 - cozmez
 
-      - 03\. Voice drama
+      - 03\. Voice Drama DESIRE Part1
+        04\. Voice Drama DESIRE Part2
 
 ## 脚注
 

@@ -64,6 +64,8 @@
   - [伊東秀悟](https://ja.wikipedia.org/wiki/伊東秀悟 "wikilink")
   - [森崎真帆](https://ja.wikipedia.org/wiki/森崎真帆 "wikilink")
   - [岩崎三由記](https://ja.wikipedia.org/wiki/岩崎三由記 "wikilink")
+  - [柊つぐみ](https://ja.wikipedia.org/wiki/柊つぐみ "wikilink")
+  - [はぎわらゆき](https://ja.wikipedia.org/wiki/はぎわらゆき "wikilink")
 
 ## 脚注
 

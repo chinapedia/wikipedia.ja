@@ -21,7 +21,7 @@
 
 同年4月、[日本映画大学](https://ja.wikipedia.org/wiki/日本映画大学 "wikilink")の田辺秋守教授と[細野辰興](../Page/細野辰興.md "wikilink")教授（映画監督）、2名による記事連載を開始。
 
-2020年4月、「[FMたちかわ](https://ja.wikipedia.org/wiki/FMたちかわ "wikilink")」のパーソナリティ[藤田みさ](https://ja.wikipedia.org/wiki/藤田みさ "wikilink")のラジオ番組で映画紹介コーナー開始予定。
+2020年6月、「[FMたちかわ](https://ja.wikipedia.org/wiki/FMたちかわ "wikilink")」のパーソナリティ[藤田みさ](https://ja.wikipedia.org/wiki/藤田みさ "wikilink")のラジオ番組で映画紹介コーナー開始予定。
 
 ## シネマダイバー（執筆者）
 

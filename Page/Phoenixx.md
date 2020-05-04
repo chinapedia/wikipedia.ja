@@ -32,12 +32,12 @@
   - 2019年 蹴落とし！トレジャーハンター\!（開発：WINGLAY）
   - 2019年 不思議の幻想郷 -ロータスラビリンス-（開発：AQUA STYLE）
 
+## 脚注
+
 ## 参考文献
 
   - [WORKS – 株式会社Phoenixx](https://phoenixx.ne.jp/work/)
   - [GAME TITLE | UNTIES アンティーズ　このゲームを、みんなに届けたい。](https://unties.com/s/u01/diary/game/list?ima=5509)
-
-## 出典
 
 ## 外部リンク
 

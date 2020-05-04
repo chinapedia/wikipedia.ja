@@ -41,7 +41,6 @@
 ## 外部リンク
 
   -
-  -
   - （2020年2月27日）
 
 [Category:欅坂46](https://ja.wikipedia.org/wiki/Category:欅坂46 "wikilink") [Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:日本の音楽ドキュメンタリー映画](https://ja.wikipedia.org/wiki/Category:日本の音楽ドキュメンタリー映画 "wikilink") [Category:アイドルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした映画作品 "wikilink") [Category:東宝製作の映画作品](https://ja.wikipedia.org/wiki/Category:東宝製作の映画作品 "wikilink") [Category:NHK製作の映画](https://ja.wikipedia.org/wiki/Category:NHK製作の映画 "wikilink") [Category:高橋栄樹の監督映画](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督映画 "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[ALL TIME ROCK \'N\' ROLL](https://ja.wikipedia.org/wiki/ALL_TIME_ROCK_\'N\'_ROLL)から翻訳されています。
 
 
-『**ALL TIME ROCK 'N' ROLL**』（オール タイム ロックンロール）は、日本の歌手[鈴木雅之の](../Page/鈴木雅之_\(歌手\).md "wikilink")40周年記念ベストアルバム。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")発売された。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
+『**ALL TIME ROCK 'N' ROLL**』（オール タイム ロックンロール）は[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に発売された、日本の歌手[鈴木雅之の](../Page/鈴木雅之_\(歌手\).md "wikilink")40周年記念[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 解説　
 
-シャネルズデビュー曲ランナウェイから鈴木雅之デビュー40周年記念アルバム。
+シャネルズデビュー曲「ランナウェイ」から鈴木雅之デビュー40周年記念アルバム。
 
 グループ時代の往年のヒット曲から今の鈴木雅之の新曲まで幅広く収録されたアルバム。
 
@@ -167,7 +167,7 @@
 
 ## 外部リンク　
 
-  - Sony Music
+  - SonyMusic
 
 <!-- end list -->
 

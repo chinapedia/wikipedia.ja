@@ -372,7 +372,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/Teenager_Kick_Ass" title="wikilink">Teenager Kick Ass</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Taupe" title="wikilink">The Taupe</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BALLOND&#39;OR" title="wikilink">BALLOND'OR</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/羊文学" title="wikilink">羊文学</a></li>
+<li><a href="../Page/羊文学.md" title="wikilink">羊文学</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/余命百年" title="wikilink">余命百年</a>
 </div>
 </div></li>

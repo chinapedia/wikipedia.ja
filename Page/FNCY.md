@@ -22,9 +22,10 @@
 
 ### 完全限定盤
 
-| タイトル         | リリース日       | 収録曲 | レーベル                                                                                  | [規格品番](../Page/規格品番.md "wikilink") | 形態                                                            | 備考 |                                                                                                                                                           |
-| ------------ | ----------- | --- | ------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------- | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AOI夜 / silky | 2018年12月19日 | 全2曲 | [Kissing Fish Records](https://ja.wikipedia.org/wiki/Kissing_Fish_Records "wikilink") | KMKN26                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | <ref>{{cite web |url= [https://diskunion.net/black/ct/detail/1007781918|title=](https://diskunion.net/black/ct/detail/1007781918%7Ctitle=) = AOI夜 / silky |
+| タイトル                  | リリース日       | 収録曲 | レーベル                                                                                  | [規格品番](../Page/規格品番.md "wikilink") | 形態                                                            | 備考 |                                                                                                                                                           |
+| --------------------- | ----------- | --- | ------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------- | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AOI夜 / silky          | 2018年12月19日 | 全2曲 | [Kissing Fish Records](https://ja.wikipedia.org/wiki/Kissing_Fish_Records "wikilink") | KMKN26                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | <ref>{{cite web |url= [https://diskunion.net/black/ct/detail/1007781918|title=](https://diskunion.net/black/ct/detail/1007781918%7Ctitle=) = AOI夜 / silky |
+| CLOTHES / 今夜はmedicine | 2019年08月07日 | 全2曲 | Kissing Fish Records                                                                  | KMKN41                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | \[3\]                                                                                                                                                     |
 
 ## Music Video
 
@@ -47,7 +48,8 @@ YouTubeで配信されている
   - [FNCY official instagram](https://www.instagram.com/fncy_official/?hl=ja)
   - [FNCY YouTube official channel](https://www.youtube.com/channel/UCYdy-F-0C0WYBBa3gvajtZA/featured)
 
-[Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")
+[Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:EVIL_LINE_RECORDSのアーティスト](https://ja.wikipedia.org/wiki/Category:EVIL_LINE_RECORDSのアーティスト "wikilink")
 
 1.
 2.
+3.

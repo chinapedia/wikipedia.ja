@@ -64,6 +64,9 @@
   - 2020年3月9日-UniqueR [@大塚Deepa](https://otsukadeepa.jp) (新型コロナの影響で延期)
   - 2020年4月4日-JK Killer Club [@大塚Deepa](https://otsukadeepa.jp) (新型コロナの影響で中止)
   - 2020年4月30日-BABLLE\#01[@新宿MARZ](http://www.marz.jp)
+
+(新型コロナの影響で中止)
+
   - 2020年5月13日-もしくは夜空のクジラにて[@新宿Zirco Tokyo](https://zirco-tokyo.jp)
 
 ## 脚注

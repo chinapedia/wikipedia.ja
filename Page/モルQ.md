@@ -1,13 +1,11 @@
 > この記事は[モルQ](https://ja.wikipedia.org/wiki/モルQ)から翻訳されています。
 
 
-[Mole_Q.jpg](https://ja.wikipedia.org/wiki/File:Mole_Q.jpg "fig:Mole_Q.jpg") **モルQ**（もるきゅう:MOLE-Q）とは、1991年に松平亨が考案した[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")カードを組み合わせて[分子](../Page/分子.md "wikilink")を作るゲームである。トランプのようにカードを配り、手持ちの原子カードから分子を作るとカードを捨てることができ、早くカードがなくなったものが勝ちとなる。分子や気体に関する[仮説実験授業](https://ja.wikipedia.org/wiki/仮説実験授業 "wikilink")の授業後に子供たちがよく遊んでおり、子供が新たな遊び方を考えだしたり、ゲームを通じて自分で分子を学ぶ効果も確認されている。また、科学講座では「[ぶんしっし](https://ja.wikipedia.org/wiki/#派生ゲーム「ぶんしっし」 "wikilink")」という遊び方も開発されている。
+[3D_mole_Q_cards.jpg](https://ja.wikipedia.org/wiki/File:3D_mole_Q_cards.jpg "fig:3D_mole_Q_cards.jpg") **モルQ**（もるきゅう:MOLE-Q）とは、1991年に松平亨が考案した[原子](https://ja.wikipedia.org/wiki/原子 "wikilink")カードを組み合わせて[分子](../Page/分子.md "wikilink")を作るゲームである。トランプのようにカードを配り、手持ちの原子カードから分子を作るとカードを捨てることができ、早くカードがなくなったものが勝ちとなる。分子や気体に関する[仮説実験授業](https://ja.wikipedia.org/wiki/仮説実験授業 "wikilink")の授業後に子供たちがよく遊んでおり、子供が新たな遊び方を考えだしたり、ゲームを通じて自分で分子を学ぶ効果も確認されている。また、科学講座では「[ぶんしっし](https://ja.wikipedia.org/wiki/#派生ゲーム「ぶんしっし」 "wikilink")」という遊び方も開発されている。
 
 ## 概要
 
 [酸素](../Page/酸素.md "wikilink")、[窒素](../Page/窒素.md "wikilink")、[炭素](../Page/炭素.md "wikilink")などの原子カードを組み合わせて分子を作っていくカードゲーム。分子を作って手持ちのカードを早くなくした人が〈あがり〉となる。負けた人は手持ちのカードの[原子番号](../Page/原子番号.md "wikilink")がマイナス点となるため、[原子番号](../Page/原子番号.md "wikilink")の大きい原子カードを最後まで持っていると勝敗に影響する。他の原子とくっついて分子にならない[18族](https://ja.wikipedia.org/wiki/18族 "wikilink")原子の「[アルゴン](../Page/アルゴン.md "wikilink")」「[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")」などは〈役札〉としてゲームを盛り上げる。5回ゲームを行って、最終順位が決定する。[仮説実験授業](https://ja.wikipedia.org/wiki/仮説実験授業 "wikilink")の[授業書](../Page/授業書.md "wikilink")「もしも原子が見えたなら」や「いろいろな気体」などの授業後に遊ぶと効果的に遊ぶことができる。分子を英語でmoleculeというので「もれきゅう」となり、最終的に「モルQ」という名称に決まった。松平は作成したモルQを1992年7月の[仮説実験授業研究会](../Page/仮説実験授業研究会.md "wikilink")の全国合宿研究会で発表し、実際にゲームをやって参加者に好評を得た。
-
-[3D_mole_Q_cards.jpg](https://ja.wikipedia.org/wiki/File:3D_mole_Q_cards.jpg "fig:3D_mole_Q_cards.jpg")
 
 ## 略年表
 
@@ -89,7 +87,7 @@
   - [モルカ（分子カルタ）](http://www.uminekoya.co.jp/molca.html) - 海猫屋
   - [NPO法人楽知ん研究所](https://luctin.org/)
 
-[Category:日本の教育](https://ja.wikipedia.org/wiki/Category:日本の教育 "wikilink") [Category:教育の手法](https://ja.wikipedia.org/wiki/Category:教育の手法 "wikilink") [Category:ゲーム](https://ja.wikipedia.org/wiki/Category:ゲーム "wikilink") [Category:教育方法学](https://ja.wikipedia.org/wiki/Category:教育方法学 "wikilink") [Category:教材](https://ja.wikipedia.org/wiki/Category:教材 "wikilink")
+[Category:日本の教育](https://ja.wikipedia.org/wiki/Category:日本の教育 "wikilink") [Category:教育の手法](https://ja.wikipedia.org/wiki/Category:教育の手法 "wikilink") [Category:ゲーム](https://ja.wikipedia.org/wiki/Category:ゲーム "wikilink") [Category:教育方法学](https://ja.wikipedia.org/wiki/Category:教育方法学 "wikilink") [Category:教材](https://ja.wikipedia.org/wiki/Category:教材 "wikilink") [Category:科学教育](https://ja.wikipedia.org/wiki/Category:科学教育 "wikilink") [Category:教育理論](https://ja.wikipedia.org/wiki/Category:教育理論 "wikilink")
 
 1.  [仮説実験授業研究会](../Page/仮説実験授業研究会.md "wikilink")の板倉賞の項目を参照のこと。
 2.  [仮説実験授業](https://ja.wikipedia.org/wiki/仮説実験授業 "wikilink")の[授業書](../Page/授業書.md "wikilink")〈もしも原子がみえたなら〉に出てくる分子に限定したり、授業書〈いろいろな気体〉に出てくる分子に限定するなど、子供たちの学習状況によって決める。「教科書しばり」など自由に決めてよいとされている。

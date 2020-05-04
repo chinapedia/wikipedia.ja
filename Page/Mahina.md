@@ -162,6 +162,7 @@
 ## 外部リンク
 
   - [mahina Official Website](https://mahina.site)
-  - [mahina official](https://twitter.com/mahina_sound/) (@mahina_sound) - [Twitter](../Page/Twitter.md "wikilink")
+  - [@mahina_sound](https://twitter.com/mahina_sound/) (@mahina_sound) - [Twitter](../Page/Twitter.md "wikilink")
   - [mahina](https://www.instagram.com/mahina_info/) (mahina_info) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
   - [mahina](https://www.instagram.com/mahina___official/) (mahina___official) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
+  - [mahina](https://m.youtube.com/channel/UCgqpoTmQ6MwARMrsm5JFRnA) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")

@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-1.  **HELLO WORLD**
+1.  **HELLO WORLD**\[1:52\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -25,7 +25,7 @@
         </div>
 
         Instrumental。今作の表題曲。
-2.  **シンデレラ**
+2.  **シンデレラ**\[3:31\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -38,7 +38,7 @@
         </div>
 
         4thデジタルシングルの表題曲。
-3.  **BLUE**
+3.  **BLUE**\[3:41\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -51,7 +51,7 @@
         </div>
 
         今作のリード曲。
-4.  **鬱憤**
+4.  **鬱憤**\[4:13\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -65,7 +65,7 @@
         </div>
 
         1stデジタルシングルの表題曲。
-5.  **FIRE**
+5.  **FIRE**\[3:57\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -76,7 +76,7 @@
         </div>
 
         </div>
-6.  **LIFEメーカー**
+6.  **LIFEメーカー**\[3:28\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -90,7 +90,7 @@
         </div>
 
         2ndデジタルシングルの表題曲。
-7.  **シェルレイ**
+7.  **シェルレイ**\[5:46\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -101,7 +101,7 @@
         </div>
 
         </div>
-8.  **君と花したい**
+8.  **君と花したい**\[5:46\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -113,7 +113,7 @@
         </div>
 
         </div>
-9.  **OH MY GOD\!\!**
+9.  **OH MY GOD\!\!**\[3:50\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -124,7 +124,7 @@
         </div>
 
         </div>
-10. **LOVE YOU**
+10. **LOVE YOU**\[3:03\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -136,7 +136,7 @@
         </div>
 
         </div>
-11. **BLACK HOLE**
+11. **BLACK HOLE**\[4:10\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -148,7 +148,7 @@
         </div>
 
         </div>
-12. **Butterfly**
+12. **Butterfly**\[3:22\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -160,7 +160,7 @@
         </div>
 
         </div>
-13. **ROCK STAR**
+13. **ROCK STAR**\[3:51\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -172,7 +172,7 @@
         </div>
 
         </div>
-14. **Lady**
+14. **Lady**\[4:37\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -186,7 +186,7 @@
         </div>
 
         3rdシングルの表題曲。
-15. **December 9**
+15. **December 9**\[4:27\]
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">

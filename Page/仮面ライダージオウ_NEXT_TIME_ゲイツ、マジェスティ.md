@@ -1,7 +1,7 @@
 > この記事は[仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ](https://ja.wikipedia.org/wiki/仮面ライダージオウ_NEXT_TIME_ゲイツ、マジェスティ)から翻訳されています。
 
 
-『**仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ**』（かめんライダージオウ ネクスト タイム ゲイツ マジェスティ）は、特撮テレビドラマ『[仮面ライダージオウ](https://ja.wikipedia.org/wiki/仮面ライダージオウ "wikilink")』の[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")作品。[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に期間限定で劇場先行上映され、同年[4月22日](../Page/4月22日.md "wikilink")に[BD](../Page/Blu-ray_Disc.md "wikilink") / [DVD](../Page/DVD.md "wikilink")が発売予定。
+『**仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ**』（かめんライダージオウ ネクスト タイム ゲイツ マジェスティ）は、特撮テレビドラマ『[仮面ライダージオウ](https://ja.wikipedia.org/wiki/仮面ライダージオウ "wikilink")』の[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")作品。[2020年](../Page/2020年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に期間限定で劇場先行上映され、同年[4月22日](../Page/4月22日.md "wikilink")に[BD](../Page/Blu-ray_Disc.md "wikilink") / [DVD](../Page/DVD.md "wikilink")が発売。
 
 ## 概要
 

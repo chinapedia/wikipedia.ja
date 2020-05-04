@@ -11,7 +11,7 @@
 
 ### ラーメン二郎
 
-  - 二郎系ラーメンは、1968年に**山田拓美**が創業した[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区 "wikilink")[三田](../Page/三田.md "wikilink")に本店がある[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")店である**[ラーメン二郎](../Page/ラーメン二郎.md "wikilink")**（以下、二郎と省略）で提供されているラーメンを源流とする。
+  - 二郎系ラーメンは、1968年に**山田拓美**が創業した[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[三田に本店がある](../Page/三田_\(東京都港区\).md "wikilink")[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")店である**[ラーメン二郎](../Page/ラーメン二郎.md "wikilink")**（以下、二郎と省略）で提供されているラーメンを源流とする。
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 ### ラーメン富士丸
 
-  - 旧二郎。**元ラーメン二郎[赤羽](../Page/赤羽.md "wikilink")店**（1991年創業）、（2001年、**ラーメン〇二郎**（マルジ）として独立）、現在はラーメン富士丸。[北区神谷に本店がある](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")。[足立区](../Page/足立区.md "wikilink")[西新井大師](https://ja.wikipedia.org/wiki/西新井大師西駅 "wikilink")、[北区](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")[上中里](../Page/上中里.md "wikilink")などに支店を持ち、旧二郎の中でも、二郎の味を受け継いでおり、**甘み**のあるクリアなスープは富士丸味とも呼ばれており、鉄製の**別皿で出される濃い味付けアブラ**も、富士丸ならではの名物となっている。このお店に一目置く二郎ファンも多く、富士丸は二郎系という枠に収まらず、一つの[ブランド](../Page/ブランド.md "wikilink")を確立している感がある。そのせいか、富士丸に影響を受けて開業した**富士丸系**のラーメン店を最近では多く開業している。代表的な店舗としては、**ラーメン荘夢を語れ**（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")）、**ラーメンそら**（[埼玉県](../Page/埼玉県.md "wikilink")[ふじみの市](../Page/ふじみ野市.md "wikilink")）などがあげられる。
+  - 旧二郎。**元ラーメン二郎[赤羽](../Page/赤羽.md "wikilink")店**（1991年創業）、（2001年、**ラーメン〇二郎**（マルジ）として独立）、現在はラーメン富士丸。[北区神谷に本店がある](https://ja.wikipedia.org/wiki/北区_\(東京都\) "wikilink")。[足立区](../Page/足立区.md "wikilink")[西新井大師](https://ja.wikipedia.org/wiki/西新井大師西駅 "wikilink")、北区[上中里](../Page/上中里.md "wikilink")などに支店を持ち、旧二郎の中でも、二郎の味を受け継いでおり、**甘み**のあるクリアなスープは富士丸味とも呼ばれており、鉄製の**別皿で出される濃い味付けアブラ**も、富士丸ならではの名物となっている。このお店に一目置く二郎ファンも多く、富士丸は二郎系という枠に収まらず、一つの[ブランド](../Page/ブランド.md "wikilink")を確立している感がある。そのせいか、富士丸に影響を受けて開業した**富士丸系**のラーメン店を最近では多く開業している。代表的な店舗としては、**ラーメン荘夢を語れ**（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")）、**ラーメンそら**（[埼玉県](../Page/埼玉県.md "wikilink")[ふじみの市](../Page/ふじみ野市.md "wikilink")）などがあげられる。
 
 ## ラーメン荘夢を語れ
 
@@ -98,7 +98,7 @@
 
   - [Yume Wo Katare](https://www.yumewokatare.com/)
 
-[Category:ラーメン店](https://ja.wikipedia.org/wiki/Category:ラーメン店 "wikilink") [Category:アメリカ](https://ja.wikipedia.org/wiki/Category:アメリカ "wikilink") [Category:ボストン](https://ja.wikipedia.org/wiki/Category:ボストン "wikilink") [Category:大分県](https://ja.wikipedia.org/wiki/Category:大分県 "wikilink") [Category:別府市](https://ja.wikipedia.org/wiki/Category:別府市 "wikilink")
+[Category:ラーメン店](https://ja.wikipedia.org/wiki/Category:ラーメン店 "wikilink")
 
 1.
 2.

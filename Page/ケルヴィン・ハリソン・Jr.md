@@ -1,11 +1,11 @@
 > この記事は[ケルヴィン・ハリソン・Jr](https://ja.wikipedia.org/wiki/ケルヴィン・ハリソン・Jr)から翻訳されています。
 
 
-**ケルヴィン・ハリソン・Jr**（**Kelvin Harrison Jr.**、[1994年](../Page/1994年.md "wikilink")7月23日-）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。
+**ケルヴィン・ハリソン・Jr**（Kelvin Harrison Jr.、[1994年](../Page/1994年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[俳優](../Page/俳優.md "wikilink")である。
 
 ## 人生
 
-[1994年](../Page/1994年.md "wikilink")7月23日、ケルヴィン・ハリソン・Jrは[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")で生まれた\[1\]。両親は共にミュージシャンであった。ハリソン・Jrは幼少期を[ガーデン地区で過ごしたが](https://ja.wikipedia.org/wiki/ガーデン地区_\(ニューオーリンズ\) "wikilink")、後に一家は市内中心部に引っ越すことになった\[2\]。青年期に入ると、ハリソン・Jrは[音響工学](https://ja.wikipedia.org/wiki/音響工学 "wikilink")や[マーケティング](../Page/マーケティング.md "wikilink")を専攻していたが、後に俳優業に関心を持つようになり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に移住した。同地で彼は演技のレッスンを受けた\[3\]。
+[ルイジアナ州](https://ja.wikipedia.org/wiki/ルイジアナ州 "wikilink")[ニューオーリンズ](../Page/ニューオーリンズ.md "wikilink")で生まれた\[1\]。両親は共にミュージシャンであった。ハリソン・Jrは幼少期を[ガーデン地区で過ごしたが](https://ja.wikipedia.org/wiki/ガーデン地区_\(ニューオーリンズ\) "wikilink")、後に一家は市内中心部に引っ越すことになった\[2\]。青年期に入ると、ハリソン・Jrは[音響工学](https://ja.wikipedia.org/wiki/音響工学 "wikilink")や[マーケティング](../Page/マーケティング.md "wikilink")を専攻していたが、後に俳優業に関心を持つようになり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")に移住した。同地で彼は演技のレッスンを受けた\[3\]。
 
 [2013年](../Page/2013年.md "wikilink")、ハリソン・Jrはその年の[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")を受賞した映画『[それでも夜は明ける](https://ja.wikipedia.org/wiki/それでも夜は明ける "wikilink")』に端役で出演し、それが俳優デビューとなった。その後、テレビドラマへのゲスト出演や短編映画への出演を重ねた。[2017年](../Page/2017年.md "wikilink")、『[イット・カムズ・アット・ナイト](https://ja.wikipedia.org/wiki/イット・カムズ・アット・ナイト "wikilink")』での演技によって、[第27回ゴッサム・インディペンデント映画賞](https://ja.wikipedia.org/wiki/第27回ゴッサム・インディペンデント映画賞 "wikilink")のブレイクスルー演技賞にノミネートされた\[4\]。
 
@@ -252,7 +252,7 @@
 
   -
   -
-[Category:アフリカ系アメリカ人の俳優](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の俳優 "wikilink") [Category:アメリカ合衆国の映画俳優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画俳優 "wikilink") [Category:アメリカ合衆国のテレビ俳優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビ俳優 "wikilink") [Category:ニューオーリンズ出身の人物](https://ja.wikipedia.org/wiki/Category:ニューオーリンズ出身の人物 "wikilink") [Category:1994年生](https://ja.wikipedia.org/wiki/Category:1994年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アメリカ合衆国の男優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男優 "wikilink") [Category:アメリカ合衆国の映画俳優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の映画俳優 "wikilink") [Category:アメリカ合衆国のテレビ俳優](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビ俳優 "wikilink") [Category:アフリカ系アメリカ人の俳優](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の俳優 "wikilink") [Category:ニューオーリンズ出身の人物](https://ja.wikipedia.org/wiki/Category:ニューオーリンズ出身の人物 "wikilink") [Category:1994年生](https://ja.wikipedia.org/wiki/Category:1994年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[POWER GIRLS](https://ja.wikipedia.org/wiki/POWER_GIRLS)から翻訳されています。
 
 
-ORICON NEWS|accessdate= 2020-03-04}}</ref> | Certification = | Last single = [GOLD](https://ja.wikipedia.org/wiki/GOLD_\(Happinessの曲\) "wikilink")
+</ref> | Certification = | Last single = [GOLD](https://ja.wikipedia.org/wiki/GOLD_\(Happinessの曲\) "wikilink")
 （[2017年](../Page/2017年.md "wikilink")） | This single = **POWER GIRLS**
 （[2019年](../Page/2019年.md "wikilink")） | Next single = Chao Chao
 （[2019年](../Page/2019年.md "wikilink")） | Misc = }}
@@ -37,5 +37,4 @@ ORICON NEWS|accessdate= 2020-03-04}}</ref> | Certification = | Last single = [GO
 ## 外部リンク
 
   -
-
-[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

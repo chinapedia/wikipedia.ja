@@ -9,11 +9,12 @@
 
 ## メンバー
 
+### 現メンバー
+
 <table>
 <thead>
 <tr class="header">
 <th><p>名前</p></th>
-<th><p>よみ</p></th>
 <th><p>担当色</p></th>
 <th><p>誕生日</p></th>
 <th><p>備考</p></th>
@@ -21,54 +22,84 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>池田あおい</p></td>
-<td><p>いけだあおい</p></td>
+<td><p><strong>池田あおい</strong><br />
+いけだあおい</p></td>
 <td><p>白</p></td>
 <td></td>
-<td><p>2018年1月7日TOKYO PiXiONに加入。</p></td>
+<td><p>2018年1月7日<br />
+TOKYOPiXiONに加入。</p></td>
 </tr>
 <tr class="even">
-<td><p>斉藤なな</p></td>
-<td><p>さいとうなな</p></td>
-<td><p>赤</p></td>
-<td></td>
-<td><p>2018年1月7日TOKYO PiXiONに加入。2020年4月19日『buGGってまざれっ</p></td>
-</tr>
-<tr class="odd">
-<td><p>清水凛</p></td>
-<td><p>しみずりん</p></td>
+<td><p><strong>清水凛</strong><br />
+しみずりん</p></td>
 <td><p>ピンク</p></td>
 <td></td>
-<td><p>2018年5月23日TOKYO PiXiONに加入。</p></td>
+<td><p>2018年5月23日<br />
+TOKYOPiXiONに加入。</p></td>
 </tr>
-<tr class="even">
-<td><p>鈴木媛子</p></td>
-<td><p>すずきひめこ</p></td>
+<tr class="odd">
+<td><p><strong>鈴木媛子</strong><br />
+すずきひめこ</p></td>
 <td><p>黄色</p></td>
 <td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/PPP!_PiXiON" title="wikilink">PPP! PiXiON</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>早見玲花</p></td>
-<td><p>はやみれいか</p></td>
+<tr class="even">
+<td><p><strong>早見玲花</strong><br />
+はやみれいか</p></td>
 <td><p>紫</p></td>
 <td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/PPP!_PiXiON" title="wikilink">PPP! PiXiON</a></p></td>
 </tr>
-<tr class="even">
-<td><p>町田つむぎ</p></td>
-<td><p>まちだつむぎ</p></td>
+<tr class="odd">
+<td><p><strong>町田つむぎ</strong><br />
+まちだつむぎ</p></td>
 <td><p>黒</p></td>
 <td></td>
-<td><p>2018年1月7日TOKYO PiXiONに加入。</p></td>
+<td><p>2018年1月7日<br />
+TOKYOPiXiONに加入。</p></td>
 </tr>
 </tbody>
 </table>
 
-**旧メンバー**
+### 旧メンバー
 
-  - 福田かれん（2019年2月2日卒業）
-  - 斉藤えいみ（2019年2月2日卒業）
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>担当色</p></th>
+<th><p>誕生日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>福田かれん</strong><br />
+ふくだかれん</p></td>
+<td></td>
+<td></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/TOKYO5" title="wikilink">TOKYO5</a><br />
+将来を考慮した結果、2019年2月2日『buGGってまざれっ</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>斉藤えいみ</strong><br />
+さいとうえいみ</p></td>
+<td></td>
+<td></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/TOKYO5" title="wikilink">TOKYO5</a><br />
+方向性の違いにより、2019年2月2日『buGGってまざれっ</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>斉藤なな</strong><br />
+さいとうなな</p></td>
+<td><p>赤</p></td>
+<td></td>
+<td><p>2018年1月7日TOKYO PiXiONに加入。<br />
+心身の不調により、2020年4月19日『buGGってまざれっ</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 外部リンク
 

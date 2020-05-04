@@ -5,17 +5,21 @@
 
 ## 概要
 
-東京の本屋に存在するバー「TOKYO SPEAKEASY」で繰り広げる設定のトーク番組。
+東京の小さな本屋の奥に存在するバー\[1\]「TOKYO SPEAKEASY」で繰り広げる設定のトーク番組。
 
-オープニングでは、バーの常連客の設定として[國村隼](../Page/國村隼.md "wikilink")がナビゲーターを担当。
+オープニングでは、バーの常連客の設定として[國村隼](../Page/國村隼.md "wikilink")がナビゲーターを担当。聴取者はカウンター席の客同士の会話を盗み聞きしているという設定である。
 
-[秋元康](../Page/秋元康.md "wikilink")\[1\]が番組のプロデュースを担当し、秋元が指名したゲスト2名がトークをする\[2\]。
+「SPEAKEASY」は米国・禁酒法時代に密かに酒を販売・提供していた店の意味で\[2\]、転じて実際にはない店を意味している\[3\]。
+
+[秋元康](../Page/秋元康.md "wikilink")\[4\]が番組のプロデュースを担当し、秋元が指名したゲスト2名がトークをする\[5\]。
+
+通常はバーと称したTFMのスタジオで対談しているが、ゲストによっては新型コロナウイルス対策でリモート出演を行っている。
 
 ## ネット局
 
 2020年4月現在。放送時間の早い順から記載。
 
-★印は『[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")』（プレミアム含む）で聴取可能な放送局。ただし、[AIR-G'](../Page/エフエム北海道.md "wikilink")\[3\]・[K-mix](../Page/静岡エフエム放送.md "wikilink")\[4\]・[FM大阪](../Page/エフエム大阪.md "wikilink")\[5\]・[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")\[6\]は自社制作番組の放送のため、開始当初から未ネット。
+★印は『[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")』（プレミアム含む）で聴取可能な放送局。ただし、[AIR-G'](../Page/エフエム北海道.md "wikilink")\[6\]・[K-mix](../Page/静岡エフエム放送.md "wikilink")\[7\]・[FM大阪](../Page/エフエム大阪.md "wikilink")\[8\]・[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")\[9\]は自社制作番組の放送のため、開始当初から未ネット。
 
 | 放送対象地域                                                            | 放送局名                                                                          | 放送時間                  | 備考      |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------- | ------- |
@@ -65,9 +69,12 @@
   -
 [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組 "wikilink") [Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:TOKYO_FMの深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの深夜ラジオ番組 "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink")
 
-1.  秋元は番組に出演しない。
-2.  [＜TOKYO FM新番組＞秋元康が届ける、2名の「噂の人物」による深夜のガチ生トーク番組が誕生！『TOKYO SPEAKEASY』毎週月～木曜深夜25:00～26:00　4月6日（月）スタート](https://prtimes.jp/main/html/rd/p/000001956.000004829.html)PR TIMES 2020年3月24日
-3.  当該時間帯は『[フルーティーのミックスジュースR](https://ja.wikipedia.org/wiki/フルーティーのミックスジュースR "wikilink")』（月曜 25:00 - 25:30）、『G.E.E.Kの気まぐれフルコース』（月曜 25:30 - 26:00）、『TENTSENSのミッドナイトチューズデー』（火曜 25:00 - 25:30）、『asatan presents 井上仁志のCONNECTALK』（火曜 25:30 - 26:00）、『細川美穂のしゃべっチャイナ♪』（水曜 25:00 - 25:30）、『[MUSIC PATIO](https://ja.wikipedia.org/wiki/MUSIC_PATIO "wikilink")』（水曜・木曜 25:30 - 26:00）、『鈴木愛奈のring A radio』（木曜 25:00 - 25:30）の放送のため未放送。
-4.  当該時間帯は『K-mix Midnight Rendez-vous “ミドラン”』の放送のため未放送。
-5.  当該時間帯は『J3 Monday～ミッドナイトポイポイ～』（月曜 25:00 - 25:55）、『J3 Tuesday～Midnight IQ （idol quest）～』（火曜 25:00 - 25:55）、『J3 Wednesday～Midnight Master Key～』（水曜 25:00 - 25:55）、『Joint\&Jam ～global dance traxx～』（木曜 25:00 - 25:55）、『[HIT STREET](https://ja.wikipedia.org/wiki/HIT_STREET "wikilink")』（25:55 - 26:00）の放送のため未放送。
-6.  当該時間帯は『[SPITZ 草野マサムネのロック大陸漫遊記](https://ja.wikipedia.org/wiki/SPITZ_草野マサムネのロック大陸漫遊記 "wikilink")』（月曜 25:00 - 25:55）、『TOGGY アルバム ライブラリ』（火曜 25:00 - 25:55）、『FM FUKUOKA アニソン部 II』（水曜 25:00 - 25:55）、『Have Fun\!\! e-sports』（木曜 25:00 - 25:55）、『Check This Out\!』（25:55 - 26:00）の放送のため未放送。
+1.
+2.
+3.  國村のトークでもこの設定が会話される。
+4.  秋元は番組に出演しない。
+5.  [＜TOKYO FM新番組＞秋元康が届ける、2名の「噂の人物」による深夜のガチ生トーク番組が誕生！『TOKYO SPEAKEASY』毎週月～木曜深夜25:00～26:00　4月6日（月）スタート](https://prtimes.jp/main/html/rd/p/000001956.000004829.html)PR TIMES 2020年3月24日
+6.  当該時間帯は『[フルーティーのミックスジュースR](https://ja.wikipedia.org/wiki/フルーティーのミックスジュースR "wikilink")』（月曜 25:00 - 25:30）、『G.E.E.Kの気まぐれフルコース』（月曜 25:30 - 26:00）、『TENTSENSのミッドナイトチューズデー』（火曜 25:00 - 25:30）、『asatan presents 井上仁志のCONNECTALK』（火曜 25:30 - 26:00）、『細川美穂のしゃべっチャイナ♪』（水曜 25:00 - 25:30）、『[MUSIC PATIO](https://ja.wikipedia.org/wiki/MUSIC_PATIO "wikilink")』（水曜・木曜 25:30 - 26:00）、『鈴木愛奈のring A radio』（木曜 25:00 - 25:30）の放送のため未放送。
+7.  当該時間帯は『K-mix Midnight Rendez-vous “ミドラン”』の放送のため未放送。
+8.  当該時間帯は『J3 Monday～ミッドナイトポイポイ～』（月曜 25:00 - 25:55）、『J3 Tuesday～Midnight IQ （idol quest）～』（火曜 25:00 - 25:55）、『J3 Wednesday～Midnight Master Key～』（水曜 25:00 - 25:55）、『Joint\&Jam ～global dance traxx～』（木曜 25:00 - 25:55）、『[HIT STREET](https://ja.wikipedia.org/wiki/HIT_STREET "wikilink")』（25:55 - 26:00）の放送のため未放送。
+9.  当該時間帯は『[SPITZ 草野マサムネのロック大陸漫遊記](https://ja.wikipedia.org/wiki/SPITZ_草野マサムネのロック大陸漫遊記 "wikilink")』（月曜 25:00 - 25:55）、『TOGGY アルバム ライブラリ』（火曜 25:00 - 25:55）、『FM FUKUOKA アニソン部 II』（水曜 25:00 - 25:55）、『Have Fun\!\! e-sports』（木曜 25:00 - 25:55）、『Check This Out\!』（25:55 - 26:00）の放送のため未放送。

@@ -11,7 +11,9 @@
 
 初回限定盤Aにはリードトラック「極東DANCE」のミュージックビデオとワンハーフサイズのダンスバージョンのミュージックビデオ、メイキングを収めたDVD、初回限定盤Bにはメンバー自身が運転をしながらすごろくで旅するバラエティ映像を収録したDVDが付属する。また、通常盤にはメンバー自ら制作に携わったソロ曲を収めたCDが同梱される。
 
-今作も前作に引き続き、メンバーの[松島聡](https://ja.wikipedia.org/wiki/松島聡 "wikilink")が突発性[パニック障害](../Page/パニック障害.md "wikilink")の治療に専念するため不参加。
+今作も前作に引き続き、メンバーの[松島聡](https://ja.wikipedia.org/wiki/松島聡 "wikilink")が突発性[パニック障害](../Page/パニック障害.md "wikilink")の治療に専念するため不参加。　
+
+2020年3月24日にポニーキャニオンから[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")内の新レーベルへ移籍することが発表されたため、ポニーキャニオンからリリースされる最後のアルバムとなる予定。
 
 ## 収録曲
 
@@ -22,12 +24,14 @@
 1.  **極東DANCE**
       -
         作詞：[多田慎也](https://ja.wikipedia.org/wiki/多田慎也 "wikilink")、作曲：A.K.Janeway/多田慎也、編曲：GRP
+    <!-- end list -->
+      - 本作のリードトラック
 2.  **恋のモード**
       -
         作詞、作曲：[浅利進吾](https://ja.wikipedia.org/wiki/浅利進吾 "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 3.  **禁断の果実**
       -
-        作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")、作曲：KOUDAI IWATSUBO/[Seiji Iwasaki](https://ja.wikipedia.org/wiki/岩崎誠司 "wikilink")、編曲：[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
+        作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")、作曲：KOUDAI IWATSUBO/[Seiji Iwasaki](../Page/岩崎誠司.md "wikilink")、編曲：[生田真心](https://ja.wikipedia.org/wiki/生田真心 "wikilink")
 4.  **[Honey Honey](https://ja.wikipedia.org/wiki/麒麟の子/Honey_Honey "wikilink")**
       -
         作詞：Kanata Okajima、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：ESME MORI

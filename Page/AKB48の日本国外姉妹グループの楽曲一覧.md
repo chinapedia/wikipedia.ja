@@ -931,7 +931,7 @@ style="font-size:108%;text-align:left" id="tBIII"|チームBIII / 研究生
 <td><p>Tanupop Notayanont</p></td>
 <td><p>Pongchuk Pissathanporn</p></td>
 <td><p>Posiwa Sotthibandhu</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイにおける2019年コロナウイルス感染症の流行状況" title="wikilink">新型コロナウイルス感染症の流行ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
+<td><p><a href="../Page/タイにおける2019年コロナウイルス感染症の流行状況.md" title="wikilink">新型コロナウイルス感染症の流行ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
 後にBNK48&amp;CGM48全員歌唱バージョンもリリース</p></td>
 </tr>
 <tr class="odd">
@@ -949,12 +949,50 @@ style="font-size:108%;text-align:left" id="tBIII"|チームBIII / 研究生
 <td><p>佐野勇介（訳詞）</p></td>
 <td><p>Pongchuk Pissathanporn</p></td>
 <td><p>Posiwa Sotthibandhu</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイにおける2019年コロナウイルス感染症の流行状況" title="wikilink">新型コロナウイルス感染症の流行ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
+<td><p><a href="../Page/タイにおける2019年コロナウイルス感染症の流行状況.md" title="wikilink">新型コロナウイルス感染症の流行ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
 「หัวใจใกล้กัน.... Touch by Heart」の日本語バージョン</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>伊豆田莉奈[34]、ジャー、カイムック、大久保美織、ミュージック、さっちゃん</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Touch by Heart</p></td>
+<td><p>BNK48</p></td>
+<td><p>Shane Reilly（訳詞）</p></td>
+<td><p>Pongchuk Pissathanporn</p></td>
+<td><p>Polkit Intharasombat</p></td>
+<td><p><a href="../Page/タイにおける2019年コロナウイルス感染症の流行状況.md" title="wikilink">新型コロナウイルス感染症の流行ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
+「หัวใจใกล้กัน.... Touch by Heart」の英語バージョン</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ゲーウ、ナムヌン、ヌイ、オーン、ターワン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>用心感悟</p></td>
+<td><p>BNK48</p></td>
+<td><p>陈良（訳詞）</p></td>
+<td><p>Pongchuk Pissathanporn</p></td>
+<td><p>Posiwa Sotthibandhu</p></td>
+<td><p><a href="../Page/タイにおける2019年コロナウイルス感染症の流行状況.md" title="wikilink">新型コロナウイルス感染症の流行ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
+「หัวใจใกล้กัน.... Touch by Heart」の中国語バージョン</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>チーチー、ジェーン、ケート、ミューニック、パークワン、パックコム、ウィー</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1175,6 +1213,8 @@ style="font-size:108%;text-align:left"|チームMII / チームNIV / チームL
 | 胡馨尹、沈莹                |                                                             |                  |                                                       |                                                                                                                                         |                                                                                                                                                                                                     |                                        |
 | ACTION\!              |                                                             | Manami、潇娘Lubyson | [滝澤俊輔](https://ja.wikipedia.org/wiki/滝澤俊輔 "wikilink") | アニメ『麻辣女配』のオープニングテーマ                                                                                                                     |                                                                                                                                                                                                     |                                        |
 | 毛唯嘉、沈莹、叶知恩            |                                                             |                  |                                                       |                                                                                                                                         |                                                                                                                                                                                                     |                                        |
+| 你最最最重要                | 创造营2020学员                                                   | 郭敬明              | The Anteloops                                         |                                                                                                                                         | 『创造营2020』テーマソング。                                                                                                                                                                                    |                                        |
+| 刘念、万芳舟、王雨朵、朱苓         |                                                             |                  |                                                       |                                                                                                                                         |                                                                                                                                                                                                     |                                        |
 
 ## AKB48 Team TP
 
@@ -1428,7 +1468,7 @@ style="font-size:108%;text-align:left"|チームMII / チームNIV / チームL
 <td><p>Pongchuk Pissathanporn, Opal Tantayanusorn</p></td>
 <td><p>Pongchuk Pissathanporn</p></td>
 <td><p>Nohn Intaranan</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイにおける2019年コロナウイルス感染症の流行状況" title="wikilink">新型コロナウイルス感染症の流行とチェンマイ森林火災ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
+<td><p><a href="../Page/タイにおける2019年コロナウイルス感染症の流行状況.md" title="wikilink">新型コロナウイルス感染症の流行とチェンマイ森林火災ための</a><a href="https://ja.wikipedia.org/wiki/チャリティーソング" title="wikilink">チャリティーソング</a>。<br />
 「หัวใจใกล้กัน.... Touch by Heart」（BNK48）の北タイ語バージョン</p></td>
 </tr>
 <tr class="odd">

@@ -9,7 +9,9 @@
 
 この時間はかつて[槇原敬之](../Page/槇原敬之.md "wikilink")がパーソナリティを務める『[Who cares?](https://ja.wikipedia.org/wiki/Who_cares? "wikilink")』が放送されていたが、2020年2月13日に槇原の不祥事発覚によって打ち切り\[2\]となり、急遽用意された穴埋め番組として開始された。
 
-2020年4月以降継続となり、現在では後続番組として放送されている。
+2020年4月以降継続となり、現在では後続番組として放送されている。それに伴い、公式サイト、公式ツイッター、ツイッターの公式ハッシュタグ（\#TKSMF）、公式メールアドレスも開始させている。
+
+門脇は2013年頃まで「[RADIO SURPRISE\!\!](../Page/RADIO_SURPRISE!!.md "wikilink")」とINTER X-PRESSのDJを兼任していたが、自身の体調不良のため降板。約7年ぶりに二つのレギュラー番組の兼任することになった。
 
 ## 放送時間
 
@@ -38,6 +40,8 @@
 ## 関連項目
 
   - [INTER X-PRESS](https://ja.wikipedia.org/wiki/INTER_X-PRESS "wikilink") - 門脇がDJを担当するbayfmの番組
+  - [ON8+1](../Page/ON8+1.md "wikilink") - 当番組がレギュラー化する前（2020年2月16日～2020年3月29日）にリスナーへのアンケートを実施するために、緊急用に使用していた。
+  - [KEIYOGINKO POWER COUNTDOWN REAL](https://ja.wikipedia.org/wiki/KEIYOGINKO_POWER_COUNTDOWN_REAL "wikilink") - [小島嵩弘](../Page/小島嵩弘.md "wikilink")が2020年4月現在平日（金曜日）19:00～21:00枠（金曜日は[金つぶ](https://ja.wikipedia.org/wiki/金つぶ "wikilink")）のレギュラーDJを勤めており、週末でもレギュラー番組（土曜日）を勤めている。
 
 ## 外部リンク
 

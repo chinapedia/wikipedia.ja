@@ -26,6 +26,7 @@
 ## 番組テーマ曲
 
   - [Herb Alpert](../Page/ハーブ・アルパート.md "wikilink") & The Tijuana Brass「[BITTERSWEET SAMBA](../Page/BITTERSWEET_SAMBA.md "wikilink")」REMIXバージョン（編曲:[DJ松永](https://ja.wikipedia.org/wiki/DJ松永 "wikilink")（[Creepy Nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")））
+      - これまで、オールナイトニッポンサタデースペシャル枠の番組では「BITTERSWEET SAMBA」をテーマ曲に使用していなかったが、当番組では初めて「BITTERSWEET SAMBA」をテーマ曲に使用している。
 
 ## 番組内コーナー
 
@@ -175,7 +176,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -285,7 +286,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>（OBS）</p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a>（OBS）</p></td>
 <td></td>
 <td></td>
 <td></td>

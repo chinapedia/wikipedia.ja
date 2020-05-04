@@ -11,61 +11,68 @@
 <thead>
 <tr class="header">
 <th><p>名前</p></th>
-<th><p>よみ</p></th>
-<th><p>誕生日</p></th>
-<th><p>出身地</p></th>
+<th><p>愛称</p></th>
 <th><p>タロットカード</p></th>
+<th><p>誕生日</p></th>
+<th><p>出身</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>桜野羽咲</strong></p></td>
-<td><p>さくらの うさ</p></td>
+<td><p><strong>桜野羽咲</strong><br />
+<small>さくらの うさ</small></p></td>
+<td><p>うーちゃん</p></td>
+<td><p><a href="../Page/女帝_(タロット).md" title="wikilink">女帝</a></p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/女帝_(タロット).md" title="wikilink">女帝</a></p></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/妄想キャリブレーション" title="wikilink">妄想キャリブレーション</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/空野青空" title="wikilink">空野青空</a></strong></p></td>
-<td><p>そらの あおぞら</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/空野青空" title="wikilink">空野青空</a></strong><br />
+<small>そらの あおぞら</small></p></td>
+<td><p>あおにゃん</p></td>
+<td><p><a href="../Page/運命の輪.md" title="wikilink">運命の輪</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サイド3" title="wikilink">サイド3</a></p></td>
-<td><p><a href="../Page/運命の輪.md" title="wikilink">運命の輪</a></p></td>
 <td><p>ソロとしても活動</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>相田詩音</strong></p></td>
-<td><p>あいだ しおん</p></td>
-<td></td>
-<td></td>
+<td><p><strong>相田詩音</strong><br />
+<small>あいだ しおん</small></p></td>
+<td><p>アイーダ</p></td>
 <td><p><a href="../Page/審判_(タロット).md" title="wikilink">審判</a></p></td>
-<td><p>愛称：アイーダ</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><strong>花宮ハナ</strong></p></td>
-<td><p>はなみや はな</p></td>
+<td><p><strong>花宮ハナ</strong><br />
+<small>はなみや はな</small></p></td>
+<td><p>ハナハナ</p></td>
+<td><p><a href="../Page/魔術師_(タロット).md" title="wikilink">魔術師</a></p></td>
 <td></td>
 <td><p>東京都</p></td>
-<td><p><a href="../Page/魔術師_(タロット).md" title="wikilink">魔術師</a></p></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/トリアエズ・ハナ" title="wikilink">トリアエズ・ハナ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/佐々木麻衣_(歌手)" title="wikilink">佐々木麻衣</a></strong></p></td>
-<td><p>ささき まい</p></td>
-<td></td>
-<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/佐々木麻衣_(歌手)" title="wikilink">佐々木麻衣</a></strong><br />
+<small>ささき まい</small></p></td>
+<td><p>まいち</p></td>
 <td><p><a href="../Page/世界_(タロット).md" title="wikilink">世界</a></p></td>
 <td></td>
+<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/THEカラオケ★バトル" title="wikilink">THEカラオケ★バトル</a><br />
+元「U-18四天王」</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>天野ひかる</strong></p></td>
-<td><p>あまの ひかる</p></td>
+<td><p><strong>天野ひかる</strong><br />
+<small>あまの ひかる</small></p></td>
+<td></td>
+<td><p><a href="../Page/星_(タロット).md" title="wikilink">星</a></p></td>
 <td><p>{{生年月日と年齢|2003</p></td>
 <td><p>}}</p></td>
 <td></td>
-<td><p><a href="../Page/星_(タロット).md" title="wikilink">星</a></p></td>
 </tr>
 </tbody>
 </table>

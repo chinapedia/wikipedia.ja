@@ -466,7 +466,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD" title="wikilink">FRONTIER BACKYARD</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/羊文学" title="wikilink">羊文学</a></li>
+<li><a href="../Page/羊文学.md" title="wikilink">羊文学</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/吉田ヨウヘイgroup" title="wikilink">吉田ヨウヘイgroup</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/世武裕子" title="wikilink">世武裕子</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BimBamBoom" title="wikilink">BimBamBoom</a></li>
@@ -801,7 +801,7 @@
   - [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink")
   - [フルカワユタカ](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")
   - [Gordon](https://ja.wikipedia.org/wiki/Gordon "wikilink")
-  - [羊文学](https://ja.wikipedia.org/wiki/羊文学 "wikilink")
+  - [羊文学](../Page/羊文学.md "wikilink")
   - [んoon](https://ja.wikipedia.org/wiki/んoon "wikilink")
   - [加藤伎乃](https://ja.wikipedia.org/wiki/加藤伎乃 "wikilink")
   - [Keishi Tanaka](https://ja.wikipedia.org/wiki/Keishi_Tanaka "wikilink")

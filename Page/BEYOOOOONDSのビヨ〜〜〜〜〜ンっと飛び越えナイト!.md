@@ -35,7 +35,7 @@
 
   - ※収録風景の写真などを更新している。
 
-[Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオのラジオ番組](https://ja.wikipedia.org/wiki/Category:東海ラジオのラジオ番組 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:ハロー\!プロジェクト関連の放送番組](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連の放送番組 "wikilink")
+[Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオのラジオ番組](https://ja.wikipedia.org/wiki/Category:東海ラジオのラジオ番組 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:ハロー\!プロジェクト関連の放送番組](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連の放送番組 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
 1.
 2.

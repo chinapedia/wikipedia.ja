@@ -144,6 +144,7 @@
 | 2020/02/26 | the twenties                                                        | [荊棘](https://www.youtube.com/watch?v=o1a4g4dL5s8)                      |                                  |
 | 2020/03/01 | [ハシビロコウズ](https://ja.wikipedia.org/wiki/ハシビロコウズ "wikilink")         | [デジタルネコザメ](https://www.youtube.com/watch?v=QQriC-PB2dE)                | 照明演出：石丸武、撮影協力：総合学院テクノスカレッジ\[15\] |
 | 2020/03/07 | [oozash](https://ja.wikipedia.org/wiki/oozash "wikilink")           | [BET](https://www.youtube.com/watch?v=N1G0Mx3JDQY)                     |                                  |
+| 2020/04/01 | [長靴をはいた猫](https://ja.wikipedia.org/wiki/長靴をはいた猫_\(バンド\) "wikilink") | [天満月](https://www.youtube.com/watch?v=o8h7ZQOl7mw)                     |                                  |
 |            |                                                                     |                                                                        |                                  |
 
 ## 脚注

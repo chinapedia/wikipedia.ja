@@ -88,8 +88,9 @@
 ## 関連項目
 
   - [TJライナー](../Page/TJライナー.md "wikilink") - [東上本線](https://ja.wikipedia.org/wiki/東上本線 "wikilink")で運行されるマルチシート車両を使用した座席指定制列車。
-  - [メトロはこね](https://ja.wikipedia.org/wiki/はこね_\(列車\) "wikilink")・[メトロモーニングウェイ・メトロホームウェイ](../Page/モーニングウェイ・ホームウェイ.md "wikilink")・[メトロえのしま](../Page/えのしま_\(列車\).md "wikilink")：小田急電鉄などで運行される、地下鉄に乗り入れる有料列車。
-  - [S-TRAIN](https://ja.wikipedia.org/wiki/S-TRAIN "wikilink")：西武鉄道・東急電鉄などで運行される、地下鉄に乗り入れる座席指定制列車。
+  - [メトロはこね](https://ja.wikipedia.org/wiki/はこね_\(列車\) "wikilink")・[メトロモーニングウェイ・メトロホームウェイ](../Page/モーニングウェイ・ホームウェイ.md "wikilink")・[メトロえのしま](../Page/えのしま_\(列車\).md "wikilink")：小田急電鉄などで運行される、東京地下鉄に乗り入れる有料列車。
+  - [S-TRAIN](https://ja.wikipedia.org/wiki/S-TRAIN "wikilink")：西武鉄道・東急電鉄などで運行される、東京地下鉄に乗り入れる座席指定制列車。
+  - [宇都宮線](../Page/宇都宮線.md "wikilink")・[湘南新宿ライン](https://ja.wikipedia.org/wiki/湘南新宿ライン "wikilink") - 当列車と久喜駅 - 上野駅・恵比寿駅間で競合するJR東日本の運転系統。
 
 [Category:東武鉄道の列車](https://ja.wikipedia.org/wiki/Category:東武鉄道の列車 "wikilink") [Category:列車愛称_て](https://ja.wikipedia.org/wiki/Category:列車愛称_て "wikilink")
 

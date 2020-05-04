@@ -57,6 +57,8 @@
 
 <references />
 
+[Category:直島町の建築物](https://ja.wikipedia.org/wiki/Category:直島町の建築物 "wikilink") [Category:2019年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2019年竣工の日本の建築物 "wikilink")
+
 1.
 2.
 3.

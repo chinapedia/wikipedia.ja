@@ -33,4 +33,6 @@
 
 ・[SALIDA公式サイト](http://salida4.webnode.jp)
 
+・[浜松believe.1公式サイト](https://believe1.hamazo.tv/)
+
 [Category:静岡県](https://ja.wikipedia.org/wiki/Category:静岡県 "wikilink") [Category:浜松市](https://ja.wikipedia.org/wiki/Category:浜松市 "wikilink") [Category:浜松市の企業](https://ja.wikipedia.org/wiki/Category:浜松市の企業 "wikilink")

@@ -19,7 +19,7 @@
 
 ## ミュージック・ビデオ
 
-表題曲は[MVが制作されている](../Page/ミュージック・ビデオ.md "wikilink")。撮影は2020年[3月17日](../Page/3月17日.md "wikilink")に行われ、[4月7日](../Page/4月7日.md "wikilink")（[スーパームーン](https://ja.wikipedia.org/wiki/スーパームーン "wikilink")の日）に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で公開された。
+表題曲は[MVが制作されている](../Page/ミュージック・ビデオ.md "wikilink")。撮影は2020年[3月17日](../Page/3月17日.md "wikilink")に行われ、[4月8日](../Page/4月8日.md "wikilink")（[スーパームーン](https://ja.wikipedia.org/wiki/スーパームーン "wikilink")の日）に[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で公開された。
 
 ## チャート
 

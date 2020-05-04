@@ -1,7 +1,7 @@
 > この記事は[Aquamacs](https://ja.wikipedia.org/wiki/Aquamacs)から翻訳されています。
 
 
-**Aquamacs**は、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")のための[Emacs](../Page/Emacs.md "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")。[GNU Emacsに基づいており](../Page/GNU_Emacs.md "wikilink")、現在はGNU Emacs バージョン25.3のブランチを基に開発が行われている。GNU Emacsは、macOSにおけるネイティブUIのサポートをバージョン23から[Cocoa](../Page/Cocoa.md "wikilink") [API](https://ja.wikipedia.org/wiki/API "wikilink")を用いて行っているが、Aquamacsは、Emacsの標準よりもmacOSの標準に従うようインターフェースに手が加えられている。
+**Aquamacs**は、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")のための[Emacs](../Page/Emacs.md "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")。[GNU Emacsに基づいており](../Page/GNU_Emacs.md "wikilink")、現在はGNU Emacs バージョン25.3のブランチを基に開発が行われている。GNU Emacsは、macOSにおけるネイティブUIのサポートをバージョン23から[Cocoa](../Page/Cocoa.md "wikilink") [APIを用いて行っているが](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、Aquamacsは、Emacsの標準よりもmacOSの標準に従うようインターフェースに手が加えられている。
 
 Aquamacsにおける変更点の中には、デフォルトで、異なったファイルバッファを表示するためにウィンドウに[タブ](../Page/タブ.md "wikilink")が表示され、管理が行えるというものがある。キーバインディングはmacOSにおける標準的なもの（Command-Wでウィンドウを閉じる、Command-Sでファイルを保存する等）が利用可能である。標準の[印刷](../Page/印刷.md "wikilink")ダイアログと機能には、[Emacs](../Page/Emacs.md "wikilink")のMetaキーと同様に、Macキーボードのオプションキーの効果的な利用の機能が加えられている。ウィンドウのスタイルは、自動的に表示されているバッファに応じているメジャーモードに合うように変更される。視覚的には、Aquamacsは、他のMacアプリケーションと同様のフォントやアイコンに準拠している\[1\]。
 

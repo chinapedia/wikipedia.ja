@@ -43,14 +43,14 @@
   - 銭の力で、戦国の世を駆け抜ける。　既刊7巻　[MFブックス](https://ja.wikipedia.org/wiki/MFブックス "wikilink")
   - 勇者の活躍はこれからだ！異世界からの出戻り勇者は平穏に暮らしたい。　既刊3巻　[オーバーラップノベルス](https://ja.wikipedia.org/wiki/オーバーラップノベルス "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   -
   - [Ｙ．Ａ](https://mypage.syosetu.com/33567/) - 小説家になろう
 
   - [Ｙ．Ａ](https://kakuyomu.jp/users/waiei) - カクヨム
-
-## 脚注
 
 [Category:日本のライトノベル作家](https://ja.wikipedia.org/wiki/Category:日本のライトノベル作家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

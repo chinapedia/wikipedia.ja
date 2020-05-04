@@ -1,7 +1,7 @@
 > この記事は[THE EMI BOX](https://ja.wikipedia.org/wiki/THE_EMI_BOX)から翻訳されています。
 
 
-『**THE EMI BOX**』（ザ・イーエムアイ・ボックス）は、日本のミュージシャンである[吉川晃司](../Page/吉川晃司.md "wikilink")のボックスセット。
+『**THE EMI BOX**』（ザ・イーエムアイ・ボックス）は、日本のミュージシャンである[吉川晃司](../Page/吉川晃司.md "wikilink")の[ボックス・セット](../Page/ボックス・セット.md "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") に[東芝EMIのイーストワールドレーベルよりリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")。
 

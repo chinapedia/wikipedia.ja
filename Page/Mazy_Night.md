@@ -3,7 +3,7 @@
 
 「**Mazy Night**」（メイジー・ナイト）は、[King & Princeの楽曲](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")。同グループ5枚目のシングルとして[2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に\[1\][Johnnys'Universe / ユニバーサルJからリリース予定](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
-メンバーである[平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")と、[Sexy Zoneの](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")[中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")のダブル主演ドラマ『[未満警察 ミッドナイトランナー](../Page/未満警察_ミッドナイトランナー.md "wikilink")』の主題歌となっている\[2\]。困難に立ち向かう若者たちの友情や葛藤を描いた歌詞に詰め込まれた一曲 \[3\]。
+メンバーである[平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")と、[Sexy Zoneの](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")[中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")のダブル主演ドラマ『[未満警察 ミッドナイトランナー](../Page/未満警察_ミッドナイトランナー.md "wikilink")』の主題歌となっている\[2\]。困難に立ち向かう若者たちの友情や葛藤を描いた歌詞に詰め込まれた一曲\[3\]。
 
 ## リリース
 

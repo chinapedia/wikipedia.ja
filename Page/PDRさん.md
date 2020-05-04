@@ -21,8 +21,8 @@
 
 ## 親族
 
-  - 弟に、元[ジャニーズJr](https://ja.wikipedia.org/wiki/ジャニーズJr "wikilink")で同じくYouTuberの「[PDS](https://ja.wikipedia.org/wiki/ペインダンテ将之介 "wikilink")」がいるが、兄弟仲はとても悪い\[10\]。
-  - 次男のペイン・ミカエル・森之介は吉本興業に所属する芸人である。
+  - 弟に、元[ジャニーズJr](https://ja.wikipedia.org/wiki/ジャニーズJr "wikilink")で同じくYouTuberの「[PDS](https://ja.wikipedia.org/wiki/ペイン・ダンテ・将之介 "wikilink")」(ペイン・ダンテ・将之介)と芸人の[ペイン・ミカイル・森之介](https://ja.wikipedia.org/wiki/ペイン・ミカイル・森之介 "wikilink")いるが、兄弟仲はとても悪い\[10\]。
+  - 次男のペイン・ミカイル・森之介は[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属する芸人である。
 
 ## 脚注
 

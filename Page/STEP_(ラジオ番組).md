@@ -15,9 +15,9 @@
 
 ## パーソナリティ
 
-  - [中島つぐまさ](https://ja.wikipedia.org/wiki/中島つぐまさ "wikilink")
+  - [中島つぐまさ](../Page/中島つぐまさ.md "wikilink")
   - [高崎恵理](https://ja.wikipedia.org/wiki/高崎恵理 "wikilink")
-  - [田中菜津美](https://ja.wikipedia.org/wiki/田中菜津美 "wikilink")
+  - [田中菜津美](../Page/田中菜津美.md "wikilink")
 
 ## タイムテーブル
 

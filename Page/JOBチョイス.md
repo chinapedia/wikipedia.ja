@@ -43,6 +43,6 @@
 
 <!-- end list -->
 
-  - [株式会社MEDIAFLAG沖縄（JOBチョイス運営元）](http://okinawa.mediaflag.co.jp/company/profile.html)
+  - [株式会社MEDIAFLAG沖縄（JOBチョイス運営元）](https://okinawa.mediaflag.co.jp/)
 
 [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:求人情報サイト](https://ja.wikipedia.org/wiki/Category:求人情報サイト "wikilink") [Category:2020年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2020年開設のウェブサイト "wikilink")

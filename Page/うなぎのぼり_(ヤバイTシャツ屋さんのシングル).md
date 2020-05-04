@@ -81,7 +81,7 @@
 
 ### 出典
 
-[Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink")
+[Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:ヤバイTシャツ屋さんの楽曲](https://ja.wikipedia.org/wiki/Category:ヤバイTシャツ屋さんの楽曲 "wikilink") [Category:ユニバーサル_ミュージック_グループのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサル_ミュージック_グループのシングル "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.
 2.

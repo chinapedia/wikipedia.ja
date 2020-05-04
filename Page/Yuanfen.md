@@ -15,31 +15,32 @@
 
 ## 収録曲
 
-1.  午前0時の無力な神様
-      - 作詞:鹿乃、作曲:[田中秀和](https://ja.wikipedia.org/wiki/田中秀和_\(作曲家\) "wikilink") 、編曲:Aire
-2.  光れ
-      - 作詞:鹿乃、作曲:田中秀和 、編曲:Nor
-3.  yours
-      - 作詞:鹿乃、作曲・編曲:田中秀和
-4.  KILIG
-      - 作詞:鹿乃、作曲:田中秀和 、編曲:ハヤシベトモノリ
-5.  聴いて
-      - 作詞:鹿乃、作曲・編曲:田中秀和
-6.  漫ろ雨
-      - 作詞:鹿乃、作曲:田中秀和 、編曲:曽我淳一
-7.  おかえり
-      - 作詞:鹿乃、作曲:田中秀和 、編曲:Oliver Good
-8.  罰と罰
-      - 作詞:鹿乃、作曲:田中秀和 、編曲:[佐高陵平](https://ja.wikipedia.org/wiki/佐高陵平 "wikilink")
-9.  エンディングノート
-      - 作詞:鹿乃、作曲:田中秀和 、編曲:[sugarbeans](https://ja.wikipedia.org/wiki/sugarbeans "wikilink")
-10. 光の道標 (bonus track)
-      - 作詞:[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲:[山田高弘](https://ja.wikipedia.org/wiki/山田高弘 "wikilink") 、編曲:[齋藤真也](../Page/齋藤真也.md "wikilink")
+1.  **午前0時の無力な神様**
+      - 作詞：[鹿乃](https://ja.wikipedia.org/wiki/鹿乃 "wikilink")、作曲：[田中秀和](https://ja.wikipedia.org/wiki/田中秀和_\(作曲家\) "wikilink")、編曲：Aire
+2.  **光れ**
+      - 作詞：鹿乃、作曲：田中秀和、編曲：Nor
+3.  **yours**
+      - 作詞：鹿乃、作曲・編曲：田中秀和
+4.  **KILIG**
+      - 作詞：鹿乃、作曲：田中秀和、編曲：ハヤシベトモノリ
+5.  **聴いて**
+      - 作詞：鹿乃、作曲・編曲：田中秀和
+6.  **漫ろ雨**
+      - 作詞：鹿乃、作曲：田中秀和、編曲：曽我淳一
+7.  **おかえり**
+      - 作詞：鹿乃、作曲：田中秀和、編曲：Oliver Good
+8.  **罰と罰**
+      - 作詞：鹿乃、作曲：田中秀和、編曲：[佐高陵平](https://ja.wikipedia.org/wiki/佐高陵平 "wikilink")
+9.  **エンディングノート**
+      - 作詞：鹿乃、作曲：田中秀和、編曲:[sugarbeans](https://ja.wikipedia.org/wiki/sugarbeans "wikilink")
+10. **光の道標**
+      - 作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲：[山田高弘](https://ja.wikipedia.org/wiki/山田高弘 "wikilink")、編曲：[齋藤真也](../Page/齋藤真也.md "wikilink")
       - TVアニメ「[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")」EDテーマ
+      - ボーナストラック
 
 ### 初回限定盤DVD
 
-  - 午前0時の無力な神様 (MUSIC VIDEO)
+  - 午前0時の無力な神様（MUSIC VIDEO）
 
 ## 出典
 

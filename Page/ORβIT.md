@@ -17,7 +17,7 @@
 
   - 9月26日 - [GYAO\!](../Page/GYAO!.md "wikilink")にてオーディション番組『[PRODUCE 101 JAPAN](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")』放送開始。安藤誠明、上原潤、大澤駿弥、キム・ヒチョン、キム・ユンドン、チョン・ヨンフン、宮島優心が出演。
   - 11月28日 - キム・ヒチョンが「PRODUCE 101 JAPAN」練習生辞退\[6\]。
-  - 12月8日 - チョン・ヨンフンとキム・ユンドンが「PRODUCE 101 JAPAN」練習生辞退。
+  - 12月5日 - チョン・ヨンフンとキム・ユンドンが「PRODUCE 101 JAPAN」練習生辞退。
   - 12月11日 - 『PRODUCE 101 JAPAN』放送終了。
 
 ### 2020年
@@ -151,7 +151,7 @@
 <td><p><span style="font-size:90%"><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></span></p></td>
 <td><p><span style="display:none">19940902</span></p></td>
 <td><p><span style="font-size:90%">186cm</span></p></td>
-<td><p><span style="font-size:90%">63kg</span></p></td>
+<td><p><span style="font-size:90%">65kg</span></p></td>
 <td><p><span style="font-size:90%">B型</span></p></td>
 <td><ul>
 <li>シンボルは<a href="../Page/天王星.md" title="wikilink">天王星</a>[26]</li>
@@ -177,8 +177,6 @@
 ### 注釈
 
 ### 出典
-
-{{Reflist|2}
 
 ## 外部リンク
 

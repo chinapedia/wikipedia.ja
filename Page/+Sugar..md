@@ -14,14 +14,17 @@
 ### 2019年
 
   - 01月20日 ＋Sugar.1stワンマン～カノン生誕祭～開催。
+  - 06月 2曲目オリジナル曲「無糖、恋ドリップコーヒー。」披露。
   - 08月25日 藤宮ももかが加入し7人体制となることが発表。
   - 08月25日 ＋Sugar.2nd oneman LIVE\!\!〜MEGUPI\&MELONA Birthday Party 2019〜開催。
+  - 12月 3曲目オリジナル曲「始まりの合図」披露。
 
 ### 2020年
 
   - 02月02日 オリジナル曲である[Bitter+Sweet world](https://ja.wikipedia.org/wiki/Bitter+Sweet_world "wikilink")、[始まりの合図（サイン）](https://ja.wikipedia.org/wiki/始まりの合図（サイン） "wikilink")を配信開始\[1\]。
   - 02月02日 [Zirco Tokyoにて](../Page/Zirco_Tokyo.md "wikilink")＋Sugar. 3rd One-man LIVE\!\!〜カノン ・ネンBirth Day Special〜開催\[2\]\[3\]。
   - 02月03日 日刊スポーツ「NIKKAN SPORTSアイドル大好き♡キャンペーン」に参加\[4\]。
+  - 05月01日 "m voice"にて＋Sugar.を紹介\[5\]。
 
 ## メンバー
 
@@ -33,7 +36,7 @@
 <th><p>担当色</p></th>
 <th><p>生年月日</p></th>
 <th><p>血液型</p></th>
-<th><p>身長</p></th>
+<th><p>趣味</p></th>
 <th><p>出身地</p></th>
 <th><p>推しの総称</p></th>
 <th><p>備考</p></th>
@@ -42,86 +45,94 @@
 <tbody>
 <tr class="odd">
 <td><p>メグ・ピッチ・オリオン<br />
-(めぐぴ)</p></td>
+(MEGU・PITCH・ORION)</p></td>
 <td><p>めぐぴ</p></td>
 <td></td>
 <td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/B型" title="wikilink">B型</a></p></td>
+<td><p><a href="../Page/酒.md" title="wikilink">酒</a><br />
+<a href="https://ja.wikipedia.org/wiki/アイドル" title="wikilink">アイドル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋葉原" title="wikilink">秋葉原</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>元ユニドルみみしょこ</p></td>
+<td><p>元ユニドルみみしょこ<br />
+パリピッめぐぴパリピッ！×2 心はいつでも夢見る15歳</p></td>
 </tr>
 <tr class="even">
 <td><p>黒崎 かのん<br />
-(かのん)</p></td>
+(KUROSAKI KANON)</p></td>
 <td><p>かのん</p></td>
 <td></td>
 <td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AB型" title="wikilink">AB型</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/買い物" title="wikilink">買い物</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>ファッション塩対応</p></td>
 </tr>
 <tr class="odd">
 <td><p>日向 さや<br />
-(ひなた さや)</p></td>
-<td><p>さや</p></td>
+(HINATA SAYA)</p></td>
+<td><p>さやっぴ<br />
+さやちゃん</p></td>
 <td></td>
-<td><p>10/06[5]</p></td>
+<td><p>10/06[6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/B型" title="wikilink">B型</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/食べる" title="wikilink">食べる</a>こと<br />
+<a href="../Page/睡眠.md" title="wikilink">睡眠</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>Candy Land</p></td>
+<td><p>Candy Land<br />
+三・三・さやっぴ拍子! せーの! ピッ!ピッ!ピッ! ピッ!ピッ!ピッ! ピッ!ピッ!ピッ!ピッ!さやっぴ</p></td>
 </tr>
 <tr class="even">
 <td><p>神楽 めろな<br />
-(めろな)</p></td>
-<td><p>メロぴ</p></td>
+(KAGURA MELONA)</p></td>
+<td><p>めろな<br />
+メロぴ</p></td>
 <td></td>
-<td><p>06/11[6]</p></td>
+<td><p>06/11[7]</p></td>
+<td><p>未定</p></td>
+<td><p><a href="../Page/カフェ.md" title="wikilink">カフェ</a>巡り</p></td>
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新陳代謝" title="wikilink">新陳代謝</a>が活発な水色担当</p></td>
 </tr>
 <tr class="odd">
 <td><p>夢乃 ねん<br />
-(ゆめの ねん)</p></td>
+(YUMENO NEN)</p></td>
 <td><p>ねんちゃん</p></td>
 <td></td>
-<td><p>03/03[7]</p></td>
+<td><p>03/03[8]</p></td>
+<td><p>♡型</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/オレンジ.md" title="wikilink">オレンジ</a><a href="../Page/王国.md" title="wikilink">王国</a></p></td>
 <td><p>夢乃教</p></td>
 <td><p>永遠の幼稚園児、合法ロリ</p></td>
 </tr>
 <tr class="even">
 <td><p>松山 ごま<br />
-(まつやまごま)</p></td>
+(MATSUYAMA GOMA)</p></td>
 <td><p>ごまちゃん</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/A型" title="wikilink">A型</a></p></td>
-<td><p>155.5cm</p></td>
+<td><p><a href="../Page/読書.md" title="wikilink">読書</a><br />
+<a href="../Page/カフェ.md" title="wikilink">カフェ</a>に行く<br />
+<a href="https://ja.wikipedia.org/wiki/アイドル" title="wikilink">アイドル</a><a href="https://ja.wikipedia.org/wiki/オタク" title="wikilink">オタク</a></p></td>
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p>セサ民</p></td>
 <td><p>しおまる<br />
-メルヘンおじさん大募集[8]</p></td>
+メルヘンおじさん大募集[9]</p></td>
 </tr>
 <tr class="odd">
 <td><p>藤宮 ももか<br />
-(ふじみや ももか)</p></td>
+(FUJIMIYA MOMOKA)</p></td>
 <td><p>ちぇるちぇる</p></td>
 <td></td>
-<td><p>06/13[9]</p></td>
+<td><p>06/13[10]</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/ゲーム.md" title="wikilink">ゲーム</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実は、シンチレーション" title="wikilink">実は、シンチレーション</a><br />
 ちぇるちぇるだんす</p></td>
@@ -143,6 +154,7 @@
 
 ## 外部リンク
 
+  - [＋Sugar.公式Webサイト](https://takoagemat.github.io/plus_Sugar/)
   - [＋Sugar.公式Twitter](https://twitter.com/plus_Sugar0314)
       - <span style="color:green">■</span>
       - <span style="color:white">■</span>
@@ -167,8 +179,9 @@
 2.
 3.
 4.
-5.  年齢非公開
+5.
 6.  年齢非公開
 7.  年齢非公開
-8.
-9.  年齢非公開
+8.  年齢非公開
+9.
+10. 年齢非公開

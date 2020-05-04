@@ -5,11 +5,11 @@
 
 ## 概要
 
-姉で[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の「あ～ちゃん」こと[西脇綾香](https://ja.wikipedia.org/wiki/西脇綾香 "wikilink")と、妹で[9nine](../Page/9nine.md "wikilink")の「ちゃあぽん」こと[西脇彩華](../Page/西脇彩華.md "wikilink")の西脇姉妹2人によるラジオ番組。
+姉で[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の「あ～ちゃん」こと[西脇綾香](https://ja.wikipedia.org/wiki/西脇綾香 "wikilink")と、妹で[9nine](../Page/9nine.md "wikilink")の「ちゃあぽん」こと[西脇彩華](../Page/西脇彩華.md "wikilink")の西脇姉妹によるラジオ番組。
 
 番組名の「West Side Story」は、West（西）Side（脇）Story（物語）で西脇物語を意味する。
 
-2014年4月 - 2016年3月に綾香がパーソナリティーを務めていたラジオ番組『**あ～ちゃんのただただラジオがスキじゃけん。**』が四国4局のFMで放送されていた\[1\]。
+2014年4月 - 2016年3月にあ〜ちゃんがパーソナリティーを務めていたラジオ番組『**あ～ちゃんのただただラジオがスキじゃけん。**』が四国4局のFMで放送されていた\[1\]。
 
 ## ネット局
 

@@ -31,7 +31,7 @@
 
   - [muaプロダクション](http://muaproduction.com/)
 
-[Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:藤沢市の企業](https://ja.wikipedia.org/wiki/Category:藤沢市の企業 "wikilink")
+[Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:藤沢市の企業](https://ja.wikipedia.org/wiki/Category:藤沢市の企業 "wikilink") [Category:mua_production](https://ja.wikipedia.org/wiki/Category:mua_production "wikilink")
 
 1.  [酒井美紀「新たな道を選びました」事務所を移籍](https://www.nikkansports.com/m/entertainment/news/amp/201903010000425.html)日刊スポーツ 2019年03月01日
 2.  [mua production](http://muaproduction.com/)

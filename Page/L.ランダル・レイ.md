@@ -3,7 +3,7 @@
 
 **ラリー・ランダル・レイ**（、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[6月19日](../Page/6月19日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")にある[バード大学](../Page/バード大学.md "wikilink")の[レヴィ経済研究所の上級研究員を務めている](https://ja.wikipedia.org/wiki/:en:Levy_Economics_Institute "wikilink")[経済学](../Page/経済学.md "wikilink")の教授である\[1\]。[1999年](../Page/1999年.md "wikilink")8月から[2016年](../Page/2016年.md "wikilink")まで、彼はアメリカ合衆国の[ミズーリ大学カンザスシティ校(UMKC)の経済学部の教授であった](https://ja.wikipedia.org/wiki/ミズーリ大学群 "wikilink")\[2\]\[3\]。UMKCで教鞭をとる前は、彼は[イタリア](../Page/イタリア.md "wikilink")の[ローマ大学](https://ja.wikipedia.org/wiki/ローマ大学 "wikilink")や[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[パリ大学](../Page/パリ大学.md "wikilink")、[メキシコシティ](../Page/メキシコシティ.md "wikilink")の[メキシコ国立自治大学](../Page/メキシコ国立自治大学.md "wikilink")で客員教授を務めていた。、[1994年](../Page/1994年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで、彼は[ボローニャ大学](../Page/ボローニャ大学.md "wikilink")で米伊間の[フルブライト・プログラム](../Page/フルブライト・プログラム.md "wikilink")である米伊フルブライト委員会の奨学金制度対象研究者であった。[2015年](../Page/2015年.md "wikilink")から[ベルガモ](../Page/ベルガモ.md "wikilink")大学の客員教授を務めている。
 
-レイは、[制度主義思想学会の元会長であり](../Page/制度派経済学.md "wikilink")、[進化経済学](https://ja.wikipedia.org/wiki/進化経済学 "wikilink")会の理事をも務めてきた。彼は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[チャールズ・ダーウィン大学](../Page/チャールズ・ダーウィン大学.md "wikilink")の教授で[ポスト・ケインズ派経済学](https://ja.wikipedia.org/wiki/ポスト・ケインズ派経済学 "wikilink")者の同志である[ウィリアム・ミッチェルと](https://ja.wikipedia.org/wiki/:en:Bill_Mitchell_\(economist\) "wikilink")『*International Journal of Environment, Workplace, and Employment* 』誌の共同編集者を務めている。
+レイは、[制度主義思想学会の元会長であり](../Page/制度派経済学.md "wikilink")、[進化経済学](https://ja.wikipedia.org/wiki/進化経済学 "wikilink")会の理事をも務めてきた。彼は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[チャールズ・ダーウィン大学](../Page/チャールズ・ダーウィン大学.md "wikilink")の教授で[ポスト・ケインズ派経済学](https://ja.wikipedia.org/wiki/ポスト・ケインズ派経済学 "wikilink")者の同志である[ビル・ミッチェル](https://ja.wikipedia.org/wiki/ビル・ミッチェル "wikilink")と『*International Journal of Environment, Workplace, and Employment* 』誌の共同編集者を務めている。
 
 ## 学歴
 
@@ -19,10 +19,11 @@
 
 ## 関連項目
 
+  - [現代貨幣理論](https://ja.wikipedia.org/wiki/現代貨幣理論 "wikilink")
   - [貨幣国定説](https://ja.wikipedia.org/wiki/貨幣国定説 "wikilink")
   - [ポスト・ケインズ派経済学](https://ja.wikipedia.org/wiki/ポスト・ケインズ派経済学 "wikilink")
   - [異端派経済学](https://ja.wikipedia.org/wiki/異端派経済学 "wikilink")
-  - [不換紙幣](../Page/不換紙幣.md "wikilink")対[実物貨幣](https://ja.wikipedia.org/wiki/実物貨幣 "wikilink")
+  - [不換紙幣](../Page/不換紙幣.md "wikilink") 対 [実物貨幣](https://ja.wikipedia.org/wiki/実物貨幣 "wikilink")
   - [国民経済計算](../Page/国民経済計算.md "wikilink")
 
 ## 脚注
@@ -35,7 +36,7 @@
   - [Association for Evolutionary Economics](http://www.afee.net/) 進化経済学会 公式ウェブサイト
   - ["Ignore the Raters"](https://www.nytimes.com/roomfordebate/2011/04/18/is-anyone-listening-to-the-standard-poors/ignore-the-raters) by L. Randall Wray, *[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")* [2011年](../Page/2011年.md "wikilink")4月18日記事
 
-[Category:アメリカ合衆国の経済学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の経済学者 "wikilink") [Category:20世紀の経済学者](https://ja.wikipedia.org/wiki/Category:20世紀の経済学者 "wikilink") [Category:ポストケインジアン](https://ja.wikipedia.org/wiki/Category:ポストケインジアン "wikilink") [Category:1953年生](https://ja.wikipedia.org/wiki/Category:1953年生 "wikilink")
+[Category:アメリカ合衆国の経済学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の経済学者 "wikilink") [Category:20世紀の経済学者](https://ja.wikipedia.org/wiki/Category:20世紀の経済学者 "wikilink") [Category:現代貨幣理論学者](https://ja.wikipedia.org/wiki/Category:現代貨幣理論学者 "wikilink") [Category:ポストケインジアン](https://ja.wikipedia.org/wiki/Category:ポストケインジアン "wikilink") [Category:1953年生](https://ja.wikipedia.org/wiki/Category:1953年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

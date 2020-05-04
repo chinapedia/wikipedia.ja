@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 前作「[祈り花](https://ja.wikipedia.org/wiki/祈り花 "wikilink")」から約7年4ヶ月ぶり、アルバム『[THE GIFT](https://ja.wikipedia.org/wiki/THE_GIFT_\(平井大のアルバム\) "wikilink")』からの先行シングル。
+  - 前作「[祈り花](../Page/祈り花.md "wikilink")」から約7年4ヶ月ぶり、アルバム『[THE GIFT](https://ja.wikipedia.org/wiki/THE_GIFT_\(平井大のアルバム\) "wikilink")』からの先行シングル。
   - 表題曲は[アニメ映画](../Page/アニメーション映画.md "wikilink")『[ドラえもん のび太の月面探査記](https://ja.wikipedia.org/wiki/ドラえもん_のび太の月面探査記 "wikilink")』の主題歌に起用された\[1\]\[2\]。
   - 初回限定盤と通常盤の2形態で発売され、初回限定盤は[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")の顔を地球と見立てた[ジャケット仕様で](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、特典として『映画ドラえもん のび太の月面探査記』[ホログラム映像キットが同梱された](../Page/ホログラフィー.md "wikilink")。
 

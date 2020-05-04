@@ -23,10 +23,45 @@
     シルヴァスタ製薬の若手CEO。
   - バルバレイ・ロゼ
     声 - [高島雅羅](../Page/高島雅羅.md "wikilink")\[4\]
-    アニマシティ市長。
+    アニマシティ市長。[ハダカデバネズミ](../Page/ハダカデバネズミ.md "wikilink")獣人。
   - マリー伊丹（マリーいたみ）
     声 - [村瀬迪与](https://ja.wikipedia.org/wiki/村瀬迪与 "wikilink")
     [ミンク](../Page/ミンク.md "wikilink")獣人。アニマシティに向かう途中で獣人狩りに遭ったみちるを助けたが、その際に有り金全部を要求するなど、善意だけで行動しているわけではない様子。みちるによく[イタチ](../Page/イタチ.md "wikilink")と間違えられる。
+  - 立木 勇次
+    声 - [中博史](../Page/中博史.md "wikilink")
+    アニマシティ市警の警部。イヌ獣人（[グレート・デーン](https://ja.wikipedia.org/wiki/グレート・デーン "wikilink")）。
+  - ジェム・ホーナー
+    声 - [家中宏](../Page/家中宏.md "wikilink")
+    獣人生活協同組合（獣協）の組合長。[ニワトリ](../Page/ニワトリ.md "wikilink")獣人。
+  - メリッサ・ホーナー
+    声 - [斉藤貴美子](../Page/斉藤貴美子.md "wikilink")
+    獣人生活協同組合（獣協）の副組合長で、ジェムの妻。[ウォンバット](../Page/ウォンバット.md "wikilink")獣人。
+  - ルドルフ・フリップ
+    声 - [多田野曜平](../Page/多田野曜平.md "wikilink")
+    マフィア「ザ・ファミリー」のボス。[イルカ](../Page/イルカ.md "wikilink")獣人。
+  - 白水総理
+    声 - [大塚芳忠](../Page/大塚芳忠.md "wikilink")
+    日本の総理大臣。
+  - クロ
+    士郎が飼っているカラス。
+  - グラングランマ
+    声 - [一城みゆ希](../Page/一城みゆ希.md "wikilink")
+    女ギャングのボス。アメリカンファジーロップ獣人。
+  - エルザ
+    声 - [小松由佳](https://ja.wikipedia.org/wiki/小松由佳 "wikilink")
+    グラングランマの部下。[ライオン](../Page/ライオン.md "wikilink")獣人。
+  - 日下部 勝
+    声 - [本橋大輔](https://ja.wikipedia.org/wiki/本橋大輔 "wikilink")
+    フリップの部下。[ブチハイエナ](../Page/ブチハイエナ.md "wikilink")獣人。
+  - 矢場 広務
+    声 - [松島昭浩](https://ja.wikipedia.org/wiki/松島昭浩 "wikilink")
+    メディカルセンター所長。[インドサイ](../Page/インドサイ.md "wikilink")獣人。
+  - 三村 文雄
+    声 - [保村真](../Page/保村真.md "wikilink")
+    メディカルセンター所員。[カメレオン](https://ja.wikipedia.org/wiki/カメレオン "wikilink")獣人。
+  - ニナ
+    声 - [前島亜美](https://ja.wikipedia.org/wiki/前島亜美 "wikilink")
+    [イルカ](../Page/イルカ.md "wikilink")獣人の中学生。フリップの娘。
 
 ## スタッフ
 
@@ -67,6 +102,11 @@
 
 インターネットでは[Netflix](../Page/Netflix.md "wikilink")にて2020年[3月21日](../Page/3月21日.md "wikilink")より1話から6話までを先行配信。
 
+## 小説
+
+  - BNA ZERO ビー・エヌ・エー・ゼロ まっさらになれない獣たち
+    バルバレイ・ロゼの少女時代を描いた[スピンオフ](../Page/スピンオフ.md "wikilink")作品\[7\]。[ダッシュエックス文庫](https://ja.wikipedia.org/wiki/ダッシュエックス文庫 "wikilink")より2020年4月24日発売。著者は伊瀬ネキセ、監修は中島かずき、デザイン監修・イラストはTRIGGER。
+
 ## 出典
 
 ## 外部リンク
@@ -75,7 +115,7 @@
   -
 {{+Ultra}}
 
-[Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:+Ultra](https://ja.wikipedia.org/wiki/Category:+Ultra "wikilink") [Category:トリガーのアニメ作品](https://ja.wikipedia.org/wiki/Category:トリガーのアニメ作品 "wikilink") [Category:東宝製作のアニメ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ作品 "wikilink") [Category:タヌキを主人公にした物語](https://ja.wikipedia.org/wiki/Category:タヌキを主人公にした物語 "wikilink") [Category:化け狸を題材にした作品](https://ja.wikipedia.org/wiki/Category:化け狸を題材にした作品 "wikilink")
+[Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:+Ultra](https://ja.wikipedia.org/wiki/Category:+Ultra "wikilink") [Category:トリガーのアニメ作品](https://ja.wikipedia.org/wiki/Category:トリガーのアニメ作品 "wikilink") [Category:東宝製作のアニメ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ作品 "wikilink") [Category:タヌキを主人公にした物語](https://ja.wikipedia.org/wiki/Category:タヌキを主人公にした物語 "wikilink") [Category:化け狸を題材にした作品](https://ja.wikipedia.org/wiki/Category:化け狸を題材にした作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.
@@ -83,3 +123,4 @@
 4.
 5.
 6.
+7.

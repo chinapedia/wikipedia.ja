@@ -25,6 +25,10 @@
 
 リスナーの夢を紹介するコーナー。
 
+#### Happy Dressing Phone
+
+エレクトリカルメールに電話番号を書いたリスナーへ Dressing が電話をかけるコーナー。
+
 #### ありがとう❤ありがとうLetter
 
 日頃なかなか感謝の言葉を伝えられない人やものに対し、「ありがとう」の気持ちを代読するコーナー。
@@ -212,7 +216,7 @@ Dressingが他のアーティストの楽曲をカラオケに乗せて歌うコ
 第101回〜第150回
 
 
-{| class="wikitable mw-collapsible mw-collapsed" |+第151回～第160回 \!<small>放送回</small> \!<small>曲名</small> \!<small>オリジナルアーティスト</small> |- |<small>第151回</small> |<small>WINDING ROAD</small> |<small>コブクロ＆絢香</small> |- |<small>第152回</small> |<small>NEVER LAND</small> |<small>Dressing</small> |- |<small>第153回</small> |<small>ENDLESS STORY</small> |[<small>REIRA starring YUNA ITO</small>](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink") |- |<small>第154回</small> | | |- |<small>第155回</small> | | |- |<small>第156回</small> | | |- |<small>第157回</small> | | |- |<small>第158回</small> | | |- |<small>第159回</small> | | |- |<small>第160回</small> | | |}
+{| class="wikitable mw-collapsible mw-collapsed" |+第151回～第160回 \!<small>放送回</small> \!<small>曲名</small> \!<small>オリジナルアーティスト</small> |- |<small>第151回</small> |<small>WINDING ROAD</small> |<small>コブクロ＆絢香</small> |- |<small>第152回</small> |<small>NEVER LAND</small> |<small>Dressing</small> |- |<small>第153回</small> |<small>ENDLESS STORY</small> |[<small>REIRA starring YUNA ITO</small>](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink") |- |<small>第154回</small> |<small>Try Everything</small> |<small>ディズニー映画『ズートピア』より</small> |- |<small>第155回</small> |<small>乙女のポリシー</small> |<small>石田よう子</small> |- |<small>第156回</small> | | |- |<small>第157回</small> | | |- |<small>第158回</small> | | |- |<small>第159回</small> | | |- |<small>第160回</small> | | |}
 
 ### エンディング
 

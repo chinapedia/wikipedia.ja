@@ -73,6 +73,17 @@
         </div>
 
         </div>
+6.  **[ウェディングロード feat. Noa](https://ja.wikipedia.org/wiki/BARIBARI_LGYankees "wikilink")**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：HIRO、Noa
+        作曲：HIRO
+
+        </div>
+
+        </div>
 
 ## 参加ミュージシャン
 

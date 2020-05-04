@@ -144,10 +144,34 @@
 
 ### ミニアルバム
 
-|       | 発売日       | タイトル                                                   | 規格品番       |
-| ----- | --------- | ------------------------------------------------------ | ---------- |
-| 初回限定盤 | 通常盤       |                                                        |            |
-| 1st   | 2020年4月8日 | **[DREAMY-LOGUE](../Page/DREAMY-LOGUE.md "wikilink")** | PCCG-01882 |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>オリコン<br />
+最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>初回限定盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2020年4月8日</p></td>
+<td><p><strong><a href="../Page/DREAMY-LOGUE.md" title="wikilink">DREAMY-LOGUE</a></strong></p></td>
+<td><p>PCCG-01882</p></td>
+<td><p>PCCG-01883</p></td>
+</tr>
+</tbody>
+</table>
 
 ## ライブ・イベント
 

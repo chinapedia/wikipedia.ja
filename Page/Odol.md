@@ -1,7 +1,7 @@
 > この記事は[Odol](https://ja.wikipedia.org/wiki/Odol)から翻訳されています。
 
 
-**odol**（オドル）\[1\]は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2014年結成。バンド名の由来は「踊る」「躍る」から。所属事務所は[HIP LAND MUSIC](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink")。所属レーベルは[UK.PROJECT](../Page/UKプロジェクト.md "wikilink")\[2\]\[3\]。
+**odol**（オドル）\[1\]は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2014年結成。バンド名の由来は「踊る」「躍る」から。所属事務所は[UKPM](../Page/UKプロジェクト.md "wikilink") / [HIP LAND MUSIC](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink")。所属レーベルは[UK.PROJECT](../Page/UKプロジェクト.md "wikilink")\[2\]\[3\]。
 
 ## メンバー
 
@@ -16,7 +16,7 @@
     [ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")担当。12月27日生まれ。
   - **森山公稀**（もりやまこうき）\[8\]
     [ピアノ](../Page/ピアノ.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")担当。1月28日生まれ。福岡県出身。
-    ほぼ全ての楽曲の[作曲](../Page/作曲.md "wikilink")を担当している。
+    全ての楽曲の[作曲](../Page/作曲.md "wikilink")を担当している。
 
 ### 旧メンバー
 
@@ -511,7 +511,7 @@
   - [odol](https://twitter.com/odol_jpn)（twitter） - odol公式アカウント
   - [odol](https://www.instagram.com/odol_jpn/)（instagram）- odol公式アカウント
   - [HIP LAND MUSIC](https://www.hipland.co.jp/) - 所属事務所
-  - [UK project](http://ukproject.com/) - 所属事務所
+  - [UKPM](http://ukproject.com/) - 所属事務所
 
 ### メンバー
 

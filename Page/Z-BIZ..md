@@ -1,7 +1,7 @@
 > この記事は[Z-BIZ.](https://ja.wikipedia.org/wiki/Z-BIZ.)から翻訳されています。
 
 
-『**Z-BIZ.**』（ジービズ）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から放送中の[報道番組](../Page/報道番組.md "wikilink")である。
+『**Z-BIZ.**』（ジービズ）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から放送されている[報道番組](../Page/報道番組.md "wikilink")である。
 
 ## 概要
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [AbemaRADIO](https://ja.wikipedia.org/wiki/AbemaRADIO "wikilink") 月曜 - 木曜 19:00 - 21:00（2020年4月 - ）
+  - [ABEMA RADIO](https://ja.wikipedia.org/wiki/ABEMA_RADIO "wikilink") 月曜 - 木曜 19:00 - 21:00（2020年4月 - ）
 
 ## 出演者
 

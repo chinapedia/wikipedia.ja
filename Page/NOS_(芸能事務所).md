@@ -1,7 +1,9 @@
 > この記事は[NOS \(芸能事務所\)](https://ja.wikipedia.org/wiki/NOS_\(芸能事務所\))から翻訳されています。
 
 
-**株式会社NOS**（エヌオーエス、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。 代表取締役の五十嵐万葉は元は長女のステージママの経験があり、同時に訪問パソコン教室も展開している。2018年にパソコン教室と次女が芸能界を志すのをきっかけに法人化する。会社のビジョンとして、日本、そして世界の人々に「感動」「喜び」「笑顔」を届けるエンターティナーの育成をを掲げている。同時に会社事業として、発達障害支援事業を展開、著書として「[ボクとママと発達障がい](https://ja.wikipedia.org/wiki/ボクとママと発達障がい "wikilink")」・「[ヘルプマークのトリセツ](https://ja.wikipedia.org/wiki/ヘルプマークのトリセツ "wikilink")」の原案者。2017年、2018年共に舞台公演も行なっている。
+**株式会社NOS**（エヌオーエス、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。
+
+代表取締役の五十嵐万葉は元は長女のステージママの経験があり、同時に訪問パソコン教室も展開している。2018年にパソコン教室と次女が芸能界を志すのをきっかけに法人化する。会社のビジョンとして、日本、そして世界の人々に「感動」「喜び」「笑顔」を届けるエンターティナーの育成を掲げている。同時に会社事業として、発達障害支援事業を展開、著書として「[ボクとママと発達障がい](https://ja.wikipedia.org/wiki/ボクとママと発達障がい "wikilink")」・「[ヘルプマークのトリセツ](https://ja.wikipedia.org/wiki/ヘルプマークのトリセツ "wikilink")」の原案者。2017年、2018年共に舞台公演も行なっている。
 
 ## 所属タレント
 
@@ -26,6 +28,5 @@
 
 ## 外部リンク
 
-  - <http://nos-enter.com/>
-
+  -
 [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:杉並区の企業](https://ja.wikipedia.org/wiki/Category:杉並区の企業 "wikilink") [Category:2018年設立の企業](https://ja.wikipedia.org/wiki/Category:2018年設立の企業 "wikilink") [Category:日本のパソコンスクール](https://ja.wikipedia.org/wiki/Category:日本のパソコンスクール "wikilink")

@@ -644,7 +644,7 @@
 <!-- end list -->
 
   - [nao](https://ja.wikipedia.org/wiki/nao_\(1985年生の歌手\) "wikilink")：[vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")：[programing](../Page/デスクトップミュージック.md "wikilink") & [synthesizer](../Page/シンセサイザー.md "wikilink")、[chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[guiter](../Page/ギター.md "wikilink")
+  - [八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")：[programing](../Page/デスクトップミュージック.md "wikilink") & [synthesizer](../Page/シンセサイザー.md "wikilink")、[chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[guitar](../Page/ギター.md "wikilink")
 
 <!-- end list -->
 
@@ -653,19 +653,19 @@
 <!-- end list -->
 
   - 岡本拓三：programing
-  - masa(azure)：chorus、[wind synthesizer](../Page/ウインドシンセサイザー.md "wikilink")
-  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")([MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink"))：guiter
-  - maya：guiter
-  - 戸口田隆広(face)：guiter
-  - keigo：[A.guiter](../Page/アコースティック・ギター.md "wikilink")
-  - mika(vin-PRAD)：vocal
-  - Yumi([reset](https://ja.wikipedia.org/wiki/reset "wikilink"))：vocal
-  - Kikuzo(wave)：[rap](../Page/ラップ.md "wikilink")
+  - masa (azure)：chorus、[wind synthesizer](../Page/ウインドシンセサイザー.md "wikilink")
+  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink") ([MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink"))：guitar
+  - maya：guitar
+  - 戸口田隆広 (face)：guitar
+  - keigo：[A.guitar](../Page/アコースティック・ギター.md "wikilink")
+  - mika (vin-PRAD)：vocal
+  - Yumi ([reset](https://ja.wikipedia.org/wiki/reset "wikilink"))：vocal
+  - Kikuzo (wave)：[rap](../Page/ラップ.md "wikilink")
 
 ## タイアップ
 
   - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [98](../Page/Microsoft_Windows_98.md "wikilink")/[Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")/[2000](../Page/Microsoft_Windows_2000.md "wikilink")/[XP専用](../Page/Microsoft_Windows_XP.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[彼女たちの流儀](../Page/彼女たちの流儀.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink") (商業流通盤 Disc1 \#1)
-  - Windows 98/Me/2000/XP専用ゲームソフト『彼女たちの流儀』エンディングテーマ (商業流通盤 Disc2 \#6)
+  - Windows 98/Me/2000/XP専用ゲームソフト『彼女たちの流儀』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディング曲 "wikilink") (商業流通盤 Disc2 \#6)
 
 ## 脚注
 

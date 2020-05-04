@@ -13,7 +13,7 @@
 
   - [アレクサンダー・スカルスガルド](https://ja.wikipedia.org/wiki/アレクサンダー・スカルスガルド "wikilink")：地質学者
 
-  - [ミリー・ボビー・ブラウン](https://ja.wikipedia.org/wiki/ミリー・ボビー・ブラウン "wikilink")：マディソン・ラッセル
+  - [ミリー・ボビー・ブラウン](https://ja.wikipedia.org/wiki/ミリー・ボビー・ブラウン "wikilink")：マディソン
 
   - [レベッカ・ホール](https://ja.wikipedia.org/wiki/レベッカ・ホール "wikilink")
 
@@ -28,7 +28,9 @@
 
   - [デミアン・ビチル](https://ja.wikipedia.org/wiki/デミアン・ビチル "wikilink")：兵士
 
-  - [チャン・ツィイー](../Page/章子怡.md "wikilink")：アリーン・チェン
+  - [チャン・ツィイー](../Page/章子怡.md "wikilink")：アリーン・チェン、リン
+
+  - [ダナイ・グリラ](https://ja.wikipedia.org/wiki/ダナイ・グリラ "wikilink")
 
 ## 登場怪獣
 

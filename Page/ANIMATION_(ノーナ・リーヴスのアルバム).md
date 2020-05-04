@@ -116,7 +116,7 @@
             作詞・作曲：西寺郷太
               - 2枚目のシングル「WARNER MUSIC EP」の5曲目。
 
-    23\. **[鼓膜の中の愛](https://ja.wikipedia.org/wiki/I_HEARD_THE_SOUND_EP "wikilink")** - *I HEARD THE SOUND*
+    23\. **鼓膜の中の愛** - *I HEARD THE SOUND*
 
       -
 

@@ -1,15 +1,17 @@
 > この記事は[サンデーNEWSスクランブル](https://ja.wikipedia.org/wiki/サンデーNEWSスクランブル)から翻訳されています。
 
 
-『**サンデーNEWSスクランブル**』（サンデー・ニュース・スクランブル）は、[文化放送](../Page/文化放送.md "wikilink")で放送されている[報道番組](../Page/報道番組.md "wikilink")。
+『**サンデーNEWSスクランブル**』（サンデー・ニューススクランブル）は、[文化放送](../Page/文化放送.md "wikilink")で放送されている[報道番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
-前番組『[サンデースポーツDASHスクランブル](https://ja.wikipedia.org/wiki/ダッシュ斉藤_中6日!_#サンデースポーツDASHスクランブル "wikilink")』は、タイトル通りスポーツに特化した情報番組として放送されていたが、当番組では日曜夕方の『[文化放送ニュース](https://ja.wikipedia.org/wiki/文化放送ニュース "wikilink")』として放送されている。
+日曜19時台のワイド番組終盤に設定されていた[文化放送ニュース](https://ja.wikipedia.org/wiki/文化放送ニュース "wikilink")・天気予報・交通情報（年度上半期のみ）が2020年3月の『[竹中功のアロハな気分](https://ja.wikipedia.org/wiki/竹中功のアロハな気分 "wikilink")』終了と共に廃止されることになったため、18時前に設定されていたスポーツ情報番組『[サンデースポーツDASHスクランブル](https://ja.wikipedia.org/wiki/ダッシュ斉藤_中6日!_#サンデースポーツDASHスクランブル "wikilink")』を一般報道主体へとリニューアルしたもの。
+
+『アロハな気分』の前番組『[キニナル](https://ja.wikipedia.org/wiki/キニナル "wikilink")』時代の2017年10月8日より同枠のニュースキャスターを務めてきた[石森則和](https://ja.wikipedia.org/wiki/石森則和 "wikilink")がスライド出演している。
 
 ## 出演者
 
-  - [石森則和](https://ja.wikipedia.org/wiki/石森則和 "wikilink")（文化放送報道部記者）
+  - [石森則和](https://ja.wikipedia.org/wiki/石森則和 "wikilink")（文化放送編成局報道スポーツセンター記者）
 
 ## タイムテーブル
 

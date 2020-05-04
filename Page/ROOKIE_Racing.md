@@ -11,7 +11,7 @@
 
 2019年には『ROOKIE Racing』と改称。マシンは黄・青・白の派手なマーブル色に塗られた。なお「ルーキー」とは豊田の愛犬の名前であり、「GAZOO Racingでクルマの楽しさに目覚め、モータースポーツを始めたばかりの女の子」という設定のレーサー犬『ルーキー』がデザインされ\[1\]、『[くま吉](https://ja.wikipedia.org/wiki/くま吉 "wikilink")』や『モリゾウくん』とともに公式[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")として活動している。
 
-2020年[東京オートサロン](../Page/東京オートサロン.md "wikilink")では大々的に参戦体制を発表。ワークス活動の代名詞として発展を遂げた[TOYOTA GAZOO Racingに対し](https://ja.wikipedia.org/wiki/TOYOTA_GAZOO_Racing "wikilink")、市販車開発ドライバーとレーシングドライバーのより深い交流を目指すことを明らかにした。86に代わり、新たにST-1に[GRスープラ](https://ja.wikipedia.org/wiki/GRスープラ "wikilink")、ST-2に[GRヤリス](https://ja.wikipedia.org/wiki/GRヤリス "wikilink")を採用する。プロのレーシングドライバーやラリードライバー、市販車テストドライバーまで多様なドライバーが数多くエントリーしており、それぞれを毎戦振り分ける形であるという\[2\]。
+2020年の[東京オートサロン](../Page/東京オートサロン.md "wikilink")では大々的に参戦体制を発表。ワークス活動の代名詞として発展を遂げた[TOYOTA GAZOO Racingに対し](https://ja.wikipedia.org/wiki/TOYOTA_GAZOO_Racing "wikilink")、市販車開発ドライバーとレーシングドライバーのより深い交流を目指すことを明らかにした。86に代わり、新たにST-1に[GRスープラ](https://ja.wikipedia.org/wiki/GRスープラ "wikilink")、ST-2に[GRヤリス](https://ja.wikipedia.org/wiki/GRヤリス "wikilink")を採用する。プロのレーシングドライバーやラリードライバー、市販車テストドライバーまで多様なドライバーが数多くエントリーしており、それぞれを毎戦振り分ける形であるという\[2\]。また2月には[SUPER GTおよび](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")[スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink")にも、撤退した[Team Le Mansと入れ替わりで参戦することを発表した](../Page/ルマン_\(企業\).md "wikilink")。両カテゴリともオペレーションは[CERUMO及び](../Page/セルモ.md "wikilink")[INGING](../Page/INGING.md "wikilink")が行う。
 
 ## 表記揺れ
 

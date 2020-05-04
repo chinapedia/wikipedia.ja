@@ -34,7 +34,7 @@
 
 ### 編書
 
-ヘルムライクは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の元[社会活動家](https://ja.wikipedia.org/wiki/社会活動家 "wikilink")で、[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")として[イスラエル](../Page/イスラエル.md "wikilink")の[テル・モンド](https://ja.wikipedia.org/wiki/テル・モンド "wikilink")[監獄](https://ja.wikipedia.org/wiki/監獄 "wikilink")に収容された**エラ・ラパポート** (Era Rapaport) からの書簡を編纂して、『テル・モンド監獄からの手紙―一人のイスラエル人入植者とテロ (*Letters from Tel Mond Prison: An Israeli Settler Defends His Act of Terror*)』を[1996年](../Page/1996年.md "wikilink")に出版した\[17\]。同書は、[島津厚久](https://ja.wikipedia.org/wiki/島津厚久 "wikilink")の[翻訳](../Page/翻訳.md "wikilink")により[2003年](../Page/2003年.md "wikilink")に[日本語](../Page/日本語.md "wikilink")でも出版された\[18\]\[19\]。
+ヘルムライクは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の元[社会活動家](https://ja.wikipedia.org/wiki/社会活動家 "wikilink")で、[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")として[イスラエル](../Page/イスラエル.md "wikilink")の[テル・モンド](../Page/テル・モンド.md "wikilink")[監獄](https://ja.wikipedia.org/wiki/監獄 "wikilink")に収容された**エラ・ラパポート** (Era Rapaport) からの書簡を編纂して、『テル・モンド監獄からの手紙―一人のイスラエル人入植者とテロ (*Letters from Tel Mond Prison: An Israeli Settler Defends His Act of Terror*)』を[1996年](../Page/1996年.md "wikilink")に出版した\[17\]。同書は、[島津厚久](https://ja.wikipedia.org/wiki/島津厚久 "wikilink")の[翻訳](../Page/翻訳.md "wikilink")により[2003年](../Page/2003年.md "wikilink")に[日本語](../Page/日本語.md "wikilink")でも出版された\[18\]\[19\]。
 
 ## 病死
 

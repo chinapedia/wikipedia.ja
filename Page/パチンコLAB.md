@@ -249,6 +249,29 @@
 | \#15,\#16 | CR真・花の慶次2 漆黒の衝撃   |                                                  |
 | \#17,\#18 | 総集編               |                                                  |
 
+## 9th season
+
+  - 放送期間
+
+<!-- end list -->
+
+  - 2020年5月 -
+
+<!-- end list -->
+
+  - 出演者
+
+<!-- end list -->
+
+  - 木村魚拓（所長）
+  - チャーミー中元（研究員）
+  - 青山りょう（本部 調査員）
+
+| 回数      | 実戦機種    | 備考 |
+| ------- | ------- | -- |
+| \#1,\#2 | P花の慶次〜蓮 |    |
+|         |         |    |
+
 ## スタッフ
 
   - 語り：[友永朱音](../Page/友永朱音.md "wikilink")
@@ -274,5 +297,6 @@
   - [パチンコLAB　〜6th season〜](https://otn.fujitv.co.jp/b_hp/917200064.html) - 公式サイト
   - [パチンコLAB　〜7th season〜](https://otn.fujitv.co.jp/b_hp/918200039.html) - 公式サイト
   - [パチンコLAB　〜8th season〜](https://otn.fujitv.co.jp/b_hp/919200056.html) - 公式サイト
+  - [パチンコLAB　〜9th season〜](https://otn.fujitv.co.jp/b_hp/920200064.html) - 公式サイト
 
 [Category:2012年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2012年のテレビ番組_\(日本\) "wikilink") [Category:パチンコ・パチスロ番組](https://ja.wikipedia.org/wiki/Category:パチンコ・パチスロ番組 "wikilink") [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

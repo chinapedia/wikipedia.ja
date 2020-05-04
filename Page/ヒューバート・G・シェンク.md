@@ -1,0 +1,17 @@
+> この記事は[ヒューバート・G・シェンク](https://ja.wikipedia.org/wiki/ヒューバート・G・シェンク)から翻訳されています。
+
+
+**ヒューバート・G・シェンク**（Hubert G. Schenck、[1897年](../Page/1897年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - [1960年](../Page/1960年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")）は、[昭和](../Page/昭和.md "wikilink")前期の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活躍した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[地質学](../Page/地質学.md "wikilink")者、[軍人](../Page/軍人.md "wikilink")である。[連合国最高司令官総司令部](../Page/連合国軍最高司令官総司令部.md "wikilink")（GHQ）天然資源局長を務めた。
+
+## 経歴・人物
+
+[テネシー州](../Page/テネシー州.md "wikilink")[メンフィスの生まれ](../Page/メンフィス_\(テネシー州\).md "wikilink")。[オレゴン大学](../Page/オレゴン大学.md "wikilink")で[地質学](../Page/地質学.md "wikilink")を学んだ後、[カリフォルニア大学](../Page/カリフォルニア大学.md "wikilink")[大学院](https://ja.wikipedia.org/wiki/大学院 "wikilink")を修了する。その後、軍の道を開き[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")に従軍し、戦後[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")[政府](../Page/政府.md "wikilink")内の科学局を務めた。[1924年](../Page/1924年.md "wikilink")からは[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で教鞭を執り、[1937年](../Page/1937年.md "wikilink")からは[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")会社に勤務しながら[イラン](../Page/イラン.md "wikilink")や[アフガニスタン](../Page/アフガニスタン.md "wikilink")等で[古生物](../Page/古生物.md "wikilink")の調査にあたった。
+
+[1943年](../Page/1943年.md "wikilink")からは再度軍の道を開き、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")に従軍した。戦後の[1945年](../Page/1945年.md "wikilink")（昭和20年）に来日し、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より連合国最高司令官総司令部の天然資源局長を務めた。また、同時期に日本での[鉱物](../Page/鉱物.md "wikilink")や[農業](https://ja.wikipedia.org/wiki/農業 "wikilink")の調査にあたり、[農地改革](../Page/農地改革.md "wikilink")に携わった。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）に離日し、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で[相互安全保障使節団](https://ja.wikipedia.org/wiki/相互安全保障使節団 "wikilink")長を務めた。その後軍の道を退き、帰国し[フーヴァー研究所に務め](https://ja.wikipedia.org/wiki/フーヴァー戦争・革命・平和研究所 "wikilink")、再度スタンフォード大学で教鞭を執った。
+
+## 出典
+
+  - デジタル版 日本人名大辞典+Plus（[講談社](../Page/講談社.md "wikilink")）『[シェンク](https://kotobank.jp/word/%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%AF-156523)』- [コトバンク](https://ja.wikipedia.org/wiki/コトバンク "wikilink")
+  - 20世紀日本人名事典（[日外アソシエーツ](../Page/日外アソシエーツ.md "wikilink")）『[シェンク ヒューバート](https://kotobank.jp/word/%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%AF%20%E3%83%92%E3%83%A5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%88-1646351)』- [コトバンク](https://ja.wikipedia.org/wiki/コトバンク "wikilink")
+
+[Category:アメリカ合衆国の地質学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の地質学者 "wikilink") [Category:オレゴン大学出身の人物](https://ja.wikipedia.org/wiki/Category:オレゴン大学出身の人物 "wikilink") [Category:カリフォルニア大学出身の人物](https://ja.wikipedia.org/wiki/Category:カリフォルニア大学出身の人物 "wikilink") [Category:スタンフォード大学の教員](https://ja.wikipedia.org/wiki/Category:スタンフォード大学の教員 "wikilink") [Category:アメリカ合衆国陸軍の軍人](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国陸軍の軍人 "wikilink") [Category:第一次世界大戦期のアメリカ合衆国の軍人](https://ja.wikipedia.org/wiki/Category:第一次世界大戦期のアメリカ合衆国の軍人 "wikilink") [Category:第二次世界大戦期のアメリカ合衆国の軍人](https://ja.wikipedia.org/wiki/Category:第二次世界大戦期のアメリカ合衆国の軍人 "wikilink") [Category:連合国軍最高司令官総司令部の人物](https://ja.wikipedia.org/wiki/Category:連合国軍最高司令官総司令部の人物 "wikilink") [Category:在日アメリカ人](https://ja.wikipedia.org/wiki/Category:在日アメリカ人 "wikilink") [Category:メンフィス出身の人物](https://ja.wikipedia.org/wiki/Category:メンフィス出身の人物 "wikilink") [Category:1897年生](https://ja.wikipedia.org/wiki/Category:1897年生 "wikilink") [Category:1960年没](https://ja.wikipedia.org/wiki/Category:1960年没 "wikilink")

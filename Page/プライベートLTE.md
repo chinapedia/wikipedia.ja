@@ -1,7 +1,7 @@
 > この記事は[プライベートLTE](https://ja.wikipedia.org/wiki/プライベートLTE)から翻訳されています。
 
 
-**プライベートLTE**とは、自営網として利用可能な[LTE](https://ja.wikipedia.org/wiki/LTE "wikilink")システムである。免許不要の周波数帯（Wi-Fiなどが利用している5GHz帯など）で他システムとの共用で利用する場合は[アンライセンスLTE](https://ja.wikipedia.org/wiki/アンライセンスLTE "wikilink")技術の[MulteFire](https://ja.wikipedia.org/wiki/MulteFire "wikilink")\[1\]などの技術を併用する。
+**プライベートLTE**とは、自営網として利用可能な[LTE](https://ja.wikipedia.org/wiki/LTE "wikilink")システムである。免許不要の周波数帯（Wi-Fiなどが利用している5GHz帯など）で他システムとの共用で利用する場合は[アンライセンスLTE](../Page/アンライセンスLTE.md "wikilink")技術の[MulteFire](../Page/MulteFire.md "wikilink")\[1\]などの技術を併用する。
 
 米国では、3.5GHz帯(band48)がCBRS(Citizens Broadband Radio Service)\[2\]として割当られている。
 

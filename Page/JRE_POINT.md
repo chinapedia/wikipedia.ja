@@ -1,7 +1,7 @@
 > この記事は[JRE POINT](https://ja.wikipedia.org/wiki/JRE_POINT)から翻訳されています。
 
 
-**JRE POINT**（ジェーアールイー・ポイント）は、[JR東日本](https://ja.wikipedia.org/wiki/JR東日本 "wikilink")が運営しているポイントプログラム
+**JRE POINT**（ジェーアールイー・ポイント）は、[JR東日本が運営しているポイントプログラム](../Page/東日本旅客鉄道.md "wikilink")
 
 ## 概要
 
@@ -22,7 +22,7 @@
   - [ラスカ](../Page/ラスカ.md "wikilink")　([茅ヶ崎](https://ja.wikipedia.org/wiki/茅ヶ崎駅 "wikilink")、[平塚](https://ja.wikipedia.org/wiki/平塚駅 "wikilink")、[小田原](https://ja.wikipedia.org/wiki/小田原駅 "wikilink")、[熱海](https://ja.wikipedia.org/wiki/熱海駅 "wikilink"))
   - [ペリエ](https://ja.wikipedia.org/wiki/ペリエ_\(駅ビル\) "wikilink")　([千葉](https://ja.wikipedia.org/wiki/千葉駅 "wikilink")、[西千葉](https://ja.wikipedia.org/wiki/西千葉駅 "wikilink")、[稲毛](https://ja.wikipedia.org/wiki/稲毛駅 "wikilink")、[津田沼](https://ja.wikipedia.org/wiki/津田沼駅 "wikilink")、[検見川浜](https://ja.wikipedia.org/wiki/検見川浜駅 "wikilink")、[稲毛海岸](https://ja.wikipedia.org/wiki/稲毛海岸駅 "wikilink")、[海浜幕張](https://ja.wikipedia.org/wiki/海浜幕張駅 "wikilink")、[西船橋](https://ja.wikipedia.org/wiki/西船橋駅 "wikilink"))
   - [モントレー](../Page/高崎モントレー.md "wikilink")　([高崎](https://ja.wikipedia.org/wiki/高崎駅 "wikilink"))
-  - [イーサイト](https://ja.wikipedia.org/wiki/イーサイト "wikilink")　([高崎](https://ja.wikipedia.org/wiki/高崎駅 "wikilink")、[籠原](https://ja.wikipedia.org/wiki/籠原駅 "wikilink")、[上尾](https://ja.wikipedia.org/wiki/上尾駅 "wikilink"))
+  - [イーサイト](https://ja.wikipedia.org/wiki/イーサイト "wikilink")　(高崎、[籠原](https://ja.wikipedia.org/wiki/籠原駅 "wikilink")、[上尾](https://ja.wikipedia.org/wiki/上尾駅 "wikilink"))
   - [アズ熊谷](../Page/アズ熊谷.md "wikilink")　([熊谷](https://ja.wikipedia.org/wiki/熊谷駅 "wikilink"))
   - [MIDORI](../Page/ステーションビルMIDORI.md "wikilink")　([長野](https://ja.wikipedia.org/wiki/長野駅 "wikilink")、[松本](https://ja.wikipedia.org/wiki/松本駅 "wikilink"))
   - [CIAL](https://ja.wikipedia.org/wiki/CIAL "wikilink")　([桜木町](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")、[鶴見](https://ja.wikipedia.org/wiki/鶴見駅 "wikilink"))
@@ -36,7 +36,7 @@
   - [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")のお店　(北町ダイニング、黒塀横丁、キッチンストリート、グランアージュ、グランルーフ、グランルーフ フロント)
   - リビット　([仙台駅](../Page/仙台駅.md "wikilink")エキナカ、[山形駅](../Page/山形駅.md "wikilink")エキナカ、[米沢駅](../Page/米沢駅.md "wikilink")エキナカ、[福島駅](https://ja.wikipedia.org/wiki/福島駅 "wikilink")エキナカ、[郡山駅](https://ja.wikipedia.org/wiki/郡山駅 "wikilink")エキナカ、[新白河駅](../Page/新白河駅.md "wikilink")エキナカ、[会津若松駅](../Page/会津若松駅.md "wikilink")エキナカ、[長町駅](../Page/長町駅.md "wikilink")エキナカ、[古川駅](../Page/古川駅.md "wikilink")エキナカ、[くりこま高原駅](../Page/くりこま高原駅.md "wikilink")エキナカ、[多賀城駅](../Page/多賀城駅.md "wikilink")エキナカ)
   - tekuteながまち　([長町](../Page/長町駅.md "wikilink"))
-  - [ピボット](https://ja.wikipedia.org/wiki/食品館ピボット "wikilink")　([福島](https://ja.wikipedia.org/wiki/福島駅 "wikilink")、[郡山](https://ja.wikipedia.org/wiki/郡山駅 "wikilink")、[会津若松](../Page/会津若松駅.md "wikilink")、[仙台原ノ町](../Page/陸前原ノ町駅.md "wikilink")、[古川](../Page/古川駅.md "wikilink"))
+  - [ピボット](https://ja.wikipedia.org/wiki/食品館ピボット "wikilink")　(福島、郡山、[会津若松](../Page/会津若松駅.md "wikilink")、[仙台原ノ町](../Page/陸前原ノ町駅.md "wikilink")、[古川](../Page/古川駅.md "wikilink"))
   - [CoCoLo](../Page/CoCoLo.md "wikilink")　([新潟](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")、[長岡](../Page/長岡駅.md "wikilink")、[湯沢・がんぎどおり](../Page/越後湯沢駅.md "wikilink"))
   - Ekito.tagajo　([多賀城](../Page/多賀城駅.md "wikilink"))
   - セレオ　([国分寺](../Page/セレオ国分寺.md "wikilink")、[八王子](https://ja.wikipedia.org/wiki/セレオ八王子 "wikilink")、[西八王子](https://ja.wikipedia.org/wiki/吉祥寺ロンロン#セレオ西八王子（旧・西八王子ロンロン） "wikilink")、[相模原](https://ja.wikipedia.org/wiki/セレオ相模原 "wikilink")、[甲府](https://ja.wikipedia.org/wiki/セレオ甲府 "wikilink"))
@@ -117,7 +117,7 @@
       - [ホテルニューグランド](../Page/ホテルニューグランド.md "wikilink")
       - ホテルファミリーオ・[ホテルフォルクローロ](https://ja.wikipedia.org/wiki/ホテルフォルクローロ "wikilink")
   - 飛行機(国内線機内販売)
-      - [ANA](https://ja.wikipedia.org/wiki/ANA "wikilink")
+      - [ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
   - その他
       - [タイムズ](../Page/パーク24.md "wikilink")
       - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")
@@ -199,16 +199,13 @@
 
 ## 脚注
 
-#### 注釈
+### 注釈
 
-#### 出典
+### 出典
 
 ## 外部リンク
 
   - [JRE POINT](https://www.jrepoint.jp/)
-  - [ビューカード](https://www.jreast.co.jp/card/)
-  - [JRE MALL](https://www.jreastmall.com/shop/default.aspx)
-  - [Suica](https://www.jreast.co.jp/suica/)
 
 [Category:東日本旅客鉄道の商品](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の商品 "wikilink") [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:Suica](https://ja.wikipedia.org/wiki/Category:Suica "wikilink")
 

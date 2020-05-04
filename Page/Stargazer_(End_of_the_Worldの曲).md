@@ -1,7 +1,7 @@
 > この記事は[Stargazer \(End of the Worldの曲\)](https://ja.wikipedia.org/wiki/Stargazer_\(End_of_the_Worldの曲\))から翻訳されています。
 
 
-**Stargazer**（スターゲイザー）は、日本のバンド・[SEKAI NO OWARIの海外名義](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")、**End of the World**でリリースされた2ndシングル。
+「**Stargazer**」（スターゲイザー）は、日本のバンド・[SEKAI NO OWARIの海外名義](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")、**End of the World**でリリースされた2ndシングル。
 
 ## 概要
 
@@ -15,32 +15,36 @@
 
 ## 収録曲
 
-#### Stargazer
+### Stargazer
 
 1.  Stargazer
 
 2018年2月2日発売。通常バージョン。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で撮影\[2\]したミュージックビデオが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にあり、[Fukase](https://ja.wikipedia.org/wiki/Fukase "wikilink")のみ出演している。\[3\]
 
-#### Stargazer (Kove Remix)
+### Stargazer (Kove Remix)
 
 1.  Stargazer (Kove Remix)
 2.  Stargazer (Kove Dance Remix)
 
 2018年3月9日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人の音楽プロデューサー兼DJのKoveによるリミックス。
 
-#### Stargazer (Alex Adair Remix)
+### Stargazer (Alex Adair Remix)
 
 1.  Stargazer (Alex Adair Remix)
 
 2018年3月23日。イギリス人の音楽家Alex Adairによるリミックス。
 
-#### Stargazer (Clean Bandit Remix)
+### Stargazer (Clean Bandit Remix)
 
-  - Stargazer (Clean Bandit Remix)
+1.  Stargazer (Clean Bandit Remix)
 
 2018年4月6日発売。ケンブリッジ大学で出会ったメンバーで構成されたエレクトロニックグループ、[Clean Banditによるリミックス](https://ja.wikipedia.org/wiki/クリーン・バンディット "wikilink")。日本で行われたClean Banditのライブの後に食事をしたり\[4\]\[5\]、彼らの楽曲『Rockabye』をリミックスする\[6\]、『Baby』のギターフレーズでNakajinが参加する\[7\]など以前から親交があった。
 
 ## 脚注
+
+<references />
+
+[Category:SEKAI_NO_OWARIの楽曲](https://ja.wikipedia.org/wiki/Category:SEKAI_NO_OWARIの楽曲 "wikilink") [Category:2018年のシングル](https://ja.wikipedia.org/wiki/Category:2018年のシングル "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 
 1.
 2.

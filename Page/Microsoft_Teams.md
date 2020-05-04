@@ -49,8 +49,10 @@ Slackは[ニューヨーク・タイムズ](../Page/ニューヨーク・タイ�
 
 ## 関連項目
 
+  - [Cisco Webex](https://ja.wikipedia.org/wiki/Cisco_Webex "wikilink")
   - [Slack](https://ja.wikipedia.org/wiki/Slack_\(ソフトウェア\) "wikilink")
   - [Discord](https://ja.wikipedia.org/wiki/Discord_\(ソフトウェア\) "wikilink")
+  - [Jitsi](../Page/Jitsi.md "wikilink")
   - [Trillian](https://ja.wikipedia.org/wiki/Trillian "wikilink")
   - [Zoomビデオコミュニケーションズ](https://ja.wikipedia.org/wiki/Zoomビデオコミュニケーションズ "wikilink")
   - [Workplace by Facebook](https://ja.wikipedia.org/wiki/Workplace_by_Facebook "wikilink")
@@ -74,6 +76,8 @@ Slackは[ニューヨーク・タイムズ](../Page/ニューヨーク・タイ�
 ## 外部リンク
 
   - [Microsoft Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
+
+  - [Microsoft Teams Archives - Windows Blog for Japan](https://blogs.windows.com/japan/tag/microsoft-teams/)
 
   -
 

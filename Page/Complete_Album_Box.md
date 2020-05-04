@@ -1,7 +1,7 @@
 > この記事は[Complete Album Box](https://ja.wikipedia.org/wiki/Complete_Album_Box)から翻訳されています。
 
 
-『**Complete Album Box**』（コンプリート・アルバム・ボックス）は、日本のミュージシャンである[吉川晃司](../Page/吉川晃司.md "wikilink")のボックスセット。
+『**Complete Album Box**』（コンプリート・アルバム・ボックス）は、日本のミュージシャンである[吉川晃司](../Page/吉川晃司.md "wikilink")の[ボックス・セット](../Page/ボックス・セット.md "wikilink")。
 
 [2014年](../Page/2014年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")よりリリースされた。
 

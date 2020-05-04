@@ -108,6 +108,8 @@
 
   - [パトリック・カールグレン](https://ja.wikipedia.org/wiki/パトリック・カールグレン "wikilink") 2012-2013
 
+  - [ブライアン・メレディス](https://ja.wikipedia.org/wiki/ブライアン・メレディス "wikilink") 2013
+
 ## 脚注
 
 ## 外部リンク

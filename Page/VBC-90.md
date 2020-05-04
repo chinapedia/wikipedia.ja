@@ -7,7 +7,7 @@
 
 内の[治安維持](https://ja.wikipedia.org/wiki/治安維持 "wikilink")と戦闘中の[偵察](../Page/偵察.md "wikilink")のために開発された。同じく[ルノー](../Page/ルノー.md "wikilink")が開発した[VAB装甲車](../Page/VAB装甲車.md "wikilink")をもとに[サビエムと](../Page/ルノートラック.md "wikilink")[クルーゾ・ロワール](https://ja.wikipedia.org/wiki/クルーゾ・ロワール "wikilink")によって共同開発された\[1\]。[アルゼンチン](../Page/アルゼンチン.md "wikilink")でも[ライセンス生産](../Page/ライセンス生産.md "wikilink")されたものは、**VAPE**（Vehículos de Apoyo y Exploración）と呼ばれる。\[2\]。
 
-VABと[VXB-170](https://ja.wikipedia.org/wiki/VXB-170 "wikilink")の両方に類似した[シャーシ構成を持つ](../Page/シャシ_\(自動車\).md "wikilink")\[3\]。
+VABと[VXB-170](../Page/VXB-170.md "wikilink")の両方に類似した[シャーシ構成を持つ](../Page/シャシ_\(自動車\).md "wikilink")\[3\]。
 
 ## 開発
 

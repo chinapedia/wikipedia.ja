@@ -7,19 +7,25 @@
 
 ## 概要
 
-日本テレビ系列においては2006年の[全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink")から競輪中継を放送してきたが、[2014年](../Page/2014年.md "wikilink")6月からは俳優の[坂上忍](../Page/坂上忍.md "wikilink")を起用して放送されている。
+日本テレビ系列においては2006年の[読売新聞社杯全日本選抜競輪から競輪中継を放送してきたが](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink")、[2014年](../Page/2014年.md "wikilink")6月からは俳優の[坂上忍](../Page/坂上忍.md "wikilink")を起用して放送されている。
 
 いわゆる[特別競輪の中で](../Page/競輪の競走格付け.md "wikilink")、[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")や一部のGI決勝戦の模様を生中継で放送している。
 
+中継とは別に、年数回第2の人生SPや○○直前SPとして特番\[1\]が放送される場合がある。
+
 ## 中継するレースの一覧
 
-  - [読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink") （[2006年](../Page/2006年.md "wikilink")\[1\]〜）
-  - [日本選手権競輪](../Page/日本選手権競輪.md "wikilink") （[2016年](../Page/2016年.md "wikilink")）、（[2019年](../Page/2019年.md "wikilink")〜）
-  - [高松宮記念杯競輪](../Page/高松宮記念杯競輪.md "wikilink")（[2014年](../Page/2014年.md "wikilink")\[2\]）、（[2016年](../Page/2016年.md "wikilink")〜）
-  - [オールスター競輪](../Page/オールスター競輪.md "wikilink") （[2014年](../Page/2014年.md "wikilink")〜[2015年](../Page/2015年.md "wikilink")）、（[2017年](../Page/2017年.md "wikilink")～）
+  - [読売新聞社杯全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink") （[2006年](../Page/2006年.md "wikilink")\[2\]〜）
+  - [日本選手権競輪](../Page/日本選手権競輪.md "wikilink") （[2016年](../Page/2016年.md "wikilink")）、（[2019年](../Page/2019年.md "wikilink")\[3\]）
+  - [高松宮記念杯競輪](../Page/高松宮記念杯競輪.md "wikilink")（[2014年](../Page/2014年.md "wikilink")\[4\]）、（[2016年](../Page/2016年.md "wikilink")〜）
+  - [オールスター競輪](../Page/オールスター競輪.md "wikilink") （[2014年](../Page/2014年.md "wikilink")\[5\]〜[2015年](../Page/2015年.md "wikilink")）、（[2017年](../Page/2017年.md "wikilink")～）
   - [KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")〜）
 
+[寛仁親王牌・世界選手権記念トーナメント](../Page/寛仁親王牌・世界選手権記念トーナメント.md "wikilink")と[朝日新聞社杯競輪祭](../Page/朝日新聞社杯競輪祭.md "wikilink")は[テレビ東京系列で中継している事もあり](../Page/TXNネットワーク.md "wikilink")、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")では中継された事がない。
+
 ## 出演者
+
+原則[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")を除いて、現地から担当する解説と実況を除き[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")のスタジオから放送している。また、[競輪場](../Page/競輪場.md "wikilink")の開催中の取材も原則首都圏開催以外は行っていない。
 
 ### 司会者
 
@@ -32,11 +38,11 @@
 ### 解説
 
   - [中野浩一](../Page/中野浩一.md "wikilink")：元[競輪選手](../Page/競輪選手.md "wikilink")
-  - [KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")の時は、現役選手の[佐藤慎太郎](../Page/佐藤慎太郎.md "wikilink")や元選手の[加藤慎平](../Page/加藤慎平.md "wikilink")や[滝澤正光](../Page/滝澤正光.md "wikilink")が担当する事がある。
+  - 中野が[NHK BS1の中継に解説として出演する](../Page/NHK_BS1.md "wikilink")[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")の時は、現役選手の[佐藤慎太郎](../Page/佐藤慎太郎.md "wikilink")\[6\]や元選手の[加藤慎平](../Page/加藤慎平.md "wikilink")\[7\]や[山口幸二](../Page/山口幸二.md "wikilink")\[8\]や[滝澤正光](../Page/滝澤正光.md "wikilink")\[9\]が担当した事がある。
 
 ### ゲスト
 
-毎回2～3人ほど出てくる。
+毎回2～3人ほど出てくるが、KEIRINグランプリが[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた時代から登場している[武豊](../Page/武豊.md "wikilink")や現役選手の[武井大介](https://ja.wikipedia.org/wiki/武井大介 "wikilink")のいとこである[武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink")は良く出演している。
 
 ### 実況
 
@@ -65,8 +71,8 @@
 ### 実況
 
   - [宮原英治](https://ja.wikipedia.org/wiki/宮原英治 "wikilink")：(2006年～2013年まで殆ど実況担当)
-  - [佐藤一司](../Page/佐藤一司.md "wikilink")：当時[ラジオ日本](https://ja.wikipedia.org/wiki/ラジオ日本 "wikilink")アナウンサーで、2008年の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")のみ実況
-  - [橋本悠督](https://ja.wikipedia.org/wiki/橋本悠督 "wikilink")：2016年の[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")のみ実況
+  - [佐藤一司](../Page/佐藤一司.md "wikilink")：当時[ラジオ日本アナウンサーで](../Page/アール・エフ・ラジオ日本.md "wikilink")、2008年の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")のみ実況
+  - [橋本悠督](https://ja.wikipedia.org/wiki/橋本悠督 "wikilink")：当時[立川競輪場](../Page/立川競輪場.md "wikilink")の実況を担当していた筒井大輔の代役として、2016年の[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")のみ実況
 
 ### ナレーション
 
@@ -88,5 +94,12 @@
 
 [Category:競輪番組_(放送・配信)](https://ja.wikipedia.org/wiki/Category:競輪番組_\(放送・配信\) "wikilink") [Category:日本テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのスポーツ番組 "wikilink") [Category:2014年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2014年のテレビ番組_\(日本\) "wikilink") [Category:坂上忍](https://ja.wikipedia.org/wiki/Category:坂上忍 "wikilink")
 
-1.  2014年のみ中止順延の影響で、準決勝戦12Rを放映
-2.  [関東ローカル](../Page/関東ローカル.md "wikilink")で、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")のみの放送
+1.  原則[関東ローカル](../Page/関東ローカル.md "wikilink")だが、[土曜ロータリー](https://ja.wikipedia.org/wiki/土曜ロータリー "wikilink")で放送される場合のみ全国ネットで放送される場合がある。
+2.  2014年のみ中止順延の影響で、準決勝戦12Rを放映
+3.  [2020年](../Page/2020年.md "wikilink")も中継予定だったが、[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の流行と全国的に[緊急事態宣言が発令された影響で開催中止になった](../Page/非常事態宣言.md "wikilink")。番組は内容を変更して放送する。
+4.  [関東ローカル](../Page/関東ローカル.md "wikilink")で、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")のみの放送
+5.  [2013年](../Page/2013年.md "wikilink")も中継予定だったが、中継する予定だった最終日が中止順延になった。番組は内容を変更して放送した。
+6.  [KEIRINグランプリ09](https://ja.wikipedia.org/wiki/KEIRINグランプリ09 "wikilink")～[KEIRINグランプリ2011](https://ja.wikipedia.org/wiki/KEIRINグランプリ2011 "wikilink")で担当
+7.  現役時代の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")・[KEIRINグランプリ2014](https://ja.wikipedia.org/wiki/KEIRINグランプリ2014 "wikilink")・[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")・解説者として[KEIRINグランプリ2019](../Page/KEIRINグランプリ2019.md "wikilink")で担当
+8.  引退直後の[KEIRINグランプリ2012](https://ja.wikipedia.org/wiki/KEIRINグランプリ2012 "wikilink")で担当
+9.  [KEIRINグランプリ2015](https://ja.wikipedia.org/wiki/KEIRINグランプリ2015 "wikilink")・[KEIRINグランプリ2017](https://ja.wikipedia.org/wiki/KEIRINグランプリ2017 "wikilink")・[KEIRINグランプリ2018](https://ja.wikipedia.org/wiki/KEIRINグランプリ2018 "wikilink")で担当

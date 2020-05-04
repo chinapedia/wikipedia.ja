@@ -1,7 +1,7 @@
 > この記事は[ショッピングモールASTA](https://ja.wikipedia.org/wiki/ショッピングモールASTA)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:ASTA_tamari_3.jpg "wikilink")\]\]**ショッピングモールASTA**（しょっぴんぐもーるあすた）は、[茨城県](../Page/茨城県.md "wikilink")[小美玉市](../Page/小美玉市.md "wikilink")川中子にある[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:ASTA_tamari_3.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:ASTA_tamari_2.jpg "wikilink") **ショッピングモールASTA**（ショッピングモールあすた）は、[茨城県](../Page/茨城県.md "wikilink")[小美玉市](../Page/小美玉市.md "wikilink")川中子にある[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
 
 ## 概要
 
@@ -17,37 +17,63 @@
 
 ## 主なテナント
 
-・セイミヤ アスタ玉里店
+  - セイミヤ アスタ玉里店
 
-・カワチ薬品
+<!-- end list -->
 
-・ジュエルカフェ
+  - カワチ薬品
 
-・シューズショップリブ
+<!-- end list -->
 
-・美容院ナチュア
+  - ジュエルカフェ
 
-・本田生花苑
+<!-- end list -->
+
+  - シューズショップリブ
+
+<!-- end list -->
+
+  - 美容院ナチュア
+
+<!-- end list -->
+
+  - 本田生花苑
 
 ## 過去に存在したテナント
 
-・[高喜](https://ja.wikipedia.org/wiki/高喜 "wikilink")
+  - [高喜](https://ja.wikipedia.org/wiki/高喜 "wikilink")
 
-・マクドナルド
+<!-- end list -->
 
-・ドラッグてらしま
+  - マクドナルド
 
-・[メガネストアー](https://ja.wikipedia.org/wiki/メガネストアー "wikilink")
+<!-- end list -->
 
-・[パシオス](../Page/パシオス.md "wikilink")
+  - ドラッグてらしま
 
-・ブランシュ（クリーニング）
+<!-- end list -->
 
-・茶屋黒兵衛
+  - [メガネストアー](https://ja.wikipedia.org/wiki/メガネストアー "wikilink")
 
-・1000円カット
+<!-- end list -->
 
-・SNAPS\!
+  - [パシオス](../Page/パシオス.md "wikilink")
+
+<!-- end list -->
+
+  - ブランシュ（クリーニング）
+
+<!-- end list -->
+
+  - 茶屋黒兵衛
+
+<!-- end list -->
+
+  - 1000円カット
+
+<!-- end list -->
+
+  - SNAPS\!
 
 ## 交通アクセス
 
@@ -55,37 +81,41 @@
 
 ### バス
 
-・川中子入口バス停下車 徒歩2分
+  - 川中子入口バス停下車 徒歩2分
 
-・かしてつバス小川駅バス停下車 徒歩5分
+<!-- end list -->
+
+  - かしてつバス小川駅バス停下車 徒歩5分
 
 ### 自動車
 
-・国道355号 田木谷交差点から南へ500m
+  - 国道355号 田木谷交差点から南へ500m
 
 ## 沿革
 
-・**1998年**
+  - **1998年**
 
 11月 - 開業
 
-・**2002年** - 「高喜小川玉里店」閉店（高喜経営破綻により全店舗閉店）
+  - **2002年** - 「高喜小川玉里店」閉店（高喜経営破綻により全店舗閉店）
 
-・**2010年**
+<!-- end list -->
+
+  - **2010年**
 
 7月31日 - 「マクドナルド玉里ショッピングセンター店」閉店
 
-・**2016年**
+  - **2016年**
 
 10月27日 - 「高喜」跡地に「カワチ薬品アスタ玉里店」オープン
 
-・**2018年**
+  - **2018年**
 
 11月5日 - 「セイミヤ アスタ玉里店」が改装により店休
 
 11月25日 - 「セイミヤ アスタ玉里店」が「SSS セイミヤ」として再オープン
 
-・**2019年**
+  - **2019年**
 
 2月16日 - 「ジュエルカフェ ショッピングモールアスタ店」オープン。茨城県石岡市の「[イオン石岡店](https://ja.wikipedia.org/wiki/石岡ショッピングセンターぱれっと "wikilink")」の閉店により、同店舗に存在していた「ジュエルカフェ イオン石岡店」が移店した。
 
@@ -93,34 +123,50 @@
 
 ## 周辺施設
 
-・小美玉市役所 玉里総合支所
+  - 小美玉市役所 玉里総合支所
 
-・小美玉医療センター
+<!-- end list -->
 
-・小川南病院
+  - 小美玉医療センター
 
-・[茨城空港](https://ja.wikipedia.org/wiki/百里飛行場 "wikilink")
+<!-- end list -->
+
+  - 小川南病院
+
+<!-- end list -->
+
+  - [茨城空港](https://ja.wikipedia.org/wiki/百里飛行場 "wikilink")
 
 ## 関連項目
 
-・[ピアシティ小川](../Page/ピアシティ小川.md "wikilink")（近隣のショッピングセンター）
+  - [ピアシティ小川](../Page/ピアシティ小川.md "wikilink")（近隣のショッピングセンター）
 
-[・](../Page/ピアシティ小川.md "wikilink")[小川ショッピングプラザ](../Page/小川ショッピングプラザ.md "wikilink")（近隣のショッピングセンター）
+<!-- end list -->
+
+  - [小川ショッピングプラザ](../Page/小川ショッピングプラザ.md "wikilink")（近隣のショッピングセンター）
 
 ## 参考文献
 
-[カワチ薬品「アスタ玉里店」10月27日OPEN\!\!](http://www.cawachi.co.jp/shop/news/news_asta_tamari.html)
+  - [カワチ薬品「アスタ玉里店」10月27日OPEN\!\!](http://www.cawachi.co.jp/shop/news/news_asta_tamari.html)
 
-[ジュエルカフェ ショッピングモールアスタ店がオープンしました。](https://www.crane-a.co.jp/news/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%AB%E3%83%95%E3%82%A7-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%B9%E3%82%BF%E5%BA%97%E3%81%8C%E3%82%AA/)
+<!-- end list -->
 
-[セイミヤ 会社概要・沿革](http://www.super-seimiya.co.jp/company/outline.html)（沿革：1998年11月アスタ玉里店開店）
+  - [ジュエルカフェ ショッピングモールアスタ店がオープンしました。](https://www.crane-a.co.jp/news/%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AB%E3%82%AB%E3%83%95%E3%82%A7-%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%B9%E3%82%BF%E5%BA%97%E3%81%8C%E3%82%AA/)
 
-[2010年7月31日でクローズ予定のマクドナルドの店舗](http://ohtsuka.cocolog-nifty.com/blog/2010/07/2010731-68aa.html)（⑪マクドナルド玉里ショッピングセンター店　（茨城県小美玉市））
+<!-- end list -->
+
+  - [セイミヤ 会社概要・沿革](http://www.super-seimiya.co.jp/company/outline.html)（沿革：1998年11月アスタ玉里店開店）
+
+<!-- end list -->
+
+  - [2010年7月31日でクローズ予定のマクドナルドの店舗](http://ohtsuka.cocolog-nifty.com/blog/2010/07/2010731-68aa.html)（⑪マクドナルド玉里ショッピングセンター店　（茨城県小美玉市））
 
 ## 外部リンク
 
-[セイミヤ アスタ玉里店](http://www.super-seimiya.co.jp/shop/asta_tamari.html)
+  - [セイミヤ アスタ玉里店](http://www.super-seimiya.co.jp/shop/asta_tamari.html)
 
-[ジュエルカフェ ショッピングモールアスタ店](https://www.jewel-cafe.jp/shops/%e9%96%a2%e6%9d%b1%e3%82%a8%e3%83%aa%e3%82%a2/%e8%8c%a8%e5%9f%8e%e7%9c%8c/%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%a2%e3%82%b9%e3%82%bf%e5%ba%97/)
+<!-- end list -->
+
+  - [ジュエルカフェ ショッピングモールアスタ店](https://www.jewel-cafe.jp/shops/%e9%96%a2%e6%9d%b1%e3%82%a8%e3%83%aa%e3%82%a2/%e8%8c%a8%e5%9f%8e%e7%9c%8c/%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0%e3%83%a2%e3%83%bc%e3%83%ab%e3%82%a2%e3%82%b9%e3%82%bf%e5%ba%97/)
 
 [Category:茨城県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:茨城県のショッピングセンター "wikilink") [Category:小美玉市の建築物](https://ja.wikipedia.org/wiki/Category:小美玉市の建築物 "wikilink")

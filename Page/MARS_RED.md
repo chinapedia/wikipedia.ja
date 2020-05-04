@@ -1,7 +1,7 @@
 > この記事は[MARS RED](https://ja.wikipedia.org/wiki/MARS_RED)から翻訳されています。
 
 
-『**MARS RED**』（マーズ レッド）は、[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")原作の舞台作品。[2013年](../Page/2013年.md "wikilink")初演、[2015年](../Page/2015年.md "wikilink")に再演となった音楽朗読劇である。[2019年](../Page/2019年.md "wikilink")より[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")による漫画が[月刊コミックガーデンにて連載開始となったほか](https://ja.wikipedia.org/wiki/マッグガーデン#雑誌 "wikilink")[2020年](../Page/2020年.md "wikilink")にはアニメ史上初となる、朗読劇からアニメ化が発表\[1\]されるなどメディアミックス展開されている。略称は「マズレ」。アニメ版の音楽は朗読劇の音楽監督である村中俊之が引き続き担当することになり、音響監督は原作・脚本・演出の藤沢文翁、自ら担当することが決まった。\[2\]
+『**MARS RED**』（マーズ レッド）は、[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")原作の舞台作品。[2013年](../Page/2013年.md "wikilink")初演、[2015年](../Page/2015年.md "wikilink")に再演となった音楽[朗読劇](https://ja.wikipedia.org/wiki/朗読劇 "wikilink")である。[2019年](../Page/2019年.md "wikilink")より[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")による漫画が[月刊コミックガーデンにて連載開始となったほか](https://ja.wikipedia.org/wiki/マッグガーデン#雑誌 "wikilink")[2020年](../Page/2020年.md "wikilink")にはアニメ史上初となる、朗読劇からアニメ化が発表\[1\]されるなどメディアミックス展開されている。略称は「マズレ」。[アニメ](../Page/アニメ.md "wikilink")版の音楽は朗読劇の音楽監督である[村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")が引き続き担当することになり、[音響監督](../Page/音響監督.md "wikilink")は原作・脚本・演出の[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")、自ら担当することが決まった。\[2\]
 
 ## STORY
 
@@ -45,7 +45,7 @@
     楽器：赤木茂和（サンフォニックス）
     ヘアメイク：mami
     衣裳：小野涼子
-    イラスト：唐々煙
+    イラスト：[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")
     主催：サウンドシアター事務局
 
 ### 外伝
@@ -53,17 +53,18 @@
 **MARS RED 「THE BLACK PRINCE」**\[5\]
 
   -
-    2017年11月４日ー５日（会場：舞浜アンフィシアター）
-    朗読：諏訪部順一、鈴村健一、[高橋広樹](../Page/高橋広樹.md "wikilink")、[朴璐美](../Page/朴ロ美.md "wikilink")、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、[朝倉あき](../Page/朝倉あき.md "wikilink")
+    2017年11月４日ー５日（会場：[舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")）
+    朗読：[諏訪部順一](../Page/諏訪部順一.md "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[高橋広樹](../Page/高橋広樹.md "wikilink")、[朴璐美](../Page/朴ロ美.md "wikilink")、[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、[朝倉あき](../Page/朝倉あき.md "wikilink")、[山路和弘](../Page/山路和弘.md "wikilink")
     原作・脚本・演出：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")
     音楽監督：[村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")
-    美術デザイン：野村 真紀（東宝舞台）
+    舞台監督：諌山 喜由（ISA）
     照明デザイン：久保 良明（エヂソンライトハウス）
+    美術デザイン：野村 真紀（[東宝舞台](../Page/東宝舞台.md "wikilink")）
+    衣裳：大戸 美貴（[東宝舞台](../Page/東宝舞台.md "wikilink")）
     音響デザイン：小宮 大輔（soundborn）
     音響効果：熊谷 健 (オフィスエーワン)
-    衣裳：大戸 美貴（東宝舞台）
     特効：阪部 聡子（スパーク）
-    舞台監督：諌山 喜由（ISA）
+    イラスト：[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")
     （製作：「The Black Prince」製作委員会）
 
 ## 主な登場人物
@@ -71,7 +72,7 @@
 ※担当[声優](../Page/声優.md "wikilink")は左から、2013年公演・2015年公演・テレビアニメの順。
 
   - 栗栖秀太郎（くるす しゅうたろう）
-    声 - 徳山秀典\[6\]、古川雄大\[7\]、[畠中祐](https://ja.wikipedia.org/wiki/畠中祐 "wikilink")\[8\]
+    声 - 徳山秀典\[6\]、[古川雄大](../Page/古川雄大.md "wikilink")\[7\]、[畠中祐](https://ja.wikipedia.org/wiki/畠中祐 "wikilink")\[8\]
     大日本帝国陸軍憲兵上等兵。
 
 <!-- end list -->
@@ -83,7 +84,7 @@
 <!-- end list -->
 
   - タケウチ
-    声 - 石田彰\[11\]\[12\]\[13\]
+    声 - [石田彰](../Page/石田彰.md "wikilink")\[11\]\[12\]\[13\]
     大日本帝国陸軍憲兵兵長。
 
 <!-- end list -->
@@ -95,7 +96,7 @@
 <!-- end list -->
 
   - 前田義信（まえだ よしのぶ）
-    声 - 諏訪部順一\[17\]、高橋広樹\[18\]、諏訪部順一\[19\]
+    声 - 諏訪部順一\[17\]、高橋広樹\[18\]、[諏訪部順一](../Page/諏訪部順一.md "wikilink")\[19\]
     大日本帝国陸軍憲兵中佐、後に憲兵大佐。
 
 <!-- end list -->
@@ -107,7 +108,7 @@
 <!-- end list -->
 
   - デフロット
-    声 - 沢城みゆき\[22\]\[23\]
+    声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")\[22\]\[23\]
     白系金髪の少年でヴァンパイア。
 
 <!-- end list -->
@@ -127,19 +128,19 @@
 
 月刊コミックガーデンの2019年12月号から隔月で連載。タイトルは同じく『MARS RED』
 
-  - 原作：藤沢文翁
-  - 漫画：唐々煙
+  - 原作：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")
+  - 漫画：[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")
 
 ## テレビアニメ
 
 ### スタッフ
 
-  - 原作 - 藤沢文翁\[26\]
+  - 原作 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[26\]
   - 監督 - 羽多野浩平\[27\]
   - シリーズ構成・脚本 - [藤咲淳一](../Page/藤咲淳一.md "wikilink")\[28\]
-  - キャラクター原案 - 唐々煙\[29\]
+  - キャラクター原案 - [唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")\[29\]
   - キャラクターデザイン - 竹内由香里\[30\]
-  - 音響監督 - 藤沢文翁\[31\]
+  - 音響監督 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[31\]
   - 音楽 - [村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")\[32\]
   - アニメーション制作 - [SIGNAL.MD](https://ja.wikipedia.org/wiki/シグナル・エムディ "wikilink")\[33\]
 

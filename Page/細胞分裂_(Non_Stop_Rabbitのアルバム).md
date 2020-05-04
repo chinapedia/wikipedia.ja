@@ -72,6 +72,20 @@
 
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系バラエティ番組「[お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")」2019年12月度エンディングテーマ(\#4)\[7\]
 
+## クレジット
+
+### Non Stop Rabbit
+
+  - **矢野晴人** - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") & [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
+
+<!-- end list -->
+
+  - **田口達也** - [Guitar](../Page/ギター.md "wikilink") & [Chorus](https://ja.wikipedia.org/wiki/コーラス "wikilink")
+
+<!-- end list -->
+
+  - **太我** - [Drums](../Page/ドラムセット.md "wikilink")
+
 ## 外部リンク
 
   - [2ndフルアルバム「細胞分裂」全曲トレーラー](https://www.youtube.com/watch?v=mr2ONxaAGHM)

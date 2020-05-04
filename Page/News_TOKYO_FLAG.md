@@ -24,17 +24,17 @@
 #### 金曜日
 
   - [藤本真未](https://ja.wikipedia.org/wiki/藤本真未 "wikilink")（TOKYO MX契約アナウンサー）\[4\]
-      - 2020年4月8日から17日（予定）までの間、月〜木曜日の「夕刊チェック」と「天気予報」を担当している\[5\]。
+      - 2020年4月8日から17日までの間、月〜木曜日の「夕刊チェック」と「天気予報」を担当している\[5\]。
 
 ### サブキャスター（月～金曜日）
 
-  - [伊藤洋平](https://ja.wikipedia.org/wiki/伊藤洋平 "wikilink")（フリーアナウンサー・元[さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")）
+  - [伊藤洋平](../Page/伊藤洋平.md "wikilink")（フリーアナウンサー・元[さくらんぼテレビ](../Page/さくらんぼテレビジョン.md "wikilink")）
 
 ### フィールドキャスター
 
   - [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink")（フリーアナウンサー）\[6\]
   - [森田美礼](https://ja.wikipedia.org/wiki/森田美礼 "wikilink")（TOKYO MXアナウンサー兼報道記者）\[7\]
-      - 2020年4月8日から17日（予定）までの間、金曜日の「夕刊チェック」と「天気予報」を担当している。
+      - 2020年4月8日から17日までの間、金曜日の「夕刊チェック」と「天気予報」を担当していた。
   - [田中陽南](../Page/田中陽南.md "wikilink")（同上）\[8\]
 
 ### ナレーション
@@ -61,7 +61,8 @@
 
   - 平日23:30 - 0:00（TOKYO MX2、祝祭日を除く）
       - 2020年4月7日は本放送が前述の理由により、再放送は休止し『[ヒーリングタイム&ヘッドラインニュース](https://ja.wikipedia.org/wiki/Healing_Time "wikilink")』に差し替えられた。
-      - 2020年4月8日から17日まで、本放送は前述の理由で拡大放送する予定だが、再放送は休止し『ヒーリングタイム&ヘッドラインニュース』に差し替えられた。
+      - 2020年4月8日から16日まで、本放送は前述の理由で拡大放送されたため、再放送は休止し『ヒーリングタイム&ヘッドラインニュース』に差し替えられた。なお17日も同じ対応がとられた。
+      - 2020年4月20日から本放送は前述の理由で放送時間が短縮になったことを受け、再放送も23:30 - 23:56に短縮された。なお、23:56 - 0:00は『ヒーリングタイム&ヘッドラインニュース』を放送する。
 
 ## 主なコーナー
 
@@ -88,7 +89,7 @@
 <!-- end list -->
 
   -
-    2020年4月8日から17日（予定）までの間、全国夕刊紙の[新型コロナウイルス関連の記事を藤本](../Page/2019新型コロナウイルス.md "wikilink")（月〜木曜日）と森田（金曜日）が紹介する。同期間放送を休止している『[5時に夢中\!](../Page/5時に夢中!.md "wikilink")』の「夕刊ベスト8」とほぼ同内容である\[15\]。
+    2020年4月8日から17日までの間、全国夕刊紙の[新型コロナウイルス関連の記事を藤本](../Page/2019新型コロナウイルス.md "wikilink")（月〜木曜日）と森田（金曜日）が紹介する。同期間放送を休止している『[5時に夢中\!](../Page/5時に夢中!.md "wikilink")』の「夕刊ベスト8」とほぼ同内容である\[15\]。
 
 ## 脚注
 
@@ -101,7 +102,7 @@
   - [news TOKYO FLAG｜ニュース｜TOKYO MX](https://s.mxtv.jp/news/tokyo_flag/)
 
   -
-[Category:TOKYO_MXのテレビ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_MXのテレビ番組 "wikilink") [Category:TOKYO_MXの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの帯番組 "wikilink") [Category:TOKYO_MXの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの番組の歴史 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink")
+[Category:TOKYO_MXのテレビ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_MXのテレビ番組 "wikilink") [Category:TOKYO_MXの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組\<\!--の歴史--\>](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組\<!--の歴史--\> "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink")
 
 1.  2020年3月16日閲覧
 2.

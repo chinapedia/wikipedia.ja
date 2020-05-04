@@ -157,7 +157,7 @@
 
 <!-- end list -->
 
-  - [八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")：[programing](../Page/デスクトップミュージック.md "wikilink") & [synthesizer](../Page/シンセサイザー.md "wikilink")、[guiter](../Page/ギター.md "wikilink")、[chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")：[programing](../Page/デスクトップミュージック.md "wikilink") & [synthesizer](../Page/シンセサイザー.md "wikilink")、[guitar](../Page/ギター.md "wikilink")、[chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [nao](https://ja.wikipedia.org/wiki/nao_\(1985年生の歌手\) "wikilink")：[vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
 
 <!-- end list -->
@@ -167,13 +167,12 @@
 <!-- end list -->
 
   - masa(azure)：chorus (\#4,10)、[wind synthesizer](../Page/ウインドシンセサイザー.md "wikilink") (\#10)
-  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：guiter (\#2,10)、[lead guiter](../Page/リードギター.md "wikilink") (\#8)
-  - Tatsuo Kimura([reset](https://ja.wikipedia.org/wiki/reset "wikilink"))：[acoustic guiter](../Page/アコースティック・ギター.md "wikilink") (\#4)、synthesizer (\#3)
-  - t-hoshino(TRI-HEDGE)：midi guiter (\#6)、programing (\#11)
+  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：guiter (\#2,10)、[lead guitar](../Page/リードギター.md "wikilink") (\#8)
+  - Tatsuo Kimura([reset](https://ja.wikipedia.org/wiki/reset "wikilink"))：[acoustic guitar](../Page/アコースティック・ギター.md "wikilink") (\#4)、synthesizer (\#3)
+  - t-hoshino(TRI-HEDGE)：[midi](../Page/MIDI.md "wikilink") guitar (\#6)、programing (\#11)
 
 ## 外部リンク
 
-  - 公式サイトによる紹介ページ
-      - [1](http://fripside.net/disc_a2.php)
+  - [公式サイトによる紹介ページ](http://fripside.net/disc_a2.php)
 
 [Category:fripSideのアルバム](https://ja.wikipedia.org/wiki/Category:fripSideのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink")

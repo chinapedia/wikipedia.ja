@@ -21,12 +21,12 @@
 
 多数のイラストレーターと知り合いで、友好関係は深く、[えろ豆](https://ja.wikipedia.org/wiki/えろ豆 "wikilink")氏などからアイコン用のイラストの提供を受けている。その際も使用料は支払っており、イラストレーターから高い評価を受けている。
 
+## 脚注
+
 ## 外部リンク
 
   -
   -
-## 脚注
-
 [Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:YouTubeのゲーム実況者](https://ja.wikipedia.org/wiki/Category:YouTubeのゲーム実況者 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  <https://twitter.com/untiiiikong/status/1068085159197429760>

@@ -154,10 +154,10 @@
 <!-- end list -->
 
   - masa：chorus (\#3,8)、[wind synthesizer](../Page/ウインドシンセサイザー.md "wikilink") (\#1)
-  - maya：[guiter](../Page/ギター.md "wikilink") (\#1,4,5,7,9,12)
-  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")([MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink"))：guiter (\#2,3)
-  - takahiro：guiter (\#6)
-  - ju-ri(vin-PRAD)：[organ](../Page/オルガン.md "wikilink") (\#4)
+  - maya：[guitar](../Page/ギター.md "wikilink") (\#1,4,5,7,9,12)
+  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")([MintJam](https://ja.wikipedia.org/wiki/MintJam "wikilink"))：guitar (\#2,3)
+  - takahiro：guitar (\#6)
+  - ju-ri (vin-PRAD)：[organ](../Page/オルガン.md "wikilink") (\#4)
   - mika(vin-PRAD)：vocal (\#4,5)
 
 ## タイアップ
@@ -166,7 +166,6 @@
 
 ## 外部リンク
 
-  - 公式サイトによる紹介ページ
-      - [1](http://fripside.net/disc_a3.php)
+  - [公式サイトによる紹介ページ](http://fripside.net/disc_a3.php)
 
 [Category:fripSideのアルバム](https://ja.wikipedia.org/wiki/Category:fripSideのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink")

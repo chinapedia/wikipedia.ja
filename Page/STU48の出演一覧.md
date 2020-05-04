@@ -16,7 +16,7 @@
   - [とく6徳島](https://ja.wikipedia.org/wiki/とく6徳島 "wikilink")（2019年5月16日 - 、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")・[徳島放送局](../Page/NHK徳島放送局.md "wikilink")） - 木曜「STU48防災航路」\[8\]
   - STU発⇒東京（2019年10月31日 - 、[BSフジ](../Page/BSフジ.md "wikilink")）\[9\]
   - SETOUCHI ISLAND（2019年11月4日 - 、BSフジ）\[10\]
-  - \#STU48のくらコン（2020年4月28日 - 、テレビ新広島）\[11\]
+  - \#STU48のくらコン（2020年4月29日 - 、テレビ新広島）\[11\]
 
 **過去のレギュラー番組**
 

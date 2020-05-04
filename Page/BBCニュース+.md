@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2020年](../Page/2020年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に放送を終了した前番組『**[キラりん滋賀](../Page/キラりん滋賀.md "wikilink")**』のニュースコーナーを独立させ、『[やさしいニュース](https://ja.wikipedia.org/wiki/やさしいニュース "wikilink")』（[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作）、『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作）、そして『[ニュース滋賀いろ](https://ja.wikipedia.org/wiki/ニュース滋賀いろ "wikilink")』の3番組を組み合わせた[コンプレックス番組である](../Page/コンプレックス_\(番組形式\).md "wikilink")\[1\]。
+[2020年](../Page/2020年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に放送を終了した前番組『**[キラりん滋賀](../Page/キラりん滋賀.md "wikilink")**』のニュースコーナーを独立させ、『[やさしいニュース](https://ja.wikipedia.org/wiki/やさしいニュース "wikilink")』（[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作）、『[ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作）、そして『[ニュース滋賀いろ](../Page/ニュース滋賀いろ.md "wikilink")』の3番組を組み合わせた[コンプレックス番組である](../Page/コンプレックス_\(番組形式\).md "wikilink")\[1\]。
 
 ## タイムテーブル
 
@@ -14,7 +14,7 @@
 | 16:43 | オープニング                                                          |                                                                   |
 | 16:44 | [やさしいニュース](https://ja.wikipedia.org/wiki/やさしいニュース "wikilink")   | [テレビ大阪](../Page/テレビ大阪.md "wikilink")制作・関西のニュース                    |
 | 16:54 | [ゆうがたサテライト](https://ja.wikipedia.org/wiki/ゆうがたサテライト "wikilink") | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作・全国のニュース |
-| 17:00 | [ニュース滋賀いろ](https://ja.wikipedia.org/wiki/ニュース滋賀いろ "wikilink")   | 滋賀県内のニュース                                                         |
+| 17:00 | [ニュース滋賀いろ](../Page/ニュース滋賀いろ.md "wikilink")                      | 滋賀県内のニュース                                                         |
 |       |                                                                 |                                                                   |
 
 ## 脚注

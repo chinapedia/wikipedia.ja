@@ -23,7 +23,7 @@
   - [野比のび助](../Page/野比のび助.md "wikilink") - [松本保典](../Page/松本保典.md "wikilink")
   - [のび太のおばあちゃん](https://ja.wikipedia.org/wiki/のび太のおばあちゃん "wikilink") - [羽鳥靖子](../Page/羽鳥靖子.md "wikilink")
 
-## スタッフ　
+## スタッフ
 
   - 原作 - [藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")
   - 脚本 - [山崎貴](../Page/山崎貴.md "wikilink")
@@ -53,6 +53,6 @@
 5.
 6.
 7.
-8.  同局のアニメ事業[ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink")非関与
+8.  同局グループのアニメ事業会社である[ABCアニメーション](https://ja.wikipedia.org/wiki/ABCアニメーション "wikilink")は非関与。
 9.
 10.

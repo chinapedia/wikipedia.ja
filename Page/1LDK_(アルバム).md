@@ -13,7 +13,7 @@
 
 ## 収録曲
 
-#### 通常版/初回限定版 DISK 1 共通
+### 通常版/初回限定版 DISK 1 共通
 
 1.  **ポーカーフェイス**（オリジナル曲）
       -
@@ -34,6 +34,7 @@
 6.  **Funny Bunny**（[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")）
       -
         作詞・作曲：[山中さわお](../Page/山中さわお.md "wikilink") / 再編曲：前田逸平
+        [L441Studio](https://ja.wikipedia.org/wiki/L441Studio "wikilink")にて収録
 7.  **[青いベンチ](https://ja.wikipedia.org/wiki/青いベンチ "wikilink")**（[サスケ](https://ja.wikipedia.org/wiki/サスケ "wikilink")）
       -
         作詞・作曲：[北清水雄太](https://ja.wikipedia.org/wiki/北清水雄太 "wikilink") / 再編曲：前田逸平
@@ -53,7 +54,7 @@
       -
         作詞・作曲：[Lefty Hand Cream](../Page/Lefty_Hand_Cream.md "wikilink") / 再編曲：前田逸平
 
-#### 初回限定版 DISC 2: DVD
+### 初回限定版 DISC 2: DVD
 
 1.  **ポーカーフェイス** (Music Video)
       -
@@ -71,9 +72,11 @@
 ## 外部リンク
 
   - [DISCOGRAPHY | LeftyHandCream OfficialWeb](http://leftyhandcream.com/discography/) - Lefty Hand Cream公式サイト
+
   - [Lefty Hand Cream](https://www.universal-music.co.jp/leftyhandcream/products/umck-7044/) - [ユニバーサル・ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
-  - [Lefty Hand Cream『ポーカーフェイス』Music Video](https://www.youtube.com/watch?v=nKthIFTXFxc) - YouTube
-  - [Lefty Hand Cream『栞』Music Video](https://www.youtube.com/watch?v=8304r9gors8)- YouTube
+
+  -
+  -
 
 [Category:ユニバーサル_ミュージック_グループのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサル_ミュージック_グループのアルバム "wikilink") [Category:2020年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のカバー・アルバム "wikilink")
 

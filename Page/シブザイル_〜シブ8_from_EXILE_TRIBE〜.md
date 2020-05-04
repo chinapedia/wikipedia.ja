@@ -7,7 +7,7 @@
 
 [LDHグループの総合エンタテインメントの祭典](../Page/LDH_\(芸能プロダクション\).md "wikilink")「LDH PERFECT YEAR 2020」とAbemaTVのコラボレーションプロジェクトとして番組開始。2020年3月31日、毎週火曜20:00より東京・渋谷にある公開スタジオ・[UDAGAWA BASEに](https://ja.wikipedia.org/wiki/UDAGAWA_BASE "wikilink")[EXILE TRIBEメンバー](https://ja.wikipedia.org/wiki/EXILE_TRIBE "wikilink")（通称：EXILE一族）\[2\]を迎えて生配信される。メインMCの佐藤と陣は元日「EXILE TRIBE 大集合！LDH 新年レモンサワー打ち上げ生潜入SP」（AbemaTV）でもMCを担当した縁もあり選出。
 
-なお初回は新型コロナウイルスの感染拡大の状況を受け、UDAGAWA BASEからの配信は非公開となる。
+公開収録番組の予定であったが、新型コロナウイルスの感染拡大の状況を受け、UDAGAWA BASEからの配信は非公開となっている。
 
 初回ゲストは三代目 J SOUL BROTHERS\[3\]。
 
@@ -22,11 +22,13 @@
 
 ## 放送リスト
 
-| 放送回 | 初回放送日      | ゲスト |-                                                                                                                                                                                                                                                                                              | 第1回 | 2020年3月31日 | [三代目 J SOUL BROTHERS from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink") |
-| --- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ---------- | ------------------------------------------------------------------------------------------------ |
-| 第2回 | 2020年4月7日  | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")                                                                                                                                                                                               |     |            |                                                                                                  |
-| 第3回 | 2020年4月14日 | [TETSUYA](https://ja.wikipedia.org/wiki/TETSUYA_\(ダンサー\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") / [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")）、[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")（EXILE / EXILE THE SECOND） |     |            |                                                                                                  |
-|     |            |                                                                                                                                                                                                                                                                                                     |     |            |                                                                                                  |
+| 放送回 | 初回放送日      | ゲスト |-                                                                                                                                                                                                                           | 第1回 | 2020年3月31日 | [三代目 J SOUL BROTHERS from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink") |
+| --- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ---------- | ------------------------------------------------------------------------------------------------ |
+| 第2回 | 2020年4月7日  | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")                                                                                                                            |     |            |                                                                                                  |
+| 第3回 | 2020年4月14日 | [TETSUYA](https://ja.wikipedia.org/wiki/TETSUYA_\(ダンサー\) "wikilink")、[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")                                                                                                 |     |            |                                                                                                  |
+| 第4回 | 2020年4月21日 | [吉野北人](https://ja.wikipedia.org/wiki/吉野北人 "wikilink")、[LIKIYA](https://ja.wikipedia.org/wiki/LIKIYA "wikilink")、[山本彰吾](https://ja.wikipedia.org/wiki/山本彰吾 "wikilink")、[浦川翔平](https://ja.wikipedia.org/wiki/浦川翔平 "wikilink")、長谷川慎 |     |            |                                                                                                  |
+| 第5回 | 2020年4月28日 | 日髙竜太、深堀未来、奥田力也                                                                                                                                                                                                                   |     |            |                                                                                                  |
+|     |            |                                                                                                                                                                                                                                  |     |            |                                                                                                  |
 
 ## スタッフ
 

@@ -29,7 +29,7 @@
 
 ### T3 KVP Od "オデッセイ・マックス"
 
-[New_tram_Odyssey_max.jpg](https://ja.wikipedia.org/wiki/File:New_tram_Odyssey_max.jpg "fig:New_tram_Odyssey_max.jpg") [ウクライナ](../Page/ウクライナ.md "wikilink")・[オデッサ](../Page/オデッサ.md "wikilink")で[公共交通](https://ja.wikipedia.org/wiki/公共交通 "wikilink")を運営するオデッサゴルエレクトロトランス（Одессгорэлектротранс）は、[2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")から****で[3車体連接車の](../Page/連接台車.md "wikilink")**T3 KVP Od**を営業運転に投入した。中間車体の乗降扉付近は低床構造になっており、全長31 mはK3R-NNPと並んでウクライナの路面電車車両で最長である。定員数は280人（着席62人）で、[GPS](https://ja.wikipedia.org/wiki/GPS "wikilink")機能が搭載されているためリアルタイムで車両の位置を追跡する事が出来る。前面に部分超低床電車・[オデッセイ](https://ja.wikipedia.org/wiki/タトラT3UA-3 "wikilink")（Одиссей）で用いられた独自の流線形デザインが採用されている事から、**"オデッセイ・マックス"**（Одиссей-Макс）と言う愛称で呼ばれている。
+[New_tram_Odyssey_max.jpg](https://ja.wikipedia.org/wiki/File:New_tram_Odyssey_max.jpg "fig:New_tram_Odyssey_max.jpg") [ウクライナ](../Page/ウクライナ.md "wikilink")・[オデッサ](../Page/オデッサ.md "wikilink")で[公共交通](https://ja.wikipedia.org/wiki/公共交通 "wikilink")を運営するオデッサゴルエレクトロトランス（Одессгорэлектротранс）は、[2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")から**[オデッサ市電](../Page/オデッサ市電.md "wikilink")**で[3車体連接車の](../Page/連接台車.md "wikilink")**T3 KVP Od**を営業運転に投入した。中間車体の乗降扉付近は低床構造になっており、全長31 mはK3R-NNPと並んでウクライナの路面電車車両で最長である。定員数は280人（着席62人）で、[GPS](https://ja.wikipedia.org/wiki/GPS "wikilink")機能が搭載されているためリアルタイムで車両の位置を追跡する事が出来る。前面に部分超低床電車・[オデッセイ](https://ja.wikipedia.org/wiki/タトラT3UA-3 "wikilink")（Одиссей）で用いられた独自の流線形デザインが採用されている事から、**"オデッセイ・マックス"**（Одиссей-Макс）と言う愛称で呼ばれている。
 
 車体や連接機器、乗降扉の開閉装置はクエーサー・プラスが製造を手掛け、機器もTVプログレスが用いられた一方、2両のタトラT3から供出した台車を含む最終組み立てはオデッサ市電の修理工場で行われたため、導入費用は72,6000[米ドル](https://ja.wikipedia.org/wiki/米ドル "wikilink")分に抑えられている。
 
@@ -48,7 +48,7 @@
 ## 外部リンク
 
   -
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:2004年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2004年製の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink") [Category:2004年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2004年製の鉄道車両 "wikilink")
 
 1.
 2.

@@ -1,11 +1,11 @@
 > この記事は[CIGNATURE](https://ja.wikipedia.org/wiki/CIGNATURE)から翻訳されています。
 
 
-**CIGNATURE**（シグネイチャー、시그니처）は、[韓国の](../Page/大韓民国.md "wikilink")7人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。C9エンターテイメントの子会社、[J9エンターテイメント](https://ja.wikipedia.org/wiki/J9エンターテイメント "wikilink")所属。[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に1stシングル『NUN NU NAN NA(눈누난나)』でデビュー\[1\]。
+**CIGNATURE**（シグネイチャー、시그니처）は、[韓国の](../Page/大韓民国.md "wikilink")7人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。C9エンターテイメントの子会社、[J9エンターテイメント](../Page/J9エンターテイメント.md "wikilink")所属。[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に1stシングル『NUN NU NAN NA(눈누난나)』でデビュー\[1\]。
 
 ## 概要
 
-グループ名の『CIGNATURE』には「音楽界の『SIGNATURE(シグネイチャー)』になる」という意味とメンバーの覚悟が込められている。また、CIGNATUREという言葉は、SIGNATUREの「S」をC9エンターテイメントの「C」に変えた、造語である。 CIGNATUREは、[GOOD DAYというガールズグループの再結成したグループでありチェソル](https://ja.wikipedia.org/wiki/GOOD_DAY_\(音楽グループ\) "wikilink")・ジウォン・イェア・ソン・ベルの5人は、元GOOD DAYのメンバーである。
+グループ名の『CIGNATURE』には「音楽界の『SIGNATURE(シグネイチャー)』になる」という意味とメンバーの覚悟が込められている。また、CIGNATUREという言葉は、SIGNATUREの「S」をC9エンターテイメントの「C」に変えた、造語である。 CIGNATUREは、[GOOD DAYというガールズグループの再結成したグループでありチェソル](../Page/GOOD_DAY_\(音楽グループ\).md "wikilink")・ジウォン・イェア・ソン・ベルの5人は、元GOOD DAYのメンバーである。
 
 ## 略歴
 

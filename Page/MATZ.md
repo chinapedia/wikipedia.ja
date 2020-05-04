@@ -28,7 +28,7 @@
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")「FREAKY (MATZ Remix)」（2018年3月28日発売　アルバム「Driving Hit's 8」収録）
   - [Brian Shinsekai](https://ja.wikipedia.org/wiki/BRIAN_SHINSEKAI "wikilink")「Lucy Can't Dance (MATZ Remix)」（2018年4月25日 - 配信開始）\[4\]
   - [kolme](https://ja.wikipedia.org/wiki/kolme "wikilink")「Hello No Buddy MATZ Remix」（2019年1月14日 - 配信開始）\[5\]
-  - [KAHOH](https://ja.wikipedia.org/wiki/KAHOH "wikilink")「ONLY SEVENTEEN (MATZ REMIX)」（2019年6月7日 - 配信開始）
+  - [KAHOH](../Page/KAHOH.md "wikilink")「ONLY SEVENTEEN (MATZ REMIX)」（2019年6月7日 - 配信開始）
 
 ### 楽曲提供
 

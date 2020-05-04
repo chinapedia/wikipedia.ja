@@ -53,7 +53,7 @@
 
 ### スペシャル（2009年 - 2010年）
 
-「[死の惑星](https://ja.wikipedia.org/wiki/死の惑星 "wikilink")」をカバーした2009年スペシャルにあたる *Confidential* 第1話は[ノエル・クラーク](https://ja.wikipedia.org/wiki/ノエル・クラーク "wikilink")がナレーターを担当したが、アンソニー・ヘッドも "Is There Life on Mars?" のナレーターに復帰し、クリスマススペシャルと新春スペシャルまで続投された。"Is There Life on Mars?" ではオープニングクレジットとクロージングクレジットのグラフィックが向上した。
+「[死の惑星](../Page/死の惑星.md "wikilink")」をカバーした2009年スペシャルにあたる *Confidential* 第1話は[ノエル・クラーク](https://ja.wikipedia.org/wiki/ノエル・クラーク "wikilink")がナレーターを担当したが、アンソニー・ヘッドも "Is There Life on Mars?" のナレーターに復帰し、クリスマススペシャルと新春スペシャルまで続投された。"Is There Life on Mars?" ではオープニングクレジットとクロージングクレジットのグラフィックが向上した。
 
 ### Greatest Moments（2009年）
 

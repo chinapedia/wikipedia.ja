@@ -59,6 +59,7 @@
 
   - [公式サイト 紹介ページ DVD](https://k.jujunyc.net/s/n19/page/smoj_disco_archive?AIBL-9238)
   - [公式サイト 紹介ページ Blu-ray](https://k.jujunyc.net/s/n19/page/smoj_disco_archive?AIXL-16)
+  - [公式サイト 紹介ページ ライブ・アルバム](https://k.jujunyc.net/s/n19/page/smoj_disco_archive?AICL-2414)
 
 [Category:JUJUのアルバム](https://ja.wikipedia.org/wiki/Category:JUJUのアルバム "wikilink") [Category:2012年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2012年のライブ・アルバム "wikilink") [Category:2012年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2012年のライブ・ビデオ "wikilink") [Category:2012年のコンサート](https://ja.wikipedia.org/wiki/Category:2012年のコンサート "wikilink") [Category:MTVアンプラグド_(アルバム)](https://ja.wikipedia.org/wiki/Category:MTVアンプラグド_\(アルバム\) "wikilink") [Category:MTVアンプラグド_(映像作品)](https://ja.wikipedia.org/wiki/Category:MTVアンプラグド_\(映像作品\) "wikilink")
 

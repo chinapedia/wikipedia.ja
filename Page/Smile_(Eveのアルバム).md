@@ -31,16 +31,23 @@
 2.  **LEO**
 3.  **[レーゾンデートル](../Page/レーゾンデートル_\(Eveの曲\).md "wikilink")**
 4.  **虚の記憶**
-5.  **いのちの食べ方**
-6.  **[闇夜](../Page/闇夜_\(Eveの曲\).md "wikilink")**
-7.  **朝が降る**
-8.  **心予報**
+
+<!-- end list -->
+
+  - 「からのきおく」と読む。
+
+<!-- end list -->
+
+1.  **いのちの食べ方**
+2.  **[闇夜](../Page/闇夜_\(Eveの曲\).md "wikilink")**
+3.  **朝が降る**
+4.  **心予報**
     編曲:[TAKU INOUE](https://ja.wikipedia.org/wiki/TAKU_INOUE "wikilink")
-9.  **[白銀](../Page/白銀_\(Eveの曲\).md "wikilink")**
-10. **バウムクーヘンエンド**
-11. **mellow**
-12. **ognanje**
-13. **胡乱な食卓**
+5.  **[白銀](../Page/白銀_\(Eveの曲\).md "wikilink")**
+6.  **バウムクーヘンエンド**
+7.  **mellow**
+8.  **ognanje**
+9.  **胡乱な食卓**
     編曲:[Eve](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink")
 
 ## 特典

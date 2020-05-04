@@ -7,16 +7,19 @@
 
 2020年1月6日、[プー・ルイ](https://ja.wikipedia.org/wiki/プー・ルイ "wikilink")が株式会社[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")の[渡辺淳之介](https://ja.wikipedia.org/wiki/渡辺淳之介 "wikilink")出資のもと会社を起ち上げ、社長兼プロデューサー兼メンバーのもと新アイドルグループを結成することを発表。グループ名は「アイドル研究所(仮)」とし、メンバーオーディションを2月2日に開催することも発表した\[2\]。
 
-2020年4月19日、グループ名を**PIGGS（ピグス）**として活動することを発表した\[3\]。
+2020年4月19日、グループ名を**PIGGS（ピグス）**として活動することを発表した\[3\]。グループ名のPIGGSは「Produce IDOL Go to world is Good Society」の略称で「プロデュースしたアイドル、私たちが世界に行くのはいいね！」と言う意味である\[4\]。
+
+サウンドプロデューサーはRyan.B、衣装とアートデザインはメッティ\[5\]。
 
 ## 沿革
 
-**2020年**
+### 2020年
 
-  - 1月6日 – プー・ルイが株式会社WACKの渡辺淳之介出資のもと会社を起ち上げ、社長兼プロデューサー兼メンバーのもと新アイドルグループを結成することを発表。グループ名は「アイドル研究所(仮)」とし、メンバーオーディションを2月2日に開催することも発表した\[4\]。
-  - 2月29日 – オーディションの結果3名の合格者が出た。しかし、と1名が活動を辞退したことから、追加メンバー募集を行うことになったと発表\[5\]。
-  - 4月7日 – グループのメンバーと同居することを発表し、メンバーの後ろ姿を公開\[6\]。
-  - 4月19日 – グループ名を**PIGGS（ピグス）**とすること。メンバーの写真と名前を公開。また、7月1日にデビューアルバムをリリースすることが発表\[7\]。
+  - 1月6日 - プー・ルイが株式会社WACKの渡辺淳之介出資のもと会社を起ち上げ、社長兼プロデューサー兼メンバーのもと新アイドルグループを結成することを発表。グループ名は「アイドル研究所(仮)」とし、メンバーオーディションを2月2日に開催することも発表した\[6\]。
+  - 2月29日 - オーディションの結果3名の合格者が出たが、1名が活動を辞退したことから、追加メンバー募集を行うことになったと発表\[7\]。
+  - 3月20日、21日 - 株式会社WACKにて全員面接オーディションを開催\[8\]。
+  - 4月7日 - グループのメンバーと同居することを発表し、メンバーの後ろ姿を公開\[9\]。
+  - 4月19日 - 4月19日 – グループ名を**PIGGS（ピグス）**とすること。メンバーの写真と名前を公開。また、7月1日にデビューアルバムをリリースすることを発表。YouTubeにて毎日生放送を行った\[10\]。
 
 ## メンバー
 
@@ -33,7 +36,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/プー・ルイ" title="wikilink">プー・ルイ</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/プー・ルイ" title="wikilink">プー・ルイ</a></strong></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a></p></td>
 <td></td>
@@ -42,39 +45,45 @@
 <p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a>、<a href="https://ja.wikipedia.org/wiki/LUI_FRONTiC_赤羽JAPAN" title="wikilink">LUI FRONTiC 赤羽JAPANの元ボーカル</a>、元<a href="https://ja.wikipedia.org/wiki/BILLIE_IDLE®" title="wikilink">BILLIE IDLE®</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p>CHIYO-P（チヨピー）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p>
-<p>(育ちは埼玉県)</p></td>
+<td><p><strong>CHIYO-P</strong><br />
+チヨピー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><br />
+(育ちは埼玉県)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">2月28日</a></p></td>
 <td><p>O型</p></td>
 <td><p>151cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>1次オーデション合格者。</p></td>
+<p>1次オーデション合格者[11]。</p></td>
 </tr>
 <tr class="odd">
-<td><p>SHELLME（シェルミー）</p></td>
+<td><p><strong>SHELLME</strong><br />
+シェルミー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td><p><a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p>O型</p></td>
 <td><p>164cm</p></td>
-<td></td>
+<td><div class="NavContent" style="text-align:left;">
+<p>追加オーデション合格者[12]。</p></td>
 </tr>
 <tr class="even">
-<td><p>UMI（ウミ）</p></td>
+<td><p><strong>UMI</strong><br />
+ウミ</p></td>
 <td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
 <td><p><a href="../Page/11月5日.md" title="wikilink">11月5日</a></p></td>
 <td><p>A型</p></td>
 <td><p>156cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>1次オーデション合格者。</p></td>
+<p>1次オーデション合格者[13]。</p></td>
 </tr>
 <tr class="odd">
-<td><p>BAN-BAN（バンバン）</p></td>
+<td><p><strong>BAN-BAN</strong><br />
+バンバン</p></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
 <td><p>B型</p></td>
 <td><p>160cm</p></td>
-<td><div class="NavContent" style="text-align:left;"></td>
+<td><div class="NavContent" style="text-align:left;">
+<p>追加オーデション合格者[14]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -135,3 +144,10 @@
 5.
 6.
 7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.

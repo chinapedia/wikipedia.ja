@@ -33,13 +33,13 @@
 
 ## 外部リンク
 
-  - [4 FOUR - IMDb](https://m.imdb.com/title/tt1645074/)
-  - [4 FOUR - アメイジングD.C.](http://www.amazing-dc.jp/dvd/201302/dvd06.php)
+  -
+  - [4 FOUR](http://www.amazing-dc.jp/dvd/201302/dvd06.php) - アメイジングD.C.
 
 [Category:2011年の映画](https://ja.wikipedia.org/wiki/Category:2011年の映画 "wikilink") [Category:イギリスのスリラー映画](https://ja.wikipedia.org/wiki/Category:イギリスのスリラー映画 "wikilink") [Category:イギリスのホラー映画](https://ja.wikipedia.org/wiki/Category:イギリスのホラー映画 "wikilink") [Category:誘拐を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:誘拐を題材とした映画作品 "wikilink") [Category:不倫を扱った映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:不倫を扱った映画・オリジナルビデオ "wikilink") [Category:探偵を主人公とした映画作品](https://ja.wikipedia.org/wiki/Category:探偵を主人公とした映画作品 "wikilink") [Category:ロンドンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ロンドンを舞台とした映画作品 "wikilink")
 
 1.
 2.
-3.   Filmarks|url=[https://filmarks.com/movies/53807|website=filmarks.com|accessdate=2020-02-14|language=ja|publisher=株式会社つみき](https://filmarks.com/movies/53807%7Cwebsite=filmarks.com%7Caccessdate=2020-02-14%7Clanguage=ja%7Cpublisher=株式会社つみき)}}
+3.
 4.
 5.

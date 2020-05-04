@@ -1,7 +1,7 @@
 > この記事は[J-STO](https://ja.wikipedia.org/wiki/J-STO)から翻訳されています。
 
 
-**J-STO**（Japan Security Token Offering：ジャパン・セキュリティ・トークン・オファリング）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区 "wikilink")に[本社](../Page/本社.md "wikilink")を置く、[レヴィアス株式会社](https://ja.wikipedia.org/wiki/レヴィアス株式会社 "wikilink")が開発を行う[ブロックチェーン](https://ja.wikipedia.org/wiki/ブロックチェーン "wikilink")技術を活用したシステム及び[フィンテック](https://ja.wikipedia.org/wiki/フィンテック "wikilink")のサービスである。
+**J-STO**（Japan Security Token Offering：ジャパン・セキュリティ・トークン・オファリング）は、[東京都](../Page/東京都.md "wikilink")[港区に](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[本社](../Page/本社.md "wikilink")を置く、[レヴィアス株式会社](https://ja.wikipedia.org/wiki/レヴィアス株式会社 "wikilink")が開発を行う[ブロックチェーン](https://ja.wikipedia.org/wiki/ブロックチェーン "wikilink")技術を活用したシステム及び[フィンテック](https://ja.wikipedia.org/wiki/フィンテック "wikilink")のサービスである。
 
 日本における合法的な[STO](https://ja.wikipedia.org/wiki/STO "wikilink")（[Security Token Offering](../Page/Security_Token_Offering.md "wikilink")：セキュリティ・トークン・オファリング）を日本スタイルで展開するという意味から、Japan Security Token Offering（ジャパン・セキュリティ・トークン・オファリング）の頭文字を取り、J-STOと名付けられた。
 

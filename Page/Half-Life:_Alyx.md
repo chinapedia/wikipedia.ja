@@ -59,7 +59,7 @@ Valveは、2019年11月に本作の存在を明らかにした\[30\]\[31\]。202
 
   - [公式サイト](https://www.half-life.com/ja/alyx/)
 
-[Category:ゾンビを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ゾンビを題材としたコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:VRゲーム](https://ja.wikipedia.org/wiki/Category:VRゲーム "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:ハーフライフ](https://ja.wikipedia.org/wiki/Category:ハーフライフ "wikilink") [Category:ディストピアを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ディストピアを題材としたコンピュータゲーム "wikilink") [Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink")
+[Category:ゾンビを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ゾンビを題材としたコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Steamワークショップ対応ゲーム](https://ja.wikipedia.org/wiki/Category:Steamワークショップ対応ゲーム "wikilink") [Category:VRゲーム](https://ja.wikipedia.org/wiki/Category:VRゲーム "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink") [Category:ハーフライフ](https://ja.wikipedia.org/wiki/Category:ハーフライフ "wikilink") [Category:ディストピアを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ディストピアを題材としたコンピュータゲーム "wikilink") [Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink")
 
 1.
 2.

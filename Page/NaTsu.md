@@ -13,7 +13,7 @@
 
   - 趣味は[カラオケ](../Page/カラオケ.md "wikilink")、[料理](../Page/料理.md "wikilink")をする事。
   - 得意なことは、[声真似](https://ja.wikipedia.org/wiki/声真似 "wikilink")。
-  - 叔父は[イラストレーター](../Page/イラストレーター.md "wikilink")の[The rocket gold star](https://ja.wikipedia.org/wiki/The_rocket_gold_star "wikilink")。
+  - 叔父は[イラストレーター](../Page/イラストレーター.md "wikilink")の[The rocket gold star](../Page/The_rocket_gold_star.md "wikilink")。
 
 ## 出演
 
@@ -46,7 +46,8 @@
   -
   -
   -
-<!-- end list -->
+
+[Category:日本の女性声優](https://ja.wikipedia.org/wiki/Category:日本の女性声優 "wikilink") [Category:日本のナレーター](https://ja.wikipedia.org/wiki/Category:日本のナレーター "wikilink") [Category:1993年生](https://ja.wikipedia.org/wiki/Category:1993年生 "wikilink") [Category:神戸市出身の人物](https://ja.wikipedia.org/wiki/Category:神戸市出身の人物 "wikilink") [Category:アミューズメントメディア総合学院の卒業生](https://ja.wikipedia.org/wiki/Category:アミューズメントメディア総合学院の卒業生 "wikilink")
 
 1.
 2.

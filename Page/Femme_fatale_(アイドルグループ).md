@@ -69,10 +69,10 @@
   -
   -
   -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:ミスiD](https://ja.wikipedia.org/wiki/Category:ミスiD "wikilink")
+[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:2018年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2018年に結成した音楽グループ "wikilink") [Category:ミスiD](https://ja.wikipedia.org/wiki/Category:ミスiD "wikilink")
 
 1.
-2.  「[IDOL AND READ](https://ja.wikipedia.org/wiki/IDOL_AND_READ "wikilink") 017」（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）p.213
+2.  「[IDOL AND READ](../Page/IDOL_AND_READ.md "wikilink") 017」（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）p.213
 3.
 4.
 5.

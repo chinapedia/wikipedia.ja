@@ -19,23 +19,17 @@ Fried Prideの活動を通じ、頭突きで瓦を割る女性（武田梨奈）
 
 ## エピソード
 
-・2001年のデビュー当初、モデルのSHIHOさんとの情報混乱があり現在の「Shiho」に表記を変更した。
-
-・2004年、[島袋寛子](../Page/島袋寛子.md "wikilink")の別プロジェクトである「[Coco d'Or](https://ja.wikipedia.org/wiki/Coco_d'Or_\(アルバム\) "wikilink")」のファーストアルバムに島袋寛子がShihoのファンだったため、プロデューサーとしてFried Prideにオファーがき参加した。
-
-・2007年〜08年、[BSフジ](../Page/BSフジ.md "wikilink")の「[Speak in Music](https://ja.wikipedia.org/wiki/Speak_in_Music "wikilink")」に[ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")と共に初代ナビゲーターとしてShihoが出演した。
-
-・2008年「[RENT](../Page/レント_\(ミュージカル\).md "wikilink")」のオファーがきたが、本人がミュージカルへの抵抗があり泣きながら出演を拒んだが、最終的には出演することとなった。
-
-・2017年11月[アンリ・ルクセンブルク大公国大公殿下](../Page/アンリ_\(ルクセンブルク大公\).md "wikilink")（国家元首）訪日時にて安倍首相主催の晩餐会にルクセンブルクで活躍する日本人として招待を受け出席した。
-
-・これまでに、[島袋寛子](../Page/島袋寛子.md "wikilink")、[佐藤竹善](../Page/佐藤竹善.md "wikilink")、[米倉利紀](../Page/米倉利紀.md "wikilink")、[日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")、[宇崎竜童](../Page/宇崎竜童.md "wikilink")、[つのだ★ひろ](../Page/つのだ☆ひろ.md "wikilink")、[武田真治](../Page/武田真治.md "wikilink")、K、[TOKU](https://ja.wikipedia.org/wiki/TOKU "wikilink")、[ケイコ・リー](../Page/ケイコ・リー.md "wikilink")、[桑山哲也](../Page/桑山哲也.md "wikilink")、[マーカスミラー](../Page/マーカス・ミラー.md "wikilink")、ガスト・ワルツィングなどのアーティストと共演してきた。
-
-・[WWE](../Page/WWE.md "wikilink")（プロレス団体）と[スティービー・ワンダーの熱烈なファンである](../Page/スティーヴィー・ワンダー.md "wikilink")。
+  - 2001年のデビュー当初、モデルのSHIHOさんとの情報混乱があり現在の「Shiho」に表記を変更した。
+  - 2004年、[島袋寛子](../Page/島袋寛子.md "wikilink")の別プロジェクトである「[Coco d'Or](https://ja.wikipedia.org/wiki/Coco_d'Or_\(アルバム\) "wikilink")」のファーストアルバムに島袋寛子がShihoのファンだったため、プロデューサーとしてFried Prideにオファーがき参加した。
+  - 2007年〜08年、[BSフジ](../Page/BSフジ.md "wikilink")の「[Speak in Music](https://ja.wikipedia.org/wiki/Speak_in_Music "wikilink")」に[ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")と共に初代ナビゲーターとしてShihoが出演した。
+  - 2008年「[RENT](../Page/レント_\(ミュージカル\).md "wikilink")」のオファーがきたが、本人がミュージカルへの抵抗があり泣きながら出演を拒んだが、最終的には出演することとなった。
+  - 2017年11月[アンリ・ルクセンブルク大公国大公殿下](../Page/アンリ_\(ルクセンブルク大公\).md "wikilink")（国家元首）訪日時にて安倍首相主催の晩餐会にルクセンブルクで活躍する日本人として招待を受け出席した。
+  - これまでに、[島袋寛子](../Page/島袋寛子.md "wikilink")、[佐藤竹善](../Page/佐藤竹善.md "wikilink")、[米倉利紀](../Page/米倉利紀.md "wikilink")、[日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")、[宇崎竜童](../Page/宇崎竜童.md "wikilink")、[つのだ★ひろ](../Page/つのだ☆ひろ.md "wikilink")、[武田真治](../Page/武田真治.md "wikilink")、K、[TOKU](https://ja.wikipedia.org/wiki/TOKU "wikilink")、[ケイコ・リー](../Page/ケイコ・リー.md "wikilink")、[桑山哲也](../Page/桑山哲也.md "wikilink")、[マーカスミラー](../Page/マーカス・ミラー.md "wikilink")、ガスト・ワルツィングなどのアーティストと共演してきた。
+  - [WWE](../Page/WWE.md "wikilink")（プロレス団体）と[スティービー・ワンダーの熱烈なファンである](../Page/スティーヴィー・ワンダー.md "wikilink")。
 
 ## 来歴
 
-#### ＜Fried Pride＞
+### ＜Fried Pride＞
 
 2001年～2003年　斑尾Jazz Fes、[恵比寿ガーデンホールワンマン](https://ja.wikipedia.org/wiki/恵比寿ザ・ガーデンホール "wikilink")、初のブルーノートツアー
 
@@ -67,7 +61,7 @@ Fried Prideの活動を通じ、頭突きで瓦を割る女性（武田梨奈）
 
 2016年　ルクセンブルク公演（フランス最古のオーケストラパドルーとの共演）
 
-#### ＜Shiho＞
+### ＜Shiho＞
 
 2007年　BSフジ「[Speak in music](https://ja.wikipedia.org/wiki/Speak_in_Music "wikilink")」番組MCを[ジョン・カビラ](../Page/ジョン・カビラ.md "wikilink")と共に担当
 

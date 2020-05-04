@@ -1,7 +1,7 @@
 > この記事は[夢現Re:Master](https://ja.wikipedia.org/wiki/夢現Re:Master)から翻訳されています。
 
 
-『**夢現Re:Master**』（ゆめうつつりますたー）は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より[2019年](../Page/2019年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に発売された[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")系[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。略称は「ゆリマスター」。[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")には、ファンディスクにあたる『**夢現Re:After**』が発売予定\[1\]。
+『**夢現Re:Master**』（ゆめうつつりますたー）は、[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")より[2019年](../Page/2019年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")に発売された[百合](https://ja.wikipedia.org/wiki/百合 "wikilink")系[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。略称は「ゆリマスター」。[2020年](../Page/2020年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")には、ファンディスクにあたる『**夢現Re:After**』が発売された\[1\]。
 
 ## 概要
 
@@ -94,7 +94,7 @@
 
 ## その他
 
-  - [LINE](https://ja.wikipedia.org/wiki/LINE "wikilink")スタンプ（イラスト：[八雲剣豪](https://ja.wikipedia.org/wiki/八雲剣豪 "wikilink")）\[8\]
+  - [LINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")（イラスト：[八雲剣豪](https://ja.wikipedia.org/wiki/八雲剣豪 "wikilink")）\[8\]
 
 ### コラボ
 

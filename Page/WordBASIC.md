@@ -1,9 +1,9 @@
 > この記事は[WordBASIC](https://ja.wikipedia.org/wiki/WordBASIC)から翻訳されています。
 
 
-**WordBASIC**は、ワープロ用にカスタマイズされた[Microsoft](../Page/マイクロソフト.md "wikilink") [QuickBASIC](../Page/QuickBASIC.md "wikilink")のサブセットである。 Windows 版 Word 6.0 または Word 95 で利用できたが、Word 97のリリース時に、 [Visual Basic for Applications（VBA）に置き換えられた](../Page/Visual_Basic_for_Applications.md "wikilink")。 VBAとは対照的に、WordBasicは[オブジェクト指向ではなく](../Page/オブジェクト指向プログラミング.md "wikilink")、約900のコマンドのフラットリストで構成されていた\[1\]。
+**WordBASIC**は、ワープロ用にカスタマイズされた[Microsoft](../Page/マイクロソフト.md "wikilink") [QuickBASIC](../Page/QuickBASIC.md "wikilink")のサブセットである。Windows 版 Word 6.0 または Word 95 で利用できたが、Word 97のリリース時に、[Visual Basic for Applications（VBA）に置き換えられた](../Page/Visual_Basic_for_Applications.md "wikilink")。VBAとは対照的に、WordBasicは[オブジェクト指向ではなく](../Page/オブジェクト指向プログラミング.md "wikilink")、約900のコマンドのフラットリストで構成されていた\[1\]。
 
-Word 2000 では、WordBasic のマクロを含む Windows 版 Word 6.0 または Word 95 のテンプレートを開くと、マクロは Visual Basic のモジュールに自動的に変換される\[2\]。 マクロ内の各 WordBasic ステートメントおよび関数は、対応する WordBasic メソッドに変換される。
+Word 2000 では、WordBasic のマクロを含む Windows 版 Word 6.0 または Word 95 のテンプレートを開くと、マクロは Visual Basic のモジュールに自動的に変換される\[2\]。マクロ内の各 WordBasic ステートメントおよび関数は、対応する WordBasic メソッドに変換される。
 
 ## サンプルコード
 

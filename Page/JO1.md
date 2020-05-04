@@ -258,17 +258,21 @@
 
 ## 出演
 
+### ラジオ
+
+  - [文化放送ライオンズナイター](../Page/文化放送ライオンズナイター.md "wikilink")スペシャル日本を音楽でアゲる\! JO1 無限大Radio（2020年4月30日、[文化放送](../Page/文化放送.md "wikilink")） - スタジオ出演は與那城奨、白岩瑠姫、河野純喜\[23\]
+
 ### 配信番組
 
-  - JO1 HOUSE（2020年2月27日 - 2020年3月26日、[GYAO\!](../Page/GYAO!.md "wikilink")）-　タイトル公表前は「JO1の新番組（仮）※タイトルは自分たちで考えます！」と表記されていた\[23\]。
+  - JO1 HOUSE（2020年2月27日 - 2020年3月26日、[GYAO\!](../Page/GYAO!.md "wikilink")）-　タイトル公表前は「JO1の新番組（仮）※タイトルは自分たちで考えます！」と表記されていた\[24\]。
   - JO1デビュー記念特別生配信（2020年3月4日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")）
 
 ### CM・広告
 
-  - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ワイモバ学割「BIG Y\!」（2020年2月 - ）\[24\]
+  - [Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ワイモバ学割「BIG Y\!」（2020年2月 - ）\[25\]
   - [ABC-MART](https://ja.wikipedia.org/wiki/ABC-MART "wikilink")×[NIKE](https://ja.wikipedia.org/wiki/NIKE "wikilink")「NIKE ONE」（2020年3月6日 - ）
-  - [ネスレ日本](../Page/ネスレ日本.md "wikilink")「“[キットカット](../Page/キットカット.md "wikilink")” ひと月遅れの卒業式 with JO1」（2020年3月30日 - ）\[25\]
-  - [ファミリーマート](../Page/ファミリーマート.md "wikilink")ラブフラッペ「JO1 MEETS FRAPPE.」（2020年4月16日 - ）\[26\]\[27\]
+  - [ネスレ日本](../Page/ネスレ日本.md "wikilink")「“[キットカット](../Page/キットカット.md "wikilink")” ひと月遅れの卒業式 with JO1」（2020年3月30日 - ）\[26\]
+  - [ファミリーマート](../Page/ファミリーマート.md "wikilink")ラブフラッペ「JO1 MEETS FRAPPE.」（2020年4月16日 - ）\[27\]\[28\]
 
 ## イベント
 
@@ -281,7 +285,7 @@
 
 ### その他
 
-  - [ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")メゾン大阪御堂筋オープンニングイベント（2020年1月29日）\[28\]
+  - [ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")メゾン大阪御堂筋オープンニングイベント（2020年1月29日）\[29\]
 
 ## 脚注
 
@@ -323,8 +327,9 @@
 21.
 22.
 23.
-24.  Y\!mobile（ワイモバイル）|url=[https://www.ymobile.jp/sp/ymgakuwari/|website=Y\!mobile|accessdate=2020-01-22](https://www.ymobile.jp/sp/ymgakuwari/%7Cwebsite=Y!mobile%7Caccessdate=2020-01-22)}}
-25.
+24.
+25.  Y\!mobile（ワイモバイル）|url=[https://www.ymobile.jp/sp/ymgakuwari/|website=Y\!mobile|accessdate=2020-01-22](https://www.ymobile.jp/sp/ymgakuwari/%7Cwebsite=Y!mobile%7Caccessdate=2020-01-22)}}
 26.
 27.
 28.
+29.

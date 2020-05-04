@@ -5,9 +5,15 @@
 
 ## 概要
 
+大阪出身。徳南が兄、九宝時が弟の双子。\[1\]
+
 メタル・ギターロック・プログレッシブを得意としたユニット。
 
-商業では[naoへの楽曲提供ほか](https://ja.wikipedia.org/wiki/Nao_\(1985年生の歌手\) "wikilink")、徳南はスタジオミュージシャンとして数多くの楽曲のギターのレコーディング、[中川翔子](../Page/中川翔子.md "wikilink")や[初音ミクのライブのサポートメンバーとして](https://ja.wikipedia.org/wiki/初音ミクのメディア展開 "wikilink")\[1\]、九宝時はnaoのCDのマスタリングなどで活動している。\[2\]
+2005年頃に[新世界のメンバーとして活動](https://ja.wikipedia.org/wiki/新世界_\(バンド\) "wikilink")。
+
+徳南は2007年から2015年まで[日本ファルコム](../Page/日本ファルコム.md "wikilink")の楽曲を演奏する[新生 jdkBANDのメンバーとして活動](../Page/J.D.K.BAND.md "wikilink")。
+
+近年、商業では[naoへの楽曲提供ほか](https://ja.wikipedia.org/wiki/Nao_\(1985年生の歌手\) "wikilink")、徳南はスタジオミュージシャンとして数多くの楽曲のギターのレコーディング、[中川翔子](../Page/中川翔子.md "wikilink")や[初音ミクのライブのサポートメンバーとして](https://ja.wikipedia.org/wiki/初音ミクのメディア展開 "wikilink")\[2\]、九宝時はnaoのCDのマスタリングなどで活動している。\[3\]
 
 同人では[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")の楽曲のアレンジをメインの音楽サークルとしてCDを頒布している。
 
@@ -25,8 +31,36 @@
 
 ## 楽曲提供
 
+### 商業作品
+
   - 『[姫様LOVEライフ！](https://ja.wikipedia.org/wiki/姫様LOVEライフ! "wikilink")』OP主題歌「とある小国のお姫様が、会ったこともない兄の家にやってきて住みついた事情。」（編曲）
   - 『[翼をください](https://ja.wikipedia.org/wiki/翼をください_\(ゲーム\) "wikilink")』OP主題歌「phantasia ballad」（[新井健史](../Page/新井健史.md "wikilink")と共同作編曲）
+
+### 同人作品
+
+  - 『GROUND ZERO ～TOHO ROCK\!\! 2007』C-CLAYS　※1曲提供
+  - 『CROWZFEST』CROW'SCLAW　※1曲提供
+  - 『東方幻奏祀典2 "Canon"』Liverne　※1曲提供
+  - 『MEGALOMANIA』DANGEROUS MEZASHI CAT　※2曲提供
+
+## 参加作品
+
+### 商業作品
+
+  - 『ヴァンテージマスターポータブル オリジナルサウンドトラック』（ギター）
+  - 『fripSide NAO project\! Rabbit Syndrome』（ギター）
+  - 『jdk BAND LIVE "REBIRTH" DVD』（ギター）
+  - 『英雄伝説 空の軌跡 the 3rd オリジナルサウンドトラック』（ギター）
+  - 『ファルコム未発表曲集 2007秋』（ギター）
+  - 『英雄伝説 空の軌跡 the 3rd オリジナルサウンドトラック・ミニ』（ギター）
+  - 『Ys Origin Super Arrange Version』（ギター）
+  - 『FALCOM LIVE 2007 Original Sounds』（ギター）
+  - 『Ys ORIGIN” ORIGINAL SOUND TRACK』（ギター）
+
+### 同人作品
+
+  - 『ぽぷり』サークル「Primary」（ソロギター）
+  - 『Rotate』サークル「Primary」（ギター／ベース）
 
 ## ディスコグラフィー
 
@@ -57,5 +91,6 @@
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:同人音楽サークル](https://ja.wikipedia.org/wiki/Category:同人音楽サークル "wikilink") [Category:ユニット](https://ja.wikipedia.org/wiki/Category:ユニット "wikilink")
 
-1.  \[[https://magicalmirai.com/2019/special_afterreport.html\]マジカルミライ2019](https://magicalmirai.com/2019/special_afterreport.html%5Dマジカルミライ2019) アフターレポート 2020年3月10日閲覧
-2.  \[[https://twitter.com/kyuhojimae/status/946361374753435653\]九宝時のTwitterでのつぶやき](https://twitter.com/kyuhojimae/status/946361374753435653%5D九宝時のTwitterでのつぶやき) 2020年3月10日閲覧
+1.
+2.
+3.

@@ -22,7 +22,7 @@ Selenium はいくつかの[コンポーネントで構成され](../Page/ソフ
 
 ### Selenium IDE
 
-Selenium IDE は、Selenium テスト用の完全な[統合開発環境](../Page/統合開発環境.md "wikilink")(IDE)である。これは、 Firefoxアドオンおよび[Chrome 拡張機能として実装される](../Page/Chromeウェブストア.md "wikilink")。機能テストの記録、編集、デバッグが可能である。 以前はSelenium Recorder として知られていた。Selenium IDE は、もともとShinya Kasatani によって作成され、2006年にSelenium プロジェクトに寄付された。Selenium IDE は以前はほとんどメンテナンスされていなかった\[4\]。Selenium IDE は2018年に積極的にメンテナンスされ始めた\[5\]\[6\]\[7\]\[8\]。
+Selenium IDE は、Selenium テスト用の完全な[統合開発環境](../Page/統合開発環境.md "wikilink")(IDE)である。これは、 Firefoxアドオンおよび[Chrome 拡張機能として実装される](../Page/Chromeウェブストア.md "wikilink")。機能テストの記録、編集、デバッグが可能である。 以前はSelenium Recorder として知られていた。Selenium IDE は、もともと笠谷真也さんによって作成され、2006年にSelenium プロジェクトに寄付された。Selenium IDE は以前はほとんどメンテナンスされていなかった\[4\]。Selenium IDE は2018年に積極的にメンテナンスされ始めた\[5\]\[6\]\[7\]\[8\]。
 
 スクリプトは自動的に記録され、手動で編集されて、[自動補完](https://ja.wikipedia.org/wiki/自動補完 "wikilink")サポートとコマンドをすばやく移動する機能を提供する。スクリプトは、Selenium 用の特別なテストスクリプト言語である*Selenese* で記録される。Selenese には、[ブラウザでアクションを実行](../Page/ウェブブラウザ.md "wikilink")(リンクをクリックしてオプションを選択)するコマンド、および結果のページからデータを取得するコマンドが用意されている。
 

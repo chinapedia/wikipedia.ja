@@ -7,9 +7,9 @@
 
 元々は[Screaming Tea Partyのフロントマンとして活動していたが](https://ja.wikipedia.org/wiki/Screaming_Tea_Party "wikilink")、解散をきっかけに２０１３年ごろからヨーロッパを中心に精力的にソロ活動を展開。2014 年に[マイ・ブラッディ・ヴァレンタイン](../Page/マイ・ブラッディ・ヴァレンタイン.md "wikilink")のKevin Shilds (ケビン・シールズ)等が設立したレコード・レーベル、Pickpocket Recordsから、デビューシングル『風が吹いたらさようなら』をリリース、翌年にはデビューアルバム『ヘイジー・アイズ・メイビー』が英国の音楽フェスティバル、[オール・トゥモローズ・パーティーズ](https://ja.wikipedia.org/wiki/オール・トゥモローズ・パーティーズ "wikilink")が運営するATP Recordingsからリリースされ、英メディアで話題となる。\[2\]
 
-2020年2月には[ステレオラブ](https://ja.wikipedia.org/wiki/ステレオラブ "wikilink")の女性ヴォーカリスト、レティシア・サディエール等をゲストに、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")ら多数のアーティストを手掛けるイタリア出身の女性プロデューサー、マルタ・サローニを迎えた3rdアルバム『ジャイノーマス』をリリース。同月にはアルバムのプロモーションとして[英国放送協会](../Page/英国放送協会.md "wikilink") BBCラジオ・セッションで４曲をライブ演奏している。\[3\] </ref>
+2020年2月には[ステレオラブ](https://ja.wikipedia.org/wiki/ステレオラブ "wikilink")の女性ヴォーカリスト、レティシア・サディエール等をゲストに、[ビョーク](https://ja.wikipedia.org/wiki/ビョーク "wikilink")等多数のアーティストを手掛けるイタリア出身の女性プロデューサー、マルタ・サローニを迎えた3rdアルバム『ジャイノーマス』をリリース。同月にはアルバムのプロモーションとして[英国放送協会](../Page/英国放送協会.md "wikilink") BBCラジオ・セッションで４曲をライブ演奏している。\[3\] </ref>
 
-発表された作品には、サウス・ロンドンを拠点に活動するシンガー/プロデューサー、Klein (クライン)、Le Volume Courbe (ル・ヴォリューム・クールブ)、Killer Bong (キラー・ボン)、[Bo Ningen](https://ja.wikipedia.org/wiki/Bo_Ningen "wikilink") (ボー・ニンゲン)等、国内外を問わず多岐にわたるのゲスト・ミュージシャンが参加している。\[4\] </ref>
+発表された作品には、サウス・ロンドンを拠点に活動するシンガー/プロデューサー、Klein (クライン)、Le Volume Courbe (ル・ヴォリューム・クールブ)、Killer Bong (キラー・ボン)、[Bo Ningen](https://ja.wikipedia.org/wiki/Bo_Ningen "wikilink") (ボー・ニンゲン)等、国内外を問わず多岐にわたるゲスト・ミュージシャンが参加している。\[4\] </ref>
 
 ## ディスコグラフィ
 

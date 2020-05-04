@@ -42,7 +42,7 @@ EOS Rシステムでは、[デュアルピクセルCMOS AFを用いて](https://
 
 ### 出典
 
-[Category:キヤノンのカメラ](https://ja.wikipedia.org/wiki/Category:キヤノンのカメラ "wikilink") [Category:EOS_Rシステム](https://ja.wikipedia.org/wiki/Category:EOS_Rシステム "wikilink")
+[Category:キヤノンのカメラ](https://ja.wikipedia.org/wiki/Category:キヤノンのカメラ "wikilink") [Category:EOS_Rシステム](https://ja.wikipedia.org/wiki/Category:EOS_Rシステム "wikilink") [Category:ミラーレス一眼カメラ](https://ja.wikipedia.org/wiki/Category:ミラーレス一眼カメラ "wikilink")
 
 1.
 2.

@@ -26,8 +26,6 @@
 
 ## 脚注
 
-<references />
-
 ## 関連項目
 
   - [文化放送日曜朝10時枠](../Page/文化放送日曜朝10時枠.md "wikilink")
@@ -38,6 +36,7 @@
 
   - [『Society5.0 香格里拉』公式サイト](https://joqr.co.jp/s5/)
 
+  -
 [Category:文化放送のトーク番組](https://ja.wikipedia.org/wiki/Category:文化放送のトーク番組 "wikilink") [Category:文化放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:文化放送の情報・ワイドショー番組 "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
 
 1.

@@ -70,7 +70,7 @@
 ## 外部リンク
 
   -
-[Category:声優プロダクション](https://ja.wikipedia.org/wiki/Category:声優プロダクション "wikilink") [Category:日本の舞台制作会社・団体](https://ja.wikipedia.org/wiki/Category:日本の舞台制作会社・団体 "wikilink") [Category:東京都港区の企業‎](https://ja.wikipedia.org/wiki/Category:東京都港区の企業‎ "wikilink") [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink") [Category:麻布](https://ja.wikipedia.org/wiki/Category:麻布 "wikilink")
+[Category:声優プロダクション](https://ja.wikipedia.org/wiki/Category:声優プロダクション "wikilink") [Category:日本の舞台制作会社・団体](https://ja.wikipedia.org/wiki/Category:日本の舞台制作会社・団体 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink") [Category:麻布](https://ja.wikipedia.org/wiki/Category:麻布 "wikilink")
 
 1.
 2.

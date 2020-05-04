@@ -36,7 +36,7 @@
 
   - \- 表示言語は英語・中国語から選択可能。
 
-[Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink") [Category:ロックマンX](https://ja.wikipedia.org/wiki/Category:ロックマンX "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:ソーシャルゲーム](https://ja.wikipedia.org/wiki/Category:ソーシャルゲーム "wikilink") [Category:台湾で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:台湾で開発されたコンピュータゲーム "wikilink") [Category:メタフィクション](https://ja.wikipedia.org/wiki/Category:メタフィクション "wikilink")
+[Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink") [Category:ロックマンX](https://ja.wikipedia.org/wiki/Category:ロックマンX "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:ソーシャルゲーム](https://ja.wikipedia.org/wiki/Category:ソーシャルゲーム "wikilink") [Category:台湾で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:台湾で開発されたコンピュータゲーム "wikilink") [Category:メタフィクション作品](https://ja.wikipedia.org/wiki/Category:メタフィクション作品 "wikilink")
 
 1.  表記外の国からでも、公式ウェブサイトからアプリケーションのダウンロードは可能。
 2.

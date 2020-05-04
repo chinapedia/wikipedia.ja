@@ -17,6 +17,10 @@
 
   - 韓国人ユーチューバー・WWUK 韓国人のボクが「反日洗脳」から解放された理由\[1\]（2019年12月14日発売、ワック）ISBN 978-4898318157
 
+<!-- end list -->
+
+  - 「親日韓国人」ですが、何か?\[2\]（2020年4月21日発売、悟空出版）ISBN 978-4908117732
+
 ## 脚注
 
 ## 外部リンク
@@ -28,3 +32,4 @@
 [Category:男性YouTuber](https://ja.wikipedia.org/wiki/Category:男性YouTuber "wikilink") [Category:ソウル特別市出身の人物](https://ja.wikipedia.org/wiki/Category:ソウル特別市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
+2.

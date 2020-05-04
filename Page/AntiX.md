@@ -1,7 +1,7 @@
 > この記事は[AntiX](https://ja.wikipedia.org/wiki/AntiX)から翻訳されています。
 
 
-**antiX** は [Debian 安定版](https://ja.wikipedia.org/wiki/Debian#Branches "wikilink")\[1\] を元にして直接ビルドされた Linuxディストリビューションである。このディストリビューションは動作が比較的軽量であるため、仕様の古くなったコンピューターでの利用に適している。しかも、[apt-get パッケージ・システム](https://ja.wikipedia.org/wiki/Advanced_Packaging_Tool "wikilink") と Debian-互換の [リポジトリ](https://ja.wikipedia.org/wiki/Software_repository "wikilink")\[2\]を利用したアップデートおよび、[cutting edge](https://ja.wikipedia.org/wiki/State_of_the_art "wikilink") [kernel](https://ja.wikipedia.org/wiki/Linux_kernel "wikilink") とアプリケーションを提供する。
+**antiX** は [Debian](../Page/Debian.md "wikilink")\[1\]安定版を元にして直接ビルドされた[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である。このディストリビューションは動作が比較的軽量であるため、仕様の古くなったコンピューターでの利用に適している。しかも、[APT](../Page/APT.md "wikilink")とDebian互換の[リポジトリ](../Page/リポジトリ.md "wikilink")\[2\]を利用したアップデートおよび、最新の[Linuxカーネル](../Page/Linuxカーネル.md "wikilink") とアプリケーションを提供する。
 
 ## システム要件
 
@@ -54,12 +54,6 @@ antiX は Linux ディストリビューションの１つでで、元々は MEP
   - [MX Linux](../Page/MX_Linux.md "wikilink")
   - [MEPIS](../Page/MEPIS.md "wikilink")
   - [Debian GNU/Linux](https://ja.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
-  - [Category:Linux distributions without systemd](https://ja.wikipedia.org/wiki/Category:Linux_distributions_without_systemd "wikilink")
-  - [List of Linux distributions that run from RAM](https://ja.wikipedia.org/wiki/List_of_Linux_distributions_that_run_from_RAM "wikilink")
-
-<!-- end list -->
-
-  - [Lightweight Linux distribution](https://ja.wikipedia.org/wiki/Lightweight_Linux_distribution "wikilink")
 
 ## リファレンス
 

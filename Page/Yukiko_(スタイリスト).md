@@ -11,7 +11,7 @@
 
 短大卒業後、株式会社[永谷園](https://ja.wikipedia.org/wiki/永谷園 "wikilink")入社。OLとして勤務するかたわら、ファッションスタイリストの養成学校へ通い、スタイリストとしての素地をつくる。[色彩検定](../Page/色彩検定.md "wikilink")1級を取得後、戦略ツールとしての色彩の活用を提唱する[カラー](../Page/カラー.md "wikilink")[コンサルタント](../Page/コンサルタント.md "wikilink")として活動開始。大手企業のコンサルやイベントの企画、ファッション誌、テレビCMなどの撮影、商品企画等に携わる。2005年（平成17年）より専門学校にて販促色彩・ファッション・検定対策の講師、トレーナーとして活躍。後進のプロ育成に注力している。
 
-2013年（平成25年）3月、色彩総合プロデューサーとして色彩と食、地域文化を結びつけ発信していく「色と食の旅プロジェクト」を発足。2014年（平成26年）11月に「[鹿児島](https://ja.wikipedia.org/wiki/鹿児島 "wikilink")[芋焼酎](https://ja.wikipedia.org/wiki/芋焼酎 "wikilink")コミュニティクラブ」を発足し、鹿児島県酒造組合と連携した[本格焼酎](https://ja.wikipedia.org/wiki/本格焼酎 "wikilink")イベントなど東京発信の地域文化プロデュースを手がける。同時期に取材・ライティング活動も開始。
+2013年（平成25年）3月、色彩総合プロデューサーとして色彩と食、地域文化を結びつけ発信していく「色と食の旅プロジェクト」を発足。2014年（平成26年）11月に「[鹿児島](https://ja.wikipedia.org/wiki/鹿児島 "wikilink")[芋焼酎](../Page/芋焼酎.md "wikilink")コミュニティクラブ」を発足し、鹿児島県酒造組合と連携した[本格焼酎](https://ja.wikipedia.org/wiki/本格焼酎 "wikilink")イベントなど東京発信の地域文化プロデュースを手がける。同時期に取材・ライティング活動も開始。
 
 2016年（平成28年）3月、中小企業・小規模事業者を色彩戦略の面から支援する「中小企業庁ミラサポ専門家派遣 登録専門家」に認定される。2017年（平成29年）4月[焼酎](../Page/焼酎.md "wikilink")・[泡盛](https://ja.wikipedia.org/wiki/泡盛 "wikilink")専門のウェブマガジン「焼酎＆泡盛スタイル」のクリエイティブディレクターに着任。
 
@@ -50,7 +50,7 @@
       - 販売戦略検討会 カラーセミナー
       - [千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")岩瀬自治会
       - [スルガ銀行](../Page/スルガ銀行.md "wikilink") d-laboアルパミニ演奏会　MC、企画、演奏
-      - [スルガ銀行](../Page/スルガ銀行.md "wikilink") ファッションショー　MC、企画、講師
+      - スルガ銀行 ファッションショー　MC、企画、講師
       - 日本の良さを体感するプロジェクト（日本酒版）
 
 <!-- end list -->
@@ -135,7 +135,7 @@
 
 <!-- end list -->
 
-  - 2018年（平成30年）　[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")（歌手）×yukiko　　 [カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")（歌手）×yukiko　　 [田上晃吉](../Page/田上晃吉.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")方言指導・俳優）×yukiko
+  - 2018年（平成30年）　[城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink")（歌手）×yukiko　　 [カサリンチュ](https://ja.wikipedia.org/wiki/カサリンチュ "wikilink")（歌手）×yukiko　　 [田上晃吉](../Page/田上晃吉.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")方言指導・俳優）×yukiko
 
 <!-- end list -->
 
@@ -157,8 +157,8 @@
   - 2018年（平成30年）
     \*[日本食糧新聞](../Page/日本食糧新聞.md "wikilink")ウェブコンテンツ連載
     \*ウェブマガジン「焼酎＆泡盛スタイル」連載
-    \*[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作者 作家・ [林真理子](../Page/林真理子.md "wikilink")イベント特集記事
-    \*[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作本『西郷どん！』林真理子×西郷真悠子イベント特集記事
+    \*[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")「[西郷どん](https://ja.wikipedia.org/wiki/西郷どん "wikilink")」原作者 作家・ [林真理子](../Page/林真理子.md "wikilink")イベント特集記事
+    \*NHK大河ドラマ「西郷どん」原作本『西郷どん！』林真理子×西郷真悠子イベント特集記事
   - 2019年（平成31年/令和元年）
     \*ウェブマガジン「焼酎＆泡盛スタイル」連載
     \*[鹿児島県](../Page/鹿児島県.md "wikilink")特産品協会 会報誌　新春号に寄稿\[17\]

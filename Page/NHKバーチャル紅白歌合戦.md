@@ -112,7 +112,7 @@
 
 ### 出典
 
-[Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョンの特別番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの特別番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:かつて存在したNHKのテレビ年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したNHKのテレビ年末年始特番 "wikilink") [Category:2020年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2020年の日本の音楽 "wikilink") [Category:2020年1月](https://ja.wikipedia.org/wiki/Category:2020年1月 "wikilink") [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:バーチャルYouTuber](https://ja.wikipedia.org/wiki/Category:バーチャルYouTuber "wikilink")
+[Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink") [Category:NHK総合テレビジョンの特別番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの特別番組 "wikilink") [Category:かつて存在したNHKのテレビ年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したNHKのテレビ年末年始特番 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:2020年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2020年の日本の音楽 "wikilink") [Category:バーチャルYouTuber](https://ja.wikipedia.org/wiki/Category:バーチャルYouTuber "wikilink")
 
 1.
 2.

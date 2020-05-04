@@ -44,12 +44,14 @@
       -
         SUGIZO原曲
         テレビアニメ「[機動戦士ガンダム THE ORIGIN 前夜 赤い彗星](https://ja.wikipedia.org/wiki/機動戦士ガンダム_THE_ORIGIN_前夜_赤い彗星 "wikilink")」第1弾オープニングテーマ
+        20thシングル
 7.  **anagram**
       -
         RYUICHI原曲、SUGIZOアレンジ
 8.  **[悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_～Higher_and_Higher～/悲壮美 "wikilink")**
       -
         SUGIZO原曲
+        20thシングル
         テレビアニメ「機動戦士ガンダム THE ORIGIN 前夜 赤い彗星」第2弾オープニングテーマ
 9.  **Pulse**
       -
@@ -79,6 +81,14 @@
 <!-- end list -->
 
 1.  **[BEYOND THE TIME〜メビウスの宇宙を越えて〜](../Page/BEYOND_THE_TIME_\(メビウスの宇宙を越えて\).md "wikilink")**
+      -
+
+          -
+            作詞 - [小室みつ子](../Page/小室みつ子.md "wikilink") / 作曲 - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink") / 編曲・演奏 - LUNA SEA
+
+        テレビアニメ「[機動戦士ガンダム THE ORIGIN 前夜 赤い彗星](https://ja.wikipedia.org/wiki/機動戦士ガンダム_THE_ORIGIN_前夜_赤い彗星 "wikilink")」第3弾オープニングテーマ
+
+        2019年9月6日に配信限定で販売されていた楽曲。初CD化。
 
 <!-- end list -->
 

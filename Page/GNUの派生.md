@@ -29,7 +29,7 @@ Debian GNU/NetBSDは、GNUのユーザーランドを[NetBSD](../Page/NetBSD.md 
 
 ## Windowsカーネル
 
-[Cygwin](../Page/Cygwin.md "wikilink")プロジェクトは、[Microsoft Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[POSIX](../Page/POSIX.md "wikilink") [API](https://ja.wikipedia.org/wiki/API "wikilink")の機能性をCライブラリの形態で提供する[互換レイヤ](https://ja.wikipedia.org/wiki/互換レイヤ "wikilink")のプロジェクトで、[GNU](../Page/GNU.md "wikilink")や他の[Unix系](../Page/Unix系.md "wikilink")のプログラムも合わせて提供されている。最初のリリースは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に現在[Red Hatの一部であるCygnus](https://ja.wikipedia.org/wiki/Red_Hat "wikilink") Solutionsによってなされた。
+[Cygwin](../Page/Cygwin.md "wikilink")プロジェクトは、[Microsoft Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[POSIX](../Page/POSIX.md "wikilink") [APIの機能性をCライブラリの形態で提供する](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[互換レイヤ](https://ja.wikipedia.org/wiki/互換レイヤ "wikilink")のプロジェクトで、[GNU](../Page/GNU.md "wikilink")や他の[Unix系](../Page/Unix系.md "wikilink")のプログラムも合わせて提供されている。最初のリリースは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に現在[Red Hatの一部であるCygnus](https://ja.wikipedia.org/wiki/Red_Hat "wikilink") Solutionsによってなされた。
 
 [2016年](../Page/2016年.md "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")と[カノニカル](https://ja.wikipedia.org/wiki/カノニカル "wikilink")は、公式に、LinuxカーネルのシステムコールをWindows NTのものに翻訳する互換レイヤを[Windows 10に加えた](https://ja.wikipedia.org/wiki/Windows_10 "wikilink")。これは、Windowsで[ELF](https://ja.wikipedia.org/wiki/ELF "wikilink")形式の実行ファイルを実行可能にするものであり、Web開発向けにGNUのユーザーランドを提供することを意図していた\[18\]\[19\]\[20\]。しばしば、これは"Linux for Windows"と呼ばれるが、これはLinuxカーネルを欠いたものである。
 

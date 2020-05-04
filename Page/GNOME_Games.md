@@ -16,7 +16,7 @@ GNOME Games Collectionは、現在以下のゲームを含む。
   - **Chess** - [チェス](../Page/チェス.md "wikilink")エンジンと組み合わせて使われる、[Vala](https://ja.wikipedia.org/wiki/Vala "wikilink")で書かれたグラフィカルなフロントエンド。
   - **Four-in-a-row** - *Connect Four*のクローン。
   - **Hitori** - *Hitori*の実装。
-  - **Iagno** - [リバーシ](https://ja.wikipedia.org/wiki/リバーシ "wikilink")のクローン。
+  - **Iagno** - [リバーシのクローン](../Page/オセロ_\(ボードゲーム\).md "wikilink")。
   - **Klotski** - 落下するブロックのパズルゲーム。
   - **Lightsoff** - 難問クイズ。
   - **Quadrapassel** - [テトリス](../Page/テトリス.md "wikilink")のクローン。
@@ -49,7 +49,7 @@ Gnome-2048 3.22.png|2048 AisleRiot 3.10.2.png|AisleRiot GNOME Chess 3D 3.11.92.p
 ## 外部リンク
 
   -
-[Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink")
+[Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink")
 
 1.
 2.

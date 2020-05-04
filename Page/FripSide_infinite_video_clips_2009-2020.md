@@ -28,7 +28,7 @@
 15. **[1983-schwarzesmarken-(IS3 edition)](https://ja.wikipedia.org/wiki/infinite_synthesis_3 "wikilink")**
 16. **The end of escape**
       -
-        [2016年](../Page/2016年.md "wikilink")にリリースされた、[angela](https://ja.wikipedia.org/wiki/angela "wikilink")とのコラボ楽曲。これより以前にリリースされた「**僕は僕であって**」は未収録。
+        [2016年](../Page/2016年.md "wikilink")にリリースされた、[angela](https://ja.wikipedia.org/wiki/angela "wikilink")とのコラボ楽曲。これより以前にリリースされた「**[僕は僕であって](https://ja.wikipedia.org/wiki/僕は僕であって "wikilink")**」は未収録。
 17. **[clockwork planet](https://ja.wikipedia.org/wiki/clockwork_planet "wikilink")**
 18. **[Red “reduction division”-crossroads version-](https://ja.wikipedia.org/wiki/crossroads "wikilink")**
 19. **[killing bites](https://ja.wikipedia.org/wiki/killing_bites "wikilink")**

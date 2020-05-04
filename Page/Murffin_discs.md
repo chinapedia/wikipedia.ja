@@ -12,7 +12,7 @@
 ## 内部レーベル
 
   - mini muff records
-  - \[NOiD\]
+  - [\[NOiD](https://ja.wikipedia.org/wiki/SUPER_BEAVER#［NOiD］ "wikilink")\]
   - TALTO
   - murffin Lab.
 
@@ -119,7 +119,7 @@
 <td><p>スーパービーバー</p></td>
 <td><p>2014年〜</p></td>
 <td><p><a href="https://itunes.apple.com/jp/artist/super-beaver/207340886">リンク</a></p></td>
-<td><p>murffin discs傘下内ロックレーベル[NOiD]に所属。</p></td>
+<td><p>murffin discs傘下ロックレーベル[NOiD]に所属。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/sumika" title="wikilink">sumika</a></p></td>

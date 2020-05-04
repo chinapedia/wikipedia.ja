@@ -417,7 +417,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/上野優華" title="wikilink">上野優華</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/番匠谷紗衣" title="wikilink">番匠谷紗衣</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Streptocarpus" title="wikilink">Streptocarpus</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/HIROSHIMA_GO!GO!" title="wikilink">HIROSHIMA GO!GO!</a></li>
+<li><a href="../Page/HIROSHIMA_GO!GO!.md" title="wikilink">HIROSHIMA GO!GO!</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/君のヤミは全部僕が背負う。" title="wikilink">君のヤミは全部僕が背負う。</a></li>
 </ul></td>
 <td><ul>

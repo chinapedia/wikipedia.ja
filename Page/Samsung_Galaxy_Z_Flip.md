@@ -41,7 +41,7 @@
 
 ### ソフトウェア
 
-[Android 10](https://ja.wikipedia.org/wiki/Android_10 "wikilink")、[One UI 2を搭載する](https://ja.wikipedia.org/wiki/Galaxy#One_UI_2 "wikilink")。[Google](../Page/Google.md "wikilink")とのパートナーシップによって、折りたたみスマートフォンとしての展開時[ユーザーインターフェイス](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")（UI）は最適化されている。その他、[Google Duoで角度をつけて机などに置いて通話するなどの機能が紹介されている](https://ja.wikipedia.org/wiki/Google_Duo "wikilink")。
+[Android 10](https://ja.wikipedia.org/wiki/Android_10 "wikilink")、[One UI 2を搭載する](https://ja.wikipedia.org/wiki/Galaxy#One_UI_2 "wikilink")。[Google](../Page/Google.md "wikilink")とのパートナーシップによって、折りたたみスマートフォンとしての展開時[ユーザーインターフェイス](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")（UI）は最適化されている。その他、[Google](../Page/Google.md "wikilink")とのパートナーシップによって[Google Duoで角度をつけて机などに置いて通話する機能や折りたたんだ状態で](https://ja.wikipedia.org/wiki/Google_Duo "wikilink")[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の視聴がしやすくなるなどの機能が利用できる。
 
 ## カラーバリエーション
 
@@ -98,6 +98,8 @@ Galaxy Z Flip Thom Browne Edition
 Galaxy Z Flipのミラーパープルとミラーブラックはほとんどの国で展開されている。また、ミラーゴールドと、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナー「Thom Browne」とのコラボレーションモデル「Galaxy Z Flip Thom Browne Edition」は一部の国と地域で展開されている。なお、現時点で[第5世代移動通信システム](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink")（5G）対応モデルは発表されていない\[18\]。
 
 ### コラボレーションやイベント
+
+#### ファッションウィークでの登場
 
 グローバル展開においては、2月12日に[ニューヨーク](../Page/ニューヨーク.md "wikilink")ファッションウィーク、2月14日に[ロンドン](../Page/ロンドン.md "wikilink")ファッションウィーク、2月20日に[ミラノ](../Page/ミラノ.md "wikilink")ファッションウィーク、最後に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")ファッションウィークにGalaxy Z Flipが登場し、[ファッション](../Page/ファッション.md "wikilink")性をアピールしている\[19\]。
 

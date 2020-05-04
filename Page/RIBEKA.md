@@ -1,11 +1,11 @@
 > この記事は[RIBEKA](https://ja.wikipedia.org/wiki/RIBEKA)から翻訳されています。
 
 
-**RIBEKA**（リベカ、[1977年](../Page/1977年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink") - ）は、日本の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・日英バイリンガルMC・[インタビュアー](https://ja.wikipedia.org/wiki/インタビュアー "wikilink")である\[1\]。 [大阪府](../Page/大阪府.md "wikilink")出身。[V.A.S.P.](https://ja.wikipedia.org/wiki/バスプ "wikilink")
+**RIBEKA**（リベカ、[1977年](../Page/1977年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink") - ）は、日本の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・日英バイリンガルMC・[インタビュアー](https://ja.wikipedia.org/wiki/インタビュアー "wikilink")である\[1\]。[大阪府](../Page/大阪府.md "wikilink")出身。[V.A.S.P.](https://ja.wikipedia.org/wiki/バスプ "wikilink")
 
 ## 人物
 
-中学卒業と同時に[オーストラリア](../Page/オーストラリア.md "wikilink")に渡り、アデレードで10年間学生生活を送り、2002年12月に帰国。通訳のアルバイトをきっかけにしゃべる仕事に就く。
+中学卒業と同時に[オーストラリア](../Page/オーストラリア.md "wikilink")に渡り、[アデレード](../Page/アデレード.md "wikilink")で10年間学生生活を送り、2002年12月に帰国。通訳のアルバイトをきっかけにしゃべる仕事に就く。
 
 関西にてTV/ラジオのメディアにて20本近くのレギュラー番組を経験し、2015年より関西と関東を行き来する生活を始める。6月末で関西で当時担当していた全レギュラー番組に一旦終止符を打ち、本格的に東京での仕事に重きを置く。トークショーMCやインタビューのフィールドはファッション、スポーツ、音楽業界のみならず医学会や国際会議に至る。タイガーウッズ来日時のトークショーを続けて担い、ラグビーW杯ではスタジアムMCとして声を届ける。G20の国際カンファレンスでもバイリンガルでMCを務める\[2\]。
 
@@ -29,7 +29,7 @@
   - Empire Countdown
   - Breaden Presents 超越 A GOGO\!\!
   - JTB旅物語 presents KOBE Cruising Café
-  - [4 SEASONS](https://ja.wikipedia.org/wiki/4_SEASONS "wikilink")
+  - [4 SEASONS](https://ja.wikipedia.org/wiki/4_SEASONS_\(ラジオ番組\) "wikilink")
   - [Kiss Music Presenter](https://ja.wikipedia.org/wiki/Kiss_MUSIC_PRESENTER "wikilink")
   - Alohe食堂
 

@@ -1,7 +1,7 @@
 > この記事は[キミが好きだと叫びたい 〜Love \& Yell〜](https://ja.wikipedia.org/wiki/キミが好きだと叫びたい_〜Love_\&_Yell〜)から翻訳されています。
 
 
-『**キミが好きだと叫びたい 〜Love & Yell〜**』（きみがすきだとさけびたい ラブ・アンド・エール）は[DJ和](https://ja.wikipedia.org/wiki/DJ和 "wikilink")のリミックスによるコンピレーション・アルバム。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、[ビーイング](../Page/ビーイング.md "wikilink")から発売予定。
+『**キミが好きだと叫びたい 〜Love & Yell〜**』（きみがすきだとさけびたい ラブ・アンド・エール）は、[DJ和](https://ja.wikipedia.org/wiki/DJ和 "wikilink")のミックス[アルバム](../Page/アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、[ビーイング](../Page/ビーイング.md "wikilink")から発売。
 
 ## 概要
 
@@ -44,7 +44,7 @@
 
 ## 脚注
 
-[Category:ビーイング関連アルバム](https://ja.wikipedia.org/wiki/Category:ビーイング関連アルバム "wikilink") [Category:2020年のコンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のコンピレーション・アルバム "wikilink")
+[Category:ビーイング関連アルバム](https://ja.wikipedia.org/wiki/Category:ビーイング関連アルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink") [Category:ミックスCD](https://ja.wikipedia.org/wiki/Category:ミックスCD "wikilink")
 
 1.  [ZARD、WANDS…90年代の名曲集結　ビーイングとソニーがコラボ](https://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2020031702000184.html) [東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")（2020年3月17日発行、2020年3月25日閲覧）
 2.  [青春が蘇る90年代ビーイング曲メインのミックスCD「キミが好きだと叫びたい」発売](https://natalie.mu/music/news/371496) [音楽ナタリー](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")（2020年3月17日発行、2020年3月25日閲覧）

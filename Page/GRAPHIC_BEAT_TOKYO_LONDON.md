@@ -1,7 +1,7 @@
 > この記事は[GRAPHIC BEAT TOKYO LONDON](https://ja.wikipedia.org/wiki/GRAPHIC_BEAT_TOKYO_LONDON)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:GRAPHIC.jpg "wikilink") 『**GRAPHIC BEAT TOKYO LONDON**』は、[PIE BOOKSが発行したグラフィック](https://ja.wikipedia.org/wiki/PIE_BOOKS "wikilink")・デザイナーの作品集。[1992年](../Page/1992年.md "wikilink")5月22日に刊行された。
+『**GRAPHIC BEAT TOKYO LONDON**』は、[PIE BOOKSが発行したグラフィック](https://ja.wikipedia.org/wiki/PIE_BOOKS "wikilink")・デザイナーの作品集。[1992年](../Page/1992年.md "wikilink")5月22日に刊行された。
 
 [アートディレクター](../Page/アートディレクター.md "wikilink")はパトリック・グローバー、[編集者](../Page/編集者.md "wikilink")は青山文子、門多伸市、平田義、ジュンコ・ウオング。
 
@@ -14,8 +14,8 @@
 ## 特色
 
   - [グラフィック・デザイナー](https://ja.wikipedia.org/wiki/グラフィック・デザイナー "wikilink")の作品集ではあるが、一般作品のみならずARTも積極的に紹介するなど[サブカルチャー](../Page/サブカルチャー.md "wikilink")志向でもある。
-  - [サムネイル主に](https://ja.wikipedia.org/wiki/ファイル:Side.jpg.jpg "wikilink")、若者に人気のある[ロンドン](../Page/ロンドン.md "wikilink")・[東京の](../Page/東京都.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[タレント](../Page/タレント.md "wikilink")などの作品を、起用している。
-  -
+  - 主に、若者に人気のある[ロンドン](../Page/ロンドン.md "wikilink")・[東京の](../Page/東京都.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[タレント](../Page/タレント.md "wikilink")などの作品を、起用している。
+
 ## 登録情報
 
   - ハードカバー: 222ページ

@@ -31,6 +31,10 @@
 
 ## 脚注
 
-[Category:TOKYO_MXの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの番組の歴史 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink")
+## 外部リンク
+
+  - [TOKYO おはようスクール - TOKYO MX](https://s.mxtv.jp/variety/ohayo_school/)
+
+[Category:TOKYO_MXの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの番組の歴史 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:学校放送](https://ja.wikipedia.org/wiki/Category:学校放送 "wikilink") [Category:ローカルテレビ局の教育番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の教育番組 "wikilink") [Category:子供向けテレビ番組](https://ja.wikipedia.org/wiki/Category:子供向けテレビ番組 "wikilink")
 
 1.  [休校中の小学生向けに生活・学習を支援する番組 『TOKYO おはようスクール』を4月15日(水)から放送\!](https://s.mxtv.jp/company/press/pdf/press2020_50001.pdf)

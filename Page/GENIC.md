@@ -124,6 +124,24 @@
 </tbody>
 </table>
 
+## 愛称
+
+| メンバー                                                                                                                                                                             | 愛称                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink")</small>                                                                                                             | <small>敦貴 あっちゃん</small>                                          |
+| <small>[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink")</small>                                                                                                               | <small>呈</small>                                                 |
+| <small>[雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>                                                                                                               | <small>翔 かーくん</small>                                            |
+| <small>[西本茉生](https://ja.wikipedia.org/wiki/西本茉生 "wikilink")</small>                                                                                                             | <small>茉生 まいまい リーダー</small>                                      |
+| <small>[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink")</small>                                                                                                             | <small>鞠杏 まりあんぬ かねまり</small>                                     |
+| <small>[小池竜暉](https://ja.wikipedia.org/wiki/小池竜暉 "wikilink")</small>                                                                                                             | <small>竜暉 ナン王子 こいけちゃん きゅうり りゅーちゃん りゅーくん りゅーたん りゅう こいけちゃん</small> |
+| <small>[宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                                                                           | <small>優良梨 ぴゅらり</small>                                          |
+| <small>[金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink") [宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                     | <small>うぃんぬ(UinU)</small>                                        |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink") [宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small> | <small>紫トリオ</small>                                              |
+| <small>[西澤呈](https://ja.wikipedia.org/wiki/西澤呈 "wikilink") [金谷鞠杏](https://ja.wikipedia.org/wiki/金谷鞠杏 "wikilink") [雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>     | <small>じょうかけんぬ</small>                                           |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [雨宮翔](https://ja.wikipedia.org/wiki/雨宮翔 "wikilink")</small>                                                         | <small>あつかけ</small>                                              |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [宇井優良梨](https://ja.wikipedia.org/wiki/宇井優良梨 "wikilink")</small>                                                     | <small>あつゆら 紫兄妹</small>                                          |
+| <small>[増子敦貴](https://ja.wikipedia.org/wiki/増子敦貴 "wikilink") [西本茉生](https://ja.wikipedia.org/wiki/西本茉生 "wikilink") [小池竜暉](https://ja.wikipedia.org/wiki/小池竜暉 "wikilink")</small> | <small>年長組 おやじ組</small>                                          |
+
 ## ディスコグラフィー
 
 ### オリジナルアルバム
@@ -163,6 +181,38 @@
 | [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[34\]  | サブスクリプション音楽ストリーミングサービス |
 | [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[35\] | サブスクリプション音楽ストリーミングサービス |
 
+## ライブ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>タイトル</p></th>
+<th><p>規模・月日・会場</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p><strong>GENIC LIVE TOUR 2020 -GENEX-</strong></p></td>
+<td><p>6月7日 【大阪】americamura FANJ twice</p>
+<p>6月13日【福岡】FUKUOKA BEAT STATION</p>
+<p>6月14日【愛知】JAMMIN'</p>
+<p>6月27日【宮城】仙台<a href="https://ja.wikipedia.org/wiki/Rensa" title="wikilink">Rensa</a></p>
+<p>7月11日【東京】harevutai</p>
+<p>7月12日【東京】harevutai（追加公演）</p></td>
+<td><p>グループ初のライブツアー</p></td>
+</tr>
+</tbody>
+</table>
+
+## タイアップ
+
+| 曲名              | タイアップ先                           | 収録作品           |
+| --------------- | -------------------------------- | -------------- |
+| BURNIN' BURNIN' | ドラマ＆舞台連動プロジェクト「KING OF DANCE」主題歌 | 1stアルバム「GENEX」 |
+
 ## 脚注
 
 ## 外部リンク
@@ -188,6 +238,11 @@
       -
       -
       -
+      -
+      -
+  - TikTok
+      - [GENIC staff](https://vt.tiktok.com/hGBqqx/genic_staff/)(genic_staff) - オフィシャル[TikTok](https://ja.wikipedia.org/wiki/TikTok "wikilink")
+
       -
       -
 [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:日本のダンス](https://ja.wikipedia.org/wiki/Category:日本のダンス "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

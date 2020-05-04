@@ -1,7 +1,7 @@
 > この記事は[FM聴](https://ja.wikipedia.org/wiki/FM聴)から翻訳されています。
 
 
-**FM聴**は[近畿コンピュータサービス株式会社](https://ja.wikipedia.org/wiki/近畿コンピュータサービス株式会社 "wikilink")によって製作された全国のコミュニティFM局が聴ける携帯アプリ\[1\]。
+**FM聴**は[近畿コンピュータサービス](https://ja.wikipedia.org/wiki/近畿コンピュータサービス "wikilink")株式会社によって製作された全国のコミュニティFM局が聴ける携帯アプリ\[1\]。
 
 ## 特徴
 

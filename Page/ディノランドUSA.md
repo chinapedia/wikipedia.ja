@@ -19,7 +19,7 @@
 
   - ボーンヤード（*The Boneyard*）
   - [ダイナソー（絶滅へのカウントダウン）](https://ja.wikipedia.org/wiki/ダイナソー_\(アトラクション\) "wikilink")（*DINOSAUR (formerly Countdown to Extinction)*）…類似アトラクションに[ディズニーランド](../Page/ディズニーランド.md "wikilink")や[ディズニーシーにある](../Page/東京ディズニーシー.md "wikilink")[インディ・ジョーンズ・アドベンチャー](../Page/インディ・ジョーンズ・アドベンチャー.md "wikilink")がある。
-  - ファインディング・ニモ-ザ・マジカル（*Finding Nemo - The Musical*）
+  - ファインディング・ニモ-ザ・ミュージカル（*Finding Nemo - The Musical*）
   - ディノ・スー（*Dino-Sue*）
   - クレラセアス・トレイル（*Cretaceous Trail*）
   - チェスター・アンド・ヘスターのディノ・ラマ（*Chester and Hester's Dino-Rama*）

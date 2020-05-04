@@ -49,7 +49,7 @@
 
   - [本田技研工業](../Page/本田技研工業.md "wikilink")
   - [ホンダ・ヴェゼル](https://ja.wikipedia.org/wiki/ホンダ・ヴェゼル "wikilink") - ホンダのコンパクトSUV。
-  - [ホンダ・WR-V](https://ja.wikipedia.org/wiki/ホンダ・WR-V "wikilink") - ホンダのコンパクトSUV。
+  - [ホンダ・WR-V](../Page/ホンダ・WR-V.md "wikilink") - ホンダのコンパクトSUV。
   - [ホンダ・CR-V](../Page/ホンダ・CR-V.md "wikilink") - ホンダのミドルサイズSUV。
 
 ## 外部リンク

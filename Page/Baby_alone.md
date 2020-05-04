@@ -1,7 +1,7 @@
 > この記事は[Baby alone](https://ja.wikipedia.org/wiki/Baby_alone)から翻訳されています。
 
 
-『**Baby alone**』（ベイビー・アローン）は、[山下久美子](../Page/山下久美子.md "wikilink")の12th[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、[1988年](../Page/1988年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink") / BODYから発売された。
+『**Baby alone**』（ベイビー・アローン）は、[山下久美子](../Page/山下久美子.md "wikilink")の12th[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、[1988年](../Page/1988年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink") / BODYから発売された。
 
 ## 概要
 
@@ -25,7 +25,7 @@
 2.  **優しくしたいの**
 3.  **逢いたい**
 4.  **[微笑みのその前で](https://ja.wikipedia.org/wiki/微笑みのその前で "wikilink")**
-      - アルバムと同日に、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
+      - 先行シングル。
 5.  **C'est la vie**
 
 ### SIDE B

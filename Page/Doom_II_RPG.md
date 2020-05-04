@@ -1,7 +1,7 @@
 > この記事は[Doom II RPG](https://ja.wikipedia.org/wiki/Doom_II_RPG)から翻訳されています。
 
 
-『**Doom II RPG**』（**ドゥームツー アールピージー**）は、[id Softwareが開発](https://ja.wikipedia.org/wiki/id_Software "wikilink")・発売した[ファーストパーソンシューティング](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。本作は『[Doom RPG](https://ja.wikipedia.org/wiki/Doom_RPG "wikilink")』の続編である。2009年11月23日に携帯電話向けに、2010年2月8日に[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")向けに配信された\[1\]。本作は「*Wolfenstein RPG」*エンジンを使用している。
+『**Doom II RPG**』（**ドゥームツー アールピージー**）は、[id Softwareが開発](https://ja.wikipedia.org/wiki/id_Software "wikilink")・発売した[ファーストパーソンシューティング](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。本作は『[Doom RPG](../Page/Doom_RPG.md "wikilink")』の続編である。2009年11月23日に携帯電話向けに、2010年2月8日に[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")向けに配信された\[1\]。本作は「*Wolfenstein RPG」*エンジンを使用している。
 
 ## 評価
 

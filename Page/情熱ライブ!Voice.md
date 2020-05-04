@@ -1,7 +1,7 @@
 > この記事は[情熱ライブ!Voice](https://ja.wikipedia.org/wiki/情熱ライブ!Voice)から翻訳されています。
 
 
-『**情熱ライブ\!Voice**』（じょうねつライブ\!ボイス）とは、[OBSラジオで放送されている](https://ja.wikipedia.org/wiki/大分放送 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送開始。
+『**情熱ライブ\!Voice**』（じょうねつライブ\!ボイス）とは、[OBSラジオで放送されている](../Page/大分放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送開始。
 
 ## 概要
 

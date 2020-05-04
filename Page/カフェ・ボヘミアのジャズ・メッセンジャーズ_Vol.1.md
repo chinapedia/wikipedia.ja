@@ -3,7 +3,7 @@
 
 『**カフェ・ボヘミアのジャズ・メッセンジャーズ Vol.1**』 (*At the Cafe Bohemia, Vol. 1*) は、[ブルーノート・レコード](../Page/ブルーノート・レコード.md "wikilink")からリリースされた[ジャズ・メッセンジャーズ](https://ja.wikipedia.org/wiki/ジャズ・メッセンジャーズ "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[アート・ブレイキー](../Page/アート・ブレイキー.md "wikilink")が生涯にわたって維持したバンドであるジャズ・メッセンジャーズの結成当初のオリジナル・メンバーによる演奏を、[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[グリニッジ・ヴィレッジ](../Page/グリニッジ・ヴィレッジ.md "wikilink")にあった有名な[ナイトクラブ](../Page/ナイトクラブ.md "wikilink")、[カフェ・ボヘミア](../Page/カフェ・ボヘミア.md "wikilink")で、[1955年](../Page/1955年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に収録した2枚のアルバムの1枚目である。
 
-[2001年](../Page/2001年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")にリイシューされたCDには、当夜の演奏から、「[レディ・バード](https://ja.wikipedia.org/wiki/レディ・バード_\(曲\) "wikilink") ([Lady Bird](https://ja.wikipedia.org/wiki/:en:Lady_Bird_\(composition\) "wikilink"))」、「ディサイファリング・ザ・メッセージ (Deciphering the Message)」、「[ホワッツ・ニュー](../Page/ホワッツ・ニュー.md "wikilink") ([What's New?](https://ja.wikipedia.org/wiki/:en:What's_New? "wikilink"))」の3曲が追加された。
+[2001年](../Page/2001年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")にリイシューされたCDには、当夜の演奏から、「[レディ・バード](https://ja.wikipedia.org/wiki/レディ・バード_\(曲\) "wikilink") ([Lady Bird](https://ja.wikipedia.org/wiki/:en:Lady_Bird_\(composition\) "wikilink"))」、「ディサイファリング・ザ・メッセージ (Deciphering the Message)」、「[ホワッツ・ニュー](https://ja.wikipedia.org/wiki/ホワッツ・ニュー_\(曲\) "wikilink") ([What's New?](https://ja.wikipedia.org/wiki/:en:What's_New? "wikilink"))」の3曲が追加された。
 
 ## 評価
 
@@ -20,7 +20,7 @@
       -
         （以下は、リイシュー盤の[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")）
 7.  [レディ・バード](https://ja.wikipedia.org/wiki/レディ・バード_\(曲\) "wikilink") / [Lady Bird](https://ja.wikipedia.org/wiki/:en:Lady_Bird_\(composition\) "wikilink")) (reissue bonus track)（[タッド・ダメロン](https://ja.wikipedia.org/wiki/タッド・ダメロン "wikilink")）- 7:30
-8.  [ホワッツ・ニュー](../Page/ホワッツ・ニュー.md "wikilink") / [What's New?](https://ja.wikipedia.org/wiki/:en:What's_New? "wikilink") (reissue bonus track)（、）- 4:31
+8.  [ホワッツ・ニュー](https://ja.wikipedia.org/wiki/ホワッツ・ニュー_\(曲\) "wikilink") / [What's New?](https://ja.wikipedia.org/wiki/:en:What's_New? "wikilink") (reissue bonus track)（、）- 4:31
 9.  ディサイファリング・ザ・メッセージ / Deciphering the Message (reissue bonus track)（[ハンク・モブレー](../Page/ハンク・モブレー.md "wikilink")）- 10:13
 
 ## パーソネル

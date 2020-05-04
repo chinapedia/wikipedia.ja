@@ -41,6 +41,6 @@
 
   -
   -
-[Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:スタジオ](https://ja.wikipedia.org/wiki/Category:スタジオ "wikilink") [Category:日本のプロレス会場](https://ja.wikipedia.org/wiki/Category:日本のプロレス会場 "wikilink") [Category:東京都のコンサート会場](https://ja.wikipedia.org/wiki/Category:東京都のコンサート会場 "wikilink")
+[Category:ライブハウス](https://ja.wikipedia.org/wiki/Category:ライブハウス "wikilink") [Category:日本のスタジオ](https://ja.wikipedia.org/wiki/Category:日本のスタジオ "wikilink") [Category:日本のプロレス会場](https://ja.wikipedia.org/wiki/Category:日本のプロレス会場 "wikilink") [Category:東京都のコンサート会場](https://ja.wikipedia.org/wiki/Category:東京都のコンサート会場 "wikilink")
 
 1.  [週刊プロレス](../Page/週刊プロレス.md "wikilink")2016年11月16日号(No.1876) p.112 復刻 全国の会場ガイド 第115回 王子BASEMENT MON☆STAR

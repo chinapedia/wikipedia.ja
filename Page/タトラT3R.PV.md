@@ -45,7 +45,7 @@
 
 ### 出典
 
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:アライアンスTW製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アライアンスTW製の鉄道車両 "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:スロバキアの路面電車車両](https://ja.wikipedia.org/wiki/Category:スロバキアの路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ヴォルゴグラード市電](https://ja.wikipedia.org/wiki/Category:ヴォルゴグラード市電 "wikilink") [Category:2002年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2002年製の鉄道車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:アライアンスTW製の鉄道車両](https://ja.wikipedia.org/wiki/Category:アライアンスTW製の鉄道車両 "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:スロバキアの路面電車車両](https://ja.wikipedia.org/wiki/Category:スロバキアの路面電車車両 "wikilink") [Category:クロアチアの路面電車車両](https://ja.wikipedia.org/wiki/Category:クロアチアの路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ヴォルゴグラード市電](https://ja.wikipedia.org/wiki/Category:ヴォルゴグラード市電 "wikilink") [Category:2002年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2002年製の鉄道車両 "wikilink")
 
 1.
 2.

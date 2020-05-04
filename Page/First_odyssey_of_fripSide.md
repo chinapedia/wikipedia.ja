@@ -130,7 +130,7 @@
 <!-- end list -->
 
   - [nao](https://ja.wikipedia.org/wiki/nao_\(1985年生の歌手\) "wikilink")：[vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")：[synthesizer programing](../Page/シンセサイザー.md "wikilink")、[guiters](../Page/ギター.md "wikilink")
+  - [八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")：[synthesizer programing](../Page/シンセサイザー.md "wikilink")、[guitars](../Page/ギター.md "wikilink")
 
 <!-- end list -->
 
@@ -140,11 +140,10 @@
 
   - Masahiro Wada（azure）：synthesizer programing (\#6)
   - [HEAVENS WiRE](https://ja.wikipedia.org/wiki/松本祥平 "wikilink")：synthesizer programing (\#10)
-  - [Atsushi "a2c" Yokoyama](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：guiters (\#6)
+  - [Atsushi "a2c" Yokoyama](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：guitars (\#6)
 
 ## 外部リンク　
 
-  - 公式サイトによる紹介ページ
-      - [1](http://fripside.net/disc_a1.php)
+  - [公式サイトによる紹介ページ](http://fripside.net/disc_a1.php)
 
 [Category:fripSideのアルバム](https://ja.wikipedia.org/wiki/Category:fripSideのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")

@@ -50,6 +50,33 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2020/04/29</p></td>
+<td><p>Asayake Breaks Record dictionary</p></td>
+<td><p>※配信用</p></td>
+<td><ul>
+<li>01: Emerald Flowsion (feat. EELMAN)</li>
+<li>02: Asayake Beat (feat. EELMAN)</li>
+<li>03: OH! YES! (feat. EELMAN)</li>
+<li>04: 4 Words Hardens</li>
+<li>05: Last Raid</li>
+<li>06: Free Throws of Aman</li>
+<li>07: oto-no-hosomichi (feat. cello aka massan)</li>
+<li>08: Moonsalto Press (feat. cello aka massan)</li>
+<li>09: Elbow Rock</li>
+<li>10: Gotch Rhythm (IZM)</li>
+<li>11: Burning Hammer</li>
+<li>12: kick of No.16</li>
+<li>13: Rock Up</li>
+<li>14: A.B.C. (feat. バケラッタ &amp; SHINO)</li>
+<li>15: R Scorpion</li>
+<li>16: A Train Rana (feat. SMRYTRPS)</li>
+<li>17: Giant BB Chop</li>
+<li>18: Soul of INK.</li>
+<li>19: Si-rutu "D" Screw</li>
+<li>20: YOU KNOW!? (feat. Marleys)</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><p>2004/07/14</p></td>
 <td><p>Asayake Breaks</p></td>
 <td><p>HCCD-9506</p></td>
@@ -71,7 +98,7 @@
 <li>15: out breaks</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007/05/16</p></td>
 <td><p>Asayake Breaks 2</p></td>
 <td><p>HCCD-9522</p></td>
@@ -91,7 +118,7 @@
 <li>13: Breaks F</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -274,12 +301,6 @@
 <td><ul>
 <li>no brake Siliconvalley 収録</li>
 </ul></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

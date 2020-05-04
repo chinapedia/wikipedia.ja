@@ -3,7 +3,7 @@
 
 『**オペレーションZ**』（オペレーションゼット）は、[真山仁](../Page/真山仁.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[長編](../Page/長編小説.md "wikilink")[経済小説](https://ja.wikipedia.org/wiki/経済小説 "wikilink")\[1\]。『[新潮45](../Page/新潮45.md "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）[2014年](../Page/2014年.md "wikilink")10月号\[2\]から[2017年](../Page/2017年.md "wikilink")3月号\[3\]に連載、新潮社より2017年[10月20日](../Page/10月20日.md "wikilink")に刊行された。[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")直後の[東欧への取材をもとに](../Page/東ヨーロッパ.md "wikilink")\[4\]、[デフォルトという国家財政破綻の危機に瀕した日本で](https://ja.wikipedia.org/wiki/デフォルト_\(金融\) "wikilink")[首相の密命により組織されたエリート](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")[財務](../Page/財務省_\(日本\).md "wikilink")[官僚](../Page/官僚.md "wikilink")チーム「OZ（オペレーションZ）」が[国家予算半減という実現困難な至上命令に挑むさまを描く](https://ja.wikipedia.org/wiki/予算_\(日本\)#国家予算 "wikilink")\[5\]\[6\]。
 
-『**オペレーションZ 〜日本破滅、待ったなし〜**』（オペレーションZ にほんはめつ まったなし）と題し[WOWOW](../Page/WOWOW.md "wikilink")「[連続ドラマW](../Page/ドラマW.md "wikilink")」にて[草刈正雄](../Page/草刈正雄.md "wikilink")主演で[テレビドラマ](../Page/テレビドラマ.md "wikilink")化され、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から放送されている。
+『**オペレーションZ 〜日本破滅、待ったなし〜**』（オペレーションZ にほんはめつ まったなし）と題し[WOWOW](../Page/WOWOW.md "wikilink")「[連続ドラマW](../Page/ドラマW.md "wikilink")」にて[草刈正雄](../Page/草刈正雄.md "wikilink")主演で[テレビドラマ](../Page/テレビドラマ.md "wikilink")化され、[2020年](../Page/2020年.md "wikilink")に放送された。
 
 ## あらすじ
 
@@ -33,7 +33,7 @@
 
 ## テレビドラマ
 
-『**オペレーションZ〜日本破滅、待ったなし〜**』（オペレーションZ にほんはめつ まったなし）のタイトルにおいて、[WOWOW](../Page/WOWOW.md "wikilink")「[連続ドラマW](../Page/ドラマW.md "wikilink")」で[2020年](../Page/2020年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")から[4月19日](../Page/4月19日.md "wikilink")（予定）まで全6回に渡って放送されている\[7\]。主演は[草刈正雄](../Page/草刈正雄.md "wikilink")。
+『**オペレーションZ〜日本破滅、待ったなし〜**』（オペレーションZ にほんはめつ まったなし）のタイトルにおいて、[WOWOW](../Page/WOWOW.md "wikilink")「[連続ドラマW](../Page/ドラマW.md "wikilink")」で[2020年](../Page/2020年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")から[4月19日](../Page/4月19日.md "wikilink")まで全6回に渡って放送された\[7\]。主演は[草刈正雄](../Page/草刈正雄.md "wikilink")。
 
 ### キャスト
 
@@ -94,13 +94,14 @@
 
 ### 放送日程
 
-| 話数  | 放送日   | 監督        |
-| --- | ----- | --------- |
-| 第1話 | 3月15日 |           |
-| 第2話 | 3月22日 |           |
-| 第3話 | 3月29日 |           |
-| 第4話 | 4月5日  | \<\!-- |- |
-| 最終話 | 4月19日 | \--\>     |
+| 話数  | 放送日   |
+| --- | ----- |
+| 第1話 | 3月15日 |
+| 第2話 | 3月22日 |
+| 第3話 | 3月29日 |
+| 第4話 | 4月5日  |
+| 第5話 | 4月12日 |
+| 最終話 | 4月19日 |
 
 ## 脚注
 

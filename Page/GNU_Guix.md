@@ -1,7 +1,7 @@
 > この記事は[GNU Guix](https://ja.wikipedia.org/wiki/GNU_Guix)から翻訳されています。
 
 
-**GNU Guix**は、クロスプラットフォームのパッケージマネージャで、インスタンス生成とOSの管理を[UNIX系](https://ja.wikipedia.org/wiki/UNIX系 "wikilink")でするためのツールでもある。[Guile](https://ja.wikipedia.org/wiki/Guile "wikilink")スキーム[API](https://ja.wikipedia.org/wiki/API "wikilink")を持つNixパッケージマネージャに基き、完全に[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である\[1\]。伝統的なパッケージマネージャと異なり、GuixはNixのように、ソフトウェアは[ハッシュ](https://ja.wikipedia.org/wiki/ハッシュ "wikilink")によって生成された単一のディレクトリにインストールされるという、純粋に関数的なデプロイのモデルを利用している。それぞれのソフトウェアの依存関係はそれぞれのハッシュに含まれており、依存地獄の問題を解決する\[2\]。このパッケージ管理に対するアプローチは、より信頼性があり、再生産的で、ポータブルなパッケージを生成することを約束する\[3\] 。
+**GNU Guix**は、クロスプラットフォームのパッケージマネージャで、インスタンス生成とOSの管理を[UNIX系](https://ja.wikipedia.org/wiki/UNIX系 "wikilink")でするためのツールでもある。[Guile](https://ja.wikipedia.org/wiki/Guile "wikilink")スキーム[APIを持つNixパッケージマネージャに基き](../Page/アプリケーションプログラミングインタフェース.md "wikilink")、完全に[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である\[1\]。伝統的なパッケージマネージャと異なり、GuixはNixのように、ソフトウェアは[ハッシュ](https://ja.wikipedia.org/wiki/ハッシュ "wikilink")によって生成された単一のディレクトリにインストールされるという、純粋に関数的なデプロイのモデルを利用している。それぞれのソフトウェアの依存関係はそれぞれのハッシュに含まれており、依存地獄の問題を解決する\[2\]。このパッケージ管理に対するアプローチは、より信頼性があり、再生産的で、ポータブルなパッケージを生成することを約束する\[3\] 。
 
 GNU Guixの開発は、Guixシステムの開発と絡み合っており、これは完全にインストール可能なGNUシステムで[Linux-libre](https://ja.wikipedia.org/wiki/Linux-libre "wikilink")カーネルとGNU Shephered [init](https://ja.wikipedia.org/wiki/init "wikilink")システムを用いている\[4\]。
 

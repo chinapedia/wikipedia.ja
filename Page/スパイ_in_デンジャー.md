@@ -15,18 +15,18 @@
 
 ## キャスト
 
-| 役名         | **原語版声優**                                                             | **日本語吹替**                                             |
-| ---------- | --------------------------------------------------------------------- | ----------------------------------------------------- |
-| ランス・スターリング | [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")                              | [江原正士](../Page/江原正士.md "wikilink")                    |
-| ウォルター・ベケット | [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")    | [野村周平](https://ja.wikipedia.org/wiki/野村周平 "wikilink") |
-| マーシー・カペル   | [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")       | [中村千絵](../Page/中村千絵.md "wikilink")                    |
-| キリアン       | [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")     | [高嶋政伸](../Page/高嶋政伸.md "wikilink")                    |
-| ジョイ・ジェンキンス | [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")   | [大地真央](../Page/大地真央.md "wikilink")                    |
-| ウェンディ・ベケット | [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") | [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") |
-| アイズ        | [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")           | [森夏姫](../Page/森夏姫.md "wikilink")                      |
-| イアーズ       | [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")             | [藤森慎吾](../Page/藤森慎吾.md "wikilink")                    |
-| カツ・キムラ     | [マシ・オカ](../Page/マシ・オカ.md "wikilink")                                  | [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink") |
-| ジェラルディン    | [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")         |                                                       |
+| 役名         | **原語版声優**                                                             |
+| ---------- | --------------------------------------------------------------------- |
+| ランス・スターリング | [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")                              |
+| ウォルター・ベケット | [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")    |
+| マーシー・カペル   | [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")       |
+| キリアン       | [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")     |
+| ジョイ・ジェンキンス | [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")   |
+| ウェンディ・ベケット | [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") |
+| アイズ        | [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")           |
+| イアーズ       | [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")             |
+| カツ・キムラ     | [マシ・オカ](../Page/マシ・オカ.md "wikilink")                                  |
+| ジェラルディン    | [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")         |
 
 ## 製作
 
@@ -40,13 +40,15 @@
 
 なお、本作は[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")がスタジオ名を[20世紀スタジオ](../Page/20世紀スタジオ.md "wikilink")に変更する前に、20世紀フォックスの名前で公開された最後のフォックスアニメーション映画である\[12\]。
 
+日本では、[ウォルト・ディズニー・ジャパン](../Page/ウォルト・ディズニー・ジャパン.md "wikilink")の配給で5月22日に劇場公開予定だったが\[13\]、5月1日に[新型コロナウイルス](https://ja.wikipedia.org/wiki/新型コロナウイルス "wikilink")の影響で本作の劇場公開中止が発表された。なお本作は、年内にディズニー公式動画配信サービスでの配信が発表されている\[14\]。
+
 ## 興行収入
 
-本作は『[ストーリー・オブ・マイライフ/わたしの若草物語](https://ja.wikipedia.org/wiki/ストーリー・オブ・マイライフ/わたしの若草物語 "wikilink")』と同じ週に封切られ、公開初週末に1100万ドル前後を稼ぎ出すと予想されていたが\[13\]、実際の数字はそれを若干上回るものとなった。2019年12月25日、本作は全米3502館で公開され、公開初週末に1335万ドルを稼ぎ出し、週末興行収入ランキング初登場5位となった\[14\]。
+本作は『[ストーリー・オブ・マイライフ/わたしの若草物語](https://ja.wikipedia.org/wiki/ストーリー・オブ・マイライフ/わたしの若草物語 "wikilink")』と同じ週に封切られ、公開初週末に1100万ドル前後を稼ぎ出すと予想されていたが\[15\]、実際の数字はそれを若干上回るものとなった。2019年12月25日、本作は全米3502館で公開され、公開初週末に1335万ドルを稼ぎ出し、週末興行収入ランキング初登場5位となった\[16\]。
 
 ## 評価
 
-本作は批評家から好意的に評価されている。映画批評集積サイトの[Rotten Tomatoesには](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")117件のレビューがあり、批評家支持率は75%、平均点は10点満点で6.48点となっている。サイト側による批評家の見解の要約は「キャスト陣の好演のお陰で、誰でも楽しめる冒険アニメに仕上がっている。『スパイ in デンジャー』はファミリー層向けの面白い作品であり、ストーリーの進むペースが速いのも満足するに足る。」となっている\[15\]。また、[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")には22件のレビューがあり、加重平均値は54/100となっている\[16\]。なお、本作の[シネマスコア](https://ja.wikipedia.org/wiki/シネマスコア "wikilink")はA-となっている\[17\]。
+本作は批評家から好意的に評価されている。映画批評集積サイトの[Rotten Tomatoesには](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")117件のレビューがあり、批評家支持率は75%、平均点は10点満点で6.48点となっている。サイト側による批評家の見解の要約は「キャスト陣の好演のお陰で、誰でも楽しめる冒険アニメに仕上がっている。『スパイ in デンジャー』はファミリー層向けの面白い作品であり、ストーリーの進むペースが速いのも満足するに足る。」となっている\[17\]。また、[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")には22件のレビューがあり、加重平均値は54/100となっている\[18\]。なお、本作の[シネマスコア](https://ja.wikipedia.org/wiki/シネマスコア "wikilink")はA-となっている\[19\]。
 
 ## 出典
 
@@ -56,7 +58,7 @@
   -
   -
   -
-[Category:2019年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2019年のアニメ映画 "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アメリカ合衆国の冒険映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の冒険映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国のスパイ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスパイ映画 "wikilink") [Category:コンピュータアニメーション映画](https://ja.wikipedia.org/wiki/Category:コンピュータアニメーション映画 "wikilink") [Category:短編映画が原作の長編映画](https://ja.wikipedia.org/wiki/Category:短編映画が原作の長編映画 "wikilink") [Category:テロリズムを題材にした映画作品](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした映画作品 "wikilink") [Category:日本を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:日本を舞台とした映画作品 "wikilink") [Category:ヴェネツィアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ヴェネツィアを舞台とした映画作品 "wikilink") [Category:メキシコを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:メキシコを舞台とした映画作品 "wikilink") [Category:ワシントンD.C.を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.を舞台とした映画作品 "wikilink") [Category:セオドア・シャピロの作曲映画](https://ja.wikipedia.org/wiki/Category:セオドア・シャピロの作曲映画 "wikilink") [Category:20世紀フォックスのアニメ映画](https://ja.wikipedia.org/wiki/Category:20世紀フォックスのアニメ映画 "wikilink") [Category:ブルースカイ・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ブルースカイ・スタジオの映画作品 "wikilink")
+[Category:2019年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2019年のアニメ映画 "wikilink") [Category:2020年のWebアニメ](https://ja.wikipedia.org/wiki/Category:2020年のWebアニメ "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のアニメ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアニメ映画 "wikilink") [Category:アメリカ合衆国の冒険映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の冒険映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国のスパイ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスパイ映画 "wikilink") [Category:コンピュータアニメーション映画](https://ja.wikipedia.org/wiki/Category:コンピュータアニメーション映画 "wikilink") [Category:短編映画が原作の長編映画](https://ja.wikipedia.org/wiki/Category:短編映画が原作の長編映画 "wikilink") [Category:テロリズムを題材にした映画作品](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした映画作品 "wikilink") [Category:日本を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:日本を舞台とした映画作品 "wikilink") [Category:ヴェネツィアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ヴェネツィアを舞台とした映画作品 "wikilink") [Category:メキシコを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:メキシコを舞台とした映画作品 "wikilink") [Category:ワシントンD.C.を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ワシントンD.C.を舞台とした映画作品 "wikilink") [Category:セオドア・シャピロの作曲映画](https://ja.wikipedia.org/wiki/Category:セオドア・シャピロの作曲映画 "wikilink") [Category:20世紀フォックスのアニメ映画](https://ja.wikipedia.org/wiki/Category:20世紀フォックスのアニメ映画 "wikilink") [Category:ブルースカイ・スタジオの映画作品](https://ja.wikipedia.org/wiki/Category:ブルースカイ・スタジオの映画作品 "wikilink")
 
 1.
 2.
@@ -75,3 +77,5 @@
 15.
 16.
 17.
+18.
+19.

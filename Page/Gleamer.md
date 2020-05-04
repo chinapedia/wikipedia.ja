@@ -5,9 +5,11 @@
 
 ## 概要
 
-[2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売。8th Single。
+8thシングル。
 
 前作『[indication](https://ja.wikipedia.org/wiki/indication "wikilink")』に引き続き、2020年の企画「12カ月連続CDリリース」の第3弾。
+
+なお、「gleamer」は[造語](../Page/造語.md "wikilink")である。
 
 ## 収録曲
 

@@ -15,3 +15,5 @@
 ## 外部リンク
 
   - [ラヴィータ-イタリア食品＆情報メルカート-](https://www.lavitait.com/)
+
+[Category:日本の広告代理店](https://ja.wikipedia.org/wiki/Category:日本の広告代理店 "wikilink") [Category:目黒区の企業](https://ja.wikipedia.org/wiki/Category:目黒区の企業 "wikilink") [Category:2014年設立の企業](https://ja.wikipedia.org/wiki/Category:2014年設立の企業 "wikilink")

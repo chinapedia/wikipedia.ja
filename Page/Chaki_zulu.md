@@ -7,6 +7,7 @@
 
 ## 略歴
 
+  - 2020年 4月 kZm アルバム『DISTORTION』プロデュース
   - 2020年 2月 JNKMN アルバム『JNKMN NOW』プロデュース
   - 2020年 1月 Awich アルバム『孔雀』プロデュース
   - 2019年 9月 PETZ アルバム『COSMOS』をプロデュース
@@ -119,6 +120,17 @@
 
 **【インディー】**
 
+  - kZm / Intro – Distortion –
+  - kZm / Star Fish
+  - kZm / 27CLUB feat. LEX (Prod. SIL V3 R 100 & Chaki Zulu)
+  - kZm / Anybody.. feat. 小袋成彬 (Prod. Chaki Zulu & 小袋成彬)
+  - kZm / バグり feat. MonyHorse (Prod. Chaki Zulu)
+  - kZm / G.O.A.T (Prod. Chaki Zulu)
+  - kZm / Give Me Your Something feat. Daichi Yamamoto (Prod. DISK NAGATAKI & Chaki Zulu)
+  - kZm / Fuck U Tokio I Love U\! feat. 5lack (Prod. DISK NAGATAKI & Chaki Zulu)
+  - kZm / 追憶 feat. Yojiro Noda (Prod. Chaki Zulu)
+  - kZm / But She Cries Remix feat. BIM (Prod. Chaki Zulu)
+  - kZm / TEENAGE VIBE feat. Tohji (Prod. Chaki Zulu)
   - JNKMN / Letters feat. Awich
   - JNKMN / My Turn
   - JNKMN / 線の上
@@ -222,6 +234,7 @@
 
 ### アルバム監修　
 
+  - kZm / DISTORTION
   - JNKMN / NOW
   - Awich / 孔雀
   - PETZ / COSMOS
@@ -364,7 +377,7 @@
 
 ## 脚注
 
-[Category:音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の音響技術者](https://ja.wikipedia.org/wiki/Category:日本の音響技術者 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の音響技術者](https://ja.wikipedia.org/wiki/Category:日本の音響技術者 "wikilink") [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink")
 
 1.  「THE LOWBROWS」[About « THE LOWBROWS OFFICIAL WEBSITE](http://thelowbrows.com/about-main/)。
 2.  *Dream in the Desert*, Bang Gang 12 inches, [2009](../Page/2009年.md "wikilink").

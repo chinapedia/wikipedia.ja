@@ -29,7 +29,7 @@
 
 ## 出典
 
-## 参考文献
+## 関連文献
 
   - [Nobel Lecture of Sidney Altman](https://www.nobelprize.org/nobel_prizes/chemistry/laureates/1989/altman-lecture.html), Nobel prize in Chemistry 1989
 

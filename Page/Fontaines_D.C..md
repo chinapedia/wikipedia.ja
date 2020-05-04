@@ -15,7 +15,9 @@ Fontaines D.C.というバンド名は[ゴッドファーザー (映画)の](../
 
 2018年初め、Fontaines D.C.はスプリットシングル"Chequeless Reckless / Boys In The Better Land"、"Too Real"をリリースした。"Chequeless Reckless"をプレミア配信した[ステレオガム](https://ja.wikipedia.org/wiki/ステレオガム "wikilink")は、彼らの音楽を「ポストパンクとガレージロック、そして現実的で都市的な感覚を持ったリズムと物語での総合体」と表現し、彼らをBand To Watchに指名した。
 
-2018年5月、Fontaines D.C.は[シアトル](../Page/シアトル.md "wikilink")にある[ザ・ポーグスの](https://ja.wikipedia.org/wiki/KEXPのラジオ局内で演奏し、放送されたため、アメリカ国内でも取り上げられることとなった。2018年11月、バンドはPertisan_Recordsと契約を交わした。_Hugh_Mulhernによって監督された2018年の"Too_Real"のミュージックビデオは、[[ザ・ポーグス "wikilink")1985年の曲"A Pair of Brown Eyes"、またダブリン出身のバンドGirl Bandに影響を受けている。また、2019年のConor Curleyが共同作曲した"Roy's Tune"は、Liam Papadachiにより監督され、Curleyが勤務先のブリトー店から自宅まで深夜に歩いた経験を反映している。
+2018年5月、Fontaines D.C.は[シアトル](../Page/シアトル.md "wikilink")にある[KEXPのラジオ局内で演奏し](https://ja.wikipedia.org/wiki/:en:KEXP "wikilink")、放送されたため、アメリカ国内でも取り上げられることとなった。2018年11月、バンドはPertisan Recordsと契約を交わした。
+
+Hugh Mulhernによって監督された2018年の"Too Real"のミュージックビデオは、[ザ・ポーグス](https://ja.wikipedia.org/wiki/ザ・ポーグス "wikilink")の1985年の曲"A Pair of Brown Eyes"、またダブリン出身のバンドGirl Bandに影響を受けている。また、2019年のConor Curleyが共同作曲した"Roy's Tune"は、Liam Papadachiにより監督され、Curleyが勤務先のブリトー店から自宅まで深夜に歩いた経験を反映している。
 
 Fontaines D.C.は海外ツアーのための補助をアイルランドアーツカウンシル(Arts Council of Ireland)から受けており、[アイルランド放送協会](../Page/アイルランド放送協会.md "wikilink")のラジオ局 RTÉ 2fmからも補助金が受給されている。
 

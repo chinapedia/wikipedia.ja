@@ -12,17 +12,17 @@
 ## 収録曲
 
 （全9曲）\[2\]
-\*HELLO WORLD
+\*HELLO WORLD \[1:53\]
 
-  - December 9
+  - December 9 \[4:27\]
       - [ACE COLLECTIONを象徴する曲](https://ja.wikipedia.org/wiki/ACE_COLLECTION "wikilink")。本アルバムの表題曲、リード曲である。
-  - 鬱憤
-  - Lady
-  - 君と花したい
-  - Butterfly
-  - BLACK HOLE
-  - LIFEメーカー
-  - ROCK STAR
+  - 鬱憤 \[4:15\]
+  - Lady \[4:38\]
+  - 君と花したい \[5:47\]
+  - Butterfly \[3:22\]
+  - BLACK HOLE \[4:10\]
+  - LIFEメーカー \[2:55\]
+  - ROCK STAR \[3:52\]
 
 ## 脚注
 

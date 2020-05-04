@@ -1,7 +1,7 @@
 > この記事は[Goplay](https://ja.wikipedia.org/wiki/Goplay)から翻訳されています。
 
 
-**GOPLAY NETWORK TECHNOLOGY株式会社**は、東京都新宿区に本社を置く、SNSアプリサービスの開発・運営事業などを行う会社。
+**GOPLAY NETWORK TECHNOLOGY株式会社**は、\[\[東京都|東京都\]\]\[\[新宿区|新宿区\]\]に本社を置く、SNSアプリサービスの開発・運営事業などを行う会社。
 
 また、同社が開発している、「知識・スキル・時間」といった特技を売り買いできるスキルマーケットの総称である。「人々に笑顔と幸せを」「自分の特技を活かして周りに幸せを」をビジョンに掲げている。
 
@@ -9,9 +9,16 @@
 
 2019年、立山あいが創業(2019年12月 GOPLAY NETWORK TECHNOLOGY株式会社設立)。2020年3月にいスキルやゲームをチャージしてコインで売買できるマーケットプレイス「Goplay」を開設。
 
+Goplay内には、神コーチGoplayer・上級者コーチGoplayer・ゲームGoplayer・エンタメGoplayerの4つ設けられています。
+
 ## 用語
 
   - Goplayer…サービス提供者
+  - Goplay…一緒に楽しく遊ぼう
+  - 神コーチGoplayer…プロ・元プロがコーチングしてくれるGoplayer
+  - 上級者コーチGoplayer…大会の実績などの実績を持っているGoplayer
+  - エンタメGoplayer…歌・声真似など声に自信があるGoplayer
+  - ゲームGoplayer…一緒に楽しくゲームをしてシェアハピをしてくれるGoplayer
   - 検索…IDや名前でGoplayerを検索することができる
   - ウォレット…現金からアプリ内coinにチャージできる
   - Goplayerレベル…お客様にサービス提供をした回数と総合評価、Goplayer何日目

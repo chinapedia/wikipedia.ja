@@ -1,7 +1,7 @@
 > この記事は[ODBミニストリーズ](https://ja.wikipedia.org/wiki/ODBミニストリーズ)から翻訳されています。
 
 
-**ODBミニストリーズ**（）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[グランドラピッズに本社を置くキリスト教系](../Page/グランドラピッズ_\(ミシガン州\).md "wikilink")[番組プロダクション](../Page/番組制作会社.md "wikilink")、[出版社](../Page/出版社.md "wikilink")。世界中で利用されるデボーション・ガイド「[デイリーブレッド](https://ja.wikipedia.org/wiki/デイリーブレッド "wikilink")」の発行をしている。
+**ODBミニストリーズ**（）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[グランドラピッズに本社を置くキリスト教系](../Page/グランドラピッズ_\(ミシガン州\).md "wikilink")[番組プロダクション](../Page/番組制作会社.md "wikilink")、[出版社](../Page/出版社.md "wikilink")。世界中で利用されるデボーション・ガイド「[デイリーブレッド](../Page/デイリーブレッド.md "wikilink")」の発行をしている。
 
 2020年現在、世界にある38の事業所から150カ国に58言語で常時6,000部以上の信仰書を提供している\[1\]。
 
@@ -9,7 +9,7 @@
 
 前身である**デトロイト・バイブル・クラス**（Detroit Bible Class）は[1938年](../Page/1938年.md "wikilink")、米国のラジオ番組として始まった\[2\]。その後**ラジオ・バイブル・クラス**（RBC : Radio Bible Class）として改称し、[1994年](../Page/1994年.md "wikilink")に**RBCミニストリーズ**（RBC Ministries）と社名を変更。[2015年](../Page/2015年.md "wikilink")から現社名に変更した\[3\]。
 
-日本オフィスである[有限会社デイリーブレッドは](https://ja.wikipedia.org/wiki/デイリーブレッド "wikilink")[1999年](../Page/1999年.md "wikilink")に奈良県生駒市に設立。翌年12月から日本語版「デイリーブレッド」の発行を始めた\[4\]。
+日本オフィスである[有限会社デイリーブレッドは](../Page/デイリーブレッド.md "wikilink")[1999年](../Page/1999年.md "wikilink")に奈良県生駒市に設立。翌年12月から日本語版「デイリーブレッド」の発行を始めた\[4\]。
 
 ### 年表
 

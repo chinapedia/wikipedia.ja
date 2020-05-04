@@ -1,0 +1,56 @@
+> この記事は[KINTO \(企業\)](https://ja.wikipedia.org/wiki/KINTO_\(企業\))から翻訳されています。
+
+
+**株式会社KINTO（英：KINTO Corporation）**は、[トヨタグループ](../Page/トヨタグループ.md "wikilink")が展開するグローバルなモビリティサービスのブランドである**KINTO**を、日本国内で運営する車の[サブスクリプション](https://ja.wikipedia.org/wiki/サブスクリプション "wikilink")サービスの会社である。3年間で1台、新車のトヨタ車・[レクサス](../Page/レクサス.md "wikilink")車が選べる「KINTO ONE」と、3年で3台もしくは6台のレクサス車が選べる「KINTO FLEX」のサービスを展開している。
+
+## 概要
+
+トヨタ車23車種とレクサス車8車種の新車の中から選べる。頭金なしで税金や任意保険の支払い、メンテナンスなどの手続きもすべてワンパッケージ化した月々定額制で、3年間利用できるサービスである。また、特徴的なのはWEBで契約から申し込みまで行える点である。
+
+## サービスの特徴
+
+  - 契約開始時はクレジット決済でWEBから申し込み可能。月々定額制で頭金が不要である。
+  - 定額料金の中には、「車両・オプション代金」「毎年の自動車税」「自賠責保険」「任意保険」「定期メンテナンス」「故障修理」「登録諸費用」が含まれている。
+  - 契約期間中は1年ごとの自動車にかかる税金の支払い手続きと、新車1か月、6か月無料点検以降6か月毎の定期健診及び、12か月法定点検などのメンテナンス申請手続はKINTOがまとめて代行する。
+  - KINTOで加入している自動車保険は、対人・対物の補償は無制限。修理が必要な場合も自己負担は最大5万円。弁護士費用やロードサービスなど特約のついた任意保険である。
+  - 保険料は契約者の年齢に関係なく一定である。トヨタ、レクサス正規販売店でメンテナンスが受けられて、サポカー補助金も通常と同様、対象車種には適用される。
+  - 契約満了時は車両を返却するだけでよい。契約期間中の中途解約については、解約金が予め明示されており明瞭である。また、海外転勤、免許返納、運転困難時、死亡の場合には中途解約なしで解約可能である。
+  - トヨタのコネクティッドサービスである、T-Connectサービスに対応している車種では、安全でエコな運転をすると愛車ポイントサービスを受けられる。
+
+## サービスの沿革
+
+  - 2019年2月 - 「KINTO SELECT」が東京都内にてトライアルを開始。
+  - 2019年3月 - 「KINTO ONE」東京都内にてトライアルを開始。
+  - 2019年7月 - 「KINTO ONE」全国サービスを開始。
+  - 2019年11月 - 「KINTO ONE FT」（利用期間１年）福岡トヨタにてトライアルを開始。
+  - 2020年1月 - 「2019年日経優秀製品・サービス賞 最優秀賞受賞　日経産業新聞賞」を受賞。
+  - 2020年1月 - 「KINTO ONE」の法人受付、レクサス車の取扱いを開始。
+  - 2020年1月 - 「KINTO ONE」（中古車版）トライアルを開始（2020年3月19日現在、群馬トヨタ U.Park高崎江木店限定）。
+  - 2020年2月 - 「KINTO SELECT」のサービス名称を「KINTO FLEX」に変更し、全国展開を開始。
+  - 2020年5月「のりかえGO」のサービス開始を延期。
+
+## スポンサー
+
+  - [名古屋グランパス](https://ja.wikipedia.org/wiki/名古屋グランパス "wikilink") - プラチナパートナー。（https://nagoya-grampus.jp/club/partner/）
+  - [アルバルク東京](../Page/アルバルク東京.md "wikilink") - プラチナスポンサー。（https://www.alvark-tokyo.jp/sponsors/）
+
+## テレビCM
+
+  - TVCM「定額なる一族」シリーズ 2019年7月1日放送開始（出演：[佐藤浩市](../Page/佐藤浩市.md "wikilink")、[松田翔太](../Page/松田翔太.md "wikilink")、[石橋杏奈](https://ja.wikipedia.org/wiki/石橋杏奈 "wikilink")）
+
+<!-- end list -->
+
+  - TVCM「買うよりお得、らしい。」シリーズ 2020年4月18日放送開始（出演：[菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")、[二階堂ふみ](../Page/二階堂ふみ.md "wikilink")、[矢本悠馬](https://ja.wikipedia.org/wiki/矢本悠馬 "wikilink")）
+
+## 脚注・出典
+
+## 外部リンク
+
+  - [株式会社KINTO コーポレートサイト](https://corp.kinto-jp.com/)
+  - [KINTO ONE](https://kinto-jp.com/kinto_one/)
+  - [公式twitter「KINTO～クルマのサブスク、トヨタから～【キント公式】」](https://twitter.com/KINTO_JP)
+  - [公式instgram「愛車サブスクリプション KINTO」](https://www.instagram.com/kinto_jp/)
+  - [公式Facebook「愛車サブスクリプション KINTO」](https://www.facebook.com/KINTOJP/)
+  - [公式 YouTube「愛車サブスクリプションKINTO」](https://www.youtube.com/channel/UC3ap_PduzYM6MINNeFLRonA)
+
+[Category:トヨタ自動車](https://ja.wikipedia.org/wiki/Category:トヨタ自動車 "wikilink") [Category:トヨタグループ](https://ja.wikipedia.org/wiki/Category:トヨタグループ "wikilink") [Category:日本の自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本の自動車メーカー・ブランド "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:住友商事グループ](https://ja.wikipedia.org/wiki/Category:住友商事グループ "wikilink") [Category:三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:三井住友フィナンシャルグループ "wikilink") [Category:サブスクリプション方式](https://ja.wikipedia.org/wiki/Category:サブスクリプション方式 "wikilink") [Category:モビリティサービス](https://ja.wikipedia.org/wiki/Category:モビリティサービス "wikilink") [Category:MaaS](https://ja.wikipedia.org/wiki/Category:MaaS "wikilink") [Category:テレマティクス](https://ja.wikipedia.org/wiki/Category:テレマティクス "wikilink") [Category:カーリース](https://ja.wikipedia.org/wiki/Category:カーリース "wikilink") [Category:名古屋市西区の企業](https://ja.wikipedia.org/wiki/Category:名古屋市西区の企業 "wikilink") [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink")

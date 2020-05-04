@@ -237,7 +237,9 @@ PlayStation 4・Xbox One・PC用ソフト「DEVIL MAY CRY 5」イメージソン
 
 発売日：未発売
 
-[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")
+## 関連項目
+
+  - [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")
 
 ## 脚注
 

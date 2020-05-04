@@ -37,7 +37,7 @@
 
   - [studio JOSUI](https://josui.photo/)
 
-[Category:スタジオ](https://ja.wikipedia.org/wiki/Category:スタジオ "wikilink") [Category:2019年開業の施設](https://ja.wikipedia.org/wiki/Category:2019年開業の施設 "wikilink")
+[Category:日本のスタジオ](https://ja.wikipedia.org/wiki/Category:日本のスタジオ "wikilink") [Category:2019年開業の施設](https://ja.wikipedia.org/wiki/Category:2019年開業の施設 "wikilink") [Category:渋谷区の建築物](https://ja.wikipedia.org/wiki/Category:渋谷区の建築物 "wikilink")
 
 1.
 2.

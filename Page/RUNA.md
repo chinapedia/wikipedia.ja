@@ -1,7 +1,7 @@
 > この記事は[RUNA](https://ja.wikipedia.org/wiki/RUNA)から翻訳されています。
 
 
-**RUNA**（るな、[2001年](../Page/2001年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[福岡県](../Page/福岡県.md "wikilink")生まれ。血液型A型。3人兄弟の末っ子。福岡を中心に各地で活動している女子高生シンガー。
+**RUNA**（るな、[2001年](../Page/2001年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[福岡県](../Page/福岡県.md "wikilink")生まれ。血液型A型。3人兄弟の末っ子。福岡を中心に各地で活動しているシンガー。
 
 ## 略歴
 

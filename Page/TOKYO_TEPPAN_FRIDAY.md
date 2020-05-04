@@ -16,6 +16,51 @@
   - [中西哲生](../Page/中西哲生.md "wikilink")
   - [横山ルリカ](../Page/横山ルリカ.md "wikilink")
 
+## タイムテーブル
+
+  - 15:00 オープニング
+  - 15:30 [TOKYO FM トラフィックレポート](https://ja.wikipedia.org/wiki/TOKYO_FM_トラフィックレポート "wikilink")
+  - 15:35 [ゼビオ](https://ja.wikipedia.org/wiki/ゼビオ "wikilink") presents THE Leaders
+
+<!-- end list -->
+
+  -
+    [クロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")→TOKYO SPORTS GOODからの引継コーナー。スポーツ関係者とのインタビューの模様を放送。
+
+<!-- end list -->
+
+  - 15:45 [フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink") リクエスト
+
+<!-- end list -->
+
+  -
+    クロノス→TOKYO SPORTS GOODからの引継コーナー。川崎フロンターレの選手・スタッフと電話を繋ぎ、リスナーからのリクエスト曲を流す。
+
+<!-- end list -->
+
+  - 15:53 [TOKYO FM NEWS](https://ja.wikipedia.org/wiki/TOKYO_FM_NEWS "wikilink")
+  - 15:55 TOKYO FM トラフィックレポート
+  - 16:00 新型コロナウイルス関連情報
+
+<!-- end list -->
+
+  -
+    当面の間、10分弱程[高橋万里恵](https://ja.wikipedia.org/wiki/高橋万里恵 "wikilink")が新型コロナウイルスの最新情報をお届けする。
+
+<!-- end list -->
+
+  - 16:28 TOKYO FM トラフィックレポート
+  - 16:30 TOKYO LOCAL GOOD with [トヨタモビリティ東京](https://ja.wikipedia.org/wiki/トヨタモビリティ東京 "wikilink")
+
+<!-- end list -->
+
+  -
+    [TOKYO SOUNDS GOODからの引継コーナー](https://ja.wikipedia.org/wiki/TOKYO_SOUNDS_GOOD "wikilink")。毎月東京都内のひとつの市区町村を特集し、その地域に関連した情報を取り上げる。
+
+<!-- end list -->
+
+  - 16:50 エンディング
+
 ## 脚注
 
 <references />

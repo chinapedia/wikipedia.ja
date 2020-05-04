@@ -49,6 +49,6 @@
 
   - Test firings by [Hickok45](https://ja.wikipedia.org/wiki/Hickok45 "wikilink"): [VP9](https://www.youtube.com/watch?v=5n_VSwSlKts), [VP9SK](https://www.youtube.com/watch?v=zrTuYk5E6tU), [VP40](https://www.youtube.com/watch?v=kSXmMR92YcA)
 
-[Category:自動式拳銃](https://ja.wikipedia.org/wiki/Category:自動式拳銃 "wikilink") [Category:ドイツ連邦共和国の小火器](https://ja.wikipedia.org/wiki/Category:ドイツ連邦共和国の小火器 "wikilink")
+[Category:自動式拳銃](https://ja.wikipedia.org/wiki/Category:自動式拳銃 "wikilink") [Category:ドイツ連邦共和国の小火器](https://ja.wikipedia.org/wiki/Category:ドイツ連邦共和国の小火器 "wikilink") [Category:9mmパラベラム弾使用銃](https://ja.wikipedia.org/wiki/Category:9mmパラベラム弾使用銃 "wikilink")
 
 1.

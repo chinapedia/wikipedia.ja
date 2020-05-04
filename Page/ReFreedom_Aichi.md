@@ -29,7 +29,7 @@ ReFreedom_Aichiのアーティストたちは、[アートプロジェクト](..
 
 ### 日本外国特派員協会においてReFreedom Aichiの立ち上げ記者発表
 
-9月10日、東京の日本外国特派員協会での記者会見において正式にReFreedom_Aichiの立ち上げを宣言\[39\]。登壇者は[卯城竜太](https://ja.wikipedia.org/wiki/卯城竜太 "wikilink")（[Chim↑Pom](https://ja.wikipedia.org/wiki/Chim↑Pom "wikilink")）、高山明、小泉明郎、ホンマエリ（キュンチョメ）、大橋藍、加藤翼、藤井光、村山悟郎、毒山凡太朗。同じくReFreedom_Aichiの参加アーティストで既に展示中止を決定していたタニア・ブルゲラの母国・キューバでの言論統制の現状や、イム・ミヌクの母国・韓国で過去の軍事独裁政権が行なった言論弾圧の歴史、戦前・戦中下の日本での言論封殺の歴史を引き合いに出しながら\[40\]\[41\]、生き方を他人に強制されない自由の切実さ、[表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")に対する人類の責任の重さ、民主主義社会における[言論の自由](../Page/言論の自由.md "wikilink")の意義を訴えた。見る権利と[知る権利](https://ja.wikipedia.org/wiki/知る権利 "wikilink")を観客に取り戻すことを約束し、当時、不完全な状態に陥っていた芸術祭の[キュレーション](https://ja.wikipedia.org/wiki/キュレーション "wikilink")の回復をトリエンナーレ実行委員会に要求。あいちトリエンナーレ2019を検閲のシンボルから表現の自由のシンボルに書き換えることを掲げ、このムーブメントが戦後日本における表現の自由をめぐる戦いのターニングポイントとなることを予言した。その他に発表された主張、要求、具体的なプロジェクトの詳細は以下の通り。
+9月10日、東京の日本外国特派員協会での記者会見において正式にReFreedom_Aichiの立ち上げを宣言\[39\]。登壇者は[卯城竜太](https://ja.wikipedia.org/wiki/卯城竜太 "wikilink")（[Chim↑Pom](https://ja.wikipedia.org/wiki/Chim↑Pom "wikilink")）、高山明、小泉明郎、ホンマエリ（キュンチョメ）、大橋藍、加藤翼、藤井光、[村山悟郎](../Page/村山悟郎.md "wikilink")、毒山凡太朗。同じくReFreedom_Aichiの参加アーティストで既に展示中止を決定していたタニア・ブルゲラの母国・キューバでの言論統制の現状や、イム・ミヌクの母国・韓国で過去の軍事独裁政権が行なった言論弾圧の歴史、戦前・戦中下の日本での言論封殺の歴史を引き合いに出しながら\[40\]\[41\]、生き方を他人に強制されない自由の切実さ、[表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")に対する人類の責任の重さ、民主主義社会における[言論の自由](../Page/言論の自由.md "wikilink")の意義を訴えた。見る権利と[知る権利](https://ja.wikipedia.org/wiki/知る権利 "wikilink")を観客に取り戻すことを約束し、当時、不完全な状態に陥っていた芸術祭の[キュレーション](https://ja.wikipedia.org/wiki/キュレーション "wikilink")の回復をトリエンナーレ実行委員会に要求。あいちトリエンナーレ2019を検閲のシンボルから表現の自由のシンボルに書き換えることを掲げ、このムーブメントが戦後日本における表現の自由をめぐる戦いのターニングポイントとなることを予言した。その他に発表された主張、要求、具体的なプロジェクトの詳細は以下の通り。
 
 ### 主張・要求
 
@@ -188,35 +188,35 @@ ReFreedom_Aichiのアーティストたちは、[アートプロジェクト](..
   - [岩崎貴宏](https://ja.wikipedia.org/wiki/岩崎貴宏 "wikilink")
   - 碓井ゆい
   - 遠藤幹子
-  - [大浦信行](https://ja.wikipedia.org/wiki/大浦信行 "wikilink")
+  - 大浦信行
   - 大橋藍
   - 岡本光博
   - カタリーナ・ズィディエーラー
-  - 加藤翼
+  - [加藤翼](../Page/加藤翼.md "wikilink")
   - キョンチョメ
   - キャンディス・ブレイツ
   - 葛宇路（グゥ・ユルー）
-  - クワクボリョウタ
+  - [クワクボリョウタ](https://ja.wikipedia.org/wiki/クワクボリョウタ "wikilink")
   - 小泉明郎
   - [白川昌生](https://ja.wikipedia.org/wiki/白川昌生 "wikilink")
   - スチュアート・リングホルト
   - [高嶺格](https://ja.wikipedia.org/wiki/高嶺格 "wikilink")
   - 高山明
   - タニア・ブルゲラ
-  - Chim↑Pom
+  - [Chim↑Pom](https://ja.wikipedia.org/wiki/Chim↑Pom "wikilink")
   - 津田道子
   - ドラ・ガルシア
   - 毒山凡太朗
   - 永幡幸司
   - ピア・カミル
-  - 藤井光
+  - [藤井光](https://ja.wikipedia.org/wiki/藤井光 "wikilink")
   - 藤江民
   - 藤原葵
   - ホー・ツーニェン
   - ペドロ・レイエス
   - 桝本佳子
   - マネキンフラッシュモブ
-  - 村山悟郎
+  - [村山悟郎](../Page/村山悟郎.md "wikilink")
   - モニカ・メイヤー
   - [吉開菜央](https://ja.wikipedia.org/wiki/吉開菜央 "wikilink")
   - 鷲尾友公

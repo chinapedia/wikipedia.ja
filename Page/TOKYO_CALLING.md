@@ -383,7 +383,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/the_peggies" title="wikilink">the peggies</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Yellow_Studs" title="wikilink">Yellow Studs</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ORESAMA" title="wikilink">ORESAMA</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/羊文学" title="wikilink">羊文学</a></li>
+<li><a href="../Page/羊文学.md" title="wikilink">羊文学</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Qaijff" title="wikilink">Qaijff</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SPiCYSOL" title="wikilink">SPiCYSOL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Lenny_code_fiction" title="wikilink">Lenny code fiction</a></li>
@@ -596,7 +596,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/合田口洸" title="wikilink">合田口洸</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/春ねむり" title="wikilink">春ねむり</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DETOX" title="wikilink">DETOX</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Sano_ibuki" title="wikilink">Sano ibuki</a></li>
+<li><a href="../Page/Sano_ibuki.md" title="wikilink">Sano ibuki</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/踊Foot_Works" title="wikilink">踊Foot Works</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/リアクション_ザ_ブッタ" title="wikilink">リアクション ザ ブッタ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/She,_in_the_haze" title="wikilink">She, in the haze</a></li>
@@ -610,7 +610,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/ank" title="wikilink">ank</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/月がさ" title="wikilink">月がさ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/そこに鳴る" title="wikilink">そこに鳴る</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/羊文学" title="wikilink">羊文学</a></li>
+<li><a href="../Page/羊文学.md" title="wikilink">羊文学</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/TEDDY_(バンド)" title="wikilink">TEDDY (バンド)</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Re_view" title="wikilink">Re view</a></li>
 </ul></td>

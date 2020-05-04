@@ -1,7 +1,7 @@
 > この記事は[COVID-19アプリ](https://ja.wikipedia.org/wiki/COVID-19アプリ)から翻訳されています。
 
 
-**COVID-19アプリ**は、[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")の[感染経路](../Page/感染経路.md "wikilink")や感染者の行動履歴を特定（コンタクト・トレーシング）するために開発、改良、利用される[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")。
+**COVID-19アプリ**は、[新型コロナウイルス感染症（COVID-19）の](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")[感染経路](../Page/感染経路.md "wikilink")や感染者の行動履歴を特定（コンタクト・トレーシング）するために開発・改良・利用される[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を指す。
 
 ## 概要
 
@@ -9,26 +9,34 @@
 
 ## 企業による開発
 
-[2020年](../Page/2020年.md "wikilink")4月、[アップルと](../Page/アップル_\(企業\).md "wikilink")[グーグルは共同会見を行い](../Page/Google.md "wikilink")、感染者の近くにいた人を見つけ出して本人に通知することができるアプリを共同開発すると発表した\[2\]。
+[テンセント](https://ja.wikipedia.org/wiki/テンセント "wikilink")グループの[WeChat](https://ja.wikipedia.org/wiki/WeChat "wikilink")と[アリババ](https://ja.wikipedia.org/wiki/アリババ "wikilink")グループの[Alipay](https://ja.wikipedia.org/wiki/Alipay "wikilink")に「健康ID」と呼ばれる機能が追加。この機能は、感染が広がる状況下においてオフィスや工場などに勤務する社員の健康状況の管理、[高速鉄道](../Page/高速鉄道.md "wikilink")や飛行機など利用する際のチェックに用いられたほか、感染者を特定できた場合には、過去に感染者と接触した者へ警告する機能も有している。中国国内では、3月初頭には約10億人が健康IDに自主的に登録した\[2\]。
+
+2020年4月、[アップルと](../Page/アップル_\(企業\).md "wikilink")[グーグルは共同会見を行い](../Page/Google.md "wikilink")、感染者の近くにいた人を見つけ出して本人に通知することができるアプリを共同開発すると発表した\[3\]。
 
 ## 国家による開発
 
 ### ロシア
 
-2020年3月、ミハイル・ミシュスチン首相は、ロシア情報技術・通信省に患者と接触している市民を追跡するシステムを作成するよう指示した\[3\]。
+2020年3月、ミハイル・ミシュスチン首相は、ロシア情報技術・通信省に患者と接触している市民を追跡するシステムを作成するよう指示した\[4\]。
 
 ## 脚注
 
 ## 関連項目
 
+  - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink") (SARS-CoV-2)
+      - [2019新型コロナウイルスによる急性呼吸器疾患](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink") (COVID-19)
+      - [新型コロナウイルス感染症の世界的流行](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")
   - [監視カメラ](../Page/監視カメラ.md "wikilink")
   - [監視社会](https://ja.wikipedia.org/wiki/監視社会 "wikilink")
   - [伝染病](../Page/伝染病.md "wikilink")
   - [感染管理](../Page/感染管理.md "wikilink")
   - [地理空間情報](../Page/地理空間情報.md "wikilink")
   - [Folding@home](https://ja.wikipedia.org/wiki/Folding@home#ウイルス "wikilink")
+  - [TraceTogether](https://ja.wikipedia.org/wiki/TraceTogether "wikilink")
 
 ## 外部リンク
+
+  - [TraceTogether](https://www.tracetogether.gov.sg/)
 
   - [COVID‑19 - Mobility Trends Reports](https://www.apple.com/covid19/mobility)  - [Apple](../Page/アップル_\(企業\).md "wikilink")
 
@@ -44,3 +52,4 @@
 1.
 2.
 3.
+4.

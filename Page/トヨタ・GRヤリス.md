@@ -1,7 +1,7 @@
 > この記事は[トヨタ・GRヤリス](https://ja.wikipedia.org/wiki/トヨタ・GRヤリス)から翻訳されています。
 
 
-**GRヤリス**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が開発した3ドア[ハッチバック](../Page/ハッチバック.md "wikilink")タイプの[スポーツカー](../Page/スポーツカー.md "wikilink")で、[2020年](../Page/2020年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")より先行予約を開始した。なお同年発売の4代目[トヨタ・ヤリス](../Page/トヨタ・ヤリス.md "wikilink")とは名前が同じだけで全くの別設計となっている\[1\]。
+**GRヤリス**（*GR Yaris*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が生産・販売する3ドア[ハッチバック](../Page/ハッチバック.md "wikilink")タイプの[スポーツカー](../Page/スポーツカー.md "wikilink")。同年発売の4代目[ヤリスをベースに開発されたが](../Page/トヨタ・ヤリス.md "wikilink")、全くの別設計となっている\[1\]。
 
 ## 概要
 
@@ -58,6 +58,7 @@
   - [スーパー耐久](../Page/スーパー耐久.md "wikilink")
   - [GR (トヨタ自動車)](../Page/GR_\(トヨタ自動車\).md "wikilink")
   - [トヨタ・ヤリス](../Page/トヨタ・ヤリス.md "wikilink")
+  - [トヨタ・ヤリスクロス](https://ja.wikipedia.org/wiki/トヨタ・ヤリスクロス "wikilink")
   - [スポーツカー](../Page/スポーツカー.md "wikilink")
   - [ホットハッチ](../Page/ホットハッチ.md "wikilink")
 

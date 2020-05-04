@@ -58,22 +58,22 @@
 
 ### 2020年
 
-| イベント名                                 | 出演日    | 会場                    | 備考    |
-| ------------------------------------- | ------ | --------------------- | ----- |
-| 新年の女神フェス in 大阪～新春スペシャル１・2day～         | 1月3-4日 | OSAKA RUIDO           |       |
-| OSAKA GIRLS LIVE 2020 新春              | 1月13日  | OSAKA RUIDO           |       |
-| AMABILe 第2回 定期演奏会                     | 1月23日  | 堀江Goldee              |       |
-| GIRLS MUSIC SQUARE 500SP              | 1月25日  | 江坂MUSE                |       |
-| NEO Party\!                           | 1月26日  | OSAKA RUIDO           |       |
-| LILY\&YOU                             | 1月29日  | OSAKA RUIDO           |       |
-| 女子箱 \#164                             | 1月30日  | OSAKA MUSE            |       |
-| cuatro vol.3                          | 2月2日   | 新宿MARZ                | 東京初遠征 |
-| ぽりどーる！                                | 2月9日   | 心斎橋サンホール              |       |
-| 大好きな君に会いにいく〜大阪編〜                      | 2月11日  | OSAKA RUIDO           |       |
-| OZAWA JAPAN ♯47 – なんてったってアイドル編 2020 – | 2月13日  | OSAKA RUIDO           |       |
-| Angel Stage Vol.110                   | 2月16日  | OSAKA RUIDO           |       |
-| アイドルドランカー in 名古屋                      | 3月1日   | VERSUS東海ホール           | 出演予定  |
-| キグルイフェス～2020初陣～                       | 4月29日  | アメリカ村DROP/アメリカ村BEYOND | 出演予定  |
+| イベント名                                 | 出演日    | 会場          | 備考    |
+| ------------------------------------- | ------ | ----------- | ----- |
+| 新年の女神フェス in 大阪～新春スペシャル１・2day～         | 1月3-4日 | OSAKA RUIDO |       |
+| OSAKA GIRLS LIVE 2020 新春              | 1月13日  | OSAKA RUIDO |       |
+| AMABILe 第2回 定期演奏会                     | 1月23日  | 堀江Goldee    |       |
+| GIRLS MUSIC SQUARE 500SP              | 1月25日  | 江坂MUSE      |       |
+| NEO Party\!                           | 1月26日  | OSAKA RUIDO |       |
+| LILY\&YOU                             | 1月29日  | OSAKA RUIDO |       |
+| 女子箱 \#164                             | 1月30日  | OSAKA MUSE  |       |
+| cuatro vol.3                          | 2月2日   | 新宿MARZ      | 東京初遠征 |
+| ぽりどーる！                                | 2月9日   | 心斎橋サンホール    |       |
+| 大好きな君に会いにいく〜大阪編〜                      | 2月11日  | OSAKA RUIDO |       |
+| OZAWA JAPAN ♯47 – なんてったってアイドル編 2020 – | 2月13日  | OSAKA RUIDO |       |
+| Angel Stage Vol.110                   | 2月16日  | OSAKA RUIDO |       |
+| アイドルドランカー in 名古屋                      | 3月1日   | VERSUS東海ホール |       |
+|                                       |        |             |       |
 
 ## 出演
 

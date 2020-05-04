@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作「[Love with You](https://ja.wikipedia.org/wiki/Love_with_You "wikilink")」から1年3ヶ月ぶりとなるシングル。初回限定盤と通常盤の2形態で発売\[1\]\[2\]。
+前作「[Love with You](https://ja.wikipedia.org/wiki/Love_with_You "wikilink")」から1年3か月ぶりとなるシングル。初回限定盤と通常盤の2形態で発売\[1\]\[2\]。
 
 表題曲「final phase」はテレビアニメ「[とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")」のオープニングテーマとなっており\[3\]\[4\]、また[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")で撮影されたほか、芸人の[カミナリがゲスト出演している](https://ja.wikipedia.org/wiki/カミナリ_\(お笑いコンビ\) "wikilink")。
 
@@ -18,8 +18,8 @@
 1.  **final phase** \[4:02\]
       - テレビアニメ『[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")T』オープニングテーマ
 2.  **promenade** \[5:56\]
-3.  **final phase＜instrumental＞** \[4:02\]
-4.  **promenade＜instrumental＞** \[5:57\]
+3.  final phase＜instrumental＞ \[4:02\]
+4.  promenade＜instrumental＞ \[5:57\]
 
 ### 初回限定盤DVD
 
@@ -45,7 +45,13 @@
 
 <references/>
 
-[Category:FripSideの楽曲](https://ja.wikipedia.org/wiki/Category:FripSideの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:とある魔術の禁書目録の音楽](https://ja.wikipedia.org/wiki/Category:とある魔術の禁書目録の音楽 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+## 外部リンク
+
+  - NBCユニバーサルによる紹介ページ
+      - [初回限定盤 CD+DVD](http://db2.nbcuni.co.jp/contents/hp0004/list.php?CNo=4&AgentProCon=40292)
+      - [通常盤](http://db2.nbcuni.co.jp/contents/hp0004/list.php?CNo=4&AgentProCon=40291)
+
+[Category:FripSideの楽曲](https://ja.wikipedia.org/wiki/Category:FripSideの楽曲 "wikilink") [Category:八木沼悟志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:八木沼悟志が制作した楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:とある魔術の禁書目録の音楽](https://ja.wikipedia.org/wiki/Category:とある魔術の禁書目録の音楽 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.
 2.

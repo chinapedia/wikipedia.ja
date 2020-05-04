@@ -18,7 +18,7 @@
 
 | 愛称         | 放送局名            | 公式サイト                                             | サイマルサイト                                           | 周波数     | 所在地                                                                                                                                                                                           | 記号       | 現状                      |
 | ---------- | --------------- | ------------------------------------------------- | ------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------- |
-| SCFM       | Sapporo City FM | <https://scfm> www2.jp                            | <https://scfm> www2.jp                            | 83.5MHz | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[西区](../Page/西区_\(札幌市\).md "wikilink")[西野](https://ja.wikipedia.org/wiki/西野 "wikilink") | M.RL.NTL | 放送中                     |
+| SCFM       | Sapporo City FM | <https://scfm.www2.jp>                            | <https://scfm> www2.jp                            | 83.5MHz | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[西区](../Page/西区_\(札幌市\).md "wikilink")[西野](https://ja.wikipedia.org/wiki/西野 "wikilink") | M.RL.NTL | 放送中                     |
 | 定山渓ミニFM放送局 | 定山渓ミニFM放送局      | 無し                                                | なし                                                | 88.0MHz | 北海道札幌市[南区](../Page/南区_\(札幌市\).md "wikilink")[定山渓](../Page/定山渓.md "wikilink")                                                                                                                  | M        | １月をもって一度閉局するが、春頃に再度開局予定 |
 | FMピパウシ     | エフエム二風谷放送       | <http://www.aa.alpha-net.ne.jp/skayano/menu.html> | <http://www.aa.alpha-net.ne.jp/skayano/menu.html> | 76.1MHz | 北海道[沙流郡](../Page/沙流郡.md "wikilink")[平取町](../Page/平取町.md "wikilink") [二風谷](https://ja.wikipedia.org/wiki/二風谷 "wikilink")                                                                       | F.RL     | 放送中 |放送中                |
 
@@ -77,9 +77,7 @@
 
 ## 外部リンク
 
-[ラジオ西さっぽろ](https://rns-radio.blogspot.com)
-
-[ラジオ西さっぽろ（radio.net）](http://rns.radio.net)
+[Sapporo City FM](https://scfm.www2.jp)
 
 [ABH青森文化放送](https://abhradio.jimdofree.com/)
 

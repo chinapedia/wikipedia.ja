@@ -86,6 +86,9 @@
 
 ## 外部リンク
 
+  - [ALLI 公式プロフィール](https://www.tp-e.jp/alli/)
+
+  -
   -
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:1996年生](https://ja.wikipedia.org/wiki/Category:1996年生 "wikilink")
 

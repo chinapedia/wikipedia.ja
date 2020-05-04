@@ -37,13 +37,13 @@
 
 元の企画は『侍道』とのつながりの薄いスピンオフの予定だったが、開発が進むにつ入れて『侍道』らしさが表れ、最終的には外伝という形に落ち着き、時代設定も第一作の数週間前に設定された。
 
-元の企画では堂島が主人公になる予定であり、娘も出てこない予定だったが、開発スタッフからそれでは味気ないという声が寄せられ、娘の七海が登場することとなった。
+また、元の企画ではシリーズになじみの深い鍛冶屋・堂島軍二を主人公にした「堂島ローグ」（仮称）となる予定だったが、開発スタッフからそれでは味気ないという声が寄せられ、堂島が主人公から外れ、娘の七海が登場することとなった。
 
-その際、斎藤は主人公を女性にすることも考えていたが、男の流れ者の主人公のほうが良いということで、最終的に「借金取りに誘拐された娘を助ける」という物語が出来上がり、これに対立勢力を扇動して刀を売りつけるというあくどい側面が組み合わさった結果、現在の主人公像が出来上がった。加えて、主人公が「放浪先で拾ってきた服を着ているかもしれない」という斎藤の考えから、片袖に毛皮をまとった荒々しいいで立ちに仕上がった。
+その際、斎藤は主人公を女性にすることも考えていたが、男の流れ者の主人公のほうが良いということで、最終的に「借金取りに誘拐された娘を助ける」という物語が出来上がった。 また、「堂島ローグ」の時点から存在していた、対立勢力を扇動して刀を売りつけるというあくどい側面が組み合わさった結果、現在の主人公像が出来上がった。加えて、主人公が「放浪先で拾ってきた服を着ているかもしれない」という斎藤の考えから、片袖に毛皮をまとった荒々しいいで立ちに仕上がった。
 
-また、堂島の借金の原因を「娘を愛するあまり、南蛮渡来の着物を着せるなどの贅沢をさせている」という内容にし、それを反映させるために七海の衣装は現実世界における着物ドレスをモデルとしている。
+また、堂島の借金の原因を「娘を愛するあまり、南蛮渡来の着物を着せるなどの贅沢をさせている」という内容にし、それを反映させるために七海の衣装は現実世界における着物ドレスをモデルとしている。同様の理由で、堂島家にある七海の部屋にも舶来物のドレスセットなどが置かれている。
 
-同様の理由で、堂島家にある七海の部屋にも舶来物のドレスセットなどが置かれている。
+本作のダンジョンに相当する異世界・辞界は、日本の民話などにおける[神隠し](../Page/神隠し.md "wikilink")のような不思議な要素を取り入れるために設定された。
 
 ## 登場人物
 
@@ -115,7 +115,7 @@
 
   -
   -
-[Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:アクワイアのゲームソフト](https://ja.wikipedia.org/wiki/Category:アクワイアのゲームソフト "wikilink") [Category:スパイク・チュンソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:スパイク・チュンソフトのゲームソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:明治時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:明治時代を舞台とした作品 "wikilink") [Category:武士を題材にした作品](https://ja.wikipedia.org/wiki/Category:武士を題材にした作品 "wikilink")
+[Category:2020年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2020年のコンピュータゲーム "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:アクワイアのゲームソフト](https://ja.wikipedia.org/wiki/Category:アクワイアのゲームソフト "wikilink") [Category:スパイク・チュンソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:スパイク・チュンソフトのゲームソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:明治時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:明治時代を舞台とした作品 "wikilink") [Category:武士を題材にした作品](https://ja.wikipedia.org/wiki/Category:武士を題材にした作品 "wikilink")
 
 1.
 2.

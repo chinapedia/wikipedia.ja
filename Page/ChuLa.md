@@ -85,16 +85,16 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>花咲ひより</p></td>
-<td><p>幸せグリーン</p></td>
-<td><p>11月2日</p></td>
-<td><p>グラビアでも活躍中 [5]</p></td>
-</tr>
-<tr class="even">
 <td><p>長尾優</p></td>
 <td><p>みつばちイエロー</p></td>
 <td><p>4月8日</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>花咲ひより</p></td>
+<td><p>幸せグリーン</p></td>
+<td><p>11月2日</p></td>
+<td><p>グラビアでも活躍中 [5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>北野ゆか</p></td>
@@ -165,7 +165,12 @@
 ### ユニット
 
   - JK☆FreeQ ([2018年](../Page/2018年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - [2019年](../Page/2019年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink"))
+
       - FreeKに所属する現役[女子高生](../Page/女子高生.md "wikilink")(JK)から選抜されたユニット。chuLaからは夏目(当時高3)と渡辺(当時高1)が参加。2019年度以降の活動は確認されていない。
+
+  - ([2020年](../Page/2020年.md "wikilink"))
+
+      - [新型コロナウイルスへのチャリティー活動の一環として](../Page/2019新型コロナウイルス.md "wikilink")、FreeK所属のアーティスト・スタッフが参加した。chuLaからは、8人のメンバー全員とマネージャーが出演。
 
 ## 楽曲
 
@@ -507,6 +512,22 @@
   - Instagram
       -
       -
+      -
+<!-- end list -->
+
+  - SHOWROOM
+      - [ひなちゃんの部屋(桜木妃奈)](https://www.showroom-live.com/1a1ae994589) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [佐藤まりんのしょーるーむ。(佐藤まりん)](https://www.showroom-live.com/chulamarin) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [渡辺あやのの部屋(渡辺あやの)](https://www.showroom-live.com/ayano_srf) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [せいなのがんばるーむ。(蒼井聖南)](https://www.showroom-live.com/seina_chuLa2019) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [長尾優のみつばち相談室(長尾優)](https://www.showroom-live.com/yu_chuLa2019) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [花咲ひよりのゆるゆるーむ (花咲ひより)](https://www.showroom-live.com/hiyori_chuLa2019) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [【chuLa 北野ゆか】きたののへや(北野ゆか)](https://www.showroom-live.com/yuka_chuLa) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+      - [七瀬うたのわいわいるーむ(七瀬うた)](https://www.showroom-live.com/uta_chuLa) - [SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")
+
+<!-- end list -->
+
+  - TikTok
       -
 [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")
 

@@ -11,7 +11,7 @@
 
 これらの機器更新に加えて車体の改修も行われており、座席、乗降扉の駆動装置、砂撒き装置、滑り止め用の床板が交換されている他、運転台も改良が実施されている。車内には[LED](https://ja.wikipedia.org/wiki/LED "wikilink")を用いた[案内表示装置が搭載されている](../Page/車内案内表示装置.md "wikilink")。
 
-改造は[シュコダ・トランスポーテーション](https://ja.wikipedia.org/wiki/シュコダ・トランスポーテーション "wikilink")の子会社であるパルス・ノヴァ（Pars nova a.c.）によって実施されているが、プラハ市電向け車両については[2005年](../Page/2005年.md "wikilink")以降路面電車の修理工場で工事を行っており、それ以外の都市についてもの車庫で改造が行われた事例が存在する。[2020年](../Page/2020年.md "wikilink")現在、[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")各都市に加え、[キエフ市電](../Page/キエフ市電.md "wikilink")、など[ウクライナ](../Page/ウクライナ.md "wikilink")の路面電車にも導入されている\[1\]。
+改造は[シュコダ・トランスポーテーション](https://ja.wikipedia.org/wiki/シュコダ・トランスポーテーション "wikilink")の子会社であるパルス・ノヴァ（Pars nova a.c.）によって実施されているが、プラハ市電向け車両については[2005年](../Page/2005年.md "wikilink")以降路面電車の修理工場で工事を行っており、それ以外の都市についてもの車庫で改造が行われた事例が存在する。[2020年](../Page/2020年.md "wikilink")現在、[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")各都市に加え、[キエフ市電](../Page/キエフ市電.md "wikilink")、[オデッサ市電](../Page/オデッサ市電.md "wikilink")など[ウクライナ](../Page/ウクライナ.md "wikilink")の路面電車にも導入されている\[1\]。
 
 <File:Modřany>, interiér tramvaje.jpg|車内 <File:Praha>, Anděl, Řídící pult tramvaje T3P.png|運転台
 
@@ -35,7 +35,7 @@
 
 ### 出典
 
-[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:スロバキアの路面電車車両](https://ja.wikipedia.org/wiki/Category:スロバキアの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink")
+[Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:チェコの路面電車車両](https://ja.wikipedia.org/wiki/Category:チェコの路面電車車両 "wikilink") [Category:プラハ市電](https://ja.wikipedia.org/wiki/Category:プラハ市電 "wikilink") [Category:スロバキアの路面電車車両](https://ja.wikipedia.org/wiki/Category:スロバキアの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink")
 
 1.
 2.

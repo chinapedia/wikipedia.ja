@@ -10,7 +10,7 @@
   - [石崎ひゅーい](https://ja.wikipedia.org/wiki/石崎ひゅーい "wikilink")、[マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")、[iri](https://ja.wikipedia.org/wiki/iri "wikilink")、[ポルカドットスティングレイ](https://ja.wikipedia.org/wiki/ポルカドットスティングレイ "wikilink")ほか多彩なアーティストが楽曲を提供している\[2\]。
   - コンセプトやテーマについて真山は「今は音楽を何で聴く時代？ CDとかダウンロードとかいろんなやり方があるけど、今はサブスクで、自分のケータイで聴く時代。1曲1曲ダウンロードして聴くんじゃなくプレイリストで聴く時代だよね、ってところから“プレイリスト”というコンセプトがまずあって。10周年を迎えたタイミングで『MUSiC』という集大成を見せるようなアルバムを作って、次はエビ中のこれからを見せて行こう。これまで見せていないエビ中を見せて行こうというのが大きなテーマとしてありました。」と語る\[3\]。
   - 2020年2月20日、楽曲「オメカシ・フィーバー」のコール練習動画をYouTube公式チャンネルに公開した\[4\]。
-  - ツアー「[私立恵比寿中学 ど真ん中スプリングツアー2020 ～playlistを共有しますか？ はい/いいえ～](https://ja.wikipedia.org/wiki/#ツアー "wikilink")」を、2020年4月18日 - 7月5日に17会場で開催する（後述）。
+  - ツアー「[私立恵比寿中学 ど真ん中スプリングツアー2020 ～playlistを共有しますか？ はい/いいえ～](https://ja.wikipedia.org/wiki/#ツアー "wikilink")」を、2020年7月2日から開催する（後述）。
 
 ## 収録曲
 
@@ -143,27 +143,25 @@
 
 ## ツアー
 
-ツアー「**私立恵比寿中学 ど真ん中スプリングツアー2020 ～playlistを共有しますか？ はい/いいえ～**」を、2020年5月15日 - 8月1日に17会場で開催する。
+ツアー「**私立恵比寿中学 ど真ん中スプリングツアー2020 ～playlistを共有しますか？ はい/いいえ～**」を、2020年7月2日から開催する。
 
-4月6日、5月10日までの7公演の開催延期が発表された。
-
-  - 5月15日 - 埼玉・[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink") 大ホール
-  - 5月17日 - 東京・[NHKホール](../Page/NHKホール.md "wikilink")
-  - 6月7日 - 北海道・[カナモトホール](../Page/札幌市民ホール.md "wikilink")
-  - 6月12日（振替） - 新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
-  - 6月13日 - 宮城・[東京エレクトロンホール宮城](../Page/宮城県民会館.md "wikilink")
-  - 6月16日（振替） - 神奈川・[神奈川県民ホール](../Page/神奈川県立県民ホール.md "wikilink") 大ホール
-  - 6月20日 - 兵庫・[神戸国際会館](../Page/神戸国際会館.md "wikilink")こくさいホール
-  - 6月21日 - 香川・[高松festhalle](https://ja.wikipedia.org/wiki/festhalle "wikilink")
-  - 6月25日 - 東京・[LINE CUBE SHIBUYA](../Page/渋谷公会堂.md "wikilink")
-  - 6月28日 - 愛知・[一宮市民会館](https://ja.wikipedia.org/wiki/一宮市民会館 "wikilink")
   - 7月2日（振替） - 熊本・[熊本県立劇場](../Page/熊本県立劇場.md "wikilink") 演劇ホール
-  - 7月4日 - 岡山・[CRAZYMAMA KINGDOM](https://ja.wikipedia.org/wiki/CRAZYMAMA_KINGDOM "wikilink")
+  - 7月4日 - 岡山・[CRAZYMAMA KINGDOM](../Page/CRAZYMAMA_KINGDOM.md "wikilink")
   - 7月5日 - 大阪・[グランキューブ大阪](../Page/大阪府立国際会議場.md "wikilink") メインホール
   - 7月7日（振替） - 静岡・[静岡市清水文化会館](https://ja.wikipedia.org/wiki/静岡市清水文化会館 "wikilink") マリナート大ホール
+  - 7月14日（振替） - 新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
   - 7月17日（振替） - 福岡・[Zepp Fukuoka](../Page/Zepp.md "wikilink")
   - 7月25日（振替） - 千葉・[森のホール21](../Page/森のホール21.md "wikilink") 大ホール
+  - 7月31日（振替） - 宮城・[東京エレクトロンホール宮城](../Page/宮城県民会館.md "wikilink")
   - 8月1日（振替） - 群馬・[桐生市市民文化会館](../Page/桐生市市民文化会館.md "wikilink") シルクホール
+  - 8月6日（振替） - 埼玉・[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink") 大ホール
+  - 8月7日（振替） - 兵庫・[神戸国際会館](../Page/神戸国際会館.md "wikilink")こくさいホール
+  - 8月10日 - 愛知・[一宮市民会館](https://ja.wikipedia.org/wiki/一宮市民会館 "wikilink")
+  - 9月25日（振替） - 神奈川・[神奈川県民ホール](../Page/神奈川県立県民ホール.md "wikilink") 大ホール
+  - （振替日未定） - 北海道・[カナモトホール](../Page/札幌市民ホール.md "wikilink")
+  - （振替日未定） - 東京・[NHKホール](../Page/NHKホール.md "wikilink")
+  - （振替日未定） - 東京・[LINE CUBE SHIBUYA](../Page/渋谷公会堂.md "wikilink")
+  - （中止） - 香川・[高松festhalle](https://ja.wikipedia.org/wiki/festhalle "wikilink")
 
 ## 脚注
 

@@ -15,7 +15,7 @@
 
 本作は発売開始から間もなくして[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")アルバム総合ランキングで首位を獲得し、3月30日付の[オリコン週間アルバムランキングで初登場](../Page/オリコンチャート.md "wikilink")5位を獲得\[4\]。
 
-4月13日付の[Billboard Japan Download Albumsチャートでは](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")、収録曲の「あなたがいることで」が主題歌として使用されたドラマ『[テセウスの船](../Page/テセウスの船.md "wikilink")』の最終回が3月22日に放送された関係\[5\]から、前週の2倍かつ初週を上回る2,532ダウンロードを記録し、初の首位を獲得した\[6\]。同日付の[Billboard Japan Top Albums Salesチャートでは最高](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")3位\[7\]、同[Billboard Japan Hot Albumsチャートでは最高](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Albums "wikilink")2位を獲得\[8\]。
+4月13日付の[Billboard Japan Download Albumsチャートでは](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")、収録曲の「あなたがいることで」が主題歌として使用されたドラマ『[テセウスの船](https://ja.wikipedia.org/wiki/テセウスの船_\(漫画\)#テレビドラマ "wikilink")』の最終回が3月22日に放送された関係\[5\]から、前週の2倍かつ初週を上回る2,532ダウンロードを記録し、初の首位を獲得した\[6\]。同日付の[Billboard Japan Top Albums Salesチャートでは最高](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")3位\[7\]、同[Billboard Japan Hot Albumsチャートでは最高](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Albums "wikilink")2位を獲得\[8\]。
 
 ## 収録内容
 

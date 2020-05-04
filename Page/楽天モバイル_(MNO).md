@@ -19,7 +19,7 @@
 
 ## 料金プラン
 
-新規加入及び他のキャリアからの乗り換え([MNP](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink"))で選択できる料金プランは下記の「Rakuten UN-LIMIT」のみとなる\[9\]。
+[Multi-cut_SIM_Rakuten_Mobile.jpg](https://ja.wikipedia.org/wiki/File:Multi-cut_SIM_Rakuten_Mobile.jpg "fig:Multi-cut_SIM_Rakuten_Mobile.jpg") 新規加入及び他のキャリアからの乗り換え([MNP](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink"))で選択できる料金プランは下記の「Rakuten UN-LIMIT」のみとなる\[9\]。
 
 しかし、[MVNOの楽天モバイルから乗り換える利用者に対し](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")、2020年夏を目処にMVNOの料金プラン（スーパーホーダイなど）のままでMNOサービスへの変更を受け付けるとしている\[10\]。
 

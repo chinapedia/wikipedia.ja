@@ -1,7 +1,7 @@
 > この記事は[Hirokimura](https://ja.wikipedia.org/wiki/Hirokimura)から翻訳されています。
 
 
-**HIRO KIMURA**（[1977年](../Page/1977年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）は、日本の[写真家](../Page/写真家.md "wikilink")、[映像作家](../Page/映像作家.md "wikilink")。[男性](../Page/男性.md "wikilink")。[バンタン](https://ja.wikipedia.org/wiki/バンタン "wikilink")デザイン研究所卒業。 [矢沢永吉](../Page/矢沢永吉.md "wikilink")の専属スタイリストを経て写真家へ転向。\[1\]以来[レニー・クラヴィッツ](../Page/レニー・クラヴィッツ.md "wikilink")、[クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")、[夏木マリ](../Page/夏木マリ.md "wikilink")\[2\]など多数のセレブリティを撮影したことなどで知られる写真家で、[広告](../Page/広告.md "wikilink")、[ファッション](../Page/ファッション.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")などの撮影を中心に国内外で活躍している。\[3\]
+**HIRO KIMURA**（[1977年](../Page/1977年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）は、日本の[写真家](../Page/写真家.md "wikilink")、[映像作家](../Page/映像作家.md "wikilink")。[男性](../Page/男性.md "wikilink")。[バンタン](https://ja.wikipedia.org/wiki/バンタン "wikilink")デザイン研究所卒業。 [矢沢永吉](../Page/矢沢永吉.md "wikilink")の専属スタイリストを経て写真家へ転向。\[1\]以来[レニー・クラヴィッツ](../Page/レニー・クラヴィッツ.md "wikilink")、[クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")、[夏木マリ](../Page/夏木マリ.md "wikilink")\[2\]など多数のセレブリティを撮影したことなどで知られる写真家で、[広告](../Page/広告.md "wikilink")、[ファッション](../Page/ファッション.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")などの撮影を中心に国内外で活躍している\[3\]。
 
 ## 人物・経歴
 
@@ -118,6 +118,8 @@
   - [Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink")
   - [Jaguar](https://ja.wikipedia.org/wiki/Jaguar "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [HIRO KIMURA](http://www.hirokimura.com/)
@@ -126,8 +128,6 @@
   -
   -
   - [ARTIST SELF-PRAISE インタビュー](http://tokyowise.jp/rensai/selfpraise/vol_09.html)
-
-## 脚注
 
 [Category:日本の写真家](https://ja.wikipedia.org/wiki/Category:日本の写真家 "wikilink") [Category:日本のミュージック・ビデオ・ディレクター](https://ja.wikipedia.org/wiki/Category:日本のミュージック・ビデオ・ディレクター "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

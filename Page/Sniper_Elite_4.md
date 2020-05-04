@@ -1,7 +1,7 @@
 > この記事は[Sniper Elite 4](https://ja.wikipedia.org/wiki/Sniper_Elite_4)から翻訳されています。
 
 
-**Sniper Elite 4**は、[Rebellion Developmentsが開発した](https://ja.wikipedia.org/wiki/:en:Rebellion_Developments "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。[Sniper Elite IIIの続編であるこのゲームは](https://ja.wikipedia.org/wiki/:en:Sniper_Elite_III "wikilink")、 [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、および[Xbox One向けに](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")2017年2月14日にリリースされた。
+**Sniper Elite 4（すないぱーえりーと４）**は、[Rebellion Developmentsが開発した](https://ja.wikipedia.org/wiki/:en:Rebellion_Developments "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。[Sniper Elite IIIの続編であるこのゲームは](https://ja.wikipedia.org/wiki/:en:Sniper_Elite_III "wikilink")、 [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、および[Xbox One向けに](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")2017年2月14日にリリースされた。
 
 ## ゲームプレイ
 

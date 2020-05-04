@@ -5,11 +5,13 @@
 
 ## 概要
 
-時代を超えて残したい名曲「Premium Music」を日本テレビの秘蔵映像と生歌唱でお届けする。
+『[日テレ系音楽の祭典](../Page/日テレ系音楽の祭典_ベストアーティスト.md "wikilink")』シリーズでは8年ぶりに[春](../Page/春.md "wikilink")の放送となった。時代を超えて残したい名曲「**Premium Music**」を日本テレビの秘蔵映像と生歌唱で披露した。
+
+『日テレ系音楽の祭典』シリーズの司会は[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）であるが、本番組では2020年4月クールの[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[未満警察 ミッドナイトランナー](../Page/未満警察_ミッドナイトランナー.md "wikilink")』でW主演を務める[中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")（[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")）と[平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")（[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")）が初めて音楽番組の司会を務めた。また、Sexy ZoneとKing & Princeはトリも担当した。
 
 ## 出演者
 
-### メイン司会
+### 司会
 
   - [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")（[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")）
   - [平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")（[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")）
@@ -18,8 +20,10 @@
 
 ### スペシャルドラマ
 
-  - [松本まりか](../Page/松本まりか.md "wikilink") - [松任谷由実](../Page/松任谷由実.md "wikilink")役
-  - [菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")（Sexy Zone） - [松任谷正隆](../Page/松任谷正隆.md "wikilink")役
+[松任谷由実](../Page/松任谷由実.md "wikilink")が「荒井由実」として大成功を収めたあと、[松任谷正隆](../Page/松任谷正隆.md "wikilink")との結婚を機に1年間音楽活動を休止し、現在の芸名で再出発する頃の秘話を描く。
+
+  - [松本まりか](../Page/松本まりか.md "wikilink") - 松任谷由実 役
+  - [菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")（Sexy Zone） - 松任谷正隆 役
 
 ### ゲスト
 
@@ -35,7 +39,7 @@
 
 ## 出演アーティスト
 
-**太字**は生出演をした歌手
+**太字**は生出演した歌手。
 
   - [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")
   - [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")
@@ -351,7 +355,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>日本テレビ系列<br />
 <a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>

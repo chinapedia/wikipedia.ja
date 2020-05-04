@@ -29,7 +29,7 @@ Luminaは、様々な[BSD](../Page/BSD.md "wikilink")[OS](../Page/OS.md "wikilin
       - [OpenBSD](../Page/OpenBSD.md "wikilink")
       - [kFreeBSD](https://ja.wikipedia.org/wiki/Debian_GNU/kFreeBSD "wikilink")
   - Linuxディストリビューション
-      - [antiX Linux](https://ja.wikipedia.org/wiki/AntiX "wikilink")\[1\]
+      - [antiX Linux](../Page/AntiX.md "wikilink")\[1\]
       - [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink")
       - [Debian](../Page/Debian.md "wikilink")
       - [Fedora](../Page/Fedora.md "wikilink")\[2\]

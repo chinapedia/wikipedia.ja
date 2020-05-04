@@ -1,7 +1,7 @@
 > この記事は[WONDERLAND \(Novelbrightのアルバム\)](https://ja.wikipedia.org/wiki/WONDERLAND_\(Novelbrightのアルバム\))から翻訳されています。
 
 
-『**WONDERLAND**』(ワンダーランド)は、[2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[Novelbright](https://ja.wikipedia.org/wiki/Novelbright "wikilink")がリリースする1作目(アルバム作品3作目)の[フル・アルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。発売元は、Emperor Driver\[2\]。
+『**WONDERLAND**』(ワンダーランド)は、[2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[Novelbright](https://ja.wikipedia.org/wiki/Novelbright "wikilink")がリリースする1作目の[フル・アルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。発売元は、Emperor Driver\[2\]。
 
 品番 STNB-1000\[3\]
 

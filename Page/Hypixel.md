@@ -3,7 +3,7 @@
 
 **Hypixel**（ハイピクセル）\[1\]は、[Hypixel Inc.](https://hypixel.net/)が運営する [Minecraft Java Edition](https://ja.wikipedia.org/wiki/Minecraft "wikilink") のみでプレイ可能な[Minecraft](https://ja.wikipedia.org/wiki/Minecraft "wikilink")\[2\]の[ミニゲーム](../Page/ミニゲーム.md "wikilink")サーバー\[3\]である。
 
-2018年12月時点で4つの[ギネス記録を保持している](../Page/ギネス世界記録.md "wikilink")。
+2018年12月時点で4つの[ギネス記録を保持している](../Page/ギネス世界記録.md "wikilink")\[4\]。
 
 ## ゲーム一覧
 
@@ -21,7 +21,7 @@
   - Arcade Games
       - 十数種類からなるゲームから、好きなゲームを選んで遊んでいく。
   - UHC Champions
-      - サバイバルモードと同じ通常マップに約100人が降り立ち、体力が自動回復しない状況下で、採掘などサバイバルモードと同じように装備を揃えながら最後の1人になるまで戦い抜くバトルロイヤル型ゲームである。
+      - サバイバルモードと同じ通常マップに約100人が降り立ち、体力が自動回復しない状況下で、採掘などサバイバルモードと同じように装備を揃えながら最後の1人になるまで戦い抜くバトルロイヤル型ゲームである。又通常のサバイバルモードにはない特殊レシピなども存在している。
   - Arena Brawl
   - Build Battle
       - 制限時間内に指定されたテーマの建築をするゲームである。建築が修了した後、プレイヤーは相互に6段階の評価をつけて、プレイヤーの評価の合計が高い順に順位がつく。
@@ -42,12 +42,12 @@
   - Smash Heroes
       - [大乱闘スマッシュブラザーズをモチーフにしたゲームである](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink")。
   - Speed UHC
-      - 固定の狭いマップで、30人前後で戦う事以外はUHC Championsと大差ない。
+      - 固定の狭いマップで、30人前後で戦う事以外はUHC Championsと大差ない内容。
   - The TNT Games
       - TNTをテーマとした複数のミニゲームがまとめられている。
       - TNT Run: 2階から5階建ての建物のようなものの最上階に24人が集められてゲームがスタートし、直前に立っていたブロックが消えていくので、ゲームフィールドから落ちないように最後まで走るゲームである。
   - Turbo Kart Racers
-      - [マリオカートシリーズ](../Page/マリオカートシリーズ.md "wikilink")と似ているゲームである。
+      - [マリオカートシリーズ](../Page/マリオカートシリーズ.md "wikilink")と似ているレーシングゲームである。
   - VampireZ
       - ヴァンパイア側とサバイバー側に分かれて、ヴァンパイアはプレイヤーをすべて倒してヴァンパイアにする事、サバイバーは一定時間生き残る事が目的のゲームである。
   - The Walls
@@ -70,23 +70,27 @@
 
 ## 歴史
 
-2013年4月13日、SimonCollins -Laflamme\[4\]（別名「Hypixel」）およびPhilippe Touchette（別名「Rezzus」）としてベータ版で公開。また、情報をYouTubeに公開した。
+2013年4月13日、SimonCollins -Laflamme\[5\]（別名「Hypixel」）およびPhilippe Touchette（別名「Rezzus」）としてベータ版で公開。また、情報をYouTubeに公開した。
 
 2015年9月の時点で、サーバーのメンテナンスには月に約100,000ドル（日本円で約一千万円）かかるとしている。
 
-2016年4月14日、Hypixelのハウジングゲームモードでは、クリストフニーマンの協力により*ニューヨークタイムズの*「注目の世界」が開催された。
+2016年4月14日、Hypixelのハウジングゲームモードでは、クリストフニーマンの協力により*ニューヨークタイムズの*「注目の世界」が開催された\[6\]。
 
 2016年12月21日、Hypixelは、ログインしたプレーヤーが合計1,000万人を超え、サーバーにプレイヤーが述べ接続した時間は1,410万時間に達した。
 
-2019年5月15日、ログインしたプレーヤーが合計1,500万人を超えたことをツイートした。 2015年9月15日時点でー、Hypixelは毎月190万人のプレイヤーがログインしていた。
+2017年5月15日、ログインしたプレーヤーが合計1,500万人を超えたことをツイートした。 2017年8月3日時点でー、Hypixelは毎月300万人のプレイヤーがログインしていた\[7\]。
 
-2017年、Hypixel は*Minecraft China*の発行元である[NetEase](https://ja.wikipedia.org/wiki/NetEase "wikilink")と提携して、Hypixelを[中国](../Page/中国.md "wikilink")で公開した。
+2017年5月21日、Hypixel は*Minecraft China*の発行元である[NetEase](https://ja.wikipedia.org/wiki/NetEase "wikilink")と提携して、Hypixelを[中国](../Page/中国.md "wikilink")で公開した\[8\]。
 
-2018年4月頃、[Miraiが](https://ja.wikipedia.org/wiki/Mirai_\(マルウェア\) "wikilink")[Hypixel](../Page/Hypixel.md "wikilink")サーバーを複数にわたって[DDos攻撃をした](../Page/DoS攻撃.md "wikilink")。その後Hypixelは、[DDoS攻撃の対策としてとして](../Page/DoS攻撃.md "wikilink")[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare "wikilink")の使用を開始した。
+2018年4月頃、[Miraiが](https://ja.wikipedia.org/wiki/Mirai_\(マルウェア\) "wikilink")[Hypixel](../Page/Hypixel.md "wikilink")サーバーを複数にわたって[DDos攻撃をした](../Page/DoS攻撃.md "wikilink")。その後Hypixelは、[DDoS攻撃の対策としてとして](../Page/DoS攻撃.md "wikilink")[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare "wikilink")の使用を開始した\[9\]。
 
-2018年12月13日、Hypixel Studioが[Hytale](https://ja.wikipedia.org/wiki/Hytale "wikilink")を発表した。
+2018年12月13日、Hypixel Studioが[Hytale](https://ja.wikipedia.org/wiki/Hytale "wikilink")を発表した\[10\]。
 
 2020年1月4日、日本語を始めとした、いくつかの言語の一部が新たに対応した。
+
+2020年4月13日、Hytaleを開発しているHypixel StudioがRiot Gamesに買収されたことが発表された\[11\]
+
+2020年4月18日、Minecraft Chinaが2020年6月30日にサービス停止されることが発表された\[12\]。
 
 ## 外部リンク
 
@@ -104,9 +108,17 @@
 
 <references />
 
-[Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:ミニゲーム](https://ja.wikipedia.org/wiki/Category:ミニゲーム "wikilink") [Category:Minecraft](https://ja.wikipedia.org/wiki/Category:Minecraft "wikilink") [Category:ギネス世界記録](https://ja.wikipedia.org/wiki/Category:ギネス世界記録 "wikilink") [Category:世界記録](https://ja.wikipedia.org/wiki/Category:世界記録 "wikilink")
+[Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:ギネス世界記録](https://ja.wikipedia.org/wiki/Category:ギネス世界記録 "wikilink")
 
 1.
 2.
 3.
 4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.

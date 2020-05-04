@@ -67,7 +67,7 @@
 
   - [港鉄メトロキャメル電車](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink")
   - [港鉄Rotem電車](../Page/香港地下鉄Rotem電車.md "wikilink")
-  - [港鉄市区線中国製電車](https://ja.wikipedia.org/wiki/香港鉄路市区線中国製電車_\(初代\) "wikilink")
-  - [港鉄南港島線中国製電車](https://ja.wikipedia.org/wiki/香港鉄路南港島線中国製電車 "wikilink")
+  - [港鉄市区線中国製電車](../Page/香港鉄路市区線中国製電車_\(初代\).md "wikilink")
+  - [港鉄南港島線中国製電車](../Page/香港鉄路南港島線中国製電車.md "wikilink")
 
 [Category:香港の鉄道車両](https://ja.wikipedia.org/wiki/Category:香港の鉄道車両 "wikilink") [Category:香港MTR](https://ja.wikipedia.org/wiki/Category:香港MTR "wikilink")

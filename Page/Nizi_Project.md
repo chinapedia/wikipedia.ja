@@ -121,6 +121,22 @@
 <li>[<a href="https://www.youtube.com/watch?v=Eb1f3vKjsfY">https://www.youtube.com/watch?v=Eb1f3vKjsfY</a>　Part 1 #8-2]</li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td><p>第9話</p></td>
+<td><p>2020年4月24日</p></td>
+<td><ul>
+<li>[<a href="https://www.youtube.com/watch?v=-KP4yxou2N8">https://www.youtube.com/watch?v=-KP4yxou2N8</a>　Part 1 #9-1]</li>
+<li>[<a href="https://www.youtube.com/watch?v=cWVXbar6iXI">https://www.youtube.com/watch?v=cWVXbar6iXI</a>　Part 1 #9-2]</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td><p>2020年5月1日</p></td>
+<td><ul>
+<li>[<a href="https://www.youtube.com/watch?v=KKfrWIue2JQ">https://www.youtube.com/watch?v=KKfrWIue2JQ</a>　Part 1 #10-1]</li>
+<li>[<a href="https://www.youtube.com/watch?v=fH1BBu7W9yQ">https://www.youtube.com/watch?v=fH1BBu7W9yQ</a>　Part 1 #10-2]</li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
@@ -286,7 +302,7 @@
 
 ### パート2
 
-成長様々なミッションで最下位に2回なったメンバーは脱落となる。
+「可能性を実力に変え、どれだけ成長できるか」がパート2のカギとなっている。パート1での4つのキューブに加えて、さらに4つのキューブを手に入れた練習生がデビューメンバーに選ばれる。しかし、トレーニング期間中の態度に問題がある練習生は最終デビューメンバーに選ばれない。また、様々なミッションで2回最下位になったメンバーは脱落となる。
 
   - **個人レベルテスト**
 
@@ -448,10 +464,18 @@
 
 #### 個人レベルテスト
 
-| 個人レベルテスト 使用楽曲    |
-| ---------------- |
-| 使用楽曲             |
-| 「숙녀 (Lady)」Yubin |
+| 個人レベルテスト 使用楽曲                                                              |
+| -------------------------------------------------------------------------- |
+| 使用楽曲                                                                       |
+| 「숙녀 (Lady)」[Yubin](https://ja.wikipedia.org/wiki/ユビン "wikilink")           |
+| 「Good-bye Baby」Miss A                                                      |
+| 「Nobody (Rainstone remix)」Wonder Girls                                     |
+| 「소중한 사랑 (Precious Love)」TWICE                                              |
+| 「Attention」[チャーリー・プース](https://ja.wikipedia.org/wiki/チャーリー・プース "wikilink") |
+| 「Who's your mama? (feat. Jessi)」J.Y. Park                                  |
+| 「남자 없이 잘 살아 (I don't need a man)」Miss A                                    |
+| 「Touch」Miss A                                                              |
+| 「Who's your mama? (feat. Jessi)」J.Y. Park                                  |
 
 ## 審査・課題での結果
 
@@ -570,6 +594,14 @@
 | 櫻井美羽              |
 | 佐藤愛夏              |
 | **鈴野未光**          |
+
+### パート2
+
+#### キューブ獲得状況
+
+| \-           | 獲得メンバー                        |
+| ------------ | ----------------------------- |
+| **個人レベルテスト** | <small>鈴野未光、大江梨久、勝村摩耶</small> |
 
 ## 参加メンバーのその後
 

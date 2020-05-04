@@ -45,7 +45,7 @@
 
   - [ド・モーリー男爵](../Page/ド・モーリー男爵.md "wikilink")―<small>5代男爵の子孫が19世紀に叙された爵位。現存。</small>
 
-[Category:イギリスの男爵位](https://ja.wikipedia.org/wiki/Category:イギリスの男爵位 "wikilink")
+[Category:イギリスの男爵位](https://ja.wikipedia.org/wiki/Category:イギリスの男爵位 "wikilink") [Category:停止中の爵位](https://ja.wikipedia.org/wiki/Category:停止中の爵位 "wikilink")
 
 1.   Oxford Dictionary of National Biography|url=[https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18375|website=www.oxforddnb.com|accessdate=2020-01-15|doi=10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18375|language=en](https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18375%7Cwebsite=www.oxforddnb.com%7Caccessdate=2020-01-15%7Cdoi=10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18375%7Clanguage=en)}}
 2.  Vincent *Peter des Roches* p. 26 footnote 60

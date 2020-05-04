@@ -25,10 +25,14 @@
   - [バゲット](https://ja.wikipedia.org/wiki/バゲット_\(テレビ番組\) "wikilink")（日本テレビ）
   - [ダウンタウンのガキの使いやあらへんで\!](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")（日本テレビ）- [山-1グランプリ](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!!の企画#山崎プレゼンツ_山-1グランプリ "wikilink")
   - [ウチのガヤがすみません\!](https://ja.wikipedia.org/wiki/ウチのガヤがすみません! "wikilink")（日本テレビ）
+  - [全力\!脱力タイムズ](https://ja.wikipedia.org/wiki/全力!脱力タイムズ "wikilink")（[CX](https://ja.wikipedia.org/wiki/CX "wikilink")）
+  - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（日本テレビ）
 
 ### ラジオ
 
   - [高田文夫のラジオビバリー昼ズ](../Page/高田文夫のラジオビバリー昼ズ.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
+  - [純次と直樹](https://ja.wikipedia.org/wiki/純次と直樹 "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
+  - [後藤麻衣の心配ないさぁ〜\!\!](https://ja.wikipedia.org/wiki/後藤麻衣の心配ないさぁ〜!! "wikilink")（[RFラジオ日本](https://ja.wikipedia.org/wiki/RFラジオ日本 "wikilink")）
 
 ## 脚注
 

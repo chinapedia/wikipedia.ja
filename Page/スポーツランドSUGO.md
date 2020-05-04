@@ -140,13 +140,14 @@
 | **2017** | [鈴木佳奈](https://ja.wikipedia.org/wiki/鈴木佳奈 "wikilink")、松山紗希、大友沙弥、高木由紀、遠山瑞姫、及川真珠    | 高木由紀、遠山瑞姫、及川真珠は2016年度より継続\[40\]。            |
 | **2018** | 千葉陽香、松田みつき、樋口紗耶、みつき、鈴木佳奈、松山紗希                                                     | 鈴木佳奈、松山紗希は2017年度より継続\[41\]。                 |
 | **2019** | 長坂有紗、大橋恵、落合裕子、曽根彩香、千葉陽香、永峰さや                                                      | 千葉陽香、永峰さや（樋口紗耶から改名）は2018年度より継続\[42\]\[43\]。 |
+| **2020** | まりか、木村里佳子、伊藤陽菜、芙夏、長坂有紗、大橋恵、落合裕子、曽根彩香                                              | 長坂有紗、大橋恵、落合裕子、曽根彩香は2019年度より継続\[44\]。        |
 |          |                                                                                   |                                             |
 
 「SUGOレースクイーン」出身の著名人には、[1994年](../Page/1994年.md "wikilink")（平成6年）に務めた[鈴木史華](../Page/鈴木史華.md "wikilink")、[2003年](../Page/2003年.md "wikilink")（平成15年）に務めた[岩手佳代子](../Page/岩手佳代子.md "wikilink")（宮城県の[ローカルタレント](../Page/ローカルタレント.md "wikilink")）や[2007年](../Page/2007年.md "wikilink")（平成19年）に務めた[天野由加里](https://ja.wikipedia.org/wiki/天野由加里 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[ZENT sweeties](https://ja.wikipedia.org/wiki/善都#モータースポーツ "wikilink")）、[2015年](../Page/2015年.md "wikilink")（平成27年）・[2016年](../Page/2016年.md "wikilink")（平成28年）に務め、[2018年](../Page/2018年.md "wikilink")（平成30年）に[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")第42作目の『[快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー](https://ja.wikipedia.org/wiki/快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー "wikilink")』で女優デビューした[奥山かずさ](https://ja.wikipedia.org/wiki/奥山かずさ "wikilink")などがいる。
 
 ### SRQ5
 
-[2012年](../Page/2012年.md "wikilink")（平成24年）の「SUGOレースクイーン」に選ばれた5名により[ローカルアイドル](../Page/ローカルアイドル.md "wikilink")ユニット「**SRQ5**」が結成された\[44\]。同年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")から[Date fm](../Page/エフエム仙台.md "wikilink")『[AIRJAM Friday](../Page/AIRJAM.md "wikilink")』内で始まったコーナー「SUGOサウンドサーキット」に合わせ、同コーナーを担当するSRQ5が「恋のポールtoウィン」\[45\]でデビューした\[46\]。同曲はスポーツランドSUGOの[CMで](../Page/コマーシャルメッセージ.md "wikilink")[BGMとしても使用されている](../Page/バックグラウンドミュージック.md "wikilink")。
+[2012年](../Page/2012年.md "wikilink")（平成24年）の「SUGOレースクイーン」に選ばれた5名により[ローカルアイドル](../Page/ローカルアイドル.md "wikilink")ユニット「**SRQ5**」が結成された\[45\]。同年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")から[Date fm](../Page/エフエム仙台.md "wikilink")『[AIRJAM Friday](../Page/AIRJAM.md "wikilink")』内で始まったコーナー「SUGOサウンドサーキット」に合わせ、同コーナーを担当するSRQ5が「恋のポールtoウィン」\[46\]でデビューした\[47\]。同曲はスポーツランドSUGOの[CMで](../Page/コマーシャルメッセージ.md "wikilink")[BGMとしても使用されている](../Page/バックグラウンドミュージック.md "wikilink")。
 
 ## その他
 
@@ -229,6 +230,7 @@
 41. [改めまして鈴木佳奈です！！](https://ameblo.jp/sugo-racequeen/entry-12363212083.html),SUGO RACE QUEEN BLOG,2018年3月25日
 42. [みなさん、お久しぶりです](https://ameblo.jp/sugo-racequeen/entry-12449544518.html),SUGO RACE QUEEN BLOG,2019年3月25日
 43.
-44.
+44. [2020SUGO RQ発表！](https://ameblo.jp/sugo-racequeen/entry-12591467045.html),SUGO RACE QUEEN BLOG,2020年4月20日
 45.
-46. [鉄子、ふたたび・・・](http://akane-sugo.blog.ocn.ne.jp/blog/2012/05/post_c89e.html)（SUGO RACEQUEENブログ 2012年5月5日）
+46.
+47. [鉄子、ふたたび・・・](http://akane-sugo.blog.ocn.ne.jp/blog/2012/05/post_c89e.html)（SUGO RACEQUEENブログ 2012年5月5日）

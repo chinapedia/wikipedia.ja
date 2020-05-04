@@ -475,7 +475,7 @@ X'masプレゼント交換会<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>日本テレビ系列 / <a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>[46]</p></td>
 <td></td>
@@ -761,6 +761,6 @@ X'masプレゼント交換会<br />
 43.
 44. [さんま以前からＳＭＡＰの事情知っていた　年末特番「やりにくかった」](http://www.sponichi.co.jp/entertainment/news/2016/01/17/kiji/K20160117011874050.html),スポーツニッポン,2016年1月17日
 45. 2017年以降はさんま\&SMAPの事実上後継で、2016年以降同じくクリスマス期に放送されている『行列のできる法律相談所』の年内最終放送日の生ザンゲスペシャルにも出演し、改編期スペシャルと同様に司会を務めている。
-46. [テレビ朝日系列とのクロスネット局である](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")の土曜21:00 - 22:54はテレビ朝日系遅れネット番組に差し替えているが、本番組が土曜に放送される場合は同時ネットになる。
+46. [テレビ朝日系列とのクロスネット局である](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[福井放送](../Page/福井放送.md "wikilink")の土曜21:00 - 22:54はテレビ朝日系遅れネット番組に差し替えているが、本番組が土曜に放送される場合は同時ネットになる。
 47. テレビ大分の2005年までの土曜日21時台・22時台はフジテレビ系同時ネットだったため、当番組は初回以降放送されていなかったが、2005年から放送を再開し、2006年から土曜日21時台・22時台が日本テレビ系同時ネットに変更されたため、土曜日の放送も同時ネットで放送されるようになった。2013年はゴールデンタイムの編成がフジテレビ系の編成である火曜日に放送されるため、同時ネットされない。
 48. NNS非加盟局。テレビ宮崎の日曜日のゴールデン・プライムタイムの編成は日本テレビ系の編成のため。

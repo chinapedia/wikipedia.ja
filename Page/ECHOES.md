@@ -24,7 +24,7 @@
   - 「ZOO」のリバイバルヒットで再評価され、2000年12月28日に日本武道館にて一夜限りの再結成ライブを開催した。本編に出演したオリジナルメンバーは辻と伊藤のみだったが、アンコールでは伊黒・今川も参加し「ZOO」「ONE WAY RADIO」「SOME ONE LIKE YOU」を演奏。
   - 再結成ライブの翌年、辻は伊藤浩樹と新ユニット『ECHOES OF YOUTH』を結成、シングル3枚をリリース。ユニット名は'91年解散前のファンクラブ名に由来している。アルバム制作も発表していたが、リリースには至っていない。
   - 2008年、辻と伊藤は元[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")[恩田快人](../Page/恩田快人.md "wikilink")・[五十嵐公太](../Page/五十嵐公太.md "wikilink")と共に[ZAMZA N'BANSHEEを結成](https://ja.wikipedia.org/wiki/ZAMZA "wikilink")。ただし辻は自身のブログにて「ECHOESと[ジュディマリの曲はやらない](../Page/JUDY_AND_MARY.md "wikilink")」と明言。また「ZAMZA N'BANSHEEは辻仁成の最後のステージになる」とも語った。
-  - 2009年3月23日放送の[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")のTV番組「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") 歌力の名曲CHAMP！蘇るいい歌だらけのスペシャル！」にZAMZA N'BANSHEEのメンバーで出演。「ZOO」を披露した。
+  - 2009年3月23日放送の[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")のTV番組「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") 歌力の名曲CHAMP！蘇るいい歌だらけのスペシャル！」にZAMZA N'BANSHEEのメンバーで出演。「ZOO」を披露した。
   - 2011年9月4日、福島市内のライブハウス「C-MOON」でワンマンライブ「連帯の日」を行った。オリジナルメンバー4人でのフルステージは解散から20年ぶり。また、新メンバーに[小柳"cherry"昌法](https://ja.wikipedia.org/wiki/小柳"cherry"昌法 "wikilink")・[礒江俊道](https://ja.wikipedia.org/wiki/礒江俊道 "wikilink")を加え12月22日にも「連帯の日 TOKYO」を都内のライブハウス「SHIBUYA-AX」で行い、2012年4月29日[ARABAKI ROCK FEST](https://ja.wikipedia.org/wiki/ARABAKI_ROCK_FEST "wikilink")．12出演・4月30日「ECHOES ROCK'NROLL ENGINE 2012～連帯の日・福島～」を[郡山CLUB＃9](https://ja.wikipedia.org/wiki/郡山CLUB＃9 "wikilink")・5月8日「同～連帯の日～ そのうち愛がないなら、今すぐ僕らは手をつなげ！」を[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で、新曲「そのうち愛がないなら、今すぐ僕らは手をつなげ～Solidarity」CD付きLIVEを敢行した。
 
 ## メンバー

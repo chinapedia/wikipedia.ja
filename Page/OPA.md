@@ -57,10 +57,12 @@
   - 高崎オーパ☆（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")\[12\]\[13\]、2017年10月13日開業）
   - [水戸オーパ](https://ja.wikipedia.org/wiki/水戸サウスタワー "wikilink")☆（[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")\[14\]）
   - 聖蹟桜ヶ丘オーパ（[東京都](../Page/東京都.md "wikilink")[多摩市](https://ja.wikipedia.org/wiki/多摩市 "wikilink")）
+      - [西友](../Page/西友.md "wikilink")聖蹟桜ヶ丘店の跡地に建設され、[1999年](../Page/1999年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")\[15\]に開館した[再開発ビル](../Page/都市再開発.md "wikilink")「ヴィータ聖蹟桜ヶ丘」\[16\]の[核店舗](https://ja.wikipedia.org/wiki/核店舗 "wikilink")。施設名は[イタリア語](../Page/イタリア語.md "wikilink")で「人生・生活」を意味する「vita」と「Vitamin and Inteligene of TAMA／知性豊かな多摩市の未来像」の略語を掛けている\[17\]。7階・8階には多摩市[関戸公民館](https://ja.wikipedia.org/wiki/関戸_\(多摩市\) "wikilink")（ヴィータ・コミューネ）が入居する\[18\]。
   - 八王子オーパ☆（東京都[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")）
+      - [八王子駅](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")南口再開発事業により\[19\]、[2018年](../Page/2018年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に開業\[20\]。
   - 新百合丘オーパ（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[麻生区](https://ja.wikipedia.org/wiki/麻生区 "wikilink")）
   - 湘南藤沢オーパ☆（神奈川県[藤沢市](../Page/藤沢市.md "wikilink")）
-      - 開業当初より藤沢オーパとして営業してきたが、2019年4月27日のリニューアルオープンを機に店名変更され、2016年の統合以前から存在したOPA店舗では初めて2代目ロゴを導入した\[15\]。
+      - 開業当初より藤沢オーパとして営業してきたが、2019年4月27日のリニューアルオープンを機に店名変更され、2016年の統合以前から存在したOPA店舗では初めて2代目ロゴを導入した\[21\]。
   - 名古屋mozoオーパ☆（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区](../Page/西区_\(名古屋市\).md "wikilink")）
       - [mozoワンダーシティ](https://ja.wikipedia.org/wiki/mozoワンダーシティ "wikilink")4Fに出店。2019年4月15日に閉店した「名古屋ワンダーシティビブレ」の後継店舗。
   - 河原町オーパ（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")）
@@ -70,15 +72,15 @@
       - 心斎橋オーパきれい館（大阪府大阪市中央区）
   - 三宮オーパ☆（兵庫県神戸市中央区）
       - [三宮ビブレ](../Page/三宮ビブレ.md "wikilink")からリブランド（店舗改称）した2代目店舗である。初代店舗については後述。　
-  - [三宮オーパ2](https://ja.wikipedia.org/wiki/ダイエー神戸三宮店 "wikilink")☆（兵庫県神戸市[中央区](../Page/中央区_\(神戸市\).md "wikilink")\[16\]\[17\]）
-      - 2代目店舗ロゴを採用した最初の店舗
+  - [三宮オーパ2](https://ja.wikipedia.org/wiki/ダイエー神戸三宮店 "wikilink")☆（兵庫県神戸市[中央区](../Page/中央区_\(神戸市\).md "wikilink")\[22\]\[23\]）
+      - 2代目店舗ロゴを採用した最初の店舗。
   - [キャナルシティオーパ](../Page/キャナルシティ博多.md "wikilink")（[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")、関係会社店舗）
   - [大分オーパ](https://ja.wikipedia.org/wiki/大分オーパ "wikilink")☆（[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")）
-      - 2017年2月26日に閉店した[大分フォーラス](https://ja.wikipedia.org/wiki/大分フォーラス "wikilink")を建て替えて開業\[18\]。
+      - 2017年2月26日に閉店した[大分フォーラス](https://ja.wikipedia.org/wiki/大分フォーラス "wikilink")を建て替えて開業\[24\]。
   - 那覇オーパ☆（[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")）
   - 上海OPA淮海店（[中国](../Page/中国.md "wikilink")[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")）
 
-ファイル:Akita OPA 20180429b.jpg|秋田オーパ ファイル: Takasaki Opa under construction 01 2017-07.jpg|高崎オーパ ファイル:VITA Seiseki-Sakuragaoka.jpg|聖蹟桜ヶ丘オーパ ファイル:Kawaramachi OPA.JPG|河原町オーパ ファイル:Shinsaibashi OPA.JPG|心斎橋オーパ ファイル:ABC Mart Umeda Building IMG 2785-2 20130505.JPG|梅田オーパ ファイル:Sannomiya Opa.jpg|三宮オーパ(2代目) ファイル:%C3%86ON_FOOD_STYLE_Kobe_Sannomiya_store.jpg|三宮オーパ2 ファイル:OITA_OPA.jpg|大分オーパ ファイル:那覇バスターミナル.jpg|那覇オーパ(2代目)
+ファイル:Akita OPA 20180520.jpg|秋田オーパ ファイル: Takasaki Opa under construction 01 2017-07.jpg|高崎オーパ ファイル:VITA Seiseki-Sakuragaoka.jpg|聖蹟桜ヶ丘オーパ ファイル:Kawaramachi OPA.JPG|河原町オーパ ファイル:Shinsaibashi OPA.JPG|心斎橋オーパ ファイル:ABC Mart Umeda Building IMG 2785-2 20130505.JPG|梅田オーパ ファイル:Sannomiya Opa.jpg|三宮オーパ(2代目) ファイル:%C3%86ON_FOOD_STYLE_Kobe_Sannomiya_store.jpg|三宮オーパ2 ファイル:OITA_OPA.jpg|大分オーパ ファイル:那覇バスターミナル2018年9月.jpg|那覇オーパ(2代目)
 
 ### VIVRE
 
@@ -115,7 +117,7 @@
   - 高松オーパ（[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")・[常磐町商店街](https://ja.wikipedia.org/wiki/高松中央商店街#常磐町商店街 "wikilink")）
     [2004年](../Page/2004年.md "wikilink")に閉店。
     [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に当時のダイエー高松店を業態変更（同年に屋島店（[2005年](../Page/2005年.md "wikilink")11月閉鎖）が開業したため）したもので、他のオーパと異なりダイエー本社の経営であった。[2001年](../Page/2001年.md "wikilink")9月にOPAの名を保ったままビルオーナーの常磐興業に営業譲渡され、2004年6月に完全閉鎖された。2009年1月26日の高松市中心市街地活性化協議会において、常磐興業などから建物を解体撤去の上、店舗・ホテルとマンションが複合した14階建ての再開発ビルを建設する計画が発表されたが、実現には至らず、結局跡地は、2012年5月 - 2013年8月の高松いろは市場を経て、2017年7月よりビアホールが営業している。
-    地上5階地下1階建てだったが、エレベーターが地下には通じていない・ダイエー時代には5階の売場にエレベーターで行けない\[19\]など、同じ常磐街にあった[ジャスコ](../Page/ジャスコ.md "wikilink")高松店\[20\]と並んで造りの評価は良くなかった。そのうえエスカレーターも上りしか設置されていなかった。
+    地上5階地下1階建てだったが、エレベーターが地下には通じていない・ダイエー時代には5階の売場にエレベーターで行けない\[25\]など、同じ常磐街にあった[ジャスコ](../Page/ジャスコ.md "wikilink")高松店\[26\]と並んで造りの評価は良くなかった。そのうえエスカレーターも上りしか設置されていなかった。
   - 浜大津オーパ（[明日都浜大津](../Page/明日都浜大津.md "wikilink")内）
     2004年3月に閉店。
   - 南越谷オーパ（[埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")[南越谷](../Page/南越谷.md "wikilink")）
@@ -176,7 +178,13 @@
 14. [イオンモールの新たな成長戦略・都市シフトを本格始動 「（仮称）高崎オーパ」・「（仮称）水戸オーパ」新規出店決定！](http://www.aeonmall.com/upload/1465534818.pdf) イオンモール・OPA　2016年6月10日掲載・6月17日閲覧
 15.
 16.
-17. [三宮オーパ2（ツー）に名称決定\!](http://www.aeonmall.com/files/management_news/891/pdf.pdf) イオンモール 2016年11月18日掲載・11月19日閲覧
+17.
 18.
-19. これは5階に常磐興業本社があり、ダイエーとは壁で仕切られていたため。この壁はOPAになって取り払われた。
-20. [1989年](../Page/1989年.md "wikilink")閉鎖。[2007年](../Page/2007年.md "wikilink")4月に開業した[同名店舗とは違う店舗である](../Page/イオンモール高松.md "wikilink")。
+19.
+20.
+21.
+22.
+23. [三宮オーパ2（ツー）に名称決定\!](http://www.aeonmall.com/files/management_news/891/pdf.pdf) イオンモール 2016年11月18日掲載・11月19日閲覧
+24.
+25. これは5階に常磐興業本社があり、ダイエーとは壁で仕切られていたため。この壁はOPAになって取り払われた。
+26. [1989年](../Page/1989年.md "wikilink")閉鎖。[2007年](../Page/2007年.md "wikilink")4月に開業した[同名店舗とは違う店舗である](../Page/イオンモール高松.md "wikilink")。

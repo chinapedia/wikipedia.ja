@@ -265,7 +265,7 @@
 </tbody>
 </table>
 
-  - それ以外にも[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")\[12\]、[ミヤギテレビ](https://ja.wikipedia.org/wiki/ミヤギテレビ "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[テレビ新潟](https://ja.wikipedia.org/wiki/テレビ新潟 "wikilink")、[テレビ金沢](../Page/テレビ金沢.md "wikilink")\[13\]、[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")などでもネットされていた。
+  - それ以外にも[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")\[12\]、[ミヤギテレビ](https://ja.wikipedia.org/wiki/ミヤギテレビ "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[テレビ新潟](https://ja.wikipedia.org/wiki/テレビ新潟 "wikilink")、[テレビ金沢](../Page/テレビ金沢.md "wikilink")\[13\]、[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")などでもネットされていた。
 
 ## 脚注
 

@@ -84,8 +84,8 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
       - [800形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道800形 "wikilink")（クラス800）\[15\]
       - [801形電車](https://ja.wikipedia.org/wiki/イギリス鉄道801形電車 "wikilink")（クラス801）\[16\]
       - [802形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道802形 "wikilink")（クラス802）\[17\]
-      - [803形電車](https://ja.wikipedia.org/wiki/イギリス鉄道803形電車 "wikilink")（クラス803）\[18\]
-      - [810形バイモード車](https://ja.wikipedia.org/wiki/イギリス鉄道810形 "wikilink")（クラス810）\[19\]
+      - [803形電車](../Page/イギリス鉄道803形電車.md "wikilink")（クラス803）\[18\]
+      - [810形バイモード車](../Page/イギリス鉄道810形.md "wikilink")（クラス810）\[19\]
   - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
       - [台湾鉄路管理局TEMU1000型電車](https://ja.wikipedia.org/wiki/台湾鉄路管理局TEMU1000型電車 "wikilink")
   - [大韓民国](../Page/大韓民国.md "wikilink")
@@ -109,7 +109,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 
 イースト・コースト本線での運行事業者である[ロンドン・ノース・イースタン・レールウェイでは](https://ja.wikipedia.org/wiki/ロンドン・ノース・イースタン鉄道 "wikilink")、[誘導障害](https://ja.wikipedia.org/wiki/誘導障害 "wikilink")が発覚したため運行開始が遅れ、800形は2019年5月、801形は同年9月に営業運転を開始している。グレート・ウェスタン・レールウェイとは異なり、ロンドン・ノース・イースタン・レールウェイのAT-300は東の[和名](../Page/和名.md "wikilink")にちなみ、「あずま」と名付けられている\[30\]
 
-イギリスではこれらの他にもAT-300が発注されており、[トランスペナイン・エクスプレス](https://ja.wikipedia.org/wiki/トランスペナイン・エクスプレス "wikilink")（愛称「ノヴァ1」）、（愛称「パラゴン」）それぞれの802形が現在運行を開始している。これらに加え、2021年には（[803形](https://ja.wikipedia.org/wiki/イギリス鉄道803形電車 "wikilink")）、2022年には（[810形](https://ja.wikipedia.org/wiki/イギリス鉄道810形 "wikilink")）、（形式未定）で新たに運行を開始することになっている\[31\]\[32\]。
+イギリスではこれらの他にもAT-300が発注されており、[トランスペナイン・エクスプレス](https://ja.wikipedia.org/wiki/トランスペナイン・エクスプレス "wikilink")（愛称「ノヴァ1」）、（愛称「パラゴン」）それぞれの802形が現在運行を開始している。これらに加え、2021年には（[803形](../Page/イギリス鉄道803形電車.md "wikilink")）、2022年には（[810形](../Page/イギリス鉄道810形.md "wikilink")）、（形式未定）で新たに運行を開始することになっている\[31\]\[32\]。
 
 <table>
 <thead>
@@ -248,7 +248,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道802形" title="wikilink">802</a></p></td>
 <td><p>/0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:802010_at_Par.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Great_Western_Railway_Class_802_(802010)_at_Par.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
 <td><p>AT300</p></td>
 <td><p>両</p></td>
 <td><p>グレート・ウェスタン・レールウェイ</p></td>
@@ -298,7 +298,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道803形電車" title="wikilink">803</a></p></td>
+<td><p><a href="../Page/イギリス鉄道803形電車.md" title="wikilink">803</a></p></td>
 <td></td>
 <td><p>AT300</p></td>
 <td><p>電</p></td>
@@ -311,7 +311,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/イギリス鉄道810形" title="wikilink">810</a></p></td>
+<td><p><a href="../Page/イギリス鉄道810形.md" title="wikilink">810</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:EMR_AT300.jpg" title="fig:120x120ピクセル">120x120ピクセル</a></p></td>
 <td><p>AT300</p></td>
 <td><p>両</p></td>
@@ -387,7 +387,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 ## 関連項目
 
   - [日立製作所笠戸事業所](https://ja.wikipedia.org/wiki/日立製作所笠戸事業所 "wikilink")
-  - [日立製作所ニュートン・エイクリフ工場](https://ja.wikipedia.org/wiki/日立製作所ニュートン・エイクリフ工場 "wikilink")
+  - [日立製作所ニュートン・エイクリフ工場](../Page/日立製作所ニュートン・エイクリフ工場.md "wikilink")
   - [通勤・近郊電車の標準仕様ガイドライン](../Page/通勤・近郊電車の標準仕様ガイドライン.md "wikilink")
   - [アルミニウム合金製の鉄道車両](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")
   - [efACE](https://ja.wikipedia.org/wiki/efACE "wikilink") - [川崎重工業](../Page/川崎重工業.md "wikilink")による類似コンセプトの鉄道車両。こちらはアルミ車に加えて[ステンレス車も存在する](../Page/オールステンレス車両.md "wikilink")。
@@ -413,7 +413,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 12. 第1編成のみ。第2編成以降は日本車輌製造製で[ステンレス構体](../Page/ステンレス鋼.md "wikilink")「[日車式ブロック工法](https://ja.wikipedia.org/wiki/ブロック工法#鉄道車両 "wikilink")」を採用。
 13.
 14.  Hitachi Rail EU|website=www.hitachirail-eu.com|accessdate=2020-01-10}}
-15. [日立製作所ニュートン・エイクリフ工場](https://ja.wikipedia.org/wiki/日立製作所ニュートン・エイクリフ工場 "wikilink")で製造される。
+15. [日立製作所ニュートン・エイクリフ工場](../Page/日立製作所ニュートン・エイクリフ工場.md "wikilink")で製造される。
 16.
 17.
 18.

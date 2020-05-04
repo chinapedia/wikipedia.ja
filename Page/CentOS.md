@@ -5,7 +5,7 @@
 
 ## 概要
 
-[レッドハット](../Page/レッドハット.md "wikilink")は[RHELに含まれている](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[ソースコード](../Page/ソースコード.md "wikilink")を[オープンソース](../Page/オープンソース.md "wikilink")ライセンスに基づき無償公開している。CentOSはこれをもとに、商標や商用パッケージ等を除去したものをリビルドしている。[White Box Enterprise Linux](../Page/White_Box_Enterprise_Linux.md "wikilink")、[Scientific Linux等を含めて](../Page/Scientific_Linux.md "wikilink")、一般に「RHELクローン」と呼ばれることもある。ただしCentOSプロジェクトのFAQでは"CentOS Linux is NOT a clone of Red Hat® Enterprise Linux."\[5\] と明記されておりRHELのクローンではない。 RHELに由来するソースコードは変更されないように意図されている\[6\]が、CentOS独自の追加機能を提供するリポジトリを提供している\[7\]。
+[レッドハット](../Page/レッドハット.md "wikilink")は[RHELに含まれている](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[ソースコード](../Page/ソースコード.md "wikilink")を[オープンソース](../Page/オープンソース.md "wikilink")ライセンスに基づき無償公開している。CentOSはこれをもとに、商標や商用パッケージ等を除去したものをリビルドしている。[White Box Enterprise Linux](../Page/White_Box_Enterprise_Linux.md "wikilink")、[Scientific Linux等を含めて](../Page/Scientific_Linux.md "wikilink")、一般に「RHELクローン」と呼ばれることもある。ただしCentOSプロジェクトのFAQでは"CentOS Linux is NOT a clone of Red Hat® Enterprise Linux."\[5\] と明記されておりRHELのクローンではないとしている。 RHELに由来するソースコードは変更されないように意図されている\[6\]が、CentOS独自の追加機能を提供するリポジトリを提供している\[7\]。
 
 ## 開発
 
@@ -449,7 +449,7 @@ Maintenance Updates</p></th>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>7.7-1908（最新）</p></td>
+<td><p>7.7-1908</p></td>
 <td><p>x86-64</p></td>
 <td><p>3.10.0-1062</p></td>
 <td><p>2019年9月17日</p></td>
@@ -459,13 +459,35 @@ Maintenance Updates</p></th>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>7.8-2003（最新）</p></td>
+<td><p>x86-64</p></td>
+<td><p>3.10.0-1127</p></td>
+<td><p>2020年4月27日</p></td>
+<td><p>2020年3月30日</p></td>
+<td><p>28日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>8</p></td>
-<td><p>8.0-1905（最新）</p></td>
+<td><p>8.0-1905</p></td>
 <td><p>x86-64, POWER8 LE, AArch64</p></td>
 <td><p>4.18.0-80</p></td>
 <td><p>2019年9月24日</p></td>
 <td><p>2019年5月7日</p></td>
 <td><p>140日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>8.1-1911（最新）</p></td>
+<td><p>x86-64, POWER8 LE, AArch64</p></td>
+<td><p>4.18.0-147</p></td>
+<td><p>2020年1月15日</p></td>
+<td><p>2019年11月5日</p></td>
+<td><p>71日</p></td>
 <td></td>
 <td></td>
 </tr>

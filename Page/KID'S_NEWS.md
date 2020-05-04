@@ -70,7 +70,7 @@
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink") | [青森朝日放送](../Page/青森朝日放送.md "wikilink")                      | 日曜 6時15分～6時30分                                                              | 不明               |      |         |
 | [福島県](../Page/福島県.md "wikilink")                    | [福島放送](../Page/福島放送.md "wikilink")                          | 1日遅れ                                                                        |                  |      |         |
 
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（[日本テレビ系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")および[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（日本テレビ系列）は放送期間途中でネットを打ち切った。
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[福井放送](../Page/福井放送.md "wikilink")（[日本テレビ系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）、[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")および[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（日本テレビ系列）は放送期間途中でネットを打ち切った。
   - [岩手県](../Page/岩手県.md "wikilink")では[岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")開局前に[テレビ岩手](../Page/テレビ岩手.md "wikilink")(日本テレビ系列)が番組購入の形で1995年2月から毎週土曜朝6:00～6:15の時間帯で放送されたが，IAT開局が1年後の1996年10月と決まったことから1995年9月をもって同番組は打ち切られた。
 
 ## 関連項目

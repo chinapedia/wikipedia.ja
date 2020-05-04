@@ -774,7 +774,7 @@ Dr.O友/Dr.石川</p></td>
 <td><p>宇宙豆（そらまめ）の唄が聞こえる</p></td>
 <td><p>しぎの義信</p></td>
 <td><p>しぎのあきら</p></td>
-<td><p>村田四郎</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/村田四郎_(アニメーター)" title="wikilink">村田四郎</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

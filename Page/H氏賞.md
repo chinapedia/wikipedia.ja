@@ -32,7 +32,7 @@
 | 第16回                                                  | 1966年     | [入沢康夫](../Page/入沢康夫.md "wikilink")                             | 季節についての試論      |
 | 第17回                                                  | 1967年     | [三木卓](../Page/三木卓.md "wikilink")                               | 東京午前三時         |
 | 第18回                                                  | 1968年     | [鈴木志郎康](../Page/鈴木志郎康.md "wikilink")                           | 罐製同棲又は陥穽への逃亡   |
-| [村上昭夫](https://ja.wikipedia.org/wiki/村上昭夫 "wikilink") | 動物哀歌      |                                                                |                |
+| [村上昭夫](../Page/村上昭夫.md "wikilink")                    | 動物哀歌      |                                                                |                |
 | 第19回                                                  | 1969年     | [石垣りん](../Page/石垣りん.md "wikilink")                             | 表札など           |
 | [犬塚堯](https://ja.wikipedia.org/wiki/犬塚堯 "wikilink")   | 南極        |                                                                |                |
 | 第20回                                                  | 1970年     | [知念栄喜](https://ja.wikipedia.org/wiki/知念栄喜 "wikilink")          | みやらび           |

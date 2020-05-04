@@ -1,7 +1,9 @@
 > この記事は[NBCテロ対応専門部隊](https://ja.wikipedia.org/wiki/NBCテロ対応専門部隊)から翻訳されています。
 
 
-[Kanagawa-NBCtaisaku.jpg](https://ja.wikipedia.org/wiki/File:Kanagawa-NBCtaisaku.jpg "fig:Kanagawa-NBCtaisaku.jpg")）\]\] **NBCテロ対応専門部隊**（エヌビーシーテロたいおうせんもんぶたい、\[1\]）および**NBCテロ対策部隊**（エヌビーシーテロたいさくぶたい）は、NBC（Nuclear/[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")、Biological/[生物兵器](../Page/生物兵器.md "wikilink")、Chemical/[化学兵器](../Page/化学兵器.md "wikilink")）を使用した[テロや](https://ja.wikipedia.org/wiki/テロリズム "wikilink")、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")に対応する[日本警察の](../Page/日本の警察.md "wikilink")[警備](https://ja.wikipedia.org/wiki/警備警察 "wikilink")[部隊](../Page/部隊.md "wikilink")。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")ではテロ対処部隊の一つに位置付けている\[2\]。
+[Tokyo_Metropolitan_Police_Department_Isuzu_Forward_FRR_NBC_counterterrorism_car.jpg](https://ja.wikipedia.org/wiki/File:Tokyo_Metropolitan_Police_Department_Isuzu_Forward_FRR_NBC_counterterrorism_car.jpg "fig:Tokyo_Metropolitan_Police_Department_Isuzu_Forward_FRR_NBC_counterterrorism_car.jpg") [Chiba_Prefectural_Police_Mitsubishi_Fuso_Canter_NBC_counterterrorism_car.jpg](https://ja.wikipedia.org/wiki/File:Chiba_Prefectural_Police_Mitsubishi_Fuso_Canter_NBC_counterterrorism_car.jpg "fig:Chiba_Prefectural_Police_Mitsubishi_Fuso_Canter_NBC_counterterrorism_car.jpg") [Kanagawa_Prefectural_Police_Isuzu_Elf_NBC_counterterrorism_car.jpg](https://ja.wikipedia.org/wiki/File:Kanagawa_Prefectural_Police_Isuzu_Elf_NBC_counterterrorism_car.jpg "fig:Kanagawa_Prefectural_Police_Isuzu_Elf_NBC_counterterrorism_car.jpg")
+
+**NBCテロ対応専門部隊**（エヌビーシーテロたいおうせんもんぶたい、\[1\]）および**NBCテロ対策部隊**（エヌビーシーテロたいさくぶたい）は、NBC（Nuclear/[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")、Biological/[生物兵器](../Page/生物兵器.md "wikilink")、Chemical/[化学兵器](../Page/化学兵器.md "wikilink")）を使用した[テロや](https://ja.wikipedia.org/wiki/テロリズム "wikilink")、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")に対応する[日本警察の](../Page/日本の警察.md "wikilink")[警備](https://ja.wikipedia.org/wiki/警備警察 "wikilink")[部隊](../Page/部隊.md "wikilink")。[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")ではテロ対処部隊の一つに位置付けている\[2\]。
 
 ## 概要
 

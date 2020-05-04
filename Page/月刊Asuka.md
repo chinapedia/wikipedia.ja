@@ -105,7 +105,7 @@
 
   - [ハーレムビートは夜明けまで](https://ja.wikipedia.org/wiki/ハーレムビートは夜明けまで "wikilink")（[高嶋上総](https://ja.wikipedia.org/wiki/高嶋上総 "wikilink")）
   - 初華咲いたか（[藤也卓巳](https://ja.wikipedia.org/wiki/藤也卓巳 "wikilink")）
-  - [バッテリー](../Page/バッテリー_\(小説\).md "wikilink")（作画：[柚庭千景](https://ja.wikipedia.org/wiki/柚庭千景 "wikilink") / 原作：[あさのあつこ](../Page/あさのあつこ.md "wikilink")）
+  - [バッテリー](../Page/バッテリー_\(小説\).md "wikilink")（作画：[柚庭千景](../Page/柚庭千景.md "wikilink") / 原作：[あさのあつこ](../Page/あさのあつこ.md "wikilink")）
   - [花のあすか組\!](../Page/花のあすか組!.md "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
   - [花は桜よりも華のごとく](https://ja.wikipedia.org/wiki/花は桜よりも華のごとく "wikilink")（作画・キャラクター原案：[サカノ景子](https://ja.wikipedia.org/wiki/サカノ景子 "wikilink") / 原作：[河合ゆうみ](https://ja.wikipedia.org/wiki/河合ゆうみ "wikilink")）
   - [H.A.B.不可侵絶対領域](https://ja.wikipedia.org/wiki/H.A.B.不可侵絶対領域 "wikilink")（[このえ凜](https://ja.wikipedia.org/wiki/このえ凜 "wikilink")）

@@ -352,7 +352,7 @@ DVD<br />
   - ★[宮城テレビ](../Page/宮城テレビ放送.md "wikilink")\[8\]
   - ★[福島テレビ](../Page/福島テレビ.md "wikilink")\[9\]
   - ★[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")\[10\]
-  - ★[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")\[11\]
+  - ★[福井放送](../Page/福井放送.md "wikilink")\[11\]
   - ★[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")
 
 ## 書籍

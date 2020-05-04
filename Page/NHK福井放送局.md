@@ -47,7 +47,7 @@
   - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") 19ch（[リモコンキーID](../Page/リモコンキーID.md "wikilink")1） JOFG-DTV 1kW（福井本局、以下同じ）
   - [Eテレ](../Page/NHK教育テレビジョン.md "wikilink") 21ch（リモコンキーID2） JOFC-DTV 1kW
   - [FM放送](../Page/NHK-FM放送.md "wikilink") 83.4MHz JOFG-FM 1kW
-      - [テレビ放送とFM放送両送信塔は](../Page/地上デジタルテレビ放送.md "wikilink")[足羽山](../Page/足羽山.md "wikilink")山頂に設置。[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")の地上デジタル放送の送信施設も併設されている。
+      - [テレビ放送とFM放送両送信塔は](../Page/地上デジタルテレビ放送.md "wikilink")[足羽山](../Page/足羽山.md "wikilink")山頂に設置。[福井放送](../Page/福井放送.md "wikilink")の地上デジタル放送の送信施設も併設されている。
   - [ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink") 927kHz JOFG 5kW
   - [ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink") 1521kHz JOFC 1kW
       - AM放送送信塔は[福井市](../Page/福井市.md "wikilink")[下馬に設置](https://ja.wikipedia.org/wiki/NHK下馬ラジオ放送所 "wikilink")。

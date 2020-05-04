@@ -70,20 +70,21 @@
 
 ### テレビドラマ
 
+  - [素敵な夢を叶えましょう](https://ja.wikipedia.org/wiki/素敵な夢を叶えましょう "wikilink")（2006年、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [もやしもん](https://ja.wikipedia.org/wiki/もやしもん#テレビドラマ "wikilink")（2010年7月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 川浜拓馬 役
   - [デカ 黒川鈴木](https://ja.wikipedia.org/wiki/デカ_黒川鈴木 "wikilink")（2012年3月1日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")） - 角田 役
   - [夫婦善哉](https://ja.wikipedia.org/wiki/夫婦善哉_\(2013年のテレビドラマ\) "wikilink")（2013年8月 - 9月、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")） - らっきょ 役
   - [金曜プレステージ](../Page/金曜プレステージ.md "wikilink")「[事件屋稼業](https://ja.wikipedia.org/wiki/事件屋稼業_\(漫画\)#テレビドラマ "wikilink")」2（2014年1月31日、フジテレビ） - 帽子屋店長 役
   - [乾杯戦士アフターV](https://ja.wikipedia.org/wiki/乾杯戦士アフターV "wikilink")（2014年、[東名阪ネット6](../Page/東名阪ネット6.md "wikilink")・[5いっしょ3ちゃんねる](https://ja.wikipedia.org/wiki/5いっしょ3ちゃんねる "wikilink")） - トレジャーイエロー 役
   - [花子とアン](https://ja.wikipedia.org/wiki/花子とアン "wikilink")（2014年8月、NHK） - 落語家 役
-  - [マッサン](https://ja.wikipedia.org/wiki/マッサン "wikilink")（2014年10月 -、NHK） - 巡査役
+  - [マッサン](https://ja.wikipedia.org/wiki/マッサン "wikilink")（2014年10月、NHK） - 巡査役
   - [マネーの天使〜あなたのお金、取り戻します\!〜](https://ja.wikipedia.org/wiki/マネーの天使〜あなたのお金、取り戻します!〜 "wikilink") 最終話（2016年3月24日、読売テレビ） - 白岩 役
   - [リバース](https://ja.wikipedia.org/wiki/リバース_\(湊かなえの小説\)#テレビドラマ "wikilink")（2017年、TBS） - 乾圭介 役
-  - [特捜9](https://ja.wikipedia.org/wiki/特捜9 "wikilink")（2018年） - 国井康夫 役
-  - [3年A組-今から皆さんは、人質です-](https://ja.wikipedia.org/wiki/3年A組-今から皆さんは、人質です- "wikilink")（2019年） - 佐久間現 役
+  - [特捜9](https://ja.wikipedia.org/wiki/特捜9 "wikilink") season1 第6話（2018年5月16日、テレビ朝日） - 国井康夫 役
+  - [3年A組-今から皆さんは、人質です-](https://ja.wikipedia.org/wiki/3年A組-今から皆さんは、人質です- "wikilink")（2019年、日本テレビ） - 佐久間現 役
   - [TWO WEEKS](https://ja.wikipedia.org/wiki/TWO_WEEKS_\(テレビドラマ\) "wikilink")（2019年、フジテレビ） - 葛城茂 役
-  - [素敵な夢を叶えましょう](https://ja.wikipedia.org/wiki/素敵な夢を叶えましょう "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [ニッポンノワール](https://ja.wikipedia.org/wiki/ニッポンノワール "wikilink")（2019年、日本テレビ） - 佐久間現 役\[1\]
+  - [浦安鉄筋家族](https://ja.wikipedia.org/wiki/浦安鉄筋家族#テレビドラマ "wikilink")（2020年、テレビ東京） - 西川のり子の父 役
 
 ### 映画
 

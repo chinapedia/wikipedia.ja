@@ -31,7 +31,7 @@
   - CBC[中部日本放送](../Page/CBCラジオ.md "wikilink")　月曜18:50～19:00
   - KNB[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")　日曜16:00～16:10
   - MRO[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")　月曜18:10～18:20
-  - FBC[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")　月曜18:20～18:30
+  - FBC[福井放送](../Page/福井放送.md "wikilink")　月曜18:20～18:30
   - WBS[和歌山放送](../Page/和歌山放送.md "wikilink")　月曜20:00～20:10
   - ABC[朝日放送](../Page/朝日放送ラジオ.md "wikilink")　月曜19:50～20:00
   - BSS[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")　月曜18:20～18:30
@@ -45,7 +45,7 @@
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")　月曜20:35～20:45
   - NBC[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")　月曜19:00～19:10
   - RKK[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")　月曜19:50～20:00
-  - OBS[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")　月曜19:00～19:10
+  - OBS[大分放送](../Page/大分放送.md "wikilink")　月曜19:00～19:10
   - MRT[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")　月曜19:30～19:40
   - MBC[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")　月曜19:00～19:10
   - RBC[琉球放送](../Page/琉球放送.md "wikilink")　月曜18:30～18:40

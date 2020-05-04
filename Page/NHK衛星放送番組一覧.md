@@ -773,7 +773,7 @@
   - [世界の小さな街から](https://ja.wikipedia.org/wiki/世界の小さな街から "wikilink")
   - [山川草木](https://ja.wikipedia.org/wiki/山川草木 "wikilink")
   - [音のある風景](https://ja.wikipedia.org/wiki/音のある風景 "wikilink")（NHKワールドTVでも放送）
-  - [さわやかウインドー](https://ja.wikipedia.org/wiki/さわやかウインドー "wikilink")
+  - [さわやかウインドー](../Page/さわやかウインドー.md "wikilink")
   - [列島縦断 鉄道12000キロの旅 〜最長片道切符でゆく42日〜](../Page/列島縦断_鉄道12000キロの旅_〜最長片道切符でゆく42日〜.md "wikilink")(2004年)
   - [列島縦断 鉄道乗りつくしの旅〜JR20000km全線走破〜](../Page/列島縦断_鉄道乗りつくしの旅〜JR20000km全線走破〜.md "wikilink")（上記番組の続編。なお、ダイジェスト版は総合テレビなどで放送）
   - [ふるさとから、あなたへ](https://ja.wikipedia.org/wiki/ふるさとから、あなたへ "wikilink")（2008年度から放送。総合テレビで毎週金曜日に放映される[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")を中心に再構成）

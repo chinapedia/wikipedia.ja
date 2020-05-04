@@ -15,7 +15,7 @@
   - [TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")（2003.9 - ）
   - [井崎脩五郎](../Page/井崎脩五郎.md "wikilink")（ご意見番）
   - 青木知子（[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")記者）
-  - [目黒貴子](https://ja.wikipedia.org/wiki/目黒貴子 "wikilink")
+  - [目黒貴子](../Page/目黒貴子.md "wikilink")
   - 「Gガールズ」（ - 2003.9）
       - [佐藤ゆりな](../Page/佐藤ゆりな.md "wikilink")
       - [石井あみ](../Page/石井あみ.md "wikilink")

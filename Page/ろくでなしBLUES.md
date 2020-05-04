@@ -572,6 +572,13 @@
   - 監督：[那須博之](../Page/那須博之.md "wikilink")
   - 脚本：[こがねみどり](https://ja.wikipedia.org/wiki/こがねみどり "wikilink")、[菅良幸](../Page/菅良幸.md "wikilink")
   - 主題歌：[BEREEVE](https://ja.wikipedia.org/wiki/BEREEVE "wikilink")「[SPEED](https://ja.wikipedia.org/wiki/REAL_EYES "wikilink")」（作詞・作曲：冴木裕志　編曲：[鷹羽仁](https://ja.wikipedia.org/wiki/高橋利光 "wikilink")）
+  - ファイティングスーパーバイザー：[廣戸聡一](https://ja.wikipedia.org/wiki/廣戸聡一 "wikilink")
+  - ボクシング指導：[ファイティング原田](../Page/ファイティング原田.md "wikilink")ジム
+  - 協力：[全日本キックボクシング連盟](../Page/全日本キックボクシング連盟.md "wikilink")、オールジャパンエンタープライズ、[ワールド・パンクラス・クリエイト](https://ja.wikipedia.org/wiki/ワールド・パンクラス・クリエイト "wikilink")、ワールドシュートボクシング協会
+  - 現像：[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
+  - スタジオ：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
+  - プロデュース：南條昭夫、五十嵐智之、佐々木志郎
+  - エグゼクティブプロデューサー：武政克彦、石川博、尾越浩文
 
 <!-- end list -->
 
@@ -612,6 +619,8 @@
       - 教師：[小沢和義](../Page/小沢和義.md "wikilink")
   - 監督・脚本：[室賀厚](../Page/室賀厚.md "wikilink")
   - 音楽：[安川午朗](../Page/安川午朗.md "wikilink")
+
+プロデュース：南條昭夫、大橋孝史、黒須功
 
 ## テレビドラマ
 

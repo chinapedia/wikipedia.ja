@@ -11,7 +11,7 @@
 
 [1960年](../Page/1960年.md "wikilink")に東京芝浦電気（現：[東芝](../Page/東芝.md "wikilink")）の[音楽レコード事業部が独立し](../Page/社内カンパニー.md "wikilink")、**東芝音楽工業**（とうしばおんがくこうぎょう）として設立された。[1973年](../Page/1973年.md "wikilink")にかねてより取引していた4大メジャーレコード会社のひとつである[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[EMI](../Page/EMI.md "wikilink")グループが資本参加し、**東芝EMI**（*TOSHIBA-EMI LIMITED*）\[1\]に改称する。
 
-洋楽では[ザ・ベンチャーズ](../Page/ザ・ベンチャーズ.md "wikilink")、[ザ・ビートルズ](../Page/ビートルズ.md "wikilink")、[クイーンなど](../Page/クイーン_\(バンド\).md "wikilink")、邦楽では[由紀さおり](../Page/由紀さおり.md "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")、[坂本冬美](../Page/坂本冬美.md "wikilink")、[BOØWYおよび同グループ元メンバーの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")と[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[東京事変](../Page/東京事変.md "wikilink")および同グループリーダーの[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")など、大物が多く所属していた。ビートルズの[CDを発売する前の](../Page/コンパクトディスク.md "wikilink")[レコード](../Page/レコード.md "wikilink")の時代は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")盤、アメリカキャピトル編集盤、日本編集、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[イタリア](../Page/イタリア.md "wikilink")などのあらゆる編集盤を発売してファンを感動させた。
+洋楽では[ザ・ベンチャーズ](../Page/ザ・ベンチャーズ.md "wikilink")、[ザ・ビートルズ](../Page/ビートルズ.md "wikilink")、[クイーンなど](../Page/クイーン_\(バンド\).md "wikilink")、邦楽では[由紀さおり](../Page/由紀さおり.md "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")、[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")、[坂本冬美](../Page/坂本冬美.md "wikilink")、[BOØWYおよび同グループ元メンバーの](../Page/BOOWY.md "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")と[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[東京事変](../Page/東京事変.md "wikilink")および同グループリーダーの[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")など、大物が多く所属していた。ビートルズの[CDを発売する前の](../Page/コンパクトディスク.md "wikilink")[レコード](../Page/レコード.md "wikilink")の時代は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")盤、アメリカキャピトル編集盤、日本編集、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[イタリア](../Page/イタリア.md "wikilink")などのあらゆる編集盤を発売してファンを感動させた。
 
 [2002年](../Page/2002年.md "wikilink")以降は[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")に並ぶ[コピーコントロールCD (CCCD)](../Page/コピーコントロールCD.md "wikilink") 推進派の筆頭格で、のちに[2005年](../Page/2005年.md "wikilink")夏期から後続規格となった[セキュアCD](../Page/セキュアCD.md "wikilink")の推進役も務めた。他社がその適用を縮小する中で、演歌や歌謡曲の一部などを除き一律CCCD適用の姿勢を崩さなかったが、[2006年](../Page/2006年.md "wikilink")にCCCDの販売から完全に撤退した。
 
@@ -48,8 +48,8 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月1日 - 旧・東芝音工時代から数えて、創立50周年を迎えた。
   - [2012年](../Page/2012年.md "wikilink")10月1日 - 親会社（レコード部門）がユニバーサル ミュージック グループに買収されたため、[ユニバーサル ミュージック合同会社（UML）の子会社になる](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック_\(日本\) "wikilink")\[6\]。
   - [2013年](../Page/2013年.md "wikilink")1月15日 - UMLの[小池一彦](https://ja.wikipedia.org/wiki/小池一彦 "wikilink")CEOがEMIミュージックの社長を兼任する\[7\]。
-      - 4月1日 - UMLが 吸収合併する形で経営統合して解散\[8\]。邦楽制作部門は同社の傘下レーベルEMI Records Japanとして集約された後、EMI Recordsと[Virgin Recordsに](../Page/Virgin_Music.md "wikilink")[分割](https://ja.wikipedia.org/wiki/分割 "wikilink")。規格品番は旧・東芝音工時代から長らく使用してきたTO、TTなどからほぼすべてTYなどに変更される。そして所属アーティストは全員UMLへ移籍。
-  - [2014年](../Page/2014年.md "wikilink")5月 - EMI Recordsの規格品番がUP＊＊に変更される。それまで使用していたTY＊＊はVirgin Records専用となる。
+      - 4月1日 - UMLが 吸収合併する形で経営統合して解散\[8\]。邦楽制作部門は同社の傘下レーベルEMI Records Japanとして集約された後、EMI Recordsと[Virgin Recordsに](../Page/Virgin_Music.md "wikilink")[分割](https://ja.wikipedia.org/wiki/分割 "wikilink")。規格品番（USM JAPAN発売分も含め）2003年9月発売分まではTO、2003年10月1日発売以降はTYに変更される。そして所属アーティストは全員UMLへ移籍。
+  - [2014年](../Page/2014年.md "wikilink")5月 - EMI Recordsの規格品番がUP＊＊に変更される。それまで使用していたTY＊＊はVirgin Records専用となる。USM JAPAN発売はUPCY(邦楽)・UICZ(洋楽)に統一されている。
 
 ## 所属アーティスト
 

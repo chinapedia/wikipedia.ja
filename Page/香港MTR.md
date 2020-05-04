@@ -19,9 +19,9 @@
 
   - [メトロキャメル電車（直流）（M-Train）](../Page/香港地下鉄メトロキャメル電車_\(直流\).md "wikilink") - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")・[迪士尼線](https://ja.wikipedia.org/wiki/迪士尼線 "wikilink")
   - [Rotem電車（K-Train）](../Page/香港地下鉄Rotem電車.md "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
-  - [ADtranz-CAF電車](https://ja.wikipedia.org/wiki/香港地鉄ADtranz-CAF電車 "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")
-  - [中国製電車](https://ja.wikipedia.org/wiki/香港鉄路市区線中国製電車_\(初代\) "wikilink")（C-Train） - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")
-  - [南港島線中国製電車](https://ja.wikipedia.org/wiki/香港鉄路南港島線中国製電車 "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
+  - [ADtranz-CAF電車](../Page/香港地鉄ADtranz-CAF電車.md "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")
+  - [中国製電車](../Page/香港鉄路市区線中国製電車_\(初代\).md "wikilink")（C-Train） - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")
+  - [南港島線中国製電車](../Page/香港鉄路南港島線中国製電車.md "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
   - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘線古いシステム](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[{{Lang](https://ja.wikipedia.org/wiki/セン湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
 
 旧香港地下鉄の路線で使用されている車両は2019年現在5種類存在する。一般車両については[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国の各国で製造されている](../Page/中華人民共和国.md "wikilink")。一次車では元宗主国であった[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が建設した影響からか、[ロンドン地下鉄](../Page/ロンドン地下鉄.md "wikilink")と近い[デザイン](../Page/デザイン.md "wikilink")の施しが随所に見られた。連結部は貫通しており扉は無く車両間の移動は自由である。また連結部の扉が無いため、直線部への列車進入時には前後では長い空間が広がる。[座席](../Page/座席.md "wikilink")は全て[ロングシートで](../Page/鉄道車両の座席.md "wikilink")、素材は[ステンレスである](../Page/ステンレス鋼.md "wikilink")。2009年より[優先席](https://ja.wikipedia.org/wiki/優先席 "wikilink")や[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")専用エリアが設置された。

@@ -1,7 +1,7 @@
 > この記事は[Voluntary Agency Network of Korea](https://ja.wikipedia.org/wiki/Voluntary_Agency_Network_of_Korea)から翻訳されています。
 
 
-（VANK、バンク\[1\]、ヴァンク、、） は、“[大韓民国](../Page/大韓民国.md "wikilink")の正しい姿“を[世界](../Page/世界.md "wikilink")中に広めるために、[インターネット](../Page/インターネット.md "wikilink")等を介して、大韓民国（韓国）に関する[情報宣伝工作活動を行うことを目的とする](../Page/プロパガンダ.md "wikilink")[大韓民国](../Page/大韓民国.md "wikilink")の自称民間組織である。VANK自身は「民間外交使節団」と称しているが、[韓国政府から公金が支出されており](https://ja.wikipedia.org/wiki/アストロターフィング "wikilink")、後述のように攻撃対象とすべきサイトへ[電子メール](../Page/電子メール.md "wikilink")の大量送信や[DoS攻撃](../Page/DoS攻撃.md "wikilink")を呼びかけることもある。またアピールのためには無関係の者にスパムメールを送付することもある\[2\]。[2012年](../Page/2012年.md "wikilink")9月時点の会員数は10万人、そのうち3割が加入費3万[大韓民国ウォン](https://ja.wikipedia.org/wiki/大韓民国ウォン "wikilink")を払って活動を行う正会員である\[3\]。
+（VANK、バンク\[1\]、ヴァンク、、） は、“[大韓民国](../Page/大韓民国.md "wikilink")の正しい姿“を[世界](../Page/世界.md "wikilink")中に広めるために、[インターネット](../Page/インターネット.md "wikilink")等を介して、大韓民国（韓国）に関する[情報宣伝工作活動を行うことを目的とする](../Page/プロパガンダ.md "wikilink")[大韓民国](../Page/大韓民国.md "wikilink")の民間組織である。VANK自身は「民間外交使節団」と称しているが、[韓国政府から公金が支出されており](https://ja.wikipedia.org/wiki/アストロターフィング "wikilink")、後述のように攻撃対象とすべきサイトへ[電子メール](../Page/電子メール.md "wikilink")の大量送信や[DoS攻撃](../Page/DoS攻撃.md "wikilink")を呼びかけることもある。またアピールのためには無関係の者にスパムメールを送付することもある\[2\]。[2012年](../Page/2012年.md "wikilink")9月時点の会員数は10万人、そのうち3割が加入費3万[大韓民国ウォン](https://ja.wikipedia.org/wiki/大韓民国ウォン "wikilink")を払って活動を行う正会員である\[3\]。
 
 ## 概要
 
@@ -143,7 +143,6 @@ VANKは、[2020年](../Page/2020年.md "wikilink")[1月6日](../Page/1月6日.md
 
   - [VANK](http://www.prkorea.com/)
   - [VANK 日本](http://prkorea.com/japan)
-  - [7](https://www.mofa.go.jp/mofaj/files/000481576.pdf)
 
 [Category:韓国の非営利組織](https://ja.wikipedia.org/wiki/Category:韓国の非営利組織 "wikilink") [Category:社会運動団体](https://ja.wikipedia.org/wiki/Category:社会運動団体 "wikilink") [Category:日本の領有権問題](https://ja.wikipedia.org/wiki/Category:日本の領有権問題 "wikilink") [Category:日韓関係](https://ja.wikipedia.org/wiki/Category:日韓関係 "wikilink") [Category:韓国のテロリズム](https://ja.wikipedia.org/wiki/Category:韓国のテロリズム "wikilink") [Category:インターネット犯罪](https://ja.wikipedia.org/wiki/Category:インターネット犯罪 "wikilink") [Category:韓国の反日感情](https://ja.wikipedia.org/wiki/Category:韓国の反日感情 "wikilink") [Category:韓国の国際関係](https://ja.wikipedia.org/wiki/Category:韓国の国際関係 "wikilink") [Category:韓国のプロパガンダ](https://ja.wikipedia.org/wiki/Category:韓国のプロパガンダ "wikilink") [Category:韓国の竹島領有権運動](https://ja.wikipedia.org/wiki/Category:韓国の竹島領有権運動 "wikilink")
 

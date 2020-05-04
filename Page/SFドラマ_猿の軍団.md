@@ -484,7 +484,7 @@
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")\[47\]
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")

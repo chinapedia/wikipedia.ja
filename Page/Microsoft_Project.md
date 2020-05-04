@@ -40,7 +40,8 @@ Microsoft Projectはエディションごとに利用できる機能が異なっ
 
 ## 外部リンク
 
-  - [プロジェクト管理ソフトウェア | Microsoft Project](https://products.office.com/ja-jp/project/project-management-software)
-  - [プロジェクト ポートフォリオとエンタープライズ リソースの管理](https://products.office.com/ja-jp/project/enterprise-project-server)
+  - [Microsoft Project](https://products.office.com/ja-jp/project/project-management-software)
+  - [Project のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/project)
+  - [Microsoft Project Server](https://products.office.com/ja-jp/project/enterprise-project-server)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:プロジェクトマネジメントソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトマネジメントソフト "wikilink") [Category:1984年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1984年のソフトウェア "wikilink")

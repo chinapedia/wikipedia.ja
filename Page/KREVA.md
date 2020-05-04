@@ -858,7 +858,7 @@ CD+DVD</p></td>
 <li>2009.09.26 青森 <a href="https://ja.wikipedia.org/wiki/Quarter" title="wikilink">Quarter</a></li>
 <li>2009.09.30 広島 <a href="../Page/CLUB_QUATTRO.md" title="wikilink">CLUB QUATTRO</a></li>
 <li>2009.10.01 広島 <a href="../Page/CLUB_QUATTRO.md" title="wikilink">CLUB QUATTRO</a></li>
-<li>2009.10.03 岡山 <a href="https://ja.wikipedia.org/wiki/CRAZYMAMA_KINGDOM" title="wikilink">CRAZYMAMA KINGDOM</a></li>
+<li>2009.10.03 岡山 <a href="../Page/CRAZYMAMA_KINGDOM.md" title="wikilink">CRAZYMAMA KINGDOM</a></li>
 <li>2009.10.04 高松 <a href="https://ja.wikipedia.org/wiki/Olive_Hall" title="wikilink">Olive Hall</a></li>
 <li>2009.10.06 高知 <a href="https://ja.wikipedia.org/wiki/BAY5_SQUARE" title="wikilink">BAY5 SQUARE</a></li>
 <li>2009.10.12 沖縄 <a href="https://ja.wikipedia.org/wiki/Namura_Hall" title="wikilink">Namura Hall</a></li>

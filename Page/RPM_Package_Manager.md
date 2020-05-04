@@ -3,6 +3,8 @@
 
 **RPM**（アールピーエム、**R**PM **P**ackage **M**anager）は[レッドハット](../Page/レッドハット.md "wikilink")が開発した[ソフトウェア](../Page/ソフトウェア.md "wikilink")のパッケージを管理するためのシステム ([パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink"))、及びコマンド。以前は**R**ed Hat **P**ackage **M**anagerの略だった。"[.rpm](https://ja.wikipedia.org/wiki/RPM_\(ファイルフォーマット\) "wikilink")"拡張子のファイルを利用する。
 
+## 概要
+
 主に[Linux](../Page/Linux.md "wikilink")の[ディストリビューションのうち](../Page/Linuxディストリビューション.md "wikilink")、[レッドハット](../Page/レッドハット.md "wikilink")が提供するものだけでなく、独自のカスタマイズを含めながら[SUSE Linux](../Page/SUSE.md "wikilink")、[Vine Linuxなどの](../Page/Vine_Linux.md "wikilink")[RPM系ディストリビューションで使われる](https://ja.wikipedia.org/wiki/Linuxディストリビューション#主なLinuxディストリビューション "wikilink")。
 
 RPMは、パッケージを[cpio](https://ja.wikipedia.org/wiki/cpio "wikilink")形式で[アーカイブしており](https://ja.wikipedia.org/wiki/アーカイブ_\(コンピュータ\)#アーカイブファイル "wikilink")、その中には、独自のspec[ファイル](../Page/ファイル_\(コンピュータ\).md "wikilink")、及び[バイナリ](../Page/バイナリ.md "wikilink")、または[ソースコード](../Page/ソースコード.md "wikilink")が含まれている。パッケージ管理のための[データベース](../Page/データベース.md "wikilink")には[Berkeley DBを採用しており](../Page/Berkeley_DB.md "wikilink")、[インストール](../Page/インストール.md "wikilink")時、削除時、パッケージの問い合わせ時にはこのデータベースが利用される。データベース管理のためのコマンドオプションもrpmコマンドに含まれている。\[1\]

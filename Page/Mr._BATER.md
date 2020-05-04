@@ -179,7 +179,7 @@
 <tr class="odd">
 <td><p>　　11月26日</p></td>
 <td><p>玩具店</p></td>
-<td><p>チェス → コス（ごっつのスタッフ） ぬいぐるみ → 家族ぐるみ（1人でキャラクター4人を演じきった）</p>
+<td><p>チェス → コス（ごっつのスタッフ） ぬいぐるみ → 家族ぐるみ（1人でキャラクター6人を演じきった）</p>
 <p><a href="https://ja.wikipedia.org/wiki/ファミリーコンピュータ" title="wikilink">ファミコン</a> → 糸こん（<a href="../Page/バブルガム・ブラザーズ.md" title="wikilink">バルブカム・ブラザーズに乗せて替え歌を披露</a>）</p>
 <p>「<strong>ファミコ～ンファミコ～ン　糸こ～ん糸こ～ん♪</strong>」</p></td>
 <td><p>夜遅うにパンツにコ ートだけ羽織って人</p>
@@ -285,7 +285,7 @@
   - 傘屋編でネタの完成度の低さに松本が「これカットやで」と言ったネタがそのまま（「これカットやで」のセリフも含め）放送され、ビデオにもそのまま収録された（今田に折り畳み傘と間違えて折れた畳を持ってこられたMr. BATERが「折れたー畳はー寝れませんー♪」と[中条きよし](../Page/中条きよし.md "wikilink")の「[うそ](../Page/うそ_\(中条きよしの曲\).md "wikilink")」の節で歌ったネタ）が、総集編で傘屋編が再放送された際には1ネタ分きちんとカットされていた。松本は「これ、しまって。これ見切れたらつながりおかしいから」と編集の心配をしていた。
   - [浜田雅功](../Page/浜田雅功.md "wikilink")が主役の[坂本龍馬](../Page/坂本龍馬.md "wikilink")を演じた[ドラマ](../Page/ドラマ.md "wikilink")『[竜馬におまかせ\!](../Page/竜馬におまかせ!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）では、竜馬たちが外国人に変装するという場面で「今日パーティー行かなあかんねん」とMr. BATERを[パロディ](../Page/パロディ.md "wikilink")したシーンが放送された。
   - 2006年1月、NHK教育「[天才てれびくんMAX](https://ja.wikipedia.org/wiki/天才てれびくんMAX "wikilink")」内のコーナー「天てれ東海道駅伝」で[飯田里穂](../Page/飯田里穂.md "wikilink")がMr. BATERに扮した顔で「今日パーティー行かなあかんねん」と言うシーンが放送された。
-  - 宇多田ヒカルはMr. BATERのコントが気に入っているらしく、2007年8月12日のフジテレビ系「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」の歌収録の合間に「今日パーティー行かなあかんねん」と「どんどっとっと」を披露したそうである。
+  - 宇多田ヒカルはMr. BATERのコントが気に入っているらしく、2007年8月12日のフジテレビ系「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」の歌収録の合間に「今日パーティー行かなあかんねん」と「どんどっとっと」を披露したそうである。
   - [KOJI-1200のシングル](../Page/今田耕司.md "wikilink")「ナウ・ロマンティック」アナログ盤では冒頭のインディアンネタで同曲を歌い「いつ売れんねん\!」とBATERが叫ぶくだりが曲前に追加されている。
   - 鮮魚店の回で今田が「[初鰹](https://ja.wikipedia.org/wiki/初鰹 "wikilink")」と間違えて持ってきたのは「（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")当時の）[小学二年生](../Page/小学二年生.md "wikilink")」8月号である。
   - 「[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")」の第一訓「天然パーマに悪い奴はいない」に、Mr. BATERに酷似した借金取り兼[ノーパンしゃぶしゃぶ](https://ja.wikipedia.org/wiki/ノーパンしゃぶしゃぶ "wikilink")天国の社長が登場する。

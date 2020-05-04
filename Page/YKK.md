@@ -33,9 +33,6 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
   - [1994年](../Page/1994年.md "wikilink")（平成6年） - 商号を吉田工業株式会社から「**ワイケイケイ株式会社**」に変更。
   - [2003年](../Page/2003年.md "wikilink")（平成15年） - 建材製造事業本部がYKK AP株式会社に統合し、YKKグループ建材事業の完全一体化。
   - [2007年](../Page/2007年.md "wikilink") 9月中間期の連結最終損益が123億9000万円の赤字,欧州委員会の声明によると、メーカー同士で価格引き上げ、最低価格の固定、顧客の配分などを決めていたという。
-
-<!-- end list -->
-
   - [2011年](../Page/2011年.md "wikilink")（平成23年）6月 - 創業以来初の創業家以外の社長が誕生\[3\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[9月26日](../Page/9月26日.md "wikilink") - 本社ビル建て替えに伴い、本社を[秋葉原ダイビル](https://ja.wikipedia.org/wiki/秋葉原ダイビル "wikilink")の10階と11階に移転。
   - [2015年](../Page/2015年.md "wikilink") (平成27年) 8月 - 新本社ビルの完成により、秋葉原ダイビルから、東京都千代田区神田和泉町1番地のYKK80ビルおよび同敷地内のYKK和泉ビルに本社を移転。
@@ -94,7 +91,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
   - [YKKアワー キックボクシング中継](../Page/YKKアワー_キックボクシング中継.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 途中より。
   - [ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")（TBS） - 開始当初は一社提供番組であり、『YKKファミリーアワー クイズ100人に聞きました』というタイトルだった。
-  - [筑紫哲也NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也NEWS23 "wikilink")（TBS）
+  - [筑紫哲也NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也_NEWS23 "wikilink")（TBS）
   - [日本テレビ火曜8時枠時代劇](../Page/日本テレビ火曜8時枠時代劇.md "wikilink")
   - [ニュース・パレード](../Page/ニュース・パレード.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - YKK Sound Galley AZ - （[J-WAVE](../Page/J-WAVE.md "wikilink"), DJ:[加藤和彦](../Page/加藤和彦.md "wikilink")）
@@ -121,7 +118,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
 
 1.
 2.
-3.  [asahi.com（朝日新聞社）：YKKとYKK APの社長交代　ともに創業家以外から－ビジネス・経済](http://web.archive.org/20110305100426/www.asahi.com/business/update/0302/TKY201103020414.html)2011年12月23日閲覧
+3.  [asahi.com（朝日新聞社）：YKKとYKK APの社長交代　ともに創業家以外から－ビジネス・経済](http://web.archive.org/20110305100426/www.asahi.com/business/update/0302/TKY201103020414.html) 2011年12月23日閲覧
 4.  [YKK株式会社 当社株式に関するご注意](http://www.ykk.co.jp/japanese/corporate/g_news/2011/20110913.html) 平成23年9月13日付 掲載
 5.  北日本新聞 2019年4月5日付28面『ワクワク 統合小学校』より。
 6.  [黒部発・日本一の“ヤギチーズ職人”は、YKK会長のご令嬢N](https://jisin.jp/serial/%E7%A4%BE%E4%BC%9A%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/social/23046)

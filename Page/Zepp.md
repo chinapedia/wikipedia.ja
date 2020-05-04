@@ -99,7 +99,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>2012年<a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
 <td></td>
 <td><p>住所：<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/浪速区.md" title="wikilink">浪速区</a>敷津東2-1-39<br />
-最寄駅：<a href="https://ja.wikipedia.org/wiki/恵美須町駅" title="wikilink">恵美須町駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線" title="wikilink">地下鉄堺筋線</a>）、<a href="https://ja.wikipedia.org/wiki/今宮戎駅" title="wikilink">今宮戎駅</a>（<a href="https://ja.wikipedia.org/wiki/南海高野線" title="wikilink">南海高野線</a>）、<a href="https://ja.wikipedia.org/wiki/大国町駅" title="wikilink">大国町駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線" title="wikilink">地下鉄御堂筋線</a>・<a href="https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線" title="wikilink">四つ橋線</a>）、<a href="https://ja.wikipedia.org/wiki/難波駅_(南海)" title="wikilink">難波駅</a>（<a href="https://ja.wikipedia.org/wiki/南海本線" title="wikilink">南海本線</a>・南海高野線）<br />
+最寄駅：<a href="https://ja.wikipedia.org/wiki/恵美須町駅" title="wikilink">恵美須町駅</a>（<a href="../Page/Osaka_Metro堺筋線.md" title="wikilink">地下鉄堺筋線</a>）、<a href="https://ja.wikipedia.org/wiki/今宮戎駅" title="wikilink">今宮戎駅</a>（<a href="https://ja.wikipedia.org/wiki/南海高野線" title="wikilink">南海高野線</a>）、<a href="https://ja.wikipedia.org/wiki/大国町駅" title="wikilink">大国町駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線" title="wikilink">地下鉄御堂筋線</a>・<a href="../Page/Osaka_Metro四つ橋線.md" title="wikilink">四つ橋線</a>）、<a href="https://ja.wikipedia.org/wiki/難波駅_(南海)" title="wikilink">難波駅</a>（<a href="https://ja.wikipedia.org/wiki/南海本線" title="wikilink">南海本線</a>・南海高野線）<br />
 規模：1階・2,090人（ス）/796人（座）、2階・440人（座） こけら落とし公演：UVERworld「Zepp Namba（OSAKA） OPENING SPECIAL PATi★Night Episode UW in OSAKA」</p></td>
 </tr>
 <tr class="even">
@@ -177,7 +177,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>2012年4月8日</p></td>
 <td></td>
 <td><p>住所：大阪府大阪市<a href="../Page/住之江区.md" title="wikilink">住之江区</a>南港北1-18-31（<a href="../Page/咲洲.md" title="wikilink">咲洲</a>コスモスクエア地区）<br />
-最寄駅：<a href="https://ja.wikipedia.org/wiki/コスモスクエア駅" title="wikilink">コスモスクエア駅</a>（<a href="https://ja.wikipedia.org/wiki/Osaka_Metro中央線" title="wikilink">地下鉄中央線</a>・<a href="../Page/Osaka_Metro南港ポートタウン線.md" title="wikilink">ニュートラム</a>）<br />
+最寄駅：<a href="https://ja.wikipedia.org/wiki/コスモスクエア駅" title="wikilink">コスモスクエア駅</a>（<a href="../Page/Osaka_Metro中央線.md" title="wikilink">地下鉄中央線</a>・<a href="../Page/Osaka_Metro南港ポートタウン線.md" title="wikilink">ニュートラム</a>）<br />
 規模：1階・2,000人（ス）/763人（椅）、2階・180人（座） こけら落とし公演：<a href="../Page/レニー・クラヴィッツ.md" title="wikilink">レニー・クラヴィッツ</a>「The Freedom Tour」</p></td>
 </tr>
 <tr class="even">

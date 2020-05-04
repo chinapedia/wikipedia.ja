@@ -574,7 +574,7 @@
 | [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")     |                   |                      |                                                                  |         |
 | [滋賀県](../Page/滋賀県.md "wikilink")                    | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      |                   | 不明（日曜昼）              | [独立局](../Page/全国独立放送協議会.md "wikilink")                           |         |
 | [奈良県](../Page/奈良県.md "wikilink")                    | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") |                   |                      |                                                                  |         |
-| [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") |                   |                      |                                                                  |         |
+| [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")                    |                   |                      |                                                                  |         |
 | [日本全域](../Page/全国放送.md "wikilink")                  | [AT-X](../Page/アニメシアターX.md "wikilink")                    |                   |                      | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") |         |
 
 ## 映画

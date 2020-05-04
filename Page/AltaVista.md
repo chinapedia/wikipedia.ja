@@ -25,6 +25,6 @@ Yahoo\! の事業再編により、AltaVista は [AlltheWeb](https://ja.wikipedi
   - [AltaVista](http://www.altavista.com/)
   - [Babel Fish Translation](http://babelfish.yahoo.com/)
 
-[Category:検索エンジン](https://ja.wikipedia.org/wiki/Category:検索エンジン "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:アメリカ合衆国のインターネット企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインターネット企業 "wikilink") [Category:Yahoo\!](https://ja.wikipedia.org/wiki/Category:Yahoo! "wikilink") [Category:ディジタル・イクイップメント・コーポレーション](https://ja.wikipedia.org/wiki/Category:ディジタル・イクイップメント・コーポレーション "wikilink") [Category:2013年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2013年廃止のウェブサイト "wikilink")
+[Category:検索エンジン](https://ja.wikipedia.org/wiki/Category:検索エンジン "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:アメリカ合衆国のインターネット企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインターネット企業 "wikilink") [Category:Yahoo\!](https://ja.wikipedia.org/wiki/Category:Yahoo! "wikilink") [Category:ディジタル・イクイップメント・コーポレーション](https://ja.wikipedia.org/wiki/Category:ディジタル・イクイップメント・コーポレーション "wikilink") [Category:1995年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1995年開設のウェブサイト "wikilink") [Category:2013年廃止のウェブサイト](https://ja.wikipedia.org/wiki/Category:2013年廃止のウェブサイト "wikilink")
 
 1.  [検索エンジンの老舗「AltaVista」が歴史に幕](http://ascii.jp/elem/000/000/804/804113/) - ASCII.jp

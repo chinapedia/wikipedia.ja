@@ -1,9 +1,11 @@
 > この記事は[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE)から翻訳されています。
 
 
-mahendra kumar meena kheda
+**NON STYLE**（ノン・スタイル）は、石田明と井上裕介による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属。[2000年](../Page/2000年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")に結成。出囃子は[KEMURIの](https://ja.wikipedia.org/wiki/kemuri "wikilink")『Prayer』。
 
-メンバー
+[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")第9代目チャンピオン。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")王者。
+
+## メンバー
 
   - [石田 明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（いしだ あきら、 - ）
     [ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")（まれに[ツッコミ](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")）・担当。既婚。身長173cm、[大阪府立東淀川高等学校](../Page/大阪府立東淀川高等学校.md "wikilink")卒。

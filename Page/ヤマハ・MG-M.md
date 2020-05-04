@@ -77,4 +77,4 @@ MG-Mは市販もされたが2013年6月現在、生産されていない。
 
   - [ヤマハ・MG-K](https://ja.wikipedia.org/wiki/ヤマハ・MG-K "wikilink") - [パッパラー河合](../Page/パッパラー河合.md "wikilink")シグネイチャー・モデル。
 
-[Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink") [Category:ヤマハ製ギター](https://ja.wikipedia.org/wiki/Category:ヤマハ製ギター "wikilink") [Category:B'z](https://ja.wikipedia.org/wiki/Category:B'z "wikilink")
+[Category:ヤマハ製ギター](https://ja.wikipedia.org/wiki/Category:ヤマハ製ギター "wikilink") [Category:B'z](https://ja.wikipedia.org/wiki/Category:B'z "wikilink")

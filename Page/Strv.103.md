@@ -9,7 +9,7 @@
 
 Strv.103は、他国の[第2世代主力戦車に相当する](https://ja.wikipedia.org/wiki/戦車#戦後第2世代主力戦車 "wikilink")[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")で、楔形の車体に[105mm ライフル砲を直接固定することで車高と前面投影面積を抑えており](../Page/ロイヤル・オードナンス_L7.md "wikilink")、[主砲](../Page/主砲.md "wikilink")に[自動装填装置](../Page/自動装填装置.md "wikilink")を装備することで車内スペースの高さを最小限としている。\[2\]
 
-[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")は、国防の方針として[武装中立](../Page/武装中立.md "wikilink")を旨とすることから、本車は自国内での運用を想定し、起伏に富んだ地形を活用する[待ち伏せ](../Page/待ち伏せ.md "wikilink")[戦術](../Page/戦術.md "wikilink")に順応したものとして開発されている\[3\]。[砲塔](../Page/砲塔.md "wikilink")を持たない独特の形状から[駆逐戦車](../Page/駆逐戦車.md "wikilink")、[自走砲](../Page/自走砲.md "wikilink")、[突撃砲](../Page/突撃砲.md "wikilink")などに誤解されることもある。
+[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")は、国防の方針として[武装中立](../Page/武装中立.md "wikilink")を旨とすることから、本車は自国内での運用を想定し、起伏に富んだ地形を活用する[待ち伏せ](../Page/待ち伏せ.md "wikilink")[戦術](../Page/戦術.md "wikilink")に順応したものとして開発されている\[3\]。スウェーデン陸軍はあくまで主力戦車として配備していたもののの、[砲塔](../Page/砲塔.md "wikilink")を持たない独特の形状から[駆逐戦車](../Page/駆逐戦車.md "wikilink")、[自走砲](../Page/自走砲.md "wikilink")、[突撃砲](../Page/突撃砲.md "wikilink")などと解釈されることもあり、その運用方法や車体のコンセプトは第二次世界大戦の中期から後期にかけての守勢に回ったドイツ軍の駆逐戦車にほぼ等しい。
 
 ## 開発
 

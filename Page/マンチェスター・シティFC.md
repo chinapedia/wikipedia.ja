@@ -426,7 +426,7 @@
 
   - [ピーター・ドハーティ](https://ja.wikipedia.org/wiki/ピーター・ドハーティ "wikilink") 1936-1945
 
-  - [マイク・サマービー](https://ja.wikipedia.org/wiki/マイク・サマービー "wikilink") 1965-1975
+  - [マイク・サマービー](../Page/マイク・サマービー.md "wikilink") 1965-1975
 
   - [デニス・タアート](https://ja.wikipedia.org/wiki/デニス・タアート "wikilink") 1974-1978,1979-1983
 

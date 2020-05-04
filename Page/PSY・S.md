@@ -11,7 +11,7 @@
 ## 来歴・概要
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")頃、「PLAYTECHS」というユニット名でアルバム（非売品）のみ作成。ライブ活動は行わず、その時インディーズで発表したアルバムがデビューのきっかけとなる。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")、[岡田徹](../Page/岡田徹.md "wikilink")との共同プロデュースによるアルバム『Different View』とシングル「Teenage」の同時発売でCBS・ソニー（現[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）からメジャーデビュー。「Teenage」のヴィデオクリップの監督は[中野裕之](../Page/中野裕之.md "wikilink")。メジャーデビュー後は「SD関西」（のちのCSアーティスツ、ソニー・ミュージック・アーティスツ）に在籍、一年間はライブ活動は一切せず、レコーディングを中心に行っていた。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")、[岡田徹](../Page/岡田徹.md "wikilink")との共同プロデュースによるアルバム『Different View』とシングル「Teenage」の同時発売でCBS・ソニー（現：[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）からメジャーデビュー。「Teenage」のヴィデオクリップの監督は[中野裕之](../Page/中野裕之.md "wikilink")。メジャーデビュー後は「SD関西」（のちのCSアーティスツ、ソニー・ミュージック・アーティスツ）に在籍、一年間はライブ活動は一切せず、レコーディングを中心に行っていた。
   - デビュー後もライブ活動ではシンセサイザーの同期演奏を前面に押し出すようなスタイルは取らず、バックバンド「Live PSY・S」を率いてのバンドサウンドが主であった。[美尾洋乃](https://ja.wikipedia.org/wiki/美尾洋乃 "wikilink")、[鈴木賢司](https://ja.wikipedia.org/wiki/鈴木賢司 "wikilink")、[沖山優司](../Page/沖山優司.md "wikilink")、[安部王子](https://ja.wikipedia.org/wiki/安部王子 "wikilink")、[新居昭乃](../Page/新居昭乃.md "wikilink")、[保刈久明](https://ja.wikipedia.org/wiki/保刈久明 "wikilink")、[南流石](../Page/南流石.md "wikilink")、田中徹などが参加していた。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に放送開始した[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビ "wikilink")の『[土曜倶楽部](../Page/土曜倶楽部.md "wikilink")』のテーマソングとして楽曲「Mind Check」が起用される。
   - [1988年](../Page/1988年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売のシングル「[Angel Night〜天使のいる場所〜](https://ja.wikipedia.org/wiki/Angel_Night〜天使のいる場所〜 "wikilink")」がアニメ『[シティーハンター2](../Page/シティーハンター_\(アニメ\).md "wikilink")』の主題歌に起用され（1話 - 26話）、一躍メジャーシーンに名を連ねることになった。
@@ -46,70 +46,62 @@
 
 ### シングル
 
-1.  [Teenage](https://ja.wikipedia.org/wiki/Teenage "wikilink") （1985年5月22日）
-2.  [BRAND-NEW MENU](https://ja.wikipedia.org/wiki/BRAND-NEW_MENU "wikilink") （1985年11月21日）
-3.  [Another Diary](https://ja.wikipedia.org/wiki/Another_Diary "wikilink") （1986年3月5日）
-4.  [Woman・S](https://ja.wikipedia.org/wiki/Woman・S "wikilink") （1986年11月21日）
-5.  [サイレント・ソング](https://ja.wikipedia.org/wiki/サイレント・ソング "wikilink") （1987年2月26日）
-6.  [Lemonの勇気](https://ja.wikipedia.org/wiki/Lemonの勇気 "wikilink") （1987年9月21日）
-7.  [Angel Night〜天使のいる場所〜](https://ja.wikipedia.org/wiki/Angel_Night〜天使のいる場所〜 "wikilink") （1988年4月21日）
-8.  [薔薇とノンフィクション](https://ja.wikipedia.org/wiki/薔薇とノンフィクション "wikilink") （1988年7月21日）
-9.  [Parachute Limit](https://ja.wikipedia.org/wiki/Parachute_Limit "wikilink") （1988年10月21日）
+1.  [Teenage](https://ja.wikipedia.org/wiki/Teenage "wikilink")（1985年5月22日）
+2.  [BRAND-NEW MENU](https://ja.wikipedia.org/wiki/BRAND-NEW_MENU "wikilink")（1985年11月21日）
+3.  [Another Diary](https://ja.wikipedia.org/wiki/Another_Diary "wikilink")（1986年3月5日）
+4.  [Woman・S](https://ja.wikipedia.org/wiki/Woman・S "wikilink")（1986年11月21日）
+5.  [サイレント・ソング](https://ja.wikipedia.org/wiki/サイレント・ソング "wikilink")（1987年2月26日）
+6.  [Lemonの勇気](https://ja.wikipedia.org/wiki/Lemonの勇気 "wikilink")（1987年9月21日）
+7.  [Angel Night〜天使のいる場所〜](https://ja.wikipedia.org/wiki/Angel_Night〜天使のいる場所〜 "wikilink")（1988年4月21日）
+8.  [薔薇とノンフィクション](https://ja.wikipedia.org/wiki/薔薇とノンフィクション "wikilink")（1988年7月21日）
+9.  [Parachute Limit](https://ja.wikipedia.org/wiki/Parachute_Limit "wikilink")（1988年10月21日）
 10. [CHILD](https://ja.wikipedia.org/wiki/CHILD "wikilink") （1989年1月21日）
-11. [ファジィな痛み](https://ja.wikipedia.org/wiki/ファジィな痛み "wikilink") （1989年7月21日）
-12. [Wondering up and down〜水のマージナル〜](https://ja.wikipedia.org/wiki/Wondering_up_and_down〜水のマージナル〜 "wikilink") （1989年12月1日）
-13. [遊びにきてね](https://ja.wikipedia.org/wiki/遊びにきてね "wikilink") （1990年5月21日）
-14. [Kisses](https://ja.wikipedia.org/wiki/Kisses "wikilink") （1990年9月21日）
-15. [Friends or Lovers](https://ja.wikipedia.org/wiki/Friends_or_Lovers "wikilink") （1991年2月10日）
-16. [電気とミント-Movie Mix](https://ja.wikipedia.org/wiki/電気とミント-Movie_Mix "wikilink") （1991年3月1日）
-17. [あさ〜from day to day](https://ja.wikipedia.org/wiki/あさ〜from_day_to_day "wikilink") （1991年8月23日）
-18. [Moonshine](https://ja.wikipedia.org/wiki/Moonshine "wikilink") （1991年12月1日）
-19. [青空は天気雨-Live Version](https://ja.wikipedia.org/wiki/青空は天気雨-Live_Version "wikilink") （1992年9月21日）
-20. [青空がいっぱい](https://ja.wikipedia.org/wiki/青空がいっぱい "wikilink") （1993年6月2日）
-21. [花のように](https://ja.wikipedia.org/wiki/花のように_\(PSY・S\) "wikilink") （1994年2月21日）
-22. [be with YOU](https://ja.wikipedia.org/wiki/be_with_YOU "wikilink") （1994年11月21日）
+11. [ファジィな痛み](https://ja.wikipedia.org/wiki/ファジィな痛み "wikilink")（1989年7月21日）
+12. [Wondering up and down〜水のマージナル〜](https://ja.wikipedia.org/wiki/Wondering_up_and_down〜水のマージナル〜 "wikilink")（1989年12月1日）
+13. [遊びにきてね](https://ja.wikipedia.org/wiki/遊びにきてね "wikilink")（1990年5月21日）
+14. [Kisses](https://ja.wikipedia.org/wiki/Kisses "wikilink")（1990年9月21日）
+15. [Friends or Lovers](https://ja.wikipedia.org/wiki/Friends_or_Lovers "wikilink")（1991年2月10日）
+16. [電気とミント-Movie Mix](https://ja.wikipedia.org/wiki/電気とミント-Movie_Mix "wikilink")（1991年3月1日）
+17. [あさ〜from day to day](https://ja.wikipedia.org/wiki/あさ〜from_day_to_day "wikilink")（1991年8月23日）
+18. [Moonshine](https://ja.wikipedia.org/wiki/Moonshine "wikilink")（1991年12月1日）
+19. [青空は天気雨-Live Version](https://ja.wikipedia.org/wiki/青空は天気雨-Live_Version "wikilink")（1992年9月21日）
+20. [青空がいっぱい](https://ja.wikipedia.org/wiki/青空がいっぱい "wikilink")（1993年6月2日）
+21. [花のように](https://ja.wikipedia.org/wiki/花のように_\(PSY・S\) "wikilink")（1994年2月21日）
+22. [be with YOU](https://ja.wikipedia.org/wiki/be_with_YOU "wikilink")（1994年11月21日）
 
 ### アルバム
 
 #### オリジナルアルバム
 
-1.  **[Different View](https://ja.wikipedia.org/wiki/Different_View "wikilink")** （1985年5月22日）
-2.  **[PIC-NIC](https://ja.wikipedia.org/wiki/PIC-NIC "wikilink")** （1986年7月2日）
-3.  **[Mint-Electric](https://ja.wikipedia.org/wiki/Mint-Electric "wikilink")** （1987年8月1日）
-4.  **[Non-Fiction](https://ja.wikipedia.org/wiki/NON-FICTION "wikilink")** （1988年8月1日）
-5.  **[ATLAS](https://ja.wikipedia.org/wiki/ATLAS_\(アルバム\) "wikilink")** （1989年7月21日）
-6.  **[SIGNAL](https://ja.wikipedia.org/wiki/SIGNAL_\(PSY・Sのアルバム\) "wikilink")** （1990年7月1日）
-7.  **[HOLIDAY](https://ja.wikipedia.org/wiki/HOLIDAY_\(アルバム\) "wikilink")** （1991年12月12日）
-8.  **[WINDOW](https://ja.wikipedia.org/wiki/WINDOW_\(PSY・Sのアルバム\) "wikilink")** （1993年7月1日）
-9.  **[EMOTIONAL ENGINE](https://ja.wikipedia.org/wiki/EMOTIONAL_ENGINE "wikilink")** （1994年12月12日）
+1.  **[Different View](https://ja.wikipedia.org/wiki/Different_View "wikilink")**（1985年5月22日）
+2.  **[PIC-NIC](https://ja.wikipedia.org/wiki/PIC-NIC "wikilink")**（1986年7月2日）
+3.  **[Mint-Electric](https://ja.wikipedia.org/wiki/Mint-Electric "wikilink")**（1987年8月1日）
+4.  **[Non-Fiction](https://ja.wikipedia.org/wiki/NON-FICTION "wikilink")**（1988年8月1日）
+5.  **[ATLAS](https://ja.wikipedia.org/wiki/ATLAS_\(アルバム\) "wikilink")**（1989年7月21日）
+6.  **[SIGNAL](https://ja.wikipedia.org/wiki/SIGNAL_\(PSY・Sのアルバム\) "wikilink")**（1990年7月1日）
+7.  **[HOLIDAY](https://ja.wikipedia.org/wiki/HOLIDAY_\(アルバム\) "wikilink")**（1991年12月12日）
+8.  **[WINDOW](https://ja.wikipedia.org/wiki/WINDOW_\(PSY・Sのアルバム\) "wikilink")**（1993年7月1日）
+9.  **[EMOTIONAL ENGINE](https://ja.wikipedia.org/wiki/EMOTIONAL_ENGINE "wikilink")**（1994年12月12日）
 
 #### その他のアルバム
 
-1.  **[PSY・S Presents %22Collection%22](https://ja.wikipedia.org/wiki/PSY・S_Presents_%22Collection%22 "wikilink")** （1987年2月26日） [NHK-FM](../Page/NHK-FM放送.md "wikilink")「[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")」が元となったコラボレーションアルバム
-    <small>Wake Up (A Short Version) / ドリーム・スープ / 本当の嘘 / ビー玉坂 / Woman・S (Bossa nova Version) / サイレント・ソング / 絵に描いたよりPictureness / 風の中で / 私は流行、あなたは世間 (Instrumental Version)</small>
-2.  **[TWO HEARTS](https://ja.wikipedia.org/wiki/TWO_HEARTS_\(アルバム\) "wikilink")** （1991年4月25日） ベストアルバム
-    <small>Woman・S(New Version) / 電気とミント(Movie Mix) / Friends or Lovers(New Mix) / Lemonの勇気(New Mix) / ファジィな痛み / Desert(New Version) / Another Diary(New Version) / Brand-New Menu(New Version) / 景色(New Version) / Cubic Lovers / Angel Night～天使のいる場所(New Mix) / 薔薇とノンフィクション / From The Planet With Love('87 Version) / Parachute Limit / Wondering up and down～水のマージナル</small>
-3.  **[TWO SPIRITS](https://ja.wikipedia.org/wiki/TWO_SPIRITS "wikilink")** （1992年7月22日） ライヴベストアルバム
-    <small>Parachute Limit / Teenage / Kisses / Christmas in the air / Paper Love(English Version) / 青空は天気雨 / TOYHOLIC / Everyday / Friends or Lovers / 冬の街は / EARTH～木の上の方舟～ / Silent Song / 私は流行、あなたは世間</small>
-4.  **[HOME MADE](https://ja.wikipedia.org/wiki/HOME_MADE_\(PSY・Sのアルバム\) "wikilink")** （1994年4月21日） セルフカヴァーアルバム
-    <small>あさ～from day to day / 星空のハートエイク / ROBOT / Lemonの勇気 / ジェラシー"BLUE" / Friends or Lovers / 花のように / セパレイト・ブルー / 青空がいっぱい / どうして？ / 遠い空 / EARTH～木の上の方舟 / 倖せが迷う森 Instrumental / 星空のハートエイク Honkey Tonk Version</small>
-5.  **[Two Bridges](https://ja.wikipedia.org/wiki/Two_Bridges "wikilink")** （1996年8月1日） ベストアルバム
-    <small>遊びにきてね / Kisses / あさ～from day to day / どうして？ / 最後の楽園 / 氷のヴィジョン / 魔法のひとみ / 約束と偶然 / 青空がいっぱい / 花のように / 倖せが迷う森 / be with YOU / Moonshine / GIMMICK / Seeds</small>
-6.  **[Brand-New Menu+Another Diary](https://ja.wikipedia.org/wiki/Brand_New_Menu+Another_Diary "wikilink")** （1998年）
-7.  **[GOLDEN☆BEST PSY・S (SINGLES+)](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_PSY・S_SINGLES+ "wikilink")** （2002年11月20日） シングルベストアルバム
-    <small>Teenage / BRAND-NEW MENU / アナザー・ダイアリー／ANOTHER DIARY / Woman・S / サイレントソング / Lemonの勇気 / Angel Night～天使のいる場所～ / 薔薇とノンフィクション / Parachute Limit / ファジィな痛み／Fuzzy Pain / Wondering up and down　～水のマージナル / 遊びにきてね / Kisses / CHILD / Friends or Lovers / 電気とミント（MOVIE MIX） / あさ～from day to day / Moonshine / 青空は天気雨 / 青空がいっぱい / 花のように / be with YOU / Christmas in the air（ライブ） / From the Planet With Love（ライブ） / TOYHOLIC （ライブ） / 私は流行．あなたは世間（ライブ） / Monster's Dance（Blood Runner名義） / TINKER BELL（オルゴール･ヒット･メドレー：Woman･S～電気とミント～Friends or Lovers～Lemonの勇気～ファジィな痛み／Fuzzy Pain～Desert～アナザー･ダイアリー／ANOTHER DIARY～BRAND-NEW MENU～景色～Cubic Lover～Angel Night／天使のいる場所～薔薇とノンフィクション～From The Plant With Love～Parachute Limit～Wondering up and down／水のマージナル）</small>
-8.  **Psyclopedia** （2012年12月12日）
+1.  **[PSY・S Presents %22Collection%22](https://ja.wikipedia.org/wiki/PSY・S_Presents_%22Collection%22 "wikilink")**（1987年2月26日）[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")」が元となったコラボレーションアルバム
+2.  **[TWO HEARTS](https://ja.wikipedia.org/wiki/TWO_HEARTS_\(アルバム\) "wikilink")**（1991年4月25日）ベストアルバム
+3.  **[TWO SPIRITS](https://ja.wikipedia.org/wiki/TWO_SPIRITS "wikilink")**（1992年7月22日）ライヴベストアルバム
+4.  **[HOME MADE](https://ja.wikipedia.org/wiki/HOME_MADE_\(PSY・Sのアルバム\) "wikilink")**（1994年4月21日）セルフカヴァーアルバム
+5.  **[Two Bridges](https://ja.wikipedia.org/wiki/Two_Bridges "wikilink")**（1996年8月1日）ベストアルバム
+6.  **[Brand-New Menu+Another Diary](https://ja.wikipedia.org/wiki/Brand_New_Menu+Another_Diary "wikilink")**（1998年）
+7.  **[GOLDEN☆BEST PSY・S (SINGLES+)](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_PSY・S_SINGLES+ "wikilink")**（2002年11月20日）シングルベストアルバム
+8.  **Psyclopedia**（2012年12月12日）
       - オリジナルアルバム9作、Collection、TWO HEARTS、HOME MADE、TWO BRIDGES、TWO SPIRITS HISTORY（TWO SPIRITSの再構成盤）、初収録曲等を加えたリマスタリングBlu-Spec CD 14枚ボックスセット
 
 ### ビデオシングル
 
-  - 電気とミント([CDV](../Page/CDビデオ.md "wikilink"))（1988年3月5日）
+  - 電気とミント ([CDV](../Page/CDビデオ.md "wikilink"))（1988年3月5日）
 
-<small>From The Planet With Love (New Version) / BRAND-NEW MENU (12inch Version) / Chasing The Rainbow / 青空は天気雨 / 電気とミント(ビデオクリップ)</small>
+<!-- end list -->
 
-  - 遊びにきてね([VSD](https://ja.wikipedia.org/wiki/ビデオシングルディスク "wikilink"))（1990年9月21日）
-
-<small>遊びにきてね(ビデオクリップ)</small>
+  - 遊びにきてね ([VSD](https://ja.wikipedia.org/wiki/ビデオシングルディスク "wikilink"))（1990年9月21日）
 
 ### ビデオ
 

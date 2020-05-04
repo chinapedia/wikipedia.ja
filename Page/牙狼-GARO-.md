@@ -203,11 +203,11 @@
     その圧倒的な力で鋼牙を追い詰めるが、最終的に翼人となった鋼牙の魔戒剣で眉間を貫かれ、大爆発する。
     デザインは[菩薩](../Page/菩薩.md "wikilink")をイメージしている\[40\]。体表に描かれた魔界文字のボディペイントは雨宮慶太が直接描いている。
   - アラクニス
-    『the BIBLE』に登場するホラー。[ダンテ・アリギエーリ](../Page/ダンテ・アリギエーリ.md "wikilink")の『[神曲](../Page/神曲.md "wikilink")』に登場する[アラクネー](../Page/アラクネー.md "wikilink")の彫像のような姿をしたアラクネ三姉妹の三女。
+    『牙狼-GARO the BIBLE-』に登場するホラー。[ダンテ・アリギエーリ](../Page/ダンテ・アリギエーリ.md "wikilink")の『[神曲](../Page/神曲.md "wikilink")』に登場する[アラクネー](../Page/アラクネー.md "wikilink")の彫像のような姿をしたアラクネ三姉妹の三女。
   - マスタンガス
-    『the BIBLE』に登場するホラー。ケンタウレのような姿をしている。「**アヤメ**部長」と呼ばれていた淫乱な女に憑依していた。
+    『牙狼-GARO the BIBLE-』に登場するホラー。ケンタウレのような姿をしている。「**アヤメ**部長」と呼ばれていた淫乱な女に憑依していた。
   - ガラ
-    『the BIBLE』に登場するホラー。人間の成人女性と[蛇](https://ja.wikipedia.org/wiki/蛇 "wikilink")が混ざったような姿をしている。
+    『牙狼-GARO the BIBLE-』に登場するホラー。人間の成人女性と[蛇](https://ja.wikipedia.org/wiki/蛇 "wikilink")が混ざったような姿をしている。
 
 ## 関連用語
 
@@ -772,11 +772,11 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
   - 『[牙狼〈GARO〉神ノ牙-KAMINOKIBA-](https://ja.wikipedia.org/wiki/牙狼-GARO-_神ノ牙-KAMINOKIBA- "wikilink")』
     2018年公開の映画。流牙を主役に据えた一連のシリーズの集大成として製作。『闇を照らす者』で共に戦った2人の魔戒騎士、テレビシリーズ版『GOLD STORM 翔』で最凶の敵として立ちはだかったホラー・ジンガが登場する。
   - 『[薄墨桜 -GARO-](https://ja.wikipedia.org/wiki/牙狼_-紅蓮ノ月-#劇場版 "wikilink")』
-    『牙狼』アニメ映画の第二弾。『紅蓮ノ月』の続編となる物語で、テーマは「哀しくも美しい復讐劇」。2018年10月6日公開より公開開始。入場者特典では、『VANISHING LINE』放送中に明かされたアニメ作の空間が同一であることを活かした「クロスオーバーCD」が週替わりで計3種類配布された。2019年発売のDVD・ブルーレイの特典に4種類目が封入されている。
+    『牙狼』アニメ映画の第二弾。『紅蓮ノ月』の続編となる物語で、テーマは「哀しくも美しい復讐劇」。2018年10月6日より公開開始。入場者特典では、『VANISHING LINE』放送中に明かされたアニメ作の空間が同一であることを活かした「クロスオーバーCD」が週替わりで計3種類配布された。2019年発売のDVD・ブルーレイの特典に4種類目が封入されている。
   - 『[神ノ牙-JINGA-](https://ja.wikipedia.org/wiki/神ノ牙-JINGA- "wikilink")』
     2018年10月放送。ジンガが魔戒騎士・御影神牙として転生した物語を描く。
   - 『[牙狼〈GARO〉-月虹ノ旅人-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-月虹ノ旅人- "wikilink")』
-    雷牙を主人公にした映画かつ冴島家シリーズの集大成作品。
+    2019年10月4日公開。雷牙を主人公にした映画かつ冴島家シリーズの集大成的作品。
   - 『[GARO -VERSUS ROAD-](https://ja.wikipedia.org/wiki/GARO_-VERSUS_ROAD- "wikilink")』
     2020年4月放送。15周年記念作品。これまでのシリーズとは異なり[VR](../Page/バーチャル・リアリティ.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")を題材にしている。
 
@@ -796,7 +796,8 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 ### ゲーム
 
   - 『黄金騎士牙狼』
-    2006年4月20日に[PlayStation 2ソフトが発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+    3Dアクション。2006年4月20日に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+    因みに『VERSUS ROAD』では[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として登場する。
 
 ### フィギュア
 
@@ -964,7 +965,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 
   - [GARO PROJECT -牙狼〈GARO〉オフィシャルサイト-](http://garo-project.jp/) - 牙狼全般の情報を掲載する公式サイト。
 
-  - [GARO PROJECT 牙狼〈GARO〉最新情報](http://ameblo.jp/garo-project/)
+  - [GARO PROJECT 牙狼〈GARO〉最新情報](https://ameblo.jp/garo-project/)
 
   -
   -
@@ -1056,7 +1057,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 64.
 65.
 66.
-67. [【速報】新テレビシリーズ製作決定！『牙狼〈GARO〉～闇を照らす者～』](http://ameblo.jp/garo-project/entry-11386209043.html)GARO PROJECT NEWS BLOG 2012年10月23日
+67. [【速報】新テレビシリーズ製作決定！『牙狼〈GARO〉～闇を照らす者～』](https://ameblo.jp/garo-project/entry-11386209043.html)GARO PROJECT NEWS BLOG 2012年10月23日
 68.
 69.
 70.

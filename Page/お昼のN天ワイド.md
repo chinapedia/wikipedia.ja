@@ -65,7 +65,7 @@
   - [山形テレビ](../Page/山形テレビ.md "wikilink")
   - [東日本放送](../Page/東日本放送.md "wikilink")
   - [福島放送](../Page/福島放送.md "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（クロスネット局）
+  - [福井放送](../Page/福井放送.md "wikilink")（クロスネット局）
   - [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")
   - [名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")

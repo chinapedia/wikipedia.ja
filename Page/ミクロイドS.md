@@ -386,7 +386,7 @@
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - [富山テレビ放送](../Page/富山テレビ放送.md "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：月曜 17:25 - 17:55\[12\]
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")：土曜 19:00 - 19:30\[13\]
+  - [福井放送](../Page/福井放送.md "wikilink")：土曜 19:00 - 19:30\[13\]
   - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")：土曜 20:30 - 20:55
   - [日本海テレビ](https://ja.wikipedia.org/wiki/日本海テレビ "wikilink")：土曜 8:05 - 8:30

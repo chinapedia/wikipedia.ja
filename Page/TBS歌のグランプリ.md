@@ -19,12 +19,12 @@
 
 ### 司会
 
-  - [三木鮎郎](../Page/三木鮎郎.md "wikilink")（1967年4月 - 1968年3月）
-  - [大橋巨泉](../Page/大橋巨泉.md "wikilink")（1968年4月 - 1969年3月）
-  - [青島幸男](../Page/青島幸男.md "wikilink")（1969年4月 - 1970年12月）
+  - [三木鮎郎](../Page/三木鮎郎.md "wikilink")（1967年4月\[4\] - 1967年9月）
+  - [大橋巨泉](../Page/大橋巨泉.md "wikilink")（1967年10月\[5\] - 1968年10月）
+  - [青島幸男](../Page/青島幸男.md "wikilink")（1968年11月\[6\] - 1970年12月）
   - [岸部シロー](../Page/岸部四郎.md "wikilink")（1971年1月 - 9月）
   - [松橋登](../Page/松橋登.md "wikilink")（1971年1月 - 9月）
-  - [中村メイコ](../Page/中村メイコ.md "wikilink")（1967年4月 - 1969年3月）
+  - [中村メイコ](../Page/中村メイコ.md "wikilink")（1967年4月 - 1967年9月）
   - [磯野洋子](../Page/磯野洋子.md "wikilink")（1967年4月 - 1969年9月） - 1969年4月以降は佐良直美と週替わりで出演。
   - [佐良直美](../Page/佐良直美.md "wikilink")（1968年10月 - 1970年12月） - 磯野洋子 → 中山千夏と週替わりで出演。
   - [中山千夏](../Page/中山千夏.md "wikilink")（1969年10月 - 1971年9月） - 1970年12月までは佐良直美と週替わりで出演。
@@ -44,15 +44,59 @@
 
 後に、鈴木史朗が「今週の上位30曲」にランクインした曲と歌手を早口で紹介しつつ（順位の発表は省略）、当日の出場歌手たちがオーケストラの生演奏に乗って登場する方式に変更された。
 
+## コーナーの変遷
+
+\[7\]
+
+### 番組開始～1967年9月
+
+  - 今週のビッグ４
+
+<!-- end list -->
+
+  - グランプリ・スポット
+
+<!-- end list -->
+
+  - ゴールデン・グランプリ
+
+### 1967年10月～1968年10月
+
+  - 今週のヒット５
+  - 巨泉の特選スポット
+  - 今週のゴールデン スター
+
+### 1968年11月～1969年8月
+
+  - 今週のヒット５
+  - 青島の歌謡百科
+  - 今週のビッグ３
+
+### 1969年8月～
+
+  - 今週のビッグ４
+  - 今週の歌謡情報
+  - 今週のベスト３
+
+
+
+## 提供
+
+  - [ライオン油脂](../Page/ライオン_\(企業\).md "wikilink")
+  - ライオン歯磨
+  - 雪印乳業
+
+　
+
 ## 番組終了後
 
 、[ザ・タイガース](../Page/ザ・タイガース.md "wikilink")や[ザ・テンプターズ](../Page/ザ・テンプターズ.md "wikilink")などの[グループ・サウンズ](../Page/グループ・サウンズ.md "wikilink")の上質のカラー映像も含むこの番組のビデオを多数使った『[日曜☆特バン](https://ja.wikipedia.org/wiki/日曜☆特バン "wikilink") 10年前のVTR』という番組が何度か放送された。また、同じく日曜日に放送されていた『[テレビ探偵団](../Page/テレビ探偵団.md "wikilink")』のエンディングで流れる思い出の曲のコーナーとして、この番組の放送素材が使われていた。
 
-1967年7月25日放送分は、2005年6月19日にCS放送の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で[美空ひばり](../Page/美空ひばり.md "wikilink")特集として再放送された。この回では日本各地と東京赤坂のTBSを結んだ多元中継を実施しており、東京・[歌舞伎町](../Page/歌舞伎町.md "wikilink")からの生中継（曲は[三田明](../Page/三田明.md "wikilink")の「[また逢う日まで](https://ja.wikipedia.org/wiki/また逢う日まで_\(三田明の曲\) "wikilink")」）では当時TBSアナウンサーであった[山本文郎](../Page/山本文郎.md "wikilink")がリポーターとして登場した。また、屋外プール稼働中の[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")からの生中継（曲は[橋幸夫](../Page/橋幸夫.md "wikilink")の「恋のメキシカン・ロック」）も行っていた。 また橋と同じ[御三家](../Page/御三家.md "wikilink")のメンバーだった[西郷輝彦](https://ja.wikipedia.org/wiki/西郷輝彦 "wikilink")（曲は「[願い星叶い星](https://ja.wikipedia.org/wiki/願い星叶い星 "wikilink")」、[長野県](../Page/長野県.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")で収録\[4\]）や[舟木一夫](../Page/舟木一夫.md "wikilink")（曲は「[夏子の季節](https://ja.wikipedia.org/wiki/夏子の季節 "wikilink")」）もこの回に出演していたが、スケジュール等の都合でこのパートのみ、VTRでの事前収録\[5\]であるが、生放送であるかのような演出がなされていた。
+1967年7月25日放送分は、2005年6月19日にCS放送の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で[美空ひばり](../Page/美空ひばり.md "wikilink")特集として再放送された。この回では日本各地と東京赤坂のTBSを結んだ多元中継を実施しており、東京・[歌舞伎町](../Page/歌舞伎町.md "wikilink")からの生中継（曲は[三田明](../Page/三田明.md "wikilink")の「[また逢う日まで](https://ja.wikipedia.org/wiki/また逢う日まで_\(三田明の曲\) "wikilink")」）では当時TBSアナウンサーであった[山本文郎](../Page/山本文郎.md "wikilink")がリポーターとして登場した。また、屋外プール稼働中の[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")からの生中継（曲は[橋幸夫](../Page/橋幸夫.md "wikilink")の「恋のメキシカン・ロック」）も行っていた。 また橋と同じ[御三家](../Page/御三家.md "wikilink")のメンバーだった[西郷輝彦](https://ja.wikipedia.org/wiki/西郷輝彦 "wikilink")（曲は「[願い星叶い星](https://ja.wikipedia.org/wiki/願い星叶い星 "wikilink")」、[長野県](../Page/長野県.md "wikilink")[軽井沢町](../Page/軽井沢町.md "wikilink")で収録\[8\]）や[舟木一夫](../Page/舟木一夫.md "wikilink")（曲は「[夏子の季節](https://ja.wikipedia.org/wiki/夏子の季節 "wikilink")」）もこの回に出演していたが、スケジュール等の都合でこのパートのみ、VTRでの事前収録\[9\]であるが、生放送であるかのような演出がなされていた。
 
 ## 1967年7月当時の放送局
 
-*北海道放送* - 岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")） - [東北放送](../Page/東北放送.md "wikilink") - [福島テレビ](../Page/福島テレビ.md "wikilink")（当時は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・TBS系列） - **東京放送（現・TBSテレビ）** - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") - [信越放送](../Page/信越放送.md "wikilink") - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") - *中部日本放送（現CBCテレビ）* - *朝日放送*（*現朝日放送テレビ*・当時はTBS系列） - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（現RSK山陽放送・当時の放送対象地域は[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")のみ） - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（当時の放送対象地域は[島根県](../Page/島根県.md "wikilink")のみ） - [中国放送](../Page/中国放送.md "wikilink") - *RKB毎日放送* - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") - [琉球放送](../Page/琉球放送.md "wikilink")
+*北海道放送* - 岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")） - [東北放送](../Page/東北放送.md "wikilink") - [福島テレビ](../Page/福島テレビ.md "wikilink")（当時は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・TBS系列） - **東京放送（現・TBSテレビ）** - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") - [信越放送](../Page/信越放送.md "wikilink") - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") - *中部日本放送（現CBCテレビ）* - *朝日放送*（*現朝日放送テレビ*・当時はTBS系列） - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（現RSK山陽放送・当時の放送対象地域は[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")のみ） - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（当時の放送対象地域は[島根県](../Page/島根県.md "wikilink")のみ） - [中国放送](../Page/中国放送.md "wikilink") - *RKB毎日放送* - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - [大分放送](../Page/大分放送.md "wikilink") - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") - [琉球放送](../Page/琉球放送.md "wikilink")
 
   - **太字**は製作幹事局、*斜字*は共同制作局（五社連合）。オープニング時のクレジットではTBSのみ筆記体の正式ロゴで、それ以外は普通のフォントであった。上から順にTBS → HBC・CBC・ABC・RKB → それ以外のネット局という表記であった。
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")もTBS系列に属しているが、1967年7月時点では番組をネットしていなかった。同局が火曜20:00枠を使って別の番組を放送していたためと思われるが、詳細は不明。ちなみに、2年後の1969年10月時点ではネット局に含まれている。
@@ -64,5 +108,9 @@
 1.  [朝日新聞社](../Page/朝日新聞社.md "wikilink") 聞蔵IIビジュアル 1970年3月24日 東京 夕刊 12P
 2.  朝日新聞社 聞蔵IIビジュアル 1967年8月22日 東京 朝刊 9P
 3.  朝日新聞社 聞蔵IIビジュアル 1967年9月5日 東京 朝刊 9P
-4.  ただし、地元ネット局である[信越放送](../Page/信越放送.md "wikilink")の協力の下で収録したかは不明。
-5.  「静岡新聞」1967年7月25日付　テレビ欄参照
+4.  「ＴＢＳ歌のグランプリ」放送台本 1967年4月4日放送分（スタッフ決定稿）
+5.  「ＴＢＳ歌のグランプリ」放送台本 1967年10月3日放送分（決定稿）
+6.  「ＴＢＳ歌のグランプリ」放送台本 1968年11月12日放送分（準備稿）
+7.  「ＴＢＳ歌のグランプリ」放送台本 1967年4月4日放送分（スタッフ決定稿）他
+8.  ただし、地元ネット局である[信越放送](../Page/信越放送.md "wikilink")の協力の下で収録したかは不明。
+9.  「静岡新聞」1967年7月25日付　テレビ欄参照

@@ -329,6 +329,11 @@
   -
     2019年11月16日 - 12月15日\[5\]
 
+### ショー
+
+  - 『仮面ライダージオウ ファイナルステージ』
+    『[仮面ライダージオウ](https://ja.wikipedia.org/wiki/仮面ライダージオウ "wikilink")』の舞台劇。ピンチのジオウを助けるべく1号と2号が登場。
+
 ## 脚注
 
 ### 注釈
@@ -341,7 +346,7 @@
 
   -
   -
-[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:仮面ライダー](https://ja.wikipedia.org/wiki/Category:仮面ライダー "wikilink") [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:リメイク特撮映画](https://ja.wikipedia.org/wiki/Category:リメイク特撮映画 "wikilink") [Category:リメイクSF映画](https://ja.wikipedia.org/wiki/Category:リメイクSF映画 "wikilink") [Category:リメイクアクション映画](https://ja.wikipedia.org/wiki/Category:リメイクアクション映画 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:テレビドラマのリメイク映画](https://ja.wikipedia.org/wiki/Category:テレビドラマのリメイク映画 "wikilink") [Category:江川達也](https://ja.wikipedia.org/wiki/Category:江川達也 "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:特撮エース](https://ja.wikipedia.org/wiki/Category:特撮エース "wikilink") [Category:井上敏樹の脚本映画](https://ja.wikipedia.org/wiki/Category:井上敏樹の脚本映画 "wikilink")
+[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:仮面ライダー](https://ja.wikipedia.org/wiki/Category:仮面ライダー "wikilink") [Category:2005年の映画](https://ja.wikipedia.org/wiki/Category:2005年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:江川達也](https://ja.wikipedia.org/wiki/Category:江川達也 "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:特撮エース](https://ja.wikipedia.org/wiki/Category:特撮エース "wikilink") [Category:井上敏樹の脚本映画](https://ja.wikipedia.org/wiki/Category:井上敏樹の脚本映画 "wikilink")
 
 1.  『仮面ライダー オフィシャルパーフェクトファイル』No.37（2015年、デアゴスティーニ）P31
 2.  オーディオ・コメンタリー 0:00:40頃

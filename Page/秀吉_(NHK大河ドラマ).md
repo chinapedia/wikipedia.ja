@@ -1,7 +1,7 @@
 > この記事は[秀吉 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/秀吉_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**秀吉**』（ひでよし）は、[1996年](../Page/1996年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")にかけて放送された第35作目の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作：[堺屋太一](../Page/堺屋太一.md "wikilink")、脚本：[竹山洋](../Page/竹山洋.md "wikilink")、主演：[竹中直人](../Page/竹中直人.md "wikilink")。全49話。
+『**秀吉**』（ひでよし）は、[1996年](../Page/1996年.md "wikilink")（平成8年）[1月7日](../Page/1月7日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")にかけて放送された第35作目の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作：[堺屋太一](../Page/堺屋太一.md "wikilink")、脚本：[竹山洋](../Page/竹山洋.md "wikilink")、主演：[竹中直人](../Page/竹中直人.md "wikilink")。全49話。
 
 ## 作品内容と反響
 

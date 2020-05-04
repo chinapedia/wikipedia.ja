@@ -392,7 +392,7 @@ BOINCは、プロジェクト主催者が運営するサーバに対し、参加
 
   - Reversi
 
-      - [リバーシの最善手を探索し](../Page/オセロ_\(遊戯\).md "wikilink")、完全に解くことを目指す。
+      - [リバーシの最善手を探索し](../Page/オセロ_\(ボードゲーム\).md "wikilink")、完全に解くことを目指す。
 
   - [Riesel Sieve](https://ja.wikipedia.org/wiki/Riesel_Sieve "wikilink")
 
@@ -507,7 +507,7 @@ ClimatePrediction.netの[BBC協賛版](../Page/英国放送協会.md "wikilink")
 
 ### チュートリアル(使い方の指導)
 
-  - [Team 2ch - BOINC Team 2ch Wiki](http://team2ch.info/)
+  - [Team 2ch - BOINC Team 2ch Wiki](https://team2ch.net/)
       - [2ちゃんねらー](../Page/2ちゃんねらー.md "wikilink")有志のチーム「[Team 2ch](../Page/Team2ch.md "wikilink")」のうち、[UDがん研究プロジェクトの運営終了をきっかけにBOINCに移ってきた一派が拠点とするサイト](../Page/United_Devices_Cancer_Research_Project.md "wikilink")。なお、SETI@homeクラシックからBOINCに移ってきた一派については別に拠点サイトがある。[2](http://setiathome.web.fc2.com/)
 
 <!-- end list -->

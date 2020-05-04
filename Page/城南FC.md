@@ -25,7 +25,7 @@
 
 ### 国内タイトル
 
-  - **[Kリーグクラシック](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")：7回** [フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")
+  - **[Kリーグ1](../Page/Kリーグ1.md "wikilink")：7回** [フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")[フレームなし](https://ja.wikipedia.org/wiki/ファイル:K_League_Classic_Trophy.png "wikilink")
       - 1993, 1994, 1995, 2001, 2002, 2003, 2006
 
 <!-- end list -->
@@ -65,40 +65,41 @@
 
 ## 過去の成績
 
-| シーズン                                                            | ディビジョン                                                       | [韓国FAカップ](../Page/韓国FAカップ.md "wikilink") | チャンピオンシップ |
-| --------------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | --------- |
-| リーグ                                                             | 試                                                            | 勝                                        | 分         |
-| 1989                                                            | [Kリーグ](https://ja.wikipedia.org/wiki/Kリーグ "wikilink")        |                                          |           |
-| 1990                                                            | Kリーグ                                                         |                                          |           |
-| 1991                                                            | Kリーグ                                                         |                                          |           |
-| 1992                                                            | Kリーグ                                                         |                                          |           |
-| 1993                                                            | Kリーグ                                                         |                                          |           |
-| 1994                                                            | Kリーグ                                                         |                                          |           |
-| 1995                                                            | Kリーグ                                                         |                                          |           |
-| 1996                                                            | Kリーグ                                                         |                                          |           |
-| 1997                                                            | Kリーグ                                                         |                                          |           |
-| 1998                                                            | Kリーグ                                                         |                                          |           |
-| 1999                                                            | Kリーグ                                                         |                                          |           |
-| 2000                                                            | Kリーグ                                                         |                                          |           |
-| 2001                                                            | Kリーグ                                                         |                                          |           |
-| 2002                                                            | Kリーグ                                                         |                                          |           |
-| 2003                                                            | Kリーグ                                                         |                                          |           |
-| 2004                                                            | Kリーグ                                                         |                                          |           |
-| 2005                                                            | Kリーグ                                                         |                                          |           |
-| 2006                                                            | Kリーグ                                                         |                                          |           |
-| 2007                                                            | Kリーグ                                                         |                                          |           |
-| 2008                                                            | Kリーグ                                                         |                                          |           |
-| 2009                                                            | Kリーグ                                                         |                                          |           |
-| 2010                                                            | Kリーグ                                                         |                                          |           |
-| 2011                                                            | Kリーグ                                                         | 30                                       | 9         |
-| [2012](https://ja.wikipedia.org/wiki/Kリーグ_2012 "wikilink")      | Kリーグ                                                         | 44                                       | 14        |
-| 2013                                                            | [Kクラシック](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink") | 38                                       | 17        |
-| 2014                                                            | Kクラシック                                                       | 38                                       | 9         |
-| [2015](https://ja.wikipedia.org/wiki/Kリーグクラシック_2015 "wikilink") | Kクラシック                                                       | 38                                       | 15        |
-| [2016](https://ja.wikipedia.org/wiki/Kリーグクラシック_2016 "wikilink") | Kクラシック                                                       | 38                                       | 11        |
-| 2017                                                            | [Kチャレンジ](https://ja.wikipedia.org/wiki/Kリーグチャレンジ "wikilink") | 37                                       | 13        |
-| 2018                                                            | Kリーグ2                                                        | 36                                       | 18        |
-| 2019                                                            | Kリーグ1                                                        | 38                                       | 12        |
+| シーズン                                                            | ディビジョン                                                   | [韓国FAカップ](../Page/韓国FAカップ.md "wikilink") | チャンピオンシップ |
+| --------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------- | --------- |
+| リーグ                                                             | 試                                                        | 勝                                        | 分         |
+| 1989                                                            | [Kリーグ](https://ja.wikipedia.org/wiki/Kリーグ "wikilink")    |                                          |           |
+| 1990                                                            | Kリーグ                                                     |                                          |           |
+| 1991                                                            | Kリーグ                                                     |                                          |           |
+| 1992                                                            | Kリーグ                                                     |                                          |           |
+| 1993                                                            | Kリーグ                                                     |                                          |           |
+| 1994                                                            | Kリーグ                                                     |                                          |           |
+| 1995                                                            | Kリーグ                                                     |                                          |           |
+| 1996                                                            | Kリーグ                                                     |                                          |           |
+| 1997                                                            | Kリーグ                                                     |                                          |           |
+| 1998                                                            | Kリーグ                                                     |                                          |           |
+| 1999                                                            | Kリーグ                                                     |                                          |           |
+| 2000                                                            | Kリーグ                                                     |                                          |           |
+| 2001                                                            | Kリーグ                                                     |                                          |           |
+| 2002                                                            | Kリーグ                                                     |                                          |           |
+| 2003                                                            | Kリーグ                                                     |                                          |           |
+| 2004                                                            | Kリーグ                                                     |                                          |           |
+| 2005                                                            | Kリーグ                                                     |                                          |           |
+| 2006                                                            | Kリーグ                                                     |                                          |           |
+| 2007                                                            | Kリーグ                                                     |                                          |           |
+| 2008                                                            | Kリーグ                                                     |                                          |           |
+| 2009                                                            | Kリーグ                                                     |                                          |           |
+| 2010                                                            | Kリーグ                                                     |                                          |           |
+| 2011                                                            | Kリーグ                                                     | 30                                       | 9         |
+| [2012](https://ja.wikipedia.org/wiki/Kリーグ_2012 "wikilink")      | Kリーグ                                                     | 44                                       | 14        |
+| 2013                                                            | [Kクラシック](../Page/Kリーグ1.md "wikilink")                    | 38                                       | 17        |
+| 2014                                                            | Kクラシック                                                   | 38                                       | 9         |
+| [2015](https://ja.wikipedia.org/wiki/Kリーグクラシック_2015 "wikilink") | Kクラシック                                                   | 38                                       | 15        |
+| [2016](https://ja.wikipedia.org/wiki/Kリーグクラシック_2016 "wikilink") | Kクラシック                                                   | 38                                       | 11        |
+| 2017                                                            | [Kチャレンジ](https://ja.wikipedia.org/wiki/Kリーグ2 "wikilink") | 37                                       | 13        |
+| 2018                                                            | Kリーグ2                                                    | 36                                       | 18        |
+| 2019                                                            | Kリーグ1                                                    | 38                                       | 12        |
+| 2020                                                            | Kリーグ1                                                    |                                          |           |
 
 ## 現所属メンバー
 
@@ -110,15 +111,15 @@
 
 <!-- end list -->
 
-  - [金鶴範](https://ja.wikipedia.org/wiki/金鶴範 "wikilink")
+  - [金南一](../Page/金南一.md "wikilink")
 
 ## 歴代監督
 
   - [レネ・デザイェレ](https://ja.wikipedia.org/wiki/レネ・デザイェレ "wikilink") 1995-1998
 
-  - [車敬福](https://ja.wikipedia.org/wiki/車敬福 "wikilink")
+  - [車敬福](https://ja.wikipedia.org/wiki/車敬福 "wikilink") 1999-2004
 
-  - [金鶴範](https://ja.wikipedia.org/wiki/金鶴範 "wikilink") 2005-2008, 2014.9-
+  - [金鶴範](https://ja.wikipedia.org/wiki/金鶴範 "wikilink") 2005-2008, 2014.9-2016.9
 
   - [申台龍](../Page/申台龍.md "wikilink") 2009-2012
 
@@ -128,27 +129,31 @@
 
   - [李相潤](https://ja.wikipedia.org/wiki/李相潤 "wikilink") 2014.4-2014.7(代行)
 
+  - [朴景勲](https://ja.wikipedia.org/wiki/朴景勲 "wikilink") 2017
+
+  - [南基一](https://ja.wikipedia.org/wiki/南基一 "wikilink") 2018-2019
+
+  - [金南一](../Page/金南一.md "wikilink") 2020-
+
 ## 歴代所属選手
 
-  - [海本幸治郎](../Page/海本幸治郎.md "wikilink")
+  - [金大儀](../Page/金大儀.md "wikilink") 2000-2003
 
-  - [金度勲](../Page/金度勲.md "wikilink")（キム・ドフン）
+  - [申台龍](../Page/申台龍.md "wikilink") 2000-2004
 
-  - [金大儀](../Page/金大儀.md "wikilink")（キム・デイ）
+  - [朴康造](../Page/朴康造.md "wikilink") 2000-2002
 
-  - [申台龍](../Page/申台龍.md "wikilink")（シン・テヨン）
+  - [海本幸治郎](../Page/海本幸治郎.md "wikilink") 2001-2002
 
-  - [朴康造](../Page/朴康造.md "wikilink")（パク・カンジョ）
+  - [金度勲](../Page/金度勲.md "wikilink") 2003-2005
 
-  - [尹晶煥](../Page/尹晶煥.md "wikilink")（ユン・ジョンファン）
+  - [尹晶煥](../Page/尹晶煥.md "wikilink") 2003
 
-  - [徐冠秀](https://ja.wikipedia.org/wiki/徐冠秀 "wikilink")（ソウ・クァンス）
+  - [徐冠秀](https://ja.wikipedia.org/wiki/徐冠秀 "wikilink") 2002-2005
 
-  - [韓東元](https://ja.wikipedia.org/wiki/韓東元 "wikilink")（ハン・ドンウォン）
+  - [韓東元](https://ja.wikipedia.org/wiki/韓東元 "wikilink") 2007-2009, 2011
 
-  - 朴珍鋪（[パク・チンポ](https://ja.wikipedia.org/wiki/パク・チンポ "wikilink")）
-
-  - [黄義助](https://ja.wikipedia.org/wiki/黄義助 "wikilink") (ファン・ウィジョ)
+  - [黄義助](https://ja.wikipedia.org/wiki/黄義助 "wikilink") 2013-2017
 
 ## 脚注
 

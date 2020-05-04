@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[1991年](../Page/1991年.md "wikilink")　[プロデューサー](../Page/音楽プロデューサー.md "wikilink")[朝本浩文](../Page/朝本浩文.md "wikilink")と[エンジニア](../Page/レコーディング・エンジニア.md "wikilink")[渡辺省二郎](https://ja.wikipedia.org/wiki/渡辺省二郎 "wikilink")のプロジェクトとしてBMGビクター（現[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）よりデビュー。
+[1991年](../Page/1991年.md "wikilink")　[プロデューサー](../Page/音楽プロデューサー.md "wikilink")[朝本浩文](../Page/朝本浩文.md "wikilink")と[エンジニア](../Page/レコーディング・エンジニア.md "wikilink")[渡辺省二郎](https://ja.wikipedia.org/wiki/渡辺省二郎 "wikilink")のプロジェクトとしてBMGビクター（現在は[ソニー・ミュージックエンタテインメントの](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")レーベル）よりデビュー。
 
 GRANADA（[森若香織](../Page/森若香織.md "wikilink")）（作詞、Vo.）、[會田茂一](../Page/會田茂一.md "wikilink")（G）を迎えて、[1992年](../Page/1992年.md "wikilink")にアルバム「ハウ･ドゥ･ユー･ドゥ?」、[1993年](../Page/1993年.md "wikilink")にアルバム「HAPPY SPACE」をリリース。
 

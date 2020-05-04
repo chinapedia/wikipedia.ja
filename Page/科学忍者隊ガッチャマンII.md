@@ -884,7 +884,7 @@ BGMは[筒井広志](../Page/筒井広志.md "wikilink")が本作のために新
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>土曜 18:00 - 18:30</p></td>
 <td></td>

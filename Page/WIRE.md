@@ -489,7 +489,7 @@
 
 ## WIRE11
 
-  - 開催日: [2011年](../Page/2011年.md "wikilink")（平成23年）[8月27日](../Page/8月27日.md "wikilink")
+  - 開催日: [2011年](../Page/1999年.md "wikilink")（平成23年）[8月27日](../Page/7月3日.md "wikilink")
   - 開催場所: 横浜アリーナ
 
 <!-- end list -->

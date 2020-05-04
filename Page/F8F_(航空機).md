@@ -1,8 +1,8 @@
 > この記事は[F8F \(航空機\)](https://ja.wikipedia.org/wiki/F8F_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称 = F8F ベアキャット | 画像 = <File:Ray> Wagner Collection Image (16157058629).jpg | キャプション = 飛行するF8F-1 95318号機
-([空母ボクサーVF](../Page/ボクサー_\(空母\).md "wikilink")-20A所属、[1947年](../Page/1947年.md "wikilink")[6月](../Page/6月.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者 = [ウィリアム・トーマス・シュウェンドラー](https://ja.wikipedia.org/wiki/:en:William_T._Schwendler "wikilink") | 製造者 = [グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 = | 運用者 more =
+{{ Infobox 航空機 | 名称 = F8F ベアキャット | 画像 = <File:Ray> Wagner Collection Image (16342418702).jpg | キャプション = 飛行するF8F-1 95280号機
+([空母ボクサーVF](../Page/ボクサー_\(空母\).md "wikilink")-5A所属、[1947年](../Page/1947年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者 = [ウィリアム・トーマス・シュウェンドラー](https://ja.wikipedia.org/wiki/:en:William_T._Schwendler "wikilink")、[ロバート・L・ホール](https://ja.wikipedia.org/wiki/:en:Robert_Hall_\(aircraft_designer\) "wikilink") | 製造者 = [グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 = | 運用者 more =
 \*\*
 
   -   - [Emblem_of_the_United_States_Navy.png](https://ja.wikipedia.org/wiki/File:Emblem_of_the_United_States_Navy.png "fig:Emblem_of_the_United_States_Navy.png") [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")
@@ -17,7 +17,9 @@
   -   - [1960年](../Page/1960年.md "wikilink")（タイ空軍）
       - [1963年](../Page/1963年.md "wikilink")（南ベトナム空軍）\[1\]
 
-| 運用状況=退役 | ユニットコスト= }} **F8F ベアキャット**（*Grumman F8F Bearcat* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、第二次大戦後に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
+| 運用状況=退役 | ユニットコスト= }}
+
+**F8F ベアキャット**（*Grumman F8F Bearcat* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、第二次大戦後に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。
 
 愛称の「**ベアキャット** (Bearcat)」は、[ビントロング](../Page/ビントロング.md "wikilink")の別名であり、勇敢な闘士という意味もある。小型軽量化及び徹底的に洗練された空力構造、高い防弾性能をもつ機体に大出力のエンジンを搭載し、[陸軍航空隊の](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")[P-51マスタングと並び](../Page/P-51_\(航空機\).md "wikilink")、最強の[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")戦闘機、また最強のレシプロ艦上戦闘機と評される事もある。
 
@@ -240,18 +242,17 @@ F8F ベアキャットは、小型の[航空母艦](../Page/航空母艦.md "wik
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>XF8F-1<br />
-F8F-1<br />
+<td><p>F8F-1<br />
 F8F-1D</p></td>
 <td><p>90446<br />
 D.10</p></td>
-<td><p><a href="https://imgproc.airliners.net/photos/airliners/3/6/3/1532363.jpg?v=v40">写真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Bearcat_F8F-1.jpg" title="fig:Bearcat_F8F-1.jpg">Bearcat_F8F-1.jpg</a></p></td>
 <td><p>アメリカ テキサス州</p></td>
 <td><p>テキサス・フライング・レジェンズ博物館<br />
 (Texas Flying Legends Museum)</p></td>
 <td><p>非公開</p></td>
 <td><p>修復中</p></td>
-<td></td>
+<td><p>先行量産機23機のうちの10号機。2012年に墜落したため、修復が進められている。</p></td>
 </tr>
 <tr class="even">
 <td><p>F8F-1</p></td>
@@ -263,11 +264,12 @@ D.18</p></td>
 (Jens Meyerhoff)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
-<td></td>
+<td><p>先行量産機23機のうちの18号機。</p></td>
 </tr>
 <tr class="odd">
 <td><p>F8F-1</p></td>
 <td><p>94956<br />
+B.Kh15-178/98<br />
 D.205</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:B.Kh15-178-98_(4312)_(14569402678).jpg" title="fig:B.Kh15-178-98_(4312)_(14569402678).jpg">B.Kh15-178-98_(4312)_(14569402678).jpg</a></p></td>
 <td><p>タイ</p></td>
@@ -284,9 +286,9 @@ D.527</p></td>
 <td><p>アメリカ テキサス州</p></td>
 <td><p>ルイス・エア・レジェンズ<a href="http://www.lewisairlegends.com/">1</a><br />
 (Lewis Air Legends)</p></td>
-<td><p>公開</p></td>
-<td><p>飛行可能</p></td>
-<td><p><a href="http://www.lewisairlegends.com/aircraft/f8f-1-bearcat">2</a></p></td>
+<td><p>非公開</p></td>
+<td><p>保管中</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>F8F-1</p></td>
@@ -299,7 +301,7 @@ D.628</p></td>
 (テキサス・フライング・レジェンズ博物館)</p></td>
 <td><p>非公開</p></td>
 <td><p>修復中</p></td>
-<td><p><a href="http://warbirdsnews.com/warbird-restorations/texas-flying-legends-museum-bearcat-restoration.html">3</a></p></td>
+<td><p><a href="http://warbirdsnews.com/warbird-restorations/texas-flying-legends-museum-bearcat-restoration.html">2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>F8F-1B</p></td>
@@ -327,9 +329,20 @@ D.804</p></td>
 </tr>
 <tr class="even">
 <td><p>F8F-2</p></td>
+<td><p>121614<br />
+D.988</p></td>
+<td><p><a href="https://www.flickr.com/photos/normangraf/8202451580/sizes/l/">写真</a></p></td>
+<td><p>アメリカ テキサス州</p></td>
+<td><p>ルイス・エア・レジェンズ</p></td>
+<td><p>公開</p></td>
+<td><p>飛行可能</p></td>
+<td><p>122614号機と紹介される場合もあるが、番号が整合できない。タイ空軍機の塗装がされている。<a href="https://lewisairlegends.com/tai-wun-on">3</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>F8F-2</p></td>
 <td><p>121646<br />
 D.1020</p></td>
-<td></td>
+<td><p><a href="https://live.staticflickr.com/4565/38553516852_7cacf1f584_h.jpg">写真</a></p></td>
 <td><p>アメリカ ヴァージニア州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/国立航空宇宙博物館#博物館別館" title="wikilink">国立航空宇宙博物館別館<br />
 スティーヴン・F・ウドヴァーヘイジーセンター</a><a href="https://airandspace.si.edu/">4</a></p></td>
@@ -337,11 +350,25 @@ D.1020</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://airandspace.si.edu/collection-objects/grumman-f8f-2-bearcat-conquest-i">5</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>F8F-2</p></td>
+<td><p>121679<br />
+D.1053</p></td>
+<td><p><a href="https://www.airport-data.com/images/aircraft/001/528/001528268.jpg">写真</a></p></td>
+<td><p>アメリカ カリフォルニア州</p></td>
+<td><p>ベアキャット・F8F-2社<br />
+(Bearcat F8F-2 LLC)</p></td>
+<td><p>非公開</p></td>
+<td><p>飛行可能</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>F8F-2<br />
+G-58A</p></td>
 <td><p>121707<br />
-D.1081</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26409257710).jpg" title="fig:Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26409257710).jpg">Grumman_F8F-2_Bearcat_(121707_-_N3025)_(26409257710).jpg</a></p></td>
+D.1081<br />
+→D.739A</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F8F-2_Bearcat_‘V’_(N3025)_(26418560711).jpg" title="fig:Grumman_F8F-2_Bearcat_‘V’_(N3025)_(26418560711).jpg">Grumman_F8F-2_Bearcat_‘V’_(N3025)_(26418560711).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プレーンズ・オブ・フェイム航空博物館" title="wikilink">プレーンズ・オブ・フェイム航空博物館</a></p></td>
 <td><p>公開</p></td>
@@ -387,59 +414,48 @@ D.1122</p></td>
 <td><p>F8F-2</p></td>
 <td><p>121752<br />
 D.1126</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F8F_Bearcat_(7911190340).jpg" title="fig:Grumman_F8F_Bearcat_(7911190340).jpg">Grumman_F8F_Bearcat_(7911190340).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:N800H_(USN-106-A),_Grumman_Bearcat_PAE_28JUL13_(9387520093).jpg" title="fig:N800H_(USN-106-A),_Grumman_Bearcat_PAE_28JUL13_(9387520093).jpg">N800H_(USN-106-A),_Grumman_Bearcat_PAE_28JUL13_(9387520093).jpg</a></p></td>
 <td><p>アメリカ ワシントン州</p></td>
-<td><p>歴史飛行財団<br />
+<td><p>歴史飛行財団<a href="http://historicflight.org/hf/">10</a><br />
 (Historic Flight Foundation)</p></td>
-<td></td>
+<td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td></td>
+<td><p><a href="http://historicflight.org/hf/collection/bearcat/">11</a></p></td>
 </tr>
 <tr class="even">
 <td><p>F8F-2</p></td>
 <td><p>121776<br />
 D.1162</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:F8F-2_Bearcat_(21240969572).jpg" title="fig:F8F-2_Bearcat_(21240969572).jpg">F8F-2_Bearcat_(21240969572).jpg</a></p></td>
-<td><p>アメリカ デラウェア州</p></td>
-<td><p>BA1945社(BA1945 LLC)</p></td>
+<td><p>アメリカ イリノイ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Greater_Rockford_Airport" title="wikilink">グレイター・ロックフォード空港</a></p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>F8F-2P</p></td>
-<td><p>122614<br />
-D.988</p></td>
-<td></td>
+<td><p>F8F-2</p></td>
+<td><p>122619<br />
+D.1148</p></td>
+<td><p><a href="https://farm2.staticflickr.com/1732/41508310635_41b8d5c3be_b.jpg">写真</a></p></td>
 <td><p>アメリカ テキサス州</p></td>
 <td><p>ルイス・エア・レジェンズ</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="http://www.lewisairlegends.com/aircraft/tai-wun-on">10</a></p></td>
+<td><p><a href="https://lewisairlegends.com/f8f-2-bearcat-dcc">12</a></p></td>
 </tr>
 <tr class="even">
 <td><p>F8F-2</p></td>
-<td><p>122619<br />
-D.1148</p></td>
-<td></td>
-<td><p><a href="http://www.lewisairlegends.com/aircraft/de-chrome-cat">11</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Rare_Bear" title="wikilink">122629</a><br />
+D.1170</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:77_F8F-2_Bearcat_(N-777L)_Rare_Bear_2014_Reno_Air_Races_Gold_Final_by_D_Ramey_Logan.jpg" title="fig:77_F8F-2_Bearcat_(N-777L)_Rare_Bear_2014_Reno_Air_Races_Gold_Final_by_D_Ramey_Logan.jpg">77_F8F-2_Bearcat_(N-777L)_Rare_Bear_2014_Reno_Air_Races_Gold_Final_by_D_Ramey_Logan.jpg</a></p></td>
+<td><p><a href="https://lewisairlegends.com/f8f2-bearcat-rare-bear">13</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>F8F-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Rare_Bear" title="wikilink">122629</a><br />
-D.1170</p></td>
-<td></td>
-<td><p><a href="http://www.lewisairlegends.com/aircraft/rare-bear">12</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>F8F-2</p></td>
 <td><p>122637<br />
 D.1190</p></td>
@@ -450,38 +466,27 @@ D.1190</p></td>
 <td><p>飛行可能</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>F8F-2P</p></td>
+<tr class="even">
+<td><p>F8F-2</p></td>
 <td><p>122674<br />
 D.1227</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Commemorative_Air_Force_Grumman_F8F-2_Bearcat_(G-58)_N7825C_-_122674-S-201_(cn_D.1227)_(21866840082).jpg" title="fig:Commemorative_Air_Force_Grumman_F8F-2_Bearcat_(G-58)_N7825C_-_122674-S-201_(cn_D.1227)_(21866840082).jpg">Commemorative_Air_Force_Grumman_F8F-2_Bearcat_(G-58)_N7825C_-_122674-S-201_(cn_D.1227)_(21866840082).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:SIL78116.jpg" title="fig:SIL78116.jpg">SIL78116.jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Commemorative_Air_Force" title="wikilink">記念空軍</a>(CAF)<br />
-南カリフォルニア支部<a href="https://www.cafsocal.com/">13</a></p></td>
+南カリフォルニア支部<a href="https://www.cafsocal.com/">14</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://www.cafsocal.com/our-aircrafts/our-aircraft-and-history/gruman-f8f-2-bearcat/">14</a></p></td>
-</tr>
-<tr class="even">
-<td><p>G-58A</p></td>
-<td><p>D.739A</p></td>
-<td></td>
-<td><p>アメリカ カリフォルニア州</p></td>
-<td><p>スティーヴン・ヒントン・ジュニア氏<br />
-(Steven Hinton Jr.)</p></td>
-<td><p>非公開</p></td>
-<td><p>飛行可能</p></td>
-<td></td>
+<td><p><a href="https://www.cafsocal.com/our-aircrafts/our-aircraft-and-history/gruman-f8f-2-bearcat/">15</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>G-58B</p></td>
 <td><p>D.1262</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_f8f_bearcat_113.jpg" title="fig:Grumman_f8f_bearcat_113.jpg">Grumman_f8f_bearcat_113.jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Palm_Springs_Air_Museum" title="wikilink">パームスプリングス航空博物館</a><a href="https://palmspringsairmuseum.org/">15</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Palm_Springs_Air_Museum" title="wikilink">パームスプリングス航空博物館</a><a href="https://palmspringsairmuseum.org/">16</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://palmspringsairmuseum.org/aircraft/">16</a></p></td>
+<td><p><a href="https://palmspringsairmuseum.org/aircraft/">17</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -498,7 +503,7 @@ D.1227</p></td>
 
 ## 参考文献
 
-  - 『<small>世界の傑作機 No.94</small> グラマンF7F/F8F』（文林堂、2002年） ISBN 4-89319-094-6
+  - 『<small>世界の傑作機 No.94</small> グラマンF7F/F8F』（文林堂、2002年）
   - 第二次大戦 アメリカ海軍機全集 航空ファン イラストレイテッド93-12（文林堂、1993年）
 
 ## 脚注

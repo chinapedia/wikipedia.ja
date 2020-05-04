@@ -30,7 +30,6 @@
 
   - [石川綾子](https://ja.wikipedia.org/wiki/石川綾子 "wikilink") (2015年〜)
   - [イトヲカシ](https://ja.wikipedia.org/wiki/イトヲカシ "wikilink") (2016年〜)
-  - [EMPiRE](https://ja.wikipedia.org/wiki/EMPiRE "wikilink") (2017年〜)
   - [大阪☆春夏秋冬](https://ja.wikipedia.org/wiki/大阪☆春夏秋冬 "wikilink") (2018年〜)
   - [大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink") (2003年〜2010年,2013年〜)
   - [大森靖子](https://ja.wikipedia.org/wiki/大森靖子 "wikilink") (2014年〜)
@@ -92,6 +91,7 @@
   - [Do As Infinity](../Page/Do_As_Infinity.md "wikilink") (1999年〜2005年,2008年〜)
       - [伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink") (2006年〜2008年)
   - [EIGHT OF TRIANGLE](https://ja.wikipedia.org/wiki/EIGHT_OF_TRIANGLE "wikilink") (2018年〜)
+  - [EMPiRE](https://ja.wikipedia.org/wiki/EMPiRE "wikilink") (2017年〜)
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink") (1996年〜)
       - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") (2004年〜2012年,2019年)
           - [Caocao](https://ja.wikipedia.org/wiki/Caocao "wikilink") (2009年)
@@ -101,6 +101,7 @@
       - [EXO-CBX](https://ja.wikipedia.org/wiki/EXO-CBX "wikilink") (2017年〜)
   - [GIRLFRIEND](https://ja.wikipedia.org/wiki/GIRLFRIEND_\(バンド\) "wikilink") (2017年〜)
   - [Honey L Days](https://ja.wikipedia.org/wiki/Honey_L_Days "wikilink") (2008年〜)
+  - [KEIKO](../Page/窪田啓子.md "wikilink") (2020年～)
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") (2011年〜)
       - [舞祭組](https://ja.wikipedia.org/wiki/舞祭組 "wikilink") (2013年〜)
   - [kolme](https://ja.wikipedia.org/wiki/kolme "wikilink") (2015年〜)

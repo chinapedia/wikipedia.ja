@@ -7,6 +7,8 @@
 
 ## 概要
 
+主に大容量データを効率良く処理するための[ストリーム・プロセッシング](https://ja.wikipedia.org/wiki/ストリーム・プロセッシング "wikilink")を志向したプロセッサである。GPGPUと言う言葉が無い頃に、プログラム全体の制御を担う汎用コアとデータ処理に特化した補助コアのヘテロ構成のアーキテクチャを実現した。
+
 Cell誕生のきっかけであったSCEの[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")である「[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")」を筆頭に、一部の[サーバー](https://ja.wikipedia.org/wiki/サーバー "wikilink")や[ワークステーション](../Page/ワークステーション.md "wikilink")、[薄型テレビ](../Page/薄型テレビ.md "wikilink")などの様々な製品に採用された。また、[米エネルギー省が保有する](../Page/アメリカ合衆国エネルギー省.md "wikilink")[スーパーコンピューター](https://ja.wikipedia.org/wiki/スーパーコンピューター "wikilink")「[Roadrunner](https://ja.wikipedia.org/wiki/Roadrunner "wikilink")」や、同アーキテクチャーのプロセッサのみで構成されたシステム「[QPACE](https://ja.wikipedia.org/wiki/:en:QPACE "wikilink")」が、スーパーコンピューターランキング[TOP500](https://ja.wikipedia.org/wiki/TOP500 "wikilink")のみならず電力効率を争う[Green500のランキングも賑わせた](https://ja.wikipedia.org/wiki/:en:Performance_per_watt#Green500_List "wikilink")。
 
 Cellは年々改良され、90nm→65nm→45nmと微細化された。なお、SCEは「[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")」にはCellを採用せずAMD社のJaguarコアを採用した。

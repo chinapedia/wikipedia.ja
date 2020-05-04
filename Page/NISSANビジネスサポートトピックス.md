@@ -30,7 +30,7 @@
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（7:20～7:30　モーニングカフェ）
   - [信越放送](../Page/信越放送.md "wikilink")（7:50～8:00　モーニングワイド ラジオJ）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（7:45～7:55　[今日もシャキっと\!](https://ja.wikipedia.org/wiki/今日もシャキっと! "wikilink")）
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（8:25～8:35　[げんき一番](../Page/げんき一番.md "wikilink")）
+  - [福井放送](../Page/福井放送.md "wikilink")（8:25～8:35　[げんき一番](../Page/げんき一番.md "wikilink")）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（8:30～8:40　とれたてラジオ～One to one～）
   - [岐阜放送](../Page/岐阜放送.md "wikilink")（独立局、7:30～7:40　[鈴江・神保のときめきぐっモーニング](../Page/鈴江・神保のときめきぐっモーニング.md "wikilink")）
   - KBS[京都放送](../Page/京都放送.md "wikilink")（[笑福亭晃瓶のほっかほかラジオ](../Page/笑福亭晃瓶のほっかほかラジオ.md "wikilink")）
@@ -45,7 +45,7 @@
   - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（7:35～7:50　[中村もときの通勤ラジオ](../Page/中村もときの通勤ラジオ.md "wikilink")）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（8:20～8:25　今日も朝からNBC\!）
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（7:26～7:35　史郎と扶美の日刊・朝まる）
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（7:25～7:35）
+  - [大分放送](../Page/大分放送.md "wikilink")（7:25～7:35）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（7:00～7:10　[MRTスーパーワイドバリッと朝](../Page/MRTスーパーワイドバリッと朝.md "wikilink")）
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（7:42～7:51　むっちゃんのきょうも元気にChi・Ka・Raこぶ）
 

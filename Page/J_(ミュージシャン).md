@@ -48,7 +48,7 @@
 ## ベーシストとして
 
   - [演奏](../Page/演奏.md "wikilink")の際は基本的には[ピック弾きであるが](../Page/ピック奏法.md "wikilink")、[指弾きで演奏することもある](../Page/フィンガー・ピッキング.md "wikilink")。（[MOTHER](../Page/MOTHER_\(Single_Version\).md "wikilink")/[I for You](../Page/I_for_You.md "wikilink")/Crazy About You等）
-  - 97年のLUNA SEA活動休止期間中に、仲野茂と藤沼伸一（共に[アナーキー](../Page/アナーキー_\(バンド\).md "wikilink")）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")、[澤田純](https://ja.wikipedia.org/wiki/澤田純 "wikilink")とバンド、**[GaZa](https://ja.wikipedia.org/wiki/GaZa "wikilink")**を結成。一度限りのライブを行う。
+  - 97年のLUNA SEA活動休止期間中に、仲野茂と藤沼伸一（共に[アナーキー](../Page/アナーキー_\(バンド\).md "wikilink")）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")、[澤田純](../Page/澤田純.md "wikilink")とバンド、**[GaZa](https://ja.wikipedia.org/wiki/GaZa "wikilink")**を結成。一度限りのライブを行う。
   - [X JAPANの](../Page/X_JAPAN.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[hide](https://ja.wikipedia.org/wiki/hide "wikilink")が欧米で出会ったミュージシャンと組んだバンド、**[zilch](https://ja.wikipedia.org/wiki/hide#zilch "wikilink")**にも参加している。
   - X JAPANのhide、LUNA SEAのINORANと組んだユニット、**MxAxSxS**で[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「[DANCE 2 NOISE 004](https://ja.wikipedia.org/wiki/DANCE_2_NOISE_004 "wikilink")」に参加している。
   - [中村獅童 (2代目)](../Page/中村獅童_\(2代目\).md "wikilink")・[TAKUYA](../Page/TAKUYA.md "wikilink")（ex.[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")）・FURUTON（ex.[Oblivion Dust](../Page/オブリヴィオン・ダスト.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink") etc.）らと共に結成されたバンド、**西麻布アウトサイダーズ**を結成。一度限りのライブを行う。

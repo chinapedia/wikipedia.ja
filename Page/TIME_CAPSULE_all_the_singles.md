@@ -9,7 +9,7 @@
 
 ボーナストラックとして、[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『Gaball screen』の為に作られた「Detour」を収録（メンバー3人の連名名義）。
 
-シングル・ベストという位置付けの為、基本的にシングルヴァージョンを収録しているが、シングル1曲目のみの収録となっており、「[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")」との両A面である「COME ON LET'S DANCE (DANCE SUPREME)」、「[Love Train](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")」との両A面である「We love the EARTH」や「DREAMS OF CHIRISTMAS」 (「[RHYTHM RED BEAT BLACK](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")」との両A面) や「Still Love Her」 (「[JUST ONE VICTORY (たったひとつの勝利)](../Page/JUST_ONE_VICTORY_\(たったひとつの勝利\).md "wikilink")」のc/w。カップリング曲ながらタイアップ曲) は未収録となった。
+シングル・ベストという位置付けの為、シングル1曲目のみの収録となっており、両A面シングルの2曲目は収録されていない (「[COME ON EVERYBODY (with Nile Rodgers)](../Page/COME_ON_EVERYBODY_\(with_Nile_Rodgers\).md "wikilink")」との両A面である「COME ON LET'S DANCE (DANCE SUPREME)」や「[RHYTHM RED BEAT BLACK](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")」との両A面である「DREAMS OF CHIRISTMAS」、「[Love Train](https://ja.wikipedia.org/wiki/Love_Train/We_love_the_EARTH "wikilink")」との両A面である「We love the EARTH」) 。また、「Still Love Her」 (「[JUST ONE VICTORY (たったひとつの勝利)](../Page/JUST_ONE_VICTORY_\(たったひとつの勝利\).md "wikilink")」のc/w。カップリング曲ながらタイアップ曲) は未収録となった。
 
 初回盤はBOXケース仕様、40ページブックレット付き、ピクチャーディスク仕様。また、2枚のディスクがそれぞれ単独のケースに収められている。BOXの蓋にはデジタル式の[時計](../Page/時計.md "wikilink")が埋め込まれていて、電池交換も可能である。
 

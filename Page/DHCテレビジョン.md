@@ -159,7 +159,7 @@
   - 石井至/石井至の為替哲学
   - [ボートレース大村実況中継](https://ja.wikipedia.org/wiki/大村競艇場 "wikilink")（無料放送、2012年4月より）
   - [ボートレース若松実況中継](https://ja.wikipedia.org/wiki/若松競艇場 "wikilink")（無料放送、2013年4月より。大村開催日は17時から、非開催時は14時30分から）
-  - [中曽根康弘](https://ja.wikipedia.org/wiki/中曽根康弘 "wikilink")の新・定点観測（政治や社会問題に関して[岩見隆夫](../Page/岩見隆夫.md "wikilink")との対談番組、月一回放送）
+  - [中曽根康弘](../Page/中曽根康弘.md "wikilink")の新・定点観測（政治や社会問題に関して[岩見隆夫](../Page/岩見隆夫.md "wikilink")との対談番組、月一回放送）
   - 時代を創る（[堤尭](https://ja.wikipedia.org/wiki/堤尭 "wikilink")とゲストによる討論番組、毎週月曜日放送）
   - 討論番組
   - 平泉渉 世界のダイナミズム〜父が娘に語る千夜一夜〜

@@ -4037,7 +4037,7 @@ KTV[13]</p></td>
 87. 福島競馬場はバーデンバーデンカップ。
 88. 新潟競馬場は関越ステークス。
 89.
-90. 2020年の[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")と[皐月賞](../Page/皐月賞.md "wikilink")は、NHKが急遽中継取りやめの為特例でBSフジを含めて放送されない
+90. 2020年の春競馬の一部GIは、NHKが中継取りやめの為特例でBSフジを含めて放送されない
 91. 2019年11月3日は『[FNS27時間テレビ にほんのスポーツは強いっ\!](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")』を放送しBSフジでBSみんなのKEIBAを編成
 92. 地上波放送の休止は2012年[3月11日](../Page/3月11日.md "wikilink")の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連以来。
 93. [BSフジで競馬中継番組「BSスーパーKEIBA」を放送](http://www.jra.go.jp/news/201810/101001.html) 日本中央競馬会、2018年10月10日公開 2018年10月11日閲覧

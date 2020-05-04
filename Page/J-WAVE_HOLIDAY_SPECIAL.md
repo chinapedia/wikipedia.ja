@@ -3092,6 +3092,42 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
   -
     [小宮山雄飛](../Page/小宮山雄飛.md "wikilink")、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")
 
+<!-- end list -->
+
+  - 7月17日 J-WAVE HOLIDAY SPECIAL [JAL](../Page/日本航空.md "wikilink") RESORTFUL presents SEE YOU ON THE BEACH (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    クリス智子、別所哲也、[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")
+
+<!-- end list -->
+
+  - 7月17日 KYOTO IS…（18:00-19:55）
+
+<!-- end list -->
+
+  -
+    小山薫堂、[竹内弘一](../Page/竹内弘一.md "wikilink")（[KBS京都アナウンサー](../Page/京都放送.md "wikilink")）
+
+<!-- end list -->
+
+  - 8月11日 J-WAVE HOLIDAY SPECIAL [MITSUBISHI JISHO](../Page/三菱地所.md "wikilink") MARUNOUCHI MUSICOLOGY Summer Festival（9:00-17:55）
+
+<!-- end list -->
+
+  -
+    グローバー
+
+<!-- end list -->
+
+  - 8月11日 antenna\* J-WAVE LIVE SUMMER JAM SPECIAL（18:00-21:55）
+
+<!-- end list -->
+
+  -
+    サッシャ、藤田琢己
+
 </div>
 
 </div>

@@ -124,6 +124,7 @@
   - [SAY NO](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜#収録曲 "wikilink")
       - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。「SAY YES」をパロディ化したものを『[イミテイション・ゴールド〜金爆の名曲二番搾り〜](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜 "wikilink")』に収録している\[29\]。
   - [オリコンチャート\#オリコンシングルの売上枚数ベスト20](https://ja.wikipedia.org/wiki/オリコンチャート#オリコンシングルの売上枚数ベスト20 "wikilink")
+  - [西鉄特急](../Page/西鉄特急.md "wikilink") - [8000系運用の際に](../Page/西鉄8000形電車.md "wikilink")[二日市到着時の車内放送に使われた](https://ja.wikipedia.org/wiki/西鉄二日市駅 "wikilink")。
 
 ## 脚注
 

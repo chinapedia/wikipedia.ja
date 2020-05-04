@@ -58,7 +58,7 @@
   - [山形放送](../Page/山形放送.md "wikilink")\[8\]
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")\[9\]
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")\[10\]
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")\[11\]
+  - [福井放送](../Page/福井放送.md "wikilink")\[11\]
   - [朝日放送](../Page/朝日放送ラジオ.md "wikilink")\[12\]
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")\[13\]
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")\[14\]

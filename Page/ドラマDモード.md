@@ -13,7 +13,7 @@
 
 ## 特徴
 
-それまでの連続ドラマとは一線を画して、[若者にターゲットを絞ったいわゆる](../Page/青年.md "wikilink")「[トレンディもの](../Page/トレンディドラマ.md "wikilink")」の[作品](../Page/作品.md "wikilink")枠として企画された。また、[BS-2（第2テレビ）でも](../Page/NHK衛星第2テレビジョン.md "wikilink")「BSドラマアヴェニュー」と題して先行放映（[地上波](../Page/地上波.md "wikilink")での放送直前に日程を集中して編成した）が行われた。
+それまでの連続ドラマとは一線を画して、[若者にターゲットを絞ったいわゆる](../Page/青年.md "wikilink")「[トレンディもの](../Page/トレンディドラマ.md "wikilink")」の作品枠として企画された。また、[BS-2（第2テレビ）でも](../Page/NHK衛星第2テレビジョン.md "wikilink")「BSドラマアヴェニュー」と題して先行放映（[地上波](../Page/地上波.md "wikilink")での放送直前に日程を集中して編成した）が行われた。
 
 一部を除いて[NHKエンタープライズ](../Page/NHKエンタープライズ.md "wikilink")21（当時）や外部[プロダクション](https://ja.wikipedia.org/wiki/プロダクション "wikilink")と共同[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")された。
 

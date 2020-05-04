@@ -247,7 +247,7 @@ MiG-23シリーズの近代改修案として提示された派生型。
   - 乗員：1名
   - 武装
       - 固定武装：[GSh-23L](https://ja.wikipedia.org/wiki/GSh-23_\(機関砲\) "wikilink") 23mm連装[機関砲](../Page/機関砲.md "wikilink")×1（装弾数200発）
-      - 空対空ミサイル（誘導ロケット）：[R-23R/T](https://ja.wikipedia.org/wiki/R-23_\(ミサイル\) "wikilink")×2、[R-24R/T](../Page/R-24_\(ミサイル\).md "wikilink")×2、[R-13M/M1](https://ja.wikipedia.org/wiki/R-13_\(ミサイル\) "wikilink")×4、[R-3S](https://ja.wikipedia.org/wiki/R-3_\(ミサイル\) "wikilink")×4、[R-60](https://ja.wikipedia.org/wiki/R-60_\(ミサイル\) "wikilink")×4
+      - 空対空ミサイル（誘導ロケット）：[R-23R/T](https://ja.wikipedia.org/wiki/R-23_\(ミサイル\) "wikilink")×2、[R-24R/T](../Page/R-24_\(ミサイル\).md "wikilink")×2、[R-13M/M1](../Page/R-13_\(ミサイル\).md "wikilink")×4、[R-3S](https://ja.wikipedia.org/wiki/R-3_\(ミサイル\) "wikilink")×4、[R-60](https://ja.wikipedia.org/wiki/R-60_\(ミサイル\) "wikilink")×4
       - 空対地ミサイル（誘導ロケット）：[Kh-23](https://ja.wikipedia.org/wiki/Kh-23_\(ミサイル\) "wikilink")×1
       - 空対地無誘導ロケット：[S-5](https://ja.wikipedia.org/wiki/S-5ロケット弾 "wikilink")、[S-8](https://ja.wikipedia.org/wiki/S-8ロケット弾 "wikilink")、[S-24](https://ja.wikipedia.org/wiki/S-24ロケット弾 "wikilink")
       - 爆弾：[FAB-500](https://ja.wikipedia.org/wiki/FAB-500_\(爆弾\) "wikilink")×4、[FAB-10](https://ja.wikipedia.org/wiki/FAB-100_\(爆弾\) "wikilink")×16

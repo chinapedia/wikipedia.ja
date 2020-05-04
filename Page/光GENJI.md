@@ -1,7 +1,7 @@
 > この記事は[光GENJI](https://ja.wikipedia.org/wiki/光GENJI)から翻訳されています。
 
 
-**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「最初のスーパーアイドル」などと称されている。
+**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「**最後のスーパーアイドル**」などと称されている。
 
 ## メンバー
 
@@ -115,7 +115,7 @@ AKIRA &amp; KOHJI</p></td>
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月](../Page/6月.md "wikilink")\[45\]、既存グループだった5人組の「**GENJI**」と、内海光司、大沢樹生の2人による「**光**」の2つのグループが合体して、「光GENJI」が結成\[46\]。
 
-1987年[8月19日](../Page/8月19日.md "wikilink")に[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")（現・CHAGE and ASKA）が楽曲提供した「[STAR LIGHT](../Page/STAR_LIGHT_\(光GENJIの曲\).md "wikilink")」でレコードデビュー\[47\]。[ローラースケート](../Page/ローラースケート.md "wikilink")を履いて踊り、バック転などもこなすアクロバティックなパフォーマンスがうけ、デビューしてすぐに人気が上昇\[48\]\[49\]、爆発的なブームを生み「最後のスーパーアイドル」と呼ばれ、その人気は経済誌などでも社会現象として取り上げられる。\[50\]\[51\]同年、テレビ東京系『[あぶない少年](../Page/あぶない少年.md "wikilink")』でドラマ初主演を務める\[52\]。
+1987年[8月19日](../Page/8月19日.md "wikilink")に[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")（現・CHAGE and ASKA）が楽曲提供した「[STAR LIGHT](../Page/STAR_LIGHT_\(光GENJIの曲\).md "wikilink")」でレコードデビュー\[47\]。[ローラースケート](../Page/ローラースケート.md "wikilink")を履いて踊り、バック転などもこなすアクロバティックなパフォーマンスがうけ、デビューしてすぐに人気が上昇\[48\]\[49\]、 この時のキャッチフレーズが「**超新星からのメッセージ**」であった。爆発的なブームを生み、「最後のスーパーアイドル」と呼ばれ、その人気は経済誌などでも社会現象として取り上げられる。\[50\]\[51\]同年、テレビ東京系『[あぶない少年](../Page/あぶない少年.md "wikilink")』でドラマ初主演を務める\[52\]。
 
 [1988年](../Page/1988年.md "wikilink")12月31日、「[パラダイス銀河](../Page/パラダイス銀河.md "wikilink")」で[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")を受賞。また、同年のオリコン年間シングル売上第1位～3位を光GENJIが独占し、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")以来の快挙を達成し、ベスト10内には4曲ランクインした。オリコン年間アルバム売上も第1位と第9位を獲得。
 
@@ -127,7 +127,11 @@ AKIRA &amp; KOHJI</p></td>
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月1日、解散コンサートの2日前、かつてレギュラー出演していた『ミュージックステーション』に出演する（光GENJI SUPER 5として最後のTV出演となる）。スタジオにファン数百人を入れ、歴代のシングルメドレーを披露し、最後に「Graduation」を熱唱。曲の終わりに、メンバー全員がローラースケートを脱いで、ステージ中央に置いた。同年9月3日、[名古屋市総合体育館](../Page/名古屋市総合体育館.md "wikilink")・レインボーホール（現・日本ガイシホール）でのライブを最後に「卒業」（明確には解散）した\[54\]\[55\]。卒業について、諸星は後年、「仲が悪かった」「みんな疲れていた」と語っているほか\[56\]、2015年11月に出演した番組で当時の状況について山本が「当時のアイドルは、20代後半になったら『それぞれの道に行く』みたいなスタイルがあった」と語り、光GENJIの中の年長者のメンバーが、独立に進みたがっていたという内情を明かしている\[57\]。
 
-[2017年](../Page/2017年.md "wikilink")にデビュー30周年を記念した再結成を計画（年内限定ツアー）し、メンバー7人の会合を行い、ASKAも呼ばれ新曲制作を依頼されていたが。所属事務所間の問題から頓挫し白紙となったことをASKAが2019年にBLOGで公表している\[58\]。
+#### その後
+
+[2015年](../Page/2015年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")放送の『[ナカイの窓](https://ja.wikipedia.org/wiki/ナカイの窓 "wikilink")』「伝説のグループSP」に[佐藤アツヒロ](../Page/佐藤アツヒロ.md "wikilink")が出演。司会の[中居正広](../Page/中居正広.md "wikilink")から「歴代上、一番すごかった」「ハンパじゃねぇな」、また[ヒロミ](../Page/ヒロミ.md "wikilink")からは「俺が見た中では一番すごかった」と紹介され、中居は光GENJIを超えられないグループだと語った。
+
+[2017年](../Page/2017年.md "wikilink")にデビュー30周年を記念した再結成を計画（年内限定ツアー）し、メンバー7人の会合を行い、ASKAも呼ばれ新曲制作を依頼されていたが。所属事務所間の問題から頓挫し白紙となったことを、ASKAが2019年にBLOGで公表している\[58\]。
 
 ## 概要
 
@@ -144,7 +148,9 @@ AKIRA &amp; KOHJI</p></td>
 
 デビュー当初、赤坂晃と佐藤敦啓は[労働基準法](../Page/労働基準法.md "wikilink")（第61条）により、原則夜8時以降〜翌朝5時までの生出演ができないとされていて、当初は「歌の部分のみ事前収録する」「メンバー5人が歌っている生映像に出演できない2人のVTRを合成する」「当時バックで踊っていた[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居](../Page/中居正広.md "wikilink")・[木村が代わりに入る](../Page/木村拓哉.md "wikilink")」等の工夫をしていたが、当時出演していた『ザ・ベストテン』や『歌のトップテン』などの生放送番組に時々メンバー全員で出演したときもあり、夜8時以降に出演したり出演しなかったりという状況が続いていた（労働基準法に関しては、[伊藤つかさ](../Page/伊藤つかさ.md "wikilink")が『ザ・ベストテン』にランクインした際、番組側の自主規制により生出演できなかったというエピソードがある）。
 
-この状況に関して、当時14歳のメンバーが[深夜](../Page/深夜.md "wikilink")の歌番組に出演した疑いで管轄する[労働基準監督署](../Page/労働基準監督署.md "wikilink")が[1988年](../Page/1988年.md "wikilink")[6月](../Page/6月.md "wikilink")に事務所へ調査に入った際、「報酬面」「税法上の取り扱い」「事業所所得として課税されている」などの実態を確認して考察した結果\[63\]、メンバーは「[労働者とは認められない](https://ja.wikipedia.org/wiki/労働#労働者 "wikilink")」（=労働基準法は適用されない）という判断を下した\[64\]。さらに光GENJIの出演に関する諮問があって[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")や関係機関で議論が行われ、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")において一定の条件（他人によって代替できない、“人気”等当人の個性が重要な要素となっている、契約形態が[雇用](../Page/雇用.md "wikilink")契約でない、など）を満たした者は「表現者」とみなし労働基準法を適用しない（端的には「**人気の無い者**は労働者とみなす」）という結論になり、[1988年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")に[通達](../Page/通達.md "wikilink")（いわゆる「[芸能タレント通達](https://ja.wikipedia.org/wiki/芸能タレント通達 "wikilink")」「光GENJI通達」[昭和63年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")、基収355号）\[65\]が出され、それ以降は夜9時以降であっても、メンバー全員で出演することが多くなった。
+この状況に関して、当時14歳のメンバーが[深夜](../Page/深夜.md "wikilink")の歌番組に出演した疑いで、管轄する[労働省](../Page/労働省.md "wikilink")の[労働基準監督署](../Page/労働基準監督署.md "wikilink")が[1988年](../Page/1988年.md "wikilink")[6月](../Page/6月.md "wikilink")にジャニーズ事務所へ調査に入った際、「報酬面」「税法上の取り扱い」「事業所所得として課税されている」などの実態を確認して考察した結果\[63\]、メンバーは「[労働者とは認められない](https://ja.wikipedia.org/wiki/労働#労働者 "wikilink")」（=労働基準法は適用されない）という判断を下した\[64\]。
+
+さらに光GENJIの出演に関する諮問があって、[国会や関係機関で議論が行われ](../Page/国会_\(日本\).md "wikilink")、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")において一定の条件（他人によって代替できない、“人気”等当人の個性が重要な要素となっている、契約形態が[雇用](../Page/雇用.md "wikilink")契約でない、など）を満たした者は「表現者」とみなし、労働基準法を適用しない（端的には「**人気の無い者**は労働者とみなす」）という結論になり、[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）[7月30日](../Page/7月30日.md "wikilink")に[通達](../Page/通達.md "wikilink")（いわゆる「[芸能タレント通達](https://ja.wikipedia.org/wiki/芸能タレント通達 "wikilink")」「**光GENJI通達**」[昭和63年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")、基収355号）が出され\[65\]、それ以降は夜9時以降であっても、メンバー全員で出演することが多くなった。
 
 ## ディスコグラフィ
 

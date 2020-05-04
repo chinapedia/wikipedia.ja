@@ -78,7 +78,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -249,7 +249,7 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>（OBS）</p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a>（OBS）</p></td>
 <td><p>8:50 - 8:55</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/スタート!_(ラジオ番組)" title="wikilink">スタート!</a>』内</p></td>
 </tr>
@@ -275,7 +275,7 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 
 1.  [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発災以降と同様、ACジャパンでの対応ケース有
 2.
-3.  2020年4月8日放送分からは、[新型コロナウイルス](https://ja.wikipedia.org/wiki/新型コロナウイルス "wikilink")感染拡大に伴う緊急事態宣言の影響で"外出自粛"が呼び掛けられていることから、番組タイトルでもある締め括りの言葉「いってらっしゃい」（＝外出を送り出す挨拶）が省かれている。
+3.  2020年4月8日放送分からは、[新型コロナウイルス感染拡大に伴う緊急事態宣言の影響で](../Page/2019新型コロナウイルス.md "wikilink")"外出自粛"が呼び掛けられていることから、番組タイトルでもある締め括りの言葉「いってらっしゃい」（＝外出を送り出す挨拶）が省かれている。
 4.  [ヒッチハイクに](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")[ACジャパン](../Page/ACジャパン.md "wikilink")CMが放送される
 5.
 6.  2020年2月6日放送分はニッポン放送のみ、同社の冠を外して放送

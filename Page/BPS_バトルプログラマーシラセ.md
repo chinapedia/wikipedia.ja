@@ -199,6 +199,6 @@ TV版最終回の冒頭でナレーターが視聴者に向けてあいさつす
   -
   - [スターチャイルド公式サイト](http://www.starchild.co.jp/special/bps/)
 
-[Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:スターチャイルドのアニメ作品](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアニメ作品 "wikilink") [Category:動画大陸](https://ja.wikipedia.org/wiki/Category:動画大陸 "wikilink") [Category:千葉県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした作品 "wikilink")
+[Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:動画大陸](https://ja.wikipedia.org/wiki/Category:動画大陸 "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:スターチャイルドのアニメ作品](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアニメ作品 "wikilink") [Category:千葉県を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台としたアニメ作品 "wikilink")
 
 1.  Episode1のみコンポジットディレクター名義

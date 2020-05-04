@@ -45,7 +45,7 @@
 |                 [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                  |    [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）    |  [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")   | 日曜 25時30分〜26時10分 | 26日遅れ  |
 |                           [滋賀県](../Page/滋賀県.md "wikilink")                           |            [びわ湖放送](../Page/びわ湖放送.md "wikilink")（BBC）             |     [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")     | 日曜 25時00分〜25時40分 | 33日遅れ  |
 |          [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")           |         [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（NKT）         | [日本テレビ系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink") | 水曜 24時31分〜25時16分 | 22日遅れ  |
-|                           [大分県](../Page/大分県.md "wikilink")                           |    [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")(OBS)    |                                  TBS系列                                  | 土曜 16時00分〜16時40分 | 123日遅れ |
+|                           [大分県](../Page/大分県.md "wikilink")                           |             [大分放送](../Page/大分放送.md "wikilink")(OBS)              |                                  TBS系列                                  | 土曜 16時00分〜16時40分 | 123日遅れ |
 
 ## スタッフ
 

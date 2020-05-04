@@ -245,8 +245,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>鈴木佑実</p></td>
-<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
+<td><p>鈴木佑実*</p></td>
+<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a><br />
+（契約キャスター）</p></td>
 <td><p>おはよう富山</p></td>
 </tr>
 <tr class="even">
@@ -271,6 +272,15 @@
 </tr>
 </tbody>
 </table>
+
+## 共同キャンペーン
+
+[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")から、富山県内のテレビ・ラジオ局と共同で[新型コロナウイルス対策のキャンペーンを展開している](../Page/2019新型コロナウイルス.md "wikilink")\[18\]。富山放送局在籍の梶原典明が、テレビ・ラジオともに出演している。キャンペーンの詳細は、[NHK富山放送局の特設サイト](https://www.nhk.or.jp/toyama/corona_minnade/)を参照。梶原を除く共同出演者は以下のとおり（いずれも放送時点）。
+
+  - テレビ：[上野透](https://ja.wikipedia.org/wiki/上野透 "wikilink")（北日本放送）・[西美香](../Page/西美香.md "wikilink")（[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")）・吉村尚郎（[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")）
+  - ラジオ（行動編）：[小林淳子](../Page/小林淳子.md "wikilink")（北日本放送）・[今井隆信](https://ja.wikipedia.org/wiki/今井隆信 "wikilink")（[富山エフエム放送](../Page/富山エフエム放送.md "wikilink")）
+  - ラジオ（3密を避けよう編）：[木下一哉](../Page/木下一哉.md "wikilink")（北日本放送）・堀池真緒（富山エフエム放送）
+  - ラジオ（手洗い編）：[佐藤栄治](../Page/佐藤栄治.md "wikilink")（北日本放送）・堀池真緒（富山エフエム放送）
 
 ## 脚注
 
@@ -298,3 +308,4 @@
 15.
 16. [NHKドラマ 富山発スペシャルドラマ「港町相撲ボーイズ」](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=sumo)
 17.
+18.

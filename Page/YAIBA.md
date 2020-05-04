@@ -1275,7 +1275,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>月曜 18:30 - 19:00<br />
 （1995年1月時点）</p></td>
 <td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立局</a></p></td>

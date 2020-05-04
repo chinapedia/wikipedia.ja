@@ -27,7 +27,7 @@
 
 ## 外部リンク
 
-  - [仙台放送 ニュースセンター（PCサイト）](http://ox-tv.jp/nc/p/)
+  - [仙台放送 ニュースセンター](https://nc.ox-tv.co.jp/)
   - [Yahoo\!ニュース 仙台放送](https://news.yahoo.co.jp/media/oxv) - 動画配信あり
   - [gooニュース 仙台放送NEWS](https://news.goo.ne.jp/publisher/oxtv/) - 動画配信なし
 

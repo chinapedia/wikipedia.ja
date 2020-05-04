@@ -192,7 +192,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
   - 京都府 - 未放送
   - 兵庫県 - 未放送
   - 奈良県 - TVN [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") ★
-  - 和歌山県 - WTV [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") ☆
+  - 和歌山県 - WTV [テレビ和歌山](../Page/テレビ和歌山.md "wikilink") ☆
   - 山陰地方 - NKT [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（日本テレビ系列）
   - 岡山県・香川県 - TSC **[テレビせとうち](../Page/テレビせとうち.md "wikilink")** ★
   - 広島県 - HOME [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")（テレビ朝日系列） ☆
@@ -204,7 +204,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
   - 佐賀県 - 未放送
   - 長崎県 - NCC [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（テレビ朝日系列）
   - 熊本県 - RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（TBS系列）
-  - 大分県 - OBS [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（同上） ☆
+  - 大分県 - OBS [大分放送](../Page/大分放送.md "wikilink")（同上） ☆
   - 宮崎県 - 未放送
   - 鹿児島県 - KYT [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")（日本テレビ系列）
   - 沖縄県 - OTV [沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink") ☆

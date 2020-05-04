@@ -1,7 +1,9 @@
 > この記事は[WANDS](https://ja.wikipedia.org/wiki/WANDS)から翻訳されています。
 
 
-**WANDS**（ワンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1991年](../Page/1991年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコードレーベル](../Page/レコードレーベル.md "wikilink")は[GIZA studio傘下の](../Page/GIZA_studio.md "wikilink")[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")。公式ファンクラブは「WANDER-LAND NEO」。
+**WANDS**（ワンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコードレーベル](../Page/レコードレーベル.md "wikilink")は[GIZA studio傘下の](../Page/GIZA_studio.md "wikilink")[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")。公式ファンクラブは「WANDER-LAND NEO」。
+
+[1991年](../Page/1991年.md "wikilink")に結成され、メンバーチェンジと[2000年](../Page/2000年.md "wikilink")の解散を経て、[2018年](../Page/2018年.md "wikilink")に再結成。
 
 ## メンバー
 
@@ -514,7 +516,7 @@
 <td><p>1位</p></td>
 <td><p>2ミリオン<br />
 ゴールド</p></td>
-<td><p>1,33,000枚</p></td>
+<td><p>1,833,000枚</p></td>
 <td><p>中山美穂『<a href="../Page/Dramatic_Songs.md" title="wikilink">Dramatic Songs</a>』</p></td>
 </tr>
 <tr class="even">
@@ -842,7 +844,7 @@ Jumpin' Jack Boy</p></td>
 
 </div>
 
-[Category:WANDS](https://ja.wikipedia.org/wiki/Category:WANDS "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink") [Category:2019年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に再結成した音楽グループ "wikilink")
+[Category:WANDS](https://ja.wikipedia.org/wiki/Category:WANDS "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink") [Category:2019年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に再結成した音楽グループ "wikilink")
 
 1.  1991年〜1992年
 2.  1992年〜1997年

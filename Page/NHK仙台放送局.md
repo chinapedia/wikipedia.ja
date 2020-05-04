@@ -462,7 +462,7 @@
 <td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/被災地からの声" title="wikilink">被災地からの声</a><br />
 （キャスター）</p></td>
-<td><p>宮城県出身</p></td>
+<td><p>石巻市出身</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/阿部悌" title="wikilink">阿部悌</a>*</p></td>
@@ -532,23 +532,123 @@
 
 ### キャスター
 
-| 氏名                                                    | 所属・前職等                                          | 主な担当番組                                                         | 備考    |
-| ----------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------- | ----- |
-| HK専属                                                  |                                                 |                                                                |       |
-| [伊藤友見](https://ja.wikipedia.org/wiki/伊藤友見 "wikilink") | 元[徳島局契約キャスター](../Page/NHK徳島放送局.md "wikilink")   | おはよう宮城                                                         |       |
-| 猪股真衣                                                  | 2017 せんだい・杜の都親善大使                               | てれまさむね・[大好き東北 定禅寺しゃべり亭](https://www4.nhk.or.jp/P5560/)         | 宮城県出身 |
-| 島影咲織                                                  | 元[宇都宮局契約キャスター](../Page/NHK宇都宮放送局.md "wikilink") | てれまさむねスポーツ                                                     |       |
-| 関口元朝                                                  | [気象予報士](../Page/気象予報士.md "wikilink")            | [おはよう宮城](../Page/おはよう宮城.md "wikilink")                         |       |
-| 谷崎すずな                                                 | 元[熊本局契約キャスター](../Page/NHK熊本放送局.md "wikilink")   | [おはよう宮城](../Page/おはよう宮城.md "wikilink")                         |       |
-| 岩間瞳                                                   |                                                 | てれまさむね                                                         |       |
-| 藤原由佳                                                  |                                                 | てれまさむね スポーツ                                                    |       |
-| 星川幸                                                   | 元[旭川局契約キャスター](../Page/NHK旭川放送局.md "wikilink")   | [ゴジだっちゃ\!](https://ja.wikipedia.org/wiki/ゴジだっちゃ! "wikilink")   |       |
-| 内藤美穂                                                  | 元[函館局契約キャスター](../Page/NHK函館放送局.md "wikilink")   | てれまさむね リポーター                                                   |       |
-| 村田奈央                                                  |                                                 | [もりすた\!](https://ja.wikipedia.org/wiki/もりすた! "wikilink")\[47\] |       |
-| 深堀遙菜                                                  | 元[新潟局契約キャスター](../Page/NHK新潟放送局.md "wikilink")   | [ウィークエンド東北](../Page/ウィークエンド東北.md "wikilink")                   | 宮城県出身 |
-| 篠原正\*                                                 | [気象予報士](../Page/気象予報士.md "wikilink")            | てれまさむね                                                         |       |
-| 出演者契約（外部プロダクション所属）                                    |                                                 |                                                                |       |
-|                                                       |                                                 |                                                                |       |
+<table>
+<thead>
+<tr class="header">
+<th><p>氏名</p></th>
+<th><p>所属・前職等</p></th>
+<th><p>主な担当番組</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>HK専属</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/伊藤友見" title="wikilink">伊藤友見</a></p></td>
+<td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a><br />
+（契約キャスター）</p></td>
+<td><p><a href="../Page/おはよう宮城.md" title="wikilink">おはよう宮城</a><br />
+（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>谷崎すずな</p></td>
+<td><p><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a><br />
+（契約キャスター）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>岩間瞳</p></td>
+<td><p><a href="../Page/NHK福島放送局.md" title="wikilink">福島</a><br />
+（契約キャスター）</p></td>
+<td><p>てれまさむね<br />
+（キャスター）</p></td>
+<td><p>大河原町出身</p></td>
+</tr>
+<tr class="odd">
+<td><p>島影咲織</p></td>
+<td><p><a href="../Page/NHK宇都宮放送局.md" title="wikilink">宇都宮</a><br />
+（契約キャスター）</p></td>
+<td><p>てれまさむね<br />
+（スポーツキャスター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>藤原由佳</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>内藤美穂</p></td>
+<td><p><a href="../Page/NHK函館放送局.md" title="wikilink">函館</a><br />
+（契約キャスター）</p></td>
+<td><p>てれまさむね<br />
+（リポーター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>村田奈央</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/もりすた!" title="wikilink">もりすた!</a><br />
+（MC）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>深堀遙菜</p></td>
+<td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a><br />
+（契約キャスター）</p></td>
+<td><p>ウィークエンド東北<br />
+（キャスター）</p></td>
+<td><p>名取市出身</p></td>
+</tr>
+<tr class="even">
+<td><p>猪股真衣</p></td>
+<td><p>2017 せんだい・杜の都親善大使</p></td>
+<td><p>大好き東北 定禅寺しゃべり亭</p></td>
+<td><p>仙台市出身</p></td>
+</tr>
+<tr class="odd">
+<td><p>星川幸</p></td>
+<td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a><br />
+（契約キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴジだっちゃ!" title="wikilink">ゴジだっちゃ!</a></p></td>
+<td><p>　</p></td>
+</tr>
+<tr class="even">
+<td><p>気象予報士</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>篠原正*</p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
+<td><p>てれまさむね<br />
+ウイークエンド東北</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>関口元朝</p></td>
+<td></td>
+<td><p>おはよう宮城<br />
+ウイークエンド東北</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 専属の音楽部門
 
@@ -620,4 +720,3 @@
 44. これは日本海側の秋田県や山形県など比較的被害の小さかった地域からの要望によるものである（出典：日本放送協会理事会議事録(平成23年11月22日開催分、同年12月9日公表)）。
 45. ただし、9月第2週は「東日本大震災」発生半年直前という関係に伴い、再び「震災関連番組」を放送している関係で、番組休止となった（出典：NHK青森局ホームページ番組表）。
 46. 実際は、｢第95回日本陸上選手権（第2日）｣と[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")放送のため、事実上[6月11日](../Page/6月11日.md "wikilink")から。
-47. 2018年度はリポーター、2019年度はMC。

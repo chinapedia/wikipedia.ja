@@ -9,7 +9,7 @@ GONZOの10周年記念作品。[2003年](../Page/2003年.md "wikilink")[4月7日
 
 [2011年](../Page/2011年.md "wikilink")10月に、続編『[ラストエグザイル-銀翼のファム-](https://ja.wikipedia.org/wiki/ラストエグザイル-銀翼のファム- "wikilink")』が[CBCほかにて放送された](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")。
 
-[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")はラヴィ役を演じたことで、声優業をこなすことについて初めて深く考えさせられ、世界観が変わっていったという、斎藤にとってターニングポイントというべき作品となった。また、タチアナ役の[喜多村英梨](../Page/喜多村英梨.md "wikilink")と、ホリー役の[花澤香菜](../Page/花澤香菜.md "wikilink")の両名は本作が声優デビュー作である。
+[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")はラヴィ役を演じたことで、声優業をこなすことについて初めて深く考えさせられ、世界観が変わっていったという、斎藤にとってターニングポイントというべき作品となった。また、タチアナ役の[喜多村英梨](../Page/喜多村英梨.md "wikilink")と、ホリー役の[花澤香菜](../Page/花澤香菜.md "wikilink")\[1\]の両名は本作が声優デビュー作である。
 
 またクラウス、ラヴィ、アル達のその後を描いたコミック『ラストエグザイル-砂時計の旅人-』が2011年9月より『[ニュータイプエース](https://ja.wikipedia.org/wiki/ニュータイプエース "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）にて連載された。作画は[ムラオミノル](https://ja.wikipedia.org/wiki/ムラオミノル "wikilink")で全2巻。
 
@@ -520,7 +520,7 @@ GONZOの10周年記念作品。[2003年](../Page/2003年.md "wikilink")[4月7日
 <tr class="even">
 <td><p>第24話</p></td>
 <td><p>Sealed move</p></td>
-<td><p>山下友弘[1]</p></td>
+<td><p>山下友弘[2]</p></td>
 <td><p>松尾慎</p></td>
 <td><p>谷口守泰、中本尚子<br />
 さのえり、植田二三子</p></td>
@@ -584,7 +584,7 @@ GONZOの10周年記念作品。[2003年](../Page/2003年.md "wikilink")[4月7日
 
 ## コラボレーション
 
-  - [2016年](../Page/2016年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")から[8月3日](../Page/8月3日.md "wikilink")にかけて[大戦略WEB](https://ja.wikipedia.org/wiki/大戦略WEB "wikilink")とのコラボレーションが実施された\[2\]。劇中のキャラクターやヴァンシップなどが、『大戦略WEB』の士官や兵器として登場する。
+  - [2016年](../Page/2016年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")から[8月3日](../Page/8月3日.md "wikilink")にかけて[大戦略WEB](https://ja.wikipedia.org/wiki/大戦略WEB "wikilink")とのコラボレーションが実施された\[3\]。劇中のキャラクターやヴァンシップなどが、『大戦略WEB』の士官や兵器として登場する。
 
 ## 脚注
 
@@ -599,5 +599,6 @@ GONZOの10周年記念作品。[2003年](../Page/2003年.md "wikilink")[4月7日
 
 [Category:アニメ作品_ら](https://ja.wikipedia.org/wiki/Category:アニメ作品_ら "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:ゴンゾ](https://ja.wikipedia.org/wiki/Category:ゴンゾ "wikilink") [Category:ビクターエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアニメ作品 "wikilink") [Category:航空アニメ](https://ja.wikipedia.org/wiki/Category:航空アニメ "wikilink") [Category:スチームパンク](https://ja.wikipedia.org/wiki/Category:スチームパンク "wikilink") [Category:ニュータイプエース](https://ja.wikipedia.org/wiki/Category:ニュータイプエース "wikilink") [Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink") [Category:運輸業を題材とした作品](https://ja.wikipedia.org/wiki/Category:運輸業を題材とした作品 "wikilink")
 
-1.  テレビ放送時のテロップでは千明孝一となっていたが、後の資料では修正されている。
-2.
+1.
+2.  テレビ放送時のテロップでは千明孝一となっていたが、後の資料では修正されている。
+3.

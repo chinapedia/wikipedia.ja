@@ -868,7 +868,7 @@ B'z WAVE-GYM SPECIAL EVENT</p></td>
 07/31 福岡ドーム </p>
 </div>
 </div>
-<p>札幌ドームは音楽イベント初開催となった。ステージ上空につるされた<a href="https://ja.wikipedia.org/wiki/コンボイ" title="wikilink">コンボイ</a>（ダンサーのステージとして使用）から10万個以上のアルミ缶がステージ上になだれ落ちる演出などがあった。2013年に『B'z LIVE-GYM 2001 -ELEVEN-』として映像作品化している。SHOWCASE公演、Preview公演、Intermission公演、Extra公演、台北・香港公演を合わせた総動員数は620,344人。<br />
+<p>札幌ドームは音楽イベント初開催となった。ステージ上空につるされた<a href="https://ja.wikipedia.org/wiki/コンボイ" title="wikilink">コンボイ</a>（ダンサーのステージとして使用）から10万個以上のアルミ缶がステージ上になだれ落ちる演出などがあった。2013年に『B'z LIVE-GYM 2001 -ELEVEN-』として映像作品化している。SHOWCASE公演、Preview公演、Intermission公演、Extra公演、<a href="https://ja.wikipedia.org/wiki/台北" title="wikilink">台北</a>・<a href="https://ja.wikipedia.org/wiki/香港" title="wikilink">香港</a>公演を合わせた総動員数は620,344人。<br />
 <strong>EDSE</strong> - 「美しき世界」</p></td>
 </tr>
 <tr class="odd">
@@ -1113,7 +1113,7 @@ Official Concert International Day</a></p></td>
 <td><p>B'z SHOWCASE 2006<br />
 "横須賀MONSTER"</p></td>
 <td><p><strong>1会場1公演</strong> - <a href="../Page/横須賀芸術劇場.md" title="wikilink">よこすか芸術劇場</a> この日のみ「<a href="../Page/SPLASH!.md" title="wikilink">MVP</a>」の振付指導は稲葉が行った。<br />
-<strong>EDSE</strong> - 「<a href="https://ja.wikipedia.org/wiki/ACTION_(アルバム)" title="wikilink">BUDDY</a>」</p></td>
+<strong>EDSE</strong> - 「<a href="../Page/ACTION_(アルバム).md" title="wikilink">BUDDY</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年7月2日 - 8月29日</p></td>
@@ -1264,7 +1264,7 @@ Official Concert International Day</a></p></td>
 08/17 沖縄コンベンションセンター </p>
 </div>
 </div>
-<p>アルバム『<a href="https://ja.wikipedia.org/wiki/ACTION_(アルバム)" title="wikilink">ACTION</a>』発表後のツアー。ホール&amp;アリーナ公演を開催。2013年に『B'z LIVE-GYM 2008 -ACTION-』として映像作品化している。<br />
+<p>アルバム『<a href="../Page/ACTION_(アルバム).md" title="wikilink">ACTION</a>』発表後のツアー。ホール&amp;アリーナ公演を開催。2013年に『B'z LIVE-GYM 2008 -ACTION-』として映像作品化している。<br />
 <strong>EDSE</strong><br />
 ホール公演…「希望の歌」<br />
 アリーナ公演…「<a href="https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">National Holiday</a>」</p></td>

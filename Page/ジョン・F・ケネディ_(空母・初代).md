@@ -49,6 +49,8 @@
 
 2007年7月26日にバージニア州[ノーフォークに曳航](../Page/ノーフォーク_\(バージニア州\).md "wikilink")・保管されていたが、2008年3月17日にタグボートに曳航されて3月22日に[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")の海軍艦艇不活性化施設に到着した。「ケネディ」は海軍がその将来を決定するまで、[モスボール化の上保管される予定である](../Page/モスボール_\(軍事\).md "wikilink")。
 
+## 脚注
+
 ## 外部リンク
 
   - [USS *John F. Kennedy* official homepage](https://web.archive.org/web/20060624094755/http://www.nol.navy.mil/homepages/cv67/)

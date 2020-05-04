@@ -155,6 +155,7 @@ DVD</p></td>
 | [2016年](../Page/2016年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")                      | [SCHAFT](../Page/SCHAFT.md "wikilink")                                                        | **ULTRA**                                                         | ドラムで参加                                                                                            |
 | 2016年[5月25日](../Page/5月25日.md "wikilink")                                                     | **Deeper and Down**                                                                           | ドラムで参加                                                            |                                                                                                   |
 | [2019年](../Page/2019年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")                      | [Various Artists](https://ja.wikipedia.org/wiki/Various_Artists "wikilink")                   | **東京喰種トーキョーグール AUTHENTIC SOUND CHRONICLE Compiled by Sui Ishida** | [People In The Boxの楽曲](https://ja.wikipedia.org/wiki/People_In_The_Box "wikilink")「聖者たち」のリミックスで参加 |
+| [2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")                      | [THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")                       | **At The Beginning**                                              | [シーケンスサウンドデザイン](../Page/ミュージックシーケンサー.md "wikilink")、プログラミングで参加                                    |
 
 ##### 書籍
 
@@ -271,7 +272,7 @@ DVD</p></td>
   - [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のマスコットキャラクターである[ドアラ](../Page/ドアラ.md "wikilink")のファン\[39\]。また、元々野球には興味が無かったがドアラをきっかけに中日ドラゴンズのファンになった事を告白している\[40\]。
       - [2012年](../Page/2012年.md "wikilink")には「20th L'Anniversary WORLD TOUR 2012 THE FINAL」が開催された際、自身プロデュースのもと、ドアラとyukihiroの似顔絵がプリントされた「ドアラルクチョコレート」が横浜、大阪、東京でのツアー会場限定グッズとして発売された。また、[2015年](../Page/2015年.md "wikilink")に開催された「L'Arc〜en〜Ciel LIVE 2015 L'ArCASINO」ではショルダーバッグ「ドアラカモ？」を会場限定グッズとして発売。
       - [2013年](../Page/2013年.md "wikilink")、[2014年](../Page/2014年.md "wikilink")、[2015年](../Page/2015年.md "wikilink")、[2016年](../Page/2016年.md "wikilink")にはドアラとコラボした「ドアラルクカレンダー」（2014年～2017年分カレンダー）が発売されている\[41\]。
-      - [2018年](../Page/2018年.md "wikilink")には「[L'Arc〜en〜Ciel LIVE 2018 L'ArChristmas](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2018_L'ArChristmas "wikilink")」が開催された際、自身プロデュースのもと、ドアラに加え、漫画・アニメ『[ポプテピピック](https://ja.wikipedia.org/wiki/ポプテピピック "wikilink")』ともコラボした「ドアラルピピック ポチ袋」が会場限定グッズとして発売された。
+      - [2018年](../Page/2018年.md "wikilink")には「[L'Arc〜en〜Ciel LIVE 2018 L'ArChristmas](https://ja.wikipedia.org/wiki/L'Arc〜en〜Ciel_LIVE_2018_L'ArChristmas "wikilink")」が開催された際、自身プロデュースのもと、ドアラに加え、漫画・アニメ『[ポプテピピック](https://ja.wikipedia.org/wiki/ポプテピピック "wikilink")』ともコラボした「ドアラルピピック ポチ袋」が会場限定グッズとして発売された。[2020年](../Page/2020年.md "wikilink")には「[ARENA TOUR MMXX](../Page/ARENA_TOUR_MMXX.md "wikilink")」が開催された際、自身プロデュースのもと「ドアラルクッキングパン」を発売した。
   - [コーラ](../Page/コーラ_\(飲料\).md "wikilink")、[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")、[ジンジャエール](https://ja.wikipedia.org/wiki/ジンジャエール "wikilink")、[マクドナルド](../Page/マクドナルド.md "wikilink")が好きで強いこだわりがある。マクドナルドではフィレオフィッシュが好物で海外へ行った時も食べる。
   - 元喫煙者。ファンクラブの企画でセミナーを受け、[禁煙](../Page/禁煙.md "wikilink")に成功している。
 

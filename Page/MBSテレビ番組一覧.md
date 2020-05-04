@@ -480,7 +480,7 @@
 ### 現在放送中の番組
 
   - 関西ローカル
-      - [水野真紀の魔法のレストラン](https://ja.wikipedia.org/wiki/水野真紀の魔法のレストラン "wikilink")（水 19:00 - 20:00）
+      - [水野真紀の魔法のレストラン](../Page/水野真紀の魔法のレストラン.md "wikilink")（水 19:00 - 20:00）
       - [dai-docoro](https://ja.wikipedia.org/wiki/dai-docoro "wikilink")（日 11:40 - 11:45）
 
 ### 放送終了した番組
@@ -734,7 +734,7 @@
       - [青春の門 第1部(筑豊編)→第2部(自立編)](https://ja.wikipedia.org/wiki/青春の門#1976年・1977年版 "wikilink")
       - [愛と憎しみの宴](https://ja.wikipedia.org/wiki/愛と憎しみの宴 "wikilink")
       - [天北原野](https://ja.wikipedia.org/wiki/天北原野 "wikilink")
-      - [分水嶺](https://ja.wikipedia.org/wiki/分水嶺_\(テレビドラマ\) "wikilink")
+      - [分水嶺](../Page/分水嶺_\(テレビドラマ\).md "wikilink")
       - [幸福の断章](https://ja.wikipedia.org/wiki/幸福の断章 "wikilink")
       - [風をみた女](https://ja.wikipedia.org/wiki/風をみた女 "wikilink")
       - [不毛地帯](https://ja.wikipedia.org/wiki/不毛地帯#毎日放送版（1979年） "wikilink")
@@ -1287,7 +1287,7 @@
 
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
   - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
-  - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](https://ja.wikipedia.org/wiki/大分放送 "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
   - [バース・デイ](../Page/バース・デイ.md "wikilink")（不定期）

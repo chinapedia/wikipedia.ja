@@ -515,16 +515,67 @@
 
 ### 中国支部
 
-| 都道府県                                                | 出場校                                                                 | 出場回数 | 出場回        |
-| --------------------------------------------------- | ------------------------------------------------------------------- | ---- | ---------- |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [金光学園中学高等学校](https://ja.wikipedia.org/wiki/金光学園中学校・高等学校 "wikilink") | 2回   | 1、4        |
-| [おかやま山陽高等学校](../Page/おかやま山陽高等学校.md "wikilink")      | 1回                                                                  | 2    |            |
-| [山陽女子中学高等学校](../Page/山陽女子中学校・高等学校.md "wikilink")    | 3回                                                                  | 3〜5  |            |
-| [広島県](../Page/広島県.md "wikilink")                    | [広島国際学院高等学校](../Page/広島国際学院高等学校.md "wikilink")                      | 5回   | 3、4、7、9、10 |
-| [比治山女子中学・高等学校](../Page/比治山女子中学校・高等学校.md "wikilink") | 2回                                                                  | 9、10 |            |
-| [鳥取県](../Page/鳥取県.md "wikilink")                    | [鳥取県立八頭高等学校](../Page/鳥取県立八頭高等学校.md "wikilink")                      | 3回   | 2〜4        |
-| [島根県](../Page/島根県.md "wikilink")                    | [島根県立出雲高等学校](../Page/島根県立出雲高等学校.md "wikilink")                      | 1回   | 1          |
-| [江の川学園石見智翠館高等学校](../Page/石見智翠館高等学校.md "wikilink")   | 9回                                                                  | 9〜17 |            |
+<table>
+<thead>
+<tr class="header">
+<th><p>都道府県</p></th>
+<th><p>出場校</p></th>
+<th><p>出場回数</p></th>
+<th><p>出場回</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金光学園中学校・高等学校" title="wikilink">金光学園中学高等学校</a></p></td>
+<td><p>2回</p></td>
+<td><p>1、4</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/おかやま山陽高等学校.md" title="wikilink">おかやま山陽高等学校</a></p></td>
+<td><p>1回</p></td>
+<td><p>2</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/山陽学園中学校・高等学校.md" title="wikilink">山陽学園中学高等学校<br />
+（旧 山陽女子中学高等学校）</a></p></td>
+<td><p>3回</p></td>
+<td><p>3〜5</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="../Page/広島国際学院高等学校.md" title="wikilink">広島国際学院高等学校</a></p></td>
+<td><p>5回</p></td>
+<td><p>3、4、7、9、10</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/比治山女子中学校・高等学校.md" title="wikilink">比治山女子中学・高等学校</a></p></td>
+<td><p>2回</p></td>
+<td><p>9、10</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
+<td><p><a href="../Page/鳥取県立八頭高等学校.md" title="wikilink">鳥取県立八頭高等学校</a></p></td>
+<td><p>3回</p></td>
+<td><p>2〜4</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
+<td><p><a href="../Page/島根県立出雲高等学校.md" title="wikilink">島根県立出雲高等学校</a></p></td>
+<td><p>1回</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/石見智翠館高等学校.md" title="wikilink">江の川学園石見智翠館高等学校</a></p></td>
+<td><p>9回</p></td>
+<td><p>9〜17</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 四国支部
 
@@ -618,7 +669,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮崎学園高等学校" title="wikilink">宮崎学園高等学校<br />
+<td><p><a href="../Page/宮崎学園中学校・高等学校.md" title="wikilink">宮崎学園高等学校<br />
 （旧 宮崎女子高等学校）</a></p></td>
 <td><p>2回</p></td>
 <td><p>1、5</p></td>

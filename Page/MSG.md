@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - [グルタミン酸ナトリウム](../Page/グルタミン酸ナトリウム.md "wikilink") (**M**ono**s**odium **G**lutamate) - [味の素](../Page/味の素.md "wikilink")などの[うま味調味料](../Page/うま味調味料.md "wikilink")の主成分。
+  - [グルタミン酸ナトリウム](../Page/グルタミン酸ナトリウム.md "wikilink") (**M**ono**s**odium **G**lutamate) - [味の素](../Page/味の素.md "wikilink")などの[うま味調味料](../Page/うま味調味料.md "wikilink")の主成分。[中華料理店症候群](../Page/中華料理店症候群.md "wikilink")（）
   - [メテオサット](https://ja.wikipedia.org/wiki/メテオサット "wikilink") - 欧州気象衛星開発機構が運用している第2世代気象衛星。
 
 <!-- end list -->

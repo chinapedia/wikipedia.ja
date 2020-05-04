@@ -12,7 +12,7 @@
   - 地上波
       - テレビ東京系列　平日の午前11:00 - 11:30。[株式市場](https://ja.wikipedia.org/wiki/株式市場 "wikilink")が休みとなる祝祭日は休止し、代わりに11:25 (11:55,12:25) - 5分間の[TXNニュース](../Page/TXNニュース.md "wikilink")を放送
       - [岐阜放送](../Page/岐阜放送.md "wikilink")
-      - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") 2004年9月30日をもって放送打ち切り
+      - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink") 2004年9月30日をもって放送打ち切り
   - BS放送
       - [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")　祝日は放送休止
 

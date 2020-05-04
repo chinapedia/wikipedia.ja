@@ -7,9 +7,9 @@
 
 ## 概要
 
-FLYING KIDSは[1989年](../Page/1989年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")TBSのバンドオーディション番組『[平成名物TV](../Page/平成名物TV.md "wikilink")・[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』([TBS](../Page/TBSテレビ.md "wikilink")) に出場、キングであった[GEN](../Page/GEN.md "wikilink")を倒して3代目イカ天キングとなる。その後、4週連続勝ち抜き、[4月8日](../Page/4月8日.md "wikilink")放送分ではワールド・ミュージック風の楽曲を引っさげて挑んできたチャレンジャーの[KUSU KUSU](../Page/KUSU_KUSU.md "wikilink")（楽曲は「オレンヂバナナ」）を倒して5週勝ち抜き達成、初代グランドキングとなり、シングル「幸せであるように」でメジャーデビューした。
+FLYING KIDSは[1989年](../Page/1989年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、バンドオーディション番組『[平成名物TV](../Page/平成名物TV.md "wikilink")・[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）に出場、キングであった[GEN](../Page/GEN.md "wikilink")を倒して3代目イカ天キングとなる。その後、4週連続勝ち抜き、[4月8日](../Page/4月8日.md "wikilink")放送分では[ワールドミュージック](../Page/ワールドミュージック.md "wikilink")風の楽曲を引っさげて挑んできたチャレンジャーの[KUSU KUSU](../Page/KUSU_KUSU.md "wikilink")（楽曲は「オレンヂバナナ」）を倒して5週勝ち抜き達成、初代グランドキングとなり、シングル「幸せであるように」でメジャーデビューした。
 
-初期にはファンクミュージックを前面に出した曲を中心に、[1994年](../Page/1994年.md "wikilink")頃からは「恋の瞬間」「風の吹き抜ける場所へ」「とまどいの時をこえて」等ポップ路線を取り入れていった。その後も「暗闇でキッス〜Kiss in the darkness〜」「ディスカバリー」などのスマッシュヒットを連発した。
+初期には[ファンクミュージック](https://ja.wikipedia.org/wiki/ファンクミュージック "wikilink")を前面に出した曲を中心に、[1994年](../Page/1994年.md "wikilink")頃からは「恋の瞬間」「風の吹き抜ける場所へ」「とまどいの時をこえて」等ポップ路線を取り入れていった。その後も「暗闇でキッス〜Kiss in the darkness〜」「ディスカバリー」などのスマッシュヒットを連発した。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")に解散した。
 

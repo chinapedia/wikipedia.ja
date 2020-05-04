@@ -130,7 +130,7 @@
 **平日（祝日）**
 
   - [武田博志](../Page/武田博志.md "wikilink")（2007年3月-2010年3月、2019年4月5日-）就任前はスポーツ、2010年3月までは月-水曜。2019年4月5日-2019年9月27日は金・土曜。
-  - [杉澤眞優](https://ja.wikipedia.org/wiki/杉澤眞優 "wikilink")（2019年10月-）
+  - [杉澤眞優](../Page/杉澤眞優.md "wikilink")（2019年10月-）
 
 **スポーツ（平日）**
 
@@ -304,9 +304,9 @@
 
 ## 外部リンク
 
-  - [RSKイブニングニュース](http://www.rsk.co.jp/news/evening/)
+  - [RSKイブニングニュース](https://www.rsk.co.jp/news/evening/) - 公式サイト
 
-  - [RSK SPORTS WEB](http://sports.rsk.co.jp/)
+  - [RSKスポーツニュース](https://www.rsk.co.jp/sportsnews/)
 
   -
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:RSK山陽放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:RSK山陽放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:総力報道\!THE_NEWS](https://ja.wikipedia.org/wiki/Category:総力報道!THE_NEWS "wikilink") [Category:イブニングワイド](https://ja.wikipedia.org/wiki/Category:イブニングワイド "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:山陽新聞社](https://ja.wikipedia.org/wiki/Category:山陽新聞社 "wikilink")

@@ -1,11 +1,31 @@
 > この記事は[AAA \(音楽グループ\)](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\))から翻訳されています。
 
 
-**AAA**（トリプルエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混合パフォーマンスグループ。2005年9月14日にシングル「BLOOD on FIRE」でデビュー。 所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**AAA Party**」（トリエーパーティ）。
+**AAA**（トリプルエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女混合パフォーマンスグループ。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**AAA Party**」（トリエーパーティ）。
+
+2005年に結成・デビューし、2020年内を以て活動休止。
+
+## 概要
+
+グループ名は、「**Attack All Around**」の頭文字をとったもので、「すべてのことに挑戦する」という意味が込められている。
+
+[歌](../Page/歌.md "wikilink")や[ダンス](../Page/ダンス.md "wikilink")にとどまらず、各メンバーが[映画](../Page/映画.md "wikilink")・[ドラマ](../Page/ドラマ.md "wikilink")・[舞台](../Page/舞台.md "wikilink")・[モデルなど幅広い活動を行う](../Page/ファッションモデル.md "wikilink")、**スーパーパフォーマンスグループ**と称している\[1\]。なお、英語では『Super Performance Unit』と紹介されている。ライブでは歌やダンスのほかに[アクロバット](../Page/アクロバット.md "wikilink")や[演劇](../Page/演劇.md "wikilink")（[芝居](https://ja.wikipedia.org/wiki/芝居 "wikilink")）を交えることもある。
+
+当初の楽曲のパート分けは西島、宇野、浦田がメインボーカル、日高がラップ(楽曲によってはボーカル)、末吉、與は主にコーラス･ダンスという体制だったが、最近の楽曲は末吉、與にもソロパートがあり2012年以降の楽曲はメンバー全員にソロパートが与えられている。旧メンバーの伊藤千晃は2012年までコーラス･ダンス、後藤友香里は主にコーラス・ダンスを担当していた。全メンバーで歌唱およびダンスなどを行うことが一般的であるが、曲目によっては男性メンバー5人のみ、女性メンバー2人（3人）のみ、3人・4人に分かれてなどの場合がある。
+
+[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")などのアーティストを育成する[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")取締役・原田淳の企画により誕生した\[2\]。メンバー全員が別々のオーディションで合格して結成される。[アクターズスクール](../Page/アクターズスクール.md "wikilink")でレッスンを積んでいたメンバーや、すでに違うグループで活動していたメンバーもいる。また、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")・[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")などのバックダンサーを務めていたメンバーもいる。
+
+[2006年](../Page/2006年.md "wikilink")以降は、毎年ライブツアーを行っており、デビュー日（9月14日）の前後にアニバーサリーライブやツアーを行っており、年に2回の異なったテーマのライブツアーを行っていた。[2012年](../Page/2012年.md "wikilink")以降は、1年間を通してのライブツアーになったため、ライブツアー中にデビュー日の公演を行うようになった。[2005年](../Page/2005年.md "wikilink")以降からは[エイベックスが開催する野外ライブイベント](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")にも毎年参加している。
+
+初期の頃はメンバーが主導して作品に関わることは少なかったが、13枚目のシングル『[Get チュー\!/SHEの事実](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")』を含む3枚目のアルバム『[AROUND](../Page/AROUND.md "wikilink")』以降は、メンバーが率先してアイデアを出し合い、作品を作っている\[3\]。様々なジャンル・アーティストからの楽曲提供があるのも特徴の一つであり、[石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")（[Shalala キボウの歌](../Page/Shalala_キボウの歌.md "wikilink")）、[真島昌利](../Page/真島昌利.md "wikilink")（[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")）、[小森田実](../Page/小森田実.md "wikilink")（[旅ダチノウタ](https://ja.wikipedia.org/wiki/旅ダチノウタ "wikilink")）、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（[逢いたい理由等](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")）、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink") （[虹](https://ja.wikipedia.org/wiki/虹_\(AAAの曲\) "wikilink")）などから提供を受けている。
+
+それぞれに違う雰囲気の楽曲に仕上がっており、特には[恋愛](../Page/恋愛.md "wikilink")・[応援](../Page/応援歌.md "wikilink")・[夏](../Page/夏.md "wikilink")を題材とした作品を得意としており、2013年から2014年にかけて企画物の[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")『[Ballad Collection](https://ja.wikipedia.org/wiki/Ballad_Collection_\(AAAのアルバム\) "wikilink")』（2013年）・『**AAA 夏うたBEST**』（2014年）・『**AAA Start Up〜応援ソングBEST〜**』（2014年）が発売された。世間では、男女メンバー（西島・宇野）とのデュエット「[出逢いのチカラ](https://ja.wikipedia.org/wiki/出逢いのチカラ "wikilink")」及び、7人全員が歌っていた「[恋音と雨空](https://ja.wikipedia.org/wiki/恋音と雨空 "wikilink")」について、恋愛に効くラブソングと評される\[4\]\[5\]。2015年、デビュー10周年の初海外ツアーをする際に、夏・恋愛を題材とした「[風に薫る夏の記憶](https://ja.wikipedia.org/wiki/Wake_up!#風に薫る夏の記憶 "wikilink")」は、[MTV](../Page/MTV.md "wikilink")チャンネル音楽番組にてグループの紹介曲及び海外での代表作として流されている\[6\]。
+
+芸能活動以外では、メンバーが私服コーディネートを紹介したり、ファッションアイテムのプロデュース、ファッションショーへの出演など、ファッションと融合したアーティスト活動を展開している。
 
 ## メンバー
 
-公式サイトにおけるプロフィールをもとに記述\[1\]。メンバーの記載順はプロフィールのページと同じ。なお浦田、後藤の出身市町村は不明。
+公式サイトにおけるプロフィールをもとに記述\[7\]。メンバーの記載順はプロフィールのページと同じ。なお浦田、後藤の出身市町村は不明。
 
 メンバー個人の詳細については、各項目を参照。
 
@@ -17,8 +37,7 @@
 <th><p>メンバー名<br />
 （<small>読みがな</small>）</p></th>
 <th><p>プロフィール</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/メンバーカラー" title="wikilink">メンバーカラー</a> [2][3]</p></th>
-<th><p>備考</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/メンバーカラー" title="wikilink">メンバーカラー</a> [8][9]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -26,42 +45,36 @@
 <td><p>生年月日</p></td>
 <td><p>出身地</p></td>
 <td><p>身長</p></td>
-<td><p>血液型</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/西島隆弘.md" title="wikilink">西島 隆弘</a></strong><br />
 <small>（にしじま たかひろ）</small></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
-<td><p>170cm</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/宇野実彩子.md" title="wikilink">宇野 実彩子</a></strong><br />
 <small>（うの みさこ）</small></p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/江戸川区.md" title="wikilink">江戸川区</a></p></td>
-<td><p>160cm</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/日高光啓.md" title="wikilink">日高 光啓</a></strong><br />
 <small>（ひだか みつひろ）</small></p></td>
 <td></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a><a href="../Page/市川市.md" title="wikilink">市川市</a></p></td>
-<td><p>173cm</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/與真司郎.md" title="wikilink">與 真司郎</a></strong><br />
 <small>（あたえ しんじろう）</small></p></td>
 <td></td>
 <td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/八幡市.md" title="wikilink">八幡市</a></p></td>
-<td><p>171cm</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/末吉秀太.md" title="wikilink">末吉 秀太</a></strong><br />
 <small>（すえよし しゅうた）</small></p></td>
 <td></td>
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a><a href="../Page/佐世保市.md" title="wikilink">佐世保市</a></p></td>
-<td><p>167cm</p></td>
 </tr>
 </tbody>
 </table>
@@ -76,7 +89,6 @@
 <th><p>プロフィール</p></th>
 <th><p>活動期間</p></th>
 <th><p>メンバーカラー</p></th>
-<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -85,15 +97,13 @@
 <td><p>出身地</p></td>
 <td><p>身長</p></td>
 <td><p>血液型</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/後藤友香里.md" title="wikilink">後藤友香里</a></strong><br />
-<small>（ごとうゆかり）</small></p></td>
+<td><p><strong><a href="../Page/後藤友香里.md" title="wikilink">後藤 友香里</a></strong><br />
+<small>（ごとう ゆかり）</small></p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>162cm</p></td>
-<td><p>B型</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/伊藤千晃.md" title="wikilink">伊藤 千晃</a></strong><br />
@@ -101,7 +111,6 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a></p></td>
 <td><p>153cm</p></td>
-<td><p>2005年 - 2017年3月31日</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/浦田直也.md" title="wikilink">浦田 直也</a></strong><br />
@@ -109,10 +118,8 @@
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>178cm</p></td>
-<td><p>2005年 - 2019年12月31日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -121,35 +128,17 @@
 </tbody>
 </table>
 
-## 概要
-
-グループ名は、「**Attack All Around**」の頭文字をとったもので、「すべてのことに挑戦する」という意味が込められている。
-
-[歌](../Page/歌.md "wikilink")や[ダンス](../Page/ダンス.md "wikilink")にとどまらず、各メンバーが[映画](../Page/映画.md "wikilink")・[ドラマ](../Page/ドラマ.md "wikilink")・[舞台](../Page/舞台.md "wikilink")・[モデルなど幅広い活動を行う](../Page/ファッションモデル.md "wikilink")、**スーパーパフォーマンスグループ**と称している\[4\]。なお、英語では『Super Performance Unit』と紹介されている。ライブでは歌やダンスのほかに[アクロバット](../Page/アクロバット.md "wikilink")や[演劇](../Page/演劇.md "wikilink")（[芝居](https://ja.wikipedia.org/wiki/芝居 "wikilink")）を交えることもある。
-
-当初の楽曲のパート分けは西島、宇野、浦田がメインボーカル、日高がラップ(楽曲によってはボーカル)、末吉、與は主にコーラス･ダンスという体制だったが、最近の楽曲は末吉、與にもソロパートがあり2012年以降の楽曲はメンバー全員にソロパートが与えられている。旧メンバーの伊藤千晃は2012年までコーラス･ダンス、後藤友香里は主にコーラス・ダンスを担当していた。全メンバーで歌唱およびダンスなどを行うことが一般的であるが、曲目によっては男性メンバー5人のみ、女性メンバー2人（3人）のみ、3人・4人に分かれてなどの場合がある。
-
-[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")などのアーティストを育成する[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")取締役・原田淳の企画により誕生した\[5\]。メンバー全員が別々のオーディションで合格して結成される。[アクターズスクール](../Page/アクターズスクール.md "wikilink")でレッスンを積んでいたメンバーや、すでに違うグループで活動していたメンバーもいる。また、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")・[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")などのバックダンサーを務めていたメンバーもいる。
-
-[2006年](../Page/2006年.md "wikilink")以降は、毎年ライブツアーを行っており、デビュー日（9月14日）の前後にアニバーサリーライブやツアーを行っており、年に2回の異なったテーマのライブツアーを行っていた。[2012年](../Page/2012年.md "wikilink")以降は、1年間を通してのライブツアーになったため、ライブツアー中にデビュー日の公演を行うようになった。[2005年](../Page/2005年.md "wikilink")以降からは[エイベックスが開催する野外ライブイベント](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")にも毎年参加している。
-
-初期の頃はメンバーが主導して作品に関わることは少なかったが、13枚目のシングル「[Get チュー\!/SHEの事実](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")」を含む3枚目のアルバム「[AROUND](../Page/AROUND.md "wikilink")」以降は、メンバーが率先してアイデアを出し合い、作品を作っている\[6\]。様々なジャンル・アーティストからの楽曲提供があるのも特徴の一つであり、[石田衣良](https://ja.wikipedia.org/wiki/石田衣良 "wikilink")（[Shalala キボウの歌](../Page/Shalala_キボウの歌.md "wikilink")）、[真島昌利](../Page/真島昌利.md "wikilink")（[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")）、[小森田実](../Page/小森田実.md "wikilink")（[旅ダチノウタ](https://ja.wikipedia.org/wiki/旅ダチノウタ "wikilink")）、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（[逢いたい理由等](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")）、[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink") （[虹](https://ja.wikipedia.org/wiki/虹_\(AAAの曲\) "wikilink")）などから提供を受けている。
-
-それぞれに違う雰囲気の楽曲に仕上がっており、特には[恋愛](../Page/恋愛.md "wikilink")・[応援](../Page/応援歌.md "wikilink")・[夏](../Page/夏.md "wikilink")を題材とした作品を得意としていたが、企画物の[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")「[Ballad Collection](https://ja.wikipedia.org/wiki/Ballad_Collection_\(AAAのアルバム\) "wikilink")」（2013年）・「**AAA 夏うたBEST**」（2014年）・「**AAA Start Up〜応援ソングBEST〜**」（2014年）に収録された。世間では、男女メンバー（西島・宇野）とのデュエット「[出逢いのチカラ](https://ja.wikipedia.org/wiki/出逢いのチカラ "wikilink")」及び、7人全員が歌っていた「[恋音と雨空](https://ja.wikipedia.org/wiki/恋音と雨空 "wikilink")」について、恋愛に効くラブソングと評される\[7\]\[8\]。2015年、デビュー10周年の初海外ツアーをする際に、夏・恋愛を題材とした「[風に薫る夏の記憶](https://ja.wikipedia.org/wiki/Wake_up!#風に薫る夏の記憶 "wikilink")」は、[MTV](../Page/MTV.md "wikilink")チャンネル音楽番組にてグループの紹介曲及び海外での代表作として流されている\[9\]。
-
-芸能活動以外では、メンバーが私服コーディネートを紹介したり、ファッションアイテムのプロデュース、ファッションショーへの出演など、ファッションと融合したアーティスト活動を展開している。
-
 ## 略歴
 
 ### 2005年 - 2010年
 
-[2005年](../Page/2005年.md "wikilink")2月、初代[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が宇野、西島、末吉という3人組で[avex traxから夏にデビューを予定され](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、3人がavex artist academy（aaa）でレッスンを受ける\[10\]。その後同じくレッスンを積んでいた浦田、日高、與を加えた6人がメンバーとなり、4月にAAAが正式に発表され、後藤友香里が加入し、浦田直也がリーダーに就任する。同時に新曲「[Friday Party](../Page/Friday_Party.md "wikilink")」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が配信された。5月にAAAとしての活動が開始し、16日に伊藤千晃がオーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』の優勝者となり\[11\]、6月15日に公式サイトで伊藤の加入が発表され、8人のメンバーで活動することになる。8月から11月にかけて15回以上にわたるストリートライブ（青山、渋谷、大阪、福岡、札幌）が行われ、9月14日にシングル「[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")」でデビュー。同作で[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2005新人賞、[第38回日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞、[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink") 最優秀新人賞を受賞した。
+[2005年](../Page/2005年.md "wikilink")2月、初代[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が宇野、西島、末吉という3人組で[avex traxから夏にデビューを予定され](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、3人がavex artist academy（aaa）でレッスンを受ける\[10\]。その後同じくレッスンを積んでいた浦田、日高、與を加えた6人がメンバーとなり、4月にAAAが正式に発表され、後藤友香里が加入し、浦田直也がリーダーに就任する。同時に新曲「[Friday Party](../Page/Friday_Party.md "wikilink")」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が配信された。5月にAAAとしての活動が開始し、16日に伊藤千晃がオーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』の優勝者となり\[11\]、6月15日に公式サイトで伊藤の加入が発表され、8人のメンバーで活動することになる。8月から11月にかけて15回以上にわたるストリートライブ（青山、渋谷、大阪、福岡、札幌）が行われ、9月14日にシングル『[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")』でデビュー。同作で[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2005新人賞、[第38回日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞、[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink") 最優秀新人賞を受賞した。
 
-[2006年](../Page/2006年.md "wikilink")1月1日、1stアルバム『[ATTACK](../Page/ATTACK.md "wikilink")』が発売。5月4日から7日にかけてAAAが主演する舞台「[Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")」が公演された。6月4日、AAAオフィシャル[ファンクラブ](../Page/ファンクラブ.md "wikilink")「AAA Party（トリエーパーティ）」が設立され、入会受付が始まった。9月13日、[dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")提供による無料ライブ「AAA 1st Anniversary Live 060913 〜3rd ATTACK〜 日本武道館」が開催された\[12\]\[13\]。 11月20日、7thシングル「[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")」で、[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2006ゴールドアーティスト賞を受賞した。11月28日に[横浜税関](../Page/横浜税関.md "wikilink")134周年記念税関記念日式典にてAAAが一日税関長を務め、12月23日に東京ラフォーレミュージアム六本木にて初ファンクラブイベントを開催した。
+[2006年](../Page/2006年.md "wikilink")1月1日、1stアルバム『[ATTACK](../Page/ATTACK.md "wikilink")』が発売。5月4日から7日にかけてAAAが主演する舞台「[Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")」が公演された。6月4日、AAAオフィシャル[ファンクラブ](../Page/ファンクラブ.md "wikilink")「AAA Party（トリエーパーティ）」が設立され、入会受付が始まった。9月13日、[dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")提供による無料ライブ「AAA 1st Anniversary Live 060913 〜3rd ATTACK〜 日本武道館」が開催された\[12\]\[13\]。 11月20日、7thシングル『[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")』で、[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2006ゴールドアーティスト賞を受賞した。11月28日に[横浜税関](../Page/横浜税関.md "wikilink")134周年記念税関記念日式典にてAAAが一日税関長を務め、12月23日に東京ラフォーレミュージアム六本木にて初ファンクラブイベントを開催した。
 
 [2007年](../Page/2007年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、後藤の体調不良による脱退がAAA公式ホームページで発表された\[14\]。これよりメンバーは7人となった。7月19日から23日まで[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にて行われたアニメコンベンションイベント「[OTAKON 2007](https://ja.wikipedia.org/wiki/:en:Otakon "wikilink")」に出演\[15\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、17thシングル「[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")」が発売され、AAA初となる[オリコン](../Page/オリコン.md "wikilink")ランキング第1位を獲得した\[16\]。3月5日、グループ初のアルバム『[ATTACK ALL AROUND](../Page/ATTACK_ALL_AROUND_\(アルバム\).md "wikilink")」が発売された。8月26日、東京新木場[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")[MTV](../Page/MTV.md "wikilink")主催イベント「MTV STUDENT VOICE AWARD 2008」に出演し、最優秀ダンスアーティスト賞を受賞した。この当時グループ内はバラバラになっており、グループは解散の危機に陥った\[17\]。その中で宇野はグループの存続を主張し\[18\]、皆で何かを掴みたいという理由から解散を撤回\[19\]。以降、リーダー・浦田はAAAを3人メイン体制から全員体制の方向に引かれている\[20\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、17thシングル『[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")』が発売され、AAA初となる[オリコンランキング第](../Page/オリコンチャート.md "wikilink")1位を獲得した\[16\]。3月5日、グループ初のアルバム『[ATTACK ALL AROUND](../Page/ATTACK_ALL_AROUND_\(アルバム\).md "wikilink")」が発売された。8月26日、東京新木場[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")[MTV](../Page/MTV.md "wikilink")主催イベント「MTV STUDENT VOICE AWARD 2008」に出演し、最優秀ダンスアーティスト賞を受賞した。この当時グループ内はバラバラになっており、グループは解散の危機に陥った\[17\]。その中で宇野はグループの存続を主張し\[18\]、皆で何かを掴みたいという理由から解散を撤回\[19\]。以降、リーダー・浦田はAAAを3人メイン体制から全員体制の方向に引かれている\[20\]。
 
 [2009年](../Page/2009年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")、デビュー4周年記念ライブ「AAA 4th Anniversary LIVE」が[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われ、過去最高1万1000人を動員した\[21\]。12月21日、AAAオフィシャルモバイルサイト「AAA mobile（トリエー・モバイル）」がグランドオープン。
 
@@ -157,21 +146,21 @@
 
 ### 2011年 - 2015年
 
-[2011年](../Page/2011年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、AAA YouTubeオフィシャルチャンネルがオープン。オープンを記念して、日本のレーベルとしては初めてとなるモデレーター機能を使用した[ミュージック・ビデオ投票](https://ja.wikipedia.org/wiki/ミュージック・ビデオ投票 "wikilink")が行われ、「[MUSIC\!\!\!](https://ja.wikipedia.org/wiki/MUSIC!!!/ZERO "wikilink")」が1位となった\[24\]。9月14日にベスト・アルバム「[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")」が発売され、自身初の[オリコン](../Page/オリコン.md "wikilink")週間アルバムランキング第1位を獲得する\[25\]。
+[2011年](../Page/2011年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、AAA YouTubeオフィシャルチャンネルがオープン。オープンを記念して、日本のレーベルとしては初となるモデレーター機能を使用したミュージック・ビデオ投票が行われ、「[MUSIC\!\!\!](https://ja.wikipedia.org/wiki/MUSIC!!!/ZERO "wikilink")」が1位となった\[24\]。9月14日にベスト・アルバム『[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")』が発売され、自身初のオリコン週間アルバムランキング第1位を獲得する\[25\]。
 
 [2012年](../Page/2012年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")、7thアルバム『[777 〜TRIPLE SEVEN〜](https://ja.wikipedia.org/wiki/777_〜TRIPLE_SEVEN〜 "wikilink")』を発売。過去最高となる初動売上5.4万枚を記録し、[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")付のオリコン週間アルバムランキングで2位を獲得した\[26\]。[8月23日](../Page/8月23日.md "wikilink")、[ららぽーと豊洲](https://ja.wikipedia.org/wiki/ららぽーと豊洲 "wikilink")にて7thアルバム『777 〜TRIPLE SEVEN〜』発売記念スペシャルイベントが開催され、ファン777人が集まり、777発の花火が打ち上げられた\[27\]。
 
 [2013年](../Page/2013年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、AAA限定オンラインショップ「え〜ショップ」のリアル店舗『え〜ショップ in URAHARAJYUKU』が[裏原宿](../Page/裏原宿.md "wikilink")にて期間限定でオープンした\[28\]。[6月13日](../Page/6月13日.md "wikilink")に[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")によるライブイベント「LOVE in Action Meeting（LIVE）」が[日本武道館](../Page/日本武道館.md "wikilink")にて行われ、ライブパフォーマンスを披露した\[29\]。[9月18日](../Page/9月18日.md "wikilink")に8thアルバム『[Eighth Wonder](https://ja.wikipedia.org/wiki/Eighth_Wonder "wikilink")』が発売され、オリジナル・アルバムでは初となるオリコン週間アルバムランキング1位を獲得した\[30\]。[12月31日](../Page/12月31日.md "wikilink")、[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")に紅白史上初の組替えで、紅組として出場\[31\]。
 
-[2014年](../Page/2014年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") 、41stシングル「[Wake up\!](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")」が『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』のオープニングテーマとしてO.A.がスタートした。アニメ15周年のPR大使として任命された\[32\]。
+[2014年](../Page/2014年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") 、41stシングル『[Wake up\!](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")』が『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』のオープニングテーマとしてO.A.がスタートした。アニメ15周年のPR大使として任命された\[32\]。
 
-[2015年](../Page/2015年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、[東京体育館](../Page/東京体育館.md "wikilink")にて「AAA NEW YEAR PARTY 2015」が行われ、10周年記念として7カ月連続リリースすることが発表された\[33\]\[34\]\[35\]\[36\]。[2月20日](../Page/2月20日.md "wikilink")に44thシングル「[Lil' Infinity](https://ja.wikipedia.org/wiki/Lil'_Infinity "wikilink")」がイメージソングとなった映画『きっと、星のせいじゃない。』が公開された\[37\]\[38\]\[39\]。[3月21日](../Page/3月21日.md "wikilink")、原宿に期間限定カフェ『AAA Cafe powered by スイーツパラダイス × avex management』がオープンする\[40\]。[4月4日](../Page/4月4日.md "wikilink")、初の全4公演アジアツアー「AAA ASIA TOUR 2015 -ATTACK ALL AROUND-」が、SCAPE ([シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink"))にてスタートした\[41\]。[9月16日](../Page/9月16日.md "wikilink")にベスト・アルバム『[AAA 10th ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST "wikilink")』が発売。初週売上8.6万枚を記録し、[9月28日](../Page/9月28日.md "wikilink")付のオリコン週間アルバムランキング第1位を獲得した\[42\]。[9月21日](../Page/9月21日.md "wikilink")に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")にて3日間の初の野外ライブ「AAA 10th Anniversary SPECIAL 野外LIVE in 富士急ハイランド」を開催し、約5万人を動員した\[43\]。
+[2015年](../Page/2015年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、[東京体育館](../Page/東京体育館.md "wikilink")にて「AAA NEW YEAR PARTY 2015」が行われ、10周年記念として7カ月連続リリースすることが発表された\[33\]\[34\]\[35\]\[36\]。[2月20日](../Page/2月20日.md "wikilink")に「[Lil' Infinity](https://ja.wikipedia.org/wiki/Lil'_Infinity "wikilink")」がイメージソングとなった映画『きっと、星のせいじゃない。』が公開され\[37\]\[38\]\[39\]、2月25日に44枚目のシングルとして発売された。[3月21日](../Page/3月21日.md "wikilink")、原宿に期間限定カフェ『AAA Cafe powered by スイーツパラダイス × avex management』がオープンする\[40\]。[4月4日](../Page/4月4日.md "wikilink")、初の全4公演アジアツアー「AAA ASIA TOUR 2015 -ATTACK ALL AROUND-」が、SCAPE ([シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink"))にてスタートした\[41\]。[9月16日](../Page/9月16日.md "wikilink")にベスト・アルバム『[AAA 10th ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST "wikilink")』が発売。初週売上8.6万枚を記録し、[9月28日](../Page/9月28日.md "wikilink")付のオリコン週間アルバムランキング第1位を獲得した\[42\]。[9月21日](../Page/9月21日.md "wikilink")に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")にて3日間の初の野外ライブ「AAA 10th Anniversary SPECIAL 野外LIVE in 富士急ハイランド」を開催し、約5万人を動員した\[43\]。
 
 ### 2016年 - 2020年
 
 [2016年](../Page/2016年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、初開催となった「ハウステンボス MUSIC FES.2016」に出演し、トリを務めた。11月12日、東京・大阪で全4公演で初のドーム公演「AAA Special Live 2016 in Dome -FANTASTIC OVER-」が、[東京ドーム](../Page/東京ドーム.md "wikilink")・[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")にて行われた\[44\]。
 
-[2017年](../Page/2017年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")、メンバーの伊藤が結婚、妊娠を発表し、3月いっぱいでグループから卒業すること、また、夏頃に出産予定であることを発表\[45\]。3月31日、伊藤が卒業し、男5女1の計6人のグループとなった。[6月17日](../Page/6月17日.md "wikilink")に6人体制では初となる全国ツアー「AAA ARENA TOUR 2017 -WAY OF GLORY-」が[広島グリーンアリーナ](https://ja.wikipedia.org/wiki/広島グリーンアリーナ "wikilink")にてスタート。7月5日に6人体制では初のシングル「[No Way Back](https://ja.wikipedia.org/wiki/No_Way_Back "wikilink")」が発売された。[9月2日](../Page/9月2日.md "wikilink")、グループ史上初となる4大ドームツアー「AAA DOME TOUR 2017 -WAY OF GLORY-」が[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")にてスタートした。12月30日、AAAの公式Instagramが開設された。
+[2017年](../Page/2017年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")、メンバーの伊藤が結婚、妊娠を発表し、3月いっぱいでグループから卒業すること、また、夏頃に出産予定であることを発表\[45\]。3月31日、伊藤が卒業し、男5女1の計6人のグループとなった。[6月17日](../Page/6月17日.md "wikilink")に6人体制では初となる全国ツアー「AAA ARENA TOUR 2017 -WAY OF GLORY-」が[広島グリーンアリーナ](https://ja.wikipedia.org/wiki/広島グリーンアリーナ "wikilink")にてスタート。7月5日に6人体制では初のシングル『[No Way Back](https://ja.wikipedia.org/wiki/No_Way_Back "wikilink")』が発売された。[9月2日](../Page/9月2日.md "wikilink")、グループ史上初となる4大ドームツアー「AAA DOME TOUR 2017 -WAY OF GLORY-」が[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")にてスタートした。12月30日、AAAの公式Instagramが開設された。
 
 [2018年](../Page/2018年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")にグループ初となるファンミーティングアリーナツアー「AAA FAN MEETING ARENA TOUR 2018 〜FAN FUN FAN〜」がスタート。[8月29日](../Page/8月29日.md "wikilink")に6人体制では初のアルバム『[COLOR A LIFE](https://ja.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")』が発売された。9月1日、4大ドームツアー「AAA DOME TOUR 2018 - COLOR A LIFE -」が[東京ドーム](../Page/東京ドーム.md "wikilink")にてスタートし、約34万人を動員した\[46\]。
 
@@ -185,7 +174,7 @@
 
 [2月5日](../Page/2月5日.md "wikilink")、【AAA DOME TOUR 2020】の追加公演が決定し、男女混合パフォーマンスグループ日本史上"初"６大ドームツアーの開催が決まった\[59\]。
 
-[2月27日](../Page/2月27日.md "wikilink")、AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベストアルバム『[AAA 15th Anniversary All Time Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md "wikilink")』 & ミュージック・クリップベスト『[AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-](https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot- "wikilink")』との同時発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[60\]\[61\]。
+[2月27日](../Page/2月27日.md "wikilink")、AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベスト・アルバム『[AAA 15th Anniversary All Time Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md "wikilink")』 & ミュージック・クリップベスト『[AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-](https://ja.wikipedia.org/wiki/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot- "wikilink")』との同時発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[60\]\[61\]。
 
 ## ディスコグラフィ
 
@@ -1671,7 +1660,7 @@ AVXD-92864</p></td>
 <td><p>23</p></td>
 <td><p>2020年3月25日</p></td>
 <td><p><strong><a href="../Page/AAA_DOME_TOUR_2019_+PLUS.md" title="wikilink">AAA DOME TOUR 2019 +PLUS</a></strong></p></td>
-<td></td>
+<td><p>1位</p></td>
 <td><p>3DVD+GOODS<br />
 2Blu-ray+GOODS<br />
 3DVD<br />
@@ -2078,7 +2067,7 @@ AVXD-92307</p></td>
 
 #### Think about AAA Anniversary
 
-  - AAAが過去に発売したシングルを振り返るというもの。初の収録は25thシングル「[負けない心](https://ja.wikipedia.org/wiki/負けない心 "wikilink")」からである。全mu-mo盤のみに収録されている。
+  - AAAが過去に発売したシングルを振り返るというもの。初の収録は25thシングル『[負けない心](https://ja.wikipedia.org/wiki/負けない心 "wikilink")』からである。全mu-mo盤のみに収録されている。
 
 #### TanoCa
 
@@ -3037,7 +3026,7 @@ AVXD-92307</p></td>
 10月1日 福岡ヤフオク！ドーム</p>
 </div>
 </div></td>
-<td><p>グループ"初"となる4ドームツアー</p></td>
+<td><p>32万人を動員したグループ"初"となる4ドームツアー</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年-2018年</p></td>
@@ -3094,7 +3083,7 @@ AVXD-92307</p></td>
 11月24日 福岡ヤフオク！ドーム</p>
 </div>
 </div></td>
-<td><p>昨年に続き2度目の4大ドームツアー</p></td>
+<td><p>昨年に続き2度目の4大ドームツアーで自身最大規模となる34万人を動員した</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
@@ -3153,7 +3142,7 @@ AVXD-92307</p></td>
 12月22日 福岡ヤフオク！ドーム</p>
 </div>
 </div></td>
-<td><p>前年に続き3度目の4大ドームツアー</p></td>
+<td><p>前年に続き3度目の4大ドームツアーで38万人を動員し、AAA過去最大規模となった</p></td>
 </tr>
 <tr class="odd">
 <td><p>2020年</p></td>
@@ -3321,7 +3310,7 @@ AVXD-92307</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Break_Down/Break_your_name/Summer_Revolution" title="wikilink">Break your name</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>』エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>』エンディングテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3641,7 +3630,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <tr class="odd">
 <td><p>2016年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NEW_(AAAの曲)" title="wikilink">NEW</a></p></td>
-<td><p><a href="../Page/日本コカ・コーラ.md" title="wikilink">日本コカ・コーラ</a>『<a href="../Page/スプライト_(炭酸飲料).md" title="wikilink">スプライト</a>』CMソング[147]</p></td>
+<td><p><a href="../Page/日本コカ・コーラ.md" title="wikilink">日本コカ・コーラ</a>「<a href="../Page/スプライト_(炭酸飲料).md" title="wikilink">スプライト</a>」CMソング[147]</p></td>
 </tr>
 <tr class="even">
 <td><p>Yell</p></td>
@@ -3650,7 +3639,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/涙のない世界" title="wikilink">涙のない世界</a></p></td>
-<td><p>日本テレビ系「[[スッキリ</p></td>
+<td><p>日本テレビ系『[[スッキリ</p></td>
 <td><p>|スッキリ</p></td>
 </tr>
 <tr class="even">
@@ -3715,7 +3704,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑顔のループ" title="wikilink">笑顔のループ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a>（2018年12月～2019年1月の曲）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a>（2018年12月 - 2019年1月の曲）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4048,24 +4037,30 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <td><p>愛してるのに、愛せない</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハウステンボス" title="wikilink">ハウステンボス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハウステンボス" title="wikilink">ハウステンボス</a> /<a href="../Page/ラグーナテンボス.md" title="wikilink">ラグーナテンボス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>企業</p></td>
+<td><p>ラグーナテンボス</p></td>
+<td><p>avex360°3Dシアター</p></td>
+<td><p>2015年6月14日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Flavor_of_kiss" title="wikilink">Flavor of kiss</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ハウステンボス</p></td>
 <td><p>a-nation ホログラムシアター</p></td>
 <td><p>2016年1月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/日本コカ・コーラ.md" title="wikilink">日本コカ・コーラ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/スプライト_(炭酸飲料).md" title="wikilink">スプライト</a></p></td>
 <td><p>「スプライト NEWすっきり爽快」篇</p></td>
 <td><p>2016年5月30日</p></td>
@@ -4158,19 +4153,19 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
   - 色はメンバーカラーの5色「橙、紫、黄、青、桃」と、ラッキーカラーとして「黒、虹色」がある。
   - ストラップ、フィギア、ぬいぐるみ、Tシャツなど様々にグッズ化されている。また[アミューズメント](https://ja.wikipedia.org/wiki/アミューズメント "wikilink")施設専用限定商品としても多数登場している。
   - 2013年3月12日〜3月24日まで期間限定で『え〜ショップ in URAHARAJYUKU』が[裏原宿](../Page/裏原宿.md "wikilink")にオープンし、え〜パンダの小部屋をイメージした内装で限定グッズの販売などがされた。
-  - 2014年2月28日〜3月17日まで期間限定で『We Love AAA展』を39thシングル「[Love](https://ja.wikipedia.org/wiki/Love_\(AAAの曲\) "wikilink")」のリリースを記念して[渋谷パルコパート1](../Page/パルコ.md "wikilink")3FパルコミュージアムにてAAAメンバーとえ〜パンダの展覧会がオープンし、え〜パンダの小部屋はもちろん、新曲MV再現セット、本人衣装展示、フォトスポット、限定グッズの販売などがされた。
+  - 2014年2月28日〜3月17日まで期間限定で『We Love AAA展』を39thシングル『[Love](https://ja.wikipedia.org/wiki/Love_\(AAAの曲\) "wikilink")』のリリースを記念して[渋谷パルコパート1](../Page/パルコ.md "wikilink")3FパルコミュージアムにてAAAメンバーとえ〜パンダの展覧会がオープンし、え〜パンダの小部屋はもちろん、新曲MV再現セット、本人衣装展示、フォトスポット、限定グッズの販売などがされた。
 
 ### SNS、\#AAABC
 
   - メンバー全員がSNSを利用している。
-  - AAAに関連するハッシュタグは、6thオリジナルアルバム「[Buzz Communication](https://ja.wikipedia.org/wiki/Buzz_Communication "wikilink")」に由来する「\#AAABC」、2ndベストアルバム「[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")」に由来する「\#AAABEST」になぞらえたものである。
+  - AAAに関連するハッシュタグは、6thアルバム『[Buzz Communication](https://ja.wikipedia.org/wiki/Buzz_Communication "wikilink")』に由来する「\#AAABC」、2ndベストアルバム『[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")』に由来する「\#AAABEST」になぞらえたものである。
 
 ### キャンペーン
 
   - 日本武道館ライブ「2007年AAA 1st Anniversary Live 060913 〜3rd ATTACK〜 日本武道館」
       - 1周年記念ライブ。史上初の無料招待記念ライブ。
   - TRIPLE7キャンペーン
-      - 7周年による、7つのうち、1つプレゼントを選択し、抽選でもらえるというもの。抽選方法は、32ndシングル「[Still Love You](https://ja.wikipedia.org/wiki/Still_Love_You "wikilink")」、33rdシングル「[777 〜We can sing a song\!〜](https://ja.wikipedia.org/wiki/777_〜We_can_sing_a_song!〜 "wikilink")」、7thアルバム「[777 〜TRIPLE SEVEN〜](https://ja.wikipedia.org/wiki/777_〜TRIPLE_SEVEN〜 "wikilink")」の3作品に封入されている『応募券(シリアルナンバー)』を各1枚ずつ計3枚揃えて特別サイトにより必要事項などを記して抽選に参加できるというもの。
+      - 7周年による、7つのうち、1つプレゼントを選択し、抽選でもらえるというもの。抽選方法は、32ndシングル『[Still Love You](https://ja.wikipedia.org/wiki/Still_Love_You "wikilink")』、33rdシングル『[777 〜We can sing a song\!〜](https://ja.wikipedia.org/wiki/777_〜We_can_sing_a_song!〜 "wikilink")』、7thアルバム『[777 〜TRIPLE SEVEN〜](https://ja.wikipedia.org/wiki/777_〜TRIPLE_SEVEN〜 "wikilink")』の3作品に封入されている『応募券(シリアルナンバー)』を各1枚ずつ計3枚揃えて特別サイトにより必要事項などを記して抽選に参加できるというもの。
   - 7カ月連続シングルリリース
       - mu-moショップで対象のシングルCDをLIVE応募チケット付きで7作全て購入すると2015年9月13日と14日に代々木第一体育館で行われる「AAA 10周年スペシャルLIVE」に参加できるというもの。
       - 7カ月連続シングルリリース企画の対象となっている、第1弾から第7弾のジャケットを全て並べると**ATTACK ALL AROUND**（アタック・オール・アラウンド）の文字が出てくる仕掛けとなっている。また、世界初3Dキャプチャードールを使ったアプリ、AAARで、シングルのカバーを映すとメンバーが飛び出てくるという、最新の技術を使ったもので、ファンを楽しませている。
@@ -4193,14 +4188,14 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 
 [Category:AAA](https://ja.wikipedia.org/wiki/Category:AAA "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink")
 
-1.  [profile](https://avex.jp/aaa/profile/index.php) - 公式サイト
-2.  それぞれのメンバーにメンバーカラー（西島：橙、宇野：紫、日高：黄、與：青、末吉：桃）の5色が割り当てられており、公式グッズもこの5色で発売されているものが多い。また、ライブ会場では、推しメン（ファンが応援する特定のメンバー）色のグッズを身につけたファンが多い。
+1.
+2.
 3.
 4.
 5.
 6.
-7.
-8.
+7.  [profile](https://avex.jp/aaa/profile/index.php) - 公式サイト
+8.  それぞれのメンバーにメンバーカラー（西島：橙、宇野：紫、日高：黄、與：青、末吉：桃）の5色が割り当てられており、公式グッズもこの5色で発売されているものが多い。また、ライブ会場では、推しメン（ファンが応援する特定のメンバー）色のグッズを身につけたファンが多い。
 9.
 10.
 11.

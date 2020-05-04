@@ -560,7 +560,7 @@ B型H系よ、永遠（とわ）に</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>月曜 1:40 - 2:10（日曜深夜）</p></td>
 <td></td>
 <td></td>

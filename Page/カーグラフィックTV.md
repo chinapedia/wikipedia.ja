@@ -141,7 +141,7 @@
 
 <!-- end list -->
 
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") （[日本テレビ系列とのクロスネット](../Page/日本テレビネットワーク協議会.md "wikilink")）
+  - [福井放送](../Page/福井放送.md "wikilink") （[日本テレビ系列とのクロスネット](../Page/日本テレビネットワーク協議会.md "wikilink")）
 
 <!-- end list -->
 

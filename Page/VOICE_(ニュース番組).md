@@ -498,6 +498,7 @@ MBSのかつての[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink"
 ## 使用曲
 
   - テーマ曲
+      - [MQBIC](https://ja.wikipedia.org/wiki/MQBIC "wikilink")「VOICE TITLE -INTO THE LIGHT-」（2000年10月2日～2002年9月27日）
       - [塩谷哲](../Page/塩谷哲.md "wikilink")「Intersection of VOICE」（2014年4月7日～2016年6月3日）\[50\]
       - [SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")「ORION」を編集して使用（2016年6月6日～、エンディングにも使用）
   - エンディング曲

@@ -127,7 +127,7 @@
 
 ## 過去のネット局
 
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分で打ち切り。日曜23:00 - 23:30に放送されていた）
+  - [福井放送](../Page/福井放送.md "wikilink")（[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分で打ち切り。日曜23:00 - 23:30に放送されていた）
   - [山形放送](../Page/山形放送.md "wikilink")（[2003年](../Page/2003年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")放送分で打ち切り。月曜21:05 - 21:30に放送されていた）
   - [茨城放送](../Page/茨城放送.md "wikilink")（2000年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、25分版）
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")放送分で打ち切り。日曜24:30 - 25:00に放送されていた）

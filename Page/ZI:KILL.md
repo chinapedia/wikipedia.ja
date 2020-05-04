@@ -25,7 +25,7 @@
 
 過去に在籍したドラマーに現・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")、現・[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")がいた。
 
-## メンバー
+## 解散時メンバー
 
   - **TUSK**（タスク、本名:[板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink")、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - ）　[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、1988-1994（→Junky→[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")→[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")→[CRAZE](../Page/CRAZE.md "wikilink")→[新宿心音会](https://ja.wikipedia.org/wiki/板谷祐 "wikilink") 板谷祐、[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink"))
   - **KEN**（ケン、本名:[松平健](https://ja.wikipedia.org/wiki/KEN_\(ギタリスト\) "wikilink")、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）　[ギター](../Page/ギター.md "wikilink")、1987-1994（→ソロ→[Vast](https://ja.wikipedia.org/wiki/Crybaby_\(ロックバンド\) "wikilink")→[Crybaby](https://ja.wikipedia.org/wiki/Crybaby_\(ロックバンド\) "wikilink")→[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")）

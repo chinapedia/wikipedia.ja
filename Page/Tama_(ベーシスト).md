@@ -10,8 +10,8 @@
   - 主に[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")・[コントラバス](../Page/コントラバス.md "wikilink")）、[ギター](../Page/ギター.md "wikilink")を演奏。
   - ポルノグラフィティの[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")とは、保育所・小学校・中学校時代の同級生である。
   - [2004年](../Page/2004年.md "wikilink")、一般女性と結婚。翌年、第一子誕生。
-  - [2009年](../Page/2009年.md "wikilink")の新譜発表後表立った活動がなく、その後は[本間昭光](../Page/本間昭光.md "wikilink")の[Twitter](../Page/Twitter.md "wikilink")で近影が公表されるに留まっていたが、[2019年](../Page/2019年.md "wikilink")に本名である「白玉雅己」名義でサポートミュージシャンとして音楽活動を再開した。なお、現在特定のレコード会社、事務所と契約をしているかどうかは明らかでない。
-
+  - [2019年](../Page/2019年.md "wikilink") 本名である「白玉雅己」名義で音楽活動を再開した.
+  -
 ## 略歴
 
   - [1974年](../Page/1974年.md "wikilink")、[広島県](../Page/広島県.md "wikilink")[因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）に生まれる。

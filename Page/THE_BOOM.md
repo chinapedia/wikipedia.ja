@@ -34,18 +34,18 @@
 
 ### 主なサポートメンバー（順不同）
 
-  - [伊藤直樹](https://ja.wikipedia.org/wiki/伊藤_直樹 "wikilink")（いとう　なおき）：[パーカッション](../Page/パーカッション.md "wikilink")。
-  - [朝本浩文](../Page/朝本浩文.md "wikilink")（あさもと ひろふみ）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")。
-  - [斉藤久美](https://ja.wikipedia.org/wiki/斉藤久美 "wikilink")（さいとう　くみ）：[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")。
-  - [坂東次郎](https://ja.wikipedia.org/wiki/坂東次郎 "wikilink")（ばんどう　じろう）：[ギター](../Page/ギター.md "wikilink")。
-  - [今福健司](https://ja.wikipedia.org/wiki/今福健司 "wikilink")（いまふく　けんじ）：パーカッション。
-  - [鶴来正基](https://ja.wikipedia.org/wiki/鶴来正基 "wikilink")（つるぎ　まさき）：キーボード。
-  - [南流石](../Page/南流石.md "wikilink")（みなみ　さすが）：振り付け&コーラス。
-  - [ルイス・パジェ](https://ja.wikipedia.org/wiki/ルイス・パジェ "wikilink")（るいす　ぱじぇ）：[トランペット](../Page/トランペット.md "wikilink")。
-  - [上野一郎](https://ja.wikipedia.org/wiki/上野一郎 "wikilink")（うえの　いちろう）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。
-  - [町田昌弘](https://ja.wikipedia.org/wiki/町田昌弘 "wikilink")（まちだ まさひろ）：ギター。
-  - [オーノカズナリ](../Page/オーノカズナリ.md "wikilink")（おーの かずなり）：マニピュレーター&コーラス。
-  - [大城クラウディア](https://ja.wikipedia.org/wiki/大城クラウディア "wikilink")（おおしろ くらうでぃあ）：コーラス。
+  - [伊藤直樹](https://ja.wikipedia.org/wiki/伊藤_直樹 "wikilink")（いとう　なおき）：[パーカッション](../Page/パーカッション.md "wikilink")
+  - [朝本浩文](../Page/朝本浩文.md "wikilink")（あさもと ひろふみ）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - [斉藤久美](https://ja.wikipedia.org/wiki/斉藤久美 "wikilink")（さいとう　くみ）：[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")
+  - [坂東次郎](https://ja.wikipedia.org/wiki/坂東次郎 "wikilink")（ばんどう　じろう）：[ギター](../Page/ギター.md "wikilink")
+  - [今福健司](https://ja.wikipedia.org/wiki/今福健司 "wikilink")（いまふく　けんじ）：パーカッション
+  - [鶴来正基](https://ja.wikipedia.org/wiki/鶴来正基 "wikilink")（つるぎ　まさき）：キーボード
+  - [南流石](../Page/南流石.md "wikilink")（みなみ　さすが）：振り付け&コーラス
+  - [ルイス・パジェ](https://ja.wikipedia.org/wiki/ルイス・パジェ "wikilink")（るいす　ぱじぇ）：[トランペット](../Page/トランペット.md "wikilink")
+  - [上野一郎](https://ja.wikipedia.org/wiki/上野一郎 "wikilink")（うえの　いちろう）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [町田昌弘](https://ja.wikipedia.org/wiki/町田昌弘 "wikilink")（まちだ まさひろ）：ギター
+  - [オーノカズナリ](../Page/オーノカズナリ.md "wikilink")（おーの かずなり）：マニピュレーター&コーラス
+  - [大城クラウディア](https://ja.wikipedia.org/wiki/大城クラウディア "wikilink")（おおしろ くらうでぃあ）：コーラス
 
 ## 経歴
 
@@ -234,7 +234,7 @@
 #### 2017年
 
   - 1月、昨年から活動休止中だった[宮沢和史](../Page/宮沢和史.md "wikilink")が公式Twitterにて少しずつ歌唱の活動を再開していくと発表。
-  - [5月24日](../Page/5月24日.md "wikilink")、J-POPコンピ「エース」7inchiプロジェクト第3弾としてシングル「[風になりたい](https://ja.wikipedia.org/wiki/風になりたい "wikilink")」がアナログ・シングル化されて発売される。
+  - [5月24日](../Page/5月24日.md "wikilink")、J-POPコンピ「エース」7inchiプロジェクト第3弾としてシングル「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」がアナログ・シングル化されて発売される。
   - [小林孝至は自身を中心とした音楽プロジェクトTakashi](https://ja.wikipedia.org/wiki/小林孝至_\(ミュージシャン\) "wikilink")+を始動。同プロジェクトでは[i don't like mondaysの](https://ja.wikipedia.org/wiki/I_Don't_Like_Mondays. "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")兆志とのギターコラボを始め、ドイツのインディーズラップグループとのコラボなど行っている。
 
 #### 2018年
@@ -454,7 +454,7 @@ in ガンガ・ズンバ<br />
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink") 宮沢のみ
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")
   - [うたばん](../Page/うたばん.md "wikilink")
   - [THE MUSIC DAY 音楽のちから](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY_音楽のちから "wikilink")

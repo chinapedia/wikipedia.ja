@@ -281,7 +281,7 @@
   - [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TBS系列）
   - [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")（日本テレビ系列、2000年4月から半年間のみ放送）
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")（[フジテレビ系列](../Page/フジネットワーク.md "wikilink")、2009年4月から半年間のみ放送）
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")（独立局）
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")（独立局）
 
 ## 脚注
 

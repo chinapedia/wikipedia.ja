@@ -364,7 +364,7 @@ Jパワーを全ての力の源とし、Jパワーを導き出す腹部の結晶
   -
   -
   -
-[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:1994年の映画](https://ja.wikipedia.org/wiki/Category:1994年の映画 "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:巨大変身ヒーロー](https://ja.wikipedia.org/wiki/Category:巨大変身ヒーロー "wikilink") [Category:人間の巨大化・縮小化を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材とした映画作品 "wikilink") [Category:地球外生命体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした映画作品 "wikilink") [Category:バンダイビジュアルの映画作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルの映画作品 "wikilink")
+[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:1994年の映画](https://ja.wikipedia.org/wiki/Category:1994年の映画 "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:巨大変身ヒーロー](https://ja.wikipedia.org/wiki/Category:巨大変身ヒーロー "wikilink") [Category:人間の巨大化・縮小化を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材とした映画作品 "wikilink") [Category:地球外生命体を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした映画作品 "wikilink") [Category:バンダイビジュアルの映画作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルの映画作品 "wikilink") [Category:雨宮慶太の監督映画](https://ja.wikipedia.org/wiki/Category:雨宮慶太の監督映画 "wikilink")
 
 1.
 2.

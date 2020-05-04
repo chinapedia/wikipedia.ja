@@ -58,7 +58,7 @@
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")
 
 2007年4月に、地方局での放送は全て終了した。

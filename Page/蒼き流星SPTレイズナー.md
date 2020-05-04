@@ -894,7 +894,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
 <td><p>月曜 17:00 - 17:30[16]<br />
 → 木曜 17:00 - 17:30</p></td>
 <td></td>

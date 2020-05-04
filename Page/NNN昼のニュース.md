@@ -214,7 +214,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>NNN/<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">ANN</a></p></td>
 <td><p>○1989年4月1日からANNとのクロスネット局</p></td>
 </tr>

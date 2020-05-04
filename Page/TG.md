@@ -11,12 +11,12 @@
   - [正接検流計](https://ja.wikipedia.org/wiki/正接検流計 "wikilink") (tangent galvanometer)
   - [正接](https://ja.wikipedia.org/wiki/正接 "wikilink")（tangent）の[中国](../Page/中国.md "wikilink")・[ロシア](../Page/ロシア.md "wikilink")での記号。
   - [サイログロブリン](https://ja.wikipedia.org/wiki/サイログロブリン "wikilink") (thyroglobulin)
-  - [トリアシルグリセロール](../Page/トリアシルグリセロール.md "wikilink") (triacylglycerol) - [中性脂肪](https://ja.wikipedia.org/wiki/中性脂肪 "wikilink")
+  - [トリアシルグリセロール](../Page/トリアシルグリセロール.md "wikilink") (triacylglycerol) - [中性脂肪](../Page/中性脂肪.md "wikilink")
   - [トランスミッションゲート](https://ja.wikipedia.org/wiki/トランスミッションゲート "wikilink") (transmission gate) - [アナログスイッチ](https://ja.wikipedia.org/wiki/アナログスイッチ "wikilink")
   - [感謝祭](../Page/感謝祭.md "wikilink") (thanksgiving)
   - [トランスジェンダー](../Page/トランスジェンダー.md "wikilink") (transgender) - 性別越境者
   - [シンキンググループ](https://ja.wikipedia.org/wiki/シンキンググループ "wikilink") (thinking group) の略。[労働衛生](https://ja.wikipedia.org/wiki/労働衛生 "wikilink")領域の用語。
-  - [トリアシルグリセロール](../Page/トリアシルグリセロール.md "wikilink")（トリグリセリド）(Triglyceride) - [中性脂肪](https://ja.wikipedia.org/wiki/中性脂肪 "wikilink")の略号。
+  - [トリアシルグリセロール](../Page/トリアシルグリセロール.md "wikilink")（トリグリセリド）(Triglyceride) - [中性脂肪](../Page/中性脂肪.md "wikilink")の略号。
 
 ### 地名
 

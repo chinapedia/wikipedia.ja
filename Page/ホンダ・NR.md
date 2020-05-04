@@ -101,7 +101,7 @@
 
 翌1983年の第25回東京モーターショーで、1台のNR500が展示された。これはフレームやスイングアーム、フロントフォークのインナーチューブといった足回りが[カーボン繊維強化プラスチック（CFRP）](../Page/繊維強化プラスチック.md "wikilink")、エンジンブロックは[マグネシウム](../Page/マグネシウム合金.md "wikilink")、ボルト類は[チタン](../Page/チタン.md "wikilink")製という当時としては最新の素材をふんだんに使用したもので、NRプロジェクトの集大成として135psのエンジン出力と125kgの車体重量を目指して試作されたものだった\[19\]。ちなみに1982年型のNS500は122ps/118kg\[20\]、同じく1982年型の[ヤマハ・YZR500](../Page/ヤマハ・YZR500.md "wikilink")は130ps/122kg\[21\]である。このマシンはあくまで実験車に留まり、レースを走ることはなかった。
 
-NRの開発で得られたエンジンや車体の技術は、市販車の[VF1000F](https://ja.wikipedia.org/wiki/VF1000F "wikilink")、[VF750セイバー](https://ja.wikipedia.org/wiki/VF750セイバー "wikilink")、[VF750F](https://ja.wikipedia.org/wiki/VF750F "wikilink")、[VF500F](https://ja.wikipedia.org/wiki/VF500F "wikilink")、[VF400F](https://ja.wikipedia.org/wiki/VF400F "wikilink")、[VT250F](https://ja.wikipedia.org/wiki/VT250F "wikilink")などに投入され、現在でも[VFR800F](https://ja.wikipedia.org/wiki/VFR800F "wikilink")と[VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")が市販されている。
+NRの開発で得られたエンジンや車体の技術は、市販車の[VFシリーズ](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")・[VFRシリーズ](../Page/ホンダ・VFR.md "wikilink")・[RVFシリーズ](../Page/ホンダ・RVF.md "wikilink")・[VT250シリーズ](../Page/ホンダ・VT.md "wikilink")（後に[VTRへ発展](https://ja.wikipedia.org/wiki/ホンダ・VTR "wikilink")）・[VTR1000Fなどにフィードバックされ](../Page/ホンダ・VTR1000F.md "wikilink")、[2020年](../Page/2020年.md "wikilink")現在ではVFR800F・Xが市販されている。
 
 #### 幻のNR250 TURBO
 

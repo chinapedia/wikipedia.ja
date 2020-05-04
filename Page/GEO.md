@@ -39,6 +39,7 @@
   - [ジオ (自動車)](../Page/ジオ_\(自動車\).md "wikilink") - かつて[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")が展開していたブランド
   - [ジオ](https://ja.wikipedia.org/wiki/Geo_\(マイクロフォーマット\) "wikilink") - 地理座標をマークアップするための[マイクロフォーマット](../Page/マイクロフォーマット.md "wikilink")。
   - [ヘオ・メネセス](https://ja.wikipedia.org/wiki/ヘオ・メネセス "wikilink") - **Geo** Meneses。[メキシコ](../Page/メキシコ.md "wikilink")の歌手。
+  - Geo TV （[英語版](https://ja.wikipedia.org/wiki/:en:Geo_TV "wikilink")） - [パキスタン](../Page/パキスタン.md "wikilink")の有料テレビ局。
 
 ## 関連項目
 

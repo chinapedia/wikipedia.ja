@@ -1,7 +1,7 @@
 > この記事は[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU)から翻訳されています。
 
 
-**CHOKKAKU**（チョッカク、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**島田直角**で、本名は島田直。[広島県](../Page/広島県.md "wikilink")出身。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")[経営学](../Page/経営学.md "wikilink")科出身。
+**CHOKKAKU**（チョッカク、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**島田直角**で、本名は島田直。[広島県](../Page/広島県.md "wikilink")出身。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")[経営学](../Page/経営学.md "wikilink")科出身。
 
 ## 人物
 
@@ -9,7 +9,7 @@
 
 1987年、長原裕三（第31回[ポプコンつま恋本選会グランプリ](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")）らとFLEXを結成。バンドエクスプロージョン世界大会に出場。
 
-解散後は主に[アレンジャー](../Page/編曲家.md "wikilink")、プロデューサーとして活動。
+解散後は主に[アレンジャー](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")として活動。
 
 自身のアレンジには[エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink")をメインに使用しているが、打ち込みアレンジのためにキーボードをはじめ、他楽器の演奏もこなす[マルチプレイヤー](https://ja.wikipedia.org/wiki/マルチプレイヤー "wikilink")である。
 
@@ -442,8 +442,8 @@
           - 「[愛はタカラモノ](https://ja.wikipedia.org/wiki/愛はタカラモノ "wikilink")」（編曲）
           - 「[時間旅行Second\!](https://ja.wikipedia.org/wiki/山手線内回り〜愛の迷路〜 "wikilink")」（編曲）
           - 「[時間旅行](https://ja.wikipedia.org/wiki/TRIP_&_TREASURE "wikilink")」（編曲）
-          - 「[True Heart](https://ja.wikipedia.org/wiki/Hatachi "wikilink")」（編曲）
-          - 「[キ・セ・キ](https://ja.wikipedia.org/wiki/Hatachi "wikilink")」（編曲）
+          - 「[True Heart](../Page/Hatachi.md "wikilink")」（編曲）
+          - 「[キ・セ・キ](../Page/Hatachi.md "wikilink")」（編曲）
           - 「[愛 Check it\!](../Page/Twenty_Two.md "wikilink")」（編曲）
           - 「[Diamond](../Page/Twenty_Two.md "wikilink")」（編曲）
           - 「[Two You Four You](../Page/Two_You_Four_You.md "wikilink")」（編曲）
@@ -858,4 +858,4 @@
   - [CHOKKAKU](http://bananajam-official.tumblr.com/profile) - Banana Jam Official
   - [CHOKKAKU](http://www.musicman-net.com/townprofile_mu0348p.html) - Musicman-NET
 
-[Category:日本のポップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のポップ・ミュージシャン "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:広島修道大学出身の人物](https://ja.wikipedia.org/wiki/Category:広島修道大学出身の人物 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のポップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のポップ・ミュージシャン "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のギタリスト](https://ja.wikipedia.org/wiki/Category:日本のギタリスト "wikilink") [Category:広島修道大学出身の人物](https://ja.wikipedia.org/wiki/Category:広島修道大学出身の人物 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

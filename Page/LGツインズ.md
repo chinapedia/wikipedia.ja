@@ -1,9 +1,9 @@
 > この記事は[LGツインズ](https://ja.wikipedia.org/wiki/LGツインズ)から翻訳されています。
 
 
-**LGツインズ**（エルジー・ツインズ、、LG Twins）は、[韓国のプロ](../Page/大韓民国.md "wikilink")[野球](../Page/野球.md "wikilink")チームである。[LGグループ](../Page/LGグループ.md "wikilink")がオーナーであり、韓国プロ野球発足時の1982年から存在するチームのひとつ。チーム名は[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")の[汝矣島](../Page/汝矣島.md "wikilink")にある親会社のオフィスビルであるLGツインタワーに因む。縁故地（[ホームタウン](../Page/ホームタウン.md "wikilink")）はソウル特別市。本拠地は同市内の[蚕室球場](https://ja.wikipedia.org/wiki/蚕室総合運動場野球場 "wikilink")。
+**LGツインズ**（エルジー・ツインズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): 、現地読み: エルジートゥインス、[英語](../Page/英語.md "wikilink"): LG Twins）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チーム。[ホームタウン](../Page/ホームタウン.md "wikilink")は[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")であり、本拠地は同市[松坡区](../Page/松坡区.md "wikilink")の[蚕室野球場](../Page/蚕室野球場.md "wikilink")。[LGグループ](../Page/LGグループ.md "wikilink")傘下。[KBO創設メンバー](https://ja.wikipedia.org/wiki/韓国野球委員会 "wikilink")6球団の一つ。
 
-韓国プロ野球における1982年からの累積観客動員では最大を記録している（2018年まで）。
+韓国プロ野球界における人気球団の一つであり、1982年からの累積観客動員では最多を記録している（2018年まで）。チーム名はソウル特別市の[汝矣島](../Page/汝矣島.md "wikilink")にあるLG本社オフィスビルであるLGツインタワーに因む。
 
 ## チーム略歴
 
@@ -121,7 +121,7 @@
 
 ### 外野手
 
-  - 15 [全敏秀](https://ja.wikipedia.org/wiki/全敏秀 "wikilink")（チョン・ミンス）
+  - 15 [全敏秀](../Page/全敏秀.md "wikilink")（チョン・ミンス）
   - 32 [李天雄](https://ja.wikipedia.org/wiki/李天雄 "wikilink")（イ・チョヌン）
   - 33 [朴龍澤](../Page/朴龍澤.md "wikilink")（パク・ヨンテク）
   - 36 [李炯宗](https://ja.wikipedia.org/wiki/李炯宗 "wikilink")（イ・ヒョンジョン）

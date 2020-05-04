@@ -195,7 +195,7 @@
 <td><p>4日遅れ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC、<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系との<a href="../Page/クロスネット局.md" title="wikilink">クロスネット局</a>）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC、<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系との<a href="../Page/クロスネット局.md" title="wikilink">クロスネット局</a>）</p></td>
 <td><p>木曜 24:29〜25:24</p></td>
 <td><p>6日遅れ</p></td>
 </tr>
@@ -216,7 +216,7 @@
 <td><p>5日遅れ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a>（OBS、<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a>）</p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a>（OBS、<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a>）</p></td>
 <td><p>木曜 24:29〜25:24</p></td>
 <td><p>48日遅れ</p></td>
 </tr>

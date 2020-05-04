@@ -1,7 +1,9 @@
 > この記事は[三菱水島FC](https://ja.wikipedia.org/wiki/三菱水島FC)から翻訳されています。
 
 
-**三菱自動車水島FC**（みつびしじどうしゃみずしまエフシー、）は、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")で活動する社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。呼称は**三菱水島FC**である
+**三菱自動車水島FC**（みつびしじどうしゃみずしまエフシー、）は、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")で活動する社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。
+
+[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink") (JFL) 参戦当時は「**三菱水島FC**」の呼称を用いていたが、現在は「三菱自動車水島FC」の呼称としている。
 
 ## 概要
 

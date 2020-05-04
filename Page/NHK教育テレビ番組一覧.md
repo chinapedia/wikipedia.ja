@@ -449,7 +449,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")YOU
+  - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")hello,
       - [わらたまドッカ〜ン](https://ja.wikipedia.org/wiki/わらたまドッカ〜ン "wikilink")
       - [少年アシベ GO\!GO\!ゴマちゃん](https://ja.wikipedia.org/wiki/少年アシベ "wikilink")
       - [ねこねこ日本史](https://ja.wikipedia.org/wiki/ねこねこ日本史 "wikilink")
@@ -520,7 +520,7 @@
       - [オーケストラの魅力](https://ja.wikipedia.org/wiki/オーケストラの魅力 "wikilink")
       - [世界発明物語](https://ja.wikipedia.org/wiki/世界発明物語 "wikilink")
       - [地球にコンタクト\!](https://ja.wikipedia.org/wiki/地球にコンタクト! "wikilink")
-  - [天才てれびくん → 天才てれびくんワイド → 天才てれびくんMAX → 大\!天才てれびくん→Let's天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")
+  - [天才てれびくん → 天才てれびくんワイド → 天才てれびくんMAX → 大\!天才てれびくん→Let's天才てれびくん→天才てれびくんYOU](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")
       - バーチャル世界アニメシリーズ（[バーチャル3部作](../Page/バーチャル3部作.md "wikilink")）
           - [恐竜惑星](../Page/恐竜惑星.md "wikilink")（1993年度）
           - [ジーンダイバー](../Page/ジーンダイバー.md "wikilink")（1994年度）
@@ -586,7 +586,6 @@
   - [忍たま乱太郎](../Page/忍たま乱太郎.md "wikilink")
   - [おさるのジョージ](https://ja.wikipedia.org/wiki/おさるのジョージ "wikilink")
   - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")
-  - [ラディアン](https://ja.wikipedia.org/wiki/ラディアン "wikilink")
 
 ### 放送終了
 
@@ -747,7 +746,7 @@
   - [NHK手話ニュース](../Page/NHK手話ニュース.md "wikilink")
       - [NHK手話ニュース845](../Page/NHK手話ニュース845.md "wikilink")
       - [週間手話ニュース](https://ja.wikipedia.org/wiki/週間手話ニュース "wikilink")
-      - [こども手話ウイークリー](https://ja.wikipedia.org/wiki/こども手話ウイークリー "wikilink")
+      - [こども手話ウイークリー](../Page/こども手話ウイークリー.md "wikilink")
   - [ワンポイント手話](https://ja.wikipedia.org/wiki/ワンポイント手話 "wikilink")
   - [ワンポイント介護](../Page/ワンポイント介護.md "wikilink")
   - [キャラとおたまじゃくし島](https://ja.wikipedia.org/wiki/キャラとおたまじゃくし島 "wikilink")

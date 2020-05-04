@@ -56,7 +56,7 @@
 ## 主な在籍選手
 
   - 投手
-      - [西嶋亮太](https://ja.wikipedia.org/wiki/西嶋亮太 "wikilink")\[36\]（2018年引退）
+      - [西嶋亮太](../Page/西嶋亮太.md "wikilink")\[36\]（2018年引退）
   - 外野手
       - [本間篤史](https://ja.wikipedia.org/wiki/本間篤史_\(野球\) "wikilink")\[37\]（2017年退部）
   - コーチ

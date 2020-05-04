@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ラウドネス](../Page/LOUDNESS.md "wikilink")、[アースシェイカーらと共に](../Page/EARTHSHAKER.md "wikilink")[ジャパニーズヘヴィメタルの先駆けと言えるバンド](../Page/ジャパニーズ・メタル.md "wikilink")。
+[ラウドネス](../Page/LOUDNESS.md "wikilink")、[アースシェイカー](../Page/EARTHSHAKER.md "wikilink")、[BOW WOWらと共に](https://ja.wikipedia.org/wiki/BOW_WOW "wikilink")[ジャパニーズヘヴィメタルの先駆けと言えるバンド](../Page/ジャパニーズ・メタル.md "wikilink")。略称はマグナム。
 
 ## 来歴
 

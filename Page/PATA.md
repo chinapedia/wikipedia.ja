@@ -429,7 +429,7 @@
 
 ## 外部リンク
 
-  - [PATA Official WEBSITE](http://www.pata-official.com/)
+  - [PATA Official WEBSITE](https://www.pata-official.com/)
 
   -
   -

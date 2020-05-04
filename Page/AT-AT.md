@@ -1,7 +1,7 @@
 > この記事は[AT-AT](https://ja.wikipedia.org/wiki/AT-AT)から翻訳されています。
 
 
-[Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg](https://ja.wikipedia.org/wiki/File:Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg "fig:Star_Tours_–_The_Adventures_Continue_AT-AT_1.jpg")・[ディズニー・ハリウッド・スタジオ](https://ja.wikipedia.org/wiki/ディズニー・ハリウッド・スタジオ "wikilink")の[スター・ツアーズ](../Page/スター・ツアーズ.md "wikilink")のAT-ATのオブジェ\]\] **AT-AT**は、[映画](../Page/映画.md "wikilink")『[スター・ウォーズ エピソード5/帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』、『[スター・ウォーズ エピソード6/ジェダイの帰還](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")』、『[スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")』『[スター・ウォーズ/最後のジェダイ](https://ja.wikipedia.org/wiki/スター・ウォーズ/最後のジェダイ "wikilink")』に登場する架空の兵器の名前。
+**AT-AT**は、[映画](../Page/映画.md "wikilink")『[スター・ウォーズ エピソード5/帝国の逆襲](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード5/帝国の逆襲 "wikilink")』、『[スター・ウォーズ エピソード6/ジェダイの帰還](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード6/ジェダイの帰還 "wikilink")』、『[スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")』『[スター・ウォーズ/最後のジェダイ](https://ja.wikipedia.org/wiki/スター・ウォーズ/最後のジェダイ "wikilink")』に登場する架空の兵器の名前。
 
 ## 概要
 

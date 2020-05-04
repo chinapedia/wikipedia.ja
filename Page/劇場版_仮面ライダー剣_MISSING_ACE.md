@@ -447,7 +447,6 @@
 
   - アルビローチ - [小倉敏博](../Page/おぐらとしひろ.md "wikilink")
   - [中川素州](../Page/中川素州.md "wikilink")
-  - 小倉敏史
   - 中島俊介
   - 坂手透浩
   - 宮川康裕
@@ -596,7 +595,7 @@
 
   - [DVD 仮面ライダー剣 特集](https://web.archive.org/web/20070927220710/http://www.toei-video.co.jp/DVD/sp21/blade.html) - 東映ビデオによる商品情報ページ。中段付近に本作品に関する記述がある。
 
-[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:平成仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/Category:平成仮面ライダーシリーズ "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:テレビ朝日製作の映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作の映画 "wikilink") [Category:東映アニメーションの映画作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションの映画作品 "wikilink") [Category:仮面ライダー剣](https://ja.wikipedia.org/wiki/Category:仮面ライダー剣 "wikilink") [Category:超古代文明を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:超古代文明を題材とした映画作品 "wikilink") [Category:昆虫を題材とした映画](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした映画 "wikilink") [Category:アンデッドを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アンデッドを題材とした映画作品 "wikilink") [Category:井上敏樹の脚本映画](https://ja.wikipedia.org/wiki/Category:井上敏樹の脚本映画 "wikilink")
+[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:平成仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/Category:平成仮面ライダーシリーズ "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:テレビ朝日製作の映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作の映画 "wikilink") [Category:東映アニメーションの映画作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションの映画作品 "wikilink") [Category:仮面ライダー剣](https://ja.wikipedia.org/wiki/Category:仮面ライダー剣 "wikilink") [Category:超古代文明を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:超古代文明を題材とした映画作品 "wikilink") [Category:昆虫を題材とした映画](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした映画 "wikilink") [Category:アンデッドを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アンデッドを題材とした映画作品 "wikilink") [Category:石田秀範の監督映画](https://ja.wikipedia.org/wiki/Category:石田秀範の監督映画 "wikilink") [Category:井上敏樹の脚本映画](https://ja.wikipedia.org/wiki/Category:井上敏樹の脚本映画 "wikilink")
 
 1.
 2.

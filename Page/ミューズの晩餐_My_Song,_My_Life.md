@@ -29,7 +29,7 @@
 | [福岡県](../Page/福岡県.md "wikilink")                                                     | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                  |                                                                 |                  |         |
 | [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")                                  | [三重テレビ](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink") | [独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") | 火曜 22:15 - 22:40 |         |
 | [奈良県](../Page/奈良県.md "wikilink")                                                     | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") | 金曜 21:30 - 21:54                                                |                  |         |
-| [和歌山県](../Page/和歌山県.md "wikilink")                                                   | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") | 日曜 22:30 - 22:55                                                | 203日遅れ           |         |
+| [和歌山県](../Page/和歌山県.md "wikilink")                                                   | [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")                    | 日曜 22:30 - 22:55                                                | 203日遅れ           |         |
 |                                                                                      |                                                           |                                                                 |                  |         |
 
 ## 関連項目

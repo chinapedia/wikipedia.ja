@@ -105,8 +105,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>排水量<br />
-浮上時</p></td>
+<td><p>浮上時<br />
+排水量</p></td>
 <td><p>626 トン</p></td>
 <td><p>753 トン</p></td>
 <td><p>769 トン</p></td>
@@ -116,8 +116,8 @@
 <td><p>1084 トン</p></td>
 </tr>
 <tr class="even">
-<td><p>排水量<br />
-潜航時</p></td>
+<td><p>潜航時<br />
+排水量</p></td>
 <td><p>745 トン</p></td>
 <td><p>857 トン</p></td>
 <td><p>871 トン</p></td>
@@ -127,8 +127,7 @@
 <td><p>1181 トン</p></td>
 </tr>
 <tr class="odd">
-<td><p>全長<br />
-</p></td>
+<td><p>全長</p></td>
 <td><p>64.5 m</p></td>
 <td><p>66.6 m</p></td>
 <td><p>67.1 m</p></td>
@@ -138,8 +137,7 @@
 <td><p>77.6 m</p></td>
 </tr>
 <tr class="even">
-<td><p>耐圧殻長<br />
-</p></td>
+<td><p>耐圧殻長</p></td>
 <td><p>44.5 m</p></td>
 <td><p>48.8 m</p></td>
 <td><p>50.5 m</p></td>
@@ -149,8 +147,7 @@
 <td><p>60.4 m</p></td>
 </tr>
 <tr class="odd">
-<td><p>全幅<br />
-</p></td>
+<td><p>全幅</p></td>
 <td><p>5.85 m</p></td>
 <td><p>6.2 m</p></td>
 <td><p>6.2 m</p></td>
@@ -160,8 +157,7 @@
 <td><p>7.3 m</p></td>
 </tr>
 <tr class="even">
-<td><p>耐圧殻幅<br />
-</p></td>
+<td><p>耐圧殻幅</p></td>
 <td><p>4.7 m</p></td>
 <td><p>4.7 m</p></td>
 <td><p>4.7 m</p></td>
@@ -288,8 +284,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>対空機銃<br />
-</p></td>
+<td><p>対空機銃</p></td>
 <td><p><a href="../Page/2cm_Flakvierling38.md" title="wikilink">C30 20 mm</a></p></td>
 <td><p>複数</p></td>
 <td><p>2 × C30 20 mm,<br />
@@ -303,7 +298,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>艦首魚雷発射管</p></td>
+<td><p>艦首<br />
+魚雷発射管</p></td>
 <td><p>4 [23]</p></td>
 <td></td>
 <td></td>
@@ -313,7 +309,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>艦尾魚雷発射管</p></td>
+<td><p>艦尾<br />
+魚雷発射管</p></td>
 <td><p>1 [24]</p></td>
 <td></td>
 <td></td>

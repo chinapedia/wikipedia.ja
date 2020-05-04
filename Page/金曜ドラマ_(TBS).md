@@ -413,7 +413,7 @@
 | [福岡県](../Page/福岡県.md "wikilink")                                  | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB）      |                                                 |                   |            |         |
 | [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）            |                                                 |                   |            |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）            |                                                 |                   |            |         |
-| [大分県](../Page/大分県.md "wikilink")                                  | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）            |                                                 |                   |            |         |
+| [大分県](../Page/大分県.md "wikilink")                                  | [大分放送](../Page/大分放送.md "wikilink")（OBS）                               |                                                 |                   |            |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（mrt）            |                                                 |                   |            |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）          |                                                 |                   |            |         |
 | [沖縄県](../Page/沖縄県.md "wikilink")                                  | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                               |                                                 |                   |            |         |
@@ -464,7 +464,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>日本テレビ系列<br />
 <a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
@@ -569,7 +569,7 @@
   - [テレビ高知](../Page/テレビ高知.md "wikilink")では、系列局でありながら一時期この番組をネットしていなかった。しかし、1996年春の改編で同局ゴールデン帯の独自差し替え枠の番組割り当て見直しが行われ、その結果本枠はTBS同時ネットに転換し、以降は同時ネットが行われる様になった。
   - 外部のプロダクションが制作した作品の場合、制作局TBSの権利失効後、以前の作品をTBS系列以外の[ローカル局](../Page/ローカル局.md "wikilink")において再放送されたことがある。
   - 過去に制作された作品の一部は、TBSのCS放送・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で再放送されたことがある。また、TBSの権利が失効した作品は[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")や[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")などのテレビドラマ専門のCS放送でも再放送されたこともある。
-  - 山陽放送、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
+  - 山陽放送、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
   - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は2007年で放送打ち切り。それ以降『歌姫』と『エジソンの母』はそれぞれABS秋田放送が放送権を持つ。理由は本来放送される「TBS系木曜21時枠」が『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』」であるため（同番組はAKTが放映権を持つが、2007年10月 - 2008年3月の第8シリーズについては放送されなかった）。それ以降、秋田県での放送は1年間放送無く、2009年4月から1年遅れで[ABS秋田放送が](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")『Around40〜注文の多いオンナたち〜』と放送したが、同年12月に『流星の絆』を放送したのを最後にしばらく打ち切りが続いていたが、『夜行観覧車』で3年4か月振りの放送再開（同県では2013年4月放送開始）となった。以降は、不定期で平日の夕方\[16\]に遅れて放送されている。
 
 ## 脚注

@@ -98,7 +98,7 @@ CDが発売される前から「SHOP99テーマソング」が店内に流れて
   - 解体業者スクラッパーズ
   - 大忙しの料理店
   - [麻雀](../Page/麻雀.md "wikilink")
-  - [リバーシ](../Page/オセロ_\(遊戯\).md "wikilink")
+  - [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")
   - [ブラックジャック](../Page/ブラックジャック.md "wikilink")
   - [ジグソーパズル](../Page/ジグソーパズル.md "wikilink")
   - [五目並べ](../Page/五目並べ.md "wikilink")

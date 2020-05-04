@@ -87,10 +87,10 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
       - キングレコードに所属し、 デビュー作『**[JUST COMMUNICATION](../Page/JUST_COMMUNICATION.md "wikilink")**』（テレビアニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』前期オープニングテーマ）で26.4万枚の売り上げを記録。同年11月にリリースされたセカンドシングル『**[RHYTHM EMOTION](../Page/RHYTHM_EMOTION.md "wikilink")**』では、シングル最高セールスの36.4万枚の売り上げを記録した\[10\]。
   - [1996年](../Page/1996年.md "wikilink")
-      - 第10回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ベスト5ニュー・アーティスト賞を受賞\[11\]。この時、永野が授賞式に出席して受賞コメントを述べた。テレビ出演が数少ない中での貴重な出演である。
+      - 第10回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ベスト5ニュー・アーティスト賞を受賞\[11\]。この時、永野が授賞式に出席して受賞コメントを述べた。
       - 2作目のアルバム『**[BPM 143](https://ja.wikipedia.org/wiki/BPM_143 "wikilink")**』がオリコンチャートで5位、3枚目のアルバム『**[BPM 150MAX](https://ja.wikipedia.org/wiki/BPM_150MAX "wikilink")**』では、[GLAY](../Page/GLAY.md "wikilink")の『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』に次いで2位を記録した。その他の作品も軒並み10位以内を記録している。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
-      - [11月17日](../Page/11月17日.md "wikilink")・[11月24日](../Page/11月24日.md "wikilink")、TWO-MIXは漫画『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の作中で、『**[LIVING DAYLIGHTS](../Page/LIVING_DAYLIGHTS.md "wikilink")**』の[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")をめぐる「人気アーティスト誘拐事件」の回に登場。事件の手掛かりとなる[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")の[歌詞](../Page/歌詞.md "wikilink")は永野自らが実際に作詞・提供したもので、実際にラジオ番組で一度だけ放送され、後に歌詞を一部変更して実際にシングルCD化、更に[CD BOX](https://ja.wikipedia.org/wiki/CD_BOX "wikilink")『[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")』ではデモテープ版の歌詞・編曲によるものも収録された。また、作中のTWO-MIXは、現実世界ではまず行われないであろう[武道館ライヴを敢行している](../Page/日本武道館.md "wikilink")。その後、アニメ版「人気アーティスト誘拐事件」では、声優として、高山は主人公の[江戸川コナン](../Page/江戸川コナン.md "wikilink")と高山みなみ本人の二役を演じ、永野も本人役を演じている。それから18年後の[2015年](../Page/2015年.md "wikilink")8月22日・29日に「人気アーティスト誘拐事件」がリマスター版で[再放送](../Page/再放送.md "wikilink")され、前・後編放送終了直後に永野が自身の[twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")で漫画版やアニメ版での本エピソードのこぼれ話を語った。
+      - [11月17日](../Page/11月17日.md "wikilink")・[11月24日](../Page/11月24日.md "wikilink")、TWO-MIXは漫画『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の作中で、『**[LIVING DAYLIGHTS](../Page/LIVING_DAYLIGHTS.md "wikilink")**』の[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")をめぐる「人気アーティスト誘拐事件」の回に登場。事件の手掛かりとなる[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")の[歌詞](../Page/歌詞.md "wikilink")は永野自らが実際に作詞・提供したもので、実際にラジオ番組で一度だけ放送され、後に歌詞を一部変更して実際にシングルCD化、[CD BOX](https://ja.wikipedia.org/wiki/CD_BOX "wikilink")『[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")』ではデモテープ版の歌詞・編曲によるものも収録された。アニメ版「人気アーティスト誘拐事件」では、声優として、高山は主人公の[江戸川コナン](../Page/江戸川コナン.md "wikilink")と高山みなみ本人の二役を、永野も本人役を演じている。18年後の[2015年](../Page/2015年.md "wikilink")8月22日・29日に「人気アーティスト誘拐事件」がリマスター版で[再放送](../Page/再放送.md "wikilink")され、前・後編放送終了直後に永野が自身の[twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")で漫画版やアニメ版でのエピソードを語った。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
       - 3年間所属していたキングレコードを離れ[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")へ移籍。同時に所属事務所である**イズムアーティスト**との契約を解約し、自ら**Little Station**を立ち上げた。
   - [1999年](../Page/1999年.md "wikilink")
@@ -120,13 +120,18 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
   - [2012年](../Page/2012年.md "wikilink")
       - [5月1日](../Page/5月1日.md "wikilink")、3年ぶりに活動再開することをShiina-Tactixオフィシャルブログで発表された。
   - [2013年](../Page/2013年.md "wikilink")
-      - [1月25日](../Page/1月25日.md "wikilink")、配信シングル「**[T.R.Y〜NEXT〜](https://ja.wikipedia.org/wiki/T.R.Y〜NEXT〜 "wikilink")**」が配信された。正式な配信予定日は26日であったが、永野が配信サイトの手続きでミスをしてしまい、結果的に配信日が前倒しになった。当初は完全復活の予定だったが、これを最後に2018年まで活動はなく、事実上の活動休止状態になっている。
+      - [1月25日](../Page/1月25日.md "wikilink")、配信シングル「**[T.R.Y〜NEXT〜](https://ja.wikipedia.org/wiki/T.R.Y〜NEXT〜 "wikilink")**」が配信された。正式な配信予定日は26日であったが、永野が配信サイトの手続きでミスをしてしまい、結果的に配信日が前倒しになった。当初は完全復活の予定だったが、これを最後に2020年まで活動はなく、事実上の活動休止状態になっている。
+
+### 2020年代
+
+  - [2020年](../Page/2020年.md "wikilink")
+      - [4月29日](../Page/4月29日.md "wikilink")、結成25周年プロジェクトが始動開始\[13\]と同時に、ベストアルバム発売の決定が発表され\[14\]、プロジェクトの[公式Twitter](https://twitter.com/TWO_MIX25th)も同日に開設された。
 
 ## 記録・受賞など
 
   - 受賞歴
 
-:\* 第10回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ベスト5ニュー・アーティスト賞\[13\]
+:\* 第10回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ベスト5ニュー・アーティスト賞\[15\]
 
   - 記録
 
@@ -149,7 +154,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a> / KMW<br />
-<a href="../Page/スターチャイルド.md" title="wikilink">スターチャイルド</a>[14]</p></td>
+<a href="../Page/スターチャイルド.md" title="wikilink">スターチャイルド</a>[16]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -316,7 +321,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 <tr class="odd">
 <td><p>17th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NAKED_DANCE" title="wikilink">NAKED DANCE</a></strong> [15]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/NAKED_DANCE" title="wikilink">NAKED DANCE</a></strong> [17]</p></td>
 <td><p>DE.SHOW</p></td>
 <td><p>!</p></td>
 <td><p>WPC7-10042</p></td>
@@ -477,7 +482,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ---------------------------------- | --- |
 | [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                                                                  |                                                                           |               |                                    |     |
 | 1st                                                      | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[Baroque Best](https://ja.wikipedia.org/wiki/Baroque_Best "wikilink")** | 12cmCD        | WPC7-8550                          | 19位 |
-| 2nd                                                      | [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                                           | **[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")** \[16\]  | WPC7-10049/50 | 16位                                |     |
+| 2nd                                                      | [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                                           | **[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")** \[18\]  | WPC7-10049/50 | 16位                                |     |
 
 #### コンピレーション・アルバム
 
@@ -486,7 +491,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 | [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")     |                                                                                                              |                                                |        |                                    |    |
 | 1st                                                          | [2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")                                     | **DANCE INFINITY vol.1 supervised by TWO∞MIX** | 12cmCD | WPC7-10045                         |    |
 | [ShiinaTactix-Music](http://www.shiinatactix.com/index.html) |                                                                                                              |                                                |        |                                    |    |
-| 2nd                                                          | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **BPM151Tactix** \[17\]                        | 12cmCD | STM-0001                           |    |
+| 2nd                                                          | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **BPM151Tactix** \[19\]                        | 12cmCD | STM-0001                           |    |
 
 #### CD BOX
 
@@ -501,7 +506,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 | -------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------- | --- |
 | [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                          |                                                                                         |                                         |                                    |     |
 | 1st                                                      | [1999年](../Page/1999年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") | **[VISION FORMULA](https://ja.wikipedia.org/wiki/VISION_FORMULA "wikilink")**           | [VHS](../Page/VHS.md "wikilink")+12cmCD | WPC7-10032                         | 18位 |
-| 2nd                                                      | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **NAKED DANCE** \[18\]                                                                  | VHS                                     | WPV7-90002                         | \-  |
+| 2nd                                                      | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **NAKED DANCE** \[20\]                                                                  | VHS                                     | WPV7-90002                         | \-  |
 | 3rd                                                      | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **[VISION FORMULA 2000-DVD-](https://ja.wikipedia.org/wiki/VISION_FORMULA "wikilink")** | [DVD](../Page/DVD.md "wikilink")        | WPB7-90001                         |     |
 | [キングレコード](../Page/キングレコード.md "wikilink")                 |                                                                          |                                                                                         |                                         |                                    |     |
 | 4th                                                      | [2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")   | **WHITE REFLECTION THE MOVIE**                                                          | DVD                                     | KIBM-25                            | \-  |
@@ -579,7 +584,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 |                                        | 発売日                                                                      | タイトル                                                                                      | カップリング                    | 形態        | 製造番号      | 順位  |
 | -------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------- | --------- | --------- | --- |
-| ジェネオンエンタテインメント\[19\] / J・A・W・S Records |                                                                          |                                                                                           |                           |           |           |     |
+| ジェネオンエンタテインメント\[21\] / J・A・W・S Records |                                                                          |                                                                                           |                           |           |           |     |
 | 1st                                    | [2007年](../Page/2007年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")   | **[時空を超えて](https://ja.wikipedia.org/wiki/時空を超えて "wikilink")**                             | Pocket Rocket Revisited   | 12cmCD    | GNCA-7908 | 39位 |
 | 2nd                                    | [2007年](../Page/2007年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink") | **[A Runner at Daybreak](https://ja.wikipedia.org/wiki/A_Runner_at_Daybreak "wikilink")** | 時空を超えて The Second Chapter | GNCA-7909 | 133位      |     |
 | Étranger                               |                                                                          |                                                                                           |                           |           |           |     |
@@ -590,7 +595,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 |                                        | 発売日                                                                      | タイトル                                                                                      | 形態        | 製造番号      | 順位   |
 | -------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | --------- | --------- | ---- |
-| ジェネオンエンタテインメント\[20\] / J・A・W・S Records |                                                                          |                                                                                           |           |           |      |
+| ジェネオンエンタテインメント\[22\] / J・A・W・S Records |                                                                          |                                                                                           |           |           |      |
 | 1st                                    | [2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") | **[dELTa ONE](https://ja.wikipedia.org/wiki/dELTa_ONE "wikilink")**                       | 12cmCD    | GNCA-7016 | 185位 |
 | 2nd                                    | [2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") | **[dELTa TWO -UNIVERSE-](https://ja.wikipedia.org/wiki/dELTa_TWO_-UNIVERSE- "wikilink")** | GNCA-7017 | 197位      |      |
 
@@ -598,7 +603,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 |                                        | 発売日                                                                      | タイトル                                                                                                                        | 形態     | 製造番号      | 順位 |
 | -------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------ | --------- | -- |
-| ジェネオンエンタテインメント\[21\] / J・A・W・S Records |                                                                          |                                                                                                                             |        |           |    |
+| ジェネオンエンタテインメント\[23\] / J・A・W・S Records |                                                                          |                                                                                                                             |        |           |    |
 | 1st                                    | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") | **[KISSDUM -ENGAGE planet- オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/KISSDUM_-ENGAGE_planet-_オリジナルサウンドトラック "wikilink")** | 12cmCD | GNCA-7051 | 圏外 |
 
 ### タイアップ一覧
@@ -623,7 +628,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 | [1999年](../Page/1999年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")                    | Kiss                                                  | シングル「[Kiss](https://ja.wikipedia.org/wiki/Kiss_\(高山美瑠_with_TWO-MIXの曲\) "wikilink")」 | 高山みなみ                                                                                                    | アルバム『RHYTHM FORMULA』                 | 15thシングル「[MAXIMUM WAVE](https://ja.wikipedia.org/wiki/MAXIMUM_WAVE "wikilink")」と同時発売。 |         |                                                                                       |                                                                                                 |
 | [1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")                  | RHYTHMIC YOUTH                                        | シングル「[RHYTHMIC YOUTH](https://ja.wikipedia.org/wiki/RHYTHMIC_YOUTH "wikilink")」     |                                                                                                          |                                      |                                                                                       |         |                                                                                       |                                                                                                 |
 | [2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") | [M★TWO-MinaMiru-](../Page/高山美瑠.md "wikilink")         | 37℃〜微熱戦記〜                                                                           | シングル「[37℃〜微熱戦記〜](https://ja.wikipedia.org/wiki/37℃〜微熱戦記〜 "wikilink")」                                    |                                      |                                                                                       |         |                                                                                       |                                                                                                 |
-| [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                      | [ゾベッカ](../Page/怪人ゾナー.md "wikilink")                   | STANCE OF RESISTANCE                                                                | シングル「[象南波羅 〜ゾナパラ〜 WHY\!パラパラ・リミックス](https://ja.wikipedia.org/wiki/象南波羅_〜ゾナパラ〜_WHY!パラパラ・リミックス "wikilink")」 | [渡部チェル](../Page/渡部チェル.md "wikilink") | アルバム『[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")』\[22\]             |         |                                                                                       |                                                                                                 |
+| [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                      | [ゾベッカ](../Page/怪人ゾナー.md "wikilink")                   | STANCE OF RESISTANCE                                                                | シングル「[象南波羅 〜ゾナパラ〜 WHY\!パラパラ・リミックス](https://ja.wikipedia.org/wiki/象南波羅_〜ゾナパラ〜_WHY!パラパラ・リミックス "wikilink")」 | [渡部チェル](../Page/渡部チェル.md "wikilink") | アルバム『[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")』\[24\]             |         |                                                                                       |                                                                                                 |
 
 ## プロデュース
 
@@ -682,6 +687,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
   - [ShiinaTactix-Musicオフィシャルブログ](https://ameblo.jp/shiinatactix/)
 
+  -
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink")
 
 1.
@@ -696,13 +702,15 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 10.
 11.
 12. ただし、TWO-MIXのファンクラブ会報内にて、永野は主題歌・BGMともに**ほぼノータッチ**であることを本人が述べている。
-13.
+13. プロジェクトの公式Twitterのプロフィール欄には「**TWO-MIX復活、活動再開の企画ではございません**」と表記されているため、ユニット活動の再開ではない。
 14.
-15. TWO∞MIX（トゥーミックス・インフィニティ）名義
+15.
 16.
-17. ShiinaTactix-[Sana.K名義](../Page/小林沙苗.md "wikilink")
+17. TWO∞MIX（トゥーミックス・インフィニティ）名義
 18.
-19.
+19. ShiinaTactix-[Sana.K名義](../Page/小林沙苗.md "wikilink")
 20.
 21.
 22.
+23.
+24.

@@ -286,6 +286,8 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
     アニメ版で稲葉コースケが所持してる場面が何度かある。
   - 『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』
     [黒の組織](https://ja.wikipedia.org/wiki/黒の組織 "wikilink")のキャンティが使用する。
+  - 『[学園黙示録 HIGHSCHOOL OF THE DEAD](../Page/学園黙示録_HIGHSCHOOL_OF_THE_DEAD.md "wikilink")』
+    [SATの南](../Page/特殊急襲部隊.md "wikilink") リカが使用する。
 
 ### ゲーム
 

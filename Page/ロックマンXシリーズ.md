@@ -28,7 +28,7 @@
   - **[ロックマンX2 ソウルイレイザー](../Page/ロックマンX2_ソウルイレイザー.md "wikilink")**（[GBC](../Page/ゲームボーイカラー.md "wikilink")、VC）
   - **[ロックマンX コマンドミッション](../Page/ロックマンX_コマンドミッション.md "wikilink")**（PS2、[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")）
   - **[イレギュラーハンターX](../Page/イレギュラーハンターX.md "wikilink")**（[PSP](../Page/PlayStation_Portable.md "wikilink")）
-  - **[ロックマンX DiVE](https://ja.wikipedia.org/wiki/ロックマンX_DiVE "wikilink")**（[Android](../Page/Android.md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")）
+  - **[ロックマンX DiVE](../Page/ロックマンX_DiVE.md "wikilink")**（[Android](../Page/Android.md "wikilink")、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")）
 
 以下はコレクションソフト。
 

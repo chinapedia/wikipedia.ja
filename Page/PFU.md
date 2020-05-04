@@ -56,11 +56,9 @@
   - PFU東日本株式会社
   - PFU西日本株式会社
   - PFUクオリティサービス株式会社
-  - PFUビジネスフォアランナー株式会社
-  - PFUテクノコンサル株式会社
+  - PFUテクニカルコミュニケーションズ株式会社
   - PFUテクノワイズ株式会社
   - PFUライフエージェンシー株式会社
-  - PFUヒューマンデザイン株式会社
   - PFUクリエイティブサービス株式会社
 
 ### 国内グループ企業（関連会社）
@@ -72,10 +70,11 @@
   - PFU上海計算機有限公司（100%出資）
   - 上海必優信息系統有限公司（100%出資）
   - 江蘇南通必優信息系統有限公司（100%出資）
-  - PFU America Group Management, Inc.（100%出資）
+  - PFU America, Inc.（100%出資）
   - Fujitsu Computer Products of America, Inc.（100%出資）
-  - KnowledgeLake, Inc.（100%出資）
   - PFU(EMEA) Limited（100%出資）
+  - PFU Hong Kong Limited
+  - 富士通信息系統(深圳)有限公司
   - PFU Asia Pacific Pte. Ltd.（90%出資）
 
 ## 脚注

@@ -166,7 +166,7 @@
   - [華麗なる刑事](../Page/華麗なる刑事.md "wikilink")
   - [〜ジョーデキ\!POP COMPANY〜POP屋](https://ja.wikipedia.org/wiki/〜ジョーデキ!POP_COMPANY〜POP屋 "wikilink")
   - [おもしろ言葉ゲーム OMOJAN](https://ja.wikipedia.org/wiki/おもしろ言葉ゲーム_OMOJAN "wikilink")
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - [世界は言葉でできている](https://ja.wikipedia.org/wiki/世界は言葉でできている "wikilink")
   - [ザ・ジャッジ\! 〜得する法律ファイル](../Page/ザ・ジャッジ!_〜得する法律ファイル.md "wikilink")→[ザ・ジャッジEX](../Page/ザ・ジャッジEX.md "wikilink")
   - [幸せって何だっけ 〜カズカズの宝話〜](../Page/幸せって何だっけ_〜カズカズの宝話〜.md "wikilink")

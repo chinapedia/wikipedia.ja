@@ -43,7 +43,7 @@
 <!-- end list -->
 
   - 1989年以降、毎年1月2日と3日に放送される『箱根駅伝』の際は『[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")』は休止され、その代替として完全不定時の『**NNNニュース**』として10時台から11時台のうちのどこかで放送されることになっている。その間も画面左下のワイプ画面で中継映像を映し出すなどの配慮がある。
-  - 昼ニュースをテレビ朝日から受ける[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")\[3\]と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")\[4\]（いずれも『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』）、同じく昼ニュースをフジテレビから受ける[テレビ大分](../Page/テレビ大分.md "wikilink")（『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』）も、この2日は両局からのニュースネットは休止され、日本テレビ配信のニュースを放送する。
+  - 昼ニュースをテレビ朝日から受ける[福井放送](../Page/福井放送.md "wikilink")\[3\]と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")\[4\]（いずれも『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』）、同じく昼ニュースをフジテレビから受ける[テレビ大分](../Page/テレビ大分.md "wikilink")（『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』）も、この2日は両局からのニュースネットは休止され、日本テレビ配信のニュースを放送する。
 
 <!-- end list -->
 

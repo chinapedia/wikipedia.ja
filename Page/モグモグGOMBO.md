@@ -161,7 +161,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
 <td><p>日本テレビ系列<br />
 <a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>1995年4月からネット開始[3]</p></td>

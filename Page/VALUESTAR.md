@@ -39,7 +39,7 @@
 
   - [LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink") - 家庭向けノートパソコン
   - [ValueOne](../Page/ValueOne.md "wikilink") - 2005年から2008年まで発売されていたデスクトップパソコン
-  - [Project Engine](https://ja.wikipedia.org/wiki/Project_Engine "wikilink") - 開発中のゲーミングパソコン
+  - [Project Engine](../Page/Project_Engine.md "wikilink") - 開発中のゲーミングパソコン
   - [Mate](../Page/Mate_\(デスクトップパソコン\).md "wikilink") - 法人向けデスクトップパソコン
   - [FMV](../Page/FMV.md "wikilink") - 競合する[富士通のパソコンブランド](https://ja.wikipedia.org/wiki/富士通クライアントコンピューティング "wikilink")。
   - [海老沢泰久](../Page/海老沢泰久.md "wikilink") - 作家。1996年、本機種と[Aile](../Page/Aile.md "wikilink")用にマニュアルを執筆し、後に書籍（NECクリエイティブ）として出版された。

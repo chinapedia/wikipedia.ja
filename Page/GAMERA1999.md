@@ -31,13 +31,13 @@
 
 ## 出演
 
-南里幸、樋口真嗣、金子修介、神谷誠、[伊藤和典](../Page/伊藤和典.md "wikilink")、[林由美香](../Page/林由美香.md "wikilink")、[大橋明](../Page/大橋明.md "wikilink")、[福沢博文](../Page/福沢博文.md "wikilink")、[原口智生](../Page/原口智生.md "wikilink")、土川勉、[佐藤直樹](https://ja.wikipedia.org/wiki/佐藤直樹_\(日活\) "wikilink")、[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[藤谷文子](../Page/藤谷文子.md "wikilink")、[手塚とおる](../Page/手塚とおる.md "wikilink")
+[南里幸](https://ja.wikipedia.org/wiki/南里幸 "wikilink")、[樋口真嗣](../Page/樋口真嗣.md "wikilink")、[金子修介](../Page/金子修介.md "wikilink")、[神谷誠](../Page/神谷誠.md "wikilink")、[伊藤和典](../Page/伊藤和典.md "wikilink")、[林由美香](../Page/林由美香.md "wikilink")、[大橋明](../Page/大橋明.md "wikilink")、[福沢博文](../Page/福沢博文.md "wikilink")、[原口智生](../Page/原口智生.md "wikilink")、[土川勉](https://ja.wikipedia.org/wiki/土川勉 "wikilink")、[佐藤直樹](https://ja.wikipedia.org/wiki/佐藤直樹_\(日活\) "wikilink")、[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[藤谷文子](../Page/藤谷文子.md "wikilink")、[手塚とおる](../Page/手塚とおる.md "wikilink")
 
 ## スタッフ
 
-  - 総監督：庵野秀明
-  - 監督：摩砂雪
-  - 撮影：摩砂雪・庵野秀明・[鶴巻和哉](../Page/鶴巻和哉.md "wikilink")・[大塚雅彦](../Page/大塚雅彦.md "wikilink")・[南里幸](https://ja.wikipedia.org/wiki/甘木モリオ "wikilink")・蔭山周
+  - 総監督：[庵野秀明](../Page/庵野秀明.md "wikilink")
+  - 監督：[摩砂雪](../Page/摩砂雪.md "wikilink")
+  - 撮影：摩砂雪・庵野秀明・[鶴巻和哉](../Page/鶴巻和哉.md "wikilink")・[大塚雅彦](../Page/大塚雅彦.md "wikilink")・[南里幸](https://ja.wikipedia.org/wiki/甘木モリオ "wikilink")・[蔭山周](https://ja.wikipedia.org/wiki/蔭山周 "wikilink")
   - 製作協力：[岩井俊二](../Page/岩井俊二.md "wikilink")、[松尾スズキ](../Page/松尾スズキ.md "wikilink")、[カンパニー松尾](../Page/カンパニー松尾.md "wikilink")、[平野勝之](../Page/平野勝之.md "wikilink")
 
 ## 注釈

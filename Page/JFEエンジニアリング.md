@@ -5,53 +5,57 @@
 
 ## 事業所所在地
 
-  - 本社 - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")一丁目8番1号（[丸の内トラストタワー](https://ja.wikipedia.org/wiki/丸の内トラストタワー "wikilink")N館19階）
+  - 東京本社 - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")一丁目8番1号（[丸の内トラストタワー](https://ja.wikipedia.org/wiki/丸の内トラストタワー "wikilink")N館19階）
   - 横浜本社 - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[鶴見区末広町二丁目](../Page/鶴見区_\(横浜市\).md "wikilink")1番地
   - 生産拠点
-      - 鶴見事業所 - 神奈川県横浜市鶴見区末広町二丁目1番地
+      - 鶴見製作所 - 神奈川県横浜市鶴見区末広町二丁目1番地
       - 津製作所 - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[津市](../Page/津市.md "wikilink")雲出鋼管町1番地
   - 研究拠点
-      - 生産施工技術センター - 神奈川県横浜市鶴見区末広町二丁目1番地
+      - 総合研究所 - 神奈川県横浜市鶴見区末広町二丁目1番地
 
 ## 事業部、主な製品
 
+  - 調達本部
+  - 技術本部
+  - 総合研究所
+  - 制御技術センター（環境制御部、エレルギー制御部）
+  - シビルエンジニアリングセンター（建築技術部、土木技術部、構造技術部、設備技術部）
+  - プラント建設本部（環境建設ユニット、エネルギー建設ユニット、制御建設ユニット）
+  - リサイクル・発電事業本部
+      - 廃棄物焼却発電（地域新電力）
+  - 環境本部
+      - 環境プラント
+      - 上下水プラント
+      - 汚泥処理プラント
+      - バイオガスプラント
+      - アクアパイプライン
   - エネルギー本部
-      - [発電](https://ja.wikipedia.org/wiki/発電 "wikilink")設備
-      - [エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")プラント
-      - 省エネ蓄熱空調設備
-      - EVシステム
-      - [エネルギー貯蔵](https://ja.wikipedia.org/wiki/エネルギー貯蔵 "wikilink")設備
-      - [工場](../Page/工場.md "wikilink")設備
-  - パイプライン本部
-      - [パイプライン](../Page/パイプライン輸送.md "wikilink")
-  - 都市環境本部
-      - [廃棄物](../Page/廃棄物.md "wikilink")処理設備（[溶融炉](../Page/溶融炉.md "wikilink")、[焼却炉](../Page/焼却炉.md "wikilink")など）
-      - 廃棄物[選別機](https://ja.wikipedia.org/wiki/選別機 "wikilink")、[破砕機](../Page/シュレッダー.md "wikilink")
-      - [バイオマス](../Page/バイオマス.md "wikilink")設備
-      - [水道管](../Page/水道管.md "wikilink")
-      - [水処理](../Page/水処理.md "wikilink")設備
-  - 鋼構造本部
-      - [橋](../Page/橋.md "wikilink")梁
-      - [鉄骨構造](../Page/鉄骨構造.md "wikilink")物
-      - [防波堤](../Page/防波堤.md "wikilink")
-  - 産業機械本部
-      - [原動機](../Page/原動機.md "wikilink")
-      - [シールドマシン](../Page/シールドマシン.md "wikilink")
-      - [物流](../Page/物流.md "wikilink")システム
-      - [バラスト](../Page/バラスト.md "wikilink")水システム
-      - 搬送機器（[ベルトコンベア](../Page/ベルトコンベア.md "wikilink")、[オートウォーク](https://ja.wikipedia.org/wiki/オートウォーク "wikilink")など）
-  - 海外本部
-      - [中国](../Page/中国.md "wikilink")事業部
-      - [東南アジア](../Page/東南アジア.md "wikilink")事業部
-      - [欧州](https://ja.wikipedia.org/wiki/欧州 "wikilink")事業部
-  - 国内支店統括部
-      - 国内13支店（北海道・東北・千葉・東京・横浜・川崎・新潟・富山・静岡・名古屋・大阪・中国・九州）
-      - 国内7営業所（釧路・青森・秋田・神戸・四国・熊本・沖縄）
-  - 鶴見製作所
-      - [重工](https://ja.wikipedia.org/wiki/重工 "wikilink")センター
-  - 制御技術センター（[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")・[都市環境](https://ja.wikipedia.org/wiki/都市環境 "wikilink")・[産機](https://ja.wikipedia.org/wiki/産機 "wikilink")・[発電](https://ja.wikipedia.org/wiki/発電 "wikilink")・[システム](../Page/システム.md "wikilink")・[建設](../Page/建設.md "wikilink")）
-  - [シビル](../Page/シビル.md "wikilink")エンジニアリングセンター
-  - 総合研究所（開発企画・[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")技術研究・[環境](../Page/環境.md "wikilink")技術研究・[材料](https://ja.wikipedia.org/wiki/材料 "wikilink")研究・[ソーラー発電](https://ja.wikipedia.org/wiki/ソーラー発電 "wikilink")システム開発・次世代[ガスエンジン](https://ja.wikipedia.org/wiki/ガスエンジン "wikilink")開発）
+      - LNG基地
+      - バイオマス発電プラント
+      - 地熱発電プラント
+      - エネルギープラント
+      - ガスパイプライン
+  - 社会インフラ本部
+      - 橋梁
+      - 沿岸構造物
+      - 蒸気タービン
+      - エンジン
+      - クレーン
+      - シールドマシン
+      - サイクルツリー
+  - 新規事業分野
+      - スマートアグリ
+      - バラスト水処理システム
+      - メディカル
+      - 自動せりシステム
+      - 電力小売
+
+<!-- end list -->
+
+  - 海外支店・現地法人
+      - フィリピン支店、バンコク支店、ヤンゴン支店、サウジアラビア支店、北京、ベトナム、シンガポール、マレーシア、インドネシア、米国
+  - 国内支店
+      - 北海道支店、東北支店、福島復興再生支店、千葉支店、東京営業部、横浜支店、川崎支店、新潟支店、富山支店、静岡支店、名古屋支店、大阪支店、中国支店、九州支店、沖縄支店
 
 ## 沿革
 
@@ -103,6 +107,11 @@
 <!-- end list -->
 
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[4月1日](../Page/4月1日.md "wikilink") - JFE工建、JFE環境ソリューションズを吸収合併およびJFEソルデック（現ジャパンテクノメイト・ソルデックセンター）の技術センター（パイプライン技術部、プラント技術部）・設計センター（環境設計部・産業機械設計部）を統合。
+  - 2013年（平成25年）電力事業子会社アーバンエナジー(株)設立。鋼構造物製造子会社J＆Mスチールソリューションズ設立。
+  - 2014年（平成26年）磯村豊水機工(株)を統合。ドイツ企業のスタンダードケッセル・パワーシステムズを子会社化。
+  - 2018年（平成30年）(株)Jバイオフードリサイクルによる食品リサイクル事業開始。
+  - 2019年（平成31年）J＆T環境(株)発足。AnyTech(株)を子会社化。
+  - 2020年（令和2年）　三井E＆Sグループより化学プラント部門を譲受しJFEプロジェクトワン(株)発足。
 
 ## 歴代社長
 

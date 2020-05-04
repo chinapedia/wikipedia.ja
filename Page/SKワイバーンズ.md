@@ -1,11 +1,7 @@
 > この記事は[SKワイバーンズ](https://ja.wikipedia.org/wiki/SKワイバーンズ)から翻訳されています。
 
 
-**SKワイバーンズ**（エスケー・ワイバーンズ, 에스케이 와이번스）は、[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チームである。縁故地（[ホームタウン](../Page/ホームタウン.md "wikilink")）は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内にある[仁川SK幸福ドリーム球場（文鶴野球場）を本拠地とする](../Page/文鶴野球場.md "wikilink")。
-
-2000年、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。
-
-チーム名の「ワイバーンズ」は[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）の複数形。
+**SKワイバーンズ**（エスケーワイバーンズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"):에스케이 와이번스（読み: エスケーワイバンズ）、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チーム。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")で、同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。韓国有数の[企業グループ](https://ja.wikipedia.org/wiki/企業グループ "wikilink")・[SKグループ](../Page/SKグループ.md "wikilink")傘下。[2000年](../Page/2000年.md "wikilink")、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。チーム名の「ワイバーンズ」は空想上の竜の怪物・[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）に由来する。
 
 ## チーム略歴
 

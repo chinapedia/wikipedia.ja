@@ -155,10 +155,10 @@
 
 ## 外部リンク
 
-  - [サイエンスZERO - NHK](http://www4.nhk.or.jp/zero/)
+  - [サイエンスZERO - NHK](https://www4.nhk.or.jp/zero/)
   - [サイエンスZERO - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010677_00000)
 
-[Category:NHK教育テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの深夜番組 "wikilink") [Category:NHK教育テレビジョンの教養番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組 "wikilink") [Category:テレビの科学教育番組](https://ja.wikipedia.org/wiki/Category:テレビの科学教育番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink")
+[Category:NHK教育テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの深夜番組 "wikilink") [Category:NHK教育テレビジョンの教養番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組 "wikilink") [Category:NHK教育テレビジョンの科学教育番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの科学教育番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink")
 
 1.  ["日本放送協会平成15年度業務報告書"](http://www3.nhk.or.jp/pr/keiei/gyoumu/h15/pdf/gyoumu.pdf): p.17とp.26（PDF p.19とp.28）で「サイエンスZERO」に言及。
 2.

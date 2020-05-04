@@ -14,11 +14,38 @@
 ## スタッフ
 
   - ナレーター：[バッキー木場](../Page/バッキー木場.md "wikilink")、[垂木勉](../Page/垂木勉.md "wikilink")、[来宮良子](../Page/来宮良子.md "wikilink")、[古賀慶太](../Page/古賀慶太.md "wikilink")
+  - 構成：橋克弘、岩魚宣男、[野尻靖之](https://ja.wikipedia.org/wiki/野尻靖之 "wikilink")、[桝本壮志](../Page/桝本壮志.md "wikilink")、[堀江利幸](../Page/堀江利幸.md "wikilink")、小山賢太郎、[つかはら](../Page/つかはら.md "wikilink")・[秋葉高彰](../Page/秋葉高彰.md "wikilink")、[野口悠介](../Page/野口悠介.md "wikilink")
+  - 技術：[八峯テレビ](../Page/八峯テレビ.md "wikilink")
+      - TD：片平哲也
+      - CAM：石井隆志
+      - VE：東海林学
+      - AUD：佐藤浩一
+      - LD：藤井太郎（[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")）
+  - 美術：[フジアール](../Page/フジアール.md "wikilink")
+      - 美術プロデューサー：[木村文洋](https://ja.wikipedia.org/wiki/木村文洋 "wikilink")
+      - デザイン：小川由紀夫、菊地正人
+      - 美術進行：横山勇
+      - 大道具：長沼佳孝
+      - 電飾：濱名陽子
+      - アクリル装飾：中井丈晴
+      - マルチモニター：野上晃如
+  - CG：[EDEL JAPAN](http://www.edel-japan.co.jp/index.html)
+  - 編集：[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
+  - EED：鶴岡臣博
+  - MA：竹岡良樹
+  - 選曲効果：マジカル
+  - スーパーバイザー：大野高義（フジテレビ）、[坪田譲治](../Page/坪田譲治_\(フジテレビ\).md "wikilink")（フジテレビ）
+  - 編成：[荒井昭博](../Page/荒井昭博.md "wikilink")（フジテレビ）、[浜野貴敏](https://ja.wikipedia.org/wiki/浜野貴敏 "wikilink")（フジテレビ）
+  - 広報：河瑞由梨子（フジテレビ）
+  - AP：山田敏弘
+  - 制作デスク：市川聡子
+  - AD：鷲谷恵美子
   - 演出：高橋尚樹
-  - スーパーバイザー：大野高義、[坪田譲治](../Page/坪田譲治_\(フジテレビ\).md "wikilink")（フジテレビ）
+  - ディレクター：須藤拓也、阿部トオル、小池拓也、鹿島健城、高野透矢
   - プロデューサー：滝川均、山本昭三
-  - 企画・プロデュース：[立松嗣章](../Page/立松嗣章.md "wikilink")（フジテレビ）
-  - 制作協力：[オフィス・トゥー・ワン](../Page/オフィス・トゥー・ワン.md "wikilink")
+  - 企画・プロデューサー：[立松嗣章](../Page/立松嗣章.md "wikilink")（フジテレビ）
+  - 制作：[オフィス・トゥー・ワン](../Page/オフィス・トゥー・ワン.md "wikilink")
+  - 制作著作：フジテレビ
 
 ## 脚注
 

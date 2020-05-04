@@ -135,7 +135,7 @@
 
   - [武田信玄](../Page/武田信玄.md "wikilink")：**[高橋幸治](../Page/高橋幸治.md "wikilink")**
   - [武田義信](../Page/武田義信.md "wikilink")：**[あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")**
-  - [武田勝頼](../Page/武田勝頼.md "wikilink")：中村まなぶ（現・[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")）→[小川吉信](https://ja.wikipedia.org/wiki/小川吉信 "wikilink")
+  - [武田勝頼](../Page/武田勝頼.md "wikilink")：[中村まなぶ（現・中村梅雀）](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")→[小川吉信](https://ja.wikipedia.org/wiki/小川吉信 "wikilink")
   - [武田信虎](../Page/武田信虎.md "wikilink")：[田崎潤](../Page/田崎潤.md "wikilink")
   - [武田信繁](../Page/武田信繁.md "wikilink")：**[浜畑賢吉](../Page/浜畑賢吉.md "wikilink")**
   - [諏訪御寮人](../Page/諏訪御料人.md "wikilink")：[上原恵子](https://ja.wikipedia.org/wiki/上原恵子 "wikilink")→[中村玉緒](../Page/中村玉緒.md "wikilink")

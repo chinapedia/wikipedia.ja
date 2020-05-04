@@ -5,7 +5,7 @@
 
 ## 概要
 
-放送時間は、平日は17:00 - 17:55\[1\]（[JST](../Page/日本標準時.md "wikilink")）、週末は17:30 - 17:55。全国の[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列局の他、[岐阜放送](../Page/岐阜放送.md "wikilink")\[2\]、[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")、[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")で放送された。
+放送時間は、平日は17:00 - 17:55\[1\]（[JST](../Page/日本標準時.md "wikilink")）、週末は17:30 - 17:55。全国の[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列局の他、[岐阜放送](../Page/岐阜放送.md "wikilink")\[2\]、[びわ湖放送](../Page/びわ湖放送.md "wikilink")、[奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")、[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")で放送された。
 
 テレビ東京では18時台に[アニメ](../Page/アニメ.md "wikilink")などの子供向け番組を放送している関係で、ずっと17時台に全国総合ニュースを放送しているが、この番組はその枠をこれまでの17:30開始から、30分前倒して17:00開始に繰り上げた
 

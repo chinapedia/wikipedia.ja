@@ -1,7 +1,7 @@
 > この記事は[毛利元就 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/毛利元就_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**毛利元就**』（もうりもとなり）は、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月5日](../Page/1月5日.md "wikilink") - [12月14日](../Page/12月14日.md "wikilink")に放送された第36作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
+『**毛利元就**』（もうりもとなり）は、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[12月14日](../Page/12月14日.md "wikilink")に放送された第36作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
 
 ## 作品内容と反響
 
@@ -9,7 +9,7 @@
 
 残された自筆の文章や書状の内容を元に、謀略家のイメージが強い元就を愚痴っぽいが家族思いの男性として描いた。[一揆](../Page/一揆.md "wikilink")という語で[土一揆](../Page/土一揆.md "wikilink")や[一向一揆](../Page/一向一揆.md "wikilink")などの百姓一揆しか思い浮かばなくなっている多くの現代人に理解しにくい「[国人一揆](https://ja.wikipedia.org/wiki/国一揆 "wikilink")」を元就が盟主となって結ぶ場面で、国人一揆を「国人領主連合」なる現代語訳を用いてお茶の間の一般視聴者に対する配慮を行っていた。過去2回[時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")で再放送された。
 
-キャスティングは、歌舞伎俳優の[中村橋之助](../Page/中村芝翫_\(8代目\).md "wikilink")（現・8代目中村芝翫）・[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")・[中村獅童](../Page/中村獅童_\(2代目\).md "wikilink")、アイドルの[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")・[松本恵](../Page/松本莉緒.md "wikilink")、舞台俳優の[上川隆也](../Page/上川隆也.md "wikilink")・[笹野高史](../Page/笹野高史.md "wikilink")、宝塚出身の[一路真輝](../Page/一路真輝.md "wikilink")、当時、駆け出しの若手[俳優](../Page/俳優.md "wikilink")であった[西島秀俊](../Page/西島秀俊.md "wikilink")、お笑いタレントの[恵俊彰](../Page/恵俊彰.md "wikilink")など様々なジャンルに富んでいる。また、小劇場出身の俳優が多数出演している。
+キャスティングは、歌舞伎俳優の[中村橋之助](../Page/中村芝翫_\(8代目\).md "wikilink")（現・8代目中村芝翫）・[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")・[中村獅童](../Page/中村獅童_\(2代目\).md "wikilink")、アイドルの[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")・[松本恵](../Page/松本莉緒.md "wikilink")、舞台俳優の[上川隆也](../Page/上川隆也.md "wikilink")・[笹野高史](../Page/笹野高史.md "wikilink")、宝塚出身の[一路真輝](../Page/一路真輝.md "wikilink")、当時、駆け出しの若手[俳優](../Page/俳優.md "wikilink")であった[西島秀俊](../Page/西島秀俊.md "wikilink")、お笑いタレントの[恵俊彰](../Page/恵俊彰.md "wikilink")など様々なジャンルに富んでいる。また、小劇場出身の俳優が多数出演している。
 
 基本的に[ホームドラマ](../Page/ホームドラマ.md "wikilink")形式だが、常に家庭を大切に想い続けながらも実直な青年から老獪な策略家に変貌していく元就、その元就に深く影響を与える梟雄・[尼子経久](../Page/尼子経久.md "wikilink")、初期の毛利家や晴久の代以降の尼子家内部の醜い権力争いなど、シリアスな影の部分も丁寧に描いている。また、それまではおしとやか、もしくは妖艶な役柄などシリアスなキャラクターのイメージが強かった[松坂慶子](../Page/松坂慶子.md "wikilink")が、陽気でハイテンションな元就の義母・杉の方を演じ、これ以降松坂はドラマやCMでコミカルな役が増えるようになった。
 
@@ -156,7 +156,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
     演：[榎木孝明](https://ja.wikipedia.org/wiki/榎木孝明 "wikilink")
     軍事担当、尼子派。同志である広澄とたびたび密議を凝らすが、元就とは互いの才能に一目置いており、その武勇は少年期の元就にとっての憧れであった。家中の派閥争いから元綱の謀反に連座し「主命」を騙った元兼に討たれる。
   - [志道広良](../Page/志道広良.md "wikilink")（しじ ひろよし）
-    演：[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀 "wikilink")
+    演：[中村梅雀](https://ja.wikipedia.org/wiki/中村梅雀_\(2代目\) "wikilink")
     毛利氏庶家出身。元就の軍師で、興元の代から仕えていた。吉川国経との交渉を成功させた元就の将器に可能性を感じ、幸松丸死後、経久の圧力により尼子家より当主を迎えることが内定したが病を偽って面会を絶っている間に上洛して勅許を取得し元就を擁立した。以後、重臣筆頭として腕を振るう。元兼の粛清後に引退。
   - [福原広俊](../Page/福原広俊.md "wikilink")（ふくばら ひろとし）
     演：[笹野高史](../Page/笹野高史.md "wikilink")

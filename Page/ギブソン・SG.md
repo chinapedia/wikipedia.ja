@@ -239,7 +239,7 @@
   - [everythingSG.com website](http://www.everythingsg.com)
   - [ギブソンSG情報館](http://gibsonsgsg.seesaa.net/category/6018581-1.html)
 
-[Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink")
+[Category:ギブソン](https://ja.wikipedia.org/wiki/Category:ギブソン "wikilink")
 
 1.
 2.

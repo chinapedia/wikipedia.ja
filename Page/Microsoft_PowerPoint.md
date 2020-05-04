@@ -69,10 +69,9 @@ Windows版のみであるが閲覧用の単独アプリケーションとして*
 
 ## 外部リンク
 
-  - [Microsoft Office PowerPoint ホームページ](https://products.office.com/ja-jp/powerpoint)
-  - [Microsoft Office PowerPoint サポートページ - 製品の基本的な使い方](https://support.office.com/ja-jp/powerpoint)
-  - [Microsoft Office 公式サイト](http://technet.microsoft.com/ja-jp/office/)
-  - [PowerPoint for Mac ウェブサイト](http://www.microsoft.com/japan/mac/powerpoint/)
+  - [Microsoft PowerPoint](https://www.microsoft.com/ja-jp/microsoft-365/powerpoint)
+  - [PowerPoint のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/powerpoint)
+  - [管理者および IT プロフェッショナル向けの Office ドキュメント](https://docs.microsoft.com/ja-jp/office/)
 
 [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:プレゼンテーションソフトウェア](https://ja.wikipedia.org/wiki/Category:プレゼンテーションソフトウェア "wikilink") [Category:1987年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1987年のソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink")
 

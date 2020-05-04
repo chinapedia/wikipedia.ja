@@ -604,7 +604,7 @@
   - [納谷幸男](https://ja.wikipedia.org/wiki/納谷幸男 "wikilink")
   - [ポコたん](https://ja.wikipedia.org/wiki/ポコたん "wikilink")（限定参戦）
   - [中村圭吾](../Page/中村圭吾.md "wikilink")
-  - [岡谷英樹](https://ja.wikipedia.org/wiki/岡谷英樹 "wikilink")
+  - [岡谷英樹](../Page/岡谷英樹.md "wikilink")
 
 ### レギュラー参戦選手
 
@@ -621,10 +621,10 @@
 
 <!-- end list -->
 
-  - [ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")
-  - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")
   - [黒田哲広](../Page/黒田哲広.md "wikilink")
+  - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")
   - [タノムサク鳥羽](../Page/タノムサク鳥羽.md "wikilink")
+  - [ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")
 
 <!-- end list -->
 
@@ -658,8 +658,8 @@
 
   - [石井慧介](https://ja.wikipedia.org/wiki/石井慧介 "wikilink")
   - [今成夢人](https://ja.wikipedia.org/wiki/今成夢人 "wikilink")
-  - [翔太](https://ja.wikipedia.org/wiki/翔太_\(プロレスラー\) "wikilink")
   - [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")
+  - [翔太](https://ja.wikipedia.org/wiki/翔太_\(プロレスラー\) "wikilink")
 
 <!-- end list -->
 
@@ -667,9 +667,9 @@
 
 <!-- end list -->
 
-  - [T-Hawk](https://ja.wikipedia.org/wiki/小野寺卓也 "wikilink")
   - [エル・リンダマン](https://ja.wikipedia.org/wiki/林悠河 "wikilink")
   - [CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")
+  - [T-Hawk](https://ja.wikipedia.org/wiki/小野寺卓也 "wikilink")
 
 <!-- end list -->
 
@@ -710,8 +710,8 @@
 
 <!-- end list -->
 
-  - [山下りな](https://ja.wikipedia.org/wiki/山下りな "wikilink")
   - [伊藤麻希](https://ja.wikipedia.org/wiki/伊藤麻希 "wikilink")
+  - [山下りな](https://ja.wikipedia.org/wiki/山下りな "wikilink")
 
 <!-- end list -->
 
@@ -728,6 +728,14 @@
 <!-- end list -->
 
   - [山下実優](https://ja.wikipedia.org/wiki/山下実優 "wikilink")
+
+<!-- end list -->
+
+  - [MAKAI](https://ja.wikipedia.org/wiki/魔界_\(イベント\) "wikilink")
+
+<!-- end list -->
+
+  - [朱里](https://ja.wikipedia.org/wiki/朱里 "wikilink")
 
 ## 来日外国人選手
 
@@ -803,7 +811,7 @@
   - [桐生真弥](https://ja.wikipedia.org/wiki/桐生真弥 "wikilink")
   - [舞海魅星](https://ja.wikipedia.org/wiki/舞海魅星 "wikilink")
   - [鈴芽](https://ja.wikipedia.org/wiki/鈴芽 "wikilink")
-  - [汐凛セナ](https://ja.wikipedia.org/wiki/汐凛セナ "wikilink")
+  - [汐凛セナ](../Page/汐凛セナ.md "wikilink")
 
 ## DDTプロレスリングの別ブランドスタッフ
 
@@ -981,7 +989,7 @@
 <!-- end list -->
 
   - 歴代店長 : 初代店長：外部招聘、2代目：[KUDO](../Page/KUDO.md "wikilink")
-  - スタッフ : [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[猪熊裕介](https://ja.wikipedia.org/wiki/猪熊裕介 "wikilink")、[伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")、吉村直巳、[中村圭吾](../Page/中村圭吾.md "wikilink")、[岡谷英樹](https://ja.wikipedia.org/wiki/岡谷英樹 "wikilink")、[帯広さやか](https://ja.wikipedia.org/wiki/帯広さやか "wikilink")、[SAKI](https://ja.wikipedia.org/wiki/SAKI "wikilink")
+  - スタッフ : [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[猪熊裕介](https://ja.wikipedia.org/wiki/猪熊裕介 "wikilink")、[伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")、吉村直巳、[中村圭吾](../Page/中村圭吾.md "wikilink")、[岡谷英樹](../Page/岡谷英樹.md "wikilink")、[帯広さやか](https://ja.wikipedia.org/wiki/帯広さやか "wikilink")、[SAKI](https://ja.wikipedia.org/wiki/SAKI "wikilink")
 
 <!-- end list -->
 

@@ -224,6 +224,6 @@
 
   - [「I'll/CKBC」公式ホームページ -CKBC SideB-](http://www.sonymusic.co.jp/Animation/CKBC/)
 
-[Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ジャンプの漫画作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2002年のOVA](https://ja.wikipedia.org/wiki/Category:2002年のOVA "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:バスケットボール漫画](https://ja.wikipedia.org/wiki/Category:バスケットボール漫画 "wikilink") [Category:バスケットボールアニメ](https://ja.wikipedia.org/wiki/Category:バスケットボールアニメ "wikilink") [Category:小田原市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:小田原市を舞台とした作品 "wikilink")
+[Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ジャンプの漫画作品 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2002年のOVA](https://ja.wikipedia.org/wiki/Category:2002年のOVA "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:バスケットボール漫画](https://ja.wikipedia.org/wiki/Category:バスケットボール漫画 "wikilink") [Category:バスケットボールアニメ](https://ja.wikipedia.org/wiki/Category:バスケットボールアニメ "wikilink") [Category:小田原市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:小田原市を舞台とした漫画作品 "wikilink") [Category:小田原市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:小田原市を舞台とした作品 "wikilink")
 
 1.  試合は20分の前後半。ショットクロックが30秒。コートのライン形状など

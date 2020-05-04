@@ -53,7 +53,7 @@
   - [ウェブカメラ - ](http://www.globecams.com)
   - [ 世界中のライブカメラを網羅した日本語サイト](http://wxyzwebcams.com/en/asia/east_asia/japan/)
   - [ライブカメラ - ウェザーニューズ](http://weathernews.jp/livecam/)
-  - [カメラまっぷ](http://www.wcmap.net/pc/)
+  - [カメラまっぷ](https://www.wcmap.net/)
   - [ライブカメラ検索マップ](https://camera-map.com)
 
 [Category:通信機器](https://ja.wikipedia.org/wiki/Category:通信機器 "wikilink") [Category:ハードウェア](https://ja.wikipedia.org/wiki/Category:ハードウェア "wikilink") [Category:ビデオカメラ](https://ja.wikipedia.org/wiki/Category:ビデオカメラ "wikilink")

@@ -93,7 +93,7 @@
 ### 雑誌
 
   - [JJ](../Page/JJ_\(雑誌\).md "wikilink")（[光文社](../Page/光文社.md "wikilink")）
-  - [Gainer](https://ja.wikipedia.org/wiki/Gainer_\(雑誌\) "wikilink")（光文社）
+  - [Gainer](../Page/Gainer_\(雑誌\).md "wikilink")（光文社）
   - [GINGER](https://ja.wikipedia.org/wiki/GINGER "wikilink")（[幻冬舎](../Page/幻冬舎.md "wikilink")）
   - [ニコラ](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")（[新潮社](../Page/新潮社.md "wikilink")）
   - [セブンティーン](../Page/Seventeen_\(日本の雑誌\).md "wikilink")（[集英社](../Page/集英社.md "wikilink")）

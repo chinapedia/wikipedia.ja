@@ -7,6 +7,8 @@
 
 TMN終了時に発売されたシングルコレクション。このアルバムのために新たなリミックスはなされず、アルバムにも収録されている楽曲は全てシングルバージョンで収録されている。
 
+約2年後の[1996年](../Page/1996年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")にリリースされた「[TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")」に、このアルバムの収録曲全14曲がそのままのバージョンで収録されてしまったため、「[TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")」と内容が重複することとなった。
+
 ## 収録曲
 
 曲の解説やタイアップ等は[TMNや他のアルバムで解説しているため省略する](../Page/TM_NETWORK.md "wikilink")。

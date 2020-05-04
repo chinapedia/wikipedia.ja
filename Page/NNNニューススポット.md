@@ -233,7 +233,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>天気予報</p></td>
 <td><p>非ネット（ニュース放送なし）</p></td>
 <td></td>

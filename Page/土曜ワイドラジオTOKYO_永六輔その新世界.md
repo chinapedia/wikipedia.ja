@@ -5,7 +5,7 @@
 
 タイトルにある「ラジオTOKYO」とは、TBSラジオの前身の放送局名「**ラジオ東京=JOKR**（=正式な[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")）」 のこと。
 
-[Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")において、有料配信を行っている\[1\]
+[Paravi](https://ja.wikipedia.org/wiki/Paravi "wikilink")において、有料配信を行っている\[1\]。
 
 ## 概要
 
@@ -73,7 +73,7 @@
   - [長峰由紀](../Page/長峰由紀.md "wikilink") - 1991年4月〜1996年3月
   - [雨宮塔子](https://ja.wikipedia.org/wiki/雨宮塔子 "wikilink") - 1996年4月〜1999年2月
   - [堀井美香](../Page/堀井美香.md "wikilink") - 1999年3月〜2000年4月
-  - 外山惠理 - 2000年5月〜2015年9月
+  - [外山惠理](../Page/外山惠理.md "wikilink") - 2000年5月〜2015年9月
 
 ## 常連ゲスト
 

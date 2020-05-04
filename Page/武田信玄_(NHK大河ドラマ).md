@@ -534,7 +534,7 @@
   - [正親町三条公兄](https://ja.wikipedia.org/wiki/正親町三条公兄 "wikilink")（おおぎまちさんじょう きんえ）
     演：[松橋登](../Page/松橋登.md "wikilink")
     公家。内大臣。病身の三条夫人を見舞うべく都から下向。
-    三条の方の実家である転法輪三条家の当主[実教の実父](https://ja.wikipedia.org/wiki/三条実教 "wikilink")。
+    三条の方の実家である[三条家](../Page/三条家.md "wikilink")の当主[実教の実父](https://ja.wikipedia.org/wiki/三条実教 "wikilink")。
   - 近野昌八郎
     演：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
     朝廷の使い。

@@ -363,6 +363,6 @@
 
   - [英語と日本語のスクリプト（一部）](http://www007.upp.so-net.ne.jp/comet/am/am.htm) 海外ドラマ聞き取り挑戦！
 
-[Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:弁護士ドラマ](https://ja.wikipedia.org/wiki/Category:弁護士ドラマ "wikilink") [Category:ボストンを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ボストンを舞台としたテレビ番組 "wikilink") [Category:FOX](https://ja.wikipedia.org/wiki/Category:FOX "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink")
+[Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:弁護士ドラマ](https://ja.wikipedia.org/wiki/Category:弁護士ドラマ "wikilink") [Category:ボストンを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ボストンを舞台としたテレビ番組 "wikilink") [Category:FOX](https://ja.wikipedia.org/wiki/Category:FOX "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink") [Category:エミー賞受賞作](https://ja.wikipedia.org/wiki/Category:エミー賞受賞作 "wikilink")
 
 1.  [番組エピソード 『アリー♥myラブ』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=drama025)

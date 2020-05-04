@@ -718,15 +718,29 @@ Panama (ES)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>RHEL 7.8</p></td>
+<td><p>2020年3月31日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Red Hat Enterprise Linux 8</p></td>
 <td><p>RHEL 8.0</p></td>
 <td><p>Ootpa</p></td>
 <td><p>2019年5月7日</p></td>
 <td><p>2029年5月</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>RHEL 8.1</p></td>
 <td><p>2019年11月5日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>RHEL 8.2</p></td>
+<td><p>2020年4月28日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -741,7 +755,7 @@ Panama (ES)</p></td>
 
 バージョンの読み方として、旧表記で RHEL 4 Update 5 だったものは、新しい表記で 4.5 と呼ぶようになっている。
 
-## 脚注・出典
+## 脚注
 
 ## 関連項目
 

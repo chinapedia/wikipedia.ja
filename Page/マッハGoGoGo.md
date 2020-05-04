@@ -9,7 +9,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）に[リメイク](../Page/リメイク.md "wikilink")版が制作され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された。
 
-[2006年](../Page/2006年.md "wikilink")（平成18年）、アメリカで実写[映画](../Page/映画.md "wikilink")化されることが発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）夏に劇場公開された。監督は[マトリックス三部作を手がけた](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink")[ウォシャウスキー姉弟](https://ja.wikipedia.org/wiki/ウォシャウスキー姉弟 "wikilink")。邦題は『**[スピード・レーサー](../Page/スピード・レーサー.md "wikilink")**』である。
+[2006年](../Page/2006年.md "wikilink")（平成18年）、アメリカで実写[映画](../Page/映画.md "wikilink")化されることが発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）夏に劇場公開された。監督は[マトリックス三部作を手がけた](../Page/マトリックス_\(映画\).md "wikilink")[ウォシャウスキー姉弟](https://ja.wikipedia.org/wiki/ウォシャウスキー姉弟 "wikilink")。邦題は『**[スピード・レーサー](../Page/スピード・レーサー.md "wikilink")**』である。
 
 主人公・三船剛の名前は[三船敏郎](../Page/三船敏郎.md "wikilink")から取ったもの。
 
@@ -506,7 +506,10 @@
 
 ### ネット配信
 
-2019年8月30日から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")でタツノコチャンネルによる無料配信が行われている。オープニング映像は第1話のみイントロ部とタイトルコールだけの短縮版。
+2019年8月30日から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")でタツノコチャンネルによる無料配信が行われている。
+
+  - オープニング映像は第1話のみイントロ部とタイトルコールだけの短縮版。第2・3話は通常版だが、第4話はカットされている。
+  - エンディング第3話まで通常版だが、第4話はカット。
 
 ## マッハGoGoGo（第2作）
 

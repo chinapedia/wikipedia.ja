@@ -24,28 +24,6 @@
   - [中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")（なかじま ゆうと、1993年8月10日 - ） - 東京都出身\[12\]。結成時からのメンバー\[13\]。
   - [森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")（もりもと りゅうたろう、1995年4月6日 - ） - 神奈川県出身\[14\]。2005年に加入\[15\]。
 
-## 来歴
-
-  - 2004年
-
-:\* 5月、松本・伊野尾・山下・中島の4名で結成。
-
-:\* 秋に松本が活動を休止し、伊野尾・山下・中島の3名での活動となる。その後山下が脱退し、有岡・村野・玉森・浅香の4名が加入するが、後に村野と玉森も脱退。
-
-  -
-
-  - 2005年
-
-:\* 松本が復帰し、松本・伊野尾・中島・有岡・浅香の5名での活動となるが、松本が再び活動を休止し、後にグループ脱退及び事務所を退所。
-
-:\* その後、髙木・橋本・亀井・深澤・森本龍太郎の5名が加入し、伊野尾・中島・有岡・浅香・髙木・橋本・亀井・深澤・森本の9名での新体制となる。
-
-  -
-
-  - 2007年
-
-:\* 9月に[Hey\! Say\! JUMPが結成され](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")、活動終了。
-
 ## メンバー変遷
 
   - 『duet』2004年6月号（初登場）発売時\[16\]\[17\]
@@ -54,47 +32,53 @@
 
   -
 
-  - 『duet』2004年7月号発売時\[18\]\[19\]
+  - 『Myojo』2004年7月号発売時\[18\]
+
+:\* 伊野尾慧・中島裕翔・山下拓海・松本光平
+
+  -
+
+  - 『duet』2004年7月号発売時\[19\]\[20\]
 
 :\* 伊野尾慧・中島裕翔・有岡大貴・山下拓海・松本光平
 
   -
 
-  - 『Wink up』2004年11月号発売時\[20\]
+  - 『Wink up』2004年11月号発売時\[21\]
 
 :\* 伊野尾慧・中島裕翔・有岡大貴・山下拓海・玉森裕太
 
   -
 
-  - 『Wink up』2005年6月号発売時\[21\]
+  - 『Wink up』2005年6月号発売時\[22\]
 
 :\* 伊野尾慧・中島裕翔・有岡大貴・松本光平・浅香航大
 
   -
 
-  - 『duet』2005年8月号発売時\[22\]
+  - 『duet』2005年8月号発売時\[23\]
 
 :\* 伊野尾慧・中島裕翔・有岡大貴・浅香航大
 
   -
 
   - 『duet』2005年9月号発売時
-    髙木が加わり、5人体制になる \[23\]。
+    髙木が加わり、5人体制になる \[24\]。
 
       - 伊野尾慧・中島裕翔・有岡大貴・浅香航大・髙木雄也
 
-  - 『Wink up』2005年9月号発売時\[24\]
+  - 『Wink up』2005年9月号発売時\[25\]
     『duet』2005年9月号と発売日は同じだが、メンバーは9人で掲載されている。
 
       - 伊野尾慧・中島裕翔・有岡大貴・浅香航大・髙木雄也・橋本良亮・亀井拓・深澤辰哉・森本龍太郎
 
-  - 『POTATO』2006年9月号発売時点 \[25\]
+  - 『POTATO』2006年9月号発売時点 \[26\]
 
 :\* 伊野尾慧・有岡大貴・浅香航大・髙木雄也・橋本良亮・亀井拓・深澤辰哉
 
   -
 
-  - 『POTATO』2007年6月号発売時点 - 『POTATO』『duet』\[26\]『Wink up』\[27\]各2007年11月号まで
+  - 『POTATO』2007年6月号発売時点 - 『POTATO』『duet』\[27\]『Wink up』\[28\]各2007年11月号まで
 
 :\* 伊野尾慧・有岡大貴・髙木雄也・橋本良亮・亀井拓・深澤辰哉
 
@@ -102,12 +86,12 @@
 
 [JASRAC公式サイトの](../Page/日本音楽著作権協会.md "wikilink")「作品データベース検索サービス」において、アーティスト名に「J.J.Express」を含む楽曲の検索結果をもとに記述。
 
-  - Back in time\[28\]（作詞：ERYKAH、作曲：INDREHUS PER KRISTIAN） - JASRAC作品コード：0R5-2133-0
-  - SUPER STAR\[29\]（作詞・作曲：森元康介） - JASRAC作品コード：124-6133-4
+  - Back in time\[29\]（作詞：ERYKAH、作曲：INDREHUS PER KRISTIAN） - JASRAC作品コード：0R5-2133-0
+  - SUPER STAR\[30\]（作詞・作曲：森元康介） - JASRAC作品コード：124-6133-4
   - LOVE ME BABY（作詞・作曲：[蔦谷好位置](../Page/蔦谷好位置.md "wikilink")） - JASRAC作品コード：128-7039-1
-  - 少年のまま\[30\]（作詞・作曲：[磯崎健史](https://ja.wikipedia.org/wiki/磯崎健史 "wikilink")） - JASRAC作品コード：134-9084-2
-  - Carnival★ガンニバル\[31\]（作詞：宇都直樹、作曲：OKUDA） - JASRAC作品コード：136-1219-1
-  - 感じるままにYOU & I\[32\]（作詞：[漆野淳哉](https://ja.wikipedia.org/wiki/漆野淳哉 "wikilink")、作曲：Kazuya Izumi） - JASRAC作品コード：139-5968-9
+  - 少年のまま\[31\]（作詞・作曲：[磯崎健史](https://ja.wikipedia.org/wiki/磯崎健史 "wikilink")） - JASRAC作品コード：134-9084-2
+  - Carnival★ガンニバル\[32\]（作詞：宇都直樹、作曲：OKUDA） - JASRAC作品コード：136-1219-1
+  - 感じるままにYOU & I\[33\]（作詞：[漆野淳哉](https://ja.wikipedia.org/wiki/漆野淳哉 "wikilink")、作曲：Kazuya Izumi） - JASRAC作品コード：139-5968-9
   - HOW TO TREAT YOUR WOMAN（作詞：[近藤ナツコ](https://ja.wikipedia.org/wiki/近藤ナツコ "wikilink")、作曲：YURONG RONI JR） - JASRAC作品コード：126-7941-1
 
 ## 出演
@@ -116,21 +100,19 @@
 
 ### バラエティ番組
 
-  - [Ya-Ya-yah](../Page/Ya-Ya-yah_\(テレビ番組\).md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）\[33\]
+  - [Ya-Ya-yah](../Page/Ya-Ya-yah_\(テレビ番組\).md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）\[34\]
 
-  -
-  -
 ### コンサート
 
-  - ジャニーズJr.の大冒険\!（2006年8月15日 - 25日、[ホテル・グランパシフィック・メリディアン](https://ja.wikipedia.org/wiki/ホテル・グランパシフィック・メリディアン "wikilink")）伊野尾・有岡・高木・浅香・橋本・亀井・深澤\[34\]
-  - you達の音楽大運動会（2006年9月30日・10月1日、[国立代々木第一体育館](../Page/国立代々木競技場.md "wikilink")）\[35\]
-  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 7日、[日本武道館](../Page/日本武道館.md "wikilink")）\[36\]伊野尾・有岡・高木・浅香・橋本・亀井・深澤
-  - ジャニーズJr.の大冒険\! @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）\[37\]
+  - ジャニーズJr.の大冒険\!（2006年8月15日 - 25日、[ホテル・グランパシフィック・メリディアン](https://ja.wikipedia.org/wiki/ホテル・グランパシフィック・メリディアン "wikilink")）伊野尾・有岡・高木・浅香・橋本・亀井・深澤\[35\]
+  - you達の音楽大運動会（2006年9月30日・10月1日、[国立代々木第一体育館](../Page/国立代々木競技場.md "wikilink")）\[36\]
+  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 7日、[日本武道館](../Page/日本武道館.md "wikilink")）\[37\]伊野尾・有岡・高木・浅香・橋本・亀井・深澤
+  - ジャニーズJr.の大冒険\! @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）\[38\]
 
 ### 舞台
 
-  - [Johnnys Theater"SダUイMジMェAスRトY2005"](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2005 "wikilink")（2005年、品川プリンス ステラボール）\[38\]
-  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2006 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[39\]
+  - [Johnnys Theater"SダUイMジMェAスRトY2005"](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2005 "wikilink")（2005年、品川プリンス ステラボール）\[39\]
+  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2006 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[40\]
   - One\! -the history of Tackey- （2006年9月5日 - 9月28日、[日生劇場](../Page/日生劇場.md "wikilink")）
   - [滝沢演舞城 2007](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2007 "wikilink")（2007年7月3日 - 29日、新橋演舞場）
 
@@ -140,7 +122,7 @@
 
 ### 出典
 
-[Category:J.J.Express](https://ja.wikipedia.org/wiki/Category:J.J.Express "wikilink") [Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink")
+[Category:J.J.Express](https://ja.wikipedia.org/wiki/Category:J.J.Express "wikilink") [Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -181,3 +163,4 @@
 37.
 38.
 39.
+40.

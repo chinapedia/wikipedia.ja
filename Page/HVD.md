@@ -70,7 +70,6 @@ HVDの業界団体には非加盟だが、[TDK](../Page/TDK.md "wikilink")は200
 
 ## 外部リンク
 
-  - [HSD FORUM](http://www.hsdforum.org/)
   - [Blu-Rayを超えるテラバイト級の光ディスク オプトウエアのVRD](http://www.itmedia.co.jp/news/0207/16/nj00_optoware.html) - ITmedia ニュース 2002年7月16日
 
 [Category:光ディスク](https://ja.wikipedia.org/wiki/Category:光ディスク "wikilink")

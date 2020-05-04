@@ -81,7 +81,7 @@
   - [速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")（2000年11月15日・2001年2月14日、日本テレビ）
   - [うたばん](../Page/うたばん.md "wikilink")（2000年11月30日・2001年2月8日、[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")（2000年12月7日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（2000年3月27日・12月18日・2001年3月12日、フジテレビ）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（2000年3月27日・12月18日・2001年3月12日、フジテレビ）
   - 第33回[日本有線大賞](../Page/日本有線大賞.md "wikilink")（2000年12月15日、TBSテレビ）
   - [第42回日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")（2000年12月31日、TBSテレビ・[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
   - [CDTV-Neo](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV#CDTV-Neo "wikilink")（2001年2月9日、TBSテレビ）

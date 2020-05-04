@@ -1,7 +1,7 @@
 > この記事は[ニュースアイKANSAI](https://ja.wikipedia.org/wiki/ニュースアイKANSAI)から翻訳されています。
 
 
-『**ニュースアイKANSAI**』（ニュースアイかんさい）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[奈良テレビと](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")で放送されていたテレビ大阪製作のローカル[ニュース番組](../Page/報道番組.md "wikilink")。テレビ大阪とテレビ和歌山では[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで放送されていたが、奈良テレビでは2002年3月に打ち切られた。
+『**ニュースアイKANSAI**』（ニュースアイかんさい）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[奈良テレビと](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")で放送されていたテレビ大阪製作のローカル[ニュース番組](../Page/報道番組.md "wikilink")。テレビ大阪とテレビ和歌山では[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで放送されていたが、奈良テレビでは2002年3月に打ち切られた。
 
 ## 概要
 

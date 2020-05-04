@@ -410,7 +410,7 @@
 ## 外部リンク
 
   - [JBC2019特設ページ](http://www.keiba.go.jp/jbc2019/) - 地方競馬全国協会
-  - [TCK公式サイト「レースと日程」](http://www.tokyocitykeiba.com/race/grade_race/2017-11-03-2/)より（2017年・第17回開催時）
+  - [TCK公式サイト「レースと日程」](http://www.tokyocitykeiba.com/race/grade_race/2020-11-03-2/)より（2020年・第20回開催時）
   - [データ分析：第18回JBCスプリント　今週の注目レース](http://jra.jp/keiba/thisweek/2018/1104_2/index.html) - 日本中央競馬会（2018年・第18回開催時）
 
 [Category:農林水産大臣賞典](https://ja.wikipedia.org/wiki/Category:農林水産大臣賞典 "wikilink") [Category:地方競馬の競走](https://ja.wikipedia.org/wiki/Category:地方競馬の競走 "wikilink")

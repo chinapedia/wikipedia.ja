@@ -1583,7 +1583,7 @@
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink")
   - [テレビ大阪](../Page/テレビ大阪.md "wikilink")
   - [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
   - [テレビせとうち](../Page/テレビせとうち.md "wikilink")
   - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")
   - [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")

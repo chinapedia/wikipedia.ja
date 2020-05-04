@@ -551,7 +551,7 @@ ARM60 CPU (P60ARM)
 <td><p>Cortex-M0+</p></td>
 <td></td>
 <td><p>0.93 DMIPS/MHz</p></td>
-<td><p>NXP LPC81x, LPC82x <a href="https://ja.wikipedia.org/wiki/Renesas_RAファミリ" title="wikilink">Renesas RAファミリ</a>,</p>
+<td><p>NXP LPC81x, LPC82x <a href="../Page/Renesas_RAファミリ.md" title="wikilink">Renesas RAファミリ</a>,</p>
 <p>Renesas Synergy S1シリーズ</p></td>
 <td></td>
 <td></td>
@@ -581,7 +581,7 @@ ARM60 CPU (P60ARM)
 <td><p>Cortex-M4</p></td>
 <td><p>マイクロコントローラ向け（ハーバード・アーキテクチャ）。M3にDSP追加。モーター制御、FA/電力制御、オーディオ/ビデオ処理など。</p></td>
 <td></td>
-<td><p>Freescale Kinetis, NXP LPC43xx, STMicroelectronics, <a href="https://ja.wikipedia.org/wiki/Renesas_RAファミリ" title="wikilink">Renesas RAファミリ</a>, <a href="../Page/ルネサスエレクトロニクス.md" title="wikilink">Renesas</a> Synergy MCU(S3/S5/S7)</p></td>
+<td><p>Freescale Kinetis, NXP LPC43xx, STMicroelectronics, <a href="../Page/Renesas_RAファミリ.md" title="wikilink">Renesas RAファミリ</a>, <a href="../Page/ルネサスエレクトロニクス.md" title="wikilink">Renesas</a> Synergy MCU(S3/S5/S7)</p></td>
 <td></td>
 <td></td>
 </tr>

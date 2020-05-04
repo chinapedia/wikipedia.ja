@@ -22,6 +22,7 @@ CMYKモードで編集が可能。
 
 ## 外部リンク
 
-  - [Microsoft Publisher製品情報](http://www.microsoft.com/japan/office/publisher/prodinfo/default.mspx)
+  - [Microsoft Publisher](https://www.microsoft.com/ja-jp/microsoft-365/publisher)
+  - [Publisher のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/publisher)
 
 [Category:DTPソフト](https://ja.wikipedia.org/wiki/Category:DTPソフト "wikilink") [Category:Microsoft_Office](https://ja.wikipedia.org/wiki/Category:Microsoft_Office "wikilink") [Category:1991年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1991年のソフトウェア "wikilink")

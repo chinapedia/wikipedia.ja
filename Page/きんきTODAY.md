@@ -39,6 +39,6 @@
   - [宮城テレビ放送](../Page/宮城テレビ放送.md "wikilink")「[みやぎToday](https://ja.wikipedia.org/wiki/NNNみやぎToday "wikilink")」
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")「[ふくしまToday](../Page/NNNふくしまToday.md "wikilink")」
   - [中京テレビ放送](../Page/中京テレビ放送.md "wikilink")「[中京TODAY](../Page/中京TODAY.md "wikilink")」
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")「[TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink")」など
+  - [福井放送](../Page/福井放送.md "wikilink")「[TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink")」など
 
 [Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:読売テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:読売テレビの帯番組の歴史 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:NNN_JUST_NEWS](https://ja.wikipedia.org/wiki/Category:NNN_JUST_NEWS "wikilink") [Category:NNN6:30きょうのニュース](https://ja.wikipedia.org/wiki/Category:NNN6:30きょうのニュース "wikilink")

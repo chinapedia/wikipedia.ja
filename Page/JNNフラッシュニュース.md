@@ -39,7 +39,7 @@
 
 [2019年](../Page/2019年.md "wikilink")3月をもって『月曜名作劇場』が終了し、2019年の春の改編で月曜20時台番組『[有田哲平と高嶋ちさ子の人生イロイロ超会議](https://ja.wikipedia.org/wiki/有田哲平と高嶋ちさ子の人生イロイロ超会議 "wikilink")』が20:00 - 20:57枠に編成されるため、同年4月以降は月曜放送分は約2年3ヶ月ぶりに20:57 - 21:00に編成され、かつ約1年半ぶりに単独番組に戻った。しかし、土曜版が同年3月をもって廃止し、曜日を1日縮小となった。前枠が3時間特番（19:00 - 21:57）になった影響で22時台の番組が21:57開始になった場合、22時台の番組の放送途中に挿入されることがある{{\#tag:ref|参考：
 
-  - 2019年5月15日の『水曜日のダウンタウン』（21:57 - 22:57）\[2\]（ニュースは22:08 - 22:09\[3\]）|group="注"}}。
+  - 2019年5月15日の『水曜日のダウンタウン』（21:57 - 22:57）\[2\]（ニュースは22:08 - 22:09\[3\]）|group="注"}}。2019年10月より、水曜日20時台の｢[世界くらべてみたら](https://ja.wikipedia.org/wiki/世界くらべてみたら "wikilink")｣と21時台の｢[ワールド極限ミステリー](https://ja.wikipedia.org/wiki/ワールド極限ミステリー "wikilink")｣放送開始されたが、水曜日の単独番組の時間帯は2019年9月以前のものは引き続き放送されている。
 
 ### フラッシュニュース（関東ローカル枠）
 
@@ -123,7 +123,7 @@
 | [福岡県](../Page/福岡県.md "wikilink")                    | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB） |              |       |         |
 | [長崎県](../Page/長崎県.md "wikilink")                    | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）       |              |       |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink") | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）       |              |       |         |
-| [大分県](../Page/大分県.md "wikilink")                    | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）       | \[7\]        |       |         |
+| [大分県](../Page/大分県.md "wikilink")                    | [大分放送](../Page/大分放送.md "wikilink")（OBS）                          | \[7\]        |       |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                    | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）       |              |       |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                  | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）     |              |       |         |
 | [沖縄県](../Page/沖縄県.md "wikilink")                    | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                          |              |       |         |

@@ -25,7 +25,7 @@
 
 ## 放送時間
 
-  - テレビ東京系列（[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")）・[びわ湖放送](../Page/びわ湖放送.md "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")（[独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")）・[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")
+  - テレビ東京系列（[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")）・[びわ湖放送](../Page/びわ湖放送.md "wikilink")・[奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")・[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")（[独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")）・[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")
     2001年10月1日 - 2008年3月28日
     月 - 金 15:30(正式には15:31.00、以前は15:30.30) - 15:55
     2008年3月31日 - 2008年9月26日

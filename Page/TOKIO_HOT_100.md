@@ -26,7 +26,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
   - [1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") 「**PIONEER TOKIO HOT 100**」として正式に放送開始（当時のスポンサーは[パイオニアの一社提供](https://ja.wikipedia.org/wiki/パイオニア#パイオニア株式会社 "wikilink")）\[5\]。
   - [1988年](../Page/1988年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") [日本テレビで同タイトルの番組が放送開始](../Page/日本テレビ放送網.md "wikilink")。FM発のTV番組として話題になり\[6\]、1990年9月まで放送。
   - [1989年](../Page/1989年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") [プリンスの](https://ja.wikipedia.org/wiki/プリンス_\(ミュージシャン\) "wikilink")『[バットダンス](https://ja.wikipedia.org/wiki/バットダンス "wikilink")』が番組史上初となる10週連続1位を達成。同年の年間チャートでも1位を獲得。
-  - [1993年](../Page/1993年.md "wikilink")1月 [ホイットニー・ヒューストン](../Page/ホイットニー・ヒューストン.md "wikilink")の『[I WILL ALWAYS LOVE YOU](https://ja.wikipedia.org/wiki/ボディガード_\(1992年の映画\) "wikilink")』が前述のプリンスの記録を塗り替える11週連続1位を達成。
+  - [1993年](../Page/1993年.md "wikilink")1月 [ホイットニー・ヒューストン](../Page/ホイットニー・ヒューストン.md "wikilink")の『[I WILL ALWAYS LOVE YOU](../Page/ボディガード_\(1992年の映画\).md "wikilink")』が前述のプリンスの記録を塗り替える11週連続1位を達成。
   - [1999年](../Page/1999年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") [TLC](https://ja.wikipedia.org/wiki/TLC "wikilink")の『NO SCRUBS』が1位に。これで通算12週目のNO.1となり、通算では歴代最多NO.1記録となる。
   - [2000年](../Page/2000年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")の『[虚言症](../Page/勝訴ストリップ.md "wikilink")』が邦楽初の1位になる。
   - [2002年](../Page/2002年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") [LOVE PSYCHEDELICOの](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")『STANDING BIRD』が1位を獲得。HOT POPPERで1位となった曲（後述）としては番組史上最高となる96位から95ランクアップ。

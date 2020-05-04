@@ -301,7 +301,7 @@
 <td><p><a href="../Page/レキシントン_(CV-16).md" title="wikilink">USSレキシントン(CV-16)博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>SBD-2 02106号機が保存されている、海軍航空博物館からの貸出品。<a href="http://usslexington.com/aircraft/sbd-3-dauntless/">8</a></p></td>
+<td><p>SBD-2 02106号機が保存されている、海軍航空博物館からの貸出品。旧塗装<a href="https://ja.wikipedia.org/wiki/File:Static_Display_USS_Lexington_SBD-2_Dauntless.JPG" title="fig:Static_Display_USS_Lexington_SBD-2_Dauntless.JPG">Static_Display_USS_Lexington_SBD-2_Dauntless.JPG</a><a href="http://usslexington.com/aircraft/sbd-3-dauntless/">8</a></p></td>
 </tr>
 <tr class="even">
 <td><p>SBD-4</p></td>
@@ -327,7 +327,7 @@
 <tr class="even">
 <td><p>SBD-4</p></td>
 <td><p>06900</p></td>
-<td><p><a href="https://c1.staticflickr.com/5/4387/36779017993_70e02cedf5_b.jpg">写真</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:EM_DSC_2072_(2877684639).jpg" title="fig:EM_DSC_2072_(2877684639).jpg">EM_DSC_2072_(2877684639).jpg</a></p></td>
 <td><p>アメリカ合衆国カリフォルニア州サンディエゴ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サンディエゴ航空宇宙博物館" title="wikilink">サンディエゴ航空宇宙博物館</a><a href="http://sandiegoairandspace.org/">11</a></p></td>
 <td><p>公開</p></td>
@@ -349,7 +349,7 @@
 <td><p>10518<br />
 2478<br />
 N4864J</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_SBD-4_Dauntless_‘10518’_(N4864J)_(25903513660).jpg" title="fig:Douglas_SBD-4_Dauntless_‘10518’_(N4864J)_(25903513660).jpg">Douglas_SBD-4_Dauntless_‘10518’_(N4864J)_(25903513660).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_SBD-4_Dauntless_(N4864J)_(25984528260).jpg" title="fig:Douglas_SBD-4_Dauntless_(N4864J)_(25984528260).jpg">Douglas_SBD-4_Dauntless_(N4864J)_(25984528260).jpg</a></p></td>
 <td><p>アメリカ合衆国カリフォルニア州<a href="https://ja.wikipedia.org/wiki/チノ" title="wikilink">チノ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Yanks_Air_Museum" title="wikilink">ヤンクス航空博物館</a><a href="https://yanksair.com/">15</a></p></td>
 <td><p>公開</p></td>
@@ -358,10 +358,11 @@ N4864J</p></td>
 </tr>
 <tr class="odd">
 <td><p>SBD-4</p></td>
-<td><p>10575</p></td>
-<td><p><a href="http://4.bp.blogspot.com/-YcESNtY52W0/Uj4BdwgAmpI/AAAAAAAAI6o/8BeKO1VoP10/s1600/IMG_4539.JPG">写真</a></p></td>
+<td><p>10575<br />
+2565</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:MDW_10.JPG" title="fig:MDW_10.JPG">MDW_10.JPG</a></p></td>
 <td><p>アメリカ合衆国<a href="../Page/イリノイ州.md" title="wikilink">イリノイ州</a><a href="../Page/シカゴ.md" title="wikilink">シカゴ</a></p></td>
-<td><p>ミッドウェイ海戦記念館</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Midway_International_Airport" title="wikilink">シカゴ・ミッドウェイ国際空港</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="http://aerialvisuals.ca/LocationDossier.php?Serial=2377">18</a></p></td>
@@ -518,6 +519,36 @@ N93RW</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
 <td><p><a href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=93RW">37</a><a href="http://lsfm.org/aircraftstatus.html">38</a></p></td>
+</tr>
+<tr class="even">
+<td><p>レプリカ</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814497308).jpg" title="fig:PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814497308).jpg">PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814497308).jpg</a></p></td>
+<td><p>アメリカ カリフォルニア州</p></td>
+<td><p>プラウドバードレストラン(Proud Bird Restaurant)</p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p>第二次世界大戦時の航空機の精巧なレプリカを各種展示しているレストランにある。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

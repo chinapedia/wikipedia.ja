@@ -141,7 +141,7 @@
   - [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")\[16\]
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")\[17\]
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")\[18\]
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")\[19\]
+  - [福井放送](../Page/福井放送.md "wikilink")\[19\]
   - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")（1972年4月時点は、日曜 15:00 - 16:00に放送\[20\]）
   - [テレビ信州](../Page/テレビ信州.md "wikilink")（開局から1982年3月まで）\[21\]
   - [山口放送](../Page/山口放送.md "wikilink")\[22\]

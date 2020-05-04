@@ -5,7 +5,7 @@
 
 ## CD-ROM Mode1との違い
 
-CD-ROMは厳密には"CD-ROM Mode1"と呼ばれ、1ビットの誤りも許されないPCでの使用を念頭に置き、オーディオ用途の[CD-DA](../Page/CD-DA.md "wikilink")（オーディオCD）より高いエラー訂正機能を有する規格として策定された。エラー訂正機構としてはCD-DAに用いられた[CIRC](https://ja.wikipedia.org/wiki/CIRC "wikilink")に加え、[EDC](https://ja.wikipedia.org/wiki/EDC "wikilink")や[ECCが追加された](../Page/誤り検出訂正.md "wikilink")。
+CD-ROMは厳密には"CD-ROM Mode1"と呼ばれ、1ビットの誤りも許されないPCでの使用を念頭に置き、オーディオ用途の[CD-DA](../Page/CD-DA.md "wikilink")（オーディオCD）より高いエラー訂正機能を有する規格として策定された。エラー訂正機構としてはCD-DAに用いられた[CIRC](../Page/CIRC.md "wikilink")に加え、[EDC](https://ja.wikipedia.org/wiki/EDC "wikilink")や[ECCが追加された](../Page/誤り検出訂正.md "wikilink")。
 
 一方、CD-ROM Mode2は当初からマルチメディアデータを記録するフォーマットとして、CD-ROM Mode1とともに規格書であるイエローブックで定められているが、Mode1とMode2は同じディスク内に混在できないというイエローブックの規定が存在する。
 

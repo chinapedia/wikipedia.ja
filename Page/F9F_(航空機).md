@@ -1,15 +1,25 @@
 > この記事は[F9F \(航空機\)](https://ja.wikipedia.org/wiki/F9F_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=F9F パンサー / クーガー | 画像=<File:F9F> Panther.jpg | キャプション=F9F パンサー | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")、[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink") | 設計者= | 製造者=[グラマン](../Page/グラマン.md "wikilink")社 | 運用者= | 運用者 more=
+{{ Infobox 航空機 | 名称 = F9F / F-9 パンサー | 画像 = <File:Grumman> F9F-2 Panther in flight c1949.jpg | キャプション = 飛行するF9F-2 122567号機
+([1949年](../Page/1949年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink")、[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")、[練習機](../Page/練習機.md "wikilink")、[標的機](https://ja.wikipedia.org/wiki/標的機 "wikilink") | 分類 = [艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink") | 設計者 = [ロバート・L・ホール](https://ja.wikipedia.org/wiki/:en:Robert_Hall_\(aircraft_designer\) "wikilink") | 製造者=[グラマン](../Page/グラマン.md "wikilink")航空機エンジニアリング社 | 運用者 more =
 
-  -   - （[海軍](../Page/アメリカ海軍.md "wikilink")、[海兵隊](../Page/アメリカ海兵隊.md "wikilink")）
+  -   -   -
+          - [Seal_of_the_United_States_Marine_Corps.svg](https://ja.wikipedia.org/wiki/File:Seal_of_the_United_States_Marine_Corps.svg "fig:Seal_of_the_United_States_Marine_Corps.svg") [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")
 
-      - （[アルゼンチン海軍](https://ja.wikipedia.org/wiki/アルゼンチン海軍 "wikilink")）
+      -
+| 初飛行年月日 = [1947年](../Page/1947年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink") | 生産数 = 1,382機 | 生産開始年月日 = | 運用開始年月日 = | 退役年月日 more =
 
-| 初飛行年月日=[1947年](../Page/1947年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日=[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[9月20日](../Page/9月20日.md "wikilink") | 退役年月日=[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（アルゼンチン） | 運用状況=退役 | ユニットコスト= }} **F9F パンサー / クーガー**（*Grumman F9F Panther / Cougar*）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が初めて採用し、使用した[グラマン](../Page/グラマン.md "wikilink")社製の[艦上](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。
+  -   - [1958年](../Page/1958年.md "wikilink")（アメリカ海軍）
+      - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（アルゼンチン海軍）
 
-機体は[ワイルドキャット以来のグラマン社製品らしく頑丈で実用性に重点を置き](../Page/F4F_\(航空機\).md "wikilink")、円形断面の太く短い胴体に直線翼を組み合わせた手堅い設計となっていた。直線翼のF9F-2、F9F-5と、後退翼を持つ改良型のF9F-6、F9F-7、F9F-8が存在する。
+| 運用状況 = 退役 | ユニットコスト = 105,793[米ドル](../Page/アメリカ合衆国ドル.md "wikilink")（1955年、F9F-2） }}
+
+**F9F**（*Grumman F9F* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[グラマン](../Page/グラマン.md "wikilink")社が開発し、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")などで運用された[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。[1962年](../Page/1962年.md "wikilink")の命名規則変更により、一部のパンサーと大部分のクーガーは**F9F**から**F-9**となった。
+
+**F9F / F-9 パンサー**（*F9F / F-9 Panther* ）は、F9Fのうち前期の艦上[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。グラマン社が製造した機体としては初、アメリカ海軍の採用機としては[FH](../Page/FH_\(航空機\).md "wikilink")、[F2H / F-2に続く](../Page/F2H_\(航空機\).md "wikilink")3番目のジェット機。[F4Fワイルドキャット以来のグラマン社製品](../Page/F4F_\(航空機\).md "wikilink")「猫戦闘機」らしく頑丈で生産性に重点が置かれ、円形断面の太く短い胴体に直線翼を組み合わせた手堅い設計となっている。愛称の「**[パンサー](../Page/パンサー.md "wikilink")** (Panther)」は、アメリカの用法で[ピューマ](../Page/ピューマ.md "wikilink")を意味する。
+
+**F9F / F-9 クーガー**（*F9F / F-9 Cougar* ）は、F9Fのうち後期の艦上ジェット戦闘機である。主翼の後退翼化などの変更により総合的に性能が向上したことから、[F3H / F-3と共に](../Page/F3H_\(航空機\).md "wikilink")1960年代のアメリカ海軍航空部隊における戦力となった。愛称の「**クーガー** (Cougar)」は、より限定的にピューマを意味する。
 
 ## F9F パンサー
 
@@ -359,65 +369,42 @@
 <tbody>
 <tr class="odd">
 <td><p>F9F-2</p></td>
-<td><p>123054<br />
-K.69</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-2_Panther_(123054)_(26278706185).jpg" title="fig:Grumman_F9F-2_Panther_(123054)_(26278706185).jpg">Grumman_F9F-2_Panther_(123054)_(26278706185).jpg</a></p></td>
-<td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Yanks_Air_Museum" title="wikilink">ヤンクス航空博物館</a><a href="https://yanksair.org/">1</a></p></td>
-<td><p>公開</p></td>
-<td><p>保管中</p></td>
-<td><p><a href="https://yanksair.org/collection/grumman-g-79-panther-f9f-2/">2</a></p></td>
-</tr>
-<tr class="even">
-<td><p>F9F-2</p></td>
-<td><p>123092</p></td>
-<td></td>
-<td><p>アメリカ ロード島</p></td>
-<td><p><a href="../Page/ジョン・F・ケネディ_(空母・初代).md" title="wikilink">空母ジョン・F・ケネディ博物館</a><a href="https://www.ussjfkri.org/">3</a></p></td>
-<td><p>非公開</p></td>
-<td><p>保管中</p></td>
-<td><p><a href="https://www.ussjfkri.org/tag/panther-f9f/">4</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>F9F-2B</p></td>
-<td><p>不明<br />
-0421</p></td>
-<td><p><a href="http://4.bp.blogspot.com/-UbqXLylgHGo/UKhOgfxUSsI/AAAAAAAAAcE/A7513d1DBb8/s1600/Foto+02.JPG">写真</a></p></td>
-<td><p>アルゼンチン ブエノスアイレス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Puerto_Belgrano_Naval_Base" title="wikilink">プエルト・ベルグラーノ海軍基地</a></p></td>
-<td><p>公開</p></td>
-<td><p>静態展示</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>F9F-2B</p></td>
-<td><p>不明<br />
-0425<br />
-665</p></td>
-<td><p><a href="https://cdn.jetphotos.com/full/2/66566_1295461568.jpg">写真</a></p></td>
-<td><p>アルゼンチン ブエノスアイレス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:es:Museo_de_la_Aviación_Naval_Argentina" title="wikilink">海軍航空博物館</a><a href="https://museoaeronaval.wixsite.com/">5</a></p></td>
-<td><p>公開</p></td>
-<td><p>静態展示</p></td>
-<td><p><a href="https://museoaeronaval.wixsite.com/muan/grumman-f9f-2b-panther-3-a-106">6</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>F9F-2</p></td>
 <td><p>123050<br />
 K.65</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:NavalAirMuseum_4-30-17-2804_(33647327173).jpg" title="fig:NavalAirMuseum_4-30-17-2804_(33647327173).jpg">NavalAirMuseum_4-30-17-2804_(33647327173).jpg</a></p></td>
 <td><p>アメリカ フロリダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a><a href="https://www.navalaviationmuseum.org/">7</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a><a href="https://www.navalaviationmuseum.org/">1</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.navalaviationmuseum.org/aircraft/f9f-2-panther/">8</a></p></td>
+<td><p><a href="https://www.navalaviationmuseum.org/aircraft/f9f-2-panther/">2</a></p></td>
+</tr>
+<tr class="even">
+<td><p>F9F-2</p></td>
+<td><p>123054<br />
+K.69</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-2_Panther_(123054)_(26278706185).jpg" title="fig:Grumman_F9F-2_Panther_(123054)_(26278706185).jpg">Grumman_F9F-2_Panther_(123054)_(26278706185).jpg</a></p></td>
+<td><p>アメリカ カリフォルニア州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Yanks_Air_Museum" title="wikilink">ヤンクス航空博物館</a><a href="https://yanksair.org/">3</a></p></td>
+<td><p>公開</p></td>
+<td><p>保管中</p></td>
+<td><p><a href="https://yanksair.org/collection/grumman-g-79-panther-f9f-2/">4</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>F9F-2</p></td>
+<td><p>123092</p></td>
+<td></td>
+<td><p>アメリカ ロードアイランド州</p></td>
+<td><p><a href="../Page/ジョン・F・ケネディ_(空母・初代).md" title="wikilink">空母ジョン・F・ケネディ博物館プロジェクト本部</a><a href="https://www.ussjfkri.org/">5</a></p></td>
+<td><p>非公開</p></td>
+<td><p>保管中</p></td>
+<td><p><a href="https://www.ussjfkri.org/tag/panther-f9f/">6</a></p></td>
 </tr>
 <tr class="even">
 <td><p>F9F-2</p></td>
 <td><p>123557</p></td>
 <td><p><a href="https://live.staticflickr.com/4417/36313996611_200d1a09a1_o.jpg">写真</a></p></td>
 <td><p>アメリカ ウィスコンシン州</p></td>
-<td><p>VFW Post 1621<a href="https://vfw1621.org/di/vfw/v2/default.asp">9</a></p></td>
+<td><p>VFW Post 1621<a href="https://vfw1621.org/di/vfw/v2/default.asp">7</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -435,52 +422,73 @@ K.65</p></td>
 <tr class="even">
 <td><p>F9F-2</p></td>
 <td><p>123652</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-2_Panther_123652_VMF-311_(15419415129).jpg" title="fig:Grumman_F9F-2_Panther_123652_VMF-311_(15419415129).jpg">Grumman_F9F-2_Panther_123652_VMF-311_(15419415129).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-2_Panther_123652_VMF-311_(14985328394).jpg" title="fig:Grumman_F9F-2_Panther_123652_VMF-311_(14985328394).jpg">Grumman_F9F-2_Panther_123652_VMF-311_(14985328394).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flying_Leatherneck_Aviation_Museum" title="wikilink">飛行海兵航空博物館</a><a href="https://flyingleathernecks.org/">10</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flying_Leatherneck_Aviation_Museum" title="wikilink">飛行海兵航空博物館</a><a href="https://flyingleathernecks.org/">8</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://flyingleathernecks.org/project/grumman-f9f-2-panther/">11</a></p></td>
+<td><p><a href="https://flyingleathernecks.org/project/grumman-f9f-2-panther/">9</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>F9F-2</p></td>
 <td><p>125155</p></td>
 <td></td>
 <td><p>アメリカ コネティカット州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:New_England_Air_Museum" title="wikilink">ニューイングランド航空博物館</a><a href="https://www.neam.org/">12</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:New_England_Air_Museum" title="wikilink">ニューイングランド航空博物館</a><a href="https://www.neam.org/">10</a></p></td>
 <td><p>非公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://www.neam.org/aircraft-collection.php">13</a></p></td>
+<td><p><a href="https://www.neam.org/aircraft-collection.php">11</a></p></td>
 </tr>
 <tr class="even">
 <td><p>F9F-2</p></td>
 <td><p>125183</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:125183_GRUMMAN_F9F-4_PANTHER_(14056419753).jpg" title="fig:125183_GRUMMAN_F9F-4_PANTHER_(14056419753).jpg">125183_GRUMMAN_F9F-4_PANTHER_(14056419753).jpg</a></p></td>
 <td><p>アメリカ アリゾナ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="http://www.pimaair.org/">14</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="http://www.pimaair.org/">12</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://www.pimaair.org/aircraft-by-name/item/grumman-f9f-4-panther">15</a></p></td>
+<td><p><a href="http://www.pimaair.org/aircraft-by-name/item/grumman-f9f-4-panther">13</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>F9F-2</p></td>
 <td><p>127120</p></td>
 <td><p><a href="https://live.staticflickr.com/5595/31004834010_3d63b4d383_o.jpg">写真</a></p></td>
 <td><p>アメリカ ペンシルヴェニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Wings_of_Freedom_Aviation_Museum" title="wikilink">ウィングス・オブ・フリーダム航空博物館</a><a href="https://wingsoffreedommuseum.org/">16</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Wings_of_Freedom_Aviation_Museum" title="wikilink">ウィングス・オブ・フリーダム航空博物館</a><a href="https://wingsoffreedommuseum.org/">14</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://wingsoffreedommuseum.org/wp/aircraft/grumman-f9f-2-panther/">17</a></p></td>
+<td><p><a href="https://wingsoffreedommuseum.org/wp/aircraft/grumman-f9f-2-panther/">15</a></p></td>
+</tr>
+<tr class="even">
+<td><p>F9F-2</p></td>
+<td><p>不明</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Victorious_Fatherland_Liberation_War_Museum_(15632166156).jpg" title="fig:Victorious_Fatherland_Liberation_War_Museum_(15632166156).jpg">Victorious_Fatherland_Liberation_War_Museum_(15632166156).jpg</a></p></td>
+<td><p>北朝鮮 平壌直轄市</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/祖国解放戦争勝利記念館" title="wikilink">祖国解放戦争勝利記念館</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>F9F-2B</p></td>
+<td><p>不明<br />
+0421</p></td>
+<td><p><a href="http://4.bp.blogspot.com/-UbqXLylgHGo/UKhOgfxUSsI/AAAAAAAAAcE/A7513d1DBb8/s1600/Foto+02.JPG">写真</a></p></td>
+<td><p>アルゼンチン ブエノスアイレス州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Puerto_Belgrano_Naval_Base" title="wikilink">プエルト・ベルグラーノ海軍基地</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>F9F-2B</p></td>
 <td><p>123078</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Addison,_TX,_USA_-_panoramio_(5).jpg" title="fig:Addison,_TX,_USA_-_panoramio_(5).jpg">Addison,_TX,_USA_-_panoramio_(5).jpg</a></p></td>
 <td><p>アメリカ テキサス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Cavanaugh_Flight_Museum" title="wikilink">キャヴァナー飛行博物館</a><a href="https://cavflight.org/">18</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Cavanaugh_Flight_Museum" title="wikilink">キャヴァナー飛行博物館</a><a href="https://cavflight.org/">16</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://cavflight.org/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=119#Grumman%20F9F-2B%20Panther">19</a></p></td>
+<td><p><a href="https://cavflight.org/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=119#Grumman%20F9F-2B%20Panther">17</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>F9F-2B</p></td>
@@ -488,7 +496,7 @@ K.65</p></td>
 K.125</p></td>
 <td></td>
 <td><p>アメリカ フロリダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Fantasy_of_Flight" title="wikilink">ファンタジー・オブ・フライト</a><a href="https://www.fantasyofflight.com/collection/">20</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Fantasy_of_Flight" title="wikilink">ファンタジー・オブ・フライト</a><a href="https://www.fantasyofflight.com/collection/">18</a></p></td>
 <td><p>非公開</p></td>
 <td><p>保管中</p></td>
 <td></td>
@@ -498,10 +506,10 @@ K.125</p></td>
 <td><p>123526</p></td>
 <td><p><a href="https://live.staticflickr.com/7231/7373247498_3bf270186c_o.jpg">写真</a></p></td>
 <td><p>アメリカ ヴァージニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:National_Museum_of_the_Marine_Corps" title="wikilink">国立海兵隊博物館</a><a href="https://www.usmcmuseum.com/">21</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:National_Museum_of_the_Marine_Corps" title="wikilink">国立海兵隊博物館</a><a href="https://www.usmcmuseum.com/">19</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.usmcmuseum.com/iconic-artifacts.html">22</a></p></td>
+<td><p><a href="https://www.usmcmuseum.com/iconic-artifacts.html">20</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>F9F-2B</p></td>
@@ -518,15 +526,27 @@ K.125</p></td>
 <td><p>F9F-2B</p></td>
 <td><p>127206<br />
 0453<br />
-664</p></td>
+K.664</p></td>
 <td><p><a href="https://imgproc.airliners.net/photos/airliners/0/9/6/1858690.jpg?v=v40">写真</a></p></td>
 <td><p>アルゼンチン ブエノスアイレス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:es:Museo_Naval_de_la_Nación" title="wikilink">国立海軍博物館</a><a href="http://gacetaeronautica.es/">23</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:es:Museo_Naval_de_la_Nación" title="wikilink">国立海軍博物館</a><a href="http://gacetaeronautica.es/">21</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://gacetaeronautica.es/articulos/2010/012tigre/index.htm">24</a></p></td>
+<td><p><a href="http://gacetaeronautica.es/articulos/2010/012tigre/index.htm">22</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>F9F-2B</p></td>
+<td><p>127207<br />
+0425<br />
+K.665</p></td>
+<td><p><a href="https://cdn.jetphotos.com/full/2/66566_1295461568.jpg">写真</a></p></td>
+<td><p>アルゼンチン ブエノスアイレス州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:es:Museo_de_la_Aviación_Naval_Argentina" title="wikilink">海軍航空博物館</a><a href="https://museoaeronaval.wixsite.com/">23</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://museoaeronaval.wixsite.com/muan/grumman-f9f-2b-panther-3-a-106">24</a></p></td>
+</tr>
+<tr class="even">
 <td><p>F9F-4</p></td>
 <td><p>125180</p></td>
 <td><p><a href="https://s3-media2.fl.yelpcdn.com/bphoto/1e1x24weUz5J5i3alXOHgw/o.jpg">写真</a></p></td>
@@ -537,7 +557,7 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>F9F-5</p></td>
 <td><p>125295</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-5_Panther_BuNo_125295_and_Douglas_TA-4J_Skyhawk_Blue_Angels_LSides_close_TICO_13March2010_(14619522743).jpg" title="fig:Grumman_F9F-5_Panther_BuNo_125295_and_Douglas_TA-4J_Skyhawk_Blue_Angels_LSides_close_TICO_13March2010_(14619522743).jpg">Grumman_F9F-5_Panther_BuNo_125295_and_Douglas_TA-4J_Skyhawk_Blue_Angels_LSides_close_TICO_13March2010_(14619522743).jpg</a></p></td>
@@ -547,7 +567,7 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://www.valiantaircommand.com/flyingcollection">26</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>F9F-5</p></td>
 <td><p>125434</p></td>
 <td><p><a href="https://cdn.turkaramamotoru.com/en/grumman-f9f-panther-6933.jpg">写真</a></p></td>
@@ -558,7 +578,7 @@ K.125</p></td>
 <td><p>保管中</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>F9F-5</p></td>
 <td><p>125992</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-5_Panther_-_US_Navy_Blue_Angels_(26311678539).jpg" title="fig:Grumman_F9F-5_Panther_-_US_Navy_Blue_Angels_(26311678539).jpg">Grumman_F9F-5_Panther_-_US_Navy_Blue_Angels_(26311678539).jpg</a></p></td>
@@ -568,7 +588,7 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td><p>ブルーエンジェルスの塗装で展示されている。<a href="http://new.aviationheritagepark.com/grumman-panther-f9f/">28</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>F9F-5</p></td>
 <td><p>126226</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Williamsport,_KS,_USA_-_panoramio_(7).jpg" title="fig:Williamsport,_KS,_USA_-_panoramio_(7).jpg">Williamsport,_KS,_USA_-_panoramio_(7).jpg</a></p></td>
@@ -578,7 +598,7 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://www.combatairmuseum.org/aircraft/grummanf9fpanther.html">30</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>F9F-5</p></td>
 <td><p>126668</p></td>
 <td></td>
@@ -589,7 +609,7 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>F9F-5</p></td>
 <td><p>不明</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F_Panther_(2879184252).jpg" title="fig:Grumman_F9F_Panther_(2879184252).jpg">Grumman_F9F_Panther_(2879184252).jpg</a></p></td>
@@ -599,7 +619,7 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td><p>141136と塗装されているが、この番号はF9F-8に当たる番号であり正しいものではない。<a href="https://www.midway.org/exhibits-activities/exhibits/aircraft-gallery/jet-airplanes/f9f-panther/">32</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>F9F-5P</p></td>
 <td><p>125316</p></td>
 <td><p><a href="https://live.staticflickr.com/8853/28538964852_1bd783e70b_o.jpg">写真</a></p></td>
@@ -609,7 +629,7 @@ K.125</p></td>
 <td><p>保管中</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>F9F-5P</p></td>
 <td><p>126275</p></td>
 <td><p><a href="https://live.staticflickr.com/4041/35262776830_673a7d7722_o.jpg">写真</a></p></td>
@@ -619,25 +639,15 @@ K.125</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://www.ussalabama.com/explore/aircraft/">35</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>F9F-5P</p></td>
 <td><p>126277</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-5P_Panther,_USA_-_Marines_AN1539493.jpg" title="fig:Grumman_F9F-5P_Panther,_USA_-_Marines_AN1539493.jpg">Grumman_F9F-5P_Panther,_USA_-_Marines_AN1539493.jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-5P_-_F9F-5KD_-_DF-9E_Panther_‘FU-834’_(8_-_Marines_-_VMCJ-3_-_TN)_(28924740351).jpg" title="fig:Grumman_F9F-5P_-_F9F-5KD_-_DF-9E_Panther_‘FU-834’_(8_-_Marines_-_VMCJ-3_-_TN)_(28924740351).jpg">Grumman_F9F-5P_-_F9F-5KD_-_DF-9E_Panther_‘FU-834’_(8_-_Marines_-_VMCJ-3_-_TN)_(28924740351).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プレーンズ・オブ・フェイム航空博物館" title="wikilink">プレーンズ・オブ・フェイム航空博物館</a><a href="https://planesoffame.org/">36</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://planesoffame.org/aircrafts/page/3/21/47">37</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>F9F-?</p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Victorious_Fatherland_Liberation_War_Museum_(15632166156).jpg" title="fig:Victorious_Fatherland_Liberation_War_Museum_(15632166156).jpg">Victorious_Fatherland_Liberation_War_Museum_(15632166156).jpg</a></p></td>
-<td><p>北朝鮮 平壌直轄市</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/祖国解放戦争勝利記念館" title="wikilink">祖国解放戦争勝利記念館</a></p></td>
-<td><p>公開</p></td>
-<td><p>静態展示</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -739,7 +749,7 @@ RF-9F</p></td>
 <td><p>F9F-6P<br />
 RF-9F</p></td>
 <td><p>不明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Memorial_Photo_1.jpg" title="fig:Memorial_Photo_1.jpg">Memorial_Photo_1.jpg</a></p></td>
+<td><p><a href="https://img.buffalonews.com/eyJidWNrZXQiOiJibmNvcmUiLCJrZXkiOiJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE2XC8wNlwvMzcxNzU2LmpwZyIsImVkaXRzIjp7InRvRm9ybWF0Ijoid2VicCIsIm1heCI6IiIsInJlc2l6ZSI6eyJ3aWR0aCI6NjYwLCJoZWlnaHQiOjQyMCwiZml0IjoiY292ZXIifX19">写真</a></p></td>
 <td><p>アメリカ ニューヨーク州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Town_of_Tonawanda_Veterans_Memorial" title="wikilink">トナワンダ町退役軍人記念館</a><a href="https://www.tonawanda.ny.us/departments/youth-parks-recreation/town-facilities/veterans-memorial/113-veterans-memorial.html">43</a></p></td>
 <td><p>公開</p></td>
@@ -750,7 +760,7 @@ RF-9F</p></td>
 <td><p>F9F-7<br />
 F-9H</p></td>
 <td><p>130763</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F_Cougar.JPG" title="fig:Grumman_F9F_Cougar.JPG">Grumman_F9F_Cougar.JPG</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_F9F-7_Cougar_at_the_Cradle_of_Aviation_Museum_on_29_August_2017.png" title="fig:Grumman_F9F-7_Cougar_at_the_Cradle_of_Aviation_Museum_on_29_August_2017.png">Grumman_F9F-7_Cougar_at_the_Cradle_of_Aviation_Museum_on_29_August_2017.png</a></p></td>
 <td><p>アメリカ ニューヨーク州</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cradle_of_Aviation_Museum" title="wikilink">航空発祥地博物館</a><a href="https://www.cradleofaviation.org/">44</a></p></td>
 <td><p>公開</p></td>
@@ -927,7 +937,7 @@ RF-9J</p></td>
 <td><p>144388</p></td>
 <td><p><a href="https://farm5.staticflickr.com/4235/34219622084_a1466dc988_b.jpg">写真</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Estrella_Warbird_Museum" title="wikilink">エストレラ・ウォーバード・ミュージアム</a><a href="https://www.ewarbirds.org/">67</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Estrella_Warbird_Museum" title="wikilink">エストレラ・ウォーバード博物館</a><a href="https://www.ewarbirds.org/">67</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://www.ewarbirds.org/aircraft/f9f8p.shtml">68</a></p></td>

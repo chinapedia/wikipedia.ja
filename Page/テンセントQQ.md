@@ -1,17 +1,15 @@
 > この記事は[テンセントQQ](https://ja.wikipedia.org/wiki/テンセントQQ)から翻訳されています。
 
 
-**テンセントQQ**（テンセントキューキュー、、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")読み：タンシュンキューキュー、）は、[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink") (IM) ソフトの一種。[中国の](../Page/中華人民共和国.md "wikilink")[テンセント](https://ja.wikipedia.org/wiki/テンセント "wikilink")が無償提供/運営している。一般には単にQQと略されている。
+**テンセントQQ**（テンセントキューキュー、(読み：タンシュンキューキュー)、）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[テンセント](https://ja.wikipedia.org/wiki/テンセント "wikilink")が提供・運営する[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")(IM)ソフト。一般には単にQQと略されている。
 
-中国本土において最も普及しているコミュニケーションツールであり、とくに若者の間で支持され、携帯やメールと同じ感覚で使用されている。一般家庭だけでなく、ネットカフェ、勤務先、学校などの公衆用のパソコンにもよくインストールされている。
+中国本土において最も普及しているコミュニケーションツールであり、特に若者の間で支持され携帯やメールと同じ感覚で使用されている。一般家庭だけでなく、ネットカフェ・勤務先・学校などの公衆用のパソコンにもよく導入されている。
 
 ## 名称
 
 「テンセントキューキュー」の前の名前は「OICQ (OPEN-ICQ)」。
 
-OPEN ICQはその名前に反し実際には、ソースコードを公開しなかった。
-
-[ICQ](../Page/ICQ.md "wikilink")から名称に関する告訴を恐れ、また当時の多くのユーザは'キューキュー'という愛称で呼んでいた事から、「QQ」に改名。
+OPEN ICQはその名前に反し実際には、ソースコードを公開しなかった。[ICQ](../Page/ICQ.md "wikilink")から名称に関する告訴を恐れ、また当時の多くのユーザは'キューキュー'という愛称で呼んでいた事から、「QQ」に改名。
 
 ## 沿革
 
@@ -50,13 +48,16 @@ QQには、IMとしての機能の他にも様々な機能が付いている。
 
 ## 脚注
 
+## 参考文献
+
+  - [WebQQ2.0 - 騰訊官方為您打造的一站式網絡服務](http://web2.qq.com/)
+  - [Tencent 騰訊](https://www.tencent.com/zh-cn/index.html)
+  - [QQ関連日本語記事](http://blog.livedoor.jp/osschina/search?q=QQ)
+
 ## 外部リンク
 
   - [騰訊首頁](https://www.qq.com/)
   - [QQ日本版](http://www.imqq.jp/)
-  - [WebQQ2.0 - 騰訊官方為您打造的一站式網絡服務](http://web2.qq.com/)
-  - [Tencent 騰訊](https://www.tencent.com/zh-cn/index.html)
-  - [QQ関連日本語記事](http://blog.livedoor.jp/osschina/search?q=QQ)
 
 [Category:テンセント](https://ja.wikipedia.org/wiki/Category:テンセント "wikilink") [Category:インスタントメッセンジャー](https://ja.wikipedia.org/wiki/Category:インスタントメッセンジャー "wikilink") [Category:中国のウェブサイト](https://ja.wikipedia.org/wiki/Category:中国のウェブサイト "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink") [Category:Androidのソフトウェア](https://ja.wikipedia.org/wiki/Category:Androidのソフトウェア "wikilink")
 

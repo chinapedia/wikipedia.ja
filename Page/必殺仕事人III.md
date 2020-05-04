@@ -443,7 +443,7 @@
 
 :\* 富三郎 - [黒部進](../Page/黒部進.md "wikilink")
 
-:\* 清太 - 岡高広
+:\* 清太 - 岡高宏
 
 :\* 伝五郎 - [須永克彦](https://ja.wikipedia.org/wiki/須永克彦 "wikilink")
 
@@ -963,7 +963,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>

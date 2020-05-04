@@ -72,7 +72,7 @@
   - [山口放送](../Page/山口放送.md "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")☆
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - 2007年3月30日をもって打ち切り、『[走れ\!歌謡曲](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")』に移行したが、**ネット打ち切りの告知はされなかった**。
+  - [福井放送](../Page/福井放送.md "wikilink") - 2007年3月30日をもって打ち切り、『[走れ\!歌謡曲](../Page/日野ミッドナイトグラフィティ_走れ!歌謡曲.md "wikilink")』に移行したが、**ネット打ち切りの告知はされなかった**。
 
 <!-- end list -->
 

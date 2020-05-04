@@ -193,7 +193,7 @@ PFI方式で開業した全国初の病院「[高知医療センター](https://
   - [赤羽貴](https://ja.wikipedia.org/wiki/赤羽貴 "wikilink")
   - [江口直明](https://ja.wikipedia.org/wiki/江口直明 "wikilink")
   - [佐藤長英](https://ja.wikipedia.org/wiki/佐藤長英 "wikilink")
-  - [中曽根康弘](https://ja.wikipedia.org/wiki/中曽根康弘 "wikilink")
+  - [中曽根康弘](../Page/中曽根康弘.md "wikilink")
   - [樋口孝夫](https://ja.wikipedia.org/wiki/樋口孝夫 "wikilink")
   - [前田博](https://ja.wikipedia.org/wiki/前田博 "wikilink")
 

@@ -39,7 +39,7 @@
 
 ## 外部リンク
 
-[ＮＩＮＴＥＮＤＯパズルコレクション](http://www.nintendo.co.jp/ngc/gpzj/)
+[NINTENDOパズルコレクション](https://www.nintendo.co.jp/ngc/gpzj/)
 
 [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:任天堂のオムニバスゲーム](https://ja.wikipedia.org/wiki/Category:任天堂のオムニバスゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink")
 

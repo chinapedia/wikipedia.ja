@@ -511,7 +511,7 @@
   - [POP JAM](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（NHK総合）
   - [MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（テレビ朝日）
   - [MUSIC STATION SUPER LIVE 2005](../Page/ミュージックステーションスーパーライブ.md "wikilink")（2005年12月23日、テレビ朝日）
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（フジテレビ）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（フジテレビ）
   - [魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")（フジテレビ）
   - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（日本テレビ）
   - [THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")（2008年4月29日、日本テレビ）

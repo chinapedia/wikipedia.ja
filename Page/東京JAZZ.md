@@ -11,7 +11,9 @@
 
 アジア最大級のJAZZイベントという事もあり、多くのナショナル[クライアントがスポンサーに名を連ねる](https://ja.wikipedia.org/wiki/クライアント_\(広告\) "wikilink")。
 
-2020年は、新型コロナウイルス感染拡大防止のため中止となった。\[1\]
+  - 2020年
+      - 4月14日（火）：新型コロナウイルス感染拡大防止のため中止が発表された。\[1\]
+      - 4月24日（金）：『TOKYO JAZZ+plus LIVE STREAM』として、５月23日（土）24日（日）に、オンライン配信されることが発表された。\[2\]
 
 ## 参加アーティスト
 
@@ -102,7 +104,7 @@
 ### 2006年
 
   - [チック・コリア](../Page/チック・コリア.md "wikilink")
-  - [ザ・グレイト・ジャズ・トリオ](../Page/グレート・ジャズ・トリオ.md "wikilink") by [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")
+  - [ザ・グレイト・ジャズ・トリオ](https://ja.wikipedia.org/wiki/グレイト・ジャズ・トリオ "wikilink") by [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")
   - [ジョン・パティトゥッチ](../Page/ジョン・パティトゥッチ.md "wikilink")
   - [オマー・ハキム](../Page/オマー・ハキム.md "wikilink")
   - [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")
@@ -160,7 +162,7 @@
   - [jammin'Zeb](https://ja.wikipedia.org/wiki/jammin'Zeb "wikilink")
   - [上原ひろみ](https://ja.wikipedia.org/wiki/上原ひろみ "wikilink")
   - [熊谷和徳](https://ja.wikipedia.org/wiki/熊谷和徳 "wikilink")
-  - [ザ・グレイト・ジャズ・トリオ](../Page/グレート・ジャズ・トリオ.md "wikilink")
+  - [ザ・グレイト・ジャズ・トリオ](https://ja.wikipedia.org/wiki/グレイト・ジャズ・トリオ "wikilink")
   - [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")＆[ロン・カーター](../Page/ロン・カーター.md "wikilink")＆[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
 
 <!-- end list -->
@@ -308,7 +310,7 @@
         （p）、ルイ・アドリアン・ロペス・ヌッサ（ds）、アルネ・ワデ（b, vo）
   - 渡辺貞夫 BEBOP NIGHT featuring ウォレス・ルーニー、ビリー・チャイルズ、ジェフ“テイン”ワッツ、ベン・ウィリアムス
       -
-        [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")（sax）、[ウォレス・ルーニー](https://ja.wikipedia.org/wiki/ウォレス・ルーニー "wikilink") (tp)、[ビリー・チャイルズ](https://ja.wikipedia.org/wiki/ビリー・チャイルズ "wikilink") (p)、 (ds)、 (b)
+        [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")（sax）、[ウォレス・ルーニー](../Page/ウォレス・ルーニー.md "wikilink") (tp)、[ビリー・チャイルズ](https://ja.wikipedia.org/wiki/ビリー・チャイルズ "wikilink") (p)、 (ds)、 (b)
 
 ＜9月4日（日）＞
 
@@ -422,3 +424,4 @@
 [Category:日本のジャズフェスティバル](https://ja.wikipedia.org/wiki/Category:日本のジャズフェスティバル "wikilink") [Category:東京都の音楽](https://ja.wikipedia.org/wiki/Category:東京都の音楽 "wikilink") [Category:NHKのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:NHKのイベント・キャンペーン "wikilink") [Category:日本経済新聞社](https://ja.wikipedia.org/wiki/Category:日本経済新聞社 "wikilink")
 
 1.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)
+2.  [TOKYO JAZZ ＋plus LIVE STREAM 開催！](https://tokyo-jazz.com/news/195/)

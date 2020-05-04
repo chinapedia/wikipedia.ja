@@ -27,17 +27,17 @@
 
   - [オリコン調べによると](../Page/オリコンチャート.md "wikilink")、1997年のシングルおよび、自身のシングルで最高初動(82.8万枚)。
   - 登場7週目で[ダブルミリオン](https://ja.wikipedia.org/wiki/ダブルミリオン "wikilink")を達成している。
-  - [HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・3週連続（97/03/03〜03/17・\#104〜106）1位。
+  - [HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・3週連続（97/03/03〜03/17・\#104〜106）1位。
   - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でもシングルが発売され、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")国内の総合チャートで5位を記録した。20万枚（人口比からすると日本の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に匹敵する）を超える大ヒット。
-  - HEY\!HEY\!HEY\!MUSIC CHAMP1994〜1997アーティスト別パーフェクトランキング2位。
-  - HEY\!HEY\!HEY\!MUSIC CHAMP97年上半期・邦楽パーフェクトランキング2位。
-  - HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）15位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMP1994〜1997アーティスト別パーフェクトランキング2位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMP97年上半期・邦楽パーフェクトランキング2位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）15位。
   - 1997オリコン年間シングルチャート・年間[カラオケ](../Page/カラオケ.md "wikilink")リクエスト回数ともに1位。
   - 1997オリコン年間アーティストセールス4位。
   - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink")1997年間総合ランキング1位。
   - [第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")での、歌手別瞬間最高[視聴率](../Page/視聴率.md "wikilink")は59.1%で1位（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）。
-  - HEY\!HEY\!HEY\!MUSIC CHAMP'97年間パーフェクトランキング1位。
-  - HEY\!HEY\!HEY\!MUSIC CHAMP98年上半期パーフェクトランキング46位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMP'97年間パーフェクトランキング1位。
+  - HEY\!HEY\!HEY\! MUSIC CHAMP98年上半期パーフェクトランキング46位。
   - 1998オリコン年間シングルチャート54位（マキシ盤）。
   - 1998オリコン年間カラオケリクエスト回数7位。
   - 1998オリコン年間アーティストセールス13位。

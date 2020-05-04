@@ -173,9 +173,9 @@
 | -------------------------------- | --------------------------------------------- | -------------- |
 | [沖縄県](../Page/沖縄県.md "wikilink") | [エフエム沖縄](../Page/エフエム沖縄.md "wikilink")（FM沖縄）★ | 現在放送していない\[8\] |
 
-## テーマソング
+## エンディングテーマ
 
-  - エンディングテーマ「[Next Generation](https://ja.wikipedia.org/wiki/オレじゃなきゃ、キミじゃなきゃ#収録曲 "wikilink")」 / 20th Century
+  - 20th Century「[Next Generation](https://ja.wikipedia.org/wiki/オレじゃなきゃ、キミじゃなきゃ#収録曲 "wikilink")」
 
 ## 公開録音
 

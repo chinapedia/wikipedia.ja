@@ -1,13 +1,13 @@
 > この記事は[Avast Antivirus](https://ja.wikipedia.org/wiki/Avast_Antivirus)から翻訳されています。
 
 
-**Avast Antivirus** とは、[Avast Softwareが開発](../Page/Avast_Software.md "wikilink")、販売する[ウイルス対策ソフトである](../Page/アンチウイルスソフトウェア.md "wikilink")。
+**Avast Antivirus（日本語名：アバスト アンチウイルス）** とは、[Avast Software](../Page/Avast_Software.md "wikilink") s.r.o.が開発、提供する[ウイルス対策ソフトである](../Page/アンチウイルスソフトウェア.md "wikilink")。
 
 ## 概要
 
-家庭での非営利使用であれば無料で利用できる「Avast Free Antivirus」（アバスト\!無料アンチウイルス）のほか、有料版として「Avast Pro Antivirus」（アバスト\!プロアンチウイルス）、「Avast Internet Security」（アバスト\!インターネットセキュリティ）、「Avast Premier」（アバスト\! プレミア）などが提供されている。また、小規模企業向けに無料で利用できる「Avast Business Security Cloud」もある。
+家庭での非営利使用であればずっと無料で利用できる「Avast Free Antivirus」（アバスト無料アンチウイルス）のほか、有料版として「Avast Premium Security」（アバスト プレミアムセキュリティ）、「Avast Ultimate Suite」（アバスト アルティメットスイート）「Avast Mobile Security\]（アバスト モバイルセキュリティ）などが提供されている。また、小規模企業向けに無料で利用できる「Avast Business Security Cloud」もある。
 
-Free Antivirusは30日間の[体験版](../Page/体験版.md "wikilink")として動作し、無料のユーザ登録を行えば利用期間を延長できる。ユーザー登録は一年間有効で、期限が過ぎたら再登録することで継続的な利用が可能である。現在はFree Antivirusとしてユーザ登録は不要。[Google パックにも](https://ja.wikipedia.org/wiki/Google_パック "wikilink")[Spyware Doctorに代わって含まれていた時期がある](../Page/Spyware_Doctor.md "wikilink")\[1\]。
+かつて、Free Antivirusは30日間の[体験版](../Page/体験版.md "wikilink")として動作し、無料のユーザ登録を行えば利用期間を延長できる仕組みだったが、現在はユーザ登録不要で半永久的に無料で利用ができる。[Google パックにも](https://ja.wikipedia.org/wiki/Google_パック "wikilink")[Spyware Doctorに代わって含まれていた時期がある](../Page/Spyware_Doctor.md "wikilink")\[1\]。
 
 4.8までは無料版の名称が「Avast Home Edition」、有料版が「Avast Professional Edition」であった。4.8までのProfessional Editionはバージョン5ではPro Antivirusに該当する。4.8では[Windows 95](../Page/Microsoft_Windows_95.md "wikilink")・[98](../Page/Microsoft_Windows_98.md "wikilink")・[Me](https://ja.wikipedia.org/wiki/Microsoft_Windows_Me "wikilink")・[NT等の旧式OSまでサポートが行われていたが](../Page/Microsoft_Windows_NT.md "wikilink")、5.0以降は対応OSから外された。6.0では[Windows 2000がサポート対象リストから外されているが](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink")、無料アンチウイルス、プロアンチウイルスについては2000でも利用可能であった（インターネットセキュリティのみ2000非対応）が、7.0以降で対応OSからは外された。また5.0以降ではインターフェイスが大きく変更された。
 
@@ -39,7 +39,7 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
     スキャンを多くの引数とスイッチでコントロールできる機能。ある特定のディレクトリのファイル検査したり、ローカルとリモートボリューム両方を検査したりする。コマンドライン検査はネットワークを介して[マウントされたボリュームでも稼働する](https://ja.wikipedia.org/wiki/mount_\(UNIX\) "wikilink")。この方法は[シェルスクリプト](../Page/シェルスクリプト.md "wikilink")での使用を目的としている。
   - スクリーンセーバー
     スクリーンセーバー実行中にウイルスチェックをするように設定することができる。スクリーンセーバーは好みのものが設定できるが、進行状況を示す小さな青い画面が表示される。その画面を消すことは今のところできないが、動画を利用するスクリーンセーバー（3D飛行物体など）なら、ある程度隠すことができる。
-  - スパム対策フィルタ
+  - スパム・フィッシング対策フィルタ
     バージョン5から新たに搭載された。
   - ファイアウォール
     バージョン5から新たに搭載された。
@@ -112,11 +112,13 @@ Windows向けアンチウイルスソフトウェアの中で、Windowsの最新
 
 ## 製品
 
-ほかにサーバ向けの[Linux](../Page/Linux.md "wikilink")版、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版などがある。スマートフォン等に採用されている[Android](../Page/Android.md "wikilink")にも「Avast Mobile Security」として無料で提供されている。
+ほかにサーバ向けの[Linux](../Page/Linux.md "wikilink")版、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版などがある。スマートフォン等に採用されている[Android](../Page/Android.md "wikilink")および[iOSにも](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")「Avast Mobile Security」として無料で提供されている。
 
 ## 無断でユーザーデータ販売報道
 
-Avast Softwareがセキュリティソフトをインストールしたユーザーのアクティビティデータを収集し、収集したデータを匿名化して子会社であるマーケティング解析企業[Jumpshot](https://ja.wikipedia.org/wiki/Jumpshot "wikilink")を介して企業に販売していたと米メディアの[Motherboard](https://ja.wikipedia.org/wiki/Motherboard "wikilink")と[PCMag](https://ja.wikipedia.org/wiki/PCMag "wikilink")が報じた。Motherboardの調べでは[Google](../Page/Google.md "wikilink")、[Yelp](https://ja.wikipedia.org/wiki/Yelp "wikilink")、[Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink")、[McKinsey](https://ja.wikipedia.org/wiki/McKinsey "wikilink")、[Pepsi](https://ja.wikipedia.org/wiki/Pepsi "wikilink")、[Sephora](https://ja.wikipedia.org/wiki/Sephora "wikilink")、[Home Depot](https://ja.wikipedia.org/wiki/Home_Depot "wikilink")、[Conde Nast](https://ja.wikipedia.org/wiki/Conde_Nast "wikilink")、[Intuit](https://ja.wikipedia.org/wiki/Intuit "wikilink")などがJumpshotの顧客であると判明している。報じられたことについてAvast側はデータ収集はオプトインでユーザーに許可を得ているとしているがMotherboardがユーザーに取材してみたところ多数のユーザーは許可した自覚はなくデータ販売がされていることについても知らなかったと答えている。また匿名化していることについて専門家はデータから個人を特定するのは簡単であると答えた\[5\]。
+Avast Software s.r.o.がセキュリティソフトをインストールしたユーザーのアクティビティデータを収集し、収集したデータを匿名化して子会社であるマーケティング解析企業[Jumpshot](https://ja.wikipedia.org/wiki/Jumpshot "wikilink")を介して企業に販売していたと米メディアの[Motherboard](https://ja.wikipedia.org/wiki/Motherboard "wikilink")と[PCMag](https://ja.wikipedia.org/wiki/PCMag "wikilink")が報じた。Motherboardの調べでは[Google](../Page/Google.md "wikilink")、[Yelp](https://ja.wikipedia.org/wiki/Yelp "wikilink")、[Microsoft](https://ja.wikipedia.org/wiki/Microsoft "wikilink")、[McKinsey](https://ja.wikipedia.org/wiki/McKinsey "wikilink")、[Pepsi](https://ja.wikipedia.org/wiki/Pepsi "wikilink")、[Sephora](https://ja.wikipedia.org/wiki/Sephora "wikilink")、[Home Depot](https://ja.wikipedia.org/wiki/Home_Depot "wikilink")、[Conde Nast](https://ja.wikipedia.org/wiki/Conde_Nast "wikilink")、[Intuit](https://ja.wikipedia.org/wiki/Intuit "wikilink")などがJumpshotの顧客であると判明している。報じられたことについてAvast側はデータ収集はオプトインでユーザーに許可を得ているとしているがMotherboardがユーザーに取材してみたところ多数のユーザーは許可した自覚はなくデータ販売がされていることについても知らなかったと答えている。また匿名化していることについて専門家はデータから個人を特定するのは簡単であると答えた\[5\]。
+
+この報道の直後、Avastは子会社Jumpshotの事業終了およびアクティビティデータ収集の終了を発表。現在は製品ポリシー等の規約類にこの種のデータの利用許諾に関する言及はなくなっている。
 
 ## 関連項目
 

@@ -1565,7 +1565,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Austin_Allen_(baseball)" title="wikilink">Austin Allen</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オースティン・アレン_(野球)" title="wikilink">オースティン・アレン</a></p></td>
+<td><p><a href="../Page/オースティン・アレン_(野球).md" title="wikilink">オースティン・アレン</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>

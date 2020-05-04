@@ -76,7 +76,7 @@
   - [獨協大学天野貞佑記念館](https://ja.wikipedia.org/wiki/獨協大学#.E5.A4.A9.E9.87.8E.E8.B2.9E.E7.A5.90.E8.A8.98.E5.BF.B5.E9.A4.A8 "wikilink") （2007）\[15\]
   - [平鹿総合病院](https://ja.wikipedia.org/wiki/平鹿総合病院 "wikilink") （2007）\[16\]
   - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")本社 （2008）\[17\]
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")本社 （2008）
+  - [大分放送](../Page/大分放送.md "wikilink")本社 （2008）
   - [中央労働金庫](../Page/中央労働金庫.md "wikilink")本店 （2009）\[18\]
   - [JAビル](https://ja.wikipedia.org/wiki/JAビル "wikilink") （2009）\[19\]
   - [東京大学大気海洋研究所](../Page/東京大学大気海洋研究所.md "wikilink") （2010）\[20\]

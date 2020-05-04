@@ -17,13 +17,13 @@
     声：[小池竹蔵](../Page/小池竹蔵.md "wikilink") / [菅沼久義](../Page/菅沼久義.md "wikilink")
     ゲーム版の主人公。魔法の国から「種」を取り戻すためにやって来た。ちはやの魔法戦士としての資質を見出し、パートナーに選ぶ。普段は人間の少年の姿をしているが、魔力が不足すると本来の小動物の姿になってしまう。非常にスケベ。
   - 柊 ちはや（ひいらぎ ちはや）
-    声：[笹森美恵](../Page/園崎未恵.md "wikilink") / [内川藍維](../Page/内川藍維.md "wikilink") / [広橋涼](../Page/広橋涼.md "wikilink")
+    声：[笹森美恵](../Page/園崎未恵.md "wikilink") / [内川藍維](../Page/内川藍維.md "wikilink") / [広橋涼](../Page/広橋涼.md "wikilink")\[1\]
     テレビアニメ版の主人公。変身していない普段の身体の[第二次性徴の発現が乏しく](https://ja.wikipedia.org/wiki/第二次性徴#女性 "wikilink")、一人称は常に「[ボク](../Page/ボク少女.md "wikilink")」。ナツキとキスすることにより（テレビアニメ版では、ナツキの胸飾りが光ることにより）魔法戦士・**カーマイン**に変身し、「種」に汚染された人間（種人間）と戦う。ナツキとはケンカばかりだが、次第に惹かれあっていく。
   - 水城 さやか（みずき さやか）
-    声：[北都南](../Page/北都南.md "wikilink") / 同左 / [水樹奈々](../Page/水樹奈々.md "wikilink")
+    声：[北都南](../Page/北都南.md "wikilink") / 同左 / [水樹奈々](../Page/水樹奈々.md "wikilink")\[2\]
     ちはやの同級生。大金持ちのお嬢様であり、学校には車で送り迎えしてもらうほど。ナツキの兄・ハヅナの力によって魔法戦士・**セルリアンブルー**に変身し、種人間と戦う。変身後は超が付くほど高飛車な性格になり、魔法戦士としての能力はカーマインを凌ぐ。
   - 鈴原 美由利（すずはら みゆり）
-    声：[芹園みや](../Page/芹園みや.md "wikilink") / 同左 / [石塚さより](../Page/石塚さより.md "wikilink")
+    声：[芹園みや](../Page/芹園みや.md "wikilink") / 同左 / [石塚さより](../Page/石塚さより.md "wikilink")\[3\]
     ちはやの同級生。双子の弟がいる。
   - 小嶋 絵美（こじま えみ）
     声：[茉莉奈](https://ja.wikipedia.org/wiki/茉莉奈 "wikilink") / 同左 / [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
@@ -32,7 +32,7 @@
     声：[プログレス](../Page/プログレス_\(声優\).md "wikilink") / 同左 / [水島大宙](https://ja.wikipedia.org/wiki/水島大宙 "wikilink")
     ナツキの兄でやはり「種」を追って人間界を訪れる。セルリアンブルーのパートナー。テレビアニメ版では、さやか専属の家庭教師をしている。
   - ツユハ
-    声：北都南 / 同左 / [ひと美](../Page/ひと美.md "wikilink")
+    声：北都南 / 同左 / [ひと美](../Page/ひと美.md "wikilink")\[4\]
     魔法の国の女王。ナツキとハヅナを人間界に派遣する。
 
 ### スタッフ
@@ -69,7 +69,7 @@
 
 2005年1月から3月に、[アニメ魂](../Page/アニメ魂.md "wikilink")枠において『**まじかるカナン**』のタイトルで放送された。全13話。
 
-放送媒体上過激な性的描写が不可能のため、一部設定にゲーム版との違いがある他、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")に[渡辺明夫](../Page/渡辺明夫.md "wikilink")らを起用し、ビジュアル面を一新している。
+放送媒体上過激な性的描写が不可能のため、一部設定にゲーム版との違いがある他(例として柊ちはやに女子高生という設定が追加されているなど\[5\])、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")に[渡辺明夫](../Page/渡辺明夫.md "wikilink")らを起用し、ビジュアル面を一新している\[6\]。
 
 ### スタッフ（テレビアニメ）
 
@@ -335,8 +335,12 @@
 
 ## ラジオ番組
 
-  - 1999年秋、[TBSラジオで](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「**まじかるカナン倶楽部**」が放送された。いわゆる18禁ゲームの声優が名前を出して売っていくこと、またメディアミックス展開に積極的に起用されることの先駆けとなる。（出演：北都南、芹園みや）
+  - 1999年秋、[TBSラジオで](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「**まじかるカナン倶楽部**」が放送された。いわゆる18禁ゲームの声優が名前を出して売っていくこと、またメディアミックス展開に積極的に起用されることの先駆けとなる。（出演：北都南、芹園みや\[7\]\[8\]）
   - 2004年12月28日から、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")の[WEBラジオ](https://ja.wikipedia.org/wiki/WEBラジオ "wikilink")で「**涼と羽衣の輝け\!まじかる探検隊っ\!**」が放送された。（出演：広橋涼、宮崎羽衣）
+
+## 脚注
+
+<references />
 
 ## 外部リンク
 
@@ -347,3 +351,12 @@
 
   -
 [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:1998年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1998年のアダルトゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2000年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2000年の成人向けOVA "wikilink") [Category:アームス](https://ja.wikipedia.org/wiki/Category:アームス "wikilink") [Category:魔法少女を題材としたゲーム](https://ja.wikipedia.org/wiki/Category:魔法少女を題材としたゲーム "wikilink") [Category:魔法少女アニメ](https://ja.wikipedia.org/wiki/Category:魔法少女アニメ "wikilink") [Category:アニラジ](https://ja.wikipedia.org/wiki/Category:アニラジ "wikilink") [Category:テレビアニメ化されたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:テレビアニメ化されたアダルトゲーム "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.   ドラマ|url=[https://www.oricon.co.jp/prof/117048/products/154770/1/|website=ORICON](https://www.oricon.co.jp/prof/117048/products/154770/1/%7Cwebsite=ORICON) NEWS|accessdate=2020-04-24}}

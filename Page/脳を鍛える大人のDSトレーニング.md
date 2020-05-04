@@ -114,9 +114,9 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[DSi専用の](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")[DSiウェアのソフトとして](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")、「ソフトを差し替えせずにいつでもどこでもちょっとずつ脳を鍛える」ことに開発した第3弾として『[東北大学加齢医学研究所川島隆太教授監修 ちょっと脳を鍛える大人のDSiトレーニング](https://ja.wikipedia.org/wiki/ちょっと脳を鍛える大人のDSiトレーニング "wikilink")』を文系編と理系編の2つのバージョンで配信し、トレーニングと脳年齢チェックのテストが異なって新作と過去2作のものが収録されている。また、[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[ニコリ](../Page/ニコリ.md "wikilink")製作の問題全116問を収録した数独編が配信開始された。
 
-[2012年](../Page/2012年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")には[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ソフトとして『[東北大学加齢医学研究所 川島隆太教授監修 ものすごく脳を鍛える5分間の鬼トレーニング](https://ja.wikipedia.org/wiki/ものすごく脳を鍛える5分間の鬼トレーニング "wikilink")』（通称「鬼トレ」）が発売された。
+[2012年](../Page/2012年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")には[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ソフトとしてシリーズ第4弾の『[東北大学加齢医学研究所 川島隆太教授監修 ものすごく脳を鍛える5分間の鬼トレーニング](https://ja.wikipedia.org/wiki/ものすごく脳を鍛える5分間の鬼トレーニング "wikilink")』（通称「鬼トレ」）が発売された。
 
-[2019年](../Page/2019年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")には[Nintendo Switch用ソフトとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")『[東北大学加齢医学研究所 川島隆太教授監修 脳を鍛える大人のNintendo Switchトレーニング](https://ja.wikipedia.org/wiki/脳を鍛える大人のNintendo_Switchトレーニング "wikilink")』のパッケージ版の発売とダウンロード版が配信された。
+[2019年](../Page/2019年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")には[Nintendo Switch用ソフトとしてシリーズ第](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")5弾の『[東北大学加齢医学研究所 川島隆太教授監修 脳を鍛える大人のNintendo Switchトレーニング](https://ja.wikipedia.org/wiki/脳を鍛える大人のNintendo_Switchトレーニング "wikilink")』のパッケージ版の発売とダウンロード版が配信された。
 
 ## 脚注
 

@@ -28,7 +28,7 @@
 <td><p><a href="../Page/マルタ.md" title="wikilink">マルタ</a>出身。3歳の時に、両親の故郷であるイギリス、<a href="../Page/ウィルトシャー.md" title="wikilink">ウィルトシャー</a> スウィンドンに移り住む。</p></td>
 </tr>
 <tr class="even">
-<td><p>コリン・モールディング</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コリン・モールディング" title="wikilink">コリン・モールディング</a></p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/:en:Colin_Moulding" title="wikilink">Colin Moulding</a></em></p></td>
 <td><p>ヴォーカル、ベース</p></td>
 <td></td>

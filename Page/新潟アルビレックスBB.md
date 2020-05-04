@@ -35,8 +35,8 @@
 
 ### アリーナDJ
 
-  - [立石勇生](https://ja.wikipedia.org/wiki/立石勇生 "wikilink")([新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")でレギュラー)
-  - [島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")([新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")でレギュラー)
+  - [立石勇生](../Page/立石勇生.md "wikilink")([新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")でレギュラー)
+  - [島村仁](../Page/島村仁.md "wikilink")([新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink")でレギュラー)
   - [野口智美](https://ja.wikipedia.org/wiki/野口智美 "wikilink")([新潟アルビレックスBBラビッツ](https://ja.wikipedia.org/wiki/新潟アルビレックスBBラビッツ "wikilink")のアリーナDJも兼任)
 
 ### ホームタウン

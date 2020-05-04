@@ -76,7 +76,7 @@ __TOC__
       - [Phenom II](https://ja.wikipedia.org/wiki/Phenom_II "wikilink") ([AMD K10](../Page/AMD_K10.md "wikilink")) - [2009年](../Page/2009年.md "wikilink")
       - [Athlon Neo](https://ja.wikipedia.org/wiki/Athlon_Neo "wikilink") - 2009年
       - [AMD FX](https://ja.wikipedia.org/wiki/AMD_FX "wikilink") - 2011年
-      - [Athlon X4](https://ja.wikipedia.org/wiki/Athlon_X4 "wikilink") - 2013年
+      - [Athlon X4](../Page/Athlon_X4.md "wikilink") - 2013年
       - [Ryzen](https://ja.wikipedia.org/wiki/Ryzen "wikilink") - 2017年
 
 ### Apple

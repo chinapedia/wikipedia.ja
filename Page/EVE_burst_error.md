@@ -1,7 +1,7 @@
 > この記事は[EVE burst error](https://ja.wikipedia.org/wiki/EVE_burst_error)から翻訳されています。
 
 
-『**EVE burst error**』（イヴ・バーストエラー、イブ バーストエラー）は、[シーズウェア](../Page/シーズウェア.md "wikilink")が製作したパソコンゲームを原作とする同名および別名の移植作や[リメイク](../Page/リメイク.md "wikilink")などを含めた[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")[/](https://ja.wikipedia.org/wiki/スラッシュ_\(記号\)#接続詞的用法（結びつき） "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。後の[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")の第1作目でもある。
+『**EVE burst error**』（イヴ・バーストエラー、イブ バーストエラー）は、[シーズウェア](../Page/シーズウェア.md "wikilink")が製作したパソコンゲームを原作とする同名および別名の移植作や[リメイク](../Page/リメイク.md "wikilink")などを含めた[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")/[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。後の[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")の第1作目でもある。
 
 発売の年表は以下の通り。
 
@@ -20,7 +20,7 @@
 
 原作の発売から約2年後には、[セガサターン](../Page/セガサターン.md "wikilink")向けに移植された『**[EVE burst error](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(セガサターン\) "wikilink")**』が発売され、そのSS版を逆移植してアダルト要素を追加した、[Windows 95以降OS向けの](https://ja.wikipedia.org/wiki/Windows "wikilink")『**[EVE burst error](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(Windows_95\) "wikilink")**』も発売された。 また、SS/Win95版をベースとしキャラクターデザインや原画を一新した[PlayStation 2向けの新たなコンシューマー版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**[EVE burst error PLUS](https://ja.wikipedia.org/wiki/#EVE_burst_error_PLUS "wikilink")**』、その『PLUS』に[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")のアダルトシーンを追加したWindows 98以降OS向けの3度目のパソコン版『**[EVE](https://ja.wikipedia.org/wiki/#EVE "wikilink")**』、Win95版のダウンロード版、『PLUS』とも異なるキャラデザ&原画の一新のみならず、原作のシナリオ（ストーリー・設定・トリックなど多数）までも改変された[PlayStation Portable向けの](../Page/PlayStation_Portable.md "wikilink")3度目のコンシューマー版『**[burst error -EVE The 1st.-](https://ja.wikipedia.org/wiki/#burst_error_-EVE_The_1st.- "wikilink")**』、原作/SS版/PLUSなどをミックスしてのデジタルリマスター版とでもいうべき『**[EVE burst error R](https://ja.wikipedia.org/wiki/#EVE_burst_error_R "wikilink")**』（後にRをベースにアダルトシーンも[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")し、追加した『**EVE burst error A**』もリリース）などをそれぞれリリースし、合計35万本超の累計販売本数を達成した\[2\]。
 
-ゲーム自体は「コマンド総当り方式」で進められ、フラグを立てるには用意されている選択肢を手当たり次第に選択しなければならないが、シーズウェアの過去作『[DESIRE](https://ja.wikipedia.org/wiki/DESIRE_\(ゲーム\) "wikilink")』を初出とする**マルチサイトシステム**と名付けられた2人の[主人公](../Page/主人公.md "wikilink")の選択機能を継承しており、片方の主人公だけでプレイしていても必ずどこかで行き詰るようになっている。言うなればプレイヤーが積極的に進めている主人公側のストーリーでたまたま死体を発見してしまったためトラブルは御免だとその場を立ち去った後は、もう1人の主人公のストーリーを進めていないと殺人事件として発覚しないため、新しいコマンドが追加されない（次の展開が起こらない）というようなもので、2人の主人公を切り替えながらゲームを進めていく。ただし『1st』だけは「[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")方式」が採用されたため読み進めるだけのゲームになっている。
+ゲーム自体は「コマンド総当り方式」で進められ、フラグを立てるには用意されている選択肢を手当たり次第に選択しなければならないが、シーズウェアの過去作『[DESIRE](https://ja.wikipedia.org/wiki/DESIRE_\(ゲーム\) "wikilink")』を初出とする**マルチサイトシステム**と名付けられた2人の[主人公](../Page/主人公.md "wikilink")の選択機能を継承しており、片方の主人公だけでプレイしていても必ずどこかで行き詰るようになっている。ただし『1st』だけは「[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")方式」が採用されたため読み進めるだけのゲームになっている。
 
 舞台となる時代は作品ごとで差異があり、原作では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、SS/Win95/PLUSシリーズ/Rでは[199x年となっている](../Page/1990年代.md "wikilink")\[3\]。 なお、当記事で『1st』以外のゲーム劇中テキスト（台詞）から[引用](../Page/引用.md "wikilink")している記述には、[出典](https://ja.wikipedia.org/wiki/出典 "wikilink")にもなり得るためで**[二点リーダー](../Page/リーダー_\(記号\).md "wikilink")**（‥）を用いている。
 
@@ -108,19 +108,15 @@ SS版スタッフの数名と当作からの新メンバーが手掛けた、成
 
 ## EVE burst error PLUS
 
-当記事では混同を避けるために略記では**PLUS**とする。CERO規制の[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")作品。[アドヴァタイジングスローガン](https://ja.wikipedia.org/wiki/アドヴァタイジングスローガン "wikilink")は「あの感動がPlayStation 2で再びよみがえる…」
-
-SS/Win95版スタッフの数名と当作からの新メンバーが手掛けたSS/Win95版準拠の[リメイク](../Page/リメイク.md "wikilink")。キャラクターデザイン&原画の一新、新規の動画パートの追加、[BGMの](https://ja.wikipedia.org/wiki/#BGM "wikilink")[リミックス](../Page/リミックス.md "wikilink")などが施されており、音声も新録されただけでなくまりな・真弥子・源三郎役などが変更された。
+CERO規制の[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")作品。 『EVE burst error PLUS 』は2003年7月24日に発売されたPlayStation用ソフトであり、SS/Win95版準拠の[リメイク](../Page/リメイク.md "wikilink")にあたる。当記事では混同を避けるために略記では**PLUS**とする。 キャラクターデザイン&原画の一新、新規の動画パートの追加、[BGMの](https://ja.wikipedia.org/wiki/#BGM "wikilink")[リミックス](../Page/リミックス.md "wikilink")などが施されており、音声も新録されただけでなくまりな・真弥子・源三郎役などが変更された。
 
 新たに追加された機能に「**C-motion**」と名付けられた感情の変化をほぼ完全に視覚化する演出が追加されており、過去作では基本の静止画の表情か別の差分程度でしかなかったが、アニメーションを用いることでより滑らか且つ細やかにテキスト上の心情や口調と合致する表情に変わったり全身でのリアクションもとるようになった。
 
 今作ではシナリオの加筆やイベントの変更があったほか、[エピローグ](https://ja.wikipedia.org/wiki/エピローグ "wikilink")直前の犯人解答が排除されたためエンディングは1つになった。
 
-システム上の変更点としては、本篇スタート時の主人公選択が削除され、物語の開始が小次郎編に固定されたことがあげられる。（直後にチェンジは出来るが、初見でまりな編からは始められない）。 また、ユーザーインターフェースやフォントが変更されたほか、テキストの再改定も行われた。例えば、冒頭での「[ルンペン](https://ja.wikipedia.org/wiki/ルンペン "wikilink")の溜まり場」という表現は「お子様の遊び場」に変更されたほか、他作品に関する言及も同様に変更された。さらに、イベントシーンにおける説明調の独白は要約した[台詞](../Page/台詞.md "wikilink")に差し替えられた。
+システム上の変更点としては、本篇スタート時の主人公選択が削除され、物語の開始が小次郎編に固定されたことがあげられる。（直後にチェンジは出来るが、初見でまりな編からは始められない）。 また、キャラクターのデザインやユーザーインターフェース、フォントが変更されたほか、テキストの再改定も行われた。例えば、冒頭での「[ルンペン](https://ja.wikipedia.org/wiki/ルンペン "wikilink")の溜まり場」という表現は「お子様の遊び場」に変更されたほか、他作品に関する言及も同様に変更された。さらに、イベントシーンにおける説明調の独白は要約した[台詞](../Page/台詞.md "wikilink")に差し替えられた。
 
-美術面でも変更が加えられ、SS版にあったパロディ系の原画は採用されなかった。小次郎は下衣が[スタンドカラーシャツとなった黒系一色で](https://ja.wikipedia.org/wiki/ワイシャツ#ビジネスとして用いる衿 "wikilink")、首に[クロスチョーカーという衣装に変更され](../Page/首輪.md "wikilink")、愛銃のグロック22カスタマイズの色を緑と黒系とのツートンに変更された。まりなはビジネススーツ然だった「ピンクの服装\[12\]」ではなく、デザインの凝ったオリジナルジャケット&[ブラキャミ風の下衣と](../Page/キャミソール.md "wikilink")[スリット](https://ja.wikipedia.org/wiki/スリット "wikilink")入りの黒い[ミニスカート](../Page/ミニスカート.md "wikilink")という衣装に検定され、愛銃のベレッタM1919が2丁所持（[二丁拳銃](../Page/二丁拳銃.md "wikilink")）で、さらに当作オリジナルで携帯場所がジャケットの袖口に仕込んだギミックになっている。エール外国人学校の制服もデザインそのものと共にカラーも青系から[茶系に変更されたほか](../Page/茶色.md "wikilink")、一部キャラクターの髪形も変更された。
-
-出荷本数は累計4万5000本\[13\]。
+出荷本数は累計4万5000本\[12\]。
 
   - **限定、特典、廉価版、移植**
       - 『EVE burst error PLUS 限定版DVD-BOX』 - 初回限定版。内容物：[DVD](../Page/DVD.md "wikilink")サウンドノベル「EVE Memories」、設定資料集「EVE Encyclopedia PLUS」。
@@ -132,9 +128,7 @@ SS/Win95版スタッフの数名と当作からの新メンバーが手掛けた
 
 ### EVE
 
-当記事では混同を避けるために略記では**PLUS18禁版**とする。[18禁作品](../Page/アダルトゲーム.md "wikilink")。[アドヴァタイジングスローガン](https://ja.wikipedia.org/wiki/アドヴァタイジングスローガン "wikilink")は「今蘇る、あの感動と興奮…新旧のコラボレーションで送る名作が復活」
-
-役職の変更や不参加などの差異はあるが『[PLUS](https://ja.wikipedia.org/wiki/#EVE_burst_error_PLUS "wikilink")』とほぼ同じスタッフの手による逆移植作にあたり、特典として**[原作](https://ja.wikipedia.org/wiki/#EVE_burst_error "wikilink")**と『**[Win95版悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』の2作が完全移植にて同梱されている。
+当記事では混同を避けるために略記では**PLUS18禁版**とする。[18禁作品](../Page/アダルトゲーム.md "wikilink")。 役職の変更や不参加などの差異はあるが『[PLUS](https://ja.wikipedia.org/wiki/#EVE_burst_error_PLUS "wikilink")』とほぼ同じスタッフの手による逆移植作にあたり、特典として**[原作](https://ja.wikipedia.org/wiki/#EVE_burst_error "wikilink")**と『**[Win95版悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』の2作が完全移植にて同梱されている。
 
 今作では担当者の中川、林ほかの手によって『PLUS』で収録されていた[声](../Page/声.md "wikilink")がほぼ全て変更され、女性キャラ関連のイベント原画の多数に松本自身の手でアダルト描写が加筆された 点で異なるが、メインのテキストは『PLUS』準拠のため原作で散見された[猥談](../Page/猥談.md "wikilink")系のコマンドや会話はほぼ無かったり、氷室の学校前での転倒やディレクタールームでの机の下における原画は『PLUS』の流用であり[パンチラ](../Page/パンチラ.md "wikilink")再現はされていないなど、「ある・ない」の部分で大量のバラつきがある。
 
@@ -164,11 +158,11 @@ SS/Win95版スタッフの数名と当作からの新メンバーが手掛けた
 
 当記事では混同を避けるために総じての略記では**R**、機種で区別する略記では**R Vita(R Vita DL)版**と**R Win(R Win DL)版**と**R Switch版**とする。CERO規制と一部推奨指示による[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")作品。初回限定特典は100ページを超えるカラー原画集。
 
-キャラクターデザイン&原画には[原作および](https://ja.wikipedia.org/wiki/#EVE_burst_error "wikilink")[SS版含](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(セガサターン\) "wikilink")[Win95版を最後に長らく不参加だった](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(Windows_95\) "wikilink")[田島直](https://ja.wikipedia.org/wiki/田島直 "wikilink")が復帰した\[14\]。
+キャラクターデザイン&原画には[原作および](https://ja.wikipedia.org/wiki/#EVE_burst_error "wikilink")[SS版含](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(セガサターン\) "wikilink")[Win95版を最後に長らく不参加だった](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(Windows_95\) "wikilink")[田島直](https://ja.wikipedia.org/wiki/田島直 "wikilink")が復帰した\[13\]。
 
 『PLUS』の「C-motion」ほどではないものの、今作では静止画の上だけではあるが目線が動いたり口パクをするようになっているほか、「**AE（アフターエフェクツ）アニメーション**」と名付けられた映像効果によって拳が震えていたり、ガン・ファイアが発生していたりする。
 
-システム上の変更点としては、移動コマンド選択時に適切な行き先を表示するルートナビゲーション機能とコマンドから対象が自動再選択されるワンタッチリピートボタンが追加されたことがあげられる\[15\]。
+システム上の変更点としては、移動コマンド選択時に適切な行き先を表示するルートナビゲーション機能とコマンドから対象が自動再選択されるワンタッチリピートボタンが追加されたことがあげられる\[14\]。
 
 BGMの編曲はishidaが担当した。
 
@@ -178,13 +172,13 @@ EVE burst error Rのアダルト版。
 
 ### 開発
 
-本作はRED FLAGSHIPのブランドEl Diaの第1弾としてリマスターが行われた\[16\]。 El Diaのプロジェクト統括者はファミ通とのインタビューの中で、「本作と『DESIRE』の版権をホビボックスが持っていたことが判明したものの、出演声優の事務所の中には本作を知らないところもあったので、事務所への経緯の説明をはじめとする権利などの調整作業に1年近くかかってしまった」と振り返っている\[17\]。
+本作はRED FLAGSHIPのブランドEl Diaの第1弾としてリマスターが行われた\[15\]。 El Diaのプロジェクト統括者はファミ通とのインタビューの中で、「本作と『DESIRE』の版権をホビボックスが持っていたことが判明したものの、出演声優の事務所の中には本作を知らないところもあったので、事務所への経緯の説明をはじめとする権利などの調整作業に1年近くかかってしまった」と振り返っている\[16\]。
 
-版権問題を解決した後は、素材の収集が行われた\[18\]。 El Diaが関係者に問い合わせたところ、「箱にまとめて倉庫に保管している」ということ以外の詳細は誰も知らないことが判明し、まずは倉庫にあった箱や古いハードディスクを送ってもらい、全てEl Dia側で調べることとなった。ただ、素材が古いということもあり、すべてそろっているわけではなく、データ化してもそのまま使えるわけではなく、SS版やPlaystation 2版PLUSの素材も流用の対象となった\[19\]。また、これ以外にも田島が新たに書き下ろした原画も追加された\[20\]。 。
+版権問題を解決した後は、素材の収集が行われた\[17\]。 El Diaが関係者に問い合わせたところ、「箱にまとめて倉庫に保管している」ということ以外の詳細は誰も知らないことが判明し、まずは倉庫にあった箱や古いハードディスクを送ってもらい、全てEl Dia側で調べることとなった。ただ、素材が古いということもあり、すべてそろっているわけではなく、データ化してもそのまま使えるわけではなく、SS版やPlaystation 2版PLUSの素材も流用の対象となった\[18\]。また、これ以外にも田島が新たに書き下ろした原画も追加された\[19\]。。
 
-El Diaの開発チームは、残されたイベントCGの線画をスキャンし、[画面アスペクト比](../Page/画面アスペクト比.md "wikilink")を発売当時主流だった4:3から16:9に調整してから、書き足しや彩色の調整などを行った\[21\]。 El Diaのプロジェクト統括者は前述のインタビューの中で、「開発体制が現在とは異なるため、『誰にどの作業を頼むか』ということがリマスター作業の中で一番苦労した」と述べつつも、面白い作業でもあったと振り返っている\[22\]。
+El Diaの開発チームは、残されたイベントCGの線画をスキャンし、[画面アスペクト比](../Page/画面アスペクト比.md "wikilink")を発売当時主流だった4:3から16:9に調整してから、書き足しや彩色の調整などを行った\[20\]。 El Diaのプロジェクト統括者は前述のインタビューの中で、「開発体制が現在とは異なるため、『誰にどの作業を頼むか』ということがリマスター作業の中で一番苦労した」と述べつつも、面白い作業でもあったと振り返っている\[21\]。
 
-スクリプトデータは残存していたものの、そのままでは古臭く見えてしまうおそれがあったため、当時の印象を守りつつも現代流にアレンジするという手法がとられた\[23\]。また、SS版以降に追加されたムービーの素材は全部残っていたわけではなかったため、El Diaの開発スタッフは実際のSS版のムービーを見て調整しつつも、現代に合った演出などを追加した\[24\]。
+スクリプトデータは残存していたものの、そのままでは古臭く見えてしまうおそれがあったため、当時の印象を守りつつも現代流にアレンジするという手法がとられた\[22\]。また、SS版以降に追加されたムービーの素材は全部残っていたわけではなかったため、El Diaの開発スタッフは実際のSS版のムービーを見て調整しつつも、現代に合った演出などを追加した\[23\]。
 
 EVE burst error R
 
@@ -194,27 +188,31 @@ EVE burst error R
 
 ### ストーリー
 
-  - 小次郎編 : 時は[12月3日](../Page/12月3日.md "wikilink")。さびれた倉庫街に事務所を構える私立探偵・**天城小次郎**は、紛失した絵画の捜索を依頼される。灰色の脳細胞を駆使し、見事探しあてるが、やがてこの絵画をめぐり重大な事件が起こるのであった。
+  - 小次郎編 : 時は[12月3日](../Page/12月3日.md "wikilink")。さびれた倉庫街に事務所を構える私立探偵・**天城小次郎**は、紛失した絵画の捜索を依頼される。絵画はほどなくして見つかるが、この絵画をめぐり重大な事件が起こる。
     まりな編 : 時は[12月2日](../Page/12月2日.md "wikilink")。内閣調査室の捜査官・**法条まりな**は、事実上の[左遷](https://ja.wikipedia.org/wiki/左遷 "wikilink")先だった[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")から呼び戻されエルディア駐日大使の娘である御堂真弥子の護衛を命じられる。ふたりは行動を共にするうちに友情を深めてゆくが、彼女たちの裏ではある陰謀の準備が着々と進められていた。
 
 ### 設定
 
-舞台は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベイエリア](https://ja.wikipedia.org/wiki/ベイエリア "wikilink")。また、事実上の序章とされている『**[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』と世界観を共有しているため、関連するキャラクターや組織などが登場するのも特徴。
+舞台は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベイエリア](https://ja.wikipedia.org/wiki/ベイエリア "wikilink")。また、事実上の序章とされている『**[悦楽の学園](https://ja.wikipedia.org/wiki/悦楽の学園 "wikilink")**』と世界観を共有しているため、関連するキャラクターや組織なども登場している。
 
-  - あまぎ探偵事務所 : 小次郎が[埠頭](../Page/埠頭.md "wikilink")の[倉庫](../Page/倉庫.md "wikilink")街にある一戸を改装して開いた事務所。しかし[ライセンス](../Page/ライセンス.md "wikilink")を停止されているため仕事の依頼は絶無。プリンにとっては郷愁を感じさせる素敵な場所、他者は「依頼人を拒否しているとしか思えない」「想像を絶する場所」と評した。
+  - あまぎ探偵事務所 : 小次郎が[埠頭](../Page/埠頭.md "wikilink")の[倉庫](../Page/倉庫.md "wikilink")街にある一戸を改装して開いた事務所。しかし[ライセンス](../Page/ライセンス.md "wikilink")を停止されているため、仕事の依頼がめったに来ない。プリンにとっては郷愁を感じさせる素敵な場所、他者は「依頼人を拒否しているとしか思えない」「想像を絶する場所」と評した。
     内閣調査室 : オフィス街に本部を構えるまりな達の職場。劇中では「本部ビル」とも通称される。[内閣](../Page/内閣.md "wikilink")に直属し、諜報を行う。略称、内調。実在するものは[内閣情報調査室](../Page/内閣情報調査室.md "wikilink")を参照。
     桂木探偵事務所 : かつては業界トップの業績を誇った。腕利きの探偵である源三郎と小次郎を同時に失い、依頼の達成率が悪化。二階堂に殺人の容疑が掛けられたことにより、経営はさらに傾くが、のちにプリシアを保護し、名誉を一気に回復する。
     サン・マンション : 小次郎と弥生が同棲していた[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")。源三郎の逮捕をきっかけに、小次郎は港の倉庫街に移るが、弥生は402号室に留まった。のちに、まりなと真弥子が403号室で生活を始める。
-    教育監視機構 : 氷室が捜査員として属している組織。通り名は「監視機構」で、海外版での名称は*Surveillance Organization Bros. (S.O.B.s.)*。教育機関で起こる事件は大抵の場合、[被疑者](../Page/被疑者.md "wikilink")が未成年であるため、[警察](../Page/警察.md "wikilink")の介入は困難だった。この問題を解決するために作られたのが教育監視機構である。専従の捜査員を派遣し、[教育委員会](../Page/教育委員会.md "wikilink")および警察と共に事件の解決にあたる。テストケースであり、組織の実態は国民に知らされていない。[治外法権](../Page/治外法権.md "wikilink")や外国への応用も検討されている。真弥子の護衛を務めるため、まりなは一時的に所属となる。
-    セントラル・アベニュー : モダンな建築物が建ち並ぶビル街。昼夜を問わず[ネオンサイン](../Page/ネオンサイン.md "wikilink")が輝く。
-    プリンセス・ホテル : 政府の要人も利用する高級[ホテル](../Page/ホテル.md "wikilink")。10階から上がVIPルームとなっている。最上階には[レストラン](../Page/レストラン.md "wikilink")と[展望台](../Page/展望台.md "wikilink")がある。地下には[ショットバー](https://ja.wikipedia.org/wiki/ショットバー "wikilink")があり、小次郎とグレンの待ち合わせ場所となっている。
-    エール外国人学校（\[25\]）
-    [在日](https://ja.wikipedia.org/wiki/在日 "wikilink")エルディア人子女のための[高等教育](../Page/高等教育.md "wikilink")[インターナショナルスクール](https://ja.wikipedia.org/wiki/インターナショナルスクール "wikilink")。[制服は薄い](https://ja.wikipedia.org/wiki/日本の学校制服#女子 "wikilink")[ピンク](../Page/ピンク.md "wikilink")系のシャツに[黄色](../Page/黄色.md "wikilink")の[スカーフ](https://ja.wikipedia.org/wiki/スカーフ "wikilink")を巻き、要所にピンク系のラインが施された[赤](../Page/赤.md "wikilink")系の[ベスト](../Page/ベスト.md "wikilink")らしき中衣・[スカート](../Page/スカート.md "wikilink")・[青紫](https://ja.wikipedia.org/wiki/青紫 "wikilink")系の[ブレザーで構成されたデザイン](https://ja.wikipedia.org/wiki/ブレザー#各部の特徴 "wikilink")。[必履修科目](../Page/必履修科目.md "wikilink")は[英語](../Page/英語.md "wikilink")と[アラビア語](../Page/アラビア語.md "wikilink")。9時から18時までは校内の施設（[図書館](../Page/図書館.md "wikilink")と[プール](../Page/プール.md "wikilink")）を一般に開放している。[治外法権](../Page/治外法権.md "wikilink")は存在しない。近隣には[学生寮](../Page/学生寮.md "wikilink")もあり、真弥子と氷室が住んでいる。エルディアの教育基金を元に作られた学校で、ストールマン・孔が校長（ディレクター）を勤める。
+    教育監視機構 : 氷室が捜査員として属している組織であり、まりなも真弥子の護衛を務めるために一時的に所属となる。通り名は「監視機構」で、海外版での名称は*Surveillance Organization Bros. (S.O.B.s.)*。
+    未成年が被疑者となることが多い教育機関の問題を解決するために試験的に設立された組織であり、専従の捜査員が[教育委員会](../Page/教育委員会.md "wikilink")および警察と共に事件の解決にあたる。組織の実態は国民に知らされておらず、[治外法権](../Page/治外法権.md "wikilink")や外国への応用も検討されている。
 
-  - エルディア[大使館](../Page/大使館.md "wikilink") （\[26\]）
+  - セントラル・アベニュー : モダンな建築物が建ち並ぶビル街。昼夜を問わず[ネオンサイン](../Page/ネオンサイン.md "wikilink")が輝く。
+    プリンセス・ホテル : 政府の要人も利用する高級[ホテル](../Page/ホテル.md "wikilink")。10階から上がVIPルームとなっている。最上階には[レストラン](../Page/レストラン.md "wikilink")と[展望台](../Page/展望台.md "wikilink")がある。地下には[ショットバー](https://ja.wikipedia.org/wiki/ショットバー "wikilink")があり、小次郎とグレンの待ち合わせ場所となっている。
+    エール外国人学校（\[24\]）
+    エルディアの教育基金を元に造られた、在日エルディア人子女のための[高等教育](../Page/高等教育.md "wikilink")[インターナショナルスクール](https://ja.wikipedia.org/wiki/インターナショナルスクール "wikilink")であり、ストールマン・孔が校長（ディレクター）を勤める。
+
+    [必履修科目](../Page/必履修科目.md "wikilink")は[英語](../Page/英語.md "wikilink")と[アラビア語](../Page/アラビア語.md "wikilink")。9時から18時までは校内の施設（[図書館](../Page/図書館.md "wikilink")と[プール](../Page/プール.md "wikilink")）を一般に開放している。[治外法権](../Page/治外法権.md "wikilink")は存在しない。近隣には[学生寮](../Page/学生寮.md "wikilink")もあり、真弥子と氷室が住んでいる。
+
+  - エルディア[大使館](../Page/大使館.md "wikilink") （\[25\]）
     他国の大使館が複数存在するベイエリアの一等地に位置する。ロス・御堂が大使として勤務する。厳重な警備が施されており、違法な[電波](../Page/電波.md "wikilink")を遮断する仕掛けもあるため、館内の会話を[盗聴](../Page/盗聴.md "wikilink")することは不可能である。
 
-  - エルディア[共和国](../Page/共和国.md "wikilink")（\[27\]）
+  - エルディア[共和国](../Page/共和国.md "wikilink")（\[26\]）
     別名「エール」。[アラビア半島](../Page/アラビア半島.md "wikilink")の南西部に位置する君主[共和制](../Page/共和制.md "wikilink")の多民族国家。[国王](../Page/国王.md "wikilink")が首相を任命。[国教は](https://ja.wikipedia.org/wiki/国家宗教 "wikilink")[イスラム](../Page/イスラム教.md "wikilink")。主な収入源は[観光](../Page/観光.md "wikilink")と[鉱物](../Page/鉱物.md "wikilink")。
 
     前国王の死去にともない、[世論](../Page/世論.md "wikilink")は民主化へ傾いている。
@@ -225,14 +223,14 @@ EVE burst error R
         砂漠と山に囲まれた過酷な自然環境。貧しく教育・医療も不十分。古いしきたりが重視される。
 
   - テラー（）
-    国際指名手配ナンバーB12AJ23。旧エルディア情報部の実行部隊。主な武器はエルディア軍のサバイバル・[ナイフ](../Page/ナイフ.md "wikilink")。
+    旧エルディア情報部の実行部隊で、国際指名手配されている。
 
   - 王権派 : 王制の維持を志向する勢力。
     反王権派（改革派） : エルディアの民主化を押し進める勢力。Cプロジェクト崩壊後、ロイド首相のもとで王宮省、科学局、情報部を解体。プリシア即位の動きに対し、真弥子の即位を画策する。
-    [国璽](../Page/国璽.md "wikilink") : エルディア唯一の官印。王位継承の証しで、戴冠式の際に必要となる。
+    国璽 : エルディア唯一の官印。王位継承の証しで、戴冠式の際に必要となる。
     トリスタン号 : 戴冠式が行われるエルディア[船籍](https://ja.wikipedia.org/wiki/船籍 "wikilink")の[客船で](../Page/旅客船.md "wikilink")、船名は[ケルトの伝説](../Page/ケルト人.md "wikilink")「[トリスタンとイゾルテ](../Page/トリスタンとイゾルデ.md "wikilink")」に由来する。
     Cプロジェクト : Neo Cerebral Project（新たな頭脳の計画）の略で、源三郎が発案者である。[先進国](https://ja.wikipedia.org/wiki/先進国 "wikilink")の援助を受けて旧エルディア科学局が極秘裏に進めていたが、局長だったドールマンが実子に殺害されたことにより、崩壊する。
-    μ-101（ミューイチマルイチ\[28\]） : Cプロジェクトの成果。陸幕二部が回収に乗り出す。海外版の名称は「**A101**」。
+    μ-101（ミューイチマルイチ\[27\]） : Cプロジェクトの成果とされるものであり、陸幕二部が回収に乗り出す。海外版の名称は「**A101**」。
 
 ## 登場人物
 
@@ -261,11 +259,11 @@ EVE burst error R
 
 ## BGM
 
-オリジナルスタッフは**[梅本竜](https://ja.wikipedia.org/wiki/梅本竜 "wikilink")**、**高見龍**の2名。SS/Win95版は非公開の別人\[29\]、PLUSシリーズは**サウンドエイムス（道下桃）**、Rは**youyaishida（studio jaquazz）**が務めた。
+オリジナルスタッフは**[梅本竜](https://ja.wikipedia.org/wiki/梅本竜 "wikilink")**、**高見龍**の2名。SS/Win95版は非公開の別人\[28\]、PLUSシリーズは**サウンドエイムス（道下桃）**、Rは**youyaishida（studio jaquazz）**が務めた。
 
-高見は当時の様子について、「梅本君に呼ばれてテスト版で遊んだら、いきなり手伝うように言われ、合いそうな曲を書いてほしいと頼まれてアバウトに書いた」と、オートマトンとのインタビューの中で振り返っている\[30\]。 たとえば、高見が最初に作った楽曲であるハッキングのシーンの音楽（「No.38 ハッカー」）は、梅本の作った[モールス信号](https://ja.wikipedia.org/wiki/モールス信号 "wikilink")のような音の繰り返しを面白いと感じて曲であり、ハッキングシーン専用に作られたわけではないものの、高見が作った後にプログラマーの菅野がハッキングのシーンに合っていると感じて採用された経緯がある\[31\]。
+梅本は本作の音楽の方向性を[ハードボイルド](../Page/ハードボイルド.md "wikilink")にしたいと考え、その雰囲気を音楽で表現するのに苦心した\[29\]。その中で[パット・メセニー・グループ](../Page/パット・メセニー・グループ.md "wikilink")や[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")といったアーティストから影響を受けつつも、様々な資料を集めたり調べた上で作曲を行った\[30\]。
 
-梅本は本作の音楽の方向性を[ハードボイルド](../Page/ハードボイルド.md "wikilink")にしたいと考え、その雰囲気を音楽で表現するのに苦心した\[32\]。その中で[パット・メセニー・グループ](../Page/パット・メセニー・グループ.md "wikilink")や[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")といったアーティストから影響を受けつつも、様々な資料を集めたり調べた上で作曲を行った\[33\]。
+高見は当時の様子について、「梅本君に呼ばれてテスト版で遊んだら、いきなり手伝うように言われ、合いそうな曲を書いてほしいと頼まれてアバウトに書いた」と、オートマトンとのインタビューの中で振り返っている\[31\]。 たとえば、高見が最初に作った楽曲であるハッキングのシーンの音楽（「No.38 ハッカー」）は、梅本の作った[モールス信号](https://ja.wikipedia.org/wiki/モールス信号 "wikilink")のような音の繰り返しを面白いと感じて曲であり、ハッキングシーン専用に作られたわけではないものの、高見が作った後にプログラマーの菅野がハッキングのシーンに合っていると感じて採用された経緯がある\[32\]。
 
 以下の曲名は、原作の劇中音楽鑑賞モード、SS版の同鑑賞モードや1998年の[サウンドトラック](https://ja.wikipedia.org/wiki/#参考文献 "wikilink")（[カバーアート](https://ja.wikipedia.org/wiki/カバーアート "wikilink")）、PLUSシリーズの同鑑賞モードや2003年のサントラ、Rの公式ウェブサイト上での表記などに倣うが、今日では誤用・混同も少なくない。
 
@@ -303,7 +301,7 @@ EVE burst error R
 
 ## 評価
 
-  - **[EVE burst error \[イヴ](https://ja.wikipedia.org/wiki/#EVE_burst_error "wikilink")\]**\[34\]
+  - **[EVE burst error \[イヴ](https://ja.wikipedia.org/wiki/#EVE_burst_error "wikilink")\]**\[33\]
       - 月刊デジタルメディアインサイダー - 1995年11月1日 - 30日集計で2847ポイント（売上本数かは不明）、全パソコンソフト中の15位。
       - FCGAMEX（[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")のフォーラム） - 1996年1月4日 - 23日集計 の「貴方が選ぶベストゲーム'95」で、ベストシステムXゲーム特別賞&ベストシナリオXゲーム特別賞1位、ベストサウンドXゲーム特別賞2位、ベストグラフィックXゲーム特別賞3位。「貴方が選ぶベストゲーム'96-'01」で、1996年が6位、1997年が6位、1998年が7位、1999から2001年間が20位圏内。
   - **[EVE burst error (セガサターン)](https://ja.wikipedia.org/wiki/#EVE_burst_error_\(セガサターン\) "wikilink")**
@@ -315,7 +313,7 @@ EVE burst error R
   - **[EVE burst error PLUS](https://ja.wikipedia.org/wiki/#EVE_burst_error_PLUS "wikilink")**
       - ファミ通 クロスレビュー - 30/40点のシルバー殿堂入り。
 
-ねとらぼのにゃるらは本作について、「夜の喫茶店で学校の同級生らと裏社会について話し合うという、学生時代に想像したかっこいいハードボイルドっぽさを突き詰めた内容」と評した\[35\]。
+ねとらぼのにゃるらは本作について、「夜の喫茶店で学校の同級生らと裏社会について話し合うという、学生時代に想像したかっこいいハードボイルドっぽさを突き詰めた内容」と評した\[34\]。
 
 ## Lucid Motion
 
@@ -368,10 +366,10 @@ EVE burst error R
 
   -   -
       -
-[Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:1995年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1995年のアダルトゲーム "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:コンピュータゲームのダウンロードサービス](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのダウンロードサービス "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink")
+[Category:EVEシリーズ](https://ja.wikipedia.org/wiki/Category:EVEシリーズ "wikilink") [Category:1995年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1995年のアダルトゲーム "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:コンピュータゲームのダウンロードサービス](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのダウンロードサービス "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink") [Category:コマンド選択式アドベンチャー](https://ja.wikipedia.org/wiki/Category:コマンド選択式アドベンチャー "wikilink")
 
 1.  「[菅野ひろゆき氏死去　43歳　人気ゲームクリエーター ― スポニチ Sponichi Annex 芸能](http://www.sponichi.co.jp/entertainment/news/2011/12/27/kiji/K20111227002324210.html)」 [スポニチ](https://ja.wikipedia.org/wiki/スポニチ "wikilink")公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")、2011年12月27日。
-2.  「[オリジナル版紹介](http://www.kadokawa.co.jp/game/eve/original/)」 『1st』 公式ウェブサイト、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月時点のものであり、『1st』と『R』は含まれていない。
+2.  「[オリジナル版紹介](http://www.kadokawa.co.jp/game/eve/original/)」 『1st』 公式ウェブサイト、2010年3月時点のものであり、『1st』と『R』は含まれていない。
 3.  [クラッキングイベント時のPC画面上](../Page/クラッキング_\(コンピューター用語\).md "wikilink") 「Login Time」 。なお、日付変更時では原作は 「9[＊](https://ja.wikipedia.org/wiki/＊ "wikilink")」 とぼかされ、PLUSシリーズは排除されている。
 4.  PLUS18禁版のオンラインマニュアルなど。
 5.  「[電撃 - PC-9801版『EVE burst error』サントラなど『梅本竜RARE TRACKS』シリーズが再生産決定！ Vol.1～3の特典CDまで追加プレス](http://dengekionline.com/elem/000/000/853/853578/)」 電撃オンライン、2014年5月16日。
@@ -381,8 +379,8 @@ EVE burst error R
 9.
 10.
 11. 『月刊デジタルメディアインサイダー』 1997年8月末時点。
-12. 『PLUS』初回限定版「EVE Encyclopedia PLUS」83頁。
-13. [ネットビレッジ株式会社](https://ja.wikipedia.org/wiki/fonfun "wikilink")、平成16年3月期中間決算短信。
+12. [ネットビレッジ株式会社](https://ja.wikipedia.org/wiki/fonfun "wikilink")、平成16年3月期中間決算短信。
+13.
 14.
 15.
 16.
@@ -393,15 +391,14 @@ EVE burst error R
 21.
 22.
 23.
-24.
-25. Win95版の北米版における表記。
+24. Win95版の北米版における表記。
+25.
 26.
-27.
-28. [\#PLUS OG](https://ja.wikipedia.org/wiki/#PLUS_OG "wikilink"), p. 81.
+27. [\#PLUS OG](https://ja.wikipedia.org/wiki/#PLUS_OG "wikilink"), p. 81.
+28.
 29.
 30.
 31.
 32.
 33.
 34.
-35.

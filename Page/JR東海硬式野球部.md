@@ -43,7 +43,7 @@
 
   - [中須賀諭](../Page/中須賀諭.md "wikilink")コーチ
   - [秋葉知一](https://ja.wikipedia.org/wiki/秋葉知一 "wikilink")投手
-  - [伊藤寛士](https://ja.wikipedia.org/wiki/伊藤寛士 "wikilink")\[1\]捕手
+  - [伊藤寛士](https://ja.wikipedia.org/wiki/伊藤寛士 "wikilink")\[1\]内野手
 
 ## 元プロ野球選手の競技者登録
 

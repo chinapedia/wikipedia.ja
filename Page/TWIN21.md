@@ -17,7 +17,7 @@
 
 パナソニックタワーの1・2階には、パナソニックスクエア（2000年2月29日閉鎖）とパナソニックセンター大阪（パナソニック製品のショールーム、2012年12月25日閉鎖）があったが、近隣の「パナソニックリビングショールーム」と統合され、[グランフロント大阪](https://ja.wikipedia.org/wiki/グランフロント大阪 "wikilink")南館に移転した。
 
-ファイル:TWIN21 Atrium_201406.jpg|アトリウム ファイル:24 Hour Television 28 event at TWIN21.jpg|アトリウム（2005年　[24時間テレビの募金](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")・ステージイベント開催時撮影） <File:FamilyMart> Osaka Business Park store.jpg|thumb|[ファミリーマート](../Page/ファミリーマート.md "wikilink")大阪ビジネスパーク店（旧[サンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")）
+ファイル:TWIN21 Atrium_201406.jpg|アトリウム ファイル:24 Hour Television 28 event at TWIN21.jpg|アトリウム（2005年　[24時間テレビの募金](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")・ステージイベント開催時撮影） <File:TWIN21> Lobby shops 201406.jpg|1階商店
 
 ## エピソード
 
@@ -26,7 +26,7 @@
 
 ## 交通アクセス
 
-  - [地下鉄長堀鶴見緑地線](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink") [大阪ビジネスパーク駅](https://ja.wikipedia.org/wiki/大阪ビジネスパーク駅 "wikilink")すぐ（地下コンコースからの連絡通路はなく、いったん地上に出て、道路を渡る必要がある）。もしくは[京橋駅から徒歩](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink")5分（[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")で直結）。
+  - [地下鉄長堀鶴見緑地線](../Page/Osaka_Metro長堀鶴見緑地線.md "wikilink") [大阪ビジネスパーク駅](https://ja.wikipedia.org/wiki/大阪ビジネスパーク駅 "wikilink")すぐ（地下コンコースからの連絡通路はなく、いったん地上に出て、道路を渡る必要がある）。もしくは[京橋駅から徒歩](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink")5分（[ペデストリアンデッキ](../Page/ペデストリアンデッキ.md "wikilink")で直結）。
   - [大阪シティバス](../Page/大阪シティバス.md "wikilink")46号系統城見一丁目停留所下車すぐ。
 
 ## 脚注

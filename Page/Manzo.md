@@ -495,8 +495,7 @@
 
   - [ケイ・エス・ピー（本名名義所属事務所）公式サイト 坂上正俊プロフィール](http://www.ksp-songs.co.jp/ksp/creator/?p=sakashita_masatoshi)
 
-  - [日本ブレイク工業 社歌DVD 公式WEBサイト](http://www.ponycanyon.co.jp/break/)
-
+  -
 [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:日本のソングライター](https://ja.wikipedia.org/wiki/Category:日本のソングライター "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:アニメ音楽の作詞家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作詞家 "wikilink") [Category:アニメ音楽の作曲家](https://ja.wikipedia.org/wiki/Category:アニメ音楽の作曲家 "wikilink") [Category:コミックソング](https://ja.wikipedia.org/wiki/Category:コミックソング "wikilink") [Category:フライングドッグのアーティスト](https://ja.wikipedia.org/wiki/Category:フライングドッグのアーティスト "wikilink") [Category:帝京大学出身の人物](https://ja.wikipedia.org/wiki/Category:帝京大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

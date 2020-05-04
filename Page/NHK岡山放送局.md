@@ -512,7 +512,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
   - ニュース (平日 12:15 - 12:20)
   - [もぎたて\!](https://ja.wikipedia.org/wiki/もぎたて! "wikilink") （月〜金 18:10 - 19:00） 実質的には18:59まで。
   - [岡山ニュース845](https://ja.wikipedia.org/wiki/岡山ニュース845 "wikilink") （月〜金 20:45 - 21:00)
-  - [@okayama](http://www4.nhk.or.jp/P4563/) （随時）
+  - [@okayama](https://www4.nhk.or.jp/P4563/) （随時）
 
 <!-- end list -->
 

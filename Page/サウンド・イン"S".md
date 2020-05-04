@@ -5,9 +5,9 @@
 
 ## 概要
 
-[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』に対抗した大人の音楽番組として、初代司会に[佐良直美](../Page/佐良直美.md "wikilink")、[しばたはつみ](../Page/しばたはつみ.md "wikilink")、[由美かおる](../Page/由美かおる.md "wikilink")の3人を起用して放送を開始。レギュラー出演者・音楽監修に[世良譲](../Page/世良譲.md "wikilink")を起用したこともあり、ミュージックフェアよりも、ややジャズ、アメリカン・ポップスの選曲が多かった。その後、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")を挟み、1977年より[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")に司会は交替。レギュラーもその間、初期の[由美かおる](../Page/由美かおる.md "wikilink")から[タイム・ファイブ](../Page/タイム・ファイブ.md "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")と実力派の歌手に次々交替（しばたはつみは最終回まで出演）。ベテラン歌手や演歌歌手だけでなく、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手も多数出演した。また、[東京音楽祭](https://ja.wikipedia.org/wiki/東京音楽祭 "wikilink")で、ゴールデンカナリー賞などの各賞を受賞した国内外のアーティストが多く出演した。
+[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』に対抗した大人の音楽番組として、初代司会に[佐良直美](../Page/佐良直美.md "wikilink")、[しばたはつみ](../Page/しばたはつみ.md "wikilink")、[由美かおる](../Page/由美かおる.md "wikilink")の3人を起用して放送を開始。レギュラー出演者・音楽監修に[世良譲](../Page/世良譲.md "wikilink")を起用したこともあり、ミュージックフェアよりも、ややジャズ、アメリカン・ポップスの選曲が多かった。その後、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")を挟み、1977年より[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")に司会は交替。レギュラーもその間、初期の[由美かおる](../Page/由美かおる.md "wikilink")から[タイム・ファイブ](../Page/タイム・ファイブ.md "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")と実力派の歌手に次々交替（しばたはつみは最終回まで出演）。ベテラン歌手や演歌歌手だけでなく、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手も多数出演した。また、「[東京音楽祭](https://ja.wikipedia.org/wiki/東京音楽祭 "wikilink")」でゴールデンカナリー賞などの各賞を受賞した国内外のアーティストが多く出演した。
 
-初代司会者の三人の衣装はすべて自前のもので、1回放送分内に3着ほどを着用しており、費用は約20万円であった。また、番組のバックダンサーとなる「ホリデー・ガールズ」の衣装はTBS美術部によるもので、同じく1回分で5着ほど着用しており、回によっては1着30万円のものもあった\[1\]。
+初代司会者の3人の衣装はすべて自前のもので、1回放送分内に3着ほどを着用しており、費用は約20万円であった。また、番組のバックダンサーとなる「ホリデー・ガールズ」の衣装はTBS美術部によるもので、同じく1回分で5着ほど着用しており、回によっては1着30万円のものもあった\[1\]。
 
 当初は[モノラル放送](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")だったが、1978年11月26日放送分以降は[ステレオ放送](../Page/ステレオ放送.md "wikilink")化された。TBSの音楽番組では初のステレオ番組である。
 
@@ -15,21 +15,20 @@
 
 その後、スポンサーのSEIKOが撤退したことを受け、1981年、[日立製作所](../Page/日立製作所.md "wikilink")が単独提供を引き受ける形で、同じメンバーでの続編、『[Holiday](https://ja.wikipedia.org/wiki/Holiday_\(テレビ番組\) "wikilink")』に衣替えした。
 
-2014年9月28日、33年半ぶりに「サウンド・イン・S 音楽の時間」として復活したが、2015年春季改編から[BS-TBS](../Page/BS-TBS.md "wikilink")にて毎月第3土曜日の23:00 - 23:30にレギュラー放送として完全復活し『**[未来へつなぐ。土曜スタジアム](https://ja.wikipedia.org/wiki/未来へつなぐ。土曜スタジアム "wikilink")**』の前半部で放送を開始した。
+2014年9月28日、33年半ぶりに単発特別番組『サウンド・イン・S 音楽の時間』として復活した。その後、2015年4月18日から[BS-TBS](../Page/BS-TBS.md "wikilink")にて、毎月第3土曜日の23:00 - 23:30（『[未来へつなぐ。 土曜スタジアム](https://ja.wikipedia.org/wiki/未来へつなぐ。_土曜スタジアム "wikilink")』枠の前半部扱い）にレギュラー放送が復活した。2019年4月20日からは、毎月第3土曜日の18:30 - 19:00に放送されている。
 
 ## 放送日時
 
-  - 毎月第3[土曜](../Page/土曜日.md "wikilink") 23:00 - 23:30
+  - 第3[土曜](../Page/土曜日.md "wikilink") 18:30 - 19:00（2019年4月20日 - ）
+      -
+        2020年1月18日から4月18日までの間は、毎週放送されていた（第3土曜のみ新作、その他の週は再放送）。
 
 ## かつての放送日時
 
   - [日曜](../Page/日曜日.md "wikilink") 23:00 - 23:30 （1974年4月7日 - 1975年3月30日）
   - 日曜 22:30 - 23:00 （1975年4月6日 - 1975年9月28日）
   - 日曜 23:00 - 23:30 （1975年10月5日 - 1981年3月29日）
-
-\[スペシャル\]
-
-･ 日曜 14:00-14:54 (2014年9月28日)
+  - 第3土曜 23:00 - 23:30（2015年4月18日 - 2019年3月16日）
 
 ## 出演者
 
@@ -75,13 +74,13 @@
 
 ### かつてのネット局
 
-  - 東京放送（現・[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
+  - 東京放送（現：[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森テレビ](../Page/青森テレビ.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
   - [福島テレビ](../Page/福島テレビ.md "wikilink")（1974年10月から1975年6月まで放送）：金曜 23:05 - 23:35\[2\]
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
-  - 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
+  - 中部日本放送（現：[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")（1975年3月まで） → [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（1975年4月以降）
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
@@ -92,13 +91,13 @@
 
 ### TBSチャンネルでの再放送
 
-[CS放送の](../Page/日本における衛星放送.md "wikilink")[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")（現・TBSチャンネル1）では、開始時期は不明ながら[2007年](../Page/2007年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")まで再放送され、同日午前5時のリピート放送をもって終了した。
+[CS放送の](../Page/日本における衛星放送.md "wikilink")[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")（現・TBSチャンネル1）では、開始時期は不明ながら[2007年](../Page/2007年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")まで再放送され、同日5:00のリピート放送をもって終了した。
 
 レギュラー放送終了後には追悼特別番組としてたびたび放送されており、終了から約4年10ヶ月ぶりとなる2012年6月26日（初回放送）には同年5月に死去した[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")の出演した回を、2013年1月3日（初回放送）には前年10月に死去した[桑名正博](../Page/桑名正博.md "wikilink")の出演した回をそれぞれ放送した。
 
-### スペシャル
+## サウンド・イン"S" 音楽のじかん
 
-当番組が終了して33年半後の[2014年](../Page/2014年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、『**サウンド・イン"S" 音楽のじかん**』というタイトルで『[スパニチ\!\!](https://ja.wikipedia.org/wiki/スパニチ!! "wikilink")』（[日曜](../Page/日曜日.md "wikilink")14:00 - 14:54）枠で放送された（[関東ローカル](../Page/関東ローカル.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")）。また[BS-TBS](../Page/BS-TBS.md "wikilink")でも同年10月24日に“完全版”を放送予定である。引き続きセイコーホールディングスが一社提供した。
+当番組が終了して33年半後の[2014年](../Page/2014年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、『**サウンド・イン"S" 音楽のじかん**』というタイトルで『[スパニチ\!\!](https://ja.wikipedia.org/wiki/スパニチ!! "wikilink")』（[日曜](../Page/日曜日.md "wikilink")14:00 - 14:54）枠で放送された（[関東ローカル](../Page/関東ローカル.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")）。また[BS-TBS](../Page/BS-TBS.md "wikilink")でも、同年10月24日に“完全版”を放送した。引き続きセイコーホールディングスが一社提供した。
 
 ### 司会
 
@@ -125,7 +124,7 @@
 
 ## 外部リンク
 
-  - [Sound Inn "S" |BS-TBS](http://www.bs-tbs.co.jp/music/sis/)
+  - [BS-TBS｜Sound Inn "S"](http://www.bs-tbs.co.jp/music/sis/)
   - [@SoundInnS | 『Sound Inn S』公式Twitterアカウント](https://twitter.com/soundinns)
   - [Sound Inn "S" 番組紹介 | セイコーホールディングス](https://www.seiko.co.jp/branding/soundinns/)
 
@@ -137,7 +136,7 @@
   - [サウンド・イン"S" 尾崎紀世彦編｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/o1370/)
   - [サウンド・イン"S" 桑名正博編｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/o1410/)
 
-[Category:1974年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のテレビ番組_\(日本\) "wikilink") [Category:TBSの音楽番組](https://ja.wikipedia.org/wiki/Category:TBSの音楽番組 "wikilink") [Category:TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSの一社提供番組 "wikilink") [Category:セイコー一社提供番組](https://ja.wikipedia.org/wiki/Category:セイコー一社提供番組 "wikilink") [Category:TBSの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの番組の歴史 "wikilink") [Category:いしだあゆみ](https://ja.wikipedia.org/wiki/Category:いしだあゆみ "wikilink") [Category:松崎しげる](https://ja.wikipedia.org/wiki/Category:松崎しげる "wikilink") [Category:BS-TBSの音楽番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの音楽番組 "wikilink")
+[Category:1974年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のテレビ番組_\(日本\) "wikilink") [Category:BS-TBSの音楽番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの音楽番組 "wikilink") [Category:TBSの音楽番組](https://ja.wikipedia.org/wiki/Category:TBSの音楽番組 "wikilink") [Category:TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSの一社提供番組 "wikilink") [Category:セイコー一社提供番組](https://ja.wikipedia.org/wiki/Category:セイコー一社提供番組 "wikilink") [Category:TBSの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの番組の歴史 "wikilink") [Category:いしだあゆみ](https://ja.wikipedia.org/wiki/Category:いしだあゆみ "wikilink") [Category:松崎しげる](https://ja.wikipedia.org/wiki/Category:松崎しげる "wikilink")
 
 1.  『[福島民報](../Page/福島民報.md "wikilink")』1975年5月28日付朝刊、8面。
 2.  『福島民報』1974年10月4日 - 1975年6月27日付朝刊、テレビ欄。

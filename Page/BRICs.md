@@ -1,7 +1,7 @@
 > この記事は[BRICs](https://ja.wikipedia.org/wiki/BRICs)から翻訳されています。
 
 
-**BRICS**（ブリックス、[英語](../Page/英語.md "wikilink") **B**razil, **R**ussia, **I**ndia, **C**hina から）は、2000年代以降著しい経済発展を遂げている、[中国の](../Page/中華人民共和国.md "wikilink")4ヶ国の総称。<span style="speak:none">（ブリック）</span>とも呼ばれる\[1\]。[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の[経済学者](../Page/経済学者.md "wikilink")である[ジム・オニールによって書かれた](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")の[投資家](../Page/投資家.md "wikilink")向け[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")『』\[2\] で初めて用いられ、世界中に広まった\[3\]\[4\]。
+**BRICs**（ブリックス、[英語](../Page/英語.md "wikilink") **B**razil, **R**ussia, **I**ndia, **C**hina から）は、2000年代以降著しい経済発展を遂げている4ヶ国の総称。<span style="speak:none">（ブリック）</span>とも呼ばれる\[1\]。[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")の[経済学者](../Page/経済学者.md "wikilink")である[ジム・オニールによって書かれた](https://ja.wikipedia.org/wiki/ジム・オニール_\(エコノミスト\) "wikilink")[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")の[投資家](../Page/投資家.md "wikilink")向け[レポート](https://ja.wikipedia.org/wiki/レポート "wikilink")『』\[2\] で初めて用いられ、世界中に広まった\[3\]\[4\]。
 
 また、4ヶ国（ブラジル、ロシア、インド、中国）に[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")（**S**outh Africa）を加えた5ヶ国は、**BRICS**\[5\] と総称される\[6\]。近年はBRICSの表記が一般的である。
 
@@ -113,17 +113,8 @@
   - 国土および資源大国である。国土面積はロシアが世界1位、中国が3位、ブラジルが5位、インドが7位、南アフリカが24位。面積でいえば5ヶ国合計で世界の約32%を占めている。また、それに伴い[天然資源](https://ja.wikipedia.org/wiki/天然資源 "wikilink")にも富んでいる。中国やインドは1人あたりの資源量は決して多くはないものの、5ヶ国とも資源大国である。資源としては[石炭](../Page/石炭.md "wikilink")・[鉄鉱石](../Page/鉄鉱石.md "wikilink")・[天然ガス](../Page/天然ガス.md "wikilink")が4ヶ国に共通しており、[原油](../Page/原油.md "wikilink")・[ボーキサイト](../Page/ボーキサイト.md "wikilink")などもほとんどの国で産出されている。
   - 人口大国である。2000年代初頭の人口は、中国が約13億人（世界1位）、インドが約11億人（世界2位）、ブラジルが約1億7,000万人（世界5位）、ロシアが約1億4,000万人（世界7位）、南アフリカが約4,900万人（世界25位）となっており、5ヶ国合計で27億人以上、世界の人口の約45%を占めている。今後もロシアを除く4ヶ国では人口が増加し、2050年には32億6,000万人にまで膨れ上がるとされている。ただし、ブラジルとインドおよび南アフリカでは将来的にも人口が増え続ける一方で、ロシアは特に21世紀に入って以降、人口が急激に減少する傾向にあり\[16\]、人口が多いため[一人っ子政策](../Page/一人っ子政策.md "wikilink")を廃止した中国でも人口は伸び悩んでおり、将来的には人口が減少すると予測されている。
   - 政治・軍事において、地域における覇権を握っている。
-      - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[航空母艦](../Page/航空母艦.md "wikilink")保有国である。ただし、ブラジルはかつては空母を保有していた。
-      - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")保有国である。ただし、南アフリカはかつては核を保有していた。
-      - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[ICBM](https://ja.wikipedia.org/wiki/ICBM "wikilink")保有国である。
-      - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[SLBM](https://ja.wikipedia.org/wiki/SLBM "wikilink")保有国である。
-      - ブラジルと南アフリカを除いた、ロシア・中国・インドの3ヶ国は[SSBN](https://ja.wikipedia.org/wiki/SSBN "wikilink")保有国である。
-      - ロシア・中国は[衛星測位システム](../Page/衛星測位システム.md "wikilink")保有国である。
-      - ロシア・中国は[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")保有国である。
-      - ロシア・中国は[戦略爆撃機](../Page/戦略爆撃機.md "wikilink")保有国である。
-      - ロシア・中国は[ASAT保有国である](../Page/衛星攻撃兵器.md "wikilink")。
-      - ロシア・中国は[有人宇宙飛行](../Page/有人宇宙飛行.md "wikilink")を成功させた。
-      - ロシア・中国は[月面着陸](../Page/月面着陸.md "wikilink")を成功させた。
+      - ロシア・中国・インドの3ヶ国は[航空母艦](../Page/航空母艦.md "wikilink")・[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")・[ICBM](https://ja.wikipedia.org/wiki/ICBM "wikilink")・[SLBM](https://ja.wikipedia.org/wiki/SLBM "wikilink")・[SSBN](https://ja.wikipedia.org/wiki/SSBN "wikilink")保有国である。
+      - ロシア・中国は[衛星測位システム](../Page/衛星測位システム.md "wikilink")・[ミサイル巡洋艦](../Page/ミサイル巡洋艦.md "wikilink")・[戦略爆撃機](../Page/戦略爆撃機.md "wikilink")・[ASATの保有国である](../Page/衛星攻撃兵器.md "wikilink")。また[有人宇宙飛行](../Page/有人宇宙飛行.md "wikilink")・[月面着陸](../Page/月面着陸.md "wikilink")を成功させた。
       - ロシア・インドは[火星探査機](../Page/火星探査機.md "wikilink")を火星周回軌道への投入に成功させた。
       - ロシア・中国は国連安保理[常任理事国](https://ja.wikipedia.org/wiki/常任理事国 "wikilink")で、ブラジルとインドも新たに常任理事国入りする可能性がある。
       - 2005年2月に[ロンドン](../Page/ロンドン.md "wikilink")で開かれた[G7](../Page/G7.md "wikilink")財務相・中央銀行総裁会議では従来のG8（G7+ロシア）に加えて、他のBRICs3ヶ国も初めて参加した。

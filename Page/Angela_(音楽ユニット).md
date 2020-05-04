@@ -217,7 +217,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年10月19日</p></td>
-<td><p><strong>僕は僕であって</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/僕は僕であって" title="wikilink">僕は僕であって</a></strong></p></td>
 <td><p>angela×<a href="https://ja.wikipedia.org/wiki/fripSide" title="wikilink">fripSide</a></p></td>
 <td><p>KICM-91710</p></td>
 <td><p>KICM-1711</p></td>
@@ -225,7 +225,7 @@
 </tr>
 <tr class="even">
 <td><p>2016年12月7日</p></td>
-<td><p><strong>The end of escape</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/The_end_of_escape" title="wikilink">The end of escape</a></strong></p></td>
 <td><p>fripSide×angela</p></td>
 <td><p>GNCA-0461</p></td>
 <td><p>GNCA-0462</p></td>
@@ -253,12 +253,14 @@
 
 #### ベストアルバム
 
-|     | 発売日                                                                                       | タイトル                                                                                        | 規格品番      | 最高位          |
-| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------- | ------------ |
-| 通常盤 | 初回盤                                                                                       |                                                                                             |           |              |
-| 1st | 2007年12月12日                                                                               | **[宝箱 -TREASURE BOX-](https://ja.wikipedia.org/wiki/宝箱_-TREASURE_BOX- "wikilink")**         | KICS-1343 | KICS-91343/4 |
-| 2nd | 2014年5月21日                                                                                | **[宝箱2 -TREASURE BOX II-](https://ja.wikipedia.org/wiki/宝箱2_-TREASURE_BOX_II- "wikilink")** | KICS-3058 | KICS-93058/9 |
-|     | **[宝箱と宝箱2が入ったブルーレイで聞くやつ](https://ja.wikipedia.org/wiki/宝箱と宝箱2が入ったブルーレイで聞くやつ "wikilink")** | KIXY-1                                                                                      |           |              |
+|                                                                                                               | 発売日         | タイトル                                                                                                          | 規格品番        | 最高位          |
+| ------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------- | ----------- | ------------ |
+| 通常盤                                                                                                           | 初回盤         |                                                                                                               |             |              |
+| 1st                                                                                                           | 2007年12月12日 | **[宝箱 -TREASURE BOX-](https://ja.wikipedia.org/wiki/宝箱_-TREASURE_BOX- "wikilink")**                           | KICS-1343   | KICS-91343/4 |
+| 2nd                                                                                                           | 2014年5月21日  | **[宝箱2 -TREASURE BOX II-](https://ja.wikipedia.org/wiki/宝箱2_-TREASURE_BOX_II- "wikilink")**                   | KICS-3058   | KICS-93058/9 |
+| **[宝箱と宝箱2が入ったブルーレイで聞くやつ](https://ja.wikipedia.org/wiki/宝箱と宝箱2が入ったブルーレイで聞くやつ "wikilink")**                     | KIXY-1      |                                                                                                               | 92位         |              |
+| 3rd                                                                                                           | 2018年10月24日 | **[angela All Time Best 2003-2009](https://ja.wikipedia.org/wiki/angela_All_Time_Best_2003-2009 "wikilink")** | KICS-3755/6 | 20位          |
+| **[angela All Time Best 2010-2017](https://ja.wikipedia.org/wiki/angela_All_Time_Best_2010-2017 "wikilink")** | KICS-3757/8 | 18位                                                                                                           |             |              |
 
 #### その他のアルバム
 

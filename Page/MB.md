@@ -37,7 +37,7 @@
   - [李明博](../Page/李明博.md "wikilink") () - [大韓民国大統領](https://ja.wikipedia.org/wiki/大韓民国大統領 "wikilink")
   - [メトロブス・デ・ラ・アバナ](https://ja.wikipedia.org/wiki/メトロブス・デ・ラ・アバナ "wikilink") () - キューバ・ハバナのバス路線。
   - [東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")の[方南町](https://ja.wikipedia.org/wiki/方南町駅 "wikilink")[支線](../Page/支線.md "wikilink")部分に使われる[路線](https://ja.wikipedia.org/wiki/路線 "wikilink")[記号](../Page/記号.md "wikilink")。
-  - [MB (バイヤー)](https://ja.wikipedia.org/wiki/MB_\(バイヤー\) "wikilink")
+  - [MB (バイヤー)](../Page/MB_\(バイヤー\).md "wikilink")
 
 ## コード・形式名
 

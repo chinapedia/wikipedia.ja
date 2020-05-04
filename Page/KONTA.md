@@ -138,7 +138,7 @@
   - [KONTAMINATE _official「こんたちゃんねる」](https://www.youtube.com/channel/UCD5s5H6aS20ubm8aliCThmA) - Youtube公式チャンネル
 
   -
-[Category:BARBEE_BOYSのメンバー](https://ja.wikipedia.org/wiki/Category:BARBEE_BOYSのメンバー "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:日本のサクソフォーン奏者](https://ja.wikipedia.org/wiki/Category:日本のサクソフォーン奏者 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のナレーター](https://ja.wikipedia.org/wiki/Category:日本のナレーター "wikilink")
+[Category:BARBEE_BOYS](https://ja.wikipedia.org/wiki/Category:BARBEE_BOYS "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:日本のサクソフォーン奏者](https://ja.wikipedia.org/wiki/Category:日本のサクソフォーン奏者 "wikilink") [Category:日本の男性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ロック歌手 "wikilink") [Category:日本の男性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の男性ポップ歌手 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のナレーター](https://ja.wikipedia.org/wiki/Category:日本のナレーター "wikilink")
 
 1.
 2.

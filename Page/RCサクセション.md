@@ -438,7 +438,7 @@ G2</p></td>
 | 10th                                                       | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")                      | **ボスしけてるぜ**                                                                                   | キモちE                                                                               |      |
 | 11th                                                       | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") | **[トランジスタ・ラジオ](../Page/トランジスタラジオ_\(曲\).md "wikilink")**                                       | たとえばこんなラブソング                                                                       | 83位  |
 | [ロンドンレコード](../Page/ロンドンレコード.md "wikilink")                 |                                                                                                                  |                                                                                               |                                                                                    |      |
-| 12th                                                       | [1982年](../Page/1982年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")                                         | **サマーツアー**                                                                                    | ノイローゼ・ダンシング（CHABOは不眠症）                                                             | 6位   |
+| 12th                                                       | [1982年](../Page/1982年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")                                         | **SUMMER TOUR**                                                                               | ノイローゼ・ダンシング（CHABOは不眠症）                                                             | 6位   |
 | 13th                                                       | [1982年](../Page/1982年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")                                       | **つ・き・あ・い・た・い**                                                                               | 窓の外は雪                                                                              | 48位  |
 | 14th                                                       | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Oh\! Baby**                                                                                 | ダンスパーティー                                                                           | 38位  |
 | 15th                                                       | [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")                      | **ベイビー\!逃げるんだ。**                                                                              | おはようダーリン                                                                           | 31位  |
@@ -514,31 +514,168 @@ G2</p></td>
 
 ### ベストアルバム
 
-|                                                            | 発売日                                                                                           | タイトル                                                                          | 最高順位 |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---- |
-| [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |                                                                                               |                                                                               |      |
-| 1st                                                        | [1981年](../Page/1981年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **[EPLP](../Page/EPLP.md "wikilink")**                                        | 22位  |
-| [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink") / EXPRESS    |                                                                                               |                                                                               |      |
-| 2nd                                                        | [1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                      | **[ハードフォーク・サクセション](https://ja.wikipedia.org/wiki/ハードフォーク・サクセション "wikilink")** | 圏外   |
-| [NEWSレコード](../Page/NEWSレコード.md "wikilink") / SPEED SHOCK   |                                                                                               |                                                                               |      |
-| 3rd                                                        | [1984年](../Page/1984年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                      | **[EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink")**                 | 圏外   |
-| 4th                                                        | [1984年](../Page/1984年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | **MIX & MIXER**                                                               |      |
-| 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                               |      |
-| 5th                                                        | [1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                      | **ニュー・ベストナウ**                                                                 | 圏外   |
-| 6th                                                        | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")   | **BEST OF RC SUCCESSION 1970-1980**                                           | 269位 |
-| 7th                                                        | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月14日](../Page/11月14日.md "wikilink") | **BEST OF RC SUCCESSION 1981-1990**                                           | 圏外   |
-| Kitty Records                                              |                                                                                               |                                                                               |      |
-| 8th                                                        | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")   | **SOULMATES THE RC SUCCESSION '76-'81&'88**                                   | 圏外   |
-| 9th                                                        | [1999年](../Page/1999年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")                      | **TREASURE COLLECTION**                                                       |      |
-| キティMME                                                     |                                                                                               |                                                                               |      |
-| 10th                                                       | [2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") | **スーパー・バリュー**                                                                 | 圏外   |
-| 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                               |      |
-| 11th                                                       | [2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")                      | **ゴールデン☆ベスト**                                                                 | 圏外   |
-| [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |                                                                                               |                                                                               |      |
-| 12th                                                       | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                      | **ゴールデン☆ベスト RCサクセション ユニバーサル・エディション**                                          | 31位  |
-| 13th                                                       | [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Wonderful Days 1970-80**                                                    | 60位  |
-| 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                               |      |
-| 14th                                                       | [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Greatful Days 1981-90**                                                     | 60位  |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>最高順位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">Kitty Records</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p><a href="../Page/1981年.md" title="wikilink">1981年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
+<td><p><strong><a href="../Page/EPLP.md" title="wikilink">EPLP</a></strong></p></td>
+<td><p>22位</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a> / EXPRESS</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハードフォーク・サクセション" title="wikilink">ハードフォーク・サクセション</a></strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/NEWSレコード.md" title="wikilink">NEWSレコード</a> / SPEED SHOCK</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a><a href="../Page/7月21日.md" title="wikilink">7月21日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/EPLP-2" title="wikilink">EPLP-2</a></strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="odd">
+<td><p>4th</p></td>
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><strong>MIX &amp; MIXER</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>東芝EMI / EASTWORLD</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p><a href="../Page/1982年.md" title="wikilink">1982年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
+<td><p><strong>ニュー・ベストナウ</strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="even">
+<td><p>6th</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/11月7日.md" title="wikilink">11月7日</a></p></td>
+<td><p><strong>BEST OF RC SUCCESSION 1970-1980</strong></p></td>
+<td><p>269位</p></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a><a href="../Page/11月14日.md" title="wikilink">11月14日</a></p></td>
+<td><p><strong>BEST OF RC SUCCESSION 1981-1990</strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="even">
+<td><p>Kitty Records</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8th</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a><a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
+<td><p><strong>SOULMATES THE RC SUCCESSION '76-'81&amp;'88</strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="even">
+<td><p>9th</p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
+<td><p><strong>TREASURE COLLECTION</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>キティMME</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10th</p></td>
+<td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
+<td><p><strong>スーパー・バリュー</strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="odd">
+<td><p>東芝EMI / EASTWORLD</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11th</p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/6月19日.md" title="wikilink">6月19日</a></p></td>
+<td><p><strong>ゴールデン☆ベスト</strong></p></td>
+<td><p>圏外</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージック</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12th</p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
+<td><p><strong>ゴールデン☆ベスト RCサクセション ユニバーサル・エディション</strong></p></td>
+<td><p>31位</p></td>
+</tr>
+<tr class="odd">
+<td><p>13th</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
+<td><p><strong>Wonderful Days 1970-80</strong></p></td>
+<td><p>60位</p></td>
+</tr>
+<tr class="even">
+<td><p>東芝EMI / EASTWORLD</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14th</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
+<td><p><strong>Greatful Days 1981-90</strong></p></td>
+<td><p>60位</p></td>
+</tr>
+<tr class="even">
+<td><p>ユニバーサルミュージック</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>15th</p></td>
+<td></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/COMPLETE_EPLP_〜ALL_TIME_SINGLE_COLLECTION〜" title="wikilink">COMPLETE EPLP 〜ALL TIME SINGLE COLLECTION〜</a></strong></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### ビデオ・DVD
 

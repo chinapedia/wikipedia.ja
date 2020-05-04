@@ -362,13 +362,13 @@
   - [ドクター・ハウス](https://ja.wikipedia.org/wiki/Dr.HOUSE "wikilink")（韓国名:, English:Dr. House, 2007.10-）
   - [ワーストウイッチ](https://ja.wikipedia.org/wiki/ワーストウイッチ_\(ドラマ\) "wikilink")（韓国名:, English:The Worst Witch, 2006.3-2006.5 1次/2006.5-2006.7 2次）
   - [わがまま☆フェアリー ミルモでポン\!](https://ja.wikipedia.org/wiki/わがまま☆フェアリー_ミルモでポン! "wikilink")（韓国名:（ミルモ ポンポンポン\!）, English:Mirmo\!, 2005.7-2006.1）
-  - [ふたりはプリキュア](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")（韓国名:, English:Futari wa Pretty Cure, 2005.12-2007.1）
+  - [ふたりはプリキュア](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")（韓国名:, English:Futari wa Pretty Cure, 2005.12-2006.11）
   - [折紙戦士](../Page/折紙戦士.md "wikilink")（韓国名:, English:Origami Warriors, 日本・台湾・韓国 共同作品, 主題歌:[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")(TVXQ), 2006.1-2007.5）
   - [ハロンイの英語の国](https://ja.wikipedia.org/wiki/ハロンイの英語の国 "wikilink")（韓国名:, 2006.1-2006.3）
   - [デュエル・マスターズ](https://ja.wikipedia.org/wiki/デュエル・マスターズ_\(アニメ\) "wikilink")（韓国名:, 2006.2-）
   - [童謡の国](https://ja.wikipedia.org/wiki/童謡の国 "wikilink")（韓国名:, 2006.3-）
   - [こども三国遺事](https://ja.wikipedia.org/wiki/こども三国遺事 "wikilink")（韓国名:, 2006.4-2007.5）
-  - [クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")（韓国名:, 1999.6-2007.2）
+  - [クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")（韓国名:, 1999.6-2007.1）
   - [オリンポスガーディアン](https://ja.wikipedia.org/wiki/オリンポスガーディアン "wikilink")（韓国名:, English:Olympus Guardian, 2002-2005）
   - [コミの漫画好奇心天国](https://ja.wikipedia.org/wiki/コミの漫画好奇心天国 "wikilink")（韓国名:, 2005.4-2006.4）
   - [ウィッチ -W.I.T.C.H.-](../Page/ウィッチ_-W.I.T.C.H.-.md "wikilink")（韓国名:, 2005.10-2006.3）
@@ -385,10 +385,10 @@
   - [ユニミニペッ](https://ja.wikipedia.org/wiki/ユニミニペッ "wikilink")（韓国名:, English:Uniminipet, 2001-2003）
   - [ポケットモンスター](../Page/ポケットモンスター_\(1997-2002年のアニメ\).md "wikilink")（韓国名:, English:Pocket Monsters, 1999-2003）
   - [ポケットモンスターAG](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")（韓国名:, English:Pocket Monsters: Advanced Generation, 2003-2005）
-  - [ポケットモンスターDP](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")（韓国名:, English:Pocket Monsters: Diamond & Pearl, 2007.9-）
+  - [ポケットモンスターDP](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")（韓国名:, English:Pocket Monsters: Diamond & Pearl, 2007.9-2008.3）
   - [東京ミュウミュウ](../Page/東京ミュウミュウ.md "wikilink")（韓国名:, English:Mew Mew Power(Tokyo Mew Mew), 2004-2005）
   - [アクアキッズ](../Page/アクアキッズ.md "wikilink")（韓国名:, English:Aqua Kids, 2004-2005, 現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")から放送中）
-  - [竜の伝説レジェンド](../Page/レジェンズ.md "wikilink")（韓国名:, English:Legend Z, 2004.11-2005.9）
+  - [竜の伝説レジェンド](../Page/レジェンズ.md "wikilink")（韓国名:, English:Legend Z, 2004.11-2005.7）
   - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")（韓国名:, English:Yugioh, 2003.12-2005.6）
   - [魔法神話ラグナロク](https://ja.wikipedia.org/wiki/魔法神話ラグナロク "wikilink")（韓国名:（ラグナロク）, English:Ragnarok The Animation, 2005.1-2006.2）
   - [白い心ペック](https://ja.wikipedia.org/wiki/白い心ペック "wikilink")（韓国名:, 2000）
@@ -396,7 +396,7 @@
   - [とっとこハム太郎](../Page/とっとこハム太郎_\(アニメ\).md "wikilink")（韓国名:, English:Hamtato (Banga Banga Hamtori), 2002-2003）
   - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")（韓国名:, English:Cardcaptors (Cardcaptor Cherry), 1999-2000）
   - [あるっそんたるっそん びくた](https://ja.wikipedia.org/wiki/あるっそんたるっそん_びくた "wikilink")（韓国名:, English:Victor, 2004-2005）
-  - [アニマル横町](../Page/アニマル横町.md "wikilink")（韓国名:, English:Animal Yokocho, 2005.12-2006.9, 現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と共同放送中。と言っても韓国製アニメとして放送）
+  - [アニマル横町](../Page/アニマル横町.md "wikilink")（韓国名:, English:Animal Yokocho, 2005.12-2007.1, 現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と共同放送中。と言っても韓国製アニメとして放送）
   - [クリスタル妖精 ジースクアド](https://ja.wikipedia.org/wiki/クリスタル妖精_ジースクアド "wikilink")（韓国名:, English:Z-Sqard (Crystral Fairy Z-Sqard), 2006.11-2007.9）
   - [亀特攻隊Z（タートルズ）](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink")（韓国名:, English:Ninja Turtles Z, 2006.9.21-2007.5.31）
   - [マシュマロ通信](../Page/マシュマロ通信.md "wikilink")（韓国名:, English:The Raspberry Times, 2006.11-2007.9）
@@ -419,7 +419,7 @@ SBSでは、過去にも放送事故や不祥事が起きている。
   - 2006年8月20日に放送された『SBS人気歌謡』におけるステージ中、バックダンサーの1人が突然発作を起こして倒れるという事故が起きた。（詳しくは[SeeYa](../Page/SeeYa.md "wikilink")を参照する事。）
   - [フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手の[キム・ヨナが](../Page/金妍兒.md "wikilink")2009年3月14日に韓国SBSで放送されたインタビューにおいて「競争相手の選手に試合直前の練習を妨害されました」と述べた。この時、ヨナは具体的な選手名を挙げていなかったが、SBSはヨナの練習を妨げたのが「いつも日本人選手だった」というナレーションを挿入し、他の韓国メディアもそれに追随したため、韓国では日本選手に対するバッシングが起こり、日韓のスケート連盟を巻き込んでの大騒動（詳細は[金妍兒による練習妨害発言](https://ja.wikipedia.org/wiki/金妍兒による練習妨害発言 "wikilink")を参照）となった。ヨナに上記のインタビューをしたSBSのリポーターは、[東京スポーツ](../Page/東京スポーツ.md "wikilink")の取材に対し「『日本人に〜』というのはSBS側が付け加えたもの」と答え、今回の報道は「（マスメディアが）韓国ファンの反日感情を煽り、対決ムードを盛り上げようとしただけ」と述べた\[1\]。
   - 2009年7月22日、バラエティー番組の『驚くべき大会スターキング』内で放送された「3分出勤法」が日本の番組の[盗作](../Page/盗作.md "wikilink")だったことを認め謝罪した\[2\]。
-  - 2011年11月17日、ニュース番組の『SBSナイトライン』で、同局のチョン・ソングンアナウンサーが[朴元淳](https://ja.wikipedia.org/wiki/朴元淳 "wikilink")[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")長がインターネットを利用したオンライン就任式を行ったことに対して、「趣のある就任式を期待していた市民も明らかに少なくなかったのではないでしょうか。そのような点では市民の権利を奪ったので、これが進歩でないことを望みます。」と発言し顰蹙を買った。\[3\]
+  - 2011年11月17日、ニュース番組の『SBSナイトライン』で、同局のチョン・ソングンアナウンサーが[朴元淳](https://ja.wikipedia.org/wiki/朴元淳 "wikilink")[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")長がインターネットを利用したオンライン就任式を行ったことに対して、「趣のある就任式を期待していた市民も明らかに少なくなかったのではないでしょうか。そのような点では市民の権利を奪ったので、これが進歩でないことを望みます。」と発言し顰蹙を買った\[3\]。
   - 2014年3月5日、集団お見合い番組の「[チャク](https://ja.wikipedia.org/wiki/チャク_\(韓国のテレビ番組\) "wikilink")」で番組収録中に出演していた29歳の女性が首つり自殺した。同番組は振られた出演者には外で食事を取らせるなどして、出演者を心身共に傷つけていると批判された。なお、この事件を受けて同番組は打ち切りとなった。
   - [2017年](../Page/2017年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")、時事風刺番組において[盧武鉉](../Page/盧武鉉.md "wikilink")元大統領が[TIME](https://ja.wikipedia.org/wiki/TIME "wikilink")誌で表紙を飾った際の画像を放送したが、表紙の文字が[日刊ベストストア](https://ja.wikipedia.org/wiki/日刊ベストストア "wikilink")利用者の手により「Hello，Mr.Roh」から「Go to Hell，Mr.Roh」へ書き換えられたパロディ画像であった。SBSが日刊ベストストアの画像を使って生じた[放送事故](../Page/放送事故.md "wikilink")は10回目とされ、局側は遺族らに陳謝したうえで幹部社員を処分している\[4\]。
 
@@ -429,12 +429,12 @@ SBSでは、過去にも放送事故や不祥事が起きている。
 | -------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **SBS**  | **SBS**                                                               | [ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")·[仁川広域市](../Page/仁川広域市.md "wikilink")·[京畿道](../Page/京畿道.md "wikilink")     | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月14日](../Page/11月14日.md "wikilink") |
 | **KNN**  | **[KNN](https://ja.wikipedia.org/wiki/KNN_\(放送局\) "wikilink")**       | [釜山広域市](../Page/釜山広域市.md "wikilink")·[慶尚南道](../Page/慶尚南道.md "wikilink")                                                             | [1994年](../Page/1994年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")         |
-| **TJB**  | **[大田放送](https://ja.wikipedia.org/wiki/大田放送 "wikilink")**             | [大田広域市](../Page/大田広域市.md "wikilink")·[世宗特別自治市](https://ja.wikipedia.org/wiki/世宗特別自治市 "wikilink")・[忠清南道](../Page/忠清南道.md "wikilink") | [1994年](../Page/1994年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")                        |
-| **JIBS** | **[済州国際自由都市放送](https://ja.wikipedia.org/wiki/済州国際自由都市放送 "wikilink")** | [済州特別自治道](../Page/済州特別自治道.md "wikilink")                                                                                            | [1994年](../Page/1994年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")                      |
-| **TBC**  | **[大邱放送](https://ja.wikipedia.org/wiki/大邱放送 "wikilink")**             | [大邱広域市](../Page/大邱広域市.md "wikilink")·[慶尚北道](../Page/慶尚北道.md "wikilink")                                                             | [1994年](../Page/1994年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")                      |
-| **kbc**  | **[光州放送](https://ja.wikipedia.org/wiki/光州放送 "wikilink")**             | [光州広域市](https://ja.wikipedia.org/wiki/光州広域市 "wikilink")·[全羅南道](../Page/全羅南道.md "wikilink")                                          | [1994年](../Page/1994年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")                      |
+| **TJB**  | **[大田放送](https://ja.wikipedia.org/wiki/大田放送 "wikilink")**             | [大田広域市](../Page/大田広域市.md "wikilink")·[世宗特別自治市](https://ja.wikipedia.org/wiki/世宗特別自治市 "wikilink")・[忠清南道](../Page/忠清南道.md "wikilink") | 1994年[4月9日](../Page/4月9日.md "wikilink")                                                       |
+| **JIBS** | **[済州国際自由都市放送](https://ja.wikipedia.org/wiki/済州国際自由都市放送 "wikilink")** | [済州特別自治道](../Page/済州特別自治道.md "wikilink")                                                                                            | 1994年[4月10日](../Page/4月10日.md "wikilink")                                                     |
+| **TBC**  | **[大邱放送](https://ja.wikipedia.org/wiki/大邱放送 "wikilink")**             | [大邱広域市](../Page/大邱広域市.md "wikilink")·[慶尚北道](../Page/慶尚北道.md "wikilink")                                                             | 1994年[8月10日](../Page/8月10日.md "wikilink")                                                     |
+| **kbc**  | **[光州放送](https://ja.wikipedia.org/wiki/光州放送 "wikilink")**             | [光州広域市](https://ja.wikipedia.org/wiki/光州広域市 "wikilink")·[全羅南道](../Page/全羅南道.md "wikilink")                                          | 1994年8月10日                                                                                    |
 | **CJB**  | **[清州放送](https://ja.wikipedia.org/wiki/清州放送 "wikilink")**             | [忠清北道](../Page/忠清北道.md "wikilink")                                                                                                  | [1996年](../Page/1996年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")                        |
-| **ubc**  | **[蔚山放送](https://ja.wikipedia.org/wiki/蔚山放送 "wikilink")**             | [蔚山広域市](https://ja.wikipedia.org/wiki/蔚山広域市 "wikilink")                                                                             | [1996年](../Page/1996年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")                        |
+| **ubc**  | **[蔚山放送](https://ja.wikipedia.org/wiki/蔚山放送 "wikilink")**             | [蔚山広域市](https://ja.wikipedia.org/wiki/蔚山広域市 "wikilink")                                                                             | 1996年[9月4日](../Page/9月4日.md "wikilink")                                                       |
 | **JTV**  | **[全州放送](https://ja.wikipedia.org/wiki/全州放送 "wikilink")**             | [全羅北道](../Page/全羅北道.md "wikilink")                                                                                                  | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月25日](../Page/1月25日.md "wikilink")   |
 | **G1**   | **[G1](https://ja.wikipedia.org/wiki/G1_\(放送局\) "wikilink")**         | [江原道](../Page/江原道_\(南\).md "wikilink")                                                                                              | [1999年](../Page/1999年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") |
 

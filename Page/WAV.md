@@ -41,6 +41,8 @@ RIFFファイルの一例を挙げる。 この例ではオフセット0x0に`RI
 
 `fmt`チャンクの構造は、拡張可能なWAVEFORMATEX構造体によって定義される\[2\]。
 
+チャンネル数、サンプルレート、サンプルのビット数などが定義される。
+
     typedef struct {
         WORD  wFormatTag;
         WORD  nChannels;
@@ -55,19 +57,19 @@ RIFFファイルの一例を挙げる。 この例ではオフセット0x0に`RI
 
 フォーマットはwFormatTagであらわされ、リニアPCMの場合は1(`WAVE_FORMAT_PCM`)、32ビット浮動小数点の場合は3(`WAVE_FORMAT_IEEE_FLOAT`)となっている。 これらの定数はWindows SDKに含まれるmmreg.h\[3\]によって定義されており、さらにそれぞれのフォーマットによって`fmt`チャンクの構造の詳細が決まる。
 
-チャンネル数、サンプルレート、サンプルのビット数などが定義される。
-
 ### dataチャンク
 
 `data`チャンクの中身は`fmt`チャンクによって定義されるフォーマットに基づく。
 
-2チャンネルのリニアPCMの場合には、左チャンネル・右チャンネルの順に符号付整数で格納される。
+2チャンネルのリニアPCMの場合には、左チャンネル・右チャンネルの順に符号付整数(2の補数)で格納される。
 
 浮動小数点数で格納される場合、慣習からデータ値の範囲は-1.0から+1.0に限られる。
 
 ## Windows上での圧縮
 
 Windows上では、[ACMを利用すれば](https://ja.wikipedia.org/wiki/Audio_Compression_Manager "wikilink")、圧縮などが行える。この機能が利用できる[ソフトウェア](../Page/ソフトウェア.md "wikilink")として、[サウンド レコーダーがある](../Page/サウンド_レコーダー.md "wikilink")。
+
+## 脚注
 
 ## 関連項目
 
@@ -76,6 +78,9 @@ Windows上では、[ACMを利用すれば](https://ja.wikipedia.org/wiki/Audio_C
   - [Cwav](../Page/Cwav.md "wikilink") - wavを利用した圧縮形式
 
 ## 外部リンク
+
+  - [Extensible Wave-Format Descriptors](https://docs.microsoft.com/en-us/windows-hardware/drivers/audio/extensible-wave-format-descriptors) from Microsoft (Updated October 26, 2017)
+  - [WAVE File Format - technical details](https://web.archive.org/web/20080113195252/http://www.borg.com/~jglatt/tech/wave.htm) (1999)
 
 ### 解説サイト
 

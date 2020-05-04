@@ -30,7 +30,7 @@
       - 作詞:・作曲:Motoo Fujiwara
     <!-- end list -->
       -
-        3rdシングル。ドラマ「天体観測」挿入歌。
+        2ndシングル。ドラマ「天体観測」挿入歌。
 3.  **Title of mine**
       - 作詞:・作曲:Motoo Fujiwara
     <!-- end list -->
@@ -45,7 +45,7 @@
       - 作詞:・作曲:Motoo Fujiwara
     <!-- end list -->
       -
-        4thシングル。MVに出てくる白い花は、ハルジオンでは無い。
+        3rdシングル。MVに出てくる白い花は、ハルジオンでは無い。
 6.  **ベンチとコーヒー**
       - 作詞:・作曲:Motoo Fujiwara
     <!-- end list -->
@@ -68,7 +68,7 @@
       - 作詞:・作曲:Motoo Fujiwara
     <!-- end list -->
       -
-        メジャーデビューシングル（2ndシングル）。
+        メジャーデビューシングル。
 10. **ダンデライオン**
       - 作詞:・作曲:Motoo Fujiwara
     <!-- end list -->

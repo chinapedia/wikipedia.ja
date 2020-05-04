@@ -310,11 +310,13 @@ PCI Expressの利点の一つとしてレーン数のフレキシビリティが
 
   - [Accelerated Graphics Port](../Page/Accelerated_Graphics_Port.md "wikilink") (AGP)
   - [Peripheral Component Interconnect](../Page/Peripheral_Component_Interconnect.md "wikilink") (PCI)
+  - [PCI-X](../Page/PCI-X.md "wikilink")
   - [HyperTransport](../Page/HyperTransport.md "wikilink")
   - [Thunderbolt](https://ja.wikipedia.org/wiki/Thunderbolt "wikilink")
   - [NVM Express](https://ja.wikipedia.org/wiki/NVM_Express "wikilink") (NVMe)
   - [NVLink](https://ja.wikipedia.org/wiki/NVLink "wikilink")
   - [M.2](https://ja.wikipedia.org/wiki/M.2 "wikilink")
+  - [U.2](https://ja.wikipedia.org/wiki/U.2 "wikilink")
 
 ## 参考となる図書
 

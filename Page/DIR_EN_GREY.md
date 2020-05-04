@@ -21,7 +21,7 @@
 
 DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[Muse](../Page/ミューズ_\(バンド\).md "wikilink")、[Nine Inch Nails](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[Pantera](../Page/パンテラ.md "wikilink")、[Radiohead](../Page/レディオヘッド.md "wikilink")、[Smashing Pumpkins](../Page/スマッシング・パンプキンズ.md "wikilink")、[Toolである](../Page/トゥール_\(バンド\).md "wikilink")\[4\]。
 
-京は中学校１年生の時にクラスメイトが[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の切り抜きを持っているのを見たことがきっかけで音楽に興味を持ったと語っている\[5\]。他に影響を受けたアーティストとしては[X JAPAN](../Page/X_JAPAN.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")をあげている\[6\]。Dieは中学時代に[JUN SKY WALKER(S)と](../Page/JUN_SKY_WALKER\(S\).md "wikilink")[ブルーハーツ](https://ja.wikipedia.org/wiki/ブルーハーツ "wikilink")を見たことでバンドに興味を持ち、その後高校時代に見た[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドに衝撃を受けてバンドを始めたという\[7\]。薫は中学生の時に[DEAD ENDや](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")をよく聴いており、[X JAPANの](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』にも衝撃を受ける\[8\]。その後、高校では[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")や[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")のコピーをしていたという\[9\]。Toshiyaは[徳永英明](../Page/徳永英明.md "wikilink")がきっかけで音楽に興味を持ったと述べる\[10\]。中学生の時にX JAPANの「[紅](../Page/紅_\(Xの曲\).md "wikilink")」と「[WEEK END](../Page/WEEK_END.md "wikilink")」を聴いてうるさいだけで嫌いだと思っていたが、その後「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」を聴いて見直したという\[11\]。また、[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")を聴いたことがきっかけでギターを始めようと思ったが、弾けないという消極的な理由で高校時代にベースに転向し、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドを始める\[12\]。しかし、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")はベースが難しくて挫折したとも述べている\[13\]。ShinyaはTVで[X JAPANを見て](../Page/X_JAPAN.md "wikilink")、中学１年生の時にバンドを始めることにしたという\[14\]。
+京は中学校１年生の時にクラスメイトが[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の切り抜きを持っているのを見たことがきっかけで音楽に興味を持ったと語っている\[5\]。他に影響を受けたアーティストとしては[X JAPAN](../Page/X_JAPAN.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")をあげている\[6\]。Dieは中学時代に[JUN SKY WALKER(S)と](../Page/JUN_SKY_WALKER\(S\).md "wikilink")[ブルーハーツ](https://ja.wikipedia.org/wiki/ブルーハーツ "wikilink")を見たことでバンドに興味を持ち、その後高校時代に見た[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドに衝撃を受けてバンドを始めたという\[7\]。薫は中学生の時に[DEAD ENDや](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")をよく聴いており、[X JAPANの](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』にも衝撃を受ける\[8\]。その後、高校では[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")や[BOOWY](../Page/BOOWY.md "wikilink")のコピーをしていたという\[9\]。Toshiyaは[徳永英明](../Page/徳永英明.md "wikilink")がきっかけで音楽に興味を持ったと述べる\[10\]。中学生の時にX JAPANの「[紅](../Page/紅_\(Xの曲\).md "wikilink")」と「[WEEK END](../Page/WEEK_END.md "wikilink")」を聴いてうるさいだけで嫌いだと思っていたが、その後「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」を聴いて見直したという\[11\]。また、[BOOWY](../Page/BOOWY.md "wikilink")を聴いたことがきっかけでギターを始めようと思ったが、弾けないという消極的な理由で高校時代にベースに転向し、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドを始める\[12\]。しかし、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")はベースが難しくて挫折したとも述べている\[13\]。ShinyaはTVで[X JAPANを見て](../Page/X_JAPAN.md "wikilink")、中学１年生の時にバンドを始めることにしたという\[14\]。
 
 メンバーはHMVの企画で、次のようなアルバムがお気に入りだとしている。京は[Bauhausの](../Page/バウハウス_\(バンド\).md "wikilink")『Press The Eject And Give Me The Tape』と[David Sylvianの](../Page/デヴィッド・シルヴィアン.md "wikilink")『[Secrets Of The Beehive](../Page/シークレッツ・オブ・ザ・ビーハイヴ.md "wikilink")』、薫は[The Beatlesの](../Page/ビートルズ.md "wikilink")『[1962-1966](../Page/ザ・ビートルズ1962年〜1966年.md "wikilink")』と『[1967-1970](../Page/ザ・ビートルズ1967年〜1970年.md "wikilink")』、Dieは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の『LA VIE EN ROSE』 と[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の『[KOOL KIZZ](https://ja.wikipedia.org/wiki/KOOL_KIZZ "wikilink")』、Toshiyaは[Alice in Chainsの](../Page/アリス・イン・チェインズ.md "wikilink")『Dirt』と[Radiohead](https://ja.wikipedia.org/wiki/Radiohead "wikilink")の『[OK Computer](../Page/OK_コンピューター.md "wikilink")』、Shinyaは[AION](../Page/AION.md "wikilink")の『Absolute』と[GARGOYLEの](../Page/Gargoyle.md "wikilink")『檄～ふれぶみ～』などをあげている\[15\]。
 
@@ -3083,20 +3083,6 @@ TOUR2013 TABULA RASA -揚羽ノ羽ノ夢ハ蛹-</p></td>
 2月8日 Elysée Montmartre -Paris / France-</p></td>
 </tr>
 <tr class="even">
-<td><p>コンサートツアー</p></td>
-<td><p>TOUR20 疎外</p></td>
-<td><div class="NavFrame" style="border:0">
-<div class="NavHead">
-<p>10会場全7公演</p>
-</div>
-<div class="NavContent" style="text-align:left">
-<p>5月11日 なんばHatch<br />
-5月12日 なんばHatch<br />
-5月14日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-<br />
-5月15日 KT Zepp Yokohama -「a knot」&amp; ONLINE only-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>The Insulated World -The Screams of Alienation-</p></td>
 <td><p>7月23日 ぴあアリーナMM<br />

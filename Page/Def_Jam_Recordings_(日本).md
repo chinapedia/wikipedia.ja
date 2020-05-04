@@ -14,7 +14,7 @@
 ## 所属アーティスト
 
   - [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")（2016年〜）
-  - [防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink")（2017年〜）
+  - [防弾少年団](https://ja.wikipedia.org/wiki/BTS_\(音楽グループ\) "wikilink")（2017年〜）
   - [SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink")（2017年〜）
   - [IO](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink")（2019年〜）
 

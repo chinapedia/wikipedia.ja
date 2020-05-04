@@ -21,253 +21,27 @@
 
 ## 過去の成績
 
-<table>
-<thead>
-<tr class="header">
-<th><p>シーズン</p></th>
-<th><p>リーグ</p></th>
-<th><p>順位</p></th>
-<th><p>試</p></th>
-<th><p>勝</p></th>
-<th><p>分</p></th>
-<th><p>敗</p></th>
-<th><p>得</p></th>
-<th><p>失</p></th>
-<th><p>差</p></th>
-<th><p>点</p></th>
-<th><p><a href="../Page/韓国FAカップ.md" title="wikilink">FAカップ</a></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2003</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Kリーグ" title="wikilink">Kリーグ</a></p></td>
-<td><p>11位</p></td>
-<td><p>44</p></td>
-<td><p>7</p></td>
-<td><p>16</p></td>
-<td><p>21</p></td>
-<td><p>38</p></td>
-<td><p>60</p></td>
-<td><p>-22</p></td>
-<td><p>'''37</p></td>
-<td><p>ベスト8</p></td>
-</tr>
-<tr class="even">
-<td><p>2004</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>前期10位<br />
-後期7位</p></td>
-<td><p>24</p></td>
-<td><p>7</p></td>
-<td><p>7</p></td>
-<td><p>10</p></td>
-<td><p>30</p></td>
-<td><p>31</p></td>
-<td><p>-1</p></td>
-<td><p>'''28</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="odd">
-<td><p>2005</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>前期12位<br />
-後期3位</p></td>
-<td><p>24</p></td>
-<td><p>8</p></td>
-<td><p>6</p></td>
-<td><p>10</p></td>
-<td><p>29</p></td>
-<td><p>36</p></td>
-<td><p>-7</p></td>
-<td><p>'''30</p></td>
-<td><p>ベスト8</p></td>
-</tr>
-<tr class="even">
-<td><p>2006</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>前期11位<br />
-後期4位</p></td>
-<td><p>26</p></td>
-<td><p>8</p></td>
-<td><p>10</p></td>
-<td><p>8</p></td>
-<td><p>32</p></td>
-<td><p>30</p></td>
-<td><p>+2</p></td>
-<td><p>'''34</p></td>
-<td><p>ベスト8</p></td>
-</tr>
-<tr class="odd">
-<td><p>2007</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>12位</p></td>
-<td><p>26</p></td>
-<td><p>6</p></td>
-<td><p>6</p></td>
-<td><p>14</p></td>
-<td><p>35</p></td>
-<td><p>46</p></td>
-<td><p>−11</p></td>
-<td><p>'''24</p></td>
-<td><p>ベスト16</p></td>
-</tr>
-<tr class="even">
-<td><p>2008</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>11位</p></td>
-<td><p>26</p></td>
-<td><p>8</p></td>
-<td><p>2</p></td>
-<td><p>16</p></td>
-<td><p>46</p></td>
-<td><p>58</p></td>
-<td><p>-12</p></td>
-<td><p>'''26</p></td>
-<td><p>ベスト4</p></td>
-</tr>
-<tr class="odd">
-<td><p>2009</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>15位</p></td>
-<td><p>28</p></td>
-<td><p>5</p></td>
-<td><p>8</p></td>
-<td><p>15</p></td>
-<td><p>20</p></td>
-<td><p>45</p></td>
-<td><p>−25</p></td>
-<td><p>'''23</p></td>
-<td><p>ベスト8</p></td>
-</tr>
-<tr class="even">
-<td><p>2010</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>15位</p></td>
-<td><p>28</p></td>
-<td><p>5</p></td>
-<td><p>4</p></td>
-<td><p>19</p></td>
-<td><p>28</p></td>
-<td><p>57</p></td>
-<td><p>−29</p></td>
-<td><p>'''19</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="odd">
-<td><p>2011</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>12位</p></td>
-<td><p>30</p></td>
-<td><p>8</p></td>
-<td><p>9</p></td>
-<td><p>13</p></td>
-<td><p>35</p></td>
-<td><p>46</p></td>
-<td><p>−11</p></td>
-<td><p>'''33</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="even">
-<td><p>2012</p></td>
-<td><p>Kリーグ</p></td>
-<td><p>10位</p></td>
-<td><p>44</p></td>
-<td><p>16</p></td>
-<td><p>13</p></td>
-<td><p>15</p></td>
-<td><p>55</p></td>
-<td><p>56</p></td>
-<td><p>−1</p></td>
-<td><p>'''61</p></td>
-<td><p>ベスト16</p></td>
-</tr>
-<tr class="odd">
-<td><p>2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Kリーグクラシック" title="wikilink">Kクラシック</a></p></td>
-<td><p>13位</p></td>
-<td><p>38</p></td>
-<td><p>6</p></td>
-<td><p>14</p></td>
-<td><p>18</p></td>
-<td><p>38</p></td>
-<td><p>57</p></td>
-<td><p>−19</p></td>
-<td><p>'''32</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="even">
-<td><p>2014</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Kリーグチャレンジ" title="wikilink">Kチャレンジ</a></p></td>
-<td><p>7位</p></td>
-<td><p>36</p></td>
-<td><p>13</p></td>
-<td><p>8</p></td>
-<td><p>15</p></td>
-<td><p>50</p></td>
-<td><p>47</p></td>
-<td><p>+3</p></td>
-<td><p>'''47</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="odd">
-<td><p>2015</p></td>
-<td><p>Kチャレンジ</p></td>
-<td><p>2位</p></td>
-<td><p>40</p></td>
-<td><p>18</p></td>
-<td><p>13</p></td>
-<td><p>9</p></td>
-<td><p>67</p></td>
-<td><p>47</p></td>
-<td><p>+20</p></td>
-<td><p>'''67</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="even">
-<td><p>2016</p></td>
-<td><p>Kチャレンジ</p></td>
-<td><p>2位</p></td>
-<td><p>40</p></td>
-<td><p>19</p></td>
-<td><p>13</p></td>
-<td><p>8</p></td>
-<td><p>53</p></td>
-<td><p>36</p></td>
-<td><p>+17</p></td>
-<td><p>'''70</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017</p></td>
-<td><p>Kクラシック</p></td>
-<td><p>8位</p></td>
-<td><p>38</p></td>
-<td><p>11</p></td>
-<td><p>14</p></td>
-<td><p>13</p></td>
-<td><p>50</p></td>
-<td><p>52</p></td>
-<td><p>-2</p></td>
-<td><p>'''47</p></td>
-<td><p>ベスト32</p></td>
-</tr>
-<tr class="even">
-<td><p>2018</p></td>
-<td><p>Kリーグ1</p></td>
-<td><p>7位</p></td>
-<td><p>38</p></td>
-<td><p>14</p></td>
-<td><p>8</p></td>
-<td><p>16</p></td>
-<td><p>47</p></td>
-<td><p>56</p></td>
-<td><p>-9</p></td>
-<td><p>'''50</p></td>
-<td><p>優勝</p></td>
-</tr>
-</tbody>
-</table>
+| シーズン | ディビジョン                                                   | [韓国FAカップ](../Page/韓国FAカップ.md "wikilink") |
+| ---- | -------------------------------------------------------- | ---------------------------------------- |
+| リーグ  | 試                                                        | 勝                                        |
+| 2003 | [Kリーグ](https://ja.wikipedia.org/wiki/Kリーグ "wikilink")    | 44                                       |
+| 2004 | Kリーグ                                                     | 24                                       |
+| 2005 | Kリーグ                                                     | 24                                       |
+| 2006 | Kリーグ                                                     | 26                                       |
+| 2007 | Kリーグ                                                     | 26                                       |
+| 2008 | Kリーグ                                                     | 26                                       |
+| 2009 | Kリーグ                                                     | 28                                       |
+| 2010 | Kリーグ                                                     | 28                                       |
+| 2011 | Kリーグ                                                     | 30                                       |
+| 2012 | Kリーグ                                                     | 44                                       |
+| 2013 | [Kクラシック](../Page/Kリーグ1.md "wikilink")                    | 38                                       |
+| 2014 | [Kチャレンジ](https://ja.wikipedia.org/wiki/Kリーグ2 "wikilink") | 36                                       |
+| 2015 | Kチャレンジ                                                   | 40                                       |
+| 2016 | Kチャレンジ                                                   | 40                                       |
+| 2017 | Kクラシック                                                   | 38                                       |
+| 2018 | Kリーグ1                                                    | 38                                       |
+| 2019 | Kリーグ1                                                    | 38                                       |
+| 2020 | Kリーグ1                                                    |                                          |
 
 ## 現所属メンバー
 

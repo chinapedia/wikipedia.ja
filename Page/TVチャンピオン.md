@@ -632,7 +632,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -713,7 +713,7 @@
 2000年代半ばまで</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<td><p><a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>2000年代半ばから</p></td>
 <td></td>

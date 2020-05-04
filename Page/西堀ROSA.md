@@ -157,10 +157,12 @@
 
 ## 外部リンク
 
-  - [新潟地下街 西堀ローサ-トップページ -](http://www.nishibori-rosa.co.jp/)
-      - [フロアマップ - 西堀ローサ](http://www.nishibori-rosa.co.jp/?page_id=8)
+  -   - [フロアマップ - 西堀ローサ](http://www.nishibori-rosa.co.jp/?page_id=8)
+
   - [まちなかステージ「よろっtoローサ」](http://yorotto.com/)
+
   - [中心市街地（ローサ）活性化事業（まちなかステージ） - 新潟市](http://www.city.niigata.lg.jp/business/shoko/shokoshien/shien/matisute.html)
+
   - [新潟市西堀地下駐車場 - 新潟市](http://www.city.niigata.lg.jp/business/shoko/shisetsu_sangyo/chikachu.html)
 
 [Category:中部地方の地下街](https://ja.wikipedia.org/wiki/Category:中部地方の地下街 "wikilink") [Category:新潟市の商業施設](https://ja.wikipedia.org/wiki/Category:新潟市の商業施設 "wikilink") [Category:中央区_(新潟市)](https://ja.wikipedia.org/wiki/Category:中央区_\(新潟市\) "wikilink")

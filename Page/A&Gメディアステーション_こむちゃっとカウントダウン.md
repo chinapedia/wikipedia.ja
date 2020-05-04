@@ -4503,6 +4503,13 @@ ClariS（録音）</p></td>
 <td><p>914</p></td>
 </tr>
 <tr class="odd">
+<td><p>4月25日</p></td>
+<td><p>911</p></td>
+<td><p>蒼井翔太<br />
+（リモート出演）</p></td>
+<td><p>915</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

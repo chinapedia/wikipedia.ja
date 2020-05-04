@@ -66,7 +66,7 @@
   - [池間昌人](https://ja.wikipedia.org/wiki/池間昌人 "wikilink")（☆[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [石神愛子](https://ja.wikipedia.org/wiki/石神愛子 "wikilink")（☆[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")）
   - [伊藤舞](../Page/伊藤舞_\(アナウンサー\).md "wikilink")（☆[福岡放送](../Page/福岡放送.md "wikilink")）
-  - 伊藤未奈（[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")）
+  - 伊藤未奈（[福井放送](../Page/福井放送.md "wikilink")）
   - 井上真帆（☆[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")）
   - [氏田朋子](../Page/氏田朋子.md "wikilink")（元[中部日本放送](../Page/中部日本放送.md "wikilink")）
   - [内山絵里加](https://ja.wikipedia.org/wiki/内山絵里加 "wikilink")（[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")）
@@ -134,7 +134,7 @@
   - ニュース映像は『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のものを流用している。
   - スポーツ中継などで定刻放送できない場合は「News Access」のタイトルで、放送時間を17時台か18時台に繰り上げ（高校野球中継の大幅な延長の場合は20時台以降に繰り下げ）し、5分～10分の短縮版で放送する。
   - 以前は[ヤンマー](../Page/ヤンマー.md "wikilink")提供『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』を内包していたが、その後独立して19:55から別枠で放送。なお、天気予報も引き続き『News Access 730』のキャスターが担当。
-  - 2009年4月3日金曜日をもって『ヤン坊マー坊天気予報』とともに放送終了。金曜日の後番組『[週刊\!しっかり見ナイト](https://ja.wikipedia.org/wiki/週刊!しっかり見ナイト "wikilink")』は、金曜19時台のニュースの役割りにもなっていたが、1年後の2010年3月に終了。
+  - 2009年4月3日金曜日をもって『ヤン坊マー坊天気予報』とともに放送終了。金曜日の後番組『週刊\!しっかり見ナイト』は、金曜19時台のニュースの役割りにもなっていたが、1年後の2010年3月に終了。
 
 ### ごごいち\!ニュースキャッチ
 
@@ -192,7 +192,7 @@
 
 <!-- end list -->
 
-  - オープニング：「ゆらめき午後」（作曲：[水流ともゆき](https://ja.wikipedia.org/wiki/水流ともゆき "wikilink")）
+  - オープニング：「ゆらめき午後」（作曲：水流ともゆき）
   - エンディング：「アンカー」（作曲：[榊原大](../Page/榊原大.md "wikilink")）：「お昼のNews Access」に引き続き使用されている。
 
 ### お昼のNews Access
@@ -220,7 +220,7 @@
 
 <!-- end list -->
 
-  - オープニング：「lunchtime access」（作曲：[水口浩次](https://ja.wikipedia.org/wiki/水口浩次 "wikilink")）
+  - オープニング：「lunchtime access」（作曲：水口浩次）
   - エンディング：「アンカー」（作曲：[榊原大](../Page/榊原大.md "wikilink")）
 
 <!-- end list -->
@@ -240,7 +240,7 @@
 
   - オープニング(nashmusic演奏　NSF-256-25)は、一時通販番組の効果音楽として使われたことがある。
   - ヘッドラインのBGMは、かつてテレビ朝日で放送されていた『[ザ・ニュースキャスター](../Page/ザ・ニュースキャスター.md "wikilink")』の番宣で使用されたものと同じ（他に[長野朝日放送](../Page/長野朝日放送.md "wikilink")の『[ABNステーション](https://ja.wikipedia.org/wiki/ABNステーション "wikilink")』や[フジテレビ系列である](../Page/フジニュースネットワーク.md "wikilink")[BBTの](../Page/富山テレビ放送.md "wikilink")『[富山テレビニュース](https://ja.wikipedia.org/wiki/富山テレビニュース "wikilink")』や[TNCの](../Page/テレビ西日本.md "wikilink")『[TNCニュース](../Page/TNCニュース.md "wikilink")』でも使用されていた）である。
-  - CM前ジングル及び提供BGMは以前、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")『[ctcニュース930ライフ](https://ja.wikipedia.org/wiki/ctcニュース930ライフ "wikilink")』の番宣CM・『[TKUニュース](../Page/TKUニュース.md "wikilink")』・[FM宮崎](https://ja.wikipedia.org/wiki/FM宮崎 "wikilink")の『ニュース&ウエザーインフォメーション』のニュース部分のBGMとして使われていた物と同じである。2017年現在、[カンテレ](../Page/カンテレ.md "wikilink")『[ウラマヨ](https://ja.wikipedia.org/wiki/ウラマヨ "wikilink")』の「関西どうかしてるぜ\!ニュース」のコーナーで使用されている。
+  - CM前ジングル及び提供BGMは以前、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")『ctcニュース930ライフ』の番宣CM・『[TKUニュース](../Page/TKUニュース.md "wikilink")』・[FM宮崎](https://ja.wikipedia.org/wiki/FM宮崎 "wikilink")の『ニュース&ウエザーインフォメーション』のニュース部分のBGMとして使われていた物と同じである。2017年現在、[カンテレ](../Page/カンテレ.md "wikilink")『[ウラマヨ](https://ja.wikipedia.org/wiki/ウラマヨ "wikilink")』の「関西どうかしてるぜ\!ニュース」のコーナーで使用されている。
   - エンディングは、nashmusic演奏　NSF-256-23が使用された。
 
 ## 番組BGM

@@ -13,7 +13,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 
 [2015年](../Page/2015年.md "wikilink")からは障害や病気に立ち向かう人々に向けて、[アルティメット・ウォリアー](../Page/アルティメット・ウォリアー.md "wikilink")の名前を冠した**ウォリアー賞**（*Warrior Award*）が新設された。
 
-なお藤波辰爾によれば、殿堂入りしたプロレスラーに対してはWWEから「3ヶ月に一度、映像等のロイヤリティの分配が生涯に渡って行われる」ため\[1\]、単なる名誉にとどまらない一面もある。
+なお藤波辰爾によれば、殿堂入りしたプロレスラーに対してはWWEから「3ヶ月に一度、映像等のロイヤリティの分配が生涯に渡って行われる」ため\[1\]、単なる名誉にとどまらない一面もある。一方で「殿堂入り後1年間は、プロレス活動についてWWEの許可が必要になる」という話もあり、[ザ・グレート・カブキ](../Page/ザ・グレート・カブキ.md "wikilink")は[2016年](../Page/2016年.md "wikilink")に殿堂入りの打診があったものの、それを理由の一つとして辞退したとしている\[2\]。
 
 ## 表彰者一覧
 
@@ -734,7 +734,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 </tbody>
 </table>
 
-\[2\]
+\[3\]
 
 ## ウォリアー賞
 
@@ -792,4 +792,5 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 [Category:WWE殿堂](https://ja.wikipedia.org/wiki/Category:WWE殿堂 "wikilink")
 
 1.  [【龍魂激論】天龍ＶＳ藤波対談　かませ犬事件、名勝負数え歌、鼻骨骨折…](https://www.tokyo-sports.co.jp/prores/1766730/) - 東京スポーツ・2020年3月6日
-2.  [WrestleTalk:WWE Hall Of Fame 2019 Live Coverage](https://wrestletalk.com/news/live-coverage-wwe-hall-of-fame-2019/)
+2.  [ライガー、WWE殿堂入りの理由とは。かつて馬場とカブキは辞退した\!?](https://number.bunshun.jp/articles/-/842915) - NumberWeb・2020年3月19日
+3.  [WrestleTalk:WWE Hall Of Fame 2019 Live Coverage](https://wrestletalk.com/news/live-coverage-wwe-hall-of-fame-2019/)

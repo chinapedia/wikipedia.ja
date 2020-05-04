@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - <span class="s1"></span>日本体操競技選手の[村上茉愛](https://ja.wikipedia.org/wiki/村上茉愛 "wikilink")へ楽曲を提供する。2017年10月8日に行われた[体操世界選手権](https://ja.wikipedia.org/wiki/体操世界選手権 "wikilink")にて使用され、63年ぶりに女子ゆかでの[金メダル](../Page/金メダル.md "wikilink")を獲得となった。
+  - 日本体操競技選手の[村上茉愛](https://ja.wikipedia.org/wiki/村上茉愛 "wikilink")へ楽曲を提供する。2017年10月8日に行われた[体操世界選手権](https://ja.wikipedia.org/wiki/体操世界選手権 "wikilink")にて使用され、63年ぶりに女子ゆかでの[金メダル](../Page/金メダル.md "wikilink")を獲得となった。
 
 ## 音楽性
 

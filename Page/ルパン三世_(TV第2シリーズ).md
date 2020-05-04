@@ -1906,7 +1906,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>金曜・土曜 18:00 - 18:30[14]</p></td>
 <td></td>

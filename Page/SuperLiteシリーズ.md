@@ -122,7 +122,7 @@
   - みんなの[麻雀](../Page/麻雀.md "wikilink")
   - おてなみ拝見
   - [ウィザードリィ ニュー エイジ オブ リルガミン](../Page/ウィザードリィ.md "wikilink")
-  - みんなの[オセロ](../Page/オセロ_\(遊戯\).md "wikilink")
+  - みんなの[オセロ](../Page/オセロ_\(ボードゲーム\).md "wikilink")
   - みんなの[囲碁](../Page/囲碁.md "wikilink")
   - みんなの[チェス](../Page/チェス.md "wikilink")
   - みんなの[将棋](../Page/将棋.md "wikilink") 初級編
@@ -135,7 +135,7 @@
   - [麻雀](../Page/麻雀.md "wikilink")
   - [将棋](../Page/将棋.md "wikilink")
   - [囲碁](../Page/囲碁.md "wikilink")
-  - [オセロ](../Page/オセロ_\(遊戯\).md "wikilink")
+  - [オセロ](../Page/オセロ_\(ボードゲーム\).md "wikilink")
   - [東京バス案内](../Page/東京バス案内.md "wikilink") 今日からキミも運転手
   - [此花 届かないレクイエム](../Page/此花.md "wikilink")2
   - [おえかきパズル](../Page/お絵かきロジック.md "wikilink")

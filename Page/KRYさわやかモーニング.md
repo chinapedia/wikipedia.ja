@@ -24,7 +24,8 @@
 | 1992.03.30 | 1997.03.28                                |
 | 1997.03.31 | 2001.09.28                                |
 | 2001.10.01 | 2006.03.31                                |
-| 2006.04.03 | 現在                                        |
+| 2006.04.03 | 2020.04.17                                |
+| 2020.04.20 | 現在                                        |
 
 ## 歴史
 
@@ -95,118 +96,28 @@
   - 本番組のタイムテーブルは、生放送を前提に製作しているため、コーナーの開始時間が異なったり、コーナーが前後に交互したりする場合がある。
   - 番組途中、CM前や、東京発のコーナーから明けたときにはその時間の時刻を伝える。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>時刻</p></th>
-<th><p>放送内容</p></th>
-<th><p>コーナー詳細・備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>5:20.00</p></td>
-<td><p>番組オープニング</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5:21頃</p></td>
-<td><p>県内天気</p></td>
-<td><p>金曜は気象予報士の山本による天気予報。</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:23頃</p></td>
-<td><p>今日の特集予告</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5:25頃</p></td>
-<td><p>県内ニュース</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5:32頃</p></td>
-<td><p>今日の<a href="../Page/熱血テレビ.md" title="wikilink">熱血テレビ</a>、<a href="https://ja.wikipedia.org/wiki/KRYニュースライブ" title="wikilink">KRYニュースライブ</a>特集予告</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>5:34頃</p></td>
-<td><p>トラベル情報</p></td>
-<td><p>東京支社のLive映像をバックに、<a href="https://ja.wikipedia.org/wiki/のぞみ_(列車)" title="wikilink">のぞみ号</a><a href="https://ja.wikipedia.org/wiki/東京駅" title="wikilink">東京行</a>（<a href="../Page/新山口駅.md" title="wikilink">新山口発</a>・<a href="../Page/徳山駅.md" title="wikilink">徳山発</a>）、<a href="../Page/山口宇部空港.md" title="wikilink">山口宇部発</a>→<a href="https://ja.wikipedia.org/wiki/東京国際空港" title="wikilink">羽田行</a>、<a href="https://ja.wikipedia.org/wiki/岩国錦帯橋空港" title="wikilink">岩国錦帯橋空港</a>発→<a href="https://ja.wikipedia.org/wiki/東京国際空港" title="wikilink">羽田空港行飛行機の空席情報を伝える</a>。</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:36頃</p></td>
-<td><p>おはにゃん</p></td>
-<td><p>『Oha!4 NEWS LIVE』（第2部、<a href="https://ja.wikipedia.org/wiki/日テレNEWS24" title="wikilink">日テレNEWS24</a>〈<a href="https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送" title="wikilink">CS</a>〉制作）同時ネット。</p></td>
-</tr>
-<tr class="even">
-<td><p>5:38頃</p></td>
-<td><p>スポーツ</p></td>
-<td><p>『Oha!4 NEWS LIVE』（第2部、日テレNEWS24〈CS〉制作）同時ネット。</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:41頃</p></td>
-<td><p>エンタメ</p></td>
-<td><p>『Oha!4 NEWS LIVE』（第2部、日テレNEWS24〈CS〉制作）同時ネット。日替わりコーナーの企画内容次第で放送されない場合有り</p></td>
-</tr>
-<tr class="even">
-<td><p>5:45頃</p></td>
-<td><p>県内天気</p></td>
-<td><p>金曜は気象予報士の山本による天気予報。</p></td>
-</tr>
-<tr class="odd">
-<td><p>5:48頃</p></td>
-<td><p>日替わりコーナー</p></td>
-<td><p>（月）週替わりの企画、（火）週替わりの企画、（水）蔵出しフィルム、（木）おでかけランチ、（金）週間<a href="https://ja.wikipedia.org/wiki/レノファ" title="wikilink">レノファ</a>TV</p></td>
-</tr>
-<tr class="even">
-<td><p>6:00.00</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NNN_NEWS_ZIP!" title="wikilink">NNN NEWS ZIP!</a></p></td>
-<td><p>『ZIP!』（日本テレビ制作）同時ネット。 <a href="https://ja.wikipedia.org/wiki/NNN" title="wikilink">NNN</a>協定により同時ネット。6:08.00には山口放送のスタジオへ戻る。</p></td>
-</tr>
-<tr class="odd">
-<td><p>6:08.00</p></td>
-<td><p>県内ニュース</p></td>
-<td><p><a href="../Page/電子番組ガイド.md" title="wikilink">EPG上の区切りはないが</a>、ここから番組後半であり、改めて出演者と日付のテロップが表示される。</p></td>
-</tr>
-<tr class="even">
-<td><p>6:14頃</p></td>
-<td><p>日替わりコーナー</p></td>
-<td><p>（月）週替わりの企画、（火）週替わりの企画、（水）週替わりの企画、（木）週替わりの企画、（金）映画情報「さわ吉シアター」</p></td>
-</tr>
-<tr class="odd">
-<td><p>6:20頃</p></td>
-<td><p>県内天気</p></td>
-<td><p>金曜は気象予報士の山本による天気予報。<br />
-なお、この時間に日本テレビと『ZIP!』フルネット局で放送される『ZIP!deポン!チャレンジ（1回目）』は放送しないため、山口放送のサービスエリアでは2回目以降しか参加できない。</p></td>
-</tr>
-<tr class="even">
-<td><p>6:25頃</p></td>
-<td><p>プレゼントコーナー</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>6:25頃</p></td>
-<td><p>さわ吉掲示板</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6:27頃</p></td>
-<td><p>さわ吉のしわあせ占い</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>6:29頃</p></td>
-<td><p>エンディング</p></td>
-<td><p>エンディングでは、キャスターが揃って「今日も元気に、いってらっしゃいっ!」と締めて終わる。</p></td>
-</tr>
-<tr class="even">
-<td><p>6:29.50</p></td>
-<td><p>「ZIP!」オープニング</p></td>
-<td><p>ここで「ZIP!」をフルネットしている局で5:50頃から流れるオープニング[8]をKRYの自社送出で流す（編成上は6:30まで「KRYさわやかモーニング」のまま）。</p></td>
-</tr>
-</tbody>
-</table>
+| 時刻      | 放送内容                                                                                                          | コーナー詳細・備考                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5:20.00 | 番組オープニング                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 5:21頃   | 県内天気                                                                                                          | 金曜は気象予報士の山本による天気予報。                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 5:23頃   | 今日の特集予告                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 5:25頃   | 県内ニュース                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 5:32頃   | 今日の[熱血テレビ](../Page/熱血テレビ.md "wikilink")、[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")特集予告 |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 5:34頃   | トラベル情報                                                                                                        | 東京支社のLive映像をバックに、[のぞみ号](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")[東京行](https://ja.wikipedia.org/wiki/東京駅 "wikilink")（[新山口発](../Page/新山口駅.md "wikilink")・[徳山発](../Page/徳山駅.md "wikilink")）、[山口宇部発](../Page/山口宇部空港.md "wikilink")→[羽田行](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")、[岩国錦帯橋空港](https://ja.wikipedia.org/wiki/岩国錦帯橋空港 "wikilink")発→[羽田空港行飛行機の空席情報を伝える](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。 |
+| 5:36頃   | おはにゃん                                                                                                         | 『Oha\!4 NEWS LIVE』（第2部、[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")〈[CS](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")〉制作）同時ネット。                                                                                                                                                                                                                                                                  |
+| 5:38頃   | スポーツ                                                                                                          | 『Oha\!4 NEWS LIVE』（第2部、日テレNEWS24〈CS〉制作）同時ネット。                                                                                                                                                                                                                                                                                                                                                                                        |
+| 5:41頃   | エンタメ                                                                                                          | 『Oha\!4 NEWS LIVE』（第2部、日テレNEWS24〈CS〉制作）同時ネット。日替わりコーナーの企画内容次第で放送されない場合有り                                                                                                                                                                                                                                                                                                                                                              |
+| 5:45頃   | 県内天気                                                                                                          | 金曜は気象予報士の山本による天気予報。                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 5:48頃   | 日替わりコーナー                                                                                                      | （月）週替わりの企画、（火）週替わりの企画、（水）蔵出しフィルム、（木）おでかけランチ、（金）週間[レノファ](https://ja.wikipedia.org/wiki/レノファ "wikilink")TV                                                                                                                                                                                                                                                                                                                             |
+| 6:00.00 | [NNN NEWS ZIP\!](https://ja.wikipedia.org/wiki/NNN_NEWS_ZIP! "wikilink")                                      | 『ZIP\!』（日本テレビ制作）同時ネット。 [NNN](https://ja.wikipedia.org/wiki/NNN "wikilink")協定により同時ネット。6:08.00には山口放送のスタジオへ戻る。                                                                                                                                                                                                                                                                                                                          |
+| 6:08.00 | 県内ニュース                                                                                                        | [EPG上の区切りはないが](../Page/電子番組ガイド.md "wikilink")、ここから番組後半であり、改めて出演者と日付のテロップが表示される。                                                                                                                                                                                                                                                                                                                                                      |
+| 6:14頃   | 日替わりコーナー                                                                                                      | （月）週替わりの企画、（火）週替わりの企画、（水）週替わりの企画、（木）週替わりの企画、（金）映画情報「さわ吉シアター」                                                                                                                                                                                                                                                                                                                                                                         |
+| 6:20頃   | 県内天気                                                                                                          | 金曜は気象予報士の山本による天気予報。                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 6:25頃   | プレゼントコーナー                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 6:25頃   | さわ吉掲示板                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 6:27頃   | さわ吉のしわあせ占い                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 6:29頃   | エンディング                                                                                                        | エンディングでは、キャスターが揃って「今日も元気に、いってらっしゃいっ\!」と締めて終わる。                                                                                                                                                                                                                                                                                                                                                                                       |
+| 6:29.50 | 「ZIP\!」オープニング                                                                                                 | ここで「ZIP\!」をフルネットしている局で5:50頃から流れるオープニング\[8\]をKRYの自社送出で流す（編成上は6:30まで「KRYさわやかモーニング」のまま）。                                                                                                                                                                                                                                                                                                                                                |
 
 ## 放送休止について
 

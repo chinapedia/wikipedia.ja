@@ -68,7 +68,7 @@
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") 16:30 - 16:35
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 18:15 - 18:20（[牛島町モーモー喫茶 〜みなさん お疲れ様です。〜内](../Page/牛島町モーモー喫茶_〜みなさん_お疲れ様です。〜.md "wikilink")）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 16:50 - 16:54
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") 16:20 - 16:25（[午後はとことんワイド](../Page/午後はとことんワイド.md "wikilink")内）
+  - [福井放送](../Page/福井放送.md "wikilink") 16:20 - 16:25（[午後はとことんワイド](../Page/午後はとことんワイド.md "wikilink")内）
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") 17:40 - 17:45（[安蒜豊三 夕焼けナビ内](../Page/安蒜豊三_夕焼けナビ.md "wikilink")）
   - [京都放送](../Page/京都放送.md "wikilink") 17:30 - 17:35
       - [KBS滋賀](../Page/KBS滋賀.md "wikilink") 17:30 - 17:35
@@ -86,7 +86,7 @@
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") 16:00 - 16:05
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") 16:00 - 16:05
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 16:30 - 16:35
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") 16:55 - 17:00
+  - [大分放送](../Page/大分放送.md "wikilink") 16:55 - 17:00
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") 17:55 - 18:00
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") 16:55 - 17:00
   - [ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink") 17:25 - 17:30（[こちら西町ラジオ村](../Page/こちら西町ラジオ村.md "wikilink")内）

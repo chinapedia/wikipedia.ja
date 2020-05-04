@@ -32,7 +32,7 @@ CDデビューする前でも自らの持ち歌を流す事にこだわってい
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")　　日曜23：00～23：30
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 　　 日曜24：00～24：30
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")　 水曜23：30～24：00
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")　　　土曜22：30～23：00
+  - [福井放送](../Page/福井放送.md "wikilink")　　　土曜22：30～23：00
   - [和歌山放送](../Page/和歌山放送.md "wikilink")　 土曜21：30～22：00
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")　　　土曜23：00～23：30
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")　　　土曜22：30～23：00

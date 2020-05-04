@@ -12,7 +12,7 @@
   - [フィルム・コミッション](../Page/フィルム・コミッション.md "wikilink") (film commission)
   - [貨車](../Page/貨車.md "wikilink") (freight car)
   - [燃料電池](../Page/燃料電池.md "wikilink") (fuel cells)
-  - [フルオロカーボン](https://ja.wikipedia.org/wiki/フルオロカーボン "wikilink") (fluoro carbon) - [フロンガス](https://ja.wikipedia.org/wiki/フロンガス "wikilink")の一種。
+  - [フルオロカーボン](../Page/フルオロカーボン.md "wikilink") (fluoro carbon) - [フロンガス](https://ja.wikipedia.org/wiki/フロンガス "wikilink")の一種。
   - [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink") (Family Computer) - [任天堂](../Page/任天堂.md "wikilink")の[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")。ファミコン。
   - [フラワーコミックス](../Page/フラワーコミックス.md "wikilink") (Flower Comics) - [小学館](../Page/小学館.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[単行本](../Page/単行本.md "wikilink")[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")。
   - [Fedora Core](../Page/Fedora.md "wikilink") - [Red Hat Enterprise Linuxのコンシューマ向け](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")。

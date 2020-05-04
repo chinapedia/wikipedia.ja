@@ -92,7 +92,7 @@
 
 ### リポーター
 
-  - [中島つぐまさ](https://ja.wikipedia.org/wiki/中島つぐまさ "wikilink") - 2013年9月30日から2018年3月30日まで出演。主に福岡県内を担当（長崎・熊本・大分・鹿児島・沖縄は各局のアナウンサーが担当）。本番組の裏番組である[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）の『[かちかちPress](https://ja.wikipedia.org/wiki/かちかちPress "wikilink")』にもリポーターとして出演している。
+  - [中島つぐまさ](../Page/中島つぐまさ.md "wikilink") - 2013年9月30日から2018年3月30日まで出演。主に福岡県内を担当（長崎・熊本・大分・鹿児島・沖縄は各局のアナウンサーが担当）。本番組の裏番組である[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）の『[かちかちPress](https://ja.wikipedia.org/wiki/かちかちPress "wikilink")』にもリポーターとして出演している。
 
 ### ネット局各局のキャスター
 

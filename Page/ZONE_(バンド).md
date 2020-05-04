@@ -257,7 +257,7 @@
 <td><p>2003年10月29日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/僕の手紙" title="wikilink">僕の手紙</a></strong></p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>』エンディングテーマ。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>』エンディングテーマ。</p></td>
 </tr>
 <tr class="odd">
 <td><p>12th</p></td>

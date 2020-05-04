@@ -5,7 +5,7 @@
 
 ## 概要
 
-宝くじの収益をもとに行われた事業の紹介（宝くじ発売元である[都道府県](../Page/都道府県.md "wikilink")および[政令指定都市](../Page/政令指定都市.md "wikilink")の中で、毎週1つの[地方公共団体](../Page/地方公共団体.md "wikilink")を紹介。その際、テレビから見て左上に各地方公共団体のマークを表示している）と、[数字選択式宝くじロトシックスの抽せん結果の発表が行われる](https://ja.wikipedia.org/wiki/数字選択式全国自治宝くじ#ロトシックス "wikilink")。ロトシックスの抽選が無い場合は前者のみの放送となる。なお、木曜ドラマを[土曜日](../Page/土曜日.md "wikilink")21時台（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは[月曜日](../Page/月曜日.md "wikilink")22時台）に放送している[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")では別の宝くじの[CMが放送されており](../Page/コマーシャルメッセージ.md "wikilink")（理由は後述）、半年に一度はCMそのもののリニューアルを行っている。しかし、「○○[ジャンボ宝くじ](../Page/ジャンボ宝くじ.md "wikilink")」のCMは一切放送されず、最後に発売ということをコメントするだけである。
+宝くじの収益をもとに行われた事業の紹介（宝くじ発売元である[都道府県](../Page/都道府県.md "wikilink")および[政令指定都市](../Page/政令指定都市.md "wikilink")の中で、毎週1つの[地方公共団体](../Page/地方公共団体.md "wikilink")を紹介。その際、テレビから見て左上に各地方公共団体のマークを表示している）と、[数字選択式宝くじロトシックスの抽せん結果の発表が行われる](https://ja.wikipedia.org/wiki/数字選択式全国自治宝くじ#ロトシックス "wikilink")。ロトシックスの抽選が無い場合は前者のみの放送となる。なお、木曜ドラマを[土曜日](../Page/土曜日.md "wikilink")21時台（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは[月曜日](../Page/月曜日.md "wikilink")22時台）に放送している[福井放送](../Page/福井放送.md "wikilink")では別の宝くじの[CMが放送されており](../Page/コマーシャルメッセージ.md "wikilink")（理由は後述）、半年に一度はCMそのもののリニューアルを行っている。しかし、「○○[ジャンボ宝くじ](../Page/ジャンボ宝くじ.md "wikilink")」のCMは一切放送されず、最後に発売ということをコメントするだけである。
 
 ナビゲーターは[鈴木杏樹](https://ja.wikipedia.org/wiki/鈴木杏樹 "wikilink")。放送時間は21:52(JST)前後だが、「[いきなり\!黄金伝説。](../Page/いきなり!黄金伝説。.md "wikilink")」SP、「[木曜ミステリー](../Page/木曜ミステリー.md "wikilink")」SPなどの特番放送時には21時台の枠内CMで流れる。また、編成の都合で放送されない場合は別の日に放送されることもある。
 

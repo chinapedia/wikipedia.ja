@@ -348,11 +348,11 @@ reference: \[3\] **太字**は今年からの新加入選手
 
 ### 2020年度新加入予定選手
 
-  - [新井望友](https://ja.wikipedia.org/wiki/新井望友 "wikilink")
-  - [本山尊](https://ja.wikipedia.org/wiki/本山尊 "wikilink")
-  - [山極大貴](https://ja.wikipedia.org/wiki/山極大貴 "wikilink")
-  - [アセリ・マシヴォウ](https://ja.wikipedia.org/wiki/アセリ・マシヴォウ "wikilink")
-  - [杉本悠馬](https://ja.wikipedia.org/wiki/杉本悠馬 "wikilink")
+  - [新井望友](../Page/新井望友.md "wikilink")
+  - [本山尊](../Page/本山尊.md "wikilink")
+  - [山極大貴](../Page/山極大貴.md "wikilink")
+  - [アセリ・マシヴォウ](../Page/アセリ・マシヴォウ.md "wikilink")
+  - [杉本悠馬](../Page/杉本悠馬.md "wikilink")
 
 ## 在籍した主な選手
 
@@ -378,7 +378,7 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [安藤栄次](../Page/安藤栄次.md "wikilink") (13)
   - [浅野良太](https://ja.wikipedia.org/wiki/浅野良太 "wikilink") (22)
   - [大東毅](https://ja.wikipedia.org/wiki/大東毅 "wikilink")
-  - [ディーン・ブード](https://ja.wikipedia.org/wiki/ディーン・ブード "wikilink")
+  - [ディーン・ブード](../Page/ディーン・ブード.md "wikilink")
   - [藤戸恭平](https://ja.wikipedia.org/wiki/藤戸恭平 "wikilink")
   - [安承ヒョック](https://ja.wikipedia.org/wiki/安承ヒョック "wikilink")
   - [金光植](https://ja.wikipedia.org/wiki/金光植 "wikilink")
@@ -390,13 +390,16 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [大東功一](https://ja.wikipedia.org/wiki/大東功一 "wikilink") (7)
   - [宮村眞也](https://ja.wikipedia.org/wiki/宮村眞也 "wikilink")
   - [武井敬司](https://ja.wikipedia.org/wiki/武井敬司 "wikilink") (6)
-  - [中島ヴァカウタイシレリ](https://ja.wikipedia.org/wiki/中島ヴァカウタイシレリ "wikilink")
+  - [中島イシレリ](https://ja.wikipedia.org/wiki/中島イシレリ "wikilink")
   - [安田知生](https://ja.wikipedia.org/wiki/安田知生 "wikilink")
   - [山下祐史](https://ja.wikipedia.org/wiki/山下祐史 "wikilink")
   - [ニリ・ラトゥ](https://ja.wikipedia.org/wiki/ニリ・ラトゥ "wikilink")
   - [ネマニ・ナドロ](https://ja.wikipedia.org/wiki/ネマニ・ナドロ "wikilink")
   - [瀬崎隼人](../Page/瀬崎隼人.md "wikilink")
   - [ウェブ将武](https://ja.wikipedia.org/wiki/ウェブ将武 "wikilink") (35)
+
+<!-- end list -->
+
   - [小野寺優太](https://ja.wikipedia.org/wiki/小野寺優太 "wikilink")
   - [窪田幸一郎](https://ja.wikipedia.org/wiki/窪田幸一郎 "wikilink") (3)
   - [酒井亮八](https://ja.wikipedia.org/wiki/酒井亮八 "wikilink")

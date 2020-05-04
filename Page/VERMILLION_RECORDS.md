@@ -7,7 +7,7 @@
 
 ## 沿革
 
-  - [1992年](../Page/1992年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - ビーイングと[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（当時、現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）の共同出資によって、株式会社BMG ROOMS設立。<ref>新会社設立に伴い、BMGビクターに所属していたビーイング系アーティストが移籍。またZEZ/D.O.G.HOUSE/Rhizomeの3つのレーベルも移管された。
+  - [1992年](../Page/1992年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - ビーイングと[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（当時、現：[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）の共同出資によって、株式会社BMG ROOMS設立。<ref>新会社設立に伴い、BMGビクターに所属していたビーイング系アーティストが移籍。またZEZ/D.O.G.HOUSE/Rhizomeの3つのレーベルも移管された。
 
 B'zや[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎](../Page/織田哲郎.md "wikilink")などビーイングが原盤権を保有する作品（CD/カセットテープ/VHS/LD）のみ、BMGビクターからBMG ROOMSへ発売権が移管され再発される。
 

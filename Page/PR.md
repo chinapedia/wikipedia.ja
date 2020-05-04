@@ -8,7 +8,7 @@
   - [プラセオジム](../Page/プラセオジム.md "wikilink")の[元素記号](../Page/元素記号.md "wikilink") (**Pr**) 。
   - [フィリピン航空](../Page/フィリピン航空.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink") (**PR**) 。
   - [PR (計算複雑性理論)](https://ja.wikipedia.org/wiki/PR_\(計算複雑性理論\) "wikilink") - [計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")における複雑性クラスの1つ。
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") (JOPR)
+  - [福井放送](../Page/福井放送.md "wikilink") (JOPR)
 
 ## 医療
 

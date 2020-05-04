@@ -31,7 +31,7 @@
       - フィールドキャスター：[高山基彦](https://ja.wikipedia.org/wiki/高山基彦 "wikilink")・[池田麻美](../Page/池田麻美.md "wikilink")・[五月女舞香](https://ja.wikipedia.org/wiki/五月女舞香 "wikilink")、ほか
       - 天気キャスター：[吉田篤](https://ja.wikipedia.org/wiki/吉田篤 "wikilink")（[アップルウェザー](https://ja.wikipedia.org/wiki/アップルウェザー "wikilink")所属気象予報士）
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）
-      - 『[IBCニュースエコー](../Page/ニュースエコー.md "wikilink")』■（月 - 金 18:15 - 18:55）
+      - 『[IBCニュースエコー](../Page/ニュースエコー.md "wikilink")』■（月 - 金 18:15 - 18:55\[5\]）
       - キャスター：[江幡平三郎](https://ja.wikipedia.org/wiki/江幡平三郎 "wikilink")（月 - 水）、[奥村奈穂美](../Page/奥村奈穂美.md "wikilink")（月 - 水）、[浅見智](../Page/浅見智.md "wikilink")（木・金）、[甲斐谷望](https://ja.wikipedia.org/wiki/甲斐谷望 "wikilink")（木・金）
       - フィールドキャスター：[神山浩樹](../Page/神山浩樹.md "wikilink")・[川島有貴](https://ja.wikipedia.org/wiki/川島有貴 "wikilink")
       - スポーツキャスター：浅見智・[清水康志](https://ja.wikipedia.org/wiki/清水康志 "wikilink")・[長谷川拳杜](https://ja.wikipedia.org/wiki/長谷川拳杜 "wikilink")
@@ -39,7 +39,7 @@
       - 『[Nスタみやぎ](https://ja.wikipedia.org/wiki/Nスタみやぎ "wikilink")』■（月 - 金 15:40 - 18:55。ローカルニュース部は15:40 - 15:49と18:15 - 18:55。[楽天デーゲーム中継時は](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")「ゴゴスマ」と15:40枠の「Nスタみやぎ早版」が休止され、全国ニュース「Nスタ」は16:50または17:50飛び乗りに変更）
       - キャスター：[菅生翔平](https://ja.wikipedia.org/wiki/菅生翔平 "wikilink")（月 - 水）、[増子華子](https://ja.wikipedia.org/wiki/増子華子 "wikilink")（月 - 水）、[大久保悠](https://ja.wikipedia.org/wiki/大久保悠 "wikilink")（木、金）、[後藤舜](https://ja.wikipedia.org/wiki/後藤舜 "wikilink")（木・金）
       - スポーツキャスター：[守屋周](../Page/守屋周.md "wikilink")・[松尾武](../Page/松尾武_\(アナウンサー\).md "wikilink")・[伊藤晋平](https://ja.wikipedia.org/wiki/伊藤晋平 "wikilink")・[林田悟志](https://ja.wikipedia.org/wiki/林田悟志 "wikilink")・[黒田直樹](../Page/黒田直樹.md "wikilink")・[飯野雅人](../Page/飯野雅人.md "wikilink")・[古野真也](https://ja.wikipedia.org/wiki/古野真也 "wikilink")
-      - 天気キャスター：[尾崎尚之](https://ja.wikipedia.org/wiki/尾崎尚之 "wikilink")、[佐藤正則](https://ja.wikipedia.org/wiki/佐藤正則 "wikilink")、[星野誠](https://ja.wikipedia.org/wiki/星野誠 "wikilink")（気象予報士・[TBC気象台](../Page/私立TBC気象台.md "wikilink")）
+      - 天気キャスター：[尾崎尚之](https://ja.wikipedia.org/wiki/尾崎尚之 "wikilink")、[今野桂吾](https://ja.wikipedia.org/wiki/今野桂吾 "wikilink")、[星野誠](https://ja.wikipedia.org/wiki/星野誠 "wikilink")（気象予報士・[TBC気象台](../Page/私立TBC気象台.md "wikilink")）
   - [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）
       - 『[Nスタやまがた](https://ja.wikipedia.org/wiki/Nスタやまがた "wikilink")』（月 - 金 16:50 - 18:54=ローカルニュース部は18:15 - 18:54。土曜18:50 - 19:00・日曜17:45 - 17:54）
       - キャスター：[鈴木竜弘](https://ja.wikipedia.org/wiki/鈴木竜弘 "wikilink")（月 - 金）、[矢作有美花](https://ja.wikipedia.org/wiki/矢作有美花 "wikilink")（月 - 水）、[小山瑶](../Page/小山瑶.md "wikilink")（木、金）、土日はシフト制。
@@ -96,10 +96,12 @@
 ## 近畿
 
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）
-      - 『[ミント\!](https://ja.wikipedia.org/wiki/ミント! "wikilink")』■（月 - 金 15:49 - 19:00。ローカルニュース『[Newsミント\!](https://ja.wikipedia.org/wiki/Newsミント! "wikilink")』は16:30- 17:10）
+      - 『[ミント\!](https://ja.wikipedia.org/wiki/ミント! "wikilink")』■（月 - 金 15:49 - 19:00。ローカルニュース『[Newsミント\!](https://ja.wikipedia.org/wiki/Newsミント! "wikilink")』は16:30- 17:10\[6\]）
       - キャスター：[西靖](../Page/西靖.md "wikilink")（メイン）、[大吉洋平](https://ja.wikipedia.org/wiki/大吉洋平 "wikilink")、[玉巻映美](https://ja.wikipedia.org/wiki/玉巻映美 "wikilink")、[上田悦子](../Page/上田悦子.md "wikilink")、ほか
       - 天気キャスター：[広瀬駿](https://ja.wikipedia.org/wiki/広瀬駿 "wikilink")（MBS気象予報士）
-      - ナレーション：[田丸一男](../Page/田丸一男.md "wikilink")・[河本光正](../Page/河本光正.md "wikilink")
+      - ナレーション：[河本光正](../Page/河本光正.md "wikilink")・[来栖正之](../Page/来栖正之.md "wikilink")・[金山泉](../Page/金山泉.md "wikilink")
+
+　
 
 ## 中国・四国
 
@@ -111,11 +113,11 @@
       - キャスター：[竹内大樹](https://ja.wikipedia.org/wiki/竹内大樹 "wikilink")、[守口香織](../Page/守口香織.md "wikilink")
       - フィールドキャスター:[武田博志](../Page/武田博志.md "wikilink")・[米澤秀敏](https://ja.wikipedia.org/wiki/米澤秀敏 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")（RCC）
-      - 『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』■（月 - 金 15:00 - 18:56。ローカルニュースは16:50 - 17:50と18:15 - 18:56）
+      - 『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』■（月 - 金 15:00 - 18:56。中断16:50 - 18:15「Nスタ」。ローカルニュースは18:15 - 18:56）
       - キャスター：[青山高治](../Page/青山高治.md "wikilink")、[河村綾奈](https://ja.wikipedia.org/wiki/河村綾奈 "wikilink")
       - ニュースキャスター：[小林康秀](../Page/小林康秀.md "wikilink")、[中根夕希](https://ja.wikipedia.org/wiki/中根夕希 "wikilink")
       - 天気キャスター：[岸真弓](https://ja.wikipedia.org/wiki/岸真弓 "wikilink")（気象予報士）
-      - フィールドキャスター：[岩永哲](https://ja.wikipedia.org/wiki/岩永哲 "wikilink")（報道部記者）
+      - フィールドキャスター：[岩永哲](https://ja.wikipedia.org/wiki/岩永哲 "wikilink")（報道部記者）・[田村友里](https://ja.wikipedia.org/wiki/田村友里_\(アナウンサー\) "wikilink")
       - スポーツキャスター：[石橋真](../Page/石橋真.md "wikilink")・[一柳信行](../Page/一柳信行.md "wikilink")・[長谷川努](../Page/長谷川努.md "wikilink")・[石田充](../Page/石田充.md "wikilink")・[伊東平](https://ja.wikipedia.org/wiki/伊東平 "wikilink")・[坂上俊次](../Page/坂上俊次.md "wikilink")
 
 <!-- end list -->
@@ -140,9 +142,9 @@
 ## 九州・沖縄
 
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（rkb）
-      - 『[今日感ニュース](../Page/今日感テレビ.md "wikilink")』■（月 - 金 18:15 - 19:00）
+      - 『[今日感ニュース](../Page/今日感テレビ.md "wikilink")』■（月 - 金 18:15 - 19:00\[7\]）
       - キャスター：[池尻和佳子](../Page/池尻和佳子.md "wikilink")、[坂田周大](../Page/坂田周大.md "wikilink")
-      - フィールドキャスター：[原加奈](https://ja.wikipedia.org/wiki/原加奈 "wikilink")（報道部記者）・[堤千春](https://ja.wikipedia.org/wiki/堤千春 "wikilink")
+      - フィールドキャスター：[原加奈](https://ja.wikipedia.org/wiki/原加奈 "wikilink")（報道部記者）・[大北瑞季](https://ja.wikipedia.org/wiki/大北瑞季 "wikilink")（報道部記者）・[堤千春](https://ja.wikipedia.org/wiki/堤千春 "wikilink")・[武田伊央](https://ja.wikipedia.org/wiki/武田伊央 "wikilink")
       - スポーツキャスター：[井口謙](../Page/井口謙.md "wikilink")・[茅野正昌](../Page/茅野正昌.md "wikilink")・[佐藤巧](https://ja.wikipedia.org/wiki/佐藤巧 "wikilink")・[田中友英](../Page/田中友英.md "wikilink")・[宮脇憲一](https://ja.wikipedia.org/wiki/宮脇憲一 "wikilink")・[三好ジェームス](../Page/三好ジェームス.md "wikilink")・[辻満里奈](https://ja.wikipedia.org/wiki/辻満里奈 "wikilink")
       - 天気キャスター：[龍山康朗](../Page/龍山康朗.md "wikilink")（RKB気象予報士）
 
@@ -154,13 +156,14 @@
 <!-- end list -->
 
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）
-      - 『[Nスタ プラス長崎](https://ja.wikipedia.org/wiki/Nスタ_プラス長崎 "wikilink")』（月 - 金 18:15 - 18:55）
-      - キャスター：[林田繁和](../Page/林田繁和.md "wikilink")、[早田紀子](../Page/早田紀子.md "wikilink")
+      - 『[Pint](../Page/Pint.md "wikilink")』（月 - 金 16:50 - 19:00。ローカルニュースは18:15 - 19:00。祝日は前半部を単発特番へ差し替え・または「Nスタ」を15:49 - 18:15まで臨時にフルネットし、本編を18:15 - 19:00へ枠小する場合あり）
+      - キャスター：[大倉聡](../Page/大倉聡.md "wikilink")、[染矢すみれ](https://ja.wikipedia.org/wiki/染矢すみれ "wikilink")
+      - フィールドキャスター：[住吉光](https://ja.wikipedia.org/wiki/住吉光 "wikilink")、[甲斐田貴之](../Page/甲斐田貴之.md "wikilink")、[平地真菜](https://ja.wikipedia.org/wiki/平地真菜 "wikilink")、[山崎菜緒](https://ja.wikipedia.org/wiki/山崎菜緒 "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）
       - 『[夕方Live ゲツキン\!](https://ja.wikipedia.org/wiki/夕方Live_ゲツキン! "wikilink")』■（月 - 金 18:15 - 18:55）
       - キャスター：[吉田明央](https://ja.wikipedia.org/wiki/吉田明央 "wikilink") 、[福居万里子](https://ja.wikipedia.org/wiki/福居万里子 "wikilink")、ほか
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）
-      - 『[OBSイブニングニュース](https://ja.wikipedia.org/wiki/OBSイブニングニュース "wikilink")』■（月 - 金 18:15 - 18:55）
+  - [大分放送](../Page/大分放送.md "wikilink")（OBS）
+      - 『[OBSイブニングニュース](https://ja.wikipedia.org/wiki/OBSイブニングニュース "wikilink")』■（月 - 金 18:15 - 18:55\[8\]）
       - キャスター：[村津孝仁](https://ja.wikipedia.org/wiki/村津孝仁 "wikilink")、[井口尚子](../Page/井口尚子.md "wikilink")、[飯倉寛子](https://ja.wikipedia.org/wiki/飯倉寛子 "wikilink")、ほか
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）
       - 『[MRTニュース Next](https://ja.wikipedia.org/wiki/MRTニュース_Next "wikilink")』■（月 - 金 18:15 - 18:55）
@@ -226,7 +229,7 @@
   - rkb RKB毎日放送
     [RKBヘッドライン](../Page/RKBヘッドライン.md "wikilink")ニュース - [RKBニュースワイド](../Page/RKBニュースワイド.md "wikilink")
   - NBC 長崎放送
-    [NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink") - [NBCニュース6](https://ja.wikipedia.org/wiki/NBCニュース6 "wikilink") - [報道センターNBC](../Page/報道センターNBC.md "wikilink")
+    [NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink") - [NBCニュース6](https://ja.wikipedia.org/wiki/NBCニュース6 "wikilink") - [報道センターNBC](../Page/報道センターNBC.md "wikilink") - [Nスタ プラス長崎](https://ja.wikipedia.org/wiki/Nスタ_プラス長崎 "wikilink")
   - RKK 熊本放送
     [RKK熊日ニュース](../Page/熊日ニュース.md "wikilink") - [RKKワイド6](https://ja.wikipedia.org/wiki/RKKワイド6 "wikilink") - [RKKニュースキャッチャー](https://ja.wikipedia.org/wiki/RKKニュースキャッチャー "wikilink") - [ニュースの森くまもと](https://ja.wikipedia.org/wiki/ニュースの森くまもと "wikilink") - [総力報道\!NEWS LIVE くまもと](https://ja.wikipedia.org/wiki/総力報道!NEWS_LIVE_くまもと "wikilink") - [夕方いちばんNEWS](https://ja.wikipedia.org/wiki/夕方いちばんNEWS "wikilink") - [RKK NEWS JUST.](https://ja.wikipedia.org/wiki/RKK_NEWS_JUST. "wikilink")
   - OBS 大分放送
@@ -299,3 +302,7 @@
 2.  2016年9月まで『[TUF NEWS LIVE スイッチ\!](https://ja.wikipedia.org/wiki/TUF_NEWS_LIVE_スイッチ! "wikilink")』
 3.  2017年9月まで『[キャッチあい](../Page/キャッチあい.md "wikilink")』
 4.  2016年3月まで『[報道センターNBC](../Page/報道センターNBC.md "wikilink")』
+5.  2020年5月4日 - 6日は新型コロナウィルス感染拡大防止のため18:25までに枠小。
+6.  [新型コロナウィルス緊急事態宣言発令に伴い](../Page/2019新型コロナウイルス.md "wikilink")、2020年4月13日からは「[おうちにいようよ　ちちんぷいぷい&ミント\!](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")」と題し13:55 - 19:00枠を一体化させている（14～17時台に放送したニュース項目も一部動画配信。中断17:50 - 18:15「Nスタ」。祝日は13:55 - 16:50枠を単発特番に差し替え、16:50 - 17:50まで「Nスタ第2部」を臨時ネットし、本編を18:15- 19:00に枠小する場合あり）。
+7.  13:55 - 15:49枠で編成の本家「今日感テレビ」は新型コロナウィルス陽性が確認された出演者がおり、かつ緊急事態宣言が福岡・佐賀両県を含む全国に拡大されたため、2020年4月6日より無期休止とする措置が採られており、当該時間帯はCBCテレビ制作「[ゴゴスマ](https://ja.wikipedia.org/wiki/ゴゴスマ "wikilink")」を臨時ネット(但し本編は15:40にて飛び降り、15:49まで「RKBヘッドライン」を臨時編成して福岡・佐賀両県の新型コロナ関連情報を放送）。本家「今日感」スタッフは当面夕方ニュース部に集中配置して感染拡大防止と安全確保を図っている（参照サイト：『[今日感テレビ休止継続について](https://rkb.jp/kyokan/)』）。なお兄弟番組「[今日感モーニング](https://ja.wikipedia.org/wiki/今日感モーニング "wikilink")（月 - 金9:55 - 10:25）」・「[サンデーウォッチ](https://ja.wikipedia.org/wiki/サンデーウォッチ "wikilink")（日10:30 - 11:24）」・「今日感テレビ日曜版（日12:54 - 13:57）」は通常通り放送されている（但しラテ兼用サテスタ「天神きらめき通りスタジオ」は新型コロナウィルス感染拡大防止の観点から無期使用停止中のため、同スタジオを使用する番組は全てRKB本社スタジオからの放送に変更）。
+8.  OBSの社員・役員2名が新型コロナウィルス陽性となったため、2020年4月20日から5月6日までは18:25までに枠小されている（参照サイト「[OBS社員・役員の新型コロナウィルス感染対応について](http://www.e-obs.com/)」）。

@@ -7,7 +7,7 @@
 
 バラードをセレクションしたアルバムである。
 
-全体的に『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』、『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』、『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』に収録されている曲が多く、シングル曲はほとんど収録されていない。
+全体的に『[GORILLA](../Page/GORILLA_\(アルバム\).md "wikilink")』、『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』、『[humansystem](https://ja.wikipedia.org/wiki/humansystem "wikilink")』に収録されている曲が多く、シングル曲は「GIRL」しか収録されていない。
 
 未発表曲の「ANOTHER MEETING」も収録。
 

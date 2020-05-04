@@ -130,17 +130,17 @@
 
 ## 放送局
 
-| 放送対象地域                                              | 放送局                                                            | 系列                                                                          | 放送日時             | 備考  |
-| --------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------- | --- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")        | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")                     | 金曜 22:00 - 22:54 | 製作局 |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                         | 同時ネット                                                                       |                  |     |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                           |                                                                             |                  |     |
-| [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                           |                                                                             |                  |     |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                       |                                                                             |                  |     |
-| [福岡県](../Page/福岡県.md "wikilink")                    | [TXN九州](../Page/TVQ九州放送.md "wikilink")                         |                                                                             |                  |     |
-| [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                     | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 録画ネット            |     |
-| [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink")\[1\]                        | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                   | 同時ネット            |     |
-| [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")\[2\] |                                                                             |                  |     |
+| 放送対象地域                                              | 放送局                                                     | 系列                                                                          | 放送日時             | 備考  |
+| --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------- | --- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")                     | 金曜 22:00 - 22:54 | 製作局 |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                  | 同時ネット                                                                       |                  |     |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |                                                                             |                  |     |
+| [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    |                                                                             |                  |     |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                |                                                                             |                  |     |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [TXN九州](../Page/TVQ九州放送.md "wikilink")                  |                                                                             |                  |     |
+| [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")              | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 録画ネット            |     |
+| [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink")\[1\]                 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                   | 同時ネット            |     |
+| [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")\[2\]             |                                                                             |                  |     |
 
 ## 関連項目
 

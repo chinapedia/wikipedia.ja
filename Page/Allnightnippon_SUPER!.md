@@ -17,7 +17,7 @@
 
 キー局のニッポン放送は[CMを流す関係で](../Page/コマーシャルメッセージ.md "wikilink")22時台の最後にはいつも音楽をかけており、CMを放送しない地方局に配慮してその曲が23:00まで放送されるか曲が終了した後に[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")音楽を流していたが、その時間帯を利用して[ニュース](../Page/ニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")を放送した放送局もあった（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[西日本放送](../Page/西日本放送.md "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")他）。これはSUPER以降の平日22時台の番組でも同様。
 
-2003年3月の「LF+R」廃止に伴い終了。後番組は「[オールナイトニッポンいいネ\!](../Page/オールナイトニッポンいいネ!.md "wikilink")」。
+2003年3月の「LF+R」廃止に伴い終了。後番組は「[オールナイトニッポンいいネ\!](../Page/オールナイトニッポンいいネ!.md "wikilink")」（月 - 木）と「[オールナイトニッポンフライデー 長渕剛 今夜もバリサン](../Page/長渕剛のオールナイトニッポンフライデースペシャル・今夜もバリサン.md "wikilink")」（金）。
 
 ## パーソナリティ一覧
 
@@ -192,7 +192,7 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（1999年10月）
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（2000年4月）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（2002年4月）
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（2000年4月）
+  - [福井放送](../Page/福井放送.md "wikilink")（2000年4月）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（2000年10月）
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（1999年10月）
   - [KBS京都](../Page/京都放送.md "wikilink")（1999年10月）
@@ -221,7 +221,7 @@
 
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（2001年10月）
   - [KBC九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（1999年10月）
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（2001年4月）
+  - [大分放送](../Page/大分放送.md "wikilink")（2001年4月）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（2000年4月）
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2000年1月）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（1999年10月）

@@ -316,7 +316,7 @@ TCKは大井競馬の愛称である東京シティ競馬 (Tokyo City Keiba) の
 
 ## 外部リンク
 
-  - [TCK公式サイト「レースと日程」](http://www.tokyocitykeiba.com/race/grade_race/2020-01-22/)より（2019年度版）
+  - [TCK公式サイト「レースと日程」](http://www.tokyocitykeiba.com/race/grade_race/2021-01-20/)より（2020年度版）
 
 [Category:農林水産大臣賞典](https://ja.wikipedia.org/wiki/Category:農林水産大臣賞典 "wikilink") [Category:地方競馬の競走](https://ja.wikipedia.org/wiki/Category:地方競馬の競走 "wikilink") [Category:大井競馬場の競走](https://ja.wikipedia.org/wiki/Category:大井競馬場の競走 "wikilink")
 

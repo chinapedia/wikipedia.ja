@@ -42,14 +42,14 @@
 <td><p>第22回<br />
 （<a href="../Page/2001年.md" title="wikilink">2001年</a>）[1]</p></td>
 <td><p><a href="../Page/保岡栄二.md" title="wikilink">保岡栄二</a>（<a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤正幸" title="wikilink">佐藤正幸</a>（<a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤正幸" title="wikilink">佐藤正幸</a>（<a href="../Page/福井放送.md" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="../Page/福岡竜馬.md" title="wikilink">福岡竜馬</a>（<a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第23回<br />
 （<a href="../Page/2002年.md" title="wikilink">2002年</a>）[2]</p></td>
 <td><p><a href="../Page/松本志のぶ.md" title="wikilink">松本志のぶ</a>（<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ放送網</a>）</p></td>
-<td><p><a href="../Page/重盛政史.md" title="wikilink">重盛政史</a>（<a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>）</p></td>
+<td><p><a href="../Page/重盛政史.md" title="wikilink">重盛政史</a>（<a href="../Page/福井放送.md" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="../Page/三宅宣行.md" title="wikilink">三宅宣行</a>（<a href="../Page/熊本県民テレビ.md" title="wikilink">熊本県民テレビ</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -98,7 +98,7 @@
 <td><p>第30回<br />
 （<a href="../Page/2009年.md" title="wikilink">2009年</a>）[7]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/羽鳥慎一" title="wikilink">羽鳥慎一</a>（<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ放送網</a>）</p></td>
-<td><p><a href="../Page/谷戸礼子.md" title="wikilink">谷戸礼子</a>（<a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>）</p></td>
+<td><p><a href="../Page/谷戸礼子.md" title="wikilink">谷戸礼子</a>（<a href="../Page/福井放送.md" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鹿内美沙" title="wikilink">鹿内美沙</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
 </tr>
 <tr class="even">
@@ -140,7 +140,7 @@
 <td><p>第36回<br />
 （<a href="../Page/2015年.md" title="wikilink">2015年</a>）[13]</p></td>
 <td><p><a href="../Page/急式裕美.md" title="wikilink">急式裕美</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
-<td><p><a href="../Page/岩本和弘.md" title="wikilink">岩本和弘</a>（<a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>）</p></td>
+<td><p><a href="../Page/岩本和弘.md" title="wikilink">岩本和弘</a>（<a href="../Page/福井放送.md" title="wikilink">福井放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐野祐子" title="wikilink">佐野祐子</a>（<a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ放送</a>）</p></td>
 </tr>
 <tr class="even">

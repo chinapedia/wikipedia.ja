@@ -37,7 +37,7 @@
 入港前の1月17日、ついに佐世保で全学連と警察の間に市街戦さながらの激突が起きた。機動隊は放水、催涙ガス銃を使用した。衝突は佐世保駅から、平瀬橋、そして学生が逃げ込んだ旧市民病院の中にまで移っていった。約2時間後、市民病院の学生は機動隊に制圧された。（[佐世保エンタープライズ寄港阻止闘争](https://ja.wikipedia.org/wiki/佐世保エンタープライズ寄港阻止闘争 "wikilink")）学生・警官あわせて重軽傷者135人。逮捕者は27人にのぼった。
 18日の寄港は一時延期し、翌19日午前9時10分、佐世保港に停泊した。この日もまた学生と機動隊の衝突が繰り返された。1月23日午前9時、[プエブロ号事件](https://ja.wikipedia.org/wiki/プエブロ号事件 "wikilink")発生に伴い佐世保港を出港し、エンタープライズとその護衛艦から成る機動部隊は[東シナ海](../Page/東シナ海.md "wikilink")に展開し、朝鮮半島付近の日本海に1ヶ月近く展開した。
 
-[Aircraft_burning_on_USS_Enterprise_(CVN-65).jpg](https://ja.wikipedia.org/wiki/File:Aircraft_burning_on_USS_Enterprise_\(CVN-65\).jpg "fig:Aircraft_burning_on_USS_Enterprise_(CVN-65).jpg") 1969年1月14日の午前8:19に [F-4 ファントムIIに装着された](../Page/F-4_\(戦闘機\).md "wikilink") MK-32 [ズーニー・ロケット弾](../Page/ズーニー・ロケット弾.md "wikilink")が発艦準備を行っていた機体の排気により加熱され爆発事故を起こす。爆発とその後の火災で27名が死亡し、314名が負傷した。火災により15機の艦載機が破壊され、エンタープライズはその損害により修理を余儀なくされた。修理は真珠湾で3月初めに完了した。\[3\]
+[Aircraft_burning_on_USS_Enterprise_(CVN-65).jpg](https://ja.wikipedia.org/wiki/File:Aircraft_burning_on_USS_Enterprise_\(CVN-65\).jpg "fig:Aircraft_burning_on_USS_Enterprise_(CVN-65).jpg") 1969年1月14日の午前8:19に [F-4 ファントムIIに装着された](../Page/F-4_\(戦闘機\).md "wikilink") MK-32 [ズーニー・ロケット弾](../Page/ズーニー・ロケット弾.md "wikilink")が発艦準備を行っていた機体の排気により加熱され爆発事故を起こす。爆発とその後の火災で27名が死亡し、314名が負傷した。火災により15機の艦載機が破壊され、エンタープライズはその損害により修理を余儀なくされた。修理は真珠湾で3月初めに完了した。
 
 1969年4月14日、[北朝鮮軍機が](../Page/朝鮮民主主義人民共和国.md "wikilink")[厚木基地](https://ja.wikipedia.org/wiki/厚木基地 "wikilink")所属の [EC-121](https://ja.wikipedia.org/wiki/EC-121 "wikilink") [コンステレーション電子偵察機を撃墜し乗員](../Page/ロッキード_コンステレーション.md "wikilink")31名が全員死亡する（[アメリカ海軍EC-121機撃墜事件](../Page/アメリカ海軍EC-121機撃墜事件.md "wikilink")）。エンタープライズ、[タイコンデロガ](../Page/タイコンデロガ_\(空母\).md "wikilink") (*USS Ticonderoga, CV-14*)、[レンジャー](../Page/レンジャー_\(CV-61\).md "wikilink") (*USS Ranger, CVA-61*)、[ホーネット](../Page/ホーネット_\(CV-12\).md "wikilink") (*USS Hornet, CV-12*) の各空母と護衛の巡洋艦、駆逐艦から成る第71機動部隊は日本海に派遣され、警戒態勢に入った。
 
@@ -89,7 +89,7 @@
 
 2003-2004に、エンタープライズは[イラクの自由作戦](https://ja.wikipedia.org/wiki/イラクの自由作戦 "wikilink")の航空支援をした。2004年には複数の多国籍軍の演習に参加した。2006年5月にエンタープライズは6カ月間展開しその間、8つの港を訪問した。エンタープライズは2001年9月11日の[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")以来、フランス・カンヌ港に入る最初の米国海軍艦艇になった。
 
-2008年4月、エンタープライズは18カ月の予定のオーバーホールのために[ニューポートニューズ](../Page/ニューポートニューズ.md "wikilink")造船所に入港した。2009年4月の時点で、オーバーホールの総費用は予定よりも高い4億8,090万[ドルになっていた](../Page/アメリカ合衆国ドル.md "wikilink")。2009年12月23日現在、最終的なオーバーホールの総費用が当初の見積りよりも高い6億500万ドル以上に膨らみ工期も予定より8カ月延びると発表。2010年4月には、費用が6億5,500万ドルになり、同月中に完成することを発表した\[4\]。4月19日に艦隊復帰に向け公試を実施した\[5\]。最終的にオーバーホールの総費用は6億6,200万ドルと当初予算を46%超過した。
+2008年4月、エンタープライズは18カ月の予定のオーバーホールのために[ニューポートニューズ](../Page/ニューポートニューズ.md "wikilink")造船所に入港した。2009年4月の時点で、オーバーホールの総費用は予定よりも高い4億8,090万[ドルになっていた](../Page/アメリカ合衆国ドル.md "wikilink")。2009年12月23日現在、最終的なオーバーホールの総費用が当初の見積りよりも高い6億500万ドル以上に膨らみ工期も予定より8カ月延びると発表。2010年4月には、費用が6億5,500万ドルになり、同月中に完成することを発表した\[3\]。4月19日に艦隊復帰に向け公試を実施した\[4\]。最終的にオーバーホールの総費用は6億6,200万ドルと当初予算を46%超過した。
 
 [キティーホークの退役に伴い](../Page/キティホーク_\(空母\).md "wikilink")、2009年2月より帆走[フリゲート](../Page/フリゲート.md "wikilink")[コンスティチューションに次ぐ古参艦](../Page/コンスティチューション_\(帆走フリゲート\).md "wikilink")（ファーストネイビージャック）になっていた。
 
@@ -97,11 +97,11 @@
 
 [US_Navy_100512-N-8446A-004_An_F-A-18F_Super_Hornet_assigned_to_the_Fighting_Checkmates_of_Strike_Fighter_Squadron_(VFA)_211_lands_aboard_the_aircraft_carrier_USS_Enterprise_(CVN_65).jpg](https://ja.wikipedia.org/wiki/File:US_Navy_100512-N-8446A-004_An_F-A-18F_Super_Hornet_assigned_to_the_Fighting_Checkmates_of_Strike_Fighter_Squadron_\(VFA\)_211_lands_aboard_the_aircraft_carrier_USS_Enterprise_\(CVN_65\).jpg "fig:US_Navy_100512-N-8446A-004_An_F-A-18F_Super_Hornet_assigned_to_the_Fighting_Checkmates_of_Strike_Fighter_Squadron_(VFA)_211_lands_aboard_the_aircraft_carrier_USS_Enterprise_(CVN_65).jpg")
 
-エンタープライズは、2015年に[ジェラルド・R・フォード](../Page/ジェラルド・R・フォード_\(空母\).md "wikilink") (*USS Gerald R. Ford, CVN-78*) が就役するまで現役である予定であったが、アメリカ海軍は方針を変更し2012年末に退役させると表明した。2012年3月11日、母港ノーフォークから中東へ向かう出航前にウィリアム・ハミルトン艦長は「最後の艦長として配備につけるのは末代までの誇り」と話した\[6\]。
+エンタープライズは、2015年に[ジェラルド・R・フォード](../Page/ジェラルド・R・フォード_\(空母\).md "wikilink") (*USS Gerald R. Ford, CVN-78*) が就役するまで現役である予定であったが、アメリカ海軍は方針を変更し2012年末に退役させると表明した。2012年3月11日、母港ノーフォークから中東へ向かう出航前にウィリアム・ハミルトン艦長は「最後の艦長として配備につけるのは末代までの誇り」と話した\[5\]。
 
-2012年12月1日、母港とするノーフォーク海軍基地で不活動化のための式典が行われ\[7\]、同式典において米海軍長官から寄せられたビデオメッセージにより、[ジェラルド・R・フォード級](../Page/ジェラルド・R・フォード級航空母艦.md "wikilink")3番艦(*CVN-80*)の艦名をUSS Enterpriseにすると発表された。その後も海軍籍にあり艦長も配属されていたが、2017年2月3日にノーフォークで退役式典が行われ\[8\]、正式に米海軍から除籍された。
+2012年12月1日、母港とするノーフォーク海軍基地で不活動化のための式典が行われ\[6\]、同式典において米海軍長官から寄せられたビデオメッセージにより、[ジェラルド・R・フォード級](../Page/ジェラルド・R・フォード級航空母艦.md "wikilink")3番艦(*CVN-80*)の艦名をUSS Enterpriseにすると発表された。その後も海軍籍にあり艦長も配属されていたが、2017年2月3日にノーフォークで退役式典が行われ\[7\]、正式に米海軍から除籍された。
 
-世界初の原子力空母である点を考慮して博物艦船として保存するという意見もある。しかし、原子炉を取り出す際に船体を切断しなければならないため、解体される公算が大きい。エンタープライズは[原子力艦再利用プログラム](../Page/原子力艦再利用プログラム.md "wikilink")に基づく予算と計画の遅れから2015年5月4日[ハンティントン・インガルス・インダストリーズ](https://ja.wikipedia.org/wiki/ハンティントン・インガルス・インダストリーズ "wikilink")で原子炉燃料の処理が開始された。本プログラムで処分される初の原子力空母で、遺構として保存する範囲の議論は未決着で解体工期は2025年完了予定としている\[9\]。
+世界初の原子力空母である点を考慮して博物艦船として保存するという意見もある。しかし、原子炉を取り出す際に船体を切断しなければならないため、解体される公算が大きい。エンタープライズは[原子力艦再利用プログラム](../Page/原子力艦再利用プログラム.md "wikilink")に基づく予算と計画の遅れから2015年5月4日[ハンティントン・インガルス・インダストリーズ](https://ja.wikipedia.org/wiki/ハンティントン・インガルス・インダストリーズ "wikilink")で原子炉燃料の処理が開始された。本プログラムで処分される初の原子力空母で、遺構として保存する範囲の議論は未決着で解体工期は2025年完了予定としている\[8\]。
 
 ## 比較
 
@@ -115,9 +115,9 @@
 
   - 本艦は同名の[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における[空母およびテレビシリーズ](../Page/エンタープライズ_\(CV-6\).md "wikilink")『[スタートレック](../Page/スタートレック.md "wikilink")』に登場する[宇宙船](../Page/宇宙船.md "wikilink")との関係で、恐らくアメリカ海軍において最も有名な艦であると考えられる。
   - 『スタートレック』のエピソードが収録された[ビデオテープが](https://ja.wikipedia.org/wiki/磁気テープ#ビデオ用 "wikilink")、[ビデオ普及初期にエンタープライズに供給された](../Page/ビデオテープレコーダ.md "wikilink")。このテープは艦の乗組員の[レクリエーションに用いられ](https://ja.wikipedia.org/wiki/余暇 "wikilink")、艦内のテレビシステムで上映された。これは[1973年](../Page/1973年.md "wikilink")から[1974年](../Page/1974年.md "wikilink")におけるブレマートンでの修理の間に行われた。
-  - また、上記の映画である『[スタートレックIV 故郷への長い道](../Page/スタートレックIV_故郷への長い道.md "wikilink")』では、劇中でスタートレック伝統の旗艦と同じ名前を持つアメリカ合衆国海軍の航空母艦「エンタープライズ(CVN-65)」が登場するシーンがある。ただし、撮影直前に急遽作戦行動に入ってしまったため、実際に撮影に使用されたのは[レンジャー (CV-61)であった](../Page/レンジャー_\(CV-61\).md "wikilink")\[10\]。
+  - また、上記の映画である『[スタートレックIV 故郷への長い道](../Page/スタートレックIV_故郷への長い道.md "wikilink")』では、劇中でスタートレック伝統の旗艦と同じ名前を持つアメリカ合衆国海軍の航空母艦「エンタープライズ(CVN-65)」が登場するシーンがある。ただし、撮影直前に急遽作戦行動に入ってしまったため、実際に撮影に使用されたのは[レンジャー (CV-61)であった](../Page/レンジャー_\(CV-61\).md "wikilink")\[9\]。
   - エンタープライズは建造費が大幅に超過したため、[テリアミサイル](../Page/テリアミサイル.md "wikilink")発射機4基を装備する予定であったものの、装備されず就役した。これらは結局装備されず、その代わりに防衛兵器は[シースパロー](https://ja.wikipedia.org/wiki/シースパロー "wikilink")8連装発射機4基および[ファランクス](../Page/ファランクス_\(火器\).md "wikilink")[CIWS](../Page/CIWS.md "wikilink")4基が装備された。ファランクスの内2基は後に [RAM](../Page/RAM_\(ミサイル\).md "wikilink")21連装発射機と取り替えられた。
-  - 映画「[トップガン](../Page/トップガン_\(映画\).md "wikilink")」において、主人公の乗り組む空母の艦長が被っていた帽子は、エンタープライズのものだった \[11\]。
+  - 映画「[トップガン](../Page/トップガン_\(映画\).md "wikilink")」において、主人公の乗り組む空母の艦長が被っていた帽子は、エンタープライズのものだった \[10\]。
   - アメリカ本国では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2005年](../Page/2005年.md "wikilink")までの全10シーズンにわたって放送された連続テレビドラマ 「[犯罪捜査官ネイビーファイル](../Page/犯罪捜査官ネイビーファイル.md "wikilink")」において、しばしば劇中に登場する空母「シーホーク」（架空の艦名）は、本艦がモデルであり（ロケ撮影も本艦で行なわれた）、艦長をはじめとする乗組員たちが被っている帽子も、艦名の部分を「シーホーク」に変えたエンタープライズのものであった。また、第8シーズンの1エピソードにおいて、レギュラーの一人である、JAG法務官のバド・ロバーツ海軍大尉（演：[パトリック・ラビオートー](https://ja.wikipedia.org/wiki/パトリック・ラビオートー "wikilink")）が、幼い息子へのプレゼントとして受け取った「シーホーク」のプラモデルのパッケージも、エンタープライズのプラモデル（タミヤ製）のパッケージの艦名を変更したものとなっている。なお、「シーホーク」は、スピンオフシリーズの「[NCIS ネイビー犯罪捜査班](https://ja.wikipedia.org/wiki/NCIS_ネイビー犯罪捜査班 "wikilink")」にも登場する。
   - 『[沈黙の艦隊](../Page/沈黙の艦隊.md "wikilink")』のアニメ版では、原作で登場していた[ミッドウェイ級航空母艦](../Page/ミッドウェイ級航空母艦.md "wikilink")「[ミッドウェイ](../Page/ミッドウェイ_\(空母\).md "wikilink")」が制作当時に退役していたので、その代わりに登場して[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")「[やまと](../Page/やまと_\(沈黙の艦隊\).md "wikilink")」と戦闘を行った。
 
@@ -142,11 +142,25 @@
   - 『[征途](../Page/征途.md "wikilink")』
     統一戦争緒戦において、[ニミッツ級航空母艦](../Page/ニミッツ級航空母艦.md "wikilink")「[ニミッツ](../Page/ニミッツ_\(空母\).md "wikilink")」や護衛艦18隻と共にオホーツク海にて演習していたが、[亜庭湾](https://ja.wikipedia.org/wiki/亜庭湾 "wikilink")岸沿いに展開した日本人民民主主義共和国（北日本）人民赤軍による八二式地対艦誘導弾（[SS-N-12](https://ja.wikipedia.org/wiki/SS-N-12 "wikilink")の架空の改造型）の奇襲を受け、通常弾頭型5発と戦術核弾頭（[核出力](../Page/核出力.md "wikilink")5kt）搭載型2発によって撃沈される。
 
+## 脚注
+
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
 ## 関連項目
 
   - [佐世保エンタープライズ寄港阻止闘争](https://ja.wikipedia.org/wiki/佐世保エンタープライズ寄港阻止闘争 "wikilink")
-
-## 出典
 
 ## 外部リンク
 
@@ -163,12 +177,11 @@
 
 1.  [米原子力空母エンタープライズ退役へ　炉除去に３年、船体は一部売却](http://www.cnn.co.jp/fringe/35023990.html?ref=rss) cnn.co.jp 2012年11月4日
 2.
-3.  同様の事故は1967年に[フォレスタルでも発生している](../Page/フォレスタル_\(空母\).md "wikilink")。
-4.  Frost, Peter, "USS Enterprise Delayed Again; Cost Of Maintenance Balloons 44.5 Percent", *[Newport News Daily Press](https://ja.wikipedia.org/wiki/Newport_News_Daily_Press "wikilink")*, April 1, 2010.
-5.  ["Enterprise Departs for Sea Trials"](http://www.asdnews.com/news/27375/Enterprise_Departs_for_Sea_Trials.htm)
-6.  [米空母「ビッグＥ」最後の航海　中東海域に配備へ](http://sankei.jp.msn.com/world/news/120312/amr12031211280009-n1.htm)
-7.
-8.  「米海軍短信 原子力空母エンタープライズEnterprise CVN-65が正式に退役」『世界の艦船』第856集（2017年4月号） 海人社
-9.
-10. Okuda, Michael and Denise (1997). The Star Trek Encyclopedia (2nd ed.). Pocket Books. ISBN 0-671-53607-9
-11. Baranek, Dave "Bio", "Topgun Days", Skyhorse Publishing, 2010. ISBN 978-1-61608-005-1
+3.  Frost, Peter, "USS Enterprise Delayed Again; Cost Of Maintenance Balloons 44.5 Percent", *[Newport News Daily Press](https://ja.wikipedia.org/wiki/Newport_News_Daily_Press "wikilink")*, April 1, 2010.
+4.  ["Enterprise Departs for Sea Trials"](http://www.asdnews.com/news/27375/Enterprise_Departs_for_Sea_Trials.htm)
+5.  [米空母「ビッグＥ」最後の航海　中東海域に配備へ](http://sankei.jp.msn.com/world/news/120312/amr12031211280009-n1.htm)
+6.
+7.  「米海軍短信 原子力空母エンタープライズEnterprise CVN-65が正式に退役」『世界の艦船』第856集（2017年4月号） 海人社
+8.
+9.  Okuda, Michael and Denise (1997). The Star Trek Encyclopedia (2nd ed.). Pocket Books. ISBN 0-671-53607-9
+10. Baranek, Dave "Bio", "Topgun Days", Skyhorse Publishing, 2010. ISBN 978-1-61608-005-1

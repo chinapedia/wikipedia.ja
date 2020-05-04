@@ -690,8 +690,9 @@ SHANE LESTER</p></td>
 ## 外部リンク
 
   - [SPACE SHOWER MUSIC AWARDS 2016](https://tokyomusicodyssey.jp/2016/awards/)
-  - [SPACE SHOWER MUSIC AWARDS 2017](http://tokyomusicodyssey.jp/awards)
-  - [SPACE SHOWER MUSIC AWARDS 2018](http://awards.spaceshower.jp/2018)
-  - [SPACE SHOWER MUSIC AWARDS 2019](http://awards.spaceshower.jp/2019)
+  - [SPACE SHOWER MUSIC AWARDS 2017](https://tokyomusicodyssey.jp/2017/awards/)
+  - [SPACE SHOWER MUSIC AWARDS 2018](https://awards.spaceshower.jp/2018/)
+  - [SPACE SHOWER MUSIC AWARDS 2019](https://awards.spaceshower.jp/2019/)
+  - [SPACE SHOWER MUSIC AWARDS 2020](https://awards.spaceshower.jp/2020/)
 
 [Category:日本の音楽賞](https://ja.wikipedia.org/wiki/Category:日本の音楽賞 "wikilink") [Category:スペースシャワーTV](https://ja.wikipedia.org/wiki/Category:スペースシャワーTV "wikilink")

@@ -214,6 +214,7 @@
   - [みんなの童謡](../Page/みんなの童謡.md "wikilink")（不定期）
   - [NHK全国学校音楽コンクール](../Page/NHK全国学校音楽コンクール.md "wikilink")課題曲紹介番組（その年の課題曲を範唱するのが通例である）
   - [BS永遠の音楽大全集](../Page/BS永遠の音楽大全集.md "wikilink")（2009年まで）
+  - [天才てれびくんhello,](https://ja.wikipedia.org/wiki/天才てれびくんhello, "wikilink")
 
 ## かつて出演していた番組
 
@@ -221,6 +222,8 @@
   - [ワンツー・どん](../Page/ワンツー・どん.md "wikilink")
   - [うたって・ゴー](https://ja.wikipedia.org/wiki/うたって・ゴー "wikilink")
   - [ふえはうたう](https://ja.wikipedia.org/wiki/ふえはうたう "wikilink")
+  - [まちかどド・レ・ミ](../Page/まちかどド・レ・ミ.md "wikilink")
+  - [歌えリコーダー](https://ja.wikipedia.org/wiki/歌えリコーダー "wikilink")
 
 ## レコード
 

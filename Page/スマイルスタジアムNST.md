@@ -5,7 +5,7 @@
 
 ## 概要
 
-「笑顔をツナグ」をテーマに、[グルメ](../Page/飲食店.md "wikilink")・[旅行](../Page/旅行.md "wikilink")・[ファッション](../Page/ファッション.md "wikilink")情報\[2\]などを紹介している。一時期は1週間の県内[ニュース](../Page/ニュース.md "wikilink")を振り返るコーナーもあったが、その後はこれに代わって[エンターテインメント](../Page/エンターテインメント.md "wikilink")・[スポーツ](../Page/スポーツ.md "wikilink")・[エコロジー](../Page/エコロジー.md "wikilink")情報などを取り上げている。番組開始当初のテーマは「スマスタコミュニケーション」、2016年の番組15周年を迎えてのテーマは「家族を笑顔に」であった。2019年2月16日で放送回数900回を達成した。
+「もっと、みんなとスマイル」をテーマに、[グルメ](../Page/飲食店.md "wikilink")・[旅行](../Page/旅行.md "wikilink")・[ファッション](../Page/ファッション.md "wikilink")情報\[2\]などを紹介している。一時期は1週間の県内[ニュース](../Page/ニュース.md "wikilink")を振り返るコーナーもあったが、その後はこれに代わって[エンターテインメント](../Page/エンターテインメント.md "wikilink")・[スポーツ](../Page/スポーツ.md "wikilink")・[エコロジー](../Page/エコロジー.md "wikilink")情報などを取り上げている。番組開始当初のテーマは「スマスタコミュニケーション」、2016年の番組15周年を迎えてのテーマは「家族を笑顔に」、2017年12月からのテーマは「笑顔をツナグ」であった。2019年2月16日で放送回数900回を達成した。
 
 [2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、同社の[CI導入に伴って旧](https://ja.wikipedia.org/wiki/コーポレート・アイデンティティ "wikilink")[ロゴで表記していたNSTロゴを新ロゴに変更した](../Page/ロゴタイプ.md "wikilink")。
 
@@ -26,19 +26,11 @@
 
 ### レギュラーゲスト
 
-  - [クロエ・ヴィアート](https://ja.wikipedia.org/wiki/クロエ・ヴィアート "wikilink")（芸名：マドレーヌ、浄瑠璃人形遣い・フランス語講師） - 番組の第1回目から出演。
-  - [碓井真史](https://ja.wikipedia.org/wiki/碓井真史 "wikilink")（[新潟青陵大学](../Page/新潟青陵大学.md "wikilink")教授）
-  - 中静祐介（タレント・[ヤングキャベツ](https://ja.wikipedia.org/wiki/ヤングキャベツ "wikilink"))
-  - 薄田東仙（[曹洞宗](../Page/曹洞宗.md "wikilink")延命寺住職、日本刻字協会会長） - 2009年4月から出演。
-  - 斎藤勝也（[弁護士](../Page/弁護士.md "wikilink")・[アディーレ法律事務所](https://ja.wikipedia.org/wiki/アディーレ法律事務所 "wikilink")新潟支店長）
   - 出塚彩（[にいがた製菓](https://ja.wikipedia.org/wiki/にいがた製菓 "wikilink")・調理師専門学校えぷろん校長）
-  - 中島有香（[料理研究家](../Page/料理研究家.md "wikilink")）
-  - [江口歩](https://ja.wikipedia.org/wiki/江口歩 "wikilink")（新潟お笑い集団[NAMARA](../Page/NAMARA.md "wikilink")代表）
-  - [NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")（アイドルグループ・たまにAKB48チーム8メンバーの佐藤栞も出演する場合あり） - 2015年11月から出演。
   - [タイムマシーン3号](../Page/タイムマシーン3号.md "wikilink")（お笑い芸人）
   - [村山瑛子](https://ja.wikipedia.org/wiki/村山瑛子 "wikilink")（料理研究家）
-  - [うしろシティ](https://ja.wikipedia.org/wiki/うしろシティ "wikilink")（お笑い芸人）
   - [三上真史](../Page/三上真史.md "wikilink")
+  - [うしろシティ](https://ja.wikipedia.org/wiki/うしろシティ "wikilink")（お笑い芸人）
 
 ### 過去のレギュラー
 
@@ -68,6 +60,14 @@
 
   - 宮澤正子（ボディ・メンテナンス・アドバイザー、 - 2009年3月28日）
   - [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")（選抜メンバー、2013年1月12日 - 2015年10月24日） - 2015年4月から、お天気キャスターも兼任。
+  - [クロエ・ヴィアート](https://ja.wikipedia.org/wiki/クロエ・ヴィアート "wikilink")（芸名：マドレーヌ、浄瑠璃人形遣い・フランス語講師） - 番組の第1回目から出演。
+  - [碓井真史](https://ja.wikipedia.org/wiki/碓井真史 "wikilink")（[新潟青陵大学](../Page/新潟青陵大学.md "wikilink")教授）
+  - 中静祐介（タレント・[ヤングキャベツ](https://ja.wikipedia.org/wiki/ヤングキャベツ "wikilink"))
+  - 薄田東仙（[曹洞宗](../Page/曹洞宗.md "wikilink")延命寺住職、日本刻字協会会長） - 2009年4月から出演。
+  - 斎藤勝也（[弁護士](../Page/弁護士.md "wikilink")・[アディーレ法律事務所](https://ja.wikipedia.org/wiki/アディーレ法律事務所 "wikilink")新潟支店長）
+  - 中島有香（[料理研究家](../Page/料理研究家.md "wikilink")）
+  - [江口歩](https://ja.wikipedia.org/wiki/江口歩 "wikilink")（新潟お笑い集団[NAMARA](../Page/NAMARA.md "wikilink")代表）
+  - [NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")（アイドルグループ・たまにAKB48チーム8メンバーの佐藤栞も出演する場合あり） - 2015年11月-2019年1月出演。
 
 ## コーナー
 

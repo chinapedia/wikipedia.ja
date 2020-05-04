@@ -194,8 +194,8 @@
 </tr>
 <tr class="even">
 <td><p>2015年2月17日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GRAVITY" title="wikilink">GRAVITY</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アゲンスト・ザ・カレント" title="wikilink">Against The Current</a></p></td>
+<td><p><strong>GRAVITY</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アゲインスト・ザ・カレント" title="wikilink">Against The Current</a></p></td>
 <td><p>「<strong><a href="https://ja.wikipedia.org/wiki/Dreaming_Alone" title="wikilink">Dreaming Alone</a></strong> Feat. Taka from ONE OK ROCK」</p></td>
 </tr>
 <tr class="odd">

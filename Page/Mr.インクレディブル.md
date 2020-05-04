@@ -227,107 +227,112 @@
 <td><p><a href="../Page/小飯塚貴世江.md" title="wikilink">小飯塚貴世江</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>牧師</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ウォーカー_(映画プロデューサー)" title="wikilink">ジョン・ウォーカー</a></p></td>
+<td><p><a href="../Page/村松康雄.md" title="wikilink">村松康雄</a></p></td>
+</tr>
+<tr class="even">
 <td><p>ハニー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/キンバリー・アデール・クラーク" title="wikilink">キンバリー・アデール・クラーク</a></p></td>
 <td><p><a href="../Page/真山亜子.md" title="wikilink">真山亜子</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アンダーマイナー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ラッツェンバーガー" title="wikilink">ジョン・ラッツェンバーガー</a></p></td>
 <td><p><a href="../Page/高田延彦.md" title="wikilink">高田延彦</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>警官</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マーク・アンドリュース" title="wikilink">マーク・アンドリュース</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>通行人</p></td>
 <td><p><a href="../Page/フランク・トーマス_(アニメーター).md" title="wikilink">フランク・トーマス</a></p></td>
 <td><p><a href="../Page/八奈見乗児.md" title="wikilink">八奈見乗児</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>通行人</p></td>
 <td><p><a href="../Page/オリー・ジョンストン.md" title="wikilink">オリー・ジョンストン</a></p></td>
 <td><p><a href="../Page/滝口順平.md" title="wikilink">滝口順平</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>トニーの友達</p></td>
 <td></td>
 <td><p><a href="../Page/勝杏里.md" title="wikilink">勝杏里</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ボブの弁護士</p></td>
 <td></td>
 <td><p><a href="../Page/YASU.md" title="wikilink">YASU</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>警備員</p></td>
 <td></td>
 <td><p><a href="../Page/本間秋彦.md" title="wikilink">本間秋彦</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>観光バス強盗</p></td>
 <td></td>
 <td><p><a href="../Page/西本英雄.md" title="wikilink">西本英雄</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>秘書</p></td>
 <td></td>
 <td><p><a href="../Page/小林美幸.md" title="wikilink">小林美幸</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>女友達</p></td>
 <td></td>
 <td><p><a href="../Page/中田エミリー.md" title="wikilink">中田エミリー</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>若い母親</p></td>
 <td></td>
 <td><p>越村エリ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>女性社員</p></td>
 <td></td>
 <td><p><a href="../Page/清水由美.md" title="wikilink">清水由美</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>女1</p></td>
 <td></td>
 <td><p>Kiyomi</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>飛行ポッド兵2</p></td>
 <td></td>
 <td><p><a href="../Page/横山雄二.md" title="wikilink">横山雄二</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>技術士1</p></td>
 <td></td>
 <td><p><a href="../Page/スマイリー原島.md" title="wikilink">スマイリー原島</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>少女1</p></td>
 <td></td>
 <td><p>米澤有加</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>女3</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/緒方由美" title="wikilink">緒方由美</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>受付</p></td>
 <td></td>
 <td><p><a href="../Page/宮城麻里子.md" title="wikilink">宮城麻里子</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>その他</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピート・ドクター" title="wikilink">ピート・ドクター</a><br />
 <a href="https://ja.wikipedia.org/wiki/アンドリュー・スタントン" title="wikilink">アンドリュー・スタントン</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -335,13 +340,13 @@
 </tbody>
 </table>
 
-| その他声の出演                            |
-| ---------------------------------- |
-| [村松康雄](../Page/村松康雄.md "wikilink") |
-| [奥田啓人](../Page/奥田啓人.md "wikilink") |
-| [河内孝博](../Page/河内孝博.md "wikilink") |
-| 鶴博幸                                |
-|                                    |
+| その他声の出演                                               |
+| ----------------------------------------------------- |
+| [横尾まり](../Page/横尾まり.md "wikilink")                    |
+| [渡辺英雄](../Page/渡辺英雄.md "wikilink")                    |
+| 杉本征哉                                                  |
+| [風間秀郎](https://ja.wikipedia.org/wiki/風間秀郎 "wikilink") |
+|                                                       |
 
   - Mr. インクレディブルの吹き替えは、予告編では[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")と[銀河万丈](../Page/銀河万丈.md "wikilink")、イラスティガールは[松井菜桜子](../Page/松井菜桜子.md "wikilink")、フロゾンは[高木渉](../Page/高木渉.md "wikilink")、エドナ・モードは[京田尚子](../Page/京田尚子.md "wikilink")が担当。また、ゲーム版でのMr. インクレディブルの吹き替えは、[古澤徹](../Page/古澤徹.md "wikilink")。
   - ショートアニメ『Mr.Incredible and Pals』でのMr. インクレディブルの声は、[ピート・ドクター](https://ja.wikipedia.org/wiki/ピート・ドクター "wikilink")が担当。

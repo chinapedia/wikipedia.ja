@@ -177,6 +177,7 @@
 
   - [ほっとニュース北海道](https://ja.wikipedia.org/wiki/ほっとニュース北海道 "wikilink")とかち（総合 月 - 金18:50 - 18:55）\[4\]
   - ニュース・気象情報（[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・[FM](../Page/NHK-FM放送.md "wikilink") 月 - 金12:18 - 12:20、18:56 - 19:00）
+  - 十勝の話題と音楽（ラジオ第1 月1回木16:05 - 16:55）
 
 ## 過去の制作番組
 
@@ -205,15 +206,53 @@
 
 2019年8月現在\[5\]
 
-| 氏名                                   | 前任地                                         | 担当番組                                                                 |
-| ------------------------------------ | ------------------------------------------- | -------------------------------------------------------------------- |
-| アナウンサー                               |                                             |                                                                      |
-| [神門光太朗](../Page/神門光太朗.md "wikilink") | [ラジオセンター](../Page/NHKラジオセンター.md "wikilink") | [ほっとニュース北海道](https://ja.wikipedia.org/wiki/ほっとニュース北海道 "wikilink")とかち |
-| 契約キャスター                              |                                             |                                                                      |
-| 中山絵理子                                |                                             | ほっとニュース北海道とかち                                                        |
-| 菅野愛                                  |                                             |                                                                      |
-| 日笠まり絵                                |                                             |                                                                      |
-| 松野莉奈                                 |                                             |                                                                      |
+<table>
+<thead>
+<tr class="header">
+<th><p>氏名</p></th>
+<th><p>前任地</p></th>
+<th><p>担当番組</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>アナウンサー</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/神門光太朗.md" title="wikilink">神門光太朗</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ほっとニュース北海道" title="wikilink">ほっとニュース北海道</a>とかち<br />
+十勝の話題と音楽</p></td>
+</tr>
+<tr class="odd">
+<td><p>契約キャスター</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中山絵理子</p></td>
+<td></td>
+<td><p>ほっとニュース北海道とかち</p></td>
+</tr>
+<tr class="odd">
+<td><p>菅野愛</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>日笠まり絵</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>松野莉奈</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

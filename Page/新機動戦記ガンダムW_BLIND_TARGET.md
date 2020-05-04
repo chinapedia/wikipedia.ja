@@ -23,9 +23,12 @@
   - [カトル・ラバーバ・ウィナー](../Page/カトル・ラバーバ・ウィナー.md "wikilink")（声：[折笠愛](../Page/折笠愛.md "wikilink")）
   - [張五飛](../Page/張五飛.md "wikilink")（声：[石野竜三](../Page/石野竜三.md "wikilink")）
   - [リリーナ・ドーリアン](../Page/リリーナ・ドーリアン.md "wikilink")（声：[矢島晶子](../Page/矢島晶子.md "wikilink")）
+  - [キャスリン・ブルーム](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#キャスリン・ブルーム "wikilink")（声：[杉本沙織](../Page/杉本沙織.md "wikilink")）
   - [ソグラン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ソグラン "wikilink")（声：[辻親八](../Page/辻親八.md "wikilink")）
   - [クリス・マーレイ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#クリス・マーレイ "wikilink")（声：[渡辺久美子](../Page/渡辺久美子.md "wikilink")）
   - [ラルフ・カート](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ラルフ・カート "wikilink")（声：[安井邦彦](../Page/安井邦彦.md "wikilink")）
+  - コロニー代表（声：[室園丈裕](../Page/室園丈裕.md "wikilink")）
+  - パイロット（声：[遊佐浩二](../Page/遊佐浩二.md "wikilink")）
 
 ## 主題歌
 

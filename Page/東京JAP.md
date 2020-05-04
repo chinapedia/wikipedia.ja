@@ -106,7 +106,7 @@
 
 ### ラジオ
 
-  - 摩天楼倶楽部 － 思い切り午前3時（1985年、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・土曜深夜）
+  - 摩天楼倶楽部 － 思い切り午前3時（1985年、[TBSラジオ](../Page/TBSラジオ.md "wikilink")・土曜深夜）
 
 ### CM
 

@@ -152,7 +152,7 @@
 
 [Category:札幌市のスキージャンプ大会](https://ja.wikipedia.org/wiki/Category:札幌市のスキージャンプ大会 "wikilink") [Category:北海道放送](https://ja.wikipedia.org/wiki/Category:北海道放送 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の年末年始特番](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の年末年始特番 "wikilink") [Category:TBSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:TBSのスポーツ番組 "wikilink") [Category:TBSの年末年始特番](https://ja.wikipedia.org/wiki/Category:TBSの年末年始特番 "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink") [Category:1月](https://ja.wikipedia.org/wiki/Category:1月 "wikilink")
 
-1.  別記のTBS系列局や[北海道文化放送](../Page/北海道文化放送.md "wikilink")〈UHB・フジテレビ系列〉、[KBS京都](../Page/京都放送.md "wikilink")・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")などでは生放送。一方、東京12チャンネルや関西圏の一部の独立放送局では当日のゴールデンタイムに録画放送。
+1.  別記のTBS系列局や[北海道文化放送](../Page/北海道文化放送.md "wikilink")〈UHB・フジテレビ系列〉、[KBS京都](../Page/京都放送.md "wikilink")・[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")などでは生放送。一方、東京12チャンネルや関西圏の一部の独立放送局では当日のゴールデンタイムに録画放送。
 2.  制作局のMBCのほか、[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）・[中国放送](../Page/中国放送.md "wikilink")（RCC）・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）などが該当。
 3.  出典：[読売新聞](../Page/読売新聞.md "wikilink")・岡山版1980年3月1日付19ページ・スポーツ面『きょうのプロ野球オープン戦』、ほか[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")・東京版各テレビ欄
 4.  [『HBCカップジャンプ』放送記念\!朝日新聞テレビ欄でタテ読み企画](http://dogatch.jp/news/tbs/42544) テレビドガッチ、2017年1月9日

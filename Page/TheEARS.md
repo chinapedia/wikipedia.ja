@@ -3,7 +3,7 @@
 
 『**TheEARS**』（ジアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[映画](../Page/映画.md "wikilink")作品。
 
-[監督](../Page/監督.md "wikilink")・[脚本](../Page/脚本.md "wikilink")は第5回[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")でグランプリを受賞した[中村拓武](../Page/中村拓武.md "wikilink")。原作はスピリチュアル・アーティスト[中島修一](https://ja.wikipedia.org/wiki/中島修一 "wikilink")による[小説](../Page/小説.md "wikilink")「[カベージ・ファクトリー](https://ja.wikipedia.org/wiki/カベージ・ファクトリー "wikilink")」。
+[監督](../Page/監督.md "wikilink")・[脚本](../Page/脚本.md "wikilink")は、第5回[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")でグランプリを受賞した[中村拓武](../Page/中村拓武.md "wikilink")。原作はスピリチュアル・アーティスト[中島修一](https://ja.wikipedia.org/wiki/中島修一 "wikilink")による[小説](../Page/小説.md "wikilink")「[カベージ・ファクトリー](https://ja.wikipedia.org/wiki/カベージ・ファクトリー "wikilink")」。
 
 主演は映画『[スウィングガールズ](../Page/スウィングガールズ.md "wikilink")』『[サヨナラCOLOR](../Page/サヨナラCOLOR_\(映画\).md "wikilink")』、TVドラマ『[野ブタ。をプロデュース](../Page/野ブタ。をプロデュース.md "wikilink")』などに出演した[水田芙美子](../Page/水田芙美子.md "wikilink")。[インディーズムービー・フェスティバル](../Page/インディーズムービー・フェスティバル.md "wikilink")を主宰する[インディーズムービー・プロジェクト](https://ja.wikipedia.org/wiki/インディーズムービー・プロジェクト "wikilink")(IMP)によるチャレンジムービーとして企画・制作され2007年完成・公開を迎える。
 

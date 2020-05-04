@@ -19,9 +19,7 @@
 
 『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』（[TBS系](../Page/TBSテレビ.md "wikilink")）に出演した際は、名義がDragon Ashであるためか、ボーカルの[降谷建志](../Page/降谷建志.md "wikilink")が歌う部分のみ流されていた。また、Dragon Ashは、他アーティストをフィーチャリングした曲は相手がいないとライブでは演奏しないので、Viva La Revolutionの横浜公演でZEEBRAをゲストに迎えて披露したきりである。
 
-2002年にZeebraの所属する[KGDR](../Page/KGDR.md "wikilink")の発表したアルバム「[最終兵器](https://ja.wikipedia.org/wiki/最終兵器_\(アルバム\) "wikilink")」の収録曲「**公開処刑**」の中でZeebraが降谷を名指しで批判し、対立を表面化させた。そのためDragon Ashは[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて過去に作成された[MVを公開しているが](../Page/ミュージック・ビデオ.md "wikilink")、本作のMVは公開されておらず、2007年と2012年にリリースされたベストアルバムにも収録されていない。ちなみにZeebraは、翌2000年の6月にソロで発売したアルバム『[BASED ON A TRUE STORY](https://ja.wikipedia.org/wiki/BASED_ON_A_TRUE_STORY "wikilink")』収録の「男の条件 featuring MACCHO, Q, BOY-KEN」で、「Grateful Days」における自身のパートの出だし部分「**俺は東京生まれHip Hop育ち**」を流用している。
-
-[女性](../Page/女性.md "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")の「[DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")」が自身の作品「もしも僕らがGAMEの主役で/ダイスキ with [TeddyLoid](https://ja.wikipedia.org/wiki/TeddyLoid "wikilink")/BANG\! 」の「もしも僕らがGAMEの主役で」のリリックの中で「**平成生まれINTERNET育ち死にたい奴は大体友達**」とこの曲のリリックを改変あるいは流用している。\[1\]
+2002年にZeebraの所属する[KGDR](../Page/KGDR.md "wikilink")の発表したアルバム「[最終兵器](https://ja.wikipedia.org/wiki/最終兵器_\(アルバム\) "wikilink")」の収録曲「**公開処刑**」の中でZeebraが降谷を名指しで批判し、対立を表面化させた。そのためDragon Ashは[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて過去に作成された[MVを公開しているが](../Page/ミュージック・ビデオ.md "wikilink")、本作のMVは公開されておらず、2007年と2012年にリリースされたベストアルバムにも収録されていないばかりか、2009年に始まったバンドのダウンロード配信や2020年のストリーミング配信からも外れている。ちなみにZeebraは、翌2000年の6月にソロで発売したアルバム『[BASED ON A TRUE STORY](https://ja.wikipedia.org/wiki/BASED_ON_A_TRUE_STORY "wikilink")』収録の「男の条件 featuring MACCHO, Q, BOY-KEN」で、「Grateful Days」における自身のパートの出だし部分「**俺は東京生まれHip Hop育ち**」を流用している。
 
 バックに流れる演奏のコード進行は[パッヘルベルのカノンをほぼ忠実にたどっており](../Page/カノン_\(パッヘルベル\).md "wikilink")、メロディー自体もパッヘルベルのカノンをアレンジしたような雰囲気である。
 
@@ -49,5 +47,3 @@
 ## 脚注
 
 [Category:Dragon_Ashの楽曲](https://ja.wikipedia.org/wiki/Category:Dragon_Ashの楽曲 "wikilink") [Category:降谷建志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:降谷建志が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
-
-1.  なお「もしも僕らがGAMEの主役で」での作詞はDAOKO本人である。

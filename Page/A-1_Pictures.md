@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>10月 - 2008年12月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かんなぎ_(漫画)" title="wikilink">かんなぎ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/かんなぎ_(漫画)" title="wikilink">かんなぎ</a>[4]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -282,7 +282,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/世界征服〜謀略のズヴィズダー〜" title="wikilink">世界征服〜謀略のズヴィズダー〜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/世界征服〜謀略のズヴィズダー〜" title="wikilink">世界征服〜謀略のズヴィズダー〜</a>[5]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -791,7 +791,7 @@ Android、iOS</p></td>
 
 ### 社員の過労自殺と「ブラック企業大賞」受賞
 
-2010年10月、同社で[制作進行](../Page/制作進行.md "wikilink")を務めていた当時28歳の男性が[自殺](../Page/自殺.md "wikilink")し、2014年4月11日付けで新宿[労働基準監督署](../Page/労働基準監督署.md "wikilink")が過労による[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")が原因として[労災認定した](../Page/労働災害.md "wikilink")（[過労自殺](https://ja.wikipedia.org/wiki/過労自殺 "wikilink")）。通院した医療施設の[診療録](../Page/診療録.md "wikilink")には「月600時間労働」との記載があったが、残業代が支払われた形跡は無いとされている\[4\]。この事件がきっかけとなり、その劣悪な労働環境が[メディアに](../Page/メディア_\(媒体\).md "wikilink")『[ブラック企業](../Page/ブラック企業.md "wikilink")』として取り上げられ、『[ブラック企業大賞 業界賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")2014』を受賞した。
+2010年10月、同社で[制作進行](../Page/制作進行.md "wikilink")を務めていた当時28歳の男性が[自殺](../Page/自殺.md "wikilink")し、2014年4月11日付けで新宿[労働基準監督署](../Page/労働基準監督署.md "wikilink")が過労による[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")が原因として[労災認定した](../Page/労働災害.md "wikilink")（[過労自殺](https://ja.wikipedia.org/wiki/過労自殺 "wikilink")）。通院した医療施設の[診療録](../Page/診療録.md "wikilink")には「月600時間労働」との記載があったが、残業代が支払われた形跡は無いとされている\[6\]。この事件がきっかけとなり、その劣悪な労働環境が[メディアに](../Page/メディア_\(媒体\).md "wikilink")『[ブラック企業](../Page/ブラック企業.md "wikilink")』として取り上げられ、『[ブラック企業大賞 業界賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")2014』を受賞した。
 
 過労自殺した28歳の男性は、在職中は『おおきく振りかぶって』『かんなぎ』などの制作進行を担当。残業時間は多い時で月344時間に上った。7日間連続で会社に泊まったり、3か月休みがなかったこともあった。
 
@@ -806,4 +806,6 @@ Android、iOS</p></td>
 1.
 2.
 3.
-4.  アニメ制作で過労自殺　カルテに「月600時間」　28歳男性、労災認定 スポニチアネックス 2014年4月18日 17:02 [1](http://www.sponichi.co.jp/society/news/2014/04/18/kiji/K20140418007998030.html)
+4.
+5.
+6.  アニメ制作で過労自殺　カルテに「月600時間」　28歳男性、労災認定 スポニチアネックス 2014年4月18日 17:02 [1](http://www.sponichi.co.jp/society/news/2014/04/18/kiji/K20140418007998030.html)

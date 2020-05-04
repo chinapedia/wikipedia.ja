@@ -84,4 +84,4 @@
   - [着うた配信サイト(PC)](http://pc.utamovie.jp/)
   - [kobaryuの歌唱欲解消ルーム - SHOWROOM](https://www.showroom-live.com/7e5cf636539)
 
-[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:ライブドア](https://ja.wikipedia.org/wiki/Category:ライブドア "wikilink") [Category:川崎市出身の人物](https://ja.wikipedia.org/wiki/Category:川崎市出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:ライブドアの人物](https://ja.wikipedia.org/wiki/Category:ライブドアの人物 "wikilink") [Category:川崎市出身の人物](https://ja.wikipedia.org/wiki/Category:川崎市出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

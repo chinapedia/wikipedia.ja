@@ -1,7 +1,7 @@
 > この記事は[GUILTY GEARシリーズ](https://ja.wikipedia.org/wiki/GUILTY_GEARシリーズ)から翻訳されています。
 
 
-**GUILTY GEARシリーズ**（ギルティギアシリーズ）は、[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から製作を行っている2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")シリーズ（後に3Dも展開した）である。略称は「**ギルティ**」「**GG**」など。格闘ゲームの中でも、早期にアニメのようなキャラクター重視の世界観を提唱したシリーズである。
+**GUILTY GEARシリーズ**（ギルティギアシリーズ）は、[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より展開している[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")のシリーズ。略称は「**ギルティ**」「**GG**」など。格闘ゲームの中でも、早期にアニメのようなキャラクター重視の世界観を提唱したシリーズである。
 
 第1作は自社で販売し、ゼクス以降は[サミー](../Page/サミー.md "wikilink")が販売元となっていたが、経営統合によりセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）に移管された。現在はアークシステムワークスの自社ブランドでの販売を行っている。
 
@@ -11,7 +11,7 @@
 
 ## 概要
 
-キャラクターを前面に出した[ファンタジー](../Page/ファンタジー.md "wikilink")系の世界観、派手なビジュアル、痛快な[コンボシステム](../Page/コンボ_\(ゲーム\).md "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")・[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")風のサウンドなど、往年の格闘ゲームには見られなかった要素を含むことで多くのファンを獲得し、日本国外にまで進出するヒットシリーズとなる。なお、物語は「[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")の理論化により発生した紛争から生み出された生命体『ギア』を巡る多くの人々の戦い」を一貫して描いている。
+キャラクターを前面に出した[ファンタジー](../Page/ファンタジー.md "wikilink")系の世界観、派手なビジュアル、痛快な[コンボシステム](../Page/コンボ_\(ゲーム\).md "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")・[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")風のサウンドなど、往年の格闘ゲームには見られなかった要素を含むことで多くのファンを獲得し、日本国外にまで進出するヒットシリーズとなる。物語については「[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")の理論化により発生した紛争から生み出された生命体『ギア』を巡る多くの人々の戦い」を一貫して描いている。
 
 開発のトップを務めるゼネラルディレクター・[石渡太輔](../Page/石渡太輔.md "wikilink")は、システム・シナリオ・デザイン・BGM・ボイスキャストと大部分に関与している。そのため、キャラクター名や技名は石渡の趣味である[ハードロック](../Page/ハードロック.md "wikilink")や[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")のバンド名やプレイヤー名に由来するものが多い。
 
@@ -23,7 +23,9 @@
 
 その一方、『ISUKA』や『DS』など『XX』のフレームを基にしながらも対戦型格闘ゲームの範疇に留まらない作品を製作し、2014年現在におけるシリーズ唯一の正統続編『[GUILTY GEAR 2 OVERTURE](../Page/GUILTY_GEAR_2_OVERTURE.md "wikilink")』では、対戦型格闘ゲームから脱却した3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")と[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")を融合させた「メーレーアクション」という新ジャンルを提唱するなど、シリーズの多様な方向性を示している。
 
-[2013年](../Page/2013年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")、パシフィコ横浜にて開催した「ARC SYSTEM WORKS FESTIVAL」にて、シリーズ完全新作であるアーケードタイトル『[GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")』が発表された。全てを一新し、ステージ背景やキャラクターが3Dとなっている。アーケード版は[2014年](../Page/2014年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に稼働。
+[2013年](../Page/2013年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")、パシフィコ横浜にて開催された「ARC SYSTEM WORKS FESTIVAL」にて、シリーズ完全新作であるアーケードタイトル『[GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")』が発表された。全てを一新し、ステージ背景やキャラクターが3Dとなっている。アーケード版は[2014年](../Page/2014年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に稼働。
+
+[2019年](../Page/2019年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")開催の「[EVO 2019](https://ja.wikipedia.org/wiki/Evolution_Championship_Series "wikilink")」にて「Xrdシリーズ」に続く完全新作タイトルを発表、後に正式タイトルが『[GUILTY GEAR -STRIVE-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_-STRIVE- "wikilink")』へと定められた。発売は[2020年](../Page/2020年.md "wikilink")を予定。
 
 ゲーム内の設定は初代が「[BASTARD\!\! -暗黒の破壊神-](../Page/BASTARD!!_-暗黒の破壊神-.md "wikilink")」の影響を受けつつ独自の要素が組まれ、その後「X」や「XX」等の外伝作品、ドラマCDや小説などの他媒体での展開。一気に時系列が進む続編となる「2」、Xrdでの脅威に対抗するための準備を描く「ヴァステッジ」で設定がさらに壮大になり、「Xrd」でこれらを整理・統合・一部取捨する形で続いている。一部取捨と記述しているのは、「XX」が石渡太輔が携わってないシリーズであるため、設定面でぶれが生じているためである。
 
@@ -53,6 +55,7 @@
   - [GUILTY GEAR Xrd -SIGN-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")（AC・PS3・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC）
       - [GUILTY GEAR Xrd -REVELATOR-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN-#GGXrdR "wikilink")（AC・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC)
       - [GUILTY GEAR Xrd REV 2](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_REV_2 "wikilink")（AC・[PS4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・PC)
+  - [GUILTY GEAR -STRIVE-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_-STRIVE- "wikilink")（PS4）
   - GUILTY GEAR PETIT ([WS](../Page/ワンダースワン.md "wikilink"))
   - ギルティギア プチ2（WS）
   - [GUILTY GEAR JUDGMENT](https://ja.wikipedia.org/wiki/GUILTY_GEAR_JUDGMENT "wikilink")（PSP）
@@ -60,33 +63,23 @@
 
 なお、複数機種に移植されている作品は、単なる移植ではなくモード追加などを行っている場合も多い。
 
-1.  コンパスにはコラボキャラとして参戦している。
+その他、[ドワンゴ](../Page/ドワンゴ.md "wikilink")のアプリゲーム『[＃コンパス](https://ja.wikipedia.org/wiki/＃コンパス "wikilink")』にてコラボキャラクターとして参戦している。
 
-## その他のシリーズ解説
+### PETITシリーズ・Dust Strikers
 
-本項では携帯機などで発売されている、GUILTY GEARの『PETIT』シリーズ、『Dust Strikers』について解説する。そのほかの作品については作品ごとの個別記事を参照されたい。
+本項では携帯型ゲーム機で展開された『PETIT』シリーズおよび『Dust Strikers』について解説する。そのほかの作品については作品ごとの個別記事を参照されたい。
 
-### GUILTY GEAR PETIT
-
-[2001年](../Page/2001年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")版発売。
-
-システムこそ従来のシリーズとは大差が無いものの、キャラクターの頭身がSDとなっている。また今までのキャラクターの他にプチのオリジナルキャラクターである[ファニーも登場する](../Page/ファニー_\(GUILTY_GEAR\).md "wikilink")。また翌年9月には続編に当たる『**GUILTY GEAR PETIT 2**』（ギルティギア プチ 2）も出た。
-
-キャラクターデザインは、『1』・『2』いずれも岩崎恵美子が担当している。
-
-### GUILTY GEAR PETIT 2
-
-[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")版発売。
-
-キャラクターデザインは、「GUILTY GEAR PETIT」と同じく岩崎恵美子が担当。キャラやモードの追加。
-
-### GUILTY GEAR DS（Dust Strikers）
-
-[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版発売。
-
-2画面を生かした縦に長いステージ、無線通信による4人対戦に対応している。ストーリーは『GGXX』より少し後の話で、「あの男」が製作した暴走ギア「GIG」を巡る内容になっている。
-
-格闘ゲームというよりは、『大乱闘スマッシュブラザーズ』や『ジャンプスーパースターズ』のような[対戦アクション](https://ja.wikipedia.org/wiki/対戦アクション "wikilink")といった作りになっている。
+  - GUILTY GEAR PETIT（ギルティギアプチ）
+    [2001年](../Page/2001年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")にて発売。
+    キャラクターの頭身がSDとなっている点を除いては従来のシリーズに概ね準拠した内容となっている。また今までのキャラクターの他に本作オリジナルキャラクターとして[ファニーが登場する](../Page/ファニー_\(GUILTY_GEAR\).md "wikilink")。
+    キャラクターデザインは岩崎恵美子が担当。
+  - ギルティギア プチ2
+    [2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")にて発売。
+    キャラクターやゲームモードを追加実装した『PETIT』の続編。キャラクターデザインは前作に続き岩崎恵美子が担当。
+  - GUILTY GEAR DS（Dust Strikers）
+    [2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")にて発売。
+    2画面を生かした縦に長いステージ、無線通信による4人対戦に対応している。ストーリーは『GGXX』より少し後の話で、「あの男」が製作した暴走ギア「GIG」を巡る内容になっている。
+    格闘ゲームというよりは、『大乱闘スマッシュブラザーズ』や『ジャンプスーパースターズ』のような[対戦アクション](https://ja.wikipedia.org/wiki/対戦アクション "wikilink")といった作りになっている。
 
 ## 登場キャラクター一覧
 

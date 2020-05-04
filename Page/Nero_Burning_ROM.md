@@ -84,6 +84,8 @@ Nero LinuxはNero Burning ROMの[Linux](../Page/Linux.md "wikilink")版。現在
   - Nero 12 Platinum
     Windows 8に対応、Blu-ray 3D Discの再生や編集機能、AVCHDリッピング機能、自動実行ディスク作成機能の追加。2TB超の大容量ハードディスクへの対応、USB 3.0への対応。
 
+## 脚注
+
 ## 関連項目
 
   - [Nero Digital](https://ja.wikipedia.org/wiki/Nero_Digital "wikilink")

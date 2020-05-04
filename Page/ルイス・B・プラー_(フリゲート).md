@@ -34,4 +34,4 @@
   -
   - [GlobalSecurity.org FFG-23](http://www.globalsecurity.org/military/agency/navy/ffg-23.htm)
 
-[Category:オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/Category:オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink") [Category:1982年竣工船](https://ja.wikipedia.org/wiki/Category:1982年竣工船 "wikilink")
+[Category:オリバー・ハザード・ペリー級ミサイルフリゲート](https://ja.wikipedia.org/wiki/Category:オリバー・ハザード・ペリー級ミサイルフリゲート "wikilink") [Category:エジプトのフリゲート](https://ja.wikipedia.org/wiki/Category:エジプトのフリゲート "wikilink") [Category:1982年竣工船](https://ja.wikipedia.org/wiki/Category:1982年竣工船 "wikilink")

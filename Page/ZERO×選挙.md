@@ -593,7 +593,7 @@
   - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
   - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")
   - [NNN選挙開票特別番組 ゲキセン\!](../Page/ゲキセン!.md "wikilink")
-  - [選挙ステーション](../Page/選挙ステーション.md "wikilink")（ネット局の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では制作協力=[裏送り](../Page/裏送り.md "wikilink")で参加）
+  - [選挙ステーション](../Page/選挙ステーション.md "wikilink")（ネット局の[福井放送](../Page/福井放送.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では制作協力=[裏送り](../Page/裏送り.md "wikilink")で参加）
   - [FNNスーパー選挙王](../Page/FNNスーパー選挙王.md "wikilink")（ネット局の[テレビ大分](../Page/テレビ大分.md "wikilink")とテレビ宮崎では制作協力=裏送り。但しUMKは21:15までネットで参加）
   - [FNNスーパー選挙2009 審判の日](https://ja.wikipedia.org/wiki/FNNスーパー選挙2009_審判の日 "wikilink")（ネット局のテレビ大分とテレビ宮崎では制作協力=裏送り。但しUMKは翌2:05からネットで参加）
   - [FNN踊る大選挙戦](../Page/FNN踊る大選挙戦.md "wikilink")2010（ネット局のテレビ大分とテレビ宮崎では制作協力=裏送り。）
@@ -694,7 +694,7 @@
 
 1.  2018年9月29日までの番組名は、読みが同じである大文字表記の「NEWS ZERO」
 2.  2009年までは『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』。
-3.  この2局はFNN、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")とテレビ宮崎は[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）向けの開票情報も担当している。
+3.  この2局はFNN、[福井放送](../Page/福井放送.md "wikilink")とテレビ宮崎は[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）向けの開票情報も担当している。
 4.  『ZERO×選挙2007』は[スガシカオ](../Page/スガシカオ.md "wikilink")の「春夏秋冬」、『ZERO×選挙2009・2010』は[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の「[道標](https://ja.wikipedia.org/wiki/化身_\(曲\) "wikilink")」、『ZERO×選挙2012・2013』は[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")「[ツヨク想う](https://ja.wikipedia.org/wiki/ツヨク想う "wikilink")」、『ZERO×選挙2014』は[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")「[AGAIN](https://ja.wikipedia.org/wiki/AGAIN_\(DREAMS_COME_TRUEの曲\) "wikilink")」、『ZERO×選挙2016』は[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")「[真夏の通り雨](https://ja.wikipedia.org/wiki/真夏の通り雨 "wikilink")、『ZERO×選挙2017』は[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")「[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")」、『ZERO×選挙2019』は[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")と[宮本浩次](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")（[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")）「[獣ゆく細道](https://ja.wikipedia.org/wiki/獣ゆく細道 "wikilink")」。
 5.  2011年8月23日付で芸能界引退。
 6.  日本テレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。

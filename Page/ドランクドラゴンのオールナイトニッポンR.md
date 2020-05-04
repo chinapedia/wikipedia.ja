@@ -47,7 +47,7 @@
   - 27:00 - 28:30
     ニッポン放送
   - 27:00 - 28:00
-    [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") ・ [山形放送](../Page/山形放送.md "wikilink") ・ [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") ・ [信越放送](../Page/信越放送.md "wikilink") ・ [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") ・ [中部日本放送](../Page/CBCラジオ.md "wikilink") ・ [和歌山放送](../Page/和歌山放送.md "wikilink") ・ [山口放送](../Page/山口放送.md "wikilink") ・ [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") ・ [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") ・ [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") ・ [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") ・ [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") ・ [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") ・ [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+    [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") ・ [山形放送](../Page/山形放送.md "wikilink") ・ [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") ・ [信越放送](../Page/信越放送.md "wikilink") ・ [福井放送](../Page/福井放送.md "wikilink") ・ [中部日本放送](../Page/CBCラジオ.md "wikilink") ・ [和歌山放送](../Page/和歌山放送.md "wikilink") ・ [山口放送](../Page/山口放送.md "wikilink") ・ [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") ・ [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") ・ [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") ・ [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") ・ [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") ・ [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") ・ [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
 
 ## 出来事
 

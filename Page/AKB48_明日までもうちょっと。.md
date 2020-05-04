@@ -2051,7 +2051,7 @@
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")（RSK）：日曜日21:30 - 22:00
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKC）：月曜日23:30 - 24:00 ※2007年10月 - 2008年3月までは、土曜日21:30 - 22:00に放送。
   - [和歌山放送](../Page/和歌山放送.md "wikilink")（WBS）：日曜日21:30 - 22:00
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）：土曜日22:30 - 23:00
+  - [大分放送](../Page/大分放送.md "wikilink")（OBS）：土曜日22:30 - 23:00
 
 ちなみに2011年のナイターオフシーズンは地方局には全てネットしていない。
 
@@ -2060,7 +2060,7 @@
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")（rfc）：土曜日22:30 - 23:00（2010年10月 - 2011年3月）
   - [ラジオ大阪](../Page/大阪放送.md "wikilink")（OBC）：月曜日23:30 - 24:00
   - [西日本放送](../Page/西日本放送.md "wikilink")（RNC）：日曜日21:30 - 22:00（2007年10月 - 2008年3月）
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）：土曜日22:30 - 23:00
+  - [大分放送](../Page/大分放送.md "wikilink")（OBS）：土曜日22:30 - 23:00
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB）：日曜日22:30 - 23:00（2010年10月 - 2011年3月）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）：日曜日23:00 - 23:30（2010年10月 - 2011年3月）
 

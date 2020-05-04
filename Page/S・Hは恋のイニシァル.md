@@ -12,7 +12,7 @@
 
 ## 解説
 
-メインライターは、後に[石立鉄男](../Page/石立鉄男.md "wikilink")とのコンビで数々のヒットを飛ばした[松木ひろし](https://ja.wikipedia.org/wiki/松木ひろし "wikilink")で、11回分を担当した。ドラマは、「主人公が[大坂志郎](../Page/大坂志郎.md "wikilink")らの家に下宿する」という松木ひろしの定番設定であり、のちの石立ドラマパターンの原型ともいえるものである。
+メインライターは、後に[石立鉄男](../Page/石立鉄男.md "wikilink")とのコンビで数々のヒットを飛ばした[松木ひろし](../Page/松木ひろし.md "wikilink")で、11回分を担当した。ドラマは、「主人公が[大坂志郎](../Page/大坂志郎.md "wikilink")らの家に下宿する」という松木ひろしの定番設定であり、のちの石立ドラマパターンの原型ともいえるものである。
 
 ドラマタイトルと同名の主題歌を、主演の[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")が歌っている。
 
@@ -52,7 +52,7 @@
 
   - 製作総指揮：[松下幸之助](../Page/松下幸之助.md "wikilink")
   - 製作：[松下正治](https://ja.wikipedia.org/wiki/松下正治 "wikilink")、[丹羽正治](https://ja.wikipedia.org/wiki/丹羽正治 "wikilink")
-  - 脚本：[松木ひろし](https://ja.wikipedia.org/wiki/松木ひろし "wikilink")（第1話～第4話、第6話、第8話～第14話）、[向田邦子](../Page/向田邦子.md "wikilink")（第5話、第7話）、馬島満
+  - 脚本：[松木ひろし](../Page/松木ひろし.md "wikilink")（第1話～第4話、第6話、第8話～第14話）、[向田邦子](../Page/向田邦子.md "wikilink")（第5話、第7話）、馬島満
   - プロデューサー：[工藤俊樹](https://ja.wikipedia.org/wiki/工藤俊樹 "wikilink")、[逸見稔](../Page/逸見稔.md "wikilink")
   - 演出：秦幸三郎（第1話、第8話、第9話）、[岩内克己](../Page/岩内克己.md "wikilink")（第1話～第3話）、平山晃生（第4話、第5話、第10話、第11話、第13話、第14話）、[坪島孝](../Page/坪島孝.md "wikilink")（第6話、第7話）、[鍛冶昇](https://ja.wikipedia.org/wiki/鍛冶昇 "wikilink")（第12話）
   - 音楽：[山本直純](../Page/山本直純.md "wikilink")

@@ -26,7 +26,7 @@ CD
       -
         作詞・作曲：YUI、編曲：SHIGEZO
     <!-- end list -->
-      - [パンク・ロック](../Page/パンク・ロック.md "wikilink")の要素を取り入れたナンバー。カップリングでありながらミュージック・ビデオが存在しており、「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")3時間スペシャル」に初出演した際にはこちらを披露した。
+      - [パンク・ロック](../Page/パンク・ロック.md "wikilink")の要素を取り入れたナンバー。カップリングでありながらミュージック・ビデオが存在しており、「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")3時間スペシャル」に初出演した際にはこちらを披露した。
       - 表題曲と同じく、間奏のギターソロは本人が担当している。
 3.  **My Generation 〜YUI Acoustic Version〜**
       -

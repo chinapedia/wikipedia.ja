@@ -924,7 +924,7 @@
 
 ## 現所属メンバー
 
-  - [2016年](../Page/2016年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")現在
 
 ## 歴代監督
 

@@ -114,6 +114,6 @@
 
 ## 外部リンク
 
-  - [IEインスティテュート](https://www.iek.co.jp/)
+  - [IEインスティテュート](https://www.iek.co.jp/)　（２０２０年４月現在、このHPに記載されている住所がなぜか練馬区ではなく、全く無関係の住所になっている）
 
 [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:練馬区の企業](https://ja.wikipedia.org/wiki/Category:練馬区の企業 "wikilink")

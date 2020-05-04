@@ -43,7 +43,7 @@
   - [STAR BOX (ブラザーズ・フォアのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ブラザーズ・フォアのアルバム\) "wikilink") / [ブラザース・フォア](https://ja.wikipedia.org/wiki/ブラザース・フォア "wikilink")
   - [STAR BOX (ボズ・スキャッグスのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ボズ・スキャッグスのアルバム\) "wikilink") / [ボズ・スキャッグス](../Page/ボズ・スキャッグス.md "wikilink")
   - [STAR BOX (ボビー・ヴィントンのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ボビー・ヴィントンのアルバム\) "wikilink") / [ボビー・ヴィントン](../Page/ボビー・ヴィントン.md "wikilink")
-  - [STAR BOX (ボブ・ジェイムスのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ボブ・ジェイムスのアルバム\) "wikilink") / [ボブ・ジェイムス](https://ja.wikipedia.org/wiki/ボブ・ジェイムス "wikilink")
+  - [STAR BOX (ボブ・ジェームスのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ボブ・ジェームスのアルバム\) "wikilink") / [ボブ・ジェームス](../Page/ボブ・ジェームス.md "wikilink")
   - [STAR BOX (マイルス・デイヴィスのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(マイルス・デイヴィスのアルバム\) "wikilink") / [マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")
   - [STAR BOX (マンハッタンズのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(マンハッタンズのアルバム\) "wikilink") / [マンハッタンズ](https://ja.wikipedia.org/wiki/マンハッタンズ "wikilink")
   - [STAR BOX (ミッチ・ミラーのアルバム)](https://ja.wikipedia.org/wiki/STAR_BOX_\(ミッチ・ミラーのアルバム\) "wikilink") / [ミッチ・ミラー](https://ja.wikipedia.org/wiki/ミッチ・ミラー "wikilink")

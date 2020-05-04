@@ -1,11 +1,11 @@
 > この記事は[Replay \(曲\)](https://ja.wikipedia.org/wiki/Replay_\(曲\))から翻訳されています。
 
 
-「**Replay**」（リプレイ）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")である。[1993年](../Page/1993年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+「**Replay**」（リプレイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")である。[1993年](../Page/1993年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
-前作「[抱きしめたい](../Page/抱きしめたい_\(Mr.Childrenの曲\).md "wikilink")」から約8ヵ月ぶりのシングル。前作と同様に横向きのデザインのジャケットとなっている。アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
+前作「[抱きしめたい](../Page/抱きしめたい_\(Mr.Childrenの曲\).md "wikilink")」から約8ヵ月ぶりのシングル。前作と同様に横向きのデザインのジャケットとなっている。[アートディレクター](../Page/アートディレクター.md "wikilink")は[信藤三雄](../Page/信藤三雄.md "wikilink")。
 
 [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「[ポッキー](../Page/ポッキー.md "wikilink")」の[CMソングに起用され](../Page/コマーシャルソング.md "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の曲が初めて大々的にテレビで流れた。その効果もあってオリコン週間シングルチャートで最高順位19位を記録し、Mr.Childrenのシングルでは初のTOP20入りを果たした。
 

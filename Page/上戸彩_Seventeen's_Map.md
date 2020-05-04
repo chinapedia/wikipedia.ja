@@ -43,7 +43,7 @@
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") - 2003年10月～2004年3月（6ヶ月）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") - 2003年4月～2005年3月（2年）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") - 2004年4月～2006年3月（2年）
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") - 2005年4月～2007年3月（2年）
+  - [大分放送](../Page/大分放送.md "wikilink") - 2005年4月～2007年3月（2年）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") - 2002年10月～2003年3月、2006年10月～2007年3月（計1年）
   - [琉球放送](../Page/琉球放送.md "wikilink") - 2003年3月～2007年3月（4年）
 

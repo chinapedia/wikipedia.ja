@@ -144,7 +144,7 @@
 
 ### 出典
 
-[Category:たがみよしひさ](https://ja.wikipedia.org/wiki/Category:たがみよしひさ "wikilink") [Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:月刊コミックNORA](https://ja.wikipedia.org/wiki/Category:月刊コミックNORA "wikilink") [Category:探偵を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:探偵を主人公とした漫画作品 "wikilink") [Category:東京都を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした作品 "wikilink")
+[Category:たがみよしひさ](https://ja.wikipedia.org/wiki/Category:たがみよしひさ "wikilink") [Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:月刊コミックNORA](https://ja.wikipedia.org/wiki/Category:月刊コミックNORA "wikilink") [Category:探偵を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:探偵を主人公とした漫画作品 "wikilink") [Category:東京都を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした漫画作品 "wikilink")
 
 1.  単行本の表紙・背表紙・目次には、英字表記とともに「**なあばすぶれいくだうん**」の文字が併記されており、本項での日本語の読み・記載についてはこれを踏襲する。
 2.  単行本（ノーラコミックス版）第1巻P6において、nervous breakdown は「[ノイローゼ](https://ja.wikipedia.org/wiki/ノイローゼ "wikilink")の発作、[神経衰弱で倒れること](../Page/神経衰弱_\(精神疾患\).md "wikilink")」と説明されている。

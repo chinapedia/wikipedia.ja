@@ -28,7 +28,7 @@
 
 ### NHN PlayArt
 
-  - LINE GAME
+  - [LINE GAME](https://ja.wikipedia.org/wiki/LINE_GAME "wikilink")
     LINE上で展開する[携帯電話](../Page/携帯電話.md "wikilink")仕様のゲームである。
 
       - [LINE:ディズニー ツムツム](https://ja.wikipedia.org/wiki/LINE:ディズニー_ツムツム "wikilink")

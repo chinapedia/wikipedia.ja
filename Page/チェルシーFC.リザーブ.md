@@ -7,18 +7,18 @@
 
 主に23歳以下のメンバーで構成されているが、トップチームの選手もコンディション調整や怪我の回復途上にある段階で出場することもある。
 
-以前は、[チェスターフィールドにある](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")[レクリエーション・グラウンドや](../Page/レクリエーション・グラウンド_\(オールダーショット\).md "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")にある[グリフィン・パーク](../Page/グリフィン・パーク.md "wikilink")をホームとして使っていたが、現在は、クラブの練習場でもあるをホームとして使用している。
+以前は、[チェスターフィールドにある](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")[レクリエーション・グラウンドや](../Page/レクリエーション・グラウンド_\(オールダーショット\).md "wikilink")、[ブレントフォード](https://ja.wikipedia.org/wiki/ブレントフォード "wikilink")にある[グリフィン・パーク](../Page/グリフィン・パーク.md "wikilink")をホームとして使っていたが、現在は、クラブの練習場でもある[コーバム・トレーニング・センター](https://ja.wikipedia.org/wiki/コーバム・トレーニング・センター "wikilink")をホームとして使用している。
 
 ## 略歴
 
-  - 2012-13年より新設された『[U-21プレミアリーグ](https://ja.wikipedia.org/wiki/U-21プレミアリーグ "wikilink")』に参戦。
-  - 2014-15年ではU-19世代で行われる『[UEFAユースリーグ](https://ja.wikipedia.org/wiki/UEFAユースリーグ "wikilink")』を2連覇した。\[1\]
-  - 2016-17年よりU-21プレミアリーグが『[プレミアリーグ2](https://ja.wikipedia.org/wiki/プレミアリーグ2 "wikilink")』に変更され、23歳以下まで出場が可能となった。
+  - 2012-13シーズンより新設された『[U-21プレミアリーグ](https://ja.wikipedia.org/wiki/U-21プレミアリーグ "wikilink")』に参戦。
+  - 2014-15シーズンではU-19世代で行われる『[UEFAユースリーグ](https://ja.wikipedia.org/wiki/UEFAユースリーグ "wikilink")』を2連覇した。\[1\]
+  - 2016-17シーズンよりU-21プレミアリーグが『[プレミアリーグ2](https://ja.wikipedia.org/wiki/プレミアリーグ2 "wikilink")』に変更され、23歳以下まで出場が可能となった。
 
 ## タイトル
 
   - [U-21プレミアリーグ](https://ja.wikipedia.org/wiki/U-21プレミアリーグ "wikilink")：2013-14
-  - [UEFAユースリーグ](https://ja.wikipedia.org/wiki/UEFAユースリーグ "wikilink")：2013-14、2014-15
+  - [UEFAユースリーグ](https://ja.wikipedia.org/wiki/UEFAユースリーグ "wikilink")：2013-14, 2014-15
 
 ## 現在のメンバー
 
@@ -57,6 +57,8 @@
 ## 脚注
 
 ## 外部リンク
+
+  - [Why Chelsea could finally be reaping the rewards of their outstanding academy](https://thesefootballtimes.co/2017/12/19/why-chelsea-could-finally-be-reaping-the-rewards-of-their-outstanding-academy/) – *These Football Times* (2017)
 
 [Category:チェルシーFC](https://ja.wikipedia.org/wiki/Category:チェルシーFC "wikilink") [Category:サッカークラブのリザーブチーム](https://ja.wikipedia.org/wiki/Category:サッカークラブのリザーブチーム "wikilink")
 

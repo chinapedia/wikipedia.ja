@@ -98,8 +98,8 @@
 ## 外部リンク
 
   - [リサハリム オフィシャルサイト](http://www.lisahalim.net/)
+  - [オフィシャルブログ『そんなにいそいでどこ行くの♪』](https://ameblo.jp/lisa-halim)
   - [Instagram](https://www.instagram.com/lisahalim/)
   - [Facebook](https://www.facebook.com/LH0215)
-  - [オフィシャルブログ『そんなにいそいでどこ行くの♪』](https://ameblo.jp/lisa-halim)
 
 [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:インドネシア系日本人](https://ja.wikipedia.org/wiki/Category:インドネシア系日本人 "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:1985年生](https://ja.wikipedia.org/wiki/Category:1985年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

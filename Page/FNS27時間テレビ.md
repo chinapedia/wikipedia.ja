@@ -21,7 +21,7 @@ __TOC__
 
 フジテレビが[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[河田町](../Page/河田町.md "wikilink")から[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](../Page/台場.md "wikilink")に移転してから初めての『[FNS27時間テレビ](../Page/FNSの日.md "wikilink")』。また4月1日に開局した[さくらんぼテレビと](../Page/さくらんぼテレビジョン.md "wikilink")[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")もこの回から参加している。山形県では[1992年](../Page/1992年.md "wikilink")以来5年ぶりの放送で、高知県での放送は初めて。この年から[ステレオ](../Page/ステレオ.md "wikilink")放送になった。
 
-「[テレビ夢列島](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")」や「[平成教育テレビ](../Page/平成教育テレビ.md "wikilink")」などの[ビートたけし](../Page/ビートたけし.md "wikilink")を中心とした内容から一新し、総合司会に[ダウンタウンを起用した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。ダウンタウンが司会を務める『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』を主体としたコーナーを含め、歌手・アーティストが出演し例年より[音楽](../Page/音楽.md "wikilink")要素の多い番組となった。
+「[テレビ夢列島](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")」や「[平成教育テレビ](../Page/平成教育テレビ.md "wikilink")」などの[ビートたけし](../Page/ビートたけし.md "wikilink")を中心とした内容から一新し、総合司会に[ダウンタウンを起用した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。ダウンタウンが司会を務める『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』を主体としたコーナーを含め、歌手・アーティストが出演し例年より[音楽](../Page/音楽.md "wikilink")要素の多い番組となった。
 
 放送当日に[台風9号が直撃したため](https://ja.wikipedia.org/wiki/平成9年台風第9号 "wikilink")、全国各地から船で27時間内に食材を運ぶメイン企画を始めとして番組の企画内容が大幅な変更を余儀なくされた。
 

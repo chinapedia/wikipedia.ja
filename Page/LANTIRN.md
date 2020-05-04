@@ -26,7 +26,7 @@
 
 ## AN/AAQ-14
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:AAQ-14_targeting_pod.jpg "wikilink") **AN/AAQ-14**は、LANTIRN システムので、前方監視用の赤外線センサ（FLIR）とマーキング用の[レーザー発信機で構成されている](https://ja.wikipedia.org/wiki/レーザー目標指示装置 "wikilink")。同様の機材は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")当時にはや[AN/ASQ-153 ペイブ・スパイク](https://ja.wikipedia.org/wiki/AN/ASQ-153 "wikilink")、[AN/AVQ-26 ペイブ・タックなどが存在したが](https://ja.wikipedia.org/wiki/AN/AVQ-26 "wikilink")、大型であったり、2機以上の編隊で無ければ運用できない、機体搭載位置の関係で、左方向への大きな旋回を行わなければ命中まで[レーザー](../Page/レーザー.md "wikilink")の照射ができないなどと言った運用上の問題が存在していたが、本機では、システムの小型化や誘導用レーザーの照射範囲の拡大によって、これらの問題を解決している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:AAQ-14_targeting_pod.jpg "wikilink") **AN/AAQ-14**は、LANTIRN システムの[照準ポッド](../Page/照準ポッド.md "wikilink")で、前方監視用の赤外線センサ（FLIR）とマーキング用の[レーザー発信機で構成されている](https://ja.wikipedia.org/wiki/レーザー目標指示装置 "wikilink")。同様の機材は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")当時にはや[AN/ASQ-153 ペイブ・スパイク](https://ja.wikipedia.org/wiki/AN/ASQ-153 "wikilink")、[AN/AVQ-26 ペイブ・タックなどが存在したが](https://ja.wikipedia.org/wiki/AN/AVQ-26 "wikilink")、大型であったり、2機以上の編隊で無ければ運用できない、機体搭載位置の関係で、左方向への大きな旋回を行わなければ命中まで[レーザー](../Page/レーザー.md "wikilink")の照射ができないなどと言った運用上の問題が存在していたが、本機では、システムの小型化や誘導用レーザーの照射範囲の拡大によって、これらの問題を解決している。
 
 **AN/AAQ-19**は輸出型で、「シャープシューター」の愛称で呼ばれており[AGM-65 マーベリックの運用能力といくつかの空対空機能が削除されている](../Page/AGM-65_マーベリック.md "wikilink")。
 

@@ -42,6 +42,6 @@
 
   - [番組エピソード　歌謡番組-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=music005)
 
-[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK総合テレビジョンの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの番組の歴史 "wikilink") [Category:1980年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のテレビ番組_\(日本\) "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink")
+[Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink") [Category:1980年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のテレビ番組_\(日本\) "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink")
 
 1.  [地域発「Fリク（FMリクエストアワー）」物語 ～あのころ、あの人、あの熱気～](http://www.nhk.or.jp/fm/read/20090219.html) - Listen NHK-FM・2009年2月19日

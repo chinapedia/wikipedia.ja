@@ -6208,7 +6208,8 @@ The Others</p></td>
 <a href="https://ja.wikipedia.org/wiki/エトワール_(薬師丸ひろ子のアルバム)" title="wikilink">アナタノコトバ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第523回 （2020.<a href="../Page/2月1日.md" title="wikilink">2.1</a>)</p></td>
+<td><p>第523回 （2020.<a href="../Page/2月1日.md" title="wikilink">2.1</a>)（再放送 : 2020.<a href="../Page/4月25日.md" title="wikilink">4.25</a>)<br />
+<strong>鬼束ちひろ ✕ 刻まれた20年分の思いを、いま</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />

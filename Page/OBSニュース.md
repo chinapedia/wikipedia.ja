@@ -1,7 +1,7 @@
 > この記事は[OBSニュース](https://ja.wikipedia.org/wiki/OBSニュース)から翻訳されています。
 
 
-『**OBSニュース**』（オービーエスニュース）は、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")で放送されている[大分合同新聞](../Page/大分合同新聞.md "wikilink")協力の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まではOBSラジオのみで放送されていたが、[OBSニュースライン](../Page/OBSニュースライン.md "wikilink")終了に伴い翌30日よりOBSテレビでもスポットニュースに限り、同タイトルでの放送が再開された。
+『**OBSニュース**』（オービーエスニュース）は、[大分放送](../Page/大分放送.md "wikilink")で放送されている[大分合同新聞](../Page/大分合同新聞.md "wikilink")協力の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まではOBSラジオのみで放送されていたが、[OBSニュースライン](../Page/OBSニュースライン.md "wikilink")終了に伴い翌30日よりOBSテレビでもスポットニュースに限り、同タイトルでの放送が再開された。
 
 ## テレビ
 
@@ -15,7 +15,7 @@
   - 10:15頃（[おはようナイスキャッチ](../Page/おはようナイスキャッチ.md "wikilink")に内包）
   - 11:50 - 11:53.25（[ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")に内包）
   - 15:46 - 15:50
-  - 22:54 - 22:00（金のみ）
+  - 22:54 - 23:00（金のみ）
   - 23:50 - 23:52（[news23に内包](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")）（金を除く）
 
 #### 土曜

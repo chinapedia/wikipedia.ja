@@ -80,6 +80,4 @@
 
 ## 脚注
 
-2005年のコンサート
-
-[Category:](https://ja.wikipedia.org/wiki/Category: "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:Bank_Band_with_Great_Artistsの映像作品](https://ja.wikipedia.org/wiki/Category:Bank_Band_with_Great_Artistsの映像作品 "wikilink") [Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink")
+[Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:Bank_Band_with_Great_Artistsの映像作品](https://ja.wikipedia.org/wiki/Category:Bank_Band_with_Great_Artistsの映像作品 "wikilink") [Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink")

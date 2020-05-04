@@ -1,7 +1,7 @@
 > この記事は[BLUE TEARS](https://ja.wikipedia.org/wiki/BLUE_TEARS)から翻訳されています。
 
 
-「**BLUE TEARS**」（ブルー・ティアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")2枚目のシングル。
+「**BLUE TEARS**」（ブルー・ティアーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[JUDY AND MARYの](../Page/JUDY_AND_MARY.md "wikilink")2枚目のシングル。曲名は[青い涙](https://ja.wikipedia.org/wiki/青い涙 "wikilink")を意味する英語。
 
 ## 解説
 

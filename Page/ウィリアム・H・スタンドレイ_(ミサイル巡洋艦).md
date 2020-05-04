@@ -56,4 +56,4 @@
 
   - [DANFS - William H. Standley](http://www.history.navy.mil/danfs/w8/william_h_standley.htm)
 
-[Category:ベルナップ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/Category:ベルナップ級ミサイル巡洋艦 "wikilink") [Category:1966年竣工船](https://ja.wikipedia.org/wiki/Category:1966年竣工船 "wikilink")
+[Category:ベルナップ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/Category:ベルナップ級ミサイル巡洋艦 "wikilink") [Category:標的として沈没した船](https://ja.wikipedia.org/wiki/Category:標的として沈没した船 "wikilink") [Category:1966年竣工船](https://ja.wikipedia.org/wiki/Category:1966年竣工船 "wikilink")

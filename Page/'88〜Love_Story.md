@@ -38,6 +38,8 @@
   - [Wanna Go Home](../Page/Wanna_Go_Home.md "wikilink")（アルバムバージョン）
   - [Thousand Wave Plus](../Page/Thousand_Wave.md "wikilink")
 
+## 脚注
+
 ## 関連項目
 
   - [1991年の音楽](../Page/1991年の音楽.md "wikilink")

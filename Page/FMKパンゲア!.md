@@ -17,7 +17,7 @@
 
 2019年4月現在。
 
-  - 月曜日 - [MEG](../Page/MEG_\(ディスクジョッキー\).md "wikilink")＆[英太郎](../Page/英太郎.md "wikilink")ほか
+  - 月曜日 - [MEG](../Page/MEG_\(ディスクジョッキー\).md "wikilink")＆[英太郎](../Page/英太郎.md "wikilink")\[1\]ほか
   - 火曜日 - [中華首藤](../Page/中華首藤.md "wikilink")＆[マッキー](https://ja.wikipedia.org/wiki/マッキー_\(熊本ローカルタレント\) "wikilink")
   - 水曜日 - [黒木よしひろ](../Page/黒木よしひろ.md "wikilink")＆[松田結花](https://ja.wikipedia.org/wiki/松田結花 "wikilink")
   - 木曜日 - [永松ケンシ](../Page/永松ケンシ.md "wikilink")＆[寺野茜](https://ja.wikipedia.org/wiki/寺野茜 "wikilink")
@@ -58,7 +58,7 @@
 
   - 13:00 - [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")（JFN[ネット番組](../Page/ネット番組.md "wikilink")）
   - 13:30 - 日替わり企画
-      - 月曜 - 時事ダイアリー
+      - 月曜 - 時事ダイアリー\[2\]
       - 火曜 - 中華、お騒がせします
       - 水曜 - クロぺディア
       - 木曜 - やったぜ\!今日は木曜日
@@ -93,7 +93,7 @@
 
   - 13:00 - デイリーフライヤー（JFNネット番組）
   - 13:30 - 日替わり企画
-      - 月曜 - 時事ダイヤリー
+      - 月曜 - 時事ダイヤリー\[3\]
       - 火曜 - くまポト企画株式会社
       - 水曜 - ド・Kの館
       - 木曜 - [JICAクロスロード](../Page/国際協力機構.md "wikilink")
@@ -111,8 +111,14 @@
 
   - [パンゲア大陸](../Page/パンゲア大陸.md "wikilink")（番組タイトルの由来）
 
+## 脚注・出典
+
 ## 外部リンク
 
   - [番組公式サイト](http://fmk.fm/pnga/)
 
 [Category:エフエム熊本の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム熊本の帯番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
+
+1.  2013年頃から、[英太郎](../Page/英太郎.md "wikilink")は[テレビの](../Page/テレビ熊本.md "wikilink")[レギュラー番組の都合上](https://ja.wikipedia.org/wiki/英太郎のかたらんね "wikilink")12時台からの出演
+2.  当コーナーでは、熊次郎とMEGがMCをしているが、英太郎は出演しない。[2009年](../Page/2009年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")の放送では英太郎が熊次郎の発言に納得できずに乱入したが、あっても年に数回である。その為、熊次郎が英太郎と同一人物ではという疑いもあるが、両者ともその疑惑は否定している。
+3.

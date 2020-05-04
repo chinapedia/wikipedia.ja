@@ -124,8 +124,7 @@ AOI Pro.では企画および制作に携わる部門をそれぞれ○○部と
 
 ## 外部リンク
 
-  - [AOI Pro. Inc.](http://www.aoi-pro.com/)
-
+  -
 [Category:AOI_TYO_Holdings](https://ja.wikipedia.org/wiki/Category:AOI_TYO_Holdings "wikilink") [Category:広告制作プロダクション](https://ja.wikipedia.org/wiki/Category:広告制作プロダクション "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:日本の音楽・映像ソフト会社](https://ja.wikipedia.org/wiki/Category:日本の音楽・映像ソフト会社 "wikilink") [Category:1963年設立の企業](https://ja.wikipedia.org/wiki/Category:1963年設立の企業 "wikilink")
 
 1.  [商号の変更に関するお知らせ](https://assets.minkabu.jp/news/article_media_content/urn:newsml:tdnet.info:20120330003784/140120120330003784.pdf) - 2012年4月2日、2018年6月29日閲覧

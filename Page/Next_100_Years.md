@@ -16,10 +16,13 @@
 ## 収録曲
 
 1.  **Next 100 Years**
-      - 作詞・作曲：ジョン・ボン・ジョヴィ,リッチー・サンボラ（日本語詞：稲葉浩志）　編曲：[重実徹](../Page/重実徹.md "wikilink")
+      -
+        作詞・作曲：ジョン・ボン・ジョヴィ,リッチー・サンボラ（日本語詞：稲葉浩志）　編曲：[重実徹](../Page/重実徹.md "wikilink")
+    <!-- end list -->
       - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『走れ\!21世紀へワールドカウントダウン』キャンペーンソング
 2.  **届くといいね just wishing**
-      - 作詞：[伊達歩](../Page/伊集院静.md "wikilink")　作曲：[加藤和彦](../Page/加藤和彦.md "wikilink")　編曲：[有賀啓雄](../Page/有賀啓雄.md "wikilink")
+      -
+        作詞：[伊達歩](../Page/伊集院静.md "wikilink")　作曲：[加藤和彦](../Page/加藤和彦.md "wikilink")　編曲：[有賀啓雄](../Page/有賀啓雄.md "wikilink")
 3.  Next 100 Years（[オリジナル・カラオケ](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 4.  届くといいね just wishing（オリジナル・カラオケ）
 

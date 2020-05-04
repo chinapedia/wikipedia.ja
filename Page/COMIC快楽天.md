@@ -3,7 +3,7 @@
 
 『**COMIC快楽天**』（コミックかいらくてん）は、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")発行の[成人向け漫画雑誌](../Page/成人向け漫画雑誌の一覧.md "wikilink")。
 
-[1994年](../Page/1994年.md "wikilink")に『[漫画エロトピア](../Page/漫画エロトピア.md "wikilink")』9月8日増刊号としてスタートし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月号から独立創刊\[1\]。2014年10月号で創刊20周年を迎え、定期刊行中の成年漫画雑誌として1986年創刊の『[ペンギンクラブ](https://ja.wikipedia.org/wiki/ペンギンクラブ "wikilink")』に次ぐ歴史を持つ。
+[1994年](../Page/1994年.md "wikilink")に『[漫画エロトピア](../Page/漫画エロトピア.md "wikilink")』9月8日増刊号としてスタートし、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")9月号から独立創刊\[1\]。2014年10月号で創刊20周年を迎え、定期刊行中の成年漫画雑誌としては1986年創刊の『[ペンギンクラブ](https://ja.wikipedia.org/wiki/ペンギンクラブ "wikilink")』と1992年創刊の『[コミックMate](https://ja.wikipedia.org/wiki/コミックMate "wikilink")』に次ぐ歴史を持つ。
 
 ## 概要
 

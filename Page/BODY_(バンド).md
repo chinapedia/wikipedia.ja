@@ -45,6 +45,10 @@
   -
     D'ERLANGER（TETSU）→[ZI:KILL](../Page/ZI:KILL.md "wikilink")（TETSU）→BODY→CRAZE→D'ERLANGER（Tetsu）
 
+### 過去に所属したボーカリスト
+
+  - 中込広和 - 1993年5月3日 [ZI:KILL](../Page/ZI:KILL.md "wikilink")、[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")らとの[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")での[ロッキンfイベントライブ](https://ja.wikipedia.org/wiki/We_ROCK/ロッキンf "wikilink")「サブリナミル・ビジョン」のみ。
+
 ## ディスコグラフィ
 
 ### シングル

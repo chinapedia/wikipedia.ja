@@ -1049,8 +1049,7 @@ AKIRASTAR</p></td>
   - [UP-FRONT PROMOTION タレント一覧](http://www.up-front-promotion.co.jp/artist/)
 
   -
-  - [Buono\!ポニーキャニオン公式サイトアーティストページ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30631700)
-
+  -
   -
 [Category:Buono\!](https://ja.wikipedia.org/wiki/Category:Buono! "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:しゅごキャラ\!](https://ja.wikipedia.org/wiki/Category:しゅごキャラ! "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink") [Category:2017年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 

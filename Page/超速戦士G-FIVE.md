@@ -147,7 +147,6 @@
 
 ## 外部リンク
 
-  - [超速戦士G-FIVE](http://homepage3.nifty.com/SP/)
-
+  -
   -
 [Category:群馬県](https://ja.wikipedia.org/wiki/Category:群馬県 "wikilink") [Category:ローカルヒーロー](https://ja.wikipedia.org/wiki/Category:ローカルヒーロー "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:群馬テレビ番組](https://ja.wikipedia.org/wiki/Category:群馬テレビ番組 "wikilink") [Category:ローカルテレビ局のテレビドラマ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のテレビドラマ "wikilink")

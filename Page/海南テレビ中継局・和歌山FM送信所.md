@@ -61,7 +61,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>WTV<br />
-<a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>20ch</p></td>
 <td><p>和歌山県</p></td>
 <td></td>
@@ -148,7 +148,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>WTV<a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p>WTV<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>56ch</p></td>
 <td><p>和歌山県</p></td>
 <td></td>

@@ -469,7 +469,7 @@
 
   - UTY[テレビ山梨](../Page/テレビ山梨.md "wikilink")（TBS系列）：2007年[10月22日](../Page/10月22日.md "wikilink")から帯ドラマ枠でスタート。
   - BBT[富山テレビ](../Page/富山テレビ放送.md "wikilink")（フジテレビ系列）：2008年[6月27日](../Page/6月27日.md "wikilink")から毎週金曜日深夜25:40 - 26:35でスタート。
-  - FBC[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（[日本テレビ](../Page/日本テレビネットワーク協議会.md "wikilink")/[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")から帯ドラマ枠でスタート。
+  - FBC[福井放送](../Page/福井放送.md "wikilink")（[日本テレビ](../Page/日本テレビネットワーク協議会.md "wikilink")/[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")から帯ドラマ枠でスタート。
   - BSS[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（TBS系列）：2007年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")から毎週木曜日深夜1:00 - 1:54でスタート（最終週は休止）。
   - RKC[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（日本テレビ系列）：2008年2月22日から毎週金曜日16:00 - 16:54でスタート。
   - MRT[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（TBS系列）：2007年[11月6日](../Page/11月6日.md "wikilink")から帯ドラマ枠でスタート。

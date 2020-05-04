@@ -7,7 +7,7 @@
 
   - メジャーデビュー5周年記念3週連続リリース第2弾シングル。
   - タイトルは本当のロマンスでないという意味であり、最後の「E」が反転してこのようなタイトルになった。
-  - この曲で『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に出演した際、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[松本人志](../Page/松本人志.md "wikilink")から「売れたのは今作だけ」と皮肉られた。しかし次のシングル「[BLACK JACK](https://ja.wikipedia.org/wiki/BLACK_JACK_\(Janne_Da_Arcの曲\) "wikilink")」は順位が落ちたものの、その次のシングル「[Love is Here](../Page/Love_is_Here.md "wikilink")」以降の作品は全てTOP3入りさせている。また、現時点では「HEY\!HEY\!HEY\!」に出演したのはこれが最後となっている。
+  - この曲で『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演した際、[ダウンタウンの](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[松本人志](../Page/松本人志.md "wikilink")から「売れたのは今作だけ」と皮肉られた。しかし次のシングル「[BLACK JACK](https://ja.wikipedia.org/wiki/BLACK_JACK_\(Janne_Da_Arcの曲\) "wikilink")」は順位が落ちたものの、その次のシングル「[Love is Here](../Page/Love_is_Here.md "wikilink")」以降の作品は全てTOP3入りさせている。また、現時点では「HEY\!HEY\!HEY\!」に出演したのはこれが最後となっている。
   - ちなみに、この曲のジャケットの目は、女優[杉本彩](../Page/杉本彩.md "wikilink")の目である。
   - 連続リリースで生産枚数が限られていたにもかかわらず、Janne Da Arc初のオリコンチャートトップ3入りを果たした。
 

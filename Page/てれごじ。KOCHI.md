@@ -1,15 +1,15 @@
 > この記事は[てれごじ。KOCHI](https://ja.wikipedia.org/wiki/てれごじ。KOCHI)から翻訳されています。
 
 
-**てれごじ。KOCHI**（てれごじこうち）は[NHK高知放送局](../Page/NHK高知放送局.md "wikilink")制作の[夕方](https://ja.wikipedia.org/wiki/夕方 "wikilink")の[音楽](../Page/音楽.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。（[2000年](../Page/2000年.md "wikilink")から、前身は[てれごじ。](../Page/てれごじ。.md "wikilink")）
+『**てれごじ。KOCHI**』（てれごじこうち）は、[NHK高知放送局](../Page/NHK高知放送局.md "wikilink")制作の夕方の[音楽](../Page/音楽.md "wikilink")情報[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。（[2000年](../Page/2000年.md "wikilink")から、前身は[てれごじ。](../Page/てれごじ。.md "wikilink")）
 
 ## 放送概要
 
-前年（[1999年](../Page/1999年.md "wikilink")）から始まった、[てれごじ。](../Page/てれごじ。.md "wikilink")が前身。
+前年（[1999年](../Page/1999年.md "wikilink")）から始まった、『[てれごじ。](../Page/てれごじ。.md "wikilink")』が前身。
 
 ### 2000年度
 
-週1回のみ[四国](../Page/四国.md "wikilink")4県向けに放送していた。但し、番組の開始部分と、終了部分は松山のスタジオから放送されていた。
+週1回のみ[四国](../Page/四国.md "wikilink")4県向けに放送していた。ただし、番組の開始部分と、終了部分は松山のスタジオから放送されていた。
 
 ### 2001 - 2002年度
 
@@ -30,4 +30,4 @@
 
 [元吉太郎](https://ja.wikipedia.org/wiki/元吉太郎 "wikilink")（「[ほっとこうち](https://ja.wikipedia.org/wiki/ほっとこうち "wikilink")」[編集長](../Page/編集長.md "wikilink")） [スーパーバンド](https://ja.wikipedia.org/wiki/スーパーバンド "wikilink") 他多数
 
-[Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョン平日夕方の地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日夕方の地域番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink")
+[Category:NHK総合テレビジョン平日夕方の地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日夕方の地域番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink") [Category:NHK総合テレビジョンのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのバラエティ番組の歴史 "wikilink") [Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink")

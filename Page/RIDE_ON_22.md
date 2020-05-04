@@ -22,4 +22,4 @@
   - [2007年](../Page/2007年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")に[東京優駿](https://ja.wikipedia.org/wiki/東京優駿 "wikilink")（日本ダービー）、[12月20日](../Page/12月20日.md "wikilink")に[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink")を特集し、RIDE ON 22と[トレセンTIME](../Page/トレセンTIME.md "wikilink")が合体して2時間の特別番組「RIDE ON TIME」が放送された。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降は鈴木淑子ゾーンの部分が[鈴木淑子のレーシングワールド](https://ja.wikipedia.org/wiki/鈴木淑子のレーシングワールド "wikilink")に引き継がれ、海外競馬、地方競馬の情報を伝えている。
 
-[Category:グリーンチャンネル](https://ja.wikipedia.org/wiki/Category:グリーンチャンネル "wikilink")
+[Category:グリーンチャンネル](https://ja.wikipedia.org/wiki/Category:グリーンチャンネル "wikilink") [Category:テレビの競馬番組](https://ja.wikipedia.org/wiki/Category:テレビの競馬番組 "wikilink")

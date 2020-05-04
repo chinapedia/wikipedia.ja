@@ -33,6 +33,5 @@
 
 ## 外部リンク
 
-  - [REAL YOU（ポニーキャニオン）](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200600001534&DSP_SKHKETSEQ=001)
-
+  -
 [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")

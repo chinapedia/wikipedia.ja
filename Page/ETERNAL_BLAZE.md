@@ -7,7 +7,7 @@
 
 表題曲「ETERNAL BLAZE」は、水樹自身も出演したテレビアニメ『[魔法少女リリカルなのはA's](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's "wikilink")』の[オープニングテーマとして使用された](../Page/主題歌.md "wikilink")。
 
-本作のヒット<small>（後述）</small>がきっかけで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』への出演を果たした\[1\]。
+本作のヒット<small>（後述）</small>がきっかけで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』への出演を果たした\[1\]。
 
 後に、水樹自身が[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を務めることになった『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』（[2009年](../Page/2009年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")放送）において、「ETERNAL BLAZE」の歌唱がテレビで初めて披露された。また、「ETERNAL BLAZE」と「RUSH\&DASH\!」はPVが制作されており、どちらもDVD『NANA CLIPS 3』に収録されている。
 

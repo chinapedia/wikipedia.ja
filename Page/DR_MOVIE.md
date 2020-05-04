@@ -100,7 +100,7 @@
   - [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 "wikilink")シリーズ
       - かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 （制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、各話制作協力、2019年）
       - かぐや様は告らせたい？ （制作元請：A-1 Pictures、各話制作協力、2020年）
-  - High Guardian Spice （制作元請：エレーション・スタジオ、各話制作協力、2019年-）\[3\]\[4\]\[5\]
+  - High Guardian Spice （制作元請：エレーション・スタジオ、各話制作協力、2019年-）\[3\]\[4\]\[5\]\[6\]
   - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな! "wikilink") （制作元請：[サイエンスSARU](https://ja.wikipedia.org/wiki/サイエンスSARU "wikilink")、制作協力、2020年）
 
 #### OVA
@@ -148,7 +148,7 @@
 
 #### 劇場アニメ
 
-  - [YAWARA\! それゆけ腰ぬけキッズ\!\!](../Page/YAWARA!.md "wikilink")（仕上げ、1992年）\[6\]
+  - [YAWARA\! それゆけ腰ぬけキッズ\!\!](../Page/YAWARA!.md "wikilink")（仕上げ、1992年）\[7\]
   - [千年女優](../Page/千年女優.md "wikilink")（動画・仕上げ、2002年）
   - [劇場版 HUNTER×HUNTER 緋色の幻影](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_緋色の幻影 "wikilink") （制作元請：マッドハウス、原画・第2原画・動画・仕上げ、2013年）
   - [劇場版 HUNTER×HUNTER -The LAST MISSION-](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_-The_LAST_MISSION- "wikilink")（制作元請：マッドハウス、第2原画・動画・仕上げ、2013年）
@@ -168,4 +168,5 @@
 3.
 4.
 5.
-6.  [YAWARA\! それゆけ腰ぬけキッズ\!\!](http://www.madhouse.co.jp/works/1993-1992/works_movie_yawara_kids.html) マッドハウス、2019年1月14日閲覧。
+6.
+7.  [YAWARA\! それゆけ腰ぬけキッズ\!\!](http://www.madhouse.co.jp/works/1993-1992/works_movie_yawara_kids.html) マッドハウス、2019年1月14日閲覧。

@@ -886,7 +886,9 @@ D10RS 他</p></td>
     「M616」の名称で登場。
 
   - 『[ドールズフロントライン](https://ja.wikipedia.org/wiki/ドールズフロントライン "wikilink")』
-    『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
+    「416」の名称で登場。
+
+  - 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
 
 :; 『[Project Reality（BF2）](https://ja.wikipedia.org/wiki/Project_Reality "wikilink")』
 

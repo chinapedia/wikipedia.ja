@@ -8,7 +8,7 @@
   - 5thアルバム『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』の先行シングル。
   - 「[CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD-Video.md "wikilink")」「CDのみ」の2形態。2形態共に完全限定生産シングルとして発売。
   - オリコン週間シングルランキングでは20thシングル「[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")」以来通算4作目の首位獲得となった。また、[黒沢明とロス・プリモス](https://ja.wikipedia.org/wiki/黒沢明とロス・プリモス "wikilink")のシングル「[ラブユー東京](../Page/ラブユー東京.md "wikilink")」から数えてオリコン史上**1000曲目**の首位獲得曲となった\[1\]。同年2月27日には、オリコン本社で贈呈式が行われた\[2\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")から、メンバーの[HIROの母校である](../Page/五十嵐広行.md "wikilink")[横浜市立金沢高等学校](https://ja.wikipedia.org/wiki/横浜市立金沢高等学校 "wikilink")の最寄り駅の[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[金沢八景駅](../Page/金沢八景駅.md "wikilink")において、[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている。編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")から、リーダーの[HIROの母校である](../Page/五十嵐広行.md "wikilink")[横浜市立金沢高等学校](https://ja.wikipedia.org/wiki/横浜市立金沢高等学校 "wikilink")の最寄り駅の[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[金沢八景駅](../Page/金沢八景駅.md "wikilink")において、[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている\[3\]。編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた\[4\]。
   - 2010年3月2日放送[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")4夜連続放送オムニバスドラマ『[卒うた](https://ja.wikipedia.org/wiki/卒うた "wikilink")』の「第2夜 道」は同曲がテーマとなっていた。
 
 ## 収録曲
@@ -19,8 +19,8 @@
       -
         作詞：Shogo Kashida / 作曲：miwa furuse / 編曲：華原大輔 / ストリングスアレンジ：前嶋康明
     <!-- end list -->
-      - [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") CMソング\[3\]
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2007年2月度オープニングテーマ\[4\]
+      - [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") CMソング\[5\]
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2007年2月度オープニングテーマ\[6\]
       - 全国カラオケ事業者協会 卒業シーズン推薦ソング
 2.  **道** -Piano Version-
       -
@@ -57,3 +57,5 @@
 2.  <http://www.oricon.co.jp/news/music/42515/>
 3.
 4.
+5.
+6.

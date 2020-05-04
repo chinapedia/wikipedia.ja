@@ -3,7 +3,7 @@
 
 **SBSホールディングス**株式会社（エスビーエスホールディングス）は、[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")に本社を置く運送、不動産賃貸管理業、金融、人材事業会社である。
 
-「SBS」とは前身の総合物流システム「**S**ougo **B**utsuryu **S**ystem」の頭文字をとった略であり、[静岡県](../Page/静岡県.md "wikilink")に本社のある[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")および[静新SBSグループ](https://ja.wikipedia.org/wiki/静新SBSグループ "wikilink")とは一切無関係である。
+「SBS」とは前身の総合物流システム「**S**ougo **B**utsuryu **S**ystem」の頭文字をとった略であり、[静岡県](../Page/静岡県.md "wikilink")に本社のある[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")および[静新SBSグループ](https://ja.wikipedia.org/wiki/静新SBSグループ "wikilink")とはロゴマークが似ているものの、一切無関係である。
 
 [みどり会](../Page/みどり会.md "wikilink")の会員企業であり、[三和グループ](../Page/三和グループ.md "wikilink")に属している\[1\]。
 

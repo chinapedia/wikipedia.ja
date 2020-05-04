@@ -103,7 +103,7 @@
 
 10月、アメリカ大会でウィル・オスプレイに勝利したマーティ・スカルと王座決定戦を行い、これに勝利。1年ぶりにIWGPジュニアヘビー級王座を戴冠。
 
-### フリーランス
+### WWE
 
 #### 2019年
 
@@ -133,8 +133,8 @@
     [人工衛星ヘッドシザーズの体勢で相手に飛びつき](https://ja.wikipedia.org/wiki/ヘッドシザーズ・ホイップ "wikilink")、両足で相手の首を挟み込まず、空中で相手の左腕を捉えて旋回しながらマットに転がり、仰向けに倒れ込んだ相手の腕を[ダブルリストロック](../Page/ダブルリストロック.md "wikilink")で極める。相手がロープへ逃れられそうになった時は、自らが後方回転をすることでリング中央に戻して再度極めにいくこともある。派生技として、相手の手首を捻りあげて肩関節や手首を痛めつけていく『**リストクラッチ式**』が存在している。
     技名の由来は、映画『[バック・トゥ・ザ・フューチャー PART2](../Page/バック・トゥ・ザ・フューチャー_PART2.md "wikilink")』の作中で登場する『[ホバーボード](../Page/ホバーボード.md "wikilink")』から来ており、空中を自在に飛び回りながら相手をとらえていくイメージから名付けられた。
   - **バック・トゥ・ザ・フューチャー**
-    2016年12月のアメリカ遠征中に初公開された技で、所謂**スモールパッケージ・ドライバー**で現在のフィニッシャー。
-    [フィッシャーマンズ・スープレックス](../Page/フィッシャーマンズ・スープレックス.md "wikilink")の体勢で捉えた相手の体を宙に浮かせ、同時に自らも飛び上がりながら空中で相手の右足を自らの両足で挟み込み、そのまま左半身から落下しながら相手の頭部をマットに叩きつけ、手足のフックを解かずに、そのまま首固めの体勢で固めてフォールに移行する。日本での初公開は2017年5月22日の[BUSHI](../Page/BUSHI.md "wikilink")戦。
+    2017年5月のアメリカ遠征中に初公開された技で、所謂**スモールパッケージ・ドライバー**で現在のフィニッシャー。
+    [フィッシャーマンズ・スープレックス](../Page/フィッシャーマンズ・スープレックス.md "wikilink")の体勢で捉えた相手の体を宙に浮かせ、同時に自らも飛び上がりながら空中で相手の右足を自らの両足で挟み込み、そのまま左半身から落下しながら相手の頭部をマットに叩きつけ、手足のフックを解かずに、そのまま首固めの体勢で固めてフォールに移行する。日本での初公開は2017年5月22日のBEST OF THE SUPER Jr.[BUSHI](../Page/BUSHI.md "wikilink")戦。
     技名の由来は、自身が大ファンである事を公言している映画『[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャーシリーズ.md "wikilink")』から。年頭より[高橋ヒロムに連敗を喫したことで](https://ja.wikipedia.org/wiki/高橋広夢 "wikilink")、ジュニア戦線から大きく後退してしまったことから、「ヒロムによって破壊された未来に戻って見せる」という意味合いが込められている。
   - [ミッドナイト・エクスプレス](https://ja.wikipedia.org/wiki/ムーンサルトプレス#派生技 "wikilink")
     [ムーンサルトプレス](../Page/ムーンサルトプレス.md "wikilink")の体勢で後方宙返り中に360°錐揉み回転を加えて、自らの体重を浴びせて相手の体の上に落下する。ホバーボードロック開発後は、大一番でのみ解禁している。
@@ -235,6 +235,7 @@
 
   - [BEST OF THE SUPER Jr.](../Page/ベスト・オブ・ザ・スーパージュニア.md "wikilink") 優勝 : 2回（2015年、2017年）
   - [SUPER J-CUP](../Page/スーパーJカップ.md "wikilink") 優勝（2016年）
+  - 第82代IWGPジュニアヘビー級王座決定トーナメント 優勝（2018年）
 
 <!-- end list -->
 
@@ -254,6 +255,14 @@
 <!-- end list -->
 
   - [ROH世界TV王座](https://ja.wikipedia.org/wiki/ROH世界TV王座 "wikilink")（第15代）
+
+<!-- end list -->
+
+  - WCPW
+
+<!-- end list -->
+
+  - プロレス・ワールドカップ 優勝（2017年）
 
 ### MMA
 
@@ -312,7 +321,7 @@
   - [KUSHIDAオフィシャルブログ「KUSHIDAのプロレス浪漫飛行」](https://ameblo.jp/ts-kushida/) - Powered by Ameba
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:新日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:新日本プロレスに所属したプロレスラー "wikilink") [Category:CMLLに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:CMLLに参戦したプロレスラー "wikilink") [Category:NWAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:NWAに参戦したプロレスラー "wikilink") [Category:ROHに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:ROHに参戦したプロレスラー "wikilink") [Category:SMASHに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:SMASHに所属したプロレスラー "wikilink") [Category:全日本プロレスの元関係者](https://ja.wikipedia.org/wiki/Category:全日本プロレスの元関係者 "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:専修大学出身の人物](https://ja.wikipedia.org/wiki/Category:専修大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:日本の総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の総合格闘家 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:新日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:新日本プロレスに所属したプロレスラー "wikilink") [Category:CMLLに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:CMLLに参戦したプロレスラー "wikilink") [Category:NWAに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:NWAに参戦したプロレスラー "wikilink") [Category:ROHに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:ROHに参戦したプロレスラー "wikilink") [Category:SMASHに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:SMASHに所属したプロレスラー "wikilink") [Category:全日本プロレスの元関係者](https://ja.wikipedia.org/wiki/Category:全日本プロレスの元関係者 "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:専修大学出身の人物](https://ja.wikipedia.org/wiki/Category:専修大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1983年生](https://ja.wikipedia.org/wiki/Category:1983年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:WWEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:WWEに参戦したプロレスラー "wikilink") [Category:在アメリカ合衆国日本人のプロレスラー](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のプロレスラー "wikilink")
 
 1.  参考文献『週刊プロレス』2010年11月24日号、頁63 - 66掲載 「レスラーヒューマンストーリー\<19\>～KUSHIDA編」より。
 2.

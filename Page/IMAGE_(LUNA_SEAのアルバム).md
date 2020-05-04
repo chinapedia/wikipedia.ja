@@ -73,8 +73,6 @@
 
 2018年12月22日のさいたまスーパーアリーナでのライブ『IMAGE OR REAL』にて、「SEARCH FOR REASON」を除く全曲が演奏された\[13\]。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 注釈
 
 [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:LUNA_SEAのアルバム](https://ja.wikipedia.org/wiki/Category:LUNA_SEAのアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")

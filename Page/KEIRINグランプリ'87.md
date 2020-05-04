@@ -63,7 +63,7 @@
 
   - [KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")
 
-[Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1987年の自転車競技大会](https://ja.wikipedia.org/wiki/Category:1987年の自転車競技大会 "wikilink") [Category:1987年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1987年の日本のスポーツ "wikilink") [Category:神奈川県のスポーツ史](https://ja.wikipedia.org/wiki/Category:神奈川県のスポーツ史 "wikilink") [Category:平塚市のスポーツ](https://ja.wikipedia.org/wiki/Category:平塚市のスポーツ "wikilink") [Category:平塚市の歴史](https://ja.wikipedia.org/wiki/Category:平塚市の歴史 "wikilink") [Category:1987年12月](https://ja.wikipedia.org/wiki/Category:1987年12月 "wikilink")
+[Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1987年の自転車競技大会](https://ja.wikipedia.org/wiki/Category:1987年の自転車競技大会 "wikilink") [Category:1987年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1987年の日本のスポーツ "wikilink") [Category:神奈川県のスポーツ史](https://ja.wikipedia.org/wiki/Category:神奈川県のスポーツ史 "wikilink") [Category:平塚市のスポーツ](https://ja.wikipedia.org/wiki/Category:平塚市のスポーツ "wikilink") [Category:平塚市の歴史](https://ja.wikipedia.org/wiki/Category:平塚市の歴史 "wikilink") [Category:1987年12月](https://ja.wikipedia.org/wiki/Category:1987年12月 "wikilink") [Category:中野浩一](https://ja.wikipedia.org/wiki/Category:中野浩一 "wikilink")
 
 1.  [滝沢初Ｖ　ＧＰ取った](http://cache.yahoofs.jp/search/cache?c=MS077wyOG0AJ&p=1987&u=www.idolreport.jp/ad/keirin/keiringp08/playback/1987/index.html)（[アーカイブ](http://archive.is/m1Dys)）
 2.  [2012年大会までの全競走結果](http://keirin.jp/pc/dfw/portal/guest/report/graderace/grandprix/H25/winner_data/pdf/sankou3.pdf) - [KEIRINグランプリ2013 公式サイト](http://keirin.jp/pc/dfw/portal/guest/report/graderace/grandprix/H25/winner_data/data.html)

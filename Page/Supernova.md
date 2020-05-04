@@ -26,6 +26,7 @@ Supernova（スーパーノヴァ）は英語で[超新星](../Page/超新星.md
   - [SUPERNOVA (音楽グループ)](https://ja.wikipedia.org/wiki/SUPERNOVA_\(音楽グループ\) "wikilink") - 韓国の男性ダンスボーカルグループ。旧名・**超新星**。
   - [SUPERNOVA (SPEED OF LIGHTSのアルバム)](https://ja.wikipedia.org/wiki/SUPERNOVA_\(SPEED_OF_LIGHTSのアルバム\) "wikilink") - [SPEED OF LIGHTSのアルバム](https://ja.wikipedia.org/wiki/SPEED_OF_LIGHTS "wikilink")。
   - [SUPER NOVA (DiverDivaの曲)](https://ja.wikipedia.org/wiki/SUPER_NOVA_\(DiverDivaの曲\) "wikilink") - [虹ヶ咲学園スクールアイドル同好会](https://ja.wikipedia.org/wiki/虹ヶ咲学園スクールアイドル同好会 "wikilink")のミニユニット、DiverDivaの曲。
+  - Supernova - Fear Factoryの曲
 
 ## 映像作品
 

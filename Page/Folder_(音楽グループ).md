@@ -19,7 +19,7 @@
 
 6th・7thシングルはクラブシーン（DJ・ターンテーブル）向けに[アナログ盤が発売されている](../Page/レコード.md "wikilink")。デビュー時の平均年齢が12歳弱という[チャイドル](https://ja.wikipedia.org/wiki/チャイドル "wikilink")世代でありながら、[ジャクソン5](../Page/ジャクソン5.md "wikilink")を彷彿とさせるDAICHI（三浦大知）の[ボーイソプラノ](../Page/ボーイソプラノ.md "wikilink")を活かしたハイトーンでパワフルな歌唱力と、女子メンバーのハーモニーの高さ、キレのあるダンスパフォーマンスが大人からも注目を浴びた。
 
-『7 SOUL』発売翌月の2000年4月、FolderからDAICHIとJOEを差し引いた女子メンバー5人で構成する「**[Folder5](../Page/Folder5.md "wikilink")**」として、1stシングル「[SUPERGIRL](../Page/SUPERGIRL.md "wikilink")」を発売。[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に[横浜市](../Page/横浜市.md "wikilink")内の[HMV](../Page/HMV.md "wikilink")で[インストアライブ](https://ja.wikipedia.org/wiki/インストアライブ "wikilink")を行った折、FolderメンバーとしてDAICHIが登壇し、[変声期](https://ja.wikipedia.org/wiki/変声期 "wikilink")に入ったことを理由に「Folder」と自身の芸能活動は休止することを発表した。
+『7 SOUL』発売翌月の2000年4月、FolderからDAICHIとJOEを差し引いた女子メンバー5人で構成する「**[Folder5](../Page/Folder5.md "wikilink")**」として、1stシングル「[SUPERGIRL](../Page/SUPERGIRL.md "wikilink")」を発売。[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に[横浜市](../Page/横浜市.md "wikilink")内の[HMV](../Page/HMV.md "wikilink")で[インストアライブ](https://ja.wikipedia.org/wiki/インストアライブ "wikilink")を行った折、FolderメンバーとしてDAICHIが登壇し、[変声](../Page/変声.md "wikilink")期に入ったことを理由に「Folder」と自身の芸能活動は休止することを発表した。
 
 Folder時代のCDの累計売上は60万枚に達する\[2\]。
 

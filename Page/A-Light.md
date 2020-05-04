@@ -27,6 +27,7 @@
   - [大利弥里](https://ja.wikipedia.org/wiki/大利弥里 "wikilink")
   - [塩川莉世](https://ja.wikipedia.org/wiki/塩川莉世 "wikilink")
   - [原田明莉](https://ja.wikipedia.org/wiki/原田明莉 "wikilink")
+  - [木下美優](https://ja.wikipedia.org/wiki/木下美優 "wikilink")
   - [尚玄](../Page/尚玄.md "wikilink")
   - [大河原亮高](https://ja.wikipedia.org/wiki/大河原亮高 "wikilink")
   - [仲村だこた](https://ja.wikipedia.org/wiki/仲村だこた "wikilink")
@@ -79,7 +80,7 @@
   - [転校少女](https://ja.wikipedia.org/wiki/転校少女 "wikilink")
   - [IVVY](https://ja.wikipedia.org/wiki/IVVY "wikilink")
   - [Pimm's](https://ja.wikipedia.org/wiki/Pimm's "wikilink")
-  - [恋するフリーク](https://ja.wikipedia.org/wiki/恋するフリーク "wikilink")
+  - [プラスワン](https://ja.wikipedia.org/wiki/プラスワン "wikilink")
   - [熱血\!\!Acti部。](https://ja.wikipedia.org/wiki/熱血!!Acti部。 "wikilink")
 
 ### 営業3部

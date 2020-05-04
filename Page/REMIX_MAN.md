@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **いいあんべえ(New Jack Mix)**
-2.  1**8時(On The Brick Of Nature)**
+2.  **18時(On The Brick Of Nature)**
 3.  **いいあんべえ(The Boombay Mix)**
 4.  **18時(EBB Tide)**
 5.  **いいあんべえ(Gado Gado Mix)**

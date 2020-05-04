@@ -11,7 +11,7 @@
   - [MADE IN JAPAN (V6の曲)](../Page/MADE_IN_JAPAN_\(V6の曲\).md "wikilink") - [デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")の代表曲のひとつで、[V6が](../Page/V6_\(グループ\).md "wikilink")1996年2月14日リリースの2ndシングルとしてカバーした。
   - [メイドインジャパン〜THE BEST OF RHYMESTER〜](../Page/メイドインジャパン〜THE_BEST_OF_RHYMESTER〜.md "wikilink") - [RHYMESTER](../Page/RHYMESTER.md "wikilink")の5枚目のアルバムで、ベストアルバム。
   - [ディープ・パープル](../Page/ディープ・パープル.md "wikilink")のライブ・アルバム "*Made in Japan*" （邦題: 『ライヴ・イン・ジャパン』）。 ⇒ [ライヴ・イン・ジャパン (ディープ・パープルのアルバム)](../Page/ライヴ・イン・ジャパン_\(ディープ・パープルのアルバム\).md "wikilink")
-  - 1988年4月8日にリリースされた[近藤真彦](../Page/近藤真彦.md "wikilink")の25thシングル。
+  - [Made in Japan (近藤真彦の曲)](https://ja.wikipedia.org/wiki/Made_in_Japan_\(近藤真彦の曲\) "wikilink") - 1988年4月8日にリリースされた、[近藤真彦](../Page/近藤真彦.md "wikilink")の27thシングル。
   - [MADE IN JAPAN (SEX MACHINEGUNSのアルバム)](https://ja.wikipedia.org/wiki/MADE_IN_JAPAN_\(SEX_MACHINEGUNSのアルバム\) "wikilink") - [SEX MACHINEGUNSの](../Page/SEX_MACHINEGUNS.md "wikilink")2枚目のオリジナルアルバム。
 
 ## 書籍

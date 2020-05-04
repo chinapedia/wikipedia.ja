@@ -54,6 +54,10 @@ GFDLの不可変更部分のために、Debianの内容のごく一部はDFSGに
 
 *debian-legal*メーリングリストの参加者はライセンスがDFSGに適合するかどうかチェックするため、いくつかのテストを作成した。テストの内容については[\#外部リンク](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")のDFSG FAQ草案を参照されたい。
 
+## 派生
+
+[オープンソースの定義 Open Source Definition (Annotated)）は](https://ja.wikipedia.org/wiki/オープンソースの定義 "wikilink")（The、*Bruce Perens*によってDFSGからDebian固有の部分を除いて作られた。\[8\]
+
 ## 脚注
 
 <references/>
@@ -81,3 +85,4 @@ GFDLの不可変更部分のために、Debianの内容のごく一部はDFSGに
 5.  Anthony Towns: [Social Contract GR's Affect on sarge](http://lists.debian.org/debian-devel/2004/04/msg01929.html), debian-devel mailing list
 6.  [General Resolution: Sarge Release Schedule in view of GR 2004-003](http://www.debian.org/vote/2004/vote_004)
 7.  [一般決議: 何故 GNU Free Documentation License は Debian main に不適切なのか](http://www.debian.org/vote/2006/vote_001)
+8.

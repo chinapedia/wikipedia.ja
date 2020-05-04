@@ -86,7 +86,7 @@
   - 9月28日(土)、主催イベント「白川さやか生誕祭+RAY長めライブ」を開催。(原宿 STROBE CAFE) 白川さやか生誕パートではcollectionsのクラウドファンディングにて支援達成した「キラキラなアイドルソングを歌いたい（タイトル未定）」を初披露。ライヴ後のMCにて白川さやかが高校受験に専念する為、2019年11月6日〜2020年3月頃までの期間、活動休止することが発表された。
   - 9月28日(土)、甲斐莉乃の個展『403 Forbidden』が開催。詳細はcollections該当欄を参照。 (Ohshima Fine Art)
   - 9月29日(日)、内山結愛が「Total Feedback」にてDJ出演。(KOENJI HIGH メインフロア)
-  - 10月3日(木)、雨宮未來(NaNoMoRaL)主催「にこにこどーなつ vol.01」に出演。(下北沢 ERA)
+  - 10月3日(木)、雨宮未來([NaNoMoRaL](https://ja.wikipedia.org/wiki/NaNoMoRaL "wikilink"))主催「にこにこどーなつ vol.01」に出演。(下北沢 ERA)
   - 10月5日(土)、「ギュウ農フェス秋のSP 爆音大収穫祭 road to 2020」に出演。(新木場 STUDIO COAST 野外ステージ)
   - 10月6日(日)、「きみとぼくの革命 presents 革命の続きVol.2」に出演。(新宿 SAMURAI)　 また、10/30(水)に1stシングル『Blue』リリース決定のプレスリリースを発表\[9\]\[10\]。米シューゲイザーバンド[Ringo Deathstarr楽曲提供の](https://ja.wikipedia.org/wiki/リンゴ・デススター "wikilink")「Meteor」をはじめ、管梓(ForTracyHyde)、ハタユウスケ(cruyff in the bedroom)と実力派シューゲイザー・クリエイーターによる「バタフライエフェクト」「世界の終わりは君とふたりで」を含むアイドルソングの新境地を開く３曲を収録。 1st シングルリリースにあたって、自主レーベル「DISTORTED RECORDS」設立と新ビジュアル解禁も合わせて発表された。(レーベルロゴデザイン：甲斐莉乃)
   - 10月11日(金)、甲斐莉乃の初となる個展 『403 Forbidden』が閉幕。 (水道橋 Ohshima Fine Art)
@@ -149,7 +149,7 @@
   - 1月18日(土)、振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」に月日が出演。(神楽坂 セッションハウス)
   - 1月19日(日)、振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」(神楽坂 セッションハウス)に月日が出演。「Total Feedback」(高円寺 HIGH)にDJにて内山結愛が出演。
   - 1月20日(月)、「shibuya luisant Vol.5」に出演。(TSUTAYA O-Crest)
-  - 1月25日(土)、「cuatro vol.2」に出演。(新宿MARZ)
+  - 1月25日(土)、「cuatro vol.2」に出演。内山結愛が体調不良にて初めてライブを欠席、急遽甲斐莉乃と月日の二人体制となった。(新宿MARZ)
   - 1月29日(水)、「RINGO DEATHSTARR 来日ツアー 東京公演」に出演。(吉祥寺CLUB SEATA)
   - 2月6日(木)、「IDOL AND READ LIVE NEO vol.3」に出演。(目黒鹿鳴館)
   - 2月8日(土)、「エクストロメ‼︎ GOLDEN NUGGETS」に出演。(大塚Hearts+)
@@ -178,13 +178,17 @@
   - <s>3月29日(日)、【中止】「Total Feedback」に内山結愛がDJ出演。(KOENJI HIGH)</s>
   - 4月2日(木)、1st ワンマンライブ「アイドル」連動企画第三弾として、内山結愛が「粒子」をテーマにした演出をファンと練り上げる<s>YouTube配信</s>インスタライブを生配信。
   - 4月3日(金)、完全未発表の新曲[「オールニードイズラブ/ALL NEED IS LOVE」Official Audio](https://www.youtube.com/watch?v=24KZm2NhCog&feature=youtu.be)をYou Tubeにて公開。
-  - 4月4日(土)、1st ワンマンライブ「アイドル」連動企画第四弾として、甲斐莉乃が「波長」をテーマにした演出をファンと練り上げるインスタライブを生配信。<s>【延期】ギュウ農フェス 春のSP2020 \~5th anniversary 2days\~</s>
+  - 4月4日(土)、1st ワンマンライブ「アイドル」連動企画第四弾として、甲斐莉乃が「波長」をテーマにした演出をファンと練り上げるインスタライブを生配信。内山結愛が初めてのTwitcastingにて生配信。これ以降、メンバー各々が日替わりでテーマを決めてツイキャス生配信を行う。　<s>【延期】ギュウ農フェス 春のSP2020 \~5th anniversary 2days\~</s>
   - 4月5日(日)、<s>【延期】ギュウ農フェス 春のSP2020 \~5th anniversary 2days\~</s>
+  - 4月10日(金)、noteにて「[RAYのわちゃわちゃ交換日記](https://note.com/_ray_world)」更新開始。
   - 4月11日(土)、[RAY公式通販サイト](https://ray-world.booth.pm/)をBOOTHにて開設。
   - <s>4月12日(日)、昼【中止】Hearts＋ presents 『春のYOIMACHI』、夜【延期】new encounters SPvol.29</s>
   - 4月15日(水)、1st Album『Pink』が5月23日にリリースされるとプレスリリースを発表\[19\]\[20\]\[21\]。[RAY公式You Tubeにて期間限定アルバムフル視聴](https://www.youtube.com/watch?v=Yc-riJnvqWY&feature=youtu.be)開始。また、流通元のDisk Unionにて『Pink』Tシャツ付きセット受注生産を開始した。<s>【中止】エクストロメ‼</s>
   - <s>4月18日(土)、昼【延期】「tipToe. 第2期お披露目ライブ」、夜【延期】甲斐莉乃生誕祭「灰」</s>
   - <s>4月19日(日)、【中止】『ゑりかちゃんべいびーと谷さんの食いしん坊万歳！』に月日が出演</s>
+  - 4月24日(金)、1stフルアルバム『Pink』がリリースに先駆けApple Music、Spotify、OTOTOYなど各種サブスク、配信サービスから配信開始。
+  - 4月26日(日)、ライブ活動ができない状態だからこそできることをRAYメンバーが考えた「おうちcollectionシリーズ」をメンバー4人同時に発表。
+  - 5月1日(金)、RAYお披露目1周年を記念して、「[RAY - RAY001 the beginning of the dream 2019/5/1 at 渋谷チェルシーホテル](https://www.youtube.com/watch?v=PFM0LmWn83Y&feature=youtu.be)」を公式YouTubeアカウントにて配信。
 
 ## メンバー
 
@@ -287,7 +291,7 @@
 <tr class="even">
 <td><p>2019年5月1日</p></td>
 <td><p>バタフライエフェクト (Butterfly Effect)</p></td>
-<td><p>管梓 (For Tracy Hyde)</p></td>
+<td><p>管梓 (<a href="https://ja.wikipedia.org/wiki/For_Tracy_Hyde" title="wikilink">For Tracy Hyde</a>)</p></td>
 <td><p>管梓(For Tracy Hyde)・みきれちゃん</p></td>
 <td><p>みきれちゃん</p></td>
 <td><p><a href="https://twitter.com/chiita1211">CHIHIRO</a></p></td>
@@ -347,7 +351,7 @@
 <td><p>Kei Toriki</p></td>
 <td><p>Kei Toriki</p></td>
 <td><p><a href="https://twitter.com/0oWatashi00">riko</a></p></td>
-<td><p>RAYオリジナル楽曲。 2019年8月15日 <a href="https://www.youtube.com/watch?v=rQ9im3MmgcU">Official Audio</a>にて初公開。<br />
+<td><p>RAYオリジナル楽曲。 2019年8月15日 <a href="https://www.youtube.com/watch?v=rQ9im3MmgcU">Official Audio</a>にて初公開。(OAのイラスト：甲斐莉乃)<br />
 2019年9月7日ライヴ初披露。</p></td>
 </tr>
 <tr class="odd">
@@ -368,8 +372,7 @@
 <td><p>みきれちゃん</p></td>
 <td><p>月日</p></td>
 <td><p>RAYオリジナル楽曲。</p>
-<p>イラスト：甲斐莉乃</p>
-<p>2019年11月14日 <a href="https://www.youtube.com/watch?v=g8KHwhwAhLY&amp;feature=youtu.be">Official Audio</a>にて初公開。</p>
+<p>2019年11月14日 <a href="https://www.youtube.com/watch?v=g8KHwhwAhLY&amp;feature=youtu.be">Official Audio</a>にて初公開。(OAのイラスト：甲斐莉乃)</p>
 <p>2019年12月3日ライブ初披露。<br />
 </p></td>
 </tr>
@@ -454,7 +457,7 @@
 <th><p>タイトル Title</p></th>
 <th><p>レーベル Label</p></th>
 <th><p>販売形態</p></th>
-<th><p>販売形態</p></th>
+<th><p>商品番号</p></th>
 <th><p>収録曲 Tracks</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -487,7 +490,7 @@
 <th><p>タイトル Title</p></th>
 <th><p>レーベル Label</p></th>
 <th><p>販売形態</p></th>
-<th><p>販売形態</p></th>
+<th><p>商品番号</p></th>
 <th><p>収録曲 Tracks</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -937,7 +940,9 @@
 <p>3. サテライト</p>
 <p>4. バタフライエフェクト</p></td>
 <td><p>RAY</p></td>
-<td><p>ソロパート④にて内山結愛が・・・・・・・・・「スライド」をカバー</p></td>
+<td><p>・ソロパート①甲斐莉乃「BiS/BiS BiS」を披露 ・ソロパート②月日「Blue Monday」をバックにダンスを披露</p>
+<p>・ソロパート③白川さやか 鰹を削る芸を披露</p>
+<p>・ソロパート④にて内山結愛が・・・・・・・・・「スライド」をカバー</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -2289,7 +2294,7 @@
 <td><p>新宿MARZ</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>内山結愛が体調不良にて初めてライブを欠席、急遽甲斐莉乃と月日の二人体制となった。</p></td>
 </tr>
 <tr class="even">
 <td><p>105</p></td>
@@ -2548,11 +2553,11 @@
 <tr class="even">
 <td><p>2019年11月16日(土)</p></td>
 <td><p>甲斐莉乃</p></td>
-<td><p>小鳥遊すわの座覧会</p></td>
+<td><p>「小鳥遊すわの座覧会</p></td>
 <td><p>」に甲斐莉乃がゲスト出演</p></td>
 <td><p>よろずや駒沢</p></td>
 <td></td>
-<td></td>
+<td><p>小鳥遊すわ</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年11月18日(月)</p></td>
@@ -2560,7 +2565,8 @@
 <td><p>月日と優美〜邂逅〜</p></td>
 <td><p>カラオケONE 銀座店</p></td>
 <td></td>
-<td></td>
+<td><p>月日</p>
+<p>是枝優美</p></td>
 <td><p>ゲスト:是枝優美</p></td>
 </tr>
 <tr class="even">
@@ -2573,6 +2579,25 @@
 <td><p>DJとして出演</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年12月28日(日)</p></td>
+<td><p>甲斐莉乃</p></td>
+<td><p>『甲斐莉乃、甲斐莉乃を語る～酒を飲みながら振り返る個人史と未来～』</p></td>
+<td><p>渋谷 SANKAKU</p></td>
+<td></td>
+<td></td>
+<td><p>・アイスブレイク～見よ！私の一発芸～ ・写真で振り返る甲斐莉乃史～幼少期から現在～</p>
+<p>・冬眠期～復活～現在を濃密に語る</p>
+<p>・甲斐莉乃の人間性、価値観、思想</p>
+<p>・甲斐莉乃が影響を受けた３つの作品</p>
+<p>・甲斐莉乃にとっての「プロジェクトアイドル」</p>
+<p>・個展『403 forbidden』全作品解説</p>
+<p>・「酔いどれ"現代アート"」について</p>
+<p>・甲斐莉乃の未来～1年後、5年後、10年後～</p>
+<p>・ファンが語る甲斐莉乃（質疑応答含む）</p>
+<p>・アナザー甲斐莉乃チェキ会+通常甲斐莉乃チェキ会</p>
+<p>※計2時間の予定が5時間語り尽くす。</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -2581,7 +2606,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年1月13日(月・祝)</p></td>
 <td><p>甲斐莉乃</p></td>
 <td><p>甲斐莉乃と岡本太郎美術館見学 ~打ち上げ飲み会&amp;アナザー甲斐莉乃チェキ会も！~</p></td>
@@ -2590,25 +2615,25 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年1月18日(土)</p></td>
 <td><p>月日</p></td>
 <td><p>振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」</p></td>
 <td><p>神楽坂 セッションハウス</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>振付師YUKOのダンス公演に月日が出演</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年1月19日(日)</p></td>
 <td><p>月日</p></td>
 <td><p>振付師YUKO主催「Manhattan Attitude 第3回主催公演『重なり 往くさき』」</p></td>
 <td><p>神楽坂 セッションハウス</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>振付師YUKOのダンス公演に月日が出演</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年1月19日(日)</p></td>
 <td><p>内山結愛</p></td>
 <td><p>Total Feedback</p></td>
@@ -2617,7 +2642,7 @@
 <td></td>
 <td><p>DJとして出演</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年2月23日(日)</p></td>
 <td><p>内山結愛</p></td>
 <td><p>Total Feedback</p></td>
@@ -2626,14 +2651,14 @@
 <td></td>
 <td><p>DJとして出演</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年3月14日(土)</p></td>
 <td><p>内山結愛と月日</p></td>
 <td><p>アイドルと人狼7 にゲスト出演</p></td>
 <td><p>阿佐ヶ谷 LoftA</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>内山結愛と月日がアイドル人狼イベントに出演</p></td>
 </tr>
 </tbody>
 </table>
@@ -2743,6 +2768,38 @@
 <td><p>2020年3月4日〜2020年3月18日</p></td>
 <td><p>生命の源、海に還り、イルカの波長を感じたいという願いを叶えるSKIP x SKIP 第2弾！</p></td>
 </tr>
+<tr class="odd">
+<td><p>白川さやか</p></td>
+<td></td>
+<td><p>絵本づくりで笑顔をつくろう</p></td>
+<td></td>
+<td></td>
+<td><p>2020年4月26日〜2020年5月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>内山結愛</p></td>
+<td></td>
+<td><p>内山結愛はお店を開きたい！</p></td>
+<td></td>
+<td><p>2020年4月26日〜2020年5月24日</p></td>
+<td><p>ライブ活動ができない状態だからこそできることをRAYメンバーが考えた、「おうちcollectionシリーズ」4人同時スタート！</p></td>
+</tr>
+<tr class="odd">
+<td><p>月日</p></td>
+<td></td>
+<td><p>VRでライブを届けたい！</p></td>
+<td></td>
+<td><p>2020年4月26日〜2020年5月24日</p></td>
+<td><p>ライブ活動ができない状態だからこそできることをRAYメンバーが考えた、「おうちcollectionシリーズ」4人同時スタート！</p></td>
+</tr>
+<tr class="even">
+<td><p>甲斐莉乃</p></td>
+<td></td>
+<td><p>甲斐莉乃 ～作曲～</p></td>
+<td></td>
+<td><p>2020年4月26日〜2020年5月24日</p></td>
+<td><p>ライブ活動ができない状態だからこそできることをRAYメンバーが考えた、「おうちcollectionシリーズ」4人同時スタート！</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2754,24 +2811,150 @@
 
 また、笹田晋平×甲斐莉乃シリーズの締めくくりとして、アナザー甲斐莉乃関連作品とその舞台裏、甲斐莉乃が自身をテーマにし描いた作品を展示し「アイドル」を真正面から現代美術する甲斐莉乃個展「Fire of Argus\~アルギュスの送り火\~」も開催された(淵野辺CRISPY EGG Gallery/開催期間:2020年2月23日〜2020年3月7日)。
 
-| No. | 開催日            | 開催場所                                        | 衣装 | 性格                                                         | 備考 |
-| --- | -------------- | ------------------------------------------- | -- | ---------------------------------------------------------- | -- |
-| 0   |                |                                             |    |                                                            |    |
-| 1   | 2019年11月16日    | 目黒鹿鳴館「PREDWN vol.6」                         | 灰羽 | 基本無口がちで表情もあまり変わることがない。羽が生えているが天使でも悪魔でもなく、人間味が少なく死生を彷徨う。    |    |
-| 2   | 2019月11月23日(土) | 西永福JAM 「MAGICAL GAMES vol.5」                |    | 時にずる賢くいたずら好き、小悪魔系。可愛さと色気を持ち合わせる、思わせぶりな発言も。                 |    |
-| 3   | 2019年11月24日(日) | 下北沢MOSAiC 「武井麻里子presents『エレ日。vol.16』」       |    | 清純派かわいいみんなの妹的存在。甘え上手で愛嬌がある。                                |    |
-| 4   | 2019年12月1日(日)  | 渋谷VUENOS 「new encounters SP vol.27」         |    | 明るく元気、どんなときも溌剌としている。細かいことは気にしない。                           |    |
-| 5   | 2019年12月1日(日)  | 渋谷VUENOS 「new encounters SP vol.28」         |    | 笑顔が多い割に発言は少なめ、ミステリアスな雰囲気を持っている。謎が多く自分のことはあまり話さないが話しやすい。    |    |
-| 6   | 2019年12月5日(木)  | マウントレーニアホール渋谷「ハミパ –ハミシス史上最強照明ライブ-」          |    | たくさんの人に同じくらいの愛を持って接することができる。天真爛漫で愛想が良い、可愛いものが好き。           |    |
-| 7   | 2019年12月6日(金)  | 渋谷Club Asia「メランコリックシティ Vol.0」               |    | クールで活発、見た目によらず繊細な部分もある。パンクだったり、かっこいいものを好む。                 |    |
-| 8   | 2019年12月28日(土) | 渋谷Milkyway「PREDAWN vol.7」                   |    | 落ち着きがあり知的。近寄りがたい空気感があるが話すと意外と打ち解けられる。                      |    |
-| 9   | 2019年12月28日(土) | 渋谷SANKAKU「甲斐莉乃、甲斐莉乃を語る～酒を飲みながら振り返る個人史と未来～」  |    | この日のアナザー甲斐莉乃：些細なことでは動じない、全てを包み込む温かさがある。落ち着いている、女神。         |    |
-| 10  | 2019年12月31日(火) | 高円寺HIGH「KOENJI HIGH 12th Anniversary 前夜祭」   |    | この日のアナザー甲斐莉乃：友好関係が広く基本誰とでも仲良くなれる。変わったものが好きな反面、ミーハーでもある。    |    |
-| 11  | 2020年1月5日(日)   | 下北沢MOSAiC 「武井麻里子presents『エレ日。vol.17』」       |    | 清楚系ナチュラルなお姉さん系。話し方もおしとやかでおっとりめ、聞き上手で意見を言う時はしっかり伝える。        |    |
-| 12  | 2020年1月12日(日)  | 新宿LOFT 「Pop'n Party」                        |    | 気になるものはとことん追い求める、オタク気質。場の空気を作るのが上手い、ノリがいいタイプ。              |    |
-| 13  | 2020年1月12日(日)  | 渋谷Milkyway 「PREDAWN vol.8」                  |    | あまり積極的に発言することはなく、大人しくおどおどしがち。興味のある話・気の合う人なら会話も弾みやすい、文学が好き。 |    |
-| 14  | 2020年1月13日     | 『甲斐莉乃と岡本太郎美術館見学 \~打ち上げ飲み会&アナザー甲斐莉乃チェキ会も！\~』 |    | 我が強く思ったことは素直に口にする。冷たいと思われがちな雰囲気があるが基本的には優しい。               |    |
-| 15  |                |                                             |    | みんなのまとめ役でしっかり者。 大人っぽいイメージを持たれがちだが天然な一面もある。                 |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>開催日</p></th>
+<th><p>開催場所</p></th>
+<th><p>衣装</p></th>
+<th><p>性格</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>0</p></td>
+<td><p>-</p></td>
+<td><p>(岡本太郎美術館)</p>
+<p>※備考参照</p></td>
+<td></td>
+<td></td>
+<td><p>・甲斐莉乃が「アナザーNo.9」のイベントに衣装を持参し忘れたことで産まれた副産物。</p>
+<p>・笹田晋平の『Jericho's raft and fifteen guardians〜ジェリコーの筏と15人の守護者〜』の中に16人の守護者が描かれ、展示会場にひとつだけ衣装が飾られていたのはこのためで、チェキ会は開催されていない。</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2019年11月16日</p></td>
+<td><p>目黒鹿鳴館「PREDWN vol.6」</p></td>
+<td><p>灰羽</p></td>
+<td><p>基本無口がちで表情もあまり変わることがない。羽が生えているが天使でも悪魔でもなく、人間味が少なく死生を彷徨う。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2019月11月23日(土)</p></td>
+<td><p>西永福JAM 「MAGICAL GAMES vol.5」</p></td>
+<td></td>
+<td><p>時にずる賢くいたずら好き、小悪魔系。可愛さと色気を持ち合わせる、思わせぶりな発言も。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2019年11月24日(日)</p></td>
+<td><p>下北沢MOSAiC 「武井麻里子presents『エレ日。vol.16』」</p></td>
+<td></td>
+<td><p>清純派かわいいみんなの妹的存在。甘え上手で愛嬌がある。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2019年12月1日(日)</p></td>
+<td><p>渋谷VUENOS 「new encounters SP vol.27」</p></td>
+<td></td>
+<td><p>明るく元気、どんなときも溌剌としている。細かいことは気にしない。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2019年12月1日(日)</p></td>
+<td><p>渋谷VUENOS 「new encounters SP vol.28」</p></td>
+<td></td>
+<td><p>笑顔が多い割に発言は少なめ、ミステリアスな雰囲気を持っている。謎が多く自分のことはあまり話さないが話しやすい。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2019年12月5日(木)</p></td>
+<td><p>マウントレーニアホール渋谷「ハミパ –ハミシス史上最強照明ライブ-」</p></td>
+<td></td>
+<td><p>たくさんの人に同じくらいの愛を持って接することができる。天真爛漫で愛想が良い、可愛いものが好き。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2019年12月6日(金)</p></td>
+<td><p>渋谷Club Asia「メランコリックシティ Vol.0」</p></td>
+<td></td>
+<td><p>クールで活発、見た目によらず繊細な部分もある。パンクだったり、かっこいいものを好む。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2019年12月28日(土)</p></td>
+<td><p>渋谷Milkyway「PREDAWN vol.7」</p></td>
+<td></td>
+<td><p>落ち着きがあり知的。近寄りがたい空気感があるが話すと意外と打ち解けられる。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2019年12月28日(土)</p></td>
+<td><p>渋谷SANKAKU「甲斐莉乃、甲斐莉乃を語る～酒を飲みながら振り返る個人史と未来～」</p></td>
+<td></td>
+<td><p>この日のアナザー甲斐莉乃：些細なことでは動じない、全てを包み込む温かさがある。落ち着いている、女神。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019年12月31日(火)</p></td>
+<td><p>高円寺HIGH「KOENJI HIGH 12th Anniversary 前夜祭」</p></td>
+<td></td>
+<td><p>この日のアナザー甲斐莉乃：友好関係が広く基本誰とでも仲良くなれる。変わったものが好きな反面、ミーハーでもある。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2020年1月5日(日)</p></td>
+<td><p>下北沢MOSAiC 「武井麻里子presents『エレ日。vol.17』」</p></td>
+<td></td>
+<td><p>清楚系ナチュラルなお姉さん系。話し方もおしとやかでおっとりめ、聞き上手で意見を言う時はしっかり伝える。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2020年1月12日(日)</p></td>
+<td><p>新宿LOFT 「Pop'n Party」</p></td>
+<td></td>
+<td><p>気になるものはとことん追い求める、オタク気質。場の空気を作るのが上手い、ノリがいいタイプ。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2020年1月12日(日)</p></td>
+<td><p>渋谷Milkyway 「PREDAWN vol.8」</p></td>
+<td></td>
+<td><p>あまり積極的に発言することはなく、大人しくおどおどしがち。興味のある話・気の合う人なら会話も弾みやすい、文学が好き。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2020年1月13日</p></td>
+<td><p>『甲斐莉乃と岡本太郎美術館見学 ~打ち上げ飲み会&amp;アナザー甲斐莉乃チェキ会も！~』</p></td>
+<td></td>
+<td><p>我が強く思ったことは素直に口にする。冷たいと思われがちな雰囲気があるが基本的には優しい。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2020年1月16日</p></td>
+<td><p>新宿LOFT 「エクストロメ ROUND TRIP</p></td>
+<td><p>」</p></td>
+<td></td>
+<td><p>みんなのまとめ役でしっかり者。 大人っぽいイメージを持たれがちだが天然な一面もある。</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

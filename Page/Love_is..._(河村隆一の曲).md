@@ -5,7 +5,9 @@
 
 ## 概要
 
-1997年のソロ活動を締めくくるシングルであり、事実上アルバム『[Love](../Page/Love_\(河村隆一のアルバム\).md "wikilink")』の先行シングルとなった。同年発売のシングルの中では一番売り上げが低いが、初動売上は逆に一番高い。
+1997年のソロ活動を締めくくるシングルであり、事実上アルバム『[Love](../Page/Love_\(河村隆一のアルバム\).md "wikilink")』の先行シングルとなった。270万枚以上の大ヒットとなった「[Love](../Page/Love_\(河村隆一のアルバム\).md "wikilink")」の先行シングル。
+
+初動売上は過去最高を記録したが、初登場は4位となっている（1位は[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")「[White Love](../Page/White_Love_\(SPEEDの曲\).md "wikilink")」、2位は[Globe](../Page/Globe.md "wikilink")「[Wanderin' Destiny](../Page/Wanderin'_Destiny.md "wikilink")」、3位は[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")「[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink")」と発売日が重なる激戦週であった）。売上は72.5万枚。
 
 ## 収録曲
 

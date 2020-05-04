@@ -678,13 +678,13 @@ Quadro4のノートPC向けシリーズ。
 
 Turingアーキテクチャを採用することで、リアルタイム レイ トレーシングに対応。\[67\][NVLink](https://ja.wikipedia.org/wiki/NVLink "wikilink")の接続には2つの同じGPUが必要です
 
-| 製品名                                | コア名(nm) | コアクロック | コア数  | メモリ | [FLOPS](../Page/FLOPS.md "wikilink") | [NVNink](https://ja.wikipedia.org/wiki/NVNink "wikilink") | [VR](../Page/バーチャル・リアリティ.md "wikilink") | 消費電力        | 接続          | [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink") |
-| ---------------------------------- | ------- | ------ | ---- | --- | ------------------------------------ | --------------------------------------------------------- | --------------------------------------- | ----------- | ----------- | ----------------------------------------------------------- |
-| [CUDA](../Page/CUDA.md "wikilink") | Tensor  | RT     |      | 容量  | バス幅                                  | 帯域                                                        | 単精度                                     | Tensor      | 帯域 (双方向)    | 対応                                                          |
-| Quadro RTX 4000\[68\]              |         |        | 2304 | 288 | 36                                   | GDDR6                                                     | 8GB                                     | 256bit      | 416GB/s     | 7.1 TFLOPS                                                  |
-| Quadro RTX 5000\[69\]              |         |        | 3072 | 384 | 48                                   | 16GB                                                      | 448GB/s                                 | 11.2 TFLOPS | 89.2 TFLOPS | 50GB/s                                                      |
-| Quadro RTX 6000\[70\]              |         |        | 4608 | 576 | 72                                   | 24GB                                                      | 384bit                                  | 672GB/s     | 16.3 TFLOPS | 130.5 TFLOPS                                                |
-| Quadro RTX 8000\[71\]              |         |        | 48GB |     |                                      |                                                           |                                         |             |             |                                                             |
+| 製品名                                | コア名(nm) | コアクロック | コア数  | メモリ | [FLOPS](../Page/FLOPS.md "wikilink") | [NVNink](https://ja.wikipedia.org/wiki/NVNink "wikilink") | [VR](../Page/バーチャル・リアリティ.md "wikilink") | 消費電力        | 接続          | グラフィックAPI    |
+| ---------------------------------- | ------- | ------ | ---- | --- | ------------------------------------ | --------------------------------------------------------- | --------------------------------------- | ----------- | ----------- | ------------ |
+| [CUDA](../Page/CUDA.md "wikilink") | Tensor  | RT     |      | 容量  | バス幅                                  | 帯域                                                        | 単精度                                     | Tensor      | 帯域 (双方向)    | 対応           |
+| Quadro RTX 4000\[68\]              |         |        | 2304 | 288 | 36                                   | GDDR6                                                     | 8GB                                     | 256bit      | 416GB/s     | 7.1 TFLOPS   |
+| Quadro RTX 5000\[69\]              |         |        | 3072 | 384 | 48                                   | 16GB                                                      | 448GB/s                                 | 11.2 TFLOPS | 89.2 TFLOPS | 50GB/s       |
+| Quadro RTX 6000\[70\]              |         |        | 4608 | 576 | 72                                   | 24GB                                                      | 384bit                                  | 672GB/s     | 16.3 TFLOPS | 130.5 TFLOPS |
+| Quadro RTX 8000\[71\]              |         |        | 48GB | 4.6 | 1.1                                  |                                                           |                                         |             |             |              |
 
 ## 脚注
 

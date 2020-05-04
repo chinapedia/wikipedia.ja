@@ -36,4 +36,4 @@
 
   - U.K.
 
-[Category:NHK総合テレビジョン平日夕方の地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日夕方の地域番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK関西](https://ja.wikipedia.org/wiki/Category:NHK関西 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")
+[Category:NHK総合テレビジョン平日夕方の地域番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日夕方の地域番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink") [Category:NHK関西](https://ja.wikipedia.org/wiki/Category:NHK関西 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")

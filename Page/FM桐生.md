@@ -38,7 +38,7 @@
   - [石原ミチ](https://ja.wikipedia.org/wiki/石原ミチ "wikilink")
   - [柄沢正則](https://ja.wikipedia.org/wiki/柄沢正則 "wikilink")
   - [小林隆子](https://ja.wikipedia.org/wiki/小林隆子 "wikilink")
-  - [きぃこ☆クッキー](https://ja.wikipedia.org/wiki/きぃこ☆クッキー "wikilink")
+  - [きぃこクッキー](https://ja.wikipedia.org/wiki/きぃこクッキー "wikilink")
   - [長山知愛子](https://ja.wikipedia.org/wiki/長山知愛子 "wikilink")
   - [宮原美絵](https://ja.wikipedia.org/wiki/宮原美絵 "wikilink")
   - [葉月那央](https://ja.wikipedia.org/wiki/葉月那央 "wikilink")

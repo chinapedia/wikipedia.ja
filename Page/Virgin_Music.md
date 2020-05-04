@@ -40,7 +40,8 @@
   - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBER_JAPAN_DANCERS "wikilink")
   - [そらる](https://ja.wikipedia.org/wiki/そらる "wikilink")
   - [Sou](https://ja.wikipedia.org/wiki/Sou "wikilink")
-  -
+  - [じん](https://ja.wikipedia.org/wiki/じん "wikilink")
+
 ### Delicious Deli Records
 
   - [INFINITE](https://ja.wikipedia.org/wiki/INFINITE "wikilink")

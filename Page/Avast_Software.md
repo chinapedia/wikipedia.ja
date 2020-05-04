@@ -17,43 +17,26 @@
 
 AVAST Software社が扱っている製品の一覧
 
-  - 個人用プロテクション
-      - avast\! 6 Internet Security（アバスト\! インターネット セキュリティ、シェアウェア）
-      - avast\! 6 Pro Antivirus（アバスト\! プロ アンチウイルス、シェアウェア）
-      - avast\! 6 Free Antivirus（アバスト\! 無料 アンチウイルス、フリーウェア）
-      - avast\! 5 Internet Security （アバスト\! インターネット セキュリティ、シェアウェア）
-      - avast\! 5 Pro Antivirus （アバスト\! プロ アンチウイルス、シェアウェア）
-      - avast\! 5 Free Antivirus （アバスト\! 無料 アンチウイルス、フリーウェア）
-      - avast\! 4 Professional Edition
-      - avast\! 4 Home Edition （フリーウェア）
-      - avast\! PRO Family Pack
-      - avast\! WHS Edition
-      - avast\! Mac Edition & Mac + PC
-      - avast\! 4 Linux Edition （フリーウェア）
-      - avast\! BART CD
-      - avast\! Rescue Disc
-      - avast\! EasyPass
-      - avast\! Backup
-  - 中小企業用プロテクション
-      - avast\! 4 Small Business Server Edition
-      - avast\! 4 Professional Edition
-      - avast\! BART CD
-      - avast\! for Linux/Unix Servers
-      - avast\! Business Protection
-  - 大企業用プロテクション
-      - avast\! 4 Server Edition
-      - avast\! 4 Server Plug-ins Edition
-      - avast\! Distributed Network Manager
-      - avast\! 4 Professional Edition
-      - avast\! BART CD
-      - avast\! for Linux/Unix Servers
-      - avast\! 4 PDA Edition (WinCE/Palm)
-  - モバイル機器向けプロテクション
-      - avast\! for Kerio
-      - avast\! 4 PDA Edition (WinCE/Palm)
-      - avast\! Mobile Security (Android用、フリーウェア)
-      - avast\! U3 Edition
-  - テクノロジー/OEM 製品
+  - 個人向け
+      - Avast Free Antivirus
+      - Avast Premium Security
+      - Avast Omni
+      - Avast Mac Security (macOS用)
+      - Avast SecureLine VPN (Windows用, macOS用, Android用, iOS用)
+      - Avast Passwords (Windows用, macOS用, Android用, iOS用)
+      - Avast Cleanup (Windows用, Android用)
+      - Avast Battery Saver (Windows用, Android用)
+      - Avast Mobile Security (Android用, iOS用)
+      - Avast SecureMe (iOS用)
+      - Avast Wi-Fi Finder (Android用, iOS用)
+      - Avast Secure Browser (Windows用, macOS用)
+      - Avast Driver Updater
+      - Avast AntiTrack Premium
+      - Avast SafePrice
+      - Avast Online Security
+  - 企業向け
+      - Avast Business Antivirus (Windows用, macOS用, Linux用)
+      - Avast Cloud Care
 
 ## 再販業者
 

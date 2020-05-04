@@ -37,6 +37,7 @@ imdkmが[リアルサウンドに寄せた記事によると](https://ja.wikiped
   - [Beat Buddy Boi](https://ja.wikipedia.org/wiki/Beat_Buddy_Boi "wikilink") （2015年、アルバム『JUCIE BOX』）
   - [Jamflavor](https://ja.wikipedia.org/wiki/Jamflavor "wikilink") （2016年、ミニアルバム『What's Jam?』）
   - Sugar Note ［2018年、シングル（配信）『[come again](https://www.youtube.com/watch?v=hlpg5ux8HNs&list=RDhlpg5ux8HNs&start_radio=1)』］
+  - [安斉かれん](https://ja.wikipedia.org/wiki/安斉かれん "wikilink") revived m-flo「come again」feat. CAELAN from [INTERSECTION](https://ja.wikipedia.org/wiki/INTERSECTION "wikilink") （2020年、コンピレーションアルバム『avex revival trax』）
 
 ## 関連楽曲
 

@@ -57,7 +57,7 @@ B'zの2007年第1弾シングルとしてリリースされた\[1\]。
 
 **永遠の翼**
 
-  - [ACTION](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")
+  - [ACTION](../Page/ACTION_\(アルバム\).md "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1999-2012](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")
 

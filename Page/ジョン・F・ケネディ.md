@@ -1,7 +1,7 @@
 > この記事は[ジョン・F・ケネディ](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ)から翻訳されています。
 
 
-**ジョン・フィッツジェラルド・"ジャック"・ケネディ**（、[1917年](../Page/1917年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - [1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。第35代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")。在任中の[1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")で暗殺された（[ケネディ大統領暗殺事件](../Page/ケネディ大統領暗殺事件.md "wikilink")）。名前のイニシャルをとってJFKと呼ばれることも多い。
+**ジョン・フィッツジェラルド・ケネディ**（、[1917年](../Page/1917年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - [1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。第35代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")。在任中の[1963年](../Page/1963年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")で暗殺された（[ケネディ大統領暗殺事件](../Page/ケネディ大統領暗殺事件.md "wikilink")）。名前のイニシャルをとって**JFK**ないし通称である**ジャック**（Jack）と呼ばれることも多い。
 
 ## 概要
 
@@ -578,11 +578,11 @@
 
 ## 国葬
 
-[Photograph_of_the_caisson_bearing_the_flag-draped_casket_of_President_John_F._Kennedy_leaving_the_White_House..._-_NARA_-_200455.jpg](https://ja.wikipedia.org/wiki/File:Photograph_of_the_caisson_bearing_the_flag-draped_casket_of_President_John_F._Kennedy_leaving_the_White_House..._-_NARA_-_200455.jpg "fig:Photograph_of_the_caisson_bearing_the_flag-draped_casket_of_President_John_F._Kennedy_leaving_the_White_House..._-_NARA_-_200455.jpg") ケネディの国葬は暗殺事件の3日後の11月25日（月）に行われ、全国民が喪に服した。この国葬には92か国から首脳・政府高官ら220人が参列した。
+[Photograph_of_the_caisson_bearing_the_flag-draped_casket_of_President_John_F._Kennedy_leaving_the_White_House..._-_NARA_-_200455.jpg](https://ja.wikipedia.org/wiki/File:Photograph_of_the_caisson_bearing_the_flag-draped_casket_of_President_John_F._Kennedy_leaving_the_White_House..._-_NARA_-_200455.jpg "fig:Photograph_of_the_caisson_bearing_the_flag-draped_casket_of_President_John_F._Kennedy_leaving_the_White_House..._-_NARA_-_200455.jpg") ケネディの[国葬](../Page/国葬.md "wikilink")は暗殺事件の3日後の11月25日（月）に行われ、全国民が喪に服した。この国葬には92か国から首脳・政府高官ら220人が参列した。
 
 フランスから[ドゴール大統領と](../Page/シャルル・ド・ゴール.md "wikilink")[クーヴ・ド・ミュルヴィル外相](../Page/モーリス・クーヴ・ド・ミュルヴィル.md "wikilink")\[111\]、イギリスから[エリザベス女王夫君の](https://ja.wikipedia.org/wiki/エリザベス2世 "wikilink")[エジンバラ公と](../Page/フィリップ_\(エディンバラ公\).md "wikilink")[ヒューム首相と](../Page/アレック・ダグラス＝ヒューム.md "wikilink")[ウィルソン労働党党首](../Page/ハロルド・ウィルソン.md "wikilink")\[112\]、西独から[エアハルト首相と](../Page/ルートヴィヒ・エアハルト.md "wikilink")[ブラント市長](../Page/ヴィリー・ブラント.md "wikilink")\[113\]、日本から[池田勇人](../Page/池田勇人.md "wikilink")首相と[大平外相](../Page/大平正芳.md "wikilink")、韓国から[朴正煕](../Page/朴正煕.md "wikilink")大統領\[114\]、ソ連から[ミコヤン第一副首相](../Page/アナスタス・ミコヤン.md "wikilink")、そして[ウ・タント](../Page/ウ・タント.md "wikilink")国連事務総長など。国内では[トルーマン元大統領](../Page/ハリー・S・トルーマン.md "wikilink")、[アイゼンハワー元大統領](../Page/ドワイト・D・アイゼンハワー.md "wikilink")、[ニクソン前副大統領](../Page/リチャード・ニクソン.md "wikilink")、[ロックフェラーニューヨーク州知事](../Page/ネルソン・ロックフェラー.md "wikilink")、[ゴールドウォーター上院議員](../Page/バリー・ゴールドウォーター.md "wikilink")、[ウォレスアラバマ州知事](../Page/ジョージ・ウォレス.md "wikilink")、[マーティン・ルーサー・キング牧師](../Page/マーティン・ルーサー・キング・ジュニア.md "wikilink")、[ジョン・グレン中佐などであった](../Page/ジョン・ハーシェル・グレン.md "wikilink")。
 
-車で国会議事堂からホワイトハウスに進み、そこから参列者全員がセント・マシューズ教会まで歩いた。ホワイトハウスからの葬列は、スコットランドのバグパイプ隊がアイルランドの曲を奏でる中を、まず海軍が先導して、カトリック司祭が2名、その後ろから6頭の馬に引かれて大統領の棺を載せた砲車、大統領旗を持った旗手、誰も騎乗しない馬、その後をジャクリーンとロバートとエドワードの3人が先頭で歩き、その後を米国政府首脳（その中にはジョンソン新大統領も含まれた）、そして各国首脳が距離にしておよそ2キロメートルの行程を歩き、セント・マシューズ教会に到着した。教会で告別のミサが行われ、セント・マシューズ教会の階段下で葬列が出発する際に、ケネディ大統領の長男であった当時3歳の[ジョン・フィッツジェラルド・ケネディ・ジュニア](../Page/ジョン・フィッツジェラルド・ケネディ・ジュニア.md "wikilink")が目前で砲車に載せられて曵かれゆく父の棺に対し挙手の敬礼をした\[115\]。棺は埋葬のために葬送のドラムの音とともにアーリントン国立墓地に向かった。墓地で埋葬式が行われ、3台の礼砲が21発の轟音を放ち、礼装の兵士たちがそれぞれ3発の銃声を響かせ、陸軍軍曹が葬送ラッパを吹き、その悲しみの音が暮色のアーリントンの丘に吸い込まれた。そして永遠の炎にジャクリーン、ロバート、エドワードが松明で点火し、棺を覆っていた国旗がジャクリーンに手渡されて葬儀は静かに終わった。
+車で国会議事堂からホワイトハウスに進み、そこから参列者全員が[セント・マシュー大聖堂](https://ja.wikipedia.org/wiki/セント・マシュー大聖堂 "wikilink")まで歩いた。ホワイトハウスからの葬列は、スコットランドのバグパイプ隊がアイルランドの曲を奏でる中を、まず海軍が先導して、カトリック司祭が2名、その後ろから6頭の馬に引かれて大統領の棺を載せた砲車、大統領旗を持った旗手、誰も騎乗しない馬、その後をジャクリーンとロバートとエドワードの3人が先頭で歩き、その後を米国政府首脳（その中にはジョンソン新大統領も含まれた）、そして各国首脳が距離にしておよそ2キロメートルの行程を歩き、セント・マシュー大聖堂に到着した。教会で告別のミサが行われ、セント・マシュー大聖堂の階段下で葬列が出発する際に、ケネディ大統領の長男であった当時3歳の[ジョン・フィッツジェラルド・ケネディ・ジュニア](../Page/ジョン・フィッツジェラルド・ケネディ・ジュニア.md "wikilink")が目前で砲車に載せられて曵かれゆく父の棺に対し挙手の敬礼をした\[115\]。棺は埋葬のために葬送のドラムの音とともに[アーリントン国立墓地](../Page/アーリントン国立墓地.md "wikilink")に向かった。墓地で埋葬式が行われ、3台の礼砲が21発の轟音を放ち、礼装の兵士たちがそれぞれ3発の銃声を響かせ、陸軍軍曹が葬送ラッパを吹き、その悲しみの音が暮色のアーリントンの丘に吸い込まれた。そして永遠の炎にジャクリーン、ロバート、エドワードが松明で点火し、棺を覆っていた国旗がジャクリーンに手渡されて葬儀は静かに終わった。
 
 ## スキャンダル
 
@@ -776,8 +776,8 @@
 
   - [JFKII The Bush Connection - Complete Documentary](http://topdocumentaryfilms.com/jfk-ii-the-bush-connection/)
   - [Wikiquote英語版 John F. Kennedy](http://en.wikiquote.org/wiki/John_F._Kennedy)
-  - [Biography of John F. Kennedy](http://www.usa-presidents.info/kennedy.htm)
-  - [Inaugural Address](http://avalon.law.yale.edu/20th_century/kennedy.asp)
+  - [Biography of John F. Kennedy](https://www.usa-presidents.info/kennedy.htm)
+  - [Inaugural Address](https://avalon.law.yale.edu/20th_century/kennedy.asp)
   - [Medical History](http://www.doctorzebra.com/prez/t35.htm)
   - [Assassination of President Kennedy Encyclopaedia](http://www.spartacus.schoolnet.co.uk/JFKindex.htm)
   - [The Academic JFK Assassination Web Site](http://karws.gso.uri.edu/JFK/JFK.html)

@@ -508,7 +508,7 @@ Stuff:ポータブルアイテム</p></td>
 <tr class="even">
 <td><p><a href="../Page/フロム・ソフトウェア.md" title="wikilink">フロム・ソフトウェア</a></p></td>
 <td><p>ドットニア城</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/3Dドットゲームヒーローズ" title="wikilink">3Dドットゲームヒーローズ</a>』の舞台「ドットニア城」をイメージした2階建てラウンジ。当然のことながら全てドットで作られている。城内の人と話せるほか、3Dドットゲームヒーローズをプレーした人しかもらえないリワードがもらえるゲームに挑戦できる。また、製作協力したアイレムの「洞窟探検家が集う場所」へ行けるワープもある。ちなみにラウンジ内では<a href="https://ja.wikipedia.org/wiki/ドラゴンクエストV" title="wikilink">どっちを嫁にするかで非常に迷うゲームのパロディも存在する</a>。</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/3Dドットゲームヒーローズ" title="wikilink">3Dドットゲームヒーローズ</a>』の舞台「ドットニア城」をイメージした2階建てラウンジ。当然のことながら全てドットで作られている。城内の人と話せるほか、3Dドットゲームヒーローズをプレーした人しかもらえないリワードがもらえるゲームに挑戦できる。また、製作協力したアイレムの「洞窟探検家が集う場所」へ行けるワープもある。ちなみにラウンジ内では<a href="../Page/ドラゴンクエストV_天空の花嫁.md" title="wikilink">どっちを嫁にするかで非常に迷うゲームのパロディも存在する</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mass_Media_Inc." title="wikilink">Mass Media Games</a></p></td>

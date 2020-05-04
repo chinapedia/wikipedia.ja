@@ -46,7 +46,7 @@
 | [Team UKYO](../Page/TeamUKYO.md "wikilink")                                                        | 東京都渋谷区   |
 | [Hincapie LEOMO Bellmare Racing Team](https://ja.wikipedia.org/wiki/リオモ・ベルマーレ・レーシングチーム "wikilink") | 神奈川県平塚市  |
 | [フィッツグルーン 日本ロボティクス](https://ja.wikipedia.org/wiki/フィッツグルーン_日本ロボティクス "wikilink")                    | 神奈川県横浜市  |
-| [那須ブラーゼン](https://ja.wikipedia.org/wiki/那須ブラーゼン "wikilink")                                        | 栃木県那須郡   |
+| [那須ブラーゼン](https://ja.wikipedia.org/wiki/那須ブラーゼン "wikilink")                                        | 栃木県那須塩原市 |
 | [VC FUKUOKA](https://ja.wikipedia.org/wiki/VC_FUKUOKA "wikilink")                                  | 福岡県福岡市   |
 | [レバンテフジ静岡](https://ja.wikipedia.org/wiki/レバンテフジ静岡 "wikilink")                                      | 静岡県富士市   |
 | [eNShareサイクリングチーム](https://ja.wikipedia.org/wiki/eNShareサイクリングチーム "wikilink")                      | 宮城県仙台市   |

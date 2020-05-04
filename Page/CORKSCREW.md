@@ -1,7 +1,7 @@
 > この記事は[CORKSCREW](https://ja.wikipedia.org/wiki/CORKSCREW)から翻訳されています。
 
 
-『**CORKSCREW**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー6作目のスタジオ[アルバム](../Page/アルバム.md "wikilink")。
+『**CORKSCREW**』 (コークスクリュー) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[黒夢](../Page/黒夢.md "wikilink")のメジャー6作目のスタジオ[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 概要
 

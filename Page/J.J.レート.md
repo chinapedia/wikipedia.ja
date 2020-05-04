@@ -185,8 +185,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <small>5</small></p></td>
 <td><p><a href="../Page/ブガッティ・サーキット.md" title="wikilink">BUG</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="../Page/ディジョン・プレノワ・サーキット.md" title="wikilink">DIJ</a><br />
-<small></small></p></td>
+<td><p><a href="../Page/ディジョン・プレノワ・サーキット.md" title="wikilink">DIJ</a></p></td>
 <td><p>14位</p></td>
 <td><p>6</p></td>
 </tr>
@@ -478,29 +477,6 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -623,28 +599,17 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="../Page/トムス.md" title="wikilink">トヨタ チーム トムス</a></p></td>
 <td><p><a href="../Page/トヨタ・スープラ_LM-GT.md" title="wikilink">トヨタ・スープラ LM-GT</a></p></td>
 <td><p>GT1</p></td>
-<td><p><a href="../Page/ヘレス・サーキット.md" title="wikilink">JER</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オートドローム・ド・モンスレリ" title="wikilink">PAR</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a><br />
-<small></small></p></td>
+<td><p><a href="../Page/ヘレス・サーキット.md" title="wikilink">JER</a></p></td>
+<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a></p></td>
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a></p></td>
+<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オートドローム・ド・モンスレリ" title="wikilink">PAR</a></p></td>
+<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/珠海市街地コース" title="wikilink">ZHU</a><br />
 <small>Ret</small></p></td>
 <td><p>NC</p></td>
@@ -655,26 +620,17 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="https://ja.wikipedia.org/wiki/ガルフ・レーシング_GTC" title="wikilink">ガルフ・レーシング GTC</a></p></td>
 <td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1</a>-GTR</p></td>
 <td><p>GT1</p></td>
-<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a><br />
-<small></small></p></td>
+<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a></p></td>
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a></p></td>
+<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
+<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a></p></td>
 <td><p><strong><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></strong><br />
 <small>1</small></p></td>
-<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRA</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a><br />
-<small></small></p></td>
+<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRA</a></p></td>
+<td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/珠海国際サーキット" title="wikilink">ZHU</a><br />
 <small>3</small></p></td>
 <td></td>
@@ -779,10 +735,8 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p>LMP</p></td>
 <td><p><strong><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></strong><br />
 <small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">ATL</a><br />
-<small></small></p></td>
-<td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
-<small></small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アトランタ" title="wikilink">ATL</a></p></td>
+<td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a></p></td>
 <td><p><strong><em><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a></em></strong><br />
 <small>1</small></p></td>
 <td><p><strong><em><a href="https://ja.wikipedia.org/wiki/ポートランド・インターナショナル・レースウェイ" title="wikilink">POR</a></em></strong><br />
@@ -888,16 +842,11 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p>LMP900</p></td>
 <td><p><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a><br />
 <small>9</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MDO</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">ROA</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RFKスタジアム市街地コース" title="wikilink">WAS</a><br />
-<small></small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルクィート・トロワ・リヴィエール" title="wikilink">TRO</a><br />
-<small></small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インフィニオン・レースウェイ" title="wikilink">SNM</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ミッドオハイオ・スポーツカーコース" title="wikilink">MDO</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロード・アメリカ" title="wikilink">ROA</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RFKスタジアム市街地コース" title="wikilink">WAS</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シルクィート・トロワ・リヴィエール" title="wikilink">TRO</a></p></td>
 <td><p><a href="../Page/カナディアンタイヤ・モスポート・パーク.md" title="wikilink">MOS</a><br />
 <small>3</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マツダ・レースウェイ・ラグナ・セカ" title="wikilink">LGA</a><br />
@@ -1012,7 +961,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <th><p>年</p></th>
 <th><p>チーム</p></th>
 <th><p>コ・ドライバー</p></th>
-<th><p>車</p></th>
+<th><p>使用車両</p></th>
 <th><p>クラス</p></th>
 <th><p>周回</p></th>
 <th><p>総合順位</p></th>
@@ -1245,25 +1194,35 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年のドイツツーリングカー選手権" title="wikilink">1995年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヨースト・レーシング" title="wikilink">オペル・チーム・ヨースト</a></p></td>
 <td><p><a href="../Page/オペル・カリブラ.md" title="wikilink">オペル・カリブラ V6 4x4</a></p></td>
-<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG1</a><br />
+<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG<br />
+1</a><br />
 <small>11</small></p></td>
-<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG2</a><br />
+<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG<br />
+2</a><br />
 <small>8</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL<br />
+1</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL<br />
+2</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON1</a><br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
+1</a><br />
 <small>11</small></p></td>
-<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON2</a><br />
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON<br />
+2</a><br />
 <small>11</small></p></td>
-<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST1</a><br />
+<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST<br />
+1</a><br />
 <small>11</small></p></td>
-<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST2</a><br />
+<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST<br />
+2</a><br />
 <small>11</small></p></td>
-<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG1</a><br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG<br />
+1</a><br />
 <small>8</small></p></td>
-<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG2</a><br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG<br />
+2</a><br />
 <small>5</small></p></td>
 <td></td>
 <td></td>
@@ -1286,57 +1245,83 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1996年の国際ツーリングカー選手権" title="wikilink">1996年</a></p></td>
-<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC1</a><br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC<br />
+1</a><br />
 <small>15</small></p></td>
-<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC2</a><br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC<br />
+2</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR<br />
+1</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR<br />
+2</a><br />
 <small>2</small></p></td>
-<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST1</a><br />
+<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST<br />
+1</a><br />
 <small>6</small></p></td>
-<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST2</a><br />
+<td><p><a href="../Page/エストリル・サーキット.md" title="wikilink">EST<br />
+2</a><br />
 <small>DNS</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL<br />
+1</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL<br />
+2</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノリスリンク" title="wikilink">NOR1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ノリスリンク" title="wikilink">NOR<br />
+1</a><br />
 <small>4</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノリスリンク" title="wikilink">NOR2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ノリスリンク" title="wikilink">NOR<br />
+2</a><br />
 <small>3</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープホルツ" title="wikilink">DIE1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ディープホルツ" title="wikilink">DIE<br />
+1</a><br />
 <small>7</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープホルツ" title="wikilink">DIE2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ディープホルツ" title="wikilink">DIE<br />
+2</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">SIL1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">SIL<br />
+1</a><br />
 <small>5</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">SIL2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/シルバーストーン・サーキット" title="wikilink">SIL<br />
+2</a><br />
 <small>2</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR1</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR<br />
+1</a><br />
 <small>7</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR2</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR<br />
+2</a><br />
 <small>5</small></p></td>
-<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG1</a><br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG<br />
+1</a><br />
 <small>5</small></p></td>
-<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG2</a><br />
+<td><p><a href="../Page/マニクール・サーキット.md" title="wikilink">MAG<br />
+2</a><br />
 <small>3</small></p></td>
-<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG1</a><br />
+<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG<br />
+1</a><br />
 <small>9</small></p></td>
-<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG2</a><br />
+<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG<br />
+2</a><br />
 <small>15</small></p></td>
-<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC1</a><br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC<br />
+1</a><br />
 <small>5</small></p></td>
-<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC2</a><br />
+<td><p><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC<br />
+2</a><br />
 <small>8</small></p></td>
-<td><p><a href="../Page/インテルラゴス・サーキット.md" title="wikilink">SAO1</a><br />
+<td><p><a href="../Page/インテルラゴス・サーキット.md" title="wikilink">SAO<br />
+1</a><br />
 <small>6</small></p></td>
-<td><p><a href="../Page/インテルラゴス・サーキット.md" title="wikilink">SAO2</a><br />
+<td><p><a href="../Page/インテルラゴス・サーキット.md" title="wikilink">SAO<br />
+2</a><br />
 <small>9</small></p></td>
-<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ1</a><br />
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ<br />
+1</a><br />
 <small>Ret</small></p></td>
-<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ2</a><br />
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ<br />
+2</a><br />
 <small>8</small></p></td>
 <td><p>5位</p></td>
 <td><p>148</p></td>

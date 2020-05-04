@@ -35,4 +35,4 @@
 1.  2006年4月20日 初版発行 ISBN 4-88653-475-9
 2.  2006年4月20日 初版発行 ISBN 4-88653-476-7
 
-[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:ビジネスジャンプ](https://ja.wikipedia.org/wiki/Category:ビジネスジャンプ "wikilink") [Category:女子野球を題材とした作品](https://ja.wikipedia.org/wiki/Category:女子野球を題材とした作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink")
+[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:ビジネスジャンプ](https://ja.wikipedia.org/wiki/Category:ビジネスジャンプ "wikilink") [Category:女子野球を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:女子野球を題材とした漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink")

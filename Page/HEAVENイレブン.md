@@ -1,7 +1,7 @@
 > この記事は[HEAVENイレブン](https://ja.wikipedia.org/wiki/HEAVENイレブン)から翻訳されています。
 
 
-『**HEAVENイレブン**』（ヘブンイレブン）は、[大和田秀樹](../Page/大和田秀樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サッカー漫画作品](https://ja.wikipedia.org/wiki/スポーツ漫画#サッカー漫画 "wikilink")。『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて、2002年10月号から2005年4月号まで連載されていた。単行本は[秋田書店](../Page/秋田書店.md "wikilink")（チャンピオンREDコミックス）刊、全5巻。
+『**HEAVENイレブン**』（ヘブンイレブン）は、[大和田秀樹](../Page/大和田秀樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サッカー漫画作品](https://ja.wikipedia.org/wiki/スポーツ漫画#サッカー漫画 "wikilink")。『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて、2002年10月号から2005年4月号まで連載されていた。単行本は秋田書店（チャンピオンREDコミックス）刊、全5巻。
 
 ## 概要
 
@@ -73,6 +73,18 @@
     鬼灯高校サッカー部監督
     大学得点王、元日本代表DFと輝かしい過去があるが足の怪我で挫折。戦略機械の異名をとっていた。
     道覇神社の第五十四代宮司でもある。
+
+## 書誌情報
+
+チャンピオンREDコミックス〈秋田書店〉全5巻
+
+\*\# ISBN 4-253-23083-0
+
+\*\# ISBN 4-253-23084-9
+
+\*\# ISBN 4-253-23085-7
+
+\*\# ISBN 4-253-23086-5
 
 ## 外部リンク
 

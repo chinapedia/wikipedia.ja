@@ -40,7 +40,7 @@
 ## 主な子会社
 
   - [株式会社シーエーシー](http://www.cac.co.jp/)
-  - [株式会社CACオルビス](https://ja.wikipedia.org/wiki/CACオルビス "wikilink")
+  - [株式会社CACオルビス](../Page/CACオルビス.md "wikilink")
   - [株式会社きざしカンパニー](https://ja.wikipedia.org/wiki/kizasi "wikilink")
   - [株式会社アークシステム](http://www.arksystems.co.jp/)
   - [株式会社シーエーシーナレッジ](http://www.cac-k.jp/)

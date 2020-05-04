@@ -939,7 +939,7 @@
 
 <!-- end list -->
 
-  - [赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")
+  - [赤穂線](../Page/赤穂線.md "wikilink")
 
 <!-- end list -->
 

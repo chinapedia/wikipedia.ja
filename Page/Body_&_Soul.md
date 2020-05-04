@@ -17,7 +17,7 @@
 1.  **Body & Soul**
       -
         作詞・作曲：伊秩弘将
-        [日清シスコ](../Page/日清シスコ.md "wikilink")「シスコーン」[CMソングに起用され](../Page/コマーシャルソング.md "wikilink")、彼女達にとって初のCM出演となった。
+        [日清シスコ](../Page/日清シスコ.md "wikilink")「シスコーン」[CMソングに起用され](../Page/コマーシャルソング.md "wikilink")、初シングルにして初のCM出演であった。
         [PVは](../Page/ミュージック・ビデオ.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で撮影された。撮影監督は前嶋輝。音楽番組向けPVもあり、そちらでは遊園地でのロケであった。
         お笑い芸人の[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")としても使用されることが多く、[芋洗坂係長](https://ja.wikipedia.org/wiki/芋洗坂係長 "wikilink")、[ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")、[少年少女等が例としてある](../Page/少年少女_\(お笑いコンビ\).md "wikilink")。
         2008年の3度目の再結成、完全復活後、初のシングル「[あしたの空](https://ja.wikipedia.org/wiki/あしたの空 "wikilink")」の3曲目に「White Love～STEADY～Body & Soul 2008」として[メドレー](../Page/メドレー.md "wikilink")で収録された。

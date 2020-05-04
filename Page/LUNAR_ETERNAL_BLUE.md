@@ -1,13 +1,13 @@
 > この記事は[LUNAR ETERNAL BLUE](https://ja.wikipedia.org/wiki/LUNAR_ETERNAL_BLUE)から翻訳されています。
 
 
-『**LUNAR エターナルブルー**』（ルナ エターナルブルー）は、[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")より発売された[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")（RPG）。
+『**LUNAR エターナルブルー**』（ルナ エターナルブルー）は、[1994年](../Page/1994年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に日本の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")から発売された[メガCD](../Page/メガCD.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
 
-## 概要
+同社の『[LUNAR](https://ja.wikipedia.org/wiki/LUNAR "wikilink")シリーズ』（[1992年](../Page/1992年.md "wikilink") - [2005年](../Page/2005年.md "wikilink")）の第2作である。魔法世界ルナを舞台に主人公のヒイロを操作し、少女ルーシアがアルテナ神団に捕らわれる事を阻止するのが目的。メガCD末期に登場した作品であり、発売時には「MEGA-CD最後の超大作」とのキャッチコピーが打たれた。また、日本国内発売版のみシングルCD（おまけドラマ+歌）が同梱されていた。
 
-セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）のハード[メガCD](../Page/メガCD.md "wikilink")末期に登場した作品で、[LUNAR](https://ja.wikipedia.org/wiki/LUNAR "wikilink")シリーズの第2作である。発売時、「MEGA-CD最後の超大作」とのキャッチコピーが打たれた。[1994年](../Page/1994年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にメガCD用（以下MCD版）ソフトとして発売された。価格は9800円。そののち、[リメイク](../Page/リメイク.md "wikilink")としてセガサターン版（以下SS版）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")にCD2枚組、6800円で発売された。その際、「LUNAR 2」とナンバリングがされている。さらにのちに、プレイステーション版（以下PS版）が[1999年](../Page/1999年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に発売。CD3枚組で6800円。PS版はSS版にはなかった各種追加要素が存在する。
+後に[リメイク](../Page/リメイク.md "wikilink")作品として[セガサターン](../Page/セガサターン.md "wikilink")版（以下SS版）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")にCD2枚組発売され、「LUNAR 2」とナンバリングが施された。さらに後に、[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")（以下PS版）が[1999年](../Page/1999年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")にCD3枚組で発売。PS版はSS版にはなかった各種追加要素が存在する。その後、[2015年](../Page/2015年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")には[PSアーカイブスとしてPS版が配信された](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。
 
-## ゲームの特徴・システム
+## ゲーム内容
 
 前作『[LUNAR ザ・シルバースター](../Page/LUNAR_ザ・シルバースター.md "wikilink")』のシステムをほぼ踏襲している。人と会話をして情報を集め、戦闘で経験値と所持金を増やし、冒険をしていくオーソドックスなRPGである。戦闘システムは射程距離や移動距離など、「長さ」の概念を搭載し、戦略的な戦闘が出来るようになっている。
 
@@ -105,7 +105,84 @@
     あくの強い性格であり、レミーナとは犬猿の仲。しかし、恩義のあるミリアを敬愛して丁重に接するなど、性根からの極悪人というわけではない。
     外伝的小説である『レミーナただいま修行中\!』では魔法力が生まれつき欠如した体質であり、魔法使いとしての素質が全くなかった彼に研究者としての生き方を示してくれたことからミリアを敬愛するようになった経緯が記されている。また先物取引の才に優れていることも記されており、魔法使いたちの引き抜き資金などはこれで稼いだようだ。
 
-## MCD版、リメイク版、それぞれの違い
+## 他機種版
+
+### 一覧
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+<th><p>Ref.</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>ルナ2 エターナルブルー</p></td>
+<td></td>
+<td><p><a href="../Page/セガサターン.md" title="wikilink">セガサターン</a></p></td>
+<td><p>ゲームアーツ<br />
+ヴァンガード</p></td>
+<td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a><br />
+<a href="../Page/ESP_(ゲーム会社).md" title="wikilink">ESP</a></p></td>
+<td><p>CD-ROM2枚組</p></td>
+<td><p>T-27906G</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>ルナ2 エターナルブルー</p></td>
+<td></td>
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a></p></td>
+<td><p>ゲームアーツ</p></td>
+<td><p>角川書店</p></td>
+<td><p>CD-ROM3枚組</p></td>
+<td><p>SLPS-02081～3</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>Kadokawa The Best<br />
+ルナ2 エターナルブルー</p></td>
+<td></td>
+<td><p>PlayStation</p></td>
+<td><p>ゲームアーツ</p></td>
+<td><p>角川書店</p></td>
+<td><p>CD-ROM3枚組</p></td>
+<td><p>SLPS-02966～8</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>ルナ2 エターナルブルー</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
+<a href="https://ja.wikipedia.org/wiki/PlayStation_Vita" title="wikilink">PlayStation Vita</a></p></td>
+<td><p>ゲームアーツ</p></td>
+<td><p>ゲームアーツ</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+（<a href="https://ja.wikipedia.org/wiki/ゲームアーカイブス" title="wikilink">PSアーカイブス</a>）</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>[1][2][3]</p></td>
+</tr>
+</tbody>
+</table>
+
+### MCD版、リメイク版、それぞれの違い
 
 リメイク版はMCD版と比べてアニメーションのデジタル化と追加、シナリオの修正などが行われているが、話の大筋は変わっていない。大まかな変更点は以下の通り。
 
@@ -128,13 +205,11 @@
   - 隠しダンジョン（勇者の迷宮・夢幻の回廊）とそこにしか出現しない敵、およびそこでしか手に入らないレアアイテムの追加
   - 第2部エンディング（真エンディング）の青き星とルナの周囲に彗星が現れる
 
-## ラインナップ
+## 音楽
 
-  - LUNAR エターナルブルー （[1994年](../Page/1994年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")（日本）、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（北米）、ゲームアーツ（日本）、 Working Designs（北米）、メガCD、9800円）※日本国内発売版のみシングルCD（おまけドラマ+歌）同梱
-  - LUNAR2 エターナルブルー （1998年[7月23日](../Page/7月23日.md "wikilink")、角川書店、セガサターン、6800円）※ディスク2枚組
-  - LUNAR2 エターナルブルー （1999年[5月27日](../Page/5月27日.md "wikilink")、角川書店、プレイステーション、6800円）※ディスク3枚組
+  - テーマソング
 
-## テーマソング
+<!-- end list -->
 
   - 「光と影の輪舞」
       - 歌：横山智佐
@@ -155,10 +230,71 @@
       - 歌：西原久美子
       - 作詞：ドン・マッコウ/作曲：岩垂徳行/編曲：岩垂徳行
 
+## スタッフ
+
+  - ディレクター、プログラム・ディレクター：小山洋幸
+  - 原作、シナリオ・ディレクター：[重馬敬](https://ja.wikipedia.org/wiki/重馬敬 "wikilink")
+  - グラフィック・ディレクター：安住政敏
+  - システム・プログラム、チーフ・プログラマー：KUMA（本間直純）
+  - メイン・シナリオ：火野峻志
+  - ビジュアル・ディレクター、サウンド・スーパーバイザー、スクリーンプレイ：赤司俊雄（[企画デザイン工房戦船](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")）
+  - デザイン・ワークス：佐藤肇
+  - 音楽ディレクター：[溝口功](https://ja.wikipedia.org/wiki/溝口功 "wikilink")（ツーファイブ）
+  - インターフェイス、バトル・デザイン、マジックFX、モンスター・コーディネーション：島田政幸
+  - バトル・プログラム：MIKEY（いちかわまさお）
+  - バトル、ダンジョン・コーディネーション、チーフ・エディター：DADDY（おおくぼひろあつ）
+  - アシスタント：おかわらよしやす、わたなべけいすけ、はしもとみつる
+  - マップ・コンストラクション、シナリオ・プログラム：原田修、上條有
+  - シナリオ：重馬敬、かわはらなおこ、はすかわりょうしろう
+  - キャラクター・デモ・プログラム：岡部博明、EDDIE（工藤直樹）
+  - イメージ・ボード：佐藤肇、[前田真宏](../Page/前田真宏_\(アニメ監督\).md "wikilink")、[拔山敏弘](https://ja.wikipedia.org/wiki/拔山敏弘 "wikilink")
+  - グラフィック：安住政敏、和田めい子、河野満、菅谷一輝、すずきごう（ヴァンガード）、やまざきとおる（ヴァンガード）、やまぐちあつし (JAM)、さくらだなおこ (JAM)、いとうまさのり (JAM)、水野忠夫
+  - フィールド・デザイン：小林貞夫
+  - モンスター・グラフィック・デザイン：横田幸次
+  - マネージメント：松岡誠、たがわしげひろ
+  - 主要アニメーション：窪岡俊之、小曽根正美、つかもとあつし、[大倉雅彦](https://ja.wikipedia.org/wiki/大倉雅彦 "wikilink")、[竹内敦志](https://ja.wikipedia.org/wiki/竹内敦志 "wikilink")、高橋勇治、米田宏、井上英二、にしだまさあき、拔山敏弘、[斎藤潤一郎](https://ja.wikipedia.org/wiki/斎藤潤一郎 "wikilink")
+  - アニメーション・セカンド・ユニット：番場進、押木賢、吉田聡士、鈴木康弘、[スタジオディーン](../Page/スタジオディーン.md "wikilink")
+  - オープニング、エンディング・アニメーション・エディター：藤田真哉
+  - デモ・アニメーション・チーフ・エディター：池谷昌彦
+  - デモ・アニメーション・プログラム：小山洋幸、金井秀樹
+  - アニメーション・グラフィック、ペインティング：早川真吾、鈴木一哉、いけだいさむ、もちづきりさ、平松孝行、人見直行、BELL、三輪恵美（ビッツラボラトリー）、小山匡彦
+  - 原譜、日本語詞：[岩垂徳行](../Page/岩垂徳行.md "wikilink")（ツーファイブ）、溝口功（ツーファイブ）
+  - 編曲：[大熊謙一](../Page/大熊謙一.md "wikilink")（ツーファイブ）
+  - サウンド・エンジニア、チーフ・エンジニア：上條有
+  - エンジニア：西隆宏、松田明男
+  - スーパーバイザー：石井一豊
+  - エグゼクティブ・プロデューサー、ゼネラル・ディレクター：[宮路洋一](https://ja.wikipedia.org/wiki/宮路洋一 "wikilink")
+
+## 評価
+
+:\*ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、7・5・6・6の合計24点（満40点）\[4\]、『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、25.4点（満30点）となっている\[5\]。
+
+  -
+    {|class="wikitable" style="font-size:85%; text-align:center; width:50%"
+
+|- \! 項目 | キャラクタ || 音楽 || お買得度 || 操作性 || 熱中度 || オリジナリティ \! 総合 |- \! 得点 | 4.5 || 4.5 || 4.0 || 4.0 || 4.5 || 3.9 \! 25.4 |}
+
+:\*ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「アニメがあまりに美しい」とアニメーションに関して絶賛した他、登場キャラクターが美少女ばかりであると指摘した上で「ハーレム気分が味わえるのもポイント」と肯定的に評価した\[6\]。
+
+## 脚注
+
 ## 外部リンク
 
   - [ゲームアーツ](http://www.gamearts.co.jp/)
+
   - [LUNAR-NET](http://www.lunar-net.com/)
+
   - [PlayStation公式サイト LUNAR2 ETERNAL BLUE（ゲームアーカイブス版）](http://www.jp.playstation.com/software/title/jp0184npjj00717_000000000000000001.html)
 
-[Category:LUNARシリーズ](https://ja.wikipedia.org/wiki/Category:LUNARシリーズ "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink") [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:ドラゴン・竜を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴン・竜を題材としたコンピュータゲーム "wikilink") [Category:転生を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:転生を題材としたコンピュータゲーム "wikilink")
+  - （英語）
+
+  - （英語）
+
+[Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:LUNARシリーズ](https://ja.wikipedia.org/wiki/Category:LUNARシリーズ "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:転生を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:転生を題材としたコンピュータゲーム "wikilink") [Category:ドラゴン・竜を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴン・竜を題材としたコンピュータゲーム "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

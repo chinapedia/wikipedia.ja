@@ -5,7 +5,7 @@
 
 ## 概要
 
-[月曜日](../Page/月曜日.md "wikilink")～[木曜日](../Page/木曜日.md "wikilink")まで放送されている｢[BEAT COASTER](../Page/BEAT_COASTER.md "wikilink")｣（DJ:[島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")）の金曜版。2004年9月まで放送されていた情報番組・｢イブニング・クルーズ～ポート・スクエア｣の後を受ける形で開始したもので、前番組同様、[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")にある[COZMIX](https://ja.wikipedia.org/wiki/COZMIX "wikilink")ビル1F[ポートスクエア](https://ja.wikipedia.org/wiki/ポートスクエア "wikilink")からの公開放送で始まった。オール[リクエスト番組](../Page/リクエスト番組.md "wikilink")で、選曲は、ほぼ[リスナー](../Page/リスナー.md "wikilink")からのリクエストによるもの。基本的に選曲の規制がないため、[ジャニーズ](../Page/ジャニーズ.md "wikilink")などのアイドルグループの曲もかかっている。また、当番組では音楽のみならずアートや漫画・アニメなどのサブカルチャー情報を多く取り扱っていた。
+[月曜日](../Page/月曜日.md "wikilink")～[木曜日](../Page/木曜日.md "wikilink")まで放送されている｢[BEAT COASTER](../Page/BEAT_COASTER.md "wikilink")｣（DJ:[島村仁](../Page/島村仁.md "wikilink")）の金曜版。2004年9月まで放送されていた情報番組・｢イブニング・クルーズ～ポート・スクエア｣の後を受ける形で開始したもので、前番組同様、[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")にある[COZMIX](https://ja.wikipedia.org/wiki/COZMIX "wikilink")ビル1F[ポートスクエア](https://ja.wikipedia.org/wiki/ポートスクエア "wikilink")からの公開放送で始まった。オール[リクエスト番組](../Page/リクエスト番組.md "wikilink")で、選曲は、ほぼ[リスナー](../Page/リスナー.md "wikilink")からのリクエストによるもの。基本的に選曲の規制がないため、[ジャニーズ](../Page/ジャニーズ.md "wikilink")などのアイドルグループの曲もかかっている。また、当番組では音楽のみならずアートや漫画・アニメなどのサブカルチャー情報を多く取り扱っていた。
 
 番組当初は16:00-19:00までの放送であったが、「カローラ・スターレジデンス」終了に伴い、2006年1月から20:00までに放送枠が拡大した。また、これに伴って、全編ポートスクエアからの公開放送だったのが、18:00-20:00に変更となった。[2007年](../Page/2007年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")公開放送の時間が、16:00-18:00に変わり、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")に終了した。
 

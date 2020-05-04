@@ -3,7 +3,7 @@
 
 『**Lの世界**』（エルのせかい、原題：*The L Word* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")と[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")が共同制作した[テレビドラマ](../Page/テレビドラマ.md "wikilink")（[海外ドラマ](../Page/海外ドラマ.md "wikilink")）シリーズ。[2004年](../Page/2004年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")にかけて、アメリカの[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局[Showtime](../Page/Showtime.md "wikilink")にて全70話（全6シーズン）が放送された。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[FOXライフ](../Page/FOXライフ.md "wikilink")にて[2006年](../Page/2006年.md "wikilink")1月から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にかけて放送\[1\]。また、[LaLa TVでも](../Page/LaLa_TV.md "wikilink")[2012年](../Page/2012年.md "wikilink")11月から放送が開始された。[2020年](../Page/2020年.md "wikilink")2月から同年11月まで、[ビデオオンデマンド](https://ja.wikipedia.org/wiki/ビデオオンデマンド "wikilink")サイトの[U-NEXT](https://ja.wikipedia.org/wiki/U-NEXT "wikilink")でも配信されている。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[FOXライフ](../Page/FOXライフ.md "wikilink")にて[2006年](../Page/2006年.md "wikilink")1月から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にかけて放送\[1\]。また、[LaLa TVでも](../Page/LaLa_TV.md "wikilink")[2012年](../Page/2012年.md "wikilink")11月から放送が開始された。[2020年](../Page/2020年.md "wikilink")2月から同年11月まで、[ビデオオンデマンド](https://ja.wikipedia.org/wiki/ビデオオンデマンド "wikilink")サイトの[U-NEXT](https://ja.wikipedia.org/wiki/U-NEXT "wikilink")でも全シーズンが日本語字幕付きで配信されている。
 
 [2019年](../Page/2019年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")から、本作の続編にあたるテレビドラマ『*[The L Word: Generation Q](https://ja.wikipedia.org/wiki/:en:_The_L_Word:_Generation_Q "wikilink")*』がShowtimeにて放送開始\[2\]\[3\]。
 
@@ -13,7 +13,7 @@
 
 米[Showtime](../Page/Showtime.md "wikilink")で初めて本格的にレズビアンをメインにしたドラマ作品であり、[カミングアウト](../Page/カミングアウト.md "wikilink")、[同性婚](https://ja.wikipedia.org/wiki/同性婚 "wikilink")、[養子縁組](https://ja.wikipedia.org/wiki/養子縁組 "wikilink")、[性転換](../Page/性転換.md "wikilink")、[乳癌](../Page/乳癌.md "wikilink")など実社会でも起こり得るリアルなテーマを扱っている\[5\]。アメリカで[2004年](../Page/2004年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで全6シーズンが放送され、[2006年](../Page/2006年.md "wikilink")には[GLAADメディア賞](https://ja.wikipedia.org/wiki/GLAADメディア賞 "wikilink")最優秀ドラマシリーズ作品賞、[2009年](../Page/2009年.md "wikilink")には同賞の審査員特別賞を受賞。[エミー賞](../Page/エミー賞.md "wikilink")や[サテライト賞](https://ja.wikipedia.org/wiki/サテライト賞 "wikilink")にもノミネートされるなど高い評価を得た\[6\]。アメリカや[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")、[イスラエル](../Page/イスラエル.md "wikilink")などの約50か国で放送され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[FOXライフ](../Page/FOXライフ.md "wikilink")や[LaLa TVで放送された](../Page/LaLa_TV.md "wikilink")。
 
-本作の構想は、自身もレズビアンであるによるものである。チェイケンが初めて制作会社に企画を持ち込んだのは[1999年](../Page/1999年.md "wikilink")であった。1年後、『[クィア・アズ・フォーク](../Page/クィア・アズ・フォーク.md "wikilink")』といった[ゲイ](../Page/ゲイ.md "wikilink")ドラマが高視聴率を取り始めていたため、本作の製作が開始。ロサンゼルスの[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")がベースであり、内容のほとんどは実話を基にしている。なお、脚本家の10人中9人がレズビアンである\[7\]。
+本作の構想は、自身もレズビアンであるによるものである。チェイケンが初めて制作会社に企画を持ち込んだのは[1999年](../Page/1999年.md "wikilink")であった。1年後、『[クィア・アズ・フォーク](../Page/クィア・アズ・フォーク.md "wikilink")』といった[ゲイ](../Page/ゲイ.md "wikilink")ドラマが高視聴率を取り始めていたため、本作の製作が開始。ロサンゼルスの[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")がベースであり、内容の大半は実話を基にしている。なお、脚本家の10人中9人がレズビアンであり\[7\]、[ベルリン国際映画祭](../Page/第44回ベルリン国際映画祭.md "wikilink")[テディ賞](https://ja.wikipedia.org/wiki/テディ賞 "wikilink")受賞映画『[GO fish](../Page/GO_fish.md "wikilink")』監督・脚本の[ローズ・トローシュ](https://ja.wikipedia.org/wiki/ローズ・トローシュ "wikilink")や、同作で共同脚本・主演を務めた[グィネヴィア・ターナー](../Page/グィネヴィア・ターナー.md "wikilink")、[同映画祭で](../Page/第54回ベルリン国際映画祭.md "wikilink")[Siegessäule読者賞を獲得した映画](https://ja.wikipedia.org/wiki/テディ賞_#カテゴリー "wikilink")『[恋のミニスカウエポン](../Page/恋のミニスカウエポン.md "wikilink")』監督・脚本の[アンジェラ・ロビンソン](https://ja.wikipedia.org/wiki/アンジェラ・ロビンソン "wikilink")など、[クィア](../Page/クィア.md "wikilink")映像作品界において著名なクリエイターが監督・脚本・プロデューサーとして多数参加している。
 
 シーズン1に登場する世界最大のレズビアン・パーティー「[ダイナ・ショア・ウィークエンド](https://ja.wikipedia.org/wiki/ダイナ・ショア・ウィークエンド "wikilink")」（年に一度、アメリカ・[パームスプリングスで行われるイベント](../Page/パームスプリングス_\(カリフォルニア州\).md "wikilink")）に、2006年度は過去最高の1万人以上の女性が世界各国から集まった\[8\]。
 
@@ -25,7 +25,7 @@
 
 ### シーズン1
 
-大学を卒業した新進[作家](../Page/作家.md "wikilink")のジェニーは、恋人・ティムが住む[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[ウェスト・ハリウッド](https://ja.wikipedia.org/wiki/ウェスト・ハリウッド "wikilink")に引っ越し、同棲を始める。人口の3分の1が[セクシャルマイノリティ](https://ja.wikipedia.org/wiki/セクシャルマイノリティ "wikilink")であるウェスト・ハリウッドでは[LGBT](https://ja.wikipedia.org/wiki/LGBT "wikilink")は珍しくなく、ティムの隣家にもベットとティナという女性同士のカップルが暮らしていた。美術館の[アートディレクター](../Page/アートディレクター.md "wikilink")を務めるベットと映画会社で働くティナは交際歴7年の恋人であり、子どもをもつために精子[ドナー](https://ja.wikipedia.org/wiki/ドナー "wikilink")を探しているという。ある日、ベットとティナ主催のパーティーにジェニーとティムも招待され、ジェニーはそこでカフェ「プラネット」のオーナーであるマリーナという女性に出会う。文学好きという共通点も手伝い、次第に距離を縮めていく2人。
+[シカゴ大学](../Page/シカゴ大学.md "wikilink")を卒業した新進[作家](../Page/作家.md "wikilink")のジェニーは、恋人・ティムが住む[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[ウェスト・ハリウッド](https://ja.wikipedia.org/wiki/ウェスト・ハリウッド "wikilink")に引っ越し、同棲を始める。人口の3分の1が[セクシャルマイノリティ](https://ja.wikipedia.org/wiki/セクシャルマイノリティ "wikilink")であるウェスト・ハリウッドでは[LGBT](https://ja.wikipedia.org/wiki/LGBT "wikilink")は珍しくなく、ティムの隣家にもベットとティナという女性同士のカップルが暮らしていた。美術館の[アートディレクター](../Page/アートディレクター.md "wikilink")を務めるベットと映画会社で働くティナは交際歴7年の恋人であり、子どもをもつために精子[ドナー](https://ja.wikipedia.org/wiki/ドナー "wikilink")を探しているという。ある日、ベットとティナ主催のパーティーにジェニーとティムも招待され、ジェニーはそこでカフェ「プラネット」のオーナーであるマリーナという女性に出会う。文学好きという共通点も手伝い、次第に距離を縮めていく2人。
 
 プラネットは、ベットとティナの仲間たちが集っては近況を語り合う溜まり場でもあった。中性的なルックスで様々な女性と浮き名を流す美容師のシェーン、[バイセクシャル](https://ja.wikipedia.org/wiki/バイセクシャル "wikilink")の[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")でお喋り好きなアリス、[レズビアン](../Page/レズビアン.md "wikilink")であることを公表できずにいる恋に奥手なプロテニスプレーヤー・デイナ。当初は環境の変化に戸惑っていたジェニーだが、個性的な彼女たちと交流するにつれてLAでの生活に活路を見出す。
 
@@ -242,7 +242,7 @@
     演 - [ジェシカ・キャプショー](https://ja.wikipedia.org/wiki/ジェシカ・キャプショー "wikilink")
   - シャーロット・バーチ（Charlotte Birch）
     演 - [サンドラ・バーンハード](https://ja.wikipedia.org/wiki/サンドラ・バーンハード "wikilink")
-  - ハンター・カービィ（Hunter Kirby）
+  - ハンター・カービー（Hunter Kirby）
     演 - [クリス・マーティン](../Page/クリス・マーティン.md "wikilink")
   - ハリソン・スコット（Harrison Scott）
     演 - [ランディ・キャノン](https://ja.wikipedia.org/wiki/ランディ・キャノン "wikilink")
@@ -256,7 +256,7 @@
     演 - [デヴォン・ガマーソール](https://ja.wikipedia.org/wiki/デヴォン・ガマーソール "wikilink")
   - ビリー・ブレイキー（Billie Blaikie）
     演 - [アラン・カミング](../Page/アラン・カミング.md "wikilink")
-    ステイシー・マーキン（Stacey Merkin）
+  - ステイシー・マーキン（Stacey Merkin）
     演 - [ヘザー・マタラッツォ](../Page/ヘザー・マタラッツォ.md "wikilink")
   - ベロニカ・ブルーム（Veronica Bloom）
     演 - [カムリン・マンハイム](../Page/カムリン・マンハイム.md "wikilink")
@@ -267,7 +267,7 @@
   - ダスティ（Dusty）
     演 - [ルシア・ライカ](../Page/ルシア・ライカ.md "wikilink")
   - ガブリエル・マッカチョン（Gabriel McCutcheon）
-    演 - [エリック･ロバーツ](https://ja.wikipedia.org/wiki/エリック･ロバーツ "wikilink"))
+    演 - [エリック･ロバーツ](https://ja.wikipedia.org/wiki/エリック･ロバーツ "wikilink")
   - レオナルド・クロール（Leonard Kroll）
     演 - [ブルース・デイヴィソン](../Page/ブルース・デイヴィソン.md "wikilink")
 
@@ -286,6 +286,8 @@
 原題は『**The L Word**』（**ジ・エル・ワード**）。この「**L**」とは "Lesbian" （レズビアン）や"Love"（愛）の頭文字である。『Lの世界』という邦題は、The **L** Word → The Wor**L**dと転化したものとされる。
 
 ## エピソード
+
+<onlyinclude>{| class="wikitable plainrowheaders" style="text-align:center;" |+ 『Lの世界』の全シーズン |- \! scope="col" colspan="2" rowspan="2" style="padding:0 8px;"|シーズン \! scope="col" rowspan="2" style="padding:0 8px;"| 話数 \! scope="col" colspan="2" style="padding:0 8px;"| アメリカ放送日 |- \! scope="col" style="padding:0 8px;"| シーズン初回 \! scope="col" style="padding:0 8px;"| シーズン最終回 |- | style="background: \#A52929;"| \! scope="row" style="text-align:center;"| [1](https://ja.wikipedia.org/wiki/Lの世界のエピソード一覧_#シーズン1（2004年） "wikilink") | style="text-align:center; padding:0 8px;"| 13 | style="padding: 0 8px;"|  | style="padding: 0 8px;"|  |- | style="background: \#292FA5"| \! scope="row" style="text-align:center;"|[2](https://ja.wikipedia.org/wiki/Lの世界のエピソード一覧_#シーズン2（2005年） "wikilink") | style="text-align:center; padding:0 8px;"| 13 | style="padding: 0 8px;"|  | style="padding: 0 8px;"|  |- | style="background: \#356420;"| \! scope="row" style="text-align:center;"| [3](https://ja.wikipedia.org/wiki/Lの世界のエピソード一覧_#シーズン3（2006年） "wikilink") | style="text-align:center; padding:0 8px;"| 12 | style="padding: 0 8px;"|  | style="padding: 0 8px;"|  |- | style="background: \#EC740C;"| \! scope="row" style="text-align:center;"| [4](https://ja.wikipedia.org/wiki/Lの世界のエピソード一覧_#シーズン4（2007年） "wikilink") | style="text-align:center; padding:0 8px;"| 12 | style="padding: 0 8px;"|  | style="padding: 0 8px;"|  |- | style="background: \#693FA2;"| \! scope="row" style="text-align:center;"| [5](https://ja.wikipedia.org/wiki/Lの世界のエピソード一覧_#シーズン5（2008年） "wikilink") | style="text-align:center; padding:0 8px;"| 12 | style="padding: 0 8px;"|  | style="padding: 0 8px;"|  |- | style="background: \#295F71;"| \! scope="row" style="text-align:center;"| [6](https://ja.wikipedia.org/wiki/Lの世界のエピソード一覧_#シーズン6（2009年） "wikilink") | style="text-align:center; padding:0 8px;"| 8 | style="padding: 0 8px;"|  | style="padding: 0 8px;"|  |}</onlyinclude>
 
 ## 用語
 
@@ -564,7 +566,9 @@
 </tbody>
 </table>
 
-## DVD
+## 関連商品
+
+### DVD
 
   - シーズン1 - 『vol.1』：2008年2月2日／『DVDコレクターズBOX』（6枚組）：2008年3月7日
   - シーズン2 - 『シーズン2 DVDコレクターズBOX』（7枚組）：2008年4月4日
@@ -576,19 +580,28 @@
 
 ※DVD発売キャンペーンソングは、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")のシングル「cocoon」のカップリング曲「u」。2008年2月2日にレンタル開始。映画『[あるスキャンダルの覚え書き](https://ja.wikipedia.org/wiki/あるスキャンダルについての覚え書き#映画 "wikilink")』のレンタル版DVD特典に『Lの世界』の第1話が特別収録されている。
 
+### 書籍
+
+  - The L Word: Welcome to Our Planet（アメリカ：2006年3月7日、Touchstone） ISBN 978-0-7432-9133-0 ※公式ガイドブック
+  - The L Word BOOK（アメリカ：2010年2月16日） ISBN 978-1-4507-0518-9 ※[ジェニファー・ビールス](../Page/ジェニファー・ビールス.md "wikilink")撮影によるオフショット写真集\[16\]
+
+### ゲーム
+
+  - The L Word Board Game（アメリカ：2008年10月8日、Gamaka） ※[ボードゲーム](../Page/ボードゲーム.md "wikilink")
+
 ## 関連番組
 
 ### 未放送のスピンオフドラマ
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月、[Showtime](../Page/Showtime.md "wikilink")の[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")であるマシュー・ブランクは、『Lの世界』のエグゼクティブプロデューサーであるの発案により、女子[刑務所](../Page/刑務所.md "wikilink")を舞台にした『Lの世界』の[スピンオフ](../Page/スピンオフ.md "wikilink")ドラマの[パイロット版](../Page/パイロット版.md "wikilink")を撮影することを発表した。『*The Farm*』と名付けられたこのシリーズは、[ファムケ・ヤンセン](../Page/ファムケ・ヤンセン.md "wikilink")、[メリッサ・レオ](https://ja.wikipedia.org/wiki/メリッサ・レオ "wikilink")、[ローリー・メトカーフ](https://ja.wikipedia.org/wiki/ローリー・メトカーフ "wikilink")を主演に据え、2008年12月にパイロットエピソードを撮影\[16\]。しかし、[2009年](../Page/2009年.md "wikilink")4月にShowtimeは『*The Farm*』のシリーズ制作を取り止め、企画は実現に至らなかった\[17\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月、[Showtime](../Page/Showtime.md "wikilink")の[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")であるマシュー・ブランクは、『Lの世界』のエグゼクティブプロデューサーであるの発案により、女子[刑務所](../Page/刑務所.md "wikilink")を舞台にした『Lの世界』の[スピンオフ](../Page/スピンオフ.md "wikilink")ドラマの[パイロット版](../Page/パイロット版.md "wikilink")を撮影することを発表した。『*The Farm*』と名付けられたこのシリーズは、[ファムケ・ヤンセン](../Page/ファムケ・ヤンセン.md "wikilink")、[メリッサ・レオ](https://ja.wikipedia.org/wiki/メリッサ・レオ "wikilink")、[ローリー・メトカーフ](https://ja.wikipedia.org/wiki/ローリー・メトカーフ "wikilink")を主演に据え、2008年12月にパイロットエピソードを撮影\[17\]。しかし、[2009年](../Page/2009年.md "wikilink")4月にShowtimeは『*The Farm*』のシリーズ制作を取り止め、企画は実現に至らなかった\[18\]。
 
 ### *The Real L Word*
 
-アイリーン・チェイケンが制作した『**』は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")までShowtimeにて放送された[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")である。全27回（全3シーズン）。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")や[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")の[ブルックリン区](../Page/ブルックリン区.md "wikilink")に住む、実在する[同性愛者](https://ja.wikipedia.org/wiki/同性愛者 "wikilink")の女性たちのコミュニティの私生活に焦点を当てている\[18\]。
+アイリーン・チェイケンが制作した『**』は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")までShowtimeにて放送された[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")である。全27回（全3シーズン）。[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")や[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")の[ブルックリン区](../Page/ブルックリン区.md "wikilink")に住む、実在する[同性愛者](https://ja.wikipedia.org/wiki/同性愛者 "wikilink")の女性たちのコミュニティの私生活に焦点を当てている\[19\]。
 
 ### *L Word Mississippi: Hate the Si*
 
-監督、チェイケン制作の『*L Word Mississippi: Hate the Si*』は、[2014年](../Page/2014年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")にShowtimeにて放送された[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")である\[19\]。[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")に住む、実在する[LGBT](https://ja.wikipedia.org/wiki/LGBT "wikilink")の女性たちのコミュニティに焦点を当てた作品であり、[2015年](../Page/2015年.md "wikilink")に[GLAADメディア賞](https://ja.wikipedia.org/wiki/GLAADメディア賞 "wikilink")最優秀ドキュメンタリー作品賞を受賞した\[20\]。
+監督、チェイケン制作の『*L Word Mississippi: Hate the Si*』は、[2014年](../Page/2014年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")にShowtimeにて放送された[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")である\[20\]。[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")に住む、実在する[LGBT](https://ja.wikipedia.org/wiki/LGBT "wikilink")の女性たちのコミュニティに焦点を当てた作品であり、[2015年](../Page/2015年.md "wikilink")に[GLAADメディア賞](https://ja.wikipedia.org/wiki/GLAADメディア賞 "wikilink")最優秀ドキュメンタリー作品賞を受賞した\[21\]。
 
 ## 脚注
 
@@ -627,3 +640,4 @@
 18.
 19.
 20.
+21.

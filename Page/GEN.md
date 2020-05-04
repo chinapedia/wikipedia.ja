@@ -9,7 +9,11 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にビクターインビテーション（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）からシングル『バラ色の人生』を発売しメジャーデビュー。以後ビクターからは[1992年](../Page/1992年.md "wikilink")の解散までにシングル5枚、アルバム3枚をリリース。
 
-ボーカルの源学は解散後間もなくしてソロデビュー、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からはアーティスト名を**Gen**に改め、ソロ活動の他、[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")・[2丁拳銃](../Page/2丁拳銃.md "wikilink")のシングル曲のプロデュースなど楽曲提供、CM曲などの音楽製作も行う。現在は出身地の[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")に戻り、実家の[保育園](https://ja.wikipedia.org/wiki/保育園 "wikilink")で園長となり子ども達に歌を歌うなどする傍ら、音楽活動を続けている。最近では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に、[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のキャラクター「[石川さん](https://ja.wikipedia.org/wiki/石川テレビ放送#石川さん "wikilink")」のテーマ曲として発表された「[石川サンバ](https://ja.wikipedia.org/wiki/石川サンバ "wikilink")」の作曲を担当したり、自身の新バンド「Gen & Smiley's\!」のリーダーとしても活躍している。同バンドは、[2011年](../Page/2011年.md "wikilink")7月30、31両日に行われた石川テレビ主催の「石川さんカーニバル」にも連日出演し、最終日のステージではトリをつとめた。[2012年](../Page/2012年.md "wikilink")10月からHONDA N-ONEのナレーションを担当している。2018年6月20日、11年ぶりの2枚組アルバム「Singin' and Smilin'」を発売。
+ボーカルの源学は解散後間もなくしてソロデビュー、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からはアーティスト名を**Gen**に改め、ソロ活動の他、[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")・[2丁拳銃](../Page/2丁拳銃.md "wikilink")のシングル曲のプロデュースなど楽曲提供、CM曲などの音楽制作も行う。1999年にSMEJ Associated Records（ソニー・ミュージックアソシエイテッドレコーズ**）**移籍。カーディガンズなどのプロデューサーで有名なスウェーデンの重鎮、トーレ・ヨハンソンとのコラボレーションで、10/21シングル「群青の日々」、2000年、1/21に2ndシングル「きみの声」、3/8アルバム「ultra marine」を発表する。
+
+現在は出身地の[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")に戻り、実家の[保育園](https://ja.wikipedia.org/wiki/保育園 "wikilink")で園長となり子ども達に歌を歌うなどする傍ら、アーティスト活動の他、他アーティストへの楽曲提供、CMソング制作や映画音楽（金沢シャッターガール）、アレンジなども幅広く行っている。
+
+音楽活動を続けている。最近では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に、[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）のキャラクター「[石川さん](https://ja.wikipedia.org/wiki/石川テレビ放送#石川さん "wikilink")」のテーマ曲として発表された「[石川サンバ](https://ja.wikipedia.org/wiki/石川サンバ "wikilink")」の作曲を担当したり、自身の新バンド「Gen & Smiley's\!」のリーダーとしても活躍している。同バンドは、[2011年](../Page/2011年.md "wikilink")7月30、31両日に行われた石川テレビ主催の「石川さんカーニバル」にも連日出演し、最終日のステージではトリをつとめた。[2012年](../Page/2012年.md "wikilink")10月からHONDA N-ONEのナレーションを担当している。2018年6月20日、11年ぶりの2枚組アルバム「Singin' and Smilin'」を発売。
 
 2013年11月1日に下北沢CLUB251で行われた「Gen & Beautiful Boys」にソロのGENとしてだけでなくオリジナルメンバーの4人のGENとしても出演。\[1\]
 

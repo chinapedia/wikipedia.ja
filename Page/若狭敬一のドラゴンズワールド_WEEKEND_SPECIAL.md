@@ -67,4 +67,4 @@
   - [久野誠のドラゴンズワールド](../Page/久野誠のドラゴンズワールド.md "wikilink")
   - [CBCドラゴンズナイター](../Page/CBCドラゴンズナイター.md "wikilink")
 
-[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
+[Category:CBCラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの番組の歴史 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:中日ドラゴンズ](https://ja.wikipedia.org/wiki/Category:中日ドラゴンズ "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

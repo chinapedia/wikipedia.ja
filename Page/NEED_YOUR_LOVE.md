@@ -86,7 +86,7 @@
 9.  **Ultimate G.V**
       -
         作詞：伴都美子　作曲：D・A・I　編曲：D・A・I & Seiji Kameda
-        「G.V」とは。
+        「G.V」とは伴曰く「Girls Voice」の略。
         [ミズノ](../Page/ミズノ.md "wikilink")・スーパースター [北川悦吏子](../Page/北川悦吏子.md "wikilink")脚本WEBムービー主題歌。
 10. **Need your love**
       -
@@ -97,9 +97,9 @@
       -
         作詞：川村サイコ　作曲：D・A・I　編曲：D・A・I & Seiji Kameda
         [ロッテ](../Page/ロッテ.md "wikilink")『フレッシュミストガム』[CMソング](../Page/コマーシャルソング.md "wikilink")。
-12. *初回限定Bonus track*：**[柊](../Page/柊_\(Do_As_Infinityの曲\).md "wikilink") -acoustic ver.-**
+12. **[柊](../Page/柊_\(Do_As_Infinityの曲\).md "wikilink") -acoustic ver.-**
       -
-        Tシャツ付き初回限定生産盤、及び初回盤CD・初回盤CD+DVDのみに収録された[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")。[2003年](../Page/2003年.md "wikilink")発表の17枚目のシングルタイトル曲の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョン。ボーカルも新録されている。
+        Tシャツ付き初回限定生産盤及びCD・CD+DVDの初回生産分のみに収録された[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")。[2003年](../Page/2003年.md "wikilink")発表の17枚目のシングルタイトル曲の[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョン。ボーカルも新録されている。
 
 ### DVD Side
 

@@ -1,7 +1,7 @@
 > この記事は[YOUNG MAN \(Y.M.C.A.\)](https://ja.wikipedia.org/wiki/YOUNG_MAN_\(Y.M.C.A.\))から翻訳されています。
 
 
-「**YOUNG MAN (Y.M.C.A.)**」（ヤングマン ワイ・エム・シー・エー）は、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の楽曲で、[1979年](../Page/1979年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")にリリースされた28枚目のシングルである。
+「**YOUNG MAN (Y.M.C.A.)**」（ヤングマン ワイ・エム・シー・エー）は、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の楽曲で、[1979年](../Page/1979年.md "wikilink")（昭和54年）[2月21日](../Page/2月21日.md "wikilink")にリリースされた28枚目のシングルである。
 
 ## 解説
 

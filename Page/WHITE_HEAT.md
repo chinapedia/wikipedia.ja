@@ -38,6 +38,5 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオンによる紹介ページ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200400002723&DSP_SKHKETSEQ=001)
-
+  -
 [Category:yozuca\*の楽曲](https://ja.wikipedia.org/wiki/Category:yozuca*の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:キャラクターソング](https://ja.wikipedia.org/wiki/Category:キャラクターソング "wikilink") [Category:楽曲_ほ](https://ja.wikipedia.org/wiki/Category:楽曲_ほ "wikilink")

@@ -7,7 +7,7 @@
 
 ### 東亜相互企業
 
-[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")「[東声会](https://ja.wikipedia.org/wiki/東声会 "wikilink")」のトップとして知られ、レジャー開発などを手がける「[東亜相互企業](https://ja.wikipedia.org/wiki/東亜相互企業 "wikilink")」も経営する、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")人（[在日韓国人](../Page/在日韓国・朝鮮人.md "wikilink")）の鄭建永（[通名](../Page/通名.md "wikilink")は[町井久之](../Page/町井久之.md "wikilink")）により、[1966年](../Page/1966年.md "wikilink")に完成し町井の自宅がおかれていた「[東亜マンション](https://ja.wikipedia.org/wiki/トーア・マンション "wikilink")」と同じ敷地内に「現代人の憩いと対話の場所を実現するため」として建設され、[1973年](../Page/1973年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")にオープンした。
+[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")「[東声会](../Page/東亜会.md "wikilink")」のトップとして知られ、レジャー開発などを手がける「[東亜相互企業](https://ja.wikipedia.org/wiki/東亜相互企業 "wikilink")」も経営する、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")人（[在日韓国人](../Page/在日韓国・朝鮮人.md "wikilink")）の鄭建永（[通名](../Page/通名.md "wikilink")は[町井久之](../Page/町井久之.md "wikilink")）により、[1966年](../Page/1966年.md "wikilink")に完成し町井の自宅がおかれていた「[東亜マンション](https://ja.wikipedia.org/wiki/トーア・マンション "wikilink")」と同じ敷地内に「現代人の憩いと対話の場所を実現するため」として建設され、[1973年](../Page/1973年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")にオープンした。
 
 建設資金は、東亜相互企業が[韓国外換銀行](https://ja.wikipedia.org/wiki/韓国外換銀行 "wikilink")の支払い保証約60億円の信用保証を受け、日本不動産銀行（後の[日本債券信用銀行](../Page/日本債券信用銀行.md "wikilink")、現在の[あおぞら銀行](../Page/あおぞら銀行.md "wikilink")）より約54億の借款を受けることにより調達した（その内の21億円が建設関連費に回され、33億円を那須高原・白河高原の総合開発事業につぎ込んだ）が、最終的に建設費は建設会社に払われないままであったと伝えられている。
 

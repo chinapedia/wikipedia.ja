@@ -69,6 +69,6 @@
 
 ## 外部リンク
 
-  - [ピクロスDS](http://www.nintendo.co.jp/ds/axpj/index.html)
+  - [ピクロスDS](https://www.nintendo.co.jp/ds/axpj/)
 
 [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:ピクロスシリーズ](https://ja.wikipedia.org/wiki/Category:ピクロスシリーズ "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink")

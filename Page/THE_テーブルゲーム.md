@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - [囲碁](../Page/囲碁.md "wikilink")
-  - [リバーシ](../Page/オセロ_\(遊戯\).md "wikilink")
+  - [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")
   - [五目ならべ](https://ja.wikipedia.org/wiki/五目ならべ "wikilink")
 
 ## THE テーブルゲーム世界編〜チェス・バックギャモン・ダイヤモンド・軍人将棋 etc〜
@@ -70,7 +70,7 @@
 
 <!-- end list -->
 
-  - [リバーシ](../Page/オセロ_\(遊戯\).md "wikilink")
+  - [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")
 
 ## 関連項目
 

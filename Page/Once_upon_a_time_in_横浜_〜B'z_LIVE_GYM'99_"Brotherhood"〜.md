@@ -3,7 +3,7 @@
 
 『**once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜**』（ワンス・アポン・ア・タイム・イン・よこはま・ビーズ・ライブジム・ナインティナイン・ブラザーフッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")が、[2000年](../Page/2000年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")にリリースした6作目の映像作品（[VHS](../Page/VHS.md "wikilink")としては6作目、[DVD](../Page/DVD.md "wikilink")としては4作目）。
 
-DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」発売時に他の3作品と共に同時リリースされた。
+DVDはシングル『[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")』発売時に他の3作品と共に同時リリースされた。
 
 ## メンバー
 
@@ -28,7 +28,7 @@ DVDはシングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wiki
 
 1999年8月28日・29日に[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")（現・日産スタジアム）で行われた「B'z LIVE-GYM '99 "Brotherhood"」の模様を収録。このライブは大掛かりな演出を極力排除し、バンド演奏に重点を置いたツアーだった。この年の8月6日に2002FIFAワールドカップ日韓大会の決勝戦会場として正式決定した上に、当会場における音楽イベントの初開催となったことで大きな話題となった。また、このライブの後半から大雨が降りだし「B'zの野外ライブ=雨」という図式はこのときから始まった。
 
-元々この作品は過去のライブ映像の中からファン投票により選曲された「ベストライブビデオ」として発売する予定で、前作『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』に同封された葉書にて「もう一度みたいライブツアー・楽曲」というアンケートを行われた。しかし、そのアンケート投票結果を見たところ「もう一度見たいツアー」において「"Brotherhood"ツアーを見たい」という希望が集中したため、"Brotherhood"ツアー横浜公演のライブビデオという形でリリースされることとなった。また、アンケートで「もう一度見たい楽曲」で第1位となった「[スイマーよ\!\!](../Page/SURVIVE.md "wikilink")」がボーナストラックとして収録された\[1\]。
+元々この作品は過去のライブ映像の中からファン投票により選曲された「ベストライブビデオ」として発売する予定で、前作『[The true meaning of "Brotherhood"?](../Page/The_true_meaning_of_"Brotherhood"?.md "wikilink")』に同封された葉書にて「もう一度みたいライブツアー・楽曲」というアンケートを行われた。しかし、そのアンケート投票結果を見たところ「もう一度見たいツアー」において「"Brotherhood"ツアーを見たい」という希望が集中したため、"Brotherhood"ツアー横浜公演のライブビデオという形でリリースされることとなった。また、アンケートで「もう一度見たい楽曲」で第1位となった「[スイマーよ\!\!](../Page/SURVIVE.md "wikilink")」が[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録された\[1\]。
 
 アルバムツアーが映像化されたのは今作が初めてであり、過去の映像作品とは異なりドキュメントシーン等の挿入はなく基本的にライブ映像で構成されている。未収録は松本ソロの「[THE CHANGING](../Page/THE_CHANGING.md "wikilink")」。MCのほとんどがカットされており\[2\]、楽曲「Brotherhood」のライブ映像がエンディングのエンドロールとしてセピア映像に加工されて収録されている\[3\]。
 

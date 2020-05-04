@@ -1,13 +1,13 @@
 > この記事は[フェルナンデス・ZO-3](https://ja.wikipedia.org/wiki/フェルナンデス・ZO-3)から翻訳されています。
 
 
-**ZO-3**（ゾーサン）は[フェルナンデス社から発売されている](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink")[アンプ](../Page/アンプ_\(楽器用\).md "wikilink")・[スピーカー](../Page/スピーカー.md "wikilink")内蔵小型[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。名前の由来はデザインが[ぞうさんのような形をしている事からである](../Page/ゾウ.md "wikilink")。
+**ZO-3（ZO SERIES）**（ゾーサン）は[フェルナンデス社から発売されている](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink")[アンプ](../Page/アンプ_\(楽器用\).md "wikilink")・[スピーカー](../Page/スピーカー.md "wikilink")内蔵小型[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、ベースのシリーズ。名前の由来はデザインが[象さんのような形をしている事からである](../Page/ゾウ.md "wikilink")。
 
 [1989年](../Page/1989年.md "wikilink")に開発、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に販売開始。宴会など持ち運びに便利なように、独特な小型デザインや子供でも楽々持てるくらい軽量である事に加え、[ウルトラマン](../Page/ウルトラマン.md "wikilink")、[ハローキティ](../Page/ハローキティ.md "wikilink")など様々なキャラクターモデルを発表した事で人気を博し、シリーズ累計で35万頭以上の売上げを記録している。
 
-ベースギターの**PIE-ZO**（ピエゾー）、[トレモロユニット](https://ja.wikipedia.org/wiki/トレモロユニット "wikilink")を搭載した**芸達者**、[マルチエフェクターを搭載した](../Page/エフェクター.md "wikilink")**DIGI-ZO**（デジゾー）、[7弦ギター](https://ja.wikipedia.org/wiki/7弦ギター "wikilink")や[テルミン](../Page/テルミン.md "wikilink")を搭載したものなど、幅広いバリエーションを持つ。
+ベースギターの*'ZO-3 BASS(旧称PIE-ZOピエゾー) **、[トレモロユニット](https://ja.wikipedia.org/wiki/トレモロユニット "wikilink")を搭載した**芸達者**、[マルチエフェクターを搭載した](../Page/エフェクター.md "wikilink")**DIGI-ZO*'（デジゾー）、[7弦ギター](https://ja.wikipedia.org/wiki/7弦ギター "wikilink")や[テルミン](../Page/テルミン.md "wikilink")を搭載したものなど、幅広いバリエーションを持つ。
 
-電源として電池を内部にセットする。本体のみでも鳴らすことは可能であるが、出力ジャックからシールドを介しアンプに接続して鳴らす事も可能である。ヘッドフォン用ミニジャックが付いているのでヘッドフォンでモニタリングする事も可能である。
+電源として電池を内部にセットして、ギター本体のみで鳴らすことが可能。出力ジャックからシールドを介しアンプに接続して鳴らす事も可能である。ヘッドフォン用ミニジャックが付いているのでヘッドフォンでモニタリングする事も可能である。
 
 スケール長は[フェンダーの](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ムスタングや](../Page/フェンダー・ムスタング.md "wikilink")[ジャガーなどと同等の](../Page/フェンダー・ジャガー.md "wikilink")609mmショートスケールで、交換用の[弦として](../Page/弦_\(楽器\).md "wikilink")、通常のギター弦より長さの短いZO-3専用弦も発売されている。
 
@@ -46,6 +46,7 @@
 
 ## 外部リンク
 
-  - [フェルナンデス紹介ページ](http://www.fernandes.co.jp/products/zo.html)
+  - [フェルナンデスZO SERIES紹介ページ](http://www.fernandes.co.jp/products/zo.html)
+  - [FERNANDES(アメリカ)Nomad](http://www.fernandesguitars.com/products/guitars/nomad.html)
 
 [Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink")

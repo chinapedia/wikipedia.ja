@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立UHF局</a></p></td>
 <td><p>木曜 24:10 - 24:40 （2007年10月4日 - 2011年3月31日）</p></td>
 <td><p>テレビ大阪の6日遅れ</p></td>

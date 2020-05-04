@@ -42,7 +42,7 @@
 
 ## その他
 
-  - [NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")と[民放](../Page/民間放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")は、[NHK亀田ラジオ放送所](../Page/NHK亀田ラジオ放送所.md "wikilink")・[HBC函館ラジオ送信所](../Page/HBC函館ラジオ送信所.md "wikilink")・[STV函館ラジオ送信所](https://ja.wikipedia.org/wiki/STV函館ラジオ送信所 "wikilink")からの電波を受信している。又、場所によっては、[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")や[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[NHK秋田放送局](../Page/NHK秋田放送局.md "wikilink")のラジオ第2放送の放送が受信出来る場合もある。
+  - [NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")と[民放](../Page/民間放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")は、[NHK亀田ラジオ放送所](../Page/NHK亀田ラジオ放送所.md "wikilink")・[HBC函館ラジオ送信所](../Page/HBC函館ラジオ送信所.md "wikilink")・[STV函館ラジオ送信所](../Page/STV函館ラジオ送信所.md "wikilink")からの電波を受信している。又、場所によっては、[NHK青森放送局](../Page/NHK青森放送局.md "wikilink")や[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[NHK秋田放送局](../Page/NHK秋田放送局.md "wikilink")のラジオ第2放送の放送が受信出来る場合もある。
   - なお、テレビとFMの中継局については、[松前中継局](../Page/松前中継局.md "wikilink")を参照の事。
 
 ## 脚注

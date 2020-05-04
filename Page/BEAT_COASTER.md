@@ -1,7 +1,7 @@
 > この記事は[BEAT COASTER](https://ja.wikipedia.org/wiki/BEAT_COASTER)から翻訳されています。
 
 
-**BEAT COASTER**（ビート・コースター）は、月曜～木曜 16:00～20:00に[FM PORTでシティサイドスタジオにて](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJは](https://ja.wikipedia.org/wiki/ディスク・ジョッキー "wikilink")[島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")が担当。
+**BEAT COASTER**（ビート・コースター）は、月曜～木曜 16:00～20:00に[FM PORTでシティサイドスタジオにて](../Page/新潟県民エフエム放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[DJは](https://ja.wikipedia.org/wiki/ディスク・ジョッキー "wikilink")[島村仁](../Page/島村仁.md "wikilink")が担当。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## パーソナリティ
 
-  - [島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")
+  - [島村仁](../Page/島村仁.md "wikilink")
 
 ## 番組構成・タイムテーブル
 

@@ -15,7 +15,7 @@
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")は[明治](../Page/明治.md "wikilink")時代に[大韓帝国](../Page/大韓帝国.md "wikilink")（旧韓国）と結んだ「日韓併合条約第10条\[4\]」を理由に[朝鮮半島](../Page/朝鮮半島.md "wikilink")を結ぶ南北鉄道「[京義線](../Page/京義線.md "wikilink")」の利権を簒奪しようと画策し、韓国政府に圧力をかける。南北統一を目指していた韓国大統領（[アン・ソンギ](https://ja.wikipedia.org/wiki/アン・ソンギ "wikilink")）は反発するが、国家の安定と[経済発展](../Page/経済発展.md "wikilink")を優先し現在の[韓日関係を維持したい](https://ja.wikipedia.org/wiki/日朝関係史 "wikilink")[総理と対立する](../Page/国務総理_\(大韓民国\).md "wikilink")。
 
-そんな中、カルチャーセンターを転々としていた歴史学者チェ・ミンジェ（[チョ・ジェヒョン](https://ja.wikipedia.org/wiki/チョ・ジェヒョン "wikilink")）は、京義線における契約書に押された[国璽](../Page/国璽.md "wikilink")は偽物である事に気付き、[高宗皇帝](https://ja.wikipedia.org/wiki/高宗_\(朝鮮王\) "wikilink")（[キム・サンジュン](https://ja.wikipedia.org/wiki/キム・サンジュン "wikilink")）がどこかへ隠した事実を掴む。本物の国璽を発見、大統領のもとへ届けようとするが、チェ・ミンジェは拉致され国璽は壊されてしまう。国璽を奪ったのは日本しかいないと考えた大統領は、日本[大使館](../Page/大使館.md "wikilink")を[警察の部隊により包囲させる](../Page/大韓民国の警察.md "wikilink")。この事態に対し、[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")は[日本海](../Page/日本海.md "wikilink")へ[イージス艦](../Page/イージス艦.md "wikilink")や[空母を有する](../Page/航空母艦.md "wikilink")[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[自衛艦隊](https://ja.wikipedia.org/wiki/自衛艦隊 "wikilink")\[5\]を派遣し、[韓国海軍との武力衝突寸前のにらみ合いが発生してしまう](../Page/大韓民国海軍.md "wikilink")。
+そんな中、カルチャーセンターを転々としていた歴史学者チェ・ミンジェ（[チョ・ジェヒョン](../Page/チョ・ジェヒョン.md "wikilink")）は、京義線における契約書に押された[国璽](../Page/国璽.md "wikilink")は偽物である事に気付き、[高宗皇帝](https://ja.wikipedia.org/wiki/高宗_\(朝鮮王\) "wikilink")（[キム・サンジュン](https://ja.wikipedia.org/wiki/キム・サンジュン "wikilink")）がどこかへ隠した事実を掴む。本物の国璽を発見、大統領のもとへ届けようとするが、チェ・ミンジェは拉致され国璽は壊されてしまう。国璽を奪ったのは日本しかいないと考えた大統領は、日本[大使館](../Page/大使館.md "wikilink")を[警察の部隊により包囲させる](../Page/大韓民国の警察.md "wikilink")。この事態に対し、[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")は[日本海](../Page/日本海.md "wikilink")へ[イージス艦](../Page/イージス艦.md "wikilink")や[空母を有する](../Page/航空母艦.md "wikilink")[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[自衛艦隊](https://ja.wikipedia.org/wiki/自衛艦隊 "wikilink")\[5\]を派遣し、[韓国海軍との武力衝突寸前のにらみ合いが発生してしまう](../Page/大韓民国海軍.md "wikilink")。
 
 開戦を覚悟する大統領だったが、大統領に見切りを付けた総理（[ムン・ソングン](https://ja.wikipedia.org/wiki/ムン・ソングン "wikilink")）により毒を盛られ、意識不明の重体となる。すべては、日本や[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")との経済的な断絶は、韓国を北朝鮮のように悲惨な状況に至らしめると考える総理の手によるものだった。
 
@@ -24,7 +24,7 @@
 ## キャスト
 
   - 韓国大統領：[アン・ソンギ](https://ja.wikipedia.org/wiki/アン・ソンギ "wikilink")
-  - チェ・ミンジェ：[チョ・ジェヒョン](https://ja.wikipedia.org/wiki/チョ・ジェヒョン "wikilink")
+  - チェ・ミンジェ：[チョ・ジェヒョン](../Page/チョ・ジェヒョン.md "wikilink")
   - 総理：[ムン・ソングン](https://ja.wikipedia.org/wiki/ムン・ソングン "wikilink")
   - イ・サンヒョン：[チャ・インピョ](https://ja.wikipedia.org/wiki/チャ・インピョ "wikilink")
   - キム・ユシク：[カン・シニル](https://ja.wikipedia.org/wiki/カン・シニル "wikilink")

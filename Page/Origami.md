@@ -7,19 +7,19 @@
 
 ## 沿革
 
-[2012年](../Page/2012年.md "wikilink")2月22日、会社設立。[2013年](../Page/2013年.md "wikilink")4月23日、[ECプラットフォーム](../Page/電子商取引.md "wikilink")「Origami」のサービスを開始する。[BEAMSや](../Page/ビームス.md "wikilink")[UNDERCOVERなどのアパレルブランドを中心に](https://ja.wikipedia.org/wiki/UNDERCOVER_\(ブランド\) "wikilink")、[森美術館](../Page/森美術館.md "wikilink")、[蔦屋書店](https://ja.wikipedia.org/wiki/蔦屋書店 "wikilink")なども提携して、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")で検索した商品を1タップで購入できる[通信販売](../Page/通信販売.md "wikilink")サービスを提供した。\[2\]
+[2012年](../Page/2012年.md "wikilink")2月22日、会社設立。[2013年](../Page/2013年.md "wikilink")4月23日、[ECプラットフォーム](../Page/電子商取引.md "wikilink")「Origami」のサービスを開始する。[BEAMSや](../Page/ビームス.md "wikilink")[UNDERCOVERなどのアパレルブランドを中心に](https://ja.wikipedia.org/wiki/UNDERCOVER_\(ブランド\) "wikilink")、[森美術館](../Page/森美術館.md "wikilink")、[蔦屋書店](https://ja.wikipedia.org/wiki/蔦屋書店 "wikilink")なども提携して、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")で検索した商品を1タップで購入できる[通信販売](../Page/通信販売.md "wikilink")サービスを提供した\[2\]。
 
 [2015年](../Page/2015年.md "wikilink")10月、店頭決済サービスの[ベータ版](../Page/ベータ版.md "wikilink")である「Origami決済」の提供を開始する。
 
-[2016年](../Page/2016年.md "wikilink")5月、「Origami Pay」の名称で正式にサービス開始した。\[3\]当初は[Bluetooth](../Page/Bluetooth.md "wikilink")を使用した方式であったが\[4\]、2017年2月より[QRコード決済](https://ja.wikipedia.org/wiki/QRコード決済 "wikilink")を使用した方式に改められた。\[5\]
+[2016年](../Page/2016年.md "wikilink")5月、「Origami Pay」の名称で正式にサービス開始した。\[3\]当初は[Bluetooth](../Page/Bluetooth.md "wikilink")を使用した方式であったが\[4\]、2017年2月より[QRコード決済](https://ja.wikipedia.org/wiki/QRコード決済 "wikilink")を使用した方式に改められた\[5\]。
 
 [2018年](../Page/2018年.md "wikilink")2月1日、本社を[表参道から](../Page/表参道_\(原宿\).md "wikilink")[六本木ヒルズ森タワー](../Page/六本木ヒルズ森タワー.md "wikilink")31階に移転\[6\]。Origamiが入居したフロアは、康井義貴が、新卒で入社した[リーマン・ブラザーズ](https://ja.wikipedia.org/wiki/リーマン・ブラザーズ "wikilink")の日本法人オフィスがあったところである\[7\]。
 
-[2020年](../Page/2020年.md "wikilink")1月23日、[メルカリ](https://ja.wikipedia.org/wiki/メルカリ "wikilink")の子会社であるメルペイが同年2月25日付けでOrigamiの全株式を取得し、メルカリグループに参画する事を発表した。今後、一定の周知期間を経た上でOrigami Payのサービスやブランドをメルペイに統合させる予定で調整している\[8\]。売却額は非公表だが、還元サービスなどの影響で経営が悪化しており、一部報道では「1株あたり1円（総額で約259万円）\[9\]」とも「実質0円\[10\]」とも報じられている\[11\]。更に買収と同時に社員の9割を削減する見込みであり、同社は実質的には[経営破綻状態での身売りとなった](../Page/倒産.md "wikilink")\[12\]\[13\]。
+[2020年](../Page/2020年.md "wikilink")1月23日、[メルカリ](https://ja.wikipedia.org/wiki/メルカリ "wikilink")の子会社であるメルペイが同年2月25日付けでOrigamiの全株式を取得し、メルカリグループに参画する事を発表した。今後、一定の周知期間を経た上でOrigami Payのサービスやブランドをメルペイに統合させる\[8\]。売却額は非公表だが、還元サービスの影響で経営が悪化しており、一部報道では「1株あたり1円（総額で約259万円）\[9\]」とも「実質0円\[10\]」とも報じられている\[11\]。更に買収と同時に社員の9割を削減する見込みであり、Origamiは実質的に[経営破綻での身売りとなった](../Page/倒産.md "wikilink")\[12\]\[13\]。
 
-また、メルペイへのサービス統合に先立ち、[ベータ版](../Page/ベータ版.md "wikilink")として提供しているOrigami Walletのサービスを2020年3月23日までに順次終了する予定としている\[14\]。
+また、メルペイへのサービス統合に先立ち、[ベータ版](../Page/ベータ版.md "wikilink")として提供しているOrigami Walletのサービスを2020年3月23日までに終了した\[14\]。
 
-2020年2月28日、OrigamiはOrigami Payでのスキャン・コード支払いを4月28日22:00に、アプリの全機能を6月30日22:00に終了させると発表した\[15\]。
+2020年2月28日、OrigamiはOrigami Payでのスキャン・コード支払いを4月28日22:00に、アプリの全機能を6月30日22:00に終了させると発表した\[15\]。 2020年4月28日、コード支払い終了 origamipayのサービスの１つ。コード支払いが2020年4月28日22時に、サービス終了。 6月30日には、全てのサービスが終了する予定だ。 コード支払いの終了には、惜別の声は少なかった。
 
 ## Origami Pay
 

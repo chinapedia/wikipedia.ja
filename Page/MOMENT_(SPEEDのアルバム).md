@@ -55,6 +55,6 @@
 
 <references />
 
-[Category:SPEEDのアルバム](https://ja.wikipedia.org/wiki/Category:SPEEDのアルバム "wikilink") [Category:1998年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1998年のベスト・アルバム "wikilink") [Category:トイズファクトリーのアルバム](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアルバム "wikilink") [Category:1998年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
+[Category:SPEEDのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:SPEEDのベスト・アルバム "wikilink") [Category:1998年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1998年のベスト・アルバム "wikilink") [Category:トイズファクトリーのアルバム](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアルバム "wikilink") [Category:1998年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  [SPEEDさよならツアー涙、涙…](http://web.archive.org/web/20010316014911/www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

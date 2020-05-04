@@ -101,18 +101,20 @@ Office 2007でGrooveとして登場し、2010でSharePoint Workspaceに名称変
 
 ## 外部リンク
 
-  - [Microsoft OneDrive](https://onedrive.live.com/about/ja-jp/)
+  - [Microsoft OneDrive](https://www.microsoft.com/ja-jp/microsoft-365/onedrive/online-cloud-storage)
 
-  - [OneDrive ヘルプ センター](https://support.office.com/ja-jp/onedrive)
+  - [OneDrive のヘルプとラーニング - Office サポート](https://support.office.com/ja-jp/onedrive)
 
-  - [App Store - OneDrive](http://itunes.apple.com/jp/app/onedrive/id477537958?mt=8)
+  - [App Store - Microsoft OneDrive](http://itunes.apple.com/jp/app/onedrive/id477537958?mt=8)
 
-  - [OneDrive - Google Play](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)
+  - [Google Play - Microsoft OneDrive](https://play.google.com/store/apps/details?id=com.microsoft.skydrive)
 
-  - [Windows Live team blog archive](http://windowslivewire.spaces.live.com/default.aspx)（旧ブログ、英語）
+  - [Windows Live team blog archive](http://windowslivewire.spaces.live.com/default.aspx)（旧ブログ）
 
   -
+
   -
+
 [Category:Windows_Live](https://ja.wikipedia.org/wiki/Category:Windows_Live "wikilink") [Category:オンラインストレージ](https://ja.wikipedia.org/wiki/Category:オンラインストレージ "wikilink") [Category:クラウドストレージ](https://ja.wikipedia.org/wiki/Category:クラウドストレージ "wikilink")
 
 1.

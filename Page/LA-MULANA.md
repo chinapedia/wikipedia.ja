@@ -406,7 +406,7 @@ STEAM版においては実績が実装され、プレイによって獲得する
 
   -
     とある禁断の宝を作ったものの、誰にも認められず賢者になれなかった者。とある入口からやってきたルエミーザに宝の隠し場所である地獄聖堂へのヒントを流し、見に来てくれるのを待つ。
-    台詞から見て悪戯好きで、かなりのお調子者の性格。名前の由来は[ドラゴンクエスト2](https://ja.wikipedia.org/wiki/ドラゴンクエスト2 "wikilink")(MSX版)。
+    台詞から見て悪戯好きで、かなりのお調子者の性格。名前の由来は[ドラゴンクエストII 悪霊の神々](../Page/ドラゴンクエストII_悪霊の神々.md "wikilink")(MSX版)。
   - ガーディアン
     母を守る8つの魂。アンクジュエルによりアンクを破壊する事で出現する。
 
@@ -491,7 +491,7 @@ STEAM版においては実績が実装され、プレイによって獲得する
   - [LA-MULANA](http://la-mulana.com/)
   - [LA-MULANA EX 公式サイト](http://la-mulana-p.com/#!/index/)
 
-[Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:フリーゲーム](https://ja.wikipedia.org/wiki/Category:フリーゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Wiiウェア](https://ja.wikipedia.org/wiki/Category:Wiiウェア "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:PlayStation_Vita用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Vita用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink")
+[Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:フリーゲーム](https://ja.wikipedia.org/wiki/Category:フリーゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Wiiウェア](https://ja.wikipedia.org/wiki/Category:Wiiウェア "wikilink") [Category:Steam_Greenlight通過ゲーム](https://ja.wikipedia.org/wiki/Category:Steam_Greenlight通過ゲーム "wikilink") [Category:PlayStation_Vita用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Vita用ソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:Xbox_One用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_One用ソフト "wikilink")
 
 1.  [公式ブログ](http://la-mulana.com/jp/blog/about-playism.html)での記述を参照。
 2.

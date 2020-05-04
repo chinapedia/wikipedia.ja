@@ -17,7 +17,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
   - 2007年
 
-:\* 9月24日、『JOHNNYS'Jr. Hey Say 07 in YOKOHAMA ARENA』で結成が発表され、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』で生中継された\[2\]。
+:\* 9月24日、『JOHNNYS'Jr. Hey Say 07 in YOKOHAMA ARENA』で結成が発表され、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』で生中継された\[2\]。
 
 :\* 11月3日から冠番組『[Hi\! Hey\! Say\!](../Page/Hi!_Hey!_Say!.md "wikilink")』で、八乙女、薮がメインレギュラー出演開始。
 
@@ -73,7 +73,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
   - [ス・リ・ル](https://ja.wikipedia.org/wiki/SUPER_DELICATE "wikilink")（作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲：田中直、ラップ詞：八乙女光） - JASRAC作品コード：148-2030-7（Hey\! Say\! JUMP名義）
   - [スパイシー](https://ja.wikipedia.org/wiki/JUMP_WORLD "wikilink")（作詞・作曲：[清水昭男](../Page/清水昭男.md "wikilink")） - JASRAC作品コード：153-1069-8（Hey\! Say\! JUMP名義）
-  - [Switch](https://ja.wikipedia.org/wiki/Switch_\(Hey!Say!BESTの曲\) "wikilink")（作詞：古屋真、作曲：森口友美） - JASRAC作品コード：155-8382-1
+  - Switch（作詞：古屋真、作曲：森口友美） - JASRAC作品コード：155-8382-1
   - [スクールデイズ](https://ja.wikipedia.org/wiki/Magic_Power "wikilink")（作詞：森月キャス、作曲：川端良征） - JASRAC作品コード：161-6300-1
   - [Score](https://ja.wikipedia.org/wiki/JUMP_NO.1 "wikilink")（作詞：薮宏太、作曲：Joey Carbone＆Steven Lee、編曲：[前口渉](https://ja.wikipedia.org/wiki/前口渉 "wikilink")、ラップ詞：八乙女光） - JASRAC作品コード：168-5392-0
   - [Screw](https://ja.wikipedia.org/wiki/OVER_\(Hey!_Say!_JUMPの曲\) "wikilink")（作詞：薮宏太、作曲：馬飼野康二、編曲：石塚知生） - JASRAC作品コード：178-3454-6
@@ -114,7 +114,7 @@ Hey\! Say\! BESTの「BEST」は、「**B**oys **E**xcellent (Expert) **S**elect
 
   - [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink")
 
-[Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+[Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2007年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2007年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 
 1.
 2.

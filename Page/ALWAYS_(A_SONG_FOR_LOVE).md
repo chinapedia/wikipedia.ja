@@ -12,12 +12,14 @@
 ## 収録曲
 
 1.  **ALWAYS (A SONG FOR LOVE)**
-      - 作詞・作曲：Franciz\&LePont、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")、日本語詞：[J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")
+      -
+        作詞・作曲：Franciz\&LePont、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")、日本語詞：[J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")
 2.  **僕の持つ愛のすべて**
-      - 作詞・作曲：[周水](https://ja.wikipedia.org/wiki/Canna_\(音楽グループ\) "wikilink")、編曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")、ストリングスアレンジ：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
-3.  ALWAYS(A SONG FOR LOVE)〜Backing Track〜
-4.  僕の持つ愛のすべて〜Backing Track〜
-5.  Bonus Track (J-FRIENDSメンバー13人の留守番電話応答メッセージ)」
+      -
+        作詞・作曲：[周水](https://ja.wikipedia.org/wiki/Canna_\(音楽グループ\) "wikilink")、編曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")、ストリングスアレンジ：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+3.  ALWAYS (A SONG FOR LOVE) 〜Backing Track〜
+4.  僕の持つ愛のすべて 〜Backing Track〜
+5.  Bonus Track (J-FRIENDSメンバー13人の留守番電話応答メッセージ)
     1.  [堂本剛](../Page/堂本剛.md "wikilink")
     2.  [城島茂](../Page/城島茂.md "wikilink")
     3.  [岡田准一](../Page/岡田准一.md "wikilink")

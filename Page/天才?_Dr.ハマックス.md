@@ -176,6 +176,6 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.tfc-anime.net/hamax/) (TFC ANIME NET)
+  - [公式サイト](https://web.archive.org/web/20111120175341/http://www.tfc-anime.net/hamax/) （TFC ANIME NET、2011年11月20日時点のアーカイブ）
 
 [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:ファミリー劇場](https://ja.wikipedia.org/wiki/Category:ファミリー劇場 "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:東北新社のアニメ作品](https://ja.wikipedia.org/wiki/Category:東北新社のアニメ作品 "wikilink") [Category:テレビの環境番組](https://ja.wikipedia.org/wiki/Category:テレビの環境番組 "wikilink") [Category:小学館の学習雑誌](https://ja.wikipedia.org/wiki/Category:小学館の学習雑誌 "wikilink") [Category:よゐこ](https://ja.wikipedia.org/wiki/Category:よゐこ "wikilink")

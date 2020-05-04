@@ -2247,7 +2247,7 @@ AC版でAC10のカテゴリにいるキャラクターのうち、GB版が初出
     担当曲：AC13・18の「J-ハウスポップ」シリーズ（1・2）
   - White-Merry（ホワイト・メリー）
     誕生日：[3月22日](../Page/3月22日.md "wikilink")
-    メルヘン王国出身の女の子。[プードル](https://ja.wikipedia.org/wiki/プードル "wikilink")と[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")のハーフ。
+    メルヘン王国出身の女の子。[プードル](../Page/プードル.md "wikilink")と[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")のハーフ。
     担当曲：AC13「スマイルスマッシュ」、ACうさ猫「Doo-Wah×Chu\!Chu\!」
     担当曲（版権）：AC16版権曲「[そばかす](../Page/そばかす_\(曲\).md "wikilink") ※」
   - 鬼-BE（オニビ）

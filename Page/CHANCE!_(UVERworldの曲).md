@@ -5,7 +5,7 @@
 
 ## 概要
 
-「D-tecnoLife」の発売のすぐ後には、『[BLEACH　ヒート・ザ・ソウル2](../Page/BLEACH_〜ヒート・ザ・ソウル〜.md "wikilink")』の[CMで頻繁に流れていた](../Page/コマーシャルメッセージ.md "wikilink")。 また、真太郎はこの曲について「自分の調子や上達を感じる基準にもなる曲」と語っている。 さらに、この曲で『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に初出演した。インディ―ズ時代最初に出来上がったバンドの原点の作品でもある。
+「D-tecnoLife」の発売のすぐ後には、『[BLEACH　ヒート・ザ・ソウル2](../Page/BLEACH_〜ヒート・ザ・ソウル〜.md "wikilink")』の[CMで頻繁に流れていた](../Page/コマーシャルメッセージ.md "wikilink")。 また、真太郎はこの曲について「自分の調子や上達を感じる基準にもなる曲」と語っている。 さらに、この曲で『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に初出演した。インディ―ズ時代最初に出来上がったバンドの原点の作品でもある。
 
 テレビドラマ『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』の[エンディングテーマに](../Page/主題歌.md "wikilink")、主題歌の5thシングル「[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")」と共に起用された。
 

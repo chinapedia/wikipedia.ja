@@ -9,7 +9,7 @@
 
 EZチャンネルは動画フォーマットに[MPEG-4](../Page/MPEG-4.md "wikilink")が用いられていたのに対し、EZチャンネルプラスは[H.264](../Page/H.264.md "wikilink")が用いられ、より高画質な動画の配信が可能となっていた\[19\]\[20\]\[21\]。1番組あたりの容量は最大5[MB](../Page/メガバイト.md "wikilink")（最長約10分）で\[22\]\[23\]、1端末につき登録できる番組数に上限はない\[24\]。新しい番組がダウンロードされると古い版は自動的に上書きされるほか\[25\]\[26\]、番組によって保存期間が定められているため、過去のデータを保存しておくことはできない\[27\]。
 
-[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[Wi-Fi](../Page/Wi-Fi.md "wikilink")の普及に伴い、[2012年](../Page/2012年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")をもってサービスを終了した\[28\]\[29\]\[30\]。
+[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[Wi-Fi](../Page/Wi-Fi.md "wikilink")の普及に伴い、[2012年](../Page/2012年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")をもってサービスを終了\[28\]\[29\]\[30\]して、[auスマートパス](https://ja.wikipedia.org/wiki/auスマートパス "wikilink")内の「ビデオパス」に移行した。「ビデオパス」は、[2019年](../Page/2019年.md "wikilink")のテレビ朝日との合弁会社発足に伴い、2020年4月7日からはサービス名が[TELASA](https://ja.wikipedia.org/wiki/TELASA "wikilink")に変わっている。
 
 ## 配信番組
 
@@ -22,6 +22,9 @@ EZチャンネルは動画フォーマットに[MPEG-4](../Page/MPEG-4.md "wikil
   - [EZチャンネル](../Page/EZチャンネル.md "wikilink")
   - [EZニュースフラッシュ](../Page/EZニュースフラッシュ.md "wikilink")
   - [LISMO Video](../Page/LISMO_Video.md "wikilink")
+  - [TELASA](https://ja.wikipedia.org/wiki/TELASA "wikilink")
+  - [BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink")
+  - [GYAO\!](../Page/GYAO!.md "wikilink")（旧・Yahoo\!動画）
 
 ## 脚注
 

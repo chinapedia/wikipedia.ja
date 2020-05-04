@@ -46,6 +46,7 @@
 ## カバー
 
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink") - V.A.『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』（2015年12月16日）に収録。
+  - [Beverly](https://ja.wikipedia.org/wiki/Beverly "wikilink") revived globe「FACES PLACES」feat. SCHNELL from [SOLIDEMO](https://ja.wikipedia.org/wiki/SOLIDEMO "wikilink") - コンピレーションアルバム『avex revival trax』(2020年4月25日配信、5月13日CDでリリース)
 
 ## 脚注
 

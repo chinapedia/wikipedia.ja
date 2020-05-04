@@ -24,7 +24,7 @@
   - [K-1 GRANDPRIX](../Page/K-1_GRANDPRIX.md "wikilink")
   - [直行便NY](https://ja.wikipedia.org/wiki/直行便NY "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [シネマ通信](../Page/シネマ通信.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（フジテレビ）
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（フジテレビ）
   - [クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")（フジテレビ）
   - [SRS](../Page/SRS_\(テレビ番組\).md "wikilink")（フジテレビ）
 

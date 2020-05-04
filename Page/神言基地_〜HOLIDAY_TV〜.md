@@ -1,7 +1,7 @@
 > この記事は[神言基地 〜HOLIDAY TV〜](https://ja.wikipedia.org/wiki/神言基地_〜HOLIDAY_TV〜)から翻訳されています。
 
 
-『**神言基地 〜HOLIDAY TV〜**』（しんげんきち ホリデイティービー）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。テレビ大阪では[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")まで放送。
+『**神言基地 〜HOLIDAY TV〜**』（しんげんきち ホリデイティービー）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。テレビ大阪では[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")まで放送。
 
 ## 概要
 
@@ -65,7 +65,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p><a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p><a href="../Page/全国独立放送協議会.md" title="wikilink">独立UHF局</a></p></td>
 <td><p>土曜 25:10 - 25:40 （2007年3月まで）<br />
 土曜 24:55 - 25:25 （2007年4月以降）</p></td>

@@ -428,7 +428,7 @@ HDMI AVケーブル<br />
 <tr class="odd">
 <td><p><a href="../Page/記憶装置.md" title="wikilink">記憶装置</a></p></td>
 <td><p>なし</p></td>
-<td><p>256M内蔵<a href="../Page/半導体メモリ.md" title="wikilink">メモリ</a></p></td>
+<td><p>256M内蔵<a href="../Page/半導体メモリ.md" title="wikilink">メモリ</a>（後期型は512M内蔵）</p></td>
 <td><p>20G外付<a href="https://ja.wikipedia.org/wiki/ハードディスクドライブ" title="wikilink">HDD</a></p></td>
 <td><p>60GB外付HDD</p></td>
 <td><p>120GB外付HDD</p></td>
@@ -642,6 +642,7 @@ HDMI AVケーブル<br />
       - 512MB - 日本では2007年6月7日発売\[49\]。Xbox Live アーケードソフト『[Geometry Wars: Retro Evolved](../Page/Geometry_Wars.md "wikilink")』が期間限定で収録されている。
   - 内蔵メモリーユニット
       - 256MB - 2008年12月末から出荷された「Xbox 360 アーケード」に内蔵。
+      - 512MB - 2009年4月末から出荷された「Xbox 360 アーケード」に内蔵。
       - 4GB - 2011年9月9日より出荷された「Xbox 360 S 4GB」に内蔵。
   - 外付ハードディスク
       - 20GB - Xbox 360スタンダードモデル同梱品。

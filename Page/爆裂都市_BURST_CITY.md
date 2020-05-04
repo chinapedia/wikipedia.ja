@@ -53,7 +53,6 @@
   - [手塚眞](../Page/手塚眞.md "wikilink")
   - [飯田譲治](../Page/飯田譲治.md "wikilink")
   - [森清寿](../Page/森宙太.md "wikilink")
-  - [梅津泰臣](../Page/梅津泰臣.md "wikilink") ※暴走族役でエキストラ出演。
 
 ## 製作
 

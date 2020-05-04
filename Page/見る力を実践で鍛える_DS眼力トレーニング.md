@@ -78,6 +78,6 @@
 
 ## 外部リンク
 
-  - [見る力を実践で鍛える DS眼力トレーニング公式サイト](http://www.nintendo.co.jp/ds/ag3j/index.html?link=txt)
+  - [見る力を実践で鍛える DS眼力トレーニング](https://www.nintendo.co.jp/ds/ag3j/)
 
 [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink")

@@ -330,6 +330,13 @@
   -
     2019年11月23日 - 12月22日\[25\]
 
+## 他媒体展開
+
+### ショー
+
+  - 『仮面ライダージオウ ファイナルステージ』
+    『[仮面ライダージオウ](https://ja.wikipedia.org/wiki/仮面ライダージオウ "wikilink")』の舞台劇。ピンチのジオウを助けるべくV3が登場。
+
 ## 脚注
 
 ### 注釈
@@ -345,7 +352,7 @@
 
   -
   -
-[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:2007年の映画](https://ja.wikipedia.org/wiki/Category:2007年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:リメイク特撮映画](https://ja.wikipedia.org/wiki/Category:リメイク特撮映画 "wikilink") [Category:リメイクSF映画](https://ja.wikipedia.org/wiki/Category:リメイクSF映画 "wikilink") [Category:リメイクアクション映画](https://ja.wikipedia.org/wiki/Category:リメイクアクション映画 "wikilink") [Category:日本のホラー映画](https://ja.wikipedia.org/wiki/Category:日本のホラー映画 "wikilink") [Category:田崎竜太の監督映画](https://ja.wikipedia.org/wiki/Category:田崎竜太の監督映画 "wikilink") [Category:井上敏樹の脚本映画](https://ja.wikipedia.org/wiki/Category:井上敏樹の脚本映画 "wikilink") [Category:テレビドラマのリメイク映画](https://ja.wikipedia.org/wiki/Category:テレビドラマのリメイク映画 "wikilink") [Category:教師を主人公とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:教師を主人公とした映画・オリジナルビデオ "wikilink") [Category:アイドルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした映画作品 "wikilink")
+[Category:仮面ライダー映画作品](https://ja.wikipedia.org/wiki/Category:仮面ライダー映画作品 "wikilink") [Category:2007年の映画](https://ja.wikipedia.org/wiki/Category:2007年の映画 "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:日本のホラー映画](https://ja.wikipedia.org/wiki/Category:日本のホラー映画 "wikilink") [Category:田崎竜太の監督映画](https://ja.wikipedia.org/wiki/Category:田崎竜太の監督映画 "wikilink") [Category:井上敏樹の脚本映画](https://ja.wikipedia.org/wiki/Category:井上敏樹の脚本映画 "wikilink") [Category:教師を主人公とした映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:教師を主人公とした映画・オリジナルビデオ "wikilink") [Category:アイドルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした映画作品 "wikilink")
 
 1.
 2.  『東映ヒーローMAX』Vol,23、辰巳出版、87頁

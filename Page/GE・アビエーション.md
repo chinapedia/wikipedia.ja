@@ -17,7 +17,7 @@
 
 1950年代には[ターボジェットエンジン](../Page/ターボジェットエンジン.md "wikilink")が[多軸化しつつある中で超音速機には単軸ターボジェットこそが最適との考えから](https://ja.wikipedia.org/wiki/多軸式圧縮機 "wikilink")[J79](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_J79 "wikilink")、[J85](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_J85 "wikilink")、といった単軸エンジンを開発、当時の戦闘機等に搭載され、民間機向けの派生型も製造された。高バイパス[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")が登場した1960年代になると超音速用ターボジェットにおいても多軸式が単軸より優秀と判断して路線を転換し超音速機用の2軸ターボジェットも製造するようになった。こうしてGE15が生まれ、その発展型としてYJ101を開発、これはF404へと進化した。
 
-GEAEの末期には、アメリカの航空機メーカー・[ボーイング](../Page/ボーイング.md "wikilink")の新型機[787に対し](../Page/ボーイング787.md "wikilink")、[GE90](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_GE90 "wikilink") の発展型[GEnx](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_GEnx "wikilink") を提案し、ロールス・ロイスと共に選定された。また787の競合機としてヨーロッパの航空機メーカー・[エアバス](../Page/エアバス.md "wikilink")が開発中の[エアバスA350 XWBへも](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink") GE90 および GEnx の採用を強く働きかけ、さらに[747-400](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink") の後継機として開発中の[747-8](https://ja.wikipedia.org/wiki/ボーイング747-8 "wikilink") への、2年間のエンジン独占供給権も確保している。
+GEAEの末期には、アメリカの航空機メーカー・[ボーイング](../Page/ボーイング.md "wikilink")の新型機[787に対し](../Page/ボーイング787.md "wikilink")、[GE90](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_GE90 "wikilink") の発展型[GEnx](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_GEnx "wikilink") を提案し、ロールス・ロイスと共に選定された。また787の競合機としてヨーロッパの航空機メーカー・[エアバス](../Page/エアバス.md "wikilink")が開発中の[エアバスA350 XWBへも](../Page/エアバスA350_XWB.md "wikilink") GE90 および GEnx の採用を強く働きかけ、さらに[747-400](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink") の後継機として開発中の[747-8](https://ja.wikipedia.org/wiki/ボーイング747-8 "wikilink") への、2年間のエンジン独占供給権も確保している。
 
 これらの大量受注の背景には、グループ内に有力な[ファイナンス部門を擁するGEが](https://ja.wikipedia.org/wiki/GE・キャピタル "wikilink")、航空機本体のローン契約と抱き合わせで自社製エンジンを強引に販売している事実が存在し、EU各国政府や競業社などから非難を浴びている。→[ロールス・ロイス トレントの項参照](https://ja.wikipedia.org/wiki/ロールス・ロイス_トレント#各種型 "wikilink")。
 
@@ -213,12 +213,12 @@ GEAEの末期には、アメリカの航空機メーカー・[ボーイング](.
 <!-- end list -->
 
   - [GP7200](https://ja.wikipedia.org/wiki/エンジンアライアンス_GP7000 "wikilink")、[プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink")との合弁会社[エンジン・アライアンス](https://ja.wikipedia.org/wiki/エンジン・アライアンス "wikilink")製 (2006年)
-      - [エアバス A380](https://ja.wikipedia.org/wiki/エアバスA380 "wikilink")
+      - [エアバス A380](../Page/エアバスA380.md "wikilink")
 
 <!-- end list -->
 
   - [GEnx](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_GEnx "wikilink") (2007年)
-      - [エアバスA350 XWB](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink")
+      - [エアバスA350 XWB](../Page/エアバスA350_XWB.md "wikilink")
       - [ボーイング 747-8](https://ja.wikipedia.org/wiki/ボーイング747-8 "wikilink")
       - [ボーイング787](../Page/ボーイング787.md "wikilink")
 

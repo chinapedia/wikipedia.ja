@@ -33,7 +33,6 @@
 
   - [虫姫さま ふたり](https://ja.wikipedia.org/wiki/虫姫さま_ふたり "wikilink")（[ケイブ](../Page/ケイブ.md "wikilink")開発 / [エイエムアイ](../Page/エイエムアイ.md "wikilink")発売）
   - 聖剣伝説シリーズ（リメイク版）（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
-      - [聖剣伝説-ファイナルファンタジー外伝-](https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜 "wikilink")
       - [聖剣伝説2 SECRET of MANA](https://ja.wikipedia.org/wiki/聖剣伝説2_SECRET_of_MANA "wikilink")
       - [聖剣伝説3 TRIALS of MANA](https://ja.wikipedia.org/wiki/聖剣伝説3_TRIALS_of_MANA "wikilink")
   - [英雄伝説 空の軌跡 the 3rd](../Page/英雄伝説VI_空の軌跡.md "wikilink")（[日本ファルコム](../Page/日本ファルコム.md "wikilink")）

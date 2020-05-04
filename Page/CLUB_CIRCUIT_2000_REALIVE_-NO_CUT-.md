@@ -7,7 +7,7 @@
 
 [2000年](../Page/2000年.md "wikilink")10月に開催された[ライブハウス](../Page/ライブハウス.md "wikilink")ツアー「CLUB CIRCUIT 2000 REALIVE」から、[10月27日](../Page/10月27日.md "wikilink")に行われた[Zepp Osaka公演を収録](../Page/Zepp.md "wikilink")。このツアーは会場や規模、演出などが前回のライブ「1999 GRAND CROSS TOUR」とは正反対のコンセプトであり、後のドームツアー「TOUR 2000 REAL」への前哨戦ともいえる内容となった。タイトルの表記通りノーカット収録だが、[MC](../Page/MC.md "wikilink")の部分には全て音声加工を施され、普通には聞き取れないようになっている。
 
-本作の特徴は、映画『[マトリックス](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink")』で有名になった[バレットタイム](../Page/バレットタイム.md "wikilink")と、それを応用した撮影技術が使われている点である。この撮影の為、会場内を取り囲むように200台近い[カメラ](../Page/カメラ.md "wikilink")が設置された。これは「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」や「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」の[PVの一部にも用いられている技術である](../Page/ミュージック・ビデオ.md "wikilink")。
+本作の特徴は、映画『[マトリックス](../Page/マトリックス_\(映画\).md "wikilink")』で有名になった[バレットタイム](../Page/バレットタイム.md "wikilink")と、それを応用した撮影技術が使われている点である。この撮影の為、会場内を取り囲むように200台近い[カメラ](../Page/カメラ.md "wikilink")が設置された。これは「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」や「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」の[PVの一部にも用いられている技術である](../Page/ミュージック・ビデオ.md "wikilink")。
 
 なお、今作をもってL'Arc〜en〜Cielの映像作品の[VHS](../Page/VHS.md "wikilink")規格による販売は終了した。
 

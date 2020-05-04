@@ -56,11 +56,14 @@
   - [沢崎順之助](https://ja.wikipedia.org/wiki/沢崎順之助 "wikilink")編訳『W・H・オーデン詩集』[思潮社](https://ja.wikipedia.org/wiki/思潮社 "wikilink")〈海外詩文庫〉1993年
   - [岩崎宗治](https://ja.wikipedia.org/wiki/岩崎宗治 "wikilink")訳『もうひとつの時代』国文社 1997年
 
+## 伝記
+
+  - リチャード・ホガート『オーデン序説』岡崎康一訳、晶文社、1974年
+  - [橋口稔](https://ja.wikipedia.org/wiki/橋口稔 "wikilink")『詩人オーデン』平凡社、1996年
+
 ## 引用された作品
 
-  - 映画
-      -
-        [フォー・ウェディング](../Page/フォー・ウェディング.md "wikilink")（[1994年](../Page/1994年.md "wikilink") ）- ゲイの友人を亡くした男性が弔辞として「葬儀のブルース」を朗読
+  - [フォー・ウェディング](../Page/フォー・ウェディング.md "wikilink")（イギリス映画、1994年）- ゲイの友人を亡くした男性が弔辞として「葬儀のブルース」を朗読
 
 ## 出典
 

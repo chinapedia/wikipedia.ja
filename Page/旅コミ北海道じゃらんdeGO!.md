@@ -27,7 +27,7 @@
 
   - [相川紗登士](../Page/相川紗登士.md "wikilink")
   - [奈良愛美](../Page/奈良愛美.md "wikilink")
-  - [飯野智行](../Page/飯野智行.md "wikilink") ‎
+  - [飯野智行](../Page/飯野智行.md "wikilink")
   - [かみむらしんや](../Page/かみむらしんや.md "wikilink")
   - [石川晴恵](https://ja.wikipedia.org/wiki/石川晴恵 "wikilink")
   - [森崎博之](../Page/森崎博之.md "wikilink")

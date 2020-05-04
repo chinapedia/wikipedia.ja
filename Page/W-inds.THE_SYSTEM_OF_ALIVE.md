@@ -5,13 +5,13 @@
 
 ## 解説
 
-1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』よりちょうど1年ぶりのリリースとなった2ndオリジナルアルバム。シングル「[try your emotion](https://ja.wikipedia.org/wiki/try_your_emotion "wikilink")」「[Another Days](../Page/Another_Days.md "wikilink")」「[Because of you](../Page/Because_of_you_\(w-inds.の曲\).md "wikilink")」「[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")」の4枚の[シングル](../Page/シングル.md "wikilink")（内1曲はヴァージョン違い）に加え、リード曲として歌番組『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にて披露された「SOMEHOW」を含む全14曲を収録。
+1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』よりちょうど1年ぶりのリリースとなった2ndオリジナルアルバム。シングル「[try your emotion](https://ja.wikipedia.org/wiki/try_your_emotion "wikilink")」「[Another Days](../Page/Another_Days.md "wikilink")」「[Because of you](../Page/Because_of_you_\(w-inds.の曲\).md "wikilink")」「[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")」の4枚の[シングル](../Page/シングル.md "wikilink")（内1曲はヴァージョン違い）に加え、リード曲として歌番組『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）にて披露された「SOMEHOW」を含む全14曲を収録。
 
 一度、アルバム・[タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")は『Baby Maybe』と告知された。
 
 収録曲「Break Down,Build Up」（M1）は、詞中に“安住の地はまだ望まない 枠に収まることが常識じゃない”とあるように、“安定”を否定し、前へ進み続けることを切望する主人公が描かれており、[ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")してまだ日が浅かった当時の彼らの実像と[リンク](../Page/リンク.md "wikilink")していた。
 
-収録曲「SOMEHOW」（M3）は、タイトルの通り、“SOMEHOW=なんとかして”失恋した、自分が片思いしていた彼女を慰めたいと思う純朴な主人公が描かれている。（彼女の失恋を聞き、秘かに心が高鳴ってしまった自分を嫌悪し恥じる個所もある。）今アルバム・リリースに際し、リード曲として、[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")にて収録された歌番組『HEY\!HEY\!HEY\!MUSIC CHAMP』（フジテレビ）の特番にて初披露された。
+収録曲「SOMEHOW」（M3）は、タイトルの通り、“SOMEHOW=なんとかして”失恋した、自分が片思いしていた彼女を慰めたいと思う純朴な主人公が描かれている。（彼女の失恋を聞き、秘かに心が高鳴ってしまった自分を嫌悪し恥じる個所もある。）今アルバム・リリースに際し、リード曲として、[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")にて収録された歌番組『HEY\!HEY\!HEY\! MUSIC CHAMP』（フジテレビ）の特番にて初披露された。
 
 “恋せよ乙女”と歌う収録曲「fever」（M4）は、1980年代後半に絶大なる人気を博した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")が書き下ろした楽曲である（共作）。
 

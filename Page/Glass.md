@@ -7,6 +7,8 @@
 
 [LUNA SEA時代も含め河村隆一初の](../Page/LUNA_SEA.md "wikilink")[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。[2016年](../Page/2016年.md "wikilink")現在、河村ソロ名義では唯一ミリオンヒットとなったシングルである(ちなみに、LUNA SEA名義のシングルでは現在に至るまでミリオンを達成していない)。
 
+オリコン最高2位（1位は同日発売の[華原朋美](../Page/華原朋美.md "wikilink")「[Hate tell a lie](../Page/Hate_tell_a_lie.md "wikilink")」）、売上101.1万枚。
+
 ## 収録曲
 
 1.  **Glass**

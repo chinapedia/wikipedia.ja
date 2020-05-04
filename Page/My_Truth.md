@@ -3,7 +3,7 @@
 
 「**My Truth**」（マイ・トゥルス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")28枚目の[シングル](../Page/シングル.md "wikilink")。
 
-[2018年](../Page/2018年.md "wikilink")現在、THE ALFEEのシングルの中で[オリコン](../Page/オリコンチャート.md "wikilink")1位を獲得したのは本作が最後である。
+[2019年](../Page/2019年.md "wikilink")現在、THE ALFEEのシングルの中で[オリコン](../Page/オリコンチャート.md "wikilink")1位を獲得したのは本作が最後である。
 
 「[シンデレラは眠れない](../Page/シンデレラは眠れない.md "wikilink")」以来8作振りに坂崎がリードヴォーカルを担当。
 

@@ -92,7 +92,7 @@
   - [KドリームスWebサイトのKEIRINグランプリ優勝者一覧](http://keirin.kdreams.jp/graderace/keiringrandprix/history/)（過去のKEIRINグランプリの動画を配信。）
 
   -
-[Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1985年の競輪](https://ja.wikipedia.org/wiki/Category:1985年の競輪 "wikilink") [Category:立川市のスポーツ史](https://ja.wikipedia.org/wiki/Category:立川市のスポーツ史 "wikilink") [Category:1985年12月](https://ja.wikipedia.org/wiki/Category:1985年12月 "wikilink")
+[Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1985年の競輪](https://ja.wikipedia.org/wiki/Category:1985年の競輪 "wikilink") [Category:立川市のスポーツ史](https://ja.wikipedia.org/wiki/Category:立川市のスポーツ史 "wikilink") [Category:1985年12月](https://ja.wikipedia.org/wiki/Category:1985年12月 "wikilink") [Category:中野浩一](https://ja.wikipedia.org/wiki/Category:中野浩一 "wikilink")
 
 1.  日刊スポーツ連載コラム『伝説』〜KEIRINグランプリ列伝〜（[2009年](../Page/2009年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")〜[11月21日](../Page/11月21日.md "wikilink")）
 2.  KEIRINグランプリ'85の前場所となる、[岐阜記念を欠場したことに起因する](../Page/岐阜競輪場.md "wikilink")。現役当時、中野は斡旋予定されている開催を欠場する際には決まって事前に申し出を行っていたが、岐阜記念欠場のときにはそうした形が取られなかったため。

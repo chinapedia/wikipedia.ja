@@ -13,7 +13,7 @@ B'zにとって『["BUZZ\!\!" THE MOVIE](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink
 
 発売当時、本作には「もう一度見たいライブツアー」「もう一度見たい楽曲」というアンケート葉書が封入されており、これが元になって[次作のライブビデオの内容が決定されている](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")。
 
-VHS版がリリースされた約1年3か月後には、DVD版もリリースされている。シングル「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」発売時に、本作も含めた過去のB'zのVHS作品4作品が同時にDVD化されリリースされた。DVD版には特典映像が追加されているほか、VHS版ではエンディングに過去のライブ映像のフラッシュバックとともに近日ライブビデオが発売されることを示唆する映像が収録されていたが、DVD版ではこのシーンがカットされている。
+VHS版がリリースされた約1年3か月後には、DVD版もリリースされている。シングル『[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")』発売時に、本作も含めた過去のB'zのVHS作品4作品が同時にDVD化されリリースされた。DVD版には特典映像が追加されているほか、VHS版ではエンディングに過去のライブ映像のフラッシュバックとともに近日ライブビデオが発売されることを示唆する映像が収録されていたが、DVD版ではこのシーンがカットされている。
 
 ## 収録映像内容
 

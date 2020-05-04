@@ -66,7 +66,7 @@ DARTSLIVEに内蔵されているゲームは以下の通りである。
 
   - [DARTSLIVE HOME](http://www.dartslive.jp/pc/home/hometop.html)
 
-  - DARTSLIVE連動タッチパネルゲーム機[ToucLive](http://www.touchlive.jp/)
+  - DARTSLIVE連動タッチパネルゲーム機[TouchLive](http://www.touchlive.jp/)
 
   - ハイレベルなダーツの試合を無料配信\![DARTSLIVE.TV](http://dartslive.tv/pc/)
 

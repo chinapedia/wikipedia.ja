@@ -29,7 +29,6 @@
 <!-- end list -->
 
   - 『[BREAK OF DAWN](../Page/BREAK_OF_DAWN.md "wikilink")』
-  - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
   - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』※初回限定盤のみ「Strings Orchestra Mix」として収録
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』

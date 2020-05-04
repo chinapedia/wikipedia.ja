@@ -58,12 +58,12 @@
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+  - [福井放送](../Page/福井放送.md "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
   - [山口放送](../Page/山口放送.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（アニメマインド内にて放送）
+  - [大分放送](../Page/大分放送.md "wikilink")（アニメマインド内にて放送）
 
 ## 関連項目
 

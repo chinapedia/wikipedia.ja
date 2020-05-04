@@ -92,4 +92,4 @@
 
 1.  <http://www.oricon.co.jp/news/entertainment/45095/>
 2.
-3.  [HEY\!HEY\!HEY\!MUSIC CHAMPにてmiyakeが証言](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
+3.  [HEY\!HEY\!HEY\! MUSIC CHAMPにてmiyakeが証言](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")

@@ -415,7 +415,7 @@
   - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")（100年BLACK）
   - [泉谷しげる](../Page/泉谷しげる.md "wikilink")（100年BLACK）
   - [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（モーニングショット・アフターショット）
-  - [タカ&トシ](../Page/タカアンドトシ.md "wikilink")（モーニングショット）
+  - [タカ&トシ※この名義時代の出演だったのでしょうか?--\>](https://ja.wikipedia.org/wiki/タカアンドトシ\<!-- "wikilink")（モーニングショット）
   - [荒川良々](../Page/荒川良々.md "wikilink")（モーニングショット）
   - [横峯さくら](https://ja.wikipedia.org/wiki/横峯さくら "wikilink")（モーニングショット）
   - [彦摩呂](../Page/彦摩呂.md "wikilink")（アフターショット）
@@ -429,7 +429,7 @@
   - [笠浩二](../Page/笠浩二.md "wikilink")（ショット&ショット）
   - [相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")（ショット&ショット）
       -
-        ショット&ショットのキャッチコピー“**止まらない 新・微糖**”。“止まらない”などがタイトルにあるヒット曲を持つ歌手を起用し、山本は「[どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")」、吉川は[COMPLEX](../Page/COMPLEX.md "wikilink")「[恋をとめないで](../Page/COMPLEX_\(アルバム\).md "wikilink")」、笠は[C-C-B](../Page/C-C-B.md "wikilink")「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」、相田は[Wink](../Page/Wink.md "wikilink")「[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")」（「[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")」の代替として）の替え歌を、それぞれ披露した。
+        ショット&ショットのキャッチコピーは“**止まらない 新・微糖**”。“止まらない”などがタイトルにあるヒット曲を持つ歌手を起用し、山本は「[どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")」、吉川は[COMPLEX](../Page/COMPLEX.md "wikilink")「[恋をとめないで](../Page/COMPLEX_\(アルバム\).md "wikilink")」、笠は[C-C-B](../Page/C-C-B.md "wikilink")「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」、相田は[Wink](../Page/Wink.md "wikilink")「[淋しい熱帯魚](../Page/淋しい熱帯魚.md "wikilink")」（「[愛が止まらない 〜Turn it into love〜](https://ja.wikipedia.org/wiki/愛が止まらない_〜Turn_it_into_love〜 "wikilink")」の代替として）の替え歌を、それぞれ披露した。
   - [ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")（ショット&ショット）
   - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")（ショット&ショット69 ※ただし音声のみ）
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（モーニングショット・アフターショット・圧力仕立てBLACK・金の微糖）

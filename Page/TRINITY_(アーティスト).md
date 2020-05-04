@@ -73,7 +73,7 @@
 <li>DOH-YO(Dub’s classic club Remix:Instrumental)</li>
 <li>DOH-YO(MASTERS OF FUNK Remix:Instrumental)</li>
 </ol></td>
-<td><p>CX系「<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a>」エンディング・テーマ<br />
+<td><p>CX系「<a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a>」エンディング・テーマ<br />
 オリコン最高48位</p></td>
 </tr>
 <tr class="even">

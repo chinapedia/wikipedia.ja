@@ -24,7 +24,7 @@
             キャスター：[菅原厚](https://ja.wikipedia.org/wiki/菅原厚 "wikilink")、[猪股南](https://ja.wikipedia.org/wiki/猪股南 "wikilink")
             フィールドキャスター:[鮫島大史](../Page/鮫島大史.md "wikilink")・[中村香音](https://ja.wikipedia.org/wiki/中村香音 "wikilink")
   - TVI [テレビ岩手](../Page/テレビ岩手.md "wikilink")
-      - [ニュースプラス1いわて](../Page/ニュースプラス1いわて.md "wikilink")（月-金曜 18:15 - 18:55・土曜 17:20 - 17:30・日曜 17:25 - 17:30）
+      - [ニュースプラス1いわて](../Page/ニュースプラス1いわて.md "wikilink")（月-金曜 18:15 - 18:55・土曜 17:20 - 17:30・日曜 17:25 - 17:30。祝日は「news every.」を15:50より臨時にフルネットし、ローカルニュースを18:40 - 18:54へ枠小する場合あり=祝日は月 - 木15:50 - 17:53枠・金16:25 - 17:53枠で編成の「[5きげんテレビ](../Page/5きげんテレビ.md "wikilink")」を休止し、「news every.」15:50 - 17:53枠を臨時にフルネット）
           -
             キャスター：[柴柳二郎](../Page/柴柳二郎.md "wikilink")（月 - 木）、[古舘友華](../Page/古舘友華.md "wikilink")（月 - 水）、[藤村惠一](../Page/藤村惠一.md "wikilink")（金）、[江口アミ](https://ja.wikipedia.org/wiki/江口アミ "wikilink")（木・金）。土日はシフト制
             フィールドキャスター:[渡辺裕太](https://ja.wikipedia.org/wiki/渡辺裕太_\(俳優\) "wikilink")
@@ -74,7 +74,7 @@
       - [となりのテレ金ちゃん](https://ja.wikipedia.org/wiki/となりのテレ金ちゃん "wikilink")■（月 - 木曜 15:53 - 19:00、ローカルニュースは18:15 - 19:00、金曜日は『花のテレ金ちゃん』）
           -
             キャスター：[高橋泉](https://ja.wikipedia.org/wiki/高橋泉_\(アナウンサー\) "wikilink")（月 - 木曜）・[越崎成人](https://ja.wikipedia.org/wiki/越崎成人 "wikilink")（金曜）
-  - FBC [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+  - FBC [福井放送](../Page/福井放送.md "wikilink")
       - [おじゃまっテレ ワイド&ニュース](https://ja.wikipedia.org/wiki/おじゃまっテレ_ワイド&ニュース "wikilink")（月 - 木曜 16:20 - 19:00、金曜 16:50 - 19:00、ローカルニュースは18:15 - 18:36、金曜日は『おじゃまっテレ ワイド&ニュース FRIDAY』）
           -
             キャスター：[伊藤裕樹](../Page/伊藤裕樹.md "wikilink")、[東海佳奈子](https://ja.wikipedia.org/wiki/東海佳奈子 "wikilink")

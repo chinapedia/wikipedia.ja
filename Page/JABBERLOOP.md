@@ -41,7 +41,7 @@
 
   - 2004年
 
-:\* 2月、京都にて結成。Sax、Guitar、Bass、Drums、Turntableの5人編成で始動。[HIP HOPの要素を多く取り入れた音楽スタイルで主に京都](https://ja.wikipedia.org/wiki/HIP_HOP "wikilink")、大阪、滋賀、神戸でクラブやライブハウスを中心にライブ活動。
+:\* 2月、京都にて結成。Sax(DAISUKE)、Guitar(名前不明)、Bass(YUKI)、Drums(YOHEI)、Turntable(SHINSUKE)の5人編成で始動。[HIP HOPの要素を多く取り入れた音楽スタイルで主に京都](https://ja.wikipedia.org/wiki/HIP_HOP "wikilink")、大阪、滋賀、神戸でクラブやライブハウスを中心にライブ活動。
 
 :\* 10月、1stマキシシングル『HOCK ME UP』をリリース。京都のライブハウスLive Spot RAGにてリリースライブ開催。
 

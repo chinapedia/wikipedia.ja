@@ -35,7 +35,7 @@
 
 ### テレビ
 
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - タイトルバックで出演
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - タイトルバックで出演
   - [GOOD LOOKIN′CLUB](../Page/GOOD_LOOKIN′CLUB.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink") 第28・29話（2009年8月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - アマゾン（山本ダイスケ） / 仮面ライダーアマゾン（声） 役
   - [松岡修造の情熱チャージ 熱血\!ホンキ応援団](https://ja.wikipedia.org/wiki/松岡修造の情熱チャージ_熱血!ホンキ応援団 "wikilink")（2009年11月7日 - 2010年2月27日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）- 応援人レギュラー

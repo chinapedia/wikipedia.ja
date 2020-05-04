@@ -83,6 +83,5 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオンによる紹介ページ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200700000560&DSP_SKHKETSEQ=001)
-
+  -
 [Category:家庭教師ヒットマンREBORN\!のアルバム](https://ja.wikipedia.org/wiki/Category:家庭教師ヒットマンREBORN!のアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink") [Category:キャラクターソング・アルバム](https://ja.wikipedia.org/wiki/Category:キャラクターソング・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

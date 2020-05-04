@@ -25,7 +25,7 @@
   - 狐崎浩子（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")）
   - 闇の将軍 - [藤岡弘、](../Page/藤岡弘、.md "wikilink")
 
-### 発想のプロ×ＣＧアーティスト
+### 発想のプロ×CGアーティスト
 
 ＜グランプリ受賞＞
 
@@ -37,7 +37,7 @@
 
 ＜特別賞受賞＞
 
-  - [桂春菜](https://ja.wikipedia.org/wiki/桂春菜 "wikilink")(落語家)　×　澤田裕太郎　
+  - [桂春菜](https://ja.wikipedia.org/wiki/桂春菜 "wikilink")(落語家)　×　澤田裕太郎
 
 －－－－－－－－－－－－－－－－－－－－－－－－－
 
@@ -50,7 +50,7 @@
   - [村上卓史](../Page/村上卓史.md "wikilink")(放送作家)　×　千山久絵
   - [和田ラヂヲ](../Page/和田ラヂヲ.md "wikilink")(マンガ家)　×　デジタル番長
 
-### 天下統一ＣＧ将軍２（2008年10月4日放送）
+### 天下統一CG将軍2（2008年10月4日放送）
 
 ### 司会
 
@@ -67,7 +67,7 @@
   - [里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")
   - [神足裕司](../Page/神足裕司.md "wikilink")
   - 大谷真幸（[日経エンタテインメント](https://ja.wikipedia.org/wiki/日経エンタテインメント "wikilink")）
-  - 阪上和也（[エヌ･デザイン](https://ja.wikipedia.org/wiki/エヌ･デザイン "wikilink")）
+  - 阪上和也（[エヌ・デザイン](https://ja.wikipedia.org/wiki/エヌ・デザイン "wikilink")）
 
 ### ゲスト
 
@@ -123,7 +123,7 @@
 <!-- end list -->
 
   - 2008年10月4日（土）　21：00-22：55（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")初回放送）
-  - 2011年1月4（火）　00:55-02:50（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")再放送）
+  - 2011年1月4日（火）　00:55-02:50（[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")再放送）
 
 ## 制作スタッフ
 

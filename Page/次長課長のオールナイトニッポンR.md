@@ -88,7 +88,7 @@
   - 大人になってからのことを考えると眠れない。
   - 釧路動物園の入場者数が増えなくて困っている。
   - どうしたら[ファミスタ](https://ja.wikipedia.org/wiki/ファミスタ "wikilink")の強い相手に勝てるか？
-  - [ドラクエV](https://ja.wikipedia.org/wiki/ドラクエV "wikilink")で一番強いパーティーはなんなのか？
+  - [ドラクエVで一番強いパーティーはなんなのか](../Page/ドラゴンクエストV_天空の花嫁.md "wikilink")？
   - 将来サッカー選手になれるのか不安で眠れない。
   - [新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")の意味がよくわからない。
   - 山下君や亀梨君のようなアイドルになりたい。
@@ -194,7 +194,7 @@
 **27:00 - 28:00**
 
   -
-    [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")・[山形放送](../Page/山形放送.md "wikilink")・[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[信越放送](../Page/信越放送.md "wikilink")・[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")・[中部日本放送](../Page/CBCラジオ.md "wikilink")・[和歌山放送](../Page/和歌山放送.md "wikilink")・[山口放送](../Page/山口放送.md "wikilink")・[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")・[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+    [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")・[山形放送](../Page/山形放送.md "wikilink")・[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[信越放送](../Page/信越放送.md "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[中部日本放送](../Page/CBCラジオ.md "wikilink")・[和歌山放送](../Page/和歌山放送.md "wikilink")・[山口放送](../Page/山口放送.md "wikilink")・[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")・[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
 
 ## 関連項目
 

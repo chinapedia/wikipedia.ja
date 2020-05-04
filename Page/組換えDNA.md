@@ -99,7 +99,7 @@ B型肝炎の感染は、組換え[B型肝炎ワクチン](https://ja.wikipedia.
 
 ## 出典
 
-## 参考文献
+## 関連文献
 
   - *The Eighth Day of Creation: Makers of the Revolution in Biology*. Touchstone Books, . 2nd edition: Cold Spring Harbor Laboratory Press, 1996 paperback: .
   - Micklas, David. 2003. *DNA Science: A First Course*. Cold Spring Harbor Press: .

@@ -33,7 +33,7 @@
 
 同年9月17日、オーナー役で出演中の[前田美波里](../Page/前田美波里.md "wikilink")が宿泊中のホテルから徒歩で梅田芸術劇場へ向かう最中に転倒し、左肩を骨折\[32\]。その日の昼と夜の部は出演したものの\[33\]、翌18日夜公演からの大阪公演と10月に博多座で行われる福岡公演の降板を発表した\[34\]。前田は17日夜公演後に入院し、全治1か月半の診断を受けた\[35\]。代役には2009年から2012年までオーナー役を演じていた[植草克秀](../Page/植草克秀.md "wikilink")が急遽抜擢された\[36\]。17日の夕方に[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")や光一から直接出演依頼があり\[37\]、18日正午頃に大阪入り\[38\]。その後キャスト全員で約4時間ほどの稽古の後に本番を迎え\[39\]、3年のブランクを感じさせない演技を披露した\[40\]。
 
-2020年、中国の[武漢](https://ja.wikipedia.org/wiki/武漢 "wikilink")を発生源とした[新型コロナウイルスの感染拡大防止のため](../Page/2019新型コロナウイルス.md "wikilink")、政府が大規模イベント等の自粛を要請したことに鑑み、2月28日夜公演より、3月10日公演までの休演が発表された。3月11日より公演が再開される予定だったが、15日までの延長、さらに、政府の新たな自粛要請を鑑み、16日から19日までの休演が発表された。20日よりサーモグラフィーの設置、劇場内の換気強化等の対策を講じ再開するとしていたが、当日、急遽中止が発表され、以降21日から31日までの全公演の休演が発表された。休演により3月31日(千秋楽)に予定されていた1800回記念公演は以降の地方公演まで持ち越しとなった。なお、3月21日に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて放送した](../Page/フジネットワーク.md "wikilink")『[緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")』にて、19日にショーを事前収録した上で披露した\[41\]\[42\]。その翌日の22日にはスタッフやキャストの意向で公式[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")による一部演目のライブ配信が帝国劇場で行われた。帝国劇場でのライブ配信は1911年の開業以来史上初。
+2020年、[新型コロナウイルスの感染拡大防止のため](../Page/2019新型コロナウイルス.md "wikilink")、政府の感染症対策本部の方針に鑑み、2月28日夜公演より、3月10日公演までの休演が発表された\[41\]。3月11日より公演が再開される予定だったが、15日までの延長\[42\]、さらに、政府の新たな自粛要請を鑑み、16日から19日までの休演が発表された\[43\]。20日よりサーモグラフィーの設置、劇場内の換気強化等の対策を講じ再開するとしていたが\[44\]、20日の公演は当日に急遽中止が発表され\[45\]、さらに政府の対策本部会合後の午後8時に21日から31日までの全公演の休演が発表された\[46\]。休演により3月31日（千秋楽）に予定されていた1800回記念公演は持ち越しとなった\[47\]。なお、3月21日に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて放送した](../Page/フジネットワーク.md "wikilink")『[緊急生放送\! FNS音楽特別番組 春は必ず来る](../Page/緊急生放送!_FNS音楽特別番組_春は必ず来る.md "wikilink")』にて、19日にショーを事前収録した上で披露した\[48\]\[49\]。その翌日の22日にはスタッフやキャストの意向で公式[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")による一部演目のライブ配信が\[50\]2時間以上にわたって帝国劇場で行われた\[51\]。帝国劇場でのライブ配信は1911年の開業以来史上初めてで、視聴者は6万人を超えて注目を集めた\[52\]。
 
 ## MILLENNIUM SHOCK （2000年）
 
@@ -160,14 +160,14 @@
 ### 公演期間
 
   - 2005年1月8日 - 2月28日（全76公演）
-  - 2006年2月6日 - 3月29日\[43\]（全76公演）
+  - 2006年2月6日 - 3月29日\[53\]（全76公演）
   - 2007年1月6日 - 2月28日（全81公演）
-  - 2008年1月6日 - 2月26日\[44\]（全76公演）
+  - 2008年1月6日 - 2月26日\[54\]（全76公演）
   - 2009年2月5日 - 3月30日（全76公演）
   - 2010年2月14日 ‐ 3月30日、7月4日 - 7月31日 (全100公演）※Endless SHOCKとしては初の夏期公演が行われた
   - 2011年2月5日 - 3月10日 (全48公演)
-  - 2012年1月7日 - 31日（[博多座](../Page/博多座.md "wikilink")）\[45\]（全34公演）※SHOCK史上初の地方公演
-  - 2012年2月7日 - 4月30日\[46\]（全105公演）
+  - 2012年1月7日 - 31日（[博多座](../Page/博多座.md "wikilink")）\[55\]（全34公演）※SHOCK史上初の地方公演
+  - 2012年2月7日 - 4月30日\[56\]（全105公演）
   - 2013年2月4日 - 3月31日（全76公演）
   - 2013年4月8日 - 30日（博多座）（全29公演）
   - 2013年9月2日 - 29日（[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")）（全35公演）※SHOCK初の大阪公演
@@ -181,10 +181,10 @@
   - 2017年2月1日 - 3月31日（全78公演）
   - 2017年9月8日 - 30日（梅田芸術劇場）（全30公演）
   - 2017年10月8日 - 31日（博多座）（全30公演）
-  - 2018年2月4日 - 3月31日（全70公演）\[47\]
-  - 2019年2月4日 - 3月31日（全70公演）\[48\]
-  - 2019年9月11日 - 10月5日（梅田芸術劇場）（全31公演）\[49\]
-  - 2020年2月4日 - 2月26日（全29公演）※新型コロナウイルス感染拡大防止のため2月28日、29日公演、および、3月の全公演が中止された。
+  - 2018年2月4日 - 3月31日（全70公演）\[57\]
+  - 2019年2月4日 - 3月31日（全70公演）\[58\]
+  - 2019年9月11日 - 10月5日（梅田芸術劇場）（全31公演）\[59\]
+  - 2020年2月4日 - 2月26日（全29公演）※新型コロナウイルス感染拡大防止のため2月28日、29日公演、および、3月の全公演が中止された\[60\]。
 
 ### ストーリー
 
@@ -195,9 +195,9 @@
 #### Endless SHOCK 2005
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - ライバル - [今井翼](../Page/今井翼.md "wikilink")（タッキー&翼）／[錦戸亮](../Page/錦戸亮.md "wikilink")（関ジャニ∞）※Wキャスト
+  - [今井翼](../Page/今井翼.md "wikilink")（タッキー&翼）／[錦戸亮](../Page/錦戸亮.md "wikilink")（関ジャニ∞）※Wキャスト ：ライバル
   - リカ - [黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")／[小宮山実花](https://ja.wikipedia.org/wiki/小宮山実花 "wikilink")※Wキャスト
-  - オーナー（アキヤマ） - [秋山純](../Page/秋山純.md "wikilink")（Musical Academy）
+  - アキヤマ - [秋山純](../Page/秋山純.md "wikilink")（Musical Academy）：オーナー
   - マチダ - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（Musical Academy）
   - ヨネハナ - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -213,9 +213,9 @@
 #### Endless SHOCK 2006
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - ライバル - [今井翼](../Page/今井翼.md "wikilink")（タッキー&翼）／[錦戸亮](../Page/錦戸亮.md "wikilink")（関ジャニ∞）※Wキャスト
+  - [今井翼](../Page/今井翼.md "wikilink")（タッキー&翼）／[錦戸亮](../Page/錦戸亮.md "wikilink")（関ジャニ∞）※Wキャスト ：ライバル
   - リカ - [田畑亜弥](../Page/田畑亜弥.md "wikilink")
-  - オーナー（アキヤマ） - [秋山純](../Page/秋山純.md "wikilink")（Musical Academy）
+  - アキヤマ - [秋山純](../Page/秋山純.md "wikilink")（Musical Academy）：オーナー
   - マチダ - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（Musical Academy）
   - ヨネハナ - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -228,9 +228,9 @@
 #### Endless SHOCK 2007
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - トウマ（ライバル） - [生田斗真](../Page/生田斗真.md "wikilink")
+  - トウマ - [生田斗真](../Page/生田斗真.md "wikilink")：ライバル
   - リカ - [松本まりか](../Page/松本まりか.md "wikilink")
-  - オーナー（アキヤマ） - [秋山純](../Page/秋山純.md "wikilink")（Musical Academy）
+  - アキヤマ - [秋山純](../Page/秋山純.md "wikilink")（Musical Academy）：オーナー
   - マチダ - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（Musical Academy）
   - ヨネハナ - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -243,9 +243,9 @@
 #### Endless SHOCK 2008
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")：ライバル
   - リカ - [RiRiKA](../Page/RiRiKA.md "wikilink")
-  - オオクラ（オーナー） - [大倉忠義](../Page/大倉忠義.md "wikilink")（関ジャニ∞）
+  - オオクラ - [大倉忠義](../Page/大倉忠義.md "wikilink")（関ジャニ∞）：オーナー
   - マチダ - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - ヨネハナ - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
   - [福田悠太](../Page/福田悠太.md "wikilink")（M.A.D.）
@@ -257,9 +257,9 @@
 #### Endless SHOCK 2009
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")
-  - リカ（ウエクサの娘） - [佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")
-  - ウエクサ（オーナー） - [植草克秀](../Page/植草克秀.md "wikilink")（少年隊）
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")：ライバル
+  - リカ - [佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")：ウエクサの娘
+  - ウエクサ - [植草克秀](../Page/植草克秀.md "wikilink")（少年隊）：オーナー
   - マチダ - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - ヨネハナ - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
   - [福田悠太](../Page/福田悠太.md "wikilink")（M.A.D.）
@@ -271,9 +271,9 @@
 #### Endless SHOCK 2010
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - ウエクサ（オーナー） - [植草克秀](../Page/植草克秀.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）
-  - ウチ（ライバル） - [内博貴](../Page/内博貴.md "wikilink")（7月公演）
+  - ウエクサ - [植草克秀](../Page/植草克秀.md "wikilink")：オーナー
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）：ライバル
+  - ウチ - [内博貴](../Page/内博貴.md "wikilink")（7月公演）：ライバル
   - リカ - [佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")
   - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -286,8 +286,8 @@
 #### Endless SHOCK 2011
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - ウエクサ（オーナー） - [植草克秀](../Page/植草克秀.md "wikilink")
-  - ウチ（ライバル） - [内博貴](../Page/内博貴.md "wikilink")
+  - ウエクサ - [植草克秀](../Page/植草克秀.md "wikilink")：オーナー
+  - ウチ - [内博貴](../Page/内博貴.md "wikilink")：ライバル
   - リカ - [原田夏希](../Page/原田夏希.md "wikilink")
   - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -299,9 +299,9 @@
 
 #### Endless SHOCK 2012
 
-  - [堂本光一](../Page/堂本光一.md "wikilink")\[50\]
-  - [内博貴](../Page/内博貴.md "wikilink")\[51\]
-  - [植草克秀](../Page/植草克秀.md "wikilink")（特別出演）\[52\]
+  - [堂本光一](../Page/堂本光一.md "wikilink")\[61\]
+  - [内博貴](../Page/内博貴.md "wikilink")\[62\]
+  - [植草克秀](../Page/植草克秀.md "wikilink")（特別出演）\[63\]
   - [神田沙也加](../Page/神田沙也加.md "wikilink")
   - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
   - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
@@ -314,9 +314,9 @@
 #### Endless SHOCK 2013
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - マエダ　ビバリ（オーナー） - [前田美波里](../Page/前田美波里.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3・4月公演）
-  - ウチ（ライバル） - [内博貴](../Page/内博貴.md "wikilink")（9月公演）
+  - マエダ　ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3・4月公演）：ライバル
+  - ウチ - [内博貴](../Page/内博貴.md "wikilink")（9月公演）：ライバル
   - リカ - [サントス・アンナ](../Page/サントス・アンナ.md "wikilink")
   - [福田悠太](../Page/福田悠太.md "wikilink")（ふぉ〜ゆ〜）
   - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（ふぉ〜ゆ〜）
@@ -329,9 +329,9 @@
 #### Endless SHOCK 2014
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - モリ　クミコ（オーナー） - [森公美子](../Page/森公美子.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）
-  - ウチ（ライバル） - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）
+  - モリ クミコ - [森公美子](../Page/森公美子.md "wikilink")：オーナー
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）：ライバル
+  - ウチ - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）：ライバル
   - リカ - [入来茉里](https://ja.wikipedia.org/wiki/入来茉里 "wikilink")
   - [福田悠太](../Page/福田悠太.md "wikilink")（ふぉ〜ゆ〜）
   - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（ふぉ〜ゆ〜）
@@ -342,13 +342,13 @@
   - [西畑大吾](https://ja.wikipedia.org/wiki/西畑大吾 "wikilink")（9・10月公演）
   - [石川直](../Page/石川直.md "wikilink")
 
-#### Endless SHOCK 2015
+#### Endless SHOCK 15th Anniversary
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - マエダ ビバリ（オーナー） - [前田美波里](../Page/前田美波里.md "wikilink")（9月18日夜公演まで。骨折により降板\[53\]）
-  - ウエクサ（オーナー） - [植草克秀](../Page/植草克秀.md "wikilink")（9月19日以降。前田降板による代役）
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）
-  - ウチ（ライバル） - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）
+  - マエダ ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")（9月18日夜公演まで。骨折により降板\[64\]）：オーナー
+  - ウエクサ - [植草克秀](../Page/植草克秀.md "wikilink")（9月19日以降。前田降板による代役）：オーナー
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）：ライバル
+  - ウチ - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）：ライバル
   - リカ - [ラフルアー宮澤エマ](https://ja.wikipedia.org/wiki/ラフルアー宮澤エマ "wikilink")（2・3月公演）／[菊地美香](../Page/菊地美香.md "wikilink")（9・10月公演）
   - [福田悠太](../Page/福田悠太.md "wikilink")（ふぉ〜ゆ〜）（2・3月公演）
   - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（ふぉ〜ゆ〜）（2・3月公演）
@@ -364,8 +364,8 @@
 #### Endless SHOCK 2016
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - マエダ ビバリ（オーナー） - [前田美波里](../Page/前田美波里.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")
+  - マエダ ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")：ライバル
   - リカ - [小南満佑子](https://ja.wikipedia.org/wiki/小南満佑子 "wikilink")
   - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（ふぉ〜ゆ〜）（2月公演）
   - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（ふぉ〜ゆ〜）（2月公演）
@@ -380,9 +380,9 @@
 #### Endless SHOCK 2017
 
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
-  - マエダ ビバリ（オーナー） - [前田美波里](../Page/前田美波里.md "wikilink")
-  - ヤラ（ライバル） - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）
-  - ウチ（ライバル） - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）
+  - マエダ ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー
+  - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）：ライバル
+  - ウチ - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）：ライバル
   - リカ - [松浦雅](https://ja.wikipedia.org/wiki/松浦雅 "wikilink")
   - [福田悠太](../Page/福田悠太.md "wikilink")（ふぉ〜ゆ〜）（2・3月公演）
   - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（ふぉ〜ゆ〜）（2・3月公演）
@@ -396,48 +396,48 @@
 
 #### Endless SHOCK 2018
 
-  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")\[54\]
-  - オーナー役 - [久野綾希子](../Page/久野綾希子.md "wikilink")\[55\]
-  - ライバル・**ユウマ** - [中山優馬](../Page/中山優馬.md "wikilink")\[56\]
-  - ヒロイン・**リカ** - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")\[57\]
-  - [福田悠太](../Page/福田悠太.md "wikilink")\[58\]
-  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[59\]
-  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[60\]
-  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")\[61\]
-  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[62\]
-  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[63\]
-  - [石川直](../Page/石川直.md "wikilink")\[64\]
+  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")\[65\]
+  - [久野綾希子](../Page/久野綾希子.md "wikilink")：オーナー\[66\]
+  - **ユウマ** - [中山優馬](../Page/中山優馬.md "wikilink")：ライバル\[67\]
+  - **リカ** - [瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")：ヒロイン\[68\]
+  - [福田悠太](../Page/福田悠太.md "wikilink")\[69\]
+  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[70\]
+  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[71\]
+  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")\[72\]
+  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[73\]
+  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[74\]
+  - [石川直](../Page/石川直.md "wikilink")\[75\]
 
 #### Endless SHOCK 2019
 
-  - 主人公・**コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")\[65\]
-  - オーナー役 - [前田美波里](../Page/前田美波里.md "wikilink")\[66\]
-  - ライバル役 - [内博貴](../Page/内博貴.md "wikilink")（東京公演）\[67\]
-  - ライバル役 - [中山優馬](../Page/中山優馬.md "wikilink")（大阪公演）\[68\]
-  - ヒロイン役 - [梅田彩佳](../Page/梅田彩佳.md "wikilink")\[69\]
-  - [福田悠太](../Page/福田悠太.md "wikilink")\[70\]
-  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（東京公演）\[71\]
-  - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（大阪公演）\[72\]
-  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（大阪公演）\[73\]
-  - [川島如恵留](../Page/川島如恵留.md "wikilink")\[74\]
-  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[75\]
-  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[76\]
-  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")（東京公演）\[77\]
-  - [石川直](../Page/石川直.md "wikilink")\[78\]
-
-#### Endless SHOCK 2020
-
-  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")\[79\]
-  - オーナー役 - [前田美波里](../Page/前田美波里.md "wikilink")\[80\]
-  - ライバル役 - [上田竜也](../Page/上田竜也.md "wikilink")\[81\]
-  - ヒロイン役 - [梅田彩佳](../Page/梅田彩佳.md "wikilink")\[82\]
-  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[83\]
-  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[84\]
-  - 寺西拓人\[85\]
-  - [高田翔](../Page/高田翔.md "wikilink")\[86\]
-  - [椿泰我](../Page/椿泰我.md "wikilink")\[87\]
-  - 松井奏\[88\]
+  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")：主人公\[76\]
+  - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー\[77\]
+  - [内博貴](../Page/内博貴.md "wikilink")（東京公演）：ライバル\[78\]
+  - [中山優馬](../Page/中山優馬.md "wikilink")（大阪公演）：ライバル\[79\]
+  - [梅田彩佳](../Page/梅田彩佳.md "wikilink")：ヒロイン\[80\]
+  - [福田悠太](../Page/福田悠太.md "wikilink")\[81\]
+  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（東京公演）\[82\]
+  - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（大阪公演）\[83\]
+  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（大阪公演）\[84\]
+  - [川島如恵留](../Page/川島如恵留.md "wikilink")\[85\]
+  - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")\[86\]
+  - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")\[87\]
+  - [寺西拓人](https://ja.wikipedia.org/wiki/寺西拓人 "wikilink")（東京公演）\[88\]
   - [石川直](../Page/石川直.md "wikilink")\[89\]
+
+#### Endless SHOCK 20th Anniversary
+
+  - **コウイチ** - [堂本光一](../Page/堂本光一.md "wikilink")：主人公\[90\]
+  - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー\[91\]
+  - **タツヤ** - [上田竜也](../Page/上田竜也.md "wikilink")：ライバル\[92\]
+  - **リカ** - [梅田彩佳](../Page/梅田彩佳.md "wikilink")：ヒロイン。オーナーの娘。\[93\]
+  - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")\[94\]
+  - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")\[95\]
+  - 寺西拓人\[96\]
+  - [高田翔](../Page/高田翔.md "wikilink")\[97\]
+  - [椿泰我](../Page/椿泰我.md "wikilink")\[98\]
+  - 松井奏\[99\]
+  - [石川直](../Page/石川直.md "wikilink")\[100\]
 
 ## 劇中劇
 
@@ -659,3 +659,14 @@
 87.
 88.
 89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.

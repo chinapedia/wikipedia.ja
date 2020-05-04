@@ -12,7 +12,7 @@
 ### 平日
 
   - [小山裕久](https://ja.wikipedia.org/wiki/小山裕久 "wikilink")
-  - [宮里伸哉](https://ja.wikipedia.org/wiki/宮里伸哉 "wikilink")
+  - [宮里伸哉](../Page/宮里伸哉.md "wikilink")
   - [冨高由喜](../Page/冨高由喜.md "wikilink")
   - [三河かおり](../Page/三河かおり.md "wikilink")
   - [内山知子](../Page/内山知子.md "wikilink")

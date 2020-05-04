@@ -31,7 +31,7 @@
 
 1989年 「[毒薬と老嬢](https://ja.wikipedia.org/wiki/毒薬と老嬢 "wikilink")」で[平成元年](https://ja.wikipedia.org/wiki/平成元年 "wikilink")度芸術祭演劇部門賞受賞。
 
-2018年 「やっとことっちゃうんとこな」における作・演出で[池田政之が第](https://ja.wikipedia.org/wiki/池田政之_\(脚本家\) "wikilink")20回[テアトロ演劇賞](https://ja.wikipedia.org/wiki/テアトロ演劇賞 "wikilink")受賞。
+2019年 「やっとことっちゃうんとこな」における作・演出で[池田政之が第](https://ja.wikipedia.org/wiki/池田政之_\(脚本家\) "wikilink")20回[テアトロ演劇賞](https://ja.wikipedia.org/wiki/テアトロ演劇賞 "wikilink")受賞。
 
 　※同作は、若手俳優たちが劇中で歌舞伎を演じるという[新劇](https://ja.wikipedia.org/wiki/新劇 "wikilink")史上初の試みが高く評価された。
 

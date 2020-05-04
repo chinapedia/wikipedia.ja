@@ -107,6 +107,8 @@
 ## 外部リンク
 
   - [ANIM Official Website](http://www.hs-crowd.co.jp/anim/)（<span style="color:red">18禁</span>：年齢確認あり）
+
   - [☆anim-e オフィシャルホームページ☆](http://www.hs-crowd.co.jp/anim_e/)<span style="color:red">（18歳未満閲覧禁止）</span>
 
+  -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:北海道えろげー組合](https://ja.wikipedia.org/wiki/Category:北海道えろげー組合 "wikilink")

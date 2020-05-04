@@ -357,7 +357,7 @@ Oooit Records（1999年 - 2012年）
   - [ははのきまぐれ](https://ja.wikipedia.org/wiki/ははの気まぐれ_\(バンド\) "wikilink")（2002年〜2005年）
   - [パラダイス・ガラージ](https://ja.wikipedia.org/wiki/パラダイス・ガラージ "wikilink") (2000年)
   - [双葉双一](../Page/双葉双一.md "wikilink") (2001年〜2012年)
-  - [は](https://ja.wikipedia.org/wiki/ロビンズ_\(バンド\) "wikilink") (2002年〜2003年)
+  - [ロビンズ](https://ja.wikipedia.org/wiki/ロビンズ_\(バンド\) "wikilink") (2002年〜2003年)
 
 qoop music（2004年 - 2006年）
 

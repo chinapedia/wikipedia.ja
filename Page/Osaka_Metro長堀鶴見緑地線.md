@@ -13,7 +13,7 @@
 
 心斎橋駅では[御堂筋線のほか](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")、[四つ橋線の](../Page/Osaka_Metro四つ橋線.md "wikilink")[四ツ橋駅](../Page/四ツ橋駅.md "wikilink")とも改札内の通路で繋がっており、乗り換えが可能。そのため長堀鶴見緑地線も、全ての他のOsaka Metroの路線との乗り換えが可能（[新交通システム](../Page/新交通システム.md "wikilink")である[南港ポートタウン線は除く](../Page/Osaka_Metro南港ポートタウン線.md "wikilink")）な路線となっている。ただし、最初の区間が開業した1990年3月から心斎橋まで延伸された1996年12月までは他の地下鉄路線とは接続しておらず、その場合は京橋駅から[大阪環状線](../Page/大阪環状線.md "wikilink")などを経由した上で乗り継ぐ必要があった。
 
-後発で建設された地下鉄路線のため、既存の路線（のちに開通した[今里筋線を除く](https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線 "wikilink")）より深部を走ることとなることから、他の地下鉄路線と交差する都心部を中心に駅ホームがかなり深い位置にある。このため、乗り換えやホームから地上までの移動に時間がかかることが多いが、平成になっての開業路線でもあり、[バリアフリー](../Page/バリアフリー.md "wikilink")は充実している。しかし、他路線との乗り換えがない一部の単独駅では、改札フロアからホームへの下りエスカレーターが設置されていない駅も存在する。
+後発で建設された地下鉄路線のため、既存の路線（のちに開通した[今里筋線を除く](../Page/Osaka_Metro今里筋線.md "wikilink")）より深部を走ることとなることから、他の地下鉄路線と交差する都心部を中心に駅ホームがかなり深い位置にある。このため、乗り換えやホームから地上までの移動に時間がかかることが多いが、平成になっての開業路線でもあり、[バリアフリー](../Page/バリアフリー.md "wikilink")は充実している。しかし、他路線との乗り換えがない一部の単独駅では、改札フロアからホームへの下りエスカレーターが設置されていない駅も存在する。
 
 今後の計画として、大正駅からは同じく大正区の鶴町方面への延伸が検討されている。
 
@@ -59,7 +59,7 @@ Osakasubway-7101-shinsaibashi.jpg|臨時列車の心斎橋行き Osakasubway-710
 ## 車両
 
   - [70系](../Page/大阪市交通局70系電車.md "wikilink")（1990年 - ）
-  - [80系](../Page/大阪市交通局80系電車.md "wikilink")（30番台）（2019年 - ） - 増発に対応するため、[今里筋線で使用されていた](https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線 "wikilink")1編成を転用改造して導入\[7\]。
+  - [80系](../Page/大阪市交通局80系電車.md "wikilink")（30番台）（2019年 - ） - 増発に対応するため、[今里筋線で使用されていた](../Page/Osaka_Metro今里筋線.md "wikilink")1編成を転用改造して導入\[7\]。
 
 なお、大阪市交通局長であった今岡鶴吉は、リニアモーター導入にあたって「交通局の専門家が絶対反対」であったため、「いざとなったら、リニアモータ外しちゃって、回転型モータ取り付ける」ために「大阪の第1号は、内緒だけども床は高い」「本当の小型になっていない」とし、ここで「妥協したから」「本当に動き出して」「実用化の第一歩」となったと語っている。\[8\]
 
@@ -385,7 +385,7 @@ Osakasubway-7101-shinsaibashi.jpg|臨時列車の心斎橋行き Osakasubway-710
 <td><p>1.7</p></td>
 <td><p>10.2</p></td>
 <td><p>10.2</p></td>
-<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Imazatosuji_line_symbol.svg" title="fig:Osaka_Metro_Imazatosuji_line_symbol.svg">Osaka_Metro_Imazatosuji_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線" title="wikilink">今里筋線</a> (I18)</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Imazatosuji_line_symbol.svg" title="fig:Osaka_Metro_Imazatosuji_line_symbol.svg">Osaka_Metro_Imazatosuji_line_symbol.svg</a> <a href="../Page/Osaka_Metro今里筋線.md" title="wikilink">今里筋線</a> (I18)</p></td>
 <td><p><a href="../Page/城東区.md" title="wikilink">城東区</a></p></td>
 </tr>
 <tr class="even">

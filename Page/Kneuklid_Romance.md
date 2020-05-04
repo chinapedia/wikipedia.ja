@@ -5,6 +5,8 @@
 
 1992年結成。ミニアルバム「LINK」でメジャーデビュー。2000年3月に解散が発表された。解散後もメンバー各々で音楽活動を継続している。2009年6月27日に、[KISAKI](../Page/KISAKI.md "wikilink")プロデュースの下で一日復活ライブを行った。[2011年](../Page/2011年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")、同じくKISAKIプロデュースの下、新ボーカル・星七(the Raid.)を迎え、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて一日限りの復活ライブを行う。2012年には追加公演ライブを行った。
 
+2019年11月16日、『Kneuklid Romance 復活ワンマンライヴ BABYLON 9』をZicro Tokyoにて開催\[1\]。
+
 ## メンバー
 
   - Vocal：YUTAKA
@@ -66,5 +68,8 @@
 ## 外部リンク
 
   - [Kneuklid Romance公式サイト ホームページ](http://kneuklid-romance.com/)
+  - [Kneuklid Romance Official Twitter](https://mobile.twitter.com/kkr_babylon9)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink")
+
+1.

@@ -60,30 +60,24 @@
         OTTAVA独自のオンデマンド・サービス「OTTAVA Premio」有料会員(Premio会員・Premio Plus会員)\[23\]が、端末を問わずほとんどすべてのブラウザで聴取できる。
         2019年10月29日から、生放送番組についてはスタジオの様子が動画配信されるようになった。
 
-  - ;補助無料配信
-
-      -
-        配信プラットフォームは[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")Live\[24\]を用いている。音声コーデックはMP4(AAC) 128kbps\[25\]。
-        ただし、2018年7月25日を最後にライブ配信は行われていない模様。
-        かつてはスタジオのライブ動画も配信されていたが、壁のプレート\[26\]が映されているだけであった。たまにプレゼンターがイタズラすることがあった。コンサートの告知やOTTAVAの紹介などの静止画が配信されていた時期もあった。
-
-  - ;[ハイレゾでの聴取](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")
-
-      -
-        配信プラットフォームは[PrimeSeat](https://ja.wikipedia.org/wiki/PrimeSeat "wikilink")を用いている。配信フォーマットは[PCM形式](../Page/パルス符号変調.md "wikilink") 48kHz/24bit\[27\]。PCの専用ソフトウェアで聴取できる。
-        2020年4月現在、平日の9 - 22時に『OTTAVA Fresca』『OTTAVA Andante』『OTTAVA Jazz』を配信する。
-        2016年1月 - 2017年3月には、録音番組『PrimeSeat Salon』\[28\]のほか、生番組『PrimeSeat/OTTAVA Aria』『PrimeSeat/OTTAVA Liberta』『[PrimeSeat/OTTAVA Salone](https://ja.wikipedia.org/wiki/OTTAVA_Salone "wikilink")』『PrimeSeat/OTTAVA Navi』がPrimeSeatと共同制作されていた\[29\]。
-
   - ;専用アプリ
 
       -
-        2019年12月23日にiOS版が、27日にAndroid版がリリースされた。OTTAVAの全番組を聴取可能\[30\]。Premio会員は延長放送や生放送の動画配信、オンデマンドも視聴できる。
+        2019年12月23日にiOS版が、27日にAndroid版がリリースされた。OTTAVAの全番組を聴取可能\[24\]。Premio会員は延長放送や生放送の動画配信、オンデマンドも視聴できる。
 
   - OTTAVA.TV
-    パソコン・スマートフォン・タブレットのブラウザで、上演開始時刻より72時間視聴可能。有料プログラムの場合はチケットの購入が必要である\[31\]。
+    パソコン・スマートフォン・タブレットのブラウザで、上演開始時刻より72時間視聴可能。有料プログラムの場合はチケットの購入が必要である\[25\]。
 
 ### 過去の聴取方法
 
+  - PrimeSeatによる[ハイレゾでの聴取](https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ "wikilink")
+    2016年1月 - 2020年4月24日\[26\]。配信フォーマットは[PCM形式](../Page/パルス符号変調.md "wikilink") 48kHz/24bit\[27\]。PCの専用ソフトウェアで聴取できる。
+    2016年1月 - 2017年3月には、録音番組『PrimeSeat Salon』\[28\]のほか、生番組『PrimeSeat/OTTAVA Aria』『PrimeSeat/OTTAVA Liberta』『[PrimeSeat/OTTAVA Salone](https://ja.wikipedia.org/wiki/OTTAVA_Salone "wikilink")』『PrimeSeat/OTTAVA Navi』がPrimeSeatと共同制作されていた\[29\]。
+    共同制作が終わっても、平日の9 - 22時に無料配信と同内容の番組を配信していた。
+  - YouTube
+    音声コーデックはMP4(AAC) 128kbps\[30\]。
+    ただし、2018年7月25日を最後にライブ配信は行われていない模様。
+    かつてはスタジオのライブ動画も配信されていたが、壁のプレート\[31\]が映されているだけであった。たまにプレゼンターがイタズラすることがあった。コンサートの告知やOTTAVAの紹介などの静止画が配信されていた時期もあった。
   - ニコニコ動画
     2014年12月5日に『OTTAVA Salone』のライブ配信を開始。2015年2月12日、スタジオのライブ動画配信が可能になった。同年4月12日、スタジオの一番町への移転後に、ニコニコ動画のみでの生放送延長(「残業」「居残り放送」「放課後」と呼ばれた)も行われるようになった。タイムシフト機能などを利用した有料オンデマンド聴取や録音番組『The World of OTTAVA』『Classic High\!』の聴取も可能であった。
     「OTTAVA Premio」のスタートにともない、2018年10月31日に生番組のライブ配信は終了。11月30日にOTTAVAチャンネルはクローズした。
@@ -2192,14 +2186,14 @@ MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
 21. 通常の音質の「PCモード」のほか、低音質でデータ量を抑えた「Mobileモード」での再生も可能である。
 22. [2018年11月23日現在のストリームURL](http://ottava.out.airtime.pro:8000/ottava_b)
 23. [OTTAVA Premioについて](https://ottava.jp/plan)
-24. [YouTube](http://youtube.com/)
-25. <https://support.google.com/youtube/answer/4603579?hl=ja>
-26. 2007年の開局時に[坂本龍一](../Page/坂本龍一.md "wikilink")に書いてもらったものである。
+24.
+25. [視聴方法(OTTAVA.TV)](https://ottava.tv/howto.html)
+26.
 27. 変更前の配信フォーマットは[DSD形式](../Page/Direct_Stream_Digital.md "wikilink") 5.6MHzであった。
 28.
 29.
-30.
-31. [視聴方法(OTTAVA.TV)](https://ottava.tv/howto.html)
+30. <https://support.google.com/youtube/answer/4603579?hl=ja>
+31. 2007年の開局時に[坂本龍一](../Page/坂本龍一.md "wikilink")に書いてもらったものである。
 32. [楽天FM](http://rakuten.fm/)
 33. [このブログ記事](http://tweez.net/bottava_01/)から聴取可能。ダイレクトURL指定でamoroso、animato、conbrioを2013年3月16日からTBSでのOTTAVAが終了した2014年6月30日まで。ただし2014年6月30日のconbrioを除く。
 34. [リスナーの皆さまへ](http://www.d-radio.or.jp/)デジタルラジオ推進協会

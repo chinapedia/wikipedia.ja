@@ -53,7 +53,7 @@
 | [兵庫県](../Page/兵庫県.md "wikilink")                      | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                   | 火曜 8時00分 - 8時30分                                                | 3日遅れ               |         |
 | [滋賀県](../Page/滋賀県.md "wikilink")                      | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      | 日曜 11時30分 - 12時00分                                              | 1日遅れ               |         |
 | [奈良県](../Page/奈良県.md "wikilink")                      | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") | 土曜 7時55分 - 8時25分                                                | 14時間5分先行           |         |
-| [和歌山県](../Page/和歌山県.md "wikilink")                    | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink") | 土曜 9時00分 - 9時30分                                                | 13時間先行             |         |
+| [和歌山県](../Page/和歌山県.md "wikilink")                    | [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")                    | 土曜 9時00分 - 9時30分                                                | 13時間先行             |         |
 
 ※TOKYO MXを除いた土曜午前に放送される局はtvkより先行ネット。
 

@@ -12,7 +12,7 @@
   - [ロード・トリップ](../Page/ロード・トリップ.md "wikilink") *Road Trip* (2000)
   - [インシデント](../Page/インシデント.md "wikilink") *Cherry Falls* (2000)
   - ライ麦畑をさがして ''Chasing Holden '' (2001)
-  - ビッグ・トラブル *Big Trouble* (2002)
+  - [ビッグ・トラブル](https://ja.wikipedia.org/wiki/ビッグ・トラブル_\(2002年の映画\) "wikilink") *Big Trouble* (2002)
   - テキサス・クライム・ジャンクション *Lone Star State of Mind* (2002)
   - ニュー・ガイ *The New Guy* (2002)
   - [ザ・コア](../Page/ザ・コア.md "wikilink") *The Core* (2003)

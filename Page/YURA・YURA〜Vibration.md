@@ -5,7 +5,7 @@
 
 ## 概要
 
-タイトル曲は[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』エンディングテーマに起用された。累計売上は3.6万枚を記録\[1\]。レコーディングにはギタリストとして[葛城哲哉](../Page/葛城哲哉.md "wikilink")、トランペッターとして[数原晋](../Page/数原晋.md "wikilink")が参加している。浅倉大介がプロデュースを手掛けたアーティストの楽曲を収録したリミックスアルバム『[DAynamite Mix Juice1-you know beat?-](https://ja.wikipedia.org/wiki/DAynamite_Mix_Juice1-you_know_beat?- "wikilink")』には、[MSTがリミックスを担当した](https://ja.wikipedia.org/wiki/MST_\(ミュージシャン\) "wikilink")「RED MONSTER MIX」が収録されている。
+タイトル曲は[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』エンディングテーマに起用された。累計売上は3.6万枚を記録\[1\]。レコーディングにはギタリストとして[葛城哲哉](../Page/葛城哲哉.md "wikilink")、トランペッターとして[数原晋](../Page/数原晋.md "wikilink")が参加している。浅倉大介がプロデュースを手掛けたアーティストの楽曲を収録したリミックスアルバム『[DAynamite Mix Juice1-you know beat?-](https://ja.wikipedia.org/wiki/DAynamite_Mix_Juice1-you_know_beat?- "wikilink")』には、[MSTがリミックスを担当した](https://ja.wikipedia.org/wiki/MST_\(ミュージシャン\) "wikilink")「RED MONSTER MIX」が収録されている。
 
 ## 収録曲
 

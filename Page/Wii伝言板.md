@@ -83,6 +83,6 @@ Wiiをインターネットに接続して[アップデートすると](https://
 
 ## 外部リンク
 
-  - [公式サイト](http://www.nintendo.co.jp/wii/features/wiiconnect24.html)
+  - [公式サイト](https://www.nintendo.co.jp/wii/features/wiiconnect24.html)
 
 [Category:Wii](https://ja.wikipedia.org/wiki/Category:Wii "wikilink")

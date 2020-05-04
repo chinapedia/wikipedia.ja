@@ -36,7 +36,7 @@
   - [田原健一](../Page/田原健一.md "wikilink") - Guitar
   - [中川敬輔](../Page/中川敬輔.md "wikilink") - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [鈴木英哉](../Page/鈴木英哉.md "wikilink") - [Drums](../Page/ドラムセット.md "wikilink")
-  - [小林武史](../Page/小林武史.md "wikilink") - [Keybords](../Page/キーボード_\(楽器\).md "wikilink")
+  - [小林武史](../Page/小林武史.md "wikilink") - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
 
 **Additional Musicians**
 

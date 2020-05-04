@@ -217,7 +217,7 @@
 
   - [S\&M series](http://www001.upp.so-net.ne.jp/mori/myst/indexjpeg/S_M1.html) - 作者による解説
 
-[Category:日本の推理小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の推理小説のシリーズ "wikilink") [Category:森博嗣](https://ja.wikipedia.org/wiki/Category:森博嗣 "wikilink") [Category:名古屋市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台とした作品 "wikilink") [Category:数学を題材とした作品](https://ja.wikipedia.org/wiki/Category:数学を題材とした作品 "wikilink") [Category:大学を舞台とした小説](https://ja.wikipedia.org/wiki/Category:大学を舞台とした小説 "wikilink")
+[Category:日本の推理小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の推理小説のシリーズ "wikilink") [Category:森博嗣](https://ja.wikipedia.org/wiki/Category:森博嗣 "wikilink") [Category:名古屋市を舞台とした小説](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台とした小説 "wikilink") [Category:数学を題材とした作品](https://ja.wikipedia.org/wiki/Category:数学を題材とした作品 "wikilink") [Category:大学を舞台とした小説](https://ja.wikipedia.org/wiki/Category:大学を舞台とした小説 "wikilink")
 
 1.  公式サイトでは『**S\&Mシリーズ**』と『**犀川創平＆西之園萌絵シリーズ**』が併記されている。
 2.  正確には森をデビューさせるために創設された。

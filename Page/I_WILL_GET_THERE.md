@@ -14,9 +14,11 @@
 ### 収録曲
 
 1.  **I WILL GET THERE**
-      - 作詞/作曲：[Diane Warren](https://ja.wikipedia.org/wiki/ダイアン・ウォーレン "wikilink")、編曲：[Rob Mathes](https://ja.wikipedia.org/wiki/Rob_Mathes "wikilink")、日本語詞：J-FRIENDS PROJECT・[小幡英之](../Page/小幡英之.md "wikilink")
+      -
+        作詞/作曲：[Diane Warren](https://ja.wikipedia.org/wiki/ダイアン・ウォーレン "wikilink")、編曲：[Rob Mathes](https://ja.wikipedia.org/wiki/Rob_Mathes "wikilink")、日本語詞：J-FRIENDS PROJECT・[小幡英之](../Page/小幡英之.md "wikilink")
 2.  **CAN YOU FEEL THIS CHRISTMAS?**
-      - 作詞：J-FRIENDS PROJECT・[真木須とも子](https://ja.wikipedia.org/wiki/真木須とも子 "wikilink")、作曲：[椎名KAY太](https://ja.wikipedia.org/wiki/椎名KAY太 "wikilink")、編曲：[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
+      -
+        作詞：J-FRIENDS PROJECT・[真木須とも子](https://ja.wikipedia.org/wiki/真木須とも子 "wikilink")、作曲：[椎名KAY太](https://ja.wikipedia.org/wiki/椎名KAY太 "wikilink")、編曲：[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink")
 3.  I WILL GET THERE（INSTRUMENTAL）
 4.  CAN YOU FEEL THIS CHRISTMAS?（INSTRUMENTAL）
 

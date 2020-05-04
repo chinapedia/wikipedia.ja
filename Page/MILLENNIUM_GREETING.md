@@ -13,11 +13,9 @@
 1.  **野性の花**
       -
         作詞：[真木須とも子](https://ja.wikipedia.org/wiki/真木須とも子 "wikilink")、作曲/編曲：[田島貴男](../Page/田島貴男.md "wikilink")
-        坂本、井ノ原、森田にソロパートがある。
 2.  **Life goes on**
       -
         作詞/作曲：[片岡大志](../Page/片岡大志.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
-        坂本、井ノ原にソロパートがある。
 3.  **MY DAYS**
       -
         作詞：[森たまき](https://ja.wikipedia.org/wiki/森たまき_\(ミュージシャン\) "wikilink")、作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")、編曲：[村山晋一郎](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")

@@ -60,5 +60,5 @@
 5.
 6.
 7.  「シングル「weeeek」&アルバム「pacific」リリース記念特設サイト」Johnny's Web、2007年11月4日。（参照: 2007年11月14日、消滅確認: 2007年11月27日）
-8.  『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』（2007年11月12日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+8.  『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』（2007年11月12日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 9.

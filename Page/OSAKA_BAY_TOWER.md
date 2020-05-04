@@ -7,7 +7,7 @@
 
 ## 概要
 
-大阪市が[弁天町駅](https://ja.wikipedia.org/wiki/弁天町駅 "wikilink")（[JR大阪環状線](../Page/大阪環状線.md "wikilink")・[Osaka Metro中央線](https://ja.wikipedia.org/wiki/Osaka_Metro中央線 "wikilink")）の西側に広がる[3ヘクタールの市有地を開発した末に完成した施設で](../Page/ヘクタール.md "wikilink")、同駅とは高架の連絡通路で結ばれている。
+大阪市が[弁天町駅](https://ja.wikipedia.org/wiki/弁天町駅 "wikilink")（[JR大阪環状線](../Page/大阪環状線.md "wikilink")・[Osaka Metro中央線](../Page/Osaka_Metro中央線.md "wikilink")）の西側に広がる[3ヘクタールの市有地を開発した末に完成した施設で](../Page/ヘクタール.md "wikilink")、同駅とは高架の連絡通路で結ばれている。
 
 公有地信託制度を導入した「弁天町駅前開発土地信託事業」として、[1993年](../Page/1993年.md "wikilink")2月に竣工。旧名称の **ORC** は「大阪リゾートシティ」の頭文字（**O**saka **R**esort **C**ity）、**200** は最高部の高さ（200m）にちなんでいた。
 
@@ -27,7 +27,7 @@
 
   - [弁天町駅](https://ja.wikipedia.org/wiki/弁天町駅 "wikilink")
       - [JR](../Page/西日本旅客鉄道.md "wikilink")[大阪環状線](../Page/大阪環状線.md "wikilink")
-      - [Osaka Metro中央線](https://ja.wikipedia.org/wiki/Osaka_Metro中央線 "wikilink")
+      - [Osaka Metro中央線](../Page/Osaka_Metro中央線.md "wikilink")
 
 ## 主な施設
 

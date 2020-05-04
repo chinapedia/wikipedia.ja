@@ -7,6 +7,9 @@
 
 ## 受賞者一覧
 
+  -
+    注：年度表記であり、受賞年は表記の次年
+
 <table>
 <thead>
 <tr class="header">
@@ -161,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>第37回（1985年度）</p></td>
-<td><p><a href="../Page/芥川也寸志.md" title="wikilink">芥川也寸志</a>、<a href="../Page/司馬遼太郎.md" title="wikilink">司馬遼太郎</a>、<a href="../Page/牧野直隆.md" title="wikilink">牧野直隆</a>、<a href="https://ja.wikipedia.org/wiki/宮川洋" title="wikilink">宮川洋</a>、<a href="https://ja.wikipedia.org/wiki/向坊隆" title="wikilink">向坊隆</a>、<a href="../Page/笠智衆.md" title="wikilink">笠智衆</a></p></td>
+<td><p><a href="../Page/芥川也寸志.md" title="wikilink">芥川也寸志</a>、<a href="../Page/司馬遼太郎.md" title="wikilink">司馬遼太郎</a>、<a href="../Page/牧野直隆.md" title="wikilink">牧野直隆</a>、<a href="https://ja.wikipedia.org/wiki/宮川洋" title="wikilink">宮川洋</a>、<a href="../Page/向坊隆.md" title="wikilink">向坊隆</a>、<a href="../Page/笠智衆.md" title="wikilink">笠智衆</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第38回（1986年度）</p></td>

@@ -230,7 +230,7 @@
 
   - [ミュウ社長のHustler Diary](http://blog.livedoor.jp/myumyu1111/) - 公式[ブログ](../Page/ブログ.md "wikilink")
 
-  - [ミュウ社長のHustler Diary](http://ameblo.jp/hustler-team/) - 公式ブログ2
+  - [ミュウ社長のHustler Diary](https://ameblo.jp/hustler-team/) - 公式ブログ2
 
   -
   - [The Free AV女優 ミュウ](http://www.broadav.com/myu/top.html)

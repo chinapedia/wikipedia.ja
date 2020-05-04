@@ -578,14 +578,12 @@ ULTRA NANIWATIC MC'S、鉄板BOYZ等のグループでの作品は除く
 ### テレビ番組
 
   - [地方発 ドキュメンタリー](https://ja.wikipedia.org/wiki/地方発_ドキュメンタリー "wikilink")「”西成”を歌うアーティスト」（2013年6月18日、NHK総合）
-
-<!-- end list -->
-
   - [バリバラ～障害者情報バラエティー～](https://ja.wikipedia.org/wiki/バリバラ〜障害者情報バラエティー〜 "wikilink")（2014年10月10日、[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）
-
-<!-- end list -->
-
   - [探検バクモン](https://ja.wikipedia.org/wiki/探検バクモン "wikilink")「ニッポン労働ブルース～人情編～」（2015年9月23日、NHK総合）
+
+### 映画
+
+  - [解放区](https://ja.wikipedia.org/wiki/解放区_\(2014年の映画\) "wikilink")（2019年10月18日公開、SPACE SHOWER FILMS）
 
 ## ミュージックビデオ
 

@@ -11,7 +11,7 @@
 
 2011年4月28日に[日本武道館](../Page/日本武道館.md "wikilink")で行われた、1日のみの特別記念公演“**10th Anniversary 〜Three Fourteen〜 @日本武道館**”に先がけ、オフィシャル・サイトにて公式に『w-inds.に歌って欲しい楽曲は？』というアンケート調査を行ったところ、「Long Road」が1位であったことが前記公演のメンバーによるMCにて明かされた。
 
-2003年12月15日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+2003年12月15日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ## 収録曲
 

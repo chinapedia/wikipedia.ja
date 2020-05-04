@@ -89,7 +89,8 @@
 
 ### RIP LOCKS\!
 
-  - “遊びの講師”の[RIP SLYME](../Page/RIP_SLYME.md "wikilink")（RYO-Z+SU、PES、ILMARI、DJ FUMIYAが交代で出演）が担当。
+  - “遊びの講師”の[RIP SLYMEが担当](../Page/RIP_SLYME.md "wikilink")。
+  - RYO-Z+SU、PES、ILMARI、DJ FUMIYAが交代で出演。
   - 2009年5月8日放送の「学校運営戦略会議」にて、同年6月8日をもって無期限休講することを発表。
 
 #### コーナー
@@ -161,7 +162,8 @@
 
 ### くるりLOCKS\!
 
-  - [くるり](../Page/くるり.md "wikilink")が担当。「春の集中講座」として2008年3月限定で放送。
+  - [くるり](../Page/くるり.md "wikilink")が担当。
+  - 「春の集中講座」として2008年3月限定で放送。
 
 ### カエラLOCKS\!
 
@@ -170,17 +172,20 @@
 
 ### 氣志團LOCKS\!
 
-  - 「休み時間」と称し、屋上の團長の[氣志團](../Page/氣志團.md "wikilink") （綾小路セロニアス翔のみ出演だが時折メンバー数人か全員が登場、稀に[微熱DANJI](../Page/微熱DANJI.md "wikilink")も登場）が担当。
+  - "屋上の團長"[氣志團](../Page/氣志團.md "wikilink")が担当。
+  - 「休み時間」と称していた。
+  - 綾小路セロニアス翔のみ出演だが時折メンバー数人か全員が登場。稀に[微熱DANJI](../Page/微熱DANJI.md "wikilink")も登場した。
   - 番組放送当時から木曜日のレギュラー講師を担当。
   - 2007年3月、「無期停学」という形で終了。
 
 ### 絢香LOCKS\!
 
-  - “星空教室”として[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")が担当。授業テーマは「星の声」。
+  - “星空教室”として[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")が担当。
+  - 授業テーマは「星の声」。
   - 『[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")』に出演している[榮倉奈々](https://ja.wikipedia.org/wiki/榮倉奈々 "wikilink")とプライベートでの関わりもあり、生放送教室に登場したことがあった。
   - 2008年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")より、期間限定でレギュラーとなった。
   - 授業後、絢香自ら「絢香掲示板」への書き込みをしている。それに対してリスナーが[レス](../Page/レス.md "wikilink")することは可能。
-  - 2008年11月末（27日）、「休講」という形で終了。
+  - 2008年[11月27日](../Page/11月27日.md "wikilink")、「休講」という形で終了。
 
 ### チャットLOCKS\!
 
@@ -201,7 +206,7 @@
 
 ### YUI LOCKS\!
 
-  - “「◇◇◇◇」\[3\]の講師”女性シンガーソングライターの[YUIが担当](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")。
+  - “「◇◇◇◇」\[3\]の講師”[YUIが担当](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")。
   - メイン授業は「紙ヒコーキダイアリー」である。決心の日記を書き、それが実行できたら実現の日記に書く。期間が決まっていないことから「明日こそは〜をたべるぞ！」を始め「絶対〜に合格する！」など様々なものがある。
   - 2006年10月から2007年3月までは[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")4週目の時間を担当し、4月から木曜日のレギュラー講師となった。
   - 毎放送の挨拶の際、「こんばんわんこ」など「今晩は」のあとに言葉をつけていた。
@@ -230,7 +235,8 @@
 
 ### 長渕LOCKS\!
 
-  - “炎の生活指導”[長渕剛](../Page/長渕剛.md "wikilink")が担当。他のLOCKS\!と異なり、とーやま校長も出演。
+  - “炎の生活指導”[長渕剛](../Page/長渕剛.md "wikilink")が担当。
+  - 他のLOCKS\!と異なり、とーやま校長も出演。
   - 2014年10月4日より開始。
   - 当初では2015年3月までの半年間の開講予定であったが、2015年3月の放送中に「できるだけ続ける」という方針を示し、期間延長となった。
   - 2015年3月までは毎週土曜日22:00 - 22:30に放送されていた。2015年4月から放送枠を毎週日曜日23:30 - 23:55に移動。同年6月29日に終了した。
@@ -242,11 +248,14 @@
 
 #### THE TURTLE JAPAN LOCKS\!
 
-  - [THE TURTLES JAPANが担当](https://ja.wikipedia.org/wiki/THE_TURTLES_JAPAN "wikilink")。**flumpool LOCKS\!のジャック**\[5\]という形でflumpool LOCKS\!の枠で不定期に放送されていた。メインメンバーの[KAMEDA](../Page/亀田誠治.md "wikilink")、[YAMAMURA](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、[SAKAIが進行を行う](https://ja.wikipedia.org/wiki/阪井一生 "wikilink")。
+  - [THE TURTLES JAPANが担当](https://ja.wikipedia.org/wiki/THE_TURTLES_JAPAN "wikilink")。
+  - **flumpool LOCKS\!のジャック**\[5\]という形でflumpool LOCKS\!の枠で不定期に放送されていた。
+  - メインメンバーの[KAMEDA](../Page/亀田誠治.md "wikilink")、[YAMAMURA](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、[SAKAIが出演していた](https://ja.wikipedia.org/wiki/阪井一生 "wikilink")。
 
 ### クリープLOCKS\!
 
-  - “社会の講師”[クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")が担当。基本的には、[尾崎世界観のみが出演していた](https://ja.wikipedia.org/wiki/クリープハイプ#現メンバー "wikilink")。
+  - “社会の講師”[クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")が担当。
+  - 基本的には、[尾崎世界観のみが出演していた](https://ja.wikipedia.org/wiki/クリープハイプ#現メンバー "wikilink")。
   - 2014年5月6日から、毎週火曜日に放送されていた。2015年9月29日を最後に休講。同日には、メンバー全員が生放送教室にゲスト講師として来校した。
   - 実質的には、同年3月に休講した[ベボベLOCKS\!の枠を引き継ぐ形となっているが](https://ja.wikipedia.org/wiki/#ベボベLOCKS! "wikilink")、4月は[アジカンLOCKS\!が開講された](https://ja.wikipedia.org/wiki/#アジカンLOCKS! "wikilink") (1か月間の限定復活)。
 
@@ -266,6 +275,7 @@
 
 ### RAD LOCKS\!
 
+  - “おかずの講師”[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")が担当。
   - 当初は、BUMP OF CHICKEN、ゆずに次ぐ火曜日のレギュラー講師を担当していた。
   - 以前よりWebラジオで配信され、2007年4月に繰り上げでレギュラーとなった。
   - 2007年7月は、メンバーがライブの準備に専念するため、1か月間休講となった。そこで、WEB LOCKS\!を担当している[チャットモンチー](../Page/チャットモンチー.md "wikilink")（10日・24日）・[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")（17日・31日）が、ピンチヒッターとして火曜日の放送を務めた。尚、3日は[JET STREAM特別番組の都合で](../Page/JET_STREAM.md "wikilink")[SCHOOL OF LOCK\!自体が](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")22時台のみの放送となった。
@@ -276,32 +286,40 @@
 
 ### ブルエンLOCKS\!
 
-  - “青学の講師”[BLUE ENCOUNTが担当](https://ja.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")。[2017年](../Page/2017年.md "wikilink")1月から3ヶ月限定で担当し、3月29日放送分をもって休講。
+  - “青学の講師”[BLUE ENCOUNTが担当](https://ja.wikipedia.org/wiki/BLUE_ENCOUNT "wikilink")。
+  - [2017年](../Page/2017年.md "wikilink")1月から3ヶ月限定で担当し、3月29日放送分をもって休講。
 
 #### 親子のキズナプロジェクト
 
-  - 「絆の春期講習」として、[2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月27日](../Page/3月27日.md "wikilink")まで期間限定で担当。金曜日の22：30頃から約20分間。生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[7\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
+  - 「絆の春期講習」として、[2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月27日](../Page/3月27日.md "wikilink")まで期間限定で担当。
+  - 金曜日の22：30頃から約20分間。
+  - 生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[7\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
 
 ### ユニゾンLOCKS\!
 
-  - “鍵のスクール・ドクター”[UNISON SQUARE GARDENが担当](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")。[2017年](../Page/2017年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送分から6ヶ月限定で担当し、[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送分をもって休講。
+  - “鍵のスクール・ドクター”[UNISON SQUARE GARDENが担当](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")。
+  - [2017年](../Page/2017年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送分から6ヶ月限定で担当し、[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")放送分をもって休講。
 
 ### きゃりーLOCKS\!
 
-  - “鍵の遊園地の園長”[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")が担当。[2015年](../Page/2015年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間放送された\[8\]
+  - “鍵の遊園地の園長”[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")が担当。
+  - [2015年](../Page/2015年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間放送された\[8\]
   - [GIRLS LOCKS！の枠を割いて放送されていたが](../Page/GIRLS_LOCKS!.md "wikilink")、公式サイトは独立している。
 
 ### SHISHAMO LOCKS！
 
-  - “美術の講師”[SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")が担当。[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、金曜日の22：15頃から10分間放送された。
+  - “美術の講師”[SHISHAMO](https://ja.wikipedia.org/wiki/SHISHAMO "wikilink")が担当。
+  - [2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、金曜日の22：15頃から10分間放送された。
 
-### [Aqours LOCKS！](https://ja.wikipedia.org/wiki/Aqours_LOCKS! "wikilink")
+### Aqours LOCKS！
 
-  - “スクールアイドルの講師“ [Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink")が担当。[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間担当していた。詳細は該当記事を参照
+  - “スクールアイドルの講師“[Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink")が担当。
+  - [2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間担当していた。
 
-### [セカオワLOCKS！](https://ja.wikipedia.org/wiki/セカオワLOCKS! "wikilink")
+### セカオワLOCKS！
 
-  - “世界始の講師“ [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink") が担当[2012年](../Page/2012年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")\[9\]。詳細は該当記事を参照。
+  - “世界始の講師“[SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink") が担当。
+  - [2012年](../Page/2012年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")\[9\]。
 
 ## 特別出演
 

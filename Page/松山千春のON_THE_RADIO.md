@@ -13,9 +13,9 @@
 
 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")では、松山を見出して初めて放送メディアに登場させた[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")でネットされているが、これは[1976年](../Page/1976年.md "wikilink")以来30年にわたって続いてきた同局制作の『松山千春の風にのせて』→『[松山千春 季節の旅人](https://ja.wikipedia.org/wiki/松山千春_季節の旅人 "wikilink")』が、2007年2月に松山の[不祥事](../Page/不祥事.md "wikilink")（[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")の会合に招かれて歌った）により打ち切りとなり、松山の出演番組が途絶えていたことも起因している。2015年4月放送分より放送時間が日曜11:00 - 12:00に移動し、約8年ぶりに『松山千春の風にのせて』→『季節の旅人』の打ち切り前と同時間帯に戻った形となる。そして、2017年4月9日よりNACK5との同時生ネットを行うことになった\[3\]。
 
-松山がコンサートツアーを行っている期間などは、NACK5 GINZA STUDIO（[東京都](../Page/東京都.md "wikilink")[中央区銀座](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）ではなく、ツアー先や松山の自宅がある[札幌からの生放送となる](https://ja.wikipedia.org/wiki/札幌市 "wikilink")。ただし、ツアー先で生放送に対応できる放送局がない場合は前日に収録する形をとる。特に最近は、コンサート期間中ではない場合でも、自宅がある関係上、札幌STVラジオの第3スタジオからの放送が多い。
+松山がコンサートツアーを行っている期間などは、NACK5 GINZA STUDIO（[東京都](../Page/東京都.md "wikilink")[中央区銀座](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）ではなく、ツアー先や松山の自宅がある[札幌からの生放送となる](https://ja.wikipedia.org/wiki/札幌市 "wikilink")。ただし、ツアー先で生放送に対応できる放送局がない場合は前日に収録する形をとる。特に2018年以降、コンサート期間中ではない場合は自宅がある関係上、札幌STVラジオの第3スタジオからの放送となりNACK5 GINZA STUDIOからの放送は年1回もない年もある。
 
-これまでに、NACK5 GINZA STUDIOのほか、NACK5の本社スタジオ（[大宮](https://ja.wikipedia.org/wiki/大宮区 "wikilink")）、ネット局の[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（札幌）、[ラジオ福島](../Page/ラジオ福島.md "wikilink")（[福島](../Page/福島市.md "wikilink")）、[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（[福井](../Page/福井市.md "wikilink")）、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")（[名古屋](../Page/名古屋市.md "wikilink")）、[ラジオ大阪](../Page/大阪放送.md "wikilink")（[大阪](../Page/大阪市.md "wikilink")）、[中国放送](../Page/中国放送.md "wikilink") （[広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")）、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）、[琉球放送](../Page/琉球放送.md "wikilink")（[那覇](../Page/那覇市.md "wikilink")）、また北海道内では[帯広にある](../Page/帯広市.md "wikilink")「北海道ホテル」の一室、[FMりべーる](../Page/旭川シティネットワーク.md "wikilink")（[旭川](../Page/旭川市.md "wikilink")）などから放送されたことがある。基本的に銀座のスタジオ以外からの放送や本番組のネット局での放送開始の初回では、そのネット局の所在地域にちなんだ楽曲（出身の歌手の曲など）を放送する番組構成となる。
+これまでに、NACK5 GINZA STUDIOのほか、NACK5の本社スタジオ（[大宮](https://ja.wikipedia.org/wiki/大宮区 "wikilink")）、ネット局の[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（札幌）、[ラジオ福島](../Page/ラジオ福島.md "wikilink")（[福島](../Page/福島市.md "wikilink")）、[福井放送](../Page/福井放送.md "wikilink")（[福井](../Page/福井市.md "wikilink")）、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")（[名古屋](../Page/名古屋市.md "wikilink")）、[ラジオ大阪](../Page/大阪放送.md "wikilink")（[大阪](../Page/大阪市.md "wikilink")）、[中国放送](../Page/中国放送.md "wikilink") （[広島](https://ja.wikipedia.org/wiki/広島市 "wikilink")）、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）、[琉球放送](../Page/琉球放送.md "wikilink")（[那覇](../Page/那覇市.md "wikilink")）、また北海道内では[帯広にある](../Page/帯広市.md "wikilink")「北海道ホテル」の一室、[FMりべーる](../Page/旭川シティネットワーク.md "wikilink")（[旭川](../Page/旭川市.md "wikilink")）などから放送されたことがある。基本的に銀座のスタジオ以外からの放送や本番組のネット局での放送開始の初回では、そのネット局の所在地域にちなんだ楽曲（出身の歌手の曲など）を放送する番組構成となる。
 
 2014年6月の[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（[宮崎](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")）の事例など過去にネットを行っていた局からの放送を行うこともあるほか、2014年9月28日は福岡からの放送を行ったが、技術スタッフ確保の都合上、本番組のネット局であるRKB毎日放送ではなく、[CROSS FMのベイサイドプレイス博多スタジオからの放送が行われた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")。
 
@@ -146,7 +146,7 @@ NACK5のスタジオ以外での放送時に楽曲を放送する際は、松山
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>毎週日曜 20:00 - 21:00</p></td>
 <td><p>2008年7月6日 -</p></td>
 <td><p>[10]</p></td>

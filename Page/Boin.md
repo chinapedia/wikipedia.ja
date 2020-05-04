@@ -116,4 +116,4 @@
 
 [Category:2004年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2004年のアダルトゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2005年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2005年の成人向けOVA "wikilink") [Category:教師を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:教師を主人公としたコンピュータゲーム "wikilink") [Category:教師を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:教師を主人公としたアニメ作品 "wikilink") [Category:教師と生徒の恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:教師と生徒の恋愛を扱った作品 "wikilink") [Category:いとこの恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:いとこの恋愛を扱った作品 "wikilink") [Category:ミルキーズピクチャーズ](https://ja.wikipedia.org/wiki/Category:ミルキーズピクチャーズ "wikilink")
 
-1.  [Webメガストア: 本年も残り僅か！いつもよりちょっぴり早いメガストア２月号情報お届けします！](http://blog.megastore.jp/archives/2012/12/post_72.html)
+1.

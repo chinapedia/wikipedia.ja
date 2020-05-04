@@ -30,8 +30,8 @@
   - 『[NEW WORLD](../Page/NEW_WORLD_\(Do_As_Infinityのアルバム\).md "wikilink")』
   - 『[Do The Best](../Page/Do_The_Best.md "wikilink")』（ライブレコーディング「GREAT TOUR BAND version」として収録）
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
-  - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』（アレンジ・新録音して収録）
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
+  - 『\[\[2_of_Us\#2_of_Us_BLUE_-14_Re:SINGLES-|2 of Us \[BLUE\] -14 Re:SINGLES-\]\]』（アレンジ・新録音して収録）
 
 <!-- end list -->
 

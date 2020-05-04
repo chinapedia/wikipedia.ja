@@ -23,7 +23,7 @@
       -
         [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[バスストップ](../Page/バスストップ_\(テレビドラマ\).md "wikilink")』主題歌。ドラマ主題歌に起用されるのは15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」以来で、月9ドラマ主題歌を担当するのは10thシングル「[名もなき詩](../Page/名もなき詩.md "wikilink")」以来2度目である。
         タイトルの由来は[インターネット](../Page/インターネット.md "wikilink")で[ウェブページ](../Page/ウェブページ.md "wikilink")が存在しなかったときに表示される「(404) [NOT FOUND](../Page/HTTP_404.md "wikilink")」からで、歌詞にもそれを示唆するような部分がある。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[信藤三雄](../Page/信藤三雄.md "wikilink")。大井中央陸橋でロケが行われた。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、2018年3月21日発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[信藤三雄](../Page/信藤三雄.md "wikilink")。大井中央陸橋でロケが行われた。
         ライブツアーでは、原曲よりもアップテンポされ、キーを半音下げて演奏することが多い\[2\]。
 2.  **1999年、夏、沖縄** \[7:42\]
       -
@@ -47,14 +47,14 @@
 <td><p><a href="../Page/Music_Museum.md" title="wikilink">Music Museum</a></p></td>
 <td><p>2000年8月9日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
-<td><p><a href="../Page/口笛_(Mr.Childrenの曲).md" title="wikilink">口笛</a>、<a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[4]</p></td>
+<td><p><a href="../Page/口笛_(Mr.Childrenの曲).md" title="wikilink">口笛</a>、<strong>NOT FOUND</strong>[4]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a></p></td>
 <td><p>2000年8月12日</p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
-<td><p><a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[5]</p></td>
+<td><p><strong>NOT FOUND</strong>[5]</p></td>
 <td><p>本楽曲を演奏する際、桜井はエレクトリック・ギターを演奏しているが、<br />
 この日の放送では、アコースティック・ギターを演奏していた。</p></td>
 </tr>
@@ -62,7 +62,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ミュージックステーション" title="wikilink">ミュージックステーション</a></p></td>
 <td><p>2000年8月18日</p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
-<td><p><a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[6]</p></td>
+<td><p><strong>NOT FOUND</strong>[6]</p></td>
 <td><p>COUNT DOWN TVと同様に、<br />
 この日の放送では、アコースティック・ギターを演奏していた。</p></td>
 </tr>
@@ -70,28 +70,28 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ポップジャム" title="wikilink">ポップジャム</a></p></td>
 <td><p>2000年8月19日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a></p></td>
-<td><p>口笛、<a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[7]</p></td>
+<td><p>口笛、<strong>NOT FOUND</strong>[7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/うたばん.md" title="wikilink">うたばん</a></p></td>
 <td><p>2000年8月24日</p></td>
 <td><p>TBS</p></td>
-<td><p><a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[8]</p></td>
+<td><p><strong>NOT FOUND</strong>[8]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FUN.md" title="wikilink">FUN</a></p></td>
 <td><p>2000年8月25日</p></td>
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a></p></td>
-<td><p><a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[9]</p></td>
+<td><p><strong>NOT FOUND</strong>[9]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a></p></td>
 <td><p>2000年8月28日</p></td>
 <td><p>フジテレビ</p></td>
-<td><p><a href="../Page/NOT_FOUND_(Mr.Childrenの曲).md" title="wikilink">NOT FOUND</a>[10]</p></td>
+<td><p><strong>NOT FOUND</strong>[10]</p></td>
 <td></td>
 </tr>
 </tbody>

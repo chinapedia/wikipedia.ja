@@ -56,6 +56,7 @@ Remo-con単体の曲は[田村哲也](https://ja.wikipedia.org/wiki/田村哲也
   - Remedy feat. Kanae Asaba(24 SINOBUZ:Y\&Co.)
   - no limit 2 dance feat. [大山愛未](https://ja.wikipedia.org/wiki/大山愛未 "wikilink")(25 CANNON BALLERS:Y\&Co.)
   - ROCK女 feat. 大山愛未, Ken (26 Rootage:Y \&Co.)
+  - NRG STAR '86 feat, 大山愛未 (27 HEROIC VERSE Y\&Co.)
 
 #### [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")
 
@@ -89,7 +90,7 @@ Remo-con単体の曲は[田村哲也](https://ja.wikipedia.org/wiki/田村哲也
   - [Remo-con DownLoads at Trackitdown](http://www.trackitdown.net/artist/125149/remo-con.html)
   - [USEN音楽放送 番組ホームページ music.usen.com C-58ハイパーディスコミックス](http://music.usen.com/channel/c58/)
   - [公式HP](http://www.yokoshou.com/)
-  - [DJ REMO-CON公式ブログ](http://ameblo.jp/remocccon/)
-  - [DJ BOSS公式ブログ](http://ameblo.jp/dj-boss/)
+  - [DJ REMO-CON公式ブログ](https://ameblo.jp/remocccon/)
+  - [DJ BOSS公式ブログ](https://ameblo.jp/dj-boss/)
 
 [Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink")

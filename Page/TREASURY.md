@@ -34,7 +34,7 @@
 7.  **[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")**
       - [WANDS](../Page/WANDS.md "wikilink")とのデュエットソングで、「中山美穂 & WANDS」名義で発売。カラオケ、結婚式の定番ソングとして今なお歌われることも多い。オリコン1位獲得。
       - 本人主演ドラマ『[誰かが彼女を愛してる](../Page/誰かが彼女を愛してる.md "wikilink")』主題歌。
-      - この曲で第7回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")作品賞ベスト5シングル賞、第12回[JASRAC賞金賞](../Page/日本音楽著作権協会.md "wikilink")、[日本作詞家協会](https://ja.wikipedia.org/wiki/日本作詞家協会 "wikilink")賞を受賞。
+      - この曲で第7回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")作品賞ベスト5シングル賞、第12回[JASRAC賞金賞](../Page/日本音楽著作権協会.md "wikilink")、[日本作詩家協会](https://ja.wikipedia.org/wiki/日本作詩家協会 "wikilink")賞を受賞。
 8.  **[幸せになるために](../Page/幸せになるために_\(中山美穂の曲\).md "wikilink")**
       - NHK[朝の連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ええにょぼ](../Page/ええにょぼ.md "wikilink")』主題歌。
       - この曲で[第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")出場。

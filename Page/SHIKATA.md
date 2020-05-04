@@ -208,6 +208,12 @@
       - 「Shine」 - 作詞・作曲
   - [JYJ](https://ja.wikipedia.org/wiki/JYJ "wikilink")
       - 「いつだって君に」 - 作曲
+  - [XIA JUNSU (ジュンス)](https://ja.wikipedia.org/wiki/ジュンス "wikilink")
+      - 「Thank U for」 - 作曲
+  - [Kim Jae Jong (ジェジュン)](../Page/ジェジュン.md "wikilink")
+      - 「IMPOSSIBLE」 - 作曲
+      - 「Good Morning Night」 - 作詞
+      - 「守ってあげる」 - 作詞
   - [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")
       - 「[LET ME FLY](https://ja.wikipedia.org/wiki/BRAVE_IT_OUT "wikilink")」 - 作曲
       - 「[ECHO](https://ja.wikipedia.org/wiki/BRAVE_IT_OUT "wikilink")」 - 作詞・作曲
@@ -254,8 +260,6 @@
   - [Juliet](https://ja.wikipedia.org/wiki/Juliet_\(音楽ユニット\) "wikilink")
       - 「[モトカノ](https://ja.wikipedia.org/wiki/モトカノ "wikilink")」 - プロデュース
       - 「Zui\! Zui\! Zui\!」 - 作曲
-  - [XIA JUNSU (ジュンス)](https://ja.wikipedia.org/wiki/ジュンス "wikilink")
-      - 「Thank U for」 - 作曲
   - [SWEET BLACK feat. MAKI GOTO](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
       - 「[TEAR DROPS with KG](https://ja.wikipedia.org/wiki/SWEET_BLACK "wikilink")」 - 作曲
   - [SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink")

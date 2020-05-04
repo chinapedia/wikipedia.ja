@@ -9,7 +9,7 @@
 
 ## 出演者
 
-  - MC : [加藤浩次](../Page/加藤浩次.md "wikilink")
+  - MC : [加藤浩次](../Page/加藤浩次.md "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）
   - レギュラー : [沢村一樹](../Page/沢村一樹.md "wikilink")、[志村玲那](../Page/志村玲那.md "wikilink")
   - 天の声 : [山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")）
   - ナレーター : [松本ともこ](../Page/松本ともこ.md "wikilink")、[石川英郎](../Page/石川英郎.md "wikilink")

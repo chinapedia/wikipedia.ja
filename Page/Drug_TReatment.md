@@ -18,7 +18,7 @@
   - [そうる透](../Page/そうる透.md "wikilink"): Drums
   - [佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink"): Additional guitar (M-2, 3, 6, 7, 8, 10, 12)
   - [永田"エルトン"一郎](https://ja.wikipedia.org/wiki/永田"エルトン"一郎 "wikilink"): keyboards (M-11)
-  - [菊池圭介](https://ja.wikipedia.org/wiki/菊池圭介 "wikilink"): Keyboards & programing (M-13)
+  - [菊地圭介](../Page/菊地圭介.md "wikilink"): Keyboards & programing (M-13)
 
 ## アルバム曲タイアップ
 

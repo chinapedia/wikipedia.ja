@@ -10,7 +10,7 @@
 大阪市中心部では[四つ橋筋](../Page/四つ橋筋.md "wikilink")の地下を南北に走る。住之江公園駅で[南港ポートタウン線](../Page/Osaka_Metro南港ポートタウン線.md "wikilink")（ニュートラム）に連絡している。当初は[大国町駅](https://ja.wikipedia.org/wiki/大国町駅 "wikilink")を結節点とする[御堂筋線の支線的性格を持っていたが](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink")、[1965年](../Page/1965年.md "wikilink")に西梅田駅 - 大国町駅間が開通して以降は同線のバイパスとしての使命を持つようになった。四つ橋線の西梅田駅 - 大国町駅間は御堂筋線梅田駅 - 大国町駅間よりも距離・所要時間が短いが、御堂筋線の各駅間の中心部から西に300 - 400m離れていることや、御堂筋線と比べて他の路線との乗り換えに距離を要する駅が多いこと（特に四つ橋線西梅田駅と[阪急電鉄](../Page/阪急電鉄.md "wikilink")梅田駅との乗り換えには15 - 20分程度の時間を要する）を反映してか乗客の流れは今でも大国町駅で入れ替わることが多く、花園町駅以南から[難波駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")・[本町駅](https://ja.wikipedia.org/wiki/本町駅 "wikilink")・[梅田駅（西梅田駅）への移動であっても大国町駅で四つ橋線から御堂筋線へと乗り換える乗客が多い](https://ja.wikipedia.org/wiki/梅田駅_\(Osaka_Metro\) "wikilink")。
 
   -
-    なお、御堂筋線のバイパスとしての四つ橋線の位置付けについて、（Osaka Metroの前身の）[大阪市交通局](https://ja.wikipedia.org/wiki/大阪市交通局 "wikilink")長であった今岡鶴吉は、御堂筋線の混雑軽減を至急行うために答申ではなく中間答申で四つ橋線の工事に着手し開通させた。しかし御堂筋線の「お客が半分になると思って」いたが一向に四つ橋線に移らず「ガラガラして」「余り使ってもらえない」旨語っている。そのため、現在の[御堂筋](../Page/御堂筋.md "wikilink")の幅員にもう一本地下鉄を入れるために小型地下鉄を検討したことから、[長堀鶴見緑地線の](https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線 "wikilink")[リニアメトロ車両の開発に繋がったとしている](../Page/リニアモーターカー.md "wikilink")\[1\]。
+    なお、御堂筋線のバイパスとしての四つ橋線の位置付けについて、（Osaka Metroの前身の）[大阪市交通局](https://ja.wikipedia.org/wiki/大阪市交通局 "wikilink")長であった今岡鶴吉は、御堂筋線の混雑軽減を至急行うために答申ではなく中間答申で四つ橋線の工事に着手し開通させた。しかし御堂筋線の「お客が半分になると思って」いたが一向に四つ橋線に移らず「ガラガラして」「余り使ってもらえない」旨語っている。そのため、現在の[御堂筋](../Page/御堂筋.md "wikilink")の幅員にもう一本地下鉄を入れるために小型地下鉄を検討したことから、[長堀鶴見緑地線の](../Page/Osaka_Metro長堀鶴見緑地線.md "wikilink")[リニアメトロ車両の開発に繋がったとしている](../Page/リニアモーターカー.md "wikilink")\[1\]。
 
 自動放送設備に関しては、1995年より四つ橋線だけ[接近メロディは方向に関係なく](../Page/発車メロディ.md "wikilink")（他線における）下り線のものを、[発車メロディ](../Page/発車メロディ.md "wikilink")は他線と上下線で逆のものを使用していた。これは同一ホーム内にある[大国町駅](https://ja.wikipedia.org/wiki/大国町駅 "wikilink")での御堂筋線との誤乗防止を目的としたものである\[2\]。2012年5月に自動放送が一新され、他線と同じ旋律が使用されるようになり、列車到着後には中央線や堺筋線同様、日本語での案内の後に英語による案内放送が流れるようになった。ただし、接近メロディは他線と同一のものだが、発車メロディは自動放送が一新された後も他線と上下線で逆のものを使用している。接近メロディは途切れることなく、なんば駅の西梅田方面行きが2回しか鳴らない\[3\]以外は、3回鳴る。なお大国町駅だけは他駅とは異なり、下り2番のりばが「男性アナウンサー・上り接近メロディ・他線の上り発車メロディ」、上り3番のりばが「女性アナウンサー・下り接近メロディ・他線の下り発車メロディ」の組み合わせである\[4\]。
 
@@ -272,7 +272,7 @@
 <td><p>0.9</p></td>
 <td><p>2.2</p></td>
 <td><p>1.9</p></td>
-<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> 御堂筋線 (M18)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Chuo_line_symbol.svg" title="fig:Osaka_Metro_Chuo_line_symbol.svg">Osaka_Metro_Chuo_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro中央線" title="wikilink">中央線</a> (C16)</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> 御堂筋線 (M18)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Chuo_line_symbol.svg" title="fig:Osaka_Metro_Chuo_line_symbol.svg">Osaka_Metro_Chuo_line_symbol.svg</a> <a href="../Page/Osaka_Metro中央線.md" title="wikilink">中央線</a> (C16)</p></td>
 <td><p><a href="../Page/中央区_(大阪市).md" title="wikilink">中央区</a>[20]</p></td>
 </tr>
 <tr class="even">
@@ -281,7 +281,7 @@
 <td><p>1.0</p></td>
 <td><p>3.2</p></td>
 <td><p>2.9</p></td>
-<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> 御堂筋線…<a href="https://ja.wikipedia.org/wiki/心斎橋駅" title="wikilink">心斎橋駅</a> (M19)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg" title="fig:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg">Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro長堀鶴見緑地線" title="wikilink">長堀鶴見緑地線</a>…心斎橋駅 (N15)</p></td>
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> 御堂筋線…<a href="https://ja.wikipedia.org/wiki/心斎橋駅" title="wikilink">心斎橋駅</a> (M19)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg" title="fig:Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg">Osaka_Metro_Nagahori_Tsurumi-ryokuchi_line_symbol.svg</a> <a href="../Page/Osaka_Metro長堀鶴見緑地線.md" title="wikilink">長堀鶴見緑地線</a>…心斎橋駅 (N15)</p></td>
 <td><p>西区</p></td>
 </tr>
 <tr class="odd">
@@ -290,7 +290,7 @@
 <td><p>0.9</p></td>
 <td><p>4.1</p></td>
 <td><p>3.7</p></td>
-<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> 御堂筋線 (M20)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sennichimae_line_symbol.svg" title="fig:Osaka_Metro_Sennichimae_line_symbol.svg">Osaka_Metro_Sennichimae_line_symbol.svg</a> <a href="https://ja.wikipedia.org/wiki/Osaka_Metro千日前線" title="wikilink">千日前線</a> (S16)<br />
+<td><p>大阪市高速電気軌道：<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Midosuji_line_symbol.svg" title="fig:Osaka_Metro_Midosuji_line_symbol.svg">Osaka_Metro_Midosuji_line_symbol.svg</a> 御堂筋線 (M20)・<a href="https://ja.wikipedia.org/wiki/File:Osaka_Metro_Sennichimae_line_symbol.svg" title="fig:Osaka_Metro_Sennichimae_line_symbol.svg">Osaka_Metro_Sennichimae_line_symbol.svg</a> <a href="../Page/Osaka_Metro千日前線.md" title="wikilink">千日前線</a> (S16)<br />
 <a href="../Page/南海電気鉄道.md" title="wikilink">南海電気鉄道</a>：<a href="https://ja.wikipedia.org/wiki/File:Nankai_mainline_simbole.svg" title="fig:Nankai_mainline_simbole.svg">Nankai_mainline_simbole.svg</a> <a href="https://ja.wikipedia.org/wiki/南海本線" title="wikilink">南海本線</a>・<a href="https://ja.wikipedia.org/wiki/File:Nankai_koya_line_simbole.svg" title="fig:Nankai_koya_line_simbole.svg">Nankai_koya_line_simbole.svg</a> <a href="https://ja.wikipedia.org/wiki/南海高野線" title="wikilink">高野線</a>[22]…<a href="https://ja.wikipedia.org/wiki/難波駅_(南海)" title="wikilink">難波駅</a> (NK01)<br />
 <a href="../Page/近畿日本鉄道.md" title="wikilink">近畿日本鉄道</a>： <a href="../Page/近鉄難波線.md" title="wikilink">難波線</a>…<a href="https://ja.wikipedia.org/wiki/大阪難波駅" title="wikilink">大阪難波駅</a> (A01)<br />
 阪神電気鉄道：<a href="https://ja.wikipedia.org/wiki/File:Number_prefix_Hanshin_line.svg" title="fig:Number_prefix_Hanshin_line.svg">Number_prefix_Hanshin_line.svg</a> <a href="https://ja.wikipedia.org/wiki/阪神なんば線" title="wikilink">阪神なんば線</a>…大阪難波駅 (HS 41)<br />
@@ -355,7 +355,7 @@
 </table>
 
   - 西梅田 - なんばの全部または一部を区間に含む[定期券で](../Page/定期乗車券.md "wikilink")、並行する御堂筋線の対応区間を利用でき、対応駅（西梅田=梅田、肥後橋=淀屋橋、四ツ橋=心斎橋）で乗車・降車できる\[24\]。
-  - [堺筋線](https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線 "wikilink")、[今里筋線とは直接乗り継ぎができない](https://ja.wikipedia.org/wiki/Osaka_Metro今里筋線 "wikilink")。
+  - [堺筋線](../Page/Osaka_Metro堺筋線.md "wikilink")、[今里筋線とは直接乗り継ぎができない](../Page/Osaka_Metro今里筋線.md "wikilink")。
 
 ## 輸送実績
 

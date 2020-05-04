@@ -22,7 +22,7 @@
 1.  **口笛** \[5:48\]
       -
         ポップなラブソング。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")はほとんどのシーンを[ニューヨーク](../Page/ニューヨーク.md "wikilink")の廃校で撮影した。[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹修一](../Page/丹修一.md "wikilink")。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")はほとんどのシーンを[ニューヨーク](../Page/ニューヨーク.md "wikilink")の廃校で撮影した。2018年3月21日発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[丹修一](../Page/丹修一.md "wikilink")。
         後に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では1位に選ばれ、実際に演奏もされている\[1\]。
 2.  **Heavenly kiss** \[5:53\]
       -
@@ -67,7 +67,7 @@
 <td><p>口笛[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY!MUSIC CHAMP</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP" title="wikilink">HEY!HEY!HEY! MUSIC CHAMP</a></p></td>
 <td><p>2000年2月7日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a></p></td>
 <td><p>口笛[7]</p></td>

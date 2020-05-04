@@ -7,7 +7,7 @@
 
 テレビの[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、アナログ放送、FM[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")の送信を行っており、[大分市](../Page/大分市.md "wikilink")と別府市の中心部を中心とした[別府湾](../Page/別府湾.md "wikilink")沿岸地域をカバーする。ただし、大分市の東部はここから離れていることもあり、アナログ放送とデジタル放送の中継局が設けられている。
 
-送信所の順番は北から[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink") (OBS) アナログ局舎、[NHK大分局舎](../Page/NHK大分放送局.md "wikilink")（この局舎にはOBSデジタルと[エフエム大分](../Page/エフエム大分.md "wikilink")が間借りしているが、エフエム大分は2017年7月30日をもって終了し、横江山に移転\[1\]。）、[テレビ大分](../Page/テレビ大分.md "wikilink") (TOS) 局舎、[大分朝日放送](../Page/大分朝日放送.md "wikilink") (OAB) 局舎の順。
+送信所の順番は北から[大分放送](../Page/大分放送.md "wikilink") (OBS) アナログ局舎、[NHK大分局舎](../Page/NHK大分放送局.md "wikilink")（この局舎にはOBSデジタルと[エフエム大分](../Page/エフエム大分.md "wikilink")が間借りしているが、エフエム大分は2017年7月30日をもって終了し、横江山に移転\[1\]。）、[テレビ大分](../Page/テレビ大分.md "wikilink") (TOS) 局舎、[大分朝日放送](../Page/大分朝日放送.md "wikilink") (OAB) 局舎の順。
 
 ちなみに、ここから望む別府湾は絶景ポイントで、大分自動車道の別府湾サービスエリアができるまでは恋人たちのドライブコースにもなっていた。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Beppu_Bay.jpg "wikilink") {{-}}
 
@@ -61,7 +61,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>OBS<br />
-<a href="https://ja.wikipedia.org/wiki/大分放送" title="wikilink">大分放送</a></p></td>
+<a href="../Page/大分放送.md" title="wikilink">大分放送</a></p></td>
 <td><p>JOGF-DTV</p></td>
 <td><p>22</p></td>
 <td><p>大分県</p></td>

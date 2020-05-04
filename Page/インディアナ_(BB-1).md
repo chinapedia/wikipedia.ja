@@ -49,4 +49,4 @@
   - [Navy photographs of *Indiana* (BB-1)](http://www.history.navy.mil/photos/sh-usn/usnsh-i/bb1.htm)
   - [Maritimequest USS Indiana BB-1 Photo Gallery](http://www.maritimequest.com/warship_directory/us_navy_pages/uss_indiana_bb1.htm)
 
-[Category:アメリカ合衆国の戦艦](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戦艦 "wikilink") [Category:米西戦争の艦船](https://ja.wikipedia.org/wiki/Category:米西戦争の艦船 "wikilink") [Category:1895年竣工船](https://ja.wikipedia.org/wiki/Category:1895年竣工船 "wikilink")
+[Category:アメリカ合衆国の戦艦](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戦艦 "wikilink") [Category:米西戦争の艦船](https://ja.wikipedia.org/wiki/Category:米西戦争の艦船 "wikilink") [Category:標的として沈没した船](https://ja.wikipedia.org/wiki/Category:標的として沈没した船 "wikilink") [Category:1895年竣工船](https://ja.wikipedia.org/wiki/Category:1895年竣工船 "wikilink")

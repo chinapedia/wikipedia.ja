@@ -23,7 +23,7 @@
   - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+  - [福井放送](../Page/福井放送.md "wikilink")
   - [名古屋放送](../Page/名古屋テレビ放送.md "wikilink")（1973年3月まで） → [中京テレビ](../Page/中京テレビ放送.md "wikilink")（1973年4月以降） - 中京広域圏においてNNN加盟局の変更に伴う。
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") - 1972年9月に[島根県](../Page/島根県.md "wikilink")への取材も開始した。

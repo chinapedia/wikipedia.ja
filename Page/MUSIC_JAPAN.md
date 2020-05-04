@@ -856,7 +856,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
   - [MUSIC JAPAN アーカイブ](http://www.nhk.or.jp/s-oto/mj/)
 
   -
-[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの番組の歴史 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:EYES](https://ja.wikipedia.org/wiki/Category:EYES "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink") [Category:Perfume](https://ja.wikipedia.org/wiki/Category:Perfume "wikilink")
+[Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:EYES](https://ja.wikipedia.org/wiki/Category:EYES "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink") [Category:Perfume](https://ja.wikipedia.org/wiki/Category:Perfume "wikilink")
 
 1.  [NHK若者向け音楽番組、45年の歴史に幕 来年4月から新番組](http://www.sanspo.com/geino/news/20151230/geo15123005030027-n1.html) サンケイスポーツ 2015年12月30日
 2.

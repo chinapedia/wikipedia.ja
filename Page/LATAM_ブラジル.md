@@ -88,8 +88,8 @@
 | [エアバスA320neo](https://ja.wikipedia.org/wiki/エアバスA320neo "wikilink")                 | 5    | ‐     | ‐       | 174 |
 | [エアバスA321](../Page/エアバスA321.md "wikilink")‐200                                      | 31   | ‐     | ‐       | 220 |
 | [エアバスA321](../Page/エアバスA321.md "wikilink")neo                                       | ‐    | 19    | No Data |     |
-| [エアバスA350-900](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink")               | 9    | 3     | 30      | 309 |
-| [エアバスA350-1000](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink")              | ‐    | 14    | No Data |     |
+| [エアバスA350-900](../Page/エアバスA350_XWB.md "wikilink")                                  | 9    | 3     | 30      | 309 |
+| [エアバスA350-1000](../Page/エアバスA350_XWB.md "wikilink")                                 | ‐    | 14    | No Data |     |
 | [ボーイング767-300ER](https://ja.wikipedia.org/wiki/ボーイング767#767-300ER "wikilink")       | 13   | ‐     | 30      | 191 |
 | [ボーイング777-300ER](https://ja.wikipedia.org/wiki/ボーイング777#777-300ER（773B） "wikilink") | 10   | ‐     | 56      | 323 |
 | 計                                                                                   | 159  | 37    |         |     |

@@ -1,7 +1,7 @@
 > この記事は[抱きしめたい \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/抱きしめたい_\(Mr.Childrenの曲\))から翻訳されています。
 
 
-「**抱きしめたい**」（だきしめたい）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")である。[1992年](../Page/1992年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+「**抱きしめたい**」（だきしめたい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")である。[1992年](../Page/1992年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 

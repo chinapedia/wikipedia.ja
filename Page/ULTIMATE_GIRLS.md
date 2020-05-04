@@ -18,7 +18,7 @@
 1.  ULTIMATE GIRLS
       -
         （作詞：[Shoko Fujibayashi](../Page/藤林聖子.md "wikilink") 作曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")）
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」10-11月エンディングテーマ
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」10-11月エンディングテーマ
 2.  Lesson
       -
         （作詞：Shoko Fujibayashi 作曲：Face 2 fAKE）

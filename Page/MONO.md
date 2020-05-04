@@ -13,7 +13,7 @@
 
 ## メンバー
 
-**Takaakira 'Taka' Goto** (ギター) \[1999年 – \]
+**Takaakira 'Taka' Goto** (ギター) \[1999年 – \] 元[DOVE](https://ja.wikipedia.org/wiki/DOVE_\(バンド\) "wikilink")
 
   - エンドースメント：[Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink")、Dunlop、Mad Professor、Boss、EarthQuaker Devices、MONO Creators
 

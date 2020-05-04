@@ -17,7 +17,7 @@
       -
         作曲：Naoki Takada & Shintaro“Growth”Izutsu　編曲：Shintaro“Growth”Izutsu
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ウチくる\!?](../Page/ウチくる!?.md "wikilink")」エンディングテーマ。
-        「マタアイマショウ」以来のラブソング。自身では「辛気臭いラブ・ソング」と『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』で語っていた。
+        「マタアイマショウ」以来のラブソング。自身では「辛気臭いラブ・ソング」と『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』で語っていた。
 2.  好奇心
       -
         作曲：Naoki Takada & [DJ 大自然](https://ja.wikipedia.org/wiki/DJ_大自然 "wikilink")　編曲：DJ 大自然

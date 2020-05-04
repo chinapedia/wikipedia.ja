@@ -8,7 +8,7 @@
   - 前作「[ヒカリ](../Page/ヒカリ_\(堀江由衣の曲\).md "wikilink")」から1年ぶりのリリースとなる、2007年1作目のシングル。表題曲「Days」は、テレビアニメ『[ながされて藍蘭島](../Page/ながされて藍蘭島.md "wikilink")』の[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")となっている。
   - カップリングの「say cheese\!」は同アニメの[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")となっている。
   - 前作「ヒカリ」から売上は落ちたものの、2作連続TOP10にランクインした。
-  - このランクインがきっかけで[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」のRANK-INのコーナーに出演。（2007年5月14日放送分）
+  - このランクインがきっかけで[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」のRANK-INのコーナーに出演。（2007年5月14日放送分）
 
 ## 収録曲
 

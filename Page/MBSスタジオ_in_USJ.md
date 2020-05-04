@@ -89,6 +89,7 @@ USJスタジオの敷地賃貸は[2011年](../Page/2011年.md "wikilink")3月末
   - [テレビ朝日アーク放送センター](../Page/テレビ朝日アーク放送センター.md "wikilink")
   - [フジテレビ湾岸スタジオ](../Page/フジテレビ湾岸スタジオ.md "wikilink")
   - [テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")
+  - [ニコロデオン](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink") - [ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")にスタジオを構えていた[アメリカのテレビ局](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
 [Category:かつて存在した日本のテレビスタジオ](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のテレビスタジオ "wikilink") [Category:ラジオスタジオ](https://ja.wikipedia.org/wiki/Category:ラジオスタジオ "wikilink") [Category:毎日放送の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送の歴史 "wikilink") [Category:ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/Category:ユニバーサル・スタジオ・ジャパン "wikilink") [Category:此花区の建築物](https://ja.wikipedia.org/wiki/Category:此花区の建築物 "wikilink") [Category:此花区の歴史](https://ja.wikipedia.org/wiki/Category:此花区の歴史 "wikilink")
 

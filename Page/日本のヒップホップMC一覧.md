@@ -121,7 +121,7 @@
   - [川村壱馬](https://ja.wikipedia.org/wiki/川村壱馬 "wikilink") ([THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink"))
   - [カイワレハンマー](https://ja.wikipedia.org/wiki/カイワレハンマー "wikilink") ([ワタナベマホト](https://ja.wikipedia.org/wiki/ワタナベマホト "wikilink")、[imiga](https://ja.wikipedia.org/wiki/imiga "wikilink"))
   - [漢 a.k.a. GAMI](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink") ([MSC](../Page/MSC_\(音楽グループ\).md "wikilink"))
-  - がーどまん(チャンネルがーどまん)
+  - [がーどまん](https://ja.wikipedia.org/wiki/がーどまん "wikilink")(チャンネルがーどまん)
 
 ### き
 
@@ -325,6 +325,7 @@
   - [TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink") ([アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink"))
   - [剣桃太郎](https://ja.wikipedia.org/wiki/剣桃太郎_\(ミュージシャン\) "wikilink") (ex. [妄走族](../Page/妄走族.md "wikilink"))
   - TSUGURU
+  - [唾奇](https://ja.wikipedia.org/wiki/唾奇 "wikilink")
 
 ### て
 

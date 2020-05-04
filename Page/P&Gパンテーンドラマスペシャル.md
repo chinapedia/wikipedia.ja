@@ -55,6 +55,6 @@ DVDソフトは、『笑顔セラピー』から『永遠の1.8秒』までが20
 
 ## 外部リンク
 
-  - [P\&Gパンテーンドラマスペシャル（ポニーキャニオン）](http://www.ponycanyon.co.jp/pantene/) - DVDソフト情報ページ
+  - \- DVDソフト情報ページ
 
 [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:BSフジのテレビドラマ](https://ja.wikipedia.org/wiki/Category:BSフジのテレビドラマ "wikilink") [Category:プロクター・アンド・ギャンブル](https://ja.wikipedia.org/wiki/Category:プロクター・アンド・ギャンブル "wikilink") [Category:2003年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2003年のテレビドラマ "wikilink") [Category:2010年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2010年のテレビドラマ "wikilink")

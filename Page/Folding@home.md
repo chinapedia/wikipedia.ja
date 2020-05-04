@@ -52,6 +52,7 @@ Folding@homeは、世界中の家庭にある[パーソナルコンピュータ]
 
   -
   -
+  -
 [Category:分散コンピューティングプロジェクト](https://ja.wikipedia.org/wiki/Category:分散コンピューティングプロジェクト "wikilink") [Category:分子動力学ソフトウェア](https://ja.wikipedia.org/wiki/Category:分子動力学ソフトウェア "wikilink") [Category:分子モデリングソフトウェア](https://ja.wikipedia.org/wiki/Category:分子モデリングソフトウェア "wikilink") [Category:2019新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症 "wikilink") [Category:タンパク質構造](https://ja.wikipedia.org/wiki/Category:タンパク質構造 "wikilink") [Category:計算生物学](https://ja.wikipedia.org/wiki/Category:計算生物学 "wikilink") [Category:数理生物学](https://ja.wikipedia.org/wiki/Category:数理生物学 "wikilink") [Category:バイオインフォマティクス](https://ja.wikipedia.org/wiki/Category:バイオインフォマティクス "wikilink") [Category:スタンフォード大学](https://ja.wikipedia.org/wiki/Category:スタンフォード大学 "wikilink") [Category:ギネス世界記録](https://ja.wikipedia.org/wiki/Category:ギネス世界記録 "wikilink") [Category:GPGPU](https://ja.wikipedia.org/wiki/Category:GPGPU "wikilink")
 
 1.

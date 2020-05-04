@@ -45,7 +45,7 @@
   - 物部静：[岩根あゆこ](../Page/岩根あゆこ.md "wikilink")
   - 物部昭：[岩尾望](../Page/岩尾望.md "wikilink")（[フットボールアワー](../Page/フットボールアワー.md "wikilink")）
   - 物部昭（声）：[小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
-  - [森下能幸](../Page/森下能幸.md "wikilink")
+  - 八重：[森下能幸](../Page/森下能幸.md "wikilink")
   - [神威杏次](../Page/神威杏次.md "wikilink")
   - [仁科貴](https://ja.wikipedia.org/wiki/仁科貴 "wikilink")
 
@@ -55,8 +55,15 @@
   - 監督：[深作健太](../Page/深作健太.md "wikilink")
   - 脚本：[大石哲也](../Page/大石哲也.md "wikilink")
   - 音楽：[池頼広](../Page/池頼広.md "wikilink")
+  - 着信音協力：[ドワンゴ](../Page/ドワンゴ.md "wikilink")
+  - VFX：[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
   - アクション監督：[横山誠](../Page/横山誠.md "wikilink")
+  - アクション監督助手：[大橋明](../Page/大橋明.md "wikilink")
   - 特殊メイク・造型：[原口智生](../Page/原口智生.md "wikilink")
+  - カースタント：アクティブ21（海藤幸広、[大谷奈津江](https://ja.wikipedia.org/wiki/大谷奈津江 "wikilink")）
+  - 現像：[東映ラボ・テック](../Page/東映ラボ・テック.md "wikilink")
+  - プロデューサー：[小池賢太郎](https://ja.wikipedia.org/wiki/小池賢太郎 "wikilink")、[松橋真三](https://ja.wikipedia.org/wiki/松橋真三 "wikilink")、近藤正岳
+  - 製作プロダクション：STUDIO SWAN
   - 製作：[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")、[STUDIO SWAN](https://ja.wikipedia.org/wiki/STUDIO_SWAN "wikilink")、[東映](../Page/東映.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")、[アース・スター エンターテイメント](https://ja.wikipedia.org/wiki/アース・スター_エンターテイメント "wikilink")、[クオラス](../Page/クオラス.md "wikilink")、[東映衛星放送](https://ja.wikipedia.org/wiki/東映衛星放送 "wikilink")、宝島ワンダーネット、[NECビッグローブ](https://ja.wikipedia.org/wiki/NECビッグローブ "wikilink")
   - 上映時間：90分
 

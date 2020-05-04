@@ -49,4 +49,4 @@
 
   - [Gibson RD Series](http://www.vintageguitars.org.uk/RD.php) (英語)
 
-[Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink")
+[Category:ギブソン](https://ja.wikipedia.org/wiki/Category:ギブソン "wikilink")

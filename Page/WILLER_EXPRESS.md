@@ -39,7 +39,7 @@ WILLER EXPRESSは、旅行代理店・[WILLER TRAVEL](../Page/WILLER_TRAVEL.md "
   - 新潟営業所：〒950-0064 [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[東区松島](https://ja.wikipedia.org/wiki/東区_\(新潟市\) "wikilink")2-6-3
   - 長野営業所：〒388-8014 [長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")篠ノ井塩崎6944-1
       - 上記3営業所は旧・WILLER EXPRESS北信越（時刻表等ではH（成田シャトルはWH）で記載・新潟県バス協会および長野県バス協会加盟）。千葉営業所は成田シャトル運行のため2016年10月に新設。
-  - 名古屋営業所：〒454-0026 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区 "wikilink")築盛町2-25
+  - 名古屋営業所：〒454-0026 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[港区築盛町](../Page/港区_\(名古屋市\).md "wikilink")2-25
       - 旧・WILLER EXPRESS東海（時刻表等ではTで記載・愛知県バス協会加盟）
   - 大阪営業所：〒599-8234 大阪府[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")[中区土塔町](../Page/中区_\(堺市\).md "wikilink")62-3
       - 旧・WILLER EXPRESS西日本（時刻表等ではWで記載・大阪府バス協会加盟）
@@ -480,7 +480,9 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 ## 車両
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:WillerBus_BKG-MU66JS_No.2779.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-mitsubisiaeroace.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willer_Express_Nishinihon_Star_Fighter_01_Selega_HD.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-sayamakotsu_hyundaibus.jpg "wikilink") ツアーバスの運行コストの削減を目的として、親会社であるウィラー・アライアンスを通じて韓国製[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")BX212を大量導入したが、[並行輸入であるために輸入が困難になり](../Page/輸入車.md "wikilink")、、最後まで専用車両として運用されていた南港路線も廃止となった現在はほとんど姿を見られることがなくなった。 現在は[日野・セレガ](../Page/日野・セレガ.md "wikilink")を中心に[三菱ふそう・エアロエース](../Page/三菱ふそう・エアロエース.md "wikilink")・[エアロキングなどが導入されている](../Page/三菱ふそう・エアロキング.md "wikilink")。2012年からは[いすゞ・ガーラ](../Page/いすゞ・ガーラ.md "wikilink")も導入されている。 なんば⇔梅田路線及びUSJ⇔梅田路線においては全線一般道\[24\]を通るため、[いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")ワンステップが使用されていた。運行終了後は南部バスへWILLERカラーのまま転属した\[25\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:WillerBus_BKG-MU66JS_No.2779.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-mitsubisiaeroace.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willer_Express_Nishinihon_Star_Fighter_01_Selega_HD.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Willerexp-sayamakotsu_hyundaibus.jpg "wikilink")
+
+ツアーバスの運行コストの削減を目的として、親会社であるウィラー・アライアンスを通じて韓国製[バスである](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")[大宇バス](../Page/大宇バス.md "wikilink")BX212を大量導入したが、[並行輸入であるために輸入が困難になり](../Page/輸入車.md "wikilink")、、最後まで専用車両として運用されていた南港路線も廃止となった現在はほとんど姿を見られることがなくなった。 現在は[日野・セレガ](../Page/日野・セレガ.md "wikilink")を中心に[三菱ふそう・エアロエース](../Page/三菱ふそう・エアロエース.md "wikilink")・[エアロキングなどが導入されている](../Page/三菱ふそう・エアロキング.md "wikilink")。2012年からは[いすゞ・ガーラ](../Page/いすゞ・ガーラ.md "wikilink")も導入されている。 なんば⇔梅田路線及びUSJ⇔梅田路線においては全線一般道\[24\]を通るため、[いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")ワンステップが使用されていた。運行終了後は南部バスへWILLERカラーのまま転属した\[25\]。
 
 なお、これらの車両はWILLER EXPRESS西日本が一括で開発・発注を行い、グループ各社及び共同運行会社である南部バスにリースされる形となっている。但し、ツアーバス時代に運行事業者の1社である[さやま交通](https://ja.wikipedia.org/wiki/さやま交通 "wikilink")が自社で導入した専用車両もあり、高速路線バス移行後に合弁運行事業者である大阪さやま交通をはじめグループ各社へ転属している。
 
@@ -537,7 +539,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
       - 君の名は。カフェバス - 大ヒット映画「[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")」のシーンをオープンルーフレストラン（NIPPON Travel Restaurant）の車両全体にラッピングして、映画の舞台となった東京各地（順に絵画館→信濃町駅前陸橋→信濃町駅前交差点→四谷四丁目 交差点→新宿ユニカビジョン前→新都心歩道橋下 交差点→新宿警察署裏 交差点→新宿駅南口→四ツ谷駅）を全行程約90分で巡る\[41\]。車内では、全国各地で開催された「君の名は。カフェ」の人気メニューをカフェバス用にアレンジしたセットが提供される。WILLERと[クールジャパントラベル](https://ja.wikipedia.org/wiki/クールジャパントラベル "wikilink")の共同企画で運行は[帝産観光バス](../Page/帝産観光バス.md "wikilink")に委託。2017年8月3日から10月29日までの限定運行。
   - NL-PRIME（エヌエル-プライム） - WILLER TRAVELと[Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink")の開発運営元であるナイアンティック社がコラボレーションしたもので、運行は[なの花交通バス](https://ja.wikipedia.org/wiki/なの花交通バス "wikilink")に委託。世界で初めてIngressの世界観をリアルに体験することができるIngressバス\[42\]。乗客への限定メダルプレゼントや特別コンテンツ等Ingressの世界をリアルに楽しめるバスになっている\[43\]。WILLER TRAVELが企画する日帰りバスツアー専用車だが、曜日によっては成田駅 - 東京駅の路線としての運行も設定されていた。台湾で提携する[国光汽車客運](../Page/国光汽車客運.md "wikilink")とのコラボレーション企画として、台湾でも展示されていた（法令の関係上、現地での走行は不可）。2018年末をもって運行終了。
 
-ファイル:Willer Express Kanto Selega HD Cocoon Seat.jpg|コクーン ファイル:Willer Express Nishinihon Star Fighter 01 Cabin.JPG|スターファイター（現：NL-PRIME） ファイル:Willer - Teisan Kanko Bus Your Name Cafe Bus Aero King.jpg|君の名は。カフェバス
+ファイル:Willer Express Kanto Selega HD Cocoon Seat.jpg|コクーン ファイル:Willer Express Nishinihon Star Fighter 01 Cabin.JPG|スターファイター（現：NL-PRIME） ファイル:Willer - Teisan Kanko Bus Your Name Cafe Bus Aero King.jpg|君の名は。カフェバス（帝産観光バスに委託） ファイル:Willer Express Tokyo Restaurant Bus Aero King MU66JS.jpg|TOKYO REATAURANT BUS
 
 ## STAR EXPRESS
 
@@ -553,11 +555,6 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
   - [WILLER EXPRESS株式会社](https://www.willerexpress.co.jp/)
 
-  - [ウィラートラベル](https://travel.willer.co.jp/)
-
-  -
-  -
-  -
 [Category:高速バス路線](https://ja.wikipedia.org/wiki/Category:高速バス路線 "wikilink") [Category:関東地方の乗合バス事業者](https://ja.wikipedia.org/wiki/Category:関東地方の乗合バス事業者 "wikilink") [Category:大阪府発祥の企業](https://ja.wikipedia.org/wiki/Category:大阪府発祥の企業 "wikilink")
 
 1.

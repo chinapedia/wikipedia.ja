@@ -510,10 +510,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/リンク栃木ブレックス" title="wikilink">栃木ブレックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菊池元男" title="wikilink">菊池元男</a></p></td>
+<td><p><a href="../Page/宇都宮ブレックス.md" title="wikilink">宇都宮ブレックス</a></p></td>
+<td><p>MC SEKI</p></td>
 <td></td>
-<td></td>
+<td><p>2016‐17シーズンまでは<a href="https://ja.wikipedia.org/wiki/菊池元男" title="wikilink">菊池元男</a>が担当。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬クレインサンダーズ" title="wikilink">群馬クレインサンダーズ</a></p></td>
@@ -619,9 +619,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/京都ハンナリーズ" title="wikilink">京都ハンナリーズ</a></p></td>
-<td><p>吉村和人</p></td>
+<td><p>河合康行</p></td>
 <td></td>
-<td><p>過去には常深裕司、<a href="https://ja.wikipedia.org/wiki/竹内琢也" title="wikilink">竹内琢也</a>が担当</p></td>
+<td><p>過去には常深裕司、<a href="https://ja.wikipedia.org/wiki/竹内琢也" title="wikilink">竹内琢也</a>、吉村和人が担当</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大阪エヴェッサ" title="wikilink">大阪エヴェッサ</a></p></td>

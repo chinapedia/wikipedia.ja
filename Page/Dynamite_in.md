@@ -15,9 +15,7 @@
 
 ### 出典
 
-\[\[Category:EMIミュージック・ジャパンの映像作品\]
-
-[Category:東京事変の映像作品](https://ja.wikipedia.org/wiki/Category:東京事変の映像作品 "wikilink") [Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink")
+[Category:東京事変の映像作品](https://ja.wikipedia.org/wiki/Category:東京事変の映像作品 "wikilink") [Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink")
 
 1.
 2.  DVDでは本編映像ではなく、チャプターメニューから選択して観ることが可能で、特典映像として扱われている。

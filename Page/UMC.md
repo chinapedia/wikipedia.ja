@@ -23,7 +23,7 @@
   - [UMCJ社のページ](http://www.umcj.com/Japanese/index.asp)（リンク切れ）
   - [USJC](https://www.usjpc.com/)
 
-[Category:半導体企業](https://ja.wikipedia.org/wiki/Category:半導体企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:東区_(新竹市)](https://ja.wikipedia.org/wiki/Category:東区_\(新竹市\) "wikilink")
+[Category:半導体企業](https://ja.wikipedia.org/wiki/Category:半導体企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:台湾証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:台湾証券取引所上場企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:東区_(新竹市)](https://ja.wikipedia.org/wiki/Category:東区_\(新竹市\) "wikilink")
 
 1.  [1](http://www.umcj.com/japanese/investor/pdf/120821rJ_.pdf) 当社の事業停止、解散・清算の準備開始に関するお知らせ\[PDF\]
 2.  [UMC、三重富士通セミコンダクターの株式100%取得に関する 最終承認を取得](http://www.umc.com/japanese/news/2019/20190925.asp)UMCプレスリリース2019年9月25日

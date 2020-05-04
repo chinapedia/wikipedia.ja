@@ -40,6 +40,7 @@
   - 2011年5月、新メンバーとしてKenjiが加入。
   - 2014年9月27日、Shibuya eggmanにおけるライブを最後に活動休止。
   - 2015年9月、「**THE MUSMUS**」に改名、メンバーチェンジを経て活動再開。
+  - 2019年10月27日、無期限の活動休止を発表。\[1\]
 
 ## ディスコグラフィー
 
@@ -368,3 +369,5 @@
   -
   -
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のスクリーモ・バンド](https://ja.wikipedia.org/wiki/Category:日本のスクリーモ・バンド "wikilink")
+
+1.

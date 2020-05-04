@@ -1,9 +1,9 @@
 > この記事は[DMB](https://ja.wikipedia.org/wiki/DMB)から翻訳されています。
 
 
-[DMB_Phone.jpg](https://ja.wikipedia.org/wiki/File:DMB_Phone.jpg "fig:DMB_Phone.jpg")  **DMB**（**, **）とは、[大韓民国](../Page/大韓民国.md "wikilink")で開発された[デジタル放送](../Page/デジタル放送.md "wikilink")技術。
+[DMB_Phone.jpg](https://ja.wikipedia.org/wiki/File:DMB_Phone.jpg "fig:DMB_Phone.jpg")  **DMB**（**, **）とは、[大韓民国](../Page/大韓民国.md "wikilink")の移動体向け[マルチメディア放送](https://ja.wikipedia.org/wiki/マルチメディア放送 "wikilink")に使用している[デジタル放送](../Page/デジタル放送.md "wikilink")技術。
 
-現在は大韓民国で移動体向けの放送のみを行っているが、DMB自体は「固定および移動体向けのデジタル方式のマルチメディア放送」という位置づけである。
+DMB自体は「固定および移動体向けのデジタル方式のマルチメディア放送」という位置づけで大韓民国で開発されたが、現在は移動体向け放送のみである。
 
 ## T-DMB
 

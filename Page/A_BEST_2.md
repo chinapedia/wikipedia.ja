@@ -8,7 +8,7 @@
 
 ## 概要
 
-ベストアルバムとしては、2001年の『[A BEST](../Page/A_BEST.md "wikilink")』から6年振り、2003年の『[A BALLADS](../Page/A_BALLADS.md "wikilink")』から4年振りに発売された。2001年から2005年にリリースされたシングル、アルバムの楽曲から選ばれ、『A BEST 2 -WHITE-』には明るい系の楽曲を中心に、『A BEST 2 -BLACK-』は切ない系の楽曲を中心にそれぞれ分けて収録された。本作では[CCCDでリリースされた楽曲が多く収録されており](../Page/コピーコントロールCD.md "wikilink")、シングル曲の多くがCD-DA化された。しかし、25枚目の「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」、30枚目の「[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")」、38枚目の「[Bold & Delicious/Pride](https://ja.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")」は収録されていない。 また、2006年に発表された楽曲もベストアルバムの選曲対象とはなっていない。
+ベストアルバムとしては、2001年の『[A BEST](../Page/A_BEST.md "wikilink")』から6年振り、2003年の『[A BALLADS](../Page/A_BALLADS.md "wikilink")』から4年振りに発売された。2001年から2005年にリリースされたシングル、アルバムの楽曲から選ばれ、『A BEST 2 -WHITE-』には明るい系の楽曲を中心に、『A BEST 2 -BLACK-』は切ない系の楽曲を中心にそれぞれ分けて収録された。本作では[CCCDでリリースされた楽曲が多く収録されており](../Page/コピーコントロールCD.md "wikilink")、シングル曲の多くがCD-DA化された。しかし、25thシングル「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」、30thシングル「[forgiveness](https://ja.wikipedia.org/wiki/forgiveness "wikilink")」、38thシングル「[Bold & Delicious/Pride](https://ja.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")」は収録されていない。 また、2006年に発表された楽曲もベストアルバムの選曲対象とはなっていない。
 
 どちらも「[CDのみ](../Page/コンパクトディスク.md "wikilink")」「CD＋2[DVD](../Page/DVD-Video.md "wikilink")」の2形態（BLACK、WHITEともあわせると計4形態、全てジャケットは異なる）で発売。両作品ともDVDには1枚目に[ビデオクリップ集](../Page/ミュージック・ビデオ.md "wikilink")、2枚目にはカウントダウンライブ「ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A」（BLACKにはドキュメンタリー、WHITEにはライブ本編）を収録。「CD＋2DVD」の初回盤はスリーブケース＋カラーケース仕様、「CDのみ」の初回盤はカラートレイ仕様。また、本作以降はレンタル盤も[CD-DA](../Page/CD-DA.md "wikilink")仕様となった。
 

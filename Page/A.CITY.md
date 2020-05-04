@@ -39,16 +39,17 @@ A.CITYは広島市中心部から北西へ約8km、同市の[安佐南区](../Pa
 
 <!-- end list -->
 
-  - 高速バス　（大塚駅停車のみでA.CITY内を通過する）
-      - [広島電鉄](../Page/広電バス.md "wikilink")
-      - [中国ジェイアールバス](../Page/中国ジェイアールバス.md "wikilink")
-      - [広交観光](../Page/広交観光.md "wikilink")
-      - [備北交通](../Page/備北交通.md "wikilink")
-      - [日本交通](../Page/日本交通_\(鳥取県\).md "wikilink")
-      - [日ノ丸自動車](../Page/日ノ丸自動車.md "wikilink")
-      - [一畑バス](../Page/一畑バス.md "wikilink")
-      - [石見交通](../Page/石見交通.md "wikilink")
-      - [防長交通](../Page/防長交通.md "wikilink")
+  - 高速バス
+      - [広島 - 三次 - 庄原 - 東城線](../Page/広島_-_三次_-_庄原_-_東城線.md "wikilink")（[広島電鉄](../Page/広電バス.md "wikilink")・[備北交通](../Page/備北交通.md "wikilink")）一部便が、大塚駅・Aシティ中央に停車。
+
+<!-- end list -->
+
+  - そのほか、以下の高速バスは大塚駅停車のみでA.CITY内を通過する。
+      - [メリーバード号](../Page/メリーバード号_\(広島_-_鳥取線\).md "wikilink"): 倉吉（[倉吉駅](../Page/倉吉駅.md "wikilink")）・鳥取（[鳥取駅](../Page/鳥取駅バスターミナル.md "wikilink")）行き（[日ノ丸自動車](../Page/日ノ丸自動車.md "wikilink")）
+      - [メリーバード号](../Page/メリーバード号_\(広島_-_米子線\).md "wikilink"): 米子（[米子駅](https://ja.wikipedia.org/wiki/米子駅 "wikilink")）行き（広島電鉄・[日本交通](../Page/日本交通_\(鳥取県\).md "wikilink")・日ノ丸自動車）
+      - [グランドアロー号](../Page/グランドアロー号.md "wikilink"): 松江（[松江駅](https://ja.wikipedia.org/wiki/松江駅 "wikilink")）行き　（広島電鉄・[一畑バス](../Page/一畑バス.md "wikilink")）
+      - [みこと号](../Page/みこと号.md "wikilink"): 出雲（[出雲市駅](https://ja.wikipedia.org/wiki/出雲市駅 "wikilink")）行き（[中国JRバス](../Page/中国ジェイアールバス.md "wikilink")・一畑バス）
+      - [いさりび号](../Page/いさりび号.md "wikilink"): [大朝IC](../Page/大朝インターチェンジ.md "wikilink")・[浜田駅](../Page/浜田駅.md "wikilink")行き　（広島電鉄・中国JRバス・[石見交通](../Page/石見交通.md "wikilink")）
 
 ### 新交通システム
 

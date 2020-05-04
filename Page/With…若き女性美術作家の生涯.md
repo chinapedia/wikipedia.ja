@@ -69,7 +69,7 @@
 
 2001年[12月2日](../Page/12月2日.md "wikilink")に東京・お茶の水クリスチャンセンターホールで初めて上映された。完成から数年を経た現在も、全国各地で上映活動が続いている。その上映主体は、[映画館](../Page/映画館.md "wikilink")や映画興行会社のみならず、各地の『with…』ファンによる[自主上映](https://ja.wikipedia.org/wiki/自主上映 "wikilink")、[中学](https://ja.wikipedia.org/wiki/中学 "wikilink")・[高校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")・[大学](../Page/大学.md "wikilink")などの教育機関、[市町村](../Page/市町村.md "wikilink")などの[自治体](https://ja.wikipedia.org/wiki/自治体 "wikilink")、[社会福祉協議会](../Page/社会福祉協議会.md "wikilink")などの団体、[企業](../Page/企業.md "wikilink")や[NPO](../Page/NPO.md "wikilink")など多岐にわたる。
 
-『with…』の上映を巡っては、以前どこかの上映会で鑑賞した人が[作品](../Page/作品.md "wikilink")に共感し、次は自ら主催者となって上映会を開催するケースが非常に多いという特徴がある。
+『with…』の上映を巡っては、以前どこかの上映会で鑑賞した人が作品に共感し、次は自ら主催者となって上映会を開催するケースが非常に多いという特徴がある。
 
 ## 美術と映画の融合
 

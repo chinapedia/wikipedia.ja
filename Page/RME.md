@@ -167,7 +167,6 @@
 <!-- end list -->
 
   - [高橋春香](https://ja.wikipedia.org/wiki/高橋春香_\(札幌市出身の声優\) "wikilink")
-  - [中条智世](https://ja.wikipedia.org/wiki/中条智世 "wikilink")
   - [友住吉良](https://ja.wikipedia.org/wiki/友住吉良 "wikilink")
 
 <!-- end list -->
@@ -263,6 +262,7 @@
   - [篠原なるみ](https://ja.wikipedia.org/wiki/篠原なるみ "wikilink")（フリー）
   - [鈴木弘子](../Page/鈴木弘子.md "wikilink")（現所属：[賢プロダクション](../Page/賢プロダクション.md "wikilink")）
   - [田中茉理花](../Page/田中茉理花.md "wikilink")（旧名：田中まりか、フリー）
+  - [中条智世](https://ja.wikipedia.org/wiki/中条智世 "wikilink")（フリー）
   - [中村サチコ](https://ja.wikipedia.org/wiki/中村サチコ "wikilink")
   - [永田佳代](../Page/永田佳代.md "wikilink")（フリー）
   - [羽吹梨里](../Page/羽吹梨里.md "wikilink")

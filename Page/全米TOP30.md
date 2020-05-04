@@ -38,7 +38,7 @@
   - [静岡県](../Page/静岡県.md "wikilink")（[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")）
   - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")（[テレビ金沢](../Page/テレビ金沢.md "wikilink")）
   - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")）
-  - [福井県](../Page/福井県.md "wikilink")（[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")）
+  - [福井県](../Page/福井県.md "wikilink")（[福井放送](../Page/福井放送.md "wikilink")）
   - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")
 
 <!-- end list -->

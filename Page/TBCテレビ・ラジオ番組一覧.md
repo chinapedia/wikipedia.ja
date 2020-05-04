@@ -418,7 +418,7 @@ JNN28局同時ネット番組については省略。
 <!-- end list -->
 
   -
-    HBC、TUY、[OBSとTBSサービスや](https://ja.wikipedia.org/wiki/大分放送 "wikilink")[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")などとともに共同製作・放送するテレビドラマ。
+    HBC、TUY、[OBSとTBSサービスや](../Page/大分放送.md "wikilink")[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")などとともに共同製作・放送するテレビドラマ。
 
 ### ラジオ(五十音順)
 

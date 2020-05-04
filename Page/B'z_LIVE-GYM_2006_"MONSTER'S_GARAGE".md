@@ -118,7 +118,7 @@
         スクリーンには、ファンクラブイベント「Treasure land」で上映された映像が流された。
         アウトロで稲葉がステージを降り、アリーナの外周を走った。
 
-スタッフロールはメンバーの退場時に流され、エンディング[SEとして](../Page/効果音.md "wikilink")「[BUDDY](https://ja.wikipedia.org/wiki/ACTION_\(アルバム\) "wikilink")」の原曲が流されていた。
+スタッフロールはメンバーの退場時に流され、エンディング[SEとして](../Page/効果音.md "wikilink")「[BUDDY](../Page/ACTION_\(アルバム\).md "wikilink")」の原曲が流されていた。
 
 ### DISC 3
 

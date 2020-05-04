@@ -1,7 +1,7 @@
 > この記事は[マシンガンをぶっ放せ -Mr.Children Bootleg-](https://ja.wikipedia.org/wiki/マシンガンをぶっ放せ_-Mr.Children_Bootleg-)から翻訳されています。
 
 
-「**マシンガンをぶっ放せ -Mr.Children Bootleg-**」（マシンガンをぶっぱなせ ミスター・チルドレン・ブートレグ）は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+「**マシンガンをぶっ放せ -Mr.Children Bootleg-**」（マシンガンをぶっぱなせ ミスター・チルドレン・ブートレグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
 
 ## 概要
 
@@ -35,7 +35,7 @@
 
 ## 収録アルバム
 
-  - 『[深海](../Page/深海_\(アルバム\).md "wikilink")』（\#1、アルバムバージョン）
+  - 『[深海](../Page/深海_\(アルバム\).md "wikilink")』（\#1 - アルバムバージョン）
   - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2,\#3)
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』 (\#1)
 

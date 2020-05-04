@@ -85,6 +85,7 @@
   - [美々](https://ja.wikipedia.org/wiki/美々 "wikilink")（現所属：[ケンユウオフィス](../Page/ケンユウオフィス.md "wikilink")）
   - [森本73子](https://ja.wikipedia.org/wiki/森本73子 "wikilink")（現所属：[マウスプロモーション](../Page/マウスプロモーション.md "wikilink")）
   - [山本留里佳](https://ja.wikipedia.org/wiki/山本留里佳 "wikilink")（現所属：CROSS CALL代表取締役）
+  - [みまかな](https://ja.wikipedia.org/wiki/みまかな "wikilink")（フリー）
 
 ## 外部リンク
 

@@ -7,7 +7,7 @@
 
   - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[るろうに剣心 -明治剣客浪漫譚-](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\) "wikilink")』エンディングテーマに起用され、自身初のアニメタイアップとなった。なお、タイトルの「HEART OF SWORD」は日本語に直訳すると「**剣の心**」となり、主人公「[緋村**剣心**](../Page/緋村剣心.md "wikilink")」を示している。ちなみに、『るろうに剣心』の原作者である[和月伸宏](../Page/和月伸宏.md "wikilink")は、アニメ版の主題歌の中でこの曲が最も気に入っているという。
   - [オリコンチャート](../Page/オリコンチャート.md "wikilink")において46週に渡りチャートインし、累計売上は36.6万枚を記録\[1\]。シングルでは自己最長のロングセラーとなった。
-  - この曲で[浅倉大介](../Page/浅倉大介.md "wikilink")と共にフジテレビ系『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』に初出演。[ダウンタウン相手に丁々発止のトークを披露し](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[西川のキャラクターの面でもブレイクのきっかけとなった](../Page/西川貴教.md "wikilink")。
+  - この曲で[浅倉大介](../Page/浅倉大介.md "wikilink")と共にフジテレビ系『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に初出演。[ダウンタウン相手に丁々発止のトークを披露し](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[西川のキャラクターの面でもブレイクのきっかけとなった](../Page/西川貴教.md "wikilink")。
   - タイアップの縁もあり、西川はアニメ本編において、**煉**（**大蛇の煉**）役で[声優](../Page/声優.md "wikilink")として出演した。
 
 ## 収録曲

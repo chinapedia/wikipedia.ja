@@ -6856,6 +6856,14 @@ Blu-ray版のみ発売</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>5月1日</p></td>
+<td><p><strong>美人エリート捜査官 ～媚薬オイル工場潜入篇～</strong></p></td>
+<td><p>WANZ-952</p></td>
+<td><p>WANZ FACTORY</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

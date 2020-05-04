@@ -84,4 +84,4 @@
   - [navsource.org: USS *Richmond K. Turner* (CG-20)](http://www.navsource.org/archives/04/040120.htm)
   - [hazegray.org: USS *Richmond K. Turner* (CG-20)](http://www.hazegray.org/danfs/dl-dlg/dlg20.htm)
 
-[Category:リーヒ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/Category:リーヒ級ミサイル巡洋艦 "wikilink") [Category:1964年竣工船](https://ja.wikipedia.org/wiki/Category:1964年竣工船 "wikilink")
+[Category:リーヒ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/Category:リーヒ級ミサイル巡洋艦 "wikilink") [Category:標的として沈没した船](https://ja.wikipedia.org/wiki/Category:標的として沈没した船 "wikilink") [Category:1964年竣工船](https://ja.wikipedia.org/wiki/Category:1964年竣工船 "wikilink")

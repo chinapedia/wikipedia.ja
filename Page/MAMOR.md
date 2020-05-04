@@ -297,7 +297,7 @@
   - [セキュリタリアン](../Page/セキュリタリアン.md "wikilink") - 前身となる広報誌
   - [防衛ホーム](../Page/防衛ホーム.md "wikilink") - 自衛隊関連のニュースを主とする新聞
   - [朝雲新聞](../Page/朝雲新聞.md "wikilink")
-  - [国際戦略研究所](https://ja.wikipedia.org/wiki/国際戦略研究所 "wikilink")
+  - [国際戦略研究所](../Page/国際戦略研究所.md "wikilink")
 
 ## 外部リンク
 

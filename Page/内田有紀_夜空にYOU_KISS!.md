@@ -532,7 +532,7 @@
 
 <th>
 
-[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")
+[福井放送](../Page/福井放送.md "wikilink")
 
 </th>
 
@@ -1092,7 +1092,7 @@
 
 <th>
 
-[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+[大分放送](../Page/大分放送.md "wikilink")
 
 </th>
 

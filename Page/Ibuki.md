@@ -223,7 +223,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ</a>・<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系列<br />
 <a href="../Page/クロスネット局.md" title="wikilink">クロスネット</a></p></td>
 <td><p>土曜日<br />

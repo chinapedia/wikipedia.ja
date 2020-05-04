@@ -83,6 +83,8 @@
 
   - [ケン・レーマンス](https://ja.wikipedia.org/wiki/ケン・レーマンス "wikilink") 2001-2002
 
+  - [アーメド・エル・メッサウディ](https://ja.wikipedia.org/wiki/アーメド・エル・メッサウディ "wikilink") 2016-2019
+
   - [ソティリス・ニニス](https://ja.wikipedia.org/wiki/ソティリス・ニニス "wikilink") 2017
 
 ### FW

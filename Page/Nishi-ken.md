@@ -488,6 +488,7 @@
 | [Kentaro Nishida](https://ja.wikipedia.org/wiki/Kentaro_Nishida "wikilink") | 2018年5月20日                              | **Sky Cruising**              | 作詞/作曲/編曲 |
 | 2018年12月12日                                                                 | **CHANMERY**                            | 作詞/作曲/編曲                      |          |
 | 2019年3月16日                                                                  | **SARA（Midnight City MiXXX）** \[Cover\] | 編曲                            |          |
+| 2020年5月1日                                                                   | **君がくれる優しい日々**                          | 作詞/作曲/編曲                      |          |
 | [すず from SUGARS](https://ja.wikipedia.org/wiki/すず_from_SUGARS "wikilink")   | 2013年6月3日                               | **いいことあるかも♡**                 | 作詞/作曲/編曲 |
 | [STARDUST PLANET](https://ja.wikipedia.org/wiki/STARDUST_PLANET "wikilink") | 2018年7月21日                              | **We Are “STAR”**             | 編曲       |
 | [Purple Days](https://ja.wikipedia.org/wiki/Purple_Days "wikilink")         | 2012年8月22日                              | **READY STEADY GO**           | 編曲       |
@@ -513,13 +514,13 @@
 <td><p>2018年11月21日</p></td>
 <td><p><strong>Romancer（nishi-ken Remix）</strong></p></td>
 <td><p>Remix</p></td>
-<td><p>Al「SENRITSU」（デジタルリリース）</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/SENRITSU" title="wikilink">SENRITSU</a>」（デジタルリリース）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月19日</p></td>
 <td><p><strong>Never Alone（nishi-ken remix）</strong></p></td>
 <td><p>Remix</p></td>
-<td><p>Al「SENRITSU TWO」</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/SENRITSU_TWO" title="wikilink">SENRITSU TWO</a>」</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -528,6 +529,48 @@
 <td><p><strong>始めの一歩</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/7th" title="wikilink">7th</a>」</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/アリス九號..md" title="wikilink">アリス九號.</a></p></td>
+<td><p>2020年4月29日</p></td>
+<td><p><strong>BABYLON</strong></p></td>
+<td><p>編曲</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/不夜城エデン" title="wikilink">不夜城エデン</a>」</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>TESTAMENT</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>游戏-ASOBI-</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>罪人</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>CYAN</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Everlasting</strong></p></td>
+<td><p>編曲</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/家入レオ" title="wikilink">家入レオ</a></p></td>
@@ -1560,293 +1603,300 @@ Vol.009 背景コンビ</a>」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/VOYZ_BOY" title="wikilink">VOYZ BOY</a></p></td>
+<td><p>2020年4月29日</p></td>
+<td><p><strong>YES or NO</strong></p></td>
+<td><p>編曲</p></td>
+<td><p>Al「<a href="https://ja.wikipedia.org/wiki/ARRIVAL_OF_VOYZ_BOY" title="wikilink">ARRIVAL OF VOYZ BOY</a>」</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マオ_(シド)" title="wikilink">マオ from SID</a></p></td>
 <td><p>2016年9月28日</p></td>
 <td><p><strong>chandelier</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「Maison de M」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>マニキュア</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>星</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>サヨナララスト</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>頬づえ</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>月</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年3月29日</p></td>
 <td><p><strong>違う果実</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>LIVE DVD「Maison de M vol.1 in Billboard Live TOKYO」初回生産限定盤付属CD</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>不埒な体温</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ミオヤマザキ" title="wikilink">ミオヤマザキ</a></p></td>
 <td><p>2016年11月2日</p></td>
 <td><p><strong>聞けない理由</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「anti-these」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>正義の歌</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>死にDIE</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>明日もどうにか生き延びよう。</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年7月12日</p></td>
 <td><p><strong>鬱鬱</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「ノイズ」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年10月25日</p></td>
 <td><p><strong>ピーーーーーーーー</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「choice」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>裏アカ</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>アーティスト</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>最愛</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>愛されたいよ。</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年1月19日</p></td>
 <td><p><strong>un-speakable</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「un-speakable」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>哀図</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>女子高生</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>CinDie</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ふたりぼっち</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>絵空事</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>溺死</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年12月25日</p></td>
 <td><p><strong>Singing</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「じゃあどうやったら愛してくれんだよ」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>炎上Enjoy</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>あなた不信</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>失恋</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>願事</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>DAREKA</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a></p></td>
 <td><p>2009年1月21日</p></td>
 <td><p><strong>午前0時のBaby Doll</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/深愛" title="wikilink">深愛</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/mini_(モデル)" title="wikilink">mini</a></p></td>
 <td><p>2010年3月3日</p></td>
 <td><p><strong>Special memory</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/Are_U_Ready?" title="wikilink">Are U Ready?</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年9月1日</p></td>
 <td><p><strong>Dear Friend</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/GiRLS_SPiRiT" title="wikilink">GiRLS SPiRiT</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Baby baBy</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012年5月9日</p></td>
 <td><p><strong>Pray</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/エレクトハーコーバンバンピカソ" title="wikilink">エレクトハーコーバンバンピカソ</a>」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ハーコーぷにんそす</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Take A Feel</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ふくざつ女子</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>S/GN</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Lad Style</strong></p></td>
 <td><p>作詞/作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年12月18日</p></td>
 <td><p><strong>In Motion</strong></p></td>
 <td><p>編曲</p></td>
@@ -1854,133 +1904,133 @@ Vol.009 背景コンビ</a>」</p></td>
 -Female SPIRITS-」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/みゆはん" title="wikilink">みゆはん</a></p></td>
 <td><p>2017年2月22日</p></td>
 <td><p><strong>花火のような恋</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/自己スキーマ_(アルバム)" title="wikilink">自己スキーマ</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年9月29日</p></td>
 <td><p><strong>蝶よ花よ</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「リスキーシフト」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年7月4日</p></td>
 <td><p><strong>世界の片側</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「ひきこもり情報弱者」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年3月20日</p></td>
 <td><p><strong>足跡</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「闇鍋」</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/武藤彩未.md" title="wikilink">武藤彩未</a></p></td>
 <td><p>2014年4月23日</p></td>
 <td><p><strong>時間というWonderland</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/永遠と瞬間" title="wikilink">永遠と瞬間</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>彩りの夏</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>女神のサジェスチョン</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Seventeen</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年2月25日</p></td>
 <td><p><strong>パラレルワールド</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/I-POP" title="wikilink">I-POP</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>ミラクリエイション</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>未来へのSign</strong></p></td>
 <td><p>編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>OWARI WA HAJIMARI</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/MEG" title="wikilink">MEG</a></p></td>
 <td><p>2007年12月5日</p></td>
 <td><p><strong>ROMANTIKA</strong></p></td>
 <td><p>作曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/BEAM" title="wikilink">BEAM</a>」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/RIDER_CHIPS.md" title="wikilink">RIDER CHIPS</a></p></td>
 <td><p>2018年7月7日</p></td>
 <td><p><strong>cry for the moon</strong></p></td>
 <td><p>作曲</p></td>
 <td><p>Al「フィーバー</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年9月4日</p></td>
 <td><p><strong>Next New Wφrld</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Al「<a href="https://ja.wikipedia.org/wiki/仮面ライダージオウ_主題歌&amp;挿入歌_ベスト_ソング_コレクション" title="wikilink">仮面ライダージオウ 主題歌&amp;挿入歌 ベスト ソング コレクション</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Lead.md" title="wikilink">Lead</a></p></td>
 <td><p>2015年3月4日</p></td>
 <td><p><strong>It’s My Style</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/My_One" title="wikilink">My One</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年11月25日</p></td>
 <td><p><strong>Wake Me Up</strong></p></td>
 <td><p>編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/約束_(Leadの曲)" title="wikilink">約束</a>」</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/リンクSTAR`s" title="wikilink">リンクSTAR's</a></p></td>
 <td><p>2016年8月3日</p></td>
 <td><p><strong>パリッタ★</strong></p></td>
 <td><p>作曲/編曲</p></td>
 <td><p>Sg「<a href="https://ja.wikipedia.org/wiki/トゥインクリン☆" title="wikilink">トゥインクリン☆</a>」</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ROBO+S" title="wikilink">ROBO+S</a></p></td>
 <td><p>2009年2月18日</p></td>
 <td><p><strong>転がるロシアンブルー</strong></p></td>

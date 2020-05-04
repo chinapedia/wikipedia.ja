@@ -5,40 +5,42 @@
 
 ## 概要
 
-元々は、住宅建材メーカー大手[トステム](../Page/トステム.md "wikilink")の関連会社であり、現在はトステムが[INAX](../Page/INAX.md "wikilink")などと経営統合し、2012年7月に商号変更された[LIXILグループ](../Page/LIXILグループ.md "wikilink")の子会社である。
+もともとは、住宅建材メーカー大手[トステム](../Page/トステム.md "wikilink")の関連会社であり、現在はトステムが[INAX](../Page/INAX.md "wikilink")などと経営統合し、2012年7月に商号変更された[LIXILグループ](../Page/LIXILグループ.md "wikilink")の子会社である。
 
 2011年4月にトステムやINAX等の住生活グループの主要会社再編により発足した[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")の誕生に伴い、当社も商号をLIXILビバに変更した。
 
 ## 沿革
 
-  - [1977年](../Page/1977年.md "wikilink")
+  - [1977年](../Page/1977年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")52年）
       - [4月1日](../Page/4月1日.md "wikilink") - **ビバホーム株式会社**（初代）を設立。
       - 「ビバホーム」第1号店として[福島県](../Page/福島県.md "wikilink")に須賀川店を開店。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第2部へ株式上場。
-  - [1989年](../Page/1989年.md "wikilink") - 東京証券取引所市場第1部へ指定。
-  - [1992年](../Page/1992年.md "wikilink")4月 - ビバホーム株式会社（初代）が、**トステムビバ株式会社**（初代）に商号変更。
-  - [1993年](../Page/1993年.md "wikilink")6月 - トップ商事株式会社（現法人）を設立。
-  - [2000年](../Page/2000年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - トップ商事株式会社が、ビバホーム株式会社（2代目）に商号変更。
-  - [2001年](../Page/2001年.md "wikilink") - グループ事業再編
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第2部へ株式上場。
+  - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年） - 東京証券取引所市場第1部へ指定。
+  - [1992年](../Page/1992年.md "wikilink")（平成4年）4月 - ビバホーム株式会社（初代）が、**トステムビバ株式会社**（初代）に商号変更。
+  - [1993年](../Page/1993年.md "wikilink")（平成5年）6月 - トップ商事株式会社（現法人）を設立。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）[12月21日](../Page/12月21日.md "wikilink") - トップ商事株式会社が、ビバホーム株式会社（2代目）に商号変更。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年） - グループ事業再編
       - [3月31日](../Page/3月31日.md "wikilink") - トステムビバ株式会社が、小売事業を完全子会社の**ビバホーム株式会社**（2代目）に[営業譲渡](https://ja.wikipedia.org/wiki/営業譲渡 "wikilink")\[1\]。
-      - [4月1日](../Page/4月1日.md "wikilink") - [トステム](../Page/トステム.md "wikilink")株式会社が、トステムビバ株式会社（初代）を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")\[2\]。
+      - 4月1日 - [トステム](../Page/トステム.md "wikilink")株式会社が、トステムビバ株式会社（初代）を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")\[2\]。
       - ストアブランドを「トステムビバ」としたが、後に「ビバホーム」に戻した。
       - 「ヴィシーズ」事業を開始。
       - ビバホーム株式会社（2代目）が、**トステムビバ株式会社**（2代目）に商号変更。
-  - [2003年](../Page/2003年.md "wikilink") - 「スーパービバホーム」事業を開始（1号店・鴻巣店）。
-  - [2009年](../Page/2009年.md "wikilink") - 「**建デポ**」事業を開始（1号店・野田店）。
-  - [2011年](../Page/2011年.md "wikilink")
+  - [2003年](../Page/2003年.md "wikilink")（平成15年） - 「スーパービバホーム」事業を開始（1号店・鴻巣店）。
+  - [2009年](../Page/2009年.md "wikilink")（平成21年） - 「**建デポ**」事業を開始（1号店・野田店）。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）
       - 4月1日 - トステムビバ株式会社（2代目）から**株式会社LIXILビバ**に商号変更\[3\]。
       - [6月10日](../Page/6月10日.md "wikilink") - ビバモール寝屋川（スーパービバホーム寝屋川店を核に、リフォーム&デザインセンター・ヴィシーズも併設）をオープン。
       - [10月5日](../Page/10月5日.md "wikilink") - スーパービバホーム東大阪店を[ニトリ](../Page/ニトリ.md "wikilink")モール東大阪内にオープンし、関西地区への出店を促進している。
-  - [2012年](../Page/2012年.md "wikilink")
+  - [2012年](../Page/2012年.md "wikilink")（平成24年）
       - 4月1日 - 「建デポ」事業を株式会社LIXILへ統合（なお、2015年10月1日に株式会社LIXILから分社化された建デポ株式会社の運営となり、2019年6月3日に建デポ株式会社が[コーナン](../Page/コーナン.md "wikilink")商事株式会社の100%子会社となる）。
       - [6月20日](../Page/6月20日.md "wikilink") - 北海道初の大型店舗となる「スーパービバホーム[ウイングベイ小樽](../Page/ウイングベイ小樽.md "wikilink")店」をオープン（居抜き出店となっているが、ホームセンターの居抜き出店による店舗としては国内最大級となる）。
-  - [2014年](../Page/2014年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink") - 本社を[上尾市](https://ja.wikipedia.org/wiki/上尾市 "wikilink")上から、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")[上木崎](https://ja.wikipedia.org/wiki/上木崎 "wikilink")に新築した「ビバモールさいたま新都心」6・7階に移転。
-  - [2017年](../Page/2017年.md "wikilink")4月12日 - 東証1部上場。
-  - [2018年](../Page/2018年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [佐賀県](../Page/佐賀県.md "wikilink")[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")のイオン佐賀ショッピングセンター内に「スーパービバホーム佐賀店」をオープンし、九州地区に進出\[4\]。
-  - [2019年](../Page/2019年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - ビバホーム豊島5丁目店オープン。
-  - [2020年](../Page/2020年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink") - 株式会社[イズミ](../Page/イズミ.md "wikilink")から[ゆめタウン宗像](../Page/ゆめタウン宗像.md "wikilink")を購入し、ビバモール宗像にリブランド（予定）\[5\]。
+  - [2014年](../Page/2014年.md "wikilink")（平成26年）[11月10日](../Page/11月10日.md "wikilink") - 本社を[上尾市](https://ja.wikipedia.org/wiki/上尾市 "wikilink")上から、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[浦和区](https://ja.wikipedia.org/wiki/浦和区 "wikilink")[上木崎](https://ja.wikipedia.org/wiki/上木崎 "wikilink")に新築した「ビバモールさいたま新都心」6・7階に移転。
+  - [2017年](../Page/2017年.md "wikilink")（平成29年）[4月12日](../Page/4月12日.md "wikilink") - 東証1部上場。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）[7月18日](../Page/7月18日.md "wikilink") - [佐賀県](../Page/佐賀県.md "wikilink")[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")のイオン佐賀ショッピングセンター内に「スーパービバホーム佐賀店」をオープンし、九州地区に進出\[4\]。
+  - [2019年](../Page/2019年.md "wikilink")（平成31年）[3月23日](../Page/3月23日.md "wikilink") - ビバホーム豊島5丁目店オープン。
+  - [2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）
+      - [4月24日](../Page/4月24日.md "wikilink") - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")感染拡大に伴い[5月2日](../Page/5月2日.md "wikilink") - [5月6日](../Page/5月6日.md "wikilink")の間、「来ないでください宣言」として全国すべての店舗\[5\]で休業することを発表\[6\]。
+      - [8月31日](../Page/8月31日.md "wikilink") - 株式会社[イズミ](../Page/イズミ.md "wikilink")から[ゆめタウン宗像](../Page/ゆめタウン宗像.md "wikilink")を購入し、ビバモール宗像にリブランド（予定）\[7\]。
 
 ## 運営店舗
 
@@ -71,12 +73,14 @@
       - ビバモール和泉中央（大阪府[和泉市](../Page/和泉市.md "wikilink")）
       - ビバモール厚木南インター（神奈川県[厚木市](../Page/厚木市.md "wikilink")）
       - ビバモール本庄（埼玉県[本庄市](../Page/本庄市.md "wikilink")）
-      - ビバモール甲斐敷島（[山梨県](../Page/山梨県.md "wikilink")[甲斐市](../Page/甲斐市.md "wikilink")）（スーパービバホームが核店舗。当初は2019年8月\[6\]予定だったが、[半年延期され、2020年2月22日となり](https://shutten-watch.com/chubu/6556)、モールの専門店街は同月26日にオープンした）
+      - ビバモール甲斐敷島（[山梨県](../Page/山梨県.md "wikilink")[甲斐市](../Page/甲斐市.md "wikilink")）（スーパービバホームが核店舗。当初は2019年8月\[8\]予定だったが、[半年延期され、2020年2月22日となり](https://shutten-watch.com/chubu/6556)、モールの専門店街は同月26日にオープンした）
       - ビバモール東松山（埼玉県[東松山市](https://ja.wikipedia.org/wiki/東松山市 "wikilink")）
 
-## 脚注・出典
+## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -98,5 +102,7 @@
 2.
 3.  [住生活G 子会社のトステムビバの社名をLIXILビバに変更](http://sankei.jp.msn.com/economy/news/110120/biz11012011090089-n1.htm) msn産経ニュース・2011年1月20日
 4.
-5.
+5.  ただしニトリモール内1店舗を除く。
 6.
+7.
+8.

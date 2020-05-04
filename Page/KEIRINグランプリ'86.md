@@ -69,6 +69,6 @@
 
 [立川競輪WebサイトのKEIRINグランプリ優勝者一覧](http://www.tachikawakeirin.jp/movie/champions/index_gp.html)（立川競輪場で開催されたレースのみ、過去のKEIRINグランプリの動画が配信されている。）
 
-[Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1986年の自転車競技大会](https://ja.wikipedia.org/wiki/Category:1986年の自転車競技大会 "wikilink") [Category:1986年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1986年の日本のスポーツ "wikilink") [Category:立川市のスポーツ史](https://ja.wikipedia.org/wiki/Category:立川市のスポーツ史 "wikilink") [Category:1986年12月](https://ja.wikipedia.org/wiki/Category:1986年12月 "wikilink")
+[Category:KEIRINグランプリ](https://ja.wikipedia.org/wiki/Category:KEIRINグランプリ "wikilink") [Category:1986年の自転車競技大会](https://ja.wikipedia.org/wiki/Category:1986年の自転車競技大会 "wikilink") [Category:1986年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:1986年の日本のスポーツ "wikilink") [Category:立川市のスポーツ史](https://ja.wikipedia.org/wiki/Category:立川市のスポーツ史 "wikilink") [Category:1986年12月](https://ja.wikipedia.org/wiki/Category:1986年12月 "wikilink") [Category:中野浩一](https://ja.wikipedia.org/wiki/Category:中野浩一 "wikilink")
 
 1.  [直線の魔術師　井上１５００万円取った](http://cache.yahoofs.jp/search/cache?c=Q1F4tv9M1_8J&p=keiringp08&u=www.sponichi.co.jp/ad/keirin/keiringp08/playback/1986/index.html)（[アーカイブ](http://archive.is/vYnMI)）

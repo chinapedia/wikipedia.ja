@@ -23,10 +23,6 @@ GMOクラウドグループは、[GMOインターネット](../Page/GMOインタ
 
   - 下関支社（[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")[細江町](../Page/細江町.md "wikilink")1-2-10 [エストラスト](https://ja.wikipedia.org/wiki/エストラスト "wikilink")第2ビル3階）
 
-## 裁判
-
-転職サイトVorkersでは法令順守意識が2019年4月時点で4と、ほかの点より最も高いが、
-
 ## 沿革
 
   - [1993年](../Page/1993年.md "wikilink")12月 - 有限会社**アイル**創立。

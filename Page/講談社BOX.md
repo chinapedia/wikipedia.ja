@@ -1,55 +1,65 @@
 > この記事は[講談社BOX](https://ja.wikipedia.org/wiki/講談社BOX)から翻訳されています。
 
 
-**講談社BOX**（こうだんしゃボックス）は、[講談社](../Page/講談社.md "wikilink")が[2006年](../Page/2006年.md "wikilink")11月から発行している書籍[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")、及び講談社の部署名。[小説](../Page/小説.md "wikilink")のみにとどまらず、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[批評](https://ja.wikipedia.org/wiki/批評 "wikilink")書も刊行しており、「ハイブリッド・レーベル」を標榜している。銀の箱に入れられた装丁が特徴だが、2010年11月からは[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")“Powers”受賞作の専用レーベル「Powers BOX」が異なる装丁で並行して刊行されている。
+**講談社BOX**（こうだんしゃボックス）は、[講談社](../Page/講談社.md "wikilink")が[2006年](../Page/2006年.md "wikilink")11月から発行している書籍[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")、及び講談社の部署名。
 
-創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し新人作家・イラストレーターを積極的に世に出している。また、2008年から2009年にかけて雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行し、2011年2月には電子雑誌『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』を創刊した。
+[小説](../Page/小説.md "wikilink")のみにとどまらず、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[批評](https://ja.wikipedia.org/wiki/批評 "wikilink")書も刊行しており、「ハイブリッド・レーベル」を標榜している。銀の箱に入った装丁が特徴だったが、2010年11月からは[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")“Powers”受賞作の専用レーベル「Powers BOX」が異なる装丁で並行して刊行され、末期はソフトカバーでの刊行が主体となっていた。
+
+創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し新人作家・イラストレーターを積極的に世に出していた。また、2008年から2009年にかけて雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行し、2011年2月からは電子雑誌『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』を刊行していた。
 
 ## 概要
 
-初代部長は文芸誌『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』編集長の[太田克史](../Page/太田克史.md "wikilink")。二代目部長は、講談社ノベルスで[島田荘司](../Page/島田荘司.md "wikilink")、[竹本健治](../Page/竹本健治.md "wikilink")、[綾辻行人](../Page/綾辻行人.md "wikilink")、[麻耶雄嵩](../Page/麻耶雄嵩.md "wikilink")などを担当していた[秋元直樹](https://ja.wikipedia.org/wiki/秋元直樹 "wikilink")（2008年12月〜）。2011年3月の公式メールマガジンで、「P」（本名不明）が三代目部長になったことが報告された。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は 「**Everything is Boxed, KODANSHA BOX. 開けるのは“あなた”です。**」。
+講談社文芸図書第三出版部所属で文芸誌『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』編集長の[太田克史](../Page/太田克史.md "wikilink")が、2006年10月に新設された海外文芸出版部へ異動したことから、特例に近い形で創刊された。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は 「**Everything is Boxed, KODANSHA BOX. 開けるのは“あなた”です。**」。
 
-小説・漫画・批評を、銀の箱という統一的なフォーマットで刊行していたが、箱に入っていない「講談社BOXピース」も刊行しており、近年では箱の色や形状が作品ごとに変えられていることが多い。また、創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し、2008年からは雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行していた。刊行冊数は、2009年5月の[鏡征爾](https://ja.wikipedia.org/wiki/鏡征爾 "wikilink")『白の断章』で100冊に到達した（銀の箱に入った刊行書籍のみカウントされている）。
+初代部長だった太田は2008年12月に部長を退任し、講談社ノベルスで[島田荘司](../Page/島田荘司.md "wikilink")、[竹本健治](../Page/竹本健治.md "wikilink")、[綾辻行人](../Page/綾辻行人.md "wikilink")、[麻耶雄嵩](../Page/麻耶雄嵩.md "wikilink")などを担当していた[秋元直樹](https://ja.wikipedia.org/wiki/秋元直樹 "wikilink")が二代目部長となった（2008年12月〜）。2011年3月の公式メールマガジンで、「P」（本名不明）が三代目部長になったことが報告された。
+
+小説・漫画・批評を、銀の箱という統一フォーマットで刊行していたが、箱に入っていない「講談社BOXピース」も刊行しており、末期は箱の色や形状が作品ごとに変えられたり、ソフトカバーでの刊行も多かった。また、創刊当初から[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")を主催し、2008年からは雑誌『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』を刊行していた。刊行冊数は、2009年5月の[鏡征爾](https://ja.wikipedia.org/wiki/鏡征爾 "wikilink")『白の断章』で100冊に到達した（銀の箱に入った刊行書籍のみカウントされている）。
 
 特別企画も多く行っていた。新人批評家を選考・育成しデビューさせる『[東浩紀のゼロアカ道場](https://ja.wikipedia.org/wiki/東浩紀のゼロアカ道場 "wikilink")』（2008年3月〜2009年8月）、参加者16名全員の漫画家デビューを目指す『[西島大介のひらめき☆マンガ学校](https://ja.wikipedia.org/wiki/西島大介のひらめき☆マンガ学校 "wikilink")』（2009年7月〜）、クリエーターと読者が集う場所を作った『[KOBOCAFE](https://ja.wikipedia.org/wiki/#KOBACAFE "wikilink")』（2008年5月〜8月）などがあった。
 
 [amazon.co.jp](https://ja.wikipedia.org/wiki/amazon.co.jp "wikilink")内には公式コーナーが設置されていた\[1\]、作家へのインタビューなどが読めるほか、女優の[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")や声優の[中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")によるレビューを載せるなど、積極的にPRが行われていた。
 
-講談社BOXの開始当初の講談社内での位置づけは、「講談社文芸局 海外文芸出版部 講談社BOX編集部」であった。当時講談社が新設した文芸局海外文芸出版部の中に、入れ子細工のように「講談社BOX」編集部が作られた\[2\]。その後は「文芸局講談社BOX」という扱いを経て、文芸第三出版部へ統合されている。
+講談社BOXの開始当初の講談社内での位置づけは、「講談社文芸局 海外文芸出版部 講談社BOX編集部」であった。当時、講談社が新設した文芸局海外文芸出版部の中へ入れ子細工のように「講談社BOX」編集部が作られた\[2\]。その後は「文芸局講談社BOX」という扱いを経て、2013年に文芸図書第三出版部へ統合された。
 
-初期の講談社BOXは[オフィス](../Page/オフィス.md "wikilink")が講談社の本館とは別の場所にあるため、「部独自の[カルチャー](https://ja.wikipedia.org/wiki/カルチャー "wikilink")みたいなもの」が次第に出来あがってきていると、初代部長の太田は述べていた。毎日編集部に作家が遊びにくるようなところは、講談社の他の書籍系の編集部にはなく、そのことを太田克史は誇りに思っているという。\[3\]
+太田克史部長時代の講談社BOX編集部は、2007年に建設された講談社第1別館（新）に[オフィス](../Page/オフィス.md "wikilink")があり、本館と隣接しているとはいえ、別の場所にあったことから、「部独自の[カルチャー](https://ja.wikipedia.org/wiki/カルチャー "wikilink")みたいなもの」が次第に生まれつつと太田は述べていた。毎日編集部に作家が遊びにくるようなところは、講談社の他の書籍系の編集部にはなく、そのことを誇りに思っているという。\[3\]
 
-2010年、部長を退任した太田克史が[星海社](https://ja.wikipedia.org/wiki/星海社 "wikilink")を立ち上げ、それに伴い、[西尾維新](../Page/西尾維新.md "wikilink")以外の主力作家が流出\[4\]。上記の特別企画は見直しとなり、『パンドラ』は休刊。刊行点数も減少した。
+2010年、講談社BOXの企画編集から離れていた太田克史が新会社・[星海社](https://ja.wikipedia.org/wiki/星海社 "wikilink")を立ち上げ、副社長に就任する。それに伴い、[西尾維新](../Page/西尾維新.md "wikilink")以外の主力作家が流出\[4\]。上記の特別企画は見直しとなり、『パンドラ』は休刊。刊行点数も減少していく。
 
-2015年、新レーベル・[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊と前後して、作家陣の整理が行われた\[5\]。『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』も2015年7月刊の52号を最後に終刊した\[6\]。以降、西尾維新「[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")」「[忘却探偵シリーズ](https://ja.wikipedia.org/wiki/忘却探偵シリーズ "wikilink")」とノベライズの刊行レーベルとして名前を残しているが、それ以外のシリーズは刊行されていない。\[7\]
+2013年10月、講談社BOXと文芸図書第三出版部は合併。文芸シリーズ出版部となった。
+
+2015年8月、新レーベル・[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊に伴い、作家陣の整理が行われたことが公になる\[5\]。『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』も2015年7月刊の52号を最後に終刊した\[6\]。以降は、西尾維新「[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")」「[忘却探偵シリーズ](https://ja.wikipedia.org/wiki/忘却探偵シリーズ "wikilink")」とノベライズの刊行レーベルとして名前を残しているが、それ以外のシリーズは刊行されていない\[7\]。末期のラインナップを担っていた講談社BOX新人賞出身の若手作家たちは、京都大学推理小説研究会系の[円居挽](https://ja.wikipedia.org/wiki/円居挽 "wikilink")や[森川智喜](https://ja.wikipedia.org/wiki/森川智喜 "wikilink")が講談社タイガや星海社に残ったが、それ以外は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、[早川書房](../Page/早川書房.md "wikilink")、[実業之日本社](../Page/実業之日本社.md "wikilink")、[東京創元社](../Page/東京創元社.md "wikilink")、[小学館](../Page/小学館.md "wikilink")など他社へ流出した。
+
+2020年3月、公式サイトの消滅が確認された。
 
 ### 刊行内容
 
-小説は、当初は講談社の文芸誌『[メフィスト](../Page/メフィスト_\(文芸誌\).md "wikilink")』、『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』、『[群像](../Page/群像.md "wikilink")』に掲載された作品を刊行していたが、創刊から1年半ほどしてから[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")受賞者の作品の刊行を開始し、以来多くの新人作家を輩出している。また、創刊直後の2007年1月から、作家が12か月連続で単行本を刊行する「[大河ノベル](https://ja.wikipedia.org/wiki/#大河ノベル "wikilink")」の企画が実施され、2009年まで3年間続けられた。
+小説作品は、当初は講談社の文芸誌『[メフィスト](../Page/メフィスト_\(文芸誌\).md "wikilink")』『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』『[群像](../Page/群像.md "wikilink")』などに掲載された作品を刊行していたが、創刊から1年半ほどしてから[講談社BOX新人賞](https://ja.wikipedia.org/wiki/講談社BOX新人賞 "wikilink")受賞者の作品の刊行を開始し、以来、多くの新人作家を輩出していた。
+
+また、創刊直後の2007年1月から、作家が12か月連続で単行本を刊行する「[大河ノベル](https://ja.wikipedia.org/wiki/#大河ノベル "wikilink")」の企画が実施され、2009年まで3年間続けられた。
 
   - 講談社BOXからデビューした作家一覧
 
 <!-- end list -->
 
-  - 講談社BOX新人賞 大賞、Powers受賞者
+  - **講談社BOX新人賞 大賞、Powers受賞者**
 
 <!-- end list -->
 
   -
-    [鏡征爾](https://ja.wikipedia.org/wiki/鏡征爾 "wikilink")、[至道流星](https://ja.wikipedia.org/wiki/至道流星 "wikilink")、[杉山幌](https://ja.wikipedia.org/wiki/杉山幌 "wikilink")、[ウノサワスバル](https://ja.wikipedia.org/wiki/ウノサワスバル "wikilink")、[新沢克海](https://ja.wikipedia.org/wiki/新沢克海 "wikilink")、[神世希](https://ja.wikipedia.org/wiki/神世希 "wikilink")、[湊利記](https://ja.wikipedia.org/wiki/湊利記 "wikilink")、[森野樹](https://ja.wikipedia.org/wiki/森野樹 "wikilink")
+    [鏡征爾](https://ja.wikipedia.org/wiki/鏡征爾 "wikilink")、[至道流星](https://ja.wikipedia.org/wiki/至道流星 "wikilink")、[杉山幌](https://ja.wikipedia.org/wiki/杉山幌 "wikilink")、[ウノサワスバル](https://ja.wikipedia.org/wiki/ウノサワスバル "wikilink")、[新沢克海](https://ja.wikipedia.org/wiki/新沢克海 "wikilink")、[神世希](https://ja.wikipedia.org/wiki/神世希 "wikilink")、[湊利記](https://ja.wikipedia.org/wiki/湊利記 "wikilink")、[森野樹](https://ja.wikipedia.org/wiki/森野樹 "wikilink")、[浅倉秋成](https://ja.wikipedia.org/wiki/浅倉秋成 "wikilink")、[円山まどか](https://ja.wikipedia.org/wiki/円山まどか "wikilink")、[織守きょうや](https://ja.wikipedia.org/wiki/織守きょうや "wikilink")
 
 <!-- end list -->
 
-  - 講談社BOX新人賞 優秀賞、Talents受賞者
+  - **講談社BOX新人賞 優秀賞、Talents受賞者**
 
 <!-- end list -->
 
   -
-    [小柳粒男](https://ja.wikipedia.org/wiki/小柳粒男 "wikilink")、[泉和良](https://ja.wikipedia.org/wiki/泉和良 "wikilink")（小説デビュー以前に、ゲームクリエーターとして活躍している）、[黒乃翔](https://ja.wikipedia.org/wiki/黒乃翔 "wikilink")、[天原聖海](https://ja.wikipedia.org/wiki/天原聖海 "wikilink")、[梓](https://ja.wikipedia.org/wiki/梓_\(小説家\) "wikilink")、[岩城裕明](https://ja.wikipedia.org/wiki/岩城裕明 "wikilink")、[架神恭介](https://ja.wikipedia.org/wiki/架神恭介 "wikilink")（受賞以前から小説以外の書籍は刊行していた）
+    [小柳粒男](https://ja.wikipedia.org/wiki/小柳粒男 "wikilink")、[泉和良](https://ja.wikipedia.org/wiki/泉和良 "wikilink")（小説デビュー以前に、ゲームクリエーターとして活躍している）、[黒乃翔](https://ja.wikipedia.org/wiki/黒乃翔 "wikilink")、[天原聖海](https://ja.wikipedia.org/wiki/天原聖海 "wikilink")、[梓](https://ja.wikipedia.org/wiki/梓_\(小説家\) "wikilink")、[岩城裕明](https://ja.wikipedia.org/wiki/岩城裕明 "wikilink")、[架神恭介](https://ja.wikipedia.org/wiki/架神恭介 "wikilink")（受賞以前から小説以外の書籍は刊行していた）、手代木正太郎
 
 <!-- end list -->
 
-  - 講談社BOX新人賞 あしたの賞受賞者
+  - **講談社BOX新人賞 あしたの賞受賞者**
 
 <!-- end list -->
 
@@ -58,28 +68,30 @@
 
 <!-- end list -->
 
-  - その他
+  - **その他**
 
 <!-- end list -->
 
   -
-    [針谷卓史](https://ja.wikipedia.org/wiki/針谷卓史 "wikilink")（[三田文学新人賞](../Page/三田文学新人賞.md "wikilink")受賞後、講談社BOXより単行本デビュー）、[円居挽](https://ja.wikipedia.org/wiki/円居挽 "wikilink")（『パンドラ』の[下剋上ボックスよりデビュー](https://ja.wikipedia.org/wiki/講談社BOX新人賞#下剋上ボックス "wikilink")）
+    [針谷卓史](https://ja.wikipedia.org/wiki/針谷卓史 "wikilink")（[三田文学新人賞](../Page/三田文学新人賞.md "wikilink")受賞後、講談社BOXより単行本デビュー）、[円居挽](https://ja.wikipedia.org/wiki/円居挽 "wikilink")（『パンドラ』の[下剋上ボックスよりデビュー](https://ja.wikipedia.org/wiki/講談社BOX新人賞#下剋上ボックス "wikilink")）、[藍内友紀](https://ja.wikipedia.org/wiki/藍内友紀 "wikilink")（「ササクラ」名義で第5回BOX-AiR新人賞よりデビュー）
 
-漫画作品は既に一度発売された作品の[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")がほとんどだが（復刊の場合、まだ別レーベルで手に入るものを刊行する場合もある）、海外のウェブコミックを単行本化した『[メガトーキョー](../Page/メガトーキョー.md "wikilink")』などもある。『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』や『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』に掲載された新作の漫画は、KCデラックス（[講談社の漫画レーベル](../Page/講談社の漫画レーベル.md "wikilink")）として刊行されている。
+漫画作品は既に一度発売された作品の[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")がほとんどだが（復刊の場合、まだ別レーベルで手に入るものを刊行する場合もある）、海外のウェブコミックを単行本化した『[メガトーキョー](../Page/メガトーキョー.md "wikilink")』などもあった。後年、『[パンドラ](../Page/パンドラ_\(文芸誌\).md "wikilink")』や『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』に掲載された新作漫画は、KCデラックス（[講談社の漫画レーベル](../Page/講談社の漫画レーベル.md "wikilink")）として刊行された。
 
-批評・ノンフィクションでは[東浩紀](../Page/東浩紀.md "wikilink")・[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")の著作が刊行されている。批評・ノンフィクションは、[新書](../Page/新書.md "wikilink")が[サラリーマン](../Page/サラリーマン.md "wikilink")世代の読み物となってしまっている現状では、10代や20代に届くはずの批評も届いていない現状を変えたいという考えで出版されている。初代部長の太田克史は、「『搾取される若者たち―バイク便ライダーは見た\!』（[阿部真大](../Page/阿部真大.md "wikilink")、集英社新書、2006年）は新書で販売されているから若者に届かないだけで、これが講談社BOXだったら届く」と講談社BOXが批評を出版する意味を語っている。
+批評・ノンフィクションでは、[東浩紀](../Page/東浩紀.md "wikilink")や[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")の著作が刊行されていた。批評・ノンフィクションは、[新書](../Page/新書.md "wikilink")が[サラリーマン](../Page/サラリーマン.md "wikilink")世代の読み物となってしまっている現状では、10代や20代に届くはずの批評も届いていない現状を変えたいという考えで出版されている。初代部長の太田克史は「『搾取される若者たち―バイク便ライダーは見た\!』（[阿部真大](../Page/阿部真大.md "wikilink")、集英社新書、2006年）は新書で販売されているから若者に届かないだけで、これが講談社BOXだったら届く」と、講談社BOXが批評を出版する意味を語っていた。
 
-取り扱う作品の作風は、漫画作品も含めて「[思春期](../Page/思春期.md "wikilink")の自意識」をテーマにした作品が多かったが、雑誌『パンドラ』のキャッチコピーであった「思春期の自意識を生きるシンフォニー・マガジン」という言葉は2009年4月発売のVol.3から「文芸と批評とコミックが「交差」（クロスオーバー）する講談社BOXマガジン」に変更されており、『パンドラ』Vol.3の編集後記では、今後の出版傾向の変更が示唆されたが、Vol.4を最後に刊行を休止している。
+取り扱う作品の作風は、漫画作品も含めて「[思春期](../Page/思春期.md "wikilink")の自意識」をテーマにした作品が多かったが、雑誌『パンドラ』のキャッチコピーだった**「思春期の自意識を生きるシンフォニー・マガジン」**という言葉は、2009年4月発売のVol.3から「文芸と批評とコミックが「交差」（クロスオーバー）する講談社BOXマガジン」に変更されており、『パンドラ』Vol.3の編集後記では、今後の出版傾向の変更が示唆されたが、Vol.4を最後に刊行を休止した。
 
 ### 装丁
 
-[銀色](../Page/銀色.md "wikilink")の紙ケースにB6判[ソフトカバー](https://ja.wikipedia.org/wiki/ソフトカバー "wikilink")を収納する、という特徴的な[装丁](https://ja.wikipedia.org/wiki/装丁 "wikilink")を採用している。カバーなどは無く、通常の帯の代わりに箱に丸い[シール](../Page/シール.md "wikilink")（ステッカー）が貼付される。このアイデアは[清涼院流水](../Page/清涼院流水.md "wikilink")によるもの\[8\]。シールは、全て[職人](../Page/職人.md "wikilink")の手作業で貼られており、斜めになっている理由は、太田克史部長が斜に構えているからだという\[9\]。
+[銀色](../Page/銀色.md "wikilink")の紙ケースにB6判[ソフトカバー](https://ja.wikipedia.org/wiki/ソフトカバー "wikilink")を収納する、という特徴的な[装丁](https://ja.wikipedia.org/wiki/装丁 "wikilink")を採用している。カバーなどは無く、通常の帯の代わりに箱に丸い[シール](../Page/シール.md "wikilink")（ステッカー）が貼付される。このアイデアは[清涼院流水](../Page/清涼院流水.md "wikilink")によるもの\[8\]。シールは、全て[職人](../Page/職人.md "wikilink")の手作業で貼られており、斜めになっている理由は、部長の太田克史が斜に構えているからだという\[9\]。
+
+この仕様はコスト高の要因となり、初刷部数が低下した末期は、西尾維新の「[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")」以外、シリーズの続編でもソフトカバーでの刊行となった。
 
 ### 世界最強の出版レーベル
 
-講談社BOX開始時には「世界市場で同時展開する“世界最強の出版レーベル”を目指してスタート」というようにその目的が説明されており、「講談社BOXのラインナップが50点、100点と重なっていったとき、世界の出版社と手を組んで、そのラインナップを世界の“受け手”に同時に届けていきます」\[10\]とされている。
+講談社BOX開始時には「世界市場で同時展開する“世界最強の出版レーベル”を目指してスタート」というようにその目的が説明されており、「講談社BOXのラインナップが50点、100点と重なっていったとき、世界の出版社と手を組んで、そのラインナップを世界の“受け手”に同時に届けていきます」\[10\]とされていた。
 
-創刊の2年後の2008年12月、初代部長の太田克史は「創刊当初からの志でもあった“世界最強の出版レーベルを目指す”世界展開についても、先だってのフランクフルトブックフェアへの参加などの活動が功を奏し、現在、世界各国から順調にオファーが入ってきている」\[11\]と述べている。
+創刊の2年後の2008年12月、初代部長の太田克史は「創刊当初からの志でもあった“世界最強の出版レーベルを目指す”世界展開についても、先だってのフランクフルトブックフェアへの参加などの活動が功を奏し、現在、世界各国から順調にオファーが入ってきている」\[11\]と述べていた。
 
 2008年10月にドイツのフランクフルトで行われた「[フランクフルト・ブックフェア](../Page/フランクフルト・ブックフェア.md "wikilink")」の様子は後日講談社BOX公式サイトで公開される予定だったが、実際には公開されなかった。
 
@@ -91,13 +103,14 @@
 
 **大河ノベル**（たいがノベル）とは、ある作家が一年間、12か月連続でシリーズ作品を刊行する企画である。12か月連続刊行という試みは日本文芸界\[12\]、そして世界出版界でも史上初とされる。12か月連続刊行にあたって「書き溜め」を禁止していた。
 
-2007年の[清涼院流水](../Page/清涼院流水.md "wikilink")・[西尾維新](../Page/西尾維新.md "wikilink")、2008年の[島田荘司](../Page/島田荘司.md "wikilink")、2009年の[定金伸治](../Page/定金伸治.md "wikilink")と、3年間で計4人の作家がこの企画に参加した。ただし、当初の予定通り12か月連続刊行を成功させたのは、2007年の清涼院と西尾のみである。2008年の島田荘司作品は、第1部が2008年1月からの3か月連続刊行、第2部が2008年10月からの4か月連続刊行となり、2010年に第3部・第4部の刊行が予定されている\[13\]。2009年の定金伸治作品は、1月からの4か月連続刊行ののち、作者の体調不良を理由に刊行が中断している。
+2007年の[清涼院流水](../Page/清涼院流水.md "wikilink")・[西尾維新](../Page/西尾維新.md "wikilink")、2008年の[島田荘司](../Page/島田荘司.md "wikilink")、2009年の[定金伸治](../Page/定金伸治.md "wikilink")と、3年間で計4人の作家がこの企画に参加した。ただし、当初の予定通り12か月連続刊行を成功させたのは、2007年の清涼院と西尾のみである。2008年の島田荘司作品は、第1部が2008年1月からの3か月連続刊行、第2部が2008年10月からの4か月連続刊行となり、2010年に第3部・第4部の刊行が予定されていた\[13\]。2009年の定金伸治作品は、1月からの4か月連続刊行ののち、作者の体調不良を理由に刊行が中断した。
 
 **大河ノベル2007**
 
   - [清涼院流水](../Page/清涼院流水.md "wikilink")『[パーフェクト・ワールド What a perfect world\!](https://ja.wikipedia.org/wiki/パーフェクト・ワールド_What_a_perfect_world! "wikilink")』
   - [西尾維新](../Page/西尾維新.md "wikilink")『[刀語](https://ja.wikipedia.org/wiki/刀語 "wikilink")』
       - 清涼院流水は[執筆](https://ja.wikipedia.org/wiki/執筆 "wikilink")ペースがギリギリだったため、最終巻に近づくにつれて「初[校了](https://ja.wikipedia.org/wiki/校了 "wikilink")」（通常2回行うチェックと修正を1回のみで終えること）などの出版の裏技が行われた。
+      - シリーズ完結以降、清涼院流水は2008年の[講談社文庫](../Page/講談社文庫.md "wikilink")版『[彩紋家事件](https://ja.wikipedia.org/wiki/彩紋家事件 "wikilink")III』刊行を最後に講談社での執筆が途絶え、西尾維新も太田克史が講談社BOXから離れた『ファウスト』Vol.8では執筆していない。
 
 **大河ノベル2008**
 
@@ -113,8 +126,9 @@
 **大河ノベル2009**
 
   - [定金伸治](../Page/定金伸治.md "wikilink")『[四方世界の王](https://ja.wikipedia.org/wiki/四方世界の王 "wikilink")』
-      - 当初、2009年1月から12か月連続刊行予定であったが、著者の体調不良を理由に4月発売の4巻以降刊行休止となった。
-      - 2010年6月刊行再開された。大幅なボリュームアップに伴い、刊行ペースは不定期となり、刊行数は全12巻予定から全14巻予定へと変更となった。
+      - 当初、2009年1月から12か月連続刊行予定だったが、著者の体調不良を理由に4月発売の4巻以降は刊行休止となった。
+      - 2010年6月、刊行再開された。大幅なボリュームアップに伴い、刊行ペースは不定期となり、刊行数は全12巻予定から全14巻予定へと変更となった。
+      - 2015年08月24日付の著者ブログでシリーズ打ち切りが発表され、[講談社タイガ](https://ja.wikipedia.org/wiki/講談社タイガ "wikilink")創刊に伴う講談社BOX作家陣の整理が公になった。また、担当引き継ぎも行われなかったことから、特典小冊子を個人配布した。
 
 ### LINK\! project
 
@@ -132,7 +146,7 @@
 ### 電子書籍雑誌『BOX-AiR』
 
   - 講談社BOXと電子雑誌『Air エア』が組んでスタートした企画。2011年2月4日創刊。
-  - 毎号『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』掲載作品を全て[スターチャイルド](../Page/スターチャイルド.md "wikilink")協力の元アニメ化を検討する。
+  - 『[BOX-AiR](https://ja.wikipedia.org/wiki/BOX-AiR "wikilink")』掲載作品はすべて[スターチャイルド](../Page/スターチャイルド.md "wikilink")協力の元、アニメ化を検討するというコンセプトだったが、実際は[キングレコード](../Page/キングレコード.md "wikilink")系の[ガンジス](https://ja.wikipedia.org/wiki/ガンジス "wikilink")が[文化庁](../Page/文化庁.md "wikilink")の[若手アニメーター育成プロジェクト](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")『アニメミライ』に参加するための企画。
 
 ## イベント・企画
 
@@ -142,13 +156,13 @@
   - 期間・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月9日 - 2008年8月24日（不定期開業）
   - 場所・[中野ブロードウェイ](../Page/中野ブロードウェイ.md "wikilink")4階
 
-講談社BOX編集部が運営していた[ブックカフェ](https://ja.wikipedia.org/wiki/ブックカフェ "wikilink")。コンセプトは、[1930年代](../Page/1930年代.md "wikilink")の[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")あたりの[私立探偵](https://ja.wikipedia.org/wiki/私立探偵 "wikilink")[事務所みたいな講談社BOXの持っているイメージの危なっかしい](../Page/探偵事務所.md "wikilink")、危険な匂いのするブックカフェと、気軽に立ち寄れる「[編集者](../Page/編集者.md "wikilink")や[作者](https://ja.wikipedia.org/wiki/作者 "wikilink")」と「[読者](https://ja.wikipedia.org/wiki/読者 "wikilink")」が繋がれる場所をクリエイトする、がコンセプト。
+[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")が中野ブロードウェイに所有していた事務所を改築し、講談社BOX編集部が運営していた[ブックカフェ](https://ja.wikipedia.org/wiki/ブックカフェ "wikilink")。[1930年代](../Page/1930年代.md "wikilink")の[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")あたりの[私立探偵](https://ja.wikipedia.org/wiki/私立探偵 "wikilink")[事務所みたいな講談社BOXの持っているイメージの危なっかしい](../Page/探偵事務所.md "wikilink")、危険な匂いのするブックカフェと、気軽に立ち寄れる「[編集者](../Page/編集者.md "wikilink")や[作者](https://ja.wikipedia.org/wiki/作者 "wikilink")」と「[読者](https://ja.wikipedia.org/wiki/読者 "wikilink")」が繋がれる場所をクリエイトする、がコンセプト。
 
 オリジナルブレンドコーヒーとセットの限定小冊子の販売があり、[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")、[松原真琴](../Page/松原真琴.md "wikilink")、[滝本竜彦](../Page/滝本竜彦.md "wikilink")、[西尾維新](../Page/西尾維新.md "wikilink")、[佐藤友哉](../Page/佐藤友哉.md "wikilink")、[北山猛邦](../Page/北山猛邦.md "wikilink")の作品が販売された。
 
 8月2日には北山猛邦の限定小冊子『KOBO CAFE殺人事件』を基に、紛失した原稿を探すというミステリーイベントが行われ、北山猛邦以外にも佐藤友哉、[乙一](../Page/乙一.md "wikilink")などが参加した。
 
-その後、KOBOCAFEは、[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")の経営する「Kカフェ」として不定期に営業されていた\[15\]。
+その後、KOBOCAFEは、[渡辺浩弐](../Page/渡辺浩弐.md "wikilink")が経営する「Kカフェ」として不定期に営業されていた\[15\]。
 
 ### 東浩紀のゼロアカ道場
 
@@ -225,7 +239,7 @@
 <td><p>日日日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平安残酷物語" title="wikilink">平安残酷物語</a></p></td>
 <td><p>千葉サドル</p></td>
-<td></td>
+<td><p>一迅社よりコミカライズ版発売（全2巻）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/梓_(小説家)" title="wikilink">梓</a></p></td>
@@ -369,13 +383,13 @@
 <td><p><a href="../Page/定金伸治.md" title="wikilink">定金伸治</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/四方世界の王" title="wikilink">四方世界の王</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/記伊孝" title="wikilink">記伊孝</a></p></td>
-<td><p>大河ノベル2009（既刊6巻、全14巻予定）</p></td>
+<td><p>大河ノベル2009（既刊6巻、全14巻予定→打ち切り）、講談社よりコミカライズ発売（全5巻）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島田荘司.md" title="wikilink">島田荘司</a></p></td>
 <td><p>島田荘司 very BEST10</p></td>
 <td></td>
-<td><p>※2冊組</p></td>
+<td><p>2冊組</p></td>
 </tr>
 <tr class="odd">
 <td><p>島田荘司</p></td>
@@ -405,7 +419,7 @@
 <td><p><a href="../Page/清涼院流水.md" title="wikilink">清涼院流水</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/成功学キャラ教授_4000万円トクする話" title="wikilink">成功学キャラ教授 4000万円トクする話</a></p></td>
 <td><p><a href="../Page/西島大介.md" title="wikilink">西島大介</a></p></td>
-<td><p>※実用書風の小説。創刊ラインナップのうちの1冊</p></td>
+<td><p>実用書風の小説。創刊ラインナップのうちの1冊</p></td>
 </tr>
 <tr class="even">
 <td><p>清涼院流水</p></td>
@@ -436,13 +450,13 @@
 <a href="../Page/榎本俊二.md" title="wikilink">榎本俊二</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/漫画BOX_AMASIA#Book2『3/16事件』" title="wikilink">3/16事件</a></p></td>
 <td><p>榎本俊二</p></td>
-<td><p>※漫画も収録</p></td>
+<td><p>漫画も収録</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/西尾維新.md" title="wikilink">西尾維新</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/化物語" title="wikilink">化物語</a></p></td>
 <td><p><a href="../Page/VOFAN.md" title="wikilink">VOFAN</a></p></td>
-<td><p>上下巻。上巻は創刊ラインナップのうちの1冊</p></td>
+<td><p>上下巻。上巻は創刊ラインナップのうちの1冊、TVアニメ化</p></td>
 </tr>
 <tr class="even">
 <td><p>西尾維新</p></td>
@@ -508,7 +522,7 @@
 <td><p>西尾維新</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/刀語" title="wikilink">刀語</a></p></td>
 <td><p><a href="../Page/竹_(イラストレーター).md" title="wikilink">竹</a></p></td>
-<td><p>大河ノベル2007（全12巻）</p></td>
+<td><p>大河ノベル2007（全12巻）、TVアニメ化</p></td>
 </tr>
 <tr class="odd">
 <td><p>西尾維新</p></td>
@@ -520,7 +534,7 @@
 <td><p><a href="../Page/法月綸太郎.md" title="wikilink">法月綸太郎</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ノーカット版_密閉教室" title="wikilink">ノーカット版 密閉教室</a></p></td>
 <td></td>
-<td><p>※ハードカバーで刊行されたものの再刊</p></td>
+<td><p>ハードカバーで刊行されたものの再刊</p></td>
 </tr>
 <tr class="odd">
 <td><p>は・ま行</p></td>
@@ -556,7 +570,7 @@
 <td><p><a href="../Page/福井晴敏.md" title="wikilink">福井晴敏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/∀ガンダム#小説" title="wikilink">∀ガンダム 月に繭 地には果実</a></p></td>
 <td><p><a href="../Page/安田朗.md" title="wikilink">安田朗</a></p></td>
-<td><p>※再刊。原作：<a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>・<a href="../Page/富野由悠季.md" title="wikilink">富野由悠季</a>。上下巻</p></td>
+<td><p>再刊。原作：<a href="../Page/矢立肇.md" title="wikilink">矢立肇</a>・<a href="../Page/富野由悠季.md" title="wikilink">富野由悠季</a>。上下巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/舞城王太郎.md" title="wikilink">舞城王太郎</a></p></td>
@@ -610,7 +624,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆずはらとしゆき" title="wikilink">ゆずはらとしゆき</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/空想東京百景" title="wikilink">空想東京百景</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/toi8" title="wikilink">toi8</a></p></td>
-<td><p>※漫画も収録</p></td>
+<td><p>漫画も収録。一迅社よりスピンオフ漫画版発売</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆずはらとしゆき" title="wikilink">ゆずはらとしゆき</a></p></td>
@@ -664,7 +678,7 @@
 <td><p>渡辺浩弐</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2999年のゲーム・キッズ_完全版DX" title="wikilink">2999年のゲーム・キッズ 完全版DX</a></p></td>
 <td><p><a href="../Page/TAGRO.md" title="wikilink">TAGRO</a></p></td>
-<td><p>※再刊。漫画も収録</p></td>
+<td><p>再刊。漫画も収録</p></td>
 </tr>
 </tbody>
 </table>
@@ -673,35 +687,35 @@
 
 2009年4月の安達哲『幸せのひこうき雲』以降、銀の箱に入った形態では漫画は刊行されていない。2009年12月より、漫画はKCデラックスとして刊行されている。
 
-再刊作品の場合は、初刊行年を示す。
+再刊作品の場合は、初刊行年を示す。出版社を記していないものはすべて、講談社からの再刊。
 
-| 著者                                                                | タイトル                                                                   | 初刊行年        | 備考                                                                                    |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------- |
-| 日本の作品                                                             |                                                                        |             |                                                                                       |
-| [安達哲](../Page/安達哲.md "wikilink")                                  | [さくらの唄](../Page/さくらの唄_\(漫画\).md "wikilink")                            | 1991年       | 上下巻。上巻は創刊ラインナップのうちの1冊                                                                 |
-| 安達哲                                                               | [幸せのひこうき雲](https://ja.wikipedia.org/wiki/幸せのひこうき雲 "wikilink")          | 1998年       |                                                                                       |
-| [ウエダハジメ](../Page/ウエダハジメ.md "wikilink")                            | [フリクリ](https://ja.wikipedia.org/wiki/フリクリ#漫画 "wikilink")               | 2000年、2001年 | 原作：[GAINAX](../Page/ガイナックス.md "wikilink")、上下巻、星海社文庫より文庫版発売                            |
-| [TAGRO](../Page/TAGRO.md "wikilink")                              | [マフィアとルアー](https://ja.wikipedia.org/wiki/マフィアとルアー "wikilink")          | 2002年       | 星海社文庫より文庫版発売 （外部リンク）                                                                  |
-| [箸井地図](../Page/箸井地図.md "wikilink")                                | [名探偵夢水清志郎事件ノート そして五人がいなくなる](../Page/名探偵夢水清志郎事件ノート.md "wikilink")       | 初刊行         | 原作：[はやみねかおる](../Page/はやみねかおる.md "wikilink")                                           |
-| [松本剛](../Page/松本剛_\(漫画家\).md "wikilink")                          | [甘い水](https://ja.wikipedia.org/wiki/甘い水 "wikilink")                    | 2003年       | 原案協力：[板垣久生](https://ja.wikipedia.org/wiki/板垣久生 "wikilink")、上下巻                        |
-| 松本剛                                                               | [すみれの花咲く頃](https://ja.wikipedia.org/wiki/すみれの花咲く頃 "wikilink")          | 1991年       |                                                                                       |
-| 松本剛                                                               | [北京的夏](https://ja.wikipedia.org/wiki/北京的夏 "wikilink")                  | 1993年       | 原作：[ファンキー末吉](../Page/ファンキー末吉.md "wikilink")                                           |
-| [やまさきもへじ](https://ja.wikipedia.org/wiki/やまさきもへじ "wikilink")       | [少年名探偵 虹北恭助の冒険 高校編](https://ja.wikipedia.org/wiki/虹北恭助シリーズ "wikilink") | 2003年       | 原作：はやみねかおる                                                                            |
-| [吉原基貴](https://ja.wikipedia.org/wiki/吉原基貴 "wikilink")             | [U-31 完全版](../Page/U-31.md "wikilink")                                 | 2003年、2004年 | 原作：[綱本将也](../Page/綱本将也.md "wikilink")、上下巻。小説も収録                                       |
-| [ロクニシコージ](https://ja.wikipedia.org/wiki/ロクニシコージ "wikilink")       | [こぐまレンサ 完全版](https://ja.wikipedia.org/wiki/こぐまレンサ "wikilink")          | 2004年       |                                                                                       |
-| 翻訳作品                                                              |                                                                        |             |                                                                                       |
-| [フレッド・ギャラガー](https://ja.wikipedia.org/wiki/フレッド・ギャラガー "wikilink") | [メガトーキョー](../Page/メガトーキョー.md "wikilink")                               | 初刊行         | アメリカでは初刊2003年。翻訳：[椎名ゆかり](https://ja.wikipedia.org/wiki/椎名ゆかり "wikilink")。既刊1巻、複数巻刊行予定 |
+| 著者                                                                | タイトル                                                                   | 初刊行年        | 備考                                                                                       |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------- |
+| 日本の作品                                                             |                                                                        |             |                                                                                          |
+| [安達哲](../Page/安達哲.md "wikilink")                                  | [さくらの唄](../Page/さくらの唄_\(漫画\).md "wikilink")                            | 1991年       | 再刊。上下巻。上巻は創刊ラインナップのうちの1冊                                                                 |
+| 安達哲                                                               | [幸せのひこうき雲](https://ja.wikipedia.org/wiki/幸せのひこうき雲 "wikilink")          | 1998年       | 再刊                                                                                       |
+| [ウエダハジメ](../Page/ウエダハジメ.md "wikilink")                            | [フリクリ](https://ja.wikipedia.org/wiki/フリクリ#漫画 "wikilink")               | 2000年、2001年 | 再刊。原作：[GAINAX](../Page/ガイナックス.md "wikilink")、上下巻、星海社文庫より文庫版発売                            |
+| [TAGRO](../Page/TAGRO.md "wikilink")                              | [マフィアとルアー](https://ja.wikipedia.org/wiki/マフィアとルアー "wikilink")          | 2002年       | スタジオDNA版の再刊。星海社文庫より文庫版発売 （外部リンク）                                                         |
+| [箸井地図](../Page/箸井地図.md "wikilink")                                | [名探偵夢水清志郎事件ノート そして五人がいなくなる](../Page/名探偵夢水清志郎事件ノート.md "wikilink")       | 初刊行         | 原作：[はやみねかおる](../Page/はやみねかおる.md "wikilink")                                              |
+| [松本剛](../Page/松本剛_\(漫画家\).md "wikilink")                          | [甘い水](https://ja.wikipedia.org/wiki/甘い水 "wikilink")                    | 2003年       | 再刊。原案協力：[板垣久生](https://ja.wikipedia.org/wiki/板垣久生 "wikilink")、上下巻                        |
+| 松本剛                                                               | [すみれの花咲く頃](https://ja.wikipedia.org/wiki/すみれの花咲く頃 "wikilink")          | 1991年       | 再刊                                                                                       |
+| 松本剛                                                               | [北京的夏](https://ja.wikipedia.org/wiki/北京的夏 "wikilink")                  | 1993年       | 再刊。原作：[ファンキー末吉](../Page/ファンキー末吉.md "wikilink")                                           |
+| [やまさきもへじ](https://ja.wikipedia.org/wiki/やまさきもへじ "wikilink")       | [少年名探偵 虹北恭助の冒険 高校編](https://ja.wikipedia.org/wiki/虹北恭助シリーズ "wikilink") | 2003年       | 再刊。原作：はやみねかおる                                                                            |
+| [吉原基貴](https://ja.wikipedia.org/wiki/吉原基貴 "wikilink")             | [U-31 完全版](../Page/U-31.md "wikilink")                                 | 2003年、2004年 | 再刊。原作：[綱本将也](../Page/綱本将也.md "wikilink")、上下巻。小説も収録                                       |
+| [ロクニシコージ](https://ja.wikipedia.org/wiki/ロクニシコージ "wikilink")       | [こぐまレンサ 完全版](https://ja.wikipedia.org/wiki/こぐまレンサ "wikilink")          | 2004年       | 再刊                                                                                       |
+| 翻訳作品                                                              |                                                                        |             |                                                                                          |
+| [フレッド・ギャラガー](https://ja.wikipedia.org/wiki/フレッド・ギャラガー "wikilink") | [メガトーキョー](../Page/メガトーキョー.md "wikilink")                               | 初刊行         | アメリカでは初刊2003年。翻訳：[椎名ゆかり](https://ja.wikipedia.org/wiki/椎名ゆかり "wikilink")。既刊1巻、複数巻刊行予定だった |
 
 ### 批評・ノンフィクション
 
 | 著者                                                    | タイトル                                                                           | 備考                                                                                                                                     |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| [東浩紀](../Page/東浩紀.md "wikilink")                      | 文学環境論集 東浩紀コレクションL                                                              | ※2冊組                                                                                                                                   |
+| [東浩紀](../Page/東浩紀.md "wikilink")                      | 文学環境論集 東浩紀コレクションL                                                              | 2冊組                                                                                                                                    |
 | 東浩紀                                                   | 情報環境論集 東浩紀コレクションS                                                              |                                                                                                                                        |
 | 東浩紀                                                   | 批評の精神分析 東浩紀コレクションD                                                             | イラスト：[西島大介](../Page/西島大介.md "wikilink")                                                                                                |
 | 西島大介&さやわか                                             | 西島大介のひらめき☆マンガ学校 マンガを描くのではない。そこにある何かをそっとマンガと呼んであげればいい。                          | [西島大介のひらめき☆マンガ学校](https://ja.wikipedia.org/wiki/西島大介のひらめき☆マンガ学校 "wikilink")の講義録                                                        |
 | [村上裕一](https://ja.wikipedia.org/wiki/村上裕一 "wikilink") | ゴーストの条件 クラウドを巡礼する想像力                                                           | イラスト：[minoa](https://ja.wikipedia.org/wiki/minoa "wikilink") [東浩紀のゼロアカ道場](https://ja.wikipedia.org/wiki/東浩紀のゼロアカ道場 "wikilink") 最終選考通過者 |
-| [渡辺浩弐](../Page/渡辺浩弐.md "wikilink")                    | ひらきこもりのすすめ2. 0                                                                 | ※再刊。イラスト：西島大介                                                                                                                          |
+| [渡辺浩弐](../Page/渡辺浩弐.md "wikilink")                    | ひらきこもりのすすめ2. 0                                                                 | 再刊。イラスト：西島大介                                                                                                                           |
 | 講談社BOX編、道場主：東浩紀                                       | [東浩紀のゼロアカ道場](https://ja.wikipedia.org/wiki/東浩紀のゼロアカ道場 "wikilink") 伝説の「文学フリマ」決戦 | [文学フリマ](https://ja.wikipedia.org/wiki/文学フリマ "wikilink")で販売された同人誌の再録                                                                    |
 
 ### Powers BOX
@@ -713,11 +727,11 @@
 | [天原聖海](https://ja.wikipedia.org/wiki/天原聖海 "wikilink")   | [翼姫 -closed summer closed sky-](https://ja.wikipedia.org/wiki/翼姫_-closed_summer_closed_sky- "wikilink")                               | [em](https://ja.wikipedia.org/wiki/em_\(イラストレーター\) "wikilink")            |                                                                                                 |
 | [新沢克海](https://ja.wikipedia.org/wiki/新沢克海 "wikilink")   | [コロージョンの夏](https://ja.wikipedia.org/wiki/コロージョンの夏 "wikilink")                                                                         | [05](../Page/05.md "wikilink")                                            |                                                                                                 |
 | 新沢克海                                                    | [フェイブルの海](https://ja.wikipedia.org/wiki/フェイブルの海 "wikilink")                                                                           | 05                                                                        |                                                                                                 |
-| [架神恭介](https://ja.wikipedia.org/wiki/架神恭介 "wikilink")   | [戦闘破壊学園ダンゲロス](https://ja.wikipedia.org/wiki/戦闘破壊学園ダンゲロス "wikilink")                                                                   | [左](https://ja.wikipedia.org/wiki/左_\(イラストレーター\) "wikilink")              |                                                                                                 |
-| 架神恭介                                                    | [飛行迷宮学園ダンゲロス -『蠍座の名探偵』-](https://ja.wikipedia.org/wiki/戦闘破壊学園ダンゲロス "wikilink")                                                        | [門脇聡](https://ja.wikipedia.org/wiki/門脇聡 "wikilink")                       |                                                                                                 |
+| [架神恭介](https://ja.wikipedia.org/wiki/架神恭介 "wikilink")   | [戦闘破壊学園ダンゲロス](https://ja.wikipedia.org/wiki/戦闘破壊学園ダンゲロス "wikilink")                                                                   | [左](https://ja.wikipedia.org/wiki/左_\(イラストレーター\) "wikilink")              | 講談社よりコミカライズ版発売（全8巻）                                                                             |
+| 架神恭介                                                    | [飛行迷宮学園ダンゲロス -『蠍座の名探偵』-](https://ja.wikipedia.org/wiki/戦闘破壊学園ダンゲロス "wikilink")                                                        | [門脇聡](https://ja.wikipedia.org/wiki/門脇聡 "wikilink")                       | 講談社よりコミカライズ版発売（全4巻）                                                                             |
 | [樺薫](https://ja.wikipedia.org/wiki/樺薫 "wikilink")       | [異界兵装タシュンケ・ウィトコ](https://ja.wikipedia.org/wiki/異界兵装タシュンケ・ウィトコ "wikilink")                                                             | [筑波マサヒロ](https://ja.wikipedia.org/wiki/筑波マサヒロ "wikilink")                 |                                                                                                 |
 | 講談社BOX（編集）                                              | [Powers selection 新走](https://ja.wikipedia.org/wiki/Powers_selection_新走 "wikilink")                                                   | [こうもり傘](https://ja.wikipedia.org/wiki/こうもり傘_\(イラストレーター\) "wikilink")（表紙絵） | [アンソロジー](../Page/アンソロジー.md "wikilink")。挿絵は作家別に異なる[イラストレーター](../Page/イラストレーター.md "wikilink")が担当。 |
-| [神世希](https://ja.wikipedia.org/wiki/神世希 "wikilink")     | [神戯 - DEBUG PROGRAM - Operation Phantom Proof](https://ja.wikipedia.org/wiki/神戯_-_DEBUG_PROGRAM_-_Operation_Phantom_Proof "wikilink") | [mebae](https://ja.wikipedia.org/wiki/mebae "wikilink")                   | ※2冊組                                                                                            |
+| [神世希](https://ja.wikipedia.org/wiki/神世希 "wikilink")     | [神戯 - DEBUG PROGRAM - Operation Phantom Proof](https://ja.wikipedia.org/wiki/神戯_-_DEBUG_PROGRAM_-_Operation_Phantom_Proof "wikilink") | [mebae](https://ja.wikipedia.org/wiki/mebae "wikilink")                   | 2冊組                                                                                             |
 | 神世希                                                     | [未来方程式 -fate equation-](https://ja.wikipedia.org/wiki/未来方程式_-fate_equation- "wikilink")                                               | mebae                                                                     |                                                                                                 |
 | 神世希                                                     | [DEUSLAYER](https://ja.wikipedia.org/wiki/DEUSLAYER "wikilink")                                                                       | [遠田志帆](https://ja.wikipedia.org/wiki/遠田志帆 "wikilink")                     |                                                                                                 |
 | [杉山幌](https://ja.wikipedia.org/wiki/杉山幌 "wikilink")     | [嘘月](https://ja.wikipedia.org/wiki/嘘月 "wikilink")                                                                                     | [キナコ](https://ja.wikipedia.org/wiki/キナコ "wikilink")                       |                                                                                                 |
@@ -737,7 +751,7 @@
 | [蒼月海晴](https://ja.wikipedia.org/wiki/蒼月海晴 "wikilink")            | [黄昏百鬼異聞録](https://ja.wikipedia.org/wiki/黄昏百鬼異聞録 "wikilink")                                             | [ウタコ](https://ja.wikipedia.org/wiki/ウタコ "wikilink")   |                  |
 | [沖ハサム](https://ja.wikipedia.org/wiki/沖ハサム "wikilink")            | [あやしや/いなき](https://ja.wikipedia.org/wiki/あやしや/いなき "wikilink")                                           | 荒川                                                    |                  |
 | [木立嶺](https://ja.wikipedia.org/wiki/木立嶺 "wikilink")              | [次女っ娘たちの空](https://ja.wikipedia.org/wiki/次女っ娘たちの空 "wikilink")                                           | [しめ子](https://ja.wikipedia.org/wiki/しめ子 "wikilink")   |                  |
-| [ササクラ](https://ja.wikipedia.org/wiki/ササクラ "wikilink")            | [緋色のスプーク](https://ja.wikipedia.org/wiki/緋色のスプーク "wikilink")                                             | [マルイノ](https://ja.wikipedia.org/wiki/マルイノ "wikilink") |                  |
+| [ササクラ](https://ja.wikipedia.org/wiki/藍内友紀 "wikilink")            | [緋色のスプーク](https://ja.wikipedia.org/wiki/緋色のスプーク "wikilink")                                             | [マルイノ](https://ja.wikipedia.org/wiki/マルイノ "wikilink") |                  |
 | [柴田科虎](https://ja.wikipedia.org/wiki/柴田科虎 "wikilink")            | [シアトロ惑星](https://ja.wikipedia.org/wiki/シアトロ惑星 "wikilink")                                               | [ちほ](https://ja.wikipedia.org/wiki/ちほ "wikilink")     |                  |
 | [てり](https://ja.wikipedia.org/wiki/てり "wikilink")                | [サリー＆マグナム OF THE GENUS ASPHALT](https://ja.wikipedia.org/wiki/サリー＆マグナム_OF_THE_GENUS_ASPHALT "wikilink") | [De](https://ja.wikipedia.org/wiki/De "wikilink")     |                  |
 | [ナカオカガク](https://ja.wikipedia.org/wiki/ナカオカガク "wikilink")        | [キリングシュガー](https://ja.wikipedia.org/wiki/キリングシュガー "wikilink")                                           | [烏羽雨](https://ja.wikipedia.org/wiki/烏羽雨 "wikilink")   |                  |
@@ -761,31 +775,31 @@
 
 以下の作品は、Powers BOXの様に各作品独自のデザインの箱に入っているが、Powers BOXと違いイラストが箱の全面に配されている。
 
-| 著者                                                          | タイトル                                                                                                               | イラスト                                                             | 備考 |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | -- |
-| 日日日                                                         | [ビスケット・フランケンシュタイン〈完全版〉](https://ja.wikipedia.org/wiki/ビスケット・フランケンシュタイン〈完全版〉 "wikilink")                            | toi8                                                             |    |
-| 日日日                                                         | [図書館パラセクト](https://ja.wikipedia.org/wiki/図書館パラセクト "wikilink")                                                      | 千葉サドル                                                            |    |
-| 日日日                                                         | [はこぶねエトランゼ](https://ja.wikipedia.org/wiki/はこぶねエトランゼ "wikilink")                                                    | 千葉サドル                                                            |    |
-| [浅倉秋成](https://ja.wikipedia.org/wiki/浅倉秋成 "wikilink")       | [ノワール・レヴナント](https://ja.wikipedia.org/wiki/ノワール・レヴナント "wikilink")                                                  | [N村](https://ja.wikipedia.org/wiki/N村 "wikilink")雄飛              |    |
-| 浅倉秋成                                                        | [フラッガーの方程式](https://ja.wikipedia.org/wiki/フラッガーの方程式 "wikilink")                                                    | [中村ゆうひ](https://ja.wikipedia.org/wiki/N村 "wikilink")             |    |
-| [彩坂美月](https://ja.wikipedia.org/wiki/彩坂美月 "wikilink")       | [文化祭の夢に、おちる](https://ja.wikipedia.org/wiki/文化祭の夢に、おちる "wikilink")                                                  | [庭](https://ja.wikipedia.org/wiki/庭_\(イラストレーター\) "wikilink")     |    |
-| [歩佑作](https://ja.wikipedia.org/wiki/歩佑作 "wikilink")         | [ティーンズライフ](https://ja.wikipedia.org/wiki/ティーンズライフ "wikilink")                                                      | [加藤健介](https://ja.wikipedia.org/wiki/加藤健介 "wikilink")            |    |
-| [織守きょうや](https://ja.wikipedia.org/wiki/織守きょうや "wikilink")   | [霊感探偵](https://ja.wikipedia.org/wiki/霊感探偵 "wikilink")                                                              | [しヴぇ](https://ja.wikipedia.org/wiki/しヴぇ "wikilink")              |    |
-| [梶よう子](https://ja.wikipedia.org/wiki/梶よう子 "wikilink")       | [戦国BASARA](../Page/戦国BASARA.md "wikilink")3 石田三成の章                                                                 | [堤芳貞](https://ja.wikipedia.org/wiki/堤芳貞 "wikilink")              |    |
-| [管野ユウキ](https://ja.wikipedia.org/wiki/管野ユウキ "wikilink")     | 昨日の蒼空、明日の銀翼                                                                                                        | [R/m](https://ja.wikipedia.org/wiki/R/m "wikilink")              |    |
-| [来楽零](https://ja.wikipedia.org/wiki/来楽零 "wikilink")         | K SIDE:RED                                                                                                         | [鈴木信吾](https://ja.wikipedia.org/wiki/鈴木信吾_\(アニメーター\) "wikilink") |    |
-| [柴村仁](../Page/柴村仁.md "wikilink")                            | [夜宵](https://ja.wikipedia.org/wiki/夜宵 "wikilink")                                                                  | [六七質](https://ja.wikipedia.org/wiki/六七質 "wikilink")              |    |
-| [タカハシヨウ](https://ja.wikipedia.org/wiki/タカハシヨウ "wikilink")   | [クワガタにチョップしたらタイムスリップした](https://ja.wikipedia.org/wiki/クワガタにチョップしたらタイムスリップした "wikilink")                            | [竜宮ツカサ](https://ja.wikipedia.org/wiki/竜宮ツカサ "wikilink")          |    |
-| [タタツシンイチ](https://ja.wikipedia.org/wiki/タタツシンイチ "wikilink") | 戦国BASARA3 徳川家康の章                                                                                                   | 堤芳貞                                                              |    |
-| [月島総記](https://ja.wikipedia.org/wiki/月島総記 "wikilink")       | [ルートダブル -Before Crime \* After Days-](https://ja.wikipedia.org/wiki/ルートダブル_-Before_Crime_*_After_Days- "wikilink") | [shri](https://ja.wikipedia.org/wiki/shri "wikilink")            | 3巻 |
-| [手代木正太郎](https://ja.wikipedia.org/wiki/手代木正太郎 "wikilink")   | [柳生浪句剣](https://ja.wikipedia.org/wiki/柳生浪句剣 "wikilink")                                                            | [戸部淑](../Page/戸部淑.md "wikilink")                                 |    |
-| [古橋秀之](../Page/古橋秀之.md "wikilink")                          | K SIDE:BLUE                                                                                                        | 鈴木信吾                                                             |    |
-| 森川智喜                                                        | [スノーホワイト　名探偵三途川理と少女の鏡は千の目を持つ](https://ja.wikipedia.org/wiki/スノーホワイト_名探偵三途川理と少女の鏡は千の目を持つ "wikilink")                | 平沢下戸                                                             |    |
-| 森川智喜                                                        | [踊る人形　名探偵三途川理とゴーレムのEは真実のE](https://ja.wikipedia.org/wiki/踊る人形_名探偵三途川理とゴーレムのEは真実のE "wikilink")                      | 平沢下戸                                                             |    |
-| [矢野隆](https://ja.wikipedia.org/wiki/矢野隆_\(小説家\) "wikilink") | 戦国BASARA3 伊達政宗の章                                                                                                   | 堤芳貞                                                              |    |
-| [靖子靖史](https://ja.wikipedia.org/wiki/靖子靖史 "wikilink")       | [そよかぜキャットナップ](https://ja.wikipedia.org/wiki/そよかぜキャットナップ "wikilink")                                                | [TNSK](https://ja.wikipedia.org/wiki/TNSK "wikilink")            |    |
-| 靖子靖史                                                        | [ハイライトブルーと少女](https://ja.wikipedia.org/wiki/ハイライトブルーと少女 "wikilink")                                                | TNSK                                                             |    |
-| [山口優](https://ja.wikipedia.org/wiki/山口優 "wikilink")         | [アルヴ・レズル -機械仕掛けの妖精たち-](https://ja.wikipedia.org/wiki/アルヴ・レズル_-機械仕掛けの妖精たち- "wikilink")                              | [彩樹](https://ja.wikipedia.org/wiki/彩樹 "wikilink")                |    |
+| 著者                                                          | タイトル                                                                                                               | イラスト                                                             | 備考                  |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------- |
+| 日日日                                                         | [ビスケット・フランケンシュタイン〈完全版〉](https://ja.wikipedia.org/wiki/ビスケット・フランケンシュタイン〈完全版〉 "wikilink")                            | toi8                                                             | 学研メガミ文庫版の再刊         |
+| 日日日                                                         | [図書館パラセクト](https://ja.wikipedia.org/wiki/図書館パラセクト "wikilink")                                                      | 千葉サドル                                                            |                     |
+| 日日日                                                         | [はこぶねエトランゼ](https://ja.wikipedia.org/wiki/はこぶねエトランゼ "wikilink")                                                    | 千葉サドル                                                            |                     |
+| [浅倉秋成](https://ja.wikipedia.org/wiki/浅倉秋成 "wikilink")       | [ノワール・レヴナント](https://ja.wikipedia.org/wiki/ノワール・レヴナント "wikilink")                                                  | [N村](https://ja.wikipedia.org/wiki/N村 "wikilink")雄飛              |                     |
+| 浅倉秋成                                                        | [フラッガーの方程式](https://ja.wikipedia.org/wiki/フラッガーの方程式 "wikilink")                                                    | [中村ゆうひ](https://ja.wikipedia.org/wiki/N村 "wikilink")             | 一迅社よりコミカライズ版発売（全1巻） |
+| [彩坂美月](https://ja.wikipedia.org/wiki/彩坂美月 "wikilink")       | [文化祭の夢に、おちる](https://ja.wikipedia.org/wiki/文化祭の夢に、おちる "wikilink")                                                  | [庭](https://ja.wikipedia.org/wiki/庭_\(イラストレーター\) "wikilink")     |                     |
+| [歩佑作](https://ja.wikipedia.org/wiki/歩佑作 "wikilink")         | [ティーンズライフ](https://ja.wikipedia.org/wiki/ティーンズライフ "wikilink")                                                      | [加藤健介](https://ja.wikipedia.org/wiki/加藤健介 "wikilink")            |                     |
+| [織守きょうや](https://ja.wikipedia.org/wiki/織守きょうや "wikilink")   | [霊感探偵](https://ja.wikipedia.org/wiki/霊感探偵 "wikilink")                                                              | [しヴぇ](https://ja.wikipedia.org/wiki/しヴぇ "wikilink")              |                     |
+| [梶よう子](https://ja.wikipedia.org/wiki/梶よう子 "wikilink")       | [戦国BASARA](../Page/戦国BASARA.md "wikilink")3 石田三成の章                                                                 | [堤芳貞](https://ja.wikipedia.org/wiki/堤芳貞 "wikilink")              | 同名ゲームの小説版           |
+| [管野ユウキ](https://ja.wikipedia.org/wiki/管野ユウキ "wikilink")     | 昨日の蒼空、明日の銀翼                                                                                                        | [R/m](https://ja.wikipedia.org/wiki/R/m "wikilink")              |                     |
+| [来楽零](https://ja.wikipedia.org/wiki/来楽零 "wikilink")         | K SIDE:RED                                                                                                         | [鈴木信吾](https://ja.wikipedia.org/wiki/鈴木信吾_\(アニメーター\) "wikilink") | 同名アニメの小説版           |
+| [柴村仁](../Page/柴村仁.md "wikilink")                            | [夜宵](https://ja.wikipedia.org/wiki/夜宵 "wikilink")                                                                  | [六七質](https://ja.wikipedia.org/wiki/六七質 "wikilink")              |                     |
+| [タカハシヨウ](https://ja.wikipedia.org/wiki/タカハシヨウ "wikilink")   | [クワガタにチョップしたらタイムスリップした](https://ja.wikipedia.org/wiki/クワガタにチョップしたらタイムスリップした "wikilink")                            | [竜宮ツカサ](https://ja.wikipedia.org/wiki/竜宮ツカサ "wikilink")          |                     |
+| [タタツシンイチ](https://ja.wikipedia.org/wiki/タタツシンイチ "wikilink") | 戦国BASARA3 徳川家康の章                                                                                                   | 堤芳貞                                                              | 同名ゲームの小説版           |
+| [月島総記](https://ja.wikipedia.org/wiki/月島総記 "wikilink")       | [ルートダブル -Before Crime \* After Days-](https://ja.wikipedia.org/wiki/ルートダブル_-Before_Crime_*_After_Days- "wikilink") | [shri](https://ja.wikipedia.org/wiki/shri "wikilink")            | 全3巻、同名ゲームの小説版       |
+| [手代木正太郎](https://ja.wikipedia.org/wiki/手代木正太郎 "wikilink")   | [柳生浪句剣](https://ja.wikipedia.org/wiki/柳生浪句剣 "wikilink")                                                            | [戸部淑](../Page/戸部淑.md "wikilink")                                 |                     |
+| [古橋秀之](../Page/古橋秀之.md "wikilink")                          | K SIDE:BLUE                                                                                                        | 鈴木信吾                                                             | 同名アニメの小説版           |
+| 森川智喜                                                        | [スノーホワイト　名探偵三途川理と少女の鏡は千の目を持つ](https://ja.wikipedia.org/wiki/スノーホワイト_名探偵三途川理と少女の鏡は千の目を持つ "wikilink")                | 平沢下戸                                                             |                     |
+| 森川智喜                                                        | [踊る人形　名探偵三途川理とゴーレムのEは真実のE](https://ja.wikipedia.org/wiki/踊る人形_名探偵三途川理とゴーレムのEは真実のE "wikilink")                      | 平沢下戸                                                             |                     |
+| [矢野隆](https://ja.wikipedia.org/wiki/矢野隆_\(小説家\) "wikilink") | 戦国BASARA3 伊達政宗の章                                                                                                   | 堤芳貞                                                              | 同名ゲームの小説版           |
+| [靖子靖史](https://ja.wikipedia.org/wiki/靖子靖史 "wikilink")       | [そよかぜキャットナップ](https://ja.wikipedia.org/wiki/そよかぜキャットナップ "wikilink")                                                | [TNSK](https://ja.wikipedia.org/wiki/TNSK "wikilink")            |                     |
+| 靖子靖史                                                        | [ハイライトブルーと少女](https://ja.wikipedia.org/wiki/ハイライトブルーと少女 "wikilink")                                                | TNSK                                                             |                     |
+| [山口優](https://ja.wikipedia.org/wiki/山口優 "wikilink")         | [アルヴ・レズル -機械仕掛けの妖精たち-](https://ja.wikipedia.org/wiki/アルヴ・レズル_-機械仕掛けの妖精たち- "wikilink")                              | [彩樹](https://ja.wikipedia.org/wiki/彩樹 "wikilink")                | アニメ映画化              |
 
 ## その他の刊行作品
 
@@ -861,7 +875,7 @@
 | 講談社BOX（編集）                                                                                                  | [化物語](https://ja.wikipedia.org/wiki/化物語 "wikilink")アニメコンプリートガイドブック                                                                                                        | ガイドブック                                                                                            |
 | 講談社BOX（編集）                                                                                                  | [大河アニメ刀語オフィシャルガイドブック](https://ja.wikipedia.org/wiki/刀語 "wikilink")                                                                                                        | ガイドブック                                                                                            |
 | 講談社BOX（編集）                                                                                                  | [大河アニメ刀語ビジュアルブック](https://ja.wikipedia.org/wiki/刀語 "wikilink")                                                                                                            | ビジュアルブック                                                                                          |
-| [鶴田謙二](../Page/鶴田謙二.md "wikilink")、[奈須きのこ](../Page/奈須きのこ.md "wikilink")、[榎本俊二](../Page/榎本俊二.md "wikilink")他 | [漫画BOX AMASIA](https://ja.wikipedia.org/wiki/漫画BOX_AMASIA "wikilink")                                                                                                     | 漫画、小説他                                                                                            |
+| [鶴田謙二](../Page/鶴田謙二.md "wikilink")、[奈須きのこ](../Page/奈須きのこ.md "wikilink")、[榎本俊二](../Page/榎本俊二.md "wikilink")他 | [漫画BOX AMASIA](https://ja.wikipedia.org/wiki/漫画BOX_AMASIA "wikilink")                                                                                                     | 漫画、小説アンソロジー                                                                                       |
 | [竹](../Page/竹_\(イラストレーター\).md "wikilink")                                                                   | [竹画集 刀語絵巻](https://ja.wikipedia.org/wiki/刀語 "wikilink")                                                                                                                   | 画集                                                                                                |
 | [本多正一](../Page/本多正一.md "wikilink")（編集）                                                                      | [幻影城の時代 完全版](../Page/幻影城_\(雑誌\).md "wikilink")                                                                                                                            | 小説、評論他                                                                                            |
 
@@ -869,7 +883,7 @@
 
 ## 外部リンク
 
-  - [講談社BOX公式ページ](http://kodansha-box.jp//)
+  - [講談社BOX公式ページ](http://kodansha-box.jp/)
 
   -
   -

@@ -69,68 +69,77 @@
 <td><p><a href="../Page/村越伊知郎.md" title="wikilink">村越伊知郎</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>その他</p></td>
 <td></td>
-<td></td>
-<td><p><a href="../Page/矢田耕司.md" title="wikilink">矢田耕司</a> <a href="../Page/緑川稔.md" title="wikilink">緑川稔</a></p>
-<p><a href="../Page/千葉順二.md" title="wikilink">千葉順二</a></p>
-<p><a href="../Page/井上真樹夫.md" title="wikilink">井上真樹夫</a></p>
-<p><a href="../Page/沢田敏子.md" title="wikilink">沢田敏子</a></p></td>
+<td><p><a href="../Page/矢田耕司.md" title="wikilink">矢田耕司</a><br />
+<a href="../Page/緑川稔.md" title="wikilink">緑川稔</a><br />
+<a href="../Page/千葉順二.md" title="wikilink">千葉順二</a><br />
+<a href="../Page/井上真樹夫.md" title="wikilink">井上真樹夫</a><br />
+<a href="../Page/沢田敏子.md" title="wikilink">沢田敏子</a></p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>演出</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤敏夫_(音響監督)" title="wikilink">佐藤敏夫</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>翻訳</p></td>
 <td></td>
 <td><p>古賀牧彦</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>効果</p></td>
 <td></td>
-<td><p>芦田公雄 高橋鐐雄</p></td>
+<td><p>芦田公雄<br />
+高橋鐐雄</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>調整</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>音声</p></td>
 <td></td>
 <td><p>重秀彦</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>録音</p></td>
 <td></td>
-<td><p>番町スタジオ 樋口鐐三</p></td>
+<td><p>番町スタジオ<br />
+樋口鐐三</p></td>
 </tr>
-<tr class="even">
-<td><p>プロリューサー</p></td>
+<tr class="odd">
+<td><p>プロデューサー</p></td>
 <td></td>
 <td><p>植木明</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>制作</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東北新社" title="wikilink">東北新社</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>解説</p></td>
 <td></td>
 <td><p><a href="../Page/淀川長治.md" title="wikilink">淀川長治</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>初回放送</p></td>
 <td></td>
-<td><p><a href="../Page/1967年.md" title="wikilink">1967年</a><a href="../Page/1月7日.md" title="wikilink">1月7日</a> 『<a href="../Page/日曜洋画劇場.md" title="wikilink">土曜洋画劇場</a>』</p>
-<p>21:00-23:00</p></td>
+<td><p><a href="../Page/1967年.md" title="wikilink">1967年</a><a href="../Page/1月7日.md" title="wikilink">1月7日</a><br />
+『<a href="../Page/日曜洋画劇場.md" title="wikilink">土曜洋画劇場</a>』<br />
+21:00-23:00</p></td>
 </tr>
 </tbody>
 </table>
 
-  - ※[DVD](../Page/DVD.md "wikilink")、[BD](https://ja.wikipedia.org/wiki/BD "wikilink")には90分映画枠放送時の短尺版（正味約70分）の音源を収録\[1\]。
+  - 日本語吹替について、[DVD](../Page/DVD.md "wikilink")・[BD](https://ja.wikipedia.org/wiki/BD "wikilink")にはNETテレビ旧版の90分映画枠放送時の短尺版音源（正味約70分）を収録\[1\]。
 
 ## 主な受賞・ノミネート歴
 

@@ -55,12 +55,11 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオンディスコグラフィ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=199900000775&DSP_SKHKETSEQ=001)
-
+  -
 <!-- end list -->
 
   -
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:コンビニエンスストアのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コンビニエンスストアのコマーシャルソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:花火を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花火を題材とした楽曲 "wikilink") [Category:JR西日本の発車メロディ](https://ja.wikipedia.org/wiki/Category:JR西日本の発車メロディ "wikilink") [Category:大阪市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大阪市を舞台とした作品 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:コンビニエンスストアのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コンビニエンスストアのコマーシャルソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:花火を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花火を題材とした楽曲 "wikilink") [Category:JR西日本の発車メロディ](https://ja.wikipedia.org/wiki/Category:JR西日本の発車メロディ "wikilink") [Category:大阪市を舞台とした楽曲](https://ja.wikipedia.org/wiki/Category:大阪市を舞台とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.
 2.

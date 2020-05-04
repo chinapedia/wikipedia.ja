@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 「GLAY BEST VIDEO CLIPS 1994-1998」には、[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")在籍時に発売したシングル「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」から「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」の[PVを中心に収録](../Page/ミュージック・ビデオ.md "wikilink")。特典として、CF SELECTIONを収録。
+  - 「GLAY BEST VIDEO CLIPS 1994-1998」には、[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")在籍時に発売したシングル「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」から「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」の[PVを中心に収録](../Page/ミュージック・ビデオ.md "wikilink")。特典として、CF SELECTIONを収録。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売され予約だけで完売した3万枚限定ビデオ『[無限のdéjà vu DOCUMENT of “BEAT out\!” TOURS 海賊版](https://ja.wikipedia.org/wiki/無限のdéjà_vu_DOCUMENT_of“BEAT_out!”TOURS_海賊版 "wikilink")』も復刻して収録された。
   - 本作はGLAYのオフィシャルホームページのディスコグラフィーには掲載されていない。
 

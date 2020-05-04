@@ -15,7 +15,7 @@
       - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
-        [イントロと](../Page/導入部.md "wikilink")[アウトロ](../Page/アウトロ.md "wikilink")には[島村仁](https://ja.wikipedia.org/wiki/島村仁 "wikilink")による[DJが収録されており](../Page/ディスクジョッキー.md "wikilink")、最後にはこの曲の仮タイトルが「夏男[ヒサシ](../Page/HISASHI.md "wikilink")」だったことが言われている。なおPVでは「[GLAY EXPO 2001 "GLOBAL COMMUNICATION"](https://ja.wikipedia.org/wiki/GLAY_EXPO#GLAY_EXPO_2001_“GLOBAL_COMMUNICATION” "wikilink")」の記者会見後に、2001年4月25日に開催されたフリーライブ\[1\]の模様が収録されている。
+        [イントロと](../Page/導入部.md "wikilink")[アウトロ](../Page/アウトロ.md "wikilink")には[島村仁](../Page/島村仁.md "wikilink")による[DJが収録されており](../Page/ディスクジョッキー.md "wikilink")、最後にはこの曲の仮タイトルが「夏男[ヒサシ](../Page/HISASHI.md "wikilink")」だったことが言われている。なおPVでは「[GLAY EXPO 2001 "GLOBAL COMMUNICATION"](https://ja.wikipedia.org/wiki/GLAY_EXPO#GLAY_EXPO_2001_“GLOBAL_COMMUNICATION” "wikilink")」の記者会見後に、2001年4月25日に開催されたフリーライブ\[1\]の模様が収録されている。
 2.  **BACK-UP**
       - 作詞・作曲：[TERU](../Page/TERU.md "wikilink")　編曲：GLAY、佐久間正英
 3.  **Super Ball 425**

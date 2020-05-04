@@ -90,7 +90,7 @@
 
 1.  **e.p.**（1994年11月26日）
 2.  **Quiet Neighbor**（1995年8月25日）
-3.  **NEVER NEVER LAND**（1996年11月25日）
+3.  **[NEVER NEVER LAND](https://ja.wikipedia.org/wiki/NEVER_NEVER_LAND "wikilink")**（1996年11月25日）
 4.  **CLOUDED MAN**（1998年1月） - SKYLARKINレーベルより発売
 5.  **Loop Song**（1998年8月1日）
 6.  **Boy's Wonder**（1998年10月14日）

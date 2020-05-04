@@ -24,7 +24,7 @@ L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフ
 所要時間の記述は公式サイトに準拠した\[1\]。
 
   - [阪神本線](../Page/阪神本線.md "wikilink") [梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink")（西改札）下車すぐ。
-  - [地下鉄四つ橋線](https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線 "wikilink") [西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")（北改札）下車すぐ。
+  - [地下鉄四つ橋線](../Page/Osaka_Metro四つ橋線.md "wikilink") [西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")（北改札）下車すぐ。
   - JR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")（桜橋口）下車、徒歩2分。
   - [JR東西線](../Page/JR東西線.md "wikilink") [北新地駅](https://ja.wikipedia.org/wiki/北新地駅 "wikilink")（西改札）下車、徒歩4分。
 

@@ -170,7 +170,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="../Page/ドネペジル.md" title="wikilink">ドネペジル</a>[80] (<a href="https://ja.wikipedia.org/wiki/コリンエステラーゼ阻害剤" title="wikilink">コリンエステラーゼ阻害剤</a>)</li>
 <li><a href="../Page/スタチン.md" title="wikilink">スタチン</a>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/アトルバスタチン" title="wikilink">アトルバスタチン</a>[81][82]</li>
+<li><a href="../Page/アトルバスタチン.md" title="wikilink">アトルバスタチン</a>[81][82]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ロバスタチン" title="wikilink">ロバスタチン</a>[83][84]</li>
 <li><a href="../Page/シンバスタチン.md" title="wikilink">シンバスタチン</a>[85]</li>
 <li><a href="https://ja.wikipedia.org/wiki/セリバスタチン" title="wikilink">セリバスタチン</a>[86]</li>

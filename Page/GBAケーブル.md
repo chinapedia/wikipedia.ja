@@ -12,7 +12,7 @@
 ### 次世代ゲーム機での対応
 
   - ゲームキューブ側 - GCと上位互換性がある[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")でも使用可能。ただし[Wii UではGCの上位互換性を取り除いたため使用できない](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。
-  - ゲームボーイアドバンス側 - コネクタの形状から、ゲームボーイアドバンスと[ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")のみ対応。[ゲームボーイミクロ](../Page/ゲームボーイミクロ.md "wikilink")には対応していない（ハード改造で使用できるようにした猛者もいる\[1\]が、正規の使用法ではない）。[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ではそもそも通信ケーブル接続コネクタが無いため物理的に使用できない。
+  - ゲームボーイアドバンス側 - コネクタの形状から、ゲームボーイアドバンスと[ゲームボーイアドバンスSP](../Page/ゲームボーイアドバンスSP.md "wikilink")のみ対応。[ゲームボーイミクロ](../Page/ゲームボーイミクロ.md "wikilink")には対応していない。[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")ではそもそも通信ケーブル接続コネクタが無いため物理的に使用できない。
 
 ## 使用方法
 
@@ -69,5 +69,3 @@ GCソフトからGBA本体の[メモリに](../Page/主記憶装置.md "wikilink
 <references />
 
 [Category:ニンテンドーゲームキューブ](https://ja.wikipedia.org/wiki/Category:ニンテンドーゲームキューブ "wikilink") [Category:コンピュータゲームの周辺機器](https://ja.wikipedia.org/wiki/Category:コンピュータゲームの周辺機器 "wikilink")
-
-1.  [Cheap Ass Gamer: Gamecube to Game Boy Micro Cable - Instructions in here. Service Available.](http://www.cheapassgamer.com/forums/showthread.php?t=79849)

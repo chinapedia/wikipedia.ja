@@ -350,4 +350,4 @@
 
   - [ナンバデッドエンド](https://ja.wikipedia.org/wiki/ナンバデッドエンド "wikilink") - 直接の続編となる作品。
 
-[Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:学園漫画](https://ja.wikipedia.org/wiki/Category:学園漫画 "wikilink") [Category:千葉県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした作品 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink")
+[Category:漫画作品_な](https://ja.wikipedia.org/wiki/Category:漫画作品_な "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:千葉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした漫画作品 "wikilink")

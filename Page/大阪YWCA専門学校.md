@@ -19,7 +19,7 @@
 ## 所在地等
 
   - 所在地：〒530-0026 大阪府大阪市北区神山町11-12
-  - 最寄駅：[地下鉄堺筋線](https://ja.wikipedia.org/wiki/Osaka_Metro堺筋線 "wikilink") [扇町駅](https://ja.wikipedia.org/wiki/扇町駅_\(大阪府\) "wikilink")
+  - 最寄駅：[地下鉄堺筋線](../Page/Osaka_Metro堺筋線.md "wikilink") [扇町駅](https://ja.wikipedia.org/wiki/扇町駅_\(大阪府\) "wikilink")
 
 ## 外部リンク
 

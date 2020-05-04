@@ -1,7 +1,7 @@
 > この記事は[BAD FEELING](https://ja.wikipedia.org/wiki/BAD_FEELING)から翻訳されています。
 
 
-『**BAD FEELING**』（バッド・フィーリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")2枚目のシングル。
+『**BAD FEELING**』（バッド・フィーリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](../Page/BOOWY.md "wikilink")2枚目のシングル。
 
 ## 背景
 

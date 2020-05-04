@@ -48,7 +48,7 @@
 
 ## 交通
 
-  - [Osaka Metro四つ橋線](https://ja.wikipedia.org/wiki/Osaka_Metro四つ橋線 "wikilink")[肥後橋駅](https://ja.wikipedia.org/wiki/肥後橋駅 "wikilink")下車徒歩約5分
+  - [Osaka Metro四つ橋線](../Page/Osaka_Metro四つ橋線.md "wikilink")[肥後橋駅](https://ja.wikipedia.org/wiki/肥後橋駅 "wikilink")下車徒歩約5分
   - [京阪中之島線](../Page/京阪中之島線.md "wikilink")[渡辺橋駅](https://ja.wikipedia.org/wiki/渡辺橋駅 "wikilink")下車徒歩約8分
   - [大阪シティバス](../Page/大阪シティバス.md "wikilink")土佐堀1丁目停留所下車すぐ
 

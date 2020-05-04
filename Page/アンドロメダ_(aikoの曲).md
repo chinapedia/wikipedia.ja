@@ -22,6 +22,5 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオンディスコグラフィ](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200300001392&DSP_SKHKETSEQ=001)
-
+  -
 [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:コーヒーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーヒーのコマーシャルソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:星座を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星座を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

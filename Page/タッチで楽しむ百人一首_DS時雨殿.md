@@ -102,8 +102,7 @@
 
 ## 外部リンク
 
-  - [タッチで楽しむ百人一首 DS時雨殿](http://www.nintendo.co.jp/ds/aixj/)
-  - [紹介記事](http://www.famitsu.com/game/news/2006/01/27/103,1138354017,48013,0,0.html)（[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")）
-  - [タッチで覚える百人一首 ちょっとDSi時雨殿](http://www.nintendo.co.jp/ds/dsiware/kutj/)
+  - [タッチで楽しむ百人一首 DS時雨殿](https://www.nintendo.co.jp/ds/aixj/)
+  - [タッチで覚える百人一首 ちょっとDSi時雨殿](https://www.nintendo.co.jp/ds/dsiware/kutj/)
 
 [Category:百人一首を題材とした作品](https://ja.wikipedia.org/wiki/Category:百人一首を題材とした作品 "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink")

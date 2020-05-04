@@ -30,9 +30,7 @@
   - 池田虎雅
   - 石垣大祐
   - 石渡大和
-
-岩本れお
-
+  - 岩本れお
   - 稲葉光
   - 稲葉通陽
   - [井上瑞稀](https://ja.wikipedia.org/wiki/井上瑞稀 "wikilink")
@@ -56,6 +54,8 @@
 ### お
 
   - 大関荷風
+  - 大西流星
+  - 大橋和也
   - 大東立樹
   - 小川優
   - 荻野未友治
@@ -134,6 +134,7 @@
   - 髙橋汐音
   - 高橋翔吾
   - 髙橋曽良
+  - 高橋恭平
   - 髙橋真斗
   - [髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")
   - 瀧陽次朗
@@ -166,6 +167,7 @@
 
 ### な
 
+  - 長尾謙杜
   - 長瀬結星
   - [中村海人](https://ja.wikipedia.org/wiki/中村海人 "wikilink")
   - 仲村陸
@@ -177,7 +179,7 @@
 
 ### に
 
-  - 西村航
+西畑大吾・ 西村航
 
 ### ね
 
@@ -210,6 +212,7 @@
   - 福島颯人
   - 福島北斗
   - 藤井直樹
+  - 藤原丈一郎
   - ブランデン
 
 ### へ
@@ -232,6 +235,7 @@
 ### み
 
   - 三島太一
+  - 道枝俊祐
   - 三村航輝
   - [宮近海斗](https://ja.wikipedia.org/wiki/宮近海斗 "wikilink")
 
@@ -299,14 +303,14 @@
 
 ### か行
 
-  - 金子卓也
   - 亀井海聖
   - 河下楽
-  - 河本晴輝
   - 北村仁太郎
   - 草間リチャード敬太
   - 古謝那伊留
-  - 小久保澪
+
+<!-- end list -->
+
   - 小柴陸
   - 小島健
 
@@ -324,44 +328,34 @@
 ### た行
 
   - [高橋恭平](https://ja.wikipedia.org/wiki/高橋恭平_\(ジャニーズ\) "wikilink")
-  - 武田優斗
   - 竹村翔
   - 當間琉巧
 
 ### な行
 
   - [長尾謙杜](https://ja.wikipedia.org/wiki/長尾謙杜 "wikilink")
-  - 中川惺太
   - [西畑大吾](https://ja.wikipedia.org/wiki/西畑大吾 "wikilink")
   - 西村拓哉
-  - 野原陽稀
 
 ### は行
 
-  - 姫野颯良
   - 福井宏志朗
   - [福本大晴](https://ja.wikipedia.org/wiki/福本大晴 "wikilink")
   - 藤森凌駕
   - [藤原丈一郎](https://ja.wikipedia.org/wiki/藤原丈一郎 "wikilink")
-  - 堀躍人
 
 ### ま行
 
   - [正門良規](https://ja.wikipedia.org/wiki/正門良規 "wikilink")
   - 真弓孟之
   - 丸岡晃聖
-
-<!-- end list -->
-
   - [道枝駿佑](https://ja.wikipedia.org/wiki/道枝駿佑 "wikilink")
   -
-  - 森本悠阿
-
+  -
 ### や行
 
   - 山口凛
   - 山中一輝
-  - 山本琉輝
   - 吉川太郎
 
 ### ら行

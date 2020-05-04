@@ -11,7 +11,7 @@
 
 [サウンドトラック](../Page/サウンドトラック.md "wikilink")は、TH eROCKERSのライブ音源を使用したエンディングの「涙のモーターウェイ」を除いてほとんどの曲をTH eROCKERSと同時代に活動した[ルースターズ](../Page/ルースターズ.md "wikilink")のメンバーからなる[ロックンロール・ジプシーズ](https://ja.wikipedia.org/wiki/ロックンロール・ジプシーズ "wikilink")が新たにレコーディングをした\[11\]。
 
-ロッカーズの5人は劇中の[バンド](../Page/バンド_\(音楽\).md "wikilink")「ROCKERS」として、『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』\[12\]や『[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』\[13\]などの[音楽番組](../Page/音楽番組.md "wikilink")にも出演し\[14\]\[15\]、陣内も応援に駆けつけた\[16\]。
+ロッカーズの5人は劇中の[バンド](../Page/バンド_\(音楽\).md "wikilink")「ROCKERS」として、『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』\[12\]や『[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』\[13\]などの[音楽番組](../Page/音楽番組.md "wikilink")にも出演し\[14\]\[15\]、陣内も応援に駆けつけた\[16\]。
 
 [佐藤浩市](../Page/佐藤浩市.md "wikilink")や[中井貴一](../Page/中井貴一.md "wikilink")、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")、[鈴木京香](https://ja.wikipedia.org/wiki/鈴木京香 "wikilink")といった俳優のゲスト出演の他に、谷信雄と親交のあった[深町健二郎](../Page/深町健二郎.md "wikilink")や、[浦田賢一](https://ja.wikipedia.org/wiki/サンハウス#旧メンバー "wikilink")、[伊佐山ひろ子](../Page/伊佐山ひろ子.md "wikilink")、[松重豊](../Page/松重豊.md "wikilink")といった地元[福岡](../Page/福岡.md "wikilink")出身の俳優やタレントが多数出演している。また、[大杉漣](../Page/大杉漣.md "wikilink")は「恋の確定申告」という劇中歌を披露している。
 

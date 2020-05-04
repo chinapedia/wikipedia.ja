@@ -1,7 +1,7 @@
 > この記事は[RSKニュース](https://ja.wikipedia.org/wiki/RSKニュース)から翻訳されています。
 
 
-『**RSKニュース**』は、[RSKテレビ](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")で放送されている[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")向け[ローカルニュースの番組名](../Page/ニュース.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[9月](../Page/9月.md "wikilink")まで『**山陽TVニュース**』（さんようテレビニュース）の番組名で放送され、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より『**RSKニュース**』に改題されている\[1\]。
+『**RSKニュース**』（アールエスケーニュース）は、[RSK山陽放送](../Page/RSK山陽放送.md "wikilink")（[RSKテレビ](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")）で放送されている[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")向け[ローカルニュースの番組名](../Page/ニュース.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[9月](../Page/9月.md "wikilink")まで『**山陽TVニュース**』（さんようテレビニュース）の番組名で放送され、同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より『**RSKニュース**』に改題されている\[1\]。
 
 ## 概要
 
@@ -37,7 +37,7 @@
 
 ## 外部リンク
 
-  - [RSKニュース](http://www.rsk.co.jp/news/) - RSK山陽放送
+  - [RSK山陽放送ニュース](https://www.rsk.co.jp/news/) - RSK山陽放送
 
 [Category:1958年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1958年のテレビ番組_\(日本\) "wikilink") [Category:RSK山陽放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:RSK山陽放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink") [Category:山陽新聞社](https://ja.wikipedia.org/wiki/Category:山陽新聞社 "wikilink")
 

@@ -137,7 +137,7 @@
 
   - [original flava web site](http://sound.jp/originalflava/) 公式サイト
   - [株式会社ノースベース](http://north-base.com/) 佐田慎介 所属事務所
-  - [風間ヤスヒロ プライベートサイト](http://www.webros.co.jp/yk/) アルバム『ベクトル』プロデューサー
+  - [風間ヤスヒロ オフィシャルウェブサイト](https://kazama-yasuhiro.com/) アルバム『ベクトル』プロデューサー
   - [Jebski MySpace公式サイト](http://www.myspace.com/padjebski) アルバム『peoproots』プロデューサー
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")

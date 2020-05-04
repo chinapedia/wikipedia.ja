@@ -7,7 +7,7 @@
 
 [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のサン・ルイス・オビスポに拠点を置き、[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")および[出版](../Page/出版.md "wikilink")物の[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")と[販売](../Page/販売.md "wikilink")を行い、通信販売の窓口としてはRussianBare.comをブランド名として使用している。
 
-主として取り扱うものは[ナチュリスト](../Page/ヌーディズム.md "wikilink")[ビデオ](../Page/ビデオ.md "wikilink")[作品](../Page/作品.md "wikilink")であり、この分野における代表的なメーカー、ブランドとなっている。従って、通常の読みとしては「ロシアン[バレー](https://ja.wikipedia.org/wiki/バレー "wikilink")」であるが、字義的には「ロシアン[ベア](../Page/ベア.md "wikilink")（＝[裸](../Page/裸.md "wikilink")）」と読むのが正しいと言える。
+主として取り扱うものは[ナチュリスト](../Page/ヌーディズム.md "wikilink")[ビデオ](../Page/ビデオ.md "wikilink")作品であり、この分野における代表的なメーカー、ブランドとなっている。従って、通常の読みとしては「ロシアン[バレー](https://ja.wikipedia.org/wiki/バレー "wikilink")」であるが、字義的には「ロシアン[ベア](../Page/ベア.md "wikilink")（＝[裸](../Page/裸.md "wikilink")）」と読むのが正しいと言える。
 
 傘下に多くの関連会社または関連グループのブランドを抱えており、Russianの名を冠してはいるが、[ロシア](../Page/ロシア.md "wikilink")の作品に限らず、[ウクライナ](../Page/ウクライナ.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[チェコ](../Page/チェコ.md "wikilink")などの物も取り扱っている。
 

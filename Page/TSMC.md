@@ -47,7 +47,7 @@
 
 朝元照雄『台湾の企業戦略』（勁草書房、2014年）の第1章「台湾積体電路製造（TSMC）の企業戦略」に詳しい。
 
-[Category:半導体企業](https://ja.wikipedia.org/wiki/Category:半導体企業 "wikilink") [Category:台湾の企業](https://ja.wikipedia.org/wiki/Category:台湾の企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:東区_(新竹市)](https://ja.wikipedia.org/wiki/Category:東区_\(新竹市\) "wikilink") [Category:台湾のブランド](https://ja.wikipedia.org/wiki/Category:台湾のブランド "wikilink")
+[Category:半導体企業](https://ja.wikipedia.org/wiki/Category:半導体企業 "wikilink") [Category:台湾の企業](https://ja.wikipedia.org/wiki/Category:台湾の企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:台湾証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:台湾証券取引所上場企業 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:新竹市の企業](https://ja.wikipedia.org/wiki/Category:新竹市の企業 "wikilink") [Category:東区_(新竹市)](https://ja.wikipedia.org/wiki/Category:東区_\(新竹市\) "wikilink") [Category:台湾のブランド](https://ja.wikipedia.org/wiki/Category:台湾のブランド "wikilink")
 
 1.
 2.

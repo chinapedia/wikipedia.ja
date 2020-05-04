@@ -13,7 +13,7 @@
 
   - [真実の料理人](https://ja.wikipedia.org/wiki/真実の料理人 "wikilink")（特別番組を放送）
   - [ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")（京都からの生放送）
-  - [水野真紀の魔法のレストラン](https://ja.wikipedia.org/wiki/水野真紀の魔法のレストラン "wikilink")（京都特集）
+  - [水野真紀の魔法のレストラン](../Page/水野真紀の魔法のレストラン.md "wikilink")（京都特集）
 
 <!-- end list -->
 

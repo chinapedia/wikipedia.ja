@@ -1,46 +1,75 @@
 > この記事は[SYNCHRONIZED ROCKERS](https://ja.wikipedia.org/wiki/SYNCHRONIZED_ROCKERS)から翻訳されています。
 
 
-『**シンクロナイズド・ロッカーズ**』（**SYNCHRONIZED ROCKERS**）は[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。
+『**SYNCHRONIZED ROCKERS**』（シンクロナイズド・ロッカーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")1枚目の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")より発売された。
 
-the pillowsの結成15周年記念として、the pillowsの結成日である9月16日に発表された。the pillows側が各アーティストにオファーを出したことにより実現されたトリビュート・アルバムである。
+## 概要
+
+[the pillowsの結成](https://ja.wikipedia.org/wiki/the_pillows "wikilink")15周年記念として、the pillowsの結成日である[9月16日](../Page/9月16日.md "wikilink")に発売された。the pillows側が各アーティストにオファーを出したことにより実現された[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。
+
+[アートディレクター](../Page/アートディレクター.md "wikilink")は篠田直樹。
 
 ## 収録曲
 
-1.  **RUNNERS HIGH** / [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")
+  - 全作詞・作曲：[山中さわお](../Page/山中さわお.md "wikilink")
+
+<!-- end list -->
+
+1.  **RUNNERS HIGH** / [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") \[2:06\]
+      - 編曲：ストレイテナー
+    <!-- end list -->
       -
-        アルバム『[RUNNERS HIGH](../Page/RUNNERS_HIGH.md "wikilink")』収録
-2.  **Funny Bunny** / [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")
+        7thアルバム『[RUNNERS HIGH](../Page/RUNNERS_HIGH.md "wikilink")』収録曲。
+2.  **Funny Bunny** / [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") \[3:15\]
+      - 編曲：ELLEGARDEN
+    <!-- end list -->
       -
-        アルバム『[HAPPY BIVOUAC](../Page/HAPPY_BIVOUAC.md "wikilink")』収録
-3.  **巴里の女性マリー** / [The ピーズ](../Page/The_ピーズ.md "wikilink") with [クハラカズユキ](../Page/クハラカズユキ.md "wikilink")
+        8thアルバム『[HAPPY BIVOUAC](../Page/HAPPY_BIVOUAC.md "wikilink")』収録曲。
+3.  **巴里の女性マリー** / [The ピーズ](../Page/The_ピーズ.md "wikilink") with [クハラカズユキ](../Page/クハラカズユキ.md "wikilink") \[4:35\]
+      - 編曲：The ピーズ with クハラカズユキ
+    <!-- end list -->
       -
-        ミニアルバム『90's My LIFE』収録
-4.  **Vain dog (in rain drop)** / [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink")
+        2ndミニアルバム『[90'S MY LIFE](https://ja.wikipedia.org/wiki/90'S_MY_LIFE "wikilink")』収録曲。
+4.  **Vain dog (in rain drop)** / [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink") \[3:40\]
+      - 編曲：noodles
+    <!-- end list -->
       -
-        アルバム『[Smile](../Page/Smile_\(the_pillowsのアルバム\).md "wikilink")』収録
-5.  **この世の果てまで** / [YO-KING](../Page/YO-KING.md "wikilink")
+        9thアルバム『[Smile](../Page/Smile_\(the_pillowsのアルバム\).md "wikilink")』収録曲。
+5.  **この世の果てまで** / [YO-KING](../Page/YO-KING.md "wikilink") \[4:23\]
+      - 編曲：YO-KING
+    <!-- end list -->
       -
-        アルバム『Smile』収録
-6.  **カーニバル** / [佐藤竹善](../Page/佐藤竹善.md "wikilink")
+        9thアルバム『Smile』収録曲。
+6.  **カーニバル** / [佐藤竹善](../Page/佐藤竹善.md "wikilink") \[3:54\]
+      - 編曲：佐藤竹善
+    <!-- end list -->
       -
-        15thシングル・アルバム『HAPPY BIVOUAC』収録
-7.  **LITTLE BUSTERS** / [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")
+        15thシングル。
+7.  **LITTLE BUSTERS** / [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") \[5:21\]
+      - 編曲：GOING UNDER GROUND・[上田ケンジ](../Page/上田ケンジ.md "wikilink")
+    <!-- end list -->
       -
-        アルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』収録
-8.  **Our love and peace** / [SALON MUSIC](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")
+        6thアルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』収録曲。
+8.  **Our love and peace** / [SALON MUSIC](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink") \[4:15\]
+      - 編曲：SALON MUSIC
+    <!-- end list -->
       -
-        アルバム『HAPPY BIVOUAC』収録
-9.  **[ハイブリッド レインボウ](https://ja.wikipedia.org/wiki/ハイブリッド_レインボウ "wikilink")** / [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")
+        8thアルバム『HAPPY BIVOUAC』収録曲。
+9.  **[ハイブリッド レインボウ](https://ja.wikipedia.org/wiki/ハイブリッド_レインボウ "wikilink")** / [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") \[4:10\]
+      - 編曲：BUMP OF CHICKEN
+    <!-- end list -->
       -
-        11thシングル・アルバム『LITTLE BUSTERS』収録
-10. **[ストレンジ カメレオン](../Page/ストレンジ_カメレオン.md "wikilink")** / [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
+        11thシングル。
+10. **[ストレンジ カメレオン](../Page/ストレンジ_カメレオン.md "wikilink")** / [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") \[6:36\]
+      - 編曲：[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
+    <!-- end list -->
       -
-        6thシングル・アルバム『[Please Mr.Lostman](https://ja.wikipedia.org/wiki/Please_Mr.Lostman "wikilink")』収録
-11. **Sad Sad Kiddie** / YUTA.TOSHI.CHIHO and [JIRO](../Page/JIRO.md "wikilink")'S SESSION
+        6thシングル。
+11. **Sad Sad Kiddie** / [YUTA](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink").[TOSHI](../Page/永井利光.md "wikilink").[CHIHO](../Page/MOTOCOMPO.md "wikilink") and [JIRO](../Page/JIRO.md "wikilink")'S SESSION (from [GLAY](../Page/GLAY.md "wikilink") JIRO) \[3:40\]
+      - 編曲：[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")
+    <!-- end list -->
       -
-        アルバム『RUNNERS HIGH』収録
-        [GLAY](../Page/GLAY.md "wikilink")の[JIRO](../Page/JIRO.md "wikilink")(Bass)を中心に、[CHIHO](../Page/MOTOCOMPO.md "wikilink")(vocal)、[YUTA](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")(key)、[TOSHI](../Page/永井利光.md "wikilink")(Drums)で結成
+        7thアルバム『RUNNERS HIGH』収録曲。
 
 ## 外部リンク
 

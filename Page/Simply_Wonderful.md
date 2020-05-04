@@ -7,7 +7,7 @@
 
 「Simply Wonderful」は「いいものはいい」という意味で使用されている。サウンドプロデュースはPerry Geyerが手がけた。
 
-このシングルは「ダブル・エディット・シングル」として、両A面シングルのような形で発売された。両A面シングルというと、通常は**異なる楽曲2曲**が両方A面となるのに対し、このシングルは**同一の楽曲の異なるヴァージョン2つ**がA面というような扱いになった（その結果、[オリコンチャート](../Page/オリコンチャート.md "wikilink")ならびに『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』などでは「**Simply Wonderful〜Club Edit〜／Simply Wonderful〜Radio Edit〜**」という表記がされた）。ただし、実質的にはClub Editがリミックス、Radio Editがオリジナルバージョンのような扱いになっている。
+このシングルは「ダブル・エディット・シングル」として、両A面シングルのような形で発売された。両A面シングルというと、通常は**異なる楽曲2曲**が両方A面となるのに対し、このシングルは**同一の楽曲の異なるヴァージョン2つ**が両方A面というような扱いになった（その結果、[オリコンチャート](../Page/オリコンチャート.md "wikilink")ならびに『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』などでは「**Simply Wonderful〜Club Edit〜／Simply Wonderful〜Radio Edit〜**」という表記がされた）。ただし、実質的にはClub Editがリミックス、Radio Editがオリジナルバージョンのような扱いになっている。正式な両A面シングルは、2作あとの「[冷たい海/Start in my life](https://ja.wikipedia.org/wiki/冷たい海/Start_in_my_life "wikilink")」が初。
 
 2枚目のアルバム『[Perfect Crime](../Page/Perfect_Crime_\(アルバム\).md "wikilink")』にはカップリングの「think about」が収録された。「Simply Wonderful」は長年アルバム未収録だったが、ベストアルバム『[Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")』にRadio Editが収録された。
 

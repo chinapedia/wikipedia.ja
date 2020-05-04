@@ -37,7 +37,7 @@
   - [池内博子](../Page/池内博子.md "wikilink")（90年代半ば～2001年）
   - [マルク・レール](https://ja.wikipedia.org/wiki/マルク・レール "wikilink")（1993～1999年）
   - [吉田治美](../Page/吉田治美.md "wikilink")（2001年、故人）
-  - [石川正史](../Page/石川正史.md "wikilink")（2001年、現[OBS大分放送アナウンサー](https://ja.wikipedia.org/wiki/大分放送 "wikilink")）
+  - [石川正史](../Page/石川正史.md "wikilink")（2001年、現[OBS大分放送アナウンサー](../Page/大分放送.md "wikilink")）
 
 <!-- end list -->
 

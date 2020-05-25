@@ -23,7 +23,7 @@ GNOME 3のデフォルトのグラフィカルなシェルは[GNOME Shellで](ht
 
 ## ファイル
 
-  - [Files](https://ja.wikipedia.org/wiki/Nautilus "wikilink") - GNOMEの[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")。
+  - [Files](https://ja.wikipedia.org/wiki/Nautilus "wikilink") - GNOMEの[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")。
   - Photos
   - Music - [データベース](../Page/データベース.md "wikilink")管理機能を持つ[オーディオプレーヤー](https://ja.wikipedia.org/wiki/オーディオプレーヤー "wikilink")。
   - Videos - GNOME向けの[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")。

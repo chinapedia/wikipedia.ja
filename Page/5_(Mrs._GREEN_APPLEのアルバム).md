@@ -17,7 +17,7 @@
 
 1.  **スターダム**
       -
-        新録バージョン。[2014年](../Page/2014年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売の自主制作1stアルバム「[Introduction](https://ja.wikipedia.org/wiki/Introduction "wikilink")」収録。
+        新録バージョン。[2014年](../Page/2014年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売の自主制作1stアルバム「[Introduction](../Page/Introduction.md "wikilink")」収録。
 2.  **我逢人**
       -
         [2015年](../Page/2015年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")発売のインディーズアルバム「[Progressive](../Page/Progressive_\(Mrs._GREEN_APPLEのアルバム\).md "wikilink")」収録。

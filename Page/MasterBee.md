@@ -7,7 +7,7 @@
 
 ## リリース
 
-[2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に21st. CENTURY BARBEE BOYSより7thアルバム『**PlanBee**』を発売。前作『[eeney meeney barbee moe](https://ja.wikipedia.org/wiki/eeney_meeney_barbee_moe "wikilink")』以来29年ぶりとなるアルバムで\[1\]\[2\]\[3\]、[HMV](../Page/HMV.md "wikilink")と[Loppi](../Page/Loppi.md "wikilink")限定で発売された\[4\]。同作にはリード曲として先行配信されていた「[無敵のヴァレリー](https://ja.wikipedia.org/wiki/無敵のヴァレリー "wikilink")」を含む全5曲が収録された\[5\]。同作は2019年12月30日付の[オリコン週間インディーズアルバムランキングで最高](../Page/オリコンチャート.md "wikilink")2位を獲得した\[6\]。
+[2019年](../Page/2019年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に21st. CENTURY BARBEE BOYSより7thアルバム『**PlanBee**』を発売。前作『[eeney meeney barbee moe](https://ja.wikipedia.org/wiki/eeney_meeney_barbee_moe "wikilink")』以来29年ぶりとなるアルバムで\[1\]\[2\]\[3\]、[HMV](../Page/HMV.md "wikilink")と[Loppi](../Page/Loppi.md "wikilink")限定で発売された\[4\]。同作にはリード曲として先行配信されていた「[無敵のヴァレリー](../Page/無敵のヴァレリー.md "wikilink")」を含む全5曲が収録された\[5\]。同作は2019年12月30日付の[オリコン週間インディーズアルバムランキングで最高](../Page/オリコンチャート.md "wikilink")2位を獲得した\[6\]。
 
 [2020年](../Page/2020年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")にアナログ盤『**PlayBee**』を、同日に[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館で開催されたワンマンライブ『突然こんなところは嫌いかい?』の会場先行で発売\[7\]。同作には『PlanBee』に未収録となった「キッズアーオーライ」を含む全6曲が収録された\[8\]\[9\]。同作は2020年2月10日付のオリコン週間アルバムランキングで212位を獲得した\[10\]。
 
@@ -18,7 +18,7 @@
 ### PlanBee
 
   - [品番](../Page/規格品番.md "wikilink") : BB-21000001
-  - リード曲「[無敵のヴァレリー](https://ja.wikipedia.org/wiki/無敵のヴァレリー "wikilink")」を含む全5曲を収録。
+  - リード曲「[無敵のヴァレリー](../Page/無敵のヴァレリー.md "wikilink")」を含む全5曲を収録。
 
 ### PlayBee
 
@@ -36,7 +36,7 @@
 1.  **ぼくらのバックナンバー**
       -
         先行シングルにすることも考えられていたが、近藤曰く「青臭いかもしれない」「若者ぶってると思われるのはいやだ」という理由で「無敵なヴァレリー」になった\[12\]。
-2.  **[無敵のヴァレリー](https://ja.wikipedia.org/wiki/無敵のヴァレリー "wikilink")**
+2.  **[無敵のヴァレリー](../Page/無敵のヴァレリー.md "wikilink")**
       -
         リード曲で、配信限定シングル。
 3.  **CRAZY BLUE**

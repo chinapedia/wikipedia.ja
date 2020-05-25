@@ -64,7 +64,7 @@
       - 1枚目のアルバム『THE II AGE』の収録曲
 10. *' [ASOBO\! feat. Far East Movement](https://ja.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")*' (4:07)
       -
-        作詞：[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), SHOKICHI, [NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink"), [Far East Movement](https://ja.wikipedia.org/wiki/Far_East_Movement "wikilink") (Kevin Nishimura, James Roh, Virman Coquia) / 作曲：M.Vorwerk
+        作詞：[VERBAL](../Page/VERBAL.md "wikilink"), SHOKICHI, [NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink"), [Far East Movement](https://ja.wikipedia.org/wiki/Far_East_Movement "wikilink") (Kevin Nishimura, James Roh, Virman Coquia) / 作曲：M.Vorwerk
     <!-- end list -->
       - アルバム『HiGH\&LOW ORIGINAL BEST ALBUM』の収録曲
 11. **[POW\!](https://ja.wikipedia.org/wiki/Highway_Star_\(EXILE_THE_SECONDのアルバム\) "wikilink")** (3:46)

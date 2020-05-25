@@ -1,7 +1,7 @@
 > この記事は[WORLD RECORD](https://ja.wikipedia.org/wiki/WORLD_RECORD)から翻訳されています。
 
 
-「**WORLD RECORD**」（ワールド レコード）は日本で活動する[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")、[ceroの](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。本作はバンドの1枚目のアルバムとして[2011年](../Page/2011年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")より発売された。
+「**WORLD RECORD**」（ワールド レコード）は日本で活動する[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")、[ceroの](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。本作はバンドの1枚目のアルバムとして[2011年](../Page/2011年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[カクバリズム](../Page/カクバリズム.md "wikilink")より発売された。
 
 ## 制作背景
 

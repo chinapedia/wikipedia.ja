@@ -47,7 +47,7 @@
 ## 関連作品
 
   - [P.S.2〜真実の扉〜](https://ja.wikipedia.org/wiki/P.S.2〜真実の扉〜 "wikilink")
-  - [P.S.3〜ハーレムナイト〜](https://ja.wikipedia.org/wiki/P.S.3〜ハーレムナイト〜 "wikilink")
+  - [P.S.3〜ハーレムナイト〜](../Page/P.S.3〜ハーレムナイト〜.md "wikilink")
 
 ## 脚注
 

@@ -18,7 +18,7 @@
 
 ## 関連項目
 
-  - [宮川理佳](https://ja.wikipedia.org/wiki/宮川理佳 "wikilink") - 「トラパラ」ディレクター
+  - [宮川理佳](../Page/宮川理佳.md "wikilink") - 「トラパラ」ディレクター
 
 ## 外部リンク
 

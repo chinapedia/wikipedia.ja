@@ -42,7 +42,7 @@
   - [永井敏己](https://ja.wikipedia.org/wiki/永井敏己 "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 トラック9
-**[W.I.N.S](https://ja.wikipedia.org/wiki/W.I.N.S "wikilink")**
+**[W.I.N.S](../Page/W.I.N.S.md "wikilink")**
 
   - [和田アキラ](https://ja.wikipedia.org/wiki/和田アキラ "wikilink") - [ギター](../Page/ギター.md "wikilink")
   - [石黒彰](../Page/石黒彰.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")

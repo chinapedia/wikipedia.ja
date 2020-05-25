@@ -5,7 +5,7 @@
 
 Disksはかつて、GNOME Disk Utilityまたは**palimpsest Disk Utility**として知られていた。Udisksはかつて、DeviceKit-disksという名称だった。DiviceKit-disksは、DeviceKitの一部で、[HAL](../Page/HAL.md "wikilink")のいくつかのアスペクトを置き換えることが計画されていた。HALとDeviceKitは既に廃止されている。
 
-GNOME Disksは、デフォルトでいくつかの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")に含まれている。（[Debian](../Page/Debian.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[Linux Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink")、[Trisquel](https://ja.wikipedia.org/wiki/Trisquel "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[RHEL](https://ja.wikipedia.org/wiki/RHEL "wikilink")\[3\]、[CentOS](../Page/CentOS.md "wikilink")など）
+GNOME Disksは、デフォルトでいくつかの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")に含まれている。（[Debian](../Page/Debian.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[Linux Mint](../Page/Linux_Mint.md "wikilink")、[Trisquel](https://ja.wikipedia.org/wiki/Trisquel "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[RHEL](https://ja.wikipedia.org/wiki/RHEL "wikilink")\[3\]、[CentOS](../Page/CentOS.md "wikilink")など）
 
 ## 脚注
 

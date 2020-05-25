@@ -22,7 +22,7 @@
   - [玉永賢吾](../Page/玉永賢吾.md "wikilink")（業務提携）
   - [浅野夢彦](https://ja.wikipedia.org/wiki/浅野夢彦 "wikilink")（業務提携）
   - [遠藤洋](https://ja.wikipedia.org/wiki/遠藤洋 "wikilink")（業務提携）
-  - [池田明日香](https://ja.wikipedia.org/wiki/池田明日香 "wikilink")（業務提携）
+  - [池田明日香](../Page/池田明日香.md "wikilink")（業務提携）
   - [板橋幸大](https://ja.wikipedia.org/wiki/板橋幸大 "wikilink")（業務提携）
   - [齋藤恵介](https://ja.wikipedia.org/wiki/齋藤恵介 "wikilink")（業務提携）
 

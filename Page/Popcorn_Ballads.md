@@ -1,7 +1,7 @@
 > この記事は[Popcorn Ballads](https://ja.wikipedia.org/wiki/Popcorn_Ballads)から翻訳されています。
 
 
-『**Popcorn Ballads**』（ポップコーン・バラッズ）は、[2017年](../Page/2017年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に発表された[サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")通算11作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**Popcorn Ballads**』（ポップコーン・バラッズ）は、[2017年](../Page/2017年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に発表された[サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")通算11作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 

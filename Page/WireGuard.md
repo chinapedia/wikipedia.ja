@@ -1,7 +1,7 @@
 > この記事は[WireGuard](https://ja.wikipedia.org/wiki/WireGuard)から翻訳されています。
 
 
-**WireGuard**は、[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[ルーティング](../Page/ルーティング.md "wikilink")又は[ブリッジで安全な](../Page/ブリッジ_\(ネットワーク機器\).md "wikilink")[ポイント・ツー・ポイント](https://ja.wikipedia.org/wiki/ポイント・ツー・ポイント "wikilink")接続を作成するための技術である[Virtual Private Network](../Page/Virtual_Private_Network.md "wikilink") (VPN) の実装であり、[アプリケーション](https://ja.wikipedia.org/wiki/アプリケーション "wikilink")及び[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")内の[モジュールとして実行され](https://ja.wikipedia.org/wiki/ローダブル・カーネル・モジュール "wikilink")、[IPsec](../Page/IPsec.md "wikilink")や[OpenVPN](https://ja.wikipedia.org/wiki/OpenVPN "wikilink")よりも優れた性能を目指している\[1\]。WireGuardはJason A. Donenfeldによって書かれ、[GNU GPL v2の下で配布されている](../Page/GNU_General_Public_License.md "wikilink")\[2\]。公式ウェブサイトでは、「開発中」と説明されている。
+**WireGuard**は、[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[ルーティング](../Page/ルーティング.md "wikilink")又は[ブリッジで安全な](../Page/ブリッジ_\(ネットワーク機器\).md "wikilink")[ポイント・ツー・ポイント](https://ja.wikipedia.org/wiki/ポイント・ツー・ポイント "wikilink")接続を作成するための技術である[Virtual Private Network](../Page/Virtual_Private_Network.md "wikilink") (VPN) の実装であり、[アプリケーション](https://ja.wikipedia.org/wiki/アプリケーション "wikilink")及び[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")内の[モジュールとして実行され](https://ja.wikipedia.org/wiki/ローダブル・カーネル・モジュール "wikilink")、[IPsec](../Page/IPsec.md "wikilink")や[OpenVPN](../Page/OpenVPN.md "wikilink")よりも優れた性能を目指している\[1\]。WireGuardはJason A. Donenfeldによって書かれ、[GNU GPL v2の下で配布されている](../Page/GNU_General_Public_License.md "wikilink")\[2\]。公式ウェブサイトでは、「開発中」と説明されている。
 
 ## 特徴
 

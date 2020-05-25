@@ -5,7 +5,7 @@
 
 ## 概要
 
-毎年8月下旬に、予選を勝ち抜いた全国8チーム（1チーム3名）によるトーナメント形式で争われる。審査員は[佐佐木幸綱](https://ja.wikipedia.org/wiki/佐佐木幸綱 "wikilink")（[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")、[早稲田大学](../Page/早稲田大学.md "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")）、[小島ゆかり](https://ja.wikipedia.org/wiki/小島ゆかり "wikilink")（歌人）、[坂本信幸](https://ja.wikipedia.org/wiki/坂本信幸 "wikilink")（高岡市万葉歴史館館長）の3名。
+毎年8月下旬に、予選を勝ち抜いた全国8チーム（1チーム3名）によるトーナメント形式で争われる。審査員は[佐佐木幸綱](https://ja.wikipedia.org/wiki/佐佐木幸綱 "wikilink")（[歌人](../Page/歌人.md "wikilink")、[早稲田大学](../Page/早稲田大学.md "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")）、[小島ゆかり](https://ja.wikipedia.org/wiki/小島ゆかり "wikilink")（歌人）、[坂本信幸](https://ja.wikipedia.org/wiki/坂本信幸 "wikilink")（高岡市万葉歴史館館長）の3名。
 
 ## 歴代成績
 

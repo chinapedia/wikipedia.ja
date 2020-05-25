@@ -57,7 +57,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/あらかじめ決められた恋人たちへ" title="wikilink">あらかじめ決められた恋人たちへ</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ADAM_at" title="wikilink">ADAM at</a></li>
+<li><a href="../Page/ADAM_at.md" title="wikilink">ADAM at</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KAGERO" title="wikilink">KAGERO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Drop&#39;s" title="wikilink">Drop's</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/mudy_on_the_昨晩" title="wikilink">mudy on the 昨晩</a></li>
@@ -275,7 +275,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/サニーデイ・サービス" title="wikilink">サニーデイ・サービス</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SANABAGUN." title="wikilink">SANABAGUN.</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/グッドラックヘイワ" title="wikilink">グッドラックヘイワ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/さかいゆう" title="wikilink">さかいゆう</a></li>
+<li><a href="../Page/さかいゆう.md" title="wikilink">さかいゆう</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ミツメ" title="wikilink">ミツメ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/奇妙礼太郎" title="wikilink">奇妙礼太郎</a></li>
 </ul></td>
@@ -362,7 +362,7 @@
 <li><a href="../Page/空気公団.md" title="wikilink">空気公団</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ADAM_at" title="wikilink">ADAM at</a></li>
+<li><a href="../Page/ADAM_at.md" title="wikilink">ADAM at</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Rei_(シンガーソングライター)" title="wikilink">Rei</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DYGL" title="wikilink">DYGL</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DATS" title="wikilink">DATS</a></li>
@@ -410,7 +410,7 @@
 </ul></td>
 <td><ul>
 <li>[DJ]<a href="https://ja.wikipedia.org/wiki/Sundayカミデ" title="wikilink">Sundayカミデ</a></li>
-<li>[DJ]<a href="https://ja.wikipedia.org/wiki/ADAM_at" title="wikilink">ADAM at</a></li>
+<li>[DJ]<a href="../Page/ADAM_at.md" title="wikilink">ADAM at</a></li>
 <li>[DJ]<a href="https://ja.wikipedia.org/wiki/柴山順次" title="wikilink">柴山順次</a>（ONE BY ONE RECORDS）</li>
 <li>[DJ]古川太一（KONCOS）</li>
 </ul></td>
@@ -847,7 +847,7 @@
   - [明星/Akeboshi](https://ja.wikipedia.org/wiki/明星/Akeboshi "wikilink")
   - [THE BOHEMIANS](https://ja.wikipedia.org/wiki/THE_BOHEMIANS "wikilink")
   - [DIRTY FOUR EYES](https://ja.wikipedia.org/wiki/DIRTY_FOUR_EYES "wikilink")
-  - DJ [ADAM at](https://ja.wikipedia.org/wiki/ADAM_at "wikilink")
+  - DJ [ADAM at](../Page/ADAM_at.md "wikilink")
   - DJ MOBY([SCOOBIE DO](https://ja.wikipedia.org/wiki/SCOOBIE_DO "wikilink"))
   - [EASTOKLAB](https://ja.wikipedia.org/wiki/EASTOKLAB "wikilink")（両日出演）
   - [ドミコ](https://ja.wikipedia.org/wiki/ドミコ "wikilink")

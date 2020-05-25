@@ -18,7 +18,7 @@
 本形式にはバリードの考案した独自の機構が多数搭載されており、従来のイギリスの蒸気機関車とは一線を画す極めて特異な外観と構造を備えていた。以下はその一部。
 
   - チェーン駆動式弁装置(Chain-driven Valve Gear)
-    動輪の内側に付随して開店する歯車とチェーンによって三つの汽筒の排気を制御する[弁装置](https://ja.wikipedia.org/wiki/弁装置 "wikilink")\[3\]。詳しくは[ブレイド式チェーン駆動弁装置](https://ja.wikipedia.org/wiki/ブレイド式チェーン駆動弁装置 "wikilink")を参照
+    動輪の内側に付随して開店する歯車とチェーンによって三つの汽筒の排気を制御する[弁装置](../Page/弁装置.md "wikilink")\[3\]。詳しくは[ブレイド式チェーン駆動弁装置](https://ja.wikipedia.org/wiki/ブレイド式チェーン駆動弁装置 "wikilink")を参照
   - Air-smoothed Casing
     煙室から運転台までを覆う直線的なカバー。その外観から肉の缶詰という通称で親しまれた。空気抵抗の軽減や煙除けを目的とした所謂流線型の外殻だが、[LNERの](https://ja.wikipedia.org/wiki/ロンドン・アンド・ノース・イースタン鉄道 "wikilink")[A4形や](https://ja.wikipedia.org/wiki/LNER_A4形蒸気機関車 "wikilink")[LMSの](https://ja.wikipedia.org/wiki/ロンドン・ミッドランド・アンド・スコティッシュ鉄道 "wikilink")[プリンセス・コロネーション形等](https://ja.wikipedia.org/wiki/LMS_プリンセス・コロネーション形蒸気機関車 "wikilink")、他社の流線型機関車が「Stream line」と称されるのに対し、バリード自身はこれを「Air-smoothed」と表現した\[4\]。
   - 溶接式火室

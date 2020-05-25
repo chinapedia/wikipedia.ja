@@ -23,7 +23,7 @@
   - [タイガー・ジェット・シン](../Page/タイガー・ジェット・シン.md "wikilink")＆[上田馬之助](../Page/上田馬之助_\(プロレスラー\).md "wikilink") 24点
   - [坂口征二](../Page/坂口征二.md "wikilink")＆[ストロング小林](../Page/ストロング小林.md "wikilink") 20点
   - [藤波辰巳](../Page/藤波辰爾.md "wikilink")＆[木村健吾](../Page/木村健悟.md "wikilink") 15点
-  - [ウィリアム・ルスカ](https://ja.wikipedia.org/wiki/ウィレム・ルスカ "wikilink")＆[バッドニュース・アレン](../Page/アレン・コージ.md "wikilink") 10点
+  - [ウィリアム・ルスカ](../Page/ウィレム・ルスカ.md "wikilink")＆[バッドニュース・アレン](../Page/アレン・コージ.md "wikilink") 10点
   - [長州力](../Page/長州力.md "wikilink")＆[星野勘太郎](../Page/星野勘太郎.md "wikilink") 9点
   - [ジョニー・パワーズ](../Page/ジョニー・パワーズ.md "wikilink")＆[オックス・ベーカー](https://ja.wikipedia.org/wiki/オックス・ベーカー "wikilink") 0点
 
@@ -47,7 +47,7 @@
   - [ラッシャー木村](../Page/ラッシャー木村.md "wikilink")＆[アニマル浜口](../Page/アニマル浜口.md "wikilink") 18点
   - 長州力＆[谷津嘉章](../Page/谷津嘉章.md "wikilink") 16点
   - [パット・パターソン](../Page/パット・パターソン.md "wikilink")＆バッドニュース・アレン 11点
-  - [ザ・サモアンズ](../Page/ワイルド・サモアンズ.md "wikilink")（[サモアン1号](../Page/アファ・アノアイ.md "wikilink")＆[サモアン2号](https://ja.wikipedia.org/wiki/シカ・アノアイ "wikilink")）5点
+  - [ザ・サモアンズ](../Page/ワイルド・サモアンズ.md "wikilink")（[サモアン1号](../Page/アファ・アノアイ.md "wikilink")＆[サモアン2号](../Page/シカ・アノアイ.md "wikilink")）5点
   - [エル・カネック](../Page/カネック.md "wikilink")＆[スーパー・マキナ](https://ja.wikipedia.org/wiki/スペル・マキナ "wikilink") 4点
 
 <!-- end list -->

@@ -448,7 +448,7 @@
 <td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/種市真太" title="wikilink">種市真太</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久山健太" title="wikilink">久山健太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡本秀雄" title="wikilink">岡本秀雄</a></p></td>
+<td><p><a href="../Page/岡本秀雄.md" title="wikilink">岡本秀雄</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮内寛斗" title="wikilink">宮内寛斗</a></p></td>
 <td><p>-</p></td>
 <td></td>

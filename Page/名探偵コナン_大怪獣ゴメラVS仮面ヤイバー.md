@@ -153,7 +153,7 @@
   - ミキサー - 小沼則義
   - 音響制作デスク - 太田恵理子
   - 音響効果 - [横山正和](../Page/横山正和.md "wikilink")、[横山亜紀](https://ja.wikipedia.org/wiki/横山亜紀 "wikilink")
-  - 広報 - [小林杏奈](https://ja.wikipedia.org/wiki/小林杏奈 "wikilink")、北本ひかり
+  - 広報 - [小林杏奈](../Page/小林杏奈.md "wikilink")、北本ひかり
   - タイトル - 田上淑子
   - 文芸担当 - 小宅由貴恵
   - 設定制作 - 鈴木美玲、下村弘樹

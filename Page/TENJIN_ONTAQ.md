@@ -899,7 +899,7 @@
   - [アメノイロ。](https://ja.wikipedia.org/wiki/アメノイロ。 "wikilink")
   - [Amelie](https://ja.wikipedia.org/wiki/Amelie "wikilink")
   - [alcott](https://ja.wikipedia.org/wiki/alcott "wikilink")
-  - [Amber's](https://ja.wikipedia.org/wiki/Amber's "wikilink")
+  - [Amber's](../Page/Amber's.md "wikilink")
   - [INNOSENT in FORMAL](https://ja.wikipedia.org/wiki/INNOSENT_in_FORMAL "wikilink")
   - [Wienners](https://ja.wikipedia.org/wiki/Wienners "wikilink")
   - [S.M.N.](https://ja.wikipedia.org/wiki/S.M.N. "wikilink")

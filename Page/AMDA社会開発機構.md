@@ -24,7 +24,7 @@
   - [2007年](../Page/2007年.md "wikilink")：設立。前身の特定非営利活動法人アムダ（[AMDA](https://ja.wikipedia.org/wiki/AMDA "wikilink")）の海外事業本部が実施していた9か国（[ミャンマー](../Page/ミャンマー.md "wikilink")、[ネパール](../Page/ネパール.md "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[ジブチ](../Page/ジブチ.md "wikilink")、[ザンビア](https://ja.wikipedia.org/wiki/ザンビア "wikilink")、[ケニア](../Page/ケニア.md "wikilink")、[ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink")、[ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink")）における社会開発活動を引き継ぐ。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")：ミャンマー／[サイクロン・ナルギス](https://ja.wikipedia.org/wiki/サイクロン・ナルギス "wikilink")緊急支援活動。ホンジュラス／洪水被害に対する緊急支援活動。
   - [2011年](../Page/2011年.md "wikilink")：特定非営利活動法人アムダ（[AMDA](https://ja.wikipedia.org/wiki/AMDA "wikilink")）が実施する[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")緊急支援活動への人材派遣と側面支援。ミャンマー／洪水被災者への緊急支援活動
-  - [2013年](../Page/2013年.md "wikilink")：[シエラレオネ](https://ja.wikipedia.org/wiki/シエラレオネ "wikilink")での活動を開始。認定NPO法人格を取得。
+  - [2013年](../Page/2013年.md "wikilink")：[シエラレオネ](../Page/シエラレオネ.md "wikilink")での活動を開始。認定NPO法人格を取得。
   - [2015年](../Page/2015年.md "wikilink")：ネパール／[ネパール地震](https://ja.wikipedia.org/wiki/ネパール地震 "wikilink")に対する緊急救援の側面支援。
   - [2018年](../Page/2018年.md "wikilink")：[グアテマラ](../Page/グアテマラ.md "wikilink")での活動を開始。特定非営利活動法人アムダ（[AMDA](https://ja.wikipedia.org/wiki/AMDA "wikilink")）が実施する[平成30年7月豪雨](https://ja.wikipedia.org/wiki/平成30年7月豪雨 "wikilink")災害被災者緊急支援活動への人材派遣と側面支援。
 

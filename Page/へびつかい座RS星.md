@@ -4,7 +4,7 @@
 [光年](../Page/光年.md "wikilink")
 （1.4 {{+-|0.6|0.2}} [キロパーセク](../Page/パーセク.md "wikilink")） | 星図位置画像 = Ophiuchus constellation map.svg | 位置画像left = 33 | 位置画像top = 42 | 画像説明 = へびつかい座RS星の位置（丸印） }}
 
-**へびつかい座RS星**（へびつかいざRSせい、RS Ophiuchi、RS Oph）は、[へびつかい座](../Page/へびつかい座.md "wikilink")の方角におよそ4,600[光年](../Page/光年.md "wikilink")離れた位置にある[回帰新星である](https://ja.wikipedia.org/wiki/新星 "wikilink")。静穏期には、[見かけの等級](https://ja.wikipedia.org/wiki/見かけの等級 "wikilink")が12[等程度だが](../Page/等級_\(天文\).md "wikilink")、平均しておよそ15[年](../Page/年.md "wikilink")置きに、急激に増光し、[肉眼](../Page/肉眼.md "wikilink")等級にも達する。[19世紀](../Page/19世紀.md "wikilink")末以降、6回増光が観測されており、また記録されてはないが、その間に更に2回の増光があったと考えられる。へびつかい座RS星は、大[質量](../Page/質量.md "wikilink")の[白色矮星](../Page/白色矮星.md "wikilink")と[赤色巨星](../Page/赤色巨星.md "wikilink")の[連星](../Page/連星.md "wikilink")系で、[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")を大量に含む物質が赤色巨星から白色矮星に[降着し](https://ja.wikipedia.org/wiki/降着_\(天文学\) "wikilink")、表面で熱核暴走を起こすことで、増光を繰り返すものと考えられる。
+**へびつかい座RS星**（へびつかいざRSせい、RS Ophiuchi、RS Oph）は、[へびつかい座](../Page/へびつかい座.md "wikilink")の方角におよそ4,600[光年](../Page/光年.md "wikilink")離れた位置にある[回帰新星である](https://ja.wikipedia.org/wiki/新星 "wikilink")。静穏期には、[見かけの等級](https://ja.wikipedia.org/wiki/見かけの等級 "wikilink")が12[等程度だが](../Page/等級_\(天文\).md "wikilink")、平均しておよそ15[年](../Page/年.md "wikilink")置きに、急激に増光し、[肉眼](../Page/肉眼.md "wikilink")等級にも達する。[19世紀](../Page/19世紀.md "wikilink")末以降、6回増光が観測されており、また記録されてはないが、その間に更に2回の増光があったと考えられる。へびつかい座RS星は、大[質量](../Page/質量.md "wikilink")の[白色矮星](../Page/白色矮星.md "wikilink")と[赤色巨星](../Page/赤色巨星.md "wikilink")の[連星](../Page/連星.md "wikilink")系で、[水素](../Page/水素.md "wikilink")を大量に含む物質が赤色巨星から白色矮星に[降着し](https://ja.wikipedia.org/wiki/降着_\(天文学\) "wikilink")、表面で熱核暴走を起こすことで、増光を繰り返すものと考えられる。
 
 ## 特徴
 

@@ -1,11 +1,11 @@
 > この記事は[Obscure Ride](https://ja.wikipedia.org/wiki/Obscure_Ride)から翻訳されています。
 
 
-「**Obscure Ride**」（オブスキュア ライド）は日本の3ピースバンド[ceroの](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。バンドの3枚目となるアルバムは[2015年](../Page/2015年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")よりリリースされた。[ファンク](../Page/ファンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")を始めとする[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")へ接近した音楽性を持って制作された本作は音楽業界各所で高い評価を受け、[CDショップ大賞](https://ja.wikipedia.org/wiki/CDショップ大賞 "wikilink")などを始めとするアワードでの受賞を果たしている。
+「**Obscure Ride**」（オブスキュア ライド）は日本の3ピースバンド[ceroの](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。バンドの3枚目となるアルバムは[2015年](../Page/2015年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[カクバリズム](../Page/カクバリズム.md "wikilink")よりリリースされた。[ファンク](../Page/ファンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")を始めとする[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")へ接近した音楽性を持って制作された本作は音楽業界各所で高い評価を受け、[CDショップ大賞](https://ja.wikipedia.org/wiki/CDショップ大賞 "wikilink")などを始めとするアワードでの受賞を果たしている。
 
 ## 制作背景
 
-  - [ceroは](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")[高城晶平](https://ja.wikipedia.org/wiki/高城晶平 "wikilink")、[荒内佑](https://ja.wikipedia.org/wiki/荒内佑 "wikilink")、[柳智之](https://ja.wikipedia.org/wiki/柳智之 "wikilink")らによって[2004年](../Page/2004年.md "wikilink")に結成された。[2006年](../Page/2006年.md "wikilink")に[橋本翼](https://ja.wikipedia.org/wiki/橋本翼 "wikilink")が加入し、[2011年](../Page/2011年.md "wikilink")に柳が脱退し現在の正式メンバー3人、ライブパフォーマンスではサポートメンバーを交えた7人にもなる体制を取った。バンドは2011年に[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")1枚目のアルバム「[WORLD RECORD](../Page/WORLD_RECORD.md "wikilink")」、翌年に「[My Lost City](https://ja.wikipedia.org/wiki/My_Lost_City "wikilink")」をリリースし、「Obscure Ride」は通算3枚目のアルバムとなる\[1\]。
+  - [ceroは](https://ja.wikipedia.org/wiki/Cero_\(バンド\) "wikilink")[高城晶平](https://ja.wikipedia.org/wiki/高城晶平 "wikilink")、[荒内佑](https://ja.wikipedia.org/wiki/荒内佑 "wikilink")、[柳智之](https://ja.wikipedia.org/wiki/柳智之 "wikilink")らによって[2004年](../Page/2004年.md "wikilink")に結成された。[2006年](../Page/2006年.md "wikilink")に[橋本翼](https://ja.wikipedia.org/wiki/橋本翼 "wikilink")が加入し、[2011年](../Page/2011年.md "wikilink")に柳が脱退し現在の正式メンバー3人、ライブパフォーマンスではサポートメンバーを交えた7人にもなる体制を取った。バンドは2011年に[カクバリズム](../Page/カクバリズム.md "wikilink")1枚目のアルバム「[WORLD RECORD](../Page/WORLD_RECORD.md "wikilink")」、翌年に「[My Lost City](https://ja.wikipedia.org/wiki/My_Lost_City "wikilink")」をリリースし、「Obscure Ride」は通算3枚目のアルバムとなる\[1\]。
 
 ## 構成
 

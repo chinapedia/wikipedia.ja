@@ -18,14 +18,14 @@
 
 ## 作品の評価
 
-映画評論家の[なかざわひでゆき](https://ja.wikipedia.org/wiki/なかざわひでゆき "wikilink")は本作を「世の男性の[ヒギンズ教授症候群的な願望を](https://ja.wikipedia.org/wiki/ピグマリオン_\(戯曲\) "wikilink")[皮肉った](../Page/イロニー.md "wikilink")[フェミニズム](../Page/フェミニズム.md "wikilink")色の強い」作品と評する一方、「『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』×『[エクス・マキナ](https://ja.wikipedia.org/wiki/エクス・マキナ "wikilink")』的なビジュアル」を高く評価するとともに、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督を意識した演出と指摘している\[7\]。
+映画評論家の[なかざわひでゆき](https://ja.wikipedia.org/wiki/なかざわひでゆき "wikilink")は本作を「世の男性の[ヒギンズ教授症候群的な願望を](../Page/ピグマリオン_\(戯曲\).md "wikilink")[皮肉った](../Page/イロニー.md "wikilink")[フェミニズム](../Page/フェミニズム.md "wikilink")色の強い」作品と評する一方、「『[2001年宇宙の旅](../Page/2001年宇宙の旅.md "wikilink")』×『[エクス・マキナ](https://ja.wikipedia.org/wiki/エクス・マキナ "wikilink")』的なビジュアル」を高く評価するとともに、[スタンリー・キューブリック](../Page/スタンリー・キューブリック.md "wikilink")監督を意識した演出と指摘している\[7\]。
 
 ## 出典
 
 ## 関連項目
 
   - [ピグマリオンコンプレックス](../Page/ピグマリオンコンプレックス.md "wikilink")
-  - [ピグマリオン (戯曲)](https://ja.wikipedia.org/wiki/ピグマリオン_\(戯曲\) "wikilink")
+  - [ピグマリオン (戯曲)](../Page/ピグマリオン_\(戯曲\).md "wikilink")
   - [マイ・フェア・レディ](../Page/マイ・フェア・レディ.md "wikilink")
   - [主体思想](../Page/主体思想.md "wikilink")
 

@@ -46,7 +46,7 @@
 ## 参加ミュージシャン
 
   - 山崎晃平 ([Goodbye holiday](https://ja.wikipedia.org/wiki/Goodbye_holiday "wikilink"))：Drums (\#1)
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：Drums (\#2,\#4)
+  - [河村智康](../Page/河村智康.md "wikilink")：Drums (\#2,\#4)
   - [林久悦](https://ja.wikipedia.org/wiki/林久悦 "wikilink")：Drums (\#3,\#7,\#10), Chorus (\#3,\#10)
   - [鈴木英哉](../Page/鈴木英哉.md "wikilink") ([Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink"))：Drums (\#5,\#8,\#9,\#11)
   - [沼澤尚](../Page/沼澤尚.md "wikilink")：Drums (\#6)

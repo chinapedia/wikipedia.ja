@@ -1,7 +1,7 @@
 > この記事は[Odol](https://ja.wikipedia.org/wiki/Odol)から翻訳されています。
 
 
-**odol**（オドル）\[1\]は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2014年結成。バンド名の由来は「踊る」「躍る」から。所属事務所は[UKPM](../Page/UKプロジェクト.md "wikilink") / [HIP LAND MUSIC](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink")。所属レーベルは[UK.PROJECT](../Page/UKプロジェクト.md "wikilink")\[2\]\[3\]。
+**odol**（オドル）\[1\]は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[バンドである](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2014年結成。バンド名の由来は「踊る」「躍る」から。所属事務所は[UKPM](../Page/UKプロジェクト.md "wikilink") / [HIP LAND MUSIC](../Page/ヒップランドミュージック.md "wikilink")。所属レーベルは[UK.PROJECT](../Page/UKプロジェクト.md "wikilink")\[2\]\[3\]。
 
 ## メンバー
 
@@ -54,7 +54,7 @@
 **2018年**
 
   - 3月14日、配信限定シングル「時間と距離と僕らの旅」をリリース\[20\]。
-    またこの日、[UK.PROJECT](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink")と[HIP LAND MUSIC両社による共同マネジメント契約を結んだことを発表した](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink")\[21\]。
+    またこの日、[UK.PROJECT](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink")と[HIP LAND MUSIC両社による共同マネジメント契約を結んだことを発表した](../Page/ヒップランドミュージック.md "wikilink")\[21\]。
   - 5月30日、配信限定シングル「大人になって」をリリース。
   - 7月25日、タワーレコード限定シングル「four eyes」リリース\[22\]。
   - 7月29日、[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")’18 RED MARQUEEに出演\[23\]。
@@ -138,7 +138,7 @@
 </ol></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UK.PROJECT" title="wikilink">UKPM</a> / <a href="https://ja.wikipedia.org/wiki/ヒップランドミュージック" title="wikilink">HIP LAND MUSIC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UK.PROJECT" title="wikilink">UKPM</a> / <a href="../Page/ヒップランドミュージック.md" title="wikilink">HIP LAND MUSIC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -256,7 +256,7 @@
 <td><p><strong>視線</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UK.PROJECT" title="wikilink">UKPM</a> / <a href="https://ja.wikipedia.org/wiki/ヒップランドミュージック" title="wikilink">HIP LAND MUSIC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UK.PROJECT" title="wikilink">UKPM</a> / <a href="../Page/ヒップランドミュージック.md" title="wikilink">HIP LAND MUSIC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,13 +348,13 @@
 
 既発曲に新たにリアレンジ、リレコーディング、リミックスを施して現在進行形の解釈を提示する"Rework Series"として作品をリリースしている。
 
-|                                                                                                                                       | 発売日        | 作品名                  | |[規格品番](../Page/規格品番.md "wikilink") | オリジナル収録作品  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------- | ----------------------------------- | ---------- |
-| [UKPM](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink") / [HIP LAND MUSIC](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink") |            |                      |                                     |            |
-| RS01                                                                                                                                  | 2019年9月25日 | **狭い部屋 (Rearrange)** | UKCD-1185（配信限定）                     | **視線**     |
-| RS02                                                                                                                                  | 2020年2月26日 | **虹の端 (Rearrange)**  | UKCD-1186（配信限定）                     | **視線**     |
-| RS03                                                                                                                                  | 2020年4月1日  | **人の海で (Rearrange)** | UKCD-1187（配信限定）                     | **往来するもの** |
-|                                                                                                                                       |            |                      |                                     |            |
+|                                                                                                                    | 発売日        | 作品名                  | |[規格品番](../Page/規格品番.md "wikilink") | オリジナル収録作品  |
+| ------------------------------------------------------------------------------------------------------------------ | ---------- | -------------------- | ----------------------------------- | ---------- |
+| [UKPM](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink") / [HIP LAND MUSIC](../Page/ヒップランドミュージック.md "wikilink") |            |                      |                                     |            |
+| RS01                                                                                                               | 2019年9月25日 | **狭い部屋 (Rearrange)** | UKCD-1185（配信限定）                     | **視線**     |
+| RS02                                                                                                               | 2020年2月26日 | **虹の端 (Rearrange)**  | UKCD-1186（配信限定）                     | **視線**     |
+| RS03                                                                                                               | 2020年4月1日  | **人の海で (Rearrange)** | UKCD-1187（配信限定）                     | **往来するもの** |
+|                                                                                                                    |            |                      |                                     |            |
 
 ### デモ音源
 
@@ -411,7 +411,7 @@
       -   - 森山が楽曲提供で参加。
   - ウェブCM「Good Morning 朝は好き？」（[西川](../Page/西川_\(企業\).md "wikilink")、2019年3月発表）
       -   - ミゾベが歌唱で参加。
-  - [yui](https://ja.wikipedia.org/wiki/yui "wikilink") ([FLOWER FLOWER](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")) × ミゾベリョウ (odol)『ばらの花 × ネイティブダンサー』（[FRIENDSHIP.](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink")、2019年12月25日配信）
+  - [yui](https://ja.wikipedia.org/wiki/yui "wikilink") ([FLOWER FLOWER](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")) × ミゾベリョウ (odol)『ばらの花 × ネイティブダンサー』（[FRIENDSHIP.](../Page/ヒップランドミュージック.md "wikilink")、2019年12月25日配信）
       -   - ミゾベが歌唱で参加。
   - ECHOLL / Rayons『[サヨナラまでの30分](https://ja.wikipedia.org/wiki/サヨナラまでの30分 "wikilink")』（[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")、2020年1月22日発売）
       - 「**瞬間 (sayonara ver.)**」

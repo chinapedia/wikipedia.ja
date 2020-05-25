@@ -110,7 +110,7 @@
 12. **[あなたがくれたもの](https://ja.wikipedia.org/wiki/I_\(JUJUのアルバム\) "wikilink")**
       -
         7thアルバム『[I](https://ja.wikipedia.org/wiki/I_\(JUJUのアルバム\) "wikilink")』収録曲
-13. **[Woman In Love](https://ja.wikipedia.org/wiki/Woman_In_Love "wikilink")**
+13. **[Woman In Love](../Page/Woman_In_Love.md "wikilink")**
       -
         配信限定シングル、アルバム初収録。
 

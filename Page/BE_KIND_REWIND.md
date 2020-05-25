@@ -9,7 +9,7 @@
 
 前作以降のシングルや、スキットを含む新録の9トラックを追加した全14曲を収録。
 
-ジャケットのイラストは『[date course](https://ja.wikipedia.org/wiki/date_course "wikilink")』、『WORLD'S END』と同じく[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")の[江口寿史](../Page/江口寿史.md "wikilink")が担当した。
+ジャケットのイラストは『[date course](https://ja.wikipedia.org/wiki/date_course "wikilink")』、『WORLD'S END』と同じく[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")の[江口寿史](../Page/江口寿史.md "wikilink")が担当した。
 
 本作はCDに加え、[9月25日](../Page/9月25日.md "wikilink")にアナログレコードでもリリースされた。また11月6日にはスキットを除いた全曲のインストゥルメンタルを収録した『**BE KIND REWIND INSTRUMENTALS**』、[2020年](../Page/2020年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にはボーナストラックとして本編未収録のシングル楽曲や新録曲を収録した『**BE KIND REWIND (Expanded Edition)**』がそれぞれ配信限定アルバムとしてリリースされた（詳細は後述）。
 

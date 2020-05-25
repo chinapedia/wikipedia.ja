@@ -3,7 +3,7 @@
 
 「**Momoチャレンジ** (ももちゃれんじ)」は、[Facebook](../Page/Facebook.md "wikilink")やその他の[マスメディア](../Page/マスメディア.md "wikilink")で広まった、[ソーシャルメディア](https://ja.wikipedia.org/wiki/ソーシャルメディア "wikilink")での存在しないチャレンジに関する[デマで](https://ja.wikipedia.org/wiki/捏造 "wikilink")、[インターネット](../Page/インターネット.md "wikilink")上の[都市伝説](../Page/都市伝説.md "wikilink")\[1\]\[2\]。暴力的な攻撃、[自傷行為](https://ja.wikipedia.org/wiki/自傷行為 "wikilink")、[自殺](../Page/自殺.md "wikilink")を含む一連の危険な行為を行うよう、Momoという名前のユーザーが子供や思春期の若者を誘惑していることが報告されていた\[3\]\[4\]\[5\]。この現象は[2018年](../Page/2018年.md "wikilink")7月に世界的な規模に達したとされているにもかかわらず、実際の苦情件数は比較的少なく、直接的な結果として被害を受けた人がいることを確認した[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")はない\[6\]\[7\]\[8\]\[9\]。記録された子どもたちの不安と苦悩は、主に「Momo」の結果ではなく、メディアの報道によって引き起こされたものである。そのため、子どもたちの慈善団体はこの主張された現象に対する警告を、子どもたちがインターネット上の暴力的な題材を調べるようになるを導く利益よりも害をもたらすものとして見るようになった\[10\]\[11\]。
 
-[インドネシア](../Page/インドネシア.md "wikilink")の新聞が12歳の少女が自殺したと報じた後、2018年にMomoチャレンジは「世界的な現象になった\[12\]」とされる。2019年2月、がFacebookで公式に警告を発し、[アメリカのタレント](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[キム・カーダシアン](https://ja.wikipedia.org/wiki/キム・カーダシアン "wikilink")が[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")ストーリーに、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に「Momo」の疑いのある動画を削除することを訴える投稿をしたことで、人々の意識は高まった\[13\]\[14\]。
+[インドネシア](../Page/インドネシア.md "wikilink")の新聞が12歳の少女が自殺したと報じた後、2018年にMomoチャレンジは「世界的な現象になった\[12\]」とされる。2019年2月、がFacebookで公式に警告を発し、[アメリカのタレント](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[キム・カーダシアン](../Page/キム・カーダシアン.md "wikilink")が[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")ストーリーに、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に「Momo」の疑いのある動画を削除することを訴える投稿をしたことで、人々の意識は高まった\[13\]\[14\]。
 
 ## 背景と反応
 

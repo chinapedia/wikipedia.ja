@@ -1,7 +1,7 @@
 > この記事は[CASINOCASINO](https://ja.wikipedia.org/wiki/CASINOCASINO)から翻訳されています。
 
 
-**CASINOCASINO** (カジノカジノ) は、RWBソリューションズインターナショナル株式会社 (RWB Solutions International Ltd.) が運営する[オンラインカジノ](https://ja.wikipedia.org/wiki/オンラインカジノ "wikilink")。2019年5月に日本でのサービスをスタートした。海外ではポピュラーなオンラインカジノである。
+**CASINOCASINO** (カジノカジノ) は、RWBソリューションズインターナショナル株式会社 (RWB Solutions International Ltd.) が運営する[オンラインカジノ](../Page/オンラインカジノ.md "wikilink")。2019年5月に日本でのサービスをスタートした。海外ではポピュラーなオンラインカジノである。
 
 ## 運営会社
 
@@ -17,7 +17,7 @@ RWB Solutions International Ltd. (Rm101 Maple House 118 High Street, Purley, Lon
 
 ## アンバサダー
 
-日本のマルチタレントの[明日花キララ](https://ja.wikipedia.org/wiki/明日花キララ "wikilink") (あすかキララ、1988年10月2日、Diaz Promotion所属) がCASINOCASINO (カジノカジノ) 公式アンバサダーを務める。
+日本のマルチタレントの[明日花キララ](../Page/明日花キララ.md "wikilink") (あすかキララ、1988年10月2日、Diaz Promotion所属) がCASINOCASINO (カジノカジノ) 公式アンバサダーを務める。
 
 ## ゲームの種類
 

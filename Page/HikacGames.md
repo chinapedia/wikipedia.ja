@@ -121,7 +121,7 @@
 3.
 4.
 5.
-6.  メロンパンやメッス、ぼくくんゲーム、[ドズルなど](https://ja.wikipedia.org/wiki/ドズル_\(YouTuber\) "wikilink")
+6.  メロンパンやメッス、ぼくくんゲーム、[ドズルなど](../Page/ドズル_\(YouTuber\).md "wikilink")
 7.
 8.
 9.

@@ -3,7 +3,7 @@
 
 **CANoe**は[Vectorの開発](https://ja.wikipedia.org/wiki/ベクター・インフォマティック "wikilink")・テストソフトウェアツール。このソフトウェアは、主に自動車メーカーおよび[電子制御ユニット](https://ja.wikipedia.org/wiki/エレクトロニックコントロールユニット "wikilink")（ECU）サプライヤがECUネットワークおよび個々のECUの開発、分析、シミュレーション、テスト、診断、起動に使用する。広範な用途と多数の[車両バスシステムに対応していることから](https://ja.wikipedia.org/wiki/ビークルバス "wikilink")、従来の自動車からハイブリッド車、電気自動車までのECU開発に特に適している。CANoeのシミュレーションおよびテスト機能はプログラミング言語[CAPLを使用して行われる](../Page/Communication_Access_Programming_Language.md "wikilink")。
 
-CANoeは、[CAN](https://ja.wikipedia.org/wiki/Controller_Area_Network "wikilink")、、[FlexRay](https://ja.wikipedia.org/wiki/FlexRay "wikilink")、[イーサネット](../Page/イーサネット.md "wikilink")、[MOST](https://ja.wikipedia.org/wiki/Media_Oriented_Systems_Transport "wikilink")\[1\]バスシステム、および\[2\]、[CANopen](https://ja.wikipedia.org/wiki/CANopen "wikilink")\[3\]、\[4\]、\[5\]などのCANベースのプロトコルをサポートしている。
+CANoeは、[CAN](https://ja.wikipedia.org/wiki/Controller_Area_Network "wikilink")、、[FlexRay](https://ja.wikipedia.org/wiki/FlexRay "wikilink")、[イーサネット](../Page/イーサネット.md "wikilink")、[MOST](https://ja.wikipedia.org/wiki/Media_Oriented_Systems_Transport "wikilink")\[1\]バスシステム、および\[2\]、[CANopen](../Page/CANopen.md "wikilink")\[3\]、\[4\]、\[5\]などのCANベースのプロトコルをサポートしている。
 
 ## 説明
 
@@ -11,7 +11,7 @@ In 1996 the first CANoe license was sold by Vector. Since then, the software has
 
 New technologies based on IP architectures in the automotive industry \[6\] are supported by CANoe.\[7\] Beyond the scope of communication in a single car, CANoe is used in the development of cooperative systems via .\[8\]\[9\]
 
-At the beginning of the development process for an ECU or ECU, CANoe is used to create simulation models that simulate the behavior of the ECUs. Throughout the further course of ECU development, these models serve as a base for analysis, testing and integration of the bus systems and ECUs. Data is displayed and evaluated in either raw or symbolic format. Back in 1992, Vector developed the DBC data format, which has become a de facto standard for exchanging CAN descriptions in the automotive field. Other relevant standards are supported for other bus systems, e.g.  for FlexRay, LDF for LIN, Fibex for SOME/IP, [EDS/DCF/XDD](https://ja.wikipedia.org/wiki/CANopen "wikilink") for CANopen.\[10\]
+At the beginning of the development process for an ECU or ECU, CANoe is used to create simulation models that simulate the behavior of the ECUs. Throughout the further course of ECU development, these models serve as a base for analysis, testing and integration of the bus systems and ECUs. Data is displayed and evaluated in either raw or symbolic format. Back in 1992, Vector developed the DBC data format, which has become a de facto standard for exchanging CAN descriptions in the automotive field. Other relevant standards are supported for other bus systems, e.g.  for FlexRay, LDF for LIN, Fibex for SOME/IP, [EDS/DCF/XDD](../Page/CANopen.md "wikilink") for CANopen.\[10\]
 
 While CANoe can simulate the whole communication in a vehicle, it also includes a Test Feature Set, for creating automated test sequences. These automated test sequences can be controlled fully automated by usual CI tools (such as Jenkins etc). The Test Feature Set included in CANoe has a long history and is therefore available in variants; creation of test cases can be created in CAPL (Communication Access Programming Language - a C-like programming language), in XML, or in C\#. The tests can either be manually programmed or generated automatically by different generators.
 

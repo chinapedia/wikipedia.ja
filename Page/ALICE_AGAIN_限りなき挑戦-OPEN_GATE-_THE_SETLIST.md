@@ -19,23 +19,23 @@
 1.  **限りなき挑戦-OPEN GATE-**
       - 作詞:[谷村新司](../Page/谷村新司.md "wikilink")／作曲:谷村新司／編曲:[瀬戸谷芳治](https://ja.wikipedia.org/wiki/瀬戸谷芳治 "wikilink")、アリス
           - 新曲
-2.  **[知らない街で](https://ja.wikipedia.org/wiki/ALICE_II "wikilink")**
+2.  **[知らない街で](../Page/ALICE_II.md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:アリス／ストリングス編曲:[青木望](../Page/青木望.md "wikilink")
-3.  **[愛の光](https://ja.wikipedia.org/wiki/愛の光_\(アリスの曲\) "wikilink")**
+3.  **[愛の光](../Page/愛の光_\(アリスの曲\).md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:アリス
           - シングル・バージョン
 4.  **[走っておいで恋人よ](../Page/走っておいで恋人よ.md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:青木望
 5.  **[黒い瞳の少女](../Page/ALICE_IV.md "wikilink")**
       - 作詞:谷村新司／作曲:[堀内孝雄](../Page/堀内孝雄.md "wikilink")／編曲:矢沢透
-6.  **[あなたのために](https://ja.wikipedia.org/wiki/明日への讃歌_\(アリスの曲\) "wikilink")**
+6.  **[あなたのために](../Page/明日への讃歌_\(アリスの曲\).md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:[深町純](../Page/深町純.md "wikilink")
 7.  **[街路樹は知っていた](../Page/冬の稲妻.md "wikilink")**
       - 作詞:谷村新司／作曲:堀内孝雄／編曲:[石川鷹彦](../Page/石川鷹彦.md "wikilink")
 8.  **[明日への讃歌](../Page/今はもうだれも.md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:矢沢透
           - 75年のシングル・バージョン
-9.  **[LIBRA－右の心と左の心－](https://ja.wikipedia.org/wiki/ALICE_IX_謀反 "wikilink")**
+9.  **[LIBRA－右の心と左の心－](../Page/ALICE_IX_謀反.md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")
 10. **[今はもうだれも](../Page/今はもうだれも.md "wikilink")**
       - 作詞:[佐竹俊郎](https://ja.wikipedia.org/wiki/佐竹俊郎 "wikilink")／作曲: 佐竹俊郎／編曲:矢沢透
@@ -60,7 +60,7 @@
       - 作詞:谷村新司／作曲:[矢沢透](../Page/矢沢透.md "wikilink")／編曲:矢沢透、[大浜和史](https://ja.wikipedia.org/wiki/大浜和史 "wikilink")
 6.  **[秋止符](https://ja.wikipedia.org/wiki/秋止符 "wikilink")**
       - 作詞:谷村新司／作曲:堀内孝雄／編曲:石川鷹彦
-7.  **[エスピオナージ](https://ja.wikipedia.org/wiki/エスピオナージ_\(曲\) "wikilink")**
+7.  **[エスピオナージ](../Page/エスピオナージ_\(曲\).md "wikilink")**
       - 作詞:谷村新司／作曲:谷村新司／編曲:[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")
 8.  **[狂った果実](../Page/狂った果実_\(アリスの曲\).md "wikilink")**
       - 作詞:谷村新司／作曲:堀内孝雄／編曲:石川鷹彦

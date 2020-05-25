@@ -58,7 +58,7 @@
   - カメラマン - [笠原紳司](../Page/笠原紳司.md "wikilink")
   - 助監督 - [松林慎司](https://ja.wikipedia.org/wiki/松林慎司 "wikilink")
   - CMディレクター - [佐野大樹](../Page/佐野大樹_\(*pnish*\).md "wikilink")
-  - 制作チーフ - [川村亮介](https://ja.wikipedia.org/wiki/川村亮介 "wikilink")
+  - 制作チーフ - [川村亮介](../Page/川村亮介.md "wikilink")
   - タレント - [佐野和真](../Page/佐野和真.md "wikilink")
   - 広告代理店 - [高橋洋](../Page/高橋洋_\(俳優\).md "wikilink")
   - 津田沼寛治郎 - [津田寛治](../Page/津田寛治.md "wikilink")

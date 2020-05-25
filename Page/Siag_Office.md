@@ -1,7 +1,7 @@
 > この記事は[Siag Office](https://ja.wikipedia.org/wiki/Siag_Office)から翻訳されています。
 
 
-**Siag Office**は、[Unix系](../Page/Unix系.md "wikilink")OSのための、よく統合された[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")のオフィスパッケージである。[表計算ソフト](../Page/表計算ソフト.md "wikilink")の**SIAG**（"Scheme In A Grid"）、ワープロソフトの**Pathetic Writer**（PW）、アニメーションプログラムの**Egon Animator**、[テキストエディタ](../Page/テキストエディタ.md "wikilink")の**XedPlus**、[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")の**Xfiler**、プレビューアーの**Gvu**からなる\[1\]。
+**Siag Office**は、[Unix系](../Page/Unix系.md "wikilink")OSのための、よく統合された[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")のオフィスパッケージである。[表計算ソフト](../Page/表計算ソフト.md "wikilink")の**SIAG**（"Scheme In A Grid"）、ワープロソフトの**Pathetic Writer**（PW）、アニメーションプログラムの**Egon Animator**、[テキストエディタ](../Page/テキストエディタ.md "wikilink")の**XedPlus**、[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")の**Xfiler**、プレビューアーの**Gvu**からなる\[1\]。
 
 Siag Officeは軽量なことで有名で、[i486](https://ja.wikipedia.org/wiki/i486 "wikilink")[CPU](../Page/CPU.md "wikilink")に16MBのメモリを搭載する古いシステムでも動作する。しかし、この軽量さを保つために、[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")、Calligra Suite、[Microsoft Officeにある多くの機能を欠いている](../Page/Microsoft_Office.md "wikilink")。Siag Officeは[GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")ライセンスで配布されている。
 
@@ -11,7 +11,7 @@ Siag Officeは軽量なことで有名で、[i486](https://ja.wikipedia.org/wiki
 
 ### Siag
 
-Siagは、[X Window SystemとSchemeプログラミング言語を基にした](../Page/X_Window_System.md "wikilink")[表計算ソフト](../Page/表計算ソフト.md "wikilink")である。プログラムはいくつかのシステム向けに存在する。[SunOS](../Page/SunOS.md "wikilink")へのテキストベースのもの、[Atari](https://ja.wikipedia.org/wiki/Atari "wikilink")のための[GEMベースのもの](../Page/Graphics_Environment_Manager.md "wikilink")、[Xlib](https://ja.wikipedia.org/wiki/Xlib "wikilink")ベースのLinux向けのもの、[Xt](https://ja.wikipedia.org/wiki/Xt "wikilink")ベースの[POSIX](../Page/POSIX.md "wikilink")互換システム向けのものなどである。
+Siagは、[X Window SystemとSchemeプログラミング言語を基にした](../Page/X_Window_System.md "wikilink")[表計算ソフト](../Page/表計算ソフト.md "wikilink")である。プログラムはいくつかのシステム向けに存在する。[SunOS](../Page/SunOS.md "wikilink")へのテキストベースのもの、[Atari](https://ja.wikipedia.org/wiki/Atari "wikilink")のための[GEMベースのもの](../Page/Graphics_Environment_Manager.md "wikilink")、[Xlib](../Page/Xlib.md "wikilink")ベースのLinux向けのもの、[Xt](https://ja.wikipedia.org/wiki/Xt "wikilink")ベースの[POSIX](../Page/POSIX.md "wikilink")互換システム向けのものなどである。
 
 ### PW
 

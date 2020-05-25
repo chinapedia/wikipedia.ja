@@ -1,7 +1,7 @@
 > この記事は[サイトウ JxJx ジュン](https://ja.wikipedia.org/wiki/サイトウ_JxJx_ジュン)から翻訳されています。
 
 
-**サイトウ "JxJx" ジュン**（本名：齋藤 淳（さいとう じゅん）、[1973年](../Page/1973年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[須磨区](../Page/須磨区.md "wikilink")育ちの[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")バンド[YOUR SONG IS GOODの](../Page/YOUR_SONG_IS_GOOD.md "wikilink")[オルガン](../Page/オルガン.md "wikilink")、リーダー。[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")所属。既婚。
+**サイトウ "JxJx" ジュン**（本名：齋藤 淳（さいとう じゅん）、[1973年](../Page/1973年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[須磨区](../Page/須磨区.md "wikilink")育ちの[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")バンド[YOUR SONG IS GOODの](../Page/YOUR_SONG_IS_GOOD.md "wikilink")[オルガン](../Page/オルガン.md "wikilink")、リーダー。[カクバリズム](../Page/カクバリズム.md "wikilink")所属。既婚。
 
 ## 来歴
 

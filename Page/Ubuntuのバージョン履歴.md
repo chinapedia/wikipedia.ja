@@ -51,7 +51,7 @@ Ubuntu 7.04（Feisty Fawn）は、[2007年](../Page/2007年.md "wikilink")[4月1
 
 [Ubuntu-desktop-2-710-20080708.png](https://ja.wikipedia.org/wiki/File:Ubuntu-desktop-2-710-20080708.png "fig:Ubuntu-desktop-2-710-20080708.png")
 
-Ubuntu 7.10（Gusty Gibbon）は、2007年[10月18日](../Page/10月18日.md "wikilink")にリリースされた\[19\]。Ubuntu 7.10は、[AppArmor](https://ja.wikipedia.org/wiki/AppArmor "wikilink")セキュリティフレームワーク、より高速なデスクトップ検索、[NTFS-3G](https://ja.wikipedia.org/wiki/NTFS-3G "wikilink")によるより完全な[NTFS](https://ja.wikipedia.org/wiki/NTFS "wikilink")のサポートなどが追加され、[Compiz Fusionが標準で有効化された](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")。
+Ubuntu 7.10（Gusty Gibbon）は、2007年[10月18日](../Page/10月18日.md "wikilink")にリリースされた\[19\]。Ubuntu 7.10は、[AppArmor](https://ja.wikipedia.org/wiki/AppArmor "wikilink")セキュリティフレームワーク、より高速なデスクトップ検索、[NTFS-3G](https://ja.wikipedia.org/wiki/NTFS-3G "wikilink")によるより完全な[NTFS](https://ja.wikipedia.org/wiki/NTFS "wikilink")のサポートなどが追加され、[Compiz Fusionが標準で有効化された](../Page/Compiz_Fusion.md "wikilink")。
 
 ### Ubuntu 8.04 LTS (Hardy Heron)
 
@@ -95,7 +95,7 @@ Ubuntu 10.10（Maverick Meerkat）は、2010年[10月10日](../Page/10月10日.m
 
 [Ubuntu-11-04-cat.png](https://ja.wikipedia.org/wiki/File:Ubuntu-11-04-cat.png "fig:Ubuntu-11-04-cat.png")
 
-Ubuntu 11.04（Natty Narwhal）は、[2011年](../Page/2011年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")にリリースされた\[32\]。Ubuntu 11.04は、[GNOME Shellの代わりにUnityをユーザーインターフェースとして使っている](https://ja.wikipedia.org/wiki/GNOME_Shell "wikilink")。その他、[Rhythmbox](https://ja.wikipedia.org/wiki/Rhythmbox "wikilink")を[Banshee](https://ja.wikipedia.org/wiki/Banshee "wikilink")が置き換え、これがデフォルトの音楽プレーヤーになったほか、[OpenStack](https://ja.wikipedia.org/wiki/OpenStack "wikilink")のプラットフォームが加えられた\[33\]。
+Ubuntu 11.04（Natty Narwhal）は、[2011年](../Page/2011年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")にリリースされた\[32\]。Ubuntu 11.04は、[GNOME Shellの代わりにUnityをユーザーインターフェースとして使っている](https://ja.wikipedia.org/wiki/GNOME_Shell "wikilink")。その他、[Rhythmbox](../Page/Rhythmbox.md "wikilink")を[Banshee](https://ja.wikipedia.org/wiki/Banshee "wikilink")が置き換え、これがデフォルトの音楽プレーヤーになったほか、[OpenStack](https://ja.wikipedia.org/wiki/OpenStack "wikilink")のプラットフォームが加えられた\[33\]。
 
 ### Ubuntu 11.10 (Oneiric Ocelot)
 
@@ -107,7 +107,7 @@ Ubuntu 11.10（Oneric Ocelot）は、2011年[10月13日](../Page/10月13日.md "
 
 [Ubuntu_12.04.png](https://ja.wikipedia.org/wiki/File:Ubuntu_12.04.png "fig:Ubuntu_12.04.png")
 
-Ubuntu 12.04（Precise Pangolin）は、[2012年](../Page/2012年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にリリースされた\[36\]。本リリースはLTS版である。Ubuntu Software CenterやUnityに改良が加えられたほか、[Banshee](https://ja.wikipedia.org/wiki/Banshee "wikilink")から[Rhythmbox](https://ja.wikipedia.org/wiki/Rhythmbox "wikilink")にデフォルトの音楽プレーヤーが戻された。Ubuntu 12.04は、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") privacy extensionsがデフォルトで有効化されている最初のバージョンである\[37\]。
+Ubuntu 12.04（Precise Pangolin）は、[2012年](../Page/2012年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")にリリースされた\[36\]。本リリースはLTS版である。Ubuntu Software CenterやUnityに改良が加えられたほか、[Banshee](https://ja.wikipedia.org/wiki/Banshee "wikilink")から[Rhythmbox](../Page/Rhythmbox.md "wikilink")にデフォルトの音楽プレーヤーが戻された。Ubuntu 12.04は、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") privacy extensionsがデフォルトで有効化されている最初のバージョンである\[37\]。
 
 ### Ubuntu 12.10 (Quantal Quetzal)
 

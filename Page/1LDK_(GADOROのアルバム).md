@@ -5,7 +5,7 @@
 
 3枚目のオリジナル・アルバム『SUIGARA』以来のアルバムで、前作はメジャー・レーベルである[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売されたが、本作は地元の[宮崎県](../Page/宮崎県.md "wikilink")のインディーズ・レーベルのSUNART MUSICから発売した\[2\]。CDジャケットのアートワークは前作『SUIGARA』同様[NOVOL](https://ja.wikipedia.org/wiki/NOVOL "wikilink")が担当した\[3\]。アルバム収録曲から本作で1番初めに完成した楽曲「ハジマリ」が先行[配信されていた](../Page/音楽配信.md "wikilink")\[4\]\[5\]。
 
-客演アーティストに自身が[ラップを始めるきっかけとなり](https://ja.wikipedia.org/wiki/ラップ_\(音楽\) "wikilink")、周りからの声もあり自らダメ元でオファーをした[般若](../Page/般若_\(ラッパー\).md "wikilink")、GADOROと同じ宮崎県出身で宮崎の[バーで偶然出会ったのをきっけかでコラボレーションが実現した](../Page/バー_\(酒場\).md "wikilink")[電波少女](https://ja.wikipedia.org/wiki/電波少女 "wikilink")のメンバーであるハシシ、前作に続き[4s4ki](https://ja.wikipedia.org/wiki/4s4ki "wikilink")が参加している\[6\]。楽曲プロデュースには同じ宮崎出身の[DJ PMXを始め](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、熊井吾郎、PENTAXX.B.F、TIGAONE、Kiwy、S-NA、DJ ikipedia、SUMIKIといった[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")が参加している\[7\]\[8\]。
+客演アーティストに自身が[ラップを始めるきっかけとなり](https://ja.wikipedia.org/wiki/ラップ_\(音楽\) "wikilink")、周りからの声もあり自らダメ元でオファーをした[般若](../Page/般若_\(ラッパー\).md "wikilink")、GADOROと同じ宮崎県出身で宮崎の[バーで偶然出会ったのをきっけかでコラボレーションが実現した](../Page/バー_\(酒場\).md "wikilink")[電波少女](https://ja.wikipedia.org/wiki/電波少女 "wikilink")のメンバーであるハシシ、前作に続き[4s4ki](https://ja.wikipedia.org/wiki/4s4ki "wikilink")が参加している\[6\]。楽曲プロデュースには同じ宮崎出身の[DJ PMXを始め](../Page/DJ_PMX.md "wikilink")、[DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")、熊井吾郎、PENTAXX.B.F、TIGAONE、Kiwy、S-NA、DJ ikipedia、SUMIKIといった[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")が参加している\[7\]\[8\]。
 
 ## 内容
 

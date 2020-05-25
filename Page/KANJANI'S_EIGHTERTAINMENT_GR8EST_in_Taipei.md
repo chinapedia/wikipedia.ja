@@ -25,7 +25,7 @@
 10. **[オモイダマ](https://ja.wikipedia.org/wiki/オモイダマ "wikilink")**
 11. **[キング オブ 男\!](https://ja.wikipedia.org/wiki/キング_オブ_男! "wikilink")**
 12. **[T.W.L](https://ja.wikipedia.org/wiki/T.W.L/イエローパンジーストリート "wikilink")**
-13. **[イッツ マイ ソウル](https://ja.wikipedia.org/wiki/イッツ_マイ_ソウル "wikilink")**
+13. **[イッツ マイ ソウル](../Page/イッツ_マイ_ソウル.md "wikilink")**
 14. **[好きやねん、大阪。](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**
 15. **[罪と夏](https://ja.wikipedia.org/wiki/罪と夏 "wikilink")**
 16. **[がむしゃら行進曲](https://ja.wikipedia.org/wiki/がむしゃら行進曲 "wikilink")**

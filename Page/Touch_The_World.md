@@ -1,7 +1,7 @@
 > この記事は[Touch The World](https://ja.wikipedia.org/wiki/Touch_The_World)から翻訳されています。
 
 
-「**Touch The World**」（タッチ ザ ワールド）は、[さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")の6枚目のアルバム\[1\]。
+「**Touch The World**」（タッチ ザ ワールド）は、[さかいゆう](../Page/さかいゆう.md "wikilink")の6枚目のアルバム\[1\]。
 
 ## 解説
 

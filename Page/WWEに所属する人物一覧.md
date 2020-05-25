@@ -367,7 +367,7 @@
 
 ### 1985年
 
-  - [“ソウルマン” ロッキー・ジョンソン](https://ja.wikipedia.org/wiki/ロッキー・ジョンソン "wikilink")（"Soulman"Rocky Johnson）（スウィート・エボニィ・ダイアモンド）（1983年 - 1985年）
+  - [“ソウルマン” ロッキー・ジョンソン](../Page/ロッキー・ジョンソン.md "wikilink")（"Soulman"Rocky Johnson）（スウィート・エボニィ・ダイアモンド）（1983年 - 1985年）
   - [デビッド・シュルツ](https://ja.wikipedia.org/wiki/デビッド・シュルツ "wikilink")（David Schultz）（ロードアイランド・レッド、デイヴ・シュルツ）（1984年 - 1985年）
   - [ミスター・レスリング2号](https://ja.wikipedia.org/wiki/ジョニー・ウォーカー_\(プロレスラー\) "wikilink")（Mr. Wrestling II）（ジョニー・ウォーカー、ザ・グラップラー、ミスター・レスリング）（1985年）
   - [ウェンディ・リヒター](https://ja.wikipedia.org/wiki/ウェンディ・リヒター "wikilink")（Wendi Richter）（1982年、1984年 - 1985年）
@@ -439,7 +439,7 @@
 
   - [バロン・フォン・ラシク](https://ja.wikipedia.org/wiki/バロン・フォン・ラシク "wikilink")（Baron Von Raschke）（ジム・ラシク、フリッツ・フォンラシク）（1968年、1975年、1988年）
   - [ケン・パテラ](https://ja.wikipedia.org/wiki/ケン・パテラ "wikilink")（Ken Patera）（1976年 - 1977年、1980年 - 1981年、1984年、1987年 - 1988年）
-  - [シカ・アノアイ](https://ja.wikipedia.org/wiki/シカ・アノアイ "wikilink")（Sika Anoa'i）（シカ、シカ・アロファ・アノアイ）（1979年 - 1980年、1983年 - 1988年）
+  - [シカ・アノアイ](../Page/シカ・アノアイ.md "wikilink")（Sika Anoa'i）（シカ、シカ・アロファ・アノアイ）（1979年 - 1980年、1983年 - 1988年）
   - [“ザ・マグニフィセント”ドン・ムラコ](https://ja.wikipedia.org/wiki/ドン・ムラコ "wikilink")（"The Magnificent" Don Muraco）（ミスターX、ドクターX、アカオニ\[赤鬼\]）（1981年 - 1988年）
   - [ジェシー・“ザ・ボディ”・ベンチュラ](../Page/ジェシー・ベンチュラ.md "wikilink")（Jesse "The Body" Ventura）（サーフ・ベンチュラ）（1981年 - 1982年、1984年 - 1988年 ※その後2000年代よりスポット的に登場）
   - [キラー・ビー](https://ja.wikipedia.org/wiki/ブライアン・ブレアー "wikilink")（Killer Bee）（ブライアン・ブレアー、ビー・ブライアン・ブレアー、ザ・チャンプ）（1983年 - 1988年）
@@ -911,7 +911,7 @@
 
   - [クリス・ベノワ](../Page/クリス・ベノワ.md "wikilink")（Chris Benoit）（ペガサス・キッド、ワイルド・ペガサス、ダイナマイト・クリス、クリス・ベノイ）（2000年 - 2007年）\[2007年6月25日死去\]
 
-  - [ファビュラス・ムーラ](https://ja.wikipedia.org/wiki/ファビュラス・ムーラ "wikilink")（The Fabulous Moolah）（リリアン・エリソン、メイ・エリソン、スレイブガール・ムーラ、スパイダー・レディ）（1983年 - 2007年）\[2007年11月2日死去\]
+  - [ファビュラス・ムーラ](../Page/ファビュラス・ムーラ.md "wikilink")（The Fabulous Moolah）（リリアン・エリソン、メイ・エリソン、スレイブガール・ムーラ、スパイダー・レディ）（1983年 - 2007年）\[2007年11月2日死去\]
 
   - [テスト](../Page/アンドリュー・マーチン.md "wikilink")（Test）（マーチン・ケイン、アンドリュー・マーチン、TJ・サンダー）（1998年 - 2004年、2006年 - 2007年）\[2009年3月13日死去\]
 

@@ -1,7 +1,7 @@
 > この記事は[SEKIDO](https://ja.wikipedia.org/wiki/SEKIDO)から翻訳されています。
 
 
-[株式会社セキド](https://sekido-rc.com/) (Sekido Co., Ltd.)は東京都[国立市](../Page/国立市.md "wikilink")に[本社](../Page/本社.md "wikilink")を置く[DJI製品や](https://ja.wikipedia.org/wiki/DJI_\(会社\) "wikilink")[ROV](https://ja.wikipedia.org/wiki/ROV "wikilink")、[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")製品などの販売や[ドローン](https://ja.wikipedia.org/wiki/ドローン "wikilink")の講習などを行う販売代理店。
+[株式会社セキド](https://sekido-rc.com/) (Sekido Co., Ltd.)は東京都[国立市](../Page/国立市.md "wikilink")に[本社](../Page/本社.md "wikilink")を置く[DJI製品や](https://ja.wikipedia.org/wiki/DJI_\(会社\) "wikilink")[ROV](../Page/ROV.md "wikilink")、[ラジコン](https://ja.wikipedia.org/wiki/ラジコン "wikilink")製品などの販売や[ドローン](https://ja.wikipedia.org/wiki/ドローン "wikilink")の講習などを行う販売代理店。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 販売や講習のほか、[産業](../Page/産業.md "wikilink")用途でのドローンによる[空撮](https://ja.wikipedia.org/wiki/空撮 "wikilink")業務の[受託](https://ja.wikipedia.org/wiki/受託 "wikilink")も行う。
 
-2015年には[ROV](https://ja.wikipedia.org/wiki/ROV "wikilink")（水中ドローン）の販売を開始、2018年には[SUBLUE](https://www.sublue-sekido.com/)社と総代理店契約し[水中スクーター](../Page/水中スクーター.md "wikilink")の販売を始める。
+2015年には[ROV](../Page/ROV.md "wikilink")（水中ドローン）の販売を開始、2018年には[SUBLUE](https://www.sublue-sekido.com/)社と総代理店契約し[水中スクーター](../Page/水中スクーター.md "wikilink")の販売を始める。
 
 [東京都](../Page/東京都.md "wikilink")港区の「[DJI認定ストア 東京虎ノ門](https://sekidocorp.com/toranomon/)」と[横浜市](../Page/横浜市.md "wikilink")金沢区にドローントレーニング施設と併設店舗「[セキド DJI 横浜ベイサイド店](https://sekidocorp.com/yokohama/)」を運営する。
 

@@ -148,7 +148,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/MMJ_(ローカルアイドル)" title="wikilink">MMJ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ひめキュンフルーツ缶" title="wikilink">ひめキュンフルーツ缶</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DJ_ハッシー_&amp;_アッシー" title="wikilink">DJ ハッシー &amp; アッシー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ADAM_at" title="wikilink">ADAM at</a></li>
+<li><a href="../Page/ADAM_at.md" title="wikilink">ADAM at</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/カネコアヤノ" title="wikilink">カネコアヤノ</a></li>
 </ul></td>
 </tr>

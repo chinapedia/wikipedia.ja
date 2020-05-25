@@ -3,7 +3,7 @@
 
 **Jucika**（ユチカ、またはイチカ、あるいはジュチカ、もしくはユツィカ）は、[社会主義国](../Page/社会主義国.md "wikilink")[ハンガリー](../Page/ハンガリー.md "wikilink")の[風刺](../Page/風刺.md "wikilink")[新聞](../Page/新聞.md "wikilink")『』に[1959年](../Page/1959年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")から[1970年](../Page/1970年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")まで連載された[コミック・ストリップ](../Page/コミック・ストリップ.md "wikilink")および同名の[女性](../Page/女性.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")。
 
-作者は元[ハンガリー国鉄](https://ja.wikipedia.org/wiki/ハンガリー国鉄 "wikilink")の[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")で[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の。同作は[社会主義](../Page/社会主義.md "wikilink")時代のハンガリーにおける[ポップカルチャーの象徴的存在になっている](../Page/大衆文化.md "wikilink")\[1\]。
+作者は元[ハンガリー国鉄](https://ja.wikipedia.org/wiki/ハンガリー国鉄 "wikilink")の[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")で[漫画家](../Page/漫画家.md "wikilink")の。同作は[社会主義](../Page/社会主義.md "wikilink")時代のハンガリーにおける[ポップカルチャーの象徴的存在になっている](../Page/大衆文化.md "wikilink")\[1\]。
 
 ## 概要
 

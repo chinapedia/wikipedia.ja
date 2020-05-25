@@ -45,7 +45,7 @@ Airbnbは、2013年7月から、[Apache Hadoopや](https://ja.wikipedia.org/wiki
 
 ## 商用サポート
 
-ソフトウェアスタートアップのは、Apache Mesosに基づいた[分散オペレーティングシステム](https://ja.wikipedia.org/wiki/分散オペレーティングシステム "wikilink")であるを販売している\[19\]。 2015年9月、[Microsoftは](../Page/マイクロソフト.md "wikilink")、Mesosphereとの商業パートナーシップを結び、[Microsoft Azure向けのコンテナスケジューラとコンテナオーケストレーションサービスを構築することを発表した](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")\[20\]。2015年10月、[Oracleは](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[Oracle Container Cloud ServiceでのMesosに対するサポートを発表した](https://ja.wikipedia.org/wiki/Oracle_Cloud "wikilink")\[21\]。
+ソフトウェアスタートアップのは、Apache Mesosに基づいた[分散オペレーティングシステム](https://ja.wikipedia.org/wiki/分散オペレーティングシステム "wikilink")であるを販売している\[19\]。 2015年9月、[Microsoftは](../Page/マイクロソフト.md "wikilink")、Mesosphereとの商業パートナーシップを結び、[Microsoft Azure向けのコンテナスケジューラとコンテナオーケストレーションサービスを構築することを発表した](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")\[20\]。2015年10月、[Oracleは](../Page/オラクル_\(企業\).md "wikilink")、[Oracle Container Cloud ServiceでのMesosに対するサポートを発表した](https://ja.wikipedia.org/wiki/Oracle_Cloud "wikilink")\[21\]。
 
 ## 関連項目
 

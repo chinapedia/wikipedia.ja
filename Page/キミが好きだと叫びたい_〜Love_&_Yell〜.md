@@ -15,7 +15,7 @@
 4.  [熱くなれ](../Page/熱くなれ.md "wikilink") / [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")
 5.  [君が好きだと叫びたい](https://ja.wikipedia.org/wiki/君が好きだと叫びたい "wikilink") / [BAAD](../Page/BAAD.md "wikilink")
 6.  [1/3の純情な感情](https://ja.wikipedia.org/wiki/1/3の純情な感情 "wikilink") / [SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")
-7.  [フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink") / [REBECCA](https://ja.wikipedia.org/wiki/REBECCA "wikilink")
+7.  [フレンズ](../Page/フレンズ_\(レベッカの曲\).md "wikilink") / [REBECCA](https://ja.wikipedia.org/wiki/REBECCA "wikilink")
 8.  [働く男](../Page/働く男.md "wikilink") / [UNICORN](../Page/UNICORN.md "wikilink")
 9.  [君が欲しくてたまらない](../Page/君が欲しくてたまらない.md "wikilink") / [ZYYG](../Page/ZYYG.md "wikilink")
 10. [恋せよ乙女](../Page/恋せよ乙女_\(WANDSの曲\).md "wikilink") / [WANDS](../Page/WANDS.md "wikilink")

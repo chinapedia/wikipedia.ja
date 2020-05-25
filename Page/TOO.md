@@ -1,11 +1,11 @@
 > この記事は[TOO](https://ja.wikipedia.org/wiki/TOO)から翻訳されています。
 
 
-**TOO**（ティーオーオー、티오오）は、[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にデビューした[n.CHエンターテインメント所属の](https://ja.wikipedia.org/wiki/N.CHエンターテイメント "wikilink")[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の10人組男性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドル "wikilink")。
+**TOO**（ティーオーオー、티오오）は、[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")にデビューした[n.CHエンターテインメント所属の](../Page/N.CHエンターテイメント.md "wikilink")[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の10人組男性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドル "wikilink")。
 
 ## 概要
 
-TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink")[n.CH Entertainmentのサバイバル番組](https://ja.wikipedia.org/wiki/N.CHエンターテイメント "wikilink")｢TO BE WORLD KLASS｣から誕生した。グループ名のTOOは｢Ten Oriented Orchestra｣の略で、｢10の東洋の価値観を目指すオーケストラ｣という意味が込められている。
+TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink")[n.CH Entertainmentのサバイバル番組](../Page/N.CHエンターテイメント.md "wikilink")｢TO BE WORLD KLASS｣から誕生した。グループ名のTOOは｢Ten Oriented Orchestra｣の略で、｢10の東洋の価値観を目指すオーケストラ｣という意味が込められている。
 
 ## 来歴
 

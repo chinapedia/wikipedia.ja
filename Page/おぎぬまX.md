@@ -1,7 +1,7 @@
 > この記事は[おぎぬまX](https://ja.wikipedia.org/wiki/おぎぬまX)から翻訳されています。
 
 
-**おぎぬまX**（おぎぬまえっくす、男性、 - ）は、日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")出身。血液型はAB型。[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")[表現学部](https://ja.wikipedia.org/wiki/表現学部 "wikilink")卒。元[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")。本名：**荻沼 竜太**（おぎぬま りゅうた）。好きなものはパン、雨。嫌いなものは豆、虫。特技は一発ギャグ、妄想。
+**おぎぬまX**（おぎぬまえっくす、男性、 - ）は、日本の[漫画家](../Page/漫画家.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")出身。血液型はAB型。[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")[表現学部](https://ja.wikipedia.org/wiki/表現学部 "wikilink")卒。元[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")。本名：**荻沼 竜太**（おぎぬま りゅうた）。好きなものはパン、雨。嫌いなものは豆、虫。特技は一発ギャグ、妄想。
 
 ## 来歴
 

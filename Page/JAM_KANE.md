@@ -41,7 +41,7 @@ JAM KANE（ジャムケイン）は、VNO（木元 伸佳）と、urota（村田
 <li>Worldwide Thuggin' feat. K-MONT</li>
 <li>真夜中のシミさんイノさん feat. WOLF PACK</li>
 <li>Go Stupid feat. Homebwoi</li>
-<li>Got Big Music feat. <a href="https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱" title="wikilink">Anty The 紅乃壱</a></li>
+<li>Got Big Music feat. <a href="../Page/ANTY_the_紅乃壱.md" title="wikilink">Anty The 紅乃壱</a></li>
 <li>In The Bay We Go featKARIZMAKAZE and GOLDIE GOLD</li>
 <li>TYPHOON feat. <a href="../Page/DELI.md" title="wikilink">DELI</a></li>
 <li>Livin' The Life feat. Mista Mac</li>

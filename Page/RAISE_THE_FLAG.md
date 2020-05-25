@@ -43,7 +43,7 @@
       -
         作詞：ZERO (YVES\&ADAMS), Ricky Luna, Rolando Luna, Deekei、作曲：Ricky Luna, Rolando Luna, Deekei
     <!-- end list -->
-      - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink") ZOMBIE de DANCE HALLOWEEN HORROR NIGHTS CMソング
+      - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink") ZOMBIE de DANCE HALLOWEEN HORROR NIGHTS CMソング
 8.  **[GOLDEN](https://ja.wikipedia.org/wiki/SCARLET_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[4:04\]
       -
         作詞：[HIRO for Digz, Inc. Group](https://ja.wikipedia.org/wiki/HIRO_\(音楽プロデューサー\) "wikilink")、作曲：[Erik Lidbom](https://ja.wikipedia.org/wiki/エリック・リボム "wikilink"), Carlos Okabe

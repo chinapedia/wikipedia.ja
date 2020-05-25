@@ -48,7 +48,7 @@
 | 覚悟決めや\!                     | テレビアニメ『[一騎当千 Dragon Destiny](../Page/一騎当千_\(漫画\).md "wikilink")』キャラクターソング                                                                          |
 | 黙っと休み時間                     | テレビアニメ『[らき☆すた](https://ja.wikipedia.org/wiki/らき☆すた_\(アニメ\) "wikilink")』キャラクターソング                                                                   |
 | 桜笑み君想う                      | テレビアニメ『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』挿入歌                                                                              |
-| 過度の期待にご用心。（もしもチアキが歌ったらVer.） | テレビアニメ『[みなみけ](https://ja.wikipedia.org/wiki/みなみけ "wikilink")』キャラクターソング                                                                             |
+| 過度の期待にご用心。（もしもチアキが歌ったらVer.） | テレビアニメ『[みなみけ](../Page/みなみけ.md "wikilink")』キャラクターソング                                                                                                |
 | 逃しません・・・ですわ\!               | テレビアニメ『[咲-Saki-](../Page/咲-Saki-.md "wikilink")』キャラクターソング                                                                                          |
 | BE TOGETHER                 | テレビアニメ『[世紀末オカルト学院](https://ja.wikipedia.org/wiki/世紀末オカルト学院 "wikilink")』挿入歌                                                                         |
 | 通し道歌                        | テレビアニメ『[境界線上のホライゾン](https://ja.wikipedia.org/wiki/境界線上のホライゾン "wikilink")』挿入歌                                                                       |

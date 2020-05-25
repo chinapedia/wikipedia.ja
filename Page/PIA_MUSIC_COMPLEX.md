@@ -67,7 +67,7 @@
 #### 出演者
 
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")
-  - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+  - [さかいゆう](../Page/さかいゆう.md "wikilink")
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
 
 ### 2014年

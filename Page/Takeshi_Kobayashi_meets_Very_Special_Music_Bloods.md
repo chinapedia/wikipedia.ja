@@ -45,7 +45,7 @@
       - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")：Vocal
       - [三浦大知](../Page/三浦大知.md "wikilink")：Vocal
       - 小林武史：Keyboards
-      - [河村 "カースケ" 智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：Drums
+      - [河村 "カースケ" 智康](../Page/河村智康.md "wikilink")：Drums
       - [亀田誠治](../Page/亀田誠治.md "wikilink")：Bass
       - [小倉博和](../Page/小倉博和.md "wikilink")：Guitar
   - Happy Life (unreleasd version)

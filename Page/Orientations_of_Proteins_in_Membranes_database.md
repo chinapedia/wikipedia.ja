@@ -1,7 +1,7 @@
 > この記事は[Orientations of Proteins in Membranes database](https://ja.wikipedia.org/wiki/Orientations_of_Proteins_in_Membranes_database)から翻訳されています。
 
 
-**Orientations of Proteins in Membranes** (**OPM**) **database**は、[脂質二重膜](https://ja.wikipedia.org/wiki/脂質二重膜 "wikilink")に対する[膜タンパク質](https://ja.wikipedia.org/wiki/膜タンパク質 "wikilink")[構造の空間的位置を提供する](https://ja.wikipedia.org/wiki/タンパク質構造 "wikilink")\[1\]\[2\]\[3\]\[4\]。タンパク質の位置は脂質二重膜の[陰溶媒](https://ja.wikipedia.org/wiki/陰溶媒 "wikilink")和モデルを使って計算される\[5\]\[6\]。計算の結果は膜中のおよびの空間的配置の実験的な研究に対して検証された\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]。
+**Orientations of Proteins in Membranes** (**OPM**) **database**は、[脂質二重膜](https://ja.wikipedia.org/wiki/脂質二重膜 "wikilink")に対する[膜タンパク質](../Page/膜タンパク質.md "wikilink")[構造の空間的位置を提供する](https://ja.wikipedia.org/wiki/タンパク質構造 "wikilink")\[1\]\[2\]\[3\]\[4\]。タンパク質の位置は脂質二重膜の[陰溶媒](https://ja.wikipedia.org/wiki/陰溶媒 "wikilink")和モデルを使って計算される\[5\]\[6\]。計算の結果は膜中のおよびの空間的配置の実験的な研究に対して検証された\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]。
 
 タンパク質構造は[蛋白質構造データバンク](../Page/蛋白質構造データバンク.md "wikilink")から取られる。OPMは膜会合型タンパク質のファミリーおよびスーパーファミリーへの構造的部類、、膜結合状態におけるタンパク質の[四次構造](../Page/四次構造.md "wikilink")、ならびにそれぞれのタンパク質の輸送先の[膜の種類も提供する](../Page/生体膜.md "wikilink")。計算された膜境界をダミー原子として含む座標ファイルがダウンロード可能である。ウェブサイトでは[Jmol](https://ja.wikipedia.org/wiki/Jmol "wikilink")を使って膜境界平面付きのタンパク質構造の可視化ができる。
 

@@ -1,7 +1,7 @@
 > この記事は[UFC on ESPN: Overeem vs. Rozenstruik](https://ja.wikipedia.org/wiki/UFC_on_ESPN:_Overeem_vs._Rozenstruik)から翻訳されています。
 
 
-**UFC on ESPN: Overeem vs. Rozenstruik**（ユーエフシー・オン・イーエスピーエヌ：オーフレイム・バーサス・ホーゼンストライク、別名**UFC on ESPN 7**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2019年](../Page/2019年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")の[キャピタル・ワン・アリーナ](https://ja.wikipedia.org/wiki/キャピタル・ワン・アリーナ "wikilink")で開催された。
+**UFC on ESPN: Overeem vs. Rozenstruik**（ユーエフシー・オン・イーエスピーエヌ：オーフレイム・バーサス・ホーゼンストライク、別名**UFC on ESPN 7**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2019年](../Page/2019年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")、[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")の[キャピタル・ワン・アリーナ](../Page/キャピタル・ワン・アリーナ.md "wikilink")で開催された。
 
 ## 大会概要
 

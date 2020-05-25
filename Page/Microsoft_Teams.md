@@ -49,7 +49,7 @@ Slackは[ニューヨーク・タイムズ](../Page/ニューヨーク・タイ�
 
 ## 関連項目
 
-  - [Cisco Webex](https://ja.wikipedia.org/wiki/Cisco_Webex "wikilink")
+  - [Cisco Webex](../Page/Cisco_Webex.md "wikilink")
   - [Slack](https://ja.wikipedia.org/wiki/Slack_\(ソフトウェア\) "wikilink")
   - [Discord](https://ja.wikipedia.org/wiki/Discord_\(ソフトウェア\) "wikilink")
   - [Jitsi](../Page/Jitsi.md "wikilink")

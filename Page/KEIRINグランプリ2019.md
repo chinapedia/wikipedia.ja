@@ -49,7 +49,7 @@
 <td><p><a href="../Page/佐藤慎太郎.md" title="wikilink">佐藤慎太郎</a></p></td>
 <td></td>
 <td><p>取得賞金額　第5位</p></td>
-<td><p>5回目 （<a href="https://ja.wikipedia.org/wiki/KEIRINグランプリ06" title="wikilink">13年ぶり</a>）</p></td>
+<td><p>5回目 （<a href="../Page/KEIRINグランプリ06.md" title="wikilink">13年ぶり</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -74,14 +74,14 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平原康多" title="wikilink">平原康多</a></p></td>
+<td><p><a href="../Page/平原康多.md" title="wikilink">平原康多</a></p></td>
 <td></td>
 <td><p>取得賞金額　第7位</p></td>
 <td><p>nowrap|10回目 （7年<strong>連続</strong>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村上博幸" title="wikilink">村上博幸</a></p></td>
+<td><p><a href="../Page/村上博幸.md" title="wikilink">村上博幸</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/第28回寛仁親王牌・世界選手権記念トーナメント" title="wikilink">寛仁親王牌</a>（<a href="../Page/前橋競輪場.md" title="wikilink">前橋</a>） 優勝</p></td>
 <td><p>4回目 （2年<strong>連続</strong>）</p></td>
@@ -149,7 +149,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平原康多" title="wikilink">平原康多</a></p></td>
+<td><p><a href="../Page/平原康多.md" title="wikilink">平原康多</a></p></td>
 <td></td>
 <td><p>SS</p></td>
 <td><p>3/4車輪</p></td>
@@ -221,7 +221,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村上博幸" title="wikilink">村上博幸</a></p></td>
+<td><p><a href="../Page/村上博幸.md" title="wikilink">村上博幸</a></p></td>
 <td></td>
 <td><p>SS</p></td>
 <td><p>4車身</p></td>
@@ -274,7 +274,7 @@
   - 立川での開催は3年ぶり、[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")以来。
   - 落車もしくは失格が発生しなかったのは、[KEIRINグランプリ2015](https://ja.wikipedia.org/wiki/KEIRINグランプリ2015 "wikilink")以来。
   - グランプリにおける同着の事例（5着が2名）は、[KEIRINグランプリ2010](https://ja.wikipedia.org/wiki/KEIRINグランプリ2010 "wikilink")（7着が2名）以来。
-  - 3連単は[KEIRINグランプリ05](https://ja.wikipedia.org/wiki/KEIRINグランプリ05 "wikilink")と同じ14万円台で、グランプリ史上2番目の好配当となった\[22\]\[23\]。
+  - 3連単は[KEIRINグランプリ05](../Page/KEIRINグランプリ05.md "wikilink")と同じ14万円台で、グランプリ史上2番目の好配当となった\[22\]\[23\]。
   - シリーズ3日間の総売上は、119億0287万3200円で、目標の120億円は達成できずも、前年比5.5%増となった\[24\]。
     なお、GP単体でも52億1579万6700円\[25\]\[26\]と微増。ただし、12月29日開催の[大井競馬場](../Page/大井競馬場.md "wikilink")の[東京大賞典](https://ja.wikipedia.org/wiki/東京大賞典#歴史 "wikilink")（第65回大会・56億0627万5800円\[27\]）に対して、売上が初めて下回った。
 

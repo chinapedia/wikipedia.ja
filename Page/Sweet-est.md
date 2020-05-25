@@ -35,7 +35,7 @@
 9.  **[オートリバースで恋してる](https://ja.wikipedia.org/wiki/LOVIN'_YOU_\(山下久美子の曲\) "wikilink")**
       - 9thシングル「LOVIN' YOU」のB面曲。
       - このアルバムにて、初[CD化された](../Page/コンパクトディスク.md "wikilink")。
-10. **[最後のドアーまで](https://ja.wikipedia.org/wiki/And_Sophia's_back "wikilink")**
+10. **[最後のドアーまで](../Page/And_Sophia's_back.md "wikilink")**
       - 8thスタジオ・アルバム『And Sophia's back』収録曲。
 11. **[Cry For The Moon](https://ja.wikipedia.org/wiki/瞳いっぱいの涙 "wikilink")**
       - 11thシングル「瞳いっぱいの涙」のB面曲。

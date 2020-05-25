@@ -35,7 +35,7 @@
   - 他のツールと併用する必要なし
     トーク、掲示板、アドレス帳、アンケート、カレンダー、メール、ファイル共有機能が既に備わっている。
   - 組織と連動した階層式アドレス帳を搭載
-    SSO（[OAuth](https://ja.wikipedia.org/wiki/OAuth "wikilink")、[SAML](https://ja.wikipedia.org/wiki/Security_Assertion_Markup_Language "wikilink") ）利用可\[10\]。
+    SSO（[OAuth](https://ja.wikipedia.org/wiki/OAuth "wikilink")、[SAML](../Page/Security_Assertion_Markup_Language.md "wikilink") ）利用可\[10\]。
     低価額
     メールとストレージとスケジューラーが使えてG-Suiteの半額以下の月額500円/IDから利用可能。
   - 階層型アドレス帳

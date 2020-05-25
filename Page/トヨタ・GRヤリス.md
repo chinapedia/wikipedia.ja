@@ -58,7 +58,7 @@
   - [スーパー耐久](../Page/スーパー耐久.md "wikilink")
   - [GR (トヨタ自動車)](../Page/GR_\(トヨタ自動車\).md "wikilink")
   - [トヨタ・ヤリス](../Page/トヨタ・ヤリス.md "wikilink")
-  - [トヨタ・ヤリスクロス](https://ja.wikipedia.org/wiki/トヨタ・ヤリスクロス "wikilink")
+  - [トヨタ・ヤリスクロス](../Page/トヨタ・ヤリスクロス.md "wikilink")
   - [スポーツカー](../Page/スポーツカー.md "wikilink")
   - [ホットハッチ](../Page/ホットハッチ.md "wikilink")
 

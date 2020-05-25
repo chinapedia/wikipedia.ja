@@ -28,7 +28,7 @@
 | 19  | **[Good-bye](https://ja.wikipedia.org/wiki/Good-bye_\(Superflyの曲\) "wikilink")**                            |                  |
 | 20  | **[99](https://ja.wikipedia.org/wiki/99_\(Superflyの曲\) "wikilink")**                                        |                  |
 | EN1 | **[サンディ](../Page/0_\(Superflyのアルバム\).md "wikilink")**                                                       |                  |
-| EN2 | [愛をこめて花束を](https://ja.wikipedia.org/wiki/愛をこめて花束を "wikilink")                                               |                  |
+| EN2 | [愛をこめて花束を](../Page/愛をこめて花束を.md "wikilink")                                                                  |                  |
 | EN3 | '''[フレア](https://ja.wikipedia.org/wiki/フレア_\(Superflyの曲\) "wikilink")                                       | 曲の途中で大量の風船が落ちてくる |
 | 24  | Behin the scene of Superfly Arena Tour 2019 "0"                                                             |                  |
 

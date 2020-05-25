@@ -1,7 +1,7 @@
 > この記事は[JR西日本ファーストキャビン](https://ja.wikipedia.org/wiki/JR西日本ファーストキャビン)から翻訳されています。
 
 
-**株式会社JR西日本ファーストキャビン**（ジェイアールにしにほんファーストキャビン）は、かつて[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置いていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ホテル](../Page/ホテル.md "wikilink")運営会社。[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）と[ファーストキャビン](https://ja.wikipedia.org/wiki/ファーストキャビン "wikilink")（2006年創業、2020年4月24日破産\[1\]）が設立した[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")。JR西日本の鉄道営業エリアを中心に「ファーストキャビン・ステーション」のブランド名で、キャビンスタイルの簡易宿所（[カプセルホテル](../Page/カプセルホテル.md "wikilink")）を営業していた。
+**株式会社JR西日本ファーストキャビン**（ジェイアールにしにほんファーストキャビン）は、かつて[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置いていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ホテル](../Page/ホテル.md "wikilink")運営会社。[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）と[ファーストキャビン](../Page/ファーストキャビン.md "wikilink")（2006年創業、2020年4月24日破産\[1\]）が設立した[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")。JR西日本の鉄道営業エリアを中心に「ファーストキャビン・ステーション」のブランド名で、キャビンスタイルの簡易宿所（[カプセルホテル](../Page/カプセルホテル.md "wikilink")）を営業していた。
 
 ## 概要
 
@@ -19,7 +19,7 @@ JR西日本グループは、ホテルチェーンとして、ほかに、[JR西
 
 ## 関連項目
 
-  - [JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")
+  - [JRホテルグループ](../Page/JRホテルグループ.md "wikilink")
 
 ## 外部リンク
 

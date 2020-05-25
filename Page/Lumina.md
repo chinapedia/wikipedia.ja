@@ -13,7 +13,7 @@
 
 デスクトップとアプリケーションメニューは、最初に起動した時に動的に設定され、デスクトップ環境は自動でデスクトップアイコンとして、インストールされたアプリケーションを検索しメニューに追加する。デフォルトのパネルは[スタートメニュー](https://ja.wikipedia.org/wiki/スタートメニュー "wikilink")と[タスクマネージャ](https://ja.wikipedia.org/wiki/タスクマネージャ "wikilink")、[システムトレイ](https://ja.wikipedia.org/wiki/システムトレイ "wikilink")を含んでおり、これらの場所はカスタマイズ可能である。メニューはスタートメニューか、デスクトップの背景をマウスで右クリックすることによってアクセス可能である。
 
-Luminaは次のような[ユーティリティ](https://ja.wikipedia.org/wiki/ユーティリティ "wikilink")を含む。[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")の*Insight*、ファイルの形式とその他の詳細を報告する*File information*、選択されたファイルやフォルダに基づきアプリケーションを起動するグラフィカルなユーティリティ、*Lumina Open*などである。
+Luminaは次のような[ユーティリティ](https://ja.wikipedia.org/wiki/ユーティリティ "wikilink")を含む。[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")の*Insight*、ファイルの形式とその他の詳細を報告する*File information*、選択されたファイルやフォルダに基づきアプリケーションを起動するグラフィカルなユーティリティ、*Lumina Open*などである。
 
 ## 移植
 

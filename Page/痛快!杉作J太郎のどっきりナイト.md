@@ -45,7 +45,7 @@
 
 ### パーソナリティ
 
-  - [杉作J太郎](../Page/杉作J太郎.md "wikilink")（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[俳優](../Page/俳優.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[ライター](../Page/著作家.md "wikilink")・[映画監督](../Page/映画監督.md "wikilink")。[男の墓場プロダクション](https://ja.wikipedia.org/wiki/男の墓場プロダクション "wikilink")代表）
+  - [杉作J太郎](../Page/杉作J太郎.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")・[俳優](../Page/俳優.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[ライター](../Page/著作家.md "wikilink")・[映画監督](../Page/映画監督.md "wikilink")。[男の墓場プロダクション](https://ja.wikipedia.org/wiki/男の墓場プロダクション "wikilink")代表）
 
 ### パートナー
 

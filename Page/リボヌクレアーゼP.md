@@ -25,7 +25,7 @@
 
 ## RNase Pを利用した治療
 
-現在RNase Pは、[単純ヘルペスウイルス](../Page/単純ヘルペスウイルス.md "wikilink")\[28\]、[サイトメガロウイルス](https://ja.wikipedia.org/wiki/サイトメガロウイルス "wikilink")\[29\]\[30\]、[インフルエンザ](../Page/インフルエンザ.md "wikilink")や他の[呼吸器感染症](https://ja.wikipedia.org/wiki/気道感染 "wikilink")\[31\]、[ヒト免疫不全ウイルス](../Page/ヒト免疫不全ウイルス.md "wikilink")\[32\]、[BCR-ABL融合遺伝子による](../Page/フィラデルフィア染色体.md "wikilink")[がん](../Page/悪性腫瘍.md "wikilink")\[33\]\[34\]などの疾患に対する治療法としての研究が行われている。RNase Pを利用した治療にはexternal guide sequence（EGS）と呼ばれるガイド配列が利用される。EGSは、標的ウイルスやがん遺伝子の[mRNAに対し相補的で](../Page/伝令RNA.md "wikilink")、tRNAのTループとアクセプターステムを模倣する構造を持つよう設計される\[35\]。このような構造を持つEGSはRNase Pによって認識され、標的mRNAは切断される。EGSを用いた治療はマウス培養細胞と生体で有効性が示されている\[36\]。
+現在RNase Pは、[単純ヘルペスウイルス](../Page/単純ヘルペスウイルス.md "wikilink")\[28\]、[サイトメガロウイルス](https://ja.wikipedia.org/wiki/サイトメガロウイルス "wikilink")\[29\]\[30\]、[インフルエンザ](../Page/インフルエンザ.md "wikilink")や他の[呼吸器感染症](../Page/気道感染.md "wikilink")\[31\]、[ヒト免疫不全ウイルス](../Page/ヒト免疫不全ウイルス.md "wikilink")\[32\]、[BCR-ABL融合遺伝子による](../Page/フィラデルフィア染色体.md "wikilink")[がん](../Page/悪性腫瘍.md "wikilink")\[33\]\[34\]などの疾患に対する治療法としての研究が行われている。RNase Pを利用した治療にはexternal guide sequence（EGS）と呼ばれるガイド配列が利用される。EGSは、標的ウイルスやがん遺伝子の[mRNAに対し相補的で](../Page/伝令RNA.md "wikilink")、tRNAのTループとアクセプターステムを模倣する構造を持つよう設計される\[35\]。このような構造を持つEGSはRNase Pによって認識され、標的mRNAは切断される。EGSを用いた治療はマウス培養細胞と生体で有効性が示されている\[36\]。
 
 ## 出典
 

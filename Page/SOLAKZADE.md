@@ -1,7 +1,7 @@
 > この記事は[SOLAKZADE](https://ja.wikipedia.org/wiki/SOLAKZADE)から翻訳されています。
 
 
-[SOLAKZADE](https://ja.wikipedia.org/wiki/SOLAKZADE "wikilink")（ソラックザーデ）は、2005年に[岡本龍允](https://ja.wikipedia.org/wiki/岡本龍允 "wikilink")、[岡本竜](https://ja.wikipedia.org/wiki/岡本竜 "wikilink")の兄弟によって大阪で創業、2012年7月に東京・表参道にてオープンした日本初のヴィンテージ・アイウェア専門店。
+[SOLAKZADE](../Page/SOLAKZADE.md "wikilink")（ソラックザーデ）は、2005年に[岡本龍允](https://ja.wikipedia.org/wiki/岡本龍允 "wikilink")、[岡本竜](https://ja.wikipedia.org/wiki/岡本竜 "wikilink")の兄弟によって大阪で創業、2012年7月に東京・表参道にてオープンした日本初のヴィンテージ・アイウェア専門店。
 
 2015年1月に世界初のメンズ専門アンティークジュエリーの専門店として、ジュエラー部門をスタート。
 

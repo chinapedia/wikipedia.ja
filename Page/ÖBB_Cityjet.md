@@ -11,7 +11,7 @@
 
 2017年12月のダイヤ改正の時点で、[ウィーン西駅](../Page/ウィーン西駅.md "wikilink")からトゥルナーフェルトを経由して[アムシュテッテン](https://ja.wikipedia.org/wiki/アムシュテッテン "wikilink")までのすべてのREX 200列車が、4744シリーズのCityjet編成で運行されている。 許容最高速度が160 km/hとなるため、REX PLUSに改名された。
 
-2019年12月のダイヤ改正時、[オーストリア西部鉄道](https://ja.wikipedia.org/wiki/オーストリア西部鉄道 "wikilink")経由であった[Regional Express（REX）は新種別のCityjet](https://ja.wikipedia.org/wiki/レギオナルエクスプレス "wikilink") Xpress（CJX）として運行されるようになった。
+2019年12月のダイヤ改正時、[オーストリア西部鉄道](https://ja.wikipedia.org/wiki/オーストリア西部鉄道 "wikilink")経由であった[Regional Express（REX）は新種別のCityjet](../Page/レギオナルエクスプレス.md "wikilink") Xpress（CJX）として運行されるようになった。
 
 ## デザイン
 

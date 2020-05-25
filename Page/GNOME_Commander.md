@@ -1,7 +1,7 @@
 > この記事は[GNOME Commander](https://ja.wikipedia.org/wiki/GNOME_Commander)から翻訳されています。
 
 
-**GNOME Commander**は、2つのパネルを持った[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")で、[GNOME](../Page/GNOME.md "wikilink")のために開発されている。[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")ツールキットとGnomeVFS、GVfsなどの技術を用いている。
+**GNOME Commander**は、2つのパネルを持った[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")で、[GNOME](../Page/GNOME.md "wikilink")のために開発されている。[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")ツールキットとGnomeVFS、GVfsなどの技術を用いている。
 
 ## 機能
 

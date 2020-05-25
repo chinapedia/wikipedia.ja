@@ -1488,7 +1488,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/plane" title="wikilink">plane</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ONIGAWARA" title="wikilink">ONIGAWARA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ザ・チャレンジ_(バンド)" title="wikilink">ザ・チャレンジ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ADAM_at" title="wikilink">ADAM at</a></li>
+<li><a href="../Page/ADAM_at.md" title="wikilink">ADAM at</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Dr.DOWNER" title="wikilink">Dr.DOWNER</a></li>
 </ul></td>
 <td><ul>

@@ -1,7 +1,7 @@
 > この記事は[CGillust](https://ja.wikipedia.org/wiki/CGillust)から翻訳されています。
 
 
-**CGillust**（シージーイラスト）は、[デリーター](https://ja.wikipedia.org/wiki/デリーター "wikilink")株式会社（DELETER.Inc.）が販売している[Windows専用コミックイラスト向け](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ペイントソフト](../Page/ペイントソフト.md "wikilink")である。[openCanvas](https://ja.wikipedia.org/wiki/openCanvas "wikilink")のOEM版。初登場時は「**COMIC ART CG illust**」（コミックアート シージーイラスト）という全称で発売された。
+**CGillust**（シージーイラスト）は、[デリーター](../Page/デリーター.md "wikilink")株式会社（DELETER.Inc.）が販売している[Windows専用コミックイラスト向け](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ペイントソフト](../Page/ペイントソフト.md "wikilink")である。[openCanvas](https://ja.wikipedia.org/wiki/openCanvas "wikilink")のOEM版。初登場時は「**COMIC ART CG illust**」（コミックアート シージーイラスト）という全称で発売された。
 
 openCanvas 6のパッケージ版が発売されることで、CGillustは販売終了となった。
 

@@ -19,7 +19,7 @@ GNOME 2.0は、前述のように2002年6月にリリースされた。このリ
 
 [GNOME_2.2_on_Red_Hat_Linux_9_--_2003-02.png](https://ja.wikipedia.org/wiki/File:GNOME_2.2_on_Red_Hat_Linux_9_--_2003-02.png "fig:GNOME_2.2_on_Red_Hat_Linux_9_--_2003-02.png")
 
-GNOME 2.2は、[2003年](../Page/2003年.md "wikilink")2月にリリースされた。このリリースでは、[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")（[Nautilus](https://ja.wikipedia.org/wiki/Nautilus "wikilink")）の改善が行われ、コンテキストメニューにおけるプラグインのサポートなどが追加された。また、最近開いたファイルに、デスクトップ上部のメニューからアクセスできるようになっている\[3\]。
+GNOME 2.2は、[2003年](../Page/2003年.md "wikilink")2月にリリースされた。このリリースでは、[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")（[Nautilus](https://ja.wikipedia.org/wiki/Nautilus "wikilink")）の改善が行われ、コンテキストメニューにおけるプラグインのサポートなどが追加された。また、最近開いたファイルに、デスクトップ上部のメニューからアクセスできるようになっている\[3\]。
 
 ### GNOME 2.4
 

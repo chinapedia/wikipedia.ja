@@ -25,7 +25,7 @@
         作詞：[Komei Kobayashi](https://ja.wikipedia.org/wiki/Komei_Kobayashi "wikilink")、作曲：Josef Melin・Christofer Erixon、編曲：Josef Melin
 4.  **[ホメチギリスト](https://ja.wikipedia.org/wiki/ホメチギリスト/傷だらけの愛 "wikilink")** \[3:55\]
       -
-        作詞・作曲：[岩崎貴文](https://ja.wikipedia.org/wiki/岩崎貴文 "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+        作詞・作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 11thシングルの1曲目
 5.  **[傷だらけの愛](https://ja.wikipedia.org/wiki/ホメチギリスト/傷だらけの愛 "wikilink")** \[4:44\]

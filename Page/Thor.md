@@ -1,7 +1,7 @@
 > この記事は[Thor](https://ja.wikipedia.org/wiki/Thor)から翻訳されています。
 
 
-**Thor**（[ソア](https://ja.wikipedia.org/wiki/ソア "wikilink")、[ソー](https://ja.wikipedia.org/wiki/ソー "wikilink")）は、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")によって開発された[ロイヤリティフリー](https://ja.wikipedia.org/wiki/ロイヤリティフリー "wikilink")のビデオ[コーデック](../Page/コーデック.md "wikilink")（[動画圧縮](https://ja.wikipedia.org/wiki/動画圧縮 "wikilink")規格）である。Thorの仕様は、様々な[インターネットドラフト](https://ja.wikipedia.org/wiki/インターネットドラフト "wikilink")で利用可能であった\[1\]。ちなみにThorは北欧神話の[トール](../Page/トール.md "wikilink")神を意味する。
+**Thor**（[ソア](https://ja.wikipedia.org/wiki/ソア "wikilink")、[ソー](https://ja.wikipedia.org/wiki/ソー "wikilink")）は、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")によって開発された[ロイヤリティフリー](https://ja.wikipedia.org/wiki/ロイヤリティフリー "wikilink")のビデオ[コーデック](../Page/コーデック.md "wikilink")（[動画圧縮](https://ja.wikipedia.org/wiki/動画圧縮 "wikilink")規格）である。Thorの仕様は、様々な[インターネットドラフト](../Page/インターネットドラフト.md "wikilink")で利用可能であった\[1\]。ちなみにThorは北欧神話の[トール](../Page/トール.md "wikilink")神を意味する。
 
 2015年7月22日に（ロイヤリティフリーの動画圧縮規格を策定するプロジェクト）のビデオ標準の候補として[IETF](https://ja.wikipedia.org/wiki/IETF "wikilink")（インターネット技術特別調査委員会）に提出された\[2\]。 Thorは、[H.265](https://ja.wikipedia.org/wiki/H.265 "wikilink")(HEVC)でも使われているシスコの技術要素を使用している\[3\]。 NETVCの業務の一部として、Thorで使われている[Constrained Low-Pass Filter](https://tools.ietf.org/id/draft-midtskogen-netvc-clpf-02.html) (CLPF)と[フレーム間予測](../Page/フレーム間予測.md "wikilink")技術は、[Daala](https://ja.wikipedia.org/wiki/Daala "wikilink")コーデック由来の技術と合わせて試験された\[4\]。
 

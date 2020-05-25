@@ -1,7 +1,7 @@
 > この記事は[BAT \(企業群\)](https://ja.wikipedia.org/wiki/BAT_\(企業群\))から翻訳されています。
 
 
-**BAT**（バット）は、[中国の大手](../Page/中華人民共和国.md "wikilink")[IT系企業](../Page/情報技術.md "wikilink")3社である、[Baidu](../Page/百度.md "wikilink")（百度、バイドゥ）、[Alibaba](https://ja.wikipedia.org/wiki/アリババグループ "wikilink")（阿里巴巴集団、アリババ）、[Tencent](https://ja.wikipedia.org/wiki/テンセント "wikilink")（騰訊、テンセント）の頭文字を1つずつとった語であり\[1\]、これらの企業の総称でもある。
+**BAT**（バット）は、[中国の大手](../Page/中華人民共和国.md "wikilink")[IT系企業](../Page/情報技術.md "wikilink")3社である、[Baidu](../Page/百度.md "wikilink")（百度、バイドゥ）、[Alibaba](../Page/アリババグループ.md "wikilink")（阿里巴巴集団、アリババ）、[Tencent](https://ja.wikipedia.org/wiki/テンセント "wikilink")（騰訊、テンセント）の頭文字を1つずつとった語であり\[1\]、これらの企業の総称でもある。
 
 ## 概要
 

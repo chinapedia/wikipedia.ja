@@ -92,7 +92,7 @@
   - ホラースーツアクター/スタント：小豆畑祐二、工藤舞人
   - 音楽制作：[Lantis](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")
   - 制作協力：ファインエンターテイメント、[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
-  - 特別協力：[サンセイアールアンドディ](https://ja.wikipedia.org/wiki/サンセイアールアンドディ "wikilink")
+  - 特別協力：[サンセイアールアンドディ](../Page/サンセイアールアンドディ.md "wikilink")
   - 制作/製作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
 
 ## 主題歌

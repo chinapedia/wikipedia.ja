@@ -32,7 +32,7 @@
   - [感染管理](../Page/感染管理.md "wikilink")
   - [地理空間情報](../Page/地理空間情報.md "wikilink")
   - [Folding@home](https://ja.wikipedia.org/wiki/Folding@home#ウイルス "wikilink")
-  - [TraceTogether](https://ja.wikipedia.org/wiki/TraceTogether "wikilink")
+  - [TraceTogether](../Page/TraceTogether.md "wikilink")
 
 ## 外部リンク
 

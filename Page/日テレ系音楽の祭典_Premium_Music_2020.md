@@ -50,7 +50,7 @@
   - [稲垣潤一](../Page/稲垣潤一.md "wikilink")
   - [岩崎良美](https://ja.wikipedia.org/wiki/岩崎良美 "wikilink")
   - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")
-  - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")
   - **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**
   - [official髭男dism](https://ja.wikipedia.org/wiki/official髭男dism "wikilink")
   - **[KAT−TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")**

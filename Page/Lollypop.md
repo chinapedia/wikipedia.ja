@@ -7,7 +7,7 @@
 
 複数の音声ファイルフォーマット（[mp3](https://ja.wikipedia.org/wiki/mp3 "wikilink")や[FLAC](../Page/FLAC.md "wikilink")など）に対応し、歌詞の取得やカバーアートの自動ダウンロード、[MTP](https://ja.wikipedia.org/wiki/MTP "wikilink")経由での[Android](../Page/Android.md "wikilink")端末との同期、[Last.fm](../Page/Last.fm.md "wikilink")や[Libre.fm](https://ja.wikipedia.org/wiki/Libre.fm "wikilink")との連携機能などを備えている\[2\]。
 
-また、[Ubuntu](../Page/Ubuntu.md "wikilink")のコミュニティでは、デフォルトの音楽プレーヤーを[Rhythmbox](https://ja.wikipedia.org/wiki/Rhythmbox "wikilink")からLollypopに変更する提案がなされたことがある\[3\]。
+また、[Ubuntu](../Page/Ubuntu.md "wikilink")のコミュニティでは、デフォルトの音楽プレーヤーを[Rhythmbox](../Page/Rhythmbox.md "wikilink")からLollypopに変更する提案がなされたことがある\[3\]。
 
 ## ディストリビューションでの対応
 

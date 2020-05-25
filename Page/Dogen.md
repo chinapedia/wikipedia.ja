@@ -1,7 +1,7 @@
 > この記事は[Dogen](https://ja.wikipedia.org/wiki/Dogen)から翻訳されています。
 
 
-**Dogen**（ドウゲン：道元、1987年生まれ）は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[シアトル](../Page/シアトル.md "wikilink")出身、[大分県](../Page/大分県.md "wikilink")[別府市](../Page/別府市.md "wikilink")在住の[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")・作家・英会話講師。登録者数20.7万人を記録するYouTubeチャンネル『**Dogen**』の運営者であり、日本語の談話分析や音声学、比較文化に関する動画を海外の視聴者に向けコメディタッチに配信している。日本での執筆活動は本名オドネル・ケビン名義で行っている。血液型はA型。「道元」の由来は曹洞宗の開祖である道元禅師の「弟子の弟子の甥」から。[Tokyo Creative株式会社所属](https://ja.wikipedia.org/wiki/Tokyo_Creative "wikilink")\[1\]。身長185cm。
+**Dogen**（ドウゲン：道元、1987年生まれ）は[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[シアトル](../Page/シアトル.md "wikilink")出身、[大分県](../Page/大分県.md "wikilink")[別府市](../Page/別府市.md "wikilink")在住の[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")・作家・英会話講師。登録者数20.7万人を記録するYouTubeチャンネル『**Dogen**』の運営者であり、日本語の談話分析や音声学、比較文化に関する動画を海外の視聴者に向けコメディタッチに配信している。日本での執筆活動は本名オドネル・ケビン名義で行っている。血液型はA型。「道元」の由来は曹洞宗の開祖である道元禅師の「弟子の弟子の甥」から。[Tokyo Creative株式会社所属](../Page/Tokyo_Creative.md "wikilink")\[1\]。身長185cm。
 
 ## 来歴
 

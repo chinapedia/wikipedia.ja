@@ -11,7 +11,7 @@
 
 NTTデータ・セキュリティ（当時）の統合やニューソン（当時）を子会社化する等のM\&Aも実施し、セキュリティ事業等を拡大。2019年に国際セキュリティ基準の開発・評価機関の認定等を行うPCI Security Standards Council, LLC（[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink"))より、セキュリティ基準であるQPA (Qualified PIN Assessor）国内初認定\[5\]\[6\]。
 
-関連施設として、「INTELLILINK ShowRoom」を設け、AI関連技術のセミナーやハンズオン、[PoC](../Page/概念実証.md "wikilink")（導入事前検証）環境等を提供\[7\]。[佃オフィスに](../Page/佃_\(東京都中央区\).md "wikilink")「INTELLILINK Training Academy」を設置し、[VMware](../Page/VMware.md "wikilink"), [Oracle認定トレーニング等](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、技術者育成やセキュリティ技術向上に向けたカリキュラムを提供する\[8\]。
+関連施設として、「INTELLILINK ShowRoom」を設け、AI関連技術のセミナーやハンズオン、[PoC](../Page/概念実証.md "wikilink")（導入事前検証）環境等を提供\[7\]。[佃オフィスに](../Page/佃_\(東京都中央区\).md "wikilink")「INTELLILINK Training Academy」を設置し、[VMware](../Page/VMware.md "wikilink"), [Oracle認定トレーニング等](../Page/オラクル_\(企業\).md "wikilink")、技術者育成やセキュリティ技術向上に向けたカリキュラムを提供する\[8\]。
 
 ## 沿革
 

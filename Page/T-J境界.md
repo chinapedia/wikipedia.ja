@@ -3,7 +3,7 @@
 
 **T-J境界**（ティー・ジェイきょうかい、）とは[地質年代区分](https://ja.wikipedia.org/wiki/地質年代区分 "wikilink")の用語で、約2億130万年前（誤差20万年）の[三畳紀](../Page/三畳紀.md "wikilink")（トリアス紀）\[1\]と[ジュラ紀](../Page/ジュラ紀.md "wikilink")の境目に相当する\[2\]。[古生物学](../Page/古生物学.md "wikilink")上では[顕生代](../Page/顕生代.md "wikilink")四度目の[大量絶滅](../Page/大量絶滅.md "wikilink")が発生し、陸と海の生物に深く影響を及ぼしたことが知られる\[3\]。
 
-海では[コノドント](../Page/コノドント.md "wikilink")が絶滅し\[4\]、陸上では（[スフェノスクス亜目](https://ja.wikipedia.org/wiki/スフェノスクス亜目 "wikilink")と[Crocodyliformes](https://ja.wikipedia.org/wiki/:en:Crocodyliformes "wikilink")）と（[翼竜](../Page/翼竜.md "wikilink")と[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")）を除く全ての[主竜類](../Page/主竜類.md "wikilink")、生き残りの[獣弓類](https://ja.wikipedia.org/wiki/獣弓類 "wikilink")、数多くの大型[両生類](https://ja.wikipedia.org/wiki/両生類 "wikilink")が絶滅した。この時代における海洋生命の消失の統計的解析によると、多様性の消失は絶滅の増加よりも[種分化](https://ja.wikipedia.org/wiki/種分化 "wikilink")の減少によるところが大きいことが示唆されている\[5\]。
+海では[コノドント](../Page/コノドント.md "wikilink")が絶滅し\[4\]、陸上では（[スフェノスクス亜目](https://ja.wikipedia.org/wiki/スフェノスクス亜目 "wikilink")と[Crocodyliformes](https://ja.wikipedia.org/wiki/:en:Crocodyliformes "wikilink")）と（[翼竜](../Page/翼竜.md "wikilink")と[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")）を除く全ての[主竜類](../Page/主竜類.md "wikilink")、生き残りの[獣弓類](../Page/獣弓類.md "wikilink")、数多くの大型[両生類](https://ja.wikipedia.org/wiki/両生類 "wikilink")が絶滅した。この時代における海洋生命の消失の統計的解析によると、多様性の消失は絶滅の増加よりも[種分化](https://ja.wikipedia.org/wiki/種分化 "wikilink")の減少によるところが大きいことが示唆されている\[5\]。
 
 ## 名称
 

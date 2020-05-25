@@ -47,7 +47,7 @@
 
 ### 特徴
 
-腰まで伸びた長い髪が特徴である。一時期、アルバム『[&・U](https://ja.wikipedia.org/wiki/&・U "wikilink")』発表前に髪をバッサリ切った。現在はまた長い髪に戻っている。La'cryma Christiとしてテレビに出演した際はほとんど喋らない。[Shinobu](https://ja.wikipedia.org/wiki/Shinobu "wikilink")、[DuelJewel](../Page/DuelJewel.md "wikilink")のShunからは師匠と慕われている。好きなものはギターとタバコ。
+腰まで伸びた長い髪が特徴である。一時期、アルバム『[&・U](../Page/&・U.md "wikilink")』発表前に髪をバッサリ切った。現在はまた長い髪に戻っている。La'cryma Christiとしてテレビに出演した際はほとんど喋らない。[Shinobu](https://ja.wikipedia.org/wiki/Shinobu "wikilink")、[DuelJewel](../Page/DuelJewel.md "wikilink")のShunからは師匠と慕われている。好きなものはギターとタバコ。
 
 ソロ歌手としても活動している。低音ボーカルが特徴である。
 

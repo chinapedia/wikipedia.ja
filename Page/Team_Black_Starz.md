@@ -254,7 +254,7 @@
 
   - チョイワルナイト
   - ETCダンススクール発表会@パシフィコ横浜
-  - [成城大学](https://ja.wikipedia.org/wiki/成城大学 "wikilink") 学園祭
+  - [成城大学](../Page/成城大学.md "wikilink") 学園祭
   - kolme LIVE Museum 2016
 
 #### 2017年

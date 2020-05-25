@@ -21,7 +21,7 @@
 
   - [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")
   - [大津FM送信所](https://ja.wikipedia.org/wiki/大津FM送信所 "wikilink") - [親局](../Page/親局.md "wikilink")
-  - [山東中継局](https://ja.wikipedia.org/wiki/山東中継局 "wikilink") - 最寄りの[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の送信所
+  - [山東中継局](../Page/山東中継局.md "wikilink") - 最寄りの[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の送信所
   - [彦根ラジオ送信所](../Page/彦根ラジオ送信所.md "wikilink") - 最寄りの[中波放送](../Page/中波放送.md "wikilink")の送信所
 
 [Category:滋賀県の放送送信所](https://ja.wikipedia.org/wiki/Category:滋賀県の放送送信所 "wikilink") [Category:エフエム滋賀](https://ja.wikipedia.org/wiki/Category:エフエム滋賀 "wikilink")

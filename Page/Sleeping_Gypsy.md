@@ -13,7 +13,7 @@
 
 ## 楽曲解説
 
-1.  **[\!BYE BYE](https://ja.wikipedia.org/wiki/!BYE_BYE "wikilink")**
+1.  **[\!BYE BYE](../Page/!BYE_BYE.md "wikilink")**
       - 先行シングル。
       - [日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink") CM曲
 2.  **愛すればこそ**
@@ -23,7 +23,7 @@
 5.  **[真夜中のルーレット](https://ja.wikipedia.org/wiki/真夜中のルーレット "wikilink")**
       - [1992年](../Page/1992年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
 6.  **Cosmic Love**
-7.  **[あなたが、いた夏](https://ja.wikipedia.org/wiki/!BYE_BYE "wikilink")**
+7.  **[あなたが、いた夏](../Page/!BYE_BYE.md "wikilink")**
       - シングル「\!BYE BYE」のカップリング曲。
 8.  **LOVE**
 9.  **Happiness**

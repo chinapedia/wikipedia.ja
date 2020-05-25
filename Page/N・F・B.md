@@ -18,7 +18,7 @@
   - [志暁](https://ja.wikipedia.org/wiki/志暁 "wikilink")
   - [クリスティー麻里子](https://ja.wikipedia.org/wiki/クリスティー麻里子 "wikilink")
   - [大場みなみ](https://ja.wikipedia.org/wiki/大場みなみ "wikilink")
-  - [加藤幸子](https://ja.wikipedia.org/wiki/加藤幸子_\(モデル\) "wikilink")
+  - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")
   - [堀内葉子](../Page/堀内葉子.md "wikilink")
   - [田中玲](../Page/田中玲.md "wikilink")
   - 串田明緒

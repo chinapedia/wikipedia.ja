@@ -3,7 +3,7 @@
 
 **Open vSwitch(OVS)**は、分散仮想[マルチレイヤスイッチの](../Page/レイヤ4スイッチ.md "wikilink")[オープンソース実装である](../Page/オープンソースソフトウェア.md "wikilink")。 Open vSwitch の主な目的は、 [ハードウェア仮想化](https://ja.wikipedia.org/wiki/ハードウェア仮想化 "wikilink")環境に[スイッチングスタックを提供すると同時に](../Page/スイッチングハブ.md "wikilink")、 [コンピューターネットワークで使用される複数のプロトコルと標準をサポートすることである](../Page/コンピュータネットワーク.md "wikilink")\[1\]。
 
-このプロジェクトの[ソースコード](../Page/ソースコード.md "wikilink")は、 [Apache License 2.0ライセンスに基づいて配布されている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。
+このプロジェクトの[ソースコード](../Page/ソースコード.md "wikilink")は、 [Apache License 2.0ライセンスに基づいて配布されている](../Page/Apache_License.md "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@ Open vSwitch は、[仮想マシン](../Page/仮想機械.md "wikilink")(VM)[ハ
 
 Open vSwitch の[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")実装は、2012年3月18日にリリースされたカーネルバージョン3.3の[カーネルメインラインにマージされた](../Page/Linuxカーネル.md "wikilink")\[12\]\[13\]。[Debian](../Page/Debian.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")の公式Linuxディストリビューションで利用可能である\[14\]。2014年1月、[FreeBSD](../Page/FreeBSD.md "wikilink")と[NetBSD](../Page/NetBSD.md "wikilink")の実装も利用でき、[NetBSD](../Page/NetBSD.md "wikilink")の実装は完全な[ユーザ空間で動作する](https://ja.wikipedia.org/wiki/ユーザー空間 "wikilink")\[15\]\[16\]\[17\]。
 
-Open vSwitch のソースコードの大部分は、[プラットフォームに依存しない](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[C言語](../Page/C言語.md "wikilink")で記述されているため、さまざまな環境への[移植が容易である](../Page/移植_\(ソフトウェア\).md "wikilink")。ソースコードは、[Apache License 2.0の下でライセンスされている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")\[18\]。
+Open vSwitch のソースコードの大部分は、[プラットフォームに依存しない](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[C言語](../Page/C言語.md "wikilink")で記述されているため、さまざまな環境への[移植が容易である](../Page/移植_\(ソフトウェア\).md "wikilink")。ソースコードは、[Apache License 2.0の下でライセンスされている](../Page/Apache_License.md "wikilink")\[18\]。
 
 ## 機能
 
@@ -33,7 +33,7 @@ Open vSwitch のソースコードの大部分は、[プラットフォームに
   - さまざまな仮想化関連の拡張機能を含む、[OpenFlow](https://ja.wikipedia.org/wiki/OpenFlow "wikilink")プロトコルのサポート
   - 完全な[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")サポート
   - [Generic Routing Encapsulation](https://ja.wikipedia.org/wiki/ジェネリックルーティングカプセル化 "wikilink")(GRE)、 [仮想拡張LAN](https://ja.wikipedia.org/wiki/仮想拡張可能LAN "wikilink")(VXLAN)、ステートレストランスポートトンネリング(STT)、Geneve 等の複数の[トンネリング](../Page/トンネリング.md "wikilink")プロトコルのサポート、および[インターネットプロトコルセキュリティ](../Page/IPsec.md "wikilink")(IPsec)レイヤの追加サポート
-  - [C言語](../Page/C言語.md "wikilink")および[Python](../Page/Python.md "wikilink")プログラミング言語用の既存の[バインディングを備えたリモート構成プロトコル](https://ja.wikipedia.org/wiki/束縛_\(情報工学\) "wikilink")
+  - [C言語](../Page/C言語.md "wikilink")および[Python](../Page/Python.md "wikilink")プログラミング言語用の既存の[バインディングを備えたリモート構成プロトコル](../Page/束縛_\(情報工学\).md "wikilink")
   - [カーネル空間または](https://ja.wikipedia.org/wiki/ユーザー空間 "wikilink")[ユーザ空間にパケット転送エンジンを実装し](https://ja.wikipedia.org/wiki/ユーザー空間 "wikilink")、[カーネル空間を離れることなく転送されたパケットの大部分を処理し](https://ja.wikipedia.org/wiki/ユーザー空間 "wikilink")、[マルチスレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")[カーネル空間と](https://ja.wikipedia.org/wiki/ユーザー空間 "wikilink")[ユーザ空間](https://ja.wikipedia.org/wiki/ユーザー空間 "wikilink")[コンポーネントを使用することにより](../Page/ソフトウェアコンポーネント.md "wikilink")、柔軟性を向上させ、パフォーマンスを向上させる\[21\]\[22\]
   - フローキャッシュエンジンを備えたマルチテーブル転送パイプライン
   - 転送レイヤーの抽象化により、Open vSwitch を新しいソフトウェアおよびハードウェア[プラットフォームに簡単に](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[移植できる](../Page/移植_\(ソフトウェア\).md "wikilink")

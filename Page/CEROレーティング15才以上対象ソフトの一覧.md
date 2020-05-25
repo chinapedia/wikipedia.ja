@@ -131,7 +131,7 @@
 
   - [アルゴスの戦士 マッスルインパクト](../Page/アルゴスの戦士.md "wikilink")（コンテンツアイコン：「暴力」）
   - [忌火起草 解明編](../Page/忌火起草.md "wikilink")（コンテンツアイコン：「セクシャル、暴力、恐怖、麻薬、言葉・その他」）
-  - [お掃除戦隊くりーんきーぱー](https://ja.wikipedia.org/wiki/お掃除戦隊くりーんきーぱー "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [お掃除戦隊くりーんきーぱー](../Page/お掃除戦隊くりーんきーぱー.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [恐怖体感 呪怨](https://ja.wikipedia.org/wiki/恐怖体感_呪怨 "wikilink")（コンテンツアイコン：「恐怖」）
   - [ゴーストスカッド](https://ja.wikipedia.org/wiki/ゴーストスカッド "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [零 月蝕の仮面](https://ja.wikipedia.org/wiki/零_\(ゲーム\)#零_月蝕の仮面 "wikilink")（コンテンツアイコン：「恐怖」）
@@ -714,7 +714,7 @@ PlayStation Vita
   - [Lの季節2 -invisible memories-](https://ja.wikipedia.org/wiki/Lの季節2_-invisible_memories- "wikilink")（コンテンツアイコン：「セクシャル」）
   - [Angel Wish 〜君の笑顔にチュッ\!〜](https://ja.wikipedia.org/wiki/AngelWish "wikilink")（コンテンツアイコン：「セクシャル」）
   - [Angel's Feather](https://ja.wikipedia.org/wiki/Angel's_Feather "wikilink")（コンテンツアイコン：「恋愛、犯罪」）
-  - [お掃除戦隊くりーんきーぱー](https://ja.wikipedia.org/wiki/お掃除戦隊くりーんきーぱー "wikilink")H（コンテンツアイコン：「セクシャル」）
+  - [お掃除戦隊くりーんきーぱー](../Page/お掃除戦隊くりーんきーぱー.md "wikilink")H（コンテンツアイコン：「セクシャル」）
   - [おとなのギャル雀2〜恋して倍満\!〜](https://ja.wikipedia.org/wiki/おとなのギャル雀2〜恋して倍満!〜 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [乙女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/乙女はお姉さまに恋してる "wikilink")（コンテンツアイコン：「セクシャル」）
   - [鬼武者](../Page/鬼武者.md "wikilink")シリーズ <small>\*鬼武者 無頼伝は12才以上対象</small>
@@ -931,7 +931,7 @@ PlayStation Vita
       - 流行り神 Revenge 警視庁怪異事件ファイル（コンテンツアイコン：「暴力、犯罪」）
       - 流行り神2 警視庁怪異事件ファイル（コンテンツアイコン：「暴力、恐怖」）
 
-  - [バルドバレット イクリブリアム](https://ja.wikipedia.org/wiki/BALDR_BULLET "wikilink")（コンテンツアイコン：「犯罪」）
+  - [バルドバレット イクリブリアム](../Page/BALDR_BULLET.md "wikilink")（コンテンツアイコン：「犯罪」）
 
   - [ビートダウン](../Page/ビートダウン.md "wikilink")（コンテンツアイコン：「暴力、犯罪、麻薬」）
 
@@ -1139,8 +1139,8 @@ PlayStation
   - [DEAD OR ALIVE](../Page/デッド_オア_アライブ_シリーズ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
   - [信長秘録 下天の夢](https://ja.wikipedia.org/wiki/信長秘録_下天の夢 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
   - [バイオハザード2](../Page/バイオハザード2.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
-  - [バウンティソード・ファースト](https://ja.wikipedia.org/wiki/バウンティソード・ファースト "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「飲酒・喫煙」）
-  - [バウンティソード ダブルエッジ](https://ja.wikipedia.org/wiki/バウンティソード・ファースト "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
+  - [バウンティソード・ファースト](../Page/バウンティソード・ファースト.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「飲酒・喫煙」）
+  - [バウンティソード ダブルエッジ](../Page/バウンティソード・ファースト.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
   - [花と龍 〜花札・麻雀〜](https://ja.wikipedia.org/wiki/花と龍_〜花札・麻雀〜 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「ギャンブル」）
   - [パラサイト・イヴ2](../Page/パラサイト・イヴ2.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
   - [BAROQUE 歪んだ妄想](../Page/バロック_\(ゲーム\).md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）

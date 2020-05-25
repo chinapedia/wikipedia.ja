@@ -7,7 +7,7 @@
 
 ### 生い立ち
 
-[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](https://ja.wikipedia.org/wiki/ブッシュ家 "wikilink")は、雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄である。[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
+[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](../Page/ブッシュ家.md "wikilink")は、雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄である。[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
 
 ### 学校
 
@@ -125,7 +125,7 @@
 
 その「親しみやすさ」は決して作られたイメージではなく、率直な物言いと鷹揚な性格で、[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")の中でも職員たちを家族のように分け隔てなく接した\[30\]。また、初めてアフリカ系アメリカ人の秘書官を任命したファーストレディとなった\[31\]。
 
-ファーストレディとして、セカンドレディ時代の事業を更に格上げし、「バーバラ・ブッシュ・ファミリー・リテラシー財団」を設立し、多くのホームレス、移民を援助した\[32\]。識字、教育こそが貧困を無くすと、人気番組『[オプラ・ウィンフリー・ショー](https://ja.wikipedia.org/wiki/オプラ・ウィンフリー・ショー "wikilink")』に出演して、教育の重要性を訴え、ABCラジオにて自身の冠番組*Mrs. Bush's Story Time*を持ち、子供たちに語りかけた\[33\]。 1990年に出版した*Millie's Book: As Dictated to Barbara Bush*（邦題：『ミリー・ブッシュはファースト・ドッグ』）はベストセラーとなり、この本から得た印税は財団に寄付された\[34\]。
+ファーストレディとして、セカンドレディ時代の事業を更に格上げし、「バーバラ・ブッシュ・ファミリー・リテラシー財団」を設立し、多くのホームレス、移民を援助した\[32\]。識字、教育こそが貧困を無くすと、人気番組『[オプラ・ウィンフリー・ショー](../Page/オプラ・ウィンフリー・ショー.md "wikilink")』に出演して、教育の重要性を訴え、ABCラジオにて自身の冠番組*Mrs. Bush's Story Time*を持ち、子供たちに語りかけた\[33\]。 1990年に出版した*Millie's Book: As Dictated to Barbara Bush*（邦題：『ミリー・ブッシュはファースト・ドッグ』）はベストセラーとなり、この本から得た印税は財団に寄付された\[34\]。
 
 1990年に[ウェルズリー大学](../Page/ウェルズリー大学.md "wikilink")で行った演説は大きな反響を呼んだ。多くの学生は彼女を「つまらない主婦」と見做し、決して歓迎されなかったのだが、演説が終わると本人も驚くような喝采を浴びた。この演説は「20世紀のアメリカの演説ベスト100」において45位に選ばれている\[35\]。長女のロビンを白血病で亡くしたことから、白血病患者への支援も熱心に行った\[36\]。
 

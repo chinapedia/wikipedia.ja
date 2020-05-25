@@ -746,7 +746,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2011年のFIFAバロンドール" title="wikilink">2011</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木則夫_(サッカー指導者)" title="wikilink">佐々木則夫</a></p></td>
+<td><p><a href="../Page/佐々木則夫_(サッカー指導者).md" title="wikilink">佐々木則夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サッカー日本女子代表" title="wikilink">日本代表</a></p></td>
 </tr>
 <tr class="even">

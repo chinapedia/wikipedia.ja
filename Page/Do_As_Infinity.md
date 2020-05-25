@@ -30,7 +30,7 @@
   - [林由恭](https://ja.wikipedia.org/wiki/林由恭 "wikilink") - ベース（2004年 - 2005年）
   - [渋谷有希子](https://ja.wikipedia.org/wiki/渋谷有希子 "wikilink")[3](https://www.yukikoshibutani.com/) - ベース、コーラス（2008年 - 2009年）
   - [石田匠](https://ja.wikipedia.org/wiki/Ricken's_#メンバー "wikilink") - ギター、ボーカル（2008年 - 2009年）
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink") - ドラムス（2008年 - ）
+  - [河村智康](../Page/河村智康.md "wikilink") - ドラムス（2008年 - ）
   - [佐藤大剛](https://ja.wikipedia.org/wiki/佐藤大剛 "wikilink") - ギター（2009年 - ）
   - [岡本陽一](https://ja.wikipedia.org/wiki/岡本陽一 "wikilink") - ベース（2009年 - ）
   - [河村吉宏](https://ja.wikipedia.org/wiki/河村吉宏 "wikilink") - ドラムス（2010年 - ）
@@ -710,13 +710,13 @@
 
 #### ライブアルバム
 
-|     | 発売日                                                                                         | タイトル                                                                                                                                                                      | 規格               | 規格品番             | 最高位 |
-| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- | --- |
-| 1st | [2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    | [Do The Live](https://ja.wikipedia.org/wiki/Do_The_Live "wikilink")                                                                                                       | CCCD （2枚組）       | AVCD-17275〜17276 | 12位 |
-| 2nd | [2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")                    | [Do As Infinity LIVE IN JAPAN](https://ja.wikipedia.org/wiki/Do_As_Infinity_LIVE_IN_JAPAN "wikilink")                                                                     | AVCD-17414〜17415 | 23位              |     |
-| 3rd | [2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")                    | [Do As Infinity -Final-](https://ja.wikipedia.org/wiki/Do_As_Infinity_-Final- "wikilink")                                                                                 | CD （3枚組）         | AVCD-17906〜17908 | 43位 |
-| 4th | [2014年](../Page/2014年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    | [Do As Infinity 14th Anniversary 〜Dive At It Limited Live 2013〜](https://ja.wikipedia.org/wiki/Do_As_Infinity_14th_Anniversary_〜Dive_At_It_Limited_Live_2013〜 "wikilink") | CD （2枚組）         | AVCD-38922〜38923 | 87位 |
-| 5th | [2016年](../Page/2016年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") | Do As Infinity 16th Anniversary 〜October's Garden〜                                                                                                                        | CD（2枚組）+フォトブック   | AVCD-93348〜9     | 63位 |
+|     | 発売日                                                                                         | タイトル                                                                                                                                                   | 規格               | 規格品番             | 最高位 |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------- | --- |
+| 1st | [2003年](../Page/2003年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    | [Do The Live](https://ja.wikipedia.org/wiki/Do_The_Live "wikilink")                                                                                    | CCCD （2枚組）       | AVCD-17275〜17276 | 12位 |
+| 2nd | [2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")                    | [Do As Infinity LIVE IN JAPAN](https://ja.wikipedia.org/wiki/Do_As_Infinity_LIVE_IN_JAPAN "wikilink")                                                  | AVCD-17414〜17415 | 23位              |     |
+| 3rd | [2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")                    | [Do As Infinity -Final-](https://ja.wikipedia.org/wiki/Do_As_Infinity_-Final- "wikilink")                                                              | CD （3枚組）         | AVCD-17906〜17908 | 43位 |
+| 4th | [2014年](../Page/2014年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")                    | [Do As Infinity 14th Anniversary 〜Dive At It Limited Live 2013〜](../Page/Do_As_Infinity_14th_Anniversary_〜Dive_At_It_Limited_Live_2013〜.md "wikilink") | CD （2枚組）         | AVCD-38922〜38923 | 87位 |
+| 5th | [2016年](../Page/2016年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") | Do As Infinity 16th Anniversary 〜October's Garden〜                                                                                                     | CD（2枚組）+フォトブック   | AVCD-93348〜9     | 63位 |
 
 #### リアレンジ・アルバム
 
@@ -952,7 +952,7 @@
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Oasis**                                                                           | [カネボウ](../Page/カネボウ.md "wikilink")化粧品『テスティモ』CMソング                                                                                                             |
 | **Yesterday & Today**                                                               | [フジテレビ系ドラマ](../Page/フジテレビ系列.md "wikilink")『[二千年の恋](../Page/二千年の恋.md "wikilink")』主題歌                                                                           |
-| **Raven**                                                                           | [東映](../Page/東映.md "wikilink")配給映画『[うずまき](https://ja.wikipedia.org/wiki/うずまき_\(漫画\) "wikilink")』主題歌                                                           |
+| **Raven**                                                                           | [東映](../Page/東映.md "wikilink")配給映画『[うずまき](../Page/うずまき_\(漫画\).md "wikilink")』主題歌                                                                              |
 | **Welcome\!**                                                                       | J-WAVE『WELCOME TO TOKIO』キャンペーン・ソング                                                                                                                            |
 | **rumble fish**                                                                     | 映画『[仮面学園](../Page/仮面学園.md "wikilink")』主題歌                                                                                                                     |
 | **SUMMER DAYS**                                                                     | [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『OLポリス』主題歌                                                                                                         |

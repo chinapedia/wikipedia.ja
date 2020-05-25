@@ -2349,7 +2349,7 @@ The Champions（英語：それがチャンピオン）
 
   - [マクドナルド](../Page/マクドナルド.md "wikilink")
 
-  - [RTLグループ](https://ja.wikipedia.org/wiki/RTLグループ "wikilink")
+  - [RTLグループ](../Page/RTLグループ.md "wikilink")
 
   - [フェレロ](https://ja.wikipedia.org/wiki/フェレロ "wikilink")（[nutella](https://ja.wikipedia.org/wiki/ヌテッラ "wikilink")）
 

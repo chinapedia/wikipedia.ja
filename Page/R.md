@@ -88,7 +88,7 @@
       - [アルキル基](https://ja.wikipedia.org/wiki/アルキル基 "wikilink")の略号 例:[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")の[構造式](https://ja.wikipedia.org/wiki/構造式 "wikilink") R-OH
       - [気体定数](../Page/気体定数.md "wikilink")の略号 例:[気体の状態方程式](https://ja.wikipedia.org/wiki/気体の状態方程式 "wikilink") *PV* = *n*R*T*
       - [放射線量](https://ja.wikipedia.org/wiki/放射線量 "wikilink")の単位、[レントゲン](../Page/レントゲン_\(単位\).md "wikilink")（単位）
-      - [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")原子の線スペクトルに関する定数、[リュードベリ定数](../Page/リュードベリ定数.md "wikilink")
+      - [水素](../Page/水素.md "wikilink")原子の線スペクトルに関する定数、[リュードベリ定数](../Page/リュードベリ定数.md "wikilink")
       - 回路の[電気抵抗](../Page/電気抵抗.md "wikilink")や[抵抗器](../Page/抵抗器.md "wikilink")を表す。（それぞれ**R**esistance、**R**esistor）例: *E* = *IR*
       - 光の三原色 (RGB)、および色彩学での赤。(**R**ed)
       - [温度](../Page/温度.md "wikilink")表示方式の一種[ランキン度](https://ja.wikipedia.org/wiki/ランキン度 "wikilink")

@@ -43,7 +43,7 @@ LIBORの事実上の消滅による金融業界への影響は大きく、例え
   -
     WSJ [ラボバンクの元トレーダー、LIBOR不正操作で有罪認める](http://jp.wsj.com/articles/SB10001424052702304826804579618761858448656) 2014年6月12日</ref>。
 
-12月4日、[欧州委員会](../Page/欧州委員会.md "wikilink")は同様の不正操作について、複数の[メガバンク](../Page/メガバンク.md "wikilink")が[カルテル](../Page/カルテル.md "wikilink")を実施したとして合計で約17億１千万ユーロの制裁金を科した。制裁の対象は、[ドイツ銀行](../Page/ドイツ銀行.md "wikilink")、[ソシエテ・ジェネラル](../Page/ソシエテ・ジェネラル.md "wikilink")、[ロイヤル・バンク・オブ・スコットランド](https://ja.wikipedia.org/wiki/ロイヤル・バンク・オブ・スコットランド "wikilink")、[JPモルガン](https://ja.wikipedia.org/wiki/JPモルガン "wikilink")、[シティバンク](https://ja.wikipedia.org/wiki/シティバンク "wikilink")、[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")である。[バークレイズ](https://ja.wikipedia.org/wiki/バークレイズ "wikilink")と[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")は[内部告発](../Page/内部告発.md "wikilink")を評価されて制裁を免除された。不正操作に関する調査は[HSBC](https://ja.wikipedia.org/wiki/HSBC "wikilink")にも及んだ\[16\]。
+12月4日、[欧州委員会](../Page/欧州委員会.md "wikilink")は同様の不正操作について、複数の[メガバンク](../Page/メガバンク.md "wikilink")が[カルテル](../Page/カルテル.md "wikilink")を実施したとして合計で約17億１千万ユーロの制裁金を科した。制裁の対象は、[ドイツ銀行](../Page/ドイツ銀行.md "wikilink")、[ソシエテ・ジェネラル](../Page/ソシエテ・ジェネラル.md "wikilink")、[ロイヤル・バンク・オブ・スコットランド](https://ja.wikipedia.org/wiki/ロイヤル・バンク・オブ・スコットランド "wikilink")、[JPモルガン](https://ja.wikipedia.org/wiki/JPモルガン "wikilink")、[シティバンク](https://ja.wikipedia.org/wiki/シティバンク "wikilink")、[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")である。[バークレイズ](../Page/バークレイズ.md "wikilink")と[UBS](https://ja.wikipedia.org/wiki/UBS "wikilink")は[内部告発](../Page/内部告発.md "wikilink")を評価されて制裁を免除された。不正操作に関する調査は[HSBC](https://ja.wikipedia.org/wiki/HSBC "wikilink")にも及んだ\[16\]。
 
 ### 受身をとる英国と関係者
 

@@ -7,7 +7,7 @@
 
 ## SDLが使用するAPI
 
-SDLは画面の描画にOSによって異なるAPIを使う。Windowsでは[DirectDraw](../Page/DirectDraw.md "wikilink")ないし[GDIが](../Page/Graphics_Device_Interface.md "wikilink")、Linuxでは[Xlib](https://ja.wikipedia.org/wiki/Xlib "wikilink")が使用される。ただし、[環境変数](../Page/環境変数.md "wikilink")「SDL_VIDEODRIVER」を変更すれば、[プログラムを書き換えることなく別のAPIを使って表示することも可能になっている](../Page/プログラム_\(コンピュータ\).md "wikilink")。[1](https://www.libsdl.org/faq.php?action=listentries&category=9#9) 同様に音声出力に使うAPIも環境変数で変更が可能。
+SDLは画面の描画にOSによって異なるAPIを使う。Windowsでは[DirectDraw](../Page/DirectDraw.md "wikilink")ないし[GDIが](../Page/Graphics_Device_Interface.md "wikilink")、Linuxでは[Xlib](../Page/Xlib.md "wikilink")が使用される。ただし、[環境変数](../Page/環境変数.md "wikilink")「SDL_VIDEODRIVER」を変更すれば、[プログラムを書き換えることなく別のAPIを使って表示することも可能になっている](../Page/プログラム_\(コンピュータ\).md "wikilink")。[1](https://www.libsdl.org/faq.php?action=listentries&category=9#9) 同様に音声出力に使うAPIも環境変数で変更が可能。
 
 ## ギャラリー
 

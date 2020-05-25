@@ -34,7 +34,7 @@ X/OpenとISOが進めていたSQL/CLIは、ODBCの有用性から業界標準と
 
 しかし、一方で、[SQL Server 2014以降では](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[OLE DBは今後更新されず](https://ja.wikipedia.org/wiki/OLE_DB "wikilink")、汎用的な接続方法としてはODBCに回帰する方向性も示されている。\[5\]\[6\]
 
-[.NET FrameworkではADOと同じような考え方であるが](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、マネージド環境となるため、これらのプロバイダは一新されている。ただし、従来の[OLE DBも使えるため](https://ja.wikipedia.org/wiki/OLE_DB "wikilink")、OLE DBを経由したODBCへのアクセスは今日でも利用可能ではある。SQL Serverは当然として[オラクルなどの大手RDBMSベンダは](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink").NET Framework用のプロバイダ、もしくはOLE DBプロバイダを提供しており、あえてODBCを経由しなければならないケースは少ないと考えられる。
+[.NET FrameworkではADOと同じような考え方であるが](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、マネージド環境となるため、これらのプロバイダは一新されている。ただし、従来の[OLE DBも使えるため](https://ja.wikipedia.org/wiki/OLE_DB "wikilink")、OLE DBを経由したODBCへのアクセスは今日でも利用可能ではある。SQL Serverは当然として[オラクルなどの大手RDBMSベンダは](../Page/オラクル_\(企業\).md "wikilink").NET Framework用のプロバイダ、もしくはOLE DBプロバイダを提供しており、あえてODBCを経由しなければならないケースは少ないと考えられる。
 
 [Java](https://ja.wikipedia.org/wiki/Java "wikilink")では、かつては[JDBC](../Page/JDBC.md "wikilink")が扱うデータベース・ドライバとしてType1[ドライバ](../Page/デバイスドライバ.md "wikilink")（JDBC-ODBCブリッジ）としてJDBCの下層の物理ドライバに使われており、まだJavaに対応していないデータベースに接続する場合などの手段として使われる場合もあったが、今日では多くのデータベースがJDBCドライバを出しており、ODBCを経由させる必要性はほとんどなくなった。（SQL Serverでさえ、JDBCドライバを出している）
 

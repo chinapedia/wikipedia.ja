@@ -311,7 +311,7 @@
 <td><p>垂直</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/久里浜中継局" title="wikilink">久里浜</a></p></td>
+<td><p><a href="../Page/久里浜中継局.md" title="wikilink">久里浜</a></p></td>
 <td><p>43</p></td>
 <td><p>45</p></td>
 <td><p>3W</p></td>

@@ -109,7 +109,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/第10回日本フットボールリーグ.md" title="wikilink">2008</a></p></td>
 <td><p>8位</p></td>
 <td><p><strong>51</strong></p></td>
 <td><p>34</p></td>

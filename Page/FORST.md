@@ -3,7 +3,7 @@
 
 **FORST**（フォルスト）は、かつて存在した株式会社[ウィルの](../Page/ウィルプラス.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである\[1\]。
 
-元々は株式会社[フォレストの](https://ja.wikipedia.org/wiki/フォレスト_\(ゲーム会社\) "wikilink")[3DゲームブランドFORESTER](../Page/3次元コンピュータグラフィックス.md "wikilink")（フォレスター）で、FORSTに改編された後に、株式会社ウィルに譲渡された。
+元々は株式会社[フォレストの](../Page/フォレスト_\(ゲーム会社\).md "wikilink")[3DゲームブランドFORESTER](../Page/3次元コンピュータグラフィックス.md "wikilink")（フォレスター）で、FORSTに改編された後に、株式会社ウィルに譲渡された。
 
 また、FORESTER時代に作成したEDENシリーズ（I〜IV）やDollシリーズの[DVD Playersゲーム版を販売している](https://ja.wikipedia.org/wiki/DVD_PlayersGame "wikilink")。
 

@@ -240,7 +240,7 @@ Amazonでは、独自の物流拠点（フルフィルメントセンター：FC
 </tr>
 <tr class="odd">
 <td><p>class="table-rh" | </p></td>
-<td><p>amazon<a href="https://ja.wikipedia.org/wiki/.it" title="wikilink">.it</a></p></td>
+<td><p>amazon<a href="../Page/.it.md" title="wikilink">.it</a></p></td>
 <td><p>2010年11月</p></td>
 <td></td>
 </tr>

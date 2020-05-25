@@ -254,7 +254,7 @@
   - [2012年](../Page/2012年.md "wikilink")
       - [3月31日](../Page/3月31日.md "wikilink") - 震災により延期していたアナログ放送を終了。
       - 4月2日 - 「radiko」試験配信開始（同年3月31日までの「震災復興支援全国配信」から岩手県内限定配信へ移行）。[2014年](../Page/2014年.md "wikilink")4月1日からは岩手県内を除く全国にも有料にて配信。
-  - [2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - やまださいがいエフエムを「[IBCラジオ山田FM中継局](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")」として正式な中継局として運用を開始\[21\]。
+  - [2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - やまださいがいエフエムを「[IBCラジオ山田FM中継局](../Page/山田中継局_\(岩手県\).md "wikilink")」として正式な中継局として運用を開始\[21\]。
   - [2016年](../Page/2016年.md "wikilink")
       - [2月1日](../Page/2月1日.md "wikilink") - テレビの終夜放送を再開。
       - [12月23日](../Page/12月23日.md "wikilink") - 盛岡、二戸、大槌に[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")開局\[22\]\[23\]。
@@ -275,28 +275,28 @@
 
 [IBC_Yahaba_Radio_Station3.jpg](https://ja.wikipedia.org/wiki/File:IBC_Yahaba_Radio_Station3.jpg "fig:IBC_Yahaba_Radio_Station3.jpg")
 
-| AM放送                                                                       |
-| -------------------------------------------------------------------------- |
-| 親局                                                                         |
-| [盛岡](../Page/IBC岩手放送矢巾ラジオ送信所.md "wikilink")\[27\]                          |
-| 中継局                                                                        |
-| [大船渡](../Page/大船渡ラジオ中継局.md "wikilink")                                     |
-| [久慈](../Page/久慈ラジオ中継局.md "wikilink")                                       |
-| [岩泉](../Page/岩泉ラジオ中継局.md "wikilink")                                       |
-| [前沢](../Page/IBC前沢ラジオ中継局.md "wikilink")                                    |
-| [釜石](../Page/釜石ラジオ中継局.md "wikilink")                                       |
-| [田野畑](../Page/田野畑ラジオ中継局.md "wikilink")                                     |
-| [宮古](../Page/宮古ラジオ中継局.md "wikilink")                                       |
-| FM放送                                                                       |
-| 中継局                                                                        |
-| [盛岡FM](../Page/新山_\(紫波町\).md "wikilink")                                   |
-| [山田FM](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")\[28\]\[29\] |
-| [岩泉小本FM](../Page/岩泉テレビ中継局.md "wikilink")                                   |
-| [一関FM](../Page/一関テレビ・FM中継局.md "wikilink")                                  |
-| [二戸FM](../Page/折爪岳.md "wikilink")                                          |
-| [大槌FM](../Page/大槌中継局.md "wikilink")                                        |
-| [遠野FM](../Page/遠野中継局.md "wikilink")                                        |
-| [室根FM](../Page/室根テレビ・FM中継局.md "wikilink")                                  |
+| AM放送                                                    |
+| ------------------------------------------------------- |
+| 親局                                                      |
+| [盛岡](../Page/IBC岩手放送矢巾ラジオ送信所.md "wikilink")\[27\]       |
+| 中継局                                                     |
+| [大船渡](../Page/大船渡ラジオ中継局.md "wikilink")                  |
+| [久慈](../Page/久慈ラジオ中継局.md "wikilink")                    |
+| [岩泉](../Page/岩泉ラジオ中継局.md "wikilink")                    |
+| [前沢](../Page/IBC前沢ラジオ中継局.md "wikilink")                 |
+| [釜石](../Page/釜石ラジオ中継局.md "wikilink")                    |
+| [田野畑](../Page/田野畑ラジオ中継局.md "wikilink")                  |
+| [宮古](../Page/宮古ラジオ中継局.md "wikilink")                    |
+| FM放送                                                    |
+| 中継局                                                     |
+| [盛岡FM](../Page/新山_\(紫波町\).md "wikilink")                |
+| [山田FM](../Page/山田中継局_\(岩手県\).md "wikilink")\[28\]\[29\] |
+| [岩泉小本FM](../Page/岩泉テレビ中継局.md "wikilink")                |
+| [一関FM](../Page/一関テレビ・FM中継局.md "wikilink")               |
+| [二戸FM](../Page/折爪岳.md "wikilink")                       |
+| [大槌FM](../Page/大槌中継局.md "wikilink")                     |
+| [遠野FM](../Page/遠野中継局.md "wikilink")                     |
+| [室根FM](../Page/室根テレビ・FM中継局.md "wikilink")               |
 
 #### 備考
 
@@ -330,7 +330,7 @@
       - [開運\!盛岡駅前探偵団](../Page/盛岡駅前探偵団.md "wikilink")（月 - 金 10:05 - 10:15）
   - [にっぽんのうた](https://ja.wikipedia.org/wiki/にっぽんのうた "wikilink")（月 - 金 12:10 - 12:15）
   - [ワイドステーション](../Page/ワイドステーション.md "wikilink")（月 - 金 12:35 - 16:40）
-      - [岩手・大分ホットライン](../Page/岩手・大分ホットライン.md "wikilink")（水 14:40 - 14:50 OBS[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")との共同制作による情報交換番組）
+      - [岩手・大分ホットライン](../Page/岩手・大分ホットライン.md "wikilink")（水 14:40 - 14:50 OBS[大分放送](../Page/大分放送.md "wikilink")との共同制作による情報交換番組）
       - さんりく元気ラジオ（第2・4週水 15:30 - 15:40）
   - [歌って笑って民謡まわり舞台](../Page/歌って笑って民謡まわり舞台.md "wikilink")（月 19:00 - 20:00）
   - [リクエストマンデー](../Page/リクエストマンデー.md "wikilink")（月 20:00 - 22:00）
@@ -440,7 +440,7 @@
 
   - [聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")ラジオライブラリー「新・人間革命」（月 - 金 5:00 - 5:10）
   - メダル物語（月 - 金 5:10 - 5:15）
-  - [レディス・ハンドブック](https://ja.wikipedia.org/wiki/Wake_Up_メロディー "wikilink")（[綜合放送](../Page/綜合放送.md "wikilink")制作、月 - 金 11:25 - 11:40）
+  - [レディス・ハンドブック](../Page/Wake_Up_メロディー.md "wikilink")（[綜合放送](../Page/綜合放送.md "wikilink")制作、月 - 金 11:25 - 11:40）
   - [荻原次晴のニッポン応援団 VIVA JAPON\!](https://ja.wikipedia.org/wiki/荻原次晴のニッポン応援団 "wikilink")（[かしわプロダクション](../Page/かしわプロダクション.md "wikilink")制作、月 - 金 11:50 - 12:00）　
   - [夏井いつきの一句一遊](https://ja.wikipedia.org/wiki/夏井いつきの一句一遊 "wikilink") （[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")制作、月 - 金 12:15 - 12:25）
   - [河村通夫の大自然まるかじりライフ](../Page/河村通夫の大自然まるかじりライフ.md "wikilink")（[マール制作](https://ja.wikipedia.org/wiki/マール_\(ラジオ番組制作会社\) "wikilink")、月 - 金 16:40 - 16:50）
@@ -1034,7 +1034,7 @@
   - [テレコンワールド](https://ja.wikipedia.org/wiki/テレコンワールド "wikilink")
   - [怒りオヤジ](../Page/怒りオヤジ.md "wikilink")3
   - [ドラマ24](../Page/ドラマ24.md "wikilink")
-      - [嬢王](https://ja.wikipedia.org/wiki/嬢王#テレビドラマ "wikilink")、[2ndハウス](https://ja.wikipedia.org/wiki/2ndハウス#テレビドラマ "wikilink")、[下北GLORY DAYS](https://ja.wikipedia.org/wiki/下北GLORY_DAYS#テレビドラマ "wikilink")、[湯けむりスナイパー](https://ja.wikipedia.org/wiki/湯けむりスナイパー#テレビドラマ "wikilink")、[怨み屋本舗REBOOT](https://ja.wikipedia.org/wiki/怨み屋本舗_\(テレビドラマ\) "wikilink")（ドラマ第1作は放送なし）、[嬢王 Virgin](https://ja.wikipedia.org/wiki/嬢王#嬢王_Virgin "wikilink")、[マジすか学園](https://ja.wikipedia.org/wiki/マジすか学園 "wikilink")、[トラブルマン](https://ja.wikipedia.org/wiki/トラブルマン "wikilink")、[モテキ](https://ja.wikipedia.org/wiki/モテキ "wikilink")、[嬢王3〜Special Edition〜](https://ja.wikipedia.org/wiki/嬢王#嬢王3〜Special_Edition〜 "wikilink")、[URAKARA](https://ja.wikipedia.org/wiki/URAKARA "wikilink")、[マジすか学園2](https://ja.wikipedia.org/wiki/マジすか学園2 "wikilink")、[勇者ヨシヒコと魔王の城](https://ja.wikipedia.org/wiki/勇者ヨシヒコと魔王の城 "wikilink")、[ここが噂のエル・パラシオ](https://ja.wikipedia.org/wiki/ここが噂のエル・パラシオ "wikilink")、[撮らないで下さい\!\!グラビアアイドル裏物語](https://ja.wikipedia.org/wiki/撮らないで下さい!!グラビアアイドル裏物語 "wikilink")、[クローバー](https://ja.wikipedia.org/wiki/クローバー_\(平川哲弘の漫画\)#テレビドラマ "wikilink")、[マジすか学園3](https://ja.wikipedia.org/wiki/マジすか学園3 "wikilink")、[勇者ヨシヒコと悪霊の鍵](https://ja.wikipedia.org/wiki/勇者ヨシヒコと悪霊の鍵 "wikilink")、[まほろ駅前番外地](https://ja.wikipedia.org/wiki/まほろ駅前多田便利軒#テレビドラマ "wikilink")、[みんな\!エスパーだよ\!](https://ja.wikipedia.org/wiki/みんな!エスパーだよ!#テレビドラマ "wikilink")、[リミット](https://ja.wikipedia.org/wiki/リミット_\(漫画\)#テレビドラマ "wikilink")、[殺しの女王蜂](https://ja.wikipedia.org/wiki/殺しの女王蜂 "wikilink")、[なぞの転校生](../Page/なぞの転校生.md "wikilink")、[アオイホノオ](https://ja.wikipedia.org/wiki/アオイホノオ "wikilink")、[玉川区役所 OF THE DEAD](https://ja.wikipedia.org/wiki/玉川区役所_OF_THE_DEAD "wikilink")、[怪奇恋愛作戦](https://ja.wikipedia.org/wiki/怪奇恋愛作戦 "wikilink")、[不便な便利屋](https://ja.wikipedia.org/wiki/不便な便利屋 "wikilink")、[初森ベマーズ](https://ja.wikipedia.org/wiki/初森ベマーズ "wikilink")、[オー・マイ・ジャンプ\! 〜少年ジャンプが地球を救う〜](https://ja.wikipedia.org/wiki/オー・マイ・ジャンプ!_〜少年ジャンプが地球を救う〜 "wikilink")、[GIVER 復讐の贈与者](https://ja.wikipedia.org/wiki/GIVER_復讐の贈与者 "wikilink")、[フルーツ宅配便](https://ja.wikipedia.org/wiki/フルーツ宅配便 "wikilink")、[きのう何食べた?](https://ja.wikipedia.org/wiki/きのう何食べた? "wikilink")、[Iターン](https://ja.wikipedia.org/wiki/Iターン "wikilink")
+      - [嬢王](https://ja.wikipedia.org/wiki/嬢王#テレビドラマ "wikilink")、[2ndハウス](https://ja.wikipedia.org/wiki/2ndハウス#テレビドラマ "wikilink")、[下北GLORY DAYS](https://ja.wikipedia.org/wiki/下北GLORY_DAYS#テレビドラマ "wikilink")、[湯けむりスナイパー](https://ja.wikipedia.org/wiki/湯けむりスナイパー#テレビドラマ "wikilink")、[怨み屋本舗REBOOT](https://ja.wikipedia.org/wiki/怨み屋本舗_\(テレビドラマ\) "wikilink")（ドラマ第1作は放送なし）、[嬢王 Virgin](https://ja.wikipedia.org/wiki/嬢王#嬢王_Virgin "wikilink")、[マジすか学園](https://ja.wikipedia.org/wiki/マジすか学園 "wikilink")、[トラブルマン](https://ja.wikipedia.org/wiki/トラブルマン "wikilink")、[モテキ](https://ja.wikipedia.org/wiki/モテキ "wikilink")、[嬢王3〜Special Edition〜](https://ja.wikipedia.org/wiki/嬢王#嬢王3〜Special_Edition〜 "wikilink")、[URAKARA](https://ja.wikipedia.org/wiki/URAKARA "wikilink")、[マジすか学園2](https://ja.wikipedia.org/wiki/マジすか学園2 "wikilink")、[勇者ヨシヒコと魔王の城](https://ja.wikipedia.org/wiki/勇者ヨシヒコと魔王の城 "wikilink")、[ここが噂のエル・パラシオ](https://ja.wikipedia.org/wiki/ここが噂のエル・パラシオ "wikilink")、[撮らないで下さい\!\!グラビアアイドル裏物語](https://ja.wikipedia.org/wiki/撮らないで下さい!!グラビアアイドル裏物語 "wikilink")、[クローバー](https://ja.wikipedia.org/wiki/クローバー_\(平川哲弘の漫画\)#テレビドラマ "wikilink")、[マジすか学園3](https://ja.wikipedia.org/wiki/マジすか学園3 "wikilink")、[勇者ヨシヒコと悪霊の鍵](https://ja.wikipedia.org/wiki/勇者ヨシヒコと悪霊の鍵 "wikilink")、[まほろ駅前番外地](https://ja.wikipedia.org/wiki/まほろ駅前多田便利軒#テレビドラマ "wikilink")、[みんな\!エスパーだよ\!](https://ja.wikipedia.org/wiki/みんな!エスパーだよ!#テレビドラマ "wikilink")、[リミット](https://ja.wikipedia.org/wiki/リミット_\(漫画\)#テレビドラマ "wikilink")、[殺しの女王蜂](https://ja.wikipedia.org/wiki/殺しの女王蜂 "wikilink")、[なぞの転校生](../Page/なぞの転校生.md "wikilink")、[アオイホノオ](https://ja.wikipedia.org/wiki/アオイホノオ "wikilink")、[玉川区役所 OF THE DEAD](https://ja.wikipedia.org/wiki/玉川区役所_OF_THE_DEAD "wikilink")、[怪奇恋愛作戦](https://ja.wikipedia.org/wiki/怪奇恋愛作戦 "wikilink")、[不便な便利屋](https://ja.wikipedia.org/wiki/不便な便利屋 "wikilink")、[初森ベマーズ](https://ja.wikipedia.org/wiki/初森ベマーズ "wikilink")、[オー・マイ・ジャンプ\! 〜少年ジャンプが地球を救う〜](https://ja.wikipedia.org/wiki/オー・マイ・ジャンプ!_〜少年ジャンプが地球を救う〜 "wikilink")、[GIVER 復讐の贈与者](https://ja.wikipedia.org/wiki/GIVER_復讐の贈与者 "wikilink")、[フルーツ宅配便](https://ja.wikipedia.org/wiki/フルーツ宅配便 "wikilink")、[きのう何食べた?](../Page/きのう何食べた?.md "wikilink")、[Iターン](https://ja.wikipedia.org/wiki/Iターン "wikilink")
   - [ロンブーの怪傑\!トリックスター](../Page/ロンブーの怪傑!トリックスター.md "wikilink")
   - [キンコンヒルズ](../Page/キンコンヒルズ.md "wikilink")
   - [週刊真木よう子](../Page/週刊真木よう子.md "wikilink")
@@ -1104,7 +1104,7 @@
       -
         [ライオン奥様劇場](../Page/ライオン奥様劇場.md "wikilink")→[いただきます→いただきますII](../Page/ライオンのいただきます.md "wikilink")→[ごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")（14:00から1時間遅れで放送）
   - [新サンデートーク](https://ja.wikipedia.org/wiki/新サンデートーク "wikilink")→[今、きらめいて](../Page/今、きらめいて.md "wikilink")（[仙台放送](../Page/仙台放送.md "wikilink")制作、mit開局後も引き続きIBCにて放送）
-  - [健保連のすこやかさん](https://ja.wikipedia.org/wiki/健保連のすこやかさん "wikilink")（1977年4月開始時点では土曜 8:30 - 8:45に放送\[40\]）
+  - [健保連のすこやかさん](../Page/健保連のすこやかさん.md "wikilink")（1977年4月開始時点では土曜 8:30 - 8:45に放送\[40\]）
   - [健康クイズ](../Page/健康クイズ.md "wikilink")
   - [キンカン素人民謡名人戦](../Page/キンカン素人民謡名人戦.md "wikilink")○
   - ゲゲゲの鬼太郎（[第1](../Page/ゲゲゲの鬼太郎_\(テレビアニメ第1シリーズ\).md "wikilink") - [3作](../Page/ゲゲゲの鬼太郎_\(テレビアニメ第3シリーズ\).md "wikilink")）

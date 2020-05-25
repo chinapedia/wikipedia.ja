@@ -52,7 +52,7 @@
       - [キリンMCダノンウォーターズ](../Page/キリンMCダノンウォーターズ.md "wikilink")（キリンエムシーダノンウォーターズ） - [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")・[ダノン](../Page/ダノン.md "wikilink")・三菱商事の共同出資で設立した日仏合弁のミネラルウォーター「[ボルヴィック](../Page/ボルヴィック.md "wikilink")」輸入専門販社。
   - [三井化学](../Page/三井化学.md "wikilink") (Mitsui Chemical)
   - [三菱ケミカルホールディングス](../Page/三菱ケミカルホールディングス.md "wikilink") (Mitsubishi Chemical Holdings)
-      - [三菱化学](https://ja.wikipedia.org/wiki/三菱化学 "wikilink") (Mitsubishi Chemical)
+      - [三菱化学](../Page/三菱化学.md "wikilink") (Mitsubishi Chemical)
   - 丸の内センタービル (Marunouchi Center Building) - [丸の内オアゾ](../Page/丸の内オアゾ.md "wikilink")内にある[オフィスビル](../Page/オフィスビル.md "wikilink")。
 
 ## 乗り物関連

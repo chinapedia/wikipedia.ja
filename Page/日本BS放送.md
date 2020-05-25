@@ -182,7 +182,7 @@
 
 その一方、独立系の局としては異例とも言える「報道局」を社内に維持しており、政治報道番組には開局当初から一定の時間枠と取材力を割く。重要政局や国政選挙前後には特別番組を編成するなど、一貫して力を入れている。党首クラスを含むその時々の注目の政治家や、地上波に出演しない（できない）政治家、[政治活動家](https://ja.wikipedia.org/wiki/政治活動家 "wikilink")、[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")の出演も目立ち、番組内での発言は、全国紙や通信社など他のメディアで報道されることもしばしばである。
 
-また、2011年10月より[BSパワー調査](https://ja.wikipedia.org/wiki/BSパワー調査 "wikilink")に参加したことで、それまで同社が想定していた視聴者層と実際の視聴者層に乖離が生じていることが（特に居住地域の想定が異なり、大都市圏より地方での視聴者層の方が広かった）判明したとして、[2012年](../Page/2012年.md "wikilink")（平成24年）4月改編においては看板番組の『[INsideOUT](https://ja.wikipedia.org/wiki/INsideOUT "wikilink")』の放送時間前倒しやプロ野球中継からの完全撤退など、大幅に編成方針を変更し、「ゾーニング編成の徹底」を主軸とした改編を行うなど\[16\]、2012年現在も編成に関しては入れ替えを重ねている。[2013年](../Page/2013年.md "wikilink")4月改編では大幅な改編はなかったが、逆にエンターテインメント番組の制作が減少し、紀行番組の制作に力を入れるようになった。また、当局が力を入れているアニメに関しては、月曜日を除く24時台が[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠「[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")」の放送で統一、続く同年7月期には残る月曜日にも同枠を新設し、更に同年10月期には全ての曜日の24時台が同枠「ANIME+」で統一された。
+また、2011年10月より[BSパワー調査](https://ja.wikipedia.org/wiki/BSパワー調査 "wikilink")に参加したことで、それまで同社が想定していた視聴者層と実際の視聴者層に乖離が生じていることが（特に居住地域の想定が異なり、大都市圏より地方での視聴者層の方が広かった）判明したとして、[2012年](../Page/2012年.md "wikilink")（平成24年）4月改編においては看板番組の『[INsideOUT](../Page/INsideOUT.md "wikilink")』の放送時間前倒しやプロ野球中継からの完全撤退など、大幅に編成方針を変更し、「ゾーニング編成の徹底」を主軸とした改編を行うなど\[16\]、2012年現在も編成に関しては入れ替えを重ねている。[2013年](../Page/2013年.md "wikilink")4月改編では大幅な改編はなかったが、逆にエンターテインメント番組の制作が減少し、紀行番組の制作に力を入れるようになった。また、当局が力を入れているアニメに関しては、月曜日を除く24時台が[深夜アニメ](../Page/深夜アニメ.md "wikilink")枠「[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")」の放送で統一、続く同年7月期には残る月曜日にも同枠を新設し、更に同年10月期には全ての曜日の24時台が同枠「ANIME+」で統一された。
 
 ### BPOの放送倫理違反
 
@@ -610,9 +610,9 @@ BSの無料民放局では最も多くのアニメを放送している。特に
   - 青春グラフティー倶楽部（チバテレビ制作）
   - money café（[内藤忍](https://ja.wikipedia.org/wiki/内藤忍 "wikilink")、[佐藤まり江](../Page/佐藤まり江.md "wikilink")が出演の初心者向けマネー番組）
   - [大人の自由時間](../Page/大人の自由時間.md "wikilink")
-  - [東京マーケットTODAY](https://ja.wikipedia.org/wiki/Stock_Voice "wikilink")（2007年12月 - 2009年[10月2日](../Page/10月2日.md "wikilink")）
+  - [東京マーケットTODAY](../Page/Stock_Voice.md "wikilink")（2007年12月 - 2009年[10月2日](../Page/10月2日.md "wikilink")）
   - いつでも会える・君のためにできるコト
-  - [伊集院光のばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のばんぐみ "wikilink")
+  - [伊集院光のばんぐみ](../Page/伊集院光のばんぐみ.md "wikilink")
   - [伊集院光のしんばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のしんばんぐみ "wikilink")
   - [メタル侍](https://ja.wikipedia.org/wiki/メタル侍 "wikilink")
   - [DLE HOUR](https://ja.wikipedia.org/wiki/DLE "wikilink")
@@ -623,7 +623,7 @@ BSの無料民放局では最も多くのアニメを放送している。特に
   - アロハ天国3
   - [サクセス登龍門](https://ja.wikipedia.org/wiki/サクセス登龍門 "wikilink")
   - [MUSICA〜音のおもてなし〜](https://ja.wikipedia.org/wiki/MUSICA〜音のおもてなし〜 "wikilink")
-  - [本格闘論FACE](https://ja.wikipedia.org/wiki/本格闘論FACE "wikilink")
+  - [本格闘論FACE](../Page/本格闘論FACE.md "wikilink")
   - [テリー伊藤の月に吠えろ](https://ja.wikipedia.org/wiki/テリー伊藤の月に吠えろ "wikilink")
   - [柳家喬太郎の粋ダネ\!](https://ja.wikipedia.org/wiki/柳家喬太郎の粋ダネ! "wikilink")
   - 自転車紀行 チャリ散歩
@@ -667,9 +667,9 @@ BSの無料民放局では最も多くのアニメを放送している。特に
   - ビックカメラ タイムセールTV
   - 建築家のアスリートたち
   - 中井学のゴルフ新理論
-  - [INsideAsiA](https://ja.wikipedia.org/wiki/INsideOUT "wikilink")
-  - [BS11 NEWS](https://ja.wikipedia.org/wiki/BS11ニュース "wikilink")
-  - [本格報道 INsideOUT](https://ja.wikipedia.org/wiki/INsideOUT "wikilink")
+  - [INsideAsiA](../Page/INsideOUT.md "wikilink")
+  - [BS11 NEWS](../Page/BS11ニュース.md "wikilink")
+  - [本格報道 INsideOUT](../Page/INsideOUT.md "wikilink")
   - [ウィークリーニュースONZE](https://ja.wikipedia.org/wiki/ウィークリーニュースONZE "wikilink")
   - [報道ライブ21 INsideOUT](https://ja.wikipedia.org/wiki/報道ライブ21_INsideOUT "wikilink")
       - 「現代ビジネス講座」世界を知る力 ※金曜 21:00 - 21:54
@@ -820,7 +820,7 @@ BSの無料民放局では最も多くのアニメを放送している。特に
       - オーバー・ザ・レインボー
       - [秋の童話](../Page/秋の童話.md "wikilink")
       - [魔王](../Page/魔王_\(2007年のテレビドラマ\).md "wikilink")
-      - [復活](https://ja.wikipedia.org/wiki/復活 "wikilink")
+      - [復活](../Page/復活.md "wikilink")
       - 無敵の新入社員
       - [雪だるま](https://ja.wikipedia.org/wiki/雪だるま_\(テレビドラマ\) "wikilink")
       - ミスターQ

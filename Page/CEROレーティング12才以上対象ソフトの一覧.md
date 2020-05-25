@@ -258,7 +258,7 @@
   - [涼宮ハルヒの激動](../Page/涼宮ハルヒの激動.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ゼノブレイド](https://ja.wikipedia.org/wiki/ゼノブレイド "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力」）
   - [ゼルダの伝説 トワイライトプリンセス](../Page/ゼルダの伝説_トワイライトプリンセス.md "wikilink")（コンテンツアイコン：「犯罪」）
-  - [全国デコトラ祭り](https://ja.wikipedia.org/wiki/全国デコトラ祭り "wikilink")（コンテンツアイコン：「犯罪」）
+  - [全国デコトラ祭り](../Page/全国デコトラ祭り.md "wikilink")（コンテンツアイコン：「犯罪」）
   - [戦国BASARA](../Page/戦国BASARA.md "wikilink")
       - 戦国BASARA2 英雄外伝 ダブルパック（コンテンツアイコン：「暴力、恋愛、セクシャル、犯罪」）
       - 戦国BASARA3（コンテンツアイコン：「セクシャル、暴力」）
@@ -435,7 +435,7 @@
       - ときめきメモリアル Girl's Side 2nd Season
       - ときめきメモリアル Girl's Side 3rd Story
   - [To LOVEる -とらぶる- ワクワク\!林間学校編](../Page/To_LOVEる_-とらぶる-.md "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [ドラマチックダンジョン サクラ大戦 〜君あるがため〜](https://ja.wikipedia.org/wiki/ドラマチックダンジョン_サクラ大戦_〜君あるがため〜 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [ドラマチックダンジョン サクラ大戦 〜君あるがため〜](../Page/ドラマチックダンジョン_サクラ大戦_〜君あるがため〜.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [TRICK DS版 〜隠し神の棲む館〜](../Page/トリック_\(テレビドラマ\).md "wikilink")（コンテンツアイコン：「暴力、犯罪、言葉・その他」）
   - [ニード・フォー・スピード ナイトロ](https://ja.wikipedia.org/wiki/ニード・フォー・スピード_ナイトロ "wikilink")（コンテンツアイコン：「犯罪」）
   - [NINJA GAIDEN Dragon Sword](../Page/NINJA_GAIDEN_Dragon_Sword.md "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
@@ -566,7 +566,7 @@
   - [ストリートファイターZERO2](https://ja.wikipedia.org/wiki/ストリートファイターZERO2 "wikilink")（コンテンツアイコン：「暴力」）
   - [魔神転生](../Page/魔神転生.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [スーパー蒼き狼と白き牝鹿 元朝秘史](../Page/蒼き狼と白き牝鹿・元朝秘史.md "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [デモンズブレイゾン　魔界村　紋章編](https://ja.wikipedia.org/wiki/デモンズブレイゾン_魔界村_紋章編 "wikilink")（コンテンツアイコン：「暴力」）
+  - [デモンズブレイゾン　魔界村　紋章編](../Page/デモンズブレイゾン_魔界村_紋章編.md "wikilink")（コンテンツアイコン：「暴力」）
   - [パイロットウイングス](../Page/パイロットウイングス.md "wikilink")（コンテンツアイコン：「麻薬」）
   - [バハムートラグーン](../Page/バハムートラグーン.md "wikilink")（コンテンツアイコン：「犯罪」）
   - [美少女雀士スーチーパイ](../Page/アイドル雀士スーチーパイ.md "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -887,7 +887,7 @@
   - [ストリートファイターIII 3rd STRIKE ONLINE EDITION](../Page/ストリートファイターIII.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [スペースチャンネル5 パート2](../Page/スペースチャンネル5.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [セガビンテージコレクション](https://ja.wikipedia.org/wiki/セガビンテージコレクション "wikilink")
-      - [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink")（コンテンツアイコン：「暴力」）
+      - [獣王記](../Page/獣王記.md "wikilink")（コンテンツアイコン：「暴力」）
       - [ベア・ナックルII　死闘への鎮魂歌](https://ja.wikipedia.org/wiki/ベア・ナックルII_死闘への鎮魂歌 "wikilink")（コンテンツアイコン：「暴力」）
   - [DARK AWAKE](../Page/カオスブレイカー.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [鉄拳5 DARK RESURRECTION](../Page/鉄拳5.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
@@ -1149,7 +1149,7 @@
       - [Persona](../Page/女神異聞録ペルソナ.md "wikilink")（コンテンツアイコン：「犯罪」）
       - [ペルソナ3 ポータブル](../Page/ペルソナ3.md "wikilink")（コンテンツアイコン：「言葉・その他、セクシャル、暴力」）
       - [ペルソナ2 罪](../Page/ペルソナ2.md "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、麻薬」）
-  - [マギウステイル エタニティ 〜世界樹と恋する魔法使い〜](https://ja.wikipedia.org/wiki/MagusTale_〜世界樹と恋する魔法使い〜 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
+  - [マギウステイル エタニティ 〜世界樹と恋する魔法使い〜](../Page/MagusTale_〜世界樹と恋する魔法使い〜.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
   - [マグナカルタ ポータブル](../Page/マグナカルタ_\(ゲーム\).md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [マクロストライアングルフロンティア](https://ja.wikipedia.org/wiki/マクロストライアングルフロンティア "wikilink")（コンテンツアイコン：「セクシャル」）
   - [魔法少女まどか☆マギカ ポータブル](https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカ_ポータブル "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、言葉・その他」）
@@ -1189,7 +1189,7 @@
       - [Lucian Bee's RESURRECTION SUPERNOVA](https://ja.wikipedia.org/wiki/Lucian_Bee's_RESURRECTION_SUPERNOVA "wikilink")（コンテンツアイコン：「恋愛、セクシャル、犯罪」）
       - [Lucian Bee's EVIL VIOLET](https://ja.wikipedia.org/wiki/Lucian_Bee's_EVIL_VIOLET "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
       - [Lucian Bee's JUSTICE YELLOW](https://ja.wikipedia.org/wiki/Lucian_Bee's_JUSTICE_YELLOW "wikilink")（コンテンツアイコン：「恋愛」）
-  - [LUNAR -HARMONY of SILVER STAR-](https://ja.wikipedia.org/wiki/LUNAR "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [LUNAR -HARMONY of SILVER STAR-](../Page/LUNAR.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [るろうに剣心 -明治剣客浪漫譚- 再閃](https://ja.wikipedia.org/wiki/るろうに剣心_-明治剣客浪漫譚-_\(アニメ\)#ゲーム "wikilink")（コンテンツアイコン：「恋愛、暴力」）
   - 煉獄 The Tower of Purgatory（コンテンツアイコン：「暴力」）
   - [ロストヒーローズ](https://ja.wikipedia.org/wiki/ロストヒーローズ "wikilink")（コンテンツアイコン：「犯罪」）
@@ -1286,7 +1286,7 @@
   - [カヌチ](https://ja.wikipedia.org/wiki/カヌチ "wikilink") 白き翼の章（コンテンツアイコン：「恋愛、セクシャル」）
   - カヌチ 黒き翼の章（コンテンツアイコン：「恋愛」）
   - [神業-KAMIWAZA-](../Page/神業-KAMIWAZA-.md "wikilink")（コンテンツアイコン：「セクシャル、犯罪」）
-  - [ガンバード](https://ja.wikipedia.org/wiki/ガンバード "wikilink")1&2（コンテンツアイコン：「不明」）
+  - [ガンバード](../Page/ガンバード.md "wikilink")1&2（コンテンツアイコン：「不明」）
   - [ガンパレード・オーケストラ](../Page/ガンパレード・オーケストラ.md "wikilink")シリーズ（コンテンツアイコン：「恋愛、暴力（緑の章は恋愛、セクシャル、暴力）」）
       - ガンパレード・オーケストラ 白の章 〜青森ペンギン伝説〜
       - ガンパレード・オーケストラ 緑の章 〜狼と彼の少年〜
@@ -1682,7 +1682,7 @@
   - [大江戸風水因果律 花火2](https://ja.wikipedia.org/wiki/大江戸風水因果律_花火2 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
   - [OverBlood](https://ja.wikipedia.org/wiki/OverBlood "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
   - [俺の屍を越えてゆけ](../Page/俺の屍を越えてゆけ.md "wikilink")（PS one books、ゲームアーカイブス）（コンテンツアイコン：「暴力」）
-  - [格ゲー野郎 Fighting Game Creator](https://ja.wikipedia.org/wiki/格ゲー野郎_Fighting_Game_Creator "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
+  - [格ゲー野郎 Fighting Game Creator](../Page/格ゲー野郎_Fighting_Game_Creator.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力」）
   - [風の丘公園にて](https://ja.wikipedia.org/wiki/風の丘公園にて "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「恋愛、セクシャル」）
   - [学校であった怖い話S](https://ja.wikipedia.org/wiki/学校であった怖い話S "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、恐怖、犯罪」）
   - [カルドセプト エキスパンション・プラス](../Page/カルドセプト.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
@@ -1864,7 +1864,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [THE IDOLM@STER LIVE FOR YOU\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")（コンテンツアイコン：「セクシャル」） <small>※2009年3月発売の『アイドルマスターツインズ』は『[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")』が15才以上対象のため、全体では15才以上対象。</small>
+  - [THE IDOLM@STER LIVE FOR YOU\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")（コンテンツアイコン：「セクシャル」） <small>※2009年3月発売の『アイドルマスターツインズ』は『[THE IDOLM@STER](../Page/THE_IDOLM@STER_\(Xbox_360\).md "wikilink")』が15才以上対象のため、全体では15才以上対象。</small>
   - [THE IDOLM@STER 2](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_2 "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
   - [ALAN WAKE](https://ja.wikipedia.org/wiki/ALAN_WAKE "wikilink")（コンテンツアイコン：「恐怖、セクシャル、恋愛、暴力」）
   - [アルカニア ゴシック 4](https://ja.wikipedia.org/wiki/アルカニア_ゴシック_4 "wikilink")（コンテンツアイコン：「暴力」）
@@ -2034,7 +2034,7 @@
   - A Kingdom for Keflings
   - [Shadow Assault 〜TENCHU〜](https://ja.wikipedia.org/wiki/天誅_\(ゲーム\) "wikilink")（コンテンツアイコン：「???」）
   - [真サムライスピリッツ 覇王丸地獄変](../Page/サムライスピリッツ.md "wikilink")（コンテンツアイコン：「暴力」）
-  - [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink")（コンテンツアイコン：「暴力」）
+  - [獣王記](../Page/獣王記.md "wikilink")（コンテンツアイコン：「暴力」）
   - [SCOTT PILGRIM VS. THE WORLD: THE GAME](https://ja.wikipedia.org/wiki/スコット・ピルグリムVS.ザ・ワールド:_ザ・ゲーム "wikilink")（コンテンツアイコン：「???」）
   - Street Trace: NYC（コンテンツアイコン：「暴力」）
   - [ストリートファイターIII 3rd STRIKE ONLINE EDITION](../Page/ストリートファイターIII.md "wikilink")（コンテンツアイコン：「暴力」）
@@ -2247,7 +2247,7 @@ NEOGEO
 
 ## アーケードゲーム
 
-  - [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink")（コンテンツアイコン：「暴力」）
+  - [獣王記](../Page/獣王記.md "wikilink")（コンテンツアイコン：「暴力」）
   - [Xマルチプライ](../Page/Xマルチプライ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [エレベーターアクション リターンズ](https://ja.wikipedia.org/wiki/エレベーターアクション#エレベーターアクションリターンズ "wikilink")（コンテンツアイコン：「暴力」）
   - [クレイジー・クライマー2](https://ja.wikipedia.org/wiki/クレイジー・クライマー2 "wikilink")（コンテンツアイコン：「セクシャル」）

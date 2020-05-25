@@ -15,7 +15,7 @@
 
   - [ヒートポンプ](../Page/ヒートポンプ.md "wikilink") (*h*eat *p*ump)。
   - [ヘルムホルツ面](https://ja.wikipedia.org/wiki/ヘルムホルツ面 "wikilink") (*h*elmholz *p*lain) - [電気二重層](../Page/電気二重層.md "wikilink")におけるイオンの最近接面のこと。
-  - [冬眠](../Page/冬眠.md "wikilink")特異的[タンパク質](../Page/タンパク質.md "wikilink")(*h*ibernation-specific *p*rotein)。[三菱化学](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")生命科学研究所主任研究員の近藤宣昭らにより発見された\[1\]。 脳で冬眠を制御するホルモンと考えられている。
+  - [冬眠](../Page/冬眠.md "wikilink")特異的[タンパク質](../Page/タンパク質.md "wikilink")(*h*ibernation-specific *p*rotein)。[三菱化学](../Page/三菱化学.md "wikilink")生命科学研究所主任研究員の近藤宣昭らにより発見された\[1\]。 脳で冬眠を制御するホルモンと考えられている。
   - [ホームページ](../Page/ホームページ.md "wikilink") (*h*ome*p*age) - [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")を起動した時や、多くのブラウザに存在するホームボタンを押した時に表示される[ウェブページ](../Page/ウェブページ.md "wikilink")のこと。
   - [馬力](../Page/馬力.md "wikilink") (*h*orse *p*ower)。記号㏋。
   - [ヒューム管](../Page/ヒューム管.md "wikilink")（*h*ume *p*ipe） - [遠心力](../Page/遠心力.md "wikilink")[鉄筋コンクリート](../Page/鉄筋コンクリート.md "wikilink")管渠材

@@ -518,7 +518,7 @@
 
       - 岩本所長：[田畑孝](https://ja.wikipedia.org/wiki/田畑孝 "wikilink")
       - 岩本一樹：[中村肇](https://ja.wikipedia.org/wiki/中村肇_\(俳優\) "wikilink")
-      - お婆ちゃん：[武知杜代子](https://ja.wikipedia.org/wiki/武智豊子 "wikilink")
+      - お婆ちゃん：[武知杜代子](../Page/武智豊子.md "wikilink")
 
   - 寮長：[谷本小夜子](https://ja.wikipedia.org/wiki/谷本小代子 "wikilink")（第20話）
 
@@ -1543,7 +1543,7 @@
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [テレビ熊本](../Page/テレビ熊本.md "wikilink")
-  - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")

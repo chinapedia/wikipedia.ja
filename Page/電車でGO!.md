@@ -481,7 +481,7 @@ PS：[2000年](../Page/2000年.md "wikilink")[1月27日](../Page/1月27日.md "w
   - [モンキーパークモノレール線](https://ja.wikipedia.org/wiki/名鉄モンキーパークモノレール線 "wikilink")\[31\]
     普通（[犬山遊園](../Page/犬山遊園駅.md "wikilink")→[動物園](../Page/動物園駅_\(愛知県犬山市\).md "wikilink")）
       -
-        [MRM100形](https://ja.wikipedia.org/wiki/名鉄MRM100形電車 "wikilink")（隠しダイヤ）
+        [MRM100形](../Page/名鉄MRM100形電車.md "wikilink")（隠しダイヤ）
 
 シリーズ初の私鉄編である。『電車でGO\!』では初めてPlayStation向けに新規開発され、[路面電車](../Page/路面電車.md "wikilink")や[モノレール](../Page/モノレール.md "wikilink")の運転が実現した。
 
@@ -1217,7 +1217,7 @@ E3系、200系、[E1系](../Page/新幹線E1系電車.md "wikilink")、[E4系](.
 #### 電車でGO\! 名古屋鉄道編
 
 ※全て[名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")の車両。
-[3700系](https://ja.wikipedia.org/wiki/名鉄3700系電車 "wikilink")、[7000系](../Page/名鉄7000系電車.md "wikilink")、[1000・1200系](https://ja.wikipedia.org/wiki/名鉄1200系電車 "wikilink")、[880形](../Page/名鉄モ880形電車.md "wikilink")、[100系](../Page/名鉄100系電車.md "wikilink")、[6000系](../Page/名鉄6000系電車.md "wikilink")、[1000系](../Page/名鉄1000系電車.md "wikilink")、[キハ8500系](../Page/名鉄キハ8500系気動車.md "wikilink")、[3400系](../Page/名鉄3400系電車.md "wikilink")、[キハ8000系](../Page/名鉄キハ8000系気動車.md "wikilink")、[MRM100形](https://ja.wikipedia.org/wiki/名鉄MRM100形電車 "wikilink")、[1600系](../Page/名鉄1600系電車.md "wikilink")
+[3700系](https://ja.wikipedia.org/wiki/名鉄3700系電車 "wikilink")、[7000系](../Page/名鉄7000系電車.md "wikilink")、[1000・1200系](https://ja.wikipedia.org/wiki/名鉄1200系電車 "wikilink")、[880形](../Page/名鉄モ880形電車.md "wikilink")、[100系](../Page/名鉄100系電車.md "wikilink")、[6000系](../Page/名鉄6000系電車.md "wikilink")、[1000系](../Page/名鉄1000系電車.md "wikilink")、[キハ8500系](../Page/名鉄キハ8500系気動車.md "wikilink")、[3400系](../Page/名鉄3400系電車.md "wikilink")、[キハ8000系](../Page/名鉄キハ8000系気動車.md "wikilink")、[MRM100形](../Page/名鉄MRM100形電車.md "wikilink")、[1600系](../Page/名鉄1600系電車.md "wikilink")
 
 #### 電車でGO\!3 通勤編
 

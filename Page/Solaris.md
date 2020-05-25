@@ -1,7 +1,7 @@
 > この記事は[Solaris](https://ja.wikipedia.org/wiki/Solaris)から翻訳されています。
 
 
-**Solaris**（**ソラリス**）は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")（サン）によって開発され、[UNIX](../Page/UNIX.md "wikilink")として[認証を受けた](../Page/Single_UNIX_Specification.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。2010年1月27日の[オラクルによるサン買収に伴い](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、現在の開発は同社が担っている。
+**Solaris**（**ソラリス**）は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")（サン）によって開発され、[UNIX](../Page/UNIX.md "wikilink")として[認証を受けた](../Page/Single_UNIX_Specification.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。2010年1月27日の[オラクルによるサン買収に伴い](../Page/オラクル_\(企業\).md "wikilink")、現在の開発は同社が担っている。
 
 [プロプライエタリ・ソフトウェア](../Page/プロプライエタリ・ソフトウェア.md "wikilink")であるが、かつてコア部分（ONという：OS＋NETの略）は[OpenSolaris](../Page/OpenSolaris.md "wikilink")として[オープンソース](../Page/オープンソース.md "wikilink")化されたが、2010年8月以降、ONのソースコードの公開はされていない。
 

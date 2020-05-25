@@ -125,7 +125,7 @@ B'zが初めて観客の前でライブを披露したのは、1989年にTM NETW
 
 ### 1999年 - 2003年
 
-1999年、前年に発売したベスト・アルバムのセールスなどにより『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』の「アーティスト・オブ・ザ・イヤー」をはじめとする各賞\[47\]、『[ワールド・ミュージック・アワード](https://ja.wikipedia.org/wiki/ワールド・ミュージック・アワード "wikilink")』（*The World Music Awards*）の「World Selling Japanese Artist of The Year」を受賞した。ソロ活動を経て26thシングル『[ギリギリchop](../Page/ギリギリchop.md "wikilink")』を発売、10thアルバム『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』収録の「ギリギリchop（Version 51）」には[Mr. Bigから](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")（*Billy Sheehan*）と[パット・トーピー](../Page/パット・トーピー.md "wikilink")（*Pat Torpey*）が参加している\[48\]。また、以前から面識のあった[スティーヴ・ヴァイ](../Page/スティーヴ・ヴァイ.md "wikilink")（*Steve Vai*）のレコーディングに参加し、『[ウルトラ・ゾーン](https://ja.wikipedia.org/wiki/ウルトラ・ゾーン "wikilink")』（*The Ultra Zone*）収録の「エイジアン・スカイ」（*ASIAN SKY*）を制作している。『B'z LIVE-GYM '99 "Brotherhood"』の[横浜公演はコンサート初開催となる](../Page/横浜市.md "wikilink")[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")を使用した\[49\]。
+1999年、前年に発売したベスト・アルバムのセールスなどにより『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』の「アーティスト・オブ・ザ・イヤー」をはじめとする各賞\[47\]、『[ワールド・ミュージック・アワード](../Page/ワールド・ミュージック・アワード.md "wikilink")』（*The World Music Awards*）の「World Selling Japanese Artist of The Year」を受賞した。ソロ活動を経て26thシングル『[ギリギリchop](../Page/ギリギリchop.md "wikilink")』を発売、10thアルバム『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』収録の「ギリギリchop（Version 51）」には[Mr. Bigから](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")（*Billy Sheehan*）と[パット・トーピー](../Page/パット・トーピー.md "wikilink")（*Pat Torpey*）が参加している\[48\]。また、以前から面識のあった[スティーヴ・ヴァイ](../Page/スティーヴ・ヴァイ.md "wikilink")（*Steve Vai*）のレコーディングに参加し、『[ウルトラ・ゾーン](https://ja.wikipedia.org/wiki/ウルトラ・ゾーン "wikilink")』（*The Ultra Zone*）収録の「エイジアン・スカイ」（*ASIAN SKY*）を制作している。『B'z LIVE-GYM '99 "Brotherhood"』の[横浜公演はコンサート初開催となる](../Page/横浜市.md "wikilink")[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")を使用した\[49\]。
 
 2000年、27thシングル『[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")』、マスト・アルバムとして『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』を発売。[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組『B'zの[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』に出演した際は、インターネット中継の同時アクセス数が14,600ストリームに達し、当時の日本記録を更新した\[50\]。29thシングル『[juice](https://ja.wikipedia.org/wiki/juice_\(B'zの曲\) "wikilink")』の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は[札幌での](https://ja.wikipedia.org/wiki/札幌市 "wikilink")「ゲリラライブ」形式で撮影した。『B'z LIVE-GYM Pleasure 2000 "juice"』では、8月9日の[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")でのライブが激しい雨と落雷によって急遽内容を短縮して終了する事態となった\[51\]。同年には11thアルバム『[ELEVEN](../Page/ELEVEN_\(アルバム\).md "wikilink")』発売した。
 
@@ -228,7 +228,7 @@ B'zを論評する時に、避けて通れないのが「[パクリ](https://ja.
   - 『第24回日本ゴールドディスク大賞』ザ・ベスト5ソング「[イチブトゼンブ](https://ja.wikipedia.org/wiki/イチブトゼンブ/DIVE "wikilink")」\[162\]
   - 『第28回日本ゴールドディスク大賞』ベスト5アルバム『[B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")』\[163\]
 
-**[ワールド・ミュージック・アワード](https://ja.wikipedia.org/wiki/ワールド・ミュージック・アワード "wikilink")**
+**[ワールド・ミュージック・アワード](../Page/ワールド・ミュージック・アワード.md "wikilink")**
 
   - 『1999 The World Music Awards』World Selling Japanese Artist of The Year
 

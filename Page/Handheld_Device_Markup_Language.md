@@ -13,7 +13,7 @@
 
 ## 関連項目
 
-  - [モバイルブラウザ](https://ja.wikipedia.org/wiki/モバイルブラウザ "wikilink")
+  - [モバイルブラウザ](../Page/モバイルブラウザ.md "wikilink")
 
 ## 外部リンク
 

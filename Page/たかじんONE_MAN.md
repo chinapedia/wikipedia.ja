@@ -61,7 +61,7 @@ MBSテレビでは、当番組の後番組として『[よゐこのワケアリ]
   - [上岡龍太郎](../Page/上岡龍太郎.md "wikilink")
   - [松山千春](../Page/松山千春.md "wikilink")
   - [細木数子](https://ja.wikipedia.org/wiki/細木数子 "wikilink")
-  - [星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")
+  - [星野仙一](../Page/星野仙一.md "wikilink")
   - [中村玉緒](../Page/中村玉緒.md "wikilink")（数回出演）
   - [桂米朝](../Page/桂米朝_\(3代目\).md "wikilink")
   - [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")

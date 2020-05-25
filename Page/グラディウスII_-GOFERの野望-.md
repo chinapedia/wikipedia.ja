@@ -234,7 +234,7 @@
 <td><ul>
 <li>ビッグコア</li>
 <li><a href="../Page/ゴーレム_(グラディウス).md" title="wikilink">ゴーレム</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/テトラン_(グラディウス)" title="wikilink">テトラン</a></li>
+<li><a href="../Page/テトラン_(グラディウス).md" title="wikilink">テトラン</a></li>
 <li>ガウ</li>
 <li>イントルーダ</li>
 <li>カバードコア</li>

@@ -1,7 +1,7 @@
 > この記事は[Apache Subversion](https://ja.wikipedia.org/wiki/Apache_Subversion)から翻訳されています。
 
 
-**Apache Subversion**（アパッチ・サブバージョン; SVN）はプログラムのソースコードなどを管理する集中型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")の一つ。元々は、[CollabNet](https://ja.wikipedia.org/wiki/CollabNet "wikilink")が開発していたが、[2009年](../Page/2009年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")にApache Incubatorプロジェクトのひとつとなり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")より[Apacheのトッププロジェクトとなった](../Page/Apacheソフトウェア財団.md "wikilink")。ライセンスは[Apache Licenseに準じたものとなっている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。
+**Apache Subversion**（アパッチ・サブバージョン; SVN）はプログラムのソースコードなどを管理する集中型[バージョン管理システム](../Page/バージョン管理システム.md "wikilink")の一つ。元々は、[CollabNet](https://ja.wikipedia.org/wiki/CollabNet "wikilink")が開発していたが、[2009年](../Page/2009年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")にApache Incubatorプロジェクトのひとつとなり、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")より[Apacheのトッププロジェクトとなった](../Page/Apacheソフトウェア財団.md "wikilink")。ライセンスは[Apache Licenseに準じたものとなっている](../Page/Apache_License.md "wikilink")。
 
 ## 概要
 

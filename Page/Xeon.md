@@ -6415,7 +6415,7 @@ E5-4627 v3 のみハイパースレッディングが使えない。
 
 ### インテル Xeon プロセッサー E3系
 
-[2015年](../Page/2015年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に Xeon E3-1200 v4 を発表。
+[2015年](../Page/2015年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に Xeon E3-1200 v4 を発表。
 
 <table>
 <caption>Xeon E3-1200 v4</caption>

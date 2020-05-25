@@ -298,7 +298,7 @@ C11は[Unicode](../Page/Unicode.md "wikilink")文字列（[UTF-32](../Page/UTF-3
   - [C\#](../Page/C_Sharp.md "wikilink")
     [マイクロソフト](../Page/マイクロソフト.md "wikilink")が[.NET Framework向けに開発した言語](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。文法はC言語およびC++に近い書式を持ち、Javaと似ている部分も存在するが、機能的には[Delphi](../Page/Delphi.md "wikilink")がベースとなっている。
   - [Cg](../Page/Cg_\(プログラミング言語\).md "wikilink")
-    C言語を[GPU上での](../Page/Graphics_Processing_Unit.md "wikilink")[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")処理用に特化させたもの（[シェーダー](../Page/シェーダー.md "wikilink")言語、[シェーディング言語](https://ja.wikipedia.org/wiki/シェーディング言語 "wikilink")）。[NVIDIA](../Page/NVIDIA.md "wikilink")によって開発された。
+    C言語を[GPU上での](../Page/Graphics_Processing_Unit.md "wikilink")[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")処理用に特化させたもの（[シェーダー](../Page/シェーダー.md "wikilink")言語、[シェーディング言語](../Page/シェーディング言語.md "wikilink")）。[NVIDIA](../Page/NVIDIA.md "wikilink")によって開発された。
   - [Cyclone](https://ja.wikipedia.org/wiki/Cyclone_\(プログラミング言語\) "wikilink")
     C言語の上位互換セキュア実装。ポインタの扱いを厳格化して安全面に配慮して拡張したもの。その他リージョンベースメモリ管理システム、[正規表現](../Page/正規表現.md "wikilink")、タグ付共用体などを追加している。
   - [Objective-C](../Page/Objective-C.md "wikilink")

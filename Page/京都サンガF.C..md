@@ -150,7 +150,7 @@
   - 2014年
     クラブスローガン ：「**NEVER GIVE UP 勝利へ**」
 
-[イラン代表元監督の](../Page/サッカーイラン代表.md "wikilink")[ヴァルデイル・バドゥ・ヴィエイラ](../Page/ヴァルデイル・バドゥ・ヴィエイラ.md "wikilink")が監督に就任。[安藤淳](../Page/安藤淳.md "wikilink")と[染谷悠太](https://ja.wikipedia.org/wiki/染谷悠太 "wikilink")がC大阪、[倉貫一毅](../Page/倉貫一毅.md "wikilink")が[鳥取](../Page/ガイナーレ鳥取.md "wikilink")、[秋本倫孝](../Page/秋本倫孝.md "wikilink")が[富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")、[原一樹](../Page/原一樹.md "wikilink")が北九州、[中村祐哉](https://ja.wikipedia.org/wiki/中村祐哉 "wikilink")が長崎、[児玉剛](https://ja.wikipedia.org/wiki/児玉剛 "wikilink")が愛媛へ完全移籍した。
+[イラン代表元監督の](../Page/サッカーイラン代表.md "wikilink")[ヴァルデイル・バドゥ・ヴィエイラ](../Page/ヴァルデイル・バドゥ・ヴィエイラ.md "wikilink")が監督に就任。[安藤淳](../Page/安藤淳.md "wikilink")と[染谷悠太](https://ja.wikipedia.org/wiki/染谷悠太 "wikilink")がC大阪、[倉貫一毅](../Page/倉貫一毅.md "wikilink")が[鳥取](../Page/ガイナーレ鳥取.md "wikilink")、[秋本倫孝](../Page/秋本倫孝.md "wikilink")が[富山](../Page/カターレ富山.md "wikilink")、[原一樹](../Page/原一樹.md "wikilink")が北九州、[中村祐哉](https://ja.wikipedia.org/wiki/中村祐哉 "wikilink")が長崎、[児玉剛](https://ja.wikipedia.org/wiki/児玉剛 "wikilink")が愛媛へ完全移籍した。
 
 一方、[名古屋から](https://ja.wikipedia.org/wiki/名古屋グランパスエイト "wikilink")[石櫃洋祐](../Page/石櫃洋祐.md "wikilink")、ブラジル・[アメリカFCから](../Page/アメリカFC_\(ミナスジェライス州\).md "wikilink")[アレッサンドロらを完全移籍で](../Page/アレッサンドロ・ヌーネス・ナシメント.md "wikilink")、[神戸から](../Page/ヴィッセル神戸.md "wikilink")[有田光希](https://ja.wikipedia.org/wiki/有田光希 "wikilink")、[横浜FMから](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[比嘉祐介](https://ja.wikipedia.org/wiki/比嘉祐介 "wikilink")、[杭州緑城から](https://ja.wikipedia.org/wiki/杭州緑城足球倶楽部 "wikilink")[大黒将志](../Page/大黒将志.md "wikilink")を期限付き移籍で獲得した。
 

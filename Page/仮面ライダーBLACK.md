@@ -48,7 +48,7 @@
 
 メインライターは[メタルヒーローシリーズ](../Page/メタルヒーローシリーズ.md "wikilink")を降板してブランクを置いていた[上原正三](../Page/上原正三.md "wikilink")が就任した。しかし、周囲からの意見がこれまでの作品に比べてあまりに多かったこともあって、上原はシリーズの序盤にてメインライターを降りた。その後は[宮下隼一](../Page/宮下隼一.md "wikilink")、[杉村升](../Page/杉村升.md "wikilink")などの面々が脚本陣の中心的役割を担った。またベテランの[長坂秀佳](../Page/長坂秀佳.md "wikilink")が偶然テレビで『BLACK』を見てその黒の佇まいにほれ込み旧知の東映・齋藤頼照プロデューサーを通して吉川に作品の参加を志願したものの、吉川は「ギャラが高すぎるから無理」と長坂に断りを入れたというエピソードもある。後に『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』などを手掛ける[荒川稔久](../Page/荒川稔久.md "wikilink")は、本作品で初めて東映特撮作品に参加した。当時の荒川はデビューしたてで仕事がなく、本作品脚本家の一人である[山田隆司](../Page/山田隆司.md "wikilink")から紹介されたという。
 
-パイロット監督は仮面ライダーシリーズ初参加となる[小林義明](../Page/小林義明.md "wikilink")が担当。小林は第1話のみの参加となったが、[倉田てつを](../Page/倉田てつを.md "wikilink")によると第1話は撮影だけで丸1ヶ月掛かったという。また、序盤で夜の街を疾走するシーンだけで10日間を費やしていたといわれる。その他は[小西通雄](../Page/小西通雄.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、[蓑輪雅夫](https://ja.wikipedia.org/wiki/蓑輪雅夫 "wikilink")といった面々が演出陣のローテーションを組み、小西と小笠原は劇場版のメガホンもそれぞれ担当している。
+パイロット監督は仮面ライダーシリーズ初参加となる[小林義明](../Page/小林義明.md "wikilink")が担当。小林は第1話のみの参加となったが、[倉田てつを](../Page/倉田てつを.md "wikilink")によると第1話は撮影だけで丸1ヶ月掛かったという。また、序盤で夜の街を疾走するシーンだけで10日間を費やしていたといわれる。その他は[小西通雄](../Page/小西通雄.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、[蓑輪雅夫](../Page/蓑輪雅夫.md "wikilink")といった面々が演出陣のローテーションを組み、小西と小笠原は劇場版のメガホンもそれぞれ担当している。
 
 主役・南光太郎役のキャストについては、公開オーディションにより決定された。秋月信彦役の堀内孝人は準入賞であった。このオーディションの告知ポスターには、バイクの反転写真と初代ライダーの横顔、そして「英雄（ヒーロー）は、誰だ！？」という[キャッチコピー](../Page/キャッチコピー.md "wikilink")があしらわれていた。また、オーディションの模様は「これが仮面ライダーBLACKだ！」で放送された。
 
@@ -275,7 +275,7 @@
   - 紀田克美 - [田口あゆみ](../Page/田口萌.md "wikilink")
   - 東堂勝 - [セント](../Page/星セント.md "wikilink") (2 , 10)
   - 少年戦士 - 高橋竜次、中田武士
-  - 大神官ビシュム / 大怪人ビシュム - [好井ひとみ](https://ja.wikipedia.org/wiki/好井ひとみ "wikilink")(1 - 45)
+  - 大神官ビシュム / 大怪人ビシュム - [好井ひとみ](../Page/好井ひとみ.md "wikilink")(1 - 45)
   - 剣聖ビルゲニア - [吉田淳](https://ja.wikipedia.org/wiki/吉田淳 "wikilink") (18 -23 , 25 - 35)
   - 黒松英臣 - [黒部進](../Page/黒部進.md "wikilink") (1 - 4 , 10 , 14 , 19)
   - 大宮幸一 - [北見治一](https://ja.wikipedia.org/wiki/北見治一 "wikilink")(1 - 3 , 7)
@@ -402,7 +402,7 @@
   - 脚本 - [上原正三](../Page/上原正三.md "wikilink")、[宮下隼一](../Page/宮下隼一.md "wikilink")、[内藤誠](https://ja.wikipedia.org/wiki/内藤誠 "wikilink")、[山田隆司](../Page/山田隆司.md "wikilink")、[鷺山京子](https://ja.wikipedia.org/wiki/鷺山京子 "wikilink")、[杉村升](../Page/杉村升.md "wikilink")、[山崎久](../Page/田口勝彦_\(監督\).md "wikilink")、[荒木憲一](../Page/荒木憲一.md "wikilink")、山口竜、[荒川稔久](../Page/荒川稔久.md "wikilink")
   - 音楽 - [川村栄二](../Page/川村栄二.md "wikilink")
   - アクション監督 - [金田治](../Page/金田治.md "wikilink")・[村上潤](../Page/村上潤.md "wikilink")（[ジャパン・アクション・クラブ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
-  - 監督 - [小林義明](../Page/小林義明.md "wikilink")、[辻理](../Page/辻理.md "wikilink")、北本弘、蔦林淳望、[小西通雄](../Page/小西通雄.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、[蓑輪雅夫](https://ja.wikipedia.org/wiki/蓑輪雅夫 "wikilink")
+  - 監督 - [小林義明](../Page/小林義明.md "wikilink")、[辻理](../Page/辻理.md "wikilink")、北本弘、蔦林淳望、[小西通雄](../Page/小西通雄.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、[蓑輪雅夫](../Page/蓑輪雅夫.md "wikilink")
   - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")、工藤矩雄、岡部正治
   - 照明 - 中川勇雄、神長倉孝明、嶋田宜代士、仲澤廣幸、清水達巳、渡辺康
   - 美術 - 井上明、秋森直美、野本幸男、大橋豊一、稲野実
@@ -1115,7 +1115,7 @@ BGMはのちに『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink
   - 福岡県：[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - 長崎県：[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - 熊本県：[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
-  - 大分県：[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")
+  - 大分県：[大分放送](../Page/大分放送.md "wikilink")
   - 宮崎県：[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - 鹿児島県：[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - 沖縄県：[琉球放送](../Page/琉球放送.md "wikilink")

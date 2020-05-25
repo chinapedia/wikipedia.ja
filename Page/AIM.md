@@ -39,7 +39,7 @@
 
   - [AIM証券](https://ja.wikipedia.org/wiki/AIM証券 "wikilink") - 旧MMG証券。[大阪](../Page/大阪.md "wikilink")の[証券会社](../Page/証券会社.md "wikilink")
 
-  - [AIM-65](https://ja.wikipedia.org/wiki/AIM-65 "wikilink") - [ロックウェル・インターナショナル](../Page/ロックウェル・インターナショナル.md "wikilink")が1976年に発売した[ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")
+  - [AIM-65](../Page/AIM-65.md "wikilink") - [ロックウェル・インターナショナル](../Page/ロックウェル・インターナショナル.md "wikilink")が1976年に発売した[ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")
 
   - [AIM (アサルトライフル)](https://ja.wikipedia.org/wiki/AIM_\(アサルトライフル\) "wikilink")、[AIMS-74](https://ja.wikipedia.org/wiki/AIMS-74 "wikilink") - ルーマニア製のアサルトライフル。
 

@@ -602,7 +602,7 @@ VOH-002（通常盤）</p></td>
 <ol>
 <li>Lydia〜Fairy Dance</li>
 <li>song of pocchong〜雫の歌</li>
-<li><a href="https://ja.wikipedia.org/wiki/悲しくてやりきれない" title="wikilink">悲しくてやりきれない</a></li>
+<li><a href="../Page/悲しくてやりきれない.md" title="wikilink">悲しくてやりきれない</a></li>
 <li>Black is the Colour</li>
 <li><a href="https://ja.wikipedia.org/wiki/蘇州夜曲" title="wikilink">蘇州夜曲</a></li>
 <li>Suil a Run</li>

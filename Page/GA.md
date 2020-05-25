@@ -36,7 +36,7 @@
   - 自動車またはそれに関連する人物、事象
       - [ホンダ・シティ](../Page/ホンダ・シティ.md "wikilink")の形式名の一つ。
       - [トヨタ・スープラ](../Page/トヨタ・スープラ.md "wikilink")の形式名の一つ、GA70。
-      - [日産・GAエンジン](https://ja.wikipedia.org/wiki/日産・GAエンジン "wikilink")
+      - [日産・GAエンジン](../Page/日産・GAエンジン.md "wikilink")
       - [ジャンニ・アニェッリ](../Page/ジャンニ・アニェッリ.md "wikilink") (Gianni Agnelli) - [フィアット](../Page/フィアット.md "wikilink")元会長
       - [フェラーリ・F2003-GA](../Page/フェラーリ・F2003-GA.md "wikilink") - [スクーデリア・フェラーリ](../Page/スクーデリア・フェラーリ.md "wikilink")の[フォーミュラカー](../Page/フォーミュラカー.md "wikilink")。GAは上記アニェッリにちなむ。
       - [ダイハツチャレンジカップ](../Page/ダイハツチャレンジカップ.md "wikilink")における、[登録車](https://ja.wikipedia.org/wiki/登録車 "wikilink")クラス。
@@ -54,9 +54,9 @@
   - その他固有名詞
       - [グリーンアテンダント](../Page/グリーン車.md "wikilink") (Green Attendant) - [グリーン車](../Page/グリーン車.md "wikilink")の車内にて、物品販売や車内サービスなどを行う客室乗務員。
       - [一般アメリカ英語](https://ja.wikipedia.org/wiki/一般アメリカ英語 "wikilink") (General American) - [アメリカ英語](../Page/アメリカ英語.md "wikilink")の主要方言
-      - [ガールズ・アラウド](https://ja.wikipedia.org/wiki/ガールズ・アラウド "wikilink") (Girls Aloud) - イギリスの歌手グループ。
+      - [ガールズ・アラウド](../Page/ガールズ・アラウド.md "wikilink") (Girls Aloud) - イギリスの歌手グループ。
       - [Google Analytics](https://ja.wikipedia.org/wiki/Google_Analytics "wikilink") - [Google](../Page/Google.md "wikilink")の提供するサービスの1つ。
-      - グローバル・アーマメンツ (Global Armaments) - [アーマード・コア4](../Page/アーマード・コア4.md "wikilink")、[アーマード・コア　フォーアンサーに登場する架空の企業](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")。
+      - グローバル・アーマメンツ (Global Armaments) - [アーマード・コア4](../Page/アーマード・コア4.md "wikilink")、[アーマード・コア　フォーアンサーに登場する架空の企業](../Page/アーマード・コア_フォーアンサー.md "wikilink")。
       - ゲームアテンダント（Game Attendant） - [MILU](https://ja.wikipedia.org/wiki/MILU "wikilink")オンラインにて、ゲーム運営スタッフが用いるアバター。イベントの主催やメンバーからの相談を受ける等を行う。
 
 ## Ga

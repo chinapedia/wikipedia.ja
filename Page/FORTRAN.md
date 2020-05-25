@@ -83,7 +83,7 @@ FORTRAN開発の歴史は、初期の[コンパイラ](../Page/コンパイラ.m
 
 ### IBM 1401版FORTRAN
 
-IBM 1401版は革新的な65パスのコンパイラであり、わずか8k語の[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")で動作する。コアに記録されたプログラムが段階的に実行可能なコードへと変換されて上書きされる。変換されたコードは[機械語](../Page/機械語.md "wikilink")ではなく、[UCSD PascalのPコードが生まれるよりも](https://ja.wikipedia.org/wiki/UCSD_p-System "wikilink")20年も前ながら、中間コードを利用していた。
+IBM 1401版は革新的な65パスのコンパイラであり、わずか8k語の[磁気コアメモリ](../Page/磁気コアメモリ.md "wikilink")で動作する。コアに記録されたプログラムが段階的に実行可能なコードへと変換されて上書きされる。変換されたコードは[機械語](../Page/機械語.md "wikilink")ではなく、[UCSD PascalのPコードが生まれるよりも](../Page/UCSD_p-System.md "wikilink")20年も前ながら、中間コードを利用していた。
 
 ### FORTRAN II
 

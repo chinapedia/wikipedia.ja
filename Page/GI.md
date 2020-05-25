@@ -9,7 +9,7 @@
 
   -   - gender identity ([性同一性](../Page/性同一性.md "wikilink")) の略。
       - geographical indications ([地理的表示](https://ja.wikipedia.org/wiki/地理的表示 "wikilink"))の略。
-      - [ジーアイ・ホールディングス](https://ja.wikipedia.org/wiki/ジーアイ・ホールディングス "wikilink")社の略称。 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[制作会社](https://ja.wikipedia.org/wiki/制作会社 "wikilink") 。
+      - [ジーアイ・ホールディングス](../Page/ジーアイ・ホールディングス.md "wikilink")社の略称。 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[制作会社](https://ja.wikipedia.org/wiki/制作会社 "wikilink") 。
       - [ゼネラル・インスツルメンツ](https://ja.wikipedia.org/wiki/ゼネラル・インスツルメンツ "wikilink")社の略称。(現: [モトローラ](../Page/モトローラ.md "wikilink")CHS事業部)
       - [ジブラルタル](../Page/ジブラルタル.md "wikilink")の[国名コード](../Page/国名コード.md "wikilink")。
       - global indicator (運行経路) の略称。国際線の飛行経路を表す。PA(Pacific\[太平洋経由\])、TS(Trans Siberia\[シベリア経由\])、AT(Atlantic\[大西洋経由\])などがある。

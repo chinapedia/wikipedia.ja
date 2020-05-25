@@ -92,13 +92,13 @@ FMは愛知県・三重県・滋賀県の全域、岐阜県・奈良県と静岡
 | [中継局](../Page/中継局.md "wikilink")                                     |
 | [豊橋](../Page/豊橋中継局.md "wikilink")                                    |
 | [高山](../Page/高山中継局.md "wikilink")                                    |
-| [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink")                 |
-| [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink")                 |
+| [神岡](../Page/神岡中継局.md "wikilink")                                    |
+| [尾鷲](../Page/尾鷲中継局.md "wikilink")                                    |
 | [中津川](../Page/中津川中継局.md "wikilink")\[12\]                            |
-| [下呂](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink")                 |
-| [上野](https://ja.wikipedia.org/wiki/上野ラジオ中継局 "wikilink")（伊賀）          |
-| [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink")                 |
-| [新城](https://ja.wikipedia.org/wiki/新城ラジオ中継局 "wikilink")              |
+| [下呂](../Page/下呂中継局.md "wikilink")                                    |
+| [上野](../Page/上野ラジオ中継局.md "wikilink")（伊賀）                             |
+| [熊野](../Page/熊野中継局.md "wikilink")                                    |
+| [新城](../Page/新城ラジオ中継局.md "wikilink")                                 |
 | FM放送                                                                 |
 | [三国山FM](https://ja.wikipedia.org/wiki/三国山_\(岐阜県\)#放送設備概要 "wikilink") |
 

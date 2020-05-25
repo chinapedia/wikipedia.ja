@@ -1,7 +1,7 @@
 > この記事は[DHMO](https://ja.wikipedia.org/wiki/DHMO)から翻訳されています。
 
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:Water_molecule_3D.svg "wikilink") **DHMO**（ディー・エイチ・エム・オー、=**ジヒドロゲンモノオキシド**）とは、化学式 H<sub>2</sub>O で表される[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")と[酸素](../Page/酸素.md "wikilink")の化合物であり、和訳すれば**一酸化二水素**（いっさんかにすいそ）、すなわち**[水](../Page/水.md "wikilink")**そのものである。
+[200px](https://ja.wikipedia.org/wiki/ファイル:Water_molecule_3D.svg "wikilink") **DHMO**（ディー・エイチ・エム・オー、=**ジヒドロゲンモノオキシド**）とは、化学式 H<sub>2</sub>O で表される[水素](../Page/水素.md "wikilink")と[酸素](../Page/酸素.md "wikilink")の化合物であり、和訳すれば**一酸化二水素**（いっさんかにすいそ）、すなわち**[水](../Page/水.md "wikilink")**そのものである。
 
 これは水であることを敢えて分かりにくくして危険な[化学物質](../Page/化学物質.md "wikilink")であるかのように錯覚させるため、元素の構成に基づく化合物名として表現したものである。科学論文などでこの表現が使われることはまずなく、[心理](https://ja.wikipedia.org/wiki/心理 "wikilink")実験や[ジョーク](../Page/ジョーク.md "wikilink")のひとつとして使われる。
 

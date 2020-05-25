@@ -5,7 +5,7 @@
 
 ## 概要
 
-LimeWireは[Gnutella](../Page/Gnutella.md "wikilink") P2Pプロトコルを利用したファイル共有をユーザー同士で行うことができる。これは[2004年](../Page/2004年.md "wikilink")12月に公開された。バージョン4.2の特徴として、[ファイアウォール](../Page/ファイアウォール.md "wikilink")設置同士のファイル交換をサポートした最初の[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")である。開発元は[Lime Wire LLCである](https://ja.wikipedia.org/wiki/Lime_Wire_LLC "wikilink")。
+LimeWireは[Gnutella](../Page/Gnutella.md "wikilink") P2Pプロトコルを利用したファイル共有をユーザー同士で行うことができる。これは[2004年](../Page/2004年.md "wikilink")12月に公開された。バージョン4.2の特徴として、[ファイアウォール](../Page/ファイアウォール.md "wikilink")設置同士のファイル交換をサポートした最初の[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")である。開発元は[Lime Wire LLCである](https://ja.wikipedia.org/wiki/Lime_Wire_LLC "wikilink")。
 
 LimeWireは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で書かれているため、[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")がインストールされたコンピュータで利用できる。普通のユーザー向けにインストールを簡単にするため、デベロッパーは [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、及び [deb](../Page/Debian.md "wikilink")/[RPM](../Page/RPM_Package_Manager.md "wikilink") 形式で[Linux](../Page/Linux.md "wikilink")向けにインストール・パッケージを公開していた。
 

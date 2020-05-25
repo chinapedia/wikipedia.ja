@@ -9,7 +9,7 @@
 
 幕末以来160年を超える歴史があり、重機などの重工業において、日本を代表する企業の一つである。旧[国鉄](../Page/日本国有鉄道.md "wikilink")（現：[JR東日本](../Page/東日本旅客鉄道.md "wikilink")）[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")の[丸の内](../Page/丸の内.md "wikilink")側本屋の鉄骨の建造（施工は[大林組](../Page/大林組.md "wikilink")が担当し、1914年に開業）\[2\]、[永野治](../Page/永野治.md "wikilink")による日本初のターボ・ジェットエンジン開発（1945年）、日本国内最大の大型[海水淡水化](../Page/海水淡水化.md "wikilink")装置建設（1967年）、[東京湾アクアライン](https://ja.wikipedia.org/wiki/東京湾アクアライン "wikilink")工事用シールド掘進機納入（1997年）、[明石海峡大橋](../Page/明石海峡大橋.md "wikilink")の[ケーソン](../Page/ケーソン.md "wikilink")やタワー（主塔）の建設（1998年）などに関わってきた。
 
-同社のトップは政財界でも様々な活動を行っている。最近では[伊藤源嗣](https://ja.wikipedia.org/wiki/伊藤源嗣 "wikilink")が[日本経済団体連合会](https://ja.wikipedia.org/wiki/日本経済団体連合会 "wikilink")（日本経団連）の評議員会副議長を務めていた（就任時は社長、2003年～2007年）\[3\]。1980年代に[中曽根康弘](https://ja.wikipedia.org/wiki/中曽根康弘 "wikilink")首相が進めた[行政改革](../Page/行政改革.md "wikilink")においては、その基本方針をまとめた[第二次臨時行政調査会](../Page/第二次臨時行政調査会.md "wikilink")の会長を同社出身の[土光敏夫](../Page/土光敏夫.md "wikilink")が務め\[4\]、その主要政策として実行された[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")の民営化では[真藤恒](../Page/真藤恒.md "wikilink")が同公社の最後の総裁、及び[日本電信電話](../Page/日本電信電話.md "wikilink")(NTT)の初代社長としてその移行を実現させた。また、[稲葉興作](../Page/稲葉興作.md "wikilink")は1993年から2001年に[日本商工会議所](../Page/日本商工会議所.md "wikilink")の会頭であった\[5\]。
+同社のトップは政財界でも様々な活動を行っている。最近では[伊藤源嗣](https://ja.wikipedia.org/wiki/伊藤源嗣 "wikilink")が[日本経済団体連合会](https://ja.wikipedia.org/wiki/日本経済団体連合会 "wikilink")（日本経団連）の評議員会副議長を務めていた（就任時は社長、2003年～2007年）\[3\]。1980年代に[中曽根康弘](../Page/中曽根康弘.md "wikilink")首相が進めた[行政改革](../Page/行政改革.md "wikilink")においては、その基本方針をまとめた[第二次臨時行政調査会](../Page/第二次臨時行政調査会.md "wikilink")の会長を同社出身の[土光敏夫](../Page/土光敏夫.md "wikilink")が務め\[4\]、その主要政策として実行された[日本電信電話公社](../Page/日本電信電話公社.md "wikilink")の民営化では[真藤恒](../Page/真藤恒.md "wikilink")が同公社の最後の総裁、及び[日本電信電話](../Page/日本電信電話.md "wikilink")(NTT)の初代社長としてその移行を実現させた。また、[稲葉興作](../Page/稲葉興作.md "wikilink")は1993年から2001年に[日本商工会議所](../Page/日本商工会議所.md "wikilink")の会頭であった\[5\]。
 
 元来独立系の企業だが、土光敏夫が[三井グループ](../Page/三井グループ.md "wikilink")の東京芝浦電気（現：[東芝](../Page/東芝.md "wikilink")）の再建に関わって\[6\]以来東芝と密接な関係にあるため、三井グループを構成する二木会（社長会）・三井業際研究所（二木会直轄のシンクタンク）・[綱町三井倶楽部](../Page/綱町三井倶楽部.md "wikilink")（三井系の会員制クラブ）\[7\]及び月曜会（三井グループ各社の役員間の相互親睦と情報交換を目的とする会合）に加盟している\[8\]。一方、旧石川島重工業と旧第一銀行とのつながりから、メインバンクは[みずほ銀行](../Page/みずほ銀行.md "wikilink")であり、IHIは[第一勧銀グループ](../Page/第一勧銀グループ.md "wikilink")にも属している\[9\]。
 
@@ -241,7 +241,7 @@
       - [F3-30/30B](../Page/F3_\(エンジン\).md "wikilink")（[T-4搭載](../Page/T-4_\(練習機\).md "wikilink")）
       - [XF5-1](https://ja.wikipedia.org/wiki/XF5_\(エンジン\) "wikilink")（研究機 [X-2](../Page/X-2_\(航空機・日本\).md "wikilink") 搭載）
   - [高バイパス比ターボファン](../Page/ターボファンエンジン.md "wikilink")
-      - [V2500](https://ja.wikipedia.org/wiki/V2500_\(エンジン\) "wikilink")（国際共同開発、[エアバス](../Page/エアバス.md "wikilink")[A319](../Page/エアバスA319.md "wikilink")/[A320](../Page/エアバスA320.md "wikilink")/[A321](../Page/エアバスA321.md "wikilink")、[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink")[MD-90](https://ja.wikipedia.org/wiki/MD-90 "wikilink")搭載）
+      - [V2500](../Page/V2500_\(エンジン\).md "wikilink")（国際共同開発、[エアバス](../Page/エアバス.md "wikilink")[A319](../Page/エアバスA319.md "wikilink")/[A320](../Page/エアバスA320.md "wikilink")/[A321](../Page/エアバスA321.md "wikilink")、[マクドネル・ダグラス](../Page/マクドネル・ダグラス.md "wikilink")[MD-90](https://ja.wikipedia.org/wiki/MD-90 "wikilink")搭載）
       - [F7-10](https://ja.wikipedia.org/wiki/F7_\(エンジン\) "wikilink")（国産初の[スラストリバーサー付きエンジン](../Page/逆推力装置.md "wikilink")：[P-1搭載](../Page/P-1_\(哨戒機\).md "wikilink")）
 
 ##### ライセンス生産
@@ -258,7 +258,7 @@
       - [F110](../Page/ゼネラル・エレクトリック_F110.md "wikilink")（GE社製、[F-2A/B搭載](../Page/F-2_\(航空機\).md "wikilink")）
   - [ターボプロップ](../Page/ターボプロップエンジン.md "wikilink")
       - [T64](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_T64 "wikilink")（GE社製、[P-2J](../Page/P-2J_\(航空機\).md "wikilink")・[PS-1](../Page/PS-1.md "wikilink")・[US-1](../Page/US-1.md "wikilink")/1A・[YS-11](../Page/YS-11.md "wikilink")EA/EB搭載）
-      - [T56](https://ja.wikipedia.org/wiki/アリソン_T56 "wikilink")（[アリソン](https://ja.wikipedia.org/wiki/アリソン・エンジン "wikilink")（現[ロールス・ロイス](../Page/ロールス・ロイス.md "wikilink")）製、[P-3C](../Page/P-3_\(航空機\).md "wikilink")・[C-130H](https://ja.wikipedia.org/wiki/C-130_\(航空機\) "wikilink")・[E-2C搭載](../Page/E-2_\(航空機\).md "wikilink")）
+      - [T56](https://ja.wikipedia.org/wiki/アリソン_T56 "wikilink")（[アリソン](../Page/アリソン・エンジン.md "wikilink")（現[ロールス・ロイス](../Page/ロールス・ロイス.md "wikilink")）製、[P-3C](../Page/P-3_\(航空機\).md "wikilink")・[C-130H](https://ja.wikipedia.org/wiki/C-130_\(航空機\) "wikilink")・[E-2C搭載](../Page/E-2_\(航空機\).md "wikilink")）
   - [ターボシャフト](../Page/ターボシャフトエンジン.md "wikilink")
       - [T58](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_T58 "wikilink")（GE製、[HSS-2/2A/2B](../Page/シコルスキー_S-61.md "wikilink")・[PS-1](../Page/PS-1.md "wikilink")・[US-1](../Page/US-1.md "wikilink")/1A搭載）
       - [T700](../Page/ゼネラル・エレクトリック_T700.md "wikilink")（GE社製、[SH-60J](../Page/SH-60J_\(航空機\).md "wikilink")/[K](../Page/SH-60K_\(航空機\).md "wikilink")・[UH-60J/JA搭載](https://ja.wikipedia.org/wiki/UH-60J_\(航空機\) "wikilink")）

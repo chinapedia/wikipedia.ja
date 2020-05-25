@@ -100,7 +100,7 @@
   - ディズニー・ピクサー 「[カーズ2](https://ja.wikipedia.org/wiki/カーズ2 "wikilink")」ブルーレイ\&DVD発売 - ナレーション
   - [武田薬品工業](../Page/武田薬品工業.md "wikilink") 「ベンザエース カプレット」 - 歌
   - [明治乳業](https://ja.wikipedia.org/wiki/明治乳業 "wikilink") 「ブルガリア のむヨーグルト」と〜ろりんつぶつぶ篇 - 歌
-  - [ヤヨイ化学工業](https://ja.wikipedia.org/wiki/ヤヨイ化学工業 "wikilink") 「壁紙川柳」「インテリア川柳」ナレーション
+  - [ヤヨイ化学工業](../Page/ヤヨイ化学工業.md "wikilink") 「壁紙川柳」「インテリア川柳」ナレーション
   - TOYAMAハッピーライフキャンペーン2015-キャラクター吹替
 
 ### ナレーション

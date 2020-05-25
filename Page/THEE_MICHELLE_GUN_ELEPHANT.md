@@ -160,27 +160,27 @@
 
 ### シングル
 
-|                   | 発売日                   | タイトル                                                                                                     | 品番                       | オリコン 最高位 | 収録アルバム                 |
-| ----------------- | --------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------ | -------- | ---------------------- |
-| 1st               | 1996年2月1日             | **[世界の終わり](https://ja.wikipedia.org/wiki/世界の終わり_\(thee_michelle_gun_elephantの曲\) "wikilink")**           | CODA-836                 | ー        | **cult grass stars**   |
-| 2nd               | 1996年8月1日             | **[キャンディ・ハウス](https://ja.wikipedia.org/wiki/キャンディ・ハウス "wikilink")**                                      | COCA-13546、COKA-5        | 60位      | **High Time**          |
-| 3rd               | 1996年10月19日           | **[リリィ](https://ja.wikipedia.org/wiki/リリィ_\(thee_michelle_gun_elephantの曲\) "wikilink")**                 | CODA-1042、COKA-6         | 50位      |                        |
-| 4th               | 1997年5月1日             | **[カルチャー](https://ja.wikipedia.org/wiki/カルチャー_\(thee_michelle_gun_elephantの曲\) "wikilink")**             | COCA-14100、COKA-7        | 29位      | **Chicken Zombies**    |
-| 5th               | 1997年8月1日             | **[ゲット・アップ・ルーシー](https://ja.wikipedia.org/wiki/ゲット・アップ・ルーシー "wikilink")**                                | COCA-14327、COJA-9189     | 24位      |                        |
-| 6th               | 1997年10月21日           | **[バードメン](https://ja.wikipedia.org/wiki/バードメン "wikilink")**                                              | CODA-1335、COKA-12        | 23位      |                        |
-| 7th               | 1998年1月7日             | **[VIBE ON\!/あんたのどれいのままでいい](https://ja.wikipedia.org/wiki/VIBE_ON!/あんたのどれいのままでいい "wikilink")**           | TERNG-008                | 会場限定     | **TMGE 106**           |
-| 8th               | 1998年8月1日             | **[G.W.D](https://ja.wikipedia.org/wiki/G.W.D "wikilink")**                                              | CODA-1632、COKA-14        | 17位      | **ギヤ・ブルーズ**            |
-| 9th               | 1998年9月1日             | **[アウト・ブルーズ](https://ja.wikipedia.org/wiki/アウト・ブルーズ "wikilink")**                                        | CODA-1633、COKA-15        | 7位       | **TMGE 106**           |
-| 10th              | 1998年11月3日            | **[スモーキン・ビリー](https://ja.wikipedia.org/wiki/スモーキン・ビリー "wikilink")**                                      | CODA-1639、COKA-16        | 13位      | **ギヤ・ブルーズ**            |
-| 11th              | 2000年2月2日             | **[GT400](https://ja.wikipedia.org/wiki/GT400 "wikilink")**                                              | CODA-50209、COKA-50237    | 18位      | **カサノバ・スネイク**          |
-| 12th              | 2000年9月27日            | **[ベイビー・スターダスト](https://ja.wikipedia.org/wiki/ベイビー・スターダスト "wikilink")**                                  | COCA-50382、COJA-50386    | 12位      | **ロデオ・タンデム・ビート・スペクター** |
-| 13th              | 2001年3月22日            | **[暴かれた世界](https://ja.wikipedia.org/wiki/暴かれた世界 "wikilink")**                                            | CODA-50472、COKA-50473    | 9位       |                        |
-| 14th              | 2002年12月25日 (CD)      | **[太陽をつかんでしまった](https://ja.wikipedia.org/wiki/太陽をつかんでしまった "wikilink")**                                  | UPCH-5150（通常盤）/9045（初回盤） | 8位       | **SABRINA HEAVEN**     |
-| 2003年1月22日 (アナログ) | UPJH-1031             |                                                                                                          |                          |          |                        |
-| 15th              | 2003年4月7日 (会場先行)      | **[Girl Friend](https://ja.wikipedia.org/wiki/Girl_Friend_\(thee_michelle_gun_elephantの曲\) "wikilink")** | TERNG-043                | 25位      | **THEE GREATEST HITS** |
-| 2003年6月21日 (一般販売) | TERNG-043i、ITERNG-044 |                                                                                                          |                          |          |                        |
-| 16th              | 2003年10月11日 (CD)      | **[エレクトリック・サーカス](https://ja.wikipedia.org/wiki/エレクトリック・サーカス "wikilink")**                                | UPCH-5215                | 2位       |                        |
-| 2003年12月3日 (アナログ) | UPJH-1040             |                                                                                                          |                          |          |                        |
+|                   | 発売日                   | タイトル                                                                                           | 品番                       | オリコン 最高位 | 収録アルバム                 |
+| ----------------- | --------------------- | ---------------------------------------------------------------------------------------------- | ------------------------ | -------- | ---------------------- |
+| 1st               | 1996年2月1日             | **[世界の終わり](https://ja.wikipedia.org/wiki/世界の終わり_\(thee_michelle_gun_elephantの曲\) "wikilink")** | CODA-836                 | ー        | **cult grass stars**   |
+| 2nd               | 1996年8月1日             | **[キャンディ・ハウス](https://ja.wikipedia.org/wiki/キャンディ・ハウス "wikilink")**                            | COCA-13546、COKA-5        | 60位      | **High Time**          |
+| 3rd               | 1996年10月19日           | **[リリィ](https://ja.wikipedia.org/wiki/リリィ_\(thee_michelle_gun_elephantの曲\) "wikilink")**       | CODA-1042、COKA-6         | 50位      |                        |
+| 4th               | 1997年5月1日             | **[カルチャー](https://ja.wikipedia.org/wiki/カルチャー_\(thee_michelle_gun_elephantの曲\) "wikilink")**   | COCA-14100、COKA-7        | 29位      | **Chicken Zombies**    |
+| 5th               | 1997年8月1日             | **[ゲット・アップ・ルーシー](https://ja.wikipedia.org/wiki/ゲット・アップ・ルーシー "wikilink")**                      | COCA-14327、COJA-9189     | 24位      |                        |
+| 6th               | 1997年10月21日           | **[バードメン](https://ja.wikipedia.org/wiki/バードメン "wikilink")**                                    | CODA-1335、COKA-12        | 23位      |                        |
+| 7th               | 1998年1月7日             | **[VIBE ON\!/あんたのどれいのままでいい](https://ja.wikipedia.org/wiki/VIBE_ON!/あんたのどれいのままでいい "wikilink")** | TERNG-008                | 会場限定     | **TMGE 106**           |
+| 8th               | 1998年8月1日             | **[G.W.D](../Page/G.W.D.md "wikilink")**                                                       | CODA-1632、COKA-14        | 17位      | **ギヤ・ブルーズ**            |
+| 9th               | 1998年9月1日             | **[アウト・ブルーズ](https://ja.wikipedia.org/wiki/アウト・ブルーズ "wikilink")**                              | CODA-1633、COKA-15        | 7位       | **TMGE 106**           |
+| 10th              | 1998年11月3日            | **[スモーキン・ビリー](https://ja.wikipedia.org/wiki/スモーキン・ビリー "wikilink")**                            | CODA-1639、COKA-16        | 13位      | **ギヤ・ブルーズ**            |
+| 11th              | 2000年2月2日             | **[GT400](https://ja.wikipedia.org/wiki/GT400 "wikilink")**                                    | CODA-50209、COKA-50237    | 18位      | **カサノバ・スネイク**          |
+| 12th              | 2000年9月27日            | **[ベイビー・スターダスト](https://ja.wikipedia.org/wiki/ベイビー・スターダスト "wikilink")**                        | COCA-50382、COJA-50386    | 12位      | **ロデオ・タンデム・ビート・スペクター** |
+| 13th              | 2001年3月22日            | **[暴かれた世界](../Page/暴かれた世界.md "wikilink")**                                                     | CODA-50472、COKA-50473    | 9位       |                        |
+| 14th              | 2002年12月25日 (CD)      | **[太陽をつかんでしまった](https://ja.wikipedia.org/wiki/太陽をつかんでしまった "wikilink")**                        | UPCH-5150（通常盤）/9045（初回盤） | 8位       | **SABRINA HEAVEN**     |
+| 2003年1月22日 (アナログ) | UPJH-1031             |                                                                                                |                          |          |                        |
+| 15th              | 2003年4月7日 (会場先行)      | **[Girl Friend](../Page/Girl_Friend_\(thee_michelle_gun_elephantの曲\).md "wikilink")**          | TERNG-043                | 25位      | **THEE GREATEST HITS** |
+| 2003年6月21日 (一般販売) | TERNG-043i、ITERNG-044 |                                                                                                |                          |          |                        |
+| 16th              | 2003年10月11日 (CD)      | **[エレクトリック・サーカス](https://ja.wikipedia.org/wiki/エレクトリック・サーカス "wikilink")**                      | UPCH-5215                | 2位       |                        |
+| 2003年12月3日 (アナログ) | UPJH-1040             |                                                                                                |                          |          |                        |
 
 #### その他
 

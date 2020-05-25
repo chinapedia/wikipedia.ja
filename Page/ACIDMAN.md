@@ -38,7 +38,7 @@
       - 使用ベース
           - [Fender PRECISION BASS'74](../Page/フェンダー・プレシジョンベース.md "wikilink") (主にライブ・レコーディングにて使用している)
           - [Fender JAZZ BASS](../Page/フェンダー・ジャズベース.md "wikilink") ([リピート作成以前までメインとして使用していた](../Page/リピート_\(ACIDMANの曲\).md "wikilink"))
-          - [ERNIE BALL](https://ja.wikipedia.org/wiki/アーニー・ボール "wikilink") [MUSICMAN StingRay](../Page/ミュージックマン・スティングレイ.md "wikilink") (「Final Dance Scene」にて使用している)
+          - [ERNIE BALL](../Page/アーニー・ボール.md "wikilink") [MUSICMAN StingRay](../Page/ミュージックマン・スティングレイ.md "wikilink") (「Final Dance Scene」にて使用している)
           - [Upright Bass](../Page/エレクトリック・アップライト・ベース.md "wikilink")
       - [埼玉県](../Page/埼玉県.md "wikilink")[富士見市](../Page/富士見市.md "wikilink")出身
       - [駒澤大学](../Page/駒澤大学.md "wikilink")卒業
@@ -442,7 +442,7 @@
 <tr class="even">
 <td><p>14th</p></td>
 <td><p>2007年<a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UNFOLD" title="wikilink">UNFOLD</a></strong></p></td>
+<td><p><strong><a href="../Page/UNFOLD.md" title="wikilink">UNFOLD</a></strong></p></td>
 <td><p>TOCT-40167</p></td>
 <td><p>20位</p></td>
 </tr>

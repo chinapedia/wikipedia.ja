@@ -1,7 +1,7 @@
 > この記事は[B型肝炎](https://ja.wikipedia.org/wiki/B型肝炎)から翻訳されています。
 
 
-**B型肝炎**（Bがたかんえん、）とは、[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink") (HBV) に感染することで発症する[ウイルス性肝炎](https://ja.wikipedia.org/wiki/ウイルス性肝炎 "wikilink")の一つ。
+**B型肝炎**（Bがたかんえん、）とは、[B型肝炎ウイルス](https://ja.wikipedia.org/wiki/B型肝炎ウイルス "wikilink") (HBV) に感染することで発症する[ウイルス性肝炎](../Page/ウイルス性肝炎.md "wikilink")の一つ。
 
 [血液](../Page/血液.md "wikilink")を介して感染するため、従来の検査体制が確立されない時期に[輸血](../Page/輸血.md "wikilink")を介して、または1986年に母子間ブロックが実施されるようになる前には[母子感染](https://ja.wikipedia.org/wiki/母子感染 "wikilink")で感染した。感染の予防策としては、注射器を共用しない、性行為時に[コンドーム](../Page/コンドーム.md "wikilink")の着用といったことがある。
 

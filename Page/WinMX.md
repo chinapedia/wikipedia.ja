@@ -1,7 +1,7 @@
 > この記事は[WinMX](https://ja.wikipedia.org/wiki/WinMX)から翻訳されています。
 
 
-**WinMX**（ウィン エムエックス）は[2001年](../Page/2001年.md "wikilink")にFrontcode Technologiesが開発した、[Peer to Peerを用いた](../Page/Peer_to_Peer.md "wikilink")[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")である。
+**WinMX**（ウィン エムエックス）は[2001年](../Page/2001年.md "wikilink")にFrontcode Technologiesが開発した、[Peer to Peerを用いた](../Page/Peer_to_Peer.md "wikilink")[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")である。
 
 ## 概要
 
@@ -68,7 +68,7 @@ WinMX用チャットクライアント
   - [Share](../Page/Share_\(ソフトウェア\).md "wikilink")
   - [Winny](../Page/Winny.md "wikilink")
   - [ダウンロードソフト板](https://ja.wikipedia.org/wiki/ダウンロードソフト板 "wikilink")
-  - [ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")
+  - [ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")
 
 ## 外部リンク
 

@@ -24,10 +24,10 @@
           -
             第2弾までは斎藤、岡田と交代で司会を担当。第1弾・第2弾の一部の回では[パネリストとして出演](https://ja.wikipedia.org/wiki/パネル "wikilink")。第6弾では、体調不良のため2日目以降は欠席。
   - パネリスト
-      - [いしかわじゅん](../Page/いしかわじゅん.md "wikilink")（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
+      - [いしかわじゅん](../Page/いしかわじゅん.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")）
           -
             レギュラー出演者の中で、唯一の皆勤出演。
-      - [岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")（[作家](../Page/作家.md "wikilink")）
+      - [岡田斗司夫](../Page/岡田斗司夫.md "wikilink")（[作家](../Page/作家.md "wikilink")）
           -
             第2弾と第6弾2日目の司会を担当。第27弾1日目は体調不良のため欠席。
       - [夏目房之介](https://ja.wikipedia.org/wiki/夏目房之介 "wikilink")（マンガ[コラムニスト](https://ja.wikipedia.org/wiki/コラムニスト "wikilink")）
@@ -78,7 +78,7 @@
 
 原則的に、1人の作家で取り上げられるのは1作品のみである\[3\]。
 
-司会の[大月隆寛](../Page/大月隆寛.md "wikilink")（初期の数回は斎藤光）が女性アシスタント\[4\]とともに進行した。[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")、[岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")、[夏目房之介](https://ja.wikipedia.org/wiki/夏目房之介 "wikilink")の3名がレギュラーメンバーとして出演し、これに各回ごとに1人から3人のゲストが加わり、[視聴者](../Page/視聴者.md "wikilink")の[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[電子メール](../Page/電子メール.md "wikilink")を紹介しながら番組を進行する\[5\]。
+司会の[大月隆寛](../Page/大月隆寛.md "wikilink")（初期の数回は斎藤光）が女性アシスタント\[4\]とともに進行した。[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")、[岡田斗司夫](../Page/岡田斗司夫.md "wikilink")、[夏目房之介](https://ja.wikipedia.org/wiki/夏目房之介 "wikilink")の3名がレギュラーメンバーとして出演し、これに各回ごとに1人から3人のゲストが加わり、[視聴者](../Page/視聴者.md "wikilink")の[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[電子メール](../Page/電子メール.md "wikilink")を紹介しながら番組を進行する\[5\]。
 
 岡田によれば大月が進行、いしかわが暴言や断言、夏目が分析、岡田が「イレギュラー担当」「分からない担当」といった具合に異なる役割を担っていた\[6\]。夏目によれば、自身といしかわを[団塊世代](https://ja.wikipedia.org/wiki/団塊の世代 "wikilink")、大月と岡田を[オタク世代と位置づけ](../Page/おたく.md "wikilink")、旧世代による昔語りを、それに次ぐ世代が自覚的に聞き役に回る構造となっていたとし、さらに大月や岡田らオタク世代がそれより下の世代のゲストや年少の視聴者に向け、旧世代の見解を橋渡しする役割を担っていたとしている\[7\]。
 
@@ -529,7 +529,7 @@
 <td><p><a href="../Page/唐沢なをき.md" title="wikilink">唐沢なをき</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/うしおととら" title="wikilink">うしおととら</a></p></td>
+<td><p><a href="../Page/うしおととら.md" title="wikilink">うしおととら</a></p></td>
 <td><p><a href="../Page/藤田和日郎.md" title="wikilink">藤田和日郎</a></p></td>
 <td></td>
 <td></td>

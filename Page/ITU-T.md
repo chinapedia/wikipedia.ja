@@ -2046,7 +2046,7 @@ Application profiles for Recommendation T.88 - Lossy/lossless coding of bi-level
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/T.172" title="wikilink">T.172</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MHEG-5" title="wikilink">MHEG-5</a> - Support for base-level interactive applications</p></td>
+<td><p><a href="../Page/MHEG-5.md" title="wikilink">MHEG-5</a> - Support for base-level interactive applications</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ISO/IEC_13522-5" title="wikilink">ISO/IEC 13522-5</a><br />
 <a href="https://ja.wikipedia.org/wiki/JIS_X_4345" title="wikilink">JIS X 4345</a></p></td>
 </tr>

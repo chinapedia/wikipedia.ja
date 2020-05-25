@@ -288,7 +288,7 @@
 
   - 瀬戸一貴 - [岡山天音](https://ja.wikipedia.org/wiki/岡山天音 "wikilink")
   - 葦月伊織 - [白石聖](https://ja.wikipedia.org/wiki/白石聖 "wikilink")\[22\]
-  - 秋葉いつき - [柴田杏花](https://ja.wikipedia.org/wiki/柴田杏花 "wikilink")
+  - 秋葉いつき - [柴田杏花](../Page/柴田杏花.md "wikilink")
   - 磯崎泉 - [萩原みのり](https://ja.wikipedia.org/wiki/萩原みのり "wikilink")
   - 麻生藍子 - [加藤小夏](https://ja.wikipedia.org/wiki/加藤小夏 "wikilink")
   - 寺谷靖雅 - [伊島空](https://ja.wikipedia.org/wiki/伊島空 "wikilink")

@@ -280,7 +280,7 @@
     演: [河合隆司](https://ja.wikipedia.org/wiki/河合隆司 "wikilink")
   - [三木俊連](https://ja.wikipedia.org/wiki/三木俊連 "wikilink")
     演: [大関正義](https://ja.wikipedia.org/wiki/大関正義 "wikilink")
-  - [堀口貞満](https://ja.wikipedia.org/wiki/堀口貞満 "wikilink")
+  - [堀口貞満](../Page/堀口貞満.md "wikilink")
     演：[門田俊一](https://ja.wikipedia.org/wiki/門田俊一 "wikilink")
 
 #### 南朝方公家・武将

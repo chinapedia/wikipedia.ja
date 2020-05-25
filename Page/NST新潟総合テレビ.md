@@ -889,7 +889,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - [佐々木志津子](https://ja.wikipedia.org/wiki/佐々木志津子 "wikilink")（1975年 - 1985年。現[見附市](../Page/見附市.md "wikilink")議会議員）
   - 樋口幸子（現フリーアナウンサー）
   - [小方恵子](../Page/小方恵子.md "wikilink")（[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")より移籍。その後、[FM新潟に移籍し](../Page/エフエムラジオ新潟.md "wikilink")、現在フリー）
-  - [関根美紀](https://ja.wikipedia.org/wiki/関根美紀 "wikilink")（現FM新潟パーソナリティ）
+  - [関根美紀](../Page/関根美紀.md "wikilink")（現FM新潟パーソナリティ）
   - 藤野綾子
   - [山田典子](https://ja.wikipedia.org/wiki/山田典子 "wikilink")
   - 鈴木美佳（退社後は[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")へ移籍）

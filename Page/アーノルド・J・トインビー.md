@@ -7,7 +7,7 @@
 
 [ロンドン](../Page/ロンドン.md "wikilink")生まれ。[叔父](https://ja.wikipedia.org/wiki/叔父 "wikilink")で[歴史家](../Page/歴史家.md "wikilink")・[社会活動家](https://ja.wikipedia.org/wiki/社会活動家 "wikilink")の[アーノルド・トインビー](../Page/アーノルド・トインビー.md "wikilink")（1852-1883）と区別するため、ミドルネームの「J」を入れて表記されることが多い。西欧中心の歴史観でなく、[イスラム](https://ja.wikipedia.org/wiki/イスラム "wikilink")、[仏教](../Page/仏教.md "wikilink")、それに特殊な存在としての[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも着目して、各文明国の発展を描いた『[歴史の研究](https://ja.wikipedia.org/wiki/歴史の研究 "wikilink")』（原著1934-1961年）を著す。[1911年](../Page/1911年.md "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")卒業。アテナイの考古学院の研究生として[ギリシア](https://ja.wikipedia.org/wiki/ギリシア "wikilink")に行き、帰国後、母校で研究員としてギリシア・[ローマ](../Page/ローマ.md "wikilink")の古代史研究と授業にあたる。[1912年](../Page/1912年.md "wikilink")、[キングス・カレッジ・ロンドン](../Page/キングス・カレッジ・ロンドン.md "wikilink")で歴史学の教授に就任。[1914年](../Page/1914年.md "wikilink")の[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の勃発により「われわれは歴史の中にいる」という実感に目覚める。[1929年](../Page/1929年.md "wikilink")には[太平洋問題調査委員として来日](https://ja.wikipedia.org/wiki/太平洋問題調査会 "wikilink")。この際に[松本重治](../Page/松本重治.md "wikilink")との友情を深めた。
 
-[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")教授、[王立国際問題研究所](https://ja.wikipedia.org/wiki/王立国際問題研究所 "wikilink")理事、外務省調査部理事等を務める傍ら『ギリシャ歴史思想』『平和会議後の世界』等を執筆。最も有名な著書『歴史の研究』は全25巻。
+[ロンドン・スクール・オブ・エコノミクス](../Page/ロンドン・スクール・オブ・エコノミクス.md "wikilink")教授、[王立国際問題研究所](../Page/王立国際問題研究所.md "wikilink")理事、外務省調査部理事等を務める傍ら『ギリシャ歴史思想』『平和会議後の世界』等を執筆。最も有名な著書『歴史の研究』は全25巻。
 
 ## 邦訳著書
 

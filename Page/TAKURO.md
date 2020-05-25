@@ -10,7 +10,7 @@
   - [1988年](../Page/1988年.md "wikilink")7月 - 小学校・中学校と同級生であった[TERU](../Page/TERU.md "wikilink")、同じ[函館稜北高校に通う](../Page/北海道函館稜北高等学校.md "wikilink")[HISASHI](../Page/HISASHI.md "wikilink")と[GLAY](../Page/GLAY.md "wikilink")を結成。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月 - 高校卒業後、上京。
   - [1991年](../Page/1991年.md "wikilink") - 彼らと同じく函館出身であった[JIRO](../Page/JIRO.md "wikilink")と出会う。
-  - [1994年](../Page/1994年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - [X JAPANのメンバーである](../Page/X_JAPAN.md "wikilink")[YOSHIKI](../Page/YOSHIKI.md "wikilink")に目を留められ、[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")から「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」でデビュー。
+  - [1994年](../Page/1994年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - [X JAPANのメンバーである](../Page/X_JAPAN.md "wikilink")[YOSHIKI](../Page/YOSHIKI.md "wikilink")に目を留められ、[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")から「[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")」でデビュー。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") - 女性アーティスト[Miju](../Page/Miju.md "wikilink")をプロデュースし、シングル「SUMMER SHAKES」をリリース。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink") - 女性アーティスト[Romi](../Page/Romi.md "wikilink")をプロデュースし、シングル「[見つめていたい](../Page/見つめていたい_\(Romiの曲\).md "wikilink")」をリリース。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月8日](../Page/4月8日.md "wikilink") - [中山美穂](../Page/中山美穂.md "wikilink")のシングル「[LOVE CLOVER](../Page/LOVE_CLOVER.md "wikilink")」及びカップリングの「empty pocket」を提供。

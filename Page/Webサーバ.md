@@ -61,7 +61,7 @@ Sun Cobalt Qube 3（2002年）\]\]
 ## 個別の製品の特徴
 
   - Oracle HTTP Server
-      - [RDBMSベンダである](../Page/関係データベース管理システム.md "wikilink")[オラクルが提供するWebサーバ](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink") (Oracle HTTP Server) においては、[Java EEを使用した](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")[Webアプリケーションサーバと連携して](../Page/アプリケーションサーバ.md "wikilink")、HTMLドキュメント内にデータベースに検索を行わせるための[SQL](../Page/SQL.md "wikilink")文を直接記述し、データベースからデータをHTMLベースで呼び出して加工する事が可能となっている。
+      - [RDBMSベンダである](../Page/関係データベース管理システム.md "wikilink")[オラクルが提供するWebサーバ](../Page/オラクル_\(企業\).md "wikilink") (Oracle HTTP Server) においては、[Java EEを使用した](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")[Webアプリケーションサーバと連携して](../Page/アプリケーションサーバ.md "wikilink")、HTMLドキュメント内にデータベースに検索を行わせるための[SQL](../Page/SQL.md "wikilink")文を直接記述し、データベースからデータをHTMLベースで呼び出して加工する事が可能となっている。
 
 ## 脚注
 

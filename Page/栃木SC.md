@@ -30,7 +30,7 @@
       - 2月20日：[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")と共にJリーグ準加盟が承認\[20\]。
       - 6月19日：成績不振（前期第16節終了時点で7位）を理由に高橋高が監督を辞任\[21\]。
       - 7月：[柱谷幸一](../Page/柱谷幸一.md "wikilink")が監督に就任\[22\]\[23\]。
-      - 12月：これまでのプロ・アマ混合のチームからオールプロのチームとするため、アマチュア契約選手のほとんどを放出。[高安亮介](https://ja.wikipedia.org/wiki/高安亮介 "wikilink")を除く全員とプロ契約を結んだが、その他のアマチュア選手は全員退団した。
+      - 12月：これまでのプロ・アマ混合のチームからオールプロのチームとするため、アマチュア契約選手のほとんどを放出。[高安亮介](../Page/高安亮介.md "wikilink")を除く全員とプロ契約を結んだが、その他のアマチュア選手は全員退団した。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 
     この年栃木グリーンスタジアムのバックスタンド座席化完了。しかし、[3月11日](../Page/3月11日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生したことにより観客の客席通路となっている橋の結合部分が破損した\[26\]。そのため改修工事を行い、工事中は別の安全な場所に仮ゲートを設置した\[27\]。
 
-    リーグ戦は第9節（3試合目）、第10節、第11節、第17節（11試合目）、第18節（12試合目）で首位に立ち、9月4日の第4節[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")戦は引き分けに終わったが、その試合で[パウリーニョが右](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ゴンサガ "wikilink")[腓骨](../Page/腓骨.md "wikilink")[骨折](../Page/骨折.md "wikilink")で戦線離脱すると順位が下降し、最終順位は10位。[J1昇格は成らなかったものの](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[北関東ダービー](https://ja.wikipedia.org/wiki/北関東ダービー "wikilink")で初優勝した。
+    リーグ戦は第9節（3試合目）、第10節、第11節、第17節（11試合目）、第18節（12試合目）で首位に立ち、9月4日の第4節[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")戦は引き分けに終わったが、その試合で[パウリーニョが右](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ゴンサガ "wikilink")[腓骨](../Page/腓骨.md "wikilink")[骨折](../Page/骨折.md "wikilink")で戦線離脱すると順位が下降し、最終順位は10位。[J1昇格は成らなかったものの](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[北関東ダービー](../Page/北関東ダービー.md "wikilink")で初優勝した。
 
 <!-- end list -->
 
@@ -136,7 +136,7 @@
       -
         チームスローガン ： **勇昇 -すべては栃木のために-**
 
-    前[湘南ヘッドコーチの](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[横山雄次](../Page/横山雄次.md "wikilink")が監督に就任。[荒堀謙次](https://ja.wikipedia.org/wiki/荒堀謙次 "wikilink")が[山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")、[湯澤洋介](https://ja.wikipedia.org/wiki/湯澤洋介 "wikilink")が[水戸](../Page/水戸ホーリーホック.md "wikilink")、[中美慶哉](https://ja.wikipedia.org/wiki/中美慶哉 "wikilink")が[鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")、[小野寺達也](https://ja.wikipedia.org/wiki/小野寺達也 "wikilink")が[長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")、[西川優大](https://ja.wikipedia.org/wiki/西川優大 "wikilink")が[富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")、[イ・ジュヨンが](https://ja.wikipedia.org/wiki/イ・テホ_\(1991年生のサッカー選手\) "wikilink")[千葉へ移籍](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")、[松村亮](https://ja.wikipedia.org/wiki/松村亮 "wikilink")、[金子翔太](https://ja.wikipedia.org/wiki/金子翔太 "wikilink")、[河本明人](https://ja.wikipedia.org/wiki/河本明人 "wikilink")、[パク・ヒョンジン](https://ja.wikipedia.org/wiki/朴亨鎮 "wikilink")、[阪野豊史](https://ja.wikipedia.org/wiki/阪野豊史 "wikilink")が期限付き移籍満了で退団。
+    前[湘南ヘッドコーチの](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")[横山雄次](../Page/横山雄次.md "wikilink")が監督に就任。[荒堀謙次](https://ja.wikipedia.org/wiki/荒堀謙次 "wikilink")が[山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")、[湯澤洋介](https://ja.wikipedia.org/wiki/湯澤洋介 "wikilink")が[水戸](../Page/水戸ホーリーホック.md "wikilink")、[中美慶哉](https://ja.wikipedia.org/wiki/中美慶哉 "wikilink")が[鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")、[小野寺達也](https://ja.wikipedia.org/wiki/小野寺達也 "wikilink")が[長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")、[西川優大](https://ja.wikipedia.org/wiki/西川優大 "wikilink")が[富山](../Page/カターレ富山.md "wikilink")、[イ・ジュヨンが](https://ja.wikipedia.org/wiki/イ・テホ_\(1991年生のサッカー選手\) "wikilink")[千葉へ移籍](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")、[松村亮](https://ja.wikipedia.org/wiki/松村亮 "wikilink")、[金子翔太](https://ja.wikipedia.org/wiki/金子翔太 "wikilink")、[河本明人](https://ja.wikipedia.org/wiki/河本明人 "wikilink")、[パク・ヒョンジン](https://ja.wikipedia.org/wiki/朴亨鎮 "wikilink")、[阪野豊史](https://ja.wikipedia.org/wiki/阪野豊史 "wikilink")が期限付き移籍満了で退団。
 
     新戦力は、[川崎から](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")[山越享太郎](https://ja.wikipedia.org/wiki/山越享太郎 "wikilink")、[藤枝から](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")[大石治寿](https://ja.wikipedia.org/wiki/大石治寿 "wikilink")、[徳島から](../Page/徳島ヴォルティス.md "wikilink")[斉藤大介](../Page/斉藤大介.md "wikilink")、[鳥取から](../Page/ガイナーレ鳥取.md "wikilink")[山本大稀](https://ja.wikipedia.org/wiki/山本大稀 "wikilink")、[松本から](../Page/松本山雅FC.md "wikilink")[和田達也](https://ja.wikipedia.org/wiki/和田達也 "wikilink")、[京都から](../Page/京都サンガF.C..md "wikilink")[佐々木勇人](../Page/佐々木勇人.md "wikilink")を完全移籍で、[CAメトロポリターノ](https://ja.wikipedia.org/wiki/CAメトロポリターノ "wikilink")から昨シーズン[金沢に期限付き移籍していた](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")[ジャーン・モーゼル](https://ja.wikipedia.org/wiki/ジャーン・ディエゴ・モーゼル "wikilink")、湘南から[広瀬健太](https://ja.wikipedia.org/wiki/広瀬健太 "wikilink")、[大宮から](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[川田修平](https://ja.wikipedia.org/wiki/川田修平 "wikilink")、長崎から[上形洋介](https://ja.wikipedia.org/wiki/上形洋介 "wikilink")を期限付き移籍で獲得。[永芳卓磨](https://ja.wikipedia.org/wiki/永芳卓磨 "wikilink")が期限付き移籍先から復帰した。シーズン中には2011年まで在籍した[リカルド・ロボ](https://ja.wikipedia.org/wiki/リカルド・ロボ "wikilink")が復帰した。
 
@@ -206,7 +206,7 @@
       - 1998-2004, 2006, 2007
   - **[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")**
       - 1988, 1998
-  - **[北関東ダービー](https://ja.wikipedia.org/wiki/北関東ダービー "wikilink")：1回**
+  - **[北関東ダービー](../Page/北関東ダービー.md "wikilink")：1回**
       - 2011年
 
 ### 個人
@@ -671,7 +671,7 @@
 ## 関連項目
 
   - [栃木SCの選手一覧](https://ja.wikipedia.org/wiki/栃木SCの選手一覧 "wikilink")
-  - [北関東ダービー](https://ja.wikipedia.org/wiki/北関東ダービー "wikilink")
+  - [北関東ダービー](../Page/北関東ダービー.md "wikilink")
   - [トッキー (栃木SC)](https://ja.wikipedia.org/wiki/トッキー_\(栃木SC\) "wikilink")
 
 ## 外部リンク

@@ -5,7 +5,7 @@
 
 ## 概要
 
-『東京っ子NIGHT - 』時代は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[海岸](../Page/海岸_\(東京都港区\).md "wikilink")3丁目の[オンワード樫山](../Page/オンワード樫山.md "wikilink")芝浦第2ビル7階にあった『**TOKYO BAY STUDIO**』から放送されていた。当時、メインパーソナリティの[関秀章](https://ja.wikipedia.org/wiki/関秀章 "wikilink")は毎週月曜日に『[ファンキートマト](https://ja.wikipedia.org/wiki/ファンキートマト "wikilink")』（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、19:00 - 21:00）の生放送もあり、[横浜から港区海岸のスタジオまでわずか](../Page/横浜市.md "wikilink")30分で移動しなければならなかったため、毎週時間内に入れるかどうかが話題となっていた。そのような中で、1987年[5月5日](../Page/5月5日.md "wikilink")の放送では間に合わず、あらかじめスタジオに待機していたもう一人のパーソナリティ・[太田英明](../Page/太田英明.md "wikilink")が途中まで進行し、関が入って来たところからその日は最後まで二人で進行した、ということがあった\[1\]。
+『東京っ子NIGHT - 』時代は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[海岸](../Page/海岸_\(東京都港区\).md "wikilink")3丁目の[オンワード樫山](../Page/オンワード樫山.md "wikilink")芝浦第2ビル7階にあった『**TOKYO BAY STUDIO**』から放送されていた。当時、メインパーソナリティの[関秀章](../Page/関秀章.md "wikilink")は毎週月曜日に『[ファンキートマト](https://ja.wikipedia.org/wiki/ファンキートマト "wikilink")』（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")、19:00 - 21:00）の生放送もあり、[横浜から港区海岸のスタジオまでわずか](../Page/横浜市.md "wikilink")30分で移動しなければならなかったため、毎週時間内に入れるかどうかが話題となっていた。そのような中で、1987年[5月5日](../Page/5月5日.md "wikilink")の放送では間に合わず、あらかじめスタジオに待機していたもう一人のパーソナリティ・[太田英明](../Page/太田英明.md "wikilink")が途中まで進行し、関が入って来たところからその日は最後まで二人で進行した、ということがあった\[1\]。
 
 『東京っ子NIGHT - 』時代のオープニングテーマ曲は、[スウィング・アウト・シスター](../Page/スウィング・アウト・シスター.md "wikilink")の曲『[ブレイクアウト](https://ja.wikipedia.org/wiki/ブレイクアウト_\(スウィング・アウト・シスターの曲\) "wikilink")』をアレンジして製作したオリジナルヴァージョンの曲\[2\]。
 
@@ -15,7 +15,7 @@
 
 ### 1987年4月 - 1988年3月
 
-  - 月 - 木曜：[関秀章](https://ja.wikipedia.org/wiki/関秀章 "wikilink")（当時「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」の[金曜チェック](../Page/金曜チェック.md "wikilink")などの構成を務めていた[放送作家](../Page/放送作家.md "wikilink")）
+  - 月 - 木曜：[関秀章](../Page/関秀章.md "wikilink")（当時「[ニュースステーション](../Page/ニュースステーション.md "wikilink")」の[金曜チェック](../Page/金曜チェック.md "wikilink")などの構成を務めていた[放送作家](../Page/放送作家.md "wikilink")）
   - 金曜：[太田英明](../Page/太田英明.md "wikilink")（文化放送アナウンサー）
 
 ### 1988年4月 - 1989年9月
@@ -51,7 +51,7 @@
   - 23:00 トーク部分
   - 23:02 **[SCHOOL'S OUT](https://ja.wikipedia.org/wiki/SCHOOL'S_OUT "wikilink")**（出演:[大友康平](../Page/大友康平.md "wikilink")、[千倉真理](../Page/千倉真理.md "wikilink") [NRN全国](../Page/全国ラジオネットワーク.md "wikilink")33局ネット
   - 23:30 **東京っ子NIGHTちょっと頭が太りすぎ\!?**　リスナー投稿型のハガキネタコーナー
-  - 23:40 **[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の太田君頑張って\!**：中森明菜が、全国の太田さんにエールを送るコーナー。後から金曜に登場した[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")の「ゴキちゃん」（声：[京田尚子](../Page/京田尚子.md "wikilink")）は、強烈毒舌キャラだった。
+  - 23:40 **[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の太田君頑張って\!**：中森明菜が、全国の太田さんにエールを送るコーナー。後から金曜に登場した[ゴキブリ](../Page/ゴキブリ.md "wikilink")の「ゴキちゃん」（声：[京田尚子](../Page/京田尚子.md "wikilink")）は、強烈毒舌キャラだった。
   - 23:50 **GIVE ME CHOCOLATE\!?**：番組ラストの5分英会話コーナー（1988年4月からは「**英語探偵団**」に改題）
   - 23:55 エンディング
 

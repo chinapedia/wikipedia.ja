@@ -48,7 +48,7 @@
   - [プロ格KING](https://ja.wikipedia.org/wiki/プロ格KING "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）※実況担当 - 旧・みちのくルチャTVと[ルチャリブレ](../Page/ルチャリブレ.md "wikilink")[AAAなどが統合された番組](../Page/AAA_\(プロレス\).md "wikilink")
   - [女闘美X](https://ja.wikipedia.org/wiki/女闘美X "wikilink")（[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")）※他MONDO21の番組に多数出演
   - [とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）「博士と助手〜細かすぎて伝わらないモノマネ選手権〜」内
-  - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")・[エンタの天使](https://ja.wikipedia.org/wiki/エンタの天使 "wikilink")第14回（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）　キャッチコピーは「しゃべりのスーパーエクスプレス」
+  - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")・[エンタの天使](../Page/エンタの天使.md "wikilink")第14回（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）　キャッチコピーは「しゃべりのスーパーエクスプレス」
   - [ゼベック・オンライン](../Page/ゼベック・オンライン.md "wikilink") （[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2005年1月10日）
   - [科学忍者隊ガッチャピン](../Page/科学忍者隊ガッチャピン.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）ナレーション
   - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2009年9月3日&10日、2010年1月7日）俺達のプロレスオールスター戦

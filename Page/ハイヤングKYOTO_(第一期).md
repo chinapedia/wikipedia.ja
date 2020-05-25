@@ -7,7 +7,7 @@
 
 [1981年](../Page/1981年.md "wikilink")（昭和56年）4月に[ハイヤング11](../Page/ハイヤング11.md "wikilink")の後番組として開始。放送時間は毎日22:00 - 25:00。
 
-このハイヤンにおいては、[関西以外の地を活動拠点とする](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")を本社スタジオに呼び寄せて[パーソナリティに起用すると言う冒険も試みていた](../Page/ラジオパーソナリティ.md "wikilink")。[名古屋在住の](../Page/名古屋市.md "wikilink")[つボイノリオ](../Page/つボイノリオ.md "wikilink")や[首都圏在住の](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[おすぎ](../Page/おすぎ.md "wikilink")と[ピーコ](../Page/ピーコ.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")在住の[みのや雅彦](../Page/みのや雅彦.md "wikilink")が代表的な例である。
+このハイヤンにおいては、[関西以外の地を活動拠点とする](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")を本社スタジオに呼び寄せて[パーソナリティに起用すると言う冒険も試みていた](../Page/ラジオパーソナリティ.md "wikilink")。[名古屋在住の](../Page/名古屋市.md "wikilink")[つボイノリオ](../Page/つボイノリオ.md "wikilink")や[首都圏在住の](../Page/首都圏_\(日本\).md "wikilink")[おすぎ](../Page/おすぎ.md "wikilink")と[ピーコ](../Page/ピーコ.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")在住の[みのや雅彦](../Page/みのや雅彦.md "wikilink")が代表的な例である。
 
 パーソナリティのフリートークや、コーナーごとにテーマを決めてリスナーから募集したお便りの紹介が、主要な位置を占める。ただし、つボイノリオ担当の水曜日が自身が出した曲以外は音楽を極力排除してトークに徹する一方で、[若宮てい子担当の金曜日は洋楽を全面に押し出すなど](https://ja.wikipedia.org/wiki/若宮テイ子 "wikilink")、曜日毎の路線の違いはあった。
 

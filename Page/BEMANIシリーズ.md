@@ -429,7 +429,7 @@ Hommarju</p></td>
 
   - [ARCH ENEMY](https://ja.wikipedia.org/wiki/ARCH_ENEMY "wikilink")
   - [相知美佐](https://ja.wikipedia.org/wiki/相知美佐 "wikilink")
-  - [Akino](https://ja.wikipedia.org/wiki/Akino "wikilink") ※[bless4](https://ja.wikipedia.org/wiki/bless4 "wikilink")のメンバーではない
+  - [Akino](../Page/Akino.md "wikilink") ※[bless4](https://ja.wikipedia.org/wiki/bless4 "wikilink")のメンバーではない
   - [浅井裕子](https://ja.wikipedia.org/wiki/浅井裕子 "wikilink")
   - Art of Fighters
   - [浅倉大介](../Page/浅倉大介.md "wikilink")
@@ -509,7 +509,7 @@ Hommarju</p></td>
   - [佐久間彩](https://ja.wikipedia.org/wiki/佐久間彩 "wikilink")
   - [sasakure.UK](https://ja.wikipedia.org/wiki/sasakure.UK "wikilink") feat. [mirto](https://ja.wikipedia.org/wiki/mirto "wikilink")
   - [沙野カモメ](https://ja.wikipedia.org/wiki/沙野カモメ "wikilink")
-  - [佐野信義](https://ja.wikipedia.org/wiki/佐野信義 "wikilink") (sanodg)
+  - [佐野信義](../Page/佐野信義.md "wikilink") (sanodg)
   - [佐宗綾子](../Page/佐宗綾子.md "wikilink") (sampling masters AYA)
   - [THE DILLINGER ESCAPE PLAN](https://ja.wikipedia.org/wiki/THE_DILLINGER_ESCAPE_PLAN "wikilink")
   - [The DO-Nut's](https://ja.wikipedia.org/wiki/The_DO-Nut's "wikilink")

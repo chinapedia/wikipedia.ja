@@ -3,7 +3,7 @@
 
 『**NOiSE**』（ノイズ）は[弐瓶勉](../Page/弐瓶勉.md "wikilink")の[SFアクション](https://ja.wikipedia.org/wiki/サイエンスフィクション "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[アフタヌーンシーズン増刊](../Page/アフタヌーンシーズン増刊.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて第2号から第7号まで掲載された。本作は、商業誌デビュー以前の[アフタヌーン四季賞](https://ja.wikipedia.org/wiki/アフタヌーン四季賞 "wikilink")への投稿作品（佳作・雑誌未掲載。同賞に入選したデビュー作『[BLAME](https://ja.wikipedia.org/wiki/BLAME!#短編作品『BLAME』 "wikilink")』以前の投稿作）をベースとして[リメイク](../Page/リメイク.md "wikilink")された作品である。
 
-本作品『NOiSE』の世界観は、長編作品である『[BLAME\!](https://ja.wikipedia.org/wiki/BLAME! "wikilink")』の数千年前という設定になっており、2つの作品世界は完全に繋がっている。本作では『BLAME\!』の世界を変容させてしまった「厄災」の発端が描かれる。
+本作品『NOiSE』の世界観は、長編作品である『[BLAME\!](../Page/BLAME!.md "wikilink")』の数千年前という設定になっており、2つの作品世界は完全に繋がっている。本作では『BLAME\!』の世界を変容させてしまった「厄災」の発端が描かれる。
 
 第1章と最後の11ページを除いて[スクリーントーン](../Page/スクリーントーン.md "wikilink")が用いられておらず、ペンの筆致だけで質感の表現が試みられている。また、第5章は収録に際して大幅なページの追加とコマ割り構成の変更が行われている。
 

@@ -72,7 +72,7 @@
 
 #### 大文字
 
-  - [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")の[元素記号](../Page/元素記号.md "wikilink")。
+  - [水素](../Page/水素.md "wikilink")の[元素記号](../Page/元素記号.md "wikilink")。
   - [インダクタンス](../Page/インダクタンス.md "wikilink")の[SI組立単位](../Page/SI組立単位.md "wikilink")、[ヘンリー](https://ja.wikipedia.org/wiki/ヘンリー_\(単位\) "wikilink")（大文字）。
   - [電磁気学](../Page/電磁気学.md "wikilink")における[磁場](../Page/磁場.md "wikilink")（磁界）の意。
   - [熱力学](../Page/熱力学.md "wikilink")における[エンタルピー](../Page/エンタルピー.md "wikilink")の意。

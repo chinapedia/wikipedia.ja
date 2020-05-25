@@ -31,7 +31,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
 ### プロデビュー後
 
-[1976年](../Page/1976年.md "wikilink")[6月](../Page/6月.md "wikilink")『NAVY BLUE』でソロ・デビュー、[9月](../Page/9月.md "wikilink")にアルバム『Char』を発表（代表曲『Smoky』収録）。 [1977年](../Page/1977年.md "wikilink")6月にリリースされた『[気絶するほど悩ましい](https://ja.wikipedia.org/wiki/気絶するほど悩ましい "wikilink")』は、外部の作詞（[阿久悠](../Page/阿久悠.md "wikilink")）、作曲（[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")）で自身のROCK指向とは異なる『歌謡ROCK』路線となりアイドル系ギタリスト＆ボーカリストとして人気を博す。 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には『逆光線』『闘牛士』とヒットを飛ばし、同時期に登場した[世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")、[原田真二](../Page/原田真二.md "wikilink")の3人（グループ）と共に『ロック御三家』と呼ばれる\[2\]。
+[1976年](../Page/1976年.md "wikilink")[6月](../Page/6月.md "wikilink")『NAVY BLUE』でソロ・デビュー、[9月](../Page/9月.md "wikilink")にアルバム『Char』を発表（代表曲『Smoky』収録）。 [1977年](../Page/1977年.md "wikilink")6月にリリースされた『[気絶するほど悩ましい](https://ja.wikipedia.org/wiki/気絶するほど悩ましい "wikilink")』は、外部の作詞（[阿久悠](../Page/阿久悠.md "wikilink")）、作曲（[梅垣達志](../Page/梅垣達志.md "wikilink")）で自身のROCK指向とは異なる『歌謡ROCK』路線となりアイドル系ギタリスト＆ボーカリストとして人気を博す。 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には『逆光線』『闘牛士』とヒットを飛ばし、同時期に登場した[世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")、[原田真二](../Page/原田真二.md "wikilink")の3人（グループ）と共に『ロック御三家』と呼ばれる\[2\]。
 
 他の二組が自作曲で世に出たのとは違い、自身のシングル曲が職業作家からの提供曲だったことについては「俺がやったのは歌謡曲とロックの中間だよね。俺はロックの音楽家だけど、シングル盤は歌謡曲でいいと思ったわけよ。ロックやっててメジャーの世界に出るにはそれしかなかったじゃん」と当時のインタビューで述べている\[3\]。アイドル性を狙うもバンドのメンバーにルックスの悪いハーフがいたために若い女性ファンは取り込めなかったという\[4\]。
 
@@ -136,7 +136,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
   - [1991年](../Page/1991年.md "wikilink")には2人で覆面ユニット『P-SMOKE』としてminiアルバムを発表。（サントリーウイスキー『SMOKY』のCM曲として収録曲『ホワット・アー・ユー・アップ・トゥ・ネクスト』が使われた）[1996年](../Page/1996年.md "wikilink")には石井竜也が監督を務めた映画『ACRI』に合わせた同名ユニットACRIも結成しフル・アルバム『ACRI』を発表。米米CLUB再結成のきっかけになったのが自身の誕生日パーティーだったこともあり、現在も石井竜也のコンサートなどにも客演するなどしている。
   - [石田長生](https://ja.wikipedia.org/wiki/石田長生 "wikilink")とのユニット、[BAHO](https://ja.wikipedia.org/wiki/BAHO "wikilink")のライブは、他のアーティストをおちょくったり、世相を笑い飛ばすなど、終始笑いが絶えない。演奏でも、「かえるの歌」をマジメに歌ったり、[ベンチャーズ](https://ja.wikipedia.org/wiki/ベンチャーズ "wikilink")の代表曲「[ダイアモンド・ヘッド](https://ja.wikipedia.org/wiki/ダイアモンド・ヘッド_\(曲\) "wikilink")」がいつの間にか「[マイムマイム](https://ja.wikipedia.org/wiki/マイムマイム "wikilink")」に変わっているなど、ほとんどジョークのような演奏を繰り広げている。2人が1、3、5弦と2、4、6弦の三本ずつだけ張ったギターを持ち、[ベンチャーズ](https://ja.wikipedia.org/wiki/ベンチャーズ "wikilink")の楽曲を演奏するという芸をしたことがある。
-  - [2015年](../Page/2015年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")『[徹子の部屋](https://ja.wikipedia.org/wiki/徹子の部屋 "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）に初めてゲスト出演。なお、司会の[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")とはそれ以前に『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』（TBS系）でも共演経験がある（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送にて「[闘牛士](https://ja.wikipedia.org/wiki/闘牛士_\(曲\) "wikilink")」でスポットライトに出演した）。
+  - [2015年](../Page/2015年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")『[徹子の部屋](https://ja.wikipedia.org/wiki/徹子の部屋 "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）に初めてゲスト出演。なお、司会の[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")とはそれ以前に『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』（TBS系）でも共演経験がある（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")放送にて「[闘牛士](https://ja.wikipedia.org/wiki/闘牛士_\(曲\) "wikilink")」でスポットライトに出演した）。
 
 <!-- end list -->
 

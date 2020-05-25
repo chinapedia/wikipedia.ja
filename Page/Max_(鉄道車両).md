@@ -50,7 +50,7 @@ E1系は1 - 4号車、E4系は1 - 3号車の2階席が[自由席](../Page/自由
 
   - [新幹線](../Page/新幹線.md "wikilink")
   - [鉄道車両](../Page/鉄道車両.md "wikilink")
-  - [フランス国鉄TGV Duplex](https://ja.wikipedia.org/wiki/TGV_Duplex "wikilink")
+  - [フランス国鉄TGV Duplex](../Page/TGV_Duplex.md "wikilink")
   - [Maxとき315号](https://ja.wikipedia.org/wiki/Maxとき315号 "wikilink") - [NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")の楽曲。Maxを冠した便名を楽曲名としている。（Maxとき315号は2019年3月15日まで運行されていた。）
 
 ## 外部リンク

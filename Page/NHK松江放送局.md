@@ -13,7 +13,7 @@
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - 総合テレビ放送開始。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）[12月28日](../Page/12月28日.md "wikilink") - 教育テレビ放送開始。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[10月1日](../Page/10月1日.md "wikilink") - 地上デジタル放送開始。
-  - [2007年](../Page/2007年.md "wikilink")（平成19年） - 開局75周年記念ドラマ『[先生の秘密](https://ja.wikipedia.org/wiki/先生の秘密 "wikilink")』を制作。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年） - 開局75周年記念ドラマ『[先生の秘密](../Page/先生の秘密.md "wikilink")』を制作。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
 
 ## チャンネル・周波数
@@ -164,7 +164,7 @@
   - 発進\!島根
   - しまね640→しまね630→イブニングネットワークしまね→発進\!島根ろくいち丸→発進\!島根ろくまる丸→情報満開\!しまねっとToday
   - しまね845
-  - [先生の秘密](https://ja.wikipedia.org/wiki/先生の秘密 "wikilink")（開局75周年記念制作のテレビドラマ）
+  - [先生の秘密](../Page/先生の秘密.md "wikilink")（開局75周年記念制作のテレビドラマ）
   - ショートドラマ [私の"だんだん"](https://ja.wikipedia.org/wiki/私の"だんだん" "wikilink")
 
 ## アナウンサー・キャスター

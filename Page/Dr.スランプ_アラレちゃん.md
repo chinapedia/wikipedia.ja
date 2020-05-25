@@ -317,7 +317,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>お使いガッちゃん</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/進藤満尾" title="wikilink">進藤満尾</a></p></td>
+<td><p><a href="../Page/進藤満尾.md" title="wikilink">進藤満尾</a></p></td>
 <td><p>4巻5話</p></td>
 <td></td>
 <td></td>
@@ -778,7 +778,7 @@
 <td><p>雪室俊一</p></td>
 <td><p>芦田豊雄<br />
 加藤雄治</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/海老沢幸男" title="wikilink">海老沢幸男</a></p></td>
+<td><p><a href="../Page/海老沢幸男.md" title="wikilink">海老沢幸男</a></p></td>
 <td><p>6巻3話</p></td>
 <td></td>
 </tr>
@@ -1556,7 +1556,7 @@
 <td><p>みえるみえるレンズマンズ</p></td>
 <td><p>島田満</p></td>
 <td><p>加藤雄治</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">内山まさゆき</a></p></td>
+<td><p><a href="../Page/内山正幸.md" title="wikilink">内山まさゆき</a></p></td>
 <td><p>11巻1話</p></td>
 <td></td>
 </tr>

@@ -16,7 +16,7 @@
 ## 関連項目
 
   - [ジョークRFC](https://ja.wikipedia.org/wiki/Request_for_Comments#一風変わったRFC "wikilink")
-  - [ISO 3103](https://ja.wikipedia.org/wiki/ISO_3103 "wikilink") - 紅茶の入れ方の国際標準規格
+  - [ISO 3103](../Page/ISO_3103.md "wikilink") - 紅茶の入れ方の国際標準規格
 
 ## 外部リンク
 

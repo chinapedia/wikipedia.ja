@@ -10,7 +10,7 @@
 
   - [エチオピア](https://ja.wikipedia.org/wiki/エチオピア "wikilink")連邦民主共和国の[国名コード](../Page/国名コード.md "wikilink")および[ccTLD](../Page/トップレベルドメイン.md "wikilink")
 
-  - [エチオピア航空](https://ja.wikipedia.org/wiki/エチオピア航空 "wikilink")の [IATA航空会社コード（2レターコード）](../Page/航空会社コード.md "wikilink")
+  - [エチオピア航空](../Page/エチオピア航空.md "wikilink")の [IATA航空会社コード（2レターコード）](../Page/航空会社コード.md "wikilink")
 
   - [エストニア語](../Page/エストニア語.md "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
 

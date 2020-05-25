@@ -21,7 +21,7 @@
 
 [BDプレーヤー](https://ja.wikipedia.org/wiki/BDプレーヤー "wikilink")/[レコーダー用に](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")[BDを用いた](../Page/Blu-ray_Disc.md "wikilink")**BDPG**も[2006年](../Page/2006年.md "wikilink")以降に登場している\[2\]。操作方法はDVDPGそのままに、DVD以上の画質や音質でゲーム内容を楽しめる。
 
-[BD-J](https://ja.wikipedia.org/wiki/BD-J "wikilink")（Blu-ray Disc Java）を使うことにより、DVDPGでは不可能だったPCゲームにより近い複雑な内容も実現可能である。ただし、BDプレーヤー/レコーダーの性能によっては動作が重くなることもある。
+[BD-J](../Page/BD-J.md "wikilink")（Blu-ray Disc Java）を使うことにより、DVDPGでは不可能だったPCゲームにより近い複雑な内容も実現可能である。ただし、BDプレーヤー/レコーダーの性能によっては動作が重くなることもある。
 
 アダルトゲームに関してはDVDPGが広く定着していたためもあって長らく開発されなかったが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")には[mintsより](../Page/ミルキーレーベル.md "wikilink")『[After... BDPG](../Page/After....md "wikilink")』と『[真章 幻夢館 BDPG](https://ja.wikipedia.org/wiki/真章_幻夢館 "wikilink")』がアダルトゲーム初のBDPGとして同時発売された。これらには、DVDPG版では不可能だったセーブ機能なども実装されている。
 
@@ -98,7 +98,7 @@ DVDPGの延長線として、[PSP用に](../Page/PlayStation_Portable.md "wikili
   - [インターハート](../Page/インターハート.md "wikilink")
   - メルロー
   - [ネクストン](../Page/ネクストン.md "wikilink")
-  - [フォレスト](https://ja.wikipedia.org/wiki/フォレスト_\(ゲーム会社\) "wikilink")
+  - [フォレスト](../Page/フォレスト_\(ゲーム会社\).md "wikilink")
   - [イエローピッグ](../Page/エルフ_\(ブランド\).md "wikilink")
   - [Guilty・LUCHA！・rouge・ruf](../Page/ウィルプラス.md "wikilink")
   - [ディーオー・ZyX・シーディーブロス](https://ja.wikipedia.org/wiki/雄図グループ "wikilink")
@@ -138,7 +138,7 @@ DVDPGの延長線として、[PSP用に](../Page/PlayStation_Portable.md "wikili
 
   - [Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink")
   - [レーザーディスクゲーム](../Page/レーザーディスクゲーム.md "wikilink")
-  - [BD-J](https://ja.wikipedia.org/wiki/BD-J "wikilink")
+  - [BD-J](../Page/BD-J.md "wikilink")
 
 ## 外部リンク
 

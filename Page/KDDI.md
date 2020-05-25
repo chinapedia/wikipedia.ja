@@ -22,7 +22,7 @@
 
 等の[電気通信役務](https://ja.wikipedia.org/wiki/電気通信役務 "wikilink")を行う。
 
-また、旧KDDに由来する[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")や[北朝鮮向け](../Page/朝鮮民主主義人民共和国.md "wikilink")[短波放送](../Page/短波放送.md "wikilink")「[しおかぜ](../Page/しおかぜ_\(放送\).md "wikilink")」の電波を送信している[八俣送信所](https://ja.wikipedia.org/wiki/八俣送信所 "wikilink")（[茨城県](../Page/茨城県.md "wikilink")[古河市](../Page/古河市.md "wikilink")）や、国際通信を行う[KDDI山口衛星通信センター](../Page/KDDI山口衛星通信センター.md "wikilink")（[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")）、[海底ケーブル](../Page/海底ケーブル.md "wikilink")などを保有している。
+また、旧KDDに由来する[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")や[北朝鮮向け](../Page/朝鮮民主主義人民共和国.md "wikilink")[短波放送](../Page/短波放送.md "wikilink")「[しおかぜ](../Page/しおかぜ_\(放送\).md "wikilink")」の電波を送信している[八俣送信所](../Page/八俣送信所.md "wikilink")（[茨城県](../Page/茨城県.md "wikilink")[古河市](../Page/古河市.md "wikilink")）や、国際通信を行う[KDDI山口衛星通信センター](../Page/KDDI山口衛星通信センター.md "wikilink")（[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")）、[海底ケーブル](../Page/海底ケーブル.md "wikilink")などを保有している。
 
 [NTTグループ](../Page/NTTグループ.md "wikilink")に続いて、両事業において[災害対策基本法](../Page/災害対策基本法.md "wikilink")に基づき[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の指定を受けた。よって、災害時においては、他の指定公共機関同士の通信を優先的に確保し、円滑に行う義務を負う。
 
@@ -58,7 +58,7 @@
   - [1932年](../Page/1932年.md "wikilink")12月 - [無線電信法](../Page/無線電信法.md "wikilink")第2条にもとづき、[国際電話株式会社設立](https://ja.wikipedia.org/wiki/国際電話_\(企業\) "wikilink")。
   - [1937年](../Page/1937年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")12年） - 国際電気通信株式会社法制定。
   - [1938年](../Page/1938年.md "wikilink")（昭和13年） - 日本無線電信株式会社と国際電話株式会社を合併し、[国際電気通信](https://ja.wikipedia.org/wiki/国際電気通信 "wikilink")株式会社創立。
-  - [1940年](../Page/1940年.md "wikilink")（昭和15年） - [八俣送信所](https://ja.wikipedia.org/wiki/八俣送信所 "wikilink")開設。
+  - [1940年](../Page/1940年.md "wikilink")（昭和15年） - [八俣送信所](../Page/八俣送信所.md "wikilink")開設。
   - [1947年](../Page/1947年.md "wikilink")（昭和22年） - 国際電気通信株式会社の[GHQ指令による解散](../Page/連合国軍最高司令官総司令部.md "wikilink")。国際電気通信株式会社法廃止。
   - [1947年](../Page/1947年.md "wikilink")（昭和22年） - 国際電気通信株式会社の施設（一部を除く）・業務・職員は[逓信省](../Page/逓信省.md "wikilink")に移管。
   - [1949年](../Page/1949年.md "wikilink")（昭和24年）[6月1日](../Page/6月1日.md "wikilink") - 国際通信部門は、逓信省の二省分離（郵電分離）で成立した[電気通信省](../Page/電気通信省.md "wikilink")に移管。

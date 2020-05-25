@@ -163,7 +163,7 @@ CONCERT TOUR 2000・2001・2002・2003 等</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Pabo" title="wikilink">Pabo</a></p></td>
-<td><p>2007年/『<a href="https://ja.wikipedia.org/wiki/恋のヘキサゴン" title="wikilink">恋のヘキサゴン</a>』（作詞：<a href="../Page/島田紳助.md" title="wikilink">島田紳助</a>、作曲：<a href="../Page/高原兄.md" title="wikilink">高原兄</a>）</p></td>
+<td><p>2007年/『<a href="../Page/恋のヘキサゴン.md" title="wikilink">恋のヘキサゴン</a>』（作詞：<a href="../Page/島田紳助.md" title="wikilink">島田紳助</a>、作曲：<a href="../Page/高原兄.md" title="wikilink">高原兄</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/体操の時間。#コラボ企画" title="wikilink">笑顔体操</a></p></td>
@@ -207,7 +207,7 @@ CONCERT TOUR 2000・2001・2002・2003 等</p></td>
 **イベント振付**
 
   - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")パレード「Believe」テーマ曲「ココロつなぐリズム」（作詞・作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink") 2007年）
-  - [USJ](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")10周年記念ソング　「グッキー　GOOD LUCKY\!\!\!\!\!」　唄 GReeeeN×ベッキー＃
+  - [USJ](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")10周年記念ソング　「グッキー　GOOD LUCKY\!\!\!\!\!」　唄 GReeeeN×ベッキー＃
 
 **DVD作品**
 

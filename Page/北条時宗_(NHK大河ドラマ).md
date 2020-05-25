@@ -17,7 +17,7 @@
 
 主役の[和泉元彌](../Page/和泉元彌.md "wikilink")は[伝統芸能](https://ja.wikipedia.org/wiki/伝統芸能 "wikilink")界からでは『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の[中村勘九郎（のちの十八代目勘三郎）からわずか](../Page/中村勘三郎_\(18代目\).md "wikilink")2年後の大河主人公役抜擢であり、[能](../Page/能.md "wikilink")・[狂言](../Page/狂言.md "wikilink")界から初めて。また本作の前年、2000年の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")の白組司会を務めた。
 
-[北条時頼](../Page/北条時頼.md "wikilink")役の[渡辺謙](../Page/渡辺謙.md "wikilink")は1987年『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』、1993～1994年の『炎立つ』以来の出演で、[急性骨髄性白血病](https://ja.wikipedia.org/wiki/急性骨髄性白血病 "wikilink")の長期療養からの復帰後第一作目となった。また、『独眼竜政宗』で[伊達政宗](../Page/伊達政宗.md "wikilink")の父[伊達輝宗](../Page/伊達輝宗.md "wikilink")を演じた、[謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")役の[北大路欣也](../Page/北大路欣也.md "wikilink")との共演となった。
+[北条時頼](../Page/北条時頼.md "wikilink")役の[渡辺謙](../Page/渡辺謙.md "wikilink")は1987年『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』、1993～1994年の『炎立つ』以来の出演で、[急性骨髄性白血病](../Page/急性骨髄性白血病.md "wikilink")の長期療養からの復帰後第一作目となった。また、『独眼竜政宗』で[伊達政宗](../Page/伊達政宗.md "wikilink")の父[伊達輝宗](../Page/伊達輝宗.md "wikilink")を演じた、[謝国明](https://ja.wikipedia.org/wiki/謝国明 "wikilink")役の[北大路欣也](../Page/北大路欣也.md "wikilink")との共演となった。
 
 初回放送の「鎌倉大激震」での蒙古の大船団、後半放送の「蒙古襲来」「弘安の役」での蒙古の大群の上陸の様子など、[デジタル合成](../Page/デジタル合成.md "wikilink")や[コンピューターグラフィックス](https://ja.wikipedia.org/wiki/コンピューターグラフィックス "wikilink")を駆使し、スケールの大きな迫力ある映像で再現。前作『葵 徳川三代』に続く2度目の全編[ハイビジョン](../Page/ハイビジョン.md "wikilink")作品となる\[2\]。
 
@@ -192,7 +192,7 @@
 
 <!-- end list -->
 
-  - [平盛綱](https://ja.wikipedia.org/wiki/平盛綱_\(三郎兵衛尉\) "wikilink")：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
+  - [平盛綱](https://ja.wikipedia.org/wiki/平盛綱_\(三郎兵衛尉\) "wikilink")：[宗近晴見](../Page/宗近晴見.md "wikilink")
 
 <!-- end list -->
 
@@ -267,7 +267,7 @@
 
 <!-- end list -->
 
-  - [北条時茂](../Page/北条時茂.md "wikilink")：[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
+  - [北条時茂](../Page/北条時茂.md "wikilink")：[羽賀研二](../Page/羽賀研二.md "wikilink")
 
 <!-- end list -->
 

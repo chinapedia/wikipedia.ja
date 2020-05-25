@@ -221,7 +221,7 @@
   - [北沢慶](https://ja.wikipedia.org/wiki/北沢慶 "wikilink") - [グループSNE](../Page/グループSNE.md "wikilink")所属
   - [清松みゆき](../Page/清松みゆき.md "wikilink") - [グループSNE](../Page/グループSNE.md "wikilink")所属
   - [久保田悠羅](../Page/久保田悠羅.md "wikilink") - [F.E.A.R.所属](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")
-  - [黒田幸弘](https://ja.wikipedia.org/wiki/黒田幸弘 "wikilink") - [ミューズソフト株式会社](https://ja.wikipedia.org/wiki/ミューズソフト株式会社 "wikilink")代表
+  - [黒田幸弘](../Page/黒田幸弘.md "wikilink") - [ミューズソフト株式会社](https://ja.wikipedia.org/wiki/ミューズソフト株式会社 "wikilink")代表
   - [小太刀右京](../Page/小太刀右京.md "wikilink") - [F.E.A.R.協力](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")
   - [小林正親](https://ja.wikipedia.org/wiki/小林正親 "wikilink") - 元[遊演体](../Page/遊演体.md "wikilink")所属
   - [小浜智](../Page/小浜智.md "wikilink") - [F.E.A.R.所属](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")

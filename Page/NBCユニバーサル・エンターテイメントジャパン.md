@@ -301,7 +301,7 @@
 
   - バウンティソードシリーズ
       - バウンティ・ソード
-      - [バウンティソード・ファースト](https://ja.wikipedia.org/wiki/バウンティソード・ファースト "wikilink")
+      - [バウンティソード・ファースト](../Page/バウンティソード・ファースト.md "wikilink")
       - [バウンティソード ダブルエッジ](https://ja.wikipedia.org/wiki/バウンティソード_ダブルエッジ "wikilink")
   - [ごきんじょ冒険隊](../Page/ごきんじょ冒険隊.md "wikilink")
   - [NOëLシリーズ](../Page/NOeL.md "wikilink")

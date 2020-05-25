@@ -97,7 +97,7 @@
   - [吉本隆明](../Page/吉本隆明.md "wikilink")『超・戦争論』ISBN 4776200104（上）・ISBN 4776200112（下）
   - 吉本隆明『私の（戦争論）』
   - [浅羽通明](../Page/浅羽通明.md "wikilink")『ナショナリズム-名著でたどる日本思想案内』 ISBN 4480061738
-  - [姜尚中](https://ja.wikipedia.org/wiki/姜尚中 "wikilink")、他『戦争論・妄想論』ISBN 4876523665
+  - [姜尚中](../Page/姜尚中.md "wikilink")、他『戦争論・妄想論』ISBN 4876523665
   - [山田朗](../Page/山田朗.md "wikilink")『歴史修正主義の克服-ゆがめられた＜戦争論＞を問う』ISBN 4874982719
   - [大日方純夫](../Page/大日方純夫.md "wikilink")、[山田朗](../Page/山田朗.md "wikilink")、[山科三郎](https://ja.wikipedia.org/wiki/山科三郎 "wikilink")、[石山久男](https://ja.wikipedia.org/wiki/石山久男 "wikilink")『君たちは戦争で死ねるか-小林よしのり「戦争論」批判』 ISBN 4272520563
   - [と学会](../Page/と学会.md "wikilink")『トンデモ本の世界R』

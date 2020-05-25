@@ -3,7 +3,7 @@
 
 [300px世界経済フォーラム](https://ja.wikipedia.org/wiki/ファイル:Samuel_P._Huntington_\(2004_World_Economic_Forum\).jpg "wikilink")）\]\] **サミュエル・フィリップス・ハンティントン**（Samuel Phillips Huntington、[1927年](../Page/1927年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[国際政治学者](../Page/国際政治学者.md "wikilink")。[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")「戦争と平和」研究所副所長を経て[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")教授。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで、[アメリカ政治学会](../Page/アメリカ政治学会.md "wikilink")会長を務めた。政党支持ではアメリカ民主党の右派に属した。
 
-彼の研究領域は[政軍関係](../Page/政軍関係.md "wikilink")論、[比較政治学](../Page/比較政治学.md "wikilink")、[国際政治学](../Page/国際政治学.md "wikilink")などに及び、[軍事的プロフェッショナリズム](https://ja.wikipedia.org/wiki/軍事的プロフェッショナリズム "wikilink")、発展途上国における[民主化](../Page/民主化.md "wikilink")、冷戦後の[世界秩序](https://ja.wikipedia.org/wiki/世界秩序 "wikilink")での[文明の衝突](../Page/文明の衝突.md "wikilink")の研究業績を残している。
+彼の研究領域は[政軍関係](../Page/政軍関係.md "wikilink")論、[比較政治学](../Page/比較政治学.md "wikilink")、[国際政治学](../Page/国際政治学.md "wikilink")などに及び、[軍事的プロフェッショナリズム](https://ja.wikipedia.org/wiki/軍事的プロフェッショナリズム "wikilink")、発展途上国における[民主化](../Page/民主化.md "wikilink")、冷戦後の[世界秩序](../Page/世界秩序.md "wikilink")での[文明の衝突](../Page/文明の衝突.md "wikilink")の研究業績を残している。
 
 ## 生涯
 

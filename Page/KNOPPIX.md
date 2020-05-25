@@ -19,7 +19,7 @@ Live CDとしての利用が前提であるため、[ハードディスク](http
 
 データの書き換えができないCD/DVDに起動に必要な要素がすべて格納されているため、起動中にどのような状態になっても再起動すれば元に戻る、という特徴がある。この特徴を生かし、不特定多数がパソコンを共有する公共の場に置かれる[キオスク端末](https://ja.wikipedia.org/wiki/キオスク端末 "wikilink")や、学校教育などでの使用が考えられている。 そのため、日本語版では[教育ソフト](https://ja.wikipedia.org/wiki/教育ソフト "wikilink")を収録した、KNOPPIX Eduや[KNOPPIX/Mathが開発されている](https://ja.wikipedia.org/wiki/MathLibre "wikilink")。
 
-また、最近OSで流行している[3Dデスクトップ](https://ja.wikipedia.org/wiki/3Dデスクトップ "wikilink")の搭載に対応するため、5.1から、3Dデスクトップ環境[Beryl](../Page/Beryl.md "wikilink")、5.3.1からはその後継の[Compiz Fusionが搭載された](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")。
+また、最近OSで流行している[3Dデスクトップ](https://ja.wikipedia.org/wiki/3Dデスクトップ "wikilink")の搭載に対応するため、5.1から、3Dデスクトップ環境[Beryl](../Page/Beryl.md "wikilink")、5.3.1からはその後継の[Compiz Fusionが搭載された](../Page/Compiz_Fusion.md "wikilink")。
 
 ## KNOPPIXの特徴
 

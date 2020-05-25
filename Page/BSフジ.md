@@ -1101,7 +1101,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [優しさと感動のこだま](https://ja.wikipedia.org/wiki/優しさと感動のこだま "wikilink")
   - プラチナ・シート
   - 東京の散歩道
-  - [日本いにしえの旅](https://ja.wikipedia.org/wiki/日本いにしえの旅 "wikilink")（[カートプロモーション](../Page/カートプロモーション.md "wikilink")制作）
+  - [日本いにしえの旅](../Page/日本いにしえの旅.md "wikilink")（[カートプロモーション](../Page/カートプロモーション.md "wikilink")制作）
   - なるほど\!ザ・ニッポン
   - 巡・韓国→巡・韓国2
   - 国立公園を巡る〜日本こころの風景〜
@@ -1172,7 +1172,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [トーマスくらぶ](https://ja.wikipedia.org/wiki/きかんしゃトーマス "wikilink")
   - キッズポケット
   - MYおかあさんとあそぼっ\!
-  - [もえがく★5](https://ja.wikipedia.org/wiki/もえがく★5 "wikilink")
+  - [もえがく★5](../Page/もえがく★5.md "wikilink")
   - Be KIDSサンデー
   - おじいちゃんといっしょ
   - [科学忍者隊ガッチャピン](../Page/科学忍者隊ガッチャピン.md "wikilink")
@@ -1439,7 +1439,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 
 <!-- end list -->
 
-  - [青い森の国から](https://ja.wikipedia.org/wiki/青い森の国から "wikilink")（[青森テレビ](../Page/青森テレビ.md "wikilink")制作）※2005年3日まではBS-i（現・[BS-TBS](../Page/BS-TBS.md "wikilink")）で放送していた。
+  - [青い森の国から](../Page/青い森の国から.md "wikilink")（[青森テレビ](../Page/青森テレビ.md "wikilink")制作）※2005年3日まではBS-i（現・[BS-TBS](../Page/BS-TBS.md "wikilink")）で放送していた。
   - [京のいっぴん物語](https://ja.wikipedia.org/wiki/京のいっぴん物語 "wikilink")（[KBS京都制作](../Page/京都放送.md "wikilink")）
   - [お伊勢さん](https://ja.wikipedia.org/wiki/お伊勢さん_\(テレビ番組\) "wikilink")（[三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")制作）
   - [熊野古道〜お伊勢さんからもうひとつの聖地へ〜](https://ja.wikipedia.org/wiki/熊野古道〜お伊勢さんからもうひとつの聖地へ〜 "wikilink")（三重テレビ放送制作）

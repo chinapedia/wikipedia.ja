@@ -49,7 +49,7 @@
 
 ラジオ番組『[Heavy Metal Syndicate](../Page/Heavy_Metal_Syndicate.md "wikilink")』（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")全国27局ネット、1991年2月～2014年6月）は、編集部員がパーソナリティを担当した。ただし2006年から最終回までのBURRN\!編集部関係者は前編集長の酒井康のみであった。お家騒動（前述）があるまではBURRN\!がメインスポンサーであった。
 
-スタート当初の番組テーマ曲は[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")の「[BURN](https://ja.wikipedia.org/wiki/紫の炎_\(曲\) "wikilink")（紫の炎）」（雑誌名『BURRN\!』はこの曲名に由来しており、創刊当初から本誌CMソングとして使用している）。 また、かつてはテレビコマーシャルも放送していた（関東地区では、「[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")」の[番組終了後に放送されていた](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")）。
+スタート当初の番組テーマ曲は[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")の「[BURN](../Page/紫の炎_\(曲\).md "wikilink")（紫の炎）」（雑誌名『BURRN\!』はこの曲名に由来しており、創刊当初から本誌CMソングとして使用している）。 また、かつてはテレビコマーシャルも放送していた（関東地区では、「[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")」の[番組終了後に放送されていた](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")）。
 
 ## BURRN\! JAPAN
 

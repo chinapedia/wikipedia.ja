@@ -142,14 +142,14 @@ NHK鹿児島放送局、MBCテレビ、<br />
 <td><p>御岳</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/長島町テレビ中継局" title="wikilink">長島北</a></p></td>
+<td><p><a href="../Page/長島町テレビ中継局.md" title="wikilink">長島北</a></p></td>
 <td><p>28ch</p></td>
 <td><p>42ch</p></td>
 <td><p>0.3W</p></td>
 <td><p>行人岳</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/長島町テレビ中継局" title="wikilink">長島南</a></p></td>
+<td><p><a href="../Page/長島町テレビ中継局.md" title="wikilink">長島南</a></p></td>
 <td><p>31ch</p></td>
 <td><p>38ch</p></td>
 <td><p>1W</p></td>

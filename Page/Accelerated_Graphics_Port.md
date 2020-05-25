@@ -7,7 +7,7 @@
 
 インテルの[Pentium II](../Page/Pentium_II.md "wikilink")・[Celeron](https://ja.wikipedia.org/wiki/Celeron "wikilink")用[Slot 1対応](../Page/Slot_1.md "wikilink")[チップセット](../Page/チップセット.md "wikilink")であるIntel 440LXでAGP 1.0が初採用され、以後、後継規格である[PCI Expressが制定](../Page/PCI_Express.md "wikilink")・実用化されるまでパーソナル・コンピューターを中心に利用された。
 
-信号プロトコルは32ビット 66MHz動作の[PCIバスのそれを基本としつつ](../Page/Peripheral_Component_Interconnect.md "wikilink")、同バスでデータバスと時分割により共用とされていたアドレスバスを8ビット幅で別途用意し、必要に応じて両バスを分離可能\[1\]とするサイドバンドアドレッシング機能や、CPUを介せず直接[グラフィックコントローラ](https://ja.wikipedia.org/wiki/グラフィックコントローラ "wikilink")でメインメモリの読み書きを可能とするDIME (DIrect Memory Execution) 機能を搭載する。
+信号プロトコルは32ビット 66MHz動作の[PCIバスのそれを基本としつつ](../Page/Peripheral_Component_Interconnect.md "wikilink")、同バスでデータバスと時分割により共用とされていたアドレスバスを8ビット幅で別途用意し、必要に応じて両バスを分離可能\[1\]とするサイドバンドアドレッシング機能や、CPUを介せず直接[グラフィックコントローラ](../Page/グラフィックコントローラ.md "wikilink")でメインメモリの読み書きを可能とするDIME (DIrect Memory Execution) 機能を搭載する。
 
 サイドバンドアドレッシング機能とDIME機能は共に本ポートに接続されるグラフィックコントローラからパソコン本体の[メインメモリへのアクセスを高速化するためのものである](../Page/主記憶装置.md "wikilink")。これらは当初、メインメモリを[テクスチャ](https://ja.wikipedia.org/wiki/テクスチャ "wikilink")や[Zバッファ](../Page/Zバッファ.md "wikilink")やバックプレーンとして使用することによって、ビデオカードに搭載されるビデオメモリ\[2\]の搭載量を必要最小限で済ませ、一定の描画性能を確保しつつ低コスト化を図る目的で開発された\[3\]。だが、規格制定と前後してWindows搭載パソコンでの3Dグラフィック機能の搭載が急速に進展したことから、そうした低コストパソコンへの適用とは別に、[ポリゴン](../Page/ポリゴン.md "wikilink")による3Dグラフィック機能をサポートするグラフィックコントローラにおいて、大容量テクスチャメモリをメインメモリ上に確保する手段として賞揚され\[4\]、[下位機種から](https://ja.wikipedia.org/wiki/ローエンド "wikilink")[上位機種まで幅広く普及するに至った](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")。
 

@@ -15,7 +15,7 @@
 
 なお、この番組が放送されていた期間、[NHK放送センター](../Page/NHK放送センター.md "wikilink")内に新たな「[ニュースセンター棟](https://ja.wikipedia.org/wiki/NHK放送センター#ニュース専用テレビスタジオ "wikilink")（放送センター北館）」が完成しており、番組内のストレートニュース以外のコーナーは、当時完成間もなく運用トレーニングや機材調整などが行われていた「新ニュースセンター」内のテレビスタジオAフロアから生放送されていた。
 
-BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")まで首都圏版を放送されていた。
+BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")まで首都圏版を放送されていた。
 
 ## 放送時間・内容の遍歴
 
@@ -223,7 +223,7 @@ JKニュース1</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a></p></td>
 <td><p>1988年4月 - 1996年3月：イブニングネットワークかがわ<br />
-1996年4月 - <a href="https://ja.wikipedia.org/wiki/630かがわ" title="wikilink">630かがわ</a></p></td>
+1996年4月 - <a href="../Page/630かがわ.md" title="wikilink">630かがわ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></p></td>

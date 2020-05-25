@@ -140,7 +140,7 @@
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されているクイズ系バラエティ番組「[クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")」。
   - [松岡圭祐](../Page/松岡圭祐.md "wikilink")の小説、[万能鑑定士Qの事件簿](https://ja.wikipedia.org/wiki/Qシリーズ_\(小説\) "wikilink")。
   - QQ車 医師や看護師が[救急車](../Page/救急車.md "wikilink")の事を略して記録に残すことがある。
-  - [魯迅](../Page/魯迅.md "wikilink")の小説、[阿Q正伝](https://ja.wikipedia.org/wiki/阿Q正伝 "wikilink")。
+  - [魯迅](../Page/魯迅.md "wikilink")の小説、[阿Q正伝](../Page/阿Q正伝.md "wikilink")。
   - [タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")(現[タカラトミー](../Page/タカラトミー.md "wikilink")及び関連会社[トミーテック](../Page/トミーテック.md "wikilink"))の玩具、[チョロQ](../Page/チョロQ.md "wikilink")。
   - [第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")において、[民主党に投票した層を揶揄する](../Page/民主党_\(日本_1998-2016\).md "wikilink")[インターネットスラング](../Page/インターネットスラング.md "wikilink")に「おQ」という言葉がある。「（[自民党に](../Page/自由民主党_\(日本\).md "wikilink")）お灸を据える層」の意。
   - [台東区](../Page/台東区.md "wikilink")根岸に存在する「[下町](../Page/下町.md "wikilink")の味」で人気を博す[老舗](../Page/老舗.md "wikilink")[洋食](../Page/洋食.md "wikilink")店の名称は『レストランQ』。

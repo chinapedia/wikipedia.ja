@@ -54,9 +54,9 @@ CMにおいて上戸彩と共演した主な人物は下記の通り。肩書は
   - [亀梨和也](../Page/亀梨和也.md "wikilink")・[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")：校長編）
   - [中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")（[サッカー選手](../Page/サッカー選手.md "wikilink")・[セルティック](../Page/セルティックFC.md "wikilink")：スポーツ新聞記者編）
   - [ミシェル・ウィー](../Page/ミシェル・ウィー.md "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")：ロングパットのコツ？！編）
-  - [楳図かずお](../Page/楳図かずお.md "wikilink")（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")：楳図先生の驚き編）
+  - [楳図かずお](../Page/楳図かずお.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")：楳図先生の驚き編）
   - [錦戸亮](../Page/錦戸亮.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")：関ジャニ入らへん？編）
-  - [白鵬翔](https://ja.wikipedia.org/wiki/白鵬翔 "wikilink")（[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[大関](../Page/大関.md "wikilink")：つっぱり指南編）
+  - [白鵬翔](../Page/白鵬翔.md "wikilink")（[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[大関](../Page/大関.md "wikilink")：つっぱり指南編）
   - [高橋大輔](../Page/高橋大輔_\(フィギュアスケート選手\).md "wikilink")（[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")選手：外回り？編）
   - [室伏広治](../Page/室伏広治.md "wikilink")（[ハンマー投](../Page/ハンマー投.md "wikilink")選手：特別教師編）
   - [ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")（[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")の俳優：映画監督編）

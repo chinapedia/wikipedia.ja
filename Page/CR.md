@@ -47,7 +47,7 @@
 
   - [中国鉄道](https://ja.wikipedia.org/wiki/中国鉄道 "wikilink")(China Railway) - [中国鉄路総公司](https://ja.wikipedia.org/wiki/中国鉄路総公司 "wikilink")(China Railway Corporation)、[中華人民共和国](../Page/中華人民共和国.md "wikilink")における国有企業。
 
-  - [復興号](https://ja.wikipedia.org/wiki/復興号_\(中国高速鉄道\) "wikilink") - [中国鉄路高速](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")で運用されている中華人民共和国の[高速鉄道](../Page/高速鉄道.md "wikilink")[車両](../Page/鉄道車両.md "wikilink")。
+  - [復興号](https://ja.wikipedia.org/wiki/復興号_\(中国高速鉄道\) "wikilink") - [中国鉄路高速](../Page/中国鉄路高速.md "wikilink")で運用されている中華人民共和国の[高速鉄道](../Page/高速鉄道.md "wikilink")[車両](../Page/鉄道車両.md "wikilink")。
 
   -
   -

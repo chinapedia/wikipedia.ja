@@ -184,7 +184,7 @@
   - **一般形車両（試験車両）**
       - FV-E991系
           -
-            [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")をエネルギー源とする[燃料電池](../Page/燃料電池.md "wikilink")と蓄電池を電源とするハイブリッド車両（試験車両）\[7\]。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")との間で水素を活用した包括的な業務連携を締結しており、トヨタの協力により燃料電池技術が導入される。世界で初めて70MPaの高圧水素を利用し、最大140キロメートルの走行が可能となるという\[8\]。
+            [水素](../Page/水素.md "wikilink")をエネルギー源とする[燃料電池](../Page/燃料電池.md "wikilink")と蓄電池を電源とするハイブリッド車両（試験車両）\[7\]。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")との間で水素を活用した包括的な業務連携を締結しており、トヨタの協力により燃料電池技術が導入される。世界で初めて70MPaの高圧水素を利用し、最大140キロメートルの走行が可能となるという\[8\]。
             1M1Tの2両編成で、建設費は開発費・試験費込みで40億円。2021年度に登場予定で、落成後は[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")・[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（本線[尻手駅](https://ja.wikipedia.org/wiki/尻手駅 "wikilink") - [武蔵中原駅](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")間及び浜川崎支線）で実証試験が行われる予定。
 
 ## 廃止車両

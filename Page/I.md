@@ -53,7 +53,7 @@
   - 電気業界で、日本[IBM](../Page/IBM.md "wikilink")を表す[符丁](https://ja.wikipedia.org/wiki/符丁 "wikilink")。
   - [知能](../Page/知能.md "wikilink") (**I**ntelligence)。(例: [IQ](https://ja.wikipedia.org/wiki/IQ "wikilink")=Intelligence Quotient)
   - いくつかのプログラム言語（代表例は[FORTRAN](../Page/FORTRAN.md "wikilink")）で、[整数](../Page/整数.md "wikilink") (**I**nteger) ないし整数である[変数を表す](../Page/変数_\(プログラミング\).md "wikilink")。このことから、ほかのプログラム言語でも整数である変数に用いられることが多く、ループの回数を数える変数として多用される ([iterator](../Page/イテレータ.md "wikilink")、[indexなど](https://ja.wikipedia.org/wiki/インデックス "wikilink")、さまざまな訳が考えられる)。
-  - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")の第3弾の写真集のタイトル。イニシャルである**I**shikawaから。
+  - [石川梨華](../Page/石川梨華.md "wikilink")の第3弾の写真集のタイトル。イニシャルである**I**shikawaから。
   - [INFINITIの](../Page/インフィニティ_\(日産自動車\).md "wikilink")[乗用車](../Page/乗用車.md "wikilink")。→[インフィニティ・I](https://ja.wikipedia.org/wiki/インフィニティ・I "wikilink")
   - [エンジン](../Page/エンジン.md "wikilink")の[燃料噴射装置](../Page/燃料噴射装置.md "wikilink")の英語のinjectionの頭文字の**i**。また、この装置が装備されていることを表す。（例: [BMW](../Page/BMW.md "wikilink")330**i**、PGM-F**I**）
   - [駅ナンバリング](../Page/駅ナンバリング.md "wikilink")制度では、東京の地下鉄では[都営地下鉄三田線](https://ja.wikipedia.org/wiki/都営地下鉄三田線 "wikilink")（m**I**ta、Mは[東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")で使われている）、[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")では[今里筋線](../Page/Osaka_Metro今里筋線.md "wikilink") (**I**mazatosuji) を表す。
@@ -73,7 +73,7 @@
   - 映像の[インターレース](../Page/インターレース.md "wikilink")走査方式。
   - 自動車及びその装備の名称。
       - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink")の[軽乗用車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")。→[三菱・i](../Page/三菱・i.md "wikilink")
-      - 最近の[ヒュンダイ車の中に](../Page/現代自動車.md "wikilink")、i○○と言う名称をつけられる車種が登場してきている。（例:[i10](../Page/ヒュンダイ・i10.md "wikilink")、[i20](https://ja.wikipedia.org/wiki/ヒュンダイ・i20 "wikilink")、[i30](https://ja.wikipedia.org/wiki/ヒュンダイ・i30 "wikilink")、[i35](../Page/ヒュンダイ・エラントラ.md "wikilink")、[i40](https://ja.wikipedia.org/wiki/ヒュンダイ・i40 "wikilink")、[i45](../Page/ヒュンダイ・ソナタ.md "wikilink")、[i800](https://ja.wikipedia.org/wiki/ヒュンダイ・スタレックス "wikilink")…等）
+      - 最近の[ヒュンダイ車の中に](../Page/現代自動車.md "wikilink")、i○○と言う名称をつけられる車種が登場してきている。（例:[i10](../Page/ヒュンダイ・i10.md "wikilink")、[i20](https://ja.wikipedia.org/wiki/ヒュンダイ・i20 "wikilink")、[i30](../Page/ヒュンダイ・i30.md "wikilink")、[i35](../Page/ヒュンダイ・エラントラ.md "wikilink")、[i40](https://ja.wikipedia.org/wiki/ヒュンダイ・i40 "wikilink")、[i45](../Page/ヒュンダイ・ソナタ.md "wikilink")、[i800](https://ja.wikipedia.org/wiki/ヒュンダイ・スタレックス "wikilink")…等）
       - トヨタ車のエンジンにおいては、[セントラルインジェクション車を意味する](https://ja.wikipedia.org/wiki/燃料噴射装置#シングルポイントインジェクション "wikilink")。（例：[4S-Fi、1S-iLU](../Page/トヨタ・S型エンジン_\(2代目\).md "wikilink")）→ [トヨタのエンジン型式命名規則](https://ja.wikipedia.org/wiki/トヨタのエンジン型式命名規則 "wikilink")
       - 日産車のエンジンにおいては、シングルポイントインジェクション車（上記トヨタ車における「セントラルインジェクション」と同等）を意味する。（例：[CA18i](https://ja.wikipedia.org/wiki/日産・CAエンジン#CA18i "wikilink")、[SR18Di](https://ja.wikipedia.org/wiki/日産・SRエンジン#SR18Di "wikilink")）。また、ディーゼル車では「T」と組み合わせて[インタークーラー](../Page/インタークーラー.md "wikilink")付きターボエンジンを意味する。（例：[ZD30DDTi](https://ja.wikipedia.org/wiki/日産・ZDエンジン#ZD30DDTi "wikilink")）
   - [インターネット](../Page/インターネット.md "wikilink")の頭文字に由来する商標。
@@ -85,7 +85,7 @@
   - [アップルの](../Page/アップル_\(企業\).md "wikilink")[製品](../Page/製品.md "wikilink")。→[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")等
   - [日本の企業グループ・持ち株事業者の「7\&i」](../Page/セブン&アイ・ホールディングス.md "wikilink")
   - [日本で有名なインターネットラジオ局の一つ「i-revo」](https://ja.wikipedia.org/wiki/インターネットレボリューション "wikilink")
-  - ゲーム「[THE IDOLM@STER LIVE FOR YOU\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")」にて[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")として配信された楽曲。CD「[THE IDOLM@STER MASTER ARTIST](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST "wikilink")」シリーズに収録されている。
+  - ゲーム「[THE IDOLM@STER LIVE FOR YOU\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")」にて[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")として配信された楽曲。CD「[THE IDOLM@STER MASTER ARTIST](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST "wikilink")」シリーズに収録されている。
   - [オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")のベストアルバムのタイトル。→[i (オフコースのアルバム)](https://ja.wikipedia.org/wiki/i_\(オフコースのアルバム\) "wikilink")
   - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で発行される[新聞](../Page/新聞.md "wikilink")のひとつ。→[i (newspaper)](https://ja.wikipedia.org/wiki/:en:i_\(newspaper\) "wikilink")
   - アメリカ合衆国の企業 →[iRobot](https://ja.wikipedia.org/wiki/iRobot "wikilink")

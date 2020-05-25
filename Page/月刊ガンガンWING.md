@@ -99,7 +99,7 @@
   - [ワイルドアームズ ザ フォースデトネイター](../Page/ワイルドアームズ_ザ_フォースデトネイター.md "wikilink") (CHIHIRO)
   - [わたしの狼さん。](../Page/わたしの狼さん。.md "wikilink")（藤原ここあ）
   - [私の狼さん。THE OTHER SIDE OF LYCANTHROPE](https://ja.wikipedia.org/wiki/私の狼さん。THE_OTHER_SIDE_OF_LYCANTHROPE "wikilink")（藤原ここあ）
-  - [WARASIBE](https://ja.wikipedia.org/wiki/WARASIBE "wikilink")（[松葉サトル](https://ja.wikipedia.org/wiki/松葉サトル "wikilink")）
+  - [WARASIBE](../Page/WARASIBE.md "wikilink")（[松葉サトル](https://ja.wikipedia.org/wiki/松葉サトル "wikilink")）
   - [ワンダフルワールド](../Page/ワンダフルワールド_\(漫画\).md "wikilink")（たかなし霧香）
 
 ### ガンガンJOKERへ移籍
@@ -111,7 +111,7 @@
 ### ガンガンONLINEへ移籍
 
   - [アホリズム](https://ja.wikipedia.org/wiki/アホリズム "wikilink")（宮条カルナ）
-  - [ちょこっとヒメ](../Page/ちょこっとヒメ.md "wikilink")（[カザマアヤミ](https://ja.wikipedia.org/wiki/カザマアヤミ "wikilink")）
+  - [ちょこっとヒメ](../Page/ちょこっとヒメ.md "wikilink")（[カザマアヤミ](../Page/カザマアヤミ.md "wikilink")）
   - [東京★イノセント](https://ja.wikipedia.org/wiki/東京★イノセント "wikilink")（[鳴見なる](https://ja.wikipedia.org/wiki/鳴見なる "wikilink")）
 
 ## ガンガンウイングコミックス

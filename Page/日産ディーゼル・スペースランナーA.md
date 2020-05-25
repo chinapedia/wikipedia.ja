@@ -338,7 +338,7 @@ OD6速MT車 ファイル:Tokyubus-ta8718-adblue.jpg|アドブルー補給口
 
 なお、5速AT車にはP尺が設定されていない。 また、冷房使用時などにおけるターボチャージャー使用時には[マフラー音が大きくなるという特徴を持つ](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink") (ADG-RAも同様)。
 
-2010年10月に施行される、[平成22年排出ガス規制](https://ja.wikipedia.org/wiki/平成22年排出ガス規制 "wikilink")には適合しておらず、10月に同車のボディーメーカーである西日本車体工業が解散したことにより、8月末をもって製造を終了した。
+2010年10月に施行される、[平成22年排出ガス規制](../Page/平成22年排出ガス規制.md "wikilink")には適合しておらず、10月に同車のボディーメーカーである西日本車体工業が解散したことにより、8月末をもって製造を終了した。
 
 <table>
 <thead>
@@ -422,7 +422,7 @@ PKG-AP35UK
 
 ### LKG-AP35F系/LKG-AP37F系
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")に発表された型式。[平成21年排出ガス規制](https://ja.wikipedia.org/wiki/平成22年排出ガス規制 "wikilink")（ポスト新長期規制）及び重量車燃費基準適合車。平成17年排出ガス規制（新長期規制）基準値に対して、[窒素酸化物](../Page/窒素酸化物.md "wikilink")（NOx）の65%低減、[粒子状物質](https://ja.wikipedia.org/wiki/ディーゼル排気微粒子 "wikilink")（PM）の63%低減を達成している。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")に発表された型式。[平成21年排出ガス規制](../Page/平成22年排出ガス規制.md "wikilink")（ポスト新長期規制）及び重量車燃費基準適合車。平成17年排出ガス規制（新長期規制）基準値に対して、[窒素酸化物](../Page/窒素酸化物.md "wikilink")（NOx）の65%低減、[粒子状物質](https://ja.wikipedia.org/wiki/ディーゼル排気微粒子 "wikilink")（PM）の63%低減を達成している。
 
 エンジンが三菱ふそう製[6M60に変更され排気量が減少](../Page/三菱ふそう・6M系エンジン.md "wikilink")（9.2L→7.5L）、[可変ノズルベーン式ターボを採用](../Page/可変ノズルターボ.md "wikilink")。排ガス浄化機構は[尿素SCR](https://ja.wikipedia.org/wiki/尿素SCR "wikilink")触媒に加え再生制御式PM低減装置を組み合わせている。
 

@@ -88,7 +88,7 @@ SFは現在の世界とは違う作品世界を、社会的、文化的、技術
 6.  [ターミネーター](../Page/ターミネーター_\(映画\).md "wikilink") / [ターミネーター2](../Page/ターミネーター2.md "wikilink") *Terminator* (1984) / *T2: Judgement Day* (1991)
 7.  [地球の静止する日](../Page/地球の静止する日.md "wikilink") *Day the Earth Stood Still* (1951)
 8.  [宇宙戦争](https://ja.wikipedia.org/wiki/宇宙戦争_\(1953年の映画\) "wikilink") *War of the Worlds* (1953)
-9.  [マトリックス](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink") *The Matrix* (1999)
+9.  [マトリックス](../Page/マトリックス_\(映画\).md "wikilink") *The Matrix* (1999)
 10. [未知との遭遇](../Page/未知との遭遇.md "wikilink") *Close Encounters of the Third Kind* (1977)
 
 <!-- end list -->

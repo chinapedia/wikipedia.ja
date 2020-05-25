@@ -89,7 +89,7 @@ JR神戸線区間では「サンライズ瀬戸」「サンライズ出雲」は
 
 ### 新快速
 
-特急列車をのぞけば最も停車駅の少ない速達列車で、JR神戸線内の停車駅は、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")・[尼崎駅](https://ja.wikipedia.org/wiki/尼崎駅_\(JR西日本\) "wikilink")・[芦屋駅](https://ja.wikipedia.org/wiki/芦屋駅_\(JR西日本\) "wikilink")・[三ノ宮駅](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")・[神戸駅](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")・[明石駅](https://ja.wikipedia.org/wiki/明石駅 "wikilink")・[西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")・[加古川駅](https://ja.wikipedia.org/wiki/加古川駅 "wikilink")・[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")である。複々線区間では外側線・列車線を走行するが、快速から格上げされた下りの最終の新快速である深夜の西明石行き1本だけは、[兵庫駅](../Page/兵庫駅.md "wikilink")から電車線を走行する。大半が姫路駅までの運転であるが、朝晩などの一部の列車は姫路駅から各駅に停車して[赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")の[播州赤穂駅](https://ja.wikipedia.org/wiki/播州赤穂駅 "wikilink")や、[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")の[網干駅](https://ja.wikipedia.org/wiki/網干駅 "wikilink")、[上郡駅](https://ja.wikipedia.org/wiki/上郡駅 "wikilink")まで乗り入れている。
+特急列車をのぞけば最も停車駅の少ない速達列車で、JR神戸線内の停車駅は、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")・[尼崎駅](https://ja.wikipedia.org/wiki/尼崎駅_\(JR西日本\) "wikilink")・[芦屋駅](https://ja.wikipedia.org/wiki/芦屋駅_\(JR西日本\) "wikilink")・[三ノ宮駅](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")・[神戸駅](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")・[明石駅](https://ja.wikipedia.org/wiki/明石駅 "wikilink")・[西明石駅](https://ja.wikipedia.org/wiki/西明石駅 "wikilink")・[加古川駅](https://ja.wikipedia.org/wiki/加古川駅 "wikilink")・[姫路駅](https://ja.wikipedia.org/wiki/姫路駅 "wikilink")である。複々線区間では外側線・列車線を走行するが、快速から格上げされた下りの最終の新快速である深夜の西明石行き1本だけは、[兵庫駅](../Page/兵庫駅.md "wikilink")から電車線を走行する。大半が姫路駅までの運転であるが、朝晩などの一部の列車は姫路駅から各駅に停車して[赤穂線](../Page/赤穂線.md "wikilink")の[播州赤穂駅](https://ja.wikipedia.org/wiki/播州赤穂駅 "wikilink")や、[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")の[網干駅](https://ja.wikipedia.org/wiki/網干駅 "wikilink")、[上郡駅](https://ja.wikipedia.org/wiki/上郡駅 "wikilink")まで乗り入れている。
 
 朝夕時間帯は本数が多くなり、夕方の17時台後半 - 19時台前半は大阪始発姫路方面行きの列車が設定されている。日中時間帯は大阪駅 - 姫路駅間で1時間に4本運転されており、この時間帯の下り列車は大阪駅を毎時00・15・30・45分の15分間隔で発車する。土曜・休日ダイヤでは15分間隔（夜は20 - 25分間隔）で運転されている。原則として加古川駅で快速と接続している。また、朝ラッシュ時は神戸駅で快速と接続しているが、階段での連絡となる。
 
@@ -109,7 +109,7 @@ JR神戸線内の停車駅は、[大阪駅](https://ja.wikipedia.org/wiki/大阪
 
 姫路・加古川方面からの大阪方面への列車は始発駅から西明石駅到着まで車内では「**普通（西明石から快速）**」と表記・案内され、姫路駅 - 大久保駅間の各駅の[発車標](../Page/発車標.md "wikilink")および自動放送でも「**西明石から快速**」、この区間の駅の時刻表では三ノ宮・大阪方面は「**西明石まで各駅停車、西明石から快速**\[8\]」として案内されている。列車の種別幕は、加古川・姫路方面への列車は明石駅で「快速」から「普通」に変わるが、大阪方面への列車は西明石駅で「普通」から「快速」に変わる。
 
-[1991年](../Page/1991年.md "wikilink")3月15日までは、日中時間帯の半数が西明石駅発着であり、[2004年](../Page/2004年.md "wikilink")10月15日までは朝ラッシュ明け、[2009年](../Page/2009年.md "wikilink")3月13日までは深夜にそれぞれ西明石行きの列車が設定されていた。[2013年](../Page/2013年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")の改正で、平日の朝ラッシュ明けの快速1本が西明石行きに変更された。[2000年](../Page/2000年.md "wikilink")3月10日までは大阪方面から[赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")[備前片上駅](../Page/備前片上駅.md "wikilink")まで運転する列車があった（姫路方面は外側線を運転）。2013年3月16日のダイヤ改正で夕方の新快速が増発されたことにより、この時間帯の外側線で運行する快速列車が廃止された。
+[1991年](../Page/1991年.md "wikilink")3月15日までは、日中時間帯の半数が西明石駅発着であり、[2004年](../Page/2004年.md "wikilink")10月15日までは朝ラッシュ明け、[2009年](../Page/2009年.md "wikilink")3月13日までは深夜にそれぞれ西明石行きの列車が設定されていた。[2013年](../Page/2013年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")の改正で、平日の朝ラッシュ明けの快速1本が西明石行きに変更された。[2000年](../Page/2000年.md "wikilink")3月10日までは大阪方面から[赤穂線](../Page/赤穂線.md "wikilink")[備前片上駅](../Page/備前片上駅.md "wikilink")まで運転する列車があった（姫路方面は外側線を運転）。2013年3月16日のダイヤ改正で夕方の新快速が増発されたことにより、この時間帯の外側線で運行する快速列車が廃止された。
 
 ### 普通
 
@@ -945,7 +945,7 @@ JR神戸線としての歴史を記述する。
 <td><p>644.3</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
-<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線・ <a href="https://ja.wikipedia.org/wiki/山陽本線" title="wikilink">山陽本線</a>〈<a href="https://ja.wikipedia.org/wiki/相生駅_(兵庫県)" title="wikilink">相生方面</a>〉・ <a href="https://ja.wikipedia.org/wiki/赤穂線" title="wikilink">赤穂線</a>[57]・ <a href="../Page/播但線.md" title="wikilink">播但線</a>・ <a href="../Page/姫新線.md" title="wikilink">姫新線</a><br />
+<td><p>西日本旅客鉄道：<a href="https://ja.wikipedia.org/wiki/ファイル:Shinkansen_jrw.svg" title="wikilink">17px</a> 山陽新幹線・ <a href="https://ja.wikipedia.org/wiki/山陽本線" title="wikilink">山陽本線</a>〈<a href="https://ja.wikipedia.org/wiki/相生駅_(兵庫県)" title="wikilink">相生方面</a>〉・ <a href="../Page/赤穂線.md" title="wikilink">赤穂線</a>[57]・ <a href="../Page/播但線.md" title="wikilink">播但線</a>・ <a href="../Page/姫新線.md" title="wikilink">姫新線</a><br />
 山陽電気鉄道： 本線（<a href="https://ja.wikipedia.org/wiki/山陽姫路駅" title="wikilink">山陽姫路駅</a>:SY 43）</p></td>
 </tr>
 </tbody>
@@ -969,7 +969,7 @@ JR神戸線としての歴史を記述する。
 
 ### 接近メロディ
 
-1997年（平成9年）2月16日から各駅には専用の[接近メロディである](../Page/発車メロディ.md "wikilink")「さざなみ」が導入されている。このメロディは本来JR神戸線の区間には入らない姫路駅 - [上郡駅](https://ja.wikipedia.org/wiki/上郡駅 "wikilink")間の各駅に加え、[赤穂線](https://ja.wikipedia.org/wiki/赤穂線 "wikilink")の[相生駅](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink") - 播州赤穂駅間の各駅でも使用されている（前者については上郡まで[神戸支社管轄であるため](../Page/西日本旅客鉄道神戸支社.md "wikilink")）。ただし、大阪駅は[大阪環状線](../Page/大阪環状線.md "wikilink")と同様のメロディを使用している。
+1997年（平成9年）2月16日から各駅には専用の[接近メロディである](../Page/発車メロディ.md "wikilink")「さざなみ」が導入されている。このメロディは本来JR神戸線の区間には入らない姫路駅 - [上郡駅](https://ja.wikipedia.org/wiki/上郡駅 "wikilink")間の各駅に加え、[赤穂線](../Page/赤穂線.md "wikilink")の[相生駅](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink") - 播州赤穂駅間の各駅でも使用されている（前者については上郡まで[神戸支社管轄であるため](../Page/西日本旅客鉄道神戸支社.md "wikilink")）。ただし、大阪駅は[大阪環状線](../Page/大阪環状線.md "wikilink")と同様のメロディを使用している。
 
 さくら夙川駅は2007年（平成19年）3月18日の開業時から[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")の楽曲「[桜](../Page/桜_\(コブクロの曲\).md "wikilink")」をアレンジした専用メロディが使用されていたが、著作権使用料の関係で2010年（平成22年）3月2日から「さざなみ」に変更されている（到着放送も廃止、さらに2015年〈平成27年〉3月12日には「さざなみ（音質見直し版）」に再変更）\[58\]。また、[須磨海浜公園駅](https://ja.wikipedia.org/wiki/須磨海浜公園駅 "wikilink")では「[かもめの水兵さん](https://ja.wikipedia.org/wiki/かもめの水兵さん "wikilink")」をアレンジした専用メロディが使用されていたが、2014年（平成26年）7月16日から「さざなみ（音質見直し版）」に変更されている\[59\]。2015年（平成27年）3月12日からはこの音質見直し版をJR神戸線各駅ならびに山陽本線[相生駅以東](https://ja.wikipedia.org/wiki/相生駅_\(兵庫県\) "wikilink")・上郡駅、赤穂線播州赤穂駅に拡大した。
 

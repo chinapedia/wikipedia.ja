@@ -1,11 +1,11 @@
 > この記事は[SYUFO](https://ja.wikipedia.org/wiki/SYUFO)から翻訳されています。
 
 
-**SYUFO**（しゅうほう、[1954年](../Page/1954年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")29年〉[4月7日](../Page/4月7日.md "wikilink") -　）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")である。[紙](../Page/紙.md "wikilink")[媒体を](../Page/メディア_\(媒体\).md "wikilink")[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")活動の基礎とする分野では旧来の[ペンネーム](../Page/ペンネーム.md "wikilink")である**板橋 しゅうほう**（いたはし しゅうほう）を用いる。 本名は**板橋 秀法**（いたはし ひでのり）。[滋賀県](../Page/滋賀県.md "wikilink")生まれ\[1\]。[京都市立芸術大学](../Page/京都市立芸術大学.md "wikilink")[日本画](../Page/日本画.md "wikilink")科卒業\[2\]。
+**SYUFO**（しゅうほう、[1954年](../Page/1954年.md "wikilink")〈[昭和](../Page/昭和.md "wikilink")29年〉[4月7日](../Page/4月7日.md "wikilink") -　）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")である。[紙](../Page/紙.md "wikilink")[媒体を](../Page/メディア_\(媒体\).md "wikilink")[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")活動の基礎とする分野では旧来の[ペンネーム](../Page/ペンネーム.md "wikilink")である**板橋 しゅうほう**（いたはし しゅうほう）を用いる。 本名は**板橋 秀法**（いたはし ひでのり）。[滋賀県](../Page/滋賀県.md "wikilink")生まれ\[1\]。[京都市立芸術大学](../Page/京都市立芸術大学.md "wikilink")[日本画](../Page/日本画.md "wikilink")科卒業\[2\]。
 
 ## 来歴
 
-大学在学中であった[1976年](../Page/1976年.md "wikilink")（昭和51年）、[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")『[月刊OUT](../Page/月刊OUT.md "wikilink")』誌上にてデビュー\[3\]。[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を得意とする\[4\]。[1981年](../Page/1981年.md "wikilink")（昭和56年）には[少年向け](../Page/少年漫画.md "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）で発表した「いたはししゅうほうとアルゴノウツ」名義作品「ラッキールートへランナウェイ」で第21回[手塚賞](../Page/手塚賞.md "wikilink")準入選を受賞している\[5\]。
+大学在学中であった[1976年](../Page/1976年.md "wikilink")（昭和51年）、[アニメ雑誌](../Page/アニメ雑誌.md "wikilink")『[月刊OUT](../Page/月刊OUT.md "wikilink")』誌上にてデビュー\[3\]。[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")を得意とする\[4\]。[1981年](../Page/1981年.md "wikilink")（昭和56年）には[少年向け](../Page/少年漫画.md "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）で発表した「いたはししゅうほうとアルゴノウツ」名義作品「ラッキールートへランナウェイ」で第21回[手塚賞](../Page/手塚賞.md "wikilink")準入選を受賞している\[5\]。
 
 2014年現在は、SYUFO名義で[ウェブコミック](../Page/ウェブコミック.md "wikilink")を中心に作品を発表している\[6\]ほか、板橋しゅうほう名義で[京都精華大学](../Page/京都精華大学.md "wikilink")[マンガ学部](https://ja.wikipedia.org/wiki/マンガ学部 "wikilink")[マンガ学科](https://ja.wikipedia.org/wiki/マンガ学科 "wikilink")および[大学院](https://ja.wikipedia.org/wiki/大学院 "wikilink")マンガ研究科の[教授](../Page/教授.md "wikilink")も務めている\[7\]。
 
@@ -114,7 +114,7 @@
   -
     『[コミック・ガンボ](../Page/コミック・ガンボ.md "wikilink")』掲載。全2巻予定であったが、出版社の倒産により、第2巻は未発売となった。2019年に三栄書房から全4巻完結で電子版コミックが配信されている。
 
-\*; [ザ☆ウルトラマン](https://ja.wikipedia.org/wiki/ザ☆ウルトラマン "wikilink")
+\*; [ザ☆ウルトラマン](../Page/ザ☆ウルトラマン.md "wikilink")
 
   -
     雑誌『[小学五年生](../Page/小学館の学年別学習雑誌.md "wikilink")』 1979年5月号- 11月号。

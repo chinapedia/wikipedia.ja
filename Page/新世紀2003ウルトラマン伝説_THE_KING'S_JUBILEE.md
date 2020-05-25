@@ -88,7 +88,7 @@
   - 集団宇宙人 [フック星人](../Page/フック星人.md "wikilink") - 上西尚宏、国分浩一
   - 幽霊怪人 [ゴース星人](../Page/ゴース星人.md "wikilink") - 武藤浩二
   - 地底怪獣 [グドン](../Page/グドン.md "wikilink") - 岩城通真
-  - 岩石怪獣 [サドラ](https://ja.wikipedia.org/wiki/サドラ "wikilink") - 吉田伊久磨
+  - 岩石怪獣 [サドラ](../Page/サドラ.md "wikilink") - 吉田伊久磨
   - 雪女怪獣 [スノーゴン](https://ja.wikipedia.org/wiki/帰ってきたウルトラマンの登場怪獣#雪女怪獣_スノーゴン "wikilink") - 河野大輔
   - 宇宙昆虫 [サタンビートル](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#宇宙昆虫_サタンビートル "wikilink") - 根林芳充
   - サーベル暴君 [マグマ星人](../Page/マグマ星人.md "wikilink")

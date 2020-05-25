@@ -19,7 +19,7 @@
 
 『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』編集部に出入りしていた子供\[1\]の持ち込んだ自筆のお化け漫画｢ケバ男くん｣を見た編集者はお化け漫画を連載することを提案し\[2\]、藤子Fが怪談やオバケ好き\[3\]と聞いてオバケを主人公にした漫画を依頼した。
 
-藤子Fと藤子<span class="Unicode">Ⓐ</span>は当時作ったアニメスタジオ「[スタジオ・ゼロ](../Page/スタジオ・ゼロ.md "wikilink")」へ[小田急線で通勤中に小田急](https://ja.wikipedia.org/wiki/小田急小田原線 "wikilink")→オバQ→「オバケのQ太郎」というタイトルを思いついた。以上は藤子Fの描いたマンガ『スタジオ・ボロ物語』や[TBSにて](../Page/TBSテレビ.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")放送の番組『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』における藤子<span class="Unicode">Ⓐ</span>のインタビュー発言によるものだが、タイトルの由来については、これとは異なる説明もある。それは藤子Fと藤子<span class="Unicode">Ⓐ</span>が共同で執筆した自伝『二人で少年漫画ばかり描いてきた』によるもので、まず最初に『オバケの○太郎』というタイトルが決まり、○の部分にはめる言葉を探していたとき、[小説家](../Page/小説家.md "wikilink")の[安部公房](../Page/安部公房.md "wikilink")の本をパラパラとめくっていたら、Qという文字が目に止まり、愛敬のある文字だという理由でQ太郎になったというものである。『[アサヒ芸能](../Page/アサヒ芸能.md "wikilink")』2002年9月5日号の藤子<span class="Unicode">Ⓐ</span>へのインタビュー記事などでも同様のことが本人から語られていたことがある。一方で幸森軍也著・[鈴木伸一](../Page/鈴木伸一.md "wikilink")監修『ゼロの肖像 「トキワ荘」から生まれたアニメ会社の物語』（講談社、2012年）では、藤子<span class="Unicode">Ⓐ</span>の説明にも触れつつ、○の部分を決めたきっかけとして「書店で藤子Fが見かけた[魯迅](../Page/魯迅.md "wikilink")の『[阿Q正伝](https://ja.wikipedia.org/wiki/阿Q正伝 "wikilink")』」 が紹介されている。
+藤子Fと藤子<span class="Unicode">Ⓐ</span>は当時作ったアニメスタジオ「[スタジオ・ゼロ](../Page/スタジオ・ゼロ.md "wikilink")」へ[小田急線で通勤中に小田急](https://ja.wikipedia.org/wiki/小田急小田原線 "wikilink")→オバQ→「オバケのQ太郎」というタイトルを思いついた。以上は藤子Fの描いたマンガ『スタジオ・ボロ物語』や[TBSにて](../Page/TBSテレビ.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月12日](../Page/4月12日.md "wikilink")放送の番組『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』における藤子<span class="Unicode">Ⓐ</span>のインタビュー発言によるものだが、タイトルの由来については、これとは異なる説明もある。それは藤子Fと藤子<span class="Unicode">Ⓐ</span>が共同で執筆した自伝『二人で少年漫画ばかり描いてきた』によるもので、まず最初に『オバケの○太郎』というタイトルが決まり、○の部分にはめる言葉を探していたとき、[小説家](../Page/小説家.md "wikilink")の[安部公房](../Page/安部公房.md "wikilink")の本をパラパラとめくっていたら、Qという文字が目に止まり、愛敬のある文字だという理由でQ太郎になったというものである。『[アサヒ芸能](../Page/アサヒ芸能.md "wikilink")』2002年9月5日号の藤子<span class="Unicode">Ⓐ</span>へのインタビュー記事などでも同様のことが本人から語られていたことがある。一方で幸森軍也著・[鈴木伸一](../Page/鈴木伸一.md "wikilink")監修『ゼロの肖像 「トキワ荘」から生まれたアニメ会社の物語』（講談社、2012年）では、藤子<span class="Unicode">Ⓐ</span>の説明にも触れつつ、○の部分を決めたきっかけとして「書店で藤子Fが見かけた[魯迅](../Page/魯迅.md "wikilink")の『[阿Q正伝](../Page/阿Q正伝.md "wikilink")』」 が紹介されている。
 
 連載1回目の「忍者ごっこ」のストーリーは、ゼロの事務所のそばで、忍者ごっこをしている子供達を見てそのまま決めた。
 
@@ -39,7 +39,7 @@
 
 その一方、子供たちの間で流行した「オバQごっこ」（白いビニール袋を被って遊ぶ）により女児が窒息死するという事故が起きている。当時の関係者らはこの遊びに関して注意を呼びかけた\[11\]。
 
-1966年末に『週刊少年サンデー』の連載は終了し、1967年3月にはテレビアニメも日曜夜の時間から転出することになった。[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")制作の『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』と共に爆発的な人気番組となり（TBSの日曜夜7時台は、他局から「恐怖のQQタイム」と呼ばれていた）、時間帯変更の時点で依然30%を超える視聴率を誇っていたものの、スポンサーの不二家から「オバQ商品の売れ行きはピークに達した。これ以上の売上は見込めないので、新しいキャラクター（の番組）にしてくれ」という強い要望が出たためである\[12\]。後番組は、原作者・制作会社ともに同じ『[パーマン](../Page/パーマン.md "wikilink")』となった。アニメ1作目の「不二家の時間」枠での最終回「Qちゃんパーマン大かつやくの巻」には、次の新番組である『[パーマン](https://ja.wikipedia.org/wiki/パーマン#第1作_\(TBS\) "wikilink")』の宣伝としてパーマン1号がゲスト出演をしている。Q太郎と正太がギャング団に誘拐され、Q太郎が助けを求めると、パーマンが駆けつけて2人が助け出されるという内容\[13\]。この時のQ太郎とパーマンの会話は「君は来週からじゃないか」「僕、あわてんぼうだから1週早く出てきちゃった」というものである。『[TVジェネレーション](../Page/TVジェネレーション.md "wikilink")』、『[決定\!これが日本のベスト100](https://ja.wikipedia.org/wiki/決定!これが日本のベスト100 "wikilink")』、『[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")』等、懐かしのアニメ特集番組で映像が放送されたことがある。テレビアニメは水曜18時の時間帯に移動したが、3ヶ月で新作の放映は終了し、以後は翌年3月まで再放映を流していた。
+1966年末に『週刊少年サンデー』の連載は終了し、1967年3月にはテレビアニメも日曜夜の時間から転出することになった。[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")制作の『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』と共に爆発的な人気番組となり（TBSの日曜夜7時台は、他局から「恐怖のQQタイム」と呼ばれていた）、時間帯変更の時点で依然30%を超える視聴率を誇っていたものの、スポンサーの不二家から「オバQ商品の売れ行きはピークに達した。これ以上の売上は見込めないので、新しいキャラクター（の番組）にしてくれ」という強い要望が出たためである\[12\]。後番組は、原作者・制作会社ともに同じ『[パーマン](../Page/パーマン.md "wikilink")』となった。アニメ1作目の「不二家の時間」枠での最終回「Qちゃんパーマン大かつやくの巻」には、次の新番組である『[パーマン](https://ja.wikipedia.org/wiki/パーマン#第1作_\(TBS\) "wikilink")』の宣伝としてパーマン1号がゲスト出演をしている。Q太郎と正太がギャング団に誘拐され、Q太郎が助けを求めると、パーマンが駆けつけて2人が助け出されるという内容\[13\]。この時のQ太郎とパーマンの会話は「君は来週からじゃないか」「僕、あわてんぼうだから1週早く出てきちゃった」というものである。『[TVジェネレーション](../Page/TVジェネレーション.md "wikilink")』、『[決定\!これが日本のベスト100](https://ja.wikipedia.org/wiki/決定!これが日本のベスト100 "wikilink")』、『[大胆MAP](../Page/大胆MAP.md "wikilink")』等、懐かしのアニメ特集番組で映像が放送されたことがある。テレビアニメは水曜18時の時間帯に移動したが、3ヶ月で新作の放映は終了し、以後は翌年3月まで再放映を流していた。
 
 [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")、『「オバケのQ太郎」あれから四年…』と題して『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』に後日談のエピソードが掲載された（[後述](https://ja.wikipedia.org/wiki/#その他の『オバQ』未来話 "wikilink")）。
 
@@ -74,7 +74,7 @@
   - [女学生の友](../Page/女学生の友.md "wikilink")：1966年1月号 - 12月号（番外編『オバケのP子日記』）
   - [ボーイズライフ](../Page/ボーイズライフ.md "wikilink")：1966年3月号
   - [ビッグコミック](../Page/ビッグコミック.md "wikilink")：1969年3月号（『「オバケのQ太郎」あれから四年…』）、1973年2月25日号（『劇画・オバQ』）
-  - [めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")：1971年4月号 - 1974年3月号
+  - [めばえ](../Page/めばえ_\(雑誌\).md "wikilink")：1971年4月号 - 1974年3月号
   - [ベビーブック](https://ja.wikipedia.org/wiki/ベビーブック "wikilink")：1971年4月号 - 1973年3月号
   - 小学館ブック：1966年7月号（創刊号） - 1967年2月号
   - [月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink")：1976年5月号
@@ -1512,7 +1512,7 @@
 </tr>
 <tr class="even">
 <td><p>ライバルをけおとせの巻</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊東恒久" title="wikilink">伊東恒久</a></p></td>
+<td><p><a href="../Page/伊東恒久.md" title="wikilink">伊東恒久</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2410,7 +2410,7 @@
 
 ##### 各話スタッフ
 
-  - 脚本 - [桜井正明](https://ja.wikipedia.org/wiki/桜井正明 "wikilink")、[岸間信明](../Page/岸間信明.md "wikilink")、[菅良幸](../Page/菅良幸.md "wikilink")、[丸尾みほ](../Page/丸尾みほ.md "wikilink")、[桶谷顕](../Page/桶谷顕.md "wikilink")、[茂木仁史](../Page/茂木仁史.md "wikilink")、深見弘、杉原めぐみ、[渡辺麻実](../Page/渡辺麻実.md "wikilink")、[松下幹夫](https://ja.wikipedia.org/wiki/松下幹夫 "wikilink")、[山本優](../Page/山本優.md "wikilink")、[山田隆司](../Page/山田隆司.md "wikilink")、水出弘一、並木敏、[田口成光](../Page/田口成光.md "wikilink")、[中弘子](https://ja.wikipedia.org/wiki/中弘子 "wikilink")、麻尾るみこ、佐々木裕之、岡かすみ、立花遊、小川あさ美、吉田進、八木良一、[安藤豊弘](https://ja.wikipedia.org/wiki/安藤豊弘 "wikilink")、片平圭子、[朝倉千筆](../Page/朝倉千筆.md "wikilink") 他
+  - 脚本 - [桜井正明](../Page/桜井正明.md "wikilink")、[岸間信明](../Page/岸間信明.md "wikilink")、[菅良幸](../Page/菅良幸.md "wikilink")、[丸尾みほ](../Page/丸尾みほ.md "wikilink")、[桶谷顕](../Page/桶谷顕.md "wikilink")、[茂木仁史](../Page/茂木仁史.md "wikilink")、深見弘、杉原めぐみ、[渡辺麻実](../Page/渡辺麻実.md "wikilink")、[松下幹夫](https://ja.wikipedia.org/wiki/松下幹夫 "wikilink")、[山本優](../Page/山本優.md "wikilink")、[山田隆司](../Page/山田隆司.md "wikilink")、水出弘一、並木敏、[田口成光](../Page/田口成光.md "wikilink")、[中弘子](https://ja.wikipedia.org/wiki/中弘子 "wikilink")、麻尾るみこ、佐々木裕之、岡かすみ、立花遊、小川あさ美、吉田進、八木良一、[安藤豊弘](https://ja.wikipedia.org/wiki/安藤豊弘 "wikilink")、片平圭子、[朝倉千筆](../Page/朝倉千筆.md "wikilink") 他
   - コンテ・演出 - 笹川ひろし、原田益次、[須永司](../Page/須永司.md "wikilink")、[やすみ哲夫](../Page/やすみ哲夫.md "wikilink")、棚橋一徳、中村喜則、吉永尚之、[青山弘](https://ja.wikipedia.org/wiki/青山弘 "wikilink")、[原恵一](../Page/原恵一.md "wikilink")、[平井峰太郎](../Page/平井峰太郎.md "wikilink")、長尾粛、[白石邦俊](https://ja.wikipedia.org/wiki/クニトシロウ "wikilink")、竹内大三、小松和彦、棚橋正人、[永樹凡人](../Page/ながきふさひろ.md "wikilink")、天海ひろし、棚沢隆、[塚田庄英](../Page/塚田庄英.md "wikilink")、大谷正弘、[前園文夫](https://ja.wikipedia.org/wiki/前園文夫 "wikilink")、[パクキョンスン](https://ja.wikipedia.org/wiki/パクキョンスン "wikilink")、石崎すすむ、小林真理、津野明朗、木暮輝夫、遠藤克己、近藤英輔、[高柳哲司](../Page/高柳哲司.md "wikilink")、松島明子、細谷秋夫、[北原健雄](../Page/北原健雄.md "wikilink")、山崎友正、槌田幸一、殿勝秀樹、[渡辺はじめ](../Page/渡辺はじめ.md "wikilink")、[遠藤徹哉](https://ja.wikipedia.org/wiki/えんどうてつや "wikilink")、北爪宏示 他
   - 作画監督 - 富永貞義、森下圭介、細谷秋夫、斉藤起己、[なかじまちゅうじ](../Page/なかじまちゅうじ.md "wikilink")、畑良子、石黒育、[堤規至](../Page/堤規至.md "wikilink")、[川島明](https://ja.wikipedia.org/wiki/川島彰 "wikilink")、[渡辺はじめ](../Page/渡辺はじめ.md "wikilink") 他
   - 作画 - シンエイ動画、トミプロダクション、風プロダクション、パンメディア、サンシャイン、スタジオルック、[じゃんぐるじむ](../Page/じゃんぐるじむ.md "wikilink")、ACプロ、[動画工房](../Page/動画工房.md "wikilink")、[OHプロダクション](../Page/オープロダクション.md "wikilink") 他

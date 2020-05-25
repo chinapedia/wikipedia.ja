@@ -71,7 +71,7 @@
 
 ### 企業名
 
-  - [モト・モリーニ](https://ja.wikipedia.org/wiki/モト・モリーニ "wikilink") () - イタリアの[オートバイ](../Page/オートバイ.md "wikilink")メーカー
+  - [モト・モリーニ](../Page/モト・モリーニ.md "wikilink") () - イタリアの[オートバイ](../Page/オートバイ.md "wikilink")メーカー
   - [マクロメディア](../Page/マクロメディア.md "wikilink") ()
   - [宮城テレビ放送](../Page/宮城テレビ放送.md "wikilink") (JOMM-DTV)
   - [SAMコロンビア](https://ja.wikipedia.org/wiki/SAMコロンビア "wikilink") () 、[Peach Aviationの](https://ja.wikipedia.org/wiki/Peach_Aviation "wikilink")[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")。

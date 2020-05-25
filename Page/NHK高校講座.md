@@ -330,7 +330,7 @@
   - [中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")（[ロッチ](../Page/ロッチ.md "wikilink")）
   - [敦士](https://ja.wikipedia.org/wiki/敦士_\(ファッションモデル\) "wikilink")
   - [生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'15）※当時\[6\]
-  - ナレーション [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")
+  - ナレーション [勝沼紀義](../Page/勝沼紀義.md "wikilink")
   - ナレーション [小林美奈](https://ja.wikipedia.org/wiki/小林美奈 "wikilink")
 
 ### 保健体育
@@ -380,7 +380,7 @@
   - [ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
   - [光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（[オアシズ](../Page/オアシズ.md "wikilink")）
   - [野添義弘](../Page/野添義弘.md "wikilink")
-  - [良田麻美](https://ja.wikipedia.org/wiki/良田麻美 "wikilink")
+  - [良田麻美](../Page/良田麻美.md "wikilink")
   - 岩澤晶範
   - スティーブ・ワイリー
   - [鈴木かのん](https://ja.wikipedia.org/wiki/鈴木かのん "wikilink")
@@ -1296,7 +1296,7 @@
 
 ### 放送時間短縮との関連
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月、当時NHK会長だった[福地茂雄](https://ja.wikipedia.org/wiki/福地茂雄 "wikilink")は定例会見で、環境問題に配慮して教育テレビの更なる放送時間短縮を検討していることを明言した。4月の段階で既に二酸化炭素排出量削減を目的として実施することを番組で明らかにしていた。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月、当時NHK会長だった[福地茂雄](../Page/福地茂雄.md "wikilink")は定例会見で、環境問題に配慮して教育テレビの更なる放送時間短縮を検討していることを明言した。4月の段階で既に二酸化炭素排出量削減を目的として実施することを番組で明らかにしていた。
 
 それに呼応するかのように、番組のサイトで一般向けにも放送内容のストリーミング配信を行っている（著作権の関係で一部は改変）。午前の学校放送もデジタルコンテンツ化の影響により放送時間が削減されたことから、2007年度分の放送（2008年9月までで終了）を以ってライブラリー終了になるのではとの見方もあったが、2008年10月以降も経過措置として放送を継続していた。
 

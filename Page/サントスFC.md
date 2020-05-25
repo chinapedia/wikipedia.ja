@@ -21,7 +21,7 @@
 
 ## ライバル
 
-同じサンパウロを本拠地とする[SCコリンチャンス・パウリスタ](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")、[サンパウロFC](../Page/サンパウロFC.md "wikilink")、[SEパルメイラス](../Page/SEパルメイラス.md "wikilink")とは、サントスを含め「サンパウロのビッグ4」と呼ばれ、これらのチームとの対戦は「クラシコ」と呼ばれる。コリンチャンスとのクラシコは[クラシコ・アルビ・ネグロ](https://ja.wikipedia.org/wiki/クラシコ・アルビ・ネグロ "wikilink")（白と黒のダービー）、サンパウロFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（両チームの頭文字を取った名前）、SEパルメイラスとのクラシコは[クラシコ・デ・サウダージ](https://ja.wikipedia.org/wiki/クラシコ・デ・サウダージ "wikilink")（郷愁のダービー）と呼ばれている。
+同じサンパウロを本拠地とする[SCコリンチャンス・パウリスタ](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サンパウロFC](../Page/サンパウロFC.md "wikilink")、[SEパルメイラス](../Page/SEパルメイラス.md "wikilink")とは、サントスを含め「サンパウロのビッグ4」と呼ばれ、これらのチームとの対戦は「クラシコ」と呼ばれる。コリンチャンスとのクラシコは[クラシコ・アルビ・ネグロ](https://ja.wikipedia.org/wiki/クラシコ・アルビ・ネグロ "wikilink")（白と黒のダービー）、サンパウロFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（両チームの頭文字を取った名前）、SEパルメイラスとのクラシコは[クラシコ・デ・サウダージ](https://ja.wikipedia.org/wiki/クラシコ・デ・サウダージ "wikilink")（郷愁のダービー）と呼ばれている。
 
 ## タイトル
 

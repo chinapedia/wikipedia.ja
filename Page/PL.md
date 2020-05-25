@@ -25,7 +25,7 @@
   - [プロジェクトリーダー](https://ja.wikipedia.org/wiki/プロジェクトリーダー "wikilink") ()
   - [PLマーク](https://ja.wikipedia.org/wiki/PLマーク "wikilink") - [ポリオレフィン等衛生協議会](https://ja.wikipedia.org/wiki/ポリオレフィン等衛生協議会 "wikilink")が定める、プラスチック製食品容器の認定マーク。
   - [プレイリスト](https://ja.wikipedia.org/wiki/プレイリスト "wikilink") ()
-  - [進歩的労働党](https://ja.wikipedia.org/wiki/進歩的労働党 "wikilink") () - アメリカの政党
+  - [進歩的労働党](../Page/進歩的労働党.md "wikilink") () - アメリカの政党
   - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[郵便コード](https://ja.wikipedia.org/wiki/郵便コード "wikilink")。[プリマス](../Page/プリマス.md "wikilink")、西[デヴォン](../Page/デヴォン.md "wikilink")、東南[コーンウォール](../Page/コーンウォール.md "wikilink")の範囲。
   - [アエロペルー](../Page/アエロペルー.md "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
   - [エアスターズ](https://ja.wikipedia.org/wiki/エアスターズ "wikilink") () のIATA航空会社コード

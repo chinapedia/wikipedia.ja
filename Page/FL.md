@@ -17,7 +17,7 @@
   - [蛍光灯](../Page/蛍光灯.md "wikilink") ()。FL管、FLディスプレイなど。
   - 床の高さ ()
   - [フライトレベル](https://ja.wikipedia.org/wiki/フライトレベル "wikilink") () - 航空機の飛行高度の換算法
-  - [前頭葉](https://ja.wikipedia.org/wiki/前頭葉 "wikilink") () - [大脳](../Page/大脳.md "wikilink")の一部。
+  - [前頭葉](../Page/前頭葉.md "wikilink") () - [大脳](../Page/大脳.md "wikilink")の一部。
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[藤子不二雄A](https://ja.wikipedia.org/wiki/藤子不二雄A)から翻訳されています。
 
 
-**藤子 不二雄Ⓐ**（ふじこ・ふじお・エー、[1934年](../Page/1934年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。本名は**安孫子 素雄**（あびこ もとお）。[大垣女子短期大学](../Page/大垣女子短期大学.md "wikilink")客員教授。[座右の銘は](https://ja.wikipedia.org/wiki/標語#座右の銘 "wikilink")「**明日にのばせることを今日するな**」。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**藤子 不二雄Ⓐ**（ふじこ・ふじお・エー、[1934年](../Page/1934年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。本名は**安孫子 素雄**（あびこ もとお）。[大垣女子短期大学](../Page/大垣女子短期大学.md "wikilink")客員教授。[座右の銘は](https://ja.wikipedia.org/wiki/標語#座右の銘 "wikilink")「**明日にのばせることを今日するな**」。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 藤本弘（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")）とともに[藤子不二雄](../Page/藤子不二雄.md "wikilink")として[コンビを組み](../Page/二人組.md "wikilink")、作品を発表した。コンビ解消後は本名で紹介されることも多い。筆名の「Ⓐ」は「安孫子」の頭文字である。
 
@@ -54,7 +54,7 @@
   - 『忍者ハットリくん』（P・S:[大一商会](../Page/大一商会.md "wikilink")）
   - 『怪物くん』（P:大一商会・[奥村遊機](../Page/奥村遊機.md "wikilink")）
   - 『プロゴルファー猿』（P:大一商会・[タイヨーエレック](../Page/タイヨーエレック.md "wikilink")、S:[スパイキー](https://ja.wikipedia.org/wiki/スパイキー_\(パチスロメーカー\) "wikilink")）
-  - 『笑ゥせぇるすまん』（P:奥村遊機、S:[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")）
+  - 『笑ゥせぇるすまん』（P:奥村遊機、S:[三洋物産](../Page/三洋物産.md "wikilink")）
 
 20代から[サングラス](../Page/サングラス.md "wikilink")を愛用している。これは白い原稿用紙の反射光で目を痛めたからである。後に片目は[白内障](../Page/白内障.md "wikilink")の手術を受けており、[吉行淳之介](../Page/吉行淳之介.md "wikilink")に医者を紹介したこともあった。
 
@@ -124,7 +124,7 @@
   - [まんが道](../Page/まんが道.md "wikilink")
     連載期間：1970年 - 1972年、1977年 - 1982年、1986年 - 1988年
 
-    藤子不二雄の自伝的漫画。**満賀道雄**（藤子Aがモデル）と**才野茂**（藤子Fがモデル）が[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")を目指す青春物語。[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")2度に渡りドラマ化された\[14\]。
+    藤子不二雄の自伝的漫画。**満賀道雄**（藤子Aがモデル）と**才野茂**（藤子Fがモデル）が[漫画家](../Page/漫画家.md "wikilink")を目指す青春物語。[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")2度に渡りドラマ化された\[14\]。
 
     続編『愛…しりそめし頃に…』が『[ビッグコミックオリジナル増刊](../Page/ビッグコミックオリジナル増刊.md "wikilink")』に1995年から2013年まで連載された。
 
@@ -266,7 +266,7 @@
     眼鏡を掛けて眠たそうな目をしている気弱な少年。しかし裏の顔は苛められたら数倍にして返すという恐ろしい人物である。[黒ベエ](../Page/黒ベエ.md "wikilink")以前の作品は時に[オーバーリアクション](https://ja.wikipedia.org/wiki/オーバーリアクション "wikilink")をする役もあったが、「[黒ベエ](../Page/黒ベエ.md "wikilink")」以降は「[プリンスデモキン](https://ja.wikipedia.org/wiki/プリンスデモキン "wikilink")」「[笑ゥせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")」等[根暗](https://ja.wikipedia.org/wiki/根暗 "wikilink")なキャラクターとして登場する事も
       - 登場作品 - [黒ベエ](../Page/黒ベエ.md "wikilink")、[笑ゥせぇるすまん](../Page/笑ゥせぇるすまん.md "wikilink")、[フータくん](../Page/フータくん.md "wikilink")他
   - 山川キヨシ
-    有名な少年[点描](../Page/点描.md "wikilink")画家。[山下清](https://ja.wikipedia.org/wiki/山下清 "wikilink")のパロディ。サインとして[プテラノドン](../Page/プテラノドン.md "wikilink")が描かれているものには数百万円の価値がある。因みに、まともに日本語を喋れない。というかあえて喋らない。が、「[パラソルヘンべえ](../Page/パラソルヘンべえ.md "wikilink")」ではちゃんと喋っていた。「**点！点！点！**」と叫んで絵を仕上げる。
+    有名な少年[点描](../Page/点描.md "wikilink")画家。[山下清](../Page/山下清.md "wikilink")のパロディ。サインとして[プテラノドン](../Page/プテラノドン.md "wikilink")が描かれているものには数百万円の価値がある。因みに、まともに日本語を喋れない。というかあえて喋らない。が、「[パラソルヘンべえ](../Page/パラソルヘンべえ.md "wikilink")」ではちゃんと喋っていた。「**点！点！点！**」と叫んで絵を仕上げる。
       - 登場作品 - [フータくん](../Page/フータくん.md "wikilink")NOW\!、[チャンピョンマンガ科](../Page/まんが道.md "wikilink")、[パラソルヘンべえ](../Page/パラソルヘンべえ.md "wikilink")
   - サンスケの親父
     サンスケの親父で風呂屋の[番台](https://ja.wikipedia.org/wiki/番台 "wikilink")を努める。サンスケのイタズラには困っている。尚、[旅館](../Page/旅館.md "wikilink")の社長、[会社](../Page/会社.md "wikilink")の上役など上の仕事をする事が多い。

@@ -12,7 +12,7 @@
   - Sega Titan Videogame system（セガ・タイタン・ビデオゲームシステム）([ST-V](../Page/ST-V.md "wikilink")) - 株式会社セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が開発した、[セガサターン](../Page/セガサターン.md "wikilink")互換の[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")
   - STVパートナーズ - [GEが全額出資して設立した日本の外資系投資会社](../Page/ゼネラル・エレクトリック.md "wikilink")。[旧三洋電機クレジットを傘下に入れる際に設立した](../Page/GE三洋クレジット.md "wikilink")。
   - [単記移譲式投票](../Page/単記移譲式投票.md "wikilink")（Single transferable vote） - 選挙において、有権者が選好順序によって候補者の一覧に順位を付ける投票方法。死票を最小化し、大選挙区制においては比例代表を提供する。
-  - 株式・経済情報専門の放送局[Stock Voice](https://ja.wikipedia.org/wiki/Stock_Voice "wikilink")（ストックボイス）が運営する「ストックボイスTV」（**S**tock Voice **TV**）の略称。
+  - 株式・経済情報専門の放送局[Stock Voice](../Page/Stock_Voice.md "wikilink")（ストックボイス）が運営する「ストックボイスTV」（**S**tock Voice **TV**）の略称。
   - [佐賀関テレビ](https://ja.wikipedia.org/wiki/佐賀関テレビ "wikilink") - [大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")のケーブルテレビ局。
   - 酒田ケーブルテレビ - [山形県](../Page/山形県.md "wikilink")[酒田市](../Page/酒田市.md "wikilink")の[庄内社会教育事業センター](https://ja.wikipedia.org/wiki/庄内社会教育事業センター "wikilink")が運営していたケーブルテレビ局。2019年12月末から放送停止の状態に陥っている\[1\]。
 

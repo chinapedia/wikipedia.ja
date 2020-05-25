@@ -1,7 +1,7 @@
 > この記事は[TAGRO](https://ja.wikipedia.org/wiki/TAGRO)から翻訳されています。
 
 
-**TAGRO**（たぐろ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[中央大学](../Page/中央大学.md "wikilink")中退。生年月日や出身地は非公開\[1\]。
+**TAGRO**（たぐろ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[中央大学](../Page/中央大学.md "wikilink")中退。生年月日や出身地は非公開\[1\]。
 
 『変ゼミ』に石川県出身で金沢弁を話すという設定の人物が登場するが、TAGRO本人は石川県や金沢弁に縁はない\[2\]。一時期、同人ペンネームに、**たぐちたぐろう**名義を使用していた。
 

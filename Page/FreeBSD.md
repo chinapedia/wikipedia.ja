@@ -146,7 +146,7 @@ FreeBSDのSTABLE版及びRELEASE版については、リリース後一定期間
 
 「3.0-RELEASE」は1998年10月16日に発表された。バージョン3の最終版の「3.5-RELEASE」は2000年6月24日に発表された。
 
-「3.0-RELEASE」は**[ジャイアントロック](https://ja.wikipedia.org/wiki/ジャイアントロック "wikilink")**を用いて[SMPシステムをサポートできる最初のブランチである](../Page/対称型マルチプロセッシング.md "wikilink")。「3.1-RELEASE」からは**[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")**をサポートし、「3.2-RELEASE」から**[ギガビット・イーサネット](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")[カード](../Page/ネットワークカード.md "wikilink")**をサポートした。
+「3.0-RELEASE」は**[ジャイアントロック](https://ja.wikipedia.org/wiki/ジャイアントロック "wikilink")**を用いて[SMPシステムをサポートできる最初のブランチである](../Page/対称型マルチプロセッシング.md "wikilink")。「3.1-RELEASE」からは**[USB](../Page/ユニバーサル・シリアル・バス.md "wikilink")**をサポートし、「3.2-RELEASE」から**[ギガビット・イーサネット](../Page/ギガビット・イーサネット.md "wikilink")[カード](../Page/ネットワークカード.md "wikilink")**をサポートした。
 
 #### FreeBSD 4
 
@@ -398,7 +398,7 @@ FreeBSD 11.1-RELEASEは予定通り2017年7月26日リリースされた。
   - 完全版の[NISの](../Page/ネットワーク・インフォメーション・サービス.md "wikilink")[クライアント・サーバ対応](../Page/クライアントサーバモデル.md "wikilink")
   - [TCP](../Page/Transmission_Control_Protocol.md "wikilink")[トランザクション](../Page/トランザクション.md "wikilink")対応
   - [ISDN](../Page/ISDN.md "wikilink")対応
-  - [FDDIと](https://ja.wikipedia.org/wiki/Fiber_Distributed_Data_Interface "wikilink")[100メガビット・イーサネット](https://ja.wikipedia.org/wiki/100メガビット・イーサネット "wikilink")アダプタの対応
+  - [FDDIと](https://ja.wikipedia.org/wiki/Fiber_Distributed_Data_Interface "wikilink")[100メガビット・イーサネット](../Page/100メガビット・イーサネット.md "wikilink")アダプタの対応
   - 多言語ドキュメント
   - [インストール](../Page/インストール.md "wikilink")用[メディアの](../Page/電子媒体.md "wikilink")[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")のPort機能
 
@@ -880,7 +880,7 @@ FreeBSD 11.1-RELEASEは予定通り2017年7月26日リリースされた。
   - 実験的な[ZFS](../Page/ZFS.md "wikilink")と[GPT](https://ja.wikipedia.org/wiki/GUID_Partition_Table "wikilink")
   - 実験的な[SCTPを実装](../Page/Stream_Control_Transmission_Protocol.md "wikilink")\[102\]
   - [ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")の追加対応
-  - サウンドインターフェースの[HDA対応](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink")
+  - サウンドインターフェースの[HDA対応](../Page/High_Definition_Audio.md "wikilink")
   - [mallocの古い実装(phkmalloc)をJason Evansが開発したjemallocに置換](https://ja.wikipedia.org/wiki/malloc#FreeBSDとNetBSD "wikilink")
   - [DEC Alpha対応を終了](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")
 
@@ -1041,7 +1041,7 @@ FreeBSD 11.1-RELEASEは予定通り2017年7月26日リリースされた。
 
   - ユニコードをサポートし、グラフィックモードの利用を改善するシステムコンソールvt(4)の追加\[128\]
   - amd64のみ[UEFIからの起動を初期サポート](https://ja.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface#セキュアブート "wikilink")
-  - [IPv4](../Page/IPv4.md "wikilink")および[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")[スタック](../Page/スタック.md "wikilink")に対し、音声などマルチメディアに適しているとされる（RFC 3828で定義された）[UDP-Lite](https://ja.wikipedia.org/wiki/UDP-Lite "wikilink")[プロトコル](../Page/プロトコル.md "wikilink")サポートを追加\[129\]
+  - [IPv4](../Page/IPv4.md "wikilink")および[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")[スタック](../Page/スタック.md "wikilink")に対し、音声などマルチメディアに適しているとされる（RFC 3828で定義された）[UDP-Lite](../Page/UDP-Lite.md "wikilink")[プロトコル](../Page/プロトコル.md "wikilink")サポートを追加\[129\]
   - [ハイパーバイザ](../Page/ハイパーバイザ.md "wikilink")bhyve(4)にzfsファイルシステムからの起動サポート
   - ハイパーバイザbhyve(4)へFreeBSD/i386ゲストのサポート機能を追加
   - ファイルシステムの自動マウント機能であるautofs(5)を導入

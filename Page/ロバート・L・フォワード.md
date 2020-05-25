@@ -11,7 +11,7 @@
 
 ## 研究
 
-彼の研究の大部分は理論物理学の最先端に集中しているが、その根底には常に人類が成し遂げられると彼が信じていることがある。彼は[テザー推進](../Page/テザー推進.md "wikilink")、[space fountain](https://ja.wikipedia.org/wiki/:en:space_fountain "wikilink")、[太陽帆](../Page/太陽帆.md "wikilink")（[Starwisp](https://ja.wikipedia.org/wiki/:en:Starwisp "wikilink") を含む）、[反物質推進](https://ja.wikipedia.org/wiki/反物質推進 "wikilink")などの[宇宙機の推進方法](https://ja.wikipedia.org/wiki/宇宙機の推進方法 "wikilink")などのプロジェクトに従事し、さらに実現が難しいと見られる[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")や[エキゾチック物質](https://ja.wikipedia.org/wiki/エキゾチック物質 "wikilink")に関しても可能性を研究した。太陽帆で軌道修正し続ける人工衛星[スタタイト](https://ja.wikipedia.org/wiki/スタタイト "wikilink")について特許を取得し、[ヴァン・アレン帯](../Page/ヴァン・アレン帯.md "wikilink")から粒子を排出する方法 ([HiVolt](https://ja.wikipedia.org/wiki/:en:HiVolt "wikilink")) の考案にも貢献した。
+彼の研究の大部分は理論物理学の最先端に集中しているが、その根底には常に人類が成し遂げられると彼が信じていることがある。彼は[テザー推進](../Page/テザー推進.md "wikilink")、[space fountain](https://ja.wikipedia.org/wiki/:en:space_fountain "wikilink")、[太陽帆](../Page/太陽帆.md "wikilink")（[Starwisp](https://ja.wikipedia.org/wiki/:en:Starwisp "wikilink") を含む）、[反物質推進](https://ja.wikipedia.org/wiki/反物質推進 "wikilink")などの[宇宙機の推進方法](../Page/宇宙機の推進方法.md "wikilink")などのプロジェクトに従事し、さらに実現が難しいと見られる[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")や[エキゾチック物質](https://ja.wikipedia.org/wiki/エキゾチック物質 "wikilink")に関しても可能性を研究した。太陽帆で軌道修正し続ける人工衛星[スタタイト](https://ja.wikipedia.org/wiki/スタタイト "wikilink")について特許を取得し、[ヴァン・アレン帯](../Page/ヴァン・アレン帯.md "wikilink")から粒子を排出する方法 ([HiVolt](https://ja.wikipedia.org/wiki/:en:HiVolt "wikilink")) の考案にも貢献した。
 
 ### フォワード質量探知機
 

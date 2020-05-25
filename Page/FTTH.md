@@ -59,7 +59,7 @@
   - E-PON（Ethernet-PON）
     [イーサネット](../Page/イーサネット.md "wikilink")をプロトコルとして用いたもの。
   - GE-PON（Gigabit Ethernet-PON）
-    [ギガビット・イーサネット](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")をプロトコルとして用いたもの。特にIEEE 802.3ahとして標準化されたものを指すことが多い。
+    [ギガビット・イーサネット](../Page/ギガビット・イーサネット.md "wikilink")をプロトコルとして用いたもの。特にIEEE 802.3ahとして標準化されたものを指すことが多い。
   - G-PON（Gigabit PON）
     ITU-T G.984シリーズで標準化されたPON。
   - XG-PON（10Gigabit PON）

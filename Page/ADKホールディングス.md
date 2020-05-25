@@ -335,7 +335,7 @@
   - ノイマン - ADKと1-10 design（ワントゥテンデザイン）による合同プロジェクトチーム。
   - AH Project team - [博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")とADKの合同プロジェクトチーム。
   - [エイケン](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink") - 2002年に子会社化したアニメーション制作会社。代表作に『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")』『[ぼのぼの](../Page/ぼのぼの.md "wikilink")』『[ガラスの仮面](../Page/ガラスの仮面.md "wikilink")』『[アルプスの少女ハイジ](../Page/アルプスの少女ハイジ.md "wikilink")』など。
-  - [ゴンゾ](../Page/ゴンゾ.md "wikilink") - 2016年に子会社化したアニメーション制作会社。代表作に『[青の6号](../Page/青の6号.md "wikilink")』『[ストライクウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』『[アフロサムライ](https://ja.wikipedia.org/wiki/アフロサムライ "wikilink")』『[LAST EXILE](../Page/LAST_EXILE.md "wikilink")』など。
+  - [ゴンゾ](../Page/ゴンゾ.md "wikilink") - 2016年に子会社化したアニメーション制作会社。代表作に『[青の6号](../Page/青の6号.md "wikilink")』『[ストライクウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』『[アフロサムライ](../Page/アフロサムライ.md "wikilink")』『[LAST EXILE](../Page/LAST_EXILE.md "wikilink")』など。
   - [スーパー・ビジョン](../Page/スーパー・ビジョン_\(企業\).md "wikilink") - アニメーション作品・映像ソフトの製造・販売会社。[ADK](https://ja.wikipedia.org/wiki/ADK "wikilink")100%出資により、1991年に設立。
   - [テンユウ](https://ja.wikipedia.org/wiki/テンユウ "wikilink") - [日本アドシステムズ](../Page/日本アドシステムズ.md "wikilink")の子会社。アニメーション制作における制作委員会の仕事を法人格をもって単体業務として行う会社。
   - プレミアクロスバリュー
@@ -366,7 +366,7 @@
   - [稲垣正夫](https://ja.wikipedia.org/wiki/稲垣正夫_\(実業家\) "wikilink")（旭通信社創業者）
   - [岩村暢子](https://ja.wikipedia.org/wiki/岩村暢子 "wikilink")（現代家族論研究者、ADK200Xファミリーデザイン室室長）（ADK在籍）
   - [植野伸一](https://ja.wikipedia.org/wiki/植野伸一 "wikilink")（現代表取締役社長）
-  - [海老沢幸男](https://ja.wikipedia.org/wiki/海老沢幸男 "wikilink")（アニメーター、演出家、[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")出身）
+  - [海老沢幸男](../Page/海老沢幸男.md "wikilink")（アニメーター、演出家、[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")出身）
   - [大塚雄三](../Page/大塚雄三.md "wikilink")（ミュージシャン・元[CHARCOAL FILTERの](../Page/CHARCOAL_FILTER.md "wikilink")[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")）
   - [大林宏](../Page/大林宏_\(検察官\).md "wikilink")（[検察官](../Page/検察官.md "wikilink")、第25代[検事総長](../Page/検事総長.md "wikilink")）（ADK取締役）
   - [大垣友紀惠](https://ja.wikipedia.org/wiki/大垣友紀惠 "wikilink")（[アートディレクター](../Page/アートディレクター.md "wikilink")）

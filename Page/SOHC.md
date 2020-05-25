@@ -60,7 +60,7 @@ DOHCと比較した場合、カムシャフトが1本少ない分摺動抵抗が
 2.  楔形燃焼室やバスタブ型燃焼室を持ったターンフローのエンジンでロッカーアームが用いられたものとしては[日産の](../Page/日産自動車.md "wikilink")[L型エンジン](../Page/日産・L型エンジン.md "wikilink")、[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[1G-E](https://ja.wikipedia.org/wiki/トヨタ・G型エンジン "wikilink")、[A型エンジン（DOHCを除く）](../Page/トヨタ・A型エンジン_\(2代目\).md "wikilink")、[E型エンジン（DOHCを除く）などがある](../Page/トヨタ・E型エンジン.md "wikilink")。
 3.  後継車の[スバル・ヴィヴィオ](../Page/スバル・ヴィヴィオ.md "wikilink")ではホットモデルの「RX」シリーズに限り、[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[ハイメカツインカム](https://ja.wikipedia.org/wiki/ハイメカツインカム "wikilink")エンジンに類似した機構を用いたDOHCを採用しているが、これは主にマーケット面での要求によるものである。
 4.  同社の[9代目キャリイ専用](https://ja.wikipedia.org/wiki/スズキ・キャリイ#9代目_DA71T/DB71T/DA81T/DA41T/DB41T/DA51T/DB51T（1985-1991年） "wikilink")
-5.  日産・[Z型](https://ja.wikipedia.org/wiki/日産・Z型エンジン "wikilink")（Z18、Z20など）および[CA型](https://ja.wikipedia.org/wiki/日産・CAエンジン "wikilink")、[ホンダ](../Page/本田技研工業.md "wikilink")・[i-DSI](https://ja.wikipedia.org/wiki/i-DSI "wikilink")（[L型および](../Page/ホンダ・L型エンジン.md "wikilink")[P型など](../Page/ホンダ・P型エンジン.md "wikilink")）。
+5.  日産・[Z型](https://ja.wikipedia.org/wiki/日産・Z型エンジン "wikilink")（Z18、Z20など）および[CA型](../Page/日産・CAエンジン.md "wikilink")、[ホンダ](../Page/本田技研工業.md "wikilink")・[i-DSI](https://ja.wikipedia.org/wiki/i-DSI "wikilink")（[L型および](../Page/ホンダ・L型エンジン.md "wikilink")[P型など](../Page/ホンダ・P型エンジン.md "wikilink")）。
 6.  [ホンダ プレスインフォメーション(FACT BOOK) CITY 1986.10](http://www.honda.co.jp/factbook/auto/CITY/19861031/ci86-014.html)
 7.  [ホンダ プレスインフォメーション(FACT BOOK) CRF250R ユニカムバルブトレイン](http://www.honda.co.jp/factbook/motor/cr/200309/003.html)
 8.  [連続可変バルブリフトMIVEC - MITSUBISHI MOTORS](http://www.mitsubishi-motors.com/jp/spirit/technology/library/mivec.html)

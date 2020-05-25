@@ -836,7 +836,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/垂水千佳" title="wikilink">垂水千佳</a></p></td>
+<td><p><a href="../Page/垂水千佳.md" title="wikilink">垂水千佳</a></p></td>
 <td><p>神戸<br />
 （契約キャスター）</p></td>
 <td><p>ウイークエンド関西</p></td>

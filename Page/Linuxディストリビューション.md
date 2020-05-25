@@ -97,7 +97,7 @@
 
           - [Caramel OS](../Page/Caramel_OS.md "wikilink") : 美味しくて可愛いOS。
 
-          - [Edubuntu](https://ja.wikipedia.org/wiki/Edubuntu "wikilink") : 教育用にカスタマイズされている。
+          - [Edubuntu](../Page/Edubuntu.md "wikilink") : 教育用にカスタマイズされている。
 
           - [Elbuntu](https://ja.wikipedia.org/wiki/Elbuntu "wikilink") : [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")として[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")を採用している。
 
@@ -105,7 +105,7 @@
 
           - [Gobuntu](https://ja.wikipedia.org/wiki/Gobuntu "wikilink") : [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")のみを利用している。
 
-          - [Goobuntu](https://ja.wikipedia.org/wiki/Goobuntu "wikilink") : [Google](../Page/Google.md "wikilink")が社内で開発・利用しているとされている。非公開。\[4\]\[5\]
+          - [Goobuntu](../Page/Goobuntu.md "wikilink") : [Google](../Page/Google.md "wikilink")が社内で開発・利用しているとされている。非公開。\[4\]\[5\]
 
           - [Kubuntu](../Page/Kubuntu.md "wikilink") : デスクトップ環境として[KDE](../Page/KDE.md "wikilink")を採用している。
 
@@ -113,7 +113,7 @@
 
           - [linuxBean](https://ja.wikipedia.org/wiki/linuxBean "wikilink") : 軽量ながらも初心者向けのディストリビューション。
 
-          - [Linux Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink") : [MATEや](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")の採用でデザインやソフトウェア環境を改善し、[マルチメディア](../Page/マルチメディア.md "wikilink")関係の[コーデック](../Page/コーデック.md "wikilink")を充実させている。
+          - [Linux Mint](../Page/Linux_Mint.md "wikilink") : [MATEや](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")の採用でデザインやソフトウェア環境を改善し、[マルチメディア](../Page/マルチメディア.md "wikilink")関係の[コーデック](../Page/コーデック.md "wikilink")を充実させている。
 
               - [Peppermint](https://ja.wikipedia.org/wiki/Peppermint "wikilink") : [Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")を搭載している[軽量のディストリビューション](https://ja.wikipedia.org/wiki/軽量Linuxディストリビューション "wikilink")。[Webアプリとの連携も強い](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")。
 
@@ -135,7 +135,7 @@
 
           - [Ubuntu Pico](https://ja.wikipedia.org/wiki/Ubuntu_Pico "wikilink") : [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式の後継。さらに軽く、安定した環境を追い求める。
 
-          - [Ubuntu Studio](https://ja.wikipedia.org/wiki/Ubuntu_Studio "wikilink") : ハイエンドデスクトップ向け。デジタルコンテンツ制作ツールが多数プリインストールされている。[リアルタイムカーネルのパッチも当てられている](../Page/リアルタイムオペレーティングシステム.md "wikilink")。
+          - [Ubuntu Studio](../Page/Ubuntu_Studio.md "wikilink") : ハイエンドデスクトップ向け。デジタルコンテンツ制作ツールが多数プリインストールされている。[リアルタイムカーネルのパッチも当てられている](../Page/リアルタイムオペレーティングシステム.md "wikilink")。
 
           - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用している。
 
@@ -154,7 +154,7 @@
   - [BackTrack](https://ja.wikipedia.org/wiki/BackTrack "wikilink") : Debianベースであり、[Kali Linuxの前身](https://ja.wikipedia.org/wiki/Kali_Linux "wikilink")。ペネトレーションテスト目的に特化していることが特徴だった。
   - [CrunchBang Linux](https://ja.wikipedia.org/wiki/CrunchBang_Linux "wikilink") : ウィンドウマネージャとして[Openbox](https://ja.wikipedia.org/wiki/Openbox "wikilink")を採用している軽量ディストリビューション。
   - [Corel Linux](https://ja.wikipedia.org/wiki/Corel_Linux "wikilink")
-      - [Xandros](../Page/Xandros.md "wikilink") : Corel Linuxの後継。[Eee PCに搭載されていた](https://ja.wikipedia.org/wiki/Eee_PC "wikilink")。
+      - [Xandros](../Page/Xandros.md "wikilink") : Corel Linuxの後継。[Eee PCに搭載されていた](../Page/Eee_PC.md "wikilink")。
   - [Ecolinux](../Page/Ecolinux.md "wikilink") : デスクトップ環境として[Xfce](../Page/Xfce.md "wikilink")を採用した日本発のディストリビューション。
   - [Freespire](https://ja.wikipedia.org/wiki/Freespire "wikilink") : [Linspire](../Page/Linspire.md "wikilink")の無料版。CDブート/HDDインストール共可能。
   - [gOS](https://ja.wikipedia.org/wiki/gOS "wikilink") : Googleが提供するWebアプリケーションを活用できるように設定されている。
@@ -164,7 +164,7 @@
   - [Linspire](../Page/Linspire.md "wikilink") : [Windowsのような使い勝手を実現](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。旧称はLindows。
   - [MEPIS](../Page/MEPIS.md "wikilink") : 主にデスクトップ向け。CDブート/HDDインストール共可能。
   - [Progeny Debian](../Page/Progeny_Debian.md "wikilink") : Red HatのAnacondaインストーラを移植したGNU/Linux。
-  - [Fluxbuntu](https://ja.wikipedia.org/wiki/Fluxbuntu "wikilink") : Ubuntuベース。ウィンドウマネージャとして[Fluxbox](../Page/Fluxbox.md "wikilink")を採用している。
+  - [Fluxbuntu](../Page/Fluxbuntu.md "wikilink") : Ubuntuベース。ウィンドウマネージャとして[Fluxbox](../Page/Fluxbox.md "wikilink")を採用している。
   - [UserLinux](../Page/UserLinux.md "wikilink") : Debianベースの企業向けデスクトップ用GNU/Linux。
   - 巫女 GNYO/Linux : [openMosix](https://ja.wikipedia.org/wiki/openMosix "wikilink")と[SCore](https://ja.wikipedia.org/wiki/SCore "wikilink")を利用したPCクラスタが構築可能。CDブート/HDDインストール共可能。
 
@@ -224,7 +224,7 @@
 
   - [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink") : [パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")に[Pacman](https://ja.wikipedia.org/wiki/Pacman "wikilink")を使用。
       - [Antergos](https://ja.wikipedia.org/wiki/Antergos "wikilink") : Arch Linuxをベースに、GUIによるインストーラーであるCnchiを備えたもの。
-      - [AlterLinux](https://ja.wikipedia.org/wiki/AlterLinux "wikilink") : Arch Linux派生で初の完全日本語化されたもの。LXDE版、Xfce版、KDE版がある。
+      - [AlterLinux](../Page/AlterLinux.md "wikilink") : Arch Linux派生で初の完全日本語化されたもの。LXDE版、Xfce版、KDE版がある。
       - [Audiophile Linux](https://ja.wikipedia.org/wiki/Audiophile_Linux "wikilink")\[15\] - [Fluxbox](../Page/Fluxbox.md "wikilink")を採用した、[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")愛好家向けOS。
       - [Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink") : Arch Linuxをベースに、プリインストールされたデスクトップ環境、GUIによるインストーラー等を備えたもの。
       - [Parabola GNU/Linux-libre](https://ja.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink") : Arch Linuxからフリーでないソフトウェアを除去し、100%フリーなソフトウェアで構成されたもの。

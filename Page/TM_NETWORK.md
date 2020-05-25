@@ -333,7 +333,7 @@ TM NETWORKは小室をリーダーとする3人組の[音楽ユニット](../Pag
 
 :\* [3月24日](../Page/3月24日.md "wikilink") 10thアルバム『[NETWORK{{sup](https://ja.wikipedia.org/wiki/NETWORK_-Easy_Listening- "wikilink")』リリース。
 
-:\* [3月31日](../Page/3月31日.md "wikilink") 限定BOX『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』リリース。
+:\* [3月31日](../Page/3月31日.md "wikilink") 限定BOX『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』リリース。
 
 :\* [4月17日](../Page/4月17日.md "wikilink") [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[MUSIC FAIR](../Page/ミュージックフェア.md "wikilink")』に出演。同番組は当時の時点で放送41年目を迎えていたが、TM NETWORKがデビュー21年目にして満を持しての初出演となった。
 

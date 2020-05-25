@@ -550,7 +550,7 @@
 
 ## 番組テーマ曲
 
-  - オープニング：「Wish me luck」/ [オフラ・ハザ](https://ja.wikipedia.org/wiki/オフラ・ハザ "wikilink")
+  - オープニング：「Wish me luck」/ [オフラ・ハザ](../Page/オフラ・ハザ.md "wikilink")
   - エンディング：「[パーフェクト](https://ja.wikipedia.org/wiki/パーフェクト_\(フェアーグラウンド・アトラクションの曲\) "wikilink")」/ [フェアーグラウンド・アトラクション](../Page/フェアーグラウンド・アトラクション.md "wikilink")
 
 ## 関連番組

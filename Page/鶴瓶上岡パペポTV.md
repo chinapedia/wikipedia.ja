@@ -142,7 +142,7 @@
       - [I'LL BE THERE FOR YOU](../Page/アイル・ビー・ゼア・フォー・ユー.md "wikilink")（[THE REMBRANDTS](https://ja.wikipedia.org/wiki/ザ・レンブランツ "wikilink")）
   - 5代目セット時代（1996年1月 - 1997年9月）
     4代目セットをベースに、より派手な電飾を施したセット。机の上を模した舞台は変わらず、「TK」の文字の形をした電飾ミラー、アーチ状の建物、受話器を天井から吊り下げたピンク色の巨大な電話のセットなどを配置。PAPEPOの文字の形をした謎の生物6体がペンキを塗ったりこぼしたりしている様子などを表現していた。
-      - DUB-I-DUB（[Me\&My](https://ja.wikipedia.org/wiki/Me&My "wikilink")）
+      - DUB-I-DUB（[Me\&My](../Page/Me&My.md "wikilink")）
       - THE RIGHT TIME～ディスコバージョン（[ザ・コアーズ](https://ja.wikipedia.org/wiki/ザ・コアーズ "wikilink")）
       - LAST NIGHT（C.J.LEWIS）
       - SOONER OR LATER（THE GRASS ROOTS）

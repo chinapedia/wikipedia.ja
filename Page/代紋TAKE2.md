@@ -11,7 +11,7 @@
 
 ## 解説
 
-題名の「TAKE2」は映画などでの「2度目の撮り直し」にちなんでいる。[タイムスリップした](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")[ヤクザ](../Page/ヤクザ.md "wikilink")が人生をやり直すという、[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")（[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")）と[ヤクザ](../Page/ヤクザ.md "wikilink")ものを組み合わせた発想で人気となり、15年にわたっての長期連載となった。ヤングマガジンコミックス全62巻が刊行されており、データムック「代紋TAKE2 COMPLETE INDEX」も出版されている。
+題名の「TAKE2」は映画などでの「2度目の撮り直し」にちなんでいる。[タイムスリップした](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")[ヤクザ](../Page/ヤクザ.md "wikilink")が人生をやり直すという、[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")（[ループもの](../Page/ループもの.md "wikilink")）と[ヤクザ](../Page/ヤクザ.md "wikilink")ものを組み合わせた発想で人気となり、15年にわたっての長期連載となった。ヤングマガジンコミックス全62巻が刊行されており、データムック「代紋TAKE2 COMPLETE INDEX」も出版されている。
 
 単行本の巻頭には本編のカラーページのみならず、女優・アイドルなどのヌードから担当の私生活や作者両名の趣味・人間ドックなど、週刊誌の記事をモチーフとした様々な企画が掲載された。有名人のファンによるインタビューには[三沢光晴](../Page/三沢光晴.md "wikilink")、[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")、[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")らが名を連ねたこともある。
 

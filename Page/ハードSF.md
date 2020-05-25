@@ -97,14 +97,14 @@
 
 ### SF漫画家
 
-| 名前                                                    | 作品                                                                                                      |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [星野之宣](../Page/星野之宣.md "wikilink")                    | 『[2001夜物語](../Page/2001夜物語.md "wikilink")』、『コドク・エクスペリメント』等                                              |
-| [士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink") | 『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』、『ブラック・マジック』等                                                     |
-| [山下いくと](../Page/山下いくと.md "wikilink")                  | 『[ダークウィスパー](../Page/ダークウィスパー.md "wikilink")』                                                            |
-| [幸村誠](../Page/幸村誠.md "wikilink")                      | 『[プラネテス](../Page/プラネテス.md "wikilink")』                                                                  |
-| [的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")   | 『まっすぐ天へ』（[金子隆一原作](../Page/金子隆一_\(SF\).md "wikilink")）                                                   |
-| [弐瓶勉](../Page/弐瓶勉.md "wikilink")                      | 『[BLAME\!](https://ja.wikipedia.org/wiki/BLAME! "wikilink")』、『[BIOMEGA](../Page/BIOMEGA.md "wikilink")』 |
+| 名前                                                    | 作品                                                                                   |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [星野之宣](../Page/星野之宣.md "wikilink")                    | 『[2001夜物語](../Page/2001夜物語.md "wikilink")』、『コドク・エクスペリメント』等                           |
+| [士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink") | 『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』、『ブラック・マジック』等                                  |
+| [山下いくと](../Page/山下いくと.md "wikilink")                  | 『[ダークウィスパー](../Page/ダークウィスパー.md "wikilink")』                                         |
+| [幸村誠](../Page/幸村誠.md "wikilink")                      | 『[プラネテス](../Page/プラネテス.md "wikilink")』                                               |
+| [的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")   | 『まっすぐ天へ』（[金子隆一原作](../Page/金子隆一_\(SF\).md "wikilink")）                                |
+| [弐瓶勉](../Page/弐瓶勉.md "wikilink")                      | 『[BLAME\!](../Page/BLAME!.md "wikilink")』、『[BIOMEGA](../Page/BIOMEGA.md "wikilink")』 |
 
 ### SF評論
 

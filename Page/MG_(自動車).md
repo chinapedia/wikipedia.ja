@@ -73,7 +73,7 @@
 
 ### Rover
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") オースチン・ローバー・グループは、[ローバー公社](https://ja.wikipedia.org/wiki/ローバー・グループ "wikilink")(ROVER GROUP PLC)となる。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") オースチン・ローバー・グループは、[ローバー公社](../Page/ローバー・グループ.md "wikilink")(ROVER GROUP PLC)となる。
 
 [1988年](../Page/1988年.md "wikilink") ローバー公社は、[BAe](https://ja.wikipedia.org/wiki/BAe "wikilink")社(ブリティッシュ・エアロスペース)に払い下げられ、[ROVER Carsとなる](../Page/ローバー_\(自動車\).md "wikilink")。
 
@@ -83,7 +83,7 @@
 
 ### MG Rover
 
-[2000年](../Page/2000年.md "wikilink") BMW傘下にあった[ローバー・グループ](https://ja.wikipedia.org/wiki/ローバー・グループ "wikilink")の解体により、再び英国系資本により[MGローバー](../Page/MGローバー.md "wikilink")(MG Rover)社傘下の主要ブランドとなった。
+[2000年](../Page/2000年.md "wikilink") BMW傘下にあった[ローバー・グループ](../Page/ローバー・グループ.md "wikilink")の解体により、再び英国系資本により[MGローバー](../Page/MGローバー.md "wikilink")(MG Rover)社傘下の主要ブランドとなった。
 
 [2001年](../Page/2001年.md "wikilink") Rover25,45,75のMG版である、MG ZR,ZS,ZTを発売。
 

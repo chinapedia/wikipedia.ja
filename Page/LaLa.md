@@ -1,7 +1,7 @@
 > この記事は[LaLa](https://ja.wikipedia.org/wiki/LaLa)から翻訳されています。
 
 
-『**LaLa**』（ララ）は、[白泉社](../Page/白泉社.md "wikilink")の発行する[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")[雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。発売日は毎月24日（発行月の前々月）。
+『**LaLa**』（ララ）は、[白泉社](../Page/白泉社.md "wikilink")の発行する[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")[雑誌](../Page/漫画雑誌.md "wikilink")。発売日は毎月24日（発行月の前々月）。
 
 ## 概要
 
@@ -64,7 +64,7 @@
   - [かたつむり前線](https://ja.wikipedia.org/wiki/かたつむり前線 "wikilink")（[藤川佳世](https://ja.wikipedia.org/wiki/藤川佳世 "wikilink")）
   - [彼氏彼女の事情](../Page/彼氏彼女の事情.md "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
   - [輝夜姫](../Page/輝夜姫.md "wikilink")（[清水玲子](../Page/清水玲子.md "wikilink")）
-  - [火宵の月](https://ja.wikipedia.org/wiki/火宵の月 "wikilink")（平井摩利）
+  - [火宵の月](../Page/火宵の月.md "wikilink")（平井摩利）
   - [ガートルードのレシピ](../Page/ガートルードのレシピ.md "wikilink")（[草川為](../Page/草川為.md "wikilink")）
   - [キス](https://ja.wikipedia.org/wiki/キス_\(漫画\) "wikilink")（マツモトトモ）
   - [今日もみんな元気です](https://ja.wikipedia.org/wiki/今日もみんな元気です "wikilink")（[猫山宮緒](https://ja.wikipedia.org/wiki/猫山宮緒 "wikilink")）

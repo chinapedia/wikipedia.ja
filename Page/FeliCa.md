@@ -157,7 +157,7 @@ FACTAはゴシップ誌としての性質があり、この記事はソニー批
   - [RFID](../Page/RFID.md "wikilink")
   - [MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink") - 主に欧米で利用されている非接触ICカード通信規格
       - [taspo](https://ja.wikipedia.org/wiki/taspo "wikilink") - 日本で使われている[たばこ](../Page/たばこ.md "wikilink")の[自動販売機](../Page/自動販売機.md "wikilink")成人認証用カード
-  - [FeliCaポート](https://ja.wikipedia.org/wiki/FeliCaポート "wikilink")
+  - [FeliCaポート](../Page/FeliCaポート.md "wikilink")
       - [PaSoRi](../Page/PaSoRi.md "wikilink")
   - [TransferJet](https://ja.wikipedia.org/wiki/TransferJet "wikilink")
   - [ISO/IEC 18092 (Near Field Communication, NFC)](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink") - NFC Type Fとして規格化

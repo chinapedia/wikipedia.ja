@@ -354,7 +354,7 @@
 
   - [大島渚](../Page/大島渚.md "wikilink")（[映画監督](../Page/映画監督.md "wikilink")）
   - [崔洋一](../Page/崔洋一.md "wikilink")（映画監督）
-  - [江川達也](../Page/江川達也.md "wikilink")（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
+  - [江川達也](../Page/江川達也.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")）
   - [飯島愛](https://ja.wikipedia.org/wiki/飯島愛 "wikilink")（元[AV女優](../Page/AV女優.md "wikilink")・タレント）
   - [井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")（映画監督）
   - [林寛子](../Page/林寛子_\(タレント\).md "wikilink")（タレント）
@@ -652,7 +652,7 @@
   - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
   - [遠藤みやこ](../Page/遠藤みやこ.md "wikilink")
   - [キートン山田](../Page/キートン山田.md "wikilink")
-  - [中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+  - [中江真司](../Page/中江真司.md "wikilink")
   - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - [寺瀬今日子](../Page/寺瀬今日子.md "wikilink")
   - [松井菜桜子](../Page/松井菜桜子.md "wikilink")
@@ -715,7 +715,7 @@
   - ゼネラルプロデューサー：山下浩司（テレビ朝日、2009年7月 - 2010年3月）、藤井智久（テレビ朝日、2011年7月11日 - 2017年3月）
   - チーフプロデューサー：澤將晃（テレビ朝日、番組参加当初はディレクター→プロデューサー）、[山本隆司](../Page/山本隆司_\(テレビプロデューサー\).md "wikilink")（2013年7月1日まで、番組参加当初はプロデューサー）
   - プロデューサー：[皇達也](../Page/皇達也.md "wikilink")・[北村英一](https://ja.wikipedia.org/wiki/北村英一 "wikilink")・東卓夫・渡辺実・谷村幸治・加藤佳子（テレビ朝日、北村は後年は企画名義でクレジットされていた）、こもだ(薦田)義邦・日比野研・大熊一郎・菅井尚伸（オフィス・トゥー・ワン）、中島郁・惣部潔・井上和政・柳沼誉・田﨑裕之（ViViA、井上→2016年8月14日 - 2017年3月）、平出さとし、渡邉修一郎（MB）
-  - 構成：[関秀章](https://ja.wikipedia.org/wiki/関秀章 "wikilink")、関根清貴、[伊藤正宏](../Page/伊藤正宏.md "wikilink")、山本喜浩、腰山一生、大村たかゆき、藤沢めぐみ、橘秀徳、清水正人、[村上卓史](../Page/村上卓史.md "wikilink")、[水野しげゆき](https://ja.wikipedia.org/wiki/水野しげゆき "wikilink")、[おちまさと](../Page/おちまさと.md "wikilink")、[平岡秀章](https://ja.wikipedia.org/wiki/平岡秀章 "wikilink")、富樫佳織、[ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")、[川原慶太郎](https://ja.wikipedia.org/wiki/川原慶太郎 "wikilink")、橋克弘、藤原昭彦、吉村幹彦、オグロテツロウ、[堀田延](../Page/堀田延.md "wikilink")、須平敦宣、山際良樹、[北本かつら](../Page/北本かつら.md "wikilink")、町田裕章
+  - 構成：[関秀章](../Page/関秀章.md "wikilink")、関根清貴、[伊藤正宏](../Page/伊藤正宏.md "wikilink")、山本喜浩、腰山一生、大村たかゆき、藤沢めぐみ、橘秀徳、清水正人、[村上卓史](../Page/村上卓史.md "wikilink")、[水野しげゆき](https://ja.wikipedia.org/wiki/水野しげゆき "wikilink")、[おちまさと](../Page/おちまさと.md "wikilink")、[平岡秀章](https://ja.wikipedia.org/wiki/平岡秀章 "wikilink")、富樫佳織、[ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")、[川原慶太郎](https://ja.wikipedia.org/wiki/川原慶太郎 "wikilink")、橋克弘、藤原昭彦、吉村幹彦、オグロテツロウ、[堀田延](../Page/堀田延.md "wikilink")、須平敦宣、山際良樹、[北本かつら](../Page/北本かつら.md "wikilink")、町田裕章
   - 総合演出：中川圭一郎（オフィス・トゥー・ワン、以前はディレクター→プロデューサー）
   - 演出：滝川均（オフィス・トゥー・ワン）、安田真一郎（安田→2016年4月3日 - 2017年3月）
   - ディレクター：千葉啓一、本永巳樹、伊世憲造、新井三郎、小林浩司、野崎高伸、水落誠一、山下慎一郎、高橋伸治、鈴木章浩、中山剛、高砂佳典、阿部欣司、池山聡子、河島正三郎、中西恒夫、飯島政紀、塚本恭史、後藤直純、須田基之、海老澤和也、小松生子、細田和也、原卓也、坂内正人、辻野伸行、滝口佳祐（以前はAD）、黒田長憲、西山和利（以前はAP）、四戸美穂、閑和明、鷹中亮介／渡邊伸、後藤北斗（後藤 → 毎週担当）
@@ -1020,7 +1020,7 @@
   - [山梨県](../Page/山梨県.md "wikilink")：[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")（YBS）（[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）
   - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")：[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB）\[40\]→[富山テレビ](../Page/富山テレビ放送.md "wikilink")（BBT）（[フジテレビ系列](../Page/フジネットワーク.md "wikilink")）→（一旦中断、放映権移動）→[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）（TBS系列）
   - 石川県：[石川テレビ](../Page/石川テレビ放送.md "wikilink")（ITC）（フジテレビ系列。北陸朝日放送開局まで、未明帯に遅れ放送）
-  - [福井県](../Page/福井県.md "wikilink")：[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")（FBC）（日本テレビ系列\[41\]）
+  - [福井県](../Page/福井県.md "wikilink")：[福井放送](../Page/福井放送.md "wikilink")（FBC）（日本テレビ系列\[41\]）
   - [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")：[山陰中央テレビ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")（TSK）（フジテレビ系列）
   - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（JRT）（日本テレビ系列）
   - [宮崎県](../Page/宮崎県.md "wikilink")：[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）（TBS系列）

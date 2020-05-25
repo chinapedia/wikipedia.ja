@@ -5,7 +5,7 @@
 
 ## 概要
 
-[文法を極力単純化してコードの](https://ja.wikipedia.org/wiki/シンタックス "wikilink")[可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")を高め、読みやすく、また書きやすくして[プログラマ](../Page/プログラマ.md "wikilink")の作業性とコードの信頼性を高めることを重視してデザインされた、汎用の[高水準言語](../Page/高水準言語.md "wikilink")である。
+[文法を極力単純化してコードの](https://ja.wikipedia.org/wiki/シンタックス "wikilink")[可読性](../Page/可読性.md "wikilink")を高め、読みやすく、また書きやすくして[プログラマ](../Page/プログラマ.md "wikilink")の作業性とコードの信頼性を高めることを重視してデザインされた、汎用の[高水準言語](../Page/高水準言語.md "wikilink")である。
 
 核となる本体部分は必要最小限に抑えられている。一方で[標準ライブラリ](https://ja.wikipedia.org/wiki/標準ライブラリ "wikilink")やサードパーティ製のライブラリ、[関数など](../Page/サブルーチン.md "wikilink")、さまざまな領域に特化した豊富で大規模なツール群が用意され、インターネット上から無料で入手でき、自らの使用目的に応じて機能を拡張していくことができる。
 

@@ -72,7 +72,7 @@
   -
   - [統計学](../Page/統計学.md "wikilink")では、t統計量。[t検定](https://ja.wikipedia.org/wiki/t検定 "wikilink")参照。
 
-  - [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")の同位体[トリチウム](https://ja.wikipedia.org/wiki/トリチウム "wikilink")（三重水素）を表す。
+  - [水素](../Page/水素.md "wikilink")の同位体[トリチウム](https://ja.wikipedia.org/wiki/トリチウム "wikilink")（三重水素）を表す。
 
   - [磁束密度](../Page/磁束密度.md "wikilink")の[SI組立単位](../Page/SI組立単位.md "wikilink")[テスラ](../Page/テスラ_\(単位\).md "wikilink")
 

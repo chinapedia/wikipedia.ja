@@ -867,7 +867,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レクサムFC" title="wikilink">レクサム</a></p></td>
+<td><p><a href="../Page/レクサムFC.md" title="wikilink">レクサム</a></p></td>
 <td><p>2-0</p></td>
 <td><p>1-0</p></td>
 <td><p>'''3-0</p></td>

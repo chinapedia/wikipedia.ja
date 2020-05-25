@@ -202,7 +202,7 @@ macOSバージョン情報\[44\]
   - <span lang="th" xml:lang="th">ไทย</span>（[タイ語](../Page/タイ語.md "wikilink")）
   - <span lang="uk" xml:lang="uk">Українська</span>（[ウクライナ語](../Page/ウクライナ語.md "wikilink")）
 
-に搭載されている[{{en](../Page/Javaプラットフォーム.md "wikilink") のバージョン、及び[オラクルから直接提供されるバージョンの対応状況を記す](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")。
+に搭載されている[{{en](../Page/Javaプラットフォーム.md "wikilink") のバージョン、及び[オラクルから直接提供されるバージョンの対応状況を記す](../Page/オラクル_\(企業\).md "wikilink")。
 
 <table>
 <thead>

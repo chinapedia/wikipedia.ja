@@ -83,7 +83,7 @@
 （<a href="https://ja.wikipedia.org/wiki/林原めぐみ" title="wikilink">林原めぐみ</a>）</p></td>
 <td><p><a href="../Page/残酷な天使のテーゼ.md" title="wikilink">残酷な天使のテーゼ</a><br />
 （<a href="../Page/高橋洋子_(歌手).md" title="wikilink">高橋洋子</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/みみかきをしていると" title="wikilink">みみかきをしていると</a><br />
+<td><p><a href="../Page/みみかきをしていると.md" title="wikilink">みみかきをしていると</a><br />
 （<a href="../Page/國府田マリ子.md" title="wikilink">國府田マリ子</a>）</p></td>
 <td><p><a href="../Page/What&#39;s_Up_Guys?.md" title="wikilink">What's Up Guys?</a><br />
 （<a href="https://ja.wikipedia.org/wiki/古本新之輔" title="wikilink">古本新之輔</a>・林原めぐみ）</p></td>
@@ -118,7 +118,7 @@
 <td><p>1998年</p></td>
 <td><p><a href="../Page/〜infinity〜∞.md" title="wikilink">〜infinity〜∞</a><br />
 （林原めぐみ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Looking_For" title="wikilink">Looking For</a><br />
+<td><p><a href="../Page/Looking_For.md" title="wikilink">Looking For</a><br />
 （國府田マリ子）</p></td>
 <td><p><a href="../Page/A_HOUSE_CAT.md" title="wikilink">A HOUSE CAT</a><br />
 （林原めぐみ）</p></td>

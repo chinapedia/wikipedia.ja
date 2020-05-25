@@ -140,7 +140,7 @@ SH-Mobileをベースに[W-CDMA](../Page/W-CDMA.md "wikilink")および[GSM](htt
 
 ## オープンソース実装「J Core」
 
-2014年、SH-2関連の特許が期限切れとなるのに合わせ、[μClinux](https://ja.wikipedia.org/wiki/μClinux "wikilink")の初期開発者Jeff Dionneなどが[クリーンルーム設計](https://ja.wikipedia.org/wiki/クリーンルーム設計 "wikilink")で実装したもの。回路が[VHDL](../Page/VHDL.md "wikilink")で記述されており、BSDライセンスで公開されている。\[4\]\[5\]
+2014年、SH-2関連の特許が期限切れとなるのに合わせ、[μClinux](https://ja.wikipedia.org/wiki/μClinux "wikilink")の初期開発者Jeff Dionneなどが[クリーンルーム設計](../Page/クリーンルーム設計.md "wikilink")で実装したもの。回路が[VHDL](../Page/VHDL.md "wikilink")で記述されており、BSDライセンスで公開されている。\[4\]\[5\]
 
 ## 脚注
 

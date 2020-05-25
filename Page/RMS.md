@@ -6,7 +6,7 @@
 ## 数学・工学
 
   - [二乗平均平方根](../Page/二乗平均平方根.md "wikilink")（Root Mean Square） - 二乗した値の平均を求めその平方根を計算する。統計値や確率変数の散らばり具合を表す数値の一種。
-      - RMS粒状度（Root Mean Square granularity） - 写真フィルムなどの粒状性の評価方法の一種。→[粒状性](https://ja.wikipedia.org/wiki/粒状性 "wikilink")
+      - RMS粒状度（Root Mean Square granularity） - 写真フィルムなどの粒状性の評価方法の一種。→[粒状性](../Page/粒状性.md "wikilink")
   - [実効値](../Page/実効値.md "wikilink")（Root Mean Square value） - 電気工学における交流の電圧・電流の値を示す方法の一種。
   - RMSマウント - 顕微鏡の対物レンズマウント。下記の英国王立顕微鏡学会に由来する呼称である。→[レンズマウント\#マクロ写真用](https://ja.wikipedia.org/wiki/レンズマウント#マクロ写真用 "wikilink")
 

@@ -104,7 +104,7 @@
   - [UM1形](https://ja.wikipedia.org/wiki/国鉄UM1形コンテナ "wikilink")
   - [UM8A形](../Page/JR貨物UM8A形コンテナ.md "wikilink")
   - [UM8C形](https://ja.wikipedia.org/wiki/JR貨物UM8C形コンテナ "wikilink")
-  - [UM9A形](https://ja.wikipedia.org/wiki/JR貨物UM9A形コンテナ "wikilink")
+  - [UM9A形](../Page/JR貨物UM9A形コンテナ.md "wikilink")
 
 ##### 通風コンテナ
 

@@ -39,7 +39,7 @@
   - [グレート義太夫](../Page/グレート義太夫.md "wikilink")
   - [井手らっきょ](../Page/井手らっきょ.md "wikilink")
   - [水道橋博士](../Page/水道橋博士.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")）
-  - [ほたるゲンジ](https://ja.wikipedia.org/wiki/ほたるゲンジ "wikilink")（[無法松](../Page/無法松_\(お笑い芸人\).md "wikilink")、[桐畑トール](../Page/桐畑トール.md "wikilink")）
+  - [ほたるゲンジ](../Page/ほたるゲンジ.md "wikilink")（[無法松](../Page/無法松_\(お笑い芸人\).md "wikilink")、[桐畑トール](../Page/桐畑トール.md "wikilink")）
   - [ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")
   - [三又又三](../Page/三又又三.md "wikilink")
   - [赤P-MAN](https://ja.wikipedia.org/wiki/赤P-MAN "wikilink")

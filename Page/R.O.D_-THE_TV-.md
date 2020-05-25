@@ -268,7 +268,7 @@
 <td><p>橘秀樹、矢上孝一<br />
 枡田邦彰、下谷智之</p></td>
 <td><p><a href="../Page/リヒャルト・ワーグナー.md" title="wikilink">リヒャルト・ワーグナー</a>の楽劇<br />
-『<a href="../Page/ニーベルングの指環.md" title="wikilink">ニーベルングの指環</a>』より第3夜「<a href="https://ja.wikipedia.org/wiki/神々の黄昏_(楽劇)" title="wikilink">神々の黄昏</a>」</p></td>
+『<a href="../Page/ニーベルングの指環.md" title="wikilink">ニーベルングの指環</a>』より第3夜「<a href="../Page/神々の黄昏_(楽劇).md" title="wikilink">神々の黄昏</a>」</p></td>
 </tr>
 <tr class="odd">
 <td><p>第13話</p></td>

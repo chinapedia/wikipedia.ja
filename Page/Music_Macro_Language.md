@@ -87,7 +87,7 @@
 
   - [チップチューン](../Page/チップチューン.md "wikilink")
   - [N88-BASIC](../Page/N88-BASIC.md "wikilink")
-  - [ABC記譜法](https://ja.wikipedia.org/wiki/ABC記譜法 "wikilink")
+  - [ABC記譜法](../Page/ABC記譜法.md "wikilink")
   - [Ray (ソフトウェア)](../Page/Ray_\(ソフトウェア\).md "wikilink")
 
 ## 外部リンク

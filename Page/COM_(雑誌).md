@@ -1,7 +1,7 @@
 > この記事は[COM \(雑誌\)](https://ja.wikipedia.org/wiki/COM_\(雑誌\))から翻訳されています。
 
 
-『**COM**』（コム）は、[1967年](../Page/1967年.md "wikilink")から[1973年](../Page/1973年.md "wikilink")まで虫プロ商事から発刊された[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**COM**』（コム）は、[1967年](../Page/1967年.md "wikilink")から[1973年](../Page/1973年.md "wikilink")まで虫プロ商事から発刊された[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
 「COM」は、COMICS（まんが）, COMPANION（仲間・友だち）, COMMUNICATION（伝えること・報道）の略だという。発行は、1966年に[旧虫プロダクションから分離した虫プロ商事](https://ja.wikipedia.org/wiki/虫プロダクション#株式会社虫プロダクション（旧虫プロ） "wikilink")。
 

@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sean_Parker.jpg "wikilink")\]\] **Napster**（ナップスター）
 
-1.  [P2P技術を用いた](../Page/Peer_to_Peer.md "wikilink")、音楽の共有を主目的としたファイル共有サービス,またはその実施のために製作された[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")の名称。
+1.  [P2P技術を用いた](../Page/Peer_to_Peer.md "wikilink")、音楽の共有を主目的としたファイル共有サービス,またはその実施のために製作された[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")の名称。
 2.  1.により知名度が高まった[ブランド](../Page/ブランド.md "wikilink")を利用した[音楽配信](../Page/音楽配信.md "wikilink")サービスの名称。
 3.  1.および2.のサービスを提供する（またはしていた）企業。
 
@@ -34,7 +34,7 @@
 
 ## ファイル共有ソフト・サービスとしてのNapster
 
-P2Pの技術を利用した[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[ファイル共有サービス・ソフトの一つ](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")。[MP3](../Page/MP3.md "wikilink")などのファイルを[インターネット](../Page/インターネット.md "wikilink")に接続された[コンピュータ](../Page/コンピュータ.md "wikilink")間で共有することができた。
+P2Pの技術を利用した[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[ファイル共有サービス・ソフトの一つ](../Page/ファイル共有ソフト.md "wikilink")。[MP3](../Page/MP3.md "wikilink")などのファイルを[インターネット](../Page/インターネット.md "wikilink")に接続された[コンピュータ](../Page/コンピュータ.md "wikilink")間で共有することができた。
 
 ### はじまり
 

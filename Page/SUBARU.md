@@ -156,7 +156,7 @@
       - [T-3初等練習機](../Page/T-3_\(練習機\).md "wikilink")（国内開発）
       - [T-5初等練習機](../Page/T-5_\(練習機\).md "wikilink")（国内開発）
       - [T-7初等練習機](../Page/T-7_\(練習機\).md "wikilink")（国内開発）
-  - [L-19E連絡機](https://ja.wikipedia.org/wiki/O-1_\(航空機\) "wikilink")（[セスナ](../Page/セスナ.md "wikilink")）
+  - [L-19E連絡機](../Page/O-1_\(航空機\).md "wikilink")（[セスナ](../Page/セスナ.md "wikilink")）
   - [UH-1B/H/J](../Page/UH-1_\(航空機\).md "wikilink") 多用途ヘリコプター（[ベル・エアクラフト](../Page/ベル・エアクラフト.md "wikilink")）
   - [AH-1S対戦車ヘリコプター](../Page/AH-1_コブラ.md "wikilink")（ベル・エアクラフト）
   - [AH-64D戦闘ヘリコプター](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ "wikilink")（[ボーイング](../Page/ボーイング.md "wikilink")）
@@ -194,7 +194,7 @@
   - [エアバスA380](../Page/エアバスA380.md "wikilink")（垂直尾翼構造）
   - [ホーカー](../Page/ホーカー.md "wikilink") ホライゾン M4000（主翼構造およびシステム開発）
   - [アグスタウェストランド](../Page/アグスタウェストランド.md "wikilink") [AW609](../Page/AW609_\(航空機\).md "wikilink") [ティルトローター](../Page/ティルトローター.md "wikilink")機（胴体構造開発）
-  - [エクリプス・アビエーション](https://ja.wikipedia.org/wiki/エクリプス_\(航空機メーカー\) "wikilink") [エクリプス 500](https://ja.wikipedia.org/wiki/エクリプス_500 "wikilink")（主翼）
+  - [エクリプス・アビエーション](https://ja.wikipedia.org/wiki/エクリプス_\(航空機メーカー\) "wikilink") [エクリプス 500](../Page/エクリプス_500.md "wikilink")（主翼）
   - [ボンバルディア](../Page/ボンバルディア.md "wikilink")[DASH-8](../Page/デ・ハビランド・カナダ_DHC-8.md "wikilink")
 
 ##### ライセンス生産

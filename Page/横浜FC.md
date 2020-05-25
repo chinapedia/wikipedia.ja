@@ -137,7 +137,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 
 一方、放出選手は、[森本良](https://ja.wikipedia.org/wiki/森本良 "wikilink")を[相模原](../Page/SC相模原.md "wikilink")、[井手口正昭](https://ja.wikipedia.org/wiki/井手口正昭 "wikilink")を[横浜FC香港](https://ja.wikipedia.org/wiki/夢想駿其足球會 "wikilink")、[中里崇宏](https://ja.wikipedia.org/wiki/中里崇宏 "wikilink")を水戸、[大久保哲哉](../Page/大久保哲哉.md "wikilink")が栃木SCへ、[青木翔大](https://ja.wikipedia.org/wiki/青木翔大 "wikilink")が[琉球へそれぞれレンタル移籍した](../Page/FC琉球.md "wikilink")。その他、[永井雄一郎](../Page/永井雄一郎.md "wikilink")が契約満了で退団し、[柴崎貴広](../Page/柴崎貴広.md "wikilink")が東京V、パトリックがパルメイラスでそれぞれレンタル期間終了で退団。また、[森下俊](../Page/森下俊.md "wikilink")は、レンタル期間終了後、所属元の[川崎から](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")[磐田へ移籍](../Page/ジュビロ磐田.md "wikilink")。その他、完全移籍組は、[シュナイダー潤之介](../Page/シュナイダー潤之介.md "wikilink")を[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")、[ペ・スンジン](https://ja.wikipedia.org/wiki/ペ・スンジン "wikilink")を韓国の[仁川](https://ja.wikipedia.org/wiki/仁川ユナイテッド "wikilink")、[高地系治](../Page/高地系治.md "wikilink")を岐阜、[武岡優斗](https://ja.wikipedia.org/wiki/武岡優斗 "wikilink")を川崎、[田原豊](../Page/田原豊.md "wikilink")がタイの[サムットソンクラームFC](https://ja.wikipedia.org/wiki/サムットソンクラームFC "wikilink")へ移籍した。
 
-開幕から4試合連続無敗で4位に浮上するものの、その後は5試合連続未勝利で18位まで順位を下げた。5試合連続未勝利の直後の第10節のアウェーの[讃岐に勝利した後](../Page/カマタマーレ讃岐.md "wikilink")、第11節から再び5試合連続未勝利（4連敗と1分）で15節終了後には20位へ転落した。その後巻き返して、第18節から15試合連続負けなしで8位に上昇し、第4節以来およそ17節ぶりに1桁順位となった。しかし、その直後の第32節の長崎に敗れ、そこから、再び5試合連続未勝利。13位へ後退した。第40節の[岡山との対戦で](../Page/ファジアーノ岡山FC.md "wikilink")0-2で敗れて、プレーオフ進出の可能性が消滅（7位以下が確定）。最終順位は昨年(2013年)と同じく11位で終了。シーズン終了後、山口が契約満了で2015年の契約を更新しないこととなった。11月27日にスタッフの鄭容臺、芝田貴臣、中村亮太、12月1日には[西嶋弘之](../Page/西嶋弘之.md "wikilink")の契約満了を発表した。天皇杯では初戦で[富山に敗れた](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")。
+開幕から4試合連続無敗で4位に浮上するものの、その後は5試合連続未勝利で18位まで順位を下げた。5試合連続未勝利の直後の第10節のアウェーの[讃岐に勝利した後](../Page/カマタマーレ讃岐.md "wikilink")、第11節から再び5試合連続未勝利（4連敗と1分）で15節終了後には20位へ転落した。その後巻き返して、第18節から15試合連続負けなしで8位に上昇し、第4節以来およそ17節ぶりに1桁順位となった。しかし、その直後の第32節の長崎に敗れ、そこから、再び5試合連続未勝利。13位へ後退した。第40節の[岡山との対戦で](../Page/ファジアーノ岡山FC.md "wikilink")0-2で敗れて、プレーオフ進出の可能性が消滅（7位以下が確定）。最終順位は昨年(2013年)と同じく11位で終了。シーズン終了後、山口が契約満了で2015年の契約を更新しないこととなった。11月27日にスタッフの鄭容臺、芝田貴臣、中村亮太、12月1日には[西嶋弘之](../Page/西嶋弘之.md "wikilink")の契約満了を発表した。天皇杯では初戦で[富山に敗れた](../Page/カターレ富山.md "wikilink")。
 
   - 2015年
     キャッチフレーズ：「**Fight TOGETHER**」
@@ -399,7 +399,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 <td></td>
 <td><p>2019年 - 同年7月<br />
 2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カターレ富山" title="wikilink">カターレ富山</a></p></td>
+<td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a></p></td>
 <td><p>再加入<br />
 期限付き移籍より復帰</p></td>
 <td></td>

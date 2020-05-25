@@ -50,7 +50,7 @@
   - 大分東：15ch　1W　[2007年](../Page/2007年.md "wikilink")（平成19年）9月開局 （[横江山](https://ja.wikipedia.org/wiki/横江山 "wikilink")）
   - 玖珠：15ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）12月開局　（崩平山）
   - 中津：15ch　40W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月開局　（[八面山](../Page/八面山_\(大分県\).md "wikilink")）
-  - [三重](https://ja.wikipedia.org/wiki/三重中継局_\(大分県\) "wikilink")：17ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）12月開局　（佩楯山）
+  - [三重](../Page/三重中継局_\(大分県\).md "wikilink")：17ch　10W　[2007年](../Page/2007年.md "wikilink")（平成19年）12月開局　（佩楯山）
   - 日田：15ch　 3W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）7月開局　（尾当山）
   - 佐伯：15ch 10W　[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）12月開局　（波越山）
 

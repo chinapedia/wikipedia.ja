@@ -1028,7 +1028,7 @@
   - 財部ビジネス研究所
   - [吉澤ひとみの「トレンド+よっすぃーナビ」](https://ja.wikipedia.org/wiki/吉澤ひとみの「トレンド+よっすぃーナビ」 "wikilink")
   - 手わざ恋々 和美巡り 〜檀れい 名匠の里紀行〜
-  - [アイビス](https://ja.wikipedia.org/wiki/ホテルアイビス六本木 "wikilink") presents That's 子育テイメントTV\!
+  - [アイビス](../Page/ホテルアイビス六本木.md "wikilink") presents That's 子育テイメントTV\!
   - [日本100巡礼 思いの道 願いの道](https://ja.wikipedia.org/wiki/日本100巡礼_思いの道_願いの道 "wikilink")
   - 10の休日
   - パリで逢いましょう

@@ -3,7 +3,7 @@
 
 **Apache HTTP Server**（アパッチ エイチティーティーピー サーバ）は、世界中でもっとも多く使われている[Webサーバ](../Page/Webサーバ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")であり、大規模な商用サイトから[自宅サーバ](../Page/自宅サーバ.md "wikilink")まで幅広く利用されている。単に**Apache**とも称されている。
 
-開発は、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")のApache HTTPサーバプロジェクトで行われている。[Apache Licenseの下で](https://ja.wikipedia.org/wiki/Apache_License "wikilink")[ソースコード](../Page/ソースコード.md "wikilink")が公開および配布されており、代表的な[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")の一つである。
+開発は、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")のApache HTTPサーバプロジェクトで行われている。[Apache Licenseの下で](../Page/Apache_License.md "wikilink")[ソースコード](../Page/ソースコード.md "wikilink")が公開および配布されており、代表的な[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")の一つである。
 
 ## 歴史
 

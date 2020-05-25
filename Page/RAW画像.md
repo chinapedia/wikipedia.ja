@@ -91,7 +91,7 @@ RAW画像はカメラによって異なるRGB配列の画素を持っている (
 
 ### ノイズ削減 (NR)
 
-ノイズには、[ポアソン分布](../Page/ポアソン分布.md "wikilink")のフォトンショットノイズ ([ショット雑音](../Page/ショット雑音.md "wikilink"))と、[ガウス分布の暗電流ノイズや読み出しノイズ](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、[一様分布](https://ja.wikipedia.org/wiki/一様分布 "wikilink")に近い量子化ノイズ ([量子化誤差](../Page/量子化誤差.md "wikilink"))が存在する\[26\]。ノイズの特性はカメラ及びISO感度ごとに異なるため、それぞれのノイズプロファイルの用意されているソフトウェアが存在する (Darktable\[27\]など)。
+ノイズには、[ポアソン分布](../Page/ポアソン分布.md "wikilink")のフォトンショットノイズ ([ショット雑音](../Page/ショット雑音.md "wikilink"))と、[ガウス分布の暗電流ノイズや読み出しノイズ](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、[一様分布](../Page/一様分布.md "wikilink")に近い量子化ノイズ ([量子化誤差](../Page/量子化誤差.md "wikilink"))が存在する\[26\]。ノイズの特性はカメラ及びISO感度ごとに異なるため、それぞれのノイズプロファイルの用意されているソフトウェアが存在する (Darktable\[27\]など)。
 
 暗電流ノイズは[ダークフレーム減算によっても補正することができる](https://ja.wikipedia.org/wiki/ダーク補正 "wikilink")。
 

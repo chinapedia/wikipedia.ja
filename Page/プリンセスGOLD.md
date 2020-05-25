@@ -1,7 +1,7 @@
 > この記事は[プリンセスGOLD](https://ja.wikipedia.org/wiki/プリンセスGOLD)から翻訳されています。
 
 
-『**プリンセスGOLD**』（**プリンセスゴールド**）は、[秋田書店](../Page/秋田書店.md "wikilink")が発行していた女性向け月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**プリンセスGOLD**』（**プリンセスゴールド**）は、[秋田書店](../Page/秋田書店.md "wikilink")が発行していた女性向け月刊[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
 ## 概要
 
@@ -63,7 +63,7 @@
   - [夢見るゴシックシリーズ](https://ja.wikipedia.org/wiki/夢見るゴシックシリーズ "wikilink")、[杖と翼 番外編](https://ja.wikipedia.org/wiki/杖と翼_番外編 "wikilink")、[白妖の娘](https://ja.wikipedia.org/wiki/白妖の娘 "wikilink")（※ミステリーボニータに移籍）（[木原敏江](../Page/木原敏江.md "wikilink")）
   - [伯爵令嬢と従者の不適切な関係](https://ja.wikipedia.org/wiki/伯爵令嬢と従者の不適切な関係 "wikilink")（[くせつきこ](https://ja.wikipedia.org/wiki/くせつきこ "wikilink")）
   - [COLD RUSH](https://ja.wikipedia.org/wiki/COLD_RUSH "wikilink")（原作：[米原秀幸](../Page/米原秀幸.md "wikilink")）（[くまだゆか](https://ja.wikipedia.org/wiki/くまだゆか "wikilink")）
-  - [ローラカイザー](https://ja.wikipedia.org/wiki/ローラカイザー "wikilink")（[高河ゆん](../Page/高河ゆん.md "wikilink")）
+  - [ローラカイザー](../Page/ローラカイザー.md "wikilink")（[高河ゆん](../Page/高河ゆん.md "wikilink")）
   - [我おもう、ゆえにネコあり](https://ja.wikipedia.org/wiki/我おもう、ゆえにネコあり "wikilink")（[後藤星](https://ja.wikipedia.org/wiki/後藤星 "wikilink")）
 
 ### 作者名さ行

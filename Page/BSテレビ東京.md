@@ -491,7 +491,7 @@
 司会：<a href="../Page/薬丸裕英.md" title="wikilink">薬丸裕英</a>、<a href="../Page/香坂みゆき.md" title="wikilink">香坂みゆき</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/THE名門校_日本全国すごい学校名鑑" title="wikilink">THE名門校 日本全国すごい学校名鑑</a></p></td>
+<td><p><a href="../Page/THE名門校_日本全国すごい学校名鑑.md" title="wikilink">THE名門校 日本全国すごい学校名鑑</a></p></td>
 <td><p>日曜 21:00 - 21:54</p></td>
 <td><p>2020年4月19日スタート</p></td>
 </tr>
@@ -989,7 +989,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
   - ディスカバリーアース
   - でじたる[テレタビーズ](../Page/テレタビーズ.md "wikilink")
   - [天下統一CG将軍](../Page/天下統一CG将軍.md "wikilink")
-  - [トゥールビヨン〜時の仕掛人〜](https://ja.wikipedia.org/wiki/トゥールビヨン〜時の仕掛人〜 "wikilink")
+  - [トゥールビヨン〜時の仕掛人〜](../Page/トゥールビヨン〜時の仕掛人〜.md "wikilink")
   - 熱中人生\!ミドルからの挑戦〜熱中トーク\!元気人の発想
   - ミッドライフTV
   - ムンクを奪還せよ\!「叫び」回収までの84日 囮捜査官チャーリー・ヒルの挑戦\!（2007年、民放連賞・ATP賞受賞）
@@ -1146,7 +1146,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
   - [人間交差点](../Page/人間交差点.md "wikilink")
   - [高橋留美子劇場](../Page/高橋留美子劇場.md "wikilink")
   - [高橋留美子劇場 人魚の森](https://ja.wikipedia.org/wiki/高橋留美子劇場_人魚の森 "wikilink")
-  - [モンキーターン](https://ja.wikipedia.org/wiki/モンキーターン "wikilink")
+  - [モンキーターン](../Page/モンキーターン.md "wikilink")
   - [モンキーターンV](https://ja.wikipedia.org/wiki/モンキーターンV "wikilink")
   - [ギャラリーフェイク](../Page/ギャラリーフェイク.md "wikilink")
   - [鉄人28号 (2004年版アニメ)](../Page/鉄人28号_\(2004年版アニメ\).md "wikilink")(本放送終了後に平日朝に二ヶ月かけて放送)

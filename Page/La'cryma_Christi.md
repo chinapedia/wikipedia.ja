@@ -62,9 +62,9 @@
 
 ヴォーカリストのTAKAはハイトーンが持ち味だが、それはハイトーンのヴォーカリストを中心にコピーしていたことと、ギターのHIROがミドルの強い音なのでハイトーンを出さないとヴォーカルが通らなくなる、という２つの要因があると述べている\[11\]。憧れのヴォーカリストには、[ジム・モリソン](../Page/ジム・モリソン.md "wikilink")、[ジャニス・ジョプリン](../Page/ジャニス・ジョプリン.md "wikilink")、[ロバート・プラント](../Page/ロバート・プラント.md "wikilink")、[オーティス・レディング](../Page/オーティス・レディング.md "wikilink")をあげている\[12\]。
 
-ベーシストのSHUSEが初めて聞いた洋楽は[スティクスの](../Page/スティクス_\(バンド\).md "wikilink")「[ミスター・ロボット](https://ja.wikipedia.org/wiki/ミスター・ロボット "wikilink")」であり、中学1年生の時のことであった\[13\]。爾来、レンタルレコード屋に通い詰め、[ポリスの](../Page/ポリス_\(バンド\).md "wikilink")『[シンクロニシティー](../Page/シンクロニシティー_\(アルバム\).md "wikilink")』、[TOTOの](../Page/TOTO_\(バンド\).md "wikilink")『[IV](../Page/聖なる剣.md "wikilink")』、[カルチャー・クラブ](../Page/カルチャー・クラブ.md "wikilink")の『[カラー・バイ・ナンバーズ](https://ja.wikipedia.org/wiki/カラー・バイ・ナンバーズ "wikilink")』、[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")の『[リオ](https://ja.wikipedia.org/wiki/:w:Rio_\(Duran_Duran_album\) "wikilink")』などを聴きあさり、初めて自分のお金で[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")の『[パイプス・オブ・ピース](../Page/パイプス・オブ・ピース.md "wikilink")』を購入する\[14\]。他には[ハードロック](../Page/ハードロック.md "wikilink")や[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")ばかり聞いていたとのこと\[15\]。Viciousのコンピレーションアルバムでは[SPANDAU BALLET](../Page/スパンダー・バレエ.md "wikilink")、[MANSUNの楽曲を選んでいる](../Page/マンサン.md "wikilink")\[16\]。他に影響を受けたアーティストとして[ビートルズ](../Page/ビートルズ.md "wikilink")、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[U2](../Page/U2.md "wikilink")を挙げているほか、[フー・ファイターズ](../Page/フー・ファイターズ.md "wikilink")、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")、[ジェリーフィッシュ](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")、[キッス](../Page/キッス.md "wikilink")も好きなアーティストとしている\[17\]。
+ベーシストのSHUSEが初めて聞いた洋楽は[スティクスの](../Page/スティクス_\(バンド\).md "wikilink")「[ミスター・ロボット](https://ja.wikipedia.org/wiki/ミスター・ロボット "wikilink")」であり、中学1年生の時のことであった\[13\]。爾来、レンタルレコード屋に通い詰め、[ポリスの](../Page/ポリス_\(バンド\).md "wikilink")『[シンクロニシティー](../Page/シンクロニシティー_\(アルバム\).md "wikilink")』、[TOTOの](../Page/TOTO_\(バンド\).md "wikilink")『[IV](../Page/聖なる剣.md "wikilink")』、[カルチャー・クラブ](../Page/カルチャー・クラブ.md "wikilink")の『[カラー・バイ・ナンバーズ](https://ja.wikipedia.org/wiki/カラー・バイ・ナンバーズ "wikilink")』、[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")の『[リオ](https://ja.wikipedia.org/wiki/:w:Rio_\(Duran_Duran_album\) "wikilink")』などを聴きあさり、初めて自分のお金で[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")の『[パイプス・オブ・ピース](../Page/パイプス・オブ・ピース.md "wikilink")』を購入する\[14\]。他には[ハードロック](../Page/ハードロック.md "wikilink")や[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")ばかり聞いていたとのこと\[15\]。Viciousのコンピレーションアルバムでは[SPANDAU BALLET](../Page/スパンダー・バレエ.md "wikilink")、[MANSUNの楽曲を選んでいる](../Page/マンサン.md "wikilink")\[16\]。他に影響を受けたアーティストとして[ビートルズ](../Page/ビートルズ.md "wikilink")、[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[U2](../Page/U2.md "wikilink")を挙げているほか、[フー・ファイターズ](../Page/フー・ファイターズ.md "wikilink")、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")、[ジェリーフィッシュ](../Page/ジェリーフィッシュ_\(バンド\).md "wikilink")、[キッス](../Page/キッス.md "wikilink")も好きなアーティストとしている\[17\]。
 
-ギターのHIROは[DEAD ENDを好きなバンドにあげている](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")\[18\]。
+ギターのHIROは[DEAD ENDを好きなバンドにあげている](../Page/DEAD_END_\(バンド\).md "wikilink")\[18\]。
 
 ギターのKOJIは[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")が好きなバンドとのこと\[19\]。また、[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")の作った[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")の曲と[HOUND DOGをきっかけにして音楽に興味を持ち](../Page/HOUND_DOG.md "wikilink")、[デイヴ・リー・ロス・バンドと](../Page/デイヴィッド・リー・ロス.md "wikilink")[LOUDNESS](../Page/LOUDNESS.md "wikilink")がきっかけでギターを始めたという\[20\]。
 
@@ -396,14 +396,14 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1997年11月12日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Sculpture_of_Time" title="wikilink">Sculpture of Time</a></strong></p></td>
+<td><p><strong><a href="../Page/Sculpture_of_Time.md" title="wikilink">Sculpture of Time</a></strong></p></td>
 <td><p>POCH-1657</p></td>
 <td><p>8位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1998年11月25日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Lhasa_(アルバム)" title="wikilink">Lhasa</a></strong></p></td>
+<td><p><strong><a href="../Page/Lhasa_(アルバム).md" title="wikilink">Lhasa</a></strong></p></td>
 <td><p>POCH-1741</p></td>
 <td><p>8位</p></td>
 </tr>
@@ -417,14 +417,14 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2002年3月6日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/&amp;・U" title="wikilink">&amp;・U</a></strong></p></td>
+<td><p><strong><a href="../Page/&amp;・U.md" title="wikilink">&amp;・U</a></strong></p></td>
 <td><p>UPCH-1141</p></td>
 <td><p>36位</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2003年11月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEP_SPACE_SYNDICATE" title="wikilink">DEEP SPACE SYNDICATE</a></strong></p></td>
+<td><p><strong><a href="../Page/DEEP_SPACE_SYNDICATE.md" title="wikilink">DEEP SPACE SYNDICATE</a></strong></p></td>
 <td><p>UMCE-8001</p></td>
 <td><p>42位</p></td>
 </tr>
@@ -462,14 +462,14 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2000年6月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Single_Collection_(La&#39;cryma_Christiのアルバム)" title="wikilink">Single Collection</a></strong></p></td>
+<td><p><strong><a href="../Page/Single_Collection_(La&#39;cryma_Christiのアルバム).md" title="wikilink">Single Collection</a></strong></p></td>
 <td><p>POCH-1995</p></td>
 <td><p>9位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2004年9月8日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GREATEST-HITS" title="wikilink">GREATEST-HITS</a></strong></p></td>
+<td><p><strong><a href="../Page/GREATEST-HITS.md" title="wikilink">GREATEST-HITS</a></strong></p></td>
 <td><p>SPECIAL初回盤：UMCE-9800<br />
 通常盤：UMCE-8004</p></td>
 <td><p>66位</p></td>

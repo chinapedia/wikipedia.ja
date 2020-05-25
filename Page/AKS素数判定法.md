@@ -13,7 +13,7 @@ AKS素数判定法は[2002年](../Page/2002年.md "wikilink")[8月6日](../Page/
 
 AKS素数判定法は、ある意味では[フェルマーテストの改良と見ることができる](https://ja.wikipedia.org/wiki/フェルマーの小定理#フェルマーテスト "wikilink")。
 
-[フェルマーの小定理](../Page/フェルマーの小定理.md "wikilink")の[対偶である次のような命題を考える](https://ja.wikipedia.org/wiki/対偶_\(論理学\) "wikilink")。
+[フェルマーの小定理](../Page/フェルマーの小定理.md "wikilink")の[対偶である次のような命題を考える](../Page/対偶_\(論理学\).md "wikilink")。
 
   -
     \(a\), \(n\) が[互いに素](../Page/互いに素.md "wikilink")な[自然数](../Page/自然数.md "wikilink")であるとする。

@@ -13,7 +13,7 @@
 
 Java EE自体は仕様であるため、各社・各組織がライセンスを受け実装している。オープンソースのものからプロプライエタリなもの、無償のものや有償のものなど選択肢が多い。
 
-Java EEの権利は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")を買収した[オラクルが保有してきたが](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、同社は2017年にJava EEを[Eclipse Foundationに寄贈して](../Page/Eclipse_Foundation.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")化をすることを発表。Java EEの商標については引き続きオラクルが保有するため、Java EE 9以後は**Jakarta EE**の名で開発が進められる事が発表された。\[1\]
+Java EEの権利は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")を買収した[オラクルが保有してきたが](../Page/オラクル_\(企業\).md "wikilink")、同社は2017年にJava EEを[Eclipse Foundationに寄贈して](../Page/Eclipse_Foundation.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")化をすることを発表。Java EEの商標については引き続きオラクルが保有するため、Java EE 9以後は**Jakarta EE**の名で開発が進められる事が発表された。\[1\]
 
 ## 歴史
 
@@ -124,7 +124,7 @@ Resourceパッケージでは、 (JCA) APIが定義されている。JCAは[Ente
 
 ## Java EEの実装
 
-Java EEの機能を用いた[アプリケーションを動作させるには](../Page/アプリケーションソフトウェア.md "wikilink")、Java EEの仕様を実装した実行環境や[ライブラリ](../Page/ライブラリ.md "wikilink")が必要である。Java EE SDKには、Java EEに準拠した[オープンソース](../Page/オープンソース.md "wikilink")の[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")である[GlassFish Open Source Editionが同梱されている](https://ja.wikipedia.org/wiki/GlassFish "wikilink")。GlassFish 4.0はJava EE 7の[参照実装である](../Page/リファレンス実装.md "wikilink")。[NetBeans](../Page/NetBeans.md "wikilink")や[EclipseといったJava開発ツールの多くもJava](../Page/Eclipse_\(統合開発環境\).md "wikilink") EEに対応している。
+Java EEの機能を用いた[アプリケーションを動作させるには](../Page/アプリケーションソフトウェア.md "wikilink")、Java EEの仕様を実装した実行環境や[ライブラリ](../Page/ライブラリ.md "wikilink")が必要である。Java EE SDKには、Java EEに準拠した[オープンソース](../Page/オープンソース.md "wikilink")の[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")である[GlassFish Open Source Editionが同梱されている](../Page/GlassFish.md "wikilink")。GlassFish 4.0はJava EE 7の[参照実装である](../Page/リファレンス実装.md "wikilink")。[NetBeans](../Page/NetBeans.md "wikilink")や[EclipseといったJava開発ツールの多くもJava](../Page/Eclipse_\(統合開発環境\).md "wikilink") EEに対応している。
 
 以下に、Java EEに準拠した主なアプリケーションサーバを示す。表のバージョン番号は、該当するJava EE仕様に対応したバージョンを表している。
 
@@ -145,7 +145,7 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GlassFish" title="wikilink">GlassFish</a> server Open Source Edition</p></td>
+<td><p><a href="../Page/GlassFish.md" title="wikilink">GlassFish</a> server Open Source Edition</p></td>
 <td><p>v5.x</p></td>
 <td><p>v4.x [2]</p></td>
 <td><p>v3.x [3]</p></td>
@@ -170,8 +170,8 @@ Java EEの機能を用いた[アプリケーションを動作させるには](.
 <td></td>
 <td><p>v3[5]</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GlassFish" title="wikilink">Sun Java System Application Server</a> v9.0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GlassFish" title="wikilink">Sun Java System Application Server</a> v8.2</p></td>
+<td><p><a href="../Page/GlassFish.md" title="wikilink">Sun Java System Application Server</a> v9.0</p></td>
+<td><p><a href="../Page/GlassFish.md" title="wikilink">Sun Java System Application Server</a> v8.2</p></td>
 <td><p><br />
 （OSS版を元とする）</p></td>
 </tr>

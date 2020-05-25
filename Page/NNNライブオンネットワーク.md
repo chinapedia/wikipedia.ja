@@ -63,7 +63,7 @@
 <td><p><small></p>
 <ul>
 <li><sup>1</sup>　『<a href="../Page/NNNニュースプラス1.md" title="wikilink">NNNニュースプラス1</a>』（井田は土曜）も続投。</li>
-<li><sup>2</sup>　『<a href="https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム" title="wikilink">NNN Newsリアルタイム</a>』→『<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news every.</a>』も続投。</li>
+<li><sup>2</sup>　『<a href="../Page/NNN_Newsリアルタイム.md" title="wikilink">NNN Newsリアルタイム</a>』→『<a href="https://ja.wikipedia.org/wiki/news_every." title="wikilink">news every.</a>』も続投。</li>
 <li><sup>3</sup>　『<a href="../Page/NNN_JUST_NEWS.md" title="wikilink">NNN JUST NEWS</a>』→『<a href="../Page/NNN6:30きょうのニュース.md" title="wikilink">NNN6:30きょうのニュース</a>』から続投。『<a href="../Page/NNN日曜夕刊.md" title="wikilink">NNN日曜夕刊</a>』を兼務。</li>
 <li><sup>4</sup>　週末の『<a href="../Page/NNN昼のニュース.md" title="wikilink">NNN昼のニュース</a>』を兼務。</li>
 <li><sup>5</sup>　本多は、1988年3月26日を持って降板。4月2日のみ、<a href="../Page/芦沢俊美.md" title="wikilink">芦沢俊美</a>が担当。</li>
@@ -90,7 +90,7 @@
   - SDT [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") - [NNN Todayしずおか](../Page/NNN_Todayしずおか.md "wikilink")
   - CTV [中京テレビ](../Page/中京テレビ放送.md "wikilink") - [NNN中京TODAY](../Page/中京TODAY.md "wikilink")
   - KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - [KNBチャンネル1](https://ja.wikipedia.org/wiki/チャンネル1 "wikilink")
-  - FBC [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink") - [TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink")
+  - FBC [福井放送](../Page/福井放送.md "wikilink") - [TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink")
   - YTV [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink") - [NNNニュースワイドTODAY](../Page/ニュースワイド_TODAY.md "wikilink")
   - NKT [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") - [ワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink")
   - HTV [広島テレビ](../Page/広島テレビ放送.md "wikilink") - [NNNひろしまTODAY](../Page/NNNひろしまTODAY.md "wikilink")

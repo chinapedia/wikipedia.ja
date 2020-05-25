@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")
+  - [渡瀬マキ](../Page/渡瀬マキ.md "wikilink")
     （わたせ まき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[2月22日](../Page/2月22日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - 出身：[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[鳥羽市](../Page/鳥羽市.md "wikilink")
       - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型
@@ -61,7 +61,7 @@
 
 ## 来歴
 
-元[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")だった[渡瀬麻紀](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")（バンドでは渡瀬マキに改める）とその[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")のメンバーのひとりだった平川達也、更に平川の音楽仲間であった川添智久、小柳昌法により結成。
+元[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")だった[渡瀬麻紀](../Page/渡瀬マキ.md "wikilink")（バンドでは渡瀬マキに改める）とその[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")のメンバーのひとりだった平川達也、更に平川の音楽仲間であった川添智久、小柳昌法により結成。
 
 バンド名は、飛行家[チャールズ・リンドバーグ](../Page/チャールズ・リンドバーグ.md "wikilink")に由来する（ちなみに、メンバーのほとんどが[高所恐怖症](../Page/高所恐怖症.md "wikilink")である\[1\]）。[1989年](../Page/1989年.md "wikilink")に[シングル](../Page/シングル.md "wikilink")『[ROUTE 246](https://ja.wikipedia.org/wiki/ROUTE_246 "wikilink")』でデビューした。
 
@@ -72,7 +72,7 @@
     「BELIEVE IN LOVE」「だってそうじゃない\!?」(川添)
     「GAMBAらなくちゃね」「Green eyed Monster」(小柳)　など
 
-2ndシングル『[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")』（最大の[ヒット曲](../Page/ヒット曲.md "wikilink")で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[オリコン年間シングルセールス](../Page/オリコンチャート.md "wikilink")3位）が、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に、『[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")』がフジテレビの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")』のオープニング曲にそれぞれ起用され、一躍注目を浴びる。
+2ndシングル『[今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")』（最大の[ヒット曲](../Page/ヒット曲.md "wikilink")で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[オリコン年間シングルセールス](../Page/オリコンチャート.md "wikilink")3位）が、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に、『[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")』がフジテレビの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")』のオープニング曲にそれぞれ起用され、一躍注目を浴びる。
 
 [1993年](../Page/1993年.md "wikilink")に『[だってそうじゃない\!?](https://ja.wikipedia.org/wiki/だってそうじゃない!? "wikilink")』が大ヒットするなど安定した人気を誇っていたものの94年から95年頃にかけては売り上げ枚数が10万枚前後で落ち着いていた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にテイチクレコードに移籍したのを機に大幅なイメージチェンジを図った『もっと愛しあいましょ』をリリース。37万枚を超えるヒットを記録する。その後もリリースした曲が立て続けに数十万枚前後の売り上げ枚数を記録し第二の全盛期を迎えた。
 
@@ -84,7 +84,7 @@
 
 ### 2009年再結成
 
-[2009年](../Page/2009年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に行われた[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")ソロライブ「Present」にて、同年[12月31日](../Page/12月31日.md "wikilink")まで期間限定の再活動が発表され、[4月22日](../Page/4月22日.md "wikilink")に新録音ベストアルバム「[LINDBERG XX](https://ja.wikipedia.org/wiki/LINDBERG_XX "wikilink")」をリリースした。
+[2009年](../Page/2009年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")に行われた[渡瀬マキ](../Page/渡瀬マキ.md "wikilink")ソロライブ「Present」にて、同年[12月31日](../Page/12月31日.md "wikilink")まで期間限定の再活動が発表され、[4月22日](../Page/4月22日.md "wikilink")に新録音ベストアルバム「[LINDBERG XX](https://ja.wikipedia.org/wiki/LINDBERG_XX "wikilink")」をリリースした。
 
 春には、「LINDBERG 20th Anniversary LIVE」が行われ、[4月25日](../Page/4月25日.md "wikilink")に「HOP」と冠して[Shibuya O-WESTで](../Page/Shibuya_O-WEST.md "wikilink")7年ぶりにメンバー全員がステージに揃ったライブが行われた。その後、[5月9日](../Page/5月9日.md "wikilink")には[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で「STEP」、[5月30日](../Page/5月30日.md "wikilink")には[渋谷C.C.Lemonホールで](../Page/渋谷公会堂.md "wikilink")「JUMP」と冠したライブがそれぞれ行われた。
 
@@ -111,7 +111,7 @@
 
 1.  **ROUTE 246** （1989年4月25日、10JC-402）
     作曲は[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")。
-2.  **[今すぐ Kiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")** （1990年2月7日、TKDA-30050）
+2.  **[今すぐ Kiss Me](../Page/今すぐKiss_Me.md "wikilink")** （1990年2月7日、TKDA-30050）
     [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』主題歌、[映画](../Page/映画.md "wikilink")『[バブルへGO\!\! タイムマシンはドラム式](../Page/バブルへGO!!_タイムマシンはドラム式.md "wikilink")』挿入歌
 3.  **[JUMP](https://ja.wikipedia.org/wiki/JUMP_\(LINDBERGの曲\) "wikilink")** （1990年3月28日、TKDA-30051）
     国際スポーツフェア'90春イメージソング
@@ -180,13 +180,13 @@
 
 ### オリジナルアルバム
 
-1.  [LINDBERG I](https://ja.wikipedia.org/wiki/LINDBERG_I "wikilink")（[1989年](../Page/1989年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")・32JC-406）
-2.  [LINDBERG II](https://ja.wikipedia.org/wiki/LINDBERG_II "wikilink")（1989年[11月25日](../Page/11月25日.md "wikilink")・30JC-470）
-3.  [LINDBERG III](https://ja.wikipedia.org/wiki/LINDBERG_III "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")・TKCA-30052）
+1.  [LINDBERG I](../Page/LINDBERG_I.md "wikilink")（[1989年](../Page/1989年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")・32JC-406）
+2.  [LINDBERG II](../Page/LINDBERG_II.md "wikilink")（1989年[11月25日](../Page/11月25日.md "wikilink")・30JC-470）
+3.  [LINDBERG III](../Page/LINDBERG_III.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")・TKCA-30052）
 4.  [LINDBERG IV](../Page/LINDBERG_IV.md "wikilink")（[1991年](../Page/1991年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")・TKCA-30278/初回デジパック）
-5.  [EXTRA FLIGHT](https://ja.wikipedia.org/wiki/EXTRA_FLIGHT "wikilink")（1991年[11月1日](../Page/11月1日.md "wikilink")・TKCP-30395）
+5.  [EXTRA FLIGHT](../Page/EXTRA_FLIGHT.md "wikilink")（1991年[11月1日](../Page/11月1日.md "wikilink")・TKCP-30395）
 6.  [LINDBERG V](../Page/LINDBERG_V.md "wikilink")（[1992年](../Page/1992年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")・TKCP-30600/初回写真集付三方背ケース{赤青白}）
-7.  [LINDBERG VI](https://ja.wikipedia.org/wiki/LINDBERG_VI "wikilink")（[1993年](../Page/1993年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")・TKCP-70060/初回三方背ケース）
+7.  [LINDBERG VI](../Page/LINDBERG_VI.md "wikilink")（[1993年](../Page/1993年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")・TKCP-70060/初回三方背ケース）
 8.  [EXTRA FLIGHT II -human aircraft-](../Page/EXTRA_FLIGHT_II_-human_aircraft-.md "wikilink")（1993年[11月19日](../Page/11月19日.md "wikilink")・TKCP-70190）
 9.  [LINDBERG VII](../Page/LINDBERG_VII.md "wikilink")（[1994年](../Page/1994年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")・TKCP-70391）
 10. [LINDBERG VIII](../Page/LINDBERG_VIII.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")・TKCP-70630/初回缶バッジ付Box）

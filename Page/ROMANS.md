@@ -15,7 +15,7 @@
 所属は何れも結成当時
 
   - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")） リーダー、2009年3月31日、ハロー\!プロジェクトを卒業。
-  - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（モーニング娘。） 2009年3月31日、ハロー\!プロジェクトを卒業。
+  - [石川梨華](../Page/石川梨華.md "wikilink")（モーニング娘。） 2009年3月31日、ハロー\!プロジェクトを卒業。
   - [アヤカ](../Page/長手絢香.md "wikilink")（[ココナッツ娘。](../Page/ココナッツ娘。.md "wikilink")） 2008年4月30日、ハロー\!プロジェクトを卒業。
   - [里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")（[カントリー娘。](../Page/カントリー娘。.md "wikilink")） 2009年3月31日、ハロー\!プロジェクトを卒業。
   - [斉藤瞳](../Page/斉藤瞳.md "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")） 2009年3月31日、ハロー\!プロジェクトを卒業。

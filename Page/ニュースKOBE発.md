@@ -146,7 +146,7 @@
   - [鈴木寛子](../Page/鈴木寛子.md "wikilink")（キャスター・2011年度 - 2012年度）
   - [楠井まどか](https://ja.wikipedia.org/wiki/楠井まどか "wikilink")（キャスター・2011年度 - 2013年度）
   - [荒山沙織](https://ja.wikipedia.org/wiki/荒山沙織 "wikilink")（2011年度 - 2013年度リポーター・2014年度 - 2016年度キャスター）
-  - [垂水千佳](https://ja.wikipedia.org/wiki/垂水千佳 "wikilink")（キャスター・2013年度 - 2017年度）
+  - [垂水千佳](../Page/垂水千佳.md "wikilink")（キャスター・2013年度 - 2017年度）
   - [奥村麻衣子](https://ja.wikipedia.org/wiki/奥村麻衣子 "wikilink")（リポーター）
   - [光森彩湖](https://ja.wikipedia.org/wiki/光森彩湖 "wikilink")（リポーター）
   - [三宅理沙](https://ja.wikipedia.org/wiki/三宅理沙 "wikilink")（リポーター）

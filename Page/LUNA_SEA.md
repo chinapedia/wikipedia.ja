@@ -220,11 +220,11 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 <!-- end list -->
 
-  - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：バンド結成以来初のシングル「[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(LUNA_SEAの曲\) "wikilink")」リリース。オリコン初登場11位。デビューから終幕までのシングルは全て売上10万枚以上を記録する。
+  - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")：バンド結成以来初のシングル「[BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")」リリース。オリコン初登場11位。デビューから終幕までのシングルは全て売上10万枚以上を記録する。
   - [4月1日](../Page/4月1日.md "wikilink")：『SLAVE限定GIG〜SPECIAL PRESENT FROM LUNA SEA〜』[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")。
   - [4月16日](../Page/4月16日.md "wikilink")：『LUNA SEA CONCERT TOUR 1993 SEARCH FOR MY EDEN』スタート。全国14か所14公演。総動員数約26,000人。
   - [4月21日](../Page/4月21日.md "wikilink")：3rdアルバム『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』リリース。オリコン初登場5位。
-  - [7月21日](../Page/7月21日.md "wikilink")：2ndシングル「[IN MY DREAM (WITH SHIVER)](https://ja.wikipedia.org/wiki/IN_MY_DREAM_\(WITH_SHIVER\) "wikilink")」リリース。オリコン初登場9位。
+  - [7月21日](../Page/7月21日.md "wikilink")：2ndシングル「[IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")」リリース。オリコン初登場9位。
   - [8月21日](../Page/8月21日.md "wikilink") ：『LUNA SEA CONCERT TOUR 1993 SEARCH FOR MY EDEN ENCOREツアー』スタート。東・名・阪3ヶ所4公演。総動員数約24,000人。
 
 <!-- end list -->
@@ -755,7 +755,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [4月15日](../Page/4月15日.md "wikilink")：新曲「Make a vow」の無料配信が決定。それに先駆け、SLAVE会員限定で公開\[53\]。
   - [4月23日](../Page/4月23日.md "wikilink")：LUNASEA official Instagramがオープン。
   - [4月28日](../Page/4月28日.md "wikilink")：新曲「Make a vow」が、サブスクリプション配信スタート。同夜21時からMusic Videoが公式Youtubeで配信スタート予定。
-  - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定だったが延期となった。
+  - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](../Page/6月2日.md "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定だったが延期となった。
 
 ## ディスコグラフィ
 
@@ -763,8 +763,8 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 
 |                                                              | 発売日         | タイトル                                                                                                  | 規格                                                                | 規格品番           | 収録アルバム                                                                                                                                          |
 | ------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st                                                          | 1993年2月24日  | [BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(LUNA_SEAの曲\) "wikilink")                            | 8cm[CD](../Page/コンパクトディスク.md "wikilink")                          | MVDD-4         | [EDEN](../Page/EDEN_\(アルバム\).md "wikilink")                                                                                                     |
-| 2nd                                                          | 1993年7月21日  | [IN MY DREAM (WITH SHIVER)](https://ja.wikipedia.org/wiki/IN_MY_DREAM_\(WITH_SHIVER\) "wikilink")     | 8cmCD                                                             | MVDD-6         |                                                                                                                                                 |
+| 1st                                                          | 1993年2月24日  | [BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")                                               | 8cm[CD](../Page/コンパクトディスク.md "wikilink")                          | MVDD-4         | [EDEN](../Page/EDEN_\(アルバム\).md "wikilink")                                                                                                     |
+| 2nd                                                          | 1993年7月21日  | [IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")                        | 8cmCD                                                             | MVDD-6         |                                                                                                                                                 |
 | 3rd                                                          | 1994年7月21日  | [ROSIER](../Page/ROSIER.md "wikilink")                                                                | 8cmCD                                                             | MVDD-17        | [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")                                                                                        |
 | 4th                                                          | 1994年9月21日  | [TRUE BLUE](../Page/TRUE_BLUE_\(LUNA_SEAの曲\).md "wikilink")                                           | 8cmCD                                                             | MVDD-18        |                                                                                                                                                 |
 | 5th                                                          | 1995年2月22日  | [MOTHER (Single Version)](../Page/MOTHER_\(Single_Version\).md "wikilink")                            | 8cmCD                                                             | MVDD-22        |                                                                                                                                                 |

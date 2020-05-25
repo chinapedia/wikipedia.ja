@@ -470,7 +470,7 @@
 34. ノミネート：レギュラー、千鳥、つばさ・きよし、[イシバシハザマ](../Page/イシバシハザマ.md "wikilink")、[天津](../Page/天津_\(お笑いコンビ\).md "wikilink")、[なすなかにし](../Page/なすなかにし.md "wikilink")、[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")、[NON STYLE](../Page/NON_STYLE.md "wikilink")。
 35. ノミネート：チョップリン、アジアン、なすなかにし、[ダイアン](../Page/ダイアン.md "wikilink")、[天津](../Page/天津_\(お笑いコンビ\).md "wikilink")、[とろサーモン](https://ja.wikipedia.org/wiki/とろサーモン_\(お笑いコンビ\) "wikilink")、[NON STYLE](../Page/NON_STYLE.md "wikilink")、[プラスマイナス](../Page/プラス・マイナス.md "wikilink")。
 36. ノミネート：アジアン、スマイル、千鳥、天津、[トライアングル](../Page/トライアングル_\(お笑い\).md "wikilink")、[藤崎マーケット](../Page/藤崎マーケット.md "wikilink")、プラスマイナス、[ボールボーイ](../Page/ボールボーイ_\(お笑いコンビ\).md "wikilink")。
-37. ノミネート：アジアン、[女と男](../Page/女と男.md "wikilink")、スマイル、[つるせんねん](https://ja.wikipedia.org/wiki/つるせんねん "wikilink")、天津、とろサーモン、[のろし](../Page/のろし_\(お笑いコンビ\).md "wikilink")、モンスターエンジン。
+37. ノミネート：アジアン、[女と男](../Page/女と男.md "wikilink")、スマイル、[つるせんねん](../Page/つるせんねん.md "wikilink")、天津、とろサーモン、[のろし](../Page/のろし_\(お笑いコンビ\).md "wikilink")、モンスターエンジン。
 38. ノミネート：ダイアン、さらば青春の光、span\!、銀シャリ、スーパーマラドーナ、[スマイル](../Page/スマイル_\(お笑いコンビ\).md "wikilink")、ギャロップ。
 39. 本選出場者：銀シャリ、ウーマンラッシュアワー、[span\!](https://ja.wikipedia.org/wiki/span! "wikilink")、[ソーセージ](../Page/ソーセージ_\(お笑い\).md "wikilink")、[ダイアン](../Page/ダイアン.md "wikilink")、モンスターエンジン。
 40. 本選出場者：かまいたち、スーパーマラドーナ、ソーセージ、[GAG少年楽団](https://ja.wikipedia.org/wiki/GAG少年楽団 "wikilink")、さらば青春の光、[トット](https://ja.wikipedia.org/wiki/トット "wikilink")。

@@ -327,7 +327,7 @@
   - [ルーシャス・シェパード](https://ja.wikipedia.org/wiki/ルーシャス・シェパード "wikilink") (Lucius Shepard)
   - [ジェイムズ・H・シュミッツ](../Page/ジェイムズ・H・シュミッツ.md "wikilink") (James Henry Schmitz)
   - [レイモンド・F・ジョーンズ](../Page/レイモンド・F・ジョーンズ.md "wikilink") (Raymond F. Jones)
-  - [ニール・R・ジョーンズ](https://ja.wikipedia.org/wiki/ニール・R・ジョーンズ "wikilink")（Neil R. Jones）
+  - [ニール・R・ジョーンズ](../Page/ニール・R・ジョーンズ.md "wikilink")（Neil R. Jones）
   - [ギネス・ジョーンズ](https://ja.wikipedia.org/wiki/ギネス・ジョーンズ_\(作家\) "wikilink")（Gwyneth Jones）
   - [ウィルマー・H・シラス](../Page/ウィルマー・H・シラス.md "wikilink") (Wilmar H. Shiras)
   - [ロバート・シルヴァーバーグ](../Page/ロバート・シルヴァーバーグ.md "wikilink")(Robert Silverberg）
@@ -631,7 +631,7 @@
 
 [ポーランド](../Page/ポーランド.md "wikilink")
 
-  - [イェジイ・ジュワフスキ](https://ja.wikipedia.org/wiki/イェジイ・ジュワフスキ "wikilink") ()
+  - [イェジイ・ジュワフスキ](../Page/イェジイ・ジュワフスキ.md "wikilink") ()
   - [スタニスワフ・レム](../Page/スタニスワフ・レム.md "wikilink") (Stanislaw Lem)
 
 [ロシア](../Page/ロシア.md "wikilink")

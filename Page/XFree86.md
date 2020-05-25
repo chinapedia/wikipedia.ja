@@ -9,7 +9,7 @@
 
 ## X.Org Foundationの分離
 
-XFree86のバージョン4.4からはライセンス条項が変わり、[Apache Software Licenseの謝辞条項に極めて類似した](https://ja.wikipedia.org/wiki/Apache_License "wikilink")、いわゆる宣伝条項付き[BSDライセンス](../Page/BSDライセンス.md "wikilink")と似たものになったため、[GPLをライセンスとしているソフトウェアを含む](../Page/GNU_General_Public_License.md "wikilink")[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")ではライセンス間の矛盾により使用できなくなった。このライセンス形態の変更と以前からのXFree86の開発プロセスの閉鎖性に不満を持ったXFree86の中核メンバーがXFree86 Projectを離脱し、新たに[X.Org Foundationを立ち上げた](../Page/X.Org_Foundation.md "wikilink")。
+XFree86のバージョン4.4からはライセンス条項が変わり、[Apache Software Licenseの謝辞条項に極めて類似した](../Page/Apache_License.md "wikilink")、いわゆる宣伝条項付き[BSDライセンス](../Page/BSDライセンス.md "wikilink")と似たものになったため、[GPLをライセンスとしているソフトウェアを含む](../Page/GNU_General_Public_License.md "wikilink")[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")ではライセンス間の矛盾により使用できなくなった。このライセンス形態の変更と以前からのXFree86の開発プロセスの閉鎖性に不満を持ったXFree86の中核メンバーがXFree86 Projectを離脱し、新たに[X.Org Foundationを立ち上げた](../Page/X.Org_Foundation.md "wikilink")。
 
 ## 関連項目
 

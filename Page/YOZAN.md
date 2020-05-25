@@ -48,7 +48,7 @@ WiMAX事業も2007年12月31日に事業を凍結、2008年6月30日をもって
       - [12月25日](../Page/12月25日.md "wikilink") - 無線ブロードバンドサービス「YOZAN [WiMAX](https://ja.wikipedia.org/wiki/WiMAX "wikilink")」開始。
   - [2006年](../Page/2006年.md "wikilink")
       - [3月13日](../Page/3月13日.md "wikilink") - [ジャレコ](../Page/ジャレコ.md "wikilink")と業務・資本提携することが発表された。相互の株式を持ち合うことになる。
-      - [4月17日](../Page/4月17日.md "wikilink") - [ソフィア総合研究所](https://ja.wikipedia.org/wiki/ソフィア総合研究所 "wikilink")とWiMAX関連の合弁会社設立を発表。[MVNO](https://ja.wikipedia.org/wiki/MVNO "wikilink")事業者向けサービス、一般ユーザー向けサービスの提供を行うとした。
+      - [4月17日](../Page/4月17日.md "wikilink") - [ソフィア総合研究所](../Page/ソフィア総合研究所.md "wikilink")とWiMAX関連の合弁会社設立を発表。[MVNO](https://ja.wikipedia.org/wiki/MVNO "wikilink")事業者向けサービス、一般ユーザー向けサービスの提供を行うとした。
       - [5月31日](../Page/5月31日.md "wikilink") - ボイススポットフォン（VSフォン）サービスを終了。
       - 6月30日 - テレメトリングサービスとPHS網を利用した児童見守りサービスを終了。PHS事業から完全撤退。
   - [2007年](../Page/2007年.md "wikilink")

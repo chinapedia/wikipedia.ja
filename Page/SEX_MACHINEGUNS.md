@@ -1232,7 +1232,7 @@ TOCT-25064</p></td>
 ### その他
 
   - 1996年7月26日に発売された、[PIL](https://ja.wikipedia.org/wiki/PIL "wikilink")製作のミニゲーム集「PILcaSEX（読み：ピルケース）」内包のイメージ曲集『PIL SOUND GEAR』にSEX MACHINEGUNS製作・演奏の「Pil Has No Thema」が収録されている。ヴォーカルは普段のパワフルな高音ではなく、低音で淡々と歌われている。
-  - ライブや番組限りのカバーでは、[デーモン小暮閣下とのセッションによる](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")[BURNや](https://ja.wikipedia.org/wiki/紫の炎 "wikilink")、尾崎豊の[卒業](https://ja.wikipedia.org/wiki/卒業_\(尾崎豊の曲\) "wikilink")、[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")出演時に司会の[堂本光一](../Page/堂本光一.md "wikilink")にちなんだ[ボクの背中には羽根がある](../Page/ボクの背中には羽根がある.md "wikilink")や[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")西川貴教の僕らの音楽（第17回）に[INVOKE](../Page/INVOKE.md "wikilink")など。
+  - ライブや番組限りのカバーでは、[デーモン小暮閣下とのセッションによる](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")[BURNや](../Page/紫の炎.md "wikilink")、尾崎豊の[卒業](https://ja.wikipedia.org/wiki/卒業_\(尾崎豊の曲\) "wikilink")、[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")出演時に司会の[堂本光一](../Page/堂本光一.md "wikilink")にちなんだ[ボクの背中には羽根がある](../Page/ボクの背中には羽根がある.md "wikilink")や[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")西川貴教の僕らの音楽（第17回）に[INVOKE](../Page/INVOKE.md "wikilink")など。
 
 ## SEX MACHINEGUNS出演のラジオ番組
 

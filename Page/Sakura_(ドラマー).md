@@ -18,7 +18,7 @@
   - 2005年[3月13日](../Page/3月13日.md "wikilink")に元[D≒SIRE](../Page/D≒SIRE.md "wikilink")、[JILS](../Page/JILS.md "wikilink")のボーカル[YUKIYA](../Page/YUKIYA.md "wikilink")のソロライブにサポート参加。
   - 2005年[5月25日](../Page/5月25日.md "wikilink")に[PENICILLIN](../Page/PENICILLIN.md "wikilink")のボーカル[HAKUEI](../Page/HAKUEI.md "wikilink")のシークレットバンド「海賊」のライブで臨時でサポート参加。
   - 2006年は、SONS OF ALL PUSSYSと並行して、Sakura-Die-Nerimaの名前で[Lion Headsのギタリストとしても活動しており](../Page/Lion_Heads.md "wikilink")、2006年[8月23日](../Page/8月23日.md "wikilink")に、ファースト・アルバム「白、黒、青、赤。」がリリースされた。
-  - [2007年](../Page/2007年.md "wikilink")に[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")のTVサポート・ドラマーを務め、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")のアルバム「[嬉々](https://ja.wikipedia.org/wiki/嬉々 "wikilink")」のレコーディングに参加。
+  - [2007年](../Page/2007年.md "wikilink")に[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")のTVサポート・ドラマーを務め、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")のアルバム「[嬉々](../Page/嬉々.md "wikilink")」のレコーディングに参加。
   - 2007年から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[SOPHIA](../Page/SOPHIA.md "wikilink")の[都啓一](../Page/都啓一.md "wikilink")と[豊田和貴](https://ja.wikipedia.org/wiki/豊田和貴 "wikilink")の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")バンド「スペースフィルターズ」のライブサポート・ドラマーを務める。
   - [2009年](../Page/2009年.md "wikilink")には[DEAD ENDの](https://ja.wikipedia.org/wiki/DEAD_END "wikilink")[MORRIE](../Page/MORRIE.md "wikilink")のソロバンド[Creature Creatureのライブにもサポートドラムとして参加](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")。
   - 2009年にリリースされた[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")のシングル「[Faraway 〜星に願いを〜](https://ja.wikipedia.org/wiki/Faraway_〜星に願いを〜 "wikilink")」の表題曲と、「[LOST ANGELS](https://ja.wikipedia.org/wiki/LOST_ANGELS "wikilink")」に収録されている「No Reason」にレコーディング参加。
@@ -51,7 +51,7 @@
 
 ## バンド歴
 
-  - [DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")（[ローディー](../Page/ローディー.md "wikilink")）
+  - [DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")（[ローディー](../Page/ローディー.md "wikilink")）
   - DIE-KÜSSE
   - the HAREM Q
   - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")

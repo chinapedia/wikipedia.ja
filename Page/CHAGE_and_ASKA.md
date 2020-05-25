@@ -3,7 +3,7 @@
 
 **CHAGE and ASKA**（チャゲ・アンド・アスカ）（中国語表記: ****、韓国語表記: ****）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。通称：**チャゲアス**。略表記：**C\&A**。表記は、**チャゲ&飛鳥**（1979年 - 1988年）、**CHAGE\&ASUKA**（1989年）、**CHAGE\&ASKA**（1990年 - 2000年）、**CHAGE and ASKA**（2001年 - 2019年）と変わっている。公式ファンクラブは「**TUG OF C\&A**」。
 
-[高校の同級生同士であった](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[Chage](../Page/Chage.md "wikilink")と[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")で結成し、[1979年](../Page/1979年.md "wikilink")に「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー\[1\]。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には「[モーニングムーン](../Page/モーニングムーン.md "wikilink")」がヒット。[1991年](../Page/1991年.md "wikilink")に「[SAY YES](../Page/SAY_YES.md "wikilink")」が[オリコンチャート](../Page/オリコンチャート.md "wikilink")13週連続1位を獲得し、ダブルミリオンを記録。[1992年](../Page/1992年.md "wikilink")には[アルバム](../Page/アルバム.md "wikilink")『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』もダブルミリオンを記録し、アルバム年間1位を獲得。シングルでは「[if](https://ja.wikipedia.org/wiki/if_\(CHAGE_and_ASKAの曲\) "wikilink")」が[ミリオンを記録](../Page/ミリオンセラー.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に「[YAH YAH YAH/夢の番人](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」が史上初となる同一歌手でシングル2作目のダブルミリオンを記録し、年間1位を獲得\[2\]。[1994年](../Page/1994年.md "wikilink")には「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」と「[めぐり逢い](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\) "wikilink")」がミリオンを記録。自身初の海外ツアーを開催し、[1996年](../Page/1996年.md "wikilink")にアジア出身者初の『[MTV Unplugged](../Page/MTVアンプラグド.md "wikilink")』に出演して、[2000年](../Page/2000年.md "wikilink")には[韓国で日本人初の大規模ライブを行った](../Page/大韓民国.md "wikilink")。
+[高校の同級生同士であった](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[Chage](../Page/Chage.md "wikilink")と[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")で結成し、[1979年](../Page/1979年.md "wikilink")に「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー\[1\]。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には「[モーニングムーン](../Page/モーニングムーン.md "wikilink")」がヒット。[1991年](../Page/1991年.md "wikilink")に「[SAY YES](../Page/SAY_YES.md "wikilink")」が[オリコンチャート](../Page/オリコンチャート.md "wikilink")13週連続1位を獲得し、ダブルミリオンを記録。[1992年](../Page/1992年.md "wikilink")には[アルバム](../Page/アルバム.md "wikilink")『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』もダブルミリオンを記録し、アルバム年間1位を獲得。シングルでは「[if](https://ja.wikipedia.org/wiki/if_\(CHAGE_and_ASKAの曲\) "wikilink")」が[ミリオンを記録](../Page/ミリオンセラー.md "wikilink")。[1993年](../Page/1993年.md "wikilink")に「[YAH YAH YAH/夢の番人](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」が史上初となる同一歌手でシングル2作目のダブルミリオンを記録し、年間1位を獲得\[2\]。[1994年](../Page/1994年.md "wikilink")には「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」と「[めぐり逢い](../Page/めぐり逢い_\(CHAGE_and_ASKAの曲\).md "wikilink")」がミリオンを記録。自身初の海外ツアーを開催し、[1996年](../Page/1996年.md "wikilink")にアジア出身者初の『[MTV Unplugged](../Page/MTVアンプラグド.md "wikilink")』に出演して、[2000年](../Page/2000年.md "wikilink")には[韓国で日本人初の大規模ライブを行った](../Page/大韓民国.md "wikilink")。
 
 しかし、[2009年](../Page/2009年.md "wikilink")にデュオでの無期限活動休止を宣言し、[2013年](../Page/2013年.md "wikilink")に再始動を発表するもASKAの[一過性脳虚血発作](../Page/一過性脳虚血発作.md "wikilink")の疑いと薬物事件により白紙となり、デビュー40周年となる[2019年](../Page/2019年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にASKAが脱退を発表した\[3\]。
 
@@ -45,7 +45,7 @@
 ### 1978年 - 1979年（デビュー前）
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")
-      - 高校時代からの友人だった2人が[第一経済大学在学中](https://ja.wikipedia.org/wiki/日本経済大学 "wikilink")、別々に出場していた[ヤマハ](../Page/ヤマハ音楽振興会.md "wikilink")『第15回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")（通称：ポプコン）』福岡大会でチャゲがグランプリを獲り九州大会へ進む際に、ヤマハの九州地区担当ディレクター・秋吉恵介の勧めにより初めてデュオが組まれた\[4\]\[5\]。その後、7人編成のバンド**チャゲと飛鳥**として活動を始め、『第16回ポプコン\[6\]』の直前に**チャゲ&飛鳥**となり、「[流恋情歌](https://ja.wikipedia.org/wiki/流恋情歌 "wikilink")」で念願の『つま恋本選会』に出場し入賞する。
+      - 高校時代からの友人だった2人が[第一経済大学在学中](https://ja.wikipedia.org/wiki/日本経済大学 "wikilink")、別々に出場していた[ヤマハ](../Page/ヤマハ音楽振興会.md "wikilink")『第15回[ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")（通称：ポプコン）』福岡大会でチャゲがグランプリを獲り九州大会へ進む際に、ヤマハの九州地区担当ディレクター・秋吉恵介の勧めにより初めてデュオが組まれた\[4\]\[5\]。その後、7人編成のバンド**チャゲと飛鳥**として活動を始め、『第16回ポプコン\[6\]』の直前に**チャゲ&飛鳥**となり、「[流恋情歌](https://ja.wikipedia.org/wiki/流恋情歌 "wikilink")」で念願の『つま恋本選会』に出場し入賞する。
   - [1979年](../Page/1979年.md "wikilink")
       - 『第17回ポプコン\[7\]』には「ひとり咲き」で再び『つま恋本選会』に出場するが、またしてもグランプリ獲得にはならず入賞となる。しかしデビューの話は進行していき、7人編成のバンドとしてではなくチャゲと飛鳥のみでデビューという方向で話が進んでいった\[8\]。2人は何度か断るも悩んだ末に残された5人の了承も得て承諾するが、それと同時に7人編成での最後のステージをポプコンで行いたいことを要求する。そして、『第18回ポプコン』九州大会のゲスト出演という形で7人編成最後のステージを行った。このライブでは、それまで未完成だった楽曲「歌いつづける」をバンドを去る5人への餞の曲として完成させ披露した。残された5人の中には、後にお笑い芸人になった[西田和昭](../Page/西田和昭.md "wikilink")がいた。
 
@@ -81,9 +81,9 @@
   - [1992年](../Page/1992年.md "wikilink")
       - 前年から続くコンサートツアー『CONCERT TOUR '91\~'92 SAY YES』に多くのファンが参加できないという声に考慮し、アリーナツアー『CONCERT TOUR 1992 BIG TREE』がスタート。チケットは瞬く間に完売し両ツアーで45万人を動員した。そして、第6回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")では、主要7部門中6部門受賞するという快挙となる\[10\]。3月にリリースしたベスト・アルバム『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』は、日本国内だけで累計売上枚数が約270万枚を売り上げ、アジア諸国でも大ヒットとなり、オリコン年間アルバムチャート1位を獲得する。シングル「[if](https://ja.wikipedia.org/wiki/if_\(CHAGE_and_ASKAの曲\) "wikilink")」、アルバム『[GUYS](../Page/GUYS.md "wikilink")』はともにミリオンセラーを記録。年末には『CHAGE\&ASKA CONCERT MOVIE GUYS』を上映し、コンサートムービーは当たらないという映画界の常識までも覆した。
   - [1993年](../Page/1993年.md "wikilink")
-      - フジテレビ系ドラマ『[振り返れば奴がいる](../Page/振り返れば奴がいる.md "wikilink")』の主題歌となったシングル「[YAH YAH YAH/夢の番人](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」の累計売上枚数が約242万枚を記録して大ヒットとなり\[11\]、オリコン年間シングルチャート1位を獲得する。また、第7回日本ゴールドディスク大賞を2年連続で受賞する\[12\]\[13\]。3月から[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")のイベント「[LIVE UFO](../Page/LIVE_UFO.md "wikilink")」の一環として、東名阪でコンサート『LIVE UFO '93 CHAGE\&ASKA GUYS 〜夢の番人〜』を開催。5月には[モナコ](../Page/モナコ.md "wikilink")で開かれた[The World Music Awardsに日本代表として初出場する](https://ja.wikipedia.org/wiki/ワールド・ミュージック・アワード "wikilink")\[14\]。この頃から、[セーブ・ザ・チルドレン](../Page/セーブ・ザ・チルドレン.md "wikilink")への支援活動も行い、10月にアルバム『[RED HILL](../Page/RED_HILL.md "wikilink")』リリースと同時にコンサートツアー『史上最大の作戦 THE LONGEST TOUR 1993-1994』がスタートする。
+      - フジテレビ系ドラマ『[振り返れば奴がいる](../Page/振り返れば奴がいる.md "wikilink")』の主題歌となったシングル「[YAH YAH YAH/夢の番人](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」の累計売上枚数が約242万枚を記録して大ヒットとなり\[11\]、オリコン年間シングルチャート1位を獲得する。また、第7回日本ゴールドディスク大賞を2年連続で受賞する\[12\]\[13\]。3月から[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")のイベント「[LIVE UFO](../Page/LIVE_UFO.md "wikilink")」の一環として、東名阪でコンサート『LIVE UFO '93 CHAGE\&ASKA GUYS 〜夢の番人〜』を開催。5月には[モナコ](../Page/モナコ.md "wikilink")で開かれた[The World Music Awardsに日本代表として初出場する](../Page/ワールド・ミュージック・アワード.md "wikilink")\[14\]。この頃から、[セーブ・ザ・チルドレン](../Page/セーブ・ザ・チルドレン.md "wikilink")への支援活動も行い、10月にアルバム『[RED HILL](../Page/RED_HILL.md "wikilink")』リリースと同時にコンサートツアー『史上最大の作戦 THE LONGEST TOUR 1993-1994』がスタートする。
   - [1994年](../Page/1994年.md "wikilink")
-      - デビュー15周年のこの年も第8回日本ゴールドディスク大賞グランプリシングル賞などを受賞\[15\]。The World Music Awardsを3年連続受賞し、アジア代表として14カラット・ソウルと現地で共演\[16\]。また、初のアジアツアー『ASIAN TOUR 1994』を行ない、日本のツアーの延長として今まで誰も果たせなかった大規模なステージセットでの公演となり、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で合計6万人を動員、現地のメディアに大きく取り上げられた。シングル「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」・「[めぐり逢い](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\) "wikilink")」がオリコンシングルチャート1位とミリオンセラー。12月には[ハリウッド](../Page/ハリウッド.md "wikilink")映画『[Street Fighter](../Page/ストリートファイター_\(1994年の映画\).md "wikilink")』が全米公開され、エンディングテーマに全英語詞の楽曲「[Something There](https://ja.wikipedia.org/wiki/Something_There "wikilink")」が起用される。また、4枚組の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail](https://ja.wikipedia.org/wiki/SUPER_BEST_BOX_SINGLE_HISTORY_1979-1994_AND_Snow_Mail "wikilink")』をリリース。こちらもオリコンアルバムチャート1位となる。
+      - デビュー15周年のこの年も第8回日本ゴールドディスク大賞グランプリシングル賞などを受賞\[15\]。The World Music Awardsを3年連続受賞し、アジア代表として14カラット・ソウルと現地で共演\[16\]。また、初のアジアツアー『ASIAN TOUR 1994』を行ない、日本のツアーの延長として今まで誰も果たせなかった大規模なステージセットでの公演となり、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で合計6万人を動員、現地のメディアに大きく取り上げられた。シングル「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」・「[めぐり逢い](../Page/めぐり逢い_\(CHAGE_and_ASKAの曲\).md "wikilink")」がオリコンシングルチャート1位とミリオンセラー。12月には[ハリウッド](../Page/ハリウッド.md "wikilink")映画『[Street Fighter](../Page/ストリートファイター_\(1994年の映画\).md "wikilink")』が全米公開され、エンディングテーマに全英語詞の楽曲「[Something There](https://ja.wikipedia.org/wiki/Something_There "wikilink")」が起用される。また、4枚組の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail](https://ja.wikipedia.org/wiki/SUPER_BEST_BOX_SINGLE_HISTORY_1979-1994_AND_Snow_Mail "wikilink")』をリリース。こちらもオリコンアルバムチャート1位となる。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
       - アルバム『[Code Name.1 Brother Sun](https://ja.wikipedia.org/wiki/Code_Name.1_Brother_Sun "wikilink")』発表後、コンサートツアー『CONCERT TOUR '95\~'96 SUPER BEST 3 MISSION IMPOSSIBLE』を開催\[17\]。その中で、「[On Your Mark](../Page/On_Your_Mark.md "wikilink")」の[PVとして](../Page/ミュージック・ビデオ.md "wikilink")[アニメーション](../Page/アニメーション.md "wikilink")が製作され、コンサート会場及び劇場で公開される\[18\]。また、ハリウッド映画『[Judge Dredd](../Page/ジャッジ・ドレッド.md "wikilink")』のエンディングテーマにASKAが「TIME」を提供し、日本盤[サウンドトラック](../Page/サウンドトラック.md "wikilink")に収録される\[19\]。2度目のアジアツアー『ASIAN TOUR II - MISSION IMPOSSIBLE』を台湾・シンガポール・香港にて計5公演開催する。
   - [1996年](../Page/1996年.md "wikilink")
@@ -344,7 +344,7 @@ Best-selling Artist/Asia</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/めぐり逢い_(CHAGE_and_ASKAの曲)" title="wikilink">めぐり逢い</a></p></td>
+<td><p><a href="../Page/めぐり逢い_(CHAGE_and_ASKAの曲).md" title="wikilink">めぐり逢い</a></p></td>
 <td></td>
 <td><p>125.2万枚</p></td>
 </tr>
@@ -2110,7 +2110,7 @@ Best-selling Artist/Asia</p></td>
 </tr>
 <tr class="odd">
 <td><p>今夜ちょっとさ</p></td>
-<td><p><a href="../Page/味の素.md" title="wikilink">味の素</a>「<a href="https://ja.wikipedia.org/wiki/クノール食品" title="wikilink">クノール北海道ポタージュ</a>」CMソング</p></td>
+<td><p><a href="../Page/味の素.md" title="wikilink">味の素</a>「<a href="../Page/クノール食品.md" title="wikilink">クノール北海道ポタージュ</a>」CMソング</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2157,7 +2157,7 @@ Best-selling Artist/Asia</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/めぐり逢い_(CHAGE_and_ASKAの曲)" title="wikilink">めぐり逢い</a></p></td>
+<td><p><a href="../Page/めぐり逢い_(CHAGE_and_ASKAの曲).md" title="wikilink">めぐり逢い</a></p></td>
 <td><p>フジテレビ系ドラマ『<a href="../Page/妹よ.md" title="wikilink">妹よ</a>』主題歌</p></td>
 <td></td>
 <td></td>
@@ -2456,7 +2456,7 @@ Best-selling Artist/Asia</p></td>
 
   - [ミュージシャン一覧 (グループ)](../Page/ミュージシャン一覧_\(グループ\).md "wikilink")
   - [ポピュラー音楽の音楽家一覧 (日本・グループ)](../Page/ポピュラー音楽の音楽家一覧_\(日本・グループ\).md "wikilink")
-  - [ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")（通称：ポプコン）
+  - [ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")（通称：ポプコン）
 
 <!-- end list -->
 
@@ -2501,7 +2501,7 @@ Best-selling Artist/Asia</p></td>
 
 <!-- end list -->
 
-  - [The World Music Award](https://ja.wikipedia.org/wiki/ワールド・ミュージック・アワード "wikilink")
+  - [The World Music Award](../Page/ワールド・ミュージック・アワード.md "wikilink")
 
 <!-- end list -->
 
@@ -2637,7 +2637,7 @@ Best-selling Artist/Asia</p></td>
 64. [星野源36歳「今とにかく寂しい。お互いが自然に思って結婚、それが僕の理想」と自身の結婚観を語る](https://news.walkerplus.com/article/118694/) ニュースウォーカー 2018年2月11日閲覧
 65. [澤野弘之が初めて行ったライブは、初めて追いかけたアーティスト、CHAGE\&ASKA - DI:GA ONLINE](https://www.diskgarage.com/digaonline/pleasure/33274)
 66.
-67. [ナイスポ](https://ja.wikipedia.org/wiki/ナイスポ "wikilink") 2006年4月6日付紙面より
+67. [ナイスポ](../Page/ナイスポ.md "wikilink") 2006年4月6日付紙面より
 68.
 69. [フジモン&ケンコバ、ASKAに熱烈オファー　ギャラはたむけんのビットコインで支払い](https://abematimes.com/posts/2907791) アメバタイムズ 2018年2月17日閲覧
 70. [南原清隆](../Page/南原清隆.md "wikilink")がChageのモノマネで“**チャケ**”、[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")がASKA（飛鳥涼）のモノマネで“**ヤスカ涼**”である。

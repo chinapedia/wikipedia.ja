@@ -7,7 +7,7 @@ OpenOffice.orgは、[ワープロ](https://ja.wikipedia.org/wiki/ワープロ "w
 
 [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")社は、[Microsoft Officeに対抗するため](../Page/Microsoft_Office.md "wikilink")\[2\]\[3\] に2000年7月にOpenOfficeとして[オープンソース](../Page/オープンソース.md "wikilink")化。2002年5月1日にバージョン1.0をリリース。\[4\]
 
-その後、2010年に[サン社を買収し知的財産権を所有していた](../Page/サン・マイクロシステムズ.md "wikilink")[オラクル社は](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、2011年、OpenOffice.orgの商用バージョン提供を中止。\[5\]のちにOpenOffice.orgプロジェクトの終了とプロジェクトを[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")に寄贈することを発表した。\[6\]\[7\]
+その後、2010年に[サン社を買収し知的財産権を所有していた](../Page/サン・マイクロシステムズ.md "wikilink")[オラクル社は](../Page/オラクル_\(企業\).md "wikilink")、2011年、OpenOffice.orgの商用バージョン提供を中止。\[5\]のちにOpenOffice.orgプロジェクトの終了とプロジェクトを[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")に寄贈することを発表した。\[6\]\[7\]
 
 寄贈を受けた[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")は、ソフトウェアの名前を[Apache OpenOfficeに変更](https://ja.wikipedia.org/wiki/Apache_OpenOffice "wikilink")。\[8\]また、OpenOffice.org後継プロジェクトとしては、分派し最も活発に開発をされている\[9\]\[10\]\[11\][LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")やmacOS専用の商用ソフトの[NeoOffice](../Page/NeoOffice.md "wikilink")がある。
 
@@ -23,7 +23,7 @@ OpenOffice.orgは、オープンソース・ソフトウェアとして開発さ
 
 [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")は、[1999年](../Page/1999年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のStarDivisionを買収し、同社が販売していた[StarOffice](../Page/StarSuite.md "wikilink") のソースコードをオープンソースライセンスで[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に公開\[12\]、OpenOffice.org プロジェクトを立ち上げた。このプロジェクトには、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")、[ノベル](../Page/ノベル_\(企業\).md "wikilink")、[IBM](../Page/IBM.md "wikilink")（2007年9月10日）\[13\]）、[Google](../Page/Google.md "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[レッドハット](../Page/レッドハット.md "wikilink")、Redflag Chinese 2000（2007年5月\[14\]）などが参加し、サン・マイクロシステムズが管理を行った。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、[オラクルによるサン](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")・マイクロシステムズ買収完了に伴い、プロジェクトの管理はオラクルが行うこととなったが、2010年[9月28日](../Page/9月28日.md "wikilink")にオラクルとの関係などから、プロジェクトに参加していたメンバーの一部は、[The Document Foundationを立ち上げ](https://ja.wikipedia.org/wiki/The_Document_Foundation "wikilink")、OpenOffice.orgのソースコードを元に[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")の開発を開始した。主要な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")はLibreOfficeを支持している。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、[オラクルによるサン](../Page/オラクル_\(企業\).md "wikilink")・マイクロシステムズ買収完了に伴い、プロジェクトの管理はオラクルが行うこととなったが、2010年[9月28日](../Page/9月28日.md "wikilink")にオラクルとの関係などから、プロジェクトに参加していたメンバーの一部は、[The Document Foundationを立ち上げ](https://ja.wikipedia.org/wiki/The_Document_Foundation "wikilink")、OpenOffice.orgのソースコードを元に[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")の開発を開始した。主要な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")はLibreOfficeを支持している。
 
 その後、オラクルは[2011年](../Page/2011年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")\[15\]に、[非営利団体](../Page/非営利団体.md "wikilink")が管理するのが望ましいと声明を発表し、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")に、ソースコードの著作権ならびにOpenOffice.orgの商標の提供を提案した\[16\]。
 

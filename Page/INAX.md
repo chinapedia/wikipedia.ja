@@ -130,7 +130,7 @@
 
 ## その他
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:INAX_\(Ginza_Show_Room\).jpg "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[京橋](https://ja.wikipedia.org/wiki/京橋_\(東京都中央区\) "wikilink")、[東京建物京橋ビル](https://ja.wikipedia.org/wiki/東京建物京橋ビル "wikilink")）\[2\]。同ビル内にギャラリーが置かれている。\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:INAX_\(Ginza_Show_Room\).jpg "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[京橋](../Page/京橋_\(東京都中央区\).md "wikilink")、[東京建物京橋ビル](https://ja.wikipedia.org/wiki/東京建物京橋ビル "wikilink")）\[2\]。同ビル内にギャラリーが置かれている。\]\]
 
 [東京](../Page/東京.md "wikilink")・銀座ショールームビルおよび大阪ショールーム に「**INAXギャラリー**」を設置し、アートや[考現学](../Page/考現学.md "wikilink")指向の展示を行っている。また、出版部門 「**INAX出版**」も持っており、INAXギャラリーでの展示内容を「**INAXブックレット**」として刊行する他、建築関連の書籍を多数発行している（なお、経営統合後は 全て「**LIXIL**」のブランドに変更して運営している。また、TOTOも同様の事業を行っている）。
 

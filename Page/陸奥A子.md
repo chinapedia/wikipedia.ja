@@ -1,7 +1,7 @@
 > この記事は[陸奥A子](https://ja.wikipedia.org/wiki/陸奥A子)から翻訳されています。
 
 
-**陸奥 A子**（むつ えーこ、[1954年](../Page/1954年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")\[1\]\[2\] - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[福岡県](../Page/福岡県.md "wikilink")[飯塚市](../Page/飯塚市.md "wikilink")出身。
+**陸奥 A子**（むつ えーこ、[1954年](../Page/1954年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")\[1\]\[2\] - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[福岡県](../Page/福岡県.md "wikilink")[飯塚市](../Page/飯塚市.md "wikilink")出身。
 
 ## 来歴
 

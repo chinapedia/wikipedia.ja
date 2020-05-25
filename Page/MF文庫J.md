@@ -1483,7 +1483,7 @@ SS3巻</p></td>
 <td><p><a href="../Page/ダイバージェンス・イヴ.md" title="wikilink">ダイバージェンス・イヴ</a></p></td>
 <td><p><a href="../Page/野崎透.md" title="wikilink">野崎透</a><br />
 <small>原作：つくも匠,、RADIX企画室</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下敏成" title="wikilink">山下敏成</a>他</p></td>
+<td><p><a href="../Page/山下敏成.md" title="wikilink">山下敏成</a>他</p></td>
 <td><p>全3巻</p></td>
 </tr>
 <tr class="even">
@@ -1758,9 +1758,9 @@ SS3巻</p></td>
 <td><p>全3巻</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/渚フォルテッシモ" title="wikilink">渚フォルテッシモ</a></p></td>
+<td><p><a href="../Page/渚フォルテッシモ.md" title="wikilink">渚フォルテッシモ</a></p></td>
 <td><p><a href="../Page/城崎火也.md" title="wikilink">城崎火也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桐野霞" title="wikilink">桐野霞</a></p></td>
+<td><p><a href="../Page/桐野霞.md" title="wikilink">桐野霞</a></p></td>
 <td><p>全5巻</p></td>
 </tr>
 <tr class="odd">
@@ -2671,7 +2671,7 @@ SS3巻</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/竜王女は天に舞う" title="wikilink">竜王女は天に舞う</a></p></td>
 <td><p>北元あきの</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近衛乙嗣" title="wikilink">近衛乙嗣</a></p></td>
+<td><p><a href="../Page/近衛乙嗣.md" title="wikilink">近衛乙嗣</a></p></td>
 <td><p>全5巻</p></td>
 </tr>
 <tr class="even">

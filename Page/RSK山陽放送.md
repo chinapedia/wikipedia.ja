@@ -95,7 +95,7 @@ JNN海外支局再編の為、2012年3月をもって閉鎖された。
       - [4月1日](../Page/4月1日.md "wikilink") - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[岡山市](../Page/岡山市.md "wikilink")・[山陽新聞](../Page/山陽新聞.md "wikilink")社・[天満屋](../Page/天満屋.md "wikilink")・倉敷レイヨン（現在の[クラレ](../Page/クラレ.md "wikilink")）・[倉敷紡績](../Page/倉敷紡績.md "wikilink")などの出資で会社設立。
           - 本社は岡山市丸の内の[中國銀行本店](https://ja.wikipedia.org/wiki/中国銀行_\(日本\) "wikilink")3階に置かれた。
       - [9月15日](../Page/9月15日.md "wikilink") - サービス放送開始\[8\]。
-      - [10月1日](../Page/10月1日.md "wikilink") - 全国21番目（[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")と同日）にラジオ（コールサイン：**JOYR**、呼出名称：ラジオさんよう、愛称：**ラジオ山陽**）開局。
+      - [10月1日](../Page/10月1日.md "wikilink") - 全国21番目（[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")と同日）にラジオ（コールサイン：**JOYR**、呼出名称：ラジオさんよう、愛称：**ラジオ山陽**）開局。
           - 開局に伴い、岡山市東中山下（現在の岡山市北区表町二丁目）の[天満屋](../Page/天満屋.md "wikilink")西別館\[9\] 3・4階\[10\] に演奏所を設け、本社もここへ移転した。
           - 岡山市浜野字野田（現在の岡山市[南区浜野四丁目](../Page/南区_\(岡山市\).md "wikilink")）に送信所が設置され、周波数1280[kc](https://ja.wikipedia.org/wiki/kHz "wikilink")、出力昼間1kW・夜間500W（[1956年](../Page/1956年.md "wikilink")10月1日からは終日1kWに）\[11\]。
   - [1954年](../Page/1954年.md "wikilink")（昭和29年）[9月1日](../Page/9月1日.md "wikilink") - 浜野ラジオ送信所が、ラジオ送信所としては全国初の完全無人化\[12\]。本社からの遠隔操作に。
@@ -184,7 +184,7 @@ JNN海外支局再編の為、2012年3月をもって閉鎖された。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
       - [4月27日](../Page/4月27日.md "wikilink") - 地上デジタル放送で[地上デジタルGガイドの](https://ja.wikipedia.org/wiki/Gガイド#地上波Gガイド "wikilink")[独立データ放送を開始](../Page/データ放送.md "wikilink")（地上デジタル268ch）\[29\]。
       - [5月28日](../Page/5月28日.md "wikilink") - 四国支社が高松市番町一丁目の日本生命高松ビルから、高松市古新町の東明ビルへ移転\[30\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 岡山・香川地区のテレビ局で初の、地上デジタル放送の[ワンセグ](../Page/ワンセグ.md "wikilink")独立放送\[31\] を実施。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](../Page/6月2日.md "wikilink") - 岡山・香川地区のテレビ局で初の、地上デジタル放送の[ワンセグ](../Page/ワンセグ.md "wikilink")独立放送\[31\] を実施。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - [2月2日](../Page/2月2日.md "wikilink") - ラジオにおける[緊急地震速報](../Page/緊急地震速報.md "wikilink")の運用を開始（岡山・香川地区の民放ラジオ局では初の運用開始）\[32\]。
       - 3月2日 - RSKメディアコム1 - 3階に岡山市中区役所が設置される\[33\]

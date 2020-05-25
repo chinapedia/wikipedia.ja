@@ -117,7 +117,7 @@ style="text-align:left"|日本 (縮尺1/87)
 
   - [フライシュマン](../Page/フライシュマン_\(鉄道模型メーカー\).md "wikilink") (Fleischmann)
   - [メルクリン](../Page/メルクリン.md "wikilink") (Maerklin、三線式HOゲージを製造)
-  - [ピコ](https://ja.wikipedia.org/wiki/PIKO "wikilink") (PIKO)
+  - [ピコ](../Page/PIKO.md "wikilink") (PIKO)
   - [トリックス](../Page/トリックス.md "wikilink") (TRIX、二線式および三線式HOゲージを製造)
 
 <!-- end list -->
@@ -152,7 +152,7 @@ style="text-align:left"|日本 (縮尺1/87)
 
 <!-- end list -->
 
-  - [アサーン](https://ja.wikipedia.org/wiki/アサーン "wikilink") (Athearn)
+  - [アサーン](../Page/アサーン.md "wikilink") (Athearn)
   - [アトラス](https://ja.wikipedia.org/wiki/:en:Atlas_Model_Railroad "wikilink") (Atlas)
   - [バックマン](../Page/バックマン_\(鉄道模型\).md "wikilink") (Bachmann)
   - [ライフライク](https://ja.wikipedia.org/wiki/ライフライク "wikilink") (Life-Like)

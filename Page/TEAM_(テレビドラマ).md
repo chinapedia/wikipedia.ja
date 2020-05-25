@@ -49,7 +49,7 @@
 
   - 文部大臣 - [小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")
   - 佐々木あつし - [小場賢](../Page/小場賢.md "wikilink")
-  - あつしの母 - [水沢有美](https://ja.wikipedia.org/wiki/水沢有美 "wikilink")
+  - あつしの母 - [水沢有美](../Page/水沢有美.md "wikilink")
   - [天現寺竜](../Page/天現寺竜.md "wikilink")
 
 第2話

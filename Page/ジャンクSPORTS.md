@@ -317,7 +317,7 @@
   - **叶うか叶わへんか、今はまだはっきりせえへん**
   - **そんなん知らんわ**
   - **その願いは無理やな**
-  - **プッ**（後ろを向いて[屁](https://ja.wikipedia.org/wiki/屁 "wikilink")をするもので、一番悪いパターン）
+  - **プッ**（後ろを向いて[屁](../Page/屁.md "wikilink")をするもので、一番悪いパターン）
 
 ## 番組で生まれた種目
 
@@ -871,7 +871,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
 #### 過去のスタッフ（第1期）
 
   - プロデューサー：鈴木大吾
-  - ディレクター：中田三浩、[佐藤大輔](https://ja.wikipedia.org/wiki/佐藤大輔_\(映像作家\) "wikilink")
+  - ディレクター：中田三浩、[佐藤大輔](../Page/佐藤大輔_\(映像作家\).md "wikilink")
   - 広報：[小田多恵子](../Page/小田多恵子.md "wikilink")（フジテレビ）
   - AP：佐々木淳乃、滝澤美衣奈（フジテレビ）
   - CAM：永野進（フジテレビ）
@@ -910,7 +910,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
   - メイク：Office MAKISE、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
   - スタイリスト：利光英治朗(郎)
   - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、サンフォニックス、[IMAGICA Lab.](../Page/IMAGICA_Lab..md "wikilink")、[4-Legs](../Page/4-Legs.md "wikilink")
-  - 制作協力：吉本興業、b-DASH、ディ・コンプレックス、[NEXTEP](https://ja.wikipedia.org/wiki/ネクステップ "wikilink")、BEE BRAIN、[ABCリブラ](../Page/ABCリブラ.md "wikilink")、共同テレビジョン、オラフズ
+  - 制作協力：吉本興業、b-DASH、ディ・コンプレックス、[NEXTEP](../Page/ネクステップ.md "wikilink")、BEE BRAIN、[ABCリブラ](../Page/ABCリブラ.md "wikilink")、共同テレビジョン、オラフズ
   - 広報：神崎素子（フジテレビ）
   - データ放送：岩崎祐也（フジテレビ）
   - デスク：藤田冴子

@@ -341,7 +341,7 @@
   - 脚本 - [江連卓](https://ja.wikipedia.org/wiki/江連卓 "wikilink")、[荒木憲一](../Page/荒木憲一.md "wikilink")、[鷺山京子](https://ja.wikipedia.org/wiki/鷺山京子 "wikilink")、[宮下隼一](../Page/宮下隼一.md "wikilink")、[山田隆司](../Page/山田隆司.md "wikilink")、村山隆策
   - 音楽 - [川村栄二](../Page/川村栄二.md "wikilink")
   - キャラクターデザイン - [雨宮慶太](../Page/雨宮慶太.md "wikilink")、[野口竜](../Page/野口竜.md "wikilink")、[篠原保](../Page/篠原保.md "wikilink")、石ノ森章太郎
-  - 監督 - [小林義明](../Page/小林義明.md "wikilink")、[蓑輪雅夫](https://ja.wikipedia.org/wiki/蓑輪雅夫 "wikilink")、蔦林淳望、[辻理](../Page/辻理.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、松井昇
+  - 監督 - [小林義明](../Page/小林義明.md "wikilink")、[蓑輪雅夫](../Page/蓑輪雅夫.md "wikilink")、蔦林淳望、[辻理](../Page/辻理.md "wikilink")、[小笠原猛](../Page/小笠原猛.md "wikilink")、松井昇
   - 特撮監督 - [矢島信男](../Page/矢島信男.md "wikilink")
   - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")
   - 照明 - 中川勇雄
@@ -1203,7 +1203,7 @@
   - [福岡県](../Page/福岡県.md "wikilink")：RKB [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - [長崎県](../Page/長崎県.md "wikilink")：NBC [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")：RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
-  - [大分県](../Page/大分県.md "wikilink")：OBS [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（遅れネット、日曜日11:00-11:30放送）
+  - [大分県](../Page/大分県.md "wikilink")：OBS [大分放送](../Page/大分放送.md "wikilink")（遅れネット、日曜日11:00-11:30放送）
   - [宮崎県](../Page/宮崎県.md "wikilink")：MRT [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [鹿児島県](../Page/鹿児島県.md "wikilink")：MBC [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [沖縄県](../Page/沖縄県.md "wikilink")：RBC [琉球放送](../Page/琉球放送.md "wikilink")

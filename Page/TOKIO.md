@@ -226,22 +226,22 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 | 8                                                           | 1996年2月26日  | **[MAGIC CHANNEL](../Page/MAGIC_CHANNEL.md "wikilink")**                                                 | じっと見つめて                          | 6位         | Best E.P Selection of TOKIO                                                          |
 | 9                                                           | 1996年7月22日  | **[ありがとう…勇気](../Page/ありがとう…勇気.md "wikilink")**                                                           | 世界の屋根                            | 3位         |                                                                                      |
 | 10                                                          | 1996年11月25日 | **[Everybody Can Do\!](../Page/Everybody_Can_Do!.md "wikilink")**                                        | SPICY GIRL                       | 9位         | [BEST EP SELECTION OF TOKIO II](../Page/BEST_EP_SELECTION_OF_TOKIO_II.md "wikilink") |
-| 11                                                          | 1997年2月11日  | **[フラれて元気](https://ja.wikipedia.org/wiki/フラれて元気 "wikilink")**                                            | Dash for the Dream               | 5位         | [WILD & MILD](../Page/WILD_&_MILD.md "wikilink")                                     |
-| 12                                                          | 1997年5月28日  | **[Julia](https://ja.wikipedia.org/wiki/Julia_\(TOKIOの曲\) "wikilink")**                                  | あたってくだけろ\!                       | 10位        | [Graffiti](../Page/Graffiti_\(TOKIOのアルバム\).md "wikilink")                            |
+| 11                                                          | 1997年2月11日  | **[フラれて元気](../Page/フラれて元気.md "wikilink")**                                                               | Dash for the Dream               | 5位         | [WILD & MILD](../Page/WILD_&_MILD.md "wikilink")                                     |
+| 12                                                          | 1997年5月28日  | **[Julia](../Page/Julia_\(TOKIOの曲\).md "wikilink")**                                                     | あたってくだけろ\!                       | 10位        | [Graffiti](../Page/Graffiti_\(TOKIOのアルバム\).md "wikilink")                            |
 | 13                                                          | 1998年3月4日   | **[この指とまれ\!](../Page/この指とまれ!_\(TOKIOの曲\).md "wikilink")**                                                | EMBLEM                           | 9位         | BEST EP SELECTION OF TOKIO II                                                        |
 | 14                                                          | 1998年5月20日  | **[Love & Peace](../Page/Love_&_Peace.md "wikilink")**                                                   | そんな君が輝いて                         | 9位         | [YESTERDAY & TODAY](../Page/YESTERDAY_&_TODAY_\(TOKIOのアルバム\).md "wikilink")          |
 | 15                                                          | 1999年2月17日  | **[君を想うとき/Oh\! Heaven](https://ja.wikipedia.org/wiki/君を想うとき/Oh!_Heaven "wikilink")**                     | －                                | 9位         |                                                                                      |
 | 16                                                          | 1999年6月30日  | **[何度も夢の中でくり返すラブ・ソング/溢れる想い](https://ja.wikipedia.org/wiki/何度も夢の中でくり返すラブ・ソング/溢れる想い "wikilink")**          | －                                | 7位         |                                                                                      |
 | 17                                                          | 1999年8月25日  | **[忘れえぬ君へ…](../Page/忘れえぬ君へ….md "wikilink")**                                                             | －                                | 10位        |                                                                                      |
-| 18                                                          | 1999年11月10日 | **[愛の嵐](https://ja.wikipedia.org/wiki/愛の嵐_\(TOKIOの曲\) "wikilink")**                                      | LAST ANGEL                       | 10位        | BEST EP SELECTION OF TOKIO II                                                        |
+| 18                                                          | 1999年11月10日 | **[愛の嵐](../Page/愛の嵐_\(TOKIOの曲\).md "wikilink")**                                                         | LAST ANGEL                       | 10位        | BEST EP SELECTION OF TOKIO II                                                        |
 | 19                                                          | 2000年5月31日  | **[みんなでワーッハッハ\!/愛はヌード](https://ja.wikipedia.org/wiki/みんなでワーッハッハ!/愛はヌード "wikilink")**                     | －                                | 6位         |                                                                                      |
 | 20                                                          | 2000年9月13日  | **[恋に気づいた夜](../Page/恋に気づいた夜.md "wikilink")**                                                             | OH\! IT'S TRUE LOVE              | 11位        |                                                                                      |
 | [ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink") |             |                                                                                                          |                                  |            |                                                                                      |
-| 21                                                          | 2001年3月7日   | **[どいつもこいつも/ボクの未来](https://ja.wikipedia.org/wiki/どいつもこいつも/ボクの未来 "wikilink")**                            | －                                | 10位        | [5 AHEAD](https://ja.wikipedia.org/wiki/5_AHEAD "wikilink")                          |
+| 21                                                          | 2001年3月7日   | **[どいつもこいつも/ボクの未来](https://ja.wikipedia.org/wiki/どいつもこいつも/ボクの未来 "wikilink")**                            | －                                | 10位        | [5 AHEAD](../Page/5_AHEAD.md "wikilink")                                             |
 | 22                                                          | 2001年5月30日  | **[メッセージ/ひとりぼっちのハブラシ](https://ja.wikipedia.org/wiki/メッセージ/ひとりぼっちのハブラシ "wikilink")**                      | －                                | 1位         |                                                                                      |
 | 23                                                          | 2001年8月8日   | '''\[\[カンパイ                                                                                              | |カンパイ                            | \]\]'''    | －                                                                                    |
 | 24                                                          | 2001年10月31日 | **[DR/Only One Song](https://ja.wikipedia.org/wiki/DR/Only_One_Song "wikilink")**                        | －                                | 4位         |                                                                                      |
-| 25                                                          | 2002年3月6日   | **[花唄](../Page/花唄_\(TOKIOの曲\).md "wikilink")**                                                           | 遠い日のメロディー                        | 5位         | [glider](https://ja.wikipedia.org/wiki/Glider_\(アルバム\) "wikilink")                   |
+| 25                                                          | 2002年3月6日   | **[花唄](../Page/花唄_\(TOKIOの曲\).md "wikilink")**                                                           | 遠い日のメロディー                        | 5位         | [glider](../Page/Glider_\(アルバム\).md "wikilink")                                      |
 | 26                                                          | 2002年7月10日  | *' [GREEN](../Page/GREEN_\(TOKIOの曲\).md "wikilink")*'                                                    | Neighbor                         | 6位         |                                                                                      |
 | southend                                                    |             |                                                                                                          |                                  |            |                                                                                      |
 | 27                                                          | 2002年12月4日  | **[ding-dong/glider](https://ja.wikipedia.org/wiki/ding-dong/glider "wikilink")**                        | －                                | 1位         |                                                                                      |
@@ -310,7 +310,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 | 4  | 1997年3月26日  | *' [WILD & MILD](../Page/WILD_&_MILD.md "wikilink")*'                            | 9位  |
 | 5  | 1998年4月1日   | *' [Graffiti](../Page/Graffiti_\(TOKIOのアルバム\).md "wikilink")*'                   | 9位  |
 | 6  | 2000年2月2日   | *' [YESTERDAY & TODAY](../Page/YESTERDAY_&_TODAY_\(TOKIOのアルバム\).md "wikilink")*' | 9位  |
-| 7  | 2001年12月5日  | *' [5 AHEAD](https://ja.wikipedia.org/wiki/5_AHEAD "wikilink")*'                 | 8位  |
+| 7  | 2001年12月5日  | *' [5 AHEAD](../Page/5_AHEAD.md "wikilink")*'                                    | 8位  |
 | 8  | 2003年2月19日  | *' [glider](https://ja.wikipedia.org/wiki/glider_\(アルバム\) "wikilink")*'          | 5位  |
 | 9  | 2005年2月2日   | *' [ACT II](../Page/ACT_II.md "wikilink")*'                                      | 3位  |
 | 10 | 2006年10月18日 | *' [Harvest](https://ja.wikipedia.org/wiki/Harvest_\(TOKIOのアルバム\) "wikilink")*'  | 2位  |
@@ -441,7 +441,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <td><p>-</p></td>
 <td><p><strong>TOKIO STATION -新リーダー決定!?編-</strong></p></td>
 <td><p>8cmCD</p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/5_AHEAD" title="wikilink">5 AHEAD</a>』初回盤Aに収録</p></td>
+<td><p>アルバム『<a href="../Page/5_AHEAD.md" title="wikilink">5 AHEAD</a>』初回盤Aに収録</p></td>
 </tr>
 <tr class="even">
 <td><p>2001年12月5日</p></td>
@@ -944,7 +944,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <td><p>1999年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1999_FNS歌謡祭" title="wikilink">第28回</a></p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛の嵐_(TOKIOの曲)" title="wikilink">愛の嵐</a></p></td>
+<td><p><a href="../Page/愛の嵐_(TOKIOの曲).md" title="wikilink">愛の嵐</a></p></td>
 <td><p>14/25</p></td>
 <td></td>
 </tr>

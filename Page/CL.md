@@ -15,7 +15,7 @@
   - [コンタクトレンズ](../Page/コンタクトレンズ.md "wikilink") (contact lens)
   - [自転車道](../Page/自転車道.md "wikilink") (cycle lane)
   - [チェックリスト](https://ja.wikipedia.org/wiki/チェックリスト "wikilink") ([:en:checklist](https://ja.wikipedia.org/wiki/:en:checklist "wikilink"))
-  - [カソードルミネッセンス](https://ja.wikipedia.org/wiki/カソードルミネッセンス "wikilink") (Cathode luminescence)
+  - [カソードルミネッセンス](../Page/カソードルミネッセンス.md "wikilink") (Cathode luminescence)
   - [ローマ数字](../Page/ローマ数字.md "wikilink")で[150](https://ja.wikipedia.org/wiki/150 "wikilink")。
   - [チーフリーダー](https://ja.wikipedia.org/wiki/チーフリーダー "wikilink")（Chief Leader）。主に登山隊の隊長に用いられる。
   - [クーパース&ライブランド](../Page/プライスウォーターハウスクーパース.md "wikilink") (Coopers & Lybrand) - [プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")の前身

@@ -1,7 +1,7 @@
 > この記事は[RIVER \(漫画家\)](https://ja.wikipedia.org/wiki/RIVER_\(漫画家\))から翻訳されています。
 
 
-**RIVER**（リバー、[1972年](../Page/1972年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - ）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[台中市](https://ja.wikipedia.org/wiki/台中市 "wikilink")在住。ほとんどの作品がフルカラーの[4コマ漫画](../Page/4コマ漫画.md "wikilink")で、その多くがインターネット上（特にyahooなどの[ポータルサイト](../Page/ポータルサイト.md "wikilink")）で発表されている。アニメ絵調の作風で内容は下ネタ・暴力的な物も少なくないが、台湾では人気の高い漫画家である。
+**RIVER**（リバー、[1972年](../Page/1972年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - ）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[台中市](https://ja.wikipedia.org/wiki/台中市 "wikilink")在住。ほとんどの作品がフルカラーの[4コマ漫画](../Page/4コマ漫画.md "wikilink")で、その多くがインターネット上（特にyahooなどの[ポータルサイト](../Page/ポータルサイト.md "wikilink")）で発表されている。アニメ絵調の作風で内容は下ネタ・暴力的な物も少なくないが、台湾では人気の高い漫画家である。
 
 作中にしばしば日本風の名前を持つ人物が登場する。また、日本のアニメ・プロレス・コギャルがネタとしてしばしば登場する。
 

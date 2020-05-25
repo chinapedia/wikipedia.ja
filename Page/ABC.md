@@ -51,12 +51,12 @@
 ## 音楽
 
   - 日本の音楽レーベル・[Atomic Bomb Crewの略称](https://ja.wikipedia.org/wiki/Atomic_Bomb_Crew "wikilink")。[K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")・[DJ OASISが所属](../Page/DJ_OASIS.md "wikilink")。かつては[童子-T](../Page/童子-T.md "wikilink")も所属していた。
-  - 日本のバンド・[Acoustic Beatles Clubの略称](https://ja.wikipedia.org/wiki/Acoustic_Beatles_Club "wikilink")。
+  - 日本のバンド・[Acoustic Beatles Clubの略称](../Page/Acoustic_Beatles_Club.md "wikilink")。
   - 日本のバンド・[Janne Da Arcのyasuのソロ活動名](../Page/Janne_Da_Arc.md "wikilink")・[Acid Black Cherryの略称](../Page/Acid_Black_Cherry.md "wikilink")。
   - [ABC (バンド)](../Page/ABC_\(バンド\).md "wikilink") - イギリスの[ニューロマンティック](../Page/ニューロマンティック.md "wikilink")バンド。
   - [ABC (ジャクソン5の曲)](https://ja.wikipedia.org/wiki/ABC_\(ジャクソン5の曲\) "wikilink") - [ジャクソン5](../Page/ジャクソン5.md "wikilink")の曲のひとつ。
       - [ABC (アルバム)](https://ja.wikipedia.org/wiki/ABC_\(アルバム\) "wikilink") - 上記を収録したジャクソン5のアルバム 。
-  - [A.B.C.](https://ja.wikipedia.org/wiki/A.B.C. "wikilink") - [ジャニーズ](../Page/ジャニーズ.md "wikilink")事務所所属のユニット、[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")の前身。
+  - [A.B.C.](https://ja.wikipedia.org/wiki/A.B.C. "wikilink") - [ジャニーズ](../Page/ジャニーズ.md "wikilink")事務所所属のユニット、[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")の前身。
   - [ABCの歌](https://ja.wikipedia.org/wiki/ABCの歌 "wikilink")
   - [ABC (少年隊の曲)](https://ja.wikipedia.org/wiki/ABC_\(少年隊の曲\) "wikilink") - [少年隊](../Page/少年隊.md "wikilink")のシングル 。
   - [ABCレコード](../Page/ABCレコード.md "wikilink") - アメリカのレコード会社。
@@ -68,7 +68,7 @@
 
   - [ABC (プログラミング言語)](https://ja.wikipedia.org/wiki/ABC_\(プログラミング言語\) "wikilink") - 教育用[プログラミング言語](../Page/プログラミング言語.md "wikilink")。
 
-  - [ABC記譜法](https://ja.wikipedia.org/wiki/ABC記譜法 "wikilink") - 音楽記述用言語。
+  - [ABC記譜法](../Page/ABC記譜法.md "wikilink") - 音楽記述用言語。
 
   - \- [BitTorrent](../Page/BitTorrent.md "wikilink")クライアントソフト。
 
@@ -89,7 +89,7 @@
   - [ABCモデル](../Page/ABCモデル.md "wikilink") - 被子植物の花の発生モデル。
   - [ABC分析](../Page/パレート分析.md "wikilink") - [パレート分析](../Page/パレート分析.md "wikilink")の通称。
   - [ABC予想](https://ja.wikipedia.org/wiki/ABC予想 "wikilink") - [数論](../Page/数論.md "wikilink")の予想。
-  - [ABC記譜法](https://ja.wikipedia.org/wiki/ABC記譜法 "wikilink") - 音楽記述言語の一つ。
+  - [ABC記譜法](../Page/ABC記譜法.md "wikilink") - 音楽記述言語の一つ。
 
 ## 創作
 

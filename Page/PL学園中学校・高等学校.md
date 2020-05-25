@@ -389,7 +389,7 @@
 <dt></dt>
 <dd><a href="../Page/小林亮寛.md" title="wikilink">小林亮寛</a>
 </dd>
-<dd><a href="https://ja.wikipedia.org/wiki/前田新悟" title="wikilink">前田新悟</a>
+<dd><a href="../Page/前田新悟.md" title="wikilink">前田新悟</a>
 </dd>
 </dl>
 <ul>
@@ -423,7 +423,7 @@
 <dt></dt>
 <dd><a href="../Page/加藤領健.md" title="wikilink">加藤領健</a>
 </dd>
-<dd><a href="https://ja.wikipedia.org/wiki/中尾敏浩" title="wikilink">中尾敏浩</a>
+<dd><a href="../Page/中尾敏浩.md" title="wikilink">中尾敏浩</a>
 </dd>
 </dl></td>
 <td><ul>
@@ -445,7 +445,7 @@
 </ul>
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/小窪哲也" title="wikilink">小窪哲也</a>☆
+<dd><a href="../Page/小窪哲也.md" title="wikilink">小窪哲也</a>☆
 </dd>
 </dl>
 <ul>
@@ -520,7 +520,7 @@
   - [野添ゆかり](https://ja.wikipedia.org/wiki/野添ゆかり "wikilink") - プロ雀士・最高位戦プロ麻雀協会所属。
   - [井坂善行](https://ja.wikipedia.org/wiki/井坂善行 "wikilink") - 元[和泉市](../Page/和泉市.md "wikilink")長。野球部18期生。
   - [山本奈臣実](../Page/山本奈臣実.md "wikilink") - 吉本新喜劇女優。
-  - [なきぼくろ](https://ja.wikipedia.org/wiki/プロジェクト:漫画家/日本の漫画家_な行#なきぼくろ "wikilink") - 漫画家。野球部かつレギュラーで、[小窪哲也](https://ja.wikipedia.org/wiki/小窪哲也 "wikilink")と同期生。『[週刊モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』にて『[バトルスタディーズ](https://ja.wikipedia.org/wiki/バトルスタディーズ "wikilink")』を連載中。
+  - [なきぼくろ](https://ja.wikipedia.org/wiki/プロジェクト:漫画家/日本の漫画家_な行#なきぼくろ "wikilink") - 漫画家。野球部かつレギュラーで、[小窪哲也](../Page/小窪哲也.md "wikilink")と同期生。『[週刊モーニング](https://ja.wikipedia.org/wiki/モーニング_\(漫画雑誌\) "wikilink")』にて『[バトルスタディーズ](https://ja.wikipedia.org/wiki/バトルスタディーズ "wikilink")』を連載中。
   - [澤藤統一郎](https://ja.wikipedia.org/wiki/澤藤統一郎 "wikilink") - [弁護士](../Page/弁護士.md "wikilink")。
   - [植山幸亮](https://ja.wikipedia.org/wiki/植山幸亮 "wikilink") - 社会人野球選手。
   - [松本晃](https://ja.wikipedia.org/wiki/松本晃 "wikilink") - 社会人野球選手。

@@ -311,7 +311,7 @@
 
   -   - 1975年に[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")が開局するまでは、当時のネット編成に応じて曜日ごとに日テレ系（クロスネット末期は主に水・土曜）、[フジテレビ系](../Page/フジネットワーク.md "wikilink")（クロスネット末期は主に火・木曜）にネットラインを切り替えていた。
       - 1980年代から、巨人戦のナイトゲームを広島のゲーム（主にホームゲーム）に差し替えたり、日本テレビ系列で通常番組が編成されている日にローカルで放送する場合は、平日はローカル情報番組『[テレビ派](https://ja.wikipedia.org/wiki/テレビ派 "wikilink")』を17時台のみに縮小し、18時15分放送開始となる。また放送枠内で試合が終了していない場合は後続の「広テレNews」も差し替えて中継を行う。2007年度より観客席カメラ以外の映像がハイビジョン化し、2009年度のマツダスタジアムへの本拠地移転後から完全ハイビジョン化した。ただし、[呉市営二河野球場](https://ja.wikipedia.org/wiki/呉市営二河野球場 "wikilink")・[広島県立びんご運動公園野球場](../Page/広島県立びんご運動公園野球場.md "wikilink")・[みよし運動公園野球場](https://ja.wikipedia.org/wiki/みよし運動公園野球場 "wikilink")などの地方球場では16:9の「ワイドサイズ」であっても[標準画質となっている時期があったが](../Page/標準画質映像.md "wikilink")、2011年のデジタル化完全移行後の2012年より、地方戦（呉、尾道、三次、新潟〔2009年は[テレビ新潟技術協力のクレジットがあったが](../Page/テレビ新潟放送網.md "wikilink")、2012年は[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（TBS系列）が勧進元だったためかクレジットなし〕）も順次HD化された。
-      - 巨人戦以外の試合は[J SPORTSの](../Page/J_SPORTS.md "wikilink")『[J SPORTS STADIUM](../Page/J_SPORTS_STADIUM.md "wikilink")』へ配信する（地上波開始前・終了後も裏送りで放送）。ごく稀に、広島テレビ側が地上波中継と別出演者を立ててJ SPORTS向けの中継を二重製作する場合がある（2015年、[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")が出演した対楽天戦が該当）\[29\]。
+      - 巨人戦以外の試合は[J SPORTSの](../Page/J_SPORTS.md "wikilink")『[J SPORTS STADIUM](../Page/J_SPORTS_STADIUM.md "wikilink")』へ配信する（地上波開始前・終了後も裏送りで放送）。ごく稀に、広島テレビ側が地上波中継と別出演者を立ててJ SPORTS向けの中継を二重製作する場合がある（2015年、[星野仙一](../Page/星野仙一.md "wikilink")が出演した対楽天戦が該当）\[29\]。
       - 2012年まで、広島が関与するオープン戦や交流戦のパ・リーグ主催試合はダイエー〜ソフトバンク主催のネット受けのみ実績があった。
       - 2013年は日本ハム戦を札幌テレビとの間で広島主催と相互にネットする（広島テレビ制作中継には札幌テレビから[西崎幸広](../Page/西崎幸広.md "wikilink")と[岡崎和久](../Page/岡崎和久.md "wikilink")アナウンサーを派遣。札幌テレビ制作分は広島テレビから[池谷公二郎](../Page/池谷公二郎.md "wikilink")と[長野正実](../Page/長野正実.md "wikilink")アナウンサーを派遣）予定だったが、広島主催は雨天中止となった復活開催分は広島テレビ・札幌テレビが放映権を返上し、J SPORTS単独で放送）。翌2014年6月21日の同カードで札幌テレビから西崎と[神谷誠](../Page/神谷誠.md "wikilink")アナウンサーが派遣され、1年越しで相互ネットが実現した。2015年も相互ネットを実施した。
           - 2018年は6月6日（水曜）の同カードは、広島県では広島テレビが放送したが、編成上の都合で北海道では[北海道放送](../Page/北海道放送.md "wikilink")（TBS系列）が中国放送の技術協力で別制作した（中継車は中国放送が派遣して映像を別製作し、実況は札幌からのオフチューブで実施）。ビジター側でテレビ東京系や独立局以外の別系列の局が担当する例は、2000年代以降の広島主催では稀な例である。
@@ -678,7 +678,7 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
   - 1999年 - [さよならじゃない](../Page/さよならじゃない.md "wikilink")（[Something ELse](../Page/Something_ELse.md "wikilink")）
   - 2000年
       -
-        4・5月度、[日本シリーズ第](../Page/2000年の日本シリーズ.md "wikilink")1戦 - [BLACK OR WHITE? version 3](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE?_version_3 "wikilink")（[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")）
+        4・5月度、[日本シリーズ第](../Page/2000年の日本シリーズ.md "wikilink")1戦 - [BLACK OR WHITE? version 3](../Page/BLACK_OR_WHITE?_version_3.md "wikilink")（[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")）
         6・7月度、日本シリーズ第2戦 - [LOVE 2000](../Page/LOVE_2000_\(hitomiの曲\).md "wikilink")（[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")）
         8・9月度、日本シリーズ第4戦 - [パール](https://ja.wikipedia.org/wiki/パール_\(THE_YELLOW_MONKEYの曲\) "wikilink")（[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）
         日本シリーズ第6戦は、「BLACK OR WHITE? version 3」と「LOVE 2000」が併用された。
@@ -1017,7 +1017,7 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
   - [水野雄仁](../Page/水野雄仁.md "wikilink")（2002年 - 2018年、RFラジオ日本解説者兼）
   - [石井浩郎](../Page/石井浩郎.md "wikilink")（2003年）
   - [原辰徳](../Page/原辰徳.md "wikilink")（2004年 - 2005年、2017年 - 2018年。読売巨人軍特別顧問で出演）
-  - [星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")（2004年 - 2010年。スポット契約で出演）
+  - [星野仙一](../Page/星野仙一.md "wikilink")（2004年 - 2010年。スポット契約で出演）
   - 岡田彰布（2009年。読売テレビ・朝日放送・サンテレビ・スカイ・A解説者兼。2013年からは読売テレビ解説者）
   - [金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")（2013年 - 2015年。2019年からはゲスト解説者やフリーとして復帰している）
 
@@ -1372,7 +1372,7 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
 
 <!-- end list -->
 
-  - [生田博巳](https://ja.wikipedia.org/wiki/生田博巳 "wikilink")
+  - [生田博巳](../Page/生田博巳.md "wikilink")
   - [佐藤忠功](https://ja.wikipedia.org/wiki/佐藤忠功 "wikilink")
   - [一丁田修一](../Page/一丁田修一.md "wikilink")（ - 1998年。他部署へ異動）
   - [小城敏](https://ja.wikipedia.org/wiki/小城敏 "wikilink")（他部署へ異動）
@@ -1527,7 +1527,7 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
       - この模様はその後の『[NNNスポーツニュース](../Page/NNNスポーツニュース.md "wikilink")』、更には『[全日本プロレス中継](../Page/全日本プロレス中継.md "wikilink")』を急遽繰り下げて行った特番でも放送された。
       - 皮肉にもその前日の[9月2日](../Page/9月2日.md "wikilink")では、『[歌まね合戦スターに挑戦\!\!](../Page/歌まね振りまねスターに挑戦!!.md "wikilink")』と『[カックラキン大放送\!\!](../Page/カックラキン大放送!!.md "wikilink")』を中止して19:00-20:00の予定で放送したが、それでも756号が出ないので、急遽『[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")』を中止し（『太陽にほえろ\!』が野球で中止になるのはこれが初）20:54までの予定で放送し続けたが、とうとうその日は756号が出ない結果となった。
   -
-    [1979年](../Page/1979年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、[江川卓が巨人対阪神戦](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（後楽園球場）でプロ初登板を行った。
+    [1979年](../Page/1979年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")、[江川卓が巨人対阪神戦](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（後楽園球場）でプロ初登板を行った。
     当初は19時から実況中継する予定になっていたが、それに先駆け『[NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")』の開始当初である18時30分から数分間、録画中継にてその立ち上がりの模様が紹介された。
   -
     [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")になっても巨人と中日がデットヒートを繰り広げていた[1982年](../Page/1982年.md "wikilink")では、[10月3日](../Page/10月3日.md "wikilink")放送予定の『[決定版\!スターが挑戦\!\!びっくり日本新記録](https://ja.wikipedia.org/wiki/びっくり日本新記録#スペシャル "wikilink")』（19:00 - 20:54。読売テレビ制作）と、翌[4日放送予定の](https://ja.wikipedia.org/wiki/10月4日 "wikilink")『[勝抜きドンドン歌合戦](../Page/勝抜きドンドン歌合戦.md "wikilink")』（19:30 - 20:00）と『[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")』（20:00 - 20:54）を、それぞれ巨人対大洋戦（後楽園球場）に差し替えた\[91\]。この内『トップテン』は公開場所の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で番組を収録し、翌[5日の](../Page/10月5日.md "wikilink")16:00にノンスポンサーで差し替え放送を行い、『ドンドン』は翌週の[11日に延期したが](../Page/10月11日.md "wikilink")、『日本新記録』は[10日開始の生放送情報番組](../Page/10月10日.md "wikilink")『[久米宏のTVスクランブル](../Page/久米宏のTVスクランブル.md "wikilink")』（日曜20:00）との兼ね合いもあってすぐには延期できず、放送はずっと後になり、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")の18:30 - 20:54に内容を再編集した正月特番として放送した。ところが競技の中の一つ「人力いかだコンテスト」の中に、日本テレビで1982年秋に開始したテレビアニメ『[忍者マン一平](../Page/忍者マン一平.md "wikilink")』・『[ときめきトゥナイト](../Page/ときめきトゥナイト.md "wikilink")』・『[一ッ星家のウルトラ婆さん](../Page/一ッ星家のウルトラ婆さん.md "wikilink")』（読売テレビ制作）の宣伝を兼ねたいかだ「一ッ星\! ときめき忍者号」が出場したのに、放送された時は『一平』は既に1982年[12月27日](../Page/12月27日.md "wikilink")で放送を打ち切られ、『ウルトラ婆さん』もあと2回で放送を打ち切られる（1983年[1月15日](../Page/1月15日.md "wikilink")終了）事が決まっていたため、番宣としては全く役に立たない結果となってしまった。
@@ -1835,7 +1835,7 @@ NNN24（のちの[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24
 | 2  | [松井稼頭央](https://ja.wikipedia.org/wiki/松井稼頭央 "wikilink") | 9423    |
 | 3  | [鳥谷敬](https://ja.wikipedia.org/wiki/鳥谷敬 "wikilink")     | 4109    |
 | 4  | [井端弘和](https://ja.wikipedia.org/wiki/井端弘和 "wikilink")   | 2943    |
-| 5  | [吉田義男](https://ja.wikipedia.org/wiki/吉田義男 "wikilink")   | 2849    |
+| 5  | [吉田義男](../Page/吉田義男.md "wikilink")                      | 2849    |
 | 6  | [川相昌弘](../Page/川相昌弘.md "wikilink")                      | 1728 ★  |
 | 7  | [木塚忠助](../Page/木塚忠助.md "wikilink")                      | 1516    |
 | 8  | [高橋慶彦](../Page/高橋慶彦.md "wikilink")                      | 1442    |

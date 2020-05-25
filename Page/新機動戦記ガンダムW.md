@@ -854,7 +854,7 @@ A.C.195年、[地球圏統一連合の支配に反目する一部のコロニー
     [小説](../Page/小説.md "wikilink")版、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")版ともに最後はヒイロ達がテラ・フォーミングのために[火星](../Page/火星.md "wikilink")へ行くところで終わっているが、これはTV版の初期のプロットをもとに描かれたためである。
     2003年に発売された漫画の[KPC版では](https://ja.wikipedia.org/wiki/講談社プラチナコミックス "wikilink")、ラストでヒイロたちが火星に行く部分が全く別の新作に差し替えられている。
   - 新機動戦記ガンダムW外伝 〜右手に鎌を左手に君を〜
-    [皆川ゆか](https://ja.wikipedia.org/wiki/皆川ゆか "wikilink")による小説。時系列などが本編と整合がとられていないため、[パラレルワールド](../Page/パラレルワールド.md "wikilink")的作品として扱われる。
+    [皆川ゆか](../Page/皆川ゆか.md "wikilink")による小説。時系列などが本編と整合がとられていないため、[パラレルワールド](../Page/パラレルワールド.md "wikilink")的作品として扱われる。
   - 新機動戦記ガンダムW EPISODE ZERO
     [かんべあきら](https://ja.wikipedia.org/wiki/かんべあきら "wikilink")作、[月刊アニメV](https://ja.wikipedia.org/wiki/月刊アニメV "wikilink")（[月刊アニメディア](https://ja.wikipedia.org/wiki/月刊アニメディア "wikilink")増刊）連載の漫画。本編での時間（A.C.195年）の十数年前の、本作での主要登場人物の前史が描かれている。これは元々、アニメで使用される予定のストーリーだったが、スケジュールの都合上、棚上げ状態となっていた内容を漫画化したものである。また、巻末に『Endless Waltz』の後日談『PREVENTER 5（サンク）』が掲載されている。なお、小説版『Endless Waltz』では、本作との繋がりを意図的に含めた内容となっている。
   - 新機動戦記ガンダムW グランドゼロ

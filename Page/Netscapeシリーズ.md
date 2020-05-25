@@ -43,7 +43,7 @@ AOLは、Netscapeチームを解雇し、Mercurial Communicationsに開発の外
 
 ### バージョン9
 
-[2007年](../Page/2007年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、新しいスタンドアローン版ウェブブラウザの[Netscape Navigator 9のリリースが表明された](https://ja.wikipedia.org/wiki/Netscape_Navigator_9 "wikilink")。このバージョンでは、[ニュースフィード](https://ja.wikipedia.org/wiki/ニュースフィード "wikilink")のサポートやウェブページ上での議論・投稿・投票手段を強化し\[9\]、インターネットポータルPropellerとの統合が強化されている\[10\]。また、再びWindows、Linux、[Mac OS Xをサポートするマルチプラットフォームとなった](https://ja.wikipedia.org/wiki/macOS "wikilink")\[11\]。このバージョンはMozilla Firefox 2.0をベースにしており、Firefoxの[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")やNetscapeが提供している[プラグイン](../Page/プラグイン.md "wikilink")を完全サポートしている\[12\]。また、このブラウザは[2004年](../Page/2004年.md "wikilink")以降初めて社内のプログラミングスタッフによって作られた\[13\]。
+[2007年](../Page/2007年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、新しいスタンドアローン版ウェブブラウザの[Netscape Navigator 9のリリースが表明された](../Page/Netscape_Navigator_9.md "wikilink")。このバージョンでは、[ニュースフィード](https://ja.wikipedia.org/wiki/ニュースフィード "wikilink")のサポートやウェブページ上での議論・投稿・投票手段を強化し\[9\]、インターネットポータルPropellerとの統合が強化されている\[10\]。また、再びWindows、Linux、[Mac OS Xをサポートするマルチプラットフォームとなった](https://ja.wikipedia.org/wiki/macOS "wikilink")\[11\]。このバージョンはMozilla Firefox 2.0をベースにしており、Firefoxの[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")やNetscapeが提供している[プラグイン](../Page/プラグイン.md "wikilink")を完全サポートしている\[12\]。また、このブラウザは[2004年](../Page/2004年.md "wikilink")以降初めて社内のプログラミングスタッフによって作られた\[13\]。
 
 最初のベータ版は[2007年](../Page/2007年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")にリリースされた\[14\]。最終バージョンは2007年[10月15日](../Page/10月15日.md "wikilink")にリリースされた。
 

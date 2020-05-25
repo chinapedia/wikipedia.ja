@@ -584,7 +584,7 @@ sakuraの逮捕後、「曲作りとリフレッシュ」の名目で渡[英し]
   - 2月25日、ミュージック・クリップ集『[CHRONICLE 4](https://ja.wikipedia.org/wiki/CHRONICLE_4 "wikilink")』を発売。
   - 3月25日、[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")・ビデオ『[DOCUMENTARY FILMS 〜Trans ASIA via PARIS〜](https://ja.wikipedia.org/wiki/DOCUMENTARY_FILMS_〜Trans_ASIA_via_PARIS〜 "wikilink")』を発売。
   - 5月20日、ライブビデオ『[LIVE IN PARIS](https://ja.wikipedia.org/wiki/LIVE_IN_PARIS "wikilink")』を発売。当時の男性アーティストとしては歴代1位タイとなる、7作目のオリコンDVD総合チャート1位を獲得する\[102\]。
-  - 5月22日 - 5月24日、ドキュメンタリー・ビデオ『DOCUMENTARY FILMS 〜Trans ASIA via PARIS〜』・ライブビデオ『LIVE IN PARIS』・写真集『á Paris』（[カジュアル](https://ja.wikipedia.org/wiki/カジュアル "wikilink")仕様）の発売記念イベントとして、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")にて「L'Arc〜en〜Ciel MUSEUM」を開催。
+  - 5月22日 - 5月24日、ドキュメンタリー・ビデオ『DOCUMENTARY FILMS 〜Trans ASIA via PARIS〜』・ライブビデオ『LIVE IN PARIS』・写真集『á Paris』（[カジュアル](https://ja.wikipedia.org/wiki/カジュアル "wikilink")仕様）の発売記念イベントとして、[赤坂サカス](../Page/赤坂サカス.md "wikilink")にて「L'Arc〜en〜Ciel MUSEUM」を開催。
   - 9月2日、ベスト・アルバム『Clicked Singles Best 13』の[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")版を発売。
   - 12月1日、tetsuyaが自身のアーティスト名を「tetsu」から現在の「tetsuya」へ改名。
   - 12月9日、33rdシングル「Hurry Xmas」の2009年版を発売。
@@ -810,7 +810,7 @@ sakuraの逮捕後、「曲作りとリフレッシュ」の名目で渡[英し]
 <ul>
 <li>『<strong><a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a></strong>』[196][197]</li>
 <li>『<strong><a href="../Page/GASTUNK.md" title="wikilink">GASTUNK</a></strong>』[198][199]</li>
-<li>『<strong><a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a></strong>』[200][201]</li>
+<li>『<strong><a href="../Page/DEAD_END_(バンド).md" title="wikilink">DEAD END</a></strong>』[200][201]</li>
 </ul>
 </div>
 </div></td>
@@ -2040,7 +2040,7 @@ L'Arc〜en〜Cielはインディーズ時代に[デモテープ](https://ja.wiki
 <div class="NavContent" style="text-align:left;">
 <p>5月12日 <a href="../Page/横浜国際総合競技場.md" title="wikilink">日産スタジアム</a><br />
 5月13日 日産スタジアム<br />
-5月19日 <a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン" title="wikilink">ユニバーサル・スタジオ・ジャパン</a> 野外特設ステージ<br />
+5月19日 <a href="../Page/ユニバーサル・スタジオ・ジャパン.md" title="wikilink">ユニバーサル・スタジオ・ジャパン</a> 野外特設ステージ<br />
 5月20日 ユニバーサル・スタジオ・ジャパン 野外特設ステージ<br />
 5月26日 <a href="../Page/国立霞ヶ丘陸上競技場.md" title="wikilink">国立霞ヶ丘陸上競技場</a><br />
 5月27日 国立霞ヶ丘陸上競技場</p>

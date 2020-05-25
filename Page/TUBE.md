@@ -21,7 +21,7 @@
 
 なお、ビーイング系のグループとしてデビューし、2008年頃までは音楽制作はビーインググループの「ZAIN PRODUCTS」が担当していたが、デビュー時期の関係からか所属レーベルはビーイング系ではなく[ソニー系で](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、ソニー以外のレーベルへの移籍は一度もしていない（ビーイング系レーベル所属者への楽曲提供はある）。2014年現在のレーベルは[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
 
-彼らのデビュー日にちなんで、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")では[2000年](../Page/2000年.md "wikilink")から[6月1日](../Page/6月1日.md "wikilink")を「**[TUBE DAY](https://ja.wikipedia.org/wiki/TUBE_DAY "wikilink")**」と定めている。制定された時、デビュー15周年を記念して、ハワイでアジア人としては初の[アロハ・スタジアム](https://ja.wikipedia.org/wiki/アロハ・スタジアム "wikilink")でライブを行った。その後も毎年同日か、または同日直後の週末にイベント（ミニライブなど）を行っており、[2005年](../Page/2005年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")には、[ワイキキ](../Page/ワイキキ.md "wikilink")の中心にあるアメリカ陸軍保留地、フォート・デ・ルーシーで野外コンサートを行った。
+彼らのデビュー日にちなんで、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")では[2000年](../Page/2000年.md "wikilink")から[6月1日](../Page/6月1日.md "wikilink")を「**[TUBE DAY](https://ja.wikipedia.org/wiki/TUBE_DAY "wikilink")**」と定めている。制定された時、デビュー15周年を記念して、ハワイでアジア人としては初の[アロハ・スタジアム](../Page/アロハ・スタジアム.md "wikilink")でライブを行った。その後も毎年同日か、または同日直後の週末にイベント（ミニライブなど）を行っており、[2005年](../Page/2005年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")には、[ワイキキ](../Page/ワイキキ.md "wikilink")の中心にあるアメリカ陸軍保留地、フォート・デ・ルーシーで野外コンサートを行った。
 
 ## メンバー
 
@@ -244,7 +244,7 @@
 
   - [4月17日](../Page/4月17日.md "wikilink") - [ハワイのみで](../Page/ハワイ州.md "wikilink")「TUBE with Friends」名義でのシングル「[SHA LA LA / Remember Me](https://ja.wikipedia.org/wiki/SHA_LA_LA_/_Remember_Me "wikilink")」を発売。現地のチャートで4位を記録\[20\]。
   - [5月13日](../Page/5月13日.md "wikilink") - [TUBEst IIIを発売](https://ja.wikipedia.org/wiki/TUBEst_III "wikilink")。今作も100万枚以上を売上げ、[2000年](../Page/2000年.md "wikilink")のロック部門でアルバム・オブ・ザ・イヤ―（ゴールドディスク大賞）を受賞する。
-  - [6月1日](../Page/6月1日.md "wikilink") - デビュー15周年記念としてハワイの[アロハ・スタジアム](https://ja.wikipedia.org/wiki/アロハ・スタジアム "wikilink")にて日本人アーティストとして初めてコンサートを開催し21000人を動員する。
+  - [6月1日](../Page/6月1日.md "wikilink") - デビュー15周年記念としてハワイの[アロハ・スタジアム](../Page/アロハ・スタジアム.md "wikilink")にて日本人アーティストとして初めてコンサートを開催し21000人を動員する。
   - [6月28日](../Page/6月28日.md "wikilink") - 33rdシングル「[虹になりたい](../Page/虹になりたい.md "wikilink")」を発売。今作は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シングル「[きっとどこかで](https://ja.wikipedia.org/wiki/きっとどこかで "wikilink")」に並び40万-60万枚以上のヒットを記録した。
   - [7月20日](../Page/7月20日.md "wikilink") - 20thアルバム「[LANI KAI](https://ja.wikipedia.org/wiki/LANI_KAI "wikilink")」を発売。出荷枚数は約35万枚。
 
@@ -347,7 +347,7 @@
 
   - [4月5日](../Page/4月5日.md "wikilink") - 「[ふじさわ観光親善大使](../Page/藤沢市.md "wikilink")」に任命された。
   - [5月15日](../Page/5月15日.md "wikilink") - [鵠沼海岸](../Page/鵠沼海岸.md "wikilink")で野外ライブツアー「TUBE LIVE AROUND 2010 SEASIDE VIBRATION」をスタートさせた。TUBE史上初めて[湘南海岸](../Page/湘南海岸.md "wikilink")でライブイベントを行った。予定より1万人を上回る3万人を動員。今後同所でのライブが恒例化される可能性がある。さらに[藤沢駅](https://ja.wikipedia.org/wiki/藤沢駅 "wikilink")の発車音や市内の午後5時の時報にTUBEの楽曲が起用される。\[21\]
-  - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 「[灼熱らぶ](https://ja.wikipedia.org/wiki/灼熱らぶ "wikilink")」リリース。
+  - [6月2日](../Page/6月2日.md "wikilink") - 「[灼熱らぶ](https://ja.wikipedia.org/wiki/灼熱らぶ "wikilink")」リリース。
   - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 「[Surprise\!](https://ja.wikipedia.org/wiki/Surprise!_\(アルバム\) "wikilink")」リリース。
   - [8月21日](../Page/8月21日.md "wikilink") - 「横浜スタジアム」ライブを開催。
   - [9月4日](../Page/9月4日.md "wikilink") - 「阪神甲子園球場」ライブを開催。
@@ -415,7 +415,7 @@
   - 3月31日 - 4月1日 - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")にてTUBE 30th Anniversary特番「夏まで待てない！24時間ニコ生SP」を放送。
   - [4月8日](../Page/4月8日.md "wikilink") - 56thシングル「[いまさらサーフサイド](https://ja.wikipedia.org/wiki/いまさらサーフサイド "wikilink")」リリース。
   - [6月1日](../Page/6月1日.md "wikilink") -デビュー記念日に「[日本武道館](../Page/日本武道館.md "wikilink")」でライブ開催。
-  - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 57thシングル「[SUMMER TIME](https://ja.wikipedia.org/wiki/SUMMER_TIME "wikilink")」をリリース。
+  - [6月2日](../Page/6月2日.md "wikilink") - 57thシングル「[SUMMER TIME](https://ja.wikipedia.org/wiki/SUMMER_TIME "wikilink")」をリリース。
   - 6月5日 - TUBE LIVE AROUND 2015を[市川市文化会館](../Page/市川市文化会館.md "wikilink")より公演。
   - [6月17日](../Page/6月17日.md "wikilink") - 33rdアルバム「[Your TUBE+My TUBE](https://ja.wikipedia.org/wiki/Your_TUBE+My_TUBE "wikilink")」をリリース。
   - [7月5日](../Page/7月5日.md "wikilink") - 全国ツアー「TUBE LIVE AROUND 2015 Your TUBE＋My TUBE」[東京エレクトロンホール宮城公演にて](../Page/宮城県民会館.md "wikilink")、通算1000本目のライブを達成した\[22\]。
@@ -1081,7 +1081,7 @@
 </tr>
 <tr class="odd">
 <td><p>51st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/灼熱らぶ" title="wikilink">灼熱らぶ</a></strong></p></td>
 <td><p>作詞：前田亘輝<br />
 作曲：春畑道哉<br />
@@ -1141,7 +1141,7 @@
 </tr>
 <tr class="odd">
 <td><p>57th</p></td>
-<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SUMMER_TIME_(TUBEの曲)" title="wikilink">SUMMER TIME</a></strong></p></td>
 <td><p>作詞：前田亘輝<br />
 作曲：春畑道哉<br />
@@ -1787,7 +1787,7 @@ FACE THE BIG WAVE '''</p></td>
 <td><p><strong><a href="../Page/キリンレモン.md" title="wikilink">KIRIN LEMON</a> SPECIAL<br />
 TUBE COOL SHOWER LIVE</strong></p></td>
 <td><p>全5会場・6公演<br />
-<a href="../Page/名古屋城.md" title="wikilink">名古屋城</a>深井丸、<a href="https://ja.wikipedia.org/wiki/大阪スタヂアム" title="wikilink">大阪スタヂアム</a>、<a href="https://ja.wikipedia.org/wiki/京都しょうざん" title="wikilink">京都しょうざん</a>、<a href="../Page/よみうりランド.md" title="wikilink">よみうりランド</a>EAST、<a href="../Page/万座毛.md" title="wikilink">沖縄万座BEACH</a></p></td>
+<a href="../Page/名古屋城.md" title="wikilink">名古屋城</a>深井丸、<a href="../Page/大阪スタヂアム.md" title="wikilink">大阪スタヂアム</a>、<a href="https://ja.wikipedia.org/wiki/京都しょうざん" title="wikilink">京都しょうざん</a>、<a href="../Page/よみうりランド.md" title="wikilink">よみうりランド</a>EAST、<a href="../Page/万座毛.md" title="wikilink">沖縄万座BEACH</a></p></td>
 <td><p>‐</p></td>
 </tr>
 <tr class="odd">
@@ -2042,7 +2042,7 @@ It' International Amusement,Wonderfui! Active</p></td>
 TUBE LIVE AROUND SPECIAL 2000.6.1<br />
 in Aloha Stadium</strong></p></td>
 <td><p>全1会場・1公演<br />
-<a href="https://ja.wikipedia.org/wiki/アロハ・スタジアム" title="wikilink">Aloha Stadium</a>（ハワイ）</p></td>
+<a href="../Page/アロハ・スタジアム.md" title="wikilink">Aloha Stadium</a>（ハワイ）</p></td>
 <td></td>
 </tr>
 <tr class="even">

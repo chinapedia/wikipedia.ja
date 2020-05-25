@@ -18,7 +18,7 @@
 
   - [エーアイ (ゲーム会社)](https://ja.wikipedia.org/wiki/エーアイ_\(ゲーム会社\) "wikilink") - 日本のコンピュータゲーム制作会社。
   - [エーアイ (文京区)](https://ja.wikipedia.org/wiki/エーアイ_\(文京区\) "wikilink") - 日本の音声合成関連企業。[マザーズ](../Page/マザーズ.md "wikilink")上場。
-  - エーアイ - パチンコ・パチスロメーカーの[大都技研](https://ja.wikipedia.org/wiki/大都技研 "wikilink")の旧社名。
+  - エーアイ - パチンコ・パチスロメーカーの[大都技研](../Page/大都技研.md "wikilink")の旧社名。
 
 ### 作品名
 

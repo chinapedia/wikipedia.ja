@@ -21,7 +21,7 @@
   - [アダムス・ファミリー2](https://ja.wikipedia.org/wiki/アダムス・ファミリー#アダムス・ファミリー2 "wikilink")
   - [アップルゲイツ](../Page/アップルゲイツ.md "wikilink")
   - [アメリカン・サイコ](https://ja.wikipedia.org/wiki/アメリカン・サイコ "wikilink")
-  - [カラー・オブ・ハート](https://ja.wikipedia.org/wiki/カラー・オブ・ハート "wikilink")
+  - [カラー・オブ・ハート](../Page/カラー・オブ・ハート.md "wikilink")
   - [ザ・クラフト](https://ja.wikipedia.org/wiki/ザ・クラフト "wikilink")
   - [誘う女](../Page/誘う女.md "wikilink")
   - [シリアル・ママ](../Page/シリアル・ママ.md "wikilink")

@@ -63,7 +63,7 @@ Independent JPEG Group によるフリーのライブラリ [libjpeg](https://ja
 ## 関連項目
 
   - 派生規格
-      - [CPKTフォーマット](https://ja.wikipedia.org/wiki/CPKTフォーマット "wikilink")
+      - [CPKTフォーマット](../Page/CPKTフォーマット.md "wikilink")
       - [JPEG-HDR](https://ja.wikipedia.org/wiki/JPEG-HDR "wikilink")
       - [Lossless JPEG](https://ja.wikipedia.org/wiki/Lossless_JPEG "wikilink")
   - ポストJPEG規格

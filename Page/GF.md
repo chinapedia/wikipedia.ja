@@ -31,7 +31,7 @@
   - [ギャラクシーフォース](../Page/ギャラクシーフォース.md "wikilink") - セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")
   - ガーディアンフォース - [ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")における[召喚獣](../Page/ファイナルファンタジーシリーズの召喚獣.md "wikilink")
   - [ガールフレンド（仮）](https://ja.wikipedia.org/wiki/ガールフレンド（仮） "wikilink") - [サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")のソーシャルゲームの略称
-  - *G(angan) Fantasy* - [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")の略称
+  - *G(angan) Fantasy* - [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")発行の[漫画雑誌](../Page/漫画雑誌.md "wikilink")[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")の略称
 
 <!-- end list -->
 

@@ -13,7 +13,7 @@ Ruby は[1993年](../Page/1993年.md "wikilink")[2月24日](https://ja.wikipedia
 
 Ruby 処理系は、主に[インタプリタ](../Page/インタプリタ.md "wikilink")として実装されている（詳しくは[\#実装](https://ja.wikipedia.org/wiki/#実装 "wikilink")を参照）。
 
-[可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")を重視した構文となっている。Ruby においては整数や文字列なども含めデータ型はすべてがオブジェクトであり、純粋な[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")言語といえる。
+[可読性](../Page/可読性.md "wikilink")を重視した構文となっている。Ruby においては整数や文字列なども含めデータ型はすべてがオブジェクトであり、純粋な[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")言語といえる。
 
 長らく言語仕様が明文化されず、まつもとによる実装が言語仕様に準ずるものとして扱われて来たが、2010年6月現在、[JRuby](https://ja.wikipedia.org/wiki/JRuby "wikilink") や Rubinius といった互換実装の作者を中心に機械実行可能な形で明文化する RubySpec という試みが行われている。公的規格としては2011年3月22日にJIS規格（JIS X 3017）が制定され、その後2012年4月1日に日本発のプログラム言語では初めてISO/IEC規格（ISO/IEC 30170）として承認された \[4\]。
 

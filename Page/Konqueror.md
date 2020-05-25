@@ -1,7 +1,7 @@
 > この記事は[Konqueror](https://ja.wikipedia.org/wiki/Konqueror)から翻訳されています。
 
 
-**Konqueror** （コンカラー、コンケラー、コンキュラー）は、[KDE](../Page/KDE.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の中核として設計された[ファイルビューア](https://ja.wikipedia.org/wiki/ファイルビューア "wikilink")としての機能を提供する[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")および[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")である。元々はボランティアによって開発されたもので、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")などの [Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のほか、[Windowsや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")上でも動作する。Konquerorは[KDEBase](https://ja.wikipedia.org/wiki/KDEBase "wikilink")パッケージ内の他のコンポーネントと同様に[GNU General Public Licenseの下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。
+**Konqueror** （コンカラー、コンケラー、コンキュラー）は、[KDE](../Page/KDE.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の中核として設計された[ファイルビューア](https://ja.wikipedia.org/wiki/ファイルビューア "wikilink")としての機能を提供する[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")および[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")である。元々はボランティアによって開発されたもので、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")などの [Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")のほか、[Windowsや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")上でも動作する。Konquerorは[KDEBase](https://ja.wikipedia.org/wiki/KDEBase "wikilink")パッケージ内の他のコンポーネントと同様に[GNU General Public Licenseの下で配布されている](../Page/GNU_General_Public_License.md "wikilink")。
 
 ## ユーザインタフェース
 

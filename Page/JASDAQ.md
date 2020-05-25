@@ -169,7 +169,7 @@
   - [フライングガーデン](../Page/フライングガーデン.md "wikilink") ()
   - [東京日産コンピュータシステム](https://ja.wikipedia.org/wiki/東京日産コンピュータシステム "wikilink") ()
   - [メガネスーパー](../Page/メガネスーパー.md "wikilink") ()
-  - [ツクイ](https://ja.wikipedia.org/wiki/ツクイ "wikilink") ()
+  - [ツクイ](../Page/ツクイ.md "wikilink") ()
   - [メッセージ](https://ja.wikipedia.org/wiki/SOMPOケアメッセージ "wikilink") ()
   - [アーム電子](https://ja.wikipedia.org/wiki/アーム電子 "wikilink") ()
   - [アルファグループ](https://ja.wikipedia.org/wiki/アルファグループ "wikilink") ()
@@ -232,7 +232,7 @@
   - [ハビックス](../Page/ハビックス.md "wikilink") ()
   - [ホロン](https://ja.wikipedia.org/wiki/ホロン_\(企業\) "wikilink") ()
   - [ワールドインテック](../Page/ワールドインテック.md "wikilink") ()
-  - [ワイエスフード](https://ja.wikipedia.org/wiki/ワイエスフード "wikilink") ()
+  - [ワイエスフード](../Page/ワイエスフード.md "wikilink") ()
   - [Human21](https://ja.wikipedia.org/wiki/Human21 "wikilink") ()
   - [テクマトリックス](https://ja.wikipedia.org/wiki/テクマトリックス "wikilink") ()
   - [丸誠](https://ja.wikipedia.org/wiki/丸誠 "wikilink") ()
@@ -259,7 +259,7 @@
   - [内外テック](https://ja.wikipedia.org/wiki/内外テック "wikilink") ()
   - [ウィズ](../Page/ウィズ_\(玩具\).md "wikilink") ()
   - [ZOA](../Page/ZOA.md "wikilink") ()
-  - [サンコーテクノ](https://ja.wikipedia.org/wiki/サンコーテクノ "wikilink") ()
+  - [サンコーテクノ](../Page/サンコーテクノ.md "wikilink") ()
   - [ミクロン精密](../Page/ミクロン精密.md "wikilink") ()
   - [メディキット](https://ja.wikipedia.org/wiki/メディキット "wikilink") ()
   - [プラップジャパン](../Page/プラップジャパン.md "wikilink") ()
@@ -285,7 +285,7 @@
   - [ヴィンキュラムジャパン](https://ja.wikipedia.org/wiki/ヴィンキュラムジャパン "wikilink") ()
   - [日本オフィス・システム](https://ja.wikipedia.org/wiki/日本オフィス・システム "wikilink") ()
   - [プロデュース](../Page/プロデュース_\(新潟県\).md "wikilink") ()
-  - [IGポート](https://ja.wikipedia.org/wiki/IGポート "wikilink") ()
+  - [IGポート](../Page/IGポート.md "wikilink") ()
   - [日本パーキング](https://ja.wikipedia.org/wiki/日本パーキング "wikilink") ()
 
 ### 2006年上場
@@ -341,7 +341,7 @@
   - [大崎エンジニアリング](https://ja.wikipedia.org/wiki/大崎エンジニアリング "wikilink") ()
   - [エレコム](../Page/エレコム.md "wikilink") ()
   - [エイチアンドエフ](../Page/エイチアンドエフ.md "wikilink") ()
-  - [プロパスト](https://ja.wikipedia.org/wiki/プロパスト "wikilink") ()
+  - [プロパスト](../Page/プロパスト.md "wikilink") ()
   - [平田機工](../Page/平田機工.md "wikilink") ()
   - [ライフフーズ](../Page/ライフフーズ.md "wikilink") ()
   - [ヒップ](https://ja.wikipedia.org/wiki/ヒップ_\(人材派遣\) "wikilink") ()
@@ -372,7 +372,7 @@
   - [UTホールディングス](https://ja.wikipedia.org/wiki/UTホールディングス "wikilink") ()
   - [データリンクス](https://ja.wikipedia.org/wiki/データリンクス "wikilink") ()
   - [エイチアイ](https://ja.wikipedia.org/wiki/エイチアイ "wikilink") ()
-  - [パシフィックシステム](https://ja.wikipedia.org/wiki/パシフィックシステム "wikilink") ()
+  - [パシフィックシステム](../Page/パシフィックシステム.md "wikilink") ()
   - [ホリイフードサービス](https://ja.wikipedia.org/wiki/ホリイフードサービス "wikilink") ()
   - [データ・アプリケーション](https://ja.wikipedia.org/wiki/データ・アプリケーション "wikilink") ()
   - [ディーブイエックス](https://ja.wikipedia.org/wiki/ディーブイエックス "wikilink") ()
@@ -400,7 +400,7 @@
   - [ユビキタス](../Page/ユビキタスAIコーポレーション.md "wikilink") ()
   - [MICメディカル](https://ja.wikipedia.org/wiki/MICメディカル "wikilink") ()
   - [東山フイルム](https://ja.wikipedia.org/wiki/東山フイルム "wikilink") ()
-  - [太陽工機](https://ja.wikipedia.org/wiki/太陽工機 "wikilink") ()
+  - [太陽工機](../Page/太陽工機.md "wikilink") ()
 
 ### 2008年上場
 

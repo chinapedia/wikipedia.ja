@@ -9,7 +9,7 @@
   - [NTTインターコミュニケーション・センター](../Page/NTTインターコミュニケーション・センター.md "wikilink")の略称
   - [国際商業会議所](https://ja.wikipedia.org/wiki/国際商業会議所 "wikilink") (International Chamber of Commerce)
   - [協会貨物約款](../Page/協会貨物約款.md "wikilink") (Institute Cargo Clauses)
-  - [国際クリケット評議会](https://ja.wikipedia.org/wiki/国際クリケット評議会 "wikilink") (International Cricket Council)
+  - [国際クリケット評議会](../Page/国際クリケット評議会.md "wikilink") (International Cricket Council)
   - [インターナショナルチャンピオンズカップ](https://ja.wikipedia.org/wiki/インターナショナルチャンピオンズカップ "wikilink")（International Champions Cup）
   - [国際マンガ家大会](https://ja.wikipedia.org/wiki/マンガサミット "wikilink") (International Comic Airtist Conference)
   - [Intel C++ Compiler](../Page/Intel_C++_Compiler.md "wikilink")

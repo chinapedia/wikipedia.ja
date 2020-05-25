@@ -64,7 +64,7 @@
 <!-- end list -->
 
   - [1/10](https://ja.wikipedia.org/wiki/1/10 "wikilink")を表す[SI接頭辞](../Page/SI接頭辞.md "wikilink")**[デシ](https://ja.wikipedia.org/wiki/デシ "wikilink")**（小文字）。
-  - [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")の同位体[重水素](../Page/重水素.md "wikilink")（）を表す記号（大文字）。
+  - [水素](../Page/水素.md "wikilink")の同位体[重水素](../Page/重水素.md "wikilink")（）を表す記号（大文字）。
   - [双極子モーメント](https://ja.wikipedia.org/wiki/双極子モーメント "wikilink")の[単位](../Page/単位.md "wikilink")、[デバイ](https://ja.wikipedia.org/wiki/デバイ "wikilink")（**D**ebye、大文字）。
 
 <!-- end list -->
@@ -136,7 +136,7 @@
           - 同作内のチーム「プロジェクトD」。
       - [Des-ROWのCDアルバム](../Page/右寺修.md "wikilink")。[D.](../Page/D..md "wikilink")を参照のこと。
   - 芸能・スポーツ
-      - 日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド、[D (バンド)](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink")。
+      - 日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド、[D (バンド)](../Page/D_\(バンド\).md "wikilink")。
       - 日本の女性アーティスト、[D［di:］](../Page/D［di:］.md "wikilink")。
       - 日本の[プロ野球球団](../Page/日本プロ野球.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink") (Dragons) の略号。
       - 日本のプロ野球球団[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink") の略号。中日との混合のために使われることは少ない。

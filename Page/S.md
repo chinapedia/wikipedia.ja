@@ -128,7 +128,7 @@
       - [特殊作戦群](../Page/特殊作戦群.md "wikilink")(陸上自衛隊の特殊部隊)のこと。一般隊員からは「S」と呼ばれる。報道陣の間では特戦群、特戦、特作とも略される。
       - [Mr.S](https://ja.wikipedia.org/wiki/アイカツ!の登場人物一覧 "wikilink") - [アニメ](../Page/アニメ.md "wikilink")「[アイカツ\!](https://ja.wikipedia.org/wiki/アイカツ!_\(アニメ\) "wikilink")」の登場人物。
       - [営団地下鉄](https://ja.wikipedia.org/wiki/営団地下鉄 "wikilink")(現・[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink"))の旧社紋。
-      - [編集者](../Page/編集者.md "wikilink")・[文筆家](../Page/著作家.md "wikilink")・[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")・[住職](../Page/住職.md "wikilink")・[アニメ映画](../Page/アニメーション映画.md "wikilink")『[コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")』[漫画原作者](../Page/漫画原作者.md "wikilink")・[群雄社出版](https://ja.wikipedia.org/wiki/群雄社出版 "wikilink")編集局長の[佐山哲郎](https://ja.wikipedia.org/wiki/佐山哲郎 "wikilink")の別名。
+      - [編集者](../Page/編集者.md "wikilink")・[文筆家](../Page/著作家.md "wikilink")・[歌人](../Page/歌人.md "wikilink")・[住職](../Page/住職.md "wikilink")・[アニメ映画](../Page/アニメーション映画.md "wikilink")『[コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")』[漫画原作者](../Page/漫画原作者.md "wikilink")・[群雄社出版](https://ja.wikipedia.org/wiki/群雄社出版 "wikilink")編集局長の[佐山哲郎](https://ja.wikipedia.org/wiki/佐山哲郎 "wikilink")の別名。
       - 英語「Super」の略であり、ゲーム・マンガ・アニメ等ポップカルチャー領域における一種の能力値設定の評価単位として使用される。具体例としては『[東京喰種](https://ja.wikipedia.org/wiki/東京喰種トーキョーグール "wikilink")』における「S～SSS級喰種」、『[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")』における適正「S」、スマホガチャゲームにおける「SR（スーパーレアの意）」等が挙げられる。通常は段階評価基準の最高ランクである「A」ランクをも上回る規格外評価とされている。
 
 ## 符号位置

@@ -12,7 +12,7 @@
   - [愛のメイドホテル物語 〜愛しのスク水・メイド〜](https://ja.wikipedia.org/wiki/愛のメイドホテル物語_〜愛しのスク水・メイド〜 "wikilink")（[2004年](../Page/2004年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")）
   - [双子モノ](https://ja.wikipedia.org/wiki/双子モノ "wikilink") Pure Ver.（[2005年](../Page/2005年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")） - ダウンロード販売。「純愛系」ストーリーの「Pure Story Ver.」のみ。
   - 双子モノ Twin Pack.（2005年[12月9日](../Page/12月9日.md "wikilink")） - 上記に「鬼畜系」ストーリー「Dark Story Ver.」を付加したパッケージ発売版。
-  - [姉妹丼 〜汁だくで〜](https://ja.wikipedia.org/wiki/姉妹丼_〜汁だくで〜 "wikilink")（[2006年](../Page/2006年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
+  - [姉妹丼 〜汁だくで〜](https://ja.wikipedia.org/wiki/姉妹丼_〜汁だくで〜 "wikilink")（[2006年](../Page/2006年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")）
   - [美味しい棒が2本](https://ja.wikipedia.org/wiki/美味しい棒が2本 "wikilink")（[2006年](../Page/2006年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")）
 
 ## 主なスタッフ

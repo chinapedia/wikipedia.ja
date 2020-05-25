@@ -165,7 +165,7 @@
   - 『[ケルアックに何が起こったのか?](https://ja.wikipedia.org/wiki/ケルアックに何が起こったのか? "wikilink")』*What Happened To Keruac?* (1985年)
   - 『[ローリー・アンダーソン](https://ja.wikipedia.org/wiki/ローリー・アンダーソン "wikilink") 0＆1 トップ』*Home of the Brave* (1986年)
   - 『[ヘビー・ペッティング](https://ja.wikipedia.org/wiki/ヘビー・ペッティング "wikilink")』*Heavy Petting* (1988年)
-  - 『[アインシュタインの脳](https://ja.wikipedia.org/wiki/アインシュタインの脳 "wikilink")』*Einstein's Brain* (1994年)
+  - 『[アインシュタインの脳](../Page/アインシュタインの脳.md "wikilink")』*Einstein's Brain* (1994年)
   - 『[SEPTEMBER Songs 9月のクルト・ヴァイル](https://ja.wikipedia.org/wiki/SEPTEMBER_Songs_9月のクルト・ヴァイル "wikilink")』*September Songs* (1995年)
   - 『[シェルタリング・スカイを書いた男 ポール・ボウルズの告白](https://ja.wikipedia.org/wiki/シェルタリング・スカイを書いた男_ポール・ボウルズの告白 "wikilink")』*Let It Come Down: The Life Of Paul Bowles* (1998年)
   - 『[ビートニク](https://ja.wikipedia.org/wiki/ビートニク_\(映画\) "wikilink")』*The Source* (1999年)

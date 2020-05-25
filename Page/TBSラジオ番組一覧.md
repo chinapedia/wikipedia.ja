@@ -5,7 +5,7 @@
 
 ## 番組の編成傾向・歴史
 
-かつては*民放の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")*と揶揄されたこともあり、番組カラーとして「真面目さ」があった。1980年代ごろまではこの真面目さが目立ち、ライバルである[ニッポン放送](../Page/ニッポン放送.md "wikilink")に長年の間、[聴取率](../Page/聴取率.md "wikilink")で差が付けられていた時期もあったが、2001年8月以降は[首都圏での聴取率首位を不動の座にしている](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。
+かつては*民放の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")*と揶揄されたこともあり、番組カラーとして「真面目さ」があった。1980年代ごろまではこの真面目さが目立ち、ライバルである[ニッポン放送](../Page/ニッポン放送.md "wikilink")に長年の間、[聴取率](../Page/聴取率.md "wikilink")で差が付けられていた時期もあったが、2001年8月以降は[首都圏での聴取率首位を不動の座にしている](../Page/首都圏_\(日本\).md "wikilink")。
 
 聴取率好調の要因としては、TBSラジオを[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")とする[ラジオネットワーク](../Page/ラジオネットワーク.md "wikilink")の[JRN及び](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")、同局の兄弟会社である[TBSテレビ](../Page/TBSテレビ.md "wikilink")をキー局とする[ニュースネットワークの](../Page/ニュース系列.md "wikilink")[JNNが誇る取材力を生かし](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、充実した[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")が聴取者に受け入れられており、特に50 - 60代のラジオに慣れ親しんだ世代からの支持が強く、また聴取率調査の年齢対象が69歳にまで引き上げられたことが背景としてある。また従来のTBSカラーとは異なる[宮川賢](../Page/宮川賢.md "wikilink")・[伊集院光](../Page/伊集院光.md "wikilink")・[松本ともこ](../Page/松本ともこ.md "wikilink")などの[深夜放送](../Page/深夜放送.md "wikilink")や他局から移籍した[パーソナリティが](../Page/ラジオパーソナリティ.md "wikilink")、日中の番組に上手く定着したことも、現在好調の一因ともなっている。
 
@@ -307,7 +307,7 @@
 <a href="https://ja.wikipedia.org/wiki/篠田麻里子のGOOD_LIFE_LAB!" title="wikilink">篠田麻里子のGOOD LIFE LAB!</a><br />
 <a href="https://ja.wikipedia.org/wiki/篠田麻里子" title="wikilink">篠田麻里子</a>、宇垣美里、<a href="https://ja.wikipedia.org/wiki/アポロン山崎" title="wikilink">アポロン山崎</a></p></td>
 <td><p>30 <a href="https://ja.wikipedia.org/wiki/イモトアヤコのすっぴんしゃん" title="wikilink">イモトアヤコのすっぴんしゃん</a><br />
-<a href="https://ja.wikipedia.org/wiki/イモトアヤコ" title="wikilink">イモトアヤコ</a></p></td>
+<a href="../Page/イモトアヤコ.md" title="wikilink">イモトアヤコ</a></p></td>
 <td><p>30 <a href="../Page/ブシロード.md" title="wikilink">ブシロード</a> presents<br />
 <a href="https://ja.wikipedia.org/wiki/相羽あいなの大こ〜かいRaDiO" title="wikilink">相羽あいなの大こ〜かいRaDiO</a><br />
 <a href="https://ja.wikipedia.org/wiki/相羽あいな" title="wikilink">相羽あいな</a></p></td>
@@ -484,7 +484,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9:35 <a href="https://ja.wikipedia.org/wiki/ハライチ岩井_ダイナミックなターン!" title="wikilink">ハライチ岩井 ダイナミックなターン!</a> - 岩井勇気（ハライチ）、<a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
+<td><p>9:35 <a href="../Page/ハライチ岩井_ダイナミックなターン!.md" title="wikilink">ハライチ岩井 ダイナミックなターン!</a> - 岩井勇気（ハライチ）、<a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -855,7 +855,7 @@
 
 #### 週末
 
-  - [土曜日です おはよう大沢悠里です](https://ja.wikipedia.org/wiki/土曜日です_おはよう大沢悠里です "wikilink")
+  - [土曜日です おはよう大沢悠里です](../Page/土曜日です_おはよう大沢悠里です.md "wikilink")
   - ハリキリサタデー
   - 山加朱美のラブラブジョッキー
   - [浦口直樹](../Page/浦口直樹.md "wikilink")の土曜が一番

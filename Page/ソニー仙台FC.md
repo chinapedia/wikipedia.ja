@@ -319,7 +319,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/第10回日本フットボールリーグ.md" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/田端秀規.md" title="wikilink">田端秀規</a></p></td>
 <td><p>34</p></td>
 <td><p>49</p></td>

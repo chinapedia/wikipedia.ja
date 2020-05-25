@@ -178,7 +178,7 @@
   - 小相撲
     普段は体験できない[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")の世界を、[番組視聴者に体験してもらおうという企画](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")。[相撲](../Page/相撲.md "wikilink")好きであるにもかかわらず諸事情で大相撲の世界に入れなかった者から単に興味がある者まで、あらゆる参加者が訪れ、「小相撲」なので[新弟子検査](../Page/新弟子検査.md "wikilink")基準（身長・体重）を下回ることが条件だった。序盤はパロディの要素もあるので笑いも出たが、[打ち止め](https://ja.wikipedia.org/wiki/打ち止め "wikilink")の一番では技術の確かな者同士が力のこもった対戦を繰り広げた。
   - お暗いマンガ道場
-    当時、番組ネット局の中京テレビが制作・放送していた[長寿番組](../Page/長寿番組の一覧.md "wikilink")『[お笑いマンガ道場](../Page/お笑いマンガ道場.md "wikilink")』のパロディ企画。本家同様、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")による大喜利。[蛭子能収](../Page/蛭子能収.md "wikilink")がこの企画の全ての回に登場したほか、[ひさうちみちお](../Page/ひさうちみちお.md "wikilink")などの本職の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")も出演している。
+    当時、番組ネット局の中京テレビが制作・放送していた[長寿番組](../Page/長寿番組の一覧.md "wikilink")『[お笑いマンガ道場](../Page/お笑いマンガ道場.md "wikilink")』のパロディ企画。本家同様、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")による大喜利。[蛭子能収](../Page/蛭子能収.md "wikilink")がこの企画の全ての回に登場したほか、[ひさうちみちお](../Page/ひさうちみちお.md "wikilink")などの本職の[漫画家](../Page/漫画家.md "wikilink")も出演している。
     本家でも行われていた、イラストにお題に出された物をあわせたマンガを作る[コラージュ](../Page/コラージュ.md "wikilink")マンガや[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")マンガも行われた。ダジャレマンガでは上岡にウケたネタならダジャレに使った食材を使った料理が食べられる。ウケは二の次で、深夜らしい、くだらない内容の問題が多かった。
   - 指名手配容疑者に送る自首のすすめ
     [指名手配](../Page/指名手配.md "wikilink")中の[容疑者](https://ja.wikipedia.org/wiki/容疑者 "wikilink")を丁寧かつ分かりやすく紹介し、事件解決の可能性を高める正義の硬派企画。

@@ -17,7 +17,7 @@
   - [群馬バス](../Page/群馬バス.md "wikilink") (Gunma Bus)
   - [GB (バンド)](https://ja.wikipedia.org/wiki/GB_\(バンド\) "wikilink")（Geinin Bandが語源） - 日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属のお笑い芸人4人からなる。
   - [ゲームボーイ](../Page/ゲームボーイ.md "wikilink") (Game Boy) - [任天堂](../Page/任天堂.md "wikilink")の[携帯ゲーム機](../Page/携帯型ゲーム.md "wikilink")。
-  - [ホンダ・GB](https://ja.wikipedia.org/wiki/ホンダ・GB "wikilink") - [本田技研工業](../Page/本田技研工業.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")「GB500TT」「GB400TT」「[GB250クラブマン](https://ja.wikipedia.org/wiki/ホンダ・GB250クラブマン "wikilink")」のシリーズ車種。
+  - [ホンダ・GB](../Page/ホンダ・GB.md "wikilink") - [本田技研工業](../Page/本田技研工業.md "wikilink")の[オートバイ](../Page/オートバイ.md "wikilink")「GB500TT」「GB400TT」「[GB250クラブマン](../Page/ホンダ・GB250クラブマン.md "wikilink")」のシリーズ車種。
   - [ギャツビー](https://ja.wikipedia.org/wiki/ギャツビー "wikilink") (Gatsby) - [小説](../Page/小説.md "wikilink")のシリーズ、およびその主人公
   - [ゲットバッカーズ](https://ja.wikipedia.org/wiki/ゲットバッカーズ "wikilink") - 漫画およびそれに登場する2人の主人公のコンビ名の略称。
   - GB-1/2 - ビーチクラフトが製作したアメリカ海軍の単発輸送機[ビーチクラフト スタッガーウィング](../Page/ビーチクラフト_スタッガーウィング.md "wikilink")。

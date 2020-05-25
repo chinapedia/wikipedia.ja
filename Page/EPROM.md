@@ -7,7 +7,7 @@
 
 ## 動作
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Uv_prom.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Floating_gate_transistor.png "wikilink") EPROMメモリセルの開発は、トランジスタのゲートの配線が壊れた集積回路を調査することから始まった。配線のない孤立したゲートに溜まった電荷により、その特性が変化したのである。EPROMは1971年に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[ドブ・フローマン](https://ja.wikipedia.org/wiki/ドブ・フローマン "wikilink") が発明し、1972年にアメリカ合衆国特許第3660189号を取得した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Uv_prom.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Floating_gate_transistor.png "wikilink") EPROMメモリセルの開発は、トランジスタのゲートの配線が壊れた集積回路を調査することから始まった。配線のない孤立したゲートに溜まった電荷により、その特性が変化したのである。EPROMは1971年に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の[ドブ・フローマン](../Page/ドブ・フローマン.md "wikilink") が発明し、1972年にアメリカ合衆国特許第3660189号を取得した。
 
 EPROMで1ビットのデータが格納される場所は、1個の[電界効果トランジスタ](../Page/電界効果トランジスタ.md "wikilink")である。それぞれの電界効果トランジスタは、デバイスの半導体本体中のチャネルで構成される。ソースとドレインはチャネルの両端に形成される。絶縁酸化層がチャネル上を覆い、伝導性（ケイ素またはアルミニウム）のゲート電極がその上に配置され、さらに分厚い酸化層がゲート電極の上に形成される。フローティングゲートには配線がなく集積回路内の他の部品とは繋がっておらず、周囲は酸化層によって完全に絶縁されている。コントロールゲートがその上に配置され、それをさらに酸化層で覆う\[1\]。
 

@@ -36,7 +36,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 ### globe 4 SINGLES - CRUISE RECORD（1998-2000）
 
-同年秋、「BRAND NEW globe 4 SINGLES」と題し、[9月2日](../Page/9月2日.md "wikilink")に「[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")」、[9月23日](../Page/9月23日.md "wikilink")に「[Sa Yo Na Ra](../Page/Sa_Yo_Na_Ra.md "wikilink")」、[9月30日](../Page/9月30日.md "wikilink")に「[sweet heart](https://ja.wikipedia.org/wiki/sweet_heart_\(globeの曲\) "wikilink")」、[10月7日](../Page/10月7日.md "wikilink")に「[Perfume of love](../Page/Perfume_of_love.md "wikilink")」と4連続シングルリリースを行い、話題となった。10月26日付の[オリコン週間シングルチャートにて](../Page/オリコンチャート.md "wikilink")4曲が同時に上位10位以内にチャートインした。これはオリコンシングルチャート史上初の記録であり、「発売日が異なる再発でない同一アーティストによるシングルの複数チャートイン」として現在も記録が保持されている。それらの活動が認められ、「wanna Be A Dreammaker」で1998年[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")を受賞した。また、この4枚のシングルを購入し、それぞれに封入されている応募券を送ると非売品シングルCD「[winter comes around again](https://ja.wikipedia.org/wiki/winter_comes_around_again "wikilink")」が応募者全員にプレゼントされるという企画を実施（当時はライブなどで一切この楽曲は演奏されることはないと言っていたが、2002年11月発売のベスト・アルバム『[8 Years 〜Many Classic Moments〜](https://ja.wikipedia.org/wiki/8_Years_〜Many_Classic_Moments〜 "wikilink")』でTK mixで収録）。
+同年秋、「BRAND NEW globe 4 SINGLES」と題し、[9月2日](../Page/9月2日.md "wikilink")に「[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")」、[9月23日](../Page/9月23日.md "wikilink")に「[Sa Yo Na Ra](../Page/Sa_Yo_Na_Ra.md "wikilink")」、[9月30日](../Page/9月30日.md "wikilink")に「[sweet heart](https://ja.wikipedia.org/wiki/sweet_heart_\(globeの曲\) "wikilink")」、[10月7日](../Page/10月7日.md "wikilink")に「[Perfume of love](../Page/Perfume_of_love.md "wikilink")」と4連続シングルリリースを行い、話題となった。10月26日付の[オリコン週間シングルチャートにて](../Page/オリコンチャート.md "wikilink")4曲が同時に上位10位以内にチャートインした。これはオリコンシングルチャート史上初の記録であり、「発売日が異なる再発でない同一アーティストによるシングルの複数チャートイン」として現在も記録が保持されている。それらの活動が認められ、「wanna Be A Dreammaker」で1998年[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")を受賞した。また、この4枚のシングルを購入し、それぞれに封入されている応募券を送ると非売品シングルCD「[winter comes around again](https://ja.wikipedia.org/wiki/winter_comes_around_again "wikilink")」が応募者全員にプレゼントされるという企画を実施（当時はライブなどで一切この楽曲は演奏されることはないと言っていたが、2002年11月発売のベスト・アルバム『[8 Years 〜Many Classic Moments〜](../Page/8_Years_〜Many_Classic_Moments〜.md "wikilink")』でTK mixで収録）。
 
 [1999年](../Page/1999年.md "wikilink")2月、初の[リミックス](../Page/リミックス.md "wikilink")アルバムの公開[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われた（当日はタイトル未定であり、後に『[FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")』として発売）。このレコーディングに参加できたのは、アルバム『[Relation](../Page/Relation_\(globeのアルバム\).md "wikilink")』を購入し、応募してきた10万通の中から選ばれた200組400人、抽選倍率は約500倍であった。 [9月22日](../Page/9月22日.md "wikilink")、アルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』の発売日に大阪 Virgin Megastore 心斎橋店にて発売記念インストアイベントが行われた。この日はイベントだけではなく、「1day globe ジャック\!\!」と銘打ち店内全てをglobeのCDで埋め尽くすという、大胆な企画も決行された。
 
@@ -618,7 +618,7 @@ AVCX-70068</p></td>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/11月27日.md" title="wikilink">11月27日</a><br />
 <a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/1月28日.md" title="wikilink">1月28日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/8_Years_〜Many_Classic_Moments〜" title="wikilink">8 YEARS 〜Many Classic Moments〜</a></p></td>
+<td><p><a href="../Page/8_Years_〜Many_Classic_Moments〜.md" title="wikilink">8 YEARS 〜Many Classic Moments〜</a></p></td>
 <td><p>AVCG-70013<br />
 AVAG-72200</p></td>
 <td><p>CCCD<br />
@@ -627,7 +627,7 @@ AVAG-72200</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002年<a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ballads_&amp;_Memories" title="wikilink">Ballads &amp; Memories</a></p></td>
+<td><p><a href="../Page/Ballads_&amp;_Memories.md" title="wikilink">Ballads &amp; Memories</a></p></td>
 <td><p>AVCG-70015</p></td>
 <td><p>CCCD</p></td>
 <td><p>13位</p></td>
@@ -698,7 +698,7 @@ CCCD[21]</p></td>
 | 発売日                                                                      | タイトル                                                                                                                 | 規格No.            | 販売形態                                                    | 最高位 |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | --- |
 | [1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") | [FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")                                                           | AVCG-70005       | CD                                                      | 4位  |
-| [2000年](../Page/2000年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") | [SUPER EUROBEAT presents EURO global](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT_presents_EURO_global "wikilink")  | AVCD-11845\[24\] | 3位                                                      |     |
+| [2000年](../Page/2000年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") | [SUPER EUROBEAT presents EURO global](../Page/SUPER_EUROBEAT_presents_EURO_global.md "wikilink")                     | AVCD-11845\[24\] | 3位                                                      |     |
 | [2001年](../Page/2001年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink") | [global trance](https://ja.wikipedia.org/wiki/global_trance "wikilink")                                              | AVCG-70009       | 4位                                                      |     |
 | 2001年[11月10日](../Page/11月10日.md "wikilink")                              | [global trance ep](https://ja.wikipedia.org/wiki/global_trance_ep "wikilink")                                        | RR12-88323       | [アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink") | \-  |
 | [2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink") | [global trance 2](https://ja.wikipedia.org/wiki/global_trance_2 "wikilink")                                          | AVCG-70012       | CCCD                                                    | 22位 |

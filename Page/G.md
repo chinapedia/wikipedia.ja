@@ -132,7 +132,7 @@
   - [NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")がジェネオン・ユニバーサル・エンターテイメントジャパン (GENEON)時代に利用していた略号及びロゴマーク。
   - [ゴールドウイン](../Page/ゴールドウイン.md "wikilink") (Goldwin) の略号及びロゴマーク。
   - [Gスポット](../Page/Gスポット.md "wikilink")。
-  - [ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")(Gokiburi)の隠語、俗語。ゴキブリという言葉を口に出したくない時などに使われる。
+  - [ゴキブリ](../Page/ゴキブリ.md "wikilink")(Gokiburi)の隠語、俗語。ゴキブリという言葉を口に出したくない時などに使われる。
   - [アメリカンフットボールのポジション](../Page/アメリカンフットボールのポジション.md "wikilink")の一つガード(guard)。
   - [建物](../Page/建物.md "wikilink")の[階](../Page/階.md "wikilink")の表記で地上階（ground floor、米日などの1階）。ヨーロッパ、香港などで使われる。日本でも稀に使われることがある。
   - [自慰](https://ja.wikipedia.org/wiki/自慰 "wikilink")。

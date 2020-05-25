@@ -210,7 +210,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="odd">
 <td><p>札幌藻岩下</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌藻岩下テレビ中継局" title="wikilink">札幌藻岩下テレビ中継局</a></p></td>
+<td><p><a href="../Page/札幌藻岩下テレビ中継局.md" title="wikilink">札幌藻岩下テレビ中継局</a></p></td>
 <td><p>9ch (1W)</p></td>
 <td><p>7ch (1W)</p></td>
 <td><p>16ch (0.3W)</p></td>
@@ -220,7 +220,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="even">
 <td><p>芦別</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芦別中継局" title="wikilink">芦別中継局</a></p></td>
+<td><p><a href="../Page/芦別中継局.md" title="wikilink">芦別中継局</a></p></td>
 <td><p>4ch (65W)</p></td>
 <td><p>2ch (65W)</p></td>
 <td><p>15ch (3W)</p></td>
@@ -260,7 +260,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="even">
 <td><p>歌志内</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/歌志内中継局" title="wikilink">歌志内中継局</a></p></td>
+<td><p><a href="../Page/歌志内中継局.md" title="wikilink">歌志内中継局</a></p></td>
 <td><p>56ch (100W)</p></td>
 <td><p>52ch (100W)</p></td>
 <td><p>42ch (10W)</p></td>
@@ -520,7 +520,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="even">
 <td><p>岩内</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩内中継局" title="wikilink">岩内中継局</a></p></td>
+<td><p><a href="../Page/岩内中継局.md" title="wikilink">岩内中継局</a></p></td>
 <td><p>9ch (100W)</p></td>
 <td><p>11ch (100W)</p></td>
 <td><p>15ch (10W)</p></td>
@@ -540,7 +540,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="even">
 <td><p>寿都</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/寿都中継局" title="wikilink">寿都中継局</a></p></td>
+<td><p><a href="../Page/寿都中継局.md" title="wikilink">寿都中継局</a></p></td>
 <td><p>43ch (10W)</p></td>
 <td><p>45ch (10W)</p></td>
 <td><p>18ch (1W)</p></td>
@@ -590,7 +590,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="odd">
 <td><p>南羊蹄</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/南羊蹄中継局" title="wikilink">南羊蹄中継局</a></p></td>
+<td><p><a href="../Page/南羊蹄中継局.md" title="wikilink">南羊蹄中継局</a></p></td>
 <td><p>58ch (10W)</p></td>
 <td><p>56ch (10W)</p></td>
 <td><p>34ch (1W)</p></td>
@@ -600,7 +600,7 @@ JOIK-FM</p></th>
 </tr>
 <tr class="even">
 <td><p>黒松内</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黒松内中継局" title="wikilink">黒松内中継局</a></p></td>
+<td><p><a href="../Page/黒松内中継局.md" title="wikilink">黒松内中継局</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>15ch (3W)</p></td>

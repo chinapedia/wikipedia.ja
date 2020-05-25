@@ -240,7 +240,7 @@
   - ジョンモンタナフットボール（北米・欧州版のみ）
   - DUNE（ヴァージンゲーム、海外のみ）
   - [ロードブラスター](../Page/ロードブラスター.md "wikilink")（ウルフチーム/データイースト）
-  - [LUNAR](https://ja.wikipedia.org/wiki/LUNAR "wikilink")シリーズ（ゲームアーツ）
+  - [LUNAR](../Page/LUNAR.md "wikilink")シリーズ（ゲームアーツ）
       - [LUNAR ザ・シルバースター](../Page/LUNAR_ザ・シルバースター.md "wikilink")（ゲームアーツ）
       - [LUNAR ETERNAL BLUE](../Page/LUNAR_ETERNAL_BLUE.md "wikilink")（ゲームアーツ）
   - [ライズ・オブ・ザ・ドラゴン](https://ja.wikipedia.org/wiki/ライズ・オブ・ザ・ドラゴン "wikilink")（セガ/ダイナミックス/ゲームアーツ）

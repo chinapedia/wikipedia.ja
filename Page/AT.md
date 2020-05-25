@@ -17,7 +17,7 @@
 
 ### 固有名詞
 
-  - [at\!](https://ja.wikipedia.org/wiki/アット! "wikilink") - [横浜みなとみらい地区の](../Page/横浜みなとみらい21.md "wikilink")[クイーンズスクエア横浜](../Page/クイーンズスクエア横浜.md "wikilink")内にかつて存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。[2017年](../Page/2017年.md "wikilink")10月にクイーンズイーストと統合して、「[みなとみらい東急スクエア](https://ja.wikipedia.org/wiki/みなとみらい東急スクエア "wikilink")」となった。
+  - [at\!](https://ja.wikipedia.org/wiki/アット! "wikilink") - [横浜みなとみらい地区の](../Page/横浜みなとみらい21.md "wikilink")[クイーンズスクエア横浜](../Page/クイーンズスクエア横浜.md "wikilink")内にかつて存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。[2017年](../Page/2017年.md "wikilink")10月にクイーンズイーストと統合して、「[みなとみらい東急スクエア](../Page/みなとみらい東急スクエア.md "wikilink")」となった。
 
 ## 略語・略称
 

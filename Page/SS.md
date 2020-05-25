@@ -37,7 +37,7 @@
 
 :\* [コンピュータソフトウエア製造工程における](../Page/ソフトウェア開発工程.md "wikilink")[構造設計](https://ja.wikipedia.org/wiki/構造設計 "wikilink") (system structure design)の略称。
 
-:\* [スクリーンショット](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink") (screen shot) - プログラムの実行画面を撮影したもの
+:\* [スクリーンショット](../Page/スクリーンショット.md "wikilink") (screen shot) - プログラムの実行画面を撮影したもの
 
 :\* [スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink") (screen saver) - 画面の焼き付きを防止するソフトウェア
 

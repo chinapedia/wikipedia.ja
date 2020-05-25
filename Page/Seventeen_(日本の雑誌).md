@@ -9,7 +9,7 @@
 
 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")6月に、総合少女週刊誌『[マーガレット](../Page/マーガレット_\(雑誌\).md "wikilink")』のお姉さん雑誌『**週刊セブンティーン**』として創刊、[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1944年に創刊された『[Seventeen](https://ja.wikipedia.org/wiki/Seventeen_\(アメリカの雑誌\) "wikilink")』の日本版として出発した。掲載内容は[ファッション](../Page/ファッション.md "wikilink")・[少女漫画](../Page/少女漫画.md "wikilink")・[芸能など多岐にわたる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")。
 
-通巻1000号となる[1988年](../Page/1988年.md "wikilink")1月3日号より、誌名の表記をアルファベットの『**SEVENTEEN**』としてリニューアル。判型は大きいサイズ、刊行は月2回の隔週刊（毎月1日・15日）に変更し、漫画部分が無くなった。 [漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")としての部分は『月刊ティアラ』として新創刊され、引き継がれた。その後、ライバル誌だった[小学館](../Page/小学館.md "wikilink")の『[プチセブン](../Page/プチセブン.md "wikilink")』の廃刊後、急速に売り上げを伸ばし、「ティーンのNo.1雑誌」と銘打っている。
+通巻1000号となる[1988年](../Page/1988年.md "wikilink")1月3日号より、誌名の表記をアルファベットの『**SEVENTEEN**』としてリニューアル。判型は大きいサイズ、刊行は月2回の隔週刊（毎月1日・15日）に変更し、漫画部分が無くなった。 [漫画雑誌](../Page/漫画雑誌.md "wikilink")としての部分は『月刊ティアラ』として新創刊され、引き継がれた。その後、ライバル誌だった[小学館](../Page/小学館.md "wikilink")の『[プチセブン](../Page/プチセブン.md "wikilink")』の廃刊後、急速に売り上げを伸ばし、「ティーンのNo.1雑誌」と銘打っている。
 
 [2001年](../Page/2001年.md "wikilink")から徐々に芸能人の記事や表紙掲載が減り、表紙は当雑誌の専属モデルを起用、誌面にも多数の現役女子高生読者モデルを登場させ、女子中高生向けファッション雑誌に特化するようになった。
 
@@ -368,7 +368,7 @@
   - [大河内奈々子](../Page/大河内奈々子.md "wikilink")
   - [尾形沙耶香](../Page/尾形沙耶香.md "wikilink")（ミスセブンティーン2001、卒業後は[PINKY](../Page/PINKY.md "wikilink")などで活躍）
   - [LISSA](https://ja.wikipedia.org/wiki/LISSA "wikilink")（当時は柿木理紗）
-  - [加藤幸子](https://ja.wikipedia.org/wiki/加藤幸子_\(モデル\) "wikilink")（卒業後は[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")→[withなどで活躍](https://ja.wikipedia.org/wiki/with_\(雑誌\) "wikilink")。結婚・出産を経て、現在は[Mart](https://ja.wikipedia.org/wiki/Mart "wikilink")専属）
+  - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")（卒業後は[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")→[withなどで活躍](https://ja.wikipedia.org/wiki/with_\(雑誌\) "wikilink")。結婚・出産を経て、現在は[Mart](https://ja.wikipedia.org/wiki/Mart "wikilink")専属）
   - [小泉絵美子](../Page/小泉絵美子.md "wikilink")
   - [トーマス玲奈](https://ja.wikipedia.org/wiki/トーマス玲奈 "wikilink")（当時はトーマスサリー。ミスセブンティーン1999、大学卒業後は[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")→[tvkアナウンサー](../Page/テレビ神奈川.md "wikilink")）
   - [鈴木えみ](https://ja.wikipedia.org/wiki/鈴木えみ "wikilink")（ミスセブンティーン1999、表紙30回。[PINKY](../Page/PINKY.md "wikilink")創刊と同時に移籍し専属に。その後は[MOREなどで活躍](../Page/MORE_\(雑誌\).md "wikilink")）
@@ -851,7 +851,7 @@
 
 ## Seventeenモデビュ
 
-[集英社](../Page/集英社.md "wikilink")と株式会社スナウトが共同で2011年から[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")で配信している[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[7\]。「STモデル」が全員ゲーム内に登場するだけでなく、『Seventeen』監修のアバターやアイテムも用意され、人気[ブランド](../Page/ブランド.md "wikilink")との[コラボ](https://ja.wikipedia.org/wiki/コラボ "wikilink")アイテムも登場している。プレイヤーは、『Seventeen』の[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")「STモ」になるための様々なミッションをこなしたり、モデルの仕事をこなしたりして、自分磨きを行っていく[モデルを職業として体験するゲーム](../Page/モデル_\(職業\).md "wikilink")。[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")用に公開。
+[集英社](../Page/集英社.md "wikilink")と株式会社スナウトが共同で2011年から[Mobage](../Page/Mobage.md "wikilink")で配信している[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[7\]。「STモデル」が全員ゲーム内に登場するだけでなく、『Seventeen』監修のアバターやアイテムも用意され、人気[ブランド](../Page/ブランド.md "wikilink")との[コラボ](https://ja.wikipedia.org/wiki/コラボ "wikilink")アイテムも登場している。プレイヤーは、『Seventeen』の[専属モデル](https://ja.wikipedia.org/wiki/専属モデル "wikilink")「STモ」になるための様々なミッションをこなしたり、モデルの仕事をこなしたりして、自分磨きを行っていく[モデルを職業として体験するゲーム](../Page/モデル_\(職業\).md "wikilink")。[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")用に公開。
 
 ## その他
 

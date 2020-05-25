@@ -1,7 +1,7 @@
 > この記事は[MEIMU](https://ja.wikipedia.org/wiki/MEIMU)から翻訳されています。
 
 
-**MEIMU**（めいむ、本名：**内山 孝**、[1963年](../Page/1963年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。本郷高校デザイン科卒業。[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")在学中に商業誌にデビューする。妻は漫画家の[佐々木みすず](../Page/佐々木みすず.md "wikilink")。漫画家の[克・亜樹](../Page/克・亜樹.md "wikilink")は大学時代の同級生 。
+**MEIMU**（めいむ、本名：**内山 孝**、[1963年](../Page/1963年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](../Page/漫画家.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。本郷高校デザイン科卒業。[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")在学中に商業誌にデビューする。妻は漫画家の[佐々木みすず](../Page/佐々木みすず.md "wikilink")。漫画家の[克・亜樹](../Page/克・亜樹.md "wikilink")は大学時代の同級生 。
 
 代表作は『DEATH MASK』『ぷっぷくマロロン』『[キカイダー02](../Page/キカイダー02.md "wikilink")』など。小説などからの[漫画化作品もある](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")。『[スターオーシャン](../Page/スターオーシャン.md "wikilink")』（第一作）の[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")も務めた。
 

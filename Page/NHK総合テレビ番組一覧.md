@@ -187,7 +187,7 @@
   - [徹子と気まぐれコンチェルト](https://ja.wikipedia.org/wiki/徹子と気まぐれコンチェルト "wikilink")
   - [J-MELO](../Page/J-MELO.md "wikilink")（2012年4月に[BSプレミアムへ移動](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）
   - [金曜オンステージ](https://ja.wikipedia.org/wiki/金曜オンステージ "wikilink")（北海道地方では本来放送される金曜日は地域情報番組に差し替えられていたため土曜日か日曜日に放送されることが多かった）
-      - [ふたりのビッグショー](https://ja.wikipedia.org/wiki/ふたりのビッグショー "wikilink") - 何らかの交友関係がある2人の歌手のみ出演、[司会](../Page/司会.md "wikilink")者無しで進行。番組は開演前の[楽屋](https://ja.wikipedia.org/wiki/楽屋 "wikilink")光景で始まり、終演後の楽屋での2人それぞれの感想で終わる。番組中盤で舞台が暗転し、[BGMとして](../Page/バックグラウンドミュージック.md "wikilink")[サイモン&ガーファンクル](../Page/サイモン&ガーファンクル.md "wikilink")「ブックエンドのテーマ（Bookends Theme）」とともに、人間の背丈よりも高い巨大なパネルで2人の過去の写真がそれぞれ数点登場し、トークを展開。
+      - [ふたりのビッグショー](../Page/ふたりのビッグショー.md "wikilink") - 何らかの交友関係がある2人の歌手のみ出演、[司会](../Page/司会.md "wikilink")者無しで進行。番組は開演前の[楽屋](https://ja.wikipedia.org/wiki/楽屋 "wikilink")光景で始まり、終演後の楽屋での2人それぞれの感想で終わる。番組中盤で舞台が暗転し、[BGMとして](../Page/バックグラウンドミュージック.md "wikilink")[サイモン&ガーファンクル](../Page/サイモン&ガーファンクル.md "wikilink")「ブックエンドのテーマ（Bookends Theme）」とともに、人間の背丈よりも高い巨大なパネルで2人の過去の写真がそれぞれ数点登場し、トークを展開。
       - [いっきにパラダイス](https://ja.wikipedia.org/wiki/いっきにパラダイス "wikilink")
   - [歌のゴールデンステージ](https://ja.wikipedia.org/wiki/歌のゴールデンステージ "wikilink")
   - [花のステージ](../Page/花のステージ.md "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")1月 - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")4月）
@@ -200,7 +200,7 @@
   - [NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink") （1993年4月 - [2016年](../Page/2016年.md "wikilink")3月）
   - [ステージ101](../Page/ステージ101.md "wikilink")（[1970年](../Page/1970年.md "wikilink")1月 - 1974年3月）
   - [レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")（[1974年](../Page/1974年.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）
-  - [ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")（1986年 - 1988年）
+  - [ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")（1986年 - 1988年）
   - [ジャストポップアップ](https://ja.wikipedia.org/wiki/ジャストポップアップ "wikilink")（1988年 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）
   - [メガロックショー](https://ja.wikipedia.org/wiki/メガロックショー "wikilink")（1991年 - 1992年）
   - [POP JAM](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（1993年4月 - [2007年](../Page/2007年.md "wikilink")3月16日）

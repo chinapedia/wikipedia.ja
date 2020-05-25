@@ -7,7 +7,7 @@
 
 ## テストの実際
 
-現在のテスト形式は、[2005年](../Page/2005年.md "wikilink")より開始された**iBT**（アイビーティー、Internet-Based Testing、TOEFL iBT）という[Computer Based Testingである](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")。
+現在のテスト形式は、[2005年](../Page/2005年.md "wikilink")より開始された**iBT**（アイビーティー、Internet-Based Testing、TOEFL iBT）という[Computer Based Testingである](../Page/Computer_Based_Testing.md "wikilink")。
 
 リーディング（Reading）、リスニング（Listening）、スピーキング（Speaking）、ライティング（Writing）の4部から構成されており、試験時間は約4時間である。リーディングかリスニングの何れかには「ダミー問題」と通称される、スコアには影響しない設問が追加されており、それにあわせて全体の試験所要時間も変化する。受験者には正規の問題とダミー問題との見分けは出来ない。
 
@@ -15,7 +15,7 @@
 
 700〜800語ほどの学術文章が提示される。それらは、多くの専門単語を含むアカデミックなものばかりであり、時事問題や物語文、対話文は扱われない。通常は3つ、ダミーが含まれる場合は4つのトピックを読む。第1リーディングは18分10問、第2リーディングは36分20問、第3リーディングは54分30問。4択問題が主となる。
 
-  - 内容に沿った答えを[クリックする問題](https://ja.wikipedia.org/wiki/ポイント・アンド・クリック "wikilink")。
+  - 内容に沿った答えを[クリックする問題](../Page/ポイント・アンド・クリック.md "wikilink")。
   - 内容にそぐわない答えをクリックする問題。
   - [ボキャブラリー問題](../Page/語彙.md "wikilink")(文章より抜粋されハイライトされる)。
   - 作者の意図、文章の隠れた意味を予想する問題。
@@ -248,7 +248,7 @@ Paper-Based Testing（PBT）は筆記テストで、Listening SectionとStructur
 
 ### Computer Based Testing
 
-[Computer Based Testing](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")（CBT）は、[コンピュータ](../Page/コンピュータ.md "wikilink")を使用したテスト形式であったが、iBTの実施に伴い2006年9月末で廃止された。基本的にPBTでも行われた3つのセクションに加え、Writing Sectionが追加された構成をとっていた。また、Listening SectionとStructure Sectionでは受験生の問題の正誤率から次の問題のレベルが逐次決められる[Computer-adaptive testing方式が採用されていた](https://ja.wikipedia.org/wiki/Computer-adaptive_testing "wikilink")。
+[Computer Based Testing](../Page/Computer_Based_Testing.md "wikilink")（CBT）は、[コンピュータ](../Page/コンピュータ.md "wikilink")を使用したテスト形式であったが、iBTの実施に伴い2006年9月末で廃止された。基本的にPBTでも行われた3つのセクションに加え、Writing Sectionが追加された構成をとっていた。また、Listening SectionとStructure Sectionでは受験生の問題の正誤率から次の問題のレベルが逐次決められる[Computer-adaptive testing方式が採用されていた](https://ja.wikipedia.org/wiki/Computer-adaptive_testing "wikilink")。
 
   - 最高点：300
   - 最低点：0

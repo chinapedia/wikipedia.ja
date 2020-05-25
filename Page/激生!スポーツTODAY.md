@@ -157,7 +157,7 @@
 
   - [岐阜放送](../Page/岐阜放送.md "wikilink")
   - [三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")（1987年春以降）
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
   - [奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink")（以上、[独立UHF局](../Page/全国独立放送協議会.md "wikilink")）
   - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本ニュースネットワーク.md "wikilink")。平日版のみ、朝6:25 - 6:45に前日分を時差放送。）
@@ -216,7 +216,7 @@
 ### 以下、当時テレビ東京アナウンサー（契約含む）
 
   - [金子勝彦](../Page/金子勝彦.md "wikilink")
-  - [藤吉次郎](https://ja.wikipedia.org/wiki/藤吉次郎 "wikilink")
+  - [藤吉次郎](../Page/藤吉次郎.md "wikilink")
   - [久保田光彦](../Page/久保田光彦.md "wikilink")
   - [土居壮](../Page/土居壮.md "wikilink")
   - [宮和夫](https://ja.wikipedia.org/wiki/宮和夫 "wikilink")

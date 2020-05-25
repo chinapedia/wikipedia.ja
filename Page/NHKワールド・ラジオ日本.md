@@ -31,7 +31,7 @@
 
   - [1938年](../Page/1938年.md "wikilink")1月3日 - 海外放送で[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")の使用を開始（この年、8月15日 [オランダ語](../Page/オランダ語.md "wikilink")も放送開始）
   - [1940年](../Page/1940年.md "wikilink")6月1日 - 海外放送で[ヒンディー語](../Page/ヒンディー語.md "wikilink")の使用を開始（この年、6月3日 [ビルマ語](../Page/ビルマ語.md "wikilink")・[タイ語](../Page/タイ語.md "wikilink")、8月1日 [広東語](../Page/広東語.md "wikilink")も放送開始）
-  - [1940年](../Page/1940年.md "wikilink")11月1日 - [八俣送信所](https://ja.wikipedia.org/wiki/八俣送信所 "wikilink")の使用を開始
+  - [1940年](../Page/1940年.md "wikilink")11月1日 - [八俣送信所](../Page/八俣送信所.md "wikilink")の使用を開始
   - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")
       - 1月1日
           - 海外放送で[アラビア語](../Page/アラビア語.md "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")・[福建語](https://ja.wikipedia.org/wiki/福建語 "wikilink")・[マレー語](../Page/マレー語.md "wikilink")の使用を開始（この年、12月18日 [タガログ語](../Page/タガログ語.md "wikilink")も放送開始）
@@ -81,7 +81,7 @@
 
 「NHKワールド・ラジオ日本」の放送には、日本語と英語を用いた全世界向け「ゼネラルサービス（ジェネラルサービスとも）」と、各言語の対象地域向けの「リージョナルサービス」の2種類がある。また、インターネットでも[ニュース](../Page/ニュース.md "wikilink")番組を[ストリーミング](../Page/ストリーミング.md "wikilink")配信している。放送されない時間帯はインターバルシグナルをエンドレスで次の放送開始まで流している\[3\]。
 
-海外向けの放送で、短波送信による[スキップ現象](https://ja.wikipedia.org/wiki/スキップ現象 "wikilink")のため、日本国内では[電波](../Page/電波.md "wikilink")が入感しにくいが一応日本国内でも受信は可能である。短波の電波伝搬の性質上、[八俣送信所](https://ja.wikipedia.org/wiki/八俣送信所 "wikilink")（[KDDI](../Page/KDDI.md "wikilink")所有・[茨城県](../Page/茨城県.md "wikilink")[古河市](../Page/古河市.md "wikilink")）からの放送は受信しにくい[地域](../Page/地域.md "wikilink")・[季節](../Page/季節.md "wikilink")・時間帯も存在し、逆に海外の[送信所](../Page/送信所.md "wikilink")からの放送が受信可能な場合もある。なお、NHKは国内からの受信報告には通常、[受信確認証（ベリカード）を発行していない](../Page/ベリカード.md "wikilink")。
+海外向けの放送で、短波送信による[スキップ現象](https://ja.wikipedia.org/wiki/スキップ現象 "wikilink")のため、日本国内では[電波](../Page/電波.md "wikilink")が入感しにくいが一応日本国内でも受信は可能である。短波の電波伝搬の性質上、[八俣送信所](../Page/八俣送信所.md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")所有・[茨城県](../Page/茨城県.md "wikilink")[古河市](../Page/古河市.md "wikilink")）からの放送は受信しにくい[地域](../Page/地域.md "wikilink")・[季節](../Page/季節.md "wikilink")・時間帯も存在し、逆に海外の[送信所](../Page/送信所.md "wikilink")からの放送が受信可能な場合もある。なお、NHKは国内からの受信報告には通常、[受信確認証（ベリカード）を発行していない](../Page/ベリカード.md "wikilink")。
 
 また、短波による放送の他、NHKワールドTV、NHKワールド・プレミアムのテレビ放送と同じ放送衛星を使用したデジタルラジオ放送（衛星ラジオ）も行っており、終日ノンスクランブルで受信できるようになっている（以前は終日、[スクランブルが掛けられていた](../Page/スクランブル_\(曖昧さ回避\).md "wikilink")）。海外衛星テレビ受信装置（DVB）の受信設定によりNHKワールドTVが受信できる状態であれば日本国内を含めて受信可能である。
 
@@ -126,7 +126,7 @@ NHKは基本的に[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wik
 
 [Kddi-yamata.jpg](https://ja.wikipedia.org/wiki/File:Kddi-yamata.jpg "fig:Kddi-yamata.jpg")
 
-  - [八俣送信所](https://ja.wikipedia.org/wiki/八俣送信所 "wikilink")（[茨城県](../Page/茨城県.md "wikilink")[古河市](../Page/古河市.md "wikilink")[東山田字八俣](../Page/八俣村.md "wikilink") [KDDI](../Page/KDDI.md "wikilink")が所有しており、NHKはKDDIから借り上げている。なお、『[しおかぜ](../Page/しおかぜ_\(放送\).md "wikilink")』の送信開始に伴い、長らくKDDIと結んでいた独占使用契約は解除した。詳細は八俣送信所の項を参照）
+  - [八俣送信所](../Page/八俣送信所.md "wikilink")（[茨城県](../Page/茨城県.md "wikilink")[古河市](../Page/古河市.md "wikilink")[東山田字八俣](../Page/八俣村.md "wikilink") [KDDI](../Page/KDDI.md "wikilink")が所有しており、NHKはKDDIから借り上げている。なお、『[しおかぜ](../Page/しおかぜ_\(放送\).md "wikilink")』の送信開始に伴い、長らくKDDIと結んでいた独占使用契約は解除した。詳細は八俣送信所の項を参照）
   - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・クランジ（[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）=イギリス放送協会中継所）
   - [アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")・ダバヤ
   - [ウズベキスタン](../Page/ウズベキスタン.md "wikilink")
@@ -264,7 +264,7 @@ NHKは基本的に[NHK受信料](https://ja.wikipedia.org/wiki/NHK受信料 "wik
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）
   - [NHKワールド JAPAN](../Page/NHKワールド_JAPAN.md "wikilink")
   - [国際放送](../Page/国際放送.md "wikilink")
-  - [八俣送信所](https://ja.wikipedia.org/wiki/八俣送信所 "wikilink")
+  - [八俣送信所](../Page/八俣送信所.md "wikilink")
   - [ポツダム宣言](../Page/ポツダム宣言.md "wikilink")
   - [東京ローズ](../Page/東京ローズ.md "wikilink")
   - [プロパガンダ](../Page/プロパガンダ.md "wikilink")

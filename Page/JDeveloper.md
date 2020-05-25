@@ -1,7 +1,7 @@
 > この記事は[JDeveloper](https://ja.wikipedia.org/wiki/JDeveloper)から翻訳されています。
 
 
-**JDeveloper**は、[オラクルが開発する](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE)。元々[JBuilder](../Page/JBuilder.md "wikilink")のソースから派生した[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用のIDEであったが、バージョン9.0.2以降で、それ自身をJavaで完全に記述しなおすことにより完全なオリジナルIDEとして生まれ変わっている。
+**JDeveloper**は、[オラクルが開発する](../Page/オラクル_\(企業\).md "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE)。元々[JBuilder](../Page/JBuilder.md "wikilink")のソースから派生した[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用のIDEであったが、バージョン9.0.2以降で、それ自身をJavaで完全に記述しなおすことにより完全なオリジナルIDEとして生まれ変わっている。
 
 ## JDeveloperの機能
 

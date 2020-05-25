@@ -72,7 +72,7 @@
   - [スティーブ・コリノ](../Page/スティーブ・コリノ.md "wikilink")
   - [トム・ハワード](https://ja.wikipedia.org/wiki/トム・ハワード "wikilink")
   - [ネイサン・ジョーンズ](https://ja.wikipedia.org/wiki/ネイサン・ジョーンズ "wikilink")
-  - [マット・ガファリ](https://ja.wikipedia.org/wiki/マット・ガファリ "wikilink")
+  - [マット・ガファリ](../Page/マット・ガファリ.md "wikilink")
   - [マット・ストライカー](https://ja.wikipedia.org/wiki/マット・ストライカー "wikilink")
   - [レオナルド・スパンキー](../Page/ブライアン・ケンドリック.md "wikilink")
   - [ロウ・キー](../Page/ブランドン・シルベストリー.md "wikilink")

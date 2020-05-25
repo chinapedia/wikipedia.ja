@@ -326,7 +326,7 @@
   - [岐阜放送](../Page/岐阜放送.md "wikilink")
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink")
   - [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
 
 ※2001年[9月12日](../Page/9月12日.md "wikilink")に[三重テレビが前日に発生した](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")の詳報のため17:40まで臨時ネットしたことがある。
 

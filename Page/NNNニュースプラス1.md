@@ -9,7 +9,7 @@
 
 1996年10月から他局に先駆けて放送時間を拡大。平日キャスターの真山・木村コンビは2002年秋まで約8年半続いた。
 
-2006年4月1日（月-金曜版は3月31日）に終了。キー局の夕方ニュース番組で『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の27年半に次ぐ18年間の[長寿番組だった](../Page/長寿番組の一覧.md "wikilink")。2日後の4月3日、主な出演者はそのままに、月-木曜の放送時間を16:53から\[1\] に拡大した『**[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")**』に改題リニューアルした\[2\]。
+2006年4月1日（月-金曜版は3月31日）に終了。キー局の夕方ニュース番組で『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』（[TBS](../Page/TBSテレビ.md "wikilink")）の27年半に次ぐ18年間の[長寿番組だった](../Page/長寿番組の一覧.md "wikilink")。2日後の4月3日、主な出演者はそのままに、月-木曜の放送時間を16:53から\[1\] に拡大した『**[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")**』に改題リニューアルした\[2\]。
 
 この改編には夕方ニュースを早い時間からスタートすることでゴールデンタイムへの視聴者の流れを強化したいという狙いがあったという\[3\]。
 
@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><ul>
-<li>最終回時点の上記出演者は全員『<a href="https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム" title="wikilink">NNN Newsリアルタイム</a>』も続投。</li>
+<li>最終回時点の上記出演者は全員『<a href="../Page/NNN_Newsリアルタイム.md" title="wikilink">NNN Newsリアルタイム</a>』も続投。</li>
 <li><sup>1</sup>　1996年3月まで、土曜日の担当者は全員『<a href="../Page/NNN日曜夕刊.md" title="wikilink">NNN日曜夕刊</a>』を兼務。</li>
 <li><sup>2</sup>　『<a href="../Page/NNN昼のニュース.md" title="wikilink">NNN昼のニュース</a>』を兼務。<a href="../Page/舛方勝宏.md" title="wikilink">舛方勝宏</a>がスポーツ取材などで不在の場合『<a href="https://ja.wikipedia.org/wiki/NNNきょうの出来事" title="wikilink">NNNきょうの出来事</a>』（金‐日）を兼務</li>
 <li><sup>3</sup>　平日の『<a href="../Page/NNNライブオンネットワーク.md" title="wikilink">NNNライブオンネットワーク</a>』から続投。</li>
@@ -326,7 +326,7 @@
 <tr class="even">
 <td><ul>
 <li>お天気キャスター以外はすべて月 - 金曜日の担当。土・日曜日のスポーツコーナーはメインが担当。</li>
-<li>上記の末期出演者は清原以外全員『<a href="https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム" title="wikilink">NNN Newsリアルタイム</a>』も続投。</li>
+<li>上記の末期出演者は清原以外全員『<a href="../Page/NNN_Newsリアルタイム.md" title="wikilink">NNN Newsリアルタイム</a>』も続投。</li>
 <li><sup>1</sup>　『<a href="../Page/NNNライブオンネットワーク.md" title="wikilink">NNNライブオンネットワーク</a>』から続投。</li>
 <li><sup>2</sup>　『news every.』も続投。</li>
 <li><sup>3</sup>　日曜版も同様。</li>
@@ -354,7 +354,7 @@
 
 ### ナレーター
 
-  - [伊藤英敏](https://ja.wikipedia.org/wiki/伊藤英敏 "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[茶風林](../Page/茶風林.md "wikilink")、木原実 ほか
+  - [伊藤英敏](../Page/伊藤英敏.md "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[茶風林](../Page/茶風林.md "wikilink")、木原実 ほか
 
 ## 放送時間
 

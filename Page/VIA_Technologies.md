@@ -7,7 +7,7 @@
 
   - [1992年](../Page/1992年.md "wikilink")[9月](../Page/9月.md "wikilink")に、[陳文琦と](https://ja.wikipedia.org/wiki/:zh:陳文琦 "wikilink")[王雪紅](https://ja.wikipedia.org/wiki/:zh:王雪紅 "wikilink")（父親は[王永慶](../Page/王永慶.md "wikilink") [台湾プラスチックグループ](https://ja.wikipedia.org/wiki/台湾プラスチックグループ "wikilink")創業者）によって設立。
   - [1999年](../Page/1999年.md "wikilink")、[ナショナル セミコンダクターから](../Page/ナショナル_セミコンダクター.md "wikilink")[子会社](../Page/子会社.md "wikilink")の[サイリックス](../Page/サイリックス.md "wikilink")を買収\[1\]、更に[IDT](../Page/IDT.md "wikilink")から傘下の[セントールテクノロジー](https://ja.wikipedia.org/wiki/セントールテクノロジー "wikilink")を買収し\[2\]、マイクロプロセッサ市場に参入した
-  - [2000年](../Page/2000年.md "wikilink")、[グラフィックスチップメーカーの](https://ja.wikipedia.org/wiki/グラフィックコントローラ "wikilink")[S3がVIAにグラフィックス部門を売却](../Page/S3_Graphics.md "wikilink")。更にICEnsembleを買収し、[サウンド](https://ja.wikipedia.org/wiki/サウンド "wikilink")関連にも参入
+  - [2000年](../Page/2000年.md "wikilink")、[グラフィックスチップメーカーの](../Page/グラフィックコントローラ.md "wikilink")[S3がVIAにグラフィックス部門を売却](../Page/S3_Graphics.md "wikilink")。更にICEnsembleを買収し、[サウンド](https://ja.wikipedia.org/wiki/サウンド "wikilink")関連にも参入
   - [2007年](../Page/2007年.md "wikilink")、チップセット部門をプロセッサ部門と併合
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[サードパーティー](../Page/サードパーティー.md "wikilink")向けチップセット開発から撤退を表明。撤退後のチップセット開発は自社プロセッサ専門となる[1](http://www.digitimes.com/mobos/a20080103PB203.html)
   - [2011年](../Page/2011年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、グラフィックス部門のS3 Graphicsをグループ企業の[HTCへ売却](../Page/HTC_\(企業\).md "wikilink")。\[3\]

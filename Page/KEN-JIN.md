@@ -36,7 +36,7 @@ RCCアナウンサー・[横山雄二](../Page/横山雄二.md "wikilink")が企
 ### サブレギュラー
 
   - [土井よしお](https://ja.wikipedia.org/wiki/土井よしお "wikilink")（[ワンダラーズ](../Page/ワンダラーズ_\(お笑い\).md "wikilink")）
-  - [羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
+  - [羽賀研二](../Page/羽賀研二.md "wikilink")
 
 ### ナレーター
 

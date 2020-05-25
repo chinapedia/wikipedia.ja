@@ -54,7 +54,7 @@
   - 自動車の型番
       - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")・[RX-7](../Page/マツダ・RX-7.md "wikilink") 3代目の型番 FD3S型。
       - [ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")・[シビック](../Page/ホンダ・シビック.md "wikilink") 8代目の型番 FD型。
-      - [ヒュンダイ・i30](https://ja.wikipedia.org/wiki/ヒュンダイ・i30 "wikilink") 初代の開発コード及び型式名。
+      - [ヒュンダイ・i30](../Page/ヒュンダイ・i30.md "wikilink") 初代の開発コード及び型式名。
       - [日野・レンジャー](../Page/日野・レンジャー.md "wikilink")の型式のひとつ。
       - [日野・セレガ](../Page/日野・セレガ.md "wikilink")の初代モデルにおけるハイデッカー（高床I＝フルデッカー）の名称。
   - カメラ

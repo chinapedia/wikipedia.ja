@@ -97,7 +97,7 @@
       - 12月31日、「WHITE BREATH」で7年ぶり3度目の[紅白歌合戦出場を果たした](../Page/第56回NHK紅白歌合戦.md "wikilink")。
   - [2006年](../Page/2006年.md "wikilink")
       - 1月1日、リクエストセルフカバーベストアルバム『UNDER:COVER』をリリース。ファンからのリクエストを元に人気の高い曲をライブ風のリアレンジにて再収録。
-      - デビュー記念日である5月13日には[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")にて記念パレードを行った。
+      - デビュー記念日である5月13日には[ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")にて記念パレードを行った。
       - 6月7日、ベストアルバム『1000000000000』をリリース。2作目のオリコンアルバムチャート1位を獲得。6月21日にはシングル22曲に加え、「Meteor -ミーティア-」「Zips」のPVを収録した同名ベストDVDも発売された。
       - 8月に8年振りの[日本武道館](../Page/日本武道館.md "wikilink")、及び[大阪城ホール](../Page/大阪城ホール.md "wikilink")でのライブが実現した。
       - 西川の誕生日である9月19日には再びユニバーサル・スタジオ・ジャパンで、[ピーターパン](https://ja.wikipedia.org/wiki/ピーターパン "wikilink")のネバーランドとのコラボライブを行った。
@@ -167,7 +167,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/5月13日.md" title="wikilink">5月13日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/独裁_-monopolize-" title="wikilink">独裁 -monopolize-</a></strong></p></td>
+<td><p><strong><a href="../Page/独裁_-monopolize-.md" title="wikilink">独裁 -monopolize-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -176,7 +176,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1996年<a href="../Page/7月15日.md" title="wikilink">7月15日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/臍淑女_-ヴィーナス-" title="wikilink">臍淑女 -ヴィーナス-</a></strong></p></td>
+<td><p><strong><a href="../Page/臍淑女_-ヴィーナス-.md" title="wikilink">臍淑女 -ヴィーナス-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -239,7 +239,7 @@
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>1998年<a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THUNDERBIRD_(T.M.Revolutionの曲)" title="wikilink">THUNDERBIRD</a></strong></p></td>
+<td><p><strong><a href="../Page/THUNDERBIRD_(T.M.Revolutionの曲).md" title="wikilink">THUNDERBIRD</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -248,7 +248,7 @@
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>1998年<a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Burnin&#39;_X&#39;mas" title="wikilink">Burnin' X'mas</a></strong></p></td>
+<td><p><strong><a href="../Page/Burnin&#39;_X&#39;mas.md" title="wikilink">Burnin' X'mas</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -257,7 +257,7 @@
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/2月3日.md" title="wikilink">2月3日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/WILD_RUSH" title="wikilink">WILD RUSH</a></strong></p></td>
+<td><p><strong><a href="../Page/WILD_RUSH.md" title="wikilink">WILD RUSH</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -266,7 +266,7 @@
 <tr class="even">
 <td><p>12th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BLACK_OR_WHITE?_version_3" title="wikilink">BLACK OR WHITE? version 3</a></strong></p></td>
+<td><p><strong><a href="../Page/BLACK_OR_WHITE?_version_3.md" title="wikilink">BLACK OR WHITE? version 3</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -275,7 +275,7 @@
 <tr class="odd">
 <td><p>13th</p></td>
 <td><p>2000年<a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/HEAT_CAPACITY" title="wikilink">HEAT CAPACITY</a></strong></p></td>
+<td><p><strong><a href="../Page/HEAT_CAPACITY.md" title="wikilink">HEAT CAPACITY</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -293,7 +293,7 @@
 <tr class="odd">
 <td><p>15th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/2月7日.md" title="wikilink">2月7日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BOARDING" title="wikilink">BOARDING</a></strong></p></td>
+<td><p><strong><a href="../Page/BOARDING.md" title="wikilink">BOARDING</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -320,7 +320,7 @@
 <tr class="even">
 <td><p>18th</p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Albireo_-アルビレオ-" title="wikilink">Albireo -アルビレオ-</a></strong></p></td>
+<td><p><strong><a href="../Page/Albireo_-アルビレオ-.md" title="wikilink">Albireo -アルビレオ-</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -329,7 +329,7 @@
 <tr class="odd">
 <td><p>19th</p></td>
 <td><p>2004年<a href="../Page/7月28日.md" title="wikilink">7月28日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Web_of_Night" title="wikilink">Web of Night</a></strong></p></td>
+<td><p><strong><a href="../Page/Web_of_Night.md" title="wikilink">Web of Night</a></strong></p></td>
 <td><p>作詞：井上秋緒<br />
 作曲：浅倉大介<br />
 編曲：浅倉大介</p></td>
@@ -905,7 +905,7 @@
       - [淳士](../Page/淳士.md "wikilink")（2004年〜2007年）（[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[BULL ZEICHEN 88](../Page/BULL_ZEICHEN_88.md "wikilink")、Mitsuru Matsuoka EARNEST DRIVE）
       - [JOE](../Page/JOE_\(ドラマー\).md "wikilink")（2008年）（ex.[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[DASEIN](../Page/DASEIN.md "wikilink")）
       - [長谷川浩二](../Page/長谷川浩二.md "wikilink")（2008年9月〜2014年）
-      - [SASSY](https://ja.wikipedia.org/wiki/SASSY "wikilink")（2013年）（元[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[INKT](https://ja.wikipedia.org/wiki/INKT "wikilink")）
+      - [SASSY](https://ja.wikipedia.org/wiki/SASSY "wikilink")（2013年）（元[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、[INKT](https://ja.wikipedia.org/wiki/INKT "wikilink")）
       - [山崎慶](https://ja.wikipedia.org/wiki/山崎慶 "wikilink")（2015年〜)
 
 <!-- end list -->
@@ -1149,7 +1149,7 @@ TVアニメ「機動戦士ガンダムSEED DESTINY」挿入歌</p></td>
   - [浅倉大介](../Page/浅倉大介.md "wikilink")
   - [井上秋緒](../Page/井上秋緒.md "wikilink")
   - [abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")
-  - [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
+  - [HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")
   - [ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
   - [アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")
   - [エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")

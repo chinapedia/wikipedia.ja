@@ -475,7 +475,7 @@
 
 <!-- end list -->
 
-  - 1991年[10月9日](../Page/10月9日.md "wikilink")『**クイズ秋本番SHOW by ショーバイ\!\!**』 逸見花田（[貴花田](https://ja.wikipedia.org/wiki/貴乃花光司 "wikilink")）VS山城錦（[小錦](../Page/小錦八十吉_\(6代\).md "wikilink")）、渡辺[行司](../Page/行司.md "wikilink")、山瀬[呼出](../Page/呼出.md "wikilink")
+  - 1991年[10月9日](../Page/10月9日.md "wikilink")『**クイズ秋本番SHOW by ショーバイ\!\!**』 逸見花田（[貴花田](../Page/貴乃花光司.md "wikilink")）VS山城錦（[小錦](../Page/小錦八十吉_\(6代\).md "wikilink")）、渡辺[行司](../Page/行司.md "wikilink")、山瀬[呼出](../Page/呼出.md "wikilink")
   - [1992年](../Page/1992年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")『**クイズ春満開SHOW by ショーバイ\!\!**』 逸見金太郎（[金太郎](../Page/金太郎.md "wikilink")）VS山城桃太郎（[桃太郎](../Page/桃太郎.md "wikilink")）、渡辺[熊](https://ja.wikipedia.org/wiki/熊 "wikilink")、山瀬[鬼](https://ja.wikipedia.org/wiki/鬼 "wikilink")、高田[浦島太郎](../Page/浦島太郎.md "wikilink")
   - 1992年[10月7日](../Page/10月7日.md "wikilink")『**クイズ秋本番SHOW by ショーバイ\!\!**』 逸見ピーターパン（[ピーターパン](https://ja.wikipedia.org/wiki/ピーターパン "wikilink")）VS山城フック（[フック船長](../Page/フック船長.md "wikilink")）、高田[ティンカーベル](https://ja.wikipedia.org/wiki/ティンカーベル "wikilink")
   - 1992年[12月30日](../Page/12月30日.md "wikilink")『**クイズ年末はSHOW by ショーバイ\!\!**』 「逸見政孝・ショーバイ司会降板\!?」という情報に驚く出演者の表情と逸見VS山城 司会交代タイトルマッチ記者会見の様子を流すワイドショー風のCM

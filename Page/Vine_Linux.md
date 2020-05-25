@@ -1,7 +1,7 @@
 > この記事は[Vine Linux](https://ja.wikipedia.org/wiki/Vine_Linux)から翻訳されています。
 
 
-**Vine Linux**（ヴァイン・リナックス）は、[RPM系の日本国産](../Page/RPM_Package_Manager.md "wikilink")[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である。1998年に[PJEのメンバーを主体として開発が始まった](https://ja.wikipedia.org/wiki/Project-JE "wikilink")。以前は[Red Hat Linuxの派生であったが](../Page/Red_Hat_Linux.md "wikilink")、バージョン3.0からはProject Vineのメンバーを中心に独自に開発が進められている\[1\]。開発版の名称は VineSeed。各バージョンのコードネームは[ワイン](../Page/ワイン.md "wikilink")の名称から採られている\[2\]。[Linux Standard Baseには準拠していない](../Page/Linux_Standard_Base.md "wikilink")\[3\]。
+**Vine Linux**（ヴァイン・リナックス）は、[RPM系の日本国産](../Page/RPM_Package_Manager.md "wikilink")[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である。1998年に[PJEのメンバーを主体として開発が始まった](../Page/Project-JE.md "wikilink")。以前は[Red Hat Linuxの派生であったが](../Page/Red_Hat_Linux.md "wikilink")、バージョン3.0からはProject Vineのメンバーを中心に独自に開発が進められている\[1\]。開発版の名称は VineSeed。各バージョンのコードネームは[ワイン](../Page/ワイン.md "wikilink")の名称から採られている\[2\]。[Linux Standard Baseには準拠していない](../Page/Linux_Standard_Base.md "wikilink")\[3\]。
 
 ## 特徴
 
@@ -72,7 +72,7 @@ Vine Linuxのリリース履歴
 
 ## 関連項目
 
-  - [PJE](https://ja.wikipedia.org/wiki/Project-JE "wikilink")
+  - [PJE](../Page/Project-JE.md "wikilink")
   - [日本のLinux開発](https://ja.wikipedia.org/wiki/日本のLinux開発 "wikilink")
 
 ## 脚注

@@ -29,7 +29,7 @@
 
   - [ジャック・カービー](../Page/ジャック・カービー.md "wikilink")（1917年 - 1994年）
   - [スタン・リー](../Page/スタン・リー.md "wikilink")（1922年 - ）
-  - [ジャン＝クロード・メジエール](https://ja.wikipedia.org/wiki/ジャン＝クロード・メジエール "wikilink")（1938年 - ）
+  - [ジャン＝クロード・メジエール](../Page/ジャン＝クロード・メジエール.md "wikilink")（1938年 - ）
   - [ジャン・ジロー](../Page/ジャン・ジロー.md "wikilink")（1928年 - ） - メビウスの名で知られている。
   - [エンキ・ビラル](../Page/エンキ・ビラル.md "wikilink")（1951年 - ）
   - [アラン・ムーア](../Page/アラン・ムーア.md "wikilink")（1953年 - ）
@@ -42,7 +42,7 @@
 ## 関連項目
 
   - [SF漫画家（カテゴリ）](https://ja.wikipedia.org/wiki/Category:SF漫画家 "wikilink")
-  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")
+  - [漫画家](../Page/漫画家.md "wikilink")
   - [漫画作品一覧](../Page/漫画作品一覧.md "wikilink")
 
 [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink")

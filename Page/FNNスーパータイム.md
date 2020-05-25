@@ -42,7 +42,7 @@
 
   - 1988年4月2日 - 土日版のアンカーマンに[黒岩祐治](../Page/黒岩祐治.md "wikilink")キャスターが登板。アシスタントに[小田多恵子](../Page/小田多恵子.md "wikilink")、スポーツコーナーは[筒井櫻子](../Page/筒井櫻子.md "wikilink")両アナウンサーが担当。
   - 1988年7月9日 - 筒井が降板。
-  - 1988年7月16日 - 土日版のスポーツコーナーに[塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")アナウンサーが登板。
+  - 1988年7月16日 - 土日版のスポーツコーナーに[塩原恒夫](../Page/塩原恒夫.md "wikilink")アナウンサーが登板。
   - 1988年7月16日・17日 - 『[FNSスーパースペシャル1億人のテレビ夢列島'88](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")』が放送され本番組も『**[スーパータイムデラックス](https://ja.wikipedia.org/wiki/スーパータイムスペシャル "wikilink")**』として放送。司会は同番組総合司会のタモリと『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』の露木茂が担当。スポーツコーナーは塩原恒夫と[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")が務めた。[福岡県](../Page/福岡県.md "wikilink")[小呂島](../Page/小呂島.md "wikilink")からの中継で当時[九州産業大学](../Page/九州産業大学.md "wikilink")の学生・[松村邦洋](../Page/松村邦洋.md "wikilink")が登場。この時に[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")と出会い芸能界に入るきっかけとなった。また黒岩は東京上空から中継リポーターを務めた。
   - 1988年9月17日 - 10月2日 - [ソウルオリンピック](https://ja.wikipedia.org/wiki/ソウルオリンピック "wikilink")が開催。9月27日には競泳男子100m背泳ぎで金メダルを取った[鈴木大地](../Page/鈴木大地.md "wikilink")選手がゲスト出演。
   - 1988年11月17日 - 逸見政孝が本番前に控室で倒れ緊急入院し、番組を3日休む。フリーとして本格的な活動を始めた直後のストレスが原因であった。当時『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』を担当していた[上田昭夫](../Page/上田昭夫.md "wikilink")が代役として出演。
@@ -186,7 +186,7 @@
 <tr class="even">
 <td><p>1988年7月10日</p></td>
 <td><p>1989年4月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塩原恒夫" title="wikilink">塩原恒夫</a></p></td>
+<td><p><a href="../Page/塩原恒夫.md" title="wikilink">塩原恒夫</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

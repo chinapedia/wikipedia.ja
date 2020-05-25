@@ -172,7 +172,7 @@
 <td><p>YTS 山形テレビ<br />
 （1993年4月1日よりネットチェンジ）</p></td>
 <td><p>1993年4月1日 - 1995年4月2日：<a href="../Page/YTS夕やけステーション.md" title="wikilink">YTS夕やけステーション</a> / <a href="../Page/YTSステーションEYE.md" title="wikilink">YTSステーションEYE ANN</a>（月-金曜） / YTSステーションEYE ANN（土・日曜）<br />
-1995年4月3日 - 1997年3月30日：<a href="https://ja.wikipedia.org/wiki/情報わいどYTSゴジダス" title="wikilink">情報わいどYTSゴジダス</a>（月曜のみ1997年3月24日まで） / YTSステーションEYE ANN（火-日曜）<br />
+1995年4月3日 - 1997年3月30日：<a href="../Page/情報わいどYTSゴジダス.md" title="wikilink">情報わいどYTSゴジダス</a>（月曜のみ1997年3月24日まで） / YTSステーションEYE ANN（火-日曜）<br />
 1997年4月5日 - 1997年9月28日：YTSステーションEYE ANN（土・日曜）</p></td>
 </tr>
 <tr class="even">

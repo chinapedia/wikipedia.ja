@@ -91,7 +91,7 @@
 
 :\* 2 of Us（作詞：[821R](https://ja.wikipedia.org/wiki/821R "wikilink")・飯田建彦、作曲：飯田建彦） - JASRAC作品コード：122-6022-3
 
-:\* 風に乗って（作詞・作曲：[岩崎貴文](https://ja.wikipedia.org/wiki/岩崎貴文 "wikilink")） - JASRAC作品コード：126-6173-2
+:\* 風に乗って（作詞・作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink")） - JASRAC作品コード：126-6173-2
 
 :\* ひまわりのメロディ（作詞：相田毅、作曲：谷本新） - JASRAC作品コード：128-7037-4
 

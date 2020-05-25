@@ -1,7 +1,7 @@
 > この記事は[杉作J太郎](https://ja.wikipedia.org/wiki/杉作J太郎)から翻訳されています。
 
 
-**杉作 J太郎**（すぎさく じぇいたろう、本名：**杉恭介**、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[俳優](../Page/俳優.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[ライター](../Page/著作家.md "wikilink")・[映画監督](../Page/映画監督.md "wikilink")。[男の墓場プロダクション](https://ja.wikipedia.org/wiki/男の墓場プロダクション "wikilink")代表。
+**杉作 J太郎**（すぎさく じぇいたろう、本名：**杉恭介**、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")・[俳優](../Page/俳優.md "wikilink")・[タレント](../Page/タレント.md "wikilink")・[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[ライター](../Page/著作家.md "wikilink")・[映画監督](../Page/映画監督.md "wikilink")。[男の墓場プロダクション](https://ja.wikipedia.org/wiki/男の墓場プロダクション "wikilink")代表。
 
 ## 略歴
 

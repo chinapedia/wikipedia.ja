@@ -1,7 +1,7 @@
 > この記事は[SUEZEN](https://ja.wikipedia.org/wiki/SUEZEN)から翻訳されています。
 
 
-**SUEZEN**（スエゼン、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）は、日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、美術[講師](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")、[ゲームデザイナー](https://ja.wikipedia.org/wiki/ゲームデザイナー "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。本名の**飯田史雄**（いいだ ふみお）名義で[原画](../Page/原画.md "wikilink")家、[作画監督](../Page/作画監督.md "wikilink")としても活動する。
+**SUEZEN**（スエゼン、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）は、日本の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、美術[講師](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")、[ゲームデザイナー](https://ja.wikipedia.org/wiki/ゲームデザイナー "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。本名の**飯田史雄**（いいだ ふみお）名義で[原画](../Page/原画.md "wikilink")家、[作画監督](../Page/作画監督.md "wikilink")としても活動する。
 
 ## 人物
 

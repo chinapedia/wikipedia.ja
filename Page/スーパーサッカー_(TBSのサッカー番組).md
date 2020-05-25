@@ -332,7 +332,7 @@
 | [長野県](../Page/長野県.md "wikilink")                    | [信越放送](../Page/信越放送.md "wikilink")（SBC）                    |                                                 |                      |         |
 | [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS） |                                                 |                      |         |
 | [広島県](../Page/広島県.md "wikilink")                    | [中国放送](../Page/中国放送.md "wikilink")（RCC）                    |                                                 |                      |         |
-| [大分県](../Page/大分県.md "wikilink")                    | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS） |                                                 |                      |         |
+| [大分県](../Page/大分県.md "wikilink")                    | [大分放送](../Page/大分放送.md "wikilink")（OBS）                    |                                                 |                      |         |
 |                                                     |                                                            |                                                 |                      |         |
 
 『スーパーサッカー』 ネット局

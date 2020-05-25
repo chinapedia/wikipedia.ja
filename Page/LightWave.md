@@ -122,7 +122,7 @@ LightWave 2018でレンダラーが書き直され物理ベースのレンダリ
   - [上田文人](../Page/上田文人.md "wikilink")（日本のゲームデザイナー、アートディレクター。「[ICO](../Page/ICO_\(ゲーム\).md "wikilink")」「[ワンダと巨像」](https://ja.wikipedia.org/wiki/ワンダと巨像」 "wikilink")「[人喰いの大鷲トリコ」](https://ja.wikipedia.org/wiki/人喰いの大鷲トリコ」 "wikilink")で使用）
   - [日本ファルコム](../Page/日本ファルコム.md "wikilink")（LightWaveを全面的に開発ラインに取り入れているゲーム製作会社）
   - [神風動画](../Page/神風動画.md "wikilink")（アニメーションの製作にLightWaveを使用している）
-  - [YAMATOWORKS](https://ja.wikipedia.org/wiki/YAMATOWORKS "wikilink")（アニメーションの製作にLightWaveを使用している）
+  - [YAMATOWORKS](../Page/YAMATOWORKS.md "wikilink")（アニメーションの製作にLightWaveを使用している）
   - [サブリメイション](https://ja.wikipedia.org/wiki/サブリメイション "wikilink")（アニメーションの製作にLightWaveを使用している）
   - [富岡聡](https://ja.wikipedia.org/wiki/富岡聡 "wikilink")（[CGデザイナー](../Page/コンピュータグラフィックス.md "wikilink")、[カナバングラフィックス](https://ja.wikipedia.org/wiki/カナバングラフィックス "wikilink")代表取締役）
   - [赤松健](../Page/赤松健.md "wikilink")（漫画家。背景などをLightWaveで作成している）

@@ -86,7 +86,7 @@
   - 小説・ドラマ・アニメの題名
       - [五條瑛](../Page/五條瑛.md "wikilink")のサスペンス小説の題名。
       - 日本の[特撮](../Page/特撮.md "wikilink")ドラマ『[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")』の劇場版作品『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink")』、及びその主人公の名。
-      - 日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[高橋陽一](../Page/高橋陽一.md "wikilink")が原作の漫画『[キャプテン翼](../Page/キャプテン翼.md "wikilink")』の小学生編を元に作られたアニメ作品『[キャプテン翼J](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\) "wikilink")』。
+      - 日本の[漫画家](../Page/漫画家.md "wikilink")・[高橋陽一](../Page/高橋陽一.md "wikilink")が原作の漫画『[キャプテン翼](../Page/キャプテン翼.md "wikilink")』の小学生編を元に作られたアニメ作品『[キャプテン翼J](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\) "wikilink")』。
   - 曲名
       - [李仙姫](https://ja.wikipedia.org/wiki/李仙姫 "wikilink")の楽曲『J』。[門倉有希](../Page/門倉有希.md "wikilink")や[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")などがカバーした。
       - [奥井雅美](../Page/奥井雅美.md "wikilink")の楽曲『[J](https://ja.wikipedia.org/wiki/J_\(奥井雅美の曲\) "wikilink")』。アニメ『[ジャングルDEいこう\!](../Page/ジャングルDEいこう!.md "wikilink")』主題歌。

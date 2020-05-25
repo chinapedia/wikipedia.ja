@@ -102,7 +102,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/山田まりや" title="wikilink">山田まりや</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/辰巳奈都子" title="wikilink">辰巳奈都子</a></li>
+<li><a href="../Page/辰巳奈都子.md" title="wikilink">辰巳奈都子</a></li>
 <li><a href="../Page/太田在.md" title="wikilink">太田在</a> ほか</li>
 </ul></td>
 </tr>

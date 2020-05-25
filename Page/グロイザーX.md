@@ -313,7 +313,7 @@
   - 企画：ダイナミック企画、[永井隆](https://ja.wikipedia.org/wiki/永井隆 "wikilink")、菊地忠昭
   - プロデューサー：西野清市（現・〜聖市、ナック）、中野庄司（大広）、近藤伯雄（東京12チャンネル）
   - シリーズ構成：[安藤豊弘](https://ja.wikipedia.org/wiki/安藤豊弘 "wikilink")\[11\]
-  - 脚本：安藤豊弘、吉田進、[伊東恒久](https://ja.wikipedia.org/wiki/伊東恒久 "wikilink")、[桜井正明](https://ja.wikipedia.org/wiki/桜井正明 "wikilink")
+  - 脚本：安藤豊弘、吉田進、[伊東恒久](../Page/伊東恒久.md "wikilink")、[桜井正明](../Page/桜井正明.md "wikilink")
   - チーフディレクター：秦泉寺博
   - 演出：秦泉寺博、神田隆、新田健二、高垣幸蔵、佐山一志、磯良一
   - キャラクターデザイン：鈴木孝夫

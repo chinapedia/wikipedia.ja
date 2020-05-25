@@ -250,7 +250,7 @@
 <td><p>声の出演</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/さまよう魂たち" title="wikilink">さまよう魂たち</a><br />
+<td><p><a href="../Page/さまよう魂たち.md" title="wikilink">さまよう魂たち</a><br />
 <em>The Frighteners</em></p></td>
 <td><p>フランク・バニスター</p></td>
 <td></td>

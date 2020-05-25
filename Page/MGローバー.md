@@ -7,7 +7,7 @@
 
 ## 歴史
 
-1994年、ドイツの[BMW](../Page/BMW.md "wikilink")は、それまで日本の[本田技研工業](../Page/本田技研工業.md "wikilink")（ホンダ）との提携関係にあった[ローバー・グループ](https://ja.wikipedia.org/wiki/ローバー・グループ "wikilink")を突如として買収した。
+1994年、ドイツの[BMW](../Page/BMW.md "wikilink")は、それまで日本の[本田技研工業](../Page/本田技研工業.md "wikilink")（ホンダ）との提携関係にあった[ローバー・グループ](../Page/ローバー・グループ.md "wikilink")を突如として買収した。
 
 その後ローバー・グループの経営に失敗したBMWは、2000年、グループのうち[ミニ部門](../Page/ミニ_\(BMC\).md "wikilink")、および商標権としてのトライアンフとライレーを手元に残し、ランドローバー部門を[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フォードに売却した](../Page/フォード・モーター.md "wikilink")。残りの全ては、元ローバー会長のジョン・タワーズ（John Towers）が中心となって設立したイギリスの投資グループ・フェニックス・コンソーシアム（*Phoenix Consortium* ）に対して[マネジメント・バイ・アウト](https://ja.wikipedia.org/wiki/マネジメント・バイ・アウト "wikilink")(MBO)により、僅か10[ポンド](../Page/スターリング・ポンド.md "wikilink")（当時の日本円で約1660円）で売却された。こうして、[ブリティッシュ・レイランド](https://ja.wikipedia.org/wiki/ブリティッシュ・レイランド "wikilink")時代からの、ローバー、ランドローバー、[ミニ](../Page/ミニ_\(BMC\).md "wikilink")、[トライアンフなどのブランドは](https://ja.wikipedia.org/wiki/トライアンフ_\(自動車\) "wikilink")、それぞれ別個の会社の元に分散することとなった。
 

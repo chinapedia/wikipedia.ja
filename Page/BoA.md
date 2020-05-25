@@ -42,7 +42,7 @@
   - [2004年](../Page/2004年.md "wikilink")
       - 6月11日：4集「[My Name](../Page/My_Name_\(BoAのアルバム\).md "wikilink")」をリリース。
       - 11月16日：「[アジアソングフェスティバル](https://ja.wikipedia.org/wiki/アジアソングフェスティバル "wikilink")」の第1回（オリンピック公園体操アリーナ）に[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")とともに参加。
-      - [12月5日](../Page/12月5日.md "wikilink")：[慶煕大学の平和の殿堂で行われた](https://ja.wikipedia.org/wiki/慶煕大学校 "wikilink")[Mnet](../Page/Mnet.md "wikilink")主催の毎年恒例イベント「[Mnet KMミュージックフェスティバル](https://ja.wikipedia.org/wiki/MKMF "wikilink")（以下MKMF）」において、この年発売された4集「My Name」が最優秀作品賞を受賞した。このイベントではBoAが単独で「My Name」「Spark」を披露したが、さらに[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")も登場し、二人で「the Love Bug」を歌った。
+      - [12月5日](../Page/12月5日.md "wikilink")：[慶煕大学の平和の殿堂で行われた](https://ja.wikipedia.org/wiki/慶煕大学校 "wikilink")[Mnet](../Page/Mnet.md "wikilink")主催の毎年恒例イベント「[Mnet KMミュージックフェスティバル](https://ja.wikipedia.org/wiki/MKMF "wikilink")（以下MKMF）」において、この年発売された4集「My Name」が最優秀作品賞を受賞した。このイベントではBoAが単独で「My Name」「Spark」を披露したが、さらに[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](../Page/VERBAL.md "wikilink")も登場し、二人で「the Love Bug」を歌った。
   - [2005年](../Page/2005年.md "wikilink")
       - [6月24日](../Page/6月24日.md "wikilink")：5集「[Girls On Top](../Page/Girls_On_Top.md "wikilink")」をリリース。
       - [7月9日](../Page/7月9日.md "wikilink")：[ソウルオリンピックスタジアム](https://ja.wikipedia.org/wiki/ソウルオリンピックスタジアム "wikilink")で行われた「2005 iConcert」に出演し「Girls On Top」「MOTO」を披露した。このステージ後に体調を悪くしたBoAだったが最後まで残り、[朝鮮半島統一を願う歌](https://ja.wikipedia.org/wiki/朝鮮統一問題 "wikilink")「その日が来たら」を出演者全員で合唱した。
@@ -145,7 +145,7 @@
       - [6月6日](../Page/6月6日.md "wikilink")：[ORICON](../Page/オリコンチャート.md "wikilink")[ブログ](../Page/ブログ.md "wikilink")において、『BoAブログ』がスタート。
       - 夏、BoAオリジナルモデルアイウェア（[メガネ](../Page/眼鏡.md "wikilink")）が発売された。
       - 12月に[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")・ホールAにおいてクリスマスライブとして「BoA THE LIVE“Xmas”」を2日間開催。
-      - 12月31日：「LOVE LETTER」で[第49回日本レコード大賞](https://ja.wikipedia.org/wiki/第49回日本レコード大賞 "wikilink")「金賞」受賞『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』に6年連続出場。ウインター・バラード・スペシャル （「[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")」「[メリクリ](../Page/メリクリ.md "wikilink")」）を披露した。
+      - 12月31日：「LOVE LETTER」で[第49回日本レコード大賞](../Page/第49回日本レコード大賞.md "wikilink")「金賞」受賞『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』に6年連続出場。ウインター・バラード・スペシャル （「[LOVE LETTER](../Page/LOVE_LETTER_\(BoAの曲\).md "wikilink")」「[メリクリ](../Page/メリクリ.md "wikilink")」）を披露した。
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
 

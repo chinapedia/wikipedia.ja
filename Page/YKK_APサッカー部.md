@@ -1,17 +1,17 @@
 > この記事は[YKK APサッカー部](https://ja.wikipedia.org/wiki/YKK_APサッカー部)から翻訳されています。
 
 
-**YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[アローズ北陸](../Page/アローズ北陸.md "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")の前身となったクラブである。
+**YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[アローズ北陸](../Page/アローズ北陸.md "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](../Page/カターレ富山.md "wikilink")の前身となったクラブである。
 
 ## 概要・歴史
 
-[1962年](../Page/1962年.md "wikilink")に[YKK](../Page/YKK.md "wikilink")のサッカー部として創部。1969年に富山県サッカー協会に加盟した\[1\]。1973年の[富山県リーグの創設時より参加して](https://ja.wikipedia.org/wiki/富山県フットボールリーグ "wikilink")、2年連続で優勝。1974年には[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")に初出場した。1975年創設の[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")に初年度より参加して同年に初優勝した。1981年に天皇杯の北信越予選で優勝して[第61回天皇杯全日本サッカー選手権大会](../Page/第61回天皇杯全日本サッカー選手権大会.md "wikilink")に初出場した。1993年に[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で準優勝した。1996年に創設された[富山県サッカー選手権大会](https://ja.wikipedia.org/wiki/富山県サッカー選手権大会 "wikilink")（兼天皇杯県予選）の第1回大会で優勝した。
+[1962年](../Page/1962年.md "wikilink")に[YKK](../Page/YKK.md "wikilink")のサッカー部として創部。1969年に富山県サッカー協会に加盟した\[1\]。1973年の[富山県リーグの創設時より参加して](https://ja.wikipedia.org/wiki/富山県フットボールリーグ "wikilink")、2年連続で優勝。1974年には[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")に初出場した。1975年創設の[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")に初年度より参加して同年に初優勝した。1981年に天皇杯の北信越予選で優勝して[第61回天皇杯全日本サッカー選手権大会](../Page/第61回天皇杯全日本サッカー選手権大会.md "wikilink")に初出場した。1993年に[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")で準優勝した。1996年に創設された[富山県サッカー選手権大会](../Page/富山県サッカー選手権大会.md "wikilink")（兼天皇杯県予選）の第1回大会で優勝した。
 
 [2000年](../Page/2000年.md "wikilink")の[全国地域リーグ決勝大会で準優勝](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")。[2001年](../Page/2001年.md "wikilink")から[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")(JFL)に昇格し、リーグ戦は15勝5分10敗で16チーム中6位、[長谷川満が新人王を獲得した](../Page/長谷川満_\(サッカー選手\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")は7勝5分5敗で18チーム中8位。[2003年](../Page/2003年.md "wikilink")より元[湘南ベルマーレ](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")監督の[古前田充](../Page/古前田充.md "wikilink")が監督に就任し、15勝5分10敗で16チーム中6位と中位をキープした。
 
 [2004年](../Page/2004年.md "wikilink")からYKKから同社子会社の[YKK APのサッカー部に移行し](../Page/YKK_AP.md "wikilink")、監督に元[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の[楚輪博](../Page/楚輪博.md "wikilink")を迎えた。[2005年](../Page/2005年.md "wikilink")は20勝4分6敗で過去最高の2位となった。[2006年](../Page/2006年.md "wikilink")、[第86回天皇杯全日本サッカー選手権大会](../Page/第86回天皇杯全日本サッカー選手権大会.md "wikilink")3回戦で[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")に勝利を収めた。
 
-[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")、富山県サッカー協会の要請に応じ、同じ富山を本拠地とする[アローズ北陸](../Page/アローズ北陸.md "wikilink")と2008年度より統合し、[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")が発足した。
+[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")、富山県サッカー協会の要請に応じ、同じ富山を本拠地とする[アローズ北陸](../Page/アローズ北陸.md "wikilink")と2008年度より統合し、[カターレ富山](../Page/カターレ富山.md "wikilink")が発足した。
 
 ## チーム成績・歴代監督
 
@@ -404,7 +404,7 @@
 <td><p>26</p></td>
 <td><p>5</p></td>
 <td><p>21</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富山県サッカー選手権大会" title="wikilink">県予選敗退</a></p></td>
+<td><p><a href="../Page/富山県サッカー選手権大会.md" title="wikilink">県予選敗退</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -574,7 +574,7 @@
       - 準優勝：1回（2000)
   - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")
       - 準優勝：1回（1993)
-  - [富山県サッカー選手権大会](https://ja.wikipedia.org/wiki/富山県サッカー選手権大会 "wikilink")（兼[天皇杯富山県予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）
+  - [富山県サッカー選手権大会](../Page/富山県サッカー選手権大会.md "wikilink")（兼[天皇杯富山県予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）
       - 優勝：5回 (1996, 1998, 2000, 2002, 2006)
       - 準優勝：7回（1997, 1999, 2001, 2003, 2004, 2005, 2007）
 

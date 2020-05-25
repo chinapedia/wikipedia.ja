@@ -9,7 +9,7 @@ JR東日本以外でも、同社の車両をベースに設計・製造された
 
 [名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")や[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）でもTIMSとほぼ同様のシステムを搭載した車両を導入しているが、名称は**TICS**（**T**rain **I**nformation **C**ontrol **S**ystemの略、**ティクス**と読む）、[小田急電鉄](../Page/小田急電鉄.md "wikilink")は*'TIOS **（**T*'rain **I**nformation **O**dakyu management **S**ystemの略、**ティオス**と読む）、[京王電鉄](../Page/京王電鉄.md "wikilink")は**K-TIMS**（**K**eio-**T**rain **I**nformation **M**anagement **S**ystemの略、**ケイ・ティムス**と読む）、[西武鉄道](../Page/西武鉄道.md "wikilink")はS-TIM（**S**eibu-**T**rain **I**ntegrated **M**anagement systemの略、エス・ティムと読む）と異なるものの、システムとしては細部を除きほぼ同じものである。
 
-TIMSの次世代システムとしては、列車内伝送系の国際規格ECN(IEC61375-3-4)に準拠して、伝送路に[100メガビット・イーサネット](https://ja.wikipedia.org/wiki/100メガビット・イーサネット "wikilink")を使用した[INTEROS](https://ja.wikipedia.org/wiki/INTEROS "wikilink")がある\[1\]。
+TIMSの次世代システムとしては、列車内伝送系の国際規格ECN(IEC61375-3-4)に準拠して、伝送路に[100メガビット・イーサネット](../Page/100メガビット・イーサネット.md "wikilink")を使用した[INTEROS](https://ja.wikipedia.org/wiki/INTEROS "wikilink")がある\[1\]。
 
 同様の制御伝送システムは国内では[日立製作所](../Page/日立製作所.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[東洋電機製造](../Page/東洋電機製造.md "wikilink")などが開発している。
 

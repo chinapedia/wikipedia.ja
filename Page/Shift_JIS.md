@@ -280,7 +280,7 @@ IANAでも「Shift_JIS」という名前が割り当てられている\[7\]。
 </tbody>
 </table>
 
-Shift_JISでは、カタカナの「ソ」、漢字の「噂」など一部の文字の2バイト目に、（Shift_JISでは[円記号](../Page/円記号.md "wikilink")、ASCIIなどでは[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")）を使用している。多くのプログラミング言語（[C](../Page/C言語.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Bourne Shellなど多数](../Page/Bourne_Shell.md "wikilink")）では、このを[エスケープ文字](../Page/エスケープ文字.md "wikilink")としている。したがって、ソースコードや文字データの処理においてShift_JISを想定していないプログラミング環境では問題が起こる。この問題は、同じように2バイト目の範囲にを含む[Big5](../Page/Big5.md "wikilink")や、まれではあるが[GBK](https://ja.wikipedia.org/wiki/GBK "wikilink")などの[文字コード](../Page/文字コード.md "wikilink")でも発生しうる。
+Shift_JISでは、カタカナの「ソ」、漢字の「噂」など一部の文字の2バイト目に、（Shift_JISでは[円記号](../Page/円記号.md "wikilink")、ASCIIなどでは[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")）を使用している。多くのプログラミング言語（[C](../Page/C言語.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Bourne Shellなど多数](../Page/Bourne_Shell.md "wikilink")）では、このを[エスケープ文字](../Page/エスケープ文字.md "wikilink")としている。したがって、ソースコードや文字データの処理においてShift_JISを想定していないプログラミング環境では問題が起こる。この問題は、同じように2バイト目の範囲にを含む[Big5](../Page/Big5.md "wikilink")や、まれではあるが[GBK](../Page/GBK.md "wikilink")などの[文字コード](../Page/文字コード.md "wikilink")でも発生しうる。
 
 また、以外についても類似の問題が発生することがある。たとえば、[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")やMS-DOSなどの[シェル](../Page/シェル.md "wikilink")上で、2バイト目がになる文字（Shift_JISやASCIIでは[バーティカルバー](../Page/バーティカルバー.md "wikilink")）を含む文字（−\[12\]、ポ、л、榎、掛、弓、芸、……）をファイル名に使用しようとすると、[パイプ記号と認識され](../Page/パイプ_\(コンピュータ\).md "wikilink")、正常にファイルが作成されなかったり、読み込みが不良になったりすることがある。
 

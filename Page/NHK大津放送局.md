@@ -38,7 +38,7 @@
   - Eテレ大阪放送局（JOBB-DTV）大津中継局 13ch（30W、上記総合テレビ大津放送局親局と同所）　
       - [放送区域内世帯数約](https://ja.wikipedia.org/wiki/放送#放送区域 "wikilink")18万世帯
   - FM放送
-      - [山東](https://ja.wikipedia.org/wiki/山東中継局 "wikilink") 83.1MHz
+      - [山東](../Page/山東中継局.md "wikilink") 83.1MHz
       - [信楽](https://ja.wikipedia.org/wiki/信楽中継局 "wikilink") 88.9MHz
   - 第2放送は滋賀県内に送信・中継施設は所在せず、大阪放送局（送信所：[羽曳野市](https://ja.wikipedia.org/wiki/羽曳野市 "wikilink")）JOBB・828kHz（300kW）が担っている。
 

@@ -495,7 +495,7 @@
 <td><p>毎年11月開催、開催日夜に時差放送</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽女子ロードレース" title="wikilink">山陽女子ロードレース</a></p></td>
+<td><p><a href="../Page/山陽女子ロードレース.md" title="wikilink">山陽女子ロードレース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">RSK山陽放送制作で同時放送</a>。毎年<a href="../Page/12月23日.md" title="wikilink">12月23日</a>の午前中に開催[26]</p></td>
 </tr>
 <tr class="odd">

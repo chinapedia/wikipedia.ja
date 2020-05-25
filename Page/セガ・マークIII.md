@@ -29,7 +29,7 @@
       - 画像表示LSI（VDP）は[TMS9918](../Page/TMS9918.md "wikilink")上位互換[ヤマハ](../Page/ヤマハ.md "wikilink")製315-5124
       - 画面表示: 256 × 192ドット（8 × 8ドットのBGキャラクターが32 × 24）、BGキャラクターのパターン数は仕様上は最大512。ただし、テキストやスプライトの表示用にもVRAMを使用するため、実際に定義できる個数はそれより少ない。
       - 色数 : BG面・スプライトとも、64色中の16色1パレットずつ
-      - [スプライト](https://ja.wikipedia.org/wiki/スプライト "wikilink"): 8 × 8ドット、8 × 16ドット、最大64個、横1ラインに8個まで同時表示可能
+      - [スプライト](../Page/スプライト.md "wikilink"): 8 × 8ドット、8 × 16ドット、最大64個、横1ラインに8個まで同時表示可能
       - ハードウェアスクロール機能あり
   - サウンド機能:（[SN76489相当](https://ja.wikipedia.org/wiki/Programmable_Sound_Generator#SN76489の仕様 "wikilink")、矩形波3ch + ノイズ 1ch）315-5124に内蔵。
   - [ジョイパッド](https://ja.wikipedia.org/wiki/ジョイパッド "wikilink"): 接続端子2個、パッド2個付属（写真は初期モデル付属のもの、後期モデルはパッド上下左右の他斜めにも突起があり中央のネジ穴にカバーがある。）
@@ -88,7 +88,7 @@
 ### パソコンゲームの移植タイトル
 
   - [覇邪の封印](https://ja.wikipedia.org/wiki/覇邪の封印 "wikilink")
-  - [イース](https://ja.wikipedia.org/wiki/イースI "wikilink")
+  - [イース](../Page/イースI.md "wikilink")
 
 ### オリジナルタイトル
 

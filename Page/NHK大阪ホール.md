@@ -33,7 +33,7 @@
   - [三枝とナニワ三姉妹\!](https://ja.wikipedia.org/wiki/三枝とナニワ三姉妹! "wikilink")（2005年度）不定期収録。
   - NHK大阪ホール5周年記念事業 [ミュージック・エクスプレス](../Page/ミュージック・エクスプレス.md "wikilink") & [POP JAM](https://ja.wikipedia.org/wiki/ポップジャム#POP_JAM\(ポップジャム、レギュラーシリーズ、第2期\) "wikilink")（[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")）
   - [大阪発疾走ステージ WEST WIND](../Page/大阪発疾走ステージ_WEST_WIND.md "wikilink")（2007.2 - 2010.10）不定期収録。
-  - 連続テレビ小説「[だんだん](https://ja.wikipedia.org/wiki/だんだん "wikilink")」（2008.10 - 2009.3）での[三倉茉奈・佳奈による架空のユニット](../Page/マナカナ.md "wikilink")『SJ』コンサートの収録（ドラマ収録のため非公開、この収録で入場者数が150万人を突破）
+  - 連続テレビ小説「[だんだん](../Page/だんだん.md "wikilink")」（2008.10 - 2009.3）での[三倉茉奈・佳奈による架空のユニット](../Page/マナカナ.md "wikilink")『SJ』コンサートの収録（ドラマ収録のため非公開、この収録で入場者数が150万人を突破）
   - 第43回「[思い出のメロディー](../Page/思い出のメロディー.md "wikilink")」 （[2011年](../Page/2011年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")）
   - [NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")（総合テレビ、[2014](../Page/2014年.md "wikilink")・[2015年](../Page/2015年.md "wikilink")度に原則毎月第4火曜日に生放送）
 

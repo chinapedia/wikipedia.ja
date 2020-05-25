@@ -211,7 +211,7 @@ CM枠では、回によって西武グループの催事案内を行う「西武
 
 ### 現在の担当者
 
-  - [上野晃](../Page/上野晃.md "wikilink")（元・[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")アナウンサー。）
+  - [上野晃](../Page/上野晃.md "wikilink")（元・[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")アナウンサー。）
   - [上野智広](https://ja.wikipedia.org/wiki/上野智広 "wikilink")（元・[文化放送](../Page/文化放送.md "wikilink")アナウンサー。2014年 - ）
   - [小笠原聖](../Page/小笠原聖.md "wikilink")（元・[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")アナウンサー。）
   - [加藤暁](../Page/加藤暁.md "wikilink")（元・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")アナウンサー。2011年は実況担当せず。）
@@ -296,7 +296,7 @@ CM枠では、回によって西武グループの催事案内を行う「西武
   - [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[MXスタジアム](https://ja.wikipedia.org/wiki/MXスタジアム "wikilink")）
   - [tvk](../Page/テレビ神奈川.md "wikilink")（[tvkプロ野球中継 熱烈ベイスターズLIVE\!\!](https://ja.wikipedia.org/wiki/tvkプロ野球中継_横浜DeNAベイスターズ熱烈LIVE "wikilink")　交流戦・[横浜ベイスターズ戦のみ](../Page/横浜DeNAベイスターズ.md "wikilink")。）
   - [テレビ愛知](../Page/テレビ愛知.md "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
 
 ## 在阪準キー局からのネット
 

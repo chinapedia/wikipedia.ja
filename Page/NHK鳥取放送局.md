@@ -46,7 +46,7 @@
 
 #### 総合テレビ リモコンキーID：3
 
-  - **[鳥取](../Page/湯梨浜町.md "wikilink")** 29ch JOLG-DTV 100W（[毛無山](https://ja.wikipedia.org/wiki/毛無山_\(鳥取市\) "wikilink")）
+  - **[鳥取](../Page/湯梨浜町.md "wikilink")** 29ch JOLG-DTV 100W（[毛無山](../Page/毛無山_\(鳥取市\).md "wikilink")）
   - [米子](../Page/松江・米子_テレビ・FM放送所.md "wikilink") 26ch 100W（枕木山）
   - [鉢伏](../Page/湯梨浜町.md "wikilink") 14ch 0.5W（[鉢伏山](../Page/鉢伏山_\(鳥取県\).md "wikilink")）
   - [岩美](../Page/岩美町.md "wikilink") 14ch 1W（金峯山）
@@ -70,7 +70,7 @@
 
 #### 教育テレビ リモコンキーID：2
 
-  - **[鳥取](../Page/湯梨浜町.md "wikilink")** 20ch JOLC-DTV 100W（[毛無山](https://ja.wikipedia.org/wiki/毛無山_\(鳥取市\) "wikilink")）
+  - **[鳥取](../Page/湯梨浜町.md "wikilink")** 20ch JOLC-DTV 100W（[毛無山](../Page/毛無山_\(鳥取市\).md "wikilink")）
   - [米子](../Page/松江・米子_テレビ・FM放送所.md "wikilink") 20ch 100W（枕木山）
   - [鉢伏](../Page/湯梨浜町.md "wikilink") 13ch 0.5W（[鉢伏山](../Page/鉢伏山_\(鳥取県\).md "wikilink")）
   - [岩美](../Page/岩美町.md "wikilink") 13ch 1W（金峯山）

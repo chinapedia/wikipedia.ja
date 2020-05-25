@@ -384,7 +384,7 @@
 | 800回  | [メルパルクホール東京](https://ja.wikipedia.org/wiki/メルパルク東京 "wikilink")                            | [2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") | <ref>{{Cite web|title=林原めぐみのTokyo Boogie Night 800回突破記念公開録音レポート              |
 | 900回  | [東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")                                                | [2009年](../Page/2009年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") | \[54\]<ref>{{Cite web|title=林原めぐみのTokyo Boogie Night 900回突破記念公開録音〔昼の部〕レポート\! |
 | 1000回 | [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")                                                  | [2011年](../Page/2011年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")                    | \[55\]<ref>{{Cite web|author=林原めぐみ|title=めぐさんより：1000回公開録音無事終了しました            |
-| 1100回 | [2013年](../Page/2013年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") | \[56\]                                                                                      |                                                                              |
+| 1100回 | [2013年](../Page/2013年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")                    | \[56\]                                                                                      |                                                                              |
 | 1200回 | [2015年](../Page/2015年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")                    |                                                                                             |                                                                              |
 | 1300回 | [2017年](../Page/2017年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")                  | \[57\]                                                                                      |                                                                              |
 | 1400回 | [神戸ハーバーランド](../Page/神戸ハーバーランド.md "wikilink")                                              | [2019年](../Page/2019年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")                    | \[58\]\[59\]                                                                 |
@@ -469,7 +469,7 @@
 20.
 21.
 22. 23:00からは通常通りの放送、26:00からの『赤坂ライブ』（第一日曜深夜での放送）を放送してからの放送となった。
-23. 声優・歌手以外では、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[監督](../Page/監督.md "wikilink")・[作家](../Page/作家.md "wikilink")などがゲスト出演することが多い。珍しい例では[さかなクン](../Page/さかなクン.md "wikilink")や[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")など、通常は交流の無い人物がゲストに呼ばれたこともある。
+23. 声優・歌手以外では、[漫画家](../Page/漫画家.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[監督](../Page/監督.md "wikilink")・[作家](../Page/作家.md "wikilink")などがゲスト出演することが多い。珍しい例では[さかなクン](../Page/さかなクン.md "wikilink")や[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")など、通常は交流の無い人物がゲストに呼ばれたこともある。
 24. [声優・水谷優子さん、乳がんで死去　『ちびまる子ちゃん』お姉ちゃんなど](http://headlines.yahoo.co.jp/hl?a=20160519-00000328-oric-ent) [オリコン](../Page/オリコン.md "wikilink")2016年5月19日閲覧
 25. 『ラジオ番組表 2007秋号』（三才ブックス刊）の当番組の特集記事のインタビューで「電子メールだとリスナーの気持ちを読み取ることができない」という発言をしており、ハガキを読んで番組を進行するという形にこだわりを見せている。
 26. [2009年](../Page/2009年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")放送分の本人の発言より。

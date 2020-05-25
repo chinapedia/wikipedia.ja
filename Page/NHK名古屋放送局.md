@@ -76,16 +76,16 @@
   - **[名古屋](../Page/瀬戸デジタルタワー.md "wikilink")（愛知県[瀬戸市](../Page/瀬戸市.md "wikilink")） 20ch JOCK-DTV 3 kW**
   - [名駅](../Page/JRセントラルタワーズ.md "wikilink") 50ch 300 mW
   - [豊橋](../Page/豊橋中継局.md "wikilink") 29ch 10W
-  - [蒲郡田原](https://ja.wikipedia.org/wiki/蒲郡田原テレビ中継局 "wikilink") 29ch 3W（垂直偏波）
-  - [設楽](https://ja.wikipedia.org/wiki/NHK設楽中継局 "wikilink") 41ch 1W
-  - [鳳来大野](https://ja.wikipedia.org/wiki/鳳来大野テレビ中継局 "wikilink") 20ch 300 mW
-  - [二川](https://ja.wikipedia.org/wiki/二川テレビ中継局 "wikilink") 29ch 300 mW
+  - [蒲郡田原](../Page/蒲郡田原テレビ中継局.md "wikilink") 29ch 3W（垂直偏波）
+  - [設楽](../Page/NHK設楽中継局.md "wikilink") 41ch 1W
+  - [鳳来大野](../Page/鳳来大野テレビ中継局.md "wikilink") 20ch 300 mW
+  - [二川](../Page/二川テレビ中継局.md "wikilink") 29ch 300 mW
   - [犬山南](https://ja.wikipedia.org/wiki/犬山南テレビ中継局 "wikilink") 48ch 300 mW
   - [知多内海](https://ja.wikipedia.org/wiki/知多内海テレビ中継局 "wikilink") 42ch 100 mW
-  - [三河一宮](https://ja.wikipedia.org/wiki/NHK三河一宮テレビ中継局 "wikilink") 20ch 50 mW（垂直偏波）
+  - [三河一宮](../Page/NHK三河一宮テレビ中継局.md "wikilink") 20ch 50 mW（垂直偏波）
   - [足助東](../Page/NHK足助東テレビ中継局.md "wikilink") 29ch 50 mW
-  - [稲武東](https://ja.wikipedia.org/wiki/稲武東テレビ中継局 "wikilink") 27ch 50 mW
-  - [稲武西](https://ja.wikipedia.org/wiki/稲武西テレビ中継局 "wikilink") 20ch 10 mW
+  - [稲武東](../Page/稲武東テレビ中継局.md "wikilink") 27ch 50 mW
+  - [稲武西](../Page/稲武西テレビ中継局.md "wikilink") 20ch 10 mW
 
 <!-- end list -->
 
@@ -96,16 +96,16 @@
   - [名古屋](../Page/瀬戸デジタルタワー.md "wikilink")（愛知県瀬戸市） 13ch JOCB-DTV 3 kW
   - [名駅](../Page/JRセントラルタワーズ.md "wikilink") 49ch 300 mW
   - [豊橋](../Page/豊橋中継局.md "wikilink") 24ch 10W
-  - [蒲郡田原](https://ja.wikipedia.org/wiki/蒲郡田原テレビ中継局 "wikilink") 24ch 3W（垂直偏波）
-  - [設楽](https://ja.wikipedia.org/wiki/NHK設楽中継局 "wikilink") 43ch 1W
-  - [鳳来大野](https://ja.wikipedia.org/wiki/鳳来大野テレビ中継局 "wikilink") 13ch 300 mW
-  - [二川](https://ja.wikipedia.org/wiki/二川テレビ中継局 "wikilink") 24ch 300 mW
+  - [蒲郡田原](../Page/蒲郡田原テレビ中継局.md "wikilink") 24ch 3W（垂直偏波）
+  - [設楽](../Page/NHK設楽中継局.md "wikilink") 43ch 1W
+  - [鳳来大野](../Page/鳳来大野テレビ中継局.md "wikilink") 13ch 300 mW
+  - [二川](../Page/二川テレビ中継局.md "wikilink") 24ch 300 mW
   - [犬山南](https://ja.wikipedia.org/wiki/犬山南テレビ中継局 "wikilink") 49ch 300 mW
   - [知多内海](https://ja.wikipedia.org/wiki/知多内海テレビ中継局 "wikilink") 39ch 100 mW
-  - [三河一宮](https://ja.wikipedia.org/wiki/NHK三河一宮テレビ中継局 "wikilink") 27ch 50 mW（垂直偏波）
+  - [三河一宮](../Page/NHK三河一宮テレビ中継局.md "wikilink") 27ch 50 mW（垂直偏波）
   - [足助東](../Page/NHK足助東テレビ中継局.md "wikilink") 24ch 50 mW
-  - [稲武東](https://ja.wikipedia.org/wiki/稲武東テレビ中継局 "wikilink") 24ch 50 mW
-  - [稲武西](https://ja.wikipedia.org/wiki/稲武西テレビ中継局 "wikilink") 13ch 10 mW
+  - [稲武東](../Page/稲武東テレビ中継局.md "wikilink") 24ch 50 mW
+  - [稲武西](../Page/稲武西テレビ中継局.md "wikilink") 13ch 10 mW
       - 他県の中継局については、それぞれのNHK県域放送局の項を参照。
 
 ### ラジオ放送
@@ -114,7 +114,7 @@
 
   - **[名古屋](../Page/NHK鍋田ラジオ放送所.md "wikilink")（愛知県[弥富市](../Page/弥富市.md "wikilink")） 729[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") JOCK 50 kW**
   - [豊橋](../Page/豊橋中継局.md "wikilink") 1161 kHz 100W
-  - [新城](https://ja.wikipedia.org/wiki/新城ラジオ中継局 "wikilink") 1026 kHz 100W
+  - [新城](../Page/新城ラジオ中継局.md "wikilink") 1026 kHz 100W
       - 岐阜県・三重県の中継局については、それぞれのNHK県域放送局の項を参照。
 
 #### ラジオ第2放送
@@ -127,7 +127,7 @@
 
   - **[名古屋](../Page/東山タワー.md "wikilink") 82.5[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") JOCK-FM 10 kW**
   - [豊橋](../Page/豊橋中継局.md "wikilink") 85.3 MHz 50W
-  - [設楽](https://ja.wikipedia.org/wiki/NHK設楽中継局 "wikilink") 83.3 MHz 100W
+  - [設楽](../Page/NHK設楽中継局.md "wikilink") 83.3 MHz 100W
 
 ### アナログ放送概要（廃止）
 
@@ -145,16 +145,16 @@
 
   - **[名古屋](../Page/名古屋テレビ塔.md "wikilink") 3ch JOCK-TV 映像10kW/音声2.5 kW**
   - [豊橋](../Page/豊橋中継局.md "wikilink") 54ch 映像100W/音声25W
-  - [蒲郡田原](https://ja.wikipedia.org/wiki/蒲郡田原テレビ中継局 "wikilink") 44ch 映像30W/音声7.5W（垂直偏波）
-  - [設楽](https://ja.wikipedia.org/wiki/NHK設楽中継局 "wikilink") 51ch 映像10W/音声2.5W
-  - [二川](https://ja.wikipedia.org/wiki/二川テレビ中継局 "wikilink") 51ch 映像3W/音声750mW
+  - [蒲郡田原](../Page/蒲郡田原テレビ中継局.md "wikilink") 44ch 映像30W/音声7.5W（垂直偏波）
+  - [設楽](../Page/NHK設楽中継局.md "wikilink") 51ch 映像10W/音声2.5W
+  - [二川](../Page/二川テレビ中継局.md "wikilink") 51ch 映像3W/音声750mW
   - [足助東](../Page/NHK足助東テレビ中継局.md "wikilink") 46ch 映像3W音声750mW
   - [犬山南](https://ja.wikipedia.org/wiki/犬山南テレビ中継局 "wikilink") 54ch 映像1W/音声250mW
   - [知多内海](https://ja.wikipedia.org/wiki/知多内海テレビ中継局 "wikilink") 40ch 映像1W/音声250mW
-  - [鳳来大野](https://ja.wikipedia.org/wiki/鳳来大野テレビ中継局 "wikilink") 45ch 映像1W/音声250mW
-  - [三河一宮](https://ja.wikipedia.org/wiki/NHK三河一宮テレビ中継局 "wikilink") 31ch 映像500mW/音声125mW（垂直偏波）
-  - [稲武東](https://ja.wikipedia.org/wiki/稲武東テレビ中継局 "wikilink") 53ch 映像100mW/音声25mW
-  - [稲武西](https://ja.wikipedia.org/wiki/稲武西テレビ中継局 "wikilink") 46ch 映像100mW/音声25mW
+  - [鳳来大野](../Page/鳳来大野テレビ中継局.md "wikilink") 45ch 映像1W/音声250mW
+  - [三河一宮](../Page/NHK三河一宮テレビ中継局.md "wikilink") 31ch 映像500mW/音声125mW（垂直偏波）
+  - [稲武東](../Page/稲武東テレビ中継局.md "wikilink") 53ch 映像100mW/音声25mW
+  - [稲武西](../Page/稲武西テレビ中継局.md "wikilink") 46ch 映像100mW/音声25mW
 
 <!-- end list -->
 
@@ -164,16 +164,16 @@
 
   - **[名古屋](../Page/名古屋テレビ塔.md "wikilink") 9ch JOCB-TV 映像10kW/音声2.5 kW**
   - [豊橋](../Page/豊橋中継局.md "wikilink") 50ch 映像100W/音声25W
-  - [蒲郡田原](https://ja.wikipedia.org/wiki/蒲郡田原テレビ中継局 "wikilink") 46ch 映像30W/音声7.5W（垂直偏波）
-  - [設楽](https://ja.wikipedia.org/wiki/NHK設楽中継局 "wikilink") 48ch 映像10W/音声2.5W
-  - [二川](https://ja.wikipedia.org/wiki/二川テレビ中継局 "wikilink") 48ch 映像3W/音声750mW
+  - [蒲郡田原](../Page/蒲郡田原テレビ中継局.md "wikilink") 46ch 映像30W/音声7.5W（垂直偏波）
+  - [設楽](../Page/NHK設楽中継局.md "wikilink") 48ch 映像10W/音声2.5W
+  - [二川](../Page/二川テレビ中継局.md "wikilink") 48ch 映像3W/音声750mW
   - [足助東](../Page/NHK足助東テレビ中継局.md "wikilink") 48ch 映像3W音声750mW
   - [犬山南](https://ja.wikipedia.org/wiki/犬山南テレビ中継局 "wikilink") 52ch 映像1W/音声250mW
   - [知多内海](https://ja.wikipedia.org/wiki/知多内海テレビ中継局 "wikilink") 44ch 映像1W/音声250mW
-  - [鳳来大野](https://ja.wikipedia.org/wiki/鳳来大野テレビ中継局 "wikilink") 47ch 映像1W/音声250mW
-  - [三河一宮](https://ja.wikipedia.org/wiki/NHK三河一宮テレビ中継局 "wikilink") 33ch 映像500mW/音声125mW（垂直偏波）
-  - [稲武東](https://ja.wikipedia.org/wiki/稲武東テレビ中継局 "wikilink") 51ch 映像100mW/音声25mW
-  - [稲武西](https://ja.wikipedia.org/wiki/稲武西テレビ中継局 "wikilink") 48ch 映像100mW/音声25mW
+  - [鳳来大野](../Page/鳳来大野テレビ中継局.md "wikilink") 47ch 映像1W/音声250mW
+  - [三河一宮](../Page/NHK三河一宮テレビ中継局.md "wikilink") 33ch 映像500mW/音声125mW（垂直偏波）
+  - [稲武東](../Page/稲武東テレビ中継局.md "wikilink") 51ch 映像100mW/音声25mW
+  - [稲武西](../Page/稲武西テレビ中継局.md "wikilink") 48ch 映像100mW/音声25mW
       - 他県の中継局については、それぞれのNHK県域放送局の項を参照。
 
 ## 支局・営業センター

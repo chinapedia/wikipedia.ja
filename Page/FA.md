@@ -31,7 +31,7 @@
   - コンピュータゲームのタイトル
       - [FRONT MISSION ALTERNATIVE](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink") - 公式で使用している略称。
       - [FORTUNE ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink") - [オーガストが発売したアダルトゲーム](../Page/オーガスト_\(ブランド\).md "wikilink")
-      - [アーマード・コア フォーアンサー](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")（） - 「**fA**」と通称される
+      - [アーマード・コア フォーアンサー](../Page/アーマード・コア_フォーアンサー.md "wikilink")（） - 「**fA**」と通称される
   - アニメーション作品のタイトル
       - [鋼の錬金術師 FULLMETAL ALCHEMIST](https://ja.wikipedia.org/wiki/鋼の錬金術師_FULLMETAL_ALCHEMIST "wikilink") - [原作などの作品と区別する意味合いで使われる](../Page/鋼の錬金術師.md "wikilink")。
 

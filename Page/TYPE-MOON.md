@@ -117,7 +117,7 @@
 
   - [Fate/Zero](https://ja.wikipedia.org/wiki/Fate/Zero "wikilink")（2006年 - 2007年、著者：[虚淵玄](../Page/虚淵玄.md "wikilink")、イラスト：武内崇）
       - 『[Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink")』の外伝作品。本編より10年前の物語を描いている。後に[星海社](https://ja.wikipedia.org/wiki/星海社 "wikilink")から文庫版が発売され、アニメ制作会社[ufotable](https://ja.wikipedia.org/wiki/ufotable "wikilink")によりテレビアニメ化された。
-  - [Fate/Apocrypha](https://ja.wikipedia.org/wiki/Fate/Apocrypha "wikilink")（2012年 - 2014年、著者：[東出祐一郎](../Page/東出祐一郎.md "wikilink")、イラスト：[近衛乙嗣](https://ja.wikipedia.org/wiki/近衛乙嗣 "wikilink")）
+  - [Fate/Apocrypha](https://ja.wikipedia.org/wiki/Fate/Apocrypha "wikilink")（2012年 - 2014年、著者：[東出祐一郎](../Page/東出祐一郎.md "wikilink")、イラスト：[近衛乙嗣](../Page/近衛乙嗣.md "wikilink")）
       - 『Fate/stay night』の外伝作品。
   - [Fate/Prototype](https://ja.wikipedia.org/wiki/Fate/Prototype "wikilink") 蒼銀のフラグメンツ（2013年 - 2016年、著者：[桜井光](https://ja.wikipedia.org/wiki/桜井光 "wikilink")、イラスト：中原、販売：角川書店）
       - 『Fate/Prototype』の外伝小説。
@@ -161,7 +161,7 @@
   - [Fate/EXTRA](https://ja.wikipedia.org/wiki/Fate/EXTRA "wikilink")（2011年 - 2014年、著者：[ろび〜な](https://ja.wikipedia.org/wiki/ろび〜な "wikilink")、販売：角川書店）
   - Fate/EXTRA CCC（2015年 - 、著者：ろび〜な、販売：角川書店）
   - Fate/EXTRA CCC FoxTail（2013年 - 、著者：[たけのこ星人](https://ja.wikipedia.org/wiki/たけのこ星人 "wikilink")、販売：角川書店）
-  - [Fate/kaleid liner プリズマ☆イリヤ](https://ja.wikipedia.org/wiki/Fate/kaleid_liner_プリズマ☆イリヤ "wikilink")（2007年 - 2009年、著者：[ひろやまひろし](https://ja.wikipedia.org/wiki/ひろやまひろし "wikilink")、販売：角川書店）
+  - [Fate/kaleid liner プリズマ☆イリヤ](https://ja.wikipedia.org/wiki/Fate/kaleid_liner_プリズマ☆イリヤ "wikilink")（2007年 - 2009年、著者：[ひろやまひろし](../Page/ひろやまひろし.md "wikilink")、販売：角川書店）
   - Fate/kaleid liner プリズマ☆イリヤ ツヴァイ\!（2009年 - 2012年、著者：ひろやまひろし、販売：角川書店）
   - Fate/kaleid liner プリズマ☆イリヤ ドライ\!\!（2012年 - 、著者：ひろやまひろし、販売：角川書店）
   - [氷室の天地 Fate/school life](https://ja.wikipedia.org/wiki/氷室の天地_Fate/school_life "wikilink")（2006年 - 、著者：[磨伸映一郎](../Page/磨伸映一郎.md "wikilink")、販売：[一迅社](../Page/一迅社.md "wikilink")）

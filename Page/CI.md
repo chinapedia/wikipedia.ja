@@ -18,7 +18,7 @@
   - [配置間相互作用](https://ja.wikipedia.org/wiki/配置間相互作用 "wikilink") (configuration interaction)
   - [カラーインデックス](../Page/カラーインデックス.md "wikilink") (color index) - [染料](../Page/染料.md "wikilink")・[顔料](../Page/顔料.md "wikilink")・[着色料](../Page/着色料.md "wikilink")などを分類した[データベース](../Page/データベース.md "wikilink")。
   - [色指数](../Page/色指数_\(天文\).md "wikilink") (color index) - [天体](../Page/天体.md "wikilink")の[色](../Page/色.md "wikilink")を表す指標。
-  - [CodeIgniter](https://ja.wikipedia.org/wiki/CodeIgniter "wikilink")
+  - [CodeIgniter](../Page/CodeIgniter.md "wikilink")
   - [コンパラブルインデックス](../Page/コンパラブルインデックス.md "wikilink")（Comparable Index） - [競馬](../Page/競馬.md "wikilink")における[種牡馬](../Page/種牡馬.md "wikilink")の指標の一つ。
   - [支配持分](https://ja.wikipedia.org/wiki/支配持分 "wikilink") (Controlling Interest)
   - [太多線](https://ja.wikipedia.org/wiki/太多線 "wikilink")の路線記号。

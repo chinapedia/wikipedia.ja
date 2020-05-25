@@ -1,7 +1,7 @@
 > この記事は[OKAMA](https://ja.wikipedia.org/wiki/OKAMA)から翻訳されています。
 
 
-**OKAMA**（オカマ、男性 [1974年](../Page/1974年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。**okama**と表記されることもある。漫画の他に、[アニメ](../Page/アニメ.md "wikilink")のキャラクターおよび衣装のデザイン、雑誌の表紙イラストなども手掛ける。
+**OKAMA**（オカマ、男性 [1974年](../Page/1974年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。**okama**と表記されることもある。漫画の他に、[アニメ](../Page/アニメ.md "wikilink")のキャラクターおよび衣装のデザイン、雑誌の表紙イラストなども手掛ける。
 
 ## 来歴
 
@@ -15,7 +15,7 @@
 
 ### 一般向け漫画
 
-  - [CLOTH ROAD](https://ja.wikipedia.org/wiki/CLOTH_ROAD "wikilink")（脚本：[倉田英之](../Page/倉田英之.md "wikilink")、『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』連載、全11巻）
+  - [CLOTH ROAD](../Page/CLOTH_ROAD.md "wikilink")（脚本：[倉田英之](../Page/倉田英之.md "wikilink")、『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』連載、全11巻）
   - [CAT'S WORLD](https://ja.wikipedia.org/wiki/CAT'S_WORLD "wikilink")（『[月刊コミックドラゴン](../Page/月刊コミックドラゴン.md "wikilink")』連載、[角川書店](../Page/角川書店.md "wikilink")刊、全2巻）
   - Food Girls（『[マジカルキュート](https://ja.wikipedia.org/wiki/マジカルキュート "wikilink")』連載、全1巻）
   - [TAIL STAR](https://ja.wikipedia.org/wiki/TAIL_STAR "wikilink")（『ウルトラジャンプ』連載、2012-2014年、全4巻）

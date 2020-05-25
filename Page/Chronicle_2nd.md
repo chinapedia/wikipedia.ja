@@ -5,19 +5,19 @@
 
 ## 概要
 
-[Revo](https://ja.wikipedia.org/wiki/Revo "wikilink")がSound Horizonとして初めて制作したアルバム『Chronicle』の再発売を希望する声が集まったため、『Chronicle』の世界観をベースに、新たに楽曲を追加してリニューアルし、ジャケットイラストも[yokoyan](https://ja.wikipedia.org/wiki/yokoyan "wikilink")の手によって新たに描き下ろされた。そのため、本作は「1st Story Renewal CD」と銘打たれている。
+[Revo](../Page/Revo.md "wikilink")がSound Horizonとして初めて制作したアルバム『Chronicle』の再発売を希望する声が集まったため、『Chronicle』の世界観をベースに、新たに楽曲を追加してリニューアルし、ジャケットイラストも[yokoyan](https://ja.wikipedia.org/wiki/yokoyan "wikilink")の手によって新たに描き下ろされた。そのため、本作は「1st Story Renewal CD」と銘打たれている。
 
 Sound Horizonは発売された約7ヵ月後に『[Elysion 〜楽園への前奏曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園への前奏曲〜 "wikilink")』でメジャーデビューしたため、本作が同人時代最後のアルバムとなった。
 
 CD帯にある煽り文は「哀しみの黒い幻想…ここからハジマル…ボクらの戦いの年代記…」。初回購入特典として、2種類のポストカードのうち1種類が付属していた。
 
-『Chronicle』の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")アルバムとなっているが、「詩人バラッドの悲劇」「アーベルジュの戦い」「蒼と白の境界線」「雷神の左腕」「君が生まれてくる世界」以外の楽曲は再録されていない。
+『Chronicle』の[リメイク](../Page/リメイク.md "wikilink")アルバムとなっているが、「詩人バラッドの悲劇」「アーベルジュの戦い」「蒼と白の境界線」「雷神の左腕」「君が生まれてくる世界」以外の楽曲は再録されていない。
 
 ## 収録曲
 
 ### Audio Track
 
-※印が付いている楽曲は[インストゥルメンタルとなっている](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+※印が付いている楽曲は[インストゥルメンタルとなっている](../Page/器楽曲.md "wikilink")。
 
 1.  **黒の予言書**
 2.  **詩人バラッドの悲劇** ※
@@ -75,20 +75,20 @@ CD帯にある煽り文は「哀しみの黒い幻想…ここからハジマル
 
   - 作詞・作曲・編曲
 
-:\* [Revo](https://ja.wikipedia.org/wiki/Revo "wikilink")
+:\* [Revo](../Page/Revo.md "wikilink")
 
   -
 
       -
-        作詞・作曲・編曲のほか、[コンピュータ・プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、[レコーディング](../Page/録音.md "wikilink")、[ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")、[マスタリング](https://ja.wikipedia.org/wiki/マスタリング "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")、[ブズーキ](https://ja.wikipedia.org/wiki/ブズーキ "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、[ナイロン・ギター](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")、[エレクトリック・ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、[ウドゥ](../Page/ドラムセット.md "wikilink")、[ジャンベ](https://ja.wikipedia.org/wiki/ジャンベ "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンブリン "wikilink")、[カスタネット](https://ja.wikipedia.org/wiki/カスタネット "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")なども担当。
+        作詞・作曲・編曲のほか、[コンピュータ・プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")、[レコーディング](../Page/録音.md "wikilink")、[ミキシング](../Page/ミキシング.md "wikilink")、[マスタリング](../Page/マスタリング.md "wikilink")、[マンドリン](../Page/マンドリン.md "wikilink")、[ブズーキ](https://ja.wikipedia.org/wiki/ブズーキ "wikilink")、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")、[ナイロン・ギター](../Page/クラシック・ギター.md "wikilink")、[エレクトリック・ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ウドゥ](../Page/ドラムセット.md "wikilink")、[ジャンベ](../Page/ジャンベ.md "wikilink")、[タンバリン](https://ja.wikipedia.org/wiki/タンブリン "wikilink")、[カスタネット](../Page/カスタネット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")なども担当。
 
   - ボーカル・ボイス
 
-:\* [Aramary](https://ja.wikipedia.org/wiki/あらまり "wikilink")
+:\* [Aramary](../Page/あらまり.md "wikilink")
 
-:\* [Jimang](https://ja.wikipedia.org/wiki/じまんぐ "wikilink")
+:\* [Jimang](../Page/じまんぐ.md "wikilink")
 
-:\* [霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")
+:\* [霜月はるか](../Page/霜月はるか.md "wikilink")
 
 :\* 葉芹
 

@@ -1,7 +1,7 @@
-> この記事は[GO!](https://ja.wikipedia.org/wiki/GO!)から翻訳されています。
+> この記事は[ジェットでGO!ポケット](https://ja.wikipedia.org/wiki/ジェットでGO!ポケット)から翻訳されています。
 
 
-『**ジェットでGO\!ポケット**』とは、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が発売した、[飛行機](../Page/飛行機.md "wikilink")運行の[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。[日本航空](../Page/日本航空.md "wikilink")が制作に協力している。
+『**ジェットでGO\!ポケット**』とは、[2005年](../Page/2005年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が発売した、[飛行機](../Page/飛行機.md "wikilink")運行の[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。[日本航空](../Page/日本航空.md "wikilink")が制作に協力している。
 
 ## ゲーム概要
 
@@ -38,8 +38,8 @@
   - [ボーイング737-400](https://ja.wikipedia.org/wiki/ボーイング737_クラシック "wikilink")
   - [エアバスA300-600R](https://ja.wikipedia.org/wiki/エアバスA300-600R "wikilink")
   - [マクドネル・ダグラス MD-11](../Page/マクドネル・ダグラス_MD-11.md "wikilink")
-  - [ダグラス DC-10-40](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-10 "wikilink")
-  - [ダグラス DC-8](https://ja.wikipedia.org/wiki/ダグラス_DC-8 "wikilink")
+  - [ダグラス DC-10-40](../Page/マクドネル・ダグラス_DC-10.md "wikilink")
+  - [ダグラス DC-8](../Page/ダグラス_DC-8.md "wikilink")
 
 ## 登場空港
 
@@ -52,7 +52,7 @@
   - [福岡空港](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")
   - [那覇空港](../Page/那覇空港.md "wikilink")
 
-前作で登場した[名古屋空港（現・名古屋飛行場）は](../Page/名古屋飛行場.md "wikilink")[中部国際空港](../Page/中部国際空港.md "wikilink")の開港により[ジェイエア](https://ja.wikipedia.org/wiki/ジェイエア "wikilink")を除くJALグループ定期路線の全てが新空港に移ったため、登場しない。また、ジェイエアの機材や中部国際空港自体も登場しない。
+前作で登場した[名古屋空港（現・名古屋飛行場）は](../Page/名古屋飛行場.md "wikilink")[中部国際空港](../Page/中部国際空港.md "wikilink")の開港により[ジェイエア](../Page/ジェイエア.md "wikilink")を除くJALグループ定期路線の全てが新空港に移ったため、登場しない。また、ジェイエアの機材や中部国際空港自体も登場しない。
 
 空港施設は発売された2005年当時のもので、関西国際空港のB滑走路や羽田空港のD滑走路は再現されていない。
 

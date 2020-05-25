@@ -10,9 +10,9 @@
 <!-- end list -->
 
   - [眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")
-  - [Mie](https://ja.wikipedia.org/wiki/Mie "wikilink")
+  - [Mie](../Page/Mie.md "wikilink")
   - [優木まおみ](https://ja.wikipedia.org/wiki/優木まおみ "wikilink")（第5回・第8回放送分を除き出演）
-  - [松原渓](https://ja.wikipedia.org/wiki/松原渓 "wikilink")（第5回・第8回放送で出演）
+  - [松原渓](../Page/松原渓.md "wikilink")（第5回・第8回放送で出演）
 
 <!-- end list -->
 
@@ -126,8 +126,8 @@ MCは正座で番組を進行するスタイルをとっている。
   - タイトル：谷本篤史
   - EED：石井謙作、尾形義浩、関原忍（毎週）、岩田久奈（最終回のみ）
   - MA：小林ケント、兒子仁、田村佑資（最終回のみ）
-  - 音効：[Thee BLUEBEAT](https://ja.wikipedia.org/wiki/Thee_BLUEBEAT "wikilink")
-  - 技術協力：[ニューテレス](https://ja.wikipedia.org/wiki/ニユーテレス "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[ヌーベルバーグ](https://ja.wikipedia.org/wiki/ヌーベルバーグ_ポスプロ事業部 "wikilink")
+  - 音効：[Thee BLUEBEAT](../Page/Thee_BLUEBEAT.md "wikilink")
+  - 技術協力：[ニューテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[ヌーベルバーグ](https://ja.wikipedia.org/wiki/ヌーベルバーグ_ポスプロ事業部 "wikilink")
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
   - TK：矢島由紀子
   - 広報：名須川京子（フジテレビ）

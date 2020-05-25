@@ -3,13 +3,13 @@
 
 **UFC 83: Serra vs. St-Pierre 2**（ユーエフシー・エイティスリー：セラ・バーサス・サンピエール・ツー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")[モントリオール](../Page/モントリオール.md "wikilink")の[ベル・センター](../Page/ベル・センター.md "wikilink")で開催された。
 
-本大会はUFC初のカナダ大会であり、[UFC 79で流れたUFC世界ウェルター級王者](../Page/UFC_79.md "wikilink")[マット・セラ](../Page/マット・セラ.md "wikilink")と同級暫定王者[ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink")による世界ウェルター級王座統一戦を兼ねた再戦\[1\]が行われた。
+本大会はUFC初のカナダ大会であり、[UFC 79で流れたUFC世界ウェルター級王者](../Page/UFC_79.md "wikilink")[マット・セラ](../Page/マット・セラ.md "wikilink")と同級暫定王者[ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink")による世界ウェルター級王座統一戦を兼ねた再戦\[1\]が行われた。
 
 ## 大会概要
 
-当初、[UFC 84がこの日の大会として予定されていたが](https://ja.wikipedia.org/wiki/UFC_84 "wikilink")、3月8日の英国大会中止に伴い、4月19日大会が改めてUFC 83と改称された。
+当初、[UFC 84がこの日の大会として予定されていたが](../Page/UFC_84.md "wikilink")、3月8日の英国大会中止に伴い、4月19日大会が改めてUFC 83と改称された。
 
-[アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink")との対戦が予定されていた[パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink")は膝の怪我により欠場し\[2\]、代わって[ジェイソン・デイが出場した](https://ja.wikipedia.org/wiki/ジェイソン・デイ_\(総合格闘家\) "wikilink")。
+[アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink")との対戦が予定されていた[パトリック・コーテ](../Page/パトリック・コーテ.md "wikilink")は膝の怪我により欠場し\[2\]、代わって[ジェイソン・デイが出場した](../Page/ジェイソン・デイ_\(総合格闘家\).md "wikilink")。
 
 メインイベントではウェルター級暫定王者ジョルジュ・サンピエールが王者マット・セラにボディへの膝蹴りでTKO勝利を挙げ、両王座を統一して第8代UFC世界ウェルター級王者となった。
 
@@ -24,15 +24,15 @@
     2R 2:07 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第2試合 ヘビー級 5分3R
     ○  [ケイン・ヴェラスケス](https://ja.wikipedia.org/wiki/ケイン・ヴェラスケス "wikilink") vs.  ブラッド・モリス ×
-    1R 2:10 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 2:10 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 ライト級 5分3R
     ○  [リッチ・クレメンティ](../Page/リッチ・クレメンティ.md "wikilink") vs.  [サム・スタウト](https://ja.wikipedia.org/wiki/サム・スタウト "wikilink") ×
     3R終了 判定2-1（29-27、29-28、28-29）
   - 第4試合 ミドル級 5分3R
-    ○  [デミアン・マイア](../Page/デミアン・マイア.md "wikilink") vs.  [エド・ハーマン](https://ja.wikipedia.org/wiki/エド・ハーマン "wikilink") ×
-    2R 2:27 TKO（レフェリーストップ：[三角絞め](https://ja.wikipedia.org/wiki/三角絞め "wikilink")）
+    ○  [デミアン・マイア](../Page/デミアン・マイア.md "wikilink") vs.  [エド・ハーマン](../Page/エド・ハーマン.md "wikilink") ×
+    2R 2:27 TKO（レフェリーストップ：[三角絞め](../Page/三角絞め.md "wikilink")）
   - 第5試合 ミドル級 5分3R
-    ○  [ジェイソン・デイ](https://ja.wikipedia.org/wiki/ジェイソン・デイ_\(総合格闘家\) "wikilink") vs.  [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink") ×
+    ○  [ジェイソン・デイ](../Page/ジェイソン・デイ_\(総合格闘家\).md "wikilink") vs.  [アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink") ×
     1R 3:58 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第6試合 ミドル級 5分3R
     ○  [ジェイソン・マクドナルド](../Page/ジェイソン・マクドナルド.md "wikilink") vs.  [ジョー・ドークセン](../Page/ジョー・ドークセン.md "wikilink") ×
@@ -41,8 +41,8 @@
 ### メインカード
 
   - 第7試合 ライト級 5分3R
-    ○  [マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink") vs.  [マーク・ボーチェック](https://ja.wikipedia.org/wiki/マーク・ボーチェック "wikilink") ×
-    3R 3:48 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [マック・ダンジグ](../Page/マック・ダンジグ.md "wikilink") vs.  [マーク・ボーチェック](https://ja.wikipedia.org/wiki/マーク・ボーチェック "wikilink") ×
+    3R 3:48 [チョークスリーパー](../Page/裸絞.md "wikilink")
   - 第8試合 ミドル級 5分3R
     ○  [マイケル・ビスピン](../Page/マイケル・ビスピン.md "wikilink") vs.  チャールズ・マッカーシー ×
     1R終了時 TKO（レフェリーストップ：腕の負傷）
@@ -50,10 +50,10 @@
     ○  [ネイサン・クォーリー](https://ja.wikipedia.org/wiki/ネイサン・クォーリー "wikilink") vs.  [カリブ・スターンズ](../Page/カリブ・スターンズ.md "wikilink") ×
     3R終了 判定3-0（30-26、30-27、30-24）
   - 第10試合 ミドル級 5分3R
-    ○  [リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink") vs.  [トラヴィス・ルター](https://ja.wikipedia.org/wiki/トラヴィス・ルター "wikilink") ×
-    2R 3:01 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [リッチ・フランクリン](../Page/リッチ・フランクリン.md "wikilink") vs.  [トラヴィス・ルター](../Page/トラヴィス・ルター.md "wikilink") ×
+    2R 3:01 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第11試合 UFC世界ウェルター級王座統一戦 5分5R
-    ○  [ジョルジュ・サンピエール](https://ja.wikipedia.org/wiki/ジョルジュ・サンピエール "wikilink") vs.  [マット・セラ](../Page/マット・セラ.md "wikilink") ×
+    ○  [ジョルジュ・サンピエール](../Page/ジョルジュ・サンピエール.md "wikilink") vs.  [マット・セラ](../Page/マット・セラ.md "wikilink") ×
     2R 4:45 TKO（レフェリーストップ：ボディへの膝蹴り）
     ※サンピエールが王座獲得に成功。
 
@@ -70,7 +70,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

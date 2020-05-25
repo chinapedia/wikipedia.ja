@@ -1,7 +1,7 @@
-> この記事は[only one](https://ja.wikipedia.org/wiki/only_one)から翻訳されています。
+> この記事は[深愛〜only one〜](https://ja.wikipedia.org/wiki/深愛〜only_one〜)から翻訳されています。
 
 
-『**深愛〜only one〜**』（しんあい オンリー・ワン）は、日本の男性歌手、[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")の2枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")にリリースされた。
+『**深愛〜only one〜**』（しんあい オンリー・ワン）は、日本の男性歌手、[河村隆一](../Page/河村隆一.md "wikilink")の2枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")にリリースされた。
 
 [2013年](../Page/2013年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に[SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")の再発盤が発売された（13曲目が通常盤仕様の「憂鬱 (inst)」となっている）。
 
@@ -13,7 +13,7 @@
 
   -
     ○：[シングル](../Page/シングル.md "wikilink")楽曲
-    ◎：他アーティストに提供した楽曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")
+    ◎：他アーティストに提供した楽曲の[セルフカバー](../Page/セルフカバー.md "wikilink")
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@
       - [工藤静香](../Page/工藤静香.md "wikilink")への提供曲
 3.  **Tomorrow** ◎
       - 作詞・作曲：ЯK、編曲：[土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")
-      - [メモリーキャッツ](https://ja.wikipedia.org/wiki/メモリーキャッツ "wikilink")への提供曲
+      - [メモリーキャッツ](../Page/メモリーキャッツ.md "wikilink")への提供曲
 4.  **forget about you**
       - 作詞・作曲：ЯK、編曲：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
 5.  **[君の前でピアノを弾こう](../Page/君の前でピアノを弾こう.md "wikilink")** ○
@@ -40,7 +40,7 @@
     \*作詞・作曲：ЯK、編曲：澤近泰輔・ЯK
       - 工藤静香への提供曲
 10. **[静かな夜は二人でいよう](../Page/静かな夜は二人でいよう.md "wikilink")** ○
-      - 作詞・作曲：ЯK、編曲：[大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")・\[K\]assyi・ЯK
+      - 作詞・作曲：ЯK、編曲：[大島ミチル](../Page/大島ミチル.md "wikilink")・\[K\]assyi・ЯK
 11. **[恋をしようよ](../Page/恋をしようよ_\(河村隆一の曲\).md "wikilink")** ○
       - 作詞・作曲：ЯK、編曲：土方隆行
 12. **きよしこの夜**◎
@@ -52,6 +52,6 @@
       - 作詞・作曲：ЯK、編曲：土方隆行・\[K\]assyi・北川悠仁
 15. **深愛〜only one〜** ◎
       - 作詞・作曲：ЯK、編曲：土方隆行
-      - [Say a Little Prayerへの提供曲](https://ja.wikipedia.org/wiki/Say_a_Little_Prayer "wikilink")（タイトルは「深愛」）
+      - [Say a Little Prayerへの提供曲](../Page/Say_a_Little_Prayer.md "wikilink")（タイトルは「深愛」）
 
 [Category:河村隆一のアルバム](https://ja.wikipedia.org/wiki/Category:河村隆一のアルバム "wikilink") [Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink") [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink")

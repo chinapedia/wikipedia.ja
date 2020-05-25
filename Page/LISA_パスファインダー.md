@@ -1,9 +1,9 @@
-> この記事は[LISA ](https://ja.wikipedia.org/wiki/LISA_)から翻訳されています。
+> この記事は[LISA パスファインダー](https://ja.wikipedia.org/wiki/LISA_パスファインダー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/file:LISA-Pathfinder-Colloid-Micro-Newton-Thruster.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/file:LISA-Pathfinder-cutaway-view-with-and-without-solar-array.png "wikilink")
 
-**LISA パスファインダー**（別名**SMART-2**）は、2015年12月3日04:04 UTC\[1\]に[ヴェガロケット](../Page/ヴェガロケット.md "wikilink")で[リサジュー軌道](https://ja.wikipedia.org/wiki/リサジュー軌道 "wikilink")に打ち上げられた[宇宙探査機](https://ja.wikipedia.org/wiki/宇宙探査機 "wikilink")で、[ESA](https://ja.wikipedia.org/wiki/ESA "wikilink")と[NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")によって共同開発された。
+**LISA パスファインダー**（別名**SMART-2**）は、2015年12月3日04:04 UTC\[1\]に[ヴェガロケット](../Page/ヴェガロケット.md "wikilink")で[リサジュー軌道](https://ja.wikipedia.org/wiki/リサジュー軌道 "wikilink")に打ち上げられた[宇宙探査機](../Page/宇宙探査機.md "wikilink")で、[ESA](https://ja.wikipedia.org/wiki/ESA "wikilink")と[NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")によって共同開発された。
 
 *SMART*とは**S**mall **M**issions for **A**dvanced **R**esearch in **T**echnology、つまり小型先進技術試験機を意味する。 LISAパスファインダーは[宇宙重力波望遠鏡](../Page/宇宙重力波望遠鏡.md "wikilink") LISA(Laser Interferometer Space Antenna)の実現に必要な技術を実証する事が目的でNASAとESAが共同開発した[重力波検出器が搭載される](../Page/重力波_\(相対論\).md "wikilink")。LISAの干渉計の長さは500万kmから35cmまで変えられる。
 
@@ -14,9 +14,9 @@ LISA試験機はアストリウムドイツで組み立てられている。
 ## 関連項目
 
   - [宇宙重力波望遠鏡](../Page/宇宙重力波望遠鏡.md "wikilink")
-  - [重力波天文学](https://ja.wikipedia.org/wiki/重力波天文学 "wikilink")
+  - [重力波天文学](../Page/重力波天文学.md "wikilink")
   - [重力波 (相対論)](../Page/重力波_\(相対論\).md "wikilink")
-  - [ビッグバンオブザーバー](https://ja.wikipedia.org/wiki/ビッグバンオブザーバー "wikilink")　LISAの後継機
+  - [ビッグバンオブザーバー](../Page/ビッグバンオブザーバー.md "wikilink")　LISAの後継機
 
 ## 参考文献
 

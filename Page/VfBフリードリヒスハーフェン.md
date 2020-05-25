@@ -1,13 +1,13 @@
-> この記事は[VfB](https://ja.wikipedia.org/wiki/VfB)から翻訳されています。
+> この記事は[VfBフリードリヒスハーフェン](https://ja.wikipedia.org/wiki/VfBフリードリヒスハーフェン)から翻訳されています。
 
 
-**VfBフリードリヒスハーフェン**（VfB Friedrichshafen）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[フリードリヒスハーフェン](https://ja.wikipedia.org/wiki/フリードリヒスハーフェン "wikilink")を本拠地とする男子[バレーボール](https://ja.wikipedia.org/wiki/バレーボール "wikilink")クラブ。
+**VfBフリードリヒスハーフェン**（VfB Friedrichshafen）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[フリードリヒスハーフェン](../Page/フリードリヒスハーフェン.md "wikilink")を本拠地とする男子[バレーボール](../Page/バレーボール.md "wikilink")クラブ。
 
 ## 歴史
 
 [1909年](../Page/1909年.md "wikilink")創設のVfBフリードリヒスハーフェンは、サッカー、バドミントン、卓球などの部門を抱える総合スポーツクラブで、バレーボール部門は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に創設された。1998年にリーグ初優勝とカップ初優勝を飾り、2002年にかけてリーグ5連覇、2001年から2008年にかけてカップ8連覇を達成した\[1\]。
 
-[欧州チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")1999-2000年に準優勝。2006-2007年にはフランスの[トゥールVB](https://ja.wikipedia.org/wiki/トゥールVB "wikilink")を破って初優勝を飾り、1964年大会の東ドイツのSCライプツィヒの優勝以来、43年ぶりにドイツにチャンピオンズリーグのタイトルをもたらした\[2\]。
+[欧州チャンピオンズリーグでは](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")1999-2000年に準優勝。2006-2007年にはフランスの[トゥールVB](../Page/トゥールVB.md "wikilink")を破って初優勝を飾り、1964年大会の東ドイツのSCライプツィヒの優勝以来、43年ぶりにドイツにチャンピオンズリーグのタイトルをもたらした\[2\]。
 
 2010年5月、プレーオフ・ファイナルの第4戦で[TSVウンターハヒンク](https://ja.wikipedia.org/wiki/TSVウンターハヒンク "wikilink")をフルセットの末に降して3勝1敗とし、6年連続11回目のリーグ優勝を飾った\[3\]。
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - メインカラーのホワイトとブラック。シャツネームと背番号はブラック。
-  - フロント下部にメインスポンサーの[ZF社のロゴマークが入る](https://ja.wikipedia.org/wiki/ZFフリードリヒスハーフェン "wikilink")。
+  - フロント下部にメインスポンサーの[ZF社のロゴマークが入る](../Page/ZFフリードリヒスハーフェン.md "wikilink")。
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")
+  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")
 
 <!-- end list -->
 

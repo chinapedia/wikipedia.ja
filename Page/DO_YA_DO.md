@@ -5,31 +5,31 @@
 
 ## 解説
 
-アルバム『[SEE YA](https://ja.wikipedia.org/wiki/SEE_YA "wikilink")』からの先行シングル。
+アルバム『[SEE YA](../Page/SEE_YA.md "wikilink")』からの先行シングル。
 
 このシングルからアーティスト名の表記が"**CHAGE\&ASKA**"に変更された。
 
 ## チャート成績
 
-[オリコン週間ランキングでは最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位にランクインし、CHAGE\&ASKAとしては1980年に発売された「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」以来およそ10年ぶりとなるシングルチャート・トップ10入りとなった。
+[オリコン週間ランキングでは最高](../Page/オリコンチャート.md "wikilink")10位にランクインし、CHAGE\&ASKAとしては1980年に発売された「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」以来およそ10年ぶりとなるシングルチャート・トップ10入りとなった。
 
 ## 収録曲
 
 1.  **DO YA DO**
     （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：飛鳥涼・Jess Bailey）
       -
-        [TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[スプリンターカリブ](https://ja.wikipedia.org/wiki/トヨタ・スプリンターカリブ "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。また、[SUBARU](../Page/SUBARU_\(自動車\).md "wikilink")「[VIVIO](../Page/スバル・ヴィヴィオ.md "wikilink")」CMソング（1995年使用）。
+        [TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[スプリンターカリブ](../Page/トヨタ・スプリンターカリブ.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")。また、[SUBARU](../Page/SUBARU_\(自動車\).md "wikilink")「[VIVIO](../Page/スバル・ヴィヴィオ.md "wikilink")」CMソング（1995年使用）。
         "DO YA DO" とは[英語](../Page/英語.md "wikilink")の[スラング](../Page/スラング.md "wikilink")で「Do you do?（=どうするつもり?）」という意味がある。デモ・テープの段階で、[メロディ](../Page/メロディ.md "wikilink")を仮歌として[スキャット](../Page/スキャット.md "wikilink")したものが偶然にも意味のある言葉であった。ASKAはイギリス人のミキシング・エンジニアから「なぜ英語のスラングを知っているのか?」と聞かれて気づいたという。スキャットの言葉の意味と歌詞の内容の意味が同じであったことから「DO YA DO」というタイトルが付けられた\[1\]。
-        2010年に発売されたアルバム『[12](https://ja.wikipedia.org/wiki/12_\(ASKAのアルバム\) "wikilink")』でASKAが[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")している。
+        2010年に発売されたアルバム『[12](https://ja.wikipedia.org/wiki/12_\(ASKAのアルバム\) "wikilink")』でASKAが[セルフカバー](../Page/セルフカバー.md "wikilink")している。
 2.  **YELLOW MEN**
-    （作詞：[澤地隆](https://ja.wikipedia.org/wiki/澤地隆 "wikilink")　作曲：[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")　編曲：[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")）
+    （作詞：[澤地隆](https://ja.wikipedia.org/wiki/澤地隆 "wikilink")　作曲：[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")　編曲：[村上啓介](../Page/村上啓介.md "wikilink")）
       -
         一つのコードがマイナーとメジャーに変わりながら展開していく曲であり、CHAGEによると、1コードでどこまで引っ張れるかにこだわったという\[2\]。
 
 ## 収録アルバム
 
-  - [SEE YA](https://ja.wikipedia.org/wiki/SEE_YA "wikilink") (\#1,\#2)
-  - [SUPER BEST II](https://ja.wikipedia.org/wiki/SUPER_BEST_II "wikilink") (\#1)
+  - [SEE YA](../Page/SEE_YA.md "wikilink") (\#1,\#2)
+  - [SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink") (\#1)
   - [SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail](https://ja.wikipedia.org/wiki/SUPER_BEST_BOX_SINGLE_HISTORY_1979-1994_AND_Snow_Mail "wikilink") (\#1)
   - [CHAGE\&ASKA VERY BEST ROLL OVER 20TH](https://ja.wikipedia.org/wiki/CHAGE&ASKA_VERY_BEST_ROLL_OVER_20TH "wikilink") (\#1)
 

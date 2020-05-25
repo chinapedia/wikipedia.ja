@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[釜石テレビ・FM中継局](https://ja.wikipedia.org/wiki/釜石テレビ・FM中継局)から翻訳されています。
 
 
 **釜石テレビ・FM中継局**（かまいしテレビ・エフエムちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[釜石市](../Page/釜石市.md "wikilink")及び[気仙郡](../Page/気仙郡.md "wikilink")[住田町](../Page/住田町.md "wikilink")に置かれているテレビ放送とFMラジオ放送の中継局。ここでは、釜石デジタルテレビ中継局と同所に置かれている**釜石鈴子テレビ・FM中継局**、臨時災害放送局の**釜石災害FM**についても記載する。
@@ -78,7 +78,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>IBC<br />
-<a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td><p>20</p></td>
 <td></td>
 <td></td>
@@ -428,7 +428,7 @@
   - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")
   - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")
   - [エフエム岩手](../Page/エフエム岩手.md "wikilink")
 

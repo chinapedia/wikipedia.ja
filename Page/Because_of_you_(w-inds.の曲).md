@@ -12,7 +12,7 @@
   - シングル曲として、Rapパート初導入され、[緒方龍一](../Page/緒方龍一.md "wikilink")が担当している。([千葉涼平](../Page/千葉涼平.md "wikilink")のみソロパートがない）。[橘慶太](../Page/橘慶太.md "wikilink")以外のメンバーにソロパートが与えられているのはこれが初である。サビでは橘と千葉の2人が歌唱しており、サビを全員で歌唱しない曲はこれが初である。
   - カップリング曲「close to you」は、外国人作家による初提供作品。
   - [第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")金賞受賞曲。
-  - 2002年9月2日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2002年9月2日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ### 初回特典
 

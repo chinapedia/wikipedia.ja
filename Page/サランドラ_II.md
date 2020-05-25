@@ -1,11 +1,11 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[サランドラ II](https://ja.wikipedia.org/wiki/サランドラ_II)から翻訳されています。
 
 
 『**サランドラ II**』（*The Hills Have Eyes Part II*）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")合作で製作された[ホラー映画](../Page/ホラー映画.md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では劇場未公開でビデオ・DVDのリリースのみ。
 
 ## 概要
 
-前作『[サランドラ](../Page/サランドラ_\(映画\).md "wikilink")』からの直接的な続編にして完結編。監督・脚本は引き続き[ウェス・クレイヴン](https://ja.wikipedia.org/wiki/ウェス・クレイヴン "wikilink")だが、音楽に『[13日の金曜日](https://ja.wikipedia.org/wiki/13日の金曜日_\(映画\) "wikilink")』シリーズで有名な[ハリー・マンフレディーニ](https://ja.wikipedia.org/wiki/ハリー・マンフレディーニ "wikilink")を招いている。
+前作『[サランドラ](../Page/サランドラ_\(映画\).md "wikilink")』からの直接的な続編にして完結編。監督・脚本は引き続き[ウェス・クレイヴン](../Page/ウェス・クレイヴン.md "wikilink")だが、音楽に『[13日の金曜日](../Page/13日の金曜日_\(映画\).md "wikilink")』シリーズで有名な[ハリー・マンフレディーニ](https://ja.wikipedia.org/wiki/ハリー・マンフレディーニ "wikilink")を招いている。
 
 ## ストーリー
 
@@ -27,7 +27,7 @@
 
 ## DVD
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。レンタル版もあり。
+[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。レンタル版もあり。
 
   - サランドラ II
   - サランドラ 初回限定ツインパック（『サランドラ』と『サランドラ II』のセット）
@@ -35,8 +35,8 @@
 ## 関連項目
 
   - [サランドラ (映画)](../Page/サランドラ_\(映画\).md "wikilink") （前作）
-  - [ヒルズ・ハブ・アイズ](https://ja.wikipedia.org/wiki/ヒルズ・ハブ・アイズ "wikilink")（リメイク）
-  - [ヒルズ・ハブ・アイズ2](https://ja.wikipedia.org/wiki/ヒルズ・ハブ・アイズ2 "wikilink")（リメイク版の続編）
+  - [ヒルズ・ハブ・アイズ](../Page/ヒルズ・ハブ・アイズ.md "wikilink")（リメイク）
+  - [ヒルズ・ハブ・アイズ2](../Page/ヒルズ・ハブ・アイズ2.md "wikilink")（リメイク版の続編）
 
 ## 外部リンク
 

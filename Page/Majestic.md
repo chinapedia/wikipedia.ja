@@ -41,6 +41,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-3609/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-3609)
 
 [Category:プリンセス_プリンセスのアルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")

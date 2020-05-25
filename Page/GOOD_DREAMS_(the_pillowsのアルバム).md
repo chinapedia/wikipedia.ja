@@ -1,15 +1,15 @@
-> この記事は[GOOD DREAMS \(the pillows\)](https://ja.wikipedia.org/wiki/GOOD_DREAMS_\(the_pillows\))から翻訳されています。
+> この記事は[GOOD DREAMS \(the pillowsのアルバム\)](https://ja.wikipedia.org/wiki/GOOD_DREAMS_\(the_pillowsのアルバム\))から翻訳されています。
 
 
 「**GOOD DREAMS**」（グッド・ドリームス）は[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")12枚目のアルバム。
 
 ## 概要
 
-タイトル曲の「GOOD DREAMS」は、以前the pillowsが[ルースターズ](https://ja.wikipedia.org/wiki/ルースターズ "wikilink")のトリビュート・アルバムに参加した際にカバーした曲と同名である。それについて[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")は「自分たちがルースターズのファンで、カバーもしているからこそ確信犯的にOKかなと思った」と語っている\[1\]。
+タイトル曲の「GOOD DREAMS」は、以前the pillowsが[ルースターズ](../Page/ルースターズ.md "wikilink")のトリビュート・アルバムに参加した際にカバーした曲と同名である。それについて[山中さわお](../Page/山中さわお.md "wikilink")は「自分たちがルースターズのファンで、カバーもしているからこそ確信犯的にOKかなと思った」と語っている\[1\]。
 
 「天使みたいにキミは立っていた」は、1994年からメロディーのみが既に完成されていた。通称第二期に製作された[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")テイストの楽曲であり、第三期に過渡する際にお蔵入りとなっていた。このアルバムに収録されているのは、ロックとして再び編曲しなおし録音されたものである\[2\]。
 
-アルバムのジャケットデザインは、シングル「その未来は今」と同様に[TOMOVSKY](https://ja.wikipedia.org/wiki/TOMOVSKY "wikilink")が担当している。
+アルバムのジャケットデザインは、シングル「その未来は今」と同様に[TOMOVSKY](../Page/TOMOVSKY.md "wikilink")が担当している。
 
 ## 収録曲
 

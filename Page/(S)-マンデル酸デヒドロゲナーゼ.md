@@ -1,4 +1,4 @@
-> この記事は[\(S\)-](https://ja.wikipedia.org/wiki/\(S\)-)から翻訳されています。
+> この記事は[\(S\)-マンデル酸デヒドロゲナーゼ](https://ja.wikipedia.org/wiki/\(S\)-マンデル酸デヒドロゲナーゼ)から翻訳されています。
 
 
 *'(*S'')-マンデル酸デヒドロゲナーゼ *'（(*S'')-mandelate dehydrogenase, **MDH**）は、[EC番号](https://ja.wikipedia.org/wiki/EC番号 "wikilink")1.1.99.31の酵素で、次の[化学反応](https://ja.wikipedia.org/wiki/化学反応 "wikilink")を[触媒](../Page/触媒.md "wikilink")する。

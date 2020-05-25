@@ -1,7 +1,7 @@
 > この記事は[International Protection](https://ja.wikipedia.org/wiki/International_Protection)から翻訳されています。
 
 
-**International Protection** (**インターナショナル・プロテクション**) とは、[IECの規格IEC](https://ja.wikipedia.org/wiki/国際電気標準会議 "wikilink")60529 (Degrees of protection provided by enclosures) において規定されている、機械・器具等を対象とした、人体に対する接近の保護と、外来固形物や液体の侵入保護構造を等級で表すものである。俗にIP Code と呼ばれ、[日本工業規格](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")(JIS C 0920)もこの規格を採用している。
+**International Protection** (**インターナショナル・プロテクション**) とは、[IECの規格IEC](../Page/国際電気標準会議.md "wikilink")60529 (Degrees of protection provided by enclosures) において規定されている、機械・器具等を対象とした、人体に対する接近の保護と、外来固形物や液体の侵入保護構造を等級で表すものである。俗にIP Code と呼ばれ、[日本工業規格](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")(JIS C 0920)もこの規格を採用している。
 
 等級の表示は、IPの文字の後に、第一特性数字、第二特性数字、付加特性文字(オプション)の各1文字で標記される。
 
@@ -507,6 +507,6 @@ D
 
 ## 関連項目
 
-  - [電気機械器具の外郭による保護等級](https://ja.wikipedia.org/wiki/電気機械器具の外郭による保護等級 "wikilink")
+  - [電気機械器具の外郭による保護等級](../Page/電気機械器具の外郭による保護等級.md "wikilink")
 
 [Category:IEC標準](https://ja.wikipedia.org/wiki/Category:IEC標準 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[DX](https://ja.wikipedia.org/wiki/DX)から翻訳されています。
+> この記事は[コナミネットDX](https://ja.wikipedia.org/wiki/コナミネットDX)から翻訳されています。
 
 
 **コナミネットDX**は、かつて[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")（コナミ）が運営していた[携帯電話](../Page/携帯電話.md "wikilink")用[サイト](../Page/ウェブサイト.md "wikilink")。コナミ製のゲームの[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")版や[着メロなど各種](../Page/着信メロディ.md "wikilink")[コンテンツ](../Page/コンテンツ.md "wikilink")の配信を行っていたほか、[e-AMUSEMENT](https://ja.wikipedia.org/wiki/e-AMUSEMENT "wikilink")に対応している情報の閲覧などができた。[2016年](../Page/2016年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")をもってサービス終了。

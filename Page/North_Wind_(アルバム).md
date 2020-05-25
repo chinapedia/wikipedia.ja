@@ -1,24 +1,24 @@
-> この記事は[North Wind \(\)](https://ja.wikipedia.org/wiki/North_Wind_\(\))から翻訳されています。
+> この記事は[North Wind \(アルバム\)](https://ja.wikipedia.org/wiki/North_Wind_\(アルバム\))から翻訳されています。
 
 
-『**North Wind**』（ノース・ウィンド）は、[松田聖子](../Page/松田聖子.md "wikilink")通算2枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1980年12月1日発売。発売元は[CBS・ソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")/[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")レーベル）。
+『**North Wind**』（ノース・ウィンド）は、[松田聖子](../Page/松田聖子.md "wikilink")通算2枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1980年12月1日発売。発売元は[CBS・ソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")/[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")レーベル）。
 
 ## 解説
 
   - 帯コピー：**あの日あのとき刻みたい、聖子。**
   - 先行シングル「[風は秋色/Eighteen](https://ja.wikipedia.org/wiki/風は秋色/Eighteen "wikilink")」（両A面）を含む。
-  - シングルに続き、アルバムでも初めて[オリコン週間チャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。
+  - シングルに続き、アルバムでも初めて[オリコン週間チャートで](../Page/オリコンチャート.md "wikilink")1位を獲得した。
   - タイトルが表すように、秋から冬への移ろいをイメージさせる楽曲が並んでいる。カセットテープは初回生産分のみ特殊パッケージ仕様で発売された。
   - 2015年8月28日、待望のSACD化（ハイブリッド盤）。企画、販売は株式会社ステレオサウンド。「松田聖子SACD化プロジェクト」第4弾としてアルバム「Silhouette」と同時発売された。オリジナル2トラックミックスダウンマスターに遡ってDSDマスタリングされている。この企画のスーパーバイザーである嶋護（しま・もり）氏は解説書の中で、「デビューからまだ半年の松田聖子の声は、無垢な輝きを少しも臆することなく放射していた。『North Wind』SACDは、その輝かしい声が文字通り縦横に展開したスペクタクルの一部始終を、ひりひりするような剥き出しのままに再現するだろう」とSACDの絶大な威力を記している。
 
 ## 収録曲
 
-  - 全作詞：[三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")／作曲：[小田裕一郎](https://ja.wikipedia.org/wiki/小田裕一郎 "wikilink")（特記以外）
+  - 全作詞：[三浦徳子](../Page/三浦徳子.md "wikilink")／作曲：[小田裕一郎](../Page/小田裕一郎.md "wikilink")（特記以外）
 
 ### Side A
 
 1.  **白い恋人**　（3:31）
-      - 編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  **花時計咲いた**　（5:21）
       - 編曲：[信田かずお](https://ja.wikipedia.org/wiki/信田かずお "wikilink")
 3.  **North Wind**　（3:52）
@@ -37,13 +37,13 @@
         カウントダウン・ライブでは、新年の幕開け1曲目に歌われることが多い。
         [Another Side of Seiko 27の投票では第](../Page/Another_Side_of_Seiko_27.md "wikilink")8位にランクインした。
 2.  **スプーン一杯の朝**　（3:40）
-      - 編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 3.  **[Eighteen](https://ja.wikipedia.org/wiki/風は秋色/Eighteen "wikilink")**　（3:18）
       - 作曲：[平尾昌晃](../Page/平尾昌晃.md "wikilink")／編曲：信田かずお
 4.  **ウィンター・ガーデン**　（3:56）
-      - 編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 5.  **しなやかな夜**　（4:43）
-      - 編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 
 ## 発売形態
 
@@ -142,35 +142,35 @@
 ## リリース作品
 
   - **白い恋人**
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
       - [Premium Diamond Bible](https://ja.wikipedia.org/wiki/Premium_Diamond_Bible "wikilink")
       - [SEIKO MEMORIES 〜Masaaki Omura Works〜](https://ja.wikipedia.org/wiki/SEIKO_MEMORIES_〜Masaaki_Omura_Works〜 "wikilink")
   - **花時計咲いた**
       - [聖子・fragrance](../Page/聖子・fragrance.md "wikilink")
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
   - **North Wind**
-      - [Seiko Box](https://ja.wikipedia.org/wiki/Seiko_Box "wikilink")
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [Seiko Box](../Page/Seiko_Box.md "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
   - **冬のアルバム**
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
   - **風は秋色**
       - [風は秋色/Eighteen\#関連作品](https://ja.wikipedia.org/wiki/風は秋色/Eighteen#関連作品 "wikilink")を参照されたい
   - **Only My Love**
       - [聖子・fragrance](../Page/聖子・fragrance.md "wikilink")
-      - [Seiko Box](https://ja.wikipedia.org/wiki/Seiko_Box "wikilink")
+      - [Seiko Box](../Page/Seiko_Box.md "wikilink")
       - [Bible](../Page/Bible_\(アルバム\).md "wikilink")
       - [Seiko Celebration](https://ja.wikipedia.org/wiki/Seiko_Celebration "wikilink")
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
       - [Another side of Seiko 27（14）](../Page/Another_Side_of_Seiko_27.md "wikilink")
       - [Premium Diamond Bible](https://ja.wikipedia.org/wiki/Premium_Diamond_Bible "wikilink")
       - [Diamond Bible](https://ja.wikipedia.org/wiki/Diamond_Bible "wikilink")
       - [SEIKO STORY〜80's HITS COLLECTION〜](https://ja.wikipedia.org/wiki/SEIKO_STORY〜80's_HITS_COLLECTION〜 "wikilink")
   - **スプーン一杯の朝**　
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
   - **Eighteen**
       - [風は秋色/Eighteen\#関連作品](https://ja.wikipedia.org/wiki/風は秋色/Eighteen#関連作品 "wikilink")を参照されたい
   - **ウィンター・ガーデン**
-      - [SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")
+      - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
       - [Seiko Matsuda Christmas Songs](https://ja.wikipedia.org/wiki/Seiko_Matsuda_Christmas_Songs "wikilink")
       - [SEIKO MEMORIES 〜Masaaki Omura Works〜](https://ja.wikipedia.org/wiki/SEIKO_MEMORIES_〜Masaaki_Omura_Works〜 "wikilink")
   - **しなやかな夜**

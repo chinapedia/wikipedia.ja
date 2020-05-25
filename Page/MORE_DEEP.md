@@ -1,14 +1,14 @@
 > この記事は[MORE DEEP](https://ja.wikipedia.org/wiki/MORE_DEEP)から翻訳されています。
 
 
-**MORE DEEP**（モア・ディープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")3人組[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。1989年結成。かつての所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")。かつての所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[エイベックス・エンタテインメント](https://ja.wikipedia.org/wiki/エイベックス・エンタテインメント "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[Rhythm REPUBLIC](../Page/Rhythm_REPUBLIC.md "wikilink")。1995年解散。
+**MORE DEEP**（モア・ディープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")3人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。1989年結成。かつての所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[ARTIMAGE](../Page/ARTIMAGE.md "wikilink")。かつての所属[レコード会社](../Page/レコード会社.md "wikilink")は[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")で、[レーベルは](../Page/レコードレーベル.md "wikilink")[Rhythm REPUBLIC](../Page/Rhythm_REPUBLIC.md "wikilink")。1995年解散。
 
 ## メンバー
 
   - [motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ラップ](../Page/ラップ.md "wikilink")、[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ラップ](../Page/ラップ.md "wikilink")、[ダンス](../Page/ダンス.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
   - Zna
-      - ボーカル、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、ダンス、作曲
+      - ボーカル、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、ダンス、作曲
   - Snake
       - ボーカル、ラップ、ダンス
 
@@ -118,10 +118,10 @@
 
 ## タイアップ一覧
 
-| 年\[2\] | 楽曲                                         | タイアップ先                                                                                                                                                                                                      |
-| ------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1992年  | Nobody (Nobody Beats Me In the Night Club) | [OVA](../Page/OVA.md "wikilink")『[東京BABYLON A SAVE FOR TOKYO CITY STORY](../Page/東京BABYLON.md "wikilink")』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")                                       |
-| 1993年  | POWER                                      | [ジーンズ](../Page/ジーンズ.md "wikilink")[ショップ](https://ja.wikipedia.org/wiki/店 "wikilink")『[アメリカ屋](https://ja.wikipedia.org/wiki/アメリカ屋 "wikilink")』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング#日本 "wikilink") |
+| 年\[2\] | 楽曲                                         | タイアップ先                                                                                                                                                                |
+| ------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1992年  | Nobody (Nobody Beats Me In the Night Club) | [OVA](../Page/OVA.md "wikilink")『[東京BABYLON A SAVE FOR TOKYO CITY STORY](../Page/東京BABYLON.md "wikilink")』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink") |
+| 1993年  | POWER                                      | [ジーンズ](../Page/ジーンズ.md "wikilink")[ショップ](../Page/店.md "wikilink")『[アメリカ屋](../Page/アメリカ屋.md "wikilink")』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング#日本 "wikilink") |
 
 ## 注釈
 

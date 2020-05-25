@@ -1,4 +1,4 @@
-> この記事は[ORIGINAL GENERATION](https://ja.wikipedia.org/wiki/ORIGINAL_GENERATION)から翻訳されています。
+> この記事は[スーパーロボット大戦ORIGINAL GENERATIONプラキットシリーズ](https://ja.wikipedia.org/wiki/スーパーロボット大戦ORIGINAL_GENERATIONプラキットシリーズ)から翻訳されています。
 
 
 **スーパーロボット大戦ORIGINAL GENERATIONプラキットシリーズ**（スーパーロボットたいせんオリジナル・ジェネレーション プラキットシリーズ）とは、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")が開発および販売を行っている[ゲーム](../Page/ゲーム.md "wikilink")『[スーパーロボット大戦ORIGINAL GENERATIONシリーズ](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")』\[1\]に登場するバンプレストオリジナルの機体を立体化していたプラモデルシリーズである。

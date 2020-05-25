@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[安芸矢野ニュータウンCATV組合](https://ja.wikipedia.org/wiki/安芸矢野ニュータウンCATV組合)から翻訳されています。
 
 
 **安芸矢野ニュータウンCATV組合**（あきやのニュータウンシーエーティーブイくみあい）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安芸区](../Page/安芸区.md "wikilink")の[矢野ニュータウン](../Page/矢野ニュータウン.md "wikilink")にある[団地](../Page/団地.md "wikilink")内の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局で、[町内会](../Page/町内会.md "wikilink")が設立した[任意組合である](../Page/組合.md "wikilink")。

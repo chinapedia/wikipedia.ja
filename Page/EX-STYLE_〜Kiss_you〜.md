@@ -1,4 +1,4 @@
-> この記事は[EX-STYLE Kiss you](https://ja.wikipedia.org/wiki/EX-STYLE_Kiss_you)から翻訳されています。
+> この記事は[EX-STYLE 〜Kiss you〜](https://ja.wikipedia.org/wiki/EX-STYLE_〜Kiss_you〜)から翻訳されています。
 
 
 「**EX-STYLE 〜Kiss you〜**」（イーエックス スタイル キス ユー）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -16,15 +16,15 @@
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
 2.  **Blade** \[4:03\]
       -
-        作詞：Kenn Kato / 作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink") / 編曲：BOUNCEBACK, [原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
+        作詞：Kenn Kato / 作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink") / 編曲：BOUNCEBACK, [原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
 3.  **Kiss you** \[4:53\]
       -
         作詞：Kenn Kato / 作曲・編曲：[原一博](../Page/原一博.md "wikilink")
     <!-- end list -->
-      - [ニベアボディ](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「スキンミルク」CMソング
+      - [ニベアボディ](../Page/ニベア花王.md "wikilink")「スキンミルク」CMソング
 4.  **across** \[4:37\]
       -
-        作詞：Kenn Kato / 作曲・編曲：[Face 2 fAKE](https://ja.wikipedia.org/wiki/Face_2_fAKE "wikilink")
+        作詞：Kenn Kato / 作曲・編曲：[Face 2 fAKE](../Page/Face_2_fAKE.md "wikilink")
 5.  **Distance** \[4:45\]
       -
         作詞：Kenn Kato / 作曲：BOUNCEBACK / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
@@ -33,11 +33,11 @@
 
 ## 収録シングル・アルバム
 
-  - シングル「[We Will 〜あの場所で〜](https://ja.wikipedia.org/wiki/We_Will_〜あの場所で〜 "wikilink")」（\#3、ライブバージョン）
+  - シングル「[We Will 〜あの場所で〜](../Page/We_Will_〜あの場所で〜.md "wikilink")」（\#3、ライブバージョン）
   - アルバム『[Styles Of Beyond](../Page/Styles_Of_Beyond.md "wikilink")』（\#3・5、\#5は"Orchestra Version"で収録）
-  - リミックスアルバム『[The other side of EX Vol.1](https://ja.wikipedia.org/wiki/The_other_side_of_EX_Vol.1 "wikilink")』（\#3、feat. L.O.W.D. 813 REMIX）
+  - リミックスアルバム『[The other side of EX Vol.1](../Page/The_other_side_of_EX_Vol.1.md "wikilink")』（\#3、feat. L.O.W.D. 813 REMIX）
   - オムニバスアルバム『[99% Radio Show](https://ja.wikipedia.org/wiki/99%_Radio_Show "wikilink")』（\#3）
-  - ベストアルバム『[PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")』（\#3）
+  - ベストアルバム『[PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』（\#3）
 
 ## 脚注
 

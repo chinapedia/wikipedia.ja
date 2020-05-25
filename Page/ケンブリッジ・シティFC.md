@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ケンブリッジ・シティFC](https://ja.wikipedia.org/wiki/ケンブリッジ・シティFC)から翻訳されています。
 
 
-**ケンブリッジ・シティ・フットボール・クラブ**（**Cambridge City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ケンブリッジシャー州](https://ja.wikipedia.org/wiki/ケンブリッジシャー州 "wikilink")・[ケンブリッジ](https://ja.wikipedia.org/wiki/ケンブリッジ "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・ディヴィジョン1・セントラル](https://ja.wikipedia.org/wiki/サザンフットボールリーグ・ディヴィジョン1・セントラル "wikilink")（8部相当）に所属。
+**ケンブリッジ・シティ・フットボール・クラブ**（**Cambridge City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ケンブリッジシャー州](https://ja.wikipedia.org/wiki/ケンブリッジシャー州 "wikilink")・[ケンブリッジ](../Page/ケンブリッジ.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・ディヴィジョン1・セントラル](https://ja.wikipedia.org/wiki/サザンフットボールリーグ・ディヴィジョン1・セントラル "wikilink")（8部相当）に所属。
 
 ## タイトル
 

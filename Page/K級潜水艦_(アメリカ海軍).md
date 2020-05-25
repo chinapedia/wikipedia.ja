@@ -1,4 +1,4 @@
-> この記事は[K \(\)](https://ja.wikipedia.org/wiki/K_\(\))から翻訳されています。
+> この記事は[K級潜水艦 \(アメリカ海軍\)](https://ja.wikipedia.org/wiki/K級潜水艦_\(アメリカ海軍\))から翻訳されています。
 
 
 | K級潜水艦                                                                   |
@@ -10,7 +10,7 @@
 | 前級                                                                      |
 | 次級                                                                      |
 | 性能諸元                                                                    |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                     |
+| [排水量](../Page/排水量.md "wikilink")                                        |
 | 全長                                                                      |
 | 全幅                                                                      |
 | 吃水                                                                      |

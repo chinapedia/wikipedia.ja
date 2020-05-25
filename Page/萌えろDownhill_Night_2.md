@@ -1,7 +1,7 @@
-> この記事は[Downhill Night 2](https://ja.wikipedia.org/wiki/Downhill_Night_2)から翻訳されています。
+> この記事は[萌えろDownhill Night 2](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_2)から翻訳されています。
 
 
-『**萌えろDownhill Night 2**』（もえろダウンヒルナイトツー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")にTOPから発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。前作『**[萌えろDownhill Night -峠最速伝説-](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_-峠最速伝説- "wikilink")**』の続編である。初回限定版には『萌えろDownhill NightHR』が同梱される。
+『**萌えろDownhill Night 2**』（もえろダウンヒルナイトツー）は、[2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")にTOPから発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。前作『**[萌えろDownhill Night -峠最速伝説-](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_-峠最速伝説- "wikilink")**』の続編である。初回限定版には『萌えろDownhill NightHR』が同梱される。
 
 登場キャラクター、車種ともに大幅に増加している。ここでは『**萌えろDownhill Night BLAZE**』とあわせて紹介する。
 
@@ -23,7 +23,7 @@
 **朝比奈 燐華（あさひな　りんか）**:声:[民安ともえ](../Page/民安ともえ.md "wikilink")
 
   -
-    搭乗車種…[EA21R スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink")→[ロータス・エリーゼ 111R](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")
+    搭乗車種…[EA21R スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink")→[ロータス・エリーゼ 111R](../Page/ロータス・エリーゼ.md "wikilink")
       -
         ナンバー…筑波 400 K 75-41(カプチーノ) 筑波 300 E 56-14(エリーゼ)
     彰人と同じコンビニで働いている。彰人が車の話をしているのを聞いてカプチーノを購入する。走り屋チーム「四ツ谷フォーナイツ」に所属しているが、コースを覚えるのが苦手であまり速いほうではない。
@@ -32,7 +32,7 @@
 **愛川 周二（あいかわ　しゅうじ）**:声:[永倉仁八](https://ja.wikipedia.org/wiki/永倉仁八 "wikilink")
 
   -
-    搭乗車種…[SW20 トヨタ・MR2](https://ja.wikipedia.org/wiki/トヨタ・MR2 "wikilink")
+    搭乗車種…[SW20 トヨタ・MR2](../Page/トヨタ・MR2.md "wikilink")
       -
         ナンバー…中野 500 T 77-98
     彰人の昔からの友達。普段から将来乗る車の話やナンパの話（これは周二が一方的に話し出す）をしている。だが、周二は四天王のうちの一人であることを「'''沢木昌明 '''」と名乗り、彰人に隠している。また、同じ四天王である野乃海光里と付き合っている。
@@ -58,7 +58,7 @@
 **鳴守 ケイ（なるかみ　けい)**:声:[計名さや香](https://ja.wikipedia.org/wiki/計名さや香 "wikilink")
 
   -
-    搭乗車種…[KPGC10 日産・スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")
+    搭乗車種…[KPGC10 日産・スカイライン](../Page/日産・スカイライン.md "wikilink")
       -
         ナンバー…筑 5 す 0010(旧ナンバー)
     昔、四ツ谷峠に命を掛け事故死した少女の幽霊。現世に未練を残し、愛車であったハコスカに乗って、何十年も峠を彷徨っている。
@@ -75,7 +75,7 @@
       -
         ナンバー…筑波 500 H 37-35
     [前作の主人公](https://ja.wikipedia.org/wiki/萌えろDownhill_Night_-峠最速伝説- "wikilink")、**大地 翔**と**此ノ崎 未知**の娘。親の後を継いで個人タクシーの仕事を続けている。
-    CR-Xには[無限のエアロパーツが装備されており](https://ja.wikipedia.org/wiki/M-TEC "wikilink")、大半の登場車種は外見がノーマルに対して唯一エアロパーツが装備されている。
+    CR-Xには[無限のエアロパーツが装備されており](../Page/M-TEC.md "wikilink")、大半の登場車種は外見がノーマルに対して唯一エアロパーツが装備されている。
 
 **涼風 佑（すずかぜ　ゆう）**:声:[一文字雷](https://ja.wikipedia.org/wiki/一文字雷 "wikilink")
 
@@ -84,7 +84,7 @@
       -
         ナンバー…筑波 330 R ・・ 34
     強豪チーム「四ツ谷フォーナイツ」のリーダーにして、巷では最速と呼ばれているほどの走り屋。今まで何人もの走り屋とバトルをしているが、全戦全勝で無敗の王者。
-    雰囲気からして[頭文字D](../Page/頭文字D.md "wikilink")の[高橋涼介に似ている](https://ja.wikipedia.org/wiki/頭文字Dの登場人物 "wikilink")。
+    雰囲気からして[頭文字D](../Page/頭文字D.md "wikilink")の[高橋涼介に似ている](../Page/頭文字Dの登場人物.md "wikilink")。
 
 ### ライバル
 
@@ -99,7 +99,7 @@
 **高嶺 大介（たかみね だいすけ）**
 
   -
-    搭乗車種…[ST205 トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
+    搭乗車種…[ST205 トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")
       -
         ナンバー…筑波 500 A 68-61
     涼風をスカウトしに来たプロレーサー。姿自体は登場しない。
@@ -107,7 +107,7 @@
 **川﨑 圭一（かわさき　けいいち）**
 
   -
-    搭乗車種…[DC2 ホンダ・インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")
+    搭乗車種…[DC2 ホンダ・インテグラ](../Page/ホンダ・インテグラ.md "wikilink")
       -
         ナンバー…筑波 500 N 95-40
     友美の親友であり、ベタ惚れしている人物。彼女の為なら何でもやってもいいと本気で思っている。何度も好意を持っている事をアピールしているが、未だにその恋は実っていない。
@@ -141,7 +141,7 @@
 **舟越 純一（ふなこし　じゅんいち）**
 
   -
-    搭乗車種…[99303 ポルシェ・911　カレラ4S](https://ja.wikipedia.org/wiki/ポルシェ・911 "wikilink")
+    搭乗車種…[99303 ポルシェ・911　カレラ4S](../Page/ポルシェ・911.md "wikilink")
       -
         ナンバー…釜石 330 P ・9 11
     峠四天王の一人、東北最速の走り屋。通称「[玄武](../Page/玄武.md "wikilink")」。大の女好きで、自分が勝利したら女を抱くことを条件にしている。
@@ -169,7 +169,7 @@
   -
     朝比奈燐華の愛車。ボディの色は赤で、ボンネットとトランクがカーボン製のものに交換され、軽量化が図られている。また、ボンネットにはダクトがあいている。さらに、リアバンパーには四ツ谷フォーナイツのステッカーが貼られている。マフラーも社外品である。外見には表れない部分も改造してあるようである。
 
-**[NISSAN](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")・[BNR34 SKYLINE GT-R V-spec II](https://ja.wikipedia.org/wiki/日産・スカイラインGT-R "wikilink")**
+**[NISSAN](../Page/日産自動車.md "wikilink")・[BNR34 SKYLINE GT-R V-spec II](../Page/日産・スカイラインGT-R.md "wikilink")**
 
   -
     涼風祐の愛車、青色のBNR34型。クリアウインカーのため後期型。ステッカーは貼られているが、それ以外はノーマルである。外見だけでなく、内部もまったく手をつけられていないようで、ハンドルやシートも純正品。しかし、ペダルやハンドルは何年も使い込んでいるため、表面が擦り切れ始めている。
@@ -179,7 +179,7 @@
   -
     鳴守ケイの愛車、シルバーのボディが特徴の通称**ハコスカ2000GT**。[シングルナンバーとなっている](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")。
 
-**[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ST205 CELICA GT-Four](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")**
+**[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[ST205 CELICA GT-Four](../Page/トヨタ・セリカ.md "wikilink")**
 
   -
     高嶺大介の愛車、黄色のボディが特徴。前作の赤のセリカレンと違い国内使用となっている。
@@ -199,12 +199,12 @@
   -
     野乃海光里の愛車。ブラウンカラーのロータリーエンジン搭載のスポーツカー、しかしRX-7とは違い4ドアのスポーツクーペとなっている。
 
-**[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[AE86](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink") [SPRINTER TRUENO GT-APEX](../Page/トヨタ・スプリンタートレノ.md "wikilink")**
+**[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・[AE86](../Page/トヨタ・AE86.md "wikilink") [SPRINTER TRUENO GT-APEX](../Page/トヨタ・スプリンタートレノ.md "wikilink")**
 
   -
-    東堂院麗子の愛車。[頭文字D](../Page/頭文字D.md "wikilink")の[藤原拓海](https://ja.wikipedia.org/wiki/藤原拓海 "wikilink")と同様白と黒のツートンカラー（通称パンダトレノ）のAE86型のスポーツクーペ。後期型。
+    東堂院麗子の愛車。[頭文字D](../Page/頭文字D.md "wikilink")の[藤原拓海](../Page/藤原拓海.md "wikilink")と同様白と黒のツートンカラー（通称パンダトレノ）のAE86型のスポーツクーペ。後期型。
 
-**[NISSAN](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")・[S15 Silvia spec.R](../Page/日産・シルビア.md "wikilink")**
+**[NISSAN](../Page/日産自動車.md "wikilink")・[S15 Silvia spec.R](../Page/日産・シルビア.md "wikilink")**
 
   -
     西堂信也の愛車。オレンジのボディが特徴のスポーツカー、NA仕様のspec.Sも現実には存在したがこちらはターボ仕様（SR20DET）となっている。
@@ -214,14 +214,14 @@
   -
     黄色いボディが特徴のMRスポーツカー、愛川周二（沢木昌明）の愛車。
 
-**[Lotus](../Page/ロータス・カーズ.md "wikilink")・[Elise 111R](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink")**
+**[Lotus](../Page/ロータス・カーズ.md "wikilink")・[Elise 111R](../Page/ロータス・エリーゼ.md "wikilink")**
 
   -
     今作初の欧州車。赤いボディが特徴。槌田彰人は作中でポンと買ってきてしまうが、実際はそんなに安い車ではない。
 
 ## 概要
 
-  - ホンダがこのゲームに自動車を出展させた理由については、[アザーカー](../Page/アザーカー.md "wikilink")の出ないレースゲームであれば許可を出すことができたからである（逆に出るゲームであればライセンスを出さないのが鉄則となっている）。この理由は[頭文字D](../Page/頭文字D.md "wikilink")シリーズ([セガ](https://ja.wikipedia.org/wiki/セガ "wikilink"))や[街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")([元気](https://ja.wikipedia.org/wiki/元気 "wikilink"))、[バトルギア](https://ja.wikipedia.org/wiki/バトルギア "wikilink")シリーズ([タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink"))など、アザーカーが出ない峠のバトルを主題にしたゲームでも同様である。ただし[超速変形ジャイロゼッター](https://ja.wikipedia.org/wiki/超速変形ジャイロゼッター "wikilink")はアザーカーが出ないにもかかわらず登場していない（これは車がロボットに変形するというコンセプトのゲームのためホンダが許諾していない）
+  - ホンダがこのゲームに自動車を出展させた理由については、[アザーカー](../Page/アザーカー.md "wikilink")の出ないレースゲームであれば許可を出すことができたからである（逆に出るゲームであればライセンスを出さないのが鉄則となっている）。この理由は[頭文字D](../Page/頭文字D.md "wikilink")シリーズ([セガ](https://ja.wikipedia.org/wiki/セガ "wikilink"))や[街道バトルシリーズ](../Page/街道バトルシリーズ.md "wikilink")([元気](https://ja.wikipedia.org/wiki/元気 "wikilink"))、[バトルギア](../Page/バトルギア.md "wikilink")シリーズ([タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink"))など、アザーカーが出ない峠のバトルを主題にしたゲームでも同様である。ただし[超速変形ジャイロゼッター](https://ja.wikipedia.org/wiki/超速変形ジャイロゼッター "wikilink")はアザーカーが出ないにもかかわらず登場していない（これは車がロボットに変形するというコンセプトのゲームのためホンダが許諾していない）
 
 <!-- end list -->
 

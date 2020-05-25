@@ -1,14 +1,14 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 井上昌己](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_井上昌己)から翻訳されています。
 
 
-『**GOLDEN☆BEST 井上昌己**』（ゴールデン☆ベスト いのうえしょうこ）は、[井上昌己の](https://ja.wikipedia.org/wiki/井上昌己_\(歌手\) "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。2004年2月25日発売。発売元は[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**GOLDEN☆BEST 井上昌己**』（ゴールデン☆ベスト いのうえしょうこ）は、[井上昌己の](https://ja.wikipedia.org/wiki/井上昌己_\(歌手\) "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。2004年2月25日発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-  - 各[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの中の1枚で、[トーラスレコード](https://ja.wikipedia.org/wiki/トーラスレコード "wikilink")所属時代の音源を収録している。
+  - 各[レコード会社](../Page/レコード会社.md "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの中の1枚で、[トーラスレコード](../Page/トーラスレコード.md "wikilink")所属時代の音源を収録している。
   - 1990年代半ば、「GiRLPOP」の代表的存在となり、自ら作曲もこなす実力派シンガーとして名を広めた時期を前後とした頃のシングル曲を集めたシングル・コレクション。
   - デビューしばらくは、主に楽曲提供を受けていたが、徐々にソングライターとしての才能を発揮していった。そのため、基本的にリリース順に収録された本アルバムでは、後半に自作曲が並んでいる。
-  - 名前が知れ渡るきっかけとなった「**恋が素敵な理由**（わけ）」（1993年1月）収録。カシオの[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")に起用された。
+  - 名前が知れ渡るきっかけとなった「**恋が素敵な理由**（わけ）」（1993年1月）収録。カシオの[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")に起用された。
   - 2007年現在、[インディーズ](../Page/インディーズ.md "wikilink")・[レーベルを持つ](../Page/レコードレーベル.md "wikilink")。本アルバム収録曲のリメイクを発表することもある。
   - 1989年のデビュー・シングル「**メリーローランの島**」から1995年「**純心**」までの間に発売された全17枚のうち、16曲が収録されている。収録されていないのは13thシングル「Merry X'masをあげたい -LAST FOR YOU-」で、本アルバム収録「**Merry X'masをあげたい**」（1991年11月6日）のリメイク版。
   - [2012年](../Page/2012年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に廉価盤で再発売された。
@@ -16,7 +16,7 @@
 ## 収録曲
 
 1.  **メリーローランの島**（4:42）
-      - 作詞：古賀勝哉、作曲：[杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")、編曲: [京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink")
+      - 作詞：古賀勝哉、作曲：[杉真理](../Page/杉真理.md "wikilink")、編曲: [京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink")
     <!-- end list -->
       -
         メジャーデビューシングルで、デビューアルバム『彼女の島』と同日発売。ベストアルバム『FACE TO FACE』『FACE TO FACE-NEXT-』にも収録されているが、音源がそれぞれ異なっている。
@@ -24,12 +24,12 @@
       - 作詞：古賀勝哉、作曲：[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")、編曲：京田誠一
     <!-- end list -->
       -
-        2ndシングル、アルバム『彼女の島』からのシングルカット、[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『土曜だエブリバディ\!』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        2ndシングル、アルバム『彼女の島』からのシングルカット、[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『土曜だエブリバディ\!』[エンディングテーマ](../Page/主題歌.md "wikilink")
 3.  **YELL\! ‐16番目の夏‐**（4:28）
       - 作詞：西田昭彦、作曲：佐藤栄介、編曲：京田誠一
     <!-- end list -->
       -
-        3rdシングル、ABC・テレビ朝日系『[熱闘甲子園](https://ja.wikipedia.org/wiki/熱闘甲子園 "wikilink")』挿入歌
+        3rdシングル、ABC・テレビ朝日系『[熱闘甲子園](../Page/熱闘甲子園.md "wikilink")』挿入歌
 4.  **魚座たちの渚**（4:28）
       - 作詞：古賀勝哉、作曲：芦沢和則、編曲：京田誠一
     <!-- end list -->
@@ -39,7 +39,7 @@
 <!-- end list -->
 
 1.  **神様のミステイク**（4:36）
-      - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲：[崎谷健次郎](https://ja.wikipedia.org/wiki/崎谷健次郎 "wikilink")、編曲：[松本晃彦](https://ja.wikipedia.org/wiki/松本晃彦 "wikilink")
+      - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲：[崎谷健次郎](../Page/崎谷健次郎.md "wikilink")、編曲：[松本晃彦](../Page/松本晃彦.md "wikilink")
     <!-- end list -->
       -
         5thシングル、アルバム『matiere』と同日発売
@@ -67,7 +67,7 @@
       - 作詞：古賀勝哉、作曲：井上昌己、編曲：岩本正樹
     <!-- end list -->
       -
-        10thシングル、アルバム『彼女が泣いた夜』と同日発売。ABC・テレビ朝日系『新・[地球キャッチミー](https://ja.wikipedia.org/wiki/地球キャッチミー "wikilink")』エンディングテーマ
+        10thシングル、アルバム『彼女が泣いた夜』と同日発売。ABC・テレビ朝日系『新・[地球キャッチミー](../Page/地球キャッチミー.md "wikilink")』エンディングテーマ
 7.  **恋が素敵な理由**（5:07）
       - 作詞: 古賀勝哉、作曲: 井上昌己、編曲: 佐藤栄介 with POP BEAT
     <!-- end list -->
@@ -101,19 +101,19 @@
       - 作詞: 古賀勝哉、作曲: 井上昌己、編曲: 京田誠一
     <!-- end list -->
       -
-        17thシングル、ABC・テレビ朝日系アニメ『[怪盗セイント・テール](https://ja.wikipedia.org/wiki/怪盗セイント・テール "wikilink")』エンディングテーマ
+        17thシングル、ABC・テレビ朝日系アニメ『[怪盗セイント・テール](../Page/怪盗セイント・テール.md "wikilink")』エンディングテーマ
         シングルバージョンのほか、一部歌詞を変えて収録した「more bitter version」「S-Land Version」などがある。
 
 ## 関連項目
 
   - [ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")
-  - [1989年の音楽](https://ja.wikipedia.org/wiki/1989年の音楽 "wikilink")　\#1・2・3
-  - [1990年の音楽](https://ja.wikipedia.org/wiki/1990年の音楽 "wikilink")　\#4・5
-  - [1991年の音楽](https://ja.wikipedia.org/wiki/1991年の音楽 "wikilink")　\#6・7・8・9
-  - [1992年の音楽](https://ja.wikipedia.org/wiki/1992年の音楽 "wikilink")　\#10
-  - [1993年の音楽](https://ja.wikipedia.org/wiki/1993年の音楽 "wikilink")　\#11・12
-  - [1994年の音楽](https://ja.wikipedia.org/wiki/1994年の音楽 "wikilink")　\#13・14
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")　\#15・16
+  - [1989年の音楽](../Page/1989年の音楽.md "wikilink")　\#1・2・3
+  - [1990年の音楽](../Page/1990年の音楽.md "wikilink")　\#4・5
+  - [1991年の音楽](../Page/1991年の音楽.md "wikilink")　\#6・7・8・9
+  - [1992年の音楽](../Page/1992年の音楽.md "wikilink")　\#10
+  - [1993年の音楽](../Page/1993年の音楽.md "wikilink")　\#11・12
+  - [1994年の音楽](../Page/1994年の音楽.md "wikilink")　\#13・14
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")　\#15・16
 
 ## 関連人物
 

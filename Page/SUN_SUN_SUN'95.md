@@ -1,16 +1,16 @@
 > この記事は[SUN SUN SUN\'95](https://ja.wikipedia.org/wiki/SUN_SUN_SUN\'95)から翻訳されています。
 
 
-『**SUN SUN SUN'95**』は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")に東芝EMI（現・[ユニバーサル ミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック合同会社 "wikilink")）から発売された[ウルフルズ](../Page/ウルフルズ.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[PVには](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")が出演している。デビューから3年を経過して、本作で初めてチャート100位以内にランクインした（オリコン調べ）。PVは日活の石原裕次郎の映画を彷彿させるトータスと渡辺満里奈のドラマになっており、ドラマ部分では曲が途切れる。
+『**SUN SUN SUN'95**』は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月19日](../Page/7月19日.md "wikilink")に東芝EMI（現・[ユニバーサル ミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック合同会社 "wikilink")）から発売された[ウルフルズ](../Page/ウルフルズ.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[PVには](../Page/ミュージック・ビデオ.md "wikilink")[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")が出演している。デビューから3年を経過して、本作で初めてチャート100位以内にランクインした（オリコン調べ）。PVは日活の石原裕次郎の映画を彷彿させるトータスと渡辺満里奈のドラマになっており、ドラマ部分では曲が途切れる。
 
 ## 収録曲
 
 1.  **SUN SUN SUN '95**
-      - 作詞：[トータス松本](../Page/トータス松本.md "wikilink")　作曲：トータス松本、[ウルフルケイスケ](https://ja.wikipedia.org/wiki/ウルフルケイスケ "wikilink")　編曲：ウルフルズ、[伊藤銀次](../Page/伊藤銀次.md "wikilink")
+      - 作詞：[トータス松本](../Page/トータス松本.md "wikilink")　作曲：トータス松本、[ウルフルケイスケ](../Page/ウルフルケイスケ.md "wikilink")　編曲：ウルフルズ、[伊藤銀次](../Page/伊藤銀次.md "wikilink")
 2.  **ウソつけ\!ウソいえ\!ウソぬかせ\!**
       - 作詞：トータス松本、伊藤銀次　作曲：トータス松本　編曲：ウルフルズ、伊藤銀次
 3.  **今夜どう?（ここまではOK\!）**
-      - 作詞：トータス松本、[ジョン・B・チョッパー](https://ja.wikipedia.org/wiki/ジョン・B・チョッパー "wikilink")、伊藤銀次　作曲：トータス松本　編曲：ウルフルズ、伊藤銀次
+      - 作詞：トータス松本、[ジョン・B・チョッパー](../Page/ジョン・B・チョッパー.md "wikilink")、伊藤銀次　作曲：トータス松本　編曲：ウルフルズ、伊藤銀次
 
 {{-}}
 

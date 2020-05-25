@@ -1,15 +1,15 @@
-> この記事は[CSKA \(\)](https://ja.wikipedia.org/wiki/CSKA_\(\))から翻訳されています。
+> この記事は[CSKAモスクワ \(男子バレーボール\)](https://ja.wikipedia.org/wiki/CSKAモスクワ_\(男子バレーボール\))から翻訳されています。
 
 
-**CSKAモスクワ**（\[1\]）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](https://ja.wikipedia.org/wiki/モスクワ "wikilink")を本拠地とする男子[バレーボール](https://ja.wikipedia.org/wiki/バレーボール "wikilink")クラブ。
+**CSKAモスクワ**（\[1\]）は、[ロシア](../Page/ロシア.md "wikilink")・[モスクワ](../Page/モスクワ.md "wikilink")を本拠地とする男子[バレーボール](../Page/バレーボール.md "wikilink")クラブ。
 
 ## 歴史
 
-[1946年](../Page/1946年.md "wikilink")、CSKAモスクワ創設。ソ連リーグから通算28回のリーグ最多優勝を誇り、[欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")（当時チャンピオンズカップ）の初代王者で、最多優勝13回を飾っていることでも知られる欧州を代表する強豪クラブであったが、深刻な財政問題によりスーパーリーグから降格し、衰退して行った。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に現在のクラブの形へ再建された。
+[1946年](../Page/1946年.md "wikilink")、CSKAモスクワ創設。ソ連リーグから通算28回のリーグ最多優勝を誇り、[欧州チャンピオンズリーグ](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")（当時チャンピオンズカップ）の初代王者で、最多優勝13回を飾っていることでも知られる欧州を代表する強豪クラブであったが、深刻な財政問題によりスーパーリーグから降格し、衰退して行った。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に現在のクラブの形へ再建された。
 
 ## 主な成績
 
-  -  ソ連リーグ／ [ロシアリーグ](https://ja.wikipedia.org/wiki/ロシア・バレーボール・スーパーリーグ "wikilink")
+  -  ソ連リーグ／ [ロシアリーグ](../Page/ロシア・バレーボール・スーパーリーグ.md "wikilink")
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")
+  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")
 
 <!-- end list -->
 
@@ -43,9 +43,9 @@
 
   - [ドミトリー・フォーミン](../Page/ドミトリー・フォーミン.md "wikilink")
 
-  - [スタニスラフ・ディネイキン](https://ja.wikipedia.org/wiki/スタニスラフ・ディネイキン "wikilink")
+  - [スタニスラフ・ディネイキン](../Page/スタニスラフ・ディネイキン.md "wikilink")
 
-  - [アレクセイ・ベルボフ](https://ja.wikipedia.org/wiki/アレクセイ・ベルボフ "wikilink")
+  - [アレクセイ・ベルボフ](../Page/アレクセイ・ベルボフ.md "wikilink")
 
 ## 関連項目
 

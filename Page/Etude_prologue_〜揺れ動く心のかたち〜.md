@@ -1,9 +1,9 @@
-> この記事は[Etude prologue ](https://ja.wikipedia.org/wiki/Etude_prologue_)から翻訳されています。
+> この記事は[Etude prologue 〜揺れ動く心のかたち〜](https://ja.wikipedia.org/wiki/Etude_prologue_〜揺れ動く心のかたち〜)から翻訳されています。
 
 
 『**étude prologue 〜揺れ動く心のかたち〜**』（エチュード プロローグ ゆれうごくこころのかたち）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")から[Windows98](https://ja.wikipedia.org/wiki/Windows98 "wikilink")/95用に発売された一般向け[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")版が発売され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")には担当[声優](../Page/声優.md "wikilink")を全員変更しグラフィックを修正したリメイク版にあたる[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[PlayStation Portable版が発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")版が発売され、[2006年](../Page/2006年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")には担当[声優](../Page/声優.md "wikilink")を全員変更しグラフィックを修正したリメイク版にあたる[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")。
 
 ## 概要
 
@@ -25,7 +25,7 @@
 [声優](../Page/声優.md "wikilink")は、オリジナル版（SS・Win） / リメイク版（PS2・PSP）の順。
 
   - 佐伯　瞳（さえき　ひとみ）
-    声：[山本麻里安](../Page/山本麻里安.md "wikilink") / [松本彩乃](https://ja.wikipedia.org/wiki/新名彩乃 "wikilink")
+    声：[山本麻里安](../Page/山本麻里安.md "wikilink") / [松本彩乃](../Page/新名彩乃.md "wikilink")
     女性側の主人公。現在は妹の悠見と二人暮し。
     元テニス部所属。郡司達也と付き合っていたことがある。
   - 郡司　達也（ぐんじ　たつや）
@@ -42,15 +42,15 @@
     女性側の主人公の妹。ファリス女子学園の1年生。
     あることがキッカケで郡司達也の親友、片桐那智のことを好きになる。
   - 藤乃　梓（ふじの　あずさ）
-    声：[榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink") / [曽田光星](../Page/曽田光星.md "wikilink")
+    声：[榎本温子](../Page/榎本温子.md "wikilink") / [曽田光星](../Page/曽田光星.md "wikilink")
     天鳳高校の3年生。
     孤高な性格で他人から干渉されることを嫌い、いつも一人でいる。
   - 鮎瀬　碧（あゆせ　みどり）
-    声：[河合久美](https://ja.wikipedia.org/wiki/たなか久美 "wikilink") / [福原香織](https://ja.wikipedia.org/wiki/福原香織 "wikilink")
+    声：[河合久美](../Page/たなか久美.md "wikilink") / [福原香織](../Page/福原香織.md "wikilink")
     郡司達也と同じクラスの生徒。
     存在感が薄く、達也もつい最近まで彼女が同じクラスであることに気づかなかった。
   - 山田　まゆ（やまだ　まゆ）
-    声：[一杉佳澄](https://ja.wikipedia.org/wiki/一杉佳澄 "wikilink") / [狩野茉莉](https://ja.wikipedia.org/wiki/狩野茉莉 "wikilink")
+    声：[一杉佳澄](https://ja.wikipedia.org/wiki/一杉佳澄 "wikilink") / [狩野茉莉](../Page/狩野茉莉.md "wikilink")
     天鳳高校の3年生。高校に進学するまでは芸能界にいた。
     「山田」と呼ばれることを極端に嫌っている。
   - 中沢　薫（なかざわ　かおる）
@@ -58,12 +58,12 @@
     天鳳高校の3年生。
     登校後、授業も受けずに下校するなど素行はよくない。
   - 片桐　那智（かたぎり　なち）
-    声：[井上和彦](../Page/井上和彦_\(声優\).md "wikilink") / [武内健](https://ja.wikipedia.org/wiki/武内健 "wikilink")
+    声：[井上和彦](../Page/井上和彦_\(声優\).md "wikilink") / [武内健](../Page/武内健.md "wikilink")
     天鳳高校の3年生で郡司達也の親友。
     天鳳高校以外の生徒にもファンがいるほど人気がある。
     麻美に対して恋愛感情を抱いている。
   - 草薙　瞬（くさなぎ　しゅん）
-    声：[関智一](../Page/関智一.md "wikilink") / [福島潤](https://ja.wikipedia.org/wiki/福島潤 "wikilink")
+    声：[関智一](../Page/関智一.md "wikilink") / [福島潤](../Page/福島潤.md "wikilink")
     天鳳高校の3年生。
     スポーツが得意。自宅はバイク屋である。
   - 真田　博士（さなだ　ひろし）
@@ -72,14 +72,14 @@
     学年トップの成績を取る優等生で性格は真面目。
     密かに瞳に恋をしている。
   - 天野　神吾（あまの　しんご）
-    声：[岩永哲哉](../Page/岩永哲哉.md "wikilink") / [下和田裕貴](https://ja.wikipedia.org/wiki/下和田ヒロキ "wikilink")
+    声：[岩永哲哉](../Page/岩永哲哉.md "wikilink") / [下和田裕貴](../Page/下和田ヒロキ.md "wikilink")
     天鳳高校の3年生。動物好きである。
     近づくと不幸になるという噂があり、他人と関わりを持とうとしない。
-    [Little Aidの主人公](https://ja.wikipedia.org/wiki/Little_Aid "wikilink")、西村あかりは従妹。
+    [Little Aidの主人公](../Page/Little_Aid.md "wikilink")、西村あかりは従妹。
 
 ## 関連CD
 
-『**エチュード虹組**』（[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")、1998年7月25日発売）
+『**エチュード虹組**』（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")、1998年7月25日発売）
 
 収録曲
 
@@ -103,8 +103,8 @@
 
 ## 関連項目
 
-  - [Little Aid](https://ja.wikipedia.org/wiki/Little_Aid "wikilink")
-  - [Panic Palette](https://ja.wikipedia.org/wiki/Panic_Palette "wikilink")
+  - [Little Aid](../Page/Little_Aid.md "wikilink")
+  - [Panic Palette](../Page/Panic_Palette.md "wikilink")
 
 ## 外部リンク
 

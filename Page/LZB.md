@@ -1,7 +1,7 @@
 > この記事は[LZB](https://ja.wikipedia.org/wiki/LZB)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Feste_Fahrbahn_FFBögl.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ice2_mfa_on_lzb.jpg "wikilink") **LZB**（*de:Linienzugbeeinflussung*、**連続列車制御装置**れんぞくれっしゃせいぎょそうち）は、[スピードシグナル](https://ja.wikipedia.org/wiki/スピードシグナル "wikilink")や[自動列車制御装置](../Page/自動列車制御装置.md "wikilink")の概念に近い[車内信号](https://ja.wikipedia.org/wiki/車内信号 "wikilink")方式の鉄道に置ける信号保安装置の一種である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Feste_Fahrbahn_FFBögl.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Ice2_mfa_on_lzb.jpg "wikilink") **LZB**（*de:Linienzugbeeinflussung*、**連続列車制御装置**れんぞくれっしゃせいぎょそうち）は、[スピードシグナル](https://ja.wikipedia.org/wiki/スピードシグナル "wikilink")や[自動列車制御装置](../Page/自動列車制御装置.md "wikilink")の概念に近い[車内信号](../Page/車内信号.md "wikilink")方式の鉄道に置ける信号保安装置の一種である。
 
 [ドイツ鉄道](../Page/ドイツ鉄道.md "wikilink")、[スイス連邦鉄道](../Page/スイス連邦鉄道.md "wikilink")（スイス国鉄）、[オーストリア連邦鉄道](../Page/オーストリア連邦鉄道.md "wikilink")（オーストリア国鉄）、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[AVE](../Page/AVE.md "wikilink")などの幹線や高速鉄道路線で使用されている。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")では最高速度160km/h、スペインでは200km/h以上の高速運転を行う路線で使用が義務付けられているが、若干速度が遅い路線でも線路容量を上げるために使用されている。
 

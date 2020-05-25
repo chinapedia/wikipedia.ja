@@ -137,7 +137,7 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオン - My idol～青春play back～](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200700000957&DSP_SKHKETSEQ=001&SITKBN=S)
+  -
   - [My Idol ～青春playback～　テレビショッピングのショップマニフィカ](http://www.shopmgca.jp/goods/108/)
 
 [Category:2007年のコンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のコンピレーション・アルバム "wikilink") [Category:通販CD](https://ja.wikipedia.org/wiki/Category:通販CD "wikilink") [Category:ポニーキャニオンのアルバム](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアルバム "wikilink") [Category:ソニー・ミュージックダイレクトのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックダイレクトのアルバム "wikilink") [Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink")

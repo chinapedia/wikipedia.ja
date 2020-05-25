@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブリストル・シティFC](https://ja.wikipedia.org/wiki/ブリストル・シティFC)から翻訳されています。
 
 
-**ブリストル・シティ・フットボール・クラブ**（**Bristol City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ブリストル](https://ja.wikipedia.org/wiki/ブリストル "wikilink")を本拠地とするサッカークラブチームである。2018-19シーズンは[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部相当）に所属。
+**ブリストル・シティ・フットボール・クラブ**（**Bristol City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ブリストル](../Page/ブリストル.md "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")（2部相当）に所属。
 
 ## クラブ各種記録
 
@@ -10,9 +10,9 @@
   - 最多得点勝利試合（リーグ）
       - 9-0　vs [アルダーショットFC](https://ja.wikipedia.org/wiki/アルダーショットFC "wikilink") 1946.12.28
   - 最多失点敗戦試合（リーグ）
-      - 0-9　vs [コヴェントリー・シティFC](https://ja.wikipedia.org/wiki/コヴェントリー・シティFC "wikilink") 1934.4.28
+      - 0-9　vs [コヴェントリー・シティFC](../Page/コヴェントリー・シティFC.md "wikilink") 1934.4.28
   - 最多得点勝利試合（カップ）
-      - 11-0　vs [チチェスター・シティFC](https://ja.wikipedia.org/wiki/チチェスター・シティ・ユナイテッドFC "wikilink") [FAカップ](../Page/FAカップ.md "wikilink")3回戦 1960.11.5
+      - 11-0　vs [チチェスター・シティFC](../Page/チチェスター・シティ・ユナイテッドFC.md "wikilink") [FAカップ](../Page/FAカップ.md "wikilink")3回戦 1960.11.5
 
 ## タイトル
 
@@ -36,7 +36,7 @@
 | リーグ                                                                              | 試          | 勝                                    | 分                                                               | 敗                                                            | 得     |
 | 1997-98                                                                          | ディヴィジョン2   | 46                                   | 25                                                              | 10                                                           | 11    |
 | 1998-99                                                                          | ディヴィジョン1   | 46                                   | 9                                                               | 15                                                           | 22    |
-| 1999-00                                                                          | ディヴィジョン2   | 46                                   | 15                                                              | 19                                                           | 12    |
+| 1999-2000                                                                        | ディヴィジョン2   | 46                                   | 15                                                              | 19                                                           | 12    |
 | 2000-01                                                                          | ディヴィジョン2   | 46                                   | 18                                                              | 14                                                           | 14    |
 | 2001-02                                                                          | ディヴィジョン2   | 46                                   | 21                                                              | 10                                                           | 15    |
 | 2002-03                                                                          | ディヴィジョン2   | 46                                   | 24                                                              | 11                                                           | 11    |
@@ -78,25 +78,25 @@
 
   - [ノーマン・ハンター](https://ja.wikipedia.org/wiki/ノーマン・ハンター "wikilink") 1976-1979
 
-  - [テリー・クーパー](https://ja.wikipedia.org/wiki/テリー・クーパー "wikilink") 1978-1980、1982-1984
+  - [テリー・クーパー](https://ja.wikipedia.org/wiki/テリー・クーパー "wikilink") 1978-1980, 1982-1984
 
   - [ロブ・ニューマン](https://ja.wikipedia.org/wiki/ロブ・ニューマン_（サッカー選手） "wikilink") 1981-1991
 
   - [デイヴィッド・モイーズ](https://ja.wikipedia.org/wiki/デイヴィッド・モイーズ "wikilink") 1985-1987
 
-  - [スティーブ・マクラーレン](https://ja.wikipedia.org/wiki/スティーブ・マクラーレン "wikilink") 1988-1989
+  - [スティーブ・マクラーレン](../Page/スティーブ・マクラーレン.md "wikilink") 1988-1989
 
   - [アンディー・コール](https://ja.wikipedia.org/wiki/アンディー・コール "wikilink") 1992-1993
 
-  - [ジェイソン・ロバーツ](https://ja.wikipedia.org/wiki/ジェイソン・ロバーツ "wikilink") 1997-1998
+  - [ジェイソン・ロバーツ](../Page/ジェイソン・ロバーツ.md "wikilink") 1997-1998
 
-  - [リアム・ロシニアー](https://ja.wikipedia.org/wiki/リアム・ロシニアー "wikilink") 2001-2003
+  - [リアム・ロシニアー](../Page/リアム・ロシニアー.md "wikilink") 2001-2003
 
-  - [ベン・フォスター](https://ja.wikipedia.org/wiki/ベン・フォスター_\(サッカー選手\) "wikilink") 2002
+  - [ベン・フォスター](../Page/ベン・フォスター_\(サッカー選手\).md "wikilink") 2002
 
-  - [クレイグ・フェイガン](https://ja.wikipedia.org/wiki/クレイグ・フェイガン "wikilink") 2003
+  - [クレイグ・フェイガン](../Page/クレイグ・フェイガン.md "wikilink") 2003
 
-  - [ディビッド・ジェームス](https://ja.wikipedia.org/wiki/ディビッド・ジェームス "wikilink") 2010-2012
+  - [ディビッド・ジェームス](../Page/ディビッド・ジェームス.md "wikilink") 2010-2012
 
 **オーストリア**
 
@@ -120,11 +120,11 @@
 
 **ウェールズ**
 
-  - [デイビッド・コッテリル](https://ja.wikipedia.org/wiki/デイビッド・コッテリル "wikilink") 2004-2006
+  - [デイビッド・コッテリル](../Page/デイビッド・コッテリル.md "wikilink") 2004-2006
 
 **オランダ**
 
-  - [エファンデル・スノ](https://ja.wikipedia.org/wiki/エファンデル・スノ "wikilink") 2009-
+  - [エファンデル・スノ](../Page/エファンデル・スノ.md "wikilink") 2009-
 
 **ナイジェリア**
 

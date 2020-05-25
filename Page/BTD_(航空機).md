@@ -1,7 +1,7 @@
-> この記事は[BTD \(\)](https://ja.wikipedia.org/wiki/BTD_\(\))から翻訳されています。
+> この記事は[BTD \(航空機\)](https://ja.wikipedia.org/wiki/BTD_\(航空機\))から翻訳されています。
 
 
-**BTD デストロイヤー**（*Douglas BTD Destroyer* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](https://ja.wikipedia.org/wiki/ダグラス・エアクラフト "wikilink")、第二次世界大戦中[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が短期間運用した[艦上爆撃機](../Page/艦上爆撃機.md "wikilink")である。
+**BTD デストロイヤー**（*Douglas BTD Destroyer* ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、第二次世界大戦中[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")が短期間運用した[艦上爆撃機](../Page/艦上爆撃機.md "wikilink")である。
 
 愛称の「**デストロイヤー** (Destroyer)」は破壊者の意である。当初は**XSB2D デストロイヤー**として開発されていた。
 
@@ -13,7 +13,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:BTD-1_04968_NACA.jpg "wikilink")）にてテストに用いられた機体（BuNo.04968）\]\] ダグラス社では、製作中だったXSB2Dの2号機を単座仕様に改めるとともに、量産機の開発に着手した。単座化にあたっては、コクピットを単座用に整形した他、尾翼形状の改修などが行われた。BTDの1号機は[1944年](../Page/1944年.md "wikilink")3月に初飛行した。
 
-しかし、このころダグラス社では同じくエド・ハイネマンの設計による新艦上爆撃機、XBT2D（後の[ADスカイレイダー](https://ja.wikipedia.org/wiki/A-1_\(航空機\) "wikilink")）の開発に着手しており、海軍も戦争の結果が見えつつあったことと、BTD自体の操縦性があまりよくなく艦上での運用が難しいと予想されることから、量産発注は25機のみとし、残りはキャンセルとなった。生産機は、訓練や試験に細々と運用された。
+しかし、このころダグラス社では同じくエド・ハイネマンの設計による新艦上爆撃機、XBT2D（後の[ADスカイレイダー](../Page/A-1_\(航空機\).md "wikilink")）の開発に着手しており、海軍も戦争の結果が見えつつあったことと、BTD自体の操縦性があまりよくなく艦上での運用が難しいと予想されることから、量産発注は25機のみとし、残りはキャンセルとなった。生産機は、訓練や試験に細々と運用された。
 
 これとは別に、BTDをレシプロエンジンに加えジェットエンジンを搭載し混合動力化した機体の開発も行われ、**XBTD-2**と名付けられた。これは[1944年](../Page/1944年.md "wikilink")5月に初飛行に成功したが、ジェットエンジンを使用しない時は350km/h以下の速度しか出ない上、ジェットエンジンを搭載していることによる速度の増加がほとんど見込めず、他にも問題も多かったため、計画は破棄された。
 
@@ -50,13 +50,13 @@ XSB2Dに比べ後部の防御機銃と後部座席がないことがわかる
   - 『[World of Warships](https://ja.wikipedia.org/wiki/World_of_Warships "wikilink")』
     空母に搭載可能な艦上爆撃機の一つとしてBTD-1が登場する。
   - 『[戦艦少女R](https://ja.wikipedia.org/wiki/戦艦少女R "wikilink")』
-    [レキシントン級航空母艦](../Page/レキシントン級航空母艦.md "wikilink")「[レキシントン](https://ja.wikipedia.org/wiki/レキシントン_\(CV-2\) "wikilink")」、「[サラトガ](https://ja.wikipedia.org/wiki/サラトガ_\(CV-3\) "wikilink")」の初期装備としてBTD-1が登場する。
+    [レキシントン級航空母艦](../Page/レキシントン級航空母艦.md "wikilink")「[レキシントン](../Page/レキシントン_\(CV-2\).md "wikilink")」、「[サラトガ](../Page/サラトガ_\(CV-3\).md "wikilink")」の初期装備としてBTD-1が登場する。
   - 『[アズールレーン](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")』
     上記と同様にレキシントンとサラトガの初期装備としてBTD-1が登場している。
 
 ## 参考文献
 
-  - [岡部ださく](https://ja.wikipedia.org/wiki/岡部いさく "wikilink")：著『世界の駄っ作機 3』（ISBN 978-4499228237）大日本絵画　2003年
+  - [岡部ださく](../Page/岡部いさく.md "wikilink")：著『世界の駄っ作機 3』（ISBN 978-4499228237）大日本絵画　2003年
 
 <!-- end list -->
 
@@ -67,6 +67,6 @@ XSB2Dに比べ後部の防御機銃と後部座席がないことがわかる
 
 ## 関連項目
 
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
 
 [Category:アメリカ合衆国の爆撃機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の爆撃機 "wikilink") [Category:艦載機](https://ja.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:ダグラスの航空機](https://ja.wikipedia.org/wiki/Category:ダグラスの航空機 "wikilink")

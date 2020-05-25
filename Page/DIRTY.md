@@ -1,7 +1,7 @@
 > この記事は[DIRTY](https://ja.wikipedia.org/wiki/DIRTY)から翻訳されています。
 
 
-「**DIRTY**」（ダーティー）は、[ナイトメアの](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink")12枚目のシングル。
+「**DIRTY**」（ダーティー）は、[ナイトメアの](../Page/ナイトメア_\(バンド\).md "wikilink")12枚目のシングル。
 
 ## 概要
 
@@ -9,7 +9,7 @@
   - 2ヵ月連続リリースシングルの第2弾である。
   - オリコン週間チャートでは初登場8位を記録し、「[the WORLD/アルミナ](https://ja.wikipedia.org/wiki/the_WORLD/アルミナ "wikilink")」からの4作連続トップ10入りを果たした。
   - また、『魔人探偵脳噛ネウロ』第17話「追【チェイス】」放送時には、咲人が[声優](../Page/声優.md "wikilink")として通行人役を演じた。
-  - [RUKA](https://ja.wikipedia.org/wiki/RUKA "wikilink")のソロ・プロジェクト[The LEGENDARY SIX NINEのシングル](https://ja.wikipedia.org/wiki/RUKA#The_LEGENDARY_SIX_NINE "wikilink")「Cruel」にはDIRTYの[カバー](../Page/カバー.md "wikilink")が「？？？」として収録されている。
+  - [RUKA](../Page/RUKA.md "wikilink")のソロ・プロジェクト[The LEGENDARY SIX NINEのシングル](https://ja.wikipedia.org/wiki/RUKA#The_LEGENDARY_SIX_NINE "wikilink")「Cruel」にはDIRTYの[カバー](../Page/カバー.md "wikilink")が「？？？」として収録されている。
 
 ## 収録曲
 

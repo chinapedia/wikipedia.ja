@@ -1,7 +1,7 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[チェスター・A・アーサー](https://ja.wikipedia.org/wiki/チェスター・A・アーサー)から翻訳されています。
 
 
-**チェスター・アラン・アーサー**（, [1830年](../Page/1830年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1886年](../Page/1886年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[弁護士](../Page/弁護士.md "wikilink")、[政治家](https://ja.wikipedia.org/wiki/政治家 "wikilink")。第20代[副大統領及び第](../Page/アメリカ合衆国副大統領.md "wikilink")21代[大統領](../Page/アメリカ合衆国大統領.md "wikilink")。アーサーは[ジェームズ・ガーフィールド](../Page/ジェームズ・ガーフィールド.md "wikilink")大統領の下で副大統領に就任する前は、弁護士として働いていた。ガーフィールドが1881年7月2日に[チャールズ・J・ギトー](https://ja.wikipedia.org/wiki/チャールズ・J・ギトー "wikilink")によって瀕死の重傷を負わされ、同年9月19日に死去すると、アーサーは大統領として宣誓し、1885年3月4日まで同職を務めた。
+**チェスター・アラン・アーサー**（, [1830年](../Page/1830年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1886年](../Page/1886年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[弁護士](../Page/弁護士.md "wikilink")、[政治家](../Page/政治家.md "wikilink")。第20代[副大統領及び第](../Page/アメリカ合衆国副大統領.md "wikilink")21代[大統領](../Page/アメリカ合衆国大統領.md "wikilink")。アーサーは[ジェームズ・ガーフィールド](../Page/ジェームズ・ガーフィールド.md "wikilink")大統領の下で副大統領に就任する前は、弁護士として働いていた。ガーフィールドが1881年7月2日に[チャールズ・J・ギトー](https://ja.wikipedia.org/wiki/チャールズ・J・ギトー "wikilink")によって瀕死の重傷を負わされ、同年9月19日に死去すると、アーサーは大統領として宣誓し、1885年3月4日まで同職を務めた。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ### 生い立ち
 
-チェスター・アラン・アーサーはアイルランド出身の伝道師ウィリアム・アーサー（[アントリム州](https://ja.wikipedia.org/wiki/アントリム州 "wikilink")[バリミーナ](https://ja.wikipedia.org/wiki/バリミーナ "wikilink")、[カリーバッキー](https://ja.wikipedia.org/wiki/カリーバッキー "wikilink")生まれ）と、バーモント出身のマルヴァイナ・ストーン・アーサー夫妻の間に生まれた。マルヴァイナの祖父ユーライア・ストーンは、[独立戦争の間](../Page/アメリカ独立戦争.md "wikilink")[大陸軍で戦い](../Page/大陸軍_\(アメリカ\).md "wikilink")、自らの息子でありマルヴァイナの父親をジョージ・ワシントン・ストーンと命名した。マルヴァイナの母親はインディアンであった\[2\] 。チェスターが生まれたとき、父親はスコットランド＝アイルランド系イギリス人であったが、1843年にアメリカ合衆国に帰化した\[3\]。
+チェスター・アラン・アーサーはアイルランド出身の伝道師ウィリアム・アーサー（[アントリム州](../Page/アントリム州.md "wikilink")[バリミーナ](https://ja.wikipedia.org/wiki/バリミーナ "wikilink")、[カリーバッキー](https://ja.wikipedia.org/wiki/カリーバッキー "wikilink")生まれ）と、バーモント出身のマルヴァイナ・ストーン・アーサー夫妻の間に生まれた。マルヴァイナの祖父ユーライア・ストーンは、[独立戦争の間](../Page/アメリカ独立戦争.md "wikilink")[大陸軍で戦い](../Page/大陸軍_\(アメリカ\).md "wikilink")、自らの息子でありマルヴァイナの父親をジョージ・ワシントン・ストーンと命名した。マルヴァイナの母親はインディアンであった\[2\] 。チェスターが生まれたとき、父親はスコットランド＝アイルランド系イギリス人であったが、1843年にアメリカ合衆国に帰化した\[3\]。
 
 アーサーの先祖伝来の18世紀後半からの邸宅が北アイルランドのアントリム州に復元されている。コテージの利用案内センターではアーサー一家の歴史が説明され、訪問者に対してここ200年間のアイルランドにおける人々の生活の展示が行われている\[4\]。
 
@@ -29,7 +29,7 @@
 
 > 彼は最初にペリーのバプテスト教会に通った。教会の牧師は「年取ったアーサー」、チェスター・A・アーサーの父親であった。アーサーは小さな男の子で、ウェブスター氏は彼の家を訪問したとき、彼の頭に手を乗せて「この男の子はやがて大統領になるかもしれません。」と述べた。数年後ウェブスター氏はホワイトハウスを訪問して、アーサー大統領にその話をした。アーサーは彼の将来を予測した人物の名前は記憶に残っていなかったが、その事件は良く覚えていたと返答した。次に立ち上がって、彼はこう言った「あなたは再び私の頭に手を置くことができます。」
 
-彼はユニオン・ヴィレッジ（現在の[ワシントン郡南方](https://ja.wikipedia.org/wiki/ワシントン郡_\(ニューヨーク州\) "wikilink")、[グリーンウィッチ](https://ja.wikipedia.org/wiki/グリーンウィッチ_\(ニューヨーク州\) "wikilink")）の公立学校に通い、その後[ライシーアムに通った](https://ja.wikipedia.org/wiki/ライシーアム運動 "wikilink")。そこでは彼はチェットと呼ばれていた。ライシーアムでアーサーは他の若きホイッグ党員に加わり[ヘンリー・クレイ](https://ja.wikipedia.org/wiki/ヘンリー・クレイ "wikilink")を支持し、反対派と乱闘すらした\[10\]。
+彼はユニオン・ヴィレッジ（現在の[ワシントン郡南方](https://ja.wikipedia.org/wiki/ワシントン郡_\(ニューヨーク州\) "wikilink")、[グリーンウィッチ](https://ja.wikipedia.org/wiki/グリーンウィッチ_\(ニューヨーク州\) "wikilink")）の公立学校に通い、その後[ライシーアムに通った](https://ja.wikipedia.org/wiki/ライシーアム運動 "wikilink")。そこでは彼はチェットと呼ばれていた。ライシーアムでアーサーは他の若きホイッグ党員に加わり[ヘンリー・クレイ](../Page/ヘンリー・クレイ.md "wikilink")を支持し、反対派と乱闘すらした\[10\]。
 
 1845年に[ブラウン大学](../Page/ブラウン大学.md "wikilink")に進学、伝統的な古典を研究した。1848年、18歳で彼は[ファイ・ベータ・カッパ](https://ja.wikipedia.org/wiki/ファイ・ベータ・カッパ "wikilink")と、ディベート部の部長に選出された。彼はを支持し、それを示すためにしばしば緑色のコートを身につけた\[11\]。
 
@@ -47,35 +47,35 @@
 
 ### 大統領職
 
-アーサーは、美食家でお洒落な人物で、[ルイス・カムフォート・ティファニー](https://ja.wikipedia.org/wiki/ルイス・カムフォート・ティファニー "wikilink")らに[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")の改装をさせ、連夜パーティーを開いた。
+アーサーは、美食家でお洒落な人物で、[ルイス・カムフォート・ティファニー](../Page/ルイス・カムフォート・ティファニー.md "wikilink")らに[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")の改装をさせ、連夜パーティーを開いた。
 
 [ジェームズ・ガーフィールド](../Page/ジェームズ・ガーフィールド.md "wikilink")が暗殺され、アーサーは大統領に昇格した。彼は汚職と賄賂から利益を得ているとされ、共和党でも守旧派に属していた。そのため、彼が行政改革の主張者になり、ペンドルトン法の可決を統轄した時、多数が驚いた。ペンドルトン法は公務員任用・昇進の際に試験を導入し、それに伴い人事を決定するものであった。現在でこそ普遍的であるが、当時としては非常に画期的な制度であった。また、議会が企図した中国系移民の排斥を阻止している。他、関税法、エドモンド法（モルモン教の一夫多妻禁止の法律）の可決に関与している。
 
 #### 内閣
 
-| 職名                                                                            | 氏名                                                                                     | 任期          |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------- |
-| [大統領](../Page/アメリカ合衆国大統領.md "wikilink")                                       | **チェスター・A・アーサー**                                                                       | 1881 - 1885 |
-| [副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")                                     | なし                                                                                     | 1881 - 1885 |
-| [国務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国国務長官 "wikilink")                  | **[F・T・フリーリングハイゼン](https://ja.wikipedia.org/wiki/フレデリック・セオドア・フリーリングハイゼン "wikilink")**  | 1881 - 1885 |
-| [財務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国財務長官 "wikilink")                  | **[チャールズ・フォルジャー](https://ja.wikipedia.org/wiki/チャールズ・フォルジャー "wikilink")**              | 1881 - 1884 |
-| **[ウォルター・グレシャム](https://ja.wikipedia.org/wiki/ウォルター・グレシャム "wikilink")**       | 1884                                                                                   |             |
-| **[ヒュー・マカロック](https://ja.wikipedia.org/wiki/ヒュー・マカロック "wikilink")**           | 1884 - 1885                                                                            |             |
-| [陸軍長官](https://ja.wikipedia.org/wiki/アメリカ合衆国陸軍長官 "wikilink")                  | **[ロバート・T・リンカーン](https://ja.wikipedia.org/wiki/ロバート・トッド・リンカーン "wikilink")**            | 1881 - 1885 |
-| [司法長官](https://ja.wikipedia.org/wiki/アメリカ合衆国司法長官 "wikilink")                  | **[ベンジャミン・H・ブリュースター](https://ja.wikipedia.org/wiki/ベンジャミン・H・ブリュースター "wikilink")**      | 1881 - 1885 |
-| [郵政長官](../Page/アメリカ合衆国郵政長官.md "wikilink")                                     | **[ティモシー・O・ハウ](https://ja.wikipedia.org/wiki/ティモシー・O・ハウ "wikilink")**                  | 1881 - 1883 |
-| **[ウォルター・グレシャム](https://ja.wikipedia.org/wiki/ウォルター・グレシャム "wikilink")**       | 1883 - 1884                                                                            |             |
-| **[フランク・ハットン](https://ja.wikipedia.org/wiki/フランク・ハットン "wikilink")**           | 1884 - 1885                                                                            |             |
-| [海軍長官](https://ja.wikipedia.org/wiki/アメリカ合衆国海軍長官 "wikilink")                  | **[ウィリアム・ヘンリー・ハント](https://ja.wikipedia.org/wiki/ウィリアム・ヘンリー・ハント_\(海軍長官\) "wikilink")** | 1881 - 1882 |
-| **[ウィリアム・E・チャンドラー](https://ja.wikipedia.org/wiki/ウィリアム・E・チャンドラー "wikilink")** | 1882 - 1885                                                                            |             |
-| [内務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国内務長官 "wikilink")                  | **[サミュエル・J・カークウッド](https://ja.wikipedia.org/wiki/サミュエル・J・カークウッド "wikilink")**          | 1881 - 1882 |
-| **[ヘンリー・M・テラー](https://ja.wikipedia.org/wiki/ヘンリー・M・テラー "wikilink")**         | 1882 - 1885                                                                            |             |
+| 職名                                                                            | 氏名                                                                                | 任期          |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------- |
+| [大統領](../Page/アメリカ合衆国大統領.md "wikilink")                                       | **チェスター・A・アーサー**                                                                  | 1881 - 1885 |
+| [副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")                                     | なし                                                                                | 1881 - 1885 |
+| [国務長官](../Page/アメリカ合衆国国務長官.md "wikilink")                                     | **[F・T・フリーリングハイゼン](../Page/フレデリック・セオドア・フリーリングハイゼン.md "wikilink")**                | 1881 - 1885 |
+| [財務長官](../Page/アメリカ合衆国財務長官.md "wikilink")                                     | **[チャールズ・フォルジャー](../Page/チャールズ・フォルジャー.md "wikilink")**                            | 1881 - 1884 |
+| **[ウォルター・グレシャム](../Page/ウォルター・グレシャム.md "wikilink")**                          | 1884                                                                              |             |
+| **[ヒュー・マカロック](../Page/ヒュー・マカロック.md "wikilink")**                              | 1884 - 1885                                                                       |             |
+| [陸軍長官](../Page/アメリカ合衆国陸軍長官.md "wikilink")                                     | **[ロバート・T・リンカーン](../Page/ロバート・トッド・リンカーン.md "wikilink")**                          | 1881 - 1885 |
+| [司法長官](../Page/アメリカ合衆国司法長官.md "wikilink")                                     | **[ベンジャミン・H・ブリュースター](https://ja.wikipedia.org/wiki/ベンジャミン・H・ブリュースター "wikilink")** | 1881 - 1885 |
+| [郵政長官](../Page/アメリカ合衆国郵政長官.md "wikilink")                                     | **[ティモシー・O・ハウ](https://ja.wikipedia.org/wiki/ティモシー・O・ハウ "wikilink")**             | 1881 - 1883 |
+| **[ウォルター・グレシャム](../Page/ウォルター・グレシャム.md "wikilink")**                          | 1883 - 1884                                                                       |             |
+| **[フランク・ハットン](https://ja.wikipedia.org/wiki/フランク・ハットン "wikilink")**           | 1884 - 1885                                                                       |             |
+| [海軍長官](../Page/アメリカ合衆国海軍長官.md "wikilink")                                     | **[ウィリアム・ヘンリー・ハント](../Page/ウィリアム・ヘンリー・ハント_\(海軍長官\).md "wikilink")**               | 1881 - 1882 |
+| **[ウィリアム・E・チャンドラー](https://ja.wikipedia.org/wiki/ウィリアム・E・チャンドラー "wikilink")** | 1882 - 1885                                                                       |             |
+| [内務長官](https://ja.wikipedia.org/wiki/アメリカ合衆国内務長官 "wikilink")                  | **[サミュエル・J・カークウッド](https://ja.wikipedia.org/wiki/サミュエル・J・カークウッド "wikilink")**     | 1881 - 1882 |
+| **[ヘンリー・M・テラー](https://ja.wikipedia.org/wiki/ヘンリー・M・テラー "wikilink")**         | 1882 - 1885                                                                       |             |
 
 ### 大統領職後
 
 [Chester_Arthur_grave.jpg](https://ja.wikipedia.org/wiki/File:Chester_Arthur_grave.jpg "fig:Chester_Arthur_grave.jpg") アーサーは1885年3月4日まで大統領職を務めた。公職を退くと彼はニューヨークに戻り、元所属していた法律事務所の顧問となった。しかしながら、持病の肝臓疾患「[ブライト病](https://ja.wikipedia.org/wiki/ブライト病 "wikilink")」のためしばしば体調が優れなかった。[腎臓](../Page/腎臓.md "wikilink")と[膀胱](../Page/膀胱.md "wikilink")を患っているにもかかわらず、[美食家](https://ja.wikipedia.org/wiki/美食家 "wikilink")で知られた彼は暴飲暴食を続け、状態をさらに悪化させた。何度か公式行事に出席したものの、1885年の終わり以降スケジュールを入れることはなかった\[12\]。ニューロンドンで避暑した後、1886年10月1日に再び病床に伏せる。11月16日、アーサーは彼の公式および私的文書の全てを燃やすように命じた。翌朝、彼は脳出血のため意識不明となり、翌日死去した\[13\]。大統領職を離れた後一番短命であったジェームズ・ポークは退任後103日目に死去したが、アーサーはそれに次いで二番目に短命の大統領であった。
 
-11月22日、[ヘブンリー・レスト教会](https://ja.wikipedia.org/wiki/ヘブンリー・レスト教会 "wikilink")で密葬が行われた。棺の付添人は、[ウォルター・グレシャム](https://ja.wikipedia.org/wiki/ウォルター・グレシャム "wikilink")、[ロバート・トッド・リンカーン](https://ja.wikipedia.org/wiki/ロバート・トッド・リンカーン "wikilink")、[ウィリアム・E・チャンドラー](https://ja.wikipedia.org/wiki/ウィリアム・イートン・チャンドラー "wikilink")、[フランク・ハットン](https://ja.wikipedia.org/wiki/フランク・ハットン "wikilink")、[ベンジャミン・H・ブリュースター](https://ja.wikipedia.org/wiki/ベンジャミン・H・ブリュースター "wikilink")、[フィリップ・シェリダン](../Page/フィリップ・シェリダン.md "wikilink")、[コーネリアス・レイ・アグニュー](https://ja.wikipedia.org/wiki/コーネリアス・レイ・アグニュー "wikilink")、[コーネリアス・ニュートン・ブリス](https://ja.wikipedia.org/wiki/コーネリアス・ニュートン・ブリス "wikilink")、[ロバート・G・ダン](https://ja.wikipedia.org/wiki/ロバート・G・ダン "wikilink")、[ジョージ・H・シャープ](https://ja.wikipedia.org/wiki/ジョージ・H・シャープ "wikilink")、[チャールズ・ルイス・ティファニー](https://ja.wikipedia.org/wiki/チャールズ・ルイス・ティファニー "wikilink")、[コーネリアス・ヴァンダービルト](../Page/コーネリアス・ヴァンダービルト.md "wikilink")であった。葬儀には[グロバー・クリーブランド](../Page/グロバー・クリーブランド.md "wikilink")大統領、[ラザフォード・ヘイズ](../Page/ラザフォード・ヘイズ.md "wikilink")元大統領、[ベンジャミン・フランクリン・バトラー](https://ja.wikipedia.org/wiki/ベンジャミン・フランクリン・バトラー_\(マサチューセッツ州知事\) "wikilink")、[モリソン・ウェイト](https://ja.wikipedia.org/wiki/モリソン・ウェイト "wikilink")、[サミュエル・ブラッチフォード](https://ja.wikipedia.org/wiki/サミュエル・ブラッチフォード "wikilink")、[ジョン・マーシャル・ハーラン](https://ja.wikipedia.org/wiki/ジョン・マーシャル・ハーラン "wikilink")、[ロスコー・コンクリング](https://ja.wikipedia.org/wiki/ロスコー・コンクリング "wikilink")、および[ジェームズ・G・ブレイン](https://ja.wikipedia.org/wiki/ジェームズ・G・ブレイン "wikilink")らが参列した\[14\]。
+11月22日、[ヘブンリー・レスト教会](https://ja.wikipedia.org/wiki/ヘブンリー・レスト教会 "wikilink")で密葬が行われた。棺の付添人は、[ウォルター・グレシャム](../Page/ウォルター・グレシャム.md "wikilink")、[ロバート・トッド・リンカーン](../Page/ロバート・トッド・リンカーン.md "wikilink")、[ウィリアム・E・チャンドラー](../Page/ウィリアム・イートン・チャンドラー.md "wikilink")、[フランク・ハットン](https://ja.wikipedia.org/wiki/フランク・ハットン "wikilink")、[ベンジャミン・H・ブリュースター](https://ja.wikipedia.org/wiki/ベンジャミン・H・ブリュースター "wikilink")、[フィリップ・シェリダン](../Page/フィリップ・シェリダン.md "wikilink")、[コーネリアス・レイ・アグニュー](https://ja.wikipedia.org/wiki/コーネリアス・レイ・アグニュー "wikilink")、[コーネリアス・ニュートン・ブリス](https://ja.wikipedia.org/wiki/コーネリアス・ニュートン・ブリス "wikilink")、[ロバート・G・ダン](https://ja.wikipedia.org/wiki/ロバート・G・ダン "wikilink")、[ジョージ・H・シャープ](https://ja.wikipedia.org/wiki/ジョージ・H・シャープ "wikilink")、[チャールズ・ルイス・ティファニー](https://ja.wikipedia.org/wiki/チャールズ・ルイス・ティファニー "wikilink")、[コーネリアス・ヴァンダービルト](../Page/コーネリアス・ヴァンダービルト.md "wikilink")であった。葬儀には[グロバー・クリーブランド](../Page/グロバー・クリーブランド.md "wikilink")大統領、[ラザフォード・ヘイズ](../Page/ラザフォード・ヘイズ.md "wikilink")元大統領、[ベンジャミン・フランクリン・バトラー](https://ja.wikipedia.org/wiki/ベンジャミン・フランクリン・バトラー_\(マサチューセッツ州知事\) "wikilink")、[モリソン・ウェイト](https://ja.wikipedia.org/wiki/モリソン・ウェイト "wikilink")、[サミュエル・ブラッチフォード](https://ja.wikipedia.org/wiki/サミュエル・ブラッチフォード "wikilink")、[ジョン・マーシャル・ハーラン](https://ja.wikipedia.org/wiki/ジョン・マーシャル・ハーラン "wikilink")、[ロスコー・コンクリング](https://ja.wikipedia.org/wiki/ロスコー・コンクリング "wikilink")、および[ジェームズ・G・ブレイン](https://ja.wikipedia.org/wiki/ジェームズ・G・ブレイン "wikilink")らが参列した\[14\]。
 
 チェスターはオールバニのルーラル墓地にあるアーサー家の墓所、エレンの横に埋葬された。墓所は親族と先祖の多くの墓を含む大きな石棺であり、彫刻家の[エフライム・カイザー](https://ja.wikipedia.org/wiki/エフライム・カイザー "wikilink")が設計した。
 
@@ -86,7 +86,7 @@
 ## 関連項目
 
   - [1880年アメリカ合衆国大統領選挙](https://ja.wikipedia.org/wiki/1880年アメリカ合衆国大統領選挙 "wikilink")
-  - [ダイ・ハード3](https://ja.wikipedia.org/wiki/ダイ・ハード3 "wikilink")
+  - [ダイ・ハード3](../Page/ダイ・ハード3.md "wikilink")
 
 <!-- end list -->
 

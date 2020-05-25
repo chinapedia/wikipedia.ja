@@ -1,4 +1,4 @@
-> この記事は[BEAUTIFUL GIRLS \(\)](https://ja.wikipedia.org/wiki/BEAUTIFUL_GIRLS_\(\))から翻訳されています。
+> この記事は[BEAUTIFUL GIRLS \(小泉今日子の曲\)](https://ja.wikipedia.org/wiki/BEAUTIFUL_GIRLS_\(小泉今日子の曲\))から翻訳されています。
 
 
 「**BEAUTIFUL GIRLS**」（ビューティフル・ガール）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月にリリースした37枚目のシングルである。

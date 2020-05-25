@@ -1,19 +1,17 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[グループN](https://ja.wikipedia.org/wiki/グループN)から翻訳されています。
 
 
-[Evgeny_Novikov_won_2nd_place_in_PWRC_on_Rally_JapЕвгений_Новиков_занял_2_место_в_классе_Production_WRC_на_ралли_Японии_2008an_2008.jpg](https://ja.wikipedia.org/wiki/File:Evgeny_Novikov_won_2nd_place_in_PWRC_on_Rally_JapЕвгений_Новиков_занял_2_место_в_классе_Production_WRC_на_ралли_Японии_2008an_2008.jpg "fig:Evgeny_Novikov_won_2nd_place_in_PWRC_on_Rally_JapЕвгений_Новиков_занял_2_место_в_классе_Production_WRC_на_ралли_Японии_2008an_2008.jpg")グループN仕様（2008年）\]\]
-
-**グループN**は、[自動車レースに使用する競技車両のカテゴリーの](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")1つ。
+[Evgeny_Novikov_won_2nd_place_in_PWRC_on_Rally_JapЕвгений_Новиков_занял_2_место_в_классе_Production_WRC_на_ралли_Японии_2008an_2008.jpg](https://ja.wikipedia.org/wiki/File:Evgeny_Novikov_won_2nd_place_in_PWRC_on_Rally_JapЕвгений_Новиков_занял_2_место_в_классе_Production_WRC_на_ралли_Японии_2008an_2008.jpg "fig:Evgeny_Novikov_won_2nd_place_in_PWRC_on_Rally_JapЕвгений_Новиков_занял_2_место_в_классе_Production_WRC_на_ралли_Японии_2008an_2008.jpg")グループN仕様（2008年）\]\] **グループN**は、[自動車レースに使用する競技車両のカテゴリーの](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")1つ。
 
 ## 概要
 
-[GundeSvanMondello1994.jpg](https://ja.wikipedia.org/wiki/File:GundeSvanMondello1994.jpg "fig:GundeSvanMondello1994.jpg")の[トヨタ・セリカ GT FourグループN仕様](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")（1994年）\]\] [1981年](../Page/1981年.md "wikilink")に[FIAの下部組織だったFISA](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")（国際自動車スポーツ連盟）によって、それまで1から8の数字によって形成されていたレギュレーション（国際スポーツ法典・付則J項）を、AからF・N・Tという8つのアルファベットへ簡略化したものの1つである。部門Ⅰ（量産車部門）に所属し、「**プロダクションカー**（無改造車）」と定義される。一般の市販車にレース用の改造を施すという点で[グループA](https://ja.wikipedia.org/wiki/グループA "wikilink")や[グループB](https://ja.wikipedia.org/wiki/グループB "wikilink")と同じだが、その改造範囲は狭く、現状FIAで最も市販車に近い規定である。
+[GundeSvanMondello1994.jpg](https://ja.wikipedia.org/wiki/File:GundeSvanMondello1994.jpg "fig:GundeSvanMondello1994.jpg")の[トヨタ・セリカ GT FourグループN仕様](../Page/トヨタ・セリカ.md "wikilink")（1994年）\]\] [1981年](../Page/1981年.md "wikilink")に[国際自動車連盟](../Page/国際自動車連盟.md "wikilink")（FIA）の下部組織だった国際自動車スポーツ連盟（FISA）によって、それまで1から8の数字によって形成されていたレギュレーション（国際スポーツ法典・付則J項）を、AからF・N・Tという8つのアルファベットへ簡略化したものの1つである。部門Ⅰ（量産車部門）に所属し、「**プロダクションカー**（無改造車）」と定義される。一般の市販車にレース用の改造を施すという点で[グループA](../Page/グループA.md "wikilink")や[グループB](../Page/グループB.md "wikilink")と同じだが、その改造範囲は狭く、現状FIAで最も市販車に近い規定である。
 
-連続した12か月間に2,500台以上（1993年より．それ以前は5,000台以上）生産された4座席以上の車両で、[グループA](https://ja.wikipedia.org/wiki/グループA "wikilink")の[ホモロゲーション](https://ja.wikipedia.org/wiki/ホモロゲーション "wikilink")を取得した車がホモロゲーションの対象となる。つまりグループNホモロゲーション取得車は、同時にグループAホモロゲーション取得車である。なお[PWRC](https://ja.wikipedia.org/wiki/PWRC "wikilink")では参戦車種を増やすための特例として、生産台数が1,000台以上ならホモロゲーション取得が認められていた。生産を中止した日から7年後に公認は無効となる。
+連続した12か月間に2,500台以上（1993年より．それ以前は5,000台以上）生産された4座席以上の車両で、[グループA](../Page/グループA.md "wikilink")の[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")を取得した車がホモロゲーションの対象となる。つまりグループNホモロゲーション取得車は、同時にグループAホモロゲーション取得車である。なお[プロダクションカー世界ラリー選手権](../Page/プロダクションカー世界ラリー選手権.md "wikilink")（PWRC）では参戦車種を増やすための特例として、生産台数が1,000台以上ならホモロゲーション取得が認められていた。生産を中止した日から7年後に公認は無効となる。
 
-排気量1400cc以下は"N1"、1401～1600ccは"N2"、1601～2000ccは"N3"、2000cc以上は"N4"にそれぞれ分類される。またターボ車は排気量に1.7倍を乗じた数を適用する。
+排気量1,400cc以下は"N1"、1,401～1,600ccは"N2"、1,601～2,000ccは"N3"、2,000cc以上は"N4"にそれぞれ分類される。また[過給機](../Page/過給機.md "wikilink")付は排気量に1.7倍を乗じた数を適用する。
 
-排気量・最低車重・使用ホイール径・幅・前後最低地上高・前後最大トレッド、駆動形式、サスペンションの形式やストローク量は車種毎に申請されたホモロゲーションシートの数値を遵守することが求められるため、ベース車となる市販車そのものの性能の高さが要求される。一方で消火機器や[ロールケージ](../Page/ロールケージ.md "wikilink")の装備といった一通りの安全対策に加え、座席の取り外し、[サスペンション](../Page/サスペンション.md "wikilink")・[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")・[ブレーキ](../Page/ブレーキ.md "wikilink")類（パッドやキャリパー・ローター・ホース）などの素材の変更、エンジン[ECU](https://ja.wikipedia.org/wiki/ECU "wikilink")のチューニングなどができるため、「市販車」というにはほど遠い部分も多い。また00年代末期のPWRCではインタークーラーの変更やエンジン及びオイルクーラーの取り外しなど改造範囲が拡大され、各コンストラクターによる開発競争が過熱した\[1\]。
+排気量・最低車重・使用ホイール径・幅・前後最低地上高・前後最大トレッド、駆動形式、サスペンションの形式やストローク量は車種毎に申請されたホモロゲーションシートの数値を遵守することが求められるため、ベース車となる市販車そのものの性能の高さが要求される。一方で消火機器や[ロールケージ](../Page/ロールケージ.md "wikilink")の装備といった一通りの安全対策に加え、座席の取り外し、[サスペンション](../Page/サスペンション.md "wikilink")・[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")・[ブレーキ](../Page/ブレーキ.md "wikilink")類（パッドやキャリパー・ローター・ホース）などの素材の変更、[エンジンコントロールユニット](../Page/エンジンコントロールユニット.md "wikilink")のチューニングなどができるため、「市販車」というにはほど遠い部分も多い。また00年代末期のPWRCでは[インタークーラー](../Page/インタークーラー.md "wikilink")の変更やエンジン及びオイルクーラーの取り外しなど改造範囲が拡大され、各コンストラクターによる開発競争が過熱した\[1\]。
 
 90年代中期以降のグループNカップおよび[PWRC](https://ja.wikipedia.org/wiki/PWRC "wikilink")は1999年から2001年までの三菱28連勝のようにN4の[スバル・インプレッサ](../Page/スバル・インプレッサ.md "wikilink")と[三菱・ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")の寡占状態となっていたため、他社の参入が難しい状況となっていた。そこでFIAは[グループR](https://ja.wikipedia.org/wiki/グループR "wikilink")1～R3(現グループR3～Rally5)や[スーパー2000](https://ja.wikipedia.org/wiki/スーパー2000 "wikilink")を同カテゴリに編入した。しかし今度はスーパー2000にN4が太刀打ちするのが難しくなってしまったため、N4の改造範囲を広げた**グループR4**を誕生させた。だが結局R4の戦闘力はスーパー2000に並ぶには至らず、2015年を持ってR4はFIA主催シリーズの欧州イベントでの使用が不可とされた。
 
@@ -32,7 +30,7 @@
 
 以下はJAFの公認によりグループNと同等のレギュレーションの車両を用いるカテゴリ。
 
-  - [スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")
+  - [スーパー耐久](../Page/スーパー耐久.md "wikilink")
   - [全日本ラリー選手権](https://ja.wikipedia.org/wiki/全日本ラリー選手権 "wikilink")
 
 ## グループNの主な車種
@@ -41,39 +39,39 @@
 
   - [三菱・ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")
   - [スバル・インプレッサ](../Page/スバル・インプレッサ.md "wikilink")
-  - [スズキ・スイフト](https://ja.wikipedia.org/wiki/スズキ・スイフト "wikilink")
-  - [ダイハツ・ストーリア](https://ja.wikipedia.org/wiki/ダイハツ・ストーリア "wikilink")
-  - [ダイハツ・ブーン](https://ja.wikipedia.org/wiki/ダイハツ・ブーン "wikilink")
+  - [スズキ・スイフト](../Page/スズキ・スイフト.md "wikilink")
+  - [ダイハツ・ストーリア](../Page/ダイハツ・ストーリア.md "wikilink")
+  - [ダイハツ・ブーン](../Page/ダイハツ・ブーン.md "wikilink")
   - [マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")
-  - [ホンダ・シビックタイプR](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR "wikilink")
-  - [ランチア・デルタ](https://ja.wikipedia.org/wiki/ランチア・デルタ "wikilink")
+  - [ホンダ・シビックタイプR](../Page/ホンダ・シビックタイプR.md "wikilink")
+  - [ランチア・デルタ](../Page/ランチア・デルタ.md "wikilink")
   - [フォード・エスコートRS](https://ja.wikipedia.org/wiki/フォード・エスコート・コスワース "wikilink")
-  - [フォード・フィエスタ](https://ja.wikipedia.org/wiki/フォード・フィエスタ "wikilink")
-  - [フォード・フォーカス](https://ja.wikipedia.org/wiki/フォード・フォーカス "wikilink")
+  - [フォード・フィエスタ](../Page/フォード・フィエスタ.md "wikilink")
+  - [フォード・フォーカス](../Page/フォード・フォーカス.md "wikilink")
   - [シュコダ・オクタビア](https://ja.wikipedia.org/wiki/シュコダ・オクタビア "wikilink")
   - [シュコダ・ファビア](../Page/シュコダ・ファビア.md "wikilink")
   - [プジョー・206](../Page/プジョー・206.md "wikilink")
-  - [プジョー・307](https://ja.wikipedia.org/wiki/プジョー・307 "wikilink")
+  - [プジョー・307](../Page/プジョー・307.md "wikilink")
   - [ルノー・クリオ](../Page/ルノー・クリオ.md "wikilink")
   - [フィアット・パンダ](https://ja.wikipedia.org/wiki/フィアット・パンダ "wikilink")
   - [フォルクスワーゲン・ポロ](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ポロ "wikilink")
-  - [BMW・1シリーズ](https://ja.wikipedia.org/wiki/BMW・1シリーズ "wikilink")
-  - [BMW・3シリーズ](https://ja.wikipedia.org/wiki/BMW・3シリーズ "wikilink")
+  - [BMW・1シリーズ](../Page/BMW・1シリーズ.md "wikilink")
+  - [BMW・3シリーズ](../Page/BMW・3シリーズ.md "wikilink")
 
-以下はFIAのグループNのホモロゲーションを取得していないものの、[JAF](https://ja.wikipedia.org/wiki/JAF "wikilink")の公認によりグループNとほぼ同等のレギュレーションで[スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")や[全日本ラリー選手権](https://ja.wikipedia.org/wiki/全日本ラリー選手権 "wikilink")等に出ている車種である。 [Gazoo_Racing_Toyota_86_2012_Super_Taikyu_Suzuka_300km.jpg](https://ja.wikipedia.org/wiki/File:Gazoo_Racing_Toyota_86_2012_Super_Taikyu_Suzuka_300km.jpg "fig:Gazoo_Racing_Toyota_86_2012_Super_Taikyu_Suzuka_300km.jpg")ST-4クラスの[トヨタ・86](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")（2012年）\]\]
+以下はFIAのグループNのホモロゲーションを取得していないものの、[日本自動車連盟](../Page/日本自動車連盟.md "wikilink")（JAF）の公認によりグループNとほぼ同等のレギュレーションで[スーパー耐久](../Page/スーパー耐久.md "wikilink")や[全日本ラリー選手権](https://ja.wikipedia.org/wiki/全日本ラリー選手権 "wikilink")等に出ている車種である。 [Gazoo_Racing_Toyota_86_2012_Super_Taikyu_Suzuka_300km.jpg](https://ja.wikipedia.org/wiki/File:Gazoo_Racing_Toyota_86_2012_Super_Taikyu_Suzuka_300km.jpg "fig:Gazoo_Racing_Toyota_86_2012_Super_Taikyu_Suzuka_300km.jpg")ST-4クラスの[トヨタ・86](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")（2012年）\]\]
 
   - [マツダ・RX-7](../Page/マツダ・RX-7.md "wikilink")
-  - [日産・スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")
+  - [日産・スカイライン](../Page/日産・スカイライン.md "wikilink")
   - [ホンダ・NSX](../Page/ホンダ・NSX.md "wikilink")
   - [ホンダ・インテグラタイプR](../Page/ホンダ・インテグラタイプR.md "wikilink")
   - [ホンダ・S2000](../Page/ホンダ・S2000.md "wikilink")
-  - [ポルシェ・911](https://ja.wikipedia.org/wiki/ポルシェ・911 "wikilink")
+  - [ポルシェ・911](../Page/ポルシェ・911.md "wikilink")
   - [BMW・Z4](../Page/BMW・Z4.md "wikilink")
-  - [三菱・コルト](https://ja.wikipedia.org/wiki/三菱・コルト "wikilink")
-  - [トヨタ・ヴィッツ](https://ja.wikipedia.org/wiki/トヨタ・ヴィッツ "wikilink")
-  - [トヨタ・マークX](https://ja.wikipedia.org/wiki/トヨタ・マークX "wikilink")
-  - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")
-  - [レクサス・GS](https://ja.wikipedia.org/wiki/レクサス・GS "wikilink")350
+  - [三菱・コルト](../Page/三菱・コルト.md "wikilink")
+  - [トヨタ・ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")
+  - [トヨタ・マークX](../Page/トヨタ・マークX.md "wikilink")
+  - [トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")
+  - [レクサス・GS](../Page/レクサス・GS.md "wikilink")350
   - [ホンダ・フィット](../Page/ホンダ・フィット.md "wikilink")
   - [マツダ・デミオ](../Page/マツダ・デミオ.md "wikilink")
   - [トヨタ・86](https://ja.wikipedia.org/wiki/トヨタ・86 "wikilink")/[スバル・BRZ](https://ja.wikipedia.org/wiki/スバル・BRZ "wikilink")
@@ -90,13 +88,13 @@
   - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
   - [プロダクションカー世界ラリー選手権](../Page/プロダクションカー世界ラリー選手権.md "wikilink")
   - [世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink")
-  - [スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")
-  - [グループA](https://ja.wikipedia.org/wiki/グループA "wikilink")
-  - [グループB](https://ja.wikipedia.org/wiki/グループB "wikilink")
+  - [スーパー耐久](../Page/スーパー耐久.md "wikilink")
+  - [グループA](../Page/グループA.md "wikilink")
+  - [グループB](../Page/グループB.md "wikilink")
   - [グループCN](https://ja.wikipedia.org/wiki/グループCN "wikilink")
   - [グループR](https://ja.wikipedia.org/wiki/グループR "wikilink")
-  - [国際自動車連盟](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")
-  - [ホモロゲーション](https://ja.wikipedia.org/wiki/ホモロゲーション "wikilink")
+  - [国際自動車連盟](../Page/国際自動車連盟.md "wikilink")
+  - [ホモロゲーション](../Page/ホモロゲーション.md "wikilink")
 
 [Category:国際自動車連盟](https://ja.wikipedia.org/wiki/Category:国際自動車連盟 "wikilink") [Category:自動車レース](https://ja.wikipedia.org/wiki/Category:自動車レース "wikilink") [Category:レーシングカー](https://ja.wikipedia.org/wiki/Category:レーシングカー "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink")
 

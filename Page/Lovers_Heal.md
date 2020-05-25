@@ -5,7 +5,7 @@
 
 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。[2007年](../Page/2007年.md "wikilink")に[ブルー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ブルー・ミュージックエンタテインメント "wikilink")よりデビュー。
 
-元々は**玉井 美輪**（たまいみわ）の名前で歌手・タレント活動を行っていた。一時は現在の芸名と同名のR\&Bグループを結成し、[2004年](../Page/2004年.md "wikilink")には[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クラリオン](https://ja.wikipedia.org/wiki/クラリオン "wikilink")が共同で行ったオーディション企画『MEDAMA2004』でファイナルにまで進出した経験がある\[1\]。その後ソロ活動に転じ、2007年公開の映画『[TheEARS](../Page/TheEARS.md "wikilink")』では挿入歌を担当すると共に映画自体にも出演しているが、同年5月よりかつてのグループ名を芸名として使うようになった。
+元々は**玉井 美輪**（たまいみわ）の名前で歌手・タレント活動を行っていた。一時は現在の芸名と同名のR\&Bグループを結成し、[2004年](../Page/2004年.md "wikilink")には[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クラリオン](../Page/クラリオン.md "wikilink")が共同で行ったオーディション企画『MEDAMA2004』でファイナルにまで進出した経験がある\[1\]。その後ソロ活動に転じ、2007年公開の映画『[TheEARS](../Page/TheEARS.md "wikilink")』では挿入歌を担当すると共に映画自体にも出演しているが、同年5月よりかつてのグループ名を芸名として使うようになった。
 
 ## ディスコグラフィー
 
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
   - [LEXY](../Page/LEXY.md "wikilink")
   - [SHIBUYA-FM](https://ja.wikipedia.org/wiki/SHIBUYA-FM "wikilink")
 

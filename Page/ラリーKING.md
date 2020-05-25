@@ -1,4 +1,4 @@
-> この記事は[KING](https://ja.wikipedia.org/wiki/KING)から翻訳されています。
+> この記事は[ラリーKING](https://ja.wikipedia.org/wiki/ラリーKING)から翻訳されています。
 
 
 『**ラリーKING**』（ラリーキング）とは[日本テレビで放送されていた番組](../Page/日本テレビ放送網.md "wikilink")。[サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")内で2度放送され、2008年12月6日から2ヶ月限定で土曜17:00-17:30に放送。
@@ -23,7 +23,7 @@
 
   - [中山秀征](../Page/中山秀征.md "wikilink")
   - [葉山エレーヌ](https://ja.wikipedia.org/wiki/葉山エレーヌ "wikilink")（日本テレビアナウンサー）- 第1回
-  - [脊山麻理子](https://ja.wikipedia.org/wiki/脊山麻理子 "wikilink")（日本テレビアナウンサー）- 第2回、レギュラー放送第3回～
+  - [脊山麻理子](../Page/脊山麻理子.md "wikilink")（日本テレビアナウンサー）- 第2回、レギュラー放送第3回～
   - [宮崎宣子](https://ja.wikipedia.org/wiki/宮崎宣子 "wikilink")（日本テレビアナウンサー）- レギュラー放送第1回、第2回
 
 ## 単発特番
@@ -82,7 +82,7 @@
 
 ### 過去のスタッフ
 
-  - （チーフプロデューサー） [土屋泰則](https://ja.wikipedia.org/wiki/土屋泰則 "wikilink")
+  - （チーフプロデューサー） [土屋泰則](../Page/土屋泰則.md "wikilink")
 
 ## レギュラー放送ネット局
 
@@ -121,7 +121,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a> (KRY)</p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a> (KRY)</p></td>
 <td><p>水曜 24:29 - 24:59</p></td>
 <td><p>11日遅れ</p></td>
 <td></td>
@@ -134,7 +134,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島讀賣テレビ.md" title="wikilink">鹿児島読売テレビ</a> (KYT)</p></td>
 <td><p>火曜 24:59 - 25:29</p></td>
 <td><p>不明</p></td>

@@ -1,7 +1,7 @@
 > この記事は[Don\'t start now](https://ja.wikipedia.org/wiki/Don\'t_start_now)から翻訳されています。
 
 
-**Don't start now**（ドント・スタート・ナウ）は、[BoA](../Page/BoA.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での6枚目のシングル。
+「**Don't start now**」（ドント・スタート・ナウ）は、[BoA](../Page/BoA.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での6枚目のシングル。
 
 ## 解説
 
@@ -23,4 +23,4 @@
   - 1st ALBUM『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』（M-1）
   - 韓国1.5集『[Don't start now - Jumping into the World](../Page/Don't_start_now_-_Jumping_into_the_World.md "wikilink")』（M-2,3）
 
-[Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
+[Category:BoAの楽曲](https://ja.wikipedia.org/wiki/Category:BoAの楽曲 "wikilink") [Category:ユ・ヨンジンが作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:ユ・ヨンジンが作詞作曲した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[CCJ \(\)](https://ja.wikipedia.org/wiki/CCJ_\(\))から翻訳されています。
+> この記事は[CCJ \(株式会社\)](https://ja.wikipedia.org/wiki/CCJ_\(株式会社\))から翻訳されています。
 
 
 **株式会社CCJ**（シーシージェイ）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")に本社を置く[MSO](https://ja.wikipedia.org/wiki/ケーブルテレビ#MSO "wikilink")（[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")の統括運営会社）である。
@@ -12,7 +12,7 @@
 ## 沿革
 
   - [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[10月1日](../Page/10月1日.md "wikilink") - 設立。
-  - [2012年](../Page/2012年.md "wikilink")（平成24年）[12月21日](../Page/12月21日.md "wikilink") - 株式会社[フジクラ](https://ja.wikipedia.org/wiki/フジクラ "wikilink")より株式会社[ケーブルネット鈴鹿](../Page/ケーブルネット鈴鹿.md "wikilink")の発行済株式61.53%を取得し子会社化\[2\]。
+  - [2012年](../Page/2012年.md "wikilink")（平成24年）[12月21日](../Page/12月21日.md "wikilink") - 株式会社[フジクラ](../Page/フジクラ.md "wikilink")より株式会社[ケーブルネット鈴鹿](../Page/ケーブルネット鈴鹿.md "wikilink")の発行済株式61.53%を取得し子会社化\[2\]。
 
 ## グループ会社
 

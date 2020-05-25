@@ -1,7 +1,7 @@
-> この記事は[ vs!\? !!](https://ja.wikipedia.org/wiki/_vs!\?_!!)から翻訳されています。
+> この記事は[銀魂 銀時vs土方!\? かぶき町銀玉大争奪戦!!](https://ja.wikipedia.org/wiki/銀魂_銀時vs土方!\?_かぶき町銀玉大争奪戦!!)から翻訳されています。
 
 
-『**銀魂 銀時vs土方\!? かぶき町銀玉大争奪戦\!\!**』（ぎんたま ぎんときvsひじかた\!?かぶきちょうぎんたまだいそうだつせん\!\!）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")に発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")であり、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")参入第1弾ソフトである。空知英秋の漫画『[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")』のゲーム化作品であり、ジャンルは「ギンタマルチアドベンチャー」。
+『**銀魂 銀時vs土方\!? かぶき町銀玉大争奪戦\!\!**』（ぎんたま ぎんときvsひじかた\!?かぶきちょうぎんたまだいそうだつせん\!\!）は、[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")であり、[バンプレスト](../Page/バンプレスト.md "wikilink")の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")参入第1弾ソフトである。空知英秋の漫画『[銀魂](https://ja.wikipedia.org/wiki/銀魂 "wikilink")』のゲーム化作品であり、ジャンルは「ギンタマルチアドベンチャー」。
 
 ## 操作可能キャラ
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [坂田銀時](https://ja.wikipedia.org/wiki/坂田銀時 "wikilink")
+    [坂田銀時](../Page/坂田銀時.md "wikilink")
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
   -
     坂田銀時
-    [志村新八](https://ja.wikipedia.org/wiki/志村新八 "wikilink")
+    [志村新八](../Page/志村新八.md "wikilink")
     [神楽](../Page/神楽_\(銀魂\).md "wikilink")
 
 <!-- end list -->

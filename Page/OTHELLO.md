@@ -9,7 +9,7 @@
 
 ### 月曜
 
-  - [清水ミチコ](../Page/清水ミチコ.md "wikilink")、[坂井美唯子](https://ja.wikipedia.org/wiki/坂井美唯子 "wikilink")
+  - [清水ミチコ](../Page/清水ミチコ.md "wikilink")、[坂井美唯子](../Page/坂井美唯子.md "wikilink")
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@
 
 ### 水曜
 
-  - [笹野みちる](https://ja.wikipedia.org/wiki/笹野みちる "wikilink")
+  - [笹野みちる](../Page/笹野みちる.md "wikilink")
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
-> この記事は[DAYS!!](https://ja.wikipedia.org/wiki/DAYS!!)から翻訳されています。
+> この記事は[ヤングDAYS!!](https://ja.wikipedia.org/wiki/ヤングDAYS!!)から翻訳されています。
 
 
-「**ヤングDAYS\!\!**」（ヤングデイズ）は、[THE ポッシボーのデビュー](https://ja.wikipedia.org/wiki/チャオ_ベッラ_チンクエッティ "wikilink")・シングル。
+「**ヤングDAYS\!\!**」（ヤングデイズ）は、[THE ポッシボーのデビュー](../Page/チャオ_ベッラ_チンクエッティ.md "wikilink")・シングル。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 1.  **ヤングDAYS\!\!**
       -
-        作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")、編曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
+        作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")、編曲：[高橋諭一](../Page/高橋諭一.md "wikilink")
         ※「新Aiaiミュージックカーニバル」オープニングテーマソング
 
 ## 注釈
@@ -25,4 +25,4 @@
 
 [Category:2006年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2006年のデビュー・シングル "wikilink") [Category:THE_ポッシボーの楽曲](https://ja.wikipedia.org/wiki/Category:THE_ポッシボーの楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
 
-1.  モーニング娘。のそれに当たる楽曲は、発売時期とタイアップから2005年1月19日発売の「[THE マンパワー\!\!\!](https://ja.wikipedia.org/wiki/THE_マンパワー!!! "wikilink")」（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")公式応援歌）である可能性が高い。
+1.  モーニング娘。のそれに当たる楽曲は、発売時期とタイアップから2005年1月19日発売の「[THE マンパワー\!\!\!](../Page/THE_マンパワー!!!.md "wikilink")」（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")公式応援歌）である可能性が高い。

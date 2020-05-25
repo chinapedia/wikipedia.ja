@@ -1,11 +1,11 @@
-> この記事は[goo](https://ja.wikipedia.org/wiki/goo)から翻訳されています。
+> この記事は[緑のgoo](https://ja.wikipedia.org/wiki/緑のgoo)から翻訳されています。
 
 
-**緑のgoo**（みどりのグー）は、検索などのサービスの収益の一部を[環境保護](https://ja.wikipedia.org/wiki/環境保護 "wikilink")の活動に寄与する目的で[NTTレゾナント](https://ja.wikipedia.org/wiki/NTTレゾナント "wikilink")が開設した特設サイト。
+**緑のgoo**（みどりのグー）は、検索などのサービスの収益の一部を[環境保護](https://ja.wikipedia.org/wiki/環境保護 "wikilink")の活動に寄与する目的で[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")が開設した特設サイト。
 
 ## 概要
 
-NTTレゾナントでは1999年頃から環境[ポータルサイト](../Page/ポータルサイト.md "wikilink")の「[環境goo](https://ja.wikipedia.org/wiki/環境goo "wikilink")」を公開しているが、検索などのサービスによる収益の一部を環境問題に取り組む[環境保護団体](https://ja.wikipedia.org/wiki/環境保護団体 "wikilink")に寄付する目的で、特設サイトとして[2007年](../Page/2007年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に緑のgooを開設した\[1\]。
+NTTレゾナントでは1999年頃から環境[ポータルサイト](../Page/ポータルサイト.md "wikilink")の「[環境goo](https://ja.wikipedia.org/wiki/環境goo "wikilink")」を公開しているが、検索などのサービスによる収益の一部を環境問題に取り組む[環境保護団体](../Page/環境保護団体.md "wikilink")に寄付する目的で、特設サイトとして[2007年](../Page/2007年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に緑のgooを開設した\[1\]。
 
 ユーザーが緑のgooの検索機能を利用したり、ニュースなどのコンテンツを閲覧することで、緑のgooが得た収益の一部が寄付につながる。検索などの利用状況に応じて緑のgooのトップページに表示される「里山どうぶつコレクション」でより多くの動物を集めることで、環境保護活動への寄与度を視覚的に確認することができる。
 

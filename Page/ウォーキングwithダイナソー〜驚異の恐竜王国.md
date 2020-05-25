@@ -1,17 +1,17 @@
-> この記事は[with](https://ja.wikipedia.org/wiki/with)から翻訳されています。
+> この記事は[ウォーキングwithダイナソー〜驚異の恐竜王国](https://ja.wikipedia.org/wiki/ウォーキングwithダイナソー〜驚異の恐竜王国)から翻訳されています。
 
 
-『**ウォーキングwithダイナソー～驚異の恐竜王国**』 (***Walking with Dinosaurs***) は、[1999年](../Page/1999年.md "wikilink")にイギリスの[インポッシブル・ピクチャーズ](https://ja.wikipedia.org/wiki/インポッシブル・ピクチャーズ "wikilink")と[BBCによって製作されたドキュメンタリーシリーズである](../Page/英国放送協会.md "wikilink")。英仏米日の共同合作で、日本では、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")が司会のスペシャル番組として放送された。
+『**ウォーキングwithダイナソー～驚異の恐竜王国**』 (***Walking with Dinosaurs***) は、[1999年](../Page/1999年.md "wikilink")にイギリスの[インポッシブル・ピクチャーズ](../Page/インポッシブル・ピクチャーズ.md "wikilink")と[BBCによって製作されたドキュメンタリーシリーズである](../Page/英国放送協会.md "wikilink")。英仏米日の共同合作で、日本では、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")が司会のスペシャル番組として放送された。
 
 ## 内容
 
-全6エピソード。[三畳紀](https://ja.wikipedia.org/wiki/三畳紀 "wikilink")から[白亜紀](../Page/白亜紀.md "wikilink")に渡る[中生代](../Page/中生代.md "wikilink")の世界を描いている。エピソードごとに主役級の[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")や[古生物](../Page/古生物.md "wikilink")を設定し、彼らに焦点を合わせつつ、共に生息する他の恐竜・古生物の生態、その時代の自然環境をリアルに再現している。予算と期間を潤沢にとった製作規模が実現した、製作時における最新の情報が盛り込まれた高品質な映像によって、恐竜ドキュメンタリー屈指の名作となっている。
+全6エピソード。[三畳紀](../Page/三畳紀.md "wikilink")から[白亜紀](../Page/白亜紀.md "wikilink")に渡る[中生代](../Page/中生代.md "wikilink")の世界を描いている。エピソードごとに主役級の[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")や[古生物](../Page/古生物.md "wikilink")を設定し、彼らに焦点を合わせつつ、共に生息する他の恐竜・古生物の生態、その時代の自然環境をリアルに再現している。予算と期間を潤沢にとった製作規模が実現した、製作時における最新の情報が盛り込まれた高品質な映像によって、恐竜ドキュメンタリー屈指の名作となっている。
 
 ## ナレーター
 
-オリジナルナレーター [ケネス・ブラナー](https://ja.wikipedia.org/wiki/ケネス・ブラナー "wikilink")
+オリジナルナレーター [ケネス・ブラナー](../Page/ケネス・ブラナー.md "wikilink")
 
-日本語版ナレーター ウォーキングwithダイナソー 驚異の恐竜王国 [江守徹](https://ja.wikipedia.org/wiki/江守徹 "wikilink")（DVD・ビデオ版） ウォーキングwithダイナソー BBCオリジナル・シリーズ [井浦新](https://ja.wikipedia.org/wiki/井浦新 "wikilink")（DVD・ブルーレイ版）
+日本語版ナレーター ウォーキングwithダイナソー 驚異の恐竜王国 [江守徹](../Page/江守徹.md "wikilink")（DVD・ビデオ版） ウォーキングwithダイナソー BBCオリジナル・シリーズ [井浦新](../Page/井浦新.md "wikilink")（DVD・ブルーレイ版）
 
 ## 各エピソード
 
@@ -33,12 +33,12 @@
 ### 遥かなる空へ 白亜紀前期
 （英題:Giant of the skies）
 
-1億27000万年前、白亜紀初期に繁栄していた生物の一つは空を自由に飛び回る翼竜であった。その中でも、最も巨大なオルニトケイルスは空の王者と呼ばれるにふさわしく、翼の端から端までが12メートル、人間をも上回る体を持った巨大翼竜であった。オルニトケイルスが交尾を行うためブラジルから北アメリカを経由し、大西洋を渡って南ヨーロッパの島にたどり着くまでの旅の様子を追っていく。また、彼の目から見た地上での恐竜の生態、植物などを紹介していく。 翼竜の目線で1万4000キロの壮大な旅のダイナミズムが体感でき、身を守るために大きな群れで海岸を歩くイグアノドンの映像も楽しむことができる。
+1億2700万年前、白亜紀初期に繁栄していた生物の一つは空を自由に飛び回る翼竜であった。その中でも、最も巨大なオルニトケイルスは空の王者と呼ばれるにふさわしく、翼の端から端までが12メートル、人間をも上回る体を持った巨大翼竜であった。オルニトケイルスが交尾を行うためブラジルから北アメリカを経由し、大西洋を渡って南ヨーロッパの島にたどり着くまでの旅の様子を追っていく。また、彼の目から見た地上での恐竜の生態、植物などを紹介していく。 翼竜の目線で1万4000キロの壮大な旅のダイナミズムが体感でき、身を守るために大きな群れで海岸を歩くイグアノドンの映像も楽しむことができる。
 
 ### 地の果て 白亜紀中期
 （英題:Spirits of the Ice Forest）
 
-１億６００万年前の白亜紀中期、南極大陸は深い森に覆われており、多数の恐竜が生活していた。その生態をラエリナサウラと呼ばれる草食恐竜の一族を軸に追いかけていく。 春の訪れとともに彼らは繁殖の準備を始め、やがて卵を産み落とす。夏の訪れとともに若きラエリナサウラは成長し、外敵からの危険に対処する術を学んでいく。やがて冬が近づくと、彼らは比較的暖かな森の中へ移動し、昆虫は仮死状態となり、植物は活動を停止する。彼らは究極の環境で生きるために様々な決断を下し、戦っているのである。 恐竜は地球のいたるところで繁栄するが、南極の暮らしに適応したのは少数であった。極寒の厳しい冬がある環境で生き延びる小型草食恐竜の驚異のサバイバル物語が描かれる。
+１億600万年前の白亜紀中期、南極大陸は深い森に覆われており、多数の恐竜が生活していた。その生態をラエリナサウラと呼ばれる草食恐竜の一族を軸に追いかけていく。 春の訪れとともに彼らは繁殖の準備を始め、やがて卵を産み落とす。夏の訪れとともに若きラエリナサウラは成長し、外敵からの危険に対処する術を学んでいく。やがて冬が近づくと、彼らは比較的暖かな森の中へ移動し、昆虫は仮死状態となり、植物は活動を停止する。彼らは究極の環境で生きるために様々な決断を下し、戦っているのである。 恐竜は地球のいたるところで繁栄するが、南極の暮らしに適応したのは少数であった。極寒の厳しい冬がある環境で生き延びる小型草食恐竜の驚異のサバイバル物語が描かれる。
 
 ### 最期の時 白亜紀後期
 （英題:Death of a Dynasty）
@@ -53,10 +53,10 @@
 
   - [コエロフィシス](../Page/コエロフィシス.md "wikilink")
   - [プラケリアス](https://ja.wikipedia.org/wiki/プラケリアス "wikilink")
-  - [ポストスクス](https://ja.wikipedia.org/wiki/ポストスクス "wikilink")
-  - [キノドン](https://ja.wikipedia.org/wiki/トリナクソドン "wikilink")（トリナクソドン）
+  - [ポストスクス](../Page/ポストスクス.md "wikilink")
+  - [キノドン](../Page/トリナクソドン.md "wikilink")（トリナクソドン）
   - [ペテイノサウルス](https://ja.wikipedia.org/wiki/ペテイノサウルス "wikilink")
-  - [ハイギョ](https://ja.wikipedia.org/wiki/ハイギョ "wikilink")（現生種）
+  - [ハイギョ](../Page/ハイギョ.md "wikilink")（現生種）
   - [トンボ](../Page/トンボ.md "wikilink")（現生種）
 
 <!-- end list -->
@@ -66,12 +66,12 @@
 <!-- end list -->
 
   - [ディプロドクス](https://ja.wikipedia.org/wiki/ディプロドクス "wikilink")
-  - [オルニトレステス](https://ja.wikipedia.org/wiki/オルニトレステス "wikilink")
-  - [ステゴサウルス](https://ja.wikipedia.org/wiki/ステゴサウルス "wikilink")
+  - [オルニトレステス](../Page/オルニトレステス.md "wikilink")
+  - [ステゴサウルス](../Page/ステゴサウルス.md "wikilink")
   - [アヌログナトゥス](https://ja.wikipedia.org/wiki/アヌログナトゥス "wikilink")
-  - [アロサウルス](https://ja.wikipedia.org/wiki/アロサウルス "wikilink")
+  - [アロサウルス](../Page/アロサウルス.md "wikilink")
   - [ブラキオサウルス](https://ja.wikipedia.org/wiki/ブラキオサウルス "wikilink")
-  - [イトトンボ](https://ja.wikipedia.org/wiki/イトトンボ "wikilink")（現生種）
+  - [イトトンボ](../Page/イトトンボ.md "wikilink")（現生種）
   - [フンコロガシ](https://ja.wikipedia.org/wiki/フンコロガシ "wikilink")（現生種）
 
 <!-- end list -->
@@ -83,15 +83,15 @@
   - [クリプトクリドゥス](../Page/クリプトクリドゥス.md "wikilink")
   - [ランフォリンクス](https://ja.wikipedia.org/wiki/ランフォリンクス "wikilink")
   - [オフタルモサウルス](../Page/オフタルモサウルス.md "wikilink")
-  - [リオプレウロドン](https://ja.wikipedia.org/wiki/リオプレウロドン "wikilink")
+  - [リオプレウロドン](../Page/リオプレウロドン.md "wikilink")
   - [エウストレプトスポンディルス](https://ja.wikipedia.org/wiki/エウストレプトスポンディルス "wikilink")
   - [ペリスフィンクテス](https://ja.wikipedia.org/wiki/:en:Perisphinctes "wikilink")
   - [レプトレピス](https://ja.wikipedia.org/wiki/:en:Leptolepis "wikilink")
   - [ヒボドゥス](https://ja.wikipedia.org/wiki/ヒボドゥス "wikilink")
   - [カブトガニ](../Page/カブトガニ.md "wikilink")（現生種）
-  - [クラゲ](https://ja.wikipedia.org/wiki/クラゲ "wikilink")（現生種）
+  - [クラゲ](../Page/クラゲ.md "wikilink")（現生種）
   - [イカ](../Page/イカ.md "wikilink")（現生種）
-  - [キクイムシ](https://ja.wikipedia.org/wiki/キクイムシ "wikilink")（現生種）
+  - [キクイムシ](../Page/キクイムシ.md "wikilink")（現生種）
 
 <!-- end list -->
 
@@ -100,10 +100,10 @@
 <!-- end list -->
 
   - [オルニトケイルス](https://ja.wikipedia.org/wiki/トロペオグナトゥス "wikilink")
-  - [イグアノドン](https://ja.wikipedia.org/wiki/イグアノドン "wikilink")
+  - [イグアノドン](../Page/イグアノドン.md "wikilink")
   - [ポラカントゥス](../Page/ポラカントゥス.md "wikilink")
-  - [ユタラプトル](https://ja.wikipedia.org/wiki/ユタラプトル "wikilink")
-  - [タペヤラ](https://ja.wikipedia.org/wiki/タペヤラ "wikilink")
+  - [ユタラプトル](../Page/ユタラプトル.md "wikilink")
+  - [タペヤラ](../Page/タペヤラ.md "wikilink")
   - [エナンティオルニス](../Page/エナンティオルニス.md "wikilink")
   - [プレシオプレウロドン](https://ja.wikipedia.org/wiki/:en:Plesiopleurodon "wikilink")
   - [ハチ](../Page/ハチ.md "wikilink")
@@ -115,7 +115,7 @@
 <!-- end list -->
 
   - [クーラスクス](../Page/クーラスクス.md "wikilink")
-  - [レエリナサウラ](https://ja.wikipedia.org/wiki/レエリナサウラ "wikilink")
+  - [レエリナサウラ](../Page/レエリナサウラ.md "wikilink")
   - [アウストラロベナトル](https://ja.wikipedia.org/wiki/アウストラロヴェナトル "wikilink")
   - [ムッタブラサウルス](https://ja.wikipedia.org/wiki/ムッタブラサウルス "wikilink")
   - [ステロポドン](https://ja.wikipedia.org/wiki/ステロポドン "wikilink")
@@ -131,12 +131,12 @@
   - [ディデルフォドン](https://ja.wikipedia.org/wiki/:en:Didelphodon "wikilink")
   - [ティラノサウルス](../Page/ティラノサウルス.md "wikilink")
   - [アンキロサウルス](../Page/アンキロサウルス.md "wikilink")
-  - [トロサウルス](https://ja.wikipedia.org/wiki/トロサウルス "wikilink")
+  - [トロサウルス](../Page/トロサウルス.md "wikilink")
   - [アナトティタン](../Page/アナトティタン.md "wikilink")
-  - [ケツァルコアトルス](https://ja.wikipedia.org/wiki/ケツァルコアトルス "wikilink")
+  - [ケツァルコアトルス](../Page/ケツァルコアトルス.md "wikilink")
   - [ドロマエオサウルス](https://ja.wikipedia.org/wiki/ドロマエオサウルス "wikilink")
   - [パルクソサウルス](https://ja.wikipedia.org/wiki/パルクソサウルス "wikilink")
-  - [デイノスクス](https://ja.wikipedia.org/wiki/デイノスクス "wikilink")
+  - [デイノスクス](../Page/デイノスクス.md "wikilink")
   - [デイニリシア](https://ja.wikipedia.org/wiki/:en:Dinilysia "wikilink")
   - [トリケラトプス](../Page/トリケラトプス.md "wikilink")
   - [チョウ](../Page/チョウ.md "wikilink")（現生種）
@@ -151,7 +151,7 @@
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | 新しい夜明け  | アメリカの[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")                                                                                                                                                                                     | [ニューカレドニア](../Page/ニューカレドニア.md "wikilink")                                                                                                    |
 | 巨大生物の時代 | アメリカの[コロラド州](../Page/コロラド州.md "wikilink")                                                                                                                                                                                                        | カリフォルニア州立公園、[チリ](../Page/チリ.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")、[タスマニア](https://ja.wikipedia.org/wiki/タスマニア "wikilink") |
-| 海からの息吹  | [オックスフォードシャー](https://ja.wikipedia.org/wiki/オックスフォードシャー "wikilink")                                                                                                                                                                              | [ニューカレドニア](../Page/ニューカレドニア.md "wikilink")、[バハマ](../Page/バハマ.md "wikilink")                                                                   |
+| 海からの息吹  | [オックスフォードシャー](../Page/オックスフォードシャー.md "wikilink")                                                                                                                                                                                                 | [ニューカレドニア](../Page/ニューカレドニア.md "wikilink")、[バハマ](../Page/バハマ.md "wikilink")                                                                   |
 | 遥かなる空へ  | [南米](https://ja.wikipedia.org/wiki/南米 "wikilink")→[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")→[大西洋](../Page/大西洋.md "wikilink")→[欧州](https://ja.wikipedia.org/wiki/欧州 "wikilink")→[カンタブリア](https://ja.wikipedia.org/wiki/カンタブリア "wikilink") | [ニュージーランド](../Page/ニュージーランド.md "wikilink")、[タスマニア](https://ja.wikipedia.org/wiki/タスマニア "wikilink")                                            |
 | 地の果て    | [オーストラリア](../Page/オーストラリア.md "wikilink")                                                                                                                                                                                                         | [ニュージーランド](../Page/ニュージーランド.md "wikilink")                                                                                                    |
 | 最期の時    | アメリカの[モンタナ州](../Page/モンタナ州.md "wikilink")                                                                                                                                                                                                        | [ニュージーランド](../Page/ニュージーランド.md "wikilink")、[チリ](../Page/チリ.md "wikilink")                                                                     |
@@ -164,7 +164,7 @@
 
 ### 受賞
 
-本作品は2000年に2つの[BAFTA賞](https://ja.wikipedia.org/wiki/BAFTA賞 "wikilink")、3つの[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")、そして[ピーボディ賞](https://ja.wikipedia.org/wiki/ピーボディ賞 "wikilink")を受賞。さらに、１分間の制作費が最も高いドキュメンタリー作品として[ギネス世界記録](../Page/ギネス世界記録.md "wikilink")にも認定された。
+本作品は2000年に2つの[BAFTA賞](https://ja.wikipedia.org/wiki/BAFTA賞 "wikilink")、3つの[エミー賞](../Page/エミー賞.md "wikilink")、そして[ピーボディ賞](../Page/ピーボディ賞.md "wikilink")を受賞。さらに、１分間の制作費が最も高いドキュメンタリー作品として[ギネス世界記録](../Page/ギネス世界記録.md "wikilink")にも認定された。
 
 ## 関連作品
 
@@ -185,10 +185,10 @@
 
   - 伝説のビッグ・アル *[The Ballad of Big Al](https://ja.wikipedia.org/wiki/:en:The_Ballad_of_Big_Al "wikilink")*（2001）
       - アロサウルス”ビッグ・アル”の生涯を描いている。日本では『BBC地球伝説』（BS朝日）で編集版が放送された。
-  - タイムスリップ\!　恐竜時代 *[Chased by Dinosaurs](https://ja.wikipedia.org/wiki/:en:Chased_by_Dinosaurs "wikilink")*（2002）
-      - 動物レポーターである[ナイジェル・マーヴェン](https://ja.wikipedia.org/wiki/ナイジェル・マーヴェン "wikilink")が初登場する。彼がタイムスリップして[テリジノサウルス](https://ja.wikipedia.org/wiki/テリジノサウルス "wikilink")と[アルゼンチノサウルス](https://ja.wikipedia.org/wiki/アルゼンチノサウルス "wikilink")の謎を探る物語である。日本では『[地球ドラマチック](https://ja.wikipedia.org/wiki/地球ドラマチック "wikilink")』（[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）内で放送された。
+  - [タイムスリップ\! 恐竜時代](https://ja.wikipedia.org/wiki/タイムスリップ!_恐竜時代 "wikilink") *[Chased by Dinosaurs](https://ja.wikipedia.org/wiki/:en:Chased_by_Dinosaurs "wikilink")*（2002）
+      - 動物レポーターである[ナイジェル・マーヴェン](../Page/ナイジェル・マーヴェン.md "wikilink")が初登場する。彼がタイムスリップして[テリジノサウルス](../Page/テリジノサウルス.md "wikilink")と[アルゼンチノサウルス](../Page/アルゼンチノサウルス.md "wikilink")の謎を探る物語である。日本では『[地球ドラマチック](../Page/地球ドラマチック.md "wikilink")』（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")）内で放送された。
   - [ウォーキングwithダイナソー〜恐竜時代 古代の海へ](https://ja.wikipedia.org/wiki/続_タイムスリップ!恐竜時代_古代の海へ "wikilink") *[Sea Monsters](https://ja.wikipedia.org/wiki/:en:Sea_Monsters:_A_Walking_with_Dinosaurs_Trilogy "wikilink")*（2003）
-      - ナイジェル・マーヴェンがタイムスリップして、先史時代の海の支配者たち（オルトセラス、キムボスポンディルス、[バシロサウルス](https://ja.wikipedia.org/wiki/バシロサウルス "wikilink")、[ダンクレオステウス](https://ja.wikipedia.org/wiki/ダンクレオステウス "wikilink")、[メガロドン](https://ja.wikipedia.org/wiki/メガロドン "wikilink")、[リオプレウロドン](https://ja.wikipedia.org/wiki/リオプレウロドン "wikilink")、[モササウルス](https://ja.wikipedia.org/wiki/モササウルス "wikilink")）を探す旅に出る。
+      - ナイジェル・マーヴェンがタイムスリップして、先史時代の海の支配者たち（オルトセラス、キムボスポンディルス、[バシロサウルス](../Page/バシロサウルス.md "wikilink")、[ダンクレオステウス](https://ja.wikipedia.org/wiki/ダンクレオステウス "wikilink")、[メガロドン](../Page/メガロドン.md "wikilink")、[リオプレウロドン](../Page/リオプレウロドン.md "wikilink")、[モササウルス](../Page/モササウルス.md "wikilink")）を探す旅に出る。
 
 ### スピンオフ
 
@@ -200,9 +200,9 @@
   - モンスター〜人類が出遭った脅威 *[Monsters We Met](https://ja.wikipedia.org/wiki/:en:Monsters_We_Met "wikilink")*（2004）
       - BS朝日にて編集版が放送された。
   - [恐竜再生](https://ja.wikipedia.org/wiki/恐竜再生 "wikilink") *[When Dinosaurs Roamed America](https://ja.wikipedia.org/wiki/:en:When_Dinosaurs_Roamed_America "wikilink")*（2001）
-      - [ディスカバリーチャンネル](https://ja.wikipedia.org/wiki/ディスカバリーチャンネル "wikilink")制作のドキュメンタリー。中生代の北米大陸に生息した恐竜たちの物語を描いた作品。
+      - [ディスカバリーチャンネル](../Page/ディスカバリーチャンネル.md "wikilink")制作のドキュメンタリー。中生代の北米大陸に生息した恐竜たちの物語を描いた作品。
   - [ダイナソープラネット](https://ja.wikipedia.org/wiki/ダイナソープラネット_\(テレビ作品\) "wikilink") *[Dinosaur Planet](https://ja.wikipedia.org/wiki/:en:Dinosaur_Planet_\(TV_series\) "wikilink")*（2003）
-      - ディスカバリーチャンネル制作のドキュメンタリーで、全４話。[ヴェロキラプトル](../Page/ヴェロキラプトル.md "wikilink")、[サルタサウルス](https://ja.wikipedia.org/wiki/サルタサウルス "wikilink")、ピロラプトル、[ダスプレトサウルス](https://ja.wikipedia.org/wiki/ダスプレトサウルス "wikilink")をそれぞれの主役として描いている。
+      - ディスカバリーチャンネル制作のドキュメンタリーで、全４話。[ヴェロキラプトル](../Page/ヴェロキラプトル.md "wikilink")、[サルタサウルス](https://ja.wikipedia.org/wiki/サルタサウルス "wikilink")、ピロラプトル、[ダスプレトサウルス](../Page/ダスプレトサウルス.md "wikilink")をそれぞれの主役として描いている。
 
 ### 映画
 
@@ -214,7 +214,7 @@
 
 ### 日本での公演
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の番組「[ザ・ベストハウス123](https://ja.wikipedia.org/wiki/ザ・ベストハウス123 "wikilink")」で紹介されたことで話題になり、その後[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にフジテレビの主催である[かっぱ寿司](https://ja.wikipedia.org/wiki/かっぱ寿司 "wikilink")が冠スポンサーとなって行われた。「ウォーキング・ウィズ・ダイナソー ライブアリーナツアー」という題がつけられ、横浜・広島・大阪・静岡・埼玉・名古屋・福岡の7か所で開催された。2019年にも開催予定であるが、主催者が[朝日新聞社](../Page/朝日新聞社.md "wikilink")、Live Nation Japanに変更。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においては[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の番組「[ザ・ベストハウス123](../Page/ザ・ベストハウス123.md "wikilink")」で紹介されたことで話題になり、その後[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にフジテレビの主催である[かっぱ寿司](../Page/かっぱ寿司.md "wikilink")が冠スポンサーとなって行われた。「ウォーキング・ウィズ・ダイナソー ライブアリーナツアー」という題がつけられ、横浜・広島・大阪・静岡・埼玉・名古屋・福岡の7か所で開催された。2019年にも開催予定であるが、主催者が[朝日新聞社](../Page/朝日新聞社.md "wikilink")、Live Nation Japanに変更。
 
   - 横浜公演
     期間：2010年7月8日-11日
@@ -254,7 +254,7 @@
 
   - 福岡公演
     期間：8月19日-22日
-    会場：[マリンメッセ福岡](https://ja.wikipedia.org/wiki/マリンメッセ福岡 "wikilink")
+    会場：[マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")
 
 ## 外部リンクと参考文献
 

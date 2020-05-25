@@ -1,7 +1,7 @@
 > この記事は[Tフェイス](https://ja.wikipedia.org/wiki/Tフェイス)から翻訳されています。
 
 
-**T-FACE**（ティーフェイス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")[若宮町](https://ja.wikipedia.org/wiki/若宮町_\(豊田市\) "wikilink")1丁目および[西町](../Page/西町_\(豊田市\).md "wikilink")6丁目（[豊田市駅](../Page/豊田市駅.md "wikilink")前）にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。**豊田市駅西口市街地再開発事業**によって建設された「豊田市駅西口市街地再開発ビル」のA館7〜9階、B館1〜11階に構成されている。A館1〜6階には[松坂屋豊田店](../Page/松坂屋豊田店.md "wikilink")が入居している。
+**T-FACE**（ティーフェイス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")[若宮町](../Page/若宮町_\(豊田市\).md "wikilink")1丁目および[西町](../Page/西町_\(豊田市\).md "wikilink")6丁目（[豊田市駅](../Page/豊田市駅.md "wikilink")前）にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。**豊田市駅西口市街地再開発事業**によって建設された「豊田市駅西口市街地再開発ビル」のA館7〜9階、B館1〜11階に構成されている。A館1〜6階には[松坂屋豊田店](../Page/松坂屋豊田店.md "wikilink")が入居している。
 
 ## 概要
 

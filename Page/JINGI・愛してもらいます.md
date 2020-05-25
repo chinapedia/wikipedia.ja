@@ -1,4 +1,4 @@
-> この記事は[JINGI](https://ja.wikipedia.org/wiki/JINGI)から翻訳されています。
+> この記事は[JINGI・愛してもらいます](https://ja.wikipedia.org/wiki/JINGI・愛してもらいます)から翻訳されています。
 
 
 「**JINGI・愛してもらいます**」（じんぎ・あいしてもらいます）は、[中山美穂](../Page/中山美穂.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた（CDS:KIDS-93）。
@@ -41,10 +41,10 @@
 
 ## カバー
 
-  - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") - CDデビュー前に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[TK MUSIC CLAMP](../Page/TK_MUSIC_CLAMP.md "wikilink")』で歌唱。(1995年)
+  - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") - CDデビュー前に[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[TK MUSIC CLAMP](../Page/TK_MUSIC_CLAMP.md "wikilink")』で歌唱。(1995年)
 
 ## 脚注
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:松本隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が制作した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:ビー・バップ・ハイスクール](https://ja.wikipedia.org/wiki/Category:ビー・バップ・ハイスクール "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:松本隆が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が作詞した楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:ビー・バップ・ハイスクール](https://ja.wikipedia.org/wiki/Category:ビー・バップ・ハイスクール "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  [ディスクユニオン](../Page/ディスクユニオン.md "wikilink")刊 「作編曲家 大村雅朗の軌跡 1951-1997」 梶田昌史・田渕浩久著 168Pより。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チェスターフィールドFC](https://ja.wikipedia.org/wiki/チェスターフィールドFC)から翻訳されています。
 
 
 **チェスターフィールド・フットボール・クラブ**（**Chesterfield Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ダービーシャー](../Page/ダービーシャー.md "wikilink")、[チェスターフィールドを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/チェスターフィールド_\(イングランド\) "wikilink")。チェスターフィールド英国フットボールリーグの中で、四位古く設立されたチーム。2018-19シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。

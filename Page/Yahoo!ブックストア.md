@@ -45,7 +45,7 @@
 ### 配信を終了した主な無料ウェブコミック誌
 
   - [マンガ王+YA\!](https://ja.wikipedia.org/wiki/マンガ王+YA! "wikilink")（[Bbmfマガジン](https://ja.wikipedia.org/wiki/Bbmfマガジン "wikilink")）
-  - [デジキス『ストーリー３１１』](https://ja.wikipedia.org/wiki/デジキス『ストーリー３１１』 "wikilink")（[講談社](../Page/講談社.md "wikilink")）
+  - デジキス『[ストーリー311](../Page/ストーリー311.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）
   - [ホラー&ファンタジー倶楽部](../Page/夢幻館.md "wikilink")（[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")）
   - [FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")（[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")）※『[COMIC メテオ](https://ja.wikipedia.org/wiki/COMIC_メテオ "wikilink")』へ吸収
   - FlexComixブラッド（[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")）※『COMIC メテオ』へ吸収

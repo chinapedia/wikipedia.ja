@@ -1,13 +1,13 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バーンリーFC](https://ja.wikipedia.org/wiki/バーンリーFC)から翻訳されています。
 
 
-**バーンリー・フットボール・クラブ**（Burnley Football Club、[イギリス英語](https://ja.wikipedia.org/wiki/イギリス英語 "wikilink")発音: ）は、[イングランド](../Page/イングランド.md "wikilink")北西部・[ランカシャー](https://ja.wikipedia.org/wiki/ランカシャー "wikilink")州[バーンリー](https://ja.wikipedia.org/wiki/バーンリー "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。
+**バーンリー・フットボール・クラブ**（Burnley Football Club、[イギリス英語](../Page/イギリス英語.md "wikilink")発音: ）は、[イングランド](../Page/イングランド.md "wikilink")北西部・[ランカシャー](../Page/ランカシャー.md "wikilink")州[バーンリー](https://ja.wikipedia.org/wiki/バーンリー "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。
 
-[チャールズ皇太子がバーンリーのファンであることを公言している](https://ja.wikipedia.org/wiki/チャールズ_\(プリンス・オブ・ウェールズ\) "wikilink")\[1\]。
+[チャールズ皇太子がバーンリーのファンであることを公言している](../Page/チャールズ_\(プリンス・オブ・ウェールズ\).md "wikilink")\[1\]。
 
 ## 歴史
 
-リーグ優勝2回、[FAカップ](../Page/FAカップ.md "wikilink")優勝1回を成し遂げた古豪であるが、近年は下位に低迷している。2008-09シーズンの[カーリングカップ](https://ja.wikipedia.org/wiki/カーリングカップ "wikilink")では[アーセナルに勝利している](../Page/アーセナルFC.md "wikilink")。このシーズンのリーグ戦は5位に沈んだが、2009年5月、[シェフィールド・ユナイテッドとの昇格プレーオフに勝利し](https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC "wikilink")、34年ぶりのトップリーグ復帰を果たす。2009-10シーズンの第2節には王者[マンチェスター・ユナイテッドから大金星を奪うなど](../Page/マンチェスター・ユナイテッドFC.md "wikilink")、序盤はホームゲームで圧倒的な強さを誇ったが、徐々に失速。シーズン途中には指揮官を[ボルトン・ワンダラーズに奪われ](https://ja.wikipedia.org/wiki/ボルトン・ワンダラーズFC "wikilink")、ホームでも大敗することが増え、1シーズンでの降格が決まった。
+リーグ優勝2回、[FAカップ](../Page/FAカップ.md "wikilink")優勝1回を成し遂げた古豪であるが、近年は下位に低迷している。2008-09シーズンの[カーリングカップ](https://ja.wikipedia.org/wiki/カーリングカップ "wikilink")では[アーセナルに勝利している](../Page/アーセナルFC.md "wikilink")。このシーズンのリーグ戦は5位に沈んだが、2009年5月、[シェフィールド・ユナイテッドとの昇格プレーオフに勝利し](../Page/シェフィールド・ユナイテッドFC.md "wikilink")、34年ぶりのトップリーグ復帰を果たす。2009-10シーズンの第2節には王者[マンチェスター・ユナイテッドから大金星を奪うなど](../Page/マンチェスター・ユナイテッドFC.md "wikilink")、序盤はホームゲームで圧倒的な強さを誇ったが、徐々に失速。シーズン途中には指揮官を[ボルトン・ワンダラーズに奪われ](../Page/ボルトン・ワンダラーズFC.md "wikilink")、ホームでも大敗することが増え、1シーズンでの降格が決まった。
 
 2014年4月、2位以内が確定し[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")昇格が決まったが、翌2014-15シーズンは19位で再び降格となった。しかし2015-16シーズンは[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部相当）で1試合を残して、わずか1年でプレミアリーグ復帰を決めた\[2\]。
 
@@ -318,7 +318,7 @@
 <td><p>1960-61</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズカップ_1960-61.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・ランス" title="wikilink">スタッド・ランス</a></p></td>
+<td><p><a href="../Page/スタッド・ランス.md" title="wikilink">スタッド・ランス</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2–3</p></td>
 <td><p>'''4–3</p></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンブルガーSV" title="wikilink">ハンブルガー</a></p></td>
+<td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''4–5</p></td>
@@ -366,7 +366,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–3</p></td>
@@ -378,7 +378,7 @@
 <td><p>2018-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アバディーンFC" title="wikilink">アバディーン</a></p></td>
+<td><p><a href="../Page/アバディーンFC.md" title="wikilink">アバディーン</a></p></td>
 <td><p>3–1<br />
 (<a href="../Page/延長戦.md" title="wikilink">a.e.t.</a>)</p></td>
 <td><p>1–1</p></td>
@@ -511,7 +511,7 @@
 
   - [マイケル・リケッツ](https://ja.wikipedia.org/wiki/マイケル・リケッツ "wikilink") 2006
 
-  - [クリス・イーグルス](https://ja.wikipedia.org/wiki/クリス・イーグルス "wikilink") 2008-2011
+  - [クリス・イーグルス](../Page/クリス・イーグルス.md "wikilink") 2008-2011
 
   - [ダニエル・フォックス](https://ja.wikipedia.org/wiki/ダニエル・フォックス "wikilink") 2010.1-2011
 

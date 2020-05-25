@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[ヴァネッサ \(KOF\)](https://ja.wikipedia.org/wiki/ヴァネッサ_\(KOF\))から翻訳されています。
 
 
 **ヴァネッサ** (*Vanessa*) は[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の対戦型格闘ゲーム『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズに登場する架空の人物。
@@ -15,13 +15,13 @@
 
 チームを組んだ[ラモンに惚れられ](https://ja.wikipedia.org/wiki/ラモン_\(KOF\) "wikilink")、熱烈なアプローチを受けている。既婚者なので彼になびくことはないが、キツイ拒絶をするわけではなく、大人な反応でラモンを傷つけない程度に流している。
 
-過去に国の研修機関に入っていた時に[ブルー・マリー](https://ja.wikipedia.org/wiki/ブルー・マリー "wikilink")の恋人であったブッチと知り合い、カクテル「ブルー・マリー」のレシピを教わった事があったらしい。ただし、あくまで知り合いに過ぎなかったようで、ブッチの死に関してはマリーから聞くまで知らなかった。
+過去に国の研修機関に入っていた時に[ブルー・マリー](../Page/ブルー・マリー.md "wikilink")の恋人であったブッチと知り合い、カクテル「ブルー・マリー」のレシピを教わった事があったらしい。ただし、あくまで知り合いに過ぎなかったようで、ブッチの死に関してはマリーから聞くまで知らなかった。
 
-『2000』では主催者側の意向で[K'](https://ja.wikipedia.org/wiki/K' "wikilink")、[マキシマ](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\) "wikilink")、ラモンの3名と組んで「主人公チーム」として参戦する。作戦の指揮を執っていたリング司令が[ゼロ（クローン）にすり替わっていたため](https://ja.wikipedia.org/wiki/ゼロ_\(KOF\) "wikilink")、結果的にヴァネッサもゼロに騙されることとなる。『KOF2001』（以下『2001』と表記）では前回の縁でついてきたラモンと同業のセス、そして[八神庵](https://ja.wikipedia.org/wiki/八神庵 "wikilink")と組み「庵チーム」として参加。『KOF2002』（以下『2002』と表記）では、『KOF'96』の庵チームが復活したため庵が抜け、「KOF2000チーム」として出場。『KOF NEOWAVE』（以下『NEOWAVE』と表記）では隠しキャラクターとしてシングルで参加。『KOF XI』（以下『XI』と表記）ではセスが請け負った[ハイデルンからの依頼により](https://ja.wikipedia.org/wiki/ハイデルン_\(KOF\) "wikilink")、「エージェントチーム」として同業であるブルー・マリー、そしてラモンと組んだ。
+『2000』では主催者側の意向で[K'](https://ja.wikipedia.org/wiki/K' "wikilink")、[マキシマ](../Page/マキシマ_\(KOF\).md "wikilink")、ラモンの3名と組んで「主人公チーム」として参戦する。作戦の指揮を執っていたリング司令が[ゼロ（クローン）にすり替わっていたため](../Page/ゼロ_\(KOF\).md "wikilink")、結果的にヴァネッサもゼロに騙されることとなる。『KOF2001』（以下『2001』と表記）では前回の縁でついてきたラモンと同業のセス、そして[八神庵](../Page/八神庵.md "wikilink")と組み「庵チーム」として参加。『KOF2002』（以下『2002』と表記）では、『KOF'96』の庵チームが復活したため庵が抜け、「KOF2000チーム」として出場。『KOF NEOWAVE』（以下『NEOWAVE』と表記）では隠しキャラクターとしてシングルで参加。『KOF XI』（以下『XI』と表記）ではセスが請け負った[ハイデルンからの依頼により](../Page/ハイデルン_\(KOF\).md "wikilink")、「エージェントチーム」として同業であるブルー・マリー、そしてラモンと組んだ。
 
 『KOF XIII』及び『XIV』の女性格闘家チームのエンディングにおいては、同2作品の女性格闘家チームのメンバーと同2作品の大会では不参加だった女性格闘家達と一緒にパオパオカフェに来店している。なお、ラモンは『XIV』でプレイヤーキャラクターとして登場し、ヴァネッサ自身もDLCキャラクター（アーケード版では通常キャラクター）として登場している。
 
-また、『2002』から一部『[リアルバウト餓狼伝説](https://ja.wikipedia.org/wiki/リアルバウト餓狼伝説 "wikilink")2』に登場していた[リック・ストラウド](https://ja.wikipedia.org/wiki/リック・ストラウド "wikilink")の技をオマージュした技も持っている（技名は異なるが掛け声は同じ）。設定上でヴァネッサとリックに接点があるかは不明だが、『2002』ではセスがリックの事を知っているらしき台詞を勝利画面で発言している。
+また、『2002』から一部『[リアルバウト餓狼伝説](../Page/リアルバウト餓狼伝説.md "wikilink")2』に登場していた[リック・ストラウド](https://ja.wikipedia.org/wiki/リック・ストラウド "wikilink")の技をオマージュした技も持っている（技名は異なるが掛け声は同じ）。設定上でヴァネッサとリックに接点があるかは不明だが、『2002』ではセスがリックの事を知っているらしき台詞を勝利画面で発言している。
 
 ## 技の解説
 
@@ -41,7 +41,7 @@
   - ダイナマイトパンチャー
     至近距離からアッパーカットを繰り出す。『XI』では「クリンチパンチャー」同様にボディブローを叩き込んでから、アッパーで締める。
   - クリンチパンチャー
-    [クリンチ](https://ja.wikipedia.org/wiki/クリンチ "wikilink")で動きを止めた後、ボディブローを数回叩き込んで、相手を後ろに放り投げる。ボタン連打で攻撃回数が増える。
+    [クリンチ](../Page/クリンチ.md "wikilink")で動きを止めた後、ボディブローを数回叩き込んで、相手を後ろに放り投げる。ボタン連打で攻撃回数が増える。
     『XIV』ではラストに相手を地面に叩き付けるようになった。
   - バレットパンチャー
     『XIV』で「ダイナマイトパンチャー」の代わりに搭載された技。相手の胸倉を掴んで引き寄せ、フックやボディブローを叩き込んでから、アッパーで吹き飛ばす。
@@ -96,9 +96,9 @@
   - [セス](https://ja.wikipedia.org/wiki/セス_\(KOF\) "wikilink") ― チームメイト、同業者
   - [ラモン](https://ja.wikipedia.org/wiki/ラモン_\(KOF\) "wikilink") ― チームメイト、好意の協力者
   - [K'](https://ja.wikipedia.org/wiki/K' "wikilink") ― 『KOF 2000』でのチームメイト
-  - [マキシマ](https://ja.wikipedia.org/wiki/マキシマ_\(KOF\) "wikilink") ― 『KOF 2000』でのチームメイト
-  - [八神庵](https://ja.wikipedia.org/wiki/八神庵 "wikilink") ― 『KOF 2001』でのチームメイト
-  - [ブルー・マリー](https://ja.wikipedia.org/wiki/ブルー・マリー "wikilink") ― 『KOF XI』でのチームメイトにして同業者、『餓狼伝説』のキャラクター
+  - [マキシマ](../Page/マキシマ_\(KOF\).md "wikilink") ― 『KOF 2000』でのチームメイト
+  - [八神庵](../Page/八神庵.md "wikilink") ― 『KOF 2001』でのチームメイト
+  - [ブルー・マリー](../Page/ブルー・マリー.md "wikilink") ― 『KOF XI』でのチームメイトにして同業者、『餓狼伝説』のキャラクター
 
 ## 脚注
 
@@ -110,12 +110,12 @@
 
 ## 関連項目
 
-  - [ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズの登場人物 "wikilink")
+  - [ザ・キング・オブ・ファイターズの登場人物](../Page/ザ・キング・オブ・ファイターズの登場人物.md "wikilink")
 
 [en:List of The King of Fighters characters\#Vanessa](https://ja.wikipedia.org/wiki/en:List_of_The_King_of_Fighters_characters#Vanessa "wikilink") [pt:Anexo:Lista de personagens de The King of Fighters\#Vanessa](https://ja.wikipedia.org/wiki/pt:Anexo:Lista_de_personagens_de_The_King_of_Fighters#Vanessa "wikilink")
 
 [Category:ザ・キング・オブ・ファイターズの登場人物](https://ja.wikipedia.org/wiki/Category:ザ・キング・オブ・ファイターズの登場人物 "wikilink") [Category:架空のボクサー](https://ja.wikipedia.org/wiki/Category:架空のボクサー "wikilink")
 
 1.  [『2000 キャラクターブック』](https://ja.wikipedia.org/wiki/#参考文献 "wikilink") 152頁。
-2.  ただし、年齢が近い[フォクシー](https://ja.wikipedia.org/wiki/フォクシー_\(KOF\) "wikilink")（28歳）・[マチュア](https://ja.wikipedia.org/wiki/マチュア "wikilink")（28歳）・[バイス](https://ja.wikipedia.org/wiki/バイス_\(KOF\) "wikilink")（27歳）は除く。
+2.  ただし、年齢が近い[フォクシー](https://ja.wikipedia.org/wiki/フォクシー_\(KOF\) "wikilink")（28歳）・[マチュア](../Page/マチュア.md "wikilink")（28歳）・[バイス](../Page/バイス_\(KOF\).md "wikilink")（27歳）は除く。
 3.

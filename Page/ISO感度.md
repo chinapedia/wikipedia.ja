@@ -1,4 +1,4 @@
-> この記事は[ISO](https://ja.wikipedia.org/wiki/ISO)から翻訳されています。
+> この記事は[ISO感度](https://ja.wikipedia.org/wiki/ISO感度)から翻訳されています。
 
 
 **ISO感度**（アイエスオーかんど、イソかんど、*ISO speed* ）は、[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO）で策定された[写真フィルム](../Page/写真フィルム.md "wikilink")の規格であり、あるフィルムがどの程度弱い光まで記録できるかを示す。従来の[ASA感度と](https://ja.wikipedia.org/wiki/アメリカ標準規格 "wikilink")[DIN感度をまとめて記したものである](../Page/ドイツ工業規格.md "wikilink")。
@@ -13,7 +13,7 @@ ISO感度は、ISO100/21°、ISO200/24°、ISO400/27°、ISO800/30°…などが
 
 ### 現行のISO感度規格
 
-ISO感度の現行の規格としては、カラー[ネガフィルム](https://ja.wikipedia.org/wiki/ネガフィルム "wikilink")のための **ISO 5800:1987**\[1\] がある。また、関連する規格として[モノクロネガフィルムのための](https://ja.wikipedia.org/wiki/モノクロフィルム "wikilink") **ISO 6:1993**\[2\] およびカラー[リバーサルフィルム](https://ja.wikipedia.org/wiki/リバーサルフィルム "wikilink")のための **ISO 2240:2003**\[3\] がある。これらの規格では[算術](../Page/算術.md "wikilink")表記（従来の[ASA感度](https://ja.wikipedia.org/wiki/アメリカ標準規格 "wikilink")）と[対数](../Page/対数.md "wikilink")表記（従来の[DIN感度](../Page/ドイツ工業規格.md "wikilink")）の両方を表示するよう定められている \[4\]。
+ISO感度の現行の規格としては、カラー[ネガフィルム](../Page/ネガフィルム.md "wikilink")のための **ISO 5800:1987**\[1\] がある。また、関連する規格として[モノクロネガフィルムのための](../Page/モノクロフィルム.md "wikilink") **ISO 6:1993**\[2\] およびカラー[リバーサルフィルム](../Page/リバーサルフィルム.md "wikilink")のための **ISO 2240:2003**\[3\] がある。これらの規格では[算術](../Page/算術.md "wikilink")表記（従来の[ASA感度](https://ja.wikipedia.org/wiki/アメリカ標準規格 "wikilink")）と[対数](../Page/対数.md "wikilink")表記（従来の[DIN感度](../Page/ドイツ工業規格.md "wikilink")）の両方を表示するよう定められている \[4\]。
 
 フィルム感度が2倍になるごとに算術表記の数値は2倍となり、対数表記の数値は 3° 増える。例えば、感度が ISO 200/24° のフィルムは光に対して ISO 100/21° のフィルムの2倍敏感である\[5\]。
 
@@ -822,7 +822,7 @@ ISO感度の現行の規格としては、カラー[ネガフィルム](https://
 
   - [アメリカ標準規格](https://ja.wikipedia.org/wiki/アメリカ標準規格 "wikilink")（ASA）
   - [ドイツ工業規格](../Page/ドイツ工業規格.md "wikilink")（DIN）
-  - [DXコード](https://ja.wikipedia.org/wiki/DXコード "wikilink")
+  - [DXコード](../Page/DXコード.md "wikilink")
 
 [Category:写真](https://ja.wikipedia.org/wiki/Category:写真 "wikilink") [Category:単位](https://ja.wikipedia.org/wiki/Category:単位 "wikilink") [Category:ISO標準](https://ja.wikipedia.org/wiki/Category:ISO標準 "wikilink")
 

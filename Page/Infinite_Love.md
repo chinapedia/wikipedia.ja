@@ -1,11 +1,11 @@
 > この記事は[Infinite Love](https://ja.wikipedia.org/wiki/Infinite_Love)から翻訳されています。
 
 
-「**Infinite Love**」（インフィニット・ラブ）は、[KISHOWと](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")[e-ZUKAによる](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")[ロックユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")・[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+「**Infinite Love**」（インフィニット・ラブ）は、[KISHOWと](../Page/谷山紀章.md "wikilink")[e-ZUKAによる](../Page/飯塚昌明.md "wikilink")[ロックユニット](../Page/音楽ユニット.md "wikilink")・[GRANRODEO](../Page/GRANRODEO.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 解説
 
-  - 表題曲「Infinite Love」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[恋する天使アンジェリーク](https://ja.wikipedia.org/wiki/恋する天使アンジェリーク "wikilink")〜心のめざめる時〜』の[オープニングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。またこの曲は、2006年度の第1回[声優アワード](../Page/声優アワード.md "wikilink")の歌唱賞にノミネートされた。
+  - 表題曲「Infinite Love」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[恋する天使アンジェリーク](../Page/恋する天使アンジェリーク.md "wikilink")〜心のめざめる時〜』の[オープニングテーマとして使用された](../Page/主題歌.md "wikilink")。またこの曲は、2006年度の第1回[声優アワード](../Page/声優アワード.md "wikilink")の歌唱賞にノミネートされた。
   - カップリングの「紫炎」はGRANRODEOの楽曲の中で初めての[詞先](https://ja.wikipedia.org/wiki/詞先 "wikilink")の楽曲である。
 
 ## 収録曲

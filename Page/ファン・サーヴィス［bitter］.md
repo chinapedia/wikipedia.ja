@@ -1,4 +1,4 @@
-> この記事は[bitter](https://ja.wikipedia.org/wiki/bitter)から翻訳されています。
+> この記事は[ファン・サーヴィス［bitter］](https://ja.wikipedia.org/wiki/ファン・サーヴィス［bitter］)から翻訳されています。
 
 
 『**Fan Service［bitter］**』（ファン・サービス・ビター）は、日本の[テクノポップ](../Page/テクノポップ.md "wikilink")ユニット、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の初の映像作品である（CD付属のDVDは除く）。
@@ -7,11 +7,11 @@
 
 完全生産限定盤には写真集が付属し\[4\]、Blu-ray Discの初回プレス分には“オリジナルDVDジャケット”ステッカーが封入されている\[5\]。
 
-Normal EditionのDVD版は同時発売のボックス・セット『[Fan Service〜Prima Box〜](https://ja.wikipedia.org/wiki/Fan_Service〜Prima_Box〜 "wikilink")』のボックス内に収納できる。
+Normal EditionのDVD版は同時発売のボックス・セット『[Fan Service〜Prima Box〜](../Page/Fan_Service〜Prima_Box〜.md "wikilink")』のボックス内に収納できる。
 
 ## 収録曲
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に、[原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")で行われたライブ『Perfume presents 〜Perfumeがいっぱいサンタ呼んじゃいました♪〜』\[6\]\[7\]の映像や、オフショットなどが収録されている\[8\]。
+[2006年](../Page/2006年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に、[原宿アストロホール](../Page/原宿アストロホール.md "wikilink")で行われたライブ『Perfume presents 〜Perfumeがいっぱいサンタ呼んじゃいました♪〜』\[6\]\[7\]の映像や、オフショットなどが収録されている\[8\]。
 
 1.  エレクトロ・ワールド
 2.  おいしいレシピ
@@ -39,7 +39,7 @@ Normal EditionのDVD版は同時発売のボックス・セット『[Fan Service
 
 ## 脚注
 
-[Category:Perfume](https://ja.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:Perfumeの映像作品](https://ja.wikipedia.org/wiki/Category:Perfumeの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink")
 
 1.  [Perfume Official Site \> DISCOGRAPHY \> Fan Service［bitter］完全生産限定盤](http://www.perfume-web.jp/discography/?d01)（AMUSE Inc.）
 2.  [Perfume Official Site \> DISCOGRAPHY \> Fan Service〜bitter〜Normal Edition](http://www.perfume-web.jp/discography/?d02)（AMUSE Inc.）

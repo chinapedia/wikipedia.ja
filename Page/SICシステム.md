@@ -1,4 +1,4 @@
-> この記事は[SIC](https://ja.wikipedia.org/wiki/SIC)から翻訳されています。
+> この記事は[SICシステム](https://ja.wikipedia.org/wiki/SICシステム)から翻訳されています。
 
 
 **株式会社SICシステム**（英文名称*SIC System Co.,Ltd.*）は、[システムコンサルティング](https://ja.wikipedia.org/wiki/システムコンサルティング "wikilink")や[ソフトウェア](../Page/ソフトウェア.md "wikilink")の開発を行う企業。本社は[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")と[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。

@@ -1,9 +1,9 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jの悲劇](https://ja.wikipedia.org/wiki/Jの悲劇)から翻訳されています。
 
 
-『**Jの悲劇**』 (*Enduring Love*) は、[2004年公開の](https://ja.wikipedia.org/wiki/2004年の映画 "wikilink")[イギリス映画](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")。
+『**Jの悲劇**』 (*Enduring Love*) は、[2004年公開の](../Page/2004年の映画.md "wikilink")[イギリス映画](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")。
 
-[イアン・マキューアン](https://ja.wikipedia.org/wiki/イアン・マキューアン "wikilink")の『』を映画化。[ヴェネツィア国際映画祭](../Page/ヴェネツィア国際映画祭.md "wikilink")や[トロント国際映画祭](https://ja.wikipedia.org/wiki/トロント国際映画祭 "wikilink")などで上映された。
+[イアン・マキューアン](../Page/イアン・マキューアン.md "wikilink")の『』を映画化。[ヴェネツィア国際映画祭](../Page/ヴェネツィア国際映画祭.md "wikilink")や[トロント国際映画祭](https://ja.wikipedia.org/wiki/トロント国際映画祭 "wikilink")などで上映された。
 
 ## ストーリー
 
@@ -11,13 +11,13 @@
 
 ## キャスト
 
-  - ジョー：[ダニエル・クレイグ](https://ja.wikipedia.org/wiki/ダニエル・クレイグ "wikilink")
-  - クレア：[サマンサ・モートン](https://ja.wikipedia.org/wiki/サマンサ・モートン "wikilink")
-  - ジェッド：[リス・エヴァンス](https://ja.wikipedia.org/wiki/リス・エヴァンス "wikilink")
-  - ロビン：[ビル・ナイ](https://ja.wikipedia.org/wiki/ビル・ナイ "wikilink")
+  - ジョー：[ダニエル・クレイグ](../Page/ダニエル・クレイグ.md "wikilink")
+  - クレア：[サマンサ・モートン](../Page/サマンサ・モートン.md "wikilink")
+  - ジェッド：[リス・エヴァンス](../Page/リス・エヴァンス.md "wikilink")
+  - ロビン：[ビル・ナイ](../Page/ビル・ナイ.md "wikilink")
   - レイチェル：[スーザン・リンチ](https://ja.wikipedia.org/wiki/スーザン・リンチ "wikilink")
   - フランク：[ジャスティン・サリンジャー](https://ja.wikipedia.org/wiki/ジャスティン・サリンジャー "wikilink")
-  - [ヘレン・マックロリー](https://ja.wikipedia.org/wiki/ヘレン・マックロリー "wikilink")
+  - [ヘレン・マックロリー](../Page/ヘレン・マックロリー.md "wikilink")
   - [アンドリュー・リンカーン](https://ja.wikipedia.org/wiki/アンドリュー・リンカーン "wikilink")
   - [ベン・ウィショー](../Page/ベン・ウィショー.md "wikilink")
 

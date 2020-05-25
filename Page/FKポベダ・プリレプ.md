@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKポベダ・プリレプ](https://ja.wikipedia.org/wiki/FKポベダ・プリレプ)から翻訳されています。
 
 
 **FKポベダ・プリレプ** (, ) 、通称**FKポベダ** () は、[マケドニア共和国](https://ja.wikipedia.org/wiki/マケドニア共和国 "wikilink")・[プリレプ](https://ja.wikipedia.org/wiki/プリレプ "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

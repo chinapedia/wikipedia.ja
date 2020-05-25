@@ -3,7 +3,7 @@
 
 『**FRIED DRAGON FISH: THOMAS EARWING'S AROWANA**』（フライド ドラゴン フィッシュ: トーマス アーウィングズ アロワナ）は、[1993年](../Page/1993年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に放送された[岩井俊二](../Page/岩井俊二.md "wikilink")監督の[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。また、[1996年](../Page/1996年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。
 
-主演は[芳本美代子](https://ja.wikipedia.org/wiki/芳本美代子 "wikilink")、[浅野忠信](../Page/浅野忠信.md "wikilink")。[フジテレビ深夜ドラマ枠](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[La cuisine](https://ja.wikipedia.org/wiki/La_cuisine "wikilink")』（ラ・キュイジーヌ）で放送された後、1996年に同監督作の『[PiCNiC](https://ja.wikipedia.org/wiki/PiCNiC "wikilink")』とカップリングで劇場公開された。
+主演は[芳本美代子](https://ja.wikipedia.org/wiki/芳本美代子 "wikilink")、[浅野忠信](../Page/浅野忠信.md "wikilink")。[フジテレビ深夜ドラマ枠](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[La cuisine](https://ja.wikipedia.org/wiki/La_cuisine "wikilink")』（ラ・キュイジーヌ）で放送された後、1996年に同監督作の『[PiCNiC](../Page/PiCNiC.md "wikilink")』とカップリングで劇場公開された。
 
 ## あらすじ
 
@@ -15,20 +15,20 @@
 
   - [芳本美代子](https://ja.wikipedia.org/wiki/芳本美代子 "wikilink")：プー・リンウォン（デルタレディ）デルタ・ワークス・ジャパン　マスターオペレーター　
   - [浅野忠信](../Page/浅野忠信.md "wikilink")：ナツロウ（密入国者・殺し屋）　　
-  - [HIROSHI OHGUCHI](https://ja.wikipedia.org/wiki/大口広司 "wikilink")：トビヤマ テツ（世界的なテロリストで戦争ブローカー）
+  - [HIROSHI OHGUCHI](../Page/大口広司.md "wikilink")：トビヤマ テツ（世界的なテロリストで戦争ブローカー）
 
 　
 
   - [DERRIK HOLMES](https://ja.wikipedia.org/wiki/DERRIK_HOLMES "wikilink")：ビル（黒人の殺し屋）
   - [ALAN CASEMORE](https://ja.wikipedia.org/wiki/ALAN_CASEMORE "wikilink")：トーマス・アーウィング（生物学者）
-  - [山崎一](https://ja.wikipedia.org/wiki/山崎一 "wikilink")：配送業者
+  - [山崎一](../Page/山崎一.md "wikilink")：配送業者
   - [田口トモロヲ](../Page/田口トモロヲ.md "wikilink")：デルタ・ワークス・ジャパン営業セールスマン
-  - [光石研](https://ja.wikipedia.org/wiki/光石研 "wikilink")：桐生（デルタ・ワークス・ジャパン社員）
-  - [青嶋達也](https://ja.wikipedia.org/wiki/青嶋達也 "wikilink")：フジテレビアナウンサー
+  - [光石研](../Page/光石研.md "wikilink")：桐生（デルタ・ワークス・ジャパン社員）
+  - [青嶋達也](../Page/青嶋達也.md "wikilink")：フジテレビアナウンサー
 
 　　
 
-  - [酒井敏也](https://ja.wikipedia.org/wiki/酒井敏也 "wikilink")：相田探偵事務所長
+  - [酒井敏也](../Page/酒井敏也.md "wikilink")：相田探偵事務所長
 
 　
 
@@ -56,7 +56,7 @@
 
 ## 関連項目
 
-  - [PiCNiC](https://ja.wikipedia.org/wiki/PiCNiC "wikilink")
-  - [スワロウテイル](https://ja.wikipedia.org/wiki/スワロウテイル "wikilink")
+  - [PiCNiC](../Page/PiCNiC.md "wikilink")
+  - [スワロウテイル](../Page/スワロウテイル.md "wikilink")
 
 [Category:日本のサスペンス映画](https://ja.wikipedia.org/wiki/Category:日本のサスペンス映画 "wikilink") [Category:フジテレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink") [Category:岩井俊二の監督映画](https://ja.wikipedia.org/wiki/Category:岩井俊二の監督映画 "wikilink")

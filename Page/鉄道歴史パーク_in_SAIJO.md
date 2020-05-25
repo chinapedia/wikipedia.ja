@@ -1,9 +1,9 @@
-> この記事は[ in SAIJO](https://ja.wikipedia.org/wiki/_in_SAIJO)から翻訳されています。
+> この記事は[鉄道歴史パーク in SAIJO](https://ja.wikipedia.org/wiki/鉄道歴史パーク_in_SAIJO)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SKK_RailMuseum.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Sogo_Shinji_memorial_museum_in_Saijo,_Ehime.jpg "wikilink")
 
-**鉄道歴史パーク in SAIJO**（てつどうれきしパーク イン さいじょう）は、[愛媛県](../Page/愛媛県.md "wikilink")[西条市](../Page/西条市.md "wikilink")の[四国旅客鉄道](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")（JR四国）[予讃線](https://ja.wikipedia.org/wiki/予讃線 "wikilink")[伊予西条駅](https://ja.wikipedia.org/wiki/伊予西条駅 "wikilink")前にある[四国鉄道文化館](https://ja.wikipedia.org/wiki/四国鉄道文化館 "wikilink")、十河（そごう）信二記念館、観光交流センターからなる施設である。
+**鉄道歴史パーク in SAIJO**（てつどうれきしパーク イン さいじょう）は、[愛媛県](../Page/愛媛県.md "wikilink")[西条市](../Page/西条市.md "wikilink")の[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）[予讃線](https://ja.wikipedia.org/wiki/予讃線 "wikilink")[伊予西条駅](https://ja.wikipedia.org/wiki/伊予西条駅 "wikilink")前にある[四国鉄道文化館](../Page/四国鉄道文化館.md "wikilink")、十河（そごう）信二記念館、観光交流センターからなる施設である。
 
 ## 概要
 
@@ -20,7 +20,7 @@
 
 ### 当地以外の西条市の鉄道関係保存品
 
-  - [ポルトガル](../Page/ポルトガル.md "wikilink")[市電](../Page/市電.md "wikilink") - 当地より車で約20分の[四国コカ・コーラボトリング](https://ja.wikipedia.org/wiki/四国コカ・コーラボトリング "wikilink")小松第二工場に静態保存　
+  - [ポルトガル](../Page/ポルトガル.md "wikilink")[市電](../Page/市電.md "wikilink") - 当地より車で約20分の[四国コカ・コーラボトリング](../Page/四国コカ・コーラボトリング.md "wikilink")小松第二工場に静態保存　
 
 ## 外部リンク
 

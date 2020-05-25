@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[Kissで犯罪](https://ja.wikipedia.org/wiki/Kissで犯罪)から翻訳されています。
 
 
 『**Kissで犯罪**』（キッスでクライム）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")ミニ[アルバム](../Page/アルバム.md "wikilink")。
@@ -26,6 +26,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-3601/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-3601)
 
 [Category:プリンセス_プリンセスのアルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのアルバム "wikilink") [Category:1986年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1986年のミニ・アルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink")

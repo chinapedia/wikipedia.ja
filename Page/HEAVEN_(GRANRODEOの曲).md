@@ -1,7 +1,7 @@
-> この記事は[HEAVEN \(GRANRODEO\)](https://ja.wikipedia.org/wiki/HEAVEN_\(GRANRODEO\))から翻訳されています。
+> この記事は[HEAVEN \(GRANRODEOの曲\)](https://ja.wikipedia.org/wiki/HEAVEN_\(GRANRODEOの曲\))から翻訳されています。
 
 
-「**HEAVEN**」（ヘヴン）は、[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に[Lantisより発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")[KISHOWと](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")[e-ZUKAによるロックユニット](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")**[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink")**の5thシングルである。
+「**HEAVEN**」（ヘヴン）は、[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に[Lantisより発売された](../Page/ランティス.md "wikilink")[KISHOWと](../Page/谷山紀章.md "wikilink")[e-ZUKAによるロックユニット](../Page/飯塚昌明.md "wikilink")**[GRANRODEO](../Page/GRANRODEO.md "wikilink")**の5thシングルである。
 
 ## 解説
 

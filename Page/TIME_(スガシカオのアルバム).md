@@ -1,12 +1,12 @@
-> この記事は[TIME \(\)](https://ja.wikipedia.org/wiki/TIME_\(\))から翻訳されています。
+> この記事は[TIME \(スガシカオのアルバム\)](https://ja.wikipedia.org/wiki/TIME_\(スガシカオのアルバム\))から翻訳されています。
 
 
-『**TIME**』（タイム）は、[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")の6枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")発売。
+『**TIME**』（タイム）は、[スガシカオ](../Page/スガシカオ.md "wikilink")の6枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")発売。
 
 ## 概要
 
   - 「初回生産限定盤（CD+DVD）」「通常盤」の2種が同時リリースされた。
-  - 初回生産限定盤には、「[秘密](../Page/秘密_\(スガシカオの曲\).md "wikilink")」「[クライマックス](../Page/クライマックス_\(スガシカオの曲\).md "wikilink")」「[光の川](../Page/光の川.md "wikilink")」の[PVに加え](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、インタビュー、オフショットを収録されたDVDが付いた。
+  - 初回生産限定盤には、「[秘密](../Page/秘密_\(スガシカオの曲\).md "wikilink")」「[クライマックス](../Page/クライマックス_\(スガシカオの曲\).md "wikilink")」「[光の川](../Page/光の川.md "wikilink")」の[PVに加え](../Page/ミュージック・ビデオ.md "wikilink")、インタビュー、オフショットを収録されたDVDが付いた。
 
 ## 収録曲
 
@@ -16,13 +16,13 @@
 2.  **カラッポ**
 3.  **[光の川](../Page/光の川.md "wikilink")**
       - 17thシングル「光の川」収録
-      - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[こちら本池上署](https://ja.wikipedia.org/wiki/こちら本池上署 "wikilink")』主題歌
+      - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[こちら本池上署](../Page/こちら本池上署.md "wikilink")』主題歌
 4.  **アーケード**
       - 16thシングル「クライマックス」収録
 5.  **[クライマックス](../Page/クライマックス_\(スガシカオの曲\).md "wikilink")（Album Version）**
       - 16thシングル「クライマックス」収録
 6.  **June**
-      - [積水ハウス](https://ja.wikipedia.org/wiki/積水ハウス "wikilink")「シャーメゾン」CMソング
+      - [積水ハウス](../Page/積水ハウス.md "wikilink")「シャーメゾン」CMソング
 7.  **あくび**
 8.  **魔法**
 9.  **[秘密](../Page/秘密_\(スガシカオの曲\).md "wikilink")**

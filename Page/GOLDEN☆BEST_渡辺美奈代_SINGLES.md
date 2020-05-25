@@ -1,20 +1,20 @@
-> この記事は[GOLDENBEST  SINGLES](https://ja.wikipedia.org/wiki/GOLDENBEST__SINGLES)から翻訳されています。
+> この記事は[GOLDEN☆BEST 渡辺美奈代 SINGLES](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_渡辺美奈代_SINGLES)から翻訳されています。
 
 
-『**GOLDEN☆BEST 渡辺美奈代 SINGLES**』（ゴールデン☆ベスト わたなべみなよ シングルズ）は、[渡辺美奈代](https://ja.wikipedia.org/wiki/渡辺美奈代 "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。2002年11月20日発売。発売元は[ソニー・ミュージックハウス](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")。
+『**GOLDEN☆BEST 渡辺美奈代 SINGLES**』（ゴールデン☆ベスト わたなべみなよ シングルズ）は、[渡辺美奈代](../Page/渡辺美奈代.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2002年11月20日発売。発売元は[ソニー・ミュージックハウス](../Page/ソニー・ミュージックダイレクト.md "wikilink")。
 
 ## 解説
 
-各[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの中の1枚で、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")会員番号29番・渡辺美奈代の[ソロ](../Page/ソロ_\(音楽\).md "wikilink")・シングル[A面曲が収録されたシングル](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")・コレクション。同グループには解散時（1987年9月）まで在席し、後期のおニャン子クラブを支えた。
+各[レコード会社](../Page/レコード会社.md "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの中の1枚で、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")会員番号29番・渡辺美奈代の[ソロ](../Page/ソロ_\(音楽\).md "wikilink")・シングル[A面曲が収録されたシングル](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")・コレクション。同グループには解散時（1987年9月）まで在席し、後期のおニャン子クラブを支えた。
 
-[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")的なものとして、おニャン子クラブ関連の作品から「メッセージ」と、ソロ・デビュー曲「瞳に約束」のオリジナル・カラオケが収録された。本ベスト盤発売日までにリリースされた全シングル中、「Hanakoの結婚」（1991年8月23日）と「オフロでGO\!」（1995年4月26日）、「いろいろあったけど」（1996年4月24日）は未収録となっている。
+[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")的なものとして、おニャン子クラブ関連の作品から「メッセージ」と、ソロ・デビュー曲「瞳に約束」のオリジナル・カラオケが収録された。本ベスト盤発売日までにリリースされた全シングル中、「Hanakoの結婚」（1991年8月23日）と「オフロでGO\!」（1995年4月26日）、「いろいろあったけど」（1996年4月24日）は未収録となっている。
 
 ジャケット写真は、シングル「いいじゃない」の別ショットが使用された。
 
 ## 収録曲
 
 1.  **[瞳に約束](https://ja.wikipedia.org/wiki/瞳に約束 "wikilink")**（4:15）
-      - 作詞: [秋元康](../Page/秋元康.md "wikilink") 、作曲・編曲: [後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+      - 作詞: [秋元康](../Page/秋元康.md "wikilink") 、作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
       - ソロデビュー曲。オリコンヒットチャートで第1位を獲得した（1986年7月28日付）
 2.  **[雪の帰り道](https://ja.wikipedia.org/wiki/雪の帰り道 "wikilink")**（3:53）
       - 作詞: 秋元康 、作曲・編曲: 後藤次利
@@ -52,17 +52,17 @@
 ## 関連項目
 
   - [ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")
-  - [1986年の音楽](https://ja.wikipedia.org/wiki/1986年の音楽 "wikilink") M-1・2
-  - [1987年の音楽](https://ja.wikipedia.org/wiki/1987年の音楽 "wikilink") M-3・4・5・6
-  - [1988年の音楽](https://ja.wikipedia.org/wiki/1988年の音楽 "wikilink") M-7・8・9・10
-  - [1989年の音楽](https://ja.wikipedia.org/wiki/1989年の音楽 "wikilink") M-11・12・13
-  - [1990年の音楽](https://ja.wikipedia.org/wiki/1990年の音楽 "wikilink") M-14
+  - [1986年の音楽](../Page/1986年の音楽.md "wikilink") M-1・2
+  - [1987年の音楽](../Page/1987年の音楽.md "wikilink") M-3・4・5・6
+  - [1988年の音楽](../Page/1988年の音楽.md "wikilink") M-7・8・9・10
+  - [1989年の音楽](../Page/1989年の音楽.md "wikilink") M-11・12・13
+  - [1990年の音楽](../Page/1990年の音楽.md "wikilink") M-14
 
 ## 関連人物
 
   - [おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")
   - [秋元康](../Page/秋元康.md "wikilink")
-  - [後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+  - [後藤次利](../Page/後藤次利.md "wikilink")
   - [鈴木慶一](../Page/鈴木慶一.md "wikilink")
 
 [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink") [Category:GOLDEN☆BEST](https://ja.wikipedia.org/wiki/Category:GOLDEN☆BEST "wikilink") [Category:渡辺美奈代のアルバム](https://ja.wikipedia.org/wiki/Category:渡辺美奈代のアルバム "wikilink") [Category:ソニー・ミュージックダイレクトのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックダイレクトのアルバム "wikilink")

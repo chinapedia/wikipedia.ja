@@ -1,11 +1,11 @@
 > この記事は[All of my mind](https://ja.wikipedia.org/wiki/All_of_my_mind)から翻訳されています。
 
 
-『**all of my mind**（オール・オブ・マイ・マインド）』は、[日本の](https://ja.wikipedia.org/wiki/日本国 "wikilink")[歌手](../Page/歌手.md "wikilink")・[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink")のアルバム。2001年12月5日に発売。発売元は[インデックスミュージック](https://ja.wikipedia.org/wiki/インデックスミュージック "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")（NECA-30052）
+『**all of my mind**（オール・オブ・マイ・マインド）』は、[日本の](https://ja.wikipedia.org/wiki/日本国 "wikilink")[歌手](../Page/歌手.md "wikilink")・[和田光司](../Page/和田光司.md "wikilink")のアルバム。2001年12月5日に発売。発売元は[インデックスミュージック](https://ja.wikipedia.org/wiki/インデックスミュージック "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")（NECA-30052）
 
 ## 概要
 
-  - 収録曲は、シングル5作からタイトル曲およびカップリング曲に、新曲「少女のままで」「Modern Love」を加えた計12曲。その多くが『デジモンシリーズ』の主題歌・挿入歌であり、一種の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")に近いものとなっている。
+  - 収録曲は、シングル5作からタイトル曲およびカップリング曲に、新曲「少女のままで」「Modern Love」を加えた計12曲。その多くが『デジモンシリーズ』の主題歌・挿入歌であり、一種の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")に近いものとなっている。
   - 「[炎のオーバードライブ](../Page/炎のオーバードライブ.md "wikilink")」は、未収録。
 
 ## 収録曲

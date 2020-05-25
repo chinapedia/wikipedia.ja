@@ -1,15 +1,15 @@
-> この記事は[PRIDE GRANDPRIX 2000 ](https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2000_)から翻訳されています。
+> この記事は[PRIDE GRANDPRIX 2000 決勝戦](https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2000_決勝戦)から翻訳されています。
 
 
-**PRIDE GRANDPRIX 2000 決勝戦**（プライドグランプリにせん けっしょうせん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2000年](../Page/2000年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")で開催された。
+**PRIDE GRANDPRIX 2000 決勝戦**（プライドグランプリにせん けっしょうせん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2000年](../Page/2000年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")で開催された。
 
 ## 大会概要
 
-[桜庭和志](../Page/桜庭和志.md "wikilink")と[ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink")との戦いは[グレイシー一族](https://ja.wikipedia.org/wiki/グレイシー一族 "wikilink")の要求したレフェリーストップなし、15分無制限ラウンドの特別ルールを桜庭が呑んだことにより一気に世の注目を集める。試合は6R90分間の死闘の末、グレイシー陣営のタオル投入により桜庭がTKOで勝利した。
+[桜庭和志](../Page/桜庭和志.md "wikilink")と[ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink")との戦いは[グレイシー一族](../Page/グレイシー一族.md "wikilink")の要求したレフェリーストップなし、15分無制限ラウンドの特別ルールを桜庭が呑んだことにより一気に世の注目を集める。試合は6R90分間の死闘の末、グレイシー陣営のタオル投入により桜庭がTKOで勝利した。
 
-[小路晃](https://ja.wikipedia.org/wiki/小路晃 "wikilink")は圧倒的な体格差のある[マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink")を相手に大健闘し、敗れはしたもののファンの熱い声援を受けた。
+[小路晃](../Page/小路晃.md "wikilink")は圧倒的な体格差のある[マーク・コールマン](../Page/マーク・コールマン.md "wikilink")を相手に大健闘し、敗れはしたもののファンの熱い声援を受けた。
 
-[藤田和之](https://ja.wikipedia.org/wiki/藤田和之 "wikilink")はグランプリ優勝候補といわれた[マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink")を相手に判定勝ちを収め、この日一番の大番狂わせを起こした。
+[藤田和之](../Page/藤田和之.md "wikilink")はグランプリ優勝候補といわれた[マーク・ケアー](../Page/マーク・ケアー.md "wikilink")を相手に判定勝ちを収め、この日一番の大番狂わせを起こした。
 
 準決勝は日本人2人が共にタオル投入によるTKO負け。
 
@@ -18,42 +18,42 @@
 ## 試合結果
 
   - 第1試合 PRIDE GRANDPRIX 2000 2回戦 15分1R
-    ○  [イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink") vs.  [ゲーリー・グッドリッジ](https://ja.wikipedia.org/wiki/ゲーリー・グッドリッジ "wikilink") ×
-    1R 10:14 TKO（レフェリーストップ：右フック→[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") vs.  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") ×
+    1R 10:14 TKO（レフェリーストップ：右フック→[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
     ※ボブチャンチンが準決勝進出。
   - 第2試合 PRIDE GRANDPRIX 2000 2回戦 15分無制限R
-    ○  [桜庭和志](../Page/桜庭和志.md "wikilink") vs.  [ホイス・グレイシー](https://ja.wikipedia.org/wiki/ホイス・グレイシー "wikilink") ×
+    ○  [桜庭和志](../Page/桜庭和志.md "wikilink") vs.  [ホイス・グレイシー](../Page/ホイス・グレイシー.md "wikilink") ×
     6R終了時 TKO（タオル投入：棄権）
     ※桜庭が準決勝進出。
   - 第3試合 PRIDE GRANDPRIX 2000 2回戦 15分1R
-    ○  [マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink") vs.  [小路晃](https://ja.wikipedia.org/wiki/小路晃 "wikilink") ×
+    ○  [マーク・コールマン](../Page/マーク・コールマン.md "wikilink") vs.  [小路晃](../Page/小路晃.md "wikilink") ×
     1R終了 判定3-0
     ※コールマンが準決勝進出。
   - 第4試合 PRIDE GRANDPRIX 2000 2回戦 15分1R
-    ○  [藤田和之](https://ja.wikipedia.org/wiki/藤田和之 "wikilink") vs.  [マーク・ケアー](https://ja.wikipedia.org/wiki/マーク・ケアー "wikilink") ×
+    ○  [藤田和之](../Page/藤田和之.md "wikilink") vs.  [マーク・ケアー](../Page/マーク・ケアー.md "wikilink") ×
     1R終了 判定3-0
     ※藤田が準決勝進出。
   - 第5試合 スペシャルマッチ 10分2R
-    ○  [ガイ・メッツァー](https://ja.wikipedia.org/wiki/ガイ・メッツァー "wikilink") vs.  [佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink") ×
+    ○  [ガイ・メッツァー](../Page/ガイ・メッツァー.md "wikilink") vs.  [佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink") ×
     2R終了 判定3-0
   - 第6試合 PRIDE GRANDPRIX 2000 準決勝 15分1R
-    ○  [イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink") vs.  [桜庭和志](../Page/桜庭和志.md "wikilink") ×
+    ○  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") vs.  [桜庭和志](../Page/桜庭和志.md "wikilink") ×
     1R終了時 TKO（タオル投入：棄権）
     ※ボブチャンチンが決勝進出。
   - 第7試合 PRIDE GRANDPRIX 2000 準決勝 15分1R
-    ○  [マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink") vs.  [藤田和之](https://ja.wikipedia.org/wiki/藤田和之 "wikilink") ×
+    ○  [マーク・コールマン](../Page/マーク・コールマン.md "wikilink") vs.  [藤田和之](../Page/藤田和之.md "wikilink") ×
     1R 0:02 TKO（タオル投入：左膝靭帯損傷）
   - 第8試合 スペシャルマッチ 10分2R
-    ○  [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink") vs.  [アレクサンダー大塚](https://ja.wikipedia.org/wiki/アレクサンダー大塚 "wikilink") ×
-    1R 9:43 TKO（レフェリーストップ：左フック→[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink") vs.  [アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink") ×
+    1R 9:43 TKO（レフェリーストップ：左フック→[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第9試合 PRIDE GRANDPRIX 2000 決勝戦 15分1R
-    ○  [マーク・コールマン](https://ja.wikipedia.org/wiki/マーク・コールマン "wikilink") vs.  [イゴール・ボブチャンチン](https://ja.wikipedia.org/wiki/イゴール・ボブチャンチン "wikilink") ×
+    ○  [マーク・コールマン](../Page/マーク・コールマン.md "wikilink") vs.  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") ×
     2R 3:09 TKO（ギブアップ：グラウンドの膝蹴り）
     ※コールマンがグランプリ優勝。
 
 ## 関連項目
 
-  - [PRIDEの大会一覧](https://ja.wikipedia.org/wiki/PRIDEの大会一覧 "wikilink")
+  - [PRIDEの大会一覧](../Page/PRIDEの大会一覧.md "wikilink")
   - [PRIDE王者一覧](https://ja.wikipedia.org/wiki/PRIDE王者一覧 "wikilink")
   - [PRIDE GRANDPRIX 2000 決勝戦 桜庭和志vsホイス・グレイシー](https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2000_決勝戦_桜庭和志vsホイス・グレイシー "wikilink")
 

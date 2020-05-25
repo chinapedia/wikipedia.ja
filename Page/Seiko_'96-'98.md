@@ -1,11 +1,11 @@
 > この記事は[Seiko \'96-\'98](https://ja.wikipedia.org/wiki/Seiko_\'96-\'98)から翻訳されています。
 
 
-『**Seiko '96-'98**』（セイコ ナインティーシックス・トゥ・ナインティーエイト）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。1998年12月2日発売。発売元は[マーキュリー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**Seiko '96-'98**』（セイコ ナインティーシックス・トゥ・ナインティーエイト）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。1998年12月2日発売。発売元は[マーキュリー・ミュージックエンタテインメント](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-  - マーキュリー（現・[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）に移籍後、初めてのベストアルバム。
+  - マーキュリー（現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）に移籍後、初めてのベストアルバム。
   - オリジナルカラオケ・ディスク盤が別にリリースされた。
   - 移籍第1弾シングルの大ヒット･ナンバー「あなたに逢いたくて〜Missing You〜」以降にリリースされた、日本語詞のシングルA面曲（両A面含む）がすべて収録されている。概ね発表順に並んでいるが、1曲目は当アルバム・リリース時点での最新シングル「Touch the LOVE」。
 
@@ -16,15 +16,15 @@
         ウォルト・ディズニー ビデオ イメージソング
 2.  **Crazy Shopper**　（4:52）
       -
-        アルバム『[Vanity Fair](https://ja.wikipedia.org/wiki/Vanity_Fair "wikilink")』（1996年5月27日）収録
+        アルバム『[Vanity Fair](../Page/Vanity_Fair.md "wikilink")』（1996年5月27日）収録
 3.  **[明日へと駆け出してゆこう](https://ja.wikipedia.org/wiki/あなたに逢いたくて〜Missing_You〜/明日へと駆け出してゆこう "wikilink")**　（4:33）
       -
-        テレビ朝日系アニメ『[怪盗セイント・テール](https://ja.wikipedia.org/wiki/怪盗セイント・テール "wikilink")』 オープニング・テーマ
+        テレビ朝日系アニメ『[怪盗セイント・テール](../Page/怪盗セイント・テール.md "wikilink")』 オープニング・テーマ
 4.  **[あなたに逢いたくて〜Missing You〜](https://ja.wikipedia.org/wiki/あなたに逢いたくて〜Missing_You〜/明日へと駆け出してゆこう "wikilink")**　（5:31）
       -
         [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink") コマーシャルソング
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディング・テーマ
-        ミニ・アルバム『[Sweetest Time](https://ja.wikipedia.org/wiki/Sweetest_Time "wikilink")』（1997年12月3日）には、英語ヴァージョンが収録されている。
+        ミニ・アルバム『[Sweetest Time](../Page/Sweetest_Time.md "wikilink")』（1997年12月3日）には、英語ヴァージョンが収録されている。
 5.  **もし、もう一度戻れるなら**　（5:38）
       -
         アルバム『Vanity Fair』収録
@@ -47,10 +47,10 @@
         ミニ・アルバム『Sweetest Time』には、英語ヴァージョンが収録されている。
 12. **[恋する想い〜Fall in love〜](../Page/恋する想い〜Fall_in_love〜.md "wikilink")**　（4:46）
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")』エンディング・テーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")』エンディング・テーマ
 13. **Forever**　（4:31）
       -
-        アルバム『[Forever](https://ja.wikipedia.org/wiki/Forever_\(松田聖子のアルバム\) "wikilink")』（1998年5月8日）収録
+        アルバム『[Forever](../Page/Forever_\(松田聖子のアルバム\).md "wikilink")』（1998年5月8日）収録
 14. **風に吹かれて**　（4:29）
       -
         アルバム『Forever』収録
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   - 全作詞: Seiko Matsuda
-  - 全作曲: Seiko Matsuda・[Ryo Ogura](https://ja.wikipedia.org/wiki/小倉良 "wikilink")　（except \#7 補作詞・作曲: スージー・キム）　
+  - 全作曲: Seiko Matsuda・[Ryo Ogura](../Page/小倉良.md "wikilink")　（except \#7 補作詞・作曲: スージー・キム）　
 
 ## 関連ベスト
 

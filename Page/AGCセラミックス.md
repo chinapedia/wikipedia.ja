@@ -1,4 +1,4 @@
-> この記事は[AGC](https://ja.wikipedia.org/wiki/AGC)から翻訳されています。
+> この記事は[AGCセラミックス](https://ja.wikipedia.org/wiki/AGCセラミックス)から翻訳されています。
 
 
 **AGCセラミックス**（英文名称*AGC Ceramics Co.,Ltd.*）は耐火物や[ファインセラミックス](../Page/ファインセラミックス.md "wikilink")の製造を行う企業。[AGC](../Page/AGC.md "wikilink")の子会社。

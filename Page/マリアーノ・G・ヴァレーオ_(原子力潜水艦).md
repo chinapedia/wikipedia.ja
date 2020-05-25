@@ -1,4 +1,4 @@
-> この記事は[G \(\)](https://ja.wikipedia.org/wiki/G_\(\))から翻訳されています。
+> この記事は[マリアーノ・G・ヴァレーオ \(原子力潜水艦\)](https://ja.wikipedia.org/wiki/マリアーノ・G・ヴァレーオ_\(原子力潜水艦\))から翻訳されています。
 
 
 |                                                                                                                                             |
@@ -13,7 +13,7 @@
 | その後:                                                                                                                                        |
 | 除籍:                                                                                                                                         |
 | 性能諸元                                                                                                                                        |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink"):                                                                                        |
+| [排水量](../Page/排水量.md "wikilink"):                                                                                                           |
 | 全長:                                                                                                                                         |
 | 全幅:                                                                                                                                         |
 | 吃水:                                                                                                                                         |

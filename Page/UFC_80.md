@@ -1,13 +1,13 @@
 > この記事は[UFC 80](https://ja.wikipedia.org/wiki/UFC_80)から翻訳されています。
 
 
-**UFC 80: Rapid Fire**（ユーエフシー・エイティ：ラピッド・ファイア）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")、[イングランド](../Page/イングランド.md "wikilink")・[ニューカッスルのメトロ](https://ja.wikipedia.org/wiki/ニューカッスル・アポン・タイン "wikilink")・レイディオ・アリーナで開催された。
+**UFC 80: Rapid Fire**（ユーエフシー・エイティ：ラピッド・ファイア）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")、[イングランド](../Page/イングランド.md "wikilink")・[ニューカッスルのメトロ](../Page/ニューカッスル・アポン・タイン.md "wikilink")・レイディオ・アリーナで開催された。
 
 ## 大会概要
 
-UFC世界ライト級王者[ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink")がカリフォルニア州アスレチック・コミッションから薬物使用によりライト級王座を剥奪されたことを受け、メインイベントでは[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink")と[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")が第3代UFC世界ライト級王座を賭けて対戦し\[1\]、ペンがスティーブンソンに勝利し2階級制覇となる王座獲得に成功した。
+UFC世界ライト級王者[ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink")がカリフォルニア州アスレチック・コミッションから薬物使用によりライト級王座を剥奪されたことを受け、メインイベントでは[BJ・ペン](../Page/BJ・ペン.md "wikilink")と[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")が第3代UFC世界ライト級王座を賭けて対戦し\[1\]、ペンがスティーブンソンに勝利し2階級制覇となる王座獲得に成功した。
 
-また、ヘビー級ワンマッチとして[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")と[ファブリシオ・ヴェウドゥム](https://ja.wikipedia.org/wiki/ファブリシオ・ヴェウドゥム "wikilink")が再戦し、ヴェウドゥムがゴンザーガをTKOで破った。
+また、ヘビー級ワンマッチとして[ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink")と[ファブリシオ・ヴェウドゥム](../Page/ファブリシオ・ヴェウドゥム.md "wikilink")が再戦し、ヴェウドゥムがゴンザーガをTKOで破った。
 
 [KOTC世界ライトヘビー級王者](https://ja.wikipedia.org/wiki/King_of_the_Cage "wikilink")[ジェームス・リー](../Page/ジェームス・リー.md "wikilink")、キャリア7戦全勝の[ポール・ケリーがUFCデビュー](https://ja.wikipedia.org/wiki/ポール・ケリー_\(格闘家\) "wikilink")。
 
@@ -16,16 +16,16 @@ UFC世界ライト級王者[ショーン・シャーク](../Page/ショーン・
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [サム・スタウト](https://ja.wikipedia.org/wiki/サム・スタウト "wikilink") vs.  [ペール・エクルンド](https://ja.wikipedia.org/wiki/ペール・エクルンド "wikilink") ×
+    ○  [サム・スタウト](https://ja.wikipedia.org/wiki/サム・スタウト "wikilink") vs.  [ペール・エクルンド](../Page/ペール・エクルンド.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第2試合 ライトヘビー級 5分3R
     ○  [アレッシオ・サカラ](../Page/アレッシオ・サカラ.md "wikilink") vs.  [ジェームス・リー](../Page/ジェームス・リー.md "wikilink") ×
-    1R 1:30 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 1:30 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 ウェルター級 5分3R
     ○  [ポール・ケリー](https://ja.wikipedia.org/wiki/ポール・ケリー_\(格闘家\) "wikilink") vs.  [ポール・テイラー](https://ja.wikipedia.org/wiki/ポール・テイラー_\(格闘家\) "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第4試合 ヘビー級 5分3R
-    ○  [アントニー・ハードンク](https://ja.wikipedia.org/wiki/アントニー・ハードンク "wikilink") vs.  コリン・ロビンソン ×
+    ○  [アントニー・ハードンク](../Page/アントニー・ハードンク.md "wikilink") vs.  コリン・ロビンソン ×
     1R 0:17 TKO（レフェリーストップ：左フック）
 
 ### メインカード
@@ -40,11 +40,11 @@ UFC世界ライト級王者[ショーン・シャーク](../Page/ショーン・
     ○  [マーカス・デイヴィス](https://ja.wikipedia.org/wiki/マーカス・デイヴィス "wikilink") vs.  [ジェス・リアウディン](../Page/ジェス・リアウディン.md "wikilink") ×
     1R 1:04 KO（左フック）
   - 第8試合 ヘビー級 5分3R
-    ○  [ファブリシオ・ヴェウドゥム](https://ja.wikipedia.org/wiki/ファブリシオ・ヴェウドゥム "wikilink") vs.  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") ×
-    2R 4:34 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ファブリシオ・ヴェウドゥム](../Page/ファブリシオ・ヴェウドゥム.md "wikilink") vs.  [ガブリエル・ゴンザーガ](../Page/ガブリエル・ゴンザーガ.md "wikilink") ×
+    2R 4:34 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第9試合 UFC世界ライト級王座決定戦 5分5R
-    ○  [BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン "wikilink") vs.  [ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink") ×
-    2R 4:02 [チョークスリーパー](https://ja.wikipedia.org/wiki/裸絞 "wikilink")
+    ○  [BJ・ペン](../Page/BJ・ペン.md "wikilink") vs.  [ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink") ×
+    2R 4:02 [チョークスリーパー](../Page/裸絞.md "wikilink")
     ※ペンが王座獲得に成功。
 
 ### 各賞
@@ -60,7 +60,7 @@ UFC世界ライト級王者[ショーン・シャーク](../Page/ショーン・
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

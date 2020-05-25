@@ -79,7 +79,7 @@
           - [NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")
   - 民間放送
       - [HBC函館ラジオ送信所](../Page/HBC函館ラジオ送信所.md "wikilink")
-      - [STV函館ラジオ送信所](https://ja.wikipedia.org/wiki/STV函館ラジオ送信所 "wikilink")
+      - [STV函館ラジオ送信所](../Page/STV函館ラジオ送信所.md "wikilink")
   - 中継局
       - [江差ラジオ中継局](../Page/江差ラジオ中継局.md "wikilink")
       - [北桧山ラジオ中継局](../Page/北桧山ラジオ中継局.md "wikilink")

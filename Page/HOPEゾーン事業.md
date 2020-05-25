@@ -1,7 +1,7 @@
-> この記事は[HOPE](https://ja.wikipedia.org/wiki/HOPE)から翻訳されています。
+> この記事は[HOPEゾーン事業](https://ja.wikipedia.org/wiki/HOPEゾーン事業)から翻訳されています。
 
 
-**HOPEゾーン事業**（ホープゾーンじぎょう）とは、[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")が実施している、歴史的・文化的な町並みや雰囲気など、地域の特性を活かし、魅力ある住宅地の形成を図る事業である。
+**HOPEゾーン事業**（ホープゾーンじぎょう）とは、[大阪市](../Page/大阪市.md "wikilink")が実施している、歴史的・文化的な町並みや雰囲気など、地域の特性を活かし、魅力ある住宅地の形成を図る事業である。
 
 現在、**HOPEゾーン**に、3地区が指定されていて、それぞれに「HOPEゾーン協議会」が設置されている。
 
@@ -35,7 +35,7 @@
 
 ### 空堀地区
 
-[難波京](https://ja.wikipedia.org/wiki/難波京 "wikilink")時代に市街地のあった[上町台地](https://ja.wikipedia.org/wiki/上町台地 "wikilink")に位置し、豊臣時代の[大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")の[外堀である](https://ja.wikipedia.org/wiki/堀 "wikilink")[惣構であり](https://ja.wikipedia.org/wiki/総構え "wikilink")、江戸期に発展した[空堀は](https://ja.wikipedia.org/wiki/堀 "wikilink")、戦災を免れ残っている戦前のたたずまい（長屋・町家・坂道・石段・石畳の路地など）を生かした都心部における魅力的な住宅地形成を進める。
+[難波京](../Page/難波京.md "wikilink")時代に市街地のあった[上町台地](../Page/上町台地.md "wikilink")に位置し、豊臣時代の[大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")の[外堀である](../Page/堀.md "wikilink")[惣構であり](../Page/総構え.md "wikilink")、江戸期に発展した[空堀は](../Page/堀.md "wikilink")、戦災を免れ残っている戦前のたたずまい（長屋・町家・坂道・石段・石畳の路地など）を生かした都心部における魅力的な住宅地形成を進める。
 
 **地区**（[地図](http://www.sumai.city.osaka.jp/subpage.php?p=7086)）
 
@@ -44,7 +44,7 @@
 <!-- end list -->
 
   -
-    [上本町](https://ja.wikipedia.org/wiki/上本町 "wikilink")西1～3丁目、瓦屋町1丁目1～9番、[谷町](../Page/谷町.md "wikilink")6・7丁目、[松屋町](https://ja.wikipedia.org/wiki/松屋町 "wikilink")3・4番
+    [上本町](../Page/上本町.md "wikilink")西1～3丁目、瓦屋町1丁目1～9番、[谷町](../Page/谷町.md "wikilink")6・7丁目、[松屋町](../Page/松屋町.md "wikilink")3・4番
 
 ## 全市的な展開へ
 
@@ -61,8 +61,10 @@ HOPEゾーン事業の更なる展開が検討されている。
 ## 外部リンク
 
   - [HOPEゾーン事業](http://www.sumai.city.osaka.jp/subpage.php?p=7693)（大阪市立住まい情報センター）
+
   - [平野郷HOPEゾーン協議会](http://www.oct.zaq.ne.jp/hiranohope/)
-  - [住吉大社周辺地区HOPEゾーン協議会](http://sumiyoshihope.web.infoseek.co.jp/)
+
+  -
   - [からほり街並井戸端会（HOPEゾーン空堀地区）](http://karahori.hp.infoseek.co.jp/)
 
 [Category:日本の都市計画事業](https://ja.wikipedia.org/wiki/Category:日本の都市計画事業 "wikilink") [Category:大阪市](https://ja.wikipedia.org/wiki/Category:大阪市 "wikilink")

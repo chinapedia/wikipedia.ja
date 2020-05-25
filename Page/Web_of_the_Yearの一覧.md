@@ -1,11 +1,11 @@
-> この記事は[Web of the Year](https://ja.wikipedia.org/wiki/Web_of_the_Year)から翻訳されています。
+> この記事は[Web of the Yearの一覧](https://ja.wikipedia.org/wiki/Web_of_the_Yearの一覧)から翻訳されています。
 
 
-**Web of the Yearの一覧**（ウェブ・オブ・ザ・イヤーのいちらん）では、各年の[Web of the Yearにおける年間総合大賞](https://ja.wikipedia.org/wiki/Web_of_the_Year "wikilink")・特別賞1位・部門賞1位の[ウェブサイト](../Page/ウェブサイト.md "wikilink")を列挙する。
+**Web of the Yearの一覧**（ウェブ・オブ・ザ・イヤーのいちらん）では、各年の[Web of the Yearにおける年間総合大賞](../Page/Web_of_the_Year.md "wikilink")・特別賞1位・部門賞1位の[ウェブサイト](../Page/ウェブサイト.md "wikilink")を列挙する。
 
 ## 1999年
 
-  - 年間総合大賞 - [インターネットの本屋さんまぐまぐ](https://ja.wikipedia.org/wiki/まぐまぐ "wikilink")
+  - 年間総合大賞 - [インターネットの本屋さんまぐまぐ](../Page/まぐまぐ.md "wikilink")
 
 **部門賞**
 
@@ -19,13 +19,13 @@
   - ニュース - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")
   - メディア - [フジテレビホームページ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
   - コンピュータ - [窓の杜](../Page/窓の杜.md "wikilink")
-  - エンターテインメント - [@ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")
+  - エンターテインメント - [@ぴあ](../Page/ぴあ.md "wikilink")
   - 生活情報 - [Chance It\!](https://ja.wikipedia.org/wiki/チャンスイット "wikilink")
   - 旅行・地域情報 - [MapFan Web](https://ja.wikipedia.org/wiki/MapFan_Web "wikilink")
   - ビジネスと経済・金融 - [Yahoo\!ファイナンス](https://ja.wikipedia.org/wiki/Yahoo!ファイナンス "wikilink")
   - スポーツ - [Yahoo\!スポーツ](https://ja.wikipedia.org/wiki/Yahoo!スポーツ "wikilink")
-  - 子ども・ファミリー向け - [ディズニー・オフィシャルホームページ](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")
-  - コミュニティ - [Yahoo\!掲示板](https://ja.wikipedia.org/wiki/Yahoo!掲示板 "wikilink")
+  - 子ども・ファミリー向け - [ディズニー・オフィシャルホームページ](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")
+  - コミュニティ - [Yahoo\!掲示板](../Page/Yahoo!掲示板.md "wikilink")
 
 ## 2000年
 
@@ -43,12 +43,12 @@
   - コンピュータ - [窓の杜](../Page/窓の杜.md "wikilink")
   - スポーツ - [中田英寿](../Page/中田英寿.md "wikilink")オフィシャルホームページ
   - エンターティメント - [Chance It\!](https://ja.wikipedia.org/wiki/チャンスイット "wikilink")
-  - 生活情報 - [ぐるなび](https://ja.wikipedia.org/wiki/ぐるなび "wikilink")
+  - 生活情報 - [ぐるなび](../Page/ぐるなび.md "wikilink")
   - ビジネスと金融 - [Yahoo\!ファイナンス](https://ja.wikipedia.org/wiki/Yahoo!ファイナンス "wikilink")
   - 旅行・タウン情報 - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")
-  - コミュニティ - [Yahoo\!掲示板](https://ja.wikipedia.org/wiki/Yahoo!掲示板 "wikilink")
+  - コミュニティ - [Yahoo\!掲示板](../Page/Yahoo!掲示板.md "wikilink")
   - ショッピング・オークション - [楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")
-  - 無料サービス - [まぐまぐ](https://ja.wikipedia.org/wiki/まぐまぐ "wikilink")
+  - 無料サービス - [まぐまぐ](../Page/まぐまぐ.md "wikilink")
 
 ## 2001年
 
@@ -64,12 +64,12 @@
   - ニュース - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")
   - メディア - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
   - 懸賞＆得するサービス - [Chance It\!](https://ja.wikipedia.org/wiki/チャンスイット "wikilink")
-  - 無料サービス - [まぐまぐ](https://ja.wikipedia.org/wiki/まぐまぐ "wikilink")
+  - 無料サービス - [まぐまぐ](../Page/まぐまぐ.md "wikilink")
   - 総合ショッピング/オークション - [楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")
   - 専門ショッピング - [ユニクロ](../Page/ユニクロ.md "wikilink")ドットコム
-  - エンターテインメント・趣味 - [ザ\!鉄腕\!DASH\!\!](https://ja.wikipedia.org/wiki/ザ!鉄腕!DASH!! "wikilink")
+  - エンターテインメント・趣味 - [ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")
   - コンピュータとインターネット - [窓の杜](../Page/窓の杜.md "wikilink")
-  - 生活情報 - [ぐるなび](https://ja.wikipedia.org/wiki/ぐるなび "wikilink")
+  - 生活情報 - [ぐるなび](../Page/ぐるなび.md "wikilink")
   - コミュニティ - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")
   - 旅行と地域情報 - [旅の窓口](https://ja.wikipedia.org/wiki/旅の窓口 "wikilink")
   - スポーツ - [Yahoo\!スポーツ](https://ja.wikipedia.org/wiki/Yahoo!スポーツ "wikilink")
@@ -82,7 +82,7 @@
 **特別賞**
 
   - 新人賞 - [Yahoo\!パーソナルズ](https://ja.wikipedia.org/wiki/Yahoo!パーソナルズ "wikilink")
-  - 話題賞 - [2002 FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")
+  - 話題賞 - [2002 FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")
 
 **部門賞**
 
@@ -118,8 +118,8 @@
   - ショッピング・オークション - [Yahoo\!オークション](https://ja.wikipedia.org/wiki/Yahoo!オークション "wikilink")
   - 旅行・チケット予約 - [旅の窓口](https://ja.wikipedia.org/wiki/旅の窓口 "wikilink")
   - コンピュータとインターネット - 窓の杜
-  - エンターテインメント - [DASH WEB](https://ja.wikipedia.org/wiki/ザ!鉄腕!DASH!! "wikilink")
-  - 生活情報 - [伊東家の食卓](https://ja.wikipedia.org/wiki/伊東家の食卓 "wikilink")
+  - エンターテインメント - [DASH WEB](../Page/ザ!鉄腕!DASH!!.md "wikilink")
+  - 生活情報 - [伊東家の食卓](../Page/伊東家の食卓.md "wikilink")
   - スポーツ - Yahoo\!スポーツ
   - 懸賞＆得するサービス - [ふくびき.com](https://ja.wikipedia.org/wiki/ふくびき.com "wikilink")
   - コミュニティ - 2ちゃんねる
@@ -131,19 +131,19 @@
 
 **特別賞**
 
-  - 新人賞 - [Yahoo\!知恵袋](https://ja.wikipedia.org/wiki/Yahoo!知恵袋 "wikilink")
-  - 話題賞 - [電車男](https://ja.wikipedia.org/wiki/電車男 "wikilink")
-  - ポータル賞 - [Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")
+  - 新人賞 - [Yahoo\!知恵袋](../Page/Yahoo!知恵袋.md "wikilink")
+  - 話題賞 - [電車男](../Page/電車男.md "wikilink")
+  - ポータル賞 - [Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")
 
 **部門賞**
 
   - ニュース・メディア - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
   - オンラインサービス - [Yahoo\!メール](../Page/Yahoo!メール.md "wikilink")
   - ショッピング・オークション - [Yahoo\!オークション](https://ja.wikipedia.org/wiki/Yahoo!オークション "wikilink")
-  - 旅行・チケット予約 - [楽天トラベル](https://ja.wikipedia.org/wiki/楽天トラベル "wikilink")
+  - 旅行・チケット予約 - [楽天トラベル](../Page/楽天トラベル.md "wikilink")
   - コンピュータ・インターネット - [窓の杜](../Page/窓の杜.md "wikilink")
-  - エンターテインメント - [ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")
-  - 生活情報 - [ぐるなび](https://ja.wikipedia.org/wiki/ぐるなび "wikilink")
+  - エンターテインメント - [ハンゲーム](../Page/ハンゲーム.md "wikilink")
+  - 生活情報 - [ぐるなび](../Page/ぐるなび.md "wikilink")
   - スポーツ - [スポーツナビ](https://ja.wikipedia.org/wiki/スポーツナビ "wikilink")
   - 懸賞・得するサービス - [5050jp](https://ja.wikipedia.org/wiki/5050jp "wikilink")
   - コミュニティ - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")
@@ -161,18 +161,18 @@
 
 **部門賞**
 
-  - 情報検索 - [Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")
+  - 情報検索 - [Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")
   - ニュース - [asahi.com](https://ja.wikipedia.org/wiki/asahi.com "wikilink")
   - オンラインサービス - [Yahoo\!メール](../Page/Yahoo!メール.md "wikilink")
   - ショッピング・オークション - [Yahoo\!オークション](https://ja.wikipedia.org/wiki/Yahoo!オークション "wikilink")
   - 旅行・チケット予約 - [じゃらんnet](https://ja.wikipedia.org/wiki/じゃらんnet "wikilink")
-  - 生活情報 - [ぐるなび](https://ja.wikipedia.org/wiki/ぐるなび "wikilink")
-  - エンターテインメント - [ハンゲーム](https://ja.wikipedia.org/wiki/ハンゲーム "wikilink")
+  - 生活情報 - [ぐるなび](../Page/ぐるなび.md "wikilink")
+  - エンターテインメント - [ハンゲーム](../Page/ハンゲーム.md "wikilink")
   - マネー - イーバンク銀行
   - テレビ・ラジオ - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
   - コンピュータ - [窓の杜](../Page/窓の杜.md "wikilink")
   - コミュニティ - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")
-  - お得なサービス - [ネットマイル](https://ja.wikipedia.org/wiki/ネットマイル "wikilink")
+  - お得なサービス - [ネットマイル](../Page/ネットマイル.md "wikilink")
   - 動画・音楽配信 - GyaO
 
 ## 2006年
@@ -190,7 +190,7 @@
   - コミュニティ - [mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")
   - 動画 - YouTube
   - 音楽 - [iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")
-  - 地図 - [Google マップ](https://ja.wikipedia.org/wiki/Google_マップ "wikilink")
+  - 地図 - [Google マップ](../Page/Google_マップ.md "wikilink")
   - 旅行 - [じゃらんnet](https://ja.wikipedia.org/wiki/じゃらんnet "wikilink")
   - ショッピング - [Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")
   - オンラインフォト・ストレージ - [Yahoo\!フォト](https://ja.wikipedia.org/wiki/Yahoo!フォト "wikilink")
@@ -198,7 +198,7 @@
   - 店舗検索 - ぐるなび
   - エンターテインメント - ハンゲーム
   - オンラインバンク - イーバンク銀行
-  - オンライントレード - [イー・トレード証券](https://ja.wikipedia.org/wiki/SBI証券 "wikilink")
+  - オンライントレード - [イー・トレード証券](../Page/SBI証券.md "wikilink")
   - コンピュータ -[窓の杜](../Page/窓の杜.md "wikilink")
   - 情報検索 - [Google](../Page/Google.md "wikilink")
   - ニュース - [NIKKEI NET](https://ja.wikipedia.org/wiki/NIKKEI_NET "wikilink")
@@ -211,7 +211,7 @@
 
 **特別賞**
 
-  - ネットレイティングス賞 - [ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")
+  - ネットレイティングス賞 - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
   - 話題賞 - [脳内メーカー](../Page/脳内メーカー.md "wikilink")
   - プロバイダ賞 - Yahoo\! BB
 
@@ -220,10 +220,10 @@
   - 知識・情報部門 - ウィキペディア
   - コミュニティ - [mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")
   - 動画 - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
-  - 地図 - [Google マップ](https://ja.wikipedia.org/wiki/Google_マップ "wikilink")
+  - 地図 - [Google マップ](../Page/Google_マップ.md "wikilink")
   - 旅行 - [じゃらんnet](https://ja.wikipedia.org/wiki/じゃらんnet "wikilink")
   - ショッピング - [楽天市場](https://ja.wikipedia.org/wiki/楽天市場 "wikilink")
-  - 店舗検索 - [ぐるなび](https://ja.wikipedia.org/wiki/ぐるなび "wikilink")
+  - 店舗検索 - [ぐるなび](../Page/ぐるなび.md "wikilink")
   - エンターテインメント - 脳内メーカー
   - コンピュータ - 窓の杜
   - オンラインバンク - イーバンク銀行
@@ -232,11 +232,11 @@
   - ニュース・スポーツ - [NIKKEI NET](https://ja.wikipedia.org/wiki/NIKKEI_NET "wikilink")
   - プロバイダ - Yahoo\! BB
   - ブログサービス - [Yahoo\!ブログ](../Page/Yahoo!ブログ.md "wikilink")
-  - ポイント - [ネットマイル](https://ja.wikipedia.org/wiki/ネットマイル "wikilink")
+  - ポイント - [ネットマイル](../Page/ネットマイル.md "wikilink")
 
 ## 関連項目
 
-  - [Web of the Year](https://ja.wikipedia.org/wiki/Web_of_the_Year "wikilink")
+  - [Web of the Year](../Page/Web_of_the_Year.md "wikilink")
   - [Yahoo\! Internet Guide](https://ja.wikipedia.org/wiki/Yahoo!_Internet_Guide "wikilink")
 
 [Category:コンピュータ関連の一覧](https://ja.wikipedia.org/wiki/Category:コンピュータ関連の一覧 "wikilink") [Category:レビューサイト](https://ja.wikipedia.org/wiki/Category:レビューサイト "wikilink")

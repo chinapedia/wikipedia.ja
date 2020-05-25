@@ -1,7 +1,7 @@
-> この記事は[Superstar \(\)](https://ja.wikipedia.org/wiki/Superstar_\(\))から翻訳されています。
+> この記事は[Superstar \(くるりの曲\)](https://ja.wikipedia.org/wiki/Superstar_\(くるりの曲\))から翻訳されています。
 
 
-「**Superstar**」（スーパースター）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[くるり](../Page/くるり.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")発売。発売元は[SPEEDSTAR RECORDS](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。くるりの6thアルバム『[NIKKI](../Page/NIKKI.md "wikilink")』に収録されている。
+「**Superstar**」（スーパースター）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[くるり](../Page/くるり.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")発売。発売元は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。くるりの6thアルバム『[NIKKI](../Page/NIKKI.md "wikilink")』に収録されている。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 ## プロモーション・ビデオ
 
-[草原](https://ja.wikipedia.org/wiki/草原 "wikilink")に岸田と女性（[黛英里佳](https://ja.wikipedia.org/wiki/黛英里佳 "wikilink")）の2人が寝転び、後ろで緑色をした人型の生き物（通称：グラスマン）がギターなどを演奏しているというもの。グラスマンはくるりのメンバー3人が着ぐるみをかぶって演じている。
+[草原](../Page/草原.md "wikilink")に岸田と女性（[黛英里佳](../Page/黛英里佳.md "wikilink")）の2人が寝転び、後ろで緑色をした人型の生き物（通称：グラスマン）がギターなどを演奏しているというもの。グラスマンはくるりのメンバー3人が着ぐるみをかぶって演じている。
 
 ## 収録曲
 
-[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")は[岸田繁](../Page/岸田繁.md "wikilink")。
+[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は[岸田繁](../Page/岸田繁.md "wikilink")。
 
 1.  **Superstar**
 2.  **帰り道**

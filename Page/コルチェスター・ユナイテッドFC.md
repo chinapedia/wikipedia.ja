@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[コルチェスター・ユナイテッドFC](https://ja.wikipedia.org/wiki/コルチェスター・ユナイテッドFC)から翻訳されています。
 
 
 **コルチェスター・ユナイテッド・フットボール・クラブ**（**Colchester United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[エセックス州](https://ja.wikipedia.org/wiki/エセックス州 "wikilink")、[コルチェスター](../Page/コルチェスター.md "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。愛称は「**The U's**」。
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - **[FAトロフィー](https://ja.wikipedia.org/wiki/FAトロフィー "wikilink"):1回**
+  - **[FAトロフィー](../Page/FAトロフィー.md "wikilink"):1回**
 
 <!-- end list -->
 
@@ -323,29 +323,29 @@
 
 ### DF
 
-  - [タイタス・ブランブル](https://ja.wikipedia.org/wiki/タイタス・ブランブル "wikilink") 1999-2000
+  - [タイタス・ブランブル](../Page/タイタス・ブランブル.md "wikilink") 1999-2000
 
   - [マシュー・コノリー](../Page/マシュー・コノリー.md "wikilink") 2007-2008
 
-  - [フィリップ・アイフィル](https://ja.wikipedia.org/wiki/フィリップ・アイフィル "wikilink") 2008.1-2010
+  - [フィリップ・アイフィル](../Page/フィリップ・アイフィル.md "wikilink") 2008.1-2010
 
 ### MF
 
-  - [マーク・キンセラ](https://ja.wikipedia.org/wiki/マーク・キンセラ "wikilink") 1989-1996
+  - [マーク・キンセラ](../Page/マーク・キンセラ.md "wikilink") 1989-1996
 
   - [ジョニー・ジャクソン](https://ja.wikipedia.org/wiki/ジョニー・ジャクソン_\(サッカー選手\) "wikilink") 2003, 2006-2009
 
 ### FW
 
-  - [ロマノ・ルア＝ルア](https://ja.wikipedia.org/wiki/ロマノ・ルア＝ルア "wikilink") 1998-2000
+  - [ロマノ・ルア＝ルア](../Page/ロマノ・ルア＝ルア.md "wikilink") 1998-2000
 
-  - [クレイグ・フェイガン](https://ja.wikipedia.org/wiki/クレイグ・フェイガン "wikilink") 2003-2005
+  - [クレイグ・フェイガン](../Page/クレイグ・フェイガン.md "wikilink") 2003-2005
 
-  - [ホーガン・エフレイム](https://ja.wikipedia.org/wiki/ホーガン・エフレイム "wikilink") 2004-2006
+  - [ホーガン・エフレイム](../Page/ホーガン・エフレイム.md "wikilink") 2004-2006
 
   - [マーク・イェイツ](https://ja.wikipedia.org/wiki/マーク・イェイツ "wikilink") 2005-2006, 2007-2009
 
-  - [テディ・シェリンガム](https://ja.wikipedia.org/wiki/テディ・シェリンガム "wikilink") 2007-2008
+  - [テディ・シェリンガム](../Page/テディ・シェリンガム.md "wikilink") 2007-2008
 
 ## 外部リンク
 

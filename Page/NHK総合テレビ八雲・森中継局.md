@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK総合テレビ八雲・森中継局](https://ja.wikipedia.org/wiki/NHK総合テレビ八雲・森中継局)から翻訳されています。
 
 
 **NHK総合テレビ八雲・森中継局**（エヌエイチケイそうごうテレビやくも・もりちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[二海郡](https://ja.wikipedia.org/wiki/二海郡 "wikilink")[八雲町](../Page/八雲町.md "wikilink")及び[茅部郡](../Page/茅部郡.md "wikilink")[森町にかつて存在した](../Page/森町_\(北海道\).md "wikilink")[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[函館放送局](../Page/NHK函館放送局.md "wikilink")[総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

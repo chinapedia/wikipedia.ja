@@ -1,7 +1,7 @@
 > この記事は[BOOWY VIDEO](https://ja.wikipedia.org/wiki/BOOWY_VIDEO)から翻訳されています。
 
 
-**BOØWY VIDEO**は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の初のビデオ作品。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")(TOEMI VIDEO)よりリリースされた。[2001年](../Page/2001年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")にはDVD化された。
+**BOØWY VIDEO**は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の初のビデオ作品。 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")(TOEMI VIDEO)よりリリースされた。[2001年](../Page/2001年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")にはDVD化された。
 
 ## 解説
 
@@ -9,7 +9,7 @@ BOØWY初の映像作品で、[1986年](https://ja.wikipedia.org/wiki/1986年 "w
 
 発売日の7月2日はBOØWY初の武道館公演が行われた日だった。
 
-ライヴアルバム『[“GIGS” JUST A HERO TOUR 1986](https://ja.wikipedia.org/wiki/“GIGS”_JUST_A_HERO_TOUR_1986 "wikilink")』（1986年）は公演から1ヶ月以内に発売される異例のスピードリリースだったが、ビデオも公演から僅か2ヶ月で発売された。 また、上記アルバム収録の「わがままジュリエット」はこのビデオに収録されているものと同音源となっている。
+ライヴアルバム『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』（1986年）は公演から1ヶ月以内に発売される異例のスピードリリースだったが、ビデオも公演から僅か2ヶ月で発売された。 また、上記アルバム収録の「わがままジュリエット」はこのビデオに収録されているものと同音源となっている。
 
 ## リリース履歴
 
@@ -20,7 +20,7 @@ BOØWY初の映像作品で、[1986年](https://ja.wikipedia.org/wiki/1986年 "w
 <th><p>日付</p></th>
 <th><p><a href="../Page/レコードレーベル.md" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>最高順位</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -29,7 +29,7 @@ BOØWY初の映像作品で、[1986年](https://ja.wikipedia.org/wiki/1986年 "w
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a><a href="../Page/7月2日.md" title="wikilink">7月2日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">東芝EMI</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">東芝EMI</a></p></td>
 <td><p><a href="../Page/VHS.md" title="wikilink">VHS</a><br />
 <a href="https://ja.wikipedia.org/wiki/ベータマックス" title="wikilink">β</a><br />
 <a href="../Page/レーザーディスク.md" title="wikilink">LD</a></p></td>
@@ -68,7 +68,7 @@ L088-1056</p></td>
       -
         『"GIGS" JUST A HERO TOUR 1986』収録のものは観客の歓声が入っているが、本作品ではオリジナルテープが使われており、実際のものより短く編集されている。
 2.  **BAD FEELING**
-      - 作詞：[氷室京介](../Page/氷室京介.md "wikilink")、[高橋信](https://ja.wikipedia.org/wiki/高橋まこと "wikilink")／作曲・編曲：布袋寅泰
+      - 作詞：[氷室京介](../Page/氷室京介.md "wikilink")、[高橋信](../Page/高橋まこと.md "wikilink")／作曲・編曲：布袋寅泰
 3.  **JUSTY**
       - 作詞：氷室京介／作曲・編曲：布袋寅泰
 4.  **Honky Tonky Crazy**
@@ -104,7 +104,7 @@ L088-1056</p></td>
 
   - 氷室京介 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 布袋寅泰 - [ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - 松井恒松 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")、コーラス
+  - 松井恒松 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、コーラス
   - 高橋まこと - [ドラムス](../Page/ドラムセット.md "wikilink")、コーラス
 
-[Category:BOØWYの映像作品](https://ja.wikipedia.org/wiki/Category:BOØWYの映像作品 "wikilink") [Category:1986年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1986年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:BOØWYの映像作品](https://ja.wikipedia.org/wiki/Category:BOØWYの映像作品 "wikilink") [Category:1986年のコンサート](https://ja.wikipedia.org/wiki/Category:1986年のコンサート "wikilink") [Category:1986年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1986年のライブ・ビデオ "wikilink")

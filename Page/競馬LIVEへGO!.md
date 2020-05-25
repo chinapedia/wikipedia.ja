@@ -1,4 +1,4 @@
-> この記事は[LIVEGO!](https://ja.wikipedia.org/wiki/LIVEGO!)から翻訳されています。
+> この記事は[競馬LIVEへGO!](https://ja.wikipedia.org/wiki/競馬LIVEへGO!)から翻訳されています。
 
 
 **競馬LIVEへGO\!**（けいばライヴへゴー）は、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[ラジオNIKKEI第](../Page/日経ラジオ社.md "wikilink")1放送および第2放送で放送されている[競馬](../Page/競馬.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[DAYS \(FLOW\)](https://ja.wikipedia.org/wiki/DAYS_\(FLOW\))から翻訳されています。
+> この記事は[DAYS \(FLOWの曲\)](https://ja.wikipedia.org/wiki/DAYS_\(FLOWの曲\))から翻訳されています。
 
 
 「**DAYS**」（デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")の楽曲で、メジャー7枚目（通算11枚目）のシングル。[2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に[Ki/oon Recordsより発売](../Page/キューンミュージック.md "wikilink")。

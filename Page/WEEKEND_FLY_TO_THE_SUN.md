@@ -1,12 +1,12 @@
 > この記事は[WEEKEND FLY TO THE SUN](https://ja.wikipedia.org/wiki/WEEKEND_FLY_TO_THE_SUN)から翻訳されています。
 
 
-『**WEEKEND FLY TO THE SUN**』（ウィークエンド・フライ・トゥ・ザ・サン）は、[1982年](../Page/1982年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算2作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。CD盤は2年後の[1984年](../Page/1984年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売された。
+『**WEEKEND FLY TO THE SUN**』（ウィークエンド・フライ・トゥ・ザ・サン）は、[1982年](../Page/1982年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算2作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。CD盤は2年後の[1984年](../Page/1984年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売された。
 
 ## 解説
 
   - レコーディングは[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で行われ、アレンジはTOM TOM 84が担当した。
-  - 6曲目の「CRESCENT AVENTURE」は、女優の[真野響子](https://ja.wikipedia.org/wiki/真野響子 "wikilink")をイメージして作られた。
+  - 6曲目の「CRESCENT AVENTURE」は、女優の[真野響子](../Page/真野響子.md "wikilink")をイメージして作られた。
   - 「CRESCENT AVENTURE」は後にバラード・ベスト・アルバム『[T's BALLAD](https://ja.wikipedia.org/wiki/T's_BALLAD "wikilink")』\[1\]に、「I'LL NEVER LET YOU GO」がベスト・アルバム『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』\[2\]に、「RUSH HOUR」がリメイク・ベスト『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[3\]にそれぞれリテイク・ヴァージョンで収録された。
   - 1～5曲目は都市生活者（主に[OL](../Page/OL.md "wikilink")や[会社員](https://ja.wikipedia.org/wiki/会社員 "wikilink")）をターゲットとしたアップナンバーやミディアムナンバー、6～8曲目はバラードナンバーで固定されている。又、1～4曲目迄は前述の都市生活者の平日、5曲目は都市生活者の週末をイメージとした楽曲となっている。
 
@@ -41,13 +41,13 @@
 
   - 角松敏生 ： Vocal・E.Guitar
   - JOHN ROBINSON ： Drums
-  - [ABLAHAM LABORIEL](https://ja.wikipedia.org/wiki/エイブラハム・ラボリエル "wikilink") ： E.Bass
+  - [ABLAHAM LABORIEL](../Page/エイブラハム・ラボリエル.md "wikilink") ： E.Bass
   - LOUIS JOHNSON ： E.Bass
-  - [NAITHAN EAST](https://ja.wikipedia.org/wiki/ネイザン・イースト "wikilink") ： E.Bass
+  - [NAITHAN EAST](../Page/ネイザン・イースト.md "wikilink") ： E.Bass
   - CARLOS RIOS ： E.Guitar
   - AL MACKEY ： E.Guitar
   - DEAN GANT ： Keyboards
-  - [DON GRUSIN](https://ja.wikipedia.org/wiki/ドン・グルーシン "wikilink") ： Keyboards・Synth.
+  - [DON GRUSIN](../Page/ドン・グルーシン.md "wikilink") ： Keyboards・Synth.
   - 友成好宏 ： Keyboards
   - BRIAN MAN ： Keyboards
   - TOM WASHINGTON ： Piano・Percussion

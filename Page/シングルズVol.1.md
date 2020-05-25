@@ -1,7 +1,7 @@
-> この記事は[Vol.1](https://ja.wikipedia.org/wiki/Vol.1)から翻訳されています。
+> この記事は[シングルズVol.1](https://ja.wikipedia.org/wiki/シングルズVol.1)から翻訳されています。
 
 
-**シングルズVol.1**(**Singles, Volume 1**)は、2003年に発表された[エルヴィス・コステロ](https://ja.wikipedia.org/wiki/エルヴィス・コステロ "wikilink")のアルバム。
+**シングルズVol.1**(**Singles, Volume 1**)は、2003年に発表された[エルヴィス・コステロ](../Page/エルヴィス・コステロ.md "wikilink")のアルバム。
 
 ## 解説
 

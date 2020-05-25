@@ -1,7 +1,7 @@
-> この記事は[World\'s Wing  Premium](https://ja.wikipedia.org/wiki/World\'s_Wing__Premium)から翻訳されています。
+> この記事は[World\'s Wing 翼 Premium](https://ja.wikipedia.org/wiki/World\'s_Wing_翼_Premium)から翻訳されています。
 
 
-**World's Wing 翼 Premium**（わーるずうぃんぐつばさぷれみあむ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[舞台](../Page/舞台.md "wikilink")作品。主演・作・振り付けは[今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")。企画・構成・総合演出は[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")。
+**World's Wing 翼 Premium**（わーるずうぃんぐつばさぷれみあむ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[舞台](../Page/舞台.md "wikilink")作品。主演・作・振り付けは[今井翼](../Page/今井翼.md "wikilink")。企画・構成・総合演出は[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    その後、[日生劇場](https://ja.wikipedia.org/wiki/日生劇場 "wikilink")にて2008年10月3日〜28日、23日間全38公演にて開催された。
+    その後、[日生劇場](../Page/日生劇場.md "wikilink")にて2008年10月3日〜28日、23日間全38公演にて開催された。
 
 <!-- end list -->
 

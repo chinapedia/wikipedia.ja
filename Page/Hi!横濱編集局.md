@@ -1,7 +1,7 @@
-> この記事は[Hi!](https://ja.wikipedia.org/wiki/Hi!)から翻訳されています。
+> この記事は[Hi!横濱編集局](https://ja.wikipedia.org/wiki/Hi!横濱編集局)から翻訳されています。
 
 
-『**Hi\! 横濱編集局**』（ハイ よこはまへんしゅうきょく）は、[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")まで、[tvk](../Page/テレビ神奈川.md "wikilink")（テレビ神奈川）で放送されていた[横浜市](../Page/横浜市.md "wikilink")に関する[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。主に横浜市の[広報](https://ja.wikipedia.org/wiki/広報 "wikilink")活動を目的とした番組である。略称は、**濱編（ハマヘン）**。
+『**Hi\! 横濱編集局**』（ハイ よこはまへんしゅうきょく）は、[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")まで、[tvk](../Page/テレビ神奈川.md "wikilink")（テレビ神奈川）で放送されていた[横浜市](../Page/横浜市.md "wikilink")に関する[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。主に横浜市の[広報](../Page/広報.md "wikilink")活動を目的とした番組である。略称は、**濱編（ハマヘン）**。
 
 ## 概要
 
@@ -72,18 +72,18 @@
 「★」は後継番組『ずばり\!横濱』に引き続き出演。
 
   - ★[蒲田健](../Page/蒲田健.md "wikilink")：司会（副編集長）
-  - ★[佐藤亜樹](https://ja.wikipedia.org/wiki/佐藤亜樹 "wikilink")（TVKアナウンサー、2009年4月～最終回まで）：アシスタント（デスク）
+  - ★[佐藤亜樹](../Page/佐藤亜樹.md "wikilink")（TVKアナウンサー、2009年4月～最終回まで）：アシスタント（デスク）
   - ★[宮内亜弥子](../Page/宮内亜弥子.md "wikilink")：リポーター（記者）
   - ★[久保隆司](https://ja.wikipedia.org/wiki/ヴェートーベン_\(お笑いコンビ\)#メンバー "wikilink")（当番組放送期間中に[芸名](../Page/芸名.md "wikilink")を「くぼたかし」、さらに「TAKASHI」と改名しているが、一貫して本名・旧芸名である「**久保隆司**」名義で出演した）：リポーター（記者）
-  - [藤下佳乃子](https://ja.wikipedia.org/wiki/藤下佳乃子 "wikilink")（海外移住のため最終回まであと2回のところで出演終了）：2009年3月までアシスタント（デスク）、2009年4月以降はリポーター（記者）
+  - [藤下佳乃子](../Page/藤下佳乃子.md "wikilink")（海外移住のため最終回まであと2回のところで出演終了）：2009年3月までアシスタント（デスク）、2009年4月以降はリポーター（記者）
 
 ### 番組終了までに降板した出演者
 
   - [中田宏](../Page/中田宏.md "wikilink")（前身番組『横浜シティマガジン』からの出演。2009年[8月](../Page/8月.md "wikilink")、市長辞職に伴いそのまま[降板](https://ja.wikipedia.org/wiki/降板 "wikilink")）：実質的な総合司会（編集長）
       -
-        後任市長の[林文子](https://ja.wikipedia.org/wiki/林文子 "wikilink")は「編集長」などの番組独自の肩書を付けられることは無く、『編集後記』のコーナー名も『林市長のひとこと』に改題された。
+        後任市長の[林文子](../Page/林文子.md "wikilink")は「編集長」などの番組独自の肩書を付けられることは無く、『編集後記』のコーナー名も『林市長のひとこと』に改題された。
   - [三条恵美](https://ja.wikipedia.org/wiki/三条恵美 "wikilink")
-  - [座間かおり](https://ja.wikipedia.org/wiki/座間かおり "wikilink")（[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")降板）
+  - [座間かおり](../Page/座間かおり.md "wikilink")（[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")降板）
   - [優木まおみ](https://ja.wikipedia.org/wiki/優木まおみ "wikilink")（2007年3月降板）
   - [東村絵理](https://ja.wikipedia.org/wiki/東村絵理 "wikilink")（2009年3月降板）
 
@@ -94,7 +94,7 @@
   - VE：関英夫
   - カメラ：山下義人、倉野健一
   - 音声：宮野あき子、浅川潤、内田尚宏
-  - 照明：[フジライティング・アンド・テクノロジイ](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")（F.L.T.）
+  - 照明：[フジライティング・アンド・テクノロジイ](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")（F.L.T.）
   - 効果：和田勇
   - オブジェ：YASUDA
   - 美術：古波津安則
@@ -114,7 +114,7 @@
 
   - [LOVEかわさき](https://ja.wikipedia.org/wiki/LOVEかわさき "wikilink") - [川崎市](../Page/川崎市.md "wikilink")の広報番組
   - コンシェルジュ神奈川 - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")の広報番組
-  - YOKOHAMA AROUND - [fm yokohamaで放送されている横浜市の広報番組](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")
+  - YOKOHAMA AROUND - [fm yokohamaで放送されている横浜市の広報番組](../Page/横浜エフエム放送.md "wikilink")
 
 ## 出典
 

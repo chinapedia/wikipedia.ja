@@ -1,4 +1,4 @@
-> この記事は[Vinci \(\)](https://ja.wikipedia.org/wiki/Vinci_\(\))から翻訳されています。
+> この記事は[Vinci \(ロケットエンジン\)](https://ja.wikipedia.org/wiki/Vinci_\(ロケットエンジン\))から翻訳されています。
 
 
 <table>
@@ -56,7 +56,7 @@
 
 ## 概要
 
-ヴィンチは[エキスパンダーサイクル](../Page/エキスパンダーサイクル.md "wikilink")のロケットエンジンで[液体水素](../Page/液体水素.md "wikilink")と[液体酸素](../Page/液体酸素.md "wikilink")を[推進剤として用いる](../Page/ロケットエンジンの推進剤.md "wikilink")。従来の[HM7B](https://ja.wikipedia.org/wiki/HM7B "wikilink")([アリアン5 ESC-Aのエンジン](../Page/アリアン5.md "wikilink"))とは異なり、5回まで再着火が可能である。同時にヨーロッパ初の[エキスパンダーサイクル](../Page/エキスパンダーサイクル.md "wikilink")エンジンでもあり、燃料と酸化剤供給に必要だった[ターボポンプ](https://ja.wikipedia.org/wiki/ターボポンプ "wikilink")駆動用のガス発生器を取り除いた。これにより燃料の消費効率が高まり[比推力](../Page/比推力.md "wikilink")が上昇した。
+ヴィンチは[エキスパンダーサイクル](../Page/エキスパンダーサイクル.md "wikilink")のロケットエンジンで[液体水素](../Page/液体水素.md "wikilink")と[液体酸素](../Page/液体酸素.md "wikilink")を[推進剤として用いる](../Page/ロケットエンジンの推進剤.md "wikilink")。従来の[HM7B](../Page/HM7B.md "wikilink")([アリアン5 ESC-Aのエンジン](../Page/アリアン5.md "wikilink"))とは異なり、5回まで再着火が可能である。同時にヨーロッパ初の[エキスパンダーサイクル](../Page/エキスパンダーサイクル.md "wikilink")エンジンでもあり、燃料と酸化剤供給に必要だった[ターボポンプ](https://ja.wikipedia.org/wiki/ターボポンプ "wikilink")駆動用のガス発生器を取り除いた。これにより燃料の消費効率が高まり[比推力](../Page/比推力.md "wikilink")が上昇した。
 
 [カーボンセラミック製の](https://ja.wikipedia.org/wiki/炭素繊維強化炭素複合材料 "wikilink")[伸張式ノズルを採用する事により](https://ja.wikipedia.org/wiki/伸展ノズル "wikilink")、ノズルの末端の直径が2.15mあるにもかかわらず使用前には最小の長さとなっている。上段が切り離されてから伸張する事により、高い膨張比を持ち、真空中での推進効率が高い。上段の軽量化、推進効率の向上はペイロードの重量拡大に影響が大きい為、効果的である。全長は収納時の2.3mから伸張時には4.2mまで伸びる。
 
@@ -78,12 +78,12 @@
   -
 ## 関連項目
 
-  - [宇宙機の推進方法](https://ja.wikipedia.org/wiki/宇宙機の推進方法 "wikilink")
+  - [宇宙機の推進方法](../Page/宇宙機の推進方法.md "wikilink")
 
 ### 類似のエンジン
 
   - [RL-10](https://ja.wikipedia.org/wiki/RL-10 "wikilink")
-  - [HM7B](https://ja.wikipedia.org/wiki/HM7B "wikilink")
+  - [HM7B](../Page/HM7B.md "wikilink")
 
 ## 外部リンク
 

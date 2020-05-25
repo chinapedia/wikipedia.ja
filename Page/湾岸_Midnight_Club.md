@@ -1,4 +1,4 @@
-> この記事は[ Midnight Club](https://ja.wikipedia.org/wiki/_Midnight_Club)から翻訳されています。
+> この記事は[湾岸 Midnight Club](https://ja.wikipedia.org/wiki/湾岸_Midnight_Club)から翻訳されています。
 
 
 **湾岸 Midnight Clubシリーズ**(みっどないとくらぶ)は、[Rockstar San Diegoが開発](../Page/Rockstar_San_Diego.md "wikilink")、[Rockstar Games社から発売されたストリートレースを題材とするレースゲームシリーズ](../Page/Rockstar_Games.md "wikilink")。通称「**MC**」。
@@ -119,21 +119,12 @@
   - エミリオ・サンチェス
     日本語版[キャラクターボイス](https://ja.wikipedia.org/wiki/キャラクターボイス "wikilink")（以下[声](../Page/声優.md "wikilink")） - [山崎たくみ](../Page/山崎たくみ.md "wikilink")
     プレイヤーが最初に戦う相手。バスタング（英名はCrusero）という[ローライダー](../Page/ローライダー.md "wikilink")系のマッスルカーを操る。
-
-<!-- end list -->
-
   - ラリー・ミューラー
     声 - [松本大](../Page/松本大_\(声優\).md "wikilink")
     マフィアにコネがあるとうわさされるほど有名な倉庫管理を勤める男\[2\]。KJ（英名はJones）というピックアップを操る。
-
-<!-- end list -->
-
   - ケイコ・ハタノ
     声 - [松谷彼哉](../Page/松谷彼哉.md "wikilink")
     ブランド服を着ており一見クールに見えるがステアリングを握ると別人になる日本人女性。CR-Z（英名はPiranha）というコンパクトカーを操る。
-
-<!-- end list -->
-
   - カリーム・ウィンドロス
     声 - [宗矢樹頼](../Page/宗矢樹頼.md "wikilink")
     ニューヨークの権力者で全米最速と豪語するほどの自信を持つ走り屋\[3\]。彼を倒すと[ロンドン](../Page/ロンドン.md "wikilink")へ進むことができる。フェニックス（英名と共通）というマッスルカーを操る。
@@ -143,21 +134,12 @@
   - ルーカス・ハウエル・ジョーンズ
     声 - [堀内賢雄](../Page/堀内賢雄.md "wikilink")
     優れたドライビングテクニックがあるが熱くなりやすい性格でよくミスをする。マーチン（英名はModicum）というコンパクトカーを操る。
-
-<!-- end list -->
-
   - エミリー・モートン
     声 - [日野由利加](../Page/日野由利加.md "wikilink")
     完璧すぎるルックスやプロポーション、才能、金など全てを手に入れ、チャンピオンの称号を狙う女性ドライバー。メルザデス（英名はAscent）というセダンを操る。
-
-<!-- end list -->
-
   - ダレン・サロック
     声 - [大塚芳忠](../Page/大塚芳忠.md "wikilink")
     周到で非情なビジネスを駆使して巨万の富を築いた男。フェリーラ（英名はAmata）というスーパーカーを操る。
-
-<!-- end list -->
-
   - ワールドチャンピオン
     声 - なし
     その素性はほとんど知られていないレーサー。正体は「アニカ」という女性ドライバーで日本人とアメリカ人のハーフ。ローカス（英名はZender）というスーパーカーを操る。
@@ -172,7 +154,7 @@
 
 [de:Midnight Club](https://ja.wikipedia.org/wiki/de:Midnight_Club "wikilink")
 
-[Category:ロックスター・ゲームスのゲームソフト‎](https://ja.wikipedia.org/wiki/Category:ロックスター・ゲームスのゲームソフト‎ "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink")
+[Category:ロックスター・ゲームスのゲームソフト](https://ja.wikipedia.org/wiki/Category:ロックスター・ゲームスのゲームソフト "wikilink") [Category:オープンワールドゲーム](https://ja.wikipedia.org/wiki/Category:オープンワールドゲーム "wikilink")
 
 1.  [【PS2 MIDNIGHT CLUB】真夜中の市街地を縦横無尽に走りまくる](https://response.jp/article/2001/03/02/7537.html)レスポンス公式サイト
 2.  日本語版解説書にて。

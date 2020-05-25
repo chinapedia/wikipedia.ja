@@ -83,8 +83,6 @@ V6にとってアルバム1位は2006年8月発売の[ベストアルバム](htt
 1.  **I・N・O=NUT KID** - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
       -
         作詞・作曲：[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")、編曲：久米康隆
-        2007年8月に行われた井ノ原のひとり舞台「イノなき」で歌われた。
-        1コーラス目のサビはすべてひらがなで書いてある。1番歌詞の「変換キー使わないで壁に書き殴るメッセージ」から来ているものだと思われる。
 2.  **夕暮れオレンジ** - [三宅健](../Page/三宅健.md "wikilink")
       -
         作詞・作曲：[Taro Suruga](https://ja.wikipedia.org/wiki/駿河太郎 "wikilink")（[sleepydog](https://ja.wikipedia.org/wiki/sleepydog "wikilink")）、編曲：小幡英之
@@ -138,6 +136,11 @@ TBS系列『学校へ行こう!MAX』テーマソング</p></td>
 <td><p>僕と僕らのあした</p></td>
 <td><p>TBS系列『学校へ行こう!MAX』テーマソング</p></td>
 <td><p>30th両A面シングル。</p></td>
+</tr>
+<tr class="even">
+<td><p>I・N・O=NUT KID</p></td>
+<td><p>舞台「イノなき」劇中歌</p></td>
+<td><p>初回限定盤B収録井ノ原ソロ曲</p></td>
 </tr>
 </tbody>
 </table>

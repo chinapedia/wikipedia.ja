@@ -1,11 +1,11 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[メイプルストーリーDS](https://ja.wikipedia.org/wiki/メイプルストーリーDS)から翻訳されています。
 
 
-**メイプルストーリーDS**は[韓国で](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")に発売された\[1\]ニンテンドーDS用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")である。
+**メイプルストーリーDS**は[韓国で](../Page/大韓民国.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")に発売された\[1\]ニンテンドーDS用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")である。
 
 ## 概要
 
-PC版[メイプルストーリー](https://ja.wikipedia.org/wiki/メイプルストーリー "wikilink")の横スクロールアクションを[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")に[移植した作品](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")。
+PC版[メイプルストーリー](../Page/メイプルストーリー.md "wikilink")の横スクロールアクションを[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")に[移植した作品](../Page/移植_\(ソフトウェア\).md "wikilink")。
 
 [NEXON](https://ja.wikipedia.org/wiki/NEXON "wikilink")が[2007年](../Page/2007年.md "wikilink")1月に製作・発売を発表した。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、2011年[11月17日](../Page/11月17日.md "wikilink")に発売。
 
@@ -13,7 +13,7 @@ PC版[メイプルストーリー](https://ja.wikipedia.org/wiki/メイプルス
 
 PC版のシステムをもとに、戦士、魔法使い、弓使い、盗賊の4人の主人公たちの運命を描いたオリジナルストーリー。「ポータル」の異常が発端となり、女神の時計塔や古代宝石「ルビアン」をめぐる冒険をしていくという物語。
 
-PC版と同じく[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")が多数あり、仲間（コンピューター）と共に闘う**タッグシステム**、4人それぞれの物語が交差する**デジャヴシステム**といった機能などが追加されている。また、[公式サイト](http://maplestory.nexon.co.jp/DS/)で製品認証をすることで、PC版でアイテムを入手する事が出来るようになる予定。
+PC版と同じく[アバター](../Page/アバター.md "wikilink")が多数あり、仲間（コンピューター）と共に闘う**タッグシステム**、4人それぞれの物語が交差する**デジャヴシステム**といった機能などが追加されている。また、[公式サイト](http://maplestory.nexon.co.jp/DS/)で製品認証をすることで、PC版でアイテムを入手する事が出来るようになる予定。
 
 ## 登場キャラクター
 

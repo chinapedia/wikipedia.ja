@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[夢回帰線II](https://ja.wikipedia.org/wiki/夢回帰線II)から翻訳されています。
 
 
 『**夢回帰線II**』（ゆめかいきせん セカンド）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[さだまさし](../Page/さだまさし.md "wikilink")の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")発表のソロ16枚目のオリジナル・アルバムである。

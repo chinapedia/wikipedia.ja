@@ -1,11 +1,11 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[日産・Bプラットフォーム](https://ja.wikipedia.org/wiki/日産・Bプラットフォーム)から翻訳されています。
 
 
-**日産・Bプラットフォーム**とは、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")、[ルノー](../Page/ルノー.md "wikilink")の[Bセグメント](../Page/Bセグメント.md "wikilink")\[1\][FF車用の](https://ja.wikipedia.org/wiki/前輪駆動 "wikilink")[プラットフォームの名称である](https://ja.wikipedia.org/wiki/プラットフォーム_\(自動車\) "wikilink")。
+**日産・Bプラットフォーム**とは、[日産自動車](../Page/日産自動車.md "wikilink")、[ルノー](../Page/ルノー.md "wikilink")の[Bセグメント](../Page/Bセグメント.md "wikilink")\[1\][FF車用の](../Page/前輪駆動.md "wikilink")[プラットフォームの名称である](../Page/プラットフォーム_\(自動車\).md "wikilink")。
 
 フューエルリッドはすべて車両右側となる。
 
-本プラットフォームは[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")と[ルノー](../Page/ルノー.md "wikilink")が初めて共同開発したものであり、現在最も多くの日産車に使われている。また、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で展開される[ラクスジェン](https://ja.wikipedia.org/wiki/ラクスジェン "wikilink")ブランドの一部車両にも使用される。
+本プラットフォームは[日産自動車](../Page/日産自動車.md "wikilink")と[ルノー](../Page/ルノー.md "wikilink")が初めて共同開発したものであり、現在最も多くの日産車に使われている。また、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で展開される[ラクスジェン](https://ja.wikipedia.org/wiki/ラクスジェン "wikilink")ブランドの一部車両にも使用される。
 
 ## 採用車種
 
@@ -13,21 +13,21 @@
       - [光岡・ビュート](https://ja.wikipedia.org/wiki/光岡・ビュート "wikilink")（K12）
   - [キューブ（Z11/Z12）](../Page/日産・キューブ.md "wikilink")
   - [キューブキュービック（BZ11）](../Page/日産・キューブキュービック.md "wikilink")
-  - [リヴィナ](https://ja.wikipedia.org/wiki/日産・リヴィナ "wikilink")
-  - [リヴィナジェニス](../Page/日産・リヴィナジェニス.md "wikilink")
+  - [リヴィナ（L10）](https://ja.wikipedia.org/wiki/日産・リヴィナ "wikilink")
+  - [リヴィナジェニス（L10）](../Page/日産・リヴィナジェニス.md "wikilink")
   - [ティーダ（C11）](https://ja.wikipedia.org/wiki/日産・ティーダ "wikilink")
-  - [ティーダラティオ](https://ja.wikipedia.org/wiki/日産・ティーダラティオ "wikilink")
-  - [ノート（E11）](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")
-  - [ウイングロード（Y12）](https://ja.wikipedia.org/wiki/日産・ウイングロード "wikilink")
+  - [ティーダラティオ（SC11）](../Page/日産・ティーダラティオ.md "wikilink")
+  - [ノート（E11）](../Page/日産・ノート.md "wikilink")
+  - [ウイングロード（Y12）](../Page/日産・ウイングロード.md "wikilink")
   - [ブルーバードシルフィ（G11）](../Page/日産・シルフィ.md "wikilink")
   - [セントラ/シルフィ/パルサーセダン（B17）](https://ja.wikipedia.org/wiki/日産・B17 "wikilink")
   - [ラニア](https://ja.wikipedia.org/wiki/日産・ラニア "wikilink")
   - [AD・ADエキスパート → NV150 AD](../Page/日産・NV150AD.md "wikilink")
       - [マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")バン（Y12）
-      - [三菱・ランサーカーゴ](https://ja.wikipedia.org/wiki/三菱・ランサーカーゴ "wikilink")
+      - [三菱・ランサーカーゴ](../Page/三菱・ランサーカーゴ.md "wikilink")
   - [NV200バネット](https://ja.wikipedia.org/wiki/日産・NV200バネット "wikilink")
-  - [ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")
-  - [ルノー・モデュス](https://ja.wikipedia.org/wiki/ルノー・モデュス "wikilink")
+  - [ジューク（F15）](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")
+  - [ルノー・モデュス](../Page/ルノー・モデュス.md "wikilink")
   - [ルノー・クリオ](../Page/ルノー・クリオ.md "wikilink")（ルーテシア）
   - [ルノー・キャプチャー](https://ja.wikipedia.org/wiki/ルノー・キャプチャー "wikilink")（ロシア・ブラジル・インド仕様を除く）
   - [ルノーサムスン・QM3](https://ja.wikipedia.org/wiki/ルノーサムスン・QM3 "wikilink")
@@ -41,18 +41,18 @@
   - [2002年](../Page/2002年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")-[キューブ（2代目）発売開始](../Page/日産・キューブ.md "wikilink")。
   - [2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")-[キューブキュービック（初代）発売開始](../Page/日産・キューブキュービック.md "wikilink")。
   - [2004年](../Page/2004年.md "wikilink")-[ルノー・ロガン](https://ja.wikipedia.org/wiki/ルノー・ロガン "wikilink")発売開始。
-  - [2004年](../Page/2004年.md "wikilink")秋-[ルノー・モデュス](https://ja.wikipedia.org/wiki/ルノー・モデュス "wikilink")発売開始。
-  - [2004年](../Page/2004年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")-[ムラーノの発表会で](https://ja.wikipedia.org/wiki/日産・ムラーノ "wikilink")[ノート（初代）が](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")[ラフェスタなどとともに先行公開](https://ja.wikipedia.org/wiki/日産・ラフェスタ "wikilink")。
+  - [2004年](../Page/2004年.md "wikilink")秋-[ルノー・モデュス](../Page/ルノー・モデュス.md "wikilink")発売開始。
+  - [2004年](../Page/2004年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")-[ムラーノの発表会で](../Page/日産・ムラーノ.md "wikilink")[ノート（初代）が](../Page/日産・ノート.md "wikilink")[ラフェスタなどとともに先行公開](../Page/日産・ラフェスタ.md "wikilink")。
   - [2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")-[ティーダ（初代）発売開始](https://ja.wikipedia.org/wiki/日産・ティーダ "wikilink")。
-  - [2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")-[ティーダラティオ（初代）発売開始](https://ja.wikipedia.org/wiki/日産・ティーダラティオ "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")-[光岡・ビュート](https://ja.wikipedia.org/wiki/光岡・ビュート "wikilink")発売開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")-[ノート（初代）発売開始](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")-[ルノー・クリオ](../Page/ルノー・クリオ.md "wikilink")発売開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[東京モーターショー](../Page/東京モーターショー.md "wikilink")に「[ウイングロード](https://ja.wikipedia.org/wiki/日産・ウイングロード "wikilink") プレビュー」、「[ブルーバードシルフィ](https://ja.wikipedia.org/wiki/日産・ブルーバードシルフィ "wikilink")　プレビュー」を出展。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月14日](../Page/11月14日.md "wikilink")-[ウイングロード（3代目）発売開始](https://ja.wikipedia.org/wiki/日産・ウイングロード "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")-[ブルーバードシルフィ（2代目）発売開始](https://ja.wikipedia.org/wiki/日産・ブルーバードシルフィ "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-広州国際モーターショーに[リヴィナジェニスを出展](../Page/日産・リヴィナジェニス.md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月20日](../Page/12月20日.md "wikilink")-[AD/ADエキスパート発売開始](https://ja.wikipedia.org/wiki/日産・ADバン "wikilink")。
+  - [2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")-[ティーダラティオ（初代）発売開始](../Page/日産・ティーダラティオ.md "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")-[光岡・ビュート](https://ja.wikipedia.org/wiki/光岡・ビュート "wikilink")発売開始。
+  - [2005年](../Page/2005年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")-[ノート（初代）発売開始](../Page/日産・ノート.md "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")-[ルノー・クリオ](../Page/ルノー・クリオ.md "wikilink")発売開始。
+  - [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[東京モーターショー](../Page/東京モーターショー.md "wikilink")に「[ウイングロード](../Page/日産・ウイングロード.md "wikilink") プレビュー」、「[ブルーバードシルフィ](https://ja.wikipedia.org/wiki/日産・ブルーバードシルフィ "wikilink")　プレビュー」を出展。
+  - [2005年](../Page/2005年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")-[ウイングロード（3代目）発売開始](../Page/日産・ウイングロード.md "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")-[ブルーバードシルフィ（2代目）発売開始](https://ja.wikipedia.org/wiki/日産・ブルーバードシルフィ "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-広州国際モーターショーに[リヴィナジェニスを出展](../Page/日産・リヴィナジェニス.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")-[AD/ADエキスパート発売開始](https://ja.wikipedia.org/wiki/日産・ADバン "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")-[マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")バン発売開始。
   - [2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")-上海モーターショーに[リヴィナを出展](https://ja.wikipedia.org/wiki/日産・リヴィナ "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-[マイクラC+C国内発売開始](../Page/日産・マーチ.md "wikilink")、[アプリオ発売開始](../Page/日産・アプリオ.md "wikilink")。

@@ -1,30 +1,30 @@
 > この記事は[CATALOGUE 2005](https://ja.wikipedia.org/wiki/CATALOGUE_2005)から翻訳されています。
 
 
-『**CATALOGUE 2005**』（カタログ 2005）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の3作目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。バンド結成20周年記念として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+『**CATALOGUE 2005**』（カタログ 2005）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の3作目の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。バンド結成20周年記念として[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 初回盤のみハードカバー仕様、オリジナルフォトブックレット付。
 
 ## 解説
 
   - レコード会社の枠を越えた初のメンバー選曲によるオールタイム・ベストアルバム。
-  - 「ICONOCLASM」と「[悪の華](../Page/悪の華_\(BUCK-TICKの曲\).md "wikilink")」は『[殺シノ調べ This is NOT Greatest Hits](https://ja.wikipedia.org/wiki/殺シノ調べ_This_is_NOT_Greatest_Hits "wikilink")』から再録バージョンが収録されている。同アルバムのバージョンが他のアルバムに収録されたのはこれが初である。
-  - オールタイムベストと銘打ってはいるが、発売元がBMGであるせいか、[ビクター](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[マーキュリー時代の曲は絶対量に比べ収録数が少ない](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。マーキュリー時代の[シングル](../Page/シングル.md "wikilink")は5曲中「ミウ」の1曲のみである。
+  - 「ICONOCLASM」と「[悪の華](../Page/悪の華_\(BUCK-TICKの曲\).md "wikilink")」は『[殺シノ調べ This is NOT Greatest Hits](../Page/殺シノ調べ_This_is_NOT_Greatest_Hits.md "wikilink")』から再録バージョンが収録されている。同アルバムのバージョンが他のアルバムに収録されたのはこれが初である。
+  - オールタイムベストと銘打ってはいるが、発売元がBMGであるせいか、[ビクター](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[マーキュリー時代の曲は絶対量に比べ収録数が少ない](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。マーキュリー時代の[シングル](../Page/シングル.md "wikilink")は5曲中「ミウ」の1曲のみである。
 
 ## 収録曲
 
 ### DISC1
 
 1.  **HURRY UP MODE**
-      - 作詞・作曲：[今井寿](https://ja.wikipedia.org/wiki/今井寿 "wikilink")、編曲：BUCK-TICK
+      - 作詞・作曲：[今井寿](../Page/今井寿.md "wikilink")、編曲：BUCK-TICK
     <!-- end list -->
       -
-        インディーズ時代のアルバム『[HURRY UP MODE](https://ja.wikipedia.org/wiki/HURRY_UP_MODE "wikilink")』タイトル曲。
+        インディーズ時代のアルバム『[HURRY UP MODE](../Page/HURRY_UP_MODE.md "wikilink")』タイトル曲。
 2.  **SEXUAL×××××！**
-      - 作詞：[櫻井敦司](https://ja.wikipedia.org/wiki/櫻井敦司 "wikilink")、作曲：今井寿、編曲：BUCK-TICK
+      - 作詞：[櫻井敦司](../Page/櫻井敦司.md "wikilink")、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        1stアルバム『[SEXUAL×××××\!](https://ja.wikipedia.org/wiki/SEXUAL×××××! "wikilink")』タイトル曲。
+        1stアルバム『[SEXUAL×××××\!](../Page/SEXUAL×××××!.md "wikilink")』タイトル曲。
 3.  **PHYSICAL NEUROSE**
       - 作詞・作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
@@ -39,14 +39,14 @@
       - 作詞：櫻井敦司、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        3rdシングル。5thアルバム『[狂った太陽](https://ja.wikipedia.org/wiki/狂った太陽 "wikilink")』のバージョン。
+        3rdシングル。5thアルバム『[狂った太陽](../Page/狂った太陽.md "wikilink")』のバージョン。
 6.  **さくら**
       - 作詞：櫻井敦司、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
         5thアルバム『狂った太陽』収録曲。
 7.  **[JUPITER](https://ja.wikipedia.org/wiki/JUPITER_\(BUCK-TICKの曲\) "wikilink")**
-      - 作詞：櫻井敦司、作曲：[星野英彦](https://ja.wikipedia.org/wiki/星野英彦 "wikilink")、編曲：BUCK-TICK
+      - 作詞：櫻井敦司、作曲：[星野英彦](../Page/星野英彦.md "wikilink")、編曲：BUCK-TICK
     <!-- end list -->
       -
         5thシングル。
@@ -54,12 +54,12 @@
       - 作詞・作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        3rdアルバム『[TABOO](https://ja.wikipedia.org/wiki/TABOO_\(アルバム\) "wikilink")』収録曲の再録ヴァージョン。4thシングル「[M・A・D](https://ja.wikipedia.org/wiki/M・A・D "wikilink")」の[カップリングに収録](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
+        3rdアルバム『[TABOO](../Page/TABOO_\(アルバム\).md "wikilink")』収録曲の再録ヴァージョン。4thシングル「[M・A・D](https://ja.wikipedia.org/wiki/M・A・D "wikilink")」の[カップリングに収録](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
 9.  **ICONOCLASM**
       - 作詞・作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        3rdアルバム『TABOO』収録曲の再録ヴァージョン。[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")アルバム『[殺シノ調べ This is NOT Greatest Hits](https://ja.wikipedia.org/wiki/殺シノ調べ_This_is_NOT_Greatest_Hits "wikilink")』収録。
+        3rdアルバム『TABOO』収録曲の再録ヴァージョン。[セルフカバー](../Page/セルフカバー.md "wikilink")アルバム『[殺シノ調べ This is NOT Greatest Hits](../Page/殺シノ調べ_This_is_NOT_Greatest_Hits.md "wikilink")』収録。
 10. **[悪の華](../Page/悪の華_\(BUCK-TICKの曲\).md "wikilink")**
       - 作詞：櫻井敦司、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
@@ -89,12 +89,12 @@
       - 作詞：櫻井敦司、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        8thアルバム『[COSMOS](https://ja.wikipedia.org/wiki/COSMOS_\(アルバム\) "wikilink")』タイトル曲。
+        8thアルバム『[COSMOS](../Page/COSMOS_\(アルバム\).md "wikilink")』タイトル曲。
 16. **MY FUCKIN' VALENTINE**
       - 作詞・作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        9thアルバム『[SEXY STREAM LINER](https://ja.wikipedia.org/wiki/SEXY_STREAM_LINER "wikilink")』収録曲。
+        9thアルバム『[SEXY STREAM LINER](../Page/SEXY_STREAM_LINER.md "wikilink")』収録曲。
 17. **[ミウ](https://ja.wikipedia.org/wiki/ミウ_\(BUCK-TICKの曲\) "wikilink")**
       - 作詞：櫻井敦司、作曲：星野英彦、編曲：BUCK-TICK
     <!-- end list -->
@@ -112,7 +112,7 @@
       - 作詞：櫻井敦司、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        10thアルバム『[ONE LIFE,ONE DEATH](https://ja.wikipedia.org/wiki/ONE_LIFE,ONE_DEATH "wikilink")』収録曲。
+        10thアルバム『[ONE LIFE,ONE DEATH](../Page/ONE_LIFE,ONE_DEATH.md "wikilink")』収録曲。
 3.  **RHAPSODY**
       - 作詞・作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
@@ -127,7 +127,7 @@
       - 作詞・作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
       -
-        11thアルバム『[極東 I LOVE YOU](https://ja.wikipedia.org/wiki/極東_I_LOVE_YOU "wikilink")』収録曲。
+        11thアルバム『[極東 I LOVE YOU](../Page/極東_I_LOVE_YOU.md "wikilink")』収録曲。
 6.  **[21st Cherry Boy](https://ja.wikipedia.org/wiki/21st_Cherry_Boy "wikilink")**
       - 作詞：櫻井敦司・今井寿、作曲：今井寿、編曲：BUCK-TICK
     <!-- end list -->
@@ -189,7 +189,7 @@
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")、[ノイズ](../Page/ノイズミュージック.md "wikilink")、[エレクトロニクス](../Page/エレクトロニカ.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - 星野英彦 - ギター、コーラス
-  - [樋口豊](https://ja.wikipedia.org/wiki/樋口豊_\(ミュージシャン\) "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - [ヤガミトール](https://ja.wikipedia.org/wiki/ヤガミトール "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 [Category:BUCK-TICKのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:BUCK-TICKのベスト・アルバム "wikilink") [Category:BMG_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:BMG_JAPANのアルバム "wikilink") [Category:2005年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のベスト・アルバム "wikilink")

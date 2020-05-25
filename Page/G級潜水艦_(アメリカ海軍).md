@@ -1,7 +1,7 @@
-> この記事は[G \(\)](https://ja.wikipedia.org/wiki/G_\(\))から翻訳されています。
+> この記事は[G級潜水艦 \(アメリカ海軍\)](https://ja.wikipedia.org/wiki/G級潜水艦_\(アメリカ海軍\))から翻訳されています。
 
 
-**G級潜水艦** (**G-class submarine**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。[ニューポート・ニューズ造船所](https://ja.wikipedia.org/wiki/ニューポート・ニューズ造船所 "wikilink")、レイク・トルペード・ボート、[ウィリアム・クランプ・アンド・サンズ](../Page/ウィリアム・クランプ・アンド・サンズ.md "wikilink")の各社で、計4隻が建造された。本級の4隻はその相違点により、各艦が個別の艦級と見なされる場合がある。
+**G級潜水艦** (**G-class submarine**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[潜水艦](../Page/潜水艦.md "wikilink")の艦級。[ニューポート・ニューズ造船所](../Page/ニューポート・ニューズ造船所.md "wikilink")、レイク・トルペード・ボート、[ウィリアム・クランプ・アンド・サンズ](../Page/ウィリアム・クランプ・アンド・サンズ.md "wikilink")の各社で、計4隻が建造された。本級の4隻はその相違点により、各艦が個別の艦級と見なされる場合がある。
 
 ## 同型艦
 
@@ -9,7 +9,7 @@
 
 　ニューポート・ニューズ造船所建造　就役:1912年10月28日　退役:1920年03月06日
 
-　1911年11月17日改称、予定艦名の由来は[ネコ目](../Page/ネコ目.md "wikilink")[アザラシ科](https://ja.wikipedia.org/wiki/アザラシ科 "wikilink")全体に[オットセイ](https://ja.wikipedia.org/wiki/オットセイ "wikilink")を加えた海獣の総称。
+　1911年11月17日改称、予定艦名の由来は[ネコ目](../Page/ネコ目.md "wikilink")[アザラシ科](https://ja.wikipedia.org/wiki/アザラシ科 "wikilink")全体に[オットセイ](../Page/オットセイ.md "wikilink")を加えた海獣の総称。
 
   - ツナ G-2 (*USS Tuna/G-2, SS-27*)
 

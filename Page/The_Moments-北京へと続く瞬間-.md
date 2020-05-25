@@ -1,4 +1,4 @@
-> この記事は[The Moments--](https://ja.wikipedia.org/wiki/The_Moments--)から翻訳されています。
+> この記事は[The Moments-北京へと続く瞬間-](https://ja.wikipedia.org/wiki/The_Moments-北京へと続く瞬間-)から翻訳されています。
 
 
 **The Moments-北京へと続く瞬間-**（ザ・モーメンツ・ペキンへとつづくしゅんかん）は、[2007年](../Page/2007年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビで放送されていた](../Page/日本テレビ放送網.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")。テレビ番組欄での表記は「**北京へと続く瞬間**」となっている。
@@ -77,7 +77,7 @@
 
 ## 備考
 
-  - 初回の放送は30分遅れの24:59から放送する予定だったが、[プロ野球](../Page/プロ野球.md "wikilink")・[巨人のセ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・リーグ優勝の特別番組を放送と『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』の放送時間拡大のため、さらに25分遅れの25:24に放送された。
+  - 初回の放送は30分遅れの24:59から放送する予定だったが、[プロ野球](../Page/プロ野球.md "wikilink")・[巨人のセ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・リーグ優勝の特別番組を放送と『[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")』の放送時間拡大のため、さらに25分遅れの25:24に放送された。
 
 ## 外部リンク
 

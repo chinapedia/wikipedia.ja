@@ -1,11 +1,11 @@
-> この記事は[NAACP](https://ja.wikipedia.org/wiki/NAACP)から翻訳されています。
+> この記事は[NAACPイメージ・アワード](https://ja.wikipedia.org/wiki/NAACPイメージ・アワード)から翻訳されています。
 
 
-**NAACPイメージ・アワード**は毎年春に[全米黒人地位向上協会](https://ja.wikipedia.org/wiki/全米黒人地位向上協会 "wikilink")（NAACP）が開催する映画・テレビ・音楽・文学の賞。
+**NAACPイメージ・アワード**は毎年春に[全米黒人地位向上協会](../Page/全米黒人地位向上協会.md "wikilink")（NAACP）が開催する映画・テレビ・音楽・文学の賞。
 
 ## 歴史
 
-第1回は[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")。[アカデミー賞](../Page/アカデミー賞.md "wikilink")や[グラミー賞](../Page/グラミー賞.md "wikilink")同様、投票は協会会員で受賞者が決定される。授賞式は[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で放送される。
+第1回は[1970年](../Page/1970年.md "wikilink")。[アカデミー賞](../Page/アカデミー賞.md "wikilink")や[グラミー賞](../Page/グラミー賞.md "wikilink")同様、投票は協会会員で受賞者が決定される。授賞式は[NBC](../Page/NBC.md "wikilink")で放送される。
 
 ## 主な賞と部門
 

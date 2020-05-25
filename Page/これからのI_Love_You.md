@@ -1,4 +1,4 @@
-> この記事は[I Love You](https://ja.wikipedia.org/wiki/I_Love_You)から翻訳されています。
+> この記事は[これからのI Love You](https://ja.wikipedia.org/wiki/これからのI_Love_You)から翻訳されています。
 
 
 「**これからのI Love You**」（-アイ・ラブ・ユー）は、[中山美穂](../Page/中山美穂.md "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。(CDS:KIDS-100)

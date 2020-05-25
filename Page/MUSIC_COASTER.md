@@ -1,7 +1,7 @@
 > この記事は[MUSIC COASTER](https://ja.wikipedia.org/wiki/MUSIC_COASTER)から翻訳されています。
 
 
-**MUSIC COASTER**（ミュージック・コースター）は、[FM OSAKAで放送されたオール](../Page/エフエム大阪.md "wikilink")[J-POPの](../Page/邦楽.md "wikilink")[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+**MUSIC COASTER**（ミュージック・コースター）は、[FM OSAKAで放送されたオール](../Page/エフエム大阪.md "wikilink")[J-POPの](../Page/邦楽.md "wikilink")[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月からは、「**[MUSIC COASTER ∞](https://ja.wikipedia.org/wiki/MUSIC_COASTER_∞ "wikilink")**」として放送されている。
 
@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    月・火はみゆきが、水・木は遠藤が担当するワンマンスタイルに。金曜日は[珠久美穂子](https://ja.wikipedia.org/wiki/珠久美穂子 "wikilink")がこの番組に初登場した。
+    月・火はみゆきが、水・木は遠藤が担当するワンマンスタイルに。金曜日は[珠久美穂子](../Page/珠久美穂子.md "wikilink")がこの番組に初登場した。
 
 <!-- end list -->
 
@@ -34,8 +34,8 @@
 <!-- end list -->
 
   -
-    ここから、[庄司悟](https://ja.wikipedia.org/wiki/庄司悟 "wikilink")が登場。
-    夕方移動後は、[前番組から引き続いて月曜](../Page/ROCK_the_RADIO_851.md "wikilink")〜木曜は[TOWER RECORDSがスポンサー](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。梅田[丸ビル地下](https://ja.wikipedia.org/wiki/大阪マルビル "wikilink")1階・タワーレコード内にあるサテライトスタジオ「FM OSAKA TOWER STATION」からの公開生放送（FRIDAYはスポンサーコールがなく、本社スタジオからの放送。\[1\]）となっていて、自由に見学することができた（ただし、ゲストコーナーでの混雑が予想される場合、並ばないと見ることができない）。ゲストが、このスタジオでの観客とアーティストの近さに驚くことがしばしばあった。
+    ここから、[庄司悟](../Page/庄司悟.md "wikilink")が登場。
+    夕方移動後は、[前番組から引き続いて月曜](../Page/ROCK_the_RADIO_851.md "wikilink")〜木曜は[TOWER RECORDSがスポンサー](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。梅田[丸ビル地下](../Page/大阪マルビル.md "wikilink")1階・タワーレコード内にあるサテライトスタジオ「FM OSAKA TOWER STATION」からの公開生放送（FRIDAYはスポンサーコールがなく、本社スタジオからの放送。\[1\]）となっていて、自由に見学することができた（ただし、ゲストコーナーでの混雑が予想される場合、並ばないと見ることができない）。ゲストが、このスタジオでの観客とアーティストの近さに驚くことがしばしばあった。
     また、時間帯移動後は夕方ということもあり、時に、小学生からリクエストが寄せられることもあり、特に若者からの支持を得ている番組である。
 
 <!-- end list -->
@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - 2009年11月11日 - [高見こころ](https://ja.wikipedia.org/wiki/高見こころ "wikilink")登場
+  - 2009年11月11日 - [高見こころ](../Page/高見こころ.md "wikilink")登場
 
 <!-- end list -->
 
@@ -135,16 +135,16 @@
 
 ## DJ
 
-|         | 月       | 火                                                                        | 水       | 木                                                       | 金                    |
-| ------- | ------- | ------------------------------------------------------------------------ | ------- | ------------------------------------------------------- | -------------------- |
-| 2005.4  | 2006.9  | [みゆき](../Page/みゆき_\(DJ\).md "wikilink")・[遠藤淳](../Page/遠藤淳.md "wikilink") | （放送なし）  |                                                         |                      |
-| 2006.10 | 2007.9  | みゆき                                                                      | 遠藤淳     | [珠久美穂子](https://ja.wikipedia.org/wiki/珠久美穂子 "wikilink") |                      |
-|         | 月       | 火                                                                        | 水       | 木                                                       | MUSIC COASTER FRIDAY |
-| 2007.10 | 2009.3  | [庄司悟](https://ja.wikipedia.org/wiki/庄司悟 "wikilink")・珠久美穂子                | 遠藤淳・みゆき | みゆき                                                     |                      |
-| 2009.3  | 2009.10 | （放送なし）                                                                   |         |                                                         |                      |
-| 2009.10 | 2009.11 | 遠藤淳                                                                      |         |                                                         |                      |
-| 2009.11 | 2010.9  | 遠藤淳・[こころ](https://ja.wikipedia.org/wiki/高見こころ "wikilink")                |         |                                                         |                      |
-|         |         |                                                                          |         |                                                         |                      |
+|         | 月       | 火                                                                        | 水       | 木                                    | 金                    |
+| ------- | ------- | ------------------------------------------------------------------------ | ------- | ------------------------------------ | -------------------- |
+| 2005.4  | 2006.9  | [みゆき](../Page/みゆき_\(DJ\).md "wikilink")・[遠藤淳](../Page/遠藤淳.md "wikilink") | （放送なし）  |                                      |                      |
+| 2006.10 | 2007.9  | みゆき                                                                      | 遠藤淳     | [珠久美穂子](../Page/珠久美穂子.md "wikilink") |                      |
+|         | 月       | 火                                                                        | 水       | 木                                    | MUSIC COASTER FRIDAY |
+| 2007.10 | 2009.3  | [庄司悟](../Page/庄司悟.md "wikilink")・珠久美穂子                                   | 遠藤淳・みゆき | みゆき                                  |                      |
+| 2009.3  | 2009.10 | （放送なし）                                                                   |         |                                      |                      |
+| 2009.10 | 2009.11 | 遠藤淳                                                                      |         |                                      |                      |
+| 2009.11 | 2010.9  | 遠藤淳・[こころ](../Page/高見こころ.md "wikilink")                                   |         |                                      |                      |
+|         |         |                                                                          |         |                                      |                      |
 
 ### 過去の代打DJ
 
@@ -165,7 +165,7 @@
 <!-- end list -->
 
   - 2009年[2月7日](../Page/2月7日.md "wikilink")\[9\] - [アイクル](../Page/アイクル.md "wikilink")
-  - 2009年[2月13日](../Page/2月13日.md "wikilink")\[10\] - [井上麻子](https://ja.wikipedia.org/wiki/井上麻子 "wikilink")\[11\]
+  - 2009年[2月13日](../Page/2月13日.md "wikilink")\[10\] - [井上麻子](../Page/井上麻子.md "wikilink")\[11\]
 
 ## タイムテーブル
 
@@ -298,7 +298,7 @@ FM OSAKAでは、さまざまな社会啓発キャンペーンを展開してい
 
 <!-- end list -->
 
-  - 『愛です\!FM OSAKA〜HIV／エイズについて考えよう\!』の一環として、本番組(木曜日)に[山本シュウ](https://ja.wikipedia.org/wiki/山本シュウ "wikilink")が出演。エイズについての様々な情報を、時間を割いて紹介していた。（2008年）
+  - 『愛です\!FM OSAKA〜HIV／エイズについて考えよう\!』の一環として、本番組(木曜日)に[山本シュウ](../Page/山本シュウ.md "wikilink")が出演。エイズについての様々な情報を、時間を割いて紹介していた。（2008年）
   - FRIDAYの時間帯で放送された『FM OSAKA防災キャンペーン』の特別番組「FM大阪　みんなの防災スペシャル」のDJをみゆき・遠藤が担当。中高生からのメッセージも寄せられるなど、普段のリスナー層も取り込んだ放送となった。「mu-mo チェキチェキ☆ランキング」のみ[SHOO POWER REQUEST内で放送される異例の措置が行われた](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink")（みゆきによる録音）。（[2009年](../Page/2009年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")）
 
 ## 脚注
@@ -321,5 +321,5 @@ FM OSAKAでは、さまざまな社会啓発キャンペーンを展開してい
 14.
 15. [ゲスト出演に伴いタワステからの公開生放送になった時にDJとして出演した](../Page/ORANGE_RANGE.md "wikilink")。
 16. サンデースペシャル（[奥村初音](https://ja.wikipedia.org/wiki/奥村初音 "wikilink")サロンライブ）のMCで本社に来ていたため飛び入り出演。番組の宣伝もした。 - [2009年](../Page/2009年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")
-17. 庄司は同時間帯[HFMで](../Page/広島エフエム放送.md "wikilink")[生放送に出演している](https://ja.wikipedia.org/wiki/庄司悟のリクエスト魂 "wikilink")
+17. 庄司は同時間帯[HFMで](../Page/広島エフエム放送.md "wikilink")[生放送に出演している](../Page/庄司悟のリクエスト魂.md "wikilink")
 18. 「LIVE SDD 2009 バックステージから生放送\!」(2009年[2月20日](../Page/2月20日.md "wikilink"))がその例。みゆきによる録音。

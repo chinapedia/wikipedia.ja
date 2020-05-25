@@ -1,11 +1,11 @@
-> この記事は[Best Friend \(Kiroro\)](https://ja.wikipedia.org/wiki/Best_Friend_\(Kiroro\))から翻訳されています。
+> この記事は[Best Friend \(Kiroroの曲\)](https://ja.wikipedia.org/wiki/Best_Friend_\(Kiroroの曲\))から翻訳されています。
 
 
 「**Best Friend**」（ベスト・フレンド）は、[Kiroro](../Page/Kiroro.md "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 
-[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ちゅらさん](../Page/ちゅらさん.md "wikilink")』主題歌。ヒット曲となり、『[第52回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第52回NHK紅白歌合戦 "wikilink")』に出場した。2002年12月発表のアルバム『[Four Leaves Clover](https://ja.wikipedia.org/wiki/Four_Leaves_Clover "wikilink")』には、アレンジの異なるバージョンが収録された。
+[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ちゅらさん](../Page/ちゅらさん.md "wikilink")』主題歌。ヒット曲となり、『[第52回NHK紅白歌合戦](../Page/第52回NHK紅白歌合戦.md "wikilink")』に出場した。2002年12月発表のアルバム『[Four Leaves Clover](https://ja.wikipedia.org/wiki/Four_Leaves_Clover "wikilink")』には、アレンジの異なるバージョンが収録された。
 
 ヴォーカルの玉城がぶつかったり落ち込んだりすることが多い自分をいつもなぐさめてくれる金城に向けての感謝の思いを綴った歌\[1\]で「親友に贈る歌」として認知されており、[卒業式](../Page/卒業式.md "wikilink")で歌われることも多い。また、サビの歌詞である「ありがとう、ありがとう、Best Friend」の「ありがとう」の部分を「おめでとう」に変えて親友の[結婚式](../Page/結婚式.md "wikilink")で歌うことも定番化している。
 
@@ -54,7 +54,7 @@
   - [芦田愛菜](https://ja.wikipedia.org/wiki/芦田愛菜 "wikilink") - アルバム『[Happy Smile\!](https://ja.wikipedia.org/wiki/Happy_Smile! "wikilink")』（[2011年](../Page/2011年.md "wikilink")）でカバーした。この曲は発売元のユニバーサルミュージックがホームページで募集した、「ママが選ぶ愛菜ちゃんに歌ってほしいカバー曲」上位2曲のうちの1曲（もう1曲は[荒井由実の](../Page/松任谷由実.md "wikilink")「[やさしさに包まれたなら](../Page/やさしさに包まれたなら.md "wikilink")」）。
   - [ダイスケ](https://ja.wikipedia.org/wiki/ダイスケ "wikilink") - シングル『[ドレミ](https://ja.wikipedia.org/wiki/ドレミ_\(ダイスケの曲\) "wikilink")』（[2014年](../Page/2014年.md "wikilink")）に収録。
   - 三浦あずさ([たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink"))feat.秋月律子 - 『[THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 03 三浦あずさ](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST_2 "wikilink")』
-  - [Hearts Grow](https://ja.wikipedia.org/wiki/Hearts_Grow "wikilink") - ミニアルバム『サマーチャンプルー』
+  - [Hearts Grow](../Page/Hearts_Grow.md "wikilink") - ミニアルバム『サマーチャンプルー』
   - [熊木杏里](https://ja.wikipedia.org/wiki/熊木杏里 "wikilink") ｰ [損保ジャパン日本興亜CMソング](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")『気をつけて』編\[3\]として、2019年5月13日に配信限定リリース\[4\]。
 
 ## 脚注
@@ -63,7 +63,7 @@
 
 ・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")公式チャンネル
 
-[Category:Kiroroの楽曲](https://ja.wikipedia.org/wiki/Category:Kiroroの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:連続テレビ小説主題歌](https://ja.wikipedia.org/wiki/Category:連続テレビ小説主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink") [Category:ディズニーの音楽](https://ja.wikipedia.org/wiki/Category:ディズニーの音楽 "wikilink") [Category:ちゅらさん](https://ja.wikipedia.org/wiki/Category:ちゅらさん "wikilink")
+[Category:Kiroroの楽曲](https://ja.wikipedia.org/wiki/Category:Kiroroの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:連続テレビ小説主題歌](https://ja.wikipedia.org/wiki/Category:連続テレビ小説主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink") [Category:卒業ソング](https://ja.wikipedia.org/wiki/Category:卒業ソング "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink") [Category:ディズニーの音楽](https://ja.wikipedia.org/wiki/Category:ディズニーの音楽 "wikilink") [Category:ちゅらさん](https://ja.wikipedia.org/wiki/Category:ちゅらさん "wikilink")
 
 1.
 2.

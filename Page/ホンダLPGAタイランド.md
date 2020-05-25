@@ -1,4 +1,4 @@
-> この記事は[LPGA](https://ja.wikipedia.org/wiki/LPGA)から翻訳されています。
+> この記事は[ホンダLPGAタイランド](https://ja.wikipedia.org/wiki/ホンダLPGAタイランド)から翻訳されています。
 
 
 **ホンダLPGAタイランド**（Honda LPGA Thailand）は毎年2月に[タイで開催される](../Page/タイ王国.md "wikilink")[全米女子プロゴルフ協会](../Page/全米女子プロゴルフ協会.md "wikilink")の公式戦。[2006年](../Page/2006年.md "wikilink")から実施している。主催は[ホンダ](../Page/本田技研工業.md "wikilink")・タイとタイのテレビ局[チャンネル7と](https://ja.wikipedia.org/wiki/:en:BBTV_Channel_7 "wikilink")[IMG](https://ja.wikipedia.org/wiki/インターナショナル・マネジメント・グループ "wikilink")。2007年までは10月に開催されていた。

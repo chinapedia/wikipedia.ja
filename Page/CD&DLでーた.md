@@ -1,9 +1,9 @@
-> この記事は[CD\&DL](https://ja.wikipedia.org/wiki/CD\&DL)から翻訳されています。
+> この記事は[CD\&DLでーた](https://ja.wikipedia.org/wiki/CD\&DLでーた)から翻訳されています。
 
 
 『**CD\&DLでーた**』（シーディーアンドダウンロードでーた）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の出版社・[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")が発行していた[J-POP](../Page/J-POP.md "wikilink")シーンを中心に扱った音楽総合情報雑誌。ブランドは[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")。
 
-『**CDでーた**』（シーディーでーた）として1986年12月に[角川書店](../Page/角川書店.md "wikilink")から創刊。2010年に誌名を『**CD\&DLでーた**』に変更。また、[角川グループ](https://ja.wikipedia.org/wiki/角川グループ "wikilink")の再編に伴い、2007年1月からは[角川マガジンズ](https://ja.wikipedia.org/wiki/エンターブレイン#株式会社角川マガジンズ（初代） "wikilink")（初代、2011年7月発足の[角川マガジンズ](https://ja.wikipedia.org/wiki/角川マガジンズ "wikilink")（2代目）とは別会社）、2011年2月からはエンターブレイン、2013年10月からはKADOKAWAに発行元が変更された。2016年9-10月号をもって定期刊行を終了した\[1\]。
+『**CDでーた**』（シーディーでーた）として1986年12月に[角川書店](../Page/角川書店.md "wikilink")から創刊。2010年に誌名を『**CD\&DLでーた**』に変更。また、[角川グループ](https://ja.wikipedia.org/wiki/角川グループ "wikilink")の再編に伴い、2007年1月からは[角川マガジンズ](https://ja.wikipedia.org/wiki/エンターブレイン#株式会社角川マガジンズ（初代） "wikilink")（初代、2011年7月発足の[角川マガジンズ](../Page/角川マガジンズ.md "wikilink")（2代目）とは別会社）、2011年2月からはエンターブレイン、2013年10月からはKADOKAWAに発行元が変更された。2016年9-10月号をもって定期刊行を終了した\[1\]。
 
 ## 概要
 
@@ -42,19 +42,19 @@
   - 西川貴教(T.M.Revolution)の荒ぶる\!国家統一倶楽部Z
     [西川貴教](../Page/西川貴教.md "wikilink")
   - THE BACK HORNの義務教育からやり直せ\!
-    [THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
+    [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
   - 風味堂的日常絵巻
-    [風味堂](https://ja.wikipedia.org/wiki/風味堂 "wikilink")
+    [風味堂](../Page/風味堂.md "wikilink")
   - ムック・逹瑯の気分はダウジング
-    [逹瑯](https://ja.wikipedia.org/wiki/逹瑯 "wikilink")（[ムック](https://ja.wikipedia.org/wiki/MUCC "wikilink")）
+    [逹瑯](https://ja.wikipedia.org/wiki/逹瑯 "wikilink")（[ムック](../Page/MUCC.md "wikilink")）
   - 三浦大知のD-ROCK with PHOTO
-    [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")
+    [三浦大知](../Page/三浦大知.md "wikilink")
   - ユンナのニッポン探検CDで〜た
-    [ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")
+    [ユンナ](../Page/ユンナ.md "wikilink")
   - タナカ（め）せん
     [田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")
   - 秘密の編集基地（終了）
-    [ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")。タイトルはヒット曲「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」の日本語訳「秘密基地」からのパロディ。
+    [ZONE](../Page/ZONE_\(バンド\).md "wikilink")。タイトルはヒット曲「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」の日本語訳「秘密基地」からのパロディ。
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@
 <td><p>Vol.15 No.7</p></td>
 <td><p>2003年4月20日号</p></td>
 <td><p>2003年4月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ZONE_(バンド)" title="wikilink">ZONE</a></p></td>
+<td><p><a href="../Page/ZONE_(バンド).md" title="wikilink">ZONE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -155,7 +155,7 @@
 <td><p>Vol.15 No.13</p></td>
 <td><p>2003年7月20日号</p></td>
 <td><p>2003年7月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a></p></td>
+<td><p><a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -163,7 +163,7 @@
 <td><p>2003年8月5日<br />
 2003年8月20日合併号</p></td>
 <td><p>2003年7月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -177,14 +177,14 @@
 <td><p>Vol.15 No.15</p></td>
 <td><p>2003年9月20日号</p></td>
 <td><p>2003年9月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DIR_EN_GREY" title="wikilink">Dir en grey</a></p></td>
+<td><p><a href="../Page/DIR_EN_GREY.md" title="wikilink">Dir en grey</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Vol.15 No.17</p></td>
 <td><p>2003年10月5日号</p></td>
 <td><p>2003年9月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SOPHIA" title="wikilink">SOPHIA</a></p></td>
+<td><p><a href="../Page/SOPHIA.md" title="wikilink">SOPHIA</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -259,7 +259,7 @@
 <td><p>Vol.16 No.12</p></td>
 <td><p>2004年8月号</p></td>
 <td><p>2004年7月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浜崎あゆみ" title="wikilink">浜崎あゆみ</a></p></td>
+<td><p><a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -329,7 +329,7 @@
 <td><p>Vol.17 No.6</p></td>
 <td><p>2005年6月号</p></td>
 <td><p>2005年5月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dragon_Ash" title="wikilink">Dragon Ash</a></p></td>
+<td><p><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -551,14 +551,14 @@
 ## 関連項目
 
   - [DVD&ビデオでーた](https://ja.wikipedia.org/wiki/DVD&ビデオでーた "wikilink")
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
-  - [2001年の音楽](https://ja.wikipedia.org/wiki/2001年の音楽 "wikilink")
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
-  - [2006年の音楽](https://ja.wikipedia.org/wiki/2006年の音楽 "wikilink")
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
+  - [2001年の音楽](../Page/2001年の音楽.md "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
+  - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
   - [2008年の音楽](../Page/2008年の音楽.md "wikilink")
   - [2009年の音楽](https://ja.wikipedia.org/wiki/2009年の音楽 "wikilink")
   - [2010年の音楽](https://ja.wikipedia.org/wiki/2010年の音楽 "wikilink")

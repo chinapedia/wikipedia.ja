@@ -55,12 +55,12 @@
 
 ## ミッションのハイライト
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:STS-98_Atlantis_on_the_crawler.jpg "wikilink") このミッションでは、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")の組み立てと拡充を進めるために、米国の[デスティニー実験モジュールが取り付けられた](../Page/デスティニー_\(ISS\).md "wikilink")。この取り付け作業の間、シャトルは6日間 ISS にドッキングし、[船外活動](https://ja.wikipedia.org/wiki/船外活動 "wikilink")が3回実施された。この時 ISS には、最初の長期滞在乗組員 ([Expedition 1](https://ja.wikipedia.org/wiki/:en:Expedition_1 "wikilink")) が常駐していた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:STS-98_Atlantis_on_the_crawler.jpg "wikilink") このミッションでは、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")の組み立てと拡充を進めるために、米国の[デスティニー実験モジュールが取り付けられた](../Page/デスティニー_\(ISS\).md "wikilink")。この取り付け作業の間、シャトルは6日間 ISS にドッキングし、[船外活動](../Page/船外活動.md "wikilink")が3回実施された。この時 ISS には、最初の長期滞在乗組員 ([Expedition 1](https://ja.wikipedia.org/wiki/:en:Expedition_1 "wikilink")) が常駐していた。
 
 ## 外部リンク
 
   - [NASA mission summary](http://science.ksc.nasa.gov/shuttle/missions/sts-98/mission-sts-98.html)
   - [STS-98 Video Highlights](http://www.nss.org/resources/library/shuttlevideos/shuttle102.htm)
-  - [国際宇宙ステーションの組立フライト 5A Destiny STS-98](http://iss.jaxa.jp/iss/5a/index.html) - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
+  - [国際宇宙ステーションの組立フライト 5A Destiny STS-98](https://iss.jaxa.jp/iss/5a/index.html) - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
 
-[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:2001年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:2001年のアメリカ合衆国 "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink") [Category:2001年2月](https://ja.wikipedia.org/wiki/Category:2001年2月 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:2001年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:2001年のアメリカ合衆国 "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink") [Category:2001年2月](https://ja.wikipedia.org/wiki/Category:2001年2月 "wikilink")

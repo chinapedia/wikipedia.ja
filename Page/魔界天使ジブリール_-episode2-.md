@@ -1,9 +1,9 @@
-> この記事は[ -episode2-](https://ja.wikipedia.org/wiki/_-episode2-)から翻訳されています。
+> この記事は[魔界天使ジブリール -episode2-](https://ja.wikipedia.org/wiki/魔界天使ジブリール_-episode2-)から翻訳されています。
 
 
-『**魔界天使ジブリール -episode2-**』（まかいてんしジブリール エピソード2）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。『[魔界天使ジブリール](https://ja.wikipedia.org/wiki/魔界天使ジブリール "wikilink")』の続編。
+『**魔界天使ジブリール -episode2-**』（まかいてんしジブリール エピソード2）は、[2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[フロントウイング](../Page/フロントウイング.md "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。『[魔界天使ジブリール](../Page/魔界天使ジブリール.md "wikilink")』の続編。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には続編『[魔界天使ジブリール -episode3-](https://ja.wikipedia.org/wiki/魔界天使ジブリール_-episode3- "wikilink")』が発売された。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には続編『[魔界天使ジブリール -episode3-](../Page/魔界天使ジブリール_-episode3-.md "wikilink")』が発売された。
 
 ## 作品概要
 
@@ -28,21 +28,21 @@
       - 聖天使ジブリール アリエス（せいてんしジブリール アリエス）
         ひかりが天使の力で変身した姿。名称はひかりが[牡羊座生まれである事に由来](../Page/白羊宮.md "wikilink")。
   - 真辺 リカ（まなべ リカ）
-    声：[青山ゆかり](https://ja.wikipedia.org/wiki/青山ゆかり "wikilink")
+    声：[青山ゆかり](../Page/青山ゆかり.md "wikilink")
     直人の幼馴染。前作で晴れて恋人同士となる。
       - 聖天使ジブリール（せいてんしジブリール）
         リカが天使の力で変身した姿。ロコ・コに敗れて捕らえられ、魔王復活の生け贄として陵辱される。
   - ラヴリエル・ド・ドットプランシェ
-    声：[野神奈々](https://ja.wikipedia.org/wiki/野神奈々 "wikilink")
+    声：[野神奈々](../Page/野神奈々.md "wikilink")
     天使。漫才要員。
   - ミスティメイ
-    声：[まきいづみ](https://ja.wikipedia.org/wiki/まきいづみ "wikilink")
+    声：[まきいづみ](../Page/まきいづみ.md "wikilink")
     ロコ・コにより芽衣美と分離し、完全な悪の化身となる。ロコ・コとは犬猿の仲。
   - 音無 芽衣美（おとなし めいみ）
     声：まきいづみ
     不幸少女。ミスティメイと分離したショックで入院中。
   - ロコ・コ
-    声：[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")
+    声：[成瀬未亜](../Page/成瀬未亜.md "wikilink")
     悪魔。何故か女子高生風のブレザースタイルの少女。
 
 ## スタッフ
@@ -50,14 +50,14 @@
   - シナリオ：反転星・[橘ぱん](https://ja.wikipedia.org/wiki/橘ぱん "wikilink")・苑脇つぐみ
   - 原画：[空中幼彩](../Page/空中幼彩.md "wikilink")
   - オープニングテーマ 『Little my star』
-      - 作曲・作詞・歌：[U](https://ja.wikipedia.org/wiki/U_\(歌手\) "wikilink")
-  - オープニングアニメーション：[渡辺明夫](https://ja.wikipedia.org/wiki/渡辺明夫 "wikilink")
+      - 作曲・作詞・歌：[U](../Page/U_\(歌手\).md "wikilink")
+  - オープニングアニメーション：[渡辺明夫](../Page/渡辺明夫.md "wikilink")
 
 ## 関連商品
 
 ### アニメ
 
-  - [アダルトアニメ](../Page/アダルトアニメ.md "wikilink")作品。Vol.1〜Vol.3まではアニマックより発売されたが、Vol.4発売前にアニマックが活動を停止、その後[ミルキーレーベル](https://ja.wikipedia.org/wiki/ミルキーレーベル "wikilink")が版権を引き継ぎ、Vol.4が発売されることとなった。ベスト版もミルキーレーベルから発売されている。
+  - [アダルトアニメ](../Page/アダルトアニメ.md "wikilink")作品。Vol.1〜Vol.3まではアニマックより発売されたが、Vol.4発売前にアニマックが活動を停止、その後[ミルキーレーベル](../Page/ミルキーレーベル.md "wikilink")が版権を引き継ぎ、Vol.4が発売されることとなった。ベスト版もミルキーレーベルから発売されている。
     1.  2007年5月25日発売
     2.  2007年7月28日発売
     3.  2007年9月28日発売

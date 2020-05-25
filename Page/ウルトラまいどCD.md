@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[ウルトラまいどCD](https://ja.wikipedia.org/wiki/ウルトラまいどCD)から翻訳されています。
 
 
 **ウルトラまいどCD**（ウルトラまいどシーディー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に映画『[ウルトラマンゼアス](../Page/ウルトラマンゼアス.md "wikilink")』と[出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")のタイアップ企画により製作された非売品8cmCD[シングル](../Page/シングル.md "wikilink")。制作は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

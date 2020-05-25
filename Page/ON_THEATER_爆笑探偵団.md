@@ -1,4 +1,4 @@
-> この記事は[ON THEATER ](https://ja.wikipedia.org/wiki/ON_THEATER_)から翻訳されています。
+> この記事は[ON THEATER 爆笑探偵団](https://ja.wikipedia.org/wiki/ON_THEATER_爆笑探偵団)から翻訳されています。
 
 
 **ON THEATER 爆笑探偵団**（オンシアターばくしょうたんていだん）は、[FNSソフト工場](https://ja.wikipedia.org/wiki/FNSソフト工場 "wikilink")で2006年7月22日に放送された[北海道文化放送](../Page/北海道文化放送.md "wikilink")制作のテレビドラマ仕立てのサスペンスミステリー[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。「爆笑探偵」が舞台上で犯人を推理しながらアドリブトークを繰り広げる。3ヶ月稽古を積んだ札幌の役者の中に犯人がいる。
@@ -69,8 +69,9 @@
 
 ## 外部リンク
 
-  - [ポニーキャニオン](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200700001191&DSP_SKHKETSEQ=001)
+  -
   - [FNSソフト工場](http://www.fujitv.co.jp/fujitv/news/pub_2006/06-224.html)
+
   - [オフィスティンブル](http://office-timbre.com/index.html)
 
 [Category:爆笑問題](https://ja.wikipedia.org/wiki/Category:爆笑問題 "wikilink") [Category:北海道文化放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北海道文化放送のテレビ番組 "wikilink") [Category:ローカルテレビ局のクイズ番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のクイズ番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

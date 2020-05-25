@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウォルソールFC](https://ja.wikipedia.org/wiki/ウォルソールFC)から翻訳されています。
 
 
 **ウォルソール・フットボール・クラブ**（**Walsall Football Club**）は[イングランド](../Page/イングランド.md "wikilink")中部、[ウェスト・ミッドランズ州](https://ja.wikipedia.org/wiki/ウェスト・ミッドランズ州 "wikilink")、[ウォルソール](https://ja.wikipedia.org/wiki/ウォルソール "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[EFLリーグ2](../Page/EFLリーグ2.md "wikilink")（4部相当）に所属。
@@ -16,7 +16,7 @@
 
 **一試合最多観客動員数**
 
-  - 25,453人 vs [ニューカッスル・ユナイテッド](https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC "wikilink") 1961-1962
+  - 25,453人 vs [ニューカッスル・ユナイテッド](../Page/ニューカッスル・ユナイテッドFC.md "wikilink") 1961-1962
 
 **一試合最多得点勝利試合**
 
@@ -24,7 +24,7 @@
 
 **一試合最多失点敗戦試合**
 
-  - 0-12 vs [バーミンガム・シティ](https://ja.wikipedia.org/wiki/バーミンガム・シティFC "wikilink") フットボールリーグ・ディヴィジョン2 1892.12.17
+  - 0-12 vs [バーミンガム・シティ](../Page/バーミンガム・シティFC.md "wikilink") フットボールリーグ・ディヴィジョン2 1892.12.17
 
 ## タイトル
 

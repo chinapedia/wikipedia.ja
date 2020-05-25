@@ -1,7 +1,7 @@
 > この記事は[TYPE90](https://ja.wikipedia.org/wiki/TYPE90)から翻訳されています。
 
 
-**TYPE.90**（たいぷきゅうじゅう）\[1\]は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[成年](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。
+**TYPE.90**（たいぷきゅうじゅう）\[1\]は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[成年](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")[漫画家](../Page/漫画家.md "wikilink")。
 
 ## 略歴
 
@@ -10,7 +10,7 @@
   - 01 肉欲玩具 （[松文館](../Page/松文館.md "wikilink")、2001年1月）
   - 02 少女汁 （松文館、2002年10月）
   - 03 ああ、七瀬さま （松文館、2003年10月）
-  - 04 妃蜜の穴園 （[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")、2004年03月）
+  - 04 妃蜜の穴園 （[コアマガジン](../Page/コアマガジン.md "wikilink")、2004年03月）
   - 05 ツユダク華実 （[東京漫画社](https://ja.wikipedia.org/wiki/東京漫画社 "wikilink")、2004年09月）
   - 06 メイド・イン・ティーチャー （コアマガジン、2005年10月）
   - 07 天使の雫 （[富士美出版](https://ja.wikipedia.org/wiki/富士美出版 "wikilink")、2006年03月）

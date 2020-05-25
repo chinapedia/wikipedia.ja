@@ -1,7 +1,7 @@
-> この記事は[WA!](https://ja.wikipedia.org/wiki/WA!)から翻訳されています。
+> この記事は[いいな世界WA!](https://ja.wikipedia.org/wiki/いいな世界WA!)から翻訳されています。
 
 
-『**いいな世界WA\!**』（いいなせかいわ）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")から[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全22回。[大塚製薬](../Page/大塚製薬.md "wikilink")の一社提供。放送時間は毎週月曜 19:30 - 20:00 ([JST](../Page/日本標準時.md "wikilink")) 。
+『**いいな世界WA\!**』（いいなせかいわ）は、[1991年](../Page/1991年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")から[1992年](../Page/1992年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全22回。[大塚製薬](../Page/大塚製薬.md "wikilink")の一社提供。放送時間は毎週月曜 19:30 - 20:00 ([JST](../Page/日本標準時.md "wikilink")) 。
 
 ## 概説
 
@@ -137,7 +137,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td></td>
 <td></td>
@@ -167,7 +167,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島放送.md" title="wikilink">鹿児島放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 <td><p>同時ネット</p></td>

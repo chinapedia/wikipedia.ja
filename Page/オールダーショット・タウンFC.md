@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[オールダーショット・タウンFC](https://ja.wikipedia.org/wiki/オールダーショット・タウンFC)から翻訳されています。
 
 
 **オールダーショット・タウン・フットボール・クラブ**（**Aldershot Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")[ハンプシャー州](https://ja.wikipedia.org/wiki/ハンプシャー州 "wikilink")地区[オールダーショット](https://ja.wikipedia.org/wiki/オールダーショット "wikilink")を本拠地とするサッカークラブチームである。[2013](../Page/2013年.md "wikilink")-[2014シーズンは](../Page/2014年.md "wikilink")[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
@@ -107,7 +107,7 @@
 
 ## 歴代監督
 
-  - [ディーン・ホールズワース](https://ja.wikipedia.org/wiki/ディーン・ホールズワース "wikilink") 2011-2013
+  - [ディーン・ホールズワース](../Page/ディーン・ホールズワース.md "wikilink") 2011-2013
 
 ## 外部リンク
 

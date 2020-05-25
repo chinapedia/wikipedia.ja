@@ -1,7 +1,7 @@
 > この記事は[AKAKAGE](https://ja.wikipedia.org/wiki/AKAKAGE)から翻訳されています。
 
 
-**AKAKAGE**（アカカゲ、本名：伊藤 陽一郎（いとう よういちろう））は、日本の[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")。[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に所属。
+**AKAKAGE**（アカカゲ、本名：伊藤 陽一郎（いとう よういちろう））は、日本の[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")。[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に所属。
 
 DJ、プロデューサーとして自らの三つのプロジェクト「akakage」「Natural Essence」「aaron」で活動するかたわら、他のアーティストへのプロデュース、編曲、リミックスなど幅広い活動を行う。
 
@@ -17,10 +17,10 @@ DJ、プロデューサーとして自らの三つのプロジェクト「akakag
 
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")[「STUCK IN YOUR LOVE」 -AKAKAGE's Tropical Smile-](https://ja.wikipedia.org/wiki/electriCOLOR_-COMPLETE_REMIX- "wikilink")
   - [松田聖子](../Page/松田聖子.md "wikilink")「Rock'n Rouge」(AKAKAGE'S Pure Pure Electro 3000)
-  - [マボロシ](https://ja.wikipedia.org/wiki/マボロシ "wikilink")「SLOW DOWN\!」(Akakage's Nasty Funkacid 3000)
+  - [マボロシ](../Page/マボロシ.md "wikilink")「SLOW DOWN\!」(Akakage's Nasty Funkacid 3000)
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")「[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")」“Akakage's crazy love Remix”
-  - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")「[スイミー](https://ja.wikipedia.org/wiki/スイミー_\(曲\) "wikilink")」(akakage's sweetest beach)
-  - [NAO](https://ja.wikipedia.org/wiki/三宅尚子 "wikilink")「cherry」(akakage's 100% pure dancing pleasure\!)
+  - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")「[スイミー](../Page/スイミー_\(曲\).md "wikilink")」(akakage's sweetest beach)
+  - [NAO](../Page/三宅尚子.md "wikilink")「cherry」(akakage's 100% pure dancing pleasure\!)
 
 他多数。また[オムニバス](../Page/オムニバス.md "wikilink")などにも参加。
 

@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[スウィンドン・タウンFC](https://ja.wikipedia.org/wiki/スウィンドン・タウンFC)から翻訳されています。
 
 
-**スウィンドン・タウン・フットボール・クラブ**（**Swindon Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ウィルトシャー州](https://ja.wikipedia.org/wiki/ウィルトシャー州 "wikilink")[スウィンドン](https://ja.wikipedia.org/wiki/スウィンドン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
+**スウィンドン・タウン・フットボール・クラブ**（**Swindon Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ウィルトシャー州](https://ja.wikipedia.org/wiki/ウィルトシャー州 "wikilink")[スウィンドン](../Page/スウィンドン.md "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
 
 1993-94シーズンの1シーズンだけ[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に所属した。クラブ史上初めてのトップディビジョン所属となったこのシーズンは低迷し、22位で降格した。以降はトップディビジョンへの復帰は果たせていない。
 
@@ -84,6 +84,15 @@
 
   -
     2007
+
+<!-- end list -->
+
+  - [リーグカップ](../Page/EFLカップ.md "wikilink"):1回
+
+<!-- end list -->
+
+  -
+    1969
 
 ### 国際タイトル
 
@@ -259,15 +268,15 @@
 
 ## 歴代監督
 
-  - [オズワルド・アルディレス](https://ja.wikipedia.org/wiki/オズワルド・アルディレス "wikilink") 1989-1991
+  - [オズワルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") 1989-1991
 
-  - [グレン・ホドル](https://ja.wikipedia.org/wiki/グレン・ホドル "wikilink") 1991-1993
+  - [グレン・ホドル](../Page/グレン・ホドル.md "wikilink") 1991-1993
 
   - [デニス・ワイズ](../Page/デニス・ワイズ.md "wikilink") 2006
 
   - [ポール・ハート](https://ja.wikipedia.org/wiki/ポール・ハート "wikilink") 2011
 
-  - [パオロ・ディ・カーニオ](https://ja.wikipedia.org/wiki/パオロ・ディ・カーニオ "wikilink") 2011-2013
+  - [パオロ・ディ・カーニオ](../Page/パオロ・ディ・カーニオ.md "wikilink") 2011-2013
 
   - [ケヴィン・マクドナルド](https://ja.wikipedia.org/wiki/ケヴィン・マクドナルド_\(サッカー\) "wikilink") 2013
 
@@ -293,15 +302,15 @@
 
   - [コリン・カルダーウッド](https://ja.wikipedia.org/wiki/コリン・カルダーウッド "wikilink") 1985-1993
 
-  - [オズワルド・アルディレス](https://ja.wikipedia.org/wiki/オズワルド・アルディレス "wikilink") 1989-1991
+  - [オズワルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") 1989-1991
 
   - [ネストル・ガブリエル・ロレンソ](https://ja.wikipedia.org/wiki/ネストル・ガブリエル・ロレンソ "wikilink") 1990-1992
 
-  - [グレン・ホドル](https://ja.wikipedia.org/wiki/グレン・ホドル "wikilink") 1991-1993
+  - [グレン・ホドル](../Page/グレン・ホドル.md "wikilink") 1991-1993
 
   - [シェイ・ギヴン](../Page/シェイ・ギヴン.md "wikilink") 1994, 1996\]
 
-  - [マイケル・キャリック](https://ja.wikipedia.org/wiki/マイケル・キャリック "wikilink") 1999
+  - [マイケル・キャリック](../Page/マイケル・キャリック.md "wikilink") 1999
 
   - [ディーン・マーニー](https://ja.wikipedia.org/wiki/ディーン・マーニー_\(サッカー選手\) "wikilink") 2002-2003
 
@@ -309,7 +318,7 @@
 
   - [ジョニー・ジャクソン](https://ja.wikipedia.org/wiki/ジョニー・ジャクソン_\(サッカー選手\) "wikilink") 2002
 
-  - [ジェイムズ・ミルナー](https://ja.wikipedia.org/wiki/ジェイムズ・ミルナー "wikilink") 2003
+  - [ジェイムズ・ミルナー](../Page/ジェイムズ・ミルナー.md "wikilink") 2003
 
   - [マーク・イェイツ](https://ja.wikipedia.org/wiki/マーク・イェイツ "wikilink") 2004
 
@@ -317,15 +326,15 @@
 
   - [アムール・ブアッザ](../Page/アムール・ブアッザ.md "wikilink") 2005-2006
 
-  - [ポール・インス](https://ja.wikipedia.org/wiki/ポール・インス "wikilink") 2006
+  - [ポール・インス](../Page/ポール・インス.md "wikilink") 2006
 
   - [グスタボ・ポジェ](../Page/グスタボ・ポジェ.md "wikilink") 2006
 
-  - [ベン・ハッチンソン](https://ja.wikipedia.org/wiki/ベン・ハッチンソン "wikilink") 2009-2010
+  - [ベン・ハッチンソン](../Page/ベン・ハッチンソン.md "wikilink") 2009-2010
 
   - [チャーリー・オースティン](https://ja.wikipedia.org/wiki/チャーリー・オースティン "wikilink") 2009-2011
 
-  - [ポール・カディス](https://ja.wikipedia.org/wiki/ポール・カディス "wikilink") 2010-2013
+  - [ポール・カディス](../Page/ポール・カディス.md "wikilink") 2010-2013
 
   - [ジョナサン・オビカ](https://ja.wikipedia.org/wiki/ジョナサン・オビカ "wikilink") 2011, 2014-2017
 

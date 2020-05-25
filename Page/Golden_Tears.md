@@ -1,11 +1,11 @@
 > この記事は[Golden Tears](https://ja.wikipedia.org/wiki/Golden_Tears)から翻訳されています。
 
 
-『**Golden Tears**』（ゴールデン・ティアーズ）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")8枚目のオリジナルアルバム。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。CDコードはWPCL-10220。
+『**Golden Tears**』（ゴールデン・ティアーズ）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")8枚目のオリジナルアルバム。[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。CDコードはWPCL-10220。
 
 ## 概要
 
-デビューから丸10年にあたる日に発売。『[Even So](https://ja.wikipedia.org/wiki/Even_So "wikilink")』からは1年4ヶ月ぶりとなるオリジナルアルバム。[トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")、[バーニング・チキン](https://ja.wikipedia.org/wiki/Burning_Chicken "wikilink")、ホッド・デヴィッドの3組（人）によるプロデュースである（[ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")は全曲トーレ・ヨハンソンが担当）。
+デビューから丸10年にあたる日に発売。『[Even So](../Page/Even_So.md "wikilink")』からは1年4ヶ月ぶりとなるオリジナルアルバム。[トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")、[バーニング・チキン](https://ja.wikipedia.org/wiki/Burning_Chicken "wikilink")、ホッド・デヴィッドの3組（人）によるプロデュースである（[ミキシング](../Page/ミキシング.md "wikilink")は全曲トーレ・ヨハンソンが担当）。
 
 デビュー10年目の最後を飾るアルバムであるが、これまでのアルバム同様、自身の現在進行形をそのまま表現したものとなっている。[BONNIE PINK自身は](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")10周年を意識したのは、アルバムのタイトルのみであるという\[1\]。
 
@@ -46,7 +46,7 @@
       -
         （作詞・作曲：BONNIE PINK　 ）
           -
-            [WOWOW](../Page/WOWOW.md "wikilink")スクランブル枠アニメ『[強殖装甲ガイバー](https://ja.wikipedia.org/wiki/強殖装甲ガイバー "wikilink")』エンディングテーマ
+            [WOWOW](../Page/WOWOW.md "wikilink")スクランブル枠アニメ『[強殖装甲ガイバー](../Page/強殖装甲ガイバー.md "wikilink")』エンディングテーマ
 11. **Nocturne** （3:13）
       -
         （作詞・作曲：BONNIE PINK　 ）
@@ -54,7 +54,7 @@
       -
         （作詞・作曲：BONNIE PINK　 ）
           -
-            [セガトイズ](https://ja.wikipedia.org/wiki/セガトイズ "wikilink")「サウンドキャリア」CMソング
+            [セガトイズ](../Page/セガトイズ.md "wikilink")「サウンドキャリア」CMソング
 13. **Believe** （3:30）
       -
         （作詞・作曲：BONNIE PINK　 ）

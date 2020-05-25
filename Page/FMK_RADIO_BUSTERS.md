@@ -24,7 +24,7 @@
       - 火曜日 : [伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")([Do As Infinity](../Page/Do_As_Infinity.md "wikilink"))
   - 水曜日、木曜日 : [スマイリー原島](../Page/スマイリー原島.md "wikilink")
       - 水曜日 : [冨田浩二](https://ja.wikipedia.org/wiki/冨田浩二 "wikilink")
-      - 木曜日 : [樫山結](https://ja.wikipedia.org/wiki/樫山結 "wikilink")
+      - 木曜日 : [樫山結](../Page/樫山結.md "wikilink")
 
 尚、2013年4月から2019年3月迄、月曜日は[かなぶんや](../Page/かなぶんや.md "wikilink")単独で担当していたが（2017年度以前は火曜日も同様）、2019年4月より全曜日2人態勢となった。
 

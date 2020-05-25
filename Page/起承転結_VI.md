@@ -1,7 +1,7 @@
-> この記事は[ VI](https://ja.wikipedia.org/wiki/_VI)から翻訳されています。
+> この記事は[起承転結 VI](https://ja.wikipedia.org/wiki/起承転結_VI)から翻訳されています。
 
 
-『**起承転結 VI**』（きしょうてんけつ シックス）は、1994年4月にリリースされた[松山千春](../Page/松山千春.md "wikilink")の6枚目のシングル・コレクション（[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")としては8枚目）である。
+『**起承転結 VI**』（きしょうてんけつ シックス）は、1994年4月にリリースされた[松山千春](../Page/松山千春.md "wikilink")の6枚目のシングル・コレクション（[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")としては8枚目）である。
 
 ## 解説
 
@@ -14,9 +14,9 @@
 2.  **Lullaby**(4分41秒)
       - 作詞:松山千春／作曲:松山千春／編曲:大石学
 3.  **男達の唄**(4分28秒)
-      - 作詞:松山千春／作曲:松山千春／編曲:[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+      - 作詞:松山千春／作曲:松山千春／編曲:[瀬尾一三](../Page/瀬尾一三.md "wikilink")
 4.  **[踊り子](https://ja.wikipedia.org/wiki/踊り子 "wikilink")**(4分23秒)
-      - 作詞:[下田逸郎](https://ja.wikipedia.org/wiki/下田逸郎 "wikilink")／作曲:[下田逸郎](https://ja.wikipedia.org/wiki/下田逸郎 "wikilink")／編曲:瀬尾一三
+      - 作詞:[下田逸郎](../Page/下田逸郎.md "wikilink")／作曲:[下田逸郎](../Page/下田逸郎.md "wikilink")／編曲:瀬尾一三
 5.  **燃える涙**(4分06秒)
       - 作詞:松山千春／作曲:松山千春／編曲:[飛澤宏元](https://ja.wikipedia.org/wiki/飛澤宏元 "wikilink")
 6.  **愛の炎**(4分15秒)

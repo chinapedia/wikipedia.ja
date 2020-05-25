@@ -1,11 +1,11 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!ミュージックコネクト](https://ja.wikipedia.org/wiki/S!ミュージックコネクト)から翻訳されています。
 
 
-**S\!ミュージックコネクト**は、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[音楽配信](https://ja.wikipedia.org/wiki/音楽配信 "wikilink")サービス兼携帯電話への音楽ファイル転送サービスである。
+**S\!ミュージックコネクト**は、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[音楽配信](../Page/音楽配信.md "wikilink")サービス兼携帯電話への音楽ファイル転送サービスである。
 
-[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より秋冬モデルと同時に発表された。他社の類似サービスとして、[ドコモは](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[うた・ホーダイ](../Page/うた・ホーダイ.md "wikilink")、[au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）では[LISMO](https://ja.wikipedia.org/wiki/LISMO "wikilink")が提供されている。他社と比べて前者とは半年以上、後者とは1年半以上遅れてサービス開始。
+[2007年](../Page/2007年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より秋冬モデルと同時に発表された。他社の類似サービスとして、[ドコモは](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")[うた・ホーダイ](../Page/うた・ホーダイ.md "wikilink")、[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）では[LISMO](../Page/LISMO.md "wikilink")が提供されている。他社と比べて前者とは半年以上、後者とは1年半以上遅れてサービス開始。
 
-特にサービスとしては、LISMOに近いが、LISMOと異なり携帯電話本体で購入した、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")や、メール・アドレス帳をパソコン上でバックアップする事は出来ない。
+特にサービスとしては、LISMOに近いが、LISMOと異なり携帯電話本体で購入した、[着うたフル](../Page/着うたフル.md "wikilink")や、メール・アドレス帳をパソコン上でバックアップする事は出来ない。
 
 [2009年](../Page/2009年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")をもってソフトウェアのダウンロードサービス終了、[3月31日](../Page/3月31日.md "wikilink")をもってサービス終了。現時点で後継となるサービスはない。
 
@@ -23,28 +23,28 @@
 
 ## 対応機種
 
-### [SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")
+### [SoftBank 3G](../Page/SoftBank_3G.md "wikilink")
 
 #### [シャープ](../Page/シャープ.md "wikilink")製
 
   - [SoftBank 820SH](../Page/SoftBank_820SH.md "wikilink")
-  - [SoftBank 821SH](https://ja.wikipedia.org/wiki/SoftBank_821SH "wikilink")
+  - [SoftBank 821SH](../Page/SoftBank_821SH.md "wikilink")
   - [SoftBank 822SH](https://ja.wikipedia.org/wiki/SoftBank_822SH "wikilink")
   - [SoftBank 823SH](https://ja.wikipedia.org/wiki/SoftBank_823SH "wikilink")
-  - [SoftBank 824SH/824SH Active Line/824SH Elegant Line](https://ja.wikipedia.org/wiki/SoftBank_824SH "wikilink")
+  - [SoftBank 824SH/824SH Active Line/824SH Elegant Line](../Page/SoftBank_824SH.md "wikilink")
   - [SoftBank 825SH](https://ja.wikipedia.org/wiki/SoftBank_825SH "wikilink")
   - [SoftBank 920SH/920SH YK](../Page/SoftBank_920SH.md "wikilink")
-  - [SoftBank 921SH](https://ja.wikipedia.org/wiki/SoftBank_921SH "wikilink")
-  - [SoftBank 922SH](https://ja.wikipedia.org/wiki/SoftBank_922SH "wikilink")
-  - [SoftBank 923SH](https://ja.wikipedia.org/wiki/SoftBank_923SH "wikilink")
+  - [SoftBank 921SH](../Page/SoftBank_921SH.md "wikilink")
+  - [SoftBank 922SH](../Page/SoftBank_922SH.md "wikilink")
+  - [SoftBank 923SH](../Page/SoftBank_923SH.md "wikilink")
   - [SoftBank 930SH](https://ja.wikipedia.org/wiki/SoftBank_930SH "wikilink")
   - [SoftBank 931SH](https://ja.wikipedia.org/wiki/SoftBank_931SH "wikilink")
 
 #### [パナソニック製](https://ja.wikipedia.org/wiki/パナソニックモバイルコミュニケーションズ "wikilink")
 
   - [SoftBank 823P](https://ja.wikipedia.org/wiki/SoftBank_823P "wikilink")
-  - [SoftBank 824P](https://ja.wikipedia.org/wiki/SoftBank_824P "wikilink")
-  - [SoftBank 920P](https://ja.wikipedia.org/wiki/SoftBank_920P "wikilink")
+  - [SoftBank 824P](../Page/SoftBank_824P.md "wikilink")
+  - [SoftBank 920P](../Page/SoftBank_920P.md "wikilink")
   - [SoftBank 921P](https://ja.wikipedia.org/wiki/SoftBank_921P "wikilink")
   - [SoftBank 930P](https://ja.wikipedia.org/wiki/SoftBank_930P "wikilink")
 
@@ -54,19 +54,19 @@
 
 ### [SoftBank X シリーズ](https://ja.wikipedia.org/wiki/SoftBank_X_シリーズ "wikilink")
 
-#### [HTC製](https://ja.wikipedia.org/wiki/HTC_\(企業\) "wikilink")
+#### [HTC製](../Page/HTC_\(企業\).md "wikilink")
 
-  - [SoftBank X01HT](https://ja.wikipedia.org/wiki/SoftBank_X01HT "wikilink")
+  - [SoftBank X01HT](../Page/SoftBank_X01HT.md "wikilink")
   - [SoftBank X02HT](../Page/SoftBank_X02HT.md "wikilink")
   - [SoftBank X03HT](https://ja.wikipedia.org/wiki/SoftBank_X03HT "wikilink")
 
-#### [東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")製
+#### [東芝](../Page/東芝.md "wikilink")製
 
   - [SoftBank X01T](../Page/SoftBank_X01T.md "wikilink")
 
-#### [ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")製
+#### [ノキア](../Page/ノキア.md "wikilink")製
 
-  - [SoftBank X02NK](https://ja.wikipedia.org/wiki/SoftBank_X02NK "wikilink")
+  - [SoftBank X02NK](../Page/SoftBank_X02NK.md "wikilink")
 
 ## 外部リンク
 

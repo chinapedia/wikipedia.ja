@@ -1,9 +1,9 @@
 > この記事は[Thunar](https://ja.wikipedia.org/wiki/Thunar)から翻訳されています。
 
 
-**Thunar**（ソナー）は[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")その他の[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")システム用の[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")であり、[GTK+ 2ツールキットを用いており](https://ja.wikipedia.org/wiki/GTK+ "wikilink")、[Xfce](https://ja.wikipedia.org/wiki/Xfce "wikilink") version 4.4 RC1 以降に同梱されている。Thunar は Benedikt Meurer によって開発されており、もともとは Xfce のファイルマネージャであった XFFM を置き換えることを目的としていた。Thunar は当初は Filer と呼ばれていた。しかし名称の重なりを避けるために Thunar に改名された。
+**Thunar**（ソナー）は[Linux](../Page/Linux.md "wikilink")その他の[Unix系](../Page/Unix系.md "wikilink")システム用の[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")であり、[GTK+ 2ツールキットを用いており](https://ja.wikipedia.org/wiki/GTK+ "wikilink")、[Xfce](../Page/Xfce.md "wikilink") version 4.4 RC1 以降に同梱されている。Thunar は Benedikt Meurer によって開発されており、もともとは Xfce のファイルマネージャであった XFFM を置き換えることを目的としていた。Thunar は当初は Filer と呼ばれていた。しかし名称の重なりを避けるために Thunar に改名された。
 
-Thunar プロジェクトの主な目標は、軽快でクリーンで使い易いファイルマネージャを作ることである。[ファイル (GNOME)](https://ja.wikipedia.org/wiki/ファイル_\(GNOME\) "wikilink") や [Konqueror](../Page/Konqueror.md "wikilink") など他のいくつかの Linux ファイルマネージャよりも素早く起動し反応が良いように設計されている\[1\]。アクセシビリティは、プロジェクトのもうひとつの目標であり、（例えば[GNOME Accessibility Toolkitなどの](https://ja.wikipedia.org/wiki/Accessibility_Toolkit "wikilink")）ユーザ支援技術を使って達成されている。Xfce の他の部分同様、Thunar は [freedesktop.org](https://ja.wikipedia.org/wiki/freedesktop.org "wikilink") などで示されている標準に基づくように設計されている\[2\]。Thunar の設計はシンプルで軽量だとはいえ、その機能はプラグインによって拡張することができる。
+Thunar プロジェクトの主な目標は、軽快でクリーンで使い易いファイルマネージャを作ることである。[ファイル (GNOME)](../Page/ファイル_\(GNOME\).md "wikilink") や [Konqueror](../Page/Konqueror.md "wikilink") など他のいくつかの Linux ファイルマネージャよりも素早く起動し反応が良いように設計されている\[1\]。アクセシビリティは、プロジェクトのもうひとつの目標であり、（例えば[GNOME Accessibility Toolkitなどの](https://ja.wikipedia.org/wiki/Accessibility_Toolkit "wikilink")）ユーザ支援技術を使って達成されている。Xfce の他の部分同様、Thunar は [freedesktop.org](https://ja.wikipedia.org/wiki/freedesktop.org "wikilink") などで示されている標準に基づくように設計されている\[2\]。Thunar の設計はシンプルで軽量だとはいえ、その機能はプラグインによって拡張することができる。
 
 Thunar は[北欧神話](../Page/北欧神話.md "wikilink")の雷神[トール](../Page/トール.md "wikilink")（Thor）に因んで名付けられた。
 

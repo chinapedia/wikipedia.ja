@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダゲナム・アンド・レッドブリッジFC](https://ja.wikipedia.org/wiki/ダゲナム・アンド・レッドブリッジFC)から翻訳されています。
 
 
 **ダゲナム・アンド・レッドブリッジ・フットボール・クラブ**（**Dagenham & Redbridge Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[ロンドン](../Page/ロンドン.md "wikilink")・[バーキング＆ダゲナムと](https://ja.wikipedia.org/wiki/バーキング・アンド・ダゲナム・ロンドン特別区 "wikilink")[レッドブリッジを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/レッドブリッジ・ロンドン特別区 "wikilink")。2016-2017シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
@@ -46,7 +46,7 @@
 
   - [デイビッド・バットン](https://ja.wikipedia.org/wiki/デイビッド・バットン "wikilink") 2009
 
-  - [フィリップ・アイフィル](https://ja.wikipedia.org/wiki/フィリップ・アイフィル "wikilink") 2010-2011
+  - [フィリップ・アイフィル](../Page/フィリップ・アイフィル.md "wikilink") 2010-2011
 
   - [キャメロン・ランカスター](https://ja.wikipedia.org/wiki/キャメロン・ランカスター "wikilink") 2011
 

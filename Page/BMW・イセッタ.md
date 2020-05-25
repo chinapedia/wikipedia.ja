@@ -1,9 +1,9 @@
-> この記事は[BMW](https://ja.wikipedia.org/wiki/BMW)から翻訳されています。
+> この記事は[BMW・イセッタ](https://ja.wikipedia.org/wiki/BMW・イセッタ)から翻訳されています。
 
 
 [BMW-Isetta_2009.jpg](https://ja.wikipedia.org/wiki/File:BMW-Isetta_2009.jpg "fig:BMW-Isetta_2009.jpg")
 
-**BMW・イセッタ**（BMW Isetta）とは、イタリアの[イソ社の](../Page/イソ_\(自動車\).md "wikilink")[イソ・イセッタ](https://ja.wikipedia.org/wiki/イソ・イセッタ "wikilink")を、ドイツの[BMW](../Page/BMW.md "wikilink")社が[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")した車。生産台数としては本家よりもこちらのほうが多いため、ライセンス生産であることが認識されていないことも多いほどである。
+**BMW・イセッタ**（BMW Isetta）とは、イタリアの[イソ社の](../Page/イソ_\(自動車\).md "wikilink")[イソ・イセッタ](https://ja.wikipedia.org/wiki/イソ・イセッタ "wikilink")を、ドイツの[BMW](../Page/BMW.md "wikilink")社が[ライセンス生産](../Page/ライセンス生産.md "wikilink")した車。生産台数としては本家よりもこちらのほうが多いため、ライセンス生産であることが認識されていないことも多いほどである。
 
 ## 概要
 

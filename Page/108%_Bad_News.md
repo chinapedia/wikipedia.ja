@@ -1,7 +1,7 @@
 > この記事は[108% Bad News](https://ja.wikipedia.org/wiki/108%_Bad_News)から翻訳されています。
 
 
-『**108% Bad News**』（ひゃくはちパーセント バッド ニュース）は、[くるり](../Page/くるり.md "wikilink")、[空気公団](https://ja.wikipedia.org/wiki/空気公団 "wikilink")、[Natural Punch Drunkerを始めとするインディーズ](https://ja.wikipedia.org/wiki/Natural_Punch_Drunker "wikilink")・レーベル、[バッドニュース](https://ja.wikipedia.org/wiki/バッドニュース "wikilink")所属のアーティストによる[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")にバッドニュースより発売。
+『**108% Bad News**』（ひゃくはちパーセント バッド ニュース）は、[くるり](../Page/くるり.md "wikilink")、[空気公団](../Page/空気公団.md "wikilink")、[Natural Punch Drunkerを始めとするインディーズ](../Page/Natural_Punch_Drunker.md "wikilink")・レーベル、[バッドニュース](https://ja.wikipedia.org/wiki/バッドニュース "wikilink")所属のアーティストによる[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")。[2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")にバッドニュースより発売。
 
 ## 解説
 
@@ -27,17 +27,17 @@
     『BEIJING TO BOSTON〜米中首脳会談』収録
 4.  <span style="color:orange;">**Early Dayz Amazement** / **[ShinSight Trio](https://ja.wikipedia.org/wiki/シンサイト・トリオ "wikilink")**</span> （作詞:Todman Andre E 作曲:Taoka Shinsuke）
     『Shallow Nights Blurry Moon』収録
-5.  **QUIET STORM** / **[TWIGY](https://ja.wikipedia.org/wiki/TWIGY "wikilink") featuring Little KANA** （作詞:TWIGY,Little KANA 作曲:DJ YAS）
+5.  **QUIET STORM** / **[TWIGY](../Page/TWIGY.md "wikilink") featuring Little KANA** （作詞:TWIGY,Little KANA 作曲:DJ YAS）
     V.A.『続・悪名』収録
 6.  **My Dear Soul Sister** / **[チエコ・ビューティ](https://ja.wikipedia.org/wiki/チエコ・ビューティ "wikilink")** （作詞・作曲:チエコ・ビューティ）
     『Sweeter』収録
 7.  **トリップ** / **[KAO](https://ja.wikipedia.org/wiki/KAO_\(シンガーソングライター\) "wikilink")** （作詞・作曲:KAO）
     『a jewel box』収録
-8.  **風に乗った言葉** / **[空気公団](https://ja.wikipedia.org/wiki/空気公団 "wikilink")** （作詞・作曲:山崎ゆかり）
+8.  **風に乗った言葉** / **[空気公団](../Page/空気公団.md "wikilink")** （作詞・作曲:山崎ゆかり）
     『あざやか』収録
 9.  **Mr.グリーン** / **[Boat](../Page/BOAT.md "wikilink")** （作詞:陳淑賢 作曲:阿瀬研一）
     『フルーツ・リー』収録
-10. **ポートレイト** / **[Natural Punch Drunker](https://ja.wikipedia.org/wiki/Natural_Punch_Drunker "wikilink")** （作詞・作曲:井村洋）
+10. **ポートレイト** / **[Natural Punch Drunker](../Page/Natural_Punch_Drunker.md "wikilink")** （作詞・作曲:井村洋）
     『hereafter』収録
 11. **決意はあるのか?** / **[テルスター](https://ja.wikipedia.org/wiki/テルスター_\(バンド\) "wikilink")** （作詞・作曲:横山マサアキ）
     『ある決意』収録
@@ -61,9 +61,9 @@
     『COLOUR』収録
 21. **獣欲ウルトラ** / **[宙ブラリ](https://ja.wikipedia.org/wiki/宙ブラリ "wikilink")**
     『獣欲ウルトラ』収録
-22. **ライダー** / **[HICKSVILLE](https://ja.wikipedia.org/wiki/ヒックスヴィル "wikilink")** （作曲:Terry Sonny）
+22. **ライダー** / **[HICKSVILLE](../Page/ヒックスヴィル.md "wikilink")** （作曲:Terry Sonny）
     『ライダー』収録
-23. **ORANGE SEXIMO** / **[MONGHANG](https://ja.wikipedia.org/wiki/MONGHANG "wikilink")** （作詞:BA 作曲:Keitaimo Wuja Bin Bin,Yohei Bohemian）
+23. **ORANGE SEXIMO** / **[MONGHANG](../Page/MONGHANG.md "wikilink")** （作詞:BA 作曲:Keitaimo Wuja Bin Bin,Yohei Bohemian）
     『MONG HANG』収録
 24. **passy** / **[ORANGE CUBE](https://ja.wikipedia.org/wiki/ORANGE_CUBE "wikilink")** （作詞:三澤香織 作曲:岡野友彦）
     『スノウフォール』収録
@@ -97,7 +97,7 @@
     『「日々」』収録
 39. <span style="color:orange;">**THE ANSWER WAS RIGHT IN FRONT OF ME** / **Solea**</span> （作詞:Klahn Garrett T 作曲:Loobkoff Sergie B）
     『FINALLY WE ARE NOWHERE』収録
-40. **もうひとつの世界** / **[RINO](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink")** （作詞:RINO 作曲:YAS）
+40. **もうひとつの世界** / **[RINO](../Page/RINO_LATINA_II.md "wikilink")** （作詞:RINO 作曲:YAS）
     V.A.『悪名』収録
 41. **GUINESS BOOK OF RECORD** / **[ベロテクス](https://ja.wikipedia.org/wiki/ベロテクス "wikilink")** （作詞:木村香 作曲:木村香,千葉恵,木村雅大）
     『サニーズ・ギネス』収録
@@ -105,7 +105,7 @@
     『おくりもの』収録
 43. **SMILE** / **[Rivet](https://ja.wikipedia.org/wiki/Rivet "wikilink")** （作詞・作曲:鈴木博之）
     『Greatest Time』収録
-44. **蒼く歪む街** / **[惑星](https://ja.wikipedia.org/wiki/惑星_\(バンド\) "wikilink")** （作詞:岸田研二 作曲:岸田研二,清水義将）
+44. **蒼く歪む街** / **[惑星](../Page/惑星_\(バンド\).md "wikilink")** （作詞:岸田研二 作曲:岸田研二,清水義将）
     『アコースティック』収録
 45. **Your Choice Way Is・・・** / **GOOFY'S HOLIDAY** （作詞・作曲:遠藤貴志,安井佳次,石田玄一郎）
     『Maybe Tomorrow...』収録
@@ -181,7 +181,7 @@
     『弓になって』収録
 81. **LIE** / **[ロリモップ](https://ja.wikipedia.org/wiki/ロリモップ "wikilink")**
     『GAPPER/ATTACK/RIDER』収録
-82. **俺の言い分** / **[G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN "wikilink") featuring [UZI](https://ja.wikipedia.org/wiki/UZI "wikilink")** （作詞:G.K.MARYAN,UZI 作曲:KEN-BO）
+82. **俺の言い分** / **[G.K.MARYAN](../Page/G.K.MARYAN.md "wikilink") featuring [UZI](https://ja.wikipedia.org/wiki/UZI "wikilink")** （作詞:G.K.MARYAN,UZI 作曲:KEN-BO）
     V.A.『続・悪名』収録
 83. **MY SWINGING STYLE** / **EASY GRIP** （作詞・作曲:増田和也）
     『MY SWINGING STYLE』収録
@@ -233,7 +233,7 @@
      『あざやか』収録
 107. **そのまま進むのだ** / **テルスター** （作詞・作曲:横山マサアキ）
      『心ふるわせたこと』収録
-108. **新聞詠み河内音頭「ピース・フェスティバル打ち上げ音頭」** / **[河内家菊水丸](https://ja.wikipedia.org/wiki/河内家菊水丸 "wikilink")** （作詞・作曲:河内家菊水丸）
+108. **新聞詠み河内音頭「ピース・フェスティバル打ち上げ音頭」** / **[河内家菊水丸](../Page/河内家菊水丸.md "wikilink")** （作詞・作曲:河内家菊水丸）
      『バッドニュース　アントニオ猪木一代記』収録
      ライブ音源での収録。MCも入っている。
 

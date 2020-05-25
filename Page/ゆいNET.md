@@ -1,13 +1,13 @@
-> この記事は[NET](https://ja.wikipedia.org/wiki/NET)から翻訳されています。
+> この記事は[ゆいNET](https://ja.wikipedia.org/wiki/ゆいNET)から翻訳されています。
 
 
 **ゆいNET**とは、かつて存在した[パソコン通信](../Page/パソコン通信.md "wikilink")の[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")。
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")仮開局。[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")正式開局。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")初頭閉局。
+[1991年](../Page/1991年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")仮開局。[1991年](../Page/1991年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")正式開局。[2005年](../Page/2005年.md "wikilink")初頭閉局。
 
 ## 概要
 
-[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")に所在した草の根BBS局であり、その規模は草の根BBSとして大きなものであった。 鎌倉ゆいNETとも呼ばれる。ゆいの由来は、鎌倉にある[由比ヶ浜](https://ja.wikipedia.org/wiki/由比ヶ浜 "wikilink")(ゆいがはま)であると言われている。
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")に所在した草の根BBS局であり、その規模は草の根BBSとして大きなものであった。 鎌倉ゆいNETとも呼ばれる。ゆいの由来は、鎌倉にある[由比ヶ浜](../Page/由比ヶ浜.md "wikilink")(ゆいがはま)であると言われている。
 
 ホストプログラムは[KT-BBS](https://ja.wikipedia.org/wiki/KT-BBS "wikilink")を改造したもので、最盛時は回線数20回線であった。会員は2万人超が在籍した。
 
@@ -29,7 +29,7 @@
 
 ## 閉局
 
-[2003年](../Page/2003年.md "wikilink")頃、ホストの[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")がクラッシュしバックアップのデータによって運営が再開されたが、2005年初頭ホストPCの永眠により閉局した。 この頃には[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")への移行が進んでおり、アクセス数は1日100件を切る程まで減少していた。
+[2003年](../Page/2003年.md "wikilink")頃、ホストの[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")がクラッシュしバックアップのデータによって運営が再開されたが、2005年初頭ホストPCの永眠により閉局した。 この頃には[インターネット](../Page/インターネット.md "wikilink")への移行が進んでおり、アクセス数は1日100件を切る程まで減少していた。
 
 ## 外部リンク
 

@@ -1,4 +1,4 @@
-> この記事は[BK](https://ja.wikipedia.org/wiki/BK)から翻訳されています。
+> この記事は[リンビーBK](https://ja.wikipedia.org/wiki/リンビーBK)から翻訳されています。
 
 
 **リンビー・ボルドクラブ**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の東部、[デンマーク首都地域](https://ja.wikipedia.org/wiki/デンマーク首都地域 "wikilink")の都市[リンビーに本拠を置く](https://ja.wikipedia.org/wiki/コンゲンス・リンビー "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2018-19シーズンは[デンマーク・ファーストディビジョン](https://ja.wikipedia.org/wiki/デンマーク・ファーストディビジョン "wikilink")（2部）に所属。
@@ -75,7 +75,7 @@
 <td><p>1982-83</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1982-83" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IKブラゲ" title="wikilink">ブラゲ</a></p></td>
+<td><p><a href="../Page/IKブラゲ.md" title="wikilink">ブラゲ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>2-2</p></td>
 <td><p>'''3-4</p></td>
@@ -93,7 +93,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ACスパルタ・プラハ" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-2</p></td>
 <td><p>'''1-2</p></td>
@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''3-5</p></td>
@@ -125,7 +125,7 @@
 <td><p>1986-87</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1986-87" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヌーシャテル・ザマックス" title="wikilink">ヌーシャテル・ザマックス</a></p></td>
+<td><p><a href="../Page/ヌーシャテル・ザマックス.md" title="wikilink">ヌーシャテル・ザマックス</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-5</p></td>
@@ -145,7 +145,7 @@
 <td><p>1992-93</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1992-93" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>0-2</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-3</p></td>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-2</p></td>
 <td><p>'''1-3</p></td>
@@ -183,7 +183,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCロコモティフ・モスクワ" title="wikilink">ロコモティフ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>0-3</p></td>
 <td><p>'''1-5</p></td>
@@ -256,7 +256,7 @@
 
 ## 歴代所属選手
 
-  - [クラウス・ベアグリーン](https://ja.wikipedia.org/wiki/クラウス・ベアグリーン "wikilink") 1975-1982, 1989-1990
+  - [クラウス・ベアグリーン](../Page/クラウス・ベアグリーン.md "wikilink") 1975-1982, 1989-1990
 
   - [ヘンリク・ラルセン](https://ja.wikipedia.org/wiki/ヘンリク・ラルセン "wikilink") 1985-1990, 1994-1996
 
@@ -266,7 +266,7 @@
 
   - [クラウス・イェンセン](https://ja.wikipedia.org/wiki/クラウス・イェンセン "wikilink") 1996-1998
 
-  - [マルクス・アルベック](https://ja.wikipedia.org/wiki/マルクス・アルベック "wikilink") 1997
+  - [マルクス・アルベック](../Page/マルクス・アルベック.md "wikilink") 1997
 
 ## 外部リンク
 

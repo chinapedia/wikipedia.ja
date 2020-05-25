@@ -682,7 +682,7 @@ JNN28局同時ネット番組については省略。
       - 宮川賢のニュース穿ち節（2006年4月3日-9月25日　月曜18:30-19:00）
       - 宮川賢のまつぼっくり小国（2006年10月8日-2009年3月29日　日曜17:30-18:00）※2009年4月以降[宮川賢のまつぼっくり王国](https://ja.wikipedia.org/wiki/宮川賢のまつぼっくり王国 "wikilink")に改題
   - みやぎで生きる〜医療復興物語（2013年1月11日-6月28日、金曜16:40〜16:50）
-  - [森田雄三](https://ja.wikipedia.org/wiki/森田雄三 "wikilink")のオウム返し（2008年4月5日-2010年4月3日、土曜深夜3:00〜3:30）
+  - [森田雄三](../Page/森田雄三.md "wikilink")のオウム返し（2008年4月5日-2010年4月3日、土曜深夜3:00〜3:30）
   - Monkey Music～no theory all music（月曜20:00-21:00。出演：[Monkey Majik](https://ja.wikipedia.org/wiki/Monkey_Majik "wikilink")）
   - MUSIC TIME MACHINE（2006年10月8日開始、土曜19:00〜19:30）
   - [Music☆Twinkle](https://ja.wikipedia.org/wiki/Music☆Twinkle "wikilink")第2部（2008年4月5日開始、土曜18:00〜19:00【ナイター中継のないときのみ】、2009年ナイターオフは放送無し）

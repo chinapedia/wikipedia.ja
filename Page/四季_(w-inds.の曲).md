@@ -1,4 +1,4 @@
-> この記事は[ \(w-inds.\)](https://ja.wikipedia.org/wiki/_\(w-inds.\))から翻訳されています。
+> この記事は[四季 \(w-inds.の曲\)](https://ja.wikipedia.org/wiki/四季_\(w-inds.の曲\))から翻訳されています。
 
 
 「**四季**」（しき）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に[FLIGHT MASTERから発売された](../Page/ポニーキャニオン.md "wikilink")。

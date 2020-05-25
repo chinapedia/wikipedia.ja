@@ -254,7 +254,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年のF1世界選手権" title="wikilink">1990年</a></p></td>
 <td><p><a href="../Page/1990年アメリカグランプリ.md" title="wikilink">USA</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年ブラジルグランプリ" title="wikilink">BRA</a><br />
+<td><p><a href="../Page/1990年ブラジルグランプリ.md" title="wikilink">BRA</a><br />
 </p></td>
 <td></td>
 <td></td>
@@ -279,24 +279,24 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 <td><p><a href="https://ja.wikipedia.org/wiki/オニクス・ORE2" title="wikilink">ORE2</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年サンマリノグランプリ" title="wikilink">SMR</a><br />
+<td><p><a href="../Page/1990年サンマリノグランプリ.md" title="wikilink">SMR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年モナコグランプリ" title="wikilink">MON</a><br />
+<td><p><a href="../Page/1990年モナコグランプリ.md" title="wikilink">MON</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年カナダグランプリ" title="wikilink">CAN</a><br />
+<td><p><a href="../Page/1990年カナダグランプリ.md" title="wikilink">CAN</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年メキシコグランプリ" title="wikilink">MEX</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年フランスグランプリ" title="wikilink">FRA</a><br />
+<td><p><a href="../Page/1990年フランスグランプリ.md" title="wikilink">FRA</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年イギリスグランプリ" title="wikilink">GBR</a><br />
+<td><p><a href="../Page/1990年イギリスグランプリ.md" title="wikilink">GBR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年ドイツグランプリ" title="wikilink">GER</a><br />
+<td><p><a href="../Page/1990年ドイツグランプリ.md" title="wikilink">GER</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年ハンガリーグランプリ" title="wikilink">HUN</a><br />
+<td><p><a href="../Page/1990年ハンガリーグランプリ.md" title="wikilink">HUN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年ベルギーグランプリ" title="wikilink">BEL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年イタリアグランプリ" title="wikilink">ITA</a></p></td>
+<td><p><a href="../Page/1990年ベルギーグランプリ.md" title="wikilink">BEL</a></p></td>
+<td><p><a href="../Page/1990年イタリアグランプリ.md" title="wikilink">ITA</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年ポルトガルグランプリ" title="wikilink">POR</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年スペイングランプリ" title="wikilink">ESP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年日本グランプリ_(4輪)" title="wikilink">JPN</a></p></td>

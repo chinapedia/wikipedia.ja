@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCハコア・ウィーン](https://ja.wikipedia.org/wiki/SCハコア・ウィーン)から翻訳されています。
 
 
 **スポーツクラブ・ハコア・ウィーン**（, ）は、[オーストリア](../Page/オーストリア.md "wikilink")・[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")のユダヤ人[スポーツクラブ](../Page/クラブチーム.md "wikilink")。20世紀初頭のウィーンで最大のスポーツクラブであり、1920年代にサッカー部門が大きな成功をおさめた。
@@ -9,21 +9,21 @@
 
 ハコア・ウィーンは国際的な市場に乗り出した最初のサッカークラブの一つだった。しばしば外国の都市に巡業ツアーを行ない、地元クラブとの試合に何千人もの現地のユダヤ人ファンを集めた。[1923年](../Page/1923年.md "wikilink")のロンドン遠征の際には[ウェストハム・ユナイテッド](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッド "wikilink")を5-1で破った。ウェストハムはリザーブチーム主体ではあったが、ハコアはイングランドでイングランドのクラブを破った最初の大陸クラブになった。
 
-1924-25シーズンの劇的な試合で、ハコアの[ハンガリー](../Page/ハンガリー.md "wikilink")出身[GKアレクサンデル](https://ja.wikipedia.org/wiki/ゴールキーパー_\(サッカー\) "wikilink")・ファビアンは試合中に腕を骨折した。当時のルールが選手の途中交代を認めていなかったため、ファビアンは腕を三角巾で包んでFWの選手とポジションを入れ替わった。その7分後にファビアンは決勝点を挙げ、ハコアは[オーストリアリーグ優勝を決めた](https://ja.wikipedia.org/wiki/サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")。
+1924-25シーズンの劇的な試合で、ハコアの[ハンガリー](../Page/ハンガリー.md "wikilink")出身[GKアレクサンデル](../Page/ゴールキーパー_\(サッカー\).md "wikilink")・ファビアンは試合中に腕を骨折した。当時のルールが選手の途中交代を認めていなかったため、ファビアンは腕を三角巾で包んでFWの選手とポジションを入れ替わった。その7分後にファビアンは決勝点を挙げ、ハコアは[オーストリアリーグ優勝を決めた](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")。
 
-[1926年](../Page/1926年.md "wikilink")には[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")遠征を行い成功を収めた。[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")の[ポロ・グラウンズ](https://ja.wikipedia.org/wiki/ポロ・グラウンズ "wikilink")で行われた試合には、当時の新記録となる46,000人の観衆が集まった。多くの選手が[反ユダヤ感情の少なさに好印象を抱き](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")、アメリカのクラブからのオファーを受け入れて同国に留まった。その内の何人かの選手は[1929年](../Page/1929年.md "wikilink")の[USオープンカップ](https://ja.wikipedia.org/wiki/USオープンカップ "wikilink")に優勝する[ニューヨーク・ハコア](https://ja.wikipedia.org/wiki/ニューヨーク・ハコア "wikilink")というクラブを作った。数人の選手は[パレスチナ](../Page/パレスチナ.md "wikilink")へと移り住み、そこでハコア・テルアビブFC（現在の[ハコア・マッカビ・アミダル・ラマトガンFC](https://ja.wikipedia.org/wiki/ハコア・マッカビ・アミダル・ラマトガンFC "wikilink")）を創設した。多くの優秀な選手たちが流出したことで競争力は低下して、ハコアの最盛期は終わった。
+[1926年](../Page/1926年.md "wikilink")には[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")遠征を行い成功を収めた。[ニューヨーク市](https://ja.wikipedia.org/wiki/ニューヨーク市 "wikilink")の[ポロ・グラウンズ](../Page/ポロ・グラウンズ.md "wikilink")で行われた試合には、当時の新記録となる46,000人の観衆が集まった。多くの選手が[反ユダヤ感情の少なさに好印象を抱き](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")、アメリカのクラブからのオファーを受け入れて同国に留まった。その内の何人かの選手は[1929年](../Page/1929年.md "wikilink")の[USオープンカップ](../Page/USオープンカップ.md "wikilink")に優勝する[ニューヨーク・ハコア](https://ja.wikipedia.org/wiki/ニューヨーク・ハコア "wikilink")というクラブを作った。数人の選手は[パレスチナ](../Page/パレスチナ.md "wikilink")へと移り住み、そこでハコア・テルアビブFC（現在の[ハコア・マッカビ・アミダル・ラマトガンFC](https://ja.wikipedia.org/wiki/ハコア・マッカビ・アミダル・ラマトガンFC "wikilink")）を創設した。多くの優秀な選手たちが流出したことで競争力は低下して、ハコアの最盛期は終わった。
 
-クラブはサッカーピッチの外においても、[レスリング](https://ja.wikipedia.org/wiki/アマチュアレスリング "wikilink")、[フェンシング](../Page/フェンシング.md "wikilink")、[水球](../Page/水球.md "wikilink")、[水泳](../Page/水泳.md "wikilink")の各部門でかなり成功していた。ドキュメンタリー映画『*Watermarks*』（2004年）は1930年代のハコア女子水泳チームを主題としたものである。
+クラブはサッカーピッチの外においても、[レスリング](../Page/アマチュアレスリング.md "wikilink")、[フェンシング](../Page/フェンシング.md "wikilink")、[水球](../Page/水球.md "wikilink")、[水泳](../Page/水泳.md "wikilink")の各部門でかなり成功していた。ドキュメンタリー映画『*Watermarks*』（2004年）は1930年代のハコア女子水泳チームを主題としたものである。
 
-[1938年](../Page/1938年.md "wikilink")の[アンシュルス](https://ja.wikipedia.org/wiki/アンシュルス "wikilink")（オーストリア併合）の後、[ドイツサッカー協会](https://ja.wikipedia.org/wiki/ドイツサッカー協会 "wikilink")(DFB)はクラブの活動を禁止して、シーズン中だったリーグ戦の対戦結果を無効化した。スタジアムは[ナチ党](https://ja.wikipedia.org/wiki/ナチ党 "wikilink")に引き渡された。クラブは[1945年](../Page/1945年.md "wikilink")に再建された。サッカークラブは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後は2部リーグに参加していたが、[1949年](../Page/1949年.md "wikilink")に活動を止めた。
+[1938年](../Page/1938年.md "wikilink")の[アンシュルス](../Page/アンシュルス.md "wikilink")（オーストリア併合）の後、[ドイツサッカー協会](https://ja.wikipedia.org/wiki/ドイツサッカー協会 "wikilink")(DFB)はクラブの活動を禁止して、シーズン中だったリーグ戦の対戦結果を無効化した。スタジアムは[ナチ党](https://ja.wikipedia.org/wiki/ナチ党 "wikilink")に引き渡された。クラブは[1945年](../Page/1945年.md "wikilink")に再建された。サッカークラブは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後は2部リーグに参加していたが、[1949年](../Page/1949年.md "wikilink")に活動を止めた。
 
-[2000年](../Page/2000年.md "wikilink")、ウィーンのユダヤ人コミュニティは、新たなコミュニティセンターを設立する目的で[プラーター公園](../Page/プラーター公園.md "wikilink")の中にある、かつてのハコア・ウィーンのフィールドを1000万[ユーロ](../Page/ユーロ.md "wikilink")で購入した。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")現在、クラブには約400人の会員がいる。サッカークラブは**SCマッカビ・ウィーン** (*SC Maccabi Wien*) という名前でオーストリアの下部リーグにて活動している\[1\]。
+[2000年](../Page/2000年.md "wikilink")、ウィーンのユダヤ人コミュニティは、新たなコミュニティセンターを設立する目的で[プラーター公園](../Page/プラーター公園.md "wikilink")の中にある、かつてのハコア・ウィーンのフィールドを1000万[ユーロ](../Page/ユーロ.md "wikilink")で購入した。[2006年](../Page/2006年.md "wikilink")現在、クラブには約400人の会員がいる。サッカークラブは**SCマッカビ・ウィーン** (*SC Maccabi Wien*) という名前でオーストリアの下部リーグにて活動している\[1\]。
 
 ## サッカー
 
 ### タイトル
 
-  - **[ブンデスリーガ](https://ja.wikipedia.org/wiki/サッカー・ブンデスリーガ_\(オーストリア\) "wikilink")：1回**
+  - **[ブンデスリーガ](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")：1回**
       - 1924-25
 
 ### 所属選手
@@ -38,7 +38,7 @@
 
   - Foer, Franklin, *How Soccer Explains the World: An Unlikely Theory of Globalization*, New York: Harper Collins, 2004 (ISBN 0-06-621234-0)
   - ["Hakoah-Vienna"](http://www.jewishsports.net/BioPages/Hakoah-Vienna.htm) in the International Jewish Sports Hall of Fame
-  - [Encyclopaedia Judaica](https://ja.wikipedia.org/wiki/エンサイクロペディア・ジュダイカ "wikilink")
+  - [Encyclopaedia Judaica](../Page/エンサイクロペディア・ジュダイカ.md "wikilink")
 
 <references/>
 

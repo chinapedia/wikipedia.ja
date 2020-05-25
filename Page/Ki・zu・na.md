@@ -1,4 +1,4 @@
-> この記事は[Kizuna](https://ja.wikipedia.org/wiki/Kizuna)から翻訳されています。
+> この記事は[Ki・zu・na](https://ja.wikipedia.org/wiki/Ki・zu・na)から翻訳されています。
 
 
 「**ki・zu・na**」（キズナ）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -9,7 +9,7 @@
 
 ジャケット写真はメンバーの[MATSUがプロデュースした](https://ja.wikipedia.org/wiki/松本利夫 "wikilink")。
 
-2005年に[韓国のアイドルグループ](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[SUPER JUNIORが](https://ja.wikipedia.org/wiki/スーパージュニア "wikilink")「Keep in touch」というタイトルで韓国語カバーした（アルバム『[Super Junior05](https://ja.wikipedia.org/wiki/Super_Junior05 "wikilink")』に収録）。
+2005年に[韓国のアイドルグループ](../Page/大韓民国.md "wikilink")[SUPER JUNIORが](../Page/スーパージュニア.md "wikilink")「Keep in touch」というタイトルで韓国語カバーした（アルバム『[Super Junior05](https://ja.wikipedia.org/wiki/Super_Junior05 "wikilink")』に収録）。
 
 ## 収録曲
 

@@ -1,4 +1,4 @@
-> この記事は[ \(ET-KING\)](https://ja.wikipedia.org/wiki/_\(ET-KING\))から翻訳されています。
+> この記事は[ギフト \(ET-KINGの曲\)](https://ja.wikipedia.org/wiki/ギフト_\(ET-KINGの曲\))から翻訳されています。
 
 
 「**ギフト**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[J-POP](../Page/J-POP.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")、[ET-KING](../Page/ET-KING.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")である。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

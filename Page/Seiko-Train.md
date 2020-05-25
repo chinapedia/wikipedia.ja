@@ -1,16 +1,16 @@
 > この記事は[Seiko-Train](https://ja.wikipedia.org/wiki/Seiko-Train)から翻訳されています。
 
 
-『**Seiko-Train**』（セイコ・トレイン）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。1985年3月6日発売。発売元は[CBS・ソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）。
+『**Seiko-Train**』（セイコ・トレイン）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。1985年3月6日発売。発売元は[CBS・ソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）。
 
 ## 解説
 
   - 帯コピー:**春色の汽車に乗って、いま海辺の線路をあなたの街へ、聖子**
-  - 呉田軽穂こと[松任谷由実](../Page/松任谷由実.md "wikilink")から提供（曲のみ）を受けた全12曲のオリジナル楽曲から選曲された、[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。
+  - 呉田軽穂こと[松任谷由実](../Page/松任谷由実.md "wikilink")から提供（曲のみ）を受けた全12曲のオリジナル楽曲から選曲された、[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
   - [LPと](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")[CDの](../Page/コンパクトディスク.md "wikilink")2形態がリリースされているが、それぞれ曲順、収録曲が異なっている。CD盤が基本的に発売年ごとにまとまっているのに対し、LP盤はアトランダムである（下記「関連項目」参照を参照されたい）。
   - なお、LP盤では「レモネードの夏」と「マドラス・チェックの恋人」が、CD盤では「レモネードの夏」と「秘密の花園」がそれぞれ未収録である。
-  - 歌手デビュー20周年記念CD BOX『[SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE "wikilink")』（2000年7月5日）では、作曲者別にわけて楽曲が収録されている。うち、Disc 2は松任谷由実・提供曲のみで構成されており、オリジナル提供曲全12曲と、企画盤『[金色のリボン](../Page/金色のリボン.md "wikilink")』（1982年12月5日）でカヴァーした「恋人がサンタクロース」をプラスした計13曲すべてが収録された。デジタル・[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")により、音質が当ベスト盤より格段に向上している。
-  - 2006年7月19日に発売された、74枚組CD BOX『[Seiko Matsuda](https://ja.wikipedia.org/wiki/Seiko_Matsuda "wikilink")』に、 デジタル・リマスタリング仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](../Page/レコード.md "wikilink")。リマスター盤の個別販売はない。
+  - 歌手デビュー20周年記念CD BOX『[SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")』（2000年7月5日）では、作曲者別にわけて楽曲が収録されている。うち、Disc 2は松任谷由実・提供曲のみで構成されており、オリジナル提供曲全12曲と、企画盤『[金色のリボン](../Page/金色のリボン.md "wikilink")』（1982年12月5日）でカヴァーした「恋人がサンタクロース」をプラスした計13曲すべてが収録された。デジタル・[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")により、音質が当ベスト盤より格段に向上している。
+  - 2006年7月19日に発売された、74枚組CD BOX『[Seiko Matsuda](../Page/Seiko_Matsuda.md "wikilink")』に、 デジタル・リマスタリング仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](../Page/レコード.md "wikilink")。リマスター盤の個別販売はない。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
 1.  **[赤いスイートピー](../Page/赤いスイートピー.md "wikilink")**　（3:42）
-      - 作詞：松本隆／作曲：[呉田軽穂](../Page/松任谷由実.md "wikilink")／編曲：[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+      - 作詞：松本隆／作曲：[呉田軽穂](../Page/松任谷由実.md "wikilink")／編曲：[松任谷正隆](../Page/松任谷正隆.md "wikilink")
     <!-- end list -->
       -
         8thシングル （1982年1月21日）
@@ -98,11 +98,11 @@
 ## 関連作品
 
   - [聖子・fragrance](../Page/聖子・fragrance.md "wikilink") - タイトルが「セイコ」からはじまるベストの第1弾。1980年・1981年の楽曲から選曲されている。
-  - [Seiko・index](https://ja.wikipedia.org/wiki/Seiko・index "wikilink") - シングルA面コレクション・アンド・モア。1980年から1982年1月までの楽曲から選曲されている。
+  - [Seiko・index](../Page/Seiko・index.md "wikilink") - シングルA面コレクション・アンド・モア。1980年から1982年1月までの楽曲から選曲されている。
   - [Seiko・plaza](../Page/Seiko・plaza.md "wikilink") - 「[裸足の季節](../Page/裸足の季節.md "wikilink")」から「ガラスの林檎／SWEET MEMORIES」までのシングルコレクション。新曲も収録。
   - [Touch Me, Seiko](../Page/Touch_Me,_Seiko.md "wikilink") - シングルB面曲セレクション。両A面扱いの楽曲も収録されている。
-  - [Seiko・Town](https://ja.wikipedia.org/wiki/Seiko・Town "wikilink") - アルバム・ナンバーも含めたベストアルバム。1983年から1984年までの楽曲から選曲されている。
-  - [Seiko・Avenue](https://ja.wikipedia.org/wiki/Seiko・Avenue "wikilink") - クリスマス・アルバムや出演映画のサントラ盤収録の楽曲を集めたレア・トラック・コレクション。
+  - [Seiko・Town](../Page/Seiko・Town.md "wikilink") - アルバム・ナンバーも含めたベストアルバム。1983年から1984年までの楽曲から選曲されている。
+  - [Seiko・Avenue](../Page/Seiko・Avenue.md "wikilink") - クリスマス・アルバムや出演映画のサントラ盤収録の楽曲を集めたレア・トラック・コレクション。
   - [Seiko Box](../Page/Seiko_Box.md "wikilink") - シングル・アルバムを全60曲収録した4枚組大全集。
   - [Seiko Monument](../Page/Seiko_Monument.md "wikilink") - 「裸足の季節」から「Marrakech」まで、シングルA面コレクションCD2枚にエキストラ・ディスクが付いた計3枚組。
 

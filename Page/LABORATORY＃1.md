@@ -1,4 +1,4 @@
-> この記事は[LABORATORY1](https://ja.wikipedia.org/wiki/LABORATORY1)から翻訳されています。
+> この記事は[LABORATORY＃1](https://ja.wikipedia.org/wiki/LABORATORY＃1)から翻訳されています。
 
 
 『**LABORATORY \#1**』（ラボラトリー-）は[3B LAB.☆の](https://ja.wikipedia.org/wiki/3B_LAB.☆ "wikilink")1枚目のアルバム。
@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-作詞・作曲：[岡平健治](https://ja.wikipedia.org/wiki/岡平健治 "wikilink")（全曲）
+作詞・作曲：[岡平健治](../Page/岡平健治.md "wikilink")（全曲）
 
 1.  SOUND EFFECT ORCHESTRA
 2.  3B LAB.☆のテーマ

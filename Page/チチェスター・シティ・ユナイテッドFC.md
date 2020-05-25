@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チチェスター・シティ・ユナイテッドFC](https://ja.wikipedia.org/wiki/チチェスター・シティ・ユナイテッドFC)から翻訳されています。
 
 
 **チチェスター・シティ・ユナイテッド・フットボール・クラブ**（**Chichester City United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[チチェスター](https://ja.wikipedia.org/wiki/チチェスター "wikilink")を本拠地とするサッカークラブチームである。2008-2009シーズンは地域リーグの[サセックス・カウンティリーグ・ディヴィジョン1](https://ja.wikipedia.org/wiki/サセックス・カウンティリーグ・ディヴィジョン1 "wikilink")（9部相当）に所属。

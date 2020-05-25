@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ロザラム・ユナイテッドFC](https://ja.wikipedia.org/wiki/ロザラム・ユナイテッドFC)から翻訳されています。
 
 
 **ロザラム・ユナイテッド・フットボール・クラブ**（**Rotherham United Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[サウス・ヨークシャー州](https://ja.wikipedia.org/wiki/サウス・ヨークシャー州 "wikilink")、[ロザラム](https://ja.wikipedia.org/wiki/ロザラム "wikilink")をホームタウンとするプロ[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2018-19シーズンは[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）に所属する。

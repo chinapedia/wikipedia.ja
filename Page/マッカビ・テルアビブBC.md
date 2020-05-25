@@ -1,13 +1,13 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[マッカビ・テルアビブBC](https://ja.wikipedia.org/wiki/マッカビ・テルアビブBC)から翻訳されています。
 
 
-**マッカビ・テルアビブBC**（、）は、[イスラエル](../Page/イスラエル.md "wikilink")・[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。[1932年](../Page/1932年.md "wikilink")創設。本拠地は[ノキア・アリーナ](https://ja.wikipedia.org/wiki/ノキア・アリーナ "wikilink")。
+**マッカビ・テルアビブBC**（、）は、[イスラエル](../Page/イスラエル.md "wikilink")・[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")チームである。[1932年](../Page/1932年.md "wikilink")創設。本拠地は[メノーラ・ミヴタキム・アリーナ](https://ja.wikipedia.org/wiki/ノキア・アリーナ "wikilink")。
 
-[スーパーリーグではこれまで](https://ja.wikipedia.org/wiki/イスラエル・バスケットボール・スーパーリーグ "wikilink")53シーズンのうち47回制しており、また、2000年より始まった[ユーロリーグ](https://ja.wikipedia.org/wiki/ユーロリーグ "wikilink")では唯一連覇を達成しているイスラエルのみならず欧州屈指の強豪である。
+[スーパーリーグではこれまで](https://ja.wikipedia.org/wiki/イスラエル・バスケットボール・スーパーリーグ "wikilink")53シーズンのうち47回制しており、また、2000年より始まった[ユーロリーグ](../Page/ユーロリーグ.md "wikilink")では唯一連覇を達成しているイスラエルのみならず欧州屈指の強豪である。
 
 ## 主な成績
 
-  - 欧州チャンピオンズカップ／[ユーロリーグ](https://ja.wikipedia.org/wiki/ユーロリーグ "wikilink")
+  - 欧州チャンピオンズカップ／[ユーロリーグ](../Page/ユーロリーグ.md "wikilink")
 
 <!-- end list -->
 

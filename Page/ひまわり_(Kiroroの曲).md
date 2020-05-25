@@ -1,4 +1,4 @@
-> この記事は[ \(Kiroro\)](https://ja.wikipedia.org/wiki/_\(Kiroro\))から翻訳されています。
+> この記事は[ひまわり \(Kiroroの曲\)](https://ja.wikipedia.org/wiki/ひまわり_\(Kiroroの曲\))から翻訳されています。
 
 
 「**ひまわり**」は、[Kiroro](../Page/Kiroro.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -13,7 +13,7 @@
 
 1.  **ひまわり**
       -
-        （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：玉城千春／編曲：[重実徹](../Page/重実徹.md "wikilink")）
+        （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：玉城千春／編曲：[重実徹](../Page/重実徹.md "wikilink")）
 2.  **ナワトビ**
       -
         （作詞・作曲：玉城千春／編曲：重実徹）

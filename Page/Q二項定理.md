@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q二項定理](https://ja.wikipedia.org/wiki/Q二項定理)から翻訳されています。
 
 
 数学において、**q二項定理**（）は[二項定理](../Page/二項定理.md "wikilink")の[q-類似](https://ja.wikipedia.org/wiki/q-類似 "wikilink")である\[1\]。[超幾何級数](https://ja.wikipedia.org/wiki/超幾何級数 "wikilink") \(_1F_0\)の和は通常の[二項定理](../Page/二項定理.md "wikilink")

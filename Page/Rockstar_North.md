@@ -11,11 +11,11 @@
 
 現在のロックスター・ノース社のルーツは、前身である“DMA Design”が設立された[1988年](../Page/1988年.md "wikilink")までに遡る。当時、DMAデザイン社はイギリスのラベル・[シグノシスと契約し](https://ja.wikipedia.org/wiki/:en:Psygnosis "wikilink")、シューティングゲーム『メナス』と『ブラッドマネー』を開発した（この2つは“[Atari ST](../Page/Atari_ST.md "wikilink")”や“[Amiga](../Page/Amiga.md "wikilink")”などの[マイコン](../Page/マイコン.md "wikilink")用ゲーム）。
 
-その後、1991年に[アクションパズル](https://ja.wikipedia.org/wiki/アクションパズル "wikilink")ゲーム『[レミングス](https://ja.wikipedia.org/wiki/レミングス "wikilink")』をアミーガ用にリリースし、売り上げ本数2,000万本以上の大[ヒット](https://ja.wikipedia.org/wiki/ヒット "wikilink")を記録、各種[ゲーム機](../Page/ゲーム機.md "wikilink")、[パソコン等に移植され](../Page/パーソナルコンピュータ.md "wikilink")、果ては、[プレイステーション・ポータブルにも移植され](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、続編である『[レミングス2](../Page/レミングス2.md "wikilink")』も[リリース](https://ja.wikipedia.org/wiki/リリース "wikilink")、こちらもヒットを記録している。
+その後、1991年に[アクションパズル](../Page/アクションパズル.md "wikilink")ゲーム『[レミングス](../Page/レミングス.md "wikilink")』をアミーガ用にリリースし、売り上げ本数2,000万本以上の大[ヒット](https://ja.wikipedia.org/wiki/ヒット "wikilink")を記録、各種[ゲーム機](../Page/ゲーム機.md "wikilink")、[パソコン等に移植され](../Page/パーソナルコンピュータ.md "wikilink")、果ては、[プレイステーション・ポータブルにも移植され](../Page/PlayStation_Portable.md "wikilink")、続編である『[レミングス2](../Page/レミングス2.md "wikilink")』も[リリース](../Page/リリース.md "wikilink")、こちらもヒットを記録している。
 
 その後、同社は[ニンテンドー64用の](../Page/NINTENDO64.md "wikilink")[ソフト](https://ja.wikipedia.org/wiki/ソフト "wikilink")開発を主に行っていたが、[任天堂](../Page/任天堂.md "wikilink")側から日本市場向けの内容にするよう要求を受けていたものの、開発が間に合わず頓挫した（ただしソフトは発売）。
 
-その間にパソコン、[プレイステーション用に開発していた](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『[グランド・セフト・オート](../Page/グランド・セフト・オート.md "wikilink")』を制作（発売元は[ロックスター・ゲームス](https://ja.wikipedia.org/wiki/ロックスター・ゲームス "wikilink")社の前身である[ASCゲームス](https://ja.wikipedia.org/wiki/ASCゲームス "wikilink")）、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[欧州でPC版を発売](../Page/ヨーロッパ.md "wikilink")（PS版は同年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）、既存の「お使いゲーム」とは一線を画す[クライムアクションゲーム](../Page/クライムアクションゲーム.md "wikilink")と過激な内容で一世を風靡し、現在に至るまでの[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の原点となった。
+その間にパソコン、[プレイステーション用に開発していた](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[グランド・セフト・オート](../Page/グランド・セフト・オート.md "wikilink")』を制作（発売元は[ロックスター・ゲームス](https://ja.wikipedia.org/wiki/ロックスター・ゲームス "wikilink")社の前身である[ASCゲームス](https://ja.wikipedia.org/wiki/ASCゲームス "wikilink")）、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[欧州でPC版を発売](../Page/ヨーロッパ.md "wikilink")（PS版は同年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")）、既存の「お使いゲーム」とは一線を画す[クライムアクションゲーム](../Page/クライムアクションゲーム.md "wikilink")と過激な内容で一世を風靡し、現在に至るまでの[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")の原点となった。
 
 その後、[1999年](../Page/1999年.md "wikilink")に『[グランド・セフト・オート2](../Page/グランド・セフト・オート2.md "wikilink")』、[2001年](../Page/2001年.md "wikilink")には同シリーズ初の3Dとなった『[グランド・セフト・オートIII](../Page/グランド・セフト・オートIII.md "wikilink")』（シリーズ初の[プレイステーション2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）をリリースし、全世界で800万本を超えるヒットを記録した。その後、[2002年](../Page/2002年.md "wikilink")にテイクツー・インタラクティブ・ソフトウェア社の傘下となったロックスター・ゲームス社（ASCゲームス）に[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")され、現在の“**ロックスター・ノース**”へと改名した。
 
@@ -23,7 +23,7 @@
 
 改名後は主にグランド・セフト・オートシリーズを開発する会社となり、[2002年](../Page/2002年.md "wikilink")10月には『[グランド・セフト・オート・バイスシティ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』を開発し、前作を大幅に超える、1,150万本の売り上げを記録。
 
-さらに、[2004年](../Page/2004年.md "wikilink")には続編である『[グランド・セフト・オート・サンアンドレアス](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink")』をプレイステーション2版で発売（翌年6月にはPC版も発売）、約1,490万本以上を売り上げ、こちらも例に漏れず大ヒットを記録している（因みにPS2用ソフトでは世界一）。
+さらに、[2004年](../Page/2004年.md "wikilink")には続編である『[グランド・セフト・オート・サンアンドレアス](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』をプレイステーション2版で発売（翌年6月にはPC版も発売）、約1,490万本以上を売り上げ、こちらも例に漏れず大ヒットを記録している（因みにPS2用ソフトでは世界一）。
 
 2005年と2006年にはプレイステーション・ポータブル用に『[グランド・セフト・オート・リバティーシティ・ストーリーズ](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink")』、『[グランド・セフト・オート・バイスシティ・ストーリーズ](../Page/グランド・セフト・オート・バイスシティ・ストーリーズ.md "wikilink")』を開発（[ロックスター・リーズ社と共同開発](https://ja.wikipedia.org/wiki/Rockstar_Leeds "wikilink")、同社は責任会社）、発売。
 
@@ -38,7 +38,7 @@
   - Menace (1988年) (Amiga, ST and PC)
   - Ballistix (1989年) (ports to MSDOS, C64, TG16)
   - Blood Money (1989年) (Amiga, ST and C64)
-  - [レミングス](https://ja.wikipedia.org/wiki/レミングス "wikilink") (1990年) (Amiga, CDTV, MS-DOS, ST, Spectrum, CD-I, Lynx)
+  - [レミングス](../Page/レミングス.md "wikilink") (1990年) (Amiga, CDTV, MS-DOS, ST, Spectrum, CD-I, Lynx)
   - Oh No\! More Lemmings (1991年) (Amiga, ST, MS-DOS)
   - Shadow of the Beast (1992年) (PCEngine SuperCD-ROM2)
   - Walker (1993年) (Amiga)
@@ -62,8 +62,8 @@
 ### Rockstar North 名義
 
   - [グランド・セフト・オート・バイスシティ](../Page/グランド・セフト・オート・バイスシティ.md "wikilink") (2002年) (PS2, Xbox, PC)
-  - [マンハント](https://ja.wikipedia.org/wiki/マンハント "wikilink") (2003年) (PS2, Xbox, PC)
-  - [グランド・セフト・オート・サンアンドレアス](https://ja.wikipedia.org/wiki/グランド・セフト・オート・サンアンドレアス "wikilink") (2004年) (PS2, Xbox, PC)
+  - [マンハント](../Page/マンハント.md "wikilink") (2003年) (PS2, Xbox, PC)
+  - [グランド・セフト・オート・サンアンドレアス](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink") (2004年) (PS2, Xbox, PC)
   - [グランド・セフト・オート・リバティーシティ・ストーリーズ](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink") (2005年) (PSP, PS2) (責任会社は[ロックスター・リーズ社](https://ja.wikipedia.org/wiki/Rockstar_Leeds "wikilink"))
   - [グランド・セフト・オート・バイスシティ・ストーリーズ](../Page/グランド・セフト・オート・バイスシティ・ストーリーズ.md "wikilink") (2006年) (PSP, PS2) (同上)
   - [マンハント2](https://ja.wikipedia.org/wiki/マンハント2 "wikilink") (2007年) (PS2, PSP, Wii) ([ロックスター・ロンドン社](https://ja.wikipedia.org/wiki/Rockstar_London "wikilink")、ロックスター・リーズ社、[ロックスタートロント社との共同開発](https://ja.wikipedia.org/wiki/Rockstar_Toronto "wikilink"))
@@ -77,7 +77,7 @@
   - [テイクツー・インタラクティブ](https://ja.wikipedia.org/wiki/テイクツー・インタラクティブ "wikilink")
   - [グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")
   - [マンハント シリーズ](https://ja.wikipedia.org/wiki/マンハント_シリーズ "wikilink")
-  - [レミングス](https://ja.wikipedia.org/wiki/レミングス "wikilink")
+  - [レミングス](../Page/レミングス.md "wikilink")
   - [レミングス2](../Page/レミングス2.md "wikilink")
 
 ## 出典

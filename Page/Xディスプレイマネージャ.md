@@ -1,11 +1,11 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[Xディスプレイマネージャ](https://ja.wikipedia.org/wiki/Xディスプレイマネージャ)から翻訳されています。
 
 
 **Xディスプレイマネージャ**（）は、[X Window System](../Page/X_Window_System.md "wikilink") 上のプログラムの1つで、ローカルあるいはリモートの[Xサーバ](https://ja.wikipedia.org/wiki/Xサーバ "wikilink")でセッションを開始させる機能を持つ。単に**ディスプレイマネージャ**とも呼ばれる。
 
 [thumbのログイン画面](https://ja.wikipedia.org/wiki/画像:Xdm_Screenshot.png "wikilink")\]\]
 
-ディスプレイマネージャは、ユーザに対してログイン画面を提示し、ユーザ名と[パスワード](https://ja.wikipedia.org/wiki/パスワード "wikilink")を入力可能である。ユーザが正しく入力するとセッションが開始される。
+ディスプレイマネージャは、ユーザに対してログイン画面を提示し、ユーザ名と[パスワード](../Page/パスワード.md "wikilink")を入力可能である。ユーザが正しく入力するとセッションが開始される。
 
 ディスプレイマネージャがユーザが操作する[コンピュータ](../Page/コンピュータ.md "wikilink")上で動作する場合、ログイン画面を表示する前にXサーバを起動し、オプションでログアウトの際にもログイン画面を表示する。この場合、ディスプレイマネージャは X Window System において、[テキスト端末での](../Page/端末.md "wikilink") [`init`](https://ja.wikipedia.org/wiki/init "wikilink")、[`getty`](https://ja.wikipedia.org/wiki/getty_\(Unix\) "wikilink")、`login` の役割を果たす。ディスプレイマネージャがリモートのコンピュータで動作する場合、[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink") サーバのように機能して、ユーザ名とパスワードを要求し、リモートセッションを開始させる。
 
@@ -36,22 +36,22 @@ XDMCP の問題として [telnet](https://ja.wikipedia.org/wiki/telnet "wikilink
 
 ## 歴史
 
-XDM（[X Window Display Manager](https://ja.wikipedia.org/wiki/X_Window_Display_Manager "wikilink")）は X11R3 で登場した。この版にはいくつかの問題があり、特に有名な問題としては、X端末の電源を入れなおしたときに発生した。X11R3 では、XDM は `Xservers` ファイルにあるX端末だけを認識し、しかもXDMが起動したときだけそのファイルを読み込むようになっていた。従って、ユーザーがX端末の電源を入れなおしたときは、[システムアドミニストレータ](https://ja.wikipedia.org/wiki/システムアドミニストレータ "wikilink")が XDM に SIGHUP [シグナルを送り](https://ja.wikipedia.org/wiki/シグナル_\(Unix\) "wikilink")、`Xservers` を読み直させなければならなかった。
+XDM（[X Window Display Manager](../Page/X_Window_Display_Manager.md "wikilink")）は X11R3 で登場した。この版にはいくつかの問題があり、特に有名な問題としては、X端末の電源を入れなおしたときに発生した。X11R3 では、XDM は `Xservers` ファイルにあるX端末だけを認識し、しかもXDMが起動したときだけそのファイルを読み込むようになっていた。従って、ユーザーがX端末の電源を入れなおしたときは、[システムアドミニストレータ](../Page/システムアドミニストレータ.md "wikilink")が XDM に SIGHUP [シグナルを送り](../Page/シグナル_\(Unix\).md "wikilink")、`Xservers` を読み直させなければならなかった。
 
 XDMCP は X11R4（[1989年](../Page/1989年.md "wikilink")12月）で導入された。XDMCP では、Xサーバがディスプレイマネージャに対して能動的に接続を要求しなければならない。したがって、XDMCP を使ったXサーバの場合、`Xservers` に記述しておく必要がない。
 
 ## 利用可能なディスプレイマネージャ
 
-[X Window System](../Page/X_Window_System.md "wikilink") の標準ディスプレイマネージャとしては、[XDM](https://ja.wikipedia.org/wiki/X_Window_Display_Manager "wikilink") がある。
+[X Window System](../Page/X_Window_System.md "wikilink") の標準ディスプレイマネージャとしては、[XDM](../Page/X_Window_Display_Manager.md "wikilink") がある。
 
 他にもフリーなものも商用製品としても、様々なXディスプレイマネージャが開発されており、単なる画面管理以上の機能を持つものが多い。
 
   - [GNOME ディスプレイマネージャー](https://ja.wikipedia.org/wiki/GNOME_ディスプレイマネージャー "wikilink")
   - [LightDM](https://ja.wikipedia.org/wiki/LightDM "wikilink") - Ubuntuにて標準採用
-  - [KDM](https://ja.wikipedia.org/wiki/KDEディスプレイマネージャ "wikilink") ([KDE](../Page/KDE.md "wikilink")) - [ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")や[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")をログイン時にグラフィカルに選択可能
+  - [KDM](https://ja.wikipedia.org/wiki/KDEディスプレイマネージャ "wikilink") ([KDE](../Page/KDE.md "wikilink")) - [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")や[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")をログイン時にグラフィカルに選択可能
   - [SDDM](https://ja.wikipedia.org/wiki/SDDM "wikilink") - [LXQt](https://ja.wikipedia.org/wiki/LXQt "wikilink")にて標準採用
-  - dtlogin - [CDEの一部](https://ja.wikipedia.org/wiki/Common_Desktop_Environment "wikilink")
-  - [WINGs Display Manager](http://voins.program.ru/wdm/index.html.en) - [Window Maker](https://ja.wikipedia.org/wiki/Window_Maker "wikilink") のウィジェットセット WINGs を使用
+  - dtlogin - [CDEの一部](../Page/Common_Desktop_Environment.md "wikilink")
+  - [WINGs Display Manager](http://voins.program.ru/wdm/index.html.en) - [Window Maker](../Page/Window_Maker.md "wikilink") のウィジェットセット WINGs を使用
   - [Entrance](http://xcomputerman.com/pages/entrance.html) - [Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink") v.17 のアーキテクチャを使用
   - 独立したディスプレイマネージャ
       - [SLiM](http://slim.berlios.de/) - デスクトップ環境と独立したディスプレイマネージャ

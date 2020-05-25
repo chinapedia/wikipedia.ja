@@ -1,7 +1,7 @@
 > この記事は[A Place Under the Sun](https://ja.wikipedia.org/wiki/A_Place_Under_the_Sun)から翻訳されています。
 
 
-「**A Place Under the Sun**」（ア・プレイス・アンダー・ザ・サン）は、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の38枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。
+「**A Place Under the Sun**」（ア・プレイス・アンダー・ザ・サン）は、[中山美穂](../Page/中山美穂.md "wikilink")の38枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。
 
 ## 解説
 
@@ -46,6 +46,6 @@
 
   - [井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")
   - [ロート製薬](../Page/ロート製薬.md "wikilink")
-  - [1999年の音楽](https://ja.wikipedia.org/wiki/1999年の音楽 "wikilink")
+  - [1999年の音楽](../Page/1999年の音楽.md "wikilink")
 
 [Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:井上ヨシマサが制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上ヨシマサが制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:ロート製薬のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロート製薬のコマーシャルソング "wikilink") [Category:太陽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:太陽を題材とした楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

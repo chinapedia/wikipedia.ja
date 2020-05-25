@@ -1,9 +1,9 @@
-> この記事は[mix](https://ja.wikipedia.org/wiki/mix)から翻訳されています。
+> この記事は[猫mix幻奇譚とらじ](https://ja.wikipedia.org/wiki/猫mix幻奇譚とらじ)から翻訳されています。
 
 
 『**猫mix幻奇譚とらじ**』（ねこミックスげんきたん とらじ）は、[田村由美](../Page/田村由美.md "wikilink")による日本の漫画作品。
 
-第1話が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に、[小学館](../Page/小学館.md "wikilink")の『[月刊フラワーズ](https://ja.wikipedia.org/wiki/月刊フラワーズ "wikilink")』の2月号付録で発表され、[2007年](../Page/2007年.md "wikilink")（平成19年）に『[凛花](../Page/増刊flowers.md "wikilink")』が創刊されたのに伴い、第4話「犬と夜霧と灯台ねずみ」より同誌にて本格的に連載化される。初編発表から4年の歳月を経て、[単行本](../Page/単行本.md "wikilink")第1巻が刊行された。[2019年](../Page/2019年.md "wikilink")7月現在既刊12巻\[1\]。
+第1話が[2005年](../Page/2005年.md "wikilink")（平成17年）に、[小学館](../Page/小学館.md "wikilink")の『[月刊フラワーズ](../Page/月刊フラワーズ.md "wikilink")』の2月号付録で発表され、[2007年](../Page/2007年.md "wikilink")（平成19年）に『[凛花](../Page/増刊flowers.md "wikilink")』が創刊されたのに伴い、第4話「犬と夜霧と灯台ねずみ」より同誌にて本格的に連載化される。初編発表から4年の歳月を経て、[単行本](../Page/単行本.md "wikilink")第1巻が刊行された。[2019年](../Page/2019年.md "wikilink")7月現在既刊12巻\[1\]。
 
 ## あらすじ
 
@@ -349,7 +349,7 @@
 
 ## 書誌情報
 
-  - [田村由美](../Page/田村由美.md "wikilink") 『猫mix幻奇譚とらじ』 [小学館](../Page/小学館.md "wikilink")〈[フラワーコミックス](https://ja.wikipedia.org/wiki/フラワーコミックス "wikilink")α〉 既刊12巻\[4\]（2019年7月10日現在）
+  - [田村由美](../Page/田村由美.md "wikilink") 『猫mix幻奇譚とらじ』 [小学館](../Page/小学館.md "wikilink")〈[フラワーコミックス](../Page/フラワーコミックス.md "wikilink")α〉 既刊12巻\[4\]（2019年7月10日現在）
     1.  2008年1月25日発売、ISBN 978-4-09-131478-9
     2.  2009年2月9日発売、ISBN 978-4-09-132259-3
     3.  2009年11月10日発売、ISBN 978-4-09-132810-6
@@ -369,7 +369,7 @@
 
   - [月刊flowers内公式サイト](http://flowers.shogakukan.co.jp/zoukan/)
 
-[Category:漫画作品_ね](https://ja.wikipedia.org/wiki/Category:漫画作品_ね "wikilink") [Category:月刊フラワーズ](https://ja.wikipedia.org/wiki/Category:月刊フラワーズ "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:ネコを主題とする作品](https://ja.wikipedia.org/wiki/Category:ネコを主題とする作品 "wikilink") [Category:ネズミを題材とした作品](https://ja.wikipedia.org/wiki/Category:ネズミを題材とした作品 "wikilink") [Category:訪ね旅を扱った作品](https://ja.wikipedia.org/wiki/Category:訪ね旅を扱った作品 "wikilink") [Category:冒険漫画](https://ja.wikipedia.org/wiki/Category:冒険漫画 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:漫画作品_ね](https://ja.wikipedia.org/wiki/Category:漫画作品_ね "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:月刊フラワーズ](https://ja.wikipedia.org/wiki/Category:月刊フラワーズ "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:ネコを主題とする作品](https://ja.wikipedia.org/wiki/Category:ネコを主題とする作品 "wikilink") [Category:ネズミを題材とした作品](https://ja.wikipedia.org/wiki/Category:ネズミを題材とした作品 "wikilink") [Category:訪ね旅を扱った作品](https://ja.wikipedia.org/wiki/Category:訪ね旅を扱った作品 "wikilink") [Category:冒険漫画](https://ja.wikipedia.org/wiki/Category:冒険漫画 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.
 2.  スフィーンクスクス自身がmixではないと断言している。

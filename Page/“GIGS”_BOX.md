@@ -1,13 +1,13 @@
-> この記事は[GIGS BOX](https://ja.wikipedia.org/wiki/GIGS_BOX)から翻訳されています。
+> この記事は[“GIGS” BOX](https://ja.wikipedia.org/wiki/“GIGS”_BOX)から翻訳されています。
 
 
 『**“GIGS” BOX**』（ギグス・ボックス）は、日本の[ロック・バンド](https://ja.wikipedia.org/wiki/ロック・バンド "wikilink")である[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の8枚組DVDボックス。
 
-[2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／イーストワールドよりリリースされた初回完全生産限定品。
+[2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールドよりリリースされた初回完全生産限定品。
 
 ## 解説
 
-同年の[9月5日](../Page/9月5日.md "wikilink")に発売された[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[THIS BOØWY DRASTIC](https://ja.wikipedia.org/wiki/THIS_BOØWY_DRASTIC "wikilink")』『[THIS BOØWY DRAMATIC](https://ja.wikipedia.org/wiki/THIS_BOØWY_DRAMATIC "wikilink")』からはじまったBOØWY解散20周年記念のプロジェクト「**BOØWY 20TH ANNIVERSARY FROM BROKEN 2007-2008**」の一環として発売された8枚組DVDボックス。過去に正規品として発売されていなかったライブ映像を収めている。また、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[八曜社](https://ja.wikipedia.org/wiki/八曜社 "wikilink")より限定発刊されたBOØWYのイメージ・ブック『HYSTERIA』を復刻し、特典としてBOX内に収納。さらに、先着特典として購入者には[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に行われたライブ・ツアー「BOØWY'S BE AMBITIOUS」のツアー・ポスターの復刻版がプレゼントされた。
+同年の[9月5日](../Page/9月5日.md "wikilink")に発売された[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[THIS BOØWY DRASTIC](https://ja.wikipedia.org/wiki/THIS_BOØWY_DRASTIC "wikilink")』『[THIS BOØWY DRAMATIC](https://ja.wikipedia.org/wiki/THIS_BOØWY_DRAMATIC "wikilink")』からはじまったBOØWY解散20周年記念のプロジェクト「**BOØWY 20TH ANNIVERSARY FROM BROKEN 2007-2008**」の一環として発売された8枚組DVDボックス。過去に正規品として発売されていなかったライブ映像を収めている。また、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に[八曜社](https://ja.wikipedia.org/wiki/八曜社 "wikilink")より限定発刊されたBOØWYのイメージ・ブック『HYSTERIA』を復刻し、特典としてBOX内に収納。さらに、先着特典として購入者には[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に行われたライブ・ツアー「BOØWY'S BE AMBITIOUS」のツアー・ポスターの復刻版がプレゼントされた。
 
 ## 収録曲
 
@@ -38,7 +38,7 @@
 
 ### DISC5
 
-1986年8月4日に都有3号地（現：東京都庁）で豪雨の中行われた野外イベント「ウォーター・ロック・フェス 」を、当時[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「ロックステージin 新宿」として放送した。この中からBOØWYのステージ部分のみを収録。このイベントにはBOØWYのほかにも[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")、[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")、[山下久美子](https://ja.wikipedia.org/wiki/山下久美子 "wikilink")、[大澤誉志幸](https://ja.wikipedia.org/wiki/大澤誉志幸 "wikilink")が出演した。
+1986年8月4日に都有3号地（現：東京都庁）で豪雨の中行われた野外イベント「ウォーター・ロック・フェス 」を、当時[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「ロックステージin 新宿」として放送した。この中からBOØWYのステージ部分のみを収録。このイベントにはBOØWYのほかにも[吉川晃司](../Page/吉川晃司.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、[山下久美子](../Page/山下久美子.md "wikilink")、[大澤誉志幸](../Page/大澤誉志幸.md "wikilink")が出演した。
 
 1.  DREAMIN'
 2.  BABY ACTION
@@ -50,7 +50,7 @@
 
 ### DISC6
 
-[2001年](../Page/2001年.md "wikilink")に[NHK BSで放送されたBOØWYのドキュメンタリー番組](https://ja.wikipedia.org/wiki/NHK_BS "wikilink")『FINAL伝説』をDVD化。放送当時に発売直前であった映像作品『[1224](../Page/1224.md "wikilink")』からの映像や、貴重な[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")でのステージや、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")での初ステージの映像などに加え（本作品のDISC6においては、前述の録音には記載されていない日のライヴ映像も数多く収録されている）、解散宣言をする1987年に行われたメンバーへの個別インタビューの映像や、当時のスタッフへのインタビューなどで構成されている。
+[2001年](../Page/2001年.md "wikilink")に[NHK BSで放送されたBOØWYのドキュメンタリー番組](https://ja.wikipedia.org/wiki/NHK_BS "wikilink")『FINAL伝説』をDVD化。放送当時に発売直前であった映像作品『[1224](../Page/1224.md "wikilink")』からの映像や、貴重な[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")でのステージや、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")での初ステージの映像などに加え（本作品のDISC6においては、前述の録音には記載されていない日のライヴ映像も数多く収録されている）、解散宣言をする1987年に行われたメンバーへの個別インタビューの映像や、当時のスタッフへのインタビューなどで構成されている。
 
 1.  LIAR GIRL
 2.  INTERVIEW KYOSUKE HIMURO
@@ -171,7 +171,7 @@
 
 ## エピソード
 
-  - BOØWYは以前から関係者から流れたと思われる未発表のライブ音源や映像を収録した[海賊盤](https://ja.wikipedia.org/wiki/海賊盤 "wikilink")[DVD](../Page/DVD.md "wikilink")や[CDが](../Page/コンパクトディスク.md "wikilink")[インターネットオークション](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")等を通じて出回っており、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には海賊盤のやり取りで逮捕者まで出てしまっていた。\[1\]予めオフィシャルサイト「BOØWY HUNT」にて「初DVD化映像集」\[2\]と告知されていた。しかし、実際に収録されている映像は殆どが1986年以降に行われたライブのものであった。このBOXをプロデュースした元BOØWYのマネージャーである土屋浩は、『“GIGS”BOX』発売後のインタビューで「BOØWYの（ライブ映像の）場合はたとえば僕達でお金を出し合って買ったビデオ・カメラで撮ったものとか、そういった類のものしか残っていないんです。それはあくまで“データ”であって、“作品”ではないんですよ。作品のクォリティとして考えた時に、1枚のDVDの中でその“データ”を1時間半見せるわけにはいかない。古くからのファンは「あの時のライヴの全部が見たい」と思うかもしれないけど、現実的にテープが劣化していたり、作品としてのクォリティに達していなかったり、メンバー自身が「No」と言う場合も当たり前に多い」\[3\]と話している。
+  - BOØWYは以前から関係者から流れたと思われる未発表のライブ音源や映像を収録した[海賊盤](https://ja.wikipedia.org/wiki/海賊盤 "wikilink")[DVD](../Page/DVD.md "wikilink")や[CDが](../Page/コンパクトディスク.md "wikilink")[インターネットオークション](../Page/インターネットオークション.md "wikilink")等を通じて出回っており、[2005年](../Page/2005年.md "wikilink")には海賊盤のやり取りで逮捕者まで出てしまっていた。\[1\]予めオフィシャルサイト「BOØWY HUNT」にて「初DVD化映像集」\[2\]と告知されていた。しかし、実際に収録されている映像は殆どが1986年以降に行われたライブのものであった。このBOXをプロデュースした元BOØWYのマネージャーである土屋浩は、『“GIGS”BOX』発売後のインタビューで「BOØWYの（ライブ映像の）場合はたとえば僕達でお金を出し合って買ったビデオ・カメラで撮ったものとか、そういった類のものしか残っていないんです。それはあくまで“データ”であって、“作品”ではないんですよ。作品のクォリティとして考えた時に、1枚のDVDの中でその“データ”を1時間半見せるわけにはいかない。古くからのファンは「あの時のライヴの全部が見たい」と思うかもしれないけど、現実的にテープが劣化していたり、作品としてのクォリティに達していなかったり、メンバー自身が「No」と言う場合も当たり前に多い」\[3\]と話している。
 
 ## 参考文献・出典
 

@@ -1,9 +1,9 @@
-> この記事は[IXC](https://ja.wikipedia.org/wiki/IXC)から翻訳されています。
+> この記事は[特定フィブリノゲン製剤及び特定血液凝固第IX因子製剤によるC型肝炎感染被害者を救済するための給付金の支給に関する特別措置法](https://ja.wikipedia.org/wiki/特定フィブリノゲン製剤及び特定血液凝固第IX因子製剤によるC型肝炎感染被害者を救済するための給付金の支給に関する特別措置法)から翻訳されています。
 
 
 **特定フィブリノゲン製剤及び特定血液凝固第IX因子製剤によるC型肝炎感染被害者を救済するための給付金の支給に関する特別措置法**（とくていフィブリノゲンせいざいおよびとくていけつえきぎょうこだい9いんしせいざいによる Cがたかんえんかんせんひがいしゃを きゅうさいするためのきゅうふきんのしきゅうにかんするとくべつそちほう）は、[2002年](../Page/2002年.md "wikilink")から始まった[薬害肝炎訴訟を全面解決するために制定された](https://ja.wikipedia.org/wiki/薬害肝炎#薬害肝炎訴訟 "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[法律](../Page/法律.md "wikilink")で、全18条から構成される。法律名が非常に長いことから、一般に**薬害肝炎救済法**や**薬害肝炎救済特別措置法**、**薬害肝炎被害者救済法**などと略される。
 
-目的は、薬害被害者救済のための給付で、[議員立法](https://ja.wikipedia.org/wiki/議員立法 "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")[本会議](https://ja.wikipedia.org/wiki/本会議 "wikilink")で可決・成立し、同月16日に[公布](../Page/公布.md "wikilink")・[施行](../Page/施行.md "wikilink")された\[1\]。
+目的は、薬害被害者救済のための給付で、[議員立法](../Page/議員立法.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")[本会議](https://ja.wikipedia.org/wiki/本会議 "wikilink")で可決・成立し、同月16日に[公布](../Page/公布.md "wikilink")・[施行](../Page/施行.md "wikilink")された\[1\]。
 
 本項では、「法」とはこの法律を、「施行規則」とはこの法律の施行規則である「特定フィブリノゲン製剤及び特定血液凝固第IX因子製剤によるC型肝炎感染被害者を救済するための給付金の支給に関する特別措置法施行規則（平成20年厚生労働省令第3号）」を指す。
 
@@ -11,13 +11,13 @@
 
 ### 医療費の助成および給付金
 
-[C型肝炎ウイルス](https://ja.wikipedia.org/wiki/C型肝炎ウイルス "wikilink")の混入の疑いがある特定の[フィブリノゲン](https://ja.wikipedia.org/wiki/フィブリノゲン "wikilink")製剤および[血液凝固](https://ja.wikipedia.org/wiki/凝固・線溶系 "wikilink")[第IX因子](https://ja.wikipedia.org/wiki/第IX因子 "wikilink")製剤の投与によってC型肝炎に感染した本人およびその相続人に対し、その症状に応じた給付金を支給する。
+[C型肝炎ウイルス](../Page/C型肝炎ウイルス.md "wikilink")の混入の疑いがある特定の[フィブリノゲン](https://ja.wikipedia.org/wiki/フィブリノゲン "wikilink")製剤および[血液凝固](../Page/凝固・線溶系.md "wikilink")[第IX因子](../Page/第IX因子.md "wikilink")製剤の投与によってC型肝炎に感染した本人およびその相続人に対し、その症状に応じた給付金を支給する。
 
 給付金は、以下に示す診断病名・症状によって異なる（法6条）。
 
   - [慢性C型肝炎が進行して](../Page/C型肝炎.md "wikilink")、[肝硬変](../Page/肝硬変.md "wikilink")若しくは[肝がん](https://ja.wikipedia.org/wiki/肝がん "wikilink")に罹患し、又は死亡した者 - 4000万円
   - 慢性C型肝炎に罹患した者 - 2000万円
-  - C型肝炎ウイルスに感染したことが確認された者のうち、上記以外の者（[無症候性キャリア](https://ja.wikipedia.org/wiki/無症候性キャリア "wikilink")） - 1200万円
+  - C型肝炎ウイルスに感染したことが確認された者のうち、上記以外の者（[無症候性キャリア](../Page/無症候性キャリア.md "wikilink")） - 1200万円
 
 症状の進行等に応じ、追加給付金を受けることができる（法7 - 10条）。
 
@@ -57,7 +57,7 @@
 
 ### 給付金の支給手続
 
-支給には、裁判判決の確定ないしは[和解](https://ja.wikipedia.org/wiki/和解 "wikilink")・[調停](https://ja.wikipedia.org/wiki/調停 "wikilink")の成立等が必要である。訴え等は、相手方に国が含まれていなければならない（法4条）。それら裁判所による事実認定に基づき、[医薬品医療機器総合機構](https://ja.wikipedia.org/wiki/医薬品医療機器総合機構 "wikilink")（以下、単に「機構」という）が被害者およびその相続人に給付金を支払う形になる\[2\]。
+支給には、裁判判決の確定ないしは[和解](../Page/和解.md "wikilink")・[調停](../Page/調停.md "wikilink")の成立等が必要である。訴え等は、相手方に国が含まれていなければならない（法4条）。それら裁判所による事実認定に基づき、[医薬品医療機器総合機構](https://ja.wikipedia.org/wiki/医薬品医療機器総合機構 "wikilink")（以下、単に「機構」という）が被害者およびその相続人に給付金を支払う形になる\[2\]。
 
 追加給付金の支給の場合は、医師による所定の書式の診断書が必要となる（法8条）。この診断書の書式は、施行規則に定められている。
 
@@ -82,7 +82,7 @@
 ## 関連項目
 
   - [薬害](../Page/薬害.md "wikilink")
-  - [フィブリノゲン問題](https://ja.wikipedia.org/wiki/フィブリノゲン問題 "wikilink")
+  - [フィブリノゲン問題](../Page/フィブリノゲン問題.md "wikilink")
   - [福田衣里子](https://ja.wikipedia.org/wiki/福田衣里子 "wikilink")
 
 ## 外部リンク

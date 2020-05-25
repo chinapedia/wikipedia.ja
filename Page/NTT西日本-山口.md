@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-山口](https://ja.wikipedia.org/wiki/NTT西日本-山口)から翻訳されています。
 
 
 **NTT西日本-山口**（エヌティティにしにほん-やまぐち）は、かつて[山口県](../Page/山口県.md "wikilink")[山口市](../Page/山口市.md "wikilink")に本社を置いていた、[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本、大阪市）の子会社。電気通信設備関係や工事関係などで主に[山口県](../Page/山口県.md "wikilink")・[広島県](../Page/広島県.md "wikilink")[大竹市](../Page/大竹市.md "wikilink")を管轄していた。

@@ -1,4 +1,4 @@
-> この記事は[GP \(\)](https://ja.wikipedia.org/wiki/GP_\(\))から翻訳されています。
+> この記事は[モナコGP \(ゲーム\)](https://ja.wikipedia.org/wiki/モナコGP_\(ゲーム\))から翻訳されています。
 
 
 [Monacogp.jpg](https://ja.wikipedia.org/wiki/File:Monacogp.jpg "fig:Monacogp.jpg") 『**モナコGP**』（**MONACO GP**、モナコグランプリ）は[1979年](../Page/1979年.md "wikilink")11月にセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。
@@ -9,7 +9,7 @@
 
 ## ゲーム内容
 
-上空からの視点で車を操作して道路を前方にひたすら走るといった単純なルールのゲームである。赤いマシンの自機を[ステアリングを使用して左右に動かし](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink")、[シフトレバー](../Page/シフトレバー.md "wikilink")と[アクセルペダル](https://ja.wikipedia.org/wiki/アクセルペダル "wikilink")による加速や減速を駆使して操作し、敵車を避けながらコースを進んでいく。シフトレバーは2速（HI/LO）となっており、アクセルペダルの踏み加減に応じて加速する。また、[ブレーキペダル](../Page/ブレーキペダル.md "wikilink")は存在せず、減速もアクセルの踏み込みを弱める事で[エンジンブレーキ](https://ja.wikipedia.org/wiki/エンジンブレーキ "wikilink")の要領で行うことが出来る。あるいはシフトレバーをLO（低速）に落として減速する事も可能である。なお、加速をすることで自機が画面中央の位置へ移動していき、逆に減速することで画面下部へと下がっていく習性もある。
+上空からの視点で車を操作して道路を前方にひたすら走るといった単純なルールのゲームである。赤いマシンの自機を[ステアリングを使用して左右に動かし](https://ja.wikipedia.org/wiki/ステアリング・ホイール "wikilink")、[シフトレバー](../Page/シフトレバー.md "wikilink")と[アクセルペダル](https://ja.wikipedia.org/wiki/アクセルペダル "wikilink")による加速や減速を駆使して操作し、敵車を避けながらコースを進んでいく。シフトレバーは2速（HI/LO）となっており、アクセルペダルの踏み加減に応じて加速する。また、[ブレーキペダル](../Page/ブレーキペダル.md "wikilink")は存在せず、減速もアクセルの踏み込みを弱める事で[エンジンブレーキ](../Page/エンジンブレーキ.md "wikilink")の要領で行うことが出来る。あるいはシフトレバーをLO（低速）に落として減速する事も可能である。なお、加速をすることで自機が画面中央の位置へ移動していき、逆に減速することで画面下部へと下がっていく習性もある。
 
 制限時間が設けられているが、制限時間内に2,000点以上に達する事が出来れば「**EXTENDED PLAY**」と表示され、更なるゲーム続行が可能となるシステムである。制限時間内は何度ミスをしてもマシンがスピンしてコースの右下に戻されるだけであるが、制限時間が終わって以降はミスをしたマシンは爆発し残機を1つ失う。
 
@@ -34,11 +34,11 @@
   - 水たまり
     コース上に存在する一部が水色になっている箇所。水たまりに乗った瞬間はスリップゾーン区間のようにステアリングが過敏に反応してしまうがすぐに収まる。しかし、コース上にある動かない障害物であるため、HIで走行中は画面上から高速で近づいてくることになるため、避けることが大変困難な障害物でもある。但し、水たまりに触れてもミスにはならない。水たまりを踏んでもコース上を走行している事になるため、得点は加算され続ける。
   - 救急車両
-    画面下から現れて自機や敵機を追い越して画面上に去っていく[救急車](https://ja.wikipedia.org/wiki/救急車 "wikilink")両。自機がシフトレバーをHIにしてアクセルペダルを最大に踏んで走行していても、それを軽々を追い越していく程の超高速車両である。現れる時は必ず[サイレン](https://ja.wikipedia.org/wiki/サイレン "wikilink")の音と共に登場する為、サイレンがなった場合は即座に画面下を注視して接触回避の準備をしておかないとミスを誘発する厄介な障害物である。「EXTENDED PLAY」を獲得し、制限時間が無くなってから登場する。一般道、トンネル、悪路のみで出現が確認されている。
+    画面下から現れて自機や敵機を追い越して画面上に去っていく[救急車](../Page/救急車.md "wikilink")両。自機がシフトレバーをHIにしてアクセルペダルを最大に踏んで走行していても、それを軽々を追い越していく程の超高速車両である。現れる時は必ず[サイレン](../Page/サイレン.md "wikilink")の音と共に登場する為、サイレンがなった場合は即座に画面下を注視して接触回避の準備をしておかないとミスを誘発する厄介な障害物である。「EXTENDED PLAY」を獲得し、制限時間が無くなってから登場する。一般道、トンネル、悪路のみで出現が確認されている。
 
 ### 筐体
 
-[筐体](https://ja.wikipedia.org/wiki/筐体 "wikilink")のデザインはF1カー\[1\]をイメージしたコックピットタイプと、立って操作するアップライト版が存在する。コックピットタイプではエンジン音と連動し、回転数に応じて稼働するバックライト装備であるタコメーターが臨場感を演出している\[2\]。 アーケード版の[体感筐体の定価は](https://ja.wikipedia.org/wiki/アーケードゲーム#体感筐体 "wikilink")125万円\[3\]、[ミニアップライト筐体の定価は](https://ja.wikipedia.org/wiki/アーケードゲーム#テーブル筐体 "wikilink")72万円であった\[4\]。
+[筐体](../Page/筐体.md "wikilink")のデザインはF1カー\[1\]をイメージしたコックピットタイプと、立って操作するアップライト版が存在する。コックピットタイプではエンジン音と連動し、回転数に応じて稼働するバックライト装備であるタコメーターが臨場感を演出している\[2\]。 アーケード版の[体感筐体の定価は](https://ja.wikipedia.org/wiki/アーケードゲーム#体感筐体 "wikilink")125万円\[3\]、[ミニアップライト筐体の定価は](https://ja.wikipedia.org/wiki/アーケードゲーム#テーブル筐体 "wikilink")72万円であった\[4\]。
 
 ## 他機種版
 
@@ -50,7 +50,7 @@
   - [セガサターン](../Page/セガサターン.md "wikilink")版
     [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月27日](../Page/11月27日.md "wikilink")発売の『[メモリアルセレクション](https://ja.wikipedia.org/wiki/メモリアルセレクション "wikilink")』Vol.2に収録。縦画面対応で、アーケード版の雰囲気を最も再現した作り。
   - [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
-    [2003年](../Page/2003年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")、『[セガエイジス2500シリーズ](https://ja.wikipedia.org/wiki/セガエイジス2500シリーズ "wikilink")』Vol.2に[3Dエイジス](https://ja.wikipedia.org/wiki/3Dエイジス "wikilink")より発売。フル[ポリゴン](../Page/ポリゴン.md "wikilink")になったグラフィックが最大の特徴。アレンジを加えたモードもある。
+    [2003年](../Page/2003年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")、『[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink")』Vol.2に[3Dエイジス](https://ja.wikipedia.org/wiki/3Dエイジス "wikilink")より発売。フル[ポリゴン](../Page/ポリゴン.md "wikilink")になったグラフィックが最大の特徴。アレンジを加えたモードもある。
 
 ## 続編
 
@@ -58,7 +58,7 @@
       -
         本作のバージョンアップ版。点数表示が1万9999点まで可能になり、難易度がアップしている\[9\]。
   - [ターボ](https://ja.wikipedia.org/wiki/ターボ_\(ゲーム\) "wikilink")
-  - [スーパーモナコGP](https://ja.wikipedia.org/wiki/スーパーモナコGP "wikilink")
+  - [スーパーモナコGP](../Page/スーパーモナコGP.md "wikilink")
   - [アイルトン・セナ スーパーモナコGPII](https://ja.wikipedia.org/wiki/アイルトン・セナ_スーパーモナコGPII "wikilink")
   - [ヘブンリーシンフォニー](https://ja.wikipedia.org/wiki/ヘブンリーシンフォニー "wikilink")
 
@@ -72,7 +72,7 @@
 
 [Category:1979年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1979年のアーケードゲーム "wikilink") [Category:セガのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:セガのアーケードゲーム "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:SG-1000用ソフト](https://ja.wikipedia.org/wiki/Category:SG-1000用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")
 
-1.  筐体両脇のカラーリングモチーフは[1975年](../Page/1975年.md "wikilink")型[フェラーリ・312T](https://ja.wikipedia.org/wiki/フェラーリ・312T "wikilink")を思わせる。F1史実上[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")に頭上に来る大型[インダクションポッド](https://ja.wikipedia.org/wiki/インダクションポッド "wikilink")は禁止とされているが、年代が合わない類は当時F1のルールである[レギュレーションが一般に認知されていない時代で](https://ja.wikipedia.org/wiki/F1レギュレーション "wikilink")、見た目重視で選出されたと思われる。
+1.  筐体両脇のカラーリングモチーフは[1975年](../Page/1975年.md "wikilink")型[フェラーリ・312T](https://ja.wikipedia.org/wiki/フェラーリ・312T "wikilink")を思わせる。F1史実上[1976年](../Page/1976年.md "wikilink")に頭上に来る大型[インダクションポッド](https://ja.wikipedia.org/wiki/インダクションポッド "wikilink")は禁止とされているが、年代が合わない類は当時F1のルールである[レギュレーションが一般に認知されていない時代で](https://ja.wikipedia.org/wiki/F1レギュレーション "wikilink")、見た目重視で選出されたと思われる。
 2.  以後、俯瞰視点疑似3D作品である『ターボ』もこのコンパネ方式が採用される
 3.
 4.

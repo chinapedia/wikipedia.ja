@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ボストン・ユナイテッドFC](https://ja.wikipedia.org/wiki/ボストン・ユナイテッドFC)から翻訳されています。
 
 
 **ボストン・ユナイテッド・フットボール・クラブ**（**Boston United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[リンカンシャー州](https://ja.wikipedia.org/wiki/リンカンシャー州 "wikilink")・[ボストンを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/ボストン_\(イングランド\) "wikilink")。2012-2013シーズンは[カンファレンス・ノース](https://ja.wikipedia.org/wiki/カンファレンス・ノース "wikilink")（6部相当）に所属。
@@ -58,11 +58,11 @@
 
 **最多観客動員試合**
 
-  - 11,000人 vs [ダービー・カウンティ](https://ja.wikipedia.org/wiki/ダービー・カウンティFC "wikilink") FAカップ3回戦・再試合 1974.1.9
+  - 11,000人 vs [ダービー・カウンティ](../Page/ダービー・カウンティFC.md "wikilink") FAカップ3回戦・再試合 1974.1.9
 
 **最多得点勝利試合（リーグ）**
 
-  - 6-0 vs [シュルーズベリー・タウン](https://ja.wikipedia.org/wiki/シュルーズベリー・タウンFC "wikilink") 2002.12.21
+  - 6-0 vs [シュルーズベリー・タウン](../Page/シュルーズベリー・タウンFC.md "wikilink") 2002.12.21
 
 **最多失点敗戦試合**
 

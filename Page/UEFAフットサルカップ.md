@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFAフットサルカップ](https://ja.wikipedia.org/wiki/UEFAフットサルカップ)から翻訳されています。
 
 
 **UEFAフットサルチャンピオンズリーグ**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の大陸選手権大会である。フットサルヨーロッパクラブ選手権に代わって2001-2002シーズンに始まった。2018–19シーズンより**UEFAフットサルチャンピオンズリーグ**に変更された\[1\]。
@@ -70,7 +70,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009/10</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SLベンフィカ" title="wikilink">SLベンフィカ</a></strong></p></td>
+<td><p><strong><a href="../Page/SLベンフィカ.md" title="wikilink">SLベンフィカ</a></strong></p></td>
 <td><p><strong>3-2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルビューFS" title="wikilink">インテル・モビスター</a></p></td>
 </tr>
@@ -78,7 +78,7 @@
 <td><p>2010/11</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/モンテシルバーノ" title="wikilink">モンテシルバーノ</a></strong></p></td>
 <td><p><strong>5-2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル" title="wikilink">スポルティングCP</a></p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011/12</p></td>
@@ -135,7 +135,7 @@
 
   - 5回: [インテルFS](../Page/インテルFS.md "wikilink")
   - 2回: [プラジャス・デ・カステジョン](https://ja.wikipedia.org/wiki/プラジャス・デ・カステジョン "wikilink")、[FCバルセロナ](../Page/FCバルセロナ_\(フットサル\).md "wikilink")、[カイラト](https://ja.wikipedia.org/wiki/AFCカイラト "wikilink")
-  - 1回: [アクション21シャルルロア](https://ja.wikipedia.org/wiki/アクション21シャルルロア "wikilink")、[ディナモ・モスクワ](https://ja.wikipedia.org/wiki/MFKディナモ・モスクワ "wikilink")、[SLベンフィカ](https://ja.wikipedia.org/wiki/SLベンフィカ "wikilink")、[シナラ](https://ja.wikipedia.org/wiki/MFKシナラ "wikilink")、モンテシルバーノ、[ユグラ・ユゴルスク](https://ja.wikipedia.org/wiki/MFKガズプロム＝ユグラ "wikilink")、スポルティング
+  - 1回: [アクション21シャルルロア](https://ja.wikipedia.org/wiki/アクション21シャルルロア "wikilink")、[ディナモ・モスクワ](https://ja.wikipedia.org/wiki/MFKディナモ・モスクワ "wikilink")、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")、[シナラ](https://ja.wikipedia.org/wiki/MFKシナラ "wikilink")、モンテシルバーノ、[ユグラ・ユゴルスク](https://ja.wikipedia.org/wiki/MFKガズプロム＝ユグラ "wikilink")、スポルティング
 
 ## 脚注
 

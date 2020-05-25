@@ -87,7 +87,7 @@
   - Keyboards: SHINGO KOBAYASHI
   - Sax: MASATO HONDA
   - Strings: KATOH JOE GROUP
-  - Guitar Sound Manipulation: [YOSHIYUKI“BUTCHER”ASANO](https://ja.wikipedia.org/wiki/浅野祥之 "wikilink")
+  - Guitar Sound Manipulation: [YOSHIYUKI“BUTCHER”ASANO](../Page/浅野祥之.md "wikilink")
 
 ### Tsugaru (KEIKO)
 
@@ -163,7 +163,7 @@
 {{-}}
 
   - A.Guitar: TOSHIKI KADOMATSU (Toshiki Kadomatsu plays the guitar made by Terry)
-  - E.Piano, A.Piano: [HIROSHI SATOH](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink") (COURTESY OF [ALFA](https://ja.wikipedia.org/wiki/アルファレコード "wikilink"))
+  - E.Piano, A.Piano: [HIROSHI SATOH](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink") (COURTESY OF [ALFA](../Page/アルファレコード.md "wikilink"))
   - Strings: KATOH JOE GROUP
 
 ### スタッフ
@@ -176,7 +176,7 @@
   - ARTIST & RECORDING MANAGEMENT: HIDETOSHI KOBAYASHI (MARMALADE)
   - RECORDING MANAGEMENT: KIYOSHI TERANISHI ([BMG VICTOR](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink"))
   - STUDIO MANAGEMENT: YUKO SASAKI (BMG VICTOR)
-  - ENGINEERS: [EIJI UCHINUMA](https://ja.wikipedia.org/wiki/内沼映二 "wikilink"), TADAHARU SATOH, YOSHIAKI MATSUOKA, MIZUO MIURA, TASUO SEKINE
+  - ENGINEERS: [EIJI UCHINUMA](../Page/内沼映二.md "wikilink"), TADAHARU SATOH, YOSHIAKI MATSUOKA, MIZUO MIURA, TASUO SEKINE
   - ASSISTANT ENGINEERS: SHINICHI KAWASUMI, TADASHI TANAKA
   - MIXED & EDITED BY : EIJI UCHINUMA
   - STUDIOS: SOUND VALLEY, NICHION STUDIO, TOKYU FUN

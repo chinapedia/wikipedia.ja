@@ -1,4 +1,4 @@
-> この記事は[PRESENTS \( \)](https://ja.wikipedia.org/wiki/PRESENTS_\(_\))から翻訳されています。
+> この記事は[PRESENTS \(プリンセス プリンセスのアルバム\)](https://ja.wikipedia.org/wiki/PRESENTS_\(プリンセス_プリンセスのアルバム\))から翻訳されています。
 
 
 『**PRESENTS**』（プレゼント）は、[1994年](../Page/1994年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
@@ -61,6 +61,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-2964/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-2964)
 
 [Category:プリンセス_プリンセスのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのベスト・アルバム "wikilink") [Category:1994年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のベスト・アルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")

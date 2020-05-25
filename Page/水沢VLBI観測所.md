@@ -1,4 +1,4 @@
-> この記事は[VLBI](https://ja.wikipedia.org/wiki/VLBI)から翻訳されています。
+> この記事は[水沢VLBI観測所](https://ja.wikipedia.org/wiki/水沢VLBI観測所)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:20m_antenna_for_VERA.jpg "wikilink") **水沢VLBI観測所**（みずさわVLBIかんそくしょ）とは、[岩手県](../Page/岩手県.md "wikilink")[奥州市](../Page/奥州市.md "wikilink")[水沢星ガ丘町にある](../Page/水沢市.md "wikilink")[国立天文台](../Page/国立天文台.md "wikilink")の[観測所である](../Page/天文台.md "wikilink")。
@@ -41,6 +41,8 @@
 力学補正時刻である[うるう秒](https://ja.wikipedia.org/wiki/うるう秒 "wikilink")に関しては、本観測所はあくまでも観測データを供給する観測所であるので、その決定は情報通信研究機構などで実施している。本観測所の原子時計は、UTC局からの指示を受けて、同時に補正を行っている。
 
 [2004年](../Page/2004年.md "wikilink")稼動の"AOS"は、Astronomical Online Systemのこと。"1Gigabit/sec=128MByte/sec"の専用線通信によって、VERA局をオンラインで結ぶシステムのこと。このシステムが稼動する以前は、観測点での観測データにタイムスタンプをマークした磁気テープを解析器に掛けて、相関演算を行う必要があった。現在のシステムの場合には、観測データと同時にタイムマークデータを専用線で送ることで、直接相関演算を行い、解析が可能になっている。
+
+[2019年](../Page/2019年.md "wikilink")からは、[ブラックホール](../Page/ブラックホール.md "wikilink")の影を世界で初めて撮影したチームに参加した[本間希樹](https://ja.wikipedia.org/wiki/本間希樹 "wikilink")が所長を務めることとなったが、2020年度の天文台関連の予算は半分程度に減額されることとなっており、観測所でも人員の補充が行われないなど研究に大きな影響が出る見込み\[1\]。
 
 ## 敷地内施設概要
 
@@ -103,6 +105,12 @@
 
 国立天文台の他の観測所と同じで、年末年始を除き9時から17時まで一般見学可能（奥州宇宙遊学館及び木村榮記念館は、年末年始のほか火曜休館）。パンフレットは奥州宇宙遊学館で配布している。
 
+## その他
+
+  - 敷地内には、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")-[2009年](../Page/2009年.md "wikilink")にかけて[若田光一](../Page/若田光一.md "wikilink")とともに[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")を往復した宇宙桜（ウバヒガンザクラ）が植樹されている\[2\]。
+
+## 脚注
+
 ## 関連項目
 
   - [教育](../Page/教育.md "wikilink") - [研究所](../Page/研究所.md "wikilink") - [天文台](../Page/天文台.md "wikilink") - [公開天文台一覧](../Page/公開天文台一覧.md "wikilink") - [国立天文台](../Page/国立天文台.md "wikilink")
@@ -124,3 +132,6 @@
       - [奥州宇宙遊学館](http://uchuyugakukan.com/)
 
 [Category:国立天文台](https://ja.wikipedia.org/wiki/Category:国立天文台 "wikilink") [Category:電波望遠鏡](https://ja.wikipedia.org/wiki/Category:電波望遠鏡 "wikilink") [Category:奥州市の建築物](https://ja.wikipedia.org/wiki/Category:奥州市の建築物 "wikilink") [Category:測地学](https://ja.wikipedia.org/wiki/Category:測地学 "wikilink") [Category:宮沢賢治](https://ja.wikipedia.org/wiki/Category:宮沢賢治 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink") [Category:岩手県の登録有形文化財](https://ja.wikipedia.org/wiki/Category:岩手県の登録有形文化財 "wikilink")
+
+1.
+2.

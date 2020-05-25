@@ -1,4 +1,4 @@
-> この記事は[IPCC4](https://ja.wikipedia.org/wiki/IPCC4)から翻訳されています。
+> この記事は[IPCC第4次評価報告書](https://ja.wikipedia.org/wiki/IPCC第4次評価報告書)から翻訳されています。
 
 
 **IPCC第4次評価報告書**（あいぴーしーしーだいよじひょうかほうこくしょ、[英語](../Page/英語.md "wikilink")：IPCC Fourth Assessment Report）とは、[国連下部組織の](../Page/国際連合.md "wikilink")[気候変動に関する政府間パネル](../Page/気候変動に関する政府間パネル.md "wikilink")（IPCC）によって発行された、[地球温暖化](../Page/地球温暖化.md "wikilink")に関する報告書である。

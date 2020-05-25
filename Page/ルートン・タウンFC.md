@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ルートン・タウンFC](https://ja.wikipedia.org/wiki/ルートン・タウンFC)から翻訳されています。
 
 
-**ルートン・タウン・フットボール・クラブ**（**Luton Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")南東部、[ベッドフォードシャー州](https://ja.wikipedia.org/wiki/ベッドフォードシャー州 "wikilink")、[ルートン](https://ja.wikipedia.org/wiki/ルートン "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[EFLチャンピオンシップ](https://ja.wikipedia.org/wiki/EFLチャンピオンシップ "wikilink")（2部相当）に所属。
+**ルートン・タウン・フットボール・クラブ**（**Luton Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")南東部、[ベッドフォードシャー州](https://ja.wikipedia.org/wiki/ベッドフォードシャー州 "wikilink")、[ルートン](https://ja.wikipedia.org/wiki/ルートン "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[EFLチャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")（2部相当）に所属。
 
 ## 歴史
 
@@ -587,9 +587,9 @@
 
 ### DF
 
-  - [ギャリー・ドハーティ](https://ja.wikipedia.org/wiki/ギャリー・ドハーティ "wikilink") 1997-2000
+  - [ギャリー・ドハーティ](../Page/ギャリー・ドハーティ.md "wikilink") 1997-2000
 
-  - [マルクス・ヘイッキネン](https://ja.wikipedia.org/wiki/マルクス・ヘイッキネン "wikilink") 2005-2007
+  - [マルクス・ヘイッキネン](../Page/マルクス・ヘイッキネン.md "wikilink") 2005-2007
 
   - [クリス・ペリー](https://ja.wikipedia.org/wiki/クリス・ペリー_\(サッカー選手\) "wikilink") 2007-2008
 

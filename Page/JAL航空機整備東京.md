@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JAL航空機整備東京](https://ja.wikipedia.org/wiki/JAL航空機整備東京)から翻訳されています。
 
 
 **株式会社JAL航空機整備東京**は（ジャルこうくうきせいびとうきょう）は、かつて[東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")内の新整備地区に本社を置いていた[日本航空](../Page/日本航空.md "wikilink")グループの機材全般の点検･整備を行っていた、[日本航空インターナショナル](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")の子会社である。[国土交通省](../Page/国土交通省.md "wikilink")[航空局](../Page/航空局.md "wikilink")の機材整備も受託していた。

@@ -1,7 +1,7 @@
-> この記事は[RC \(\)](https://ja.wikipedia.org/wiki/RC_\(\))から翻訳されています。
+> この記事は[RC \(野球\)](https://ja.wikipedia.org/wiki/RC_\(野球\))から翻訳されています。
 
 
-**RC**(*Runs Created*)とは、[野球](../Page/野球.md "wikilink")において[打者](https://ja.wikipedia.org/wiki/打者 "wikilink")を評価する指標の一つ。[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")における[セイバーメトリクス](https://ja.wikipedia.org/wiki/セイバーメトリクス "wikilink")の第一人者[ビル・ジェームズ](https://ja.wikipedia.org/wiki/ビル・ジェームズ "wikilink")により考案された個人の得点能力を表す総合指標の一つ。
+**RC**(*Runs Created*)とは、[野球](../Page/野球.md "wikilink")において[打者](../Page/打者.md "wikilink")を評価する指標の一つ。[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")における[セイバーメトリクス](../Page/セイバーメトリクス.md "wikilink")の第一人者[ビル・ジェームズ](https://ja.wikipedia.org/wiki/ビル・ジェームズ "wikilink")により考案された個人の得点能力を表す総合指標の一つ。
 
 ## 概要
 
@@ -16,14 +16,14 @@
 RCは何度か改良が加えられたが、この指標の基本は**（出塁能力A × 進塁能力B）/ 出塁機会C**を基に構成されている。
 
   -
-    A = [安打](https://ja.wikipedia.org/wiki/安打 "wikilink") + [四球](../Page/四球.md "wikilink") + [死球](../Page/死球.md "wikilink") - [盗塁](https://ja.wikipedia.org/wiki/盗塁 "wikilink")死 - [併殺打](https://ja.wikipedia.org/wiki/併殺打 "wikilink")
-    B = [塁打](https://ja.wikipedia.org/wiki/塁打 "wikilink") + 0.26 ×（[四球](../Page/四球.md "wikilink") + [死球](../Page/死球.md "wikilink")） + 0.53 ×（[犠飛](https://ja.wikipedia.org/wiki/犠飛 "wikilink") + [犠打](../Page/犠打.md "wikilink")） + 0.64 × [盗塁](https://ja.wikipedia.org/wiki/盗塁 "wikilink") - 0.03 × [三振](https://ja.wikipedia.org/wiki/三振 "wikilink")
-    C = [打数](https://ja.wikipedia.org/wiki/打数 "wikilink") + [四球](../Page/四球.md "wikilink") + [死球](../Page/死球.md "wikilink") + [犠飛](https://ja.wikipedia.org/wiki/犠飛 "wikilink") + [犠打](../Page/犠打.md "wikilink")
+    A = [安打](https://ja.wikipedia.org/wiki/安打 "wikilink") + [四球](../Page/四球.md "wikilink") + [死球](../Page/死球.md "wikilink") - [盗塁](../Page/盗塁.md "wikilink")死 - [併殺打](https://ja.wikipedia.org/wiki/併殺打 "wikilink")
+    B = [塁打](../Page/塁打.md "wikilink") + 0.26 ×（[四球](../Page/四球.md "wikilink") + [死球](../Page/死球.md "wikilink")） + 0.53 ×（[犠飛](https://ja.wikipedia.org/wiki/犠飛 "wikilink") + [犠打](../Page/犠打.md "wikilink")） + 0.64 × [盗塁](../Page/盗塁.md "wikilink") - 0.03 × [三振](https://ja.wikipedia.org/wiki/三振 "wikilink")
+    C = [打数](../Page/打数.md "wikilink") + [四球](../Page/四球.md "wikilink") + [死球](../Page/死球.md "wikilink") + [犠飛](https://ja.wikipedia.org/wiki/犠飛 "wikilink") + [犠打](../Page/犠打.md "wikilink")
 
     \(RC = \left ( \frac{(A+2.4C)\;(B+3C)}{9C} \right ) - 0.9C\)
 
 
-同じ得点との相関を示した[OPSなどより難解な計算方法となっているが](https://ja.wikipedia.org/wiki/OPS_\(野球\) "wikilink")、OPSの欠陥として指摘されていた走塁能力（[盗塁](https://ja.wikipedia.org/wiki/盗塁 "wikilink")）を考慮したため、より正確な得点能力を算出できるようになった。これによってリードオフマンとパワーヒッターなどの全くタイプ・役割の違う選手同士を平等に比較できるようになった。
+同じ得点との相関を示した[OPSなどより難解な計算方法となっているが](../Page/OPS_\(野球\).md "wikilink")、OPSの欠陥として指摘されていた走塁能力（[盗塁](../Page/盗塁.md "wikilink")）を考慮したため、より正確な得点能力を算出できるようになった。これによってリードオフマンとパワーヒッターなどの全くタイプ・役割の違う選手同士を平等に比較できるようになった。
 RCはチームの他選手や打順に左右される打点や得点を補正する点では優れているが、その性質上打席が多いほど大きくなる傾向があり、打席数の大きく異なる選手を比較することには向いていない。そのため、RCを応用し打席数を均等化した指標としてRC27が使われることがある。
 
 ### RC27
@@ -31,7 +31,7 @@ RCはチームの他選手や打順に左右される打点や得点を補正す
 **RC27**(*Runs Created per 27 outs*)はRCを元にある特定の選手1人で構成された打線で試合を行った場合、27アウト（9イニング×3アウト=1試合）で平均何点とれるかを算出した指標。
 この数値が大きいほど、その選手の総合的な得点能力が優れているとされる。
 ただし、欠陥として場合によってはマイナス値になることがある。\[1\]
-:TO = [打数](https://ja.wikipedia.org/wiki/打数 "wikilink") - [安打](https://ja.wikipedia.org/wiki/安打 "wikilink") + [犠打](../Page/犠打.md "wikilink") + [犠飛](https://ja.wikipedia.org/wiki/犠飛 "wikilink") + [盗塁死](https://ja.wikipedia.org/wiki/盗塁死 "wikilink") + [併殺打](https://ja.wikipedia.org/wiki/併殺打 "wikilink")
+:TO = [打数](../Page/打数.md "wikilink") - [安打](https://ja.wikipedia.org/wiki/安打 "wikilink") + [犠打](../Page/犠打.md "wikilink") + [犠飛](https://ja.wikipedia.org/wiki/犠飛 "wikilink") + [盗塁死](https://ja.wikipedia.org/wiki/盗塁死 "wikilink") + [併殺打](https://ja.wikipedia.org/wiki/併殺打 "wikilink")
 
 \[RC27 = \frac{27RC}{TO}\]
 
@@ -62,23 +62,23 @@ RCAAを勝利数に変換したものを**RCWIN**と呼ぶ。RCAAは単位がRC 
 | -- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----- | ------------------------------------------------------- |
 | 1  | [王貞治](../Page/王貞治.md "wikilink")                                          | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")       | 14.98 | [1974年](../Page/1974年.md "wikilink")                    |
 | 2  | 王貞治                                                                       | 読売ジャイアンツ                                                            | 14.02 | [1973年](../Page/1973年.md "wikilink")                    |
-| 3  | [ランディ・バース](https://ja.wikipedia.org/wiki/ランディ・バース "wikilink")             | [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")         | 13.87 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") |
-| 4  | [アレックス・カブレラ](https://ja.wikipedia.org/wiki/アレックス・カブレラ "wikilink")         | [西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")       | 13.15 | [2002年](../Page/2002年.md "wikilink")                    |
+| 3  | [ランディ・バース](../Page/ランディ・バース.md "wikilink")                                | [阪神タイガース](../Page/阪神タイガース.md "wikilink")                            | 13.87 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") |
+| 4  | [アレックス・カブレラ](../Page/アレックス・カブレラ.md "wikilink")                            | [西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")       | 13.15 | [2002年](../Page/2002年.md "wikilink")                    |
 | 5  | 王貞治                                                                       | 読売ジャイアンツ                                                            | 13.00 | [1966年](../Page/1966年.md "wikilink")                    |
 | 6  | [落合博満](../Page/落合博満.md "wikilink")                                        | [ロッテオリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink")                        | 12.94 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") |
 | 7  | 落合博満                                                                      | ロッテオリオンズ                                                            | 12.84 | 1986年                                                   |
 | 8  | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.64 | [1967年](../Page/1967年.md "wikilink")                    |
 | 9  | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.63 | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") |
-| 10 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.52 | [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") |
+| 10 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.52 | [1976年](../Page/1976年.md "wikilink")                    |
 | 11 | [松中信彦](https://ja.wikipedia.org/wiki/松中信彦 "wikilink")                     | [福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink") | 12.43 | [2004年](../Page/2004年.md "wikilink")                    |
 | 12 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.12 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") |
 | 13 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.08 | [1965年](../Page/1965年.md "wikilink")                    |
-| 14 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.07 | [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") |
+| 14 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 12.07 | [1970年](../Page/1970年.md "wikilink")                    |
 | 15 | [ウラディミール・バレンティン](https://ja.wikipedia.org/wiki/ウラディミール・バレンティン "wikilink") | [東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink") | 12.06 | [2013年](../Page/2013年.md "wikilink")                    |
 | 16 | [張本勲](../Page/張本勲.md "wikilink")                                          | [東映フライヤーズ](../Page/北海道日本ハムファイターズ.md "wikilink")                     | 11.97 | 1970年                                                   |
-| 17 | [大下弘](https://ja.wikipedia.org/wiki/大下弘 "wikilink")                       | 東急フライヤーズ                                                            | 11.92 | [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") |
+| 17 | [大下弘](../Page/大下弘.md "wikilink")                                          | 東急フライヤーズ                                                            | 11.92 | [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") |
 | 18 | [松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")                     | 読売ジャイアンツ                                                            | 11.79 | [2002年](../Page/2002年.md "wikilink")                    |
-| 19 | 落合博満                                                                      | [中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")         | 11.69 | [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") |
+| 19 | 落合博満                                                                      | [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")                            | 11.69 | [1991年](../Page/1991年.md "wikilink")                    |
 | 20 | 王貞治                                                                       | 読売ジャイアンツ                                                            | 11.68 | [1977年](../Page/1977年.md "wikilink")                    |
 |    |                                                                           |                                                                     |       |                                                         |
 
@@ -88,7 +88,7 @@ RCAAを勝利数に変換したものを**RCWIN**と呼ぶ。RCAAは単位がRC 
 | -- | -------------------------------------------------------- | ------ |
 | 1  | 王貞治                                                      | 142.20 |
 | 2  | 張本勲                                                      | 85.09  |
-| 3  | [長嶋茂雄](https://ja.wikipedia.org/wiki/長嶋茂雄 "wikilink")    | 76.13  |
+| 3  | [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")                       | 76.13  |
 | 4  | 落合博満                                                     | 62.80  |
 | 5  | [野村克也](../Page/野村克也.md "wikilink")                       | 61.21  |
 | 6  | [門田博光](../Page/門田博光.md "wikilink")                       | 53.42  |
@@ -103,19 +103,19 @@ RCAAを勝利数に変換したものを**RCWIN**と呼ぶ。RCAAは単位がRC 
 
 ### シーズンRCWIN
 
-| 順位 | 選手名                                                           | 所属球団(記録当時)                                                    | RCWIN | 記録年                                                     |
-| -- | ------------------------------------------------------------- | ------------------------------------------------------------- | ----- | ------------------------------------------------------- |
-| 1  | [王貞治](../Page/王貞治.md "wikilink")                              | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink") | 10.98 | [1973年](../Page/1973年.md "wikilink")                    |
-| 2  | 王貞治                                                           | 読売ジャイアンツ                                                      | 9.72  | [1966年](../Page/1966年.md "wikilink")                    |
-| 3  | 王貞治                                                           | 読売ジャイアンツ                                                      | 9.65  | [1965年](../Page/1965年.md "wikilink")                    |
-| 4  | 王貞治                                                           | 読売ジャイアンツ                                                      | 9.48  | [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") |
-| 5  | 王貞治                                                           | 読売ジャイアンツ                                                      | 9.13  | [1964年](../Page/1964年.md "wikilink")                    |
-| 6  | 王貞治                                                           | 読売ジャイアンツ                                                      | 9.03  | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") |
-| 7  | 王貞治                                                           | 読売ジャイアンツ                                                      | 9.02  | 1974年                                                   |
-| 8  | 王貞治                                                           | 読売ジャイアンツ                                                      | 8.95  | [1965年](../Page/1965年.md "wikilink")                    |
-| 9  | 王貞治                                                           | 読売ジャイアンツ                                                      | 8.88  | [1967年](../Page/1967年.md "wikilink")                    |
-| 10 | [ランディ・バース](https://ja.wikipedia.org/wiki/ランディ・バース "wikilink") | [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")   | 8.83  | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") |
-|    |                                                               |                                                               |       |                                                         |
+| 順位 | 選手名                                        | 所属球団(記録当時)                                                    | RCWIN | 記録年                                                     |
+| -- | ------------------------------------------ | ------------------------------------------------------------- | ----- | ------------------------------------------------------- |
+| 1  | [王貞治](../Page/王貞治.md "wikilink")           | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink") | 10.98 | [1973年](../Page/1973年.md "wikilink")                    |
+| 2  | 王貞治                                        | 読売ジャイアンツ                                                      | 9.72  | [1966年](../Page/1966年.md "wikilink")                    |
+| 3  | 王貞治                                        | 読売ジャイアンツ                                                      | 9.65  | [1965年](../Page/1965年.md "wikilink")                    |
+| 4  | 王貞治                                        | 読売ジャイアンツ                                                      | 9.48  | [1970年](../Page/1970年.md "wikilink")                    |
+| 5  | 王貞治                                        | 読売ジャイアンツ                                                      | 9.13  | [1964年](../Page/1964年.md "wikilink")                    |
+| 6  | 王貞治                                        | 読売ジャイアンツ                                                      | 9.03  | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") |
+| 7  | 王貞治                                        | 読売ジャイアンツ                                                      | 9.02  | 1974年                                                   |
+| 8  | 王貞治                                        | 読売ジャイアンツ                                                      | 8.95  | [1965年](../Page/1965年.md "wikilink")                    |
+| 9  | 王貞治                                        | 読売ジャイアンツ                                                      | 8.88  | [1967年](../Page/1967年.md "wikilink")                    |
+| 10 | [ランディ・バース](../Page/ランディ・バース.md "wikilink") | [阪神タイガース](../Page/阪神タイガース.md "wikilink")                      | 8.83  | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") |
+|    |                                            |                                                               |       |                                                         |
 
   - [2017年](../Page/2017年.md "wikilink")終了時点
 
@@ -123,9 +123,9 @@ RCAAを勝利数に変換したものを**RCWIN**と呼ぶ。RCAAは単位がRC 
 
 ## 関連項目
 
-  - [野球の各種記録](https://ja.wikipedia.org/wiki/野球の各種記録 "wikilink")
-  - [セイバーメトリクス](https://ja.wikipedia.org/wiki/セイバーメトリクス "wikilink")
-  - [OPS](https://ja.wikipedia.org/wiki/OPS_\(野球\) "wikilink")
+  - [野球の各種記録](../Page/野球の各種記録.md "wikilink")
+  - [セイバーメトリクス](../Page/セイバーメトリクス.md "wikilink")
+  - [OPS](../Page/OPS_\(野球\).md "wikilink")
 
 [Category:セイバーメトリクス](https://ja.wikipedia.org/wiki/Category:セイバーメトリクス "wikilink") [Category:バッティング_(野球)](https://ja.wikipedia.org/wiki/Category:バッティング_\(野球\) "wikilink")
 

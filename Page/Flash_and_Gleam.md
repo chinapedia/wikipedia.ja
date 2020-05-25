@@ -1,7 +1,7 @@
 > この記事は[Flash and Gleam](https://ja.wikipedia.org/wiki/Flash_and_Gleam)から翻訳されています。
 
 
-『**Flash and Gleam**』（フラッシュ・アンド・グリーム）は、[レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")のライブアルバム。[SPEEDSTAR RECORDSより](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")発売。
+『**Flash and Gleam**』（フラッシュ・アンド・グリーム）は、[レミオロメン](../Page/レミオロメン.md "wikilink")のライブアルバム。[SPEEDSTAR RECORDSより](../Page/SPEEDSTAR_RECORDS.md "wikilink")[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")発売。
 
 ## 概要
 
@@ -14,20 +14,20 @@
 ### Disc 1
 
 1.  **[モラトリアム](../Page/モラトリアム_\(曲\).md "wikilink")**
-2.  **[1-2 Love Forever](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
+2.  **[1-2 Love Forever](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
 3.  **[ドッグイヤー](https://ja.wikipedia.org/wiki/ether "wikilink")**
-4.  **[傘クラゲ](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
+4.  **[傘クラゲ](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
 5.  **[五月雨](https://ja.wikipedia.org/wiki/アカシア_\(レミオロメンの曲\) "wikilink")**
-6.  **[シフト](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
-7.  **[MONSTER](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
-8.  **[紙ふぶき](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
+6.  **[シフト](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
+7.  **[MONSTER](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
+8.  **[紙ふぶき](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
 9.  **[粉雪](../Page/粉雪_\(レミオロメンの曲\).md "wikilink")**
 10. **[南風](../Page/南風_\(レミオロメンの曲\).md "wikilink")**
 11. **[雨上がり](https://ja.wikipedia.org/wiki/雨上がり_\(レミオロメンの曲\) "wikilink")**
-12. **[スタンドバイミー](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
+12. **[スタンドバイミー](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
 13. **[3月9日](../Page/3月9日_\(曲\).md "wikilink")**
 14. **[太陽の下](../Page/太陽の下.md "wikilink")**
-15. **[流星](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\) "wikilink")**
+15. **[流星](../Page/HORIZON_\(レミオロメンのアルバム\).md "wikilink")**
 
 ### Disc 2
 
@@ -36,7 +36,7 @@
 <!-- end list -->
 
   -
-    失恋ソングのようだが、ボーカル＆ギターの藤巻亮太の独白ソングとされている。PVは[静岡県](../Page/静岡県.md "wikilink")・[御前崎](https://ja.wikipedia.org/wiki/御前崎 "wikilink")の沖合2キロで撮影（このあたりは海難事故が多いらしい）され、[MVA](https://ja.wikipedia.org/wiki/MVA "wikilink")の「BEST CONCEPTUAL VIDEO」（2007年）を受賞。
+    失恋ソングのようだが、ボーカル＆ギターの藤巻亮太の独白ソングとされている。PVは[静岡県](../Page/静岡県.md "wikilink")・[御前崎](../Page/御前崎.md "wikilink")の沖合2キロで撮影（このあたりは海難事故が多いらしい）され、[MVA](https://ja.wikipedia.org/wiki/MVA "wikilink")の「BEST CONCEPTUAL VIDEO」（2007年）を受賞。
     ライブでは曲の最後に壮大なバンドアンサンブルが演奏される。
     なお、このPVで溺れている主人公は藤巻自身が演じており、スタントマンではない。ひたすら走ったシーンも撮影されたが全てカットされた。
 

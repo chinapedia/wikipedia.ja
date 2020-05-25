@@ -6,7 +6,7 @@
 ## 概要
 
   - 「[LOVE NEVER DIES](../Page/LOVE_NEVER_DIES.md "wikilink")」以降、本作まで5作連続で桜井がリードヴォーカルを務める。
-  - タイトル曲が[東映](../Page/東映.md "wikilink")アニメ映画『[金田一少年の事件簿2 殺戮のディープブルー](https://ja.wikipedia.org/wiki/金田一少年の事件簿_\(アニメ\) "wikilink")』主題歌として使用された。[小学館](../Page/小学館.md "wikilink")系の漫画を原作としないアニメ映画の主題歌を歌うのは、[1984年](../Page/1984年.md "wikilink")の「[STARSHIP -光を求めて-](../Page/STARSHIP_-光を求めて-.md "wikilink")」以来である。また、THE ALFEE最後の8cmCDシングルである。
+  - タイトル曲が[東映](../Page/東映.md "wikilink")アニメ映画『[金田一少年の事件簿2 殺戮のディープブルー](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")』主題歌として使用された。[小学館](../Page/小学館.md "wikilink")系の漫画を原作としないアニメ映画の主題歌を歌うのは、[1984年](../Page/1984年.md "wikilink")の「[STARSHIP -光を求めて-](../Page/STARSHIP_-光を求めて-.md "wikilink")」以来である。また、THE ALFEE最後の8cmCDシングルである。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
   - [örb](https://ja.wikipedia.org/wiki/orb_\(THE_ALFEEのアルバム\) "wikilink")（\#1,2、örb version）
   - [THE ALFEE 單曲特集](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE BEST 1997-2002 〜aprés Nouvelle Vague〜](../Page/THE_BEST_1997-2002_〜aprés_Nouvelle_Vague〜.md "wikilink")（\#）
-  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](https://ja.wikipedia.org/wiki/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37 "wikilink")（\#1、Re-Mix）
+  - [THE ALFEE 30th ANNIVERSARY HIT SINGLE COLLECTION 37](../Page/THE_ALFEE_30th_ANNIVERSARY_HIT_SINGLE_COLLECTION_37.md "wikilink")（\#1、Re-Mix）
   - [THE ALFEE SINGLE HISTORY VOL.V 1996-2001](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.V_1996-2001 "wikilink")（\#1,2）
 
 ## カタログ

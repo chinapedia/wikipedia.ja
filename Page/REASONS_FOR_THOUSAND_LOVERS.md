@@ -1,13 +1,13 @@
 > この記事は[REASONS FOR THOUSAND LOVERS](https://ja.wikipedia.org/wiki/REASONS_FOR_THOUSAND_LOVERS)から翻訳されています。
 
 
-『**REASONS FOR THOUSAND LOVERS**』（リーズンズ・フォー・サウザンド・ラヴァーズ）は、[1989年](../Page/1989年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算8作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**REASONS FOR THOUSAND LOVERS**』（リーズンズ・フォー・サウザンド・ラヴァーズ）は、[1989年](../Page/1989年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算8作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
 アルバム・タイトルは当初、『GOOD-BYE THOUSAND LOVERS…SEE YOU TONIGHT』（アルバム発売前に行われた、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演と同タイトル）だったが、「（ファンの人達を連想させる“Thousand Lovers”という表記は）ファンのみんなに対して、キツいタイトルかもしれない」との考えから、本タイトルに変更された。
 
-先行シングルとしてリリースされた「[OKINAWA](../Page/OKINAWA.md "wikilink")」\[1\]は本作収録に際し、オープニングSEがイントロに加えられたほか、歌詞が新たに最終行に一行追加されている。また、「飴色の街」と「Reason…」は後に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「飴色の街」はの[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]にて[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")された。
+先行シングルとしてリリースされた「[OKINAWA](../Page/OKINAWA.md "wikilink")」\[1\]は本作収録に際し、オープニングSEがイントロに加えられたほか、歌詞が新たに最終行に一行追加されている。また、「飴色の街」と「Reason…」は後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「飴色の街」はの[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]にて[セルフカバー](../Page/セルフカバー.md "wikilink")された。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
         角松敏生 作詞・作曲・編曲
 5.  **Polar**
       -
-        角松敏生 作詞・作曲 / [Jeff Lober](https://ja.wikipedia.org/wiki/ジェフ・ローバー "wikilink") 編曲
+        角松敏生 作詞・作曲 / [Jeff Lober](../Page/ジェフ・ローバー.md "wikilink") 編曲
 6.  **[OKINAWA](../Page/OKINAWA.md "wikilink")**
       -
         角松敏生 & Mic Murphy 作詞 / 角松敏生-David Frank & Mic Murphy 作曲・編曲
@@ -53,10 +53,10 @@
 
   - Vocal, Synthesizer, Drum Programming: Toshiki Kadomatsu
   - Synthesizer, Computer Manipulator: Kanichiro Kubo
-  - Drums: [Shuichi “Ponta” Murakami](https://ja.wikipedia.org/wiki/村上秀一 "wikilink")
+  - Drums: [Shuichi “Ponta” Murakami](../Page/村上秀一.md "wikilink")
   - Bass: [Tim Bogert](https://ja.wikipedia.org/wiki/ティム・ボガート "wikilink")
-  - Guitar, Guitar Solo: [Jay Graydon](https://ja.wikipedia.org/wiki/ジェイ・グレイドン "wikilink")
-  - Piano: [Jeff Lorber](https://ja.wikipedia.org/wiki/ジェフ・ローバー "wikilink")
+  - Guitar, Guitar Solo: [Jay Graydon](../Page/ジェイ・グレイドン.md "wikilink")
+  - Piano: [Jeff Lorber](../Page/ジェフ・ローバー.md "wikilink")
   - Sax Solo: Kirk Whalum
   - Background Vocals: Curtis King Jr., Brenda White-King, Tawatha Agee
 
@@ -129,7 +129,7 @@
 
 ### Polar
 
-  - Produced by [Jeff Lober](https://ja.wikipedia.org/wiki/ジェフ・ローバー "wikilink")
+  - Produced by [Jeff Lober](../Page/ジェフ・ローバー.md "wikilink")
   - Arranged by Jeff Lober
 
 {{-}}
@@ -216,11 +216,11 @@
 
   - Vocal, Synthesizer, Drum Programming: Toshiki Kadomatsu
   - Synthesizer, Computer Manipulator: Kanichiro Kubo
-  - Drums: [Steve Gadd](https://ja.wikipedia.org/wiki/スティーヴ・ガッド "wikilink")
-  - Bass: [Tomohito Aoki](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")
+  - Drums: [Steve Gadd](../Page/スティーヴ・ガッド.md "wikilink")
+  - Bass: [Tomohito Aoki](../Page/青木智仁.md "wikilink")
   - Guitar: Ira Seagul
   - Guitar Solo: Jay Graydon
-  - Piano: [Richard Tee](https://ja.wikipedia.org/wiki/リチャード・ティー "wikilink")
+  - Piano: [Richard Tee](../Page/リチャード・ティー.md "wikilink")
   - Trumpet: Jerry Hey, Gary Grant
   - Trombone: [Bill Reichenbach](../Page/ビル・ライヒェンバッハ.md "wikilink")
   - Sax Solo: Kim Hutchcroft
@@ -262,7 +262,7 @@
   - PRODUCED BY TOSHIKI KADOMATSU (M-1,2,9,10)
       - [JEFF BOVA](https://ja.wikipedia.org/wiki/:en:Jeff_Bova "wikilink") & JIMMY BRALOWER (M-3)
       - TOSHIKI KADOMATSU & HIRO HOZUMI (M-4)
-      - [JEFF LORBER](https://ja.wikipedia.org/wiki/ジェフ・ローバー "wikilink") (M-5)
+      - [JEFF LORBER](../Page/ジェフ・ローバー.md "wikilink") (M-5)
       - THE SYSTEM; DAVID FRANK & MIC MURPHY (M-6,7)
       - WAYNE BRATHWAITE (M-8)
 

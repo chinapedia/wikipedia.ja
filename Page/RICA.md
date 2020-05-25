@@ -3,16 +3,16 @@
 
 **RICA**（りか、旧名：彩音リカ、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
-出身地：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")。身長：158cm 、[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：B82・W58・H85 、Cカップ。
+出身地：[東京都](../Page/東京都.md "wikilink")。身長：158cm 、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B82・W58・H85 、Cカップ。
 
 ## 略歴
 
-AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ](../Page/カリスマ.md "wikilink")美容部員だった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月 「New Comer」で[マックス・エー](https://ja.wikipedia.org/wiki/マックス・エー "wikilink")専属女優としてAVデビュー\[1\]。6月 マックスエー専属契約終了、RICAの名前で活動するようになった\[2\]。
+AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ](../Page/カリスマ.md "wikilink")美容部員だった。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月 「New Comer」で[マックス・エー](../Page/マックス・エー.md "wikilink")専属女優としてAVデビュー\[1\]。6月 マックスエー専属契約終了、RICAの名前で活動するようになった\[2\]。
 
 ## 人物
 
   - 趣味：[ネイルアート](../Page/ネイルアート.md "wikilink")
-  - 特技：[ミシン](https://ja.wikipedia.org/wiki/ミシン "wikilink")、お菓子作り
+  - 特技：[ミシン](../Page/ミシン.md "wikilink")、お菓子作り
 
 ## 作品
 
@@ -24,10 +24,10 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
 
 <!-- end list -->
 
-  - New Comer（2月8日、[マックス・エー](https://ja.wikipedia.org/wiki/マックス・エー "wikilink")）
-  - MAX GIRLS(2)（2月8日、マックス・エー）他出演:[吉崎直緒](https://ja.wikipedia.org/wiki/吉崎直緒 "wikilink")、[小泉梨菜](../Page/小泉梨菜.md "wikilink")、[篠崎ミサ](https://ja.wikipedia.org/wiki/篠崎ミサ "wikilink")、[有希ちな](https://ja.wikipedia.org/wiki/有希ちな "wikilink")、[長瀬茜](../Page/長瀬茜.md "wikilink")
+  - New Comer（2月8日、[マックス・エー](../Page/マックス・エー.md "wikilink")）
+  - MAX GIRLS(2)（2月8日、マックス・エー）他出演:[吉崎直緒](../Page/吉崎直緒.md "wikilink")、[小泉梨菜](../Page/小泉梨菜.md "wikilink")、[篠崎ミサ](https://ja.wikipedia.org/wiki/篠崎ミサ "wikilink")、[有希ちな](../Page/有希ちな.md "wikilink")、[長瀬茜](../Page/長瀬茜.md "wikilink")
   - 妹の秘密（3月14日、マックス・エー）
-  - MAX GIRLS(3)卒業編（3月14日、マックス・エー）他出演:[希志あいの](https://ja.wikipedia.org/wiki/希志あいの "wikilink")、[灘坂舞](../Page/灘坂舞.md "wikilink")、[北原多香子](https://ja.wikipedia.org/wiki/北原多香子 "wikilink")、小泉梨菜、篠崎ミサ、[くるみひな](https://ja.wikipedia.org/wiki/くるみひな "wikilink")
+  - MAX GIRLS(3)卒業編（3月14日、マックス・エー）他出演:[希志あいの](../Page/希志あいの.md "wikilink")、[灘坂舞](../Page/灘坂舞.md "wikilink")、[北原多香子](../Page/北原多香子.md "wikilink")、小泉梨菜、篠崎ミサ、[くるみひな](https://ja.wikipedia.org/wiki/くるみひな "wikilink")
   - 連続絶頂イカせFUCK（4月11日、マックス・エー）
   - MAX GIRLS(4)新入社員編（4月11日、マックス・エー）他出演:小泉梨菜、くるみひな、有希ちな、篠崎ミサ、北原多香子
   - MAX GIRLS(5)メイド編（5月9日、マックス・エー）篠崎ミサ、小泉梨菜、希志あいの、[伊東遥](https://ja.wikipedia.org/wiki/伊東遥 "wikilink")、[栗林里莉](https://ja.wikipedia.org/wiki/栗林里莉 "wikilink")
@@ -50,8 +50,8 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
 
 <!-- end list -->
 
-  - 極上美形ギャルRICA 誕生×絶頂（8月7日、[ディープス](https://ja.wikipedia.org/wiki/ディープス "wikilink")）
-  - 究極美形の小悪魔エレガントギャルRICA 快楽絶頂コスマニア（9月4日、[ピュアネスプラネット](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド "wikilink")）
+  - 極上美形ギャルRICA 誕生×絶頂（8月7日、[ディープス](../Page/ディープス.md "wikilink")）
+  - 究極美形の小悪魔エレガントギャルRICA 快楽絶頂コスマニア（9月4日、[ピュアネスプラネット](../Page/ソフト・オン・デマンド.md "wikilink")）
   - 可愛い子には、顔射をさせよ。（10月9日、ピュアネスプラネット）
   - 「美人」で「S」な「ギャルお姉さん」（11月6日、ピュアネスプラネット）
   - RICA　無限拘束でイキまくり\!\!（12月4日、ピュアネスプラネット）
@@ -62,14 +62,14 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
 
 <!-- end list -->
 
-  - VANILLA 03（2月3日、[プレステージ](https://ja.wikipedia.org/wiki/プレステージ_\(アダルトビデオ\) "wikilink")）
+  - VANILLA 03（2月3日、[プレステージ](../Page/プレステージ_\(アダルトビデオ\).md "wikilink")）
   - ほっとトゥギャザー 05（2月20日、プレステージ）
   - WATER POLE 69（3月12日、プレステージ）
   - 極嬢（3月19日、[YeLLOW](https://ja.wikipedia.org/wiki/イエロー_\(アダルトビデオ\) "wikilink")）
   - 放課後わりきりバイト 06（4月17日、S級素人）
   - 極嬢GIRLS RICA [沢木樹里](https://ja.wikipedia.org/wiki/沢木樹里 "wikilink") [綾波セナ](https://ja.wikipedia.org/wiki/綾波セナ "wikilink")（4月19日、YeLLOW）
   - LEOPARD 01（5月18日、[レアル・ワークス](https://ja.wikipedia.org/wiki/レアル・ワークス "wikilink")）
-  - VIP STAR STAGE 7（6月12日、[クリスタル映像](https://ja.wikipedia.org/wiki/クリスタル映像 "wikilink")）
+  - VIP STAR STAGE 7（6月12日、[クリスタル映像](../Page/クリスタル映像.md "wikilink")）
   - 脱ぎたてホクホクパンティー手コキ&フェラ4（6月19日、YeLLOW）
   - 完全素人を1年間で48人中出しできるか挑戦\!履いてたパンツもついでにGET\!\! 泥酔編（6月21日、[h.m.p](https://ja.wikipedia.org/wiki/h.m.p "wikilink")）
   - 職場にナイショでAVに出たオンナたち 10（7月21日、h.m.p）
@@ -79,7 +79,7 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
   - ザ・ギャルナン 17（8月20日、[グローリークエスト](https://ja.wikipedia.org/wiki/グローリークエスト "wikilink")）
   - After school @ diary 01（8月21日、[グレイズ](https://ja.wikipedia.org/wiki/GLAY'z "wikilink")）
   - 騎りグセ（9月20日、ピーターズ）
-  - 高額バイト 2 渋谷某有名ギャル服ショップ勤務プリケツ店員のぞみ（11月19日、[ドグマ](https://ja.wikipedia.org/wiki/ドグマ_\(アダルトビデオ\) "wikilink")）
+  - 高額バイト 2 渋谷某有名ギャル服ショップ勤務プリケツ店員のぞみ（11月19日、[ドグマ](../Page/ドグマ_\(アダルトビデオ\).md "wikilink")）
   - 僕の妹はギャル\!こいつが可愛い友達(もちろんギャル♥)を家に連れて来るもんだからつい手を出したら、ヤレた\!\!（12月5日、GARCON）
   - 黒GAL限定コスプレH ギャルレイヤー（12月25日、ユープランニング）
 
@@ -93,9 +93,9 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
   - 僕のママはギャル\!\!親父の再婚相手は超魅力的なギャルだった\!\!（1月7日、GARCON）
   - ロングスカルプギャル\!\!手コキ超48手\!\!\!（1月7日、GARCON）　
   - kira☆kira BLACK GAL SPECIAL ～痴女GALS PARTY～（1月19日、kira☆kira）他出演:[KYOKO](https://ja.wikipedia.org/wiki/KYOKO_\(アダルトビデオ\) "wikilink")、ひなのりく、[彩花ゆめ](../Page/彩花ゆめ.md "wikilink")、泉麻那
-  - 東京ヤリマンギャルナンパDX（1月22日、レアル・ワークス）他出演:[Marie](https://ja.wikipedia.org/wiki/Marie_\(AV女優\) "wikilink")、[鈴木さとみ](https://ja.wikipedia.org/wiki/鈴木さとみ "wikilink")、[叶志穂](https://ja.wikipedia.org/wiki/叶志穂 "wikilink")、[石川みずき](https://ja.wikipedia.org/wiki/石川みずき "wikilink")、[星野あかり](https://ja.wikipedia.org/wiki/星野あかり "wikilink")
+  - 東京ヤリマンギャルナンパDX（1月22日、レアル・ワークス）他出演:[Marie](https://ja.wikipedia.org/wiki/Marie_\(AV女優\) "wikilink")、[鈴木さとみ](../Page/鈴木さとみ.md "wikilink")、[叶志穂](https://ja.wikipedia.org/wiki/叶志穂 "wikilink")、[石川みずき](https://ja.wikipedia.org/wiki/石川みずき "wikilink")、[星野あかり](../Page/星野あかり.md "wikilink")
   - 黒ギャルだょ\!\!全員集合\!\!\!イタズラ逆ナンはマジやばくねぇ～\!\!\!Vol.02（2月4日、GARCON）
-  - 東京GalsベロCity 30（2月15日、[ドリームチケット](https://ja.wikipedia.org/wiki/ドリームチケット "wikilink")）　
+  - 東京GalsベロCity 30（2月15日、[ドリームチケット](../Page/ドリームチケット.md "wikilink")）　
   - Shangri-la Rica（2月25日、Fantasista）
   - The gal’s NIGHT 7 裏ブチアゲPARTY（4月1日、[グローリークエスト](https://ja.wikipedia.org/wiki/グローリークエスト "wikilink")）共演:[紗奈](https://ja.wikipedia.org/wiki/紗奈 "wikilink")
   - 盛りマン 3人のエロ黒ギャルがイクッ\!（4月2日、[映天](https://ja.wikipedia.org/wiki/映天 "wikilink")）共演:[梅宮リナ](https://ja.wikipedia.org/wiki/梅宮リナ "wikilink")、[RUMIKA](https://ja.wikipedia.org/wiki/RUMIKA "wikilink")
@@ -116,8 +116,8 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
 
 <!-- end list -->
 
-  - 究極の黒ギャルマニアックス BLACK4HIPS（1月1日、[アイデアポケット](https://ja.wikipedia.org/wiki/アイデアポケット "wikilink")）他出演:[COCONA](https://ja.wikipedia.org/wiki/COCONA "wikilink")、[星崎キララ](https://ja.wikipedia.org/wiki/星崎キララ "wikilink")、泉麻那
-  - Wギャルヘルパー HINAとRICAの介護性活（1月25日、Fantasista）共演:[大塚ひな](https://ja.wikipedia.org/wiki/大塚ひな "wikilink")
+  - 究極の黒ギャルマニアックス BLACK4HIPS（1月1日、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）他出演:[COCONA](https://ja.wikipedia.org/wiki/COCONA "wikilink")、[星崎キララ](https://ja.wikipedia.org/wiki/星崎キララ "wikilink")、泉麻那
+  - Wギャルヘルパー HINAとRICAの介護性活（1月25日、Fantasista）共演:[大塚ひな](../Page/大塚ひな.md "wikilink")
   - MOODYZファン感謝祭 バコバコバスツアー2011 ギャルの超ハイテンション大乱交ジャングル\!\!（2月13日、MOODYZ）他17名出演
   - パニック寸前\!\!突然急停止したエレベーターの密室でギャル5人に無理矢理抜かれちゃいました\!\! vol.03（3月5日、[GARCON](https://ja.wikipedia.org/wiki/GARCON "wikilink")）共演:[桜りお](https://ja.wikipedia.org/wiki/桜りお "wikilink")、[尾上ライナ](https://ja.wikipedia.org/wiki/尾上ライナ "wikilink")、[高倉舞](https://ja.wikipedia.org/wiki/高倉舞 "wikilink")、[桜庭ハル](../Page/桜庭ハル.md "wikilink")
   - ウンコ排泄まる見え\! S級黒GALうんこ解禁（4月1日、ヴィ）
@@ -138,7 +138,7 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
 
 ## テレビ
 
-  - [エロ生☆パラダイス](https://ja.wikipedia.org/wiki/エロ生☆パラダイス "wikilink") （[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")2008年7月22日放送分）
+  - [エロ生☆パラダイス](../Page/エロ生☆パラダイス.md "wikilink") （[GyaOジョッキー](../Page/GyaOジョッキー.md "wikilink")2008年7月22日放送分）
 
 ## 脚注
 
@@ -146,7 +146,7 @@ AVデビュー前は[伊勢丹](../Page/伊勢丹.md "wikilink")の[カリスマ
 
 ※以下は、[18禁](https://ja.wikipedia.org/wiki/18禁 "wikilink")サイト
 
-  - [RICAのブログ](http://ameblo.jp/jacseay2/) - Ameba Blog ※2011年3月1日～
+  - [RICAのブログ](https://ameblo.jp/jacseay2/) - Ameba Blog ※2011年3月1日～
   - [RICA公式ブログ](http://blog.livedoor.jp/rica_blog/) - livedoor Blog ※～2011年3月1日
   - [彩音リカ公式ブログ](http://blog.livedoor.jp/rika_ayane/) - livedoor Blog ※～2008年7月18日
   - [RICAのプロフィール](http://www.cityheaven.net/s/club_angelheart/A6GirlDetailProfile/?girlId=2205422)

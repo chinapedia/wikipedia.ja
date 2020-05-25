@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チェスターFC](https://ja.wikipedia.org/wiki/チェスターFC)から翻訳されています。
 
 
 **チェスター・フットボール・クラブ**（**Chester Football Club**）は[イングランド](../Page/イングランド.md "wikilink")北西部、[チェシャー州](https://ja.wikipedia.org/wiki/チェシャー州 "wikilink")、[チェスター](../Page/チェスター.md "wikilink")を本拠地としているサッカークラブチームである。2017-2018シーズンは5部相当の[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")に所属している。
@@ -56,13 +56,13 @@
 
 ## 歴代所属選手
 
-  - [イアン・ラッシュ](https://ja.wikipedia.org/wiki/イアン・ラッシュ "wikilink") 1979-1980
+  - [イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink") 1979-1980
 
   - [リー・ディクソン](https://ja.wikipedia.org/wiki/リー・ディクソン "wikilink") 1984-1985
 
   - [ジュニオール・アゴゴ](https://ja.wikipedia.org/wiki/ジュニオール・アゴゴ "wikilink") 1999
 
-  - [イアイン・ターナー](https://ja.wikipedia.org/wiki/イアイン・ターナー "wikilink") 2004
+  - [イアイン・ターナー](../Page/イアイン・ターナー.md "wikilink") 2004
 
   - [クレイグ・リンドフィールド](../Page/クレイグ・リンドフィールド.md "wikilink") 2013-2014
 

@@ -1,7 +1,7 @@
 > この記事は[Simulink](https://ja.wikipedia.org/wiki/Simulink)から翻訳されています。
 
 
-**Simulink**（シミュリンク）は[MathWorks](https://ja.wikipedia.org/wiki/MathWorks "wikilink")社によって開発された、[モデリング](https://ja.wikipedia.org/wiki/モデリング "wikilink")、[シミュレーション](../Page/シミュレーション.md "wikilink")、[解析](https://ja.wikipedia.org/wiki/解析 "wikilink")のためのマルチドメインシミュレーション及びダイナミックシステムである。
+**Simulink**（シミュリンク）は[MathWorks](https://ja.wikipedia.org/wiki/MathWorks "wikilink")社によって開発された、[モデリング](https://ja.wikipedia.org/wiki/モデリング "wikilink")、[シミュレーション](../Page/シミュレーション.md "wikilink")、[解析](../Page/解析.md "wikilink")のためのマルチドメインシミュレーション及びダイナミックシステムである。
 
 ## 概要
 
@@ -9,13 +9,13 @@
 
 [MATLABプロダクトファミリ](http://jp.mathworks.com/products/)の一つであるが、[インストール](../Page/インストール.md "wikilink")されているMATLABの構成によってはSimulinkが構成されていない場合もある。
 
-おもな[インタフェースはグラフィカルな](../Page/インタフェース_\(情報技術\).md "wikilink")[ブロックダイアグラム](https://ja.wikipedia.org/wiki/ブロックダイアグラム "wikilink")ツールと、カスタマイズ可能なブロック[ライブラリ](../Page/ライブラリ.md "wikilink")のセットである。 Simulinkは[MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")環境によって提供され、MATLABとともに動作する。 Simulinkはマルチドメインシミュレーションおよびデザインのために[制御理論](https://ja.wikipedia.org/wiki/制御理論 "wikilink")、[デジタル信号処理](https://ja.wikipedia.org/wiki/デジタル信号処理 "wikilink")などの分野で広く使われている。
+おもな[インタフェースはグラフィカルな](../Page/インタフェース_\(情報技術\).md "wikilink")[ブロックダイアグラム](https://ja.wikipedia.org/wiki/ブロックダイアグラム "wikilink")ツールと、カスタマイズ可能なブロック[ライブラリ](../Page/ライブラリ.md "wikilink")のセットである。 Simulinkは[MATLAB](../Page/MATLAB.md "wikilink")環境によって提供され、MATLABとともに動作する。 Simulinkはマルチドメインシミュレーションおよびデザインのために[制御理論](../Page/制御理論.md "wikilink")、[デジタル信号処理](../Page/デジタル信号処理.md "wikilink")などの分野で広く使われている。
 
 専門分野ごとにブロックがまとめられたブロックセット (blockset) はMathWorks社によって多数用意されているが、ブロックセットによっては特定のToolboxが必要になることもある。たとえばデジタル信号処理で頻繁に使用する[DSP System Toolbox](http://jp.mathworks.com/products/dsp-system/index.html/)の場合、[Signal Processing Toolbox](http://jp.mathworks.com/products/signal/)が必須となる。
 
 ## アドオン製品
 
-MathWorks社、[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")の多くの[ハードウェア](../Page/ハードウェア.md "wikilink")または[ソフトウェア](../Page/ソフトウェア.md "wikilink")・プロダクトはSimulinkに利用できる。
+MathWorks社、[サードパーティー](../Page/サードパーティー.md "wikilink")の多くの[ハードウェア](../Page/ハードウェア.md "wikilink")または[ソフトウェア](../Page/ソフトウェア.md "wikilink")・プロダクトはSimulinkに利用できる。
 
 ### コード生成
 
@@ -23,9 +23,9 @@ MathWorksによる製品の[Simulink Coder](http://jp.mathworks.com/products/sim
 
 また、[Embedded Coder](http://jp.mathworks.com/products/embedded-coder/index.html)は組み込みシステム用の効率的なコードを生成する。
 
-そして[アドオンは](https://ja.wikipedia.org/wiki/機能拡張 "wikilink")、[テキサス・インスツルメンツ](https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ "wikilink")などの[マイコンを含む](../Page/マイクロコンピュータ.md "wikilink")、特定のEmbedded Targetをサポートする。
+そして[アドオンは](https://ja.wikipedia.org/wiki/機能拡張 "wikilink")、[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")などの[マイコンを含む](../Page/マイクロコンピュータ.md "wikilink")、特定のEmbedded Targetをサポートする。
 
-さらに、MathWorksによる[HDL Coder](http://jp.mathworks.com/products/hdl-coder/index.html)を使用することで、Simulinkのブロック線図モデルおよび[Stateflow](https://ja.wikipedia.org/wiki/Stateflow "wikilink")チャートから自動的に[VHDL](https://ja.wikipedia.org/wiki/VHDL "wikilink")および[Verilog](https://ja.wikipedia.org/wiki/Verilog "wikilink")が生成できる。
+さらに、MathWorksによる[HDL Coder](http://jp.mathworks.com/products/hdl-coder/index.html)を使用することで、Simulinkのブロック線図モデルおよび[Stateflow](https://ja.wikipedia.org/wiki/Stateflow "wikilink")チャートから自動的に[VHDL](../Page/VHDL.md "wikilink")および[Verilog](../Page/Verilog.md "wikilink")が生成できる。
 
 ## 関連項目
 
@@ -34,7 +34,7 @@ MathWorksによる製品の[Simulink Coder](http://jp.mathworks.com/products/sim
   - [PLECS](https://ja.wikipedia.org/wiki/PLECS "wikilink")
   - [LMS Imagine.Lab AMESim](https://ja.wikipedia.org/wiki/:en:AMESim "wikilink")
   - [LabVIEW](../Page/LabVIEW.md "wikilink")
-  - [データフロープログラミング](https://ja.wikipedia.org/wiki/データフロープログラミング "wikilink")
+  - [データフロープログラミング](../Page/データフロープログラミング.md "wikilink")
   - [フローベースプログラミング](https://ja.wikipedia.org/wiki/フローベースプログラミング "wikilink") (FBP)
 
 ## 脚注

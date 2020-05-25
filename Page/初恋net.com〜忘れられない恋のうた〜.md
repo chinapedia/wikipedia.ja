@@ -1,4 +1,4 @@
-> この記事は[net.com](https://ja.wikipedia.org/wiki/net.com)から翻訳されています。
+> この記事は[初恋net.com〜忘れられない恋のうた〜](https://ja.wikipedia.org/wiki/初恋net.com〜忘れられない恋のうた〜)から翻訳されています。
 
 
 『**初恋net.com〜忘れられない恋のうた〜**』（はつこいネット・ドットコム・わすれられないこいのうた）は、[2007年](../Page/2007年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から同年[12月22日](../Page/12月22日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")[未明](https://ja.wikipedia.org/wiki/未明 "wikilink")）の24:30～25:00（[JST](../Page/日本標準時.md "wikilink")）に、[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）の[土曜ナイトドラマシリーズで放送されたドラマの題名である](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(ABC\) "wikilink")。[最終回](../Page/最終回.md "wikilink")は15分拡大して放送した。今回のシリーズはシーズンⅠとされていたので、今後、シーズンⅡが放送される可能性もある。

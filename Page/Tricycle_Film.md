@@ -1,13 +1,13 @@
 > この記事は[Tricycle Film](https://ja.wikipedia.org/wiki/Tricycle_Film)から翻訳されています。
 
 
-**TRICYCLE FILM（トライシクルフィルム）**は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")で発足された[自主映画](https://ja.wikipedia.org/wiki/自主映画 "wikilink")制作団体、及び、その後拠点を[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")に移して活動をしていた[フリーランス](../Page/フリーランス.md "wikilink")チーム。現在は、映像作家・[庭月野議啓](https://ja.wikipedia.org/wiki/庭月野議啓 "wikilink")が監督を務める庭月野組（映像作品制作チーム）の別称となっている。
+**TRICYCLE FILM（トライシクルフィルム）**は、[福岡県](../Page/福岡県.md "wikilink")で発足された[自主映画](../Page/自主映画.md "wikilink")制作団体、及び、その後拠点を[東京都](../Page/東京都.md "wikilink")に移して活動をしていた[フリーランス](../Page/フリーランス.md "wikilink")チーム。現在は、映像作家・[庭月野議啓](https://ja.wikipedia.org/wiki/庭月野議啓 "wikilink")が監督を務める庭月野組（映像作品制作チーム）の別称となっている。
 
 ## 歴史
 
 ### 福岡・学生映画 時代
 
-[2002年](../Page/2002年.md "wikilink")～[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") [福岡の](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[九州芸術工科大学](../Page/九州芸術工科大学.md "wikilink")(現・[九州大学](../Page/九州大学.md "wikilink"))で同級生だった庭月野、樋口、辻の3人が、[自主映画](https://ja.wikipedia.org/wiki/自主映画 "wikilink")制作団体を結成。3人、3つの車輪で走るという意味でTRICYCLE([三輪車](../Page/三輪車.md "wikilink")) FILMと命名。 『heavy smoke, innocent light』『オズ』『ユメドリ』などの自主制作映画を制作し、上映会とDVD販売で制作費を回収するなど、当時まだ福岡では珍しかった本格的な[自主映画](https://ja.wikipedia.org/wiki/自主映画 "wikilink")制作団体として話題になる。 庭月野の個人制作短編映画『Relation Goes By...』のTBS DigiCon6+1 にてカテゴリー2優秀賞受賞、樋口が所属するバンド金的三番街が台湾で開催された中国語圏最大のロックフェス『FORMOZ FESTIVAL 2005』に2度出場するなど、 メンバーの個人活動も注目を浴び始め、後の東京における活動への布石となる。
+[2002年](../Page/2002年.md "wikilink")～[2006年](../Page/2006年.md "wikilink") [福岡の](../Page/福岡県.md "wikilink")[九州芸術工科大学](../Page/九州芸術工科大学.md "wikilink")(現・[九州大学](../Page/九州大学.md "wikilink"))で同級生だった庭月野、樋口、辻の3人が、[自主映画](../Page/自主映画.md "wikilink")制作団体を結成。3人、3つの車輪で走るという意味でTRICYCLE([三輪車](../Page/三輪車.md "wikilink")) FILMと命名。 『heavy smoke, innocent light』『オズ』『ユメドリ』などの自主制作映画を制作し、上映会とDVD販売で制作費を回収するなど、当時まだ福岡では珍しかった本格的な[自主映画](../Page/自主映画.md "wikilink")制作団体として話題になる。 庭月野の個人制作短編映画『Relation Goes By...』のTBS DigiCon6+1 にてカテゴリー2優秀賞受賞、樋口が所属するバンド金的三番街が台湾で開催された中国語圏最大のロックフェス『FORMOZ FESTIVAL 2005』に2度出場するなど、 メンバーの個人活動も注目を浴び始め、後の東京における活動への布石となる。
 
 ### 東京・フリーランスチーム 時代
 
@@ -19,7 +19,7 @@
 
 ## 主な在籍メンバー（旧メンバーも含む）
 
-  - 庭月野議啓（[監督](../Page/監督.md "wikilink") / [脚本](../Page/脚本.md "wikilink") / [撮影](https://ja.wikipedia.org/wiki/撮影 "wikilink")　/ [編集](../Page/編集.md "wikilink") ）
+  - 庭月野議啓（[監督](../Page/監督.md "wikilink") / [脚本](../Page/脚本.md "wikilink") / [撮影](../Page/撮影.md "wikilink")　/ [編集](../Page/編集.md "wikilink") ）
 
 <!-- end list -->
 

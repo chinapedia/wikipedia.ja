@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[オールダム・アスレティックAFC](https://ja.wikipedia.org/wiki/オールダム・アスレティックAFC)から翻訳されています。
 
 
 **オールダム・アスレティック・アソシエーション・フットボール・クラブ**（**Oldham Athletic Association Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[グレーター・マンチェスター](../Page/グレーター・マンチェスター.md "wikilink")[オールダム](../Page/オールダム.md "wikilink")地区を本拠地とするサッカークラブチーム。2019-20シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。

@@ -1,0 +1,54 @@
+> この記事は[MediaWiki:Deletereason-dropdown](https://ja.wikipedia.org/wiki/MediaWiki:Deletereason-dropdown)から翻訳されています。
+
+
+  - 削除依頼
+      - 著作権侵害のおそれ
+      - プライバシー侵害のおそれ
+      - 名誉毀損のおそれ
+      - GFDLまたはCC-BY-SA違反
+      - 独自研究
+      - 百科事典に記載するほどの著名性・特筆性がない記事
+      - 百科事典的な記事に成長する見込みのないもの
+      - 完全に異質な記事
+      - 不適切な曖昧さ回避
+      - 過剰に細分化されたカテゴリ
+      - 使用見込みのないカテゴリ
+      - 使用見込みのないテンプレート
+  - 即時削除
+      - [WP:CSD\#全般1](https://ja.wikipedia.org/wiki/WP:CSD#全般1 "wikilink") 意味不明な内容のページ
+      - [WP:CSD\#全般2](https://ja.wikipedia.org/wiki/WP:CSD#全般2 "wikilink") テスト投稿
+      - [WP:CSD\#全般3](https://ja.wikipedia.org/wiki/WP:CSD#全般3 "wikilink") 荒らしもしくはいたずら
+      - [WP:CSD\#全般4](https://ja.wikipedia.org/wiki/WP:CSD#全般4 "wikilink") 露骨な宣伝・広告のみが目的
+      - [WP:CSD\#全般5](https://ja.wikipedia.org/wiki/WP:CSD#全般5 "wikilink") 削除されたページの改善なき再作成
+      - [WP:CSD\#全般6](https://ja.wikipedia.org/wiki/WP:CSD#全般6 "wikilink") ウィキペディア内のコピペによる作成
+      - [WP:CSD\#全般8](https://ja.wikipedia.org/wiki/WP:CSD#全般8 "wikilink") 初版投稿者による依頼または白紙化
+      - [WP:CSD\#全般9](https://ja.wikipedia.org/wiki/WP:CSD#全般9 "wikilink") 明白な著作権侵害
+      - [WP:CSD\#記事1](https://ja.wikipedia.org/wiki/WP:CSD#記事1 "wikilink") 定義なし
+      - [WP:CSD\#記事2](https://ja.wikipedia.org/wiki/WP:CSD#記事2 "wikilink") 言語間リンク・カテゴリ・外部リンクのみ
+      - [WP:CSD\#リダイレクト1-1](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-1 "wikilink") 直接関係のないページへのリダイレクト
+      - [WP:CSD\#リダイレクト1-2](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-2 "wikilink") 単純な書き誤り
+      - [WP:CSD\#リダイレクト1-3](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-3 "wikilink") 転送先がないリダイレクト
+      - [WP:CSD\#リダイレクト1-4](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-4 "wikilink") 他言語版へのリダイレクト
+      - [WP:CSD\#リダイレクト2-1](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト2-1 "wikilink") 半角と全角の使い分け違反
+      - [WP:CSD\#リダイレクト2-2](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト2-2 "wikilink") 作品名を鍵括弧等でくくったもの
+      - [WP:CSD\#リダイレクト2-3](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト2-3 "wikilink") 作品名以外の記事名における読み・別表記等の併記
+      - [WP:CSD\#リダイレクト2-5](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト2-5 "wikilink") 曖昧さ回避括弧の使い方違反
+      - [WP:CSD\#リダイレクト2-6](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト2-6 "wikilink") 漢字表記人名の姓名間の空白
+      - [WP:CSD\#リダイレクト3-1](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト3-1 "wikilink") 改名提案を経た曖昧さ回避括弧付きの移動の残骸
+      - [WP:CSD\#リダイレクト3-2](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト3-2 "wikilink") 移動依頼を経た曖昧さ回避括弧付きの移動の残骸
+      - [WP:CSD\#リダイレクト4](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト4 "wikilink") 唯一の投稿者による移動の残骸で本人依頼のもの
+      - [WP:CSD\#ファイル7](https://ja.wikipedia.org/wiki/WP:CSD#ファイル7 "wikilink") コモンズのファイルページ
+      - [WP:CSD\#ファイル8](https://ja.wikipedia.org/wiki/WP:CSD#ファイル8 "wikilink") 存在しないファイルのファイルページ
+      - [WP:CSD\#カテゴリ1](https://ja.wikipedia.org/wiki/WP:CSD#カテゴリ1 "wikilink") 初版からリダイレクト
+      - [WP:CSD\#カテゴリ3](https://ja.wikipedia.org/wiki/WP:CSD#カテゴリ3 "wikilink") 私的カテゴリ
+      - [WP:CSD\#カテゴリ6](https://ja.wikipedia.org/wiki/WP:CSD#カテゴリ6 "wikilink") 改名提案を経て未使用となったカテゴリ
+      - [WP:CSD\#利用者ページ1](https://ja.wikipedia.org/wiki/WP:CSD#利用者ページ1 "wikilink") 本人希望
+      - [WP:CSD\#利用者ページ2](https://ja.wikipedia.org/wiki/WP:CSD#利用者ページ2 "wikilink") 登録されていない利用者の利用者ページ
+      - [WP:CSD\#利用者ページ3](https://ja.wikipedia.org/wiki/WP:CSD#利用者ページ3 "wikilink") IPユーザーの利用者ページ
+  - 管理作業
+      - 移動のための削除
+      - 履歴統合
+      - 不要となった管理用ページ
+  - オーバーサイト関係
+      - ページ名に個人情報が含まれている
+      - 不適切な利用者名

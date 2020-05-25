@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バース・シティFC](https://ja.wikipedia.org/wiki/バース・シティFC)から翻訳されています。
 
 
 **バース・シティ・フットボール・クラブ**（**Bath City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[サマセット州](https://ja.wikipedia.org/wiki/サマセット州 "wikilink")・[バースを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/バース_\(イギリス\) "wikilink")。2012-2013シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
@@ -37,7 +37,7 @@
 
   - [ボビー・ザモラ](https://ja.wikipedia.org/wiki/ボビー・ザモラ "wikilink") 2000
 
-  - [ジョー・ブライアン](https://ja.wikipedia.org/wiki/ジョー・ブライアン "wikilink") 2011-2012
+  - [ジョー・ブライアン](../Page/ジョー・ブライアン.md "wikilink") 2011-2012
 
   - [デビッド・プラット](https://ja.wikipedia.org/wiki/デビッド・プラット_\(1987年生まれのサッカー選手\) "wikilink") 2013-2016
 

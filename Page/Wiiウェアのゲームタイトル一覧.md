@@ -1529,7 +1529,7 @@
 </tr>
 <tr class="even">
 <td><p>12月22日</p></td>
-<td><p><a href="../Page/オセロ_(遊戯).md" title="wikilink">オセロ</a></p></td>
+<td><p><a href="../Page/オセロ_(ボードゲーム).md" title="wikilink">オセロ</a></p></td>
 <td><p>アークシステムワークス</p></td>
 <td></td>
 <td><p>対応</p></td>

@@ -1,7 +1,7 @@
-> この記事は[ 8VS](https://ja.wikipedia.org/wiki/_8VS)から翻訳されています。
+> この記事は[仮面ライダー 8人ライダーVS銀河王](https://ja.wikipedia.org/wiki/仮面ライダー_8人ライダーVS銀河王)から翻訳されています。
 
 
-『**仮面ライダー 8人ライダーVS銀河王**』（かめんライダー はちにんライダーたいぎんがおう）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年）[3月15日](../Page/3月15日.md "wikilink")に、「[東映まんがまつり](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")」の一編として公開された中編映画。
+『**仮面ライダー 8人ライダーVS銀河王**』（かめんライダー はちにんライダーたいぎんがおう）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（[昭和](../Page/昭和.md "wikilink")55年）[3月15日](../Page/3月15日.md "wikilink")に、「[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")」の一編として公開された中編映画。
 
 資料によっては『**8人ライダーVS銀河王**』のみをタイトルとして記述している。
 
@@ -11,17 +11,17 @@
 
 東映まんがまつり枠で特撮ヒーロー作品が上映されるのも、1978年夏興行の『[スパイダーマン](../Page/スパイダーマン_\(東映\).md "wikilink")』『[宇宙からのメッセージ・銀河大戦](../Page/宇宙からのメッセージ・銀河大戦.md "wikilink")』以来であり、本作品以降、再び新作特撮映画が組み込まれるようになった\[3\]。
 
-主役のスカイライダーは、テレビシリーズに先駆けて第28話以降のパワーアップした姿で登場している\[4\]\[5\]。ドラマ部分の少ないアクション中心の作品であるが、原作者の[石森章太郎が総監督をつとめ](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")、アクションシーンや特撮シーンは規模の大きいものになっている。
+主役のスカイライダーは、テレビシリーズに先駆けて第28話以降のパワーアップした姿で登場している\[4\]\[5\]。ドラマ部分の少ないアクション中心の作品であるが、原作者の[石森章太郎が総監督をつとめ](../Page/石ノ森章太郎.md "wikilink")、アクションシーンや特撮シーンは規模の大きいものになっている。
 
 ### 企画の変遷
 
 石森章太郎による原案では、仮面ライダーが羅門博士の開発した重力制御砲を利用しようと目論むネオショッカーの吸血鬼軍団と対決するという物語で、スカイライダーの飛行能力を活かした空中戦を見せ場としていた\[6\]。完成作品にも登場する羅門博士やネオショッカーの富士山麓基地はこの段階で創作されていたが、羅門博士は仮面ライダーとネオショッカーの双方を利用していた黒幕という扱いであった\[7\]。敵キャラクターにはネオショッカー幹部のドラキュラ伯爵とその配下である[プテラノドン](../Page/プテラノドン.md "wikilink")をモチーフとしたテラノドジンが設定され、石森によるラフデザインも描かれていた\[8\]。
 
-しかし、テレビシリーズの視聴率不振により強化策として9番目の仮面ライダーとなる**仮面ライダーV9**の導入が検討され、本作はその登場編として改訂された。V9は[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")の[宇宙飛行士](../Page/宇宙飛行士.md "wikilink")・**沖正人**が変身するという設定で、[空](https://ja.wikipedia.org/wiki/空 "wikilink")を象徴するスカイライダーよりもスケールの大きな[宇宙](../Page/宇宙.md "wikilink")で活躍するキャラクターと位置づけられていた。[高久進](../Page/高久進.md "wikilink")により執筆された準備稿『9人ライダー対銀河大要塞』\[9\]\[10\]は石森の原案を基にしながらV9の設定を活かすため、宇宙からの侵略者である銀河大帝とネオショッカーが手を組むという展開に改められた。東映プロデューサーの[平山亨](https://ja.wikipedia.org/wiki/平山亨 "wikilink")による案では、後に宇宙怪獣であることが明かされるネオショッカー大首領の正体についても触れることが検討されていた。
+しかし、テレビシリーズの視聴率不振により強化策として9番目の仮面ライダーとなる**仮面ライダーV9**の導入が検討され、本作はその登場編として改訂された。V9は[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink")の[宇宙飛行士](../Page/宇宙飛行士.md "wikilink")・**沖正人**が変身するという設定で、[空](../Page/空.md "wikilink")を象徴するスカイライダーよりもスケールの大きな[宇宙](../Page/宇宙.md "wikilink")で活躍するキャラクターと位置づけられていた。[高久進](../Page/高久進.md "wikilink")により執筆された準備稿『9人ライダー対銀河大要塞』\[9\]\[10\]は石森の原案を基にしながらV9の設定を活かすため、宇宙からの侵略者である銀河大帝とネオショッカーが手を組むという展開に改められた。東映プロデューサーの[平山亨](../Page/平山亨.md "wikilink")による案では、後に宇宙怪獣であることが明かされるネオショッカー大首領の正体についても触れることが検討されていた。
 
 その後、テレビシリーズが歴代ライダーの客演によって視聴率が持ち直してV9の登場が見送られたため、本作品もそれに合わせる形に再度改められた。内容はほとんど改訂されず、V9の登場シーンが他の仮面ライダーに変更される程度にとどまった。
 
-[絵コンテ](https://ja.wikipedia.org/wiki/絵コンテ "wikilink")は石森によって全編が執筆されたが、筆が進むにつれて文字が難読になっていったために途中から石森プロのスタッフによって文字書きが行われた\[11\]。絵コンテでのタイトルは『8人ライダーVSギンガオー』であり\[12\]、予告編でもこの表記となっている。
+[絵コンテ](../Page/絵コンテ.md "wikilink")は石森によって全編が執筆されたが、筆が進むにつれて文字が難読になっていったために途中から石森プロのスタッフによって文字書きが行われた\[11\]。絵コンテでのタイトルは『8人ライダーVSギンガオー』であり\[12\]、予告編でもこの表記となっている。
 
 当初は単独での公開を想定していたが、興行館の都合などによって東映まんがまつりの一編として公開されることとなり、上映時間が短縮された\[13\]。
 
@@ -51,13 +51,13 @@
 
 詳しくはリンク先を参照。
 
-  - [仮面ライダー1号](https://ja.wikipedia.org/wiki/本郷猛 "wikilink")
+  - [仮面ライダー1号](../Page/本郷猛.md "wikilink")
   - [仮面ライダー2号](https://ja.wikipedia.org/wiki/一文字隼人 "wikilink")
   - [仮面ライダーV3](https://ja.wikipedia.org/wiki/風見志郎 "wikilink")
   - [ライダーマン](https://ja.wikipedia.org/wiki/結城丈二 "wikilink")
   - [仮面ライダーX](../Page/仮面ライダーX.md "wikilink")
   - [仮面ライダーアマゾン](../Page/仮面ライダーアマゾン.md "wikilink")
-  - [仮面ライダーストロンガー](https://ja.wikipedia.org/wiki/仮面ライダーストロンガー "wikilink")
+  - [仮面ライダーストロンガー](../Page/仮面ライダーストロンガー.md "wikilink")
 
 ### ネオショッカー
 
@@ -93,13 +93,13 @@
 
 ## キャスト
 
-  - 筑波洋 / スカイライダー（声）：[村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")
-  - 羅門博士：[二瓶秀雄](https://ja.wikipedia.org/wiki/二瓶秀雄 "wikilink")
+  - 筑波洋 / スカイライダー（声）：[村上弘明](../Page/村上弘明.md "wikilink")
+  - 羅門博士：[二瓶秀雄](../Page/二瓶秀雄.md "wikilink")
   - 真樹泉：[舟倉たまき](../Page/舟倉由佑子.md "wikilink")
   - ブン：[中村ブン](https://ja.wikipedia.org/wiki/中村ブン "wikilink")
   - レミ：塚原美樹
-  - 魔神提督：[中庸助](https://ja.wikipedia.org/wiki/中庸助 "wikilink")
-  - 天海乗組員：[石森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")（特別出演）
+  - 魔神提督：[中庸助](../Page/中庸助.md "wikilink")
+  - 天海乗組員：[石森章太郎](../Page/石ノ森章太郎.md "wikilink")（特別出演）
   - 福岡康祐
   - 生江和夫
   - 吉沢勝
@@ -113,22 +113,22 @@
   - 仮面ライダーV3、再生怪人：[倉口佳三](../Page/倉口佳三.md "wikilink")
   - ライダーマン：[永江智明](../Page/永江智明.md "wikilink")
   - 仮面ライダーX：[河原崎洋夫](../Page/河原崎洋央.md "wikilink")
-  - 仮面ライダーアマゾン：[林一夫](https://ja.wikipedia.org/wiki/林一夫 "wikilink")
-  - 銀河王、怪人2世部隊：[梶哲也](https://ja.wikipedia.org/wiki/梶哲也 "wikilink")
-  - サドンダス：[沢りつお](https://ja.wikipedia.org/wiki/沢りつお "wikilink")
+  - 仮面ライダーアマゾン：[林一夫](../Page/林一夫.md "wikilink")
+  - 銀河王、怪人2世部隊：[梶哲也](../Page/梶哲也.md "wikilink")
+  - サドンダス：[沢りつお](../Page/沢りつお.md "wikilink")
   - ジャガーバン、怪人2世部隊：[八代駿](../Page/八代駿.md "wikilink")
-  - アルマジーク、ムササベーダー（兄）II世：[峰恵研](https://ja.wikipedia.org/wiki/峰恵研 "wikilink")
+  - アルマジーク、ムササベーダー（兄）II世：[峰恵研](../Page/峰恵研.md "wikilink")
 
 ### スーツアクター
 
 ※いずれも[大野剣友会](../Page/大野剣友会.md "wikilink")
 
-  - スカイライダー\[23\]：[中屋敷鉄也](https://ja.wikipedia.org/wiki/中屋敷哲也 "wikilink")
+  - スカイライダー\[23\]：[中屋敷鉄也](../Page/中屋敷哲也.md "wikilink")
   - 仮面ライダーV3\[24\]、ジャガーバン\[25\]：河原崎洋夫
-  - 仮面ライダーV3\[26\]：[橋本春彦](https://ja.wikipedia.org/wiki/橋本春彦 "wikilink")
+  - 仮面ライダーV3\[26\]：[橋本春彦](../Page/橋本春彦.md "wikilink")
   - 仮面ライダーストロンガー\[27\]：赤坂順一
   - 銀河王\[28\]：宮本竹蔵
-  - サドンダス\[29\]：[上田弘司](https://ja.wikipedia.org/wiki/上田弘司 "wikilink")
+  - サドンダス\[29\]：[上田弘司](../Page/上田弘司.md "wikilink")
   - アルマジーグ\[30\]：石塚信之
   - 天野正登
   - 赤坂順一
@@ -140,19 +140,19 @@
 ## 主題歌
 
   - オープニングテーマ「輝け\! 8人ライダー」
-    作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲：[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink") / 編曲：[武市昌久](../Page/武市昌久.md "wikilink") / 歌：[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[ザ・チャープス](../Page/ザ・チャープス.md "wikilink")
+    作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲：[武市昌久](../Page/武市昌久.md "wikilink") / 歌：[ささきいさお](../Page/ささきいさお.md "wikilink")、[ザ・チャープス](../Page/ザ・チャープス.md "wikilink")
   - エンディングテーマ「燃えろ\! 仮面ライダー」
-    作詞：[石森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink") / 作曲・編曲：菊池俊輔 / 歌：[水木一郎](../Page/水木一郎.md "wikilink")、[こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")
+    作詞：[石森章太郎](../Page/石ノ森章太郎.md "wikilink") / 作曲・編曲：菊池俊輔 / 歌：[水木一郎](../Page/水木一郎.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
   - 挿入歌「渋谷でのんだくれてる」
     作詞・作曲・歌：中村ブン
 
 ## スタッフ
 
   - 製作：[渡邊亮徳](../Page/渡邊亮徳.md "wikilink")
-  - プロデューサー：[平山亨](https://ja.wikipedia.org/wiki/平山亨 "wikilink")、[阿部征司](https://ja.wikipedia.org/wiki/阿部征司 "wikilink")
-  - 連載：[テレビマガジン](https://ja.wikipedia.org/wiki/テレビマガジン "wikilink")、[たのしい幼稚園](../Page/たのしい幼稚園_\(雑誌\).md "wikilink")、[おともだち](../Page/おともだち.md "wikilink")、[テレビランド](https://ja.wikipedia.org/wiki/テレビランド "wikilink")、[冒険王](https://ja.wikipedia.org/wiki/冒険王_\(漫画雑誌\) "wikilink")
+  - プロデューサー：[平山亨](../Page/平山亨.md "wikilink")、[阿部征司](../Page/阿部征司.md "wikilink")
+  - 連載：[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[たのしい幼稚園](../Page/たのしい幼稚園_\(雑誌\).md "wikilink")、[おともだち](../Page/おともだち.md "wikilink")、[テレビランド](../Page/テレビランド.md "wikilink")、[冒険王](../Page/冒険王_\(漫画雑誌\).md "wikilink")
   - 脚本：[高久進](../Page/高久進.md "wikilink")
-  - 音楽：[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 音楽：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
       - 編曲：[武市昌久](../Page/武市昌久.md "wikilink")
   - 撮影：[瀬尾脩](https://ja.wikipedia.org/wiki/瀬尾脩 "wikilink")、小林武治
   - 照明：戸塚和夫
@@ -164,11 +164,11 @@
   - 効果：[スワラプロ](https://ja.wikipedia.org/wiki/スワラプロ "wikilink")
   - 選曲：茶畑三男
   - 記録：安部伸子
-  - 撮影助手：[松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 撮影助手：[松村文雄](../Page/松村文雄.md "wikilink")
   - 照明助手：本田純一
   - 装置：鈴木栄五郎
   - 技斗：[岡田勝](../Page/岡田勝.md "wikilink")
-  - 装飾：[大晃商会](https://ja.wikipedia.org/wiki/大晃商会 "wikilink")
+  - 装飾：[大晃商会](../Page/大晃商会.md "wikilink")
   - 衣裳：東京衣裳
   - 美粧：入江美粧
   - 操車：スリーチェイス
@@ -176,14 +176,14 @@
   - キャラクター制作：コスモプロ
   - 進行主任：川上正行
   - 合成：デン・フィルム・エフェクト
-  - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映ラボ・テック "wikilink")
+  - 現像：[東映化学](../Page/東映ラボ・テック.md "wikilink")
   - 協力：[スズキ自動車](../Page/スズキ_\(企業\).md "wikilink")
-  - [ECG](https://ja.wikipedia.org/wiki/デジタル合成 "wikilink")：東通ECGシステム
-  - 特撮：（株）[特撮研究所](https://ja.wikipedia.org/wiki/特撮研究所 "wikilink")
+  - [ECG](../Page/デジタル合成.md "wikilink")：東通ECGシステム
+  - 特撮：（株）[特撮研究所](../Page/特撮研究所.md "wikilink")
       - 操演：[鈴木昶](https://ja.wikipedia.org/wiki/鈴木昶 "wikilink")　美術：[大沢哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")　撮影：高橋政千　照明：日出明義　制作：中村英暉
-  - 特撮監督：[矢島信男](https://ja.wikipedia.org/wiki/矢島信男 "wikilink")、[佐川和夫](https://ja.wikipedia.org/wiki/佐川和夫 "wikilink")
+  - 特撮監督：[矢島信男](../Page/矢島信男.md "wikilink")、[佐川和夫](https://ja.wikipedia.org/wiki/佐川和夫 "wikilink")
   - 監督：平山公夫
-  - 原作・総監督：[石森章太郎](https://ja.wikipedia.org/wiki/石ノ森章太郎 "wikilink")
+  - 原作・総監督：[石森章太郎](../Page/石ノ森章太郎.md "wikilink")
 
 ## 他媒体展開
 
@@ -198,7 +198,7 @@
 
 ### 漫画
 
-  - [別冊冒険王](https://ja.wikipedia.org/wiki/別冊冒険王 "wikilink")仮面ライダーまんが特集号第2弾（1980年4月20日発行）掲載　作画：[石川森彦](https://ja.wikipedia.org/wiki/石川森彦 "wikilink")
+  - [別冊冒険王](https://ja.wikipedia.org/wiki/別冊冒険王 "wikilink")仮面ライダーまんが特集号第2弾（1980年4月20日発行）掲載　作画：[石川森彦](../Page/石川森彦.md "wikilink")
 
 ### テレビシリーズ
 

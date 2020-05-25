@@ -1,11 +1,11 @@
 > この記事は[W61PT](https://ja.wikipedia.org/wiki/W61PT)から翻訳されています。
 
 
-**W61PT**（だぶりゅ ろくいちぴーてぃー）は、[韓](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")・[パンテック](https://ja.wikipedia.org/wiki/パンテック "wikilink")（輸入発売元・パンテックワイヤレスジャパン）が日本国内向けに開発した、[auブランドを展開する](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[第3/](https://ja.wikipedia.org/wiki/第3世代移動通信システム "wikilink")[3.5世代移動通信システム](../Page/第3.5世代移動通信システム.md "wikilink")（[CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")、後のau 3G）対応携帯電話である。
+**W61PT**（だぶりゅ ろくいちぴーてぃー）は、[韓](../Page/大韓民国.md "wikilink")・[パンテック](https://ja.wikipedia.org/wiki/パンテック "wikilink")（輸入発売元・パンテックワイヤレスジャパン）が日本国内向けに開発した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[第3/](../Page/第3世代移動通信システム.md "wikilink")[3.5世代移動通信システム](../Page/第3.5世代移動通信システム.md "wikilink")（[CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")、後のau 3G）対応携帯電話である。
 
 ## 特徴
 
-韓・パンテック社にとって初めての[CDMA 1X WINシリーズでの発売](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")。実質的に[LGテレコム向け](https://ja.wikipedia.org/wiki/LGユープラス "wikilink")\[<http://www.isky.co.kr/product/feature.sky?dispNum=0103&seq=g4OWmYX9CBk~uUW8mOQII7c>\~ IM-S315L\]の日本向け仕様にあたる。主に20～30歳代の女性ユーザーを対象\[1\]にしたスリムでコンパクトなスライド式端末でアクセサリー感覚のコンパクトサイズになっておりダイヤモンドパターンのキーが特徴的なデザインである。また同社の日本向けの端末としては初めての[EZアプリ（BREW）対応端末となっており](https://ja.wikipedia.org/wiki/BREW "wikilink")、**同社製の同キャリア向けの[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")としては最初にして最後の「[LISMO Music](https://ja.wikipedia.org/wiki/LISMO "wikilink")」に対応した機種**でもある。
+韓・パンテック社にとって初めての[CDMA 1X WINシリーズでの発売](../Page/CDMA_1X_WIN.md "wikilink")。実質的に[LGテレコム向け](../Page/LGユープラス.md "wikilink")\[<http://www.isky.co.kr/product/feature.sky?dispNum=0103&seq=g4OWmYX9CBk~uUW8mOQII7c>\~ IM-S315L\]の日本向け仕様にあたる。主に20～30歳代の女性ユーザーを対象\[1\]にしたスリムでコンパクトなスライド式端末でアクセサリー感覚のコンパクトサイズになっておりダイヤモンドパターンのキーが特徴的なデザインである。また同社の日本向けの端末としては初めての[EZアプリ（BREW）対応端末となっており](../Page/BREW.md "wikilink")、**同社製の同キャリア向けの[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")としては最初にして最後の「[LISMO Music](../Page/LISMO.md "wikilink")」に対応した機種**でもある。
 
 ## 使用上の注意点
 
@@ -22,8 +22,8 @@
 ## 対応サービス
 
   - au Smart Sports（アプリのダウンロードが必要）
-  - LISMO Music（EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」 & LISMOビデオクリップ）
-  - [EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")（声de入力・3D対応）
+  - LISMO Music（EZ「[着うたフル](../Page/着うたフル.md "wikilink")」 & LISMOビデオクリップ）
+  - [EZナビウォーク](../Page/EZナビウォーク.md "wikilink")（声de入力・3D対応）
   - EZ助手席ナビ
   - 安心ナビ
   - 災害時ナビ
@@ -31,7 +31,7 @@
   - [EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")
   - [EZケータイアレンジ](https://ja.wikipedia.org/wiki/EZケータイアレンジ "wikilink")
   - PCサイトビューアー
-  - [EZアプリ(BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")([オープンアプリプレイヤー](https://ja.wikipedia.org/wiki/オープンアプリプレイヤー "wikilink")対応)
+  - [EZアプリ(BREW)](../Page/BREW.md "wikilink")([オープンアプリプレイヤー](../Page/オープンアプリプレイヤー.md "wikilink")対応)
   - デコレーションメール
   - ラッピングメール
   - [赤外線通信](https://ja.wikipedia.org/wiki/赤外線通信 "wikilink")([IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink"))
@@ -45,9 +45,9 @@
 ## 関連項目
 
   - [携帯電話](../Page/携帯電話.md "wikilink")
-  - [au（携帯電話）](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")
+  - [au（携帯電話）](../Page/Au_\(携帯電話\).md "wikilink")
   - [パンテック](https://ja.wikipedia.org/wiki/パンテック "wikilink")
-  - [CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
+  - [CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")
 
 ## 外部リンク
 

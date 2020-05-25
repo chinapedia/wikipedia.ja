@@ -1,15 +1,15 @@
 > この記事は[NEON GENESIS EVANGELION II](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_II)から翻訳されています。
 
 
-『**NEON GENESIS EVANGELION II**』（ネオン・ジェネシス・エヴァンゲリオン・ツー）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の2枚目のオリジナル[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。[1996年](../Page/1996年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売。発売元は[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")。
+『**NEON GENESIS EVANGELION II**』（ネオン・ジェネシス・エヴァンゲリオン・ツー）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の2枚目のオリジナル[サウンドトラック](../Page/サウンドトラック.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")発売。発売元は[スターチャイルド](../Page/スターチャイルド.md "wikilink")。
 
 ## 収録曲\[1\]
 
 1.  **予感**
       -
-        歌：[高橋洋子](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")
+        歌：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")
         作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
-2.  **[残酷な天使のテーゼ](https://ja.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink")**（TV.Size Version）
+2.  **[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")**（TV.Size Version）
       -
         歌：高橋洋子
         作詞：及川眠子、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：大森俊之
@@ -49,7 +49,7 @@
         作詞・作曲：Bart Howard、編曲：TONY ORLY
 25. **FLY ME TO THE MOON** <Aki Jungle Version>
       -
-        歌：[Aki](https://ja.wikipedia.org/wiki/メイリー "wikilink")
+        歌：[Aki](../Page/メイリー.md "wikilink")
         作詞・作曲：Bart Howard、編曲：J.J.Key & TONY ORLY
 
 ## 脚注
@@ -58,4 +58,4 @@
 
 [Category:新世紀エヴァンゲリオンのアルバム](https://ja.wikipedia.org/wiki/Category:新世紀エヴァンゲリオンのアルバム "wikilink") [Category:テレビアニメのサウンドトラック](https://ja.wikipedia.org/wiki/Category:テレビアニメのサウンドトラック "wikilink") [Category:スターチャイルドのサウンドトラック](https://ja.wikipedia.org/wiki/Category:スターチャイルドのサウンドトラック "wikilink") [Category:1996年のサウンドトラック](https://ja.wikipedia.org/wiki/Category:1996年のサウンドトラック "wikilink")
 
-1.  FLY ME TO THE MOON以外の特記のない曲は[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")作曲。
+1.  FLY ME TO THE MOON以外の特記のない曲は[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")作曲。

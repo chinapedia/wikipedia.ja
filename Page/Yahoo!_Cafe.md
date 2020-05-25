@@ -1,11 +1,11 @@
 > この記事は[Yahoo! Cafe](https://ja.wikipedia.org/wiki/Yahoo!_Cafe)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Yahoo_Cafe_Members_Card.jpg "wikilink") **Yahoo\! Cafe**（ヤフーカフェ）は、[Yahoo\! JAPAN](https://ja.wikipedia.org/wiki/Yahoo!_JAPAN "wikilink")（ヤフー\! ジャパン）が日本国内で運営する[インターネット接続](https://ja.wikipedia.org/wiki/インターネット接続 "wikilink")サービスを無料で展開していた[店舗](https://ja.wikipedia.org/wiki/店舗 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")サービス終了。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Yahoo_Cafe_Members_Card.jpg "wikilink") **Yahoo\! Cafe**（ヤフーカフェ）は、[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")（ヤフー\! ジャパン）が日本国内で運営する[インターネット接続](https://ja.wikipedia.org/wiki/インターネット接続 "wikilink")サービスを無料で展開していた[店舗](https://ja.wikipedia.org/wiki/店舗 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")サービス終了。
 
 ## 概要
 
-誰でも無料で、店舗内に設置された[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")接続の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（パソコン）で[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を閲覧することができる。併設されている[スターバックス](../Page/スターバックス.md "wikilink")などのコーヒー店で飲食物を購入して、飲食しながら閲覧してもよい。まったく無料であるため、混雑してくると、一定時間後に退店を催促されることもある。このため羽田空港店のように飲食物の購入を義務づけた店もあった。
+誰でも無料で、店舗内に設置された[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")接続の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（パソコン）で[インターネット](../Page/インターネット.md "wikilink")を閲覧することができる。併設されている[スターバックス](../Page/スターバックス.md "wikilink")などのコーヒー店で飲食物を購入して、飲食しながら閲覧してもよい。まったく無料であるため、混雑してくると、一定時間後に退店を催促されることもある。このため羽田空港店のように飲食物の購入を義務づけた店もあった。
 
 [インターネットカフェ](https://ja.wikipedia.org/wiki/インターネットカフェ "wikilink")とよく似たものといえるが、利用がまったく無料であること、[ウェブ閲覧以外のパソコン作業や](../Page/World_Wide_Web.md "wikilink")[USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などの持込み媒体の利用ができないことなどが異なる。また、日本で非常に普及している[漫画喫茶](../Page/漫画喫茶.md "wikilink")型の[複合カフェ](https://ja.wikipedia.org/wiki/複合カフェ "wikilink")とはまったく雰囲気が異なる。
 
@@ -35,10 +35,10 @@
 Yahoo\! Cafe の店舗には、通常の店舗とソフトバンクショップ内のブース型店舗があった。
 
   - 表参道店（1号店）- ガーデンスクエアー（渋谷区神宮前5-11-2）内。2001年開店、2004年閉店。スターバックスを併設していた。
-  - 秋葉原店（2号店）- [ラオックス](https://ja.wikipedia.org/wiki/ラオックス "wikilink") ザ・デジタル館（千代田区外神田1-16-1）内。2001年開店、2002年閉店。
+  - 秋葉原店（2号店）- [ラオックス](../Page/ラオックス.md "wikilink") ザ・デジタル館（千代田区外神田1-16-1）内。2001年開店、2002年閉店。
   - [日比谷](../Page/日比谷.md "wikilink")店（3号店） - [新生銀行](../Page/新生銀行.md "wikilink")本店1階ロビーにある。同行がオフィシャルスポンサー。（併設されていたスターバックスは2009年に閉店。）
-  - 成田空港店（4号店）-　[成田国際空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")（成田空港）第2旅客ターミナルビル制限エリア3階にあった。2002年開店、2006年9月空港内の改装工事のため一時閉店、2007年4月リニューアルオープン、2010年閉店。
-  - 品川プリンス店（5号店） - [品川プリンスホテル](https://ja.wikipedia.org/wiki/品川プリンスホテル "wikilink") アネックスタワー7階にあった。2002年開店、2010年閉店。同ホテルが飲食物を有料で提供していた。
+  - 成田空港店（4号店）-　[成田国際空港](../Page/成田国際空港.md "wikilink")（成田空港）第2旅客ターミナルビル制限エリア3階にあった。2002年開店、2006年9月空港内の改装工事のため一時閉店、2007年4月リニューアルオープン、2010年閉店。
+  - 品川プリンス店（5号店） - [品川プリンスホテル](../Page/品川プリンスホテル.md "wikilink") アネックスタワー7階にあった。2002年開店、2010年閉店。同ホテルが飲食物を有料で提供していた。
   - 羽田空港店（6号店） - [東京国際空港](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（羽田空港）第1ビル南ウィング2階にあった。2002年開店、2009年閉店。
 
 ### Yahoo\! Cafeソフトバンクショップ

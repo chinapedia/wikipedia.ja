@@ -1,17 +1,17 @@
 > この記事は[Cargo](https://ja.wikipedia.org/wiki/Cargo)から翻訳されています。
 
 
-**cargo**（カーゴ）は1MC、1DJ、2人の女性ヴォーカルからなる[ハウス](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")/[クロスオーバーユニットである](../Page/クロスオーバー_\(音楽\).md "wikilink")。RAINBOW ENTERTAINMENTに所属。
+**cargo**（カーゴ）は1MC、1DJ、2人の女性ヴォーカルからなる[ハウス](../Page/ハウス_\(音楽\).md "wikilink")/[クロスオーバーユニットである](../Page/クロスオーバー_\(音楽\).md "wikilink")。RAINBOW ENTERTAINMENTに所属。
 
 2009年1月末にGOKUのソロユニットとなる。以降は、GOKUがボーカリストおよびミュージシャンを迎えて活動する形になった。
 
 ## メンバー
 
-  - GOKU（[Program](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink"),[Produce](../Page/プロデューサー.md "wikilink"),[Rap](../Page/ラップ.md "wikilink"),[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink"),[Gt](../Page/ギタリスト.md "wikilink"),[Rec](../Page/録音.md "wikilink")/[mix Engineering](https://ja.wikipedia.org/wiki/ミキシング "wikilink")）
+  - GOKU（[Program](../Page/ミュージックシーケンサー.md "wikilink"),[Produce](../Page/プロデューサー.md "wikilink"),[Rap](../Page/ラップ.md "wikilink"),[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink"),[Gt](../Page/ギタリスト.md "wikilink"),[Rec](../Page/録音.md "wikilink")/[mix Engineering](../Page/ミキシング.md "wikilink")）
 
 ## 旧メンバー
 
-  - [wize](https://ja.wikipedia.org/wiki/山崎耕一 "wikilink")（Program,Produce,[Key](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink"),Rec/mix Engineering）
+  - [wize](../Page/山崎耕一.md "wikilink")（Program,Produce,[Key](../Page/キーボーディスト.md "wikilink"),Rec/mix Engineering）
   - amigo（Vo,[cho](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
   - Saiko（Vo,cho）
 
@@ -44,7 +44,7 @@
       - M-11 「Tapestry」
   - JAFROSAX 『JAFROSAX 4』（2007年3月14日）
       - M-11 「Limit of the sky」
-  - [Ryohei](https://ja.wikipedia.org/wiki/Ryohei "wikilink") 『Cavaca 〜Catch the Various Catchy〜』（2007年7月18日）
+  - [Ryohei](../Page/Ryohei.md "wikilink") 『Cavaca 〜Catch the Various Catchy〜』（2007年7月18日）
       - M-7 「She Will Be Loved/MAROON5」
   - KALEIDO 『New Sessions\!』（2007年8月8日）
       - M-7 「So Com Voce (ELMIO remix) with Cargo」

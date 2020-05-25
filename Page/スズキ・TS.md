@@ -1,4 +1,4 @@
-> この記事は[TS](https://ja.wikipedia.org/wiki/TS)から翻訳されています。
+> この記事は[スズキ・TS](https://ja.wikipedia.org/wiki/スズキ・TS)から翻訳されています。
 
 
 **TS**（ティーエス）は[スズキがかつて製造していた](../Page/スズキ_\(企業\).md "wikilink")[2ストローク](../Page/2ストローク機関.md "wikilink")[オフロードバイク](https://ja.wikipedia.org/wiki/オフロードバイク "wikilink")シリーズである。空冷のモデルは国内では「ハスラー」の愛称で知られる。

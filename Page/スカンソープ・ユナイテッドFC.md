@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[スカンソープ・ユナイテッドFC](https://ja.wikipedia.org/wiki/スカンソープ・ユナイテッドFC)から翻訳されています。
 
 
 **スカンソープ・ユナイテッド・フットボール・クラブ**（**Scunthorpe United Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[リンカーンシャー](https://ja.wikipedia.org/wiki/リンカーンシャー "wikilink")の[スカンソープ](https://ja.wikipedia.org/wiki/スカンソープ "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[EFLリーグ2](../Page/EFLリーグ2.md "wikilink")（4部相当）に所属。
@@ -14,7 +14,7 @@
 
 **一試合最多観客動員数(Old Showground)**
 
-  - 23,395人　vs [ポーツマス](https://ja.wikipedia.org/wiki/ポーツマスFC "wikilink")　FAカップ4回戦　1954.1.30
+  - 23,395人　vs [ポーツマス](../Page/ポーツマスFC.md "wikilink")　FAカップ4回戦　1954.1.30
 
 **一試合最多観客動員数(Glanford Park)**
 

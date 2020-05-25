@@ -1,4 +1,4 @@
-> この記事は[7JBC](https://ja.wikipedia.org/wiki/7JBC)から翻訳されています。
+> この記事は[第7回JBCクラシック](https://ja.wikipedia.org/wiki/第7回JBCクラシック)から翻訳されています。
 
 
 [2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[大井競馬場](../Page/大井競馬場.md "wikilink")で施行された**第7回[JBCクラシック](../Page/JBCクラシック.md "wikilink")**（JpnI）について記述する。

@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヘレフォード・ユナイテッドFC](https://ja.wikipedia.org/wiki/ヘレフォード・ユナイテッドFC)から翻訳されています。
 
 
-**ヘレフォード・ユナイテッド・フットボール・クラブ**（**Hereford United Football Club**）は、かつて[イングランド](../Page/イングランド.md "wikilink")北西部の[ヘレフォード](https://ja.wikipedia.org/wiki/ヘレフォード "wikilink")を本拠地としたサッカークラブチームである。1924年に設立され、2014年の解散まで90年に渡り活動した。
+**ヘレフォード・ユナイテッド・フットボール・クラブ**（**Hereford United Football Club**）は、かつて[イングランド](../Page/イングランド.md "wikilink")北西部の[ヘレフォード](../Page/ヘレフォード.md "wikilink")を本拠地としたサッカークラブチームである。1924年に設立され、2014年の解散まで90年に渡り活動した。
 
 ## 歴史
 

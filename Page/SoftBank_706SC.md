@@ -11,16 +11,16 @@
   - 連続待受時間：W-CDMA網：約205時間、GSM網：約245時間
   - 充電時間：160分（急速充電器使用時）
   - 通信方式：[W-CDMA](../Page/W-CDMA.md "wikilink")　[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")900/1800/1900[MHz](https://ja.wikipedia.org/wiki/MHz "wikilink")
-  - メイン液晶：2.3インチ[QVGA](https://ja.wikipedia.org/wiki/Quarter_Video_Graphics_Array "wikilink")　[TFT](https://ja.wikipedia.org/wiki/薄膜トランジスタ "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") （最大26万色）
-  - サブ液晶：1行半角11文字（16×96ドット）[有機EL](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")（青色1色）
-  - カメラ：200万画素[CMOSカメラ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")
+  - メイン液晶：2.3インチ[QVGA](../Page/Quarter_Video_Graphics_Array.md "wikilink")　[TFT](../Page/薄膜トランジスタ.md "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") （最大26万色）
+  - サブ液晶：1行半角11文字（16×96ドット）[有機EL](../Page/有機エレクトロルミネッセンス.md "wikilink")（青色1色）
+  - カメラ：200万画素[CMOSカメラ](../Page/CMOSイメージセンサ.md "wikilink")
   - 内部データフォルダ容量：不明
   - 外部メモリー：[microSD](https://ja.wikipedia.org/wiki/SDメモリーカード#microSDカード "wikilink")、最大1GB
   - PCドキュメントビューワ
   - 辞書機能搭載（合計7万4千語の見出し語を収録）
   - ミュージックプレイヤー
-  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [着うたフル](../Page/着うたフル.md "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [S\!アプリ](../Page/S!アプリ.md "wikilink")（[メガアプリ](https://ja.wikipedia.org/wiki/メガアプリ "wikilink")）
   - [TVコール](https://ja.wikipedia.org/wiki/TVコール "wikilink")
   - [トライリンガル](https://ja.wikipedia.org/wiki/トライリンガル "wikilink")（日・英・韓）
@@ -37,7 +37,7 @@
 
 ## 特徴
 
-この機種に前後して発売された[705SCや](https://ja.wikipedia.org/wiki/SoftBank_705SC "wikilink")[707SCと](https://ja.wikipedia.org/wiki/SoftBank_707SC "wikilink")、ハードウェア/ユーザインターフェイス面ではほぼ共通している。但し、スライド型となった705SCとは形状の違い、707SCとは外部メモリに対応している点が違う。また、707SCの簡潔で直線的なデザインに対し、より曲線と曲面を強調した、動感を秘めたデザインが特徴的である。
+この機種に前後して発売された[705SCや](../Page/SoftBank_705SC.md "wikilink")[707SCと](../Page/SoftBank_707SC.md "wikilink")、ハードウェア/ユーザインターフェイス面ではほぼ共通している。但し、スライド型となった705SCとは形状の違い、707SCとは外部メモリに対応している点が違う。また、707SCの簡潔で直線的なデザインに対し、より曲線と曲面を強調した、動感を秘めたデザインが特徴的である。
 
 ## 沿革
 

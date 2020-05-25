@@ -1,4 +1,4 @@
-> この記事は[CUP](https://ja.wikipedia.org/wiki/CUP)から翻訳されています。
+> この記事は[うたブロCUP](https://ja.wikipedia.org/wiki/うたブロCUP)から翻訳されています。
 
 
 **うたブロCUP**（うたぶろかっぷ）は[GyaOの運営する](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")[歌ブログ](https://ja.wikipedia.org/wiki/歌ブログ "wikilink")で毎月開催される。

@@ -1,7 +1,7 @@
 > この記事は[HFC](https://ja.wikipedia.org/wiki/HFC)から翻訳されています。
 
 
-**HFC**（Hybrid fiber-coaxial）は、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")の配線方式の一種。CATV局のセンター局（ヘッドエンド）から[光ファイバ](https://ja.wikipedia.org/wiki/光ファイバ "wikilink")で配線し、途中で光-電気コンバーターによって各家庭には[同軸ケーブル](https://ja.wikipedia.org/wiki/同軸ケーブル "wikilink")で配線する。FTTN（Fiber To The Node）や**光ハイブリッド**とも呼ばれる。
+**HFC**（Hybrid fiber-coaxial）は、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")の配線方式の一種。CATV局のセンター局（ヘッドエンド）から[光ファイバ](https://ja.wikipedia.org/wiki/光ファイバ "wikilink")で配線し、途中で光-電気コンバーターによって各家庭には[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")で配線する。FTTN（Fiber To The Node）や**光ハイブリッド**とも呼ばれる。
 
 [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")などで1990年代から採用されている。特に日本では[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")への対応を目的として実施されるケースが目立つ。近年では、新規に開業するCATV局においては当初より[FTTH](../Page/FTTH.md "wikilink")を採用する光ケーブルテレビ局が増えており、HFCは主に既存の同軸ケーブル網の更新目的に使用されることが多い。
 
@@ -19,11 +19,11 @@
 
 ## 背景
 
-元々CATV局においては、[雷](../Page/雷.md "wikilink")や道路工事等によって発生するノイズを同軸ケーブルが拾うことによって発生する雑音対策が長年の問題となっており、特に各家庭からヘッドエンドに向かう上り方向の信号においては、末端のケーブルに乗った雑音が幹線に集約されることによって発生する「[流合雑音](https://ja.wikipedia.org/wiki/流合雑音 "wikilink")」が、信号の品質低下の大きな要因となっていた。また同軸ケーブル網では高周波帯での信号減衰が激しくなるためRF信号の伝送帯域を広げることが難しく、BS・CS放送等の開始によるチャンネル数の増加に対応するのが難しくなっていた。これに対し光ファイバは、ケーブル内の信号は基本的に外的要因によるノイズの影響を受けることがない上、伝送帯域の拡大も容易であるというメリットがある。
+元々CATV局においては、[雷](../Page/雷.md "wikilink")や道路工事等によって発生するノイズを同軸ケーブルが拾うことによって発生する雑音対策が長年の問題となっており、特に各家庭からヘッドエンドに向かう上り方向の信号においては、末端のケーブルに乗った雑音が幹線に集約されることによって発生する「[流合雑音](../Page/流合雑音.md "wikilink")」が、信号の品質低下の大きな要因となっていた。また同軸ケーブル網では高周波帯での信号減衰が激しくなるためRF信号の伝送帯域を広げることが難しく、BS・CS放送等の開始によるチャンネル数の増加に対応するのが難しくなっていた。これに対し光ファイバは、ケーブル内の信号は基本的に外的要因によるノイズの影響を受けることがない上、伝送帯域の拡大も容易であるというメリットがある。
 
 しかしCATV網を完全にFTTH化するとなると、莫大な設備投資がかかるのはもちろんだが、それ以外にも各家庭への光ファイバケーブルの引き込みの技術的難易度が（同軸ケーブルに比べ）比較的高いことや、従来一本の幹線が幾重にも分岐して最低でも数百世帯に映像を送る構成（1:n構成）となっていた網の[トポロジー](https://ja.wikipedia.org/wiki/トポロジー "wikilink")を、ヘッドエンドと各家庭を原則1:1、[Passive Optical Networkを採用したとしても](https://ja.wikipedia.org/wiki/FTTH#Passive_Optical_Network "wikilink")1:20～30程度で結ぶ構成に改めなければならないことなどから、既に同軸ケーブルで営業を行っているCATV局にとっては技術的なハードルが高い。
 
-そこで幹線を光ケーブル化することで流合雑音問題の低減や伝送帯域の拡大を実現しつつ、[ラストワンマイル](https://ja.wikipedia.org/wiki/ラストワンマイル "wikilink")は同軸ケーブル構成を維持することで設備投資の抑制・網構成の維持等を図ったものがHFCである\[2\]。
+そこで幹線を光ケーブル化することで流合雑音問題の低減や伝送帯域の拡大を実現しつつ、[ラストワンマイル](../Page/ラストワンマイル.md "wikilink")は同軸ケーブル構成を維持することで設備投資の抑制・網構成の維持等を図ったものがHFCである\[2\]。
 
 ## 脚注
 
@@ -31,7 +31,7 @@
 
 ## 関連項目
 
-  - [DOCSIS](https://ja.wikipedia.org/wiki/Data_Over_Cable_Service_Interface_Specifications "wikilink")
+  - [DOCSIS](../Page/Data_Over_Cable_Service_Interface_Specifications.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バーンズリーFC](https://ja.wikipedia.org/wiki/バーンズリーFC)から翻訳されています。
 
 
-**バーンズリー・フットボール・クラブ**（**Barnsley Football Club**）は[イングランド](../Page/イングランド.md "wikilink")中部、[サウス・ヨークシャー](https://ja.wikipedia.org/wiki/サウス・ヨークシャー "wikilink")州、[バーンズリー](https://ja.wikipedia.org/wiki/バーンズリー "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[チャンピオンシップ](https://ja.wikipedia.org/wiki/EFLチャンピオンシップ "wikilink")（2部相当）に所属。
+**バーンズリー・フットボール・クラブ**（**Barnsley Football Club**）は[イングランド](../Page/イングランド.md "wikilink")中部、[サウス・ヨークシャー](../Page/サウス・ヨークシャー.md "wikilink")州、[バーンズリー](https://ja.wikipedia.org/wiki/バーンズリー "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[チャンピオンシップ](../Page/EFLチャンピオンシップ.md "wikilink")（2部相当）に所属。
 
 ## 名称変更
 
@@ -11,9 +11,9 @@
 ## クラブ各種記録
 
   - 最多得点勝利試合(リーグ):9-0　vs Loughborough Town　フットボールリーグ・セカンドディヴィジョン 1899.1.28
-    最多失点敗戦試合(リーグ):0-9　vs [ノッツ・カウンティ](https://ja.wikipedia.org/wiki/ノッツ・カウンティFC "wikilink") フットボールリーグ・セカンドディヴィジョン 1927.1.19
+    最多失点敗戦試合(リーグ):0-9　vs [ノッツ・カウンティ](../Page/ノッツ・カウンティFC.md "wikilink") フットボールリーグ・セカンドディヴィジョン 1927.1.19
     最多得点勝利試合(カップ):6-0　vs [ブラックプール](../Page/ブラックプールFC.md "wikilink") FAカップ1回戦 1910.1.20
-    最多失点敗戦試合(カップ):1-8　vs [ダービー・カウンティ](https://ja.wikipedia.org/wiki/ダービー・カウンティFC "wikilink") FAカップ1回戦 1987.1.30
+    最多失点敗戦試合(カップ):1-8　vs [ダービー・カウンティ](../Page/ダービー・カウンティFC.md "wikilink") FAカップ1回戦 1987.1.30
 
 ## タイトル
 
@@ -70,11 +70,11 @@
 
 ## 現所属メンバー
 
-**[2019年](../Page/2019年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")現在**\[1\]
+**[2020年](../Page/2020年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")現在**\[1\]
 
 ### ローン移籍選手
 
-**in**   **out**
+**in**    **out**
 
 ## 歴代監督
 
@@ -96,13 +96,17 @@
 
   - [ポール・ヘッキングボトム](https://ja.wikipedia.org/wiki/ポール・ヘッキングボトム "wikilink") (2016-2018)
 
-  - [ダニエル・シュテンデル](https://ja.wikipedia.org/wiki/ダニエル・シュテンデル "wikilink") (2018-)
+  - [ダニエル・シュテンデル](https://ja.wikipedia.org/wiki/ダニエル・シュテンデル "wikilink") (2018-2019)
+
+  - [アダム・マレー](https://ja.wikipedia.org/wiki/アダム・マレー "wikilink") (暫定) (2019)
+
+  - [ゲルハルト・ストルバー](https://ja.wikipedia.org/wiki/ゲルハルト・ストルバー "wikilink") (2019-)
 
 ## 歴代所属選手
 
 **DF**
 
-  - [ミック・マッカーシー](https://ja.wikipedia.org/wiki/ミック・マッカーシー "wikilink") 1977-1983
+  - [ミック・マッカーシー](../Page/ミック・マッカーシー.md "wikilink") 1977-1983
 
   - [アルヤン・デ・ゼーヴ](https://ja.wikipedia.org/wiki/アルヤン・デ・ゼーヴ "wikilink") 1995-1999
 
@@ -123,4 +127,4 @@
 
 [Category:サウス・ヨークシャーのサッカークラブ](https://ja.wikipedia.org/wiki/Category:サウス・ヨークシャーのサッカークラブ "wikilink") [Category:バーンズリー](https://ja.wikipedia.org/wiki/Category:バーンズリー "wikilink") [Category:1887年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1887年設立のスポーツチーム "wikilink")
 
-1.  [First Team](https://www.barnsleyfc.co.uk/teams/first-team/)バーンズリーFC 2019年8月18日閲覧
+1.  [First Team](https://www.barnsleyfc.co.uk/teams/first-team/)バーンズリーFC 2020年3月20日閲覧

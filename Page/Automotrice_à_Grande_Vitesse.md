@@ -1,4 +1,4 @@
-> この記事は[Automotrice  Grande Vitesse](https://ja.wikipedia.org/wiki/Automotrice__Grande_Vitesse)から翻訳されています。
+> この記事は[Automotrice à Grande Vitesse](https://ja.wikipedia.org/wiki/Automotrice_à_Grande_Vitesse)から翻訳されています。
 
 
 [Alstom_AGV_Cerhenice_img_0365.jpg](https://ja.wikipedia.org/wiki/File:Alstom_AGV_Cerhenice_img_0365.jpg "fig:Alstom_AGV_Cerhenice_img_0365.jpg") **AGV**（アジェヴェ、 『高速自走車両→高速鉄道車両』の略）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[アルストム](../Page/アルストム.md "wikilink")社による高速[電車](../Page/電車.md "wikilink")である。[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")の次世代車両として開発され、従来のTGVの[動力集中方式](../Page/動力集中方式.md "wikilink")に対して[動力分散方式](../Page/動力分散方式.md "wikilink")を採用した。2008年に試作車が完成、2012年にイタリアの[NTV社が営業運転に初投入した](https://ja.wikipedia.org/wiki/ヌオーヴォ・トラスポルト・ヴィアッジャトーリ "wikilink")。

@@ -7,18 +7,18 @@
 
   - タイトルは「無駄」の意味。小文字の「m」が大きく表記される特殊な文字記号を用いている。ジャケットは[トラ](../Page/トラ.md "wikilink")と一緒に[檻](https://ja.wikipedia.org/wiki/檻 "wikilink")に入っているジュリーの上に「**DO NOT FEED THE ANIMAL**」（この動物に餌を与えないで下さい）と書かれている。
   - 前作同様、オリジナルアルバムには収録されていない。
-  - 歌詞に[シャネル](../Page/シャネル.md "wikilink")、[ヴィトンというブランド名が登場するが](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")[NHK出演時は](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「ブランドかぶれ」などに歌詞が変更された。
+  - 歌詞に[シャネル](../Page/シャネル.md "wikilink")、[ヴィトンというブランド名が登場するが](../Page/ルイ・ヴィトン.md "wikilink")[NHK出演時は](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「ブランドかぶれ」などに歌詞が変更された。
 
 ## 収録曲
 
 1.  **Muda**
       - 作詞:[神沢礼江](../Page/神沢礼江.md "wikilink")、作曲:[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")、編曲:井上Brothers\[1\]
 2.  **せめて SLOW KISS**
-      - 作詞:[帆苅伸子](https://ja.wikipedia.org/wiki/帆苅伸子 "wikilink")、作曲:[羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink")、編曲:[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
+      - 作詞:[帆苅伸子](https://ja.wikipedia.org/wiki/帆苅伸子 "wikilink")、作曲:[羽田一郎](../Page/羽田一郎.md "wikilink")、編曲:[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
 
 ## 関連項目
 
-  - [1989年の音楽](https://ja.wikipedia.org/wiki/1989年の音楽 "wikilink")
+  - [1989年の音楽](../Page/1989年の音楽.md "wikilink")
 
 ## 脚注
 

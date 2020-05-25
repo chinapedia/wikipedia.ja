@@ -1,7 +1,7 @@
-> この記事は[ OTON](https://ja.wikipedia.org/wiki/_OTON)から翻訳されています。
+> この記事は[タフ外伝 OTON](https://ja.wikipedia.org/wiki/タフ外伝_OTON)から翻訳されています。
 
 
-『**タフ外伝 OTON**』（タフがいでん おとん）は、[猿渡哲也](https://ja.wikipedia.org/wiki/猿渡哲也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』増刊『[漫革](https://ja.wikipedia.org/wiki/漫革 "wikilink")』、のち『[月刊ヤングジャンプ](https://ja.wikipedia.org/wiki/月刊ヤングジャンプ "wikilink")』（いずれも[集英社](../Page/集英社.md "wikilink")）にて、不定期掲載されていた。『月刊ヤングジャンプ』休刊以後の予定は不明である。2010年7月現在、単行本は既刊2巻。『[高校鉄拳伝タフ](https://ja.wikipedia.org/wiki/高校鉄拳伝タフ "wikilink")』並びに『[TOUGH](https://ja.wikipedia.org/wiki/TOUGH_\(漫画\) "wikilink")』の主人公、宮沢熹一の父[宮沢静虎](https://ja.wikipedia.org/wiki/宮沢静虎 "wikilink")を物語の中心とした外伝である。単行本に併録されているもう一つの外伝『**タフ外伝 鬼龍**』についても本項で記述する。
+『**タフ外伝 OTON**』（タフがいでん おとん）は、[猿渡哲也](../Page/猿渡哲也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』増刊『[漫革](https://ja.wikipedia.org/wiki/漫革 "wikilink")』、のち『[月刊ヤングジャンプ](../Page/月刊ヤングジャンプ.md "wikilink")』（いずれも[集英社](../Page/集英社.md "wikilink")）にて、不定期掲載されていた。『月刊ヤングジャンプ』休刊以後の予定は不明である。2010年7月現在、単行本は既刊2巻。『[高校鉄拳伝タフ](../Page/高校鉄拳伝タフ.md "wikilink")』並びに『[TOUGH](../Page/TOUGH_\(漫画\).md "wikilink")』の主人公、宮沢熹一の父[宮沢静虎](https://ja.wikipedia.org/wiki/宮沢静虎 "wikilink")を物語の中心とした外伝である。単行本に併録されているもう一つの外伝『**タフ外伝 鬼龍**』についても本項で記述する。
 
 ## 登場人物
 

@@ -1,4 +1,4 @@
-> この記事は[VY](https://ja.wikipedia.org/wiki/VY)から翻訳されています。
+> この記事は[おおいぬ座VY星](https://ja.wikipedia.org/wiki/おおいぬ座VY星)から翻訳されています。
 
 
 **おおいぬ座VY星**（おおいぬざVYせい）は、[おおいぬ座](../Page/おおいぬ座.md "wikilink")にある[赤色超巨星](../Page/赤色超巨星.md "wikilink")である。

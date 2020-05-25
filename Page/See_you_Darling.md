@@ -28,4 +28,4 @@
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
   - [岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:岸本早未の楽曲](https://ja.wikipedia.org/wiki/Category:岸本早未の楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:岸本早未の楽曲](https://ja.wikipedia.org/wiki/Category:岸本早未の楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

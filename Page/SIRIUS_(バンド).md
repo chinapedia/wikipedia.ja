@@ -1,16 +1,16 @@
-> この記事は[SIRIUS \(\)](https://ja.wikipedia.org/wiki/SIRIUS_\(\))から翻訳されています。
+> この記事は[SIRIUS \(バンド\)](https://ja.wikipedia.org/wiki/SIRIUS_\(バンド\))から翻訳されています。
 
 
-**SIRIUS**(シリウス)は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身の日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドグループ](../Page/バンド_\(音楽\).md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")結成、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")全国CDデビュー。
+**SIRIUS**(シリウス)は、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身の日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドグループ](../Page/バンド_\(音楽\).md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")結成、[2006年](../Page/2006年.md "wikilink")全国CDデビュー。
 
 ## 来歴
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")、[LINDBERGのコピーバンドとして](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")、リーダーSATOSHIを中心に結成。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[市川市](../Page/市川市.md "wikilink")のライブハウス、「The 3rd Stage」にて、結成後初のライブを行う。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月16日](../Page/10月16日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")のライブハウス、「The 3rd Stage」にて、結成後初のライブを行う。
   - [2001年](../Page/2001年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")、「The 3rd Stage」にて、初のワンマンライブを行う。
   - [2001年](../Page/2001年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")[掛川市](../Page/掛川市.md "wikilink")の、[ヤマハリゾートつま恋](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")にて行われたLINDBERGのファンクラブイベント「Resortしましょ\!in つま恋」に於いて、スペシャルライブのオープニングアクトとしてライブを行う。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月15日](../Page/6月15日.md "wikilink")、全国CDデビュー。インディーズとしての全国流通のため、メジャーではない。
-  - 全国CDデビュー後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には173本、[2007年](../Page/2007年.md "wikilink")には155本のライブを敢行。
+  - [2006年](../Page/2006年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")、全国CDデビュー。インディーズとしての全国流通のため、メジャーではない。
+  - 全国CDデビュー後、[2006年](../Page/2006年.md "wikilink")には173本、[2007年](../Page/2007年.md "wikilink")には155本のライブを敢行。
 
 ## メンバー
 
@@ -24,7 +24,7 @@
 
   - **SATOSHI** [ベースギター](https://ja.wikipedia.org/wiki/ベースギター "wikilink")
       - 誕生日：[6月11日](../Page/6月11日.md "wikilink")、[双子座](https://ja.wikipedia.org/wiki/双子座 "wikilink")
-      - 出身：[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江戸川区](https://ja.wikipedia.org/wiki/江戸川区 "wikilink")
+      - 出身：[東京都](../Page/東京都.md "wikilink")[江戸川区](../Page/江戸川区.md "wikilink")
       - 血液型：O型
       - 好きなものはアボカド、ジャガイモ、昆虫、F1。
 
@@ -32,10 +32,10 @@
 
   - **須山 和之** [ギター](../Page/ギター.md "wikilink")
       - 誕生日：[6月10日](../Page/6月10日.md "wikilink")、[双子座](https://ja.wikipedia.org/wiki/双子座 "wikilink")
-      - 出身：[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")
+      - 出身：[埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")
       - 血液型：A型
       - 愛称は「かっちゃん」。
-      - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")よりSIRIUSのサポートとしてギターを担当していたが、[2009年](../Page/2009年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")付で正式メンバーとなる。
+      - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")よりSIRIUSのサポートとしてギターを担当していたが、[2009年](../Page/2009年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")付で正式メンバーとなる。
 
 ## ディスコグラフィ
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-1.  オラニエ（[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")「[モモコのOH\!ソレ\!み〜よ\!](https://ja.wikipedia.org/wiki/モモコのOH!ソレ!み〜よ! "wikilink")」エンディングテーマ、[福島放送](../Page/福島放送.md "wikilink")夏の高校野球福島大会の番組テーマ曲、[コミュニティFM](https://ja.wikipedia.org/wiki/コミュニティFM "wikilink")ネット番組「[才能ブレイクRadio〜STAR DREAMER〜](../Page/才能ブレイクRadio〜STAR_DREAMER〜.md "wikilink")」のオープニングテーマ）
+1.  オラニエ（[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")「[モモコのOH\!ソレ\!み〜よ\!](../Page/モモコのOH!ソレ!み〜よ!.md "wikilink")」エンディングテーマ、[福島放送](../Page/福島放送.md "wikilink")夏の高校野球福島大会の番組テーマ曲、[コミュニティFM](https://ja.wikipedia.org/wiki/コミュニティFM "wikilink")ネット番組「[才能ブレイクRadio〜STAR DREAMER〜](../Page/才能ブレイクRadio〜STAR_DREAMER〜.md "wikilink")」のオープニングテーマ）
 2.  Blue Sky
 3.  オムレツ雲
 
@@ -113,7 +113,7 @@
 
 <!-- end list -->
 
-1.  星花火（[チバテレビ](https://ja.wikipedia.org/wiki/チバテレビ "wikilink")ほか「[朝まるJUST](https://ja.wikipedia.org/wiki/朝まるJUST "wikilink")」エンディングテーマ、チバテレビ「[MUSIC 03](https://ja.wikipedia.org/wiki/MUSIC_03 "wikilink")」エンディングテーマ）
+1.  星花火（[チバテレビ](https://ja.wikipedia.org/wiki/チバテレビ "wikilink")ほか「[朝まるJUST](../Page/朝まるJUST.md "wikilink")」エンディングテーマ、チバテレビ「[MUSIC 03](../Page/MUSIC_03.md "wikilink")」エンディングテーマ）
 2.  ちいさな勇気
 3.  ツキノキセキ
 4.  星花火（ボーナストラック）

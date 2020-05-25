@@ -1,4 +1,4 @@
-> この記事は[ \(Kalafina\)](https://ja.wikipedia.org/wiki/_\(Kalafina\))から翻訳されています。
+> この記事は[アレルヤ \(Kalafinaの曲\)](https://ja.wikipedia.org/wiki/アレルヤ_\(Kalafinaの曲\))から翻訳されています。
 
 
 「**アレルヤ**」は、[Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2013年](../Page/2013年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。
@@ -45,8 +45,8 @@
 ## 外部リンク
 
   - ソニー・ミュージックエンタテインメントによる紹介ページ
-      - [空の境界盤](http://www.sonymusic.co.jp/artist/kalafina/discography/SECL-1391)
-      - [通常盤](http://www.sonymusic.co.jp/artist/kalafina/discography/SECL-1390)
+      - [空の境界盤](https://www.sonymusic.co.jp/artist/kalafina/discography/SECL-1391)
+      - [通常盤](https://www.sonymusic.co.jp/artist/kalafina/discography/SECL-1390)
 
 [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink") [Category:Kalafinaの楽曲](https://ja.wikipedia.org/wiki/Category:Kalafinaの楽曲 "wikilink") [Category:梶浦由記が制作した楽曲](https://ja.wikipedia.org/wiki/Category:梶浦由記が制作した楽曲 "wikilink") [Category:2013年のシングル](https://ja.wikipedia.org/wiki/Category:2013年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:TYPE-MOON作品の音楽](https://ja.wikipedia.org/wiki/Category:TYPE-MOON作品の音楽 "wikilink")
 

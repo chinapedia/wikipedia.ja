@@ -1,4 +1,4 @@
-> この記事は[GROW](https://ja.wikipedia.org/wiki/GROW)から翻訳されています。
+> この記事は[GROWシリーズ](https://ja.wikipedia.org/wiki/GROWシリーズ)から翻訳されています。
 
 
 **GROWシリーズ**（グロウシリーズ）は、EYEZMAZE（アイズメイズ）で公開されている[Flashを用いた](../Page/Adobe_Flash.md "wikilink")[ブラウザゲーム](../Page/ブラウザゲーム.md "wikilink")のシリーズ。作者はON。ジャンルは[パズルゲーム](../Page/パズルゲーム.md "wikilink")。タイトルであるGROWは「成長」の意味を指す。

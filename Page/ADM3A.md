@@ -3,7 +3,7 @@
 
 **ADM3A**とは、Lear Siegler, Inc.が製造した[ビデオ表示端末](https://ja.wikipedia.org/wiki/ビデオ表示端末 "wikilink")。ビデオ表示端末としては最も早く製品化されたもののひとつであり、かつ、比較的安価でもあったため、広く普及した。
 
-[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")の[ビル・ジョイ](../Page/ビル・ジョイ.md "wikilink")は、ADM3Aが導入されたことをきっかけに、[1979年](../Page/1979年.md "wikilink")5月に[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")の[2BSDで](../Page/BSD.md "wikilink")、[C shellや](https://ja.wikipedia.org/wiki/C_Shell "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")の[vi](https://ja.wikipedia.org/wiki/vi "wikilink")を開発してリリースした。
+[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")の[ビル・ジョイ](../Page/ビル・ジョイ.md "wikilink")は、ADM3Aが導入されたことをきっかけに、[1979年](../Page/1979年.md "wikilink")5月に[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")の[2BSDで](../Page/BSD.md "wikilink")、[C shellや](../Page/C_Shell.md "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")の[vi](https://ja.wikipedia.org/wiki/vi "wikilink")を開発してリリースした。
 
 ## ハードウェア
 
@@ -11,17 +11,17 @@
 
 5×7 のドットマトリクスで文字が表示された。 キーボードは59のキーからなった。12インチのモノクロCRTを備えていた\[1\]。
 
-[VT100](https://ja.wikipedia.org/wiki/VT100 "wikilink")と異なりADM-3Aは[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を内蔵せず、[TTLを用いていた](../Page/Transistor-transistor_logic.md "wikilink")。\[2\]。
+[VT100](../Page/VT100.md "wikilink")と異なりADM-3Aは[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を内蔵せず、[TTLを用いていた](../Page/Transistor-transistor_logic.md "wikilink")。\[2\]。
 
 ## 関連項目
 
   - [端末](../Page/端末.md "wikilink")
-  - [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") [VT100](https://ja.wikipedia.org/wiki/VT100 "wikilink")
-  - [IBM 3270](https://ja.wikipedia.org/wiki/IBM_3270 "wikilink")
-  - [IBM 5250](https://ja.wikipedia.org/wiki/IBM_5250 "wikilink")
-  - [端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")
+  - [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") [VT100](../Page/VT100.md "wikilink")
+  - [IBM 3270](../Page/IBM_3270.md "wikilink")
+  - [IBM 5250](../Page/IBM_5250.md "wikilink")
+  - [端末エミュレータ](../Page/端末エミュレータ.md "wikilink")
   - [汎用コンピュータ](https://ja.wikipedia.org/wiki/汎用コンピュータ "wikilink")
-  - [シンクライアント](https://ja.wikipedia.org/wiki/シンクライアント "wikilink")
+  - [シンクライアント](../Page/シンクライアント.md "wikilink")
 
 ## 脚注
 

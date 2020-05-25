@@ -1,4 +1,4 @@
-> この記事は[ \(DDG-45\)](https://ja.wikipedia.org/wiki/_\(DDG-45\))から翻訳されています。
+> この記事は[デューイ \(DDG-45\)](https://ja.wikipedia.org/wiki/デューイ_\(DDG-45\))から翻訳されています。
 
 
 |                                                                                                                                                                                                                                      |
@@ -13,7 +13,7 @@
 | その後                                                                                                                                                                                                                                  |
 | 除籍                                                                                                                                                                                                                                   |
 | 性能諸元                                                                                                                                                                                                                                 |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                                                                                                                                                                                  |
+| [排水量](../Page/排水量.md "wikilink")                                                                                                                                                                                                     |
 | 全長                                                                                                                                                                                                                                   |
 | 全幅                                                                                                                                                                                                                                   |
 | 吃水                                                                                                                                                                                                                                   |
@@ -23,7 +23,7 @@
 | 兵装                                                                                                                                                                                                                                   |
 | モットー:                                                                                                                                                                                                                                |
 
-**デューイ**(**USS Dewey, DLG-14/DDG-45**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")。[ファラガット級駆逐艦の](https://ja.wikipedia.org/wiki/ファラガット級駆逐艦_\(1958年\) "wikilink")9番艦。艦名はアメリカ海軍で唯一の[海軍大元帥である](https://ja.wikipedia.org/wiki/元帥_\(アメリカ合衆国\) "wikilink")[ジョージ・デューイ](https://ja.wikipedia.org/wiki/ジョージ・デューイ "wikilink")にちなむ。その名を持つ艦としては2隻目。
+**デューイ**(**USS Dewey, DLG-14/DDG-45**)は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")。[ファラガット級駆逐艦の](../Page/ファラガット級駆逐艦_\(1958年\).md "wikilink")9番艦。艦名はアメリカ海軍で唯一の[海軍大元帥である](../Page/元帥_\(アメリカ合衆国\).md "wikilink")[ジョージ・デューイ](../Page/ジョージ・デューイ.md "wikilink")にちなむ。その名を持つ艦としては2隻目。
 
 ## 艦歴
 

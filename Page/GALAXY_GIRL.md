@@ -1,11 +1,11 @@
 > この記事は[GALAXY GIRL](https://ja.wikipedia.org/wiki/GALAXY_GIRL)から翻訳されています。
 
 
-「**GALAXY GIRL**」（ギャラクシー・ガール）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算17作目の[シングル](../Page/シングル.md "wikilink")。
+「**GALAXY GIRL**」（ギャラクシー・ガール）は、[1991年](../Page/1991年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算17作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-「GALAXY GIRL」は、オリジナル・アルバム未収録曲。後に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[1\]に収録された。カップリングはタイトル曲のインストゥルメンタル・ヴァージョンで、このシングルのみでの収録。
+「GALAXY GIRL」は、オリジナル・アルバム未収録曲。後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[1\]に収録された。カップリングはタイトル曲のインストゥルメンタル・ヴァージョンで、このシングルのみでの収録。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
 | Trombone; YASUO HIRAUCHI                                                              |
 | Trombone; SUMIO OKADA                                                                 |
 | Saxophone; [JAKE H.CONCEPTION](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink") |
-| Saxophone Solo; [MASATO HONDA](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")         |
+| Saxophone Solo; [MASATO HONDA](../Page/本田雅人.md "wikilink")                            |
 
 ## 脚注
 

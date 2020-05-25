@@ -23,7 +23,7 @@
 <!-- end list -->
 
   - [ボビー宇野](https://ja.wikipedia.org/wiki/ボビー宇野 "wikilink") （1996年10月〜1997年9月）
-  - [辻本茂雄](https://ja.wikipedia.org/wiki/辻本茂雄 "wikilink")、[SABOTEN](https://ja.wikipedia.org/wiki/SABOTEN "wikilink") （1997年10月〜1998年3月）
+  - [辻本茂雄](../Page/辻本茂雄.md "wikilink")、[SABOTEN](../Page/SABOTEN.md "wikilink") （1997年10月〜1998年3月）
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
   - [Super Mints](https://ja.wikipedia.org/wiki/Super_Mints "wikilink") （1996年10月〜1997年3月）
   - ユミ、[樋口哲也](https://ja.wikipedia.org/wiki/樋口哲也 "wikilink") （1997年4月〜1997年7月）
   - [横山ひとみ](https://ja.wikipedia.org/wiki/横山ひとみ "wikilink")、樋口哲也 （1997年8月〜1997年9月）
-  - ボビー宇野、[深谷里奈](https://ja.wikipedia.org/wiki/深谷里奈 "wikilink") （1997年10月〜1998年3月）
+  - ボビー宇野、[深谷里奈](../Page/深谷里奈.md "wikilink") （1997年10月〜1998年3月）
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - [芝田吾朗](https://ja.wikipedia.org/wiki/芝田吾朗 "wikilink")、[久世良輔](https://ja.wikipedia.org/wiki/久世良輔 "wikilink") （1996年10月〜1997年9月）- 途中から[谷川明美](https://ja.wikipedia.org/wiki/谷川明美 "wikilink")もレギュラーに加わる。
+  - [芝田吾朗](https://ja.wikipedia.org/wiki/芝田吾朗 "wikilink")、[久世良輔](https://ja.wikipedia.org/wiki/久世良輔 "wikilink") （1996年10月〜1997年9月）- 途中から[谷川明美](../Page/谷川明美.md "wikilink")もレギュラーに加わる。
   - 久世良輔、[小林愛子](https://ja.wikipedia.org/wiki/小林愛子 "wikilink") （1997年10月〜1998年3月）
 
 \*:※薬師寺保栄、辻本茂雄、黒岩唯一、SABOTENは後番組『ぷるぷるMagicモンスター』にも引き続き出演。
@@ -66,13 +66,13 @@
 ## 主なコーナー、内包番組
 
   - [水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink") ふたりのアトリエ（[文化放送](../Page/文化放送.md "wikilink")制作、[サンギ](https://ja.wikipedia.org/wiki/サンギ "wikilink")提供）
-  - [ローソン・ミュージックアクション](https://ja.wikipedia.org/wiki/ゲルゲットショッキングセンター "wikilink")
+  - [ローソン・ミュージックアクション](../Page/ゲルゲットショッキングセンター.md "wikilink")
   - ぴージャカ トーク
   - チケットパニック\!
   - ぴージャカクラブ
-  - [STOP THE SMAP](https://ja.wikipedia.org/wiki/STOP_THE_SMAP "wikilink")（[文化放送](../Page/文化放送.md "wikilink")制作、[おやつカンパニー](https://ja.wikipedia.org/wiki/おやつカンパニー "wikilink")・[主婦の友社](https://ja.wikipedia.org/wiki/主婦の友社 "wikilink")提供。提供は東海ラジオ独自のものと思われる）
+  - [STOP THE SMAP](https://ja.wikipedia.org/wiki/STOP_THE_SMAP "wikilink")（[文化放送](../Page/文化放送.md "wikilink")制作、[おやつカンパニー](../Page/おやつカンパニー.md "wikilink")・[主婦の友社](../Page/主婦の友社.md "wikilink")提供。提供は東海ラジオ独自のものと思われる）
   - ビッグホーンでシンデレラ（1997年9月まで）
-  - [独占\!\!Jリーグエキスプレス](https://ja.wikipedia.org/wiki/独占!!Jリーグエキスプレス "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作、本番組が21:00スタートになった1997年4月から内包番組に）
+  - [独占\!\!Jリーグエキスプレス](../Page/独占!!Jリーグエキスプレス.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作、本番組が21:00スタートになった1997年4月から内包番組に）
   - YOSHIKIの悩み解決講座 BODY TO SOUL（同じく本番組が21:00スタートになった1997年4月から内包番組に）
   - ハロー\!ボウリング（月曜、1997年10月当時）
   - おかしなバトルトーク（金曜、1997年10月当時）

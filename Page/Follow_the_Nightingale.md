@@ -1,11 +1,11 @@
 > この記事は[Follow the Nightingale](https://ja.wikipedia.org/wiki/Follow_the_Nightingale)から翻訳されています。
 
 
-「**Follow the Nightingale**」（フォロー・ザ・ナイチンゲール）は、[KOKIA](../Page/KOKIA.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[JVCエンタテインメント](https://ja.wikipedia.org/wiki/JVCエンタテインメント "wikilink")から発売された。
+「**Follow the Nightingale**」（フォロー・ザ・ナイチンゲール）は、[KOKIA](../Page/KOKIA.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[JVCエンタテインメント](../Page/JVCエンタテインメント.md "wikilink")から発売された。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")リリースのシングル「愛のメロディー/調和 oto 〜with reflection〜」以来（シングルカットの「ありがとう…」と一般流通でない「私にできること」は除く）約1年10ヶ月半振りとなる新作。表題曲「Follow the Nightingale」は4枚目のシングル「tomoni」を髣髴させるような多重コーラスによるボーカルワークで構成されている。
+[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")リリースのシングル「愛のメロディー/調和 oto 〜with reflection〜」以来（シングルカットの「ありがとう…」と一般流通でない「私にできること」は除く）約1年10ヶ月半振りとなる新作。表題曲「Follow the Nightingale」は4枚目のシングル「tomoni」を髣髴させるような多重コーラスによるボーカルワークで構成されている。
 
 ## 収録曲
 
@@ -20,9 +20,9 @@
 
 ## 収録アルバム
 
-| 曲名                     | 収録アルバム                                                                | 発売日                                                                                         | 備考                                                                 |
-| ---------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Follow the Nightingale | 『**[The VOICE](https://ja.wikipedia.org/wiki/The_VOICE "wikilink")**』 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") | 6th[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink") |
+| 曲名                     | 収録アルバム                                                                | 発売日                                                                                         | 備考                                              |
+| ---------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Follow the Nightingale | 『**[The VOICE](https://ja.wikipedia.org/wiki/The_VOICE "wikilink")**』 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") | 6th[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
 
 ## 外部リンク
 

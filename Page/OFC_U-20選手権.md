@@ -1,7 +1,7 @@
-> この記事は[OFC U-20](https://ja.wikipedia.org/wiki/OFC_U-20)から翻訳されています。
+> この記事は[OFC U-20選手権](https://ja.wikipedia.org/wiki/OFC_U-20選手権)から翻訳されています。
 
 
-**OFC U-20選手権**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、20歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。主に2年に1度開催され、同時に[FIFA U-20ワールドカップの予選を兼ねている](../Page/FIFA_U-20ワールドカップ.md "wikilink")。
+**OFC U-20選手権**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、20歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。主に2年に1度開催され、同時に[FIFA U-20ワールドカップの予選を兼ねている](../Page/FIFA_U-20ワールドカップ.md "wikilink")。
 
 ## 結果
 
@@ -102,7 +102,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFC_U-20選手権1992" title="wikilink">9</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFC_U-20選手権2005" title="wikilink">15</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -344,7 +344,7 @@
   - データは2018年大会終了時点
   - **太字**は優勝経験のある国・地域で、**太数字**は最多記録
   - 国・地域名は現在の名称で統一した
-  - 現在、[オーストラリアと](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")[チャイニーズタイペイは](https://ja.wikipedia.org/wiki/サッカーチャイニーズタイペイ代表 "wikilink")[AFCに](../Page/アジアサッカー連盟.md "wikilink")、[イスラエルは](https://ja.wikipedia.org/wiki/サッカーイスラエル代表 "wikilink")[UEFAに加盟](../Page/欧州サッカー連盟.md "wikilink")
+  - 現在、[オーストラリアと](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")[チャイニーズタイペイは](../Page/サッカーチャイニーズタイペイ代表.md "wikilink")[AFCに](../Page/アジアサッカー連盟.md "wikilink")、[イスラエルは](../Page/サッカーイスラエル代表.md "wikilink")[UEFAに加盟](../Page/欧州サッカー連盟.md "wikilink")
 
 ## 優勝回数
 

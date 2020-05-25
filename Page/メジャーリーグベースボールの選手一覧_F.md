@@ -1,4 +1,4 @@
-> この記事は[ F](https://ja.wikipedia.org/wiki/_F)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 F](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_F)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**F**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -53,7 +53,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roy_Face" title="wikilink">Roy Face</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロイ・フェイス" title="wikilink">ロイ・フェイス</a></p></td>
+<td><p><a href="../Page/ロイ・フェイス.md" title="wikilink">ロイ・フェイス</a></p></td>
 <td><p>1953</p></td>
 <td><p>1969</p></td>
 <td></td>
@@ -706,7 +706,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carlos_Febles" title="wikilink">Carlos Febles</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・フェブルス" title="wikilink">カルロス・フェブルス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・フェブレス" title="wikilink">カルロス・フェブレス</a></p></td>
 <td><p>1998</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -747,10 +747,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Feierabend" title="wikilink">Ryan Feierabend</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Feierabend" title="wikilink">Ryan Feierabend</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ライアン・フィアベンド" title="wikilink">ライアン・フィアベンド</a></p></td>
 <td><p>2006</p></td>
-<td></td>
+<td><p>2019</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -797,7 +797,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pedro_Feliciano" title="wikilink">Pedro Feliciano</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・フェリシアーノ" title="wikilink">ペドロ・フェリシアーノ</a></p></td>
+<td><p><a href="../Page/ペドロ・フェリシアーノ.md" title="wikilink">ペドロ・フェリシアーノ</a></p></td>
 <td><p>2002</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -839,7 +839,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pedro_Feliz" title="wikilink">Pedro Feliz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・フェリス" title="wikilink">ペドロ・フェリス</a></p></td>
+<td><p><a href="../Page/ペドロ・フェリス.md" title="wikilink">ペドロ・フェリス</a></p></td>
 <td><p>2000</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -986,7 +986,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alex_Fernandez_(baseball)" title="wikilink">Alex Fernandez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・フェルナンデス_(野球)" title="wikilink">アレックス・フェルナンデス</a></p></td>
+<td><p><a href="../Page/アレックス・フェルナンデス_(野球).md" title="wikilink">アレックス・フェルナンデス</a></p></td>
 <td><p>1990</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -1014,14 +1014,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jared_Fernández" title="wikilink">Jared Fernandez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャレッド・フェルナンデス" title="wikilink">ジャレッド・フェルナンデス</a></p></td>
+<td><p><a href="../Page/ジャレッド・フェルナンデス.md" title="wikilink">ジャレッド・フェルナンデス</a></p></td>
 <td><p>2001</p></td>
 <td><p>2006</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Fernández_(third_baseman)" title="wikilink">Jose Fernandez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・フェルナンデス_(1974年生の内野手)" title="wikilink">ホゼ・フェルナンデス</a></p></td>
+<td><p><a href="../Page/ホセ・フェルナンデス_(1974年生の内野手).md" title="wikilink">ホゼ・フェルナンデス</a></p></td>
 <td><p>1999</p></td>
 <td><p>2001</p></td>
 <td><p>内野手、Jose Mayobanex (Rojas) Fernandez</p></td>
@@ -1077,7 +1077,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Fernández" title="wikilink">Tony Fernandez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・フェルナンデス" title="wikilink">トニー・フェルナンデス</a></p></td>
+<td><p><a href="../Page/トニー・フェルナンデス.md" title="wikilink">トニー・フェルナンデス</a></p></td>
 <td><p>1983</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -1366,14 +1366,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cecil_Fielder" title="wikilink">Cecil Fielder</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セシル・フィルダー" title="wikilink">セシル・フィルダー</a></p></td>
+<td><p><a href="../Page/セシル・フィルダー.md" title="wikilink">セシル・フィルダー</a></p></td>
 <td><p>1985</p></td>
 <td><p>1998</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Prince_Fielder" title="wikilink">Prince Fielder</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリンス・フィルダー" title="wikilink">プリンス・フィルダー</a></p></td>
+<td><p><a href="../Page/プリンス・フィルダー.md" title="wikilink">プリンス・フィルダー</a></p></td>
 <td><p>2005</p></td>
 <td><p>2016</p></td>
 <td></td>
@@ -1681,7 +1681,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rollie_Fingers" title="wikilink">Rollie Fingers</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ローリー・フィンガーズ" title="wikilink">ロリー・フィンガーズ</a></p></td>
+<td><p><a href="../Page/ローリー・フィンガーズ.md" title="wikilink">ロリー・フィンガーズ</a></p></td>
 <td><p>1968</p></td>
 <td><p>1985</p></td>
 <td><p>殿堂入り</p></td>
@@ -1730,7 +1730,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Finley" title="wikilink">Steve Finley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・フィンリー" title="wikilink">スティーブ・フィンリー</a></p></td>
+<td><p><a href="../Page/スティーブ・フィンリー.md" title="wikilink">スティーブ・フィンリー</a></p></td>
 <td><p>1989</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -1793,7 +1793,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Fiore" title="wikilink">Tony Fiore</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・フィオーレ" title="wikilink">トニー・フィオーレ</a></p></td>
+<td><p><a href="../Page/トニー・フィオーレ.md" title="wikilink">トニー・フィオーレ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -2101,7 +2101,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carlton_Fisk" title="wikilink">Carlton Fisk</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カールトン・フィスク" title="wikilink">カールトン・フィスク</a></p></td>
+<td><p><a href="../Page/カールトン・フィスク.md" title="wikilink">カールトン・フィスク</a></p></td>
 <td><p>1969</p></td>
 <td><p>1993</p></td>
 <td><p>殿堂入り</p></td>
@@ -2683,7 +2683,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jesús_Flores" title="wikilink">Jesus Flores</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘスス・フローレス" title="wikilink">ヘスス・フローレス</a></p></td>
+<td><p><a href="../Page/ヘスス・フローレス.md" title="wikilink">ヘスス・フローレス</a></p></td>
 <td><p>2007</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -2802,14 +2802,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cliff_Floyd" title="wikilink">Cliff Floyd</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリフ・フロイド" title="wikilink">クリフ・フロイド</a></p></td>
+<td><p><a href="../Page/クリフ・フロイド.md" title="wikilink">クリフ・フロイド</a></p></td>
 <td><p>1993</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Gavin_Floyd" title="wikilink">Gavin Floyd</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガビン・フロイド" title="wikilink">ガビン・フロイド</a></p></td>
+<td><p><a href="../Page/ガビン・フロイド.md" title="wikilink">ガビン・フロイド</a></p></td>
 <td><p>2004</p></td>
 <td></td>
 <td></td>
@@ -2957,7 +2957,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Josh_Fogg" title="wikilink">Josh Fogg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョシュ・フォッグ" title="wikilink">ジョシュ・フォッグ</a></p></td>
+<td><p><a href="../Page/ジョシュ・フォッグ.md" title="wikilink">ジョシュ・フォッグ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -3272,7 +3272,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Mike_Ford_(baseball)" title="wikilink">Mike Ford</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・フォード_(野球)" title="wikilink">マイク・フォード</a></p></td>
+<td><p><a href="../Page/マイク・フォード_(野球).md" title="wikilink">マイク・フォード</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -3307,7 +3307,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Whitey_Ford" title="wikilink">Whitey Ford</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホワイティー・フォード" title="wikilink">ホワイティ・フォード</a></p></td>
+<td><p><a href="../Page/ホワイティー・フォード.md" title="wikilink">ホワイティ・フォード</a></p></td>
 <td><p>1950</p></td>
 <td><p>1967</p></td>
 <td><p>殿堂入り</p></td>
@@ -3524,7 +3524,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Foster_(baseball)" title="wikilink">George Foster</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・フォスター" title="wikilink">ジョージ・フォスター</a></p></td>
+<td><p><a href="../Page/ジョージ・フォスター.md" title="wikilink">ジョージ・フォスター</a></p></td>
 <td><p>1969</p></td>
 <td><p>1986</p></td>
 <td></td>
@@ -3636,7 +3636,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Keith_Foulke" title="wikilink">Keith Foulke</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キース・フォーク" title="wikilink">キース・フォーク</a></p></td>
+<td><p><a href="../Page/キース・フォーク.md" title="wikilink">キース・フォーク</a></p></td>
 <td><p>1997</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -3910,7 +3910,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jake_Fraley" title="wikilink">Jake Fraley</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイク・フレイリー" title="wikilink">ジェイク・フレイリー</a></p></td>
+<td><p><a href="../Page/ジェイク・フレイリー.md" title="wikilink">ジェイク・フレイリー</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -3987,7 +3987,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Julio_Franco" title="wikilink">Julio Franco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フリオ・フランコ" title="wikilink">フリオ・フランコ</a></p></td>
+<td><p><a href="../Page/フリオ・フランコ.md" title="wikilink">フリオ・フランコ</a></p></td>
 <td><p>1982</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -4001,21 +4001,21 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Matt_Franco" title="wikilink">Matt Franco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マット・フランコ" title="wikilink">マット・フランコ</a></p></td>
+<td><p><a href="../Page/マット・フランコ.md" title="wikilink">マット・フランコ</a></p></td>
 <td><p>1995</p></td>
 <td><p>2003</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Francoeur" title="wikilink">Jeff Francoeur</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・フランコーア" title="wikilink">ジェフ・フランコーア</a></p></td>
+<td><p><a href="../Page/ジェフ・フランコーア.md" title="wikilink">ジェフ・フランコーア</a></p></td>
 <td><p>2005</p></td>
 <td><p>2016</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Terry_Francona" title="wikilink">Terry Francona</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー・フランコーナ" title="wikilink">テリー・フランコーナ</a></p></td>
+<td><p><a href="../Page/テリー・フランコーナ.md" title="wikilink">テリー・フランコーナ</a></p></td>
 <td><p>1981</p></td>
 <td><p>1990</p></td>
 <td></td>
@@ -4029,7 +4029,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Frandsen" title="wikilink">Kevin Frandsen</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・フランドセン" title="wikilink">ケビン・フランドセン</a></p></td>
+<td><p><a href="../Page/ケビン・フランドセン.md" title="wikilink">ケビン・フランドセン</a></p></td>
 <td><p>2006</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -4085,7 +4085,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Micah_Franklin" title="wikilink">Micah Franklin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイカ・フランクリン" title="wikilink">マイカ・フランクリン</a></p></td>
+<td><p><a href="../Page/マイカ・フランクリン.md" title="wikilink">マイカ・フランクリン</a></p></td>
 <td><p>1997</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -4155,7 +4155,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Fraser" title="wikilink">Willie Fraser</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・フレーザー" title="wikilink">ウィリー・フレイザー</a></p></td>
+<td><p><a href="../Page/ウィリー・フレーザー.md" title="wikilink">ウィリー・フレイザー</a></p></td>
 <td><p>1986</p></td>
 <td><p>1995</p></td>
 <td></td>
@@ -4267,7 +4267,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Freehan" title="wikilink">Bill Freehan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・フリーハン" title="wikilink">ビル・フリーハン</a></p></td>
+<td><p><a href="../Page/ビル・フリーハン.md" title="wikilink">ビル・フリーハン</a></p></td>
 <td><p>1961</p></td>
 <td><p>1976</p></td>
 <td></td>
@@ -4940,7 +4940,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brian_Fuentes" title="wikilink">Brian Fuentes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・フエンテス" title="wikilink">ブライアン・フエンテス</a></p></td>
+<td><p><a href="../Page/ブライアン・フエンテス.md" title="wikilink">ブライアン・フエンテス</a></p></td>
 <td><p>2001</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -5010,7 +5010,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kazuo_Fukumori" title="wikilink">Kazuo Fukumori</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福盛和男" title="wikilink">福盛和男</a></p></td>
+<td><p><a href="../Page/福盛和男.md" title="wikilink">福盛和男</a></p></td>
 <td><p>2008</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -5227,7 +5227,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:J._J._Furmaniak" title="wikilink">J.J. Furmaniak</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/J.J.ファーマニアック" title="wikilink">J.J.ファーマニアック</a></p></td>
+<td><p><a href="../Page/J.J.ファーマニアック.md" title="wikilink">J.J.ファーマニアック</a></p></td>
 <td><p>2005</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -5278,7 +5278,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Fyhrie" title="wikilink">Mike Fyhrie</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・フィアリー" title="wikilink">マイク・フィーリー</a></p></td>
+<td><p><a href="../Page/マイク・フィアリー.md" title="wikilink">マイク・フィーリー</a></p></td>
 <td><p>1996</p></td>
 <td><p>2002</p></td>
 <td></td>

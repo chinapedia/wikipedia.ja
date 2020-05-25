@@ -1,12 +1,12 @@
-> この記事は[ \( Only Love\)](https://ja.wikipedia.org/wiki/_\(_Only_Love\))から翻訳されています。
+> この記事は[秘密 \(ときめきメモリアル Only Loveのキャラクターソング\)](https://ja.wikipedia.org/wiki/秘密_\(ときめきメモリアル_Only_Loveのキャラクターソング\))から翻訳されています。
 
 
-「**秘密**」（ひみつ）は、天宮小百合（[牧島有希](https://ja.wikipedia.org/wiki/牧島有希 "wikilink")）と春日つかさ（[吉川友佳子](https://ja.wikipedia.org/wiki/塩野アンリ "wikilink")）と弥生水奈（[藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")）の2枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[KONAMIからリリース](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")から販売された。
+「**秘密**」（ひみつ）は、天宮小百合（[牧島有希](../Page/牧島有希.md "wikilink")）と春日つかさ（[吉川友佳子](../Page/塩野アンリ.md "wikilink")）と弥生水奈（[藤田咲](../Page/藤田咲.md "wikilink")）の2枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[KONAMIからリリース](../Page/コナミレーベル.md "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")から販売された。
 
 ## 概要
 
-  - 表題曲「秘密」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ときめきメモリアル Only Love](https://ja.wikipedia.org/wiki/ときめきメモリアル_Only_Love "wikilink")』の後期[エンディングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
-  - 歌っているのは同作品に登場する[メインヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")・天宮小百合（牧島有希）と春日つかさ（吉川友佳子）と弥生水奈（藤田咲）の3人。
+  - 表題曲「秘密」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ときめきメモリアル Only Love](../Page/ときめきメモリアル_Only_Love.md "wikilink")』の後期[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。
+  - 歌っているのは同作品に登場する[メインヒロイン](../Page/ヒロイン.md "wikilink")・天宮小百合（牧島有希）と春日つかさ（吉川友佳子）と弥生水奈（藤田咲）の3人。
   - [ジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、天宮小百合、牧島有希、弥生水奈がプリントされている。
 
 ## 収録内容
@@ -15,7 +15,7 @@
       -
         作詞：[黒須チヒロ](https://ja.wikipedia.org/wiki/黒須チヒロ "wikilink")、作曲：上原武、編曲：松井寛
     <!-- end list -->
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ときめきメモリアル Only Love](https://ja.wikipedia.org/wiki/ときめきメモリアル_Only_Love "wikilink")』後期[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ときめきメモリアル Only Love](../Page/ときめきメモリアル_Only_Love.md "wikilink")』後期[エンディングテーマ](../Page/主題歌.md "wikilink")
 2.  **真冬のヒマワリ** \[4:25\]
       -
         作詞：黒須チヒロ、作曲：上原武、編曲：松井寛

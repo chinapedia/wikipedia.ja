@@ -1,7 +1,7 @@
 > この記事は[HOLA!!](https://ja.wikipedia.org/wiki/HOLA!!)から翻訳されています。
 
 
-『**HOLA\!\!**』（オラ！）は[高山瑞穂](https://ja.wikipedia.org/wiki/高山瑞穂 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。当初は『[月刊少年ブラッド](https://ja.wikipedia.org/wiki/月刊少年ブラッド "wikilink")』[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")6月号から連載していたが、本誌休刊に伴い未完状態で終了。[2007年](../Page/2007年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")より[Yahoo\!コミック](https://ja.wikipedia.org/wiki/Yahoo!コミック "wikilink")内のウェッブマガジン『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』で1話より再掲載の後、連載が再開され[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月の新エピソード公開を以て完結、全6話。
+『**HOLA\!\!**』（オラ！）は[高山瑞穂](../Page/高山瑞穂.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。当初は『[月刊少年ブラッド](../Page/月刊少年ブラッド.md "wikilink")』[2006年](../Page/2006年.md "wikilink")6月号から連載していたが、本誌休刊に伴い未完状態で終了。[2007年](../Page/2007年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")より[Yahoo\!コミック](https://ja.wikipedia.org/wiki/Yahoo!コミック "wikilink")内のウェッブマガジン『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』で1話より再掲載の後、連載が再開され[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月の新エピソード公開を以て完結、全6話。
 
 ## ストーリー
 
@@ -42,7 +42,7 @@
 
 ## 単行本
 
-[フレックスコミックス](https://ja.wikipedia.org/wiki/フレックスコミックス "wikilink")から2008年1月12日に発売、全1巻。
+[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")から2008年1月12日に発売、全1巻。
 
   - 2008年1月25日初版発行 ISBN 978-4-7973-4607-7
 

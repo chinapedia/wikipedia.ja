@@ -1,7 +1,7 @@
 > この記事は[SAPPORO HOT 100](https://ja.wikipedia.org/wiki/SAPPORO_HOT_100)から翻訳されています。
 
 
-『**SAPPORO HOT 100**』（サッポロ・ホット・ワンハンドレッド）は、[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")にて放送されている[カウントダウン番組](https://ja.wikipedia.org/wiki/カウントダウン番組 "wikilink")であり、また[JFL各局で制作されている](https://ja.wikipedia.org/wiki/JAPAN_FM_LEAGUE "wikilink")「[HOT 100](https://ja.wikipedia.org/wiki/HOT_100 "wikilink")」の1つで、[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")でもある。
+『**SAPPORO HOT 100**』（サッポロ・ホット・ワンハンドレッド）は、[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")にて放送されている[カウントダウン番組](../Page/カウントダウン番組.md "wikilink")であり、また[JFL各局で制作されている](../Page/JAPAN_FM_LEAGUE.md "wikilink")「[HOT 100](../Page/HOT_100.md "wikilink")」の1つで、[企画ネット番組](../Page/企画ネット番組.md "wikilink")でもある。
 
 ## 概要
 
@@ -26,7 +26,7 @@
 ## DJ
 
   - 2016年4月 -
-      - [タック・ハーシー](https://ja.wikipedia.org/wiki/タック・ハーシー "wikilink") (番組開始当初のDJでもある)
+      - [タック・ハーシー](../Page/タック・ハーシー.md "wikilink") (番組開始当初のDJでもある)
   - 過去
       - [森ルナ](https://ja.wikipedia.org/wiki/森ルナ "wikilink")
       - [潮音](https://ja.wikipedia.org/wiki/潮音_\(ラジオパーソナリティ\) "wikilink")
@@ -55,46 +55,46 @@
 
 「NORTH WAVE TOP 40」時代のものも含む。背景が黄色の曲は邦楽（[J-POP](../Page/J-POP.md "wikilink")）である。
 
-| 年度       | 曲名                                                                             | アーティスト名                                                                                                                                     | 脚注     |
-| -------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1993年    | DREAMLOVER                                                                     | [MARIAH CAREY](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")                                                                          | \[7\]  |
-| 1994年    | HEAVEN COME DOWN                                                               | [JENNIFER BROWN](https://ja.wikipedia.org/wiki/ジェニファー・ブラウン "wikilink")                                                                      | \[8\]  |
-| 1995年    | [SHY GUY](https://ja.wikipedia.org/wiki/タファー・ザン・ラヴ "wikilink")                 | [DIANA KING](https://ja.wikipedia.org/wiki/ダイアナ・キング "wikilink")                                                                             | \[9\]  |
-| 1996年    | VIRTUAL INSANITY                                                               | [JAMIROQUAI](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")                                                                              | \[10\] |
-| 1997年    | [MMM BOP](https://ja.wikipedia.org/wiki/キラメキ☆MMMBOP（ンー・バップ） "wikilink")        | [HANSON](../Page/ハンソン_\(バンド\).md "wikilink")                                                                                                | \[11\] |
-| 1998年    | DOO WOP                                                                        | [LAURYN HILL](https://ja.wikipedia.org/wiki/ローリン・ヒル "wikilink")                                                                             | \[12\] |
-| 1999年    | [AUTOMATIC](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink") | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                                                                                                      | \[13\] |
-| 2000年    | [TSUNAMI](../Page/TSUNAMI.md "wikilink")                                       | [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")                                                                                              | \[14\] |
-| 2001年    | [ひとり](https://ja.wikipedia.org/wiki/ひとり_\(ゴスペラーズの曲\) "wikilink")               | [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")                                                                                                      | \[15\] |
-| 2002年    | THE PERFECT VISION                                                             | [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")                                                                                     | \[16\] |
-| 2003年    | NO LETTING GO                                                                  | [WAYNE WONDER](https://ja.wikipedia.org/wiki/ウェイン・ワンダー "wikilink")                                                                          | \[17\] |
-| 2004年    | HAPPY PEOPLE                                                                   | [R.KELLY](https://ja.wikipedia.org/wiki/R・ケリー "wikilink")                                                                                   | \[18\] |
-| 2005年    | GET RIGHT                                                                      | [JENNIFER LOPEZ](https://ja.wikipedia.org/wiki/ジェニファー・ロペス "wikilink") feat. [FABOLOUS](../Page/ファボラス.md "wikilink")                         | \[19\] |
-| 2006年    | SO SICK                                                                        | [NE-YO](https://ja.wikipedia.org/wiki/ニーヨ "wikilink")                                                                                       | \[20\] |
-| 2007年    | BECAUSE OF YOU                                                                 | NE-YO                                                                                                                                       | \[21\] |
-| 2008年    | LOVE IN THIS CLUB                                                              | [USHER](../Page/アッシャー.md "wikilink") feat. [YOUNG JEEZY](https://ja.wikipedia.org/wiki/ヤング・ジージー "wikilink")                                 | \[22\] |
-| 2009年    | FOR YOU                                                                        | [Lecca](https://ja.wikipedia.org/wiki/Lecca "wikilink")                                                                                     | \[23\] |
-| 2010年    | やわらかなサイクル                                                                      | [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")                                                                                       | \[24\] |
-| 2011年    | [WHAT THE HELL](https://ja.wikipedia.org/wiki/ワット・ザ・ヘル "wikilink")             | [AVRIL LAVIGNE](../Page/アヴリル・ラヴィーン.md "wikilink")                                                                                           | \[25\] |
-| 2012年    | Be…                                                                            | [Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")                                                                                 | \[26\] |
-| 2013年    | SUIT & TIE                                                                     | [JUSTIN TIMBERLAKE](https://ja.wikipedia.org/wiki/ジャスティン・ティンバーレイク "wikilink") feat. [JAY-Z](https://ja.wikipedia.org/wiki/ジェイ・Z "wikilink") | \[27\] |
-| 2014年    | [HAPPY](https://ja.wikipedia.org/wiki/Happy_\(ファレル・ウィリアムスの曲\) "wikilink")      | [PHARRELL WILLIAMS](https://ja.wikipedia.org/wiki/ファレル・ウィリアムス "wikilink")                                                                   | \[28\] |
-| 2015年    | [UPTOWN FUNK](https://ja.wikipedia.org/wiki/アップタウン・ファンク "wikilink")            | [MARK RONSON](https://ja.wikipedia.org/wiki/マーク・ロンソン "wikilink") feat. [BRUNO MARS](https://ja.wikipedia.org/wiki/ブルーノ・マーズ "wikilink")      | \[29\] |
-| 2016年    | [道](https://ja.wikipedia.org/wiki/Fantome "wikilink")                          | 宇多田ヒカル                                                                                                                                      | \[30\] |
-| 2017年    | SHAPE OF YOU                                                                   | [ED SHEERAN](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")                                                                              | \[31\] |
-| 2018年    | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink")             | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                                                                                       | \[32\] |
-| 2019年    | [忘れられないの](https://ja.wikipedia.org/wiki/忘れられないの/モス "wikilink")                 | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")                                                                                 | \[33\] |
-| HOT 1000 | SHY GUY                                                                        | DIANA KING                                                                                                                                  | \[34\] |
+| 年度       | 曲名                                                                             | アーティスト名                                                                                                                                | 脚注     |
+| -------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1993年    | DREAMLOVER                                                                     | [MARIAH CAREY](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")                                                                     | \[7\]  |
+| 1994年    | HEAVEN COME DOWN                                                               | [JENNIFER BROWN](https://ja.wikipedia.org/wiki/ジェニファー・ブラウン "wikilink")                                                                 | \[8\]  |
+| 1995年    | [SHY GUY](https://ja.wikipedia.org/wiki/タファー・ザン・ラヴ "wikilink")                 | [DIANA KING](https://ja.wikipedia.org/wiki/ダイアナ・キング "wikilink")                                                                        | \[9\]  |
+| 1996年    | VIRTUAL INSANITY                                                               | [JAMIROQUAI](../Page/ジャミロクワイ.md "wikilink")                                                                                            | \[10\] |
+| 1997年    | [MMM BOP](https://ja.wikipedia.org/wiki/キラメキ☆MMMBOP（ンー・バップ） "wikilink")        | [HANSON](../Page/ハンソン_\(バンド\).md "wikilink")                                                                                           | \[11\] |
+| 1998年    | DOO WOP                                                                        | [LAURYN HILL](../Page/ローリン・ヒル.md "wikilink")                                                                                           | \[12\] |
+| 1999年    | [AUTOMATIC](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink") | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                                                                                                 | \[13\] |
+| 2000年    | [TSUNAMI](../Page/TSUNAMI.md "wikilink")                                       | [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")                                                                                         | \[14\] |
+| 2001年    | [ひとり](https://ja.wikipedia.org/wiki/ひとり_\(ゴスペラーズの曲\) "wikilink")               | [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")                                                                                                 | \[15\] |
+| 2002年    | THE PERFECT VISION                                                             | [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink")                                                                                | \[16\] |
+| 2003年    | NO LETTING GO                                                                  | [WAYNE WONDER](https://ja.wikipedia.org/wiki/ウェイン・ワンダー "wikilink")                                                                     | \[17\] |
+| 2004年    | HAPPY PEOPLE                                                                   | [R.KELLY](../Page/R・ケリー.md "wikilink")                                                                                                 | \[18\] |
+| 2005年    | GET RIGHT                                                                      | [JENNIFER LOPEZ](../Page/ジェニファー・ロペス.md "wikilink") feat. [FABOLOUS](../Page/ファボラス.md "wikilink")                                       | \[19\] |
+| 2006年    | SO SICK                                                                        | [NE-YO](../Page/ニーヨ.md "wikilink")                                                                                                     | \[20\] |
+| 2007年    | BECAUSE OF YOU                                                                 | NE-YO                                                                                                                                  | \[21\] |
+| 2008年    | LOVE IN THIS CLUB                                                              | [USHER](../Page/アッシャー_\(歌手\).md "wikilink") feat. [YOUNG JEEZY](https://ja.wikipedia.org/wiki/ヤング・ジージー "wikilink")                     | \[22\] |
+| 2009年    | FOR YOU                                                                        | [Lecca](https://ja.wikipedia.org/wiki/Lecca "wikilink")                                                                                | \[23\] |
+| 2010年    | やわらかなサイクル                                                                      | [元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")                                                                                  | \[24\] |
+| 2011年    | [WHAT THE HELL](https://ja.wikipedia.org/wiki/ワット・ザ・ヘル "wikilink")             | [AVRIL LAVIGNE](../Page/アヴリル・ラヴィーン.md "wikilink")                                                                                      | \[25\] |
+| 2012年    | Be…                                                                            | [Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")                                                                            | \[26\] |
+| 2013年    | SUIT & TIE                                                                     | [JUSTIN TIMBERLAKE](../Page/ジャスティン・ティンバーレイク.md "wikilink") feat. [JAY-Z](../Page/ジェイ・Z.md "wikilink")                                  | \[27\] |
+| 2014年    | [HAPPY](https://ja.wikipedia.org/wiki/Happy_\(ファレル・ウィリアムスの曲\) "wikilink")      | [PHARRELL WILLIAMS](../Page/ファレル・ウィリアムス.md "wikilink")                                                                                 | \[28\] |
+| 2015年    | [UPTOWN FUNK](https://ja.wikipedia.org/wiki/アップタウン・ファンク "wikilink")            | [MARK RONSON](https://ja.wikipedia.org/wiki/マーク・ロンソン "wikilink") feat. [BRUNO MARS](https://ja.wikipedia.org/wiki/ブルーノ・マーズ "wikilink") | \[29\] |
+| 2016年    | [道](https://ja.wikipedia.org/wiki/Fantome "wikilink")                          | 宇多田ヒカル                                                                                                                                 | \[30\] |
+| 2017年    | SHAPE OF YOU                                                                   | [ED SHEERAN](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")                                                                         | \[31\] |
+| 2018年    | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink")             | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                                                                                  | \[32\] |
+| 2019年    | [忘れられないの](https://ja.wikipedia.org/wiki/忘れられないの/モス "wikilink")                 | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")                                                                            | \[33\] |
+| HOT 1000 | SHY GUY                                                                        | DIANA KING                                                                                                                             | \[34\] |
 
 ## JFL各局の「HOT 100」
 
-  - [SAISON CARD TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）
-  - [ZIP HOT 100](https://ja.wikipedia.org/wiki/ZIP_HOT_100 "wikilink")（[ZIP-FM](../Page/ZIP-FM.md "wikilink")）
-  - [DOCOMO OSAKAN HOT 100](https://ja.wikipedia.org/wiki/OSAKAN_HOT_100 "wikilink")（[FM802](../Page/FM802.md "wikilink")）
+  - [SAISON CARD TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）
+  - [ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")（[ZIP-FM](../Page/ZIP-FM.md "wikilink")）
+  - [DOCOMO OSAKAN HOT 100](../Page/OSAKAN_HOT_100.md "wikilink")（[FM802](../Page/FM802.md "wikilink")）
 
 **放送が終了した番組**
 
-  - [COUNTDOWN KYUSHU HOT 100](https://ja.wikipedia.org/wiki/COUNTDOWN_KYUSHU_HOT_100 "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")）
+  - [COUNTDOWN KYUSHU HOT 100](../Page/COUNTDOWN_KYUSHU_HOT_100.md "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")）
 
 ## 脚注
 

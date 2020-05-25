@@ -7,7 +7,7 @@
 
   - オリコン初登場2位。
   - カップリング曲「Night Flight〜夜間飛行〜」は、2ndアルバム『[w-inds.〜THE SYSTEM OF ALIVE〜](https://ja.wikipedia.org/wiki/w-inds.THE_SYSTEM_OF_ALIVE "wikilink")』収録の楽曲「Baby Maybe」のアンサーソングで、詞中に『Baby Maybe』というワードも出てくる。さらにこの曲のアンサーソングにあたるのが、3rdアルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』収録曲「Deny」である。（誌面等で、メンバーによって語られている）
-  - 2003年9月22日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2003年9月22日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ## 収録曲
 

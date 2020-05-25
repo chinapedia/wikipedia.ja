@@ -3,25 +3,25 @@
 
 **Y\&T**（**ワイ・アンド・ティー**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")出身の[ハードロック](../Page/ハードロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-「[ヴァン・ヘイレン](https://ja.wikipedia.org/wiki/ヴァン・ヘイレン "wikilink")」らと並び、[米西海岸におけるアメリカン](https://ja.wikipedia.org/wiki/アメリカ合衆国西海岸 "wikilink")[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")系バンドの先駆者として知られる。
+「[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")」らと並び、[米西海岸におけるアメリカン](../Page/アメリカ合衆国西海岸.md "wikilink")[HR/HM](https://ja.wikipedia.org/wiki/HR/HM "wikilink")系バンドの先駆者として知られる。
 
 ## 略歴
 
 [Y_and_T_au_Raismesfest_2008.jpg](https://ja.wikipedia.org/wiki/File:Y_and_T_au_Raismesfest_2008.jpg "fig:Y_and_T_au_Raismesfest_2008.jpg") [1972年](../Page/1972年.md "wikilink")頃から[オークランドで活動を始め](../Page/オークランド_\(カリフォルニア州\).md "wikilink")、[1974年](../Page/1974年.md "wikilink")にバンド名「Yesterday\&Today」として正式に発足。オリジナル・メンバーはデイヴ・メニケッティ(Vo/G)、ジョーイ・アルヴィス(G)、フィル・ケネモア(B/Vo)、レオナード・ヘイズ(Ds)の4人。バンド名は「[ビートルズ](../Page/ビートルズ.md "wikilink")」のアルバム『[イエスタデイ・アンド・トゥデイ](../Page/イエスタデイ・アンド・トゥデイ.md "wikilink")』に由来する\[1\]。
 
-[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")にアルバム『Yesterday and Today』でデビュー。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には2ndアルバム『Struck Down』をリリース。
+[1976年](../Page/1976年.md "wikilink")にアルバム『Yesterday and Today』でデビュー。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には2ndアルバム『Struck Down』をリリース。
 
 [1981年](../Page/1981年.md "wikilink")、レーベル移籍を期にバンド名を"Y\&T"に変更。3rdアルバム『アースシェイカー』でハードロック・ファンに広く認知される。、
 
 以降、4thアルバム『[ブラック・タイガー](https://ja.wikipedia.org/wiki/ブラック・タイガー_\(アルバム\) "wikilink")』([1982年](../Page/1982年.md "wikilink"))、5thアルバム『[ミーン・ストリーク](https://ja.wikipedia.org/wiki/ミーン・ストリーク_\(アルバム\) "wikilink")』([1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink"))、6thアルバム『[イン・ロック・ウィ・トラスト](https://ja.wikipedia.org/wiki/イン・ロック・ウィ・トラスト "wikilink")』([1984年](../Page/1984年.md "wikilink"))、7thアルバム『ダウン・フォー・ザ・カウント』([1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"))と毎年アルバムを発表。中でも『イン・ロック・ウィ・トラスト』は、全米46位\[2\]・全英33位を記録し\[3\]、45万枚を売り上げた。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にヘイズが「ルックスが悪い」という理不尽な理由で解雇され、ジミー・デグラッソに交代。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には[ゲフィン・レコード](https://ja.wikipedia.org/wiki/ゲフィン・レコード "wikilink")に移籍。[LAメタル](../Page/LAメタル.md "wikilink")の影響が強い『コンテイジャス』をリリース。さらに[1989年](../Page/1989年.md "wikilink")にはジョーイ・アルヴィスが脱退し、サイド・ギタリストがステフ・バーンズに交代している。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、『テン』をリリース後、解散を発表。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")にヘイズが「ルックスが悪い」という理不尽な理由で解雇され、ジミー・デグラッソに交代。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には[ゲフィン・レコード](../Page/ゲフィン・レコード.md "wikilink")に移籍。[LAメタル](../Page/LAメタル.md "wikilink")の影響が強い『コンテイジャス』をリリース。さらに[1989年](../Page/1989年.md "wikilink")にはジョーイ・アルヴィスが脱退し、サイド・ギタリストがステフ・バーンズに交代している。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に、『テン』をリリース後、解散を発表。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月31日のライヴを最後に解散するが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散時と同じデイヴ・メニケッティ、ステフ・バーンズ、フィル・ケネモア、ジミー・デグラッソの4人で再結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")までに2枚のアルバムを発表した。デグラッソは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に脱退し[メガデスに加入](../Page/メガデス_\(バンド\).md "wikilink")。実質上再解散状態になる。
 
-[2001年](../Page/2001年.md "wikilink")には、オリジナル・ドラマーのレオナード・ヘイズが復帰したラインナップで再々結成。その後ステフ・バーンズは[ヒューイ・ルイス&ザ・ニュース](https://ja.wikipedia.org/wiki/ヒューイ・ルイス&ザ・ニュース "wikilink")に移籍し、後任にはジョン・ナイマンが加入した。また、ヘイズは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に離脱し、後任ドラマーとしてマイク・ヴァンダーヒュールが加入している。
+[2001年](../Page/2001年.md "wikilink")には、オリジナル・ドラマーのレオナード・ヘイズが復帰したラインナップで再々結成。その後ステフ・バーンズは[ヒューイ・ルイス&ザ・ニュース](../Page/ヒューイ・ルイス&ザ・ニュース.md "wikilink")に移籍し、後任にはジョン・ナイマンが加入した。また、ヘイズは[2006年](../Page/2006年.md "wikilink")に離脱し、後任ドラマーとしてマイク・ヴァンダーヒュールが加入している。
 
-[Phil_Kennemore_Hellfest.JPG](https://ja.wikipedia.org/wiki/File:Phil_Kennemore_Hellfest.JPG "fig:Phil_Kennemore_Hellfest.JPG") [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にはデイヴ・メニケッティ、フィル・ケネモア、ジョン・ナイマン、マイク・ヴァンダーヒュールというラインナップによる13年振りの12thアルバム『フェイスメルター』を発表\[4\]。しかし同年、オリジナルメンバーの1人であるケネモアが[肺癌](https://ja.wikipedia.org/wiki/肺癌 "wikilink")と診断されたため、ブラッド・ラングが代役のベーシストとして加入\[5\]。
+[Phil_Kennemore_Hellfest.JPG](https://ja.wikipedia.org/wiki/File:Phil_Kennemore_Hellfest.JPG "fig:Phil_Kennemore_Hellfest.JPG") [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にはデイヴ・メニケッティ、フィル・ケネモア、ジョン・ナイマン、マイク・ヴァンダーヒュールというラインナップによる13年振りの12thアルバム『フェイスメルター』を発表\[4\]。しかし同年、オリジナルメンバーの1人であるケネモアが[肺癌](../Page/肺癌.md "wikilink")と診断されたため、ブラッド・ラングが代役のベーシストとして加入\[5\]。
 
 病状が悪化したケネモアは、翌[2011年](../Page/2011年.md "wikilink")1月7日に57歳で死去\[6\]。それに伴いラングが正式メンバーに昇格\[7\]。
 
@@ -63,7 +63,7 @@
 
 #### イエアスタデイ・アンド・トゥデイ
 
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") Yesterday & Today
+  - [1976年](../Page/1976年.md "wikilink") Yesterday & Today
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") Struck Down
 
 #### Y\&T
@@ -82,7 +82,7 @@
 ### ライヴ・アルバム
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") [オープン・ファイアー](https://ja.wikipedia.org/wiki/オープン・ファイアー "wikilink") - Open Fire
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") イエスタデイ・アンド・トゥデイ・ライヴ - Yesterday & Today Live
+  - [1991年](../Page/1991年.md "wikilink") イエスタデイ・アンド・トゥデイ・ライヴ - Yesterday & Today Live
   - [2000年](../Page/2000年.md "wikilink") ライヴ・オン・ザ・フライデイ・ロック・ショウ - BBC in Concert: Live on the Friday Rock Show
   - [2007年](../Page/2007年.md "wikilink") Live: One Hot Night (CD付きDVD)
   - [2012年](../Page/2012年.md "wikilink") ライヴ・アット・ザ・ミスティック - Live at the Mystic
@@ -91,14 +91,14 @@
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") フォーエヴァー／ベスト・オブY\&T - Forever / Best of Y\&T（日本編集）
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") ベスト・オブ・'81トゥ'85 - Best of '81–'85
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink") Anthology
+  - [1992年](../Page/1992年.md "wikilink") Anthology
   - [2001年](../Page/2001年.md "wikilink") Ultimate Collection
   - [2003年](../Page/2003年.md "wikilink") アンアースドVol.1 - Unearthed Vol 1
   - [2004年](../Page/2004年.md "wikilink") アンアースドVol.2 - Unearthed Vol 2
 
 ### シングル
 
-  - [1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink") Earthshaker （日本のみ）
+  - [1976年](../Page/1976年.md "wikilink") Earthshaker （日本のみ）
   - [1981年](../Page/1981年.md "wikilink") Rescue Me
   - [1982年](../Page/1982年.md "wikilink") Forever （日本のみ）
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") Mean Streak

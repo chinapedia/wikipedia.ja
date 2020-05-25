@@ -48,6 +48,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-3604/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-3604)
 
 [Category:プリンセス_プリンセスのアルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのアルバム "wikilink") [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink")

@@ -201,7 +201,7 @@ HM7Bは[ガス発生器サイクル](../Page/ガス発生器サイクル.md "wik
 
 ## 参考
 
-  - [宇宙機の推進方法](https://ja.wikipedia.org/wiki/宇宙機の推進方法 "wikilink")
+  - [宇宙機の推進方法](../Page/宇宙機の推進方法.md "wikilink")
 
 ### 類似のエンジン
 

@@ -1,4 +1,4 @@
-> この記事は[T.](https://ja.wikipedia.org/wiki/T.)から翻訳されています。
+> この記事は[T.ラック](https://ja.wikipedia.org/wiki/T.ラック)から翻訳されています。
 
 
 **T.ラック**（ティー ラック、[6月14日](../Page/6月14日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[声優](../Page/声優.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。以前は[ムーブマン](../Page/ムーブマン.md "wikilink")に所属していた。旧名：**T-Lac**。
@@ -7,8 +7,8 @@
 
 ### 吹き替え
 
-  - [エイリアス](https://ja.wikipedia.org/wiki/エイリアス_\(テレビドラマ\) "wikilink")
-  - [エバーウッド 遥かなるコロラド](https://ja.wikipedia.org/wiki/エバーウッド_遥かなるコロラド "wikilink")（パーチ）
+  - [エイリアス](../Page/エイリアス_\(テレビドラマ\).md "wikilink")
+  - [エバーウッド 遥かなるコロラド](../Page/エバーウッド_遥かなるコロラド.md "wikilink")（パーチ）
   - [グッド・ワイフ](https://ja.wikipedia.org/wiki/グッド・ワイフ "wikilink")
   - [クリミナル・マインド FBI行動分析課](https://ja.wikipedia.org/wiki/クリミナル・マインド_FBI行動分析課 "wikilink")
   - [コールドケース](https://ja.wikipedia.org/wiki/コールドケース_迷宮事件簿 "wikilink")

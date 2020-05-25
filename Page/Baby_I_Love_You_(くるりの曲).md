@@ -1,7 +1,7 @@
-> この記事は[Baby I Love You \(\)](https://ja.wikipedia.org/wiki/Baby_I_Love_You_\(\))から翻訳されています。
+> この記事は[Baby I Love You \(くるりの曲\)](https://ja.wikipedia.org/wiki/Baby_I_Love_You_\(くるりの曲\))から翻訳されています。
 
 
-「**Baby I Love You**」（ベイビー・アイ・ラヴ・ユー）は、[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[くるり](../Page/くるり.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")に発売された。発売元は[SPEEDSTAR RECORDS](https://ja.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")。くるりの6thアルバムである『[NIKKI](../Page/NIKKI.md "wikilink")』に収録されている。
+「**Baby I Love You**」（ベイビー・アイ・ラヴ・ユー）は、[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[くるり](../Page/くるり.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に発売された。発売元は[SPEEDSTAR RECORDS](../Page/SPEEDSTAR_RECORDS.md "wikilink")。くるりの6thアルバムである『[NIKKI](../Page/NIKKI.md "wikilink")』に収録されている。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")は[岸田繁](../Page/岸田繁.md "wikilink")
+[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は[岸田繁](../Page/岸田繁.md "wikilink")
 
 1.  **Baby I Love You**
 2.  **The Veranda**

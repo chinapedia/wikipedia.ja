@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レイトン・オリエントFC](https://ja.wikipedia.org/wiki/レイトン・オリエントFC)から翻訳されています。
 
 
 **レイトン・オリエント・フットボール・クラブ**（**Leyton Orient Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")東部、[ウォルサム・フォレスト特別区内](https://ja.wikipedia.org/wiki/ウォルサム・フォレスト・ロンドン特別区 "wikilink")、[レイトン](https://ja.wikipedia.org/wiki/レイトン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[EFLリーグ2](../Page/EFLリーグ2.md "wikilink")（4部相当）に所属。

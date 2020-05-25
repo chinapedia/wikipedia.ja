@@ -1,15 +1,15 @@
-> この記事は[JX](https://ja.wikipedia.org/wiki/JX)から翻訳されています。
+> この記事は[JX喜入石油基地](https://ja.wikipedia.org/wiki/JX喜入石油基地)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Oil_tanks_of_Kiire_base.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Oil_tanks_of_Kiire_base_Aerial_photograph.jpg "wikilink")
 
-**JX喜入石油基地株式会社**（じぇいえっくすきいれせきゆきち）は、[原油](https://ja.wikipedia.org/wiki/原油 "wikilink")[備蓄基地の喜入基地を運営する](https://ja.wikipedia.org/wiki/石油備蓄 "wikilink")[企業](../Page/企業.md "wikilink")である。[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")（旧・[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")）の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")。
+**JX喜入石油基地株式会社**（じぇいえっくすきいれせきゆきち）は、[原油](../Page/原油.md "wikilink")[備蓄基地の喜入基地を運営する](../Page/石油備蓄.md "wikilink")[企業](../Page/企業.md "wikilink")である。[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")（旧・[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")）の[子会社](../Page/子会社.md "wikilink")。
 
 ## 喜入基地
 
-喜入基地は[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")[喜入中名町](https://ja.wikipedia.org/wiki/喜入中名町 "wikilink")2856番5にある。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内の石油使用量約2週間分に相当する原油735万[キロリットル](https://ja.wikipedia.org/wiki/キロリットル "wikilink")を貯蔵することができる。
+喜入基地は[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")[喜入中名町](https://ja.wikipedia.org/wiki/喜入中名町 "wikilink")2856番5にある。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内の石油使用量約2週間分に相当する原油735万[キロリットル](https://ja.wikipedia.org/wiki/キロリットル "wikilink")を貯蔵することができる。
 
-また、30万[トン](../Page/トン.md "wikilink")級の[タンカー](https://ja.wikipedia.org/wiki/タンカー "wikilink")で基地まで輸送された原油を、JXエネルギーの各製油所や[日本海石油](../Page/日本海石油.md "wikilink")の油槽所に配送する10万トン級の小型タンカーに移し替える中継基地としての役割も持つ。
+また、30万[トン](../Page/トン.md "wikilink")級の[タンカー](../Page/タンカー.md "wikilink")で基地まで輸送された原油を、JXエネルギーの各製油所や[日本海石油](../Page/日本海石油.md "wikilink")の油槽所に配送する10万トン級の小型タンカーに移し替える中継基地としての役割も持つ。
 
 ## 沿革
 
@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [JXTGグループ](https://ja.wikipedia.org/wiki/JXTGグループ "wikilink")
+  - [JXTGグループ](../Page/JXTGグループ.md "wikilink")
   - [沖縄ターミナル](https://ja.wikipedia.org/wiki/沖縄ターミナル "wikilink")
 
 ## 外部リンク

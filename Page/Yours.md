@@ -1,7 +1,7 @@
 > この記事は[Yours](https://ja.wikipedia.org/wiki/Yours)から翻訳されています。
 
 
-『**yours**』は、『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")解』の音楽を担当した[dai](https://ja.wikipedia.org/wiki/dai "wikilink")が所属するサークル『[M.Graveyard](https://ja.wikipedia.org/wiki/M.Graveyard "wikilink")』による[同人音楽](https://ja.wikipedia.org/wiki/同人音楽 "wikilink")[アルバム](../Page/アルバム.md "wikilink")である。『[ひぐらしのなく頃に解 オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に解_オリジナルサウンドトラック "wikilink")』に収録されている曲のアレンジに一部の新曲を加えたもので構成されている。
+『**yours**』は、『[ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink")解』の音楽を担当した[dai](https://ja.wikipedia.org/wiki/dai "wikilink")が所属するサークル『[M.Graveyard](https://ja.wikipedia.org/wiki/M.Graveyard "wikilink")』による[同人音楽](../Page/同人音楽.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")である。『[ひぐらしのなく頃に解 オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に解_オリジナルサウンドトラック "wikilink")』に収録されている曲のアレンジに一部の新曲を加えたもので構成されている。
 
 3枚組のCDに加え48ページにも及ぶライナーノートも同梱されており、まさに[dai](https://ja.wikipedia.org/wiki/dai "wikilink")のひぐらし集大成と呼べる作品に仕上がっている。
 
@@ -39,7 +39,7 @@
 6.  祭
 7.  後日談
 8.  air pizz
-9.  そらのむこう (歌:[結月そら](https://ja.wikipedia.org/wiki/結月そら "wikilink"))
+9.  そらのむこう (歌:[結月そら](../Page/結月そら.md "wikilink"))
 
 \-Disc3-
 
@@ -62,7 +62,7 @@
 17. 幾星霜
 18. Thanks (歌:[癒月](../Page/癒月.md "wikilink"))
 19. Hello
-20. [隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")
+20. [隠しトラック](../Page/隠しトラック.md "wikilink")
 
 ## 外部リンク
 

@@ -1,17 +1,17 @@
-> この記事は[RUF \(\)](https://ja.wikipedia.org/wiki/RUF_\(\))から翻訳されています。
+> この記事は[RUF \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/RUF_\(芸能プロダクション\))から翻訳されています。
 
 
-**RUF**（ルーフ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂に所在する](../Page/赤坂_\(東京都港区\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")である。代表者の清水有史は株式会社[プロシード](https://ja.wikipedia.org/wiki/プロシード "wikilink")で広告・番組・イベントのキャスティングも行う。
+**RUF**（ルーフ）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂に所在する](../Page/赤坂_\(東京都港区\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")である。代表者の清水有史は株式会社[プロシード](https://ja.wikipedia.org/wiki/プロシード "wikilink")で広告・番組・イベントのキャスティングも行う。
 
-社名は「**R**olling **U**p **F**avorite」の略。元[イエローキャブの](https://ja.wikipedia.org/wiki/イエローキャブ_\(芸能プロダクション\) "wikilink")[八幡えつこ](https://ja.wikipedia.org/wiki/八幡えつこ "wikilink")や元[ぱれっと](https://ja.wikipedia.org/wiki/ぱれっと "wikilink")の[浮田ひさえ](https://ja.wikipedia.org/wiki/浮田ひさえ "wikilink")、鉄道タレント[桜井せな](https://ja.wikipedia.org/wiki/桜井せな "wikilink")等のタレントが在籍している。
+社名は「**R**olling **U**p **F**avorite」の略。元[イエローキャブの](https://ja.wikipedia.org/wiki/イエローキャブ_\(芸能プロダクション\) "wikilink")[八幡えつこ](../Page/八幡えつこ.md "wikilink")や元[ぱれっと](https://ja.wikipedia.org/wiki/ぱれっと "wikilink")の[浮田ひさえ](../Page/浮田ひさえ.md "wikilink")、鉄道タレント[桜井せな](../Page/桜井せな.md "wikilink")等のタレントが在籍している。
 
 ## 所属タレント
 
 ### 女性
 
-  - [八幡えつこ](https://ja.wikipedia.org/wiki/八幡えつこ "wikilink") - 女優 - 結婚・引退（夫・[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")[石原慶幸](https://ja.wikipedia.org/wiki/石原慶幸 "wikilink")）
-  - [桜井せな](https://ja.wikipedia.org/wiki/桜井せな "wikilink") - 鉄道タレント
-  - [浮田ひさえ](https://ja.wikipedia.org/wiki/浮田ひさえ "wikilink") - 元ワンギャル
+  - [八幡えつこ](../Page/八幡えつこ.md "wikilink") - 女優 - 結婚・引退（夫・[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")[石原慶幸](../Page/石原慶幸.md "wikilink")）
+  - [桜井せな](../Page/桜井せな.md "wikilink") - 鉄道タレント
+  - [浮田ひさえ](../Page/浮田ひさえ.md "wikilink") - 元ワンギャル
   - [桜井聖良](../Page/桜井聖良.md "wikilink") - 競馬タレント
 
 ### 男性
@@ -31,12 +31,12 @@
 
 ## 過去に所属していたタレント
 
-  - [中澤優子](https://ja.wikipedia.org/wiki/中澤優子_\(グラビアアイドル\) "wikilink")（2008年12月引退）
+  - [中澤優子](../Page/中澤優子_\(グラビアアイドル\).md "wikilink")（2008年12月引退）
   - [柴崎えみり](https://ja.wikipedia.org/wiki/柴崎えみり "wikilink")
   - [アキラボーイ](https://ja.wikipedia.org/wiki/アキラボーイ "wikilink")
   - [河原亜依](../Page/河原亜依.md "wikilink")
-  - [井端珠里](https://ja.wikipedia.org/wiki/井端珠里 "wikilink")
-  - [七海れん](https://ja.wikipedia.org/wiki/七海れん "wikilink") - 2010年[ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")フットサル賞
+  - [井端珠里](../Page/井端珠里.md "wikilink")
+  - [七海れん](../Page/七海れん.md "wikilink") - 2010年[ミスマガジン](../Page/ミスマガジン.md "wikilink")フットサル賞
   - miki - メイクアップモデル
   - [ハピトラ](https://ja.wikipedia.org/wiki/ハピトラ "wikilink")（HAPPY TRANSMISSION） - アニメーションアーティスト
   - [渡部紘士](https://ja.wikipedia.org/wiki/渡部紘士 "wikilink") - 俳優

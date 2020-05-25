@@ -1,13 +1,13 @@
-> この記事は[GOLDENBEST  ](https://ja.wikipedia.org/wiki/GOLDENBEST__)から翻訳されています。
+> この記事は[GOLDEN☆BEST よしだたくろう ひきがたり](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_よしだたくろう_ひきがたり)から翻訳されています。
 
 
-『**GOLDEN☆BEST よしだたくろう ひきがたり**』（ゴールデン☆ベスト よしだたくろうひきがたり）は、[よしだたくろうの](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。2002年6月19日発売。発売元は[ソニー・ミュージックハウス](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")。
+『**GOLDEN☆BEST よしだたくろう ひきがたり**』（ゴールデン☆ベスト よしだたくろうひきがたり）は、[よしだたくろうの](../Page/吉田拓郎.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2002年6月19日発売。発売元は[ソニー・ミュージックハウス](../Page/ソニー・ミュージックダイレクト.md "wikilink")。
 
 ## 解説
 
-  - 各[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの初期に発売された1枚。
+  - 各[レコード会社](../Page/レコード会社.md "wikilink")から発売されている[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")シリーズの初期に発売された1枚。
   - ギター弾き語りで歌われる楽曲を集めた作品集。
-  - [CBSソニー在籍時の楽曲を中心にセレクトされている](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。そのため、**よしだたくろう**名義で発売された。
+  - [CBSソニー在籍時の楽曲を中心にセレクトされている](../Page/ソニー・ミュージックレコーズ.md "wikilink")。そのため、**よしだたくろう**名義で発売された。
 
 ## 収録曲
 
@@ -16,13 +16,13 @@
         作詞・作曲:吉田拓郎
 2.  **ガラスの言葉**
       -
-        作詞:[及川恒平](https://ja.wikipedia.org/wiki/及川恒平 "wikilink")／作曲:吉田拓郎　
+        作詞:[及川恒平](../Page/及川恒平.md "wikilink")／作曲:吉田拓郎　
 3.  **青春の詩**
       -
-        作詞・作曲:[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+        作詞・作曲:[吉田拓郎](../Page/吉田拓郎.md "wikilink")
 4.  **花嫁になる君に**
       -
-        作詞:[岡本おさみ](https://ja.wikipedia.org/wiki/岡本おさみ "wikilink")／作曲:吉田拓郎　
+        作詞:[岡本おさみ](../Page/岡本おさみ.md "wikilink")／作曲:吉田拓郎　
 5.  **馬**
       -
         作詞・作曲:吉田拓郎
@@ -56,7 +56,7 @@
 15. **祭りのあと**
       -
         作詞:岡本おさみ／作曲:吉田拓郎
-16. **[BLOWIN' IN THE WIND](https://ja.wikipedia.org/wiki/風に吹かれて_\(ボブ・ディランの曲\) "wikilink")**　
+16. **[BLOWIN' IN THE WIND](../Page/風に吹かれて_\(ボブ・ディランの曲\).md "wikilink")**　
       -
         作詞・作曲:[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")
     <!-- end list -->
@@ -66,14 +66,14 @@
         作詞・作曲:吉田拓郎
 18. **ロンリー・ストリート・キャフェ**
       -
-        作詞:[安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")／作曲:[加藤和彦](../Page/加藤和彦.md "wikilink")
+        作詞:[安井かずみ](../Page/安井かずみ.md "wikilink")／作曲:[加藤和彦](../Page/加藤和彦.md "wikilink")
 19. **[マークII](https://ja.wikipedia.org/wiki/イメージの詩 "wikilink")**
       -
         作詞・作曲:吉田拓郎　
 20. **されど私の人生**
       -
-        作詞・作曲:[斉藤哲夫](https://ja.wikipedia.org/wiki/斉藤哲夫 "wikilink")
-        [斉藤哲夫](https://ja.wikipedia.org/wiki/斉藤哲夫 "wikilink")のカバー。
+        作詞・作曲:[斉藤哲夫](../Page/斉藤哲夫.md "wikilink")
+        [斉藤哲夫](../Page/斉藤哲夫.md "wikilink")のカバー。
 21. **[イメージの詩](https://ja.wikipedia.org/wiki/イメージの詩 "wikilink")**　
       -
         作詞・作曲:吉田拓郎
@@ -89,7 +89,7 @@
   - [青春の詩](https://ja.wikipedia.org/wiki/青春の詩_\(よしだたくろうのアルバム\) "wikilink")
   - [人間なんて](https://ja.wikipedia.org/wiki/人間なんて_\(よしだたくろうのアルバム\) "wikilink")
   - [よしだたくろう オン・ステージ ともだち](https://ja.wikipedia.org/wiki/よしだたくろう_オン・ステージ_ともだち "wikilink")
-  - [元気です。](https://ja.wikipedia.org/wiki/元気です。 "wikilink")
+  - [元気です。](../Page/元気です。.md "wikilink")
   - [伽草子](https://ja.wikipedia.org/wiki/伽草子 "wikilink")
   - [TAKURO TOUR 1979 Vol.2 落陽](https://ja.wikipedia.org/wiki/TAKURO_TOUR_1979_Vol.2_落陽 "wikilink")
   - [サマルカンド・ブルー](https://ja.wikipedia.org/wiki/サマルカンド・ブルー "wikilink")

@@ -1,17 +1,17 @@
 > この記事は[NEON GENESIS EVANGELION DECADE](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_DECADE)から翻訳されています。
 
 
-『**NEON GENESIS EVANGELION DECADE**』（ネオン・ジェネシス・エヴァンゲリオン・ディケイド）は、[アニメ](../Page/アニメ.md "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")に[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")から発売された。
+『**NEON GENESIS EVANGELION DECADE**』（ネオン・ジェネシス・エヴァンゲリオン・ディケイド）は、[アニメ](../Page/アニメ.md "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")から発売された。
 
 ## 概要
 
-テレビ放送から10周年を記念しての[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")である（公式ではアーカイブ・アルバムと称されている）\[1\]。発表済みの主題歌、挿入歌、イメージソングの他、「[残酷な天使のテーゼ](https://ja.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink")」、「[魂のルフラン](../Page/魂のルフラン.md "wikilink")」の新たなバージョン曲が収録されており\[2\]、またトラックの最後にある[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の『天国の記憶』はこのアルバムで初出の新曲である\[3\]。初回盤のみ紙製BOXに収納されている\[4\]。
+テレビ放送から10周年を記念しての[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である（公式ではアーカイブ・アルバムと称されている）\[1\]。発表済みの主題歌、挿入歌、イメージソングの他、「[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")」、「[魂のルフラン](../Page/魂のルフラン.md "wikilink")」の新たなバージョン曲が収録されており\[2\]、またトラックの最後にある[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の『天国の記憶』はこのアルバムで初出の新曲である\[3\]。初回盤のみ紙製BOXに収納されている\[4\]。
 
 ## 収録曲
 
-1.  **[残酷な天使のテーゼ](https://ja.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink")**（Director's Edit. Version） \[4:03\]
+1.  **[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")**（Director's Edit. Version） \[4:03\]
       -
-        歌：[高橋洋子](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")
+        歌：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")
         作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
 2.  **[FLY ME TO THE MOON](https://ja.wikipedia.org/wiki/FLY_ME_TO_THE_MOON_\(CLAIREと高橋洋子のシングル\) "wikilink")** \[4:31\]
       -
@@ -21,22 +21,22 @@
       -
         歌：高橋洋子
         作詞：及川眠子、作曲・編曲：大森俊之
-4.  **[予感](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_II "wikilink")** \[4:52\]
+4.  **[予感](../Page/NEON_GENESIS_EVANGELION_II.md "wikilink")** \[4:52\]
       -
         歌：高橋洋子
         作詞：及川眠子、作曲・編曲：大森俊之
-5.  **[幸せは罪の匂い](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_III "wikilink")** \[4:35\]
+5.  **[幸せは罪の匂い](../Page/NEON_GENESIS_EVANGELION_III.md "wikilink")** \[4:35\]
       -
         歌：高橋洋子
         作詞：及川眠子、作曲・編曲：大森俊之
-6.  **[無限抱擁](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_III "wikilink")** \[5:22\]
+6.  **[無限抱擁](../Page/NEON_GENESIS_EVANGELION_III.md "wikilink")** \[5:22\]
       -
         歌：高橋洋子
         作詞：及川眠子、作曲：高橋洋子、編曲：大森俊之
 7.  **FLY ME TO THE MOON**
     <Main Version II>
       -
-        歌：[MISATO](../Page/三石琴乃.md "wikilink")、[Rei](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、[ASUKA](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
+        歌：[MISATO](../Page/三石琴乃.md "wikilink")、[Rei](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")、[ASUKA](../Page/宮村優子_\(声優\).md "wikilink")
         作詞・作曲：Bart Howard、編曲：Toshiyuki Ohmori
 8.  **[魂のルフラン](../Page/魂のルフラン.md "wikilink")** \[5:12\]
       -
@@ -49,7 +49,7 @@
 10. **[THANATOS -IF I CAN'T BE YOURS-](../Page/THANATOS_-IF_I_CAN'T_BE_YOURS-.md "wikilink")** \[4:48\]
       -
         歌：LOREN & MASH
-        作詞：MASH（Martin Lascelles & [鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")）、作曲・編曲：Shiro SAGISU（鷺巣詩郎）
+        作詞：MASH（Martin Lascelles & [鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")）、作曲・編曲：Shiro SAGISU（鷺巣詩郎）
 11. **[Komm, süsser Tod/甘き死よ、来たれ](https://ja.wikipedia.org/wiki/Komm,_susser_Tod "wikilink")**（M-10 Director's Edit. Version） \[7:42\]
       -
         歌：[ARIANNE](https://ja.wikipedia.org/wiki/Komm,_susser_Tod#ARIANNEについて "wikilink")
@@ -101,16 +101,16 @@
 | Director            | 小川智弘（キングレコード）                                                                                                                             |
 | Promoter            | 五郎丸洋介（キングレコード）、森永美智子（キングレコード）                                                                                                             |
 | Sales Promoter      | 日吉聡（キングレコード）、沢畠康二（キングレコード）                                                                                                                |
-| Executive Producer  | [大月俊倫](https://ja.wikipedia.org/wiki/大月俊倫 "wikilink")（キングレコード）                                                                            |
+| Executive Producer  | [大月俊倫](../Page/大月俊倫.md "wikilink")（キングレコード）                                                                                               |
 | Special Thanks      | [佐藤裕紀](https://ja.wikipedia.org/wiki/佐藤裕紀 "wikilink")（[GAINAX](https://ja.wikipedia.org/wiki/GAINAX "wikilink")）、三田遥（GAINAX）、小黒祐一郎（スタジオ雄） |
 
 ## 初出
 
-  - [NEON GENESIS EVANGELION](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION "wikilink") - M-1
-  - [NEON GENESIS EVANGELION II](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_II "wikilink") - M-4
-  - [NEON GENESIS EVANGELION III](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_III "wikilink") - M-5,6
-  - [NEON GENESIS EVANGELION ADDITION](https://ja.wikipedia.org/wiki/NEON_GENESIS_EVANGELION_ADDITION "wikilink") - M-7
-  - [THE END OF EVANGELION](https://ja.wikipedia.org/wiki/THE_END_OF_EVANGELION "wikilink") - M-11
+  - [NEON GENESIS EVANGELION](../Page/NEON_GENESIS_EVANGELION.md "wikilink") - M-1
+  - [NEON GENESIS EVANGELION II](../Page/NEON_GENESIS_EVANGELION_II.md "wikilink") - M-4
+  - [NEON GENESIS EVANGELION III](../Page/NEON_GENESIS_EVANGELION_III.md "wikilink") - M-5,6
+  - [NEON GENESIS EVANGELION ADDITION](../Page/NEON_GENESIS_EVANGELION_ADDITION.md "wikilink") - M-7
+  - [THE END OF EVANGELION](../Page/THE_END_OF_EVANGELION.md "wikilink") - M-11
   - Single - M-2,3,8,9,10
   - 新録音 - M-12,13,14
 

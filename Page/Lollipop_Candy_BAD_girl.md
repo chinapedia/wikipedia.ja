@@ -1,13 +1,13 @@
 > この記事は[Lollipop Candy BAD girl](https://ja.wikipedia.org/wiki/Lollipop_Candy_BAD_girl)から翻訳されています。
 
 
-『**Lollipop Candy♥BAD♥girl**』（ロリポップ キャンディー バッド ガール）は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")に発売された[Tommy heavenly6の](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")6枚目のシングルである。
+『**Lollipop Candy♥BAD♥girl**』（ロリポップ キャンディー バッド ガール）は[2006年](../Page/2006年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に発売された[Tommy heavenly6の](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")6枚目のシングルである。
 
 ## 概要
 
-  - [ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")を記念して制作された楽曲であり、ハロウィンの[10月31日](../Page/10月31日.md "wikilink")にちなんだ10分31秒もの超大作シングルである。本人はインタビューで「元々heavenly6は、ハロウィンの日にデビューさせたかった。」と語っている。\[1\]
+  - [ハロウィン](../Page/ハロウィン.md "wikilink")を記念して制作された楽曲であり、ハロウィンの[10月31日](../Page/10月31日.md "wikilink")にちなんだ10分31秒もの超大作シングルである。本人はインタビューで「元々heavenly6は、ハロウィンの日にデビューさせたかった。」と語っている。\[1\]
   - 本人曰く、会議などで「何で10分31秒にするなんて宣言しちゃったんだろう」と何度も愚痴をこぼしたが、どうにか完成したという逸話がある。\[2\]
-  - PVでは、「[Wait till I can dream](https://ja.wikipedia.org/wiki/Wait_till_I_can_dream "wikilink")」以来2度目となるTommy february6とTommy heavenly6が共演をしている。そのためかCDジャケットも表ジャケットにはheavenly6が、裏ジャケットにはfebruary6が写っている。
+  - PVでは、「[Wait till I can dream](../Page/Wait_till_I_can_dream.md "wikilink")」以来2度目となるTommy february6とTommy heavenly6が共演をしている。そのためかCDジャケットも表ジャケットにはheavenly6が、裏ジャケットにはfebruary6が写っている。
   - 初回限定盤はデジパック仕様でPVを収録したDVDが付属しており、通常盤とはジャケットが異なる。
 
 ## 収録曲

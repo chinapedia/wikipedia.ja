@@ -1,12 +1,12 @@
 > この記事は[TAMATE BOX](https://ja.wikipedia.org/wiki/TAMATE_BOX)から翻訳されています。
 
 
-**TAMATE BOX**（タマテ ボックス、[1981年](../Page/1981年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。
+**TAMATE BOX**（タマテ ボックス、[1981年](../Page/1981年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。
 
 ## 概要・来歴
 
   - [2004年](../Page/2004年.md "wikilink") 、[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink") より[ラバーキャロッツ](../Page/ラバーキャロッツ.md "wikilink")としてメジャーデビュー。アーティスト名はTAMAc（タマチャン）。
-  - [2007年](../Page/2007年.md "wikilink") 、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink") より玉手ゆういちとしてソロデビュー。
+  - [2007年](../Page/2007年.md "wikilink") 、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink") より玉手ゆういちとしてソロデビュー。
   - [2012年](../Page/2012年.md "wikilink") 、[avex](https://ja.wikipedia.org/wiki/avex "wikilink") より[UNIST](https://ja.wikipedia.org/wiki/UNIST "wikilink")としてメジャーデビュー。アーティスト名はTAMA（タマ）。
 
 ## ディスコグラフィー
@@ -16,13 +16,13 @@
 ### シングル
 
   - **[歌と星空](https://ja.wikipedia.org/wiki/歌と星空 "wikilink")** （2007年12月5日、TOCT-40172）
-      - [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』2007年12月度エンディングテーマ
+      - [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』2007年12月度エンディングテーマ
 
 ### アルバム
 
 #### インディーズ
 
-  - **[空冬](https://ja.wikipedia.org/wiki/空冬 "wikilink")** （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、TLCA-2048）
+  - **[空冬](https://ja.wikipedia.org/wiki/空冬 "wikilink")** （[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、TLCA-2048）
     1.  フェイバリットソング
     2.  JAZZ FUZZ
     3.  とりあえずあなたを
@@ -72,7 +72,7 @@
 <p>編曲(久米康隆)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="https://ja.wikipedia.org/wiki/3月21日" title="wikilink">3月21日</a></p></td>
+<td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/関ジャニ∞" title="wikilink">関ジャニ∞</a></p></td>
 <td><p>Water Drop</p></td>
 <td><p>DVD・Blu-ray 初回限定盤・通常盤 「KANJANI∞ 五大ドームTOUR EIGHT×EIGHTER おもんなかったらすいません」収録</p></td>
@@ -108,7 +108,7 @@
 <td><p>〜」収録</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/7月3日" title="wikilink">7月3日</a></p></td>
+<td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Doll☆Elements" title="wikilink">Doll☆Elements</a></p></td>
 <td><p>キラキラ☆シャイニー</p></td>
 <td><p>シングル「君のハートに解き放つ！」収録</p></td>
@@ -322,7 +322,7 @@
 <td><p>2020年2月5日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ael-アエル-" title="wikilink">ael-アエル-</a></p></td>
 <td><p>Listen!</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/白幻" title="wikilink">白幻</a>」収録</p></td>
+<td><p>「<a href="../Page/白幻.md" title="wikilink">白幻</a>」収録</p></td>
 <td><p>作詞 TAMATE BOX (FUZ)</p>
 <p>作曲 TAMATE BOX (FUZ)</p></td>
 </tr>
@@ -335,8 +335,6 @@
 </tr>
 </tbody>
 </table>
-
-
 
 ## 外部リンク
 

@@ -1,13 +1,13 @@
-> この記事は[GOLD DIGGERwith true love](https://ja.wikipedia.org/wiki/GOLD_DIGGERwith_true_love)から翻訳されています。
+> この記事は[GOLD DIGGER〜with true love〜](https://ja.wikipedia.org/wiki/GOLD_DIGGER〜with_true_love〜)から翻訳されています。
 
 
-『**GOLD DIGGER**』（ゴールド・ディガー ウィズ・トゥルー・ラヴ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算5作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**GOLD DIGGER**』（ゴールド・ディガー ウィズ・トゥルー・ラヴ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算5作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
 当時はまだ一般的ではなかったラップやスクラッチ、そしてエディットがいち早く取り入れられたほか、前作『[AFTER 5 CLASH](https://ja.wikipedia.org/wiki/AFTER_5_CLASH "wikilink")』\[1\]で展開された“夜と都会”をキーワードに、よりセクシャルなイメージを喚起させる直接的な表現が加えられた耽美的な世界を展開。結果としてオリコンアルバムチャート10位以内に初めてランクインしたほか、雑誌『ADLIB』の'85年度ベスト・レコード賞受賞作となった。
 
-「MERMAID PRINCESS」と「NO END SUMMER」は後に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』\[2\]に、「TOKYO TOWER」と「NO END SUMMER」はリメイク・ベスト・アルバム『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[3\]にそれぞれリテイク・ヴァージョンが収録された。
+「MERMAID PRINCESS」と「NO END SUMMER」は後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』\[2\]に、「TOKYO TOWER」と「NO END SUMMER」はリメイク・ベスト・アルバム『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[3\]にそれぞれリテイク・ヴァージョンが収録された。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@
         角松敏生 作詞・作曲・編曲
 5.  **MELODY FOR YOU**
       -
-        角松敏生 作詞・作曲・編曲 ⁄ 数原晋 ブラス編曲 ⁄ [佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink") [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")編曲
+        角松敏生 作詞・作曲・編曲 ⁄ 数原晋 ブラス編曲 ⁄ [佐藤準](../Page/佐藤準.md "wikilink") [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")編曲
 
 ### SIDE B
 
@@ -67,7 +67,7 @@
   - Synth.Bass : [SOHICHI NORIKI](https://ja.wikipedia.org/wiki/野力奏一 "wikilink")
   - E.Guitar ↦ Simons : TOSHIKI KADOMATSU
   - A.Piano & Synth. : YOSHIHIRO TOMONARI
-  - Bass : [TOMOHITO AOKI](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")
+  - Bass : [TOMOHITO AOKI](../Page/青木智仁.md "wikilink")
 
 {{-}}
 
@@ -177,7 +177,7 @@
   - E.Guitar : TAKAYUKI HIJIKATA
   - E.Guitar & Simons : TOSHIKI KADOMATSU
   - E.Piano : YOSHIHIRO TOMONARI
-  - Synth. : [JUN SATOH](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+  - Synth. : [JUN SATOH](../Page/佐藤準.md "wikilink")
   - A.Sax : MITSUHIRO SONOYAMA
 
 {{-}}
@@ -202,7 +202,7 @@
   - Bass : TOMOHITO AOKI
   - DX-7 Piano : YOSHIHIRO TOMONARI
   - Synth. : JUN SATOH
-  - E.Guitar solo : [TSUYOSHI KON](https://ja.wikipedia.org/wiki/今剛 "wikilink")
+  - E.Guitar solo : [TSUYOSHI KON](../Page/今剛.md "wikilink")
   - Strings : JOE GROUP
 
 {{-}}
@@ -235,7 +235,7 @@
 
   - EXECUTIVE PRODUCER : TASUKU OKAMURA
   - ASSISTANT DIRECTOR : HIROTOMI YAMAGUCHI
-  - RECORDING ENGINEER : [EIJI UCHINUMA](https://ja.wikipedia.org/wiki/内沼映二 "wikilink") (MIXERS-LAB), TADAHARU SATOH (MIXERS-LAB), TATSUO SEKINE (MIXERS-LAB), HIROSHI FUJITA (MIXERS-LAB) & TAKAHIRO NOCHIMURA
+  - RECORDING ENGINEER : [EIJI UCHINUMA](../Page/内沼映二.md "wikilink") (MIXERS-LAB), TADAHARU SATOH (MIXERS-LAB), TATSUO SEKINE (MIXERS-LAB), HIROSHI FUJITA (MIXERS-LAB) & TAKAHIRO NOCHIMURA
   - DRUMS OVER-DUBBING (N.Y.C.) & REMIXED BY MICHAEL H.BRAUER
   - RECORDING CO-ORDINATOR : SHIZUKO ORISHIGE
   - ASSISTANT ENGINEER : ALEXANDER HAAS (MEDIA SOUND STUDIOS), YOSHIAKI MATSUOKA, MIZUO MIURA (MIXERS-LAB)

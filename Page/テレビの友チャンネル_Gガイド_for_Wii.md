@@ -1,4 +1,4 @@
-> この記事は[ G for Wii](https://ja.wikipedia.org/wiki/_G_for_Wii)から翻訳されています。
+> この記事は[テレビの友チャンネル Gガイド for Wii](https://ja.wikipedia.org/wiki/テレビの友チャンネル_Gガイド_for_Wii)から翻訳されています。
 
 
 『**テレビの友チャンネル Gガイド for Wii**』（テレビのともチャンネル ジーガイド フォー ウィー）とは、[電子番組ガイド](../Page/電子番組ガイド.md "wikilink")（EPG）を閲覧する[Wiiチャンネル](../Page/Wiiチャンネル.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に配信が開始され、[2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")12:00に[地上アナログ放送終了に合わせて配信及びサービスを終了した](../Page/NTSC.md "wikilink")。
@@ -28,6 +28,6 @@
 
 ## 外部リンク
 
-  - [テレビの友チャンネル Gガイド for Wii](http://www.nintendo.co.jp/wii/features/tv_no_tomo/)
+  - [テレビの友チャンネル Gガイド for Wii](https://www.nintendo.co.jp/wii/features/tv_no_tomo/)
 
 [Category:Wiiチャンネル](https://ja.wikipedia.org/wiki/Category:Wiiチャンネル "wikilink")

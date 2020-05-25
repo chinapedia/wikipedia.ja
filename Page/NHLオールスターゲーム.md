@@ -1,4 +1,4 @@
-> この記事は[NHL](https://ja.wikipedia.org/wiki/NHL)から翻訳されています。
+> この記事は[NHLオールスターゲーム](https://ja.wikipedia.org/wiki/NHLオールスターゲーム)から翻訳されています。
 
 
 **NHLオールスターゲーム**（National Hockey League All-Star Game）は[NHL](https://ja.wikipedia.org/wiki/NHL "wikilink")の東西対抗試合である。
@@ -55,7 +55,7 @@
 <td><p><strong>7</strong></p></td>
 <td><p>オールスターズ</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・レッドウィングス" title="wikilink">デトロイト・レッドウィングス</a></p></td>
+<td><p><a href="../Page/デトロイト・レッドウィングス.md" title="wikilink">デトロイト・レッドウィングス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:5th_National_Hockey_League_All-Star_Game" title="wikilink">1951</a></p></td>
@@ -71,7 +71,7 @@
 <td><p><strong>1</strong></p></td>
 <td><p>2nd チーム</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・レッドウィングス" title="wikilink">デトロイト・レッドウィングス</a></p></td>
+<td><p><a href="../Page/デトロイト・レッドウィングス.md" title="wikilink">デトロイト・レッドウィングス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:7th_National_Hockey_League_All-Star_Game" title="wikilink">1953</a></p></td>
@@ -79,7 +79,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>モントリオール</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:8th_National_Hockey_League_All-Star_Game" title="wikilink">1954</a></p></td>
@@ -87,7 +87,7 @@
 <td><p><strong>2</strong></p></td>
 <td><p>デトロイト</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・レッドウィングス" title="wikilink">デトロイト・レッドウィングス</a></p></td>
+<td><p><a href="../Page/デトロイト・レッドウィングス.md" title="wikilink">デトロイト・レッドウィングス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:9th_National_Hockey_League_All-Star_Game" title="wikilink">1955</a></p></td>
@@ -95,7 +95,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>オールスターズ</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・レッドウィングス" title="wikilink">デトロイト・レッドウィングス</a></p></td>
+<td><p><a href="../Page/デトロイト・レッドウィングス.md" title="wikilink">デトロイト・レッドウィングス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:10th_National_Hockey_League_All-Star_Game" title="wikilink">1956</a></p></td>
@@ -103,7 +103,7 @@
 <td><p><strong>1</strong></p></td>
 <td><p>モントリオール</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:11th_National_Hockey_League_All-Star_Game" title="wikilink">1957</a></p></td>
@@ -111,7 +111,7 @@
 <td><p><strong>5</strong></p></td>
 <td><p>モントリオール</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:12th_National_Hockey_League_All-Star_Game" title="wikilink">1958</a></p></td>
@@ -119,7 +119,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>オールスターズ</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:13th_National_Hockey_League_All-Star_Game" title="wikilink">1959</a></p></td>
@@ -127,7 +127,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>オールスターズ</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:14th_National_Hockey_League_All-Star_Game" title="wikilink">1960</a></p></td>
@@ -135,7 +135,7 @@
 <td><p><strong>2</strong></p></td>
 <td><p>モントリオール</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:15th_National_Hockey_League_All-Star_Game" title="wikilink">1961</a></p></td>
@@ -143,7 +143,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>シカゴ</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ブラックホークス" title="wikilink">シカゴ・ブラックホークス</a></p></td>
+<td><p><a href="../Page/シカゴ・ブラックホークス.md" title="wikilink">シカゴ・ブラックホークス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:16th_National_Hockey_League_All-Star_Game" title="wikilink">1962</a></p></td>
@@ -175,7 +175,7 @@
 <td><p><strong>5</strong></p></td>
 <td><p>モントリオール</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1966</p></td>
@@ -191,7 +191,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>オールスターズ</p></td>
 <td><p>0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:21st_National_Hockey_League_All-Star_Game" title="wikilink">1968</a></p></td>
@@ -207,7 +207,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>イースト</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:23rd_National_Hockey_League_All-Star_Game" title="wikilink">1970</a></p></td>
@@ -215,7 +215,7 @@
 <td><p><strong>4</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・ブルース" title="wikilink">セントルイス・ブルース</a></p></td>
+<td><p><a href="../Page/セントルイス・ブルース.md" title="wikilink">セントルイス・ブルース</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:24th_National_Hockey_League_All-Star_Game" title="wikilink">1971</a></p></td>
@@ -223,7 +223,7 @@
 <td><p><strong>2</strong></p></td>
 <td><p>イースト</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・ブルーインズ" title="wikilink">ボストン・ブルーインズ</a></p></td>
+<td><p><a href="../Page/ボストン・ブルーインズ.md" title="wikilink">ボストン・ブルーインズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:25th_National_Hockey_League_All-Star_Game" title="wikilink">1972</a></p></td>
@@ -231,7 +231,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダラス・スターズ" title="wikilink">ミネソタ・ノーススターズ</a></p></td>
+<td><p><a href="../Page/ダラス・スターズ.md" title="wikilink">ミネソタ・ノーススターズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:26th_National_Hockey_League_All-Star_Game" title="wikilink">1973</a></p></td>
@@ -239,7 +239,7 @@
 <td><p><strong>5</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・レンジャース" title="wikilink">ニューヨーク・レンジャース</a></p></td>
+<td><p><a href="../Page/ニューヨーク・レンジャース.md" title="wikilink">ニューヨーク・レンジャース</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:27th_National_Hockey_League_All-Star_Game" title="wikilink">1974</a></p></td>
@@ -247,7 +247,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>イースト</p></td>
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ブラックホークス" title="wikilink">シカゴ・ブラックホークス</a></p></td>
+<td><p><a href="../Page/シカゴ・ブラックホークス.md" title="wikilink">シカゴ・ブラックホークス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:28th_National_Hockey_League_All-Star_Game" title="wikilink">1975</a></p></td>
@@ -255,7 +255,7 @@
 <td><p><strong>7</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:29th_National_Hockey_League_All-Star_Game" title="wikilink">1976</a></p></td>
@@ -263,7 +263,7 @@
 <td><p><strong>7</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・フライヤーズ" title="wikilink">フィラデルフィア・フライヤーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・フライヤーズ.md" title="wikilink">フィラデルフィア・フライヤーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:30th_National_Hockey_League_All-Star_Game" title="wikilink">1977</a></p></td>
@@ -271,7 +271,7 @@
 <td><p><strong>4</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バンクーバー・カナックス" title="wikilink">バンクーバー・カナックス</a></p></td>
+<td><p><a href="../Page/バンクーバー・カナックス.md" title="wikilink">バンクーバー・カナックス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:31st_National_Hockey_League_All-Star_Game" title="wikilink">1978</a></p></td>
@@ -279,7 +279,7 @@
 <td><p><strong>3</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>2 (OT)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バッファロー・セイバーズ" title="wikilink">バッファロー・セイバーズ</a></p></td>
+<td><p><a href="../Page/バッファロー・セイバーズ.md" title="wikilink">バッファロー・セイバーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1979</p></td>
@@ -295,7 +295,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デトロイト・レッドウィングス" title="wikilink">デトロイト・レッドウィングス</a></p></td>
+<td><p><a href="../Page/デトロイト・レッドウィングス.md" title="wikilink">デトロイト・レッドウィングス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:33rd_National_Hockey_League_All-Star_Game" title="wikilink">1981</a></p></td>
@@ -303,7 +303,7 @@
 <td><p><strong>4</strong></p></td>
 <td><p>ウェールズ</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・キングス" title="wikilink">ロサンゼルス・キングス</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・キングス.md" title="wikilink">ロサンゼルス・キングス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:34th_National_Hockey_League_All-Star_Game" title="wikilink">1982</a></p></td>
@@ -311,7 +311,7 @@
 <td><p><strong>4</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワシントン・キャピタルズ" title="wikilink">ワシントン・キャピタルズ</a></p></td>
+<td><p><a href="../Page/ワシントン・キャピタルズ.md" title="wikilink">ワシントン・キャピタルズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:35th_National_Hockey_League_All-Star_Game" title="wikilink">1983</a></p></td>
@@ -327,7 +327,7 @@
 <td><p><strong>7</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュージャージー・デビルス" title="wikilink">ニュージャージー・デビルス</a></p></td>
+<td><p><a href="../Page/ニュージャージー・デビルス.md" title="wikilink">ニュージャージー・デビルス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:37th_National_Hockey_League_All-Star_Game" title="wikilink">1985</a></p></td>
@@ -335,7 +335,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルガリー・フレームス" title="wikilink">カルガリー・フレームス</a></p></td>
+<td><p><a href="../Page/カルガリー・フレームス.md" title="wikilink">カルガリー・フレームス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:38th_National_Hockey_League_All-Star_Game" title="wikilink">1986</a></p></td>
@@ -343,7 +343,7 @@
 <td><p><strong>4</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>3 (OT)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カロライナ・ハリケーンズ" title="wikilink">ハートフォード・ホエーラーズ</a></p></td>
+<td><p><a href="../Page/カロライナ・ハリケーンズ.md" title="wikilink">ハートフォード・ホエーラーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1987</p></td>
@@ -359,7 +359,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>5 (OT)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・ブルース" title="wikilink">セントルイス・ブルース</a></p></td>
+<td><p><a href="../Page/セントルイス・ブルース.md" title="wikilink">セントルイス・ブルース</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:40th_National_Hockey_League_All-Star_Game" title="wikilink">1989</a></p></td>
@@ -367,7 +367,7 @@
 <td><p><strong>9</strong></p></td>
 <td><p>ウェールズ</p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エドモントン・オイラーズ" title="wikilink">エドモントン・オイラーズ</a></p></td>
+<td><p><a href="../Page/エドモントン・オイラーズ.md" title="wikilink">エドモントン・オイラーズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:41st_National_Hockey_League_All-Star_Game" title="wikilink">1990</a></p></td>
@@ -375,7 +375,7 @@
 <td><p><strong>12</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピッツバーグ・ペンギンズ" title="wikilink">ピッツバーグ・ペンギンズ</a></p></td>
+<td><p><a href="../Page/ピッツバーグ・ペンギンズ.md" title="wikilink">ピッツバーグ・ペンギンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:42nd_National_Hockey_League_All-Star_Game" title="wikilink">1991</a></p></td>
@@ -383,7 +383,7 @@
 <td><p><strong>11</strong></p></td>
 <td><p>ウェールズ</p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ブラックホークス" title="wikilink">シカゴ・ブラックホークス</a></p></td>
+<td><p><a href="../Page/シカゴ・ブラックホークス.md" title="wikilink">シカゴ・ブラックホークス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:43rd_National_Hockey_League_All-Star_Game" title="wikilink">1992</a></p></td>
@@ -391,7 +391,7 @@
 <td><p><strong>10</strong></p></td>
 <td><p>ウェールズ</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・フライヤーズ" title="wikilink">フィラデルフィア・フライヤーズ</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・フライヤーズ.md" title="wikilink">フィラデルフィア・フライヤーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:44th_National_Hockey_League_All-Star_Game" title="wikilink">1993</a></p></td>
@@ -399,7 +399,7 @@
 <td><p><strong>16</strong></p></td>
 <td><p>キャンベル</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:45th_National_Hockey_League_All-Star_Game" title="wikilink">1994</a></p></td>
@@ -407,11 +407,11 @@
 <td><p><strong>9</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・レンジャース" title="wikilink">ニューヨーク・レンジャース</a></p></td>
+<td><p><a href="../Page/ニューヨーク・レンジャース.md" title="wikilink">ニューヨーク・レンジャース</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1995</p></td>
-<td><p><strong>シーズン<a href="https://ja.wikipedia.org/wiki/ロックアウト" title="wikilink">ロックアウト</a>のため中止</strong></p></td>
+<td><p><strong>シーズン<a href="../Page/ロックアウト.md" title="wikilink">ロックアウト</a>のため中止</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -423,7 +423,7 @@
 <td><p><strong>5</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・ブルーインズ" title="wikilink">ボストン・ブルーインズ</a></p></td>
+<td><p><a href="../Page/ボストン・ブルーインズ.md" title="wikilink">ボストン・ブルーインズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:47th_National_Hockey_League_All-Star_Game" title="wikilink">1997</a></p></td>
@@ -431,7 +431,7 @@
 <td><p><strong>11</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンノゼ・シャークス" title="wikilink">サンノゼ・シャークス</a> [2]</p></td>
+<td><p><a href="../Page/サンノゼ・シャークス.md" title="wikilink">サンノゼ・シャークス</a> [2]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:48th_National_Hockey_League_All-Star_Game" title="wikilink">1998</a></p></td>
@@ -439,7 +439,7 @@
 <td><p><strong>8</strong></p></td>
 <td><p>世界選抜</p></td>
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バンクーバー・カナックス" title="wikilink">バンクーバー・カナックス</a></p></td>
+<td><p><a href="../Page/バンクーバー・カナックス.md" title="wikilink">バンクーバー・カナックス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:49th_National_Hockey_League_All-Star_Game" title="wikilink">1999</a></p></td>
@@ -447,7 +447,7 @@
 <td><p><strong>8</strong></p></td>
 <td><p>世界選抜</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タンパベイ・ライトニング" title="wikilink">タンパベイ・ライトニング</a></p></td>
+<td><p><a href="../Page/タンパベイ・ライトニング.md" title="wikilink">タンパベイ・ライトニング</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:50th_National_Hockey_League_All-Star_Game" title="wikilink">2000</a></p></td>
@@ -463,7 +463,7 @@
 <td><p><strong>14</strong></p></td>
 <td><p>世界選抜</p></td>
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コロラド・アバランチ" title="wikilink">コロラド・アバランチ</a></p></td>
+<td><p><a href="../Page/コロラド・アバランチ.md" title="wikilink">コロラド・アバランチ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:52nd_National_Hockey_League_All-Star_Game" title="wikilink">2002</a></p></td>
@@ -471,7 +471,7 @@
 <td><p><strong>8</strong></p></td>
 <td><p>北米選抜</p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・キングス" title="wikilink">ロサンゼルス・キングス</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・キングス.md" title="wikilink">ロサンゼルス・キングス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:53rd_National_Hockey_League_All-Star_Game" title="wikilink">2003</a></p></td>
@@ -479,7 +479,7 @@
 <td><p><strong>6</strong></p></td>
 <td><p>イースト</p></td>
 <td><p>5 (SO)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フロリダ・パンサーズ" title="wikilink">フロリダ・パンサーズ</a></p></td>
+<td><p><a href="../Page/フロリダ・パンサーズ.md" title="wikilink">フロリダ・パンサーズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:54th_National_Hockey_League_All-Star_Game" title="wikilink">2004</a></p></td>
@@ -487,11 +487,11 @@
 <td><p><strong>6</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ワイルド" title="wikilink">ミネソタ・ワイルド</a></p></td>
+<td><p><a href="../Page/ミネソタ・ワイルド.md" title="wikilink">ミネソタ・ワイルド</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005</p></td>
-<td><p>シーズン<a href="https://ja.wikipedia.org/wiki/ロックアウト" title="wikilink">ロックアウト</a>（<a href="https://ja.wikipedia.org/wiki/2004年から2005年のNHLロックアウト" title="wikilink">2004年から2005年のNHLロックアウト</a>）のため開催せず</p></td>
+<td><p>シーズン<a href="../Page/ロックアウト.md" title="wikilink">ロックアウト</a>（<a href="https://ja.wikipedia.org/wiki/2004年から2005年のNHLロックアウト" title="wikilink">2004年から2005年のNHLロックアウト</a>）のため開催せず</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -511,7 +511,7 @@
 <td><p><strong>12</strong></p></td>
 <td><p>イースト</p></td>
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダラス・スターズ" title="wikilink">ダラス・スターズ</a></p></td>
+<td><p><a href="../Page/ダラス・スターズ.md" title="wikilink">ダラス・スターズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:56th_National_Hockey_League_All-Star_Game" title="wikilink">2008</a></p></td>
@@ -519,7 +519,7 @@
 <td><p><strong>8</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・スラッシャーズ" title="wikilink">アトランタ・スラッシャーズ</a></p></td>
+<td><p><a href="../Page/アトランタ・スラッシャーズ.md" title="wikilink">アトランタ・スラッシャーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:57th_National_Hockey_League_All-Star_Game" title="wikilink">2009</a></p></td>
@@ -527,7 +527,7 @@
 <td><p><strong>12</strong></p></td>
 <td><p>ウェスト</p></td>
 <td><p>11(SO)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モントリオール・カナディアンズ" title="wikilink">モントリオール・カナディアンズ</a></p></td>
+<td><p><a href="../Page/モントリオール・カナディアンズ.md" title="wikilink">モントリオール・カナディアンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
@@ -543,7 +543,7 @@
 <td><p><strong>11</strong></p></td>
 <td><p>チーム<a href="https://ja.wikipedia.org/wiki/エリック・ストール" title="wikilink">ストール</a></p></td>
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カロライナ・ハリケーンズ" title="wikilink">カロライナ・ハリケーンズ</a></p></td>
+<td><p><a href="../Page/カロライナ・ハリケーンズ.md" title="wikilink">カロライナ・ハリケーンズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:59th_National_Hockey_League_All-Star_Game" title="wikilink">2012</a></p></td>
@@ -551,12 +551,12 @@
 <td><p><strong>12</strong></p></td>
 <td><p>チーム<a href="https://ja.wikipedia.org/wiki/ダニエル・アルフレッドソン_(アイスホッケー)" title="wikilink">アルフレッドソン</a></p></td>
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オタワ・セネターズ" title="wikilink">オタワ・セネターズ</a></p></td>
+<td><p><a href="../Page/オタワ・セネターズ.md" title="wikilink">オタワ・セネターズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p>シーズン<a href="https://ja.wikipedia.org/wiki/ロックアウト" title="wikilink">ロックアウト</a>のため開催せず<br />
-当初オハイオ州<a href="https://ja.wikipedia.org/wiki/コロンバス_(オハイオ州)" title="wikilink">コロンバスの</a><a href="https://ja.wikipedia.org/wiki/ネイションワイド・アリーナ" title="wikilink">ネイションワイド・アリーナ</a>で開催予定だった[5]。</p></td>
+<td><p>シーズン<a href="../Page/ロックアウト.md" title="wikilink">ロックアウト</a>のため開催せず<br />
+当初オハイオ州<a href="../Page/コロンバス_(オハイオ州).md" title="wikilink">コロンバスの</a><a href="https://ja.wikipedia.org/wiki/ネイションワイド・アリーナ" title="wikilink">ネイションワイド・アリーナ</a>で開催予定だった[5]。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -576,7 +576,7 @@
 <td><p>17</p></td>
 <td><p>Team Foligno</p></td>
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コロンバス・ブルージャケッツ" title="wikilink">コロンバス・ブルージャケッツ</a></p></td>
+<td><p><a href="../Page/コロンバス・ブルージャケッツ.md" title="wikilink">コロンバス・ブルージャケッツ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:61st_National_Hockey_League_All-Star_Game" title="wikilink">2016</a></p></td>
@@ -592,7 +592,7 @@
 <td><p>4</p></td>
 <td><p>パシフィック</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルス・キングス" title="wikilink">ロサンゼルス・キングス</a></p></td>
+<td><p><a href="../Page/ロサンゼルス・キングス.md" title="wikilink">ロサンゼルス・キングス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:63rd_National_Hockey_League_All-Star_Game" title="wikilink">2018</a></p></td>
@@ -600,7 +600,7 @@
 <td><p>5</p></td>
 <td><p>アトランティック</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タンパベイ・ライトニング" title="wikilink">タンパベイ・ライトニング</a></p></td>
+<td><p><a href="../Page/タンパベイ・ライトニング.md" title="wikilink">タンパベイ・ライトニング</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:64th_National_Hockey_League_All-Star_Game" title="wikilink">2019</a></p></td>
@@ -608,7 +608,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンノゼ・シャークス" title="wikilink">サンノゼ・シャークス</a></p></td>
+<td><p><a href="../Page/サンノゼ・シャークス.md" title="wikilink">サンノゼ・シャークス</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2020</p></td>
@@ -631,13 +631,13 @@
 
 ## 主な活躍した選手
 
-| 選手                                                                | 得点 (ゴール-アシスト) | 出場試合数 |
-| ----------------------------------------------------------------- | ------------- | ----- |
-| [ウェイン・グレツキー](https://ja.wikipedia.org/wiki/ウェイン・グレツキー "wikilink") | 25 (13–12)    | 18    |
-| [マリオ・ルミュー](https://ja.wikipedia.org/wiki/マリオ・ルミュー "wikilink")     | 23 (13–10)    | 10    |
-| [ジョー・サキック](https://ja.wikipedia.org/wiki/ジョー・サキック "wikilink")     | 22 (6–16)     | 12    |
-| [マーク・メシエ](https://ja.wikipedia.org/wiki/マーク・メシエ "wikilink")       | 20 (6–14)     | 15    |
-| [ゴーディ・ハウ](https://ja.wikipedia.org/wiki/ゴーディ・ハウ "wikilink")       | 19 (10–9)     | 23    |
+| 選手                                                            | 得点 (ゴール-アシスト) | 出場試合数 |
+| ------------------------------------------------------------- | ------------- | ----- |
+| [ウェイン・グレツキー](../Page/ウェイン・グレツキー.md "wikilink")                | 25 (13–12)    | 18    |
+| [マリオ・ルミュー](../Page/マリオ・ルミュー.md "wikilink")                    | 23 (13–10)    | 10    |
+| [ジョー・サキック](https://ja.wikipedia.org/wiki/ジョー・サキック "wikilink") | 22 (6–16)     | 12    |
+| [マーク・メシエ](../Page/マーク・メシエ.md "wikilink")                      | 20 (6–14)     | 15    |
+| [ゴーディ・ハウ](../Page/ゴーディ・ハウ.md "wikilink")                      | 19 (10–9)     | 23    |
 
 ## 脚注
 

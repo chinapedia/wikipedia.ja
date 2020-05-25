@@ -1,7 +1,7 @@
-> この記事は[EVOLUTION3](https://ja.wikipedia.org/wiki/EVOLUTION3)から翻訳されています。
+> この記事は[黄昏EVOLUTION＃3](https://ja.wikipedia.org/wiki/黄昏EVOLUTION＃3)から翻訳されています。
 
 
-『**黄昏EVOLUTION\#3**』は[3B LAB.☆Sの](https://ja.wikipedia.org/wiki/3B_LAB.☆S "wikilink")4枚目のアルバム。
+『**黄昏EVOLUTION\#3**』は[3B LAB.☆Sの](../Page/3B_LAB.☆S.md "wikilink")4枚目のアルバム。
 
 ## 概要
 

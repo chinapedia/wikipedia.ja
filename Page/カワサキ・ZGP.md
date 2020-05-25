@@ -1,7 +1,7 @@
-> この記事は[ZGP](https://ja.wikipedia.org/wiki/ZGP)から翻訳されています。
+> この記事は[カワサキ・ZGP](https://ja.wikipedia.org/wiki/カワサキ・ZGP)から翻訳されています。
 
 
-**カワサキ・Z-GP**（**ゼット-ジーピー**）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")（後の[川崎重工業モーターサイクル&エンジンカンパニー](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")）が開発し、製造していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種である。[1980年代](../Page/1980年代.md "wikilink")において[排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")別に生産され、いずれの車種も[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[DOHC](../Page/DOHC.md "wikilink")[2バルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[エンジンを搭載する車種である](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")。一般名称は、Z〇〇GPというかたちで、〇〇に排気量が入る。販売当時の主な車輌販売地域は、[北米](../Page/北アメリカ.md "wikilink")、西[欧州](../Page/ヨーロッパ.md "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")であった。
+**カワサキ・Z-GP**（**ゼット-ジーピー**）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")（後の[川崎重工業モーターサイクル&エンジンカンパニー](https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&エンジンカンパニー "wikilink")）が開発し、製造していた[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種である。[1980年代](../Page/1980年代.md "wikilink")において[排気量](../Page/排気量.md "wikilink")別に生産され、いずれの車種も[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[DOHC](../Page/DOHC.md "wikilink")[2バルブ](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[エンジンを搭載する車種である](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")。一般名称は、Z〇〇GPというかたちで、〇〇に排気量が入る。販売当時の主な車輌販売地域は、[北米](../Page/北アメリカ.md "wikilink")、西[欧州](../Page/ヨーロッパ.md "wikilink")、[オセアニア](../Page/オセアニア.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")であった。
 
 ## モデル一覧
 
@@ -9,7 +9,7 @@
 
   - 400ccクラス
 
-:\* [Z400GP](https://ja.wikipedia.org/wiki/カワサキ・Z400GP "wikilink") - [Z400FXの後継機種として開発レた](https://ja.wikipedia.org/wiki/カワサキ・Z400FX "wikilink")。欧州仕様のZ550GPの姉妹車として、日本国内の免許規制に合わせて排気量を下げて登場。カワサキ独自の[モノショック式スイングアーム](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\)#モノショック "wikilink")「[ユニ・トラック](https://ja.wikipedia.org/wiki/ユニトラックシステム "wikilink")」を[リアサスペンションに採用し](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")、一躍人気車種となった。
+:\* [Z400GP](https://ja.wikipedia.org/wiki/カワサキ・Z400GP "wikilink") - [Z400FXの後継機種として開発レた](../Page/カワサキ・Z400FX.md "wikilink")。欧州仕様のZ550GPの姉妹車として、日本国内の免許規制に合わせて排気量を下げて登場。カワサキ独自の[モノショック式スイングアーム](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\)#モノショック "wikilink")「[ユニ・トラック](https://ja.wikipedia.org/wiki/ユニトラックシステム "wikilink")」を[リアサスペンションに採用し](https://ja.wikipedia.org/wiki/リヤサスペンション_\(オートバイ\) "wikilink")、一躍人気車種となった。
 
   - 401 - 750ccクラス
 
@@ -28,7 +28,7 @@
 
 ## 関連項目
 
-  - [カワサキ・ZFX](https://ja.wikipedia.org/wiki/カワサキ・ZFX "wikilink") - Z-GPの先代にあたるシリーズ
+  - [カワサキ・ZFX](../Page/カワサキ・ZFX.md "wikilink") - Z-GPの先代にあたるシリーズ
   - [カワサキ・GPZ](https://ja.wikipedia.org/wiki/カワサキ・GPZ "wikilink") - Z-GPの後継となる空冷「GPzシリーズ」および水冷「GPZシリーズ」
   - [カワサキ・GPX](https://ja.wikipedia.org/wiki/カワサキ・GPX "wikilink") - GPZの後継となるシリーズ
 

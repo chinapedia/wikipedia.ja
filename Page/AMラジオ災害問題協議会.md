@@ -1,11 +1,11 @@
-> この記事は[AM](https://ja.wikipedia.org/wiki/AM)から翻訳されています。
+> この記事は[AMラジオ災害問題協議会](https://ja.wikipedia.org/wiki/AMラジオ災害問題協議会)から翻訳されています。
 
 
 **AMラジオ災害問題協議会**（エーエムラジオさいがいもんだいきょうぎかい）は、[近畿圏で](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[災害](../Page/災害.md "wikilink")が発生した場合、近畿圏の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[民間放送](../Page/民間放送.md "wikilink")の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")7社が共同で災害安否情報や[ライフライン](../Page/ライフライン.md "wikilink")情報の提供を実施する組織である。
 
 ## 内容
 
-[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の発災から2年前の[1993年](../Page/1993年.md "wikilink")に、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")（NHK）・[朝日放送（当時。2018年度以降は朝日放送ラジオ）](../Page/朝日放送ラジオ.md "wikilink")（ABC）・[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（MBS）・[大阪放送](../Page/大阪放送.md "wikilink")（OBC、ラジオ大阪）の在阪AMラジオ4局で発足。震災が発生した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からは、被災地の[神戸市](../Page/神戸市.md "wikilink")に拠点を置く[ラジオ関西](../Page/ラジオ関西.md "wikilink")（CRK）も参加。[1999年](../Page/1999年.md "wikilink")には、[和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）と[京都放送](../Page/京都放送.md "wikilink")（KBS）の加盟によって、近畿のAMラジオ全局が参加することになった。
+[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")の発災から2年前の[1993年](../Page/1993年.md "wikilink")に、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")（NHK）・[朝日放送（当時。2018年度以降は朝日放送ラジオ）](../Page/朝日放送ラジオ.md "wikilink")（ABC）・[毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（MBS）・[大阪放送](../Page/大阪放送.md "wikilink")（OBC、ラジオ大阪）の在阪AMラジオ4局で発足。震災が発生した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からは、被災地の[神戸市](../Page/神戸市.md "wikilink")に拠点を置く[ラジオ関西](../Page/ラジオ関西.md "wikilink")（CRK）も参加。[1999年](../Page/1999年.md "wikilink")には、[和歌山放送](../Page/和歌山放送.md "wikilink")（WBS）と[京都放送](../Page/京都放送.md "wikilink")（KBS）の加盟によって、近畿のAMラジオ全局が参加することになった。
 
 阪神・淡路大震災発生前年の[1994年](../Page/1994年.md "wikilink")には、都市におけるラジオ難視聴空間の解消をテーマに、NHK・朝日放送（当時）・毎日放送・大阪放送による共同制作番組『地下でも聞けるAMラジオ』を各局で放送。震災発生から8ヶ月半後の1995年[9月1日](../Page/9月1日.md "wikilink")（[防災の日](../Page/防災の日.md "wikilink")）に『神戸発　命のラジオ』を放送したことをきっかけに、[2004年](../Page/2004年.md "wikilink")までは、震災発生日の[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")午後に[桂文珍](../Page/桂文珍.md "wikilink")の司会で協議会加盟全局の参加・同時生放送による特別番組『関西発 命のラジオ』を放送していた。
 
@@ -21,7 +21,7 @@
   - [大阪放送](../Page/大阪放送.md "wikilink")（ラジオ大阪・OBC）
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")（CRK）
   - [京都放送](../Page/京都放送.md "wikilink")（KBS京都）
-  - [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")（WBS）
+  - [和歌山放送](../Page/和歌山放送.md "wikilink")（WBS）
 
 ## 担当アナウンサー
 

@@ -1,7 +1,7 @@
 > この記事は[The Biggest Dreamer](https://ja.wikipedia.org/wiki/The_Biggest_Dreamer)から翻訳されています。
 
 
-「**The Biggest Dreamer**」（ザ・ビッゲスト・ドリーマー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink")の4枚目のシングル。発売元はNECインターチャネル（現[インターチャネル](../Page/インターチャネル.md "wikilink")）、販売元は[キングレコード](../Page/キングレコード.md "wikilink")（NECM-12005）。
+「**The Biggest Dreamer**」（ザ・ビッゲスト・ドリーマー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[和田光司](../Page/和田光司.md "wikilink")の4枚目のシングル。発売元はNECインターチャネル（現[インターチャネル](../Page/インターチャネル.md "wikilink")）、販売元は[キングレコード](../Page/キングレコード.md "wikilink")（NECM-12005）。
 
 ## 概要
 
@@ -18,11 +18,11 @@
 
 1.  **The Biggest Dreamer** \[3:50\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[山田ひろし](../Page/山田ひろし.md "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[太田美知彦](../Page/太田美知彦.md "wikilink")
           - [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[デジモンテイマーズ](../Page/デジモンテイマーズ.md "wikilink")』オープニングテーマ
 2.  **風** \[3:53\]
       -
-        作詞：[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink") 作曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") 編曲：[渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink")
+        作詞：[和田光司](../Page/和田光司.md "wikilink") 作曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") 編曲：[渡部チェル](../Page/渡部チェル.md "wikilink")
           - フジテレビ系アニメ『デジモンテイマーズ』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
 3.  The Biggest Dreamer（Original Karaoke）
 4.  風（Original Karaoke）
@@ -31,11 +31,11 @@
 
 1.  **The Biggest Dreamer** \[3:50\]
       -
-        作詞：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") [作曲](../Page/作曲.md "wikilink")・編曲：太田美知彦
+        作詞：[山田ひろし](../Page/山田ひろし.md "wikilink") [作曲](../Page/作曲.md "wikilink")・編曲：太田美知彦
           - [東映](../Page/東映.md "wikilink")配給[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『[デジモンテイマーズ 冒険者たちの戦い](../Page/デジモンテイマーズ.md "wikilink")』オープニングテーマ
 2.  **風** \[3:53\]
       -
-        作詞：和田光司 作曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") 編曲：[渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink")
+        作詞：和田光司 作曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") 編曲：[渡部チェル](../Page/渡部チェル.md "wikilink")
 3.  The Biggest Dreamer（Original Karaoke）
 4.  風（Original Karaoke）
 5.  **♪ポケットクルモンのうた** \[0:16\]
@@ -47,7 +47,7 @@
 
 1.  **The Biggest Dreamer** \[3:50\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[山田ひろし](../Page/山田ひろし.md "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[太田美知彦](../Page/太田美知彦.md "wikilink")
           - [東映](../Page/東映.md "wikilink")配給[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")『[デジモンテイマーズ 暴走デジモン特急](../Page/デジモンテイマーズ.md "wikilink")』オープニングテーマ
 2.  **笑顔** \[5:13\]
       -
@@ -64,7 +64,7 @@
       -
         [all of my mind](https://ja.wikipedia.org/wiki/all_of_my_mind "wikilink")
         [デジモンテイマーズ シングルベストパレード](https://ja.wikipedia.org/wiki/デジモンテイマーズ_シングルベストパレード "wikilink")
-        [The Best Selection〜Welcome Back\!](https://ja.wikipedia.org/wiki/The_Best_Selection〜Welcome_Back! "wikilink")
+        [The Best Selection〜Welcome Back\!](../Page/The_Best_Selection〜Welcome_Back!.md "wikilink")
         [DIGIMON HISTORY 1999-2006 ALL THE BEST](https://ja.wikipedia.org/wiki/DIGIMON_HISTORY_1999-2006_ALL_THE_BEST "wikilink")
         [DIGIMON MOVIE SONG COLLECTION](https://ja.wikipedia.org/wiki/DIGIMON_MOVIE_SONG_COLLECTION "wikilink")
         [DIGIMON SONG BEST OF KOJI WADA](https://ja.wikipedia.org/wiki/DIGIMON_SONG_BEST_OF_KOJI_WADA "wikilink")

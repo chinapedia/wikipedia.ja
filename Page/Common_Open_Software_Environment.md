@@ -5,7 +5,7 @@
 
 ## 背景
 
-COSE が結成されたのは、「[UNIX戦争](https://ja.wikipedia.org/wiki/UNIX戦争 "wikilink")」がUNIX業界の成長を阻害していることが明らかになったころであった。[マイクロソフト](../Page/マイクロソフト.md "wikilink")は既にデスクトップ市場を支配しており、UNIX市場（特にエンジニアリング・[ワークステーション](../Page/ワークステーション.md "wikilink")と[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")）にも触手を伸ばし始めていた。さらに[ノベルの](../Page/ノベル_\(企業\).md "wikilink") [NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink") は徐々にマイクロソフトのネットワーク製品に市場を侵食されつつあった。マイクロソフトとの多面的な競争の切り札として UNIX を生かすべく、ノベルと[AT\&T](../Page/AT&T.md "wikilink")は Univel と名づけた協業を開始した（1991年に開始され、1993年にノベルがUNIX関連資産を買い取って終了）。
+COSE が結成されたのは、「[UNIX戦争](../Page/UNIX戦争.md "wikilink")」がUNIX業界の成長を阻害していることが明らかになったころであった。[マイクロソフト](../Page/マイクロソフト.md "wikilink")は既にデスクトップ市場を支配しており、UNIX市場（特にエンジニアリング・[ワークステーション](../Page/ワークステーション.md "wikilink")と[データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")）にも触手を伸ばし始めていた。さらに[ノベルの](../Page/ノベル_\(企業\).md "wikilink") [NetWare](https://ja.wikipedia.org/wiki/NetWare "wikilink") は徐々にマイクロソフトのネットワーク製品に市場を侵食されつつあった。マイクロソフトとの多面的な競争の切り札として UNIX を生かすべく、ノベルと[AT\&T](../Page/AT&T.md "wikilink")は Univel と名づけた協業を開始した（1991年に開始され、1993年にノベルがUNIX関連資産を買い取って終了）。
 
 それまでもUNIXの統合の努力はなされていたが、COSE には2つの特徴があった。1つは、UNIX陣営が1つにまとまった最初の試みだった点である。第二は、既存技術の標準化よりも新たな技術を一から作ることを指向していた点である。
 
@@ -24,15 +24,15 @@ COSE が重点領域としたのは、共通デスクトップ環境、ネット
 
 ## UNIX標準化
 
-OSF や UI とは異なり、COSE は単一のオペレーティングシステムを作成・振興しようとはしなかった（[リファレンス実装](https://ja.wikipedia.org/wiki/リファレンス実装 "wikilink")を定めなかった）。その代わりに、既存のOSインタフェース仕様文書を調査・検討した。この結果として "Spec 1170" と呼ばれるリストが作成され、それが後の [Single UNIX Specification](https://ja.wikipedia.org/wiki/Single_UNIX_Specification "wikilink") へと繋がっていった\[4\]。
+OSF や UI とは異なり、COSE は単一のオペレーティングシステムを作成・振興しようとはしなかった（[リファレンス実装](../Page/リファレンス実装.md "wikilink")を定めなかった）。その代わりに、既存のOSインタフェース仕様文書を調査・検討した。この結果として "Spec 1170" と呼ばれるリストが作成され、それが後の [Single UNIX Specification](../Page/Single_UNIX_Specification.md "wikilink") へと繋がっていった\[4\]。
 
-Spec 1170（[SPECベンチマークとは無関係](https://ja.wikipedia.org/wiki/Standard_Performance_Evaluation_Corporation "wikilink")）は、COSE が既存のUNIXインタフェースでどれが実際に使われているかを調査した結果であった。既存のUNIXアプリケーション群を調査し、1,170 の[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")とライブラリ関数をリストアップした。ただし、その後もインタフェースは追加され、成長していった。
+Spec 1170（[SPECベンチマークとは無関係](../Page/Standard_Performance_Evaluation_Corporation.md "wikilink")）は、COSE が既存のUNIXインタフェースでどれが実際に使われているかを調査した結果であった。既存のUNIXアプリケーション群を調査し、1,170 の[システムコール](../Page/システムコール.md "wikilink")とライブラリ関数をリストアップした。ただし、その後もインタフェースは追加され、成長していった。
 
 仕様の管理は [X/Open](https://ja.wikipedia.org/wiki/X/Open "wikilink") に任された。1993年10月、当時ノベルが権利を所有していた UNIX の商標は X/Open に権利が移された\[5\]。これにより、UNIXブランドは特定のソースコード実装とは無関係となった。どんな企業でも UNIX 仕様に準拠した OS を開発すれば、それに UNIX ブランドを利用する資格を有することになった。
 
 ## Common Desktop Environment
 
-UNIXブランドのオープン化と標準化とは別に、COSE は [Common Desktop Environment](https://ja.wikipedia.org/wiki/Common_Desktop_Environment "wikilink") (CDE) を開発した。CDE は [X Window System](../Page/X_Window_System.md "wikilink") ベースのユーザ環境であり、HP、IBM、サンが共同開発した。そのインタフェースおよび開発ツールには OSF の [Motif](../Page/Motif_\(GUI\).md "wikilink") [ウィジェット・ツールキット](https://ja.wikipedia.org/wiki/ウィジェット・ツールキット "wikilink")が使われた\[6\]。
+UNIXブランドのオープン化と標準化とは別に、COSE は [Common Desktop Environment](../Page/Common_Desktop_Environment.md "wikilink") (CDE) を開発した。CDE は [X Window System](../Page/X_Window_System.md "wikilink") ベースのユーザ環境であり、HP、IBM、サンが共同開発した。そのインタフェースおよび開発ツールには OSF の [Motif](../Page/Motif_\(GUI\).md "wikilink") [ウィジェット・ツールキット](../Page/ウィジェット・ツールキット.md "wikilink")が使われた\[6\]。
 
 ## その他の技術
 

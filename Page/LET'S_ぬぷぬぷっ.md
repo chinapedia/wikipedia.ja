@@ -1,4 +1,4 @@
-> この記事は[LET\'S ](https://ja.wikipedia.org/wiki/LET\'S_)から翻訳されています。
+> この記事は[LET\'S ぬぷぬぷっ](https://ja.wikipedia.org/wiki/LET\'S_ぬぷぬぷっ)から翻訳されています。
 
 
 『**LET'S ぬぷぬぷっ**』（れっつ ぬぷぬぷっ）は、[三ツ森あきら](https://ja.wikipedia.org/wiki/三ツ森あきら "wikilink")作の[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")（[4コマ漫画](../Page/4コマ漫画.md "wikilink")）である。「[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")」で[1993年](../Page/1993年.md "wikilink")4月から[1999年](../Page/1999年.md "wikilink")11月に連載された。単行本は全9巻が刊行されている。
@@ -20,7 +20,7 @@
   - 高木家
     ガイジンの父と怪物の母、セミ男の弟に振り回される兄と姉の話。
   - 保健室で設楽先生
-    小学生である高木家の兄に[性的な行動を取る養護教諭の先生の話](https://ja.wikipedia.org/wiki/下ネタ "wikilink")。
+    小学生である高木家の兄に[性的な行動を取る養護教諭の先生の話](../Page/下ネタ.md "wikilink")。
 
 ## テレビアニメ
 
@@ -28,17 +28,17 @@
 
 ### キャスト
 
-  - 設楽百合恵（[富沢美智恵](https://ja.wikipedia.org/wiki/富沢美智恵 "wikilink")）
+  - 設楽百合恵（[富沢美智恵](../Page/富沢美智恵.md "wikilink")）
   - 高木文男（[上田祐司](../Page/うえだゆうじ.md "wikilink")）
-  - スシ猫（[高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")）
+  - スシ猫（[高乃麗](../Page/高乃麗.md "wikilink")）
   - キョウザメちゃん・ハムスター・マリモちゃん（[荒木香恵](../Page/荒木香衣.md "wikilink")）
-  - スケット姉妹・カシラ（[古山あゆみ](https://ja.wikipedia.org/wiki/古山あゆみ "wikilink")）
-  - スケット姉妹・デスワ（[中川玲](https://ja.wikipedia.org/wiki/中川玲 "wikilink")）
-  - ガンコおやじ（[加藤精三](https://ja.wikipedia.org/wiki/加藤精三_\(声優\) "wikilink")）
+  - スケット姉妹・カシラ（[古山あゆみ](../Page/古山あゆみ.md "wikilink")）
+  - スケット姉妹・デスワ（[中川玲](../Page/中川玲.md "wikilink")）
+  - ガンコおやじ（[加藤精三](../Page/加藤精三_\(声優\).md "wikilink")）
   - タカ男くん（[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
   - 大森カズ美（[ひと美](../Page/ひと美.md "wikilink")）
   - 大森兄夫（[石田彰](../Page/石田彰.md "wikilink")）
-  - 中川ゆみ（中川優美 ([Jack\&Betty](https://ja.wikipedia.org/wiki/Jack&Betty "wikilink"))）
+  - 中川ゆみ（中川優美 ([Jack\&Betty](../Page/Jack&Betty.md "wikilink"))）
   - ナレーション（[一条和矢](../Page/一条和矢.md "wikilink")）
 
 ### スタッフ
@@ -49,19 +49,19 @@
   - 美術監督 - 天水勝
   - 撮影監督 - 斎藤秋男
   - 編集 - 足立浩
-  - 音響監督 - [田中一也](https://ja.wikipedia.org/wiki/たなかかずや "wikilink")
+  - 音響監督 - [田中一也](../Page/たなかかずや.md "wikilink")
   - 音楽 - [渡辺剛](../Page/渡辺剛_\(キーボード奏者\).md "wikilink")
   - 総合プロデューサー - 落合芳行
-  - アニメーション制作 - [グループ・タック](https://ja.wikipedia.org/wiki/グループ・タック "wikilink")
+  - アニメーション制作 - [グループ・タック](../Page/グループ・タック.md "wikilink")
   - アニメーション制作協力 - [亜細亜堂](https://ja.wikipedia.org/wiki/亜細亜堂 "wikilink")
-  - 協力 - [代々木アニメーション学院](https://ja.wikipedia.org/wiki/代々木アニメーション学院 "wikilink")
+  - 協力 - [代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")
   - 製作協力 - [フォーライフレコード](https://ja.wikipedia.org/wiki/フォーライフレコード "wikilink")
   - 製作 - TBS
 
 ### テーマ曲
 
-  - 主題歌「[Maybe true](https://ja.wikipedia.org/wiki/Maybe_true "wikilink")」：[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")
-  - 挿入歌/VHS・LD版主題歌「Twister」：[Jack\&Betty](https://ja.wikipedia.org/wiki/Jack&Betty "wikilink")
+  - 主題歌「[Maybe true](https://ja.wikipedia.org/wiki/Maybe_true "wikilink")」：[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")
+  - 挿入歌/VHS・LD版主題歌「Twister」：[Jack\&Betty](../Page/Jack&Betty.md "wikilink")
 
 ### 放映リスト
 
@@ -88,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/人工呼吸" title="wikilink">人工呼吸</a>でレロレロ</p></td>
+<td><p><a href="../Page/人工呼吸.md" title="wikilink">人工呼吸</a>でレロレロ</p></td>
 <td><p>10月7日</p></td>
 <td></td>
 <td></td>
@@ -104,7 +104,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>ちょー<a href="https://ja.wikipedia.org/wiki/ハイレグ" title="wikilink">ハイレグ</a>でパチパチ</p></td>
+<td><p>ちょー<a href="../Page/ハイレグ.md" title="wikilink">ハイレグ</a>でパチパチ</p></td>
 <td><p>10月12日</p></td>
 <td></td>
 <td></td>
@@ -184,7 +184,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/健康診断" title="wikilink">身体検査ってすみずみ</a></p></td>
+<td><p><a href="../Page/健康診断.md" title="wikilink">身体検査ってすみずみ</a></p></td>
 <td><p>10月28日</p></td>
 <td></td>
 <td></td>

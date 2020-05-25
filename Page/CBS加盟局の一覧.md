@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[CBS加盟局の一覧](https://ja.wikipedia.org/wiki/CBS加盟局の一覧)から翻訳されています。
 
 
 **CBS加盟局の一覧**（シービーエスかめいきょくのいちらん）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テレビネットワークである](../Page/ネットワーク_\(放送\).md "wikilink")[CBS](../Page/CBS.md "wikilink")が、合衆国内に展開する[放送局](../Page/放送局.md "wikilink")（加盟局）の一覧である。

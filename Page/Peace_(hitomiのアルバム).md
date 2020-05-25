@@ -1,13 +1,13 @@
-> この記事は[Peace \(hitomi\)](https://ja.wikipedia.org/wiki/Peace_\(hitomi\))から翻訳されています。
+> この記事は[Peace \(hitomiのアルバム\)](https://ja.wikipedia.org/wiki/Peace_\(hitomiのアルバム\))から翻訳されています。
 
 
-『**peace**』（ピース）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")のコンプリート・[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**peace**』（ピース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")のコンプリート・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 
-  - 発売日はデビュー13周年記念日となる[2007年](../Page/2007年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")、発売元はエイベックスより本人のプライベートレーベル[LOVE LIFE RECORDS](https://ja.wikipedia.org/wiki/LOVE_LIFE_RECORDS "wikilink")。「初回限定盤(3CD+3DVD)」「3CD」「2DVD」の3形態で発売。初回限定盤両盤共にスリーブケース仕様＆ボーナスDVD付。そのDVDはライブ「hitomi LIVE TOUR 2006 "LOVE CONCENT"」のスペシャルエディット映像。
-  - デビューから全ての[シングル](../Page/シングル.md "wikilink")曲が収録されている。また、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「MADE TO BE IN LOVE」、「BLADE RUNNER」も収録。ちなみに、これまでのPV集に収められていなかった「PRETTY EYES」、「空」、「Progress」および「ヒカリ」以降のPVが今作にて初めて収録されている。
-  - CD又は歌詞カードの色はそれぞれ赤、黄、青を基調にしている。
+  - 発売日はデビュー13周年記念日となる[2007年](../Page/2007年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")、発売元はエイベックスより本人のプライベートレーベル[LOVE LIFE RECORDS](https://ja.wikipedia.org/wiki/LOVE_LIFE_RECORDS "wikilink")。「初回限定盤 (3CD+3DVD)」「3CD」「2DVD」の3形態で発売。初回限定盤両盤共にスリーブケース仕様＆ボーナスDVD付。そのDVDはライブ「hitomi LIVE TOUR 2006 "LOVE CONCENT"」のスペシャルエディット映像。
+  - デビューから全ての[シングル](../Page/シングル.md "wikilink")曲が収録されている。また、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「MADE TO BE IN LOVE」、「BLADE RUNNER」も収録。ちなみに、それまでのPV集に収められていなかった「PRETTY EYES」、「空」、「Progress」および「ヒカリ」以降のPVが今作にて初めて収録されている。
+  - CDまたは歌詞カードの色はそれぞれ赤、黄、青を基調にしている。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
       -
         作詞：hitomi / 作曲：小室哲哉 / 編曲：久保こーじ
         2ndシングル
-3.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL "wikilink")**
+3.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL_\(hitomiの曲\) "wikilink")**
       -
         作詞：hitomi / 作曲：小室哲哉 / 編曲：小室哲哉 & 久保こーじ
         3rdシングル
@@ -59,7 +59,7 @@
         11thシングル
 12. **[Progress](https://ja.wikipedia.org/wiki/Progress_\(hitomiの曲\) "wikilink")**
       -
-        作詞：hitomi / 作曲：hitomi & [吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink") / 編曲：吉俣良
+        作詞：hitomi / 作曲：hitomi & [吉俣良](../Page/吉俣良.md "wikilink") / 編曲：吉俣良
         12thシングル
 13. **[Someday](https://ja.wikipedia.org/wiki/Someday_\(hitomiの曲\) "wikilink")**
       -
@@ -74,7 +74,7 @@
         14thシングル
 2.  **[WISH](https://ja.wikipedia.org/wiki/君のとなり "wikilink")**
       -
-        作詞：hitomi / 作曲：[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink") / 編曲：渡辺善太郎
+        作詞：hitomi / 作曲：[長尾大](../Page/長尾大.md "wikilink") / 編曲：渡辺善太郎
         14thシングルのc/w
 3.  **[MADE TO BE IN LOVE](https://ja.wikipedia.org/wiki/君のとなり "wikilink")**
       -
@@ -88,13 +88,13 @@
       -
         作詞：hitomi / 作曲：渡辺善太郎 / 編曲：渡辺善太郎
         16thシングル
-6.  **[LOVE 2000](https://ja.wikipedia.org/wiki/LOVE_2000_\(hitomiの曲\) "wikilink")**
+6.  **[LOVE 2000](../Page/LOVE_2000_\(hitomiの曲\).md "wikilink")**
       -
-        作詞：hitomi / 作曲：[鎌田雅人](https://ja.wikipedia.org/wiki/鎌田雅人 "wikilink") / 編曲：渡辺善太郎
+        作詞：hitomi / 作曲：[鎌田雅人](../Page/鎌田雅人.md "wikilink") / 編曲：渡辺善太郎
         17thシングル
 7.  **[MARIA](https://ja.wikipedia.org/wiki/MARIA_\(hitomiの曲\) "wikilink")**
       -
-        作詞：hitomi・[多胡邦夫](https://ja.wikipedia.org/wiki/多胡邦夫 "wikilink") / 作曲：多胡邦夫 / 編曲：渡辺善太郎
+        作詞：hitomi・[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 作曲：多胡邦夫 / 編曲：渡辺善太郎
         18thシングル
 8.  **[キミにKISS](https://ja.wikipedia.org/wiki/キミにKISS "wikilink")**
       -
@@ -113,7 +113,7 @@
 
 1.  **[I am](https://ja.wikipedia.org/wiki/I_am/innocence "wikilink")**
       -
-        作詞：hitomi / 作曲：[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink") / 編曲：渡辺善太郎
+        作詞：hitomi / 作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：渡辺善太郎
         22ndシングル
 2.  **[innocence](https://ja.wikipedia.org/wiki/I_am/innocence "wikilink")**
       -
@@ -137,7 +137,7 @@
         25thシングル
 7.  **[ヒカリ](https://ja.wikipedia.org/wiki/ヒカリ_\(hitomiの曲\) "wikilink")**
       -
-        作詞：hitomi / 作曲：[小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink") / 編曲：[根岸孝旨](../Page/根岸孝旨.md "wikilink")
+        作詞：hitomi / 作曲：[小幡英之](../Page/小幡英之.md "wikilink") / 編曲：[根岸孝旨](../Page/根岸孝旨.md "wikilink")
         26thシングル
 8.  **[心の旅人](https://ja.wikipedia.org/wiki/心の旅人/SPEED_STAR "wikilink")**
       -
@@ -145,7 +145,7 @@
         27thシングル
 9.  **[SPEED☆STAR](https://ja.wikipedia.org/wiki/心の旅人/SPEED_STAR "wikilink")**
       -
-        作詞：hitomi & [TRIPLANE](https://ja.wikipedia.org/wiki/TRIPLANE "wikilink") / 作曲：hitomi & TRIPLANE / 編曲：根岸孝旨
+        作詞：hitomi & [TRIPLANE](../Page/TRIPLANE.md "wikilink") / 作曲：hitomi & TRIPLANE / 編曲：根岸孝旨
         27thシングル
 10. **[Japanese girl](https://ja.wikipedia.org/wiki/Japanese_girl "wikilink")**
       -
@@ -159,11 +159,11 @@
       -
         作詞：hitomi / 作曲：AVANT GARDE / 編曲：渡辺善太郎
         30thシングル
-13. **[GO MY WAY](https://ja.wikipedia.org/wiki/GO_MY_WAY_\(hitomiの曲\) "wikilink")**
+13. **[GO MY WAY](../Page/GO_MY_WAY_\(hitomiの曲\).md "wikilink")**
       -
-        作詞：hitomi / 作曲：[本間昭光](https://ja.wikipedia.org/wiki/本間昭光 "wikilink") / 編曲：渡辺善太郎
+        作詞：hitomi / 作曲：[本間昭光](../Page/本間昭光.md "wikilink") / 編曲：渡辺善太郎
         31stシングル
-14. **[アイ ノ コトバ](https://ja.wikipedia.org/wiki/アイ_ノ_コトバ "wikilink")**
+14. **[アイ ノ コトバ](../Page/アイ_ノ_コトバ.md "wikilink")**
       -
         作詞：hitomi / 作曲：[mo'doo-](https://ja.wikipedia.org/wiki/mo'doo- "wikilink") / 編曲：渡辺善太郎
         32ndシングル

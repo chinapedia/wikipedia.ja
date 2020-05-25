@@ -1,7 +1,7 @@
-> この記事は[ \(3B LAB.\)](https://ja.wikipedia.org/wiki/_\(3B_LAB.\))から翻訳されています。
+> この記事は[プレゼント \(3B LAB.☆の曲\)](https://ja.wikipedia.org/wiki/プレゼント_\(3B_LAB.☆の曲\))から翻訳されています。
 
 
-「**プレゼント**」は、[3B LAB.☆の](https://ja.wikipedia.org/wiki/3B_LAB.☆S "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。 [2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+「**プレゼント**」は、[3B LAB.☆の](../Page/3B_LAB.☆S.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。 [2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  プレゼント
-      - 作詞・作曲：[岡平健治](https://ja.wikipedia.org/wiki/岡平健治 "wikilink")
+      - 作詞・作曲：[岡平健治](../Page/岡平健治.md "wikilink")
       - 岡平曰く、「自分は10粒涙があったら1粒しかプレゼントできない。その代わりその1粒に100粒のパワーを入れてプレゼントする」。詞は19歳のころに出来たという。
 2.  人生旅行記
       - 作詞・作曲：岡平健治

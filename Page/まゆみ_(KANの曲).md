@@ -1,7 +1,7 @@
-> この記事は[ \(KAN\)](https://ja.wikipedia.org/wiki/_\(KAN\))から翻訳されています。
+> この記事は[まゆみ \(KANの曲\)](https://ja.wikipedia.org/wiki/まゆみ_\(KANの曲\))から翻訳されています。
 
 
-『**まゆみ**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[KAN](../Page/KAN.md "wikilink")の楽曲。アルバム『[TOKYOMAN](https://ja.wikipedia.org/wiki/TOKYOMAN "wikilink")』（1993年2月25日発売）からシングルカットされ、1993年4月21日に発売された。1993年[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")CMイメージ・ソング。
+『**まゆみ**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[KAN](../Page/KAN.md "wikilink")の楽曲。アルバム『[TOKYOMAN](../Page/TOKYOMAN.md "wikilink")』（1993年2月25日発売）からシングルカットされ、1993年4月21日に発売された。1993年[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")CMイメージ・ソング。
 
 ## 概要
 

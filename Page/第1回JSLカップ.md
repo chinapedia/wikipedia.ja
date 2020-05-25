@@ -1,34 +1,34 @@
-> この記事は[1JSL](https://ja.wikipedia.org/wiki/1JSL)から翻訳されています。
+> この記事は[第1回JSLカップ](https://ja.wikipedia.org/wiki/第1回JSLカップ)から翻訳されています。
 
 
-**第1回JSLカップ**（だい1かいJSLカップ）は、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[5月14日](../Page/5月14日.md "wikilink")に行われた[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")主催の大会である。JSL1部、2部に所属する全20チームを4つの予選グループに振り分け、予選を勝ち抜いた8チーム参加による[トーナメント方式](../Page/トーナメント方式.md "wikilink")で争われた。優勝は[日立製作所サッカー部であった](https://ja.wikipedia.org/wiki/日立製作所本社サッカー部 "wikilink")。
+**第1回JSLカップ**（だい1かいJSLカップ）は、[1976年](../Page/1976年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[5月14日](../Page/5月14日.md "wikilink")に行われた[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")主催の大会である。JSL1部、2部に所属する全20チームを4つの予選グループに振り分け、予選を勝ち抜いた8チーム参加による[トーナメント方式](../Page/トーナメント方式.md "wikilink")で争われた。優勝は[日立製作所サッカー部であった](../Page/日立製作所本社サッカー部.md "wikilink")。
 
 ## 出場クラブ
 
 ### JSL1部
 
-  - [ヤンマーディーゼルサッカー部](https://ja.wikipedia.org/wiki/ヤンマーディーゼルサッカー部 "wikilink")
-  - [三菱重工業サッカー部](https://ja.wikipedia.org/wiki/三菱重工業サッカー部 "wikilink")
-  - [日立製作所サッカー部](https://ja.wikipedia.org/wiki/日立製作所本社サッカー部 "wikilink")
-  - [新日本製鐵サッカー部](https://ja.wikipedia.org/wiki/八幡製鉄サッカー部 "wikilink")
-  - [永大サッカー部](https://ja.wikipedia.org/wiki/永大産業サッカー部 "wikilink")
-  - [古河電気工業サッカー部](https://ja.wikipedia.org/wiki/古河電気工業サッカー部 "wikilink")
-  - [フジタ工業クラブサッカー部](https://ja.wikipedia.org/wiki/藤和不動産サッカー部 "wikilink")
-  - [東洋工業サッカー部](https://ja.wikipedia.org/wiki/東洋工業サッカー部 "wikilink")
-  - [日本鋼管サッカー部](https://ja.wikipedia.org/wiki/日本鋼管サッカー部 "wikilink")
-  - [トヨタ自動車工業サッカー部](https://ja.wikipedia.org/wiki/トヨタ自動車工業サッカー部 "wikilink")
+  - [ヤンマーディーゼルサッカー部](../Page/ヤンマーディーゼルサッカー部.md "wikilink")
+  - [三菱重工業サッカー部](../Page/三菱重工業サッカー部.md "wikilink")
+  - [日立製作所サッカー部](../Page/日立製作所本社サッカー部.md "wikilink")
+  - [新日本製鐵サッカー部](../Page/八幡製鉄サッカー部.md "wikilink")
+  - [永大サッカー部](../Page/永大産業サッカー部.md "wikilink")
+  - [古河電気工業サッカー部](../Page/古河電気工業サッカー部.md "wikilink")
+  - [フジタ工業クラブサッカー部](../Page/藤和不動産サッカー部.md "wikilink")
+  - [東洋工業サッカー部](../Page/東洋工業サッカー部.md "wikilink")
+  - [日本鋼管サッカー部](../Page/日本鋼管サッカー部.md "wikilink")
+  - [トヨタ自動車工業サッカー部](../Page/トヨタ自動車工業サッカー部.md "wikilink")
 
 ### JSL2部
 
-  - [田辺製薬サッカー部](https://ja.wikipedia.org/wiki/田辺三菱製薬サッカー部 "wikilink")
-  - [読売サッカークラブ](https://ja.wikipedia.org/wiki/読売サッカークラブ "wikilink")
-  - [富士通サッカー部](https://ja.wikipedia.org/wiki/富士通サッカー部 "wikilink")
+  - [田辺製薬サッカー部](../Page/田辺三菱製薬サッカー部.md "wikilink")
+  - [読売サッカークラブ](../Page/読売サッカークラブ.md "wikilink")
+  - [富士通サッカー部](../Page/富士通サッカー部.md "wikilink")
   - [本田技研工業サッカー部](https://ja.wikipedia.org/wiki/Honda_FC "wikilink")
   - [帝人松山サッカー部](../Page/帝人サッカー部.md "wikilink")
   - [京都紫光サッカークラブ](https://ja.wikipedia.org/wiki/京都紫光クラブ "wikilink")
-  - [甲府サッカークラブ](https://ja.wikipedia.org/wiki/甲府サッカークラブ "wikilink")
-  - [住友金属工業蹴球団](https://ja.wikipedia.org/wiki/住友金属工業蹴球団 "wikilink")
-  - [ヤンマークラブ](https://ja.wikipedia.org/wiki/ヤンマークラブ "wikilink")
+  - [甲府サッカークラブ](../Page/甲府サッカークラブ.md "wikilink")
+  - [住友金属工業蹴球団](../Page/住友金属工業蹴球団.md "wikilink")
+  - [ヤンマークラブ](../Page/ヤンマークラブ.md "wikilink")
   - [古河電気工業千葉事業所サッカー部](https://ja.wikipedia.org/wiki/古河電気工業千葉事業所サッカー部 "wikilink")
 
 ## 地区予選

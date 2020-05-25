@@ -1,11 +1,11 @@
-> この記事は[ \(misono\)](https://ja.wikipedia.org/wiki/_\(misono\))から翻訳されています。
+> この記事は[十人十色 \(misonoの曲\)](https://ja.wikipedia.org/wiki/十人十色_\(misonoの曲\))から翻訳されています。
 
 
 「**十人十色**」（じゅうにんといろ）は、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")の8枚目のシングル。[2007年](../Page/2007年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")リリース。
 
 ## 解説
 
-  - ROCKプロジェクト第2弾シングル、[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")のプロデュース。
+  - ROCKプロジェクト第2弾シングル、[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")のプロデュース。
   - 「CDのみ」、「CD+DVD」の2形態で発売された。
 
 ## 収録曲
@@ -25,4 +25,4 @@
 2.  **misonoコメント映像**
 3.  **十人十色 -TV SPOT 15秒+30秒-**
 
-[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:misonoの楽曲](https://ja.wikipedia.org/wiki/Category:misonoの楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:misonoの楽曲](https://ja.wikipedia.org/wiki/Category:misonoの楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

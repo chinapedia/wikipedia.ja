@@ -5,7 +5,7 @@
 
 フォルマーが輸出用に開発した「[フォルマーM1927](https://ja.wikipedia.org/wiki/フォルマーM1927 "wikilink")」の改良型として再設計された製品であり、長銃身型・短銃身型の二種類あったフォルマーM1927の内、短身型タイプにバレルジャケットを装着するなどの改良が加えられている。
 
-設計にはフォルマー以外にエルマ・ベルケ社のベルソルト・ゲイペンが加わり、既存の短機関銃である[MP18](https://ja.wikipedia.org/wiki/MP18 "wikilink")/[MP28](https://ja.wikipedia.org/wiki/MP28 "wikilink")も参考にしていたため、機関部分などはMP18/MP28と同様の[シンプル・ブローバック方式](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")、[オープンボルト撃発で給弾方式も機関部左側面から](https://ja.wikipedia.org/wiki/:en:Open_bolt "wikilink")[弾倉](https://ja.wikipedia.org/wiki/弾倉 "wikilink")を装填する方式を採用している。
+設計にはフォルマー以外にエルマ・ベルケ社のベルソルト・ゲイペンが加わり、既存の短機関銃である[MP18](../Page/MP18.md "wikilink")/[MP28](https://ja.wikipedia.org/wiki/MP28 "wikilink")も参考にしていたため、機関部分などはMP18/MP28と同様の[シンプル・ブローバック方式](https://ja.wikipedia.org/wiki/ブローバック#シンプル・ブローバック方式 "wikilink")、[オープンボルト撃発で給弾方式も機関部左側面から](https://ja.wikipedia.org/wiki/:en:Open_bolt "wikilink")[弾倉](../Page/弾倉.md "wikilink")を装填する方式を採用している。
 
 射撃には安全装置の他にフル・セミオートの切り替え用のスイッチが右側に装着されている。また銃後部には前線で容易に分解・整備が行えるように分解用の機具が取り付けられていた。
 
@@ -20,6 +20,6 @@
 ## 関連項目
 
   - [短機関銃・PDW等一覧](https://ja.wikipedia.org/wiki/短機関銃・PDW等一覧 "wikilink")
-  - [MP40](https://ja.wikipedia.org/wiki/MP40 "wikilink")
+  - [MP40](../Page/MP40.md "wikilink")
 
 [Category:短機関銃](https://ja.wikipedia.org/wiki/Category:短機関銃 "wikilink") [Category:9mmパラベラム弾使用銃](https://ja.wikipedia.org/wiki/Category:9mmパラベラム弾使用銃 "wikilink")

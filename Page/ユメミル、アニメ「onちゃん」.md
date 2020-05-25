@@ -1,7 +1,7 @@
-> この記事は[on](https://ja.wikipedia.org/wiki/on)から翻訳されています。
+> この記事は[ユメミル、アニメ「onちゃん」](https://ja.wikipedia.org/wiki/ユメミル、アニメ「onちゃん」)から翻訳されています。
 
 
-『**ユメミル、アニメ「onちゃん」**』とは、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）と[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")（BS11）にて放送していた短編アニメである。
+『**ユメミル、アニメ「onちゃん」**』とは、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）と[日本BS放送](../Page/日本BS放送.md "wikilink")（BS11）にて放送していた短編アニメである。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 それまでは、金曜日の20時00分から放送されている『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』放送開始前の予告番組である『ミニステ』が放送されていたが、それを休止して放送した。
 
-なお、系列は違うがいずれも[フジテレビ系列の](../Page/フジネットワーク.md "wikilink")[関西テレビのキャラクター](../Page/関西テレビ放送.md "wikilink")『[ハチエモン](../Page/ハチエモン.md "wikilink")』が、[岡山放送](../Page/岡山放送.md "wikilink")のキャラクター『[OH\!くん](https://ja.wikipedia.org/wiki/OH!くん "wikilink")』がそれぞれレギュラーミニアニメ化・単発アニメ化されている。
+なお、系列は違うがいずれも[フジテレビ系列の](../Page/フジネットワーク.md "wikilink")[関西テレビのキャラクター](../Page/関西テレビ放送.md "wikilink")『[ハチエモン](../Page/ハチエモン.md "wikilink")』が、[岡山放送](../Page/岡山放送.md "wikilink")のキャラクター『[OH\!くん](../Page/OH!くん.md "wikilink")』がそれぞれレギュラーミニアニメ化・単発アニメ化されている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")〜[2011年](../Page/2011年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")までの間、第2期として、『**ユメミル、アニメonちゃん シーズン2**』が毎週火曜19時54分 - 20時00分に放送。第1期と同様に北海道ローカルで放送された。
 
@@ -19,18 +19,18 @@
 
 一人二役があるのが特徴。この中で、田中、大浦、今野、植竹は北海道出身の声優である。
 
-  - onちゃん - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")
+  - onちゃん - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")
   - okちゃん - [今野宏美](../Page/今野宏美.md "wikilink")
-  - noちゃん - [平井啓二](https://ja.wikipedia.org/wiki/平井啓二 "wikilink")
+  - noちゃん - [平井啓二](../Page/平井啓二.md "wikilink")
   - meちゃん - [植竹香菜](../Page/植竹香菜.md "wikilink")
   - てんこちゃん、ぐち - [金田朋子](../Page/金田朋子.md "wikilink")
   - なぞなモシー、キャタゴン - [エナポゥ](https://ja.wikipedia.org/wiki/エナポゥ "wikilink")
   - トマルくん - [宮坂俊蔵](../Page/宮坂俊蔵.md "wikilink")
-  - ouちゃん、かしまし花 - [藤巻恵理子](https://ja.wikipedia.org/wiki/藤巻恵理子 "wikilink")
+  - ouちゃん、かしまし花 - [藤巻恵理子](../Page/藤巻恵理子.md "wikilink")
   - anちゃん - [松本考平](../Page/松本考平.md "wikilink")
-  - onママ、ohちゃん - [小松里歌](https://ja.wikipedia.org/wiki/小松里歌 "wikilink")
-  - onパパ、いじわるツリー - [竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")
-  - okパパ、博士 - [麻生智久](https://ja.wikipedia.org/wiki/麻生智久 "wikilink")
+  - onママ、ohちゃん - [小松里歌](../Page/小松里歌.md "wikilink")
+  - onパパ、いじわるツリー - [竹本英史](../Page/竹本英史.md "wikilink")
+  - okパパ、博士 - [麻生智久](../Page/麻生智久.md "wikilink")
   - okママ、助手 - [大浦冬華](https://ja.wikipedia.org/wiki/大浦冬華 "wikilink")
   - ドクターgg - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
 
@@ -66,7 +66,7 @@
   - デスク - 小川春枝（1期）、黒木麻耶（2期）
   - プロデューサー - 岡仁子（1期）、地引和夫、阿部直美（2期）
   - ラインプロデューサー - 勝田了
-  - アニメーション制作 - [エッグ](https://ja.wikipedia.org/wiki/エッグ_\(アニメ制作会社\) "wikilink")
+  - アニメーション制作 - [エッグ](../Page/エッグ_\(アニメ制作会社\).md "wikilink")
   - 制作著作 - HTB北海道テレビ
 
 ## 主題歌
@@ -114,7 +114,7 @@
 
   - 日本BS放送（BS11）
       - [2009年](../Page/2009年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink") - [12月24日](../Page/12月24日.md "wikilink")の期間は、木曜24時25分 - 24時30分放送。リピートは2009年9月まで日曜16時55分 - 17時00分→2009年10月から土曜18時25分 - 18時30分に放送。同年[10月8日](../Page/10月8日.md "wikilink")から12月24日まで再び第1話 - 第12話を放送。
-      - 2009年[12月31日](../Page/12月31日.md "wikilink")には、未明から早朝まで第1話 - 第13話を再放送（0時55分、1時25分、1時55分、2時25分、2時55分、3時25分、3時55分、4時25分、4時55分、5時25分、5時55分、6時25分、6時55分。『[琉神マブヤー](https://ja.wikipedia.org/wiki/琉神マブヤー "wikilink")』一挙放送の[つなぎ番組](https://ja.wikipedia.org/wiki/つなぎ番組 "wikilink")として放送されたが、[EPGには表示されていなかった](../Page/電子番組ガイド.md "wikilink")）。
+      - 2009年[12月31日](../Page/12月31日.md "wikilink")には、未明から早朝まで第1話 - 第13話を再放送（0時55分、1時25分、1時55分、2時25分、2時55分、3時25分、3時55分、4時25分、4時55分、5時25分、5時55分、6時25分、6時55分。『[琉神マブヤー](https://ja.wikipedia.org/wiki/琉神マブヤー "wikilink")』一挙放送の[つなぎ番組](../Page/つなぎ番組.md "wikilink")として放送されたが、[EPGには表示されていなかった](../Page/電子番組ガイド.md "wikilink")）。
       - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")18時30分 - 19時00分には、第1話から第6話までまとめて放送。当初は翌週以降も毎週土曜のこの時間帯に6話ずつまとめて放送される予定だったが、通販番組に変更となり、放送されなかった。
       - 2010年[4月5日](../Page/4月5日.md "wikilink")から、月 - 金曜17時30分 - 18時00分の『び〜てれずっきー』内で、毎日3話ずつ放送（17時30分 - 17時42分頃まで）。
       - シーズン2を2011年[6月14日](../Page/6月14日.md "wikilink")から、月 - 木曜18時20分 - 18時25分に放送。

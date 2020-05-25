@@ -1,9 +1,9 @@
-> この記事は[-Team Medical Dragon-](https://ja.wikipedia.org/wiki/-Team_Medical_Dragon-)から翻訳されています。
+> この記事は[医龍-Team Medical Dragon-](https://ja.wikipedia.org/wiki/医龍-Team_Medical_Dragon-)から翻訳されています。
 
 
-『**医龍-Team Medical Dragon-**』（いりゅう チームメディカルドラゴン）は、[永井明](https://ja.wikipedia.org/wiki/永井明 "wikilink")原案、[吉沼美恵](https://ja.wikipedia.org/wiki/吉沼美恵 "wikilink")医療監修、[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[青年漫画](../Page/青年漫画.md "wikilink")。[医療](../Page/医療.md "wikilink")を題材とした作品で、一般に『**医龍**』の部分だけで呼称される。 『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[2002年](../Page/2002年.md "wikilink")10号から2011年4号まで連載。第50回（平成16年度）[小学館漫画賞](https://ja.wikipedia.org/wiki/小学館漫画賞 "wikilink")（一般向け部門）受賞作品。
+『**医龍-Team Medical Dragon-**』（いりゅう チームメディカルドラゴン）は、[永井明](../Page/永井明.md "wikilink")原案、[吉沼美恵](https://ja.wikipedia.org/wiki/吉沼美恵 "wikilink")医療監修、[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[青年漫画](../Page/青年漫画.md "wikilink")。[医療](../Page/医療.md "wikilink")を題材とした作品で、一般に『**医龍**』の部分だけで呼称される。 『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）にて、[2002年](../Page/2002年.md "wikilink")10号から2011年4号まで連載。第50回（平成16年度）[小学館漫画賞](../Page/小学館漫画賞.md "wikilink")（一般向け部門）受賞作品。
 
-作品を織り成す魅力的な登場人物、[医療ミス](https://ja.wikipedia.org/wiki/医療ミス "wikilink")、[抗がん剤](https://ja.wikipedia.org/wiki/抗がん剤 "wikilink")治療、[院内感染](../Page/院内感染.md "wikilink")、[内科と](https://ja.wikipedia.org/wiki/内科学 "wikilink")[外科の対立](https://ja.wikipedia.org/wiki/外科学 "wikilink")、[チーム医療](../Page/チーム医療.md "wikilink")、[医局](../Page/医局.md "wikilink")制度と現在医療を取り巻く諸問題を告発する物語である。
+作品を織り成す魅力的な登場人物、[医療ミス](https://ja.wikipedia.org/wiki/医療ミス "wikilink")、[抗がん剤](../Page/抗がん剤.md "wikilink")治療、[院内感染](../Page/院内感染.md "wikilink")、[内科と](../Page/内科学.md "wikilink")[外科の対立](https://ja.wikipedia.org/wiki/外科学 "wikilink")、[チーム医療](../Page/チーム医療.md "wikilink")、[医局](../Page/医局.md "wikilink")制度と現在医療を取り巻く諸問題を告発する物語である。
 
 原案者の永井明は、[医師](../Page/医師.md "wikilink")、[医療ジャーナリスト](https://ja.wikipedia.org/wiki/医療ジャーナリスト "wikilink")として活躍したが、[肝臓がん](https://ja.wikipedia.org/wiki/肝臓がん "wikilink")のため、2004年7月7日に死去した。
 
@@ -37,10 +37,10 @@
     心臓外科の研修医。現在の医局に嫌気がさしながらも、医局内での保身に腐心し、何事も無く過ごしていくことを第一に思うことなかれ主義だった。医局のやり方に合わない朝田に反発するも、彼の厳しい指導の下で腕を磨いていく。性格が手伝ってか、繊細な作業を得意とし加藤もその技術を認めている。中盤まではいつもストレスからか胃痛を抱えていて胃薬を常用していた。
     一時はバチスタチームを離れて霧島の元で学んでいたこともあったが、それによって自らの理想の医師像を見つめなおし、改めてチームに戻る。霧島は伊集院を指導する心積もりでいたが、霧島に対して朝田の元へ戻ると告げた時は快く送り出された。
   - 藤吉圭介（ふじよし けいすけ）
-    明真大学講師にして、明真大学付属病院循環器内科医。患者を第一に考える明真大学病院では珍しい医者。真摯で誠実な人柄からか患者は勿論、他の医者や看護師からの評価も高い。先天的な[心臓病](https://ja.wikipedia.org/wiki/心臓病 "wikilink")を持つ樹里という名の娘がおり、自身もまた先天性心臓病の持ち主。朝田には「とっつあん」呼ばわりされている。朝田と伊集院には、発作を起こした際に緊急治療で命を救われており、自身のペースメーカー埋め込み手術も朝田に執刀させている。
+    明真大学講師にして、明真大学付属病院循環器内科医。患者を第一に考える明真大学病院では珍しい医者。真摯で誠実な人柄からか患者は勿論、他の医者や看護師からの評価も高い。先天的な[心臓病](../Page/心臓病.md "wikilink")を持つ樹里という名の娘がおり、自身もまた先天性心臓病の持ち主。朝田には「とっつあん」呼ばわりされている。朝田と伊集院には、発作を起こした際に緊急治療で命を救われており、自身のペースメーカー埋め込み手術も朝田に執刀させている。
     現在は娘を東北にいる義理の父母の元に預け、単身赴任の形でバチスタチームに所属している。
   - 荒瀬門次（あらせ もんじ）
-    明真大学付属病院[救急救命](https://ja.wikipedia.org/wiki/救急救命 "wikilink")部麻酔医で全身管理を司る[麻酔](https://ja.wikipedia.org/wiki/麻酔 "wikilink")のプロ。明真大学付属病院[救急救命](https://ja.wikipedia.org/wiki/救急救命 "wikilink")部に「手術一回につき100万円（論文絡みなら300万と跳ね上がるらしい）」という高額な報酬で雇われている。吸入麻酔を故意に吸い込み、酩酊状態になって遊ぶ悪癖を持っているが、その仕事ぶりは如何なる患者でも「ゆっくり数えて7つ」で麻酔を効かせ、的確な判断で[生体肝移植](https://ja.wikipedia.org/wiki/生体肝移植 "wikilink")の[ドナー](https://ja.wikipedia.org/wiki/ドナー "wikilink")の術中死を未然に食い止めるほどの腕前。[麻酔薬](https://ja.wikipedia.org/wiki/麻酔薬 "wikilink")の治験のために患者を死なせた過去を持ち、贖罪のために敢えて守銭奴を演じ、高価な酒で泥酔するなど悪役として振る舞っている。一時期、麻酔の世界的権威であるドクター・バウマンにミスをフォローされたことをきっかけに自信を喪失していたが、伊集院の心からの説得により立ち直る。その後は麻酔遊びをやめ、自分の腕が鈍らないうちに少しでも多くの若手を育てることを決意する。
+    明真大学付属病院[救急救命](https://ja.wikipedia.org/wiki/救急救命 "wikilink")部麻酔医で全身管理を司る[麻酔](../Page/麻酔.md "wikilink")のプロ。明真大学付属病院[救急救命](https://ja.wikipedia.org/wiki/救急救命 "wikilink")部に「手術一回につき100万円（論文絡みなら300万と跳ね上がるらしい）」という高額な報酬で雇われている。吸入麻酔を故意に吸い込み、酩酊状態になって遊ぶ悪癖を持っているが、その仕事ぶりは如何なる患者でも「ゆっくり数えて7つ」で麻酔を効かせ、的確な判断で[生体肝移植](https://ja.wikipedia.org/wiki/生体肝移植 "wikilink")の[ドナー](https://ja.wikipedia.org/wiki/ドナー "wikilink")の術中死を未然に食い止めるほどの腕前。[麻酔薬](https://ja.wikipedia.org/wiki/麻酔薬 "wikilink")の治験のために患者を死なせた過去を持ち、贖罪のために敢えて守銭奴を演じ、高価な酒で泥酔するなど悪役として振る舞っている。一時期、麻酔の世界的権威であるドクター・バウマンにミスをフォローされたことをきっかけに自信を喪失していたが、伊集院の心からの説得により立ち直る。その後は麻酔遊びをやめ、自分の腕が鈍らないうちに少しでも多くの若手を育てることを決意する。
   - 里原ミキ（さとはら みき）
     看護師。霧島軍司の異母妹（軍司の父の愛人の子）で、認知されて以降は軍司から高圧的に接されてきた。自身の進学希望先は北日本大ではなかったが、兄の命令により北日本大に進学。そこで必死にオペ看（器械出し）としての腕を磨き、医師の信用を勝ち得た。NGOに残った朝田の後を追って海外に渡り、[医療支援NGOで共に働き](https://ja.wikipedia.org/wiki/医龍-Team_Medical_Dragon-#NGO "wikilink")、看護師の領域を超える外科医の技術すらも身につけて帰ってきた。初めてチームを組む執刀医でも、そのリズムや術式を瞬時に理解して順応することができるほどの優れた腕前を持つ。朝田に恋心を抱いており、親密な仲にある。
 
@@ -122,11 +122,11 @@
 
 ### バチスタ手術
 
-本作品のキーとなっている[バチスタ手術](https://ja.wikipedia.org/wiki/バチスタ手術 "wikilink")（[左室形成術](https://ja.wikipedia.org/wiki/左室形成術 "wikilink")の一術式）は、現実のバチスタ手術をモデルとしているが、その扱いは架空のものである。実際のバチスタ手術は、[1980年代](../Page/1980年代.md "wikilink")に開発されており、学会発表は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、日本での最初の施術は[1996年](../Page/1996年.md "wikilink")、そして[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には保険適用手術とされている。本作品における「バチスタ手術」は「難手術」の記号として使われているにすぎず、実際のバチスタ手術の紹介とはなっていないことに注意が必要である。考案したのは[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")のRandas J.V.Batista博士。日本では[1996年](../Page/1996年.md "wikilink")12月2日に[須磨久善](https://ja.wikipedia.org/wiki/須磨久善 "wikilink")医師によって初めて実行された。
+本作品のキーとなっている[バチスタ手術](https://ja.wikipedia.org/wiki/バチスタ手術 "wikilink")（[左室形成術](https://ja.wikipedia.org/wiki/左室形成術 "wikilink")の一術式）は、現実のバチスタ手術をモデルとしているが、その扱いは架空のものである。実際のバチスタ手術は、[1980年代](../Page/1980年代.md "wikilink")に開発されており、学会発表は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、日本での最初の施術は[1996年](../Page/1996年.md "wikilink")、そして[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には保険適用手術とされている。本作品における「バチスタ手術」は「難手術」の記号として使われているにすぎず、実際のバチスタ手術の紹介とはなっていないことに注意が必要である。考案したのは[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")のRandas J.V.Batista博士。日本では[1996年](../Page/1996年.md "wikilink")12月2日に[須磨久善](../Page/須磨久善.md "wikilink")医師によって初めて実行された。
 
 ### NGO
 
-朝田が所属していたとされる[NGO](https://ja.wikipedia.org/wiki/NGO "wikilink")は、「[国境なき医師団](../Page/国境なき医師団.md "wikilink")」「[世界の医療団](https://ja.wikipedia.org/wiki/世界の医療団 "wikilink")」などをモデルとしたものであり、戦地や災害地などでの医療支援を行うことを目的として活動している。両者とも日本にも支部を置いており、[医師](../Page/医師.md "wikilink")や[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")が参加しているほか、[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")・[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")などの際には日本に対しても緊急医療支援を行っている。
+朝田が所属していたとされる[NGO](https://ja.wikipedia.org/wiki/NGO "wikilink")は、「[国境なき医師団](../Page/国境なき医師団.md "wikilink")」「[世界の医療団](../Page/世界の医療団.md "wikilink")」などをモデルとしたものであり、戦地や災害地などでの医療支援を行うことを目的として活動している。両者とも日本にも支部を置いており、[医師](../Page/医師.md "wikilink")や[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")が参加しているほか、[阪神淡路大震災](../Page/阪神・淡路大震災.md "wikilink")・[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")などの際には日本に対しても緊急医療支援を行っている。
 
 ### 「新バチスタ」について
 

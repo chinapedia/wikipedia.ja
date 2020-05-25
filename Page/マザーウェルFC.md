@@ -473,7 +473,7 @@
 
   - [マーク・マクギー](https://ja.wikipedia.org/wiki/マーク・マクギー "wikilink") 2007-2009
 
-  - [ジム・ギャノン](https://ja.wikipedia.org/wiki/ジム・ギャノン "wikilink") 2009
+  - [ジム・ギャノン](../Page/ジム・ギャノン.md "wikilink") 2009
 
   - [クレイグ・ブラウン](https://ja.wikipedia.org/wiki/クレイグ・ブラウン_\(1940年生のサッカー選手\) "wikilink") 2009-2010
 

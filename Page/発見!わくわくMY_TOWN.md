@@ -1,4 +1,4 @@
-> この記事は[!MY TOWN](https://ja.wikipedia.org/wiki/!MY_TOWN)から翻訳されています。
+> この記事は[発見!わくわくMY TOWN](https://ja.wikipedia.org/wiki/発見!わくわくMY_TOWN)から翻訳されています。
 
 
 『**発見\!わくわくMY TOWN**』（はっけん わくわくマイタウン）は、[2007年](../Page/2007年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[東海テレビで放送された](../Page/東海テレビ放送.md "wikilink")[紀行](../Page/紀行番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[1\]。全163回。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作、[字幕放送実施](https://ja.wikipedia.org/wiki/文字多重放送#字幕放送 "wikilink")。

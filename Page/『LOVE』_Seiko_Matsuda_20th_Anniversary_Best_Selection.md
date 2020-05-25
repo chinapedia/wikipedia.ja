@@ -1,4 +1,4 @@
-> この記事は[LOVE Seiko Matsuda 20th Anniversary Best Selection](https://ja.wikipedia.org/wiki/LOVE_Seiko_Matsuda_20th_Anniversary_Best_Selection)から翻訳されています。
+> この記事は[『LOVE』 Seiko Matsuda 20th Anniversary Best Selection](https://ja.wikipedia.org/wiki/『LOVE』_Seiko_Matsuda_20th_Anniversary_Best_Selection)から翻訳されています。
 
 
 『**LOVE Seiko Matsuda 20th Anniversary Best Selection**』（ラヴ）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2000年11月29日発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

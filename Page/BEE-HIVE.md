@@ -7,12 +7,12 @@
 
 ## メンバー
 
-  - [BOYSTYLE](https://ja.wikipedia.org/wiki/BOYSTYLE "wikilink")
-      - [田野あさ美](https://ja.wikipedia.org/wiki/田野アサミ "wikilink")
-      - [上原香代子](https://ja.wikipedia.org/wiki/上原香代子 "wikilink")
-      - [村川絵梨](https://ja.wikipedia.org/wiki/村川絵梨 "wikilink")
-      - [川田由起奈](https://ja.wikipedia.org/wiki/川田由起奈 "wikilink")
-  - [Buzy](https://ja.wikipedia.org/wiki/Buzy "wikilink")
+  - [BOYSTYLE](../Page/BOYSTYLE.md "wikilink")
+      - [田野あさ美](../Page/田野アサミ.md "wikilink")
+      - [上原香代子](../Page/上原香代子.md "wikilink")
+      - [村川絵梨](../Page/村川絵梨.md "wikilink")
+      - [川田由起奈](../Page/川田由起奈.md "wikilink")
+  - [Buzy](../Page/Buzy.md "wikilink")
       - 宮里真央
       - 丹羽麻由美
       - [朝間ユリサ](../Page/ユリサ.md "wikilink")
@@ -30,7 +30,7 @@
 
 ## BEE-HIVEカメラ
 
-BEE-HIVE カメラ(**BEEカメ**)とは、BEE-HIVE 寮の一室に設置されていた[Webカメラ](https://ja.wikipedia.org/wiki/Webカメラ "wikilink")である。24時間生中継しており、ときおりメンバーがカメラの前に現れることがあった。2003年4月28日に開始し、2005年11月18日に終了した。
+BEE-HIVE カメラ(**BEEカメ**)とは、BEE-HIVE 寮の一室に設置されていた[Webカメラ](../Page/Webカメラ.md "wikilink")である。24時間生中継しており、ときおりメンバーがカメラの前に現れることがあった。2003年4月28日に開始し、2005年11月18日に終了した。
 
 ### 沿革
 

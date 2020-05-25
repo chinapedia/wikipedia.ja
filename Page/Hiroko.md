@@ -86,7 +86,7 @@
 ## 人物
 
   - 特技はバスケ。元[バスケットボール](../Page/バスケットボール.md "wikilink")[部](https://ja.wikipedia.org/wiki/部 "wikilink")（小学3年〜中学3年）で、ポジションはガード\[10\]。
-  - 高校2年生の頃に、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のバック・ダンサーとして、オーディションに参加したことがある。
+  - 高校2年生の頃に、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")のバック・ダンサーとして、オーディションに参加したことがある。
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")のボーカル・[吉岡聖恵](https://ja.wikipedia.org/wiki/吉岡聖恵 "wikilink")とは、「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」での共演以来、よく電話で話すほどの友人である。他にも[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")とも仲が良い。
   - お酒は弱いためあまり飲まないと公式ホームページで公言している。
   - 栃木にも長く住んでいたが、兵庫出身であるため、現在も関西弁を話す\[11\]。

@@ -1,4 +1,4 @@
-> この記事は[Forever Love \(ZMAP\)](https://ja.wikipedia.org/wiki/Forever_Love_\(ZMAP\))から翻訳されています。
+> この記事は[Forever Love \(ZMAPの曲\)](https://ja.wikipedia.org/wiki/Forever_Love_\(ZMAPの曲\))から翻訳されています。
 
 
 **Forever Love**（フォーエバーラブ）とは、[声優ユニット](../Page/声優ユニット.md "wikilink")の[ZMAP](https://ja.wikipedia.org/wiki/ZMAP "wikilink")が歌う曲である。作詞は[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲・編曲は[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")。カップリング曲「Together」。

@@ -14,7 +14,7 @@
   -
 
       -
-        PEACE FORCEの音楽の全てを取り仕切っている。アーティストへの楽曲提供、プロデュースが本業。手掛けたアーティストは、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")、[椎名純平](https://ja.wikipedia.org/wiki/椎名純平 "wikilink")等。[COSA NOSTRAの元メンバー](https://ja.wikipedia.org/wiki/COSA_NOSTRA "wikilink")。
+        PEACE FORCEの音楽の全てを取り仕切っている。アーティストへの楽曲提供、プロデュースが本業。手掛けたアーティストは、[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")、[椎名純平](../Page/椎名純平.md "wikilink")等。[COSA NOSTRAの元メンバー](../Page/COSA_NOSTRA.md "wikilink")。
 
 ### 元メンバー
 
@@ -53,7 +53,7 @@ LIVE、RECORDING等では「[Maniackers](https://ja.wikipedia.org/wiki/Maniacker
 
 <!-- end list -->
 
-  - [1996年](../Page/1996年.md "wikilink")、ERIC ZAY（エリック ゼイ）を作詞／Main Vocalとして迎え[デニス・ホッパー](https://ja.wikipedia.org/wiki/デニス・ホッパー "wikilink")が主演する[トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")のCMに楽曲提供したのを機に[BMGビクター](https://ja.wikipedia.org/wiki/BMGビクター "wikilink")より「Inner Space Cowboy EP」をリリース。続けて[マンデイ満ちる](https://ja.wikipedia.org/wiki/マンデイ満ちる "wikilink")をフィーチャーした[ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング "wikilink")のカヴァー「DON'T LET IT BRINGYOU DOWN EP」をリリース。さらに同年、東京、サンフランシスコでレコーディングされた1st.アルバム「Mr.Freedom」をリリース。このアルバムには短編[ロードムービー](https://ja.wikipedia.org/wiki/ロードムービー "wikilink")も収録されていた。正式タイトルは「O.S.T. "Mr.Freedom" a film by PEACEFORCE -ミスター・フリーダムがゆく-」。当時めずらしかった[エンハンスドCD](https://ja.wikipedia.org/wiki/エンハンスドCD "wikilink")（音楽CDにマルチメディアコンテンツを加えたもの。CDプレイヤーでは音楽を、CD-ROMドライブでは音楽に加えてビデオクリップやマルチメディア作品を楽しむ事ができる。）という形態でのリリースだった。
+  - [1996年](../Page/1996年.md "wikilink")、ERIC ZAY（エリック ゼイ）を作詞／Main Vocalとして迎え[デニス・ホッパー](../Page/デニス・ホッパー.md "wikilink")が主演する[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")のCMに楽曲提供したのを機に[BMGビクター](https://ja.wikipedia.org/wiki/BMGビクター "wikilink")より「Inner Space Cowboy EP」をリリース。続けて[マンデイ満ちる](https://ja.wikipedia.org/wiki/マンデイ満ちる "wikilink")をフィーチャーした[ニール・ヤング](../Page/ニール・ヤング.md "wikilink")のカヴァー「DON'T LET IT BRINGYOU DOWN EP」をリリース。さらに同年、東京、サンフランシスコでレコーディングされた1st.アルバム「Mr.Freedom」をリリース。このアルバムには短編[ロードムービー](../Page/ロードムービー.md "wikilink")も収録されていた。正式タイトルは「O.S.T. "Mr.Freedom" a film by PEACEFORCE -ミスター・フリーダムがゆく-」。当時めずらしかった[エンハンスドCD](https://ja.wikipedia.org/wiki/エンハンスドCD "wikilink")（音楽CDにマルチメディアコンテンツを加えたもの。CDプレイヤーでは音楽を、CD-ROMドライブでは音楽に加えてビデオクリップやマルチメディア作品を楽しむ事ができる。）という形態でのリリースだった。
 
 <!-- end list -->
 

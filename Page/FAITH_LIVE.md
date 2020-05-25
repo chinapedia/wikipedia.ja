@@ -1,13 +1,13 @@
 > この記事は[FAITH LIVE](https://ja.wikipedia.org/wiki/FAITH_LIVE)から翻訳されています。
 
 
-『**FAITH LIVE**』（フェイス ライブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")のライブビデオ。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。発売元は[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")（[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")）。
+『**FAITH LIVE**』（フェイス ライブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")のライブビデオ。[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。発売元は[HAUNTED RECORDS](https://ja.wikipedia.org/wiki/HAUNTED_RECORDS "wikilink")（[Ki/oon Records](../Page/キューンミュージック.md "wikilink")）。
 
 ## 解説
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から日米40都市で51公演が行われた、ソロとして最大規模のライヴツアー「HYDE TOUR 2006 FAITH」の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演の模様を収めた、ソロ名義で初となるライブビデオ。
+[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から日米40都市で51公演が行われた、ソロとして最大規模のライヴツアー「HYDE TOUR 2006 FAITH」の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演の模様を収めた、ソロ名義で初となるライブビデオ。
 
-DVD2枚組の1形態で発売。Disc1には、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月27日](../Page/8月27日.md "wikilink")に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた公演（2日目）の模様を収録。Disc2には、国内に加え[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")でのライブにも密着したドキュメント映像を収録している。初回仕様限定盤はツイントレイ仕様。
+DVD2枚組の1形態で発売。Disc1には、[2006年](../Page/2006年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた公演（2日目）の模様を収録。Disc2には、国内に加え[アメリカ西海岸](https://ja.wikipedia.org/wiki/アメリカ西海岸 "wikilink")でのライブにも密着したドキュメント映像を収録している。初回仕様限定盤はツイントレイ仕様。
 
 発売翌年の[2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")には[Blu-ray Disc版が発売された](../Page/Blu-ray_Disc.md "wikilink")（内容は[DVD](../Page/DVD.md "wikilink")版と同一）。
 
@@ -47,7 +47,7 @@ DVD2枚組の1形態で発売。Disc1には、[2006年](https://ja.wikipedia.org
 
 ## 外部リンク
 
-  - [FAITH LIVE - DVD](http://www.sonymusic.co.jp/artist/hyde/discography/KSBL-5824)
-  - [FAITH LIVE - Blu-ray Disc](http://www.sonymusic.co.jp/artist/hyde/discography/KSXL-1)
+  - [FAITH LIVE - DVD](https://www.sonymusic.co.jp/artist/hyde/discography/KSBL-5824)
+  - [FAITH LIVE - Blu-ray Disc](https://www.sonymusic.co.jp/artist/hyde/discography/KSXL-1)
 
-[Category:キューンミュージックの映像作品](https://ja.wikipedia.org/wiki/Category:キューンミュージックの映像作品 "wikilink") [Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:キューンミュージックの映像作品](https://ja.wikipedia.org/wiki/Category:キューンミュージックの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink")

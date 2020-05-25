@@ -1,7 +1,7 @@
 > この記事は[MENA](https://ja.wikipedia.org/wiki/MENA)から翻訳されています。
 
 
-[MENA.png](https://ja.wikipedia.org/wiki/File:MENA.png "fig:MENA.png") **MENA**（ミーナ）とは、ポスト[BRICs](https://ja.wikipedia.org/wiki/BRICs "wikilink")として注目が集まっている[中東](../Page/中東.md "wikilink")と[北アフリカ](../Page/北アフリカ.md "wikilink")を合わせた市場。「Middle East（中東）」と「North Africa（北アフリカ）」の頭文字から「**MENA**」と呼ばれる。
+[MENA.png](https://ja.wikipedia.org/wiki/File:MENA.png "fig:MENA.png") **MENA**（ミーナ）とは、ポスト[BRICs](../Page/BRICs.md "wikilink")として注目が集まっている[中東](../Page/中東.md "wikilink")と[北アフリカ](../Page/北アフリカ.md "wikilink")を合わせた市場。「Middle East（中東）」と「North Africa（北アフリカ）」の頭文字から「**MENA**」と呼ばれる。
 
 ## 国名一覧
 
@@ -66,9 +66,9 @@
 
   - [ドバイ・インターナショナル・ファイナンシャル・センター](https://ja.wikipedia.org/wiki/ドバイ・インターナショナル・ファイナンシャル・センター "wikilink")
   - [新興国](https://ja.wikipedia.org/wiki/新興国 "wikilink")
-  - [新興工業経済地域](https://ja.wikipedia.org/wiki/新興工業経済地域 "wikilink")（NIEs、旧・新興工業諸国（NICs））
+  - [新興工業経済地域](../Page/新興工業経済地域.md "wikilink")（NIEs、旧・新興工業諸国（NICs））
   - [国の国内総生産順リスト](https://ja.wikipedia.org/wiki/国の国内総生産順リスト "wikilink")
-  - [BRICs](https://ja.wikipedia.org/wiki/BRICs "wikilink")
+  - [BRICs](../Page/BRICs.md "wikilink")
   - [CIVETS](https://ja.wikipedia.org/wiki/CIVETS "wikilink")（MENA諸国のうち、エジプト、トルコが含まれる）
   - [NEXT11](../Page/NEXT11.md "wikilink")（MENA諸国のうち、エジプト、トルコが含まれる）
   - [VISTA](../Page/VISTA.md "wikilink")（MENA諸国のうち、トルコが含まれる）

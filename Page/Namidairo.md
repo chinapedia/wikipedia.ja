@@ -1,13 +1,13 @@
 > この記事は[Namidairo](https://ja.wikipedia.org/wiki/Namidairo)から翻訳されています。
 
 
-「**Namidairo**」（ナミダイロ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")に[STUDIOSEVEN Recordingsよりリリースした](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")11作目の[シングル](../Page/シングル.md "wikilink")。キャッチコピーは「だいじょうぶ なんて言ってみたけど そんなはずないでしょ」。
+「**Namidairo**」（ナミダイロ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")に[STUDIOSEVEN Recordingsよりリリースした](../Page/ソニー・ミュージックレコーズ.md "wikilink")11作目の[シングル](../Page/シングル.md "wikilink")。キャッチコピーは「だいじょうぶ なんて言ってみたけど そんなはずないでしょ」。
 
 ## 解説
 
 前作「[LOVE & TRUTH](../Page/LOVE_&_TRUTH.md "wikilink")」から約5ヶ月ぶりとなるシングル。初回生産限定盤には「Music Video」と、DVD「Thank you My teens」未収録ライブ映像 (Umbrella) が収録された。
 
-[オリコン週間シングルチャートでは最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を記録。
+[オリコン週間シングルチャートでは最高](../Page/オリコンチャート.md "wikilink")3位を記録。
 
 ## 収録曲
 
@@ -15,10 +15,10 @@ CD
 
 1.  **Namidairo**
       -
-        作詞・作曲：YUI、編曲：[northa+](https://ja.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")
+        作詞・作曲：YUI、編曲：[northa+](../Page/鈴木Daichi秀行.md "wikilink")
     <!-- end list -->
-      - [ABC](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系連続ドラマ『[赤川次郎ミステリー 4姉妹探偵団](https://ja.wikipedia.org/wiki/4姉妹探偵団 "wikilink")』（金曜21時・2008年）の主題歌。
-      - 2ndシングル「[Tomorrow's way](../Page/Tomorrow's_way.md "wikilink")」時代のデモテープから作り直されたもの。そのためYUI本人も自身が出演するラジオで、「4枚目のシングル[TOKYOという曲と近い曲になっている](https://ja.wikipedia.org/wiki/TOKYO_\(YUIの曲\) "wikilink")。」と発言。Namidairoとつけた理由は「キレイな響きだと思ったから」。
+      - [ABC](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系連続ドラマ『[赤川次郎ミステリー 4姉妹探偵団](../Page/4姉妹探偵団.md "wikilink")』（金曜21時・2008年）の主題歌。
+      - 2ndシングル「[Tomorrow's way](../Page/Tomorrow's_way.md "wikilink")」時代のデモテープから作り直されたもの。そのためYUI本人も自身が出演するラジオで、「4枚目のシングル[TOKYOという曲と近い曲になっている](../Page/TOKYO_\(YUIの曲\).md "wikilink")。」と発言。Namidairoとつけた理由は「キレイな響きだと思ったから」。
       - Namidairo〜YUI Acoustic Version〜の音源は存在しない。
       - 仮タイトルは「ツキアカリ」だった。
 2.  **I wanna be...**

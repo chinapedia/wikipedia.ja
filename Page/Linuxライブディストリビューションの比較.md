@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[Linuxライブディストリビューションの比較](https://ja.wikipedia.org/wiki/Linuxライブディストリビューションの比較)から翻訳されています。
 
 
 **Linuxライブディストリビューションの比較**（リナックスライブディストリビューションのひかく）では、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の比較を行う。
@@ -31,7 +31,7 @@
 <td><p>&lt;700 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>セキュリティ(侵入テストと脆弱性調査)</p></td>
 <td><p>休止中</p></td>
@@ -43,13 +43,13 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a></p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a></p></td>
 <td><p>様々</p></td>
 <td><p>個人用デスクトップ</p></td>
 <td><p>開発中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Ark_Linux" title="wikilink">Ark Linux</a></p></td>
+<td><p><a href="../Page/Ark_Linux.md" title="wikilink">Ark Linux</a></p></td>
 <td><p>2007-08-17</p></td>
 <td><p>x86</p></td>
 <td><p>&lt;700MB</p></td>
@@ -67,7 +67,7 @@
 <td><p>50 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Metacity" title="wikilink">Metacity</a></p></td>
+<td><p><a href="../Page/Metacity.md" title="wikilink">Metacity</a></p></td>
 <td><p>様々</p></td>
 <td><p>全般 システムレスキュー</p></td>
 <td><p>開発中</p></td>
@@ -79,7 +79,7 @@
 <td><p>~700 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>セキュリティ(侵入テストと脆弱性調査)</p></td>
 <td><p>開発中</p></td>
@@ -97,7 +97,7 @@
 <td><p>開発中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/CentOS" title="wikilink">CentOS</a></p></td>
+<td><p><a href="../Page/CentOS.md" title="wikilink">CentOS</a></p></td>
 <td><p>2011-12-20</p></td>
 <td><p>x86, x86_64</p></td>
 <td><p>3 GB</p></td>
@@ -115,7 +115,7 @@
 <td><p>50 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a>, <a href="https://ja.wikipedia.org/wiki/Jwm" title="wikilink">Jwm</a></p></td>
+<td><p><a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a>, <a href="https://ja.wikipedia.org/wiki/Jwm" title="wikilink">Jwm</a></p></td>
 <td><p>様々</p></td>
 <td><p>全般</p></td>
 <td><p>開発中</p></td>
@@ -151,7 +151,7 @@
 <td><p>700 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a></p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a></p></td>
 <td><p><a href="../Page/GNU_General_Public_License.md" title="wikilink">GPLと他のライセンス</a></p></td>
 <td><p>全般</p></td>
 <td><p>中止</p></td>
@@ -163,7 +163,7 @@
 <td><p>~650 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a></p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a></p></td>
 <td><p>様々</p></td>
 <td><p>マルチメディア (audio/video)</p></td>
 <td><p>開発中</p></td>
@@ -175,7 +175,7 @@
 <td><p>400MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a>,<a href="https://ja.wikipedia.org/wiki/LXDE" title="wikilink">LXDE</a></p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>,<a href="https://ja.wikipedia.org/wiki/LXDE" title="wikilink">LXDE</a></p></td>
 <td><p>様々</p></td>
 <td><p>デスクトップ</p></td>
 <td><p>休止中</p></td>
@@ -199,7 +199,7 @@
 <td><p>&lt;128 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>全般</p></td>
 <td><p>休止中</p></td>
@@ -247,7 +247,7 @@
 <td><p>700 MB and ~58 MB</p></td>
 <td></td>
 <td></td>
-<td><p>様々 (<a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a>, <a href="https://ja.wikipedia.org/wiki/Wmii" title="wikilink">Wmii</a>, fvwm-crystal,...)</p></td>
+<td><p>様々 (<a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a>, <a href="https://ja.wikipedia.org/wiki/Wmii" title="wikilink">Wmii</a>, fvwm-crystal,...)</p></td>
 <td><p><a href="../Page/GNU_General_Public_License.md" title="wikilink">GPLと他のライセンス</a></p></td>
 <td><p>全般, システム管理, システムレスキュー, USB install</p></td>
 <td><p>開発中</p></td>
@@ -259,7 +259,7 @@
 <td><p>~700MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>科学</p></td>
 <td><p>開発中</p></td>
@@ -302,13 +302,13 @@
 <td><p>開発中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Linux_Mint" title="wikilink">Linux Mint</a></p></td>
+<td><p><a href="../Page/Linux_Mint.md" title="wikilink">Linux Mint</a></p></td>
 <td><p>2008-06-12</p></td>
 <td><p>x86</p></td>
 <td><p>~700 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a> (<a href="../Page/KDE.md" title="wikilink">KDE</a>、<a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a>)</p></td>
+<td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a> (<a href="../Page/KDE.md" title="wikilink">KDE</a>、<a href="../Page/Xfce.md" title="wikilink">Xfce</a>)</p></td>
 <td><p><a href="../Page/GNU_General_Public_License.md" title="wikilink">GPLと他のライセンス</a></p></td>
 <td><p>全般, 個人用デスクトップ</p></td>
 <td><p>開発中</p></td>
@@ -356,7 +356,7 @@
 <td><p>~700Mb</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IceWM" title="wikilink">IceWM</a></p></td>
+<td><p><a href="../Page/IceWM.md" title="wikilink">IceWM</a></p></td>
 <td><p>GNU</p></td>
 <td><p>ミュージシャン, DJ</p></td>
 <td><p>開発中</p></td>
@@ -368,9 +368,9 @@
 <td><p>&lt;200 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="https://ja.wikipedia.org/wiki/IceWM" title="wikilink">IceWM</a> and <a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="../Page/IceWM.md" title="wikilink">IceWM</a> and <a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
-<td><p>全般, システムレスキュー, <a href="https://ja.wikipedia.org/wiki/Preboot_Execution_Environment" title="wikilink">LAN ブート</a>, USBインストール</p></td>
+<td><p>全般, システムレスキュー, <a href="../Page/Preboot_Execution_Environment.md" title="wikilink">LAN ブート</a>, USBインストール</p></td>
 <td><p>開発中</p></td>
 </tr>
 <tr class="even">
@@ -380,7 +380,7 @@
 <td><p>~265 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>セキュリティ(侵入テストと脆弱性調査)</p></td>
 <td><p>開発中</p></td>
@@ -452,7 +452,7 @@
 <td><p>94 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JWM" title="wikilink">JWM</a>・その他</p></td>
+<td><p><a href="../Page/JWM.md" title="wikilink">JWM</a>・その他</p></td>
 <td><p>様々</p></td>
 <td><p>全般</p></td>
 <td><p>開発中</p></td>
@@ -464,7 +464,7 @@
 <td><p>684 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Window_Maker" title="wikilink">Window Maker</a></p></td>
+<td><p><a href="../Page/Window_Maker.md" title="wikilink">Window Maker</a></p></td>
 <td><p>様々</p></td>
 <td><p>マルチメディア (audio/video)</p></td>
 <td><p>開発中</p></td>
@@ -476,7 +476,7 @@
 <td><p>~695 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>個人用デスクトップ, 全般, システムレスキュー</p></td>
 <td><p>開発中</p></td>
@@ -488,7 +488,7 @@
 <td><p>~4400MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/Fluxbox" title="wikilink">Fluxbox</a></p></td>
+<td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="../Page/Fluxbox.md" title="wikilink">Fluxbox</a></p></td>
 <td><p>様々</p></td>
 <td><p>マルチメディア, 個人用デスクトップ, 全般, システムレスキュー</p></td>
 <td><p>開発中</p></td>
@@ -500,7 +500,7 @@
 <td><p>683 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a></p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a></p></td>
 <td><p>様々</p></td>
 <td><p>全般</p></td>
 <td><p>開発中</p></td>
@@ -566,7 +566,7 @@
 <td><p>開発中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Ubuntu" title="wikilink">Ubuntu</a></p></td>
+<td><p><a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a></p></td>
 <td><p>2008-04-24</p></td>
 <td><p>x86, x86_64,<br />
 ppc, ia64, ps3 [1]</p></td>
@@ -579,7 +579,7 @@ ppc, ia64, ps3 [1]</p></td>
 <td><p>開発中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Edubuntu" title="wikilink">Edubuntu</a></p></td>
+<td><p><a href="../Page/Edubuntu.md" title="wikilink">Edubuntu</a></p></td>
 <td><p>2008-04-25</p></td>
 <td><p>x86, x86_64,<br />
 ppc, ia64 [2]</p></td>
@@ -624,7 +624,7 @@ ppc, ia64, ps3 [4]</p></td>
 <td><p>~700 MB</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Xfce" title="wikilink">Xfce</a></p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a></p></td>
 <td><p><a href="../Page/GNU_General_Public_License.md" title="wikilink">GPLと他のライセンス</a></p></td>
 <td><p>軽量 全般 個人用デスクトップ</p></td>
 <td><p>開発中</p></td>

@@ -5,9 +5,9 @@
 
 ## 概要
 
-『[THE BIG BAND\!\!](https://ja.wikipedia.org/wiki/THE_BIG_BAND!! "wikilink")』で活躍したメンバーのうちの3人(上の２人+[いしだ壱成](https://ja.wikipedia.org/wiki/いしだ壱成 "wikilink"))でリユニオン。[2004年](../Page/2004年.md "wikilink")夏活動開始。リーダーは武田真治だが、年齢、現場のキャリア、人脈から実質上はDRAGONである。
+『[THE BIG BAND\!\!](https://ja.wikipedia.org/wiki/THE_BIG_BAND!! "wikilink")』で活躍したメンバーのうちの3人(上の２人+[いしだ壱成](../Page/いしだ壱成.md "wikilink"))でリユニオン。[2004年](../Page/2004年.md "wikilink")夏活動開始。リーダーは武田真治だが、年齢、現場のキャリア、人脈から実質上はDRAGONである。
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")をゲストボーカルに迎えた「SAMURAI ROCKS」で「ULTRAS NIPPON」のアルバムに参加。
+  - [2006年](../Page/2006年.md "wikilink")、[忌野清志郎](../Page/忌野清志郎.md "wikilink")をゲストボーカルに迎えた「SAMURAI ROCKS」で「ULTRAS NIPPON」のアルバムに参加。
 
 <!-- end list -->
 

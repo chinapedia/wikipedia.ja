@@ -1,36 +1,36 @@
-> この記事は[ \(Eat You Up\)](https://ja.wikipedia.org/wiki/_\(Eat_You_Up\))から翻訳されています。
+> この記事は[ダンシング・ヒーロー \(Eat You Up\)](https://ja.wikipedia.org/wiki/ダンシング・ヒーロー_\(Eat_You_Up\))から翻訳されています。
 
 
-「**ダンシング・ヒーロー (Eat You Up)」**」（- イート・ユー・アップ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月21日に[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[荻野目洋子](https://ja.wikipedia.org/wiki/荻野目洋子 "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。同曲の大ヒットにより一躍トップアイドルに登り詰めた荻野目の代表曲\[1\]。[2017年](../Page/2017年.md "wikilink")に[大阪府立登美丘高等学校](https://ja.wikipedia.org/wiki/大阪府立登美丘高等学校 "wikilink")ダンス部がコンテスト用の組曲に用いたことにより再注目され、12月に同曲のバージョン違い15曲を収めた企画シングル『**ダンシング・ヒーロー ジ・アーカイブス**』が発売されるなどリバイバルヒットした。振り付けは1985年版・2014年版共に[三浦亨](https://ja.wikipedia.org/wiki/三浦亨 "wikilink")\[2\]。
+「**ダンシング・ヒーロー (Eat You Up)」**」（- イート・ユー・アップ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")11月21日に[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")[荻野目洋子](../Page/荻野目洋子.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。同曲の大ヒットにより一躍トップアイドルに登り詰めた荻野目の代表曲\[1\]。[2017年](../Page/2017年.md "wikilink")に[大阪府立登美丘高等学校](../Page/大阪府立登美丘高等学校.md "wikilink")ダンス部がコンテスト用の組曲に用いたことにより再注目され、12月に同曲のバージョン違い15曲を収めた企画シングル『**ダンシング・ヒーロー ジ・アーカイブス**』が発売されるなどリバイバルヒットした。振り付けは1985年版・2014年版共に[三浦亨](https://ja.wikipedia.org/wiki/三浦亨 "wikilink")\[2\]。
 
 ## 収録曲
 
 1.  **ダンシング・ヒーロー（Eat You Up）**
       -
-        訳詞：[篠原仁志](https://ja.wikipedia.org/wiki/篠原仁志 "wikilink")／作曲：A.Kate - T.Baker／編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
+        訳詞：[篠原仁志](https://ja.wikipedia.org/wiki/篠原仁志 "wikilink")／作曲：A.Kate - T.Baker／編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
 2.  **ぜんまいじかけの水曜日**
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink")／作曲：[松尾一彦](https://ja.wikipedia.org/wiki/松尾一彦 "wikilink")／編曲：[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+        作詞：[秋元康](../Page/秋元康.md "wikilink")／作曲：[松尾一彦](../Page/松尾一彦.md "wikilink")／編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")
 
 ## 解説
 
 原曲はイギリスの歌手[アンジー・ゴールド](https://ja.wikipedia.org/wiki/アンジー・ゴールド "wikilink")唯一のヒット曲で、1985年に発売し世界的に大ヒットした『[Eat You Up](http://www.discogs.com/Angie-Gold-Eat-You-Up/master/143968)』（邦題「素敵なハイエナジー・ボーイ」）である。曲調は当時の王道の[ディスコ・サウンド](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")。作詞・作曲クレジットのAngelina Fiorina Kyteはアンジーの本名であり、作曲活動にも力を入れるようになった時期の作品のため、主に作曲を担当したと思われる\[3\]。
 
-荻野目版の曲名の候補には[サビ](https://ja.wikipedia.org/wiki/サビ "wikilink")の歌詞から「シンデレラ・ボーイ」などがあったが、所属する[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")社長[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")の鶴の一声で「ダンシング・ヒーロー」に決まった\[4\]\[5\]。
+荻野目版の曲名の候補には[サビ](../Page/サビ.md "wikilink")の歌詞から「シンデレラ・ボーイ」などがあったが、所属する[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")社長[平哲夫](https://ja.wikipedia.org/wiki/平哲夫 "wikilink")の鶴の一声で「ダンシング・ヒーロー」に決まった\[4\]\[5\]。
 
-荻野目は、この曲で第12回[日本テレビ音楽祭](https://ja.wikipedia.org/wiki/日本テレビ音楽祭 "wikilink")にて日本テレビアイドル賞、第12回あなたが選ぶ[全日本歌謡音楽祭](https://ja.wikipedia.org/wiki/全日本歌謡音楽祭 "wikilink")にて最優秀アイドル賞、第19回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")にて有線音楽賞を受賞している。また、[第37回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第37回NHK紅白歌合戦 "wikilink")に初出場を果たした。
+荻野目は、この曲で第12回[日本テレビ音楽祭](../Page/日本テレビ音楽祭.md "wikilink")にて日本テレビアイドル賞、第12回あなたが選ぶ[全日本歌謡音楽祭](https://ja.wikipedia.org/wiki/全日本歌謡音楽祭 "wikilink")にて最優秀アイドル賞、第19回[日本有線大賞](../Page/日本有線大賞.md "wikilink")にて有線音楽賞を受賞している。また、[第37回NHK紅白歌合戦](../Page/第37回NHK紅白歌合戦.md "wikilink")に初出場を果たした。
 
 テレビ番組『[とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink")』のコント「貧乏家の人々」で本楽曲が使われており（荻野目本人も出演）、石橋が冒頭を歌い木梨が暴力的なツッコミで止めるのが毎回のお約束となっていた。なお2014年に製作されたミュージックビデオでは、とんねるずの許可を得た上でこの時の振り付けが使われている\[6\]。
 
 お笑い芸人の[平野ノラ](https://ja.wikipedia.org/wiki/平野ノラ "wikilink")がバブル時代のOLネタでブレイクした2015年頃からテレビ番組で度々本楽曲を[出囃子に使用した](https://ja.wikipedia.org/wiki/出囃子_\(お笑い\) "wikilink")\[7\]。当時のインタビューでもオススメの1980年代音楽として挙げている\[8\]。
 
-[振付師](https://ja.wikipedia.org/wiki/振付師 "wikilink")の三浦亨によれば、イントロや間奏で披露される独特のステップは[マドンナを意識したものである](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")\[9\]。同振り付けは俗に「荻野目ちゃんステップ」と称されることがある\[10\]。
+[振付師](../Page/振付師.md "wikilink")の三浦亨によれば、イントロや間奏で披露される独特のステップは[マドンナを意識したものである](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")\[9\]。同振り付けは俗に「荻野目ちゃんステップ」と称されることがある\[10\]。
 
 ## チャート成績
 
-荻野目も、歌手デビュー以来初めての[オリコン週間チャートトップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入りを果たす。また翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の年間チャート12位にランクされ、シングル売上も唯一30万枚を突破（累計32万枚）\[11\]、荻野目自身最大のヒット曲となった。累計売上は70万枚（公称）\[12\]。
+荻野目も、歌手デビュー以来初めての[オリコン週間チャートトップ](../Page/オリコンチャート.md "wikilink")10入りを果たす。また翌年[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の年間チャート12位にランクされ、シングル売上も唯一30万枚を突破（累計32万枚）\[11\]、荻野目自身最大のヒット曲となった。累計売上は70万枚（公称）\[12\]。
 
-[TBS系](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』では1985年12月に“今週のスポットライト”で初登場、翌1986年に入ってから初のベスト10入りを果たす（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、9位で初登場）。最高位は2位まで上昇（1986年[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")）、通算9週間ランクインした\[13\]。
+[TBS系](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』では1985年12月に“今週のスポットライト”で初登場、翌1986年に入ってから初のベスト10入りを果たす（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、9位で初登場）。最高位は2位まで上昇（1986年[2月6日](../Page/2月6日.md "wikilink")）、通算9週間ランクインした\[13\]。
 
 ## 文化的影響
 
@@ -38,13 +38,13 @@
 
 ### 盆踊りの曲として定着
 
-1990年代後半から[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")（尾張北部：[江南市](../Page/江南市.md "wikilink")、[岩倉市](../Page/岩倉市.md "wikilink")など）や[岐阜県](../Page/岐阜県.md "wikilink")（[美濃加茂市](https://ja.wikipedia.org/wiki/美濃加茂市 "wikilink")周辺）で[盆踊り](../Page/盆踊り.md "wikilink")の曲として普及し始め\[14\]\[15\]、徐々に首都圏（[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区や](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[清瀬市](../Page/清瀬市.md "wikilink")など）の盆踊り大会でも採用されていった\[16\]。名古屋の日本民踊研究会会長（当時）二代目[島田豊年](https://ja.wikipedia.org/wiki/島田豊年 "wikilink")が1986年に考案した最古の振り付け\[17\]以外にも複数の総踊り用の振り付けが存在する。
+1990年代後半から[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")（尾張北部：[江南市](../Page/江南市.md "wikilink")、[岩倉市](../Page/岩倉市.md "wikilink")など）や[岐阜県](../Page/岐阜県.md "wikilink")（[美濃加茂市](../Page/美濃加茂市.md "wikilink")周辺）で[盆踊り](../Page/盆踊り.md "wikilink")の曲として普及し始め\[14\]\[15\]、徐々に首都圏（[東京都](../Page/東京都.md "wikilink")[中央区や](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[清瀬市](../Page/清瀬市.md "wikilink")など）の盆踊り大会でも採用されていった\[16\]。名古屋の日本民踊研究会会長（当時）二代目[島田豊年](https://ja.wikipedia.org/wiki/島田豊年 "wikilink")が1986年に考案した最古の振り付け\[17\]以外にも複数の総踊り用の振り付けが存在する。
 
 2016年12月21日には、民謡歌手の[2代目鈴木正夫らによる総踊り用CD](https://ja.wikipedia.org/wiki/鈴木正夫#2代目 "wikilink")「踊る十二月」のカップリング曲に荻野目バージョンが収録された。
 
 ### バブリー・ダンスとしてリバイバルヒット
 
-[Billboard Japan Hot 100総合シングルチャートでは](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100 "wikilink")、2017年9月25日付けのチャートに46位で初登場。その後、[大阪府立登美丘高等学校](https://ja.wikipedia.org/wiki/大阪府立登美丘高等学校 "wikilink")ダンス部による当楽曲を使用した「バブリーダンス」のPV（制作・振付は同校OBの振付師[akane](https://ja.wikipedia.org/wiki/akane_\(振付師\) "wikilink")）が、荻野目や平野ノラによる絶賛のコメントも後押しして一気に火が点き再生数が急伸。この楽曲を使用した動画の合計再生回数が8,705,160回を記録し、動画2位の[DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")×[米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")による「[打上花火](https://ja.wikipedia.org/wiki/打上花火_\(曲\) "wikilink")」にダブル・スコア以上の差をつける結果となった。このポイントが牽引して、10月2日付けで「打上花火」に次ぐ総合2位にジャンプ・アップした\[18\]。また、同年11月6日には配信限定シングル「ダンシング・ヒーロー -ALL EAT YOU UP-」\[19\]が、翌月にはシングル「[ダンシング・ヒーロー ジ・アーカイブス](https://ja.wikipedia.org/wiki/ダンシング・ヒーロー_ジ・アーカイブス "wikilink")」（後述）が発売された。
+[Billboard Japan Hot 100総合シングルチャートでは](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100 "wikilink")、2017年9月25日付けのチャートに46位で初登場。その後、[大阪府立登美丘高等学校](../Page/大阪府立登美丘高等学校.md "wikilink")ダンス部による当楽曲を使用した「バブリーダンス」のPV（制作・振付は同校OBの振付師[akane](https://ja.wikipedia.org/wiki/akane_\(振付師\) "wikilink")）が、荻野目や平野ノラによる絶賛のコメントも後押しして一気に火が点き再生数が急伸。この楽曲を使用した動画の合計再生回数が8,705,160回を記録し、動画2位の[DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")×[米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")による「[打上花火](https://ja.wikipedia.org/wiki/打上花火_\(曲\) "wikilink")」にダブル・スコア以上の差をつける結果となった。このポイントが牽引して、10月2日付けで「打上花火」に次ぐ総合2位にジャンプ・アップした\[18\]。また、同年11月6日には配信限定シングル「ダンシング・ヒーロー -ALL EAT YOU UP-」\[19\]が、翌月にはシングル「[ダンシング・ヒーロー ジ・アーカイブス](https://ja.wikipedia.org/wiki/ダンシング・ヒーロー_ジ・アーカイブス "wikilink")」（後述）が発売された。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JPY-USD_1950-.svg "wikilink") なお、本楽曲がリリースされた[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")末から、本楽曲の注目が続いた1986年前半までは、全く以って「[バブル期](../Page/バブル時代.md "wikilink")」ではない。[内閣府](../Page/内閣府.md "wikilink")が定義する[景気循環では](https://ja.wikipedia.org/wiki/景気循環#内閣府による定義 "wikilink")、1985年6月をピークとする[ハイテク景気](https://ja.wikipedia.org/wiki/ハイテク景気 "wikilink")（第10循環）の後退期にあたる同年[9月22日](../Page/9月22日.md "wikilink")、G5により「[プラザ合意](../Page/プラザ合意.md "wikilink")」がなされ、急激に進む[円高](../Page/円相場.md "wikilink")[ドル安が深刻な](../Page/アメリカ合衆国ドル.md "wikilink")「[円高不況](../Page/円高不況.md "wikilink")」を招き、日本政府や日本の輸出企業は大混乱に陥った\[20\]\[21\]\[22\]。この不景気期には、おおよそ将来の好景気の芽はなかった。とは言え、本楽曲のリリースから1年以上後の1986年12月頃、バブル景気（第11循環）は始まることとなる。
 
@@ -62,7 +62,7 @@
 
 ### 収録曲
 
-全トラックとも、作詞・作曲：A.Kyte - T.Baker、訳詞：[篠原仁志](https://ja.wikipedia.org/wiki/篠原仁志 "wikilink")。編曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")(トラック1～3、12)
+全トラックとも、作詞・作曲：A.Kyte - T.Baker、訳詞：[篠原仁志](https://ja.wikipedia.org/wiki/篠原仁志 "wikilink")。編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")(トラック1～3、12)
 
 1.  **ダンシング・ヒーロー (Eat You Up)**
 2.  **ダンシング・ヒーロー (Eat You Up) -Special English Version-**
@@ -109,7 +109,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン週間</a>[24]</p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン週間</a>[24]</p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="even">
@@ -153,7 +153,7 @@
 
   - **[ヤン・ヘスン](https://ja.wikipedia.org/wiki/ヤン・ヘスン "wikilink")** - 2003年、「화려한 싱글（華麗なシングル）」（韓国語）[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の女性歌手によるカバー。詞の内容から独身女性のテーマのように扱われる\[28\]。
 
-  - **[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")** - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、“女性シンガーがカバーした海外の楽曲をさらにカバーした[カバー](../Page/カバー.md "wikilink")アルバム”としてリリースしたアルバム『[GIRLS' ROCK √Hakurai](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_√Hakurai "wikilink")』にてカバー。
+  - **[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")** - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、“女性シンガーがカバーした海外の楽曲をさらにカバーした[カバー](../Page/カバー.md "wikilink")アルバム”としてリリースしたアルバム『[GIRLS' ROCK √Hakurai](../Page/GIRLS'_ROCK_√Hakurai.md "wikilink")』にてカバー。
 
   - **[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")** - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、デビュー15周年[メモリアル作品としてリリースしたカバーアルバム](https://ja.wikipedia.org/wiki/記念 "wikilink")『[BE MAX](https://ja.wikipedia.org/wiki/BE_MAX "wikilink")』にてカバー\[29\]。
 
@@ -176,7 +176,7 @@
   - [single / discography / 荻野目洋子 Official Website](http://www.oginome.com/web/02_disco/index_02.html)
 
   -
-[Category:荻野目洋子の楽曲](https://ja.wikipedia.org/wiki/Category:荻野目洋子の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:盆踊り](https://ja.wikipedia.org/wiki/Category:盆踊り "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:シンデレラを題材とした作品](https://ja.wikipedia.org/wiki/Category:シンデレラを題材とした作品 "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink")
+[Category:荻野目洋子の楽曲](https://ja.wikipedia.org/wiki/Category:荻野目洋子の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ダンスを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ダンスを題材とした楽曲 "wikilink") [Category:シンデレラを題材とした作品](https://ja.wikipedia.org/wiki/Category:シンデレラを題材とした作品 "wikilink") [Category:ディスコ](https://ja.wikipedia.org/wiki/Category:ディスコ "wikilink") [Category:盆踊り](https://ja.wikipedia.org/wiki/Category:盆踊り "wikilink") [Category:ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/Category:ニュー・サウンズ・イン・ブラス "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
 1.  [「アイドルの80年代は大競争時代だった」荻野目洋子×売野雅勇対談](https://dot.asahi.com/wa/2016092300099.html)AERA dot. 2016.9.25
 2.  [荻野目洋子　登美丘高校ダンス部とレコ大特別賞受賞、授賞式でもコラボ切望](https://news.ameba.jp/entry/20171120-662)アメーバニュース 2017年11月20日
@@ -199,7 +199,7 @@
 19. [ビクター・エンタテインメント作品ページより](http://www.jvcmusic.co.jp/-/Discography/A000306/VEATP-34858.html)
 20. [小峰隆夫](https://ja.wikipedia.org/wiki/小峰隆夫 "wikilink")編『[「バブル/デフレ期の日本経済と経済政策」第1巻『日本経済の記録－第2次石油危機への対応からバブル崩壊まで－』](http://www.esri.go.jp/jp/prj/sbubble/history/history_01/analysis_01_02_02.pdf)』[内閣府](../Page/内閣府.md "wikilink") [経済社会総合研究所](https://ja.wikipedia.org/wiki/経済社会総合研究所 "wikilink")、2011年、p.159
 21. [読み替えられる「バブリー」イメージ──「ダンシング・ヒーロー」再ヒットの行方](https://news.yahoo.co.jp/byline/soichiromatsutani/20171220-00079493/)（[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink") 松谷創一郎 2017年12月20日）
-22. [荻野目洋子の“バブリーダンス”リバイバルに違和感……安室の不出場で『紅白』出場の可能性も](http://news.livedoor.com/article/detail/14032434/) [日刊サイゾー](https://ja.wikipedia.org/wiki/サイゾー "wikilink") 2017年12月15日
+22. [荻野目洋子の“バブリーダンス”リバイバルに違和感……安室の不出場で『紅白』出場の可能性も](http://news.livedoor.com/article/detail/14032434/) [日刊サイゾー](../Page/サイゾー.md "wikilink") 2017年12月15日
 23.
 24.
 25.

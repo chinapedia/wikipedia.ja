@@ -1,7 +1,7 @@
 > この記事は[The Sports Network](https://ja.wikipedia.org/wiki/The_Sports_Network)から翻訳されています。
 
 
-**The Sports Network**（ザ・スポーツ・ネットワーク）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の大手メディア企業、[ベル・メディア](https://ja.wikipedia.org/wiki/ベル・メディア "wikilink")傘下の英語系スポーツ専門テレビ局。略称は「TSN」。運営会社はCTVスペシャリティテレビジョンで、80%がベル・メディア、残りの20%が[ESPN](https://ja.wikipedia.org/wiki/ESPN "wikilink")に株を持っている。1984年に開局した。
+**The Sports Network**（ザ・スポーツ・ネットワーク）は[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の大手メディア企業、[ベル・メディア](https://ja.wikipedia.org/wiki/ベル・メディア "wikilink")傘下の英語系スポーツ専門テレビ局。略称は「TSN」。運営会社はCTVスペシャリティテレビジョンで、80%がベル・メディア、残りの20%が[ESPN](../Page/ESPN.md "wikilink")に株を持っている。1984年に開局した。
 
 ## 主な番組
 

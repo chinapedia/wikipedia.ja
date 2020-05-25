@@ -1,4 +1,4 @@
-> この記事は[JNC](https://ja.wikipedia.org/wiki/JNC)から翻訳されています。
+> この記事は[JNC石油化学](https://ja.wikipedia.org/wiki/JNC石油化学)から翻訳されています。
 
 
 **JNC石油化学株式会社**（ジェイエヌシーせきゆかがく）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[化学](../Page/化学.md "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")。[チッソ](../Page/チッソ.md "wikilink")株式会社の完全子会社（[JNC](https://ja.wikipedia.org/wiki/JNC "wikilink")株式会社を介する間接所有）。
@@ -11,7 +11,7 @@
       - 6月15日、チッソ石油化学株式会社五井工場の集粉装置爆発事故発生\[2\]。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）10月、ポリプロピレン製造設備爆発事故発生。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）9月、四日市ポリプロ株式会社を吸収合併し、四日市工場とする。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）6月、無届の劣化ウラン含有廃触媒（[劣化ウラン](../Page/劣化ウラン.md "wikilink")765 kg）を五井製造所で保管していることが明らかになる。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）6月、無届の劣化ウラン含有廃触媒（[劣化ウラン](../Page/劣化ウラン.md "wikilink")765 kg）を五井製造所で保管していることが明らかになる。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）3月、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")で[コスモ石油](../Page/コスモ石油.md "wikilink")千葉製油所で火災発生。隣接するチッソ石油化学五井製造所に飛び火\[3\]。後日、劣化ウラン含有廃触媒の保管庫の外壁が類焼していたことが公表された\[4\]。
   - 2011年（平成23年）3月31日、チッソの事業再編に伴い、チッソの子会社からJNC株式会社の子会社に\[5\]。
   - 2011年（平成23年）10月1日、JNC石油化学株式会社に商号変更\[6\]。
@@ -20,7 +20,7 @@
 
 ## 事業所
 
-  - 市原製造所（旧・五井製造所） （[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[市原市](../Page/市原市.md "wikilink")）
+  - 市原製造所（旧・五井製造所） （[千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")）
   - 四日市工場 （[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[四日市市](../Page/四日市市.md "wikilink")）
 
 ## 関連会社

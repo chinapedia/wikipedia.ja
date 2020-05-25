@@ -5,14 +5,14 @@
 
 ## 概要
 
-前作『[DELICATE PLANET](https://ja.wikipedia.org/wiki/DELICATE_PLANET "wikilink")』以来8年振り、活動再開後初となるアルバム。累計売上は8.6万枚を記録した\[1\]。先行シングル2曲が収録されているが、いずれもアルバム用にアレンジされた「PK Mix」として収録されており、シングルとはバージョンが異なる。また、活動休止前にリリースされた2ndシングル「[JEWELRY ANGEL](https://ja.wikipedia.org/wiki/JEWELRY_ANGEL "wikilink")」、4thシングル「[MOONSHINE DANCE](https://ja.wikipedia.org/wiki/MOONSHINE_DANCE "wikilink")」、6thシングル「[夢を見たいから](https://ja.wikipedia.org/wiki/夢を見たいから "wikilink")」、「AGAINST THE RULES」（2ndシングル「JEWELRY ANGEL」収録曲）がリアレンジされて収録されている。初回限定盤はフォトブックレット付きのBOX仕様。
+前作『[DELICATE PLANET](../Page/DELICATE_PLANET.md "wikilink")』以来8年振り、活動再開後初となるアルバム。累計売上は8.6万枚を記録した\[1\]。先行シングル2曲が収録されているが、いずれもアルバム用にアレンジされた「PK Mix」として収録されており、シングルとはバージョンが異なる。また、活動休止前にリリースされた2ndシングル「[JEWELRY ANGEL](../Page/JEWELRY_ANGEL.md "wikilink")」、4thシングル「[MOONSHINE DANCE](../Page/MOONSHINE_DANCE.md "wikilink")」、6thシングル「[夢を見たいから](../Page/夢を見たいから.md "wikilink")」、「AGAINST THE RULES」（2ndシングル「JEWELRY ANGEL」収録曲）がリアレンジされて収録されている。初回限定盤はフォトブックレット付きのBOX仕様。
 
 ## 収録曲
 
 ## 参加ミュージシャン・スタッフ
 
   - プログラミング&キーボード：[浅倉大介](../Page/浅倉大介.md "wikilink")
-  - ギター：[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")
+  - ギター：[葛城哲哉](../Page/葛城哲哉.md "wikilink")
   - レコーディング・エンジニア：浅倉大介
   - レコーディング・エンジニア：[大里正毅](https://ja.wikipedia.org/wiki/大里正毅 "wikilink")（Satoyan Music）
   - ミキシング・エンジニア：[フィル・カッフェル](https://ja.wikipedia.org/wiki/フィル・カッフェル "wikilink")

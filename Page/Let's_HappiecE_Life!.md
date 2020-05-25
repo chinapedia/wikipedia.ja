@@ -1,7 +1,7 @@
 > この記事は[Let\'s HappiecE Life!](https://ja.wikipedia.org/wiki/Let\'s_HappiecE_Life!)から翻訳されています。
 
 
-「**Let's HappiecE Life\!**」（レッツハッピースライフ）は、[3B LAB.☆の](https://ja.wikipedia.org/wiki/3B_LAB.☆S "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Let's HappiecE Life\!**」（レッツハッピースライフ）は、[3B LAB.☆の](../Page/3B_LAB.☆S.md "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## 内容
 
-全曲とも作詞・作曲：[岡平健治](https://ja.wikipedia.org/wiki/岡平健治 "wikilink")／編曲：3B LAB.☆。
+全曲とも作詞・作曲：[岡平健治](../Page/岡平健治.md "wikilink")／編曲：3B LAB.☆。
 
 1.  Let's HappiecE Life\!
       -

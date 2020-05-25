@@ -1,4 +1,4 @@
-> この記事は[Bless you \(\)](https://ja.wikipedia.org/wiki/Bless_you_\(\))から翻訳されています。
+> この記事は[Bless you \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/Bless_you_\(松田聖子のアルバム\))から翻訳されています。
 
 
 『**bless you**』（ブレス・ユー）は、[松田聖子](../Page/松田聖子.md "wikilink")（通算40枚目）の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")発売。発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

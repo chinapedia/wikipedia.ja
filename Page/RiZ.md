@@ -1,7 +1,7 @@
 > この記事は[RiZ](https://ja.wikipedia.org/wiki/RiZ)から翻訳されています。
 
 
-**RiZ**（リズ）は、2004年春に結成した[福岡の](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")[ポップス](../Page/ポピュラー音楽.md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。ユニット名の由来は、ヴォーカル**Rie**の「Ri」と、ギター・キーボード**Zun**の「Z」をあわせたものから。
+**RiZ**（リズ）は、2004年春に結成した[福岡の](../Page/福岡県.md "wikilink")[インディーズ](../Page/インディーズ.md "wikilink")[ポップス](../Page/ポピュラー音楽.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。ユニット名の由来は、ヴォーカル**Rie**の「Ri」と、ギター・キーボード**Zun**の「Z」をあわせたものから。
 
 ## メンバー
 
@@ -10,11 +10,11 @@
 
 ## 概要
 
-  - [CM](../Page/コマーシャルメッセージ.md "wikilink")[音楽](../Page/音楽.md "wikilink")のクリエーターでもある**Zun**が**Rie**を[CMソングに起用](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。2人で多くの[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")を手がける。
+  - [CM](../Page/コマーシャルメッセージ.md "wikilink")[音楽](../Page/音楽.md "wikilink")のクリエーターでもある**Zun**が**Rie**を[CMソングに起用](../Page/コマーシャルソング.md "wikilink")。2人で多くの作品を手がける。
   - CM業界で活動する中、自分たちの個性を生かした音楽を作り出すため、RiZを結成。
-  - 基本Rieが[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、Zunが[作曲](../Page/作曲.md "wikilink")[編曲](../Page/編曲.md "wikilink")担当。最近はRieが作曲することも多い。(Cover in LOVE、Lip Noise(共作)、冬の想い出、春夏秋冬(共作)、dilemma、虚偽など)
-  - 2007年には[老人介護施設にてクリスマスライブを行うなど](https://ja.wikipedia.org/wiki/老人福祉施設 "wikilink")、[ボランティア](../Page/ボランティア.md "wikilink")活動にも力を入れている。
-  - 2008年開催の[大分国体](https://ja.wikipedia.org/wiki/第63回国民体育大会 "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")**[めじろん](../Page/めじろん.md "wikilink")**のイメージソング「[めじろんダンス](https://www.youtube.com/watch?v=amPP8iwg3Bw)」に参加。(作詞・作曲は大分市内の小学生、監修は[作曲家](../Page/作曲家.md "wikilink")の[河野敦朗](https://ja.wikipedia.org/wiki/河野敦朗 "wikilink"))
+  - 基本Rieが[作詞](../Page/作詞.md "wikilink")、Zunが[作曲](../Page/作曲.md "wikilink")[編曲](../Page/編曲.md "wikilink")担当。最近はRieが作曲することも多い。(Cover in LOVE、Lip Noise(共作)、冬の想い出、春夏秋冬(共作)、dilemma、虚偽など)
+  - 2007年には[老人介護施設にてクリスマスライブを行うなど](../Page/老人福祉施設.md "wikilink")、[ボランティア](../Page/ボランティア.md "wikilink")活動にも力を入れている。
+  - 2008年開催の[大分国体](../Page/第63回国民体育大会.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")**[めじろん](../Page/めじろん.md "wikilink")**のイメージソング「[めじろんダンス](https://www.youtube.com/watch?v=amPP8iwg3Bw)」に参加。(作詞・作曲は大分市内の小学生、監修は[作曲家](../Page/作曲家.md "wikilink")の[河野敦朗](https://ja.wikipedia.org/wiki/河野敦朗 "wikilink"))
   - [CDや](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")が小中学校・幼稚園や保育所に配布された。
 
 ## ディスコグラフィー
@@ -120,16 +120,16 @@ RiZ＆ GA-GO Collaboration「[Virtual](http://www.ichigo-ongakudou.com/riz/hp/in
 ### CM
 
   - [サンレー](https://ja.wikipedia.org/wiki/サンレー "wikilink")「春夏秋冬」
-  - [ルミエール](https://ja.wikipedia.org/wiki/ルミエール_\(ディスカウントストア\) "wikilink")「Cover in LOVE」
+  - [ルミエール](../Page/ルミエール_\(ディスカウントストア\).md "wikilink")「Cover in LOVE」
   - [アラビアンオアシス](https://ja.wikipedia.org/wiki/アラビアンオアシス "wikilink")「春風」
 
 ### TV
 
-  - [旅の玉手箱](https://ja.wikipedia.org/wiki/旅の玉手箱 "wikilink")[テーマソング](https://ja.wikipedia.org/wiki/主題歌 "wikilink")「あの日の約束」
+  - [旅の玉手箱](https://ja.wikipedia.org/wiki/旅の玉手箱 "wikilink")[テーマソング](../Page/主題歌.md "wikilink")「あの日の約束」
 
 ### イベント
 
-  - 2008年[大分国体](https://ja.wikipedia.org/wiki/第63回国民体育大会 "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")[めじろん](../Page/めじろん.md "wikilink")の[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")「めじろんダンス」
+  - 2008年[大分国体](../Page/第63回国民体育大会.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")[めじろん](../Page/めじろん.md "wikilink")の[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")「めじろんダンス」
 
 ## 主なCM作品
 
@@ -152,7 +152,7 @@ RiZ＆ GA-GO Collaboration「[Virtual](http://www.ichigo-ongakudou.com/riz/hp/in
   - [フラワーベーカリー](https://ja.wikipedia.org/wiki/フラワーベーカリー "wikilink")
   - [ハウステンボス～光の街～](https://ja.wikipedia.org/wiki/ハウステンボス～光の街～ "wikilink")
   - [泰平建設](https://ja.wikipedia.org/wiki/泰平建設 "wikilink")
-  - [ナフコ](https://ja.wikipedia.org/wiki/ナフコ_\(ホームセンター\) "wikilink")
+  - [ナフコ](../Page/ナフコ_\(ホームセンター\).md "wikilink")
   - [原サティ](https://ja.wikipedia.org/wiki/原サティ "wikilink")
   - [九州アイズ](https://ja.wikipedia.org/wiki/九州アイズ "wikilink")
   - [救急救命士](../Page/救急救命士.md "wikilink")
@@ -168,9 +168,9 @@ RiZ＆ GA-GO Collaboration「[Virtual](http://www.ichigo-ongakudou.com/riz/hp/in
   - [FM福岡](../Page/エフエム福岡.md "wikilink")
       - 「[boot camp](https://ja.wikipedia.org/wiki/boot_camp "wikilink")」
       - 「[福岡パラダイス](https://ja.wikipedia.org/wiki/福岡パラダイス "wikilink")」にて（2007年9月[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")起用）
-  - [FM KitaQ](https://ja.wikipedia.org/wiki/北九州シティエフエム "wikilink")
+  - [FM KitaQ](../Page/北九州シティエフエム.md "wikilink")
       - 「[今夜もやっぱりKITAQ DE SHOW](https://ja.wikipedia.org/wiki/今夜もやっぱりKITAQ_DE_SHOW "wikilink")」
-  - [Dreams FM](https://ja.wikipedia.org/wiki/ドリームスエフエム放送 "wikilink")
+  - [Dreams FM](../Page/ドリームスエフエム放送.md "wikilink")
   - [LOVE FM](https://ja.wikipedia.org/wiki/九州国際エフエム "wikilink")
       - 「[アジアンニュースタンダード](https://ja.wikipedia.org/wiki/アジアンニュースタンダード "wikilink")」
   - [FM佐賀](../Page/エフエム佐賀.md "wikilink")
@@ -182,14 +182,14 @@ RiZ＆ GA-GO Collaboration「[Virtual](http://www.ichigo-ongakudou.com/riz/hp/in
   - [Stickam Japan\!](https://ja.wikipedia.org/wiki/Stickam_Japan! "wikilink")
       - 「[西中洲マーガリン](https://ja.wikipedia.org/wiki/西中洲マーガリン "wikilink")」
       - 「[over night jam](https://ja.wikipedia.org/wiki/over_night_jam "wikilink")」
-  - [らじろぐ](https://ja.wikipedia.org/wiki/らじろぐ "wikilink")
+  - [らじろぐ](../Page/らじろぐ.md "wikilink")
       - 「[RADIO TALK CLUB](https://ja.wikipedia.org/wiki/RADIO_TALK_CLUB "wikilink")」
 
 ## 雑誌／新聞／フリーペーパー
 
   - [西日本新聞](../Page/西日本新聞.md "wikilink")（「バンドじゃん」「Bana-Ten」 ）
   - [月刊くるめ](https://ja.wikipedia.org/wiki/月刊くるめ "wikilink")
-  - [フリーペーパー](https://ja.wikipedia.org/wiki/フリーペーパー "wikilink")「MOVING」
+  - [フリーペーパー](../Page/フリーペーパー.md "wikilink")「MOVING」
 
 ## サイト上での活動
 
@@ -201,6 +201,6 @@ RiZ＆ GA-GO Collaboration「[Virtual](http://www.ichigo-ongakudou.com/riz/hp/in
 
   - [RiZオフィシャルホームページ](http://riz07110622.wixsite.com/riz-hp)
   - [RiZ色Radio](http://www.voiceblog.jp/riz_iro_radio/)
-  - [RiZ色日記](http://ameblo.jp/riz-rie/)
+  - [RiZ色日記](https://ameblo.jp/riz-rie/)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")

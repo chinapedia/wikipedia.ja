@@ -1,4 +1,4 @@
-> この記事は[PINK \(\)](https://ja.wikipedia.org/wiki/PINK_\(\))から翻訳されています。
+> この記事は[PINK \(アルバム\)](https://ja.wikipedia.org/wiki/PINK_\(アルバム\))から翻訳されています。
 
 
 **PINK**（ピンク）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[PINKのファーストアルバム](../Page/PINK_\(バンド\).md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[MOON RECORDSよりリリースされた](../Page/MOON_RECORDS.md "wikilink")。

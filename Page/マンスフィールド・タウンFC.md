@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マンスフィールド・タウンFC](https://ja.wikipedia.org/wiki/マンスフィールド・タウンFC)から翻訳されています。
 
 
-**マンスフィールド・タウン・フットボール・クラブ**（**Mansfield Town Football Club**）はイングランド、[ノッティンガムシャー](https://ja.wikipedia.org/wiki/ノッティンガムシャー "wikilink")、[マンスフィールドを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/マンスフィールド_\(イングランド\) "wikilink")。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
+**マンスフィールド・タウン・フットボール・クラブ**（**Mansfield Town Football Club**）はイングランド、[ノッティンガムシャー](../Page/ノッティンガムシャー.md "wikilink")、[マンスフィールドを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/マンスフィールド_\(イングランド\) "wikilink")。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
 
 ## 名称変更
 
@@ -76,10 +76,10 @@
 ## ローカル・ライバル
 
   - [チェスターフィールド](../Page/チェスターフィールドFC.md "wikilink")
-  - [ノッツ・カウンティ](https://ja.wikipedia.org/wiki/ノッツ・カウンティFC "wikilink")
+  - [ノッツ・カウンティ](../Page/ノッツ・カウンティFC.md "wikilink")
   - [リンカーン・シティ](../Page/リンカーン・シティFC.md "wikilink")
   - [ドンカスター・ローヴァーズ](../Page/ドンカスター・ローヴァーズFC.md "wikilink")
-  - [ノッティンガム・フォレスト](https://ja.wikipedia.org/wiki/ノッティンガム・フォレストFC "wikilink")
+  - [ノッティンガム・フォレスト](../Page/ノッティンガム・フォレストFC.md "wikilink")
 
 ## 歴代監督
 
@@ -95,7 +95,7 @@
 
   - [シェーン・スメルツ](https://ja.wikipedia.org/wiki/シェーン・スメルツ "wikilink") 2005
 
-  - [ミーケル・アクサル](https://ja.wikipedia.org/wiki/ミーケル・アクサル "wikilink") 2010
+  - [ミーケル・アクサル](../Page/ミーケル・アクサル.md "wikilink") 2010
 
   - [スティーブ・クック](https://ja.wikipedia.org/wiki/スティーブ・クック "wikilink") 2011
 

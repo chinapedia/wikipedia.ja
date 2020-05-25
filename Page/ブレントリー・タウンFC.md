@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブレントリー・タウンFC](https://ja.wikipedia.org/wiki/ブレントリー・タウンFC)から翻訳されています。
 
 
 **ブレントリー・タウン・フットボール・クラブ**（**Braintree Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[エセックス州](https://ja.wikipedia.org/wiki/エセックス州 "wikilink")・[ブレントリーを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/:en:Braintree "wikilink")。2018-2019シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。

@@ -1,4 +1,4 @@
-> この記事は[Fade Out \(\)](https://ja.wikipedia.org/wiki/Fade_Out_\(\))から翻訳されています。
+> この記事は[Fade Out \(小泉今日子の曲\)](https://ja.wikipedia.org/wiki/Fade_Out_\(小泉今日子の曲\))から翻訳されています。
 
 
 「**Fade Out**」（フェード・アウト）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1989年](../Page/1989年.md "wikilink")5月にリリースした27枚目のシングルである。

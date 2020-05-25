@@ -1,11 +1,11 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKジャルギリス](https://ja.wikipedia.org/wiki/FKジャルギリス)から翻訳されています。
 
 
-**FKジャルギリス**（）は、[リトアニア](../Page/リトアニア.md "wikilink")の首都[ヴィリニュス](https://ja.wikipedia.org/wiki/ヴィリニュス "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
+**FKジャルギリス**（）は、[リトアニア](../Page/リトアニア.md "wikilink")の首都[ヴィリニュス](../Page/ヴィリニュス.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-1947年に**ディナモ** (*Dinamo*) のクラブ名で創設され、1948年から1961年までは**スパルタカス** (*Spartakas*) 、1962年に**ジャルギリス**に改称した。ソ連時代、ジャルギリスは[ソ連トップリーグに昇格したことがあるリトアニアで唯一のクラブだった](https://ja.wikipedia.org/wiki/ソビエト連邦サッカーリーグ "wikilink")。1987年には3位の好成績を残した。
+1947年に**ディナモ** (*Dinamo*) のクラブ名で創設され、1948年から1961年までは**スパルタカス** (*Spartakas*) 、1962年に**ジャルギリス**に改称した。ソ連時代、ジャルギリスは[ソ連トップリーグに昇格したことがあるリトアニアで唯一のクラブだった](../Page/ソビエト連邦サッカーリーグ.md "wikilink")。1987年には3位の好成績を残した。
 
-リトアニアの独立後はリトアニアリーグに4回優勝している。現会長[アルミナス・ナルベコヴァス](https://ja.wikipedia.org/wiki/アルミナス・ナルベコヴァス "wikilink")はかつてジャルギリスとリトアニアを代表する名選手だった。
+リトアニアの独立後はリトアニアリーグに4回優勝している。現会長[アルミナス・ナルベコヴァス](../Page/アルミナス・ナルベコヴァス.md "wikilink")はかつてジャルギリスとリトアニアを代表する名選手だった。
 
 ## クラブ名の変遷
 
@@ -86,7 +86,7 @@
 <td><p>1988-89</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1988-89" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン" title="wikilink">アウストリア・ウィーン</a></p></td>
+<td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2–5</p></td>
 <td><p>'''4–5</p></td>
@@ -104,7 +104,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–4</p></td>
 <td><p>'''1–5</p></td>
@@ -116,7 +116,7 @@
 <td><p>1992-93</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1992-93" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PSVアイントホーフェン" title="wikilink">PSV</a></p></td>
+<td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–6</p></td>
 <td><p>'''0–8</p></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トラブゾンスポル・クラブ_(サッカー)" title="wikilink">トラブゾンスポル</a></p></td>
+<td><p><a href="../Page/トラブゾンスポル・クラブ_(サッカー).md" title="wikilink">トラブゾンスポル</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–1</p></td>
 <td><p>'''2–3</p></td>
@@ -184,7 +184,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アバディーンFC" title="wikilink">アバディーン</a></p></td>
+<td><p><a href="../Page/アバディーンFC.md" title="wikilink">アバディーン</a></p></td>
 <td><p>1–4</p></td>
 <td><p>3–1</p></td>
 <td><p>'''4–5</p></td>
@@ -210,7 +210,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ÍAアクラネース" title="wikilink">ÍA</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–3</p></td>
-<td><p>'''3–3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3–3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -235,7 +235,7 @@
 </tr>
 <tr class="even">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0–3</p></td>
@@ -257,7 +257,7 @@
 <td><p>2001-02</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選ラウンド</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–6</p></td>
 <td><p>'''0–7</p></td>
@@ -267,7 +267,7 @@
 <td><p>2002</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2002" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブダペスト・ホンヴェードFC" title="wikilink">ブダペスト・ホンヴェード</a></p></td>
+<td><p><a href="../Page/ブダペスト・ホンヴェードFC.md" title="wikilink">ブダペスト・ホンヴェード</a></p></td>
 <td><p>0–0</p></td>
 <td><p>1–0</p></td>
 <td><p>'''1–0</p></td>
@@ -395,7 +395,7 @@
 </tr>
 <tr class="even">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドブル・ザルツブルク" title="wikilink">レッドブル・ザルツブルク</a></p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">レッドブル・ザルツブルク</a></p></td>
 <td><p>0-5</p></td>
 <td><p>0-2</p></td>
 <td><p>'''0-7</p></td>
@@ -417,7 +417,7 @@
 <td><p>2015-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルメFF" title="wikilink">マルメFF</a></p></td>
+<td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-1</p></td>
@@ -465,7 +465,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セビージャFC" title="wikilink">セビージャ</a></p></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–5</p></td>
 <td><p>'''0–6</p></td>
@@ -477,7 +477,7 @@
 <td><p>2019-20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブダペスト・ホンヴェードFC" title="wikilink">ホンヴェード</a></p></td>
+<td><p><a href="../Page/ブダペスト・ホンヴェードFC.md" title="wikilink">ホンヴェード</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-3</p></td>
 <td><p>'''2-4</p></td>
@@ -512,9 +512,9 @@
 
   - [金井拓也](https://ja.wikipedia.org/wiki/金井拓也 "wikilink") 2013
 
-### [FW](https://ja.wikipedia.org/wiki/フォワード_\(サッカー\) "wikilink")
+### [FW](../Page/フォワード_\(サッカー\).md "wikilink")
 
-  - [エドガラス・ヤンカウスカス](https://ja.wikipedia.org/wiki/エドガラス・ヤンカウスカス "wikilink") 1991-1996
+  - [エドガラス・ヤンカウスカス](../Page/エドガラス・ヤンカウスカス.md "wikilink") 1991-1996
 
 ## 脚注
 

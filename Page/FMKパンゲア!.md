@@ -31,7 +31,7 @@
   - [野田亜紅](https://ja.wikipedia.org/wiki/野田亜紅 "wikilink")（木曜日担当、2009年4月 - 2013年3月）
   - [真猿](https://ja.wikipedia.org/wiki/真猿_\(熊本ローカルタレント\) "wikilink")（火曜日担当、2008年10月 - 2009年3月）
   - [水上清乃](https://ja.wikipedia.org/wiki/水上清乃 "wikilink")（水曜日担当、2008年3月 - 2018年9月）
-  - [樫山結](https://ja.wikipedia.org/wiki/樫山結 "wikilink")（木曜日担当、2013年4月 - 2019年3月）
+  - [樫山結](../Page/樫山結.md "wikilink")（木曜日担当、2013年4月 - 2019年3月）
 
 ## タイムテーブル
 

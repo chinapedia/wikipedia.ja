@@ -5,13 +5,13 @@
 
 ## 解説
 
-2曲目に収録されている「[garden](https://ja.wikipedia.org/wiki/garden_\(globeの曲\) "wikilink")」をシングルとして同時発売。[トランスへ移行した最初の作品となった](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")。
+2曲目に収録されている「[garden](https://ja.wikipedia.org/wiki/garden_\(globeの曲\) "wikilink")」をシングルとして同時発売。[トランスへ移行した最初の作品となった](../Page/トランス_\(音楽\).md "wikilink")。
 
-アルバムのテーマは「トランス・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ヒップホップを基調とした](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")」\[1\]「globeを中心にした外への広がり、外部とのネットワーク」\[2\]「インターネットでの仮想の旅から、現実の外への旅に出ていく勇気」「過去のプロダクトからの逸脱とポップス性の振り幅の両立」\[3\]「前半40分は[トランスで突っ走る](https://ja.wikipedia.org/wiki/トランス_\(音楽\) "wikilink")」\[4\]事をイメージした。
+アルバムのテーマは「トランス・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[ヒップホップを基調とした](https://ja.wikipedia.org/wiki/ヒップホップ・ミュージック "wikilink")[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")」\[1\]「globeを中心にした外への広がり、外部とのネットワーク」\[2\]「インターネットでの仮想の旅から、現実の外への旅に出ていく勇気」「過去のプロダクトからの逸脱とポップス性の振り幅の両立」\[3\]「前半40分は[トランスで突っ走る](../Page/トランス_\(音楽\).md "wikilink")」\[4\]事をイメージした。
 
 小室が匿名性を重んじたために、メンバー3人が前面に出てのプロモーション活動は行われなかった。それでもトランスの要素を加えたことで新規層を獲得し、「『outernet』とはどんなバンドなのか?」という問い合わせが海外から来た際、小室はそれを嬉しく思った\[5\]。
 
-作曲・編曲には[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")や[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[葉山たけし](https://ja.wikipedia.org/wiki/葉山たけし "wikilink")らが参加。
+作曲・編曲には[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")や[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[葉山たけし](../Page/葉山たけし.md "wikilink")らが参加。
 
 2000年に発売された「globe featuring」としてのシングルをglobeバージョンにして収録している。
 
@@ -46,7 +46,7 @@
         日本テレビ系ドラマ「ストレートニュース」主題歌
 9.  **楽園の嘘**
       -
-        作詞：KEIKO　作曲：小室哲哉　編曲：[葉山たけし](https://ja.wikipedia.org/wiki/葉山たけし "wikilink")
+        作詞：KEIKO　作曲：小室哲哉　編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
 10. **another sad song**
       -
         作詞：MARC & KEIKO　作曲：小室哲哉 & [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")　編曲：小室哲哉
@@ -68,5 +68,5 @@
 1.  [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊「[ザッピィ](https://ja.wikipedia.org/wiki/ザッピィ "wikilink")」2001年3月号15Pより。
 2.  [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊「新・電気じかけの予言者たち -新世紀篇-」[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")著より。
 3.  [Album outernet / Single garden(globe outernet / gardenスペシャルコンテンツ)](https://web.archive.org/web/20010806081202/http://www.area-globe.com/outnt/index-j.htm)より。
-4.  [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊 『[キーボード・マガジン](https://ja.wikipedia.org/wiki/キーボード・マガジン "wikilink")』 2001年10・11月合併号23P-35Pより。
+4.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊 『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』 2001年10・11月合併号23P-35Pより。
 5.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』2002年2月号Special Fireより。

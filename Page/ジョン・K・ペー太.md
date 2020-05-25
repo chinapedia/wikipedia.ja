@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ジョン・K・ペー太](https://ja.wikipedia.org/wiki/ジョン・K・ペー太)から翻訳されています。
 
 
 **ジョン・K・ペー太**（じょん・ケー・ぺーた）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。男性。成年向け漫画誌にて[美少女コミックを描いている](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")。

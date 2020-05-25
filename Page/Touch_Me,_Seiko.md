@@ -1,15 +1,15 @@
 > この記事は[Touch Me, Seiko](https://ja.wikipedia.org/wiki/Touch_Me,_Seiko)から翻訳されています。
 
 
-『**Touch Me, Seiko**』（タッチ・ミー・セイコ）は、[松田聖子](../Page/松田聖子.md "wikilink") のカップリング（[B面](https://ja.wikipedia.org/wiki/B面 "wikilink")）[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。1984年3月15日発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**Touch Me, Seiko**』（タッチ・ミー・セイコ）は、[松田聖子](../Page/松田聖子.md "wikilink") のカップリング（[B面](https://ja.wikipedia.org/wiki/B面 "wikilink")）[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。1984年3月15日発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
   - 帯コピー:**時間（とき）の経過に輝くこころの波状が見えますか・・・聖子。**
   - レコード・シングル盤の片面曲からセレクトされた、B面コレクション。
-  - B面集として史上初めて[オリコンで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した作品。
+  - B面集として史上初めて[オリコンで](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。
   - いわゆる[両A面として扱われた楽曲も収録されている](https://ja.wikipedia.org/wiki/両A面シングル "wikilink")（「Eighteen」「SWEET MEMORIES」「蒼いフォトグラフ」）。
-  - 2006年7月19日に発売された、74枚組CD BOX『[Seiko Matsuda](https://ja.wikipedia.org/wiki/Seiko_Matsuda "wikilink")』に、 デジタル・リマスタリング仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](../Page/レコード.md "wikilink")。リマスター盤の個別販売はない。
+  - 2006年7月19日に発売された、74枚組CD BOX『[Seiko Matsuda](../Page/Seiko_Matsuda.md "wikilink")』に、 デジタル・リマスタリング仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](../Page/レコード.md "wikilink")。リマスター盤の個別販売はない。
   - 2017年1月20日、SACD化（ハイブリッド盤）されて再発売。企画、販売は、2014年以降聖子の初期アルバムを積極的にSACD化してきた株式会社ステレオサウンド。全曲がオリジナル2トラックミックスダウンマスターに遡ってDSDマスタリングされている。
 
 ## 収録曲
@@ -25,7 +25,7 @@
       -
         シングル「[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")」（1980年7月1日） [B面](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")
 3.  **Romance**　（3:27）
-      - 作詞：松本隆／作曲：平井夏美／編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 作詞：松本隆／作曲：平井夏美／編曲：[船山基紀](../Page/船山基紀.md "wikilink")
     <!-- end list -->
       -
         シングル「[風立ちぬ](../Page/風立ちぬ_\(松田聖子の曲\).md "wikilink")」（1981年10月7日） B面
@@ -78,11 +78,11 @@
 ## 関連作品
 
   - [聖子・fragrance](../Page/聖子・fragrance.md "wikilink") - タイトルが「セイコ」からはじまるベストの第1弾。1980年・1981年の楽曲から選曲されている。
-  - [Seiko・index](https://ja.wikipedia.org/wiki/Seiko・index "wikilink") - シングルA面コレクション・アンド・モア。1980年から1982年1月までの楽曲から選曲されている。
+  - [Seiko・index](../Page/Seiko・index.md "wikilink") - シングルA面コレクション・アンド・モア。1980年から1982年1月までの楽曲から選曲されている。
   - [Seiko・plaza](../Page/Seiko・plaza.md "wikilink") - 「[ガラスの林檎／SWEET MEMORIES](https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES "wikilink")」までのシングルコレクション。新曲も収録。
-  - [Seiko・Town](https://ja.wikipedia.org/wiki/Seiko・Town "wikilink") - アルバム・ナンバーも含めたベストアルバム。1983年から1984年までの楽曲から選曲されている。
-  - [Seiko・Avenue](https://ja.wikipedia.org/wiki/Seiko・Avenue "wikilink") - クリスマス・アルバムや出演映画のサントラ盤収録の楽曲を集めたレア・トラック・コレクション。
-  - [Seiko-Train](https://ja.wikipedia.org/wiki/Seiko-Train "wikilink") - [松任谷由実](../Page/松任谷由実.md "wikilink")（呉田軽穂）提供の楽曲のみを収録。LP盤とCD盤で選曲が異なる。
+  - [Seiko・Town](../Page/Seiko・Town.md "wikilink") - アルバム・ナンバーも含めたベストアルバム。1983年から1984年までの楽曲から選曲されている。
+  - [Seiko・Avenue](../Page/Seiko・Avenue.md "wikilink") - クリスマス・アルバムや出演映画のサントラ盤収録の楽曲を集めたレア・トラック・コレクション。
+  - [Seiko-Train](../Page/Seiko-Train.md "wikilink") - [松任谷由実](../Page/松任谷由実.md "wikilink")（呉田軽穂）提供の楽曲のみを収録。LP盤とCD盤で選曲が異なる。
   - [Seiko Box](../Page/Seiko_Box.md "wikilink") - シングル・アルバムを全60曲収録した4枚組大全集。
   - [Seiko Monument](../Page/Seiko_Monument.md "wikilink") - 「Marrakech」まで、シングルA面コレクションCD2枚にエキストラ・ディスクが付いた計3枚組。
   - [Touch Me, Seiko II](https://ja.wikipedia.org/wiki/Touch_Me,_Seiko_II "wikilink") - 本作の続編。この2作で英詞を除く1980年代の全カップリングが揃う。

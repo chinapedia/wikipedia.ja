@@ -7,7 +7,7 @@
 
 前作「[Breezin' 〜Together〜](../Page/Breezin'_〜Together〜.md "wikilink")」から2ヶ月ぶりのシングル。
 
-[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[OZROSAURUS](https://ja.wikipedia.org/wiki/OZROSAURUS "wikilink")のMACCHOがフィーチャリングとして参加。[MAKIDAI](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")、UBGのJr.が[DJを担当](../Page/ディスクジョッキー.md "wikilink")。
+[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")、[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")のMACCHOがフィーチャリングとして参加。[MAKIDAI](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")、UBGのJr.が[DJを担当](../Page/ディスクジョッキー.md "wikilink")。
 
 ミュージックビデオにはモデルの[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤 "wikilink")が出演\[1\]。
 
@@ -22,7 +22,7 @@
     <!-- end list -->
       - 8thシングルのリミックスバージョン
       - 8thシングルアナログ盤収録曲
-      - リミックスアルバム『[The other side of EX Vol.1](https://ja.wikipedia.org/wiki/The_other_side_of_EX_Vol.1 "wikilink")』には新たに[RATHER UNIQUEが加わったバージョンを収録](https://ja.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")
+      - リミックスアルバム『[The other side of EX Vol.1](../Page/The_other_side_of_EX_Vol.1.md "wikilink")』には新たに[RATHER UNIQUEが加わったバージョンを収録](../Page/RATHER_UNIQUE.md "wikilink")
 3.  LET ME LUV U DOWN feat. ZEEBRA & MACCHO (OZROSAURUS) (Instrumental)
 4.  Together - R.Yamaki's Roller Mix (Instrumental)
 
@@ -30,13 +30,13 @@
 
 **LET ME LUV U DOWN feat. ZEEBRA & MACCHO (OZROSAURUS)**
 
-  - [The other side of EX Vol.1](https://ja.wikipedia.org/wiki/The_other_side_of_EX_Vol.1 "wikilink")（DJ HASEBE REMIX）
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink") - SELECT BEST
+  - [The other side of EX Vol.1](../Page/The_other_side_of_EX_Vol.1.md "wikilink")（DJ HASEBE REMIX）
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink") - SELECT BEST
 
 **Together - R.Yamaki's Roller Mix**
 
-  - [The other side of EX Vol.1](https://ja.wikipedia.org/wiki/The_other_side_of_EX_Vol.1 "wikilink")（feat. Rather Unique）
+  - [The other side of EX Vol.1](../Page/The_other_side_of_EX_Vol.1.md "wikilink")（feat. Rather Unique）
 
 ## 脚注
 

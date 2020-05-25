@@ -1,33 +1,33 @@
 > この記事は[Complete Bible](https://ja.wikipedia.org/wiki/Complete_Bible)から翻訳されています。
 
 
-『**Complete Bible**』（コンプリート・バイブル）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")（[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")）。1996年9月21日発売。発売元は[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**Complete Bible**』（コンプリート・バイブル）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")）。1996年9月21日発売。発売元は[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
   - [Bibleシリーズ](https://ja.wikipedia.org/wiki/Bibleシリーズ "wikilink")の第4作目。
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")のデビュー曲「裸足の季節」から、マーキュリー・ミュージックエンタテインメント（現・[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）へ移籍する直前のシングル「素敵にOnce Again」まで、全34タイトルのシングル[A面・B面が収録されたシングル](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")・コレクション（34タイトルに、英語詞の曲は含まず）。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")のデビュー曲「裸足の季節」から、マーキュリー・ミュージックエンタテインメント（現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）へ移籍する直前のシングル「素敵にOnce Again」まで、全34タイトルのシングル[A面・B面が収録されたシングル](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")・コレクション（34タイトルに、英語詞の曲は含まず）。
   - 正式な商品名称は『Complete Bible 〜Seiko Matsuda All Singles Collection〜』のようであるが、公式の[ディスコグラフィ](https://ja.wikipedia.org/wiki/ディスコグラフィ "wikilink")でも大抵は『Complete Bible』のみしか表示されていない。
   - 日本語詞のシングルA面曲のみ、Disc 6・7へ発売順にオリジナル・カラオケを収録している。
   - 透明三方背スリーブケース入り。Disc 1からDisc 5のCDケースはそれぞれ孤立しておらず、5枚収納型の折りたたみ式特殊ケースになっている。また、その特殊ケースでは過去のジャケット写真の別カットがふんだんに使用されている。2枚のカラオケ盤は見開きディスク・ケース。
   - 別冊ブックレットに、[レコード](../Page/レコード.md "wikilink")（[CD](../Page/コンパクトディスク.md "wikilink")）ジャケット写真つきの歌詞がまとめて記載された。巻末には、アルバムのディスクグラフィを掲載（こちらもジャケット写真付）。
-  - 原則発売順で収録されているが、アメリカでリリースされたシングル盤は、別途付随の「U.S.A. Release盤（Disc 8）」にまとめて収められた。よって[オリコンヒットチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した「DANCING SHOES」のA・B面曲もこちらに収録されている。CDケースも他CDとは別で、折りたたみ式の歌詞カードが封入されている。
+  - 原則発売順で収録されているが、アメリカでリリースされたシングル盤は、別途付随の「U.S.A. Release盤（Disc 8）」にまとめて収められた。よって[オリコンヒットチャートで](../Page/オリコンチャート.md "wikilink")1位を獲得した「DANCING SHOES」のA・B面曲もこちらに収録されている。CDケースも他CDとは別で、折りたたみ式の歌詞カードが封入されている。
   - "Matsuyakko" 名義でリリースされた企画盤「[かこわれて、愛jing](../Page/かこわれて、愛jing.md "wikilink")」は未収録である。
   - オリジナル・マスター音源使用。音圧が少々低めである。
   - CD円盤は、ピクチャーレーベル仕様。
   - 限定販売商品であるために、現在は入手困難となっている。
-  - 2006年7月19日に発売された、74枚組CD BOX『[Seiko Matsuda](https://ja.wikipedia.org/wiki/Seiko_Matsuda "wikilink")』に、デジタル・リマスタリング仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。リマスター盤の個別販売はない。
+  - 2006年7月19日に発売された、74枚組CD BOX『[Seiko Matsuda](../Page/Seiko_Matsuda.md "wikilink")』に、デジタル・リマスタリング仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。リマスター盤の個別販売はない。
 
 ## 収録曲
 
 ### Disc 1
 
 1.  **[裸足の季節](../Page/裸足の季節.md "wikilink")**　（3:43）
-      - 作詞: [三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲: [小田裕一郎](https://ja.wikipedia.org/wiki/小田裕一郎 "wikilink")、編曲: 信田かずお
+      - 作詞: [三浦徳子](../Page/三浦徳子.md "wikilink")、作曲: [小田裕一郎](../Page/小田裕一郎.md "wikilink")、編曲: 信田かずお
 2.  **RAINBOW 〜六月生まれ〜**　（4:12）
-      - 作詞: 三浦徳子、作曲: 森家住吉、編曲: [若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+      - 作詞: 三浦徳子、作曲: 森家住吉、編曲: [若草恵](../Page/若草恵.md "wikilink")
 3.  **[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")**　（3:39）
-      - 作詞: 三浦徳子、作曲: 小田裕一郎、編曲: [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞: 三浦徳子、作曲: 小田裕一郎、編曲: [大村雅朗](../Page/大村雅朗.md "wikilink")
     <!-- end list -->
       -
         『[第31回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")』歌唱曲
@@ -54,16 +54,16 @@
 11. **[白いパラソル](../Page/白いパラソル.md "wikilink")**　（3:29）
       - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: 財津和夫、編曲: 大村雅朗
 12. **花一色 〜野菊のささやき**　（4:18）　
-      - 作詞: 松本隆、作曲: 財津和夫、編曲: [瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+      - 作詞: 松本隆、作曲: 財津和夫、編曲: [瀬尾一三](../Page/瀬尾一三.md "wikilink")
 13. **[風立ちぬ](../Page/風立ちぬ_\(松田聖子の曲\).md "wikilink")**　（4:34）　
       - 作詞: 松本隆、作曲: [大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")、編曲: [多羅尾伴内](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")
 14. **Romance**　（3:25）　
-      - 作詞: 松本隆、作曲: 平井夏美、編曲: [船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 作詞: 松本隆、作曲: 平井夏美、編曲: [船山基紀](../Page/船山基紀.md "wikilink")
 
 ### Disc 2
 
 1.  **[赤いスイートピー](../Page/赤いスイートピー.md "wikilink")**　（3:38）　
-      - 作詞: 松本隆、作曲: [呉田軽穂](../Page/松任谷由実.md "wikilink")、編曲: [松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+      - 作詞: 松本隆、作曲: [呉田軽穂](../Page/松任谷由実.md "wikilink")、編曲: [松任谷正隆](../Page/松任谷正隆.md "wikilink")
 2.  **制服**　（3:33）　
       - 作詞: 松本隆、作曲: 呉田軽穂、編曲: 松任谷正隆
 3.  **[渚のバルコニー](../Page/渚のバルコニー.md "wikilink")**　（3:41）　
@@ -78,7 +78,7 @@
       - 作詞: 松本隆、作曲: 財津和夫、編曲: 大村雅朗
     <!-- end list -->
       -
-        『[第33回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第33回NHK紅白歌合戦](../Page/第33回NHK紅白歌合戦.md "wikilink")』歌唱曲
 8.  **愛されたいの**　（4:22）　
       - 作詞: 松本隆、作曲: 財津和夫、編曲: 大村雅朗
 9.  **[秘密の花園](../Page/秘密の花園_\(曲\).md "wikilink")**　（3:30）　
@@ -113,7 +113,7 @@
 5.  **[時間の国のアリス](https://ja.wikipedia.org/wiki/時間の国のアリス "wikilink")**　（4:42）　
       - 作詞: 松本隆、作曲: 呉田軽穂、編曲: 大村雅朗
 6.  **夏服のイヴ**　（4:43）　
-      - 作詞: 松本隆、作曲: [日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")、編曲: [笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")
+      - 作詞: 松本隆、作曲: [日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")、編曲: [笹路正徳](../Page/笹路正徳.md "wikilink")
 7.  **[ピンクのモーツァルト](../Page/ピンクのモーツァルト.md "wikilink")**　（3:56）
       - 作詞: 松本隆、作曲: 細野晴臣、編曲: 細野晴臣・松任谷正隆　
 8.  **硝子のプリズム**　（3:33）
@@ -126,9 +126,9 @@
       - 作詞・作曲: [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")、編曲: 大村雅朗
     <!-- end list -->
       -
-        『[第36回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第36回NHK紅白歌合戦](../Page/第36回NHK紅白歌合戦.md "wikilink")』歌唱曲
 12. **七色のパドル**　（4:46）
-      - 作詞: [小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink")、作曲: [NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")、編曲: 大村雅朗
+      - 作詞: [小坂明子](../Page/小坂明子.md "wikilink")、作曲: [NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")、編曲: 大村雅朗
 13. **[ボーイの季節](../Page/ボーイの季節.md "wikilink")**　（4:33）
       - 作詞・作曲: 尾崎亜美、編曲: 大村雅朗
 14. **Caribbean Wind**　（4:06）
@@ -137,21 +137,21 @@
 ### Disc 4
 
 1.  **[Strawberry Time](../Page/Strawberry_Time.md "wikilink")**　（3:57）
-      - 作詞: 松本隆、作曲: [土橋安騎夫](https://ja.wikipedia.org/wiki/土橋安騎夫 "wikilink")、編曲: 大村雅朗
+      - 作詞: 松本隆、作曲: [土橋安騎夫](../Page/土橋安騎夫.md "wikilink")、編曲: 大村雅朗
     <!-- end list -->
       -
-        『[第38回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第38回NHK紅白歌合戦](../Page/第38回NHK紅白歌合戦.md "wikilink")』歌唱曲
 2.  **ベルベット・フラワー**　（4:15）
-      - 作詞: 松本隆、作曲: [三谷泰弘](https://ja.wikipedia.org/wiki/三谷泰弘 "wikilink")、編曲: 笹路正徳
+      - 作詞: 松本隆、作曲: [三谷泰弘](../Page/三谷泰弘.md "wikilink")、編曲: 笹路正徳
 3.  **[Pearl-White Eve](../Page/Pearl-White_Eve.md "wikilink")**　（4:47）
-      - 作詞: 松本隆、作曲: [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")、編曲: [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+      - 作詞: 松本隆、作曲: [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲: [井上鑑](../Page/井上鑑.md "wikilink")
 4.  **凍った息**　（4:11）
       - 作詞: 松本隆、作曲: 大江千里、編曲: 井上鑑
 5.  **[Marrakech〜マラケッシュ〜](../Page/Marrakech〜マラケッシュ〜.md "wikilink")**　（3:53）
       - 作詞: 松本隆、作曲: Steve Kipner・Paul Bliss、編曲: Steve Kipner・Paul Bliss・David Foster
     <!-- end list -->
       -
-        『[第39回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第39回NHK紅白歌合戦](../Page/第39回NHK紅白歌合戦.md "wikilink")』歌唱曲
 6.  **No.1**　（3:00）
       - 作詞: 松本隆、作曲・編曲: Paul Cooper・David Foster
 7.  **[旅立ちはフリージア](../Page/旅立ちはフリージア.md "wikilink")**　（4:49）
@@ -160,19 +160,19 @@
       -
         80年代最後のオリコン1位獲得曲。「風は秋色」より24作連続の快挙。
 8.  **Angel Tears**　（5:10）
-      - 作詞: [吉元由美](../Page/吉元由美.md "wikilink")、作曲: [杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")、編曲: 井上鑑
+      - 作詞: [吉元由美](../Page/吉元由美.md "wikilink")、作曲: [杏里](../Page/杏里.md "wikilink")、編曲: 井上鑑
 9.  **[Precious Heart](../Page/Precious_Heart.md "wikilink")**　（4:26）
-      - 作詞: Seiko Matsuda、作曲: [奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")、編曲: 笹路正徳
+      - 作詞: Seiko Matsuda、作曲: [奥居香](../Page/岸谷香.md "wikilink")、編曲: 笹路正徳
 10. **恋の魔法でCatch Your Heart**　（4:59）
       - 作詞: Seiko Matsuda、作曲: [井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")、編曲: 大村雅朗
 11. **[We Are Love](../Page/We_Are_Love.md "wikilink")**　（4:34）
-      - 作詞: Seiko Matsuda、作曲: [鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")、編曲: 笹路正徳
+      - 作詞: Seiko Matsuda、作曲: [鈴木祥子](../Page/鈴木祥子.md "wikilink")、編曲: 笹路正徳
 12. **Kiss Me Please**　（4:59）
-      - 作詞: Seiko Matsuda、作曲: [高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")、編曲: 笹路正徳
+      - 作詞: Seiko Matsuda、作曲: [高橋諭一](../Page/高橋諭一.md "wikilink")、編曲: 笹路正徳
 13. **[きっと、また逢える…](../Page/きっと、また逢える….md "wikilink")**　（4:45）
-      - 作詞: Seiko Matsuda、作曲: Seiko Matsuda・[Ryo Ogura](https://ja.wikipedia.org/wiki/小倉良 "wikilink")、編曲: [Yuji Toriyama](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
+      - 作詞: Seiko Matsuda、作曲: Seiko Matsuda・[Ryo Ogura](../Page/小倉良.md "wikilink")、編曲: [Yuji Toriyama](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
 14. **Matins 〜朝の祈り〜**　（5:49）
-      - 作詞: [田久保真見](../Page/田久保真見.md "wikilink")、作曲: [上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲: 井上鑑
+      - 作詞: [田久保真見](../Page/田久保真見.md "wikilink")、作曲: [上田知華](../Page/上田知華.md "wikilink")、編曲: 井上鑑
 
 ### Disc 5
 
@@ -196,14 +196,14 @@
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        『[第45回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")』歌唱曲
 10. **It's Style**　（4:23）
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
 11. **[素敵にOnce Again](../Page/素敵にOnce_Again.md "wikilink")**　（4:48）
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        『[第46回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")』歌唱曲
 12. **想い出の”渚のバルコニー”**　（4:22）
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
 

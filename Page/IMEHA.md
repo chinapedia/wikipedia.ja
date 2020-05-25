@@ -1,7 +1,7 @@
 > この記事は[IMEHA](https://ja.wikipedia.org/wiki/IMEHA)から翻訳されています。
 
 
-**IMEHA**（イメハ）は日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。三人組で構成される。[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")を用いたヒーリング系の[インストゥルメンタルを演奏](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")・発表する。スラッキーギターサウンドを生かした作品で[KONISHIKIや](../Page/小錦八十吉_\(6代\).md "wikilink")[我那覇美奈](https://ja.wikipedia.org/wiki/我那覇美奈 "wikilink")等ともコラボレーションを行った。[2003年](../Page/2003年.md "wikilink")に[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")よりメジャーデビュー。
+**IMEHA**（イメハ）は日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。三人組で構成される。[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")を用いたヒーリング系の[インストゥルメンタルを演奏](../Page/器楽曲.md "wikilink")・発表する。スラッキーギターサウンドを生かした作品で[KONISHIKIや](../Page/小錦八十吉_\(6代\).md "wikilink")[我那覇美奈](../Page/我那覇美奈.md "wikilink")等ともコラボレーションを行った。[2003年](../Page/2003年.md "wikilink")に[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 

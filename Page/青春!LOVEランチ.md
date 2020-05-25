@@ -1,4 +1,4 @@
-> この記事は[!LOVE](https://ja.wikipedia.org/wiki/!LOVE)から翻訳されています。
+> この記事は[青春!LOVEランチ](https://ja.wikipedia.org/wiki/青春!LOVEランチ)から翻訳されています。
 
 
 **青春\!LOVEランチ**（せいしゅんラブらんち）は、[アテナ&ロビケロッツ](../Page/アテナ&ロビケロッツ.md "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -7,7 +7,7 @@
 
 [テレビ大阪](../Page/テレビ大阪.md "wikilink")制作・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列アニメ「[ロビーとケロビー](../Page/ロビーとケロビー.md "wikilink")」のオープニングテーマ。
 
-[プロモーションビデオには](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、ロビーとケロビーが[着ぐるみ](../Page/着ぐるみ.md "wikilink")で登場しているが、ケロビーについては、前作の「[勝利のBIG WAVE\!\!\!](../Page/勝利のBIG_WAVE!!!.md "wikilink")」と比べて登場時間が少なくなっている。
+[プロモーションビデオには](../Page/ミュージック・ビデオ.md "wikilink")、ロビーとケロビーが[着ぐるみ](../Page/着ぐるみ.md "wikilink")で登場しているが、ケロビーについては、前作の「[勝利のBIG WAVE\!\!\!](../Page/勝利のBIG_WAVE!!!.md "wikilink")」と比べて登場時間が少なくなっている。
 
 ## 批評
 
@@ -18,7 +18,7 @@ CDジャーナルは「理屈抜きで明るく楽しい一枚」と評した\[1
 1.  **青春\! LOVEランチ**
     （作詞・作曲:[磯崎健史](https://ja.wikipedia.org/wiki/磯崎健史 "wikilink") 編曲:[nishi-ken](https://ja.wikipedia.org/wiki/nishi-ken "wikilink")）
 2.  **夕暮れ☆シャーベット**
-    （作詞・作曲:[meg rock](https://ja.wikipedia.org/wiki/日向めぐみ "wikilink") 編曲:[加藤大祐](../Page/加藤大祐.md "wikilink")）
+    （作詞・作曲:[meg rock](../Page/日向めぐみ.md "wikilink") 編曲:[加藤大祐](../Page/加藤大祐.md "wikilink")）
 3.  青春\! LOVEランチ (Instrumental)
 
 ## 参加ミュージシャン
@@ -35,8 +35,8 @@ CDジャーナルは「理屈抜きで明るく楽しい一枚」と評した\[1
       - [新垣里沙](../Page/新垣里沙.md "wikilink")
       - [光井愛佳](../Page/光井愛佳.md "wikilink")
   - [℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")
-      - [岡井千聖](https://ja.wikipedia.org/wiki/岡井千聖 "wikilink")
-      - [中島早貴](https://ja.wikipedia.org/wiki/中島早貴 "wikilink")
+      - [岡井千聖](../Page/岡井千聖.md "wikilink")
+      - [中島早貴](../Page/中島早貴.md "wikilink")
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
-> この記事は[S.P. \&  ](https://ja.wikipedia.org/wiki/S.P._\&__)から翻訳されています。
+> この記事は[S.P.コロリョフ ロケット\&スペース コーポレーション エネルギア](https://ja.wikipedia.org/wiki/S.P.コロリョフ_ロケット\&スペース_コーポレーション_エネルギア)から翻訳されています。
 
 
-**S.P.コロリョフ ロケット&スペース コーポレーション エネルギア**または**S.P.コロリョフ・ロケット・宇宙会社「エネルギヤ」**(、略称：、英文字略称：RKK EnergiaまたはRSC Energia) は[ロシア](../Page/ロシア.md "wikilink")の[ソユーズ](https://ja.wikipedia.org/wiki/ソユーズ "wikilink")宇宙船、[プログレス補給船](../Page/プログレス補給船.md "wikilink")、人工衛星などの[宇宙機](https://ja.wikipedia.org/wiki/宇宙機 "wikilink")と[宇宙ステーション](../Page/宇宙ステーション.md "wikilink")のモジュールの設計・製造会社である。モスクワ近郊の[コロリョフに本社を置く](https://ja.wikipedia.org/wiki/コロリョフ_\(モスクワ州\) "wikilink")。
+**S.P.コロリョフ ロケット&スペース コーポレーション エネルギア**または**S.P.コロリョフ・ロケット・宇宙会社「エネルギヤ」**(、略称：、英文字略称：RKK EnergiaまたはRSC Energia) は[ロシア](../Page/ロシア.md "wikilink")の[ソユーズ](../Page/ソユーズ.md "wikilink")宇宙船、[プログレス補給船](../Page/プログレス補給船.md "wikilink")、人工衛星などの[宇宙機](../Page/宇宙機.md "wikilink")と[宇宙ステーション](../Page/宇宙ステーション.md "wikilink")のモジュールの設計・製造会社である。モスクワ近郊の[コロリョフに本社を置く](https://ja.wikipedia.org/wiki/コロリョフ_\(モスクワ州\) "wikilink")。
 
-旧[ソ連で](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")1946年[設計局](../Page/設計局.md "wikilink")の1つとして発足し、 **[セルゲイ・コロリョフ](https://ja.wikipedia.org/wiki/セルゲイ・コロリョフ "wikilink")**を指導者(1946-1966)として発展し、**コロリョフ設計局**（第1設計局、[OKB-1](https://ja.wikipedia.org/wiki/OKB-1 "wikilink")）として[ソ連、ロシアの宇宙開発を支えてきた](https://ja.wikipedia.org/wiki/ソビエト連邦の宇宙開発 "wikilink")。西側でもその実績は高く評価され[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")の建設では重要な役割を担っている。
+旧[ソ連で](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")1946年[設計局](../Page/設計局.md "wikilink")の1つとして発足し、 **[セルゲイ・コロリョフ](../Page/セルゲイ・コロリョフ.md "wikilink")**を指導者(1946-1966)として発展し、**コロリョフ設計局**（第1設計局、[OKB-1](https://ja.wikipedia.org/wiki/OKB-1 "wikilink")）として[ソ連、ロシアの宇宙開発を支えてきた](https://ja.wikipedia.org/wiki/ソビエト連邦の宇宙開発 "wikilink")。西側でもその実績は高く評価され[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink")の建設では重要な役割を担っている。
 
 ## 宇宙製品
 
-  - [クリーペル](https://ja.wikipedia.org/wiki/クリーペル "wikilink")
+  - [クリーペル](../Page/クリーペル.md "wikilink")
 
-  - [ソユーズ](https://ja.wikipedia.org/wiki/ソユーズ "wikilink")
+  - [ソユーズ](../Page/ソユーズ.md "wikilink")
 
   -
 ## 関連項目

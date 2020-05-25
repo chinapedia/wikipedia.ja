@@ -1,22 +1,22 @@
 > この記事は[Beyond the K...](https://ja.wikipedia.org/wiki/Beyond_the_K...)から翻訳されています。
 
 
-**Beyond the K...**（ビヨンド・ザ・ケイ）は、[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**Beyond the K...**（ビヨンド・ザ・ケイ）は、[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
-  - 2006年4月放送開始。[韓国人](https://ja.wikipedia.org/wiki/韓国人 "wikilink")歌手の[Kがパーソナリティーを務める](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")30分番組。
+  - 2006年4月放送開始。[韓国人](https://ja.wikipedia.org/wiki/韓国人 "wikilink")歌手の[Kがパーソナリティーを務める](../Page/K_\(歌手\).md "wikilink")30分番組。
   - 2009年9月放送終了。
   - 2009年12月特別番組として放送。
 
 ## 出演
 
-  - [K](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")
+  - [K](../Page/K_\(歌手\).md "wikilink")
 
 ## 主なコーナー
 
-  - 挑戦状 - 番組のオープニングで、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から送られてきた[早口言葉](../Page/早口言葉.md "wikilink")に挑戦する。Kが言えなかった場合は、リスナーが希望する[写真](../Page/写真.md "wikilink")が番組ホームページにアップされるが、たいてい言えない。
-  - 弾き語りリクエスト - 月1回（主に月末）の企画。リスナーからの[リクエストに応えて](https://ja.wikipedia.org/wiki/リクエスト番組 "wikilink")、Kがスタジオで[弾き語り](../Page/弾き語り.md "wikilink")で歌う。
+  - 挑戦状 - 番組のオープニングで、[リスナー](../Page/リスナー.md "wikilink")から送られてきた[早口言葉](../Page/早口言葉.md "wikilink")に挑戦する。Kが言えなかった場合は、リスナーが希望する[写真](../Page/写真.md "wikilink")が番組ホームページにアップされるが、たいてい言えない。
+  - 弾き語りリクエスト - 月1回（主に月末）の企画。リスナーからの[リクエストに応えて](../Page/リクエスト番組.md "wikilink")、Kがスタジオで[弾き語り](../Page/弾き語り.md "wikilink")で歌う。
 
 ほか
 
@@ -41,8 +41,8 @@
 
 ## 関連項目
 
-  - [K](https://ja.wikipedia.org/wiki/K_\(歌手\) "wikilink")
-  - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")
+  - [K](../Page/K_\(歌手\).md "wikilink")
+  - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")
 
 ## 外部リンク
 

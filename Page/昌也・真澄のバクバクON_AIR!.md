@@ -1,4 +1,4 @@
-> この記事は[ON AIR!](https://ja.wikipedia.org/wiki/ON_AIR!)から翻訳されています。
+> この記事は[昌也・真澄のバクバクON AIR!](https://ja.wikipedia.org/wiki/昌也・真澄のバクバクON_AIR!)から翻訳されています。
 
 
 『**昌也・真澄のバクバクON AIR\!**』（まさや・ますみのバクバクオンエア）は、[S-ラジ](https://ja.wikipedia.org/wiki/S-ラジ "wikilink")にて配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[声優](../Page/声優.md "wikilink")の[小野坂昌也](../Page/小野坂昌也.md "wikilink")と[浅野真澄](../Page/浅野真澄.md "wikilink")。

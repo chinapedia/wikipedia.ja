@@ -27,8 +27,8 @@
   - [ドクター・ドリトル2](../Page/ドクター・ドリトル2.md "wikilink") *Dr. Dolittle 2* (2001)
   - [アイ・スパイ](../Page/アイ・スパイ.md "wikilink") *I Spy* (2002)
   - チャーリーと14人のキッズ *Daddy Day Care* (2003)
-  - ファイティング×ガール *Against the Ropes* (2004)
-  - フォー・ブラザーズ/狼たちの誓い *Four Brothers* (2005)
+  - [ファイティング×ガール](../Page/ファイティング×ガール.md "wikilink") *Against the Ropes* (2004)
+  - [フォー・ブラザーズ/狼たちの誓い](https://ja.wikipedia.org/wiki/フォー・ブラザーズ/狼たちの誓い "wikilink") *Four Brothers* (2005)
   - [SHARK〜カリスマ敏腕検察官](https://ja.wikipedia.org/wiki/SHARK〜カリスマ敏腕検察官 "wikilink") *Shark* (2006-2007) テレビシリーズ
   - [ブラックパンサー](https://ja.wikipedia.org/wiki/ブラックパンサー_\(映画\) "wikilink") *Black Panther* (2018) ※[アカデミー衣裳デザイン賞](../Page/アカデミー衣裳デザイン賞.md "wikilink")受賞。
 

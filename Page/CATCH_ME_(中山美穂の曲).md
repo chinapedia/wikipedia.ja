@@ -1,4 +1,4 @@
-> この記事は[CATCH ME \(\)](https://ja.wikipedia.org/wiki/CATCH_ME_\(\))から翻訳されています。
+> この記事は[CATCH ME \(中山美穂の曲\)](https://ja.wikipedia.org/wiki/CATCH_ME_\(中山美穂の曲\))から翻訳されています。
 
 
 『**CATCH ME**』（キャッチ・ミー）は、[中山美穂](../Page/中山美穂.md "wikilink")の11枚目の[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")。(シングルレコード:K07S-10221)
@@ -49,4 +49,4 @@
   - [おヒマなら来てよネ\!](../Page/おヒマなら来てよネ!.md "wikilink")
   - [1987年の音楽](../Page/1987年の音楽.md "wikilink")
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:1987年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:ニ短調](https://ja.wikipedia.org/wiki/Category:ニ短調 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:角松敏生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:角松敏生が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:1987年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1987年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

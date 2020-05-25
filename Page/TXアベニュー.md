@@ -1,4 +1,4 @@
-> この記事は[TX](https://ja.wikipedia.org/wiki/TX)から翻訳されています。
+> この記事は[TXアベニュー](https://ja.wikipedia.org/wiki/TXアベニュー)から翻訳されています。
 
 
 **TXアベニュー** (*TX AVENUE*) は、[首都圏新都市鉄道](../Page/首都圏新都市鉄道.md "wikilink")[つくばエクスプレスの駅に隣接する商業施設である](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")。現在、[八潮](https://ja.wikipedia.org/wiki/八潮駅 "wikilink")、[守谷](https://ja.wikipedia.org/wiki/守谷駅 "wikilink")、[柏の葉キャンパス](https://ja.wikipedia.org/wiki/柏の葉キャンパス駅 "wikilink")、[流山おおたかの森](https://ja.wikipedia.org/wiki/流山おおたかの森駅 "wikilink")、[つくばの](https://ja.wikipedia.org/wiki/つくば駅 "wikilink")5駅で展開されている。また、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")[駅ビル](../Page/駅ビル.md "wikilink")「[アキバ・トリム](https://ja.wikipedia.org/wiki/アキバ・トリム "wikilink")」ではギャラリーとしてTXプラザ秋葉原を展開している。事業主は首都圏新都市鉄道。運営管理は柏の葉を除いて、株式会社ティーアンドティー（[丹青社](../Page/丹青社.md "wikilink")の100%出資子会社）が行っている。

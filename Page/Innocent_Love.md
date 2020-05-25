@@ -1,13 +1,13 @@
 > この記事は[Innocent Love](https://ja.wikipedia.org/wiki/Innocent_Love)から翻訳されています。
 
 
-**Innocent Love**（イノセント ラブ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")54枚目の[シングル](../Page/シングル.md "wikilink")。
+**Innocent Love**（イノセント ラブ）は、[2006年](../Page/2006年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")54枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
-タイトル曲は[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[みこん六姉妹](https://ja.wikipedia.org/wiki/みこん六姉妹 "wikilink")』の主題歌。『[希望の橋](../Page/希望の橋.md "wikilink")』（「[サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎_\(高橋克典のテレビドラマ\) "wikilink")」・2004年）以来3作連続でTBS系ドラマのタイアップとなったが、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）制作のドラマ主題歌は本作が初となった。
+タイトル曲は[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[みこん六姉妹](../Page/みこん六姉妹.md "wikilink")』の主題歌。『[希望の橋](../Page/希望の橋.md "wikilink")』（「[サラリーマン金太郎](https://ja.wikipedia.org/wiki/サラリーマン金太郎_\(高橋克典のテレビドラマ\) "wikilink")」・2004年）以来3作連続でTBS系ドラマのタイアップとなったが、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）制作のドラマ主題歌は本作が初となった。
 
-カップリング曲は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")イメージソング。シングルは通常版、[DVD](../Page/DVD.md "wikilink")付き限定版、紙ジャケ式限定版の3種類が発売された。
+カップリング曲は[2006年](../Page/2006年.md "wikilink")[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")イメージソング。シングルは通常版、[DVD](../Page/DVD.md "wikilink")付き限定版、紙ジャケ式限定版の3種類が発売された。
 
 ## 収録曲
 

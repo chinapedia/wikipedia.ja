@@ -1,7 +1,7 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK今金住中中継局](https://ja.wikipedia.org/wiki/NHK今金住中中継局)から翻訳されています。
 
 
-**NHK今金住中中継局**（エヌエイチケイいまかねすみなかちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[瀬棚郡](https://ja.wikipedia.org/wiki/瀬棚郡 "wikilink")[今金町](https://ja.wikipedia.org/wiki/今金町 "wikilink")中里にある[NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局 "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
+**NHK今金住中中継局**（エヌエイチケイいまかねすみなかちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[瀬棚郡](../Page/瀬棚郡.md "wikilink")[今金町](../Page/今金町.md "wikilink")中里にある[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
 
 ## 概要
 
@@ -12,12 +12,12 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">送信<br />
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">送信<br />
 チャンネル</a></p></th>
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 キーID</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK函館放送局" title="wikilink">函館</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK函館放送局.md" title="wikilink">函館</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>50</p></td>
 <td><p>アナログ放送に<br />
 つきなし</p></td>
@@ -54,7 +54,7 @@
 </tr>
 <tr class="odd">
 <td><p>NHK<br />
-函館<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+函館<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>52</p></td>
 <td><p>映像2.8W/<br />
 音声700mW</p></td>
@@ -100,7 +100,7 @@
 </tbody>
 </table>
 
-  - デジタル中継局は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付、[11月4日](../Page/11月4日.md "wikilink")から[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始、[11月30日](../Page/11月30日.md "wikilink")に本免許交付され、同日から本放送開始。
+  - デジタル中継局は、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[予備免許](../Page/予備免許.md "wikilink")交付、[11月4日](../Page/11月4日.md "wikilink")から[試験放送](../Page/試験放送.md "wikilink")開始、[11月30日](../Page/11月30日.md "wikilink")に本免許交付され、同日から本放送開始。
   - アナログ中継局は、[2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")をもって廃止された。
 
 ## その他
@@ -109,11 +109,11 @@
 
 ## 放送エリア
 
-  - [今金町](https://ja.wikipedia.org/wiki/今金町 "wikilink")の一部地域。一部地域は北桧山テレビ中継局でカバーしている。
+  - [今金町](../Page/今金町.md "wikilink")の一部地域。一部地域は北桧山テレビ中継局でカバーしている。
 
 ## 関連項目
 
-  - [今金町](https://ja.wikipedia.org/wiki/今金町 "wikilink")
-  - [NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局 "wikilink")
+  - [今金町](../Page/今金町.md "wikilink")
+  - [NHK函館放送局](../Page/NHK函館放送局.md "wikilink")
 
 [Category:渡島・檜山地方の放送送信所](https://ja.wikipedia.org/wiki/Category:渡島・檜山地方の放送送信所 "wikilink") [Category:NHK函館](https://ja.wikipedia.org/wiki/Category:NHK函館 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:今金町の建築物](https://ja.wikipedia.org/wiki/Category:今金町の建築物 "wikilink")

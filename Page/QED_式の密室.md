@@ -1,16 +1,16 @@
-> この記事は[QED ](https://ja.wikipedia.org/wiki/QED_)から翻訳されています。
+> この記事は[QED 式の密室](https://ja.wikipedia.org/wiki/QED_式の密室)から翻訳されています。
 
 
-『**QED 式の密室**』 （キューイーディー しきのみっしつ）は、[高田崇史](https://ja.wikipedia.org/wiki/高田崇史 "wikilink")による[推理小説](../Page/推理小説.md "wikilink")。[メフィスト賞](../Page/メフィスト賞.md "wikilink")受賞作家の手による密室をテーマにした競作の中の1冊。[QEDシリーズ](../Page/QEDシリーズ.md "wikilink")の第5作。
+『**QED 式の密室**』 （キューイーディー しきのみっしつ）は、[高田崇史](../Page/高田崇史.md "wikilink")による[推理小説](../Page/推理小説.md "wikilink")。[メフィスト賞](../Page/メフィスト賞.md "wikilink")受賞作家の手による密室をテーマにした競作の中の1冊。[QEDシリーズ](../Page/QEDシリーズ.md "wikilink")の第5作。
 
 ## 出版履歴
 
   - 2002年：講談社ノベルス
-  - 2005年：[講談社文庫](https://ja.wikipedia.org/wiki/講談社文庫 "wikilink")
+  - 2005年：[講談社文庫](../Page/講談社文庫.md "wikilink")
 
 ## あらすじ
 
-平成7年の正月、バー「カル・デ・サック」で、桑原が奈々に、昭和61年、桑原と小松崎の出会いのきっかけになった[密室殺人](https://ja.wikipedia.org/wiki/密室殺人 "wikilink")について語り、さらに[安倍晴明](https://ja.wikipedia.org/wiki/安倍晴明 "wikilink")、そして[式神](../Page/式神.md "wikilink")について解き明かす。
+平成7年の正月、バー「カル・デ・サック」で、桑原が奈々に、昭和61年、桑原と小松崎の出会いのきっかけになった[密室殺人](../Page/密室殺人.md "wikilink")について語り、さらに[安倍晴明](https://ja.wikipedia.org/wiki/安倍晴明 "wikilink")、そして[式神](../Page/式神.md "wikilink")について解き明かす。
 
 ## 登場人物
 

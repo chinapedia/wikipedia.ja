@@ -1,4 +1,4 @@
-> この記事は[La La La](https://ja.wikipedia.org/wiki/La_La_La)から翻訳されています。
+> この記事は[La La La…](https://ja.wikipedia.org/wiki/La_La_La…)から翻訳されています。
 
 
 「**La La La…**」（ラ・ラ・ラ）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月にリリースした30枚目のシングルである。

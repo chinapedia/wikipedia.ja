@@ -1,14 +1,16 @@
 > この記事は[Na-Ga](https://ja.wikipedia.org/wiki/Na-Ga)から翻訳されています。
 
 
-**Na-Ga**（なが ）は、[ゲーム](../Page/ゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")の[原画](../Page/原画.md "wikilink")家。[Key所属](https://ja.wikipedia.org/wiki/Key_\(ゲームブランド\) "wikilink")。[広島県](../Page/広島県.md "wikilink")生まれ。
+**Na-Ga**（なが ）は、[ゲーム](../Page/ゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")の[原画](../Page/原画.md "wikilink")家。[Key所属](../Page/Key_\(ゲームブランド\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")生まれ。
 
 ## 経歴
+
+とてもいいですねっ！
 
 ## 原画担当作品
 
   - [儚想〜あねもね〜](https://ja.wikipedia.org/wiki/儚想〜あねもね〜 "wikilink")
-  - [リトルバスターズ\!](https://ja.wikipedia.org/wiki/リトルバスターズ! "wikilink")
+  - [リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")
   - [リトルバスターズ\!エクスタシー](https://ja.wikipedia.org/wiki/リトルバスターズ!エクスタシー "wikilink")
   - [クドわふたー](https://ja.wikipedia.org/wiki/クドわふたー "wikilink")
   - [Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")
@@ -26,7 +28,7 @@
 
   - [AIR](../Page/AIR_\(ゲーム\).md "wikilink")
   - [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")
-  - [智代アフター 〜It's a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink")
+  - [智代アフター 〜It's a Wonderful Life〜](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")
   - リトルバスターズ\!
   - リトルバスターズ\!エクスタシー
   - クドわふたー

@@ -1,4 +1,4 @@
-> この記事は[Elysion ](https://ja.wikipedia.org/wiki/Elysion_)から翻訳されています。
+> この記事は[Elysion 〜楽園パレードへようこそ〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園パレードへようこそ〜)から翻訳されています。
 
 
 『**Elysion 〜楽園パレードへようこそ〜**』（エリュシオン らくえんパレードへようこそ）は、[Sound Horizon初のDVD作品](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")。[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")から発売された。
@@ -47,6 +47,6 @@
 
   - [Sound Horizon official website](http://soundhorizon.com/) - Sound Horizon公式サイト
 
-[Category:2006年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2006年の音楽関連の映像作品 "wikilink") [Category:Sound_Horizon](https://ja.wikipedia.org/wiki/Category:Sound_Horizon "wikilink")
+[Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2006年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2006年のライブ・ビデオ "wikilink") [Category:Sound_Horizonの映像作品](https://ja.wikipedia.org/wiki/Category:Sound_Horizonの映像作品 "wikilink")
 
 1.  [Sound Horizonを応援してくださっている皆様へ 2012.07.13](http://www.soundhorizon.com/information/index.html#120713)

@@ -5,7 +5,7 @@
 
 ## 大会概要
 
-メインイベントに出場した[桜庭和志](../Page/桜庭和志.md "wikilink")は[ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink")を相手に[チキンウィングアームロックで見込み一本勝ちを収めた](../Page/ダブルリストロック.md "wikilink")。
+メインイベントに出場した[桜庭和志](../Page/桜庭和志.md "wikilink")は[ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink")を相手に[チキンウィングアームロックで一本勝ちを収めた](https://ja.wikipedia.org/wiki/ダブルリストロック#チキンウィング・アームロック "wikilink")。
 
 [K-1](../Page/K-1.md "wikilink")で活躍していた[佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink")がPRIDEでの3試合目で初勝利を挙げた。
 
@@ -42,7 +42,7 @@
     1R 2:16 TKO（レフェリーストップ：スタンドパンチ連打）
   - 第10試合 PRIDEルール 10分2R
     ○  [桜庭和志](../Page/桜庭和志.md "wikilink") vs.  [ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink") ×
-    2R 9:43 TKO（レフェリーストップ：[チキンウィングアームロック](../Page/ダブルリストロック.md "wikilink")）
+    2R 9:43 TKO（レフェリーストップ：[チキンウィングアームロック](https://ja.wikipedia.org/wiki/ダブルリストロック#チキンウィング・アームロック "wikilink")）
 
 ## 関連項目
 

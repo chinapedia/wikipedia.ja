@@ -14,19 +14,20 @@
 ## メンバー
 
   - **柴山武彦**（しばやま たけひこ、[1967年](../Page/1967年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink") - ）
-      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[町田市](../Page/町田市.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")出身。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
       - 1991年10月から翌年3月まで、[NACK5](../Page/エフエムナックファイブ.md "wikilink")『[Mid Night Rock City](../Page/MIDNIGHT_ROCK_CITY.md "wikilink") II 柴山武彦の夜明けにつっこめ\!』の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")を務めた。
       - 1993年8月、[シネパトス](https://ja.wikipedia.org/wiki/シネパトス "wikilink")系[映画](../Page/映画.md "wikilink")『ドライビングハイ』に松家明比古役で出演。[南野陽子](https://ja.wikipedia.org/wiki/南野陽子 "wikilink")と共演した。
   - **佐藤秀吾**（さとう しゅうご、1967年8月25日 - ）
-      - [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")出身。血液型はB型。
+      - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")出身。血液型はB型。
       - アルバム『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink") OPERATION3』（1995年12月発売、KICA-277）の「たとえ君が微笑んでも」や、アルバム『新機動戦記ガンダムW OPERATION4』（1996年3月発売、KICA-295）の「真実を掴み取れ」で楽曲提供。
       - [城奈菜美](https://ja.wikipedia.org/wiki/城奈菜美 "wikilink")MAXI SINGLE 『星屑たちのSOLEA/たとえ君が微笑んでも〜Re-Birth Arranged 〜』（2011年8月31日発売、PGTM- 1003）でプロデュース及び楽曲提供。
+      - 2017年〜　健康家族、サントリーウェルネス、富士フィルムなどの健康食品TVインフォマーシャル番組BGMを多数担当。
 
 ### 過去のメンバー
 
   - **福田俊哉**（ふくだ としや、1967年8月3日 - ）
       - [ギター](../Page/ギター.md "wikilink")担当。神奈川県相模原市出身。血液型はA型。
-      - 1995年6月発売の、『[マクロス7](https://ja.wikipedia.org/wiki/マクロス7 "wikilink") LET'S FIRE\!\! FIRE BOMBER』（VICL-573）において、「SUBMARINE STREET」で楽曲提供。
+      - 1995年6月発売の、『[マクロス7](../Page/マクロス7.md "wikilink") LET'S FIRE\!\! FIRE BOMBER』（VICL-573）において、「SUBMARINE STREET」で楽曲提供。
       - 2014年〜ソウルシンガー 江上潤嗣 のサポートギタリストとしてライブ出演多数。
       - 2016年、黒川昌史 とともに インスト・ユニット [「梟 -FUKURO-」](http://unitfukuro.wixsite.com/fukuro-inst)を 結成。楽曲制作〜ライブ活動を精力的に展開中。
   - **酒田烈**（さかた あきら、1970年12月22日 - ）

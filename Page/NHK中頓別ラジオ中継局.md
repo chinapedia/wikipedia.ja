@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK中頓別ラジオ中継局](https://ja.wikipedia.org/wiki/NHK中頓別ラジオ中継局)から翻訳されています。
 
 
 **NHK中頓別ラジオ中継局**（エヌエイチケイなかとんべつラジオちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[枝幸郡](../Page/枝幸郡.md "wikilink")[中頓別町](../Page/中頓別町.md "wikilink")にある[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[旭川放送局の](../Page/NHK旭川放送局.md "wikilink")[中波](../Page/中波.md "wikilink")放送[中継局](../Page/中継局.md "wikilink")である。

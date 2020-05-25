@@ -5,8 +5,8 @@
 
 ## 内容
 
-  - 音楽形態は前作同様、[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、ka-yu本人は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ベースを担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
-  - 完全限定生産盤には収録曲である『I don't care』の[PVと](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")から打ち合わせまでのオフショットを収録した[DVD](../Page/DVD.md "wikilink")が付属。
+  - 音楽形態は前作同様、[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、ka-yu本人は[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ベースを担当](../Page/ベース_\(弦楽器\).md "wikilink")。
+  - 完全限定生産盤には収録曲である『I don't care』の[PVと](../Page/ミュージック・ビデオ.md "wikilink")[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")から打ち合わせまでのオフショットを収録した[DVD](../Page/DVD.md "wikilink")が付属。
   - 通常盤の初回生産盤には特典としてロゴステッカーが封入。
   - [歌詞](../Page/歌詞.md "wikilink")は全てが[英詞である](../Page/英語.md "wikilink")。
   - [レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")、[PVには](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")、[ギター](../Page/ギター.md "wikilink")に[原田喧太](../Page/原田喧太.md "wikilink")、[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")に[Ryu](https://ja.wikipedia.org/wiki/Ryu "wikilink")が参加。

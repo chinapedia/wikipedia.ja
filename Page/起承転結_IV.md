@@ -1,7 +1,7 @@
-> この記事は[ IV](https://ja.wikipedia.org/wiki/_IV)から翻訳されています。
+> この記事は[起承転結 IV](https://ja.wikipedia.org/wiki/起承転結_IV)から翻訳されています。
 
 
-『**起承転結 IV**』（きしょうてんけつ フォー）は、1987年10月にリリースされた[松山千春](../Page/松山千春.md "wikilink")の4枚目のシングル・コレクション（[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")としては5枚目）である。
+『**起承転結 IV**』（きしょうてんけつ フォー）は、1987年10月にリリースされた[松山千春](../Page/松山千春.md "wikilink")の4枚目のシングル・コレクション（[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")としては5枚目）である。
 
 ## 解説
 
@@ -16,12 +16,12 @@
 
 ## 参加ミュージシャン
 
-  - Drums：[見砂和照](https://ja.wikipedia.org/wiki/東京キューバン・ボーイズ "wikilink")・[岡本郭男](https://ja.wikipedia.org/wiki/岡本郭男 "wikilink")
-  - E.Guitar：[松原正樹](../Page/松原正樹.md "wikilink")・[芳野藤丸](https://ja.wikipedia.org/wiki/芳野藤丸 "wikilink")・角田順
+  - Drums：[見砂和照](https://ja.wikipedia.org/wiki/東京キューバン・ボーイズ "wikilink")・[岡本郭男](../Page/岡本郭男.md "wikilink")
+  - E.Guitar：[松原正樹](../Page/松原正樹.md "wikilink")・[芳野藤丸](../Page/芳野藤丸.md "wikilink")・角田順
   - A.Guitar：[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")・丸山政幸
-  - E.Bass：長岡道夫・[渡辺直樹](https://ja.wikipedia.org/wiki/渡辺直樹_\(ミュージシャン\) "wikilink")・渡辺茂
-  - Keyboards：[奥慶一](https://ja.wikipedia.org/wiki/奥慶一 "wikilink")・[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")・[倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")・有坂秀一・林政宏
-  - Percussion：[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")・[斉藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink")
+  - E.Bass：長岡道夫・[渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")・渡辺茂
+  - Keyboards：[奥慶一](../Page/奥慶一.md "wikilink")・[中西康晴](../Page/中西康晴.md "wikilink")・[倉田信雄](../Page/倉田信雄.md "wikilink")・有坂秀一・林政宏
+  - Percussion：[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")・[斉藤ノブ](../Page/斎藤ノヴ.md "wikilink")
   - Strings：[MASA SHINOZAKI](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink") GROUP, KATOH JOE GROUP
 
 ## 脚注

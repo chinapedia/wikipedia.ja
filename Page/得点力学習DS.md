@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[得点力学習DS](https://ja.wikipedia.org/wiki/得点力学習DS)から翻訳されています。
 
 
 **得点力学習DS**（とくてんりょくがくしゅうディーエス）は、[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")から発売した、唯一の中学教科書準拠の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフトである。公式サイトでの通信販売、[進研ゼミ](../Page/進研ゼミ.md "wikilink")受講者やダイレクトメールでの販売のみで、ゲームソフト取扱店での販売は行われていない。
@@ -11,11 +11,11 @@
 
 ## タイトル一覧
 
-[科目](https://ja.wikipedia.org/wiki/科目 "wikilink")や[学年](https://ja.wikipedia.org/wiki/学年 "wikilink")ごとにソフトが別々に販売されている。以下にすべてのタイトルを挙げる。
+[科目](https://ja.wikipedia.org/wiki/科目 "wikilink")や[学年](../Page/学年.md "wikilink")ごとにソフトが別々に販売されている。以下にすべてのタイトルを挙げる。
 
-  - 中1[英語](https://ja.wikipedia.org/wiki/英語_\(教科\) "wikilink")
+  - 中1[英語](../Page/英語_\(教科\).md "wikilink")
   - 中1[数学](../Page/数学_\(教科\).md "wikilink")
-  - 中1[国語](https://ja.wikipedia.org/wiki/国語_\(教科\) "wikilink")
+  - 中1[国語](../Page/国語_\(教科\).md "wikilink")
   - 中2英語
   - 中2数学
   - 中2国語
@@ -26,9 +26,9 @@
   - 中3英語
   - 中3数学
   - 中3国語
-  - 中学[公民](https://ja.wikipedia.org/wiki/公民_\(教科\) "wikilink")
+  - 中学[公民](../Page/公民_\(教科\).md "wikilink")
 
-2012年度版では理科が学年別となったほか、中学実技4教科（[音楽](../Page/音楽_\(教科\).md "wikilink")、[家庭・技術](https://ja.wikipedia.org/wiki/技術・家庭 "wikilink")、[保健体育](https://ja.wikipedia.org/wiki/体育 "wikilink")、[美術](https://ja.wikipedia.org/wiki/美術_\(教科\) "wikilink")）が追加された。
+2012年度版では理科が学年別となったほか、中学実技4教科（[音楽](../Page/音楽_\(教科\).md "wikilink")、[家庭・技術](../Page/技術・家庭.md "wikilink")、[保健体育](../Page/体育.md "wikilink")、[美術](../Page/美術_\(教科\).md "wikilink")）が追加された。
 
 以下のようなパック販売もされている。
 

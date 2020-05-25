@@ -1,7 +1,7 @@
-> この記事は[EDGE \(access\)](https://ja.wikipedia.org/wiki/EDGE_\(access\))から翻訳されています。
+> この記事は[EDGE \(accessの曲\)](https://ja.wikipedia.org/wiki/EDGE_\(accessの曲\))から翻訳されています。
 
 
-「**EDGE**」（エッジ）は、[2002年](../Page/2002年.md "wikilink")2月27日にリリースされた[accessの](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")13thシングル。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")。
+「**EDGE**」（エッジ）は、[2002年](../Page/2002年.md "wikilink")2月27日にリリースされた[accessの](../Page/Access_\(音楽ユニット\).md "wikilink")13thシングル。発売元は[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **EDGE**
-      - 作詞：[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
+      - 作詞：[貴水博之](../Page/貴水博之.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
 2.  **Especially Kiss**
       - 作詞：貴水博之　作曲・編曲：浅倉大介
 

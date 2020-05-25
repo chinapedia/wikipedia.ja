@@ -1,13 +1,13 @@
-> この記事は[Bitter \& Sweet \(RYTHEM\)](https://ja.wikipedia.org/wiki/Bitter_\&_Sweet_\(RYTHEM\))から翻訳されています。
+> この記事は[Bitter \& Sweet \(RYTHEMの曲\)](https://ja.wikipedia.org/wiki/Bitter_\&_Sweet_\(RYTHEMの曲\))から翻訳されています。
 
 
-「**Bitter & Sweet**」（ビター・アンド・スイート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/デュオ "wikilink")・[RYTHEM](https://ja.wikipedia.org/wiki/RYTHEM "wikilink")の1作目の[配信限定シングル](https://ja.wikipedia.org/wiki/シングル#シングルの媒体 "wikilink")。
+「**Bitter & Sweet**」（ビター・アンド・スイート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](../Page/デュオ.md "wikilink")・[RYTHEM](../Page/RYTHEM.md "wikilink")の1作目の[配信限定シングル](https://ja.wikipedia.org/wiki/シングル#シングルの媒体 "wikilink")。
 
 ## 解説
 
   - RYTHEM初の配信限定シングルで、シングル曲としては初のYUKA作詞作曲である。
   - [ソニー・ミュージックエンタテインメントの着うた配信で](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、ウィークリーで1位を獲得した作品である。
-  - ビデオクリップはドラマ仕立てとなっており、監督は[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[中江功](../Page/中江功.md "wikilink")、主演は[佐藤めぐみ](https://ja.wikipedia.org/wiki/佐藤めぐみ "wikilink")と[細田よしひこである](https://ja.wikipedia.org/wiki/細田善彦 "wikilink")。なお、着ムービーは[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")バージョンと[auバージョンがあり](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、両者でドラマの結末が異なっている。
+  - ビデオクリップはドラマ仕立てとなっており、監督は[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[中江功](../Page/中江功.md "wikilink")、主演は[佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")と[細田よしひこである](../Page/細田善彦.md "wikilink")。なお、着ムービーは[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")バージョンと[auバージョンがあり](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、両者でドラマの結末が異なっている。
   - プロモーションビデオの中に出ているスポーツは[ラクロス](../Page/ラクロス.md "wikilink")である。
   - なお、同曲はアルバム『[23](https://ja.wikipedia.org/wiki/23_\(RYTHEMのアルバム\) "wikilink")』に収録された。初回限定盤に付属されている[DVD](../Page/DVD.md "wikilink")に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")バージョンのビデオクリップが収録されている。
 

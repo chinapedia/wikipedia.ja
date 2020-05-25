@@ -1,7 +1,7 @@
-> この記事は[ \(Kiroro\)](https://ja.wikipedia.org/wiki/_\(Kiroro\))から翻訳されています。
+> この記事は[生きてこそ \(Kiroroの曲\)](https://ja.wikipedia.org/wiki/生きてこそ_\(Kiroroの曲\))から翻訳されています。
 
 
-「**生きてこそ**」（いきてこそ）は、[Kiroro](../Page/Kiroro.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+「**生きてこそ**」（いきてこそ）は、[Kiroro](../Page/Kiroro.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 1.  **生きてこそ**
       -
-        （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink"):玉城千春、[作曲](../Page/作曲.md "wikilink"):Kiroro、[編曲](../Page/編曲.md "wikilink"):[重実徹](../Page/重実徹.md "wikilink")）
+        （[作詞](../Page/作詞.md "wikilink"):玉城千春、[作曲](../Page/作曲.md "wikilink"):Kiroro、[編曲](../Page/編曲.md "wikilink"):[重実徹](../Page/重実徹.md "wikilink")）
 2.  **生きてこそ〜TV ver.〜**
       -
         （作詞:玉城千春、作曲:Kiroro、編曲:重実徹）
@@ -23,9 +23,9 @@
 
 ## カヴァー
 
-  - AKI - [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『ぼよよん行進曲 新こどものうたヒットパレード』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売）などに収録
+  - AKI - [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『ぼよよん行進曲 新こどものうたヒットパレード』（[2006年](../Page/2006年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")発売）などに収録
   - [タンポポ児童合唱団](https://ja.wikipedia.org/wiki/タンポポ児童合唱団 "wikilink") - コンピレーション・アルバム『手紙・まあるいいのち〜卒業&合唱ソングコレクション〜』（[2009年](../Page/2009年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")発売）などに収録
   - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink") - アルバム『まんまる』（[2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")発売・ZMCZ-5087）収録
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")　- アルバム『[Heartful Song Covers](https://ja.wikipedia.org/wiki/Heartful_Song_Covers "wikilink")』（[2014年](../Page/2014年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")発売）、『[May J. W BEST -Original & Covers-](https://ja.wikipedia.org/wiki/May_J._W_BEST_-Original_&_Covers- "wikilink")』（2015年1月1日発売）収録
 
-[Category:Kiroroの楽曲](https://ja.wikipedia.org/wiki/Category:Kiroroの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:ムシキング](https://ja.wikipedia.org/wiki/Category:ムシキング "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink") [Category:変ホ長調](https://ja.wikipedia.org/wiki/Category:変ホ長調 "wikilink")
+[Category:Kiroroの楽曲](https://ja.wikipedia.org/wiki/Category:Kiroroの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:テレビ東京のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビアニメ主題歌 "wikilink") [Category:ムシキング](https://ja.wikipedia.org/wiki/Category:ムシキング "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

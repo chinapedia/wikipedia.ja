@@ -1,4 +1,4 @@
-> この記事は[37IBAF](https://ja.wikipedia.org/wiki/37IBAF)から翻訳されています。
+> この記事は[第37回IBAFワールドカップ日本代表](https://ja.wikipedia.org/wiki/第37回IBAFワールドカップ日本代表)から翻訳されています。
 
 
 **第37回IBAFワールドカップ日本代表**（だい37かいIBAFワールドカップにっぽんだいひょう）は、11月に[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")各地において行われた[第37回IBAFワールドカップ](https://ja.wikipedia.org/wiki/第37回IBAFワールドカップ "wikilink")に出場するために編成された[野球](../Page/野球.md "wikilink")の日本代表チームである。

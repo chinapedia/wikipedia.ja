@@ -117,7 +117,7 @@
 ## その他施設
 
   - [プラネタリウム](../Page/プラネタリウム.md "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")田辺支局
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")田辺支局
   - NPO法人[情報セキュリティ研究所](https://ja.wikipedia.org/wiki/情報セキュリティ研究所 "wikilink")
       -
         1997年より毎年5月に「サイバー犯罪に関する白浜シンポジウム」を主催している（本施設を会場としたのは2005年から）\[8\]。

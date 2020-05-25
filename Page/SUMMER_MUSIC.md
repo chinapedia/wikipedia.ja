@@ -1,7 +1,7 @@
 > この記事は[SUMMER MUSIC](https://ja.wikipedia.org/wiki/SUMMER_MUSIC)から翻訳されています。
 
 
-「**SUMMER MUSIC**」（サマーミュージック）は、[キンモクセイの](../Page/キンモクセイ_\(バンド\).md "wikilink")12作目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+「**SUMMER MUSIC**」（サマーミュージック）は、[キンモクセイの](../Page/キンモクセイ_\(バンド\).md "wikilink")12作目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 解説
 
@@ -23,7 +23,7 @@
 
 ## 収録アルバム
 
-  - [13月のバラード](https://ja.wikipedia.org/wiki/13月のバラード "wikilink") (\#1,2、\#2はmore 陽炎 version)
-  - [ベスト・コンディション 〜kinmokusei single collection〜](https://ja.wikipedia.org/wiki/ベスト・コンディション_〜kinmokusei_single_collection〜 "wikilink") (\#1,2)
+  - [13月のバラード](../Page/13月のバラード.md "wikilink") (\#1,2、\#2はmore 陽炎 version)
+  - [ベスト・コンディション 〜kinmokusei single collection〜](../Page/ベスト・コンディション_〜kinmokusei_single_collection〜.md "wikilink") (\#1,2)
 
 [Category:キンモクセイの楽曲](https://ja.wikipedia.org/wiki/Category:キンモクセイの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")

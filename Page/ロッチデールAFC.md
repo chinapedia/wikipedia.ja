@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[ロッチデールAFC](https://ja.wikipedia.org/wiki/ロッチデールAFC)から翻訳されています。
 
 
 **ロッチデール・アソシエイション・フットボール・クラブ**（**Rochdale Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[グレーター・マンチェスター](../Page/グレーター・マンチェスター.md "wikilink")、[ロッチデール](https://ja.wikipedia.org/wiki/ロッチデール "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。2019-2020シーズンは3部リーグである[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")に所属。

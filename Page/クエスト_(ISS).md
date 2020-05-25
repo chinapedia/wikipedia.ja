@@ -1,7 +1,7 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[クエスト \(ISS\)](https://ja.wikipedia.org/wiki/クエスト_\(ISS\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:ISS_Quest_airlock.jpg "wikilink") **クエスト**（*Quest Joint Airlock*、以前は*Joint Airlock Module*と呼ばれていた）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) の最初の[エアロック](../Page/エアロック.md "wikilink")である。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[船外活動宇宙服](https://ja.wikipedia.org/wiki/船外活動宇宙服 "wikilink") ([EMU](https://ja.wikipedia.org/wiki/:en:Extravehicular_Mobility_Unit "wikilink")) と[ロシア](../Page/ロシア.md "wikilink")の[オーラン宇宙服](https://ja.wikipedia.org/wiki/オーラン宇宙服 "wikilink") ([Orlan](https://ja.wikipedia.org/wiki/:en:Orlan_space_suit "wikilink")) のどちらでも[船外活動](https://ja.wikipedia.org/wiki/船外活動 "wikilink")を行なえるように設計された。クエストが取り付けられる以前は、オーラン宇宙服を使うロシアの船外活動は[ズヴェズダからしか行えず](../Page/ズヴェズダ_\(ISS\).md "wikilink")、船外活動宇宙服を使うアメリカの船外活動は[スペースシャトル](../Page/スペースシャトル.md "wikilink")がドッキングしている時だけに限られていた。[2001年](../Page/2001年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[ピアースが到着し](https://ja.wikipedia.org/wiki/ピアース_\(ISS\) "wikilink")、オーラン宇宙服での船外活動ができるエアロックが備わった。
+[thumb](https://ja.wikipedia.org/wiki/画像:ISS_Quest_airlock.jpg "wikilink") **クエスト**（*Quest Joint Airlock*、以前は*Joint Airlock Module*と呼ばれていた）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) の最初の[エアロック](../Page/エアロック.md "wikilink")である。[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[船外活動宇宙服](https://ja.wikipedia.org/wiki/船外活動宇宙服 "wikilink") ([EMU](https://ja.wikipedia.org/wiki/:en:Extravehicular_Mobility_Unit "wikilink")) と[ロシア](../Page/ロシア.md "wikilink")の[オーラン宇宙服](https://ja.wikipedia.org/wiki/オーラン宇宙服 "wikilink") ([Orlan](https://ja.wikipedia.org/wiki/:en:Orlan_space_suit "wikilink")) のどちらでも[船外活動](../Page/船外活動.md "wikilink")を行なえるように設計された。クエストが取り付けられる以前は、オーラン宇宙服を使うロシアの船外活動は[ズヴェズダからしか行えず](../Page/ズヴェズダ_\(ISS\).md "wikilink")、船外活動宇宙服を使うアメリカの船外活動は[スペースシャトル](../Page/スペースシャトル.md "wikilink")がドッキングしている時だけに限られていた。[2001年](../Page/2001年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[ピアースが到着し](https://ja.wikipedia.org/wiki/ピアース_\(ISS\) "wikilink")、オーラン宇宙服での船外活動ができるエアロックが備わった。
 
 ## 設計
 
@@ -17,7 +17,7 @@
 
 ## 建造
 
-エアロックとタンクのシステムは[アルミニウム](../Page/アルミニウム.md "wikilink")製で、[ボーイング](../Page/ボーイング.md "wikilink")社により[アラバマ州](../Page/アラバマ州.md "wikilink")[ハンツビル](https://ja.wikipedia.org/wiki/ハンツビル "wikilink")にある[NASAの](../Page/アメリカ航空宇宙局.md "wikilink")[マーシャル宇宙飛行センター](https://ja.wikipedia.org/wiki/マーシャル宇宙飛行センター "wikilink")でテストされた。
+エアロックとタンクのシステムは[アルミニウム](../Page/アルミニウム.md "wikilink")製で、[ボーイング](../Page/ボーイング.md "wikilink")社により[アラバマ州](../Page/アラバマ州.md "wikilink")[ハンツビル](../Page/ハンツビル.md "wikilink")にある[NASAの](../Page/アメリカ航空宇宙局.md "wikilink")[マーシャル宇宙飛行センター](https://ja.wikipedia.org/wiki/マーシャル宇宙飛行センター "wikilink")でテストされた。
 
 ## エアロックの諸元
 
@@ -32,10 +32,10 @@
 
 ## 外部リンク
 
-  - [クエスト（エアロック）](http://iss.jaxa.jp/glossary/jp/ku/quest.html) - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")　
+  - [クエスト（エアロック）](https://iss.jaxa.jp/glossary/jp/ku/quest.html) - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")　
   - [Quest Joint Airlock](http://www.nasa.gov/mission_pages/station/structure/elements/quest.html) -- [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")
 
-[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink")
 
 1.
 2.  <http://iss.jaxa.jp/iss/ulf6/mission/overview/eva/eva3/>

@@ -160,7 +160,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [田中寛人](../Page/田中寛人.md "wikilink")（たなか・ひろと）
   - [松村正代](../Page/松村正代.md "wikilink")（まつむら・まさよ）
   - [西川典孝](https://ja.wikipedia.org/wiki/西川典孝 "wikilink")（にしかわ・のりたか）
-  - [川口由梨香](https://ja.wikipedia.org/wiki/川口由梨香 "wikilink")（かわぐち・ゆりか）
+  - [川口由梨香](../Page/川口由梨香.md "wikilink")（かわぐち・ゆりか）
 
 ### 新潟放送局放送部
 

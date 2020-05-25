@@ -1,4 +1,4 @@
-> この記事は[Because of you \(\)](https://ja.wikipedia.org/wiki/Because_of_you_\(\))から翻訳されています。
+> この記事は[Because of you \(ステファニーの曲\)](https://ja.wikipedia.org/wiki/Because_of_you_\(ステファニーの曲\))から翻訳されています。
 
 
 「**because of you**」（ビコーズ オブ ユー）は、[ステファニーの](../Page/ステファニー_\(1987年生の歌手\).md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  because of you
-      - 作詞：[STEPHANIE](../Page/ステファニー_\(1987年生の歌手\).md "wikilink") & [矢住夏菜](../Page/矢住夏菜.md "wikilink") 作曲：[ジョー・リノイエ](https://ja.wikipedia.org/wiki/ジョー・リノイエ "wikilink") 編曲：ジョー・リノイエ & [長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+      - 作詞：[STEPHANIE](../Page/ステファニー_\(1987年生の歌手\).md "wikilink") & [矢住夏菜](../Page/矢住夏菜.md "wikilink") 作曲：[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink") 編曲：ジョー・リノイエ & [長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[キスダム -ENGAGE planet-](../Page/キスダム_-ENGAGE_planet-.md "wikilink")』後期エンディングテーマ
 2.  To. Be. Me.
       - 作詞：STEPHANIE & 矢住夏菜 作曲・編曲：ジョー・リノイエ & [峰正典](https://ja.wikipedia.org/wiki/峰正典 "wikilink")

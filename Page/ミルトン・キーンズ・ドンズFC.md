@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ミルトン・キーンズ・ドンズFC](https://ja.wikipedia.org/wiki/ミルトン・キーンズ・ドンズFC)から翻訳されています。
 
 
 **ミルトン・キーンズ・ドンズ・フットボール・クラブ**（**Milton Keynes Dons Football Club** ）は、イングランドの[ミルトン・キーンズ](https://ja.wikipedia.org/wiki/ミルトン・キーンズ "wikilink")を本拠地とするサッカークラブチームである。
@@ -130,7 +130,7 @@
 <td><p>{{#expr:25/46*100 round 1}}</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・インス" title="wikilink">ポール・インス</a></p></td>
+<td><p><a href="../Page/ポール・インス.md" title="wikilink">ポール・インス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,7 +152,7 @@
 <td><p>{{#expr: 22/40 * 100 round 1}}</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・インス" title="wikilink">ポール・インス</a></p></td>
+<td><p><a href="../Page/ポール・インス.md" title="wikilink">ポール・インス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -202,7 +202,7 @@
 
   - [トーレ・アンドレ・フロー](../Page/トーレ・アンドレ・フロー.md "wikilink") 2008-2009
 
-  - [アラン・スミス](https://ja.wikipedia.org/wiki/アラン・スミス "wikilink") 2012-2014
+  - [アラン・スミス](../Page/アラン・スミス.md "wikilink") 2012-2014
 
 ## 脚注
 

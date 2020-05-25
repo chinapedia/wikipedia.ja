@@ -9,7 +9,7 @@
 
 2007年11月には、関連芸能プロダクションとして**[ドワンゴアーティストプロダクション](../Page/ドワンゴアーティストプロダクション.md "wikilink")**を設立、主に声優としての卒業生を受け入れる。
 
-2010年4月1日、MAGES.の前身となる[株式会社AG-ONEが](https://ja.wikipedia.org/wiki/AG-ONE "wikilink")、ドワンゴ プランニング アンド ディベロップメントを吸収合併。以降、声優とアーティストのくくりが薄くなっていく。
+2010年4月1日、MAGES.の前身となる[株式会社AG-ONEが](../Page/AG-ONE.md "wikilink")、ドワンゴ プランニング アンド ディベロップメントを吸収合併。以降、声優とアーティストのくくりが薄くなっていく。
 
 一方、同4月22日には、AG-ONEが同じく、MAGES.の前身となる[株式会社5pb.と資本提携し](https://ja.wikipedia.org/wiki/5pb.#旧株式会社5pb. "wikilink")、新たに芸能プロダクション**アークレイ**（現アミュレート）を設立、この時点でアークレイとドワンゴクリエイティブスクールの直接連携はなかったが、2011年4月にドワンゴアーティストプロダクションの在籍者（一部除く）が一斉にアークレイに移籍して、事実上の統合が行われると連携が始まる。
 
@@ -46,7 +46,7 @@
 
 ## 所在地
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田三崎町](../Page/神田三崎町.md "wikilink")2-2-2 加藤ビル2F
+  - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田三崎町](../Page/神田三崎町.md "wikilink")2-2-2 加藤ビル2F
 
 ## アクセス
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - [鈴木裕斗](https://ja.wikipedia.org/wiki/鈴木裕斗 "wikilink")
+  - [鈴木裕斗](../Page/鈴木裕斗.md "wikilink")
   - [武内駿輔](https://ja.wikipedia.org/wiki/武内駿輔 "wikilink")
   - [木野日菜](https://ja.wikipedia.org/wiki/木野日菜 "wikilink")
   - [橘田いずみ](https://ja.wikipedia.org/wiki/橘田いずみ "wikilink")
@@ -71,7 +71,7 @@
   - [宝木久美](https://ja.wikipedia.org/wiki/宝木久美 "wikilink")
   - [鳴海杏子](https://ja.wikipedia.org/wiki/鳴海杏子 "wikilink")
   - [山田梨奈](https://ja.wikipedia.org/wiki/山田梨奈 "wikilink")
-  - [千晶まひろ](https://ja.wikipedia.org/wiki/千晶まひろ "wikilink")
+  - [千晶まひろ](../Page/千晶まひろ.md "wikilink")
   - [加瀬愛奈](https://ja.wikipedia.org/wiki/加瀬愛奈 "wikilink")
 
 ## 出典
@@ -82,7 +82,7 @@
 
 ## 関連項目
 
-  - [ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")
+  - [ドワンゴ](../Page/ドワンゴ.md "wikilink")
   - [ドワンゴアーティストプロダクション](../Page/ドワンゴアーティストプロダクション.md "wikilink")
   - [アニメロ新人オーディション](https://ja.wikipedia.org/wiki/アニメロ新人オーディション "wikilink")
   - [Animelo Summer Live](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")

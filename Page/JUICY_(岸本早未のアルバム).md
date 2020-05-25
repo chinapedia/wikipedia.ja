@@ -1,4 +1,4 @@
-> この記事は[JUICY \(\)](https://ja.wikipedia.org/wiki/JUICY_\(\))から翻訳されています。
+> この記事は[JUICY \(岸本早未のアルバム\)](https://ja.wikipedia.org/wiki/JUICY_\(岸本早未のアルバム\))から翻訳されています。
 
 
 **JUICY**（ジューシー）は、[岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。
@@ -13,10 +13,10 @@
 
 1.  **[ユメリアル](../Page/ユメリアル.md "wikilink")**
       -
-        作詞:岸本早未 作曲:[後藤康二](https://ja.wikipedia.org/wiki/後藤康二 "wikilink") 編曲:舛井功
+        作詞:岸本早未 作曲:[後藤康二](../Page/後藤康二.md "wikilink") 編曲:舛井功
 2.  **[風に向かい歩くように](../Page/風に向かい歩くように.md "wikilink")**
       -
-        作詞:[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink") 作曲:[大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink") 編曲:[小林哲](../Page/小林哲.md "wikilink")
+        作詞:[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink") 作曲:[大野愛果](../Page/大野愛果.md "wikilink") 編曲:[小林哲](../Page/小林哲.md "wikilink")
 3.  **[素敵な夢みようね](../Page/素敵な夢みようね.md "wikilink")**
       -
         作詞:AZUKI七 作曲:大野愛果 編曲:[豆田将](../Page/豆田将.md "wikilink")
@@ -28,10 +28,10 @@
         作詞:AZUKI七 作曲:村田浩一・加藤功美 編曲:AKIRA
 6.  **[Dessert Days](../Page/Dessert_Days.md "wikilink")**
       -
-        作詞:AZUKI七 作曲:[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") 編曲:豆田将
+        作詞:AZUKI七 作曲:[輝門](../Page/輝門.md "wikilink") 編曲:豆田将
 7.  **Memory**
       -
-        作詞:岸本早未 作曲・編曲:[小澤正澄](https://ja.wikipedia.org/wiki/小澤正澄 "wikilink")
+        作詞:岸本早未 作曲・編曲:[小澤正澄](../Page/小澤正澄.md "wikilink")
 8.  **[みえないストーリー](../Page/みえないストーリー.md "wikilink")**
       -
         作詞:AZUKI七 作曲:大野愛果 編曲:小林哲
@@ -40,7 +40,7 @@
         作詞:AZUKI七 作曲:[綿貫正顕](../Page/綿貫正顕.md "wikilink") 編曲:[尾城九龍](../Page/尾城九龍.md "wikilink")
 10. **[君だけのLove Song](../Page/素敵な夢みようね.md "wikilink")**
       -
-        作詞:岸本早未 作曲・編曲:[小澤正澄](https://ja.wikipedia.org/wiki/小澤正澄 "wikilink")
+        作詞:岸本早未 作曲・編曲:[小澤正澄](../Page/小澤正澄.md "wikilink")
 11. **clear days**
       -
         作詞:岸本早未 作曲:輝門 編曲:小林哲
@@ -51,8 +51,8 @@
 ## 参加ミュージシャン
 
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス
-  - [大田紳一郎](https://ja.wikipedia.org/wiki/大田紳一郎 "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - コーラス
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - コーラス
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
 
 ## 関連項目
 

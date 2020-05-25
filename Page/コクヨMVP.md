@@ -1,4 +1,4 @@
-> この記事は[MVP](https://ja.wikipedia.org/wiki/MVP)から翻訳されています。
+> この記事は[コクヨMVP](https://ja.wikipedia.org/wiki/コクヨMVP)から翻訳されています。
 
 
 **株式会社コクヨMVP**(英文表記:**KOKUYO MVP Co., Ltd.**)は、ファイルやバインダー等の収録用品、及びカスタム製品を生産する[コクヨ](../Page/コクヨ.md "wikilink")株式会社の[連結子会社](../Page/連結子会社.md "wikilink")である。本社は[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")に所在。

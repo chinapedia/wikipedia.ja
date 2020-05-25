@@ -1,13 +1,13 @@
-> この記事は[EXTRAVAGANZA ](https://ja.wikipedia.org/wiki/EXTRAVAGANZA_)から翻訳されています。
+> この記事は[EXTRAVAGANZA 〜蟲愛でる少女〜](https://ja.wikipedia.org/wiki/EXTRAVAGANZA_〜蟲愛でる少女〜)から翻訳されています。
 
 
-『**EXTRAVAGANZA 〜蟲愛でる少女〜**』（エクストラヴァガンザ - ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月27日](https://ja.wikipedia.org/wiki/10月27日 "wikilink")に[BLACK Cycから発売された](https://ja.wikipedia.org/wiki/Cyc_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
+『**EXTRAVAGANZA 〜蟲愛でる少女〜**』（エクストラヴァガンザ - ）は、[2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[BLACK Cycから発売された](../Page/Cyc_\(ブランド\).md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
 
 本項では、2016年5月27日に発売されたファンディスク『EXTRAVAGANZA〜蟲狂編〜』（エクストラヴァガンザ むしぐるいへん、以下：蟲狂編）についても解説する。
 
 ## 概要
 
-本作は、ブラックサイクより発売されたアダルトゲーム「[蟲使い](https://ja.wikipedia.org/wiki/蟲使い "wikilink")」の[パラレルワールド](https://ja.wikipedia.org/wiki/パラレルワールド "wikilink")として位置づけられており、メーカーカラーを色濃く反映したダークな作品となっている\[1\]。登場する女性が蟲から[触手責め](https://ja.wikipedia.org/wiki/触手責め "wikilink")を受けて陵辱・惨殺されたり、残酷な[人体実験](../Page/人体実験.md "wikilink")にかけられるなど猟奇的なシーンが目立ち\[2\]、いわゆる[陵辱ゲーム](https://ja.wikipedia.org/wiki/陵辱ゲーム "wikilink")、[鬼畜ゲーム](https://ja.wikipedia.org/wiki/鬼畜ゲーム "wikilink")のカテゴリに分類される作品だが、その中でも特に人を選ぶ仕上がりとなっている。
+本作は、ブラックサイクより発売されたアダルトゲーム「[蟲使い](https://ja.wikipedia.org/wiki/蟲使い "wikilink")」の[パラレルワールド](../Page/パラレルワールド.md "wikilink")として位置づけられており、メーカーカラーを色濃く反映したダークな作品となっている\[1\]。登場する女性が蟲から[触手責め](../Page/触手責め.md "wikilink")を受けて陵辱・惨殺されたり、残酷な[人体実験](../Page/人体実験.md "wikilink")にかけられるなど猟奇的なシーンが目立ち\[2\]、いわゆる[陵辱ゲーム](https://ja.wikipedia.org/wiki/陵辱ゲーム "wikilink")、[鬼畜ゲーム](https://ja.wikipedia.org/wiki/鬼畜ゲーム "wikilink")のカテゴリに分類される作品だが、その中でも特に人を選ぶ仕上がりとなっている。
 
 また、ストーリー面でもヒロインが善意からとった行動が他人を絶望の淵に叩き落とす結果になったり、あるいは、ヒロインが誰かから裏切られ人間的な生活を奪われるなど、プレイヤーに絶望感を抱かせる展開が多い。その一方で、ヒロインとヒロインのたった一人の[家族](../Page/家族.md "wikilink")である蟲とのふれあいを通して、家族愛という大きなテーマが描かれている。メーカーによる人気投票では、人間ですらない蟲が、女性陣を牛蒡抜きにして1位の座を奪う結果となっている。
 
@@ -32,7 +32,7 @@ Jinmu Corporationの社長令嬢である神武美弥香誘拐事件が発端と
     本作の主人公。
     ごく普通の家庭に生まれ育ったが、煉悟とサユリの戦闘に巻き込まれたことで両親を失い、蟲を繁殖させるための苗床として煉悟に誘拐される。
     蟲を出産後、煉悟を殺害し、たった一人の家族となった蟲と共に逃げ出し、そこから蟲愛でる少女の15年に渡る物語が始まる。
-    [パソコンパラダイス](https://ja.wikipedia.org/wiki/パソコンパラダイス "wikilink")に連載された『蟲狂編』の小説の中では、刻凍る果ての獣魔とともに蟲使いの村に住んでいる\[4\]。
+    [パソコンパラダイス](../Page/パソコンパラダイス.md "wikilink")に連載された『蟲狂編』の小説の中では、刻凍る果ての獣魔とともに蟲使いの村に住んでいる\[4\]。
   - 刻凍る果ての獣魔
     煉悟によって蟲使いの村から持ち出され、夢美の胎内で孵化した獣魔蟲のうちの一体。
     母親である夢美と心を通わせることができる。高い戦闘力を有し、夢美をたびたび窮地から救う。
@@ -72,7 +72,7 @@ Jinmu Corporationの社長令嬢である神武美弥香誘拐事件が発端と
     獣魔のために一度は夢美を助けるが、その後の選択によっては彼女を見殺しにしたり、自ら手を下して殺害するか、あるいは夢美と獣魔蟲に闘いを挑んだ末に死亡する。
     『蟲狂編』では 夢美に敗れた結果、獣魔蟲の監視という名目で村から追い出され、Jinmu Corporationのビルの一室に引っ越した。
   - 神楽坂 杏子（かぐらざか あんず）
-    声：[春日アン](https://ja.wikipedia.org/wiki/春日アン "wikilink")
+    声：[春日アン](../Page/春日アン.md "wikilink")
     夢美がバイトをしているカフェの店長で、夢美のことを理解している。
   - 神武 美弥香（じんむ みやか）
     声：[咲ゆたか](https://ja.wikipedia.org/wiki/咲ゆたか "wikilink")
@@ -121,7 +121,7 @@ Jinmu Corporationの社長令嬢である神武美弥香誘拐事件が発端と
     「EXTRAVAGANZA 〜蟲愛でる少女〜」の初回特典のCD。単体動作する追加シナリオ。
     カフェAnzUを舞台に、夢美とアゲハが性的な奉仕をするという内容で、本編とは対照的に明るいものとなっている。
   - 夢美陵辱
-    [メッセサンオー](https://ja.wikipedia.org/wiki/メッセサンオー "wikilink")の販売特典。単体動作する追加シナリオ。タイトル通り夢美が陵辱される内容である。
+    [メッセサンオー](../Page/メッセサンオー.md "wikilink")の販売特典。単体動作する追加シナリオ。タイトル通り夢美が陵辱される内容である。
   - オリジナルサウンドトラックCD
     オフィシャル通販予約特典。本編で使用されたBGMを収録した音楽CD。
   - EXTRA VA MIZUNA
@@ -136,8 +136,8 @@ Jinmu Corporationの社長令嬢である神武美弥香誘拐事件が発端と
       - 原画・彩色：[上田メタヲ](https://ja.wikipedia.org/wiki/上田メタヲ "wikilink")
       - 企画・ゲームデザイン・シナリオ・スクリプト：[和泉万夜](https://ja.wikipedia.org/wiki/和泉万夜 "wikilink")
       - 主題歌：Sudden Death R99
-    :\* 作詞：華憐([電気式華憐音楽集団](https://ja.wikipedia.org/wiki/電気式華憐音楽集団 "wikilink"))
-    :\* 作曲・編曲：電気([電気式華憐音楽集団](https://ja.wikipedia.org/wiki/電気式華憐音楽集団 "wikilink"))
+    :\* 作詞：華憐([電気式華憐音楽集団](../Page/電気式華憐音楽集団.md "wikilink"))
+    :\* 作曲・編曲：電気([電気式華憐音楽集団](../Page/電気式華憐音楽集団.md "wikilink"))
   - AGEHA 〜EXTRAVAGANZA〜
     2009年5月31日にCyc Members専用作品として発売された。\[9\]
     アゲハと新キャラクターであるシュミが登場する。
@@ -172,7 +172,7 @@ Jinmu Corporationの社長令嬢である神武美弥香誘拐事件が発端と
 
 ## 出典
 
-[Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:猟奇作品](https://ja.wikipedia.org/wiki/Category:猟奇作品 "wikilink") [Category:鬼畜系](https://ja.wikipedia.org/wiki/Category:鬼畜系 "wikilink")
+[Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink") [Category:DVDPG](https://ja.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:猟奇ゲーム](https://ja.wikipedia.org/wiki/Category:猟奇ゲーム "wikilink") [Category:鬼畜系](https://ja.wikipedia.org/wiki/Category:鬼畜系 "wikilink")
 
 1.
 2.

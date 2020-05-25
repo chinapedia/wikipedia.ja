@@ -1,7 +1,7 @@
 > この記事は[LIFIT](https://ja.wikipedia.org/wiki/LIFIT)から翻訳されています。
 
 
-**LIFIT(ライフィット)**とは、株式会社ターボデータラボラトリーが開発し、販売しているオンメモリ型データ処理エンジン[DayDa.Laboo](https://ja.wikipedia.org/wiki/DayDa.Laboo "wikilink")に接続するための、[スプレットシート](https://ja.wikipedia.org/wiki/スプレットシート "wikilink")型[データベース接続クライアント](https://ja.wikipedia.org/wiki/データベース接続クライアント "wikilink")ソフトである。
+**LIFIT(ライフィット)**とは、株式会社ターボデータラボラトリーが開発し、販売しているオンメモリ型データ処理エンジン[DayDa.Laboo](../Page/DayDa.Laboo.md "wikilink")に接続するための、[スプレットシート](https://ja.wikipedia.org/wiki/スプレットシート "wikilink")型[データベース接続クライアント](../Page/データベース接続クライアント.md "wikilink")ソフトである。
 
 [Oracle Databaseにおける](../Page/Oracle_Database.md "wikilink")[SQL\*Plus](https://ja.wikipedia.org/wiki/SQL*Plus "wikilink")にあたるGUIアプリケーションである。
 
@@ -13,7 +13,7 @@
   - 操作オペレーションが[マクロ](../Page/マクロ言語.md "wikilink")[ログとして](../Page/データログ.md "wikilink"),GUI上に生成・表示される。又自動出力ログとして記録される。
   - [マクロ](../Page/マクロ言語.md "wikilink")[ログを使って実行することにより](../Page/データログ.md "wikilink")、[Microsoft Excelの](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")「マクロの自動記録・実行」と同様な処理が可能。
   - Javaで作成されたGUIである。\[1\]
-  - [DayDa.Laboo](https://ja.wikipedia.org/wiki/DayDa.Laboo "wikilink")エンジンとの接続タイプには、「Nタイプ\[2\]」「Sタイプ\[3\]」の二種類が存在する。
+  - [DayDa.Laboo](../Page/DayDa.Laboo.md "wikilink")エンジンとの接続タイプには、「Nタイプ\[2\]」「Sタイプ\[3\]」の二種類が存在する。
 
 ### 特性(DAYDA.Labooエンジン側)
 
@@ -42,9 +42,9 @@
 ### できないこと
 
   - [SQL](../Page/SQL.md "wikilink")を使うことができない。
-  - 固定長の[ファイル読込をエンジン側はサポートしているが](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")に操作ビューが存在しない。
+  - 固定長の[ファイル読込をエンジン側はサポートしているが](../Page/ファイル_\(コンピュータ\).md "wikilink")、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")に操作ビューが存在しない。
   - グラフを作成、表示する事や、印刷ができない。\[5\]。
-  - [マクロ](../Page/マクロ言語.md "wikilink")[ファイルの文法が](https://ja.wikipedia.org/wiki/ファイル_\(コンピュータ\) "wikilink")、VBAのような構造化プログラミングに適した形式ではない。\[6\]
+  - [マクロ](../Page/マクロ言語.md "wikilink")[ファイルの文法が](../Page/ファイル_\(コンピュータ\).md "wikilink")、VBAのような構造化プログラミングに適した形式ではない。\[6\]
   - コマンドライン実行時の終了コードが、正常終了(0)と異常終了(-1)のみ。(異常発生時は自動出力ログの解析が前提)
   - エラー発生時に、単体で障害[メール等を送信してユーザーにエラーを通知する機能はない](../Page/電子メール.md "wikilink")。\[7\]
   - 実行時のエラーログが、自動出力ログ上に混合出力されているので障害分析がしづらい。
@@ -52,7 +52,7 @@
 ## LIFITマクロ(ファイル)の特徴・制限
 
   - 頭から順に再生する直列羅列形式。
-  - 基本的に[DayDa.Laboo](https://ja.wikipedia.org/wiki/DayDa.Laboo "wikilink")のエンジンを操作する[マクロのみ用意されている](../Page/マクロ言語.md "wikilink")。\[8\]
+  - 基本的に[DayDa.Laboo](../Page/DayDa.Laboo.md "wikilink")のエンジンを操作する[マクロのみ用意されている](../Page/マクロ言語.md "wikilink")。\[8\]
   - ユーザ独自の[マクロを作成することができない](../Page/マクロ言語.md "wikilink")。\[9\]
   - [BASIC](../Page/BASIC.md "wikilink")のような関数コールの記述ができない
   - FOR、WHILE、IF文等の制御系マクロが存在しない。
@@ -70,7 +70,7 @@
 
 ### サーバー版DayDa.Labooエンジンの特徴
 
-サーバー版[DayDa.Laboo](https://ja.wikipedia.org/wiki/DayDa.Laboo "wikilink")エンジンはSタイプに比べ
+サーバー版[DayDa.Laboo](../Page/DayDa.Laboo.md "wikilink")エンジンはSタイプに比べ
 
   - 　処理行が多い。
   - 　計算処理で使用される[CPU](../Page/CPU.md "wikilink")数が多い。
@@ -81,7 +81,7 @@
 
 ### 新製品(200709版)と旧製品(2006版)との差異
 
-  - マウスの操作履歴がそのまま[デバッグ](../Page/デバッグ.md "wikilink")済みの[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[プログラムとなり](../Page/プログラム_\(コンピュータ\).md "wikilink")、PC上で[バッチプログラムとして実行できる](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")。
+  - マウスの操作履歴がそのまま[デバッグ](../Page/デバッグ.md "wikilink")済みの[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[プログラムとなり](../Page/プログラム_\(コンピュータ\).md "wikilink")、PC上で[バッチプログラムとして実行できる](../Page/バッチ処理.md "wikilink")。
   - GUIアプリケーションの動作の高速化(マルチスレッド対応\[10\])
   - GUI操作周り・表示の改善(D\&D読込等)
   - コンソールに実行状況出力するexeを別途提供([eclipseのeclipsec](../Page/Eclipse_\(統合開発環境\).md "wikilink").exeのようなもの)\[11\]
@@ -98,8 +98,8 @@
 [Category:データベース接続クライアント](https://ja.wikipedia.org/wiki/Category:データベース接続クライアント "wikilink")
 
 1.  前身に、[Delphi](../Page/Delphi.md "wikilink")版ザ・ターボ(The Turbo)という製品が存在
-2.  サーバー版[DayDa.Laboo](https://ja.wikipedia.org/wiki/DayDa.Laboo "wikilink")エンジン接続のネットワークタイプ
-3.  ローカル版[DayDa.Laboo](https://ja.wikipedia.org/wiki/DayDa.Laboo "wikilink")エンジン接続のシングルタイプ([Aktblitz](https://ja.wikipedia.org/wiki/Aktblitz "wikilink")[パッケージ](../Page/パッケージ.md "wikilink"))
+2.  サーバー版[DayDa.Laboo](../Page/DayDa.Laboo.md "wikilink")エンジン接続のネットワークタイプ
+3.  ローカル版[DayDa.Laboo](../Page/DayDa.Laboo.md "wikilink")エンジン接続のシングルタイプ([Aktblitz](../Page/Aktblitz.md "wikilink")[パッケージ](../Page/パッケージ.md "wikilink"))
 4.  D5D(ワークスペース単位),D5T(テーブル単位)
 5.  [Microsoft Excelとの連係機能で代用](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")
 6.  Java生成機能で代用

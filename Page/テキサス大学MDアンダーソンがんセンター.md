@@ -1,4 +1,4 @@
-> この記事は[MD](https://ja.wikipedia.org/wiki/MD)から翻訳されています。
+> この記事は[テキサス大学MDアンダーソンがんセンター](https://ja.wikipedia.org/wiki/テキサス大学MDアンダーソンがんセンター)から翻訳されています。
 
 
 **テキサス大学MDアンダーソンがんセンター**（The University of Texas MD Anderson Cancer Center） は、[テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")の[テキサス医療センター](https://ja.wikipedia.org/wiki/テキサス医療センター "wikilink")内にある、[癌](https://ja.wikipedia.org/wiki/癌 "wikilink")の治療、研究、教育、予防を専門とする大規模がんセンターである。

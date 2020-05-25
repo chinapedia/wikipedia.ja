@@ -1,11 +1,11 @@
-> この記事は[Oh!](https://ja.wikipedia.org/wiki/Oh!)から翻訳されています。
+> この記事は[Oh!黄金サービス](https://ja.wikipedia.org/wiki/Oh!黄金サービス)から翻訳されています。
 
 
-『**Oh\!黄金サービス**』（おー\!ごーるでんサービス）は、[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週月曜の24:20 - 24:50の30分間。出演者は[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")。
+『**Oh\!黄金サービス**』（おー\!ごーるでんサービス）は、[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週月曜の24:20 - 24:50の30分間。出演者は[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[板尾創路](../Page/板尾創路.md "wikilink")。
 
 ## 番組概要
 
-当番組が開始する直前の半年間放送されていた帯番組「[冒冒グラフ](https://ja.wikipedia.org/wiki/冒冒グラフ "wikilink")」と、今田、東野、板尾という出演者は同じだが、コント中心だった冒冒グラフに対し、当番組はトークが中心の企画が放送された。冒冒グラフのように、「3menMC」「どっちが見たいかコンテスト」では当時吉本が所有していた[渋谷公園通り劇場](https://ja.wikipedia.org/wiki/渋谷公園通り劇場 "wikilink")で客を入れて収録されていた。
+当番組が開始する直前の半年間放送されていた帯番組『[冒冒グラフ](../Page/冒冒グラフ.md "wikilink")』と、今田、東野、板尾という出演者は同じだが、コント中心だった『冒冒グラフ』に対し、当番組はトークが中心の企画が放送された。『冒冒グラフ』のように、「3menMC」「どっちが見たいかコンテスト」では当時[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")が所有していた[渋谷公園通り劇場](https://ja.wikipedia.org/wiki/渋谷公園通り劇場 "wikilink")で客を入れて収録されていた。
 
 ## 主なコーナー
 
@@ -15,11 +15,11 @@
 <!-- end list -->
 
   - どっちが見たいかコンテスト
-    AとBの2つのカーテンがあり、それぞれの奥に女性が待機している。ただし顔や姿を見られるのはどちらかひとりのみ。双方のプロフィールを参考に3人がイメージを働かせて、多数決で見たい女性を決定する。
+    AとBの2つのカーテンがあり、それぞれの奥に女性が待機している。ただし、カーテンを開けられるのはどちらか一方のみ。双方のプロフィールを参考に3人がイメージを働かせて、多数決で見たい女性を決定する。
 
 <!-- end list -->
 
-  - 街角[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")
+  - 街角[ビンゴ](../Page/ビンゴ.md "wikilink")
     3人が特製ビンゴカードを持ちながら街を練り歩き、カードに書いてある事柄に遭遇すればカードに穴を開けられる。あとはビンゴと同じルールで、勝者にはルールにちなんだ賞品が贈られた。街を歩かず特定の場所で行われることもあり、その場合は「面白ビンゴ」というタイトルだった。
 
 <!-- end list -->
@@ -30,7 +30,7 @@
       - 漫画ビンゴ - カードには漫画のタイトルが書かれ、3人が訪れた喫茶店や理容室などにその漫画の単行本が置いてあれば有効となる。
       - 野球ビンゴ - 実際の野球の試合を観戦し、カードに書かれたプレイや状況（「レフトフライ」「代打ホームラン」「二死満塁」など）が出れば有効となる。
       - 有線ビンゴ - 3人が[有線放送](https://ja.wikipedia.org/wiki/有線放送 "wikilink")のオペレータとなり、電話で直接リクエストを受けた曲名がカードにあれば有効となる。
-      - 表札で動物ビンゴ - カードには動物名が書かれ、表札等に書かれた名字に隠れている動物名が有効となる。「斉藤（サイトウ）」なら「[サイ](../Page/サイ.md "wikilink")」「[イトウ](https://ja.wikipedia.org/wiki/イトウ "wikilink")」「[ウ](https://ja.wikipedia.org/wiki/鵜 "wikilink")」が有効。レギュラー放送最終回でのルールだった。
+      - 表札で動物ビンゴ - カードには動物名が書かれ、表札等に書かれた名字に隠れている動物名が有効となる。「斉藤（サイトウ）」なら「[サイ](../Page/サイ.md "wikilink")」「[イトウ](../Page/イトウ.md "wikilink")」「[ウ](https://ja.wikipedia.org/wiki/鵜 "wikilink")」が有効。レギュラー放送最終回でのルールだった。
       - 釣りビンゴ - 3人が漁船に乗り、実際に釣り上げた魚介類がカードにあれば有効となる。レギュラー放送終了後の深夜特番で行われたルール。
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:今田耕司](https://ja.wikipedia.org/wiki/Category:今田耕司 "wikilink")

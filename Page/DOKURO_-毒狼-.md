@@ -1,7 +1,7 @@
-> この記事は[DOKURO --](https://ja.wikipedia.org/wiki/DOKURO_--)から翻訳されています。
+> この記事は[DOKURO -毒狼-](https://ja.wikipedia.org/wiki/DOKURO_-毒狼-)から翻訳されています。
 
 
-『**DOKURO -毒狼-**』（どくろ）は、[猿渡哲也](https://ja.wikipedia.org/wiki/猿渡哲也 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ビジネスジャンプ](https://ja.wikipedia.org/wiki/ビジネスジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載された。単行本は全4巻。『ビジネスジャンプ』2001年23号に掲載された読み切り作品「毒狼＜青春地獄変＞」の連載版。
+『**DOKURO -毒狼-**』（どくろ）は、[猿渡哲也](../Page/猿渡哲也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載された。単行本は全4巻。『ビジネスジャンプ』2001年23号に掲載された読み切り作品「毒狼＜青春地獄変＞」の連載版。
 
 ## あらすじ
 

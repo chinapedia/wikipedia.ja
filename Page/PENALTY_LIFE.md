@@ -5,9 +5,9 @@
 
 ## 概要
 
-「昇らない太陽」は、[山中さわお](https://ja.wikipedia.org/wiki/山中さわお "wikilink")が[ライブの際](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、ふと冷静に状況を達観し、かつてのように夢中になれない瞬間がある自分に気がついて落ち込んだ時期に作られた曲である。いわゆる第三期の当初に見られるような内向的な歌詞と深く沈んだメロディの楽曲であるが、しかし実際には山中はこの楽曲を書き上げたことで自分にはまだ良い楽曲が作れることを再確認し、結果的にこの曲を生んだことがアルバムを作り上げる原動力になった\[1\]。
+「昇らない太陽」は、[山中さわお](../Page/山中さわお.md "wikilink")が[ライブの際](../Page/演奏会.md "wikilink")、ふと冷静に状況を達観し、かつてのように夢中になれない瞬間がある自分に気がついて落ち込んだ時期に作られた曲である。いわゆる第三期の当初に見られるような内向的な歌詞と深く沈んだメロディの楽曲であるが、しかし実際には山中はこの楽曲を書き上げたことで自分にはまだ良い楽曲が作れることを再確認し、結果的にこの曲を生んだことがアルバムを作り上げる原動力になった\[1\]。
 
-[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")の「僕はかけら」は、[インディーズ](../Page/インディーズ.md "wikilink")時代のアルバム『[90'S MY LIFE](https://ja.wikipedia.org/wiki/90'S_MY_LIFE "wikilink")』に収録されている曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")であり、1テイクで録音し、まったく手を加えない状態で収録された。このセルフカバーは一種の[余興](https://ja.wikipedia.org/wiki/余興 "wikilink")として行われたが、この曲はツアーでも披露された。その結果、the pillows自身にとっても過去の楽曲を振り返るきっかけとなり、その後の廃盤となっていた『90'S MY LIFE』に未発表の5曲を加えた『[90'S MY LIFE returns](https://ja.wikipedia.org/wiki/90'S_MY_LIFE "wikilink")』の発売や、セルフカバーアルバム『[TURN BACK](https://ja.wikipedia.org/wiki/TURN_BACK "wikilink")』の発売の切っ掛けとなった。
+[隠しトラック](../Page/隠しトラック.md "wikilink")の「僕はかけら」は、[インディーズ](../Page/インディーズ.md "wikilink")時代のアルバム『[90'S MY LIFE](https://ja.wikipedia.org/wiki/90'S_MY_LIFE "wikilink")』に収録されている曲の[セルフカバー](../Page/セルフカバー.md "wikilink")であり、1テイクで録音し、まったく手を加えない状態で収録された。このセルフカバーは一種の[余興](https://ja.wikipedia.org/wiki/余興 "wikilink")として行われたが、この曲はツアーでも披露された。その結果、the pillows自身にとっても過去の楽曲を振り返るきっかけとなり、その後の廃盤となっていた『90'S MY LIFE』に未発表の5曲を加えた『[90'S MY LIFE returns](https://ja.wikipedia.org/wiki/90'S_MY_LIFE "wikilink")』の発売や、セルフカバーアルバム『[TURN BACK](https://ja.wikipedia.org/wiki/TURN_BACK "wikilink")』の発売の切っ掛けとなった。
 
 タイトルのペナルティーライフ（PENALTY LIFE）とは「[無期懲役](https://ja.wikipedia.org/wiki/懲役#無期懲役 "wikilink")」という意味であり、もはや自分たちはロックミュージックからは逃れられないのだという悟りのような覚悟を表している。いわゆる第三期のオリジナルアルバムの中では珍しくアルバムタイトルを冠した楽曲が収録されていないが、「モールタウン プリズナー」のサビの中で「It's penalty life」と歌われている。
 

@@ -1,4 +1,4 @@
-> この記事は[e.p.](https://ja.wikipedia.org/wiki/e.p.)から翻訳されています。
+> この記事は[金木犀e.p.](https://ja.wikipedia.org/wiki/金木犀e.p.)から翻訳されています。
 
 
 『**金木犀e.p.**』（きんもくせい イー・ピー）は、[キンモクセイの](../Page/キンモクセイ_\(バンド\).md "wikilink")15作目、そして活動休止前に発表した最後の[シングル](../Page/シングル.md "wikilink")。
@@ -7,8 +7,8 @@
 
 ## 解説
 
-  - 「金木犀の花」と「えんぴつの恋」は真心ブラザーズの桜井秀俊との共同作。（ちなみに「金木犀の花」のPVには[ブラックマヨネーズ](https://ja.wikipedia.org/wiki/ブラックマヨネーズ "wikilink")の[吉田敬](https://ja.wikipedia.org/wiki/吉田敬 "wikilink")がメインキャストとして出演している）
-  - 「ふるさと」は[saku sakuとのコラボで](https://ja.wikipedia.org/wiki/saku_saku "wikilink")[中村優](https://ja.wikipedia.org/wiki/中村優 "wikilink")がボーカルとして参加。 [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』 2007年11月度エンディングテーマ
+  - 「金木犀の花」と「えんぴつの恋」は真心ブラザーズの桜井秀俊との共同作。（ちなみに「金木犀の花」のPVには[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")の[吉田敬](../Page/吉田敬.md "wikilink")がメインキャストとして出演している）
+  - 「ふるさと」は[saku sakuとのコラボで](https://ja.wikipedia.org/wiki/saku_saku "wikilink")[中村優](../Page/中村優.md "wikilink")がボーカルとして参加。 [テレビ神奈川](../Page/テレビ神奈川.md "wikilink")『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』 2007年11月度エンディングテーマ
   - 「Young Sunday」は東新住建のCMソング 。
   - 初回盤限定「SpecialDVD」「全国ツアー特別先行予約」。
 
@@ -16,7 +16,7 @@
 
 1.  **金木犀の花** (5:37)
       -
-        作詞・作曲:伊藤俊吾、編曲:キンモクセイ・[村山達哉](https://ja.wikipedia.org/wiki/村山達哉 "wikilink")・[桜井秀俊](https://ja.wikipedia.org/wiki/桜井秀俊 "wikilink")
+        作詞・作曲:伊藤俊吾、編曲:キンモクセイ・[村山達哉](https://ja.wikipedia.org/wiki/村山達哉 "wikilink")・[桜井秀俊](../Page/桜井秀俊.md "wikilink")
 2.  **ふるさと** (4:42)
       -
         作詞・作曲: 伊藤俊吾、編曲:キンモクセイ
@@ -33,6 +33,6 @@
 
 ## 収録アルバム
 
-  - [ベスト・コンディション 〜kinmokusei single collection〜](https://ja.wikipedia.org/wiki/ベスト・コンディション_〜kinmokusei_single_collection〜 "wikilink") (\#1)
+  - [ベスト・コンディション 〜kinmokusei single collection〜](../Page/ベスト・コンディション_〜kinmokusei_single_collection〜.md "wikilink") (\#1)
 
 [Category:キンモクセイの楽曲](https://ja.wikipedia.org/wiki/Category:キンモクセイの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

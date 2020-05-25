@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[バート・I・ゴードン](https://ja.wikipedia.org/wiki/バート・I・ゴードン)から翻訳されています。
 
 
 **バート・I・ゴードン**（**Bert I. Gordon**、[1922年](../Page/1922年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[映画監督](../Page/映画監督.md "wikilink")。[ウィスコンシン州](../Page/ウィスコンシン州.md "wikilink")[ケノーシャ生まれで](https://ja.wikipedia.org/wiki/ケノーシャ_\(ウィスコンシン州\) "wikilink")、本名はバート・アイラ・ゴードン。『[戦慄\!プルトニウム人間](https://ja.wikipedia.org/wiki/戦慄!プルトニウム人間 "wikilink")』、『Village of the Giants』など、[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、[ホラーの](../Page/ホラー映画.md "wikilink")[B級映画](../Page/B級映画.md "wikilink")で知られる。

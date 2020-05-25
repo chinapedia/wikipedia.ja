@@ -1,4 +1,4 @@
-> この記事は[GUNNER QUEEN ](https://ja.wikipedia.org/wiki/GUNNER_QUEEN_)から翻訳されています。
+> この記事は[GUNNER QUEEN 復讐の女王陛下](https://ja.wikipedia.org/wiki/GUNNER_QUEEN_復讐の女王陛下)から翻訳されています。
 
 
 『**GUNNER QUEEN 復讐の女王陛下**』（ガンナークイーン ふくしゅうのじょおうへいか）は[R-Ex](https://ja.wikipedia.org/wiki/R-Ex "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「[コミックヴァルキリー](../Page/コミックヴァルキリー.md "wikilink")」（[キルタイムコミュニケーション](../Page/キルタイムコミュニケーション.md "wikilink")）において連載された。魔法が支配する世界。城を追われた王女が禁断の技術である「[銃](../Page/銃.md "wikilink")」を手に、連れの少女剣士と共に敵の猛追を生き延びていくガンアクション・ファンタジー。

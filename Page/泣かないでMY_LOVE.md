@@ -1,7 +1,7 @@
-> この記事は[MY LOVE](https://ja.wikipedia.org/wiki/MY_LOVE)から翻訳されています。
+> この記事は[泣かないでMY LOVE](https://ja.wikipedia.org/wiki/泣かないでMY_LOVE)から翻訳されています。
 
 
-「**泣かないでMY LOVE**」（なかないでマイ・ラヴ）は[1982年](../Page/1982年.md "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")に発売された[Alfee](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")、およびそこに収録される楽曲。
+「**泣かないでMY LOVE**」（なかないでマイ・ラヴ）は[1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売された[Alfee](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")12枚目の[シングル](../Page/シングル.md "wikilink")、およびそこに収録される楽曲。
 
 ## 解説
 
@@ -18,7 +18,7 @@
 ## 収録曲
 
 1.  **泣かないでMY LOVE**
-      - 作詞・作曲：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")、編曲：[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+      - 作詞・作曲：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")、編曲：[井上鑑](../Page/井上鑑.md "wikilink")
 2.  **モーニング・コールでラスト・キッス**
       - 作詞・作曲：高見沢俊彦、編曲：井上鑑
 
@@ -33,7 +33,7 @@
   - [アルフィーA面コレクション スペシャル](https://ja.wikipedia.org/wiki/アルフィーA面コレクション_スペシャル "wikilink")（\#1）
   - [アルフィーB面コレクション スペシャル](https://ja.wikipedia.org/wiki/アルフィーB面コレクション_スペシャル "wikilink")（\#2）
   - [Promised Love -THE ALFEE BALLAD SELECTION-](https://ja.wikipedia.org/wiki/Promised_Love_-THE_ALFEE_BALLAD_SELECTION- "wikilink")（\#1、新録）
-  - [THE ALFEE SINGLE HISTORY VOL.I 1979-1982](https://ja.wikipedia.org/wiki/THE_ALFEE_SINGLE_HISTORY_VOL.I_1979-1982 "wikilink")（\#1,2）
+  - [THE ALFEE SINGLE HISTORY VOL.I 1979-1982](../Page/THE_ALFEE_SINGLE_HISTORY_VOL.I_1979-1982.md "wikilink")（\#1,2）
   - [THE ALFEE 單曲全集一](https://ja.wikipedia.org/wiki/THE_ALFEEのディスコグラフィ#非公認ベスト盤 "wikilink")（\#1）
   - [THE ALFEE EMOTIONAL LOVE SONGS](https://ja.wikipedia.org/wiki/THE_ALFEE_EMOTIONAL_LOVE_SONGS "wikilink")（\#1、『Promised Love』ヴァージョン）
 

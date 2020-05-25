@@ -1,4 +1,4 @@
-> この記事は[Swallowtail Butterfly ](https://ja.wikipedia.org/wiki/Swallowtail_Butterfly_)から翻訳されています。
+> この記事は[Swallowtail Butterfly 〜あいのうた〜](https://ja.wikipedia.org/wiki/Swallowtail_Butterfly_〜あいのうた〜)から翻訳されています。
 
 
 「**Swallowtail Butterfly 〜あいのうた〜**」（スワロウテイル・バタフライ あいのうた）は、[YEN TOWN BANDの](../Page/YEN_TOWN_BAND.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")発売。発売元は[Epic/Sony Records](../Page/エピック・レコード.md "wikilink")。
@@ -39,7 +39,7 @@
   - [やなぎなぎ](https://ja.wikipedia.org/wiki/やなぎなぎ "wikilink") (2013年) - アルバム『[エウアル](https://ja.wikipedia.org/wiki/エウアル "wikilink")』初回限定版に収録。
   - [Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink") ([2014年](../Page/2014年.md "wikilink")) - カバーアルバム『WOMAN2 〜Love Song Covers〜』に収録。
   - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") (2014年) - カバーアルバム『[Request II](https://ja.wikipedia.org/wiki/Request_II "wikilink")』に収録。
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink") ([2016年](../Page/2016年.md "wikilink")) - アルバム『[醒めない](https://ja.wikipedia.org/wiki/醒めない "wikilink")』(ファンクラブ・『Spitzbergen』会員限定盤)特典ディスク\[3\]に収録。
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") ([2016年](../Page/2016年.md "wikilink")) - アルバム『[醒めない](https://ja.wikipedia.org/wiki/醒めない "wikilink")』(ファンクラブ・『Spitzbergen』会員限定盤)特典ディスク\[3\]に収録。
   - [花澤香菜](../Page/花澤香菜.md "wikilink") ([2019年](../Page/2019年.md "wikilink")) - アニメ『[消滅都市](https://ja.wikipedia.org/wiki/消滅都市 "wikilink")』キャラクターソングシングル「ユキ カバーソングシングル」に収録\[4\]。
 
 ### 非音源化・ライブでのカバー
@@ -50,7 +50,7 @@
 
 ## 脚注
 
-[Category:Charaの楽曲](https://ja.wikipedia.org/wiki/Category:Charaの楽曲 "wikilink") [Category:CHARAが制作した楽曲](https://ja.wikipedia.org/wiki/Category:CHARAが制作した楽曲 "wikilink") [Category:小林武史が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小林武史が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:チョウを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:チョウを題材とした楽曲 "wikilink") [Category:イ長調](https://ja.wikipedia.org/wiki/Category:イ長調 "wikilink") [Category:My_Little_Loverの楽曲](https://ja.wikipedia.org/wiki/Category:My_Little_Loverの楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
+[Category:Charaの楽曲](https://ja.wikipedia.org/wiki/Category:Charaの楽曲 "wikilink") [Category:CHARAが制作した楽曲](https://ja.wikipedia.org/wiki/Category:CHARAが制作した楽曲 "wikilink") [Category:小林武史が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小林武史が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:チョウを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:チョウを題材とした楽曲 "wikilink") [Category:My_Little_Loverの楽曲](https://ja.wikipedia.org/wiki/Category:My_Little_Loverの楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
 
 1.  [着うた](../Page/着うた.md "wikilink")配信ではOMI feat cinnabom名義。
 2.  自身の全13回のアコースティックライブにおけるカバー曲のライブ音源。

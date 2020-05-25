@@ -1,4 +1,4 @@
-> この記事は[XFV-1 \(\)](https://ja.wikipedia.org/wiki/XFV-1_\(\))から翻訳されています。
+> この記事は[XFV-1 \(航空機\)](https://ja.wikipedia.org/wiki/XFV-1_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=ロッキード XFV-1 | 画像=image:Lockheed XFV-1 on ground bw.jpg | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者=[ロッキード](../Page/ロッキード.md "wikilink") | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink") | 初飛行年月日=1955年 | 生産数=1機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況= | ユニットコスト= }} **XFV-1**は[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のために[ロッキード](../Page/ロッキード.md "wikilink")社が試作したテイルシッター型[垂直離着陸戦闘機](../Page/垂直離着陸機.md "wikilink")。「サーモン」というニックネームが伝えられている が、正式なものではない。1951年に海軍から示された仕様に基づき、コンベア社の[XFY-1と競作された](../Page/XFY-1_\(航空機\).md "wikilink")。XFY-1は垂直離着陸および水平飛行への転換に成功したが、XFV-1は行うことができなかった。
@@ -34,7 +34,7 @@ XFV-1は1954年末からカリフォルニア州エドワード基地で\[2\]テ
 ## 関連項目
 
   - [XFY-1 ポゴ](../Page/XFY-1_\(航空機\).md "wikilink")
-  - [X-13 バーティジェット](https://ja.wikipedia.org/wiki/X-13_\(航空機\) "wikilink")
+  - [X-13 バーティジェット](../Page/X-13_\(航空機\).md "wikilink")
   - [C450 コレオプテール](../Page/C450_\(航空機\).md "wikilink")
   - [艦載機](https://ja.wikipedia.org/wiki/艦載機 "wikilink")
   - [垂直離着陸機](../Page/垂直離着陸機.md "wikilink")（VTOL）

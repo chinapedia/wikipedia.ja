@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[BBコミュニケーター](https://ja.wikipedia.org/wiki/BBコミュニケーター)から翻訳されています。
 
 
 **BBコミュニケーター**（びーびー・こみゅにけーたー）は、[ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")が提供する[IP電話](../Page/IP電話.md "wikilink")サービスと[メール](../Page/電子メール.md "wikilink")、スケジューラーなどのアプリケーションサービスを統合したコミュニケーションサービスの[商標](../Page/商標.md "wikilink")。

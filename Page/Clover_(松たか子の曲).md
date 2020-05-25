@@ -1,4 +1,4 @@
-> この記事は[Clover \(\)](https://ja.wikipedia.org/wiki/Clover_\(\))から翻訳されています。
+> この記事は[Clover \(松たか子の曲\)](https://ja.wikipedia.org/wiki/Clover_\(松たか子の曲\))から翻訳されています。
 
 
 「**Clover**」（クローバー）は、[2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")。
@@ -9,12 +9,12 @@
 
 ### トリビア
 
-ジャケットは、松本人が夏の午後の陽光を浴びながら左ハンドルの車の運転席に座っている、というものだが、その車は[ジープ](https://ja.wikipedia.org/wiki/ジープ "wikilink")・グランドワゴニアである。
+ジャケットは、松本人が夏の午後の陽光を浴びながら左ハンドルの車の運転席に座っている、というものだが、その車は[ジープ](../Page/ジープ.md "wikilink")・グランドワゴニアである。
 
 ## トラック
 
 1.  **Clover**
-    （作詞:[松本隆](../Page/松本隆.md "wikilink")、作曲:松たか子、編曲:[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")）
+    （作詞:[松本隆](../Page/松本隆.md "wikilink")、作曲:松たか子、編曲:[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")）
 2.  **夏の落書き**
     （作詞:松たか子、作曲:[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")、編曲:[星勝](../Page/星勝.md "wikilink")）
 3.  **Clover(Instrumental)**

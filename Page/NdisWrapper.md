@@ -1,7 +1,7 @@
 > この記事は[NdisWrapper](https://ja.wikipedia.org/wiki/NdisWrapper)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ndisgtk.png "wikilink") **NdisWrapper** は、[無線LAN](../Page/無線LAN.md "wikilink")用の[ネットワークカード](https://ja.wikipedia.org/wiki/ネットワークカード "wikilink")に付属する[Windows向け](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")を[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")で使えるようにする[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。すなわち、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")にWindowsカーネルの一部機能と[NDISの](../Page/Network_Driver_Interface_Specification.md "wikilink")[APIの実装を](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[互換レイヤー](../Page/互換レイヤー.md "wikilink")として提供するソフトウェアである。多くの無線ネットワークカードベンダーは Linux 向けドライバをリリースしていないので、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")には NdisWrapper が含まれていることが多い。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ndisgtk.png "wikilink") **NdisWrapper** は、[無線LAN](../Page/無線LAN.md "wikilink")用の[ネットワークカード](../Page/ネットワークカード.md "wikilink")に付属する[Windows向け](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")を[Linux](../Page/Linux.md "wikilink")で使えるようにする[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。すなわち、[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")にWindowsカーネルの一部機能と[NDISの](../Page/Network_Driver_Interface_Specification.md "wikilink")[APIの実装を](../Page/アプリケーションプログラミングインタフェース.md "wikilink")[互換レイヤー](../Page/互換レイヤー.md "wikilink")として提供するソフトウェアである。多くの無線ネットワークカードベンダーは Linux 向けドライバをリリースしていないので、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")には NdisWrapper が含まれていることが多い。
 
 ## 使い方
 

@@ -3,7 +3,7 @@
 
 『**LINDBERG V**』（リンドバーグ・ファイブ）は、日本ロックバンドである[LINDBERG](../Page/LINDBERG.md "wikilink")の5枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")発売。発売元は[徳間ジャパンのPUBLIC](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink") IMAGE RECORDSレーベル。
+[1992年](../Page/1992年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")発売。発売元は[徳間ジャパンのPUBLIC](../Page/徳間ジャパンコミュニケーションズ.md "wikilink") IMAGE RECORDSレーベル。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 平川、川添、小柳の3人は、ロスでのスタジオや楽器の音が、これまでと違うことに感動していたが、渡瀬はロスでの生活でのストレスなどの影響により、声が出なくなるなど、レコーディングが大変だったことを語っている\[1\]。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では、3週連続の1位を獲得\[2\]。初回限定は箱入り仕様で、青、赤、白と3色の色違いが存在した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では、3週連続の1位を獲得\[2\]。初回限定は箱入り仕様で、青、赤、白と3色の色違いが存在した。
 
 ## 収録曲
 
@@ -34,7 +34,7 @@
       - 作詞: 渡瀬マキ　作曲: 川添智久
     <!-- end list -->
       -
-        10枚目のシングル曲。[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")CF曲。この曲で、同年末に初の[紅白歌合戦の出場を果たした](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")。
+        10枚目のシングル曲。[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")CF曲。この曲で、同年末に初の[紅白歌合戦の出場を果たした](../Page/NHK紅白歌合戦.md "wikilink")。
 8.  **INNOCENT SKY**
       - 作詞: 渡瀬マキ　作曲: 小柳昌法
 9.  **[この空にちかって](https://ja.wikipedia.org/wiki/Magical_Dreamer "wikilink")**
@@ -48,7 +48,7 @@
       - 作詞: 渡瀬マキ　作曲: 小柳昌法
     <!-- end list -->
       -
-        [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")CMソング。[柔道](../Page/柔道.md "wikilink")の[谷亮子](https://ja.wikipedia.org/wiki/谷亮子 "wikilink")（当時:田村亮子）は、[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")の大会でこの曲を応援歌にしていた。
+        [ミズノ](../Page/ミズノ.md "wikilink")CMソング。[柔道](../Page/柔道.md "wikilink")の[谷亮子](../Page/谷亮子.md "wikilink")（当時:田村亮子）は、[バルセロナオリンピック](https://ja.wikipedia.org/wiki/バルセロナオリンピック "wikilink")の大会でこの曲を応援歌にしていた。
 12. **日曜日はドライブ日和り**
       - 作詞: 渡瀬マキ　作曲: 川添智久
 13. **朝**

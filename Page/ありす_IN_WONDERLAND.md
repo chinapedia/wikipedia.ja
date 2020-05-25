@@ -1,9 +1,9 @@
-> この記事は[ IN WONDERLAND](https://ja.wikipedia.org/wiki/_IN_WONDERLAND)から翻訳されています。
+> この記事は[ありす IN WONDERLAND](https://ja.wikipedia.org/wiki/ありす_IN_WONDERLAND)から翻訳されています。
 
 
 『**ありす IN WONDERLAND**』（ありす イン ワンダーランド）は、[高河ゆん](../Page/高河ゆん.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
-同作者による漫画『[マインドサイズ](https://ja.wikipedia.org/wiki/マインドサイズ "wikilink")』の[イメージアルバムに](https://ja.wikipedia.org/wiki/マインドサイズ#イメージアルバム "wikilink")、『ありす IN WONDERLAND』のイメージミュージックも収録されている。
+同作者による漫画『[マインドサイズ](../Page/マインドサイズ.md "wikilink")』の[イメージアルバムに](https://ja.wikipedia.org/wiki/マインドサイズ#イメージアルバム "wikilink")、『ありす IN WONDERLAND』のイメージミュージックも収録されている。
 
 ## あらすじ
 
@@ -44,13 +44,13 @@
 
 ## モチーフとした作品
 
-  - 『[不思議の国のアリス](https://ja.wikipedia.org/wiki/不思議の国のアリス "wikilink")』[ルイス・キャロル](../Page/ルイス・キャロル.md "wikilink")
-  - 『[若草物語](https://ja.wikipedia.org/wiki/若草物語 "wikilink")』[ルイーザ・メイ・オルコット](https://ja.wikipedia.org/wiki/ルイーザ・メイ・オルコット "wikilink")
-  - 『[ラプンツェル](https://ja.wikipedia.org/wiki/ラプンツェル "wikilink")』[グリム童話](../Page/グリム童話.md "wikilink")
+  - 『[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")』[ルイス・キャロル](../Page/ルイス・キャロル.md "wikilink")
+  - 『[若草物語](../Page/若草物語.md "wikilink")』[ルイーザ・メイ・オルコット](../Page/ルイーザ・メイ・オルコット.md "wikilink")
+  - 『[ラプンツェル](../Page/ラプンツェル.md "wikilink")』[グリム童話](../Page/グリム童話.md "wikilink")
   - 『[白雪姫](../Page/白雪姫.md "wikilink")』グリム童話
-  - 『[狼と七匹の子山羊](https://ja.wikipedia.org/wiki/狼と七匹の子山羊 "wikilink")』グリム童話
-  - 『[アーサー王物語](https://ja.wikipedia.org/wiki/アーサー王物語 "wikilink")』
-  - 『[眠れる森の美女](https://ja.wikipedia.org/wiki/眠れる森の美女 "wikilink")』
+  - 『[狼と七匹の子山羊](../Page/狼と七匹の子山羊.md "wikilink")』グリム童話
+  - 『[アーサー王物語](../Page/アーサー王物語.md "wikilink")』
+  - 『[眠れる森の美女](../Page/眠れる森の美女.md "wikilink")』
   - 『[指輪物語](../Page/指輪物語.md "wikilink")』[J・R・R・トールキン](https://ja.wikipedia.org/wiki/J・R・R・トールキン "wikilink")
 
 ## 書誌情報

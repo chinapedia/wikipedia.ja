@@ -1,4 +1,4 @@
-> この記事は[ing](https://ja.wikipedia.org/wiki/ing)から翻訳されています。
+> この記事は[街ingメーカー](https://ja.wikipedia.org/wiki/街ingメーカー)から翻訳されています。
 
 
 『**街ingメーカー**』（マッチングメーカー）は、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")より2001年9月27日に発売された、日本の[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。また、低価格のバージョンアップ版が[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より、[SIMPLE2000シリーズ](https://ja.wikipedia.org/wiki/SIMPLEシリーズ#SIMPLE2000シリーズ "wikilink") Vol.39『**THE ぼくの街づくり 〜街ingメーカー++〜**』（ざ ぼくのまちづくり マッチングメーカープラプラ）として2003年11月6日に発売された。

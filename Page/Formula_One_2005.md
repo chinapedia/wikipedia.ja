@@ -5,19 +5,19 @@
 
 ## チームとドライバー
 
-  - **[スクーデリア・フェラーリ](https://ja.wikipedia.org/wiki/スクーデリア・フェラーリ "wikilink")・マールボロ**
+  - **[スクーデリア・フェラーリ](../Page/スクーデリア・フェラーリ.md "wikilink")・マールボロ**
 
       - [ミハエル・シューマッハ](https://ja.wikipedia.org/wiki/ミハエル・シューマッハ "wikilink")
 
-      - [ルーベンス・バリチェロ](https://ja.wikipedia.org/wiki/ルーベンス・バリチェロ "wikilink")
+      - [ルーベンス・バリチェロ](../Page/ルーベンス・バリチェロ.md "wikilink")
 
-  - **[B・A・R](https://ja.wikipedia.org/wiki/B・A・R "wikilink")ホンダ**
+  - **[B・A・R](../Page/B・A・R.md "wikilink")ホンダ**
 
       - [ジェンソン・バトン](../Page/ジェンソン・バトン.md "wikilink")
 
       - [佐藤琢磨](../Page/佐藤琢磨.md "wikilink")
 
-  - **[ルノーF1](https://ja.wikipedia.org/wiki/ルノーF1 "wikilink")**
+  - **[ルノーF1](../Page/ルノーF1.md "wikilink")**
 
       - [フェルナンド・アロンソ](../Page/フェルナンド・アロンソ.md "wikilink")
 
@@ -33,73 +33,73 @@
 
       - [キミ・ライコネン](https://ja.wikipedia.org/wiki/キミ・ライコネン "wikilink")
 
-      - [ファン・パブロ・モントーヤ](https://ja.wikipedia.org/wiki/ファン・パブロ・モントーヤ "wikilink")
+      - [ファン・パブロ・モントーヤ](../Page/ファン・パブロ・モントーヤ.md "wikilink")
 
   - **[ザウバー](../Page/ザウバー.md "wikilink")・ペトロナス**
 
       - [ジャック・ヴィルヌーヴ](../Page/ジャック・ヴィルヌーヴ.md "wikilink")
 
-      - [フェリペ・マッサ](https://ja.wikipedia.org/wiki/フェリペ・マッサ "wikilink")
+      - [フェリペ・マッサ](../Page/フェリペ・マッサ.md "wikilink")
 
-  - **[レッドブル・レーシング](https://ja.wikipedia.org/wiki/レッドブル・レーシング "wikilink")**
+  - **[レッドブル・レーシング](../Page/レッドブル・レーシング.md "wikilink")**
 
-      - [デビッド・クルサード](https://ja.wikipedia.org/wiki/デビッド・クルサード "wikilink")
+      - [デビッド・クルサード](../Page/デビッド・クルサード.md "wikilink")
 
-      - [クリスチャン・クリエン](https://ja.wikipedia.org/wiki/クリスチャン・クリエン "wikilink")
+      - [クリスチャン・クリエン](../Page/クリスチャン・クリエン.md "wikilink")
 
   - **[トヨタF1](https://ja.wikipedia.org/wiki/トヨタF1 "wikilink")**
 
-      - [ヤルノ・トゥルーリ](https://ja.wikipedia.org/wiki/ヤルノ・トゥルーリ "wikilink")
+      - [ヤルノ・トゥルーリ](../Page/ヤルノ・トゥルーリ.md "wikilink")
 
-      - [ラルフ・シューマッハ](https://ja.wikipedia.org/wiki/ラルフ・シューマッハ "wikilink")
+      - [ラルフ・シューマッハ](../Page/ラルフ・シューマッハ.md "wikilink")
 
-  - **[ジョーダン・グランプリ](https://ja.wikipedia.org/wiki/ジョーダン・グランプリ "wikilink")**
+  - **[ジョーダン・グランプリ](../Page/ジョーダン・グランプリ.md "wikilink")**
 
-      - [ティアゴ・モンテイロ](https://ja.wikipedia.org/wiki/ティアゴ・モンテイロ "wikilink")
+      - [ティアゴ・モンテイロ](../Page/ティアゴ・モンテイロ.md "wikilink")
 
-      - [ナレイン・カーティケヤン](https://ja.wikipedia.org/wiki/ナレイン・カーティケヤン "wikilink")
+      - [ナレイン・カーティケヤン](../Page/ナレイン・カーティケヤン.md "wikilink")
 
   - **[ミナルディ](https://ja.wikipedia.org/wiki/ミナルディ "wikilink")**
 
-      - [パトリック・フリーザッハー](https://ja.wikipedia.org/wiki/パトリック・フリーザッハー "wikilink")
+      - [パトリック・フリーザッハー](../Page/パトリック・フリーザッハー.md "wikilink")
 
-      - [クリスチャン・アルバース](https://ja.wikipedia.org/wiki/クリスチャン・アルバース "wikilink")
+      - [クリスチャン・アルバース](../Page/クリスチャン・アルバース.md "wikilink")
 
 ## サーキット
 
-  - [オーストラリアGP](https://ja.wikipedia.org/wiki/オーストラリアグランプリ "wikilink") - [アルバートパークサーキット](https://ja.wikipedia.org/wiki/アルバートパークサーキット "wikilink") ([メルボルン](https://ja.wikipedia.org/wiki/メルボルン "wikilink"))
+  - [オーストラリアGP](../Page/オーストラリアグランプリ.md "wikilink") - [アルバートパークサーキット](https://ja.wikipedia.org/wiki/アルバートパークサーキット "wikilink") ([メルボルン](../Page/メルボルン.md "wikilink"))
 
-  - [マレーシアGP](https://ja.wikipedia.org/wiki/マレーシアグランプリ "wikilink") - [セパン・インターナショナル・サーキット](https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット "wikilink")
+  - [マレーシアGP](../Page/マレーシアグランプリ.md "wikilink") - [セパン・インターナショナル・サーキット](../Page/セパン・インターナショナル・サーキット.md "wikilink")
 
-  - [バーレーンGP](https://ja.wikipedia.org/wiki/バーレーングランプリ "wikilink") - [バーレーンインターナショナルサーキット](https://ja.wikipedia.org/wiki/バーレーンインターナショナルサーキット "wikilink")
+  - [バーレーンGP](../Page/バーレーングランプリ.md "wikilink") - [バーレーンインターナショナルサーキット](https://ja.wikipedia.org/wiki/バーレーンインターナショナルサーキット "wikilink")
 
-  - [サンマリノGP](https://ja.wikipedia.org/wiki/サンマリノグランプリ "wikilink") - [イモラ](https://ja.wikipedia.org/wiki/イモラ・サーキット "wikilink")
+  - [サンマリノGP](../Page/サンマリノグランプリ.md "wikilink") - [イモラ](../Page/イモラ・サーキット.md "wikilink")
 
-  - [スペインGP](https://ja.wikipedia.org/wiki/スペイングランプリ "wikilink") - [カタロニア・サーキット](https://ja.wikipedia.org/wiki/カタロニア・サーキット "wikilink") ([バルセロナ](../Page/バルセロナ.md "wikilink"))
+  - [スペインGP](../Page/スペイングランプリ.md "wikilink") - [カタロニア・サーキット](../Page/カタロニア・サーキット.md "wikilink") ([バルセロナ](../Page/バルセロナ.md "wikilink"))
 
-  - [モナコGP](../Page/モナコグランプリ.md "wikilink") - [モンテカルロ市街地コース](https://ja.wikipedia.org/wiki/モンテカルロ市街地コース "wikilink") ([モンテカルロ](https://ja.wikipedia.org/wiki/モンテカルロ "wikilink"))
+  - [モナコGP](../Page/モナコグランプリ.md "wikilink") - [モンテカルロ市街地コース](../Page/モンテカルロ市街地コース.md "wikilink") ([モンテカルロ](../Page/モンテカルロ.md "wikilink"))
 
-  - [ヨーロッパGP](https://ja.wikipedia.org/wiki/ヨーロッパグランプリ "wikilink") - [ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink") ([ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink"))
+  - [ヨーロッパGP](../Page/ヨーロッパグランプリ.md "wikilink") - [ニュルブルクリンク](https://ja.wikipedia.org/wiki/ニュルブルクリンク "wikilink") ([ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink"))
 
-  - [カナダGP](https://ja.wikipedia.org/wiki/カナダグランプリ "wikilink") - [ジル・ヴィルヌーヴ・サーキット](https://ja.wikipedia.org/wiki/ジル・ヴィルヌーヴ・サーキット "wikilink") ([モントリオール](../Page/モントリオール.md "wikilink"))
+  - [カナダGP](../Page/カナダグランプリ.md "wikilink") - [ジル・ヴィルヌーヴ・サーキット](../Page/ジル・ヴィルヌーヴ・サーキット.md "wikilink") ([モントリオール](../Page/モントリオール.md "wikilink"))
 
-  - [アメリカGP](https://ja.wikipedia.org/wiki/アメリカグランプリ "wikilink") - [インディアナポリス・モーター・スピードウェイ](https://ja.wikipedia.org/wiki/インディアナポリス・モーター・スピードウェイ "wikilink")
+  - [アメリカGP](../Page/アメリカグランプリ.md "wikilink") - [インディアナポリス・モーター・スピードウェイ](../Page/インディアナポリス・モーター・スピードウェイ.md "wikilink")
 
-  - [フランスGP](https://ja.wikipedia.org/wiki/フランスグランプリ "wikilink") - [マニクール・サーキット](https://ja.wikipedia.org/wiki/マニクール・サーキット "wikilink")
+  - [フランスGP](../Page/フランスグランプリ.md "wikilink") - [マニクール・サーキット](../Page/マニクール・サーキット.md "wikilink")
 
-  - [イギリスGP](https://ja.wikipedia.org/wiki/イギリスグランプリ "wikilink") - [シルバーストン・サーキット](https://ja.wikipedia.org/wiki/シルバーストン・サーキット "wikilink")
+  - [イギリスGP](../Page/イギリスグランプリ.md "wikilink") - [シルバーストン・サーキット](../Page/シルバーストン・サーキット.md "wikilink")
 
-  - [ドイツGP](https://ja.wikipedia.org/wiki/ドイツグランプリ "wikilink") - [ホッケンハイムリンク](https://ja.wikipedia.org/wiki/ホッケンハイムリンク "wikilink")
+  - [ドイツGP](../Page/ドイツグランプリ.md "wikilink") - [ホッケンハイムリンク](../Page/ホッケンハイムリンク.md "wikilink")
 
-  - [ハンガリーGP](https://ja.wikipedia.org/wiki/ハンガリーグランプリ "wikilink") - [ハンガロリンク](https://ja.wikipedia.org/wiki/ハンガロリンク "wikilink") ([ブダペスト](../Page/ブダペスト.md "wikilink"))
+  - [ハンガリーGP](../Page/ハンガリーグランプリ.md "wikilink") - [ハンガロリンク](../Page/ハンガロリンク.md "wikilink") ([ブダペスト](../Page/ブダペスト.md "wikilink"))
 
-  - [トルコGP](https://ja.wikipedia.org/wiki/トルコグランプリ "wikilink") - [イスタンブール・パーク](https://ja.wikipedia.org/wiki/イスタンブール・パーク "wikilink")
+  - [トルコGP](../Page/トルコグランプリ.md "wikilink") - [イスタンブール・パーク](../Page/イスタンブール・パーク.md "wikilink")
 
-  - [イタリアGP](https://ja.wikipedia.org/wiki/イタリアグランプリ "wikilink") - [モンツァ・サーキット](https://ja.wikipedia.org/wiki/モンツァ・サーキット "wikilink")
+  - [イタリアGP](../Page/イタリアグランプリ.md "wikilink") - [モンツァ・サーキット](../Page/モンツァ・サーキット.md "wikilink")
 
-  - [ベルギーGP](https://ja.wikipedia.org/wiki/ベルギーグランプリ "wikilink") - [スパ・フランコルシャン](https://ja.wikipedia.org/wiki/スパ・フランコルシャン "wikilink")
+  - [ベルギーGP](../Page/ベルギーグランプリ.md "wikilink") - [スパ・フランコルシャン](../Page/スパ・フランコルシャン.md "wikilink")
 
-  - [ブラジルGP](https://ja.wikipedia.org/wiki/ブラジルグランプリ "wikilink") - [インテルラゴスサーキット](https://ja.wikipedia.org/wiki/インテルラゴス・サーキット "wikilink") ([サンパウロ](https://ja.wikipedia.org/wiki/サンパウロ市 "wikilink"))
+  - [ブラジルGP](../Page/ブラジルグランプリ.md "wikilink") - [インテルラゴスサーキット](../Page/インテルラゴス・サーキット.md "wikilink") ([サンパウロ](https://ja.wikipedia.org/wiki/サンパウロ市 "wikilink"))
 
   - [日本GP](https://ja.wikipedia.org/wiki/日本グランプリ_\(4輪\) "wikilink") - [鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")
 
@@ -108,7 +108,7 @@
 ## 関連項目
 
   - [フォーミュラ1](../Page/フォーミュラ1.md "wikilink")
-  - [2005年のF1世界選手権](https://ja.wikipedia.org/wiki/2005年のF1世界選手権 "wikilink")
+  - [2005年のF1世界選手権](../Page/2005年のF1世界選手権.md "wikilink")
 
 ## 外部リンク
 

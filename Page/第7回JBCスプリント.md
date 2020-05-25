@@ -1,4 +1,4 @@
-> この記事は[7JBC](https://ja.wikipedia.org/wiki/7JBC)から翻訳されています。
+> この記事は[第7回JBCスプリント](https://ja.wikipedia.org/wiki/第7回JBCスプリント)から翻訳されています。
 
 
 **農林水産大臣賞典 第7回JBCスプリント**（のうりんすいさんだいじんしょうてん だい7かいジェイビーシースプリント）は、[2007年](../Page/2007年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")に[大井競馬場](../Page/大井競馬場.md "wikilink")で施行された[競馬](../Page/競馬.md "wikilink")の[競走](../Page/競走.md "wikilink")である。[フジノウェーブ](../Page/フジノウェーブ.md "wikilink")が地方所属の競走馬として初めて[JBC競走を優勝した](https://ja.wikipedia.org/wiki/ジャパンブリーディングファームズカップ "wikilink")。

@@ -1,11 +1,11 @@
 > この記事は[Contiki](https://ja.wikipedia.org/wiki/Contiki)から翻訳されています。
 
 
-**Contiki**（読み: コンチキ, コンティキ）とは8ビットコンピュータや組み込みコンピュータ向けの[オープンソース](../Page/オープンソース.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。[ネットワークや](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")[マルチスレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")、[GUIなどをサポートしつつ](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、8ビットコンピュータなどのメモリの少ないマシンでも実行できるのが特徴である。計算資源の限られた組み込み系機器が主体となる、[Internet of Thingsの実装にも用いられる](https://ja.wikipedia.org/wiki/モノのインターネット "wikilink")。
+**Contiki**（読み: コンチキ, コンティキ）とは8ビットコンピュータや組み込みコンピュータ向けの[オープンソース](../Page/オープンソース.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。[ネットワークや](../Page/コンピュータネットワーク.md "wikilink")[マルチスレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")、[GUIなどをサポートしつつ](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")、8ビットコンピュータなどのメモリの少ないマシンでも実行できるのが特徴である。計算資源の限られた組み込み系機器が主体となる、[Internet of Thingsの実装にも用いられる](https://ja.wikipedia.org/wiki/モノのインターネット "wikilink")。
 
-2003年、Swedish Institute of Computer ScienceにおいてAdam Dunkelsを中心に開発された。当初、[Commodore 64向けのオペレーティングシステムであったが](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")、現在はさまざまな[コンピュータ](../Page/コンピュータ.md "wikilink")や[組み込みシステム](../Page/組み込みシステム.md "wikilink")に移植されている。
+2003年、Swedish Institute of Computer ScienceにおいてAdam Dunkelsを中心に開発された。当初、[Commodore 64向けのオペレーティングシステムであったが](../Page/コモドール64.md "wikilink")、現在はさまざまな[コンピュータ](../Page/コンピュータ.md "wikilink")や[組み込みシステム](../Page/組み込みシステム.md "wikilink")に移植されている。
 
-[トール・ヘイエルダール](https://ja.wikipedia.org/wiki/トール・ヘイエルダール "wikilink")らによって建造された大型の[筏](https://ja.wikipedia.org/wiki/筏 "wikilink")として知られている[コンティキ号](https://ja.wikipedia.org/wiki/コンティキ号 "wikilink")が名前の由来である。
+[トール・ヘイエルダール](../Page/トール・ヘイエルダール.md "wikilink")らによって建造された大型の[筏](https://ja.wikipedia.org/wiki/筏 "wikilink")として知られている[コンティキ号](../Page/コンティキ号.md "wikilink")が名前の由来である。
 
 ## 歴史
 
@@ -41,7 +41,7 @@
 ### プラットフォーム
 
   - [Apple II](../Page/Apple_II.md "wikilink")
-  - [Commodore 64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")
+  - [Commodore 64](../Page/コモドール64.md "wikilink")
   - NEC [PC-6001](https://ja.wikipedia.org/wiki/PC-6001 "wikilink")
   - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") 32ビット
   - NEC [PCエンジン](../Page/PCエンジン.md "wikilink")

@@ -39,7 +39,7 @@
 
 ### キャスト
 
-  - 阿部浩也 - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+  - 阿部浩也 - [森川智之](../Page/森川智之.md "wikilink")
   - 永島康平 - [岸尾大輔](../Page/岸尾だいすけ.md "wikilink")
   - 三田みちる - [一条和矢](../Page/一条和矢.md "wikilink")
   - 網浜美帆 - [田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")
@@ -49,9 +49,9 @@
   - 原作 - 澤井健
   - 監督 - 吉田啓良
   - キャラクターデザイン - 田中穣
-  - 音楽 - [松尾早人](https://ja.wikipedia.org/wiki/松尾早人 "wikilink")
+  - 音楽 - [松尾早人](../Page/松尾早人.md "wikilink")
   - 音響監督 - [田中一也](https://ja.wikipedia.org/wiki/田中一也 "wikilink")
-  - アニメーション制作 - [マジックバス](https://ja.wikipedia.org/wiki/マジックバス "wikilink")
+  - アニメーション制作 - [マジックバス](../Page/マジックバス.md "wikilink")
   - 製作 - TBS
 
 ### 主題歌
@@ -74,4 +74,4 @@
 | 9  | 恋する永島          | 19 | 博徒一代血祭不動      |        |
 | 10 | モルモンブラザーズ脱毛大作戦 | 20 | サーフサイド・フォーエバー |        |
 
-[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:ワンダフルアニメ](https://ja.wikipedia.org/wiki/Category:ワンダフルアニメ "wikilink") [Category:マジックバス](https://ja.wikipedia.org/wiki/Category:マジックバス "wikilink") [Category:湘南を舞台とした作品](https://ja.wikipedia.org/wiki/Category:湘南を舞台とした作品 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink")
+[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:ワンダフルアニメ](https://ja.wikipedia.org/wiki/Category:ワンダフルアニメ "wikilink") [Category:マジックバス](https://ja.wikipedia.org/wiki/Category:マジックバス "wikilink") [Category:湘南を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:湘南を舞台とした漫画作品 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink")

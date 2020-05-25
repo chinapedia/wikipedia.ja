@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブリストル・ローヴァーズFC](https://ja.wikipedia.org/wiki/ブリストル・ローヴァーズFC)から翻訳されています。
 
 
 **ブリストル・ローヴァーズ・フットボール・クラブ**（**Bristol Rovers Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[ブリストル](../Page/ブリストル.md "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。

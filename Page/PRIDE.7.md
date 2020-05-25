@@ -7,7 +7,7 @@
 
 第7試合では[イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink")が[マーク・ケアー](../Page/マーク・ケアー.md "wikilink")にTKO勝ちしたが、反則であるグラウンド状態での頭部への膝蹴りがあったため、後日TKO勝ちから[無効試合](../Page/無効試合.md "wikilink")へと裁定変更された。
 
-メインイベントでは[高田延彦](../Page/高田延彦.md "wikilink")が[アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink")から[スリーパーホールドで見込み一本勝ちを収めた](../Page/裸絞.md "wikilink")。
+メインイベントでは[高田延彦](../Page/高田延彦.md "wikilink")が[アレクサンダー大塚](../Page/アレクサンダー大塚.md "wikilink")から[スリーパーホールドで見込み一本勝ち](../Page/裸絞.md "wikilink")を収めた。
 
 [IVCライトヘビー級王者](https://ja.wikipedia.org/wiki/International_Vale_Tudo_Championship "wikilink")[ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink")がPRIDEデビュー。
 

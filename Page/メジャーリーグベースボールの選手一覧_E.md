@@ -1,4 +1,4 @@
-> この記事は[ E](https://ja.wikipedia.org/wiki/_E)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 E](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_E)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**E**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -123,14 +123,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Easler" title="wikilink">Mike Easler</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・イースラー" title="wikilink">マイク・イースラー</a></p></td>
+<td><p><a href="../Page/マイク・イースラー.md" title="wikilink">マイク・イースラー</a></p></td>
 <td><p>1973</p></td>
 <td><p>1987</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Damion_Easley" title="wikilink">Damion Easley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダミオン・イーズリー" title="wikilink">ダミオン・イーズリー</a></p></td>
+<td><p><a href="../Page/ダミオン・イーズリー.md" title="wikilink">ダミオン・イーズリー</a></p></td>
 <td><p>1992</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -326,7 +326,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Angel_Echevarria" title="wikilink">Angel Echevarria</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エンジェル・エチェバリア" title="wikilink">エンジェル・エチェバリア</a></p></td>
+<td><p><a href="../Page/エンジェル・エチェバリア.md" title="wikilink">エンジェル・エチェバリア</a></p></td>
 <td><p>1996</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -347,7 +347,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dennis_Eckersley" title="wikilink">Dennis Eckersley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デニス・エカーズリー" title="wikilink">デニス・エッカーズリー</a></p></td>
+<td><p><a href="../Page/デニス・エカーズリー.md" title="wikilink">デニス・エッカーズリー</a></p></td>
 <td><p>1975</p></td>
 <td><p>1998</p></td>
 <td><p>殿堂入り</p></td>
@@ -375,7 +375,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Eckstein" title="wikilink">David Eckstein</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・エクスタイン" title="wikilink">デービッド・エクスタイン</a></p></td>
+<td><p><a href="../Page/デビッド・エクスタイン.md" title="wikilink">デービッド・エクスタイン</a></p></td>
 <td><p>2001</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -508,7 +508,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Edmonds" title="wikilink">Jim Edmonds</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・エドモンズ" title="wikilink">ジム・エドモンズ</a></p></td>
+<td><p><a href="../Page/ジム・エドモンズ.md" title="wikilink">ジム・エドモンズ</a></p></td>
 <td><p>1993</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -634,7 +634,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Edwards_(second_baseman)" title="wikilink">Mike Edwards</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・エドワーズ_(1952年生の内野手)" title="wikilink">マイク・エドワーズ</a></p></td>
+<td><p><a href="../Page/マイク・エドワーズ_(1952年生の内野手).md" title="wikilink">マイク・エドワーズ</a></p></td>
 <td><p>1977</p></td>
 <td><p>1980</p></td>
 <td><p>内野手、Michael Lewis Edwards</p></td>
@@ -851,14 +851,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Eichelberger" title="wikilink">Juan Eichelberger</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホアン・アイケルバーガー" title="wikilink">フアン・アイケルバーガー</a></p></td>
+<td><p><a href="../Page/ホアン・アイケルバーガー.md" title="wikilink">フアン・アイケルバーガー</a></p></td>
 <td><p>1978</p></td>
 <td><p>1988</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Eichhorn" title="wikilink">Mark Eichhorn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・アイクホーン" title="wikilink">マーク・アイクホーン</a></p></td>
+<td><p><a href="../Page/マーク・アイクホーン.md" title="wikilink">マーク・アイクホーン</a></p></td>
 <td><p>1982</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -1012,7 +1012,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cal_Eldred" title="wikilink">Cal Eldred</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カル・エルドレッド" title="wikilink">カル・エルドレッド</a></p></td>
+<td><p><a href="../Page/カル・エルドレッド.md" title="wikilink">カル・エルドレッド</a></p></td>
 <td><p>1991</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -1271,7 +1271,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jacoby_Ellsbury" title="wikilink">Jacoby Ellsbury</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャコビー・エルズベリー" title="wikilink">ジャコビー・エルズベリー</a></p></td>
+<td><p><a href="../Page/ジャコビー・エルズベリー.md" title="wikilink">ジャコビー・エルズベリー</a></p></td>
 <td><p>2007</p></td>
 <td></td>
 <td></td>
@@ -1327,7 +1327,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Narciso_Elvira" title="wikilink">Narciso Elvira</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナルシソ・エルビラ" title="wikilink">ナルシーソ・エルビラ</a></p></td>
+<td><p><a href="../Page/ナルシソ・エルビラ.md" title="wikilink">ナルシーソ・エルビラ</a></p></td>
 <td><p>1990</p></td>
 <td><p>1990</p></td>
 <td></td>
@@ -1467,14 +1467,14 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Edwin_Encarnación" title="wikilink">Edwin Encarnacion</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エドウィン・エンカーナシオン" title="wikilink">エドウィン・エンカーナシオン</a></p></td>
+<td><p><a href="../Page/エドウィン・エンカーナシオン.md" title="wikilink">エドウィン・エンカーナシオン</a></p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Encarnación" title="wikilink">Juan Encarnacion</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フアン・エンカーナシオン" title="wikilink">フアン・エンカーナシオン</a></p></td>
+<td><p><a href="../Page/フアン・エンカーナシオン.md" title="wikilink">フアン・エンカーナシオン</a></p></td>
 <td><p>1997</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -1649,7 +1649,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Morgan_Ensberg" title="wikilink">Morgan Ensberg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーガン・エンスバーグ" title="wikilink">モーガン・エンズバーグ</a></p></td>
+<td><p><a href="../Page/モーガン・エンスバーグ.md" title="wikilink">モーガン・エンズバーグ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -1901,7 +1901,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Phillip_Ervin" title="wikilink">Phillip Ervin</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィリップ・アービン" title="wikilink">フィリップ・アービン</a></p></td>
+<td><p><a href="../Page/フィリップ・アービン.md" title="wikilink">フィリップ・アービン</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td></td>
@@ -1985,7 +1985,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alcides_Escobar" title="wikilink">Alcides Escobar</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルシデス・エスコバー" title="wikilink">アルシデス・エスコバー</a></p></td>
+<td><p><a href="../Page/アルシデス・エスコバー.md" title="wikilink">アルシデス・エスコバー</a></p></td>
 <td><p>2008</p></td>
 <td><p>2018</p></td>
 <td></td>
@@ -2041,7 +2041,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Yunel_Escobar" title="wikilink">Yunel Escobar</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユネル・エスコバー" title="wikilink">ユネル・エスコバー</a></p></td>
+<td><p><a href="../Page/ユネル・エスコバー.md" title="wikilink">ユネル・エスコバー</a></p></td>
 <td><p>2007</p></td>
 <td></td>
 <td></td>
@@ -2090,7 +2090,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Paolo_Espino" title="wikilink">Paolo Espino</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パオロ・エスピーノ" title="wikilink">パオロ・エスピーノ</a></p></td>
+<td><p><a href="../Page/パオロ・エスピーノ.md" title="wikilink">パオロ・エスピーノ</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td></td>
@@ -2244,7 +2244,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Johnny_Estrada" title="wikilink">Johnny Estrada</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョニー・エストラーダ" title="wikilink">ジョニー・エストラーダ</a></p></td>
+<td><p><a href="../Page/ジョニー・エストラーダ.md" title="wikilink">ジョニー・エストラーダ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -2265,7 +2265,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Thairo_Estrada" title="wikilink">Thairo Estrada</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイロ・エストラーダ" title="wikilink">タイロ・エストラーダ</a></p></td>
+<td><p><a href="../Page/タイロ・エストラーダ.md" title="wikilink">タイロ・エストラーダ</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -2524,7 +2524,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tom_Evans_(baseball)" title="wikilink">Tom Evans</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・エバンス_(野球)" title="wikilink">トム・エバンス</a></p></td>
+<td><p><a href="../Page/トム・エバンス_(野球).md" title="wikilink">トム・エバンス</a></p></td>
 <td><p>1997</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -2538,14 +2538,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Adam_Everett" title="wikilink">Adam Everett</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アダム・エバレット" title="wikilink">アダム・エベレット</a></p></td>
+<td><p><a href="../Page/アダム・エバレット.md" title="wikilink">アダム・エベレット</a></p></td>
 <td><p>2001</p></td>
 <td><p>2011</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carl_Everett" title="wikilink">Carl Everett</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・エバレット" title="wikilink">カール・エベレット</a></p></td>
+<td><p><a href="../Page/カール・エバレット.md" title="wikilink">カール・エベレット</a></p></td>
 <td><p>1993</p></td>
 <td><p>2006</p></td>
 <td></td>

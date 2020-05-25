@@ -52,8 +52,10 @@
 ## 外部リンク
 
   - [UFC公式サイトによる試合結果](http://www.ufc.com/event/Ultimate-Ultimate-95)
+
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc_uu_95.html)
-  - [世界のVale Tudoの情報による試合結果](http://www.geocities.co.jp/Colosseum/5142/uufc95.html)
+
+  -
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UU-95-Ultimate-Ultimate-1995-14)
 
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのコロラド州大会](https://ja.wikipedia.org/wiki/Category:UFCのコロラド州大会 "wikilink") [Category:1995年の総合格闘技](https://ja.wikipedia.org/wiki/Category:1995年の総合格闘技 "wikilink") [Category:1995年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:1995年のアメリカ合衆国のスポーツ "wikilink") [Category:デンバーのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:デンバーのスポーツ競技大会 "wikilink") [Category:1995年12月](https://ja.wikipedia.org/wiki/Category:1995年12月 "wikilink")

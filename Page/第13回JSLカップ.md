@@ -1,41 +1,41 @@
-> この記事は[13JSL](https://ja.wikipedia.org/wiki/13JSL)から翻訳されています。
+> この記事は[第13回JSLカップ](https://ja.wikipedia.org/wiki/第13回JSLカップ)から翻訳されています。
 
 
-**第13回JSLカップ**（だい13かいJSLカップ）は、[1988年](../Page/1988年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")から[9月11日](../Page/9月11日.md "wikilink")まで行われた[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")主催の大会である。大会はJSL1部、2部に所属する全28チーム参加による[トーナメント方式](../Page/トーナメント方式.md "wikilink")で争われた。優勝は[日産自動車サッカー部](https://ja.wikipedia.org/wiki/日産自動車サッカー部 "wikilink")であった。日産は長いスランプから復活した[木村和司](../Page/木村和司.md "wikilink")を中心にした攻撃的サッカーを展開し、4度目の決勝進出（1983年、1985年、1986年）で初優勝を飾った。
+**第13回JSLカップ**（だい13かいJSLカップ）は、[1988年](../Page/1988年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")から[9月11日](../Page/9月11日.md "wikilink")まで行われた[日本サッカーリーグ](../Page/日本サッカーリーグ.md "wikilink")主催の大会である。大会はJSL1部、2部に所属する全28チーム参加による[トーナメント方式](../Page/トーナメント方式.md "wikilink")で争われた。優勝は[日産自動車サッカー部](../Page/日産自動車サッカー部.md "wikilink")であった。日産は長いスランプから復活した[木村和司](../Page/木村和司.md "wikilink")を中心にした攻撃的サッカーを展開し、4度目の決勝進出（1983年、1985年、1986年）で初優勝を飾った。
 
 ## 出場クラブ
 
 ### JSL1部
 
-  - [ヤマハ発動機サッカー部](https://ja.wikipedia.org/wiki/ヤマハ発動機サッカー部 "wikilink")
-  - [NKKサッカー部](https://ja.wikipedia.org/wiki/日本鋼管サッカー部 "wikilink")
-  - [三菱重工業サッカー部](https://ja.wikipedia.org/wiki/三菱重工業サッカー部 "wikilink")
-  - [日産自動車サッカー部](https://ja.wikipedia.org/wiki/日産自動車サッカー部 "wikilink")
-  - [読売サッカークラブ](https://ja.wikipedia.org/wiki/読売サッカークラブ "wikilink")
-  - [ヤンマーディーゼルサッカー部](https://ja.wikipedia.org/wiki/ヤンマーディーゼルサッカー部 "wikilink")
-  - [古河電気工業サッカー部](https://ja.wikipedia.org/wiki/古河電気工業サッカー部 "wikilink")
+  - [ヤマハ発動機サッカー部](../Page/ヤマハ発動機サッカー部.md "wikilink")
+  - [NKKサッカー部](../Page/日本鋼管サッカー部.md "wikilink")
+  - [三菱重工業サッカー部](../Page/三菱重工業サッカー部.md "wikilink")
+  - [日産自動車サッカー部](../Page/日産自動車サッカー部.md "wikilink")
+  - [読売サッカークラブ](../Page/読売サッカークラブ.md "wikilink")
+  - [ヤンマーディーゼルサッカー部](../Page/ヤンマーディーゼルサッカー部.md "wikilink")
+  - [古河電気工業サッカー部](../Page/古河電気工業サッカー部.md "wikilink")
   - [本田技研工業サッカー部](https://ja.wikipedia.org/wiki/Honda_FC "wikilink")
-  - [フジタ工業クラブサッカー部](https://ja.wikipedia.org/wiki/藤和不動産サッカー部 "wikilink")
-  - [住友金属工業蹴球団](https://ja.wikipedia.org/wiki/住友金属工業蹴球団 "wikilink")
-  - [全日空サッカークラブ](https://ja.wikipedia.org/wiki/全日空横浜サッカークラブ "wikilink")
+  - [フジタ工業クラブサッカー部](../Page/藤和不動産サッカー部.md "wikilink")
+  - [住友金属工業蹴球団](../Page/住友金属工業蹴球団.md "wikilink")
+  - [全日空サッカークラブ](../Page/全日空横浜サッカークラブ.md "wikilink")
   - [松下電器産業サッカー部](https://ja.wikipedia.org/wiki/松下電器産業サッカー部 "wikilink")
 
 ### JSL2部
 
-  - [マツダサッカークラブ](https://ja.wikipedia.org/wiki/東洋工業サッカー部 "wikilink")
-  - [トヨタ自動車サッカー部](https://ja.wikipedia.org/wiki/トヨタ自動車工業サッカー部 "wikilink")
-  - [東芝サッカー部](https://ja.wikipedia.org/wiki/東芝堀川町サッカー部 "wikilink")
-  - [日立製作所サッカー部](https://ja.wikipedia.org/wiki/日立製作所本社サッカー部 "wikilink")
-  - [NTT関東サッカー部](https://ja.wikipedia.org/wiki/NTT関東サッカー部 "wikilink")
-  - [田辺製薬サッカー部](https://ja.wikipedia.org/wiki/田辺三菱製薬サッカー部 "wikilink")
+  - [マツダサッカークラブ](../Page/東洋工業サッカー部.md "wikilink")
+  - [トヨタ自動車サッカー部](../Page/トヨタ自動車工業サッカー部.md "wikilink")
+  - [東芝サッカー部](../Page/東芝堀川町サッカー部.md "wikilink")
+  - [日立製作所サッカー部](../Page/日立製作所本社サッカー部.md "wikilink")
+  - [NTT関東サッカー部](../Page/NTT関東サッカー部.md "wikilink")
+  - [田辺製薬サッカー部](../Page/田辺三菱製薬サッカー部.md "wikilink")
   - [コスモ石油サッカー部](../Page/コスモ石油四日市FC.md "wikilink")
-  - [川崎製鉄サッカー部](https://ja.wikipedia.org/wiki/川崎製鉄水島サッカー部 "wikilink")
-  - [新日本製鐵サッカー部](https://ja.wikipedia.org/wiki/八幡製鉄サッカー部 "wikilink")
-  - [富士通サッカー部](https://ja.wikipedia.org/wiki/富士通サッカー部 "wikilink")
-  - [東邦チタニウムサッカー部](https://ja.wikipedia.org/wiki/東邦チタニウムサッカー部 "wikilink")
+  - [川崎製鉄サッカー部](../Page/川崎製鉄水島サッカー部.md "wikilink")
+  - [新日本製鐵サッカー部](../Page/八幡製鉄サッカー部.md "wikilink")
+  - [富士通サッカー部](../Page/富士通サッカー部.md "wikilink")
+  - [東邦チタニウムサッカー部](../Page/東邦チタニウムサッカー部.md "wikilink")
   - [大阪ガスサッカー部](https://ja.wikipedia.org/wiki/大阪ガスサッカー部 "wikilink")
-  - [甲府サッカークラブ](https://ja.wikipedia.org/wiki/甲府サッカークラブ "wikilink")
-  - [NTT関西サッカー部](https://ja.wikipedia.org/wiki/NTT西日本京都サッカー部 "wikilink")
+  - [甲府サッカークラブ](../Page/甲府サッカークラブ.md "wikilink")
+  - [NTT関西サッカー部](../Page/NTT西日本京都サッカー部.md "wikilink")
   - [帝人サッカー部](../Page/帝人サッカー部.md "wikilink")
   - [藤枝市役所サッカー部](https://ja.wikipedia.org/wiki/藤枝市役所サッカー部 "wikilink")
 

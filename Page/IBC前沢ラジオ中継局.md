@@ -1,7 +1,7 @@
-> この記事は[IBC](https://ja.wikipedia.org/wiki/IBC)から翻訳されています。
+> この記事は[IBC前沢ラジオ中継局](https://ja.wikipedia.org/wiki/IBC前沢ラジオ中継局)から翻訳されています。
 
 
-[IBC_Maesawa_Radio_Station_1.jpg](https://ja.wikipedia.org/wiki/File:IBC_Maesawa_Radio_Station_1.jpg "fig:IBC_Maesawa_Radio_Station_1.jpg") **IBC前沢ラジオ中継局**（アイビーシーまえさわラジオちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[奥州市](../Page/奥州市.md "wikilink")[前沢区に置かれていた](../Page/前沢町.md "wikilink")[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")の[中波放送](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[中継局](../Page/中継局.md "wikilink")。奥州市前沢区内や周辺地域へ電波を発射していた。
+[IBC_Maesawa_Radio_Station_1.jpg](https://ja.wikipedia.org/wiki/File:IBC_Maesawa_Radio_Station_1.jpg "fig:IBC_Maesawa_Radio_Station_1.jpg") **IBC前沢ラジオ中継局**（アイビーシーまえさわラジオちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[奥州市](../Page/奥州市.md "wikilink")[前沢区に置かれていた](../Page/前沢町.md "wikilink")[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")の[中波放送](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[中継局](../Page/中継局.md "wikilink")。奥州市前沢区内や周辺地域へ電波を発射していた。
 
 ## 概要
 
@@ -41,7 +41,7 @@
 
 ## 関連項目
 
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [一関テレビ・FM中継局](../Page/一関テレビ・FM中継局.md "wikilink") - IBCラジオは当中継局の電波が届きにくい地区をカバーするため、周波数85.5MHzで送信するFM中継局を新設した（2015年11月23日より[試験電波](../Page/試験電波.md "wikilink")を発射、同年12月1日より本放送を開始。FMによるIBCラジオ中継局は[山田FM](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")・[岩泉小本FMに続き](../Page/岩泉テレビ中継局.md "wikilink")3局目。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
   - [日本の放送送信所一覧](../Page/日本の放送送信所一覧.md "wikilink")
 

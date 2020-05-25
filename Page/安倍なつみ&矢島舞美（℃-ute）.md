@@ -1,4 +1,4 @@
-> この記事は[\&-ute](https://ja.wikipedia.org/wiki/\&-ute)から翻訳されています。
+> この記事は[安倍なつみ\&矢島舞美（℃-ute）](https://ja.wikipedia.org/wiki/安倍なつみ\&矢島舞美（℃-ute）)から翻訳されています。
 
 
 **安倍なつみ＆矢島舞美（℃-ute）**とは、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")内の女性デュエットユニットである。
@@ -65,7 +65,7 @@
 
 ## 外部リンク
 
-  - [安倍なつみ&矢島舞美 リリース作品情報](http://www.up-front-works.jp/release/search/?q=%E5%AE%89%E5%80%8D%E3%81%AA%E3%81%A4%E3%81%BF%EF%BC%86%E7%9F%A2%E5%B3%B6%E8%88%9E%E7%BE%8E) - [UP-FRONT WORKS](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")
+  - [安倍なつみ&矢島舞美 リリース作品情報](http://www.up-front-works.jp/release/search/?q=%E5%AE%89%E5%80%8D%E3%81%AA%E3%81%A4%E3%81%BF%EF%BC%86%E7%9F%A2%E5%B3%B6%E8%88%9E%E7%BE%8E) - [UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")
 
 [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2008年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2008年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 

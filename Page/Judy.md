@@ -1,7 +1,7 @@
 > この記事は[Judy](https://ja.wikipedia.org/wiki/Judy)から翻訳されています。
 
 
-『**Judy**』（ジュディー）は、[小学館](../Page/小学館.md "wikilink")が発行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性向け漫画](https://ja.wikipedia.org/wiki/女性漫画 "wikilink")[雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")。毎月24日発売。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に創刊\[1\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売の10月号をもって休刊となった。
+『**Judy**』（ジュディー）は、[小学館](../Page/小学館.md "wikilink")が発行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性向け漫画](https://ja.wikipedia.org/wiki/女性漫画 "wikilink")[雑誌](../Page/漫画雑誌.md "wikilink")。[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")。毎月24日発売。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に創刊\[1\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")発売の10月号をもって休刊となった。
 
 ## 概要
 
@@ -16,20 +16,20 @@
   - パパーズ\! 〜夫は二人もいりません〜（[まつもと史子](https://ja.wikipedia.org/wiki/まつもと史子 "wikilink")）
   - [ふたりはおしり愛](https://ja.wikipedia.org/wiki/ふたりはおしり愛 "wikilink")（[高田りえ](../Page/高田りえ.md "wikilink")）
   - 男の悪口 女の悪口（上杉可南子）
-  - 片翼同盟（[くさか里樹](https://ja.wikipedia.org/wiki/くさか里樹 "wikilink")）
+  - 片翼同盟（[くさか里樹](../Page/くさか里樹.md "wikilink")）
   - [窮鼠はチーズの夢を見る](../Page/窮鼠はチーズの夢を見る.md "wikilink")（[水城せとな](../Page/水城せとな.md "wikilink")）
   - ケイリン野郎（くさか里樹）
-  - ゴールド（[藤田和子](https://ja.wikipedia.org/wiki/藤田和子 "wikilink")）
+  - ゴールド（[藤田和子](../Page/藤田和子.md "wikilink")）
   - 幸せ咲いた（[ありさか邦](https://ja.wikipedia.org/wiki/ありさか邦 "wikilink")）
   - 色即是恋（上杉可南子）
   - シルバー（藤田和子）
-  - 適齢期の歩き方（[池田さとみ](https://ja.wikipedia.org/wiki/池田さとみ "wikilink")）
+  - 適齢期の歩き方（[池田さとみ](../Page/池田さとみ.md "wikilink")）
   - パートナー 進め\!ソラ（麻乃真純）
   - 華にナースコール（まつもと史子）　
   - 美容師MOMO（山本よしこ）
   - ほっと・ペットクリニック（麻乃真純）
   - ボディコン刑事（井上恵美子）
-  - [よい子の味方](https://ja.wikipedia.org/wiki/よい子の味方_\(2004年のテレビドラマ\) "wikilink")（[佐香厚子](https://ja.wikipedia.org/wiki/佐香厚子 "wikilink")）
+  - [よい子の味方](../Page/よい子の味方_\(2004年のテレビドラマ\).md "wikilink")（[佐香厚子](../Page/佐香厚子.md "wikilink")）
   - 離婚請負人 沙樹（綾部瑞穂）
   - リビドーの海（上杉可南子）
 
@@ -39,7 +39,7 @@
   - [武内昌美](https://ja.wikipedia.org/wiki/武内昌美 "wikilink")
   - [浜口奈津子](../Page/浜口奈津子.md "wikilink")
   - [藤臣美弥子](https://ja.wikipedia.org/wiki/藤臣美弥子 "wikilink")
-  - [吉原由起](https://ja.wikipedia.org/wiki/吉原由起 "wikilink")
+  - [吉原由起](../Page/吉原由起.md "wikilink")
   - [河野やす子](https://ja.wikipedia.org/wiki/河野やす子 "wikilink")
 
 ## 発行部数
@@ -51,7 +51,7 @@
 
 ## 関連誌
 
-  - Nighty Judy（ナイティー・ジュディー） - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")に創刊\[6\]の月刊[レディースコミック](../Page/レディースコミック.md "wikilink")誌。キャッチフレーズは「愛を語らう女性コミック誌」。毎月8日発売。
+  - Nighty Judy（ナイティー・ジュディー） - [1992年](../Page/1992年.md "wikilink")に創刊\[6\]の月刊[レディースコミック](../Page/レディースコミック.md "wikilink")誌。キャッチフレーズは「愛を語らう女性コミック誌」。毎月8日発売。
   - Judyオリジナル
 
 ## 脚注

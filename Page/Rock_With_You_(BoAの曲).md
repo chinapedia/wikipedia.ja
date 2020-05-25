@@ -1,4 +1,4 @@
-> この記事は[Rock With You \(BoA\)](https://ja.wikipedia.org/wiki/Rock_With_You_\(BoA\))から翻訳されています。
+> この記事は[Rock With You \(BoAの曲\)](https://ja.wikipedia.org/wiki/Rock_With_You_\(BoAの曲\))から翻訳されています。
 
 
 「**Rock With You**」（ロック・ウィズ・ユー）は、[BoA](../Page/BoA.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。

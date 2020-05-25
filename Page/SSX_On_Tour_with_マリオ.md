@@ -1,7 +1,7 @@
-> この記事は[SSX On Tour with ](https://ja.wikipedia.org/wiki/SSX_On_Tour_with_)から翻訳されています。
+> この記事は[SSX On Tour with マリオ](https://ja.wikipedia.org/wiki/SSX_On_Tour_with_マリオ)から翻訳されています。
 
 
-**SSX On Tour with マリオ**（SSX On Tour with Mario、エスエスエックスオンツアーウィズマリオ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[スノーボード](../Page/スノーボード.md "wikilink")アクションゲーム。SSXシリーズのひとつ。
+**SSX On Tour with マリオ**（SSX On Tour with Mario、エスエスエックスオンツアーウィズマリオ）は、[2005年](../Page/2005年.md "wikilink")に発売された[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[スノーボード](../Page/スノーボード.md "wikilink")アクションゲーム。SSXシリーズのひとつ。
 
 ## 概要
 
@@ -16,6 +16,5 @@
 
 ## 外部リンク
 
-  - [日本語版公式ホームページ](http://www.japan.ea.com/ssxontour)
-
+  -
 [Category:マリオシリーズ](https://ja.wikipedia.org/wiki/Category:マリオシリーズ "wikilink") [Category:スノーボードゲーム](https://ja.wikipedia.org/wiki/Category:スノーボードゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink")

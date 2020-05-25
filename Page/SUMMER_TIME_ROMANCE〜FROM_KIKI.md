@@ -1,11 +1,11 @@
-> この記事は[SUMMER TIME ROMANCEFROM KIKI](https://ja.wikipedia.org/wiki/SUMMER_TIME_ROMANCEFROM_KIKI)から翻訳されています。
+> この記事は[SUMMER TIME ROMANCE〜FROM KIKI](https://ja.wikipedia.org/wiki/SUMMER_TIME_ROMANCE〜FROM_KIKI)から翻訳されています。
 
 
-『**SUMMER TIME ROMANCE〜FROM KIKI**』（サマー・タイム・ロマンス フロム・ケイアイケイアイ）は、[1984年](../Page/1984年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。
+『**SUMMER TIME ROMANCE〜FROM KIKI**』（サマー・タイム・ロマンス フロム・ケイアイケイアイ）は、[1984年](../Page/1984年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 解説
 
-ラジオ・ステージョン「[KIKI](https://ja.wikipedia.org/wiki/:en:KHJZ "wikilink")」の再現という設定で曲間に[カマサミ・コング](https://ja.wikipedia.org/wiki/カマサミ・コング "wikilink")のDJが入り、曲をノン・ストップで繋いでいく構成になっている。当初はカセットのみの発売だったが、その後アナログ盤も発売され、さらにCD化もされた。
+ラジオ・ステージョン「[KIKI](https://ja.wikipedia.org/wiki/:en:KHJZ "wikilink")」の再現という設定で曲間に[カマサミ・コング](../Page/カマサミ・コング.md "wikilink")のDJが入り、曲をノン・ストップで繋いでいく構成になっている。当初はカセットのみの発売だったが、その後アナログ盤も発売され、さらにCD化もされた。
 
 ## 収録曲
 

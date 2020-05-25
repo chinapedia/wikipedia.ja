@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[カーライル・ユナイテッドFC](https://ja.wikipedia.org/wiki/カーライル・ユナイテッドFC)から翻訳されています。
 
 
 **カーライル・ユナイテッド・フットボール・クラブ**（**Carlisle United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[カンブリア州](https://ja.wikipedia.org/wiki/カンブリア州 "wikilink")、[カーライルを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/カーライル_\(イングランド\) "wikilink")。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
@@ -303,7 +303,7 @@
 
   - [ビル・シャンクリー](https://ja.wikipedia.org/wiki/ビル・シャンクリー "wikilink") 1932-1933
 
-  - [ディキシー・ディーン](https://ja.wikipedia.org/wiki/ディキシー・ディーン "wikilink") 1975-1977
+  - [ディキシー・ディーン](../Page/ディキシー・ディーン.md "wikilink") 1975-1977
 
   - [デイヴィッド・ムーア](https://ja.wikipedia.org/wiki/デイヴィッド・ムーア_（サッカー選手） "wikilink") 1983-1984
 

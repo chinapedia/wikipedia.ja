@@ -1,9 +1,9 @@
 > この記事は[Texas Instruments OMAP](https://ja.wikipedia.org/wiki/Texas_Instruments_OMAP)から翻訳されています。
 
 
-**Texas Instruments OMAP** (**オーマップ**、Open Multimedia Application Platform) は[テキサス・インスツルメンツ](https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ "wikilink")社の[マルチメディア](../Page/マルチメディア.md "wikilink")[アプリケーション向け](../Page/アプリケーションソフトウェア.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の[商標](../Page/商標.md "wikilink")である。[携帯電話](../Page/携帯電話.md "wikilink")や[タブレットなどがOMAPプロセッサを搭載している](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")。
+**Texas Instruments OMAP** (**オーマップ**、Open Multimedia Application Platform) は[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")社の[マルチメディア](../Page/マルチメディア.md "wikilink")[アプリケーション向け](../Page/アプリケーションソフトウェア.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の[商標](../Page/商標.md "wikilink")である。[携帯電話](../Page/携帯電話.md "wikilink")や[タブレットなどがOMAPプロセッサを搭載している](../Page/タブレット_\(コンピュータ\).md "wikilink")。
 
-OMAPファミリーのプロセッサは、汎用のホスト[ARMプロセッサと](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")[DSPを内蔵した](https://ja.wikipedia.org/wiki/デジタルシグナルプロセッサ "wikilink")、[デュアルコア](https://ja.wikipedia.org/wiki/デュアルコア "wikilink")アーキテクチャを構成している。通常は、[Texas Instruments TMS320シリーズのDSPを内蔵している](https://ja.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink")。
+OMAPファミリーのプロセッサは、汎用のホスト[ARMプロセッサと](../Page/ARMアーキテクチャ.md "wikilink")[DSPを内蔵した](../Page/デジタルシグナルプロセッサ.md "wikilink")、[デュアルコア](https://ja.wikipedia.org/wiki/デュアルコア "wikilink")アーキテクチャを構成している。通常は、[Texas Instruments TMS320シリーズのDSPを内蔵している](https://ja.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink")。
 
 ## プロセッサファミリー
 
@@ -13,23 +13,23 @@ OMAPファミリーのプロセッサは、汎用のホスト[ARMプロセッサ
 
   - OMAPV1030 - [EDGE](https://ja.wikipedia.org/wiki/GSM#EDGE "wikilink") digital baseband
   - OMAPV1035 - single-chip EDGE
-  - OMAP850 - 200 MHz [ARM926EJ-S](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") + [GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")/GPRS digital baseband + 積層 EDGE コプロセッサ
+  - OMAP850 - 200 MHz [ARM926EJ-S](../Page/ARMアーキテクチャ.md "wikilink") + [GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")/GPRS digital baseband + 積層 EDGE コプロセッサ
   - OMAP750 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + DDR メモリをサポート
   - OMAP733 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + 積層 SDRAM
   - OMAP730 - 200 MHz ARM926EJ-S + GSM/GPRS digital baseband + SDRAM メモリをサポート
-  - OMAP710 - 133 MHz [ARM925](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") + GSM/GPRS digital baseband
+  - OMAP710 - 133 MHz [ARM925](../Page/ARMアーキテクチャ.md "wikilink") + GSM/GPRS digital baseband
 
 ### Basic Multimedia
 
-  - OMAP331 - [ARM9](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
+  - OMAP331 - [ARM9](../Page/ARMアーキテクチャ.md "wikilink")
   - OMAP310 - ARM9
-  - OMAP-DM270 - [ARM7](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") + [C54x](https://ja.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP
+  - OMAP-DM270 - [ARM7](../Page/ARMアーキテクチャ.md "wikilink") + [C54x](https://ja.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP
 
 ### High Performance
 
 #### OMAP 1シリーズ
 
-  - OMAP1510 - 168 MHz [ARM925T (TI-enhanced)](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") + C55x DSP
+  - OMAP1510 - 168 MHz [ARM925T (TI-enhanced)](../Page/ARMアーキテクチャ.md "wikilink") + C55x DSP
   - OMAP5910 - ARM9 + C55x DSP
   - OMAP161xシリーズ
       - OMAP1610 - 204 MHz ARM926EJ-S + C55x DSP
@@ -41,9 +41,9 @@ OMAPファミリーのプロセッサは、汎用のホスト[ARMプロセッサ
 
 #### OMAP 2シリーズ
 
-  - OMAP2420 - 330 MHz [ARM11](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") + 220 MHz [C55x](https://ja.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP + [PowerVR](../Page/PowerVR.md "wikilink") MBX 2D/3D Graphics Accelerator + IVA
+  - OMAP2420 - 330 MHz [ARM11](../Page/ARMアーキテクチャ.md "wikilink") + 220 MHz [C55x](https://ja.wikipedia.org/wiki/Texas_Instruments_TMS320 "wikilink") DSP + [PowerVR](../Page/PowerVR.md "wikilink") MBX 2D/3D Graphics Accelerator + IVA
   - OMAP2430 - 330 MHz ARM1136 + PowerVR MBX lite 2D/3D Graphics Accelerator + IVA2
-  - OMAP2431 - 330 MHz [ARM1136](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") + IVA2
+  - OMAP2431 - 330 MHz [ARM1136](../Page/ARMアーキテクチャ.md "wikilink") + IVA2
 
 #### OMAP 3シリーズ
 
@@ -153,7 +153,7 @@ OMAPファミリーのプロセッサは、汎用のホスト[ARMプロセッサ
 <td><p>1 GHz ARM Cortex-A8</p></td>
 <td><p>PowerVR SGX530</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/レノボ" title="wikilink">レノボ</a>
+<li><a href="../Page/レノボ.md" title="wikilink">レノボ</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/IdeaPad" title="wikilink">IdeaPad Tablet A1</a></li>
 </ul></li>
@@ -165,11 +165,11 @@ OMAPファミリーのプロセッサは、汎用のホスト[ARMプロセッサ
 <td><p>600 MHz~1.2 GHz ARM Cortex-A8</p></td>
 <td><p>PowerVR SGX530</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/LGエレクトロニクス" title="wikilink">LGエレクトロニクス</a>
+<li><a href="../Page/LGエレクトロニクス.md" title="wikilink">LGエレクトロニクス</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/L-07C" title="wikilink">Optimus bright L-07C</a></li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ" title="wikilink">パナソニック</a>
+<li><a href="../Page/パナソニック_モバイルコミュニケーションズ.md" title="wikilink">パナソニック</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/P-07C" title="wikilink">P-07C</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SoftBank_003P" title="wikilink">Sweety 003P</a></li>
@@ -243,7 +243,7 @@ LP<a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a></p></td>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/ISW11F" title="wikilink">ARROWS Z ISW11F</a></li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/ブラックベリー_(企業)" title="wikilink">リサーチ・イン・モーション</a>
+<li><a href="../Page/ブラックベリー_(企業).md" title="wikilink">リサーチ・イン・モーション</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/BlackBerry_PlayBook" title="wikilink">BlackBerry PlayBook</a></li>
 </ul></li>
@@ -275,13 +275,13 @@ LP<a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a></p></td>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/K7" title="wikilink">K7</a></li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/船井電機" title="wikilink">船井電機</a>
+<li><a href="../Page/船井電機.md" title="wikilink">船井電機</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/Smart_TV_Stick" title="wikilink">Smart TV Stick</a></li>
 </ul></li>
 <li><a href="../Page/ソニー.md" title="wikilink">ソニー</a>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ウォークマン" title="wikilink">WALKMAN</a> NW-F880シリーズ</li>
+<li><a href="../Page/ウォークマン.md" title="wikilink">WALKMAN</a> NW-F880シリーズ</li>
 <li>NW-ZX1</li>
 </ul></li>
 </ul></td>
@@ -415,13 +415,13 @@ PowerVR SGX544MP<br />
 
   - [Atom](https://ja.wikipedia.org/wiki/intel_Atom "wikilink") ― [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")製
   - [Exynos](https://ja.wikipedia.org/wiki/Exynos "wikilink") ― [サムスン電子](../Page/サムスン電子.md "wikilink")製
-  - [Snapdragon](https://ja.wikipedia.org/wiki/Snapdragon "wikilink") ― [クアルコム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")製
-  - [Tegra](https://ja.wikipedia.org/wiki/NVIDIA_Tegra "wikilink") ― [NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")製
+  - [Snapdragon](https://ja.wikipedia.org/wiki/Snapdragon "wikilink") ― [クアルコム](../Page/クアルコム.md "wikilink")製
+  - [Tegra](https://ja.wikipedia.org/wiki/NVIDIA_Tegra "wikilink") ― [NVIDIA](../Page/NVIDIA.md "wikilink")製
 
 ## 関連項目
 
-  - [Texas Instruments DaVinci](https://ja.wikipedia.org/wiki/Texas_Instruments_DaVinci "wikilink") - マルチメディアアプリケーションを対象にした同様のプロセッサファミリー
-  - [ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
+  - [Texas Instruments DaVinci](../Page/Texas_Instruments_DaVinci.md "wikilink") - マルチメディアアプリケーションを対象にした同様のプロセッサファミリー
+  - [ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")
 
 ## 脚注
 

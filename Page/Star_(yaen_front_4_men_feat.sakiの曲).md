@@ -1,26 +1,26 @@
-> この記事は[Star \(yaen front 4 men feat.saki\)](https://ja.wikipedia.org/wiki/Star_\(yaen_front_4_men_feat.saki\))から翻訳されています。
+> この記事は[Star \(yaen front 4 men feat.sakiの曲\)](https://ja.wikipedia.org/wiki/Star_\(yaen_front_4_men_feat.sakiの曲\))から翻訳されています。
 
 
 **star**（スター）は、日本の歌手グループ、[野猿](../Page/野猿.md "wikilink")の10枚目のシングル。 [2001年](../Page/2001年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")発売。
 
 ## 解説
 
-  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』エンディングテーマ。[明治生命](../Page/明治安田生命保険.md "wikilink")「ライフアカウントL.A.」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - 野猿から[石橋](../Page/石橋貴明.md "wikilink")・[木梨](../Page/木梨憲武.md "wikilink")・[平山](https://ja.wikipedia.org/wiki/平山晃哉 "wikilink")・[神波のボーカルチーム](https://ja.wikipedia.org/wiki/神波憲人 "wikilink")4人に、[女猿](https://ja.wikipedia.org/wiki/女猿 "wikilink")の[小林紗貴](https://ja.wikipedia.org/wiki/小林紗貴 "wikilink")をメインボーカルとして迎えた「yaen front 4 men feat.saki」名義での作品。
+  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』エンディングテーマ。[明治生命](../Page/明治安田生命保険.md "wikilink")「ライフアカウントL.A.」[CMソング](../Page/コマーシャルソング.md "wikilink")。
+  - 野猿から[石橋](../Page/石橋貴明.md "wikilink")・[木梨](../Page/木梨憲武.md "wikilink")・[平山](https://ja.wikipedia.org/wiki/平山晃哉 "wikilink")・[神波のボーカルチーム](https://ja.wikipedia.org/wiki/神波憲人 "wikilink")4人に、[女猿](../Page/女猿.md "wikilink")の[小林紗貴](https://ja.wikipedia.org/wiki/小林紗貴 "wikilink")をメインボーカルとして迎えた「yaen front 4 men feat.saki」名義での作品。
 
 ## 収録曲
 
 1.  star
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
-        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[撤収](https://ja.wikipedia.org/wiki/撤収_\(アルバム\) "wikilink")』に収録
+        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
+        [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[撤収](../Page/撤収_\(アルバム\).md "wikilink")』に収録
 2.  wanna be
       -
         作詞：秋元康、作曲・編曲：後藤次利
 3.  dear
       -
-        作詞：小林紗貴・[新堂敦士](https://ja.wikipedia.org/wiki/新堂敦士 "wikilink")、作曲・編曲：後藤次利
-        平山と小林による[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")ソング
+        作詞：小林紗貴・[新堂敦士](../Page/新堂敦士.md "wikilink")、作曲・編曲：後藤次利
+        平山と小林による[デュエット](../Page/デュエット.md "wikilink")ソング
 4.  star -Original Karaoke-
 5.  wanna be -Original Karaoke-
 6.  dear-Original Karaoke-

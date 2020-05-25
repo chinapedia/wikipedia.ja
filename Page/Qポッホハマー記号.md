@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Qポッホハマー記号](https://ja.wikipedia.org/wiki/Qポッホハマー記号)から翻訳されています。
 
 
 数学において、**qポッホハマー記号**()は[q-類似](https://ja.wikipedia.org/wiki/q-類似 "wikilink")の数式に頻出する乗積を略記する記号である\[1\]\[2\]\[3\]。

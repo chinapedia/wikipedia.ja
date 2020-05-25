@@ -1,7 +1,7 @@
-> この記事は[Crystal  ](https://ja.wikipedia.org/wiki/Crystal__)から翻訳されています。
+> この記事は[Crystal 〜サーカス ヴォーカルコレクション〜](https://ja.wikipedia.org/wiki/Crystal_〜サーカス_ヴォーカルコレクション〜)から翻訳されています。
 
 
-『**crystal 〜サーカス ヴォーカルコレクション〜**』（クリスタル 〜サーカス ヴォーカルコレクション〜）は、[CIRCUSのテーマ曲を集めた](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。 [2003年](../Page/2003年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に [Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+『**crystal 〜サーカス ヴォーカルコレクション〜**』（クリスタル 〜サーカス ヴォーカルコレクション〜）は、[CIRCUSのテーマ曲を集めた](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [2003年](../Page/2003年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に [Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
@@ -22,10 +22,10 @@
 
 ## タイアップ
 
-  - [パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](https://ja.wikipedia.org/wiki/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜 "wikilink")』オープニングテーマ（\#1）、同エンディングテーマ（\#2）、同挿入歌（\#12）
-  - パソコンゲーム『[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜 "wikilink")』オープニングテーマ（\#3）、同エンディングテーマ（\#5）
+  - [パソコンゲーム](../Page/パソコンゲーム.md "wikilink")『[D.C. White Season 〜ダ・カーポ ホワイトシーズン〜](../Page/D.C._White_Season_〜ダ・カーポ_ホワイトシーズン〜.md "wikilink")』オープニングテーマ（\#1）、同エンディングテーマ（\#2）、同挿入歌（\#12）
+  - パソコンゲーム『[D.C. 〜ダ・カーポ〜](../Page/D.C._〜ダ・カーポ〜.md "wikilink")』オープニングテーマ（\#3）、同エンディングテーマ（\#5）
   - パソコンゲーム『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』エンディングテーマ（\#6）、同挿入歌（\#4）
   - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")『[水夏 〜SUIKA〜](../Page/水夏.md "wikilink")』オープニングテーマ（\#7）、同エンディングテーマ（\#8）、同挿入歌（\#9）
-  - パソコンゲーム『[Infantaria](https://ja.wikipedia.org/wiki/Infantaria "wikilink")XP』オープニングテーマ（\#10）、同エンディングテーマ（\#11）
+  - パソコンゲーム『[Infantaria](../Page/Infantaria.md "wikilink")XP』オープニングテーマ（\#10）、同エンディングテーマ（\#11）
 
 [Category:CIRCUSの音楽](https://ja.wikipedia.org/wiki/Category:CIRCUSの音楽 "wikilink") [Category:D.C._〜ダ・カーポ〜シリーズのアルバム](https://ja.wikipedia.org/wiki/Category:D.C._〜ダ・カーポ〜シリーズのアルバム "wikilink") [Category:ランティスのアルバム](https://ja.wikipedia.org/wiki/Category:ランティスのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")

@@ -1,11 +1,11 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハポエル・テルアビブFC](https://ja.wikipedia.org/wiki/ハポエル・テルアビブFC)から翻訳されています。
 
 
 **ハポエル・テルアビブFC**（[ヘブライ語](../Page/ヘブライ語.md "wikilink"): 、[ラテン文字](../Page/ラテン文字.md "wikilink")転写: Hapoel Tel Aviv F.C.）は、[イスラエル](../Page/イスラエル.md "wikilink")の都市[テルアビブ](https://ja.wikipedia.org/wiki/テルアビブ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 概要
 
-[1923年](../Page/1923年.md "wikilink")創設。国内リーグ、カップの優勝回数はどちらも地元のライバルの[マッカビ・テルアビブFC](https://ja.wikipedia.org/wiki/マッカビ・テルアビブFC "wikilink")に次ぎ、国内で2番目に多い。テルアビブ近郊の[ヤッファ](https://ja.wikipedia.org/wiki/ヤッファ "wikilink")にあるブルームフィールド・スタジアムを本拠地とする。
+[1923年](../Page/1923年.md "wikilink")創設。国内リーグ、カップの優勝回数はどちらも地元のライバルの[マッカビ・テルアビブFC](../Page/マッカビ・テルアビブFC.md "wikilink")に次ぎ、国内で2番目に多い。テルアビブ近郊の[ヤッファ](../Page/ヤッファ.md "wikilink")にあるブルームフィールド・スタジアムを本拠地とする。
 
 ## タイトル
 
@@ -161,11 +161,11 @@
 
   - [ベン・サハル](../Page/ベン・サハル.md "wikilink") 2005-2006, 2010-2011
 
-  - [ジョン・ペイントシル](https://ja.wikipedia.org/wiki/ジョン・ペイントシル "wikilink") 2005-2006
+  - [ジョン・ペイントシル](../Page/ジョン・ペイントシル.md "wikilink") 2005-2006
 
   - [ビブラス・ナトホ](https://ja.wikipedia.org/wiki/ビブラス・ナトホ "wikilink") 2006-2010
 
-  - [ファビオ・ジュニオール](https://ja.wikipedia.org/wiki/ファビオ・ジュニオール・ペレイラ "wikilink") 2007-2008
+  - [ファビオ・ジュニオール](../Page/ファビオ・ジュニオール・ペレイラ.md "wikilink") 2007-2008
 
   - [ヴィンセント・エニェアマ](https://ja.wikipedia.org/wiki/ヴィンセント・エニェアマ "wikilink") 2007-2011
 
@@ -201,7 +201,7 @@
 
   - [サムエル・シャイマン](https://ja.wikipedia.org/wiki/サムエル・シャイマン "wikilink")
 
-  - [ハムザ・バリー](https://ja.wikipedia.org/wiki/ハムザ・バリー "wikilink")
+  - [ハムザ・バリー](../Page/ハムザ・バリー.md "wikilink")
 
   - [ネマニャ・ニコリッチ](https://ja.wikipedia.org/wiki/ネマニャ・ニコリッチ_\(1988年生のサッカー選手\) "wikilink")
 

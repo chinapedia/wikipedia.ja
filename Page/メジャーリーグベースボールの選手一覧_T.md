@@ -1,4 +1,4 @@
-> この記事は[ T](https://ja.wikipedia.org/wiki/_T)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 T](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_T)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**T**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kazuhito_Tadano" title="wikilink">Kazuhito Tadano</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/多田野数人" title="wikilink">多田野数人</a></p></td>
+<td><p><a href="../Page/多田野数人.md" title="wikilink">多田野数人</a></p></td>
 <td><p>2004</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -186,14 +186,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ken_Takahashi" title="wikilink">Ken Takahashi</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋建" title="wikilink">高橋建</a></p></td>
+<td><p><a href="../Page/高橋建.md" title="wikilink">高橋建</a></p></td>
 <td><p>2009</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Shingo_Takatsu" title="wikilink">Shingo Takatsu</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高津臣吾" title="wikilink">高津臣吾</a></p></td>
+<td><p><a href="../Page/高津臣吾.md" title="wikilink">高津臣吾</a></p></td>
 <td><p>2004</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -284,7 +284,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kensuke_Tanaka" title="wikilink">Kensuke Tanaka</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中賢介" title="wikilink">田中賢介</a></p></td>
+<td><p><a href="../Page/田中賢介.md" title="wikilink">田中賢介</a></p></td>
 <td><p>2013</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -403,7 +403,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Tarasco" title="wikilink">Tony Tarasco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・タラスコ" title="wikilink">トニー・タラスコ</a></p></td>
+<td><p><a href="../Page/トニー・タラスコ.md" title="wikilink">トニー・タラスコ</a></p></td>
 <td><p>1993</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -543,7 +543,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Yoshinori_Tateyama" title="wikilink">Yoshinori Tateyama</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/建山義紀" title="wikilink">建山義紀</a></p></td>
+<td><p><a href="../Page/建山義紀.md" title="wikilink">建山義紀</a></p></td>
 <td><p>2011</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -585,7 +585,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Tatum_(baseball)" title="wikilink">Jim Tatum</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・テータム" title="wikilink">ジム・テータム</a></p></td>
+<td><p><a href="../Page/ジム・テータム.md" title="wikilink">ジム・テータム</a></p></td>
 <td><p>1992</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -704,7 +704,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willy_Taveras" title="wikilink">Willy Taveras</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・タベラス" title="wikilink">ウィリー・タベラス</a></p></td>
+<td><p><a href="../Page/ウィリー・タベラス.md" title="wikilink">ウィリー・タベラス</a></p></td>
 <td><p>2004</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -739,7 +739,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Beau_Taylor" title="wikilink">Beau Taylor</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボー・テイラー" title="wikilink">ボー・テイラー</a></p></td>
+<td><p><a href="../Page/ボー・テイラー.md" title="wikilink">ボー・テイラー</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -795,7 +795,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Taylor_(baseball)" title="wikilink">Bob Taylor</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・テーラー" title="wikilink">ボビー・テイラー</a></p></td>
+<td><p><a href="../Page/ボビー・テーラー.md" title="wikilink">ボビー・テイラー</a></p></td>
 <td><p>1970</p></td>
 <td><p>1970</p></td>
 <td></td>
@@ -956,7 +956,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Josh_Taylor_(baseball)" title="wikilink">Josh Taylor</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョシュ・テイラー_(野球)" title="wikilink">ジョシュ・テイラー</a></p></td>
+<td><p><a href="../Page/ジョシュ・テイラー_(野球).md" title="wikilink">ジョシュ・テイラー</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -1217,7 +1217,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Miguel_Tejada" title="wikilink">Miguel Tejada</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミゲル・テハダ" title="wikilink">ミゲル・テハダ</a></p></td>
+<td><p><a href="../Page/ミゲル・テハダ.md" title="wikilink">ミゲル・テハダ</a></p></td>
 <td><p>1997</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -1238,7 +1238,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rob_Tejeda" title="wikilink">Rob Tejeda</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロビンソン・テヘダ" title="wikilink">ロビンソン・テヘダ</a></p></td>
+<td><p><a href="../Page/ロビンソン・テヘダ.md" title="wikilink">ロビンソン・テヘダ</a></p></td>
 <td><p>2005</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -1799,14 +1799,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bobby_Thigpen" title="wikilink">Bobby Thigpen</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・シグペン" title="wikilink">ボビー・シグペン</a></p></td>
+<td><p><a href="../Page/ボビー・シグペン.md" title="wikilink">ボビー・シグペン</a></p></td>
 <td><p>1986</p></td>
 <td><p>1994</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Curtis_Thigpen" title="wikilink">Curtis Thigpen</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カーティス・シグペン" title="wikilink">カーティス・シグペン</a></p></td>
+<td><p><a href="../Page/カーティス・シグペン.md" title="wikilink">カーティス・シグペン</a></p></td>
 <td><p>2007</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -1869,7 +1869,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brad_Thomas" title="wikilink">Brad Thomas</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラッド・トーマス" title="wikilink">ブラッド・トーマス</a></p></td>
+<td><p><a href="../Page/ブラッド・トーマス.md" title="wikilink">ブラッド・トーマス</a></p></td>
 <td><p>2001</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -1946,7 +1946,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Frank_Thomas_(designated_hitter)" title="wikilink">Frank Thomas</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・トーマス" title="wikilink">フランク・トーマス</a></p></td>
+<td><p><a href="../Page/フランク・トーマス.md" title="wikilink">フランク・トーマス</a></p></td>
 <td><p>1990</p></td>
 <td><p>2008</p></td>
 <td><p>殿堂入り、指名打者、Frank Edward Thomas, Jr.</p></td>
@@ -1974,7 +1974,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Gorman_Thomas" title="wikilink">Gorman Thomas</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴーマン・トーマス" title="wikilink">ゴーマン・トーマス</a></p></td>
+<td><p><a href="../Page/ゴーマン・トーマス.md" title="wikilink">ゴーマン・トーマス</a></p></td>
 <td><p>1973</p></td>
 <td><p>1986</p></td>
 <td></td>
@@ -2149,14 +2149,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Gary_Thomasson" title="wikilink">Gary Thomasson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲーリー・トマソン" title="wikilink">ゲイリー・トマソン</a></p></td>
+<td><p><a href="../Page/ゲーリー・トマソン.md" title="wikilink">ゲイリー・トマソン</a></p></td>
 <td><p>1972</p></td>
 <td><p>1980</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Thome" title="wikilink">Jim Thome</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・トーミ" title="wikilink">ジム・トーミ</a></p></td>
+<td><p><a href="../Page/ジム・トーミ.md" title="wikilink">ジム・トーミ</a></p></td>
 <td><p>1991</p></td>
 <td><p>2012</p></td>
 <td><p>殿堂入り</p></td>
@@ -2604,7 +2604,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Thorpe" title="wikilink">Jim Thorpe</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・ソープ" title="wikilink">ジム・ソープ</a></p></td>
+<td><p><a href="../Page/ジム・ソープ.md" title="wikilink">ジム・ソープ</a></p></td>
 <td><p>1913</p></td>
 <td><p>1919</p></td>
 <td></td>
@@ -2870,7 +2870,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Timlin" title="wikilink">Mike Timlin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ティムリン" title="wikilink">マイク・ティムリン</a></p></td>
+<td><p><a href="../Page/マイク・ティムリン.md" title="wikilink">マイク・ティムリン</a></p></td>
 <td><p>1991</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -3154,7 +3154,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jose_Tolentino" title="wikilink">Jose Tolentino</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・トレンティーノ" title="wikilink">ホセ・トレンティーノ</a></p></td>
+<td><p><a href="../Page/ホセ・トレンティーノ.md" title="wikilink">ホセ・トレンティーノ</a></p></td>
 <td><p>1991</p></td>
 <td><p>1991</p></td>
 <td></td>
@@ -3441,7 +3441,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Torre" title="wikilink">Joe Torre</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・トーリ" title="wikilink">ジョー・トーリ</a></p></td>
+<td><p><a href="../Page/ジョー・トーリ.md" title="wikilink">ジョー・トーリ</a></p></td>
 <td><p>1960</p></td>
 <td><p>1977</p></td>
 <td><p>殿堂入り</p></td>
@@ -3462,7 +3462,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Yorvit_Torrealba" title="wikilink">Yorvit Torrealba</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヨービット・トレアルバ" title="wikilink">ヨービット・トレアルバ</a></p></td>
+<td><p><a href="../Page/ヨービット・トレアルバ.md" title="wikilink">ヨービット・トレアルバ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3567,14 +3567,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rusty_Torres" title="wikilink">Rusty Torres</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラスティ・トーレス" title="wikilink">ラスティ・トーレス</a></p></td>
+<td><p><a href="../Page/ラスティ・トーレス.md" title="wikilink">ラスティ・トーレス</a></p></td>
 <td><p>1971</p></td>
 <td><p>1980</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Salomon_Torres" title="wikilink">Salomon Torres</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サロモン・トーレス" title="wikilink">サロモン・トーレス</a></p></td>
+<td><p><a href="../Page/サロモン・トーレス.md" title="wikilink">サロモン・トーレス</a></p></td>
 <td><p>1993</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -3700,7 +3700,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Toy_(baseball)" title="wikilink">Jim Toy</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・トイ_(野球)" title="wikilink">ジム・トイ</a></p></td>
+<td><p><a href="../Page/ジム・トイ_(野球).md" title="wikilink">ジム・トイ</a></p></td>
 <td><p>1887</p></td>
 <td><p>1890</p></td>
 <td></td>
@@ -3736,7 +3736,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Traber" title="wikilink">Jim Traber</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・トレーバー" title="wikilink">ジム・トレーバー</a></p></td>
+<td><p><a href="../Page/ジム・トレーバー.md" title="wikilink">ジム・トレーバー</a></p></td>
 <td><p>1984</p></td>
 <td><p>1989</p></td>
 <td></td>
@@ -3771,7 +3771,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chad_Tracy" title="wikilink">Chad Tracy</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャド・トレーシー" title="wikilink">チャド・トレーシー</a></p></td>
+<td><p><a href="../Page/チャド・トレーシー.md" title="wikilink">チャド・トレーシー</a></p></td>
 <td><p>2004</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3890,7 +3890,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brian_Traxler" title="wikilink">Brian Traxler</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・トラックスラー" title="wikilink">ブライアン・トラックスラー</a></p></td>
+<td><p><a href="../Page/ブライアン・トラックスラー.md" title="wikilink">ブライアン・トラックスラー</a></p></td>
 <td><p>1990</p></td>
 <td><p>1990</p></td>
 <td></td>
@@ -4373,7 +4373,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Michael_Tucker_(baseball)" title="wikilink">Michael Tucker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・タッカー_(野球)" title="wikilink">マイケル・タッカー</a></p></td>
+<td><p><a href="../Page/マイケル・タッカー_(野球).md" title="wikilink">マイケル・タッカー</a></p></td>
 <td><p>1995</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -4471,7 +4471,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lee_Tunnell" title="wikilink">Lee Tunnell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リー・タネル" title="wikilink">リー・タネル</a></p></td>
+<td><p><a href="../Page/リー・タネル.md" title="wikilink">リー・タネル</a></p></td>
 <td><p>1982</p></td>
 <td><p>1989</p></td>
 <td></td>
@@ -4828,7 +4828,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Tyrone" title="wikilink">Jim Tyrone</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・タイロン" title="wikilink">ジム・タイロン</a></p></td>
+<td><p><a href="../Page/ジム・タイロン.md" title="wikilink">ジム・タイロン</a></p></td>
 <td><p>1972</p></td>
 <td><p>1977</p></td>
 <td></td>

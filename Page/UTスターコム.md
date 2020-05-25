@@ -1,4 +1,4 @@
-> この記事は[UT](https://ja.wikipedia.org/wiki/UT)から翻訳されています。
+> この記事は[UTスターコム](https://ja.wikipedia.org/wiki/UTスターコム)から翻訳されています。
 
 
 **UTスターコム**（英語表記 : UTStarcom, Inc.）とは、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に本社を置く、世界的な通信インフラプロバイダーである。

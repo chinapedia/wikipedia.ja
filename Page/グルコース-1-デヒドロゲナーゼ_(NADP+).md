@@ -1,10 +1,10 @@
-> この記事は[-1- \(NADP+\)](https://ja.wikipedia.org/wiki/-1-_\(NADP+\))から翻訳されています。
+> この記事は[グルコース-1-デヒドロゲナーゼ \(NADP+\)](https://ja.wikipedia.org/wiki/グルコース-1-デヒドロゲナーゼ_\(NADP+\))から翻訳されています。
 
 
 **グルコース-1-デヒドロゲナーゼ (NADP<sup>+</sup>)**（glucose 1-dehydrogenase (NADP<sup>+</sup>); ）は、以下の[化学反応](https://ja.wikipedia.org/wiki/化学反応 "wikilink")を[触媒](../Page/触媒.md "wikilink")する[酵素](../Page/酵素.md "wikilink")である。
 
   -
-    [β-D-グルコース](../Page/グルコース.md "wikilink") + NADP<sup>+</sup> \(\rightleftharpoons\) [D-グルコノ-1,5-ラクトン](../Page/グルコノラクトン.md "wikilink") + NADPH + [H<sup>+</sup>](https://ja.wikipedia.org/wiki/水素イオン "wikilink")
+    [β-D-グルコース](../Page/グルコース.md "wikilink") + NADP<sup>+</sup> \(\rightleftharpoons\) [D-グルコノ-1,5-ラクトン](../Page/グルコノラクトン.md "wikilink") + NADPH + [H<sup>+</sup>](../Page/水素イオン.md "wikilink")
 
 すなわち、2つの基質β-D-グルコース、[ニコチンアミドアデニンジヌクレオチドリン酸](../Page/ニコチンアミドアデニンジヌクレオチドリン酸.md "wikilink")(NADP)が関与して、3つの生成物としてD-グルコノ-1,5-ラクトン、NADPH、H<sup>+</sup>へと導く。
 

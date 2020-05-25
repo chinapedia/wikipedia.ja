@@ -7,7 +7,7 @@
 
 メディアの表面に塗布された特殊なインクを、ディスクの書き込みに使用するレーザーを用いて化学変化を起こし、文字や画像などの描画を行なう。2009年時点では黒色描画のみだが、多色描画も研究されている。
 
-類似の技術である[Labelflash](https://ja.wikipedia.org/wiki/Labelflash "wikilink")と同じく描画にインクを使わず、にじみは少ない。Labelflashは、描画層がポリカーボネート層で保護された位置にあるが、LightScribeはディスク表面にあるため、汚れや傷に弱い。またLightScribeは淡金色の表面に黒色で描画するため、Labelflashよりもコントラストが強く、はっきり描画できる。メディアは、DVD-RだけのLabelflashと異なり、CD-Rもある。
+類似の技術である[Labelflash](../Page/Labelflash.md "wikilink")と同じく描画にインクを使わず、にじみは少ない。Labelflashは、描画層がポリカーボネート層で保護された位置にあるが、LightScribeはディスク表面にあるため、汚れや傷に弱い。またLightScribeは淡金色の表面に黒色で描画するため、Labelflashよりもコントラストが強く、はっきり描画できる。メディアは、DVD-RだけのLabelflashと異なり、CD-Rもある。
 
 印字には、対応ドライブ・メディア・書込みソフトが必要である。対応メディアは、ラベル面の最内周部に、対応ディスクであることを示す情報が埋め込まれている。 2013年時点では、対応メディアの入手が困難（国内では販売されていない）なため、海外から個人輸入する必要がある。対するLabelflashは現在も対応メディアの入手は容易である。
 
@@ -26,8 +26,8 @@
 
 <!-- end list -->
 
-  - [ASUS](https://ja.wikipedia.org/wiki/ASUS "wikilink")
-  - [BenQ](https://ja.wikipedia.org/wiki/BenQ "wikilink")
+  - [ASUS](../Page/ASUS.md "wikilink")
+  - [BenQ](../Page/BenQ.md "wikilink")
   - ヒューレット・パッカード
   - [LG電子](https://ja.wikipedia.org/wiki/LG電子 "wikilink")
   - [LITE-ON](https://ja.wikipedia.org/wiki/LITE-ON "wikilink")

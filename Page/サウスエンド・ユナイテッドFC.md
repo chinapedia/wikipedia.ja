@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サウスエンド・ユナイテッドFC](https://ja.wikipedia.org/wiki/サウスエンド・ユナイテッドFC)から翻訳されています。
 
 
 **サウスエンド・ユナイテッド・フットボール・クラブ**（**Southend United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[エセックス州](https://ja.wikipedia.org/wiki/エセックス州 "wikilink")、[サウスエンド・オン・シー](https://ja.wikipedia.org/wiki/サウスエンド・オン・シー "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。

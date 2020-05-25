@@ -1,4 +1,4 @@
-> この記事は[AM!AM!8](https://ja.wikipedia.org/wiki/AM!AM!8)から翻訳されています。
+> この記事は[それいけAM!AM!こちら下荒子8番地](https://ja.wikipedia.org/wiki/それいけAM!AM!こちら下荒子8番地)から翻訳されています。
 
 
 **それいけAM\!AM\!こちら下荒子8番地**（それゆけあむあむこちらしもあらこはちばんち）は、[ラジオ福島](../Page/ラジオ福島.md "wikilink")で放送されていた深夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")（スタジオ）の所在地をそのままタイトルに入れた番組である。

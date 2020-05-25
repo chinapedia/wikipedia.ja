@@ -1,4 +1,4 @@
-> この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
+> この記事は[TVアニメ『らき☆すた』エンディングテーマ集 〜ある日のカラオケボックス〜](https://ja.wikipedia.org/wiki/TVアニメ『らき☆すた』エンディングテーマ集_〜ある日のカラオケボックス〜)から翻訳されています。
 
 
 『**TVアニメ『らき☆すた』エンディングテーマ集 〜ある日のカラオケボックス〜**』（テレビアニメらきすたエンディングテーマしゅう あるひのカラオケボックス）は、[2007年](../Page/2007年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[ランティス](../Page/ランティス.md "wikilink")から発売された、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[らき☆すた](https://ja.wikipedia.org/wiki/らき☆すた_\(アニメ\) "wikilink")』の[エンディングテーマ集](../Page/主題歌.md "wikilink")。

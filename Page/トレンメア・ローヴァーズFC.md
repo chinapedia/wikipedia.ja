@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トレンメア・ローヴァーズFC](https://ja.wikipedia.org/wiki/トレンメア・ローヴァーズFC)から翻訳されています。
 
 
 **トレンメア・ローヴァーズ・フットボール・クラブ**（**Tranmere Rovers Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")北西部、[マージーサイド州](https://ja.wikipedia.org/wiki/マージーサイド州 "wikilink")、[バーケンヘッド](https://ja.wikipedia.org/wiki/バーケンヘッド "wikilink")を本拠地とするサッカークラブチーム。

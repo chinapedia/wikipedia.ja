@@ -5,11 +5,11 @@
 
 ## 概要
 
-[パソコン上で扱われる](../Page/パーソナルコンピュータ.md "wikilink")[動画](../Page/動画.md "wikilink")ファイルは様々な種類がある（[ASF](https://ja.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")、[AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")、[FLV](https://ja.wikipedia.org/wiki/Flash_Video "wikilink")、[MOV](../Page/QuickTime.md "wikilink")、[MPEGなど](../Page/Moving_Picture_Experts_Group.md "wikilink")）。それらの動画ファイルを[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink")で再生するにはDVDオーサリングツールで[DVD-Video](../Page/DVD-Video.md "wikilink")形式のディスクを作成しなければならないが、[ビギナー](https://ja.wikipedia.org/wiki/ビギナー "wikilink")には操作が難しい面もある。このDVD Flickは手軽にDVD-Videoが作成できるDVDオーサリングツールである。
+[パソコン上で扱われる](../Page/パーソナルコンピュータ.md "wikilink")[動画](../Page/動画.md "wikilink")ファイルは様々な種類がある（[ASF](../Page/Advanced_Systems_Format.md "wikilink")、[AVI](../Page/Audio_Video_Interleave.md "wikilink")、[FLV](../Page/Flash_Video.md "wikilink")、[MOV](../Page/QuickTime.md "wikilink")、[MPEGなど](../Page/Moving_Picture_Experts_Group.md "wikilink")）。それらの動画ファイルを[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")で再生するにはDVDオーサリングツールで[DVD-Video](../Page/DVD-Video.md "wikilink")形式のディスクを作成しなければならないが、[ビギナー](https://ja.wikipedia.org/wiki/ビギナー "wikilink")には操作が難しい面もある。このDVD Flickは手軽にDVD-Videoが作成できるDVDオーサリングツールである。
 
 複数の動画ファイルを[ドラッグ・アンド・ドロップ](../Page/ドラッグ・アンド・ドロップ.md "wikilink")で登録していく。
 
-最近のバージョンでは[rmvb等の](https://ja.wikipedia.org/wiki/RealVideo "wikilink")[RealMedia](https://ja.wikipedia.org/wiki/RealMedia "wikilink")系の動画も読み込めるようになったが、この形式の動画はフレームレートが12fpsとしか読み込まれない不具合がある。 また、1.3.0.7のバージョンではFLVの[On2 VP6のものが読み込まない不具合が出ている](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")。
+最近のバージョンでは[rmvb等の](https://ja.wikipedia.org/wiki/RealVideo "wikilink")[RealMedia](../Page/RealMedia.md "wikilink")系の動画も読み込めるようになったが、この形式の動画はフレームレートが12fpsとしか読み込まれない不具合がある。 また、1.3.0.7のバージョンではFLVの[On2 VP6のものが読み込まない不具合が出ている](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")。
 
 [2007年](../Page/2007年.md "wikilink")[窓の杜](../Page/窓の杜.md "wikilink")大賞の[銅](../Page/銅.md "wikilink")賞を受賞。
 
@@ -19,19 +19,19 @@
 
 ### コンテナ形式
 
-[AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")、ASF、FLV、[Matroska](https://ja.wikipedia.org/wiki/Matroska "wikilink")、[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")、[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")(PS/TS)、[QuickTime (MOV)](../Page/QuickTime.md "wikilink")、[SWFなど](../Page/Adobe_Flash.md "wikilink")。
+[AVI](../Page/Audio_Video_Interleave.md "wikilink")、ASF、FLV、[Matroska](../Page/Matroska.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")(PS/TS)、[QuickTime (MOV)](../Page/QuickTime.md "wikilink")、[SWFなど](../Page/Adobe_Flash.md "wikilink")。
 
 ### ビデオコーデック
 
-[On2VP6](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4 (DivX/Xvid)](../Page/MPEG-4.md "wikilink")、[Motion JPEG](https://ja.wikipedia.org/wiki/Motion_JPEG "wikilink")、[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")、[VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink")など。
+[On2VP6](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4 (DivX/Xvid)](../Page/MPEG-4.md "wikilink")、[Motion JPEG](../Page/Motion_JPEG.md "wikilink")、[H.264](../Page/H.264.md "wikilink")、[VC-1](../Page/VC-1.md "wikilink")など。
 
 ### オーディオコーデック
 
-[AAC](../Page/AAC.md "wikilink")、[AC-3](../Page/ドルビーデジタル.md "wikilink")、[Apple Lossless](https://ja.wikipedia.org/wiki/Apple_Lossless "wikilink")、[MP3](../Page/MP3.md "wikilink")、[Vorbis](https://ja.wikipedia.org/wiki/Vorbis "wikilink")など。
+[AAC](../Page/AAC.md "wikilink")、[AC-3](../Page/ドルビーデジタル.md "wikilink")、[Apple Lossless](../Page/Apple_Lossless.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[Vorbis](../Page/Vorbis.md "wikilink")など。
 
 ### 字幕形式
 
-[ASS](https://ja.wikipedia.org/wiki/ASS "wikilink")、[SSA](https://ja.wikipedia.org/wiki/SSA "wikilink")、[SRT](https://ja.wikipedia.org/wiki/SRT "wikilink")
+[ASS](https://ja.wikipedia.org/wiki/ASS "wikilink")、[SSA](../Page/SSA.md "wikilink")、[SRT](../Page/SRT.md "wikilink")
 
 ## 動作環境
 

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK積丹テレビ中継局](https://ja.wikipedia.org/wiki/NHK積丹テレビ中継局)から翻訳されています。
 
 
 **NHK積丹テレビ中継局**（エヌエイチケイしゃこたんテレビちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[積丹郡](../Page/積丹郡.md "wikilink")[積丹町](../Page/積丹町.md "wikilink")入舸町にある[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")であり、通称「**積丹中継局**」である。

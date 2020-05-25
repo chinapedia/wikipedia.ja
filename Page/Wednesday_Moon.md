@@ -27,6 +27,6 @@
 
 [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink")
 
-[Category:徳永英明の楽曲](https://ja.wikipedia.org/wiki/Category:徳永英明の楽曲 "wikilink") [Category:1991年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:曜日を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:曜日を題材とした楽曲 "wikilink") [Category:月を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:月を題材とした楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink") [Category:変ホ短調](https://ja.wikipedia.org/wiki/Category:変ホ短調 "wikilink")
+[Category:徳永英明の楽曲](https://ja.wikipedia.org/wiki/Category:徳永英明の楽曲 "wikilink") [Category:1991年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:曜日を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:曜日を題材とした楽曲 "wikilink") [Category:月を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:月を題材とした楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.

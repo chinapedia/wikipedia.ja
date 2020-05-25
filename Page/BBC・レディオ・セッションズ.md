@@ -1,11 +1,11 @@
-> この記事は[BBC](https://ja.wikipedia.org/wiki/BBC)から翻訳されています。
+> この記事は[BBC・レディオ・セッションズ](https://ja.wikipedia.org/wiki/BBC・レディオ・セッションズ)から翻訳されています。
 
 
-**BBC・レディオ・セッションズ**(***"BBC Radio Sessions"***)は、[ブルートーンズ](https://ja.wikipedia.org/wiki/ブルートーンズ "wikilink")が[BBC向けに録音したスタジオセッション収録した](../Page/英国放送協会.md "wikilink")[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")である。
+**BBC・レディオ・セッションズ**(***"BBC Radio Sessions"***)は、[ブルートーンズ](../Page/ブルートーンズ.md "wikilink")が[BBC向けに録音したスタジオセッション収録した](../Page/英国放送協会.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。
 
 ## 解説
 
-[1994年](../Page/1994年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")までにBBCで行われたセッションの中から、メンバーが選曲した全13曲を収録。当時ブルートーンズの[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")を務めていたウェッブ・ブラザーズの「アイム・オーバー・アンド・アイ・ノウ・イット」のカバーが初収録されているのがミソ。[マーク・モリス](../Page/マーク・モリス.md "wikilink")が[ライナーノーツ](https://ja.wikipedia.org/wiki/ライナーノーツ "wikilink")、[スコット・モリス](../Page/スコット・モリス.md "wikilink")がアルバムジャケットを担当。
+[1994年](../Page/1994年.md "wikilink")から[2000年](../Page/2000年.md "wikilink")までにBBCで行われたセッションの中から、メンバーが選曲した全13曲を収録。当時ブルートーンズの[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")を務めていたウェッブ・ブラザーズの「アイム・オーバー・アンド・アイ・ノウ・イット」のカバーが初収録されているのがミソ。[マーク・モリス](../Page/マーク・モリス.md "wikilink")が[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")、[スコット・モリス](../Page/スコット・モリス.md "wikilink")がアルバムジャケットを担当。
 
 ちなみにTownsend Recordsからの初回生産分には、マークの直筆サイン入り歌詞カードが付いていた。
 

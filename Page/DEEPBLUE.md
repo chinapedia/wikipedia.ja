@@ -42,8 +42,4 @@
   - [きみづか葵](../Page/きみづか葵.md "wikilink")
   - [桜月](https://ja.wikipedia.org/wiki/桜月 "wikilink")
 
-## 外部リンク
-
-  - [名和桜](http://nawa.sakura.ne.jp/)パッチ関連
-
 [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink")

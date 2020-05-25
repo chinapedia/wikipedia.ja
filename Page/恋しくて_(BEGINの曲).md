@@ -1,11 +1,11 @@
-> この記事は[ \(BEGIN\)](https://ja.wikipedia.org/wiki/_\(BEGIN\))から翻訳されています。
+> この記事は[恋しくて \(BEGINの曲\)](https://ja.wikipedia.org/wiki/恋しくて_\(BEGINの曲\))から翻訳されています。
 
 
-「**恋しくて**」（こいしくて）は、[BEGINの](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](https://ja.wikipedia.org/wiki/3月21日 "wikilink")発売。発売元は[テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")。
+「**恋しくて**」（こいしくて）は、[BEGINの](../Page/BEGIN_\(バンド\).md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売。発売元は[テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")。
 
 ## 解説
 
-[1989年](../Page/1989年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に放送された[TBS系オーディション番組](../Page/TBSテレビ.md "wikilink")『[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』で初披露され、審査員から大絶賛を受けた。その後[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")CMソングとなり、BEGINのデビューシングルにして最大のヒット曲になる。発売から半年後の10月から12月まで放送された昼ドラ『[新金色夜叉 百年の恋](../Page/新金色夜叉_百年の恋.md "wikilink")』でも同曲が主題歌として起用されている。
+[1989年](../Page/1989年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に放送された[TBS系オーディション番組](../Page/TBSテレビ.md "wikilink")『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』で初披露され、審査員から大絶賛を受けた。その後[日産自動車](../Page/日産自動車.md "wikilink")CMソングとなり、BEGINのデビューシングルにして最大のヒット曲になる。発売から半年後の10月から12月まで放送された昼ドラ『[新金色夜叉 百年の恋](../Page/新金色夜叉_百年の恋.md "wikilink")』でも同曲が主題歌として起用されている。
 
 2003年にカラオケを追加収録する形で再発売された。
 
@@ -22,7 +22,7 @@
       - [CM COMPILATION Twelve Steps](https://ja.wikipedia.org/wiki/CM_COMPILATION_Twelve_Steps "wikilink")
       - [BALLADS](https://ja.wikipedia.org/wiki/BALLADS "wikilink")
       - [BEGIN BEST 1990-2000](https://ja.wikipedia.org/wiki/BEGIN_BEST_1990-2000 "wikilink")
-      - [BEGIN シングル大全集](https://ja.wikipedia.org/wiki/BEGIN_シングル大全集 "wikilink")
+      - [BEGIN シングル大全集](../Page/BEGIN_シングル大全集.md "wikilink")
   - **恋しくて**
       - シングルとは別バージョン（\#1）
       - [音楽旅団](https://ja.wikipedia.org/wiki/音楽旅団 "wikilink")
@@ -47,7 +47,7 @@
 
   - [岩崎宏美](../Page/岩崎宏美.md "wikilink") - アルバム『[Dear Friends](https://ja.wikipedia.org/wiki/Dear_Friends_\(岩崎宏美のアルバム\) "wikilink")』で[カヴァー](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。
   - [甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink") - アルバム『[10 Stories](https://ja.wikipedia.org/wiki/10_Stories "wikilink")』でカヴァー。
-  - [坂本冬美](https://ja.wikipedia.org/wiki/坂本冬美 "wikilink") - アルバム『Love Songs〜また君に恋してる〜』でカヴァー。
+  - [坂本冬美](../Page/坂本冬美.md "wikilink") - アルバム『Love Songs〜また君に恋してる〜』でカヴァー。
   - SISTER KAYA - アルバム『たからもの3』でカヴァーしている。
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink") - アルバム『[男歌〜cover song collection〜](../Page/男歌〜cover_song_collection〜.md "wikilink")』でカヴァー。
   - [ディアマンテス](https://ja.wikipedia.org/wiki/ディアマンテス "wikilink") - アルバム『Queウムサンヤ』でカヴァー。

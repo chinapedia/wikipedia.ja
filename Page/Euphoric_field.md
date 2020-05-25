@@ -7,7 +7,7 @@
 
 テレビアニメ『[ef - a tale of memories.](https://ja.wikipedia.org/wiki/ef_-_a_tale_of_memories. "wikilink")』のオープニングに起用され、オンエアではイントロ部分はカットされた英語版が使用された。また最終回では一部のカットを結末に即したものに変えられ、歌も日本語版へと差し替えられた。テレビアニメ第2期『ef - a tale of melodies.』では、第11話で挿入歌として使用されている。
 
-曲を担当したELISAは本作で歌手デビューを果たしたが、初めてのレコーディングのため表現方法に苦難した経験があり、2008年に実施されたインタビューでは再度録り直したいという旨のコメントを残している。これについて音楽評論家の[冨田明宏](https://ja.wikipedia.org/wiki/冨田明宏 "wikilink")は、デビュー当時のELISAが「ありのままの形でパッケージングされている作品として、十分成立する魅力がある」と言及している。イード社によるアニメ関連情報サイト「アニメ！アニメ！」では「作品の世界観を体現したかのようなクリアで神秘的な歌声が、瞬く間にファンの心を捉えた」とELISAの歌声について絶賛されている。アニメ・声優情報のポータルサイト「[エキサイト](https://ja.wikipedia.org/wiki/エキサイト "wikilink")ニュース」の記事によればアニメファンの間で「神曲と称賛された」とも記されている。音楽情報サイト[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")はそのように楽曲が受容されたことを「儚げな表情とは裏腹の強い存在感を持ったシンガーELISAの声はミステリアスな魅力を持ち、アニメの世界観を完璧に表現」したためと論考している。
+曲を担当したELISAは本作で歌手デビューを果たしたが、初めてのレコーディングのため表現方法に苦難した経験があり、2008年に実施されたインタビューでは再度録り直したいという旨のコメントを残している。これについて音楽評論家の[冨田明宏](https://ja.wikipedia.org/wiki/冨田明宏 "wikilink")は、デビュー当時のELISAが「ありのままの形でパッケージングされている作品として、十分成立する魅力がある」と言及している。イード社によるアニメ関連情報サイト「アニメ！アニメ！」では「作品の世界観を体現したかのようなクリアで神秘的な歌声が、瞬く間にファンの心を捉えた」とELISAの歌声について絶賛されている。アニメ・声優情報のポータルサイト「[エキサイト](../Page/エキサイト.md "wikilink")ニュース」の記事によればアニメファンの間で「神曲と称賛された」とも記されている。音楽情報サイト[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")はそのように楽曲が受容されたことを「儚げな表情とは裏腹の強い存在感を持ったシンガーELISAの声はミステリアスな魅力を持ち、アニメの世界観を完璧に表現」したためと論考している。
 
 初回出荷分には、CDジャケットサイズの[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のカレンダーの一部が同封された。なお、それ以降の『ef - a tale of memories.』関連のCDやDVD（「悠久の翼07mix」等は除く）を全て揃えると2008年のカレンダーが完成する形となる。CD作品は発売後、2008年11月時点で3万枚の売上を記録するロングヒット作となり、「アニメ！アニメ！」による記事でも「新人として異例」と取り上げられた。
 
@@ -30,7 +30,7 @@ ELISAが歌うバージョン以外にも、『ef - a tale of memories.』のヒ
 
 ## スタッフ
 
-  - 作詞：[酒井伸和](https://ja.wikipedia.org/wiki/酒井伸和 "wikilink")（[minori](https://ja.wikipedia.org/wiki/minori "wikilink")）、西田恵美（「English」「english TV-EDIT cho.2」）
+  - 作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")（[minori](https://ja.wikipedia.org/wiki/minori "wikilink")）、西田恵美（「English」「english TV-EDIT cho.2」）
   - 作曲・編曲・ピアノ：[天門](../Page/天門_\(作曲家\).md "wikilink")（minori）
   - バイオリン：土屋玲子
   - アコスティック&エレクトリックギター：[柳英一朗](https://ja.wikipedia.org/wiki/柳英一朗 "wikilink")
@@ -41,9 +41,9 @@ ELISAが歌うバージョン以外にも、『ef - a tale of memories.』のヒ
   - プロデューサー：松田章男
   - カバーイラストレーション：杉山延寛
   - スペシャルサンクス
-      - [大沼心](https://ja.wikipedia.org/wiki/大沼心 "wikilink")、[新房昭之](https://ja.wikipedia.org/wiki/新房昭之 "wikilink")、[高山カツヒコ](../Page/高山カツヒコ.md "wikilink")、数馬英治、久保田光俊・雨宮茂幸（[シャフト](https://ja.wikipedia.org/wiki/シャフト_\(アニメ制作会社\) "wikilink")）
+      - [大沼心](../Page/大沼心.md "wikilink")、[新房昭之](../Page/新房昭之.md "wikilink")、[高山カツヒコ](../Page/高山カツヒコ.md "wikilink")、数馬英治、久保田光俊・雨宮茂幸（[シャフト](../Page/シャフト_\(アニメ制作会社\).md "wikilink")）
       - [ネイムマネジメント](https://ja.wikipedia.org/wiki/ネイムマネジメント "wikilink")
-      - 太布尚弘・金庭こず恵（[ムービック](../Page/ムービック.md "wikilink")）、シバタミツテル（[フロンティアワークス](https://ja.wikipedia.org/wiki/フロンティアワークス "wikilink")）、「ef」製作委員会
+      - 太布尚弘・金庭こず恵（[ムービック](../Page/ムービック.md "wikilink")）、シバタミツテル（[フロンティアワークス](../Page/フロンティアワークス.md "wikilink")）、「ef」製作委員会
 
 ## 脚注
 

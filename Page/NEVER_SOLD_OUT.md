@@ -1,7 +1,7 @@
 > この記事は[NEVER SOLD OUT](https://ja.wikipedia.org/wiki/NEVER_SOLD_OUT)から翻訳されています。
 
 
-**NEVER SOLD OUT**（ネヴァー・ソールド・アウト）は、[LUNA SEAの初の](../Page/LUNA_SEA.md "wikilink")[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")発売。
+**NEVER SOLD OUT**（ネヴァー・ソールド・アウト）は、[LUNA SEAの初の](../Page/LUNA_SEA.md "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")発売。
 
 ## 解説
 
@@ -11,9 +11,11 @@
 
 なお、この[アルバム](../Page/アルバム.md "wikilink")発売日の翌日に彼らは[東京国際展示場](../Page/東京国際展示場.md "wikilink")にて10周年記念ライブ「NEVER SOLD OUT CAPACITY∞」を行っている。
 
+アルバムタイトルと、アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")（「SILENT NIGHT」を除く）
+全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")（「SILENT NIGHT」を除く）
 
 Disc1
 
@@ -21,12 +23,12 @@ Disc1
     　1995年12月23日・[東京ドーム](../Page/東京ドーム.md "wikilink")
 2.  **Déjàvu**
     　1998年12月10日・[鳥取県立県民文化会館](../Page/鳥取県立県民文化会館.md "wikilink")
-3.  **[END OF SORROW](https://ja.wikipedia.org/wiki/END_OF_SORROW "wikilink")**
+3.  **[END OF SORROW](../Page/END_OF_SORROW.md "wikilink")**
     　1998年12月8日・[三重県総合文化センター](https://ja.wikipedia.org/wiki/三重県総合文化センター "wikilink")
-4.  **[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(LUNA_SEAの曲\) "wikilink")**
+4.  **[BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")**
     　1996年8月31日・[日本武道館](../Page/日本武道館.md "wikilink")
 5.  **SANDY TIME**
-    　1992年3月20日・[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")
+    　1992年3月20日・[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")
 6.  **Providence**
     　1998年12月24日・東京ドーム
 7.  **ANOTHER**
@@ -37,7 +39,7 @@ Disc1
     　1996年12月23日・[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")
       - 『SILENT NIGHT』は観客による『[きよしこの夜](../Page/きよしこの夜.md "wikilink")』の[合唱](../Page/合唱.md "wikilink")。
 10. **SHADE**
-    　1991年12月30日・[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")
+    　1991年12月30日・[日本青年館](../Page/日本青年館.md "wikilink")
 11. **[ROSIER](../Page/ROSIER.md "wikilink")**
     　1996年12月23日・横浜スタジアム
 12. **[MOTHER](../Page/MOTHER_\(Single_Version\).md "wikilink")**
@@ -59,7 +61,7 @@ Disc2
     　1998年8月10日・横浜スタジアム
 6.  **GENESIS OF MIND〜夢の彼方へ〜**
     　1996年8月31日・日本武道館
-7.  **[IN MY DREAM (WITH SHIVER)](https://ja.wikipedia.org/wiki/IN_MY_DREAM_\(WITH_SHIVER\) "wikilink")**
+7.  **[IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")**
     　1995年12月23日・東京ドーム
 8.  **IN FUTURE**
     　1995年4月2日・[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")

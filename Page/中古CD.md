@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[中古CD](https://ja.wikipedia.org/wiki/中古CD)から翻訳されています。
 
 
 **中古CD**（ちゅうこCD）とは、一度販売・レンタルされた[CDのことである](../Page/コンパクトディスク.md "wikilink")。
@@ -17,7 +17,7 @@
 
 :\*[ブックセンターいとう](https://ja.wikipedia.org/wiki/ブックセンターいとう "wikilink")：東京都多摩地域および神奈川の隣接する地域に出店。
 
-:\*古本市場（運営会社は[テイツー](https://ja.wikipedia.org/wiki/テイツー "wikilink")）：全国展開。
+:\*古本市場（運営会社は[テイツー](../Page/テイツー.md "wikilink")）：全国展開。
 
   -
 
@@ -30,12 +30,12 @@
   - 新古書店とレンタルCD店の要素を兼ねた店
     ※下記チェーンでも中古CDを扱っていない店舗があるので注意。
 
-      - [ゲオ](https://ja.wikipedia.org/wiki/ゲオ "wikilink")：全国展開。2010年頃よりレンタル落ちのCDを「リサイクルCD」という名称で区別している。2013年11月11日[ファミリーブック](https://ja.wikipedia.org/wiki/ファミリーブック "wikilink")を子会社化し、ファミリーブック店舗を順次ゲオ店舗にリニューアルした。
-      - [DORAMA](https://ja.wikipedia.org/wiki/DORAMA "wikilink")：都内が大半で一部神奈川・埼玉で出店。
+      - [ゲオ](../Page/ゲオ.md "wikilink")：全国展開。2010年頃よりレンタル落ちのCDを「リサイクルCD」という名称で区別している。2013年11月11日[ファミリーブック](../Page/ファミリーブック.md "wikilink")を子会社化し、ファミリーブック店舗を順次ゲオ店舗にリニューアルした。
+      - [DORAMA](../Page/DORAMA.md "wikilink")：都内が大半で一部神奈川・埼玉で出店。
 
   - [リサイクルショップ](https://ja.wikipedia.org/wiki/リサイクルショップ "wikilink")
 
-:\*[ハードオフ](https://ja.wikipedia.org/wiki/ハードオフコーポレーション "wikilink")：ブックオフと協力関係にある。とくにジャンク品は品質保証がない分格安である。
+:\*[ハードオフ](../Page/ハードオフコーポレーション.md "wikilink")：ブックオフと協力関係にある。とくにジャンク品は品質保証がない分格安である。
 
   -
 
@@ -57,6 +57,6 @@
 
 ## 関連項目
 
-  - [古物](https://ja.wikipedia.org/wiki/古物 "wikilink")
+  - [古物](../Page/古物.md "wikilink")
 
 [Category:音楽産業](https://ja.wikipedia.org/wiki/Category:音楽産業 "wikilink") [Category:流通](https://ja.wikipedia.org/wiki/Category:流通 "wikilink") [Category:コンパクトディスク](https://ja.wikipedia.org/wiki/Category:コンパクトディスク "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[ \(MLB\)](https://ja.wikipedia.org/wiki/_\(MLB\))から翻訳されています。
+> この記事は[最多本塁打 \(MLB\)](https://ja.wikipedia.org/wiki/最多本塁打_\(MLB\))から翻訳されています。
 
 
 **最多本塁打**（さいたほんるいだ、Home run Champion）は、[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")における個人[打撃](https://ja.wikipedia.org/wiki/バッティング "wikilink")[タイトルの一つ](https://ja.wikipedia.org/wiki/日本プロ野球#個人タイトル・表彰 "wikilink")。**本塁打王**（ほんるいだおう）、**ホームラン王**（ホームランおう）ともいう。
@@ -25,8 +25,8 @@
 </tr>
 <tr class="even">
 <td><p>1901</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナップ・ラジョイ" title="wikilink">ナップ・ラジョイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オークランド・アスレチックス" title="wikilink">アスレチックス</a></p></td>
+<td><p><a href="../Page/ナップ・ラジョイ.md" title="wikilink">ナップ・ラジョイ</a></p></td>
+<td><p><a href="../Page/オークランド・アスレチックス.md" title="wikilink">アスレチックス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1902</p></td>
@@ -36,7 +36,7 @@
 <tr class="even">
 <td><p>1903</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バック・フリーマン_(外野手)" title="wikilink">バック・フリーマン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・レッドソックス" title="wikilink">アメリカンズ</a></p></td>
+<td><p><a href="../Page/ボストン・レッドソックス.md" title="wikilink">アメリカンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1904</p></td>
@@ -65,13 +65,13 @@
 </tr>
 <tr class="even">
 <td><p>1909</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイ・カッブ" title="wikilink">タイ・カッブ</a></p></td>
+<td><p><a href="../Page/タイ・カッブ.md" title="wikilink">タイ・カッブ</a></p></td>
 <td><p>タイガース</p></td>
 </tr>
 <tr class="odd">
 <td><p>1910</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェイク・スタール" title="wikilink">ジェイク・スタール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・レッドソックス" title="wikilink">レッドソックス</a></p></td>
+<td><p><a href="../Page/ボストン・レッドソックス.md" title="wikilink">レッドソックス</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フレッド・ベック" title="wikilink">フレッド・ベック</a></p></td>
@@ -89,7 +89,7 @@
 <td><p>アスレチックス</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/トリス・スピーカー" title="wikilink">トリス・スピーカー</a></p></td>
+<td><p><a href="../Page/トリス・スピーカー.md" title="wikilink">トリス・スピーカー</a></p></td>
 <td><p>レッドソックス</p></td>
 <td></td>
 </tr>
@@ -106,8 +106,8 @@
 <tr class="even">
 <td><p>1915</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラッゴ・ロス" title="wikilink">ブラッゴ・ロス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ホワイトソックス" title="wikilink">ホワイトソックス</a><br />
-→<a href="https://ja.wikipedia.org/wiki/クリーブランド・インディアンス" title="wikilink">インディアンス</a></p></td>
+<td><p><a href="../Page/シカゴ・ホワイトソックス.md" title="wikilink">ホワイトソックス</a><br />
+→<a href="../Page/クリーブランド・インディアンス.md" title="wikilink">インディアンス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1916</p></td>
@@ -157,7 +157,7 @@
 <tr class="even">
 <td><p>1922</p></td>
 <td><p><a href="../Page/ケン・ウィリアムズ_(外野手).md" title="wikilink">ケン・ウィリアムズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ" title="wikilink">ブラウンズ</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ.md" title="wikilink">ブラウンズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1923</p></td>
@@ -195,7 +195,7 @@
 <td><p>ヤンキース</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・ボトムリー" title="wikilink">ジム・ボトムリー</a></p></td>
+<td><p><a href="../Page/ジム・ボトムリー.md" title="wikilink">ジム・ボトムリー</a></p></td>
 <td><p>カージナルス</p></td>
 <td></td>
 </tr>
@@ -215,7 +215,7 @@
 <td><p>ヤンキース</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ルー・ゲーリッグ" title="wikilink">ルー・ゲーリッグ</a></p></td>
+<td><p><a href="../Page/ルー・ゲーリッグ.md" title="wikilink">ルー・ゲーリッグ</a></p></td>
 <td><p>ヤンキース</p></td>
 <td></td>
 </tr>
@@ -261,7 +261,7 @@
 </tr>
 <tr class="odd">
 <td><p>1937</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ディマジオ" title="wikilink">ジョー・ディマジオ</a></p></td>
+<td><p><a href="../Page/ジョー・ディマジオ.md" title="wikilink">ジョー・ディマジオ</a></p></td>
 <td><p>ヤンキース</p></td>
 </tr>
 <tr class="even">
@@ -286,7 +286,7 @@
 </tr>
 <tr class="even">
 <td><p>1941</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テッド・ウィリアムズ" title="wikilink">テッド・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/テッド・ウィリアムズ.md" title="wikilink">テッド・ウィリアムズ</a></p></td>
 <td><p>レッドソックス</p></td>
 </tr>
 <tr class="odd">
@@ -352,7 +352,7 @@
 </tr>
 <tr class="odd">
 <td><p>1952</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・ドビー" title="wikilink">ラリー・ドビー</a></p></td>
+<td><p><a href="../Page/ラリー・ドビー.md" title="wikilink">ラリー・ドビー</a></p></td>
 <td><p>インディアンス</p></td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@
 <tr class="odd">
 <td><p>1957</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロイ・シーバース" title="wikilink">ロイ・シーバース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ツインズ" title="wikilink">セネタース*1</a></p></td>
+<td><p><a href="../Page/ミネソタ・ツインズ.md" title="wikilink">セネタース*1</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1958</p></td>
@@ -392,7 +392,7 @@
 </tr>
 <tr class="odd">
 <td><p>1959</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハーモン・キルブルー" title="wikilink">ハーモン・キルブルー</a></p></td>
+<td><p><a href="../Page/ハーモン・キルブルー.md" title="wikilink">ハーモン・キルブルー</a></p></td>
 <td><p>セネタース*1</p></td>
 </tr>
 <tr class="even">
@@ -407,13 +407,13 @@
 </tr>
 <tr class="even">
 <td><p>1961</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・マリス" title="wikilink">ロジャー・マリス</a></p></td>
+<td><p><a href="../Page/ロジャー・マリス.md" title="wikilink">ロジャー・マリス</a></p></td>
 <td><p>ヤンキース</p></td>
 </tr>
 <tr class="odd">
 <td><p>1962</p></td>
 <td><p>ハーモン・キルブルー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミネソタ・ツインズ" title="wikilink">ツインズ</a></p></td>
+<td><p><a href="../Page/ミネソタ・ツインズ.md" title="wikilink">ツインズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1963</p></td>
@@ -432,13 +432,13 @@
 </tr>
 <tr class="odd">
 <td><p>1965</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・コニグリアロ" title="wikilink">トニー・コニグリアロ</a></p></td>
+<td><p><a href="../Page/トニー・コニグリアロ.md" title="wikilink">トニー・コニグリアロ</a></p></td>
 <td><p>レッドソックス</p></td>
 </tr>
 <tr class="even">
 <td><p>1966</p></td>
 <td><p>フランク・ロビンソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ" title="wikilink">オリオールズ</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ.md" title="wikilink">オリオールズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1967</p></td>
@@ -446,14 +446,14 @@
 <td><p>ツインズ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・ヤストレムスキー" title="wikilink">カール・ヤストレムスキー</a></p></td>
+<td><p><a href="../Page/カール・ヤストレムスキー.md" title="wikilink">カール・ヤストレムスキー</a></p></td>
 <td><p>レッドソックス</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1968</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ハワード" title="wikilink">フランク・ハワード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テキサス・レンジャーズ" title="wikilink">セネターズ*2</a></p></td>
+<td><p><a href="../Page/フランク・ハワード.md" title="wikilink">フランク・ハワード</a></p></td>
+<td><p><a href="../Page/テキサス・レンジャーズ.md" title="wikilink">セネターズ*2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1969</p></td>
@@ -472,7 +472,7 @@
 </tr>
 <tr class="odd">
 <td><p>1972</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディック・アレン" title="wikilink">ディック・アレン</a></p></td>
+<td><p><a href="../Page/ディック・アレン.md" title="wikilink">ディック・アレン</a></p></td>
 <td><p>ホワイトソックス</p></td>
 </tr>
 <tr class="even">
@@ -512,7 +512,7 @@
 </tr>
 <tr class="odd">
 <td><p>1979</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴーマン・トーマス" title="wikilink">ゴーマン・トーマス</a></p></td>
+<td><p><a href="../Page/ゴーマン・トーマス.md" title="wikilink">ゴーマン・トーマス</a></p></td>
 <td><p>ブルワーズ</p></td>
 </tr>
 <tr class="even">
@@ -541,7 +541,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・グリッチ" title="wikilink">ボビー・グリッチ</a></p></td>
+<td><p><a href="../Page/ボビー・グリッチ.md" title="wikilink">ボビー・グリッチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カリフォルニア・エンゼルス" title="wikilink">エンゼルス</a></p></td>
 <td></td>
 </tr>
@@ -551,7 +551,7 @@
 <td><p>エンゼルス</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴーマン・トーマス" title="wikilink">ゴーマン・トーマス</a></p></td>
+<td><p><a href="../Page/ゴーマン・トーマス.md" title="wikilink">ゴーマン・トーマス</a></p></td>
 <td><p>ブルワーズ</p></td>
 <td></td>
 </tr>
@@ -566,7 +566,7 @@
 <td><p>レッドソックス</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/デール・マーフィー" title="wikilink">デール・マーフィー</a></p></td>
+<td><p><a href="../Page/デール・マーフィー.md" title="wikilink">デール・マーフィー</a></p></td>
 <td><p>ブレーブス</p></td>
 <td></td>
 </tr>
@@ -577,7 +577,7 @@
 </tr>
 <tr class="even">
 <td><p>1986</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェシー・バーフィールド" title="wikilink">ジェシー・バーフィールド</a></p></td>
+<td><p><a href="../Page/ジェシー・バーフィールド.md" title="wikilink">ジェシー・バーフィールド</a></p></td>
 <td><p><a href="../Page/トロント・ブルージェイズ.md" title="wikilink">ブルージェイズ</a></p></td>
 </tr>
 <tr class="odd">
@@ -592,12 +592,12 @@
 </tr>
 <tr class="odd">
 <td><p>1989</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フレッド・マグリフ" title="wikilink">フレッド・マグリフ</a></p></td>
+<td><p><a href="../Page/フレッド・マグリフ.md" title="wikilink">フレッド・マグリフ</a></p></td>
 <td><p>ブルージェイズ</p></td>
 </tr>
 <tr class="even">
 <td><p>1990</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セシル・フィルダー" title="wikilink">セシル・フィルダー</a></p></td>
+<td><p><a href="../Page/セシル・フィルダー.md" title="wikilink">セシル・フィルダー</a></p></td>
 <td><p>タイガース</p></td>
 </tr>
 <tr class="odd">
@@ -612,8 +612,8 @@
 </tr>
 <tr class="odd">
 <td><p>1992</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フアン・ゴンザレス" title="wikilink">フアン・ゴンザレス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テキサス・レンジャーズ" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/フアン・ゴンザレス.md" title="wikilink">フアン・ゴンザレス</a></p></td>
+<td><p><a href="../Page/テキサス・レンジャーズ.md" title="wikilink">レンジャーズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1993</p></td>
@@ -622,12 +622,12 @@
 </tr>
 <tr class="odd">
 <td><p>1994</p></td>
-<td><p>nowrap|<a href="https://ja.wikipedia.org/wiki/ケン・グリフィー・ジュニア" title="wikilink">ケン・グリフィー・ジュニア</a></p></td>
+<td><p>nowrap|<a href="../Page/ケン・グリフィー・ジュニア.md" title="wikilink">ケン・グリフィー・ジュニア</a></p></td>
 <td><p><a href="../Page/シアトル・マリナーズ.md" title="wikilink">マリナーズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルバート・ベル" title="wikilink">アルバート・ベル</a></p></td>
+<td><p><a href="../Page/アルバート・ベル.md" title="wikilink">アルバート・ベル</a></p></td>
 <td><p>インディアンス</p></td>
 </tr>
 <tr class="odd">
@@ -652,12 +652,12 @@
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トロイ・グロース" title="wikilink">トロイ・グロース</a></p></td>
+<td><p><a href="../Page/トロイ・グロース.md" title="wikilink">トロイ・グロース</a></p></td>
 <td><p>エンゼルス</p></td>
 </tr>
 <tr class="even">
 <td><p>2001</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・ロドリゲス" title="wikilink">アレックス・ロドリゲス</a></p></td>
+<td><p><a href="../Page/アレックス・ロドリゲス.md" title="wikilink">アレックス・ロドリゲス</a></p></td>
 <td><p>レンジャーズ</p></td>
 </tr>
 <tr class="odd">
@@ -682,7 +682,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・オルティーズ" title="wikilink">デビッド・オルティーズ</a></p></td>
+<td><p><a href="../Page/デビッド・オルティーズ.md" title="wikilink">デビッド・オルティーズ</a></p></td>
 <td><p>レッドソックス</p></td>
 </tr>
 <tr class="even">
@@ -692,17 +692,17 @@
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミゲル・カブレラ" title="wikilink">ミゲル・カブレラ</a></p></td>
+<td><p><a href="../Page/ミゲル・カブレラ.md" title="wikilink">ミゲル・カブレラ</a></p></td>
 <td><p>タイガース</p></td>
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・テシェイラ" title="wikilink">マーク・テシェイラ</a></p></td>
+<td><p><a href="../Page/マーク・テシェイラ.md" title="wikilink">マーク・テシェイラ</a></p></td>
 <td><p>ヤンキース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ペーニャ" title="wikilink">カルロス・ペーニャ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タンパベイ・レイズ" title="wikilink">レイズ</a></p></td>
+<td><p><a href="../Page/カルロス・ペーニャ.md" title="wikilink">カルロス・ペーニャ</a></p></td>
+<td><p><a href="../Page/タンパベイ・レイズ.md" title="wikilink">レイズ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -775,39 +775,39 @@
 
 ## 19世紀のナショナル・リーグ本塁打王
 
-| 年    | 選手名                                                                     | 本数 | 所属球団                                                                                                                          |
-| ---- | ----------------------------------------------------------------------- | -- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1876 | [ジョージ・ホール](https://ja.wikipedia.org/wiki/ジョージ・ホール "wikilink")           | 5  | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink")                                                     |
-| 1877 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")             | 4  | [シンシナティ・レッズ](../Page/シンシナティ・レッズ_\(1876-1880年\).md "wikilink")                                                                 |
-| 1878 | [ポール・ハインズ](https://ja.wikipedia.org/wiki/ポール・ハインズ "wikilink")           | 4  | [プロビデンス・グレイズ](../Page/プロビデンス・グレイズ.md "wikilink")                                                                              |
-| 1879 | [チャーレイ・ジョーンズ](https://ja.wikipedia.org/wiki/チャーレイ・ジョーンズ "wikilink")     | 9  | [ボストン・レッドキャップス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
-| 1880 | [ハリー・ストービー](https://ja.wikipedia.org/wiki/ハリー・ストービー "wikilink")         | 6  | [ウースター・ルビーレッグス](../Page/ウースター・ルビーレッグス.md "wikilink")                                                                          |
-| 1880 | [ジム・オルーク](../Page/ジム・オルーク_\(野球\).md "wikilink")                         | 6  | [ボストン・レッドキャップス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
-| 1881 | [ダン・ブローザース](../Page/ダン・ブローザース.md "wikilink")                            | 8  | [バッファロー・バイソンズ](https://ja.wikipedia.org/wiki/バッファロー・バイソンズ "wikilink")                                                         |
-| 1882 | [ジョージ・ウッド](https://ja.wikipedia.org/wiki/ジョージ・ウッド "wikilink")           | 7  | [デトロイト・ウルバリンズ](../Page/デトロイト・ウルバリンズ.md "wikilink")                                                                            |
-| 1883 | [バック・ユーイング](../Page/バック・ユーイング.md "wikilink")                            | 10 | [ニューヨーク・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")                                                                        |
-| 1884 | [ネッド・ウィリアムソン](https://ja.wikipedia.org/wiki/ネッド・ウィリアムソン "wikilink")     | 27 | [シカゴ・ホワイトストッキングス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")                                                           |
-| 1885 | [アブナー・ダルリンプル](https://ja.wikipedia.org/wiki/アブナー・ダルリンプル "wikilink")     | 11 | [シカゴ・ホワイトストッキングス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")                                                           |
-| 1886 | [ダン・ブローザース](../Page/ダン・ブローザース.md "wikilink")                            | 11 | [デトロイト・ウルバリンズ](../Page/デトロイト・ウルバリンズ.md "wikilink")                                                                            |
-| 1886 | [ハーディ・リチャードソン](https://ja.wikipedia.org/wiki/ハーディ・リチャードソン "wikilink")   | 11 | [デトロイト・ウルバリンズ](../Page/デトロイト・ウルバリンズ.md "wikilink")                                                                            |
-| 1887 | [ビリー・オブライエン](https://ja.wikipedia.org/wiki/ビリー・オブライエン "wikilink")       | 19 | |[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ_\(1886-1889年\).md "wikilink")                                                            |
-| 1888 | [ジミー・ライアン](https://ja.wikipedia.org/wiki/ジミー・ライアン "wikilink")           | 16 | [シカゴ・ホワイトストッキングス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")                                                           |
-| 1889 | [サム・トンプソン](../Page/サム・トンプソン.md "wikilink")                              | 20 | [フィラデルフィア・クエイカーズ](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")                                                    |
-| 1890 | [オイスター・バーンズ](https://ja.wikipedia.org/wiki/オイスター・バーンズ "wikilink")       | 13 | [ブルックリン・ブライドグルームス](../Page/ロサンゼルス・ドジャース.md "wikilink")                                                                        |
-| 1890 | [マイク・ティアマン](https://ja.wikipedia.org/wiki/マイク・ティアマン "wikilink")         | 13 | [ニューヨーク・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")                                                                        |
-| 1890 | [ウォルト・ウィルモット](https://ja.wikipedia.org/wiki/ウォルト・ウィルモット "wikilink")     | 13 | [シカゴ・コルツ](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")                                                                   |
-| 1891 | [ハリー・ストービー](https://ja.wikipedia.org/wiki/ハリー・ストービー "wikilink")         | 16 | [ボストン・ビーンイーターズ](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
-| 1891 | [マイク・ティアマン](https://ja.wikipedia.org/wiki/マイク・ティアマン "wikilink")         | 16 | [ニューヨーク・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")                                                                        |
-| 1892 | [バグ・ホリデー](https://ja.wikipedia.org/wiki/バグ・ホリデー "wikilink")             | 13 | [シンシナティ・レッズ](https://ja.wikipedia.org/wiki/シンシナティ・レッズ "wikilink")                                                             |
-| 1893 | [エド・デラハンティ](../Page/エド・デラハンティ.md "wikilink")                            | 19 | [フィラデルフィア・フィリーズ](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")                                                     |
-| 1894 | [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")                              | 18 | [ボストン・ビーンイーターズ](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
-| 1895 | [サム・トンプソン](../Page/サム・トンプソン.md "wikilink")                              | 18 | [フィラデルフィア・フィリーズ](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")                                                     |
-| 1896 | [エド・デラハンティ](../Page/エド・デラハンティ.md "wikilink")                            | 13 | [フィラデルフィア・フィリーズ](https://ja.wikipedia.org/wiki/フィラデルフィア・フィリーズ "wikilink")                                                     |
-| 1896 | [ビリー・ジョイス](https://ja.wikipedia.org/wiki/ビリー・ジョイス "wikilink")           | 13 | |[セネターズ](https://ja.wikipedia.org/wiki/ワシントン・セネタース_\(1891-1899年\) "wikilink")、[ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink") |
-| 1897 | [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")                              | 11 | [ボストン・ビーンイーターズ](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
-| 1898 | [ジミー・コリンズ](../Page/ジミー・コリンズ.md "wikilink")                              | 15 | [ボストン・ビーンイーターズ](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
-| 1899 | [バック・フリーマン](https://ja.wikipedia.org/wiki/バック・フリーマン_\(外野手\) "wikilink") | 25 | |[ワシントン・セネタース](https://ja.wikipedia.org/wiki/ワシントン・セネタース_\(1891-1899年\) "wikilink")                                           |
-| 1900 | [ハーマン・ロング](https://ja.wikipedia.org/wiki/ハーマン・ロング "wikilink")           | 12 | [ボストン・ビーンイーターズ](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")                                                         |
+| 年    | 選手名                                                                     | 本数 | 所属球団                                                                                                       |
+| ---- | ----------------------------------------------------------------------- | -- | ---------------------------------------------------------------------------------------------------------- |
+| 1876 | [ジョージ・ホール](https://ja.wikipedia.org/wiki/ジョージ・ホール "wikilink")           | 5  | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink")                                  |
+| 1877 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")             | 4  | [シンシナティ・レッズ](../Page/シンシナティ・レッズ_\(1876-1880年\).md "wikilink")                                              |
+| 1878 | [ポール・ハインズ](../Page/ポール・ハインズ.md "wikilink")                              | 4  | [プロビデンス・グレイズ](../Page/プロビデンス・グレイズ.md "wikilink")                                                           |
+| 1879 | [チャーレイ・ジョーンズ](https://ja.wikipedia.org/wiki/チャーレイ・ジョーンズ "wikilink")     | 9  | [ボストン・レッドキャップス](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
+| 1880 | [ハリー・ストービー](https://ja.wikipedia.org/wiki/ハリー・ストービー "wikilink")         | 6  | [ウースター・ルビーレッグス](../Page/ウースター・ルビーレッグス.md "wikilink")                                                       |
+| 1880 | [ジム・オルーク](../Page/ジム・オルーク_\(野球\).md "wikilink")                         | 6  | [ボストン・レッドキャップス](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
+| 1881 | [ダン・ブローザース](../Page/ダン・ブローザース.md "wikilink")                            | 8  | [バッファロー・バイソンズ](../Page/バッファロー・バイソンズ.md "wikilink")                                                         |
+| 1882 | [ジョージ・ウッド](https://ja.wikipedia.org/wiki/ジョージ・ウッド "wikilink")           | 7  | [デトロイト・ウルバリンズ](../Page/デトロイト・ウルバリンズ.md "wikilink")                                                         |
+| 1883 | [バック・ユーイング](../Page/バック・ユーイング.md "wikilink")                            | 10 | [ニューヨーク・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")                                                     |
+| 1884 | [ネッド・ウィリアムソン](https://ja.wikipedia.org/wiki/ネッド・ウィリアムソン "wikilink")     | 27 | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                                                           |
+| 1885 | [アブナー・ダルリンプル](https://ja.wikipedia.org/wiki/アブナー・ダルリンプル "wikilink")     | 11 | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                                                           |
+| 1886 | [ダン・ブローザース](../Page/ダン・ブローザース.md "wikilink")                            | 11 | [デトロイト・ウルバリンズ](../Page/デトロイト・ウルバリンズ.md "wikilink")                                                         |
+| 1886 | [ハーディ・リチャードソン](https://ja.wikipedia.org/wiki/ハーディ・リチャードソン "wikilink")   | 11 | [デトロイト・ウルバリンズ](../Page/デトロイト・ウルバリンズ.md "wikilink")                                                         |
+| 1887 | [ビリー・オブライエン](https://ja.wikipedia.org/wiki/ビリー・オブライエン "wikilink")       | 19 | |[ワシントン・ナショナルズ](../Page/ワシントン・ナショナルズ_\(1886-1889年\).md "wikilink")                                         |
+| 1888 | [ジミー・ライアン](https://ja.wikipedia.org/wiki/ジミー・ライアン "wikilink")           | 16 | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                                                           |
+| 1889 | [サム・トンプソン](../Page/サム・トンプソン.md "wikilink")                              | 20 | [フィラデルフィア・クエイカーズ](../Page/フィラデルフィア・フィリーズ.md "wikilink")                                                    |
+| 1890 | [オイスター・バーンズ](https://ja.wikipedia.org/wiki/オイスター・バーンズ "wikilink")       | 13 | [ブルックリン・ブライドグルームス](../Page/ロサンゼルス・ドジャース.md "wikilink")                                                     |
+| 1890 | [マイク・ティアマン](https://ja.wikipedia.org/wiki/マイク・ティアマン "wikilink")         | 13 | [ニューヨーク・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")                                                     |
+| 1890 | [ウォルト・ウィルモット](https://ja.wikipedia.org/wiki/ウォルト・ウィルモット "wikilink")     | 13 | [シカゴ・コルツ](../Page/シカゴ・カブス.md "wikilink")                                                                   |
+| 1891 | [ハリー・ストービー](https://ja.wikipedia.org/wiki/ハリー・ストービー "wikilink")         | 16 | [ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
+| 1891 | [マイク・ティアマン](https://ja.wikipedia.org/wiki/マイク・ティアマン "wikilink")         | 16 | [ニューヨーク・ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink")                                                     |
+| 1892 | [バグ・ホリデー](https://ja.wikipedia.org/wiki/バグ・ホリデー "wikilink")             | 13 | [シンシナティ・レッズ](../Page/シンシナティ・レッズ.md "wikilink")                                                             |
+| 1893 | [エド・デラハンティ](../Page/エド・デラハンティ.md "wikilink")                            | 19 | [フィラデルフィア・フィリーズ](../Page/フィラデルフィア・フィリーズ.md "wikilink")                                                     |
+| 1894 | [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")                              | 18 | [ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
+| 1895 | [サム・トンプソン](../Page/サム・トンプソン.md "wikilink")                              | 18 | [フィラデルフィア・フィリーズ](../Page/フィラデルフィア・フィリーズ.md "wikilink")                                                     |
+| 1896 | [エド・デラハンティ](../Page/エド・デラハンティ.md "wikilink")                            | 13 | [フィラデルフィア・フィリーズ](../Page/フィラデルフィア・フィリーズ.md "wikilink")                                                     |
+| 1896 | [ビリー・ジョイス](https://ja.wikipedia.org/wiki/ビリー・ジョイス "wikilink")           | 13 | |[セネターズ](../Page/ワシントン・セネタース_\(1891-1899年\).md "wikilink")、[ジャイアンツ](../Page/サンフランシスコ・ジャイアンツ.md "wikilink") |
+| 1897 | [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")                              | 11 | [ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
+| 1898 | [ジミー・コリンズ](../Page/ジミー・コリンズ.md "wikilink")                              | 15 | [ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
+| 1899 | [バック・フリーマン](https://ja.wikipedia.org/wiki/バック・フリーマン_\(外野手\) "wikilink") | 25 | |[ワシントン・セネタース](../Page/ワシントン・セネタース_\(1891-1899年\).md "wikilink")                                           |
+| 1900 | [ハーマン・ロング](https://ja.wikipedia.org/wiki/ハーマン・ロング "wikilink")           | 12 | [ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")                                                         |
 
 ## 他のメジャーリーグ本塁打王
 
@@ -826,73 +826,73 @@
 <td></td>
 <td><p>オスカー・ウォーカー</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・カージナルス" title="wikilink">セントルイス・ブラウンストッキングス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンストッキングス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリー・ストービー" title="wikilink">ハリー・ストービー</a></p></td>
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・アスレチックス_(1882-1890年)" title="wikilink">フィラデルフィア・アスレチックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・アスレチックス_(1882-1890年).md" title="wikilink">フィラデルフィア・アスレチックス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>ジョン・ライリー</p></td>
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンシナティ・レッズ" title="wikilink">シンシナティ・レッドストッキングス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/シンシナティ・レッズ.md" title="wikilink">シンシナティ・レッドストッキングス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フレッド・ダンラップ" title="wikilink">フレッド・ダンラップ</a></p></td>
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・マルーンズ" title="wikilink">セントルイス・マルーンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニオン・アソシエーション" title="wikilink">ユニオン・アソシエーション</a></p></td>
+<td><p><a href="../Page/セントルイス・マルーンズ.md" title="wikilink">セントルイス・マルーンズ</a></p></td>
+<td><p><a href="../Page/ユニオン・アソシエーション.md" title="wikilink">ユニオン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリー・ストービー" title="wikilink">ハリー・ストービー</a></p></td>
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィラデルフィア・アスレチックス_(1882-1890年)" title="wikilink">フィラデルフィア・アスレチックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/フィラデルフィア・アスレチックス_(1882-1890年).md" title="wikilink">フィラデルフィア・アスレチックス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/ビッド・マクフィー.md" title="wikilink">ビッド・マクフィー</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンシナティ・レッズ" title="wikilink">シンシナティ・レッドストッキングス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/シンシナティ・レッズ.md" title="wikilink">シンシナティ・レッドストッキングス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/ティップ・オニール_(野球).md" title="wikilink">ティップ・オニール</a></p></td>
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・カージナルス" title="wikilink">セントルイス・ブラウンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>ジョン・ライリー</p></td>
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンシナティ・レッズ" title="wikilink">シンシナティ・レッドストッキングス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/シンシナティ・レッズ.md" title="wikilink">シンシナティ・レッドストッキングス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリー・ストービー" title="wikilink">ハリー・ストービー</a><br />
 バグ・ホリデー</p></td>
 <td><p>19</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンシナティ・レッズ" title="wikilink">シンシナティ・レッドストッキングス</a><br />
-<a href="https://ja.wikipedia.org/wiki/フィラデルフィア・アスレチックス_(1882-1890年)" title="wikilink">フィラデルフィア・アスレチックス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/シンシナティ・レッズ.md" title="wikilink">シンシナティ・レッドストッキングス</a><br />
+<a href="../Page/フィラデルフィア・アスレチックス_(1882-1890年).md" title="wikilink">フィラデルフィア・アスレチックス</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>カウント・コンパウ</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・カージナルス" title="wikilink">セントルイス・ブラウンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -905,46 +905,46 @@
 <td></td>
 <td><p>デューク・ファレル</p></td>
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・レッズ" title="wikilink">ボストン・レッズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ボストン・レッズ.md" title="wikilink">ボストン・レッズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>ダッチ・ツヴィリング</p></td>
 <td><p>16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シカゴ・ホエールズ" title="wikilink">シカゴ・ホエールズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェデラル・リーグ" title="wikilink">フェデラル・リーグ</a></p></td>
+<td><p><a href="../Page/シカゴ・ホエールズ.md" title="wikilink">シカゴ・ホエールズ</a></p></td>
+<td><p><a href="../Page/フェデラル・リーグ.md" title="wikilink">フェデラル・リーグ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>ハル・チェイス</p></td>
 <td><p>17</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バッファロー・ブルース" title="wikilink">バッファロー・ブルース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェデラル・リーグ" title="wikilink">フェデラル・リーグ</a></p></td>
+<td><p><a href="../Page/バッファロー・ブルース.md" title="wikilink">バッファロー・ブルース</a></p></td>
+<td><p><a href="../Page/フェデラル・リーグ.md" title="wikilink">フェデラル・リーグ</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## ナショナル・アソシエーション本塁打王
 
-| 年    | 選手名                                                                 | 本数 | 所属球団                                                                      |
-| ---- | ------------------------------------------------------------------- | -- | ------------------------------------------------------------------------- |
-| 1871 | [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink") | 4  | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink") |
-| 1871 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")         | 4  | [トロイ・ヘイメイカーズ](../Page/トロイ・ヘイメイカーズ.md "wikilink")                          |
-| 1871 | [フレッド・テレシー](https://ja.wikipedia.org/wiki/フレッド・テレシー "wikilink")     | 4  | [シカゴ・ホワイトストッキングス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")       |
-| 1872 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")         | 7  | [ボルチモア・カナリーズ](../Page/ボルチモア・カナリーズ.md "wikilink")                          |
-| 1873 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")         | 4  | [ボルチモア・カナリーズ](../Page/ボルチモア・カナリーズ.md "wikilink")                          |
-| 1874 | [ジム・オルーク](../Page/ジム・オルーク_\(野球\).md "wikilink")                     | 5  | [ボストン・レッドストッキングス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")   |
-| 1875 | [ジム・オルーク](../Page/ジム・オルーク_\(野球\).md "wikilink")                     | 6  | [ボストン・レッドストッキングス](https://ja.wikipedia.org/wiki/アトランタ・ブレーブス "wikilink")   |
+| 年    | 選手名                                                             | 本数 | 所属球団                                                                      |
+| ---- | --------------------------------------------------------------- | -- | ------------------------------------------------------------------------- |
+| 1871 | [リーヴァイ・メイエール](../Page/リーヴァイ・メイエール.md "wikilink")                | 4  | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink") |
+| 1871 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")     | 4  | [トロイ・ヘイメイカーズ](../Page/トロイ・ヘイメイカーズ.md "wikilink")                          |
+| 1871 | [フレッド・テレシー](https://ja.wikipedia.org/wiki/フレッド・テレシー "wikilink") | 4  | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                          |
+| 1872 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")     | 7  | [ボルチモア・カナリーズ](../Page/ボルチモア・カナリーズ.md "wikilink")                          |
+| 1873 | [リップ・パイク](https://ja.wikipedia.org/wiki/リップ・パイク "wikilink")     | 4  | [ボルチモア・カナリーズ](../Page/ボルチモア・カナリーズ.md "wikilink")                          |
+| 1874 | [ジム・オルーク](../Page/ジム・オルーク_\(野球\).md "wikilink")                 | 5  | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
+| 1875 | [ジム・オルーク](../Page/ジム・オルーク_\(野球\).md "wikilink")                 | 6  | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
 
 ## 関連項目
 
-  - [野球の各種記録](https://ja.wikipedia.org/wiki/野球の各種記録 "wikilink")
+  - [野球の各種記録](../Page/野球の各種記録.md "wikilink")
   - [最多本塁打](https://ja.wikipedia.org/wiki/最多本塁打 "wikilink")
   - [最多本塁打 (日本プロ野球)](../Page/最多本塁打_\(日本プロ野球\).md "wikilink")
   - [最多本塁打 (韓国野球委員会)](https://ja.wikipedia.org/wiki/最多本塁打_\(韓国野球委員会\) "wikilink")
   - [1998年のMLBシーズン最多本塁打記録対決](https://ja.wikipedia.org/wiki/1998年のMLBシーズン最多本塁打記録対決 "wikilink")
-  - [首位打者 (MLB)](https://ja.wikipedia.org/wiki/首位打者_\(MLB\) "wikilink")
+  - [首位打者 (MLB)](../Page/首位打者_\(MLB\).md "wikilink")
   - [最多打点 (MLB)](https://ja.wikipedia.org/wiki/最多打点_\(MLB\) "wikilink")
 
 ## 外部リンク

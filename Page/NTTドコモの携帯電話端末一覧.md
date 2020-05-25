@@ -2170,8 +2170,8 @@
 <em><a href="https://ja.wikipedia.org/wiki/iPhone_6s_Plus" title="wikilink">iPhone 6s Plus</a>,</em><br />
 <em><a href="https://ja.wikipedia.org/wiki/iPhone_SE_(第1世代)" title="wikilink">iPhone SE</a>,</em><br />
 <em><a href="https://ja.wikipedia.org/wiki/iPad_mini_4" title="wikilink">iPad mini 4</a>,</em><br />
-<em><a href="https://ja.wikipedia.org/wiki/12.9インチiPad_Pro_(第1世代)" title="wikilink">12.9インチiPad Pro</a>,</em><br />
-<em><a href="https://ja.wikipedia.org/wiki/9.7インチiPad_Pro" title="wikilink">9.7インチiPad Pro</a></em></p></td>
+<em><a href="../Page/12.9インチiPad_Pro_(第1世代).md" title="wikilink">12.9インチiPad Pro</a>,</em><br />
+<em><a href="../Page/9.7インチiPad_Pro.md" title="wikilink">9.7インチiPad Pro</a></em></p></td>
 <td><p>(<em>Nexus 5X</em>)</p></td>
 <td></td>
 </tr>
@@ -2325,8 +2325,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/10.5インチiPad_Pro" title="wikilink">10.5インチiPad Pro</a>,</em><br />
-<em><a href="https://ja.wikipedia.org/wiki/12.9インチiPad_Pro_(第2世代)" title="wikilink">12.9インチiPad Pro (第2世代)</a></em></p></td>
+<td><p><em><a href="../Page/10.5インチiPad_Pro.md" title="wikilink">10.5インチiPad Pro</a>,</em><br />
+<em><a href="../Page/12.9インチiPad_Pro_(第2世代).md" title="wikilink">12.9インチiPad Pro (第2世代)</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2472,8 +2472,8 @@
 <td><p><em><a href="https://ja.wikipedia.org/wiki/iPhone_XS/XS_Max" title="wikilink">iPhone XS</a>,</em><br />
 <em><a href="https://ja.wikipedia.org/wiki/iPhone_XS/XS_Max" title="wikilink">iPhone XS Max</a>,</em><br />
 <em><a href="https://ja.wikipedia.org/wiki/iPhone_XR" title="wikilink">iPhone XR</a>,</em><br />
-<em><a href="https://ja.wikipedia.org/wiki/12.9インチiPad_Pro_(第3世代)" title="wikilink">12.9インチiPad Pro (第3世代)</a>,</em><br />
-<em><a href="https://ja.wikipedia.org/wiki/11インチiPad_Pro_(第1世代)" title="wikilink">11インチiPad Pro</a>,</em><br />
+<em><a href="../Page/12.9インチiPad_Pro_(第3世代).md" title="wikilink">12.9インチiPad Pro (第3世代)</a>,</em><br />
+<em><a href="../Page/11インチiPad_Pro_(第1世代).md" title="wikilink">11インチiPad Pro</a>,</em><br />
 <em><a href="https://ja.wikipedia.org/wiki/iPad_Air_(第3世代)" title="wikilink">iPad Air (第3世代)</a>,</em><br />
 <em><a href="https://ja.wikipedia.org/wiki/iPad_mini_(第5世代)" title="wikilink">iPad mini (第5世代)</a></em></p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/Pixel_3" title="wikilink">Pixel 3</a>,</em><br />
@@ -2611,7 +2611,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SC-51A" title="wikilink">SC-51A</a><br />
 <a href="https://ja.wikipedia.org/wiki/SC-52A" title="wikilink">SC-52A</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SH-51A" title="wikilink">SH-51A</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SO-51A" title="wikilink">SO-51A</a></p></td>
+<td><p><a href="../Page/SO-51A.md" title="wikilink">SO-51A</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2642,8 +2642,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SH-52A" title="wikilink">SH-52A</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iPhone_SE_(第2世代)" title="wikilink">iPhone SE (第2世代)</a><br />
-<a href="https://ja.wikipedia.org/wiki/12.9インチiPad_Pro_(第4世代)" title="wikilink">12.9インチiPad Pro (第4世代)</a><br />
-<a href="https://ja.wikipedia.org/wiki/11インチiPad_Pro_(第2世代)" title="wikilink">11インチiPad Pro (第2世代)</a></p></td>
+<a href="../Page/12.9インチiPad_Pro_(第4世代).md" title="wikilink">12.9インチiPad Pro (第4世代)</a><br />
+<a href="../Page/11インチiPad_Pro_(第2世代).md" title="wikilink">11インチiPad Pro (第2世代)</a></p></td>
 <td></td>
 </tr>
 </tbody>

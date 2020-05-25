@@ -1,7 +1,7 @@
 > この記事は[SPML](https://ja.wikipedia.org/wiki/SPML)から翻訳されています。
 
 
-**SPML**（Service Provisioning Markup Language）は、[OASISが開発した](https://ja.wikipedia.org/wiki/OASIS_\(組織\) "wikilink")[XMLベースのフレームワーク](../Page/Extensible_Markup_Language.md "wikilink")。ユーザー/リソース/サービスの[プロビジョニング](../Page/プロビジョニング.md "wikilink")情報を組織間でやり取りするための規格である。
+**SPML**（Service Provisioning Markup Language）は、[OASISが開発した](../Page/OASIS_\(組織\).md "wikilink")[XMLベースのフレームワーク](../Page/Extensible_Markup_Language.md "wikilink")。ユーザー/リソース/サービスの[プロビジョニング](../Page/プロビジョニング.md "wikilink")情報を組織間でやり取りするための規格である。
 
 ## SPML プロトコル
 
@@ -15,7 +15,7 @@ SPML は、サービス・プロビジョニング要求の統合・相互運用
 
 ## 目標
 
-SPML の目標は、[Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")やアプリケーションのためのユーザインタフェースの設定を組織が安全かつ迅速に行えるようにすることである。そのため、Webポータルや[アプリケーションサーバ](https://ja.wikipedia.org/wiki/アプリケーションサーバ "wikilink")といった企業プラットフォームやサービスセンタがプロビジョニング要求を生成し、それを組織内外とやり取りできるようにする必要がある。これにより、ユーザー/システムアクセスとIT基盤群での一貫した電子サービスへのアクセス権付与の自動化が可能となり、顧客は特定のソリューションに縛られることがなくなる。
+SPML の目標は、[Webサービス](../Page/Webサービス.md "wikilink")やアプリケーションのためのユーザインタフェースの設定を組織が安全かつ迅速に行えるようにすることである。そのため、Webポータルや[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")といった企業プラットフォームやサービスセンタがプロビジョニング要求を生成し、それを組織内外とやり取りできるようにする必要がある。これにより、ユーザー/システムアクセスとIT基盤群での一貫した電子サービスへのアクセス権付与の自動化が可能となり、顧客は特定のソリューションに縛られることがなくなる。
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[MITSUKI](https://ja.wikipedia.org/wiki/MITSUKI)から翻訳されています。
 
 
-**MITSUKI**（みつき、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") - ）は、[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")在住の現役女子中高生アイドルグループ「[ファンタ☆ピース](../Page/ファンタ☆ピース.md "wikilink")」のメンバー。元[ファンタスタープロモーション](https://ja.wikipedia.org/wiki/ヴィズミック "wikilink")、[ヴィズミックプロモーション所属](https://ja.wikipedia.org/wiki/ヴィズミックモデルエージェンシー "wikilink")。
+**MITSUKI**（みつき、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月17日](../Page/3月17日.md "wikilink") - ）は、[大阪府](../Page/大阪府.md "wikilink")在住の現役女子中高生アイドルグループ「[ファンタ☆ピース](../Page/ファンタ☆ピース.md "wikilink")」のメンバー。元[ファンタスタープロモーション](../Page/ヴィズミック.md "wikilink")、[ヴィズミックプロモーション所属](../Page/ヴィズミックモデルエージェンシー.md "wikilink")。
 
 ## プロフィール
 
@@ -19,7 +19,7 @@
 
 ### ラジオ
 
-  - [ファンタスター学園](../Page/ファンタスター学園.md "wikilink")（2007年1月 - 2008年3月、[ラジオ大阪](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")）
+  - [ファンタスター学園](../Page/ファンタスター学園.md "wikilink")（2007年1月 - 2008年3月、[ラジオ大阪](../Page/大阪放送.md "wikilink")）
   - [ファンタスターハウス](https://ja.wikipedia.org/wiki/ファンタスターハウス "wikilink")（2008年4月 - 、ラジオ大阪）
 
 ### モデル

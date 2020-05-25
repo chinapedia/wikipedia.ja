@@ -1,7 +1,7 @@
-> この記事は[CG](https://ja.wikipedia.org/wiki/CG)から翻訳されています。
+> この記事は[日産・CGエンジン](https://ja.wikipedia.org/wiki/日産・CGエンジン)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_CG13DE_engine.jpg "wikilink") **CGエンジン**は、[MA10型](https://ja.wikipedia.org/wiki/日産・MA10S "wikilink")[エンジン](../Page/エンジン.md "wikilink")の後継エンジンとして、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで生産していた小型車用[DOHC](../Page/DOHC.md "wikilink")[16バルブ](https://ja.wikipedia.org/wiki/マルチバルブ "wikilink")[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")。[マーチ](../Page/日産・マーチ.md "wikilink")、[キューブ用に搭載された](../Page/日産・キューブ.md "wikilink")。カムシャフトの駆動方式は、MA10型が[タイミングベルト](https://ja.wikipedia.org/wiki/タイミングベルト "wikilink")なのに対し、当エンジンでは[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")となっている。後継は[ルノー](../Page/ルノー.md "wikilink")と共同開発された[CRエンジンである](https://ja.wikipedia.org/wiki/日産・CRエンジン "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_CG13DE_engine.jpg "wikilink") **CGエンジン**は、[MA10型](../Page/日産・MA10S.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")の後継エンジンとして、[日産自動車](../Page/日産自動車.md "wikilink")が[1992年](../Page/1992年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")まで生産していた小型車用[DOHC](../Page/DOHC.md "wikilink")[16バルブ](../Page/マルチバルブ.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")。[マーチ](../Page/日産・マーチ.md "wikilink")、[キューブ用に搭載された](../Page/日産・キューブ.md "wikilink")。カムシャフトの駆動方式は、MA10型が[タイミングベルト](../Page/タイミングベルト.md "wikilink")なのに対し、当エンジンでは[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")となっている。後継は[ルノー](../Page/ルノー.md "wikilink")と共同開発された[CRエンジンである](../Page/日産・CRエンジン.md "wikilink")。
 
 ## バリエーション
 

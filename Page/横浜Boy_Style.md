@@ -1,4 +1,4 @@
-> この記事は[Boy Style](https://ja.wikipedia.org/wiki/Boy_Style)から翻訳されています。
+> この記事は[横浜Boy Style](https://ja.wikipedia.org/wiki/横浜Boy_Style)から翻訳されています。
 
 
 「**横浜Boy Style**」（よこはまボーイ・スタイル）は、[CoCoの](../Page/CoCo_\(アイドルグループ\).md "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より発売された。
@@ -19,4 +19,4 @@
 1.  「**横浜Boy Style**」
 2.  「**WINNING**」
 
-[Category:横浜ベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜ベイスターズ "wikilink") [Category:プロ野球の音楽](https://ja.wikipedia.org/wiki/Category:プロ野球の音楽 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:横浜市を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:横浜市を題材とした楽曲 "wikilink") [Category:CoCoの楽曲](https://ja.wikipedia.org/wiki/Category:CoCoの楽曲 "wikilink") [Category:及川眠子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:及川眠子が制作した楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:楽曲_よ](https://ja.wikipedia.org/wiki/Category:楽曲_よ "wikilink") [Category:ト短調](https://ja.wikipedia.org/wiki/Category:ト短調 "wikilink")
+[Category:横浜ベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜ベイスターズ "wikilink") [Category:プロ野球の音楽](https://ja.wikipedia.org/wiki/Category:プロ野球の音楽 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:横浜市を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:横浜市を題材とした楽曲 "wikilink") [Category:CoCoの楽曲](https://ja.wikipedia.org/wiki/Category:CoCoの楽曲 "wikilink") [Category:及川眠子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:及川眠子が制作した楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:楽曲_よ](https://ja.wikipedia.org/wiki/Category:楽曲_よ "wikilink")

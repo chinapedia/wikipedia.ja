@@ -1,13 +1,13 @@
 > この記事は[DELICATE PLANET](https://ja.wikipedia.org/wiki/DELICATE_PLANET)から翻訳されています。
 
 
-『**DELICATE PLANET**』（デリケイト・プラネット）は[1994年](../Page/1994年.md "wikilink")5月25日にリリースされた[accessの](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")3rdアルバム。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")。
+『**DELICATE PLANET**』（デリケイト・プラネット）は[1994年](../Page/1994年.md "wikilink")5月25日にリリースされた[accessの](../Page/Access_\(音楽ユニット\).md "wikilink")3rdアルバム。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#ファンハウス "wikilink")。
 
 ## 概要
 
-8thシングル『[SWEET SILENCE](../Page/SWEET_SILENCE.md "wikilink")』と同時リリース。アルバムでは自己最高の27.7万枚のセールスを記録し、自身初のオリコン1位を獲得した\[1\]。先行シングル4曲が収録されているが、いずれもアルバム用にアレンジされた「West Side Mix」として収録されており、シングルとはバージョンが異なる。8曲目の「DECADE & XXX」は当時「終了」宣言した[TMNに対してのトリビュート的なメッセージが込められており](../Page/TM_NETWORK.md "wikilink")\[2\]、XXXは「Thanks, Good-Bye」と読む。初回限定版にはオールカラーブックレットが付属。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
+8thシングル『[SWEET SILENCE](../Page/SWEET_SILENCE.md "wikilink")』と同時リリース。アルバムでは自己最高の27.7万枚のセールスを記録し、自身初のオリコン1位を獲得した\[1\]。先行シングル4曲が収録されているが、いずれもアルバム用にアレンジされた「West Side Mix」として収録されており、シングルとはバージョンが異なる。8曲目の「DECADE & XXX」は当時「終了」宣言した[TMNに対してのトリビュート的なメッセージが込められており](../Page/TM_NETWORK.md "wikilink")\[2\]、XXXは「Thanks, Good-Bye」と読む。初回限定版にはオールカラーブックレットが付属。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
-なお、クレジット上は「作詞・作曲：AXS」と表記されているが、[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")には[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")と[井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")が作詞者として、それぞれ6曲ずつ登録されており、前作より井上が作詞を手掛けた作品の比重が大きくなっている。
+なお、クレジット上は「作詞・作曲：AXS」と表記されているが、[JASRAC](https://ja.wikipedia.org/wiki/JASRAC "wikilink")には[貴水博之](../Page/貴水博之.md "wikilink")と[井上秋緒](../Page/井上秋緒.md "wikilink")が作詞者として、それぞれ6曲ずつ登録されており、前作より井上が作詞を手掛けた作品の比重が大きくなっている。
 
 ## 収録曲
 
@@ -16,7 +16,7 @@
 ## 参加ミュージシャン・スタッフ
 
   - プログラミング&キーボード：[浅倉大介](../Page/浅倉大介.md "wikilink")
-  - ギター：[葛城哲哉](https://ja.wikipedia.org/wiki/葛城哲哉 "wikilink")
+  - ギター：[葛城哲哉](../Page/葛城哲哉.md "wikilink")
   - ギター：[北島健二](../Page/北島健二.md "wikilink")
   - レコーディング・エンジニア：[大里正毅](https://ja.wikipedia.org/wiki/大里正毅 "wikilink")（Fun House）
   - ミキシング・エンジニア：大里正毅（Fun House）

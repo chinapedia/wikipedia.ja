@@ -1,13 +1,13 @@
 > この記事は[BigTable](https://ja.wikipedia.org/wiki/BigTable)から翻訳されています。
 
 
-**Bigtable**（ビッグテーブル）とは、[Google](../Page/Google.md "wikilink")の大規模な[サーバ](../Page/サーバ.md "wikilink")上の大量のデータを管理するために設計された、[データ圧縮](../Page/データ圧縮.md "wikilink")機能を持つ高性能な[NoSQL](https://ja.wikipedia.org/wiki/NoSQL "wikilink")型の[プロプライエタリ](https://ja.wikipedia.org/wiki/プロプライエタリ "wikilink")のデータストレージシステムである。[Google File System](https://ja.wikipedia.org/wiki/Google_File_System "wikilink")、[分散ロックマネージャ](https://ja.wikipedia.org/wiki/分散ロックマネージャ "wikilink")の1種であるChubby Lock Service、SSTable（に似たログ構造化ストレージ）、その他のいくつかのGoogleの技術を活用して構築されている。2015年5月6日、パブリックバージョンのBigtableが、[Google Cloud Platformのサービスの](https://ja.wikipedia.org/wiki/Google_Cloud_Platform "wikilink")1つとして公開された。Bigtableは[Google Cloud Datastoreのバックエンドをしても利用されている](https://ja.wikipedia.org/wiki/Google_Cloud_Datastore "wikilink")\[1\]\[2\]。
+**Bigtable**（ビッグテーブル）とは、[Google](../Page/Google.md "wikilink")の大規模な[サーバ](../Page/サーバ.md "wikilink")上の大量のデータを管理するために設計された、[データ圧縮](../Page/データ圧縮.md "wikilink")機能を持つ高性能な[NoSQL](https://ja.wikipedia.org/wiki/NoSQL "wikilink")型の[プロプライエタリ](https://ja.wikipedia.org/wiki/プロプライエタリ "wikilink")のデータストレージシステムである。[Google File System](https://ja.wikipedia.org/wiki/Google_File_System "wikilink")、[分散ロックマネージャ](https://ja.wikipedia.org/wiki/分散ロックマネージャ "wikilink")の1種であるChubby Lock Service、SSTable（に似たログ構造化ストレージ）、その他のいくつかのGoogleの技術を活用して構築されている。2015年5月6日、パブリックバージョンのBigtableが、[Google Cloud Platformのサービスの](https://ja.wikipedia.org/wiki/Google_Cloud_Platform "wikilink")1つとして公開された。Bigtableは[Google Cloud Datastoreのバックエンドとしても利用されている](https://ja.wikipedia.org/wiki/Google_Cloud_Datastore "wikilink")\[1\]\[2\]。
 
 ## 歴史
 
 [2004年](../Page/2004年.md "wikilink")から開発が始まり\[3\]、2006年には設計が論文として公開された\[4\]。
 
-[MapReduce](https://ja.wikipedia.org/wiki/MapReduce "wikilink")（BigTableに格納されたデータの生成や修正にしばしば使われている）\[5\]、Google Reader\[6\]、[Google マップ](https://ja.wikipedia.org/wiki/Google_マップ "wikilink")\[7\]、Google Print、My Search History、[Google Earth](https://ja.wikipedia.org/wiki/Google_Earth "wikilink")、[Blogger](../Page/Blogger.md "wikilink")、Google Code hosting、[Orkut](../Page/Orkut.md "wikilink")\[8\] 、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")\[9\]のようないくつものアプリケーションを支えている。
+[MapReduce](https://ja.wikipedia.org/wiki/MapReduce "wikilink")（BigTableに格納されたデータの生成や修正にしばしば使われている）\[5\]、Google Reader\[6\]、[Google マップ](../Page/Google_マップ.md "wikilink")\[7\]、Google Print、My Search History、[Google Earth](https://ja.wikipedia.org/wiki/Google_Earth "wikilink")、[Blogger](../Page/Blogger.md "wikilink")、Google Code hosting、[Orkut](../Page/Orkut.md "wikilink")\[8\] 、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")\[9\]のようないくつものアプリケーションを支えている。
 
 Googleが自社でデータベースを開発した理由はコスト、スケーラビリティ、パフォーマンス特性のより良いコントロールなどであるとされる\[10\]。
 
@@ -17,7 +17,7 @@ Googleの[Spanner](https://ja.wikipedia.org/wiki/Spanner_\(データベース\) 
 
 BigTableは高速で超大規模な[列指向DBMSである](https://ja.wikipedia.org/wiki/列指向データベース管理システム "wikilink")。行ではなく、列からの高速な読み込みに焦点を当てている。BigTableは数百から数千台のサーバの[ペタバイト](https://ja.wikipedia.org/wiki/ペタバイト "wikilink")までのデータを扱い、システムにサーバを簡単に増設して、再設定なしにそれらのリソースを自動的に利用し始めるように設計されている\[12\] 。
 
-各テーブルは多次元である。1つ1つのフィールドはその時点のスナップショットを持ち、バージョニングを行う事が出来る。テーブルはGFSに最適化されており、大きなテーブルは複数の*Tablet segment*（タブレットセグメント）に自動的に[分割される](https://ja.wikipedia.org/wiki/分割_\(データベース\) "wikilink")。分割はタブレットが200[メガバイト](https://ja.wikipedia.org/wiki/メガバイト "wikilink")のサイズになるように行の境界で行われる。サイズが特定の限界を超える兆候が見られた場合、テーブルはBMDiffとZippyアルゴリズムを使用して圧縮される。これらは[LZWより圧縮率で劣るが](../Page/Lempel–Ziv–Welch.md "wikilink")、計算量で勝っている。
+各テーブルは多次元である。1つ1つのフィールドはその時点のスナップショットを持ち、バージョニングを行う事が出来る。テーブルはGFSに最適化されており、大きなテーブルは複数の*Tablet segment*（タブレットセグメント）に自動的に[分割される](https://ja.wikipedia.org/wiki/分割_\(データベース\) "wikilink")。分割はタブレットが200[メガバイト](../Page/メガバイト.md "wikilink")のサイズになるように行の境界で行われる。サイズが特定の限界を超える兆候が見られた場合、テーブルはBMDiffとZippyアルゴリズムを使用して圧縮される。これらは[LZWより圧縮率で劣るが](../Page/Lempel–Ziv–Welch.md "wikilink")、計算量で勝っている。
 
 タブレットのGFS内の位置（サーバのIPとPort）は、「META1」タブレットと呼ばれる複数の特別なタブレットにデータベースエントリとして記録されている。META1タブレットは1つだけある「META0」タブレットを照会する事で作成される。「META0」タブレットは通常は１つのマシンを占有している。「META1」タブレットの位置に関してクライアントから頻繁に問い合わせを受けるからである。「META1」タブレットはそれ自体が、実際のデータの位置についての答えを持っている。GFSマスターサーバのように、META0は通常はボトルネックにはならない。META1の位置を発見・送信する為に必要なプロセッサ時間と帯域はごく僅かである。クライアントは積極的に位置をキャッシュして、照会を必要最低限にするからである。
 

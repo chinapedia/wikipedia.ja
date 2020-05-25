@@ -1,4 +1,4 @@
-> この記事は[t](https://ja.wikipedia.org/wiki/t)から翻訳されています。
+> この記事は[非心t分布](https://ja.wikipedia.org/wiki/非心t分布)から翻訳されています。
 
 
 **非心*t*分布**（ひしんティーぶんぷ、）とは、[確率分布](../Page/確率分布.md "wikilink")と[統計学](../Page/統計学.md "wikilink")におけるスチューデントの[t分布](https://ja.wikipedia.org/wiki/t分布 "wikilink")を一般化したものである。

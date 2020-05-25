@@ -1,4 +1,4 @@
-> この記事は[DOWA](https://ja.wikipedia.org/wiki/DOWA)から翻訳されています。
+> この記事は[DOWAメタルマイン](https://ja.wikipedia.org/wiki/DOWAメタルマイン)から翻訳されています。
 
 
 **DOWAメタルマイン株式会社**は、[DOWAグループの](../Page/DOWAホールディングス.md "wikilink")[非鉄金属](../Page/非鉄金属.md "wikilink")メーカー。グループの主力事業である[金](../Page/金.md "wikilink")、[銀](https://ja.wikipedia.org/wiki/銀 "wikilink")、[銅](../Page/銅.md "wikilink")、[亜鉛](../Page/亜鉛.md "wikilink")、[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")、[インジウム](../Page/インジウム.md "wikilink")などの[金属](../Page/金属.md "wikilink")[製錬](../Page/製錬.md "wikilink")事業を手がける。

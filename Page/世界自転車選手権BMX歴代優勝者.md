@@ -1,7 +1,7 @@
-> この記事は[BMX](https://ja.wikipedia.org/wiki/BMX)から翻訳されています。
+> この記事は[世界自転車選手権BMX歴代優勝者](https://ja.wikipedia.org/wiki/世界自転車選手権BMX歴代優勝者)から翻訳されています。
 
 
-**世界自転車選手権BMX歴代優勝者**（せかいじてんしゃせんしゅけんびーえむえっくすれきだいゆうしょうしゃ）は、[国際自転車競技連合](https://ja.wikipedia.org/wiki/国際自転車競技連合 "wikilink")（UCI）が主催する[BMX](../Page/BMX.md "wikilink")種目（レーシング）の歴代優勝者及び上位入賞者を一覧にまとめたものである。
+**世界自転車選手権BMX歴代優勝者**（せかいじてんしゃせんしゅけんびーえむえっくすれきだいゆうしょうしゃ）は、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink")（UCI）が主催する[BMX](../Page/BMX.md "wikilink")種目（レーシング）の歴代優勝者及び上位入賞者を一覧にまとめたものである。
 
 当大会は[1982年](../Page/1982年.md "wikilink")より実施されているが、[2000年](../Page/2000年.md "wikilink")まではトレードチーム単位の出場が認められ、国別で参加している選手と混在していた。しかし[2001年](../Page/2001年.md "wikilink")以降トレードチームの参加を認めず、国別対抗戦方式に統一された。
 
@@ -36,7 +36,7 @@
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/マイク・デイ" title="wikilink">マイク・デイ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/世界選手権自転車競技大会BMX2008" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/世界選手権自転車競技大会BMX2008.md" title="wikilink">2008</a></p></td>
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/マーリス・シュトロムベルグス" title="wikilink">マーリス・シュトロムベルグス</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/スティーヴン・シザー" title="wikilink">スティーヴン・シザー</a></p></td>
@@ -111,14 +111,14 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/世界選手権自転車競技大会BMX2008" title="wikilink">2008</a></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/シャネーズ・リード" title="wikilink">シャネーズ・リード</a></p></td>
+<td><p><a href="../Page/世界選手権自転車競技大会BMX2008.md" title="wikilink">2008</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/シャネーズ・リード.md" title="wikilink">シャネーズ・リード</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/アンヌ＝カロリーヌ・ショソン.md" title="wikilink">アンヌ＝カロリーヌ・ショソン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/シャネーズ・リード" title="wikilink">シャネーズ・リード</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/シャネーズ・リード.md" title="wikilink">シャネーズ・リード</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/サラ・ウオーカー" title="wikilink">サラ・ウオーカー</a></p></td>
 </tr>
@@ -169,7 +169,7 @@
 
 ## 関連項目
 
-  - [世界選手権自転車競技大会](https://ja.wikipedia.org/wiki/世界選手権自転車競技大会 "wikilink")
+  - [世界選手権自転車競技大会](../Page/世界選手権自転車競技大会.md "wikilink")
   - [BMX](../Page/BMX.md "wikilink")
 
 [Category:世界選手権自転車競技大会BMX](https://ja.wikipedia.org/wiki/Category:世界選手権自転車競技大会BMX "wikilink") [Category:自転車競技の優勝者一覧](https://ja.wikipedia.org/wiki/Category:自転車競技の優勝者一覧 "wikilink")

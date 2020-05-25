@@ -1,4 +1,4 @@
-> この記事は[FAST FORWARDFUTURE BREAKBEATNIX](https://ja.wikipedia.org/wiki/FAST_FORWARDFUTURE_BREAKBEATNIX)から翻訳されています。
+> この記事は[FAST FORWARD〜FUTURE BREAKBEATNIX〜](https://ja.wikipedia.org/wiki/FAST_FORWARD〜FUTURE_BREAKBEATNIX〜)から翻訳されています。
 
 
 『**FAST FORWARD〜FUTURE BREAKBEATNIX〜**』（ファストフォワードフューチャーブレークビートニックス）は、[moveの通算七枚目のリミックスアルバムである](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[BE-BOP-HIGHSCHOOL \(\)](https://ja.wikipedia.org/wiki/BE-BOP-HIGHSCHOOL_\(\))から翻訳されています。
+> この記事は[BE-BOP-HIGHSCHOOL \(曲\)](https://ja.wikipedia.org/wiki/BE-BOP-HIGHSCHOOL_\(曲\))から翻訳されています。
 
 
 「**BE-BOP-HIGHSCHOOL**」（ビーバップ・ハイ・スクール）は、[中山美穂](../Page/中山美穂.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")\[1\]に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた（CDS:KIDS-92）。

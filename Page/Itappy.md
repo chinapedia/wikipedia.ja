@@ -17,7 +17,7 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - itappy導入。
   - [2009年](../Page/2009年.md "wikilink")9月 - [家電エコポイントの交換商品として採択される](https://ja.wikipedia.org/wiki/エコポイントの活用によるグリーン家電普及促進事業 "wikilink")\[2\]。
   - [2014年](../Page/2014年.md "wikilink")4月1日 - 消費税率引き上げに伴う運賃値上げに合わせて、itappyの割引率が引き上げられる\[3\]。
-  - [2020年](../Page/2020年.md "wikilink")春 - itappyに定期券機能追加。同時に[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")に対応\[4\]。
+  - [2020年](../Page/2020年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") - itappyに定期券機能追加。同時に[交通系ICカード全国相互利用サービス](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")に対応開始\[4\]。
 
 ## 利用方法
 
@@ -41,14 +41,14 @@
 
 ## 他社線片利用
 
-[ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg") itappyを他社で利用することはできないが、itappyエリアではICOCA・PiTaPaが利用できる（片利用）。 またPiTaPa利用の際、以下のように独自の割引がある\[8\]（itappy・ICOCA利用の際にはこれらのサービスはない）。
+[ICCard_Connection.svg](https://ja.wikipedia.org/wiki/File:ICCard_Connection.svg "fig:ICCard_Connection.svg") itappyを他社で利用することはできないが、itappyエリアでは[ICOCA](../Page/ICOCA.md "wikilink")、[PiTaPa](../Page/PiTaPa.md "wikilink")を含む[全国10種類の交通系ICカードの相互利用対応カードが利用できる](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")（片利用）。 またPiTaPa利用の際、以下のように独自の割引がある\[8\]（itappy・ICOCA利用の際にはこれらのサービスはない）。
 
   - PiTaPa　利用額割引
       - 毎月3,000円を超える利用額に対して、段階的に5％・10％・15％の割引を適用する。ただし割引率は、itappyのチャージに対するプレミアまたはPiTaPa1か月乗り放題のいずれかの方が高くなる（毎月の利用額による）\[9\]
   - PiTaPa　1か月乗り放題
       - 事前登録が必要で毎月の定額料を支払えば1か月市バスが乗り放題になるサービス。連続で毎月利用すると毎月の定額料が割り引かれる。一度も利用しなかった月には定額料は発生しないが、連続利用の月数はリセットされる。
 
-ICOCA、PiTaPaを含む全国10種類の交通系ICカードの相互利用が2013年（平成25年）3月23日に開始されたが、itappyエリアで利用できるのはICOCA、PiTaPaのみであり、Kitaca・Suica・PASMO・TOICA・manaca・SUGOCA・nimoca・はやかけんの各ICカードは利用することができない\[10\]。
+itappyサービス開始当初itappyエリアで利用できたのはitappy及びICOCA、PiTaPaのみであった。Kitaca・Suica・PASMO・TOICA・manaca・SUGOCA・nimoca・はやかけんの各ICカードは、全国相互利用サービス開始から7年後の[2020年](../Page/2020年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")より利用できるようになった\[10\]。
 
 ## その他
 

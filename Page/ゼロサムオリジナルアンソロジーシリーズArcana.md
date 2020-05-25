@@ -1,12 +1,12 @@
-> この記事は[Arcana](https://ja.wikipedia.org/wiki/Arcana)から翻訳されています。
+> この記事は[ゼロサムオリジナルアンソロジーシリーズArcana](https://ja.wikipedia.org/wiki/ゼロサムオリジナルアンソロジーシリーズArcana)から翻訳されています。
 
 
-『**ゼロサムオリジナルアンソロジーシリーズArcana**』（ゼロサムオリジナルアンソロジーシリーズアルカナ）は、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")発行の[アンソロジーコミック](https://ja.wikipedia.org/wiki/アンソロジーコミック "wikilink")。
+『**ゼロサムオリジナルアンソロジーシリーズArcana**』（ゼロサムオリジナルアンソロジーシリーズアルカナ）は、[一迅社](../Page/一迅社.md "wikilink")発行の[アンソロジーコミック](../Page/アンソロジーコミック.md "wikilink")。
 
 ## 概要
 
-  - 巻ごとにテーマが設けられており、そのテーマに沿ったオリジナルの読切が掲載されている。テーマは「執事」や「吸血鬼」など、『[コミックZERO-SUM](https://ja.wikipedia.org/wiki/コミックZERO-SUM "wikilink")』の読者層の好みを意識したものが多い。
-  - 執筆を担当するのは、主に『コミックZERO-SUM』『[コミックZERO-SUM増刊WARD](https://ja.wikipedia.org/wiki/コミックZERO-SUM増刊WARD "wikilink")』の漫画家である。
+  - 巻ごとにテーマが設けられており、そのテーマに沿ったオリジナルの読切が掲載されている。テーマは「執事」や「吸血鬼」など、『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』の読者層の好みを意識したものが多い。
+  - 執筆を担当するのは、主に『コミックZERO-SUM』『[コミックZERO-SUM増刊WARD](../Page/コミックZERO-SUM増刊WARD.md "wikilink")』の漫画家である。
   - 2006年10月に第1巻「執事」が発売されて以降、現在16巻まで発行されている。
   - ZERO-SUMコミックスとして刊行されている。
 
@@ -14,7 +14,7 @@
 
   - [峰倉かずや](../Page/峰倉かずや.md "wikilink")
   - [高河ゆん](../Page/高河ゆん.md "wikilink")
-  - [木下さくら](https://ja.wikipedia.org/wiki/木下さくら "wikilink")
+  - [木下さくら](../Page/木下さくら.md "wikilink")
   - [高山しのぶ](https://ja.wikipedia.org/wiki/高山しのぶ "wikilink")
 
 ## コミックス
@@ -26,7 +26,7 @@
 | 1      | 執事            | [峰倉かずや](../Page/峰倉かずや.md "wikilink")                    | 2006年10月25日 | ISBN 9784758052535 |
 | 2      | 賊・怪盗          | [高河ゆん](../Page/高河ゆん.md "wikilink")                      | 2007年1月31日  | ISBN 9784758052672 |
 | 3      | 王子&姫          | [峰倉かずや](../Page/峰倉かずや.md "wikilink")                    | 2007年4月25日  | ISBN 9784758052825 |
-| 4      | 吸血鬼           | [木下さくら](https://ja.wikipedia.org/wiki/木下さくら "wikilink") | 2007年8月3日   | ISBN 9784758053020 |
+| 4      | 吸血鬼           | [木下さくら](../Page/木下さくら.md "wikilink")                    | 2007年8月3日   | ISBN 9784758053020 |
 | 5      | 和風／侍          | [峰倉かずや](../Page/峰倉かずや.md "wikilink")                    | 2007年10月25日 | ISBN 9784758053150 |
 | 6      | 特殊部隊／集団       | [峰倉かずや](../Page/峰倉かずや.md "wikilink")                    | 2008年1月25日  | ISBN 9784758053341 |
 | 7      | 魔法使い／術師       | [高山しのぶ](https://ja.wikipedia.org/wiki/高山しのぶ "wikilink") | 2008年4月25日  | ISBN 9784758053464 |

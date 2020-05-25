@@ -1,9 +1,9 @@
 > この記事は[Firebug](https://ja.wikipedia.org/wiki/Firebug)から翻訳されています。
 
 
-**Firebug** （ファイアバグ）とは、[JavaScript](../Page/JavaScript.md "wikilink") [コンソール](https://ja.wikipedia.org/wiki/コンソール "wikilink")や[ウェブページ](../Page/ウェブページ.md "wikilink")の [HTML](../Page/HyperText_Markup_Language.md "wikilink"), [CSS](../Page/Cascading_Style_Sheets.md "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink") などの編集・[デバッガ](../Page/デバッガ.md "wikilink")・[プロファイラ](https://ja.wikipedia.org/wiki/プロファイラ "wikilink")、[DOM](../Page/Document_Object_Model.md "wikilink") の解析機能など、様々な[ウェブ開発ツールを提供する](../Page/Webプログラミング.md "wikilink") [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink") の[拡張機能である](https://ja.wikipedia.org/wiki/拡張機能_\(Mozilla\) "wikilink")。
+**Firebug** （ファイアバグ）とは、[JavaScript](../Page/JavaScript.md "wikilink") [コンソール](../Page/コンソール.md "wikilink")や[ウェブページ](../Page/ウェブページ.md "wikilink")の [HTML](../Page/HyperText_Markup_Language.md "wikilink"), [CSS](../Page/Cascading_Style_Sheets.md "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink") などの編集・[デバッガ](../Page/デバッガ.md "wikilink")・[プロファイラ](https://ja.wikipedia.org/wiki/プロファイラ "wikilink")、[DOM](../Page/Document_Object_Model.md "wikilink") の解析機能など、様々な[ウェブ開発ツールを提供する](../Page/Webプログラミング.md "wikilink") [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink") の[拡張機能である](../Page/拡張機能_\(Mozilla\).md "wikilink")。
 
-Firebug では、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の CSS, HTML, [XML](https://ja.wikipedia.org/wiki/XML "wikilink"), DOM, JavaScript などの記述や修正、デバッグなどを行うことができる。また、[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink") などの開発で必要となる、[XMLHttpRequest](https://ja.wikipedia.org/wiki/XMLHttpRequest "wikilink") のモニタリング機能なども備えている。Firebug の公式サイトでは、Firebug の使い方公式ガイドが提供されている。
+Firebug では、[ウェブサイト](../Page/ウェブサイト.md "wikilink")の CSS, HTML, [XML](https://ja.wikipedia.org/wiki/XML "wikilink"), DOM, JavaScript などの記述や修正、デバッグなどを行うことができる。また、[Ajax](https://ja.wikipedia.org/wiki/Ajax "wikilink") などの開発で必要となる、[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink") のモニタリング機能なども備えている。Firebug の公式サイトでは、Firebug の使い方公式ガイドが提供されている。
 
 Firebug は Firefox ([DOM Inspector](../Page/DOM_Inspector.md "wikilink")) 開発者の一人である [Joe Hewitt](https://ja.wikipedia.org/wiki/:w:Joe_Hewitt_\(programmer\) "wikilink") らによって開発されている。なお、[Internet Explorer](../Page/Internet_Explorer.md "wikilink") など Firefox 以外の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")向けには Firebug Lite\[1\] を提供している。
 
@@ -14,16 +14,16 @@ Firebugは2006年1月にリリースされた。その後、[Google Chromeに対
   - HTML, CSS, XML, DOM, JavaScript などの[リアルタイム](../Page/リアルタイム.md "wikilink")表示・作成・編集
   - [JavaScript](../Page/JavaScript.md "wikilink") の[ログ出力](../Page/データログ.md "wikilink")、[デバッガ](../Page/デバッガ.md "wikilink")、[プロファイラ](https://ja.wikipedia.org/wiki/プロファイラ "wikilink")
   - [コマンドライン](https://ja.wikipedia.org/wiki/コマンドライン "wikilink")機能
-  - 通信解析（ファイルや [XMLHttpRequest](https://ja.wikipedia.org/wiki/XMLHttpRequest "wikilink") など）
+  - 通信解析（ファイルや [XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink") など）
   - [デュアルディスプレイ](https://ja.wikipedia.org/wiki/デュアルディスプレイ "wikilink")環境での表示に対応
 
 ## ライセンス
 
-Firebug は、[修正BSDライセンスの下で配布されている](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である\[3\]。
+Firebug は、[修正BSDライセンスの下で配布されている](../Page/BSDライセンス.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である\[3\]。
 
 ## 関連項目
 
-  - [ウェブデザイン](https://ja.wikipedia.org/wiki/ウェブデザイン "wikilink")
+  - [ウェブデザイン](../Page/ウェブデザイン.md "wikilink")
   - [プログラミング (コンピュータ)](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
 
 ## 脚注

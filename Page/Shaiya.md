@@ -1,7 +1,7 @@
 > この記事は[Shaiya](https://ja.wikipedia.org/wiki/Shaiya)から翻訳されています。
 
 
-**Shaiya**（シャイヤ）-Light and Darkness-は、[韓国のSONOV社が開発した](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")。日本では[ゴンゾロッソ](https://ja.wikipedia.org/wiki/ゴンゾロッソオンライン "wikilink")（現ロッソインデックス）よって運営されていた\[1\]。[2007年](../Page/2007年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")16時よりオープンβテストを開始し、同年[11月13日](../Page/11月13日.md "wikilink")19時から正式サービスを開始した。
+**Shaiya**（シャイヤ）-Light and Darkness-は、[韓国のSONOV社が開発した](../Page/大韓民国.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")。日本では[ゴンゾロッソ](https://ja.wikipedia.org/wiki/ゴンゾロッソオンライン "wikilink")（現ロッソインデックス）よって運営されていた\[1\]。[2007年](../Page/2007年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")16時よりオープンβテストを開始し、同年[11月13日](../Page/11月13日.md "wikilink")19時から正式サービスを開始した。
 
 以下は特に断りがないかぎり、サービスを終了した公式日本バージョンを解説している。
 

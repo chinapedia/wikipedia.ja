@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCアルジェシュ・ピテシュティ](https://ja.wikipedia.org/wiki/FCアルジェシュ・ピテシュティ)から翻訳されています。
 
 
 **FCアルジェシュ・ピテシュティ**（、）は、[ルーマニア](../Page/ルーマニア.md "wikilink")・[ピテシュティ](https://ja.wikipedia.org/wiki/ピテシュティ "wikilink")を本拠地としている[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
@@ -22,7 +22,7 @@
 
   - [コンスタンティン・ガルカ](https://ja.wikipedia.org/wiki/コンスタンティン・ガルカ "wikilink") 1989-1991
 
-  - [アドリアン・ムトゥ](https://ja.wikipedia.org/wiki/アドリアン・ムトゥ "wikilink") 1996-1999
+  - [アドリアン・ムトゥ](../Page/アドリアン・ムトゥ.md "wikilink") 1996-1999
 
   - [パウル・コドレア](https://ja.wikipedia.org/wiki/パウル・コドレア "wikilink") 1999-2001
 

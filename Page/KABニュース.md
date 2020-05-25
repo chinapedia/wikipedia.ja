@@ -1,7 +1,7 @@
-> この記事は[KAB](https://ja.wikipedia.org/wiki/KAB)から翻訳されています。
+> この記事は[KABニュース](https://ja.wikipedia.org/wiki/KABニュース)から翻訳されています。
 
 
-『**KABニュース**』（ケイエービーニュース）は、[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")が開局時から放送している[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
+『**KABニュース**』（ケイエービーニュース）は、[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")が開局時から放送している[スポットニュース](../Page/スポットニュース.md "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 2005年10月1日に熊本朝日放送の本社機能が新社屋へと移ったのを機に、平日昼と毎日21時前に放送されていた定時ニュースのタイトルを『**KABニュース&天気**』に統一した（移転前は、平日昼版のみがこのタイトルだった）。見出し字は『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』のものと同じデザインを使用しているが、「ANN」のロゴ部分が「KAB」のロゴに差し替えられている。
 
-2018年4月時点では、金曜日の夜間に[民間放送](../Page/民間放送.md "wikilink")のテレビで熊本県内のニュースを伝える唯一の[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")になっていた。([熊日ニュース](../Page/熊日ニュース.md "wikilink")や[TKUニュース](../Page/TKUニュース.md "wikilink")は金曜日の夜間は放送しないため。また、[KKTニュース](https://ja.wikipedia.org/wiki/KKTニュース "wikilink")は夜間に放送しないため。)
+2018年4月時点では、金曜日の夜間に[民間放送](../Page/民間放送.md "wikilink")のテレビで熊本県内のニュースを伝える唯一の[スポットニュース](../Page/スポットニュース.md "wikilink")になっていた。([熊日ニュース](../Page/熊日ニュース.md "wikilink")や[TKUニュース](../Page/TKUニュース.md "wikilink")は金曜日の夜間は放送しないため。また、[KKTニュース](https://ja.wikipedia.org/wiki/KKTニュース "wikilink")は夜間に放送しないため。)
 
 ## キャスター
 
@@ -25,8 +25,8 @@
 
 <!-- end list -->
 
-  - 月曜 - 金曜 11:42 - 11:45 （『[大下容子 ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")・第1部』内）
-  - 月曜 - 金曜 13:55 - 13:57 （2018年11月 - 2019年3月は14時台に[テレビショッピング](../Page/テレビショッピング.md "wikilink")放送しない週のみ13:55 - 13:58に放送。唯一[EPG](https://ja.wikipedia.org/wiki/EPG "wikilink")にKABニュースと標示される時間帯。2019年4月以降は1分短縮したため、天気予報は放送しない。）
+  - 月曜 - 金曜 11:42 - 11:45 （『[大下容子 ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")・第1部』内）(2019年12月27日は特別編成でワイド\!スクランブルのエンディングを放送するため休止。)
+  - 月曜 - 金曜 13:45 - 13:47 （唯一[EPG](https://ja.wikipedia.org/wiki/EPG "wikilink")にKABニュースと標示される時間帯。2018年11月 - 2019年3月は14時台に[テレビショッピング](../Page/テレビショッピング.md "wikilink")放送しない週のみ13:55 - 13:58に放送。2019年4月 - 2020年3月は特別編成時を除き13:55 - 13:57に放送。2019年4月以降は1分短縮したため、天気予報は放送しない。）
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - 月曜 - 金曜 20:54 - 21:00 （[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")放送時には21:48 - 21:54に放送）(2018年9月28日をもって打ち切り)
+  - 月曜 - 金曜 20:54 - 21:00 （[特別番組](../Page/特別番組.md "wikilink")放送時には21:48 - 21:54に放送）(2018年9月28日をもって打ち切り)
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
   - [KABニュースラウンド](https://ja.wikipedia.org/wiki/KABニュースラウンド "wikilink")
   - [5時です\!くまもとスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネルくまもと "wikilink")
   - [スーパーJチャンネルくまもと](https://ja.wikipedia.org/wiki/スーパーJチャンネルくまもと "wikilink")
-  - [KABニューストレイン](https://ja.wikipedia.org/wiki/KABニューストレイン "wikilink")
+  - [KABニューストレイン](../Page/KABニューストレイン.md "wikilink")
   - [くまパワ](https://ja.wikipedia.org/wiki/くまパワ "wikilink")
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 

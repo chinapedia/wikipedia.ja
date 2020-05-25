@@ -1,4 +1,4 @@
-> この記事は[RIO](https://ja.wikipedia.org/wiki/RIO)から翻訳されています。
+> この記事は[ハローキティ×RIO](https://ja.wikipedia.org/wiki/ハローキティ×RIO)から翻訳されています。
 
 
 **ハローキティ×RIO** （はろーきてぃ ばい りお） は株式会社[サンリオ](../Page/サンリオ.md "wikilink")が[2006年](../Page/2006年.md "wikilink")11月に発売した 「[ハローキティ](../Page/ハローキティ.md "wikilink")」の期間限定キャラクターである。
@@ -46,7 +46,7 @@
 
 ## 外部リンク
 
-  - [松本莉緒オフィシャルブログ 『Rio's Sweet Makana』](http://ameblo.jp/matsumoto-rio/)
+  - [松本莉緒オフィシャルブログ 『Rio's Sweet Makana』](https://ameblo.jp/matsumoto-rio/)
 
 <!-- end list -->
 

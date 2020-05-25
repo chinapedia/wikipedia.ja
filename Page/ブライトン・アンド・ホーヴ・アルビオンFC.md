@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブライトン・アンド・ホーヴ・アルビオンFC](https://ja.wikipedia.org/wiki/ブライトン・アンド・ホーヴ・アルビオンFC)から翻訳されています。
 
 
 **ブライトン・アンド・ホーヴ・アルビオン・フットボール・クラブ**（**Brighton & Hove Albion Football Club** ()）は、[イングランド](../Page/イングランド.md "wikilink")南東部・[イースト・サセックス州](https://ja.wikipedia.org/wiki/イースト・サセックス州 "wikilink")[ブライトン・アンド・ホヴ](https://ja.wikipedia.org/wiki/ブライトン・アンド・ホヴ "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[青](../Page/青.md "wikilink")と[白](../Page/白.md "wikilink")。愛称は**シーガルズ**（The Seagulls）。
@@ -57,9 +57,9 @@
 
 </div>
 
-  - 2020年1月24日現在
+  - 2020年3月7日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Argentina.svg "wikilink"))      ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Argentina.svg "wikilink"))      ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -115,7 +115,7 @@
 
   - [リアム・ブレイディ](https://ja.wikipedia.org/wiki/リアム・ブレイディ "wikilink") 1993-1995
 
-  - [ジミー・ケース](https://ja.wikipedia.org/wiki/ジミー・ケース "wikilink") 1995-1996
+  - [ジミー・ケース](../Page/ジミー・ケース.md "wikilink") 1995-1996
 
   - [スティーブ・グリット](https://ja.wikipedia.org/wiki/スティーブ・グリット "wikilink") 1996-1998
 
@@ -205,8 +205,10 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.seagulls.premiumtv.co.uk/page/Home/)
-  - [Brighton & hove Albion - The Official Web Site Of The Football League](http://www.football-league.premiumtv.co.uk/page/ClubsLeagueOne/0,,10794~692137,00.html)
+  - [公式サイト](https://www.brightonandhovealbion.com/)（英語）
+  - [Brighton & Hove Albion FC](https://www.facebook.com/officialbhafc/) - ホーム | Facebook
+  - [Brighton & Hove Albion](https://twitter.com/officialbhafc) ⚽️ (@OfficialBHAFC) | Twitter
+  - Brighton & hove Albion - [The Official Web Site Of The Football League](https://www.efl.com/)
   - [Brighton & hove Albion - Historical Football Kit](http://www.historicalkits.co.uk/Brighton_and_Hove_Albion/Brighton_and_Hove_Albion.htm)
 
 [Category:イースト・サセックスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イースト・サセックスのサッカークラブ "wikilink") [Category:ブライトン・アンド・ホヴ](https://ja.wikipedia.org/wiki/Category:ブライトン・アンド・ホヴ "wikilink") [Category:1901年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1901年設立のスポーツチーム "wikilink")

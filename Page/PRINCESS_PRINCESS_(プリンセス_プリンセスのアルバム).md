@@ -1,4 +1,4 @@
-> この記事は[PRINCESS PRINCESS \( \)](https://ja.wikipedia.org/wiki/PRINCESS_PRINCESS_\(_\))から翻訳されています。
+> この記事は[PRINCESS PRINCESS \(プリンセス プリンセスのアルバム\)](https://ja.wikipedia.org/wiki/PRINCESS_PRINCESS_\(プリンセス_プリンセスのアルバム\))から翻訳されています。
 
 
 『**PRINCESS PRINCESS**』（プリンセス プリンセス）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")5枚目の[アルバム](../Page/アルバム.md "wikilink")。
@@ -54,6 +54,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-3606/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-3606)
 
 [Category:プリンセス_プリンセスのアルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのアルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink") [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:1991年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

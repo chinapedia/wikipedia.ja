@@ -1,11 +1,11 @@
-> この記事は[NAR](https://ja.wikipedia.org/wiki/NAR)から翻訳されています。
+> この記事は[NARグランプリ最優秀牝馬](https://ja.wikipedia.org/wiki/NARグランプリ最優秀牝馬)から翻訳されています。
 
 
-**NARグランプリ最優秀牝馬**（NARグランプリ さいゆうしゅう ひんば）は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した[牝馬](https://ja.wikipedia.org/wiki/牝馬 "wikilink")の競走馬が対象となる。創設は[1999年](../Page/1999年.md "wikilink")。[2011年](../Page/2011年.md "wikilink")から2歳、3歳、4歳以上最優秀馬の部門が牡馬と牝馬に分離されたため廃止された。
+**NARグランプリ最優秀牝馬**（NARグランプリ さいゆうしゅう ひんば）は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した[牝馬](../Page/牝馬.md "wikilink")の競走馬が対象となる。創設は[1999年](../Page/1999年.md "wikilink")。[2011年](../Page/2011年.md "wikilink")から2歳、3歳、4歳以上最優秀馬の部門が牡馬と牝馬に分離されたため廃止された。
 
 ## 歴代受賞馬
 
-[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")は2000年までは旧表記。
+[馬齢](../Page/馬齢.md "wikilink")は2000年までは旧表記。
 
 <table>
 <thead>
@@ -56,13 +56,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネームヴァリュー" title="wikilink">ネームヴァリュー</a></p></td>
+<td><p><a href="../Page/ネームヴァリュー.md" title="wikilink">ネームヴァリュー</a></p></td>
 <td><p>牝4</p></td>
 <td><p>11戦4勝<br />
 <a href="https://ja.wikipedia.org/wiki/京成盃グランドマイラーズ" title="wikilink">京成盃グランドマイラーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/飛野牧場" title="wikilink">飛野牧場</a></p></td>
 <td><p><a href="../Page/船橋競馬場.md" title="wikilink">船橋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富岡真治" title="wikilink">富岡真治</a></p></td>
 </tr>
 <tr class="odd">
@@ -70,8 +70,8 @@
 <td><p>ネームヴァリュー</p></td>
 <td><p>牝5</p></td>
 <td><p>10戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/TCK女王盃" title="wikilink">TCK女王盃</a>、<a href="https://ja.wikipedia.org/wiki/大井記念" title="wikilink">大井記念</a>、<br />
-<a href="../Page/帝王賞.md" title="wikilink">帝王賞</a>、<a href="https://ja.wikipedia.org/wiki/東京記念" title="wikilink">東京記念</a></p></td>
+<a href="../Page/TCK女王盃.md" title="wikilink">TCK女王盃</a>、<a href="../Page/大井記念.md" title="wikilink">大井記念</a>、<br />
+<a href="../Page/帝王賞.md" title="wikilink">帝王賞</a>、<a href="../Page/東京記念.md" title="wikilink">東京記念</a></p></td>
 <td><p>飛野牧場</p></td>
 <td><p>船橋</p></td>
 <td><p>川島正行</p></td>
@@ -82,14 +82,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルモントビーチ" title="wikilink">ベルモントビーチ</a></p></td>
 <td><p>牝6</p></td>
 <td><p>4戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/マリーンカップ" title="wikilink">マリーンカップ</a></p></td>
+<a href="../Page/マリーンカップ.md" title="wikilink">マリーンカップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルモントファーム" title="wikilink">ベルモントファーム</a></p></td>
 <td><p>川崎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/池田孝" title="wikilink">池田孝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルモントファーム" title="wikilink">（有）ベルモントファーム</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プルザトリガー" title="wikilink">プルザトリガー</a></p></td>
 <td><p>牝4</p></td>
 <td><p>5戦1勝<br />
@@ -100,8 +100,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋照比古" title="wikilink">高橋照比古</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャームアスリープ" title="wikilink">チャームアスリープ</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/チャームアスリープ.md" title="wikilink">チャームアスリープ</a></p></td>
 <td><p>牝3</p></td>
 <td><p>9戦4勝<br />
 <a href="https://ja.wikipedia.org/wiki/南関東牝馬三冠" title="wikilink">南関東牝馬三冠</a></p></td>
@@ -126,7 +126,7 @@
 <td><p>トーセンジョウオー</p></td>
 <td><p>牝7</p></td>
 <td><p>2戦1勝<br />
-<a href="https://ja.wikipedia.org/wiki/スパーキングレディーカップ" title="wikilink">スパーキングレディーカップ</a></p></td>
+<a href="../Page/スパーキングレディーカップ.md" title="wikilink">スパーキングレディーカップ</a></p></td>
 <td><p>ヒサイファーム</p></td>
 <td><p>船橋</p></td>
 <td><p>川島正行</p></td>
@@ -138,22 +138,22 @@
 <td><p>牝2</p></td>
 <td><p>5戦5勝<br />
 <a href="../Page/全日本2歳優駿.md" title="wikilink">全日本2歳優駿</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/兵庫ジュニアグランプリ" title="wikilink">兵庫ジュニアグランプリ</a></p></td>
+<a href="../Page/兵庫ジュニアグランプリ.md" title="wikilink">兵庫ジュニアグランプリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グランド牧場" title="wikilink">グランド牧場</a></p></td>
 <td><p>笠松</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柳江仁" title="wikilink">柳江仁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dr.コパ" title="wikilink">小林祥晃</a></p></td>
+<td><p><a href="../Page/Dr.コパ.md" title="wikilink">小林祥晃</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユキチャン" title="wikilink">ユキチャン</a></p></td>
+<td><p><a href="../Page/ユキチャン.md" title="wikilink">ユキチャン</a></p></td>
 <td><p>牝5</p></td>
 <td><p>3戦1勝<br />
 TCK女王盃</p></td>
 <td><p><a href="../Page/ノーザンファーム.md" title="wikilink">ノーザンファーム</a></p></td>
 <td><p>川崎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山崎尋美" title="wikilink">山崎尋美</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金子真人" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
+<td><p><a href="../Page/金子真人.md" title="wikilink">金子真人</a>ホールディングス（株）</p></td>
 </tr>
 </tbody>
 </table>

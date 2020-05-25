@@ -17,11 +17,13 @@
 
 ## 主なメンバー
 
-各々は自身のレーベル内でも楽曲を発表している。
+各々は自身のレーベル内でも楽曲を発表している。スラッシュで区切った者は各々の別名義、カッコ内は所属しているレーベル名を記す。
 
 ### 現在の主なメンバー
 
-メインメンバー
+  - メインメンバー
+
+<!-- end list -->
 
   - [REDALiCE](https://ja.wikipedia.org/wiki/REDALiCE "wikilink")/DJ NAGAI/赤い人 (ALiCE'S EMOTiON)
   - [t+pazolite](https://ja.wikipedia.org/wiki/t+pazolite "wikilink")/tpa:pbr/最速 (C.H.S/ALiCE'S EMOTiON)
@@ -34,9 +36,7 @@
   - [aran](https://ja.wikipedia.org/wiki/aran "wikilink") (Otographic Music/Unitone/aranmusic)
   - [DJ Myosuke](https://ja.wikipedia.org/wiki/DJ_Myosuke "wikilink")/Filthy (MADCITY \[Psycho Filth Records/Japanese Stream Hardcore/FREAKIN WORKS\])
   - [Massive New Krew](https://ja.wikipedia.org/wiki/Massive_New_Krew "wikilink") (Massive Circlez)
-
-･Javelin(篠崎あやと)、Tachibana(橘亮祐)によるユニット｡
-
+      - Javelin([篠崎あやと](https://ja.wikipedia.org/wiki/篠崎あやと "wikilink"))、Tachibana(橘亮祐)によるユニット｡
   - [Kobaryo](https://ja.wikipedia.org/wiki/Kobaryo "wikilink")/Srezcat/DJ NEKOJITA/Matatabi Sound System/Nyankovsky/蛇塚透花/Shinonome Interface/blaxervant/Persian Groovies/窓壁九真好キ(イラストレーターとしての名義) (HiTNEX TRAX/Japanese Stream Hardcore/Psycho Filth Records)
   - kenta-v.ez. (boostized euphoria)
   - [Noizenecio](https://ja.wikipedia.org/wiki/Noizenecio "wikilink")/Clax (SOLIDBOX RECORDS)
@@ -65,11 +65,8 @@
   - [Ujico\*/Snail's House](https://ja.wikipedia.org/wiki/Ujico*/Snail's_House "wikilink")
   - [KO3](https://ja.wikipedia.org/wiki/KO3 "wikilink") (Kirara Records)
   - [Ryu☆](https://ja.wikipedia.org/wiki/Ryu☆ "wikilink")/HHH/青龍/Ryu\*/Another Infinity (EXIT TUNES/[EDP](https://ja.wikipedia.org/wiki/EDP "wikilink")/[beatnation records](https://ja.wikipedia.org/wiki/beatnationレーベル "wikilink"))
-
-・HHHはVJ HalkaとDai.(Daisuke)のコンビ。
-
-・Another Infinityは[Xceon](https://ja.wikipedia.org/wiki/Starving_Trancer "wikilink")/[Starving Trancerのコラボユニット](https://ja.wikipedia.org/wiki/Starving_Trancer "wikilink")。
-
+      - HHHはVJ HalkaとDai.(Daisuke)のコンビ。
+      - Another Infinityは[Xceon](https://ja.wikipedia.org/wiki/Starving_Trancer "wikilink")/[Starving Trancerのコラボユニット](https://ja.wikipedia.org/wiki/Starving_Trancer "wikilink")。
   - [Relect](https://ja.wikipedia.org/wiki/Relect "wikilink") (Attack The Music)
   - [Maozon](https://ja.wikipedia.org/wiki/Maozon "wikilink") ([Diverse System](https://ja.wikipedia.org/wiki/Diverse_System "wikilink")/Digz, Inc. Group)
   - nadeco (YTR Records)
@@ -78,21 +75,16 @@
   - Rooq (Stratosphere)
   - [nora2r](https://ja.wikipedia.org/wiki/nora2r "wikilink") (Next Reflection/Notebook"Delight"Records)
   - [kors k](https://ja.wikipedia.org/wiki/kors_k "wikilink")/Eagle/teranoid/Disconation/Strip E/maras k/The 4th ([S2TB Recording](https://ja.wikipedia.org/wiki/S2TB_Recording "wikilink")/EDP/beatnation records)
-
-・the 4thはRyu☆とのユニット。
-
-・maras kは[まらしぃ](https://ja.wikipedia.org/wiki/まらしぃ "wikilink")とのユニット。
-
+      - the 4thはRyu☆とのユニット。
+      - maras kは[まらしぃ](https://ja.wikipedia.org/wiki/まらしぃ "wikilink")とのユニット。
   - [sky_delta](https://ja.wikipedia.org/wiki/sky_delta "wikilink") (Endorfin./Attack The Music)
   - fang (Sound ave.)
   - [Cranky](https://ja.wikipedia.org/wiki/Cranky "wikilink") (Feelin Groove)
   - DJ 490 (SKETCH UP\! Recordings)
   - Redogre (K.O.R.E./Psycho Filth Records/Japanese Stream Hardcore/FREAKIN WORKS)
   - C-Show/Lite Show Magic (Lick Dom Records/Digz, Inc. Group)
-
-・Lite Show MagicはC-Showとt+pazoliteによるユニット。
-
-  - [BlackY](https://ja.wikipedia.org/wiki/BlackY "wikilink") (BlackY's BEATFLOOR)
+      - Lite Show MagicはC-Showとt+pazoliteによるユニット。
+  - [BlackY](https://ja.wikipedia.org/wiki/BlackY "wikilink")/WAiKURO (BlackY's BEATFLOOR)
   - [Yooh](https://ja.wikipedia.org/wiki/Yooh "wikilink") (Yoohsic Roomz)
   - siromaru (しろまるーむ)
   - [Hommarju](https://ja.wikipedia.org/wiki/Hommarju "wikilink") (S2TB Recording/THE NO1ZE)
@@ -114,7 +106,8 @@
   - Rizna
   - YUC'e
   - Aikapin (Notebook Records)
-  - 野宮あゆみ - Ayumi Nomiya名義でも活動。
+  - 野宮あゆみ
+      - Ayumi Nomiya名義でも活動。
   - \*airi
   - mirto
   - a☆ru
@@ -122,8 +115,10 @@
   - anporin/3L
   - Daisuke (SEVER BLACK PARANOIA)
   - MC Azsa
-  - 浅場佳苗 - Kanae Asaba名義で活動中。
-  - MC Dahl Headland - 現在ではMC KCDとして活動中。
+  - 浅場佳苗
+      - Kanae Asaba名義で活動中。
+  - MC Dahl Headland
+      - 現在ではMC KCDとして活動中。
 
 ### 過去のメンバー
 
@@ -194,6 +189,7 @@
   - IRREGULAR NATION 3
   - IRREGULAR NATION 4
   - IRREGULAR NATION 5
+  - IRREGULAR NATION 6
 
 ### ANTHEMシリーズ
 
@@ -228,6 +224,7 @@
   - TEMPOCOP
   - SATELLITE QUEEN
   - MYSTERY BLEND
+  - Return to the origin
   - HYPER DUO
   - MEGATON KICK
 

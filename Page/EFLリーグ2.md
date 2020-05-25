@@ -1,4 +1,4 @@
-> この記事は[EFL2](https://ja.wikipedia.org/wiki/EFL2)から翻訳されています。
+> この記事は[EFLリーグ2](https://ja.wikipedia.org/wiki/EFLリーグ2)から翻訳されています。
 
 
 **EFLリーグ2**（**EFL League Two**）は、[イングランド](../Page/イングランド.md "wikilink")の[プロサッカーリーグのディビジョンの一つで](../Page/イングランドサッカーのリーグ構成.md "wikilink")、最上位である[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の3つ下のディビジョン、すなわち実質4部である。また、[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")の中では最下位に位置している。

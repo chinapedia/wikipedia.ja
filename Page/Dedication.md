@@ -1,13 +1,13 @@
 > この記事は[Dedication](https://ja.wikipedia.org/wiki/Dedication)から翻訳されています。
 
 
-『**Dedication**』（デディケーション）は、[河合その子](https://ja.wikipedia.org/wiki/河合その子 "wikilink")初の企画アルバム。[1988年](../Page/1988年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")発売。発売元は[CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。[品番は](https://ja.wikipedia.org/wiki/規格品番 "wikilink")[LPが](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")28AH-2282\[1\]、初版[CDが](../Page/CD-DA.md "wikilink")32DH-869\[2\]。
+『**Dedication**』（デディケーション）は、[河合その子](../Page/河合その子.md "wikilink")初の企画アルバム。[1988年](../Page/1988年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売。発売元は[CBS/SONY](../Page/ソニー・ミュージックレコーズ.md "wikilink")。[品番は](../Page/規格品番.md "wikilink")[LPが](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")28AH-2282\[1\]、初版[CDが](../Page/CD-DA.md "wikilink")32DH-869\[2\]。
 
 ## 解説
 
 [CTのみのベスト盤](../Page/コンパクトカセット.md "wikilink")『BEST ALBUM』と同時発売。
 
-基本は[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")であり、デビュー作「[涙の茉莉花LOVE](../Page/涙の茉莉花LOVE.md "wikilink")」から「[JESSY](https://ja.wikipedia.org/wiki/JESSY "wikilink")」までのシングルA面曲7作品が収録されているが、デビュー作から3作目「[青いスタスィオン](https://ja.wikipedia.org/wiki/青いスタスィオン "wikilink")」までのシングル曲は、[ヴォーカルと](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[アレンジを一新したリテイク](../Page/編曲.md "wikilink")・バージョンでの収録となっている。
+基本は[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")であり、デビュー作「[涙の茉莉花LOVE](../Page/涙の茉莉花LOVE.md "wikilink")」から「[JESSY](../Page/JESSY.md "wikilink")」までのシングルA面曲7作品が収録されているが、デビュー作から3作目「[青いスタスィオン](../Page/青いスタスィオン.md "wikilink")」までのシングル曲は、[ヴォーカルと](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[アレンジを一新したリテイク](../Page/編曲.md "wikilink")・バージョンでの収録となっている。
 
 「涙の茉莉花LOVE」と「落葉のクレッシェンド」の曲間がノンストップで続いており、一部の楽曲は歌詞がシングルのものから書き換えられている。ほか、新曲を含む。[CD版の歌詞ブックレット内には](../Page/CD-DA.md "wikilink")、各ページにセピア調のミニフォトグラフを掲載している。
 
@@ -15,29 +15,29 @@
 
 ## 収録曲
 
-10曲目を除き、作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+10曲目を除き、作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
 
 1.  **[涙の茉莉花LOVE](../Page/涙の茉莉花LOVE.md "wikilink")**（4:55）
       - 作詞：T2\[3\]
       - スロー・バラード風にリニューアルされた。
-2.  **[落葉のクレッシェンド](https://ja.wikipedia.org/wiki/落葉のクレッシェンド "wikilink")**（5:52）
+2.  **[落葉のクレッシェンド](../Page/落葉のクレッシェンド.md "wikilink")**（5:52）
       - 作詞：[秋元康](../Page/秋元康.md "wikilink")
       - スロー・バラード風にリニューアルされた。
-3.  **[青いスタスィオン](https://ja.wikipedia.org/wiki/青いスタスィオン "wikilink")**（3:41）
+3.  **[青いスタスィオン](../Page/青いスタスィオン.md "wikilink")**（3:41）
       - 作詞：秋元康
       - シンプルなアレンジと、抑えめなヴォーカルにリニューアルされた。
-4.  **[再会のラビリンス](https://ja.wikipedia.org/wiki/再会のラビリンス "wikilink")**（4:26）
+4.  **[再会のラビリンス](../Page/再会のラビリンス.md "wikilink")**（4:26）
       - 作詞：秋元康
 5.  **愛の中ひとり**（3:42）
       - 作詞：芹沢類
 6.  **小さな旅**（4:03）
       - 作詞：芹沢類
-7.  **[悲しい夜を止めて](https://ja.wikipedia.org/wiki/悲しい夜を止めて "wikilink")**（4:10）
+7.  **[悲しい夜を止めて](../Page/悲しい夜を止めて.md "wikilink")**（4:10）
       - 作詞：秋元康
-8.  **[哀愁のカルナバル](https://ja.wikipedia.org/wiki/哀愁のカルナバル "wikilink")**（4:28）
+8.  **[哀愁のカルナバル](../Page/哀愁のカルナバル.md "wikilink")**（4:28）
       - 作詞：秋元康
-9.  **[JESSY](https://ja.wikipedia.org/wiki/JESSY "wikilink")**（4:24）
-      - 作詞：[川村真澄](https://ja.wikipedia.org/wiki/川村真澄 "wikilink")
+9.  **[JESSY](../Page/JESSY.md "wikilink")**（4:24）
+      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")
 10. **戸惑いのバイエル**（3:34）
       - 作詞：芹沢類、作曲：河合その子、編曲：後藤次利
 
@@ -55,4 +55,4 @@
 
 1.
 2.
-3.  ディレクター・稲葉竜文と[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")の共同ペンネーム。
+3.  ディレクター・稲葉竜文と[後藤次利](../Page/後藤次利.md "wikilink")の共同ペンネーム。

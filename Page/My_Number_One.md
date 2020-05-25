@@ -1,15 +1,15 @@
 > この記事は[My Number One](https://ja.wikipedia.org/wiki/My_Number_One)から翻訳されています。
 
 
-「**My Number One**」（マイ・ナンバー・ワン）は、[エレーナ・パパリズーの楽曲で](https://ja.wikipedia.org/wiki/エレナ_\(歌手\) "wikilink")、[2005年の](https://ja.wikipedia.org/wiki/ユーロビジョン・ソング・コンテスト2005 "wikilink")[ユーロビジョン・ソング・コンテスト](https://ja.wikipedia.org/wiki/ユーロビジョン・ソング・コンテスト "wikilink")の優勝曲。
+「**My Number One**」（マイ・ナンバー・ワン）は、[エレーナ・パパリズーの楽曲で](../Page/エレナ_\(歌手\).md "wikilink")、[2005年の](https://ja.wikipedia.org/wiki/ユーロビジョン・ソング・コンテスト2005 "wikilink")[ユーロビジョン・ソング・コンテスト](../Page/ユーロビジョン・ソング・コンテスト.md "wikilink")の優勝曲。
 
 ## 解説
 
-この曲は[同名アルバムのタイトル曲であり](https://ja.wikipedia.org/wiki/My_Number_One_\(アルバム\) "wikilink")、アップテンポで、ラブソングとなっている。また、曲はギリシャ楽器[ライアー](https://ja.wikipedia.org/wiki/ライアー "wikilink")の音楽も使用されている。
+この曲は[同名アルバムのタイトル曲であり](https://ja.wikipedia.org/wiki/My_Number_One_\(アルバム\) "wikilink")、アップテンポで、ラブソングとなっている。また、曲はギリシャ楽器[ライアー](../Page/ライアー.md "wikilink")の音楽も使用されている。
 
 ユーロビジョン予選では全体の3分の2を占め、[キエフ](../Page/キエフ.md "wikilink")での本大会に進出した。前年サキス・ロヴァウスがファイナルで10位以内に入ったため、ファイナル出場となった。ユーロビジョン本大会では、230点を獲得、初優勝した。
 
-ユーロビジョン優勝後も、[ユーロバスケット](https://ja.wikipedia.org/wiki/バスケットボール欧州選手権 "wikilink")、日本開催の[2006年バスケットボール世界選手権](https://ja.wikipedia.org/wiki/2006年バスケットボール世界選手権 "wikilink")などに使用され、またエレナが[アテネ国際空港](../Page/アテネ国際空港.md "wikilink")に帰国した際にも使用された。また、エレナのMy Number Oneはギリシャとスウェーデンで4週連続1位を獲得した。
+ユーロビジョン優勝後も、[ユーロバスケット](../Page/バスケットボール欧州選手権.md "wikilink")、日本開催の[2006年バスケットボール世界選手権](../Page/2006年バスケットボール世界選手権.md "wikilink")などに使用され、またエレナが[アテネ国際空港](../Page/アテネ国際空港.md "wikilink")に帰国した際にも使用された。また、エレナのMy Number Oneはギリシャとスウェーデンで4週連続1位を獲得した。
 
 ## チャート
 

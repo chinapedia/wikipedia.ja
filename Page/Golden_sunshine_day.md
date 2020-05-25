@@ -6,13 +6,13 @@
 ## 解説
 
   - 前作「眠る、眠る、眠る」から、約2年近くぶりのシングル・リリースとなる。
-  - タイトル曲は[TBS系](../Page/TBSテレビ.md "wikilink")「[近藤正臣の味覚人情報](../Page/近藤正臣の味覚人情報.md "wikilink")」のエンディング・テーマであった。
+  - タイトル曲は[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")「[近藤正臣の味覚人情報](../Page/近藤正臣の味覚人情報.md "wikilink")」のエンディング・テーマであった。
   - カップリング曲は、河合が主演した[ミュージカル](../Page/ミュージカル.md "wikilink")『THE LOVER in ME〜ALONE AGAIN』（作・演出：[菅野こうめい](https://ja.wikipedia.org/wiki/菅野こうめい "wikilink")）のテーマ曲。
 
 ## 収録曲
 
 1.  Golden sunshine day
-      - 作詞:ミッキー吉野／作曲:河合奈保子／編曲:ミッキー吉野
+      - 作詞:[ミッキー吉野](../Page/ミッキー吉野.md "wikilink")／作曲:河合奈保子／編曲:ミッキー吉野
 2.  Alone again－starting over－
       - 作詞:[吉元由美](../Page/吉元由美.md "wikilink")／作曲:河合奈保子／編曲:ミッキー吉野
 
@@ -20,4 +20,4 @@
 
   - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
 
-[Category:河合奈保子の楽曲](https://ja.wikipedia.org/wiki/Category:河合奈保子の楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:河合奈保子の楽曲](https://ja.wikipedia.org/wiki/Category:河合奈保子の楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:毎日放送の主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送の主題歌 "wikilink")

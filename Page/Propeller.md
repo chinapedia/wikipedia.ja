@@ -6,8 +6,8 @@
 ## 作品一覧
 
   - [2004年](../Page/2004年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - [てこいれぷりんせす\! 〜僕が見えない君のため〜](https://ja.wikipedia.org/wiki/てこいれぷりんせす!_〜僕が見えない君のため〜 "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月24日](../Page/6月24日.md "wikilink") - [あやかしびと](https://ja.wikipedia.org/wiki/あやかしびと "wikilink")（[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")）
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月21日](../Page/8月21日.md "wikilink") - あやかしびと -幻妖異聞録-（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、発売は[ディンプル](https://ja.wikipedia.org/wiki/ディンプル_\(ゲーム会社\) "wikilink")）
+  - [2005年](../Page/2005年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink") - [あやかしびと](../Page/あやかしびと.md "wikilink")（[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")）
+  - [2006年](../Page/2006年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - あやかしびと -幻妖異聞録-（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、発売は[ディンプル](https://ja.wikipedia.org/wiki/ディンプル_\(ゲーム会社\) "wikilink")）
   - [2007年](../Page/2007年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") - [Bullet Butlers](../Page/Bullet_Butlers.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [クロノベルト-あやかしびと\&BulletButlersクロスオーバーディスク-](https://ja.wikipedia.org/wiki/クロノベルト-あやかしびと&BulletButlersクロスオーバーディスク- "wikilink")
   - [2009年](../Page/2009年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - [きっと、澄みわたる朝色よりも、](https://ja.wikipedia.org/wiki/きっと、澄みわたる朝色よりも、 "wikilink")
@@ -24,7 +24,7 @@
 ## 所属スタッフ
 
   - 頭取担当
-      - 頭取 - 珍しいオスの[三毛猫](https://ja.wikipedia.org/wiki/三毛猫 "wikilink")。『[猫の手帖](https://ja.wikipedia.org/wiki/猫の手帖 "wikilink")』[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月号のトップ記事を飾る。
+      - 頭取 - 珍しいオスの[三毛猫](../Page/三毛猫.md "wikilink")。『[猫の手帖](https://ja.wikipedia.org/wiki/猫の手帖 "wikilink")』[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月号のトップ記事を飾る。
   - 企画・シナリオ担当
       - [東出祐一郎](../Page/東出祐一郎.md "wikilink")
   - CG担当

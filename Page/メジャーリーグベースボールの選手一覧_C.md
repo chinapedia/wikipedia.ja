@@ -1,4 +1,4 @@
-> この記事は[ C](https://ja.wikipedia.org/wiki/_C)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 C](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_C)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**C**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alex_Cabrera" title="wikilink">Alex Cabrera</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・カブレラ" title="wikilink">アレックス・カブレラ</a></p></td>
+<td><p><a href="../Page/アレックス・カブレラ.md" title="wikilink">アレックス・カブレラ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fernando_Cabrera_(baseball)" title="wikilink">Fernando Cabrera</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・カブレラ" title="wikilink">フェルナンド・カブレラ</a></p></td>
+<td><p><a href="../Page/フェルナンド・カブレラ.md" title="wikilink">フェルナンド・カブレラ</a></p></td>
 <td><p>2004</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jolbert_Cabrera" title="wikilink">Jolbert Cabrera</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホルベルト・カブレラ" title="wikilink">ホルバート・カブレラ</a></p></td>
+<td><p><a href="../Page/ホルベルト・カブレラ.md" title="wikilink">ホルバート・カブレラ</a></p></td>
 <td><p>1998</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Miguel_Cabrera" title="wikilink">Miguel Cabrera</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミゲル・カブレラ" title="wikilink">ミゲール・カブレラ</a></p></td>
+<td><p><a href="../Page/ミゲル・カブレラ.md" title="wikilink">ミゲール・カブレラ</a></p></td>
 <td><p>2003</p></td>
 <td></td>
 <td></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wayne_Cage" title="wikilink">Wayne Cage</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・ケージ" title="wikilink">ウェイン・ケージ</a></p></td>
+<td><p><a href="../Page/ウェイン・ケージ.md" title="wikilink">ウェイン・ケージ</a></p></td>
 <td><p>1978</p></td>
 <td><p>1979</p></td>
 <td></td>
@@ -424,7 +424,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kiko_Calero" title="wikilink">Kiko Calero</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キコ・カレーロ" title="wikilink">キコ・カレーロ</a></p></td>
+<td><p><a href="../Page/キコ・カレーロ.md" title="wikilink">キコ・カレーロ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -711,7 +711,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Cameron" title="wikilink">Mike Cameron</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・キャメロン" title="wikilink">マイク・キャメロン</a></p></td>
+<td><p><a href="../Page/マイク・キャメロン.md" title="wikilink">マイク・キャメロン</a></p></td>
 <td><p>1995</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -977,7 +977,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Campbell_(pitcher)" title="wikilink">Mike Campbell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・キャンベル_(投手)" title="wikilink">マイク・キャンベル</a></p></td>
+<td><p><a href="../Page/マイク・キャンベル_(投手).md" title="wikilink">マイク・キャンベル</a></p></td>
 <td><p>1987</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -1047,7 +1047,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Frank_Campos" title="wikilink">Frank Campos</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・カンポス" title="wikilink">フランク・カンポス</a></p></td>
+<td><p><a href="../Page/フランク・カンポス.md" title="wikilink">フランク・カンポス</a></p></td>
 <td><p>1951</p></td>
 <td><p>1953</p></td>
 <td></td>
@@ -1194,7 +1194,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Griffin_Canning" title="wikilink">Griffin Canning</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グリフィン・カニング" title="wikilink">グリフィン・カニング</a></p></td>
+<td><p><a href="../Page/グリフィン・カニング.md" title="wikilink">グリフィン・カニング</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -1229,7 +1229,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Robinson_Canó" title="wikilink">Robinson Cano</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロビンソン・カノ" title="wikilink">ロビンソン・カノ</a>ー</p></td>
+<td><p><a href="../Page/ロビンソン・カノ.md" title="wikilink">ロビンソン・カノ</a>ー</p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
@@ -1243,7 +1243,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ozzie_Canseco" title="wikilink">Ozzie Canseco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オジー・カンセコ" title="wikilink">オジー・カンセコ</a></p></td>
+<td><p><a href="../Page/オジー・カンセコ.md" title="wikilink">オジー・カンセコ</a></p></td>
 <td><p>1990</p></td>
 <td><p>1993</p></td>
 <td></td>
@@ -1390,7 +1390,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ramón_Caraballo" title="wikilink">Ramon Caraballo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラモン・カラバーヨ" title="wikilink">ラモン・カラバーヨ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラモン・カラバイヨ" title="wikilink">ラモン・カラバイヨ</a></p></td>
 <td><p>1993</p></td>
 <td><p>1995</p></td>
 <td></td>
@@ -1480,10 +1480,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Stephen_Cardullo" title="wikilink">Stephen Cardullo</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブン・カルデュロ" title="wikilink">スティーブン・カルデュロ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Stephen_Cardullo" title="wikilink">Stephen Cardullo</a></p></td>
+<td><p><a href="../Page/スティーブン・カルデュロ.md" title="wikilink">スティーブン・カルデュロ</a></p></td>
 <td><p>2016</p></td>
-<td></td>
+<td><p>2017</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1495,7 +1495,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rod_Carew" title="wikilink">Rod Carew</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロッド・カルー" title="wikilink">ロッド・カルー</a></p></td>
+<td><p><a href="../Page/ロッド・カルー.md" title="wikilink">ロッド・カルー</a></p></td>
 <td><p>1967</p></td>
 <td><p>1985</p></td>
 <td><p>殿堂入り</p></td>
@@ -1691,14 +1691,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Carlton" title="wikilink">Steve Carlton</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・カールトン" title="wikilink">スティーブ・カールトン</a></p></td>
+<td><p><a href="../Page/スティーブ・カールトン.md" title="wikilink">スティーブ・カールトン</a></p></td>
 <td><p>1965</p></td>
 <td><p>1988</p></td>
 <td><p>殿堂入り</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Buddy_Carlyle" title="wikilink">Buddy Carlyle</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バディ・カーライル" title="wikilink">バディ・カーライル</a></p></td>
+<td><p><a href="../Page/バディ・カーライル.md" title="wikilink">バディ・カーライル</a></p></td>
 <td><p>1999</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -1803,7 +1803,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Carpenter" title="wikilink">Chris Carpenter</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・カーペンター" title="wikilink">クリス・カーペンター</a></p></td>
+<td><p><a href="../Page/クリス・カーペンター.md" title="wikilink">クリス・カーペンター</a></p></td>
 <td><p>1997</p></td>
 <td><p>2012</p></td>
 <td><p>投手、Christopher John Carpenter</p></td>
@@ -1872,10 +1872,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Carpenter_(baseball)" title="wikilink">Ryan Carpenter</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Carpenter_(baseball)" title="wikilink">Ryan Carpenter</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ライアン・カーペンター_(野球)" title="wikilink">ライアン・カーペンター</a></p></td>
 <td><p>2018</p></td>
-<td></td>
+<td><p>2019</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1908,7 +1908,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Giovanni_Carrara" title="wikilink">Giovanni Carrara</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョバンニ・カラーラ" title="wikilink">ジョバンニ・カラーラ</a></p></td>
+<td><p><a href="../Page/ジョバンニ・カラーラ.md" title="wikilink">ジョバンニ・カラーラ</a></p></td>
 <td><p>1995</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -1922,14 +1922,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:D._J._Carrasco" title="wikilink">D.J. Carrasco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/D.J.カラスコ" title="wikilink">D・J・カラスコ</a></p></td>
+<td><p><a href="../Page/D.J.カラスコ.md" title="wikilink">D・J・カラスコ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2012</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Héctor_Carrasco" title="wikilink">Hector Carrasco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘクター・カラスコ" title="wikilink">ヘクター・カラスコ</a></p></td>
+<td><p><a href="../Page/ヘクター・カラスコ.md" title="wikilink">ヘクター・カラスコ</a></p></td>
 <td><p>1994</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -2321,7 +2321,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chuck_Cary" title="wikilink">Chuck Cary</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャック・ケアリー" title="wikilink">チャック・ケアリー</a></p></td>
+<td><p><a href="../Page/チャック・ケアリー.md" title="wikilink">チャック・ケアリー</a></p></td>
 <td><p>1985</p></td>
 <td><p>1993</p></td>
 <td></td>
@@ -2433,7 +2433,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Sean_Casey_(baseball)" title="wikilink">Sean Casey</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーン・ケイシー" title="wikilink">ショーン・ケイシー</a></p></td>
+<td><p><a href="../Page/ショーン・ケイシー.md" title="wikilink">ショーン・ケイシー</a></p></td>
 <td><p>1997</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -2636,14 +2636,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Vinny_Castilla" title="wikilink">Vinny Castilla</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビニー・カスティーヤ" title="wikilink">ビニー・カスティーヤ</a></p></td>
+<td><p><a href="../Page/ビニー・カスティーヤ.md" title="wikilink">ビニー・カスティーヤ</a></p></td>
 <td><p>1991</p></td>
 <td><p>2006</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alberto_Castillo_(catcher)" title="wikilink">Alberto Castillo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・カスティーヨ_(捕手)" title="wikilink">アルベルト・カスティーヨ</a></p></td>
+<td><p><a href="../Page/アルベルト・カスティーヨ_(捕手).md" title="wikilink">アルベルト・カスティーヨ</a></p></td>
 <td><p>1995</p></td>
 <td><p>2007</p></td>
 <td><p>捕手、Alberto Terrero Castillo</p></td>
@@ -2804,7 +2804,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Wilkin_Castillo" title="wikilink">Wilkin Castillo</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィルキン・カスティーヨ" title="wikilink">ウィルキン・カスティーヨ</a></p></td>
+<td><p><a href="../Page/ウィルキン・カスティーヨ.md" title="wikilink">ウィルキン・カスティーヨ</a></p></td>
 <td><p>2008</p></td>
 <td></td>
 <td></td>
@@ -2923,7 +2923,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Castro" title="wikilink">Juan Castro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フアン・カストロ" title="wikilink">フアン・カストロ</a></p></td>
+<td><p><a href="../Page/フアン・カストロ.md" title="wikilink">フアン・カストロ</a></p></td>
 <td><p>1995</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -3261,7 +3261,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ronny_Cedeño" title="wikilink">Ronny Cedeno</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロニー・セデーニョ" title="wikilink">ロニー・セデーニョ</a></p></td>
+<td><p><a href="../Page/ロニー・セデーニョ.md" title="wikilink">ロニー・セデーニョ</a></p></td>
 <td><p>2005</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -3289,7 +3289,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Orlando_Cepeda" title="wikilink">Orlando Cepeda</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オーランド・セペダ" title="wikilink">オーランド・セペダ</a></p></td>
+<td><p><a href="../Page/オーランド・セペダ.md" title="wikilink">オーランド・セペダ</a></p></td>
 <td><p>1958</p></td>
 <td><p>1974</p></td>
 <td><p>殿堂入り</p></td>
@@ -3444,7 +3444,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Shawn_Chacón" title="wikilink">Shawn Chacon</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーン・チャコーン" title="wikilink">ショーン・チャコーン</a></p></td>
+<td><p><a href="../Page/ショーン・チャコーン.md" title="wikilink">ショーン・チャコーン</a></p></td>
 <td><p>2001</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -3535,7 +3535,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wes_Chamberlain" title="wikilink">Wes Chamberlain</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェス・チェンバレン" title="wikilink">ウェス・チェンバレン</a></p></td>
+<td><p><a href="../Page/ウェス・チェンバレン.md" title="wikilink">ウェス・チェンバレン</a></p></td>
 <td><p>1990</p></td>
 <td><p>1995</p></td>
 <td></td>
@@ -3801,7 +3801,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ray_Chapman" title="wikilink">Ray Chapman</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイ・チャップマン" title="wikilink">レイ・チャップマン</a></p></td>
+<td><p><a href="../Page/レイ・チャップマン.md" title="wikilink">レイ・チャップマン</a></p></td>
 <td><p>1912</p></td>
 <td><p>1920</p></td>
 <td></td>
@@ -3955,14 +3955,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Endy_Chávez" title="wikilink">Endy Chavez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エンディ・チャベス" title="wikilink">エンディ・チャベス</a></p></td>
+<td><p><a href="../Page/エンディ・チャベス.md" title="wikilink">エンディ・チャベス</a></p></td>
 <td><p>2001</p></td>
 <td><p>2014</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eric_Chavez" title="wikilink">Eric Chavez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・チャベス" title="wikilink">エリック・チャベス</a></p></td>
+<td><p><a href="../Page/エリック・チャベス.md" title="wikilink">エリック・チャベス</a></p></td>
 <td><p>1998</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -4018,7 +4018,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Robinson_Checo" title="wikilink">Robinson Checo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロビンソン・チェコ" title="wikilink">ロビンソン・チェコ</a></p></td>
+<td><p><a href="../Page/ロビンソン・チェコ.md" title="wikilink">ロビンソン・チェコ</a></p></td>
 <td><p>1997</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -4046,7 +4046,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bruce_Chen" title="wikilink">Bruce Chen</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルース・チェン" title="wikilink">ブルース・チェン</a></p></td>
+<td><p><a href="../Page/ブルース・チェン.md" title="wikilink">ブルース・チェン</a></p></td>
 <td><p>1998</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -4095,7 +4095,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jack_Chesbro" title="wikilink">Jack Chesbro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャック・チェスブロ" title="wikilink">ジャック・チェスブロ</a></p></td>
+<td><p><a href="../Page/ジャック・チェスブロ.md" title="wikilink">ジャック・チェスブロ</a></p></td>
 <td><p>1899</p></td>
 <td><p>1909</p></td>
 <td><p>殿堂入り</p></td>
@@ -4354,7 +4354,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hee-seop_Choi" title="wikilink">Hee-Seop Choi</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/崔煕渉" title="wikilink">崔煕渉</a></p></td>
+<td><p><a href="../Page/崔煕渉.md" title="wikilink">崔煕渉</a></p></td>
 <td><p>2002</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -4375,7 +4375,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Shin-Soo_Choo" title="wikilink">Shin-Soo Choo</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋信守" title="wikilink">秋信守</a></p></td>
+<td><p><a href="../Page/秋信守.md" title="wikilink">秋信守</a></p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
@@ -4641,7 +4641,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Archi_Cianfrocco" title="wikilink">Archi Cianfrocco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アーキー・シアンフロッコ" title="wikilink">アーチ・シアンフロッコ</a></p></td>
+<td><p><a href="../Page/アーキー・シアンフロッコ.md" title="wikilink">アーチ・シアンフロッコ</a></p></td>
 <td><p>1992</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -4767,7 +4767,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Cirillo" title="wikilink">Jeff Cirillo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・シリーロ" title="wikilink">ジェフ・シリーロ</a></p></td>
+<td><p><a href="../Page/ジェフ・シリーロ.md" title="wikilink">ジェフ・シリーロ</a></p></td>
 <td><p>1994</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -4823,7 +4823,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Aaron_Civale" title="wikilink">Aaron Civale</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アーロン・シバーレ" title="wikilink">アーロン・シバーレ</a></p></td>
+<td><p><a href="../Page/アーロン・シバーレ.md" title="wikilink">アーロン・シバーレ</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -4943,7 +4943,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Stubby_Clapp" title="wikilink">Stubby Clapp</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッビー・クラップ" title="wikilink">スタッビー・クラップ</a></p></td>
+<td><p><a href="../Page/スタッビー・クラップ.md" title="wikilink">スタッビー・クラップ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -5181,7 +5181,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Phil_Clark_(outfielder)" title="wikilink">Phil Clark</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィル・クラーク_(内野手)" title="wikilink">フィル・クラーク</a></p></td>
+<td><p><a href="../Page/フィル・クラーク_(内野手).md" title="wikilink">フィル・クラーク</a></p></td>
 <td><p>1992</p></td>
 <td><p>1996</p></td>
 <td><p>外野手、Phillip Benjamin Clark</p></td>
@@ -5223,7 +5223,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Clark" title="wikilink">Tony Clark</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・クラーク" title="wikilink">トニー・クラーク</a></p></td>
+<td><p><a href="../Page/トニー・クラーク.md" title="wikilink">トニー・クラーク</a></p></td>
 <td><p>1995</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -5517,7 +5517,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Royce_Clayton" title="wikilink">Royce Clayton</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロイス・クレイトン" title="wikilink">ロイス・クレイトン</a></p></td>
+<td><p><a href="../Page/ロイス・クレイトン.md" title="wikilink">ロイス・クレイトン</a></p></td>
 <td><p>1991</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -5580,7 +5580,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roger_Clemens" title="wikilink">Roger Clemens</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・クレメンス" title="wikilink">ロジャー・クレメンス</a></p></td>
+<td><p><a href="../Page/ロジャー・クレメンス.md" title="wikilink">ロジャー・クレメンス</a></p></td>
 <td><p>1984</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -5601,7 +5601,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Clement" title="wikilink">Jeff Clement</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・クレメント" title="wikilink">ジェフ・クレメント</a></p></td>
+<td><p><a href="../Page/ジェフ・クレメント.md" title="wikilink">ジェフ・クレメント</a></p></td>
 <td><p>2007</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -5629,14 +5629,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roberto_Clemente" title="wikilink">Roberto Clemente</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・クレメンテ" title="wikilink">ロベルト・クレメンテ</a></p></td>
+<td><p><a href="../Page/ロベルト・クレメンテ.md" title="wikilink">ロベルト・クレメンテ</a></p></td>
 <td><p>1955</p></td>
 <td><p>1972</p></td>
 <td><p>殿堂入り</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jack_Clements" title="wikilink">Jack Clements</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャック・クレメンツ" title="wikilink">ジャック・クレメンツ</a></p></td>
+<td><p><a href="../Page/ジャック・クレメンツ.md" title="wikilink">ジャック・クレメンツ</a></p></td>
 <td><p>1884</p></td>
 <td><p>1900</p></td>
 <td></td>
@@ -6036,7 +6036,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ty_Cobb" title="wikilink">Ty Cobb</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タイ・カッブ" title="wikilink">タイ・カッブ</a></p></td>
+<td><p><a href="../Page/タイ・カッブ.md" title="wikilink">タイ・カッブ</a></p></td>
 <td><p>1905</p></td>
 <td><p>1928</p></td>
 <td><p>殿堂入り</p></td>
@@ -6169,7 +6169,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ivanon_Coffie" title="wikilink">Ivanon Coffie</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イバノン・コフィー" title="wikilink">イバノン・コフィー</a></p></td>
+<td><p><a href="../Page/イバノン・コフィー.md" title="wikilink">イバノン・コフィー</a></p></td>
 <td><p>2000</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -6626,7 +6626,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Darnell_Coles" title="wikilink">Darnell Coles</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダネル・コールズ" title="wikilink">ダーネル・コールズ</a></p></td>
+<td><p><a href="../Page/ダネル・コールズ.md" title="wikilink">ダーネル・コールズ</a></p></td>
 <td><p>1983</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -6668,7 +6668,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Collazo" title="wikilink">Willie Collazo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・コラーゾ" title="wikilink">ウィリー・コラーゾ</a></p></td>
+<td><p><a href="../Page/ウィリー・コラーゾ.md" title="wikilink">ウィリー・コラーゾ</a></p></td>
 <td><p>2007</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -6913,14 +6913,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jesús_Colomé" title="wikilink">Jesus Colome</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘスス・コロメ" title="wikilink">ヘスース・コローメ</a></p></td>
+<td><p><a href="../Page/ヘスス・コロメ.md" title="wikilink">ヘスース・コローメ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2010</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bartolo_Colón" title="wikilink">Bartolo Colon</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バートロ・コローン" title="wikilink">バートロ・コローン</a></p></td>
+<td><p><a href="../Page/バートロ・コローン.md" title="wikilink">バートロ・コローン</a></p></td>
 <td><p>1997</p></td>
 <td><p>2018</p></td>
 <td></td>
@@ -7053,7 +7053,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Charles_Comiskey" title="wikilink">Charlie Comiskey</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャールズ・コミスキー" title="wikilink">チャーリー・コミスキー</a></p></td>
+<td><p><a href="../Page/チャールズ・コミスキー.md" title="wikilink">チャーリー・コミスキー</a></p></td>
 <td><p>1882</p></td>
 <td><p>1894</p></td>
 <td><p>殿堂入り</p></td>
@@ -7221,14 +7221,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Conigliaro" title="wikilink">Tony Conigliaro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・コニグリアロ" title="wikilink">トニー・コニグリアロ</a></p></td>
+<td><p><a href="../Page/トニー・コニグリアロ.md" title="wikilink">トニー・コニグリアロ</a></p></td>
 <td><p>1964</p></td>
 <td><p>1975</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Conine" title="wikilink">Jeff Conine</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・コーナイン" title="wikilink">ジェフ・コーナイン</a></p></td>
+<td><p><a href="../Page/ジェフ・コーナイン.md" title="wikilink">ジェフ・コーナイン</a></p></td>
 <td><p>1990</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -7592,7 +7592,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Contreras" title="wikilink">Jose Contreras</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・コントレラス" title="wikilink">ホセ・コントレラス</a></p></td>
+<td><p><a href="../Page/ホセ・コントレラス.md" title="wikilink">ホセ・コントレラス</a></p></td>
 <td><p>2003</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -7851,7 +7851,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Scott_Coolbaugh" title="wikilink">Scott Coolbaugh</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・クールボー" title="wikilink">スコット・クールボー</a></p></td>
+<td><p><a href="../Page/スコット・クールボー.md" title="wikilink">スコット・クールボー</a></p></td>
 <td><p>1989</p></td>
 <td><p>1994</p></td>
 <td></td>
@@ -7977,7 +7977,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cecil_Cooper" title="wikilink">Cecil Cooper</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セシル・クーパー" title="wikilink">セシル・クーパー</a></p></td>
+<td><p><a href="../Page/セシル・クーパー.md" title="wikilink">セシル・クーパー</a></p></td>
 <td><p>1971</p></td>
 <td><p>1987</p></td>
 <td></td>
@@ -8047,7 +8047,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Scott_Cooper_(baseball)" title="wikilink">Scott Cooper</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・クーパー" title="wikilink">スコット・クーパー</a></p></td>
+<td><p><a href="../Page/スコット・クーパー.md" title="wikilink">スコット・クーパー</a></p></td>
 <td><p>1990</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -8222,7 +8222,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Larry_Corcoran" title="wikilink">Larry Corcoran</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・コーコラン" title="wikilink">ラリー・コーコラン</a></p></td>
+<td><p><a href="../Page/ラリー・コーコラン.md" title="wikilink">ラリー・コーコラン</a></p></td>
 <td><p>1880</p></td>
 <td><p>1887</p></td>
 <td></td>
@@ -8278,7 +8278,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chad_Cordero" title="wikilink">Chad Cordero</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャド・コルデロ" title="wikilink">チャド・コーデロ</a></p></td>
+<td><p><a href="../Page/チャド・コルデロ.md" title="wikilink">チャド・コーデロ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -8334,7 +8334,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Marty_Cordova" title="wikilink">Marty Cordova</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーティ・コードバ" title="wikilink">マーティ・コードバ</a></p></td>
+<td><p><a href="../Page/マーティ・コードバ.md" title="wikilink">マーティ・コードバ</a></p></td>
 <td><p>1995</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -8362,7 +8362,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Corey_(outfielder)" title="wikilink">Mark Corey</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・コーリー" title="wikilink">マーク・コーリー</a></p></td>
+<td><p><a href="../Page/マーク・コーリー.md" title="wikilink">マーク・コーリー</a></p></td>
 <td><p>1979</p></td>
 <td><p>1981</p></td>
 <td><p>外野手、Mark Mundell Corey</p></td>
@@ -8474,7 +8474,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Manny_Corpas" title="wikilink">Manny Corpas</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マニー・コーパス" title="wikilink">マニー・コーパス</a></p></td>
+<td><p><a href="../Page/マニー・コーパス.md" title="wikilink">マニー・コーパス</a></p></td>
 <td><p>2006</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -8579,7 +8579,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Cortés" title="wikilink">David Cortes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・コルテス" title="wikilink">デビッド・コルテス</a></p></td>
+<td><p><a href="../Page/デビッド・コルテス.md" title="wikilink">デビッド・コルテス</a></p></td>
 <td><p>1999</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -8635,7 +8635,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ray_Cosey" title="wikilink">Ray Cosey</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイ・コージ" title="wikilink">レイ・コージ</a>ー</p></td>
+<td><p><a href="../Page/レイ・コージ.md" title="wikilink">レイ・コージ</a>ー</p></td>
 <td><p>1980</p></td>
 <td><p>1980</p></td>
 <td></td>
@@ -9125,7 +9125,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Cox_(baseball)" title="wikilink">George Cox</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・コックス" title="wikilink">ジョージ・コックス</a></p></td>
+<td><p><a href="../Page/ジョージ・コックス.md" title="wikilink">ジョージ・コックス</a></p></td>
 <td><p>1928</p></td>
 <td><p>1928</p></td>
 <td></td>
@@ -9174,7 +9174,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Cox_(baseball)" title="wikilink">Steve Cox</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・コックス" title="wikilink">スティーブ・コックス</a></p></td>
+<td><p><a href="../Page/スティーブ・コックス.md" title="wikilink">スティーブ・コックス</a></p></td>
 <td><p>1999</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -9371,7 +9371,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jesse_Crain" title="wikilink">Jesse Crain</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェシー・クレイン" title="wikilink">ジェシー・クレイン</a></p></td>
+<td><p><a href="../Page/ジェシー・クレイン.md" title="wikilink">ジェシー・クレイン</a></p></td>
 <td><p>2004</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -9483,7 +9483,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Carl_Crawford" title="wikilink">Carl Crawford</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・クロフォード" title="wikilink">カール・クロフォード</a></p></td>
+<td><p><a href="../Page/カール・クロフォード.md" title="wikilink">カール・クロフォード</a></p></td>
 <td><p>2002</p></td>
 <td></td>
 <td></td>
@@ -9539,7 +9539,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Crawford_(baseball)" title="wikilink">Joe Crawford</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・クロフォード" title="wikilink">ジョー・クロフォード</a></p></td>
+<td><p><a href="../Page/ジョー・クロフォード.md" title="wikilink">ジョー・クロフォード</a></p></td>
 <td><p>1997</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -9651,7 +9651,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Doug_Creek" title="wikilink">Doug Creek</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダグ・クリーク" title="wikilink">ダグ・クリーク</a></p></td>
+<td><p><a href="../Page/ダグ・クリーク.md" title="wikilink">ダグ・クリーク</a></p></td>
 <td><p>1995</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -9714,7 +9714,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Felipe_Crespo" title="wikilink">Felipe Crespo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェリペ・クレスポ" title="wikilink">フェリペ・クレスポ</a></p></td>
+<td><p><a href="../Page/フェリペ・クレスポ.md" title="wikilink">フェリペ・クレスポ</a></p></td>
 <td><p>1996</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -9924,7 +9924,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Warren_Cromartie" title="wikilink">Warren Cromartie</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォーレン・クロマティ" title="wikilink">ウォーレン・クロマティ</a></p></td>
+<td><p><a href="../Page/ウォーレン・クロマティ.md" title="wikilink">ウォーレン・クロマティ</a></p></td>
 <td><p>1974</p></td>
 <td><p>1991</p></td>
 <td></td>
@@ -10036,7 +10036,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bobby_Crosby" title="wikilink">Bobby Crosby</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・クロスビー" title="wikilink">ボビー・クロスビー</a></p></td>
+<td><p><a href="../Page/ボビー・クロスビー.md" title="wikilink">ボビー・クロスビー</a></p></td>
 <td><p>2003</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -10078,7 +10078,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Frankie_Crosetti" title="wikilink">Frankie Crosetti</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランキー・クロセッティ" title="wikilink">フランキー・クロセッティ</a></p></td>
+<td><p><a href="../Page/フランキー・クロセッティ.md" title="wikilink">フランキー・クロセッティ</a></p></td>
 <td><p>1932</p></td>
 <td><p>1948</p></td>
 <td></td>
@@ -10428,7 +10428,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Iván_Cruz" title="wikilink">Ivan Cruz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イバン・クルーズ" title="wikilink">イバン・クルーズ</a></p></td>
+<td><p><a href="../Page/イバン・クルーズ.md" title="wikilink">イバン・クルーズ</a></p></td>
 <td><p>1997</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -10470,14 +10470,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luis_Cruz" title="wikilink">Luis Cruz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・クルーズ" title="wikilink">ルイス・クルーズ</a></p></td>
+<td><p><a href="../Page/ルイス・クルーズ.md" title="wikilink">ルイス・クルーズ</a></p></td>
 <td><p>2008</p></td>
 <td><p>2013</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Nelson_Cruz_(pitcher)" title="wikilink">Nelson Cruz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネルソン・クルーズ_(投手)" title="wikilink">ネルソン・クルーズ</a></p></td>
+<td><p><a href="../Page/ネルソン・クルーズ_(投手).md" title="wikilink">ネルソン・クルーズ</a></p></td>
 <td><p>1997</p></td>
 <td><p>2003</p></td>
 <td><p>投手、Nelson Cruz</p></td>
@@ -10505,7 +10505,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tommy_Cruz" title="wikilink">Tommy Cruz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トミー・クルーズ" title="wikilink">トミー・クルーズ</a></p></td>
+<td><p><a href="../Page/トミー・クルーズ.md" title="wikilink">トミー・クルーズ</a></p></td>
 <td><p>1973</p></td>
 <td><p>1977</p></td>
 <td></td>
@@ -10555,7 +10555,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Darwin_Cubillán" title="wikilink">Darwin Cubillan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダーウィン・クビアン" title="wikilink">ダーウィン・クビアン</a></p></td>
+<td><p><a href="../Page/ダーウィン・クビアン.md" title="wikilink">ダーウィン・クビアン</a></p></td>
 <td><p>2000</p></td>
 <td><p>2004</p></td>
 <td></td>
@@ -11122,7 +11122,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jack_Cust" title="wikilink">Jack Cust</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャック・カスト" title="wikilink">ジャック・カスト</a></p></td>
+<td><p><a href="../Page/ジャック・カスト.md" title="wikilink">ジャック・カスト</a></p></td>
 <td><p>2001</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -11200,7 +11200,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Éric_Cyr" title="wikilink">Eric Cyr</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・カー_(野球)" title="wikilink">エリック・サイア</a></p></td>
+<td><p><a href="../Page/エリック・カー_(野球).md" title="wikilink">エリック・サイア</a></p></td>
 <td><p>2002</p></td>
 <td><p>2002</p></td>
 <td></td>

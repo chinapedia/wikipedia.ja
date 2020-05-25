@@ -1,22 +1,22 @@
 > この記事は[KAMIJO](https://ja.wikipedia.org/wiki/KAMIJO)から翻訳されています。
 
 
-**KAMIJO**（かみじょう、[7月19日](../Page/7月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[歌手](../Page/歌手.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")であり、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド・[LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")及び[Versaillesのヴォーカリスト](../Page/Versailles_\(バンド\).md "wikilink")。血液型はO型。
+**KAMIJO**（かみじょう、[7月19日](../Page/7月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[歌手](../Page/歌手.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")であり、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド・[LAREINE](../Page/LAREINE.md "wikilink")及び[Versaillesのヴォーカリスト](../Page/Versailles_\(バンド\).md "wikilink")。血液型はO型。
 
 ## 経歴
 
-  - [1994年](../Page/1994年.md "wikilink")[11月](../Page/11月.md "wikilink") [MALICE MIZERのローディーをやっていた際に同じく](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")[MALICE MIZERのローディーをやっていた](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")[MAYUと出会い](https://ja.wikipedia.org/wiki/LAREINE#メンバー "wikilink")[LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")（当時LALIENE）を結成
+  - [1994年](../Page/1994年.md "wikilink")[11月](../Page/11月.md "wikilink") [MALICE MIZERのローディーをやっていた際に同じく](../Page/MALICE_MIZER.md "wikilink")[MALICE MIZERのローディーをやっていた](../Page/MALICE_MIZER.md "wikilink")[MAYUと出会い](https://ja.wikipedia.org/wiki/LAREINE#メンバー "wikilink")[LAREINE](../Page/LAREINE.md "wikilink")（当時LALIENE）を結成
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月1日](../Page/8月1日.md "wikilink") 全国ワンマンツアー「TOUR "Fleur" 1998 ～白鳥と追想～」を札幌より開始
   - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") 日本青年館にてツアーファイナル「TOUR "Fleur" 1998 ～湖底に眠る永遠の花園～」
   - [1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") 「ツアー"Métamorphose"」のファイナルとして渋谷公会堂でワンマンライブを開催
-  - [5月26日](../Page/5月26日.md "wikilink") [LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")としてメジャー1stシングル『Fiançailles』で[SME Recordsよりメジャーデビュー](https://ja.wikipedia.org/wiki/SME_Records "wikilink")
+  - [5月26日](../Page/5月26日.md "wikilink") [LAREINE](../Page/LAREINE.md "wikilink")としてメジャー1stシングル『Fiançailles』で[SME Recordsよりメジャーデビュー](https://ja.wikipedia.org/wiki/SME_Records "wikilink")
   - [8月22日](../Page/8月22日.md "wikilink") 中野サンプラザで2DAYSライブ
   - [2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") メジャー4thシングルにてアニメ「[ベルサイユのばら](../Page/ベルサイユのばら.md "wikilink")」の主題歌「薔薇は美しく散る」をカヴァー。CDジャケットになっているメンバーのイラストは原作者の[池田理代子](../Page/池田理代子.md "wikilink")が担当した。
-  - [8月](../Page/8月.md "wikilink") **KAMIJO**以外のメンバーが[LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")を脱退。その後は一人で[LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")としての活動を続け、自身の音楽レーベル[APPLAUSE RECORDSを設立](https://ja.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")。
-  - [2001年](../Page/2001年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") [LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")の活動を一時休止し、新バンド[NEW SODMYを結成](https://ja.wikipedia.org/wiki/NEW_SODMY "wikilink")。
-  - [2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink") [LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")としての活動を再開
-  - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") [渋谷AX](https://ja.wikipedia.org/wiki/渋谷AX "wikilink")にて[LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")復活ワンマンライブを行う
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") [LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")の無期活動休止を発表。
+  - [8月](../Page/8月.md "wikilink") **KAMIJO**以外のメンバーが[LAREINE](../Page/LAREINE.md "wikilink")を脱退。その後は一人で[LAREINE](../Page/LAREINE.md "wikilink")としての活動を続け、自身の音楽レーベル[APPLAUSE RECORDSを設立](https://ja.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")。
+  - [2001年](../Page/2001年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink") [LAREINE](../Page/LAREINE.md "wikilink")の活動を一時休止し、新バンド[NEW SODMYを結成](https://ja.wikipedia.org/wiki/NEW_SODMY "wikilink")。
+  - [2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink") [LAREINE](../Page/LAREINE.md "wikilink")としての活動を再開
+  - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") [渋谷AX](https://ja.wikipedia.org/wiki/渋谷AX "wikilink")にて[LAREINE](../Page/LAREINE.md "wikilink")復活ワンマンライブを行う
+  - [2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") [LAREINE](../Page/LAREINE.md "wikilink")の無期活動休止を発表。
   - 自身の新レーベル[Sherow Artist Societyを設立](https://ja.wikipedia.org/wiki/Sherow_Artist_Society "wikilink")。
   - [2007年](../Page/2007年.md "wikilink") 新バンド[Versaillesを結成](../Page/Versailles_\(バンド\).md "wikilink")
   - [8月30日](../Page/8月30日.md "wikilink") Shibuya O-EastにおいてVersailles主催イベント「The Red Carpet Day」を開催し、Versaillesがヨーロッパのレーベルとの公開契約した。
@@ -58,12 +58,12 @@
 
   - 挨拶は「ボンジュール！」
   - 中世貴族のような出で立ちで貴族的な言葉遣いかと思いきや、実は言葉遣いが丁寧な天然キャラ。
-  - [LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")結成当初はバンドリーダーではなかったが、リーダーを務めていたメンバーが脱退後からはリーダーを務める。
+  - [LAREINE](../Page/LAREINE.md "wikilink")結成当初はバンドリーダーではなかったが、リーダーを務めていたメンバーが脱退後からはリーダーを務める。
   - LAREINE時代とVersailles初期は[ベルサイユのばら](../Page/ベルサイユのばら.md "wikilink")のオスカルを彷彿とさせる特徴的な出で立ちをしていた。
-  - [LAREINE](https://ja.wikipedia.org/wiki/LAREINE "wikilink")結成当初のステージネームは「SHOKI」であった。
+  - [LAREINE](../Page/LAREINE.md "wikilink")結成当初のステージネームは「SHOKI」であった。
   - バンド活動をする傍ら[APPLAUSE RECORDS](https://ja.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")、[Sherow Artist Societyといったレーベルの代表取締役も務める](https://ja.wikipedia.org/wiki/Sherow_Artist_Society "wikilink")。また、[摩天楼オペラ](https://ja.wikipedia.org/wiki/摩天楼オペラ "wikilink")などのバンドのプロデューサーとしても活動していた。
   - CDやDVD、ポスターなどの様々なデザインもこなす。またレコーディングや映像編集などにも精通している。
-  - 好きなアーティストとして[ポール・モーリア](https://ja.wikipedia.org/wiki/ポール・モーリア "wikilink")を挙げている。ライブの会場音楽として[ポール・モーリア](https://ja.wikipedia.org/wiki/ポール・モーリア "wikilink")をかけている事が多い。
+  - 好きなアーティストとして[ポール・モーリア](../Page/ポール・モーリア.md "wikilink")を挙げている。ライブの会場音楽として[ポール・モーリア](../Page/ポール・モーリア.md "wikilink")をかけている事が多い。
   - 学生時代、テニス部に入っていた。セブンイレブンでアルバイトをしたことがある。
   - Macオタクを自称しており、THE ALFEEの[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")が司会進行を務める番組に出演した際、高見沢俊彦が所有する金箔のMacを欲しがっていた。
 
@@ -75,12 +75,14 @@
 2.  **Moulin Rouge**（2014年6月18日）- 2ヶ月連続シングルリリース第一弾
 3.  **闇夜のライオン**（2014年7月16日）- 2ヶ月連続シングルリリース第二弾
 4.  **カストラート**（2017年5月10日）
-5.  **mademoisell**e（2017年9月27日）
+5.  **mademoiselle**（2017年9月27日）
 6.  **Nosferatu**（2018年1月16日）
 7.  **Sang-AnotherStory-**（2018年3月21日）※KAMIJO&初音ミクによる期間限定デュオ
 8.  **Sang〜君に贈る名前〜**（2018年7月18日）
 9.  **Eye of Providence**（2019年7月24日）
-10. **TEMPLE -Blood sucking for praying-**（2019年11月27日発売予定）- 「PERSONA」三部作・第一弾
+10. **TEMPLE -Blood sucking for praying-**（2019年11月27日）- 「PERSONA」三部作・第一弾
+11. **Symbol of the Dragon**（2020年2月26日）- 「PERSONA」三部作・第ニ弾
+12. **Persona Grata**（2020年4月29日）- 「PERSONA」三部作・第三弾
 
 ### ミニアルバム
 
@@ -90,9 +92,10 @@
 ### アルバム
 
 1.  **Heart**（2014年9月24日）
-2.  *' Royal Blood〜Revival　Best〜*'（2015年7月15日）
+2.  *' Royal Blood〜Revival Best〜*'（2015年7月15日）
 3.  *' All Time Best〜革命の系譜〜*'（2015年6月10日）
-4.  *' Sang*'（2018年3月２１日）
+4.  *' Sang*'（2018年3月21日）
+5.  **Persona**（2020年7月15日）
 
 ## 脚注
 
@@ -103,7 +106,7 @@
   - [APPLAUSE RECORDS](https://ja.wikipedia.org/wiki/APPLAUSE_RECORDS "wikilink")
   - [Sherow Artist Society](https://ja.wikipedia.org/wiki/Sherow_Artist_Society "wikilink")
   - [SME Records](https://ja.wikipedia.org/wiki/SME_Records "wikilink")
-  - [MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")
+  - [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")
   - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")
   - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
 

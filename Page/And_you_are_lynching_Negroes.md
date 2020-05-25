@@ -26,5 +26,5 @@
 [Category:冷戦](https://ja.wikipedia.org/wiki/Category:冷戦 "wikilink") [Category:公民権運動](https://ja.wikipedia.org/wiki/Category:公民権運動 "wikilink") [Category:白人優越主義](https://ja.wikipedia.org/wiki/Category:白人優越主義 "wikilink") [Category:英語の成句](https://ja.wikipedia.org/wiki/Category:英語の成句 "wikilink") [Category:ジョーク](https://ja.wikipedia.org/wiki/Category:ジョーク "wikilink") [Category:ソビエト連邦のプロパガンダ](https://ja.wikipedia.org/wiki/Category:ソビエト連邦のプロパガンダ "wikilink")
 
 1.  [Interview with a Soviet emigrant](http://parentseyes.arizona.edu/bloom/oralhistories/mila2.html)
-2.  Richard Lacayo, ["Blood At The Root"](http://www.time.com/time/magazine/article/0,9171,42301,00.html), *[TIME](https://ja.wikipedia.org/wiki/タイム_\(雑誌\) "wikilink")*, 2000年4月2日
+2.  Richard Lacayo, ["Blood At The Root"](http://www.time.com/time/magazine/article/0,9171,42301,00.html), *[TIME](../Page/タイム_\(雑誌\).md "wikilink")*, 2000年4月2日
 3.   ["Your Letters"](http://www.svoboda.org/programs/RYTT/2001/RYTT.080301.asp), at *[Radio Liberty](https://ja.wikipedia.org/wiki/:en:Radio_Free_Europe "wikilink")*

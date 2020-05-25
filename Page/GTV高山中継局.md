@@ -1,4 +1,4 @@
-> この記事は[GTV](https://ja.wikipedia.org/wiki/GTV)から翻訳されています。
+> この記事は[GTV高山中継局](https://ja.wikipedia.org/wiki/GTV高山中継局)から翻訳されています。
 
 
 **GTV高山中継局**（ジーティーブイたかやまちゅうけいきょく）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[吾妻郡](../Page/吾妻郡.md "wikilink")[高山村に置かれていた](../Page/高山村_\(群馬県\).md "wikilink")[群馬テレビ](../Page/群馬テレビ.md "wikilink")の[中継局](../Page/中継局.md "wikilink")である。
@@ -13,8 +13,8 @@
 <tbody>
 <tr class="odd">
 <td><p>放送局名</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></td>
+<td><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル</a></p></td>
+<td><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></td>
@@ -43,6 +43,6 @@
 
 ## 外部リンク
 
-  - [総務省からの重要なお知らせ　中継局のTVチャンネルが変わります〜地上デジタル放送の開始に向けたアナログ周波数変更対策〜](http://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kanto-bt.go.jp/if/press/p15/p1509/p150930a.html) - 総務省関東総合通信局平成15年度報道資料(平成15年9月30日プレスリリース)
+  - [総務省からの重要なお知らせ　中継局のTVチャンネルが変わります〜地上デジタル放送の開始に向けたアナログ周波数変更対策〜](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.kanto-bt.go.jp/if/press/p15/p1509/p150930a.html) - 総務省関東総合通信局平成15年度報道資料(平成15年9月30日プレスリリース)
 
 [Category:高山村_(群馬県)](https://ja.wikipedia.org/wiki/Category:高山村_\(群馬県\) "wikilink") [Category:群馬県の放送送信所](https://ja.wikipedia.org/wiki/Category:群馬県の放送送信所 "wikilink") [Category:群馬テレビ](https://ja.wikipedia.org/wiki/Category:群馬テレビ "wikilink")

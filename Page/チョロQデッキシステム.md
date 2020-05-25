@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[チョロQデッキシステム](https://ja.wikipedia.org/wiki/チョロQデッキシステム)から翻訳されています。
 
 
 **チョロQデッキシステム**（チョロキューデッキシステム）は[タカラトミー](../Page/タカラトミー.md "wikilink")より[2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")から発売されている[チョロQ](../Page/チョロQ.md "wikilink")シリーズの1つである。略称は『チョロデキ』、『チョロQDS』、『デッキシステム』

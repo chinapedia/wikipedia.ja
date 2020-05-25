@@ -1,4 +1,4 @@
-> この記事は[ U](https://ja.wikipedia.org/wiki/_U)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 U](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_U)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**U**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dan_Uggla" title="wikilink">Dan Uggla</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダン・アグラ" title="wikilink">ダン・アグラ</a></p></td>
+<td><p><a href="../Page/ダン・アグラ.md" title="wikilink">ダン・アグラ</a></p></td>
 <td><p>2006</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -376,7 +376,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Upshaw" title="wikilink">Willie Upshaw</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・アップショー" title="wikilink">ウィリー・アップショー</a></p></td>
+<td><p><a href="../Page/ウィリー・アップショー.md" title="wikilink">ウィリー・アップショー</a></p></td>
 <td><p>1978</p></td>
 <td><p>1988</p></td>
 <td></td>
@@ -572,7 +572,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chase_Utley" title="wikilink">Chase Utley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チェイス・アトリー" title="wikilink">チェイス・アトリー</a></p></td>
+<td><p><a href="../Page/チェイス・アトリー.md" title="wikilink">チェイス・アトリー</a></p></td>
 <td><p>2003</p></td>
 <td><p>2018</p></td>
 <td></td>

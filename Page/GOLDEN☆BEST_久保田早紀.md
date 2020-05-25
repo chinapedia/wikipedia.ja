@@ -1,20 +1,20 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 久保田早紀](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_久保田早紀)から翻訳されています。
 
 
-『**GOLDEN☆BEST 久保田早紀**』（ゴールデンベスト くぼたさき）は、[久保田早紀の](https://ja.wikipedia.org/wiki/久米小百合 "wikilink")[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。2002年11月20日発売。発売元はSony Music House（現：[ソニー・ミュージックダイレクト](https://ja.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")）。
+『**GOLDEN☆BEST 久保田早紀**』（ゴールデンベスト くぼたさき）は、[久保田早紀の](../Page/久米小百合.md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2002年11月20日発売。発売元はSony Music House（現：[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")）。
 
 ## 解説
 
-各[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から発売されている“[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")”シリーズの中の1枚。
+各[レコード会社](../Page/レコード会社.md "wikilink")から発売されている“[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")”シリーズの中の1枚。
 
-多くの歌手にカバーされている「[異邦人 －シルクロードのテーマ－](https://ja.wikipedia.org/wiki/異邦人_－シルクロードのテーマ－ "wikilink")」のオリジナル・ヴァージョン、[ポルトガル](../Page/ポルトガル.md "wikilink")録音ヴァージョンとそれぞれのカラオケが[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")で収録された。また、ディスク2のM-4・5・8は本アルバムで初[CD化された](../Page/CD-DA.md "wikilink")。
+多くの歌手にカバーされている「[異邦人 －シルクロードのテーマ－](https://ja.wikipedia.org/wiki/異邦人_－シルクロードのテーマ－ "wikilink")」のオリジナル・ヴァージョン、[ポルトガル](../Page/ポルトガル.md "wikilink")録音ヴァージョンとそれぞれのカラオケが[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")で収録された。また、ディスク2のM-4・5・8は本アルバムで初[CD化された](../Page/CD-DA.md "wikilink")。
 
 ## 収録曲
 
 ### Disc 1
 
 1.  **[異邦人 －シルクロードのテーマ－](https://ja.wikipedia.org/wiki/異邦人_－シルクロードのテーマ－ "wikilink")**（3:42）
-      - 作詞・作曲: 久保田早紀、編曲: [萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")
+      - 作詞・作曲: 久保田早紀、編曲: [萩田光雄](../Page/萩田光雄.md "wikilink")
 2.  **夢飛行**（4:11）
       - 作詞: 久保田早紀・[山川啓介](../Page/山川啓介.md "wikilink")、作曲: 久保田早紀、編曲: 萩田光雄
 3.  **帰郷**（4:05）
@@ -44,7 +44,7 @@
 15. **長い夜**（4:14）
       - 作詞: 川田多摩喜、作曲: 久保田早紀、編曲: 萩田光雄
 16. **上海ノスタルジー**（3:58）
-      - 作詞: 川田多摩喜、作曲: 久保田早紀、編曲: [佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞: 川田多摩喜、作曲: 久保田早紀、編曲: [佐藤準](../Page/佐藤準.md "wikilink")
 
 ### Disc 2
 
@@ -55,13 +55,13 @@
 3.  **レンズ・アイ**（3:17）
       - 作詞: 久保田早紀・山川啓介、作曲: 久保田早紀、編曲: 萩田光雄
 4.  **らせん階段**（4:35）
-      - 作詞・作曲: 久保田早紀、編曲: [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+      - 作詞・作曲: 久保田早紀、編曲: [井上鑑](../Page/井上鑑.md "wikilink")
 5.  **木々が大きかった頃に**（5:07）
-      - 作詞: [三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲: 久保田早紀、編曲: 井上鑑
+      - 作詞: [三浦徳子](../Page/三浦徳子.md "wikilink")、作曲: 久保田早紀、編曲: 井上鑑
 6.  **ねがい**（3:21）
       - 作詞: 山川啓介、作曲: 久保田早紀、編曲: 萩田光雄(?)
 7.  **ネフェルティティ**（3:57）
-      - 作詞・作曲: 久保田早紀、編曲: [若草恵](https://ja.wikipedia.org/wiki/若草恵 "wikilink")
+      - 作詞・作曲: 久保田早紀、編曲: [若草恵](../Page/若草恵.md "wikilink")
 8.  **ソフィア発**（4:21）
       - 作詞・作曲: 久保田早紀、編曲: 若草恵
 9.  **愛の時代**（4:10）
@@ -71,7 +71,7 @@
 11. **ルシアン**（4:09）
       - 作詞・作曲: 久保田早紀、編曲: 船山基紀
 12. **お友達**（3:47）
-      - 作詞: 三浦徳子、作曲: 久保田早紀、編曲: [久米大作](https://ja.wikipedia.org/wiki/久米大作 "wikilink")
+      - 作詞: 三浦徳子、作曲: 久保田早紀、編曲: [久米大作](../Page/久米大作.md "wikilink")
 13. **エルドラド**（3:47）
       - 作詞: 三浦徳子、作曲: 久保田早紀、編曲: 久米大作
 14. **ピアニッシモで**（4:31）

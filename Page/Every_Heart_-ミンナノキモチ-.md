@@ -1,4 +1,4 @@
-> この記事は[Every Heart --](https://ja.wikipedia.org/wiki/Every_Heart_--)から翻訳されています。
+> この記事は[Every Heart -ミンナノキモチ-](https://ja.wikipedia.org/wiki/Every_Heart_-ミンナノキモチ-)から翻訳されています。
 
 
 「**Every Heart -ミンナノキモチ-**」（エヴリ・ハート みんなのきもち）は、[BoA](../Page/BoA.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での5枚目のシングル。

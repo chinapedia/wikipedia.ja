@@ -1,7 +1,7 @@
 > この記事は[JAPAN DANCE DELIGHT](https://ja.wikipedia.org/wiki/JAPAN_DANCE_DELIGHT)から翻訳されています。
 
 
-**JAPAN DANCE DELIGHT**（ジャパン ダンス ディライト）は、[1994年](../Page/1994年.md "wikilink")に始まり毎年開催されている日本最大の[ストリートダンス](https://ja.wikipedia.org/wiki/ストリートダンス "wikilink")のコンテスト大会である。
+**JAPAN DANCE DELIGHT**（ジャパン ダンス ディライト）は、[1994年](../Page/1994年.md "wikilink")に始まり毎年開催されている日本最大の[ストリートダンス](../Page/ストリートダンス.md "wikilink")のコンテスト大会である。
 
 ## 概要
 
@@ -40,30 +40,30 @@
 
 ## 過去の開催日と場所
 
-| vol. | 開催日         | 場所                                                                         |
-| ---- | ----------- | -------------------------------------------------------------------------- |
-| 1    | 1994年7月23日  | [IMP HALL](https://ja.wikipedia.org/wiki/松下IMPビル "wikilink") (大阪)          |
-| 2    | 1995年9月10日  | [BAYSIDE Jenny](https://ja.wikipedia.org/wiki/天保山ハーバービレッジ "wikilink") (大阪) |
-| 3    | 1996年8月25日  | BAYSIDE Jenny                                                              |
-| 4    | 1997年9月10日  | [CLUB CITTA'](https://ja.wikipedia.org/wiki/CLUB_CITTA' "wikilink") (川崎市)  |
-| 5    | 1998年8月30日  | BAYSIDE Jenny                                                              |
-| 6    | 1999年8月29日  | BAYSIDE Jenny                                                              |
-| 7    | 2000年8月27日  | BAYSIDE Jenny                                                              |
-| 8    | |2001年8月 5日 | [赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink") (東京)           |
-| 9    | 2002年8月 4日  | [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink") (東京)     |
-| 10   | 2003年8月24日  | [Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp "wikilink") (大阪)           |
-| 11   | 2004年8月22日  | Zepp Osaka                                                                 |
-| 12   | 2005年8月21日  | Zepp Osaka                                                                 |
-| 13   | 2006年8月26日  | [パシフィコ横浜](https://ja.wikipedia.org/wiki/横浜国際平和会議場 "wikilink") 国立大ホール       |
-| 14   | 2007年9月 1日  | パシフィコ横浜 国立大ホール                                                             |
-| 15   | 2008年8月30日  | [大阪市中央体育館](https://ja.wikipedia.org/wiki/大阪市中央体育館 "wikilink")メインアリーナ       |
-| 16   | 2009年8月22日  | 大阪市中央体育館メインアリーナ                                                            |
-| 17   | 2010年8月21日  | 大阪市中央体育館メインアリーナ                                                            |
-| 18   | 2011年8月28日  | パシフィコ横浜 国立大ホール                                                             |
-| 19   | 2012年8月26日  | パシフィコ横浜 国立大ホール                                                             |
-| 20   | 2013年9月 1日  | 大阪市中央体育館メインアリーナ                                                            |
-| 21   | 2014年8月31日  | 大阪市中央体育館メインアリーナ                                                            |
-| 24   | 2017年8月26日  | パシフィコ横浜 国立大ホール                                                             |
+| vol. | 開催日         | 場所                                                      |
+| ---- | ----------- | ------------------------------------------------------- |
+| 1    | 1994年7月23日  | [IMP HALL](../Page/松下IMPビル.md "wikilink") (大阪)          |
+| 2    | 1995年9月10日  | [BAYSIDE Jenny](../Page/天保山ハーバービレッジ.md "wikilink") (大阪) |
+| 3    | 1996年8月25日  | BAYSIDE Jenny                                           |
+| 4    | 1997年9月10日  | [CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink") (川崎市)  |
+| 5    | 1998年8月30日  | BAYSIDE Jenny                                           |
+| 6    | 1999年8月29日  | BAYSIDE Jenny                                           |
+| 7    | 2000年8月27日  | BAYSIDE Jenny                                           |
+| 8    | |2001年8月 5日 | [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") (東京)           |
+| 9    | 2002年8月 4日  | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink") (東京)     |
+| 10   | 2003年8月24日  | [Zepp Osaka](../Page/Zepp.md "wikilink") (大阪)           |
+| 11   | 2004年8月22日  | Zepp Osaka                                              |
+| 12   | 2005年8月21日  | Zepp Osaka                                              |
+| 13   | 2006年8月26日  | [パシフィコ横浜](../Page/横浜国際平和会議場.md "wikilink") 国立大ホール       |
+| 14   | 2007年9月 1日  | パシフィコ横浜 国立大ホール                                          |
+| 15   | 2008年8月30日  | [大阪市中央体育館](../Page/大阪市中央体育館.md "wikilink")メインアリーナ       |
+| 16   | 2009年8月22日  | 大阪市中央体育館メインアリーナ                                         |
+| 17   | 2010年8月21日  | 大阪市中央体育館メインアリーナ                                         |
+| 18   | 2011年8月28日  | パシフィコ横浜 国立大ホール                                          |
+| 19   | 2012年8月26日  | パシフィコ横浜 国立大ホール                                          |
+| 20   | 2013年9月 1日  | 大阪市中央体育館メインアリーナ                                         |
+| 21   | 2014年8月31日  | 大阪市中央体育館メインアリーナ                                         |
+| 24   | 2017年8月26日  | パシフィコ横浜 国立大ホール                                          |
 
 ## DVD
 
@@ -82,9 +82,9 @@
 
 ## 関連項目
 
-  - [ストリートダンス](https://ja.wikipedia.org/wiki/ストリートダンス "wikilink")
-  - [ポップダンス](https://ja.wikipedia.org/wiki/ポップ_\(ダンス\) "wikilink")
-  - [ロックダンス](https://ja.wikipedia.org/wiki/ロック_\(ダンス\) "wikilink")
+  - [ストリートダンス](../Page/ストリートダンス.md "wikilink")
+  - [ポップダンス](../Page/ポップ_\(ダンス\).md "wikilink")
+  - [ロックダンス](../Page/ロック_\(ダンス\).md "wikilink")
   - [ブレイクダンス](../Page/ブレイクダンス.md "wikilink")
   - [ハウス](https://ja.wikipedia.org/wiki/ハウス_\(ダンス\) "wikilink")
   - [Juste Debout](https://ja.wikipedia.org/wiki/Juste_Debout "wikilink")([フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")) - 2on2のストリートダンス世界大会

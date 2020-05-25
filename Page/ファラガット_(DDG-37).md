@@ -1,4 +1,4 @@
-> この記事は[ \(DDG-37\)](https://ja.wikipedia.org/wiki/_\(DDG-37\))から翻訳されています。
+> この記事は[ファラガット \(DDG-37\)](https://ja.wikipedia.org/wiki/ファラガット_\(DDG-37\))から翻訳されています。
 
 
 |                                                                                                                                                                                                                                                                                                                   |

@@ -7,14 +7,14 @@
 
 この[爆弾](../Page/爆弾.md "wikilink")は、精密誘導装置を備えて滑空する[小直径爆弾](https://ja.wikipedia.org/wiki/小直径爆弾 "wikilink")（SDB, Small Diameter Bomb）シリーズの1つである。 小直径爆弾は、小型であるため爆発力が小さく、破壊力は限定的であるが、目標に対して正確に誘導され、命中するよう開発製造されている。[ミサイル](../Page/ミサイル.md "wikilink")と違い推進装置は持たないが、投下時の高度をエネルギーとして投下後に展開する翼で目標までの距離を滑空し突入・破壊する。このような種類の爆弾は「滑空爆弾」と呼ばれる[航空爆弾に属する](https://ja.wikipedia.org/wiki/航空機搭載爆弾 "wikilink")。爆弾自身が誘導装置を備えて長距離を滑空できるため、発射母機は攻撃目標から距離を置いた安全圏から爆弾を投下することが可能である。
 
-このシリーズは、小型化によって攻撃時の発射母機あたり多数の爆弾を搭載できることや、破壊力が小さいので攻撃目標周辺への付随被害が最小化できることを目的に開発され、特に[F-22の機内](https://ja.wikipedia.org/wiki/F-22_\(戦闘機\) "wikilink")[爆弾槽](https://ja.wikipedia.org/wiki/爆弾槽 "wikilink")に収めるために全長も短くされて、[AIM-120](../Page/AIM-120_\(ミサイル\).md "wikilink") [ミサイル](../Page/ミサイル.md "wikilink")の半分程度の長さになった。
+このシリーズは、小型化によって攻撃時の発射母機あたり多数の爆弾を搭載できることや、破壊力が小さいので攻撃目標周辺への付随被害が最小化できることを目的に開発され、特に[F-22の機内](../Page/F-22_\(戦闘機\).md "wikilink")[爆弾槽](https://ja.wikipedia.org/wiki/爆弾槽 "wikilink")に収めるために全長も短くされて、[AIM-120](../Page/AIM-120_\(ミサイル\).md "wikilink") [ミサイル](../Page/ミサイル.md "wikilink")の半分程度の長さになった。
 
 ## 歴史
 
-  - [米軍は](../Page/アメリカ軍.md "wikilink")、[コソボ紛争](https://ja.wikipedia.org/wiki/コソボ紛争 "wikilink")で[空爆に使用した](https://ja.wikipedia.org/wiki/空襲 "wikilink")[爆弾](../Page/爆弾.md "wikilink")の破壊力が都市部で使用するには過大すぎて、周辺の[民間人](https://ja.wikipedia.org/wiki/民間人 "wikilink")にも被害を与えてしまい非難された教訓から、破壊力の小さな精密[誘導爆弾](../Page/誘導爆弾.md "wikilink")の開発を[2001年](../Page/2001年.md "wikilink")から開始した（この先見性は当たり、後の[アフガニスタン](../Page/アフガニスタン.md "wikilink")や[イラク](../Page/イラク.md "wikilink")でも[市街地](../Page/市街地.md "wikilink")での戦闘が大部分を占めるようになった）。
+  - [米軍は](../Page/アメリカ軍.md "wikilink")、[コソボ紛争](https://ja.wikipedia.org/wiki/コソボ紛争 "wikilink")で[空爆に使用した](../Page/空襲.md "wikilink")[爆弾](../Page/爆弾.md "wikilink")の破壊力が都市部で使用するには過大すぎて、周辺の[民間人](../Page/民間人.md "wikilink")にも被害を与えてしまい非難された教訓から、破壊力の小さな精密[誘導爆弾](../Page/誘導爆弾.md "wikilink")の開発を[2001年](../Page/2001年.md "wikilink")から開始した（この先見性は当たり、後の[アフガニスタン](../Page/アフガニスタン.md "wikilink")や[イラク](../Page/イラク.md "wikilink")でも[市街地](../Page/市街地.md "wikilink")での戦闘が大部分を占めるようになった）。
   - [ボーイング](../Page/ボーイング.md "wikilink")社と[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")社による競争試作が実施され、[2003年](../Page/2003年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")、ボーイング社の製品が採用された。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[イラク戦争](../Page/イラク戦争.md "wikilink")で初めて実戦投入された。
-  - [イスラエル軍は](https://ja.wikipedia.org/wiki/イスラエル国防軍 "wikilink")[米国から購入し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")からの[ガザ侵攻で](https://ja.wikipedia.org/wiki/ガザ紛争_\(2008年-2009年\) "wikilink")、[ガザ地区](https://ja.wikipedia.org/wiki/ガザ地区 "wikilink")と[エジプト](../Page/エジプト.md "wikilink")を結ぶ地下道の破壊に使われた。
+  - [2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[イラク戦争](../Page/イラク戦争.md "wikilink")で初めて実戦投入された。
+  - [イスラエル軍は](../Page/イスラエル国防軍.md "wikilink")[米国から購入し](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")からの[ガザ侵攻で](https://ja.wikipedia.org/wiki/ガザ紛争_\(2008年-2009年\) "wikilink")、[ガザ地区](../Page/ガザ地区.md "wikilink")と[エジプト](../Page/エジプト.md "wikilink")を結ぶ地下道の破壊に使われた。
 
 ## 運用国
 
@@ -24,7 +24,7 @@
 
   -
 
-:\*[イタリア空軍](https://ja.wikipedia.org/wiki/イタリア空軍 "wikilink") - 2010年1月19日に[オート・メラーラ](../Page/オート・メラーラ.md "wikilink")社と共同で生産する契約を結んだ\[1\]。
+:\*[イタリア空軍](../Page/イタリア空軍.md "wikilink") - 2010年1月19日に[オート・メラーラ](../Page/オート・メラーラ.md "wikilink")社と共同で生産する契約を結んだ\[1\]。
 
   -
 

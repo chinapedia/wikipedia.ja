@@ -23,6 +23,6 @@
 
 ## 脚注
 
-[Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:聖飢魔IIの楽曲](https://ja.wikipedia.org/wiki/Category:聖飢魔IIの楽曲 "wikilink") [Category:嬰ヘ長調](https://ja.wikipedia.org/wiki/Category:嬰ヘ長調 "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:聖飢魔IIの楽曲](https://ja.wikipedia.org/wiki/Category:聖飢魔IIの楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年12月号『悪魔的いい味出してる新聞』

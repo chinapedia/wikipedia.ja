@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[モアカムFC](https://ja.wikipedia.org/wiki/モアカムFC)から翻訳されています。
 
 
 **モアカム・フットボール・クラブ**（**Morecambe Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ランカシャー州](https://ja.wikipedia.org/wiki/ランカシャー州 "wikilink")、[モアカム](https://ja.wikipedia.org/wiki/モアカム "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは4部リーグである[リーグ2に所属](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")。

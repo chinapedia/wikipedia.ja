@@ -1,4 +1,4 @@
-> この記事は[2LDK \(\)](https://ja.wikipedia.org/wiki/2LDK_\(\))から翻訳されています。
+> この記事は[2LDK \(映画\)](https://ja.wikipedia.org/wiki/2LDK_\(映画\))から翻訳されています。
 
 
 『**2LDK**』（にーエルディーケー）は、[2003年](../Page/2003年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。監督は[堤幸彦](../Page/堤幸彦.md "wikilink")、製作は「DUEL」パートナーズ。DUEL（対決）というテーマで[北村龍平](../Page/北村龍平.md "wikilink")監督の『[荒神](https://ja.wikipedia.org/wiki/荒神_\(映画\) "wikilink")』と競作された中編映画。
@@ -20,7 +20,7 @@
   - [上村依子](../Page/上村依子.md "wikilink")
   - [大村眞利枝](https://ja.wikipedia.org/wiki/大村眞利枝 "wikilink")
   - [水森コウ太](https://ja.wikipedia.org/wiki/水森コウ太 "wikilink")
-  - [森康子](https://ja.wikipedia.org/wiki/森康子 "wikilink")
+  - [森康子](../Page/森康子.md "wikilink")
   - [小野敦子](https://ja.wikipedia.org/wiki/小野敦子 "wikilink")
   - [串間保](https://ja.wikipedia.org/wiki/串間保 "wikilink")
   - [麻生学](../Page/麻生学.md "wikilink")
@@ -31,7 +31,7 @@
   - 制作：[真鍋和己](https://ja.wikipedia.org/wiki/真鍋和己 "wikilink")、[中沢晋](https://ja.wikipedia.org/wiki/中沢晋 "wikilink")、[石田雄治](https://ja.wikipedia.org/wiki/石田雄治 "wikilink")
   - 脚本：[三浦有為子](https://ja.wikipedia.org/wiki/三浦有為子 "wikilink")
   - 撮影：[唐沢悟](https://ja.wikipedia.org/wiki/唐沢悟 "wikilink")
-  - 音楽：[見岳章](https://ja.wikipedia.org/wiki/見岳章 "wikilink")
+  - 音楽：[見岳章](../Page/見岳章.md "wikilink")
 
 ## 外部リンク
 

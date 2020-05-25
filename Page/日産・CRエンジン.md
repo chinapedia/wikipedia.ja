@@ -1,7 +1,7 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[日産・CRエンジン](https://ja.wikipedia.org/wiki/日産・CRエンジン)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:NISSAN_CR14DE.jpg "wikilink") **CRエンジン**とは、[CG・CGA型](../Page/日産・CGエンジン.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")の後継として、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が2000年代年半から生産している小型乗用車・商用車用[DOHC](../Page/DOHC.md "wikilink")エンジンである。
+[right](https://ja.wikipedia.org/wiki/ファイル:NISSAN_CR14DE.jpg "wikilink") **CRエンジン**とは、[CG・CGA型](../Page/日産・CGエンジン.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")の後継として、[日産自動車](../Page/日産自動車.md "wikilink")が2000年代年半から生産している小型乗用車・商用車用[DOHC](../Page/DOHC.md "wikilink")エンジンである。
 
 ## バリエーション
 

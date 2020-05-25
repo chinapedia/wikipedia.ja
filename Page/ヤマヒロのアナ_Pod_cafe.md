@@ -1,11 +1,11 @@
-> この記事は[ Pod cafe](https://ja.wikipedia.org/wiki/_Pod_cafe)から翻訳されています。
+> この記事は[ヤマヒロのアナ Pod cafe](https://ja.wikipedia.org/wiki/ヤマヒロのアナ_Pod_cafe)から翻訳されています。
 
 
 **ヤマヒロのアナ Pod cafe**（やまひろのあなポッドカフェ）は、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")で[2007年](../Page/2007年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")まで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。
 
 ## 番組概要
 
-[関西テレビの](../Page/関西テレビ放送.md "wikilink")[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")企画の第2弾で[DJを務めているのは同局](../Page/ディスクジョッキー.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")（当時）のヤマヒロこと[山本浩之である](../Page/山本浩之_\(アナウンサー\).md "wikilink")。　 DJの山本の他に、同局のスタッフが数名おり、山本とスタッフと[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からの[メールを読みながら](../Page/電子メール.md "wikilink")、リスナーからの質問に答えたり、山本の[ヅラネタなどのトークを繰り広げている](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。スタッフのうち男性2人が事実上の相方となる。この2人は番組内ではそれぞれKさんとWさんと呼ばれている。このうちWさんは山本と同期入社。時として山本よりも目立つこともあり、ファンも存在している。
+[関西テレビの](../Page/関西テレビ放送.md "wikilink")[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")企画の第2弾で[DJを務めているのは同局](../Page/ディスクジョッキー.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")（当時）のヤマヒロこと[山本浩之である](../Page/山本浩之_\(アナウンサー\).md "wikilink")。　 DJの山本の他に、同局のスタッフが数名おり、山本とスタッフと[リスナー](../Page/リスナー.md "wikilink")からの[メールを読みながら](../Page/電子メール.md "wikilink")、リスナーからの質問に答えたり、山本の[ヅラネタなどのトークを繰り広げている](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。スタッフのうち男性2人が事実上の相方となる。この2人は番組内ではそれぞれKさんとWさんと呼ばれている。このうちWさんは山本と同期入社。時として山本よりも目立つこともあり、ファンも存在している。
 
 たまに同局のアナウンサーなどが番組に訪れ、一緒にトークを繰り広げる。[藤本景子](https://ja.wikipedia.org/wiki/藤本景子 "wikilink")が出演する事が多い。
 
@@ -13,7 +13,7 @@
 
 2010年12月には関西テレビ1Fエントランス広場で公開収録「アナPod オープン cafe」を敢行。前説なども含めて公開収録の模様をUSTREAMで生配信された。
 
-2012年7月をもって惜しまれながら終了。最終回の収録である7月27日には「アナPod オープン cafe リターンズ」と題して前回同様関西テレビ1Fエントランス広場での公開収録を敢行し、収録の模様はUSTREAMで生配信された。ゲストとして[村西利恵](https://ja.wikipedia.org/wiki/村西利恵 "wikilink")、[豊田康雄](https://ja.wikipedia.org/wiki/豊田康雄 "wikilink")両アナウンサーが出演。
+2012年7月をもって惜しまれながら終了。最終回の収録である7月27日には「アナPod オープン cafe リターンズ」と題して前回同様関西テレビ1Fエントランス広場での公開収録を敢行し、収録の模様はUSTREAMで生配信された。ゲストとして[村西利恵](https://ja.wikipedia.org/wiki/村西利恵 "wikilink")、[豊田康雄](../Page/豊田康雄.md "wikilink")両アナウンサーが出演。
 
 ## エピソード
 

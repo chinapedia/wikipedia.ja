@@ -388,7 +388,7 @@
 ## 外部リンク
 
   -
-[Category:ライブドア](https://ja.wikipedia.org/wiki/Category:ライブドア "wikilink") [Category:かつて存在した日本の持株会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の持株会社 "wikilink") [Category:かつて存在した日本の情報通信業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の情報通信業者 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:堀江貴文](https://ja.wikipedia.org/wiki/Category:堀江貴文 "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:2012年廃止の企業](https://ja.wikipedia.org/wiki/Category:2012年廃止の企業 "wikilink")
+[Category:ライブドアのグループ企業](https://ja.wikipedia.org/wiki/Category:ライブドアのグループ企業 "wikilink") [Category:かつて存在した日本の持株会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の持株会社 "wikilink") [Category:かつて存在した日本の情報通信業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の情報通信業者 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:2012年廃止の企業](https://ja.wikipedia.org/wiki/Category:2012年廃止の企業 "wikilink")
 
 1.  [子会社株式の譲渡に関するお知らせ](http://www.ldh-corp.co.jp/ir/2010/20100412_01.pdf) LDH 2010年4月12日
 2.

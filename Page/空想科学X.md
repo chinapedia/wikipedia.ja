@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[空想科学X](https://ja.wikipedia.org/wiki/空想科学X)から翻訳されています。
 
 
 『**空想科学X**』（くうそうかがくエックス）は[saxyun](https://ja.wikipedia.org/wiki/saxyun "wikilink")による[4コマ漫画](../Page/4コマ漫画.md "wikilink")。『[電撃「マ）王](https://ja.wikipedia.org/wiki/電撃「マ）王 "wikilink")』（[2011年](../Page/2011年.md "wikilink")（平成23年）12月号より『[電撃マオウ](../Page/電撃マオウ.md "wikilink")』に改称）（[メディアワークス](../Page/メディアワークス.md "wikilink")、2008年4月以降は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）において2005年12月号から連載開始し、[2014年](../Page/2014年.md "wikilink")11月号にて完結した。1話につき4ページ又は6ページで掲載されていた。

@@ -1,4 +1,4 @@
-> この記事は[ADHD](https://ja.wikipedia.org/wiki/ADHD)から翻訳されています。
+> この記事は[ADHDに関する論争](https://ja.wikipedia.org/wiki/ADHDに関する論争)から翻訳されています。
 
 
 **ADHDに関する論争**（ADHDにかんするろんそう）では、ADHD（[注意欠陥・多動性障害](../Page/注意欠陥・多動性障害.md "wikilink")）に関する論争について記述する。

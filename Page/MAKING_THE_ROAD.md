@@ -1,7 +1,7 @@
 > この記事は[MAKING THE ROAD](https://ja.wikipedia.org/wiki/MAKING_THE_ROAD)から翻訳されています。
 
 
-『**MAKING THE ROAD**』（メイキング・ザ・ロード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")が1999年にリリースした[アルバム](../Page/アルバム.md "wikilink")。
+『**MAKING THE ROAD**』（メイキング・ザ・ロード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")が1999年にリリースした[アルバム](../Page/アルバム.md "wikilink")。
 
 日本国外を含めて100万枚以上の売上を記録した\[1\]。
 

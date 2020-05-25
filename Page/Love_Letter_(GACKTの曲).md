@@ -1,7 +1,7 @@
-> この記事は[Love Letter \(GACKT\)](https://ja.wikipedia.org/wiki/Love_Letter_\(GACKT\))から翻訳されています。
+> この記事は[Love Letter \(GACKTの曲\)](https://ja.wikipedia.org/wiki/Love_Letter_\(GACKTの曲\))から翻訳されています。
 
 
-「**Love Letter**」（ラヴ レター）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")が発表した楽曲、及び同曲を収録したシングル。通算25枚目のシングルである。
+「**Love Letter**」（ラヴ レター）は、[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")が発表した楽曲、及び同曲を収録したシングル。通算25枚目のシングルである。
 
 ## 概要
 
@@ -22,12 +22,12 @@
       - 作詞・作曲：Gackt.C / 編曲:Gackt.C・Chachamaru
     <!-- end list -->
       -
-        4thアルバム『[Crescent](https://ja.wikipedia.org/wiki/Crescent_\(GACKTのアルバム\) "wikilink")』に収録されている同曲の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")バージョン。
+        4thアルバム『[Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink")』に収録されている同曲の[リミックス](../Page/リミックス.md "wikilink")バージョン。
 
 ## 収録アルバム
 
-  - [Crescent](https://ja.wikipedia.org/wiki/Crescent_\(GACKTのアルバム\) "wikilink") (\#2、原曲)
-  - [Love Letter](https://ja.wikipedia.org/wiki/Love_Letter_\(GACKTのアルバム\) "wikilink") (\#1、原曲)
+  - [Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink") (\#2、原曲)
+  - [Love Letter](../Page/Love_Letter_\(GACKTのアルバム\).md "wikilink") (\#1、原曲)
   - [0079-0088](https://ja.wikipedia.org/wiki/0079-0088 "wikilink") (\#1)
   - [THE ELEVENTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_ELEVENTH_DAY_〜SINGLE_COLLECTION〜 "wikilink") (\#1)
 

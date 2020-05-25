@@ -3,7 +3,7 @@
 
 **System Center Operations Manager**(SCOM) は[マイクロソフト](../Page/マイクロソフト.md "wikilink")による[Windowsシステムを対象とした性能およびイベント監視製品である](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。従来は **Microsoft Operations Manager**(MOM) と称していた。
 
-ネットワークで接続された複数の[コンピュータ](../Page/コンピュータ.md "wikilink")を監視できる。[Active Directory](https://ja.wikipedia.org/wiki/Active_Directory "wikilink")、[Microsoft SQL Server](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Microsoft Exchange Server](https://ja.wikipedia.org/wiki/Microsoft_Exchange_Server "wikilink") といった Microsoft Server 製品や SCOM 自身を SCOM で監視可能である。イギリスの企業 Serverware Group plc が開発した SeNTry ELM という[ネットワーク管理](../Page/ネットワーク管理.md "wikilink")システムがベースとなっている\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月](../Page/6月.md "wikilink")、その[知的財産権](../Page/知的財産権.md "wikilink")が Mission Critical Software, inc. に買い取られ\[2\]、同社が[NetIQ](http://www.netiq.com/solutions/services/default.asp) と合併し\[3\]、その後 Attachmate に買収された。
+ネットワークで接続された複数の[コンピュータ](../Page/コンピュータ.md "wikilink")を監視できる。[Active Directory](../Page/Active_Directory.md "wikilink")、[Microsoft SQL Server](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Microsoft Exchange Server](../Page/Microsoft_Exchange_Server.md "wikilink") といった Microsoft Server 製品や SCOM 自身を SCOM で監視可能である。イギリスの企業 Serverware Group plc が開発した SeNTry ELM という[ネットワーク管理](../Page/ネットワーク管理.md "wikilink")システムがベースとなっている\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月](../Page/6月.md "wikilink")、その[知的財産権](../Page/知的財産権.md "wikilink")が Mission Critical Software, inc. に買い取られ\[2\]、同社が[NetIQ](http://www.netiq.com/solutions/services/default.asp) と合併し\[3\]、その後 Attachmate に買収された。
 
 ## 基本概念
 
@@ -11,7 +11,7 @@
 
 SCOM では、特定の監視対象アプリケーション向けのフィルタリング規則群を *management pack* と呼ぶ。マイクロソフトや他のソフトウェアベンダーが各製品についての management pack を提供するが、SCOM にはユーザーがそれを編集したり新たに作成できる機能もある。エージェントのインストール、監視対象コンピュータの設定、management pack 作成にはアドミニストレータ権限が必要だが、警報履歴は一般ユーザーでも参照可能である。
 
-複数の SCOM サーバを連携させ、Windows ドメインやネットワーク境界を越えて監視することもできる。[Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")を利用して、他のネットワーク管理アプリケーションと警報情報をやり取りすることもできる。
+複数の SCOM サーバを連携させ、Windows ドメインやネットワーク境界を越えて監視することもできる。[Webサービス](../Page/Webサービス.md "wikilink")を利用して、他のネットワーク管理アプリケーションと警報情報をやり取りすることもできる。
 
 ## コマンドシェル
 

@@ -1,7 +1,7 @@
-> この記事は[Live at OKINAWA 05](https://ja.wikipedia.org/wiki/Live_at_OKINAWA_05)から翻訳されています。
+> この記事は[忘れないで〜Live at OKINAWA ’05〜](https://ja.wikipedia.org/wiki/忘れないで〜Live_at_OKINAWA_’05〜)から翻訳されています。
 
 
-「**忘れないで〜Live at OKINAWA ’05〜**」（わすれないで…）は、[Kiroro](../Page/Kiroro.md "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+「**忘れないで〜Live at OKINAWA ’05〜**」（わすれないで…）は、[Kiroro](../Page/Kiroro.md "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
 ## 解説
 
@@ -10,7 +10,7 @@
 ## トラック
 
 1.  **忘れないで〜Live at OKINAWA '05〜**
-    （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink"):玉城千春、[編曲](../Page/編曲.md "wikilink"):Kiroro）
+    （[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink"):玉城千春、[編曲](../Page/編曲.md "wikilink"):Kiroro）
 2.  **Beginning**
     （作詞・作曲:金城綾乃、編曲:Kiroro・[石塚知生](../Page/石塚知生.md "wikilink")）
 

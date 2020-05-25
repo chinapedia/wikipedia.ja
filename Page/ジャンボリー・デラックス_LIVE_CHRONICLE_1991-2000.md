@@ -1,12 +1,12 @@
-> この記事は[ LIVE CHRONICLE 1991-2000](https://ja.wikipedia.org/wiki/_LIVE_CHRONICLE_1991-2000)から翻訳されています。
+> この記事は[ジャンボリー・デラックス LIVE CHRONICLE 1991-2000](https://ja.wikipedia.org/wiki/ジャンボリー・デラックス_LIVE_CHRONICLE_1991-2000)から翻訳されています。
 
 
-『**ジャンボリー・デラックス LIVE CHRONICLE 1991-2000**』（ジャンボリー・デラックス ライブ クロニクル-）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツのライブDVD](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")。[2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に[ユニバーサルミュージックより発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。レーベルは[ポリドール](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。
+『**ジャンボリー・デラックス LIVE CHRONICLE 1991-2000**』（ジャンボリー・デラックス ライブ クロニクル-）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツのライブDVD](../Page/スピッツ_\(バンド\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")に[ユニバーサルミュージックより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。レーベルは[ポリドール](../Page/ポリドール・レコード.md "wikilink")。
 
 ## 概要
 
   - VHSで発売された『[JAMBOREE 1](../Page/JAMBOREE_1.md "wikilink")』及び『[JAMBOREE 2](../Page/JAMBOREE_2.md "wikilink")』の2本のライブ作品を収録し（それぞれのエンディングテロップとなった「不死身のビーナス」と「アナキスト」のライブ映像はカット）、これに加え、1991年から1994年の初期の未発表ライブ映像と、2000年の最新ライブ映像を収録。
-  - 当時はまだ発売未定だった新曲「夢追い虫」をボーナストラック（DVDのエンディングテロップ）として収録。この映像は、後にシングル『[夢追い虫](https://ja.wikipedia.org/wiki/夢追い虫 "wikilink")』のプロモーションビデオとして使われた。
+  - 当時はまだ発売未定だった新曲「夢追い虫」をボーナストラック（DVDのエンディングテロップ）として収録。この映像は、後にシングル『[夢追い虫](../Page/夢追い虫.md "wikilink")』のプロモーションビデオとして使われた。
 
 ## 収録曲
 
@@ -85,6 +85,6 @@
 
 ## 関連項目
 
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
 
-[Category:スピッツの映像作品](https://ja.wikipedia.org/wiki/Category:スピッツの映像作品 "wikilink") [Category:2001年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2001年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:スピッツの映像作品](https://ja.wikipedia.org/wiki/Category:スピッツの映像作品 "wikilink") [Category:1991年のコンサート](https://ja.wikipedia.org/wiki/Category:1991年のコンサート "wikilink") [Category:1992年のコンサート](https://ja.wikipedia.org/wiki/Category:1992年のコンサート "wikilink") [Category:1993年のコンサート](https://ja.wikipedia.org/wiki/Category:1993年のコンサート "wikilink") [Category:1994年のコンサート](https://ja.wikipedia.org/wiki/Category:1994年のコンサート "wikilink") [Category:2000年のコンサート](https://ja.wikipedia.org/wiki/Category:2000年のコンサート "wikilink") [Category:2001年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2001年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

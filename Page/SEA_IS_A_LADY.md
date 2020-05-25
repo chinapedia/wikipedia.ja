@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - 全編、本人のギターソロによるインストゥルメンタルアルバム。楽曲毎に女性（[サブタイトル](https://ja.wikipedia.org/wiki/サブタイトル "wikilink")的）の名前を付けているのが特徴。
+  - 全編、本人のギターソロによるインストゥルメンタルアルバム。楽曲毎に女性（[サブタイトル](../Page/サブタイトル.md "wikilink")的）の名前を付けているのが特徴。
 
   - 同時期に『T's keys "SEA IS A LADY"』\[1\]を発表。
 
-  - 「SEA LINE "RIE"」はシングル\[2\]として先行リリースされ、[日本たばこ（JT）の](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")[マイルドセブン](https://ja.wikipedia.org/wiki/メビウス_\(たばこ\) "wikilink")・メンソールの[CM曲として使用された](../Page/コマーシャルメッセージ.md "wikilink")。
+  - 「SEA LINE "RIE"」はシングル\[2\]として先行リリースされ、[日本たばこ（JT）の](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")[マイルドセブン](../Page/メビウス_\(たばこ\).md "wikilink")・メンソールの[CM曲として使用された](../Page/コマーシャルメッセージ.md "wikilink")。
 
-  - 「52ND STREET“AKIKO”」は[福井テレビの](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[FNN福井テレビニュース](https://ja.wikipedia.org/wiki/FNN福井テレビニュース "wikilink")のオープニングで使用された（代初期まで使用）。
+  - 「52ND STREET“AKIKO”」は[福井テレビの](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[FNN福井テレビニュース](../Page/FNN福井テレビニュース.md "wikilink")のオープニングで使用された（代初期まで使用）。
 
   - には、発売から30周年を記念して、一部の楽曲を除く全曲をリメイクした『[SEA IS A LADY 2017](https://ja.wikipedia.org/wiki/SEA_IS_A_LADY_2017 "wikilink")』\[3\]がリリースされた。
 
@@ -66,12 +66,12 @@
 ### SEA LINE “RIE”
 
   - E. GUITARS : TOSHIKI KADOMATSU, MASAHIRO IKUMI
-  - BASS : [TOMOHITO AOKI](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")
+  - BASS : [TOMOHITO AOKI](../Page/青木智仁.md "wikilink")
   - DRUMS : AKIRA DOI
   - SYNTHESIZER PROGRAMMING : YUZOH HAYASHI
   - SYNTHESIZER, A. PIANO AND E. PIANO : [HIROSHI SATOH](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")
   - SYNTHESIZER : YOSHIHIRO TOMONARI
-  - PERCUSSION : [NOBU SAITOH](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink")
+  - PERCUSSION : [NOBU SAITOH](../Page/斎藤ノヴ.md "wikilink")
   - TROMBONE SOLO : [SHIGEHARU MUKAI](https://ja.wikipedia.org/wiki/向井滋春 "wikilink")
   - TRUMPET : [SHIN KAZUHARA](../Page/数原晋.md "wikilink"), TOSHIO ARAKI, NOBUO KATOH
   - T. SAXOPHONE : [JAKE H. CONCEPTION](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
@@ -83,7 +83,7 @@
 
   - E. GUITAR : TOSHIKI KADOMATSU, [TAKAYUKI HIJIKATA](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")
   - BASS : TOMOHITO AOKI
-  - DRUMS : [SHUICHI "PONTA" MURAKAM](https://ja.wikipedia.org/wiki/村上秀一 "wikilink")
+  - DRUMS : [SHUICHI "PONTA" MURAKAMI](../Page/村上秀一.md "wikilink")
   - SYNTHESIZER PROGRAMMING : YUZOH HAYASHI
   - SYNTHESIZER, RD-1000 SOLO AND A. PIANO : YOSHIHIRO TOMONARI
   - A. SAXOPHONE SOLO : OSAMU KOIKE
@@ -131,7 +131,7 @@
   - RX-5 PROGRAMMING : TOSHIKI KADOMATSU
   - SYNTHESIZER, QX-1 PROGRAMMING : YUZOH HAYASHI
   - SYNTHESIZER : YOSHIHIRO TOMONARI
-  - BASS SOLO : TOMOHITO AOKI, [TETSUO SAKURAI](https://ja.wikipedia.org/wiki/櫻井哲夫 "wikilink") ([CASIOPEA](../Page/カシオペア_\(バンド\).md "wikilink")), KENJI TAKAMIZU
+  - BASS SOLO : TOMOHITO AOKI, [TETSUO SAKURAI](../Page/櫻井哲夫.md "wikilink") ([CASIOPEA](../Page/カシオペア_\(バンド\).md "wikilink")), KENJI TAKAMIZU
 
 ### MIDSUMMER DRIVIN' “REIKO”
 
@@ -178,7 +178,7 @@
 
   - Recorded at STUDIO SOUND VALLEY / SEDIC STUDIO / RVC STUDIO / [SONY ROPPONGI STUDIO](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")
   - Engineer : TAKAHIRO NOCHIMURA (RVC), KOHICHI HIRASE (MIXER'S LAB)
-  - Mixed by [ElJI UCHINUMA](https://ja.wikipedia.org/wiki/内沼映二 "wikilink") (MIXER'S LAB)
+  - Mixed by [ElJI UCHINUMA](../Page/内沼映二.md "wikilink") (MIXER'S LAB)
 
 {{-}}
 
@@ -188,7 +188,7 @@
 
 {{-}}
 
-  - TETSUO SAKURAI BY THE COURTESY OF [ALFA RECORDS, INC.](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")
+  - TETSUO SAKURAI BY THE COURTESY OF [ALFA RECORDS, INC.](../Page/アルファレコード.md "wikilink")
   - HIROSHI SATOH BY THE COURTESY OF ALFA RECOREDS, INC.
   - HIDEKI FUJISAWA BY THE COURTESY OF [NIPPON COLUMBIA CO., LTD.](../Page/日本コロムビア.md "wikilink")
 
@@ -208,4 +208,4 @@
 
 1.  『T's keys "SEA IS A LADY"』 発売 [レーザーディスク](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink") [LD](../Page/レーザーディスク.md "wikilink"):SM058-3181
 2.  「SEA LINE」 発売 AIR ⁄ RVC 7"Single:RAS-551
-3.  『[SEA IS A LADY 2017](https://ja.wikipedia.org/wiki/SEA_IS_A_LADY_2017 "wikilink")』 発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink") CD+Blu-ray:BVCL-788/9【初回生産限定盤】 / CD:BVCL-790【通常盤】
+3.  『[SEA IS A LADY 2017](https://ja.wikipedia.org/wiki/SEA_IS_A_LADY_2017 "wikilink")』 発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") CD+Blu-ray:BVCL-788/9【初回生産限定盤】 / CD:BVCL-790【通常盤】

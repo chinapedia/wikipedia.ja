@@ -1,15 +1,15 @@
-> この記事は[! SECURITY POLICE](https://ja.wikipedia.org/wiki/!_SECURITY_POLICE)から翻訳されています。
+> この記事は[最強!白バイキング SECURITY POLICE](https://ja.wikipedia.org/wiki/最強!白バイキング_SECURITY_POLICE)から翻訳されています。
 
 
 『**最強\!白バイキング SECURITY POLICE**』（さいきょう しろバイ キング セキュリティ・ポリス）は、株式会社、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から発売されている[バイクポリスアクション](../Page/オートバイ.md "wikilink")。対応機種は[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 ## 概要
 
-[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")、訪米した共和国の[首相](../Page/首相.md "wikilink")、[市長](../Page/市町村長.md "wikilink")、権威ある[博士](../Page/博士.md "wikilink")などの重要人物が乗っている[リムジン](https://ja.wikipedia.org/wiki/リムジン "wikilink")を[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")の襲撃から守り目的地まで護衛する白バイアクションゲーム。
+[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")、訪米した共和国の[首相](../Page/首相.md "wikilink")、[市長](../Page/市町村長.md "wikilink")、権威ある[博士](../Page/博士.md "wikilink")などの重要人物が乗っている[リムジン](../Page/リムジン.md "wikilink")を[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")の襲撃から守り目的地まで護衛する白バイアクションゲーム。
 
 ## 内容
 
-舞台は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。全部で10のミッションが存在し、市街地、[フリーウェイ](https://ja.wikipedia.org/wiki/フリーウェイ "wikilink")、[砂漠](../Page/砂漠.md "wikilink")地帯の3つが用意されている。
+舞台は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。全部で10のミッションが存在し、市街地、[フリーウェイ](../Page/フリーウェイ.md "wikilink")、[砂漠](../Page/砂漠.md "wikilink")地帯の3つが用意されている。
 
 [白バイ](../Page/白バイ.md "wikilink")警官の主人公が本部からの指令に従い[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")を制圧、または道路上にある爆発物を除去しVIPを警護する。
 
@@ -34,4 +34,4 @@
 
   - [日本語版公式サイト](http://www.d3p.co.jp/s_20u/s20u_007.html)
 
-[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:SIMPLEシリーズ](https://ja.wikipedia.org/wiki/Category:SIMPLEシリーズ "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink") [Category:オートバイを題材とした作品](https://ja.wikipedia.org/wiki/Category:オートバイを題材とした作品 "wikilink")
+[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:SIMPLEシリーズ](https://ja.wikipedia.org/wiki/Category:SIMPLEシリーズ "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink") [Category:オートバイを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:オートバイを題材としたコンピュータゲーム "wikilink")

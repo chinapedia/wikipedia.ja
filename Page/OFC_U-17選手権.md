@@ -1,7 +1,7 @@
-> この記事は[OFC U-17](https://ja.wikipedia.org/wiki/OFC_U-17)から翻訳されています。
+> この記事は[OFC U-17選手権](https://ja.wikipedia.org/wiki/OFC_U-17選手権)から翻訳されています。
 
 
-**OFC U-17選手権**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、17歳以下の[ナショナルチーム](https://ja.wikipedia.org/wiki/ナショナルチーム "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。主に2年に1度開催され、[FIFA U-17ワールドカップの予選も兼ねており](https://ja.wikipedia.org/wiki/FIFA_U-17ワールドカップ "wikilink")、優勝国が出場権を得る。
+**OFC U-17選手権**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。主に2年に1度開催され、[FIFA U-17ワールドカップの予選も兼ねており](../Page/FIFA_U-17ワールドカップ.md "wikilink")、優勝国が出場権を得る。
 
 ## 結果
 
@@ -57,7 +57,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFC_U-17選手権1991" title="wikilink">4</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -122,7 +122,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFC_U-17選手権2005" title="wikilink">11</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -300,7 +300,7 @@
   - データは2018年大会終了時点
   - **太字**は優勝経験のある国・地域で、**太数字**は最多記録
   - 国・地域名は現在の名称で統一した
-  - [オーストラリアと](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")[チャイニーズタイペイは現在](https://ja.wikipedia.org/wiki/サッカーチャイニーズタイペイ代表 "wikilink")[AFCに加盟](../Page/アジアサッカー連盟.md "wikilink")
+  - [オーストラリアと](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")[チャイニーズタイペイは現在](../Page/サッカーチャイニーズタイペイ代表.md "wikilink")[AFCに加盟](../Page/アジアサッカー連盟.md "wikilink")
 
 ### 優勝回数
 

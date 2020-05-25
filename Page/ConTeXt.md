@@ -9,13 +9,13 @@
 
 は教材・ユーザーガイド・技術マニュアルといった、複雑で大きな文書の組版に用いられる。そのような文書は、構造・設計・アクセス可能性について高い水準を要求されることが多い。保守が容易であること、内容を再利用できること、組版の一貫性が重要な前提条件となる。 はそのような文書作成を行う人のために開発された。 は  を使っているが、利用にあたって  に関する知識は不要である。組版や文書設計について基本的な知識があれば  を充分に活用できる。
 
-には [MetaPost](https://ja.wikipedia.org/wiki/MetaPost "wikilink") を拡張した MetaFun が組み込まれていて、強力な[ベクターグラフィックス](https://ja.wikipedia.org/wiki/ベクターグラフィックス "wikilink")システムを備えている。MetaFun は単独でも利用可能だが、その強みは精細なグラフィック要素を使って文書レイアウトを拡張できることにある。
+には [MetaPost](../Page/MetaPost.md "wikilink") を拡張した MetaFun が組み込まれていて、強力な[ベクターグラフィックス](https://ja.wikipedia.org/wiki/ベクターグラフィックス "wikilink")システムを備えている。MetaFun は単独でも利用可能だが、その強みは精細なグラフィック要素を使って文書レイアウトを拡張できることにある。
 
 では、ユーザインタフェースを変えずにエンジン部 ([pdf](https://ja.wikipedia.org/wiki/pdfTeX "wikilink") (pdfTeX), [](https://ja.wikipedia.org/wiki/XeTeX "wikilink") (XeTeX, [XeTeX_Logo.svg](https://ja.wikipedia.org/wiki/File:XeTeX_Logo.svg "fig:XeTeX_Logo.svg")), [](https://ja.wikipedia.org/wiki/LuaTeX "wikilink") (LuaTeX)) を入れ替えることができる。
 
 は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の企業 PRAGMA Advanced Document Engineering (PRAGMA ADE) の Hans <span style="font-variant: small-caps">Hagen</span> が開発した。[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。
 
-上で[分子構造式を描く](https://ja.wikipedia.org/wiki/化学式 "wikilink")[マクロパッケージとして](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink") <span style="text-transform: lowercase">PPCH</span> (PPCHTeX) がある。これも  のマクロパッケージの一部であるが、 などでも利用可能である。
+上で[分子構造式を描く](../Page/化学式.md "wikilink")[マクロパッケージとして](../Page/マクロ_\(コンピュータ用語\).md "wikilink") <span style="text-transform: lowercase">PPCH</span> (PPCHTeX) がある。これも  のマクロパッケージの一部であるが、 などでも利用可能である。
 
 ## 機能詳細
 

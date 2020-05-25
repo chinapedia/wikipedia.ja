@@ -1,9 +1,9 @@
-> この記事は[JA](https://ja.wikipedia.org/wiki/JA)から翻訳されています。
+> この記事は[JA岐阜厚生連看護専門学校](https://ja.wikipedia.org/wiki/JA岐阜厚生連看護専門学校)から翻訳されています。
 
 
 **JA岐阜厚生連看護専門学校**（ジェイエイぎふこうせいれんかんごせんもんがっこう）は、[岐阜県](../Page/岐阜県.md "wikilink")[高山市](../Page/高山市.md "wikilink")にある、[私立の](../Page/私立学校.md "wikilink")[専修学校](https://ja.wikipedia.org/wiki/専修学校 "wikilink")である。
 
-[JA岐阜厚生連が運営する](https://ja.wikipedia.org/wiki/全国厚生農業協同組合連合会 "wikilink")。
+[JA岐阜厚生連が運営する](../Page/全国厚生農業協同組合連合会.md "wikilink")。
 
 ## 構成学科
 

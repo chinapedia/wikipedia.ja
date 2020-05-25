@@ -1,7 +1,7 @@
-> この記事は[ KAKASHI](https://ja.wikipedia.org/wiki/_KAKASHI)から翻訳されています。
+> この記事は[案山子 KAKASHI](https://ja.wikipedia.org/wiki/案山子_KAKASHI)から翻訳されています。
 
 
-『**案山子 KAKASHI**』（かかし）は、[2001年公開の](https://ja.wikipedia.org/wiki/2001年の映画 "wikilink")[日本映画](../Page/日本映画.md "wikilink")。製作会社は[EMG](../Page/EMG.md "wikilink")、[プラネットエンターテイメント](https://ja.wikipedia.org/wiki/プラネットエンターテイメント "wikilink")、マイピック、[ビームエンタテインメント](https://ja.wikipedia.org/wiki/ビームエンタテインメント "wikilink")で、監督は[鶴田法男](../Page/鶴田法男.md "wikilink")。
+『**案山子 KAKASHI**』（かかし）は、[2001年公開の](../Page/2001年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。製作会社は[EMG](../Page/EMG.md "wikilink")、[プラネットエンターテイメント](../Page/プラネットエンターテイメント.md "wikilink")、マイピック、[ビームエンタテインメント](https://ja.wikipedia.org/wiki/ビームエンタテインメント "wikilink")で、監督は[鶴田法男](../Page/鶴田法男.md "wikilink")。
 
 ## 概要
 
@@ -18,14 +18,14 @@
   - 吉川かおる：[野波麻帆](https://ja.wikipedia.org/wiki/野波麻帆 "wikilink")
   - 宮守泉：[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")
   - サリー・チェン：[グレース・イップ](https://ja.wikipedia.org/wiki/グレース・イップ "wikilink")
-  - 吉川剛：[松岡俊介](https://ja.wikipedia.org/wiki/松岡俊介 "wikilink")
+  - 吉川剛：[松岡俊介](../Page/松岡俊介.md "wikilink")
   - 宮守幸恵：[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")
-  - 宮守耕造：[河原崎建三](https://ja.wikipedia.org/wiki/河原崎建三 "wikilink")
+  - 宮守耕造：[河原崎建三](../Page/河原崎建三.md "wikilink")
   - 野地周作：[有薗芳記](../Page/有薗芳記.md "wikilink")
-  - 野地あゆみ：[五十嵐瑞穂](https://ja.wikipedia.org/wiki/五十嵐瑞穂 "wikilink")
-  - 巡査：[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
+  - 野地あゆみ：[五十嵐瑞穂](../Page/五十嵐瑞穂.md "wikilink")
+  - 巡査：[田中要次](../Page/田中要次.md "wikilink")
   - 修理工：[ボブ鈴木](https://ja.wikipedia.org/wiki/ボブ鈴木 "wikilink")
-  - 村人：[森下能幸](https://ja.wikipedia.org/wiki/森下能幸 "wikilink")
+  - 村人：[森下能幸](../Page/森下能幸.md "wikilink")
   - 管理人：[小柳友喜美](https://ja.wikipedia.org/wiki/小柳友喜美 "wikilink")
 
 ## スタッフ
@@ -40,7 +40,7 @@
   - 音楽：[尾形真一郎](https://ja.wikipedia.org/wiki/尾形真一郎 "wikilink")
   - 美術：[丸尾知行](https://ja.wikipedia.org/wiki/丸尾知行 "wikilink")
   - 編集：[須永弘志](https://ja.wikipedia.org/wiki/須永弘志 "wikilink")
-  - 制作：[プラネットエンターテイメント](https://ja.wikipedia.org/wiki/プラネットエンターテイメント "wikilink")
+  - 制作：[プラネットエンターテイメント](../Page/プラネットエンターテイメント.md "wikilink")
 
 ## 脚注
 

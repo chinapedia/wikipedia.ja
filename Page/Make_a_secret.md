@@ -1,7 +1,7 @@
 > この記事は[Make a secret](https://ja.wikipedia.org/wiki/Make_a_secret)から翻訳されています。
 
 
-**make a secret**（メイク・ア・シークレット）は、[BoA](../Page/BoA.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+**make a secret**（メイク・ア・シークレット）は、[BoA](../Page/BoA.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

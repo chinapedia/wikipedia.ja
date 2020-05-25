@@ -1,4 +1,4 @@
-> この記事は[ mermaid](https://ja.wikipedia.org/wiki/_mermaid)から翻訳されています。
+> この記事は[人魚姫 mermaid](https://ja.wikipedia.org/wiki/人魚姫_mermaid)から翻訳されています。
 
 
 「**人魚姫 mermaid**」（マーメイド）は、[中山美穂](../Page/中山美穂.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): K07S-10281)(CDS:KIDS-97)

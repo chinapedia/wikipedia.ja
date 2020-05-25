@@ -1,11 +1,11 @@
-> この記事は[Face to Face \(CHEMISTRY\)](https://ja.wikipedia.org/wiki/Face_to_Face_\(CHEMISTRY\))から翻訳されています。
+> この記事は[Face to Face \(CHEMISTRYのアルバム\)](https://ja.wikipedia.org/wiki/Face_to_Face_\(CHEMISTRYのアルバム\))から翻訳されています。
 
 
 **Face to Face**（フェイス・トゥ・フェイス）は、[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の5枚目のオリジナルアルバム。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")に発売。
 
 ## 概要
 
-『[fo(u)r](https://ja.wikipedia.org/wiki/fo\(u\)r "wikilink")』以来、実に2年2ヶ月ぶりのオリジナルアルバムとなる。この間に発売されたベストアルバム、『[ALL THE BEST](https://ja.wikipedia.org/wiki/ALL_THE_BEST "wikilink")』の先行シングル曲「[約束の場所](../Page/約束の場所_\(CHEMISTRYの曲\).md "wikilink")」「[遠影 feat. John Legend](../Page/遠影_feat._John_Legend.md "wikilink")」も再び収録されている。初回盤はスリーヴケース仕様。
+『[fo(u)r](https://ja.wikipedia.org/wiki/fo\(u\)r "wikilink")』以来、実に2年2ヶ月ぶりのオリジナルアルバムとなる。この間に発売されたベストアルバム、『[ALL THE BEST](../Page/ALL_THE_BEST.md "wikilink")』の先行シングル曲「[約束の場所](../Page/約束の場所_\(CHEMISTRYの曲\).md "wikilink")」「[遠影 feat. John Legend](../Page/遠影_feat._John_Legend.md "wikilink")」も再び収録されている。初回盤はスリーヴケース仕様。
 
 あえてコンセプトを掲げることをせず、「今のCHEMISTRYの感性で良いと思える曲」をテーマに制作され、全体的に打ち込み主体になっている。アルバムのタイトルは「CHEMISTRY二人が向き合い、音楽と向き合い、ファンと向き合う」ことを意識して付けられた。ジャケットはタイトル通り二人の向かい合った顔のみというシンプルなものだが、これは2人の意向による。
 
@@ -15,12 +15,12 @@
       - 作曲：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink")
     <!-- end list -->
       -
-        インスト曲。次に続く「空の奇跡」制作時に、同曲から派生的に作られた。企画アルバム『[Hot Chemistry](https://ja.wikipedia.org/wiki/Hot_Chemistry "wikilink")』以来約3年振りのインスト曲。
+        インスト曲。次に続く「空の奇跡」制作時に、同曲から派生的に作られた。企画アルバム『[Hot Chemistry](../Page/Hot_Chemistry.md "wikilink")』以来約3年振りのインスト曲。
 2.  **[空の奇跡](../Page/空の奇跡.md "wikilink")**
-      - 作詞：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 作曲：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+      - 作詞：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 作曲：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       -
-        20thシングル。[シャープ](../Page/シャープ.md "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") [AQUOSケータイ](https://ja.wikipedia.org/wiki/AQUOSケータイ "wikilink") [W51SH](../Page/W51SH.md "wikilink")」CMソング。
+        20thシングル。[シャープ](../Page/シャープ.md "wikilink")「[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") [AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink") [W51SH](../Page/W51SH.md "wikilink")」CMソング。
 3.  **君のキス**
       - 作詞：[田中花乃](https://ja.wikipedia.org/wiki/田中花乃 "wikilink") 作曲:[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：[塩川満己](https://ja.wikipedia.org/wiki/塩川満己 "wikilink")
     <!-- end list -->
@@ -37,15 +37,15 @@
       -
         大人の恋愛がテーマのバラード。
 6.  **[約束の場所](../Page/約束の場所_\(CHEMISTRYの曲\).md "wikilink")**
-      - 作詞：[槇原敬之](../Page/槇原敬之.md "wikilink") 作曲：槇原敬之 編曲：槇原敬之、[村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")
+      - 作詞：[槇原敬之](../Page/槇原敬之.md "wikilink") 作曲：槇原敬之 編曲：槇原敬之、[村田陽一](../Page/村田陽一.md "wikilink")
     <!-- end list -->
       -
         17thシングル。[味の素](../Page/味の素.md "wikilink")「クノール」CMソング。
-7.  **[輝く夜](https://ja.wikipedia.org/wiki/輝く夜 "wikilink")**
-      - 作詞：[Blaise、Maynard、tax、DICK](https://ja.wikipedia.org/wiki/MONKEY_MAJIK "wikilink") 作曲：Blaise Plant、Maynard Plant 編曲：CHOKKAKU
+7.  **[輝く夜](../Page/輝く夜.md "wikilink")**
+      - 作詞：[Blaise、Maynard、tax、DICK](../Page/MONKEY_MAJIK.md "wikilink") 作曲：Blaise Plant、Maynard Plant 編曲：CHOKKAKU
     <!-- end list -->
       -
-        23rdシングル。「[TOYOTA プレゼンツ FIFAクラブワールドカップジャパン2007](https://ja.wikipedia.org/wiki/FIFAクラブワールドカップ "wikilink")」公式テーマソング。
+        23rdシングル。「[TOYOTA プレゼンツ FIFAクラブワールドカップジャパン2007](../Page/FIFAクラブワールドカップ.md "wikilink")」公式テーマソング。
 8.  **hold on**
       - 作詞：[堂珍嘉邦](https://ja.wikipedia.org/wiki/CHEMISTRY#メンバー "wikilink")、[川畑要](https://ja.wikipedia.org/wiki/CHEMISTRY#メンバー "wikilink")、[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 作曲：堂珍嘉邦、川畑要、[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink")
     <!-- end list -->
@@ -84,11 +84,11 @@
 ### \-overture-
 
   - guitar:谷口尚久
-  - strings:藤田昌彦、渡辺一雄、三木章子、[徳澤青弦](https://ja.wikipedia.org/wiki/徳澤青弦 "wikilink")
+  - strings:藤田昌彦、渡辺一雄、三木章子、[徳澤青弦](../Page/徳澤青弦.md "wikilink")
 
 ### 空の奇跡
 
-  - electric bass:[種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink")
+  - electric bass:[種子田健](../Page/種子田健.md "wikilink")
   - strings:[弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")ストリングス
   - tumpet:西村浩二
   - trombone:広原正典
@@ -97,30 +97,30 @@
 ### 砂の扉
 
   - Keyboards ＆ Programming:[松浦晃久](https://ja.wikipedia.org/wiki/松浦晃久 "wikilink")
-  - Guitar:[田中義人](https://ja.wikipedia.org/wiki/田中義人 "wikilink")
+  - Guitar:[田中義人](../Page/田中義人.md "wikilink")
   - Flugelhorn:小林太
   - Trombone:[河合わかば](https://ja.wikipedia.org/wiki/河合わかば "wikilink")
-  - Harp:[朝川朋之](https://ja.wikipedia.org/wiki/朝川朋之 "wikilink")
+  - Harp:[朝川朋之](../Page/朝川朋之.md "wikilink")
   - Strings:小池ストリングス
   - Manipulator:佐々木聡作
 
 ### 約束の場所
 
   - Percussion:大石真理恵
-  - Trombone, Euphonium:[村田陽一](https://ja.wikipedia.org/wiki/村田陽一 "wikilink")
+  - Trombone, Euphonium:[村田陽一](../Page/村田陽一.md "wikilink")
   - Trombone:奥村晃
   - b.trombone:池城勉
   - Trumpet:西村浩二、菅波雅彦、奥村晶
   - Piccolo, Flute:高桑英世
   - Flute:野口みお
   - Clarinet:山根公男、Bob Zung
-  - Horn:[吉永雅人](https://ja.wikipedia.org/wiki/吉永雅人 "wikilink")、比嘉康志
+  - Horn:[吉永雅人](../Page/吉永雅人.md "wikilink")、比嘉康志
   - Tuba:佐藤潔
-  - e.guitar:[小倉博和](https://ja.wikipedia.org/wiki/小倉博和 "wikilink")
+  - e.guitar:[小倉博和](../Page/小倉博和.md "wikilink")
 
 ### 輝く夜
 
-  - Bass:[種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink")
+  - Bass:[種子田健](../Page/種子田健.md "wikilink")
   - Strings:[弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")ストリングス
 
 ### Daydream
@@ -129,7 +129,7 @@
 
 ### 遠影
 
-  - Piano:[John Legend](https://ja.wikipedia.org/wiki/ジョン・レジェンド "wikilink")
+  - Piano:[John Legend](../Page/ジョン・レジェンド.md "wikilink")
   - Bass:鈴木正人
   - Strings:[弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")ストリングス
 
@@ -139,20 +139,20 @@
 
 ### 最期の川
 
-  - Bass:[種子田健](https://ja.wikipedia.org/wiki/種子田健 "wikilink")
+  - Bass:[種子田健](../Page/種子田健.md "wikilink")
   - Percussion:[三沢またろう](../Page/三沢またろう.md "wikilink")
   - Strings:[弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")ストリングス
   - Piano:[青柳誠](https://ja.wikipedia.org/wiki/青柳誠 "wikilink")
 
 ### ココロとコトバ
 
-  - Piano:[川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")
+  - Piano:[川口大輔](../Page/川口大輔.md "wikilink")
   - Bass:千ヶ崎学
 
 ## 参考文献
 
   - 前原雅子（インタビュー・文）『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink") 2008 FEBRUARY No.248』、[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")、2008年。
-  - 鈴木麻子（取材・文）『[CDでーた](https://ja.wikipedia.org/wiki/CDでーた "wikilink") 2008年2月号』、[角川マガジンズ](https://ja.wikipedia.org/wiki/角川マガジンズ "wikilink")、2008年。
+  - 鈴木麻子（取材・文）『[CDでーた](https://ja.wikipedia.org/wiki/CDでーた "wikilink") 2008年2月号』、[角川マガジンズ](../Page/角川マガジンズ.md "wikilink")、2008年。
   - 柳村睦子（インタビュー・文）『[PATI PATI](https://ja.wikipedia.org/wiki/PATI_PATI "wikilink") 2008年2月号 VOL.278』、ソニー・マガジンズ、2008年。
 
 [Category:CHEMISTRYのアルバム](https://ja.wikipedia.org/wiki/Category:CHEMISTRYのアルバム "wikilink") [Category:2008年のアルバム](https://ja.wikipedia.org/wiki/Category:2008年のアルバム "wikilink")

@@ -1,9 +1,9 @@
-> この記事は[Greenboy \(\)](https://ja.wikipedia.org/wiki/Greenboy_\(\))から翻訳されています。
+> この記事は[Greenboy \(曲\)](https://ja.wikipedia.org/wiki/Greenboy_\(曲\))から翻訳されています。
 
 
 **greenboy**（グリーンボーイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の72枚目の[シングル](../Page/シングル.md "wikilink")である。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[JULIE LABELより発売された](https://ja.wikipedia.org/wiki/JULIE_LABEL "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")に[JULIE LABELより発売された](../Page/JULIE_LABEL.md "wikilink")。
 
 ## 解説
 
@@ -19,6 +19,6 @@
 
 ## 関連項目
 
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:沢田研二が制作した楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二が制作した楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")

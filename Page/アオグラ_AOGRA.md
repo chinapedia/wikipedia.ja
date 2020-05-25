@@ -1,4 +1,4 @@
-> この記事は[ AOGRA](https://ja.wikipedia.org/wiki/_AOGRA)から翻訳されています。
+> この記事は[アオグラ AOGRA](https://ja.wikipedia.org/wiki/アオグラ_AOGRA)から翻訳されています。
 
 
 『**アオグラ**』は[2006年](../Page/2006年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。原作は[川上健一](../Page/川上健一.md "wikilink")の『[四月になれば彼女は](https://ja.wikipedia.org/wiki/四月になれば彼女は "wikilink")』。[シネハウス](../Page/シネハウス.md "wikilink")製作。[内田朝陽](https://ja.wikipedia.org/wiki/内田朝陽 "wikilink")の主演映画。2006年7月に第15回[あおもり映画祭](https://ja.wikipedia.org/wiki/あおもり映画祭 "wikilink")において先行上映された。第6回「[光州国際映画祭](https://ja.wikipedia.org/wiki/光州国際映画祭 "wikilink")」（[韓国](../Page/大韓民国.md "wikilink")）では、公式招待作品として上映されている。

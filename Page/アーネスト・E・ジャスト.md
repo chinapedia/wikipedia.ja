@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[アーネスト・E・ジャスト](https://ja.wikipedia.org/wiki/アーネスト・E・ジャスト)から翻訳されています。
 
 
 [Ernest_Everett_Just.jpg](https://ja.wikipedia.org/wiki/File:Ernest_Everett_Just.jpg "fig:Ernest_Everett_Just.jpg") **アーネスト・エヴェレット・ジャスト**（**Ernest Everett Just**, [1883年](../Page/1883年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink") – [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[10月27日](../Page/10月27日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")における[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")の[生物学](../Page/生物学.md "wikilink")者の草分け。ジャストは彼の成年期を海洋生物の標本の採集と分類と飼育に費やした。科学者は研究室で細胞をばらばらにして観察するよりもむしろ、標準状態下で研究すべきであると信じた。ジャストの主要な遺産は、有機体の発達における細胞表面の基本的な役割の認識であった。ジャストの主な伝記作家は、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")の[修辞学](../Page/修辞学.md "wikilink")教授の[ケネス・マニング](https://ja.wikipedia.org/wiki/ケネス・マニング "wikilink")である。

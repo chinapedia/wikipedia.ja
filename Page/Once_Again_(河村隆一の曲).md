@@ -1,4 +1,4 @@
-> この記事は[Once Again \(\)](https://ja.wikipedia.org/wiki/Once_Again_\(\))から翻訳されています。
+> この記事は[Once Again \(河村隆一の曲\)](https://ja.wikipedia.org/wiki/Once_Again_\(河村隆一の曲\))から翻訳されています。
 
 
 『**Once again**』（ワンスアゲイン）は[2007年](../Page/2007年.md "wikilink")10月31日に発売された河村隆一13枚目の[シングル](../Page/シングル.md "wikilink")。

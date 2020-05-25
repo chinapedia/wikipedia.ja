@@ -1,4 +1,4 @@
-> この記事は[Kiss \(\)](https://ja.wikipedia.org/wiki/Kiss_\(\))から翻訳されています。
+> この記事は[Kiss \(ブランド\)](https://ja.wikipedia.org/wiki/Kiss_\(ブランド\))から翻訳されています。
 
 
 **Kiss**（キス）は、株式会社ワークマンの[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ブランドである。なお、工場・土木現場向け用品専門店チェーンの株式会社[ワークマン](../Page/ワークマン.md "wikilink")とは同名だが無関係である。

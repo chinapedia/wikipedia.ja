@@ -1,7 +1,7 @@
-> この記事は[NOeL La neige depart chisatonana](https://ja.wikipedia.org/wiki/NOeL_La_neige_depart_chisatonana)から翻訳されています。
+> この記事は[NOeL 〜La neige〜 depart chisato×nana](https://ja.wikipedia.org/wiki/NOeL_〜La_neige〜_depart_chisato×nana)から翻訳されています。
 
 
-『**NOëL 〜La neige〜 départ chisato×nana**』（ノエル・ラ・ネージュ・デパール チサト・ナナ）は、[PlayStation用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[NOëL 〜La neige〜](https://ja.wikipedia.org/wiki/NOëL_〜La_neige〜 "wikilink")』のキャラクター・門倉千紗都の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。1998年9月26日・[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")より発売。
+『**départ chisato×nana**』（デパール チサト・ナナ）は、[PlayStation用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[NOëL 〜La neige〜](https://ja.wikipedia.org/wiki/NOëL_〜La_neige〜 "wikilink")』のキャラクター・門倉千紗都の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。
 
 ## 解説
 

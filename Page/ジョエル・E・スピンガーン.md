@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ジョエル・E・スピンガーン](https://ja.wikipedia.org/wiki/ジョエル・E・スピンガーン)から翻訳されています。
 
 
 **ジョエル・イライアス・スピンガーン** (Joel Elias Spingarn, [1875年](../Page/1875年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink") - [1939年](../Page/1939年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink"))は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の教育者、[文芸評論家](https://ja.wikipedia.org/wiki/文芸評論家 "wikilink")。

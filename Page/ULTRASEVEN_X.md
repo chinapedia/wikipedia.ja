@@ -5,13 +5,13 @@
 
 ## 概要
 
-『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』40周年記念作品。ウルトラ戦士の登場する作品としては初の[深夜帯放映作品](../Page/深夜特撮.md "wikilink")かつ初の1クール作品であり、実写作品としては[16:9](https://ja.wikipedia.org/wiki/16:9 "wikilink")のハイビジョン放送で制作された初の作品である。制作局は『[ネクサス](https://ja.wikipedia.org/wiki/ウルトラマンネクサス "wikilink")』から『[メビウス](https://ja.wikipedia.org/wiki/ウルトラマンメビウス "wikilink")』までの作品に引き続き、中部日本放送 (CBC) が務めている。ウルトラシリーズとしては最後の[地上アナログ放送](https://ja.wikipedia.org/wiki/地上アナログ放送 "wikilink")作品であると同時に、2017年時点ではTBS系列で放送された最後の作品でもある。
+『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』40周年記念作品。ウルトラ戦士の登場する作品としては初の[深夜帯放映作品](../Page/深夜特撮.md "wikilink")かつ初の1クール作品であり、実写作品としては[16:9](https://ja.wikipedia.org/wiki/16:9 "wikilink")のハイビジョン放送で制作された初の作品である。制作局は『[ネクサス](../Page/ウルトラマンネクサス.md "wikilink")』から『[メビウス](https://ja.wikipedia.org/wiki/ウルトラマンメビウス "wikilink")』までの作品に引き続き、中部日本放送 (CBC) が務めている。ウルトラシリーズとしては最後の[地上アナログ放送](https://ja.wikipedia.org/wiki/地上アナログ放送 "wikilink")作品であると同時に、2017年時点ではTBS系列で放送された最後の作品でもある。
 
-『セブン』は過去に、直接的な続編『[平成ウルトラセブン](../Page/平成ウルトラセブン.md "wikilink")』が制作されたが、本作品は新しい世界観での作品となる。企画はセブン好きを公言する[八木毅](https://ja.wikipedia.org/wiki/八木毅 "wikilink")の主導で行われ、併せて本作品のメイン監督とシリーズ構成も務めた。ただし、公式サイトには当初から「オリジナルのウルトラセブンとSEVEN Xの関係こそが全話を貫く最大の謎」という記述がされており、それは最終話にて明かされた。
+『セブン』は過去に、直接的な続編『[平成ウルトラセブン](../Page/平成ウルトラセブン.md "wikilink")』が制作されたが、本作品は新しい世界観での作品となる。企画はセブン好きを公言する[八木毅](../Page/八木毅.md "wikilink")の主導で行われ、併せて本作品のメイン監督とシリーズ構成も務めた。ただし、公式サイトには当初から「オリジナルのウルトラセブンとSEVEN Xの関係こそが全話を貫く最大の謎」という記述がされており、それは最終話にて明かされた。
 
 深夜特撮らしく「[ホラー](https://ja.wikipedia.org/wiki/ホラー "wikilink")」「怪奇」がメインとなっており、初期ウルトラシリーズで描かれていた「人間に寄生や擬態するエイリアン」、「人間社会に溶け込み、暗躍するエイリアン」がメインであるが、「人間自身がエイリアンの起こす事件の原因に関与している」という過去のウルトラシリーズとは異なる部分がある。また、SEVEN Xとエイリアンとの戦いがメインではなく、「エイリアンが起こす怪事件や殺人を組織が捜査し、その事件の首謀者であるエイリアンをSEVEN Xが倒す」という構図がメインとなっている。平成ウルトラシリーズとしては珍しく、エイリアンが起こす事件で死者が出たり、数か所であるが[流血](https://ja.wikipedia.org/wiki/流血 "wikilink")シーンが存在する。
 
-リアリティを重視するため、特撮パートは極力セットを抑え、実景との合成やCGが主体となっている。また、他のウルトラシリーズと比較して戦闘シーンが極めて少なく、ドラマパートに重点が置かれている。ウルトラシリーズでは初の本格的な[ワイヤーアクション](https://ja.wikipedia.org/wiki/ワイヤーアクション "wikilink")が取り入れられている点も、特徴の1つである。
+リアリティを重視するため、特撮パートは極力セットを抑え、実景との合成やCGが主体となっている。また、他のウルトラシリーズと比較して戦闘シーンが極めて少なく、ドラマパートに重点が置かれている。ウルトラシリーズでは初の本格的な[ワイヤーアクション](../Page/ワイヤーアクション.md "wikilink")が取り入れられている点も、特徴の1つである。
 
 「戦闘機などの巨大兵器」「組織内の統一された隊員服」とそれまでのウルトラシリーズの要素や、『セブン』『平成セブン』に登場した「カプセル怪獣」の要素は、本作品では踏襲されていない。
 
@@ -19,7 +19,7 @@
 
 ## 世界観
 
-近未来を思わせる、我々の世界とは似て非なる世界。あらゆる戦争やテロが根絶され、町には政府の意図やさまざまな情報を報じる[モニターが各所に設置されており](https://ja.wikipedia.org/wiki/ビデオモニター "wikilink")、人々はその情報によって支配される高度な管理社会を形成している。一方、第2話で[pH](../Page/水素イオン指数.md "wikilink")3.6の[酸性雨](https://ja.wikipedia.org/wiki/酸性雨 "wikilink")が降ることを報じる天気予報の内容から、[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")などは深刻化している可能性が高い。
+近未来を思わせる、我々の世界とは似て非なる世界。あらゆる戦争やテロが根絶され、町には政府の意図やさまざまな情報を報じる[モニターが各所に設置されており](https://ja.wikipedia.org/wiki/ビデオモニター "wikilink")、人々はその情報によって支配される高度な管理社会を形成している。一方、第2話で[pH](../Page/水素イオン指数.md "wikilink")3.6の[酸性雨](../Page/酸性雨.md "wikilink")が降ることを報じる天気予報の内容から、[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")などは深刻化している可能性が高い。
 
 ## あらすじ
 
@@ -37,7 +37,7 @@
 
   - ジン / ULTRASEVEN X
     25歳。本作品の主人公。DEUSのエージェント。記憶を失っているが、時折水に全身を包まれる感覚と白いドレスの女性と相対する自分の姿というイメージだけは残っている。寡黙だが内面は熱く、変身後のULTRASEVEN Xの力でこの世界を守ることを決意している。本来の性格も、Episode6で記憶を失う前に出会った隆男と初対面で意気投合して盛り上がるなど、暗いわけではない。エージェントとしての実力は高く、直感力や洞察力に優れ、瞬時の判断にも長ける。また、生身でもエイリアンに対抗できる戦闘力を有している。
-    記憶を失う前はエレアの恋人で、AQUA PROJECTの裏に潜むグラキエスの存在と陰謀に気付き、エレアにさまざまな情報を教えていた。最終局面でようやく全ての記憶を取り戻した。愛車は[キャディラック](https://ja.wikipedia.org/wiki/キャデラック "wikilink")[SRXで](../Page/キャデラック・SRX.md "wikilink")、他のDEUSエージェントからのウルトラガンによる攻撃を弾いていた。
+    記憶を失う前はエレアの恋人で、AQUA PROJECTの裏に潜むグラキエスの存在と陰謀に気付き、エレアにさまざまな情報を教えていた。最終局面でようやく全ての記憶を取り戻した。愛車は[キャディラック](../Page/キャデラック.md "wikilink")[SRXで](../Page/キャデラック・SRX.md "wikilink")、他のDEUSエージェントからのウルトラガンによる攻撃を弾いていた。
   - エレア
     22歳。本名・冴木エレア。本作品のヒロイン。ジンに「ウルトラアイ」を授けた。神出鬼没で、ジンに助言や警告を与えると同時に、彼の失った記憶を気に掛けている。
     DEUSのエージェントではなく、以前はAQUA PROJECTに関わっていた科学者であり、ジンからAQUA PROJECTの真実を聞かされ、地下でグラキエスへの抵抗活動を続けると同時に、記憶を失ったジンを導いていた。
@@ -86,8 +86,8 @@
   -
 
       -
-        エージェントたちが携帯する、対宇宙人用にカスタマイズされた小型[レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")銃。
-        『ウルトラセブン』で[ウルトラ警備隊](https://ja.wikipedia.org/wiki/ウルトラ警備隊 "wikilink")が使用していた銃と同名だが、形状は大きく異なり、銃身より銃把が多くを占める近未来的なものになっている。
+        エージェントたちが携帯する、対宇宙人用にカスタマイズされた小型[レーザー](../Page/レーザー.md "wikilink")銃。
+        『ウルトラセブン』で[ウルトラ警備隊](../Page/ウルトラ警備隊.md "wikilink")が使用していた銃と同名だが、形状は大きく異なり、銃身より銃把が多くを占める近未来的なものになっている。
         ゲーム『[怪獣バスターズ](https://ja.wikipedia.org/wiki/怪獣バスターズ "wikilink")』では、**ウルトラガンX**という名称で登場している。
           - 本体はアルミの削り出しで製作されたが、予算の都合で1丁のみが製作され、そのほかは樹脂製のものが製作された。
           - 後にDVDVol.5プレミアムエディションの特典として商品化された。
@@ -131,10 +131,13 @@
       - 『[ウルトラマンX](https://ja.wikipedia.org/wiki/ウルトラマンX "wikilink")』に登場するマーキンド星人
         第14話「光る大空、繋がる大地」に登場。身長・体重は初代と同じ。
         [メカゴモラのスパークドールズとXioが保有するスパークドールズの情報を](https://ja.wikipedia.org/wiki/ウルトラ銀河伝説外伝_ウルトラマンゼロVSダークロプスゼロ#メカロボット怪獣_メカゴモラ "wikilink")[ギナ・スペクターに提供するが](https://ja.wikipedia.org/wiki/ウルトラマンX#幻影宇宙女王_ギナ・スペクター "wikilink")、その代金を請求した際に[シャプレー星人によって銃殺される](https://ja.wikipedia.org/wiki/ウルトラセブンの登場怪獣#『ウルトラマンX』に登場するシャプレー星人 "wikilink")。
-          - 声：[金子はりい](https://ja.wikipedia.org/wiki/かねこはりい "wikilink")
+          - 声：[金子はりい](../Page/かねこはりい.md "wikilink")
           - 「X」つながりで起用されたほか、第5話で[ナックル星人バンデロが取り引きをしようとしていた相手でもあったという裏設定がある](https://ja.wikipedia.org/wiki/ナックル星人#ナックル星人バンデロ "wikilink")。
       - 『[ウルトラマンタイガ](https://ja.wikipedia.org/wiki/ウルトラマンタイガ "wikilink")』に登場するマーキンド星人
         第1話「バディゴー！」に登場。
+          - 身長：1.8メートル\[1\]
+          - 体重：85キログラム\[2\]
+        地球の衛星軌道上にある宇宙船で怪獣や兵器のオークションを主催している。第25話にてE.G.I.Sの会計に就職した。
 
   -
     Episode4「DIAMOND"S"」に登場。英字表記は*PEGINERA*。
@@ -180,7 +183,7 @@
       - 体重：70キログラム
       - 出身：ヴァイロ星
 
-    地球を侵略するために先兵を送り込んでいた[ヒューマノイド](https://ja.wikipedia.org/wiki/ヒューマノイド "wikilink")型エイリアン。死ぬと跡形もなく消滅してしまう。侵略を行う兵士は最高権力者から白い仮面を直接手渡され、死ぬまでその仮面を外してはならない。先遣隊として地球へ侵入し、侵略のための調査を行っていたナタルは地球への愛から仮面を外してしまったため、反逆者としてかつての同胞たちから命を狙われていた。統制の取れた集団行動を行いながら、仮面の口元に取り付けられた円形の装置に両手を当てて強力な衝撃波を伴う甲高い声を発し、敵を攻撃する。ウルトラガンの攻撃を素手で偏向した隊長格とうかがえる個体もいたが、全員がエージェントやナタルによって駆逐される。隊長格とうかがえる個体は、死ぬ間際に宇宙船からバドリュードを出現させる。
+    地球を侵略するために先兵を送り込んでいた[ヒューマノイド](../Page/ヒューマノイド.md "wikilink")型エイリアン。死ぬと跡形もなく消滅してしまう。侵略を行う兵士は最高権力者から白い仮面を直接手渡され、死ぬまでその仮面を外してはならない。先遣隊として地球へ侵入し、侵略のための調査を行っていたナタルは地球への愛から仮面を外してしまったため、反逆者としてかつての同胞たちから命を狙われていた。統制の取れた集団行動を行いながら、仮面の口元に取り付けられた円形の装置に両手を当てて強力な衝撃波を伴う甲高い声を発し、敵を攻撃する。ウルトラガンの攻撃を素手で偏向した隊長格とうかがえる個体もいたが、全員がエージェントやナタルによって駆逐される。隊長格とうかがえる個体は、死ぬ間際に宇宙船からバドリュードを出現させる。
 
       - スーツアクター：相馬絢也
       - 書籍『円谷プロ全怪獣図鑑』では、ナタルの数値を「身長：166センチ、体重：47キロ」と記載している。
@@ -215,6 +218,11 @@
       - 『[ウルトラマンオーブ](https://ja.wikipedia.org/wiki/ウルトラマンオーブ "wikilink")』に登場するヒュプナス
         2017年3月11日公開の『[劇場版 ウルトラマンオーブ 絆の力、おかりします\!](https://ja.wikipedia.org/wiki/ウルトラマンオーブ#映画 "wikilink")』に登場。
         宇宙魔女賊ムルナウ配下の宇宙人の1体。公開に先駆け、[セミ女など異星人たちと一緒の背広姿が公表されている](https://ja.wikipedia.org/wiki/ウルトラQ_dark_fantasyの登場怪獣#遊星人_セミ女 "wikilink")。本編では、大空大地を探すSSPメンバーをセミ女・クカラッチ星人・ガルメス人とともに襲撃する。
+      - 『ウルトラマンタイガ』に登場するヒュプナス
+        第9話「それぞれの今」に登場。
+          - 身長：1.8メートル\[3\]
+          - 体重：75キログラム\[4\]
+        ヴィランギルドの一員として登場。行方マイコの持つ小瓶を狙って襲いかかるがヒロユキ達に妨害される。最後は小瓶から復活したマジャッパの放った攻撃が直撃し死亡した。
 
   -
     Episode9「RED MOON」に登場。英字表記は*JYUUJIN*。
@@ -262,91 +270,91 @@
 ### レギュラー・準レギュラー
 
   - ジン / ULTRASEVEN X（声） - [与座重理久](../Page/与座重理久.md "wikilink")
-  - エレア - [加賀美早紀](https://ja.wikipedia.org/wiki/加賀美早紀 "wikilink")
+  - エレア - [加賀美早紀](../Page/加賀美早紀.md "wikilink")
   - ケイ - [脇﨑智史](../Page/脇崎智史.md "wikilink")
   - エス - [伴杏里](https://ja.wikipedia.org/wiki/伴杏里 "wikilink")
-  - DEUS司令（声） - [夏木陽介](https://ja.wikipedia.org/wiki/夏木陽介 "wikilink")
-  - 政府放送のキャスター - [宮本賢一](https://ja.wikipedia.org/wiki/宮本賢一 "wikilink")、[莇陽子](https://ja.wikipedia.org/wiki/莇陽子 "wikilink")
+  - DEUS司令（声） - [夏木陽介](../Page/夏木陽介.md "wikilink")
+  - 政府放送のキャスター - [宮本賢一](../Page/宮本賢一.md "wikilink")、[莇陽子](../Page/莇陽子.md "wikilink")
   - 支配者たち - 千葉誠樹、[ナカヤマミチコ](https://ja.wikipedia.org/wiki/ナカヤマミチコ "wikilink")、[野口雅弘](https://ja.wikipedia.org/wiki/野口雅弘_\(俳優\) "wikilink")（1・10 - 12）
 
 ### ゲスト
 
   - エイリアン集団のキング - [大谷朗](../Page/大谷朗.md "wikilink")（1）
   - エイリアン集団のクイーン - [MiWa](https://ja.wikipedia.org/wiki/MiWa "wikilink")（1）
-  - タキザワ行政官 - [須永慶](https://ja.wikipedia.org/wiki/須永慶 "wikilink")（1）
+  - タキザワ行政官 - [須永慶](../Page/須永慶.md "wikilink")（1）
   - マキシマムコーポレーション社員 - [沼崎悠](../Page/沼崎悠.md "wikilink")（1）
   - 報道局員 - [茂木和範](https://ja.wikipedia.org/wiki/茂木和範 "wikilink")（1）
-  - エリコ - [宮下ともみ](https://ja.wikipedia.org/wiki/宮下ともみ "wikilink")（2）
-  - アール - [渡来敏之](https://ja.wikipedia.org/wiki/渡来敏之 "wikilink")（2）
+  - エリコ - [宮下ともみ](../Page/宮下ともみ.md "wikilink")（2）
+  - アール - [渡来敏之](../Page/渡来敏之.md "wikilink")（2）
   - タクシー運転手 - [佐藤祐一](https://ja.wikipedia.org/wiki/佐藤祐一 "wikilink")（2）
   - 少女 - [安川結花](https://ja.wikipedia.org/wiki/安川結花 "wikilink")（2）
   - タマル / マーキンド星人（声） - [小宮孝泰](../Page/小宮孝泰.md "wikilink")（3）
   - シマザキ・ユウジ - [篠原剛](https://ja.wikipedia.org/wiki/篠原剛 "wikilink")（3）
-  - ルイ - [藤井貴規](https://ja.wikipedia.org/wiki/藤井貴規 "wikilink")（3）
+  - ルイ - [藤井貴規](../Page/藤井貴規.md "wikilink")（3）
   - サユリ - 坂東美佳（3）
   - ホープレス - 加藤翔平、高橋和喜（3）
   - アナウンサー - 河井春香（3）
-  - 田崎 - [エド山口](https://ja.wikipedia.org/wiki/エド山口 "wikilink")（4）
+  - 田崎 - [エド山口](../Page/エド山口.md "wikilink")（4）
   - 山根 - 岡部務（4）
   - CM出演者 - [上田晴美](https://ja.wikipedia.org/wiki/上田晴美 "wikilink")（4）
   - ペジネラに寄生された人々 - 小山真理亜（女子高生）、佐野珠美（女性）、八代康次（老人）（4）
   - ミイラ化した男 - 深沢尚吾（4）
   - 小学生 - [川村悠椰](https://ja.wikipedia.org/wiki/川村悠椰 "wikilink")（4）
   - 細身の男 / チャムダ星人 - [やべけんじ](../Page/やべけんじ.md "wikilink")（5）
-  - 研究員 - [筒井巧](https://ja.wikipedia.org/wiki/筒井巧 "wikilink")（5）
+  - 研究員 - [筒井巧](../Page/筒井巧.md "wikilink")（5）
   - 酒屋の主人 - 田村三郎（5）
   - ラーメン屋女将 - 管真紀（5）
   - 酔っ払い - [亀山助清](../Page/亀山助清.md "wikilink")（5）
-  - タカオ（日多隆男） - [唐橋充](https://ja.wikipedia.org/wiki/唐橋充 "wikilink")（6）
+  - タカオ（日多隆男） - [唐橋充](../Page/唐橋充.md "wikilink")（6）
   - アリサ - [及川奈央](https://ja.wikipedia.org/wiki/及川奈央 "wikilink")（6）
-  - 光の魂（声） - [今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")（6）
+  - 光の魂（声） - [今井麻美](../Page/今井麻美.md "wikilink")（6）
   - CM出演者 - 金山孝之（6）
-  - 会社員 - [小林雄次](https://ja.wikipedia.org/wiki/小林雄次 "wikilink")（6）※[カメオ出演](../Page/カメオ出演.md "wikilink")
-  - ナタル - [石川紗彩](https://ja.wikipedia.org/wiki/石川紗彩 "wikilink")（7）
-  - ディー - [小田井涼平](https://ja.wikipedia.org/wiki/小田井涼平 "wikilink")（7）
+  - 会社員 - [小林雄次](../Page/小林雄次.md "wikilink")（6）※[カメオ出演](../Page/カメオ出演.md "wikilink")
+  - ナタル - [石川紗彩](../Page/石川紗彩.md "wikilink")（7）
+  - ディー - [小田井涼平](../Page/小田井涼平.md "wikilink")（7）
   - ストリートシンガー - 海老岡宏子（7）
-  - アガタ・キョウスケ / ヒュプナス（声） - [黒田勇樹](https://ja.wikipedia.org/wiki/黒田勇樹 "wikilink")（8）
-  - アガタ・アサミ - [川村ゆきえ](https://ja.wikipedia.org/wiki/川村ゆきえ "wikilink")（8）
-  - サメオ - [伊藤友樹](https://ja.wikipedia.org/wiki/伊藤友樹 "wikilink")（8）
+  - アガタ・キョウスケ / ヒュプナス（声） - [黒田勇樹](../Page/黒田勇樹.md "wikilink")（8）
+  - アガタ・アサミ - [川村ゆきえ](../Page/川村ゆきえ.md "wikilink")（8）
+  - サメオ - [伊藤友樹](../Page/伊藤友樹.md "wikilink")（8）
   - 過去に出現したヒュプナス - [五藤圭子](../Page/五藤圭子.md "wikilink")、[原武昭彦](https://ja.wikipedia.org/wiki/原武昭彦 "wikilink")（8）
   - ドラッグシンジケートの一員 - [浅井孝行](https://ja.wikipedia.org/wiki/淺井孝行 "wikilink")、[小幡誠](https://ja.wikipedia.org/wiki/小幡誠 "wikilink") （8）
-  - 尾形俊行（朔） - [高野八誠](https://ja.wikipedia.org/wiki/高野八誠 "wikilink")（9）
+  - 尾形俊行（朔） - [高野八誠](../Page/高野八誠.md "wikilink")（9）
   - まひる - [中村果生莉](../Page/中村果生莉.md "wikilink")（9）
   - 望 / 獣人（声） - 小笠原宙（9）
-  - 敷島教授 - [堀内正美](https://ja.wikipedia.org/wiki/堀内正美 "wikilink")（9）
-  - 獣人に襲われた女 - [吉田智美](https://ja.wikipedia.org/wiki/吉田智美_\(女優\) "wikilink")（9）
+  - 敷島教授 - [堀内正美](../Page/堀内正美.md "wikilink")（9）
+  - 獣人に襲われた女 - [吉田智美](../Page/吉田智美_\(女優\).md "wikilink")（9）
   - 図書館職員 - 永井博章（9）
-  - サキ - [中丸シオン](https://ja.wikipedia.org/wiki/中丸シオン "wikilink")（10）
+  - サキ - [中丸シオン](../Page/中丸シオン.md "wikilink")（10）
   - ハイバラ - [北岡龍貴](../Page/北岡龍貴.md "wikilink")（10）
-  - [友里アンヌ](https://ja.wikipedia.org/wiki/ウルトラ警備隊#友里アンヌ "wikilink") - [ひし美ゆり子](https://ja.wikipedia.org/wiki/ひし美ゆり子 "wikilink")（12）
-  - [モロボシ・ダン / ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")（声） - [森次晃嗣](https://ja.wikipedia.org/wiki/森次晃嗣 "wikilink")（12）
+  - [友里アンヌ](https://ja.wikipedia.org/wiki/ウルトラ警備隊#友里アンヌ "wikilink") - [ひし美ゆり子](../Page/ひし美ゆり子.md "wikilink")（12）
+  - [モロボシ・ダン / ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")（声） - [森次晃嗣](../Page/森次晃嗣.md "wikilink")（12）
 
 ### スーツアクター
 
-  - ULTRASEVEN X\[1\] - [新上博巳](https://ja.wikipedia.org/wiki/新上博巳 "wikilink")\[2\]
+  - ULTRASEVEN X\[5\] - [新上博巳](../Page/新上博巳.md "wikilink")\[6\]
   - 相馬絢也、[西村郎](https://ja.wikipedia.org/wiki/西村郎 "wikilink")、[岩田栄慶](https://ja.wikipedia.org/wiki/岩田栄慶 "wikilink")、[福田大助](https://ja.wikipedia.org/wiki/福田大助_\(スーツアクター\) "wikilink")
 
 ## スタッフ
 
   - 監修・製作 - [円谷一夫](../Page/円谷一夫.md "wikilink")
-  - 製作統括 - [大岡新一](https://ja.wikipedia.org/wiki/大岡新一 "wikilink")
-  - 企画 - 江藤直行（円谷プロ）、平山博志（[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")）、林朋夫（[電通](../Page/電通.md "wikilink")）、[岡崎剛之](../Page/岡崎剛之.md "wikilink")（CBC）
+  - 製作統括 - [大岡新一](../Page/大岡新一.md "wikilink")
+  - 企画 - 江藤直行（円谷プロ）、平山博志（[バップ](../Page/バップ.md "wikilink")）、林朋夫（[電通](../Page/電通.md "wikilink")）、[岡崎剛之](../Page/岡崎剛之.md "wikilink")（CBC）
   - 企画協力 - [渋谷浩康](../Page/渋谷浩康.md "wikilink")
   - プロデューサー - 表有希子（円谷プロ）、近貞博（バップ）、山西太平（電通）、岩佐芳弘（CBC）
   - 制作プロデューサー - 小山信行
-  - シリーズ構成 - [八木毅](https://ja.wikipedia.org/wiki/八木毅 "wikilink")
+  - シリーズ構成 - [八木毅](../Page/八木毅.md "wikilink")
   - 音楽プロデューサー - 玉川静
   - 音楽ディレクター - 田靡秀樹
   - 音楽 - 斎藤高広 featuring 菰口雄矢
   - アクション監督 - [小池達朗](https://ja.wikipedia.org/wiki/小池達朗 "wikilink")
   - ULTRASEVEN Xデザイン・画コンテ - [酉澤安施](https://ja.wikipedia.org/wiki/酉澤安施 "wikilink")
   - 小道具デザイン - [丸山浩](https://ja.wikipedia.org/wiki/丸山浩_\(デザイナー\) "wikilink")
-  - ULTRASEVEN Xマスク造形 - [原口智生](https://ja.wikipedia.org/wiki/原口智生 "wikilink")、香西信介
+  - ULTRASEVEN Xマスク造形 - [原口智生](../Page/原口智生.md "wikilink")、香西信介
   - エイリアン造形 - 吉松学、橋本琢、田原俊
-  - エイリアンデザイン - [さとうけいいち](https://ja.wikipedia.org/wiki/さとうけいいち "wikilink")
+  - エイリアンデザイン - [さとうけいいち](../Page/さとうけいいち.md "wikilink")
   - CG - 円谷プロCGIルーム、KIDS
-  - スタジオ - [東宝ビルト](https://ja.wikipedia.org/wiki/東宝ビルト "wikilink")
-  - 協力 - [京楽産業.](https://ja.wikipedia.org/wiki/京楽産業. "wikilink")
+  - スタジオ - [東宝ビルト](../Page/東宝ビルト.md "wikilink")
+  - 協力 - [京楽産業.](../Page/京楽産業..md "wikilink")
   - 製作委員会 - 円谷プロダクション、バップ、電通、[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")
   - 製作・著作 - 円谷プロダクション、中部日本放送、ULTRASEVEN X PROJECT
 
@@ -361,7 +369,7 @@
 <th><p>登場エイリアン</p></th>
 <th><p>脚本</p></th>
 <th><p>監督</p></th>
-<th><p>視聴率[3]</p></th>
+<th><p>視聴率[7]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -370,8 +378,8 @@
 <td><p>10月5日</p></td>
 <td><p>DREAM</p></td>
 <td><p>時空生命体ガルキメス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林雄次" title="wikilink">小林雄次</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八木毅" title="wikilink">八木毅</a></p></td>
+<td><p><a href="../Page/小林雄次.md" title="wikilink">小林雄次</a></p></td>
+<td><p><a href="../Page/八木毅.md" title="wikilink">八木毅</a></p></td>
 <td><p>1.8%</p></td>
 </tr>
 <tr class="even">
@@ -379,7 +387,7 @@
 <td><p>10月12日</p></td>
 <td><p>CODE NAME"R"</p></td>
 <td><p>‐</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田愛" title="wikilink">太田愛</a></p></td>
+<td><p><a href="../Page/太田愛.md" title="wikilink">太田愛</a></p></td>
 <td><p>1.2%</p></td>
 <td></td>
 </tr>
@@ -388,8 +396,8 @@
 <td><p>10月19日</p></td>
 <td><p>HOPELESS</p></td>
 <td><p>マーキンド星人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福田卓郎" title="wikilink">福田卓郎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木健二_(特撮監督)" title="wikilink">鈴木健二</a></p></td>
+<td><p><a href="../Page/福田卓郎.md" title="wikilink">福田卓郎</a></p></td>
+<td><p><a href="../Page/鈴木健二_(特撮監督).md" title="wikilink">鈴木健二</a></p></td>
 <td><p>1.9%</p></td>
 </tr>
 <tr class="even">
@@ -417,7 +425,7 @@
 <td><p>TRAVELER</p></td>
 <td><p>-</p></td>
 <td><p>小林雄次</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梶研吾" title="wikilink">梶研吾</a></p></td>
+<td><p><a href="../Page/梶研吾.md" title="wikilink">梶研吾</a></p></td>
 <td><p>1.8%</p></td>
 </tr>
 <tr class="odd">
@@ -435,8 +443,8 @@
 <td><p>11月23日</p></td>
 <td><p>BLOOD MESSAGE</p></td>
 <td><p>殺戮宇宙人ヒュプナス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長谷川圭一" title="wikilink">長谷川圭一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小中和哉" title="wikilink">小中和哉</a></p></td>
+<td><p><a href="../Page/長谷川圭一.md" title="wikilink">長谷川圭一</a></p></td>
+<td><p><a href="../Page/小中和哉.md" title="wikilink">小中和哉</a></p></td>
 <td><p>1.2%</p></td>
 </tr>
 <tr class="odd">
@@ -534,7 +542,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBSチャンネル" title="wikilink">TBSチャンネル</a></p></td>
+<td><p><a href="../Page/TBSチャンネル.md" title="wikilink">TBSチャンネル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/1月11日.md" title="wikilink">1月11日</a> - <a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
 <td><p>金曜 22:00 - 22:30</p></td>
 <td><p><a href="../Page/日本における衛星放送.md" title="wikilink">CS放送</a></p></td>
@@ -542,7 +550,7 @@
 </tbody>
 </table>
 
-後年には[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")\[4\]や[KBS京都](../Page/京都放送.md "wikilink")\[5\]でも放送されたほか、[インターネット配信](https://ja.wikipedia.org/wiki/インターネット配信 "wikilink")が[バンダイチャンネル](https://ja.wikipedia.org/wiki/バンダイチャンネル "wikilink")や[日テレオンデマンド](https://ja.wikipedia.org/wiki/日テレオンデマンド "wikilink")などで行なわれている\[6\]\[7\]。
+後年には[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")\[8\]や[KBS京都](../Page/京都放送.md "wikilink")\[9\]でも放送されたほか、[インターネット配信](https://ja.wikipedia.org/wiki/インターネット配信 "wikilink")が[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")や[日テレオンデマンド](https://ja.wikipedia.org/wiki/日テレオンデマンド "wikilink")などで行なわれている\[10\]\[11\]。
 
 ## 映像ソフト化　
 
@@ -550,7 +558,7 @@
 
 ## 小説版
 
-[ホビージャパン](../Page/ホビージャパン.md "wikilink")刊。[小林雄次](https://ja.wikipedia.org/wiki/小林雄次 "wikilink")、小林英造による[ノベライズ](https://ja.wikipedia.org/wiki/ノベライズ "wikilink")作品。カバーデザインはEpisode.6でタカオ役を演じた[唐橋充](https://ja.wikipedia.org/wiki/唐橋充 "wikilink")が担当し、挿絵は[酉澤安施](https://ja.wikipedia.org/wiki/酉澤安施 "wikilink")が担当している。
+[ホビージャパン](../Page/ホビージャパン.md "wikilink")刊。[小林雄次](../Page/小林雄次.md "wikilink")、小林英造による[ノベライズ](https://ja.wikipedia.org/wiki/ノベライズ "wikilink")作品。カバーデザインはEpisode.6でタカオ役を演じた[唐橋充](../Page/唐橋充.md "wikilink")が担当し、挿絵は[酉澤安施](https://ja.wikipedia.org/wiki/酉澤安施 "wikilink")が担当している。
 
 ## 脚注
 
@@ -583,10 +591,14 @@
 
 [Category:ウルトラセブン](https://ja.wikipedia.org/wiki/Category:ウルトラセブン "wikilink") [Category:ウルトラシリーズの特撮テレビドラマ](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズの特撮テレビドラマ "wikilink") [Category:CBCテレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:CBCテレビの深夜ドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:ディストピアドラマ](https://ja.wikipedia.org/wiki/Category:ディストピアドラマ "wikilink") [Category:ホラードラマ](https://ja.wikipedia.org/wiki/Category:ホラードラマ "wikilink")
 
-1.  『週刊ウルトラマンオフィシャルデータファイル』第37号エピソードガイドより。
-2.  [ULTRASEVEN X。 - 新上参上](http://blog.goo.ne.jp/shinjo-sanjo/e/be21ed520b4e5b69ff96fe5acaed4c13)
-3.  ビデオリサーチ調べ（関東地区）\*テレビ視聴率季報
-4.  [ULTRASEVEN X](https://www.fami-geki.com/detail/index.php?fami_id=00138) - ファミリー劇場
-5.  [ウルトラセブンX](http://www.kbs-kyoto.co.jp/tv/anime/m-78-sevenx/) - KBS京都
-6.  [ULTRASEVEN X](http://www.b-ch.com/ttl/index.php?ttl_c=2928) - バンダイチャンネル
-7.  [ULTRASEVEN X](https://vod.ntv.co.jp/program/sevenx/) - 日テレオンデマンド
+1.
+2.
+3.
+4.
+5.  『週刊ウルトラマンオフィシャルデータファイル』第37号エピソードガイドより。
+6.  [ULTRASEVEN X。 - 新上参上](http://blog.goo.ne.jp/shinjo-sanjo/e/be21ed520b4e5b69ff96fe5acaed4c13)
+7.  ビデオリサーチ調べ（関東地区）\*テレビ視聴率季報
+8.  [ULTRASEVEN X](https://www.fami-geki.com/detail/index.php?fami_id=00138) - ファミリー劇場
+9.  [ウルトラセブンX](http://www.kbs-kyoto.co.jp/tv/anime/m-78-sevenx/) - KBS京都
+10. [ULTRASEVEN X](http://www.b-ch.com/ttl/index.php?ttl_c=2928) - バンダイチャンネル
+11. [ULTRASEVEN X](https://vod.ntv.co.jp/program/sevenx/) - 日テレオンデマンド

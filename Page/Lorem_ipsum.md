@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:LoremIpsumDesign.png "wikilink")
 
-**lorem ipsum**（ロレム・イプサム、略してリプサム lipsum ともいう）とは、[出版](../Page/出版.md "wikilink")、[ウェブデザイン](https://ja.wikipedia.org/wiki/ウェブデザイン "wikilink")、[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")などの諸分野において使用されている典型的なダミーテキスト。[書籍や](../Page/本.md "wikilink")[ウェブページ](../Page/ウェブページ.md "wikilink")や[広告](../Page/広告.md "wikilink")などのデザインのプロトタイプを制作したり顧客に[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")したりする際に、まだ正式な文章の出来上がっていないテキスト部分の[書体](../Page/書体.md "wikilink")（[フォント](../Page/フォント.md "wikilink")）、[タイポグラフィ](https://ja.wikipedia.org/wiki/タイポグラフィ "wikilink")、[レイアウト](https://ja.wikipedia.org/wiki/レイアウト "wikilink")などといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。
+**lorem ipsum**（ロレム・イプサム、略してリプサム lipsum ともいう）とは、[出版](../Page/出版.md "wikilink")、[ウェブデザイン](../Page/ウェブデザイン.md "wikilink")、[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")などの諸分野において使用されている典型的なダミーテキスト。[書籍や](../Page/本.md "wikilink")[ウェブページ](../Page/ウェブページ.md "wikilink")や[広告](../Page/広告.md "wikilink")などのデザインのプロトタイプを制作したり顧客に[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")したりする際に、まだ正式な文章の出来上がっていないテキスト部分の[書体](../Page/書体.md "wikilink")（[フォント](../Page/フォント.md "wikilink")）、[タイポグラフィ](../Page/タイポグラフィ.md "wikilink")、[レイアウト](../Page/レイアウト.md "wikilink")などといった視覚的なデザインを調整したりわかりやすく見せるために用いられる。
 
 「lorem ipsum」は様々なバリエーションがあるが、もっとも一般的なテキストは以下の通りである。
 
@@ -11,7 +11,7 @@
 
 文書のレイアウトを決める際、テキストの入る部分はべた塗りや記号にするよりは実際の出来上がりに近いフォントによる文章を入れた方が完成時の姿を想像しやすい。しかし一方で、文章が入ると文書全体のデザインよりも文章の内容の方に意識が集中してしまう。そこで欧米などの出版業界やデザイン業界ではタイポグラフィやレイアウトにプレゼンテーションの焦点を当てるため、意味の全くない文字の羅列をテキスト部分に流し込む。
 
-こういった意味不明のダミーテキストを、[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")（英語圏などでは意味のわからない文章の典型としてギリシャ語が引き合いに出される）にちなみ「」という\[1\]。「lorem ipsum」は、英米の出版業界で[1960年代](../Page/1960年代.md "wikilink")かそれ以前の活版印刷の時代から使われた\[2\]典型的なグリーキング用の文字列であるが、これはギリシア語ではなく[ラテン語](../Page/ラテン語.md "wikilink")がもとである。「lorem ipsum」は[古典ラテン語](https://ja.wikipedia.org/wiki/古典ラテン語 "wikilink")に非常によく似ているが、実際には全く意味を持たないように作られている\[3\]。
+こういった意味不明のダミーテキストを、[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")（英語圏などでは意味のわからない文章の典型としてギリシャ語が引き合いに出される）にちなみ「」という\[1\]。「lorem ipsum」は、英米の出版業界で[1960年代](../Page/1960年代.md "wikilink")かそれ以前の活版印刷の時代から使われた\[2\]典型的なグリーキング用の文字列であるが、これはギリシア語ではなく[ラテン語](../Page/ラテン語.md "wikilink")がもとである。「lorem ipsum」は[古典ラテン語](../Page/古典ラテン語.md "wikilink")に非常によく似ているが、実際には全く意味を持たないように作られている\[3\]。
 
 このテキストが現在の形になったのはいつであるかは正確にはわからないが、おそくとも[1960年代](../Page/1960年代.md "wikilink")と考えられている。特にイギリスのLetraset社の書体見本の広告で長年使われ有名になった\[4\]。今日の一般的なバージョンは、[アルダス](../Page/アルダス.md "wikilink")社が[1980年代](../Page/1980年代.md "wikilink")半ばに[Macintosh](../Page/Macintosh.md "wikilink")向けに開発した史上初の[DTP](../Page/DTP.md "wikilink")ソフト「Aldus PageMaker」（現在の「[Adobe PageMaker](../Page/Adobe_PageMaker.md "wikilink")」）のために作られた\[5\]。アートディレクターのローラ・ペリー（Laura Perry）はタイポグラフィの見本から古い形の「lorem ipsum」テキストを取り出してソフトに使用されるダミーテキストに採用した\[6\]。この「lorem」テキストは現在もPageMakerのテンプレートに使用されている。
 
@@ -51,8 +51,8 @@
 ## 関連項目
 
   - [etaoin shrdlu](https://ja.wikipedia.org/wiki/etaoin_shrdlu "wikilink")
-  - [パングラム](https://ja.wikipedia.org/wiki/パングラム "wikilink")
-  - [The quick brown fox jumps over the lazy dog](https://ja.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog "wikilink")
+  - [パングラム](../Page/パングラム.md "wikilink")
+  - [The quick brown fox jumps over the lazy dog](../Page/The_quick_brown_fox_jumps_over_the_lazy_dog.md "wikilink")
 
 ## 脚注
 
@@ -62,6 +62,7 @@
 
   - [Lorem Ipsum](http://www.lorem-ipsum.info) - Loremテキストの解説、および自動生成サイト
   - [The Straight Dope](http://www.straightdope.com/columns/010216.html) — Cecil Adams' explanation of Lorem ipsum.\]
+  - [Lorem Ipsum Generator](http://lipsum.mobi) - Lorem Ipsumダミーテキスト生成サイト
 
 [Category:書体](https://ja.wikipedia.org/wiki/Category:書体 "wikilink") [Category:タイポグラフィ](https://ja.wikipedia.org/wiki/Category:タイポグラフィ "wikilink") [Category:DTP](https://ja.wikipedia.org/wiki/Category:DTP "wikilink") [Category:印刷](https://ja.wikipedia.org/wiki/Category:印刷 "wikilink") [Category:ナンセンス](https://ja.wikipedia.org/wiki/Category:ナンセンス "wikilink") [Category:ラテン語の成句](https://ja.wikipedia.org/wiki/Category:ラテン語の成句 "wikilink")
 

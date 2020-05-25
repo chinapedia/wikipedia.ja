@@ -1,25 +1,25 @@
 > この記事は[ESET Smart Security](https://ja.wikipedia.org/wiki/ESET_Smart_Security)から翻訳されています。
 
 
-**ESET Smart Security**（イーセットスマートセキュリティ）とは、[スロバキア](../Page/スロバキア.md "wikilink")に本社を持つ[ESET](https://ja.wikipedia.org/wiki/ESET "wikilink")社が開発した[インターネットセキュリティスイート](https://ja.wikipedia.org/wiki/インターネットセキュリティスイート "wikilink")。**ESET**（イーセット）とは、エジプト神話の女神「[イシス](../Page/イシス.md "wikilink")」のスロバキア語に由来して名付けられた。
+**ESET Smart Security**（イーセットスマートセキュリティ）とは、[スロバキア](../Page/スロバキア.md "wikilink")に本社を持つ[ESET](https://ja.wikipedia.org/wiki/ESET "wikilink")社が開発した[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")。**ESET**（イーセット）とは、エジプト神話の女神「[イシス](../Page/イシス.md "wikilink")」のスロバキア語に由来して名付けられた。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でのパッケージ・ダウンロード版・法人向けの販売・サポートは[キヤノンITソリューションズ](../Page/キヤノンITソリューションズ.md "wikilink")が担当。
 
-ESET Internet Securityは[ESET](https://ja.wikipedia.org/wiki/ESET "wikilink")社が開発した[NOD32アンチウイルス](https://ja.wikipedia.org/wiki/NOD32アンチウイルス "wikilink")の上位版である。[NOD32アンチウイルス](https://ja.wikipedia.org/wiki/NOD32アンチウイルス "wikilink")に[パーソナルファイアウォールや迷惑メール対策などの機能を追加して](../Page/ファイアウォール.md "wikilink")、[2007年](../Page/2007年.md "wikilink")（平成19年）[11月](../Page/11月.md "wikilink")に発売された。
+ESET Internet Securityは[ESET](https://ja.wikipedia.org/wiki/ESET "wikilink")社が開発した[NOD32アンチウイルス](../Page/NOD32アンチウイルス.md "wikilink")の上位版である。[NOD32アンチウイルス](../Page/NOD32アンチウイルス.md "wikilink")に[パーソナルファイアウォールや迷惑メール対策などの機能を追加して](../Page/ファイアウォール.md "wikilink")、[2007年](../Page/2007年.md "wikilink")（平成19年）[11月](../Page/11月.md "wikilink")に発売された。
 
 __TOC__{{-}}
 
 ## 概要
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で大きなシェアを占める[シマンテック](https://ja.wikipedia.org/wiki/シマンテック "wikilink")社や[トレンドマイクロ](https://ja.wikipedia.org/wiki/トレンドマイクロ "wikilink")社のアンチウイルスソフトと比較して、プログラムサイズや[定義ファイルが軽量コンパクトで動作が速いなどの特徴を持つ](https://ja.wikipedia.org/wiki/パターンファイル "wikilink")。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink") 情報基盤センター・[鹿児島大学](../Page/鹿児島大学.md "wikilink")・[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")生産工学部・[国立天文台](https://ja.wikipedia.org/wiki/国立天文台 "wikilink")をはじめ、病院・教育施設・研究機関・官庁・地方自治体などで幅広く導入されている\[1\]。なお、日本大学生産工学部では2002年（平成14年）、1年をかけて\[2\]キャノンITソリューソンズと実証実験を行い、[ヒューリスティックス](https://ja.wikipedia.org/wiki/ヒューリスティックス "wikilink")機能の有効性により2005年（平成17年）から採用された。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で大きなシェアを占める[ノートンライフロック](../Page/ノートンライフロック.md "wikilink")社や[トレンドマイクロ](../Page/トレンドマイクロ.md "wikilink")社のアンチウイルスソフトと比較して、プログラムサイズや[定義ファイルが軽量コンパクトで動作が速いなどの特徴を持つ](https://ja.wikipedia.org/wiki/パターンファイル "wikilink")。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink") 情報基盤センター・[鹿児島大学](../Page/鹿児島大学.md "wikilink")・[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")生産工学部・[国立天文台](../Page/国立天文台.md "wikilink")をはじめ、病院・教育施設・研究機関・官庁・地方自治体などで幅広く導入されている\[1\]。なお、日本大学生産工学部では2002年（平成14年）、1年をかけて\[2\]キャノンITソリューソンズと実証実験を行い、[ヒューリスティックス](https://ja.wikipedia.org/wiki/ヒューリスティックス "wikilink")機能の有効性により2005年（平成17年）から採用された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）に発生した[価格.comのWebサイトが一部改ざんされ](https://ja.wikipedia.org/wiki/カカクコム "wikilink")[コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")（[トロイの木馬型](https://ja.wikipedia.org/wiki/トロイの木馬_\(ソフトウェア\) "wikilink")）を2種類仕掛けられた事件では、1種類を既知ウイルスとしてパターンマッチングで、もう1種類を未知ウイルスとしてヒューリスティック機能で、NOD32だけが両方のウイルスを検知して遮断したことで、その名が知られるようになった\[3\]。
+[2005年](../Page/2005年.md "wikilink")（平成17年）に発生した[価格.comのWebサイトが一部改ざんされ](https://ja.wikipedia.org/wiki/カカクコム "wikilink")[コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")（[トロイの木馬型](../Page/トロイの木馬_\(ソフトウェア\).md "wikilink")）を2種類仕掛けられた事件では、1種類を既知ウイルスとしてパターンマッチングで、もう1種類を未知ウイルスとしてヒューリスティック機能で、NOD32だけが両方のウイルスを検知して遮断したことで、その名が知られるようになった\[3\]。
 
 [Windows Server 2008 R2等の](../Page/Microsoft_Windows_Server_2008.md "wikilink")[サーバ](../Page/サーバ.md "wikilink")[OSや](../Page/オペレーティングシステム.md "wikilink")、Windows XP x64 発売から程なくして64ビット版Windowsにも対応。また、[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")がやや独特で設定も詳細に指定可能である。
 
 ## 歴史
 
-1987年にアンチウイルスソフト[NOD32アンチウイルス](https://ja.wikipedia.org/wiki/NOD32アンチウイルス "wikilink")の初期版を開発し、1990年にオーストリアで[NOD32アンチウイルス](https://ja.wikipedia.org/wiki/NOD32アンチウイルス "wikilink")個人向け製品版を販売開始した。その後、既知パソコンウイルスの検出に加えて未知の新種パソコンウイルスを検知する技術「ヒューリスティック機能」を搭載した。2007年（平成19年）11月より、[NOD32アンチウイルス](https://ja.wikipedia.org/wiki/NOD32アンチウイルス "wikilink")から[パーソナルファイアウォールや迷惑メール対策](../Page/ファイアウォール.md "wikilink")・ペアレンタルコントロール・ゲームモードを搭載したESET Smart Security製品版を販売している。
+1987年にアンチウイルスソフト[NOD32アンチウイルス](../Page/NOD32アンチウイルス.md "wikilink")の初期版を開発し、1990年にオーストリアで[NOD32アンチウイルス](../Page/NOD32アンチウイルス.md "wikilink")個人向け製品版を販売開始した。その後、既知パソコンウイルスの検出に加えて未知の新種パソコンウイルスを検知する技術「ヒューリスティック機能」を搭載した。2007年（平成19年）11月より、[NOD32アンチウイルス](../Page/NOD32アンチウイルス.md "wikilink")から[パーソナルファイアウォールや迷惑メール対策](../Page/ファイアウォール.md "wikilink")・ペアレンタルコントロール・ゲームモードを搭載したESET Smart Security製品版を販売している。
 
 [2016年](../Page/2016年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")リリースのV10.0より、搭載プログラムの名称が**ESET Smart Security**（イーセット スマート セキュリティ）から**ESET Internet Security**（イーセット インターネット セキュリティ）に変更され、上位版として**ESET Smart Security Premium**が追加された\[4\]\[5\]。
 

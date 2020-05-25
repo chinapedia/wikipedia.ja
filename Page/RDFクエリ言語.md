@@ -1,4 +1,4 @@
-> この記事は[RDF](https://ja.wikipedia.org/wiki/RDF)から翻訳されています。
+> この記事は[RDFクエリ言語](https://ja.wikipedia.org/wiki/RDFクエリ言語)から翻訳されています。
 
 
 **RDFクエリ言語**（[英](../Page/英語.md "wikilink"): **RDF query language**）とは、[Resource Description Framework](../Page/Resource_Description_Framework.md "wikilink") (RDF) 形式で格納されたデータの検索と操作が可能な[コンピュータ言語](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")である。
@@ -15,7 +15,7 @@
   - [RDQL](http://www.w3.org/2001/11/13-RDF-Query-Rules/#RDQL) - [SQL](../Page/SQL.md "wikilink")風
   - [RQL](http://www.w3.org/2001/11/13-RDF-Query-Rules/#RQL) - SQL風
   - [SeRQL](http://www.w3.org/2001/11/13-RDF-Query-Rules/#SeRQL) - SQL風。RDQLに類似
-  - [XUL](https://ja.wikipedia.org/wiki/XUL "wikilink") には、RDF内のデータにマッチングする規則を宣言できる[template](http://developer.mozilla.org/en/docs/XUL:Template_Guide:Introduction)がある。
+  - [XUL](../Page/XUL.md "wikilink") には、RDF内のデータにマッチングする規則を宣言できる[template](http://developer.mozilla.org/en/docs/XUL:Template_Guide:Introduction)がある。
   - [Adenine](http://groups.csail.mit.edu/haystack/developers/adenine.html)
 
 ## 脚注

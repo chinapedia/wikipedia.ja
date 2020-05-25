@@ -1,4 +1,4 @@
-> この記事は[Honda   ](https://ja.wikipedia.org/wiki/Honda___)から翻訳されています。
+> この記事は[Honda エコ マイレッジ チャレンジ](https://ja.wikipedia.org/wiki/Honda_エコ_マイレッジ_チャレンジ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Twin_Ring_Motegi-SouthGate.jpg "wikilink")（写真は南ゲート）\]\] **Honda エコ マイレッジ チャレンジ**（ホンダ-）は、ホンダが開催している[低燃費競技](https://ja.wikipedia.org/wiki/低燃費競技 "wikilink")会で、走行前後の計測にもとづいて1リットルのガソリンあたりでどれだけ走れるかを競う。通称**エコラン**。かつての大会名は**本田宗一郎杯Hondaエコノパワー燃費競技全国大会**であったが、2010年の開催30周年を機に現名称へ変更された。
@@ -7,14 +7,14 @@
 
 [ホンダの](../Page/本田技研工業.md "wikilink")50cc[4ストロークエンジン](https://ja.wikipedia.org/wiki/4ストロークエンジン "wikilink")を搭載したオリジナルの車両を製作、大会では一定の距離を平均時速25kmを満たす制限時間内に走行し、消費した[ガソリン](../Page/ガソリン.md "wikilink")の量から燃費を算出する。[スーパーカブを使った市販車クラスも存在し](https://ja.wikipedia.org/wiki/ホンダ・カブ "wikilink")、また、タイや中国など海外のチームも参戦し好成績を残すなど大会のグローバル化が進められる。近年はGr.1クラスに出場する中学生チームも多い。燃費の良さだけを競うだけでなく、クラシックカーや観光バスのミニチュアなどデザインに力を注ぐチームも多く参加している。表彰に関しても、最優秀賞から新人賞、デザイン賞など様々な部門ある。例年400台以上が参加している。
 
-なお[本田宗一郎](../Page/本田宗一郎.md "wikilink")杯を争う全国大会だけでなく[鈴鹿](../Page/鈴鹿サーキット.md "wikilink")・[九州などで地方大会や](https://ja.wikipedia.org/wiki/HSR九州 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")･[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")･[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")など海外大会も開催されている。
+なお[本田宗一郎](../Page/本田宗一郎.md "wikilink")杯を争う全国大会だけでなく[鈴鹿](../Page/鈴鹿サーキット.md "wikilink")・[九州などで地方大会や](../Page/HSR九州.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")･[中国](../Page/中国.md "wikilink")･[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")など海外大会も開催されている。
 
 ## 沿革
 
   - [1981年](../Page/1981年.md "wikilink") - [鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")にて「第1回ホンダエコノパワー燃費競技全国大会」が開催。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 参加チーム数が200チームを超える。
   - [1993年](../Page/1993年.md "wikilink") - 参加チーム数が500チームを突破。また、2人乗りクラスが新設される。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 開催会場が現在の[ツインリンクもてぎ](https://ja.wikipedia.org/wiki/ツインリンクもてぎ "wikilink")に移る。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 開催会場が現在の[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")に移る。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [タイ](../Page/タイ王国.md "wikilink")、[パキスタン](../Page/パキスタン.md "wikilink")のチームが参加。
   - [1999年](../Page/1999年.md "wikilink") - [ロシア](../Page/ロシア.md "wikilink")のチームが参加。
   - [2001年](../Page/2001年.md "wikilink") - [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のチームが参加。「第一回エコ耐」が開催される。
@@ -51,8 +51,8 @@
 | 第8回       | [1988年](../Page/1988年.md "wikilink")（昭和63年）10月23日                    | 桶川         | 1,396.64km/L  | 再輝              |
 | 第9回       | [1989年](../Page/1989年.md "wikilink")（平成元年）9月24日                      | 桶川         | 1,253.73km/L  | 再輝              |
 | 第10回      | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）11月4日   | 桶川         | 1,194.67km/L  | 再輝              |
-| 第11回      | [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）9月23日   | 日本自動車研究所   | 1,461.05km/L  | 再輝              |
-| 第12回      | [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")（平成4年）9月20日   | 日本自動車研究所   | 1,503.06km/L  | SECONO          |
+| 第11回      | [1991年](../Page/1991年.md "wikilink")（平成3年）9月23日                      | 日本自動車研究所   | 1,461.05km/L  | 再輝              |
+| 第12回      | [1992年](../Page/1992年.md "wikilink")（平成4年）9月20日                      | 日本自動車研究所   | 1,503.06km/L  | SECONO          |
 | 第13回      | [1993年](../Page/1993年.md "wikilink")（平成5年）9月19日                      | 日本自動車研究所   | 1,498.25km/L  | ツアンラート          |
 | 第14回      | [1994年](../Page/1994年.md "wikilink")（平成6年）9月18日                      | 日本自動車研究所   | 3,014.71km/L  | TEAM1200        |
 | 第15回      | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）9月16日   | 日本自動車研究所   | 1,289.47km/L  | ゲトリーベ           |
@@ -65,8 +65,8 @@
 | 第22回      | [2002年](../Page/2002年.md "wikilink")（平成14年）9月23日                     | ツインリンクもてぎ  | 2,433.18km/L  | 富士エコラン・チーム白糸    |
 | 第23回      | [2003年](../Page/2003年.md "wikilink")（平成15年）9月21日                     | ツインリンクもてぎ  | 2,410.51km/L  | 小松原高校自動車部C      |
 | 第24回      | [2004年](../Page/2004年.md "wikilink")（平成16年）10月3日                     | ツインリンクもてぎ  | 1,917.746km/L | A.T.E SCHOOL    |
-| 第25回      | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）10月2日  | ツインリンクもてぎ  | 2,979.580km/L | A.T.E SCHOOL    |
-| 第26回      | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）10月1日  | ツインリンクもてぎ  | 2,537.866km/L | 水曜クラブ           |
+| 第25回      | [2005年](../Page/2005年.md "wikilink")（平成17年）10月2日                     | ツインリンクもてぎ  | 2,979.580km/L | A.T.E SCHOOL    |
+| 第26回      | [2006年](../Page/2006年.md "wikilink")（平成18年）10月1日                     | ツインリンクもてぎ  | 2,537.866km/L | 水曜クラブ           |
 | 第27回      | [2007年](../Page/2007年.md "wikilink")（平成19年）10月7日                     | ツインリンクもてぎ  | 2,851.501km/L | 水曜クラブ           |
 | 第28回      | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）10月19日 | ツインリンクもてぎ  | 2,881.236km/L | 水曜クラブ           |
 | 第29回      | [2009年](../Page/2009年.md "wikilink")（平成21年）10月11日                    | ツインリンクもてぎ  | 2,474.742km/L | チームファイアボール      |

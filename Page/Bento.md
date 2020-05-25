@@ -1,7 +1,7 @@
 > この記事は[Bento](https://ja.wikipedia.org/wiki/Bento)から翻訳されています。
 
 
-**Bento**（ベントー）とは、ファイルメーカー社（現・[クラリス](https://ja.wikipedia.org/wiki/クラリス_\(企業\) "wikilink")）が開発する個人向けの[データベース](../Page/データベース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")11月に発表され、同時にテスト版が公開。[米国にて](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に正規版の販売が開始され、日本においても同年3月6日に発売された。 [Mac OS X v10.5専用のソフトウェアで](https://ja.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")、[アップルの](../Page/アップル_\(企業\).md "wikilink")[iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")や[iWork](https://ja.wikipedia.org/wiki/iWork "wikilink")と似たような[インターフェースを採用している](../Page/インタフェース_\(情報技術\).md "wikilink")。 名称の由来は、[日本語](../Page/日本語.md "wikilink")の「[弁当](../Page/弁当.md "wikilink")」\[1\]である。また[アイコン](../Page/アイコン.md "wikilink")は、[弁当箱](https://ja.wikipedia.org/wiki/弁当箱 "wikilink")を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")にしている。
+**Bento**（ベントー）とは、ファイルメーカー社（現・[クラリス](../Page/クラリス_\(企業\).md "wikilink")）が開発する個人向けの[データベース](../Page/データベース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")11月に発表され、同時にテスト版が公開。[米国にて](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月に正規版の販売が開始され、日本においても同年3月6日に発売された。 [Mac OS X v10.5専用のソフトウェアで](../Page/Mac_OS_X_v10.5.md "wikilink")、[アップルの](../Page/アップル_\(企業\).md "wikilink")[iLife](https://ja.wikipedia.org/wiki/iLife "wikilink")や[iWork](https://ja.wikipedia.org/wiki/iWork "wikilink")と似たような[インターフェースを採用している](../Page/インタフェース_\(情報技術\).md "wikilink")。 名称の由来は、[日本語](../Page/日本語.md "wikilink")の「[弁当](../Page/弁当.md "wikilink")」\[1\]である。また[アイコン](../Page/アイコン.md "wikilink")は、[弁当箱](../Page/弁当箱.md "wikilink")を[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")にしている。
 
 ## 歴史
 
@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [FileMaker](https://ja.wikipedia.org/wiki/FileMaker "wikilink") - クラリス社の開発するデータベースソフトウェア。
+  - [FileMaker](../Page/FileMaker.md "wikilink") - クラリス社の開発するデータベースソフトウェア。
 
 ## 脚注
 
@@ -46,4 +46,4 @@
 
 [Category:データベース管理システム](https://ja.wikipedia.org/wiki/Category:データベース管理システム "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink")
 
-1.  [英語](../Page/英語.md "wikilink")で重箱のような日本の弁当箱を、日本語の「弁当」（べんとう）と言う言葉がそのまま転じた「bento」（ベント）とも言う。かつて[OpenDoc](https://ja.wikipedia.org/wiki/OpenDoc "wikilink")のファイルフォーマットが同様のコンセプトで「bento」という呼称を使っており、それを意識して命名された可能性が高い。
+1.  [英語](../Page/英語.md "wikilink")で重箱のような日本の弁当箱を、日本語の「弁当」（べんとう）と言う言葉がそのまま転じた「bento」（ベント）とも言う。かつて[OpenDoc](../Page/OpenDoc.md "wikilink")のファイルフォーマットが同様のコンセプトで「bento」という呼称を使っており、それを意識して命名された可能性が高い。

@@ -1,4 +1,4 @@
-> この記事は[J.P.](https://ja.wikipedia.org/wiki/J.P.)から翻訳されています。
+> この記事は[J.P.ウィンクル](https://ja.wikipedia.org/wiki/J.P.ウィンクル)から翻訳されています。
 
 
 **J.P.ウィンクル**（ジェイ・ピー・ウィンクル）は、[アスキーから発売された](../Page/アスキー_\(企業\).md "wikilink")[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。

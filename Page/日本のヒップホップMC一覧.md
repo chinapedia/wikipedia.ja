@@ -325,7 +325,7 @@
   - [TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink") ([アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink"))
   - [剣桃太郎](https://ja.wikipedia.org/wiki/剣桃太郎_\(ミュージシャン\) "wikilink") (ex. [妄走族](../Page/妄走族.md "wikilink"))
   - TSUGURU
-  - [唾奇](https://ja.wikipedia.org/wiki/唾奇 "wikilink")
+  - [唾奇](../Page/唾奇.md "wikilink")
 
 ### て
 

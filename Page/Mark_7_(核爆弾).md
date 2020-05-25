@@ -1,4 +1,4 @@
-> この記事は[Mark 7 \(\)](https://ja.wikipedia.org/wiki/Mark_7_\(\))から翻訳されています。
+> この記事は[Mark 7 \(核爆弾\)](https://ja.wikipedia.org/wiki/Mark_7_\(核爆弾\))から翻訳されています。
 
 
 {{ Infobox Nuclear Weapon | 名称=Mark 7 / W7 | 画像=<File:Mark> 7 nuclear bomb at USAF Museum.jpg | 画像説明=[国立アメリカ空軍博物館](../Page/国立アメリカ空軍博物館.md "wikilink")に展示されるMark 7核爆弾。 | タイプ=核爆弾(Mark 7) / 核弾頭(W7) | 開発国= | 配備先=アメリカ空軍

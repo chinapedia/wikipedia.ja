@@ -1,11 +1,11 @@
 > この記事は[ON THE CITY SHORE](https://ja.wikipedia.org/wiki/ON_THE_CITY_SHORE)から翻訳されています。
 
 
-『**ON THE CITY SHORE**』（オン・ザ・シティ・ショア）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算3作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**ON THE CITY SHORE**』（オン・ザ・シティ・ショア）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算3作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-[杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")への楽曲提供が縁で、トライアングル・プロダクションから[マーマレードへ移籍後に制作されたオリジナル](https://ja.wikipedia.org/wiki/ボンド企画 "wikilink")・アルバム。本作よりセルフ・プロデュース、セルフ・アレンジによるアルバム制作が始まり、楽曲も全て角松自身の作詞作曲編曲に切り替わった。
+[杏里](../Page/杏里.md "wikilink")への楽曲提供が縁で、トライアングル・プロダクションから[マーマレードへ移籍後に制作されたオリジナル](https://ja.wikipedia.org/wiki/ボンド企画 "wikilink")・アルバム。本作よりセルフ・プロデュース、セルフ・アレンジによるアルバム制作が始まり、楽曲も全て角松自身の作詞作曲編曲に切り替わった。
 
 「[TAKE YOU TO THE SKY HIGH](https://ja.wikipedia.org/wiki/スカイ・ハイ_\(TAKE_YOU_TO_THE_SKY_HIGH\) "wikilink")」と「TAKE ME FAR AWAY」は後にベスト・アルバム『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』\[1\]で、それぞれリテイク・ヴァージョンとエディットによるロング・ヴァージョンで収録された。
 
@@ -32,9 +32,9 @@
 
   - Dr. : Jnana Murti
   - E·G. : Tsunehiko Ohta
-  - E·B. : [Tomohito Aoki](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")
+  - E·B. : [Tomohito Aoki](../Page/青木智仁.md "wikilink")
   - E·pf, A·pf. : Yoshihiro Tomonari
-  - Prophet 10, Emulator. : [Jun Satoh](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")
+  - Prophet 10, Emulator. : [Jun Satoh](../Page/佐藤準.md "wikilink")
   - Per. : Hiroyuki Iso, Toshiki Kadomatsu
   - Tp solo. : Norio Koyama
   - Background Vocals. : Toshiki Kadomatsu, Yoshihiko Shiraishi, Keiko Toh, Hiroyuki Iso
@@ -100,7 +100,7 @@
   - E·G. : Toshiki Kadomatsu, Tsunehiko Ohta
   - E·pf, A·pf. : Yoshihiro Tomonari
   - Prophet 10, Emulator. : Jun Satoh
-  - E·G solo. : [Tsuyoshi Kon](https://ja.wikipedia.org/wiki/今剛 "wikilink")
+  - E·G solo. : [Tsuyoshi Kon](../Page/今剛.md "wikilink")
   - Background Vocals. : Yoshihiko Shiraishi, Keiko Toh, Hiroyuki Iso
 
 ### LET ME SAY…
@@ -149,7 +149,7 @@
 {{-}}
 
   - Executive Producer : Tasuku Okamura
-  - Recording Engineer : [Eiji Uchinuma](https://ja.wikipedia.org/wiki/内沼映二 "wikilink"), Tatsuo Sekine, Takahiro Nochimura, Yoshiaki Ushizawa, Kunihiko Shimizu, Mitsumasa Aono
+  - Recording Engineer : [Eiji Uchinuma](../Page/内沼映二.md "wikilink"), Tatsuo Sekine, Takahiro Nochimura, Yoshiaki Ushizawa, Kunihiko Shimizu, Mitsumasa Aono
   - Remix Engineer : Eiji Uchinuma, Kunihiko Shimizu
   - Recorded at : Nichion Studio, [Onkyo Haus](https://ja.wikipedia.org/wiki/音響ハウス "wikilink"), [Sound Inn](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink"), Sound City, RVC 1st
   - Remixed at : Nichion Studio

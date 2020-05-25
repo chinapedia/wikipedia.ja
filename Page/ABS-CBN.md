@@ -3,13 +3,13 @@
 
 **ABS-CBN**（エイビーエス シービーエヌ、）とは、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")を代表する放送局、かつフィリピン最大のメディア企業。経営はフィリピン有数の名家、ロペス一族が行っている。
 
-[スローガン](https://ja.wikipedia.org/wiki/スローガン "wikilink")は「（世界中のフィリピン人のサービスで）」。
+[スローガン](../Page/スローガン.md "wikilink")は「（世界中のフィリピン人のサービスで）」。
 
 ## 概要
 
 [1946年](../Page/1946年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")にアジア初の民放テレビ局として開局。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[10月23日](../Page/10月23日.md "wikilink")にテレビの本放送を開始し、[1966年](../Page/1966年.md "wikilink")にカラー化された。テレビ・ラジオのほか、国際向けケーブルテレビのザ・フィリピノ・チャンネルや、多数の雑誌を発行している。[1993年](../Page/1993年.md "wikilink")に[フィリピン証券取引所](https://ja.wikipedia.org/wiki/フィリピン証券取引所 "wikilink")に上場。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[NHK BS1の](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")「[ワールドニュース・アジア](https://ja.wikipedia.org/wiki/ワールドニュースアワー "wikilink")」で[英語](../Page/英語.md "wikilink")ニュース番組「ザ・ワールド・トゥナイト」（、[現地時間毎晩](https://ja.wikipedia.org/wiki/UTC+8 "wikilink")22:00放送）が[日本語](../Page/日本語.md "wikilink")[通訳](../Page/通訳.md "wikilink")付きで録画放送されているほか、ABS-CBN Japanによるブロードバンド・オンデマンド放送TFCko（ティ・エフ・シー・コ）を通じニュース番組や娯楽番組を視聴出来る。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[NHK BS1の](../Page/NHK_BS1.md "wikilink")「[ワールドニュース・アジア](../Page/ワールドニュースアワー.md "wikilink")」で[英語](../Page/英語.md "wikilink")ニュース番組「ザ・ワールド・トゥナイト」（、[現地時間毎晩](../Page/UTC+8.md "wikilink")22:00放送）が[日本語](../Page/日本語.md "wikilink")[通訳](../Page/通訳.md "wikilink")付きで録画放送されているほか、ABS-CBN Japanによるブロードバンド・オンデマンド放送TFCko（ティ・エフ・シー・コ）を通じニュース番組や娯楽番組を視聴出来る。
 
 ## 主な番組
 
@@ -87,19 +87,19 @@
 
 ### テレビアニメ（低年齢向け）
 
-  - [小公子セディ](https://ja.wikipedia.org/wiki/小公子セディ "wikilink")
-  - [小公女セーラ](https://ja.wikipedia.org/wiki/小公女セーラ "wikilink")
-  - [アニメひみつの花園](https://ja.wikipedia.org/wiki/アニメひみつの花園 "wikilink")
+  - [小公子セディ](../Page/小公子セディ.md "wikilink")
+  - [小公女セーラ](../Page/小公女セーラ.md "wikilink")
+  - [アニメひみつの花園](../Page/アニメひみつの花園.md "wikilink")
   - [デジモンテイマーズ](../Page/デジモンテイマーズ.md "wikilink")
   - [Capeta](../Page/Capeta.md "wikilink")
-  - [中華一番\!](https://ja.wikipedia.org/wiki/中華一番! "wikilink")
-  - [NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")
+  - [中華一番\!](../Page/中華一番!.md "wikilink")
+  - [NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")
   - [ふしぎの海のナディア](https://ja.wikipedia.org/wiki/ふしぎの海のナディア "wikilink")
-  - [スポンジ・ボブ](https://ja.wikipedia.org/wiki/スポンジ・ボブ "wikilink")
+  - [スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")
 
 ### ヒーローゾーン
 
-  - [エア・ギア](https://ja.wikipedia.org/wiki/エア・ギア "wikilink")
+  - [エア・ギア](../Page/エア・ギア.md "wikilink")
   - [交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")
   - [スクールランブル](../Page/スクールランブル.md "wikilink")
 
@@ -115,7 +115,7 @@
 
   - [ザ・フィリピノ・チャンネル](https://ja.wikipedia.org/wiki/ザ・フィリピノ・チャンネル "wikilink")
   - [アソシエイテッド・ブロードキャスティング・カンパニー](https://ja.wikipedia.org/wiki/TV5_\(フィリピン\) "wikilink")
-  - [GMAネットワーク](https://ja.wikipedia.org/wiki/GMAネットワーク "wikilink")
+  - [GMAネットワーク](../Page/GMAネットワーク.md "wikilink")
   - [MNL48](https://ja.wikipedia.org/wiki/MNL48 "wikilink") - 本格的な立ち上げに際しオーディションやメディア展開などで運営会社と提携関係を樹立
 
 ## 外部リンク

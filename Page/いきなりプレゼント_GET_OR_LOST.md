@@ -1,7 +1,7 @@
-> この記事は[ GET OR LOST](https://ja.wikipedia.org/wiki/_GET_OR_LOST)から翻訳されています。
+> この記事は[いきなりプレゼント GET OR LOST](https://ja.wikipedia.org/wiki/いきなりプレゼント_GET_OR_LOST)から翻訳されています。
 
 
-**いきなりプレゼント GET OR LOST**は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")『[すくいず\!](https://ja.wikipedia.org/wiki/すくいず! "wikilink")』の中で放送された企画の一つ、企画第4弾。
+**いきなりプレゼント GET OR LOST**は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[すくいず\!](../Page/すくいず!.md "wikilink")』の中で放送された企画の一つ、企画第4弾。
 
 ## 内容
 
@@ -61,7 +61,7 @@
 
 ## 出演者
 
-  - 司会：[チュートリアル](https://ja.wikipedia.org/wiki/チュートリアル_\(お笑いコンビ\) "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")）
+  - 司会：[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")）
   - パネラー
       - 徳井チーム
     <!-- end list -->
@@ -71,24 +71,24 @@
     <!-- end list -->
       - [大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、[光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")
   - ゲーム会場MC
-      - [ヒデ](https://ja.wikipedia.org/wiki/ヒデ_\(お笑い芸人\) "wikilink")（[ペナルティ](https://ja.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")）
+      - [ヒデ](../Page/ヒデ_\(お笑い芸人\).md "wikilink")（[ペナルティ](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")）
       - [相澤仁美](https://ja.wikipedia.org/wiki/相澤仁美 "wikilink")
       - [宮川大輔](https://ja.wikipedia.org/wiki/宮川大輔_\(タレント\) "wikilink")
       - [磯山さやか](https://ja.wikipedia.org/wiki/磯山さやか "wikilink")
-      - [ほっしゃん。](https://ja.wikipedia.org/wiki/星田英利 "wikilink")
+      - [ほっしゃん。](../Page/星田英利.md "wikilink")
       - [若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")
-      - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
+      - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")
 
 ### 第1回ターゲット
 
   - [細川茂樹](../Page/細川茂樹.md "wikilink")
   - [庄司智春](../Page/庄司智春.md "wikilink")（[品川庄司](../Page/品川庄司.md "wikilink")）
   - [ムーディ勝山](../Page/ムーディ勝山.md "wikilink")
-  - [ハイキングウォーキング](https://ja.wikipedia.org/wiki/ハイキングウォーキング "wikilink")
+  - [ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")
 
 ### 第2回ターゲット
 
-  - [梶原雄太](https://ja.wikipedia.org/wiki/梶原雄太 "wikilink")（[キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")）
+  - [梶原雄太](../Page/梶原雄太.md "wikilink")（[キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")）
   - [ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")
   - <s>若槻千夏</s>→若槻千夏の[マネージャー](https://ja.wikipedia.org/wiki/マネージャー#芸能界のマネージャー "wikilink")→若槻＆マネージャー
   - [田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")（[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")）
@@ -97,9 +97,9 @@
 
 [すくいず\!\#スタッフ](https://ja.wikipedia.org/wiki/すくいず!#スタッフ "wikilink")も参照のこと。
 
-  - ナレーション：[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+  - ナレーション：[立木文彦](../Page/立木文彦.md "wikilink")
   - 企画：佐藤孝（古舘プロジェクト）
-  - 構成：[鮫肌文殊](https://ja.wikipedia.org/wiki/鮫肌文殊 "wikilink")、[山名宏和](https://ja.wikipedia.org/wiki/山名宏和 "wikilink")、[小野寺貴之](https://ja.wikipedia.org/wiki/小野寺貴之 "wikilink")、[林賢一](https://ja.wikipedia.org/wiki/林賢一 "wikilink") ／ [樋口卓治](https://ja.wikipedia.org/wiki/樋口卓治 "wikilink")、[川野孝弘](https://ja.wikipedia.org/wiki/川野孝弘 "wikilink")
+  - 構成：[鮫肌文殊](../Page/鮫肌文殊.md "wikilink")、[山名宏和](../Page/山名宏和.md "wikilink")、[小野寺貴之](https://ja.wikipedia.org/wiki/小野寺貴之 "wikilink")、[林賢一](https://ja.wikipedia.org/wiki/林賢一 "wikilink") ／ [樋口卓治](../Page/樋口卓治.md "wikilink")、[川野孝弘](https://ja.wikipedia.org/wiki/川野孝弘 "wikilink")
   - CAM：石毛雄己、荒木哲志
   - VE：柳沼修
   - AUD：渡邊拓
@@ -108,7 +108,7 @@
   - CG：小城功夫
   - MA：藤田恵美
   - 音効：磯川浩己
-  - 美術プロデュース：[松沢由之](https://ja.wikipedia.org/wiki/松沢由之 "wikilink")
+  - 美術プロデュース：[松沢由之](../Page/松沢由之.md "wikilink")
   - セットデザイン：[野口陽介](https://ja.wikipedia.org/wiki/野口陽介 "wikilink")
   - 美術進行：今井隆之
   - メイク：奥山文子
@@ -121,8 +121,8 @@
   - 演出：[岡田秀行](https://ja.wikipedia.org/wiki/岡田秀行 "wikilink")（b-DASH）
   - プロデューサー：[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（b-DASH）、加茂忠夫（[office KLEIN](../Page/オフィスクライン.md "wikilink")）
   - 総合プロデューサー：[棚次隆](../Page/棚次隆.md "wikilink")（古舘プロジェクト）
-  - スタッフ協力：[スウィッシュ・ジャパン](https://ja.wikipedia.org/wiki/スウィッシュ・ジャパン "wikilink")、[プログレッソ](https://ja.wikipedia.org/wiki/プログレッソ "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[umpd](https://ja.wikipedia.org/wiki/umpd "wikilink")、[DREAM SPACE](https://ja.wikipedia.org/wiki/コスモ・スペース "wikilink")、[サウンドエフェクト](https://ja.wikipedia.org/wiki/サウンドエフェクト "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
-  - 制作協力：[b-DASH](https://ja.wikipedia.org/wiki/ビーダッシュ "wikilink")
+  - スタッフ協力：[スウィッシュ・ジャパン](../Page/スウィッシュ・ジャパン.md "wikilink")、[プログレッソ](https://ja.wikipedia.org/wiki/プログレッソ "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[umpd](https://ja.wikipedia.org/wiki/umpd "wikilink")、[DREAM SPACE](../Page/コスモ・スペース.md "wikilink")、[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
+  - 制作協力：[b-DASH](../Page/ビーダッシュ.md "wikilink")
   - 制作：古舘プロジェクト
 
 ## 放送日

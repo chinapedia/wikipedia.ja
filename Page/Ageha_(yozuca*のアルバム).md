@@ -1,13 +1,13 @@
-> この記事は[Ageha \(yozuca\*\)](https://ja.wikipedia.org/wiki/Ageha_\(yozuca\*\))から翻訳されています。
+> この記事は[Ageha \(yozuca\*のアルバム\)](https://ja.wikipedia.org/wiki/Ageha_\(yozuca\*のアルバム\))から翻訳されています。
 
 
-『**Ageha**』（アゲハ）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の3作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+『**Ageha**』（アゲハ）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の3作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
-前作『[nico.](https://ja.wikipedia.org/wiki/nico._\(アルバム\) "wikilink")』から1年5ヶ月ぶりのリリースであり、『nico.』に収録されたシングル曲以降の楽曲と新曲が収録されているが、11枚目のシングル「[君とあしたへ](../Page/君とあしたへ.md "wikilink")」と14枚目のシングル「[サクラキミニエム](https://ja.wikipedia.org/wiki/サクラキミニエム "wikilink")」は未収録である。また、今作のほとんどのオリジナル曲の作詞は[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")が手掛けている。
+前作『[nico.](https://ja.wikipedia.org/wiki/nico._\(アルバム\) "wikilink")』から1年5ヶ月ぶりのリリースであり、『nico.』に収録されたシングル曲以降の楽曲と新曲が収録されているが、11枚目のシングル「[君とあしたへ](../Page/君とあしたへ.md "wikilink")」と14枚目のシングル「[サクラキミニエム](../Page/サクラキミニエム.md "wikilink")」は未収録である。また、今作のほとんどのオリジナル曲の作詞は[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")が手掛けている。
 
-[CooRie](https://ja.wikipedia.org/wiki/CooRie "wikilink")の3枚目のオリジナルアルバム『[旋律のフレア](https://ja.wikipedia.org/wiki/旋律のフレア "wikilink")』と同時発売である。また、アルバムの製作から発売までの期間が長かったという。
+[CooRie](../Page/CooRie.md "wikilink")の3枚目のオリジナルアルバム『[旋律のフレア](../Page/旋律のフレア.md "wikilink")』と同時発売である。また、アルバムの製作から発売までの期間が長かったという。
 
 アルバムのコンセプトは、「決意」、「進化」であり、そういうテーマの楽曲が選出されたと語っている。\[1\]
 
@@ -15,10 +15,10 @@
 
 1.  **Ageha** \[1:38\]
       -
-        作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲・編曲：[安瀬聖](https://ja.wikipedia.org/wiki/安瀬聖 "wikilink")
+        作詞：[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")、作曲・編曲：[安瀬聖](../Page/安瀬聖.md "wikilink")
 2.  **Daybreak for me** \[5:11\]
       -
-        作詞：こだまさおり、作曲：[Tatsh](https://ja.wikipedia.org/wiki/清水達也 "wikilink")、編曲：chokix
+        作詞：こだまさおり、作曲：[Tatsh](../Page/清水達也.md "wikilink")、編曲：chokix
 3.  **I.D.** \[4:42\]
       -
         作詞：こだまさおり、作曲：[俊龍](https://ja.wikipedia.org/wiki/俊龍 "wikilink")、編曲：[虹音](../Page/松田彬人.md "wikilink")
@@ -46,7 +46,7 @@
 11. **[Happy my life 〜Thank you for everything\!\!〜](../Page/Happy_my_life_〜Thank_you_for_everything!!〜.md "wikilink")** \[4:47\]
       -
         作詞・作曲：[tororo](https://ja.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel Note](../Page/Angel_Note.md "wikilink")
-12. **[ダ・カーポII 〜あさきゆめみし君と〜](https://ja.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜 "wikilink")** \[4:20\]
+12. **[ダ・カーポII 〜あさきゆめみし君と〜](../Page/ダ・カーポII_〜あさきゆめみし君と〜.md "wikilink")** \[4:20\]
       -
         作詞・作曲：tororo、編曲：Angel Note
 
@@ -55,10 +55,10 @@
   - Ageha
     本作のタイトル曲であり、レコーディングは収録曲の中でも終盤に行われた曲である。\[2\]
 
-    ピアノで始まる曲であり、この曲から本アルバムの世界が始まるという雰囲気が醸し出されており、重要な曲になっているが、歌唱部分は短く、当初はワンコーラスがきちんと作られていたが、自身やディレクターの中でのイメージは歌っている箇所が何小節くらいでいいくらい、作曲を手掛けた[安瀬聖](https://ja.wikipedia.org/wiki/安瀬聖 "wikilink")にコンパクトにまとめて『Ageha』の世界観を出して欲しいと頼んだという。また、3パターン挙がった曲の中の1曲である。なお、ピアノ1本だけの曲は自身初である。\[3\]
+    ピアノで始まる曲であり、この曲から本アルバムの世界が始まるという雰囲気が醸し出されており、重要な曲になっているが、歌唱部分は短く、当初はワンコーラスがきちんと作られていたが、自身やディレクターの中でのイメージは歌っている箇所が何小節くらいでいいくらい、作曲を手掛けた[安瀬聖](../Page/安瀬聖.md "wikilink")にコンパクトにまとめて『Ageha』の世界観を出して欲しいと頼んだという。また、3パターン挙がった曲の中の1曲である。なお、ピアノ1本だけの曲は自身初である。\[3\]
 
   - Daybreak for me
-    本アルバムのリード曲であり、[PVも製作された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。初めて曲を聴いた印象は「**強い**」であり、詞も端的ではない強い詞であり、自身も内容を理解して歌いたいと思っていたので、実際に[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")に会い、作詞の経緯を聞いてレコーディングに臨んだので自分一人で歌詞を理解するよりも深く詞の意味が理解出来たという。\[4\]
+    本アルバムのリード曲であり、[PVも製作された](../Page/ミュージック・ビデオ.md "wikilink")。初めて曲を聴いた印象は「**強い**」であり、詞も端的ではない強い詞であり、自身も内容を理解して歌いたいと思っていたので、実際に[こだまさおり](https://ja.wikipedia.org/wiki/こだまさおり "wikilink")に会い、作詞の経緯を聞いてレコーディングに臨んだので自分一人で歌詞を理解するよりも深く詞の意味が理解出来たという。\[4\]
 
     「私は迷わない」、「私は逃げない」などという強い決意が表れている楽曲になっている。また、歌っているのは行きたい場所は自分で恐怖心を持っていて、行ってみれば恐怖心はないかもしれないという決意が描かれている。\[5\]
 
@@ -101,7 +101,7 @@
     唄入れが終わった曲を実際に聴きなおしたところ、客観的に共感を覚えたという。ワンコーラス、ツーコーラスまでは「私、あなたが知っている私でいたい」と言っているが、最後には「自分が、どこかで彼が知らない自分が増えていく事を知っている」などの冷静な自分を知った部分があり、心の変化などで変わっていく自分が描かれていて、自身は逆に冷静さが切なかったと語っている。\[16\]
 
   - 記憶の海
-    [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[School Days](../Page/School_Days_\(アニメ\).md "wikilink")』の[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、[挿入歌として使用された曲で](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")、劇中で出演しているキャラクターの名前を嵌めこんでみるのも面白いのではないかと考え、「言葉」と「世界」という言葉を使用したという。\[17\]
+    [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[School Days](../Page/School_Days_\(アニメ\).md "wikilink")』の[エンディングテーマ](../Page/主題歌.md "wikilink")、[挿入歌として使用された曲で](../Page/サウンドトラック.md "wikilink")、劇中で出演しているキャラクターの名前を嵌めこんでみるのも面白いのではないかと考え、「言葉」と「世界」という言葉を使用したという。\[17\]
 
     「繰り返す言葉は今も」というフレーズから3行目後の「いつからか揺らいだ世界」というフレーズは、歌詞の世界の中の「揺らいだ世界」と「物語の中の世界」がリンクしていると語っている。\[18\]
 

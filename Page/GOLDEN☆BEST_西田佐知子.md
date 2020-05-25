@@ -1,4 +1,4 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 西田佐知子](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_西田佐知子)から翻訳されています。
 
 
 『**GOLDEN☆BEST 西田佐知子**』（ゴールデン・ベスト にしださちこ）は、[西田佐知子](../Page/西田佐知子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2003年11月26日発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")：UICZ-6041。

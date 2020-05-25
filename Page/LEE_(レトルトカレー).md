@@ -1,4 +1,4 @@
-> この記事は[LEE \(\)](https://ja.wikipedia.org/wiki/LEE_\(\))から翻訳されています。
+> この記事は[LEE \(レトルトカレー\)](https://ja.wikipedia.org/wiki/LEE_\(レトルトカレー\))から翻訳されています。
 
 
 **LEE**（リー）は、[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")が製造・販売する[レトルトカレー](../Page/レトルトカレー.md "wikilink")商品である。

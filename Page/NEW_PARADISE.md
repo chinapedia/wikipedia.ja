@@ -10,7 +10,7 @@
   - 前作に引き続きサビでは、[慶太と涼平の](../Page/橘慶太.md "wikilink")2人で歌っているため全員で歌唱していない。
   - シングルでは初のCCCD（[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")）としてリリースされる。
   - 初回特典としてオリジナル・ポケットカレンダー（全4種）が封入されていた。
-  - 2002年11月4日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2002年11月4日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
 
 ## 収録曲
 

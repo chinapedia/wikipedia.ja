@@ -1,13 +1,13 @@
-> この記事は[and then](https://ja.wikipedia.org/wiki/and_then)から翻訳されています。
+> この記事は[もう一度…and then](https://ja.wikipedia.org/wiki/もう一度…and_then)から翻訳されています。
 
 
 「**もう一度…and then**」（もういちど アンド・ゼン）は、[1988年](../Page/1988年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算13作目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
-「もう一度…and then」はシングルのみでのリリースされ、[オリジナル・アルバムには未収録](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。後にライブ・ヴァージョンが[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")『[voices under the water/in the hall](https://ja.wikipedia.org/wiki/voices_under_the_water/in_the_hall "wikilink")』\[1\]に収録されたほか、リテイク・ヴァージョンがアルバム『[Fankacoustics](https://ja.wikipedia.org/wiki/Fankacoustics "wikilink")』\[2\]に収録された。
+「もう一度…and then」はシングルのみでのリリースされ、[オリジナル・アルバムには未収録](../Page/スタジオ・アルバム.md "wikilink")。後にライブ・ヴァージョンが[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[voices under the water/in the hall](https://ja.wikipedia.org/wiki/voices_under_the_water/in_the_hall "wikilink")』\[1\]に収録されたほか、リテイク・ヴァージョンがアルバム『[Fankacoustics](https://ja.wikipedia.org/wiki/Fankacoustics "wikilink")』\[2\]に収録された。
 
-「花瓶」は、角松プロデュースによる[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』収録曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")。後にバラード・[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[3\]にボーカルのリテイクにて収録されるが、エンディングがフェードアウトからコーラスによるカットアウトに変更された。リリースのシングル「[YOU'RE MY ONLY SHININ' STAR](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」\[4\]とリリースのアルバム『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』\[5\]に、セルフカバーが再び収録された。
+「花瓶」は、角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")の[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』収録曲の[セルフカバー](../Page/セルフカバー.md "wikilink")。後にバラード・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[3\]にボーカルのリテイクにて収録されるが、エンディングがフェードアウトからコーラスによるカットアウトに変更された。リリースのシングル「[YOU'RE MY ONLY SHININ' STAR](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」\[4\]とリリースのアルバム『[The gentle sex](https://ja.wikipedia.org/wiki/The_gentle_sex "wikilink")』\[5\]に、セルフカバーが再び収録された。
 
 本作よりアナログ・シングル盤に加え、8cmCDシングルもリリースされるようになるが、アナログ盤では「もう一度…and then」がCDシングルより短く編集されている。
 
@@ -27,11 +27,11 @@
 | **Lead Vocal, Background Vocal, Computer Programming & Keyboards : TOSHIKI KADOMATSU**                                                                                     |
 |                                                                                                                                                                            |
 | **BACK MUSICIANS**                                                                                                                                                         |
-| [TOMOHITO AOKI](https://ja.wikipedia.org/wiki/青木智仁 "wikilink") (b)                                                                                                         |
+| [TOMOHITO AOKI](../Page/青木智仁.md "wikilink") (b)                                                                                                                            |
 | MASAHARU ISHIKAWA (ds)                                                                                                                                                     |
 | YOSHIHIRO TOMONARI (key)                                                                                                                                                   |
 | YUZO HAYASHI (key)                                                                                                                                                         |
-| [YOSHIYUKI ASANO](https://ja.wikipedia.org/wiki/浅野祥之 "wikilink") (g)                                                                                                       |
+| [YOSHIYUKI ASANO](../Page/浅野祥之.md "wikilink") (g)                                                                                                                          |
 | [JUN KAJIWARA](../Page/梶原順.md "wikilink") (g)                                                                                                                              |
 | OSAMU KOIKE (sax)                                                                                                                                                          |
 | KANICHIRO KUBO (mani)                                                                                                                                                      |

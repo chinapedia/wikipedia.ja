@@ -1,7 +1,7 @@
-> この記事は[Invitation \(predia\)](https://ja.wikipedia.org/wiki/Invitation_\(predia\))から翻訳されています。
+> この記事は[Invitation \(prediaのアルバム\)](https://ja.wikipedia.org/wiki/Invitation_\(prediaのアルバム\))から翻訳されています。
 
 
-『**Invitation**』（インヴィテーション）は、[predia](https://ja.wikipedia.org/wiki/predia "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2012年](../Page/2012年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にプレシャストーンミュージックから発売された\[1\]。
+『**Invitation**』（インヴィテーション）は、[predia](https://ja.wikipedia.org/wiki/predia "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2012年](../Page/2012年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にプレシャストーンミュージックから発売された\[1\]。
 
 ## 概要
 

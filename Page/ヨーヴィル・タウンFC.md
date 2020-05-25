@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヨーヴィル・タウンFC](https://ja.wikipedia.org/wiki/ヨーヴィル・タウンFC)から翻訳されています。
 
 
 **ヨーヴィル・タウン・フットボール・クラブ**（**Yeovil Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")南西部、[サマセット州](https://ja.wikipedia.org/wiki/サマセット州 "wikilink")、[サウス・サマセット](https://ja.wikipedia.org/wiki/サウス・サマセット "wikilink")、[ヨーヴィル](https://ja.wikipedia.org/wiki/ヨーヴィル "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
@@ -261,7 +261,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナショナルリーグ_(イングランドのサッカー)" title="wikilink">ナショナルリーグ</a></p></td>
+<td><p><a href="../Page/ナショナルリーグ_(イングランドのサッカー).md" title="wikilink">ナショナルリーグ</a></p></td>
 <td><p>46</p></td>
 <td></td>
 <td></td>

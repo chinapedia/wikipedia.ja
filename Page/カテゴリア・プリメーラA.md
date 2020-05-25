@@ -777,7 +777,7 @@
 <td><p>F</p></td>
 <td><p><a href="../Page/ミジョナリオスFC.md" title="wikilink">ミジョナリオス</a> (15)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インデペンディエンテ・サンタフェ" title="wikilink">サンタフェ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジミ・チャラ" title="wikilink">ジミ・チャラ</a><br />
+<td><p><a href="../Page/ジミ・チャラ.md" title="wikilink">ジミ・チャラ</a><br />
  <a href="https://ja.wikipedia.org/wiki/アイロン・デル・バジェ" title="wikilink">アイロン・デル・バジェ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ダイロ・モレノ" title="wikilink">ダイロ・モレノ</a><br />
  <a href="https://ja.wikipedia.org/wiki/カルメロ・バレンシア" title="wikilink">カルメロ・バレンシア</a></p></td>

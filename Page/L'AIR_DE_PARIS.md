@@ -1,7 +1,7 @@
 > この記事は[L\'AIR DE PARIS](https://ja.wikipedia.org/wiki/L\'AIR_DE_PARIS)から翻訳されています。
 
 
-**HERMÈS L'AIR DE PARIS**（エルメス・レール・ドゥ・パリ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**HERMÈS L'AIR DE PARIS**（エルメス・レール・ドゥ・パリ）は、[2006年](../Page/2006年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -18,11 +18,11 @@
 
   -
     [2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")からは[FM COCOLOでも同時間帯で放送](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは[Brandnew Jでもサイマル放送](https://ja.wikipedia.org/wiki/Brandnew_J "wikilink")
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは[Brandnew Jでもサイマル放送](../Page/Brandnew_J.md "wikilink")
 
 ## ナビゲーター
 
-  - [VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")
+  - [VieVie](../Page/VieVie.md "wikilink")
 
 ## 主なコーナー
 

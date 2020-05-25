@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK陸中小国テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中小国テレビ中継局)から翻訳されています。
 
 
 **NHK陸中小国テレビ中継局**（エヌエイチケイりくちゅうおぐにテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")の旧[下閉伊郡](../Page/下閉伊郡.md "wikilink")[川井村域に置かれていた](../Page/川井村_\(岩手県\).md "wikilink")[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

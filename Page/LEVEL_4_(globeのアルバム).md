@@ -1,4 +1,4 @@
-> この記事は[LEVEL 4 \(globe\)](https://ja.wikipedia.org/wiki/LEVEL_4_\(globe\))から翻訳されています。
+> この記事は[LEVEL 4 \(globeのアルバム\)](https://ja.wikipedia.org/wiki/LEVEL_4_\(globeのアルバム\))から翻訳されています。
 
 
 『**LEVEL 4**』（レベル・フォー）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の9枚目のフルアルバム。
@@ -37,7 +37,7 @@
 6.  **INSIDE feat. MARC**
       -
         作曲・編曲:小室哲哉
-          - 一部のメロディで使われているKEIKOの声は[サンプリング](../Page/サンプリング.md "wikilink")ではなく、[音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")である\[8\]。
+          - 一部のメロディで使われているKEIKOの声は[サンプリング](../Page/サンプリング.md "wikilink")ではなく、[音声合成](../Page/音声合成.md "wikilink")である\[8\]。
           - 「アイウエオ」と言ってもらったものを取り込めば、仮歌が作れる機械を1999年からある楽器メーカーと共同で開発していた。その試作機を使った\[9\]。
 7.  **[seize the light](https://ja.wikipedia.org/wiki/seize_the_light "wikilink")**
       -
@@ -57,7 +57,7 @@
 [Category:Globeのアルバム](https://ja.wikipedia.org/wiki/Category:Globeのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")
 
 1.  ソニー・マガジンズ刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』2003年4月号133Pより。
-2.  [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊『[キーボード・マガジン](https://ja.wikipedia.org/wiki/キーボード・マガジン "wikilink")』2003年5月号より。
+2.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』2003年5月号より。
 3.
 4.
 5.

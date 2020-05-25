@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バーネットFC](https://ja.wikipedia.org/wiki/バーネットFC)から翻訳されています。
 
 
 **バーネット・フットボール・クラブ**（**Barnet Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")北部、[バーネットを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/バーネット・ロンドン特別区 "wikilink")。2018-2019シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。

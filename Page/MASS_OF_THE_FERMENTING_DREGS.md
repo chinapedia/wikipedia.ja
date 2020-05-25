@@ -6,7 +6,7 @@
 ## メンバー
 
   - 宮本菜津子（みやもと なつこ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月9日](../Page/4月9日.md "wikilink") - ）
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")も手がける。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")も手がける。
 
 <!-- end list -->
 
@@ -33,24 +33,24 @@
 
   - 石本知恵美（いしもと ちえみ、[1984年](../Page/1984年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - ）
     [ギター](../Page/ギター.md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。結成時メンバー。
-    [田渕ひさ子](https://ja.wikipedia.org/wiki/田渕ひさ子 "wikilink")のファン\[1\]。
-    パニック障害の治療に専念するため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月11日に行われた[渋谷CLUB QUATTROの](https://ja.wikipedia.org/wiki/CLUB_QUATTRO#各地のCLUB_QUATTRO "wikilink")[ライブ](https://ja.wikipedia.org/wiki/ライブ "wikilink")をもって脱退。
+    [田渕ひさ子](../Page/田渕ひさ子.md "wikilink")のファン\[1\]。
+    パニック障害の治療に専念するため、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月11日に行われた[渋谷CLUB QUATTROの](https://ja.wikipedia.org/wiki/CLUB_QUATTRO#各地のCLUB_QUATTRO "wikilink")[ライブ](../Page/ライブ.md "wikilink")をもって脱退。
 
 ## 来歴
 
 荒涼感と躍動感のある大音量のギター、ドラム、ベースと伸びやかで透明感のある宮本の声が特徴。アルバム『MASS OF THE FERMENTING DREGS』の収録は、グルーブ感を出すために全曲ほぼ一回のみの演奏で録り直しをしない手法で行われた\[2\]\[3\]。
 
-宮本\[4\]，石本ともに、音楽をはじめるきっかけとなった人物が [hide](https://ja.wikipedia.org/wiki/hide "wikilink")であり、影響を受けたことを[インタビュー](https://ja.wikipedia.org/wiki/インタビュー "wikilink")などで公言している。
+宮本\[4\]，石本ともに、音楽をはじめるきっかけとなった人物が [hide](https://ja.wikipedia.org/wiki/hide "wikilink")であり、影響を受けたことを[インタビュー](../Page/インタビュー.md "wikilink")などで公言している。
 
 破壊感のある[メロディー](https://ja.wikipedia.org/wiki/メロディー "wikilink")と言われていることについて聞かれた際、宮本は「意識していない」と答えている\[5\]。
 
-[2007年](../Page/2007年.md "wikilink")、[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")が主催した[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")『Road To Tarbox Audition』に参加、最優秀アーティストに選ばれる。入選の特典として[デイヴ・フリッドマン](https://ja.wikipedia.org/wiki/デイヴ・フリッドマン "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")のタルボックス・ロード・スタジオで[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")を行う。
+[2007年](../Page/2007年.md "wikilink")、[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")が主催した[オーディション](../Page/オーディション.md "wikilink")『Road To Tarbox Audition』に参加、最優秀アーティストに選ばれる。入選の特典として[デイヴ・フリッドマン](https://ja.wikipedia.org/wiki/デイヴ・フリッドマン "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のタルボックス・ロード・スタジオで[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")を行う。
 
 同年夏、[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")の[インディーズ](../Page/インディーズ.md "wikilink")バンドのためのステージ「ルーキー・ア・ゴー・ゴー」に出演。
 
-その後、アルバム発売を待つことなくドラムの後藤玲子が脱退。脱退以後のライブでは、[相対性理論の](https://ja.wikipedia.org/wiki/相対性理論_\(バンド\) "wikilink")[西浦謙助](https://ja.wikipedia.org/wiki/西浦謙助 "wikilink")や元[BACK DROP BOMBの有松益男](https://ja.wikipedia.org/wiki/BACK_DROP_BOMB "wikilink")、wordの吉野功がサポートメンバーとしてドラムを担当している。2008年1月、ファーストアルバム『MASS OF THE FERMENTING DREGS』を発表\[6\]\[7\]\[8\]。
+その後、アルバム発売を待つことなくドラムの後藤玲子が脱退。脱退以後のライブでは、[相対性理論の](../Page/相対性理論_\(バンド\).md "wikilink")[西浦謙助](https://ja.wikipedia.org/wiki/西浦謙助 "wikilink")や元[BACK DROP BOMBの有松益男](../Page/BACK_DROP_BOMB.md "wikilink")、wordの吉野功がサポートメンバーとしてドラムを担当している。2008年1月、ファーストアルバム『MASS OF THE FERMENTING DREGS』を発表\[6\]\[7\]\[8\]。
 
-2009年1月には[中尾憲太郎](https://ja.wikipedia.org/wiki/中尾憲太郎 "wikilink")を共同プロデューサーに迎え、2ndアルバム『ワールドイズユアーズ』を発表。
+2009年1月には[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")を共同プロデューサーに迎え、2ndアルバム『ワールドイズユアーズ』を発表。
 
 12月にはサポートメンバーとして関わっていた吉野功をドラマーとして正式メンバーに加入、そして1st[シングル](../Page/シングル.md "wikilink")を出すのと同時に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")することを決定した。
 
@@ -144,7 +144,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/9月15日.md" title="wikilink">9月15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月15日.md" title="wikilink">9月15日</a></p></td>
 <td><p><strong>kirametal</strong></p></td>
 <td><p>IND1142</p></td>
 <td><ol>
@@ -266,13 +266,13 @@
   - 2008年08月09日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
   - 2008年08月25日 - [くるり](../Page/くるり.md "wikilink") 対バンツアー2008 デラぜっぴん ～混浴四重奏～ ZEPPING
   - 2008年08月31日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2008
-  - 2009年04月14日・15日 - [Base Ball Bear](https://ja.wikipedia.org/wiki/Base_Ball_Bear "wikilink") LIVE MATHEMATICS TOUR09
+  - 2009年04月14日・15日 - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink") LIVE MATHEMATICS TOUR09
   - 2009年04月26日 - ARABAKI ROCK FEST.09
   - 2009年06月14日 - RUSH BALL★R
   - 2009年07月26日 - FUJI ROCK FESTIVAL '09
   - 2009年08月15日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
   - 2009年09月05日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 09
-  - 2009年12月28日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 09/10
+  - 2009年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10
   - 2010年03月21日 - MUSIC CUBE 10
   - 2010年08月08日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年08月13日 - RISING SUN ROCK FESTIVAL 2010 in EZO

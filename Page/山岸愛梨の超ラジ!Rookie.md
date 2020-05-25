@@ -1,4 +1,4 @@
-> この記事は[!Rookie](https://ja.wikipedia.org/wiki/!Rookie)から翻訳されています。
+> この記事は[山岸愛梨の超ラジ!Rookie](https://ja.wikipedia.org/wiki/山岸愛梨の超ラジ!Rookie)から翻訳されています。
 
 
 『**Voice of A\&G Digital 山岸愛梨の超ラジ\!Rookie**』（やまぎしあいりのちょうラジルーキー）は、[2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで放送された[地上デジタルラジオ番組](../Page/デジタルラジオ.md "wikilink")。

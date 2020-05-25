@@ -1,21 +1,21 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[ブラッドフォード・シティAFC](https://ja.wikipedia.org/wiki/ブラッドフォード・シティAFC)から翻訳されています。
 
 
 **ブラッドフォード・シティ・アソシエーション・フットボール・クラブ**（**Bradford City Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ブラッドフォードを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/ブラッドフォード_\(イングランド\) "wikilink")。[1903年](../Page/1903年.md "wikilink")設立。2019-20シーズン現在、[EFLリーグ2](../Page/EFLリーグ2.md "wikilink")（4部相当）に所属。
 
 ## 歴史
 
-[1903年](../Page/1903年.md "wikilink")、ブラッドフォード・シティAFCはブラッドフォード・オブサーバー紙編集補佐のジェームズ・ワイトの呼びかけで集まった[イングランドサッカー協会](https://ja.wikipedia.org/wiki/イングランドサッカー協会 "wikilink")の代表者と[ラグビーリーグ](https://ja.wikipedia.org/wiki/ラグビーリーグ "wikilink")のクラブであった[マニンガムFC](https://ja.wikipedia.org/wiki/マニンガムFC "wikilink")の役員との間で行われた一連の会合によって設立された\[1\]。当時、ラグビーリーグの人気が支配的であったにおいて、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")はこの新クラブ設立を[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")を振興する好機としてとらえ、[ドンカスター・ローヴァーズFC](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC "wikilink")に代わって2部リーグへの加入を認めた。その4日後に行われた第23回年次会合において、マニンガムFCはラグビーリーグからサッカーのクラブへ改組することを決め、ブラッドフォード・シティAFCがマニンガムFCのクラブカラー（クラレットおよび琥珀色）と本拠地であるを受け継ぐこととなった\[2\]。
+[1903年](../Page/1903年.md "wikilink")、ブラッドフォード・シティAFCはブラッドフォード・オブサーバー紙編集補佐のジェームズ・ワイトの呼びかけで集まった[イングランドサッカー協会](https://ja.wikipedia.org/wiki/イングランドサッカー協会 "wikilink")の代表者と[ラグビーリーグ](../Page/ラグビーリーグ.md "wikilink")のクラブであった[マニンガムFC](https://ja.wikipedia.org/wiki/マニンガムFC "wikilink")の役員との間で行われた一連の会合によって設立された\[1\]。当時、ラグビーリーグの人気が支配的であったにおいて、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")はこの新クラブ設立を[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")を振興する好機としてとらえ、[ドンカスター・ローヴァーズFC](../Page/ドンカスター・ローヴァーズFC.md "wikilink")に代わって2部リーグへの加入を認めた。その4日後に行われた第23回年次会合において、マニンガムFCはラグビーリーグからサッカーのクラブへ改組することを決め、ブラッドフォード・シティAFCがマニンガムFCのクラブカラー（クラレットおよび琥珀色）と本拠地であるを受け継ぐこととなった\[2\]。
 
-1907–08シーズンに2部リーグで優勝し、1部初昇格。[1911年](../Page/1911年.md "wikilink")4月には[ニューカッスル・ユナイテッドFC](https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC "wikilink")を破って[FAカップ](../Page/FAカップ.md "wikilink")を制覇した。しかし、1921–22シーズン終了後に[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")と共に2部に降格すると長らく低迷。[1999年](../Page/1999年.md "wikilink")に[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")へ昇格するまで77年間に渡り1部リーグから遠ざかった。また、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月11日](../Page/5月11日.md "wikilink")にはバレー・パレードでの[リンカーン・シティFC](https://ja.wikipedia.org/wiki/リンカーン・シティFC "wikilink")との試合中に客席から火災が発生、死者56人、重軽傷者265人を出す惨事が起きている（[ブラッドフォード・サッカー場火災](https://ja.wikipedia.org/wiki/ブラッドフォード・サッカー場火災 "wikilink")）。プレミアリーグでの初年度は勝ち点36を挙げ残留したが、次のシーズンには降格した。2000年代に入るとクラブが財政危機に陥ったこともあり、下部リーグへの降格を繰り返した。2006–07シーズンには4部相当の[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")にまで落ちた。
+1907–08シーズンに2部リーグで優勝し、1部初昇格。[1911年](../Page/1911年.md "wikilink")4月には[ニューカッスル・ユナイテッドFC](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")を破って[FAカップ](../Page/FAカップ.md "wikilink")を制覇した。しかし、1921–22シーズン終了後に[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")と共に2部に降格すると長らく低迷。[1999年](../Page/1999年.md "wikilink")に[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")へ昇格するまで77年間に渡り1部リーグから遠ざかった。また、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月11日](../Page/5月11日.md "wikilink")にはバレー・パレードでの[リンカーン・シティFC](../Page/リンカーン・シティFC.md "wikilink")との試合中に客席から火災が発生、死者56人、重軽傷者265人を出す惨事が起きている（[ブラッドフォード・サッカー場火災](https://ja.wikipedia.org/wiki/ブラッドフォード・サッカー場火災 "wikilink")）。プレミアリーグでの初年度は勝ち点36を挙げ残留したが、次のシーズンには降格した。2000年代に入るとクラブが財政危機に陥ったこともあり、下部リーグへの降格を繰り返した。2006–07シーズンには4部相当の[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")にまで落ちた。
 
-4部リーグで迎えた2012-2013シーズンは[キャピタル・ワン・カップで快進撃をみせ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")、[ウィガン・アスレティックFC](https://ja.wikipedia.org/wiki/ウィガン・アスレティックFC "wikilink")、[アーセナルFC](../Page/アーセナルFC.md "wikilink")\[3\]、[アストン・ビラFC](https://ja.wikipedia.org/wiki/アストン・ビラFC "wikilink")とプレミアリーグ勢に相次いで勝利し、決勝進出を決めた\[4\]。決勝で[スウォンジ・シティAFC](https://ja.wikipedia.org/wiki/スウォンジ・シティAFC "wikilink")に敗れ優勝は逃したものの、4部リーグのクラブが[リーグカップ](https://ja.wikipedia.org/wiki/リーグカップ "wikilink")の決勝まで勝ち上がったのは51年ぶり\[5\]。また、ブラッドフォード・シティとしてもFA杯で優勝した1911年以来、101年ぶりの主要大会での決勝進出となった。リーグ戦でも7位ながらプレーオフに勝利して[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")に昇格を果たした。
+4部リーグで迎えた2012-2013シーズンは[キャピタル・ワン・カップで快進撃をみせ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")、[ウィガン・アスレティックFC](../Page/ウィガン・アスレティックFC.md "wikilink")、[アーセナルFC](../Page/アーセナルFC.md "wikilink")\[3\]、[アストン・ビラFC](https://ja.wikipedia.org/wiki/アストン・ビラFC "wikilink")とプレミアリーグ勢に相次いで勝利し、決勝進出を決めた\[4\]。決勝で[スウォンジ・シティAFC](https://ja.wikipedia.org/wiki/スウォンジ・シティAFC "wikilink")に敗れ優勝は逃したものの、4部リーグのクラブが[リーグカップ](https://ja.wikipedia.org/wiki/リーグカップ "wikilink")の決勝まで勝ち上がったのは51年ぶり\[5\]。また、ブラッドフォード・シティとしてもFA杯で優勝した1911年以来、101年ぶりの主要大会での決勝進出となった。リーグ戦でも7位ながらプレーオフに勝利して[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")に昇格を果たした。
 
 ## クラブ各種記録
 
 **1試合最多観客動員数**
 
-  - 39,146人 vs [バーンリー](https://ja.wikipedia.org/wiki/バーンリーFC "wikilink") FAカップ4回戦 1911.3.11
+  - 39,146人 vs [バーンリー](../Page/バーンリーFC.md "wikilink") FAカップ4回戦 1911.3.11
 
 **1試合最多得点勝利試合(リーグ)**
 
@@ -23,7 +23,7 @@
 
 **1試合最多失点敗戦試合(リーグ)**
 
-  - 1-9 vs [コルチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/コルチェスター・ユナイテッドFC "wikilink") フットボールリーグ・フォースディヴィジョン 1961.12.30
+  - 1-9 vs [コルチェスター・ユナイテッド](../Page/コルチェスター・ユナイテッドFC.md "wikilink") フットボールリーグ・フォースディヴィジョン 1961.12.30
 
 **1試合最多得点勝利試合(カップ)**
 
@@ -31,7 +31,7 @@
 
 **1試合最多失点敗戦試合(カップ)**
 
-  - 1-6 vs [ニューカッスル・ユナイテッド](https://ja.wikipedia.org/wiki/ニューカッスル・ユナイテッドFC "wikilink") FAカップ3回戦 1963.3.7
+  - 1-6 vs [ニューカッスル・ユナイテッド](../Page/ニューカッスル・ユナイテッドFC.md "wikilink") FAカップ3回戦 1963.3.7
 
 ## タイトル
 
@@ -106,7 +106,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・ロブソン" title="wikilink">ブライアン・ロブソン</a></p></td>
+<td><p><a href="../Page/ブライアン・ロブソン.md" title="wikilink">ブライアン・ロブソン</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -221,6 +221,8 @@
 ## 歴代所属選手
 
   - [ディーン・リチャーズ](https://ja.wikipedia.org/wiki/ディーン・リチャーズ_\(サッカー選手\) "wikilink") 1991-1995
+
+  - [ダン・ペトレスク](https://ja.wikipedia.org/wiki/ダン・ペトレスク "wikilink") 2000-2001
 
   - [オマー・デイリー](https://ja.wikipedia.org/wiki/オマー・デイリー "wikilink") 2007-2011
 

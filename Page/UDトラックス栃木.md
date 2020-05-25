@@ -1,4 +1,4 @@
-> この記事は[UD](https://ja.wikipedia.org/wiki/UD)から翻訳されています。
+> この記事は[UDトラックス栃木](https://ja.wikipedia.org/wiki/UDトラックス栃木)から翻訳されています。
 
 
 **UDトラックス栃木株式会社**（ユーディートラックスとちぎ）とは、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")に本社を置く、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧「日産ディーゼル」） ブランドの自動車を販売する[栃木日産自動車販売](https://ja.wikipedia.org/wiki/栃木日産自動車販売 "wikilink")の子会社である。
@@ -16,11 +16,11 @@
 ## 関連項目
 
   - [UDトラックスジャパン](https://ja.wikipedia.org/wiki/UDトラックスジャパン "wikilink")
-  - [UDトラックス道東](https://ja.wikipedia.org/wiki/UDトラックス道東 "wikilink")
-  - [UDトラックス北海道](https://ja.wikipedia.org/wiki/UDトラックス北海道 "wikilink")
+  - [UDトラックス道東](../Page/UDトラックス道東.md "wikilink")
+  - [UDトラックス北海道](../Page/UDトラックス北海道.md "wikilink")
   - [UDトラックス岩手](https://ja.wikipedia.org/wiki/UDトラックス岩手 "wikilink")
-  - [UDトラックス新潟](https://ja.wikipedia.org/wiki/UDトラックス新潟 "wikilink")
-  - [群馬日産ディーゼル&ロジスティクス](https://ja.wikipedia.org/wiki/群馬日産ディーゼル&ロジスティクス "wikilink")
+  - [UDトラックス新潟](../Page/UDトラックス新潟.md "wikilink")
+  - [群馬日産ディーゼル&ロジスティクス](../Page/群馬日産ディーゼル&ロジスティクス.md "wikilink")
 
 ## 外部リンク
 

@@ -12,8 +12,8 @@
 1.  **OKINAWA**
       -
         作詞：角松敏生、作曲・編曲：角松敏生・DAVID FRANK & MIC MURPHY
-        [アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[REASONS FOR THOUSAND LOVERS](https://ja.wikipedia.org/wiki/REASONS_FOR_THOUSAND_LOVERS "wikilink")』収録。シングルとはアレンジが異なる。
-        [ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』収録。シングルと同アレンジ。
+        [アルバム](../Page/スタジオ・アルバム.md "wikilink")『[REASONS FOR THOUSAND LOVERS](../Page/REASONS_FOR_THOUSAND_LOVERS.md "wikilink")』収録。シングルとはアレンジが異なる。
+        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』収録。シングルと同アレンジ。
 2.  **ROCKIN' OUT MY LOVE**
       -
         作詞・作曲：角松敏生、編曲：JEFF BOVA & JIMMY BRALOWER
@@ -26,18 +26,18 @@
 
 ### OKINAWA
 
-|                                                                                     |
-| ----------------------------------------------------------------------------------- |
-| PRODUCER: DAVID FRANK & MIC MURPHY AS “THE SYSTEM”                                  |
-|                                                                                     |
-| LEAD VOCAL: TOSHIKI KADOMATSU                                                       |
-| SYNTHESIZER, COMPUTER PROGRAMMING: TOSHIKI KADOMATSU, KANICHIRO KUBO, DAVID FRANK   |
-| GUITAR: PAUL PESCO                                                                  |
-| BACKGROUND VOCAL: SHARON BRYANT, VANEESE THOMAS                                     |
-|                                                                                     |
-| RECORDING ENGINEER: STEPHEN SELTZER                                                 |
-| MIXER: ROEY SHAMIR                                                                  |
-| STUDIO: SCIENCE LAB STUDIO ([N.Y](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")) |
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| PRODUCER: DAVID FRANK & MIC MURPHY AS “THE SYSTEM”                                |
+|                                                                                   |
+| LEAD VOCAL: TOSHIKI KADOMATSU                                                     |
+| SYNTHESIZER, COMPUTER PROGRAMMING: TOSHIKI KADOMATSU, KANICHIRO KUBO, DAVID FRANK |
+| GUITAR: PAUL PESCO                                                                |
+| BACKGROUND VOCAL: SHARON BRYANT, VANEESE THOMAS                                   |
+|                                                                                   |
+| RECORDING ENGINEER: STEPHEN SELTZER                                               |
+| MIXER: ROEY SHAMIR                                                                |
+| STUDIO: SCIENCE LAB STUDIO ([N.Y](../Page/ニューヨーク.md "wikilink"))                  |
 
 ### ROCKIN' OUT MY LOVE
 

@@ -1,7 +1,7 @@
 > この記事は[H.o.p.s.](https://ja.wikipedia.org/wiki/H.o.p.s.)から翻訳されています。
 
 
-『**h.o.p.s.**』（ホップス）は、[GOING UNDER GROUNDの](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")発売。
+『**h.o.p.s.**』（ホップス）は、[GOING UNDER GROUNDの](../Page/GOING_UNDER_GROUND.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より[2005年](../Page/2005年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")発売。
 
 ## 解説
 
@@ -13,11 +13,11 @@
 ## 収録曲
 
 1.  **fire grow**
-    （作曲：[河野丈洋](https://ja.wikipedia.org/wiki/河野丈洋 "wikilink")）
+    （作曲：[河野丈洋](../Page/河野丈洋.md "wikilink")）
       -
-        [インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+        [インストゥルメンタル](../Page/器楽曲.md "wikilink")。
 2.  **ロール アンド ロール**
-    （作詞・作曲：[松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")）
+    （作詞・作曲：[松本素生](../Page/松本素生.md "wikilink")）
 3.  **アゲハ**
     （作詞・作曲：河野丈洋）
       -
@@ -26,15 +26,15 @@
     （作詞・作曲：河野丈洋）
       -
         河野が[長嶋有](../Page/長嶋有.md "wikilink")の小説『[サイドカーに犬](../Page/サイドカーに犬.md "wikilink")』を読んで作った曲。松本・中澤・河野によるトリオボーカル曲。歌詞カードには歌詞にカラオケのように３人のパートを見分けられる記号（トランプのマークなど）がついている。
-5.  **恋のナビゲーション**（作詞：松本素生/[中澤寛規](https://ja.wikipedia.org/wiki/中澤寛規 "wikilink")、作曲：GOING UNDER GROUND）
+5.  **恋のナビゲーション**（作詞：松本素生/中澤寛規、作曲：GOING UNDER GROUND）
       -
-        中澤ボーカル曲。前作に収録されている虹ヶ丘と同じく、作曲を全員で手がけている。[石原聡](https://ja.wikipedia.org/wiki/石原聡 "wikilink")の声が一部で使用されている。
+        中澤ボーカル曲。前作に収録されている虹ヶ丘と同じく、作曲を全員で手がけている。石原聡の声が一部で使用されている。
 6.  **あすなろ**
     （作詞・作曲：松本素生）
 7.  **[同じ月を見てた](https://ja.wikipedia.org/wiki/同じ月を見てた "wikilink")**
     （作詞・作曲：松本素生）
       -
-        9thシングル。PVには[石原聡](https://ja.wikipedia.org/wiki/石原聡 "wikilink")が新郎役、[平良千春](../Page/平良千春.md "wikilink")が新婦役として出演している。
+        9thシングル。PVには石原聡が新郎役、[平良千春](../Page/平良千春.md "wikilink")が新婦役として出演している。
 8.  **TENDER**
     （作詞・作曲：松本素生）
 9.  **[サンキュー](https://ja.wikipedia.org/wiki/サンキュー_\(曲\) "wikilink")**

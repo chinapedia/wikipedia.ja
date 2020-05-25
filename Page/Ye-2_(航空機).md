@@ -1,4 +1,4 @@
-> この記事は[Ye-2 \(\)](https://ja.wikipedia.org/wiki/Ye-2_\(\))から翻訳されています。
+> この記事は[Ye-2 \(航空機\)](https://ja.wikipedia.org/wiki/Ye-2_\(航空機\))から翻訳されています。
 
 
 **Ye-2**(**E-2**；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>イェー・ドヴァー</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ミコヤン設計局が試作した](../Page/MiG.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**フェイスプレイト** (Faceplate)。

@@ -1,7 +1,7 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[硫酸タリウム\(I\)](https://ja.wikipedia.org/wiki/硫酸タリウム\(I\))から翻訳されています。
 
 
-}} **硫酸タリウム(I)**（りゅうさんたりうむ いち、thallium(I) sulfate）は1価の[タリウム](../Page/タリウム.md "wikilink")の[硫酸塩](https://ja.wikipedia.org/wiki/硫酸塩 "wikilink")である。[化学式](https://ja.wikipedia.org/wiki/化学式 "wikilink")はTl<sub>2</sub>SO<sub>4</sub>。水に易溶である。
+}} **硫酸タリウム(I)**（りゅうさんたりうむ いち、thallium(I) sulfate）は1価の[タリウム](../Page/タリウム.md "wikilink")の[硫酸塩](../Page/硫酸塩.md "wikilink")である。[化学式](../Page/化学式.md "wikilink")はTl<sub>2</sub>SO<sub>4</sub>。水に易溶である。
 
 ## 構造
 
@@ -9,7 +9,7 @@
 
 ## 使用
 
-[18世紀](../Page/18世紀.md "wikilink")から[19世紀](../Page/19世紀.md "wikilink")にかけて様々な医療治療に使われていたが、[20世紀](../Page/20世紀.md "wikilink")以降、[殺鼠剤](https://ja.wikipedia.org/wiki/殺鼠剤 "wikilink")としての利用法が確立した。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")では[1975年](../Page/1975年.md "wikilink")に使用を禁止した。
+[18世紀](../Page/18世紀.md "wikilink")から[19世紀](../Page/19世紀.md "wikilink")にかけて様々な医療治療に使われていたが、[20世紀](../Page/20世紀.md "wikilink")以降、[殺鼠剤](../Page/殺鼠剤.md "wikilink")としての利用法が確立した。[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")では[1975年](../Page/1975年.md "wikilink")に使用を禁止した。
 
 ## 毒性
 

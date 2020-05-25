@@ -1,11 +1,11 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCユニバーサルグローバル・ネットワークス・ジャパン](https://ja.wikipedia.org/wiki/NBCユニバーサルグローバル・ネットワークス・ジャパン)から翻訳されています。
 
 
 株式会社**NBCユニバーサルグローバル・ネットワークス・ジャパン**は、[スカパー\!をプラットフォームとする](../Page/スカパー!プレミアムサービス.md "wikilink")[衛星一般放送事業者](https://ja.wikipedia.org/wiki/衛星一般放送事業者 "wikilink")である。
 
 1996年9月、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")により[JスカイB](../Page/JスカイB.md "wikilink")（現・[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")（標準画質））の株主系[委託放送事業者](../Page/委託放送事業者.md "wikilink")のひとつとして設立された「スカイニュース企画」が前身。1998年「コンピュータ・チャンネル」に社名変更、同年6月にスカパー\!で放送開始。
 
-その後、ジュピター・プログラミング（現・[ジュピターテレコム メディア事業部門](https://ja.wikipedia.org/wiki/ジュピターテレコム_メディア事業部門 "wikilink")）の子会社を経て、[NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル "wikilink")傘下となる。
+その後、ジュピター・プログラミング（現・[ジュピターテレコム メディア事業部門](../Page/ジュピターテレコム_メディア事業部門.md "wikilink")）の子会社を経て、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")傘下となる。
 
 2008年4月より、[SCI FI（サイファイチャンネル）の放送を開始](https://ja.wikipedia.org/wiki/Syfy "wikilink")。2008年6月、社名を現在の「株式会社NBCユニバーサルグローバル・ネットワークス・ジャパン」に変更した。
 
@@ -21,7 +21,7 @@
   - 2003年7月1日 - Channel BB、「チャンネルBB」にチャンネル名変更。
   - [2004年](../Page/2004年.md "wikilink")12月8日 - ソフトバンク・ブロードメディア株式会社（現・[SBBM](../Page/SBBM.md "wikilink")株式会社）が保有していたビー・ビー・ファクトリー株式をジュピター・プログラミングに売却。
       - この間に**JSBC2株式会社**に社名変更
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月31日 - チャンネルBB放送終了。JSBC2、電気通信役務利用放送事業者（衛星役務利用）登録。
+  - [2005年](../Page/2005年.md "wikilink")1月31日 - チャンネルBB放送終了。JSBC2、電気通信役務利用放送事業者（衛星役務利用）登録。
   - 2005年2月1日 - JSBC2、[リアリティTV](https://ja.wikipedia.org/wiki/リアリティTV "wikilink")（番組供給会社はリアリティTVジャパン）放送開始。
   - [2007年](../Page/2007年.md "wikilink")11月8日 - ジュピターテレコム、保有するJSBC2株式をNBCユニバーサルに売却することで合意。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月31日 - リアリティTV放送終了。
@@ -34,7 +34,7 @@
 ## 放送チャンネル
 
   - コンピュータ・チャンネル（1998年6月1日 - 2002年3月31日）
-  - Channel BB→[チャンネルBB](https://ja.wikipedia.org/wiki/チャンネルBB "wikilink")（2002年4月1日 - 2005年1月31日）
+  - Channel BB→[チャンネルBB](../Page/チャンネルBB.md "wikilink")（2002年4月1日 - 2005年1月31日）
   - [リアリティTV](https://ja.wikipedia.org/wiki/リアリティTV "wikilink")（2005年2月1日 - 2008年3月31日）
   - [SCI FI（サイファイチャンネル）](https://ja.wikipedia.org/wiki/Syfy "wikilink")（2008年4月1日 - 2010年3月31日）
   - [ユニバーサルチャンネル](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")（2010年4月1日 - 2013年3月31日）
@@ -44,8 +44,8 @@
 ## 関連項目
 
   - [JスカイB](../Page/JスカイB.md "wikilink")
-  - [ジュピターTV](https://ja.wikipedia.org/wiki/ジュピターテレコム_メディア事業部門 "wikilink")
-  - [NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル "wikilink")
+  - [ジュピターTV](../Page/ジュピターテレコム_メディア事業部門.md "wikilink")
+  - [NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")
   - [FOXインターナショナル・チャンネルズ](../Page/FOXネットワークス・グループ.md "wikilink")
 
 ## 外部リンク

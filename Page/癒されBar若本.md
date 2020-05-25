@@ -1,4 +1,4 @@
-> この記事は[Bar](https://ja.wikipedia.org/wiki/Bar)から翻訳されています。
+> この記事は[癒されBar若本](https://ja.wikipedia.org/wiki/癒されBar若本)から翻訳されています。
 
 
 **癒されBar若本**は、[声優](../Page/声優.md "wikilink")の[若本規夫](../Page/若本規夫.md "wikilink")が[パーソナリティを務めた](../Page/ラジオパーソナリティ.md "wikilink")[インターネットラジオ番組](../Page/ラジオ番組.md "wikilink")([アニラジ](../Page/アニラジ.md "wikilink")) である。
@@ -85,22 +85,22 @@
 <tr class="even">
 <td><p>3,4</p></td>
 <td><p>2007年12月14日・28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡本麻弥" title="wikilink">岡本麻弥</a>，<a href="https://ja.wikipedia.org/wiki/飯塚康一" title="wikilink">飯塚康一</a></p></td>
+<td><p><a href="../Page/岡本麻弥.md" title="wikilink">岡本麻弥</a>，<a href="../Page/飯塚康一.md" title="wikilink">飯塚康一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5,6</p></td>
 <td><p>2008年1月11日・25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桑谷夏子" title="wikilink">桑谷夏子</a></p></td>
+<td><p><a href="../Page/桑谷夏子.md" title="wikilink">桑谷夏子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7,8</p></td>
 <td><p>2008年2月8日・22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上喜久子" title="wikilink">井上喜久子</a></p></td>
+<td><p><a href="../Page/井上喜久子.md" title="wikilink">井上喜久子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9,10</p></td>
 <td><p>2008年3月14日・28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中島沙樹" title="wikilink">中島沙樹</a>，<a href="https://ja.wikipedia.org/wiki/中村悠一" title="wikilink">中村悠一</a></p></td>
+<td><p><a href="../Page/中島沙樹.md" title="wikilink">中島沙樹</a>，<a href="../Page/中村悠一.md" title="wikilink">中村悠一</a></p></td>
 </tr>
 <tr class="even">
 <td><p>公録回</p></td>
@@ -110,12 +110,12 @@
 <tr class="odd">
 <td><p>11,12</p></td>
 <td><p>2008年4月11日・25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/恒松あゆみ" title="wikilink">恒松あゆみ</a>，<a href="https://ja.wikipedia.org/wiki/下山吉光" title="wikilink">下山吉光</a></p></td>
+<td><p><a href="../Page/恒松あゆみ.md" title="wikilink">恒松あゆみ</a>，<a href="../Page/下山吉光.md" title="wikilink">下山吉光</a></p></td>
 </tr>
 <tr class="even">
 <td><p>13,14</p></td>
 <td><p>2008年5月9日・23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田昌子" title="wikilink">池田昌子</a></p></td>
+<td><p><a href="../Page/池田昌子.md" title="wikilink">池田昌子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15,16</p></td>
@@ -130,12 +130,12 @@
 <tr class="odd">
 <td><p>19,20</p></td>
 <td><p>2008年8月8日・22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福山潤" title="wikilink">福山潤</a></p></td>
+<td><p><a href="../Page/福山潤.md" title="wikilink">福山潤</a></p></td>
 </tr>
 <tr class="even">
 <td><p>21,22</p></td>
 <td><p>2008年9月12日・26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村郁絵" title="wikilink">木村郁絵</a>，<a href="https://ja.wikipedia.org/wiki/稲田徹" title="wikilink">稲田徹</a></p></td>
+<td><p><a href="../Page/木村郁絵.md" title="wikilink">木村郁絵</a>，<a href="../Page/稲田徹.md" title="wikilink">稲田徹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23,24</p></td>
@@ -155,7 +155,7 @@
 <tr class="even">
 <td><p>27,28</p></td>
 <td><p>2008年12月12日・26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小清水亜美" title="wikilink">小清水亜美</a>，<a href="https://ja.wikipedia.org/wiki/福井裕佳梨" title="wikilink">福井裕佳梨</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小清水亜美" title="wikilink">小清水亜美</a>，<a href="../Page/福井裕佳梨.md" title="wikilink">福井裕佳梨</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -163,12 +163,12 @@
 ## アシスタント
 
   - ＃1,2 [前田綾乃](https://ja.wikipedia.org/wiki/前田あやの "wikilink")
-  - ＃3,4 [RINA](https://ja.wikipedia.org/wiki/RINA "wikilink")
-  - ＃5,6 [藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")
+  - ＃3,4 [RINA](../Page/RINA.md "wikilink")
+  - ＃5,6 [藤田咲](../Page/藤田咲.md "wikilink")
   - ＃7,8 [秋野かほり](https://ja.wikipedia.org/wiki/秋野かほり "wikilink")
   - ＃13,14 [武虎](../Page/武虎.md "wikilink")
-  - ＃19,20 [廣田詩夢](https://ja.wikipedia.org/wiki/廣田詩夢 "wikilink")
-  - ＃25,26 [高本めぐみ](https://ja.wikipedia.org/wiki/高本めぐみ "wikilink")
+  - ＃19,20 [廣田詩夢](../Page/廣田詩夢.md "wikilink")
+  - ＃25,26 [高本めぐみ](../Page/高本めぐみ.md "wikilink")
 
 ## 製作されたカクテル
 

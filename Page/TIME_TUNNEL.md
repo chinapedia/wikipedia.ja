@@ -1,17 +1,17 @@
 > この記事は[TIME TUNNEL](https://ja.wikipedia.org/wiki/TIME_TUNNEL)から翻訳されています。
 
 
-『**TIME TUNNEL**』（タイム・トンネル）は、[1999年](../Page/1999年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算12作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**TIME TUNNEL**』（タイム・トンネル）は、[1999年](../Page/1999年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算12作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-の凍結宣言以後、リテイクによる[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")のリリースと\[1\]、ヴォーカリスト・プロジェクト“[VOCALAND](https://ja.wikipedia.org/wiki/VOCALAND "wikilink")”の他いくつかのプロデュース・ワークは行っていたものの、自身のオリジナル・アルバムとしてはの『[君をこえる日](https://ja.wikipedia.org/wiki/君をこえる日 "wikilink")』\[2\]以来5年ぶりの“解凍”第1弾アルバムとして、[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（当時）内に新たに設立された自身のレーベル“IDEAK”からリリースされた。
+の凍結宣言以後、リテイクによる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")のリリースと\[1\]、ヴォーカリスト・プロジェクト“[VOCALAND](https://ja.wikipedia.org/wiki/VOCALAND "wikilink")”の他いくつかのプロデュース・ワークは行っていたものの、自身のオリジナル・アルバムとしてはの『[君をこえる日](https://ja.wikipedia.org/wiki/君をこえる日 "wikilink")』\[2\]以来5年ぶりの“解凍”第1弾アルバムとして、[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（当時）内に新たに設立された自身のレーベル“IDEAK”からリリースされた。
 
-「風のあやぐ」は音楽活動再開時に[宮古島](../Page/宮古島.md "wikilink")で出逢った[沖縄のシンガー](../Page/沖縄県.md "wikilink")[下地暁](https://ja.wikipedia.org/wiki/下地暁 "wikilink")への提供曲。本作では角松と下地のデュエット曲として収録、自身初の[男性](../Page/男性.md "wikilink")アーティストとのデュエットとなった。
+「風のあやぐ」は音楽活動再開時に[宮古島](../Page/宮古島.md "wikilink")で出逢った[沖縄のシンガー](../Page/沖縄県.md "wikilink")[下地暁](../Page/下地暁.md "wikilink")への提供曲。本作では角松と下地のデュエット曲として収録、自身初の[男性](../Page/男性.md "wikilink")アーティストとのデュエットとなった。
 
 先行シングルとしてリリースされた「[Realize](https://ja.wikipedia.org/wiki/Realize_\(角松敏生の曲\) "wikilink")」\[3\]は、本作収録に際し歌いだしの前に前奏が加えられている。
 
-「崩壊の前日」はに起きた[阪神・淡路大震災](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")で被災した友人を想い作った曲だと語っている。
+「崩壊の前日」はに起きた[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")で被災した友人を想い作った曲だと語っている。
 
 「Unforgettable -Album Version-」はCDのパッケージやディスク、さらにレコード会社の公式サイト内のディスコグラフィに一切記載がない隠しトラックとして収録。シングルとは別バージョンとなっているが、一切記載が無い為、あえて“Album Version”となっている。また、12曲目となっているのは、前曲の「崩壊の前日」が終わると10秒程無音状態となり、さらに3秒程度の無音状態が7トラック、M-19でさらに6秒程度の無音がある。
 
@@ -62,7 +62,7 @@
 9.  **風のあやぐ**  \[12\]
 
       -
-        作詞：角松敏生・[下地暁](https://ja.wikipedia.org/wiki/下地暁 "wikilink")、作曲・編曲：角松敏生
+        作詞：角松敏生・[下地暁](../Page/下地暁.md "wikilink")、作曲・編曲：角松敏生
 
 10. **[Realize](https://ja.wikipedia.org/wiki/Realize_\(角松敏生の曲\) "wikilink")**  \[13\]
 
@@ -87,14 +87,14 @@
 <!-- end list -->
 
   - TOSHIKI KADOMATASU / Background Vocals, Guitar, Keyboards, Computer Programming
-  - [HIDEO YAMAKI](https://ja.wikipedia.org/wiki/山木秀夫 "wikilink") / Drums
-  - [TOMOHITO AOKI](https://ja.wikipedia.org/wiki/青木智仁 "wikilink") / Bass
+  - [HIDEO YAMAKI](../Page/山木秀夫.md "wikilink") / Drums
+  - [TOMOHITO AOKI](../Page/青木智仁.md "wikilink") / Bass
   - [SHINGO KOBAYASHI](https://ja.wikipedia.org/wiki/小林信吾 "wikilink") / Acoustic Piano
   - YOSHIHIRO TOMONARI / Hammond B3
-  - [YOSHIYUKI “BUTCHER” ASANO](https://ja.wikipedia.org/wiki/浅野祥之 "wikilink") / Guitar
+  - [YOSHIYUKI “BUTCHER” ASANO](../Page/浅野祥之.md "wikilink") / Guitar
   - KAZUMI MIYAURA / Background Vocals
   - HIROSHI YAMADA / Computer Manipulator
-  - [KAZUMI WATANABE](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink") / Guitar Solo (by the courtesy of [Polydor K.K.](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink"))
+  - [KAZUMI WATANABE](../Page/渡辺香津美.md "wikilink") / Guitar Solo (by the courtesy of [Polydor K.K.](../Page/ポリドール・レコード.md "wikilink"))
 
 ### Lunafairymiena
 
@@ -129,7 +129,7 @@
 {{-}}
 
   - TOSHIKI KADOMATASU / Vocal, Background Vocals, Keyboards, Computer Programming
-  - [TAKASHI NUMAZAWA](https://ja.wikipedia.org/wiki/沼澤尚 "wikilink") / Drums
+  - [TAKASHI NUMAZAWA](../Page/沼澤尚.md "wikilink") / Drums
   - TOMOHITO AOKI / Bass
   - SHINGO KOBAYASHI / Acoustic Piano
   - YOSHIHIRO TOMONARI / Fender Rhodes
@@ -226,7 +226,7 @@
 ### 風のあやぐ
 
   - MUSIC by TOSHIKI KADOMATSU
-  - WORDS by TOSHIKI KADOMATSU / [SATORU SHIMOJI](https://ja.wikipedia.org/wiki/下地暁 "wikilink")
+  - WORDS by TOSHIKI KADOMATSU / [SATORU SHIMOJI](../Page/下地暁.md "wikilink")
   - ARRANGED by TOSHIKI KADOMATSU
 
 {{-}}
@@ -235,7 +235,7 @@
   - SATORU SHIMOJI / Vocal
   - [CHUEI YOSHIKAWA](../Page/吉川忠英.md "wikilink") / Acoustic Guitar
   - HIROSHI YAMADA / Computer Manipulator
-  - [FUMIAKI MIYAMOTO](https://ja.wikipedia.org/wiki/宮本文昭 "wikilink") / Oboe Solo (by the courtesy of Sony MusicEntertainment(Japan)Inc.)
+  - [FUMIAKI MIYAMOTO](../Page/宮本文昭.md "wikilink") / Oboe Solo (by the courtesy of Sony MusicEntertainment(Japan)Inc.)
 
 ### Realize
 
@@ -265,7 +265,7 @@
 
 ### 崩壊の前日
 
-  - dedicated to all those who experienced [the earthquake that struck Kobe in 1995.](https://ja.wikipedia.org/wiki/阪神・淡路大震災 "wikilink")
+  - dedicated to all those who experienced [the earthquake that struck Kobe in 1995.](../Page/阪神・淡路大震災.md "wikilink")
 
 {{-}}
 
@@ -276,12 +276,12 @@
 {{-}}
 
   - TOSHIKI KADOMATASU / Vocal, Background Vocals, Guitar, Keyboards, Computer Programming
-  - [SHUICHI “PONTA” MURAKAMI](https://ja.wikipedia.org/wiki/村上秀一 "wikilink") / Drums (by the courtesy of [Victor Entertainment,Inc.](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink"))
+  - [SHUICHI “PONTA” MURAKAMI](../Page/村上秀一.md "wikilink") / Drums (by the courtesy of [Victor Entertainment,Inc.](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink"))
   - TOMOHITO AOKI / Bass
   - SHINGO KOBAYASHI / Acoustic Piano, Fender Rhodes
   - YOSHIYUKI “BUTCHER” ASANO / Guitar
   - HIROSHI YAMADA / Computer Manipulator
-  - [LARRY CARLTON](https://ja.wikipedia.org/wiki/ラリー・カールトン "wikilink") / Guitar Solo (by the courtesy of [Waner Brothers Records](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・レコード "wikilink"))
+  - [LARRY CARLTON](../Page/ラリー・カールトン.md "wikilink") / Guitar Solo (by the courtesy of [Waner Brothers Records](../Page/ワーナー・ブラザース・レコード.md "wikilink"))
   - KIRK WHALUM / Saxophone Solo (by the courtesy of Waner Brothers Records)
 
 ### スタッフ
@@ -292,7 +292,7 @@
 
   - ALL SONGS ARRANGED by TOSHIKI KADOMATSU
   - EXCEPT
-      - (TRACK-9) MIYAKO WORDS by [SATORU SHIMOJI](https://ja.wikipedia.org/wiki/下地暁 "wikilink")
+      - (TRACK-9) MIYAKO WORDS by [SATORU SHIMOJI](../Page/下地暁.md "wikilink")
       - (TRACK-2,3) HORN ARRANGED by [JERRY HEY](../Page/ジェリー・ヘイ.md "wikilink")
       - (TRACK-10) HORN ARRANGED by [SUSUMU KAZUHARA](../Page/数原晋.md "wikilink")
 
@@ -303,7 +303,7 @@
 
 {{-}}
 
-  - MIXED by [EIJI UCHINUMA](https://ja.wikipedia.org/wiki/内沼映二 "wikilink") at WESTSIDE STUDIO
+  - MIXED by [EIJI UCHINUMA](../Page/内沼映二.md "wikilink") at WESTSIDE STUDIO
   - ENGINEERS : SHINICHI KAWASUMI (MIXER'S LAB), STEBE SYKES
   - ASSISTANT ENGINEERS :
       - YOSHIHIKO MORI (MIXER'S LAB), CHINATSU KOIZUMI (MIXER'S LAB), TOSHIHIRO “KIM” MASUDA (MIXER'S LAB), SHINPEI YAMADA (MIXER'S LAB), HARUNA TAKAHASHI (MIXER'S LAB), MINORU HIROSE (MIXER'S LAB), ADAM OLMSTED (RECORD PLANT), J.C.MONTEROSSA (STUDIO SOUND KITCHEN)

@@ -1,7 +1,7 @@
-> この記事は[Vol.3](https://ja.wikipedia.org/wiki/Vol.3)から翻訳されています。
+> この記事は[シングルズVol.3](https://ja.wikipedia.org/wiki/シングルズVol.3)から翻訳されています。
 
 
-**シングルズVol.3**(**Singles, Volume 3**)は、2003年に発表された[エルヴィス・コステロ](https://ja.wikipedia.org/wiki/エルヴィス・コステロ "wikilink")のアルバム。
+**シングルズVol.3**(**Singles, Volume 3**)は、2003年に発表された[エルヴィス・コステロ](../Page/エルヴィス・コステロ.md "wikilink")のアルバム。
 
 ## 解説
 

@@ -1,7 +1,7 @@
 > この記事は[Leader\'s High!](https://ja.wikipedia.org/wiki/Leader\'s_High!)から翻訳されています。
 
 
-『**Leader's High\!**』（リーダーズハイ\!）は[神堂あらし](https://ja.wikipedia.org/wiki/神堂あらし "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[月刊少年ブラッド](https://ja.wikipedia.org/wiki/月刊少年ブラッド "wikilink")』（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）2006年5月号から連載開始。7話掲載されたところで同誌が休刊し、『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』に移行して残り2話を発表、2007年3月に終了した。全1巻、全9話。テンションの高いドタバタコメディ。住人の多くが魔法を使える無国籍風の世界を舞台に、魔法を使えない主人公が巻き込まれる受難を描く。
+『**Leader's High\!**』（リーダーズハイ\!）は[神堂あらし](https://ja.wikipedia.org/wiki/神堂あらし "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[月刊少年ブラッド](../Page/月刊少年ブラッド.md "wikilink")』（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）2006年5月号から連載開始。7話掲載されたところで同誌が休刊し、『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』に移行して残り2話を発表、2007年3月に終了した。全1巻、全9話。テンションの高いドタバタコメディ。住人の多くが魔法を使える無国籍風の世界を舞台に、魔法を使えない主人公が巻き込まれる受難を描く。
 
 ## あらすじ
 

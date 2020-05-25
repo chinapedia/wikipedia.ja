@@ -1,7 +1,7 @@
-> この記事は[ZOIDS](https://ja.wikipedia.org/wiki/ZOIDS)から翻訳されています。
+> この記事は[ZOIDS黙示録](https://ja.wikipedia.org/wiki/ZOIDS黙示録)から翻訳されています。
 
 
-『**ゾイド黙示録**』（ゾイドもくしろく）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、トミー（現：[タカラトミー](https://ja.wikipedia.org/wiki/タカラトミー "wikilink")）の[ゾイド](../Page/ゾイド.md "wikilink")を題材にした[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。[2009年](../Page/2009年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")より、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信されている。
+『**ゾイド黙示録**』（ゾイドもくしろく）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、トミー（現：[タカラトミー](../Page/タカラトミー.md "wikilink")）の[ゾイド](../Page/ゾイド.md "wikilink")を題材にした[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")である。[2009年](../Page/2009年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink")より、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されている。
 
 ## 概要
 
@@ -31,15 +31,15 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ヘリック共和国](https://ja.wikipedia.org/wiki/ヘリック共和国 "wikilink")
-      - [キングゴジュラス](https://ja.wikipedia.org/wiki/キングゴジュラス "wikilink")
-      - [マッドサンダー](https://ja.wikipedia.org/wiki/マッドサンダー "wikilink")
-      - [ウルトラザウルス](https://ja.wikipedia.org/wiki/ウルトラザウルス "wikilink")
+  - [ヘリック共和国](../Page/ヘリック共和国.md "wikilink")
+      - [キングゴジュラス](../Page/キングゴジュラス.md "wikilink")
+      - [マッドサンダー](../Page/マッドサンダー.md "wikilink")
+      - [ウルトラザウルス](../Page/ウルトラザウルス.md "wikilink")
       - [オルディオス](https://ja.wikipedia.org/wiki/オルディオス "wikilink")
       - [サラマンダーF2](https://ja.wikipedia.org/wiki/サラマンダー_\(ゾイド\)#サラマンダーF2 "wikilink")
       - [ゴジュラス](https://ja.wikipedia.org/wiki/ゴジュラス "wikilink")
       - [ガンブラスター](https://ja.wikipedia.org/wiki/大型ゾイド#ガンブラスター "wikilink")
-      - [シールドライガー](https://ja.wikipedia.org/wiki/シールドライガー "wikilink")
+      - [シールドライガー](../Page/シールドライガー.md "wikilink")
       - [ゴッドカイザー](https://ja.wikipedia.org/wiki/中型ゾイド#ゴッドカイザー "wikilink")
       - [キングライガー](https://ja.wikipedia.org/wiki/中型ゾイド#キングライガー "wikilink")
       - [バトルクーガー](https://ja.wikipedia.org/wiki/中型ゾイド#バトルクーガー "wikilink")
@@ -53,12 +53,12 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ガイロス帝国](https://ja.wikipedia.org/wiki/ガイロス帝国 "wikilink")
+  - [ガイロス帝国](../Page/ガイロス帝国.md "wikilink")
       - [デスバーン](https://ja.wikipedia.org/wiki/ギルベイダー#デスバーン "wikilink")
-      - [ギル・ベイダー](https://ja.wikipedia.org/wiki/ギル・ベイダー "wikilink")
-      - [デスザウラー](https://ja.wikipedia.org/wiki/デスザウラー "wikilink")
+      - [ギル・ベイダー](../Page/ギル・ベイダー.md "wikilink")
+      - [デスザウラー](../Page/デスザウラー.md "wikilink")
       - [ガン・ギャラド](https://ja.wikipedia.org/wiki/ガン・ギャラド "wikilink")
-      - [アイアンコング](https://ja.wikipedia.org/wiki/アイアンコング "wikilink")
+      - [アイアンコング](../Page/アイアンコング.md "wikilink")
       - [ダークホーン](https://ja.wikipedia.org/wiki/ダークホーン "wikilink")
       - [デッド・ボーダー](https://ja.wikipedia.org/wiki/大型ゾイド#デッド・ボーダー "wikilink")
       - [グレートサーベル](https://ja.wikipedia.org/wiki/セイバータイガー#グレートサーベル "wikilink")
@@ -77,7 +77,7 @@
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計23点（満40点）\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.16点（満30点）となっている\[2\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計23点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、18.16点（満30点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

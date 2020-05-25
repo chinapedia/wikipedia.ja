@@ -1,7 +1,7 @@
-> この記事は[OJ](https://ja.wikipedia.org/wiki/OJ)から翻訳されています。
+> この記事は[O・J・シンプソン事件](https://ja.wikipedia.org/wiki/O・J・シンプソン事件)から翻訳されています。
 
 
-**O・J・シンプソン事件**（O・J・シンプソンじけん）は[O・J・シンプソン](https://ja.wikipedia.org/wiki/O・J・シンプソン "wikilink")が殺人事件で逮捕されて裁判になった、[アメリカで起きた事件](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+**O・J・シンプソン事件**（O・J・シンプソンじけん）は[O・J・シンプソン](../Page/O・J・シンプソン.md "wikilink")が殺人事件で逮捕されて裁判になった、[アメリカで起きた事件](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
 [被疑者](../Page/被疑者.md "wikilink")・[被告人](../Page/被告人.md "wikilink")となったシンプソンが高名な人物であったことから全米のみならず世界中の注目を集め、[リジー・ボーデン](https://ja.wikipedia.org/wiki/リジー・ボーデン "wikilink")以来のアメリカ史における[犯罪学](../Page/犯罪学.md "wikilink")の象徴となり、以降様々なジャンルで取り上げられることとなった重要な事件である。[刑事裁判](https://ja.wikipedia.org/wiki/刑事裁判 "wikilink")では殺人を否定する無罪判決となり[民事裁判](https://ja.wikipedia.org/wiki/民事裁判 "wikilink")では殺人を認定する判決が下った。
 
@@ -15,15 +15,15 @@
 
 ### 追跡劇
 
-その後もシンプソンは冷静に対処し、一度釈放された。その後、[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に第1級殺人罪で逮捕令状が下りた時、シンプソンは友人のの運転する[フォード・ブロンコ](../Page/フォード・ブロンコ.md "wikilink")の助手席に乗り、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[フリーウェイ](https://ja.wikipedia.org/wiki/フリーウェイ "wikilink")で[パトカー](https://ja.wikipedia.org/wiki/パトカー "wikilink")の追跡を振り切ろうとしたため、[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")を展開する事態となった。その際には逃げ切ったものの、それから2時間後にシンプソンは逮捕された。
+その後もシンプソンは冷静に対処し、一度釈放された。その後、[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に第1級殺人罪で逮捕令状が下りた時、シンプソンは友人のの運転する[フォード・ブロンコ](../Page/フォード・ブロンコ.md "wikilink")の助手席に乗り、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[フリーウェイ](../Page/フリーウェイ.md "wikilink")で[パトカー](https://ja.wikipedia.org/wiki/パトカー "wikilink")の追跡を振り切ろうとしたため、[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")を展開する事態となった。その際には逃げ切ったものの、それから2時間後にシンプソンは逮捕された。
 
-なお、この逃亡劇は全米のテレビで生中継されたために、ロサンゼルスでは逃亡するシンプソンの車を追いかけるものが多数出現した。また、全米中がテレビに釘付けとなり、食事の手間を省くために[ピザ](../Page/ピザ.md "wikilink")の注文が急増した。ちょうど行われていたバスケットボールリーグ、[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル "wikilink")・[ニューヨーク・ニックス](https://ja.wikipedia.org/wiki/ニューヨーク・ニックス "wikilink")対[ヒューストン・ロケッツ](https://ja.wikipedia.org/wiki/ヒューストン・ロケッツ "wikilink")の第5戦は忘れられて（[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")が放送を予定していた）、テレビを見ているものの中からは「GO\!OJ\!」（OJ逃げろ\!）という声も起きた\[1\]\[2\]。
+なお、この逃亡劇は全米のテレビで生中継されたために、ロサンゼルスでは逃亡するシンプソンの車を追いかけるものが多数出現した。また、全米中がテレビに釘付けとなり、食事の手間を省くために[ピザ](../Page/ピザ.md "wikilink")の注文が急増した。ちょうど行われていたバスケットボールリーグ、[NBAファイナル](../Page/NBAファイナル.md "wikilink")・[ニューヨーク・ニックス](../Page/ニューヨーク・ニックス.md "wikilink")対[ヒューストン・ロケッツ](../Page/ヒューストン・ロケッツ.md "wikilink")の第5戦は忘れられて（[NBC](../Page/NBC.md "wikilink")が放送を予定していた）、テレビを見ているものの中からは「GO\!OJ\!」（OJ逃げろ\!）という声も起きた\[1\]\[2\]。
 
 シンプソンがブレントウッドの自宅に到着した直後、その後裁判でシンプソンの主任弁護人となるロバート・シャピーロもシンプソンの自宅に到着し、シャピーロ立会いのもとで逮捕されることとなった。なお、この際にシンプソンとカウリングズは武器を所持していたことが確認されている。
 
 ### 顔写真
 
-シンプソンが逮捕された後、多数の出版物が彼の写真を掲載した。[タイム誌は彼の皮膚を暗くし](https://ja.wikipedia.org/wiki/タイム_\(雑誌\) "wikilink")、囚人ID番号のサイズを縮小した顔写真を表紙に用いた。一方[ニューズウィーク](https://ja.wikipedia.org/wiki/ニューズウィーク "wikilink")誌はオリジナルの写真を表紙に用い、対照的な二誌が書店のスタンドに並ぶこととなった。タイム誌には市民グループからの抗議が続いた。後に写真を加工したタイム誌の[イラストレーター](../Page/イラストレーター.md "wikilink")、マット・マフリンは「より巧妙に、より注意を引きたかった」と語った。
+シンプソンが逮捕された後、多数の出版物が彼の写真を掲載した。[タイム誌は彼の皮膚を暗くし](../Page/タイム_\(雑誌\).md "wikilink")、囚人ID番号のサイズを縮小した顔写真を表紙に用いた。一方[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")誌はオリジナルの写真を表紙に用い、対照的な二誌が書店のスタンドに並ぶこととなった。タイム誌には市民グループからの抗議が続いた。後に写真を加工したタイム誌の[イラストレーター](../Page/イラストレーター.md "wikilink")、マット・マフリンは「より巧妙に、より注意を引きたかった」と語った。
 
 ### 刑事裁判
 
@@ -39,7 +39,7 @@
 
 #### 陪審員
 
-被害者が[白人](../Page/白人.md "wikilink")で、加害容疑者が[黒人](https://ja.wikipedia.org/wiki/黒人 "wikilink")（[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")）だったため、この裁判では人種問題が大きく取り上げられた。「人種偏見によって裁判が行われてはならない」として、判事は黒人でも白人でもない[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")の[ランス・イトウが選出された](https://ja.wikipedia.org/wiki/w:Lance_Ito "wikilink")。なお人種問題は検察の[求刑](https://ja.wikipedia.org/wiki/求刑 "wikilink")にも影響した。死刑を求刑すれば「黒人だからだろう」と黒人住民に非難され、有期懲役を求刑すれば「スーパースターだからか」と白人から非難されたからである。そのこともあって結果的に検察側は仮釈放無しの終身刑を求刑した。
+被害者が[白人](../Page/白人.md "wikilink")で、加害容疑者が[黒人](../Page/黒人.md "wikilink")（[アフリカ系アメリカ人](../Page/アフリカ系アメリカ人.md "wikilink")）だったため、この裁判では人種問題が大きく取り上げられた。「人種偏見によって裁判が行われてはならない」として、判事は黒人でも白人でもない[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")の[ランス・イトウが選出された](https://ja.wikipedia.org/wiki/w:Lance_Ito "wikilink")。なお人種問題は検察の[求刑](../Page/求刑.md "wikilink")にも影響した。死刑を求刑すれば「黒人だからだろう」と黒人住民に非難され、有期懲役を求刑すれば「スーパースターだからか」と白人から非難されたからである。そのこともあって結果的に検察側は仮釈放無しの終身刑を求刑した。
 
 弁護団は[陪審員](https://ja.wikipedia.org/wiki/陪審員 "wikilink")を黒人が多い地区から選出することを要求し、採用された。また白人が選出されても検察・弁護側に認められている[専断的拒否権](https://ja.wikipedia.org/wiki/専断的拒否権 "wikilink")（理由を述べることなしに、選出された陪審員を除外することが一定回数以下は可能な権利）を弁護団が最大限に行使した結果、陪審員12人のうち9人を黒人にすることに成功した。この様に、弁護団は「殺人事件」ではなく、「人種問題」という観点を裁判に持ち込んだ。
 
@@ -71,7 +71,7 @@
   - 殺害現場の靴跡の元となる靴は希少な靴だったが、シンプソンが購入したとする証拠がなく、靴自体もシンプソン宅から発見されていない。
   - シンプソンの手の怪我はホテルでコップを割って切ったものである（事実ホテルのバスルームで割れたコップが発見されシンプソンの血液が付着していた）。
   - 皮手袋を発見したとされるマーク・ファーマン刑事が黒人差別主義者だとの指摘がある。
-      - かつてファーマンを取材したローラ・マッキニーが取材時の録音テープを証拠として公開し、テープの再生中ファーマンは「[ニガー](https://ja.wikipedia.org/wiki/ニガー "wikilink")」という言葉を幾度となく使用、イトウ判事の配偶者をからかうといったものであった（これらのことは法廷ではほぼ公開されず、「ニガー」を使用した発言が少し公開されただけであった）。
+      - かつてファーマンを取材したローラ・マッキニーが取材時の録音テープを証拠として公開し、テープの再生中ファーマンは「[ニガー](../Page/ニガー.md "wikilink")」という言葉を幾度となく使用、イトウ判事の配偶者をからかうといったものであった（これらのことは法廷ではほぼ公開されず、「ニガー」を使用した発言が少し公開されただけであった）。
   - 発見されたという手袋は、法廷でシンプソンが試着したときは小さすぎて入らなかった（後に同じサイズの新品の手袋を試着した際は収まったという）。
   - シンプソンの血液を採取した後の管理が杜撰であり、正しくDNA鑑定が行われていない可能性がある。
       - 血液採取後、担当警察官のフィリップ・バナッターが、血液の入った小瓶をなぜか鑑識担当者のデニス・ファンのいる事件現場まで一度持って行き、その後何時間も持ち歩いたあげく鑑識担当者には渡さなかった。
@@ -82,9 +82,9 @@
 
 検察は「凶悪事件を裁くのが好き」といわれる検察官クラークを筆頭に、被害者の血液がついた証拠品が多数発見されたことや加害者の傷や過去の振る舞いから犯行を立証しようとした。一方、警察に対し根強い不信感を持つ黒人弁護士のコクランを主とした弁護団は、検察側のあげた証拠品の信憑性や人種問題について反証した。
 
-犯行に使用したと思われる手袋がシンプソンの手に合わなかったことが陪審員に合理的疑問を抱かさせてしまったことや、手袋を発見したとされるマーク・ファーマン刑事が人種差別主義者であったこと、警察の証拠管理の杜撰さも重なって裁判は弁護側へ有利に傾き、最終的には1995年に陪審員は全員一致で「無罪」と結論し、そのまま判決となった。アメリカでは無罪における検察の[上訴](https://ja.wikipedia.org/wiki/上訴 "wikilink")は憲法修正第5条により認められていないので、シンプソンの無罪が確定した。
+犯行に使用したと思われる手袋がシンプソンの手に合わなかったことが陪審員に合理的疑問を抱かさせてしまったことや、手袋を発見したとされるマーク・ファーマン刑事が人種差別主義者であったこと、警察の証拠管理の杜撰さも重なって裁判は弁護側へ有利に傾き、最終的には1995年に陪審員は全員一致で「無罪」と結論し、そのまま判決となった。アメリカでは無罪における検察の[上訴](../Page/上訴.md "wikilink")は憲法修正第5条により認められていないので、シンプソンの無罪が確定した。
 
-DNA解析の専門家として召還された[キャリー・マリス](https://ja.wikipedia.org/wiki/キャリー・マリス "wikilink")博士は、上記にある”血痕が見つかる前にシンプソンの採血を行った”という科学的手順に則っていない捜査を批判し、自身の著書「Dancing Naked in the Mind Field」の中でLA市警科学捜査班について「車のナンバーの2桁を見ただけで犯行車両と断定するに等しい」と（当時の）DNA解析技術の低さを指摘している。
+DNA解析の専門家として召還された[キャリー・マリス](../Page/キャリー・マリス.md "wikilink")博士は、上記にある”血痕が見つかる前にシンプソンの採血を行った”という科学的手順に則っていない捜査を批判し、自身の著書「Dancing Naked in the Mind Field」の中でLA市警科学捜査班について「車のナンバーの2桁を見ただけで犯行車両と断定するに等しい」と（当時の）DNA解析技術の低さを指摘している。
 
 一方で、警察が証拠を捏造した可能性を除いても、「シンプソンが有罪である」とする証拠は他にも揃っていたと考え、証拠の管理体制など検察を批判する者は多い。
 
@@ -105,15 +105,15 @@ DNA解析の専門家として召還された[キャリー・マリス](https://
 
 #### 弁護団
 
-1.  [ヘンリー・リー](https://ja.wikipedia.org/wiki/w:Henry_Lee_\(forensic_scientist\) "wikilink")（中国系法医学者『[ケネディ大統領暗殺事件](https://ja.wikipedia.org/wiki/ケネディ大統領暗殺事件 "wikilink")担当』、『[ジョンベネ殺害事件](https://ja.wikipedia.org/wiki/ジョンベネ殺害事件 "wikilink")担当』）
+1.  [ヘンリー・リー](https://ja.wikipedia.org/wiki/w:Henry_Lee_\(forensic_scientist\) "wikilink")（中国系法医学者『[ケネディ大統領暗殺事件](../Page/ケネディ大統領暗殺事件.md "wikilink")担当』、『[ジョンベネ殺害事件](../Page/ジョンベネ殺害事件.md "wikilink")担当』）
 2.  **[ロバート・シャピーロ](https://ja.wikipedia.org/wiki/w:Robert_Shapiro_\(lawyer\) "wikilink")**（全米一の弁護士として有名、『アメリカ俳優の事件を多く担当』）
 3.  **[ジョニー・コクラン](https://ja.wikipedia.org/wiki/w:Johnnie_Cochran "wikilink")**（人種裁判で全米一と折り紙つき『[マイケル・ジャクソン裁判](../Page/マイケル・ジャクソン裁判.md "wikilink")担当』）
 4.  [バリー・シェック](https://ja.wikipedia.org/wiki/w:Barry_Scheck "wikilink")（[DNA鑑定研究者](../Page/デオキシリボ核酸.md "wikilink")）
 5.  ピーター・ニューフィールド（前者と同）
-6.  ジェラルド・ウールメン（[サンタクララ大学](https://ja.wikipedia.org/wiki/サンタクララ大学 "wikilink")法学部長）
-7.  [フランシス・リー・ベイリー](https://ja.wikipedia.org/wiki/w:F._Lee_Bailey "wikilink")（F・リー・バイリーとも表記。『無罪請負人』の異名を持つ辣腕、『[ボストンの絞殺魔裁判](https://ja.wikipedia.org/wiki/ボストン絞殺魔事件 "wikilink")』、『[サム・シェパード事件](https://ja.wikipedia.org/wiki/サム・シェパード事件 "wikilink")』、『[パトリシア・ハースト](https://ja.wikipedia.org/wiki/パトリシア・ハースト "wikilink")事件』担当経験）
+6.  ジェラルド・ウールメン（[サンタクララ大学](../Page/サンタクララ大学.md "wikilink")法学部長）
+7.  [フランシス・リー・ベイリー](https://ja.wikipedia.org/wiki/w:F._Lee_Bailey "wikilink")（F・リー・バイリーとも表記。『無罪請負人』の異名を持つ辣腕、『[ボストンの絞殺魔裁判](https://ja.wikipedia.org/wiki/ボストン絞殺魔事件 "wikilink")』、『[サム・シェパード事件](https://ja.wikipedia.org/wiki/サム・シェパード事件 "wikilink")』、『[パトリシア・ハースト](../Page/パトリシア・ハースト.md "wikilink")事件』担当経験）
 8.  [アラン・ダーショヴィッツ](https://ja.wikipedia.org/wiki/w:Alan_Dershowitz "wikilink")（[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")憲法学者『[マイク・タイソン](../Page/マイク・タイソン.md "wikilink")強姦事件担当』）
-9.  [マイケル・バーデン](https://ja.wikipedia.org/wiki/マイケル・バーデン "wikilink")（元ニューヨーク市警検視官、『[キング牧師](https://ja.wikipedia.org/wiki/キング牧師 "wikilink")の遺体解剖担当』）
+9.  [マイケル・バーデン](../Page/マイケル・バーデン.md "wikilink")（元ニューヨーク市警検視官、『[キング牧師](https://ja.wikipedia.org/wiki/キング牧師 "wikilink")の遺体解剖担当』）
 10. [ロバート・カーダシアン](https://ja.wikipedia.org/wiki/ロバート・カーダシアン "wikilink")（被告の友人、『被告と弁護団の連絡係』）
 
 リーダーが2人となっているのは、リーダーを争って最後に喧嘩別れとなったためだといわれている。
@@ -155,7 +155,7 @@ DNA解析の専門家として召還された[キャリー・マリス](https://
   -
   - [ジム・ダナウェイ](https://ja.wikipedia.org/wiki/ジム・ダナウェイ "wikilink")
 
-  - [日本人留学生射殺事件](https://ja.wikipedia.org/wiki/日本人留学生射殺事件 "wikilink") - 同じく刑事裁判では無罪となり民事裁判では有罪となった例。
+  - [日本人留学生射殺事件](../Page/日本人留学生射殺事件.md "wikilink") - 同じく刑事裁判では無罪となり民事裁判では有罪となった例。
 
   - [チューバッカ弁論](https://ja.wikipedia.org/wiki/チューバッカ弁論 "wikilink") - 元ネタは『[サウスパーク](../Page/サウスパーク.md "wikilink")』に登場した同名の架空の法廷弁論であり、その法廷弁論の元ネタが当事件。
 
@@ -164,9 +164,9 @@ DNA解析の専門家として召還された[キャリー・マリス](https://
 [Category:1994年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1994年のアメリカ合衆国 "wikilink") [Category:アメリカ合衆国の未解決殺人事件](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の未解決殺人事件 "wikilink") [Category:アメリカ合衆国の事件_(1990年-)](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の事件_\(1990年-\) "wikilink") [Category:アメリカ合衆国の冤罪事件](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の冤罪事件 "wikilink") [Category:裁判例](https://ja.wikipedia.org/wiki/Category:裁判例 "wikilink") [Category:カリフォルニア州の事件](https://ja.wikipedia.org/wiki/Category:カリフォルニア州の事件 "wikilink") [Category:ロサンゼルスの歴史](https://ja.wikipedia.org/wiki/Category:ロサンゼルスの歴史 "wikilink") [Category:1994年6月](https://ja.wikipedia.org/wiki/Category:1994年6月 "wikilink")
 
 1.
-2.  [O.J., 10 years later](http://sports.espn.go.com/espn/page2/story?page=simmons/040611) [ESPN](https://ja.wikipedia.org/wiki/ESPN "wikilink")
+2.  [O.J., 10 years later](http://sports.espn.go.com/espn/page2/story?page=simmons/040611) [ESPN](../Page/ESPN.md "wikilink")
 3.  [報知新聞2007年9月18日](http://hochi.yomiuri.co.jp/topics/news/20070918-OHT1T00092.htm)
-4.  後に『[マペット放送局](https://ja.wikipedia.org/wiki/マペット放送局 "wikilink")』の「The Cameo Show」にゲスト出演した。
+4.  後に『[マペット放送局](../Page/マペット放送局.md "wikilink")』の「The Cameo Show」にゲスト出演した。
 5.
 6.
 7.

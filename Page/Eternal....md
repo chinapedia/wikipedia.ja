@@ -17,7 +17,7 @@
       -
         作詞：ATSUSHI / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
-      - [ニベアボディ](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「スキンミルク」CMソング
+      - [ニベアボディ](../Page/ニベア花王.md "wikilink")「スキンミルク」CMソング
 2.  **Eternal... (Acoustic version)** \[3:40\]
       -
         編曲：岩戸崇
@@ -25,8 +25,8 @@
 
 ## 収録アルバム
 
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")（\#1）
-  - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")（\#1）
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")（\#1）
+  - [PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")（\#1）
       - SELECT BEST（\#1）
 
 ## 脚注

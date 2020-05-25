@@ -1,29 +1,29 @@
 > この記事は[TEAR\'S LIBERATION](https://ja.wikipedia.org/wiki/TEAR\'S_LIBERATION)から翻訳されています。
 
 
-「**TEAR'S LIBERATION**」（ティアーズ・リベレーション）は[1994年](../Page/1994年.md "wikilink")12月7日にリリースされた[accessの](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")11thシングル。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+「**TEAR'S LIBERATION**」（ティアーズ・リベレーション）は[1994年](../Page/1994年.md "wikilink")12月7日にリリースされた[accessの](../Page/Access_\(音楽ユニット\).md "wikilink")11thシングル。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 概要
 
-通称"三部作"シリーズ第3弾としてリリースされ、23.7万枚のセールスを記録\[1\]。翌年1月にaccessとしての活動休止が発表され、本作が活動休止前にリリースされた最後のシングルとなった。また、SCAPEGOAT3（[浅倉大介](../Page/浅倉大介.md "wikilink")、[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")とレコーディング・エンジニア[大里正毅](https://ja.wikipedia.org/wiki/大里正毅 "wikilink")によるユニット）がリミックスを手掛け、同年12月14日に4thリミックスシングル「TEAR'S LIBERATION Re-SYNC STYLE」としてリリース。4.7万枚のセールスを記録した\[2\]。
+通称"三部作"シリーズ第3弾としてリリースされ、23.7万枚のセールスを記録\[1\]。翌年1月にaccessとしての活動休止が発表され、本作が活動休止前にリリースされた最後のシングルとなった。また、SCAPEGOAT3（[浅倉大介](../Page/浅倉大介.md "wikilink")、[貴水博之](../Page/貴水博之.md "wikilink")とレコーディング・エンジニア[大里正毅](https://ja.wikipedia.org/wiki/大里正毅 "wikilink")によるユニット）がリミックスを手掛け、同年12月14日に4thリミックスシングル「TEAR'S LIBERATION Re-SYNC STYLE」としてリリース。4.7万枚のセールスを記録した\[2\]。
 
 ## 収録曲
 
 1.  **TEAR'S LIBERATION**
-      - 作詞：[朝霧遙](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲/編曲：[AXS](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")
+      - 作詞：[朝霧遙](../Page/井上秋緒.md "wikilink")　作曲/編曲：[AXS](../Page/Access_\(音楽ユニット\).md "wikilink")
 2.  **SEQUENCE MEDITATION 〜超電導思考回路** 第三楽章 解放
       - 作曲/編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
-3.  **[SCANDALOUS BLUE](https://ja.wikipedia.org/wiki/SCANDALOUS_BLUE "wikilink")** (Instrumental Mix)
+3.  **[SCANDALOUS BLUE](../Page/SCANDALOUS_BLUE.md "wikilink")** (Instrumental Mix)
       - 作詞：朝霧遙　作曲/編曲：AXS
 
 ## TEAR'S LIBERATION Re-SYNC STYLE
 
-「**TEAR'S LIBERATION Re-SYNC STYLE**」（ティアーズ・リベレーション リシンク スタイル）は[1994年](../Page/1994年.md "wikilink")12月14日にリリースされた[accessの](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")4thリミックスシングル。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+「**TEAR'S LIBERATION Re-SYNC STYLE**」（ティアーズ・リベレーション リシンク スタイル）は[1994年](../Page/1994年.md "wikilink")12月14日にリリースされた[accessの](../Page/Access_\(音楽ユニット\).md "wikilink")4thリミックスシングル。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ### 収録曲
 
 1.  **TEAR'S LIBERATION** (ORIGINAL 7")
-      - 作詞：[朝霧遙](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")　作曲/編曲：[AXS](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")
+      - 作詞：[朝霧遙](../Page/井上秋緒.md "wikilink")　作曲/編曲：[AXS](../Page/Access_\(音楽ユニット\).md "wikilink")
 2.  **TEAR'S LIBERATION** (HUNG UP TUNE Re-SYNC STYLE)
       - Remixed by [SCAPEGOAT3](https://ja.wikipedia.org/wiki/SCAPEGOAT3 "wikilink")
 3.  **TEAR'S LIBERATION** (TIME SHUFFLE Re-SYNC STYLE)

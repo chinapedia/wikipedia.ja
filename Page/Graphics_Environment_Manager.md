@@ -5,7 +5,7 @@
 
 ## 特徴
 
-CP/MやDR DOS上で動作するGUIで、例えるなら[MS-DOS](../Page/MS-DOS.md "wikilink")と[初期のWindowsの関係に相当する](https://ja.wikipedia.org/wiki/Windows_9x系#Windows_9x系開発までの経緯 "wikilink")。見た目は[Mac OSを意識して作られたと言われており似ている](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")。
+CP/MやDR DOS上で動作するGUIで、例えるなら[MS-DOS](../Page/MS-DOS.md "wikilink")と[初期のWindowsの関係に相当する](https://ja.wikipedia.org/wiki/Windows_9x系#Windows_9x系開発までの経緯 "wikilink")。
 
 ## 現状
 
@@ -18,6 +18,10 @@ CP/MやDR DOS上で動作するGUIで、例えるなら[MS-DOS](../Page/MS-DOS.m
 GEMのソースコードを所有していたCaldera Thin Clientsは、[1999年](../Page/1999年.md "wikilink")4月にGEMのソースコードを[GNU GPLのもとでリリースした](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink")\[1\]。Open GEMはFreeGEMの開発者チームと協力してShane Martin Coughlanによって、GPLに従う[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として開発された。OpenGEMのバージョン3から6までは[SourceForge](https://ja.wikipedia.org/wiki/SourceForge "wikilink")とFreeDOSのウェブサイトでホストされている。
 
 OpenGEMは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から活発な開発はなされていないが、これは機能を完備し、将来のサードパーティによる開発と拡張のための[SDK](https://ja.wikipedia.org/wiki/SDK "wikilink")を含む基本的なGUIを持っている。
+
+### FreeGEM/XM
+
+通常FreeGEMは[シングルタスク](https://ja.wikipedia.org/wiki/シングルタスク "wikilink")だが、FreeGEMでは、[疑似マルチタスクを利用できる](https://ja.wikipedia.org/wiki/マルチタスク#ノンプリエンプティブ・マルチタスク "wikilink")。GEM用アプリケーションや、DOSアプリケーションを複数起動しておくことができ、ホットキーによってアプリケーションを切り替えることができる。
 
 ## 関連項目
 

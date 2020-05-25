@@ -1,4 +1,4 @@
-> この記事は[ B](https://ja.wikipedia.org/wiki/_B)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 B](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_B)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**B**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -32,7 +32,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Charlie_Babb_(baseball)" title="wikilink">Charlie Babb</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャーリー・バッブ" title="wikilink">チャーリー・バッブ</a></p></td>
+<td><p><a href="../Page/チャーリー・バッブ.md" title="wikilink">チャーリー・バッブ</a></p></td>
 <td><p>1903</p></td>
 <td><p>1905</p></td>
 <td></td>
@@ -298,7 +298,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Bagwell" title="wikilink">Jeff Bagwell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・バグウェル" title="wikilink">ジェフ・バグウェル</a></p></td>
+<td><p><a href="../Page/ジェフ・バグウェル.md" title="wikilink">ジェフ・バグウェル</a></p></td>
 <td><p>1991</p></td>
 <td><p>2005</p></td>
 <td><p>殿堂入り</p></td>
@@ -417,7 +417,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Homer_Bailey" title="wikilink">Homer Bailey</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホーマー・ベイリー" title="wikilink">ホーマー・ベイリー</a></p></td>
+<td><p><a href="../Page/ホーマー・ベイリー.md" title="wikilink">ホーマー・ベイリー</a></p></td>
 <td><p>2007</p></td>
 <td></td>
 <td></td>
@@ -620,7 +620,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dusty_Baker" title="wikilink">Dusty Baker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダスティ・ベイカー" title="wikilink">ダスティ・ベイカー</a></p></td>
+<td><p><a href="../Page/ダスティ・ベイカー.md" title="wikilink">ダスティ・ベイカー</a></p></td>
 <td><p>1968</p></td>
 <td><p>1986</p></td>
 <td></td>
@@ -823,7 +823,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Balboni" title="wikilink">Steve Balboni</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・バルボニ" title="wikilink">スティーブ・バルボーニ</a></p></td>
+<td><p><a href="../Page/スティーブ・バルボニ.md" title="wikilink">スティーブ・バルボーニ</a></p></td>
 <td><p>1981</p></td>
 <td><p>1993</p></td>
 <td></td>
@@ -886,7 +886,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:James_Baldwin_(baseball)" title="wikilink">James Baldwin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・ボールドウィン_(野球)" title="wikilink">ジェームズ・ボールドウィン</a></p></td>
+<td><p><a href="../Page/ジェームズ・ボールドウィン_(野球).md" title="wikilink">ジェームズ・ボールドウィン</a></p></td>
 <td><p>1995</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -942,7 +942,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:John_Bale_(baseball)" title="wikilink">John Bale</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ベイル" title="wikilink">ジョン・ベイル</a></p></td>
+<td><p><a href="../Page/ジョン・ベイル.md" title="wikilink">ジョン・ベイル</a></p></td>
 <td><p>1999</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -977,7 +977,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Grant_Balfour" title="wikilink">Grant Balfour</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グラント・バルフォア" title="wikilink">グラント・バルフォー</a></p></td>
+<td><p><a href="../Page/グラント・バルフォア.md" title="wikilink">グラント・バルフォー</a></p></td>
 <td><p>2001</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -991,7 +991,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Ball_(baseball)" title="wikilink">Jeff Ball</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・ボール" title="wikilink">ジェフ・ボール</a></p></td>
+<td><p><a href="../Page/ジェフ・ボール.md" title="wikilink">ジェフ・ボール</a></p></td>
 <td><p>1998</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -1159,7 +1159,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brian_Banks_(baseball)" title="wikilink">Brian Banks</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・バンクス" title="wikilink">ブライアン・バンクス</a></p></td>
+<td><p><a href="../Page/ブライアン・バンクス.md" title="wikilink">ブライアン・バンクス</a></p></td>
 <td><p>1996</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -1187,7 +1187,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Banks_(baseball)" title="wikilink">Willie Banks</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・バンクス_(野球)" title="wikilink">ウィリー・バンクス</a></p></td>
+<td><p><a href="../Page/ウィリー・バンクス_(野球).md" title="wikilink">ウィリー・バンクス</a></p></td>
 <td><p>1991</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -1211,7 +1211,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジム・バニング_(捕手)" title="wikilink">ジム・バニング</a></p></td>
 <td><p>1888</p></td>
 <td><p>1889</p></td>
-<td><p>捕手、<a href="https://ja.wikipedia.org/wiki/ジム・バニング" title="wikilink">ジム・バニング (Jim <strong>Bunning</strong>)</a> と区別</p></td>
+<td><p>捕手、<a href="../Page/ジム・バニング.md" title="wikilink">ジム・バニング (Jim <strong>Bunning</strong>)</a> と区別</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alan_Bannister" title="wikilink">Alan Bannister</a></p></td>
@@ -1418,14 +1418,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Josh_Bard" title="wikilink">Josh Bard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョシュ・バード" title="wikilink">ジョシュ・バード</a></p></td>
+<td><p><a href="../Page/ジョシュ・バード.md" title="wikilink">ジョシュ・バード</a></p></td>
 <td><p>2002</p></td>
 <td><p>2011</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Luke_Bard" title="wikilink">Luke Bard</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルーク・バード" title="wikilink">ルーク・バード</a></p></td>
+<td><p><a href="../Page/ルーク・バード.md" title="wikilink">ルーク・バード</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -1446,7 +1446,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jesse_Barfield" title="wikilink">Jesse Barfield</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェシー・バーフィールド" title="wikilink">ジェシー・バーフィールド</a></p></td>
+<td><p><a href="../Page/ジェシー・バーフィールド.md" title="wikilink">ジェシー・バーフィールド</a></p></td>
 <td><p>1981</p></td>
 <td><p>1992</p></td>
 <td></td>
@@ -1726,7 +1726,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Larry_Barnes" title="wikilink">Larry Barnes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・バーンズ" title="wikilink">ラリー・バーンズ</a></p></td>
+<td><p><a href="../Page/ラリー・バーンズ.md" title="wikilink">ラリー・バーンズ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -1761,7 +1761,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ross_Barnes" title="wikilink">Ross Barnes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロス・バーンズ" title="wikilink">ロス・バーンズ</a></p></td>
+<td><p><a href="../Page/ロス・バーンズ.md" title="wikilink">ロス・バーンズ</a></p></td>
 <td><p>1871</p></td>
 <td><p>1881</p></td>
 <td></td>
@@ -2076,7 +2076,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Michael_Barrett_(baseball)" title="wikilink">Michael Barrett</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・バレット" title="wikilink">マイケル・バーレット</a></p></td>
+<td><p><a href="../Page/マイケル・バレット.md" title="wikilink">マイケル・バーレット</a></p></td>
 <td><p>1998</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -2195,7 +2195,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Barry_(baseball)" title="wikilink">Jeff Barry</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・バリー" title="wikilink">ジェフ・バリー</a></p></td>
+<td><p><a href="../Page/ジェフ・バリー.md" title="wikilink">ジェフ・バリー</a></p></td>
 <td><p>1995</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -2370,7 +2370,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Philip_Barzilla" title="wikilink">Philip Barzilla</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィル・バルジラ" title="wikilink">フィリップ・バージラ</a></p></td>
+<td><p><a href="../Page/フィル・バルジラ.md" title="wikilink">フィリップ・バージラ</a></p></td>
 <td><p>2006</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -2482,7 +2482,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Randy_Bass" title="wikilink">Randy Bass</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランディ・バース" title="wikilink">ランディ・バス</a></p></td>
+<td><p><a href="../Page/ランディ・バース.md" title="wikilink">ランディ・バス</a></p></td>
 <td><p>1977</p></td>
 <td><p>1982</p></td>
 <td></td>
@@ -2545,7 +2545,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rich_Batchelor" title="wikilink">Rich Batchelor</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リッチ・バチェラー" title="wikilink">リッチ・バッチェラー</a></p></td>
+<td><p><a href="../Page/リッチ・バチェラー.md" title="wikilink">リッチ・バッチェラー</a></p></td>
 <td><p>1993</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -2636,14 +2636,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Bathe" title="wikilink">Bill Bathe</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・ベイス" title="wikilink">ビル・ベイス</a></p></td>
+<td><p><a href="../Page/ビル・ベイス.md" title="wikilink">ビル・ベイス</a></p></td>
 <td><p>1986</p></td>
 <td><p>1990</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Miguel_Batista" title="wikilink">Miguel Batista</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミゲル・バティスタ" title="wikilink">ミゲール・バティスタ</a></p></td>
+<td><p><a href="../Page/ミゲル・バティスタ.md" title="wikilink">ミゲール・バティスタ</a></p></td>
 <td><p>1992</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -2657,7 +2657,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Batista" title="wikilink">Tony Batista</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・バティスタ" title="wikilink">トニー・バティスタ</a></p></td>
+<td><p><a href="../Page/トニー・バティスタ.md" title="wikilink">トニー・バティスタ</a></p></td>
 <td><p>1996</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -2720,7 +2720,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Howard_Battle" title="wikilink">Howard Battle</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・バトル" title="wikilink">ハワード・バトル</a></p></td>
+<td><p><a href="../Page/ハワード・バトル.md" title="wikilink">ハワード・バトル</a></p></td>
 <td><p>1995</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -2986,7 +2986,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jason_Bay" title="wikilink">Jason Bay</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ベイ" title="wikilink">ジェイソン・ベイ</a></p></td>
+<td><p><a href="../Page/ジェイソン・ベイ.md" title="wikilink">ジェイソン・ベイ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3163,7 +3163,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Billy_Bean" title="wikilink">Bill Bean</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビリー・ビーン_(1964年生の外野手)" title="wikilink">ビル・ビーン</a></p></td>
+<td><p><a href="../Page/ビリー・ビーン_(1964年生の外野手).md" title="wikilink">ビル・ビーン</a></p></td>
 <td><p>1987</p></td>
 <td><p>1995</p></td>
 <td></td>
@@ -3184,7 +3184,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Billy_Beane" title="wikilink">Billy Beane</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビリー・ビーン" title="wikilink">ビリー・ビーン</a></p></td>
+<td><p><a href="../Page/ビリー・ビーン.md" title="wikilink">ビリー・ビーン</a></p></td>
 <td><p>1984</p></td>
 <td><p>1989</p></td>
 <td></td>
@@ -3513,7 +3513,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Josh_Beckett" title="wikilink">Josh Beckett</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョシュ・ベケット" title="wikilink">ジョシュ・ベケット</a></p></td>
+<td><p><a href="../Page/ジョシュ・ベケット.md" title="wikilink">ジョシュ・ベケット</a></p></td>
 <td><p>2001</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -3541,7 +3541,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jake_Beckley" title="wikilink">Jake Beckley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイク・ベックリー" title="wikilink">ジェイク・ベックリー</a></p></td>
+<td><p><a href="../Page/ジェイク・ベックリー.md" title="wikilink">ジェイク・ベックリー</a></p></td>
 <td><p>1888</p></td>
 <td><p>1907</p></td>
 <td><p>殿堂入り</p></td>
@@ -3709,7 +3709,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Andy_Beene" title="wikilink">Andy Beene</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンディ・ビーン" title="wikilink">アンディ・ビーン</a></p></td>
+<td><p><a href="../Page/アンディ・ビーン.md" title="wikilink">アンディ・ビーン</a></p></td>
 <td><p>1983</p></td>
 <td><p>1984</p></td>
 <td></td>
@@ -3807,7 +3807,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Beirne" title="wikilink">Kevin Beirne</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・バーン" title="wikilink">ケビン・ビアーン</a></p></td>
+<td><p><a href="../Page/ケビン・バーン.md" title="wikilink">ケビン・ビアーン</a></p></td>
 <td><p>2000</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -4143,7 +4143,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Bellán" title="wikilink">Steve Bellan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ベリャン" title="wikilink">スティーブ・ベリャン</a></p></td>
+<td><p><a href="../Page/スティーブ・ベリャン.md" title="wikilink">スティーブ・ベリャン</a></p></td>
 <td><p>1871</p></td>
 <td><p>1873</p></td>
 <td></td>
@@ -4157,7 +4157,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Albert_Belle" title="wikilink">Albert Belle</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルバート・ベル" title="wikilink">アルバート・ベル</a></p></td>
+<td><p><a href="../Page/アルバート・ベル.md" title="wikilink">アルバート・ベル</a></p></td>
 <td><p>1989</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -4178,14 +4178,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ronnie_Belliard" title="wikilink">Ronnie Belliard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロニー・ベリアード" title="wikilink">ロニー・ベリアード</a></p></td>
+<td><p><a href="../Page/ロニー・ベリアード.md" title="wikilink">ロニー・ベリアード</a></p></td>
 <td><p>1998</p></td>
 <td><p>2010</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Clay_Bellinger" title="wikilink">Clay Bellinger</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレイ・ベリンジャー" title="wikilink">クレイ・ベリンジャー</a></p></td>
+<td><p><a href="../Page/クレイ・ベリンジャー.md" title="wikilink">クレイ・ベリンジャー</a></p></td>
 <td><p>1999</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -4241,7 +4241,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carlos_Beltrán" title="wikilink">Carlos Beltran</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ベルトラン" title="wikilink">カルロス・ベルトラン</a></p></td>
+<td><p><a href="../Page/カルロス・ベルトラン.md" title="wikilink">カルロス・ベルトラン</a></p></td>
 <td><p>1998</p></td>
 <td><p>2017</p></td>
 <td></td>
@@ -4255,14 +4255,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rigo_Beltrán" title="wikilink">Rigo Beltran</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リゴ・ベルトラン" title="wikilink">リゴ・ベルトラン</a></p></td>
+<td><p><a href="../Page/リゴ・ベルトラン.md" title="wikilink">リゴ・ベルトラン</a></p></td>
 <td><p>1997</p></td>
 <td><p>2004</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Adrián_Beltré" title="wikilink">Adrian Beltre</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エイドリアン・ベルトレ" title="wikilink">エイドリアン・ベルトレ</a></p></td>
+<td><p><a href="../Page/エイドリアン・ベルトレ.md" title="wikilink">エイドリアン・ベルトレ</a></p></td>
 <td><p>1998</p></td>
 <td><p>2018</p></td>
 <td></td>
@@ -4731,7 +4731,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Moe_Berg" title="wikilink">Moe Berg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モー・バーグ" title="wikilink">モー・バーグ</a></p></td>
+<td><p><a href="../Page/モー・バーグ.md" title="wikilink">モー・バーグ</a></p></td>
 <td><p>1923</p></td>
 <td><p>1939</p></td>
 <td></td>
@@ -4878,7 +4878,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Sean_Bergman" title="wikilink">Sean Bergman</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーン・バーグマン" title="wikilink">ショーン・バーグマン</a></p></td>
+<td><p><a href="../Page/ショーン・バーグマン.md" title="wikilink">ショーン・バーグマン</a></p></td>
 <td><p>1993</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -4920,7 +4920,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lance_Berkman" title="wikilink">Lance Berkman</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランス・バークマン" title="wikilink">ランス・バークマン</a></p></td>
+<td><p><a href="../Page/ランス・バークマン.md" title="wikilink">ランス・バークマン</a></p></td>
 <td><p>1999</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -4941,7 +4941,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roger_Bernadina" title="wikilink">Roger Bernadina</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・バーナディーナ" title="wikilink">ロジャー・バーナディーナ</a></p></td>
+<td><p><a href="../Page/ロジャー・バーナディーナ.md" title="wikilink">ロジャー・バーナディーナ</a></p></td>
 <td><p>2008</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -4976,7 +4976,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Bernazard" title="wikilink">Tony Bernazard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・バナザード" title="wikilink">トニー・バーナザード</a></p></td>
+<td><p><a href="../Page/トニー・バナザード.md" title="wikilink">トニー・バーナザード</a></p></td>
 <td><p>1979</p></td>
 <td><p>1991</p></td>
 <td></td>
@@ -5039,7 +5039,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Yogi_Berra" title="wikilink">Yogi Berra</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヨギ・ベラ" title="wikilink">ヨギ・ベラ</a></p></td>
+<td><p><a href="../Page/ヨギ・ベラ.md" title="wikilink">ヨギ・ベラ</a></p></td>
 <td><p>1946</p></td>
 <td><p>1965</p></td>
 <td><p>殿堂入り</p></td>
@@ -5067,7 +5067,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ángel_Berroa" title="wikilink">Angel Berroa</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンヘル・ベローア" title="wikilink">アンヘル・ベローア</a></p></td>
+<td><p><a href="../Page/アンヘル・ベローア.md" title="wikilink">アンヘル・ベローア</a></p></td>
 <td><p>2001</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -5186,7 +5186,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jon_Berti" title="wikilink">Jon Berti</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・バーティ" title="wikilink">ジョン・バーティ</a></p></td>
+<td><p><a href="../Page/ジョン・バーティ.md" title="wikilink">ジョン・バーティ</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -5200,7 +5200,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Reno_Bertoia" title="wikilink">Reno Bertoia</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レノ・ベルトイア" title="wikilink">レノ・ベルトイア</a></p></td>
+<td><p><a href="../Page/レノ・ベルトイア.md" title="wikilink">レノ・ベルトイア</a></p></td>
 <td><p>1953</p></td>
 <td><p>1962</p></td>
 <td></td>
@@ -5319,7 +5319,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wilson_Betemit" title="wikilink">Wilson Betemit</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィルソン・ベテミー" title="wikilink">ウィルソン・ベテミー</a></p></td>
+<td><p><a href="../Page/ウィルソン・ベテミー.md" title="wikilink">ウィルソン・ベテミー</a></p></td>
 <td><p>2001</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -5424,7 +5424,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jason_Beverlin" title="wikilink">Jason Beverlin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ベバリン" title="wikilink">ジェイソン・ベバーリン</a></p></td>
+<td><p><a href="../Page/ジェイソン・ベバリン.md" title="wikilink">ジェイソン・ベバーリン</a></p></td>
 <td><p>2002</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -5664,7 +5664,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Larry_Bigbie" title="wikilink">Larry Bigbie</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・ビグビー" title="wikilink">ラリー・ビグビー</a></p></td>
+<td><p><a href="../Page/ラリー・ビグビー.md" title="wikilink">ラリー・ビグビー</a></p></td>
 <td><p>2001</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -5685,7 +5685,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Craig_Biggio" title="wikilink">Craig Biggio</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレイグ・ビジオ" title="wikilink">クレイグ・ビジオ</a></p></td>
+<td><p><a href="../Page/クレイグ・ビジオ.md" title="wikilink">クレイグ・ビジオ</a></p></td>
 <td><p>1988</p></td>
 <td><p>2007</p></td>
 <td><p>殿堂入り</p></td>
@@ -6049,7 +6049,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brian_Bixler" title="wikilink">Brian Bixler</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・ビクスラー" title="wikilink">ブライアン・ビクスラー</a></p></td>
+<td><p><a href="../Page/ブライアン・ビクスラー.md" title="wikilink">ブライアン・ビクスラー</a></p></td>
 <td><p>2008</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -6119,7 +6119,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bud_Black" title="wikilink">Bud Black</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バド・ブラック" title="wikilink">バド・ブラック</a></p></td>
+<td><p><a href="../Page/バド・ブラック.md" title="wikilink">バド・ブラック</a></p></td>
 <td><p>1981</p></td>
 <td><p>1995</p></td>
 <td><p>投手、Harry Ralston Black</p></td>
@@ -6413,7 +6413,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hank_Blalock" title="wikilink">Hank Blalock</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハンク・ブレイロック" title="wikilink">ハンク・ブレイロック</a></p></td>
+<td><p><a href="../Page/ハンク・ブレイロック.md" title="wikilink">ハンク・ブレイロック</a></p></td>
 <td><p>2002</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -6462,7 +6462,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Henry_Blanco" title="wikilink">Henry Blanco</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘンリー・ブランコ" title="wikilink">ヘンリー・ブランコ</a></p></td>
+<td><p><a href="../Page/ヘンリー・ブランコ.md" title="wikilink">ヘンリー・ブランコ</a></p></td>
 <td><p>1997</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -6595,7 +6595,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Don_Blasingame" title="wikilink">Don Blasingame</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドン・ブラッシンゲーム" title="wikilink">ドン・ブラシンゲーム</a></p></td>
+<td><p><a href="../Page/ドン・ブラッシンゲーム.md" title="wikilink">ドン・ブラシンゲーム</a></p></td>
 <td><p>1955</p></td>
 <td><p>1966</p></td>
 <td></td>
@@ -6637,7 +6637,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Blauser" title="wikilink">Jeff Blauser</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・ブラウザー" title="wikilink">ジェフ・ブラウサー</a></p></td>
+<td><p><a href="../Page/ジェフ・ブラウザー.md" title="wikilink">ジェフ・ブラウサー</a></p></td>
 <td><p>1987</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -6714,7 +6714,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ray_Blemker" title="wikilink">Ray Blemker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイ・ブレンカー" title="wikilink">レイ・ブレンカー</a></p></td>
+<td><p><a href="../Page/レイ・ブレンカー.md" title="wikilink">レイ・ブレンカー</a></p></td>
 <td><p>1960</p></td>
 <td><p>1960</p></td>
 <td></td>
@@ -6861,7 +6861,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Greg_Blosser" title="wikilink">Greg Blosser</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレッグ・ブロッサー" title="wikilink">グレッグ・ブロッサー</a></p></td>
+<td><p><a href="../Page/グレッグ・ブロッサー.md" title="wikilink">グレッグ・ブロッサー</a></p></td>
 <td><p>1993</p></td>
 <td><p>1994</p></td>
 <td></td>
@@ -6875,7 +6875,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Blowers" title="wikilink">Mike Blowers</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ブロワーズ" title="wikilink">マイク・ブロワーズ</a></p></td>
+<td><p><a href="../Page/マイク・ブロワーズ.md" title="wikilink">マイク・ブロワーズ</a></p></td>
 <td><p>1989</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -7051,7 +7051,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hiram_Bocachica" title="wikilink">Hiram Bocachica</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒラム・ボカチカ" title="wikilink">ヒラム・ボカチカ</a></p></td>
+<td><p><a href="../Page/ヒラム・ボカチカ.md" title="wikilink">ヒラム・ボカチカ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -7268,7 +7268,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wade_Boggs" title="wikilink">Wade Boggs</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイド・ボッグス" title="wikilink">ウェイド・ボッグス</a></p></td>
+<td><p><a href="../Page/ウェイド・ボッグス.md" title="wikilink">ウェイド・ボッグス</a></p></td>
 <td><p>1982</p></td>
 <td><p>1999</p></td>
 <td><p>殿堂入り</p></td>
@@ -7345,7 +7345,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bruce_Boisclair" title="wikilink">Bruce Boisclair</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルース・ボウクレア" title="wikilink">ブルース・ボウクレア</a></p></td>
+<td><p><a href="../Page/ブルース・ボウクレア.md" title="wikilink">ブルース・ボウクレア</a></p></td>
 <td><p>1974</p></td>
 <td><p>1979</p></td>
 <td></td>
@@ -7443,7 +7443,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carl_Boles" title="wikilink">Carl Boles</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・ボレス" title="wikilink">カール・ボレス</a></p></td>
+<td><p><a href="../Page/カール・ボレス.md" title="wikilink">カール・ボレス</a></p></td>
 <td><p>1962</p></td>
 <td><p>1962</p></td>
 <td></td>
@@ -7464,7 +7464,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Frank_Bolick" title="wikilink">Frank Bolick</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・ボーリック" title="wikilink">フランク・ボーリック</a></p></td>
+<td><p><a href="../Page/フランク・ボーリック.md" title="wikilink">フランク・ボーリック</a></p></td>
 <td><p>1993</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -7590,21 +7590,21 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeremy_Bonderman" title="wikilink">Jeremy Bonderman</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェレミー・ボンダーマン" title="wikilink">ジェレミー・ボンダーマン</a></p></td>
+<td><p><a href="../Page/ジェレミー・ボンダーマン.md" title="wikilink">ジェレミー・ボンダーマン</a></p></td>
 <td><p>2003</p></td>
 <td><p>2013</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Barry_Bonds" title="wikilink">Barry Bonds</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バリー・ボンズ" title="wikilink">バリー・ボンズ</a></p></td>
+<td><p><a href="../Page/バリー・ボンズ.md" title="wikilink">バリー・ボンズ</a></p></td>
 <td><p>1986</p></td>
 <td><p>2007</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bobby_Bonds" title="wikilink">Bobby Bonds</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・ボンズ" title="wikilink">ボビー・ボンズ</a></p></td>
+<td><p><a href="../Page/ボビー・ボンズ.md" title="wikilink">ボビー・ボンズ</a></p></td>
 <td><p>1968</p></td>
 <td><p>1981</p></td>
 <td></td>
@@ -7639,7 +7639,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bong_Jung-keun" title="wikilink">Jung Bong</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/奉重根" title="wikilink">奉重根</a></p></td>
+<td><p><a href="../Page/奉重根.md" title="wikilink">奉重根</a></p></td>
 <td><p>2002</p></td>
 <td><p>2004</p></td>
 <td></td>
@@ -7961,7 +7961,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Borchard" title="wikilink">Joe Borchard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ボーチャード" title="wikilink">ジョー・ボーチャード</a></p></td>
+<td><p><a href="../Page/ジョー・ボーチャード.md" title="wikilink">ジョー・ボーチャード</a></p></td>
 <td><p>2002</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -8087,7 +8087,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Borowski_(baseball)" title="wikilink">Joe Borowski</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ボロウスキー" title="wikilink">ジョー・ボロウスキー</a></p></td>
+<td><p><a href="../Page/ジョー・ボロウスキー.md" title="wikilink">ジョー・ボロウスキー</a></p></td>
 <td><p>1995</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -8297,14 +8297,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Bottomley" title="wikilink">Jim Bottomley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・ボトムリー" title="wikilink">ジム・ボトムリー</a></p></td>
+<td><p><a href="../Page/ジム・ボトムリー.md" title="wikilink">ジム・ボトムリー</a></p></td>
 <td><p>1922</p></td>
 <td><p>1937</p></td>
 <td><p>殿堂入り</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jason_Botts" title="wikilink">Jason Botts</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ボッツ" title="wikilink">ジェイソン・ボッツ</a></p></td>
+<td><p><a href="../Page/ジェイソン・ボッツ.md" title="wikilink">ジェイソン・ボッツ</a></p></td>
 <td><p>2005</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -8401,10 +8401,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Peter_Bourjos" title="wikilink">Peter Bourjos</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Peter_Bourjos" title="wikilink">Peter Bourjos</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピーター・ボージャス" title="wikilink">ピーター・ボージャス</a></p></td>
 <td><p>2010</p></td>
-<td></td>
+<td><p>2019</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -8556,7 +8556,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cedrick_Bowers" title="wikilink">Cedrick Bowers</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セドリック・バワーズ" title="wikilink">セドリック・バワーズ</a></p></td>
+<td><p><a href="../Page/セドリック・バワーズ.md" title="wikilink">セドリック・バワーズ</a></p></td>
 <td><p>2008</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -8829,7 +8829,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Clete_Boyer" title="wikilink">Clete Boyer</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリート・ボイヤー" title="wikilink">クリート・ボイヤー</a></p></td>
+<td><p><a href="../Page/クリート・ボイヤー.md" title="wikilink">クリート・ボイヤー</a></p></td>
 <td><p>1955</p></td>
 <td><p>1971</p></td>
 <td></td>
@@ -9082,7 +9082,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Bobby_Bradley_(first_baseman)" title="wikilink">Bobby Bradley</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・ブラッドリー_(内野手)" title="wikilink">ボビー・ブラッドリー</a></p></td>
+<td><p><a href="../Page/ボビー・ブラッドリー_(内野手).md" title="wikilink">ボビー・ブラッドリー</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -9166,7 +9166,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Phil_Bradley" title="wikilink">Phil Bradley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィル・ブラッドリー" title="wikilink">フィル・ブラッドリー</a></p></td>
+<td><p><a href="../Page/フィル・ブラッドリー.md" title="wikilink">フィル・ブラッドリー</a></p></td>
 <td><p>1983</p></td>
 <td><p>1990</p></td>
 <td></td>
@@ -9320,7 +9320,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Glenn_Braggs" title="wikilink">Glenn Braggs</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレン・ブラッグス" title="wikilink">グレン・ブラッグス</a></p></td>
+<td><p><a href="../Page/グレン・ブラッグス.md" title="wikilink">グレン・ブラッグス</a></p></td>
 <td><p>1986</p></td>
 <td><p>1992</p></td>
 <td></td>
@@ -9488,7 +9488,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Marshall_Brant" title="wikilink">Marshall Brant</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーシャル・ブラント" title="wikilink">マーシャル・ブラント</a></p></td>
+<td><p><a href="../Page/マーシャル・ブラント.md" title="wikilink">マーシャル・ブラント</a></p></td>
 <td><p>1980</p></td>
 <td><p>1983</p></td>
 <td></td>
@@ -9516,7 +9516,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mickey_Brantley" title="wikilink">Mickey Brantley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミッキー・ブラントリー" title="wikilink">ミッキー・ブラントリー</a></p></td>
+<td><p><a href="../Page/ミッキー・ブラントリー.md" title="wikilink">ミッキー・ブラントリー</a></p></td>
 <td><p>1986</p></td>
 <td><p>1989</p></td>
 <td></td>
@@ -9635,7 +9635,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Craig_Brazell" title="wikilink">Craig Brazell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレイグ・ブラゼル" title="wikilink">クレイグ・ブラゼル</a></p></td>
+<td><p><a href="../Page/クレイグ・ブラゼル.md" title="wikilink">クレイグ・ブラゼル</a></p></td>
 <td><p>2004</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -9719,7 +9719,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brent_Brede" title="wikilink">Brent Brede</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレント・ブリード" title="wikilink">ブレント・ブリード</a></p></td>
+<td><p><a href="../Page/ブレント・ブリード.md" title="wikilink">ブレント・ブリード</a></p></td>
 <td><p>1996</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -9733,7 +9733,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hal_Breeden" title="wikilink">Hal Breeden</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハル・ブリーデン" title="wikilink">ハル・ブリーデン</a></p></td>
+<td><p><a href="../Page/ハル・ブリーデン.md" title="wikilink">ハル・ブリーデン</a></p></td>
 <td><p>1971</p></td>
 <td><p>1975</p></td>
 <td></td>
@@ -9985,7 +9985,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rod_Brewer" title="wikilink">Rod Brewer</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロッド・ブリューワ" title="wikilink">ロッド・ブルワー</a></p></td>
+<td><p><a href="../Page/ロッド・ブリューワ.md" title="wikilink">ロッド・ブルワー</a></p></td>
 <td><p>1990</p></td>
 <td><p>1993</p></td>
 <td></td>
@@ -10034,7 +10034,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Austin_Brice" title="wikilink">Austin Brice</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オースティン・ブライス" title="wikilink">オースティン・ブライス</a></p></td>
+<td><p><a href="../Page/オースティン・ブライス.md" title="wikilink">オースティン・ブライス</a></p></td>
 <td><p>2016</p></td>
 <td></td>
 <td></td>
@@ -10139,7 +10139,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dan_Briggs_(baseball)" title="wikilink">Dan Briggs</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダン・ブリッグス" title="wikilink">ダン・ブリッグス</a></p></td>
+<td><p><a href="../Page/ダン・ブリッグス.md" title="wikilink">ダン・ブリッグス</a></p></td>
 <td><p>1975</p></td>
 <td><p>1982</p></td>
 <td></td>
@@ -10293,14 +10293,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bernardo_Brito" title="wikilink">Bernardo Brito</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーナード・ブリトー" title="wikilink">バーナード・ブリトー</a></p></td>
+<td><p><a href="../Page/バーナード・ブリトー.md" title="wikilink">バーナード・ブリトー</a></p></td>
 <td><p>1992</p></td>
 <td><p>1995</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eude_Brito" title="wikilink">Eude Brito</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユーデ・ブリトー" title="wikilink">ユード・ブリトー</a></p></td>
+<td><p><a href="../Page/ユーデ・ブリトー.md" title="wikilink">ユード・ブリトー</a></p></td>
 <td><p>2005</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -10314,7 +10314,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Brito" title="wikilink">Juan Brito</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フアン・ブリトー" title="wikilink">フアン・ブリトー</a></p></td>
+<td><p><a href="../Page/フアン・ブリトー.md" title="wikilink">フアン・ブリトー</a></p></td>
 <td><p>2002</p></td>
 <td><p>2004</p></td>
 <td></td>
@@ -10440,7 +10440,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Brock" title="wikilink">Chris Brock</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ブロック" title="wikilink">クリス・ブロック</a></p></td>
+<td><p><a href="../Page/クリス・ブロック.md" title="wikilink">クリス・ブロック</a></p></td>
 <td><p>1997</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -10461,7 +10461,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lou_Brock" title="wikilink">Lou Brock</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルー・ブロック" title="wikilink">ルー・ブロック</a></p></td>
+<td><p><a href="../Page/ルー・ブロック.md" title="wikilink">ルー・ブロック</a></p></td>
 <td><p>1961</p></td>
 <td><p>1979</p></td>
 <td><p>殿堂入り</p></td>
@@ -10608,7 +10608,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jerry_Brooks" title="wikilink">Jerry Brooks</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェリー・ブルックス" title="wikilink">ジェリー・ブルックス</a></p></td>
+<td><p><a href="../Page/ジェリー・ブルックス.md" title="wikilink">ジェリー・ブルックス</a></p></td>
 <td><p>1993</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -10643,7 +10643,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Terry_Bross" title="wikilink">Terry Bross</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー・ブロス" title="wikilink">テリー・ブロス</a></p></td>
+<td><p><a href="../Page/テリー・ブロス.md" title="wikilink">テリー・ブロス</a></p></td>
 <td><p>1991</p></td>
 <td><p>1993</p></td>
 <td></td>
@@ -10741,7 +10741,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Brower" title="wikilink">Jim Brower</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・ブラウワー" title="wikilink">ジム・ブラウワー</a></p></td>
+<td><p><a href="../Page/ジム・ブラウワー.md" title="wikilink">ジム・ブラウワー</a></p></td>
 <td><p>1999</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -11105,7 +11105,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Brown_(right-handed_pitcher)" title="wikilink">Kevin Brown</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・ブラウン" title="wikilink">ケビン・ブラウン</a></p></td>
+<td><p><a href="../Page/ケビン・ブラウン.md" title="wikilink">ケビン・ブラウン</a></p></td>
 <td><p>1986</p></td>
 <td><p>2005</p></td>
 <td><p>投手、James Kevin Brown</p></td>
@@ -11175,7 +11175,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Marty_Brown_(baseball)" title="wikilink">Marty Brown</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーティ・ブラウン" title="wikilink">マーティ・ブラウン</a></p></td>
+<td><p><a href="../Page/マーティ・ブラウン.md" title="wikilink">マーティ・ブラウン</a></p></td>
 <td><p>1988</p></td>
 <td><p>1990</p></td>
 <td></td>
@@ -11273,7 +11273,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roosevelt_Brown_(baseball)" title="wikilink">Roosevelt Brown</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルーズベルト・ブラウン" title="wikilink">ルーズベルト・ブラウン</a></p></td>
+<td><p><a href="../Page/ルーズベルト・ブラウン.md" title="wikilink">ルーズベルト・ブラウン</a></p></td>
 <td><p>1999</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -11448,7 +11448,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jonathan_Broxton" title="wikilink">Jonathan Broxton</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョナサン・ブロクストン" title="wikilink">ジョナサン・ブロクストン</a></p></td>
+<td><p><a href="../Page/ジョナサン・ブロクストン.md" title="wikilink">ジョナサン・ブロクストン</a></p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
@@ -11560,7 +11560,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cliff_Brumbaugh" title="wikilink">Cliff Brumbaugh</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリフ・ブランボー" title="wikilink">クリフ・ブランボー</a></p></td>
+<td><p><a href="../Page/クリフ・ブランボー.md" title="wikilink">クリフ・ブランボー</a></p></td>
 <td><p>2001</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -12086,7 +12086,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Buehrle" title="wikilink">Mark Buehrle</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・バーリー" title="wikilink">マーク・バーリー</a></p></td>
+<td><p><a href="../Page/マーク・バーリー.md" title="wikilink">マーク・バーリー</a></p></td>
 <td><p>2000</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -12149,7 +12149,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Don_Buford" title="wikilink">Don Buford</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドン・ビュフォード" title="wikilink">ドン・ビュフォード</a></p></td>
+<td><p><a href="../Page/ドン・ビュフォード.md" title="wikilink">ドン・ビュフォード</a></p></td>
 <td><p>1963</p></td>
 <td><p>1972</p></td>
 <td></td>
@@ -12345,7 +12345,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Melvin_Bunch" title="wikilink">Melvin Bunch</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メルビン・バンチ" title="wikilink">メルビン・バンチ</a></p></td>
+<td><p><a href="../Page/メルビン・バンチ.md" title="wikilink">メルビン・バンチ</a></p></td>
 <td><p>1995</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -12366,7 +12366,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Bunning" title="wikilink">Jim Bunning</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・バニング" title="wikilink">ジム・バニング</a></p></td>
+<td><p><a href="../Page/ジム・バニング.md" title="wikilink">ジム・バニング</a></p></td>
 <td><p>1955</p></td>
 <td><p>1971</p></td>
 <td><p>投手、<a href="https://ja.wikipedia.org/wiki/ジム・バニング_(捕手)" title="wikilink">ジム・バニング (Jim <strong>Banning</strong>)</a> と区別、殿堂入り</p></td>
@@ -12751,7 +12751,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Morgan_Burkhart" title="wikilink">Morgan burkhart</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーガン・バークハート" title="wikilink">モーガン・バークハート</a></p></td>
+<td><p><a href="../Page/モーガン・バークハート.md" title="wikilink">モーガン・バークハート</a></p></td>
 <td><p>2000</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -12779,7 +12779,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:A._J._Burnett" title="wikilink">A.J. Burnett</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.J.バーネット" title="wikilink">A.J.バーネット</a></p></td>
+<td><p><a href="../Page/A.J.バーネット.md" title="wikilink">A.J.バーネット</a></p></td>
 <td><p>1999</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -12821,7 +12821,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeromy_Burnitz" title="wikilink">Jeromy Burnitz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェロミー・バーニッツ" title="wikilink">ジェロミー・バーニッツ</a></p></td>
+<td><p><a href="../Page/ジェロミー・バーニッツ.md" title="wikilink">ジェロミー・バーニッツ</a></p></td>
 <td><p>1993</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -12905,7 +12905,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Burns_(first_baseman)" title="wikilink">George Burns</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・バーンズ_(内野手)" title="wikilink">ジョージ・バーンズ</a></p></td>
+<td><p><a href="../Page/ジョージ・バーンズ_(内野手).md" title="wikilink">ジョージ・バーンズ</a></p></td>
 <td><p>1914</p></td>
 <td><p>1929</p></td>
 <td><p>内野手、George Henry Burns</p></td>
@@ -12989,7 +12989,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pete_Burnside" title="wikilink">Pete Burnside</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピーター・バーンサイド" title="wikilink">ピート・バーンサイド</a></p></td>
+<td><p><a href="../Page/ピーター・バーンサイド.md" title="wikilink">ピート・バーンサイド</a></p></td>
 <td><p>1955</p></td>
 <td><p>1963</p></td>
 <td></td>
@@ -13038,7 +13038,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pat_Burrell" title="wikilink">Pat Burrell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パット・バレル" title="wikilink">パット・バレル</a></p></td>
+<td><p><a href="../Page/パット・バレル.md" title="wikilink">パット・バレル</a></p></td>
 <td><p>2000</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -13213,7 +13213,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Busby" title="wikilink">Steve Busby</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・バスビー" title="wikilink">スティーブ・バスビー</a></p></td>
+<td><p><a href="../Page/スティーブ・バスビー.md" title="wikilink">スティーブ・バスビー</a></p></td>
 <td><p>1972</p></td>
 <td><p>1980</p></td>
 <td></td>
@@ -13269,7 +13269,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Bush" title="wikilink">Dave Bush</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイブ・ブッシュ" title="wikilink">デーブ・ブッシュ</a></p></td>
+<td><p><a href="../Page/デイブ・ブッシュ.md" title="wikilink">デーブ・ブッシュ</a></p></td>
 <td><p>2004</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -13479,7 +13479,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brett_Butler_(baseball)" title="wikilink">Brett Butler</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブレット・バトラー" title="wikilink">ブレット・バトラー</a></p></td>
+<td><p><a href="../Page/ブレット・バトラー.md" title="wikilink">ブレット・バトラー</a></p></td>
 <td><p>1981</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -13782,7 +13782,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eric_Byrnes" title="wikilink">Eric Byrnes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・バーンズ" title="wikilink">エリック・バーンズ</a></p></td>
+<td><p><a href="../Page/エリック・バーンズ.md" title="wikilink">エリック・バーンズ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2010</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[TOKYOシリーズ](https://ja.wikipedia.org/wiki/TOKYOシリーズ)から翻訳されています。
 
 
 **TOKYOシリーズ**（とうきょうシリーズ）とは、[東京都](../Page/東京都.md "wikilink")に[本拠地を置く](../Page/フランチャイズ.md "wikilink")[日本プロ野球](../Page/日本プロ野球.md "wikilink")（NPB）の[チーム](../Page/チーム.md "wikilink")、[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")と[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")とが対戦する試合の呼称である。かつては**東京ダービー**等で呼ばれていた。

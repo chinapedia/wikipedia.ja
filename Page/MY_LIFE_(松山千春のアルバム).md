@@ -1,7 +1,7 @@
-> この記事は[MY LIFE \(\)](https://ja.wikipedia.org/wiki/MY_LIFE_\(\))から翻訳されています。
+> この記事は[MY LIFE \(松山千春のアルバム\)](https://ja.wikipedia.org/wiki/MY_LIFE_\(松山千春のアルバム\))から翻訳されています。
 
 
-『**私からの手紙 -MY LIFE**』（わたしからのてがみ マイ・ライフ）は、1982年2月にリリースされた松山千春唯一の[インストゥルメンタル・アルバムである](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+『**私からの手紙 -MY LIFE**』（わたしからのてがみ マイ・ライフ）は、1982年2月にリリースされた松山千春唯一の[インストゥルメンタル・アルバムである](../Page/器楽曲.md "wikilink")。
 
 ## 解説
 
@@ -23,6 +23,6 @@
 
 ## 関連項目
 
-  - [1981年の音楽](https://ja.wikipedia.org/wiki/1981年の音楽 "wikilink")
+  - [1981年の音楽](../Page/1981年の音楽.md "wikilink")
 
 [Category:松山千春のアルバム](https://ja.wikipedia.org/wiki/Category:松山千春のアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:1982年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1982年のオリコンアルバムチャート1位獲得作品 "wikilink")

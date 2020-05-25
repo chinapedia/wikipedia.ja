@@ -1,4 +1,4 @@
-> この記事は[Discord \(\)](https://ja.wikipedia.org/wiki/Discord_\(\))から翻訳されています。
+> この記事は[Discord \(ラジオ番組\)](https://ja.wikipedia.org/wiki/Discord_\(ラジオ番組\))から翻訳されています。
 
 
 **discord**（ディスコード）は[TOKYO FM系列全国ネットのラジオ番組](../Page/エフエム東京.md "wikilink")。パーソナリティは[鹿野淳](../Page/鹿野淳.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送された番組。放送時間、ネット局などが時期によって異なるのでそれぞれの項を参照のこと。

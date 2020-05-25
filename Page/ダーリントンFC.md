@@ -1,11 +1,11 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダーリントンFC](https://ja.wikipedia.org/wiki/ダーリントンFC)から翻訳されています。
 
 
-**ダーリントン・フットボール・クラブ**（**Darlington Football Club**）はかつて[イングランド](../Page/イングランド.md "wikilink")、 [カウンティ・ダーラム](https://ja.wikipedia.org/wiki/カウンティ・ダーラム "wikilink")、[ダーリントン](https://ja.wikipedia.org/wiki/ダーリントン "wikilink")を本拠地として[1883年](../Page/1883年.md "wikilink")から[2012年](../Page/2012年.md "wikilink")まで活動していたサッカークラブチームである。
+**ダーリントン・フットボール・クラブ**（**Darlington Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、 [カウンティ・ダーラム](https://ja.wikipedia.org/wiki/カウンティ・ダーラム "wikilink")、[ダーリントン](https://ja.wikipedia.org/wiki/ダーリントン "wikilink")を本拠地とするサッカークラブチームである。2019-20シーズンは[ナショナルリーグ・ノース](../Page/ナショナルリーグ・ノース.md "wikilink")に所属。
 
 ## 概要
 
-2012年1月3日に2度目となる経営破産に伴いクラブは解散。新規クラブチームとして[ダーリントン1883](https://ja.wikipedia.org/wiki/ダーリントン1883 "wikilink")に経営を移行した。現在は国内9部相当の地域リーグであるノーザンリーグ・ディヴィジョン1に所属している。
+2012年1月3日に2度目となる経営破産に伴いクラブは解散。新規クラブチームとして[ダーリントン1883](https://ja.wikipedia.org/wiki/ダーリントン1883 "wikilink")に経営を移行した。現在は国内6部相当の地域リーグであるノーザンリーグ・ディヴィジョン1に所属している。
 
 ## タイトル
 

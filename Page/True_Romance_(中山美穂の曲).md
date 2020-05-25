@@ -7,7 +7,7 @@
 
   - [1996年](../Page/1996年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")発売のアルバム『[Deep Lip French](../Page/Deep_Lip_French.md "wikilink")』から一週間遅れでシングルカットされた。
   - カップリングの「不意のKiss」は、自身が出演した[アステル東京](../Page/アステル東京.md "wikilink")のCMソングに起用された。
-  - [フジテレビ系列の音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』出演時、歌唱中の瞬間最高[視聴率](../Page/視聴率.md "wikilink")が31.3％を記録。同番組史上3番目の高視聴率となっている事が2008年9月29日放送の番組内で発表されている。
+  - [フジテレビ系列の音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』出演時、歌唱中の瞬間最高[視聴率](../Page/視聴率.md "wikilink")が31.3％を記録。同番組史上3番目の高視聴率となっている事が2008年9月29日放送の番組内で発表されている。
 
 ## 収録曲
 

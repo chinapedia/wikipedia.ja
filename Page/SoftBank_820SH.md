@@ -5,20 +5,20 @@
 
 ## 主な機能・サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                                                |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")                           |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
-| [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")                                    |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                             |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [S\!FeliCa](../Page/S!FeliCa.md "wikilink")                           |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
+| [ワンセグ](../Page/ワンセグ.md "wikilink")                                    |
 
 ## 特徴
 
   - 別名・プレミアム
-  - [821SHとは外装の質感](https://ja.wikipedia.org/wiki/SoftBank_821SH "wikilink")・風合いが異なるが中身の機能・性能は同一の兄弟機。
+  - [821SHとは外装の質感](../Page/SoftBank_821SH.md "wikilink")・風合いが異なるが中身の機能・性能は同一の兄弟機。
   - 製品発表時に820/821SHを『プレミアムケータイ』として前面に押し出したが、82xシリーズということで性能的な面ではスタンダードなモデルと言える。
 
 ## 不具合
@@ -28,7 +28,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")
+  - [ワンセグ](../Page/ワンセグ.md "wikilink")
   - [THE PREMIUM](https://ja.wikipedia.org/wiki/THE_PREMIUM "wikilink")
 
 ## 外部リンク

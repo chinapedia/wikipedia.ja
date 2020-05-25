@@ -1,7 +1,7 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[探偵学園Q](https://ja.wikipedia.org/wiki/探偵学園Q)から翻訳されています。
 
 
-『**探偵学園Q**』（たんていがくえんキュウ）は、原作：[天樹征丸](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画：[さとうふみや](https://ja.wikipedia.org/wiki/さとうふみや "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及びそれを原作とするアニメ、ドラマ作品である。
+『**探偵学園Q**』（たんていがくえんキュウ）は、原作：[天樹征丸](../Page/樹林伸.md "wikilink")、作画：[さとうふみや](https://ja.wikipedia.org/wiki/さとうふみや "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及びそれを原作とするアニメ、ドラマ作品である。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 2001年4月から9月の間を舞台に\[1\]「世界一の探偵」を目指す主人公、**キュウ**が[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")学園の仲間たちと共に様々な事件を解決していく姿をヒロインの**美南恵**の視点を中心として\[2\]描いたミステリー漫画である。
 
-内容は原作者・[天樹征丸の](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")「漫画から出発したミステリーというのをやりたい。」という考え\[3\]の下、「登場人物が成長していく漫画の面白さとミステリーの面白さを共に表現する」という方針で製作されている\[4\]。そのため他の推理漫画と異なり主要登場人物の多くが学生と先生であり、学生の主人公たちが切磋琢磨しあってともに成長していく姿を色濃く描いている。そのため、作品の最初と最後では主人公たちに大きな変化が見られる\[5\]。各事件も天樹の「読者に謎を解く楽しさを味わって欲しい」という考え\[6\]の下「ヒントは○つ」の台詞とともにヒントが提示されるなど、読者にも謎が解きやすくなるような工夫が施されている\[7\]。またストーリー全体で大きな謎がいくつも散りばめられており、その謎を登場人物とともに追い求めることができるというのもこの作品の特徴である。
+内容は原作者・[天樹征丸の](../Page/樹林伸.md "wikilink")「漫画から出発したミステリーというのをやりたい。」という考え\[3\]の下、「登場人物が成長していく漫画の面白さとミステリーの面白さを共に表現する」という方針で製作されている\[4\]。そのため他の推理漫画と異なり主要登場人物の多くが学生と先生であり、学生の主人公たちが切磋琢磨しあってともに成長していく姿を色濃く描いている。そのため、作品の最初と最後では主人公たちに大きな変化が見られる\[5\]。各事件も天樹の「読者に謎を解く楽しさを味わって欲しい」という考え\[6\]の下「ヒントは○つ」の台詞とともにヒントが提示されるなど、読者にも謎が解きやすくなるような工夫が施されている\[7\]。またストーリー全体で大きな謎がいくつも散りばめられており、その謎を登場人物とともに追い求めることができるというのもこの作品の特徴である。
 
 『金田一』新作の掲載は編集部の決定によるものであるため\[8\]、さとうは前述の中断に対し『ザ・ラスト・ミステリー』のインタビュー内で「せっかくQが盛り上がってきたところで…」と不満を漏らしている\[9\]。
 
@@ -38,16 +38,16 @@
     主人公。1987年生まれの中学3年生（単発ドラマでは1年、連続ドラマでは2年）。学校の勉強はまるでダメだが\[10\]、推理力は高く、特に発想の柔軟さと観察眼の鋭さは際立っている。謎が解けた際には「ヒントは◯つ…答えは一つ」という決め台詞を用いる。幼少時に[誘拐](https://ja.wikipedia.org/wiki/誘拐 "wikilink")されたことがあり\[11\]、その時に助けてくれた「探偵のおじさん（連城暁）」を慕って[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")を志し、DDSに入学した。
   - 美南 恵（メグ：みなみ めぐみ）
     声 - [桑島法子](../Page/桑島法子.md "wikilink") / 演 - [志田未来](https://ja.wikipedia.org/wiki/志田未来 "wikilink")
-    ヒロイン。キュウと同じ1987年生まれの中学3年生（単発ドラマでは1年、連続ドラマでは2年）。通称メグ。一度見たり聞いたりしたものは絶対忘れない「[瞬間記憶能力](https://ja.wikipedia.org/wiki/サヴァン症候群 "wikilink")」の持ち主で、3歳の時にある殺人事件の証人として事件解決に貢献し\[12\]、4歳の時には連続銀行襲撃事件の犯人を目撃し、その逮捕に貢献したことから史上最年少で警視総監特別賞を授与された過去を持つ\[13\]。
+    ヒロイン。キュウと同じ1987年生まれの中学3年生（単発ドラマでは1年、連続ドラマでは2年）。通称メグ。一度見たり聞いたりしたものは絶対忘れない「[瞬間記憶能力](../Page/サヴァン症候群.md "wikilink")」の持ち主で、3歳の時にある殺人事件の証人として事件解決に貢献し\[12\]、4歳の時には連続銀行襲撃事件の犯人を目撃し、その逮捕に貢献したことから史上最年少で警視総監特別賞を授与された過去を持つ\[13\]。
   - 天草 流（リュウ：あまくさ りゅう）
-    声 - [遠近孝一](https://ja.wikipedia.org/wiki/遠近孝一 "wikilink") / 演 - [山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")
-    キュウと同じ1987年生まれの中学3年生（単発ドラマでは1年、連続ドラマでは2年）。学問、格闘技、スポーツなど様々な分野に長けていて\[14\]、日本の私立小学校を卒業後、アメリカに留学して[ジュニアハイスクール](https://ja.wikipedia.org/wiki/アメリカ合衆国の中等教育 "wikilink")、ハイスクールを共に[飛び級](../Page/飛び級.md "wikilink")により1年で卒業しており\[15\]、アメリカの大学の入学資格を持っている\[16\]「天才」。キュウの「答えは一つ」に相当する「今…霧は晴れた」という決め台詞を持つ他、事件への探究心もキュウと同様極めて強く、「謎よ…もっと深まれ」という台詞も好んで用いる。
+    声 - [遠近孝一](../Page/遠近孝一.md "wikilink") / 演 - [山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")
+    キュウと同じ1987年生まれの中学3年生（単発ドラマでは1年、連続ドラマでは2年）。学問、格闘技、スポーツなど様々な分野に長けていて\[14\]、日本の私立小学校を卒業後、アメリカに留学して[ジュニアハイスクール](../Page/アメリカ合衆国の中等教育.md "wikilink")、ハイスクールを共に[飛び級](../Page/飛び級.md "wikilink")により1年で卒業しており\[15\]、アメリカの大学の入学資格を持っている\[16\]「天才」。キュウの「答えは一つ」に相当する「今…霧は晴れた」という決め台詞を持つ他、事件への探究心もキュウと同様極めて強く、「謎よ…もっと深まれ」という台詞も好んで用いる。
   - 鳴沢 数馬（カズマ：なるさわ かずま）
-    声 - [川上とも子](../Page/川上とも子.md "wikilink") / 演 - [松川尚瑠輝](https://ja.wikipedia.org/wiki/松川尚瑠輝 "wikilink")（単発）・[若葉克実](../Page/若葉克実.md "wikilink")（連続）
+    声 - [川上とも子](../Page/川上とも子.md "wikilink") / 演 - [松川尚瑠輝](../Page/松川尚瑠輝.md "wikilink")（単発）・[若葉克実](../Page/若葉克実.md "wikilink")（連続）
     1990年生まれの11歳（連続ドラマではキュウと同じ中学2年）。総合財閥鳴沢産業社長・鳴沢卓馬の三男であり、7歳の時から数々の大ヒットゲームを世に送り出した天才[ゲーム](../Page/ゲーム.md "wikilink")[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")。そのため、[コンピュータ](../Page/コンピュータ.md "wikilink")に関する知識は目を見張るものがあり、[検索エンジン](../Page/検索エンジン.md "wikilink")や事件ファイル、高度な計算ソフトなども自分で開発している他、自分用の研究室もある。オリジナルの探偵グッズを作っており、それがメグの命を救ったこともある。事件時には現場には向かわず一人残って情報収集、処理を行うことが多い。
   - 遠山 金太郎（キンタ：とおやま きんたろう）
     声 - [石川英郎](../Page/石川英郎.md "wikilink") / 演 - [要潤](../Page/要潤.md "wikilink")
-    1983年生まれの高校3年生で18歳（連続ドラマでは25歳）。Qクラスの中で最年長。[遠山の金さんの末裔](../Page/遠山景元.md "wikilink")。頭はそれほど良くないが、運の良さ・直感・運動能力（[剣道](../Page/剣道.md "wikilink")四段・[柔道](../Page/柔道.md "wikilink")三段・[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")三段の合わせて十段に加え水泳、陸上でも数々の賞に輝いている）・視力（4.0、本人いわく[縄文人](https://ja.wikipedia.org/wiki/縄文人 "wikilink")並）・嗅覚（本人いわく犬並み）は抜群。特に勘はババ抜きを十回やって十回ともトップになるほどでこれがリュウの誤推理を諭したこともある\[17\]。「遠山流隠密術」という江戸時代から続く秘術を継承しているが失敗も多い\[18\]。
+    1983年生まれの高校3年生で18歳（連続ドラマでは25歳）。Qクラスの中で最年長。[遠山の金さんの末裔](../Page/遠山景元.md "wikilink")。頭はそれほど良くないが、運の良さ・直感・運動能力（[剣道](../Page/剣道.md "wikilink")四段・[柔道](../Page/柔道.md "wikilink")三段・[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")三段の合わせて十段に加え水泳、陸上でも数々の賞に輝いている）・視力（4.0、本人いわく[縄文人](../Page/縄文人.md "wikilink")並）・嗅覚（本人いわく犬並み）は抜群。特に勘はババ抜きを十回やって十回ともトップになるほどでこれがリュウの誤推理を諭したこともある\[17\]。「遠山流隠密術」という江戸時代から続く秘術を継承しているが失敗も多い\[18\]。
 
 ## 用語
 
@@ -58,13 +58,13 @@
     警察を退職した団守彦が40年ほど前、1960年代前半に創設した探偵社\[23\]。DDSの上部組織でDDSと同様「DDC手帳」が存在する。
   - 「冥王星」
     黒王百合華が編み出した理論を元に、その息子、キング・ハデスが創設した犯罪組織で団守彦とD.D.C.の宿敵。心理カウンセラーやホームページなどの悪意がたまる場所から依頼者を見つけ出して接触し犯罪計画を持ちかけ\[24\]、犯罪計画を授けて犯罪を実行させ、成功した場合は依頼者の全財産の半分を貰い受ける\[25\]（ただし必ずしも金銭とは限らず『幻奏館殺人事件』のように芸術作品などを指定する場合もある）。失敗した場合は[後催眠を使い](https://ja.wikipedia.org/wiki/催眠術 "wikilink")、依頼者同士を殺し合わせたり\[26\]第三者に殺害されるようにしたり\[27\]解明者を殺害しようとさせる\[28\]ことによって自分たちの存在を隠滅しようとする\[29\]。「頭脳集団である」ことと犯罪計画に対して直接手を出さないことを美学としており\[30\]、美学を破ったために上がメンバーとしての「品位」を持たぬと判断した者は容赦なく「処刑（殺害ではなく、強力な催眠術により自我を喪失させ廃人にする）」する。メンバーは必ず体のどこかに冥王星の[惑星記号](https://ja.wikipedia.org/wiki/惑星記号 "wikilink")[25x25pxの形の](https://ja.wikipedia.org/wiki/ファイル:Pluto's_astrological_symbol.svg "wikilink")[刺青をいれており](https://ja.wikipedia.org/wiki/入れ墨 "wikilink")、これによりメンバーであることが認識される。物語開始の8年前\[31\]、団守彦と連城暁を中心とするD.D.C.によって壊滅に追い込まれたが、本拠地を知られずに済んだため潜伏活動を続け、復活した。『棲龍館殺人事件』で本拠地を警察とD.D.C.に制圧され、再び壊滅した。
-    幹部級のメンバーは全員[ギリシア神話](../Page/ギリシア神話.md "wikilink")の「[ハデス](https://ja.wikipedia.org/wiki/ハーデース "wikilink")（冥界の王）」や[準惑星](https://ja.wikipedia.org/wiki/準惑星 "wikilink")「[冥王星](../Page/冥王星.md "wikilink")」に関連した名前を持つが、アニメオリジナルの「[アヌビス](../Page/アヌビス.md "wikilink")」のみ[エジプト神話](../Page/エジプト神話.md "wikilink")の死者の神となっている。
+    幹部級のメンバーは全員[ギリシア神話](../Page/ギリシア神話.md "wikilink")の「[ハデス](../Page/ハーデース.md "wikilink")（冥界の王）」や[準惑星](../Page/準惑星.md "wikilink")「[冥王星](../Page/冥王星.md "wikilink")」に関連した名前を持つが、アニメオリジナルの「[アヌビス](../Page/アヌビス.md "wikilink")」のみ[エジプト神話](../Page/エジプト神話.md "wikilink")の死者の神となっている。
   - 警視庁特別公認探偵
     団守彦が有する警察官と同等の[捜査](../Page/捜査.md "wikilink")権及び[逮捕](../Page/逮捕.md "wikilink")権を与えられ、拳銃の携帯も許された日本で唯一の称号\[32\]（警視庁とあるが、東京以外の地域でも通用する）。
   - 国立能力開発研究所
     メグや三郎丸が通っていた、国立の研究所。表向きは天賦の才能を開花させる研究所だが、実は[超能力](../Page/超能力.md "wikilink")者の発掘・養成所で、全国から優秀な子供を集めては超能力者を養成していた。実情は極めて不透明で、4年前に起こった「所長惨殺事件」を契機に廃れていき閉鎖された\[33\]。
   - 棲龍館
-    日本各地にある九頭龍匠が設計した館。全部で9つあり、それぞれの館には[竜生九子](https://ja.wikipedia.org/wiki/竜生九子 "wikilink")の名前がつけられている。例として7番目の館がD.D.S.のQクラス校舎であり「[睚眦](https://ja.wikipedia.org/wiki/睚眦 "wikilink")（がいし）」に相当する\[34\]。壱、伍、六、九の館は元々天草家が所有していたが、9年前に当主の天草寂が失踪してからは彼の信頼の厚かった使用人4人がオーナーとなる形で館や財産の管理をしていたと言われている\[35\]。
+    日本各地にある九頭龍匠が設計した館。全部で9つあり、それぞれの館には[竜生九子](../Page/竜生九子.md "wikilink")の名前がつけられている。例として7番目の館がD.D.S.のQクラス校舎であり「[睚眦](https://ja.wikipedia.org/wiki/睚眦 "wikilink")（がいし）」に相当する\[34\]。壱、伍、六、九の館は元々天草家が所有していたが、9年前に当主の天草寂が失踪してからは彼の信頼の厚かった使用人4人がオーナーとなる形で館や財産の管理をしていたと言われている\[35\]。
   - テスタ・ディ・ドラゴ
     九頭龍匠が制作した9つの[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")。内一つはヴァイオリニストの大御所、弓削雅臣が持っており『幻奏館殺人事件』で登場した。[イタリア語](../Page/イタリア語.md "wikilink")で「[龍](https://ja.wikipedia.org/wiki/龍 "wikilink")の頭」の意味。
   - 紫雲龍
@@ -76,7 +76,7 @@
 
 「冥王星」が絡んでいるもの、もしくは6話以上で語られた中編以上のもの。
 
-  - 切り裂き島の惨劇\[37\]（登場怪人名：[切り裂きジャック](https://ja.wikipedia.org/wiki/切り裂きジャック "wikilink")）
+  - 切り裂き島の惨劇\[37\]（登場怪人名：[切り裂きジャック](../Page/切り裂きジャック.md "wikilink")）
     DDS入学最終試験のため、キュウ達は試験の舞台となる霧咲島（切り裂き島）を訪れる。しかしそこで受験生の一人が死体となって発見される。
   - 神隠し村殺人事件\[38\]（登場怪人名：疫神教の[教祖](https://ja.wikipedia.org/wiki/教祖 "wikilink")）
     Qクラス最初の事件捜査として未解決の神隠し事件を捜査することになったメンバー達。だが彼らが現場のひょうたん村を訪れた当日、旅館に宿泊していたテレビ番組取材のメンバー一名が殺害され新たな神隠しの幕が開ける。
@@ -101,57 +101,57 @@
 
 ## テレビアニメ
 
-2003年[4月15日](../Page/4月15日.md "wikilink")から2004年[3月20日](../Page/3月20日.md "wikilink")まで[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")\[48\]。全45話。なお、CS放送の[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")でも2007年3月の 13時00分から15時54分に9話連続で5日間放送された。
+2003年[4月15日](../Page/4月15日.md "wikilink")から2004年[3月20日](../Page/3月20日.md "wikilink")まで[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")\[48\]。全45話。なお、CS放送の[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")でも2007年3月の 13時00分から15時54分に9話連続で5日間放送された。
 
-2003年9月9日まではTBS系列全国ネットで、火曜日18時55分から19時24分（[JST](../Page/日本標準時.md "wikilink")）の放送枠\[49\]だった。10月から「[ぴったんこカン・カン](../Page/ぴったんこカン・カン.md "wikilink")」を1時間枠として放送させることになった影響で、土曜日17時30分枠に移動したが、移動した枠がローカルセールス枠だったため、ネット局のうち[北海道放送](../Page/北海道放送.md "wikilink")、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、毎日放送、[あいテレビ](../Page/あいテレビ.md "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")では[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")となり（[中部日本放送は当初早朝枠で放送を続行したが](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、その後途中で打ち切り）、また、放送続行局の中でも[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")などでは深夜ローカル枠に移動となった。なお、原作はまだ連載中であったため、「冥王星」やリュウの過去などのストーリーの全貌は明かされないまま、最終回はアニメオリジナルの結末で終了した。
+2003年9月9日まではTBS系列全国ネットで、火曜日18時55分から19時24分（[JST](../Page/日本標準時.md "wikilink")）の放送枠\[49\]だった。10月から「[ぴったんこカン・カン](../Page/ぴったんこカン・カン.md "wikilink")」を1時間枠として放送させることになった影響で、土曜日17時30分枠に移動したが、移動した枠がローカルセールス枠だったため、ネット局のうち[北海道放送](../Page/北海道放送.md "wikilink")、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、毎日放送、[あいテレビ](../Page/あいテレビ.md "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")では[打ち切り](../Page/打ち切り.md "wikilink")となり（[中部日本放送は当初早朝枠で放送を続行したが](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、その後途中で打ち切り）、また、放送続行局の中でも[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")などでは深夜ローカル枠に移動となった。なお、原作はまだ連載中であったため、「冥王星」やリュウの過去などのストーリーの全貌は明かされないまま、最終回はアニメオリジナルの結末で終了した。本作以降、2016年4月に開始した『[カミワザ・ワンダ](https://ja.wikipedia.org/wiki/カミワザ・ワンダ "wikilink")』まで12年半の間、TBS制作による全国ネットアニメは存在しない。
 
-主題歌は[ピポ☆エンジェルズ](https://ja.wikipedia.org/wiki/ピポ☆エンジェルズ "wikilink")を除いて、全て[GIZA studio所属の](../Page/GIZA_studio.md "wikilink")[アーティストの楽曲が使われていた](../Page/芸術家.md "wikilink")。
+主題歌は[ピポ☆エンジェルズ](../Page/ピポ☆エンジェルズ.md "wikilink")を除いて、全て[GIZA studio所属の](../Page/GIZA_studio.md "wikilink")[アーティストの楽曲が使われていた](../Page/芸術家.md "wikilink")。
 
-また、2003年12月から2004年3月の最終回までは[地上波デジタル放送で](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")16:9サイズ（ハイビジョンではない）で放送されていた（当時TBS制作のアニメ作品では地上波ではデジタル放送でも16:9SDマスターを4:3左右カットする事がほとんどであったが、2009年10月期以降はフルサイズ放送に移行。なお、2007年4月以降の毎日放送および中部日本放送単独もしくは両局共同制作作品に関しては、TBSへ[逆ネット](https://ja.wikipedia.org/wiki/逆ネット "wikilink")する際も16:9フルサイズ放送（一部は[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作）となっている）。
+また、2003年12月から2004年3月の最終回までは[地上波デジタル放送で](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")16:9サイズ（ハイビジョンではない）で放送されていた（当時TBS制作のアニメ作品では地上波ではデジタル放送でも16:9SDマスターを4:3左右カットする事がほとんどであったが、2009年10月期以降はフルサイズ放送に移行。なお、2007年4月以降の毎日放送および中部日本放送単独もしくは両局共同制作作品に関しては、TBSへ[逆ネット](../Page/逆ネット.md "wikilink")する際も16:9フルサイズ放送（一部は[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作）となっている）。
 
 ### 特徴
 
-アニメでは原作と違い、キュウが第一話の時点でDDSの存在を知らない、Qクラスが当初は落ちこぼれを集めたクラスのように描かれるなど原作とは違う脚色が多くなされている。これは監督である[阿部紀之の](https://ja.wikipedia.org/wiki/阿部記之 "wikilink")「原作を知らない人にも作品の設定を知ってもらいたい」という意向のためである\[50\]。また死体の描写や殺人の瞬間などは修正されており、[パンチラ](../Page/パンチラ.md "wikilink")などのお色気描写もなくなっている\[51\]。
+アニメでは原作と違い、キュウが第一話の時点でDDSの存在を知らない、Qクラスが当初は落ちこぼれを集めたクラスのように描かれるなど原作とは違う脚色が多くなされている。これは監督である[阿部紀之の](../Page/阿部記之.md "wikilink")「原作を知らない人にも作品の設定を知ってもらいたい」という意向のためである\[50\]。また死体の描写や殺人の瞬間などは修正されており、[パンチラ](../Page/パンチラ.md "wikilink")などのお色気描写もなくなっている\[51\]。
 
 ### スタッフ
 
   - 原作 - [天樹征丸](https://ja.wikipedia.org/wiki/天樹征丸 "wikilink")×[さとうふみや](https://ja.wikipedia.org/wiki/さとうふみや "wikilink") ([講談社](../Page/講談社.md "wikilink")「[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")」掲載)
   - 企画 - 工富保、坂本香
-  - トリックスーパーバイザー - 広真紀、[高橋ナツコ](https://ja.wikipedia.org/wiki/高橋ナツコ "wikilink")、[渡邊大輔](https://ja.wikipedia.org/wiki/渡邊大輔 "wikilink")
-  - シリーズ構成 - [林誠人](https://ja.wikipedia.org/wiki/林誠人 "wikilink")
-  - キャラクターデザイン - [大西雅也](https://ja.wikipedia.org/wiki/大西雅也 "wikilink")
-  - サブキャラクターデザイン - [宇佐美皓一](https://ja.wikipedia.org/wiki/宇佐美皓一 "wikilink")
+  - トリックスーパーバイザー - 広真紀、[高橋ナツコ](../Page/高橋ナツコ.md "wikilink")、[渡邊大輔](https://ja.wikipedia.org/wiki/渡邊大輔 "wikilink")
+  - シリーズ構成 - [林誠人](../Page/林誠人.md "wikilink")
+  - キャラクターデザイン - [大西雅也](../Page/大西雅也.md "wikilink")
+  - サブキャラクターデザイン - [宇佐美皓一](../Page/宇佐美皓一.md "wikilink")
   - プロップデザイン - 髙木弘樹
   - 美術監督 - 高木佐和子
   - カラーデザイン - 上谷秀夫
   - 撮影監督 - 福島敏行
-  - 音楽 - [池田大介](https://ja.wikipedia.org/wiki/池田大介_\(編曲家\) "wikilink")
-  - プロデューサー - [丹羽多聞アンドリウ](https://ja.wikipedia.org/wiki/丹羽多聞アンドリウ "wikilink")、[源生哲雄](https://ja.wikipedia.org/wiki/源生哲雄 "wikilink")、萩野賢
+  - 音楽 - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+  - プロデューサー - [丹羽多聞アンドリウ](../Page/丹羽多聞アンドリウ.md "wikilink")、[源生哲雄](https://ja.wikipedia.org/wiki/源生哲雄 "wikilink")、萩野賢
   - アシスタントプロデューサー - 神宮司剛史、福良啓
   - アニメーション制作 - [ぴえろ](../Page/ぴえろ.md "wikilink")
-  - 監督 - [阿部記之](https://ja.wikipedia.org/wiki/阿部記之 "wikilink")
+  - 監督 - [阿部記之](../Page/阿部記之.md "wikilink")
   - 製作 - [TBS](../Page/TBSテレビ.md "wikilink")、ぴえろ
 
 ### 主題歌
 
 #### オープニング
 
-  - [迷Q\!?-迷宮-MAKE★YOU-](https://ja.wikipedia.org/wiki/迷Q!?-迷宮-MAKE★YOU- "wikilink")（第1話 - 第21話）
-    作詞 - [AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink") / 作曲 - [大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink") / 編曲 - [尾城九龍](../Page/尾城九龍.md "wikilink") / 歌 - [岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")（レーベル - [GIZA studio](../Page/GIZA_studio.md "wikilink")）
+  - [迷Q\!?-迷宮-MAKE★YOU-](../Page/迷Q!?-迷宮-MAKE★YOU-.md "wikilink")（第1話 - 第21話）
+    作詞 - [AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink") / 作曲 - [大野愛果](../Page/大野愛果.md "wikilink") / 編曲 - [尾城九龍](../Page/尾城九龍.md "wikilink") / 歌 - [岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink")（レーベル - [GIZA studio](../Page/GIZA_studio.md "wikilink")）
   - Luvly,Merry-Go-Round（第22話 - 第34話）
-    作詞 - [シライシ紗トリ](../Page/シライシ紗トリ.md "wikilink")・UCO / 作曲・編曲 - シライシ紗トリ / 歌 - [ピポ☆エンジェルズ](https://ja.wikipedia.org/wiki/ピポ☆エンジェルズ "wikilink")（レーベル - [Sony Music Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）
+    作詞 - [シライシ紗トリ](../Page/シライシ紗トリ.md "wikilink")・UCO / 作曲・編曲 - シライシ紗トリ / 歌 - [ピポ☆エンジェルズ](../Page/ピポ☆エンジェルズ.md "wikilink")（レーベル - [Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")）
   - 100%ピュア（第35話 - 最終話）
     作詞 - mavie / 作曲 - k.h.i / 編曲 - 秋元直也 / 歌 - ピポ☆エンジェルズ（レーベル - Sony Music Records）
 
 #### エンディング
 
   - [恋ごころ](https://ja.wikipedia.org/wiki/恋ごころ_\(菅崎茜の曲\) "wikilink")（第1話 - 第11話）
-    歌・作詞 - [菅崎茜](https://ja.wikipedia.org/wiki/菅崎茜 "wikilink") / 作曲 - 大野愛果 / 編曲 - [小林哲](../Page/小林哲.md "wikilink")（レーベル - GIZA studio）
+    歌・作詞 - [菅崎茜](../Page/菅崎茜.md "wikilink") / 作曲 - 大野愛果 / 編曲 - [小林哲](../Page/小林哲.md "wikilink")（レーベル - GIZA studio）
   - [虹色にひかる海](../Page/虹色にひかる海.md "wikilink")（第12話 - 第21話）
-    歌・作詞 - [北原愛子](https://ja.wikipedia.org/wiki/北原愛子 "wikilink") / 作曲 - [春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink") / 編曲 - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")（レーベル - GIZA studio）
-  - [みえないストーリー](https://ja.wikipedia.org/wiki/みえないストーリー "wikilink")（第22話 - 第34話）
+    歌・作詞 - [北原愛子](../Page/北原愛子.md "wikilink") / 作曲 - [春畑道哉](../Page/春畑道哉.md "wikilink") / 編曲 - [徳永暁人](../Page/徳永暁人.md "wikilink")（レーベル - GIZA studio）
+  - [みえないストーリー](../Page/みえないストーリー.md "wikilink")（第22話 - 第34話）
     作詞 - AZUKI 七 / 作曲 - 大野愛果 / 編曲 - 小林哲 / 歌 - 岸本早未（レーベル - GIZA studio）
-  - [風に向かい歩くように](https://ja.wikipedia.org/wiki/風に向かい歩くように "wikilink")（第35話 - 最終話）
+  - [風に向かい歩くように](../Page/風に向かい歩くように.md "wikilink")（第35話 - 最終話）
     作詞 - AZUKI 七 / 作曲 - 大野愛果 / 編曲 - 小林哲 / 歌 - 岸本早未（レーベル - GIZA studio）
 
 ### 各話リスト
@@ -174,8 +174,8 @@
 <td><p>'''2003年<br />
 4月15日</p></td>
 <td><p>目指せ！世界一の名探偵！！</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林誠人" title="wikilink">林誠人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阿部記之" title="wikilink">阿部記之</a></p></td>
+<td><p><a href="../Page/林誠人.md" title="wikilink">林誠人</a></p></td>
+<td><p><a href="../Page/阿部記之.md" title="wikilink">阿部記之</a></p></td>
 <td><p>ふかざわまなぶ</p></td>
 <td></td>
 </tr>
@@ -184,7 +184,7 @@
 <td><p>4月22日</p></td>
 <td><p>夢の第一歩・入学試験の罠</p></td>
 <td><p>東海林真一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷田部勝義" title="wikilink">谷田部勝義</a></p></td>
+<td><p><a href="../Page/谷田部勝義.md" title="wikilink">谷田部勝義</a></p></td>
 <td><p>高乗陽子</p></td>
 <td></td>
 </tr>
@@ -201,7 +201,7 @@
 <td><p>4</p></td>
 <td><p>5月6日</p></td>
 <td><p>入学式の殺意！学園爆破予告</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a></p></td>
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a></p></td>
 <td><p><a href="../Page/高橋資祐.md" title="wikilink">高橋資祐</a></p></td>
 <td><p>小柴純弥</p></td>
 <td><p>高橋資祐</p></td>
@@ -221,7 +221,7 @@
 <td><p>証言者1000人完全なアリバイ</p></td>
 <td><p>白川巨椋</p></td>
 <td><p>伊達将利</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石野聡" title="wikilink">石野聡</a></p></td>
+<td><p><a href="../Page/石野聡.md" title="wikilink">石野聡</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -237,7 +237,7 @@
 <td><p>8</p></td>
 <td><p>6月3日</p></td>
 <td><p>あの美少年探偵！ついに登場！！</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大和屋暁" title="wikilink">大和屋暁</a></p></td>
+<td><p><a href="../Page/大和屋暁.md" title="wikilink">大和屋暁</a></p></td>
 <td><p>谷田部勝義</p></td>
 <td><p>高乗陽子</p></td>
 <td></td>
@@ -365,7 +365,7 @@
 <td><p>10月4日</p></td>
 <td><p>死者のディナー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福田裕子_(脚本家)" title="wikilink">福田裕子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋山勝仁" title="wikilink">秋山勝仁</a></p></td>
+<td><p><a href="../Page/秋山勝仁.md" title="wikilink">秋山勝仁</a></p></td>
 <td><p>畠山茂樹</p></td>
 <td><p>三好和也</p></td>
 </tr>
@@ -384,7 +384,7 @@
 <td><p>呪いのアイドル</p></td>
 <td><p>大和屋暁</p></td>
 <td><p>阿部記之</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇佐美皓一" title="wikilink">宇佐美皓一</a></p></td>
+<td><p><a href="../Page/宇佐美皓一.md" title="wikilink">宇佐美皓一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -597,21 +597,21 @@
   - キュウ - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")
   - 美南恵（メグ） - [志田未来](https://ja.wikipedia.org/wiki/志田未来 "wikilink")
   - 天草流（リュウ） - [山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")（当時[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、現[Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")）
-  - 鳴沢数馬（カズマ） - [松川尚瑠輝](https://ja.wikipedia.org/wiki/松川尚瑠輝 "wikilink")
+  - 鳴沢数馬（カズマ） - [松川尚瑠輝](../Page/松川尚瑠輝.md "wikilink")
   - 遠山金太郎（キンタ） - [要潤](../Page/要潤.md "wikilink")
-  - 三郎丸豊 - [中尾明慶](https://ja.wikipedia.org/wiki/中尾明慶 "wikilink")
-  - 団守彦 - [陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")
+  - 三郎丸豊 - [中尾明慶](../Page/中尾明慶.md "wikilink")
+  - 団守彦 - [陣内孝則](../Page/陣内孝則.md "wikilink")
   - 片桐紫乃 - [鈴木砂羽](https://ja.wikipedia.org/wiki/鈴木砂羽 "wikilink")
-  - 真木慎太郎 - [東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")
-  - キュウの担任 - [佐藤弘道](https://ja.wikipedia.org/wiki/佐藤弘道 "wikilink")
+  - 真木慎太郎 - [東根作寿英](../Page/東根作寿英.md "wikilink")
+  - キュウの担任 - [佐藤弘道](../Page/佐藤弘道.md "wikilink")
 
 #### スタッフ（単発ドラマ）
 
   - 脚本 - [樫田正剛](https://ja.wikipedia.org/wiki/樫田正剛 "wikilink")
   - 音楽 - [吉川慶](../Page/吉川慶.md "wikilink")
-  - 音楽プロデュース - [志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
-  - タイトルバック演出・アートディレクション - [丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")（[イエローブレイン](https://ja.wikipedia.org/wiki/イエローブレイン "wikilink")）
-  - プロデューサー - 桑原丈弥（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）、秋元孝之（[アベクカンパニー](https://ja.wikipedia.org/wiki/アベクカンパニー "wikilink")）
+  - 音楽プロデュース - [志田博英](../Page/志田博英.md "wikilink")
+  - タイトルバック演出・アートディレクション - [丹下紘希](../Page/丹下紘希.md "wikilink")（[イエローブレイン](https://ja.wikipedia.org/wiki/イエローブレイン "wikilink")）
+  - プロデューサー - 桑原丈弥（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）、秋元孝之（[アベクカンパニー](../Page/アベクカンパニー.md "wikilink")）
   - 演出 - [中島悟](../Page/中島悟.md "wikilink")（アベクカンパニー）
   - 制作プロダクション - アベクカンパニー
   - 製作著作 - 日本テレビ
@@ -630,39 +630,39 @@
 
 #### 主要キャスト
 
-  - キュウ - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")（幼少期：[中村咲哉](https://ja.wikipedia.org/wiki/中村咲哉 "wikilink")）
+  - キュウ - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")（幼少期：[中村咲哉](../Page/中村咲哉.md "wikilink")）
   - 美南恵（メグ） - [志田未来](https://ja.wikipedia.org/wiki/志田未来 "wikilink")
   - 天草流（リュウ） - [山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")（当時[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")〈[Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink")〉、現[Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")）（幼少期：[櫻井遼太郎](../Page/櫻井遼太郎.md "wikilink")）
   - 鳴沢数馬（カズマ） - [若葉克実](../Page/若葉克実.md "wikilink")
   - 遠山金太郎（キンタ） - [要潤](../Page/要潤.md "wikilink")
-  - 団守彦 - [陣内孝則](https://ja.wikipedia.org/wiki/陣内孝則 "wikilink")
+  - 団守彦 - [陣内孝則](../Page/陣内孝則.md "wikilink")
   - 七海光太郎 - [山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")
-  - ケルベロス - [鈴木一真](https://ja.wikipedia.org/wiki/鈴木一真 "wikilink")
+  - ケルベロス - [鈴木一真](../Page/鈴木一真.md "wikilink")
   - ユリエ - [奥貫薫](https://ja.wikipedia.org/wiki/奥貫薫 "wikilink")
-  - 猫田刑事 - [星野源](https://ja.wikipedia.org/wiki/星野源 "wikilink")
-  - 諸星警部 - [斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")
+  - 猫田刑事 - [星野源](../Page/星野源.md "wikilink")
+  - 諸星警部 - [斉木しげる](../Page/斉木しげる.md "wikilink")
   - 植村はるか - [秋田真琴](../Page/秋田真琴.md "wikilink")
-  - ダーツバーの案内人 - [喜屋武ちあき](https://ja.wikipedia.org/wiki/喜屋武ちあき "wikilink")
+  - ダーツバーの案内人 - [喜屋武ちあき](../Page/喜屋武ちあき.md "wikilink")
 
 #### ゲスト出演
 
   - 第1話
 
-:\* 米山良子 - [森口瑤子](https://ja.wikipedia.org/wiki/森口瑤子 "wikilink")
+:\* 米山良子 - [森口瑤子](../Page/森口瑤子.md "wikilink")
 
-:\* 手塚章 - [柄本時生](https://ja.wikipedia.org/wiki/柄本時生 "wikilink")
+:\* 手塚章 - [柄本時生](../Page/柄本時生.md "wikilink")
 
 :\* 芳村玲子 - [廣田朋菜](../Page/廣田朋菜.md "wikilink")
 
-:\* 岡田律子 - [垣内彩未](https://ja.wikipedia.org/wiki/垣内彩未 "wikilink")
+:\* 岡田律子 - [垣内彩未](../Page/垣内彩未.md "wikilink")
 
-:\* 西村静香 - [岩井七世](https://ja.wikipedia.org/wiki/岩井七世 "wikilink")
+:\* 西村静香 - [岩井七世](../Page/岩井七世.md "wikilink")
 
 :\* 佐々木まどか - [飯田里穂](../Page/飯田里穂.md "wikilink")
 
 :\* 大森恭子 - [伊藤未希](https://ja.wikipedia.org/wiki/伊藤未希 "wikilink")
 
-:\* 西村静香の父 - [田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
+:\* 西村静香の父 - [田中要次](../Page/田中要次.md "wikilink")
 
 :\* 佐々木まどかの母 - [佐野珠美](https://ja.wikipedia.org/wiki/佐野珠美 "wikilink")
 
@@ -674,17 +674,17 @@
 
   - 第2話
 
-:\* 牧野大介 - [本郷奏多](https://ja.wikipedia.org/wiki/本郷奏多 "wikilink")
+:\* 牧野大介 - [本郷奏多](../Page/本郷奏多.md "wikilink")
 
-:\* 五十嵐匠 - [神保悟志](https://ja.wikipedia.org/wiki/神保悟志 "wikilink")
+:\* 五十嵐匠 - [神保悟志](../Page/神保悟志.md "wikilink")
 
 :\* 竹山裕紀 - [吉武怜朗](../Page/吉武怜朗.md "wikilink")
 
-:\* 鈴木彩香 - [柳田衣里佳](https://ja.wikipedia.org/wiki/柳田衣里佳 "wikilink")
+:\* 鈴木彩香 - [柳田衣里佳](../Page/柳田衣里佳.md "wikilink")
 
 :\* 森田裕一 - [隈部洋平](https://ja.wikipedia.org/wiki/隈部洋平 "wikilink")
 
-:\* ダンスリーダー - [青柳塁斗](https://ja.wikipedia.org/wiki/青柳塁斗 "wikilink")
+:\* ダンスリーダー - [青柳塁斗](../Page/青柳塁斗.md "wikilink")
 
 :\* ダンス少女 - [池田愛](https://ja.wikipedia.org/wiki/池田愛_\(1988年生\) "wikilink")
 
@@ -696,9 +696,9 @@
 
 :\* 落合 - [伊嵜充則](https://ja.wikipedia.org/wiki/伊嵜充則 "wikilink")
 
-:\* 渡辺 - [深水元基](https://ja.wikipedia.org/wiki/深水元基 "wikilink")
+:\* 渡辺 - [深水元基](../Page/深水元基.md "wikilink")
 
-:\* 田村由季 - [永田杏奈](https://ja.wikipedia.org/wiki/永田杏奈 "wikilink")
+:\* 田村由季 - [永田杏奈](../Page/永田杏奈.md "wikilink")
 
 :\* そば屋・高田 - [光宣](https://ja.wikipedia.org/wiki/光宣 "wikilink")
 
@@ -720,13 +720,13 @@
 
 :\* 富永雅士 - [落合扶樹](https://ja.wikipedia.org/wiki/落合扶樹 "wikilink")
 
-:\* 佐久間響 - [若葉竜也](https://ja.wikipedia.org/wiki/若葉竜也 "wikilink")
+:\* 佐久間響 - [若葉竜也](../Page/若葉竜也.md "wikilink")
 
 :\* 亀田純也 - [小野賢章](../Page/小野賢章.md "wikilink")
 
-:\* 朝吹麻耶 - [鈴木かすみ](https://ja.wikipedia.org/wiki/鈴木かすみ "wikilink")
+:\* 朝吹麻耶 - [鈴木かすみ](../Page/鈴木かすみ.md "wikilink")
 
-:\* 遠矢邦子 - [田島ゆみか](https://ja.wikipedia.org/wiki/田島ゆみか "wikilink")
+:\* 遠矢邦子 - [田島ゆみか](../Page/田島ゆみか.md "wikilink")
 
 :\* 小椋絵美菜 - [高梨臨](../Page/高梨臨.md "wikilink")
 
@@ -744,13 +744,13 @@
 
   - 第6話
 
-:\* 福永右近 - [山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")
+:\* 福永右近 - [山崎裕太](../Page/山崎裕太.md "wikilink")
 
 :\* 福永左門 - [佐戸井けん太](https://ja.wikipedia.org/wiki/佐戸井けん太 "wikilink")
 
-:\* 福永朋江 - [西山繭子](https://ja.wikipedia.org/wiki/西山繭子 "wikilink")
+:\* 福永朋江 - [西山繭子](../Page/西山繭子.md "wikilink")
 
-:\* 福永葉月 - [山口美也子](https://ja.wikipedia.org/wiki/山口美也子 "wikilink")
+:\* 福永葉月 - [山口美也子](../Page/山口美也子.md "wikilink")
 
   -
 
@@ -758,9 +758,9 @@
 
 :\* 遠山金三郎 - [山下真司](../Page/山下真司.md "wikilink")
 
-:\* 田口涼子 - [すほうれいこ](https://ja.wikipedia.org/wiki/すほうれいこ "wikilink")
+:\* 田口涼子 - [すほうれいこ](../Page/すほうれいこ.md "wikilink")
 
-:\* 美作竜介 - [波岡一喜](https://ja.wikipedia.org/wiki/波岡一喜 "wikilink")
+:\* 美作竜介 - [波岡一喜](../Page/波岡一喜.md "wikilink")
 
 :\* 岡島弥生 - [上村愛香](https://ja.wikipedia.org/wiki/上村愛香 "wikilink")
 
@@ -780,11 +780,11 @@
 
   - 第8話
 
-:\* 浅野拓郎 - [鈴木浩介](https://ja.wikipedia.org/wiki/鈴木浩介_\(俳優\) "wikilink")
+:\* 浅野拓郎 - [鈴木浩介](../Page/鈴木浩介_\(俳優\).md "wikilink")
 
 :\* れいか - [高橋真唯](https://ja.wikipedia.org/wiki/高橋真唯 "wikilink")
 
-:\* 瀬戸内つぐみ - [嘉陽愛子](https://ja.wikipedia.org/wiki/嘉陽愛子 "wikilink")
+:\* 瀬戸内つぐみ - [嘉陽愛子](../Page/嘉陽愛子.md "wikilink")
 
 :\* ほのか - [秋山奈々](https://ja.wikipedia.org/wiki/秋山依里 "wikilink")
 
@@ -800,7 +800,7 @@
 
 :\* 医師 - [長野里美](../Page/長野里美.md "wikilink")
 
-:\* 中村（田中の同僚） - [まいど豊](https://ja.wikipedia.org/wiki/まいど豊 "wikilink")
+:\* 中村（田中の同僚） - [まいど豊](../Page/まいど豊.md "wikilink")
 
 :\* 刑務官 - [渡辺穣](https://ja.wikipedia.org/wiki/渡辺穣_\(俳優\) "wikilink")
 
@@ -808,11 +808,11 @@
 
   - 第10話・最終話
 
-:\* 紅城響介 - [田中実](https://ja.wikipedia.org/wiki/田中実_\(俳優\) "wikilink")
+:\* 紅城響介 - [田中実](../Page/田中実_\(俳優\).md "wikilink")
 
 :\* 奈々村美姫 - [松尾れい子](../Page/松尾れい子.md "wikilink")
 
-:\* 神屋桔梗 - [邑野みあ](https://ja.wikipedia.org/wiki/邑野みあ "wikilink")
+:\* 神屋桔梗 - [邑野みあ](../Page/邑野みあ.md "wikilink")
 
 :\* 雨洞拓摩 - [小須田康人](https://ja.wikipedia.org/wiki/小須田康人 "wikilink")
 
@@ -822,12 +822,12 @@
 
 #### スタッフ（連続ドラマ）
 
-  - 脚本 - [大石哲也](https://ja.wikipedia.org/wiki/大石哲也 "wikilink")、[渡辺雄介](../Page/渡辺雄介.md "wikilink")
+  - 脚本 - [大石哲也](../Page/大石哲也.md "wikilink")、[渡辺雄介](../Page/渡辺雄介.md "wikilink")
   - 音楽 - [吉川慶](../Page/吉川慶.md "wikilink")
   - 技術協力 - [NiTRo](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")
   - プロデューサー - 桑原丈弥（日本テレビ）、秋元孝之（アベクカンパニー）
   - 演出 - [大塚恭司](../Page/大塚恭司.md "wikilink")、位部将人（アベクカンパニー）、猪股隆一、石尾純
-  - 制作プロダクション - [AVEC COMPANY](https://ja.wikipedia.org/wiki/アベクカンパニー "wikilink")
+  - 制作プロダクション - [AVEC COMPANY](../Page/アベクカンパニー.md "wikilink")
   - 製作著作 - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")
 
 ### 楽曲
@@ -939,7 +939,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 11.4%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 11.4%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -953,7 +953,7 @@
 
 ## ゲーム
 
-  - [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")
+  - [ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")
       - 探偵学園Q 名探偵はキミだ\! （[2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
       - 探偵学園Q 究極トリックに挑め\! （[2004年](../Page/2004年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink") 、コナミ）
   - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
@@ -963,11 +963,11 @@
 
 ## ミステリーツアー
 
-[JR西日本の企画による](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[ミステリーツアー](../Page/ミステリーツアー.md "wikilink")。2002年と2003年に北陸方面\[53\]を舞台にツアー参加者が手掛かりをもとに事件を推理する。[金田一少年の事件簿](../Page/金田一少年の事件簿.md "wikilink")の後継として実施した。参加者はJR西日本から発売している北陸方面の企画きっぷや旅行会社から発売されている旅行先が北陸方面のパッケージツアー等を購入し、企画きっぷ等についてくるツアーキット引換券をJR西日本の主要駅の窓口で引き換えることが出来る。ツアーキットの中身はシナリオブックと現地で使えるクーポンブックと応募はがきである。応募はがきに真犯人の名前と事件に使用したトリックと必要事項を記入し、JR西日本に郵送した後抽選で本作のテレビアニメDVDやゲームソフトや原作者の直筆サイン入りコミックスやテレビアニメ出演声優陣の直筆サイン入りアフレコ台本が入った探偵学園Qグッズ詰め合わせや開催地の名産品がプレゼントされる。
+[JR西日本の企画による](../Page/西日本旅客鉄道.md "wikilink")[ミステリーツアー](../Page/ミステリーツアー.md "wikilink")。2002年と2003年に北陸方面\[53\]を舞台にツアー参加者が手掛かりをもとに事件を推理する。[金田一少年の事件簿](../Page/金田一少年の事件簿.md "wikilink")の後継として実施した。参加者はJR西日本から発売している北陸方面の企画きっぷや旅行会社から発売されている旅行先が北陸方面のパッケージツアー等を購入し、企画きっぷ等についてくるツアーキット引換券をJR西日本の主要駅の窓口で引き換えることが出来る。ツアーキットの中身はシナリオブックと現地で使えるクーポンブックと応募はがきである。応募はがきに真犯人の名前と事件に使用したトリックと必要事項を記入し、JR西日本に郵送した後抽選で本作のテレビアニメDVDやゲームソフトや原作者の直筆サイン入りコミックスやテレビアニメ出演声優陣の直筆サイン入りアフレコ台本が入った探偵学園Qグッズ詰め合わせや開催地の名産品がプレゼントされる。
 
 ## 単行本
 
-いずれも、原作は[天樹征丸](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")、作画は[さとうふみや](https://ja.wikipedia.org/wiki/さとうふみや "wikilink")であり、 講談社の〈講談社コミックス〉レーベルから発行されている。
+いずれも、原作は[天樹征丸](../Page/樹林伸.md "wikilink")、作画は[さとうふみや](https://ja.wikipedia.org/wiki/さとうふみや "wikilink")であり、 講談社の〈講談社コミックス〉レーベルから発行されている。
 
   - 『探偵学園Q』（全22巻）
     1.  2001年9月17日初版発行、ISBN 4-06-313024-X
@@ -1071,7 +1071,7 @@
 45. 『16巻』113頁 - 『17巻』134頁収録
 46. 『18巻』165頁 - 『19巻』134頁収録
 47. 『20巻』169頁 - 『22巻』142頁収録
-48. 天樹征丸とさとうふみやの作品のメディア化された作品では唯一TBSで放送された。『[金田一少年の事件簿](../Page/金田一少年の事件簿.md "wikilink")』の[ドラマや](https://ja.wikipedia.org/wiki/金田一少年の事件簿_\(テレビドラマ\) "wikilink")[アニメ](https://ja.wikipedia.org/wiki/金田一少年の事件簿_\(アニメ\) "wikilink")、同漫画のドラマは[日本テレビや](../Page/日本テレビ放送網.md "wikilink")[読売テレビで放送](../Page/讀賣テレビ放送.md "wikilink")。
+48. 天樹征丸とさとうふみやの作品のメディア化された作品では唯一TBSで放送された。『[金田一少年の事件簿](../Page/金田一少年の事件簿.md "wikilink")』の[ドラマや](../Page/金田一少年の事件簿_\(テレビドラマ\).md "wikilink")[アニメ](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")、同漫画のドラマは[日本テレビや](../Page/日本テレビ放送網.md "wikilink")[読売テレビで放送](../Page/讀賣テレビ放送.md "wikilink")。
 49. 第1話の直前に放送された『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』では、関東地方の天気コーナーにキュウとメグがゲストとして出演した。
 50. インタビュー（阿部紀之）『ミステリー・ノート』202頁
 51. それでもオープニングやアイキャチでは、メグのミニスカート姿を強調したカットがある。

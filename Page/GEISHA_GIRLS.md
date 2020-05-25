@@ -27,7 +27,7 @@
 
   - [1993年](../Page/1993年.md "wikilink")『[ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")』のトークに[坂本龍一](../Page/坂本龍一.md "wikilink")が観覧客として来ていた事に対し、後日のトークで[松本人志](../Page/松本人志.md "wikilink")が「いっちょやな、世界の坂本に曲書いてもらって全米デビューするんですよ」と唐突に語り、ユニット名「GEISHA GIRLS」もその場のボケで急遽決まる。「世界の坂本がそんなオファー受けるはずがない」と思いつつスタッフが坂本に連絡すると、「[ダウンタウンの二人が](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")まで来てくれるなら」との連絡が入り、[1994年](../Page/1994年.md "wikilink")二人は渡米。着いたその日にそのままレコーディング、翌日ライブという強行スケジュールで全米デビューを果たした。この模様は1994年4月のガキの使いスペシャルで放送された。
   - 後日その返礼として今度は坂本が来日し、「ダウンタウンと漫才がしたい」というかねてからの夢を叶えた。以後も坂本は『[ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")』などにもゲスト出演し、コントを演じている。
-  - 1994年に始まった『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』では第1回ゲストとして坂本龍一、[テイ・トウワ](../Page/テイ・トウワ.md "wikilink")と共に出演。「Kick & Loud」が、HEY\!HEY\!HEY\!の初代オープニングのBGMとして使用された。
+  - 1994年に始まった『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』では第1回ゲストとして坂本龍一、[テイ・トウワ](../Page/テイ・トウワ.md "wikilink")と共に出演。「Kick & Loud」が、HEY\!HEY\!HEY\!の初代オープニングのBGMとして使用された。
   - Kenによると影響を受けたアーティストは[ライオネル・リッチー](https://ja.wikipedia.org/wiki/ライオネル・リッチー "wikilink")で、ライバルは[ヨゴレ](https://ja.wikipedia.org/wiki/ヨゴレ "wikilink")の[H Jungle](../Page/H_Jungle_with_t.md "wikilink")。[Sho曰く](../Page/H_Jungle_with_t.md "wikilink")「俺らの格好見てみい。俺らもヨゴレや！」。
 
 ## 作品
@@ -57,7 +57,7 @@
 ## 主なテレビ出演
 
   - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink") - Grandma is still alive , Kick & Loud
-  - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink") - Kick & Loud , Blow Your Mind - 森オッサン チョイチョイ キリキリまい , 少年
+  - [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") - Kick & Loud , Blow Your Mind - 森オッサン チョイチョイ キリキリまい , 少年
   - [NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink") - Kenのみ。[H Jungle with t](../Page/H_Jungle_with_t.md "wikilink") 出演時のゲストとして出演
 
 ## 関連項目

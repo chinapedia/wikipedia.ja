@@ -71,6 +71,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-3460/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-3460)
 
 [Category:プリンセス_プリンセスのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのベスト・アルバム "wikilink") [Category:1996年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1996年のベスト・アルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")

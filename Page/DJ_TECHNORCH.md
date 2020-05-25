@@ -1,7 +1,7 @@
 > この記事は[DJ TECHNORCH](https://ja.wikipedia.org/wiki/DJ_TECHNORCH)から翻訳されています。
 
 
-**DJ TECHNORCH**(ディージェイ・テクノウチ、本名：山下泰、[3月3日](../Page/3月3日.md "wikilink") - )は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。
+**DJ TECHNORCH**（ディージェイ・テクノウチ、本名：**山下 泰**、[3月3日](../Page/3月3日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。
 
 ## 概要
 
@@ -97,7 +97,7 @@ DJとしては、ボイスチェンジャーを使用してフロアのオーデ
 
   - [DJ TECHNORCH and 九十九音夢](http://www.technorch.com/)
 
-[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:同人音楽の作曲家・編曲家](https://ja.wikipedia.org/wiki/Category:同人音楽の作曲家・編曲家 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:BEMANIシリーズの人物](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズの人物 "wikilink") [Category:同人音楽の作曲家・編曲家](https://ja.wikipedia.org/wiki/Category:同人音楽の作曲家・編曲家 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  DJ TROOPERS以来の楽曲提供。また、氏の提供楽曲では初のEXTRA専用曲と、IIDXでは初の単独名義(今までは合作がほとんどだった)。
 2.  サントラ版にはロングバージョンの「真説・東京神話」も収録された。

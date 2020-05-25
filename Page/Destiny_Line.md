@@ -1,7 +1,7 @@
 > この記事は[Destiny Line](https://ja.wikipedia.org/wiki/Destiny_Line)から翻訳されています。
 
 
-『**Destiny Line**』（デスティニー・ライン）は、[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")にリリースされた[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+『**Destiny Line**』（デスティニー・ライン）は、[2007年](../Page/2007年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")にリリースされた[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
 ## 解説
 
@@ -16,13 +16,13 @@
 ### DISC1(CD)
 
 1.  '''IMPOSSIBLE '''
-      - 作詞：[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink") & [新美香](https://ja.wikipedia.org/wiki/新美香 "wikilink") / 作曲・編曲：[井上大介](https://ja.wikipedia.org/wiki/井上大介 "wikilink")
+      - 作詞：[リア・ディゾン](../Page/リア・ディゾン.md "wikilink") & [新美香](https://ja.wikipedia.org/wiki/新美香 "wikilink") / 作曲・編曲：[井上大介](https://ja.wikipedia.org/wiki/井上大介 "wikilink")
 2.  **Everything Anything**
       - 作詞：[路川ひまり](https://ja.wikipedia.org/wiki/路川ひまり "wikilink") / 作曲・編曲：[田中直](https://ja.wikipedia.org/wiki/田中直 "wikilink")
 3.  **Missing**
       - 作詞：リア・ディゾン & 新美香 / 作曲・編曲：[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")
-4.  **[恋しよう♪](https://ja.wikipedia.org/wiki/恋しよう♪ "wikilink")**
-      - 作詞：リア・ディゾン & 新美香 / 作曲・編曲：[平田祥一郎](https://ja.wikipedia.org/wiki/平田祥一郎 "wikilink")
+4.  **[恋しよう♪](../Page/恋しよう♪.md "wikilink")**
+      - 作詞：リア・ディゾン & 新美香 / 作曲・編曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")
 5.  **運命線**
       - 作詞：リア・ディゾン & [枝村麻衣子](https://ja.wikipedia.org/wiki/枝村麻衣子 "wikilink") / 作曲：[Chikara"ricky"Hazama](https://ja.wikipedia.org/wiki/RICKY "wikilink") & Debbie Huang / 編曲：Chikara"ricky"Hazama
 6.  **Could you be that one?**
@@ -32,7 +32,7 @@
     <!-- end list -->
       -
         ロッテ「リッチフルーツチョコレート」CMソング
-8.  **[Softly](https://ja.wikipedia.org/wiki/Softly "wikilink")**
+8.  **[Softly](../Page/Softly.md "wikilink")**
       - 作詞：[岡嶋かな多](https://ja.wikipedia.org/wiki/岡嶋かな多 "wikilink") / 作曲・編曲：[野井洋児](https://ja.wikipedia.org/wiki/野井洋児 "wikilink")
 9.  **Time (Clock Of The Heart)**
       - 作詞・作曲：George O'Dowd,Jon Moss,Michael Craig,Roy Hay / 編曲：CMJK
@@ -40,13 +40,13 @@
       - 作詞：リア・ディゾン / 作曲・編曲：[STY](../Page/STY.md "wikilink")
 11. **Wonderlin**'
       - 作詞・作曲・編曲：田中直
-12. **[L・O・V・E U](https://ja.wikipedia.org/wiki/L・O・V・E_U "wikilink")**
+12. **[L・O・V・E U](../Page/L・O・V・E_U.md "wikilink")**
       - 作詞：リア・ディゾン & 新美香 / 作曲・編曲：平田祥一郎
 13. **Drive me crazy**
       - 作詞：リア・ディゾン & 新美香 / 作曲・編曲：[corin](https://ja.wikipedia.org/wiki/corin "wikilink")
 14. **Again and Again**
       - 作詞：リア・ディゾン / 作曲：ブラッド・ディゾン & リア・ディゾン / 編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink") & tomzuin h
-15. **[恋しよう♪](https://ja.wikipedia.org/wiki/恋しよう♪ "wikilink")〜yasutaka nakata-capsule mix〜**
+15. **[恋しよう♪](../Page/恋しよう♪.md "wikilink")〜yasutaka nakata-capsule mix〜**
 
 <!-- end list -->
 

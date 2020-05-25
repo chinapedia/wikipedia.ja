@@ -1,7 +1,7 @@
-> この記事は[=GOHAN](https://ja.wikipedia.org/wiki/=GOHAN)から翻訳されています。
+> この記事は[主食=GOHANの唄](https://ja.wikipedia.org/wiki/主食=GOHANの唄)から翻訳されています。
 
 
-「**主食=GOHANの唄**」（しゅしょくはゴハンのうた）は、[2007年](../Page/2007年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された[THE ポッシボー通算](https://ja.wikipedia.org/wiki/チャオ_ベッラ_チンクエッティ "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
+「**主食=GOHANの唄**」（しゅしょくはゴハンのうた）は、[2007年](../Page/2007年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された[THE ポッシボー通算](../Page/チャオ_ベッラ_チンクエッティ.md "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -11,11 +11,11 @@
 
 1.  **主食=GOHANの唄**
       -
-        作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")、編曲：[高橋諭一](https://ja.wikipedia.org/wiki/高橋諭一 "wikilink")
+        作詞・作曲：[つんく](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")、編曲：[高橋諭一](../Page/高橋諭一.md "wikilink")
 2.  **そよ風のくちづけ**
       -
-        作詞：[山上路夫](https://ja.wikipedia.org/wiki/山上路夫 "wikilink")、作曲：[森田公一](https://ja.wikipedia.org/wiki/森田公一 "wikilink")、編曲：高橋諭一
-3.  **主食=GOHANの唄** **([Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink"))**
+        作詞：[山上路夫](../Page/山上路夫.md "wikilink")、作曲：[森田公一](../Page/森田公一.md "wikilink")、編曲：高橋諭一
+3.  **主食=GOHANの唄** **([Instrumental](../Page/器楽曲.md "wikilink"))**
 4.  **そよ風のくちづけ** **(Instrumental)**
 
 ## 外部リンク

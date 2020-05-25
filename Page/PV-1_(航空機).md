@@ -1,19 +1,19 @@
-> この記事は[PV-1 \(\)](https://ja.wikipedia.org/wiki/PV-1_\(\))から翻訳されています。
+> この記事は[PV-1 \(航空機\)](https://ja.wikipedia.org/wiki/PV-1_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Ventura_LOC_8e01506u.jpg "wikilink") **ロッキード PV-1（Lockheed PV-1）**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ロッキード](../Page/ロッキード.md "wikilink")社で製造された[哨戒](https://ja.wikipedia.org/wiki/哨戒機 "wikilink")/[爆撃機](../Page/爆撃機.md "wikilink")である。
 
-[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の他、[イギリス空軍](https://ja.wikipedia.org/wiki/イギリス空軍 "wikilink")では**ベンチュラ（Ventura）**の名称で、[アメリカ陸軍航空隊では](https://ja.wikipedia.org/wiki/アメリカ陸軍航空軍 "wikilink")**B-34／B-37**の制式名称で使用された。
+[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の他、[イギリス空軍](../Page/イギリス空軍.md "wikilink")では**ベンチュラ（Ventura）**の名称で、[アメリカ陸軍航空隊では](../Page/アメリカ陸軍航空軍.md "wikilink")**B-34／B-37**の制式名称で使用された。
 
 ## 概要
 
 ### イギリス空軍
 
-[L-18ロードスター旅客機を](https://ja.wikipedia.org/wiki/ロッキード_L-18_ロードスター "wikilink")[軍用機](../Page/軍用機.md "wikilink")化した機体で、同様に[L-14スーパーエレクトラ旅客機を軍用機化した](https://ja.wikipedia.org/wiki/ロッキード_L-14_スーパーエレクトラ "wikilink")[ハドソンの成功を踏まえて](../Page/ハドソン_\(航空機\).md "wikilink")[イギリス空軍](https://ja.wikipedia.org/wiki/イギリス空軍 "wikilink")が発注したものである。
+[L-18ロードスター旅客機を](https://ja.wikipedia.org/wiki/ロッキード_L-18_ロードスター "wikilink")[軍用機](../Page/軍用機.md "wikilink")化した機体で、同様に[L-14スーパーエレクトラ旅客機を軍用機化した](../Page/ロッキード_L-14_スーパーエレクトラ.md "wikilink")[ハドソンの成功を踏まえて](../Page/ハドソン_\(航空機\).md "wikilink")[イギリス空軍](../Page/イギリス空軍.md "wikilink")が発注したものである。
 
-イギリス空軍は[1940年](../Page/1940年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に188機のヴェンチュラを発注し、[1942年](../Page/1942年.md "wikilink")半ばに配備した。1942年末に戦線に投入された当初は占領下の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")での[昼間爆撃](https://ja.wikipedia.org/wiki/昼間爆撃 "wikilink")に使用されていたが、他の[爆撃機](../Page/爆撃機.md "wikilink")と同様に[戦闘機](../Page/戦闘機.md "wikilink")の護衛なしでは非常に被撃墜確率が高いことがわかり、爆撃機部隊はより高速の[DH.98 モスキートへと機種転換された](../Page/デ・ハビランド_モスキート.md "wikilink")。この時期はイギリス空軍が戦時体制へ移行し、ようやく[ボーファイターやDH](https://ja.wikipedia.org/wiki/ブリストル_ボーファイター "wikilink").98 モスキートなど、まとまった数の高性能爆撃機を投入可能な時期に当たった。このため、[民間機](https://ja.wikipedia.org/wiki/民間機 "wikilink")転用の[軍用機](../Page/軍用機.md "wikilink")であった本機は、前作ハドソンを大幅に上回る機体性能ではあったものの他の機体に劣ってしまった。結果的にはイギリス空軍において、数的劣勢に追い込まれていた時期にピンチヒッターとして「**必要な時期に、必要な数が間に合った**」ハドソンほどの成功作とはみなされなかった。
+イギリス空軍は[1940年](../Page/1940年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に188機のヴェンチュラを発注し、[1942年](../Page/1942年.md "wikilink")半ばに配備した。1942年末に戦線に投入された当初は占領下の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")での[昼間爆撃](https://ja.wikipedia.org/wiki/昼間爆撃 "wikilink")に使用されていたが、他の[爆撃機](../Page/爆撃機.md "wikilink")と同様に[戦闘機](../Page/戦闘機.md "wikilink")の護衛なしでは非常に被撃墜確率が高いことがわかり、爆撃機部隊はより高速の[DH.98 モスキートへと機種転換された](../Page/デ・ハビランド_モスキート.md "wikilink")。この時期はイギリス空軍が戦時体制へ移行し、ようやく[ボーファイターやDH](../Page/ブリストル_ボーファイター.md "wikilink").98 モスキートなど、まとまった数の高性能爆撃機を投入可能な時期に当たった。このため、[民間機](https://ja.wikipedia.org/wiki/民間機 "wikilink")転用の[軍用機](../Page/軍用機.md "wikilink")であった本機は、前作ハドソンを大幅に上回る機体性能ではあったものの他の機体に劣ってしまった。結果的にはイギリス空軍において、数的劣勢に追い込まれていた時期にピンチヒッターとして「**必要な時期に、必要な数が間に合った**」ハドソンほどの成功作とはみなされなかった。
 
-こうして爆撃任務を退いたヴェンチュラは、沿岸部隊の[哨戒任務に回された](https://ja.wikipedia.org/wiki/哨戒機 "wikilink")。このうち30機は[カナダ空軍](https://ja.wikipedia.org/wiki/カナダ空軍 "wikilink")（RCAF）、135機は[南アフリカ空軍](https://ja.wikipedia.org/wiki/南アフリカ国防軍#南アフリカ空軍 "wikilink")（SAAF）へ輸送され、一部機体は[オーストラリア](../Page/オーストラリア.md "wikilink")と[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")との混成部隊などで運用された。イギリス空軍はヴェンチュラ Mk.IIを487機発注したが、264機は[アメリカ陸軍航空軍](https://ja.wikipedia.org/wiki/アメリカ陸軍航空軍 "wikilink")に転用された。
+こうして爆撃任務を退いたヴェンチュラは、沿岸部隊の[哨戒任務に回された](https://ja.wikipedia.org/wiki/哨戒機 "wikilink")。このうち30機は[カナダ空軍](https://ja.wikipedia.org/wiki/カナダ空軍 "wikilink")（RCAF）、135機は[南アフリカ空軍](https://ja.wikipedia.org/wiki/南アフリカ国防軍#南アフリカ空軍 "wikilink")（SAAF）へ輸送され、一部機体は[オーストラリア](../Page/オーストラリア.md "wikilink")と[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")との混成部隊などで運用された。イギリス空軍はヴェンチュラ Mk.IIを487機発注したが、264機は[アメリカ陸軍航空軍](../Page/アメリカ陸軍航空軍.md "wikilink")に転用された。
 
 ### アメリカ陸軍航空軍
 
@@ -27,9 +27,9 @@
 
 [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")による発注を受け、PV-1は[1942年](../Page/1942年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に納入された。PV-1は哨戒任務に使用される機器を収めるためB-34よりいくつかの設計変更が行われた。前方の防御用機銃などが削減され、ASD-1探索レーダーなどが搭載された。また、燃料の搭載量は航続距離拡大のため5,081L（1,345gal）から6,082L（1,607gal）へと増加された。
 
-初期生産のPV-1は、機首にある[レドーム](https://ja.wikipedia.org/wiki/レドーム "wikilink")の背後に爆撃手席を配置しており、横側に4つ窓があり、機首下側には爆弾照準窓があったが、後期生産のPV-1は爆撃手席を廃し、3挺の12.7mm（0.50インチ）機銃を機首下側のパックに配した。また、後期生産機は翼下のパイロンに127mm（5インチ）のHVARロケットを8発搭載可能であった。
+初期生産のPV-1は、機首にある[レドーム](../Page/レドーム.md "wikilink")の背後に爆撃手席を配置しており、横側に4つ窓があり、機首下側には爆弾照準窓があったが、後期生産のPV-1は爆撃手席を廃し、3挺の12.7mm（0.50インチ）機銃を機首下側のパックに配した。また、後期生産機は翼下のパイロンに127mm（5インチ）のHVARロケットを8発搭載可能であった。
 
-PV-1はアメリカ海軍に[1943年](../Page/1943年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に就役した。最初に配備されたのは[アリューシャン列島](../Page/アリューシャン列島.md "wikilink")に展開していた第135戦闘中隊（[VP-135](https://ja.wikipedia.org/wiki/:en:VP-135 "wikilink")）で、他に3箇所の飛行中隊でも運用された。アリューシャン列島から[千島列島](https://ja.wikipedia.org/wiki/千島列島 "wikilink")の[幌筵島](https://ja.wikipedia.org/wiki/幌筵島 "wikilink")と[占守島](../Page/占守島.md "wikilink")にあった日本軍の基地に対して攻撃を行った。大抵の場合にはPV-1はレーダーを装備していることから、[B-24リベレーター爆撃機の編隊の誘導を行った](https://ja.wikipedia.org/wiki/B-24_\(航空機\) "wikilink")。1943年後半になると、PV-1の一部は海兵隊でも採用され、第531夜間戦闘飛行隊（[VMF(N)-531](https://ja.wikipedia.org/wiki/:en:VMFA-531 "wikilink")）で夜間戦闘機としてソロモン諸島方面で運用された。
+PV-1はアメリカ海軍に[1943年](../Page/1943年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に就役した。最初に配備されたのは[アリューシャン列島](../Page/アリューシャン列島.md "wikilink")に展開していた第135戦闘中隊（[VP-135](https://ja.wikipedia.org/wiki/:en:VP-135 "wikilink")）で、他に3箇所の飛行中隊でも運用された。アリューシャン列島から[千島列島](../Page/千島列島.md "wikilink")の[幌筵島](../Page/幌筵島.md "wikilink")と[占守島](../Page/占守島.md "wikilink")にあった日本軍の基地に対して攻撃を行った。大抵の場合にはPV-1はレーダーを装備していることから、[B-24リベレーター爆撃機の編隊の誘導を行った](../Page/B-24_\(航空機\).md "wikilink")。1943年後半になると、PV-1の一部は海兵隊でも採用され、第531夜間戦闘飛行隊（[VMF(N)-531](https://ja.wikipedia.org/wiki/:en:VMFA-531 "wikilink")）で夜間戦闘機としてソロモン諸島方面で運用された。
 
 ### 民間への再転用
 
@@ -43,7 +43,7 @@ PV-1はアメリカ海軍に[1943年](../Page/1943年.md "wikilink")[2月](https
 
 沿岸哨戒機として[ロッキード・ハドソンを大量発注していたイギリス海軍は](../Page/ハドソン_\(航空機\).md "wikilink")、ロッキード社に対してハドソンの後継機となるさらに強力な哨戒爆撃機の開発を要請した。ロッキード社への発注は1940年に行われ、ロッキード社では、[L-18 ロードスターをベースとした機体を](https://ja.wikipedia.org/wiki/ロッキード_L-18_ロードスター "wikilink")**Model37**の社内名称で開発した。
 
-基体となったロードスターはハドソンの原型である[ロッキード L-10 エレクトラ旅客機の改良型である](https://ja.wikipedia.org/wiki/ロッキード_L-10_エレクトラ "wikilink")[スーパーエレクトラの発展型ということもあり](https://ja.wikipedia.org/wiki/ロッキード_L-14_スーパーエレクトラ "wikilink")、ベンチュラの機体形自体はハドソンに類似していたが、エンジンは強力なプラット&ホイットニーSIA4-G ダブルワスプ（離昇出力1,800馬力）を搭載した。武装は機首前面の爆撃手席に連装の7.7mm[機関銃](../Page/機関銃.md "wikilink")、胴体背面に[ボールトンポール](../Page/ボールトンポール.md "wikilink")製7.7mm連装動力[機銃塔の位置を変更して射界を改良し](https://ja.wikipedia.org/wiki/砲塔#航空機 "wikilink")、胴体後方下面にも本格的な7.7mm連装の銃座が設けられた。爆弾搭載量は爆弾倉に2,500ℓb(1,135Kg)である。イギリス軍はこの機体に**ベンチュラ**（**Ventura**：[アメリカの都市名](https://ja.wikipedia.org/wiki/ベンチュラ_\(カリフォルニア州\) "wikilink")）という愛称を与え、生産された型を**ベンチュラI**（または**ベンチュラMK.1**）と呼んだ。
+基体となったロードスターはハドソンの原型である[ロッキード L-10 エレクトラ旅客機の改良型である](https://ja.wikipedia.org/wiki/ロッキード_L-10_エレクトラ "wikilink")[スーパーエレクトラの発展型ということもあり](../Page/ロッキード_L-14_スーパーエレクトラ.md "wikilink")、ベンチュラの機体形自体はハドソンに類似していたが、エンジンは強力なプラット&ホイットニーSIA4-G ダブルワスプ（離昇出力1,800馬力）を搭載した。武装は機首前面の爆撃手席に連装の7.7mm[機関銃](../Page/機関銃.md "wikilink")、胴体背面に[ボールトンポール](../Page/ボールトンポール.md "wikilink")製7.7mm連装動力[機銃塔の位置を変更して射界を改良し](https://ja.wikipedia.org/wiki/砲塔#航空機 "wikilink")、胴体後方下面にも本格的な7.7mm連装の銃座が設けられた。爆弾搭載量は爆弾倉に2,500ℓb(1,135Kg)である。イギリス軍はこの機体に**ベンチュラ**（**Ventura**：[アメリカの都市名](https://ja.wikipedia.org/wiki/ベンチュラ_\(カリフォルニア州\) "wikilink")）という愛称を与え、生産された型を**ベンチュラI**（または**ベンチュラMK.1**）と呼んだ。
 
 ベンチュラは合計675機が発注され、試作1号機は1941年7月に初飛行した。しかし、同年の暮れには対日戦が開戦、ロッキード社はアメリカ本国向けの各種軍用機の開発と生産に全力を傾けねばならなくなり、生産の遅れから1号機がイギリス軍に引き渡されたのは1942年の夏のことであった。
 
@@ -51,7 +51,7 @@ PV-1はアメリカ海軍に[1943年](../Page/1943年.md "wikilink")[2月](https
 
 ベンチュラIIAは機首をソリッドノーズ化して12.7mm機関銃を2挺固定配置して、機首下に12.7mmを3挺固定装備するガンパックを追加。旋回機銃塔をマーチン社製に換装して12.7mm連装に強化。下面の銃座も7.62mm機関銃連装に換装した。爆弾搭載量も3,000ℓb(1,363Kg)に増加し、爆弾倉内へ2,953ℓ入りのフェリータンクが装備可能となり、これは必要に応じて1,855ℓ入りの二分割式フェリータンクと交換可能だった。なお、フェリータンクは爆弾倉を占有するので使用時は爆裝不可能になる（二分割式は片方だけ使えば、搭載量は半減するが爆裝可能になる）。
 
-機体自体の[燃料](../Page/燃料.md "wikilink")搭載量もベンチュラIIから増加しており、5,090ℓから6,083ℓになり、標準で外翼下面に587ℓ入りの増槽が1本ずつ懸架可能になった。主翼には各4基の5in[ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")([HVAR](https://ja.wikipedia.org/wiki/HVAR_\(ロケット弾\) "wikilink")）が懸架可能になり、爆弾倉に爆弾に変えて[Mk13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")、または11,75in大型ロケット弾[ティニー・ティムが搭載可能になっていた](https://ja.wikipedia.org/wiki/ティニー・ティム_\(ロケット弾\) "wikilink")。これらは重量的には2本搭載可能だが、爆弾倉のサイズが小さいので1本しか搭載できず、後のPV-2では爆弾倉が拡大される原因となった。
+機体自体の[燃料](../Page/燃料.md "wikilink")搭載量もベンチュラIIから増加しており、5,090ℓから6,083ℓになり、標準で外翼下面に587ℓ入りの増槽が1本ずつ懸架可能になった。主翼には各4基の5in[ロケット弾](../Page/ロケット弾.md "wikilink")([HVAR](https://ja.wikipedia.org/wiki/HVAR_\(ロケット弾\) "wikilink")）が懸架可能になり、爆弾倉に爆弾に変えて[Mk13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")、または11,75in大型ロケット弾[ティニー・ティムが搭載可能になっていた](https://ja.wikipedia.org/wiki/ティニー・ティム_\(ロケット弾\) "wikilink")。これらは重量的には2本搭載可能だが、爆弾倉のサイズが小さいので1本しか搭載できず、後のPV-2では爆弾倉が拡大される原因となった。
 
 イギリス空軍の発注分の残り487機がベンチュラIIとして完成したが、この内イギリス空軍に引き渡されたのは196機だけで、残りは本機に注目したアメリカ軍により買い上げられ、陸軍と海軍により装備された。イギリス空軍ではさらに200機の追加発注を行ったが、これもイギリス空軍に引き渡されたのは25機のみで、残りはアメリカ陸軍に引き渡された。
 
@@ -89,7 +89,7 @@ PV-1、PV-3共に主な戦場は[大西洋](../Page/大西洋.md "wikilink")や[
 
 ### 後継機
 
-ベンチュラIIの燃料搭載量を増加するなどした改良型が**PV-2**として開発されて装備された。PV-2はイギリス名称をそのまま転用した“ベンチュラ”に替えて“**ハープーン**（Harpoon：捕鯨用[銛](https://ja.wikipedia.org/wiki/銛 "wikilink")の意）”の愛称が命けられている。日本の[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")でも創設期に供与され、主に訓練機として運用されている。
+ベンチュラIIの燃料搭載量を増加するなどした改良型が**PV-2**として開発されて装備された。PV-2はイギリス名称をそのまま転用した“ベンチュラ”に替えて“**ハープーン**（Harpoon：捕鯨用[銛](../Page/銛.md "wikilink")の意）”の愛称が命けられている。日本の[海上自衛隊](../Page/海上自衛隊.md "wikilink")でも創設期に供与され、主に訓練機として運用されている。
 
 ## スペック
 
@@ -114,7 +114,7 @@ PV-1、PV-3共に主な戦場は[大西洋](../Page/大西洋.md "wikilink")や[
   - 航続距離：2,670 km
   - 武装
       - 胴体爆弾倉に[爆弾](../Page/爆弾.md "wikilink")か[爆雷](../Page/爆雷.md "wikilink") 3,000ℓb(1,363Kg)、または11,75in[ティニー・ティムロケット弾](https://ja.wikipedia.org/wiki/ティニー・ティム_\(ロケット弾\) "wikilink")、または[Mk13魚雷](https://ja.wikipedia.org/wiki/Mk13_\(魚雷\) "wikilink")×1
-      - 翼下に5in[ロケット弾](https://ja.wikipedia.org/wiki/ロケット弾 "wikilink")([HVAR](https://ja.wikipedia.org/wiki/HVAR_\(ロケット弾\) "wikilink"))×8
+      - 翼下に5in[ロケット弾](../Page/ロケット弾.md "wikilink")([HVAR](https://ja.wikipedia.org/wiki/HVAR_\(ロケット弾\) "wikilink"))×8
       - 機首に前方固定12.7mm機銃×2
       - 機首下のガンパックに前方固定12.7mm機銃×3
       - 背面の旋回機銃塔に連装の12.7mm機銃
@@ -128,7 +128,7 @@ PV-1、PV-3共に主な戦場は[大西洋](../Page/大西洋.md "wikilink")や[
 
 ## 関連項目
 
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink")
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink")
 
 <!-- end list -->
 

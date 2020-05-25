@@ -13,8 +13,8 @@
 
   - 3-5階 - EIGHT POINT INN KANAZAWA（ホテル）
   - 2階 - テナント無し
-  - 1階 - SPINNS、[スギ薬局](https://ja.wikipedia.org/wiki/スギ薬局 "wikilink")（2020年1月末営業開始）
-  - B1階 - [ヴィレッジヴァンガード](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード_\(書籍・雑貨店\) "wikilink")
+  - 1階 - SPINNS、[スギ薬局](../Page/スギ薬局.md "wikilink")（2020年1月末営業開始）
+  - B1階 - [ヴィレッジヴァンガード](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")
 
 2019年12月12日に3～5階部分で株式会社フェリーチェが運営するホテルEIGHT POINT INN KANAZAWAが開業した。同日、ビルの名称を金沢パティオからCoCoTTo KANAZAWA（ココットかなざわ）に変更しグランドオープンした。この際、パティオに入居していたアパレル店の多くは竪町通りに店を移している\[4\]。
 
@@ -34,7 +34,7 @@
 
   - [兼六園](../Page/兼六園.md "wikilink")
   - [金沢城公園](https://ja.wikipedia.org/wiki/金沢城公園 "wikilink")
-  - [金沢21世紀美術館](https://ja.wikipedia.org/wiki/金沢21世紀美術館 "wikilink")
+  - [金沢21世紀美術館](../Page/金沢21世紀美術館.md "wikilink")
   - [金沢能楽美術館](https://ja.wikipedia.org/wiki/金沢能楽美術館 "wikilink")
 
 ## 周辺の再開発の予定

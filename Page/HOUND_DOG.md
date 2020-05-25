@@ -1,23 +1,23 @@
 > この記事は[HOUND DOG](https://ja.wikipedia.org/wiki/HOUND_DOG)から翻訳されています。
 
 
-**HOUND DOG**（ハウンド・ドッグ）は、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")（[昭和](../Page/昭和.md "wikilink")51年）に結成された[大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")を中心とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。代表曲に「ff（フォルティシモ）」（1985年）、「ONLY LOVE」（1988年）、「BRIDGE〜あの橋をわたるとき〜」（1992年）など。[1980年代](../Page/1980年代.md "wikilink")後半に絶大なライブ動員力を誇った。バンド自体は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散したが、その後大友がバンド名を使用して1人でライブ活動を続けている。
+**HOUND DOG**（ハウンド・ドッグ）は、[1976年](../Page/1976年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")51年）に結成された[大友康平](../Page/大友康平.md "wikilink")を中心とした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。代表曲に「ff（フォルティシモ）」（1985年）、「ONLY LOVE」（1988年）、「BRIDGE〜あの橋をわたるとき〜」（1992年）など。[1980年代](../Page/1980年代.md "wikilink")後半に絶大なライブ動員力を誇った。バンド自体は[2005年](../Page/2005年.md "wikilink")に解散したが、その後大友がバンド名を使用して1人でライブ活動を続けている。
 
 ## 来歴
 
-1976年（昭和51年）、[東北学院大学](https://ja.wikipedia.org/wiki/東北学院大学 "wikilink")在学時に、初代ギターの高橋良秀が大友康平に「一緒にやろう」と声を掛けた事がきっかけで結成。バンド名は、大友が敬愛する[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")の[ヒット曲から採用した](../Page/ハウンド・ドッグ_\(エルヴィス・プレスリーの曲\).md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、シングル『嵐の金曜日』でデビューを果たす（メンバーは、大友康平・高橋良秀・[八島順一](https://ja.wikipedia.org/wiki/八島順一 "wikilink")・[蓑輪単志](https://ja.wikipedia.org/wiki/蓑輪単志 "wikilink")・海藤節生・藤村一清）。以後、[1984年](../Page/1984年.md "wikilink")のメンバーチェンジなど紆余曲折を経ながらも、日本のロックシーンで息の長い活動を続けてきた。
+1976年（昭和51年）、[東北学院大学](../Page/東北学院大学.md "wikilink")在学時に、初代ギターの高橋良秀が大友康平に「一緒にやろう」と声を掛けた事がきっかけで結成。バンド名は、大友が敬愛する[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")の[ヒット曲から採用した](../Page/ハウンド・ドッグ_\(エルヴィス・プレスリーの曲\).md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、シングル『嵐の金曜日』でデビューを果たす（メンバーは、大友康平・高橋良秀・[八島順一](../Page/八島順一.md "wikilink")・[蓑輪単志](../Page/蓑輪単志.md "wikilink")・海藤節生・藤村一清）。以後、[1984年](../Page/1984年.md "wikilink")のメンバーチェンジなど紆余曲折を経ながらも、日本のロックシーンで息の長い活動を続けてきた。
 
-その活動は、[ライブに主眼を置くとされる](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。ヒット曲が全くない中で1万人を集めた[日本武道館](https://ja.wikipedia.org/wiki/日本武道館 "wikilink")初公演、足掛け3年間のライブツアーや、チケットを買ったにも関わらず学校の指導で行けなくなったある地方の学生のために、卒業証書がチケット（無料）で、安全のためライブ終了時間を早め、危険性の無い定められた場所で「音楽は素晴らしいものなんだよ」と伝えるために、もう一度その地でライブを行うなど、過去に無い実績を残している。[1989年](../Page/1989年.md "wikilink")には、日本武道館史上最多の15日連続ライブを決行。この記録は、2018年現在も破られていない。
+その活動は、[ライブに主眼を置くとされる](../Page/演奏会.md "wikilink")。ヒット曲が全くない中で1万人を集めた[日本武道館](../Page/日本武道館.md "wikilink")初公演、足掛け3年間のライブツアーや、チケットを買ったにも関わらず学校の指導で行けなくなったある地方の学生のために、卒業証書がチケット（無料）で、安全のためライブ終了時間を早め、危険性の無い定められた場所で「音楽は素晴らしいものなんだよ」と伝えるために、もう一度その地でライブを行うなど、過去に無い実績を残している。[1989年](../Page/1989年.md "wikilink")には、日本武道館史上最多の15日連続ライブを決行。この記録は、2018年現在も破られていない。
 
-[1981年](../Page/1981年.md "wikilink")からは[ロックンロールオリンピック](https://ja.wikipedia.org/wiki/ロックンロールオリンピック "wikilink")を[仙台市近郊で開催し](https://ja.wikipedia.org/wiki/仙台都市圏 "wikilink")、日本の野外[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")の先駆けの1つとなり、また、[広島の](https://ja.wikipedia.org/wiki/広島市 "wikilink")『ピース・コンサート』、『夢の島ライブ』など募金やチャリティー・ライブの活動を通しての社会参加活動も行っている。
+[1981年](../Page/1981年.md "wikilink")からは[ロックンロールオリンピック](https://ja.wikipedia.org/wiki/ロックンロールオリンピック "wikilink")を[仙台市近郊で開催し](../Page/仙台都市圏.md "wikilink")、日本の野外[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")の先駆けの1つとなり、また、[広島の](https://ja.wikipedia.org/wiki/広島市 "wikilink")『ピース・コンサート』、『夢の島ライブ』など募金やチャリティー・ライブの活動を通しての社会参加活動も行っている。
 
-大友が最も影響を受けているのが[ロッド・スチュワート](https://ja.wikipedia.org/wiki/ロッド・スチュワート "wikilink")であり、それを彷彿させるマイクスタンド捌きなどを行っている。
+大友が最も影響を受けているのが[ロッド・スチュワート](../Page/ロッド・スチュワート.md "wikilink")であり、それを彷彿させるマイクスタンド捌きなどを行っている。
 
 [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")はHOUND DOGの才能を認めており、「ライブでの煽りが俺たちより上手い」と述べている。
 
 ### 事務所移籍とメンバーチェンジ
 
-初期のHOUND DOGは、[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")にある音楽事務所「[フライングハウス](https://ja.wikipedia.org/wiki/フライングハウス "wikilink")」に所属する傍ら、東京の事務所「エイプリル」にも所属して活動を始める。[83年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）に「[マザーエンタープライズ](https://ja.wikipedia.org/wiki/マザーエンタープライズ "wikilink")」に移籍し、初の日本武道館ライブを成功させた。しかしその後、海藤がアルバムレコーディング中に脱退。サポートメンバーとして元[ツイストの](https://ja.wikipedia.org/wiki/世良公則&ツイスト "wikilink")[鮫島秀樹](https://ja.wikipedia.org/wiki/鮫島秀樹 "wikilink")が就いた。その後、高橋・藤村も脱退。サポートメンバーを経て正式メンバーとなった鮫島と、蓑輪・鮫島の推薦による[西山毅](https://ja.wikipedia.org/wiki/西山毅 "wikilink")、八島の推薦による橋本が加入する。
+初期のHOUND DOGは、[仙台市](../Page/仙台市.md "wikilink")にある音楽事務所「[フライングハウス](https://ja.wikipedia.org/wiki/フライングハウス "wikilink")」に所属する傍ら、東京の事務所「エイプリル」にも所属して活動を始める。[83年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）に「[マザーエンタープライズ](https://ja.wikipedia.org/wiki/マザーエンタープライズ "wikilink")」に移籍し、初の日本武道館ライブを成功させた。しかしその後、海藤がアルバムレコーディング中に脱退。サポートメンバーとして元[ツイストの](../Page/世良公則&ツイスト.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")が就いた。その後、高橋・藤村も脱退。サポートメンバーを経て正式メンバーとなった鮫島と、蓑輪・鮫島の推薦による[西山毅](../Page/西山毅.md "wikilink")、八島の推薦による橋本が加入する。
 
 ### 伝説のライブと「誓いの日」
 
@@ -31,10 +31,10 @@
 
 第2回目以降の概要は以下の通り。
 
-  - 第2回 [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[7月27日](../Page/7月27日.md "wikilink") [西武球場](https://ja.wikipedia.org/wiki/西武球場 "wikilink")&同年[8月3日](../Page/8月3日.md "wikilink") [阪急西宮スタジアム](../Page/阪急西宮スタジアム.md "wikilink")
-  - 第3回 [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[8月8日](../Page/8月8日.md "wikilink") 静岡[つま恋](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")
-  - 第4回 [1993年](../Page/1993年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") 福岡県[海の中道海浜公園](https://ja.wikipedia.org/wiki/海の中道海浜公園 "wikilink")野外劇場
-  - 第5回 [1994年](../Page/1994年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") 東京[夢の島公園](https://ja.wikipedia.org/wiki/夢の島公園 "wikilink")
+  - 第2回 [1991年](../Page/1991年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") [西武球場](https://ja.wikipedia.org/wiki/西武球場 "wikilink")&同年[8月3日](../Page/8月3日.md "wikilink") [阪急西宮スタジアム](../Page/阪急西宮スタジアム.md "wikilink")
+  - 第3回 [1992年](../Page/1992年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink") 静岡[つま恋](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")
+  - 第4回 [1993年](../Page/1993年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") 福岡県[海の中道海浜公園](../Page/海の中道海浜公園.md "wikilink")野外劇場
+  - 第5回 [1994年](../Page/1994年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink") 東京[夢の島公園](../Page/夢の島公園.md "wikilink")
   - 第6回 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月19日](../Page/8月19日.md "wikilink") 宮城県[みちのく杜の湖畔公園](https://ja.wikipedia.org/wiki/国営みちのく杜の湖畔公園 "wikilink")
   - 第7回 [1996年](../Page/1996年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") 大阪[舞洲スポーツアイランド](../Page/舞洲スポーツアイランド.md "wikilink")
   - 第8回 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月23日](../Page/8月23日.md "wikilink") - [8月24日](../Page/8月24日.md "wikilink") 愛知県[名古屋商科大学](https://ja.wikipedia.org/wiki/名古屋商科大学 "wikilink")ラグビー場
@@ -43,13 +43,13 @@
 
 ### NHK紅白歌合戦直前辞退
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")（平成3年）、『[第42回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第42回NHK紅白歌合戦 "wikilink")』の出場歌手に選ばれたが、この年のHOUND DOGは特にヒット曲がない状況であった。[NHKは](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『ff（フォルティシモ）』を選曲したが、メンバーは「古い曲だから歌いたくない」とし、翌年リリースの新曲『[BRIDGE〜あの橋をわたるとき〜](https://ja.wikipedia.org/wiki/BRIDGE〜あの橋をわたるとき〜 "wikilink")』の演奏を希望。しかしNHKはその申し入れを拒否し、結局出場を辞退することとなった（代わりに[バブルガム・ブラザーズ](https://ja.wikipedia.org/wiki/バブルガム・ブラザーズ "wikilink")が出場した。大友とバブルガムは親友同士であり、バブルガムは紅白のステージ上で、HOUND DOGにメッセージを送った）。
+[1991年](../Page/1991年.md "wikilink")（平成3年）、『[第42回NHK紅白歌合戦](../Page/第42回NHK紅白歌合戦.md "wikilink")』の出場歌手に選ばれたが、この年のHOUND DOGは特にヒット曲がない状況であった。[NHKは](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『ff（フォルティシモ）』を選曲したが、メンバーは「古い曲だから歌いたくない」とし、翌年リリースの新曲『[BRIDGE〜あの橋をわたるとき〜](https://ja.wikipedia.org/wiki/BRIDGE〜あの橋をわたるとき〜 "wikilink")』の演奏を希望。しかしNHKはその申し入れを拒否し、結局出場を辞退することとなった（代わりに[バブルガム・ブラザーズ](../Page/バブルガム・ブラザーズ.md "wikilink")が出場した。大友とバブルガムは親友同士であり、バブルガムは紅白のステージ上で、HOUND DOGにメッセージを送った）。
 
 ### 解散騒動と訴訟
 
 デビュー25周年目となる2005年（平成17年）、大友と所属事務所マザーエンタープライズとの間で意見対立が発生し、その結果大友は個人事務所（イエホック（iehok））を設立し、[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に独立した。これを受けてマザー側は、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の日本武道館公演をもってHOUND DOGに関する一切の業務を終了する事を発表した。また[6月](../Page/6月.md "wikilink")に発売されたアルバム「OMEGA」についても、マザーは「事実上、現メンバーによる最後のオリジナル・アルバムになる可能性がある」とし、ジャケットや曲のタイトルが解散を示唆する内容となっていた。しかし大友は事務所に反発し、今後もステージに立つことを武道館公演時に明言したが、解散やメンバー脱退は否定しなかった。
 
-[8月](../Page/8月.md "wikilink")、大友はイエホック公式サイトにて、「バンド内に将来に対する考え方の違いが生まれた」として蓑輪・鮫島を除いた4名（大友・八島・橋本・西山）で活動を続けることを表明した。マスコミには蓑輪・鮫島が「脱退」したと報じられたが、当人たちは「脱退はしていない」とコメント。鮫島はその後も折りにつけ脱退否定発言を繰り返したが、大晦日のカウントダウン・ライブや[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")からのツアーは、両者を除いた4名にサポートメンバーを加えるかたちで開催された。大友は蓑輪・鮫島の解雇の理由を後述の裁判で、蓑輪については「福田信会長の秋の解散ツアー案に同意したため」、鮫島については「前事務所と密接な関係にあって情報が漏れ、信用できなかった」と述べている\[1\]。
+[8月](../Page/8月.md "wikilink")、大友はイエホック公式サイトにて、「バンド内に将来に対する考え方の違いが生まれた」として蓑輪・鮫島を除いた4名（大友・八島・橋本・西山）で活動を続けることを表明した。マスコミには蓑輪・鮫島が「脱退」したと報じられたが、当人たちは「脱退はしていない」とコメント。鮫島はその後も折りにつけ脱退否定発言を繰り返したが、大晦日のカウントダウン・ライブや[2006年](../Page/2006年.md "wikilink")（平成18年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")からのツアーは、両者を除いた4名にサポートメンバーを加えるかたちで開催された。大友は蓑輪・鮫島の解雇の理由を後述の裁判で、蓑輪については「福田信会長の秋の解散ツアー案に同意したため」、鮫島については「前事務所と密接な関係にあって情報が漏れ、信用できなかった」と述べている\[1\]。
 
 また、大友は2005年11月8日付日刊スポーツ紙上で「ハウンドドッグは僕のものですから。大学時代にオレがつくった。ぶっちゃけ言っちゃうと、オレだけだっていい。オレが歌えばハウンドドッグですから」といった発言をした。
 
@@ -75,7 +75,7 @@
 
 #### 延期となったアルバムの発売
 
-法廷闘争の終結と前後して2009年5月20日に、大友康平名義でハウンドドッグの楽曲14曲を再録音した「HOUND DOG ULTIMATE BEST」が発売。7月12日には[Shibuya O-EASTで](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")、購入者を対象として限定ライブを行った\[7\]。
+法廷闘争の終結と前後して2009年5月20日に、大友康平名義でハウンドドッグの楽曲14曲を再録音した「HOUND DOG ULTIMATE BEST」が発売。7月12日には[Shibuya O-EASTで](../Page/Shibuya_O-EAST.md "wikilink")、購入者を対象として限定ライブを行った\[7\]。
 
 ### 30周年ライブ
 
@@ -89,15 +89,15 @@
 
 ### 1976 - 1978年
 
-  - [大友康平](https://ja.wikipedia.org/wiki/大友康平 "wikilink")（[1956年](../Page/1956年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") -、ドラムス&ボーカル）：宮城県[塩竈市](../Page/塩竈市.md "wikilink")生まれ
+  - [大友康平](../Page/大友康平.md "wikilink")（[1956年](../Page/1956年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") -、ドラムス&ボーカル）：宮城県[塩竈市](../Page/塩竈市.md "wikilink")生まれ
   - [高橋良秀](https://ja.wikipedia.org/wiki/高橋良秀 "wikilink")（1956年[5月7日](../Page/5月7日.md "wikilink") -、ギター）
   - 玉手ヨシヒロ（ベース）
 
 ### 1978 - 1980年
 
   - 大友康平（ボーカルに専念）
-  - [八島順一](https://ja.wikipedia.org/wiki/八島順一 "wikilink")（1956年[2月19日](../Page/2月19日.md "wikilink") -、ギター）：宮城県出身。
-  - [蓑輪単志](https://ja.wikipedia.org/wiki/蓑輪単志 "wikilink")（[1959年](../Page/1959年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") -、キーボード）：宮城県出身。
+  - [八島順一](../Page/八島順一.md "wikilink")（1956年[2月19日](../Page/2月19日.md "wikilink") -、ギター）：宮城県出身。
+  - [蓑輪単志](../Page/蓑輪単志.md "wikilink")（[1959年](../Page/1959年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink") -、キーボード）：宮城県出身。
   - [海藤節生](https://ja.wikipedia.org/wiki/海藤節生 "wikilink")（[1958年](../Page/1958年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink") -、ベース）：玉手に代わって加入。
   - 高橋良秀（ギター）
   - 佐藤証（ドラムス）：プロになるつもりはなくプロデビュー前に脱退。
@@ -117,9 +117,9 @@
   - 大友康平（ボーカル）
   - 八島順一（ギター）
   - 蓑輪単志（キーボード）
-  - [鮫島秀樹](https://ja.wikipedia.org/wiki/鮫島秀樹 "wikilink")（[1955年](../Page/1955年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") -、ベース 元[ツイスト](https://ja.wikipedia.org/wiki/世良公則&ツイスト "wikilink")）
+  - [鮫島秀樹](../Page/鮫島秀樹.md "wikilink")（[1955年](../Page/1955年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") -、ベース 元[ツイスト](../Page/世良公則&ツイスト.md "wikilink")）
   - 橋本章司（1955年[10月11日](../Page/10月11日.md "wikilink") -、ドラムス）：[兵庫県](../Page/兵庫県.md "wikilink")出身。
-  - [西山毅](https://ja.wikipedia.org/wiki/西山毅 "wikilink")（[1962年](../Page/1962年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") -、ギター）：[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
+  - [西山毅](../Page/西山毅.md "wikilink")（[1962年](../Page/1962年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") -、ギター）：[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。
 
 ### 2005 - 2006年
 
@@ -157,7 +157,7 @@
 4.  **[スクールデイズ](https://ja.wikipedia.org/wiki/スクールデイズ_\(HOUND_DOGの曲\) "wikilink")**（1981年9月21日）
 5.  **[浮気な、パレット・キャット](https://ja.wikipedia.org/wiki/浮気な、パレット・キャット "wikilink")**（1982年1月15日）
       -
-        作詞・作曲：[NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")。[カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")CMソング、および[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")CMソング。後に、NOBODYがセルフカバー。
+        作詞・作曲：[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")。[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")CMソング、および[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")CMソング。後に、NOBODYがセルフカバー。
 6.  **[涙のBirthday](https://ja.wikipedia.org/wiki/涙のBirthday "wikilink")**（1982年9月1日）
       -
         作詞・作曲：八島順一。
@@ -177,7 +177,7 @@
 16. **[15の好奇心](https://ja.wikipedia.org/wiki/15の好奇心 "wikilink")**（1989年2月21日）
 17. **[大地の子供たち/KISSで極楽 (パラダイス)](https://ja.wikipedia.org/wiki/大地の子供たち/KISSで極楽_\(パラダイス\) "wikilink")**（1989年6月1日）
       -
-        日本テレビ系ドラマ『[ハロー\!グッバイ](https://ja.wikipedia.org/wiki/ハロー!グッバイ "wikilink")』オープニングテーマ。
+        日本テレビ系ドラマ『[ハロー\!グッバイ](../Page/ハロー!グッバイ.md "wikilink")』オープニングテーマ。
 18. **[TELL ME WHY](https://ja.wikipedia.org/wiki/TELL_ME_WHY "wikilink")**（1989年10月25日）
 19. **[でっかい太陽〜Jump Jump Jump〜](https://ja.wikipedia.org/wiki/でっかい太陽〜Jump_Jump_Jump〜 "wikilink")**（1990年8月10日）
 20. **[GLORY](https://ja.wikipedia.org/wiki/GLORY_\(HOUND_DOGの曲\) "wikilink")**（1990年12月21日）
@@ -193,7 +193,7 @@
         ※カップリングの「BEGINNING」は、1992年の日本テレビ系[プロ野球中継テーマ曲](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")。放送時はGメジャーのシンプルな楽曲だったが、発売時にはAメジャーの楽曲に変わっていた。
 24. **[JEALOUSY](https://ja.wikipedia.org/wiki/JEALOUSY_\(HOUND_DOGの曲\) "wikilink")**（1993年3月25日）
       -
-        [TBS系](../Page/TBSテレビ.md "wikilink")「[ムーブ](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\) "wikilink")」エンディングテーマ。
+        [TBS系](../Page/TBSテレビ.md "wikilink")「[ムーブ](../Page/ムーブ_\(バラエティー\).md "wikilink")」エンディングテーマ。
 25. **[POWER OF LOVE](https://ja.wikipedia.org/wiki/POWER_OF_LOVE_\(HOUND_DOGの曲\) "wikilink")**（1994年7月25日）
 26. **[ROCK ME](https://ja.wikipedia.org/wiki/ROCK_ME "wikilink")**（1994年10月10日）
       -
@@ -209,14 +209,14 @@
 30. **[ACROSS THE RAINBOW〜虹の彼方へ〜](https://ja.wikipedia.org/wiki/ACROSS_THE_RAINBOW〜虹の彼方へ〜 "wikilink")**（1996年10月1日）
 31. **[SEASON](https://ja.wikipedia.org/wiki/SEASON_\(HOUND_DOGの曲\) "wikilink")**（1997年2月1日）
       -
-        [プレイステーションゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")「FIGHTING ILLUSION [K-1](../Page/K-1.md "wikilink") REVENGE」テーマソング。
+        [プレイステーションゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")「FIGHTING ILLUSION [K-1](../Page/K-1.md "wikilink") REVENGE」テーマソング。
 32. **[Smile For Me](https://ja.wikipedia.org/wiki/Smile_For_Me_\(HOUND_DOGの曲\) "wikilink")**（1997年4月19日）
 33. **[これからの人](https://ja.wikipedia.org/wiki/これからの人 "wikilink")**（1998年1月21日）
 34. **[BY MYSELF](https://ja.wikipedia.org/wiki/BY_MYSELF "wikilink")**（1998年5月21日）
 35. **[JUNCTION](https://ja.wikipedia.org/wiki/JUNCTION_\(HOUND_DOGの曲\) "wikilink")**（1998年7月18日）
 36. **[DO IT](https://ja.wikipedia.org/wiki/DO_IT "wikilink")**（1999年9月1日）
       -
-        作詞：大友康平、作曲：八島順一。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")」テーマソング。スポーツ振興のためのチャリティーCDとして発売された。[佐々木主浩](../Page/佐々木主浩.md "wikilink")、[蝶野正洋](../Page/蝶野正洋.md "wikilink")、[中山雅史](../Page/中山雅史.md "wikilink")、[福嶋晃子](https://ja.wikipedia.org/wiki/福嶋晃子 "wikilink")、[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")、[マイク・ベルナルド](https://ja.wikipedia.org/wiki/マイク・ベルナルド "wikilink")、[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")、[本山哲](https://ja.wikipedia.org/wiki/本山哲 "wikilink")、[山本美憂](https://ja.wikipedia.org/wiki/山本美憂 "wikilink")といった有名スポーツ選手がコーラスに参加している。
+        作詞：大友康平、作曲：八島順一。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")」テーマソング。スポーツ振興のためのチャリティーCDとして発売された。[佐々木主浩](../Page/佐々木主浩.md "wikilink")、[蝶野正洋](../Page/蝶野正洋.md "wikilink")、[中山雅史](../Page/中山雅史.md "wikilink")、[福嶋晃子](../Page/福嶋晃子.md "wikilink")、[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")、[マイク・ベルナルド](../Page/マイク・ベルナルド.md "wikilink")、[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink")、[本山哲](../Page/本山哲.md "wikilink")、[山本美憂](https://ja.wikipedia.org/wiki/山本美憂 "wikilink")といった有名スポーツ選手がコーラスに参加している。
 37. **[BIRD](https://ja.wikipedia.org/wiki/BIRD_\(HOUND_DOGの曲\) "wikilink")**（2001年6月20日）
 38. **[R★O★C★K★S](https://ja.wikipedia.org/wiki/R★O★C★K★S "wikilink")**（2002年11月20日）
       -
@@ -230,7 +230,7 @@
         作詞：大友康平\&Frank Fu、作曲：八島順一&蓑輪単志\&Frank Fu。アルバム『11 Rooms For Sky』からのシングルカット。プロモーションビデオは[小田和正](../Page/小田和正.md "wikilink")が監督を務めた。
 42. **[SONGS](https://ja.wikipedia.org/wiki/SONGS_\(HOUND_DOGの曲\) "wikilink")**（2005年3月30日）
       -
-        作詞・作曲：蓑輪単志。[電気事業連合会](https://ja.wikipedia.org/wiki/電気事業連合会 "wikilink")CMソング。デビュー直後から、ライブでのみ演奏されてきたバラード。25周年メモリアルシングルとして、スタジオ録音されて発売。かつて大友が「SONGSをシングル化するのは解散するとき」という意味の発言をしたことがあった（西山も同様の発言）ため、この曲の発売はその後の解散説に信憑性を与える結果となった。結局解散はしなかったものの、作詞・作曲の蓑輪はバンドを離脱。アルバム「OMEGA」には「version of Coda」として収録。
+        作詞・作曲：蓑輪単志。[電気事業連合会](../Page/電気事業連合会.md "wikilink")CMソング。デビュー直後から、ライブでのみ演奏されてきたバラード。25周年メモリアルシングルとして、スタジオ録音されて発売。かつて大友が「SONGSをシングル化するのは解散するとき」という意味の発言をしたことがあった（西山も同様の発言）ため、この曲の発売はその後の解散説に信憑性を与える結果となった。結局解散はしなかったものの、作詞・作曲の蓑輪はバンドを離脱。アルバム「OMEGA」には「version of Coda」として収録。
 43. **[アカペラ](https://ja.wikipedia.org/wiki/アカペラ_\(HOUND_DOGの曲\) "wikilink")**（2005年4月20日）
 
 ### アルバム
@@ -246,8 +246,8 @@
       -
         レコーディング中に初代ベースの海藤が脱退した。アルバムジャケットに海藤の写真はないが、名前は記載されている。
   - **[Spirits\!](https://ja.wikipedia.org/wiki/Spirits! "wikilink")**（1985年8月25日）
-  - **[LOVE](https://ja.wikipedia.org/wiki/LOVE_\(HOUND_DOGのアルバム\) "wikilink")**（1986年12月21日）
-  - **[BE QUIET](https://ja.wikipedia.org/wiki/BE_QUIET "wikilink")**（1987年12月10日）
+  - **[LOVE](../Page/LOVE_\(HOUND_DOGのアルバム\).md "wikilink")**（1986年12月21日）
+  - **[BE QUIET](../Page/BE_QUIET.md "wikilink")**（1987年12月10日）
       -
         それまでの[CBSソニーから](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[Mother\&Children](https://ja.wikipedia.org/wiki/Mother&Children "wikilink")（所属事務所が立ち上げたレコード会社）に移籍後最初のアルバム。
   - **[GOLD](https://ja.wikipedia.org/wiki/GOLD_\(HOUND_DOGのアルバム\) "wikilink")**（1989年1月11日）

@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - **MR.LAWDY** - （ボーカル、ギター　本名：**土佐和也**、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）
+  - **MR.LAWDY** - （ボーカル、ギター　本名：**土佐和也**、[1976年](../Page/1976年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 <!-- end list -->
 
   -
-    2003年12月末脱退。現[Radio Caroline](https://ja.wikipedia.org/wiki/Radio_Caroline "wikilink")。
+    2003年12月末脱退。現[Radio Caroline](../Page/Radio_Caroline.md "wikilink")。
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 
 <!-- end list -->
 
-  - **MR.SHALLOW** - （ボーカル、ドラム　本名：**朝原啓介**、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月7日](../Page/12月7日.md "wikilink") - ）
+  - **MR.SHALLOW** - （ボーカル、ドラム　本名：**朝原啓介**、[1970年](../Page/1970年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -738,18 +738,18 @@ MSSFRLP-064:LP</p></td>
 <td><ol>
 <li>シンデレラ (オリジナル:<a href="https://ja.wikipedia.org/wiki/COOLS" title="wikilink">COOLS</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/たどりついたらいつも雨ふり" title="wikilink">たどりついたらいつも雨ふり</a> (オリジナル:<a href="../Page/ザ・モップス.md" title="wikilink">ザ・モップス</a>)</li>
-<li>浮気なパレットキャット (オリジナル:<a href="https://ja.wikipedia.org/wiki/HOUND_DOG" title="wikilink">HOUND DOG</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/GO!_ハイロウズ_GO!" title="wikilink">ガタガタゴー</a> (オリジナル:<a href="https://ja.wikipedia.org/wiki/THE_HIGH-LOWS" title="wikilink">THE HIGH-LOWS</a>)</li>
+<li>浮気なパレットキャット (オリジナル:<a href="../Page/HOUND_DOG.md" title="wikilink">HOUND DOG</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/GO!_ハイロウズ_GO!" title="wikilink">ガタガタゴー</a> (オリジナル:<a href="../Page/THE_HIGH-LOWS.md" title="wikilink">THE HIGH-LOWS</a>)</li>
 <li><a href="../Page/ロックンロール・ウィドウ.md" title="wikilink">ロックンロール・ウィドウ</a> (オリジナル:<a href="../Page/山口百恵.md" title="wikilink">山口百恵</a>)</li>
-<li>セクシーキャット (オリジナル:<a href="https://ja.wikipedia.org/wiki/矢沢永吉" title="wikilink">矢沢永吉</a>)</li>
+<li>セクシーキャット (オリジナル:<a href="../Page/矢沢永吉.md" title="wikilink">矢沢永吉</a>)</li>
 <li>レモンティー (オリジナル:<a href="../Page/サンハウス.md" title="wikilink">サンハウス</a>)</li>
 <li>BABY LET’S GET SHAKE (2007 version) (セルフカバー)</li>
-<li>ドカドカうるさいR&amp;Rバンド (オリジナル:<a href="https://ja.wikipedia.org/wiki/RCサクセション" title="wikilink">RCサクセション</a>)</li>
+<li>ドカドカうるさいR&amp;Rバンド (オリジナル:<a href="../Page/RCサクセション.md" title="wikilink">RCサクセション</a>)</li>
 <li>やつらの足音のバラード (アニメ「はじめ人間ギャートルズ」ED)</li>
 </ol>
 <ul>
 <li>M1/M4/M5 piano play by 奥野真哉(<a href="https://ja.wikipedia.org/wiki/ソウル・フラワー・ユニオン" title="wikilink">ソウル・フラワー・ユニオン</a>)</li>
-<li>M4/M8 harp play by 鈴木圭介(<a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>)</li>
+<li>M4/M8 harp play by 鈴木圭介(<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1042,8 +1042,8 @@ MSEP-014:LP</p></td>
 <li>お願いBABY</li>
 <li>DO THE GLOBAL TWIST</li>
 <li>GOOD GOOD LOVIN’</li>
-<li>SWEET LITTLE ROCK AND ROLLER (w/<a href="https://ja.wikipedia.org/wiki/真島昌利" title="wikilink">真島昌利</a>)</li>
-<li>ジェニー ジェニー (w/<a href="https://ja.wikipedia.org/wiki/白井幹夫" title="wikilink">白井幹夫</a>)</li>
+<li>SWEET LITTLE ROCK AND ROLLER (w/<a href="../Page/真島昌利.md" title="wikilink">真島昌利</a>)</li>
+<li>ジェニー ジェニー (w/<a href="../Page/白井幹夫.md" title="wikilink">白井幹夫</a>)</li>
 <li>BABY LET’S GET SHAKE [video clip]</li>
 <li>BECAUSE - MASHED POTATOES</li>
 <li>HEEBY JEEBIES</li>
@@ -1084,25 +1084,25 @@ MSEP-014:LP</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                                  | 規格品番       | 収録曲                                                                                  |
-| ----------- | ----------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
-| 2001年2月23日  | **DECK IN REC START\!**                                                                               | DCRC-0028  | 「結果O.K.」、「I'M GOING HOME」                                                            |
-| 2001年3月28日  | **JOYRIDE**                                                                                           | TOCT-24570 | 「ファンキー・モンキー・ベイビー」                                                                    |
-| 2002年12月25日 | **SPIRIT OF THE BLUES**                                                                               | PCD-5687   | 「GOOD MORNING LITTLE SCHOOL GIRL」                                                    |
-| 2003年3月26日  | **BPR5000 BURST TRACKS**                                                                              | RRCA-29013 | 「黒いジャンパー」                                                                            |
-| 2003年4月1日   | **JAPANESE GROUPSOUND\!**                                                                             | SPINCD-017 | 「FARMER JOHN」、「(DO THE) GLOBAL TWIST」                                                |
-| 2003年4月23日  | **BREAK GATE CD -不良ロック編-**                                                                            | BGCR-0002  | 「ハートをわたそう」                                                                           |
-| 2003年7月23日  | **GO-GO SESSIONS**                                                                                    | UKCD-1104  | 「TOP SECRET」                                                                         |
-| 2003年8月27日  | **CAROL TRIBUTE**                                                                                     | UPCH-1276  | 「GOOD OLD ROCK'N'ROLL」                                                               |
-| 2004年8月8日   | **ロッケンロー・サミット**                                                                                       | WHOR-6     | 「真空パック」                                                                              |
-| 2009年12月16日 | '''HEY                                                                                                | BO-SLINGER | '''                                                                                  |
-| 2010年5月26日  | **TSUNAMI ATTACK OF THE JAPANESE GARAGE ROCK'N'ROLL Vol.1**                                           | VSCD-5494  | 「ビート貴公子」                                                                             |
-| 2011年3月16日  | **[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink") Tribute - GO\!GO\! A GO\!GO\!** | VICB-60069 | 「太陽」                                                                                 |
-| 2013年5月22日  | **BEAT and TRASH**                                                                                    | PX-264     | 「SUGAR BABE」、「ROCK AND ROLL YOUNG」、「COWBOY ON MARS」                                  |
-| 2014年10月24日 | **BALLROOM BASH VOL.8**                                                                               | SFR-CD-029 | 「TWISTIN' TIME WITH YOU」、「COME ON AND SING」、「MAKE ME SHAKE」、「THE TRACKS OF MY TEARS」 |
-| 2014年10月29日 | **PRIVATE LESSON～[THE PRIVATES](https://ja.wikipedia.org/wiki/THE_PRIVATES "wikilink") Tribute～**     | LHRUK-1980 | 「BOOGIE GO GO」                                                                       |
-| 2015年3月25日  | **A TRIBUTE TO ELVIS**                                                                                | FAMC-173   | 「I NEED YOUR LOVE TONIGHT」「A BIG HUNK O' LOVE」                                       |
-|             |                                                                                                       |            |                                                                                      |
+| 発売日         | タイトル                                                                                              | 規格品番       | 収録曲                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
+| 2001年2月23日  | **DECK IN REC START\!**                                                                           | DCRC-0028  | 「結果O.K.」、「I'M GOING HOME」                                                            |
+| 2001年3月28日  | **JOYRIDE**                                                                                       | TOCT-24570 | 「ファンキー・モンキー・ベイビー」                                                                    |
+| 2002年12月25日 | **SPIRIT OF THE BLUES**                                                                           | PCD-5687   | 「GOOD MORNING LITTLE SCHOOL GIRL」                                                    |
+| 2003年3月26日  | **BPR5000 BURST TRACKS**                                                                          | RRCA-29013 | 「黒いジャンパー」                                                                            |
+| 2003年4月1日   | **JAPANESE GROUPSOUND\!**                                                                         | SPINCD-017 | 「FARMER JOHN」、「(DO THE) GLOBAL TWIST」                                                |
+| 2003年4月23日  | **BREAK GATE CD -不良ロック編-**                                                                        | BGCR-0002  | 「ハートをわたそう」                                                                           |
+| 2003年7月23日  | **GO-GO SESSIONS**                                                                                | UKCD-1104  | 「TOP SECRET」                                                                         |
+| 2003年8月27日  | **CAROL TRIBUTE**                                                                                 | UPCH-1276  | 「GOOD OLD ROCK'N'ROLL」                                                               |
+| 2004年8月8日   | **ロッケンロー・サミット**                                                                                   | WHOR-6     | 「真空パック」                                                                              |
+| 2009年12月16日 | '''HEY                                                                                            | BO-SLINGER | '''                                                                                  |
+| 2010年5月26日  | **TSUNAMI ATTACK OF THE JAPANESE GARAGE ROCK'N'ROLL Vol.1**                                       | VSCD-5494  | 「ビート貴公子」                                                                             |
+| 2011年3月16日  | **[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink") Tribute - GO\!GO\! A GO\!GO\!**                | VICB-60069 | 「太陽」                                                                                 |
+| 2013年5月22日  | **BEAT and TRASH**                                                                                | PX-264     | 「SUGAR BABE」、「ROCK AND ROLL YOUNG」、「COWBOY ON MARS」                                  |
+| 2014年10月24日 | **BALLROOM BASH VOL.8**                                                                           | SFR-CD-029 | 「TWISTIN' TIME WITH YOU」、「COME ON AND SING」、「MAKE ME SHAKE」、「THE TRACKS OF MY TEARS」 |
+| 2014年10月29日 | **PRIVATE LESSON～[THE PRIVATES](https://ja.wikipedia.org/wiki/THE_PRIVATES "wikilink") Tribute～** | LHRUK-1980 | 「BOOGIE GO GO」                                                                       |
+| 2015年3月25日  | **A TRIBUTE TO ELVIS**                                                                            | FAMC-173   | 「I NEED YOUR LOVE TONIGHT」「A BIG HUNK O' LOVE」                                       |
+|             |                                                                                                   |            |                                                                                      |
 
 ## ミュージックビデオ
 
@@ -1136,14 +1136,14 @@ MSEP-014:LP</p></td>
   - 2000年12月21日 - BACKLASH002
   - 2002年08月17日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2002 in EZO
   - 2002年08月22日 - [ロックロックこんにちは\!](https://ja.wikipedia.org/wiki/ロックロックこんにちは! "wikilink") in 仙台
-  - 2002年08月23日 - [HOUND DOG](https://ja.wikipedia.org/wiki/HOUND_DOG "wikilink") BATTLE CLUB CIRCUST\! 「負けるもんか2002」～踏んづけられても僕らは生きる\!～
+  - 2002年08月23日 - [HOUND DOG](../Page/HOUND_DOG.md "wikilink") BATTLE CLUB CIRCUST\! 「負けるもんか2002」～踏んづけられても僕らは生きる\!～
   - 2002年08月31日 - EDGE OF SUMMER IN OSAKA 2002 \#002
   - 2002年10月27日 - ARABAKI ROCK CIRCUIT 2002 鰰の叫ぶ声
   - 2003年08月23日 - [小岩井ロックフェスティバル](https://ja.wikipedia.org/wiki/小岩井ロックフェスティバル "wikilink")
   - 2003年09月14日 - [RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink") ベリテンライブ2003
   - 2004年08月14日 - RISING SUN ROCK FESTIVAL 2004 in EZO
       -
-        「THE NEATBEATS + [クハラカズユキ](https://ja.wikipedia.org/wiki/クハラカズユキ "wikilink") + [奥野真哉](https://ja.wikipedia.org/wiki/奥野真哉 "wikilink")」名義
+        「THE NEATBEATS + [クハラカズユキ](../Page/クハラカズユキ.md "wikilink") + [奥野真哉](https://ja.wikipedia.org/wiki/奥野真哉 "wikilink")」名義
   - 2004年08月22日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2004
       -
         「THE NEATBEATS + クハラカズユキ + 奥野真哉」名義
@@ -1180,14 +1180,14 @@ MSEP-014:LP</p></td>
   - 2013年07月28日 - CLUB Que 夏ノ陣 2013 ～RETURN TO NATURAL VS SPECIAL～
   - 2013年08月10日 - RISE UP TOKYO 2013 Vol.1
   - 2013年08月23日 - KING OF R\&R at WILD WEST\!-vol.4-
-  - 2013年09月13日 - 夏の魔物前夜祭×[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink") presents ジャイアンナイト
+  - 2013年09月13日 - 夏の魔物前夜祭×[ダイノジ](../Page/ダイノジ.md "wikilink") presents ジャイアンナイト
   - 2013年10月06日 - KISHU ROCK IMPACT 2013 -和歌山最大級 野外音楽祭-
   - 2013年10月12日 - LONDON NITE in KOBE
   - 2013年10月23日 - タワーレコード新宿店15周年大感謝祭 怒涛のライブ15連発～ロケンロー啓蒙大作戦スペシャル～
   - 2013年12月26日 - WELCOME TO 2014 -中日本 YEAR END FEAST-
   - 2013年12月31日 - Que's COUNTDOWN 2014
-  - 2014年02月05日 - オリジナルSEX PISTOLS"[Glen Matlock](https://ja.wikipedia.org/wiki/グレン・マトロック "wikilink")"ジャパンツアー「ALL THE BEST\!\!\!」
-  - 2014年05月17日 - [キングブラザーズの魅惑の深海パーティ](https://ja.wikipedia.org/wiki/KING_BROTHERS "wikilink")
+  - 2014年02月05日 - オリジナルSEX PISTOLS"[Glen Matlock](../Page/グレン・マトロック.md "wikilink")"ジャパンツアー「ALL THE BEST\!\!\!」
+  - 2014年05月17日 - [キングブラザーズの魅惑の深海パーティ](../Page/KING_BROTHERS.md "wikilink")
   - 2014年05月30日・31日・06月01日 - [Droog](https://ja.wikipedia.org/wiki/Droog "wikilink") TOUR 2014 ～地獄めぐり～
   - 2014年07月21日 - AOMORI ROCK FESTIVAL '14 ～夏の魔物～
   - 2014年08月08日 - Nagoya Club Quattro 25th Anniversary
@@ -1232,7 +1232,7 @@ MSEP-014:LP</p></td>
 
   - [公式ウェブサイト](http://www.neatbeats.net/)
 
-  - [Sony Musicより](http://www.sonymusic.co.jp/artist/neatbeats/)
+  - [Sony Musicより](https://www.sonymusic.co.jp/artist/neatbeats/)
 
   -   -
       -

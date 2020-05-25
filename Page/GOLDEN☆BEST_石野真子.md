@@ -1,4 +1,4 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 石野真子](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_石野真子)から翻訳されています。
 
 
 『**GOLDEN☆BEST 石野真子**』（ゴールデン・ベスト いしのまこ）は、[石野真子](../Page/石野真子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2007年9月21日発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
@@ -23,7 +23,7 @@
       -
         [第30回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第30回NHK紅白歌合戦 "wikilink") 歌唱曲。トップバッターで歌われた。また、歌唱シーンの合間に白組の[沢田研二](../Page/沢田研二.md "wikilink")が映し出された（『[ジュリー](../Page/ジュリー.md "wikilink")』とは沢田研二の[愛称](../Page/愛称.md "wikilink")）。
 3.  **[狼なんか怖くない](https://ja.wikipedia.org/wiki/狼なんか怖くない_\(石野真子の曲\) "wikilink")**　（3:14）
-      - 作詞: [阿久悠](../Page/阿久悠.md "wikilink")、作曲: [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、編曲: [鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
+      - 作詞: [阿久悠](../Page/阿久悠.md "wikilink")、作曲: [吉田拓郎](../Page/吉田拓郎.md "wikilink")、編曲: [鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
     <!-- end list -->
       -
         デビュー曲。レコード宣伝用の巨大店頭ポップは、[神田神保町](../Page/神田神保町.md "wikilink")のレアモノグッズ店で高額な価格で販売されている（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系バラエティ『[くりぃむナントカ](../Page/くりぃむナントカ.md "wikilink")』より）。
@@ -78,6 +78,6 @@
 ## 関連人物
 
   - [阿久悠](../Page/阿久悠.md "wikilink")
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")
+  - [吉田拓郎](../Page/吉田拓郎.md "wikilink")
 
 [Category:石野真子のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:石野真子のベスト・アルバム "wikilink") [Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink") [Category:2007年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のベスト・アルバム "wikilink") [Category:GOLDEN☆BEST](https://ja.wikipedia.org/wiki/Category:GOLDEN☆BEST "wikilink")

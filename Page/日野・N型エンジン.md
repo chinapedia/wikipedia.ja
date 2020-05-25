@@ -1,15 +1,15 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[日野・N型エンジン](https://ja.wikipedia.org/wiki/日野・N型エンジン)から翻訳されています。
 
 
-**N型エンジン**は[日野自動車](../Page/日野自動車.md "wikilink")（新田工場）が製造する[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")・[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
+**N型エンジン**は[日野自動車](../Page/日野自動車.md "wikilink")（新田工場）が製造する[OHV](../Page/OHV.md "wikilink")・[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")、[S型エンジンの後継として登場した](https://ja.wikipedia.org/wiki/日野・S型エンジン "wikilink")。ボア104mm、ストローク118mm、総排気量4,009ccは同社の旧エンジンである[W04型と同一のスペックであり](https://ja.wikipedia.org/wiki/トヨタ・W型エンジン "wikilink")、[排出ガス規制対策のためにW](../Page/自動車排出ガス規制.md "wikilink")04をベースに[4バルブ化](https://ja.wikipedia.org/wiki/マルチバルブ "wikilink")、大容量クールド[EGR](../Page/排気再循環.md "wikilink")、[DPR](https://ja.wikipedia.org/wiki/ディーゼル微粒子捕集フィルター "wikilink")、[コモンレール](https://ja.wikipedia.org/wiki/コモンレール "wikilink")噴射化したものである\[1\]。[新短期規制、新長期規制に適合している](https://ja.wikipedia.org/wiki/ディーゼル自動車#日本における排出ガス規制 "wikilink")。 排出ガス規制強化に伴い、[トヨタ・B型エンジンとも統合が図られたため](../Page/トヨタ・B型エンジン_\(2代目\).md "wikilink")、トヨタブランドの[商用車](https://ja.wikipedia.org/wiki/商用車 "wikilink")にも広く搭載されている。
+[2003年](../Page/2003年.md "wikilink")、[S型エンジンの後継として登場した](https://ja.wikipedia.org/wiki/日野・S型エンジン "wikilink")。ボア104mm、ストローク118mm、総排気量4,009ccは同社の旧エンジンである[W04型と同一のスペックであり](https://ja.wikipedia.org/wiki/トヨタ・W型エンジン "wikilink")、[排出ガス規制対策のためにW](../Page/自動車排出ガス規制.md "wikilink")04をベースに[4バルブ化](../Page/マルチバルブ.md "wikilink")、大容量クールド[EGR](../Page/排気再循環.md "wikilink")、[DPR](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")、[コモンレール](https://ja.wikipedia.org/wiki/コモンレール "wikilink")噴射化したものである\[1\]。[新短期規制、新長期規制に適合している](https://ja.wikipedia.org/wiki/ディーゼル自動車#日本における排出ガス規制 "wikilink")。 排出ガス規制強化に伴い、[トヨタ・B型エンジンとも統合が図られたため](../Page/トヨタ・B型エンジン_\(2代目\).md "wikilink")、トヨタブランドの[商用車](../Page/商用車.md "wikilink")にも広く搭載されている。
 
-[2018年](../Page/2018年.md "wikilink")（平成30年）現在、日本国内で市販されている**[普通](https://ja.wikipedia.org/wiki/普通自動車 "wikilink")・[小型](https://ja.wikipedia.org/wiki/小型自動車 "wikilink")・[中型トラック用としては](https://ja.wikipedia.org/wiki/中型自動車 "wikilink")[三菱ふそう・4V20と並ぶOHVエンジン](https://ja.wikipedia.org/wiki/三菱ふそう・4V2系エンジン "wikilink")**である（[いすゞ・4JJ1及び](https://ja.wikipedia.org/wiki/いすゞ・J系エンジン "wikilink")[三菱ふそう・4P10は共に](https://ja.wikipedia.org/wiki/三菱ふそう・キャンター "wikilink")[DOHC](../Page/DOHC.md "wikilink")）。 [ターボ付きは記号に](../Page/ターボチャージャー.md "wikilink")「T」が付き、それ以外は[自然吸気](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")である。N04C-TM搭載車と[ハイブリッドと記号にUが付くエンジンは平成](../Page/ハイブリッドカー.md "wikilink")27年[燃費基準達成車](../Page/重量車燃費基準.md "wikilink")。
+[2018年](../Page/2018年.md "wikilink")（平成30年）現在、日本国内で市販されている**[普通](../Page/普通自動車.md "wikilink")・[小型](../Page/小型自動車.md "wikilink")・[中型トラック用としては](../Page/中型自動車.md "wikilink")[三菱ふそう・4V20と並ぶOHVエンジン](https://ja.wikipedia.org/wiki/三菱ふそう・4V2系エンジン "wikilink")**である（[いすゞ・4JJ1及び](https://ja.wikipedia.org/wiki/いすゞ・J系エンジン "wikilink")[三菱ふそう・4P10は共に](../Page/三菱ふそう・キャンター.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")）。 [ターボ付きは記号に](../Page/ターボチャージャー.md "wikilink")「T」が付き、それ以外は[自然吸気](../Page/自然吸気.md "wikilink")である。N04C-TM搭載車と[ハイブリッドと記号にUが付くエンジンは平成](../Page/ハイブリッドカー.md "wikilink")27年[燃費基準達成車](../Page/重量車燃費基準.md "wikilink")。
 
-またN04C-VH型は、[JASO](https://ja.wikipedia.org/wiki/JASO "wikilink")ディーゼル用[エンジンオイル](https://ja.wikipedia.org/wiki/エンジンオイル "wikilink")規格の試験にも使われており、[2014年](../Page/2014年.md "wikilink")（平成26年）に清浄性試験であるM336:2014\[2\]に、[2015年](../Page/2015年.md "wikilink")（平成27年）には動弁系摩耗試験であるM354:2015\[3\]に性能評価試験エンジンとして採用されている(旧試験法となるM336:1998は[日産TD25エンジン](https://ja.wikipedia.org/wiki/日産・TDエンジン "wikilink")、M354:2006は[三菱4D34T4エンジン](https://ja.wikipedia.org/wiki/三菱自動車のエンジン系列名#4ストロークディーゼル "wikilink"))。2017年には省燃費規格DH-2Fの制定にあたり新規の燃費試験としてM362:2017が制定され、これに対してもN04Cが採用された。
+またN04C-VH型は、[JASO](https://ja.wikipedia.org/wiki/JASO "wikilink")ディーゼル用[エンジンオイル](../Page/エンジンオイル.md "wikilink")規格の試験にも使われており、[2014年](../Page/2014年.md "wikilink")（平成26年）に清浄性試験であるM336:2014\[2\]に、[2015年](../Page/2015年.md "wikilink")（平成27年）には動弁系摩耗試験であるM354:2015\[3\]に性能評価試験エンジンとして採用されている(旧試験法となるM336:1998は[日産TD25エンジン](../Page/日産・TDエンジン.md "wikilink")、M354:2006は[三菱4D34T4エンジン](https://ja.wikipedia.org/wiki/三菱自動車のエンジン系列名#4ストロークディーゼル "wikilink"))。2017年には省燃費規格DH-2Fの制定にあたり新規の燃費試験としてM362:2017が制定され、これに対してもN04Cが採用された。
 
 ## バリエーション
 
@@ -33,7 +33,7 @@
 
 ### N04C-TH
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")登場
+[2006年](../Page/2006年.md "wikilink")登場
 
 ### N04C-TK
 
@@ -57,6 +57,10 @@
 
 輸出専用
 
+### N04C-TY
+
+輸出専用
+
 ### N04C-UD
 
 [2007年](../Page/2007年.md "wikilink")登場
@@ -75,7 +79,7 @@
 
 ### N04C-VH
 
-自衛隊車両（[高機動車](https://ja.wikipedia.org/wiki/高機動車 "wikilink")）に搭載。JASOディーゼルエンジンオイルの試験エンジン。
+自衛隊車両（[高機動車](../Page/高機動車.md "wikilink")）に搭載。JASOディーゼルエンジンオイルの試験エンジン。
 
 ### N04C-VJ
 
@@ -85,23 +89,35 @@
 
 2014年登場
 
+### N04C-VL
+
+輸出専用（ユーロ3）
+
 ### N04C-VV
 
-輸出専用
+輸出専用（ユーロ6）
 
 ### N04C-VY
 
-輸出専用
+輸出専用（ユーロ6）
+
+### N04C-WA
+
+平成28年排出ガス規制適合
+
+### N04C-WB
+
+平成28年排出ガス規制適合
 
 ## 搭載車種
 
-  - [クイックデリバリー](https://ja.wikipedia.org/wiki/トヨタ・クイックデリバリー "wikilink")
-  - [ダイナ](https://ja.wikipedia.org/wiki/トヨタ・ダイナ "wikilink")
+  - [クイックデリバリー](../Page/トヨタ・クイックデリバリー.md "wikilink")
+  - [ダイナ](../Page/トヨタ・ダイナ.md "wikilink")
   - [トヨエース](../Page/トヨタ・トヨエース.md "wikilink")
-  - [デュトロ](https://ja.wikipedia.org/wiki/日野・デュトロ "wikilink")
+  - [デュトロ](../Page/日野・デュトロ.md "wikilink")
   - [コースター](../Page/トヨタ・コースター.md "wikilink")/[リエッセII](../Page/日野・リエッセ.md "wikilink")
-  - [高機動車](https://ja.wikipedia.org/wiki/高機動車 "wikilink")
-  - [トヨタフォークリフト](https://ja.wikipedia.org/wiki/トヨタL&F "wikilink") 50-5FD60 / 70、5FD80
+  - [高機動車](../Page/高機動車.md "wikilink")
+  - [トヨタフォークリフト](../Page/トヨタL&F.md "wikilink") 50-5FD60 / 70、5FD80
 
 <!-- end list -->
 

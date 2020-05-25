@@ -1,17 +1,17 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ニュートピアII](https://ja.wikipedia.org/wiki/ニュートピアII)から翻訳されています。
 
 
-『**ニュートピアII**』 (*NeutopiaII*) は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に日本の[ハドソン](../Page/ハドソン.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。
+『**ニュートピアII**』 (*NeutopiaII*) は、[1991年](../Page/1991年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に日本の[ハドソン](../Page/ハドソン.md "wikilink")から発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink")。
 
 同社の『[ニュートピア](../Page/ニュートピア.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編。主人公である勇者フレイの息子を操作し、かつて倒した魔物たちが復活した謎を解く事や、調査に当たった後に行方不明となったフレイを捜し出す事を目的としている。視点は[トップビューで基本的には前作を踏襲](../Page/ビュー.md "wikilink")。十字キーによる移動と、ワンボタンで繰り出される剣による攻撃が基本となっている。冒険を進めるごとに新たなアイテムを入手し、進める場所が増えていくのが特徴。
 
-開発はハドソンが行い、ゲーム・デザインおよびディレクターは[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト『[ボンバーマンII](../Page/ボンバーマンII.md "wikilink")』（1991年）を手掛けた[藤原茂樹が担当](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink")、プログラムは前作に続き金田孝司が担当、音楽はPCエンジン用ソフト『[スーパースターソルジャー](../Page/スーパースターソルジャー.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）を手掛けた星恵太が担当、キャラクター・デザインは[テレビ朝日系テレビアニメ](../Page/オールニッポン・ニュースネットワーク.md "wikilink")『[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")』（[1979年](../Page/1979年.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）などを手掛けた[アニメーター](https://ja.wikipedia.org/wiki/アニメーター "wikilink")の[安彦良和](../Page/安彦良和.md "wikilink")が担当している\[1\]。
+開発はハドソンが行い、ゲーム・デザインおよびディレクターは[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト『[ボンバーマンII](../Page/ボンバーマンII.md "wikilink")』（1991年）を手掛けた[藤原茂樹が担当](https://ja.wikipedia.org/wiki/藤原茂樹_\(ゲームクリエイター\) "wikilink")、プログラムは前作に続き金田孝司が担当、音楽はPCエンジン用ソフト『[スーパースターソルジャー](../Page/スーパースターソルジャー.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）を手掛けた星恵太が担当、キャラクター・デザインは[テレビ朝日系テレビアニメ](../Page/オールニッポン・ニュースネットワーク.md "wikilink")『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』（[1979年](../Page/1979年.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）などを手掛けた[アニメーター](../Page/アニメーター.md "wikilink")の[安彦良和](../Page/安彦良和.md "wikilink")が担当している\[1\]。
 
-[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")対応ソフトとして[2007年](../Page/2007年.md "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[2014年](../Page/2014年.md "wikilink")に[Wii Uにて配信された他](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[PlayStation 3および](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PlayStation Portable用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[PCエンジンアーカイブスにて配信された](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。その他、[2013年](../Page/2013年.md "wikilink")には[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ゲームおよび[G-cluster](https://ja.wikipedia.org/wiki/G-cluster "wikilink")にて配信された。
+[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトとして[2007年](../Page/2007年.md "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[2014年](../Page/2014年.md "wikilink")に[Wii Uにて配信された他](https://ja.wikipedia.org/wiki/Wii_U "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[PlayStation 3および](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PlayStation Portable用ソフトとして](../Page/PlayStation_Portable.md "wikilink")[PCエンジンアーカイブスにて配信された](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。その他、[2013年](../Page/2013年.md "wikilink")には[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ゲームおよび[G-cluster](https://ja.wikipedia.org/wiki/G-cluster "wikilink")にて配信された。
 
 ## ゲーム内容
 
-基本的には前作と同様に[任天堂](../Page/任天堂.md "wikilink")の[ファミリーコンピュータ ディスクシステム用ソフト](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")『[ゼルダの伝説](https://ja.wikipedia.org/wiki/ゼルダの伝説 "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）を模した仕様となっており、地上や迷宮にて敵を倒しながら、様々な人物から得た情報を基に謎を解いていく内容となっている\[2\]。前作と同様に壁を爆弾で破壊する事や、岩を動かす事で隠し部屋が出現するなどの要素も存在する\[3\]。
+基本的には前作と同様に[任天堂](../Page/任天堂.md "wikilink")の[ファミリーコンピュータ ディスクシステム用ソフト](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")『[ゼルダの伝説](../Page/ゼルダの伝説.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）を模した仕様となっており、地上や迷宮にて敵を倒しながら、様々な人物から得た情報を基に謎を解いていく内容となっている\[2\]。前作と同様に壁を爆弾で破壊する事や、岩を動かす事で隠し部屋が出現するなどの要素も存在する\[3\]。
 
 ライフが無くなる事でゲームオーバーとなる仕様であるが、道中で多数の強力なアイテムを入手できるため、難易度はそれほど高くない\[4\]。
 
@@ -68,7 +68,7 @@
 <td><p>ハドソン</p></td>
 <td><p>ハドソン</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -77,7 +77,7 @@
 <td><p>ニュートピアII</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a><br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
 (<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
 <td><p>ハドソン</p></td>
 <td><p>ハドソン</p></td>
@@ -92,8 +92,8 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ひかりTV" title="wikilink">ひかりTV</a>ゲーム</p></td>
 <td><p>ハドソン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント" title="wikilink">KDE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラウドゲーム" title="wikilink">クラウドゲーム</a></p></td>
+<td><p><a href="../Page/コナミデジタルエンタテインメント.md" title="wikilink">KDE</a></p></td>
+<td><p><a href="../Page/クラウドゲーム.md" title="wikilink">クラウドゲーム</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -128,7 +128,7 @@ Neutopia II</p></td>
 <td></td>
 <td><p>ハドソン</p></td>
 <td><p>KDE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリインストール" title="wikilink">プリインストール</a></p></td>
+<td><p><a href="../Page/プリインストール.md" title="wikilink">プリインストール</a></p></td>
 <td><p>-</p></td>
 <td><p>日本版（PCエンジン版）と北米版（TurboGrafx-16版）を同時収録</p></td>
 </tr>
@@ -149,7 +149,7 @@ Neutopia II</p></td>
 
 ## 評価
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](https://ja.wikipedia.org/wiki/クロスレビュー "wikilink")」では合計27点（満40点）\[5\]、『[月刊PCエンジン](https://ja.wikipedia.org/wiki/月刊PCエンジン "wikilink")』では85・90・90・85・80の平均86点（満100点）、『[マル勝PCエンジン](https://ja.wikipedia.org/wiki/マル勝PCエンジン "wikilink")』では8・8・9・8の合計33点（満40点）、『[PC Engine FAN](https://ja.wikipedia.org/wiki/PC_Engine_FAN "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.24点（満30点）となっている\[6\]。また、この得点はPCエンジン全ソフトの中で150位（485本中、1993年時点）となっている\[7\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計27点（満40点）\[5\]、『[月刊PCエンジン](../Page/月刊PCエンジン.md "wikilink")』では85・90・90・85・80の平均86点（満100点）、『[マル勝PCエンジン](../Page/マル勝PCエンジン.md "wikilink")』では8・8・9・8の合計33点（満40点）、『[PC Engine FAN](../Page/PC_Engine_FAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.24点（満30点）となっている\[6\]。また、この得点はPCエンジン全ソフトの中で150位（485本中、1993年時点）となっている\[7\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

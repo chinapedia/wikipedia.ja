@@ -1,17 +1,17 @@
-> この記事は[HR](https://ja.wikipedia.org/wiki/HR)から翻訳されています。
+> この記事は[日産・HRエンジン](https://ja.wikipedia.org/wiki/日産・HRエンジン)から翻訳されています。
 
 
-**日産・HRエンジン**は、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")および[ルノー](../Page/ルノー.md "wikilink")グループの[ガソリンエンジン](https://ja.wikipedia.org/wiki/ガソリンエンジン "wikilink")の系列である。[QGエンジンの後継として](https://ja.wikipedia.org/wiki/日産・QGエンジン "wikilink")、2004年9月に登場したティーダを皮切りに小型乗用車・商用車に搭載されている。
+**日産・HRエンジン**は、[日産自動車](../Page/日産自動車.md "wikilink")および[ルノー](../Page/ルノー.md "wikilink")グループの[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。[QGエンジンの後継として](../Page/日産・QGエンジン.md "wikilink")、2004年9月に登場したティーダを皮切りに小型乗用車・商用車に搭載されている。
 
 ## 概要
 
-基本的に日本国内で販売している車種にはHR15DEが搭載され、HR16DEは日本国外で販売している車種に搭載されるが、日本で販売されるK12型[日産・マイクラC+C](https://ja.wikipedia.org/wiki/日産・マイクラC+C "wikilink")（英国工場で生産）と、[日産・ティーダラティオ](https://ja.wikipedia.org/wiki/日産・ティーダラティオ "wikilink")の[教習車](https://ja.wikipedia.org/wiki/教習車 "wikilink")モデル、[日産・ノート](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")のマニュアルトランスミッション車にHR16DEが搭載されている。
+基本的に日本国内で販売している車種にはHR15DEが搭載され、HR16DEは日本国外で販売している車種に搭載されるが、日本で販売されるK12型[日産・マイクラC+C](../Page/日産・マイクラC+C.md "wikilink")（英国工場で生産）と、[日産・ティーダラティオ](../Page/日産・ティーダラティオ.md "wikilink")の[教習車](../Page/教習車.md "wikilink")モデル、[日産・ノート](../Page/日産・ノート.md "wikilink")のマニュアルトランスミッション車にHR16DEが搭載されている。
 
-2006年12月、改良。[カムシャフト](https://ja.wikipedia.org/wiki/カムシャフト "wikilink")の鏡面加工仕上げや[CVTCの作動角の拡大](https://ja.wikipedia.org/wiki/NVCS "wikilink")、[オルタネーター](https://ja.wikipedia.org/wiki/オルタネーター "wikilink")への[回生機能の付加などによって](../Page/回生ブレーキ.md "wikilink")、従来型よりもエネルギー効率を向上させた上で、従来型を搭載する一部の車種に採用される\[1\]。
+2006年12月、改良。[カムシャフト](../Page/カムシャフト.md "wikilink")の鏡面加工仕上げや[CVTCの作動角の拡大](../Page/NVCS.md "wikilink")、[オルタネーター](../Page/オルタネーター.md "wikilink")への[回生機能の付加などによって](../Page/回生ブレーキ.md "wikilink")、従来型よりもエネルギー効率を向上させた上で、従来型を搭載する一部の車種に採用される\[1\]。
 
-2009年4月、改良。エンジン本体および組み合わされる[エクストロニックCVTの制御の見直しによってさらに燃費を向上させ](https://ja.wikipedia.org/wiki/無段変速機 "wikilink")、従来型を搭載する一部の車種に採用される\[2\]。
+2009年4月、改良。エンジン本体および組み合わされる[エクストロニックCVTの制御の見直しによってさらに燃費を向上させ](../Page/無段変速機.md "wikilink")、従来型を搭載する一部の車種に採用される\[2\]。
 
-2010年3月に[タイで先行発売されたK](https://ja.wikipedia.org/wiki/タイ国 "wikilink")13型[マーチに](../Page/日産・マーチ.md "wikilink")[直列3気筒](https://ja.wikipedia.org/wiki/直列3気筒 "wikilink")エンジンのHR12DEが搭載された\[3\]。また、2011年にはアイドリングストップ機構と[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")を追加した直噴ガソリンエンジン・HR12DDRが追加されることがアナウンスされ\[4\]、欧州向けマーチ（マイクラ）に搭載された。国内市場では2012年発売の2代目ノートに搭載された。
+2010年3月に[タイで先行発売されたK](https://ja.wikipedia.org/wiki/タイ国 "wikilink")13型[マーチに](../Page/日産・マーチ.md "wikilink")[直列3気筒](../Page/直列3気筒.md "wikilink")エンジンのHR12DEが搭載された\[3\]。また、2011年にはアイドリングストップ機構と[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")を追加した直噴ガソリンエンジン・HR12DDRが追加されることがアナウンスされ\[4\]、欧州向けマーチ（マイクラ）に搭載された。国内市場では2012年発売の2代目ノートに搭載された。
 
 2010年6月には量産車としては世界初のデュアルインジェクターを採用したHR15DEを[ジュークに搭載した](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")。デュアルインジェクターは燃料噴射を1シリンダーあたり2本のインジェクターで行い、燃焼効率を安定させるものである。
 
@@ -40,7 +40,7 @@
 #### 搭載車種
 
   - [日産・マーチ](../Page/日産・マーチ.md "wikilink")（K13型）2010年7月-
-  - [日産・ノート](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")（E12型）2012年9月-
+  - [日産・ノート](../Page/日産・ノート.md "wikilink")（E12型）2012年9月-
   - [日産・ラティオ](https://ja.wikipedia.org/wiki/日産・ラティオ "wikilink")（N17型）2012年10月-2016年12月
   - [日産・アルメーラ](../Page/日産・アルメーラ.md "wikilink")（N17T型・[タイ向けラティオ](https://ja.wikipedia.org/wiki/タイ国 "wikilink")）2011年-2019年
   - [ルノー・パルス](https://ja.wikipedia.org/wiki/ルノー・パルス "wikilink") 2012年-
@@ -87,17 +87,17 @@
 #### 搭載車種
 
   - [日産・ティーダ](https://ja.wikipedia.org/wiki/日産・ティーダ "wikilink")（C11型）2004年9月-2012年8月
-  - [日産・ティーダラティオ](https://ja.wikipedia.org/wiki/日産・ティーダラティオ "wikilink")（C11型）2004年10月-2012年9月
-  - [日産・ノート](https://ja.wikipedia.org/wiki/日産・ノート "wikilink")（E11型）2005年1月-2012年9月
+  - [日産・ティーダラティオ](../Page/日産・ティーダラティオ.md "wikilink")（C11型）2004年10月-2012年9月
+  - [日産・ノート](../Page/日産・ノート.md "wikilink")（E11型）2005年1月-2012年9月
   - [日産・キューブ](../Page/日産・キューブ.md "wikilink")/[日産・キューブキュービック](../Page/日産・キューブキュービック.md "wikilink")（Z11型）2005年5月- (Z12型）2008年11月-
   - [日産・マーチ](../Page/日産・マーチ.md "wikilink")/マイクラ（K12型）2005年8月-2010年6月
   - 日産・マーチ NISMO S（K13型改）
-  - [日産・ウイングロード](https://ja.wikipedia.org/wiki/日産・ウイングロード "wikilink")（Y12型）2005年11月-
+  - [日産・ウイングロード](../Page/日産・ウイングロード.md "wikilink")（Y12型）2005年11月-
   - [日産・ブルーバードシルフィ](../Page/日産・シルフィ.md "wikilink")（G11型）2005年12月-2012年12月
   - [日産・AD](https://ja.wikipedia.org/wiki/日産・AD "wikilink")バン/[ADエキスパート](https://ja.wikipedia.org/wiki/日産・AD "wikilink")（Y12型）2006年10月-
   - [日産・グランドリヴィナ](../Page/日産・リヴィナジェニス.md "wikilink")
   - [日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink") 2010年6月-
-  - [日産・サニー](https://ja.wikipedia.org/wiki/日産・ティーダラティオ "wikilink")/[アルメーラ](../Page/日産・アルメーラ.md "wikilink")（B17型）2011年-
+  - [日産・サニー](../Page/日産・ティーダラティオ.md "wikilink")/[アルメーラ](../Page/日産・アルメーラ.md "wikilink")（B17型）2011年-
   - [ルノー・スカラ](https://ja.wikipedia.org/wiki/ルノー・スカラ "wikilink") 2012年9月-
 
 ### HR16DE / H4M
@@ -117,23 +117,30 @@
 
 #### 搭載車種
 
-  - 日産・マイクラ/[マイクラC+C](https://ja.wikipedia.org/wiki/日産・マイクラC+C "wikilink")（K12型）
+  - 日産・マイクラ/[マイクラC+C](../Page/日産・マイクラC+C.md "wikilink")（K12型）
   - 日産・ノート（5MT車）
   - 日産・ノート NISMO S \[E12型 5MT\] （4）
   - 日産・ティーダ/ヴァーサ/ティーダラティオ（C11型）
       - 日産・ラティオ教習車 (2)
   - 日産・AD（4WD車）
-      - [三菱・ランサーカーゴ](https://ja.wikipedia.org/wiki/三菱・ランサーカーゴ "wikilink")（4WD車）
+      - [三菱・ランサーカーゴ](../Page/三菱・ランサーカーゴ.md "wikilink")（4WD車）
       - [マツダ・ファミリア](../Page/マツダ・ファミリア.md "wikilink")バン（4WD車）
   - 日産・[NV200バネット](https://ja.wikipedia.org/wiki/日産・NV200バネット "wikilink")
       - [三菱・デリカD:3](https://ja.wikipedia.org/wiki/三菱・デリカD:3 "wikilink")
   - 日産・[キャシュカイ](https://ja.wikipedia.org/wiki/日産・デュアリス "wikilink")（欧州仕様）
   - 日産・ブルーバードシルフィ（中国仕様）(3)
-  - [ルノーサムスン・SM3](https://ja.wikipedia.org/wiki/ルノーサムスン・SM3 "wikilink")
-  - [ルノー・フルエンス](https://ja.wikipedia.org/wiki/ルノー・フルエンス "wikilink")
-  - [ルノー・メガーヌ](https://ja.wikipedia.org/wiki/ルノー・メガーヌ "wikilink")（FB型）2015年-
-  - 日産・ヴァーサセダン（N17型）※2代目ラティオの北米仕様
-  - [キックス](https://ja.wikipedia.org/wiki/日産・キックス_\(SUV\) "wikilink")
+  - [ルノー・メガーヌ](https://ja.wikipedia.org/wiki/ルノー・メガーヌ "wikilink")（X95型）2009年-
+  - [ルノーサムスン・SM3](../Page/ルノーサムスン・SM3.md "wikilink") 2009年-
+  - [ルノー・フルエンス](https://ja.wikipedia.org/wiki/ルノー・フルエンス "wikilink") 2009年-
+  - [日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink") (F15型) 2010年-
+  - [ダシア・ダスター](https://ja.wikipedia.org/wiki/ダチア・ダスター "wikilink") 2010年-
+  - ダシア・ドッカー 2012年-
+  - ダチア・ロガン 2012年-
+  - [ダチア・ロッジー](https://ja.wikipedia.org/wiki/ダチア・ロッジー "wikilink") 2012年-
+  - 日産・ヴァーサセダン（N17型）※2代目ラティオの北米仕様 2012年-
+  - [日産・キックス](https://ja.wikipedia.org/wiki/日産・キックス_\(SUV\) "wikilink") (P15型) 2016年-
+  - [ルノー・アルカナ](../Page/ルノー・アルカナ.md "wikilink") 2019年-
+  - [ルノーサムスン・XM3](../Page/ルノーサムスン・XM3.md "wikilink") 2019年-
 
 ## 脚注
 

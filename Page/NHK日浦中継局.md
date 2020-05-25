@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK日浦中継局](https://ja.wikipedia.org/wiki/NHK日浦中継局)から翻訳されています。
 
 
 **NHK日浦中継局**（エヌエイチケイひうらちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")にある[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")の[中継局](../Page/中継局.md "wikilink")である。

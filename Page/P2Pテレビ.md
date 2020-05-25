@@ -1,4 +1,4 @@
-> この記事は[P2P](https://ja.wikipedia.org/wiki/P2P)から翻訳されています。
+> この記事は[P2Pテレビ](https://ja.wikipedia.org/wiki/P2Pテレビ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:P2ptv.PNG "wikilink") serving three video streams.\]\]
@@ -27,27 +27,27 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [PeerCast](https://ja.wikipedia.org/wiki/PeerCast "wikilink")
+  - [PeerCast](../Page/PeerCast.md "wikilink")
   - [PPLive](https://ja.wikipedia.org/wiki/PPLive "wikilink")
   - [PPMate](https://ja.wikipedia.org/wiki/PPMate "wikilink")
   - [PPStream](https://ja.wikipedia.org/wiki/PPStream "wikilink")
   - [sopcast](https://ja.wikipedia.org/wiki/sopcast "wikilink")
-  - [TVants](https://ja.wikipedia.org/wiki/TVants "wikilink")
+  - [TVants](../Page/TVants.md "wikilink")
   - [TVKoo](https://ja.wikipedia.org/wiki/TVKoo "wikilink")
-  - [TVUプレーヤー](https://ja.wikipedia.org/wiki/TVUプレーヤー "wikilink")
+  - [TVUプレーヤー](../Page/TVUプレーヤー.md "wikilink")
   - [VGO](https://ja.wikipedia.org/wiki/VGO "wikilink")
-  - [Vuze](https://ja.wikipedia.org/wiki/Vuze "wikilink")
+  - [Vuze](../Page/Vuze.md "wikilink")
   - [Zattoo](../Page/Zattoo.md "wikilink")
 
 </div>
 
 ## 関連項目
 
-  - [ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")
+  - [ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")
   - [Peer to Peer](../Page/Peer_to_Peer.md "wikilink")
   - [ネット配信](../Page/ネット配信.md "wikilink")
   - [ストリーミング](../Page/ストリーミング.md "wikilink")
-  - [インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")
-  - [IP放送](https://ja.wikipedia.org/wiki/IP放送 "wikilink")
+  - [インターネットテレビ](../Page/インターネットテレビ.md "wikilink")
+  - [IP放送](../Page/IP放送.md "wikilink")
 
 [Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:インターネットテレビ局](https://ja.wikipedia.org/wiki/Category:インターネットテレビ局 "wikilink") [Category:インターネット放送](https://ja.wikipedia.org/wiki/Category:インターネット放送 "wikilink")

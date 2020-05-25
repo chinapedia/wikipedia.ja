@@ -1,7 +1,7 @@
 > この記事は[Tone duh bell easy](https://ja.wikipedia.org/wiki/Tone_duh_bell_easy)から翻訳されています。
 
 
-**Tone duh Bell Easy**（トーン・ダ・ベル・イージー 『鐘の音よ安らかに』）は、[黒人霊歌の一曲である](https://ja.wikipedia.org/wiki/霊歌 "wikilink")。「Tone duh Bell」とは、「Tone the Bell」（鐘を鳴らして）の訛り。特に[ロジェー・ワーグナー合唱団](https://ja.wikipedia.org/wiki/ロジェー・ワーグナー合唱団 "wikilink")による[サリー・テリー](https://ja.wikipedia.org/wiki/サリー・テリー "wikilink")（Salli Terri）の歌唱が有名なほか、[ブラインド・ウィリー・ジョンソン](https://ja.wikipedia.org/wiki/ブラインド・ウィリー・ジョンソン "wikilink")による"Jesus Make up My Dying Bed"、[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")や[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")による"In My Time of Dying"（死にかけて）といったヴァージョンがある。
+**Tone duh Bell Easy**（トーン・ダ・ベル・イージー 『鐘の音よ安らかに』）は、[黒人霊歌の一曲である](https://ja.wikipedia.org/wiki/霊歌 "wikilink")。「Tone duh Bell」とは、「Tone the Bell」（鐘を鳴らして）の訛り。特に[ロジェー・ワーグナー合唱団](https://ja.wikipedia.org/wiki/ロジェー・ワーグナー合唱団 "wikilink")による[サリー・テリー](../Page/サリー・テリー.md "wikilink")（Salli Terri）の歌唱が有名なほか、[ブラインド・ウィリー・ジョンソン](https://ja.wikipedia.org/wiki/ブラインド・ウィリー・ジョンソン "wikilink")による"Jesus Make up My Dying Bed"、[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")や[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")による"In My Time of Dying"（死にかけて）といったヴァージョンがある。
 
 ## 曲想
 
@@ -60,8 +60,8 @@
 <!-- end list -->
 
   -
-    \[4\][マリアは悲嘆していた](https://ja.wikipedia.org/wiki/マリア_\(マルタの妹\) "wikilink")。[マルタは](https://ja.wikipedia.org/wiki/マルタ_\(マリアの姉\) "wikilink")「彼はまだ亡くなってはいない」と言った。
-    だがあの金曜日の夕方遅く、彼は[十字架](https://ja.wikipedia.org/wiki/十字架 "wikilink")にかけられていた。
+    \[4\][マリアは悲嘆していた](../Page/マリア_\(マルタの妹\).md "wikilink")。[マルタは](../Page/マルタ_\(マリアの姉\).md "wikilink")「彼はまだ亡くなってはいない」と言った。
+    だがあの金曜日の夕方遅く、彼は[十字架](../Page/十字架.md "wikilink")にかけられていた。
     そう、彼は無惨にも吊されていたのだ。
     イエスが私のいまわの際を看取ってくださるだろう。
 
@@ -88,21 +88,21 @@
 
 ## ボブ・ディランのバージョン
 
-[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")は「*In My Time of Dyin*'」（邦題：「死にかけて」）のタイトルで、[1962年](../Page/1962年.md "wikilink")発表の自身のデビュー・アルバム『[ボブ・ディラン](https://ja.wikipedia.org/wiki/ボブ・ディラン_\(アルバム\) "wikilink")』でこの曲を採り上げている。ディランはブラインド・ウィリー・ジョンソンのバージョンを下敷きにし、[スライドギター](https://ja.wikipedia.org/wiki/スライドギター "wikilink")を弾いている。なお、アルバムの[ライナー・ノーツ](https://ja.wikipedia.org/wiki/ライナー・ノーツ "wikilink")を担当したステーシー・ウィエリアムズは「恋人の[スーズ・ロトロ](https://ja.wikipedia.org/wiki/スーズ・ロトロ "wikilink")から借りた[口紅](https://ja.wikipedia.org/wiki/口紅 "wikilink")の容器でスライドギターを弾いている」と書いているが、ロトロ本人は「私は口紅を使ったことがない」と否定している\[7\]。
+[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")は「*In My Time of Dyin*'」（邦題：「死にかけて」）のタイトルで、[1962年](../Page/1962年.md "wikilink")発表の自身のデビュー・アルバム『[ボブ・ディラン](https://ja.wikipedia.org/wiki/ボブ・ディラン_\(アルバム\) "wikilink")』でこの曲を採り上げている。ディランはブラインド・ウィリー・ジョンソンのバージョンを下敷きにし、[スライドギター](../Page/スライドギター.md "wikilink")を弾いている。なお、アルバムの[ライナー・ノーツ](https://ja.wikipedia.org/wiki/ライナー・ノーツ "wikilink")を担当したステーシー・ウィエリアムズは「恋人の[スーズ・ロトロ](../Page/スーズ・ロトロ.md "wikilink")から借りた[口紅](../Page/口紅.md "wikilink")の容器でスライドギターを弾いている」と書いているが、ロトロ本人は「私は口紅を使ったことがない」と否定している\[7\]。
 
 ## レッド・ツェッペリンのバージョン
 
-[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")は、6作目のアルバム『[フィジカル・グラフィティ](https://ja.wikipedia.org/wiki/フィジカル・グラフィティ "wikilink")』（[1975年](../Page/1975年.md "wikilink")）でこの曲を採り上げている。タイトルはディランのバージョンに近い「*In My Time of Dying*」（邦題もディラン同じく「死にかけて」）となっている。ただ、歌詞の大半を流用しているとは言え、音楽自体は彼らオリジナルのものであり、そのためかこの曲の作者クレジットはメンバー4人のものとなっており、バンドのオリジナル曲として扱っている。11分4秒という演奏時間は、彼らのスタジオ収録曲の中で最も長い。
+[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")は、6作目のアルバム『[フィジカル・グラフィティ](../Page/フィジカル・グラフィティ.md "wikilink")』（[1975年](../Page/1975年.md "wikilink")）でこの曲を採り上げている。タイトルはディランのバージョンに近い「*In My Time of Dying*」（邦題もディラン同じく「死にかけて」）となっている。ただ、歌詞の大半を流用しているとは言え、音楽自体は彼らオリジナルのものであり、そのためかこの曲の作者クレジットはメンバー4人のものとなっており、バンドのオリジナル曲として扱っている。11分4秒という演奏時間は、彼らのスタジオ収録曲の中で最も長い。
 
-レコーディングは[1974年](../Page/1974年.md "wikilink")、[ヘッドリィ・グランジ](https://ja.wikipedia.org/wiki/ヘッドリィ・グランジ "wikilink")に[ロニー・レイン](https://ja.wikipedia.org/wiki/ロニー・レイン "wikilink")所有の移動スタジオを持ちこんで行われた。[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")はディラン同様、曲の全編にわたりスライドギターを弾いているが、原曲とはかけ離れたヘヴィな[ハードロック](../Page/ハードロック.md "wikilink")に仕上がっている。オーバーダビングはされておらず、明らかに差し替えられているギターソロの部分を除き、スタジオライブ録音と見られる。[ギター](../Page/ギター.md "wikilink")や[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")よりも主張する[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")の音は、『[レッド・ツェッペリン IV](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_IV "wikilink")』（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）収録の「[レヴィー・ブレイク](https://ja.wikipedia.org/wiki/レヴィー・ブレイク "wikilink")」と同じく、ヘッドリィ・グランジの広々とした廊下でディスタンス・[マイク](https://ja.wikipedia.org/wiki/マイク "wikilink")を使用し、建物の音響効果を活かして作られたものである（ペイジ曰く、多少の[エコー](../Page/エコー.md "wikilink")をかけているという）\[8\]。曲の終盤が[即興演奏](../Page/即興演奏.md "wikilink")的になっているが、ペイジによればスタジオ入りした時点では曲のエンディングを考えていなかったのだという\[9\]。演奏後には、バンドとスタッフの会話が聞こえる。
+レコーディングは[1974年](../Page/1974年.md "wikilink")、[ヘッドリィ・グランジ](https://ja.wikipedia.org/wiki/ヘッドリィ・グランジ "wikilink")に[ロニー・レイン](https://ja.wikipedia.org/wiki/ロニー・レイン "wikilink")所有の移動スタジオを持ちこんで行われた。[ジミー・ペイジ](../Page/ジミー・ペイジ.md "wikilink")はディラン同様、曲の全編にわたりスライドギターを弾いているが、原曲とはかけ離れたヘヴィな[ハードロック](../Page/ハードロック.md "wikilink")に仕上がっている。オーバーダビングはされておらず、明らかに差し替えられているギターソロの部分を除き、スタジオライブ録音と見られる。[ギター](../Page/ギター.md "wikilink")や[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")よりも主張する[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")の音は、『[レッド・ツェッペリン IV](../Page/レッド・ツェッペリン_IV.md "wikilink")』（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）収録の「[レヴィー・ブレイク](https://ja.wikipedia.org/wiki/レヴィー・ブレイク "wikilink")」と同じく、ヘッドリィ・グランジの広々とした廊下でディスタンス・[マイク](https://ja.wikipedia.org/wiki/マイク "wikilink")を使用し、建物の音響効果を活かして作られたものである（ペイジ曰く、多少の[エコー](../Page/エコー.md "wikilink")をかけているという）\[8\]。曲の終盤が[即興演奏](../Page/即興演奏.md "wikilink")的になっているが、ペイジによればスタジオ入りした時点では曲のエンディングを考えていなかったのだという\[9\]。演奏後には、バンドとスタッフの会話が聞こえる。
 
-後に[交通事故](../Page/交通事故.md "wikilink")で瀕死の重傷を負った[ロバート・プラント](https://ja.wikipedia.org/wiki/ロバート・プラント "wikilink")は、それ以降この曲を歌うのを躊躇するようになったという。プラントは「何が楽しくてこんな歌を歌わなきゃならんのだ」というコメントも残している\[10\]。
+後に[交通事故](../Page/交通事故.md "wikilink")で瀕死の重傷を負った[ロバート・プラント](../Page/ロバート・プラント.md "wikilink")は、それ以降この曲を歌うのを躊躇するようになったという。プラントは「何が楽しくてこんな歌を歌わなきゃならんのだ」というコメントも残している\[10\]。
 
 ### コンサート・パフォーマンス
 
-ツェッペリンのコンサートでは、1975年の全公演と[1977年](../Page/1977年.md "wikilink")のツアーで数回演奏されている。バンド解散後はペイジがソロアルバム『[アウトライダー](https://ja.wikipedia.org/wiki/アウトライダー_\(アルバム\) "wikilink")』（[1988年](../Page/1988年.md "wikilink")）に伴うツアーと\[11\]、[1999年](../Page/1999年.md "wikilink")の[ブラック・クロウズ](../Page/ブラック・クロウズ.md "wikilink")とのジョイント・コンサートで披露している。[2007年](../Page/2007年.md "wikilink")の[O2アリーナでの再結成コンサートでも演奏された](https://ja.wikipedia.org/wiki/O2アリーナ_\(ロンドン\) "wikilink")。ペイジはこの曲の演奏には必ず[ダンエレクトロ](https://ja.wikipedia.org/wiki/ダンエレクトロ "wikilink")の3021を使用した。ただし、2007年の再結成ライブでは[ギブソンのバードランドを使用している](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink")。
+ツェッペリンのコンサートでは、1975年の全公演と[1977年](../Page/1977年.md "wikilink")のツアーで数回演奏されている。バンド解散後はペイジがソロアルバム『[アウトライダー](https://ja.wikipedia.org/wiki/アウトライダー_\(アルバム\) "wikilink")』（[1988年](../Page/1988年.md "wikilink")）に伴うツアーと\[11\]、[1999年](../Page/1999年.md "wikilink")の[ブラック・クロウズ](../Page/ブラック・クロウズ.md "wikilink")とのジョイント・コンサートで披露している。[2007年](../Page/2007年.md "wikilink")の[O2アリーナでの再結成コンサートでも演奏された](https://ja.wikipedia.org/wiki/O2アリーナ_\(ロンドン\) "wikilink")。ペイジはこの曲の演奏には必ず[ダンエレクトロ](https://ja.wikipedia.org/wiki/ダンエレクトロ "wikilink")の3021を使用した。ただし、2007年の再結成ライブでは[ギブソンのバードランドを使用している](../Page/ギブソン_\(楽器メーカー\).md "wikilink")。
 
-公式ライブ作品では、[2003年](../Page/2003年.md "wikilink")リリースの『[レッド・ツェッペリン DVD](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_DVD "wikilink")』に[1975年](../Page/1975年.md "wikilink")のアールズ・コート公演の演奏が、[2012年](../Page/2012年.md "wikilink")リリースの『祭典の日 (奇跡のライヴ)』に2007年の再結成コンサートでの演奏がそれぞれ収録されている。また、ペイジとブラック・クロウズのジョイント・コンサートでの演奏が『ライヴ・アット・ザ・グリーク』（[2000年](../Page/2000年.md "wikilink")）に収録されている。
+公式ライブ作品では、[2003年](../Page/2003年.md "wikilink")リリースの『[レッド・ツェッペリン DVD](../Page/レッド・ツェッペリン_DVD.md "wikilink")』に[1975年](../Page/1975年.md "wikilink")のアールズ・コート公演の演奏が、[2012年](../Page/2012年.md "wikilink")リリースの『祭典の日 (奇跡のライヴ)』に2007年の再結成コンサートでの演奏がそれぞれ収録されている。また、ペイジとブラック・クロウズのジョイント・コンサートでの演奏が『ライヴ・アット・ザ・グリーク』（[2000年](../Page/2000年.md "wikilink")）に収録されている。
 
 ## 出典・脚注
 
@@ -113,10 +113,10 @@
 1.  I's a ＝ I was a　不定冠詞の「a」は通常は不要。
 2.  「I don' want nobody to mourn.」：直訳すると「誰も嘆かないことを望まない」すなわち「誰かには嘆いてほしい」という意味になってしまうが、ここでは否定を重ねることにより「嘆かないでほしい」という意味を強調している。
 3.  gonna ＝ going to　
-4.  [ヨハネ福音書](https://ja.wikipedia.org/wiki/ヨハネ福音書 "wikilink")第11章「[ラザロ](https://ja.wikipedia.org/wiki/ラザロ "wikilink")の死」による。
+4.  [ヨハネ福音書](https://ja.wikipedia.org/wiki/ヨハネ福音書 "wikilink")第11章「[ラザロ](../Page/ラザロ.md "wikilink")の死」による。
 5.  「I don't wanna make no alarms.」：ここも\[1\]と同様、直訳すると「誰も取り乱さないことを望まない」すなわち「誰かには取り乱してほしい」という意味になってしまうが、否定を重ねることにより「決して取り乱さないでほしい」という意味を表している。wanna＝want to
 6.  [テサロニケの信徒への手紙一](https://ja.wikipedia.org/wiki/テサロニケの信徒への手紙一 "wikilink")第４章による。「すなわち合図の号令がかかり、[大天使](../Page/大天使.md "wikilink")の声が聞こえて神のラッパが鳴り響くと、主ご自身が天から降って来られます。（中略）それから私たち生き残っている者が、空中で主と出会うために彼らと一緒に雲に包まれて引き上げられます。
-7.  『グリニッチヴィレッジの青春』スーズ・ロトロ著／菅野ヘッケル訳、[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")。ISBN 978-4-309-20531-1、183頁
+7.  『グリニッチヴィレッジの青春』スーズ・ロトロ著／菅野ヘッケル訳、[河出書房新社](../Page/河出書房新社.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")。ISBN 978-4-309-20531-1、183頁
 8.  [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink")・ムック『天才ギタリスト　ジミー・ペイジ　完全版』、[2004年](../Page/2004年.md "wikilink")。ISBN 4-401-61855-6、228頁
 9.  シンコー・ミュージック・ムック『レッド・ツェッペリン―幻惑されて―』クリス・ウェルチ著、中村美夏訳、1999年。ISBN 4-401-70012-0、88頁
 10.

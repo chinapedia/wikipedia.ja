@@ -1,4 +1,4 @@
-> この記事は[JBL](https://ja.wikipedia.org/wiki/JBL)から翻訳されています。
+> この記事は[JBLプレスーパーリーグ](https://ja.wikipedia.org/wiki/JBLプレスーパーリーグ)から翻訳されています。
 
 
 **JBLプレスーパーリーグ**は、[2000年](../Page/2000年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")にかけて開催されたバスケットボール日本リーグ（JBL）1部リーグである。翌シーズンより[スーパーリーグに移行するに当たって行われた](../Page/JBLスーパーリーグ.md "wikilink")。
@@ -9,7 +9,7 @@
   - [ボッシュブルーウィンズ](../Page/ボッシュブルーウィンズ.md "wikilink")
   - [東芝レッドサンダース](https://ja.wikipedia.org/wiki/東芝ブレイブサンダース神奈川 "wikilink")
   - [トヨタ自動車アルバルク](https://ja.wikipedia.org/wiki/トヨタ自動車アルバルク東京 "wikilink")
-  - [いすゞ自動車ギガキャッツ](https://ja.wikipedia.org/wiki/横浜ギガスピリッツ "wikilink")
+  - [いすゞ自動車ギガキャッツ](../Page/横浜ギガスピリッツ.md "wikilink")
   - [アイシン精機アイシンシーホース](https://ja.wikipedia.org/wiki/アイシンシーホース三河 "wikilink")
   - [三菱電機メルコドルフィンズ](https://ja.wikipedia.org/wiki/三菱電機ダイヤモンドドルフィンズ名古屋 "wikilink")
   - [松下電器パナソニックスーパーカンガルーズ](https://ja.wikipedia.org/wiki/パナソニックトライアンズ "wikilink")
@@ -105,11 +105,11 @@
 
 **MVP**
 
-  - [佐古賢一](https://ja.wikipedia.org/wiki/佐古賢一 "wikilink")（いすゞ自動車）
+  - [佐古賢一](../Page/佐古賢一.md "wikilink")（いすゞ自動車）
 
 **コーチ・オブ・ザ・イヤー**
 
-  - [小浜元孝](https://ja.wikipedia.org/wiki/小浜元孝 "wikilink")（いすゞ自動車）
+  - [小浜元孝](../Page/小浜元孝.md "wikilink")（いすゞ自動車）
 
 **ルーキー・オブ・ザ・イヤー**
 
@@ -118,7 +118,7 @@
 **ベスト5**
 
   - PG 佐古賢一（いすゞ自動車）
-  - SG [後藤正規](https://ja.wikipedia.org/wiki/後藤正規 "wikilink")（アイシン精機）
+  - SG [後藤正規](../Page/後藤正規.md "wikilink")（アイシン精機）
   - SF [折茂武彦](../Page/折茂武彦.md "wikilink")（トヨタ自動車）
   - PF [ルシアス・デービス](https://ja.wikipedia.org/wiki/ルシアス・デービス "wikilink")（いすゞ自動車）
   - C [ブライアン・ヘンドリック](https://ja.wikipedia.org/wiki/ブライアン・ヘンドリック "wikilink")（トヨタ自動車）

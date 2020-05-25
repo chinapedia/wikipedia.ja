@@ -9,7 +9,7 @@
   - [タイトル](https://ja.wikipedia.org/wiki/タイトル "wikilink")及び詞中での"SUPER LOVER"は、“運命のひと”、“最後の恋人”といった意味合いが含まれている。
   - メインボーカルは[橘慶太](../Page/橘慶太.md "wikilink")だが、Dメロには[緒方龍一](../Page/緒方龍一.md "wikilink")のソロパートも存在している。
   - [イタリア](../Page/イタリア.md "wikilink")の[ディスコ](../Page/ディスコ.md "wikilink")[コンピレーションアルバム](https://ja.wikipedia.org/wiki/コンピレーションアルバム "wikilink")『Disco De Oro』に収録されているDJ Spavento「Super Lover」が原曲。
-  - 2003年5月26日[HEY\!HEY\!HEY\!MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")。
+  - 2003年5月26日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。
   - 2003年11月22日[Ayu ready?に出演](../Page/Ayu_ready?.md "wikilink")。
 
 ## 収録曲

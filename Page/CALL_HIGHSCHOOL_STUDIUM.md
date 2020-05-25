@@ -1,15 +1,15 @@
 > この記事は[CALL HIGHSCHOOL STUDIUM](https://ja.wikipedia.org/wiki/CALL_HIGHSCHOOL_STUDIUM)から翻訳されています。
 
 
-『**CALL HIGHSCHOOL **』（コール・ハイスクール・スタジアム\[1\]）は、1992年11月から[山形放送](../Page/山形放送.md "wikilink")運営のYBCラジオで放送されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。[山形菱油の一社提供](https://ja.wikipedia.org/wiki/ヤマリョー "wikilink")。
+『**CALL HIGHSCHOOL **』（コール・ハイスクール・スタジアム\[1\]）は、1992年11月から[山形放送](../Page/山形放送.md "wikilink")運営のYBCラジオで放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。[山形菱油の一社提供](https://ja.wikipedia.org/wiki/ヤマリョー "wikilink")。
 
 ## 概要
 
-。「[宿題](https://ja.wikipedia.org/wiki/宿題 "wikilink")」と称して行われていたクイズコーナーでは、アイスクリームを食べる時間を当てたりしていた。
+。「[宿題](../Page/宿題.md "wikilink")」と称して行われていたクイズコーナーでは、アイスクリームを食べる時間を当てたりしていた。
 
 当初は水曜夜の放送で、、1993年のナイターシーズン以後は『[YBCエキサイトナイター](../Page/YBCエキサイトナイター.md "wikilink")』のレギュラー放送がない月曜夜の放送となった。
 
-。それから8年後の2004年10月3日に同局で放送された[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")『YBCおもしろ主義るっ！フェア』で、本番組の復活企画「**復活！CALL HIGHSCHOOL **」が行われた。
+。それから8年後の2004年10月3日に同局で放送された[特別番組](../Page/特別番組.md "wikilink")『YBCおもしろ主義るっ！フェア』で、本番組の復活企画「**復活！CALL HIGHSCHOOL **」が行われた。
 
 ## 放送時間
 
@@ -20,8 +20,8 @@
 
 ## パーソナリティ
 
-  - [門田和弘](https://ja.wikipedia.org/wiki/門田和弘 "wikilink")\[2\]（1992年11月 - 1996年3月）
-  - [江橋摩美](https://ja.wikipedia.org/wiki/江橋摩美 "wikilink")\[3\]（1992年11月 - 1996年3月）
+  - [門田和弘](../Page/門田和弘.md "wikilink")\[2\]（1992年11月 - 1996年9月）
+  - [江橋摩美](../Page/江橋摩美.md "wikilink")\[3\]（1992年11月 - 1996年3月）
   - [藤村径子](https://ja.wikipedia.org/wiki/藤村径子 "wikilink")（1996年4月 - 1996年9月）
 
 ## 脚注

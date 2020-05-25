@@ -1,4 +1,4 @@
-> この記事は[JET](https://ja.wikipedia.org/wiki/JET)から翻訳されています。
+> この記事は[ライデンファイターズJET](https://ja.wikipedia.org/wiki/ライデンファイターズJET)から翻訳されています。
 
 
 『**ライデンファイターズJET**』（ライデンファイターズジェット、**RAIDEN FIGHTERS JET**）は、[セイブ開発](../Page/セイブ開発.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に販売した[アーケード用縦スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。『[ライデンファイターズ](../Page/ライデンファイターズ.md "wikilink")』シリーズ3作目（『[雷電](../Page/雷電_\(シューティングゲーム\).md "wikilink")』シリーズでは6作目）。
@@ -72,4 +72,4 @@
       - MICLUS
       - SLAVE
 
-[Category:1998年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1998年のアーケードゲーム "wikilink") [Category:縦スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:縦スクロールシューティングゲーム "wikilink") [Category:飛行機を題材とした作品](https://ja.wikipedia.org/wiki/Category:飛行機を題材とした作品 "wikilink")
+[Category:1998年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1998年のアーケードゲーム "wikilink") [Category:縦スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:縦スクロールシューティングゲーム "wikilink") [Category:飛行機を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:飛行機を題材としたコンピュータゲーム "wikilink")

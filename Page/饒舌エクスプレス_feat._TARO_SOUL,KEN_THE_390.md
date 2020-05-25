@@ -1,4 +1,4 @@
-> この記事は[ feat. TARO SOUL,KEN THE 390](https://ja.wikipedia.org/wiki/_feat._TARO_SOUL,KEN_THE_390)から翻訳されています。
+> この記事は[饒舌エクスプレス feat. TARO SOUL,KEN THE 390](https://ja.wikipedia.org/wiki/饒舌エクスプレス_feat._TARO_SOUL,KEN_THE_390)から翻訳されています。
 
 
 **饒舌エクスプレス feat. TARO SOUL,KEN THE 390**（じょうぜつエクスプレス フィーチャリング.TARO SOUL,KEN THE 390）は、[マボロシ](../Page/マボロシ.md "wikilink")のメジャー6枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

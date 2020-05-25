@@ -5,9 +5,9 @@
 
 このソフトウェアにより，CCDカメラなどの検出器により得られたピクセル配列フォームの天体画像データを解析することができる。
 
-IRAFはほぼ全ての[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上で利用できる。[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")のOS向けに作成されたが、[Cygwin](../Page/Cygwin.md "wikilink")を用いることにより[Microsoft Windows上でも利用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。いくつかの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")においても利用可能である。
+IRAFはほぼ全ての[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上で利用できる。[Unix系](../Page/Unix系.md "wikilink")のOS向けに作成されたが、[Cygwin](../Page/Cygwin.md "wikilink")を用いることにより[Microsoft Windows上でも利用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。いくつかの[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")においても利用可能である。
 
-単一鏡の検出器によって得られたデータは一般的にIRAFを用いて解析されるが、[開口合成](https://ja.wikipedia.org/wiki/開口合成 "wikilink")によって得られたデータは[AIPS](https://ja.wikipedia.org/wiki/AIPS "wikilink") (Astronomical Image Processing System)もしくは[miriad](https://ja.wikipedia.org/wiki/miriad "wikilink")によって解析される。
+単一鏡の検出器によって得られたデータは一般的にIRAFを用いて解析されるが、[開口合成](../Page/開口合成.md "wikilink")によって得られたデータは[AIPS](https://ja.wikipedia.org/wiki/AIPS "wikilink") (Astronomical Image Processing System)もしくは[miriad](https://ja.wikipedia.org/wiki/miriad "wikilink")によって解析される。
 
 ## 外部リンク
 

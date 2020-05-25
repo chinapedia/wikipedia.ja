@@ -1,7 +1,7 @@
-> この記事は[Virgin \(\)](https://ja.wikipedia.org/wiki/Virgin_\(\))から翻訳されています。
+> この記事は[Virgin \(アルバム\)](https://ja.wikipedia.org/wiki/Virgin_\(アルバム\))から翻訳されています。
 
 
-「**Virgin**」（ヴァージン）は、日本の[ピアニスト](../Page/ピアニスト.md "wikilink")である[西村由紀江](https://ja.wikipedia.org/wiki/西村由紀江 "wikilink")の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+「**Virgin**」（ヴァージン）は、日本の[ピアニスト](../Page/ピアニスト.md "wikilink")である[西村由紀江](../Page/西村由紀江.md "wikilink")の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりリリースされた。
 
@@ -27,13 +27,13 @@
 10. 恋がくれたもの
 11. いつまでも
       -
-        [TBS系テレビドラマ](../Page/TBSテレビ.md "wikilink")『[輝け隣太郎](https://ja.wikipedia.org/wiki/輝け隣太郎 "wikilink")』で挿入曲として使用された。
+        [TBS系テレビドラマ](../Page/TBSテレビ.md "wikilink")『[輝け隣太郎](../Page/輝け隣太郎.md "wikilink")』で挿入曲として使用された。
 12. すき
 
 ## 楽譜
 
   - 監修： 西村由紀江
-  - 出版： [ヤマハミュージックメディア](https://ja.wikipedia.org/wiki/ヤマハミュージックメディア "wikilink")
+  - 出版： [ヤマハミュージックメディア](../Page/ヤマハミュージックメディア.md "wikilink")
   - 発売日： [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月](../Page/11月.md "wikilink")
   - ISBN 4-636-65034-4
 

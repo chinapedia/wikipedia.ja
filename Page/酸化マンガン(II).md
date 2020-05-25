@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[酸化マンガン\(II\)](https://ja.wikipedia.org/wiki/酸化マンガン\(II\))から翻訳されています。
 
 
 **酸化マンガン(II)**（さんかマンガン(II)、Manganese(II) oxide）は、[化学式](../Page/化学式.md "wikilink") MnO で表される[マンガン](https://ja.wikipedia.org/wiki/マンガン "wikilink")と[酸素](../Page/酸素.md "wikilink")の[化合物](../Page/化合物.md "wikilink")である。[緑マンガン鉱](../Page/緑マンガン鉱.md "wikilink")として天然に産出される。

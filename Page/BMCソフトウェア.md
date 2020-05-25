@@ -1,4 +1,4 @@
-> この記事は[BMC](https://ja.wikipedia.org/wiki/BMC)から翻訳されています。
+> この記事は[BMCソフトウェア](https://ja.wikipedia.org/wiki/BMCソフトウェア)から翻訳されています。
 
 
 **BMCソフトウェア**（[英](../Page/英語.md "wikilink"): BMC Software）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ビジネス](../Page/ビジネス.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")を中心とした製品展開を行っているソフトウェア企業。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")創業。本社は[ヒューストン](../Page/ヒューストン.md "wikilink")にある。
@@ -17,7 +17,7 @@ BMCソフトウェアは同社の使命を「顧客のIT基盤をビジネスに
 
 ## 沿革
 
-1970年代後半、後に BMCソフトウェアを創業する Scott Boulett、John Moores、Dan Cloer の3人は[ヒューストン](../Page/ヒューストン.md "wikilink")でプログラミングに関するパートナー契約を結んだ。1980年、それが会社として形を持つようになり、BMCソフトウェアが設立された。初代CEOの Moores は、[シェル石油でのIBMメインフレームのソフトウェア改良を行ったプログラマとしての経験があった](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")。1988年7月、BMCは[NASDAQ](../Page/NASDAQ.md "wikilink")への[株式公開](../Page/株式公開.md "wikilink")を果たした。
+1970年代後半、後に BMCソフトウェアを創業する Scott Boulett、John Moores、Dan Cloer の3人は[ヒューストン](../Page/ヒューストン.md "wikilink")でプログラミングに関するパートナー契約を結んだ。1980年、それが会社として形を持つようになり、BMCソフトウェアが設立された。初代CEOの Moores は、[シェル石油でのIBMメインフレームのソフトウェア改良を行ったプログラマとしての経験があった](../Page/ロイヤル・ダッチ・シェル.md "wikilink")。1988年7月、BMCは[NASDAQ](../Page/NASDAQ.md "wikilink")への[株式公開](../Page/株式公開.md "wikilink")を果たした。
 
 1987年、Moores はCEOの座を退き、Max Watson が後任となった。Moores は1992年に会長として引退し、Watson が後任の会長となった。1980年代、BMCはメインフレームの既存システムの改良に関する製品を主に提供していた。その後、企業買収を戦略的に行い、市場の変化に追随していった。
 
@@ -31,7 +31,7 @@ Watson の後任には製品開発管理担当の副社長だった Robert Beauc
 
   - BMC Remedy Service Management - [ITサービスマネジメント](../Page/ITサービスマネジメント.md "wikilink")
   - BMC Configuration Management - [変更管理](https://ja.wikipedia.org/wiki/変更管理 "wikilink")・[構成管理](../Page/構成管理.md "wikilink")
-  - BMC Operations Management - [ジョブ管理システム](https://ja.wikipedia.org/wiki/ジョブ管理システム "wikilink")
+  - BMC Operations Management - [ジョブ管理システム](../Page/ジョブ管理システム.md "wikilink")
   - BMC Application Management for SAP - [SAP R/3のアプリケーション管理](https://ja.wikipedia.org/wiki/SAP_R/3 "wikilink")
   - BMC Database Management - [DBMSの管理](../Page/データベース管理システム.md "wikilink")
   - BMC Infrastructure Management - [サーバ](../Page/サーバ.md "wikilink")の[OSやストレージなどの監視](../Page/オペレーティングシステム.md "wikilink")/管理

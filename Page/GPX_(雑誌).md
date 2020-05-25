@@ -11,7 +11,7 @@
 
 『[オートスポーツ](../Page/オートスポーツ.md "wikilink")』『[Racing On](../Page/Racing_On.md "wikilink")』などのモータースポーツ総合誌と比べても、情報の鮮度や迫力のあるグラビアといった見所があり、当時の[バブル景気](../Page/バブル景気.md "wikilink")に乗った[F1ブーム](../Page/F1ブーム.md "wikilink")にも助けられ、雑誌は好調な売れ行きを見せた。それを見た他社も『[F1速報](../Page/F1速報.md "wikilink")』（[ニューズ出版](../Page/ニューズ出版.md "wikilink")）、『[AS+F](https://ja.wikipedia.org/wiki/AS+F "wikilink")』（[三栄書房](https://ja.wikipedia.org/wiki/三栄書房 "wikilink")）などを筆頭に続々とF1速報誌を創刊し、一時はF1速報誌が乱立した時代もあった。とくに『GPS（グランプリスポーツ）』は誌名や判型がGPXに類似していた。
 
-しかし、その後[バブル崩壊](../Page/バブル崩壊.md "wikilink")と日本のF1人気の低下に伴い売上は徐々に減少し、15年目の[2001年](../Page/2001年.md "wikilink")シーズン限りで廃刊となった。廃刊の直接の原因は、一説には当時GPXの編集を担当していた[インターナショナルスポーツマーケティング](https://ja.wikipedia.org/wiki/インターナショナルスポーツマーケティング "wikilink")（[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")の子会社）と山海堂の契約交渉が決裂したことが原因と言われている。
+しかし、その後[バブル崩壊](../Page/バブル崩壊.md "wikilink")と日本のF1人気の低下に伴い売上は徐々に減少し、15年目の[2001年](../Page/2001年.md "wikilink")シーズン限りで廃刊となった。
 
 山海堂ではその後[2003年](../Page/2003年.md "wikilink")に、GPXと同様のコンセプトで編集された『Grand Prix Speed F』を創刊。[2004年](../Page/2004年.md "wikilink")からは[PDF形式によるWeb上での配信に移行した](../Page/Portable_Document_Format.md "wikilink")。同誌は[2005年](../Page/2005年.md "wikilink")に誌名を『週刊エフ』と改め、その後もWeb上での配信を続けていたが、[2007年](../Page/2007年.md "wikilink")12月に山海堂が倒産したため、それに伴い配信も停止された。
 

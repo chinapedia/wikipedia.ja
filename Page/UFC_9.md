@@ -5,7 +5,7 @@
 
 ## 大会概要
 
-従来の大会とは異なり、トーナメントは行われず全てワンマッチでの開催となった。メインイベントのスーパーファイト選手権試合では、[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")が[ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink")を破り第2代王者となるも、双方共に非常に消極的な試合をしたとして酷評された。
+従来の大会とは異なり、トーナメントは行われず全てワンマッチでの開催となった。メインイベントのスーパーファイト選手権試合では、[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")が[ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink")を破り第2代王者となるも、双方共に非常に消極的な試合をしたとして酷評された。
 
 [ロサンゼルスオリンピック](https://ja.wikipedia.org/wiki/ロサンゼルスオリンピック "wikilink")レスリング金メダリストの[マーク・シュルツ](https://ja.wikipedia.org/wiki/マーク・シュルツ "wikilink")、元[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")の[北尾光司](../Page/北尾光司.md "wikilink")がUFCに初出場した。
 
@@ -16,28 +16,28 @@
     1R 7:25 TKO（ドクターストップ）
   - 第2試合 UFCルール 15分1R
     ○  カル・ウォーシャム vs.  ジーン・フレジャー ×
-    1R 3:14 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 3:14 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第3試合 UFCルール 15分1R
     ○  ハファエル・カリーノ vs.  マット・アンダーソン ×
-    1R 5:32 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 5:32 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 UFCルール 15分1R
-    ○  [マーク・シュルツ](https://ja.wikipedia.org/wiki/マーク・シュルツ "wikilink") vs.  [ゲーリー・グッドリッジ](https://ja.wikipedia.org/wiki/ゲーリー・グッドリッジ "wikilink") ×
+    ○  [マーク・シュルツ](https://ja.wikipedia.org/wiki/マーク・シュルツ "wikilink") vs.  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") ×
     1R 12:00 TKO（レフェリーストップ：カット）
   - 第5試合 UFCルール 15分1R
     ○  マーク・ホール vs.  [北尾光司](../Page/北尾光司.md "wikilink") ×
     1R 0:40 TKO（ドクターストップ:鼻の骨折）
   - 第6試合 UFCルール 15分1R
-    ○  [ドン・フライ](https://ja.wikipedia.org/wiki/ドン・フライ "wikilink") vs.  アマウリ・ビテッチ ×
-    1R 9:22 TKO（レフェリーストップ：[グラウンドパンチ](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    ○  [ドン・フライ](../Page/ドン・フライ.md "wikilink") vs.  アマウリ・ビテッチ ×
+    1R 9:22 TKO（レフェリーストップ：[グラウンドパンチ](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 UFCスーパーファイト選手権試合 30分1R
-    ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [ケン・シャムロック](https://ja.wikipedia.org/wiki/ケン・シャムロック "wikilink") ×
+    ○  [ダン・スバーン](../Page/ダン・スバーン.md "wikilink") vs.  [ケン・シャムロック](../Page/ケン・シャムロック.md "wikilink") ×
     1R終了 判定2-1
     ※スバーンが王座獲得に成功。
 
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

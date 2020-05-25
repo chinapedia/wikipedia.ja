@@ -1,4 +1,4 @@
-> この記事は[SPEED KING \(\)](https://ja.wikipedia.org/wiki/SPEED_KING_\(\))から翻訳されています。
+> この記事は[SPEED KING \(曲\)](https://ja.wikipedia.org/wiki/SPEED_KING_\(曲\))から翻訳されています。
 
 
 「**SPEED KING**」（スピードキング）は、[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売。

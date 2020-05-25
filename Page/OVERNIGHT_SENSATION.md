@@ -11,12 +11,12 @@
 
 ## 収録曲
 
-1.  **OVERNIGHT SENSATION** - [安藤まさひろ作曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")／THE SQUARE編曲
-2.  **MAYBE I'M WRONG** - [伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")作曲／THE SQUARE、[Larry Williams編曲](../Page/ラリー・ウィリアムズ_\(ジャズ・ミュージシャン\).md "wikilink")
+1.  **OVERNIGHT SENSATION** - [安藤まさひろ作曲](../Page/安藤正容.md "wikilink")／THE SQUARE編曲
+2.  **MAYBE I'M WRONG** - [伊東たけし](../Page/伊東たけし.md "wikilink")作曲／THE SQUARE、[Larry Williams編曲](../Page/ラリー・ウィリアムズ_\(ジャズ・ミュージシャン\).md "wikilink")
 
 ## 参考文献
 
-  - 『T-SQUARE 25TH ANNIVERSARY 1976-2001』 [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")第1版発行、ISBN 4-8456-0732-8
+  - 『T-SQUARE 25TH ANNIVERSARY 1976-2001』 [リットーミュージック](../Page/リットーミュージック.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")第1版発行、ISBN 4-8456-0732-8
 
 ## 脚注
 
@@ -27,7 +27,7 @@
       -
         CD・スーパーオーディオCDのサイトともに『OVERNIGHT SENSATION』の一部分を30秒間試聴できる。
 
-[Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:T-SQUAREの楽曲](https://ja.wikipedia.org/wiki/Category:T-SQUAREの楽曲 "wikilink") [Category:1984年のシングル](https://ja.wikipedia.org/wiki/Category:1984年のシングル "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:TBSの主題歌](https://ja.wikipedia.org/wiki/Category:TBSの主題歌 "wikilink") [Category:T-SQUAREの楽曲](https://ja.wikipedia.org/wiki/Category:T-SQUAREの楽曲 "wikilink") [Category:1984年のシングル](https://ja.wikipedia.org/wiki/Category:1984年のシングル "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
 
 1.  『T-SQUARE 25TH ANNIVERSARY 1976-2001』、40頁。
 2.  『T-SQUARE 25TH ANNIVERSARY 1976-2001』、93頁。

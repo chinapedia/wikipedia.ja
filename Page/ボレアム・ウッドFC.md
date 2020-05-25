@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ボレアム・ウッドFC](https://ja.wikipedia.org/wiki/ボレアム・ウッドFC)から翻訳されています。
 
 
 **ボレアム・ウッド・フットボール・クラブ**（**Boreham Wood Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ハートフォードシャー州](https://ja.wikipedia.org/wiki/ハートフォードシャー州 "wikilink")[ボレアム・ウッド](https://ja.wikipedia.org/wiki/ボレアム・ウッド "wikilink")を本拠地とするサッカークラブチームである。2016-2017シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。

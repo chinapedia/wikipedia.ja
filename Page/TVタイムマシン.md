@@ -1,13 +1,13 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[TVタイムマシン](https://ja.wikipedia.org/wiki/TVタイムマシン)から翻訳されています。
 
 
-『**TVタイムマシン**』は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")から同年[9月21日](../Page/9月21日.md "wikilink")まで[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週月曜 19:30 - 20:00 ([JST](../Page/日本標準時.md "wikilink")) 。
+『**TVタイムマシン**』は、[1992年](../Page/1992年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")から同年[9月21日](../Page/9月21日.md "wikilink")まで[テレビ朝日系列局で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送時間は毎週月曜 19:30 - 20:00 ([JST](../Page/日本標準時.md "wikilink")) 。
 
 ## 概要
 
 番組タイトルが示す通り、過去の[テレビ番組](../Page/テレビ番組.md "wikilink")や[映画](../Page/映画.md "wikilink")などを各回のテーマに合わせて特集していた番組である。前番組『[ワリと普通な家族](../Page/ワリと普通な家族.md "wikilink")』までは[大塚製薬](../Page/大塚製薬.md "wikilink")の一社提供だったが、この番組は大塚製薬を含む複数社の提供で放送された。(大塚製薬以外の提供は毎回変わっていた)
 
-オープニングには[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の『[チェンジング・ステイツ](https://ja.wikipedia.org/wiki/ブラック・ムーン "wikilink")』が使われた。
+オープニングには[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の『[チェンジング・ステイツ](../Page/ブラック・ムーン.md "wikilink")』が使われた。
 
 エンディングテーマ：『Golden Summer』（MAGIC）
 
@@ -18,12 +18,12 @@
 ### 司会
 
   - [生島ヒロシ](../Page/生島ヒロシ.md "wikilink")
-  - [奥山佳恵](https://ja.wikipedia.org/wiki/奥山佳恵 "wikilink")
-  - [吉村作治](https://ja.wikipedia.org/wiki/吉村作治 "wikilink")　(第7、8回は休み)
+  - [奥山佳恵](../Page/奥山佳恵.md "wikilink")
+  - [吉村作治](../Page/吉村作治.md "wikilink")　(第7、8回は休み)
 
 ### ナレーター　
 
-  - [Kei Grant](https://ja.wikipedia.org/wiki/ケイ・グラント "wikilink")
+  - [Kei Grant](../Page/ケイ・グラント.md "wikilink")
 
 ## 各回の内容
 
@@ -31,21 +31,21 @@
   - 第2回　永遠のヒーロー　ウルトラマン
   - 第3回　汗と涙のスポ根ヒーロー大特集、ゲスト：[佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink")
   - 第4回　人気アニメヒロイン大特集、ゲスト：[TARAKO](../Page/TARAKO.md "wikilink")
-  - 第5回　恐怖と絶叫の怪奇モノ伝説、ゲスト：[稲川淳二](https://ja.wikipedia.org/wiki/稲川淳二 "wikilink")
+  - 第5回　恐怖と絶叫の怪奇モノ伝説、ゲスト：[稲川淳二](../Page/稲川淳二.md "wikilink")
   - 第6回　栄光のアクションヒーロー大特集
-  - 第7回　正義の戦士　仮面ライダー大特集！！、ゲスト：[京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")
+  - 第7回　正義の戦士　仮面ライダー大特集！！、ゲスト：[京本政樹](../Page/京本政樹.md "wikilink")
   - 第8回　超人・戦隊ヒーロー大特集！！、ゲスト：[伊集院光](../Page/伊集院光.md "wikilink")
   - 第9回　傑作感動アニメ大特集！、ゲスト：[西村知美](https://ja.wikipedia.org/wiki/西村知美 "wikilink")
-  - 第10回　熱血！ゴジラ大特集！！、ゲスト：[風見しんご](https://ja.wikipedia.org/wiki/風見しんご "wikilink")
+  - 第10回　熱血！ゴジラ大特集！！、ゲスト：[風見しんご](../Page/風見しんご.md "wikilink")
   - 第11回　ウルトラＱ　ウルトラマン　ウルトラシリーズ大特集！、ゲスト：[中山秀征](../Page/中山秀征.md "wikilink")
-  - 第12回　ＳＦロボットアニメ★大特集！、ゲスト：[内海光司](https://ja.wikipedia.org/wiki/内海光司 "wikilink")
+  - 第12回　ＳＦロボットアニメ★大特集！、ゲスト：[内海光司](../Page/内海光司.md "wikilink")
 
 ## スタッフ
 
   - 構成　[峯一雄](../Page/峯一雄.md "wikilink")、土井芳、根田真児
   - 調査　森正行、本宮誉泰
   - 技術　高木敏文（TD）、吉村和重（カメラ）、金野勝（VE）、土田全厚（VTR）、永瀬正行（照明）、橋爪繁輝（音声）
-  - 編集・MA　[オムニバス・ジャパン](https://ja.wikipedia.org/wiki/オムニバス・ジャパン "wikilink")
+  - 編集・MA　[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
   - 音響効果　門脇弘幸
   - ＴＫ　渓口美保子
   - 美術　吉木崇
@@ -167,7 +167,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td></td>
 <td></td>
@@ -204,7 +204,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鹿児島県" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島放送.md" title="wikilink">鹿児島放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 <td><p>同時ネット</p></td>

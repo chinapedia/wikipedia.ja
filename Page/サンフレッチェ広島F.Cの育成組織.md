@@ -436,7 +436,7 @@
 
 ### ノウハウとその評価
 
-{{ external media | topic = | align = | width = 280px | video1 = [サッカー国際大会開会式を盛り上げたサンフレッチェユース劇場](https://www.youtube.com/watch?v=2AiMjHJwjL8) - 当時フィジカルアドバイザーを務めた[木場克己](https://ja.wikipedia.org/wiki/木場克己 "wikilink")がアップロードした動画。中心人物は[大谷真史](https://ja.wikipedia.org/wiki/大谷真史 "wikilink")。当時[やべっちFCでも取り上げられている](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")。 }} トップチームの[2012年](https://ja.wikipedia.org/wiki/2012年のJリーグ "wikilink")・[2013年のJリーグ](https://ja.wikipedia.org/wiki/2013年のJリーグ "wikilink")連覇の要因の一つとなったことから、またこれらは比較的小さいクラブ財政基盤での戦力強化モデルであることから、その育成[ノウハウがお手本として注目されており](../Page/手続き的知識.md "wikilink")、他からの問い合わせに対し広島側はそのノウハウを全面的に公開している。例えば、[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")は2005年"スカラーアスリートプロジェクト"を立ち上げたがベースとなったのが広島の育成ノウハウであり、[鹿島アントラーズも寮整備と高校との連携の際には参考にしたという](https://ja.wikipedia.org/wiki/鹿島アントラーズのアカデミー "wikilink")。[城里町](../Page/城里町.md "wikilink")と[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")は[アツマーレ整備の際に](https://ja.wikipedia.org/wiki/七会町民センター "wikilink")、吉田町とサンフレッチェとの関係性に着目している。
+{{ external media | topic = | align = | width = 280px | video1 = [サッカー国際大会開会式を盛り上げたサンフレッチェユース劇場](https://www.youtube.com/watch?v=2AiMjHJwjL8) - 当時フィジカルアドバイザーを務めた[木場克己](https://ja.wikipedia.org/wiki/木場克己 "wikilink")がアップロードした動画。中心人物は[大谷真史](../Page/大谷真史.md "wikilink")。当時[やべっちFCでも取り上げられている](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")。 }} トップチームの[2012年](https://ja.wikipedia.org/wiki/2012年のJリーグ "wikilink")・[2013年のJリーグ](https://ja.wikipedia.org/wiki/2013年のJリーグ "wikilink")連覇の要因の一つとなったことから、またこれらは比較的小さいクラブ財政基盤での戦力強化モデルであることから、その育成[ノウハウがお手本として注目されており](../Page/手続き的知識.md "wikilink")、他からの問い合わせに対し広島側はそのノウハウを全面的に公開している。例えば、[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")は2005年"スカラーアスリートプロジェクト"を立ち上げたがベースとなったのが広島の育成ノウハウであり、[鹿島アントラーズも寮整備と高校との連携の際には参考にしたという](https://ja.wikipedia.org/wiki/鹿島アントラーズのアカデミー "wikilink")。[城里町](../Page/城里町.md "wikilink")と[水戸ホーリーホック](../Page/水戸ホーリーホック.md "wikilink")は[アツマーレ整備の際に](https://ja.wikipedia.org/wiki/七会町民センター "wikilink")、吉田町とサンフレッチェとの関係性に着目している。
 
 ノウハウ公開と平行して、研修などを目的とした短期間の受け入れも行っている。例えば、[フィッツジェラルド舞行龍ジェームズ](https://ja.wikipedia.org/wiki/フィッツジェラルド舞行龍ジェームズ "wikilink")は2004年15歳当時広島ユースで短期間受け入れ、これが縁で日本の高校に通いプロ入りし日本に帰化している。
 
@@ -1175,7 +1175,7 @@
 
       - [米沢健吾](https://ja.wikipedia.org/wiki/米沢健吾 "wikilink") - びJY
   - 1994年度生まれ
-      - [大谷真史](https://ja.wikipedia.org/wiki/大谷真史 "wikilink") - Y,JY
+      - [大谷真史](../Page/大谷真史.md "wikilink") - Y,JY
       - [加藤潤也](https://ja.wikipedia.org/wiki/加藤潤也 "wikilink") - 常JY
       - [國分伸太郎](https://ja.wikipedia.org/wiki/國分伸太郎 "wikilink") - びJY
       - [塚川孝輝](https://ja.wikipedia.org/wiki/塚川孝輝 "wikilink") - JY

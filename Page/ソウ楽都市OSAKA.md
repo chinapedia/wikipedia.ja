@@ -1,7 +1,7 @@
-> この記事は[OSAKA](https://ja.wikipedia.org/wiki/OSAKA)から翻訳されています。
+> この記事は[ソウ楽都市OSAKA](https://ja.wikipedia.org/wiki/ソウ楽都市OSAKA)から翻訳されています。
 
 
-『**奏（騒）楽都市OSAKA**』\[1\]（そうがくとし おおさか）は、[川上稔](https://ja.wikipedia.org/wiki/川上稔 "wikilink")の代表作『[都市シリーズ](https://ja.wikipedia.org/wiki/都市シリーズ "wikilink")』のひとつ。
+『**奏（騒）楽都市OSAKA**』\[1\]（そうがくとし おおさか）は、[川上稔](../Page/川上稔.md "wikilink")の代表作『[都市シリーズ](../Page/都市シリーズ.md "wikilink")』のひとつ。
 
 ## 概要
 
@@ -26,17 +26,17 @@
 #### 地域
 
   - 大阪圏（おおさかけん）
-    [都市世界](https://ja.wikipedia.org/wiki/都市世界 "wikilink")における[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の都市、[大阪](../Page/大阪.md "wikilink")のこと。
+    [都市世界](../Page/都市世界.md "wikilink")における[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の都市、[大阪](../Page/大阪.md "wikilink")のこと。
     西日本の中心であり、1983年（本編の13年前）に起きた近畿動乱以来、東日本と敵対している。IXOLDEの開発による最強神器の開発を長年の悲願としており、本編の戦いはそれによって起こったもの。
   - 古都圏（ことけん）
-    都市世界における日本の都市、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")である京都圏と、同じく日本の都市、[奈良](https://ja.wikipedia.org/wiki/奈良 "wikilink")である奈良圏が1970年に併合してできた都市のこと。
+    都市世界における日本の都市、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")である京都圏と、同じく日本の都市、[奈良](../Page/奈良.md "wikilink")である奈良圏が1970年に併合してできた都市のこと。
     西日本の有力な都市の一つで、特に南大門神社は古都圏の総意に強く影響する勢力である。その南大門神社の主張もあって大阪圏のIXOLDE完成と最強神器開発に反対しており、今回の開発立ち会いも監視としての意味合いが強い。
   - 名護屋圏（なごやけん）
     都市世界における日本の都市、[名古屋](../Page/名古屋.md "wikilink")のこと。都市名は「戦国都市-名護屋」。
     日本の東西を分ける位置にあり、常に実戦・情報戦が繰り広げられる激戦区として知られる。どちらかといえば大阪圏に協力的であり、今回の最強神器開発に唯一、他意無く立ち会った。
   - 東京圏（とうきょうけん）
-    都市世界における日本の首都、[東京](https://ja.wikipedia.org/wiki/東京 "wikilink")のこと。都市名は「矛盾都市-東京」。
-    東日本の中心であり、近畿動乱以来、大阪とは敵対を続けている。ここが舞台となるのが[矛盾都市TOKYO](https://ja.wikipedia.org/wiki/矛盾都市TOKYO "wikilink")。
+    都市世界における日本の首都、[東京](../Page/東京.md "wikilink")のこと。都市名は「矛盾都市-東京」。
+    東日本の中心であり、近畿動乱以来、大阪とは敵対を続けている。ここが舞台となるのが[矛盾都市TOKYO](../Page/矛盾都市TOKYO.md "wikilink")。
   - 冬に咲く桜並木
     略して「冬桜」とも。大阪圏のどこかにあるとされる並木道。
     近畿動乱の引き金となった場所で、近畿動乱中に大阪圏・東京圏の総長がそれを見て「全ての不幸」と呼んだ。葵・聖が探している。
@@ -105,7 +105,7 @@
 
   - 陽坂・勝意（ひさか・しょうい）
     本編の主人公。字名：己の詞を持たない少年。戦種：近接格闘師。舞闘：南大門無手派。
-    飄々としたいい加減な性格で、かなりエロい。しかし夕樹の事になると必死になる、意思の強さがある。元南大門[食客](https://ja.wikipedia.org/wiki/食客 "wikilink")を勤め、夕樹の恋人になる。しかし「勝意が夕樹を護る」という約束を守れず、強襲してきた山下・義兵を夕樹に殺させて以来、離反されている。その時の負傷が額に残っている為、額にバンダナを巻いている。15歳から2年間、御山で修行するも総長連合に入れなかったという異様な経歴がある。かつて西日本中学空手選手権で優勝し、予備動作無しで5m以上の跳躍技能が出来る実力者。
+    飄々としたいい加減な性格で、かなりエロい。しかし夕樹の事になると必死になる、意思の強さがある。元南大門[食客](../Page/食客.md "wikilink")を勤め、夕樹の恋人になる。しかし「勝意が夕樹を護る」という約束を守れず、強襲してきた山下・義兵を夕樹に殺させて以来、離反されている。その時の負傷が額に残っている為、額にバンダナを巻いている。15歳から2年間、御山で修行するも総長連合に入れなかったという異様な経歴がある。かつて西日本中学空手選手権で優勝し、予備動作無しで5m以上の跳躍技能が出来る実力者。
     山下・義兵死亡の際に負傷で気絶しており、夕樹の殺人に関しての記憶が無い。そこに隠された事実があるらしい。
   - 結城・夕樹（ゆうき・ゆうき）
     肩書：古都圏総長・古都圏守護役。字名：殺括者。戦種：遠隔神術師。神器：水神・凍神・霊帝。舞闘：南大門神術派。
@@ -163,7 +163,7 @@
   - 平野（ひらの）
     大阪圏副長。登場する前に久秀によってKOされた。
   - 藤原（ふじわら）
-    [華厳の滝](https://ja.wikipedia.org/wiki/華厳の滝 "wikilink")に潜り、闇の中に咲く白い花を目撃する。
+    [華厳の滝に潜り](../Page/華厳滝.md "wikilink")、闇の中に咲く白い花を目撃する。
 
 ### 登場機械
 
@@ -187,7 +187,7 @@
 
 ## ゲーム
 
-[キングレコード](../Page/キングレコード.md "wikilink")より1999年3月11日発売の[PlayStation用ソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。2010年7月28日より[ガンホー・オンライン・エンターテイメント](https://ja.wikipedia.org/wiki/ガンホー・オンライン・エンターテイメント "wikilink")から[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation Portable向けの](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")ソフトとして配信中。
+[キングレコード](../Page/キングレコード.md "wikilink")より1999年3月11日発売の[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。2010年7月28日より[ガンホー・オンライン・エンターテイメント](../Page/ガンホー・オンライン・エンターテイメント.md "wikilink")から[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation Portable向けの](../Page/PlayStation_Portable.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")ソフトとして配信中。
 
 ### あらすじ
 
@@ -196,22 +196,22 @@
 ### 登場キャラクター
 
   - 九条・句刻
-    [声](../Page/声優.md "wikilink") - [柳瀬なつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")
+    [声](../Page/声優.md "wikilink") - [柳瀬なつみ](../Page/やなせなつみ.md "wikilink")
     大阪府立第一高校一年生。大阪圏守護役・九条家の次女。お隣さん。
   - グレアン・クーラーズ
-    声 - [遠藤みやこ](https://ja.wikipedia.org/wiki/遠藤みやこ "wikilink")
+    声 - [遠藤みやこ](../Page/遠藤みやこ.md "wikilink")
     私立南大門学院大阪校女子部二年生。英国からの留学生。猫人。使う神器は凍王。
   - 辻巻・元治
     声 - [石川英郎](../Page/石川英郎.md "wikilink")
     大阪府立第二高校二年生。使う神器は裂帝。
   - 光・明晃
-    声 - [夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+    声 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")
     私立聖六鎖学院二年生。使う神器は光王。
   - 九条・文音
-    声 - [永島由子](https://ja.wikipedia.org/wiki/永島由子 "wikilink")
+    声 - [永島由子](../Page/永島由子.md "wikilink")
     大阪府立第二高校三年生。大阪守護役。言霊師。
   - 岩井・参仁
-    声 - [江原正士](https://ja.wikipedia.org/wiki/江原正士 "wikilink")
+    声 - [江原正士](../Page/江原正士.md "wikilink")
     私立南大門学院大坂校男子部三年生。豪商の一人息子。
   - 叶・綾
     声 - [久川綾](../Page/久川綾.md "wikilink")
@@ -220,7 +220,7 @@
     声 - [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")
     図書館司書。大阪府立第一付属高校所属。叶・綾の同窓で、総長連合OG。
   - ゴーカイ・サンダンス
-    声 - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    声 - [立木文彦](../Page/立木文彦.md "wikilink")
     大阪府立高校第一食堂店主。元御山教官にして叶・綾の師匠。
   - 中村・浩一郎
     声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
@@ -236,14 +236,14 @@
     声 - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
     鋼言詞研究所所長。
   - GN・TXT
-    声 - [住友七絵](https://ja.wikipedia.org/wiki/住友七絵 "wikilink")
+    声 - [住友七絵](../Page/住友七絵.md "wikilink")
     鋼・史郎の助手。叶・綾、久山・枝下と大学時代の同窓。
   - 大野木・庄司
     声 - [屋良有作](../Page/屋良有作.md "wikilink")
     大阪中央放送局局長。安・意の弟子であり、鋼・史郎、光・欣一とは同窓。
     元大阪圏総長連合第一特務隊長。
   - 光・欣一
-    声 - [増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")
+    声 - [増谷康紀](../Page/増谷康紀.md "wikilink")
     大阪中央放送局対外部長。光・明晃の父親。安・意の弟子であり、鋼・史郎、光・欣一とは同窓。
     元大阪圏副長。
   - 河内・善
@@ -255,21 +255,21 @@
   - ワイルド・サンダーアーム
     声 - [井上隆之](../Page/井上隆之.md "wikilink")
   - 孔・トスカ
-    声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    声 - [福山潤](../Page/福山潤.md "wikilink")
   - 宝重院・栄
     声 - [藤野ともこ](https://ja.wikipedia.org/wiki/藤野ともこ "wikilink")
   - 崎・竜胆
     声 - 藤野ともこ
   - 平野・一蔵
-    声 - [今村直樹](https://ja.wikipedia.org/wiki/今村直樹 "wikilink")
+    声 - [今村直樹](../Page/今村直樹.md "wikilink")
   - 平野・二蔵
-    声 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+    声 - [高塚正也](../Page/高塚正也.md "wikilink")
   - 平野・三郎
     声 - [渡辺和彦](https://ja.wikipedia.org/wiki/渡辺和彦 "wikilink")
   - 島・宗憲
     声 - [吉本収一郎](https://ja.wikipedia.org/wiki/吉本収一郎 "wikilink")
   - なにわころく
-    声 - [西脇保](https://ja.wikipedia.org/wiki/西脇保 "wikilink")
+    声 - [西脇保](../Page/西脇保.md "wikilink")
 
 ## 作品リスト
 
@@ -299,6 +299,6 @@
 
   - [奏（騒）楽都市OSAKA](http://www.jp.playstation.com/software/title/jp0747npjj00421_000000000000000001.html)（ゲームアーカイブスソフト紹介）
 
-[Category:都市世界](https://ja.wikipedia.org/wiki/Category:都市世界 "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:キングレコードのゲームソフト](https://ja.wikipedia.org/wiki/Category:キングレコードのゲームソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink") [Category:大阪市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大阪市を舞台とした作品 "wikilink") [Category:Unicodeに存在しない文字](https://ja.wikipedia.org/wiki/Category:Unicodeに存在しない文字 "wikilink")
+[Category:都市世界](https://ja.wikipedia.org/wiki/Category:都市世界 "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:キングレコードのゲームソフト](https://ja.wikipedia.org/wiki/Category:キングレコードのゲームソフト "wikilink") [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink") [Category:大阪市を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:大阪市を舞台としたコンピュータゲーム "wikilink") [Category:Unicodeに存在しない文字](https://ja.wikipedia.org/wiki/Category:Unicodeに存在しない文字 "wikilink")
 
 1.  本来は「奏」の下に「騒」が来る一字の漢字だが、これは川上の[創作漢字](https://ja.wikipedia.org/wiki/創作漢字 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ THE FIRST MISSION](https://ja.wikipedia.org/wiki/_THE_FIRST_MISSION)から翻訳されています。
+> この記事は[アイギス THE FIRST MISSION](https://ja.wikipedia.org/wiki/アイギス_THE_FIRST_MISSION)から翻訳されています。
 
 
 『**アイギス THE FIRST MISSION**』（アイギス ザ・ファーストミッション）は、ビービーエムエフ（現・[menue](https://ja.wikipedia.org/wiki/menue "wikilink")）より[アトラスモバイルコンテンツ](../Page/アトラスモバイルコンテンツ.md "wikilink")から配信されている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[モバイルゲーム](https://ja.wikipedia.org/wiki/モバイルゲーム "wikilink")。

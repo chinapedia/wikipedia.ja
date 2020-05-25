@@ -1,7 +1,7 @@
-> この記事は[ date show](https://ja.wikipedia.org/wiki/_date_show)から翻訳されています。
+> この記事は[ワガママ date show](https://ja.wikipedia.org/wiki/ワガママ_date_show)から翻訳されています。
 
 
-『**ワガママ date show**』（ワガママ デート ショー）は、[声優](../Page/声優.md "wikilink")の[新谷良子](../Page/新谷良子.md "wikilink")が[Lantisよりリリースした](https://ja.wikipedia.org/wiki/ランティス "wikilink")1st[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")である。3ヶ月連続リリースの第1弾。品番はLACM-4104。
+『**ワガママ date show**』（ワガママ デート ショー）は、[声優](../Page/声優.md "wikilink")の[新谷良子](../Page/新谷良子.md "wikilink")が[Lantisよりリリースした](../Page/ランティス.md "wikilink")1st[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")である。3ヶ月連続リリースの第1弾。品番はLACM-4104。
 
 ## 収録曲
 
@@ -9,7 +9,7 @@
       - 作詞・作曲・編曲：[R・O・N](../Page/R・O・N.md "wikilink")
 2.  ワガママ date show (off vocal)
 3.  **ランチBOX〜初級編〜** \[1:16\]
-      - 作詞・作曲:[ゆうまお](https://ja.wikipedia.org/wiki/ゆうまお "wikilink")　編曲：R・O・N
+      - 作詞・作曲:[ゆうまお](../Page/ゆうまお.md "wikilink")　編曲：R・O・N
 
 ## 外部リンク
 

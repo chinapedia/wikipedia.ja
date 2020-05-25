@@ -1150,7 +1150,7 @@
 </tr>
 <tr class="odd">
 <td><p>71</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東海道五十三次_(ゲーム)" title="wikilink">かんしゃく玉なげカン太郎の東海道五十三次</a></p></td>
+<td><p><a href="../Page/かんしゃく玉なげカン太郎の東海道五十三次.md" title="wikilink">かんしゃく玉なげカン太郎の東海道五十三次</a></p></td>
 <td><p>ステージ1 忍者2人倒してタイムトライアル</p></td>
 <td><p>岩崎（Hi-Hi）</p></td>
 <td><p>24秒01</p></td>

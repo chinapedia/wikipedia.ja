@@ -1,17 +1,17 @@
-> この記事は[JOY \(YUKI\)](https://ja.wikipedia.org/wiki/JOY_\(YUKI\))から翻訳されています。
+> この記事は[JOY \(YUKIの曲\)](https://ja.wikipedia.org/wiki/JOY_\(YUKIの曲\))から翻訳されています。
 
 
-「**JOY**」（ジョイ）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")にリリースされた[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")9thシングル。
+「**JOY**」（ジョイ）は[2005年](../Page/2005年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")にリリースされた[YUKIの](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")9thシングル。
 
 ## 概要
 
 2005年第1弾シングルであり、3rdアルバム『[joy](https://ja.wikipedia.org/wiki/joy_\(YUKIのアルバム\) "wikilink")』の先行シングル。アコースティック感の強いYUKIの楽曲群においては異色と言える、[DTM](https://ja.wikipedia.org/wiki/DTM "wikilink")による打ち込み中心の編曲が行われている。
 
-YUKIが全身黒タイツのダンサーと独特なダンスを踊る[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が話題となり、この楽曲がテレビ出演などのメディア露出が増えるきっかけとなった\[1\]。
+YUKIが全身黒タイツのダンサーと独特なダンスを踊る[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が話題となり、この楽曲がテレビ出演などのメディア露出が増えるきっかけとなった\[1\]。
 
-またシングルCD収録の「Mutiny's Club Voc」と「Eric Kupper Club Mix」に、両リミキサーのDub Mixを加えた[ハウス](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")の[アナログ盤が](../Page/レコード.md "wikilink")、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")のレーベル「BPM King Street Sounds」から発売され、日本でも輸入盤として販売された。
+またシングルCD収録の「Mutiny's Club Voc」と「Eric Kupper Club Mix」に、両リミキサーのDub Mixを加えた[ハウス](../Page/ハウス_\(音楽\).md "wikilink")[リミックス](../Page/リミックス.md "wikilink")の[アナログ盤が](../Page/レコード.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のレーベル「BPM King Street Sounds」から発売され、日本でも輸入盤として販売された。
 
-作曲した[蔦谷好位置](https://ja.wikipedia.org/wiki/蔦谷好位置 "wikilink")のバンド時代（[CANNABIS](https://ja.wikipedia.org/wiki/CANNABIS "wikilink")）から曲の原型は存在していたが、レコード会社に全否定され、バンド解散後にいろいろなところに持ち込むも、どこからも良い答えがもらえなかった\[2\]。そんな中、シングル曲を決めるコンペでYUKIに「こんな曲を10年待っていた」と言ってもらえ、採用されることになった\[3\]。
+作曲した[蔦谷好位置](../Page/蔦谷好位置.md "wikilink")のバンド時代（[CANNABIS](https://ja.wikipedia.org/wiki/CANNABIS "wikilink")）から曲の原型は存在していたが、レコード会社に全否定され、バンド解散後にいろいろなところに持ち込むも、どこからも良い答えがもらえなかった\[2\]。そんな中、シングル曲を決めるコンペでYUKIに「こんな曲を10年待っていた」と言ってもらえ、採用されることになった\[3\]。
 
 当初は産休後の再始動第一弾の7thシングルに予定されていたが、YUKIのこだわりから歌詞の変更なども行われて後に9枚目シングルとしてリリースされた\[4\]。
 
@@ -19,11 +19,11 @@ YUKIが全身黒タイツのダンサーと独特なダンスを踊る[ミュー
 
 当初は再始動第一弾シングルに予定されていた楽曲であることもあり、ライブでは発売前から何度か披露されていた。
 
-歌詞について、例えばリリースでは「運命は必然*じゃなく*偶然で出来てる」となっていた箇所がライブでは「運命は必然*という*偶然で出来てる」となっているなど、一部に変更が加えられている。YUKIは音楽番組『[ゴゴイチ\! 〜SPACE SHOWER CHART SHOW〜](https://ja.wikipedia.org/wiki/ゴゴイチ!_〜SPACE_SHOWER_CHART_SHOW〜 "wikilink")』の中で、今後は後者の歌詞で歌うと宣言している。
+歌詞について、例えばリリースでは「運命は必然*じゃなく*偶然で出来てる」となっていた箇所がライブでは「運命は必然*という*偶然で出来てる」となっているなど、一部に変更が加えられている。YUKIは音楽番組『[ゴゴイチ\! 〜SPACE SHOWER CHART SHOW〜](../Page/ゴゴイチ!_〜SPACE_SHOWER_CHART_SHOW〜.md "wikilink")』の中で、今後は後者の歌詞で歌うと宣言している。
 
 ## PV
 
-[PVは全身](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[黒タイツ](https://ja.wikipedia.org/wiki/黒タイツ "wikilink")を履いたダンサーのなかでYUKIが踊るというもの。YUKI独特の感性と完成度の高さから[SPACE SHOWER MVA](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink") 06 BEST VIDEO OF THE YEARを受賞した。
+[PVは全身](../Page/ミュージック・ビデオ.md "wikilink")[黒タイツ](https://ja.wikipedia.org/wiki/黒タイツ "wikilink")を履いたダンサーのなかでYUKIが踊るというもの。YUKI独特の感性と完成度の高さから[SPACE SHOWER MVA](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink") 06 BEST VIDEO OF THE YEARを受賞した。
 
 監督は[中村剛が手がけた](../Page/中村剛_\(映像ディレクター\).md "wikilink")。
 
@@ -32,7 +32,7 @@ YUKIが全身黒タイツのダンサーと独特なダンスを踊る[ミュー
 ### CDシングル
 
 1.  **JOY**
-      - 作詞：YUKI・[蔦谷好位置](https://ja.wikipedia.org/wiki/蔦谷好位置 "wikilink")／作曲：蔦谷好位置／編曲：[田中ユウスケ](https://ja.wikipedia.org/wiki/田中ユウスケ "wikilink")・[湯浅篤](https://ja.wikipedia.org/wiki/湯浅篤 "wikilink")
+      - 作詞：YUKI・[蔦谷好位置](../Page/蔦谷好位置.md "wikilink")／作曲：蔦谷好位置／編曲：[田中ユウスケ](../Page/田中ユウスケ.md "wikilink")・[湯浅篤](../Page/湯浅篤.md "wikilink")
 2.  **JOY -MUTINY'S CLUB VOC.-**
       - 編曲：Mutiny
 3.  **JOY -Eric Kupper Club Mix-**

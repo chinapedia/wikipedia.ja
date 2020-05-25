@@ -1,17 +1,17 @@
-> この記事は[a.k.a.SANTA](https://ja.wikipedia.org/wiki/a.k.a.SANTA)から翻訳されています。
+> この記事は[阿部徹a.k.a.SANTA](https://ja.wikipedia.org/wiki/阿部徹a.k.a.SANTA)から翻訳されています。
 
 
-**阿部徹a.k.aSANTA**（アベトオル・アズ・ノウン・アズ・サンタ、[1975年](../Page/1975年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink") - ）は、日本の[ドラマー](../Page/ドラマー.md "wikilink")。[山口県](../Page/山口県.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")・[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長・180cm。[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")のドラマーとして1999年にデビュー。当時の芸名はSANTA（サンタ）。本名・阿部徹（アベトオル）
+**阿部徹a.k.aSANTA**（アベトオル・アズ・ノウン・アズ・サンタ、[1975年](../Page/1975年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink") - ）は、日本の[ドラマー](../Page/ドラマー.md "wikilink")。[山口県](../Page/山口県.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")・[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長・180cm。[Λucifer](../Page/Λucifer.md "wikilink")のドラマーとして1999年にデビュー。当時の芸名はSANTA（サンタ）。本名・阿部徹（アベトオル）
 
 ## 来歴
 
   - 中学生時代、吹奏楽部に所属した事をきっかけに、ドラムを始める。
-  - 1999年、アンリミテッドレコードより[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")のドラマーSANTAとしてデビュー。
+  - 1999年、アンリミテッドレコードより[Λucifer](../Page/Λucifer.md "wikilink")のドラマーSANTAとしてデビュー。
   - 同年より、楽器製造メーカー[星野楽器](../Page/星野楽器.md "wikilink")の[ドラムセット](../Page/ドラムセット.md "wikilink")ブランドTAMAのモニターとなる。
-  - 2003年、[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")解散。
+  - 2003年、[Λucifer](../Page/Λucifer.md "wikilink")解散。
   - 2005年、[バンドOlive](../Page/バンド_\(音楽\).md "wikilink") Sundayを結成。
   - 2006年、結婚。
-  - 2009年、[Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")再結成。
+  - 2009年、[Λucifer](../Page/Λucifer.md "wikilink")再結成。
 
 ## アーティストサポート
 
@@ -27,11 +27,11 @@
 
 <!-- end list -->
 
-  - [清水翔太](https://ja.wikipedia.org/wiki/清水翔太 "wikilink")（Umbrella tour 2009 etc...）
+  - [清水翔太](../Page/清水翔太.md "wikilink")（Umbrella tour 2009 etc...）
 
 <!-- end list -->
 
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")（LIVE TOUR 2014 - THE ENTERTAINER 　KAGOSHIMA）
+  - [三浦大知](../Page/三浦大知.md "wikilink")（LIVE TOUR 2014 - THE ENTERTAINER 　KAGOSHIMA）
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [越中睦](https://ja.wikipedia.org/wiki/越中睦士 "wikilink")（REC・LIVE）
+  - [越中睦](../Page/越中睦士.md "wikilink")（REC・LIVE）
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - [軍鶏](https://ja.wikipedia.org/wiki/軍鶏 "wikilink")（REC・LIVE）
+  - [軍鶏](../Page/軍鶏.md "wikilink")（REC・LIVE）
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 
 <!-- end list -->
 
-  - [はるな愛](https://ja.wikipedia.org/wiki/はるな愛 "wikilink")（LIVE）
+  - [はるな愛](../Page/はるな愛.md "wikilink")（LIVE）
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 
 <!-- end list -->
 
-  - [ステファニー](https://ja.wikipedia.org/wiki/ステファニー "wikilink")（TV)
+  - [ステファニー](../Page/ステファニー.md "wikilink")（TV)
 
 <!-- end list -->
 
@@ -135,7 +135,7 @@
   - [MICHAEL](https://ja.wikipedia.org/wiki/MICHAEL_\(バンド\) "wikilink")
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")
   - [越中睦](https://ja.wikipedia.org/wiki/越中睦 "wikilink")
-  - [Λucifer](https://ja.wikipedia.org/wiki/Λucifer "wikilink")
+  - [Λucifer](../Page/Λucifer.md "wikilink")
 
 ## 外部リンク
 

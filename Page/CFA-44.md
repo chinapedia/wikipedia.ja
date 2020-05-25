@@ -1,17 +1,17 @@
 > この記事は[CFA-44](https://ja.wikipedia.org/wiki/CFA-44)から翻訳されています。
 
 
-**CFA-44 ノスフェラト**（）は、[バンダイナムコゲームス（後のバンダイナムコエンターテインメント）の](../Page/バンダイナムコエンターテインメント.md "wikilink")[Xbox 360用](../Page/Xbox_360.md "wikilink")[フライトシューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム#3Dシューティングゲーム "wikilink")『[ACE COMBAT 6 解放への戦火](https://ja.wikipedia.org/wiki/エースコンバット6_解放への戦火 "wikilink")』、同[PlayStation 3およびXbox](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") 360用『[ACE COMBAT ASSAULT HORIZON](https://ja.wikipedia.org/wiki/エースコンバット_アサルト・ホライゾン "wikilink")』、同PlayStation 3専用『[エースコンバット インフィニティ](https://ja.wikipedia.org/wiki/エースコンバット_インフィニティ "wikilink")』、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[マッハストーム](https://ja.wikipedia.org/wiki/マッハストーム "wikilink")』、小説『エースコンバット イカロス・イン・ザ・スカイ（ACE COMBAT IKAROS IN THE SKY）』に登場する[架空](../Page/架空.md "wikilink")の[軍用機](../Page/軍用機.md "wikilink")。愛称の[ノスフェラトとは](https://ja.wikipedia.org/wiki/ノスフェラトゥ "wikilink")、[ルーマニア語](../Page/ルーマニア語.md "wikilink")で[吸血鬼](../Page/吸血鬼.md "wikilink")を意味するが、公式には不死者の意とされている。登場各作品は舞台となる世界観が異なり、本機の設定もそれに準じて大きく異なる。本項では特記のない限り『ACE COMBAT 6 解放への戦火』に登場した機体について取り扱う。
+**CFA-44 ノスフェラト**（）は、[バンダイナムコゲームス（後のバンダイナムコエンターテインメント）の](../Page/バンダイナムコエンターテインメント.md "wikilink")[Xbox 360用](../Page/Xbox_360.md "wikilink")[フライトシューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム#3Dシューティングゲーム "wikilink")『[ACE COMBAT 6 解放への戦火](../Page/エースコンバット6_解放への戦火.md "wikilink")』、同[PlayStation 3およびXbox](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") 360用『[ACE COMBAT ASSAULT HORIZON](https://ja.wikipedia.org/wiki/エースコンバット_アサルト・ホライゾン "wikilink")』、同PlayStation 3専用『[エースコンバット インフィニティ](https://ja.wikipedia.org/wiki/エースコンバット_インフィニティ "wikilink")』、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[マッハストーム](https://ja.wikipedia.org/wiki/マッハストーム "wikilink")』、小説『エースコンバット イカロス・イン・ザ・スカイ（ACE COMBAT IKAROS IN THE SKY）』に登場する[架空](../Page/架空.md "wikilink")の[軍用機](../Page/軍用機.md "wikilink")。愛称の[ノスフェラトとは](https://ja.wikipedia.org/wiki/ノスフェラトゥ "wikilink")、[ルーマニア語](../Page/ルーマニア語.md "wikilink")で[吸血鬼](../Page/吸血鬼.md "wikilink")を意味するが、公式には不死者の意とされている。登場各作品は舞台となる世界観が異なり、本機の設定もそれに準じて大きく異なる。本項では特記のない限り『ACE COMBAT 6 解放への戦火』に登場した機体について取り扱う。
 
 ## 概要
 
-CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wikilink")が開発した次世代[ステルス](../Page/ステルス性.md "wikilink")[艦上](https://ja.wikipedia.org/wiki/艦上機 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。開発当初は試作[兵器](../Page/兵器.md "wikilink")である[航空機](../Page/航空機.md "wikilink")用[レールガン](https://ja.wikipedia.org/wiki/レールガン "wikilink")の搭載に合わせて安定性を特に重視した機体であったが、後に[エースパイロット向けに大幅な改造が施され](https://ja.wikipedia.org/wiki/エース・パイロット "wikilink")、エメリア・エストバキア戦争に於いて実戦に投入された。
+CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wikilink")が開発した次世代[ステルス](../Page/ステルス性.md "wikilink")[艦上](../Page/艦上機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。開発当初は試作[兵器](../Page/兵器.md "wikilink")である[航空機](../Page/航空機.md "wikilink")用[レールガン](../Page/レールガン.md "wikilink")の搭載に合わせて安定性を特に重視した機体であったが、後に[エースパイロット向けに大幅な改造が施され](https://ja.wikipedia.org/wiki/エース・パイロット "wikilink")、エメリア・エストバキア戦争に於いて実戦に投入された。
 
-機体の基本性能は高く、特に機動性・加速性・最高速度に優れるものの、安定性が低く失速しやすい・攻撃に対する耐久性が低いといった欠点も抱えている。破格の射程と威力を誇り、対地・対空・対艦に使用することができる汎用レールガンユニット「EML」や、同時に最大12の目標に対する一斉攻撃を可能とする全方位多目的ミサイルランチャー「ADMM」といった強力な兵装を備える。また、機銃を装備する[無人機の](https://ja.wikipedia.org/wiki/無人航空機 "wikilink")<span id="マーレボルジェ">マーレボルジェ</span>\[1\]を同時に複数機を制御することも可能な統合コンピューターシステムなど、強力なアビオニクスも有し、1名のパイロットのみで戦線の維持を可能とする。しかしながらその機体特性も含め、パイロットに対しても高い適性を求める機体でもある。
+機体の基本性能は高く、特に機動性・加速性・最高速度に優れるものの、安定性が低く失速しやすい・攻撃に対する耐久性が低いといった欠点も抱えている。破格の射程と威力を誇り、対地・対空・対艦に使用することができる汎用レールガンユニット「EML」や、同時に最大12の目標に対する一斉攻撃を可能とする全方位多目的ミサイルランチャー「ADMM」といった強力な兵装を備える。また、機銃を装備する[無人機の](../Page/無人航空機.md "wikilink")<span id="マーレボルジェ">マーレボルジェ</span>\[1\]を同時に複数機を制御することも可能な統合コンピューターシステムなど、強力なアビオニクスも有し、1名のパイロットのみで戦線の維持を可能とする。しかしながらその機体特性も含め、パイロットに対しても高い適性を求める機体でもある。
 
 ## 特徴
 
-チャインと呼ばれるエッジによって機首が明確に上下に分かれているほか、[五角形](https://ja.wikipedia.org/wiki/五角形 "wikilink")状の[エアインテーク](../Page/エアインテーク.md "wikilink")、外側に傾いた斜め双[垂直尾翼](https://ja.wikipedia.org/wiki/垂直尾翼 "wikilink")などを持ち、全体的に垂直面が少ない、ステルス機に特徴的な機体形状を有する。主翼直近に細長い短冊状のカナードが主翼前縁と平行に取り付つけられた[カナード付](../Page/エンテ型.md "wikilink")[デルタ翼機である](https://ja.wikipedia.org/wiki/翼平面形#デルタ翼 "wikilink")。主翼後縁はW型に屈曲しており、翼端は折畳み機構付。[エンジン](../Page/エンジン.md "wikilink")はやや左右に間隔を空けた双発で、垂直方向への推力偏向が可能な3枚パドル式左右独立[三次元](https://ja.wikipedia.org/wiki/3次元 "wikilink")[推力偏向](../Page/推力偏向.md "wikilink")ノズルを有する。[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")下方、機首左側面には格納式の[空中給油プローブを装備](https://ja.wikipedia.org/wiki/空中給油#プローブアンドドローグ方式 "wikilink")。
+チャインと呼ばれるエッジによって機首が明確に上下に分かれているほか、[五角形](https://ja.wikipedia.org/wiki/五角形 "wikilink")状の[エアインテーク](../Page/エアインテーク.md "wikilink")、外側に傾いた斜め双[垂直尾翼](../Page/垂直尾翼.md "wikilink")などを持ち、全体的に垂直面が少ない、ステルス機に特徴的な機体形状を有する。主翼直近に細長い短冊状のカナードが主翼前縁と平行に取り付つけられた[カナード付](../Page/エンテ型.md "wikilink")[デルタ翼機である](https://ja.wikipedia.org/wiki/翼平面形#デルタ翼 "wikilink")。主翼後縁はW型に屈曲しており、翼端は折畳み機構付。[エンジン](../Page/エンジン.md "wikilink")はやや左右に間隔を空けた双発で、垂直方向への推力偏向が可能な3枚パドル式左右独立[三次元](../Page/3次元.md "wikilink")[推力偏向](../Page/推力偏向.md "wikilink")ノズルを有する。[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")下方、機首左側面には格納式の[空中給油プローブを装備](https://ja.wikipedia.org/wiki/空中給油#プローブアンドドローグ方式 "wikilink")。
 
 武装面ではポップアップ式のウェポンベイをエアインテーク後方の機体上面左右2箇所と左右エンジンの中間下部の計3箇所に持ち、ここには試作兵器「EML」「ADMM」や、[ECMポッドを搭載可能となっている](https://ja.wikipedia.org/wiki/電子妨害装置 "wikilink")。また、主翼下にはロックオンに連動して発射位置へとスライドアップする短射程[AAM用半格納型](../Page/空対空ミサイル.md "wikilink")[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")がある。固定武装としては左右のカナード基部付近にシャッター付きの[航空機関砲](../Page/航空機関砲.md "wikilink")2門を搭載する。
 
@@ -22,7 +22,7 @@ CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wiki
     超小型ミサイルは[VLS](../Page/VLS.md "wikilink")方式の[ランチャー](../Page/ランチャー.md "wikilink")に格納されており、そのランチャーユニットを機体上面2箇所と下部中央の計3箇所のウェポンベイに搭載する。その構造上、ミサイルは機体周囲に一旦射出された後に誘導目標へ向けて飛行を開始するため発射時には機体上下にある程度の空間が必要であり、至近距離の目標に対しての使用、また低空飛行・閉鎖空間内など機体上下方向に障害物がある場合での使用はミサイルの一部、または全てがロストしてしまう。
     この兵装の発射時に限り、専用の発射コード「ドライブ」が使われる。
   - EML（ElectroMagnetic Launcher）
-    汎用[レールガン](https://ja.wikipedia.org/wiki/レールガン "wikilink")ユニット。[電磁誘導](../Page/電磁誘導.md "wikilink")の原理を用いて弾丸を超高速で発射する。弾体は無誘導で直線的に発射されるだけだが、長射程かつ弾速が極めて速く、その威力も非常に高い。さらに再装填時間も非常に短い\[2\]。しかし現状ではバッテリーやレールの損耗に課題を抱えており、航空機用としては試作兵器の段階。
+    汎用[レールガン](../Page/レールガン.md "wikilink")ユニット。[電磁誘導](../Page/電磁誘導.md "wikilink")の原理を用いて弾丸を超高速で発射する。弾体は無誘導で直線的に発射されるだけだが、長射程かつ弾速が極めて速く、その威力も非常に高い。さらに再装填時間も非常に短い\[2\]。しかし現状ではバッテリーやレールの損耗に課題を抱えており、航空機用としては試作兵器の段階。
     ECMポッドと同様に、機体上面の2つのウェポンベイに左右1門ずつ搭載される。発射時にはウェポンベイが開いた後、ユニット内に格納されている砲身が展開され、左右交互に発射される。同じウェポンベイを使用する関係上、ADMMやECMポッドとの同時搭載は不可能となっている。
     この兵装の発射時に限り、専用の発射コード「スラッシュ」が使われる。
   - [ECMポッド](https://ja.wikipedia.org/wiki/電子戦 "wikilink")
@@ -30,20 +30,20 @@ CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wiki
 
 ## 実戦参加
 
-[エメリア・エストバキア戦争](https://ja.wikipedia.org/wiki/エメリア・エストバキア戦争 "wikilink")末期、CFA-44はエストバキア軍の精鋭[戦闘機](../Page/戦闘機.md "wikilink")部隊シュトリゴン隊の隊長イリヤ・パステルナーク[少佐](https://ja.wikipedia.org/wiki/少佐 "wikilink")の専用機として実戦配備されていた。
+[エメリア・エストバキア戦争](../Page/エメリア・エストバキア戦争.md "wikilink")末期、CFA-44はエストバキア軍の精鋭[戦闘機](../Page/戦闘機.md "wikilink")部隊シュトリゴン隊の隊長イリヤ・パステルナーク[少佐](../Page/少佐.md "wikilink")の専用機として実戦配備されていた。
 
 [2016年](../Page/2016年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[エメリア共和国](../Page/エメリア共和国.md "wikilink")の首都グレースメリア攻防戦でエストバキア軍は敗色濃厚となり、パステルナーク少佐は部下の撤退の時間を確保するため、無人機マーレボルジェの大軍を率いて単身エメリア軍に戦闘を仕掛けた。突然の大軍の出現とADMMによる攻撃でエメリア軍は一時混乱状態に陥り、味方部隊の脱出は成功したが、この戦闘でCFA-44は撃墜され空中で爆散。搭乗者であるパステルナーク少佐も壮絶な最期を遂げた。
 
 ## 登場作品
 
-  - 『[ACE COMBAT 6 解放への戦火](https://ja.wikipedia.org/wiki/エースコンバット6_解放への戦火 "wikilink")』
+  - 『[ACE COMBAT 6 解放への戦火](../Page/エースコンバット6_解放への戦火.md "wikilink")』
 
 <!-- end list -->
 
   -
-    [ボスキャラクター](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")に相当する敵機として登場。また、プレイヤー機としても使用可能。
+    [ボスキャラクター](../Page/ボスキャラクター.md "wikilink")に相当する敵機として登場。また、プレイヤー機としても使用可能。
     特殊兵装は、ADMM、EML、ECMP（ECMポッド）のいずれかを出撃時に選択する。ADMMはマルチでの使用は不可となっており、ベース機体未入手時の特殊兵装が、キャンペーンではADMM、マルチではEMLと異なっている。
-    追加[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")として、安定性を重視した性能のプロトタイプカラー機が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")より、ベースカラーが黒の[ラーズグリーズカラーが同年](https://ja.wikipedia.org/wiki/エースコンバット5_ジ・アンサング・ウォー "wikilink")[4月24日](../Page/4月24日.md "wikilink")より、開発チームのロゴが描かれたPROJECT ACESカラーが同年[7月24日](../Page/7月24日.md "wikilink")より配信された。
+    追加[ダウンロードコンテンツ](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")として、安定性を重視した性能のプロトタイプカラー機が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")より、ベースカラーが黒の[ラーズグリーズカラーが同年](../Page/エースコンバット5_ジ・アンサング・ウォー.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")より、開発チームのロゴが描かれたPROJECT ACESカラーが同年[7月24日](../Page/7月24日.md "wikilink")より配信された。
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@ CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wiki
 
   -
     追加ダウンロードコンテンツ「オンライン強化パック」の一部として[2011年](../Page/2011年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に配信され、同パックの購入でプレイヤー機体として使用可能となる。
-    『ACAH』は、『04』以降のエースコンバットシリーズ共通の世界観ではなく、現実世界を基にした世界観を採用しているため、『6』とのストーリー上の関連性はなく、敵機としての登場もしない完全なゲスト機体となっている。作品の舞台が現実の地球に変更されているため、開発国などは不明だが、[失速](../Page/失速.md "wikilink")時等の警告音声は旧[東側諸国](https://ja.wikipedia.org/wiki/東側諸国 "wikilink")機に準じた[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")に設定されている。
+    『ACAH』は、『04』以降のエースコンバットシリーズ共通の世界観ではなく、現実世界を基にした世界観を採用しているため、『6』とのストーリー上の関連性はなく、敵機としての登場もしない完全なゲスト機体となっている。作品の舞台が現実の地球に変更されているため、開発国などは不明だが、[失速](../Page/失速.md "wikilink")時等の警告音声は旧[東側諸国](../Page/東側諸国.md "wikilink")機に準じた[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")に設定されている。
     特殊兵装は『ACE COMBAT 6』と同じくADMM、EML、ECM（ECMPから名称変更）の3種。オンラインモードではセッション設定で第6弾（オンライン強化パックはこれに含まれている）のアイテムが使用可能になっていれば使用可能だが、逆にキャンペーンでは使用できない（フリーミッションでは使用可能）。
     『ASSAULT HORIZON』ではゲームシステムが一新されたため、特殊兵装の仕様も変更されている。
     ADMMはマルチロックオンの仕様変更に伴い、ロックオンに要する時間が大きく増加している。
@@ -68,7 +68,7 @@ CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wiki
 <!-- end list -->
 
   -
-    『月刊電撃ホビーマガジン』2011年12月号に掲載された短編『エースコンバット・ショート・ストーリー』 Scene 00 「エンカウンター・バトル」に書下ろしを大幅に加えた小説単行本。『ACAH』と同じく、現実世界を基にした世界観を採用しているため、旧東側系の機体という設定となっている。[NATOコードネーム](https://ja.wikipedia.org/wiki/NATOコードネーム "wikilink")はファンダンス（Fandance）。
+    『月刊電撃ホビーマガジン』2011年12月号に掲載された短編『エースコンバット・ショート・ストーリー』 Scene 00 「エンカウンター・バトル」に書下ろしを大幅に加えた小説単行本。『ACAH』と同じく、現実世界を基にした世界観を採用しているため、旧東側系の機体という設定となっている。[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")はファンダンス（Fandance）。
 
 <!-- end list -->
 
@@ -97,11 +97,11 @@ CFA-44は、[エストバキア連邦](../Page/エストバキア連邦.md "wiki
 
 ## 参考資料
 
-  - 『[ACE COMBAT 6 解放への戦火](https://ja.wikipedia.org/wiki/エースコンバット6_解放への戦火 "wikilink")』　バンダイナムコゲームス、2007年。
+  - 『[ACE COMBAT 6 解放への戦火](../Page/エースコンバット6_解放への戦火.md "wikilink")』　バンダイナムコゲームス、2007年。
       - 「[Xbox LIVE マーケットプレース - 第四弾追加コンテンツ - CFA-44 -PROTOTYPE-](http://www.acecombat.jp/ace6/mp_cnt09.html#specialcolor16)」　バンダイナムコゲームス、2008年1月31日。
   - 『[ACE COMBAT ASSAULT HORIZON](https://ja.wikipedia.org/wiki/エースコンバット_アサルト・ホライゾン "wikilink")』　バンダイナムコゲームス、2011年。
       - 「[追加機体：CFA-44 Nosferatu（カテゴリ：マルチロール）](http://ah.acecombat.jp/dlc/dlc006.html#cfa44)」　バンダイナムコゲームス、2011年12月12日。
-  - 『[月刊電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")』　2011年12月号、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2011年10月25日、194-195、201頁。
+  - 『[月刊電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』　2011年12月号、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2011年10月25日、194-195、201頁。
   - 『エースコンバット イカロス・イン・ザ・スカイ』　アスキー・メディアワークス、2012年。
   - 『[エースコンバット インフィニティ](https://ja.wikipedia.org/wiki/エースコンバット_インフィニティ "wikilink")』　バンダイナムコゲームス、2014年。
 

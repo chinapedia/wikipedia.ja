@@ -1,23 +1,23 @@
-> この記事は[BMWF1.08](https://ja.wikipedia.org/wiki/BMWF1.08)から翻訳されています。
+> この記事は[BMWザウバー・F1.08](https://ja.wikipedia.org/wiki/BMWザウバー・F1.08)から翻訳されています。
 
 
-**BMWザウバー・F1.08**は[BMWザウバー](https://ja.wikipedia.org/wiki/BMWザウバー "wikilink")が[2008年のF1世界選手権](../Page/2008年のF1世界選手権.md "wikilink")参戦用に開発した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")で、[ウィリー・ランプ](https://ja.wikipedia.org/wiki/ウィリー・ランプ "wikilink")が設計した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の開幕戦から最終戦まで実戦投入された。
+**BMWザウバー・F1.08**は[BMWザウバー](../Page/BMWザウバー.md "wikilink")が[2008年のF1世界選手権](../Page/2008年のF1世界選手権.md "wikilink")参戦用に開発した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")で、[ウィリー・ランプ](../Page/ウィリー・ランプ.md "wikilink")が設計した。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の開幕戦から最終戦まで実戦投入された。
 
 ## F1.08
 
-[thumbテストでのF](https://ja.wikipedia.org/wiki/ファイル:Robert_Kubica_2008_test.jpg "wikilink")1.08\]\] F1.08は安定性のあった[F1.07をベースとして通常進化させたものである](https://ja.wikipedia.org/wiki/BMWザウバー・F1.07 "wikilink")。チームは[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")を装備する[風洞](https://ja.wikipedia.org/wiki/風洞 "wikilink")施設を活用して、今までに見られないような様々なエアロパーツを投入した。
+[thumbテストでのF](https://ja.wikipedia.org/wiki/ファイル:Robert_Kubica_2008_test.jpg "wikilink")1.08\]\] F1.08は安定性のあった[F1.07をベースとして通常進化させたものである](../Page/BMWザウバー・F1.07.md "wikilink")。チームは[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")を装備する[風洞](../Page/風洞.md "wikilink")施設を活用して、今までに見られないような様々なエアロパーツを投入した。
 
-フロントノーズ上には、[マクラーレン](../Page/マクラーレン.md "wikilink")が考案したエンジンカウルのホーンウイングのようなパーツが装着された。これは後に[レッドブル・RB4](https://ja.wikipedia.org/wiki/レッドブル・RB4 "wikilink")や[ホンダ・RA108](https://ja.wikipedia.org/wiki/ホンダ・RA108 "wikilink")などに模倣された。
+フロントノーズ上には、[マクラーレン](../Page/マクラーレン.md "wikilink")が考案したエンジンカウルのホーンウイングのようなパーツが装着された。これは後に[レッドブル・RB4](../Page/レッドブル・RB4.md "wikilink")や[ホンダ・RA108](../Page/ホンダ・RA108.md "wikilink")などに模倣された。
 
 フロントウィングは3層構造で、ノーズから吊り下げるステーが真ん中のプレートに接続しているのが特徴。サイドポンツーン周りはフィンやミニウィングが連なり、非常に複雑な構成となっている。
 
-その他の変更点としては、4つのホイールに[フェラーリのようなホイールカバーを装着している](https://ja.wikipedia.org/wiki/スクーデリア・フェラーリ "wikilink")。
+その他の変更点としては、4つのホイールに[フェラーリのようなホイールカバーを装着している](../Page/スクーデリア・フェラーリ.md "wikilink")。
 
 ## 2008年シーズン
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Robert_Kubica_2008_Malaysia_2.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:Kubica_Heidfeld_Alonso_Canada_2008.jpg "wikilink") [2007年シーズンはフェラーリ](https://ja.wikipedia.org/wiki/2007年のF1世界選手権 "wikilink")、[マクラーレン](../Page/マクラーレン.md "wikilink")に次ぐポジションを維持していたが、2008年シーズンも開幕から速さは衰えることがなかった。[第2戦マレーシアGPで](https://ja.wikipedia.org/wiki/2008年マレーシアグランプリ "wikilink")[ニック・ハイドフェルド](https://ja.wikipedia.org/wiki/ニック・ハイドフェルド "wikilink")がチームにとって初[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")を、[第3戦バーレーンGPでは](https://ja.wikipedia.org/wiki/2008年バーレーングランプリ "wikilink")[ロバート・クビサ](https://ja.wikipedia.org/wiki/ロバート・クビサ "wikilink")が初[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")を獲得。[第7戦カナダGPではクビサ](https://ja.wikipedia.org/wiki/2008年カナダグランプリ "wikilink")・ハイドフェルドの順でチームにとっての初優勝を1-2フィニッシュで飾った。この時点でクビサはポイントリーダーとなった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Robert_Kubica_2008_Malaysia_2.jpg "wikilink") [250px](https://ja.wikipedia.org/wiki/ファイル:Kubica_Heidfeld_Alonso_Canada_2008.jpg "wikilink") [2007年シーズンはフェラーリ](../Page/2007年のF1世界選手権.md "wikilink")、[マクラーレン](../Page/マクラーレン.md "wikilink")に次ぐポジションを維持していたが、2008年シーズンも開幕から速さは衰えることがなかった。[第2戦マレーシアGPで](../Page/2008年マレーシアグランプリ.md "wikilink")[ニック・ハイドフェルド](https://ja.wikipedia.org/wiki/ニック・ハイドフェルド "wikilink")がチームにとって初[ファステストラップ](../Page/ファステストラップ.md "wikilink")を、[第3戦バーレーンGPでは](../Page/2008年バーレーングランプリ.md "wikilink")[ロバート・クビサ](https://ja.wikipedia.org/wiki/ロバート・クビサ "wikilink")が初[ポールポジション](../Page/ポールポジション.md "wikilink")を獲得。[第7戦カナダGPではクビサ](../Page/2008年カナダグランプリ.md "wikilink")・ハイドフェルドの順でチームにとっての初優勝を1-2フィニッシュで飾った。この時点でクビサはポイントリーダーとなった。
 
-クビサは[第17戦中国GPまでタイトル争いに加わっていたが](https://ja.wikipedia.org/wiki/2008年中国グランプリ "wikilink")、最終戦でフェラーリの[キミ・ライコネン](https://ja.wikipedia.org/wiki/キミ・ライコネン "wikilink")に抜かれ、ランキング4位で終えた。ハイドフェルドは終盤調子を取り戻した[ルノーの](https://ja.wikipedia.org/wiki/ルノーF1 "wikilink")[フェルナンド・アロンソ](../Page/フェルナンド・アロンソ.md "wikilink")に抜かれ、ランキング6位だった。
+クビサは[第17戦中国GPまでタイトル争いに加わっていたが](../Page/2008年中国グランプリ.md "wikilink")、最終戦でフェラーリの[キミ・ライコネン](https://ja.wikipedia.org/wiki/キミ・ライコネン "wikilink")に抜かれ、ランキング4位で終えた。ハイドフェルドは終盤調子を取り戻した[ルノーの](../Page/ルノーF1.md "wikilink")[フェルナンド・アロンソ](../Page/フェルナンド・アロンソ.md "wikilink")に抜かれ、ランキング6位だった。
 
 クビサとハイドフェルドの2人あわせて11回もの表彰台を獲得し、最終的にコンストラクターズランキングは3位となった。前年はマクラーレンが失格処分となっての2位だったため、地位的にあまり変化はないが、獲得ポイントは30点以上増している。
 
@@ -32,14 +32,14 @@
   - ホイールベース 3,130mm
   - 前トレッド 1,470 mm
   - 後トレッド 1,410 mm
-  - ブレーキキャリパー [ブレンボ](https://ja.wikipedia.org/wiki/ブレンボ "wikilink")
+  - ブレーキキャリパー [ブレンボ](../Page/ブレンボ.md "wikilink")
   - ブレーキディスク・パッド ブレンボ・カーボンインダストリー
   - クラッチ [AP](https://ja.wikipedia.org/wiki/APレーシング "wikilink")
   - ダンパー [ザックス](https://ja.wikipedia.org/wiki/ザックス "wikilink")
   - ホイール [O・Z](../Page/O・Z_\(企業\).md "wikilink")
   - タイヤ [ブリヂストン](../Page/ブリヂストン.md "wikilink")
   - ギヤボックス 7速[セミオートマチック](https://ja.wikipedia.org/wiki/セミオートマチック "wikilink")クイックシフト
-  - エレクトロニクス [MES](https://ja.wikipedia.org/wiki/マクラーレン・エレクトロニック・システムズ "wikilink")-[マイクロソフト](../Page/マイクロソフト.md "wikilink") スタンダード[ECU](https://ja.wikipedia.org/wiki/エンジンコントロールユニット "wikilink")
+  - エレクトロニクス [MES](https://ja.wikipedia.org/wiki/マクラーレン・エレクトロニック・システムズ "wikilink")-[マイクロソフト](../Page/マイクロソフト.md "wikilink") スタンダード[ECU](../Page/エンジンコントロールユニット.md "wikilink")
   - 重量 605kg
 
 ### エンジン
@@ -50,11 +50,11 @@
   - バルブ 4バルブ/[ニューマチック](https://ja.wikipedia.org/wiki/ニューマチック "wikilink")式
   - エンジンブロック [アルミニウム](../Page/アルミニウム.md "wikilink")
   - シリンダーヘッド アルミニウム
-  - クランクシャフト [鋳鉄](https://ja.wikipedia.org/wiki/鋳鉄 "wikilink")
+  - クランクシャフト [鋳鉄](../Page/鋳鉄.md "wikilink")
   - ピストン アルミニウム
   - コンロッド [チタニウム](https://ja.wikipedia.org/wiki/チタニウム "wikilink")
-  - スパークプラグ [NGK](https://ja.wikipedia.org/wiki/日本特殊陶業 "wikilink")
-  - オイルシステム [ドライサンプ](https://ja.wikipedia.org/wiki/ドライサンプ "wikilink")
+  - スパークプラグ [NGK](../Page/日本特殊陶業.md "wikilink")
+  - オイルシステム [ドライサンプ](../Page/ドライサンプ.md "wikilink")
   - エンジン重量 95kg
 
 ## 記録
@@ -89,39 +89,39 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年オーストラリアグランプリ" title="wikilink">AUS</a><br />
+<td><p><a href="../Page/2008年オーストラリアグランプリ.md" title="wikilink">AUS</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年マレーシアグランプリ" title="wikilink">MAL</a><br />
+<td><p><a href="../Page/2008年マレーシアグランプリ.md" title="wikilink">MAL</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年バーレーングランプリ" title="wikilink">BHR</a><br />
+<td><p><a href="../Page/2008年バーレーングランプリ.md" title="wikilink">BHR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年スペイングランプリ" title="wikilink">ESP</a><br />
+<td><p><a href="../Page/2008年スペイングランプリ.md" title="wikilink">ESP</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年トルコグランプリ" title="wikilink">TUR</a><br />
+<td><p><a href="../Page/2008年トルコグランプリ.md" title="wikilink">TUR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年モナコグランプリ" title="wikilink">MON</a><br />
+<td><p><a href="../Page/2008年モナコグランプリ.md" title="wikilink">MON</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年カナダグランプリ" title="wikilink">CAN</a><br />
+<td><p><a href="../Page/2008年カナダグランプリ.md" title="wikilink">CAN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年フランスグランプリ" title="wikilink">FRA</a><br />
+<td><p><a href="../Page/2008年フランスグランプリ.md" title="wikilink">FRA</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年イギリスグランプリ" title="wikilink">GBR</a><br />
+<td><p><a href="../Page/2008年イギリスグランプリ.md" title="wikilink">GBR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ドイツグランプリ" title="wikilink">GER</a><br />
+<td><p><a href="../Page/2008年ドイツグランプリ.md" title="wikilink">GER</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ハンガリーグランプリ" title="wikilink">HUN</a><br />
+<td><p><a href="../Page/2008年ハンガリーグランプリ.md" title="wikilink">HUN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ヨーロッパグランプリ" title="wikilink">EUR</a><br />
+<td><p><a href="../Page/2008年ヨーロッパグランプリ.md" title="wikilink">EUR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ベルギーグランプリ" title="wikilink">BEL</a><br />
+<td><p><a href="../Page/2008年ベルギーグランプリ.md" title="wikilink">BEL</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年イタリアグランプリ" title="wikilink">ITA</a><br />
+<td><p><a href="../Page/2008年イタリアグランプリ.md" title="wikilink">ITA</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ" title="wikilink">SIN</a><br />
 </p></td>
 <td><p><a href="../Page/2008年日本グランプリ_(4輪).md" title="wikilink">JPN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年中国グランプリ" title="wikilink">CHN</a><br />
+<td><p><a href="../Page/2008年中国グランプリ.md" title="wikilink">CHN</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年ブラジルグランプリ" title="wikilink">BRA</a><br />
 </p></td>
@@ -184,7 +184,7 @@
 </tbody>
 </table>
 
-  - **太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 <!-- end list -->
 
@@ -194,7 +194,7 @@
 
 ## F1.08B
 
-[2009年シーズンに向けて](https://ja.wikipedia.org/wiki/2009年のF1世界選手権 "wikilink")、変更される[レギュレーションに対応させたマシンである](https://ja.wikipedia.org/wiki/F1レギュレーション "wikilink")。[11月17日](../Page/11月17日.md "wikilink")に[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[カタロニア・サーキット](https://ja.wikipedia.org/wiki/カタロニア・サーキット "wikilink")で開催された[バルセロナ](../Page/バルセロナ.md "wikilink")合同テストでデビューした。モノコックとサスペンションはF1.08のものを使用しているが、それ以外の部分はほとんど改修されている。F1.08からの変更点として、フロントウイングとリヤウイング、[ディフューザーなどのエアロパーツがレギュレーションに合致するように変更されたほか](https://ja.wikipedia.org/wiki/ディフューザー_\(自動車\) "wikilink")、ノーズ先端が持ちあげられ、サイドポンツーンはまったく違う形になった。[KERS](https://ja.wikipedia.org/wiki/KERS "wikilink")も同時にテストされている。
+[2009年シーズンに向けて](https://ja.wikipedia.org/wiki/2009年のF1世界選手権 "wikilink")、変更される[レギュレーションに対応させたマシンである](https://ja.wikipedia.org/wiki/F1レギュレーション "wikilink")。[11月17日](../Page/11月17日.md "wikilink")に[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[カタロニア・サーキット](../Page/カタロニア・サーキット.md "wikilink")で開催された[バルセロナ](../Page/バルセロナ.md "wikilink")合同テストでデビューした。モノコックとサスペンションはF1.08のものを使用しているが、それ以外の部分はほとんど改修されている。F1.08からの変更点として、フロントウイングとリヤウイング、[ディフューザーなどのエアロパーツがレギュレーションに合致するように変更されたほか](https://ja.wikipedia.org/wiki/ディフューザー_\(自動車\) "wikilink")、ノーズ先端が持ちあげられ、サイドポンツーンはまったく違う形になった。[KERS](https://ja.wikipedia.org/wiki/KERS "wikilink")も同時にテストされている。
 
 ## 脚注
 

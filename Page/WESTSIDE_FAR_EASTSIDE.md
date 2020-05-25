@@ -5,10 +5,10 @@
 
 ## 解説
 
-  - [NITRO MICROPHONE UNDERGROUNDのMCとして知られるBIG](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink") Zのデビューアルバム。
+  - [NITRO MICROPHONE UNDERGROUNDのMCとして知られるBIG](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink") Zのデビューアルバム。
   - 2003年に単身アメリカ・ロサンゼルスへ渡り、地元のアーティストとの交流を深めながら制作されていった。
   - シングル「THE BIGGEST」、「拳上げな」を含む全17曲収録。
-  - 制作には海外のプロデューサー陣を迎え、ゲストには[ウォーレン・G](https://ja.wikipedia.org/wiki/ウォーレン・G "wikilink")、[Kokaneが参加している](https://ja.wikipedia.org/wiki/:en:Kokane "wikilink")。
+  - 制作には海外のプロデューサー陣を迎え、ゲストには[ウォーレン・G](../Page/ウォーレン・G.md "wikilink")、[Kokaneが参加している](https://ja.wikipedia.org/wiki/:en:Kokane "wikilink")。
 
 ## 収録曲
 

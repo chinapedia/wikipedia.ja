@@ -160,7 +160,7 @@
 
   - [フジグラン松山](https://ja.wikipedia.org/wiki/フジグラン松山 "wikilink")
   - [フジグラン重信](https://ja.wikipedia.org/wiki/フジグラン重信 "wikilink")
-  - [イオンモール新居浜](../Page/イオンモール新居浜.md "wikilink")（[2001年](../Page/2001年.md "wikilink")開業）
+  - [イオンスタイル松山](https://ja.wikipedia.org/wiki/イオンスタイル松山 "wikilink")
 
 ## 愛媛FCスタジアム案
 

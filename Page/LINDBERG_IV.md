@@ -3,7 +3,7 @@
 
 『**LINDBERG IV**』（リンドバーグ・フォー）は、日本のロックバンドである[LINDBERGの](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
-[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[4月19日](../Page/4月19日.md "wikilink")発売。発売元は[徳間ジャパンのジャパンレコーズレーベル](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")。
+[1991年](../Page/1991年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")発売。発売元は[徳間ジャパンのジャパンレコーズレーベル](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。
 
 ## 解説
 
@@ -12,9 +12,9 @@
 ## 収録曲
 
 1.  **[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")**
-    \*作詞: [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")、作曲: [川添智久](https://ja.wikipedia.org/wiki/川添智久 "wikilink")
+    \*作詞: [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")、作曲: [川添智久](../Page/川添智久.md "wikilink")
       -
-        8枚目のシングル曲であり、フジテレビ「[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")」オープニング曲、[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")英智外野手の登場テーマ曲。このアルバム発売後にシングルカットされた。
+        8枚目のシングル曲であり、フジテレビ「[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")」オープニング曲、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")英智外野手の登場テーマ曲。このアルバム発売後にシングルカットされた。
 2.  **NOBODY KNOWS**
     \*作詞: 渡瀬マキ、作曲: 川添智久
       -
@@ -24,17 +24,17 @@
       -
         8枚目のシングル『BELIEVE IN LOVE』のC/W曲。
 4.  **おもいきり CRYING**
-    \*作詞: [有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲: [平川達也](https://ja.wikipedia.org/wiki/平川達也 "wikilink")
+    \*作詞: [有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲: [平川達也](../Page/平川達也.md "wikilink")
 5.  **だから I'M ON FIRE**
     \*作詞: [みかみ麗緒](https://ja.wikipedia.org/wiki/みかみ麗緒 "wikilink")、作曲: 小柳昌法
 6.  **[ROUGH DIAMOND](https://ja.wikipedia.org/wiki/ROUGH_DIAMOND "wikilink")**
     \*作詞: 渡瀬マキ、作曲: 川添智久
       -
-        5枚目のシングル曲。[エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink")CF曲
+        5枚目のシングル曲。[エースコック](../Page/エースコック.md "wikilink")CF曲
 7.  **[Dream On 抱きしめて](https://ja.wikipedia.org/wiki/Dream_On_抱きしめて "wikilink")**
     \*作詞: [朝野深雪](https://ja.wikipedia.org/wiki/朝野深雪 "wikilink")、作曲: 平川達也
       -
-        4枚目のシングル曲。[アルペンCF曲](https://ja.wikipedia.org/wiki/アルペン_\(企業\) "wikilink")、国際スポーツフェア'90春イメージソング。
+        4枚目のシングル曲。[アルペンCF曲](../Page/アルペン_\(企業\).md "wikilink")、国際スポーツフェア'90春イメージソング。
 8.  **BLIND SOLDIER**
     \*作詞: 渡瀬マキ、作曲: 平川達也
 9.  **POWER**
@@ -60,6 +60,6 @@
 
 ## 関連作品
 
-  - [GOLDEN☆BEST リンドバーグ EARLY FLIGHT](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_リンドバーグ_EARLY_FLIGHT "wikilink")
+  - [GOLDEN☆BEST リンドバーグ EARLY FLIGHT](../Page/GOLDEN☆BEST_リンドバーグ_EARLY_FLIGHT.md "wikilink")
 
 [Category:LINDBERGのアルバム](https://ja.wikipedia.org/wiki/Category:LINDBERGのアルバム "wikilink") [Category:ジャパンレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ジャパンレコーズのアルバム "wikilink") [Category:1991年のアルバム](https://ja.wikipedia.org/wiki/Category:1991年のアルバム "wikilink") [Category:1991年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1991年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK花巻湯本テレビ中継局](https://ja.wikipedia.org/wiki/NHK花巻湯本テレビ中継局)から翻訳されています。
 
 
 **NHK花巻湯本テレビ中継局**（エヌエイチケイはなまきゆもとテレビちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[花巻市](../Page/花巻市.md "wikilink")にある[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

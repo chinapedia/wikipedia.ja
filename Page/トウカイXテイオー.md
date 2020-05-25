@@ -1,7 +1,7 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[トウカイXテイオー](https://ja.wikipedia.org/wiki/トウカイXテイオー)から翻訳されています。
 
 
-『**トウカイXテイオー**』は、[TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") に発売された。TOKONA-Xの死後、廃盤となっていたが、[2013年](../Page/2013年.md "wikilink")10月23日にシングル『[知らざあ言って聞かせやSHOW](https://ja.wikipedia.org/wiki/知らざあ言って聞かせやSHOW "wikilink")』と共に再発売された。
+『**トウカイXテイオー**』は、[TOKONA-X](../Page/TOKONA-X.md "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") に発売された。TOKONA-Xの死後、廃盤となっていたが、[2013年](../Page/2013年.md "wikilink")10月23日にシングル『[知らざあ言って聞かせやSHOW](https://ja.wikipedia.org/wiki/知らざあ言って聞かせやSHOW "wikilink")』と共に再発売された。
 
 ## 収録曲
 
@@ -16,7 +16,7 @@
 | 7  | "I Just Wanna..."                                                                        | Tokona-X     | DJ FIXER                                                            | Sygnal                                                                                                               |
 | 8  | "I'm In Charge"                                                                          | Tokona-X     | Rick steel                                                          |                                                                                                                      |
 | 9  | "Dirty Go Around"                                                                        | Tokona-X     | Rhemario "Rio Beats" Webber,Daisuke "DAIS "Miyachi                  | asm.                                                                                                                 |
-| 10 | "女子大ROCK"                                                                                | Tokona-X     | ["E"qual](https://ja.wikipedia.org/wiki/"E"qual "wikilink")         | Loku,Watt,Killa-D,Mash,Anty The 紅乃壱,Keishi,DJ abu                                                                    |
+| 10 | "女子大ROCK"                                                                                | Tokona-X     | ["E"qual](../Page/"E"qual.md "wikilink")                            | Loku,Watt,Killa-D,Mash,Anty The 紅乃壱,Keishi,DJ abu                                                                    |
 | 11 | "Twin Peaks"                                                                             | Tokona-X     | "E"qual                                                             | "E"qual                                                                                                              |
 | 12 | "Skit"                                                                                   | Tokona-X     | Subzero                                                             |                                                                                                                      |
 | 13 | "BAD若旦那　\~いんだくらぶ\~"                                                                      | Tokona-X     | GP                                                                  |                                                                                                                      |

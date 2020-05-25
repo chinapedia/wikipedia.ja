@@ -1,4 +1,4 @@
-> この記事は[FNN SAGATV](https://ja.wikipedia.org/wiki/FNN_SAGATV)から翻訳されています。
+> この記事は[FNN SAGATVニュース](https://ja.wikipedia.org/wiki/FNN_SAGATVニュース)から翻訳されています。
 
 
 『**FNN SAGATVニュース**』（エフエヌエヌサガティーヴィーニュース）は、[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")で放送されていた[ニュース番組の名称である](../Page/報道番組.md "wikilink")。

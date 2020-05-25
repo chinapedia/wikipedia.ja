@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMしまばら](https://ja.wikipedia.org/wiki/FMしまばら)から翻訳されています。
 
 
 [本社・スタジオ（2010年5月）](https://ja.wikipedia.org/wiki/ファイル:Cable-television&FM_Shimabara.jpg "wikilink") **株式会社FMしまばら**（エフエムしまばら）は、[長崎県](../Page/長崎県.md "wikilink")[島原市](../Page/島原市.md "wikilink")および[南島原市](../Page/南島原市.md "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。 **FMしまばら**そのままの愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。

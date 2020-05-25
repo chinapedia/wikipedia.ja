@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[ラジオCMコンテスト](https://ja.wikipedia.org/wiki/ラジオCMコンテスト)から翻訳されています。
 
 
 **ラジオCMコンテスト**（ラジオシーエムコンテスト）とは、[ラジオCM](https://ja.wikipedia.org/wiki/ラジオCM "wikilink")の広告[キャッチコピー](../Page/キャッチコピー.md "wikilink")大会のことである。主にラジオCMの[脚本](../Page/脚本.md "wikilink")を創作するコンテストを意味する場合が多い。依頼内容にあった文章、[キャッチコピー](../Page/キャッチコピー.md "wikilink")を作るコンテストもある。
@@ -43,7 +43,7 @@
   - [文化放送](../Page/文化放送.md "wikilink")「文化放送 第○回100万円争奪！ラジオCMコンテスト」（開催時期 8月初旬 - 10月31日）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")「（西暦）RNCラジオCMグランプリ」（開催時期 8月初旬 - 9月30日）
   - [エフエム熊本](../Page/エフエム熊本.md "wikilink")「（西暦）FMKラジオCMコピーコンテスト」（開催時期 8月下旬 - 9月27日）
-  - [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")「第○回KRYラジオCM大賞」（開催時期 9月1日 - 10月18日）
+  - [山口放送](../Page/山口放送.md "wikilink")「第○回KRYラジオCM大賞」（開催時期 9月1日 - 10月18日）
   - [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")「BERRY GOOD CM（西暦）」（開催時期 9月1日 - 10月31日）
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")×[エフエム長崎](../Page/エフエム長崎.md "wikilink")（共同企画）「ラジオCMコピーグランプリ（西暦）」（開催時期 10月1日 - 10月31日）
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")「第○回MBCラジオCMグランプリ」（開催時期 10月6日 - 10月27日）
@@ -59,7 +59,7 @@
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")「MRTラジオCM大賞」\[3\]
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")「RKCラジオCM大賞」
   - [札幌テレビ放送](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")「STVラジオCMグランプリ」
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")「SBCラジオCMグランプリ コピーライターコンクール」
+  - [信越放送](../Page/信越放送.md "wikilink")「SBCラジオCMグランプリ コピーライターコンクール」
   - [エフエム滋賀](../Page/エフエム滋賀.md "wikilink") 2011年度に「第1回e-radio CMコンテスト〜コピーライターは君だ！」を開催。現在は不定期に単独社のラジオCMコンテストを開催している。
 
 他多数。山陽放送でも過去に行われていた 。
@@ -73,7 +73,7 @@
   - [ACC学生CMコンクール](http://www.acc-cm.or.jp/festival/index_student.html)（ラジオCMの課題がある公募賞）注）学生のみ応募可能。
   - [全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink") 「全国放送争奪！JFN学生ラジオCMコンテスト」学生のみ応募可能。
   - [KBS京都](../Page/京都放送.md "wikilink") 「自転車交通安全CMコンテスト」学生のみ応募可能。
-  - [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")「高校生交通安全CMコンテスト」学生のみ応募可能。
+  - [信越放送](../Page/信越放送.md "wikilink")「高校生交通安全CMコンテスト」学生のみ応募可能。
   - [ラジオCMコピー大会](../Page/ラジオCMコピー大会.md "wikilink")「100万円大賞 ラジオCMコピー大会〜本家本元 ラジオCMまるかじり\!\!〜」文化放送の旧ラジオCMコンテストについて記載されている。
 
 [Category:日本のラジオ放送](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")

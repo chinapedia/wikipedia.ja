@@ -1,21 +1,21 @@
 > この記事は[A-ha-N](https://ja.wikipedia.org/wiki/A-ha-N)から翻訳されています。
 
 
-『**a-ha-N**』（アハン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")から[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。[2015年](../Page/2015年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")深夜からは後継番組『**a-NN♪**』（アン）が放送されている\[1\]。
+『**a-ha-N**』（アハン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")から[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。[2015年](../Page/2015年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")深夜からは後継番組『**a-NN♪**』（アン）が放送されている\[1\]。
 
 ## 概要
 
-[プロモーションビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")（以下PV）の放送を専門とする音楽番組で、毎回様々な[ミュージシャンたちのPVや彼らからのメッセージVTRなどを放送している](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。2000年代末期からはその回で特集するミュージシャンたちをゲストに招き、番組[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")がスタジオで彼らと音楽トークをするコーナーも設けている。取り扱う楽曲のジャンルは[J-POP](../Page/J-POP.md "wikilink")が中心で、ゲストミュージシャンたちもそれに準じているが、企画回放送時には[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")や[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")などJ-POP以外のジャンルを特集することもある。
+[プロモーションビデオ](../Page/ミュージック・ビデオ.md "wikilink")（以下PV）の放送を専門とする音楽番組で、毎回様々な[ミュージシャンたちのPVや彼らからのメッセージVTRなどを放送している](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。2000年代末期からはその回で特集するミュージシャンたちをゲストに招き、番組[ナビゲーター](../Page/ナビゲーター.md "wikilink")がスタジオで彼らと音楽トークをするコーナーも設けている。取り扱う楽曲のジャンルは[J-POP](../Page/J-POP.md "wikilink")が中心で、ゲストミュージシャンたちもそれに準じているが、企画回放送時には[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")や[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")などJ-POP以外のジャンルを特集することもある。
 
-ナビゲーターによる曲目解説パートの収録は、[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[栄にあるテレビ愛知](https://ja.wikipedia.org/wiki/栄_\(名古屋市\) "wikilink")[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")のサブ（[副調整室](https://ja.wikipedia.org/wiki/副調整室 "wikilink")）で行われている\[2\]。
+ナビゲーターによる曲目解説パートの収録は、[名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[栄にあるテレビ愛知](../Page/栄_\(名古屋市\).md "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")のサブ（[副調整室](../Page/副調整室.md "wikilink")）で行われている\[2\]。
 
 ## 番組史
 
 ### ミニ番組からの昇格
 
-1998年9月25日までテレビ愛知で放送されていた平日深夜の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")『**ミュージックカフェ**』が改題リニューアルしたもので、改題当初は同様に週5日間の帯で放送されていた\[3\]。しかし、2000年代に入ると徐々に放送頻度が減っていき、最終的には日曜午前枠で週1回限りの放送となった。
+1998年9月25日までテレビ愛知で放送されていた平日深夜の[ミニ番組](../Page/ミニ番組.md "wikilink")『**ミュージックカフェ**』が改題リニューアルしたもので、改題当初は同様に週5日間の帯で放送されていた\[3\]。しかし、2000年代に入ると徐々に放送頻度が減っていき、最終的には日曜午前枠で週1回限りの放送となった。
 
-日曜午前枠への移動から1年後の2003年1月、番組は突如放送時間77分の番組に昇格し、以後は木曜深夜枠で放送されるようになった。さらには金曜深夜枠でも放送されるようになり、以後しばらくは木曜深夜版と金曜深夜版の2本立てで放送されるようになった。ただし、放送内容自体は両者ともに同じで、金曜深夜版は木曜深夜版の[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")扱いで放送されていた。
+日曜午前枠への移動から1年後の2003年1月、番組は突如放送時間77分の番組に昇格し、以後は木曜深夜枠で放送されるようになった。さらには金曜深夜枠でも放送されるようになり、以後しばらくは木曜深夜版と金曜深夜版の2本立てで放送されるようになった。ただし、放送内容自体は両者ともに同じで、金曜深夜版は木曜深夜版の[再放送](../Page/再放送.md "wikilink")扱いで放送されていた。
 
 ### 地デジでの試み
 
@@ -27,9 +27,9 @@
 
 番組は以後しばらくは『a-ha-N varie』1本のみで放送され続けることになるが、それと時期を同じくしてテレビ愛知に中途入社したばかりの[水口美希](../Page/水口美希.md "wikilink")がナビゲーターに就任。それまでこの番組のナビゲーターはナレーションのみで顔出し出演までは無かったが、水口は司会進行役も兼任し、ゲストミュージシャンたちとのトークの場の確立に大きく貢献した。そして、2008年10月には日曜深夜枠で新タイトルの『**a-ha-N Music Channel**\[4\]』（アハン ミュージックチャンネル）がスタートし、番組は再び2本立てで放送されるようになった。
 
-しかし、2009年3月をもって『varie』が終了し、以後は日曜深夜の『Music Channel』1本のみで放送されるようになった。加えて、同年12月には水口がテレビ愛知を退社したため、再び司会進行役が不在の状態となった。その後は暫定的にゲストミュージシャンたち本人が輪番でナビゲーターを務めるという方式で繋いでいたが、2010年4月から[ZIP-FM](../Page/ZIP-FM.md "wikilink")ミュージック・ナビゲーターの[服部愛子](https://ja.wikipedia.org/wiki/服部愛子 "wikilink")が水口の後任になることが決定。さらに、同年7月からは『**a-ha-N +**』（アハン プラス）という関連ミニ番組が放送されるようになった。
+しかし、2009年3月をもって『varie』が終了し、以後は日曜深夜の『Music Channel』1本のみで放送されるようになった。加えて、同年12月には水口がテレビ愛知を退社したため、再び司会進行役が不在の状態となった。その後は暫定的にゲストミュージシャンたち本人が輪番でナビゲーターを務めるという方式で繋いでいたが、2010年4月から[ZIP-FM](../Page/ZIP-FM.md "wikilink")ミュージック・ナビゲーターの[服部愛子](../Page/服部愛子.md "wikilink")が水口の後任になることが決定。さらに、同年7月からは『**a-ha-N +**』（アハン プラス）という関連ミニ番組が放送されるようになった。
 
-2010年10月から2013年9月までは、当時テレビ愛知のアナウンサーだった[名越涼子](https://ja.wikipedia.org/wiki/名越涼子 "wikilink")がナビゲーターを務めていた。
+2010年10月から2013年9月までは、当時テレビ愛知のアナウンサーだった[名越涼子](../Page/名越涼子.md "wikilink")がナビゲーターを務めていた。
 
 ## 放送時間
 
@@ -109,8 +109,8 @@
 ### a-ha-N Music Channel
 
   - 水口美希（当時テレビ愛知アナウンサー、2008年10月 - 2009年12月）
-  - [服部愛子](https://ja.wikipedia.org/wiki/服部愛子 "wikilink")（当時ZIP-FMミュージック・ナビゲーター、2010年4月 - 2010年9月）
-  - [名越涼子](https://ja.wikipedia.org/wiki/名越涼子 "wikilink")（当時テレビ愛知アナウンサー、2010年10月 - 2013年9月）
+  - [服部愛子](../Page/服部愛子.md "wikilink")（当時ZIP-FMミュージック・ナビゲーター、2010年4月 - 2010年9月）
+  - [名越涼子](../Page/名越涼子.md "wikilink")（当時テレビ愛知アナウンサー、2010年10月 - 2013年9月）
   - [松本圭世](https://ja.wikipedia.org/wiki/松本圭世 "wikilink")（テレビ愛知アナウンサー、 2013年10月 - 2014年6月）
   - [福田由香](https://ja.wikipedia.org/wiki/福田由香 "wikilink")（テレビ愛知アナウンサー、 2014年7月　-）
 
@@ -121,7 +121,7 @@
   - P - KOJI SHINDO → NATSUMI SUMIDA、HISASHI TAKAHASHI
   - D - YOSHITAKA FUJIMOTO
   - C - TAKAYUKI KADOKURA
-  - 制作 - テレビ愛知ミュージック、[日経映像](https://ja.wikipedia.org/wiki/日経映像 "wikilink")
+  - 制作 - テレビ愛知ミュージック、[日経映像](../Page/日経映像.md "wikilink")
 
 ### a-ha-N +
 
@@ -133,26 +133,26 @@
 ### a-ha-N varie
 
   - [ズッコケ男道](../Page/ズッコケ男道.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")、2007年4月）
-  - おはようJAPAN （[RYO the SKYWALKER](https://ja.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink") & [トータス松本](../Page/トータス松本.md "wikilink")、2007年5月）
+  - おはようJAPAN （[RYO the SKYWALKER](../Page/RYO_the_SKYWALKER.md "wikilink") & [トータス松本](../Page/トータス松本.md "wikilink")、2007年5月）
   - [愛唄](../Page/愛唄.md "wikilink")（[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")、2007年6月）
   - [ギミギミック](../Page/RADWIMPS_4〜おかずのごはん〜.md "wikilink")（[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")、2007年7月）
   - ガンバレ\! （[KAME\&L.N.K](../Page/KAME&L.N.K.md "wikilink")、2007年8月）
-  - [美しい](https://ja.wikipedia.org/wiki/美しい_\(ゆらゆら帝国の曲\) "wikilink")（[ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")、2007年9月）
+  - [美しい](https://ja.wikipedia.org/wiki/美しい_\(ゆらゆら帝国の曲\) "wikilink")（[ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")、2007年9月）
   - [オリエンタル・ダイヤモンド](https://ja.wikipedia.org/wiki/オリエンタル・ダイヤモンド/くちびるモーション "wikilink")（[PUFFY](../Page/PUFFY.md "wikilink")、2007年10月）
-  - Blue Technique （[LEO今井](https://ja.wikipedia.org/wiki/LEO今井 "wikilink")、2007年11月）
-  - Love Story （[SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")、2007年12月）
-  - 真っ白な雪、真っ白な未来（[竹仲絵里](https://ja.wikipedia.org/wiki/竹仲絵里 "wikilink")、2008年1月）
+  - Blue Technique （[LEO今井](../Page/LEO今井.md "wikilink")、2007年11月）
+  - Love Story （[SOFFet](../Page/SOFFet.md "wikilink")、2007年12月）
+  - 真っ白な雪、真っ白な未来（[竹仲絵里](../Page/竹仲絵里.md "wikilink")、2008年1月）
   - [Baby cruising Love](https://ja.wikipedia.org/wiki/Baby_cruising_Love/マカロニ "wikilink") （[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")、2008年2月）
-  - [U](https://ja.wikipedia.org/wiki/VANDALIZE_\(10-FEETのアルバム\) "wikilink") （[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")、2008年3月）
+  - [U](https://ja.wikipedia.org/wiki/VANDALIZE_\(10-FEETのアルバム\) "wikilink") （[10-FEET](../Page/10-FEET.md "wikilink")、2008年3月）
   - [瞳孔ソナー](https://ja.wikipedia.org/wiki/瞳孔ソナー "wikilink")（[依布サラサ](https://ja.wikipedia.org/wiki/依布サラサ "wikilink")、2008年4月前半）
-  - [MERRY GO WORLD](https://ja.wikipedia.org/wiki/MERRY_GO_WORLD "wikilink") （[12012](https://ja.wikipedia.org/wiki/12012 "wikilink")、2008年4月後半 - 5月前半）
+  - [MERRY GO WORLD](https://ja.wikipedia.org/wiki/MERRY_GO_WORLD "wikilink") （[12012](../Page/12012.md "wikilink")、2008年4月後半 - 5月前半）
   - [恋一夜](https://ja.wikipedia.org/wiki/Recreation_\(アルバム\) "wikilink")（[Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink")、2008年5月後半 - 6月）
   - オアシス（[ぶどう÷グレープ](http://budo-grape.net/)、2008年7月第1週目）
-  - [Crash](https://ja.wikipedia.org/wiki/CHOICE_IS_YOURS "wikilink") （[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")、2008年7月第2週目以降）
+  - [Crash](../Page/CHOICE_IS_YOURS.md "wikilink") （[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")、2008年7月第2週目以降）
   - TURN TO STONE （[BECCA](https://ja.wikipedia.org/wiki/BECCA "wikilink")、2008年8月 - 9月第1週目）
-  - [恋いしくて](https://ja.wikipedia.org/wiki/恋いしくて "wikilink")（[UVERworld](../Page/UVERworld.md "wikilink")、2008年9月第2週目以降）
+  - [恋いしくて](../Page/恋いしくて.md "wikilink")（[UVERworld](../Page/UVERworld.md "wikilink")、2008年9月第2週目以降）
   - Dear My Friends （[上松秀実](https://ja.wikipedia.org/wiki/上松秀実 "wikilink")、2008年10月 - 11月前半）
-  - JUMPER （[capsule](https://ja.wikipedia.org/wiki/CAPSULE "wikilink")、2008年11月後半 - ）
+  - JUMPER （[capsule](../Page/CAPSULE.md "wikilink")、2008年11月後半 - ）
   - \----途中不明----
   - [イトシセツナナミダ](https://ja.wikipedia.org/wiki/イトシセツナナミダ "wikilink")（[Peaky SALT](https://ja.wikipedia.org/wiki/Peaky_SALT "wikilink")、2009年2月 - ）
 
@@ -160,14 +160,14 @@
 
   - [Go ahead\!](https://ja.wikipedia.org/wiki/Go_ahead! "wikilink") （[プリングミン](https://ja.wikipedia.org/wiki/プリングミン "wikilink")、2009年8月）
   - [春夏秋冬](https://ja.wikipedia.org/wiki/春夏秋冬_\(Hilcrhymeの曲\) "wikilink")（[Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")、2009年9月 - 10月）
-  - [かけら -総べての想いたちへ-](https://ja.wikipedia.org/wiki/かけら_-総べての想いたちへ- "wikilink") （[NICO Touches the Walls](https://ja.wikipedia.org/wiki/NICO_Touches_the_Walls "wikilink")、2009年11月）
+  - [かけら -総べての想いたちへ-](https://ja.wikipedia.org/wiki/かけら_-総べての想いたちへ- "wikilink") （[NICO Touches the Walls](../Page/NICO_Touches_the_Walls.md "wikilink")、2009年11月）
   - 黄昏ムーン（依布サラサ、2009年12月）
-  - [伝言](https://ja.wikipedia.org/wiki/伝言_\(藍坊主の曲\) "wikilink")（[藍坊主](https://ja.wikipedia.org/wiki/藍坊主 "wikilink")、2010年1月）
+  - [伝言](https://ja.wikipedia.org/wiki/伝言_\(藍坊主の曲\) "wikilink")（[藍坊主](../Page/藍坊主.md "wikilink")、2010年1月）
   - 君だけを見つけるために...（SQUAREHOOD、2010年2月）
   - サクラ咲ク（[スケルト・エイト・バンビーノ](https://ja.wikipedia.org/wiki/スケルト・エイト・バンビーノ "wikilink")、2010年3月）
   - [カーニバる?](https://ja.wikipedia.org/wiki/カーニバる? "wikilink")（[ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")、2010年4月）
   - STEP UP\!（[COMA-CHI](../Page/COMA-CHI.md "wikilink")、2010年5月）
-  - [レイン](https://ja.wikipedia.org/wiki/レイン_\(シドの曲\) "wikilink")（[シド](https://ja.wikipedia.org/wiki/シド_\(バンド\) "wikilink")、2010年6月）
+  - [レイン](https://ja.wikipedia.org/wiki/レイン_\(シドの曲\) "wikilink")（[シド](../Page/シド_\(バンド\).md "wikilink")、2010年6月）
   - ハルアシンメトリー（[LONELY↑D](https://ja.wikipedia.org/wiki/LONELY↑D "wikilink")、2010年7月）
   - [旅立ちグラフィティ](https://ja.wikipedia.org/wiki/旅立ちグラフィティ "wikilink")（[FLOW](../Page/FLOW.md "wikilink")、2010年11月）
   - [乱舞のメロディ](https://ja.wikipedia.org/wiki/乱舞のメロディ "wikilink")（シド、2010年12月）
@@ -193,7 +193,7 @@
   - FROG（LUCCI、2015年2月）
   - 褒めろよ（[GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")、2015年3月）
   - かけてあげる（[DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")、2015年4月）
-  - The Others（[MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")、2015年5月）
+  - The Others（[MIYAVI](../Page/MIYAVI.md "wikilink")、2015年5月）
   - 君が私をダメにする（[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink")、2015年6月）
   - Dan Dan Dan（[コアラモード.](https://ja.wikipedia.org/wiki/コアラモード. "wikilink")、2015年7月）
   - 夏の罪（[花岡なつみ](https://ja.wikipedia.org/wiki/花岡なつみ "wikilink")、2015年8月）
@@ -203,7 +203,7 @@
 
   - CROWS（[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、2015年10月）
   - 東京city（T/ssue、2015年11月）
-  - 時よ（[星野源](https://ja.wikipedia.org/wiki/星野源 "wikilink")、2015年12月）
+  - 時よ（[星野源](../Page/星野源.md "wikilink")、2015年12月）
   - あしたいろ（[安田レイ](https://ja.wikipedia.org/wiki/安田レイ "wikilink")、2016年1月）
   - みそしるママ らいすパパ（JMC(ジュミッチ)、2016年2月）
   - チョコレイトをちょうだい（[ONIGAWARA](https://ja.wikipedia.org/wiki/ONIGAWARA "wikilink")、2016年3月）
@@ -211,7 +211,7 @@
   - 動揺を童謡で学ぶ唄～うさぎとかめ編～（ISAAC、2016年5月）
   - Afraid To Be Cool（MIYAVI、2016年6月）
   - MARINE SNOW（[THE MUSMUS](../Page/THE_MUSMUS.md "wikilink")、2016年7月）
-  - [遥か](https://ja.wikipedia.org/wiki/遥か_\(モン吉の曲\) "wikilink")（[モン吉](https://ja.wikipedia.org/wiki/モン吉 "wikilink")、2016年8月）
+  - [遥か](https://ja.wikipedia.org/wiki/遥か_\(モン吉の曲\) "wikilink")（[モン吉](../Page/モン吉.md "wikilink")、2016年8月）
   - アンチヒーロー（[Half time Old](https://ja.wikipedia.org/wiki/Half_time_Old "wikilink")、2016年9月）
   - Search（BACK LIFT、2016年10月）
   - マジックアワー（[lyrical school](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")、2016年11月）
@@ -223,15 +223,15 @@
   - HEARTRAIL（[小松未可子](https://ja.wikipedia.org/wiki/小松未可子 "wikilink")、2017年5月）
   - SYAKUNETSU BEAT（[POT](https://ja.wikipedia.org/wiki/POT_\(バンド\) "wikilink")、2017年6月）
   - Sympathy（[Chara](https://ja.wikipedia.org/wiki/CHARA "wikilink")、2017年7月）
-  - TWO the PARADISE feat. [PES](../Page/PES.md "wikilink")([RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink"))（[FUKI](https://ja.wikipedia.org/wiki/FUKI "wikilink")、2017年8月）
+  - TWO the PARADISE feat. [PES](../Page/PES.md "wikilink")([RIP SLYME](../Page/RIP_SLYME.md "wikilink"))（[FUKI](https://ja.wikipedia.org/wiki/FUKI "wikilink")、2017年8月）
   - 存在照明（[近藤晃央](https://ja.wikipedia.org/wiki/近藤晃央 "wikilink")、2017年9月）
-  - [ミチシルベ](https://ja.wikipedia.org/wiki/ミチシルベ_\(Rihwaの曲\) "wikilink")（[Rihwa](https://ja.wikipedia.org/wiki/Rihwa "wikilink")、2017年10月）
+  - [ミチシルベ](../Page/ミチシルベ_\(Rihwaの曲\).md "wikilink")（[Rihwa](https://ja.wikipedia.org/wiki/Rihwa "wikilink")、2017年10月）
   - CHOCOLATE（[ちゃんみな](https://ja.wikipedia.org/wiki/ちゃんみな "wikilink")、2017年11月）
   - [Don't Let Me Down](https://ja.wikipedia.org/wiki/Don't_Let_Me_Down_\(Cellchromeの曲\) "wikilink")（[Cellchrome](https://ja.wikipedia.org/wiki/Cellchrome "wikilink")、2017年12月）
   - あっち向いてホイ（LUCCI、2018年1月）
   - Puzzle（[Leola](https://ja.wikipedia.org/wiki/Leola "wikilink")、2018年2月）
   - めぐり（[神田莉緒香](https://ja.wikipedia.org/wiki/神田莉緒香 "wikilink")、2018年3月）
-  - [やめちまぇ\!](https://ja.wikipedia.org/wiki/やめちまぇ! "wikilink")（[湘南乃風](https://ja.wikipedia.org/wiki/湘南乃風 "wikilink")、2018年4月）
+  - [やめちまぇ\!](https://ja.wikipedia.org/wiki/やめちまぇ! "wikilink")（[湘南乃風](../Page/湘南乃風.md "wikilink")、2018年4月）
   - World's End（[Mary's Blood](https://ja.wikipedia.org/wiki/Mary's_Blood "wikilink")、2018年5月）
   - それだけのこと（神田莉緒香、2018年6月）
   - Supra（POT、2018年7月）
@@ -240,40 +240,40 @@
   - Gotta Find A Light（FIVE NEW OLD、2018年10月）
   - あのころ見た光（[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")、2018年11月）
   - Silent Snow（Super Break Dawn（SBD）、2018年12月）
-  - 1004（[三上ちさこ](https://ja.wikipedia.org/wiki/三上ちさこ "wikilink")、2019年1月）
+  - 1004（[三上ちさこ](../Page/三上ちさこ.md "wikilink")、2019年1月）
   - 有頂天（[ポルカドットスティングレイ](https://ja.wikipedia.org/wiki/ポルカドットスティングレイ "wikilink")、2019年2月）
-  - テノヒラ（[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")、2019年3月）
+  - テノヒラ（[SEAMO](../Page/SEAMO.md "wikilink")、2019年3月）
 
 ## 特番
 
 ### a-ha-N SP\!\! 名・音AIR
 
   - 放送日時 - 2006年12月27日（水曜） 24:30 - 25:24
-  - 出演者 - [伊藤千晃](https://ja.wikipedia.org/wiki/伊藤千晃 "wikilink")（[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")）、[ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")、[ハレンチ☆パンチ](https://ja.wikipedia.org/wiki/80_pan "wikilink")、[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")、[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")ほか
+  - 出演者 - [伊藤千晃](../Page/伊藤千晃.md "wikilink")（[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")）、[ダイノジ](../Page/ダイノジ.md "wikilink")、[ハレンチ☆パンチ](../Page/80_pan.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[タッキー&翼](../Page/タッキー&翼.md "wikilink")ほか
 
 ### a-ha-N SP\!\! MUSIC TRAIN 音鉄♪名古屋線
 
   - 放送日時 - 2007年12月28日（金曜） 25:18 - 26:13
   - 収録現場 - [近鉄名古屋線](https://ja.wikipedia.org/wiki/近鉄名古屋線 "wikilink")運行列車内
-  - 出演者 - [ジェイムス・ヘイブンス](../Page/ジェイムス・ヘイブンス.md "wikilink")、[ひまり](https://ja.wikipedia.org/wiki/ひまり "wikilink")、[Ryohei](https://ja.wikipedia.org/wiki/Ryohei "wikilink")、[倭製ジェロニモ&ラブゲリラエクスペリエンス](../Page/!wagero!.md "wikilink")
-  - ナレーター - [荒井千里](https://ja.wikipedia.org/wiki/荒井千里 "wikilink")（当時テレビ愛知アナウンサー）
+  - 出演者 - [ジェイムス・ヘイブンス](../Page/ジェイムス・ヘイブンス.md "wikilink")、[ひまり](https://ja.wikipedia.org/wiki/ひまり "wikilink")、[Ryohei](../Page/Ryohei.md "wikilink")、[倭製ジェロニモ&ラブゲリラエクスペリエンス](../Page/!wagero!.md "wikilink")
+  - ナレーター - [荒井千里](../Page/荒井千里.md "wikilink")（当時テレビ愛知アナウンサー）
 
 ### MUSIC TRAIN -Train Hits Top 10-
 
   - 放送日時 - 2008年12月30日（火曜） 25:00 - 25:55
   - 収録現場 - [養老鉄道養老線](../Page/養老鉄道養老線.md "wikilink")運行列車内
-  - 出演者 - 水口美希、ジェイムス・ヘイブンス、[BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink")、[養老の星☆幸ちゃん](https://ja.wikipedia.org/wiki/養老の星☆幸ちゃん "wikilink")、[エイジアエンジニア](https://ja.wikipedia.org/wiki/エイジアエンジニア "wikilink")
+  - 出演者 - 水口美希、ジェイムス・ヘイブンス、[BRIGHT](https://ja.wikipedia.org/wiki/BRIGHT_\(ダンスボーカルグループ\) "wikilink")、[養老の星☆幸ちゃん](../Page/養老の星☆幸ちゃん.md "wikilink")、[エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink")
 
 ### a-ha-N 年末スペシャル 〜ありがとう2009〜
 
   - 放送日時 - 2009年12月30日（水曜） 24:10 - 25:05
-  - 収録現場 - [大須](../Page/大須.md "wikilink")商店街大寿喜、[名古屋クラブクアトロ](https://ja.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[台北市](../Page/台北市.md "wikilink")[万華区](https://ja.wikipedia.org/wiki/万華区 "wikilink")[西門町](https://ja.wikipedia.org/wiki/西門町 "wikilink")、同[士林区](https://ja.wikipedia.org/wiki/士林区 "wikilink")[士林夜市](../Page/士林夜市.md "wikilink")ほか
-  - 出演者 - 水口美希、スキマスイッチ、SEAMO、[高木大介](https://ja.wikipedia.org/wiki/高木大介 "wikilink")（テレビ愛知アナウンサー）、[竹森マサユキ](https://ja.wikipedia.org/wiki/カラーボトル "wikilink")、[鶴](https://ja.wikipedia.org/wiki/鶴_\(バンド\) "wikilink")、[ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
+  - 収録現場 - [大須](../Page/大須.md "wikilink")商店街大寿喜、[名古屋クラブクアトロ](../Page/CLUB_QUATTRO.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[台北市](../Page/台北市.md "wikilink")[万華区](../Page/万華区.md "wikilink")[西門町](../Page/西門町.md "wikilink")、同[士林区](../Page/士林区.md "wikilink")[士林夜市](../Page/士林夜市.md "wikilink")ほか
+  - 出演者 - 水口美希、スキマスイッチ、SEAMO、[高木大介](../Page/高木大介.md "wikilink")（テレビ愛知アナウンサー）、[竹森マサユキ](https://ja.wikipedia.org/wiki/カラーボトル "wikilink")、[鶴](https://ja.wikipedia.org/wiki/鶴_\(バンド\) "wikilink")、[ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")、[西野カナ](https://ja.wikipedia.org/wiki/西野カナ "wikilink")
 
 ### a-ha-N 年末スペシャル 〜ありがとう2010〜
 
   - 放送日時 - 2010年12月29日（水曜） 25:00 - 25:54
-  - 収録現場 - 大須商店街大寿喜、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")首都[ロンドン](../Page/ロンドン.md "wikilink")、同[マージーサイド](https://ja.wikipedia.org/wiki/マージーサイド "wikilink")州[リヴァプール](../Page/リヴァプール.md "wikilink")市
+  - 収録現場 - 大須商店街大寿喜、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")首都[ロンドン](../Page/ロンドン.md "wikilink")、同[マージーサイド](../Page/マージーサイド.md "wikilink")州[リヴァプール](../Page/リヴァプール.md "wikilink")市
   - 出演者 - 名越涼子、SEAMO、[IKE](https://ja.wikipedia.org/wiki/SPYAIR "wikilink")、[植村花菜](https://ja.wikipedia.org/wiki/植村花菜 "wikilink")
 
 ## 脚注

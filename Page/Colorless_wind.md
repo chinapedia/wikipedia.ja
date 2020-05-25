@@ -1,18 +1,18 @@
 > この記事は[Colorless wind](https://ja.wikipedia.org/wiki/Colorless_wind)から翻訳されています。
 
 
-「**colorless wind**」（カラーレス・ウィンド）は、[結城アイラ](../Page/結城アイラ.md "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+「**colorless wind**」（カラーレス・ウィンド）は、[結城アイラ](../Page/結城アイラ.md "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
-  - 「colorless wind」は、テレビアニメ『[sola](https://ja.wikipedia.org/wiki/sola "wikilink")』の[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")\[1\]。
+  - 「colorless wind」は、テレビアニメ『[sola](https://ja.wikipedia.org/wiki/sola "wikilink")』の[オープニングテーマ](../Page/主題歌.md "wikilink")\[1\]。
   - 『sola』及び同作に登場するキャラクターの世界観、時間がテーマになっている。
   - ジャケットには、本作のヒロインの一人・[四方茉莉が描かれている](https://ja.wikipedia.org/wiki/sola#キャラクター "wikilink")。
-  - 初回生産分には[七尾奈留](https://ja.wikipedia.org/wiki/七尾奈留 "wikilink")の描き下ろしスリーブが封入されている。
+  - 初回生産分には[七尾奈留](../Page/七尾奈留.md "wikilink")の描き下ろしスリーブが封入されている。
 
 ## 収録曲
 
-（全作詞：[畑亜貴](https://ja.wikipedia.org/wiki/畑亜貴 "wikilink")、作曲・編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")）
+（全作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")、作曲・編曲：[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")）
 
 1.  **colorless wind** \[4:55\]
 2.  **恋しかなかった** \[4:35\]

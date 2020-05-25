@@ -2649,7 +2649,7 @@ M1号（ラストのセリフ）</p></td>
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:00 - 19:30\[79\]
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")：土曜 17:30 - 18:00 ※1967年に放送\[80\]
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：日曜 19:00 - 19:30\[81\]
-  - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")：木曜 18:00 - 18:30 ※1967年に放送\[82\]
+  - [福井放送](../Page/福井放送.md "wikilink")：木曜 18:00 - 18:30 ※1967年に放送\[82\]
   - 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）：日曜 19:00 - 19:30\[83\]
 
 ## 関連番組

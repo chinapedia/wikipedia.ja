@@ -1,7 +1,7 @@
-> この記事は[BIGHOP](https://ja.wikipedia.org/wiki/BIGHOP)から翻訳されています。
+> この記事は[BIGHOPガーデンモール印西](https://ja.wikipedia.org/wiki/BIGHOPガーデンモール印西)から翻訳されています。
 
 
-**BIGHOPガーデンモール印西**（ビッグホップガーデンモールいんざい、[英](../Page/英語.md "wikilink"):BIG HOP Garden Mall Inzai）は、[千葉県](../Page/千葉県.md "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")（[千葉ニュータウン](../Page/千葉ニュータウン.md "wikilink")）に立地する[複合商業施設](../Page/複合商業施設.md "wikilink")である。
+**BIGHOPガーデンモール印西**（ビッグホップガーデンモールいんざい、[英](../Page/英語.md "wikilink")：BIG HOP Garden Mall Inzai）は、[千葉県](../Page/千葉県.md "wikilink")[印西市](https://ja.wikipedia.org/wiki/印西市 "wikilink")（[千葉ニュータウン](../Page/千葉ニュータウン.md "wikilink")）に立地する[複合商業施設](../Page/複合商業施設.md "wikilink")である。
 
 [商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")のほか、[観覧車](../Page/観覧車.md "wikilink")や屋内[動物園](../Page/動物園.md "wikilink")などの[遊園施設や](../Page/遊園地.md "wikilink")[印西](https://ja.wikipedia.org/wiki/印西市 "wikilink")[市役所](https://ja.wikipedia.org/wiki/市役所 "wikilink")（[牧の原出張所](https://ja.wikipedia.org/wiki/牧の原_\(印西市\) "wikilink")）も同建物内に入る。
 
@@ -22,17 +22,14 @@
 2007年のオープン時には年間来場者600万人を目標とするなど大きな期待が寄せられていたが\[5\]、開業後わずか7ヶ月で開発・運営会社が経営破綻し\[6\]、その後近隣に競合施設\[7\]がオープンするなどしたため客足が伸びず、運営会社が次々と変わる\[8\]\[9\]など不安定な経営が続いていた。それに伴いバリューモールは当初アウトレットモールとして期待され、約100店舗の[専門店](https://ja.wikipedia.org/wiki/専門店 "wikilink")が集積していたが 、その後撤退が相次いだ。
 
   - 2007年
-    [9月26日](../Page/9月26日.md "wikilink")：プレオープン。
-    [9月28日](../Page/9月28日.md "wikilink")：グランドオープン。
+      - [9月26日](../Page/9月26日.md "wikilink")：プレオープン。
+      - [9月28日](../Page/9月28日.md "wikilink")：グランドオープン。
   - 2008年
-    [5月19日](../Page/5月19日.md "wikilink")：開発・運営を行っていた「ミキシング」（大阪）\[10\]が経営破綻\[11\]。
-    [11月4日](../Page/11月4日.md "wikilink")：[住商アーバン開発](../Page/住商アーバン開発.md "wikilink")が運営を担当\[12\]。
-  - 2009年
-    [11月7日](../Page/11月7日.md "wikilink") - [8日](../Page/11月8日.md "wikilink")：[BSフジ](../Page/BSフジ.md "wikilink")『[Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")』とのタイアップイベント「スーパーキッズ王国 in 東京⇔成田SKYGATEシティ with Beポンキッキ」を開催\[13\]。
-  - 2013年
-    2月：住商アーバン開発に代わって[京阪流通システムズ](https://ja.wikipedia.org/wiki/京阪流通システムズ "wikilink")が運営を担当\[14\]。
-  - 2016年
-    7月：京阪流通システムズに代わってジョーンズラングラサール株式会社が運営を担当。
+      - [5月19日](../Page/5月19日.md "wikilink")：開発・運営を行っていた「ミキシング」（大阪）\[10\]が経営破綻\[11\]。
+      - [11月4日](../Page/11月4日.md "wikilink")：[住商アーバン開発](../Page/住商アーバン開発.md "wikilink")が運営を担当\[12\]。
+  - 2009年[11月7日](../Page/11月7日.md "wikilink") - [8日](../Page/11月8日.md "wikilink")：[BSフジ](../Page/BSフジ.md "wikilink")『[Beポンキッキ](https://ja.wikipedia.org/wiki/Beポンキッキ "wikilink")』とのタイアップイベント「スーパーキッズ王国 in 東京⇔成田SKYGATEシティ with Beポンキッキ」を開催\[13\]。
+  - 2013年2月：住商アーバン開発に代わって[京阪流通システムズ](https://ja.wikipedia.org/wiki/京阪流通システムズ "wikilink")が運営を担当\[14\]。
+  - 2016年7月：京阪流通システムズに代わってジョーンズラングラサール株式会社が運営を担当。
 
 ## 主なテナント
 
@@ -64,7 +61,7 @@
 ### 観覧車「そらッぱ」
 
   - メーカー：[泉陽興業](../Page/泉陽興業.md "wikilink")
-  - 観覧車最高高：地上 50.8m
+  - 観覧車最高高：地上50.8m
   - ゴンドラ数：32ゴンドラ（うち2基は車椅子乗車可能）
   - 一周時間：約15分
   - 設備：6人乗り、空調・音響完備
@@ -86,7 +83,7 @@
 
 #### ほごけんカフェ
 
-ペットショップや行政から保護された犬や猫と里親との橋渡しを目的にしたカフェ。30頭～40頭ほどのワンキャスト、10匹の猫キャストがいる。
+ペットショップや行政から保護された犬や猫と里親との橋渡しを目的にしたカフェ。30〜40頭ほどのワンキャスト、10匹の猫キャストがいる。
 
 カフェの飲食商品売り上げの一部は保護犬の活動費として役立てている。その他の施設は以下。
 

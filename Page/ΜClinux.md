@@ -1,23 +1,23 @@
-> この記事は[Clinux](https://ja.wikipedia.org/wiki/Clinux)から翻訳されています。
+> この記事は[ΜClinux](https://ja.wikipedia.org/wiki/ΜClinux)から翻訳されています。
 
 
-**μClinux**（マイクロシーリナックス）は、[メモリ管理ユニット](https://ja.wikipedia.org/wiki/メモリ管理ユニット "wikilink")(MMU)を除いた[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")向けの[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")のフォークである。\[1\] μCとは"Micro Controller"の略語である。
+**μClinux**（マイクロシーリナックス）は、[メモリ管理ユニット](../Page/メモリ管理ユニット.md "wikilink")(MMU)を除いた[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")向けの[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")のフォークである。\[1\] μCとは"Micro Controller"の略語である。
 
 ## サポートアーキテクチャ
 
 現在は次のプラットフォームをサポートする
 
-  - [Freescale](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink") M68K ([DragonBall](https://ja.wikipedia.org/wiki/DragonBall "wikilink"), [ColdFire](https://ja.wikipedia.org/wiki/ColdFire "wikilink"), [PowerQUICC](https://ja.wikipedia.org/wiki/PowerQUICC "wikilink") その他を含む)
+  - [Freescale](../Page/フリースケール・セミコンダクタ.md "wikilink") M68K ([DragonBall](../Page/DragonBall.md "wikilink"), [ColdFire](../Page/ColdFire.md "wikilink"), [PowerQUICC](../Page/PowerQUICC.md "wikilink") その他を含む)
   - [ADI](https://ja.wikipedia.org/wiki/Analog_Devices "wikilink") [Blackfin](https://ja.wikipedia.org/wiki/Blackfin "wikilink")
   - [ETRAX](https://ja.wikipedia.org/wiki/ETRAX_CRIS "wikilink")
-  - [ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink") (例としてはSigma Designs [DVD](../Page/DVD.md "wikilink")エンジン)
-  - [Intel i960](https://ja.wikipedia.org/wiki/Intel_i960 "wikilink")
-  - [Xilinx](https://ja.wikipedia.org/wiki/ザイリンクス "wikilink") [MicroBlaze](https://ja.wikipedia.org/wiki/MicroBlaze "wikilink")
+  - [ARM](../Page/ARMアーキテクチャ.md "wikilink") (例としてはSigma Designs [DVD](../Page/DVD.md "wikilink")エンジン)
+  - [Intel i960](../Page/Intel_i960.md "wikilink")
+  - [Xilinx](../Page/ザイリンクス.md "wikilink") [MicroBlaze](../Page/MicroBlaze.md "wikilink")
   - [NEC](https://ja.wikipedia.org/wiki/NEC "wikilink") [V850](https://ja.wikipedia.org/wiki/V850 "wikilink")E
-  - [Hitachi](../Page/日立製作所.md "wikilink") [H8](https://ja.wikipedia.org/wiki/H8 "wikilink")
-  - [MIPS](https://ja.wikipedia.org/wiki/MIPSアーキテクチャ "wikilink") (例としては[Brecis](https://ja.wikipedia.org/wiki/Brecis "wikilink")パーツ)
+  - [Hitachi](../Page/日立製作所.md "wikilink") [H8](../Page/H8.md "wikilink")
+  - [MIPS](../Page/MIPSアーキテクチャ.md "wikilink") (例としては[Brecis](https://ja.wikipedia.org/wiki/Brecis "wikilink")パーツ)
   - [Fujitsu](../Page/富士通.md "wikilink") [FR-V](https://ja.wikipedia.org/wiki/FR-V "wikilink")
-  - [Altera](https://ja.wikipedia.org/wiki/アルテラ "wikilink") [NIOS](https://ja.wikipedia.org/wiki/NIOS "wikilink")
+  - [Altera](../Page/アルテラ.md "wikilink") [NIOS](https://ja.wikipedia.org/wiki/NIOS "wikilink")
 
 ## 脚注
 

@@ -1,4 +1,4 @@
-> この記事は[HEARTBREAK2](https://ja.wikipedia.org/wiki/HEARTBREAK2)から翻訳されています。
+> この記事は[HEARTBREAK＃2](https://ja.wikipedia.org/wiki/HEARTBREAK＃2)から翻訳されています。
 
 
 『**HEARTBREAK\#2**』（はーとぶれいく-）は[3B LAB.☆の](https://ja.wikipedia.org/wiki/3B_LAB.☆ "wikilink")2枚目のアルバム。
@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-作詞・作曲：[岡平健治](https://ja.wikipedia.org/wiki/岡平健治 "wikilink")（全曲）
+作詞・作曲：[岡平健治](../Page/岡平健治.md "wikilink")（全曲）
 
 1.  Opening of the 3B world
 2.  LEFTIE-RIGHTIE

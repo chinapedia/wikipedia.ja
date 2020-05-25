@@ -1,4 +1,4 @@
-> この記事は[Smile Again \(\)](https://ja.wikipedia.org/wiki/Smile_Again_\(\))から翻訳されています。
+> この記事は[Smile Again \(小泉今日子の曲\)](https://ja.wikipedia.org/wiki/Smile_Again_\(小泉今日子の曲\))から翻訳されています。
 
 
 「**Smile Again**」（スマイル・アゲイン）は、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")7月に[リリースした](https://ja.wikipedia.org/wiki/発売 "wikilink")23枚目の[シングル](../Page/シングル.md "wikilink")である([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"):SV-9251)。

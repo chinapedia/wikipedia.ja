@@ -1,19 +1,19 @@
-> この記事は[MTKFC](https://ja.wikipedia.org/wiki/MTKFC)から翻訳されています。
+> この記事は[MTKブダペストFC](https://ja.wikipedia.org/wiki/MTKブダペストFC)から翻訳されています。
 
 
 **MTKブダペストFC**（）は、[ハンガリー](../Page/ハンガリー.md "wikilink")の首都[ブダペスト](../Page/ブダペスト.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
 ## 歴史
 
-クラブは[1888年](../Page/1888年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")にブダペスト市内のカフェにて「マジャル・テシュトジャコルローク・ケレ」（、ハンガリー運動サークルの意」として創設された\[1\]。当初は[フェンシング](../Page/フェンシング.md "wikilink")と[体操](https://ja.wikipedia.org/wiki/体操 "wikilink")部門のみであったが、[1901年](../Page/1901年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")にサッカー部門が設立され、最初の試合はに0-0で引き分けた\[2\]。
+クラブは[1888年](../Page/1888年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")にブダペスト市内のカフェにて「マジャル・テシュトジャコルローク・ケレ」（、ハンガリー運動サークルの意」として創設された\[1\]。当初は[フェンシング](../Page/フェンシング.md "wikilink")と[体操](../Page/体操.md "wikilink")部門のみであったが、[1901年](../Page/1901年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")にサッカー部門が設立され、最初の試合はに0-0で引き分けた\[2\]。
 
 その後、MTKは[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の影響を受けながらも[1905年](../Page/1905年.md "wikilink")から[1940年代](../Page/1940年代.md "wikilink")のアマチュアリーグからプロリーグ黎明期にかけて15回のハンガリーリーグのタイトルと7回のハンガリーカップを獲得した。一方、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の頃には[ユダヤ人排斥の台頭に伴い](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")、クラブの創設に携わったユダヤ系の関係者や選手たちを排除するよう圧力を受けた\[3\]。
 
-戦後、ハンガリーが[共産主義国となった](../Page/社会主義国.md "wikilink")[1949年](../Page/1949年.md "wikilink")にMTKは[ハンガリー国家保衛庁](../Page/ハンガリー国家保衛庁.md "wikilink") (, 略称：AVH) によって買収され「」と改称した。それから短期間のうちに「」、「ヴェレシュ・ロボゴー SE」(、[赤旗](https://ja.wikipedia.org/wiki/赤旗 "wikilink")の意) と改称した後、最終的にMTKに戻された\[4\]。この混乱にも関わらず1950年代には3度のリーグタイトル（1951年、1953年、1958年）を獲得、[1955年](../Page/1955年.md "wikilink")に国際タイトルである[ミトローパ・カップ](../Page/ミトローパ・カップ.md "wikilink")を制覇。また同年に[UEFAチャンピオンズカップに出場UEFA主催の国際大会に参加する初のハンガリーのクラブとなり](../Page/UEFAチャンピオンズリーグ.md "wikilink")、その後1963-64シーズンの[UEFAカップウィナーズカップでは決勝へ進出](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1963-64 "wikilink")、ポルトガルの[スポルティングCPと対戦し](https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル "wikilink")、準優勝の結果を残した。
+戦後、ハンガリーが[共産主義国となった](../Page/社会主義国.md "wikilink")[1949年](../Page/1949年.md "wikilink")にMTKは[ハンガリー国家保衛庁](../Page/ハンガリー国家保衛庁.md "wikilink") (, 略称：AVH) によって買収され「」と改称した。それから短期間のうちに「」、「ヴェレシュ・ロボゴー SE」(、[赤旗](../Page/赤旗.md "wikilink")の意) と改称した後、最終的にMTKに戻された\[4\]。この混乱にも関わらず1950年代には3度のリーグタイトル（1951年、1953年、1958年）を獲得、[1955年](../Page/1955年.md "wikilink")に国際タイトルである[ミトローパ・カップ](../Page/ミトローパ・カップ.md "wikilink")を制覇。また同年に[UEFAチャンピオンズカップに出場UEFA主催の国際大会に参加する初のハンガリーのクラブとなり](../Page/UEFAチャンピオンズリーグ.md "wikilink")、その後1963-64シーズンの[UEFAカップウィナーズカップでは決勝へ進出](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1963-64 "wikilink")、ポルトガルの[スポルティングCPと対戦し](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")、準優勝の結果を残した。
 
-MTKの選手達は[マジック・マジャール](https://ja.wikipedia.org/wiki/マジック・マジャール "wikilink")として知られる[ハンガリー代表の成功の中で](https://ja.wikipedia.org/wiki/サッカーハンガリー代表 "wikilink")[ブダペスト・ホンヴェードの選手達と共に中心的な役割を果たした](https://ja.wikipedia.org/wiki/ブダペスト・ホンヴェードFC "wikilink")。 [ヒデクチ・ナーンドル](../Page/ヒデクチ・ナーンドル.md "wikilink")は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")に敵地[ロンドン](../Page/ロンドン.md "wikilink")・[ウェンブリー・スタジアムで行われた](../Page/ウェンブリー・スタジアム_\(1923\).md "wikilink")[イングランド代表との試合において](https://ja.wikipedia.org/wiki/サッカーイングランド代表 "wikilink")[ハットトリック](../Page/ハットトリック.md "wikilink")を記録し、歴史的な試合の勝利に貢献するなど攻撃面で重要な役割を果たし、[ラントシュ・ミハーイ](https://ja.wikipedia.org/wiki/ラントシュ・ミハーイ "wikilink")と[ザカリアーシュ・ヨージェフ](https://ja.wikipedia.org/wiki/ザカリアーシュ・ヨージェフ "wikilink")は守備面で代表を支えた\[5\]。
+MTKの選手達は[マジック・マジャール](../Page/マジック・マジャール.md "wikilink")として知られる[ハンガリー代表の成功の中で](../Page/サッカーハンガリー代表.md "wikilink")[ブダペスト・ホンヴェードの選手達と共に中心的な役割を果たした](../Page/ブダペスト・ホンヴェードFC.md "wikilink")。 [ヒデクチ・ナーンドル](../Page/ヒデクチ・ナーンドル.md "wikilink")は[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")に敵地[ロンドン](../Page/ロンドン.md "wikilink")・[ウェンブリー・スタジアムで行われた](../Page/ウェンブリー・スタジアム_\(1923\).md "wikilink")[イングランド代表との試合において](../Page/サッカーイングランド代表.md "wikilink")[ハットトリック](../Page/ハットトリック.md "wikilink")を記録し、歴史的な試合の勝利に貢献するなど攻撃面で重要な役割を果たし、[ラントシュ・ミハーイ](https://ja.wikipedia.org/wiki/ラントシュ・ミハーイ "wikilink")と[ザカリアーシュ・ヨージェフ](https://ja.wikipedia.org/wiki/ザカリアーシュ・ヨージェフ "wikilink")は守備面で代表を支えた\[5\]。
 
-また、マジック・マジャールは従来の[WMシステムを発展させた](https://ja.wikipedia.org/wiki/WMフォーメーション "wikilink")[4-2-4](https://ja.wikipedia.org/wiki/4-2-4 "wikilink")の原型となるシステムを採用し、後に世界中に普及していったが、そのシステムを最初に採用したのがMTKの監督[ブコヴィ・マールトン](https://ja.wikipedia.org/wiki/ブコヴィ・マールトン "wikilink")で、後に代表監督の[シェベシュ・グスターヴ](https://ja.wikipedia.org/wiki/シェベシュ・グスターヴ "wikilink")（彼も元MTKの選手）によって採用されたといわれる。
+また、マジック・マジャールは従来の[WMシステムを発展させた](../Page/WMフォーメーション.md "wikilink")[4-2-4](../Page/4-2-4.md "wikilink")の原型となるシステムを採用し、後に世界中に普及していったが、そのシステムを最初に採用したのがMTKの監督[ブコヴィ・マールトン](https://ja.wikipedia.org/wiki/ブコヴィ・マールトン "wikilink")で、後に代表監督の[シェベシュ・グスターヴ](https://ja.wikipedia.org/wiki/シェベシュ・グスターヴ "wikilink")（彼も元MTKの選手）によって採用されたといわれる。
 
 [国際サッカー歴史統計連盟](https://ja.wikipedia.org/wiki/国際サッカー歴史統計連盟 "wikilink") (IFFHS) が発表した20世紀ヨーロッパにおけるクラブランキングでは、ハンガリーのクラブとしては[フェレンツヴァーロシュTC](../Page/フェレンツヴァーロシュTC.md "wikilink")、[ウーイペシュトに次いで](https://ja.wikipedia.org/wiki/ウーイペシュトFC "wikilink")、58位にランクされた\[6\]。
 
@@ -123,7 +123,7 @@ MTKの選手達は[マジック・マジャール](https://ja.wikipedia.org/wiki
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2008-09" title="wikilink">2008-09</a></p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td></td>
 <td></td>
 <td><p>'''</p></td>
@@ -210,7 +210,7 @@ MTKの選手達は[マジック・マジャール](https://ja.wikipedia.org/wiki
 
   - [エゲルヴァーリ・シャーンドル](https://ja.wikipedia.org/wiki/エゲルヴァーリ・シャーンドル "wikilink") 1998-1999
 
-  - [ヘンク・テン・カテ](https://ja.wikipedia.org/wiki/ヘンク・テン・カテ "wikilink") 1999-2000
+  - [ヘンク・テン・カテ](../Page/ヘンク・テン・カテ.md "wikilink") 1999-2000
 
   - [ブザンキ・アコシュ](https://ja.wikipedia.org/wiki/ブザンキ・アコシュ_\(サッカー指導者\) "wikilink") 1999-2002
 

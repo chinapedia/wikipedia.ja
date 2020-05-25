@@ -1,13 +1,13 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ベイシンストーク・タウンFC](https://ja.wikipedia.org/wiki/ベイシンストーク・タウンFC)から翻訳されています。
 
 
-**ベイジングストーク・タウン・フットボール・クラブ**（**Basingstoke Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[ハンプシャー州](https://ja.wikipedia.org/wiki/ハンプシャー州 "wikilink")[ベイジングストーク](https://ja.wikipedia.org/wiki/ベイジングストーク "wikilink")を本拠地とするサッカークラブチームである。2016-2017シーズンは[サザンフットボールリーグ・プレミアディヴィジョン](https://ja.wikipedia.org/wiki/サザンフットボールリーグ・プレミアディヴィジョン "wikilink")（7部相当）に所属。
+**ベイジングストーク・タウン・フットボール・クラブ**（**Basingstoke Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[ハンプシャー州](https://ja.wikipedia.org/wiki/ハンプシャー州 "wikilink")[ベイジングストーク](https://ja.wikipedia.org/wiki/ベイジングストーク "wikilink")を本拠地とするサッカークラブチームである。2016-2017シーズンは[サザンフットボールリーグ・プレミアディヴィジョン](../Page/サザンフットボールリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。
 
 ## クラブ各種記録
 
 **一試合最多観客動員数**
 
-  - 5,085人 vs [ウィコム・ワンダラーズ](https://ja.wikipedia.org/wiki/ウィコム・ワンダラーズFC "wikilink") FAカップ予備予選1回戦 1997.11
+  - 5,085人 vs [ウィコム・ワンダラーズ](../Page/ウィコム・ワンダラーズFC.md "wikilink") FAカップ予備予選1回戦 1997.11
 
 **一試合最多得点勝利試合**
 
@@ -72,7 +72,7 @@
 
   - [デビッド・プラット](https://ja.wikipedia.org/wiki/デビッド・プラット_\(1987年生まれのサッカー選手\) "wikilink") 2009-2012
 
-  - [サイモン・ムーア](https://ja.wikipedia.org/wiki/サイモン・ムーア "wikilink") 2010-2011
+  - [サイモン・ムーア](../Page/サイモン・ムーア.md "wikilink") 2010-2011
 
 ## 外部リンク
 

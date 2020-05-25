@@ -1,18 +1,18 @@
 > この記事は[SWEET REVOLUTION](https://ja.wikipedia.org/wiki/SWEET_REVOLUTION)から翻訳されています。
 
 
-『**SWEET REVOLUTION**』（スウィート レボリューション）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売された[氷室京介](../Page/氷室京介.md "wikilink")の25枚目のシングル。発売元は[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**SWEET REVOLUTION**』（スウィート レボリューション）は、[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に発売された[氷室京介](../Page/氷室京介.md "wikilink")の25枚目のシングル。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
-  - 前作「[EASY LOVE／BITCH AS WITCH](https://ja.wikipedia.org/wiki/EASY_LOVE "wikilink")」から約8ヶ月ぶりとなるシングル。
-  - 「[ダイヤモンド・ダスト](https://ja.wikipedia.org/wiki/ダイヤモンド・ダスト "wikilink")」以来7年ぶりとなるTOP3入りを果たした。
+  - 前作「[EASY LOVE／BITCH AS WITCH](../Page/EASY_LOVE.md "wikilink")」から約8ヶ月ぶりとなるシングル。
+  - 「[ダイヤモンド・ダスト](../Page/ダイヤモンド・ダスト.md "wikilink")」以来7年ぶりとなるTOP3入りを果たした。
   - CDのみのバージョン、CD+DVDのバージョン、DVDのトールケースに入ったバージョンが存在する。
 
 ## 収録曲
 
 1.  **SWEET REVOLUTION**
-      - 作詞：[YUKINOJO MORI](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲・編曲：KYOUSUKE HIMURO
+      - 作詞：[YUKINOJO MORI](../Page/森雪之丞.md "wikilink") / 作曲・編曲：KYOUSUKE HIMURO
     <!-- end list -->
       -
         [読売テレビ系列](../Page/讀賣テレビ放送.md "wikilink")『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』エンディングテーマ
@@ -34,7 +34,7 @@
 **SWEET REVOLUTION**
 
   - [IN THE MOOD](https://ja.wikipedia.org/wiki/IN_THE_MOOD "wikilink") (アルバムバージョン)
-  - [20th Anniversary ALL SINGLES COMPLETE BEST JUST MOVIN' ON 〜ALL THE-S-HIT〜](https://ja.wikipedia.org/wiki/20th_Anniversary_ALL_SINGLES_COMPLETE_BEST_JUST_MOVIN'_ON_〜ALL_THE-S-HIT〜 "wikilink") (アルバムバージョン)
+  - [20th Anniversary ALL SINGLES COMPLETE BEST JUST MOVIN' ON 〜ALL THE-S-HIT〜](../Page/20th_Anniversary_ALL_SINGLES_COMPLETE_BEST_JUST_MOVIN'_ON_〜ALL_THE-S-HIT〜.md "wikilink") (アルバムバージョン)
 
 **IN THE NUDE 〜Even not in the mood〜**
 

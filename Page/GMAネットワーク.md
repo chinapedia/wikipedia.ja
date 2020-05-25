@@ -1,4 +1,4 @@
-> この記事は[GMA](https://ja.wikipedia.org/wiki/GMA)から翻訳されています。
+> この記事は[GMAネットワーク](https://ja.wikipedia.org/wiki/GMAネットワーク)から翻訳されています。
 
 
 **GMAネットワーク**（）とは、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の大手テレビ局。

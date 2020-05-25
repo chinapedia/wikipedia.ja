@@ -1,4 +1,4 @@
-> この記事は[ D](https://ja.wikipedia.org/wiki/_D)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 D](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_D)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**D**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_Dade" title="wikilink">Paul Dade</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・デード" title="wikilink">ポール・デード</a></p></td>
+<td><p><a href="../Page/ポール・デード.md" title="wikilink">ポール・デード</a></p></td>
 <td><p>1975</p></td>
 <td><p>1980</p></td>
 <td></td>
@@ -459,7 +459,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Johnny_Damon" title="wikilink">Johnny Damon</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョニー・デイモン" title="wikilink">ジョニー・デイモン</a></p></td>
+<td><p><a href="../Page/ジョニー・デイモン.md" title="wikilink">ジョニー・デイモン</a></p></td>
 <td><p>1995</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -984,7 +984,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tom_Davey" title="wikilink">Tom Davey</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・デイビー" title="wikilink">トム・デイビー</a></p></td>
+<td><p><a href="../Page/トム・デイビー.md" title="wikilink">トム・デイビー</a></p></td>
 <td><p>1999</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -1229,7 +1229,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dick_Davis_(baseball)" title="wikilink">Dick Davis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リチャード・デービス_(野球)" title="wikilink">ディック・デービス</a></p></td>
+<td><p><a href="../Page/リチャード・デービス_(野球).md" title="wikilink">ディック・デービス</a></p></td>
 <td><p>1977</p></td>
 <td><p>1982</p></td>
 <td></td>
@@ -1250,14 +1250,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Doug_Davis_(pitcher)" title="wikilink">Doug Davis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダグ・デービス_(投手)" title="wikilink">ダグ・デービス</a></p></td>
+<td><p><a href="../Page/ダグ・デービス_(投手).md" title="wikilink">ダグ・デービス</a></p></td>
 <td><p>1999</p></td>
 <td><p>2011</p></td>
 <td><p>投手、Douglas Davis</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eric_Davis_(baseball)" title="wikilink">Eric Davis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・デービス" title="wikilink">エリック・デービス</a></p></td>
+<td><p><a href="../Page/エリック・デービス.md" title="wikilink">エリック・デービス</a></p></td>
 <td><p>1984</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -1285,7 +1285,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Glenn_Davis_(baseball)" title="wikilink">Glenn Davis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレン・デービス_(野球)" title="wikilink">グレン・デービス</a></p></td>
+<td><p><a href="../Page/グレン・デービス_(野球).md" title="wikilink">グレン・デービス</a></p></td>
 <td><p>1984</p></td>
 <td><p>1993</p></td>
 <td></td>
@@ -1502,7 +1502,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Rajai_Davis" title="wikilink">Rajai Davis</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラージャイ・デービス" title="wikilink">ラジェイ・デービス</a></p></td>
+<td><p><a href="../Page/ラージャイ・デービス.md" title="wikilink">ラジェイ・デービス</a></p></td>
 <td><p>2006</p></td>
 <td></td>
 <td></td>
@@ -1621,7 +1621,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Willie_Davis_(baseball)" title="wikilink">Willie Davis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・デービス_(野球)" title="wikilink">ウィリー・デービス</a></p></td>
+<td><p><a href="../Page/ウィリー・デービス_(野球).md" title="wikilink">ウィリー・デービス</a></p></td>
 <td><p>1960</p></td>
 <td><p>1979</p></td>
 <td></td>
@@ -1919,7 +1919,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jorge_de_la_Rosa" title="wikilink">Jorge De La Rosa</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホルヘ・デラロサ" title="wikilink">ホルヘ・デラローサ</a></p></td>
+<td><p><a href="../Page/ホルヘ・デラロサ.md" title="wikilink">ホルヘ・デラローサ</a></p></td>
 <td><p>2004</p></td>
 <td></td>
 <td></td>
@@ -1933,7 +1933,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tomás_de_la_Rosa" title="wikilink">Tomas de la Rosa</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トマス・デラロサ" title="wikilink">トマス・デラローサ</a></p></td>
+<td><p><a href="../Page/トマス・デラロサ.md" title="wikilink">トマス・デラローサ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -1983,7 +1983,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luis_de_los_Santos" title="wikilink">Luis de los Santos</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・デロスサントス_(内野手)" title="wikilink">ルイス・デロスサントス</a></p></td>
+<td><p><a href="../Page/ルイス・デロスサントス_(内野手).md" title="wikilink">ルイス・デロスサントス</a></p></td>
 <td><p>1988</p></td>
 <td><p>1991</p></td>
 <td><p>内野手、Luis Manuel (Martinez) de los Santos</p></td>
@@ -2046,7 +2046,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roger_Deago" title="wikilink">Roger Deago</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロジャー・デアゴ" title="wikilink">ロジャー・ディアゴ</a></p></td>
+<td><p><a href="../Page/ロジャー・デアゴ.md" title="wikilink">ロジャー・ディアゴ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -2221,7 +2221,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_DeBusschere" title="wikilink">Dave DeBusschere</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイブ・ディバッシャー" title="wikilink">デーブ・デバッシャー</a></p></td>
+<td><p><a href="../Page/デイブ・ディバッシャー.md" title="wikilink">デーブ・デバッシャー</a></p></td>
 <td><p>1962</p></td>
 <td><p>1963</p></td>
 <td><p><a href="../Page/NBA.md" title="wikilink">NBA</a>でのプレイ経験あり</p></td>
@@ -2375,7 +2375,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rob_Deer" title="wikilink">Rob Deer</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロブ・ディアー" title="wikilink">ロブ・ディアー</a></p></td>
+<td><p><a href="../Page/ロブ・ディアー.md" title="wikilink">ロブ・ディアー</a></p></td>
 <td><p>1984</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -2466,7 +2466,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rick_DeHart" title="wikilink">Rick DeHart</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リック・デハート" title="wikilink">リック・デハート</a></p></td>
+<td><p><a href="../Page/リック・デハート.md" title="wikilink">リック・デハート</a></p></td>
 <td><p>1997</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -2606,7 +2606,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Miguel_del_Toro" title="wikilink">Miguel Del Toro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミゲール・デルトロ" title="wikilink">ミゲール・デルトーロ</a></p></td>
+<td><p><a href="../Page/ミゲール・デルトロ.md" title="wikilink">ミゲール・デルトーロ</a></p></td>
 <td><p>1999</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -2712,7 +2712,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carlos_Delgado" title="wikilink">Carlos Delgado</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・デルガド" title="wikilink">カルロス・デルガード</a></p></td>
+<td><p><a href="../Page/カルロス・デルガド.md" title="wikilink">カルロス・デルガード</a></p></td>
 <td><p>1993</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -2782,7 +2782,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Dellucci" title="wikilink">David Dellucci</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・デルーチ" title="wikilink">デービッド・デルーチ</a></p></td>
+<td><p><a href="../Page/デビッド・デルーチ.md" title="wikilink">デービッド・デルーチ</a></p></td>
 <td><p>1997</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -2978,7 +2978,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Dempster" title="wikilink">Ryan Dempster</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライアン・デンプスター" title="wikilink">ライアン・デンプスター</a></p></td>
+<td><p><a href="../Page/ライアン・デンプスター.md" title="wikilink">ライアン・デンプスター</a></p></td>
 <td><p>1998</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3069,7 +3069,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Denorfia" title="wikilink">Chris Denorfia</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・デノーフィア" title="wikilink">クリス・デノーフィア</a></p></td>
+<td><p><a href="../Page/クリス・デノーフィア.md" title="wikilink">クリス・デノーフィア</a></p></td>
 <td><p>2005</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -3188,7 +3188,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_DeRosa" title="wikilink">Mark DeRosa</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・デローサ" title="wikilink">マーク・デローサ</a></p></td>
+<td><p><a href="../Page/マーク・デローサ.md" title="wikilink">マーク・デローサ</a></p></td>
 <td><p>1998</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3496,7 +3496,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Devlin" title="wikilink">Jim Devlin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・デブリン" title="wikilink">ジム・デブリン</a></p></td>
+<td><p><a href="../Page/ジム・デブリン.md" title="wikilink">ジム・デブリン</a></p></td>
 <td><p>1873</p></td>
 <td><p>1877</p></td>
 <td><p>投手、James Alexander Devlin</p></td>
@@ -3701,7 +3701,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eddy_Díaz" title="wikilink">Eddy Diaz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エディ・ディアス" title="wikilink">エディ・ディアス</a></p></td>
+<td><p><a href="../Page/エディ・ディアス.md" title="wikilink">エディ・ディアス</a></p></td>
 <td><p>1997</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -3743,7 +3743,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Félix_Díaz_(baseball)" title="wikilink">Felix Diaz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェリックス・ディアス" title="wikilink">フェリックス・ディアス</a></p></td>
+<td><p><a href="../Page/フェリックス・ディアス.md" title="wikilink">フェリックス・ディアス</a></p></td>
 <td><p>2004</p></td>
 <td><p>2004</p></td>
 <td></td>
@@ -3806,7 +3806,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Matt_Diaz" title="wikilink">Matt Diaz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マット・ダイアズ" title="wikilink">マット・ダイアズ</a></p></td>
+<td><p><a href="../Page/マット・ダイアズ.md" title="wikilink">マット・ダイアズ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3820,7 +3820,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Diaz" title="wikilink">Mike Diaz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ディアズ" title="wikilink">マイク・ディアス</a></p></td>
+<td><p><a href="../Page/マイク・ディアズ.md" title="wikilink">マイク・ディアス</a></p></td>
 <td><p>1983</p></td>
 <td><p>1988</p></td>
 <td></td>
@@ -4212,7 +4212,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Dillard_(baseball)" title="wikilink">Steve Dillard</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ディラード" title="wikilink">スティーブ・ディラード</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ディラード_(野球)" title="wikilink">スティーブ・ディラード</a></p></td>
 <td><p>1975</p></td>
 <td><p>1982</p></td>
 <td></td>
@@ -4254,7 +4254,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Dillon" title="wikilink">Joe Dillon</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ディロン" title="wikilink">ジョー・ディロン</a></p></td>
+<td><p><a href="../Page/ジョー・ディロン.md" title="wikilink">ジョー・ディロン</a></p></td>
 <td><p>2005</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -4310,7 +4310,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_DiMaggio" title="wikilink">Joe DiMaggio</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ディマジオ" title="wikilink">ジョー・ディマジオ</a></p></td>
+<td><p><a href="../Page/ジョー・ディマジオ.md" title="wikilink">ジョー・ディマジオ</a></p></td>
 <td><p>1936</p></td>
 <td><p>1951</p></td>
 <td><p>殿堂入り</p></td>
@@ -4345,7 +4345,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lenny_DiNardo" title="wikilink">Lenny DiNardo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レニー・ディナルド" title="wikilink">レニー・ディナード</a></p></td>
+<td><p><a href="../Page/レニー・ディナルド.md" title="wikilink">レニー・ディナード</a></p></td>
 <td><p>2004</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -4485,7 +4485,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Benny_Distefano" title="wikilink">Benny Distefano</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベニー・ディステファーノ" title="wikilink">ベニー・ディステファーノ</a></p></td>
+<td><p><a href="../Page/ベニー・ディステファーノ.md" title="wikilink">ベニー・ディステファーノ</a></p></td>
 <td><p>1984</p></td>
 <td><p>1992</p></td>
 <td></td>
@@ -4732,7 +4732,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Larry_Doby" title="wikilink">Larry Doby</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・ドビー" title="wikilink">ラリー・ドビー</a></p></td>
+<td><p><a href="../Page/ラリー・ドビー.md" title="wikilink">ラリー・ドビー</a></p></td>
 <td><p>1947</p></td>
 <td><p>1959</p></td>
 <td><p>殿堂入り</p></td>
@@ -4816,7 +4816,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bobby_Doerr" title="wikilink">Bobby Doerr</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボビー・ドーア" title="wikilink">ボビー・ドーア</a></p></td>
+<td><p><a href="../Page/ボビー・ドーア.md" title="wikilink">ボビー・ドーア</a></p></td>
 <td><p>1937</p></td>
 <td><p>1951</p></td>
 <td><p>殿堂入り</p></td>
@@ -5159,7 +5159,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Donnels" title="wikilink">Chris Donnels</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ドネルス" title="wikilink">クリス・ドネルス</a></p></td>
+<td><p><a href="../Page/クリス・ドネルス.md" title="wikilink">クリス・ドネルス</a></p></td>
 <td><p>1991</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -5586,14 +5586,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Sean_Douglass" title="wikilink">Sean Douglass</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ショーン・ダグラス" title="wikilink">ショーン・ダグラス</a></p></td>
+<td><p><a href="../Page/ショーン・ダグラス.md" title="wikilink">ショーン・ダグラス</a></p></td>
 <td><p>2001</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Doumit" title="wikilink">Ryan Doumit</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライアン・ドゥーミット" title="wikilink">ライアン・ドゥーミット</a></p></td>
+<td><p><a href="../Page/ライアン・ドゥーミット.md" title="wikilink">ライアン・ドゥーミット</a></p></td>
 <td><p>2005</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -5831,7 +5831,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jeff_Doyle_(baseball)" title="wikilink">Jeff Doyle</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェフ・ドイル" title="wikilink">ジェフ・ドイル</a></p></td>
+<td><p><a href="../Page/ジェフ・ドイル.md" title="wikilink">ジェフ・ドイル</a></p></td>
 <td><p>1983</p></td>
 <td><p>1983</p></td>
 <td></td>
@@ -6154,7 +6154,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:J._D._Drew" title="wikilink">J.D. Drew</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/J.D.ドリュー" title="wikilink">J・D・ドルー</a></p></td>
+<td><p><a href="../Page/J.D.ドリュー.md" title="wikilink">J・D・ドルー</a></p></td>
 <td><p>1998</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -6245,7 +6245,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Travis_Driskill" title="wikilink">Travis Driskill</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トラビス・ドリスキル" title="wikilink">トラビス・ドリスキル</a></p></td>
+<td><p><a href="../Page/トラビス・ドリスキル.md" title="wikilink">トラビス・ドリスキル</a></p></td>
 <td><p>2002</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -6315,7 +6315,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Don_Drysdale" title="wikilink">Don Drysdale</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドン・ドライスデール" title="wikilink">ドン・ドライスデール</a></p></td>
+<td><p><a href="../Page/ドン・ドライスデール.md" title="wikilink">ドン・ドライスデール</a></p></td>
 <td><p>1956</p></td>
 <td><p>1969</p></td>
 <td><p>殿堂入り</p></td>
@@ -6372,7 +6372,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Mauricio_Dubón" title="wikilink">Mauricio Dubon</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウリシオ・デュボーン" title="wikilink">マウリシオ・デュボーン</a></p></td>
+<td><p><a href="../Page/マウリシオ・デュボーン.md" title="wikilink">マウリシオ・デュボーン</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -6400,7 +6400,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rob_Ducey" title="wikilink">Rob Ducey</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロブ・デューシー" title="wikilink">ロブ・デューシー</a></p></td>
+<td><p><a href="../Page/ロブ・デューシー.md" title="wikilink">ロブ・デューシー</a></p></td>
 <td><p>1987</p></td>
 <td><p>2001</p></td>
 <td></td>
@@ -6687,7 +6687,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Zach_Duke" title="wikilink">Zach Duke</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザック・デューク" title="wikilink">ザック・デューク</a></p></td>
+<td><p><a href="../Page/ザック・デューク.md" title="wikilink">ザック・デューク</a></p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
@@ -6792,7 +6792,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Duncan" title="wikilink">Chris Duncan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ダンカン" title="wikilink">クリス・ダンカン</a></p></td>
+<td><p><a href="../Page/クリス・ダンカン.md" title="wikilink">クリス・ダンカン</a></p></td>
 <td><p>2005</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -6841,14 +6841,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Shelley_Duncan" title="wikilink">Shelley Duncan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェリー・ダンカン" title="wikilink">シェリー・ダンカン</a></p></td>
+<td><p><a href="../Page/シェリー・ダンカン.md" title="wikilink">シェリー・ダンカン</a></p></td>
 <td><p>2007</p></td>
 <td><p>2013</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Taylor_Duncan" title="wikilink">Taylor Duncan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テーラー・ダンカン" title="wikilink">テイラー・ダンカン</a></p></td>
+<td><p><a href="../Page/テーラー・ダンカン.md" title="wikilink">テイラー・ダンカン</a></p></td>
 <td><p>1977</p></td>
 <td><p>1978</p></td>
 <td></td>
@@ -6946,7 +6946,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Adam_Dunn" title="wikilink">Adam Dunn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アダム・ダン" title="wikilink">アダム・ダン</a></p></td>
+<td><p><a href="../Page/アダム・ダン.md" title="wikilink">アダム・ダン</a></p></td>
 <td><p>2001</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -6980,10 +6980,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Mike_Dunn_(baseball)" title="wikilink">Mike Dunn</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Dunn_(baseball)" title="wikilink">Mike Dunn</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マイク・ダン" title="wikilink">マイク・ダン</a></p></td>
 <td><p>2009</p></td>
-<td></td>
+<td><p>2019</p></td>
 <td><p>投手、<a href="https://ja.wikipedia.org/wiki/マイク・ダン_(1962年生の投手)" title="wikilink">マイク・ダン (Mike <strong>Dunne</strong>)</a> と区別</p></td>
 </tr>
 <tr class="odd">
@@ -6994,8 +6994,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Scott_Dunn" title="wikilink">Scott Dunn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・ダン" title="wikilink">スコット・ダン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Scott_Dunn_(baseball)" title="wikilink">Scott Dunn</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スコット・ダン_(野球)" title="wikilink">スコット・ダン</a></p></td>
 <td><p>2004</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -7142,7 +7142,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Erubiel_Durazo" title="wikilink">Erubiel Durazo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エルビエル・デュラーゾ" title="wikilink">エルビール・デュラーゾ</a></p></td>
+<td><p><a href="../Page/エルビエル・デュラーゾ.md" title="wikilink">エルビール・デュラーゾ</a></p></td>
 <td><p>1999</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -7219,7 +7219,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ray_Durham" title="wikilink">Ray Durham</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイ・ダーラム" title="wikilink">レイ・ダーラム</a></p></td>
+<td><p><a href="../Page/レイ・ダーラム.md" title="wikilink">レイ・ダーラム</a></p></td>
 <td><p>1995</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -7254,7 +7254,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Leo_Durocher" title="wikilink">Leo Durocher</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レオ・ドローチャー" title="wikilink">レオ・ダローシャー</a></p></td>
+<td><p><a href="../Page/レオ・ドローチャー.md" title="wikilink">レオ・ダローシャー</a></p></td>
 <td><p>1925</p></td>
 <td><p>1945</p></td>
 <td><p>殿堂入り</p></td>
@@ -7268,7 +7268,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Trent_Durrington" title="wikilink">Trent Durrington</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トレント・ダーリントン" title="wikilink">トレント・ダーリントン</a></p></td>
+<td><p><a href="../Page/トレント・ダーリントン.md" title="wikilink">トレント・ダーリントン</a></p></td>
 <td><p>1999</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -7436,7 +7436,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jermaine_Dye" title="wikilink">Jermaine Dye</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャーメイン・ダイ" title="wikilink">ジャーメイン・ダイ</a></p></td>
+<td><p><a href="../Page/ジャーメイン・ダイ.md" title="wikilink">ジャーメイン・ダイ</a></p></td>
 <td><p>1996</p></td>
 <td><p>2009</p></td>
 <td></td>

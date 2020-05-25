@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK木曽ラジオ中継局](https://ja.wikipedia.org/wiki/NHK木曽ラジオ中継局)から翻訳されています。
 
 
 **NHK木曽ラジオ中継局**（エヌエイチケイきそラジオちゅうけいきょく）は、[長野県](../Page/長野県.md "wikilink")[木曽郡](../Page/木曽郡.md "wikilink")[木曽町](../Page/木曽町.md "wikilink")に置かれている[NHK長野放送局](../Page/NHK長野放送局.md "wikilink")の[中波放送](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[中継局](../Page/中継局.md "wikilink")である。 [thumb](https://ja.wikipedia.org/wiki/画像:NHK-Kiso.jpg "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[WAGDUG FUTURISTIC UNITY](https://ja.wikipedia.org/wiki/WAGDUG_FUTURISTIC_UNITY)から翻訳されています。
 
 
-**WAGDUG FUTURISTIC UNITY**（ワグダグ・フューチャリスティック・ユニティ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[KYONO](https://ja.wikipedia.org/wiki/KYONO "wikilink")による音楽プロジェクト。KYONOが所属するバンド、[THE MAD CAPSULE MARKETSの活動休止後に立ち上げられ](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")、シングル「ILL MACHINE (× ULTRA BRAiN)」の発売と共に始動。[ソニー・ミュージックエンタテインメント所属](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+**WAGDUG FUTURISTIC UNITY**（ワグダグ・フューチャリスティック・ユニティ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[KYONO](../Page/KYONO.md "wikilink")による音楽プロジェクト。KYONOが所属するバンド、[THE MAD CAPSULE MARKETSの活動休止後に立ち上げられ](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、シングル「ILL MACHINE (× ULTRA BRAiN)」の発売と共に始動。[ソニー・ミュージックエンタテインメント所属](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## ディスコグラフィ
 
@@ -13,7 +13,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月29日.md" title="wikilink">8月29日</a></p></td>
-<td><p><strong>ILL MACHINE (× <a href="https://ja.wikipedia.org/wiki/ULTRA_BRAiN" title="wikilink">ULTRA BRAiN</a>)</strong></p></td>
+<td><p><strong>ILL MACHINE (× <a href="../Page/ULTRA_BRAiN.md" title="wikilink">ULTRA BRAiN</a>)</strong></p></td>
 <td><p>SICL-171</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -65,7 +65,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -91,7 +91,7 @@ SICL-176(通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>HAKAI</strong></p></td>
 <td><p>SICL-205(初回生産限定盤)<br />
 SICL-207(通常盤)</p></td>
@@ -101,7 +101,7 @@ SICL-207(通常盤)</p></td>
 <li>SYSTEMATIC PEOPLE[featuring マキシマムザ亮君（<a href="https://ja.wikipedia.org/wiki/マキシマムザホルモン" title="wikilink">マキシマムザホルモン</a>）] (DUG version) [4:30]【作詞作曲編曲:KYONO】</li>
 <li>WHY?[×Ceephax] [4:21]【作詞編曲:KYONO/作曲:KYONO,Ceephax】</li>
 <li>MAD SATURATOR [1:44]【作詞作曲編曲:KYONO】</li>
-<li>ILL MACHINE[×<a href="https://ja.wikipedia.org/wiki/難波章浩" title="wikilink">NAMBA AKIHIRO</a> (ULTRA BRAiN × <a href="https://ja.wikipedia.org/wiki/Hi-STANDARD" title="wikilink">Hi-STANDARD</a>) ] (HAKAI version) [4:04]【作詞:KYONO/作曲編曲:KYONO,難波章浩】</li>
+<li>ILL MACHINE[×<a href="../Page/難波章浩.md" title="wikilink">NAMBA AKIHIRO</a> (ULTRA BRAiN × <a href="../Page/Hi-STANDARD.md" title="wikilink">Hi-STANDARD</a>) ] (HAKAI version) [4:04]【作詞:KYONO/作曲編曲:KYONO,難波章浩】</li>
 <li>G.O.D. SPACE [3:49]【作詞作曲編曲:KYONO】</li>
 <li>WALL[×Chino Moreno (Deftones) ] [3:32]【作詞編曲:KYONO/作曲:KYONO,Chino Moreno】</li>
 <li>MASS COMPRESSION[×NAMBA AKIHIRO (ULTRA BRAiN × Hi-STANDARD) ] [1:25]【作詞:KYONO/作曲編曲:KYONO,難波章浩】</li>
@@ -109,7 +109,7 @@ SICL-207(通常盤)</p></td>
 <li>RISE IT![×funky gong (joujouka) ] [5:19]【作詞編曲:KYONO/作曲:KYONO,funky gong】</li>
 <li>X-STEREO[×<a href="https://ja.wikipedia.org/wiki/ジャスティス_(バンド)" title="wikilink">JUSTICE</a> ] [4:25]【作詞編曲:KYONO/作曲:KYONO,Gaspard Auge,Xavier De Rosnay】</li>
 <li>NU WOЯLD[×NUMANOID vs MAZDA] [6:15]【作詞編曲:KYONO/作曲:KYONO,NUMANOID,松田泰典】</li>
-<li>WEAPONS OF WAG DISTORTION(x <a href="https://ja.wikipedia.org/wiki/コーマ" title="wikilink">COM.A</a>) [5:24]【作詞:KYONO/作曲:KYONO,Ken Jordan,スコット・カークランド/編曲:KYONO,COM.A】 初回生産限定盤ボーナス・トラック</li>
+<li>WEAPONS OF WAG DISTORTION(x <a href="../Page/コーマ.md" title="wikilink">COM.A</a>) [5:24]【作詞:KYONO/作曲:KYONO,Ken Jordan,スコット・カークランド/編曲:KYONO,COM.A】 初回生産限定盤ボーナス・トラック</li>
 <li>SYSTEMATIC PEOPLE(featuring マキシマムザ亮君（マキシマム ザ ホルモン））(WAG version) [3:56] 初回生産限定盤ボーナス・トラック</li>
 </ol>
 <p>初回生産限定盤DVD</p>
@@ -186,7 +186,7 @@ SICL-245(通常盤)</p></td>
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -231,7 +231,7 @@ SICL-245(通常盤)</p></td>
 <tr class="header">
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -274,7 +274,7 @@ RZCM-45702B</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/デトロイト・メタル・シティ" title="wikilink">デトロイト・メタル・シティ</a>　トリビュートアルバム～生贄メタルMIX～</strong></p></td>
+<td><p><strong><a href="../Page/デトロイト・メタル・シティ.md" title="wikilink">デトロイト・メタル・シティ</a>　トリビュートアルバム～生贄メタルMIX～</strong></p></td>
 <td><p>DFCL-1456</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -282,14 +282,14 @@ RZCM-45702B</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>HIT IN THE D.M.C／<a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>HIT IN THE D.M.C／<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>リルラ リルハ～鋼鉄合体ロボ（稲妻マーク）ミックス～Remixed by FOE／<a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
-<li>0718アニソロ（恐怖の大天才 再臨・TUCKER 公開処刑mix）/<a href="https://ja.wikipedia.org/wiki/スチャダラパー" title="wikilink">スチャダラパー</a> with <a href="https://ja.wikipedia.org/wiki/TUCKER伯爵" title="wikilink">TUCKER伯爵</a></li>
+<li>0718アニソロ（恐怖の大天才 再臨・TUCKER 公開処刑mix）/<a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a> with <a href="https://ja.wikipedia.org/wiki/TUCKER伯爵" title="wikilink">TUCKER伯爵</a></li>
 <li>ロマンティック夏モード（ハジメタルDTミックス）／<a href="https://ja.wikipedia.org/wiki/ミドリ" title="wikilink">ミドリ</a></li>
 <li>JOY-METAL JOY REMIX-／<a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a></li>
 <li>WARP（Walking Metal Mix for DMC）／<a href="https://ja.wikipedia.org/wiki/monobright" title="wikilink">monobright</a></li>
 <li>je t'aime ☆ je t'aime DMC用／<a href="https://ja.wikipedia.org/wiki/Tommy_february6" title="wikilink">Tommy february6</a></li>
-<li>フライト Best Hold It Ver.／<a href="https://ja.wikipedia.org/wiki/MUCC" title="wikilink">ムック</a></li>
+<li>フライト Best Hold It Ver.／<a href="../Page/MUCC.md" title="wikilink">ムック</a></li>
 <li>平成維新（地獄行きRemix メタル Ver.）／<a href="../Page/キングギドラ.md" title="wikilink">キングギドラ</a></li>
 <li>アメリカ横断ウルトラメタル／<a href="https://ja.wikipedia.org/wiki/エレクトリック・イール・ショック" title="wikilink">エレクトリック・イール・ショック</a></li>
 <li>SHIFT ギ・MIX／<a href="https://ja.wikipedia.org/wiki/アナ" title="wikilink">アナ</a></li>
@@ -320,7 +320,7 @@ RZCM-45702B</p></td>
 <li>The World Belongs To Me / <a href="https://ja.wikipedia.org/wiki/My_Darkest_Days" title="wikilink">My Darkest Days</a></li>
 <li>Turn It On / <a href="https://ja.wikipedia.org/wiki/Default" title="wikilink">Default</a></li>
 <li>Fire Fly / <a href="https://ja.wikipedia.org/wiki/I-Exist" title="wikilink">I-Exist</a></li>
-<li>What Goes Round Comes Around / <a href="https://ja.wikipedia.org/wiki/BOOM_BOOM_SATELLITES" title="wikilink">BOOM BOOM SATELLITES</a></li>
+<li>What Goes Round Comes Around / <a href="../Page/BOOM_BOOM_SATELLITES.md" title="wikilink">BOOM BOOM SATELLITES</a></li>
 <li>Scream / <a href="https://ja.wikipedia.org/wiki/Adelitas_Way" title="wikilink">Adelitas Way</a></li>
 <li>Hoodoo Woman / <a href="https://ja.wikipedia.org/wiki/Krokus" title="wikilink">Krokus</a></li>
 <li>This Is Heavy Metal / <a href="https://ja.wikipedia.org/wiki/Lordi" title="wikilink">Lordi</a></li>
@@ -341,17 +341,17 @@ RZCM-45702B</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/ロマンチスト_(曲)" title="wikilink">ロマンチスト</a> / WAGDUG FUTURISTIC UNITY</li>
+<li><a href="../Page/ロマンチスト_(曲).md" title="wikilink">ロマンチスト</a> / WAGDUG FUTURISTIC UNITY</li>
 <li>負け犬 / <a href="https://ja.wikipedia.org/wiki/黒猫チェルシー" title="wikilink">黒猫チェルシー</a></li>
 <li>JUST LIKE A BOY / <a href="https://ja.wikipedia.org/wiki/銀杏BOYZ" title="wikilink">銀杏BOYZ</a></li>
-<li>お母さん、いい加減あなたの顔は忘れてしまいました / <a href="https://ja.wikipedia.org/wiki/グループ魂" title="wikilink">グループ魂</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/カノン_(パッヘルベル)" title="wikilink">カノン</a> / <a href="https://ja.wikipedia.org/wiki/戸川純" title="wikilink">戸川純</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/GO_GO_スターリン" title="wikilink">GO GO スターリン</a> / <a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></li>
-<li>先天性労働者 / <a href="https://ja.wikipedia.org/wiki/上田剛士" title="wikilink">AA=</a></li>
-<li>おまえの犬になる / <a href="https://ja.wikipedia.org/wiki/BUCK-TICK" title="wikilink">BUCK-TICK</a></li>
+<li>お母さん、いい加減あなたの顔は忘れてしまいました / <a href="../Page/グループ魂.md" title="wikilink">グループ魂</a></li>
+<li><a href="../Page/カノン_(パッヘルベル).md" title="wikilink">カノン</a> / <a href="../Page/戸川純.md" title="wikilink">戸川純</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/GO_GO_スターリン" title="wikilink">GO GO スターリン</a> / <a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></li>
+<li>先天性労働者 / <a href="../Page/上田剛士.md" title="wikilink">AA=</a></li>
+<li>おまえの犬になる / <a href="../Page/BUCK-TICK.md" title="wikilink">BUCK-TICK</a></li>
 <li>我自由丸 / <a href="https://ja.wikipedia.org/wiki/UA_(歌手)" title="wikilink">UA</a></li>
 <li>オデッセイ・1985・SEX / <a href="https://ja.wikipedia.org/wiki/MERRY_(バンド)" title="wikilink">MERRY</a></li>
-<li>ワルシャワの幻想 / <a href="https://ja.wikipedia.org/wiki/DIR_EN_GREY" title="wikilink">DIR EN GREY</a></li>
+<li>ワルシャワの幻想 / <a href="../Page/DIR_EN_GREY.md" title="wikilink">DIR EN GREY</a></li>
 <li>ア・イ・ウ・エ・オ / <a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a>
 </div>
 </div></li>
@@ -409,7 +409,7 @@ TRCP-113</p></td>
 ## 主な出演イベント
 
   - 2008年08月09日・10日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
-  - 2009年12月31日 - [COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN "wikilink") 09/10
+  - 2009年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10
   - 2010年08月14日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2010 in EZO
   - 2011年09月18日 - [AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2011
   - 2012年02月26日 - DEVILOCK NIGHT THE FINAL

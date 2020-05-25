@@ -1,17 +1,17 @@
-> この記事は[O.V.](https://ja.wikipedia.org/wiki/O.V.)から翻訳されています。
+> この記事は[O.V.ライト](https://ja.wikipedia.org/wiki/O.V.ライト)から翻訳されています。
 
 
 **O.V.ライト**(**O.V. Wright**、[1939年](../Page/1939年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink"))は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の歌手。[テネシー州](../Page/テネシー州.md "wikilink")レノ生まれ。本名は、オヴァートン・ヴァーティス・ライト (Overton Vertis Wright)。
 
 ## 来歴
 
-10代の頃から[ゴスペルグループ](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")、[サンセット・トラベラーズ](https://ja.wikipedia.org/wiki/サンセット・トラベラーズ "wikilink")に参加。[1963年](../Page/1963年.md "wikilink")頃ソロとして活動を始め、[1964年](../Page/1964年.md "wikilink")[メンフィスの](https://ja.wikipedia.org/wiki/メンフィス_\(テネシー州\) "wikilink")[ゴールド・ワックス・レコード](https://ja.wikipedia.org/wiki/ゴールド・ワックス・レコード "wikilink")からデビューしている。
+10代の頃から[ゴスペルグループ](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")、[サンセット・トラベラーズ](https://ja.wikipedia.org/wiki/サンセット・トラベラーズ "wikilink")に参加。[1963年](../Page/1963年.md "wikilink")頃ソロとして活動を始め、[1964年](../Page/1964年.md "wikilink")[メンフィスの](../Page/メンフィス_\(テネシー州\).md "wikilink")[ゴールド・ワックス・レコード](https://ja.wikipedia.org/wiki/ゴールド・ワックス・レコード "wikilink")からデビューしている。
 
-デビュー曲、"That's How Strong My Love Is"は、[オーティス・レディング](https://ja.wikipedia.org/wiki/オーティス・レディング "wikilink")がカバーしたことでよく知られている。
+デビュー曲、"That's How Strong My Love Is"は、[オーティス・レディング](../Page/オーティス・レディング.md "wikilink")がカバーしたことでよく知られている。
 
 その後[テキサス州](../Page/テキサス州.md "wikilink")の[デューク・レコード](https://ja.wikipedia.org/wiki/デューク・レコード "wikilink")傘下の[バック・ビート・レコード](https://ja.wikipedia.org/wiki/バック・ビート・レコード "wikilink")の所属となり19枚のシングルを発表する。
 
-しかし、バックビートはO.V.の才能を引き出すことが出来なかったため、メンフィスの新生レーベル、[ハイのウィリー](https://ja.wikipedia.org/wiki/ハイ・レコード "wikilink")・ミッチェルをプロデューサーに起用した。これが功を奏し、O.V.は彼の下で優れた作品を多く生み、ビジネス的にも成功を収めることになる。その後、バックビートは倒産するが、O.V.はハイへ移籍し活動を継続した。
+しかし、バックビートはO.V.の才能を引き出すことが出来なかったため、メンフィスの新生レーベル、[ハイのウィリー](../Page/ハイ・レコード.md "wikilink")・ミッチェルをプロデューサーに起用した。これが功を奏し、O.V.は彼の下で優れた作品を多く生み、ビジネス的にも成功を収めることになる。その後、バックビートは倒産するが、O.V.はハイへ移籍し活動を継続した。
 
 [1979年](../Page/1979年.md "wikilink")、ハイ・リズム・セクションを従えて訪日公演を行った。
 

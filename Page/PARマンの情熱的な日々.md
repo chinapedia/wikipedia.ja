@@ -1,4 +1,4 @@
-> この記事は[PAR](https://ja.wikipedia.org/wiki/PAR)から翻訳されています。
+> この記事は[PARマンの情熱的な日々](https://ja.wikipedia.org/wiki/PARマンの情熱的な日々)から翻訳されています。
 
 
 『**PARマンの情熱的な日々**』（パーマンのじょうねつてきなひび）は、[藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")（以下、藤子<span class="Unicode">Ⓐ</span>）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コミック](https://ja.wikipedia.org/wiki/漫画 "wikilink")[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")作品。『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）[2007年](../Page/2007年.md "wikilink")12月号（創刊号）より連載開始。

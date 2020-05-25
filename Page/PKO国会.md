@@ -1,4 +1,4 @@
-> この記事は[PKO](https://ja.wikipedia.org/wiki/PKO)から翻訳されています。
+> この記事は[PKO国会](https://ja.wikipedia.org/wiki/PKO国会)から翻訳されています。
 
 
 **PKO国会**（ぴーけーおーこっかい）とは、[PKO法案をめぐる国会審議のこと](../Page/国際連合平和維持活動等に対する協力に関する法律.md "wikilink")。

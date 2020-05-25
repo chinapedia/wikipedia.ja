@@ -1,7 +1,7 @@
-> この記事は[Only You !](https://ja.wikipedia.org/wiki/Only_You_!)から翻訳されています。
+> この記事は[Only You ビバ!キャバクラ](https://ja.wikipedia.org/wiki/Only_You_ビバ!キャバクラ)から翻訳されています。
 
 
-『**Only You ビバ\!キャバクラ**』（オンリーユービバキャバクラ）は、[扶桑社](../Page/扶桑社.md "wikilink")『[週刊SPA\!](https://ja.wikipedia.org/wiki/週刊SPA! "wikilink")』に連載されていた[藤波俊彦](https://ja.wikipedia.org/wiki/藤波俊彦 "wikilink")の漫画作品。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化もされた。
+『**Only You ビバ\!キャバクラ**』（オンリーユービバキャバクラ）は、[扶桑社](../Page/扶桑社.md "wikilink")『[週刊SPA\!](https://ja.wikipedia.org/wiki/週刊SPA! "wikilink")』に連載されていた[藤波俊彦](../Page/藤波俊彦.md "wikilink")の漫画作品。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化もされた。
 
 ## あらすじ
 
@@ -23,23 +23,23 @@
 ### キャスト
 
   - 小金井武史 - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
-  - 沙里奈 - [吉田小百合](https://ja.wikipedia.org/wiki/吉田小百合 "wikilink")
-  - 不二子（涼崎ミチル） - [小松里賀](https://ja.wikipedia.org/wiki/小松里歌 "wikilink")
-  - 西音寺ミーナ - [手塚ちはる](https://ja.wikipedia.org/wiki/手塚ちはる "wikilink")
-  - 浜安 - [飛田展男](https://ja.wikipedia.org/wiki/飛田展男 "wikilink")
-  - 恵美 - [大塚ちか](https://ja.wikipedia.org/wiki/大塚ちか "wikilink")
+  - 沙里奈 - [吉田小百合](../Page/吉田小百合.md "wikilink")
+  - 不二子（涼崎ミチル） - [小松里賀](../Page/小松里歌.md "wikilink")
+  - 西音寺ミーナ - [手塚ちはる](../Page/手塚ちはる.md "wikilink")
+  - 浜安 - [飛田展男](../Page/飛田展男.md "wikilink")
+  - 恵美 - [大塚ちか](../Page/大塚ちか.md "wikilink")
   - ミドリ - [白鳥由里](../Page/白鳥由里.md "wikilink")
-  - ちあき - [柳瀬なつみ](https://ja.wikipedia.org/wiki/やなせなつみ "wikilink")
-  - アミーゴ三人組1ハゲ - [菅原淳一](https://ja.wikipedia.org/wiki/菅原淳一 "wikilink")
-  - 穴坂･アミーゴ三人組2ロンゲ - [古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")
+  - ちあき - [柳瀬なつみ](../Page/やなせなつみ.md "wikilink")
+  - アミーゴ三人組1ハゲ - [菅原淳一](../Page/菅原淳一.md "wikilink")
+  - 穴坂･アミーゴ三人組2ロンゲ - [古澤徹](../Page/古澤徹.md "wikilink")
   - アミーゴ三人組3ウクレレ - [掛川裕彦](../Page/掛川裕彦.md "wikilink")
-  - ナレーション - [江森浩子](https://ja.wikipedia.org/wiki/江森浩子 "wikilink")
+  - ナレーション - [江森浩子](../Page/江森浩子.md "wikilink")
 
 ### スタッフ
 
   - 原作 - 藤波俊彦
   - 監督 - [日下部光雄](https://ja.wikipedia.org/wiki/日下部光雄 "wikilink")
-  - 構成 - [志茂文彦](https://ja.wikipedia.org/wiki/志茂文彦 "wikilink")
+  - 構成 - [志茂文彦](../Page/志茂文彦.md "wikilink")
   - キャラクターデザイン - [飯村一夫](https://ja.wikipedia.org/wiki/飯村一夫 "wikilink")、[島袋美由紀](https://ja.wikipedia.org/wiki/島袋美由紀 "wikilink")
   - 美術監督 - 高橋和博
   - 色彩設定 - 佐藤和子
@@ -49,9 +49,9 @@
   - 音楽プロデューサー - 山本晴之
   - 総合プロデューサー - 落合芳行
   - アニメーションプロデューサー - 尾崎正善、土屋貴彦
-  - アニメーション制作 - [パブリック&ベーシック](https://ja.wikipedia.org/wiki/パブリック&ベーシック "wikilink")
+  - アニメーション制作 - [パブリック&ベーシック](../Page/パブリック&ベーシック.md "wikilink")
   - 制作協力 - [スタジオ・ザイン](https://ja.wikipedia.org/wiki/スタジオ・ザイン "wikilink")
-  - 協力 - [徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")
+  - 協力 - [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")
   - 製作 - TBS
 
 ### 音楽

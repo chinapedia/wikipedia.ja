@@ -69,7 +69,7 @@
   - [長谷川うみの](https://ja.wikipedia.org/wiki/長谷川うみの "wikilink")
   - [大和屋穂香](https://ja.wikipedia.org/wiki/大和屋穂香 "wikilink")
   - [大木玲奈](https://ja.wikipedia.org/wiki/大木玲奈 "wikilink")
-  - [土屋怜菜](https://ja.wikipedia.org/wiki/土屋怜菜 "wikilink")
+  - [土屋怜菜](../Page/土屋怜菜.md "wikilink")
   - [カステロ・ミーア](https://ja.wikipedia.org/wiki/カステロ・ミーア "wikilink")
   - [みくぴ](https://ja.wikipedia.org/wiki/みくぴ "wikilink")
   - [花音レイナ](https://ja.wikipedia.org/wiki/花音レイナ "wikilink")

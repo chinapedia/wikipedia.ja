@@ -5,17 +5,17 @@
 
 ## 解説
 
-  - 本人がイメージキャラクターを務めた「**[カネボウ](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")'88夏のプロモーション**」の[イメージソングに起用され](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、自身最大のヒット曲となった。
-  - 同年5月には、[野村誠一](https://ja.wikipedia.org/wiki/野村誠一 "wikilink")撮影による写真集「C-GIRL」、6月には、本作を収録したアルバム『[Candid Girl](https://ja.wikipedia.org/wiki/Candid_Girl "wikilink")』、7月には、同アルバムをフィーチャーしたイメージ・ビデオ『[Candid Girl -浅香唯 in Australia-](https://ja.wikipedia.org/wiki/Candid_Girl_-浅香唯_in_Australia- "wikilink")』が発売された。
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に発売されたベスト・アルバム『[Thanks a lot](https://ja.wikipedia.org/wiki/Thanks_a_lot "wikilink")』には、ボーカル新録バージョンが収録されている。
-  - 作曲を担当した[NOBODYが](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")2011年に発表した30周年記念CD-BOX『NOBODY BOX 〜Early Days〜』に同曲のデモバージョンが収録されている。
+  - 本人がイメージキャラクターを務めた「**[カネボウ](../Page/カネボウ化粧品.md "wikilink")'88夏のプロモーション**」の[イメージソングに起用され](../Page/コマーシャルソング.md "wikilink")、自身最大のヒット曲となった。
+  - 同年5月には、[野村誠一](../Page/野村誠一.md "wikilink")撮影による写真集「C-GIRL」、6月には、本作を収録したアルバム『[Candid Girl](https://ja.wikipedia.org/wiki/Candid_Girl "wikilink")』、7月には、同アルバムをフィーチャーしたイメージ・ビデオ『[Candid Girl -浅香唯 in Australia-](https://ja.wikipedia.org/wiki/Candid_Girl_-浅香唯_in_Australia- "wikilink")』が発売された。
+  - [1991年](../Page/1991年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に発売されたベスト・アルバム『[Thanks a lot](https://ja.wikipedia.org/wiki/Thanks_a_lot "wikilink")』には、ボーカル新録バージョンが収録されている。
+  - 作曲を担当した[NOBODYが](../Page/NOBODY_\(ロックバンド\).md "wikilink")2011年に発表した30周年記念CD-BOX『NOBODY BOX 〜Early Days〜』に同曲のデモバージョンが収録されている。
 
 ## 収録曲
 
 1.  **C-Girl**
-      - 作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、作曲：[NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")、編曲：[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+      - 作詞：[森雪之丞](../Page/森雪之丞.md "wikilink")、作曲：[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")、編曲：[井上鑑](../Page/井上鑑.md "wikilink")
 2.  **Stay by Me**
-      - 作詞：[麻生圭子](https://ja.wikipedia.org/wiki/麻生圭子 "wikilink")、作曲：[中崎英也](https://ja.wikipedia.org/wiki/中崎英也 "wikilink")、編曲：井上鑑
+      - 作詞：[麻生圭子](../Page/麻生圭子.md "wikilink")、作曲：[中崎英也](../Page/中崎英也.md "wikilink")、編曲：井上鑑
 
 ## 関連作品
 
@@ -42,7 +42,7 @@
 ## カバー
 
   - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")（[2004年](../Page/2004年.md "wikilink")、アルバム『EXTENDED』に収録）
-  - [Mi](https://ja.wikipedia.org/wiki/Mi_\(バンド\) "wikilink")（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、アルバム『80's×Mi』に収録）
+  - [Mi](../Page/Mi_\(バンド\).md "wikilink")（[2006年](../Page/2006年.md "wikilink")、アルバム『80's×Mi』に収録）
 
 ## 脚注
 
@@ -50,7 +50,7 @@
 
 ## 関連項目
 
-  - [1988年の音楽](https://ja.wikipedia.org/wiki/1988年の音楽 "wikilink")
-  - [カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")
+  - [1988年の音楽](../Page/1988年の音楽.md "wikilink")
+  - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")
 
-[Category:浅香唯の楽曲](https://ja.wikipedia.org/wiki/Category:浅香唯の楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:NOBODYが制作した楽曲](https://ja.wikipedia.org/wiki/Category:NOBODYが制作した楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:1988年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:ト長調](https://ja.wikipedia.org/wiki/Category:ト長調 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:浅香唯の楽曲](https://ja.wikipedia.org/wiki/Category:浅香唯の楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:NOBODYが制作した楽曲](https://ja.wikipedia.org/wiki/Category:NOBODYが制作した楽曲 "wikilink") [Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:1988年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:ザ・ベストテン1位獲得作品](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン1位獲得作品 "wikilink") [Category:カネボウ化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カネボウ化粧品のコマーシャルソング "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

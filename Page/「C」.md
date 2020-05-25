@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[「C」](https://ja.wikipedia.org/wiki/「C」)から翻訳されています。
 
 
 『**「C」**』（シー）は、[中山美穂](../Page/中山美穂.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた。([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): K7S-10031)(CDS:KIDS-91)
@@ -51,4 +51,4 @@
   - [夏・体験物語](../Page/夏・体験物語.md "wikilink")
   - [1985年の音楽](../Page/1985年の音楽.md "wikilink")
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1985年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1985年のデビュー・シングル "wikilink") [Category:TBS火曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ主題歌 "wikilink") [Category:松本隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:宝石を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:宝石を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:嬰ハ短調](https://ja.wikipedia.org/wiki/Category:嬰ハ短調 "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1985年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1985年のデビュー・シングル "wikilink") [Category:TBS火曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ主題歌 "wikilink") [Category:松本隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:宝石を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:宝石を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

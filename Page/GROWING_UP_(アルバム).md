@@ -1,7 +1,7 @@
-> この記事は[GROWING UP \(\)](https://ja.wikipedia.org/wiki/GROWING_UP_\(\))から翻訳されています。
+> この記事は[GROWING UP \(アルバム\)](https://ja.wikipedia.org/wiki/GROWING_UP_\(アルバム\))から翻訳されています。
 
 
-『**GROWING UP**』（グローイング・アップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")が1995年にリリースした1stフル[アルバム](../Page/アルバム.md "wikilink")。海外では約30万枚のセールスを記録した。
+『**GROWING UP**』（グローイング・アップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")が1995年にリリースした1stフル[アルバム](../Page/アルバム.md "wikilink")。海外では約30万枚のセールスを記録した。
 
 ## 収録曲
 
@@ -17,7 +17,7 @@
 4.  **[SINCE YOU BEEN GONE](https://ja.wikipedia.org/wiki/シンス・ユー・ビーン・ゴーン "wikilink")**　
       -
         作詞：RUSS BALLARD / 作曲：RUSS BALLARD
-        [ヘッド・イースト](https://ja.wikipedia.org/wiki/ヘッド・イースト "wikilink")や[レインボーが歌った同名曲のカバー](https://ja.wikipedia.org/wiki/レインボー_\(バンド\) "wikilink")。
+        [ヘッド・イースト](https://ja.wikipedia.org/wiki/ヘッド・イースト "wikilink")や[レインボーが歌った同名曲のカバー](../Page/レインボー_\(バンド\).md "wikilink")。
 5.  **WAIT FOR THE SUN**　
       -
         作詞：Hi-STANDARD / 作曲：Hi-STANDARD
@@ -30,7 +30,7 @@
 8.  **SATURDAY NIGHT**　
       -
         作詞：Bill Martin Phil Coulter / 作曲：Bill Martin Phil Coulter
-        [ベイ・シティ・ローラーズ](https://ja.wikipedia.org/wiki/ベイ・シティ・ローラーズ "wikilink")のカバー。
+        [ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")のカバー。
 9.  **CALIFORNIA DREAMIN**'　
       -
         作詞：Michele Gillian John Phillips / 作曲：Michele Gillian John Phillips

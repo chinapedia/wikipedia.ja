@@ -1,13 +1,17 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アクリントン・スタンリーFC](https://ja.wikipedia.org/wiki/アクリントン・スタンリーFC)から翻訳されています。
 
 
 **アクリントン・スタンリー・フットボール・クラブ**（**Accrington Stanley Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ランカシャー州](https://ja.wikipedia.org/wiki/ランカシャー州 "wikilink")[アクリントン](https://ja.wikipedia.org/wiki/アクリントン "wikilink")を本拠地とするサッカークラブチームである。2018-2019シーズンは[リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。
 
 ## 歴史
 
-[1891年](../Page/1891年.md "wikilink")に創立された[アクリントンFC](https://ja.wikipedia.org/wiki/アクリントンFC "wikilink")が、経営難のため1965/66シーズンに活動を休止し、クラブ経営を引き継ぐ形で2年後の[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に地域リーグから活動を再開。2005/06シーズンには40年振りにプロリーグに復帰を果たした。 2010/11シーズンで5位となり、リーグ1への昇格を賭けたプレーオフに出場するも、シーズン6位の[スティブネイジ・ボロFC](https://ja.wikipedia.org/wiki/スティブネイジ・ボロFC "wikilink")に2連敗し1回戦敗退、昇格はならなかった。
+[1891年](../Page/1891年.md "wikilink")に創立された同名のチーム、が、経営難のため1961-62シーズン途中に[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")から脱退、1965/66シーズンに活動を休止し、クラブ経営を引き継ぐ形で2年後の[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に地域リーグから活動を再開。2005/06シーズンには44年振りにプロリーグに復帰を果たした。 2010/11シーズンで5位となり、リーグ1への昇格を賭けたプレーオフに出場するも、シーズン6位の[スティブネイジ・ボロFC](https://ja.wikipedia.org/wiki/スティブネイジ・ボロFC "wikilink")に2連敗し1回戦敗退、昇格はならなかった。
 
 2017/18シーズンはリーグ2優勝し、リーグ1昇格を果たした。
+
+## その他
+
+前身チームのと[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")創設メンバーのひとつである[アクリントンFC](https://ja.wikipedia.org/wiki/アクリントンFC "wikilink")はローカルライバル関係にあった。
 
 ## タイトル
 

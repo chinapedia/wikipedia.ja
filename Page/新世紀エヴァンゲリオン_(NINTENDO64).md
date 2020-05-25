@@ -1,4 +1,4 @@
-> この記事は[ \(NINTENDO64\)](https://ja.wikipedia.org/wiki/_\(NINTENDO64\))から翻訳されています。
+> この記事は[新世紀エヴァンゲリオン \(NINTENDO64\)](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン_\(NINTENDO64\))から翻訳されています。
 
 
 『**新世紀エヴァンゲリオン**』（しんせいきエヴァンゲリオン）は、『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』を原作とした[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に、[NINTENDO64](../Page/NINTENDO64.md "wikilink")用ゲームソフトとして[バンダイ](../Page/バンダイ.md "wikilink")より発売された。
@@ -65,7 +65,7 @@
 
 原作第拾話を元にしたミッション。エヴァ弐号機を操り、第8使徒[サンダルフォンを殲滅することが目的](https://ja.wikipedia.org/wiki/使徒_\(新世紀エヴァンゲリオン\)#サンダルフォン_\(SANDALPHON\) "wikilink")。
 
-前半は使徒の捕獲、後半は[孵化](https://ja.wikipedia.org/wiki/孵化 "wikilink")した使徒の殲滅をする。
+前半は使徒の捕獲、後半は[孵化](../Page/孵化.md "wikilink")した使徒の殲滅をする。
 
 ### ミッション7
 
@@ -137,23 +137,23 @@
 
   - [碇シンジ](../Page/碇シンジ.md "wikilink")（声：[緒方恵美](../Page/緒方恵美.md "wikilink")）
   - [葛城ミサト](../Page/葛城ミサト.md "wikilink")（声：[三石琴乃](../Page/三石琴乃.md "wikilink")）
-  - [赤木リツコ](https://ja.wikipedia.org/wiki/赤木リツコ "wikilink")（声：[山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")）
+  - [赤木リツコ](https://ja.wikipedia.org/wiki/赤木リツコ "wikilink")（声：[山口由里子](../Page/山口由里子.md "wikilink")）
   - [綾波レイ](../Page/綾波レイ.md "wikilink")（声：[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")）
-  - [惣流・アスカ・ラングレー](../Page/惣流・アスカ・ラングレー.md "wikilink")（声：[宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")）
-  - [碇ゲンドウ](https://ja.wikipedia.org/wiki/碇ゲンドウ "wikilink")（声：[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")）
-  - [冬月コウゾウ](https://ja.wikipedia.org/wiki/冬月コウゾウ "wikilink")（声：[清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")）
+  - [惣流・アスカ・ラングレー](../Page/惣流・アスカ・ラングレー.md "wikilink")（声：[宮村優子](../Page/宮村優子_\(声優\).md "wikilink")）
+  - [碇ゲンドウ](https://ja.wikipedia.org/wiki/碇ゲンドウ "wikilink")（声：[立木文彦](../Page/立木文彦.md "wikilink")）
+  - [冬月コウゾウ](https://ja.wikipedia.org/wiki/冬月コウゾウ "wikilink")（声：[清川元夢](../Page/清川元夢.md "wikilink")）
   - [日向マコト](https://ja.wikipedia.org/wiki/日向マコト "wikilink")（声：[結城比呂](https://ja.wikipedia.org/wiki/結城比呂 "wikilink")）
-  - [伊吹マヤ](https://ja.wikipedia.org/wiki/伊吹マヤ "wikilink")（声：[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")）
+  - [伊吹マヤ](https://ja.wikipedia.org/wiki/伊吹マヤ "wikilink")（声：[長沢美樹](../Page/長沢美樹.md "wikilink")）
   - [青葉シゲル](https://ja.wikipedia.org/wiki/青葉シゲル "wikilink")（声：[子安武人](../Page/子安武人.md "wikilink")）
   - [加持リョウジ](https://ja.wikipedia.org/wiki/加持リョウジ "wikilink")（声：[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")）
   - [鈴原トウジ](https://ja.wikipedia.org/wiki/鈴原トウジ "wikilink")（声：[関智一](../Page/関智一.md "wikilink")）
   - [渚カヲル](../Page/渚カヲル.md "wikilink")（声：[石田彰](../Page/石田彰.md "wikilink")）
-  - [キール・ローレンツ](https://ja.wikipedia.org/wiki/キール・ローレンツ "wikilink")（声：[麦人](https://ja.wikipedia.org/wiki/麦人 "wikilink")）
+  - [キール・ローレンツ](https://ja.wikipedia.org/wiki/キール・ローレンツ "wikilink")（声：[麦人](../Page/麦人.md "wikilink")）
 
 ## 主なスタッフ
 
   - エグゼクティブプロデューサー：[鵜之澤伸](https://ja.wikipedia.org/wiki/鵜之澤伸 "wikilink")
-  - プロデューサー：[磯貝健夫](https://ja.wikipedia.org/wiki/磯貝健夫 "wikilink")、[武田康廣](https://ja.wikipedia.org/wiki/武田康廣 "wikilink")、[佐藤裕紀](https://ja.wikipedia.org/wiki/佐藤裕紀 "wikilink")
+  - プロデューサー：[磯貝健夫](https://ja.wikipedia.org/wiki/磯貝健夫 "wikilink")、[武田康廣](../Page/武田康廣.md "wikilink")、[佐藤裕紀](https://ja.wikipedia.org/wiki/佐藤裕紀 "wikilink")
   - ゲームデザイン：[五十嵐恒三](https://ja.wikipedia.org/wiki/五十嵐恒三 "wikilink")、[長山裕](https://ja.wikipedia.org/wiki/長山裕 "wikilink")
   - メインプログラマー：長山裕
   - CG/3Dモデル：[菊池康彦](https://ja.wikipedia.org/wiki/菊池康彦 "wikilink")、[大久保貴之](https://ja.wikipedia.org/wiki/大久保貴之 "wikilink")、五十嵐恒三

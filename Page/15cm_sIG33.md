@@ -1,7 +1,7 @@
 > この記事は[15cm sIG33](https://ja.wikipedia.org/wiki/15cm_sIG33)から翻訳されています。
 
 
-**15 cm sIG 33**（*schweres Infanteriegeschütz 33*、重歩兵砲33年型）は、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で使用した[歩兵砲](https://ja.wikipedia.org/wiki/歩兵砲 "wikilink")である。歩兵部隊を火力支援する[榴弾砲](https://ja.wikipedia.org/wiki/榴弾砲 "wikilink")として[1927年](../Page/1927年.md "wikilink")、[ラインメタル](https://ja.wikipedia.org/wiki/ラインメタル "wikilink")社によって開発が始められ、[1933年](../Page/1933年.md "wikilink")に制式化された。歩兵連隊の歩兵砲中隊に2門ずつが装備された。歩兵部隊自体が装備する火砲としては最も大口径かつ強力であり、厳重に防護された敵拠点の制圧に威力を発揮、[1945年](../Page/1945年.md "wikilink")の終戦間際まで生産が続けられた。しかし一方で、短い射程と比べて重量がかさむため、戦車車台に搭載された自走砲も各種開発・運用された。
+**15 cm sIG 33**（*schweres Infanteriegeschütz 33*、重歩兵砲33年型）は、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で使用した[歩兵砲](../Page/歩兵砲.md "wikilink")である。歩兵部隊を火力支援する[榴弾砲](../Page/榴弾砲.md "wikilink")として[1927年](../Page/1927年.md "wikilink")、[ラインメタル](../Page/ラインメタル.md "wikilink")社によって開発が始められ、[1933年](../Page/1933年.md "wikilink")に制式化された。歩兵連隊の歩兵砲中隊に2門ずつが装備された。歩兵部隊自体が装備する火砲としては最も大口径かつ強力であり、厳重に防護された敵拠点の制圧に威力を発揮、[1945年](../Page/1945年.md "wikilink")の終戦間際まで生産が続けられた。しかし一方で、短い射程と比べて重量がかさむため、戦車車台に搭載された自走砲も各種開発・運用された。
 
 ## 砲弾
 
@@ -23,7 +23,7 @@
 <td style="text-align: center;"><p>I Gr 38 Nb</p></td>
 <td style="text-align: center;"><p>発煙弾</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/発煙硫酸" title="wikilink">発煙硫酸</a>(oleum)/<a href="https://ja.wikipedia.org/wiki/軽石" title="wikilink">軽石</a>(pumice)</p></td>
+<td style="text-align: center;"><p><a href="../Page/発煙硫酸.md" title="wikilink">発煙硫酸</a>(oleum)/<a href="../Page/軽石.md" title="wikilink">軽石</a>(pumice)</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>I Gr 39 Hl/A</p></td>
@@ -45,7 +45,7 @@
   - [I号自走重歩兵砲](../Page/I号自走重歩兵砲.md "wikilink")
   - [II号自走重歩兵砲](../Page/II号自走重歩兵砲.md "wikilink")
   - III号自走重歩兵砲 - アフリカ軍団の現地改造車輌。III号戦車の車体にII号自走重歩兵砲のようにオープントップで15cm sIG33を載せたもの。
-  - [グリーレ](https://ja.wikipedia.org/wiki/グリーレ "wikilink")
+  - [グリーレ](../Page/グリーレ.md "wikilink")
   - [33B突撃歩兵砲](https://ja.wikipedia.org/wiki/33B突撃歩兵砲 "wikilink")
 
 [Category:歩兵砲](https://ja.wikipedia.org/wiki/Category:歩兵砲 "wikilink") [Category:ドイツ国防軍の火砲](https://ja.wikipedia.org/wiki/Category:ドイツ国防軍の火砲 "wikilink") [Category:150mm砲](https://ja.wikipedia.org/wiki/Category:150mm砲 "wikilink")

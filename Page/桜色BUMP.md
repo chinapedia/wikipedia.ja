@@ -1,4 +1,4 @@
-> この記事は[BUMP](https://ja.wikipedia.org/wiki/BUMP)から翻訳されています。
+> この記事は[桜色BUMP](https://ja.wikipedia.org/wiki/桜色BUMP)から翻訳されています。
 
 
 **桜色BUMP**（さくらいろバンプ　副題：Sakura in Pale Rose Bump）は[在原竹広](https://ja.wikipedia.org/wiki/在原竹広 "wikilink")著の[ライトノベル](../Page/ライトノベル.md "wikilink")。イラストはGUNPOMが担当している。刊行[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")は[電撃文庫](../Page/電撃文庫.md "wikilink")。

@@ -7,8 +7,8 @@
 
   - このアナログ盤はシングル「[Wait\&See 〜リスク〜](https://ja.wikipedia.org/wiki/Wait&See_〜リスク〜 "wikilink")」のカップリング曲として発表された「[Fly Me To The Moon](https://ja.wikipedia.org/wiki/Fly_Me_To_The_Moon "wikilink") (In Other Words)」のリミックス・ヴァージョンを4ヴァージョン収録したアナログ盤。限定生産での販売。
   - ポートレイトの写真も「Wait\&See 〜リスク〜」にも使われた写真が使用されている。なお、「Fly Me To The Moon (In Other Words)」にはPVが存在しており、全編アニメーションとなっている。本作の裏ジャケットのワニと三日月のイラストもその映像に登場する。PVはビデオクリップ集「[UTADA HIKARU SINGLE CLIP COLLECTION VOL.2 UH2](../Page/UTADA_HIKARU_SINGLE_CLIP_COLLECTION_VOL.2_UH2.md "wikilink")」の購入者に抽選でプレゼントされたもので、正式に商品化されていない。
-  - 4ヴァージョンのうち「VC2's Club Mix」は[ダンスマニア](https://ja.wikipedia.org/wiki/ダンスマニア "wikilink")シリーズに収録されている。
-  - 45回転。[オリコン上ではシングル扱いとなり](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、16位を記録。音楽ソフトがアナログレコードからCDへと移行して以降、アナログ盤のみでリリースされた作品としては上位を記録したと言える。当時、テレビでは朝の情報番組で取り上げられたことがあった。
+  - 4ヴァージョンのうち「VC2's Club Mix」は[ダンスマニア](../Page/ダンスマニア.md "wikilink")シリーズに収録されている。
+  - 45回転。[オリコン上ではシングル扱いとなり](../Page/オリコンチャート.md "wikilink")、16位を記録。音楽ソフトがアナログレコードからCDへと移行して以降、アナログ盤のみでリリースされた作品としては上位を記録したと言える。当時、テレビでは朝の情報番組で取り上げられたことがあった。
 
 ## 収録曲
 
@@ -26,7 +26,7 @@
 </tr>
 <tr class="even">
 <td><p>前作:<br />
-<a href="https://ja.wikipedia.org/wiki/First_Love_(宇多田ヒカルのアルバム)" title="wikilink">First Love</a></p></td>
+<a href="../Page/First_Love_(宇多田ヒカルのアルバム).md" title="wikilink">First Love</a></p></td>
 </tr>
 </tbody>
 </table>

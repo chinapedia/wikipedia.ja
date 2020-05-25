@@ -1,13 +1,13 @@
 > この記事は[BEFORE THE DAYLIGHT](https://ja.wikipedia.org/wiki/BEFORE_THE_DAYLIGHT)から翻訳されています。
 
 
-『**BEFORE THE DAYLIGHT**』（ビフォアー・ザ・デイライト イズ・ザ・モースト・ダークネス・モーメント・イン・ア・デイ）は、[1988年](../Page/1988年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")の通算7作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**BEFORE THE DAYLIGHT**』（ビフォアー・ザ・デイライト イズ・ザ・モースト・ダークネス・モーメント・イン・ア・デイ）は、[1988年](../Page/1988年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")の通算7作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-『[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")』優秀アルバム賞受賞\[1\]。オリコン・アルバム・ランキングにて、同時期に発売された角松プロデュースによる[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")のアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』が1位、本作が2位と、1・2フィニッシュを記録した。
+『[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")』優秀アルバム賞受賞\[1\]。オリコン・アルバム・ランキングにて、同時期に発売された角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")のアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』が1位、本作が2位と、1・2フィニッシュを記録した。
 
-「I CAN GIVE YOU MY LOVE」と「CAN'T YOU SEE」は、後に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「CAN'T YOU SEE」と「LADY IN THE NIGHT」、「I'D LIKE TO BE YOUR FANTASY」は[アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]にリテイク・ヴァージョンで収録された。
+「I CAN GIVE YOU MY LOVE」と「CAN'T YOU SEE」は、後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「CAN'T YOU SEE」と「LADY IN THE NIGHT」、「I'D LIKE TO BE YOUR FANTASY」は[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]にリテイク・ヴァージョンで収録された。
 
 ## 収録曲
 
@@ -22,7 +22,7 @@
         角松敏生 作詞・作曲, ERIC CALVI & LeMEL HUMES 編曲
 4.  **GET YOUR FEELIN**'   \*\*
       -
-        角松敏生 作詞・作曲, [LENNY WHITE](https://ja.wikipedia.org/wiki/レニー・ホワイト "wikilink") 編曲
+        角松敏生 作詞・作曲, [LENNY WHITE](../Page/レニー・ホワイト.md "wikilink") 編曲
 5.  **CAN'T YOU SEE**   \*\*\*
       -
         角松敏生 作詞・作曲, PETER SCHERE & [ARTO LINDSAY](../Page/アート・リンゼイ.md "wikilink") 編曲
@@ -43,7 +43,7 @@
   - Produced by [Philippe Saisse](../Page/フィリップ・セス.md "wikilink")
   - Arranged by Philippe Saisse
   - All keyboards and Programming : Philippe Saisse
-  - Guitar : [Nile Rogers](https://ja.wikipedia.org/wiki/ナイル・ロジャース "wikilink") on “LOST MY HEART IN THE DARK”, Nick Moroch on “I CAN GIVE YOU MY LOVE”
+  - Guitar : [Nile Rogers](../Page/ナイル・ロジャース.md "wikilink") on “LOST MY HEART IN THE DARK”, Nick Moroch on “I CAN GIVE YOU MY LOVE”
   - Background Vocals : Frank Simms, Vicki Sue Robinson, Diva Gray
   - Engineered by Daniel Abraham at Sorcerer Sound, Assisted by Shawna Stobi
   - Mixed by The French Acrobats at Soundworks, Assisted by Richard Navak
@@ -66,13 +66,13 @@
 
 ### “GET YOUR FEELIN'” & “I'D LIKE TO BE YOUR FANTASY”
 
-  - Produced by [Lenny White](https://ja.wikipedia.org/wiki/レニー・ホワイト "wikilink")
+  - Produced by [Lenny White](../Page/レニー・ホワイト.md "wikilink")
   - Arranged by Lenny White and Pete Levin
   - Engineered by Alec Head
   - Keyboards and Programming : Pete Levin
   - Drums : Flare Funston
   - Additional Programming : Lenny White
-  - Tenor Saxophone : [Michael Brecker](https://ja.wikipedia.org/wiki/マイケル・ブレッカー "wikilink") on “I'D LIKE TO BE YOUR FANTASY”
+  - Tenor Saxophone : [Michael Brecker](../Page/マイケル・ブレッカー.md "wikilink") on “I'D LIKE TO BE YOUR FANTASY”
   - Background Vocals : Benny Diggs, Vanese Inomas, B.J. Nelson
   - Emulator II Programming : Matt Schottenfield
   - Assistant Engineers : Eugene Nastasi (Shakedown Sound), Lolly Grodner (Media Sound)
@@ -117,7 +117,7 @@
 
 {{-}}
 
-  - PRODUCED BY [PHILIPPE SAISSE](../Page/フィリップ・セス.md "wikilink"), LeMEL HUMES & ERIC CALVI \*, [LENNY WHITE](https://ja.wikipedia.org/wiki/レニー・ホワイト "wikilink") \*\*, PETER SCHERE & [ARTO LINDSAY](../Page/アート・リンゼイ.md "wikilink") \*\*\*, [JEFF BOVA](https://ja.wikipedia.org/wiki/:en:Jeff_Bova "wikilink") & JIMMY BRALOWER \*\*\*\*
+  - PRODUCED BY [PHILIPPE SAISSE](../Page/フィリップ・セス.md "wikilink"), LeMEL HUMES & ERIC CALVI \*, [LENNY WHITE](../Page/レニー・ホワイト.md "wikilink") \*\*, PETER SCHERE & [ARTO LINDSAY](../Page/アート・リンゼイ.md "wikilink") \*\*\*, [JEFF BOVA](https://ja.wikipedia.org/wiki/:en:Jeff_Bova "wikilink") & JIMMY BRALOWER \*\*\*\*
 
 {{-}}
 

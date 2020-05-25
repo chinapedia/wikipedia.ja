@@ -15,10 +15,10 @@
 
 1.  **O'ver** \[4:58\]
       -
-        作詞：[SHUN](https://ja.wikipedia.org/wiki/清木場俊介 "wikilink") / 作曲：[菊池一仁](https://ja.wikipedia.org/wiki/菊池一仁 "wikilink") / 編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+        作詞：[SHUN](../Page/清木場俊介.md "wikilink") / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
     <!-- end list -->
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』MUSIC BANK
-      - 日本テレビ系『[汐留スタイル\!](https://ja.wikipedia.org/wiki/汐留スタイル! "wikilink")』Stylish Play
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』MUSIC BANK
+      - 日本テレビ系『[汐留スタイル\!](../Page/汐留スタイル!.md "wikilink")』Stylish Play
 2.  **O'ver (Winter version)** \[3:06\]
       -
         編曲：岩戸崇
@@ -26,8 +26,8 @@
 
 ## 収録アルバム
 
-  - [EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")（＃1）
-  - [SELECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\) "wikilink")（＃1）
+  - [EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")（＃1）
+  - [SELECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")（＃1）
   - [PERFECT BEST](https://ja.wikipedia.org/wiki/PERFECT_BEST_\(EXILEのアルバム\)#DISC_2『SELECT_BEST』 "wikilink")（＃1）
 
 ## 脚注

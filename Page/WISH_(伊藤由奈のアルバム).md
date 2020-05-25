@@ -1,12 +1,12 @@
-> この記事は[WISH \(\)](https://ja.wikipedia.org/wiki/WISH_\(\))から翻訳されています。
+> この記事は[WISH \(伊藤由奈のアルバム\)](https://ja.wikipedia.org/wiki/WISH_\(伊藤由奈のアルバム\))から翻訳されています。
 
 
-『**WISH**』（ウィッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+『**WISH**』（ウィッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 ## 解説
 
   - 大ヒットした1stアルバム『[HEART](../Page/HEART_\(伊藤由奈のアルバム\).md "wikilink")』以来、約1年ぶりに発売された2ndアルバム。
-  - 初回生産限定盤のみ、収録シングルの[ビデオクリップが収録された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD付き](../Page/DVD-Video.md "wikilink")、三方背BOX仕様、32P豪華ブックレット封入。通常盤とはジャケットが異なる。
+  - 初回生産限定盤のみ、収録シングルの[ビデオクリップが収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD付き](../Page/DVD-Video.md "wikilink")、三方背BOX仕様、32P豪華ブックレット封入。通常盤とはジャケットが異なる。
   - 2007年、彼女は初の全国ツアー、コラボレーションなど数多くの経験を経て、歌うことの意味を改めて自分に問い、このアルバムに「私の曲を聴いてくれるの人の力になりたい」という願いを込める。
 
 ## 収録曲
@@ -18,13 +18,13 @@
 2.  **alone again**
     （作詞・作曲・編曲：[百田留衣](https://ja.wikipedia.org/wiki/百田留衣 "wikilink")／ストリングスアレンジ：弦一徹 ）
 3.  **[あなたがいる限り ～A WORLD TO BELIEVE IN～](https://ja.wikipedia.org/wiki/ア・ワールド・トゥ・ビリーヴ・イン#あなたがいる限り_〜A_World_to_Believe_In〜 "wikilink")**
-    （作詞・作曲：Tino Izzo、Rosanna Ciciola／日本語詞：小林夏海／編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")）
+    （作詞・作曲：Tino Izzo、Rosanna Ciciola／日本語詞：小林夏海／編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
       - 10thシングル。[セリーヌ・ディオン](https://ja.wikipedia.org/wiki/セリーヌ・ディオン "wikilink")とのコラボレーション。
 4.  **[Urban Mermaid](../Page/Urban_Mermaid.md "wikilink")**
     （作詞：ヒワタリスツカ／作曲：[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")／編曲：浅田将明）
       - 9thシングル。[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")に[押尾コータロー](../Page/押尾コータロー.md "wikilink")を迎えた。
 5.  **HEARTBEAT**
-    （作詞：[田中秀典](https://ja.wikipedia.org/wiki/田中秀典 "wikilink")、深野香／作曲・編曲：田中隼人）
+    （作詞：[田中秀典](../Page/田中秀典.md "wikilink")、深野香／作曲・編曲：田中隼人）
       - 5thシングルのカップリング曲「[Stay for Love](https://ja.wikipedia.org/wiki/losin' "wikilink")」や1stアルバム『[HEART](../Page/HEART_\(伊藤由奈のアルバム\).md "wikilink")』収録曲の「WORKAHOLOC」、「Nobody Knows」以来のハウス・ナンバー。
 6.  **[Colorful](../Page/Urban_Mermaid.md "wikilink")**
     （作詞：YOKE・NUTS／作曲・編曲：AKIRA）
@@ -62,14 +62,14 @@
 
 ## タイアップ
 
-  - [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「[LISMO](https://ja.wikipedia.org/wiki/LISMO "wikilink")」CMソング（M-3）
-  - [ユニリーバ・ジャパン](https://ja.wikipedia.org/wiki/ユニリーバ・ジャパン "wikilink")「LUX Super Rich Shine」CMソング（M-4）
+  - [au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「[LISMO](../Page/LISMO.md "wikilink")」CMソング（M-3）
+  - [ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")「LUX Super Rich Shine」CMソング（M-4）
   - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めざましどようび](../Page/めざましどようび.md "wikilink")」10-12月度テーマソング（M-6）
   - [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")「[TIME HOLLOW -奪われた過去を求めて-](../Page/タイムホロウ_奪われた過去を求めて.md "wikilink")」エンディングテーマ（M-7）
   - コナミ「TIME HOLLOW -奪われた過去を求めて-」CMソング（M-7）
   - [レーベルモバイル](https://ja.wikipedia.org/wiki/レコチョク "wikilink")「レコード会社直営♪サウンド」CMソング（M-8）
   - [東宝](../Page/東宝.md "wikilink")配給映画「[アンフェア the movie](../Page/アンフェア_the_movie.md "wikilink")」主題歌（M-11）
-  - [ガシー・レンカー・ジャパン](https://ja.wikipedia.org/wiki/ガシー・レンカー・ジャパン "wikilink")「プロアクティブ」CMソング（M-13）
+  - [ガシー・レンカー・ジャパン](../Page/ガシー・レンカー・ジャパン.md "wikilink")「プロアクティブ」CMソング（M-13）
 
 ## 参考資料
 

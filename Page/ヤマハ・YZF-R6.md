@@ -1,13 +1,13 @@
-> この記事は[YZF-R6](https://ja.wikipedia.org/wiki/YZF-R6)から翻訳されています。
+> この記事は[ヤマハ・YZF-R6](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R6)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Yamaha_YZF_R6_2006_red.jpg "wikilink") **YZF-R6**（ワイゼットエフ アールシックス）は、[ヤマハ発動機](https://ja.wikipedia.org/wiki/ヤマハ発動機 "wikilink")が製造発売している輸出市場（主に欧州）向け4ストローク600ccの[オートバイ](../Page/オートバイ.md "wikilink")（[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")）である。
+[thumb](https://ja.wikipedia.org/wiki/画像:Yamaha_YZF_R6_2006_red.jpg "wikilink") **YZF-R6**（ワイゼットエフ アールシックス）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造発売している輸出市場（主に欧州）向け4ストローク600ccの[オートバイ](../Page/オートバイ.md "wikilink")（[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")）である。
 
 ## 概要
 
 ヤマハの600ccクラスのスポーツマシンとして[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[インターモト](https://ja.wikipedia.org/wiki/インターモト "wikilink")98（第1回国際オートバイ・スクーター専門見本市）で発表され\[1\]、その後年末に発売されている。[YZF600Rサンダーキャットの実質的な後継車種にあたり](https://ja.wikipedia.org/wiki/ヤマハ・YZF600Rサンダーキャット "wikilink")、前年に発売されたYZF-R1の技術・設計思想を取り入れて製造された。
 
-[2003年](../Page/2003年.md "wikilink")・[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")モデルでフルモデルチェンジを行っている\[2\]。2001年モデルではLED方式のテールランプを、2006年モデルでは[電子制御スロットル](https://ja.wikipedia.org/wiki/電子制御スロットル "wikilink")を、2008年モデルではマグネシウム製リアフレームをそれぞれ量産二輪車としては世界で初めて採用するなど先進技術を積極的に投入している\[3\]。1997年から開催されている[スーパースポーツ世界選手権](https://ja.wikipedia.org/wiki/スーパースポーツ世界選手権 "wikilink")では2000年にチャンピオンマシンになり、欧州市場における600ccクラスミドルスポーツマシンの市場開拓に貢献した。
+[2003年](../Page/2003年.md "wikilink")・[2006年](../Page/2006年.md "wikilink")・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")モデルでフルモデルチェンジを行っている\[2\]。2001年モデルではLED方式のテールランプを、2006年モデルでは[電子制御スロットル](https://ja.wikipedia.org/wiki/電子制御スロットル "wikilink")を、2008年モデルではマグネシウム製リアフレームをそれぞれ量産二輪車としては世界で初めて採用するなど先進技術を積極的に投入している\[3\]。1997年から開催されている[スーパースポーツ世界選手権](../Page/スーパースポーツ世界選手権.md "wikilink")では2000年にチャンピオンマシンになり、欧州市場における600ccクラスミドルスポーツマシンの市場開拓に貢献した。
 
 [2012年](../Page/2012年.md "wikilink")現在、日本国内向け仕様は発売されていないため、レース向けに毎年台数限定で公道用部品を取り外した「レースベース車」が発売されている。
 
@@ -228,10 +228,10 @@
 
 ## 関連車種
 
-  - [ヤマハ・YZF-R1](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R1 "wikilink")
-  - [ホンダ・CBR600RR](https://ja.wikipedia.org/wiki/ホンダ・CBR600RR "wikilink")
+  - [ヤマハ・YZF-R1](../Page/ヤマハ・YZF-R1.md "wikilink")
+  - [ホンダ・CBR600RR](../Page/ホンダ・CBR600RR.md "wikilink")
   - [スズキ・GSX-R600](https://ja.wikipedia.org/wiki/スズキ・GSX-R600 "wikilink")
-  - [カワサキ・ニンジャZX-6R](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-6R "wikilink")
+  - [カワサキ・ニンジャZX-6R](../Page/カワサキ・ニンジャZX-6R.md "wikilink")
   - [ヤマハ・YZF-R15](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R15 "wikilink")
   - [ヤマハ・YZF-R125](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R125 "wikilink")
 

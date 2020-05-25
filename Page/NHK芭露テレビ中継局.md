@@ -1,7 +1,7 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK芭露テレビ中継局](https://ja.wikipedia.org/wiki/NHK芭露テレビ中継局)から翻訳されています。
 
 
-**NHK芭露テレビ中継局**（エヌエイチケイばろうテレビちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[紋別郡](../Page/紋別郡.md "wikilink")[湧別町](https://ja.wikipedia.org/wiki/湧別町 "wikilink")に置かれていた[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[北見放送局のテレビ中継局](https://ja.wikipedia.org/wiki/NHK北見放送局 "wikilink")。
+**NHK芭露テレビ中継局**（エヌエイチケイばろうテレビちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[紋別郡](../Page/紋別郡.md "wikilink")[湧別町](../Page/湧別町.md "wikilink")に置かれていた[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[北見放送局のテレビ中継局](../Page/NHK北見放送局.md "wikilink")。
 
 ## 中継局概要
 
@@ -10,10 +10,10 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a></p></th>
@@ -27,7 +27,7 @@
 <tr class="odd">
 <td><p>51</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK北見放送局" title="wikilink">北見</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK北見放送局.md" title="wikilink">北見</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>映像3W/<br />
 音声750mW</p></td>
 <td><p>映像24W/<br />
@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p>53</p></td>
 <td><p>NHK<br />
-北見<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+北見<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>映像25W/<br />
 音声6.2W</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オホーツク総合振興局" title="wikilink">オホーツク圏</a></p></td>
@@ -111,8 +111,8 @@
 
 ## 関連項目
 
-  - [湧別町](https://ja.wikipedia.org/wiki/湧別町 "wikilink")
-  - [NHK北見放送局](https://ja.wikipedia.org/wiki/NHK北見放送局 "wikilink")
+  - [湧別町](../Page/湧別町.md "wikilink")
+  - [NHK北見放送局](../Page/NHK北見放送局.md "wikilink")
 
 [Category:湧別町の建築物](https://ja.wikipedia.org/wiki/Category:湧別町の建築物 "wikilink") [Category:網走・紋別地方の放送送信所](https://ja.wikipedia.org/wiki/Category:網走・紋別地方の放送送信所 "wikilink") [Category:NHK北見](https://ja.wikipedia.org/wiki/Category:NHK北見 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink")
 

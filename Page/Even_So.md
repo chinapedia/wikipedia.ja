@@ -1,7 +1,7 @@
 > この記事は[Even So](https://ja.wikipedia.org/wiki/Even_So)から翻訳されています。
 
 
-『**Even So**』（イーブン・ソー）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")7枚目のオリジナルアルバム。[2004年](../Page/2004年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。CDコードはWPCL-10090。
+『**Even So**』（イーブン・ソー）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")7枚目のオリジナルアルバム。[2004年](../Page/2004年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")発売。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。CDコードはWPCL-10090。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 7.  **Mint** （4:21）
 8.  **1・2・3** （4:17）
       -
-        [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")『[ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")』に出演時の発言で、結婚する兄弟のために書いた曲であることが明かされている。
+        [NHK-FM](../Page/NHK-FM放送.md "wikilink")『[ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")』に出演時の発言で、結婚する兄弟のために書いた曲であることが明かされている。
 9.  **[Last Kiss](https://ja.wikipedia.org/wiki/Last_Kiss_\(BONNIE_PINKの曲\) "wikilink")** （4:24）
       -
         [CX系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[GANTZ 〜the first stage〜](../Page/GANTZ.md "wikilink")」エンディングテーマ

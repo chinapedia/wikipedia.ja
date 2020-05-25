@@ -1,7 +1,7 @@
-> この記事は[DIAMOND \(12012\)](https://ja.wikipedia.org/wiki/DIAMOND_\(12012\))から翻訳されています。
+> この記事は[DIAMOND \(12012のアルバム\)](https://ja.wikipedia.org/wiki/DIAMOND_\(12012のアルバム\))から翻訳されています。
 
 
-**DIAMOND**は、[12012](https://ja.wikipedia.org/wiki/12012 "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
+**DIAMOND**は、[12012](../Page/12012.md "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
 [2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")にリリースされた。
 
@@ -9,8 +9,8 @@
 
   - メジャー1stアルバム。
   - また、リリースはインディーズ時代のアルバム『PLAY DOLLs』と同じく、初回盤（CD+DVD）と通常盤がある。DVDにはPV・Documentary“ダイヤモンド”が収録されている。
-  - 今作はメンバー全員が[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")を手掛けている。
-  - メジャーデビューから今作までにリリースされたシングル「[CYCLONE](https://ja.wikipedia.org/wiki/CYCLONE_\(曲\) "wikilink")」と「[SHINE](https://ja.wikipedia.org/wiki/SHINE_\(12012の曲\) "wikilink")」より『サイクロン』と『SHINE』が収録されている。
+  - 今作はメンバー全員が[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")を手掛けている。
+  - メジャーデビューから今作までにリリースされたシングル「[CYCLONE](../Page/CYCLONE_\(曲\).md "wikilink")」と「[SHINE](../Page/SHINE_\(12012の曲\).md "wikilink")」より『サイクロン』と『SHINE』が収録されている。
   - キャッチコピーは「この世界は、あなたにとって真実ですか？それとも偽りですか？」
   - タイトルの由来は収録曲のテーマに「真実」や「輝き」などが多く使われていたことから、そこから連想されるダイヤモンドとなった。
   - 今までの12012にあまり見られなかった曲調のものが多いが、メンバー曰く“今までも持っていたものが初めて表れただけ”であるとのこと。
@@ -20,7 +20,7 @@
 ### CD
 
 1.  **Mr.LIAR** \[3:34\]
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：宮脇渉 [作曲](../Page/作曲.md "wikilink")：須賀勇介
+      - [作詞](../Page/作詞.md "wikilink")：宮脇渉 [作曲](../Page/作曲.md "wikilink")：須賀勇介
     <!-- end list -->
       -
         この楽曲は宮脇渉が、須賀勇介に「怒り」をテーマに作曲して欲しいと言ったことからできた。そのため、須賀は「社会への怒り」という大きなテーマを基に作曲した。
@@ -36,7 +36,7 @@
     <!-- end list -->
       -
         宮脇渉が単独で作詞・作曲を行ったバラード曲。タイトルの通り「最後の時」をテーマにしている。
-5.  **[SHINE](https://ja.wikipedia.org/wiki/SHINE_\(12012の曲\) "wikilink")** \[3:37\]
+5.  **[SHINE](../Page/SHINE_\(12012の曲\).md "wikilink")** \[3:37\]
       - 作詞：宮脇渉 作曲：塩谷朋之
     <!-- end list -->
       -
@@ -56,11 +56,11 @@
     <!-- end list -->
       -
         『Mr.LIAR』と同じく「怒り」をテーマに作曲したもの。また、この「社会への怒り」とは作曲当時に起きていた「[年金記録問題](../Page/年金記録問題.md "wikilink")」だと本人が語っている。メンバー曰く、“須賀勇介らしい”楽曲である。
-9.  **[サイクロン](https://ja.wikipedia.org/wiki/CYCLONE_\(曲\) "wikilink")** \[4:34\]
+9.  **[サイクロン](../Page/CYCLONE_\(曲\).md "wikilink")** \[4:34\]
       - 作詞：宮脇渉 作曲：酒井洋明
     <!-- end list -->
       -
-        1stシングル。テーマは「真実」と「偽り」。12012初のアニメタイアップ曲（『[ロミオ×ジュリエット](https://ja.wikipedia.org/wiki/ロミオ×ジュリエット "wikilink")』）で、メジャーデビュー作。このアルバムではリマスタリング音源が収録されている。
+        1stシングル。テーマは「真実」と「偽り」。12012初のアニメタイアップ曲（『[ロミオ×ジュリエット](../Page/ロミオ×ジュリエット.md "wikilink")』）で、メジャーデビュー作。このアルバムではリマスタリング音源が収録されている。
 10. **ONCE AGAIN** \[6:18\]
       - 作詞：宮脇渉 作曲：宮脇渉+塩谷朋之
     <!-- end list -->
@@ -89,7 +89,7 @@
 
 **サイクロン**
 
-  - [ゴンゾ](../Page/ゴンゾ.md "wikilink")制作アニメ『[ロミオ×ジュリエット](https://ja.wikipedia.org/wiki/ロミオ×ジュリエット "wikilink")』前期エンディング（2007年4月 - ）
+  - [ゴンゾ](../Page/ゴンゾ.md "wikilink")制作アニメ『[ロミオ×ジュリエット](../Page/ロミオ×ジュリエット.md "wikilink")』前期エンディング（2007年4月 - ）
   - [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")『[Wild Strawberry](https://ja.wikipedia.org/wiki/Wild_Strawberry_\(テレビドラマ\) "wikilink")』オープニング（2008年4月 - ）
 
 [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:12012のアルバム](https://ja.wikipedia.org/wiki/Category:12012のアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")

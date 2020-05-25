@@ -1,7 +1,7 @@
-> この記事は[FANTASIA \(3B LAB.S\)](https://ja.wikipedia.org/wiki/FANTASIA_\(3B_LAB.S\))から翻訳されています。
+> この記事は[FANTASIA \(3B LAB.☆Sの曲\)](https://ja.wikipedia.org/wiki/FANTASIA_\(3B_LAB.☆Sの曲\))から翻訳されています。
 
 
-「**FANTASIA**」（ファンタジア）は、[3B LAB.☆Sの](https://ja.wikipedia.org/wiki/3B_LAB.☆S "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")である。
+「**FANTASIA**」（ファンタジア）は、[3B LAB.☆Sの](../Page/3B_LAB.☆S.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")である。
 
 ## 解説
 

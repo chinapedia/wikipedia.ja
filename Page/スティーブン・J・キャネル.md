@@ -1,11 +1,11 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スティーブン・J・キャネル](https://ja.wikipedia.org/wiki/スティーブン・J・キャネル)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Cannell.jpg "wikilink") **スティーブン・ジョセフ・キャネル**（Stephen Joseph Cannell, [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テレビプロデューサー](https://ja.wikipedia.org/wiki/テレビプロデューサー "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[小説家](../Page/小説家.md "wikilink")。[エミー賞](https://ja.wikipedia.org/wiki/エミー賞 "wikilink")受賞。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cannell.jpg "wikilink") **スティーブン・ジョセフ・キャネル**（Stephen Joseph Cannell, [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テレビプロデューサー](../Page/テレビプロデューサー.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[小説家](../Page/小説家.md "wikilink")。[エミー賞](../Page/エミー賞.md "wikilink")受賞。
 
 ## 経歴
 
-[1964年](../Page/1964年.md "wikilink")に[オレゴン大学](https://ja.wikipedia.org/wiki/オレゴン大学 "wikilink")を卒業し、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に、「[スパイのライセンス](https://ja.wikipedia.org/wiki/スパイのライセンス "wikilink")」の脚本で認められ、[ユニバーサルスタジオ](https://ja.wikipedia.org/wiki/ユニバーサルスタジオ "wikilink")のテレビ番組制作部門に参加。「[特捜隊アダム12](../Page/特捜隊アダム12.md "wikilink")」の第3～第4シーズン（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")～[1972年](../Page/1972年.md "wikilink")）で脚本を手がけた後、[フリーランス](../Page/フリーランス.md "wikilink")となり、「[鬼警部アイアンサイド](https://ja.wikipedia.org/wiki/鬼警部アイアンサイド "wikilink")」や「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」などに脚本を提供。以後、脚本家、プロデューサとして、犯罪ものを中心に約40作品、1500話以上の製作に携わり、450本以上の脚本を自身で執筆している。時には、自作の「[反逆のヒーローレネゲイド](https://ja.wikipedia.org/wiki/反逆のヒーローレネゲイド "wikilink")」（*RENEGADE*）や[スティーブン・セガール](https://ja.wikipedia.org/wiki/スティーブン・セガール "wikilink")主演の「[奪還 DAKKAN -アルカトラズ-](https://ja.wikipedia.org/wiki/奪還_DAKKAN_-アルカトラズ- "wikilink")」（監督は「ハット・スクワッド」のドン・マイケル・ポール）に[俳優](../Page/俳優.md "wikilink")として出演していた。
+[1964年](../Page/1964年.md "wikilink")に[オレゴン大学](../Page/オレゴン大学.md "wikilink")を卒業し、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に、「[スパイのライセンス](../Page/スパイのライセンス.md "wikilink")」の脚本で認められ、[ユニバーサルスタジオ](https://ja.wikipedia.org/wiki/ユニバーサルスタジオ "wikilink")のテレビ番組制作部門に参加。「[特捜隊アダム12](../Page/特捜隊アダム12.md "wikilink")」の第3～第4シーズン（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")～[1972年](../Page/1972年.md "wikilink")）で脚本を手がけた後、[フリーランス](../Page/フリーランス.md "wikilink")となり、「[鬼警部アイアンサイド](../Page/鬼警部アイアンサイド.md "wikilink")」や「[刑事コロンボ](../Page/刑事コロンボ.md "wikilink")」などに脚本を提供。以後、脚本家、プロデューサとして、犯罪ものを中心に約40作品、1500話以上の製作に携わり、450本以上の脚本を自身で執筆している。時には、自作の「[反逆のヒーローレネゲイド](../Page/反逆のヒーローレネゲイド.md "wikilink")」（*RENEGADE*）や[スティーブン・セガール](https://ja.wikipedia.org/wiki/スティーブン・セガール "wikilink")主演の「[奪還 DAKKAN -アルカトラズ-](https://ja.wikipedia.org/wiki/奪還_DAKKAN_-アルカトラズ- "wikilink")」（監督は「ハット・スクワッド」のドン・マイケル・ポール）に[俳優](../Page/俳優.md "wikilink")として出演していた。
 
 [1979年](../Page/1979年.md "wikilink")、スティーブン・J・キャネル・プロダクションを設立。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、キャネル・スタジオとしてすべての創作活動を統合管理し、その作品はこれまでにのべ1000時間にも及ぶ。
 
@@ -25,19 +25,19 @@
   - [刑事バレッタ](https://ja.wikipedia.org/wiki/刑事バレッタ "wikilink")（1975）
   - [OH\!ハードボイルド](https://ja.wikipedia.org/wiki/OH!ハードボイルド "wikilink")（1980）
   - [UFO時代のときめき飛行 アメリカン・ヒーロー](../Page/アメリカン・ヒーロー.md "wikilink")（1981-1983）
-  - [探偵ハード&マック](https://ja.wikipedia.org/wiki/探偵ハード&マック "wikilink")（1983-1986）
-  - [特攻野郎Aチーム](https://ja.wikipedia.org/wiki/特攻野郎Aチーム "wikilink")（1983-1987）
+  - [探偵ハード&マック](../Page/探偵ハード&マック.md "wikilink")（1983-1986）
+  - [特攻野郎Aチーム](../Page/特攻野郎Aチーム.md "wikilink")（1983-1987）
   - [刑事ハンター](https://ja.wikipedia.org/wiki/刑事ハンター "wikilink")（1984-1991）
   - [リップタイド探偵24時](https://ja.wikipedia.org/wiki/リップタイド探偵24時 "wikilink")（1984-1986）
   - スティングレイ《日本未放映の[コルベット](https://ja.wikipedia.org/wiki/コルベット "wikilink")・スティングレイが活躍する作品》（1986-1987）
   - [JJスターバック](https://ja.wikipedia.org/wiki/JJスターバック "wikilink")（1987-1988）
-  - [21ジャンプストリート](https://ja.wikipedia.org/wiki/21ジャンプストリート "wikilink")（1987-1991）
+  - [21ジャンプストリート](../Page/21ジャンプストリート.md "wikilink")（1987-1991）
   - [Wiseguy](https://ja.wikipedia.org/wiki/:en:Wiseguy "wikilink")〔ビデオタイトル：ダーティ・ブル〕（1987-1990）
   - [ザ・コミッシュ](https://ja.wikipedia.org/wiki/ザ・コミッシュ "wikilink")（1991-1996）
   - [シルク・ストーキング](https://ja.wikipedia.org/wiki/シルク・ストーキング "wikilink")（1991-1999）
-  - [パレスガード](https://ja.wikipedia.org/wiki/パレスガード "wikilink")（1991）
+  - [パレスガード](../Page/パレスガード.md "wikilink")（1991）
   - [ハット・スクワッド 帽子の騎士たち](https://ja.wikipedia.org/wiki/ハット・スクワッド_帽子の騎士たち "wikilink")（1992-1993）
-  - [反逆のヒーローレネゲイド](https://ja.wikipedia.org/wiki/反逆のヒーローレネゲイド "wikilink")　準レギュラー/ドナルド・ディクソン (1992-1997)
+  - [反逆のヒーローレネゲイド](../Page/反逆のヒーローレネゲイド.md "wikilink")　準レギュラー/ドナルド・ディクソン (1992-1997)
   - コブラ《日本未放送の[シェルビー・コブラ](https://ja.wikipedia.org/wiki/シェルビー・コブラ "wikilink")が活躍する作品》（1993-1994）
   - ホークアイ（1994-1995）
   - [帰ってきた\!\! 白バイ野郎ジョン&パンチ](https://ja.wikipedia.org/wiki/白バイ野郎ジョン&パンチ "wikilink") TVスペシャル ゲスト/ベンディックス（1998）

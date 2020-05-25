@@ -1,11 +1,11 @@
-> この記事は[ \& RU with ](https://ja.wikipedia.org/wiki/_\&_RU_with_)から翻訳されています。
+> この記事は[宇崎竜童 \& RUコネクション with 井上堯之](https://ja.wikipedia.org/wiki/宇崎竜童_\&_RUコネクション_with_井上堯之)から翻訳されています。
 
 
-**宇崎竜童 & RUコネクション with 井上堯之**（うざきりゅうどうアンドアールユーコネクションウイズいのうえたかゆき）は、[ダウン・タウン・ブギウギ・バンド](https://ja.wikipedia.org/wiki/ダウン・タウン・ブギウギ・バンド "wikilink")、[竜童組](https://ja.wikipedia.org/wiki/竜童組 "wikilink")に続く、[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")の第3の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。元[ザ・スパイダース](../Page/ザ・スパイダース.md "wikilink")の[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")のギターを[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")させ、大人のためのロックを追求するために結成された。日本を代表する名ドラマーである[そうる透](../Page/そうる透.md "wikilink")、[KUWATA BANDの](https://ja.wikipedia.org/wiki/KUWATA_BAND "wikilink")[琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink")、[一世風靡セピア](../Page/一世風靡セピア.md "wikilink")および[哀川翔](../Page/哀川翔.md "wikilink")ソロ活動のサポートを行っていた[関谷聡](https://ja.wikipedia.org/wiki/関谷聡 "wikilink")と凄腕のプレイヤーが集い、マスコミからは「凄すぎるメンバーが集結したバンド」と評された。
+**宇崎竜童 & RUコネクション with 井上堯之**（うざきりゅうどうアンドアールユーコネクションウイズいのうえたかゆき）は、[ダウン・タウン・ブギウギ・バンド](../Page/ダウン・タウン・ブギウギ・バンド.md "wikilink")、[竜童組](https://ja.wikipedia.org/wiki/竜童組 "wikilink")に続く、[宇崎竜童](../Page/宇崎竜童.md "wikilink")の第3の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。元[ザ・スパイダース](../Page/ザ・スパイダース.md "wikilink")の[井上堯之](../Page/井上堯之.md "wikilink")のギターを[フィーチャリング](../Page/フィーチャリング.md "wikilink")させ、大人のためのロックを追求するために結成された。日本を代表する名ドラマーである[そうる透](../Page/そうる透.md "wikilink")、[KUWATA BANDの](../Page/KUWATA_BAND.md "wikilink")[琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink")、[一世風靡セピア](../Page/一世風靡セピア.md "wikilink")および[哀川翔](../Page/哀川翔.md "wikilink")ソロ活動のサポートを行っていた[関谷聡](https://ja.wikipedia.org/wiki/関谷聡 "wikilink")と凄腕のプレイヤーが集い、マスコミからは「凄すぎるメンバーが集結したバンド」と評された。
 
 ## 概要
 
-[1970年代](../Page/1970年代.md "wikilink")、テレビ番組の収録で宇崎が[井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink")の演奏で[沢田研二](../Page/沢田研二.md "wikilink")の楽曲を歌うという企画があり、それが、[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")結成への布石となった。[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")、[日本アカデミー賞](../Page/日本アカデミー賞.md "wikilink")歴代受賞者が招待されたパーティーで宇崎と井上は隣同士の席となる。すぐに意気投合した2人は「どちらかが死ぬまで続けよう」と、バンドを組むことを決意する。
+[1970年代](../Page/1970年代.md "wikilink")、テレビ番組の収録で宇崎が[井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink")の演奏で[沢田研二](../Page/沢田研二.md "wikilink")の楽曲を歌うという企画があり、それが、[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")結成への布石となった。[1992年](../Page/1992年.md "wikilink")、[日本アカデミー賞](../Page/日本アカデミー賞.md "wikilink")歴代受賞者が招待されたパーティーで宇崎と井上は隣同士の席となる。すぐに意気投合した2人は「どちらかが死ぬまで続けよう」と、バンドを組むことを決意する。
 
 当初は[ウォーク・ウィズ・サンダー](https://ja.wikipedia.org/wiki/ウォーク・ウィズ・サンダー "wikilink")というユニット名で、元[ブルーコメッツ](https://ja.wikipedia.org/wiki/ブルーコメッツ "wikilink")の[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")も加わっていたが、事務所の権利関係の問題で、[TBSのニュース番組](../Page/TBSテレビ.md "wikilink")『[NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』のエンディングテーマを1曲録音するのみとなった（この曲「soul searching」は現在に到るまでCD化はされていない。ただし、[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")版のみ1stアルバムに収録されている）。この時、元[ザ・スパイダース](../Page/ザ・スパイダース.md "wikilink")の[大野克夫](../Page/大野克夫.md "wikilink")も参加する予定だったが、家庭の事情で不参加となった。
 
@@ -17,8 +17,8 @@
 
 ## メンバー
 
-  - [宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")（うざき りゅうどう）：ボーカル、サイドギター。
-  - [井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")（いのうえ たかゆき）：リードギター、ボーカル。
+  - [宇崎竜童](../Page/宇崎竜童.md "wikilink")（うざき りゅうどう）：ボーカル、サイドギター。
+  - [井上堯之](../Page/井上堯之.md "wikilink")（いのうえ たかゆき）：リードギター、ボーカル。
   - [琢磨仁](https://ja.wikipedia.org/wiki/琢磨仁 "wikilink")（たくま じん）：ベース。
   - [そうる透](../Page/そうる透.md "wikilink")（そうる とおる）：ドラムス。
   - [関谷聡](https://ja.wikipedia.org/wiki/関谷聡 "wikilink")（せきや あきら）：キーボード、ピアニカ。
@@ -26,11 +26,11 @@
 
 ## 来歴
 
-  - [1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")
+  - [1992年](../Page/1992年.md "wikilink")
 
 <!-- end list -->
 
-  - 3月20日：日本アカデミー賞15周年記念式典にて[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")と[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")の2人が同じテーブルの隣の席となり、この事がのちの[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")結成へのきっかけとなった。
+  - 3月20日：日本アカデミー賞15周年記念式典にて[宇崎竜童](../Page/宇崎竜童.md "wikilink")と[井上堯之](../Page/井上堯之.md "wikilink")の2人が同じテーブルの隣の席となり、この事がのちの[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")結成へのきっかけとなった。
   - 12月15～19日：RUコネクションの初期メンバーに[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")を含めた6人で[Walks with Thunderを結成](https://ja.wikipedia.org/wiki/Walks_with_Thunder "wikilink")。TBSNEWS23エンディングテーマ「Soul Searching」をレコーディング。
 
 <!-- end list -->
@@ -73,7 +73,7 @@
 
   - 5月16日：4thシングル「GOD BLESS TOKYO」リリース。
   - 5月27日～8月23日：「TOKYO23区LIVE」を行う。
-  - 9月18日～：[NTVドラマ](../Page/日本テレビ放送網.md "wikilink")[さむらい探偵事件簿](https://ja.wikipedia.org/wiki/さむらい探偵事件簿 "wikilink")放送開始（音楽／宇崎竜童・井上堯之、主題歌／RUコネクション）。
+  - 9月18日～：[NTVドラマ](../Page/日本テレビ放送網.md "wikilink")[さむらい探偵事件簿](../Page/さむらい探偵事件簿.md "wikilink")放送開始（音楽／宇崎竜童・井上堯之、主題歌／RUコネクション）。
   - 11月13日：5thシングル「好きにしな」リリース。
   - 12月11日：3rdアルバム「起承転々」リリース。
 
@@ -99,7 +99,7 @@
   - 1月9日～19日：アメリカ・ナッシュビルにて4thアルバムをレコーディング。
   - 4月16日：4thアルバム「SAY NO」リリース。
   - 4月17日～：3年目となる「東京23区雷舞・全関東拡大TOUR GOD BLESS TOKYO」を開始。
-  - 10月16日：ツアー最終日、[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ "wikilink")にて[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")としての活動は休止（解散）となった。
+  - 10月16日：ツアー最終日、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて[RUコネクション](https://ja.wikipedia.org/wiki/RUコネクション "wikilink")としての活動は休止（解散）となった。
 
 ## ディスコグラフィー
 

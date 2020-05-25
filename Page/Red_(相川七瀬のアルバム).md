@@ -1,4 +1,4 @@
-> この記事は[Red \(\)](https://ja.wikipedia.org/wiki/Red_\(\))から翻訳されています。
+> この記事は[Red \(相川七瀬のアルバム\)](https://ja.wikipedia.org/wiki/Red_\(相川七瀬のアルバム\))から翻訳されています。
 
 
 『**Red**』（レッド）は、[1996年](../Page/1996年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に[cutting edgeからリリースされた](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のデビューアルバム。CDコードはCTCR-18001。
@@ -8,7 +8,7 @@
   - デビューシングルから4枚目のシングルまでの表題曲（「[夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")」、「[バイバイ。](../Page/バイバイ。.md "wikilink")」、「[LIKE A HARD RAIN](../Page/LIKE_A_HARD_RAIN.md "wikilink")」、「[BREAK OUT\!](../Page/BREAK_OUT!_\(相川七瀬の曲\).md "wikilink")」）に、カップリング曲のうちの2曲、さらに新曲5曲を加えた全11曲を収録。
   - 3週目で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。総売り上げは、デビューアルバムにも関わらず、約245万枚の売り上げを記録し、大ヒットアルバムとなった。
   - [ビーイング](../Page/ビーイング.md "wikilink")のスタジオで制作された作品。
-  - ジャケットデザインは、織田哲郎を始め[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")や[LOUDNESS](../Page/LOUDNESS.md "wikilink")・[浜田麻里](../Page/浜田麻里.md "wikilink")・[B'z](../Page/B'z.md "wikilink")・[T-BOLAN](../Page/T-BOLAN.md "wikilink")などビーイング初期から中興期のジャケットを手掛けた[カッツ三宅](https://ja.wikipedia.org/wiki/カッツ三宅 "wikilink")が手掛けた。
+  - ジャケットデザインは、織田哲郎を始め[BOOWY](../Page/BOOWY.md "wikilink")や[LOUDNESS](../Page/LOUDNESS.md "wikilink")・[浜田麻里](../Page/浜田麻里.md "wikilink")・[B'z](../Page/B'z.md "wikilink")・[T-BOLAN](../Page/T-BOLAN.md "wikilink")などビーイング初期から中興期のジャケットを手掛けた[カッツ三宅](https://ja.wikipedia.org/wiki/カッツ三宅 "wikilink")が手掛けた。
 
 ## 収録曲
 

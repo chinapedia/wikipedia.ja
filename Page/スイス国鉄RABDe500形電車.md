@@ -1,4 +1,4 @@
-> この記事は[RABDe500](https://ja.wikipedia.org/wiki/RABDe500)から翻訳されています。
+> この記事は[スイス国鉄RABDe500形電車](https://ja.wikipedia.org/wiki/スイス国鉄RABDe500形電車)から翻訳されています。
 
 
 **スイス国鉄RABDe500形電車** (*SBB RABDe 500*,*Intercity-Neigezug*,**ICN**) は、[スイス連邦鉄道](../Page/スイス連邦鉄道.md "wikilink")（スイス国鉄）が保有し運行を行っている[制御付き自然振子式](https://ja.wikipedia.org/wiki/車体傾斜式車両#制御付き自然振子式 "wikilink")\[1\]の[インターシティ](../Page/インターシティ.md "wikilink")用[電車](../Page/電車.md "wikilink")編成である。

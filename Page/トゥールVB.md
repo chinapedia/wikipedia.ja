@@ -1,13 +1,13 @@
-> この記事は[VB](https://ja.wikipedia.org/wiki/VB)から翻訳されています。
+> この記事は[トゥールVB](https://ja.wikipedia.org/wiki/トゥールVB)から翻訳されています。
 
 
-[330px](https://ja.wikipedia.org/wiki/ファイル:Finale_Coupe_de_France_de_volley-ball_2013-2014_-_Tours.png "wikilink") **トゥールVB**（Tours Volley-Ball）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トゥールを本拠地とする男子](https://ja.wikipedia.org/wiki/トゥール_\(アンドル＝エ＝ロワール県\) "wikilink")[バレーボール](https://ja.wikipedia.org/wiki/バレーボール "wikilink")クラブチーム。
+[330px](https://ja.wikipedia.org/wiki/ファイル:Finale_Coupe_de_France_de_volley-ball_2013-2014_-_Tours.png "wikilink") **トゥールVB**（Tours Volley-Ball）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トゥールを本拠地とする男子](../Page/トゥール_\(アンドル＝エ＝ロワール県\).md "wikilink")[バレーボール](../Page/バレーボール.md "wikilink")クラブチーム。
 
 ## 歴史
 
-[1988年](../Page/1988年.md "wikilink")、トゥールVB創設。[1994年](../Page/1994年.md "wikilink")にナシオナル1Bで優勝し、ナシオナル1A（現[リーグA](https://ja.wikipedia.org/wiki/フランス・バレーボールリーグ "wikilink")）へ昇格した\[1\]。
+[1988年](../Page/1988年.md "wikilink")、トゥールVB創設。[1994年](../Page/1994年.md "wikilink")にナシオナル1Bで優勝し、ナシオナル1A（現[リーグA](../Page/フランス・バレーボールリーグ.md "wikilink")）へ昇格した\[1\]。
 
-[2003年](../Page/2003年.md "wikilink")にカップ初優勝\[2\]、[2004年](../Page/2004年.md "wikilink")のプレーオフ・ファイナルで[ASカンヌを降し](https://ja.wikipedia.org/wiki/ASカンヌ・バレーボール "wikilink")、初のリーグ優勝を飾る\[3\]。翌[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[欧州チャンピオンズリーグファイナルでギリシャの](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")[イラクリス・テッサロニキに勝利し](https://ja.wikipedia.org/wiki/イラクリス・テッサロニキVC "wikilink")、初優勝を飾った\[4\]\[5\]。
+[2003年](../Page/2003年.md "wikilink")にカップ初優勝\[2\]、[2004年](../Page/2004年.md "wikilink")のプレーオフ・ファイナルで[ASカンヌを降し](https://ja.wikipedia.org/wiki/ASカンヌ・バレーボール "wikilink")、初のリーグ優勝を飾る\[3\]。翌[2005年](../Page/2005年.md "wikilink")には[欧州チャンピオンズリーグファイナルでギリシャの](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")[イラクリス・テッサロニキに勝利し](https://ja.wikipedia.org/wiki/イラクリス・テッサロニキVC "wikilink")、初優勝を飾った\[4\]\[5\]。
 
 [2007年](../Page/2007年.md "wikilink")欧州チャンピオンズリーグでは2度目のファイナル進出を果たしたものの、ドイツの[VfBフリードリヒスハーフェン](../Page/VfBフリードリヒスハーフェン.md "wikilink")に敗れ、準優勝に終わった\[6\]。
 
@@ -15,7 +15,7 @@
 
 ## 主な成績
 
-  -  [フランスリーグ](https://ja.wikipedia.org/wiki/フランス・バレーボールリーグ "wikilink")（6）
+  -  [フランスリーグ](../Page/フランス・バレーボールリーグ.md "wikilink")（6）
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バレーボール欧州チャンピオンズリーグ "wikilink")（1）
+  - [Shield_of_the_European_Union.svg](https://ja.wikipedia.org/wiki/File:Shield_of_the_European_Union.svg "fig:Shield_of_the_European_Union.svg") [欧州チャンピオンズリーグ](../Page/バレーボール欧州チャンピオンズリーグ.md "wikilink")（1）
 
 <!-- end list -->
 
@@ -51,15 +51,15 @@
 
 ## 歴代所属選手
 
-  - [ユベール・エノ](https://ja.wikipedia.org/wiki/ユベール・エノ "wikilink")
+  - [ユベール・エノ](../Page/ユベール・エノ.md "wikilink")
 
-  - [ロイク・ド・ケルグレ](https://ja.wikipedia.org/wiki/ロイク・ド・ケルグレ "wikilink")
+  - [ロイク・ド・ケルグレ](../Page/ロイク・ド・ケルグレ.md "wikilink")
 
   - [ウラジミール・ニコロフ](../Page/ウラジミール・ニコロフ.md "wikilink")
 
   - [プラメン・コンスタンティノフ](https://ja.wikipedia.org/wiki/プラメン・コンスタンティノフ "wikilink")
 
-  - [ヴァーサ・ミイッチ](https://ja.wikipedia.org/wiki/ヴァーサ・ミイッチ "wikilink")
+  - [ヴァーサ・ミイッチ](../Page/ヴァーサ・ミイッチ.md "wikilink")
 
   - [スロボダン・ボシュカン](https://ja.wikipedia.org/wiki/スロボダン・ボシュカン "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[栃原テレビ・FM中継局](https://ja.wikipedia.org/wiki/栃原テレビ・FM中継局)から翻訳されています。
 
 
 **栃原テレビ・FM中継局**（とちはらてれび・エフエムちゅうけいきょく）は、[奈良県](../Page/奈良県.md "wikilink")[吉野郡](../Page/吉野郡.md "wikilink")[下市町](../Page/下市町.md "wikilink")にある[中継局](../Page/中継局.md "wikilink")である。
@@ -6,7 +6,7 @@
 ## 概要
 
   - 奈良県吉野郡下市町栃原字奥之垣内の[栃原岳](https://ja.wikipedia.org/wiki/栃原岳 "wikilink")に置かれ、県中西部の一部地域へ電波を発射している。
-  - 尚、栃原岳中腹にある[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")の橋本東デジタル中継局および[NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の紀ノ川橋本デジタル中継局についても併せて記述する。
+  - 尚、栃原岳中腹にある[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")の橋本東デジタル中継局および[NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の紀ノ川橋本デジタル中継局についても併せて記述する。
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>WTV<a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p>WTV<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>30(リパック実施無し)</p></td>
 <td><p>300mW</p></td>
 <td><p>3.3W</p></td>
@@ -251,7 +251,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>WTV<a href="https://ja.wikipedia.org/wiki/テレビ和歌山" title="wikilink">テレビ和歌山</a></p></td>
+<td><p>WTV<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a></p></td>
 <td><p>56</p></td>
 <td><p>映像3W<br />
 /音声750mW</p></td>
@@ -293,7 +293,7 @@
   - [関西テレビ放送](../Page/関西テレビ放送.md "wikilink")
   - [讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")
   - [NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")
-  - [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")
+  - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
   - [橋本テレビ中継局](https://ja.wikipedia.org/wiki/橋本テレビ中継局 "wikilink")
 
 [Category:下市町](https://ja.wikipedia.org/wiki/Category:下市町 "wikilink") [Category:下市町の建築物](https://ja.wikipedia.org/wiki/Category:下市町の建築物 "wikilink") [Category:奈良県の放送送信所](https://ja.wikipedia.org/wiki/Category:奈良県の放送送信所 "wikilink") [Category:NHK奈良](https://ja.wikipedia.org/wiki/Category:NHK奈良 "wikilink") [Category:奈良テレビ放送](https://ja.wikipedia.org/wiki/Category:奈良テレビ放送 "wikilink") [Category:在阪広域テレビ局のテレビ送信所](https://ja.wikipedia.org/wiki/Category:在阪広域テレビ局のテレビ送信所 "wikilink")

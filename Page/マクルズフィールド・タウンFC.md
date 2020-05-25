@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マクルズフィールド・タウンFC](https://ja.wikipedia.org/wiki/マクルズフィールド・タウンFC)から翻訳されています。
 
 
 **マクルズフィールド・タウン・フットボール・クラブ**（**Macclesfield Town Football Club**）はイングランド、[チェシャー州](https://ja.wikipedia.org/wiki/チェシャー州 "wikilink")、[マクルズフィールド](https://ja.wikipedia.org/wiki/マクルズフィールド "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属している。

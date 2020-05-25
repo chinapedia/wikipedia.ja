@@ -1,17 +1,17 @@
-> この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
+> この記事は[ストリートファイターZERO \(漫画\)](https://ja.wikipedia.org/wiki/ストリートファイターZERO_\(漫画\))から翻訳されています。
 
 
-『**STREET FIGHTER ZERO**』（ストリートファイターゼロ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけてアーケードゲーム雑誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』（[新声社](https://ja.wikipedia.org/wiki/新声社 "wikilink")）で連載されていた[中平正彦](https://ja.wikipedia.org/wiki/中平正彦 "wikilink")の漫画作品。
+『**STREET FIGHTER ZERO**』（ストリートファイターゼロ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけてアーケードゲーム雑誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』（[新声社](../Page/新声社.md "wikilink")）で連載されていた[中平正彦](../Page/中平正彦.md "wikilink")の漫画作品。
 
 ## 概要
 
-『ゲーメスト』1995年8月15日号から1996年7月30日号まで連載。[カプコン](https://ja.wikipedia.org/wiki/カプコン "wikilink")の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターZERO](https://ja.wikipedia.org/wiki/ストリートファイターZERO "wikilink")』のコミカライズで、同作を元にしたオリジナルストーリーで構成されている。主人公のリュウが体内に眠る「殺意の波動」と戦い続ける、精神の葛藤を描く。
+『ゲーメスト』1995年8月15日号から1996年7月30日号まで連載。[カプコン](../Page/カプコン.md "wikilink")の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")』のコミカライズで、同作を元にしたオリジナルストーリーで構成されている。主人公のリュウが体内に眠る「殺意の波動」と戦い続ける、精神の葛藤を描く。
 
-本作の後に中平が描いた『**[さくらがんばる\!](https://ja.wikipedia.org/wiki/さくらがんばる! "wikilink")**』は原作ゲームのシリーズ第2弾『ストリートファイターZERO2』からの[スピンオフ](https://ja.wikipedia.org/wiki/スピンオフ "wikilink")作品であるが、本作の設定が引き継がれており、時系列的にも後日談に当たることが示唆されている。
+本作の後に中平が描いた『**[さくらがんばる\!](../Page/さくらがんばる!.md "wikilink")**』は原作ゲームのシリーズ第2弾『ストリートファイターZERO2』からの[スピンオフ](../Page/スピンオフ.md "wikilink")作品であるが、本作の設定が引き継がれており、時系列的にも後日談に当たることが示唆されている。
 
-新声社の倒産により単行本は絶版状態であったが、[集英社](../Page/集英社.md "wikilink")の「ジャンプリミックス」レーベル（[コンビニコミック](https://ja.wikipedia.org/wiki/コンビニコミック "wikilink")）で『ストリートファイターII-1 ストリートファイターZERO』として、[2007年](../Page/2007年.md "wikilink")4月2日に再発売された。こちらは後に『[ストリートファイター](https://ja.wikipedia.org/wiki/ストリートファイター_\(ゲーム\) "wikilink")』シリーズ25周年記念として、[2012年](../Page/2012年.md "wikilink")10月5日にも第2刷の発売が行われた。
+新声社の倒産により単行本は絶版状態であったが、[集英社](../Page/集英社.md "wikilink")の「ジャンプリミックス」レーベル（[コンビニコミック](../Page/コンビニコミック.md "wikilink")）で『ストリートファイターII-1 ストリートファイターZERO』として、[2007年](../Page/2007年.md "wikilink")4月2日に再発売された。こちらは後に『[ストリートファイター](../Page/ストリートファイター_\(ゲーム\).md "wikilink")』シリーズ25周年記念として、[2012年](../Page/2012年.md "wikilink")10月5日にも第2刷の発売が行われた。
 
-[2018年](../Page/2018年.md "wikilink")[10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink")に[復刊ドットコム](https://ja.wikipedia.org/wiki/復刊ドットコム "wikilink")より『ストリートファイターZERO 新装版』として再発売された。番外編を含む全てのエピソードやカバーイラストコレクションの他、新たに『CAMMY外伝』の前編も特別収録されている。
+[2018年](../Page/2018年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[復刊ドットコム](../Page/復刊ドットコム.md "wikilink")より『ストリートファイターZERO 新装版』として再発売された。番外編を含む全てのエピソードやカバーイラストコレクションの他、新たに『CAMMY外伝』の前編も特別収録されている。
 
 ## あらすじ
 
@@ -21,43 +21,43 @@
 
 ## 登場人物
 
-  - [リュウ](https://ja.wikipedia.org/wiki/リュウ_\(ストリートファイター\) "wikilink")
+  - [リュウ](../Page/リュウ_\(ストリートファイター\).md "wikilink")
     本作の主人公。己の中に眠る「殺意の波動」に抗い続けている。
-  - [ケン・マスターズ](https://ja.wikipedia.org/wiki/ケン・マスターズ "wikilink")
+  - [ケン・マスターズ](../Page/ケン・マスターズ.md "wikilink")
     リュウの同門。リュウにとっては最高の親友であり、ライバルでもある。
   - [春麗](../Page/春麗.md "wikilink")（チュンリー）
     ICPOの麻薬捜査官。中国拳法の使い手で、強力な脚技が武器。
-  - [バーディー](https://ja.wikipedia.org/wiki/バーディー_\(ストリートファイター\) "wikilink")
+  - [バーディー](../Page/バーディー_\(ストリートファイター\).md "wikilink")
     リュウを麻薬取り引きの用心棒として雇っていた男。かつてリュウと戦って敗れた時に自分を励ましてくれたことから、リュウに憧れている。原作ゲームと違い、「シャドルー」とは絡まない。
   - [剛拳](https://ja.wikipedia.org/wiki/剛拳 "wikilink")（ゴウケン）
     リュウとケンの師匠で回想に登場。弟子たちに「殺意の波動」の危険性を説く。原作ゲームでは豪鬼のエンディングに登場する。
-  - [サガット](https://ja.wikipedia.org/wiki/サガット "wikilink")
-    ムエタイの帝王。リュウの「殺意の波動」によって倒され、胸に大きな傷跡を残す。再びリュウと戦うため、日々修行を重ねている。原作ゲームとは違い、ベガに「[シャドルー](https://ja.wikipedia.org/wiki/シャドルー "wikilink")」へ勧誘されるが「くだらない」と言い返して加入を断っている。
-  - [ローズ](https://ja.wikipedia.org/wiki/ローズ_\(ストリートファイター\) "wikilink")
+  - [サガット](../Page/サガット.md "wikilink")
+    ムエタイの帝王。リュウの「殺意の波動」によって倒され、胸に大きな傷跡を残す。再びリュウと戦うため、日々修行を重ねている。原作ゲームとは違い、ベガに「[シャドルー](../Page/シャドルー.md "wikilink")」へ勧誘されるが「くだらない」と言い返して加入を断っている。
+  - [ローズ](../Page/ローズ_\(ストリートファイター\).md "wikilink")
     イタリアはジェノバの占い師。「ソウルパワー」と呼ばれる不思議な力を使いこなす。
-  - [火引弾](https://ja.wikipedia.org/wiki/火引弾 "wikilink")（ヒビキ ダン）
+  - [火引弾](../Page/火引弾.md "wikilink")（ヒビキ ダン）
     カリブ開催の格闘技大会でケンに倒された男。闇の格闘大会でもキラービーに叩きのめされ、ソドムに落とし穴へ投げ飛ばされる。
-  - [ナッシュ](https://ja.wikipedia.org/wiki/ナッシュ_\(ストリートファイター\) "wikilink")
+  - [ナッシュ](../Page/ナッシュ_\(ストリートファイター\).md "wikilink")
     アメリカ空軍の中尉。リュウたちとは別に「シャドルー」を追う。
-  - [ガイ](https://ja.wikipedia.org/wiki/ガイ_\(ファイナルファイト\) "wikilink")
+  - [ガイ](../Page/ガイ_\(ファイナルファイト\).md "wikilink")
     数々の犯罪組織へ単独で乗り込んでは壊滅し、アメリカにその名を轟かせる東洋人。武神流忍術の使い手。「殺意の波動」に支配されたリュウの「[瞬獄殺](https://ja.wikipedia.org/wiki/瞬獄殺 "wikilink")」を、片手でさばいてしまうほどの強者。
-  - [バルログ](https://ja.wikipedia.org/wiki/バルログ_\(ストリートファイター\) "wikilink")
+  - [バルログ](../Page/バルログ_\(ストリートファイター\).md "wikilink")
     秘密結社「シャドルー」の一員で、闇の格闘大会の主催者。中平の別作品『CAMMY外伝』と同様に、ベガへ絶対的忠誠を誓っている。原作ゲームではサガットのエンディングに登場し、続編の『ZERO3』から参戦する。
-  - [イーグル](https://ja.wikipedia.org/wiki/イーグル_\(ストリートファイター\) "wikilink")
+  - [イーグル](../Page/イーグル_\(ストリートファイター\).md "wikilink")
     パリ市内のストリートファイトで連勝を誇っていたが、バルログの主催する格闘大会でアドンに倒される。原作ゲームには登場しないが、続編の携帯ハード版『ZERO3』のみ参戦する。
-  - [アドン](https://ja.wikipedia.org/wiki/アドン_\(ストリートファイター\) "wikilink")
+  - [アドン](../Page/アドン_\(ストリートファイター\).md "wikilink")
     サガットの一番弟子。サガットがリュウに敗れた後、ムエタイの名誉を取り戻すために「シャドルー」の手を借りる。原作ゲームと違い卑劣な悪役となっており、目的のためなら平気で人を殺める。
-  - [ソドム](https://ja.wikipedia.org/wiki/ソドム_\(ファイナルファイト\) "wikilink")
+  - [ソドム](../Page/ソドム_\(ファイナルファイト\).md "wikilink")
     犯罪組織「マッドギア」の元メンバー。日本かぶれで、2本の十手を武器に持つ。キャミィ、春麗の2人と戦っている途中で落ちてきた天井を[十手](../Page/十手.md "wikilink")で支えるが、2人の顔面蹴りを食らい、仮面を破壊されて戦意喪失する。
-  - [キラービー](https://ja.wikipedia.org/wiki/キャミィ "wikilink")
+  - [キラービー](../Page/キャミィ.md "wikilink")
     遺伝子操作によって生み出された「シャドルー」の強化兵士。ソドムに倒されかけるが、春麗に助けられる。だがその後、ベガに連れて行かれた。原作ゲームには登場しないが、続編の『ZERO2'』から参戦する。
-  - [ベガ](https://ja.wikipedia.org/wiki/ベガ_\(ストリートファイター\) "wikilink")
-    秘密結社「シャドルー」の総帥で、悪の力「サイコパワー」を操る。本作における[ラスボスにして](https://ja.wikipedia.org/wiki/ボスキャラクター "wikilink")「世を乱す者」。
-  - [豪鬼](https://ja.wikipedia.org/wiki/豪鬼 "wikilink")（ゴウキ）
+  - [ベガ](../Page/ベガ_\(ストリートファイター\).md "wikilink")
+    秘密結社「シャドルー」の総帥で、悪の力「サイコパワー」を操る。本作における[ラスボスにして](../Page/ボスキャラクター.md "wikilink")「世を乱す者」。
+  - [豪鬼](../Page/豪鬼.md "wikilink")（ゴウキ）
     拳を極めし者。リュウと同じく「殺意の波動」を持っている。
-  - [春日野さくら](https://ja.wikipedia.org/wiki/春日野さくら "wikilink")（かすがの さくら）
+  - [春日野さくら](../Page/春日野さくら.md "wikilink")（かすがの さくら）
     リュウとベガの戦いに巻き込まれてしまった女子高生。原作ゲームには登場しないが、続編の『ZERO2』から参戦する。
-  - [ジミー](https://ja.wikipedia.org/wiki/ブランカ_\(ストリートファイター\) "wikilink")
+  - [ジミー](../Page/ブランカ_\(ストリートファイター\).md "wikilink")
     単行本巻末のおまけにのみ登場。闇大会で敗北し、ジャングルをさまよっているダンを助けたことで親友となり、一緒に日本へやってくる。
 
 ## 出版
@@ -65,6 +65,6 @@
   - 『ストリートファイターZERO (1)』（新声社、1996年2月10日） ISBN 4-88199-443-3
   - 『ストリートファイターZERO (2)』（新声社、1996年8月25日） ISBN 4-88199-597-9
   - 『ストリートファイターII-1 ストリートファイターZERO』（[集英社](../Page/集英社.md "wikilink")、2007年4月2日） ISBN 978-4-08-109380-9
-  - 『ストリートファイターZERO 新装版』（[復刊ドットコム](https://ja.wikipedia.org/wiki/復刊ドットコム "wikilink")、2018年10月18日） ISBN 978-4-8354-5601-0
+  - 『ストリートファイターZERO 新装版』（[復刊ドットコム](../Page/復刊ドットコム.md "wikilink")、2018年10月18日） ISBN 978-4-8354-5601-0
 
 [Category:ストリートファイター](https://ja.wikipedia.org/wiki/Category:ストリートファイター "wikilink") [Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink") [Category:月刊アルカディア](https://ja.wikipedia.org/wiki/Category:月刊アルカディア "wikilink") [Category:格闘技漫画](https://ja.wikipedia.org/wiki/Category:格闘技漫画 "wikilink") [Category:ゲームのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ゲームのスピンオフ作品 "wikilink") [Category:コンピュータゲームを原作とする漫画作品](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを原作とする漫画作品 "wikilink")

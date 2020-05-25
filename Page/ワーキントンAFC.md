@@ -1,7 +1,9 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[ワーキントンAFC](https://ja.wikipedia.org/wiki/ワーキントンAFC)から翻訳されています。
 
 
-**ワーキントン・アソシエーション・フットボールクラブ**（**Workington Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[カンブリア州](https://ja.wikipedia.org/wiki/カンブリア_\(イングランド\) "wikilink")、[ワーキントン](https://ja.wikipedia.org/wiki/ワーキントン "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[ノーザンプレミアリーグ・プレミアディヴィジョン](https://ja.wikipedia.org/wiki/ノーザンプレミアリーグ・プレミアディヴィジョン "wikilink")（7部相当）に所属。
+**ワーキントン・アソシエーション・フットボールクラブ**（**Workington Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[カンブリア州](../Page/カンブリア_\(イングランド\).md "wikilink")、[ワーキントン](https://ja.wikipedia.org/wiki/ワーキントン "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[ノーザンプレミアリーグ・プレミアディヴィジョン](../Page/ノーザンプレミアリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。
+
+1976-77シーズンまでは[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")に所属していた。1965-66シーズンの3部リーグ5位がクラブの歴代最高記録である。
 
 ## タイトル
 
@@ -66,7 +68,7 @@
 
 ## 関連項目
 
-  - [ワーキントン・タウン](https://ja.wikipedia.org/wiki/ワーキントン・タウン "wikilink") - [ラグビーリーグ](https://ja.wikipedia.org/wiki/ラグビーリーグ "wikilink")チーム
+  - [ワーキントン・タウン](../Page/ワーキントン・タウン.md "wikilink") - [ラグビーリーグ](../Page/ラグビーリーグ.md "wikilink")チーム
 
 ## 外部リンク
 

@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [樫山結](https://ja.wikipedia.org/wiki/樫山結 "wikilink")（2013年4月6日 - ）
+  - [樫山結](../Page/樫山結.md "wikilink")（2013年4月6日 - ）
   - [深瀬智聖](https://ja.wikipedia.org/wiki/深瀬智聖 "wikilink")（[LinQ](https://ja.wikipedia.org/wiki/LinQ "wikilink")、2015年4月4日 - ）
 
 <!-- end list -->

@@ -1,4 +1,4 @@
-> この記事は[Mellow \(\)](https://ja.wikipedia.org/wiki/Mellow_\(\))から翻訳されています。
+> この記事は[Mellow \(中山美穂の曲\)](https://ja.wikipedia.org/wiki/Mellow_\(中山美穂の曲\))から翻訳されています。
 
 
 「**Mellow**」（メロウ）は、[中山美穂](../Page/中山美穂.md "wikilink")の24枚目の[シングル](../Page/シングル.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた(CDS:KIDS-81)。

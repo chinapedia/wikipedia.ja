@@ -23,7 +23,7 @@
   - [安良城紅](https://ja.wikipedia.org/wiki/安良城紅 "wikilink") - 「Ｈｅｒｅ　ａｌｏｎｅ」「Infinite…」
   - [安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink") - 「あなたと私にできる事」「隣人に光が差すとき」「Lost child,」
   - [UNCHAIN](../Page/UNCHAIN.md "wikilink") - 「Brighter Days」
-  - [Amber's](https://ja.wikipedia.org/wiki/Amber's "wikilink") - 「Interstellar」
+  - [Amber's](../Page/Amber's.md "wikilink") - 「Interstellar」
   - [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") - 「孤独へのシグナル」「茜唄」「カスケード」「リリー」
   - [イギリス人](../Page/イギリス人.md "wikilink") - 「東海道本線」
   - [EastWest Boys](https://ja.wikipedia.org/wiki/EastWest_Boys "wikilink") - 「This Time」「Encore」

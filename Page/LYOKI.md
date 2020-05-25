@@ -1,15 +1,15 @@
 > この記事は[LYOKI](https://ja.wikipedia.org/wiki/LYOKI)から翻訳されています。
 
 
-**LYOKI**（リョーキ、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[リール出身の](https://ja.wikipedia.org/wiki/リール_\(フランス\) "wikilink")[ジュエリーデザイナー](https://ja.wikipedia.org/wiki/宝飾デザイナー "wikilink")、[ファッション・デザイナー](https://ja.wikipedia.org/wiki/ファッション・デザイナー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名、**LYOKI NAPATOR**（リョーキ・ナパトール）。ナパトール・ブリゲードCEO、[タイクーンモデルエージェンシー](https://ja.wikipedia.org/wiki/タイクーンモデルエージェンシー "wikilink")所属の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")、[映画俳優](https://ja.wikipedia.org/wiki/映画俳優 "wikilink")。
+**LYOKI**（リョーキ、[1976年](../Page/1976年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink") - ）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[リール出身の](../Page/リール_\(フランス\).md "wikilink")[ジュエリーデザイナー](https://ja.wikipedia.org/wiki/宝飾デザイナー "wikilink")、[ファッション・デザイナー](https://ja.wikipedia.org/wiki/ファッション・デザイナー "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。本名、**LYOKI NAPATOR**（リョーキ・ナパトール）。ナパトール・ブリゲードCEO、[タイクーンモデルエージェンシー](https://ja.wikipedia.org/wiki/タイクーンモデルエージェンシー "wikilink")所属の[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[映画俳優](https://ja.wikipedia.org/wiki/映画俳優 "wikilink")。
 
 ## 人物
 
-1994年より[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンドSCAPEGOAT（スケープゴート）結成し、ギターボーカルを担当。2000年に解散。 2004年より[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")バンド \*[TRIOL](http://ameblo.jp/triol)（トリオール）結成し、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")とリード[ギターを担当](../Page/エレクトリック・ギター.md "wikilink")。MOTORHEADのLEMMY、セルジュ・ゲンスブールとメガデスのデイヴ・ムステインそしてAC/DCのリード・ギタリスト[アンガス・ヤング](https://ja.wikipedia.org/wiki/アンガス・ヤング "wikilink")を尊敬していると公言している。 2011年より俳優[浅野忠信](../Page/浅野忠信.md "wikilink")とバンドR（アール）を結成。現在[LINK 13](https://ja.wikipedia.org/wiki/LINK_13 "wikilink")\*\[[http://link13.tokyo\]ギター・ボーカルを担当](http://link13.tokyo%5Dギター・ボーカルを担当)。
+1994年より[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンドSCAPEGOAT（スケープゴート）結成し、ギターボーカルを担当。2000年に解散。 2004年より[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")バンド \*[TRIOL](http://ameblo.jp/triol)（トリオール）結成し、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")とリード[ギターを担当](../Page/エレクトリック・ギター.md "wikilink")。MOTORHEADのLEMMY、セルジュ・ゲンスブールとメガデスのデイヴ・ムステインそしてAC/DCのリード・ギタリスト[アンガス・ヤング](../Page/アンガス・ヤング.md "wikilink")を尊敬していると公言している。 2011年より俳優[浅野忠信](../Page/浅野忠信.md "wikilink")とバンドR（アール）を結成。現在[LINK 13](https://ja.wikipedia.org/wiki/LINK_13 "wikilink")\*\[[http://link13.tokyo\]ギター・ボーカルを担当](http://link13.tokyo%5Dギター・ボーカルを担当)。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ハーフ](https://ja.wikipedia.org/wiki/ハーフ "wikilink")。
 
-1990年に[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")としてデビューをし、1993年NB-Recordsよりインディーズ・デビュー。 ジュエリーデザイナー、アパレルデザイナー、モデル、ギタリスト、ボーカリスト＆ソング・ライターとして知られる。
+1990年に[ファッションモデル](../Page/ファッションモデル.md "wikilink")としてデビューをし、1993年NB-Recordsよりインディーズ・デビュー。 ジュエリーデザイナー、アパレルデザイナー、モデル、ギタリスト、ボーカリスト＆ソング・ライターとして知られる。
 
 ## 来歴
 
@@ -36,7 +36,7 @@
   - 2000年：バンドNAPATOR and the BRIGADEを結成。
       - MTV unpluggedライブ。
   - 2001年：Scream of the Presidents結成。元SOBUTのギターMOTOと元ASSFORTのドラムMASATOで結成。
-  - 2004年：**TRIOL**結成。モデルの[JUNとプロ](https://ja.wikipedia.org/wiki/JUN_\(ファッションモデル\) "wikilink")・スケートボーダーのShounsk8で結成。
+  - 2004年：**TRIOL**結成。モデルの[JUNとプロ](../Page/JUN_\(ファッションモデル\).md "wikilink")・スケートボーダーのShounsk8で結成。
       - アメリカのバンド[ニルヴァーナの製作スタッフにレコーディングに招待される](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")。
   - 2005年：TRIOLファースト・アルバム『My Distortion』リリース。
   - 2006年：The Tipsies結成、ASSFORTのドラムMASATOとSOLTのベースHIROMIの三人バンド。
@@ -62,19 +62,19 @@
 
   - [ローリングストーン](https://ja.wikipedia.org/wiki/ローリングストーン "wikilink")
   - MR.high-fashion
-  - [MEN'S NON-NO](https://ja.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
-  - [POPEYE](https://ja.wikipedia.org/wiki/POPEYE "wikilink")
+  - [MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")
+  - [POPEYE](../Page/POPEYE.md "wikilink")
   - TOKION
   - mens FUDGE
   - [smart](https://ja.wikipedia.org/wiki/smart_\(雑誌\) "wikilink")
   - smartMAX
   - Heart
   - MEN'S CLUB
-  - [HDP](https://ja.wikipedia.org/wiki/ホットドッグ・プレス "wikilink")
+  - [HDP](../Page/ホットドッグ・プレス.md "wikilink")
   - [relax](https://ja.wikipedia.org/wiki/relax "wikilink")
   - Cover magazine
   - BOON
-  - [FINEBOYS](https://ja.wikipedia.org/wiki/FINEBOYS "wikilink")
+  - [FINEBOYS](../Page/FINEBOYS.md "wikilink")
   - [ストリートジャック](https://ja.wikipedia.org/wiki/ストリートジャック "wikilink")
   - [GET ON\!](https://ja.wikipedia.org/wiki/GET_ON! "wikilink")
   - [SENSE](https://ja.wikipedia.org/wiki/SENSE_\(雑誌\) "wikilink")
@@ -116,7 +116,7 @@
   - [ボーダフォン](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink") \[写メール\]
   - エースコック \[スーパーカップ\]
   - [willcom](../Page/ウィルコム.md "wikilink")
-  - [コンバース](https://ja.wikipedia.org/wiki/コンバース "wikilink") \[ALL STAR\]
+  - [コンバース](../Page/コンバース.md "wikilink") \[ALL STAR\]
   - 大塚製薬 \[ファイブミニ\] （web short movie）
   - ※[UT](https://ja.wikipedia.org/wiki/UT "wikilink") コマーシャル曲制作
 

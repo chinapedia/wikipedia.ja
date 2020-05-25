@@ -1,7 +1,7 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[BCジャルギリス](https://ja.wikipedia.org/wiki/BCジャルギリス)から翻訳されています。
 
 
-**BCジャルギリス**（, **）は、[リトアニア](../Page/リトアニア.md "wikilink")・[カウナス](../Page/カウナス.md "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")クラブである。[リトアニア・バスケットボール・リーグ](https://ja.wikipedia.org/wiki/リトアニア・バスケットボール・リーグ "wikilink")所属。
+**BCジャルギリス**（, **）は、[リトアニア](../Page/リトアニア.md "wikilink")・[カウナス](../Page/カウナス.md "wikilink")を本拠地とするプロ[バスケットボール](../Page/バスケットボール.md "wikilink")クラブである。[リトアニア・バスケットボール・リーグ](../Page/リトアニア・バスケットボール・リーグ.md "wikilink")所属。
 
 ## 歴史
 
@@ -9,7 +9,7 @@
 
 ソ連リーグでもタイトルも獲得しており、リトアニアのみならずソ連を代表する強豪として名を馳せた。
 
-ソ連から独立後の[1999年](../Page/1999年.md "wikilink")には[FIBAユーロリーグタイトルも獲得した](https://ja.wikipedia.org/wiki/ユーロリーグ "wikilink")。
+ソ連から独立後の[1999年](../Page/1999年.md "wikilink")には[FIBAユーロリーグタイトルも獲得した](../Page/ユーロリーグ.md "wikilink")。
 
 ## 主な獲得タイトル
 

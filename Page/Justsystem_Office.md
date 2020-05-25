@@ -5,20 +5,20 @@
 
 ## 概要・歴史
 
-[1994年](../Page/1994年.md "wikilink")に「**一太郎Office**」として発売されたソフトウェア群が起源。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に「一太郎Office8」として3年ぶりにオフィス製品としてのバージョンアップが行われ、翌[1999年](../Page/1999年.md "wikilink")のバージョン「9」から「**Justsystem Office**」と改称したが、[Microsoft Officeのシェアの拡大にともない](../Page/Microsoft_Office.md "wikilink")、わずか1年後の[2000年](../Page/2000年.md "wikilink")に発売された「10」が最終バージョンとなった。既に出荷や販売は停止されており、以降2007年3月にそれまでの「[一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")＆[花子スペシャルパック](https://ja.wikipedia.org/wiki/花子_\(グラフィックソフト\) "wikilink")」を置き換える形で登場した「[JUST Suite](https://ja.wikipedia.org/wiki/JUST_Suite "wikilink")」まで、ジャストシステム製オフィススイート製品は存在しなかった。Justsystem OfficeにはPro版とStandard版が存在した。
+[1994年](../Page/1994年.md "wikilink")に「**一太郎Office**」として発売されたソフトウェア群が起源。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に「一太郎Office8」として3年ぶりにオフィス製品としてのバージョンアップが行われ、翌[1999年](../Page/1999年.md "wikilink")のバージョン「9」から「**Justsystem Office**」と改称したが、[Microsoft Officeのシェアの拡大にともない](../Page/Microsoft_Office.md "wikilink")、わずか1年後の[2000年](../Page/2000年.md "wikilink")に発売された「10」が最終バージョンとなった。既に出荷や販売は停止されており、以降2007年3月にそれまでの「[一太郎](../Page/一太郎.md "wikilink")＆[花子スペシャルパック](../Page/花子_\(グラフィックソフト\).md "wikilink")」を置き換える形で登場した「[JUST Suite](https://ja.wikipedia.org/wiki/JUST_Suite "wikilink")」まで、ジャストシステム製オフィススイート製品は存在しなかった。Justsystem OfficeにはPro版とStandard版が存在した。
 
 最終バージョンの「Justsystem Office10」に含まれていたソフトウェアは以下の通り。なお、花子・五郎はStandard版には含まれていなかった。
 
-  - [一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")10 - [ワープロソフト](../Page/ワープロソフト.md "wikilink")
-  - [花子10](https://ja.wikipedia.org/wiki/花子_\(グラフィックソフト\) "wikilink") - [統合グラフィックソフト](https://ja.wikipedia.org/wiki/グラフィックソフト "wikilink")
-  - [三四郎9/R.2](https://ja.wikipedia.org/wiki/三四郎_\(表計算ソフト\) "wikilink") - [表計算ソフト](../Page/表計算ソフト.md "wikilink")
+  - [一太郎](../Page/一太郎.md "wikilink")10 - [ワープロソフト](../Page/ワープロソフト.md "wikilink")
+  - [花子10](../Page/花子_\(グラフィックソフト\).md "wikilink") - [統合グラフィックソフト](https://ja.wikipedia.org/wiki/グラフィックソフト "wikilink")
+  - [三四郎9/R.2](../Page/三四郎_\(表計算ソフト\).md "wikilink") - [表計算ソフト](../Page/表計算ソフト.md "wikilink")
   - [五郎](https://ja.wikipedia.org/wiki/五郎 "wikilink")9 - [RDBMS](../Page/関係データベース管理システム.md "wikilink")
   - [ATOK](../Page/ATOK.md "wikilink")13 - [日本語入力システム](../Page/日本語入力システム.md "wikilink")
   - インターネットブーメランP.E
   - Sasuke 2.1 - スケジュール管理ソフト
-  - [Shuriken 2.2](https://ja.wikipedia.org/wiki/Shuriken "wikilink") - [電子メールクライアント](../Page/電子メールクライアント.md "wikilink")
+  - [Shuriken 2.2](../Page/Shuriken.md "wikilink") - [電子メールクライアント](../Page/電子メールクライアント.md "wikilink")
 
-また、一太郎Office8には「Fullband」という[PIMソフトが含まれていた](https://ja.wikipedia.org/wiki/Personal_Information_Manager "wikilink")。
+また、一太郎Office8には「Fullband」という[PIMソフトが含まれていた](../Page/Personal_Information_Manager.md "wikilink")。
 
 なお、一太郎・花子・三四郎・ATOK・Shurikenは後継の「JUST Suite」にも含まれていた（ただし、五郎は含まれていない）。 現在、法人向けのオフィススイートは「[JUST Office](../Page/JUST_Office.md "wikilink")」、主に個人向けには「[一太郎プレミアム / スーパープレミアム](https://ja.wikipedia.org/wiki/一太郎#プレミアム_/_スーパープレミアム "wikilink")」が発売されている。
 

@@ -1,11 +1,11 @@
 > この記事は[Negascout](https://ja.wikipedia.org/wiki/Negascout)から翻訳されています。
 
 
-**NegaScout** または **PVS** (Principal Variation Search) は Alexander Reinefeld によって考案された [アルファ・ベータ法](../Page/アルファ・ベータ法.md "wikilink")よりも効率の良い[ミニマックス法](https://ja.wikipedia.org/wiki/ミニマックス法 "wikilink")アルゴリズムの一種である。
+**NegaScout** または **PVS** (Principal Variation Search) は Alexander Reinefeld によって考案された [アルファ・ベータ法](../Page/アルファ・ベータ法.md "wikilink")よりも効率の良い[ミニマックス法](../Page/ミニマックス法.md "wikilink")アルゴリズムの一種である。
 
-NegaScout は手の選択肢を列挙し何らかの方法で並び替えた上で、初めに最も良さそうな手を通常の探索窓で[探索](https://ja.wikipedia.org/wiki/探索 "wikilink")し評価値を得る。 それ以降の手はまず [Null Window Search](https://ja.wikipedia.org/wiki/MTD-f#Null_Window_Search "wikilink") を行いそれまでに見つかった最善手の評価値を超えるかどうかを調べ、 超えた場合にのみあらためて通常の探索窓で再探索し評価値を得る。 但し、得られた評価値がβ値以上でもあれば再探索を行わずその場でカットできる。 Null Window Searchは探索窓が狭くカットが頻繁に起こるため通常の探索よりも短時間で終了するが、 探索順序がランダムだと再探索が頻繁に起こり、結局はアルファ・ベータ法よりも時間が掛かってしまう。 この様に NegaScout が効率よく機能するかどうかは手の並べ替えの精度に依存しており、初めに調べる手が最善手である場合に最も効率が良くなる。 その際よく用いられる方法としては、浅い探索の結果による並び替えがある。
+NegaScout は手の選択肢を列挙し何らかの方法で並び替えた上で、初めに最も良さそうな手を通常の探索窓で[探索](../Page/探索.md "wikilink")し評価値を得る。 それ以降の手はまず [Null Window Search](https://ja.wikipedia.org/wiki/MTD-f#Null_Window_Search "wikilink") を行いそれまでに見つかった最善手の評価値を超えるかどうかを調べ、 超えた場合にのみあらためて通常の探索窓で再探索し評価値を得る。 但し、得られた評価値がβ値以上でもあれば再探索を行わずその場でカットできる。 Null Window Searchは探索窓が狭くカットが頻繁に起こるため通常の探索よりも短時間で終了するが、 探索順序がランダムだと再探索が頻繁に起こり、結局はアルファ・ベータ法よりも時間が掛かってしまう。 この様に NegaScout が効率よく機能するかどうかは手の並べ替えの精度に依存しており、初めに調べる手が最善手である場合に最も効率が良くなる。 その際よく用いられる方法としては、浅い探索の結果による並び替えがある。
 
-チェスプログラムではアルファ・ベータ法に比べ、典型的には10％程度のパフォーマンス上昇が見込めると言われる。 後にさらに少ない探索量が期待できる[MTD(f)と呼ばれる探索法も考案されたが](../Page/MTD-f.md "wikilink")、 置換表に強く依存するなどの性質を避けるために今日のチェスプログラムでも NegaScout は広く使われている。 また、MTD(f)の基礎となった[SSS\*](https://ja.wikipedia.org/wiki/SSS* "wikilink")と呼ばれる[最良優先探索](https://ja.wikipedia.org/wiki/最良優先探索 "wikilink")アルゴリズムもあるが、 探索する[ゲーム木](https://ja.wikipedia.org/wiki/ゲーム木 "wikilink")によっては NegaScout と比べ探索量が増えたりもする事や、 最良優先探索の性質である多くのメモリを必要とする事などの問題があるため普及していない。
+チェスプログラムではアルファ・ベータ法に比べ、典型的には10％程度のパフォーマンス上昇が見込めると言われる。 後にさらに少ない探索量が期待できる[MTD(f)と呼ばれる探索法も考案されたが](../Page/MTD-f.md "wikilink")、 置換表に強く依存するなどの性質を避けるために今日のチェスプログラムでも NegaScout は広く使われている。 また、MTD(f)の基礎となった[SSS\*](https://ja.wikipedia.org/wiki/SSS* "wikilink")と呼ばれる[最良優先探索](../Page/最良優先探索.md "wikilink")アルゴリズムもあるが、 探索する[ゲーム木](https://ja.wikipedia.org/wiki/ゲーム木 "wikilink")によっては NegaScout と比べ探索量が増えたりもする事や、 最良優先探索の性質である多くのメモリを必要とする事などの問題があるため普及していない。
 
 ## Fail-Soft
 

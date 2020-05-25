@@ -1,7 +1,7 @@
 > この記事は[COLLECTION II](https://ja.wikipedia.org/wiki/COLLECTION_II)から翻訳されています。
 
 
-『**COLLECTION II**』（コレクション・ツー）は、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")のコレクション・アルバム（シングルコレクション）。1990年11月21日に[キングレコード](../Page/キングレコード.md "wikilink")より発売された（KICS-60）。
+『**COLLECTION II**』（コレクション・ツー）は、[中山美穂](../Page/中山美穂.md "wikilink")のコレクション・アルバム（シングルコレクション）。1990年11月21日に[キングレコード](../Page/キングレコード.md "wikilink")より発売された（KICS-60）。
 
 ## 解説
 
@@ -16,13 +16,13 @@
 1.  **[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")**
       - 作詞・作曲・編曲: [角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")、St.Arr.: [大谷和夫](../Page/大谷和夫.md "wikilink")、Brass Arr.: [数原晋](../Page/数原晋.md "wikilink")
 2.  **[人魚姫 mermaid](../Page/人魚姫_mermaid.md "wikilink")**
-      - 作詞: [康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink")、作曲: [CINDY](../Page/CINDY.md "wikilink")、編曲: ROD ANTOON
+      - 作詞: [康珍化](../Page/康珍化.md "wikilink")、作曲: [CINDY](../Page/CINDY.md "wikilink")、編曲: ROD ANTOON
 3.  **[Witches](../Page/Witches.md "wikilink")ウィッチズ**
       - 作詞: 康珍化、作曲: CINDY、編曲: [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
 4.  **[ROSÉCOLOR](../Page/ROSECOLOR.md "wikilink")**
       - 作詞: 康珍化、作曲: CINDY、編曲: 鳥山雄司
 5.  **[Virgin Eyes](../Page/Virgin_Eyes.md "wikilink")**
-      - 作詞: [吉元由美](../Page/吉元由美.md "wikilink")、作曲: [杏里](https://ja.wikipedia.org/wiki/杏里 "wikilink")、編曲: [小倉泰治](https://ja.wikipedia.org/wiki/小倉泰治 "wikilink")
+      - 作詞: [吉元由美](../Page/吉元由美.md "wikilink")、作曲: [杏里](../Page/杏里.md "wikilink")、編曲: [小倉泰治](https://ja.wikipedia.org/wiki/小倉泰治 "wikilink")
 6.  **[Midnight Taxi](../Page/Midnight_Taxi.md "wikilink")**
       - 作詞・作曲: [飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")、編曲: [十川知司](../Page/十川ともじ.md "wikilink")
 7.  **[セミスウィートの魔法](../Page/セミスウィートの魔法.md "wikilink")**
@@ -30,14 +30,14 @@
 8.  **[女神たちの冒険](../Page/女神たちの冒険.md "wikilink")**
       - 作詞: 松井五郎、作曲・編曲: [斉藤英夫](https://ja.wikipedia.org/wiki/斉藤英夫 "wikilink")
 9.  **[愛してるっていわない\!](../Page/愛してるっていわない!.md "wikilink")**
-      - 作詞: [安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")、作曲: [羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")、編曲: [樫原伸彦](https://ja.wikipedia.org/wiki/樫原伸彦 "wikilink")
+      - 作詞: [安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")、作曲: [羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink")、編曲: [樫原伸彦](../Page/樫原伸彦.md "wikilink")
 10. **I can't follow you**（ボーナストラック）
-      - 作詞: [覚和歌子](../Page/覚和歌子.md "wikilink")、作曲: [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲: [船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 作詞: [覚和歌子](../Page/覚和歌子.md "wikilink")、作曲: [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲: [船山基紀](../Page/船山基紀.md "wikilink")
       - TBS系ドラマ『[ママはアイドル\!](https://ja.wikipedia.org/wiki/ママはアイドル! "wikilink")』挿入歌
 
 ## 再発盤
 
-  - 1998年3月4日 - [CD](https://ja.wikipedia.org/wiki/CD "wikilink")（廉価盤KICS-668／オリジナル盤より[音圧レベル](https://ja.wikipedia.org/wiki/音圧レベル "wikilink")が上がっている。赤色の帯に変更）
+  - 1998年3月4日 - [CD](https://ja.wikipedia.org/wiki/CD "wikilink")（廉価盤KICS-668／オリジナル盤より[音圧レベル](../Page/音圧レベル.md "wikilink")が上がっている。赤色の帯に変更）
   - 2006年2月1日 - CD（廉価盤KICS-1219／帯がピンク色の新しいバージョンに変更、[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")仕様）
   - 2007年 - [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")配信
   - 2014年6月25日 - ハイレゾ配信（2014リマスター、ハイレゾ音源にて今作含むCOLLECTIONシリーズ全てが同日配信開始／配信元：[mora](https://ja.wikipedia.org/wiki/mora "wikilink")、e-onkyo music、VICTOR STUDIO HD-Music）

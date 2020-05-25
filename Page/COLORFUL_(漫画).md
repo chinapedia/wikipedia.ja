@@ -1,4 +1,4 @@
-> この記事は[COLORFUL \(\)](https://ja.wikipedia.org/wiki/COLORFUL_\(\))から翻訳されています。
+> この記事は[COLORFUL \(漫画\)](https://ja.wikipedia.org/wiki/COLORFUL_\(漫画\))から翻訳されています。
 
 
 『**COLORFUL**』（カラフル）は、[岸虎次郎](https://ja.wikipedia.org/wiki/岸虎次郎 "wikilink")の日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[集英社](../Page/集英社.md "wikilink")「[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")」で連載された。
@@ -11,7 +11,7 @@
 
 ## 単行本
 
-レーベルは[ヤングジャンプ・コミックス](https://ja.wikipedia.org/wiki/ヤングジャンプ・コミックス "wikilink")。
+レーベルは[ヤングジャンプ・コミックス](../Page/ヤングジャンプ・コミックス.md "wikilink")。
 
 1.  1998年2月、ISBN 4-08-782556-6
 2.  1998年7月、ISBN 4-08-782561-2
@@ -28,29 +28,29 @@
 ### キャスト
 
   - 猪谷 - [川津泰彦](https://ja.wikipedia.org/wiki/川津泰彦 "wikilink")
-  - 広川 - [林延年](https://ja.wikipedia.org/wiki/神奈延年 "wikilink")
-  - 刈谷 - [中村大樹](https://ja.wikipedia.org/wiki/中村大樹 "wikilink")
+  - 広川 - [林延年](../Page/神奈延年.md "wikilink")
+  - 刈谷 - [中村大樹](../Page/中村大樹.md "wikilink")
 
 ### スタッフ
 
   - 原作 - 岸虎次郎
-  - 監督 - [中村隆太郎](https://ja.wikipedia.org/wiki/中村隆太郎 "wikilink")
+  - 監督 - [中村隆太郎](../Page/中村隆太郎.md "wikilink")
   - シリーズ構成・脚本 - 佐藤和治
-  - キャラクターデザイン - [岸田隆宏](https://ja.wikipedia.org/wiki/岸田隆宏 "wikilink")
+  - キャラクターデザイン - [岸田隆宏](../Page/岸田隆宏.md "wikilink")
   - 美術 - 阿部行夫
   - デジタルオペレーション - 大庭直之
   - CGワークス - 中原順志
   - 編集 - 今井剛
   - 音楽 - [MOKA](https://ja.wikipedia.org/wiki/MOKA☆ "wikilink")
-  - 音響監督 - [鶴岡陽太](https://ja.wikipedia.org/wiki/鶴岡陽太 "wikilink")
+  - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - プロデューサー - 落合芳行、源生哲雄
-  - アニメーション制作 - [トライアングルスタッフ](https://ja.wikipedia.org/wiki/トライアングルスタッフ "wikilink")
+  - アニメーション制作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
   - 製作 - TBS
 
 ### 主題歌
 
   - 「僕の体温は37.5℃」
-    作詞 - みやむらゆうこ / 作曲 - みやむらゆうこ、破矢ジンタ / 編曲 - 破矢ジンタ / 歌 - [宮村優子](https://ja.wikipedia.org/wiki/宮村優子_\(声優\) "wikilink")
+    作詞 - みやむらゆうこ / 作曲 - みやむらゆうこ、破矢ジンタ / 編曲 - 破矢ジンタ / 歌 - [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")
 
 ### 各話リスト
 

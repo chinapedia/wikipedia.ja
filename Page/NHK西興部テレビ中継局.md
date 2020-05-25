@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK西興部テレビ中継局](https://ja.wikipedia.org/wiki/NHK西興部テレビ中継局)から翻訳されています。
 
 
 **NHK西興部テレビ中継局**（エヌエイチケイにしおこっぺテレビちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[紋別郡](../Page/紋別郡.md "wikilink")[西興部村](../Page/西興部村.md "wikilink")東興の三井山にある、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[北見放送局の](../Page/NHK北見放送局.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。

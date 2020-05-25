@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q超幾何級数](https://ja.wikipedia.org/wiki/Q超幾何級数)から翻訳されています。
 
 
 数学において、**超幾何級数**（ちょうきかきゅうすう、）は[超幾何級数](https://ja.wikipedia.org/wiki/超幾何級数 "wikilink")の[{{mvarである](https://ja.wikipedia.org/wiki/q-類似 "wikilink")。超幾何級数は

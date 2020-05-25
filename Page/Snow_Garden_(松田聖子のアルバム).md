@@ -1,4 +1,4 @@
-> この記事は[Snow Garden \(\)](https://ja.wikipedia.org/wiki/Snow_Garden_\(\))から翻訳されています。
+> この記事は[Snow Garden \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/Snow_Garden_\(松田聖子のアルバム\))から翻訳されています。
 
 
 『**Snow Garden**』（スノー・ガーデン）は、1987年11月にリリースされた[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

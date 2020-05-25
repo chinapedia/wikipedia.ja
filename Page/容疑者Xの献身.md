@@ -1,9 +1,9 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[容疑者Xの献身](https://ja.wikipedia.org/wiki/容疑者Xの献身)から翻訳されています。
 
 
-『**容疑者Xの献身**』（ようぎしゃエックスのけんしん）は、[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink")の[推理小説](../Page/推理小説.md "wikilink")。[ガリレオシリーズ](../Page/ガリレオシリーズ.md "wikilink")第3弾。[2003年](../Page/2003年.md "wikilink")から文芸誌『[オール讀物](https://ja.wikipedia.org/wiki/オール讀物 "wikilink")』に連載され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")に[文藝春秋](../Page/文藝春秋.md "wikilink")より出版された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月には[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink")より文庫化された。
+『**容疑者Xの献身**』（ようぎしゃエックスのけんしん）は、[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink")の[推理小説](../Page/推理小説.md "wikilink")。[ガリレオシリーズ](../Page/ガリレオシリーズ.md "wikilink")第3弾。[2003年](../Page/2003年.md "wikilink")から文芸誌『[オール讀物](../Page/オール讀物.md "wikilink")』に連載され、[2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")に[文藝春秋](../Page/文藝春秋.md "wikilink")より出版された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月には[文春文庫](../Page/文春文庫.md "wikilink")より文庫化された。
 
-第6回[本格ミステリ大賞](https://ja.wikipedia.org/wiki/本格ミステリ大賞 "wikilink")、第134回[直木三十五賞](../Page/直木三十五賞.md "wikilink")受賞作。 また、国内の主要ミステリランキングである『[本格ミステリ・ベスト10](https://ja.wikipedia.org/wiki/本格ミステリ・ベスト10 "wikilink") 2006年版』『[このミステリーがすごい\!](https://ja.wikipedia.org/wiki/このミステリーがすごい! "wikilink")2006』『2005年「[週刊文春](../Page/週刊文春.md "wikilink")」[ミステリベスト10](https://ja.wikipedia.org/wiki/週刊文春#推理小説ベスト10 "wikilink")』においてそれぞれ1位を獲得し、三冠と称された（のちに前出の2賞を取り、最終的に五冠となった）。
+第6回[本格ミステリ大賞](../Page/本格ミステリ大賞.md "wikilink")、第134回[直木三十五賞](../Page/直木三十五賞.md "wikilink")受賞作。 また、国内の主要ミステリランキングである『[本格ミステリ・ベスト10](https://ja.wikipedia.org/wiki/本格ミステリ・ベスト10 "wikilink") 2006年版』『[このミステリーがすごい\!](../Page/このミステリーがすごい!.md "wikilink")2006』『2005年「[週刊文春](../Page/週刊文春.md "wikilink")」[ミステリベスト10](https://ja.wikipedia.org/wiki/週刊文春#推理小説ベスト10 "wikilink")』においてそれぞれ1位を獲得し、三冠と称された（のちに前出の2賞を取り、最終的に五冠となった）。
 
 2008年に日本版、2012年に韓国版、2017年に中国版としてそれぞれ映画化されているほか、舞台劇にもなっている。
 
@@ -20,12 +20,12 @@
 *湯川学、および捜査一課の登場人物については[ガリレオシリーズ\#登場人物](https://ja.wikipedia.org/wiki/ガリレオシリーズ#登場人物 "wikilink")を参照*
 
   - 石神哲哉
-    高校数学教師。丸顔で髪が薄く、老け顔である。湯川・草薙とは帝都大学の同期。花岡靖子と同じアパートで隣室に住んでいる。大学時代は「[ダルマ](https://ja.wikipedia.org/wiki/ダルマ "wikilink")の石神」の異名をとり、湯川に「天才」と言わしめるほどの才能の持ち主。数学の研究者になりたかったが家庭の事情により断念。数学の機微を理解できない高校生達に数学を教えるしかない人生に鬱屈していたが、最近ひそかに靖子に恋心を抱いている。
+    高校数学教師。丸顔で髪が薄く、老け顔である。湯川・草薙とは帝都大学の同期。花岡靖子と同じアパートで隣室に住んでいる。大学時代は「[ダルマ](../Page/ダルマ.md "wikilink")の石神」の異名をとり、湯川に「天才」と言わしめるほどの才能の持ち主。数学の研究者になりたかったが家庭の事情により断念。数学の機微を理解できない高校生達に数学を教えるしかない人生に鬱屈していたが、最近ひそかに靖子に恋心を抱いている。
     原作では元柔道部という設定があり、映画版では登山を趣味にしている設定がある。
   - 花岡靖子
     [赤坂でホステスをしていたが](../Page/赤坂_\(東京都港区\).md "wikilink")、転職し「べんてん亭」の従業員に（映画版では弁当屋「みさと」店長）。最初の結婚に失敗し、二度目の夫の富樫には離婚後も付きまとわれ住居を転々としていた。事件後、石神により窮地を脱するが、その難解な指図や自分への思いに戸惑いを隠せない。いつも美里を不幸に追い込んでしまうことを、申し訳なく思っている。工藤はホステス時代からの友人であった。
   - 花岡美里
-    靖子の最初の夫との一人娘で中学生。バドミントン部所属。従順な一面もあるが、富樫を銅製の花瓶（映画版では[スノーグローブ](https://ja.wikipedia.org/wiki/スノーグローブ "wikilink")）で殴打するなど芯の強い性格である。彼女が犯罪に関わってしまったため靖子は石神の計画に乗ってしまう。
+    靖子の最初の夫との一人娘で中学生。バドミントン部所属。従順な一面もあるが、富樫を銅製の花瓶（映画版では[スノーグローブ](../Page/スノーグローブ.md "wikilink")）で殴打するなど芯の強い性格である。彼女が犯罪に関わってしまったため靖子は石神の計画に乗ってしまう。
     石神の母への気持ちには気づいており、母と工藤の仲を快く思っていない。
   - 富樫慎二
     靖子の二度目の夫。そのため美里と血縁関係はない。元サラリーマンでその頃は紳士的であったが、会社の金を使い込んだことが原因で解雇された後は本性をあらわす（映画版ではこの辺りの事情は明らかにされていない）。仕事もせずに遊び歩き、妻子に暴力を振るっては金をむしり取り、ついに愛想を尽かされて離婚された。しかし今でも靖子には何かにつけ付きまとっており、再就職したことを口にしてやり直しを迫っていた（ただし仕事内容については不明で、本当に再就職したのかも不明）。
@@ -38,7 +38,7 @@
 
 ## 『容疑者Xの献身』をめぐる「本格」論争
 
-2005年末、『容疑者Xの献身』が「[本格ミステリ](https://ja.wikipedia.org/wiki/本格派推理小説 "wikilink")」として評価され、同年の『本格ミステリ・ベスト10』にて1位を獲得したことに、推理作家の[二階堂黎人](../Page/二階堂黎人.md "wikilink")が[自身のウェブサイト](http://homepage1.nifty.com/NIKAIDOU/)で疑問を呈した\[1\]ことに始まる問題。
+2005年末、『容疑者Xの献身』が「[本格ミステリ](../Page/本格派推理小説.md "wikilink")」として評価され、同年の『本格ミステリ・ベスト10』にて1位を獲得したことに、推理作家の[二階堂黎人](../Page/二階堂黎人.md "wikilink")が[自身のウェブサイト](http://homepage1.nifty.com/NIKAIDOU/)で疑問を呈した\[1\]ことに始まる問題。
 
 二階堂の主張は、「『容疑者Xの献身』は、作者が推理の手がかりを意図的に伏せて書いており、本格推理小説としての条件を完全には満たしていない（そのため、『本格ミステリ・ベスト10』の1位にふさわしくない）」というものであった。このことに関して二階堂のウェブサイトや『[ミステリマガジン](https://ja.wikipedia.org/wiki/ミステリマガジン "wikilink")』誌上などに多くの作家や評論家が意見を寄せたため、本格的な論争となった\[2\]。その過程で二階堂の説における矛盾や見当違いも指摘されたが、二階堂は自説を曲げなかった。
 
@@ -63,7 +63,7 @@
 
 [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")にとって『[ほんの5g](https://ja.wikipedia.org/wiki/ほんの5g "wikilink")』以来20年ぶりの本格的な映画出演になり、映画主演は初めてである。
 
-なお、2009年に死去した[伊藤隆大](https://ja.wikipedia.org/wiki/伊藤隆大 "wikilink")の最後の出演映画でもある。
+なお、2009年に死去した[伊藤隆大](../Page/伊藤隆大.md "wikilink")の最後の出演映画でもある。
 
 基本的なストーリーは原作に沿ったものとなっており、ドラマの劇場版という位置づけながらもドラマからのオリジナルキャラクターの出番が少なく、石神と花岡が話の軸となっている。湯川が数式を書いて推理を整理するシーンがないといったドラマのパターンを踏襲しない展開を見せている。また原作との相違点として湯川と石神が雪山に登り、その雪山で対峙するシーンが挿入されている。
 
@@ -78,34 +78,34 @@
   - 弓削志郎 - [品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")
   - 城ノ内桜子 - [真矢みき](https://ja.wikipedia.org/wiki/真矢ミキ "wikilink")
   - 工藤邦明 - [ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")
-  - 富樫慎二 - [長塚圭史](https://ja.wikipedia.org/wiki/長塚圭史 "wikilink")
+  - 富樫慎二 - [長塚圭史](../Page/長塚圭史.md "wikilink")
   - 花岡美里 - [金澤美穂](https://ja.wikipedia.org/wiki/金澤美穂 "wikilink")
-  - 村瀬健介 - [林剛史](https://ja.wikipedia.org/wiki/林剛史 "wikilink")
-  - 小淵沢隆史 - [福井博章](https://ja.wikipedia.org/wiki/福井博章 "wikilink")
-  - 森英太 - [伊藤隆大](https://ja.wikipedia.org/wiki/伊藤隆大 "wikilink")
+  - 村瀬健介 - [林剛史](../Page/林剛史.md "wikilink")
+  - 小淵沢隆史 - [福井博章](../Page/福井博章.md "wikilink")
+  - 森英太 - [伊藤隆大](../Page/伊藤隆大.md "wikilink")
   - 渡辺美雪 - [高山都](../Page/高山都.md "wikilink")
   - 谷口紗江子 - [葵](../Page/葵_\(女優\).md "wikilink")
   - 平原瑤子 - [小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
   - 「扇屋」の女将 - [福井裕子](https://ja.wikipedia.org/wiki/福井裕子 "wikilink")
-  - [ホームレス](../Page/ホームレス.md "wikilink") - [鈴木卓爾](https://ja.wikipedia.org/wiki/鈴木卓爾 "wikilink")
+  - [ホームレス](../Page/ホームレス.md "wikilink") - [鈴木卓爾](../Page/鈴木卓爾.md "wikilink")
   - 草野球の監督 - [リリー・フランキー](../Page/リリー・フランキー.md "wikilink")（友情出演）
   - 八木亜希子 - [八木亜希子](../Page/八木亜希子.md "wikilink")
   - 有薗文雄 - [石坂浩二](../Page/石坂浩二.md "wikilink")（特別出演）
-  - 葛城修二郎 - [益岡徹](https://ja.wikipedia.org/wiki/益岡徹 "wikilink")
-  - 柿本純一 - [林泰文](https://ja.wikipedia.org/wiki/林泰文 "wikilink")
+  - 葛城修二郎 - [益岡徹](../Page/益岡徹.md "wikilink")
+  - 柿本純一 - [林泰文](../Page/林泰文.md "wikilink")
   - 花岡靖子 - [松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")
   - 石神哲哉 - [堤真一](../Page/堤真一.md "wikilink")
-  - [青木一](../Page/青木一.md "wikilink")、[東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")、[三浦誠己](../Page/三浦誠己.md "wikilink")、[松本寛也](https://ja.wikipedia.org/wiki/松本寛也 "wikilink")、[栩原楽人](https://ja.wikipedia.org/wiki/栩原楽人 "wikilink")、[樋口浩二](https://ja.wikipedia.org/wiki/樋口浩二 "wikilink")、[森岡龍](../Page/森岡龍.md "wikilink")、[天田益男](https://ja.wikipedia.org/wiki/天田益男 "wikilink")、[ささの翔太](../Page/ささの翔太.md "wikilink")、[桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")　ほか
+  - [青木一](../Page/青木一.md "wikilink")、[東根作寿英](../Page/東根作寿英.md "wikilink")、[三浦誠己](../Page/三浦誠己.md "wikilink")、[松本寛也](../Page/松本寛也.md "wikilink")、[栩原楽人](../Page/栩原楽人.md "wikilink")、[樋口浩二](https://ja.wikipedia.org/wiki/樋口浩二 "wikilink")、[森岡龍](../Page/森岡龍.md "wikilink")、[天田益男](../Page/天田益男.md "wikilink")、[ささの翔太](../Page/ささの翔太.md "wikilink")、[桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")　ほか
 
 #### スタッフ（日本版）
 
-  - 監督 - [西谷弘](https://ja.wikipedia.org/wiki/西谷弘 "wikilink")
-  - 脚本 - [福田靖](https://ja.wikipedia.org/wiki/福田靖 "wikilink")
+  - 監督 - [西谷弘](../Page/西谷弘.md "wikilink")
+  - 脚本 - [福田靖](../Page/福田靖.md "wikilink")
   - 音楽 - 福山雅治、[菅野祐悟](../Page/菅野祐悟.md "wikilink")　
   - 製作 - [亀山千広](../Page/亀山千広.md "wikilink")
   - 企画 - [大多亮](../Page/大多亮.md "wikilink")　
-  - エグゼクティブプロデューサー - [清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")、[畠中達郎](https://ja.wikipedia.org/wiki/畠中達郎 "wikilink")、[細野義朗](https://ja.wikipedia.org/wiki/細野義朗 "wikilink")
-  - プロデュース - [鈴木吉弘](https://ja.wikipedia.org/wiki/鈴木吉弘 "wikilink")、[臼井裕詞](https://ja.wikipedia.org/wiki/臼井裕詞 "wikilink")
+  - エグゼクティブプロデューサー - [清水賢治](../Page/清水賢治.md "wikilink")、[畠中達郎](https://ja.wikipedia.org/wiki/畠中達郎 "wikilink")、[細野義朗](https://ja.wikipedia.org/wiki/細野義朗 "wikilink")
+  - プロデュース - [鈴木吉弘](../Page/鈴木吉弘.md "wikilink")、[臼井裕詞](../Page/臼井裕詞.md "wikilink")
   - プロデューサー - [牧野正](https://ja.wikipedia.org/wiki/牧野正 "wikilink")、[和田倉和利](https://ja.wikipedia.org/wiki/和田倉和利 "wikilink")
   - プロデューサー補 - [大西洋志](https://ja.wikipedia.org/wiki/大西洋志 "wikilink")、[菊地裕幸](https://ja.wikipedia.org/wiki/菊地裕幸 "wikilink")
   - 撮影 - [山本英夫](../Page/山本英夫_\(映画カメラマン\).md "wikilink")
@@ -124,12 +124,12 @@
 
 #### 楽曲
 
-  - 主題歌 - [KOH+](../Page/KOH+.md "wikilink")「[最愛](https://ja.wikipedia.org/wiki/最愛_\(KOH+の曲\) "wikilink")」（作詞・作曲:[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")/編曲:福山雅治、[井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")） （NAYUTAWAVE RECORDS）
+  - 主題歌 - [KOH+](../Page/KOH+.md "wikilink")「[最愛](https://ja.wikipedia.org/wiki/最愛_\(KOH+の曲\) "wikilink")」（作詞・作曲:[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")/編曲:福山雅治、[井上鑑](../Page/井上鑑.md "wikilink")） （NAYUTAWAVE RECORDS）
   - 劇中歌 - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「[99](https://ja.wikipedia.org/wiki/残響_\(福山雅治のアルバム\) "wikilink")」（作曲:福山雅治/編曲:福山雅治、井上鑑） （UNIVERSAL J）
 
 #### プロモーション
 
-本作品の宣伝として、公開直前の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月28日OA（9月22日収録）の[Talking F.M.で](https://ja.wikipedia.org/wiki/福山雅治_福のラジオ "wikilink")、制作の[フジテレビ及び](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS](../Page/フジネットワーク.md "wikilink")27局の[女子アナウンサー](../Page/日本のアナウンサー.md "wikilink")28人が、女子アナならぬ**助手アナ**として出演した。なお、助手アナは白衣を着用していた。
+本作品の宣伝として、公開直前の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月28日OA（9月22日収録）の[Talking F.M.で](../Page/福山雅治_福のラジオ.md "wikilink")、制作の[フジテレビ及び](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNS](../Page/フジネットワーク.md "wikilink")27局の[女子アナウンサー](../Page/日本のアナウンサー.md "wikilink")28人が、女子アナならぬ**助手アナ**として出演した。なお、助手アナは白衣を着用していた。
 
   - Blu-ray・DVD
 
@@ -194,16 +194,16 @@
 
 ## 舞台
 
-[2009年](../Page/2009年.md "wikilink")に[演劇集団キャラメルボックス](https://ja.wikipedia.org/wiki/演劇集団キャラメルボックス "wikilink")によって舞台化。脚本・演出を[成井豊](https://ja.wikipedia.org/wiki/成井豊 "wikilink")が手がけた。2009年4月18日から4月26日に[新神戸オリエンタル劇場](https://ja.wikipedia.org/wiki/新神戸オリエンタル劇場 "wikilink")で、同年4月30日から5月24日に[サンシャイン劇場](https://ja.wikipedia.org/wiki/サンシャイン劇場 "wikilink")で上演された。翌[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[成井豊](https://ja.wikipedia.org/wiki/成井豊 "wikilink")脚本のままで上海の現地製作会社が『嫌疑人X的献身』と言うタイトルで二週間上演した。
+[2009年](../Page/2009年.md "wikilink")に[演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")によって舞台化。脚本・演出を[成井豊](../Page/成井豊.md "wikilink")が手がけた。2009年4月18日から4月26日に[新神戸オリエンタル劇場](https://ja.wikipedia.org/wiki/新神戸オリエンタル劇場 "wikilink")で、同年4月30日から5月24日に[サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink")で上演された。翌[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[成井豊](../Page/成井豊.md "wikilink")脚本のままで上海の現地製作会社が『嫌疑人X的献身』と言うタイトルで二週間上演した。
 
-[2012年](../Page/2012年.md "wikilink")には同劇団で再演。5月12日から6月3日にサンシャイン劇場（東京・池袋公演）で、6月7日から6月12日にシアター・ドラマシティ（大阪公演）で、6月15・16日に[シアター1010](https://ja.wikipedia.org/wiki/シアター1010 "wikilink")（東京・北千住公演）で上演された。脚本は初演に引き続き成井豊が担当し、演出は成井豊と[真柴あずき](../Page/真柴あずき.md "wikilink")が手がけている\[7\]。
+[2012年](../Page/2012年.md "wikilink")には同劇団で再演。5月12日から6月3日にサンシャイン劇場（東京・池袋公演）で、6月7日から6月12日にシアター・ドラマシティ（大阪公演）で、6月15・16日に[シアター1010](../Page/シアター1010.md "wikilink")（東京・北千住公演）で上演された。脚本は初演に引き続き成井豊が担当し、演出は成井豊と[真柴あずき](../Page/真柴あずき.md "wikilink")が手がけている\[7\]。
 
 ### 出演
 
-  - 湯川学 - [岡田達也](https://ja.wikipedia.org/wiki/岡田達也 "wikilink")(2009年版・2012年版)
-  - 石神哲哉 - [西川浩幸](https://ja.wikipedia.org/wiki/西川浩幸 "wikilink")(2009年版)／[近江谷太朗](../Page/近江谷太朗.md "wikilink")\[8\](2012年版)
-  - 草薙俊平 - [斎藤歩](https://ja.wikipedia.org/wiki/斎藤歩 "wikilink")(2009年版)／[小林正寛](https://ja.wikipedia.org/wiki/小林正寛 "wikilink")(2012年版)
-  - 間宮刑事 - [川原和久](https://ja.wikipedia.org/wiki/川原和久 "wikilink")(2009年版・2012年版)
+  - 湯川学 - [岡田達也](../Page/岡田達也.md "wikilink")(2009年版・2012年版)
+  - 石神哲哉 - [西川浩幸](../Page/西川浩幸.md "wikilink")(2009年版)／[近江谷太朗](../Page/近江谷太朗.md "wikilink")\[8\](2012年版)
+  - 草薙俊平 - [斎藤歩](https://ja.wikipedia.org/wiki/斎藤歩 "wikilink")(2009年版)／[小林正寛](../Page/小林正寛.md "wikilink")(2012年版)
+  - 間宮刑事 - [川原和久](../Page/川原和久.md "wikilink")(2009年版・2012年版)
   - 花岡靖子 - [西牟田恵](../Page/西牟田恵.md "wikilink")(2009年版・2012年版)
   - 米沢小代子 - [大森美紀子](https://ja.wikipedia.org/wiki/大森美紀子 "wikilink")(2009年版)／[坂口理恵](https://ja.wikipedia.org/wiki/坂口理恵 "wikilink")(2012年版)
   - 金子芹香/山辺曜子 - [前田綾](https://ja.wikipedia.org/wiki/前田綾 "wikilink")(2009年版・2012年版)

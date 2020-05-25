@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[S級水雷艇](https://ja.wikipedia.org/wiki/S級水雷艇)から翻訳されています。
 
 
 <table>
@@ -28,7 +28,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/排水量" title="wikilink">排水量</a></p></td>
+<td><p><a href="../Page/排水量.md" title="wikilink">排水量</a></p></td>
 <td><p>290 t</p></td>
 <td><p>204 t</p></td>
 </tr>
@@ -83,7 +83,7 @@
 <td><p>2 門</p></td>
 </tr>
 <tr class="odd">
-<td><p>456 mm単装水上<a href="https://ja.wikipedia.org/wiki/魚雷発射管" title="wikilink">魚雷発射管</a></p></td>
+<td><p>456 mm単装水上<a href="../Page/魚雷発射管.md" title="wikilink">魚雷発射管</a></p></td>
 <td><p>2 基</p></td>
 <td><p>-</p></td>
 </tr>
@@ -125,7 +125,7 @@
 </tbody>
 </table>
 
-**S級水雷艇**([フィンランド語](../Page/フィンランド語.md "wikilink"):****)は、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")の[水雷艇](../Page/水雷艇.md "wikilink")()である。元は[ロシア帝国海軍](https://ja.wikipedia.org/wiki/ロシア帝国海軍 "wikilink")の水雷艇で、フィンランドが[ロシア帝国](../Page/ロシア帝国.md "wikilink")から独立を果たすことになった[ロシア革命](../Page/ロシア革命.md "wikilink")から[フィンランド内戦](https://ja.wikipedia.org/wiki/フィンランド内戦 "wikilink")にかけての動乱期に[フィンランド独立派によって捕獲され](../Page/フィンランド王国.md "wikilink")、その海軍へ編入された。
+**S級水雷艇**([フィンランド語](../Page/フィンランド語.md "wikilink"):****)は、[フィンランド](../Page/フィンランド.md "wikilink")の[水雷艇](../Page/水雷艇.md "wikilink")()である。元は[ロシア帝国海軍](https://ja.wikipedia.org/wiki/ロシア帝国海軍 "wikilink")の水雷艇で、フィンランドが[ロシア帝国](../Page/ロシア帝国.md "wikilink")から独立を果たすことになった[ロシア革命](../Page/ロシア革命.md "wikilink")から[フィンランド内戦](../Page/フィンランド内戦.md "wikilink")にかけての動乱期に[フィンランド独立派によって捕獲され](../Page/フィンランド王国.md "wikilink")、その海軍へ編入された。
 
 ## 概要
 
@@ -137,19 +137,19 @@
 
 ### ロシア革命と内戦
 
-[1917年](../Page/1917年.md "wikilink")秋に[ボリシェヴィキ](../Page/ボリシェヴィキ.md "wikilink")による[十月革命が発生すると](https://ja.wikipedia.org/wiki/10月革命_\(1917年\) "wikilink")、これを契機に旧帝国領内各国において[ソヴィエト・ロシアからの独立運動が一挙に本格化](https://ja.wikipedia.org/wiki/ロシア・ソビエト連邦社会主義共和国 "wikilink")、一般に[ロシア内戦](https://ja.wikipedia.org/wiki/ロシア内戦 "wikilink")と呼ばれる激しい戦闘状態が発生した。反対派の離反運動に対し、ボリシェヴィキは[赤軍](../Page/赤軍.md "wikilink")の軍事力と[プロパガンダ](../Page/プロパガンダ.md "wikilink")工作によって反対各派に対して優勢を占めた。しかし、その状況は反対各派がそれぞれ[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")など[中央同盟国](https://ja.wikipedia.org/wiki/中央同盟国 "wikilink")と連合したことにより一変し、[1918年](../Page/1918年.md "wikilink")春までにはボリシェヴィキ派は各地から放逐されるに至った。
+[1917年](../Page/1917年.md "wikilink")秋に[ボリシェヴィキ](../Page/ボリシェヴィキ.md "wikilink")による[十月革命が発生すると](https://ja.wikipedia.org/wiki/10月革命_\(1917年\) "wikilink")、これを契機に旧帝国領内各国において[ソヴィエト・ロシアからの独立運動が一挙に本格化](../Page/ロシア・ソビエト連邦社会主義共和国.md "wikilink")、一般に[ロシア内戦](../Page/ロシア内戦.md "wikilink")と呼ばれる激しい戦闘状態が発生した。反対派の離反運動に対し、ボリシェヴィキは[赤軍](../Page/赤軍.md "wikilink")の軍事力と[プロパガンダ](../Page/プロパガンダ.md "wikilink")工作によって反対各派に対して優勢を占めた。しかし、その状況は反対各派がそれぞれ[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")など[中央同盟国](../Page/中央同盟国.md "wikilink")と連合したことにより一変し、[1918年](../Page/1918年.md "wikilink")春までにはボリシェヴィキ派は各地から放逐されるに至った。
 
-フィンランドは、[ナポレオン戦争](../Page/ナポレオン戦争.md "wikilink")以来[ロシア皇帝が](../Page/ツァーリ.md "wikilink")[大公](https://ja.wikipedia.org/wiki/大公 "wikilink")を兼任する[フィンランド大公国](https://ja.wikipedia.org/wiki/フィンランド大公国 "wikilink")としてロシア帝国の一部に組み込まれていたが、ここでもやはりソヴィエト・ロシアからの独立運動が行われた。ボリシェヴィキに属する[フィンランド赤衛軍](https://ja.wikipedia.org/wiki/フィンランド赤衛軍 "wikilink")に対し反対派は[フィンランド白衛軍](https://ja.wikipedia.org/wiki/フィンランド白衛軍 "wikilink")を組織し、1918年1月には本格的な武力闘争を開始した。一方、[ドイツ帝国軍](https://ja.wikipedia.org/wiki/ドイツ帝国軍 "wikilink")は白衛軍に呼応してロシアの重要な軍港であった[ハンコ](../Page/ハンコ.md "wikilink")を制圧した。ソヴィエト・ロシアはドイツとの間に結んだ[ブレスト＝リトフスク条約](https://ja.wikipedia.org/wiki/ブレスト＝リトフスク条約 "wikilink")によりフィンランドからの軍隊撤退の義務を負うと同時に[フィンランド湾](../Page/フィンランド湾.md "wikilink")に停泊していた旧ロシア帝国[バルト艦隊所属艦艇をロシア本国へ引き揚げる権利を得た](https://ja.wikipedia.org/wiki/バルチック艦隊 "wikilink")。しかし、その一部は海面凍結の影響により湾より引き揚げることができなかった。それらの艦艇は、ソヴィエト・ロシア政府から[ソヴィエト・フィンランドへ譲渡されたが](https://ja.wikipedia.org/wiki/フィンランド・ソビエト社会主義労働者共和国 "wikilink")、最終的に内戦に勝利したフィンランド白衛軍とドイツ軍とにより捕獲された。
+フィンランドは、[ナポレオン戦争](../Page/ナポレオン戦争.md "wikilink")以来[ロシア皇帝が](../Page/ツァーリ.md "wikilink")[大公](../Page/大公.md "wikilink")を兼任する[フィンランド大公国](../Page/フィンランド大公国.md "wikilink")としてロシア帝国の一部に組み込まれていたが、ここでもやはりソヴィエト・ロシアからの独立運動が行われた。ボリシェヴィキに属する[フィンランド赤衛軍](https://ja.wikipedia.org/wiki/フィンランド赤衛軍 "wikilink")に対し反対派は[フィンランド白衛軍](https://ja.wikipedia.org/wiki/フィンランド白衛軍 "wikilink")を組織し、1918年1月には本格的な武力闘争を開始した。一方、[ドイツ帝国軍](https://ja.wikipedia.org/wiki/ドイツ帝国軍 "wikilink")は白衛軍に呼応してロシアの重要な軍港であった[ハンコ](../Page/ハンコ.md "wikilink")を制圧した。ソヴィエト・ロシアはドイツとの間に結んだ[ブレスト＝リトフスク条約](../Page/ブレスト＝リトフスク条約.md "wikilink")によりフィンランドからの軍隊撤退の義務を負うと同時に[フィンランド湾](../Page/フィンランド湾.md "wikilink")に停泊していた旧ロシア帝国[バルト艦隊所属艦艇をロシア本国へ引き揚げる権利を得た](../Page/バルチック艦隊.md "wikilink")。しかし、その一部は海面凍結の影響により湾より引き揚げることができなかった。それらの艦艇は、ソヴィエト・ロシア政府から[ソヴィエト・フィンランドへ譲渡されたが](https://ja.wikipedia.org/wiki/フィンランド・ソビエト社会主義労働者共和国 "wikilink")、最終的に内戦に勝利したフィンランド白衛軍とドイツ軍とにより捕獲された。
 
 ### フィンランド海軍での運用
 
 [200px](https://ja.wikipedia.org/wiki/ファイル:Torpedovene_S2_2.jpg "wikilink") [4月13日](../Page/4月13日.md "wikilink")になると、白衛軍はそれらの艦艇からフィンランド海軍を編成することを決定した。フィンランド海軍に編入されたソーコル級には、そのロシアでの艦級名に因んで「S1」から始まる艇名が与えた。そのため、これらはソコル級またはS級水雷艇と呼ばれるようになった。なお、同様にロシアから捕獲した[ツィクローン級水雷艇](https://ja.wikipedia.org/wiki/ツィクローン級水雷艇 "wikilink")も「[C級](https://ja.wikipedia.org/wiki/C級水雷艇 "wikilink")」としてフィンランド海軍に編入されている。
 
-S級水雷艇は、最終的にはおよそ7年にわたってフィンランド海軍で運用された。運用初年には、S級は[バルト海戦域に投入され](https://ja.wikipedia.org/wiki/バルト海の戦い_\(第一次世界大戦\) "wikilink")、ソヴィエト・ロシアの[赤色艦隊に対する](https://ja.wikipedia.org/wiki/赤色海軍 "wikilink")[イギリス艦隊の軍事作戦を支援した](../Page/イギリス海軍.md "wikilink")。
+S級水雷艇は、最終的にはおよそ7年にわたってフィンランド海軍で運用された。運用初年には、S級は[バルト海戦域に投入され](../Page/バルト海の戦い_\(第一次世界大戦\).md "wikilink")、ソヴィエト・ロシアの[赤色艦隊に対する](https://ja.wikipedia.org/wiki/赤色海軍 "wikilink")[イギリス艦隊の軍事作戦を支援した](../Page/イギリス海軍.md "wikilink")。
 
 [1920年](../Page/1920年.md "wikilink")にフィンランドとソヴィエト・ロシアとの間に[タルトゥ条約](../Page/タルトゥ条約.md "wikilink")が締結されると、S級はじめ旧ロシア帝国艦艇はロシアへ返還されることとなった。引渡しは[1922年](../Page/1922年.md "wikilink")に実施されることになったが、S級がすでに決定的なまでに旧式化していると判断したロシアはその内3 隻を受領せず、そのままフィンランドへ売却した。フィンランドはこれらの水雷艇を自国の海軍へ編入した。残る3 隻については、除籍・解体を前提にロシアへ帰航した。これら3 隻は、[1925年](../Page/1925年.md "wikilink")に[ソ連で解体された](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。
 
-フィンランド海軍に編入された3 隻については、その後も運用が継続された。しかし、[S2は](https://ja.wikipedia.org/wiki/S2_\(水雷艇\) "wikilink")[1925年](../Page/1925年.md "wikilink")に[暴風雨に起因する事故により沈没](https://ja.wikipedia.org/wiki/嵐 "wikilink")、翌[1926年](../Page/1926年.md "wikilink")に除籍となった。[S1は](https://ja.wikipedia.org/wiki/S1_\(水雷艇\) "wikilink")[1931年](../Page/1931年.md "wikilink")から[1932年](../Page/1932年.md "wikilink")にかけて[標的艦](https://ja.wikipedia.org/wiki/標的艦 "wikilink")に改修、訓練用に使用されたのち[1939年](../Page/1939年.md "wikilink")に退役した。[S5も同様に](https://ja.wikipedia.org/wiki/S5_\(水雷艇\) "wikilink")1939年で艦艇としての使命を終えたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")と[継続戦争](https://ja.wikipedia.org/wiki/継続戦争 "wikilink")の勃発により急遽水上砲台に改装され、来襲する[ソ連の航空機に対抗する防空砲台として](../Page/赤色空軍.md "wikilink")[1942年](../Page/1942年.md "wikilink")まで使用された。
+フィンランド海軍に編入された3 隻については、その後も運用が継続された。しかし、[S2は](https://ja.wikipedia.org/wiki/S2_\(水雷艇\) "wikilink")[1925年](../Page/1925年.md "wikilink")に[暴風雨に起因する事故により沈没](https://ja.wikipedia.org/wiki/嵐 "wikilink")、翌[1926年](../Page/1926年.md "wikilink")に除籍となった。[S1は](../Page/S1_\(水雷艇\).md "wikilink")[1931年](../Page/1931年.md "wikilink")から[1932年](../Page/1932年.md "wikilink")にかけて[標的艦](../Page/標的艦.md "wikilink")に改修、訓練用に使用されたのち[1939年](../Page/1939年.md "wikilink")に退役した。[S5も同様に](https://ja.wikipedia.org/wiki/S5_\(水雷艇\) "wikilink")1939年で艦艇としての使命を終えたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")と[継続戦争](../Page/継続戦争.md "wikilink")の勃発により急遽水上砲台に改装され、来襲する[ソ連の航空機に対抗する防空砲台として](../Page/赤色空軍.md "wikilink")[1942年](../Page/1942年.md "wikilink")まで使用された。
 
 ## 同型艇
 
@@ -171,7 +171,7 @@ S級水雷艇は、最終的にはおよそ7年にわたってフィンランド
 <tbody>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S1_(水雷艇)" title="wikilink">S1</a><br />
+<td><p><a href="../Page/S1_(水雷艇).md" title="wikilink">S1</a><br />
 <em></em></p></td>
 <td><p>リヤーヌイ<br />
 <em></em></p></td>
@@ -215,7 +215,7 @@ S級水雷艇は、最終的にはおよそ7年にわたってフィンランド
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S4_(水雷艇)" title="wikilink">S4</a><br />
+<td><p><a href="../Page/S4_(水雷艇).md" title="wikilink">S4</a><br />
 <em></em></p></td>
 <td><p>レーズヴイ<br />
 <em></em></p></td>
@@ -246,7 +246,7 @@ S級水雷艇は、最終的にはおよそ7年にわたってフィンランド
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S6_(水雷艇)" title="wikilink">S6</a><br />
+<td><p><a href="../Page/S6_(水雷艇).md" title="wikilink">S6</a><br />
 <em></em></p></td>
 <td><p>第212号通報艇[3]<br />
 <em></em></p></td>

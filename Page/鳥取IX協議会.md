@@ -1,4 +1,4 @@
-> この記事は[IX](https://ja.wikipedia.org/wiki/IX)から翻訳されています。
+> この記事は[鳥取IX協議会](https://ja.wikipedia.org/wiki/鳥取IX協議会)から翻訳されています。
 
 
 **鳥取IX協議会**（とっとりアイエックスきょうぎかい、略称：*ToRino-IX*（トリノ アイエックス））は、[鳥取県](../Page/鳥取県.md "wikilink")内の商用[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")（ISP）3事業者によって運営されている地域[インターネットエクスチェンジ](../Page/インターネットエクスチェンジ.md "wikilink")（IX）。

@@ -1,7 +1,7 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウィリアム・A・フレイカー](https://ja.wikipedia.org/wiki/ウィリアム・A・フレイカー)から翻訳されています。
 
 
-**ウィリアム・A・フレイカー**（William A. Fraker, [1923年](../Page/1923年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")出身の撮影監督・映画監督。[アカデミー撮影賞](https://ja.wikipedia.org/wiki/アカデミー撮影賞 "wikilink")に5度ノミネートされたが、受賞には至らなかった。撮影だけでなく何本かの映画・テレビを監督している。
+**ウィリアム・A・フレイカー**（William A. Fraker, [1923年](../Page/1923年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")出身の撮影監督・映画監督。[アカデミー撮影賞](../Page/アカデミー撮影賞.md "wikilink")に5度ノミネートされたが、受賞には至らなかった。撮影だけでなく何本かの映画・テレビを監督している。
 
 ## 主な作品
 
@@ -12,7 +12,7 @@
   - [女狐](https://ja.wikipedia.org/wiki/女狐_\(1967年の映画\) "wikilink") *The Fox* (1967)
   - [ローズマリーの赤ちゃん](../Page/ローズマリーの赤ちゃん.md "wikilink") *Rosemary's Baby* (1968)
   - [ブリット](../Page/ブリット.md "wikilink") *Bullitt* (1968)
-  - [ペンチャー・ワゴン](https://ja.wikipedia.org/wiki/ペンチャー・ワゴン "wikilink") *Paint Your Wagon* (1969)
+  - [ペンチャー・ワゴン](../Page/ペンチャー・ワゴン.md "wikilink") *Paint Your Wagon* (1969)
   - [イルカの日](https://ja.wikipedia.org/wiki/イルカの日 "wikilink") *The Day of the Dolphin* (1973)
   - [エクソシスト2](../Page/エクソシスト2.md "wikilink") *Exorcist II: The Heretic* (1977)
   - [ミスター・グッドバーを探して](../Page/ミスター・グッドバーを探して.md "wikilink") *Looking for Mr. Goodbar* (1977)　アカデミー撮影賞ノミネート
@@ -23,7 +23,7 @@
   - [ペーパー・ファミリー](https://ja.wikipedia.org/wiki/ペーパー・ファミリー "wikilink") *Irreconcilable Differences* (1984)
   - [マーフィのロマンス](https://ja.wikipedia.org/wiki/マーフィのロマンス "wikilink") *Murphy's Romance* (1985)　アカデミー撮影賞ノミネート
   - [スペースキャンプ](https://ja.wikipedia.org/wiki/スペースキャンプ_\(映画\) "wikilink") *SpaceCamp* (1986)
-  - [赤ちゃんはトップレディがお好き](https://ja.wikipedia.org/wiki/赤ちゃんはトップレディがお好き "wikilink") *Baby Boom* (1987)
+  - [赤ちゃんはトップレディがお好き](../Page/赤ちゃんはトップレディがお好き.md "wikilink") *Baby Boom* (1987)
   - [イノセントマン/仕組まれた罠](https://ja.wikipedia.org/wiki/イノセントマン/仕組まれた罠 "wikilink") *An Innocent Man* (1989)
   - [ドン・サバティーニ](https://ja.wikipedia.org/wiki/ドン・サバティーニ "wikilink") *The Freshman* (1990)
   - [透明人間](https://ja.wikipedia.org/wiki/透明人間_\(1992年の映画\) "wikilink") *Memoirs of an Invisible Man* (1992)

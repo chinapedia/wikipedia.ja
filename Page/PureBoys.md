@@ -1,7 +1,7 @@
 > この記事は[PureBoys](https://ja.wikipedia.org/wiki/PureBoys)から翻訳されています。
 
 
-（ピュアボーイズ）は、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に存在した若手[俳優](../Page/俳優.md "wikilink")[ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")。
+（ピュアボーイズ）は、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に存在した若手[俳優](../Page/俳優.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。
 
 旧表記は。CD作品は[インディーズ](../Page/インディーズ.md "wikilink")のジャパンミュージックシステム、DVD作品は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より発売された。
 
@@ -23,14 +23,14 @@
 
 ### 解散時のメンバー
 
-| 名前                                                              | 加入期 | 生年月日        | 所属事務所                                                           | 加入日             |
-| --------------------------------------------------------------- | --- | ----------- | --------------------------------------------------------------- | --------------- |
-| [南圭介](https://ja.wikipedia.org/wiki/南圭介 "wikilink")（みなみ けいすけ）   | 1期  | 1985年7月3日   | トレンド                                                            | 2007年6月15日（結成時） |
-| [八神蓮](../Page/八神蓮.md "wikilink")（やがみ れん）                        | 1期  | 1985年12月14日 | エムズプロデュース                                                       | 2007年6月15日（結成時） |
-| [佐藤雄一](../Page/佐藤雄一.md "wikilink")（さとう ゆういち）                    | 2期  | 1989年5月31日  | [BESIDE](https://ja.wikipedia.org/wiki/BESIDE "wikilink")       | 2007年12月28日     |
-| [永岡卓也](https://ja.wikipedia.org/wiki/永岡卓也 "wikilink")（ながおか たくや） | 3期  | 1985年5月31日  | [ヒラタオフィス](https://ja.wikipedia.org/wiki/ヒラタオフィス "wikilink")     | 2008年4月25日      |
-| [絲木建太](https://ja.wikipedia.org/wiki/絲木建太 "wikilink")（いとぎ けんた）  | 4期  | 1988年3月3日   | [プロダクション尾木](https://ja.wikipedia.org/wiki/プロダクション尾木 "wikilink") | 2008年9月12日      |
-| [安藤龍](https://ja.wikipedia.org/wiki/安藤龍 "wikilink")（あんどう りゅう）   | 5期  | 1987年7月21日  | [パール](https://ja.wikipedia.org/wiki/パール_\(芸能事務所\) "wikilink")   | 2009年7月25日      |
+| 名前                                                              | 加入期 | 生年月日        | 所属事務所                                                     | 加入日             |
+| --------------------------------------------------------------- | --- | ----------- | --------------------------------------------------------- | --------------- |
+| [南圭介](../Page/南圭介.md "wikilink")（みなみ けいすけ）                      | 1期  | 1985年7月3日   | トレンド                                                      | 2007年6月15日（結成時） |
+| [八神蓮](../Page/八神蓮.md "wikilink")（やがみ れん）                        | 1期  | 1985年12月14日 | エムズプロデュース                                                 | 2007年6月15日（結成時） |
+| [佐藤雄一](../Page/佐藤雄一.md "wikilink")（さとう ゆういち）                    | 2期  | 1989年5月31日  | [BESIDE](https://ja.wikipedia.org/wiki/BESIDE "wikilink") | 2007年12月28日     |
+| [永岡卓也](https://ja.wikipedia.org/wiki/永岡卓也 "wikilink")（ながおか たくや） | 3期  | 1985年5月31日  | [ヒラタオフィス](../Page/ヒラタオフィス.md "wikilink")                  | 2008年4月25日      |
+| [絲木建太](https://ja.wikipedia.org/wiki/絲木建太 "wikilink")（いとぎ けんた）  | 4期  | 1988年3月3日   | [プロダクション尾木](../Page/プロダクション尾木.md "wikilink")              | 2008年9月12日      |
+| [安藤龍](https://ja.wikipedia.org/wiki/安藤龍 "wikilink")（あんどう りゅう）   | 5期  | 1987年7月21日  | [パール](../Page/パール_\(芸能事務所\).md "wikilink")                | 2009年7月25日      |
 
 ### 元メンバー
 
@@ -47,11 +47,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/滝口幸広" title="wikilink">滝口幸広</a>（たきぐち ゆきひろ）</p></td>
+<td><p><a href="../Page/滝口幸広.md" title="wikilink">滝口幸広</a>（たきぐち ゆきひろ）</p></td>
 <td><p>1期</p></td>
 <td><p>1985年<br />
 5月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スターダストプロモーション" title="wikilink">スターダストプロモーション</a></p></td>
+<td><p><a href="../Page/スターダストプロモーション.md" title="wikilink">スターダストプロモーション</a></p></td>
 <td><p>2007年6月15日<br />
 （結成時）</p></td>
 <td><p>2008年<br />
@@ -69,18 +69,18 @@
 3月31日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/中山麻聖" title="wikilink">中山麻聖</a>（なかやま ませい）</p></td>
+<td><p><a href="../Page/中山麻聖.md" title="wikilink">中山麻聖</a>（なかやま ませい）</p></td>
 <td><p>1期</p></td>
 <td><p>1988年<br />
 12月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルーミングエージェンシー" title="wikilink">ブルーミングエージェンシー</a></p></td>
+<td><p><a href="../Page/ブルーミングエージェンシー.md" title="wikilink">ブルーミングエージェンシー</a></p></td>
 <td><p>2007年6月15日<br />
 （結成時）</p></td>
 <td><p>2008年<br />
 3月31日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/武田航平" title="wikilink">武田航平</a>（たけだ こうへい）</p></td>
+<td><p><a href="../Page/武田航平.md" title="wikilink">武田航平</a>（たけだ こうへい）</p></td>
 <td><p>1期</p></td>
 <td><p>1986年<br />
 1月14日</p></td>
@@ -102,7 +102,7 @@
 6月14日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/崎本大海" title="wikilink">崎本大海</a>（さきもと ひろみ）</p></td>
+<td><p><a href="../Page/崎本大海.md" title="wikilink">崎本大海</a>（さきもと ひろみ）</p></td>
 <td><p>2期</p></td>
 <td><p>1986年<br />
 8月23日</p></td>
@@ -112,11 +112,11 @@
 6月14日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦涼介" title="wikilink">三浦涼介</a>（みうら りょうすけ）</p></td>
+<td><p><a href="../Page/三浦涼介.md" title="wikilink">三浦涼介</a>（みうら りょうすけ）</p></td>
 <td><p>5期</p></td>
 <td><p>1987年<br />
 2月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ぱれっと_(芸能事務所)" title="wikilink">ぱれっと</a></p></td>
+<td><p><a href="../Page/ぱれっと_(芸能事務所).md" title="wikilink">ぱれっと</a></p></td>
 <td><p>2009年7月25日</p></td>
 <td><p>2011年<br />
 11月30日</p></td>
@@ -160,7 +160,7 @@
 
   - 8月、表記が『**PureBOYS**』から『**PureBoys**』へと変更された。
   - 8月6日、武田が卒業を発表\[14\]。
-  - 8月20日 - 27日、[青山円形劇場](https://ja.wikipedia.org/wiki/青山円形劇場 "wikilink")にて舞台『7Dummy's Blues.』上演。同公演をもって武田が卒業した\[15\]。
+  - 8月20日 - 27日、[青山円形劇場](../Page/青山円形劇場.md "wikilink")にて舞台『7Dummy's Blues.』上演。同公演をもって武田が卒業した\[15\]。
   - 9月12日、絲木建太が新メンバーとして加入\[16\]。
 
 <!-- end list -->
@@ -174,7 +174,7 @@
 [馬場](http://ameblo.jp/baba-toru/entry-10250710417.html)・ [崎本](http://ameblo.jp/sakimoto-hiromi/entry-10250960946.html)の2009年4月28日付ブログ記事より。</ref>。
 
   - 6月10日、3rdシングル「CAUTION」発売。
-  - 同日 - 14日、[サンシャイン劇場](https://ja.wikipedia.org/wiki/サンシャイン劇場 "wikilink")にて舞台『7 Color Candles』上演。この公演をもって馬場・崎本が卒業した\[17\]。
+  - 同日 - 14日、[サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink")にて舞台『7 Color Candles』上演。この公演をもって馬場・崎本が卒業した\[17\]。
   - 7月25日、三浦涼介・安藤龍が新メンバーとして加入\[18\]\[19\]。
   - 10月10日、[BSフジ](../Page/BSフジ.md "wikilink")で冠番組『PureBoys The Pure』が始まる。
   - 11月25日、4thシングル「ゼンカイダンス」発売。
@@ -213,14 +213,14 @@
 
 ### シングル
 
-1.  **乾杯ジュテーム** （2007年9月26日\[27\]、[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")31位）
+1.  **乾杯ジュテーム** （2007年9月26日\[27\]、[オリコン最高](../Page/オリコンチャート.md "wikilink")31位）
       -
         c/w [前略、道の上より](https://ja.wikipedia.org/wiki/前略、道の上より "wikilink") / [バンビーナ](https://ja.wikipedia.org/wiki/バンビーナ "wikilink") / [LOVE & JOY](https://ja.wikipedia.org/wiki/LOVE_&_JOY "wikilink")
           - メンバー：滝口・南・八神・武田・馬場・加藤・中山
 2.  **君の手/[サイケなハート](https://ja.wikipedia.org/wiki/忘れもの "wikilink")** （2008年6月25日、オリコン最高34位）
       -
         [両A面シングル](https://ja.wikipedia.org/wiki/A面/B面#両A面シングル・両B面シングル "wikilink")
-        「君の手」はフジテレビ系『[孝太郎が行く2](https://ja.wikipedia.org/wiki/孝太郎が行く2 "wikilink")』エンディングテーマ
+        「君の手」はフジテレビ系『[孝太郎が行く2](../Page/孝太郎が行く2.md "wikilink")』エンディングテーマ
           - メンバー：南・八神・武田・馬場・崎本・佐藤・永岡
 3.  **CAUTION** （2009年6月10日、オリコン最高86位）
       -
@@ -253,7 +253,7 @@
 
 ### 写真集
 
-  - PureBOYS（[ゴマブックス](https://ja.wikipedia.org/wiki/ゴマブックス "wikilink")、2007年11月16日） - ISBN 978-4-7771-0799-5。
+  - PureBOYS（[ゴマブックス](../Page/ゴマブックス.md "wikilink")、2007年11月16日） - ISBN 978-4-7771-0799-5。
   - Sunshine（アメーバブックス、2011年7月10日） - ISBN 978-4-3449-9178-1。
 
 ## 公演
@@ -263,16 +263,16 @@
 1.  **7Cheers\! 〜翔べ\!自分という大地から\!〜**
       -
         日程・会場：2007年10月3日 - 8日、[博品館劇場](../Page/博品館劇場.md "wikilink")
-        作：妹尾匡夫、演出：[三宅恵介](https://ja.wikipedia.org/wiki/三宅恵介 "wikilink")
+        作：妹尾匡夫、演出：[三宅恵介](../Page/三宅恵介.md "wikilink")
         出演：滝口・南・八神・武田・馬場・加藤・中山
 2.  **7Dummy's Blues.**
       -
-        日程・会場：2008年8月20日 - 27日、[青山円形劇場](https://ja.wikipedia.org/wiki/青山円形劇場 "wikilink")
+        日程・会場：2008年8月20日 - 27日、[青山円形劇場](../Page/青山円形劇場.md "wikilink")
         作・演出：[坪田塁](https://ja.wikipedia.org/wiki/坪田塁 "wikilink")
         出演：南・八神・武田・馬場・崎本・佐藤・永岡
 3.  **7 Colors Candles**
       -
-        日程・会場：2009年6月10日 - 14日、[サンシャイン劇場](https://ja.wikipedia.org/wiki/サンシャイン劇場 "wikilink")
+        日程・会場：2009年6月10日 - 14日、[サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink")
         作：堤泰之、演出：[岡本貴也](../Page/岡本貴也.md "wikilink")
         出演：南・八神・馬場・崎本・佐藤・永岡・絲木
 4.  **7Guys Gone 〜七つの心の忘れもの〜**
@@ -317,7 +317,7 @@
 ### ネット配信
 
   - 原宿アメスタ☆学園（2007年6月 - 2010年3月、[アメーバビジョン](../Page/AmebaVision.md "wikilink")）
-  - ENERGY PREMIUM 〜らぶらぼ〜（2007年12月 - 2008年3月、[EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")）
+  - ENERGY PREMIUM 〜らぶらぼ〜（2007年12月 - 2008年3月、[EZチャンネル](../Page/EZチャンネル.md "wikilink")）
   - PureSnap by PureBoys（2011年1月 - 2012年6月、[講談社](../Page/講談社.md "wikilink") web★一週間）
   - アメスタ学園（2011年8月 - 2012年10月、アメーバスタジオ）
 

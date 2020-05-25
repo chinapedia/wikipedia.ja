@@ -1,4 +1,4 @@
-> この記事は[CARNIVAL \(\)](https://ja.wikipedia.org/wiki/CARNIVAL_\(\))から翻訳されています。
+> この記事は[CARNIVAL \(ゲーム\)](https://ja.wikipedia.org/wiki/CARNIVAL_\(ゲーム\))から翻訳されています。
 
 
 『**CARNIVAL**』（カーニバル）は、[2004年](../Page/2004年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")にS.M.Lより発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")である。
@@ -13,9 +13,9 @@
 
 ## 概要
 
-第一部「CARNIVAL」編、第二部「MONTE-CRISTO」編、第三部「TRAUMEREI」編の全三部から構成されており、作品内では『[モンテ・クリスト伯](https://ja.wikipedia.org/wiki/モンテ・クリスト伯 "wikilink")』や『[金色夜叉](https://ja.wikipedia.org/wiki/金色夜叉 "wikilink")』等の[文学](../Page/文学.md "wikilink")作品等からの引用の他、[児童虐待](../Page/児童虐待.md "wikilink")、[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")、[殺人](../Page/殺人.md "wikilink")、[強姦](https://ja.wikipedia.org/wiki/強姦 "wikilink")等の要素が作品内で扱われている。
+第一部「CARNIVAL」編、第二部「MONTE-CRISTO」編、第三部「TRAUMEREI」編の全三部から構成されており、作品内では『[モンテ・クリスト伯](../Page/モンテ・クリスト伯.md "wikilink")』や『[金色夜叉](../Page/金色夜叉.md "wikilink")』等の[文学](../Page/文学.md "wikilink")作品等からの引用の他、[児童虐待](../Page/児童虐待.md "wikilink")、[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")、[殺人](../Page/殺人.md "wikilink")、[強姦](../Page/強姦.md "wikilink")等の要素が作品内で扱われている。
 
-オープニングムービーはアニメーターの[倉嶋丈康](https://ja.wikipedia.org/wiki/倉嶋丈康 "wikilink")が担当した。
+オープニングムービーはアニメーターの[倉嶋丈康](../Page/倉嶋丈康.md "wikilink")が担当した。
 
 [シナリオライターである](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")[瀬戸口廉也](../Page/瀬戸口廉也.md "wikilink")が初めて関わったアダルトゲーム作品である。
 
@@ -26,7 +26,7 @@
   - 木村 学（きむら まなぶ）
     物語開始時の主人公。
   - 武（たけし）
-    [声](../Page/声優.md "wikilink")：[氷河流](https://ja.wikipedia.org/wiki/氷河流_\(声優\) "wikilink")
+    [声](../Page/声優.md "wikilink")：[氷河流](../Page/氷河流_\(声優\).md "wikilink")
     学の友達（？）。
   - 九条 理紗（くじょう りさ）
     声：[ダイナマイト☆亜美](../Page/静木亜美.md "wikilink")
@@ -35,13 +35,13 @@
     声：[吉川華生](../Page/吉川華生.md "wikilink")
     学のクラスメイト。理紗とは中学以来の親友。
   - 志村 詠美（しむら えいみ）
-    声：[白井綾乃](https://ja.wikipedia.org/wiki/白井綾乃 "wikilink")
+    声：[白井綾乃](../Page/白井綾乃.md "wikilink")
     上級生。学校のマドンナ的存在だが、理紗の人気によりその地位を脅かされつつある。
   - 志村 麻里（しむら まり）
     声：[岩泉まい](../Page/岩泉まい.md "wikilink")
     詠美の妹。
   - 高杉 百恵（たかすぎ ももえ）
-    声：[伊藤瞳子](https://ja.wikipedia.org/wiki/真木碧 "wikilink")
+    声：[伊藤瞳子](../Page/真木碧.md "wikilink")
     婦人警官。
   - 九条 香織（くじょう かおり）
     声：[長崎みなみ](../Page/長崎みなみ.md "wikilink")
@@ -57,35 +57,35 @@
 
 ## スタッフ
 
-  - 原作・シナリオ監修 - [桑島由一](https://ja.wikipedia.org/wiki/桑島由一 "wikilink")
+  - 原作・シナリオ監修 - [桑島由一](../Page/桑島由一.md "wikilink")
   - シナリオ - [瀬戸口廉也](../Page/瀬戸口廉也.md "wikilink")
   - 原画 - 川原誠
   - 音楽 - [milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")
-  - プロモーションムービー - [Iris motion graphics](https://ja.wikipedia.org/wiki/Iris_motion_graphics "wikilink")
-  - オープニングムービー - [倉嶋丈康](https://ja.wikipedia.org/wiki/倉嶋丈康 "wikilink")
+  - プロモーションムービー - [Iris motion graphics](../Page/Iris_motion_graphics.md "wikilink")
+  - オープニングムービー - [倉嶋丈康](../Page/倉嶋丈康.md "wikilink")
 
 ## 主題歌
 
   - オープニング曲 「カーニバル」
       - 作詞 - 桑島由一
-      - 作曲 - [上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink")
-      - 編曲 - [藤田淳平](https://ja.wikipedia.org/wiki/藤田淳平 "wikilink")
+      - 作曲 - [上松範康](../Page/上松範康.md "wikilink")
+      - 編曲 - [藤田淳平](../Page/藤田淳平.md "wikilink")
       - 歌 - [NANA](../Page/NANA_\(歌手\).md "wikilink")
   - エンディング曲 「記憶」
       - 作詞 - 桑島由一
       - 作曲 - milktub
       - 編曲 - 藤田淳平
-      - 歌 - [YURIA](https://ja.wikipedia.org/wiki/YURIA "wikilink")
+      - 歌 - [YURIA](../Page/YURIA.md "wikilink")
 
 ## 関連項目
 
   - [児童虐待](../Page/児童虐待.md "wikilink")
   - [被虐待児症候群](https://ja.wikipedia.org/wiki/被虐待児症候群 "wikilink")
   - [精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")
-  - [解離性同一性障害](https://ja.wikipedia.org/wiki/解離性同一性障害 "wikilink")
-  - [金色夜叉](https://ja.wikipedia.org/wiki/金色夜叉 "wikilink")
-  - [モンテ・クリスト伯](https://ja.wikipedia.org/wiki/モンテ・クリスト伯 "wikilink")
-  - [子供の情景](https://ja.wikipedia.org/wiki/子供の情景 "wikilink")
+  - [解離性同一性障害](../Page/解離性同一性障害.md "wikilink")
+  - [金色夜叉](../Page/金色夜叉.md "wikilink")
+  - [モンテ・クリスト伯](../Page/モンテ・クリスト伯.md "wikilink")
+  - [子供の情景](../Page/子供の情景.md "wikilink")
 
 ## 外部リンク
 

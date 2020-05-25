@@ -9,27 +9,27 @@
 
 ## 各種文字コードとの対応
 
-1.  [JIS X 0201](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")　全文字を収録している。
-2.  [JIS X 0208](../Page/JIS_X_0208.md "wikilink")　全文字を収録している。ただし[字体](../Page/字体.md "wikilink")は[印刷標準字体に準じる](https://ja.wikipedia.org/wiki/国語国字問題#表外漢字字体表 "wikilink")。
-3.  [JIS X 0212](../Page/JIS_X_0212.md "wikilink")　全文字を収録している。
-4.  [JIS X 0213](../Page/JIS_X_0213.md "wikilink")　BMPに収録されているものはそのまま収録。それ以外のものは私用領域に収録。
+1.  [JIS X 0201](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")…全文字を収録している。
+2.  [JIS X 0208](../Page/JIS_X_0208.md "wikilink")…全文字を収録している。ただし[字体](../Page/字体.md "wikilink")は[印刷標準字体に準じる](https://ja.wikipedia.org/wiki/国語国字問題#表外漢字字体表 "wikilink")。
+3.  [JIS X 0212](../Page/JIS_X_0212.md "wikilink")…全文字を収録している。
+4.  [JIS X 0213](../Page/JIS_X_0213.md "wikilink")…BMPに収録されているものはそのまま収録。それ以外のものは私用領域に収録。
 5.  [ラテ欄](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")記号や縦書き専用文字、[連数字](https://ja.wikipedia.org/wiki/連数字 "wikilink")などの独自文字を私用領域に収録している。符号化方式にはUTF-16が使われているため、BMPの範囲内においてはUnicodeと互換性がある。
 6.  上記にないUCSの一部非漢字
 
 ## フォント
 
-対応[フォント](../Page/フォント.md "wikilink")は[イワタ](../Page/イワタ.md "wikilink")などから発売されている。また入力用の[IME](https://ja.wikipedia.org/wiki/IME "wikilink")として[ジャストシステム](../Page/ジャストシステム.md "wikilink")より[ATOK](../Page/ATOK.md "wikilink")の「for U-PRESS」バージョンが開発・販売されている。また、[Adobe-Japan1-6でU](../Page/CID_\(文字コード\).md "wikilink")-PRESSの独自文字が追加されている。
+対応[フォント](../Page/フォント.md "wikilink")は[イワタ](../Page/イワタ.md "wikilink")などから発売されている。また入力用の[IME](https://ja.wikipedia.org/wiki/IME "wikilink")として[ジャストシステム](../Page/ジャストシステム.md "wikilink")より[ATOK](../Page/ATOK.md "wikilink")の「for U-PRESS」バージョンが開発・販売されている。また、[Adobe-Japan1](../Page/Adobe-Japan1.md "wikilink")-6でU-PRESSの独自文字が追加されている。
 
 ## 問題点
 
-[JIS X 0213](../Page/JIS_X_0213.md "wikilink"):2004制定前に策定された、あくまで私的な規格であり、[サロゲートペア（代用対）に対応していないなどUnicodeとの互換性も不完全であるため](https://ja.wikipedia.org/wiki/Unicode#サロゲートペア "wikilink")、今後、既存コードとの衝突を起こす可能性も危惧される。
+[JIS X 0213](../Page/JIS_X_0213.md "wikilink"):2004制定前に策定されたあくまで私的な規格であり、[サロゲートペア（代用対）に対応していないなどUnicodeとの互換性も不完全であるため](https://ja.wikipedia.org/wiki/Unicode#サロゲートペア "wikilink")、今後、既存コードとの衝突を起こす可能性も危惧される。
 
 ## 関連項目
 
   - [共同通信社](../Page/共同通信社.md "wikilink")
   - [K-JIS](https://ja.wikipedia.org/wiki/K-JIS "wikilink")
   - [イワタU-PRESS](https://ja.wikipedia.org/wiki/イワタU-PRESS "wikilink") [1](https://www.iwatafont.co.jp/press/upress.html) - U-PRESS標準文字（15,269文字）にイワタ拡張文字[2](https://www.iwatafont.co.jp/press/kakucyo.html)（848文字）を追加したフォント
-  - [CID (文字コード)](../Page/CID_\(文字コード\).md "wikilink")
+  - [Adobe-Japan1](../Page/Adobe-Japan1.md "wikilink")
   - [JIS X 4051](../Page/JIS_X_4051.md "wikilink")
   - [番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")（新聞などに掲載される番組表）
   - [外字](../Page/外字.md "wikilink")（U-PRESS外字）

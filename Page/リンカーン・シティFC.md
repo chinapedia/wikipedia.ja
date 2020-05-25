@@ -1,13 +1,13 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[リンカーン・シティFC](https://ja.wikipedia.org/wiki/リンカーン・シティFC)から翻訳されています。
 
 
-**リンカーン・シティ・フットボール・クラブ**（**Lincoln City Football Club**）はイングランド、[リンカーンシャー州](https://ja.wikipedia.org/wiki/リンカンシャー州 "wikilink")、[リンカーンを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/リンカン_\(イングランド\) "wikilink")。2019-2020シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属している。
+**リンカーン・シティ・フットボール・クラブ**（**Lincoln City Football Club**）はイングランド、[リンカーンシャー州](https://ja.wikipedia.org/wiki/リンカンシャー州 "wikilink")、[リンカーンを本拠地とするサッカークラブチームである](../Page/リンカン_\(イングランド\).md "wikilink")。2019-2020シーズンは[EFLリーグ1](../Page/EFLリーグ1.md "wikilink")（3部相当）に所属している。
 
 ## クラブ各種記録
 
 **最高順位**
 
-  - 5位 フットボールリーグ・セカンドディヴィジョン 1901-1902
+  - 5位 フットボールリーグ・セカンドディヴィジョン 1901-02
 
 **1試合最多観客動員数**
 
@@ -37,7 +37,7 @@
       - 1931-32, 1947-48, 1951-52
   - フットボールリーグ・サードディヴィジョン：1回
       - 1975-76
-  - [リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink") : 1回
+  - [リーグ2](../Page/EFLリーグ2.md "wikilink") : 1回
       - 2018-19
   - カンファレンス･ナショナル：2回
       - 1987-88, 2016-17
@@ -79,7 +79,7 @@
 </tr>
 <tr class="even">
 <td><p>2004–05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ2" title="wikilink">フットボールリーグ2</a></p></td>
+<td><p><a href="../Page/EFLリーグ2.md" title="wikilink">フットボールリーグ2</a></p></td>
 <td><p>46</p></td>
 <td><p>20</p></td>
 <td><p>12</p></td>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ1" title="wikilink">フットボールリーグ1</a></p></td>
+<td><p><a href="../Page/EFLリーグ1.md" title="wikilink">フットボールリーグ1</a></p></td>
 <td><p>46</p></td>
 <td></td>
 <td></td>
@@ -421,6 +421,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニー・カウリー" title="wikilink">ダニー・カウリー</a></p></td>
 <td></td>
 <td><p>2016年5月12日</p></td>
+<td><p>2019年9月9日</p></td>
+<td><p>176</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・アップルトン" title="wikilink">マイケル・アップルトン</a></p></td>
+<td></td>
+<td><p>2019年9月23日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -428,6 +435,8 @@
 </table>
 
 ## 歴代所属選手
+
+## 脚注
 
 ## 外部リンク
 

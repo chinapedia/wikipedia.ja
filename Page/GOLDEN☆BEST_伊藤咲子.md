@@ -1,13 +1,13 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 伊藤咲子](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_伊藤咲子)から翻訳されています。
 
 
-『**GOLDEN☆BEST 伊藤咲子**』（ゴールデン・ベスト いとうさきこ）は、[伊藤咲子](https://ja.wikipedia.org/wiki/伊藤咲子 "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")発売。発売元は東芝EMI（現・[ユニバーサル ミュージックLLC](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")・USMジャパン）。各[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")から発売されている『[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")』シリーズの中の1枚としてリリースされた廉価盤のベストアルバムで、今作で一部のシングルB面曲が初[CD化された](../Page/コンパクトディスク.md "wikilink")。
+『**GOLDEN☆BEST 伊藤咲子**』（ゴールデン・ベスト いとうさきこ）は、[伊藤咲子](../Page/伊藤咲子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")発売。発売元は東芝EMI（現・[ユニバーサル ミュージックLLC](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")・USMジャパン）。各[レコード会社](../Page/レコード会社.md "wikilink")から発売されている『[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")』シリーズの中の1枚としてリリースされた廉価盤のベストアルバムで、今作で一部のシングルB面曲が初[CD化された](../Page/コンパクトディスク.md "wikilink")。
 
 ## 収録曲
 
 1.  **[ひまわり娘](https://ja.wikipedia.org/wiki/ひまわり娘_\(曲\) "wikilink")**
       -
-        作詞:[阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")　作曲:[シュキ・レヴィ](https://ja.wikipedia.org/wiki/シュキ・レヴィ "wikilink")　編曲:ケン・ギブソン
+        作詞:[阿久悠](../Page/阿久悠.md "wikilink")　作曲:[シュキ・レヴィ](../Page/シュキ・レヴィ.md "wikilink")　編曲:ケン・ギブソン
     <!-- end list -->
       - デビューシングルの表題曲。
 2.  **夢みる頃**
@@ -22,7 +22,7 @@
       - 2枚目のシングルのカップリング曲。
 4.  **[木枯しの二人](https://ja.wikipedia.org/wiki/木枯しの二人 "wikilink")**
       -
-        作詞:阿久悠　作曲・編曲:[三木たかし](https://ja.wikipedia.org/wiki/三木たかし "wikilink")
+        作詞:阿久悠　作曲・編曲:[三木たかし](../Page/三木たかし.md "wikilink")
     <!-- end list -->
       - 3枚目のシングルの表題曲で、自身最大のヒットシングルとなっている。
 5.  **赤ちゃんみたいな女の子**
@@ -40,12 +40,12 @@
         作詞:阿久悠　作曲・編曲:三木たかし
     <!-- end list -->
       - 4枚目のシングルのカップリング曲。
-8.  **[乙女のワルツ](https://ja.wikipedia.org/wiki/乙女のワルツ "wikilink")**
+8.  **[乙女のワルツ](../Page/乙女のワルツ.md "wikilink")**
       -
         作詞:阿久悠　作曲・編曲:三木たかし
     <!-- end list -->
       - 5枚目のシングルの表題曲。
-      - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が2002年にカヴァーした（『[-ZEROalbum- 歌姫2](https://ja.wikipedia.org/wiki/-ZEROalbum-_歌姫2 "wikilink")』に収録）。　
+      - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")が2002年にカヴァーした（『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』に収録）。　
 9.  **紅い花**
       -
         作詞:阿久悠　作曲・編曲:三木たかし
@@ -61,7 +61,7 @@
         作詞:阿久悠　作曲・編曲:三木たかし
     <!-- end list -->
       - 7枚目のシングルの表題曲。
-      - 同曲で『[第27回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第27回NHK紅白歌合戦 "wikilink")』に初出場を果たした。
+      - 同曲で『[第27回NHK紅白歌合戦](../Page/第27回NHK紅白歌合戦.md "wikilink")』に初出場を果たした。
 12. **いい娘に逢ったらドキッ**
       -
         作詞:阿久悠　作曲・編曲:三木たかし
@@ -100,11 +100,11 @@
 
 ## 関連項目
 
-  - [スター誕生\!](https://ja.wikipedia.org/wiki/スター誕生! "wikilink")
-  - [1974年の音楽](https://ja.wikipedia.org/wiki/1974年の音楽 "wikilink")　\#1・2・3・4・5
-  - [1975年の音楽](https://ja.wikipedia.org/wiki/1975年の音楽 "wikilink")　\#6・7・8・9・10
-  - [1976年の音楽](https://ja.wikipedia.org/wiki/1976年の音楽 "wikilink")　\#11・12
-  - [1977年の音楽](https://ja.wikipedia.org/wiki/1977年の音楽 "wikilink")　\#13・14・15・16
-  - [1978年の音楽](https://ja.wikipedia.org/wiki/1978年の音楽 "wikilink")　\#17・18
+  - [スター誕生\!](../Page/スター誕生!.md "wikilink")
+  - [1974年の音楽](../Page/1974年の音楽.md "wikilink")　\#1・2・3・4・5
+  - [1975年の音楽](../Page/1975年の音楽.md "wikilink")　\#6・7・8・9・10
+  - [1976年の音楽](../Page/1976年の音楽.md "wikilink")　\#11・12
+  - [1977年の音楽](../Page/1977年の音楽.md "wikilink")　\#13・14・15・16
+  - [1978年の音楽](../Page/1978年の音楽.md "wikilink")　\#17・18
 
 [Category:2002年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のベスト・アルバム "wikilink") [Category:GOLDEN☆BEST](https://ja.wikipedia.org/wiki/Category:GOLDEN☆BEST "wikilink") [Category:EMIミュージック・ジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアルバム "wikilink")

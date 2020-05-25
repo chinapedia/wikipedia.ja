@@ -1,11 +1,11 @@
-> この記事は[CAGE FORCE EX -eastern bound- \(200711\)](https://ja.wikipedia.org/wiki/CAGE_FORCE_EX_-eastern_bound-_\(200711\))から翻訳されています。
+> この記事は[CAGE FORCE EX -eastern bound- \(2007年11月\)](https://ja.wikipedia.org/wiki/CAGE_FORCE_EX_-eastern_bound-_\(2007年11月\))から翻訳されています。
 
 
-**CAGE FORCE EX -eastern bound-**（ケージ・フォース・イーエックス イースタン・バウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[CAGE FORCE](../Page/CAGE_FORCE.md "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[有明の](../Page/有明_\(江東区\).md "wikilink")[ディファ有明](https://ja.wikipedia.org/wiki/ディファ有明 "wikilink")で開催された。
+**CAGE FORCE EX -eastern bound-**（ケージ・フォース・イーエックス イースタン・バウンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[CAGE FORCE](../Page/CAGE_FORCE.md "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[有明の](../Page/有明_\(江東区\).md "wikilink")[ディファ有明](../Page/ディファ有明.md "wikilink")で開催された。
 
 ## 大会概要
 
-メインイベントで行われたCAGE FORCEライト級王座決定トーナメント準決勝では、[HERO'S](https://ja.wikipedia.org/wiki/HERO'S "wikilink")で[アンドレ・ジダ](../Page/アンドレ・ジダ.md "wikilink")にTKO負けを喫した[アルトゥール・ウマハノフ](../Page/アルトゥール・ウマハノフ.md "wikilink")と[鹿又智成](https://ja.wikipedia.org/wiki/鹿又智成 "wikilink")が対戦し、アクシデントによる鹿又の負傷でウマハノフが決勝進出した。
+メインイベントで行われたCAGE FORCEライト級王座決定トーナメント準決勝では、[HERO'S](../Page/HERO'S.md "wikilink")で[アンドレ・ジダ](../Page/アンドレ・ジダ.md "wikilink")にTKO負けを喫した[アルトゥール・ウマハノフ](../Page/アルトゥール・ウマハノフ.md "wikilink")と[鹿又智成](https://ja.wikipedia.org/wiki/鹿又智成 "wikilink")が対戦し、アクシデントによる鹿又の負傷でウマハノフが決勝進出した。
 
 ## 試合結果
 
@@ -39,7 +39,7 @@
     ○  [児山佳宏](https://ja.wikipedia.org/wiki/児山佳宏 "wikilink") vs.  [金原泰義](https://ja.wikipedia.org/wiki/金原泰義 "wikilink") ×
     3R終了 判定3-0
   - 第8試合 ウェルター級 5分3R
-    ○  [中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎 "wikilink") vs.  花井岳文 ×
+    ○  [中村K太郎](../Page/中村K太郎.md "wikilink") vs.  花井岳文 ×
     1R 1:59 KO（右膝蹴り）
   - 第9試合 ライト級王座決定トーナメント 準決勝 5分3R
     ○  [アルトゥール・ウマハノフ](../Page/アルトゥール・ウマハノフ.md "wikilink") vs.  [鹿又智成](https://ja.wikipedia.org/wiki/鹿又智成 "wikilink") ×

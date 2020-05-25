@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-東中国](https://ja.wikipedia.org/wiki/NTT西日本-東中国)から翻訳されています。
 
 
 **NTT西日本-東中国**（エヌティティにしにほん-ひがしちゅうごく）は、かつて[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")に本社を置き、電気通信設備関係や工事関係などで主に[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink")を管轄していた、[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本）の子会社。

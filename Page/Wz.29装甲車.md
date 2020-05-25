@@ -1,13 +1,13 @@
-> この記事は[Wz.29](https://ja.wikipedia.org/wiki/Wz.29)から翻訳されています。
+> この記事は[Wz.29装甲車](https://ja.wikipedia.org/wiki/Wz.29装甲車)から翻訳されています。
 
 
-**wz.29装甲車**(Samochód pancerny wz. 29、29年式装甲車）は、戦間期に[ポーランド](../Page/ポーランド.md "wikilink")で製作された[4輪装甲車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。生産台数は少なく旧式ではあったが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初頭、[1939年](../Page/1939年.md "wikilink")の[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")による[ポーランド侵攻](https://ja.wikipedia.org/wiki/ポーランド侵攻 "wikilink")当時、[wz.34装甲車](https://ja.wikipedia.org/wiki/wz.34装甲車 "wikilink")とともにポーランド軍[装甲車](../Page/装甲車.md "wikilink")部隊の装備車として防衛戦に参加した。
+**wz.29装甲車**(Samochód pancerny wz. 29、29年式装甲車）は、戦間期に[ポーランド](../Page/ポーランド.md "wikilink")で製作された[4輪装甲車である](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")。生産台数は少なく旧式ではあったが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初頭、[1939年](../Page/1939年.md "wikilink")の[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")による[ポーランド侵攻](../Page/ポーランド侵攻.md "wikilink")当時、[wz.34装甲車](https://ja.wikipedia.org/wiki/wz.34装甲車 "wikilink")とともにポーランド軍[装甲車](../Page/装甲車.md "wikilink")部隊の装備車として防衛戦に参加した。
 
 ## 開発と生産
 
-ポーランド軍は1928年、[半装軌車](https://ja.wikipedia.org/wiki/半装軌車 "wikilink")式のwz.28装甲車を制式化、その配備を進めたが、性能的には満足のいくものではなかった。そのため、新たな装甲車が開発されることになった。
+ポーランド軍は1928年、[半装軌車](../Page/半装軌車.md "wikilink")式のwz.28装甲車を制式化、その配備を進めたが、性能的には満足のいくものではなかった。そのため、新たな装甲車が開発されることになった。
 
-新型装甲車は、軍の研究所の技師、[ルドルフ・グンドラフ](https://ja.wikipedia.org/wiki/ルドルフ・グンドラフ "wikilink")[中尉](../Page/中尉.md "wikilink")が中心となって開発された。シャーシには、[ワルシャワ](../Page/ワルシャワ.md "wikilink")のウルスス製作所で作られていた、イタリア製[SPA](https://ja.wikipedia.org/wiki/w:en:SPA_\(automobile\) "wikilink") 25/Cトラックのライセンス生産型、ウルススA型トラックのものを強化して使い、これに砲塔付きの装甲ボディが載せられた。軟鉄製の試作車両による試験の後、1929年11月、この車両はwz.29装甲車として採用され、[CWS社において生産が行われた](https://ja.wikipedia.org/wiki/w:en:Centralne_Warsztaty_Samochodowe "wikilink")。
+新型装甲車は、軍の研究所の技師、[ルドルフ・グンドラフ](../Page/ルドルフ・グンドラフ.md "wikilink")[中尉](../Page/中尉.md "wikilink")が中心となって開発された。シャーシには、[ワルシャワ](../Page/ワルシャワ.md "wikilink")のウルスス製作所で作られていた、イタリア製[SPA](https://ja.wikipedia.org/wiki/w:en:SPA_\(automobile\) "wikilink") 25/Cトラックのライセンス生産型、ウルススA型トラックのものを強化して使い、これに砲塔付きの装甲ボディが載せられた。軟鉄製の試作車両による試験の後、1929年11月、この車両はwz.29装甲車として採用され、[CWS社において生産が行われた](https://ja.wikipedia.org/wiki/w:en:Centralne_Warsztaty_Samochodowe "wikilink")。
 
 武装は砲塔に[ピュトー37mm半自動砲SA-18と](https://ja.wikipedia.org/wiki/ピュトーSA18 "wikilink")[オチキス7.92mm機関銃wz.25を](../Page/ホッチキス_Mle1914重機関銃.md "wikilink")2丁、車体後部にもオチキス7.92mm機関銃wz.25を1丁装備していた。ただし、砲塔の2つの銃架のうち対空用に斜め上に付けられたものは効果的ではなく、後にここの機銃は装備されなくなった。
 

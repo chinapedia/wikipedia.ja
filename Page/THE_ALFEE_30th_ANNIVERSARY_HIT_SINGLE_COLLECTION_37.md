@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作には、THE ALFEEの[シングル](../Page/シングル.md "wikilink")のうち、2004年までに発売された[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位以内に入った全シングル（「[メリーアン](../Page/メリーアン_\(曲\).md "wikilink")」以降の全シングル）タイトル曲が収録されている。全収録曲の3分の2以上は、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")時代のもので、このうち21曲（「[霧のソフィア](../Page/霧のソフィア.md "wikilink")」と[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて発売された全シングル）はポニーキャニオンのオリジナル音源を[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")の上で使用している。また[東芝EMI移籍後の音源については](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、前年にベストアルバム『[THE BEST 1997-2002 〜aprés Nouvelle Vague〜](../Page/THE_BEST_1997-2002_〜aprés_Nouvelle_Vague〜.md "wikilink")』が発売されていたこともあって、「[太陽は沈まない](../Page/太陽は沈まない_\(曲\).md "wikilink")」とベストアルバム未収録の2曲のみオリジナル音源が収録された。限定版にはDVDが付いた。
+本作には、THE ALFEEの[シングル](../Page/シングル.md "wikilink")のうち、2004年までに発売された[オリコンチャート](../Page/オリコンチャート.md "wikilink")10位以内に入った全シングル（「[メリーアン](../Page/メリーアン_\(曲\).md "wikilink")」以降の全シングル）タイトル曲が収録されている。全収録曲の3分の2以上は、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")時代のもので、このうち21曲（「[霧のソフィア](../Page/霧のソフィア.md "wikilink")」と[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて発売された全シングル）はポニーキャニオンのオリジナル音源を[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")の上で使用している。また[東芝EMI移籍後の音源については](../Page/EMIミュージック・ジャパン.md "wikilink")、前年にベストアルバム『[THE BEST 1997-2002 〜aprés Nouvelle Vague〜](../Page/THE_BEST_1997-2002_〜aprés_Nouvelle_Vague〜.md "wikilink")』が発売されていたこともあって、「[太陽は沈まない](../Page/太陽は沈まない_\(曲\).md "wikilink")」とベストアルバム未収録の2曲のみオリジナル音源が収録された。限定版にはDVDが付いた。
 
 ジャケットは[池田理代子](../Page/池田理代子.md "wikilink")によってメンバーのイラストが描かれている。
 
@@ -13,13 +13,13 @@
 
 ## 収録曲
 
-  - ★は再録、☆は[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")バージョン
+  - ★は再録、☆は[リミックス](../Page/リミックス.md "wikilink")バージョン
 
 ### DISC 1
 
 1.  **[メリーアン](../Page/メリーアン_\(曲\).md "wikilink")**★
       -
-        イントロには[せせらぎ](https://ja.wikipedia.org/wiki/せせらぎ "wikilink")と鐘の音を追加。間奏部のアレンジは[ALFEE'S LAWのバージョンに準じたものとなっている](https://ja.wikipedia.org/wiki/ALFEE'S_LAW "wikilink")。
+        イントロには[せせらぎ](https://ja.wikipedia.org/wiki/せせらぎ "wikilink")と鐘の音を追加。間奏部のアレンジは[ALFEE'S LAWのバージョンに準じたものとなっている](../Page/ALFEE'S_LAW.md "wikilink")。
 2.  **[星空のディスタンス](../Page/星空のディスタンス.md "wikilink")**★
 3.  **[STARSHIP -光を求めて-](../Page/STARSHIP_-光を求めて-.md "wikilink")**★
 4.  **[恋人達のペイヴメント](../Page/恋人達のペイヴメント.md "wikilink")**★

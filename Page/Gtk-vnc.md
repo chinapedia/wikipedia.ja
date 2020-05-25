@@ -1,7 +1,7 @@
 > この記事は[Gtk-vnc](https://ja.wikipedia.org/wiki/Gtk-vnc)から翻訳されています。
 
 
-**gtk-vnc**とは、[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")を用いた[VNC](https://ja.wikipedia.org/wiki/Virtual_Network_Computing "wikilink") Viewerライブラリを提供する[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトで、 VNC用の共通[APIを提供する](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。 このライブラリを使うことにより、VNC viewerを数十行程度で実装することが出来る。
+**gtk-vnc**とは、[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")を用いた[VNC](../Page/Virtual_Network_Computing.md "wikilink") Viewerライブラリを提供する[オープンソース](../Page/オープンソース.md "wikilink")プロジェクトで、 VNC用の共通[APIを提供する](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。 このライブラリを使うことにより、VNC viewerを数十行程度で実装することが出来る。
 
 また、通常のVNCの認証プロトコルに加えて、 IPv6のサポートや、 VeNCrypt拡張によるTLS/SSLによる暗号化通信がサポートされている。
 
@@ -49,7 +49,7 @@ RFBプロトコルは、3.3, 3.7, そして3.8をサポートしている。
 
 ## ソフトウェア構成
 
-ソフトウェアの構成は、大まかに言って、3つに分かれている。一つは、examples/gvncviewer.cであり、VNC viewerのメインルーチンである。次は、GTK-VNC widgetとなるsrc/vncdisplay.cである。最後は、vnc_coroutine()@src/vncdisplay.cから呼び出されるsrc/gvnc.cというVNCのネットワーク通信プロトコル層である。このvnc_coroueine()は、メインとは別スレッド([コルーチン](https://ja.wikipedia.org/wiki/コルーチン "wikilink"))として稼働している。 また、ソフトウェア規模は、1万行程度であり、比較的小さい。
+ソフトウェアの構成は、大まかに言って、3つに分かれている。一つは、examples/gvncviewer.cであり、VNC viewerのメインルーチンである。次は、GTK-VNC widgetとなるsrc/vncdisplay.cである。最後は、vnc_coroutine()@src/vncdisplay.cから呼び出されるsrc/gvnc.cというVNCのネットワーク通信プロトコル層である。このvnc_coroueine()は、メインとは別スレッド([コルーチン](../Page/コルーチン.md "wikilink"))として稼働している。 また、ソフトウェア規模は、1万行程度であり、比較的小さい。
 
 動作は、2つのスレッドが、交互に動く形になっている。1つは、グラフィックインターフェースのメインスレッドであり、もう1つはネットワーク通信のvnc_coroutine()である。 vnc_coroutine()は、coroutine_yieldでCPUを離し、メインスレッドにCPUを譲る。そして、I/O割り込みが上がったり、メインスレッドの処理が一段落しCPUが空くなどのある一定条件を満たすと、coroutine_yieldto()が実行され、メインスレッドからCPUを奪う過程を繰り返す。
 

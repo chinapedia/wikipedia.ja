@@ -1,4 +1,4 @@
-> この記事は[BSI \(\)](https://ja.wikipedia.org/wiki/BSI_\(\))から翻訳されています。
+> この記事は[BSI \(ドイツ\)](https://ja.wikipedia.org/wiki/BSI_\(ドイツ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Bonn_BSI.jpg "wikilink") **BSI**（Bundesamt für Sicherheit in der Informationstechnik）は、[ドイツ連邦政府](https://ja.wikipedia.org/wiki/ドイツ連邦政府 "wikilink")において[コンピュータ](../Page/コンピュータ.md "wikilink")と通信のセキュリティ担当部門である。 [英語](../Page/英語.md "wikilink")では Federal Office for Information Security と呼ばれており、これは[ドイツ語](../Page/ドイツ語.md "wikilink")名の直訳である。 [日本語](../Page/日本語.md "wikilink")では[情報セキュリティ](https://ja.wikipedia.org/wiki/情報セキュリティ "wikilink")庁\[1\]（室\[2\]）, 連邦電子情報保安局\[3\]\[4\], 連邦情報技術安全局\[5\]（庁\[6\]）等々、様々に呼ばれている。

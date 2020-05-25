@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[クルー・アレクサンドラFC](https://ja.wikipedia.org/wiki/クルー・アレクサンドラFC)から翻訳されています。
 
 
 **クルー・アレクサンドラ・フットボール・クラブ**（**Crewe Alexandra Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[チェシャー州](https://ja.wikipedia.org/wiki/チェシャー州 "wikilink")・[クルーを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/クルー_\(イングランド\) "wikilink")。2019-2020シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
@@ -112,9 +112,9 @@
 
   - [ニール・レノン](https://ja.wikipedia.org/wiki/ニール・レノン "wikilink") 1990-1996
 
-  - [ダニー・マーフィー](https://ja.wikipedia.org/wiki/ダニー・マーフィー "wikilink") 1993-1997, 1998-1999
+  - [ダニー・マーフィー](../Page/ダニー・マーフィー.md "wikilink") 1993-1997, 1998-1999
 
-  - [ロビー・サヴェージ](https://ja.wikipedia.org/wiki/ロビー・サヴェージ "wikilink") 1994-1997
+  - [ロビー・サヴェージ](../Page/ロビー・サヴェージ.md "wikilink") 1994-1997
 
   - [セス・ジョンソン](https://ja.wikipedia.org/wiki/セス・ジョンソン "wikilink") 1996-1999
 
@@ -128,7 +128,7 @@
 
   - [スタン・ボウルズ](https://ja.wikipedia.org/wiki/スタン・ボウルズ "wikilink") 1970-1971
 
-  - [ディーン・アシュトン](https://ja.wikipedia.org/wiki/ディーン・アシュトン "wikilink") 2000-2005
+  - [ディーン・アシュトン](../Page/ディーン・アシュトン.md "wikilink") 2000-2005
 
   - [ルーク・ヴァーニー](https://ja.wikipedia.org/wiki/ルーク・ヴァーニー "wikilink") 2003-2007
 

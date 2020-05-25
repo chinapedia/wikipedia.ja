@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブロムリーFC](https://ja.wikipedia.org/wiki/ブロムリーFC)から翻訳されています。
 
 
 **ブロムリー・フットボール・クラブ**（**Bromley Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")・[ブロムリーを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/ブロムリー・ロンドン特別区 "wikilink")。2017-2018シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。

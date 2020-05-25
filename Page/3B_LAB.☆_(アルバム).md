@@ -1,7 +1,7 @@
-> この記事は[3B LAB. \(\)](https://ja.wikipedia.org/wiki/3B_LAB._\(\))から翻訳されています。
+> この記事は[3B LAB.☆ \(アルバム\)](https://ja.wikipedia.org/wiki/3B_LAB.☆_\(アルバム\))から翻訳されています。
 
 
-「**3B LAB.☆**」（スリービーラボ）は、[3B LAB.☆の](https://ja.wikipedia.org/wiki/3B_LAB.☆S "wikilink")[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+「**3B LAB.☆**」（スリービーラボ）は、[3B LAB.☆の](../Page/3B_LAB.☆S.md "wikilink")[ミニアルバム](../Page/コンパクト盤.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 概要
 
@@ -20,13 +20,13 @@
         歌詞は遠距離恋愛のことが書かれている。
 4.  愛の歌
       -
-        [岡平健治](https://ja.wikipedia.org/wiki/岡平健治 "wikilink")が両親の結婚記念日に作った曲。
+        [岡平健治](../Page/岡平健治.md "wikilink")が両親の結婚記念日に作った曲。
 5.  喜怒哀楽
 6.  THE 3rd GRADE
       -
         歌詞の内容は実話である。
 7.  星と僕と君のうた
       -
-        もともと[19解散直前にラジオ内にて作られた曲である](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")。
+        もともと[19解散直前にラジオ内にて作られた曲である](../Page/19_\(音楽グループ\).md "wikilink")。
 
 [Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:2002年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2002年のミニ・アルバム "wikilink") [Category:3B_LAB.☆Sのアルバム](https://ja.wikipedia.org/wiki/Category:3B_LAB.☆Sのアルバム "wikilink")

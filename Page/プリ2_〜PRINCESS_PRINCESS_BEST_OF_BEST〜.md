@@ -1,4 +1,4 @@
-> この記事は[2 PRINCESS PRINCESS BEST OF BEST](https://ja.wikipedia.org/wiki/2_PRINCESS_PRINCESS_BEST_OF_BEST)から翻訳されています。
+> この記事は[プリ2 〜PRINCESS PRINCESS BEST OF BEST〜](https://ja.wikipedia.org/wiki/プリ2_〜PRINCESS_PRINCESS_BEST_OF_BEST〜)から翻訳されています。
 
 
 『**プリ2 〜PRINCESS PRINCESS BEST OF BEST〜**』（プリプリ プリンセス プリンセス ベスト オブ ベスト）は、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。解散10周年記念として作成された。人気「着うた」上位14曲を収録。「[14プリンセス 〜PRINCESS PRINCESS CHILDREN〜](../Page/14プリンセス_〜PRINCESS_PRINCESS_CHILDREN〜.md "wikilink")」と同時発売で同曲目。ジャケットは[やまだないと](../Page/やまだないと.md "wikilink")による描き下ろし。
@@ -57,6 +57,6 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/VA/Compilation/SECL-351/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Compilation/discography/SECL-351)
 
 [Category:プリンセス_プリンセスのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのベスト・アルバム "wikilink") [Category:2006年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のベスト・アルバム "wikilink") [Category:エスエムイーレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

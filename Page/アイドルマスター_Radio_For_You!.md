@@ -1,16 +1,16 @@
-> この記事は[ Radio For You!](https://ja.wikipedia.org/wiki/_Radio_For_You!)から翻訳されています。
+> この記事は[アイドルマスター Radio For You!](https://ja.wikipedia.org/wiki/アイドルマスター_Radio_For_You!)から翻訳されています。
 
 
-『**アイドルマスター Radio For You\!**』（アイドルマスター ラジオ フォー ユー）は、ゲーム『[THE IDOLM@STER LIVE FOR YOU\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。先に終了した『[ラジオdeアイマSHOW\!](https://ja.wikipedia.org/wiki/ラジオdeアイマSHOW! "wikilink")』の後番組として、2007年11月28日より、毎週水曜日に[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。略称は**R4U**。後番組として、『[P.S.プロデューサー](https://ja.wikipedia.org/wiki/アイドルマスター_P.S.プロデューサー "wikilink")』が配信されている。
+『**アイドルマスター Radio For You\!**』（アイドルマスター ラジオ フォー ユー）は、ゲーム『[THE IDOLM@STER LIVE FOR YOU\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。先に終了した『[ラジオdeアイマSHOW\!](../Page/ラジオdeアイマSHOW!.md "wikilink")』の後番組として、2007年11月28日より、毎週水曜日に[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。略称は**R4U**。後番組として、『[P.S.プロデューサー](https://ja.wikipedia.org/wiki/アイドルマスター_P.S.プロデューサー "wikilink")』が配信されている。
 
 ## 概要
 
-  - 放送開始に先立ち、2007年11月15日に予告編が、11月22日には第0回が配信された。この第0回の中で、コーナーの呼称をライブに合わせて「ナンバー（、即ち曲目の意。）」とすることと、各ナンバーの内容の紹介、さらに、いわゆる「天の声」の担当が『ラジオdeアイマSHOW\!』での[社長](https://ja.wikipedia.org/wiki/THE_IDOLM@STERの登場人物#高木_順一朗（たかぎ_じゅんいちろう） "wikilink")（声：[徳丸完](https://ja.wikipedia.org/wiki/徳丸完 "wikilink")）から[音無小鳥](https://ja.wikipedia.org/wiki/THE_IDOLM@STERの登場人物#音無_小鳥（おとなし_ことり） "wikilink")（声：[滝田樹里](../Page/滝田樹里.md "wikilink")）に交替することが発表された。
+  - 放送開始に先立ち、2007年11月15日に予告編が、11月22日には第0回が配信された。この第0回の中で、コーナーの呼称をライブに合わせて「ナンバー（、即ち曲目の意。）」とすることと、各ナンバーの内容の紹介、さらに、いわゆる「天の声」の担当が『ラジオdeアイマSHOW\!』での[社長](https://ja.wikipedia.org/wiki/THE_IDOLM@STERの登場人物#高木_順一朗（たかぎ_じゅんいちろう） "wikilink")（声：[徳丸完](../Page/徳丸完.md "wikilink")）から[音無小鳥](https://ja.wikipedia.org/wiki/THE_IDOLM@STERの登場人物#音無_小鳥（おとなし_ことり） "wikilink")（声：[滝田樹里](../Page/滝田樹里.md "wikilink")）に交替することが発表された。
   - この番組内では、『ラジオdeアイマSHOW\!』とは異なり、リスナーのことを普通にリスナーと呼んでいるが、番組冒頭の音無小鳥によるナレーションやホームページ上でのリスナーへの呼びかけでは、「特別プロデューサー」の名称が使われている。
 
 ## パーソナリティ
 
-パーソナリティは『ラジオdeアイマSHOW\!』第2、3期より引き続き、[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")（天海春香 役）、[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")（如月千早 役）、[仁後真耶子](https://ja.wikipedia.org/wiki/仁後真耶子 "wikilink")（高槻やよい 役）の3人。
+パーソナリティは『ラジオdeアイマSHOW\!』第2、3期より引き続き、[中村繪里子](https://ja.wikipedia.org/wiki/中村繪里子 "wikilink")（天海春香 役）、[今井麻美](../Page/今井麻美.md "wikilink")（如月千早 役）、[仁後真耶子](../Page/仁後真耶子.md "wikilink")（高槻やよい 役）の3人。
 
 ### you-i
 
@@ -105,7 +105,7 @@ you-i（ユーイ）とは、パーソナリティの中村、今井、仁後の
 
 ## ゲスト
 
-  - [長谷川明子](https://ja.wikipedia.org/wiki/長谷川明子 "wikilink")（星井美希 役：第43回）
+  - [長谷川明子](../Page/長谷川明子.md "wikilink")（星井美希 役：第43回）
       - 最終回である第43回に出演し、後番組で中村繪里子と共にパーソナリティを務めることを発表した。
 
 ## マスコットキャラクター
@@ -122,7 +122,7 @@ you-i（ユーイ）とは、パーソナリティの中村、今井、仁後の
 ## CD
 
   - DJCD アイドルマスター Radio For You\! Vol.0
-    2008年1月17日、[アニメイト](https://ja.wikipedia.org/wiki/アニメイト "wikilink")限定発売。[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")（双海亜美・真美 役）をゲストに招いて新規録音した番組を収録。2007年12月29日から31日に開催されたコミックマーケット73の、フロンティアワークスブースにて先行販売された。
+    2008年1月17日、[アニメイト](../Page/アニメイト.md "wikilink")限定発売。[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")（双海亜美・真美 役）をゲストに招いて新規録音した番組を収録。2007年12月29日から31日に開催されたコミックマーケット73の、フロンティアワークスブースにて先行販売された。
   - DJCD アイドルマスター Radio For You\! Vol.1
     2008年4月23日発売。新規録り下ろし番組に加え、「FO(U)R」「アナタのヒトコト」「SHINING STAR★彡」を収録。オリコンチャート週間101位。
   - DJCD SP アイドルマスター Radio For You\! 結納〜you-i know〜
@@ -137,7 +137,7 @@ you-i（ユーイ）とは、パーソナリティの中村、今井、仁後の
 ## 公開録音
 
   - 「結納〜you-i know〜」
-    2008年2月23日、[吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺 "wikilink")[前進座劇場にて開催された](https://ja.wikipedia.org/wiki/前進座#前進座劇場 "wikilink")。ゲストは[平田宏美](https://ja.wikipedia.org/wiki/平田宏美 "wikilink")（菊地真 役）、[若林直美](https://ja.wikipedia.org/wiki/若林直美 "wikilink")（秋月律子 役）、さらに坂上プロデューサーも登場した。
+    2008年2月23日、[吉祥寺](../Page/吉祥寺.md "wikilink")[前進座劇場にて開催された](https://ja.wikipedia.org/wiki/前進座#前進座劇場 "wikilink")。ゲストは[平田宏美](../Page/平田宏美.md "wikilink")（菊地真 役）、[若林直美](../Page/若林直美.md "wikilink")（秋月律子 役）、さらに坂上プロデューサーも登場した。
   - 「Radio For 結（you-i）」
     2008年9月28日、吉祥寺前進座劇場にて昼と夕方の2部構成で開催された。昼公演は前回と同じく坂上プロデューサーが、夕方公演には石原ディレクターがそれぞれ登場した。パーソナリティの3人は番組で獲得したリアルダウンロードコンテンツを実際に身に着けて披露した。
 

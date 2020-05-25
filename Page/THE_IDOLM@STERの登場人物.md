@@ -5,7 +5,7 @@
 
 ## 765（ナムコ）プロダクション所属アイドル
 
-[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")の名前は[ゲーム](../Page/ゲーム.md "wikilink")内での本名であり、デビュー時にプレイヤーが別途ユニット名を決定し活動に関しては芸名を使うことになるが、[レッスン](https://ja.wikipedia.org/wiki/レッスン "wikilink")や[コミュニケーション](../Page/コミュニケーション.md "wikilink")時などメンバーとの会話では引き続き本名で呼ぶことになる。年齢と性格は特別オーディション「歌姫楽園」の参加条件に関係している。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:765_Production_logo.svg "wikilink") [アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")の名前は[ゲーム](../Page/ゲーム.md "wikilink")内での本名であり、デビュー時にプレイヤーが別途ユニット名を決定し活動に関しては芸名を使うことになるが、[レッスン](https://ja.wikipedia.org/wiki/レッスン "wikilink")や[コミュニケーション](../Page/コミュニケーション.md "wikilink")時などメンバーとの会話では引き続き本名で呼ぶことになる。年齢と性格は特別オーディション「歌姫楽園」の参加条件に関係している。
 
 イメージカラーも設定されており、ゲーム中では各キャラクターの私服やトレーニングウェア、Xbox 360版では一部のEXTEND衣装にも反映されているほか、[オーディション](../Page/オーディション.md "wikilink")参加者一覧のシルエットの背景色としても使用されている。アーケード版のセンターモニターでの[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")表示にも適用されている。
 

@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCロートヴァイス・オーバーハウゼン](https://ja.wikipedia.org/wiki/SCロートヴァイス・オーバーハウゼン)から翻訳されています。
 
 
 **SCロート＝ヴァイス・オーバーハウゼン**（SC Rot-Weiß Oberhausen）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[オーバーハウゼン](https://ja.wikipedia.org/wiki/オーバーハウゼン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

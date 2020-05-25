@@ -1,4 +1,4 @@
-> この記事は[ZARD Request Best beautiful memory](https://ja.wikipedia.org/wiki/ZARD_Request_Best_beautiful_memory)から翻訳されています。
+> この記事は[ZARD Request Best 〜beautiful memory〜](https://ja.wikipedia.org/wiki/ZARD_Request_Best_〜beautiful_memory〜)から翻訳されています。
 
 
 『**ZARD Request Best 〜beautiful memory〜**』（ザード・リクエスト・ベスト・ビューティフル・メモリー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。『[Golden Best 〜15th Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink")』に続き、2作目の2枚組ベスト・アルバムとなる。CDコードはJBCJ-9027〜28。
@@ -201,40 +201,40 @@
 
 [公式サイトのニュース](https://web.archive.org/web/20080113060021/http://wezard.net/news.html)\[6\]で紹介された順位。
 
-  - 1位　：あの微笑みを忘れないで
-  - 2位　：少女の頃に戻ったみたいに
-  - 3位　：かけがえのないもの
-  - 4位　：永遠
-  - 5位　：グロリアス マインド
-  - 6位　：心を開いて
-  - 7位　：負けないで
-  - 8位　：揺れる想い
-  - 9位　：君とのふれあい
-  - 10位 ：君がいない
-  - 11位 ：雨に濡れて
-  - 12位 ：君に逢いたくなったら…
-  - 13位 ：マイ フレンド
-  - 14位 ：不思議ね…
-  - 15位 ：息もできない
-  - 16位 ：新しいドア〜冬のひまわり〜
-  - 17位 ：Don't you see\!
-  - 18位 ：淡い雪がとけて
-  - 19位 ：hero
-  - 20位 ：フォトグラフ
-  - 21位 ：Love is Gone
-  - 22位 ：Ready，Go\!
-  - 23位 ：Season
-  - 24位 ：二人の夏
-  - 25位 ：ハイヒール脱ぎ捨てて
-  - 26位 ：Forever you
-  - 27位 ：突然
-  - 28位 ：時間の翼
-  - 29位 ：明日もし君が壊れても
-  - 30位 ：こんなに愛しても
+  - 1位　：あの微笑みを忘れないで（3rd アルバム「[HOLD ME](../Page/HOLD_ME.md "wikilink")」収録）
+  - 2位　：少女の頃に戻ったみたいに（25th シングル「[運命のルーレット廻して](../Page/運命のルーレット廻して.md "wikilink")」c/w）
+  - 3位　：かけがえのないもの（38th シングル）
+  - 4位　：永遠（22nd シングル）
+  - 5位　：グロリアス マインド（43rd シングル）
+  - 6位　：心を開いて（18th シングル）
+  - 7位　：負けないで（6th シングル）
+  - 8位　：揺れる想い（8th シングル）
+  - 9位　：君とのふれあい（11th アルバム「[君とのDistance](../Page/君とのDistance.md "wikilink")」収録）
+  - 10位 ：君がいない（7th シングル）
+  - 11位 ：雨に濡れて（6th アルバム「[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")」収録　※原曲は「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」c/w）
+  - 12位 ：君に逢いたくなったら…（20th シングル）
+  - 13位 ：マイ フレンド（17th シングル）
+  - 14位 ：不思議ね…（2nd シングル）
+  - 15位 ：息もできない（24th シングル）
+  - 16位 ：新しいドア〜冬のひまわり〜（26th シングル）
+  - 17位 ：Don't you see\!（19th シングル）
+  - 18位 ：淡い雪がとけて（39th シングル「[今日はゆっくり話そう](../Page/今日はゆっくり話そう.md "wikilink")」c/w）
+  - 19位 ：hero（9th アルバム「[時間の翼](../Page/時間の翼.md "wikilink")」収録）
+  - 20位 ：フォトグラフ（8th アルバム「[永遠](../Page/永遠_\(ZARDのアルバム\).md "wikilink")」収録）
+  - 21位 ：Love is Gone（23rd シングル「[My Baby Grand 〜ぬくもりが欲しくて〜](../Page/My_Baby_Grand_〜ぬくもりが欲しくて〜.md "wikilink")」c/w）
+  - 22位 ：Ready，Go\!（14th シングル「[Just believe in love](../Page/Just_believe_in_love.md "wikilink")」c/w）
+  - 23位 ：Season（4th アルバム「[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")」収録）
+  - 24位 ：二人の夏（4th アルバム「[揺れる想い](../Page/揺れる想い_\(アルバム\).md "wikilink")」収録）
+  - 25位 ：ハイヒール脱ぎ捨てて（6th アルバム「[Forever you](../Page/Forever_you_\(アルバム\).md "wikilink")」収録）
+  - 26位 ：Forever you（6th アルバム「[Forever you](../Page/Forever_you_\(アルバム\).md "wikilink")」収録）
+  - 27位 ：突然（7th アルバム「[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")」収録）
+  - 28位 ：時間の翼（10th アルバム「[止まっていた時計が今動き出した](../Page/止まっていた時計が今動き出した.md "wikilink")」収録 ※未完成版は9th アルバム「[時間の翼](../Page/時間の翼.md "wikilink")」収録）
+  - 29位 ：明日もし君が壊れても（9th アルバム「[時間の翼](../Page/時間の翼.md "wikilink")」収録）
+  - 30位 ：こんなに愛しても（3rd シングル「[もう探さない](../Page/もう探さない.md "wikilink")」c/w）
 
 -----
 
-  - 31位 ：[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink") （16thシングル）
+  - 31位 ：[サヨナラは今もこの胸に居ます](../Page/サヨナラは今もこの胸に居ます.md "wikilink") （16th シングル）
 
 ## 脚注
 

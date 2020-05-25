@@ -1,7 +1,7 @@
-> この記事は[QG](https://ja.wikipedia.org/wiki/QG)から翻訳されています。
+> この記事は[日産・QGエンジン](https://ja.wikipedia.org/wiki/日産・QGエンジン)から翻訳されています。
 
 
-**QGエンジン**は、従来の[GA型エンジンに替わり](https://ja.wikipedia.org/wiki/日産・GAエンジン "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が生産していた直列4気筒[DOHC](../Page/DOHC.md "wikilink")ガソリン[エンジン](../Page/エンジン.md "wikilink")\[1\]。インジェクション仕様と直噴仕様とCNG仕様があった。大半の車種は[HRエンジン](../Page/日産・HRエンジン.md "wikilink")、[MRエンジン](../Page/日産・MRエンジン.md "wikilink")、[CRエンジンに移行した](../Page/日産・CRエンジン.md "wikilink")。
+**QGエンジン**は、従来の[GA型エンジンに替わり](../Page/日産・GAエンジン.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで[日産自動車](../Page/日産自動車.md "wikilink")が生産していた直列4気筒[DOHC](../Page/DOHC.md "wikilink")ガソリン[エンジン](../Page/エンジン.md "wikilink")\[1\]。インジェクション仕様と直噴仕様とCNG仕様があった。大半の車種は[HRエンジン](../Page/日産・HRエンジン.md "wikilink")、[MRエンジン](../Page/日産・MRエンジン.md "wikilink")、[CRエンジンに移行した](../Page/日産・CRエンジン.md "wikilink")。
 
 ## バリエーション
 
@@ -80,19 +80,19 @@
       - AD（Y11）2002年8月～08年12月
       - ウイングロード（Y11）2002年11月～05年11月
   - QG15DE(詳細不明)
-      - [ルノーサムスン・SM3](https://ja.wikipedia.org/wiki/ルノーサムスン・SM3 "wikilink")(N17)
+      - [ルノーサムスン・SM3](../Page/ルノーサムスン・SM3.md "wikilink")(N17)
 
 **QG16**
 
   - QG16DE(詳細不明)
-      - [ルノーサムスン・SM3](https://ja.wikipedia.org/wiki/ルノーサムスン・SM3 "wikilink")(N17)
+      - [ルノーサムスン・SM3](../Page/ルノーサムスン・SM3.md "wikilink")(N17)
 
 **QG18**
 
   - QG18DE（1-1）
       - [アベニール](../Page/日産・アベニール.md "wikilink")（W11）1998年8月～2002年8月
       - [プリメーラ](../Page/日産・プリメーラ.md "wikilink")（P11）1998年9月～2000年12月
-      - [ブルーバード](https://ja.wikipedia.org/wiki/日産・ブルーバード "wikilink")（U14）1998年9月～2001年9月
+      - [ブルーバード](../Page/日産・ブルーバード.md "wikilink")（U14）1998年9月～2001年9月
       - エキスパート（W11）1999年6月～2002年8月
   - QG18DE（1-2）
       - ティーノ（V10）1998年12月～2002年10月
@@ -125,8 +125,8 @@
 ## 関連項目
 
   - [日産のエンジン型式一覧](../Page/日産のエンジン型式一覧.md "wikilink")
-  - [日産・GAエンジン](https://ja.wikipedia.org/wiki/日産・GAエンジン "wikilink")
+  - [日産・GAエンジン](../Page/日産・GAエンジン.md "wikilink")
 
 [Category:日産自動車のエンジン](https://ja.wikipedia.org/wiki/Category:日産自動車のエンジン "wikilink")
 
-1.  GAエンジンに対して、[ダイレクトイグニッション](https://ja.wikipedia.org/wiki/ダイレクトイグニッション "wikilink")化や[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")のサイレントチェーン化などを行ったものである。したがって、エンジンブロックは鋳鉄のままである。
+1.  GAエンジンに対して、[ダイレクトイグニッション](../Page/ダイレクトイグニッション.md "wikilink")化や[タイミングチェーン](../Page/タイミングチェーン.md "wikilink")のサイレントチェーン化などを行ったものである。したがって、エンジンブロックは鋳鉄のままである。

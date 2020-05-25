@@ -143,7 +143,7 @@
   - [IBS MUSIC STATE](https://ja.wikipedia.org/wiki/IBS_MUSIC_STATE "wikilink")（[茨城放送](../Page/茨城放送.md "wikilink")） - 金曜日担当
   - [SUPER LINE'J'](../Page/SUPER_LINE'J'.md "wikilink")（J-WAVE） - [さくらとともにナビゲータを務めた](../Page/さくら_\(タレント\).md "wikilink")。
   - [ACROSS THE VIEW](https://ja.wikipedia.org/wiki/Across_The_View#ラジオ番組『Across_The_View』 "wikilink")（J-WAVE） - [はなと務めていた](../Page/はな_\(タレント\).md "wikilink")。
-  - [GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink")（J-WAVE） - [ピストン西沢](../Page/ピストン西沢.md "wikilink")が休みの際はに出演する。
+  - [GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink")（J-WAVE） - [ピストン西沢](../Page/ピストン西沢.md "wikilink")が休みの際に出演する。
   - 今夜もコムドラしようぜ\! - 小室哲哉と務めていた。
   - style cafe（[style FM](../Page/福岡コミュニティ放送.md "wikilink")） - [いしだ壱成](../Page/いしだ壱成.md "wikilink")と務めていた。
   - [Lovefunky Radio](https://ja.wikipedia.org/wiki/Lovefunky_Radio "wikilink")（[FMヨコハマ](https://ja.wikipedia.org/wiki/FMヨコハマ "wikilink")）(2019年1月1日 - 、毎週火曜26:30～27:00)
@@ -219,7 +219,7 @@
 
   - [株式会社神南 所属事務所](http://www.jinnan.co.jp/)
 
-  - [DJドラゴンBLACK JAXXアメブロ公式ブログ\!](http://ameblo.jp/djdragon/)
+  - [DJドラゴンBLACK JAXXアメブロ公式ブログ\!](https://ameblo.jp/djdragon/)
 
   -
   - [THE BIG BAND\!\!](http://www008.upp.so-net.ne.jp/THEBIGBAND/)

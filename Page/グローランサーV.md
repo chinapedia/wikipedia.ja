@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[グローランサーV](https://ja.wikipedia.org/wiki/グローランサーV)から翻訳されています。
 
 
 『**グローランサーV -Generations-**』（GROW LANSER V -Generations-）は、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[アトラスから発売された](../Page/アトラス_\(ゲーム会社\).md "wikilink")[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。続編に[グローランサーVI](../Page/グローランサーVI.md "wikilink")がある。このため本作には数々の伏線が存在する。

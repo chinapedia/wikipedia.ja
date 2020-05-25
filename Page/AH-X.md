@@ -36,7 +36,7 @@ OH-1の重武装型については[川崎重工業](../Page/川崎重工業.md "
   - [TK-X](https://ja.wikipedia.org/wiki/TK-X "wikilink") - 次期[主力戦車](../Page/主力戦車.md "wikilink")（TanK-X）
   - [UH-X](https://ja.wikipedia.org/wiki/UH-X "wikilink") - 次期[多用途ヘリコプター](https://ja.wikipedia.org/wiki/汎用ヘリコプター "wikilink")（Utility Helicopter-X）
   - [F-X (航空自衛隊)](../Page/F-X_\(航空自衛隊\).md "wikilink") - 次期主力[戦闘機](../Page/戦闘機.md "wikilink")（Fighter-X）
-  - [C-2 (航空機・日本)](https://ja.wikipedia.org/wiki/C-2_\(航空機・日本\) "wikilink") - 次期[輸送機](../Page/輸送機.md "wikilink")（Cargo aircraft-X）
+  - [C-2 (航空機・日本)](../Page/C-2_\(航空機・日本\).md "wikilink") - 次期[輸送機](../Page/輸送機.md "wikilink")（Cargo aircraft-X）
   - [P-1 (哨戒機)](../Page/P-1_\(哨戒機\).md "wikilink") - 次期[固定翼](../Page/固定翼機.md "wikilink")[哨戒機](../Page/対潜哨戒機.md "wikilink")（Patrol aircraft-X）
 
 ## 外部リンク

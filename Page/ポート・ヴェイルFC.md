@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ポート・ヴェイルFC](https://ja.wikipedia.org/wiki/ポート・ヴェイルFC)から翻訳されています。
 
 
-**ポート・ヴェイル・フットボール・クラブ**（**Port Vale Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[スタッフォードシャー](https://ja.wikipedia.org/wiki/スタッフォードシャー "wikilink")、[ストーク・オン・トレント](https://ja.wikipedia.org/wiki/ストーク・オン・トレント "wikilink")、[バースレム](https://ja.wikipedia.org/wiki/バースレム "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
+**ポート・ヴェイル・フットボール・クラブ**（**Port Vale Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[スタッフォードシャー](../Page/スタッフォードシャー.md "wikilink")、[ストーク・オン・トレント](https://ja.wikipedia.org/wiki/ストーク・オン・トレント "wikilink")、[バースレム](https://ja.wikipedia.org/wiki/バースレム "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[リーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。
 
 ## 名称変更
 
@@ -12,7 +12,7 @@
 
 **一試合最多観客動員数**
 
-  - 50,000人 vs [アストン・ヴィラ](https://ja.wikipedia.org/wiki/アストン・ヴィラFC "wikilink") FAカップ 5回戦 1960.2.20
+  - 50,000人 vs [アストン・ヴィラ](../Page/アストン・ヴィラFC.md "wikilink") FAカップ 5回戦 1960.2.20
 
 **一試合最多得点勝利試合**
 
@@ -20,7 +20,7 @@
 
 **一試合最多失点敗戦試合**
 
-  - 0-10 vs [シェフィールド・ユナイテッド](https://ja.wikipedia.org/wiki/シェフィールド・ユナイテッドFC "wikilink") フットボールリーグ・ディヴィジョン2 1892.12.10
+  - 0-10 vs [シェフィールド・ユナイテッド](../Page/シェフィールド・ユナイテッドFC.md "wikilink") フットボールリーグ・ディヴィジョン2 1892.12.10
 
 ## タイトル
 

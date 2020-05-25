@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wオープン](https://ja.wikipedia.org/wiki/Wオープン)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:FOMA_P906i_001.JPG "wikilink")
@@ -7,7 +7,7 @@
 
 ## 概要
 
-日本の携帯電話でWオープンの機種は15種類ある(2009年7月現在)。横に開くと[ノートパソコン](../Page/ノートパソコン.md "wikilink")のような形になり、[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")をゲーム機感覚で操作できる上、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")視聴もしやすい点が人気を呼んでいる。au向けのW44Sでは、側面にヒンジが大きく張り出していたが、後に発売された機種は全て突出が極めて小さい、もしくは全くない。パナソニック製端末は[ワンプッシュオープンが採用されており](https://ja.wikipedia.org/wiki/ワンプッシュオープンボタン "wikilink")、ボタンひとつで画面が開く仕様になっている。
+日本の携帯電話でWオープンの機種は15種類ある(2009年7月現在)。横に開くと[ノートパソコン](../Page/ノートパソコン.md "wikilink")のような形になり、[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")をゲーム機感覚で操作できる上、[ワンセグ](../Page/ワンセグ.md "wikilink")視聴もしやすい点が人気を呼んでいる。au向けのW44Sでは、側面にヒンジが大きく張り出していたが、後に発売された機種は全て突出が極めて小さい、もしくは全くない。パナソニック製端末は[ワンプッシュオープンが採用されており](../Page/ワンプッシュオープンボタン.md "wikilink")、ボタンひとつで画面が開く仕様になっている。
 
 ## 各機種の名称について
 
@@ -17,7 +17,7 @@
 
 ### [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")
 
-  - [P905i](../Page/P905i.md "wikilink")（[VIERAケータイ](https://ja.wikipedia.org/wiki/VIERAケータイ "wikilink")）
+  - [P905i](../Page/P905i.md "wikilink")（[VIERAケータイ](../Page/VIERAケータイ.md "wikilink")）
   - [P906i](https://ja.wikipedia.org/wiki/P906i "wikilink")（同上）
   - [P-01A](https://ja.wikipedia.org/wiki/P-01A "wikilink")（同上）
   - [P-03A](https://ja.wikipedia.org/wiki/P-03A "wikilink")（同上）
@@ -27,10 +27,10 @@
   - [P-04B](https://ja.wikipedia.org/wiki/P-04B "wikilink")（同上）
   - [P-02C](https://ja.wikipedia.org/wiki/P-02C "wikilink")（同上）
 
-### [au](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）
+### [au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")／[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）
 
-  - [W44S](https://ja.wikipedia.org/wiki/W44S "wikilink")
-  - [W62H](https://ja.wikipedia.org/wiki/W62H "wikilink")（[Woooケータイ](https://ja.wikipedia.org/wiki/Woooケータイ "wikilink")）
+  - [W44S](../Page/W44S.md "wikilink")
+  - [W62H](../Page/W62H.md "wikilink")（[Woooケータイ](../Page/Woooケータイ.md "wikilink")）
   - [H001](https://ja.wikipedia.org/wiki/H001 "wikilink")(HI001)（同上）
   - [Premier3](https://ja.wikipedia.org/wiki/Premier3 "wikilink")（SOY01）（[Walkman Phone](https://ja.wikipedia.org/wiki/ウォークマン#Walkman_Phone "wikilink")）
   - [Mobile Hi-Vision CAM Wooo(HIY01)](https://ja.wikipedia.org/wiki/Mobile_Hi-Vision_CAM_Wooo "wikilink")（3WAYオープン）
@@ -39,7 +39,7 @@
 
 ### [SoftBank](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")
 
-  - [SoftBank 920P](https://ja.wikipedia.org/wiki/SoftBank_920P "wikilink")（VIERAケータイ）
+  - [SoftBank 920P](../Page/SoftBank_920P.md "wikilink")（VIERAケータイ）
   - [SoftBank 921P](https://ja.wikipedia.org/wiki/SoftBank_921P "wikilink")（同上）
   - [SoftBank 930P](https://ja.wikipedia.org/wiki/SoftBank_930P "wikilink")（同上）
   - [SoftBank 931P](https://ja.wikipedia.org/wiki/SoftBank_931P "wikilink")（同上）

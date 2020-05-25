@@ -5,7 +5,7 @@
 
 ## 概要
 
-the pillowsのアルバムの中でも特に[ハイファイを意識して作られたアルバムであり](https://ja.wikipedia.org/wiki/Hi-Fi "wikilink")、前作『[Smile](../Page/Smile_\(the_pillowsのアルバム\).md "wikilink")』とは対照的である\[1\]。代わりに[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[キーボードなどの硬質なサウンドが多用されている](https://ja.wikipedia.org/wiki/キーボード_\(楽器\)#電子楽器としてのキーボード "wikilink")\[2\]。ただし「RAIN BRAIN」のように意図的に音をひずませた[ローファイな作りの楽曲もある](../Page/歪み_\(電子機器\).md "wikilink")\[3\]。
+the pillowsのアルバムの中でも特に[ハイファイを意識して作られたアルバムであり](../Page/Hi-Fi.md "wikilink")、前作『[Smile](../Page/Smile_\(the_pillowsのアルバム\).md "wikilink")』とは対照的である\[1\]。代わりに[シンセサイザー](../Page/シンセサイザー.md "wikilink")や[キーボードなどの硬質なサウンドが多用されている](https://ja.wikipedia.org/wiki/キーボード_\(楽器\)#電子楽器としてのキーボード "wikilink")\[2\]。ただし「RAIN BRAIN」のように意図的に音をひずませた[ローファイな作りの楽曲もある](../Page/歪み_\(電子機器\).md "wikilink")\[3\]。
 
 同日に発売されたB-side集『[Another morning, Another pillows](https://ja.wikipedia.org/wiki/Another_morning,_Another_pillows "wikilink")』とはほとんど同じ作りのジャケットであり、『Another morning, Another pillows』のジャケットでは写りこんでいるメンバーが女装をしている\[4\]。
 

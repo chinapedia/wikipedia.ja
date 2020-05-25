@@ -1,7 +1,7 @@
 > この記事は[LOVE PSYCHEDELIC ORCHESTRA](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELIC_ORCHESTRA)から翻訳されています。
 
 
-『**LOVE PSYCHEDELIC ORCHESTRA**』（ラブ・サイケデリック・オーケストラ）は、[LOVE PSYCHEDELICOの](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")。
+『**LOVE PSYCHEDELIC ORCHESTRA**』（ラブ・サイケデリック・オーケストラ）は、[LOVE PSYCHEDELICOの](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")発売。発売元は[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 タイトルの『LOVE PSYCHEDELIC ORCHESTRA』は現在のバンド名になる以前に名乗っていたバンド名であり\[4\]、つまり本作はセルフ・タイトルド・アルバムである\[5\]。
 
-収録曲の「waltz」は 映画「[天使の恋](https://ja.wikipedia.org/wiki/天使の恋 "wikilink")」（2009年）挿入歌。また「dry town」はのちに「[Dry Town 〜Theme of Zero〜](https://ja.wikipedia.org/wiki/Dry_Town_〜Theme_of_Zero〜/Shadow_behind "wikilink")」として[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")され、[フジテレビ系](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[絶対零度〜未解決事件特命捜査〜](https://ja.wikipedia.org/wiki/絶対零度_\(テレビドラマ\) "wikilink")」（2010年）のメインテーマとして使用された\[6\]
+収録曲の「waltz」は 映画「[天使の恋](https://ja.wikipedia.org/wiki/天使の恋 "wikilink")」（2009年）挿入歌。また「dry town」はのちに「[Dry Town 〜Theme of Zero〜](https://ja.wikipedia.org/wiki/Dry_Town_〜Theme_of_Zero〜/Shadow_behind "wikilink")」として[リメイク](../Page/リメイク.md "wikilink")され、[フジテレビ系](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")「[絶対零度〜未解決事件特命捜査〜](https://ja.wikipedia.org/wiki/絶対零度_\(テレビドラマ\) "wikilink")」（2010年）のメインテーマとして使用された\[6\]
 
 ## 収録曲
 

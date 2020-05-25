@@ -1,11 +1,11 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[電子鳥人Uバード](https://ja.wikipedia.org/wiki/電子鳥人Uバード)から翻訳されています。
 
 
 『**電子鳥人Uバード**』（でんしちょうじんユーバード、）は、[ハンナ・バーベラ・プロダクション](../Page/ハンナ・バーベラ・プロダクション.md "wikilink")製作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、および同作品に登場するキャラクターである。全21話。
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では、[1967年](../Page/1967年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")まで[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")で放送。日本では、1971年8月から同年12月までNETテレビ（現・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）とその系列局で放送されていた。21世紀に入ってからは、2008年9月28日から同年11月8日、および2009年7月12日から同年8月23日まで[カートゥーン ネットワークで放送されていた](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では、[1967年](../Page/1967年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")まで[NBC](../Page/NBC.md "wikilink")で放送。日本では、1971年8月から同年12月までNETテレビ（現・[テレビ朝日](../Page/テレビ朝日.md "wikilink")）とその系列局で放送されていた。21世紀に入ってからは、2008年9月28日から同年11月8日、および2009年7月12日から同年8月23日まで[カートゥーン ネットワークで放送されていた](../Page/カートゥーン_ネットワーク.md "wikilink")。
 
-セルフパロディ作品として、主役の超人「Uバード」（バードマン、）が[弁護士](../Page/弁護士.md "wikilink")に扮する『[Harvey Birdman, Attorney at Law](https://ja.wikipedia.org/wiki/:en:Harvey_Birdman,_Attorney_at_Law "wikilink")』（直訳すると「ハーベイ・バードマン[法律事務所](https://ja.wikipedia.org/wiki/法律事務所 "wikilink")」）があり、[2000年](../Page/2000年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")までカートゥーン ネットワークで放送されていた。
+セルフパロディ作品として、主役の超人「Uバード」（バードマン、）が[弁護士](../Page/弁護士.md "wikilink")に扮する『[Harvey Birdman, Attorney at Law](https://ja.wikipedia.org/wiki/:en:Harvey_Birdman,_Attorney_at_Law "wikilink")』（直訳すると「ハーベイ・バードマン[法律事務所](../Page/法律事務所.md "wikilink")」）があり、[2000年](../Page/2000年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")までカートゥーン ネットワークで放送されていた。
 
 ## 内容
 
@@ -24,10 +24,10 @@
 
 ### 吹き替え担当声優
 
-  - Uバード：[小林修](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink")
-  - ジョー：[富山敬](https://ja.wikipedia.org/wiki/富山敬 "wikilink")
+  - Uバード：[小林修](../Page/小林修_\(声優\).md "wikilink")
+  - ジョー：[富山敬](../Page/富山敬.md "wikilink")
   - スウィート：[小原乃梨子](../Page/小原乃梨子.md "wikilink")
-  - ガッツマン：[関敬六](https://ja.wikipedia.org/wiki/関敬六 "wikilink")
+  - ガッツマン：[関敬六](../Page/関敬六.md "wikilink")
 
 ### 主題歌
 
@@ -45,10 +45,6 @@
   - [石川テレビ](../Page/石川テレビ放送.md "wikilink")：水曜 18:00 - 18:30\[2\]
 
 ## 脚注
-
-## 外部リンク
-
-  - [電子鳥人Uバード | 番組詳細 | カートゥーン ネットワーク](http://www.cartoonnetwork.jp/cn_programs/view/00144)
 
 [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:1967年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1967年のテレビアニメ "wikilink") [Category:ハンナ・バーベラ・プロダクション](https://ja.wikipedia.org/wiki/Category:ハンナ・バーベラ・プロダクション "wikilink") [Category:NBC](https://ja.wikipedia.org/wiki/Category:NBC "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:フォーリーブスの楽曲](https://ja.wikipedia.org/wiki/Category:フォーリーブスの楽曲 "wikilink")
 

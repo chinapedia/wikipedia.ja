@@ -29,7 +29,7 @@ i2i Flashティッカーは、[FLASHで作られた](../Page/Adobe_Flash.md "wik
 
 ### i2i検索順位チェッカー
 
-i2i[検索順位](https://ja.wikipedia.org/wiki/検索順位 "wikilink")チェッカーは、設置することであらかじめ登録しておいた検索キーワードでの[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")、[Google](../Page/Google.md "wikilink")、[Bing](https://ja.wikipedia.org/wiki/Bing "wikilink")の3大検索エンジンでの検索結果順位と[検索結果](https://ja.wikipedia.org/wiki/検索結果 "wikilink")件数を一括で集計ができる。過去にチェックした履歴も参照可能。
+i2i[検索順位](https://ja.wikipedia.org/wiki/検索順位 "wikilink")チェッカーは、設置することであらかじめ登録しておいた検索キーワードでの[Yahoo\!](../Page/Yahoo!.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Bing](../Page/Bing.md "wikilink")の3大検索エンジンでの検索結果順位と[検索結果](https://ja.wikipedia.org/wiki/検索結果 "wikilink")件数を一括で集計ができる。過去にチェックした履歴も参照可能。
 
 ### i2i SEOリンクチェッカー
 

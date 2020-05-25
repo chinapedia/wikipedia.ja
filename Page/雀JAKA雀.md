@@ -61,4 +61,4 @@
 
   - [エルフ](http://www.elf-game.co.jp/)　※18歳未満閲覧禁止
 
-[Category:エルフのゲームソフト](https://ja.wikipedia.org/wiki/Category:エルフのゲームソフト "wikilink") [Category:1992年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1992年のアダルトゲーム "wikilink") [Category:脱衣麻雀](https://ja.wikipedia.org/wiki/Category:脱衣麻雀 "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:東京都を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした作品 "wikilink")
+[Category:エルフのゲームソフト](https://ja.wikipedia.org/wiki/Category:エルフのゲームソフト "wikilink") [Category:1992年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1992年のアダルトゲーム "wikilink") [Category:脱衣麻雀](https://ja.wikipedia.org/wiki/Category:脱衣麻雀 "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:東京都を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:東京都を舞台としたコンピュータゲーム "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[TOPAZ \(\)](https://ja.wikipedia.org/wiki/TOPAZ_\(\))から翻訳されています。
+> この記事は[TOPAZ \(アルバム\)](https://ja.wikipedia.org/wiki/TOPAZ_\(アルバム\))から翻訳されています。
 
 
 『**TOPAZ**』（トパッズ）は、[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")の通算22作目のレギュラーアルバムである。

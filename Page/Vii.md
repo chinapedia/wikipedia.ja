@@ -19,23 +19,23 @@
   - パークゴルフ（パターゴルフ）
   - 卓球
   - ボウリング
-  - オムレツ作りゲーム（[クッキングママ](https://ja.wikipedia.org/wiki/クッキングママ "wikilink")のクローン）
-  - バードナイト（[バルーンファイト](https://ja.wikipedia.org/wiki/バルーンファイト "wikilink")のクローン）
+  - オムレツ作りゲーム（[クッキングママ](../Page/クッキングママ.md "wikilink")のクローン）
+  - バードナイト（[バルーンファイト](../Page/バルーンファイト.md "wikilink")のクローン）
   - スマートダーツ
   - 餌付けゲーム
-  - ファンタジーベースボール([Wii Sportsのベースボールのクローン](https://ja.wikipedia.org/wiki/Wii_Sports "wikilink"))
+  - ファンタジーベースボール([Wii Sportsのベースボールのクローン](../Page/Wii_Sports.md "wikilink"))
   - Free Craps（日本版には未収録）
 
 ### 付属ロムカートリッジ
 
   - バブルブラスター（[パズループ](../Page/パズループ.md "wikilink")のクローン）
-  - ジュエルマスター（[コラムス](https://ja.wikipedia.org/wiki/コラムス "wikilink")のクローン）
+  - ジュエルマスター（[コラムス](../Page/コラムス.md "wikilink")のクローン）
   - ピンボールフィッシュ
-  - スクワレルバブル（[パズルボブル](https://ja.wikipedia.org/wiki/パズルボブル "wikilink")のクローン）
-  - ライトニングプラン ([U.S.NAVY](../Page/U.S.NAVY.md "wikilink")、[ソニックウィングス](https://ja.wikipedia.org/wiki/ソニックウィングス "wikilink")、[アルティメットエコロジー](https://ja.wikipedia.org/wiki/アルティメットエコロジー "wikilink")といったゲームのグラフィックを無断流用したシューティングゲーム）
+  - スクワレルバブル（[パズルボブル](../Page/パズルボブル.md "wikilink")のクローン）
+  - ライトニングプラン ([U.S.NAVY](../Page/U.S.NAVY.md "wikilink")、[ソニックウィングス](../Page/ソニックウィングス.md "wikilink")、[アルティメットエコロジー](https://ja.wikipedia.org/wiki/アルティメットエコロジー "wikilink")といったゲームのグラフィックを無断流用したシューティングゲーム）
   - プラマー
   - ミスターオニオン
-  - ドリームバブル（[テトリス](https://ja.wikipedia.org/wiki/テトリス "wikilink")のクローン）
+  - ドリームバブル（[テトリス](../Page/テトリス.md "wikilink")のクローン）
   - ファイヤーファイター
   - レンガ崩し
   - 麻雀（日本版には未収録）

@@ -1,18 +1,18 @@
 > この記事は[PaPeRo](https://ja.wikipedia.org/wiki/PaPeRo)から翻訳されています。
 
 
-**PaPeRo**（*パペロ*）は、[日本電気](../Page/日本電気.md "wikilink")（NEC）が[研究開発](https://ja.wikipedia.org/wiki/研究開発 "wikilink")しているロボット。
+**PaPeRo**（*パペロ*）は、[日本電気](../Page/日本電気.md "wikilink")（NEC）が[研究開発](../Page/研究開発.md "wikilink")しているロボット。
 
 ## 概要
 
-  - 産業用ロボットや二足歩行ロボットのようなハードウェアの開発を主眼に据えたロボットとは異なり、[画像認識](https://ja.wikipedia.org/wiki/画像認識 "wikilink")や[各種センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")・[音声認識](../Page/音声認識.md "wikilink")・[音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")等の技術を用いた、人とロボットの自然で高度なコミュニケーションの研究を目的としている。
-  - ロボットソフトウェアプラットフォームには、NECシステムテクノロジーの**RoboStudio**（ロボスタジオ）が用いられており、[音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")での発話を行う。
+  - 産業用ロボットや二足歩行ロボットのようなハードウェアの開発を主眼に据えたロボットとは異なり、[画像認識](https://ja.wikipedia.org/wiki/画像認識 "wikilink")や[各種センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")・[音声認識](../Page/音声認識.md "wikilink")・[音声合成](../Page/音声合成.md "wikilink")等の技術を用いた、人とロボットの自然で高度なコミュニケーションの研究を目的としている。
+  - ロボットソフトウェアプラットフォームには、NECシステムテクノロジーの**RoboStudio**（ロボスタジオ）が用いられており、[音声合成](../Page/音声合成.md "wikilink")での発話を行う。
   - 「**Partner-type・Personal・Robot**（パートナータイプ・パーソナル・ロボット）」の頭文字。
 
 ## 主な機能
 
   - 画像認識技術
-    頭部にある2つの[CCDカメラから入力される画像をもとに](../Page/CCDイメージセンサ.md "wikilink")、人の顔を見分ける。また、紙に書かれた文字や[ジェスチャー](https://ja.wikipedia.org/wiki/ジェスチャー "wikilink")、障害物なども認識できる。
+    頭部にある2つの[CCDカメラから入力される画像をもとに](../Page/CCDイメージセンサ.md "wikilink")、人の顔を見分ける。また、紙に書かれた文字や[ジェスチャー](../Page/ジェスチャー.md "wikilink")、障害物なども認識できる。
   - 音声認識技術
     頭部に[マイク](https://ja.wikipedia.org/wiki/マイク "wikilink")があり、音声を認識する。認識された音は内部の音声認識辞書と照合され、特定の言葉として判断された時にはそれに対するふるまいを返す。[エコーキャンセラ](https://ja.wikipedia.org/wiki/エコーキャンセラ "wikilink")、[ノイズキャンセラ](https://ja.wikipedia.org/wiki/ノイズキャンセラ "wikilink")技術も搭載されている。また、胴体のマイクでは音源方向検出が行われ、音のした方向を判断し、そちらへ向き直ることもできる。
   - 知能化技術
@@ -43,7 +43,7 @@
 ## 関連項目
 
   - [PC-6001mkII](https://ja.wikipedia.org/wiki/PC-6000シリーズ#PC-6001mkII "wikilink")
-  - [ハローキティロボ](https://ja.wikipedia.org/wiki/ハローキティロボ "wikilink")
+  - [ハローキティロボ](../Page/ハローキティロボ.md "wikilink")
 
 ## 外部リンク
 

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK江良テレビ中継局](https://ja.wikipedia.org/wiki/NHK江良テレビ中継局)から翻訳されています。
 
 
 **NHK江良テレビ中継局**（エヌエイチケイえらテレビちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[松前郡](../Page/松前郡.md "wikilink")[松前町茂草に設置されていた](../Page/松前町_\(北海道\).md "wikilink")[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")[中継局](../Page/中継局.md "wikilink")。

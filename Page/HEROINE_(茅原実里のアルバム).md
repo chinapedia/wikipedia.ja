@@ -1,7 +1,7 @@
-> この記事は[HEROINE \(\)](https://ja.wikipedia.org/wiki/HEROINE_\(\))から翻訳されています。
+> この記事は[HEROINE \(茅原実里のアルバム\)](https://ja.wikipedia.org/wiki/HEROINE_\(茅原実里のアルバム\))から翻訳されています。
 
 
-『**HEROINE**』（ヒロイン）は、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")の事実上1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
+『**HEROINE**』（ヒロイン）は、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")の事実上1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。
 
 ## 背景・リリース・音楽性
 
@@ -17,26 +17,26 @@
 
 1.  **[魔女っ子メグちゃん](https://ja.wikipedia.org/wiki/魔女っ子メグちゃん#関連商品 "wikilink")** \[3:31\]
       -
-        作詞：[千家和也](https://ja.wikipedia.org/wiki/千家和也 "wikilink")、作曲：[渡辺岳夫](https://ja.wikipedia.org/wiki/渡辺岳夫 "wikilink")、編曲：清水俊也
+        作詞：[千家和也](../Page/千家和也.md "wikilink")、作曲：[渡辺岳夫](../Page/渡辺岳夫.md "wikilink")、編曲：清水俊也
     <!-- end list -->
-      - 同名[魔法少女アニメ](../Page/魔法少女アニメ.md "wikilink")の[オープニングテーマをカバー](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（原曲は[前川陽子](https://ja.wikipedia.org/wiki/前川陽子 "wikilink")が担当）。
+      - 同名[魔法少女アニメ](../Page/魔法少女アニメ.md "wikilink")の[オープニングテーマをカバー](../Page/主題歌.md "wikilink")（原曲は[前川陽子](../Page/前川陽子.md "wikilink")が担当）。
 2.  **jelly beans** \[3:44\]
       -
-        作詞：[ゆうまお](https://ja.wikipedia.org/wiki/ゆうまお "wikilink")、作曲・編曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink")
+        作詞：[ゆうまお](../Page/ゆうまお.md "wikilink")、作曲・編曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink")
 3.  **マリオネット** \[3:55\]
       -
         作詞：仁科佐規、作曲・編曲：水上裕規
     <!-- end list -->
-      - [PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[天空断罪スケルターヘブン](https://ja.wikipedia.org/wiki/天空断罪スケルターヘブン "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（同ゲームに松本綾香役で出演）。
+      - [PS2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[天空断罪スケルターヘブン](../Page/天空断罪スケルターヘブン.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")（同ゲームに松本綾香役で出演）。
 4.  **傘の下** \[3:48\]
       -
         作詞・作曲：ゆうまお、編曲：[菅野祐悟](../Page/菅野祐悟.md "wikilink")
 5.  **涙の記念日** \[3:57\]
       -
-        作詞：[小林和子](https://ja.wikipedia.org/wiki/小林和子 "wikilink")、作曲：[BULGE](https://ja.wikipedia.org/wiki/BULGE "wikilink")、編曲：江上浩太郎
+        作詞：[小林和子](https://ja.wikipedia.org/wiki/小林和子 "wikilink")、作曲：[BULGE](../Page/BULGE.md "wikilink")、編曲：江上浩太郎
 6.  **NAKED HEART** \[4:03\]
       -
-        作詞：仁科佐規、作曲・編曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")
+        作詞：仁科佐規、作曲・編曲：[渡辺未来](../Page/渡辺未来.md "wikilink")
     <!-- end list -->
       - PS2用ゲームソフト『天空断罪スケルターヘブン』オープニングテーマ。
 7.  **Emotional** \[3:33\]

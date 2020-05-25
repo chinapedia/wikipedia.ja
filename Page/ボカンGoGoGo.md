@@ -1,11 +1,11 @@
-> この記事は[GoGoGo](https://ja.wikipedia.org/wiki/GoGoGo)から翻訳されています。
+> この記事は[ボカンGoGoGo](https://ja.wikipedia.org/wiki/ボカンGoGoGo)から翻訳されています。
 
 
 『**ボカン**』（ボカンゴーゴーゴー）は、2001年2月22日にバンプレストが発売したプレイステーション向けレースゲームである。
 
-[タイムボカンシリーズ](../Page/タイムボカンシリーズ.md "wikilink")歴代[三悪](../Page/三悪_\(タイムボカンシリーズ\).md "wikilink")7組（『[きらめきマン](https://ja.wikipedia.org/wiki/タイムボカン2000_怪盗きらめきマン "wikilink")』関連は[隠しキャラ](../Page/隠れキャラクター.md "wikilink")）がドクロベェの指令を受け大レースを行う。
+[タイムボカンシリーズ](../Page/タイムボカンシリーズ.md "wikilink")歴代[三悪](../Page/三悪_\(タイムボカンシリーズ\).md "wikilink")7組（『[きらめきマン](../Page/タイムボカン2000_怪盗きらめきマン.md "wikilink")』関連は[隠しキャラ](../Page/隠れキャラクター.md "wikilink")）がドクロベェの指令を受け大レースを行う。
 
-なおタイトルは原作会社である[タツノコプロ](../Page/タツノコプロ.md "wikilink")作品の『[マッハ<ruby lang="en">GoGoGo<rp>（</rp><rt lang="en-Kana">ゴーゴーゴー</rt><rp>）</rp></ruby>](https://ja.wikipedia.org/wiki/マッハGoGoGo "wikilink")』のパロディ。
+なおタイトルは原作会社である[タツノコプロ](../Page/タツノコプロ.md "wikilink")作品の『[マッハ<ruby lang="en">GoGoGo<rp>（</rp><rt lang="en-Kana">ゴーゴーゴー</rt><rp>）</rp></ruby>](../Page/マッハGoGoGo.md "wikilink")』のパロディ。
 
 ## ストーリー
 
@@ -63,10 +63,10 @@
     花の刑事トリオ（ルージュ、ヒエール、オンドレー）
 
   - メカブトン
-    丹平（声：[太田淑子](../Page/太田淑子.md "wikilink")）、淳子（声：[岡本茉利](https://ja.wikipedia.org/wiki/岡本茉利 "wikilink")）、チョロ坊（声：[桂玲子](https://ja.wikipedia.org/wiki/桂玲子 "wikilink")）
+    丹平（声：[太田淑子](../Page/太田淑子.md "wikilink")）、淳子（声：[岡本茉利](../Page/岡本茉利.md "wikilink")）、チョロ坊（声：[桂玲子](../Page/桂玲子.md "wikilink")）
 
   - ヤッターワン（ヤッターマン）
-    ヤッターマン1号（声：太田淑子）、ヤッターマン2号（声：岡本茉利）、ヤッターワン（声：[松本保典](https://ja.wikipedia.org/wiki/松本保典 "wikilink")）、オモッチャマ（声：桂玲子）
+    ヤッターマン1号（声：太田淑子）、ヤッターマン2号（声：岡本茉利）、ヤッターワン（声：[松本保典](../Page/松本保典.md "wikilink")）、オモッチャマ（声：桂玲子）
 
   - ゼンダライオン（ゼンダマン）
     ゼンダマン1号（声：[三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")）、ゼンダマン2号（声:不詳） ゼンダライオン（声：[山本正之](https://ja.wikipedia.org/wiki/山本正之 "wikilink")）、アマッタン（声：[深森らえる](https://ja.wikipedia.org/wiki/深森らえる "wikilink")）
@@ -75,11 +75,11 @@
 
 :;オタスケタヌキ（オタスケマン）
 
-::オタスケマン1号（声：[水島裕](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")）
+::オタスケマン1号（声：[水島裕](../Page/水島裕_\(声優\).md "wikilink")）
 
 :;巨神号（ヤットデタマン）
 
-::ヤットデタマン（声：[曽我部和恭](https://ja.wikipedia.org/wiki/曽我部和恭 "wikilink")）、大巨神（声：[宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")）
+::ヤットデタマン（声：[曽我部和恭](https://ja.wikipedia.org/wiki/曽我部和恭 "wikilink")）、大巨神（声：[宝亀克寿](../Page/宝亀克寿.md "wikilink")）
 
 :;弾丸ヘッド号（イッパツマン）
 
@@ -91,7 +91,7 @@
 
 :;トッタルニャン（きらめきマン）
 
-::トッタルニャン（声：[木村郁絵](https://ja.wikipedia.org/wiki/木村郁絵 "wikilink")）
+::トッタルニャン（声：[木村郁絵](../Page/木村郁絵.md "wikilink")）
 
 :;暴走シュヤクノザ
 
@@ -168,7 +168,7 @@
 
 ## アニメ制作スタッフ
 
-  - 監督・コンテ：[笹川ひろし](https://ja.wikipedia.org/wiki/笹川ひろし "wikilink")
+  - 監督・コンテ：[笹川ひろし](../Page/笹川ひろし.md "wikilink")
   - 演出：工藤進
   - 脚本：河内厚典
   - OP原画：大久保富彦、工原しげき、佐藤陽子、佐野英敏、高田詩乃、[竹内進二](../Page/竹内進二.md "wikilink")、富岡隆司、三浦和也、宮脇千鶴、山下敏成
@@ -184,10 +184,10 @@
   - 背景：イメージルーム・ジロー
   - 撮影：横山幸太郎、相沢健四郎、武川昌志、横山正彦
   - 編集：三木幸子、中野ちひろ
-  - 現像・ビデオ編集：[東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")
+  - 現像・ビデオ編集：[東京現像所](../Page/東京現像所.md "wikilink")
   - リスワーク：[マキ・プロ](https://ja.wikipedia.org/wiki/マキ・プロ "wikilink")
   - 録音演出：[水本完](../Page/水本完.md "wikilink")
-  - 効果：加藤昭二（[アニメサウンドプロダクション](https://ja.wikipedia.org/wiki/アニメサウンドプロダクション "wikilink")）
+  - 効果：加藤昭二（[アニメサウンドプロダクション](../Page/アニメサウンドプロダクション.md "wikilink")）
   - 調整：西澤規夫、成田一明
   - 録音スタジオ：整音スタジオ
   - 録音制作：ザックプロモーション

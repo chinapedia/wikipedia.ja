@@ -1,7 +1,7 @@
 > この記事は[AtheOS](https://ja.wikipedia.org/wiki/AtheOS)から翻訳されています。
 
 
-**AtheOS**は[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")ベースのPCで動作する[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink") の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。当初、[AmigaOS](https://ja.wikipedia.org/wiki/AmigaOS "wikilink")の[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")を目指し作成されていたが、後に、方針を転換している。開発は中断されており、幾つかのプロジェクトへとフォークした。現在ではAtheOSのソースから派生している[Syllable](https://ja.wikipedia.org/wiki/Syllable "wikilink")がその直系の後継であるといえる。
+**AtheOS**は[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")ベースのPCで動作する[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink") の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。当初、[AmigaOS](../Page/AmigaOS.md "wikilink")の[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")を目指し作成されていたが、後に、方針を転換している。開発は中断されており、幾つかのプロジェクトへとフォークした。現在ではAtheOSのソースから派生している[Syllable](https://ja.wikipedia.org/wiki/Syllable "wikilink")がその直系の後継であるといえる。
 
 公開時には既に実用となる完成度であり、公式サイトがAtheOSにより運用されていた。 [SMPへの対応や](../Page/対称型マルチプロセッシング.md "wikilink")、[マイクロカーネル](https://ja.wikipedia.org/wiki/マイクロカーネル "wikilink")を意識した[スレッドの多用など](../Page/スレッド_\(コンピュータ\).md "wikilink")、ソースこそ洗練されているといえない部分を含むものの、先進的な設計であった。
 
@@ -13,7 +13,7 @@
 
 AtheOSは1994年から2000年初頭に掛けて[ノルウェー](../Page/ノルウェー.md "wikilink")のコンピュータ[プログラマ](../Page/プログラマ.md "wikilink")、[Kurt Skauenによって作成され](https://ja.wikipedia.org/wiki/Kurt_Skauen "wikilink")、2000年の3月、[usenet](https://ja.wikipedia.org/wiki/usenet "wikilink")で世界へ公開された。[ライセンス](../Page/ライセンス.md "wikilink")は[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であるが、SkauenはOSの完成度の向上のために、他の開発者の貢献を受け入れる事に躊躇いがちで、開発は停滞し、幾つかのプロジェクトへとフォークすることとなる。
 
-2002年3月に[cosmoe](https://ja.wikipedia.org/wiki/cosmoe "wikilink")として、[カーネル](../Page/カーネル.md "wikilink")は[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")、ウィンドウシステムは[XFree86](../Page/XFree86.md "wikilink")を使い、AtheOSのAPIを実装するプロジェクトが立ち上がった。
+2002年3月に[cosmoe](https://ja.wikipedia.org/wiki/cosmoe "wikilink")として、[カーネル](../Page/カーネル.md "wikilink")は[Linux](../Page/Linux.md "wikilink")、ウィンドウシステムは[XFree86](../Page/XFree86.md "wikilink")を使い、AtheOSのAPIを実装するプロジェクトが立ち上がった。
 
 2002年7月には開発の停滞に業を煮やし、AtheOSのソースツリーを元に別プロジェクトとして開発を続行する[Syllable](https://ja.wikipedia.org/wiki/Syllable "wikilink")が発足している。
 

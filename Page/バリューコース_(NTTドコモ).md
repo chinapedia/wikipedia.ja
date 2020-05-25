@@ -1,4 +1,4 @@
-> この記事は[ \(NTT\)](https://ja.wikipedia.org/wiki/_\(NTT\))から翻訳されています。
+> この記事は[バリューコース \(NTTドコモ\)](https://ja.wikipedia.org/wiki/バリューコース_\(NTTドコモ\))から翻訳されています。
 
 
 **バリューコース**は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が[2007年](../Page/2007年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")から提供している、[携帯電話](../Page/携帯電話.md "wikilink")端末の販売方法及び基本使用料金プランである。

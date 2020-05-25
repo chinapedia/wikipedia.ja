@@ -1,7 +1,7 @@
-> この記事は[True tears ](https://ja.wikipedia.org/wiki/True_tears_)から翻訳されています。
+> この記事は[True tears こちらチューリップ放送局](https://ja.wikipedia.org/wiki/True_tears_こちらチューリップ放送局)から翻訳されています。
 
 
-**true tears こちらチューリップ放送局**は、テレビアニメ作品『[true tears](https://ja.wikipedia.org/wiki/true_tears_\(アニメ\) "wikilink")』の関連番組として[BEAT☆Net Radio\!にて配信された](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio! "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。本放送に先行して[キャララジオ](../Page/キャララジオ.md "wikilink")にて配信された。第1回と第2回の提供に[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")も参加していたが[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")では配信されずBEAT☆Net Radio\!のみで配信されていた。
+**true tears こちらチューリップ放送局**は、テレビアニメ作品『[true tears](https://ja.wikipedia.org/wiki/true_tears_\(アニメ\) "wikilink")』の関連番組として[BEAT☆Net Radio\!にて配信された](../Page/BEAT☆Net_Radio!.md "wikilink")[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。本放送に先行して[キャララジオ](../Page/キャララジオ.md "wikilink")にて配信された。第1回と第2回の提供に[ランティス](../Page/ランティス.md "wikilink")も参加していたが[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")では配信されずBEAT☆Net Radio\!のみで配信されていた。
 
 富山県の県域テレビ放送局である[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、新潟市のケーブルテレビ業者で「チューリップNET」の愛称を用いていた[ケーブルネット新潟](../Page/ケーブルネット新潟.md "wikilink")との関連はない。
 
@@ -9,8 +9,8 @@
 
   - 配信期間：[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [5月30日](../Page/5月30日.md "wikilink")
   - 配信日：毎週金曜日
-  - 配信サイト：[BEAT☆Net Radio\!](https://ja.wikipedia.org/wiki/BEAT☆Net_Radio! "wikilink")
-  - [パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")：[高垣彩陽](https://ja.wikipedia.org/wiki/高垣彩陽 "wikilink")（石動乃絵役）、[名塚佳織](../Page/名塚佳織.md "wikilink")（湯浅比呂美役）、[井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")（安藤愛子役）
+  - 配信サイト：[BEAT☆Net Radio\!](../Page/BEAT☆Net_Radio!.md "wikilink")
+  - [パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")：[高垣彩陽](../Page/高垣彩陽.md "wikilink")（石動乃絵役）、[名塚佳織](../Page/名塚佳織.md "wikilink")（湯浅比呂美役）、[井口裕香](../Page/井口裕香.md "wikilink")（安藤愛子役）
 
 ## コーナー
 
@@ -25,7 +25,7 @@
 
 ## ゲスト
 
-  - 第7回、第8回：[石井真](https://ja.wikipedia.org/wiki/石井真 "wikilink")（仲上眞一郎役）
+  - 第7回、第8回：[石井真](../Page/石井真.md "wikilink")（仲上眞一郎役）
   - 第9回：[西村純二](../Page/西村純二.md "wikilink")（監督）、堀川憲司（プロデューサー）
 
 ## 特別番組
@@ -35,7 +35,7 @@
 <!-- end list -->
 
   -
-    [BS11でのアニメ本編放送に先駆け](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")[高垣彩陽](https://ja.wikipedia.org/wiki/高垣彩陽 "wikilink")、[名塚佳織](../Page/名塚佳織.md "wikilink")、[井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")の3人の出演で2008年1月4日に特番を放送。
+    [BS11でのアニメ本編放送に先駆け](../Page/日本BS放送.md "wikilink")[高垣彩陽](../Page/高垣彩陽.md "wikilink")、[名塚佳織](../Page/名塚佳織.md "wikilink")、[井口裕香](../Page/井口裕香.md "wikilink")の3人の出演で2008年1月4日に特番を放送。
 
 <!-- end list -->
 

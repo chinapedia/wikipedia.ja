@@ -1,17 +1,17 @@
-> この記事は[2nd](https://ja.wikipedia.org/wiki/2nd)から翻訳されています。
+> この記事は[乗り鉄トラベラーズ2ndシーズン](https://ja.wikipedia.org/wiki/乗り鉄トラベラーズ2ndシーズン)から翻訳されています。
 
 
 『**乗り鉄トラベラーズ2ndシーズン**』（のりてつトラベラーズセカンドシーズン）は、[CS放送チャンネル](../Page/衛星放送.md "wikilink")[MONDO21](https://ja.wikipedia.org/wiki/MONDO21 "wikilink")（[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")279ch）、ならびに[パンチクラブ](../Page/パンチクラブ.md "wikilink")（[スカパー\!e2](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")291ch）で放送された[鉄道](../Page/鉄道.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全13回。
 
 ## 概要
 
-日本国内の全ての[鉄道駅](../Page/鉄道駅.md "wikilink")下車を達成したトラベルライター[横見浩彦](https://ja.wikipedia.org/wiki/横見浩彦 "wikilink")が、日本一の鉄ドル（鉄道アイドル）を目指す[木村裕子](../Page/木村裕子.md "wikilink")と日本全国の味な路線を乗りつぶし、鉄道の素晴らしさを伝える鉄道バラエティ。
+日本国内の全ての[鉄道駅](../Page/鉄道駅.md "wikilink")下車を達成したトラベルライター[横見浩彦](../Page/横見浩彦.md "wikilink")が、日本一の鉄ドル（鉄道アイドル）を目指す[木村裕子](../Page/木村裕子.md "wikilink")と日本全国の味な路線を乗りつぶし、鉄道の素晴らしさを伝える鉄道バラエティ。
 
 前作の『[乗り鉄おすすめ\!鉄道トラベラーズ](../Page/乗り鉄おすすめ!鉄道トラベラーズ.md "wikilink")』が好評だったため、パート2として番組が制作された。
 
 ## 出演者
 
-  - [横見浩彦](https://ja.wikipedia.org/wiki/横見浩彦 "wikilink")
+  - [横見浩彦](../Page/横見浩彦.md "wikilink")
   - [木村裕子](../Page/木村裕子.md "wikilink")
   - 岡本聡一郎 - [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")
 

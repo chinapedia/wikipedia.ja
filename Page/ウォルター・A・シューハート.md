@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウォルター・A・シューハート](https://ja.wikipedia.org/wiki/ウォルター・A・シューハート)から翻訳されています。
 
 
 **ウォルター・アンドルー・シューハート**（[英](../Page/英語.md "wikilink"): **Walter Andrew Shewhart**、[1891年](../Page/1891年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink") - [1967年](../Page/1967年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[物理学者](https://ja.wikipedia.org/wiki/物理学者 "wikilink")、[技術者](../Page/技術者.md "wikilink")、[統計学](../Page/統計学.md "wikilink")者。「統計的[品質管理](../Page/品質管理.md "wikilink")の父」とも呼ばれる。

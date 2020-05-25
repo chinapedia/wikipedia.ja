@@ -1,15 +1,15 @@
-> この記事は[SAGE](https://ja.wikipedia.org/wiki/SAGE)から翻訳されています。
+> この記事は[SAGE法](https://ja.wikipedia.org/wiki/SAGE法)から翻訳されています。
 
 
 **SAGE法** (Serial Analysis of Gene Expression) とは、対象とする[細胞](../Page/細胞.md "wikilink")や[組織における](../Page/組織_\(生物学\).md "wikilink") [mRNA](../Page/伝令RNA.md "wikilink") の発現状況を把握する、いわゆる遺伝子発現プロファイリングのための[分子生物学](../Page/分子生物学.md "wikilink")的手法である。
 
-この技術は[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")の[がんセンターに勤務していた](../Page/悪性腫瘍.md "wikilink") [Victor Velculescu](https://ja.wikipedia.org/wiki/:en:Victor_Velculescu "wikilink") 博士によって開発され、1995年に[サイエンス](https://ja.wikipedia.org/wiki/サイエンス "wikilink")誌に掲載された\[1\]。それ以降幾つかの派生的手法が報告されているが、有名な改良版としては LongSAGE\[2\] や [SuperSAGE](https://ja.wikipedia.org/wiki/:en:SuperSAGE "wikilink")\[3\] などが挙げられる。特に後者は 25-27 [塩基対の長いタグを用いることで](../Page/核酸.md "wikilink")、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の正確な[アノテーション](https://ja.wikipedia.org/wiki/アノテーション "wikilink")や[ゲノム](../Page/ゲノム.md "wikilink")からの新規遺伝子のより確実な発見を可能にする技術である。
+この技術は[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")の[がんセンターに勤務していた](../Page/悪性腫瘍.md "wikilink") [Victor Velculescu](https://ja.wikipedia.org/wiki/:en:Victor_Velculescu "wikilink") 博士によって開発され、1995年に[サイエンス](../Page/サイエンス.md "wikilink")誌に掲載された\[1\]。それ以降幾つかの派生的手法が報告されているが、有名な改良版としては LongSAGE\[2\] や [SuperSAGE](https://ja.wikipedia.org/wiki/:en:SuperSAGE "wikilink")\[3\] などが挙げられる。特に後者は 25-27 [塩基対の長いタグを用いることで](../Page/核酸.md "wikilink")、[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の正確な[アノテーション](../Page/アノテーション.md "wikilink")や[ゲノム](../Page/ゲノム.md "wikilink")からの新規遺伝子のより確実な発見を可能にする技術である。
 
 ## 手順の概要
 
 SAGE法の流れは以下の通り。
 
-1.  [腫瘍](https://ja.wikipedia.org/wiki/腫瘍 "wikilink")などの試料から mRNA を単離する。
+1.  [腫瘍](../Page/腫瘍.md "wikilink")などの試料から mRNA を単離する。
 2.  単離した mRNA の特定の位置から十～数十塩基対の配列（SAGEタグ）を分離する。
 3.  SAGEタグ連結してある程度の長さの配列（コンカテマー）を作成する。
 4.  コンカテマーを[ベクターに挿入し](../Page/ベクター_\(遺伝子工学\).md "wikilink")、[バクテリア](https://ja.wikipedia.org/wiki/バクテリア "wikilink")に導入して[クローニング](../Page/クローニング.md "wikilink")する。
@@ -20,7 +20,7 @@ SAGE法の流れは以下の通り。
 
 ## 分析
 
-SAGE法によって得られるデータは、短いSAGEタグの配列とそのカウント数の対応表である。タグの配列は[BLAST](https://ja.wikipedia.org/wiki/BLAST "wikilink")などの[データベース](../Page/データベース.md "wikilink")検索によって、出所となった mRNA （にコードされている遺伝子）と対応付けられる。
+SAGE法によって得られるデータは、短いSAGEタグの配列とそのカウント数の対応表である。タグの配列は[BLAST](../Page/BLAST.md "wikilink")などの[データベース](../Page/データベース.md "wikilink")検索によって、出所となった mRNA （にコードされている遺伝子）と対応付けられる。
 
 | SAGEタグ     | カウント数 | 対応する遺伝子                                    |
 | ---------- | ----- | ------------------------------------------ |
@@ -43,7 +43,7 @@ SAGE法によるデータの例（EMBL\[5\]より引用・一部翻訳）
 
 ## DNAマイクロアレイとの比較
 
-SAGE法と同様に遺伝子発現プロファイリングに用いられる技術としては[DNAマイクロアレイ](https://ja.wikipedia.org/wiki/DNAマイクロアレイ "wikilink")がある。しかしSAGE法はDNAシークエンシングに基づく技術であり、[蛍光](https://ja.wikipedia.org/wiki/蛍光 "wikilink")強度という[アナログ](../Page/アナログ.md "wikilink")で定性的なデータを生む[ハイブリダイゼーションとは異なる](https://ja.wikipedia.org/wiki/DNA_-_DNA分子交雑法 "wikilink")。またDNAマイクロアレイではアレイに用いる遺伝子の配列を解読しておかねばならないが、SAGE法では実験者が前もって mRNA の配列を知っておく必要は無い。そのためSAGE法は探索的であり、新奇の遺伝子が発見される可能性がある。コストの面ではDNAマイクロアレイの方がずっと有利であるが、一般にSAGE法ではそれほど大規模な解析は行われない。
+SAGE法と同様に遺伝子発現プロファイリングに用いられる技術としては[DNAマイクロアレイ](../Page/DNAマイクロアレイ.md "wikilink")がある。しかしSAGE法はDNAシークエンシングに基づく技術であり、[蛍光](../Page/蛍光.md "wikilink")強度という[アナログ](../Page/アナログ.md "wikilink")で定性的なデータを生む[ハイブリダイゼーションとは異なる](https://ja.wikipedia.org/wiki/DNA_-_DNA分子交雑法 "wikilink")。またDNAマイクロアレイではアレイに用いる遺伝子の配列を解読しておかねばならないが、SAGE法では実験者が前もって mRNA の配列を知っておく必要は無い。そのためSAGE法は探索的であり、新奇の遺伝子が発見される可能性がある。コストの面ではDNAマイクロアレイの方がずっと有利であるが、一般にSAGE法ではそれほど大規模な解析は行われない。
 
 ## 出典
 

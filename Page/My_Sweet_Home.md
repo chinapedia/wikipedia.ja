@@ -6,7 +6,7 @@
 ## 解説
 
   - 実父を亡くした実体験をもとに、小泉今日子自身が作詞をしている。
-  - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[スウィート・ホーム](../Page/スウィート・ホーム_\(テレビドラマ\).md "wikilink")』の主題歌となった、なお小泉自身は同ドラマに女優としての出演はしていない。
+  - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")『[スウィート・ホーム](../Page/スウィート・ホーム_\(テレビドラマ\).md "wikilink")』の主題歌となった、なお小泉自身は同ドラマに女優としての出演はしていない。
   - [オリコンチャート](../Page/オリコンチャート.md "wikilink")では初登場で4位（1週間のみ）を獲得し、45万枚近いセールスを記録する\[1\]。
   - ジャケットの[イラストなどは](../Page/イラストレーション.md "wikilink")[下條ユリ](https://ja.wikipedia.org/wiki/下條ユリ "wikilink")がすべてデザインをした。コーラスには前作「[優しい雨](../Page/優しい雨.md "wikilink")」を作曲した[鈴木祥子](../Page/鈴木祥子.md "wikilink")も参加している。
   - カップリング曲は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[はじめ人間ギャートルズ](../Page/ギャートルズ.md "wikilink")』のエンディングテーマとして使用された[ちのはじめの楽曲のカバー](../Page/若子内悦郎.md "wikilink")。1993年のアルバム『[TRAVEL ROCK](https://ja.wikipedia.org/wiki/TRAVEL_ROCK "wikilink")』に収録のものとは別バージョン。

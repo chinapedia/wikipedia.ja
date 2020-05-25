@@ -1,4 +1,4 @@
-> この記事は[HR](https://ja.wikipedia.org/wiki/HR)から翻訳されています。
+> この記事は[HR〜ほーむ・るーむ〜](https://ja.wikipedia.org/wiki/HR〜ほーむ・るーむ〜)から翻訳されています。
 
 
 『**HR〜ほーむ・るーむ〜**』は、[長月みそか](../Page/長月みそか.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。『[まんがタイムきららキャラット](../Page/まんがタイムきららキャラット.md "wikilink")』（[芳文社](../Page/芳文社.md "wikilink")刊）にて、[2005年](../Page/2005年.md "wikilink")6月号から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月号まで連載された。
@@ -116,4 +116,4 @@
     芳文社がコミックマーケットの企業ブースにて販売したイラスト集に掲載した描き下ろしイラスト。単行本第2巻に巻頭扉絵として収録。
     渓谷のキャンプ場の朝の光景。
 
-[Category:漫画作品_ほ](https://ja.wikipedia.org/wiki/Category:漫画作品_ほ "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:まんがタイムきらら](https://ja.wikipedia.org/wiki/Category:まんがタイムきらら "wikilink")
+[Category:漫画作品_ほ](https://ja.wikipedia.org/wiki/Category:漫画作品_ほ "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:まんがタイムきららの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムきららの4コマ漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink")

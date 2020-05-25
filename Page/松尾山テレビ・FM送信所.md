@@ -1,11 +1,11 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[松尾山テレビ・FM送信所](https://ja.wikipedia.org/wiki/松尾山テレビ・FM送信所)から翻訳されています。
 
 
-**松尾山テレビ・FM放送所**（まつおさんテレビ・エフエムほうそうしょ）は、[奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")と[斑鳩町](../Page/斑鳩町.md "wikilink")の境にある[松尾山に存在するテレビ](https://ja.wikipedia.org/wiki/松尾山_\(奈良県\) "wikilink")、ラジオ放送などの送信所である。
+**松尾山テレビ・FM放送所**（まつおさんテレビ・エフエムほうそうしょ）は、[奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")と[斑鳩町](../Page/斑鳩町.md "wikilink")の境にある[松尾山に存在するテレビ](https://ja.wikipedia.org/wiki/松尾山_\(奈良県\) "wikilink")、ラジオ放送などの送信所である。
 
 ## 概要
 
-松尾山には1970年前後に奈良県をエリアとするテレビジョン放送・FMラジオ放送の親局が設けられた。しかし、デジタル化に伴い、送信所の再編成が行われており、NHK教育(Eテレ)・奈良テレビ放送のデジタルテレビは、親局が[生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")東側中腹の[生駒山テレビ・FM送信所](../Page/生駒山テレビ・FM送信所.md "wikilink")に設置された。テレビに関しては、アナログ放送終了後はNHK奈良放送局の総合テレビのみが松尾山に送信施設を構える事になる。
+松尾山には1970年前後に奈良県をエリアとするテレビジョン放送・FMラジオ放送の親局が設けられた。しかし、デジタル化に伴い、送信所の再編成が行われており、NHK教育(Eテレ)・奈良テレビ放送のデジタルテレビは、親局が[生駒山](../Page/生駒山.md "wikilink")東側中腹の[生駒山テレビ・FM送信所](../Page/生駒山テレビ・FM送信所.md "wikilink")に設置された。テレビに関しては、アナログ放送終了後はNHK奈良放送局の総合テレビのみが松尾山に送信施設を構える事になる。
 
 ## 送信設備
 
@@ -19,14 +19,14 @@
 <th><p>コールサイン</p></th>
 <th><p>チャンネル<br />
 /周波数(MHz)</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p>ERP</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a><a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><a href="../Page/NHK奈良放送局.md" title="wikilink">奈良</a><a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>-</p></td>
 <td><p>JOUP-FM</p></td>
 <td><p>87.4</p></td>
@@ -35,7 +35,7 @@
 <td><p>|-</p></td>
 </tr>
 <tr class="even">
-<td><p>NHK奈良デジタル<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p>NHK奈良デジタル<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>1</p></td>
 <td><p>JOUP-DTV</p></td>
 <td><p>31</p></td>
@@ -44,7 +44,7 @@
 <td><p>約44万世帯</p></td>
 </tr>
 <tr class="odd">
-<td><p>NHK<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪アナログ</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">Eテレ</a><br />
+<td><p>NHK<a href="../Page/NHK大阪放送局.md" title="wikilink">大阪アナログ</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレ</a><br />
 奈良中継局</p></td>
 <td><p>アナログのためなし</p></td>
 <td><p>中継局のためなし</p></td>
@@ -87,7 +87,7 @@
 
   - [斑鳩町](../Page/斑鳩町.md "wikilink")
   - [生駒山テレビ・FM送信所](../Page/生駒山テレビ・FM送信所.md "wikilink")
-  - [生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")
+  - [生駒山](../Page/生駒山.md "wikilink")
   - [松尾山 (奈良県)](https://ja.wikipedia.org/wiki/松尾山_\(奈良県\) "wikilink")
   - [NHK奈良放送局](../Page/NHK奈良放送局.md "wikilink")
   - [奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - [飯盛山](../Page/飯盛山_\(生駒山地\).md "wikilink")
-  - [摩耶山送信所](https://ja.wikipedia.org/wiki/摩耶山送信所 "wikilink")
+  - [摩耶山送信所](../Page/摩耶山送信所.md "wikilink")
   - [比叡山](../Page/比叡山.md "wikilink")
   - [大津テレビ送信所・中継局](../Page/大津テレビ送信所・中継局.md "wikilink")
   - [和歌山テレビ送信所・中継局](../Page/和歌山テレビ送信所・中継局.md "wikilink")

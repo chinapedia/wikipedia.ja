@@ -1,11 +1,11 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SC船団](https://ja.wikipedia.org/wiki/SC船団)から翻訳されています。
 
 
-**SC船団**とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に北大西洋で運航された[連合国側の](../Page/連合国_\(第二次世界大戦\).md "wikilink")[護送船団](https://ja.wikipedia.org/wiki/護送船団 "wikilink")である。
+**SC船団**とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に北大西洋で運航された[連合国側の](../Page/連合国_\(第二次世界大戦\).md "wikilink")[護送船団](../Page/護送船団.md "wikilink")である。
 
-SC船団は、[ケープ・ブレトン島](https://ja.wikipedia.org/wiki/ケープ・ブレトン島 "wikilink")の[シドニーから](https://ja.wikipedia.org/wiki/シドニー_\(ノバスコシア州\) "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の港、主に[リヴァプール](../Page/リヴァプール.md "wikilink")へ向かう、東行きの低速船団であった。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の参戦後は船団の出発地は[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")に変更された。しかし、それも船舶の渋滞のために変更となり、次は[ノバスコシア州](../Page/ノバスコシア州.md "wikilink")の[ハリファックス](https://ja.wikipedia.org/wiki/ハリファックス "wikilink")になった。出発地が変わっても名称はSCのままであった。
+SC船団は、[ケープ・ブレトン島](../Page/ケープ・ブレトン島.md "wikilink")の[シドニーから](https://ja.wikipedia.org/wiki/シドニー_\(ノバスコシア州\) "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の港、主に[リヴァプール](../Page/リヴァプール.md "wikilink")へ向かう、東行きの低速船団であった。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の参戦後は船団の出発地は[ニューヨーク](../Page/ニューヨーク.md "wikilink")に変更された。しかし、それも船舶の渋滞のために変更となり、次は[ノバスコシア州](../Page/ノバスコシア州.md "wikilink")の[ハリファックス](https://ja.wikipedia.org/wiki/ハリファックス "wikilink")になった。出発地が変わっても名称はSCのままであった。
 
-SC船団は1939年9月から1945年5月までの間運航された。ただし1944年の夏は多くの護衛艦艇が[ノルマンディー上陸作戦](https://ja.wikipedia.org/wiki/ノルマンディー上陸作戦 "wikilink")に投入されたため、この期間は東行きの船団はすべてとして運航され、船団の規模は倍となった。
+SC船団は1939年9月から1945年5月までの間運航された。ただし1944年の夏は多くの護衛艦艇が[ノルマンディー上陸作戦](../Page/ノルマンディー上陸作戦.md "wikilink")に投入されたため、この期間は東行きの船団はすべてとして運航され、船団の規模は倍となった。
 
 戦争中に177のSC船団が運航された。船の総数は合計6,806隻であった。3つの船団が航海を完了できなかった。SC52船団は出発後すぐに攻撃を受け引き返さざるを得なくなった。SC62船団とSC63船団は悪天候のためばらばらになってしまい、船団の船は単独で航行することとなった。
 

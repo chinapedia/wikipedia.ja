@@ -1,15 +1,15 @@
 > この記事は[TUTTI](https://ja.wikipedia.org/wiki/TUTTI)から翻訳されています。
 
 
-『**TUTTI**』（トゥッティ）は、[GOING UNDER GROUNDの](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")発売。
+『**TUTTI**』（トゥッティ）は、[GOING UNDER GROUNDの](../Page/GOING_UNDER_GROUND.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")より[2006年](../Page/2006年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")発売。
 
 ## 解説
 
   - メジャー5枚目のオリジナルアルバム。タイトルの"TUTTI"とは「みんな一緒に、全合奏で」を意味する[イタリア語](../Page/イタリア語.md "wikilink")。
-  - [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")や[ソフトシンセによる](https://ja.wikipedia.org/wiki/ソフトウェア・シンセサイザー "wikilink")[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")が多用されている。
-  - 全14曲収録で、オリジナルのアルバムでは最も収録曲が多い。またドラムの[河野丈洋](https://ja.wikipedia.org/wiki/河野丈洋 "wikilink")が作詞・作曲を手がけた作品も5曲（[松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")との合作を合わせると6曲）と全アルバム中最多である。
+  - [打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")や[ソフトシンセによる](../Page/ソフトウェア・シンセサイザー.md "wikilink")[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")が多用されている。
+  - 全14曲収録で、オリジナルのアルバムでは最も収録曲が多い。またドラムの[河野丈洋](../Page/河野丈洋.md "wikilink")が作詞・作曲を手がけた作品も5曲（[松本素生](../Page/松本素生.md "wikilink")との合作を合わせると6曲）と全アルバム中最多である。
   - ジャケットの写真には5体のテディベアが登場。歌詞カードではこのテディベアをメンバーがそれぞれ一体ずつ持った写真が使われている（このうち松本の持つ一体は[Happy Birthdayのジャケット及びビデオクリップにも登場している](https://ja.wikipedia.org/wiki/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\) "wikilink")）。
-  - 初回盤は[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")仕様となっており、「STAND BY ME」、「きらり」、「Happy Birthday」のビデオクリップが収録されている。また予約特典で[宮尾和孝](https://ja.wikipedia.org/wiki/宮尾和孝 "wikilink")が描いた収録曲をモチーフとしたポストカード全14枚のうち1枚＋店舗限定ポストカード（こちらは店舗によっては無い場合もあった）が封入されていた。
+  - 初回盤は[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")仕様となっており、「STAND BY ME」、「きらり」、「Happy Birthday」のビデオクリップが収録されている。また予約特典で[宮尾和孝](../Page/宮尾和孝.md "wikilink")が描いた収録曲をモチーフとしたポストカード全14枚のうち1枚＋店舗限定ポストカード（こちらは店舗によっては無い場合もあった）が封入されていた。
   - シングル「きらり」の両A面だった「トゥモロウズソング」は未収録となっている。
 
 ## 収録曲
@@ -17,15 +17,15 @@
 1.  **Primary Music**
       -
         作曲:河野丈洋
-        [インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。ちなみにこの曲はGOINGのインスト曲の中では最長。
+        [インストゥルメンタル](../Page/器楽曲.md "wikilink")。ちなみにこの曲はGOINGのインスト曲の中では最長。
 2.  **パスポート**
       -
-        作詞:[松本素生](https://ja.wikipedia.org/wiki/松本素生 "wikilink")、作曲:松本素生・河野丈洋
+        作詞:松本素生、作曲:松本素生・河野丈洋
         アルバム宣伝用CMに使われた。
 3.  **[STAND BY ME](https://ja.wikipedia.org/wiki/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
       -
         作詞・作曲:松本素生
-        11thシングル。[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")『[三ツ矢サイダー](https://ja.wikipedia.org/wiki/三ツ矢サイダー "wikilink")』[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度CMソング。
+        11thシングル。[アサヒ飲料](../Page/アサヒ飲料.md "wikilink")『[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")』[2005年](../Page/2005年.md "wikilink")度CMソング。
 4.  **キャンディ**
       -
         作詞・作曲:河野丈洋
@@ -33,7 +33,7 @@
 5.  **口笛どろぼう**
       -
         作詞・作曲:松本素生
-        キーボード・[伊藤が](https://ja.wikipedia.org/wiki/伊藤洋一_\(ミュージシャン\) "wikilink")[鉄琴](https://ja.wikipedia.org/wiki/鉄琴 "wikilink")を担当している。
+        キーボード・伊藤洋一が[鉄琴](https://ja.wikipedia.org/wiki/鉄琴 "wikilink")を担当している。
 6.  **シグナル**
       -
         作詞・作曲:松本素生
@@ -43,17 +43,17 @@
 7.  **南十字**
       -
         作詞・作曲:河野丈洋
-        [NTTドコモ東海キャンペーンCMソング](https://ja.wikipedia.org/wiki/エヌ・ティ・ティ・ドコモ東海 "wikilink")。
-        中澤と河野が一部ボーカルを担当。
+        [NTTドコモ東海キャンペーンCMソング](../Page/エヌ・ティ・ティ・ドコモ東海.md "wikilink")。
+        中澤寛規と河野が一部ボーカルを担当。
 8.  **愛をちょうだいな**
       -
         作詞・作曲:松本素生
-        三原重夫([スターリン](https://ja.wikipedia.org/wiki/ザ・スターリン "wikilink"))が[パーカッション](../Page/パーカッション.md "wikilink")で参加している。
+        三原重夫([スターリン](../Page/ザ・スターリン.md "wikilink"))が[パーカッション](../Page/パーカッション.md "wikilink")で参加している。
 9.  **ノラ**
       -
         作詞・作曲:河野丈洋
         ライブで演奏される際には、間奏でメンバーが自己紹介のラップを披露することがある。
-        このラップ入りバージョンは「ノラップ」と呼ばれる。その模様はライブDVD『[GOING UNDER GROUND TOUR TUTTI at BUDOKAN](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND_TOUR_TUTTI_at_BUDOKAN "wikilink")』に収録されている。[トランペット](../Page/トランペット.md "wikilink")でタブゾンビ([SOIL&"PIMP"SESSIONS](https://ja.wikipedia.org/wiki/SOIL&"PIMP"SESSIONS "wikilink"))が参加している。
+        このラップ入りバージョンは「ノラップ」と呼ばれる。その模様はライブDVD『[GOING UNDER GROUND TOUR TUTTI at BUDOKAN](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND_TOUR_TUTTI_at_BUDOKAN "wikilink")』に収録されている。[トランペット](../Page/トランペット.md "wikilink")でタブゾンビ([SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink"))が参加している。
 10. **[Happy Birthday](https://ja.wikipedia.org/wiki/Happy_Birthday_\(GOING_UNDER_GROUNDの曲\) "wikilink")**
       -
         作詞・作曲:松本素生
@@ -64,7 +64,7 @@
 12. **orion**
       -
         作詞・作曲:松本素生
-        ベース・[石原が](https://ja.wikipedia.org/wiki/石原聡 "wikilink")[口笛](https://ja.wikipedia.org/wiki/口笛 "wikilink")を担当している。
+        ベース・石原聡が[口笛](../Page/口笛.md "wikilink")を担当している。
 13. **[きらり](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")**
       -
         作詞・作曲:松本素生

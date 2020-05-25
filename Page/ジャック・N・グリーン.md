@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[ジャック・N・グリーン](https://ja.wikipedia.org/wiki/ジャック・N・グリーン)から翻訳されています。
 
 
 **ジャック・N・グリーン**（Jack N. Green、本名：John Newton Green、[1946年](../Page/1946年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身の映画撮影監督・映画監督。ピーター、ヘザー、ライアンの3人の子供も撮影クルーとして活躍している。[クリント・イーストウッド](../Page/クリント・イーストウッド.md "wikilink")作品の撮影でも知られている。
@@ -27,6 +27,7 @@
   - [ブルドッグ](https://ja.wikipedia.org/wiki/ブルドッグ_\(2003年の映画\) "wikilink") *A Man Apart* (2003)
   - [ウォルター少年と、夏の休日](../Page/ウォルター少年と、夏の休日.md "wikilink") *Secondhand Lions* (2003)
   - [50回目のファースト・キス](../Page/50回目のファースト・キス.md "wikilink") *50 First Dates* (2004)
+  - [ファイティング×ガール](../Page/ファイティング×ガール.md "wikilink") *Against the Ropes* (2004)
   - [40歳の童貞男](../Page/40歳の童貞男.md "wikilink") *The 40 Year Old Virgin* (2005)
   - [セレニティー](https://ja.wikipedia.org/wiki/セレニティー_\(2005年の映画\) "wikilink") *Serenity* (2005)
   - *Are We Done Yet?* (2007)

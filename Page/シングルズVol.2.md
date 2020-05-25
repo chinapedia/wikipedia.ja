@@ -1,7 +1,7 @@
-> この記事は[Vol.2](https://ja.wikipedia.org/wiki/Vol.2)から翻訳されています。
+> この記事は[シングルズVol.2](https://ja.wikipedia.org/wiki/シングルズVol.2)から翻訳されています。
 
 
-**シングルズVol.2**(**Singles Volume 2**)は、2003年に発表された[エルヴィス・コステロ](https://ja.wikipedia.org/wiki/エルヴィス・コステロ "wikilink")の過去のシングルを集めたアルバム。
+**シングルズVol.2**(**Singles Volume 2**)は、2003年に発表された[エルヴィス・コステロ](../Page/エルヴィス・コステロ.md "wikilink")の過去のシングルを集めたアルバム。
 
 ## 収録曲
 

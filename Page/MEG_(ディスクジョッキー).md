@@ -1,11 +1,11 @@
-> この記事は[MEG \(\)](https://ja.wikipedia.org/wiki/MEG_\(\))から翻訳されています。
+> この記事は[MEG \(ディスクジョッキー\)](https://ja.wikipedia.org/wiki/MEG_\(ディスクジョッキー\))から翻訳されています。
 
 
 **MEG**（メグ、[1973年](../Page/1973年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink") - ）は、ラジオ[DJである](../Page/ディスクジョッキー.md "wikilink")。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。O型。二児の母。
 
 ## 人物
 
-  - 3か国語（[熊本弁](../Page/熊本弁.md "wikilink")、[日本語](../Page/日本語.md "wikilink")、[英語](../Page/英語.md "wikilink")）を使い分け、トークを繰り広げる。
+  - 2か国語（[日本語](../Page/日本語.md "wikilink")、[熊本弁](../Page/熊本弁.md "wikilink")、[英語](../Page/英語.md "wikilink")）を使い分け、トークを繰り広げる。
   - 過去にCDもリリースしている。
   - [2009年](../Page/2009年.md "wikilink")にMAIKAIというバンドを結成しボーカリストとして熊本市内のライブハウスを中心に活動している。
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
   - [FMKパンゲア\!](../Page/FMKパンゲア!.md "wikilink")（月～木曜11:30～14:34）月曜担当
-  - [宇土シティモール ハミングライフ2](https://ja.wikipedia.org/wiki/宇土シティモール_ハミングライフ2 "wikilink")（金曜11:30～11:55）
+  - [宇土シティモール ハミングライフ](https://ja.wikipedia.org/wiki/宇土シティモール_ハミングライフ "wikilink")（金曜11:30～11:55）
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [カジサックのじゃないと！](https://ja.wikipedia.org/wiki/カジサックのじゃないと！ "wikilink")（金曜24:30～24:59）ナレーション担当
+  - [カジサックのじゃないと](../Page/カジサックのじゃないと.md "wikilink")（金曜24:30～24:59）ナレーション担当
 
 ## 過去の担当番組
 

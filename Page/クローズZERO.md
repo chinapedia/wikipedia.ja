@@ -1,4 +1,4 @@
-> この記事は[ZERO](https://ja.wikipedia.org/wiki/ZERO)から翻訳されています。
+> この記事は[クローズZERO](https://ja.wikipedia.org/wiki/クローズZERO)から翻訳されています。
 
 
 『**クローズZERO**』（クローズゼロ）は、[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")の漫画『[クローズ](../Page/クローズ.md "wikilink")』を原作とした[2007年](../Page/2007年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。[PG-12指定](../Page/映画のレイティングシステム.md "wikilink")。[2009年](../Page/2009年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")公開の続編『**クローズZERO II**』、[2014年](../Page/2014年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")公開のシリーズ第3作『**クローズEXPLODE**』や、『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）で連載された漫画についてもここで扱う。
@@ -467,7 +467,7 @@
 
 ## 外部リンク
 
-  - [公式ブログ](http://ameblo.jp/crows-zero/)
+  - [公式ブログ](https://ameblo.jp/crows-zero/)
 
   - [クラウンジュエル限定コンテンツ](http://www.crownjewel.co.jp/other.command?url=/special/crows/index.html)
 

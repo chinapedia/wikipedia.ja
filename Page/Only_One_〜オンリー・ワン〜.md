@@ -1,4 +1,4 @@
-> この記事は[Only One ](https://ja.wikipedia.org/wiki/Only_One_)から翻訳されています。
+> この記事は[Only One 〜オンリー・ワン〜](https://ja.wikipedia.org/wiki/Only_One_〜オンリー・ワン〜)から翻訳されています。
 
 
 「**Only One 〜オンリー・ワン〜**」（オンリー・ワン）は、日本の女性歌手、[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")の18枚目の[シングル](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")。
@@ -6,7 +6,7 @@
 ## 解説
 
   - [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりリリースされた。
-  - [サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")「[ハローキティ](../Page/ハローキティ.md "wikilink") ドリーム レビューワン」テーマ・ソング。同レビューの演出を行った[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")からの依頼で、広瀬が楽曲を制作した\[1\]。
+  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「[ハローキティ](../Page/ハローキティ.md "wikilink") ドリーム レビューワン」テーマ・ソング。同レビューの演出を行った[宮本亜門](https://ja.wikipedia.org/wiki/宮本亜門 "wikilink")からの依頼で、広瀬が楽曲を制作した\[1\]。
   - 楽曲は2分40秒程度で、比較的短い。
   - ハローキティに関する楽曲であるためか、広瀬のアルバムには含まれることが少ない。
 
@@ -14,7 +14,7 @@
 
 1.  Only One 〜オンリー・ワン〜
       -
-        作詞・作曲：[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、編曲：[吉俣良](https://ja.wikipedia.org/wiki/吉俣良 "wikilink")
+        作詞・作曲：[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")、編曲：[吉俣良](../Page/吉俣良.md "wikilink")
 2.  Only One 〜オンリー・ワン〜 （インストゥルメンタル）
       -
         作曲：広瀬香美、編曲：吉俣良

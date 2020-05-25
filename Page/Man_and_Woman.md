@@ -1,11 +1,11 @@
 > この記事は[Man and Woman](https://ja.wikipedia.org/wiki/Man_and_Woman)から翻訳されています。
 
 
-「**Man and Woman**」（マン・アンド・ウーマン）は、[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")47枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に発売された。発売元は[ユニバーサル シグマ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**Man and Woman**」（マン・アンド・ウーマン）は、[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")47枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に発売された。発売元は[ユニバーサル シグマ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
-本作は3万枚限定生産で、「**[Here & There](https://ja.wikipedia.org/wiki/Here_&_There "wikilink")**」と同時発売された\[1\]。
+本作は3万枚限定生産で、「**[Here & There](../Page/Here_&_There.md "wikilink")**」と同時発売された\[1\]。
 
 製品番号は｢Man and Woman｣（UMCK-9155）、｢Here & There｣（UMCK-9156）であり、本作の方が先にクレジットされる\[2\]。
 
@@ -16,12 +16,12 @@
 1.  **Man and Woman**
     （作詞：[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")　作曲：ASKA　編曲：澤近泰輔）
       -
-        [TBS系](../Page/TBSテレビ.md "wikilink")『[2時っチャオ\!](https://ja.wikipedia.org/wiki/2時っチャオ! "wikilink")』エンディングテーマ。また、[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        [TBS系](../Page/TBSテレビ.md "wikilink")『[2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")』エンディングテーマ。また、[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink")。
         「Here & There」にはオーケストラ・バージョンが収録されている。
 2.  **Here & There - improvisation mix**
-    （作曲：[CHAGE](https://ja.wikipedia.org/wiki/Chage "wikilink")・村田努　編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
+    （作曲：[CHAGE](../Page/Chage.md "wikilink")・村田努　編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
       -
-        「Here & There」の[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")・バージョン。"improvisation"とは即興という意味があり、十川知司[アレンジの](../Page/編曲.md "wikilink")[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")を元に[スクラッチ](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")、ジャズ・ギターの演奏と、元[PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink")の[CHAKA](https://ja.wikipedia.org/wiki/CHAKA "wikilink")による[ラップ](../Page/ラップ.md "wikilink")が録音されている。
+        「Here & There」の[インストゥルメンタル](../Page/器楽曲.md "wikilink")・バージョン。"improvisation"とは即興という意味があり、十川知司[アレンジの](../Page/編曲.md "wikilink")[リミックス](../Page/リミックス.md "wikilink")を元に[スクラッチ](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")、ジャズ・ギターの演奏と、元[PSY・S](../Page/PSY・S.md "wikilink")の[CHAKA](https://ja.wikipedia.org/wiki/CHAKA "wikilink")による[ラップ](../Page/ラップ.md "wikilink")が録音されている。
         アルバム未収録。
 
 ## 参加ミュージシャン
@@ -29,9 +29,9 @@
 **Man and Woman**
 
   - [drums](../Page/ドラムセット.md "wikilink")：[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")
-  - [bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：[恵美直也](https://ja.wikipedia.org/wiki/恵美直也 "wikilink")
+  - [bass](../Page/ベース_\(弦楽器\).md "wikilink")：[恵美直也](https://ja.wikipedia.org/wiki/恵美直也 "wikilink")
   - [guitars](../Page/ギター.md "wikilink")：鈴川真樹
-  - [keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")/[programming](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")：澤近泰輔
+  - [keyboards](../Page/キーボード_\(楽器\).md "wikilink")/[programming](../Page/マニピュレーター.md "wikilink")：澤近泰輔
   - [strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：後藤勇一郎ストリングス
 
 **Here & There - improvisation mix**

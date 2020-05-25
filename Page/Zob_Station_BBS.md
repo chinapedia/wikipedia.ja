@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")3月に開局。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")にホストを置く。
+[1992年](../Page/1992年.md "wikilink")3月に開局。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")にホストを置く。
 
 [マイコン](../Page/マイコン.md "wikilink")関係の同好会「ZOBplus」が開局・運営しており、これが名前の由来である。
 
@@ -29,6 +29,6 @@
 
   - [zmm viewer](http://www.zob.jp/zmm/zmm.php):ウェブブラウザ経由でのログ閲覧(会員IDとパスワードの入力が必要)
   - [interZet express](http://www.zob.jp/)(現在のサーバ)
-  - [運営スタッフのブログによる終了告知](http://ameblo.jp/neopara/entry-10447650771.html)
+  - [運営スタッフのブログによる終了告知](https://ameblo.jp/neopara/entry-10447650771.html)
 
 [Category:パソコン通信](https://ja.wikipedia.org/wiki/Category:パソコン通信 "wikilink")

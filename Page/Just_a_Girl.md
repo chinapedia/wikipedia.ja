@@ -1,11 +1,11 @@
 > この記事は[Just a Girl](https://ja.wikipedia.org/wiki/Just_a_Girl)から翻訳されています。
 
 
-『**Just a Girl**』（ジャスト・ア・ガール）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")5枚目のオリジナルアルバム。[2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。発売元は[イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン#社内レーベル "wikilink")、販売元は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。CDコードはAMCN-4565。
+『**Just a Girl**』（ジャスト・ア・ガール）は、[BONNIE PINKの通算](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")5枚目のオリジナルアルバム。[2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。発売元は[イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン#社内レーベル "wikilink")、販売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。CDコードはAMCN-4565。
 
 ## 概要
 
-『[Let go](https://ja.wikipedia.org/wiki/Let_go "wikilink")』から1年6ヶ月ぶりとなるオリジナルアルバム。日本人のミュージシャンがプロデュースした曲が多い。本アルバムから、[BONNIE PINK自身がサウンドプロデュースにも参加](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")、セルフプロデュースの作品が登場している。レコーディングは日本国内、[ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")は[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で行われた。（8.はレコーディングも[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")。）
+『[Let go](https://ja.wikipedia.org/wiki/Let_go "wikilink")』から1年6ヶ月ぶりとなるオリジナルアルバム。日本人のミュージシャンがプロデュースした曲が多い。本アルバムから、[BONNIE PINK自身がサウンドプロデュースにも参加](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")、セルフプロデュースの作品が登場している。レコーディングは日本国内、[ミキシング](../Page/ミキシング.md "wikilink")は[ニューヨーク](../Page/ニューヨーク.md "wikilink")で行われた。（8.はレコーディングも[ニューヨーク](../Page/ニューヨーク.md "wikilink")。）
 
 初回限定盤は特殊ケース仕様で、CDにはパソコン用の「BONNIE'S TIME TRAVEL SCREEN SAVER」が付いている。
 
@@ -18,8 +18,8 @@
 3.  **Building a Castle** （3:14）
 4.  **[Thinking Of You](https://ja.wikipedia.org/wiki/Thinking_Of_You_\(BONNIE_PINKの曲\) "wikilink")**（Album Mix） （4:58）
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列「[人気者でいこう\!](https://ja.wikipedia.org/wiki/人気者でいこう! "wikilink")」エンディングテーマ
-        シングル・ヴァージョンをアルバム用に[ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")している。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列「[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")」エンディングテーマ
+        シングル・ヴァージョンをアルバム用に[ミキシング](../Page/ミキシング.md "wikilink")している。
 5.  **コイン** （3:27）
 6.  **LIVE LIFE**（Interlude） （0:32）
 7.  **再生** （3:52）

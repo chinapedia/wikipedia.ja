@@ -1,7 +1,7 @@
-> この記事は[IBC](https://ja.wikipedia.org/wiki/IBC)から翻訳されています。
+> この記事は[IBC岩手放送矢巾ラジオ送信所](https://ja.wikipedia.org/wiki/IBC岩手放送矢巾ラジオ送信所)から翻訳されています。
 
 
-[IBC_Yahaba_Radio_Station3.jpg](https://ja.wikipedia.org/wiki/File:IBC_Yahaba_Radio_Station3.jpg "fig:IBC_Yahaba_Radio_Station3.jpg") **IBC岩手放送矢巾ラジオ送信所**（アイビーシーいわてほうそうやはばラジオそうしんじょ）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")が管理・運営する[中波ラジオ](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[送信所](../Page/送信所.md "wikilink")である。
+[IBC_Yahaba_Radio_Station3.jpg](https://ja.wikipedia.org/wiki/File:IBC_Yahaba_Radio_Station3.jpg "fig:IBC_Yahaba_Radio_Station3.jpg") **IBC岩手放送矢巾ラジオ送信所**（アイビーシーいわてほうそうやはばラジオそうしんじょ）は、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")が管理・運営する[中波ラジオ](https://ja.wikipedia.org/wiki/ラジオ#中波放送（AM放送） "wikilink")[送信所](../Page/送信所.md "wikilink")である。
 
 ## 所在地
 
@@ -27,7 +27,7 @@
 <tr class="odd">
 <td><p>684kHz</p></td>
 <td><p>IBC<br />
-<a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td><p>JODF</p></td>
 <td><p>5kW</p></td>
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
@@ -55,7 +55,7 @@
 
 ## 関連項目
 
-  - [IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [新山 (紫波町)](../Page/新山_\(紫波町\).md "wikilink") - IBCテレビの送信所が置かれている山
   - [NHK矢巾ラジオ放送所](https://ja.wikipedia.org/wiki/NHK矢巾ラジオ放送所 "wikilink") - 同じ矢巾町内に置かれている[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")ラジオ第1・第2放送主幹送信所。
 

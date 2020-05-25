@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハートリプール・ユナイテッドFC](https://ja.wikipedia.org/wiki/ハートリプール・ユナイテッドFC)から翻訳されています。
 
 
-**ハートリプール・ユナイテッド・フットボール・クラブ**（**Hartlepool United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")北東部、[ダラム内](https://ja.wikipedia.org/wiki/ダラム_\(カウンティ\) "wikilink")、[ハートリプール](https://ja.wikipedia.org/wiki/ハートリプール "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
+**ハートリプール・ユナイテッド・フットボール・クラブ**（**Hartlepool United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")北東部、[ダラム内](../Page/ダラム_\(カウンティ\).md "wikilink")、[ハートリプール](https://ja.wikipedia.org/wiki/ハートリプール "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
 
 ## 名称変更
 
@@ -79,7 +79,7 @@
 
   - [ゲオフ・トゥエンティマン](https://ja.wikipedia.org/wiki/ゲオフ・トゥエンティマン "wikilink") 1965.6.1 - 1969.10.29
 
-  - [ブライアン・クラフ](https://ja.wikipedia.org/wiki/ブライアン・クラフ "wikilink") 1965.10.29 - 1967.6.5
+  - [ブライアン・クラフ](../Page/ブライアン・クラフ.md "wikilink") 1965.10.29 - 1967.6.5
 
   - [アンガス・マクレーン](https://ja.wikipedia.org/wiki/アンガス・マクレーン "wikilink") 1967.6.5 - 1970.4.24
 
@@ -141,7 +141,7 @@
 
   - [スティーヴ・ハーパー](https://ja.wikipedia.org/wiki/スティーヴ・ハーパー "wikilink") 1997
 
-  - [ノルベルト・ソラーノ](https://ja.wikipedia.org/wiki/ノルベルト・ソラーノ "wikilink") 2011-2012
+  - [ノルベルト・ソラーノ](../Page/ノルベルト・ソラーノ.md "wikilink") 2011-2012
 
 ## 外部リンク
 

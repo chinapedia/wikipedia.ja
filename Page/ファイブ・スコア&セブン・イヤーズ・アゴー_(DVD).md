@@ -1,4 +1,4 @@
-> この記事は[\& \(DVD\)](https://ja.wikipedia.org/wiki/\&_\(DVD\))から翻訳されています。
+> この記事は[ファイブ・スコア\&セブン・イヤーズ・アゴー \(DVD\)](https://ja.wikipedia.org/wiki/ファイブ・スコア\&セブン・イヤーズ・アゴー_\(DVD\))から翻訳されています。
 
 
 **ファイブ・スコア&セブン・イヤーズ・アゴー**（Five Score and Seven Years Ago）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[クリスチャン・ロック](../Page/クリスチャン・ロック.md "wikilink")、[リライアントK](../Page/リライアントK.md "wikilink")による、[2007年](../Page/2007年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")発売のDVDアルバム。

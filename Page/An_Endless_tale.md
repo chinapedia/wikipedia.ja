@@ -1,22 +1,22 @@
 > この記事は[An Endless tale](https://ja.wikipedia.org/wiki/An_Endless_tale)から翻訳されています。
 
 
-「**an Endless tale**」（アン エンドレス テイル）は、[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink")&[AiMによるデュエット](../Page/前田愛_\(声優\).md "wikilink")・シングル。
+「**an Endless tale**」（アン エンドレス テイル）は、[和田光司](../Page/和田光司.md "wikilink")&[AiMによるデュエット](../Page/前田愛_\(声優\).md "wikilink")・シングル。
 
 2002年11月22日にリリース。発売元は[NECインターチャネル](https://ja.wikipedia.org/wiki/インデックスミュージック "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")（NECM-12038）
 
-[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[デジモンフロンティア](https://ja.wikipedia.org/wiki/デジモンフロンティア "wikilink")』の後期エンディングテーマ。歌っているのは、それまでアニメ『[デジモンシリーズ](https://ja.wikipedia.org/wiki/デジタルモンスター "wikilink")』でオープニングとエンディングをそれぞれ歌ってきた和田光司とAiMによる。両者にとっては初めてのデュエットとなった。
+[フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[デジモンフロンティア](../Page/デジモンフロンティア.md "wikilink")』の後期エンディングテーマ。歌っているのは、それまでアニメ『[デジモンシリーズ](../Page/デジタルモンスター.md "wikilink")』でオープニングとエンディングをそれぞれ歌ってきた和田光司とAiMによる。両者にとっては初めてのデュエットとなった。
 
 ## 収録曲
 
 1.  **an Endless tale**
       -
         歌：和田光司\&AiM
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink") 演奏時間：3分42秒
+        [作詞](../Page/作詞.md "wikilink")：[山田ひろし](../Page/山田ひろし.md "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[太田美知彦](../Page/太田美知彦.md "wikilink") 演奏時間：3分42秒
 2.  **遥かな贈りもの**
       -
         歌：和田光司\&AiM
-        作詞：[大森祥子](https://ja.wikipedia.org/wiki/大森祥子 "wikilink") 作曲：[千綿偉功](https://ja.wikipedia.org/wiki/千綿ヒデノリ "wikilink") 編曲：[渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink") 演奏時間：4分23秒
+        作詞：[大森祥子](https://ja.wikipedia.org/wiki/大森祥子 "wikilink") 作曲：[千綿偉功](https://ja.wikipedia.org/wiki/千綿ヒデノリ "wikilink") 編曲：[渡部チェル](../Page/渡部チェル.md "wikilink") 演奏時間：4分23秒
 3.  an Endless tale（Original Karaoke）
 4.  遥かな贈りもの（Original Karaoke）
 

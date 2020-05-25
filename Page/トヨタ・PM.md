@@ -1,4 +1,4 @@
-> この記事は[PM](https://ja.wikipedia.org/wiki/PM)から翻訳されています。
+> この記事は[トヨタ・PM](https://ja.wikipedia.org/wiki/トヨタ・PM)から翻訳されています。
 
 
 **PM**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が開発した[コンセプトカー](../Page/コンセプトカー.md "wikilink")である。

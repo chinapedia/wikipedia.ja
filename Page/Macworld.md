@@ -1,7 +1,7 @@
 > この記事は[Macworld](https://ja.wikipedia.org/wiki/Macworld)から翻訳されています。
 
 
-**Macworld**とは、[アップル製品とソフトウェアを扱うウェブサイト](../Page/アップル_\(企業\).md "wikilink")。かつて、月刊[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")を発行していた。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に本社を構える[Mac Publishingが発行している](https://ja.wikipedia.org/wiki/Mac_Publishing "wikilink")。1984年に創刊して以降、[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")のマッキントッシュ雑誌では最大の監査済み発行部数（総計、売店両方）を誇っており競合する[Mac<nowiki>](https://ja.wikipedia.org/wiki/MacLife "wikilink")（旧名:MacAddict）の2倍となっていた。Macworldは（発行人）、（編集者）によって創刊。発行中のマッキントッシュ雑誌では最古であった。2014年11月号で休刊\[1\]。
+**Macworld**とは、[アップル製品とソフトウェアを扱うウェブサイト](../Page/アップル_\(企業\).md "wikilink")。かつて、月刊[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")を発行していた。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")に本社を構える[Mac Publishingが発行している](https://ja.wikipedia.org/wiki/Mac_Publishing "wikilink")。1984年に創刊して以降、[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")のマッキントッシュ雑誌では最大の監査済み発行部数（総計、売店両方）を誇っており競合する[Mac<nowiki>](https://ja.wikipedia.org/wiki/MacLife "wikilink")（旧名:MacAddict）の2倍となっていた。Macworldは（発行人）、（編集者）によって創刊。発行中のマッキントッシュ雑誌では最古であった。2014年11月号で休刊\[1\]。
 
 ## 歴史
 
@@ -15,7 +15,7 @@ Macworldは[Macworld](http://www.macworld.com/), [Playlist](http://www.playlistm
 
 ## ポッドキャスト
 
-Macworld PodcastとはMacworldが隔週配信している[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")である。司会は副編集長の[クリス・ビーン](https://ja.wikipedia.org/wiki/クリス・ビーン "wikilink")が務めており、主にMacworldの編集者や他のMacに関する有名人へのインタビューを行なっている。ジェイソン・スネル編集ディレクターが常連ゲストでありまれにゲスト司会を務めることがある。かつてはサイラス・ファリバーが司会だった。
+Macworld PodcastとはMacworldが隔週配信している[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")である。司会は副編集長の[クリス・ビーン](https://ja.wikipedia.org/wiki/クリス・ビーン "wikilink")が務めており、主にMacworldの編集者や他のMacに関する有名人へのインタビューを行なっている。ジェイソン・スネル編集ディレクターが常連ゲストでありまれにゲスト司会を務めることがある。かつてはサイラス・ファリバーが司会だった。
 
 Macworld Podcastは2005年4月26日に「Geek Factor Podcast」として配信を開始したが、同年8月の第5回より公式に「Macworld Podcast」に改称した。
 

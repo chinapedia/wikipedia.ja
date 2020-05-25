@@ -3,7 +3,7 @@
 
 #### 新着項目
 
-<small> **2020年** 4/24 [コシジロイソヒヨドリ](https://ja.wikipedia.org/wiki/コシジロイソヒヨドリ "wikilink") 4/23 [セアカジョウビタキ](https://ja.wikipedia.org/wiki/セアカジョウビタキ "wikilink") 4/22 [ミヤマヒタキ](https://ja.wikipedia.org/wiki/ミヤマヒタキ "wikilink") 4/20 [ムナフヒタキ](../Page/ムナフヒタキ.md "wikilink") 4/19 [コチャバラオオルリ](../Page/コチャバラオオルリ.md "wikilink") 4/18 [チャバラオオルリ](../Page/チャバラオオルリ.md "wikilink") 2/14 [スミインコ](../Page/スミインコ.md "wikilink") 2/7 [アカマユインコ](../Page/アカマユインコ.md "wikilink") 2/4 [コシジロインコ](../Page/コシジロインコ.md "wikilink")
+<small> **2020年** 4/24 [コシジロイソヒヨドリ](../Page/コシジロイソヒヨドリ.md "wikilink") 4/23 [セアカジョウビタキ](../Page/セアカジョウビタキ.md "wikilink") 4/22 [ミヤマヒタキ](../Page/ミヤマヒタキ.md "wikilink") 4/20 [ムナフヒタキ](../Page/ムナフヒタキ.md "wikilink") 4/19 [コチャバラオオルリ](../Page/コチャバラオオルリ.md "wikilink") 4/18 [チャバラオオルリ](../Page/チャバラオオルリ.md "wikilink") 2/14 [スミインコ](../Page/スミインコ.md "wikilink") 2/7 [アカマユインコ](../Page/アカマユインコ.md "wikilink") 2/4 [コシジロインコ](../Page/コシジロインコ.md "wikilink")
 
 **2019年** 12/10 [横越サギの森](../Page/横越サギの森.md "wikilink") 10/6 [野鳥の一覧の一覧](https://ja.wikipedia.org/wiki/野鳥の一覧の一覧 "wikilink") 9/10 [WWT ロンドン・ウェットランド・センター](https://ja.wikipedia.org/wiki/WWT_ロンドン・ウェットランド・センター "wikilink") 8/31 [ハシブトカモメ](https://ja.wikipedia.org/wiki/ハシブトカモメ "wikilink")、[バードバス](https://ja.wikipedia.org/wiki/バードバス "wikilink")、[タテジマフクロウ](https://ja.wikipedia.org/wiki/タテジマフクロウ "wikilink") 4/8 [叉骨](../Page/叉骨.md "wikilink") 3/17 [コミチバシリ](https://ja.wikipedia.org/wiki/コミチバシリ "wikilink") 2/9 [プシロプテルス](https://ja.wikipedia.org/wiki/プシロプテルス "wikilink") 2/6 [ドロモルニス科](https://ja.wikipedia.org/wiki/ドロモルニス科 "wikilink") 2/4 [ガストルニス目](https://ja.wikipedia.org/wiki/ガストルニス目 "wikilink")、[ガストルニス科](https://ja.wikipedia.org/wiki/ガストルニス科 "wikilink")
 

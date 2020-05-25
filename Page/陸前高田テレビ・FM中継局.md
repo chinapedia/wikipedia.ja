@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[陸前高田テレビ・FM中継局](https://ja.wikipedia.org/wiki/陸前高田テレビ・FM中継局)から翻訳されています。
 
 
 **陸前高田テレビ・FM中継局**（りくぜんたかたテレビ・エフエムちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[陸前高田市](../Page/陸前高田市.md "wikilink")に置かれている[テレビ](../Page/テレビ.md "wikilink")と[FMラジオ](../Page/ラジオ.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。
@@ -77,7 +77,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>IBC<br />
-<a href="https://ja.wikipedia.org/wiki/IBC岩手放送" title="wikilink">岩手放送</a></p></td>
+<a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
 <td><p>47</p></td>
 <td><p>27W</p></td>
 <td></td>

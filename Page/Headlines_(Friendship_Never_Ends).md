@@ -1,11 +1,11 @@
 > この記事は[Headlines \(Friendship Never Ends\)](https://ja.wikipedia.org/wiki/Headlines_\(Friendship_Never_Ends\))から翻訳されています。
 
 
-**Headlines (Friendship Never Ends)**（永遠のヘッドライン）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人女性グループ、[スパイス・ガールズ](https://ja.wikipedia.org/wiki/スパイス・ガールズ "wikilink")のシングル曲。母国イギリスでは[2007年](../Page/2007年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")、アメリカでは同月13日に発売。スパイス・ガールズ再結成後初のシングルとなり、彼女たちの[ベスト盤](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")、"Greatest Hits"にも収録される。また、この曲は2007年の[BBC主催のチャリティ番組](../Page/英国放送協会.md "wikilink")、"Children In Need"の公式テーマ曲である。
+**Headlines (Friendship Never Ends)**（永遠のヘッドライン）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人女性グループ、[スパイス・ガールズ](../Page/スパイス・ガールズ.md "wikilink")のシングル曲。母国イギリスでは[2007年](../Page/2007年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")、アメリカでは同月13日に発売。スパイス・ガールズ再結成後初のシングルとなり、彼女たちの[ベスト盤](../Page/ベスト・アルバム.md "wikilink")、"Greatest Hits"にも収録される。また、この曲は2007年の[BBC主催のチャリティ番組](../Page/英国放送協会.md "wikilink")、"Children In Need"の公式テーマ曲である。
 
 ## 概要
 
-曲の一部分が2007年10月21日に[Amazon.com](../Page/Amazon.com.md "wikilink")で公開され、UKでは23日にラジオ局を通して一斉に披露された。曲の作詞はまずメンバーの[エマ・バントン](../Page/エマ・バントン.md "wikilink")、[ジェリ・ハリウェル](../Page/ジェリ・ハリウェル.md "wikilink")とその他のプロデューサーによって手がけられ、その後、[メラニーC](https://ja.wikipedia.org/wiki/メラニーC "wikilink")、[ヴィクトリア・ベッカム](https://ja.wikipedia.org/wiki/ヴィクトリア・ベッカム "wikilink")、[メラニーB](https://ja.wikipedia.org/wiki/メラニーB "wikilink")が作詞に参加した。
+曲の一部分が2007年10月21日に[Amazon.com](../Page/Amazon.com.md "wikilink")で公開され、UKでは23日にラジオ局を通して一斉に披露された。曲の作詞はまずメンバーの[エマ・バントン](../Page/エマ・バントン.md "wikilink")、[ジェリ・ハリウェル](../Page/ジェリ・ハリウェル.md "wikilink")とその他のプロデューサーによって手がけられ、その後、[メラニーC](https://ja.wikipedia.org/wiki/メラニーC "wikilink")、[ヴィクトリア・ベッカム](../Page/ヴィクトリア・ベッカム.md "wikilink")、[メラニーB](https://ja.wikipedia.org/wiki/メラニーB "wikilink")が作詞に参加した。
 
 ## トラックリスト
 

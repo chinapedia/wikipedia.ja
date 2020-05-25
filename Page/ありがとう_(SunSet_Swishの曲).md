@@ -1,4 +1,4 @@
-> この記事は[ \(SunSet Swish\)](https://ja.wikipedia.org/wiki/_\(SunSet_Swish\))から翻訳されています。
+> この記事は[ありがとう \(SunSet Swishの曲\)](https://ja.wikipedia.org/wiki/ありがとう_\(SunSet_Swishの曲\))から翻訳されています。
 
 
 「**ありがとう**」は、[2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発売された[SunSet Swishの](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")7作目の[シングル](../Page/シングル.md "wikilink")。

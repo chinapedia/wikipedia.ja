@@ -1,4 +1,4 @@
-> この記事は[JVC](https://ja.wikipedia.org/wiki/JVC)から翻訳されています。
+> この記事は[JVCエンタテインメント・ネットワークス](https://ja.wikipedia.org/wiki/JVCエンタテインメント・ネットワークス)から翻訳されています。
 
 
 **JVCエンタテインメント・ネットワークス株式会社**（英文社名；*JVC Entertainment Networks, Inc.*）は、[東京都](../Page/東京都.md "wikilink")[港区にかつて存在した](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")、[音楽出版社](https://ja.wikipedia.org/wiki/音楽出版社 "wikilink")、[広告代理店](../Page/広告代理店.md "wikilink")、[アニメーション](../Page/アニメーション.md "wikilink")の企画製作会社。

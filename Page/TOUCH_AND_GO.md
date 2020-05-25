@@ -1,7 +1,7 @@
 > この記事は[TOUCH AND GO](https://ja.wikipedia.org/wiki/TOUCH_AND_GO)から翻訳されています。
 
 
-『**TOUCH AND GO**』（タッチ・アンド・ゴー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算6作目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**TOUCH AND GO**』（タッチ・アンド・ゴー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月11日](../Page/6月11日.md "wikilink")に発売された[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")通算6作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -57,7 +57,7 @@
 
   - Rhythm Programming : TOSHIKI KADOMATSU, YUZO HAYASHI
   - Synth. : YOSHIHIRO TOMONARI, YUZO HAYASHI
-  - Perc. : [PECKER](https://ja.wikipedia.org/wiki/橋田正人 "wikilink")
+  - Perc. : [PECKER](../Page/橋田正人.md "wikilink")
 
 {{-}}
 
@@ -69,10 +69,10 @@
   - Drums : YOGI HORTON
   - Synth. Bass : [PHILIPPE SAISSE](../Page/フィリップ・セス.md "wikilink")
   - E.Guitar : DOC POWELL
-  - Piano : [RICHARD TEE](https://ja.wikipedia.org/wiki/リチャード・ティー "wikilink")
+  - Piano : [RICHARD TEE](../Page/リチャード・ティー.md "wikilink")
   - Synth. : YOSHIHIRO TOMONARI, YUZO HAYASHI
   - Latin Percussion : BASHIRI JOHNSON
-  - Sax solo : [BOB MINZER](https://ja.wikipedia.org/wiki/ボブ・ミンツァー "wikilink")
+  - Sax solo : [BOB MINZER](../Page/ボブ・ミンツァー.md "wikilink")
 
 {{-}}
 
@@ -81,7 +81,7 @@
 ### TAKE IT AWAY
 
   - Drums : BUDDY WILLIAMS
-  - Bass : [TOMOHITO AOKI](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")
+  - Bass : [TOMOHITO AOKI](../Page/青木智仁.md "wikilink")
   - E.Guitar : IRA SEAGUL
   - Piano, E.Piano : DON GROLUICK
   - Synth. : YOSHIHIRO TOMONARI

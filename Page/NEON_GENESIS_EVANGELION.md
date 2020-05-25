@@ -9,13 +9,13 @@ NEON GENESIS EVANGELION とは、
 
 -----
 
-『**NEON GENESIS EVANGELION**』（ネオン・ジェネシス・エヴァンゲリオン）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の1枚目のオリジナル[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。発売元は[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")。
+『**NEON GENESIS EVANGELION**』（ネオン・ジェネシス・エヴァンゲリオン）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』の1枚目のオリジナル[サウンドトラック](../Page/サウンドトラック.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")発売。発売元は[スターチャイルド](../Page/スターチャイルド.md "wikilink")。
 
 ## 収録曲
 
-1.  **[残酷な天使のテーゼ](https://ja.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink")** (Director's Edit. Version)\[1\]
+1.  **[残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")** (Director's Edit. Version)\[1\]
       -
-        歌：[高橋洋子](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")
+        歌：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")
         作詞：[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
 2.  **[FLY ME TO THE MOON](https://ja.wikipedia.org/wiki/FLY_ME_TO_THE_MOON_\(CLAIREと高橋洋子のシングル\) "wikilink")**
       -
@@ -45,10 +45,10 @@ NEON GENESIS EVANGELION とは、
 22. 次回予告 (F-2、)
 23. **FLY ME TO THE MOON** <YOKO TAKAHASHI Acid Bossa Version>
       -
-        歌：[YOKO TAKAHASHI](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")
+        歌：[YOKO TAKAHASHI](../Page/高橋洋子_\(歌手\).md "wikilink")
         作詞・作曲：Bart Howard、編曲：Toshiyuki Ohmori
 
-※ FLY ME TO THE MOON以外の特記のない曲は、[鷺巣詩郎](https://ja.wikipedia.org/wiki/鷺巣詩郎 "wikilink")作曲。
+※ FLY ME TO THE MOON以外の特記のない曲は、[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")作曲。
 
 ## 脚注
 

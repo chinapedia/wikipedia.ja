@@ -1,21 +1,21 @@
 > この記事は[Mellow melody](https://ja.wikipedia.org/wiki/Mellow_melody)から翻訳されています。
 
 
-「**mellow melody**」（メロウ・メロディ）は、[Ceui](../Page/Ceui.md "wikilink")の楽曲。彼女の2枚目の[シングル](../Page/シングル.md "wikilink")として[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+「**mellow melody**」（メロウ・メロディ）は、[Ceui](../Page/Ceui.md "wikilink")の楽曲。彼女の2枚目の[シングル](../Page/シングル.md "wikilink")として[2007年](../Page/2007年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
-「mellow melody」は、テレビアニメ『[sola](https://ja.wikipedia.org/wiki/sola "wikilink")』の[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")\[1\]。また、「敏感な風景」は同作の[挿入歌](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")\[2\]。『sola』に登場するキャラクターの心境や回想、季節感がテーマになっている。
+「mellow melody」は、テレビアニメ『[sola](https://ja.wikipedia.org/wiki/sola "wikilink")』の[エンディングテーマ](../Page/主題歌.md "wikilink")\[1\]。また、「敏感な風景」は同作の[挿入歌](../Page/サウンドトラック.md "wikilink")\[2\]。『sola』に登場するキャラクターの心境や回想、季節感がテーマになっている。
 
-3曲目には敏感な風景の[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")が収録されている。[ジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、『sola』のヒロインのひとり [森宮蒼乃が窓を眺めている](https://ja.wikipedia.org/wiki/sola#キャラクター "wikilink") [イラストが描かれている](../Page/イラストレーション.md "wikilink")。
+3曲目には敏感な風景の[リミックス](../Page/リミックス.md "wikilink")が収録されている。[ジャケットには](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、『sola』のヒロインのひとり [森宮蒼乃が窓を眺めている](https://ja.wikipedia.org/wiki/sola#キャラクター "wikilink") [イラストが描かれている](../Page/イラストレーション.md "wikilink")。
 
 ## 収録曲
 
 ## 収録アルバム
 
-| 曲名            | アルバム                                                                          | 発売日                                                                      | 備考                                                                 |
-| ------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| mellow melody | 『**[Glassy Heaven](https://ja.wikipedia.org/wiki/Glassy_Heaven "wikilink")**』 | [2009年](../Page/2009年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") | 1st[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink") |
+| 曲名            | アルバム                                                                          | 発売日                                                                      | 備考                                              |
+| ------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------- |
+| mellow melody | 『**[Glassy Heaven](https://ja.wikipedia.org/wiki/Glassy_Heaven "wikilink")**』 | [2009年](../Page/2009年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") | 1st[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
 
 ## 出典
 

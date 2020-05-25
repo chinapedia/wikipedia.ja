@@ -1,11 +1,11 @@
-> この記事は[XPT \(\)](https://ja.wikipedia.org/wiki/XPT_\(\))から翻訳されています。
+> この記事は[XPT \(鉄道車両\)](https://ja.wikipedia.org/wiki/XPT_\(鉄道車両\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/image:Xptnew.jpg "wikilink") **XPT**（ の略）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[ニューサウスウェールズ](https://ja.wikipedia.org/wiki/ニューサウスウェールズ "wikilink")に於いて都市間輸送に用いられている旅客輸送車両である。[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")〜[メルボルン](https://ja.wikipedia.org/wiki/メルボルン "wikilink")間とシドニー〜[ブリスベン](../Page/ブリスベン.md "wikilink")間で運行されている。[イギリス国鉄](../Page/イギリス国鉄.md "wikilink")の[インターシティー125](https://ja.wikipedia.org/wiki/インターシティー125 "wikilink")を基に設計され、[1982年](../Page/1982年.md "wikilink")に運行開始した。
+[thumb](https://ja.wikipedia.org/wiki/image:Xptnew.jpg "wikilink") **XPT**（ の略）は、[オーストラリア](../Page/オーストラリア.md "wikilink")の[ニューサウスウェールズ](https://ja.wikipedia.org/wiki/ニューサウスウェールズ "wikilink")に於いて都市間輸送に用いられている旅客輸送車両である。[シドニー](../Page/シドニー.md "wikilink")〜[メルボルン](../Page/メルボルン.md "wikilink")間とシドニー〜[ブリスベン](../Page/ブリスベン.md "wikilink")間で運行されている。[イギリス国鉄](../Page/イギリス国鉄.md "wikilink")の[インターシティー125](https://ja.wikipedia.org/wiki/インターシティー125 "wikilink")を基に設計され、[1982年](../Page/1982年.md "wikilink")に運行開始した。
 
 ## 開発
 
-[1970年代](../Page/1970年代.md "wikilink")、[ニューサウスウェールズ](https://ja.wikipedia.org/wiki/ニューサウスウェールズ "wikilink")では[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")の選挙の結果、客車を更新する事になった。[1977年](../Page/1977年.md "wikilink")、ニューサウスウェールズ交通諮問委員会は車両導入を検討した。英国のインターシティー125を基にした車両が発注された。[1979年](../Page/1979年.md "wikilink")、発注された100両の中で30両が納入された。HSTのデザインは動力車が短縮される等、改良された。
+[1970年代](../Page/1970年代.md "wikilink")、[ニューサウスウェールズ](https://ja.wikipedia.org/wiki/ニューサウスウェールズ "wikilink")では[1976年](../Page/1976年.md "wikilink")の選挙の結果、客車を更新する事になった。[1977年](../Page/1977年.md "wikilink")、ニューサウスウェールズ交通諮問委員会は車両導入を検討した。英国のインターシティー125を基にした車両が発注された。[1979年](../Page/1979年.md "wikilink")、発注された100両の中で30両が納入された。HSTのデザインは動力車が短縮される等、改良された。
 
 ## 運行路線
 
@@ -32,7 +32,7 @@ CountryLink's fleet currently includes
 
 客車の形式と特徴、輌数を以下に示す:
 
-  - **XP**- 動力車: XP 2000 - XP 2018. 2000～2014までの15両は[コモンウェルス・エンジニアリング](https://ja.wikipedia.org/wiki/コモンウェルス・エンジニアリング "wikilink")が製造、2015～2018の4両は[アセア・ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ABBグループ "wikilink")（ABB、現在の[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")）が製造。
+  - **XP**- 動力車: XP 2000 - XP 2018. 2000～2014までの15両は[コモンウェルス・エンジニアリング](https://ja.wikipedia.org/wiki/コモンウェルス・エンジニアリング "wikilink")が製造、2015～2018の4両は[アセア・ブラウン・ボベリ](../Page/ABBグループ.md "wikilink")（ABB、現在の[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")）が製造。
   - **XFH**- エコノミークラス, Booked Luggage & Guard's Lookout: XFH 2104 - XFH 2010, XFH 2112 and XFH 2113. 全てコモンウェルス・エンジニアリングが製造。
   - **XF**- エコノミークラス: XF 2210 - XF 2224. 全てコモンウェルス・エンジニアリングが製造
   - **XBR**- ファーストクラス・ビュッフェ: XBR 2150 - XBR 2158. 全てコモンウェルス・エンジニアリングが製造、XBR 2157 was rebuilt economy class saloon XD 2225 and XBR 2158 was rebuilt from economy saloon/luggage car XDH 2111; both were rebuilt by ABB Transportation.

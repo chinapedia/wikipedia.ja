@@ -1,4 +1,4 @@
-> この記事は[Reon](https://ja.wikipedia.org/wiki/Reon)から翻訳されています。
+> この記事は[機動戦士ガンダムReon](https://ja.wikipedia.org/wiki/機動戦士ガンダムReon)から翻訳されています。
 
 
 『**機動戦士ガンダムReon**』（きどうせんしガンダム レオン、*Mobile Suit Gundam Reon*）は、[アニメ](../Page/アニメ.md "wikilink")作品群「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」を題材にした[松浦まさふみ](../Page/松浦まさふみ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ボグノア・レギス・タウンFC](https://ja.wikipedia.org/wiki/ボグノア・レギス・タウンFC)から翻訳されています。
 
 
 **ボグノア・レギス・タウン・フットボール・クラブ**（**Bognor Regis Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ウェストサセックス州](https://ja.wikipedia.org/wiki/ウェストサセックス州 "wikilink")・[ボグノア・レギス](https://ja.wikipedia.org/wiki/ボグノア・レギス "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。

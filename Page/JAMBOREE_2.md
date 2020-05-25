@@ -1,12 +1,12 @@
 > この記事は[JAMBOREE 2](https://ja.wikipedia.org/wiki/JAMBOREE_2)から翻訳されています。
 
 
-『**JAMBOREE 2**』（ジャンボリー2）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")2作目のライブビデオ作品。規格はVHS。[1999年](../Page/1999年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に[ポリドールより発売](https://ja.wikipedia.org/wiki/ポリドール・レコード "wikilink")。初回プレス分のみ、クリアケース＆カラーハーフ仕様。
+『**JAMBOREE 2**』（ジャンボリー2）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[スピッツの](../Page/スピッツ_\(バンド\).md "wikilink")2作目のライブビデオ作品。規格はVHS。[1999年](../Page/1999年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。初回プレス分のみ、クリアケース＆カラーハーフ仕様。
 
 ## 概要
 
   - 1996年から1998年にかけて行われたライブの中から選曲、構成。ボーナストラックとして、1997年に新宿ロフトで行われたシークレットライブから、アマチュア時代の曲「アナキスト」を収録。
-  - 本作は後の2001年6月6日に発売のDVD『[ジャンボリー・デラックス](https://ja.wikipedia.org/wiki/ジャンボリー・デラックス_LIVE_CHRONICLE_1991-2000 "wikilink")』に収録される（ただし、エンディングテロップとなる「アナキスト」のライブ映像はカット）。
+  - 本作は後の2001年6月6日に発売のDVD『[ジャンボリー・デラックス](../Page/ジャンボリー・デラックス_LIVE_CHRONICLE_1991-2000.md "wikilink")』に収録される（ただし、エンディングテロップとなる「アナキスト」のライブ映像はカット）。
 
 ## 収録曲
 
@@ -34,6 +34,6 @@
 
 ## 関連項目
 
-  - [スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")
 
-[Category:スピッツの映像作品](https://ja.wikipedia.org/wiki/Category:スピッツの映像作品 "wikilink") [Category:1999年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1999年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:スピッツの映像作品](https://ja.wikipedia.org/wiki/Category:スピッツの映像作品 "wikilink") [Category:1997年のコンサート](https://ja.wikipedia.org/wiki/Category:1997年のコンサート "wikilink") [Category:1999年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1999年のライブ・ビデオ "wikilink")

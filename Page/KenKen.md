@@ -72,7 +72,7 @@
 ### CM
 
   - [サントリー](../Page/サントリー.md "wikilink")「ペプシ Jコーラ」（2018年4月17日 - ）
-      - 『怪物舞踏団』の一員として、[石川さゆり](../Page/石川さゆり.md "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")、[DJ RENA](https://ja.wikipedia.org/wiki/DJ_RENA "wikilink")\[40\]、[にゃんごすたー](https://ja.wikipedia.org/wiki/にゃんごすたー "wikilink")とともに出演\[41\]
+      - 『怪物舞踏団』の一員として、[石川さゆり](../Page/石川さゆり.md "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")、[DJ RENA](../Page/DJ_RENA.md "wikilink")\[40\]、[にゃんごすたー](https://ja.wikipedia.org/wiki/にゃんごすたー "wikilink")とともに出演\[41\]
 
 ## 参加
 

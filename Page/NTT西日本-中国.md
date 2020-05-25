@@ -1,4 +1,4 @@
-> この記事は[NTT-](https://ja.wikipedia.org/wiki/NTT-)から翻訳されています。
+> この記事は[NTT西日本-中国](https://ja.wikipedia.org/wiki/NTT西日本-中国)から翻訳されています。
 
 
 **株式会社NTT西日本-中国支店**（エヌティティにしにほん-ちゅうごくしてん）は、かつて存在した[西日本電信電話](../Page/西日本電信電話.md "wikilink")株式会社（NTT西日本）の子会社。広島県広島市中区に本社を置き、電気通信設備関係や工事関係などで[広島県](../Page/広島県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")を管轄していた。

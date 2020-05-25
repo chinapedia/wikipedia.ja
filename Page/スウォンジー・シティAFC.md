@@ -1,4 +1,4 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[スウォンジー・シティAFC](https://ja.wikipedia.org/wiki/スウォンジー・シティAFC)から翻訳されています。
 
 
 **スウォンジー・シティ・アソシエイション・フットボール・クラブ**（**Swansea City Association Football Club** ; ）は、[ウェールズ](../Page/ウェールズ.md "wikilink")南部の都市[スウォンジー](../Page/スウォンジー.md "wikilink")をホームタウンとするプロサッカークラブ。ウェールズのクラブだが、[イングランド](../Page/イングランド.md "wikilink")のリーグ戦に参加している。

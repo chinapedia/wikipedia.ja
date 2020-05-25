@@ -1,7 +1,7 @@
-> この記事は[The Best SelectionWelcome Back!](https://ja.wikipedia.org/wiki/The_Best_SelectionWelcome_Back!)から翻訳されています。
+> この記事は[The Best Selection〜Welcome Back!](https://ja.wikipedia.org/wiki/The_Best_Selection〜Welcome_Back!)から翻訳されています。
 
 
-『**The Best Selection〜Welcome Back\!**（ザ ベスト セレクション ウェルカム バック）』は、[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")にリリースされた [日本の](https://ja.wikipedia.org/wiki/日本国 "wikilink")[歌手](../Page/歌手.md "wikilink")・[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink")のセレクション・ベストアルバム。
+『**The Best Selection〜Welcome Back\!**（ザ ベスト セレクション ウェルカム バック）』は、[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")にリリースされた [日本の](https://ja.wikipedia.org/wiki/日本国 "wikilink")[歌手](../Page/歌手.md "wikilink")・[和田光司](../Page/和田光司.md "wikilink")のセレクション・ベストアルバム。
 
 発売元は[インデックスミュージック](https://ja.wikipedia.org/wiki/インデックスミュージック "wikilink")、販売元は[キングレコード](../Page/キングレコード.md "wikilink")（NECA-30181）
 
@@ -15,13 +15,13 @@
 
 1.  **[FIRE\!\!](../Page/FIRE!!.md "wikilink")** (4:10)
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink"):[山田ひろし](https://ja.wikipedia.org/wiki/山田ひろし "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[太田美知彦](https://ja.wikipedia.org/wiki/太田美知彦 "wikilink")
-        [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[デジモンフロンティア](https://ja.wikipedia.org/wiki/デジモンフロンティア "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
+        [作詞](../Page/作詞.md "wikilink"):[山田ひろし](../Page/山田ひろし.md "wikilink") [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[太田美知彦](../Page/太田美知彦.md "wikilink")
+        [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[デジモンフロンティア](../Page/デジモンフロンティア.md "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
         アルバム初収録。
 2.  **[炎のオーバードライブ](../Page/炎のオーバードライブ.md "wikilink")** (3:59)
       -
-        作詞:[後藤冬樹](https://ja.wikipedia.org/wiki/後藤冬樹 "wikilink") 作曲・編曲:[渡部チェル](https://ja.wikipedia.org/wiki/渡部チェル "wikilink")
-        テレビアニメ『[トランスフォーマー カーロボット](https://ja.wikipedia.org/wiki/トランスフォーマー_カーロボット "wikilink")』オープニングテーマ
+        作詞:[後藤冬樹](https://ja.wikipedia.org/wiki/後藤冬樹 "wikilink") 作曲・編曲:[渡部チェル](../Page/渡部チェル.md "wikilink")
+        テレビアニメ『[トランスフォーマー カーロボット](../Page/トランスフォーマー_カーロボット.md "wikilink")』オープニングテーマ
         アルバム初収録。
 3.  **[Daybreak](../Page/イノセント〜無邪気なままで〜.md "wikilink")** (4:53)
       -
@@ -29,7 +29,7 @@
         アルバム初収録。
 4.  **[風](../Page/The_Biggest_Dreamer.md "wikilink")** (3:53)
       -
-        作詞:[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink") 作曲:大久保薫 編曲:渡部チェル
+        作詞:[和田光司](../Page/和田光司.md "wikilink") 作曲:大久保薫 編曲:渡部チェル
         テレビアニメ『[デジモンテイマーズ](../Page/デジモンテイマーズ.md "wikilink")』[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
 5.  **[イノセント〜無邪気なままで〜](../Page/イノセント〜無邪気なままで〜.md "wikilink")** (4:24)
       -
@@ -47,7 +47,7 @@
 8.  **[ターゲット〜赤い衝撃〜](../Page/ターゲット〜赤い衝撃〜.md "wikilink")** (4:26)
       -
         作詞:松木悠 作曲・編曲:太田美知彦
-        テレビアニメ『[デジモンアドベンチャー02](https://ja.wikipedia.org/wiki/デジモンアドベンチャー02 "wikilink")』オープニングテーマ・挿入歌
+        テレビアニメ『[デジモンアドベンチャー02](../Page/デジモンアドベンチャー02.md "wikilink")』オープニングテーマ・挿入歌
 9.  **[The Biggest Dreamer](../Page/The_Biggest_Dreamer.md "wikilink")** (3:51)
       -
         作詞:山田ひろし 作曲・編曲:太田美知彦
@@ -69,10 +69,10 @@
 13. **[Butter-Fly](https://ja.wikipedia.org/wiki/Butter-Fly "wikilink")** (4:17)
       -
         作詞・作曲:千綿偉功 編曲:渡部チェル
-        テレビアニメ『[デジモンアドベンチャー](https://ja.wikipedia.org/wiki/デジモンアドベンチャー "wikilink")』オープニングテーマ[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")・挿入歌
+        テレビアニメ『[デジモンアドベンチャー](../Page/デジモンアドベンチャー.md "wikilink")』オープニングテーマ[主題歌](../Page/主題歌.md "wikilink")・挿入歌
 14. **Pierce** (4:56)
       -
-        作詞・作曲:[和田光司](https://ja.wikipedia.org/wiki/和田光司 "wikilink")
+        作詞・作曲:[和田光司](../Page/和田光司.md "wikilink")
         新曲。
 15. **君の景色** (4:58)
       -

@@ -1,7 +1,7 @@
 > この記事は[Clustal](https://ja.wikipedia.org/wiki/Clustal)から翻訳されています。
 
 
-**Clustal**は広く用いられている[多重整列](../Page/多重整列.md "wikilink")プログラムである。現在はコマンドライン版の**Clustal W**と[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")版の**Clustal X**とがある。[欧州バイオインフォマティクス研究所](https://ja.wikipedia.org/wiki/欧州バイオインフォマティクス研究所 "wikilink")の[FTPサーバ](ftp://ftp.ebi.ac.uk/pub/software/clustalw2/)から入手できる。
+**Clustal**は広く用いられている[多重整列](../Page/多重整列.md "wikilink")プログラムである。現在はコマンドライン版の**Clustal W**とグラフィカルインターフェース（[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")）版の**Clustal X**とがある。[欧州バイオインフォマティクス研究所](https://ja.wikipedia.org/wiki/欧州バイオインフォマティクス研究所 "wikilink")の[FTPサーバ](ftp://ftp.ebi.ac.uk/pub/software/clustalw2/)から入手できる。
 
 ## アルゴリズム
 

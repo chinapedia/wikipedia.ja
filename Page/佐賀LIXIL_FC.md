@@ -1,56 +1,63 @@
-> この記事は[LIXIL FC](https://ja.wikipedia.org/wiki/LIXIL_FC)から翻訳されています。
+> この記事は[佐賀LIXIL FC](https://ja.wikipedia.org/wiki/佐賀LIXIL_FC)から翻訳されています。
 
 
 **佐賀LIXIL FC**（さがリクシルエフシー Saga LIXIL F.C.）は、[佐賀県](../Page/佐賀県.md "wikilink")[鹿島市](../Page/鹿島市.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。愛称は「Menbrews（メンブリュース）」。
 
 ## 概要
 
-1991年、[INAX](../Page/INAX.md "wikilink")の子会社である「九州INAX」佐賀工場内にF.C. INAXサッカー部として誕生。佐賀県5部リーグから始まり、5年で県1部に昇格。
+1991年、[INAX](../Page/INAX.md "wikilink")の子会社である九州INAX（現：佐賀LIXIL製作所）佐賀工場内に**F.C. INAXサッカー部**として誕生。佐賀県5部リーグから始まり、5年で県1部に昇格。
 
-1部昇格後、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に「九州INAXサッカー部」に変更。[2000年](../Page/2000年.md "wikilink")、1部昇格5年目にして初優勝、[九州各県リーグ決勝大会](https://ja.wikipedia.org/wiki/九州各県リーグ決勝大会 "wikilink")で2位となり、入れ替え戦の末[九州サッカーリーグ](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink")に初昇格。[2001年](../Page/2001年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")の3シーズンを戦ったが、7位、9位、10位という結果に終わり、[2004年](../Page/2004年.md "wikilink")から再び佐賀県1部リーグに降格。[2004年](../Page/2004年.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")と連覇したが、九州各県リーグ決勝大会で勝ち残れず県リーグ残留、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")は川副クラブに3連覇を阻まれた。[2007年](../Page/2007年.md "wikilink")、2年ぶりの県リーグ優勝を飾り、九州各県リーグ決勝大会でも優勝、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から5シーズンぶりとなる九州サッカーリーグ復帰を果たした。
+1部昇格後、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に「**九州INAXサッカー部**」に変更。[2000年](../Page/2000年.md "wikilink")、1部昇格5年目にして初優勝、[九州各県リーグ決勝大会](../Page/九州各県リーグ決勝大会.md "wikilink")で2位となり、入れ替え戦の末[九州サッカーリーグ](../Page/九州サッカーリーグ.md "wikilink")に初昇格。[2001年](../Page/2001年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")の3シーズンを戦ったが、7位、9位、10位という結果に終わり、[2004年](../Page/2004年.md "wikilink")から再び佐賀県1部リーグに降格。[2004年](../Page/2004年.md "wikilink")、[2005年](../Page/2005年.md "wikilink")と連覇したが、九州各県リーグ決勝大会で勝ち残れず県リーグ残留、[2006年](../Page/2006年.md "wikilink")は川副クラブに3連覇を阻まれた。[2007年](../Page/2007年.md "wikilink")、2年ぶりの県リーグ優勝を飾り、九州各県リーグ決勝大会でも優勝、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から5シーズンぶりとなる九州サッカーリーグ復帰を果たした。
 
-2011年7月1日、会社名変更により、佐賀LIXIL FCへと名称が変更された\[1\]。
+2011年7月1日、会社名変更により、**佐賀LIXIL FC**へと名称が変更された\[1\]。
 
 企業（実業団）チームだが、LIXIL社員以外の選手もおり、選手募集（ホームページ参照）も「**社外の人も歓迎**」とある。
 
 ## チーム成績
 
-|                                                                       |                                                                 |        |    |      |    |      |     |    |     |      |    |      |      |
-| --------------------------------------------------------------------- | --------------------------------------------------------------- | ------ | -- | ---- | -- | ---- | --- | -- | --- | ---- | -- | ---- | ---- |
-| 年度                                                                    | 所属                                                              | 順位     | 勝点 | チーム数 | 試合 | 90分勝 | PK勝 | 分  | PK敗 | 90分敗 | 得点 | 失点   | 差    |
-| 1991                                                                  | [佐賀県](https://ja.wikipedia.org/wiki/佐賀県社会人サッカーリーグ "wikilink")5部 | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
-| 1992                                                                  | 佐賀県4部                                                           | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
-| 1993                                                                  | 佐賀県3部                                                           | 3位     |    |      |    |      |     |    |     |      |    |      |      |
-| 1994                                                                  | 2位                                                              |        |    |      |    |      |     |    |     |      |    |      |      |
-| 1995                                                                  | 佐賀県2部                                                           | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
-| 1996                                                                  | 佐賀県1部                                                           | 5位     |    |      |    |      |     |    |     |      |    |      |      |
-| 1997                                                                  | 4位                                                              |        |    |      |    |      |     |    |     |      |    |      |      |
-| 1998                                                                  | 3位                                                              |        |    |      |    |      |     |    |     |      |    |      |      |
-| 1999                                                                  | 4位                                                              |        |    |      |    |      |     |    |     |      |    |      |      |
-| 2000                                                                  | **優勝**                                                          |        |    |      |    |      |     |    |     |      |    |      |      |
-| [2001](https://ja.wikipedia.org/wiki/2001年の地域リーグ_\(サッカー\) "wikilink") | [九州](https://ja.wikipedia.org/wiki/九州サッカーリーグ "wikilink")        | 7位     | 17 | 10   | 18 | 4    | 2   | \- | 1   | 11   | 19 | 41   | \-22 |
-| [2002](https://ja.wikipedia.org/wiki/2002年の地域リーグ_\(サッカー\) "wikilink") | 9位                                                              | 14     | 10 | 18   | 4  | 1    | \-  | 0  | 13  | 19   | 38 | \-19 |      |
-| [2003](https://ja.wikipedia.org/wiki/2003年の地域リーグ_\(サッカー\) "wikilink") | 11位                                                             | 17     | 12 | 22   | 4  | 2    | \-  | 1  | 15  | 18   | 49 | \-31 |      |
-| 2004                                                                  | 佐賀県1部                                                           | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
-| 2005                                                                  | **優勝**                                                          |        |    |      |    |      |     |    |     |      |    |      |      |
-| 2006                                                                  | 2位                                                              | 19     | 9  | 8    | 6  | \-   | 1   | \- | 1   | 27   | 7  | 20   |      |
-| 2007                                                                  | **優勝**                                                          | 21     | 9  | 8    | 7  | \-   | 0   | \- | 1   | 31   | 3  | 28   |      |
-| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\) "wikilink") | 九州                                                              | 8位     | 15 | 10   | 18 | 3    | 3   | \- | 0   | 12   | 15 | 48   | \-33 |
-| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ "wikilink")          | 6位                                                              | 21     | 9  | 16   | 7  | 0    | \-  | 0  | 9   | 34   | 28 | 6    |      |
-| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\) "wikilink") | 5位                                                              | 20     | 9  | 16   | 4  | 3    | \-  | 2  | 7   | 25   | 31 | \-6  |      |
-| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | 7位                                                              | 22     | 10 | 18   | 5  | 3    | \-  | 1  | 9   | 27   | 35 | \-8  |      |
-| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | 7位                                                              | 17     | 10 | 18   | 5  | 1    | \-  | 0  | 12  | 33   | 38 | \-5  |      |
-| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | 8位                                                              | 18     | 10 | 18   | 3  | 3    | \-  | 3  | 9   | 18   | 30 | \-12 |      |
-| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | 9位                                                              | 14     | 10 | 18   | 4  | 1    | \-  | 0  | 13  | 25   | 44 | \-19 |      |
-| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | 9位                                                              | 12     | 10 | 18   | 3  | 1    | \-  | 1  | 13  | 20   | 37 | \-17 |      |
-| 2016                                                                  | 佐賀県1部                                                           | **優勝** | 24 | 9    | 8  | 8    | \-  | 0  | \-  | 0    | 41 | 6    | 35   |
-| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 九州                                                              | 9位     | 17 | 11   | 20 | 4    | 2   | \- | 1   | 13   | 27 | 39   | \-12 |
-| [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 7位                                                              | 22     | 10 | 18   | 5  | 2    | \-  | 3  | 8   | 27   | 29 | \-2  |      |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 3位                                                              | 29     | 10 | 18   | 9  | 1    | \-  | 0  | 8   | 37   | 31 | 6    |      |
+|                                                                       |                                              |        |    |      |    |      |     |    |     |      |    |      |      |
+| --------------------------------------------------------------------- | -------------------------------------------- | ------ | -- | ---- | -- | ---- | --- | -- | --- | ---- | -- | ---- | ---- |
+| 年度                                                                    | 所属                                           | 順位     | 勝点 | チーム数 | 試合 | 90分勝 | PK勝 | 分  | PK敗 | 90分敗 | 得点 | 失点   | 差    |
+| 1991                                                                  | [佐賀県](../Page/佐賀県社会人サッカーリーグ.md "wikilink")5部 | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
+| 1992                                                                  | 佐賀県4部                                        | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
+| 1993                                                                  | 佐賀県3部                                        | 3位     |    |      |    |      |     |    |     |      |    |      |      |
+| 1994                                                                  | 2位                                           |        |    |      |    |      |     |    |     |      |    |      |      |
+| 1995                                                                  | 佐賀県2部                                        | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
+| 1996                                                                  | 佐賀県1部                                        | 5位     |    |      |    |      |     |    |     |      |    |      |      |
+| 1997                                                                  | 4位                                           |        |    |      |    |      |     |    |     |      |    |      |      |
+| 1998                                                                  | 3位                                           |        |    |      |    |      |     |    |     |      |    |      |      |
+| 1999                                                                  | 4位                                           |        |    |      |    |      |     |    |     |      |    |      |      |
+| 2000                                                                  | **優勝**                                       |        |    |      |    |      |     |    |     |      |    |      |      |
+| [2001](https://ja.wikipedia.org/wiki/2001年の地域リーグ_\(サッカー\) "wikilink") | [九州](../Page/九州サッカーリーグ.md "wikilink")        | 7位     | 17 | 10   | 18 | 4    | 2   | \- | 1   | 11   | 19 | 41   | \-22 |
+| [2002](https://ja.wikipedia.org/wiki/2002年の地域リーグ_\(サッカー\) "wikilink") | 9位                                           | 14     | 10 | 18   | 4  | 1    | \-  | 0  | 13  | 19   | 38 | \-19 |      |
+| [2003](https://ja.wikipedia.org/wiki/2003年の地域リーグ_\(サッカー\) "wikilink") | 11位                                          | 17     | 12 | 22   | 4  | 2    | \-  | 1  | 15  | 18   | 49 | \-31 |      |
+| 2004                                                                  | 佐賀県1部                                        | **優勝** |    |      |    |      |     |    |     |      |    |      |      |
+| 2005                                                                  | **優勝**                                       |        |    |      |    |      |     |    |     |      |    |      |      |
+| 2006                                                                  | 2位                                           | 19     | 9  | 8    | 6  | \-   | 1   | \- | 1   | 27   | 7  | 20   |      |
+| 2007                                                                  | **優勝**                                       | 21     | 9  | 8    | 7  | \-   | 0   | \- | 1   | 31   | 3  | 28   |      |
+| [2008](https://ja.wikipedia.org/wiki/2008年の地域リーグ_\(サッカー\) "wikilink") | 九州                                           | 8位     | 15 | 10   | 18 | 3    | 3   | \- | 0   | 12   | 15 | 48   | \-33 |
+| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ "wikilink")          | 6位                                           | 21     | 9  | 16   | 7  | 0    | \-  | 0  | 9   | 34   | 28 | 6    |      |
+| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\) "wikilink") | 5位                                           | 20     | 9  | 16   | 4  | 3    | \-  | 2  | 7   | 25   | 31 | \-6  |      |
+| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | 7位                                           | 22     | 10 | 18   | 5  | 3    | \-  | 1  | 9   | 27   | 35 | \-8  |      |
+| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | 7位                                           | 17     | 10 | 18   | 5  | 1    | \-  | 0  | 12  | 33   | 38 | \-5  |      |
+| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | 8位                                           | 18     | 10 | 18   | 3  | 3    | \-  | 3  | 9   | 18   | 30 | \-12 |      |
+| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | 9位                                           | 14     | 10 | 18   | 4  | 1    | \-  | 0  | 13  | 25   | 44 | \-19 |      |
+| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | 9位                                           | 12     | 10 | 18   | 3  | 1    | \-  | 1  | 13  | 20   | 37 | \-17 |      |
+| 2016                                                                  | 佐賀県1部                                        | **優勝** | 24 | 9    | 8  | 8    | \-  | 0  | \-  | 0    | 41 | 6    | 35   |
+| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 九州                                           | 9位     | 17 | 11   | 20 | 4    | 2   | \- | 1   | 13   | 27 | 39   | \-12 |
+| [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 7位                                           | 22     | 10 | 18   | 5  | 2    | \-  | 3  | 8   | 27   | 29 | \-2  |      |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 3位                                           | 29     | 10 | 18   | 9  | 1    | \-  | 0  | 8   | 37   | 31 | 6    |      |
+
+## タイトル
+
+### リーグ戦
+
+  - **[佐賀県社会人サッカーリーグ](../Page/佐賀県社会人サッカーリーグ.md "wikilink")1部：5回**
+      - 2000年、2004年、2005年、2007年、2016年
 
 ## 所属選手・スタッフ
 
-  - 2018年
+  - 2020年
 
 ### スタッフ
 
@@ -65,7 +72,7 @@
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/永吉龍也" title="wikilink">永吉龍也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐賀県立太良高等学校" title="wikilink">太良高校</a></p></td>
+<td><p><a href="../Page/佐賀県立太良高等学校.md" title="wikilink">太良高校</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -104,13 +111,13 @@
 <td><p><strong>GK</strong></p></td>
 <td><p><strong>1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木原智典" title="wikilink">木原智典</a></p></td>
-<td><p><a href="../Page/筑波大学.md" title="wikilink">筑波大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/筑波大学蹴球部" title="wikilink">筑波大学</a></p></td>
 <td><p>コーチ兼任</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>21</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上翔太（1993年生のサッカー選手）" title="wikilink">井上翔太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/九州総合スポーツカレッジサッカー部" title="wikilink">九州総合スポーツカレッジ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/安藤央翔" title="wikilink">安藤央翔</a></p></td>
+<td><p><a href="../Page/佐賀県立佐賀東高等学校.md" title="wikilink">佐賀東高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -122,44 +129,58 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>46</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/前田賢四朗" title="wikilink">前田賢四朗</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/九州総合スポーツカレッジサッカー部" title="wikilink">九州総合スポーツカレッジ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>DF</strong></p></td>
 <td><p><strong>2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦翔哉" title="wikilink">三浦翔哉</a></p></td>
-<td><p>九州総合スポーツカレッジ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/右田楓" title="wikilink">右田楓</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/びわこ成蹊スポーツ大学サッカー部" title="wikilink">びわこ成蹊スポーツ大学</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>3</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/一ノ瀬慶太" title="wikilink">一ノ瀬慶太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐賀県立鹿島実業高等学校" title="wikilink">鹿島実業高校</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>6</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松尾栄次" title="wikilink">松尾栄次</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐賀県立佐賀東高等学校" title="wikilink">佐賀東高校</a></p></td>
+<td><p><a href="../Page/佐賀県立鹿島実業高等学校.md" title="wikilink">鹿島実業高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>15</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂本浩幸" title="wikilink">坂本浩幸</a></p></td>
-<td><p>九州総合スポーツカレッジ</p></td>
+<td><p><strong>6</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松尾栄次" title="wikilink">松尾栄次</a></p></td>
+<td><p>佐賀東高校</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>22</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/的野涼太" title="wikilink">的野涼太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/黒髪FC" title="wikilink">黒髪FC</a></p></td>
+<td><p><strong>11</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中島悠太" title="wikilink">中島悠太</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC_BANDELIE" title="wikilink">FC BANDELIE</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>19</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/谷水郁斗" title="wikilink">谷水郁斗</a></p></td>
+<td><p><a href="../Page/佐賀清和中学校・高等学校.md" title="wikilink">佐賀清和高校</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>25</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東友哉" title="wikilink">東友哉</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トヨタ蹴球団" title="wikilink">トヨタ蹴球団</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -173,9 +194,9 @@
 <tr class="even">
 <td><p><strong>MF</strong></p></td>
 <td><p><strong>4</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福吉陸哉" title="wikilink">福吉陸哉</a></p></td>
-<td><p>九州総合スポーツカレッジ</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/橋口大樹" title="wikilink">橋口大樹</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エフトブルスFC" title="wikilink">FC.TOSU</a></p></td>
+<td><p>コーチ兼任</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>5</strong></p></td>
@@ -193,43 +214,43 @@
 </tr>
 <tr class="odd">
 <td><p><strong>8</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/義村康祐" title="wikilink">義村康祐</a> <a href="https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg" title="wikilink">14px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平成国際大学" title="wikilink">平成国際大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤大地" title="wikilink">佐藤大地</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/八代フューチャーズ" title="wikilink">八代フューチャーズ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/清田芳浩" title="wikilink">清田芳浩</a></p></td>
-<td><p>九州産業大学</p></td>
+<td><p><a href="../Page/九州産業大学.md" title="wikilink">九州産業大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>11</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安冨将太" title="wikilink">安冨将太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐賀県立塩田工業高等学校" title="wikilink">塩田工業高校</a></p></td>
+<td><p><strong>12</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/永冨誠也" title="wikilink">永冨誠也</a></p></td>
+<td><p><a href="../Page/ヴェルスパ大分.md" title="wikilink">ヴェルスパ大分</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>12</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松林龍之介" title="wikilink">松林龍之介</a></p></td>
-<td><p>塩田工業高校</p></td>
+<td><p><strong>14</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/溝上馨介" title="wikilink">溝上馨介</a></p></td>
+<td><p></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>14</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下剣史" title="wikilink">山下剣史</a></p></td>
-<td><p><a href="../Page/佐賀大学.md" title="wikilink">佐賀大学</a></p></td>
+<td><p><strong>15</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西村太輝" title="wikilink">西村太輝</a></p></td>
+<td><p>佐賀東高校</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>16</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/時田元気" title="wikilink">時田元気</a></p></td>
-<td><p>九州総合スポーツカレッジ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山住樹留" title="wikilink">山住樹留</a></p></td>
+<td><p><a href="../Page/九州共立大学.md" title="wikilink">九州共立大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -249,64 +270,50 @@
 </tr>
 <tr class="odd">
 <td><p><strong>20</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今宮健太_(サッカー選手)" title="wikilink">今宮健太</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤田翔輝" title="wikilink">藤田翔輝</a></p></td>
 <td><p>九州総合スポーツカレッジ</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>24</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉村魁人" title="wikilink">吉村魁人</a></p></td>
-<td><p>塩田工業高校</p></td>
+<td><p><strong>22</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/砂田琢己" title="wikilink">砂田琢己</a></p></td>
+<td><p></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>25</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山崎敏也" title="wikilink">山崎敏也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/米子北高等学校" title="wikilink">米子北高校</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>26</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋口大樹" title="wikilink">橋口大樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エフトブルスFC" title="wikilink">FC.TOSU</a></p></td>
-<td><p>コーチ兼任</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/運天ひかる" title="wikilink">運天ひかる</a></p></td>
+<td><p>九州総合スポーツカレッジ</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>9</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三宅大樹" title="wikilink">三宅大樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TONTENTON" title="wikilink">TONTENTON</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>12</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉岡宏晏" title="wikilink">吉岡宏晏</a></p></td>
-<td><p>九州総合スポーツカレッジ</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高山そら" title="wikilink">高山そら</a></p></td>
+<td><p>佐賀東高校</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>13</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/米丸竜二" title="wikilink">米丸竜二</a></p></td>
-<td><p>九州総合スポーツカレッジ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松野下晃平" title="wikilink">松野下晃平</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東海大学体育会サッカー部" title="wikilink">東海大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>24</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武部壮馬" title="wikilink">武部壮馬</a></p></td>
+<td><p>ブロードメドウ・マジックFC</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -397,7 +404,7 @@
 
 ### ユニフォームサプライヤー
 
-  - 1991年 - 2017年 [PUMA](https://ja.wikipedia.org/wiki/プーマ "wikilink")
+  - 1991年 - 2017年 [PUMA](../Page/プーマ.md "wikilink")
   - 2018年 - [PENALTY](https://ja.wikipedia.org/wiki/ペナルティ_\(スポーツ用品\) "wikilink")
 
 ### 歴代ユニフォームスポンサー年表
@@ -420,7 +427,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/LIXIL" title="wikilink">LIXIL</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プーマ" title="wikilink">PUMA</a></p></td>
+<td><p><a href="../Page/プーマ.md" title="wikilink">PUMA</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>

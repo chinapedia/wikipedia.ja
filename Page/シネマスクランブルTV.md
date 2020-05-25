@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[シネマスクランブルTV](https://ja.wikipedia.org/wiki/シネマスクランブルTV)から翻訳されています。
 
 
 『**シネマスクランブルTV**』〔Cinema Scramble TV）は、2005年より[NECビッグローブ](https://ja.wikipedia.org/wiki/NECビッグローブ "wikilink")（旧：[日本電気](../Page/日本電気.md "wikilink")株式会社）でインターネット放送されている映画情報番組。
@@ -98,7 +98,7 @@
   - プロデューサー：中井圭（NECビッグローブ）
   - 撮影協力：麹町スタジオ
   - 制作：株式会社[フラッグ](https://ja.wikipedia.org/wiki/フラッグ "wikilink")
-  - 制作著作：NEC [BIGLOBE](https://ja.wikipedia.org/wiki/BIGLOBE "wikilink")
+  - 制作著作：NEC [BIGLOBE](../Page/BIGLOBE.md "wikilink")
 
 ## 外部リンク
 

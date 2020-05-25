@@ -5,14 +5,14 @@
 
 ## 解説
 
-前作「[PARASAIL〜シュールホワイトのテーマ〜](../Page/PARASAIL〜シュールホワイトのテーマ〜.md "wikilink")」\[1\]から1か月でのリリース。のアルバム・リリースは[インストゥルメンタル作品のみだった為](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、この楽曲は長い間このシングルCDのみでしか聴けなかった。後に[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録。カップリングはヴォーカル・パートがサックスとギターに置き換えられた、タイトル曲のインストゥルメンタル・ヴァージョン。このシングルのみでの収録曲。
+前作「[PARASAIL〜シュールホワイトのテーマ〜](../Page/PARASAIL〜シュールホワイトのテーマ〜.md "wikilink")」\[1\]から1か月でのリリース。のアルバム・リリースは[インストゥルメンタル作品のみだった為](../Page/器楽曲.md "wikilink")、この楽曲は長い間このシングルCDのみでしか聴けなかった。後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録。カップリングはヴォーカル・パートがサックスとギターに置き換えられた、タイトル曲のインストゥルメンタル・ヴァージョン。このシングルのみでの収録曲。
 
 ## 収録曲
 
 1.  **I must change my life & love for me**
       -
         作詞・作曲・編曲：角松敏生、ホーンアレンジ：[小林正弘](../Page/小林正弘.md "wikilink")
-        [三貴](https://ja.wikipedia.org/wiki/三貴 "wikilink")「ブティックJOY」CMイメージソング
+        [三貴](../Page/三貴.md "wikilink")「ブティックJOY」CMイメージソング
 2.  **I must change my life & love for me**
 
 ## クレジット
@@ -22,13 +22,13 @@
 | Produced by TOSHIKI KADOMATSU                                                                                        |
 | Arranged by TOSHIKI KADOMATSU                                                                                        |
 |                                                                                                                      |
-| Brass Arrangent : MASAHIRO KOMAYASHI                                                                                 |
+| Brass Arrangent : [MASAHIRO KOBAYASHI](../Page/小林正弘.md "wikilink")                                                   |
 | Vocal, Guitar, Keyboards, Computer Programming : TOSHIKI KADOMATSU                                                   |
-| Bass : [TOMOHITO AOKI](https://ja.wikipedia.org/wiki/青木智仁 "wikilink")                                                |
-| Guitar : [YOSHIYUKI “BUTCHER” ASANO](https://ja.wikipedia.org/wiki/浅野祥之 "wikilink")                                  |
+| Bass : [TOMOHITO AOKI](../Page/青木智仁.md "wikilink")                                                                   |
+| Guitar : [YOSHIYUKI “BUTCHER” ASANO](../Page/浅野祥之.md "wikilink")                                                     |
 | Synthesizer, Computer Manipulator : KANICHIRO KUBO                                                                   |
-| Sax : OSAMU KOIKE, [MASATO HONDA](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")                                     |
-| Trumpet : [MASAHIRO KOBAYASHI](../Page/小林正弘.md "wikilink"), MASAHIKO SUGASAKA                                        |
+| Sax : OSAMU KOIKE, [MASATO HONDA](../Page/本田雅人.md "wikilink")                                                        |
+| Trumpet :MASAHIRO KOBAYASHI, MASAHIKO SUGASAKA                                                                       |
 | Trombone : [SHIGEHARU MUKAI](https://ja.wikipedia.org/wiki/向井滋春 "wikilink")                                          |
 | Background Vocals : [KAYOKO “JACKIE” TAKAHASHI](https://ja.wikipedia.org/wiki/高橋ジャッキー香代子 "wikilink"), KAZUMI MIYAURA |
 

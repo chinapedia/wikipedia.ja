@@ -447,16 +447,16 @@ DRUM:KAN表記　w/<a href="https://ja.wikipedia.org/wiki/YOUR_BLACK_STAR" title
 
 ## ミュージックビデオ
 
-|                                                                               |                                                                       |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **監督**                                                                        | **曲名**                                                                |
-| [Andrew Houston](https://ja.wikipedia.org/wiki/Andrew_Houston "wikilink")     | 「I Know」                                                              |
-| [庄嶋興志秀](https://ja.wikipedia.org/wiki/庄嶋興志秀 "wikilink")                       | 「Mary」                                                                |
-| DRUM:KAN                                                                      | 「Who save the world」                                                  |
-| [前畑貴文](https://ja.wikipedia.org/wiki/前畑貴文 "wikilink")                         | 「Something」                                                           |
-| [Tomohiro Mishima](https://ja.wikipedia.org/wiki/Tomohiro_Mishima "wikilink") | 「throw」                                                               |
-| Joe Seidt                                                                     | 「[As Life](http://www.indiesmusic.com/musicvideo/video.asp?id=10215)」 |
-|                                                                               |                                                                       |
+|                                                                               |                                                                        |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **監督**                                                                        | **曲名**                                                                 |
+| [Andrew Houston](https://ja.wikipedia.org/wiki/Andrew_Houston "wikilink")     | 「I Know」                                                               |
+| [庄嶋興志秀](https://ja.wikipedia.org/wiki/庄嶋興志秀 "wikilink")                       | 「Mary」                                                                 |
+| DRUM:KAN                                                                      | 「Who save the world」                                                   |
+| [前畑貴文](https://ja.wikipedia.org/wiki/前畑貴文 "wikilink")                         | 「Something」                                                            |
+| [Tomohiro Mishima](https://ja.wikipedia.org/wiki/Tomohiro_Mishima "wikilink") | 「throw」                                                                |
+| Joe Seidt                                                                     | 「[As Life](https://www.indiesmusic.com/musicvideo/video.asp?id=10215)」 |
+|                                                                               |                                                                        |
 
 ## 出演
 

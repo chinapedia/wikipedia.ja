@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハダースフィールド・タウンFC](https://ja.wikipedia.org/wiki/ハダースフィールド・タウンFC)から翻訳されています。
 
 
 **ハダースフィールド・タウン・アソシエーション・フットボール・クラブ**（**Huddersfield Town Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")のウエスト・ヨークシャー州、[ハダースフィールド](https://ja.wikipedia.org/wiki/ハダースフィールド "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[青](../Page/青.md "wikilink")と[白](../Page/白.md "wikilink")。

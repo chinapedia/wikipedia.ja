@@ -1,14 +1,14 @@
-> この記事は[Plume Royal Plume Tea](https://ja.wikipedia.org/wiki/Plume_Royal_Plume_Tea)から翻訳されています。
+> この記事は[Plume物語 〜Royal Plume Tea〜](https://ja.wikipedia.org/wiki/Plume物語_〜Royal_Plume_Tea〜)から翻訳されています。
 
 
-**Plume物語 〜Royal Plume Tea〜**は、[水野愛日](../Page/水野愛日.md "wikilink")・[遠藤綾](https://ja.wikipedia.org/wiki/遠藤綾 "wikilink")・[河原木志穂](https://ja.wikipedia.org/wiki/河原木志穂 "wikilink")をメンバーとする声優ユニット『[Plume](https://ja.wikipedia.org/wiki/Plume "wikilink")』をパーソナリティとした[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。
+**Plume物語 〜Royal Plume Tea〜**は、[水野愛日](../Page/水野愛日.md "wikilink")・[遠藤綾](../Page/遠藤綾.md "wikilink")・[河原木志穂](../Page/河原木志穂.md "wikilink")をメンバーとする声優ユニット『[Plume](https://ja.wikipedia.org/wiki/Plume "wikilink")』をパーソナリティとした[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。
 
 ## 配信概要
 
   - 配信期間：ランティス…[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")〜[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月7日](../Page/6月7日.md "wikilink")
-  - 配信サイト：[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")
+  - 配信サイト：[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")
   - 配信曜日：毎週土曜日
-  - ファイル種類：[Windows Media Audio](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")（asx）・[RealAudio](https://ja.wikipedia.org/wiki/RealAudio "wikilink")（.smi）
+  - ファイル種類：[Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")（asx）・[RealAudio](../Page/RealAudio.md "wikilink")（.smi）
 
 ## コーナー
 

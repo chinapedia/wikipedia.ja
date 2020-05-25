@@ -1,4 +1,4 @@
-> この記事は[XXXNEXT](https://ja.wikipedia.org/wiki/XXXNEXT)から翻訳されています。
+> この記事は[オレたちXXXやってま〜すNEXT](https://ja.wikipedia.org/wiki/オレたちXXXやってま〜すNEXT)から翻訳されています。
 
 
 **オレたちXXXやってま〜すNEXT**（**オレたちクスクスクスやってまーす**）は[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")ラジオ）でかつて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
@@ -11,7 +11,7 @@
   - 「[毎日放送](../Page/毎日放送.md "wikilink")[ダイナミックナイター](https://ja.wikipedia.org/wiki/ダイナミックナイター "wikilink")（現在の『[MBSタイガースライブ](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")』）」が大幅延長されると、番組が短縮されたり、休止になることがあった。（野球放送が延長した場合、22時以降は各番組が順次繰り下げて放送されていた。）
   - 一部の出演者は事実上の姉妹番組である「[オレたちやってま〜す](../Page/オレたちやってま〜す.md "wikilink")」のレギュラーへ昇格したケースもあった。（2000年10月 - [2002年](../Page/2002年.md "wikilink")3月の金曜日（木曜深夜）のレギュラーとなった[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")のケースなど。）水曜日（火曜深夜）と土曜日（金曜深夜）は出演者の交代が激しかった。
   - 一部（2000年7月以降の火曜日と2000年10月 - 2001年3月の金曜日前半など）を除き、出演者の都合上[毎日放送](../Page/毎日放送.md "wikilink")東京支社スタジオ（[毎日新聞社](../Page/毎日新聞社.md "wikilink")東京本社（[パレスサイドビル](https://ja.wikipedia.org/wiki/パレスサイドビル "wikilink")）9階）で録音していた。
-  - 番組終了後も出演者の一部はの本番組を後継・改題した形の番組となる｢[オレたちもっとやってま〜す](https://ja.wikipedia.org/wiki/オレたちもっとやってま〜す "wikilink")」に引き続き残った。
+  - 番組終了後も出演者の一部はの本番組を後継・改題した形の番組となる｢[オレたちもっとやってま〜す](../Page/オレたちもっとやってま〜す.md "wikilink")」に引き続き残った。
 
 ## 主な番組出演者
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - [原史奈](https://ja.wikipedia.org/wiki/原史奈 "wikilink")、[木村郁絵](https://ja.wikipedia.org/wiki/木村郁絵 "wikilink")、[清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")
+  - [原史奈](../Page/原史奈.md "wikilink")、[木村郁絵](../Page/木村郁絵.md "wikilink")、[清水香里](../Page/清水香里.md "wikilink")
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
 
 <!-- end list -->
 
-  - [石田靖](https://ja.wikipedia.org/wiki/石田靖 "wikilink")、[南かおり](../Page/南かおり.md "wikilink")、[入野佳子](https://ja.wikipedia.org/wiki/入野佳子 "wikilink")、[井上公造](https://ja.wikipedia.org/wiki/井上公造 "wikilink")（電話出演）
+  - [石田靖](../Page/石田靖.md "wikilink")、[南かおり](../Page/南かおり.md "wikilink")、[入野佳子](https://ja.wikipedia.org/wiki/入野佳子 "wikilink")、[井上公造](../Page/井上公造.md "wikilink")（電話出演）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 <!-- end list -->
 
-  - [島田奈央子](https://ja.wikipedia.org/wiki/島田奈央子 "wikilink")、下町兄弟
+  - [島田奈央子](../Page/島田奈央子.md "wikilink")、下町兄弟
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
 
 <!-- end list -->
 
-  - 後半:[野田順子](../Page/野田順子.md "wikilink")、[津川友美](https://ja.wikipedia.org/wiki/津川友美 "wikilink")、[原万紀子](../Page/原万紀子.md "wikilink")
+  - 後半:[野田順子](../Page/野田順子.md "wikilink")、[津川友美](../Page/津川友美.md "wikilink")、[原万紀子](../Page/原万紀子.md "wikilink")
 
 <!-- end list -->
 

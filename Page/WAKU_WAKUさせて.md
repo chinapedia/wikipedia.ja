@@ -1,4 +1,4 @@
-> この記事は[WAKU WAKU](https://ja.wikipedia.org/wiki/WAKU_WAKU)から翻訳されています。
+> この記事は[WAKU WAKUさせて](https://ja.wikipedia.org/wiki/WAKU_WAKUさせて)から翻訳されています。
 
 
 「**WAKU WAKUさせて**」（ワクワクさせて）は、[中山美穂](../Page/中山美穂.md "wikilink")の8枚目の[シングル](../Page/シングル.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")からリリースされた(CDS:KIDS-94)。
@@ -69,4 +69,4 @@
   - [1986年の音楽](../Page/1986年の音楽.md "wikilink")
   - [1987年の音楽](../Page/1987年の音楽.md "wikilink")
 
-[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:松本隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink")
+[Category:中山美穂の楽曲](https://ja.wikipedia.org/wiki/Category:中山美穂の楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:松本隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本隆が制作した楽曲 "wikilink") [Category:筒美京平が制作した楽曲](https://ja.wikipedia.org/wiki/Category:筒美京平が制作した楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")

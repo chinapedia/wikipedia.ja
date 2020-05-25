@@ -3,13 +3,13 @@
 
 **UFC 81: Breaking Point**（ユーエフシー・エイティワン：ブレイキング・ポイント）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[マンダレイ・ベイ・イベント・センター](https://ja.wikipedia.org/wiki/マンダレイ・ベイ・イベント・センター "wikilink")で開催された。
 
-大会メインイベントでは、[アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink")対[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")のUFC世界ヘビー級暫定王座決定戦が行われた。
+大会メインイベントでは、[アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink")対[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")のUFC世界ヘビー級暫定王座決定戦が行われた。
 
 ## 大会概要
 
-第8試合ではUFC初参戦の元[WWE](../Page/WWE.md "wikilink")ヘビー級王者[ブロック・レスナー](https://ja.wikipedia.org/wiki/ブロック・レスナー "wikilink")が[フランク・ミア](../Page/フランク・ミア.md "wikilink")に敗れ、黒星デビューとなった。
+第8試合ではUFC初参戦の元[WWE](../Page/WWE.md "wikilink")ヘビー級王者[ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")が[フランク・ミア](../Page/フランク・ミア.md "wikilink")に敗れ、黒星デビューとなった。
 
-元[PRIDEヘビー級王者](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink")と元UFC世界ヘビー級王者[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")によるメインイベントのUFC世界ヘビー級暫定王座決定戦\[1\]では、ノゲイラがシルビアを[フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")で下し、UFC世界ヘビー級暫定王者となるとともに、史上初のUFC・PRIDE両団体での王座獲得となった\[2\]。
+元[PRIDEヘビー級王者](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink")と元UFC世界ヘビー級王者[ティム・シルビア](../Page/ティム・シルビア.md "wikilink")によるメインイベントのUFC世界ヘビー級暫定王座決定戦\[1\]では、ノゲイラがシルビアを[フロントチョーク](../Page/フロントチョーク.md "wikilink")で下し、UFC世界ヘビー級暫定王者となるとともに、史上初のUFC・PRIDE両団体での王座獲得となった\[2\]。
 
 第3試合に出場予定であったトマシュ・ドルヴァルが練習中の膝の怪我のため欠場し、代わって[ティム・ボッシュ](https://ja.wikipedia.org/wiki/ティム・ボッシュ "wikilink")が出場。第6試合に出場が予定されていた[アラン・ベルチャー](../Page/アラン・ベルチャー.md "wikilink")は重度の気管支炎のため欠場となり\[3\]、代わってロブ・ヤントが出場。第7試合に出場が予定されていた[ターレス・レイチ](https://ja.wikipedia.org/wiki/ターレス・レイチ "wikilink")は拳のケガのため欠場となり、代わって[ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")が出場した。
 
@@ -20,35 +20,35 @@
 ### プレリミナリィカード
 
   - 第1試合 ライト級 5分3R
-    ○  [ロバート・エマーソン](https://ja.wikipedia.org/wiki/ロバート・エマーソン "wikilink") vs.  [中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎 "wikilink") ×
+    ○  [ロバート・エマーソン](../Page/ロバート・エマーソン.md "wikilink") vs.  [中村K太郎](../Page/中村K太郎.md "wikilink") ×
     3R終了 判定2-1（30-27、29-28、30-27）
   - 第2試合 ミドル級 5分3R
-    ○  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") vs.  [テリー・マーティン](https://ja.wikipedia.org/wiki/テリー・マーティン "wikilink") ×
+    ○  [マービン・イーストマン](https://ja.wikipedia.org/wiki/マービン・イーストマン "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
     3R終了 判定3-0（30-27、29-28、30-27）
   - 第3試合 ライトヘビー級 5分3R
     ○  [ティム・ボッシュ](https://ja.wikipedia.org/wiki/ティム・ボッシュ "wikilink") vs.  デビッド・ヒース ×
-    1R 4:52 TKO（レフェリーストップ：[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 4:52 TKO（レフェリーストップ：[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第4試合 ウェルター級 5分3R
     ○  [クリス・ライトル](../Page/クリス・ライトル.md "wikilink") vs.  カイル・ブラッドリー ×
-    1R 0:33 TKO（レフェリーストップ：右フック→[パウンド](https://ja.wikipedia.org/wiki/グラウンドパンチ "wikilink")）
+    1R 0:33 TKO（レフェリーストップ：右フック→[パウンド](../Page/グラウンドパンチ.md "wikilink")）
 
 ### メインカード
 
   - 第5試合 ライト級 5分3R
-    ○  [タイソン・グリフィン](https://ja.wikipedia.org/wiki/タイソン・グリフィン "wikilink") vs.  [グレイゾン・チバウ](https://ja.wikipedia.org/wiki/グレイゾン・チバウ "wikilink") ×
+    ○  [タイソン・グリフィン](../Page/タイソン・グリフィン.md "wikilink") vs.  [グレイゾン・チバウ](https://ja.wikipedia.org/wiki/グレイゾン・チバウ "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第6試合 ミドル級 5分3R
     ○  [ヒカルド・アルメイダ](../Page/ヒカルド・アルメイダ.md "wikilink") vs.  ロブ・ヤント ×
-    1R 1:08 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    1R 1:08 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第7試合 ミドル級 5分3R
     ○  [ネイサン・マーコート](../Page/ネイサン・マーコート.md "wikilink") vs.  [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink") ×
-    2R 1:37 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    2R 1:37 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第8試合 ヘビー級 5分3R
-    ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [ブロック・レスナー](https://ja.wikipedia.org/wiki/ブロック・レスナー "wikilink") ×
-    1R 1:30 [膝十字固め](https://ja.wikipedia.org/wiki/膝十字固め "wikilink")
+    ○  [フランク・ミア](../Page/フランク・ミア.md "wikilink") vs.  [ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink") ×
+    1R 1:30 [膝十字固め](../Page/膝十字固め.md "wikilink")
   - 第9試合 UFC世界ヘビー級暫定王座決定戦 5分5R
-    ○  [アントニオ・ホドリゴ・ノゲイラ](https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ "wikilink") vs.  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") ×
-    3R 1:28 [フロントチョーク](https://ja.wikipedia.org/wiki/フロントチョーク "wikilink")
+    ○  [アントニオ・ホドリゴ・ノゲイラ](../Page/アントニオ・ホドリゴ・ノゲイラ.md "wikilink") vs.  [ティム・シルビア](../Page/ティム・シルビア.md "wikilink") ×
+    3R 1:28 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
     ※ノゲイラが王座獲得に成功。
 
 ### 各賞
@@ -64,7 +64,7 @@
 ## 関連項目
 
   - [UFCの大会一覧](../Page/UFCの大会一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
 
 ## 外部リンク
 

@@ -1,15 +1,15 @@
-> この記事は[ZX-RR](https://ja.wikipedia.org/wiki/ZX-RR)から翻訳されています。
+> この記事は[カワサキ・ZX-RR](https://ja.wikipedia.org/wiki/カワサキ・ZX-RR)から翻訳されています。
 
 
 [Kawasaki_ZX-RR_2007TMS.jpg](https://ja.wikipedia.org/wiki/File:Kawasaki_ZX-RR_2007TMS.jpg "fig:Kawasaki_ZX-RR_2007TMS.jpg") **カワサキ・ニンジャZX-RR**は[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")のMotoGPクラスに2002年後半から2009年にかけて参戦した[川崎重工業](../Page/川崎重工業.md "wikilink")（カワサキ）のレース専用[モーターサイクルである](../Page/オートバイ.md "wikilink")。
 
 ## 誕生の背景
 
-1990年代半ば以降、[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")は自社の得意分野とされていた大型スーパースポーツバイクの売り上げが低迷していた。いわゆる「スーパースポーツ」に分類されるモーターサイクルの販売成績にはレースの戦績が少なからず影響を与えるが、当時カワサキが主に参戦していた市販車改造車両によって行われる、[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")は、2気筒エンジン車両優遇のレギュレーションであり、4気筒エンジン車両で参戦する[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")は苦戦を余儀なくされていた。
+1990年代半ば以降、[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")は自社の得意分野とされていた大型スーパースポーツバイクの売り上げが低迷していた。いわゆる「スーパースポーツ」に分類されるモーターサイクルの販売成績にはレースの戦績が少なからず影響を与えるが、当時カワサキが主に参戦していた市販車改造車両によって行われる、[スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")は、2気筒エンジン車両優遇のレギュレーションであり、4気筒エンジン車両で参戦する[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")は苦戦を余儀なくされていた。
 
-同じ頃、[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")（MotoGP）の最高峰クラスのレギュレーションの大幅な見直しが進められ、2002年から従来の[2ストローク](https://ja.wikipedia.org/wiki/2ストローク "wikilink")500ccエンジンに加え、990cc[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")エンジンでの参戦が認められる事になった。これは、すでに市販車の大半が4ストロークエンジンに移行しており、市販車への技術フィードバックが得られない2ストロークエンジンでは参戦メーカーの拡大が望めず、参戦メーカーが固定されマンネリ化傾向にあったため、エンジンの4ストローク化によって[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")、[ドゥカティ](https://ja.wikipedia.org/wiki/ドゥカティ "wikilink")、[BMW](../Page/BMW.md "wikilink")等4ストロークエンジンを得意とするメーカーの参戦を促す目的であったが、[スーパーバイク世界選手権](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")において満足の行く成績を上げられずにいたカワサキにとって、これは好機でもあった。カワサキは企業イメージの向上を図り市販車販売の不振を打破するため、2003年から[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")クラスにフル参戦する事を決定した。
+同じ頃、[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")（MotoGP）の最高峰クラスのレギュレーションの大幅な見直しが進められ、2002年から従来の[2ストローク](https://ja.wikipedia.org/wiki/2ストローク "wikilink")500ccエンジンに加え、990cc[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")エンジンでの参戦が認められる事になった。これは、すでに市販車の大半が4ストロークエンジンに移行しており、市販車への技術フィードバックが得られない2ストロークエンジンでは参戦メーカーの拡大が望めず、参戦メーカーが固定されマンネリ化傾向にあったため、エンジンの4ストローク化によって[カワサキ](https://ja.wikipedia.org/wiki/カワサキ "wikilink")、[ドゥカティ](../Page/ドゥカティ.md "wikilink")、[BMW](../Page/BMW.md "wikilink")等4ストロークエンジンを得意とするメーカーの参戦を促す目的であったが、[スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")において満足の行く成績を上げられずにいたカワサキにとって、これは好機でもあった。カワサキは企業イメージの向上を図り市販車販売の不振を打破するため、2003年から[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")クラスにフル参戦する事を決定した。
 
-カワサキは1982年を最後にロードレース世界選手権から遠ざかっており、ロードレースの純粋な競技専用車両の開発も実に20年ぶりであった。そのため、GP参戦車両はすでに実績のあったスーパーバイク参戦車両を基に開発する事になった。ベース車両である[ニンジャZX-7RR](https://ja.wikipedia.org/wiki/ニンジャZX-7RR "wikilink")のエンジン排気量を拡大し、それをオリジナルのフレームに搭載した車両が製作され、その車両で2002年前半は[全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")のプロトタイプクラスにデータ収集を兼ねて参戦、そのデータを元にMotoGP参戦マシンを開発、翌年のフル参戦に備えシーズン後半数戦に参戦する事になった。デビュー目標は同年秋にツインリンクもてぎで開催されるパシフィックGPに定められ、開発ライダーには前年度までスーパーバイク世界選手権でカワサキのエースとして活躍した[柳川明](https://ja.wikipedia.org/wiki/柳川明 "wikilink")が起用され、GP参戦チームの運営はスーパーバイク世界選手権から引き続きハラルト・エックルが行う事になった。
+カワサキは1982年を最後にロードレース世界選手権から遠ざかっており、ロードレースの純粋な競技専用車両の開発も実に20年ぶりであった。そのため、GP参戦車両はすでに実績のあったスーパーバイク参戦車両を基に開発する事になった。ベース車両である[ニンジャZX-7RR](https://ja.wikipedia.org/wiki/ニンジャZX-7RR "wikilink")のエンジン排気量を拡大し、それをオリジナルのフレームに搭載した車両が製作され、その車両で2002年前半は[全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")のプロトタイプクラスにデータ収集を兼ねて参戦、そのデータを元にMotoGP参戦マシンを開発、翌年のフル参戦に備えシーズン後半数戦に参戦する事になった。デビュー目標は同年秋にツインリンクもてぎで開催されるパシフィックGPに定められ、開発ライダーには前年度までスーパーバイク世界選手権でカワサキのエースとして活躍した[柳川明](../Page/柳川明.md "wikilink")が起用され、GP参戦チームの運営はスーパーバイク世界選手権から引き続きハラルト・エックルが行う事になった。
 
 ## 諸元
 
@@ -68,7 +68,7 @@
 
 ### 2002年
 
-  - ライダー：[柳川明](https://ja.wikipedia.org/wiki/柳川明 "wikilink")（第13戦）、[アンドリュー・ピット](https://ja.wikipedia.org/wiki/アンドリュー・ピット "wikilink")（第14〜16戦）
+  - ライダー：[柳川明](../Page/柳川明.md "wikilink")（第13戦）、[アンドリュー・ピット](../Page/アンドリュー・ピット.md "wikilink")（第14〜16戦）
   - 特徴
 
 <!-- end list -->
@@ -98,7 +98,7 @@
 
 ### 2003年
 
-  - ライダー：[ギャリー・マッコイ](https://ja.wikipedia.org/wiki/ギャリー・マッコイ "wikilink")、[アンドリュー・ピット](https://ja.wikipedia.org/wiki/アンドリュー・ピット "wikilink")、[柳川明](https://ja.wikipedia.org/wiki/柳川明 "wikilink")（第1,6戦）、[アレックス・ホフマン](https://ja.wikipedia.org/wiki/アレックス・ホフマン "wikilink")（第3,5,7,9,10戦）
+  - ライダー：[ギャリー・マッコイ](https://ja.wikipedia.org/wiki/ギャリー・マッコイ "wikilink")、[アンドリュー・ピット](../Page/アンドリュー・ピット.md "wikilink")、[柳川明](../Page/柳川明.md "wikilink")（第1,6戦）、[アレックス・ホフマン](../Page/アレックス・ホフマン.md "wikilink")（第3,5,7,9,10戦）
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 
 ### 2004年
 
-  - ライダー：[中野真矢](https://ja.wikipedia.org/wiki/中野真矢 "wikilink")、[アレックス・ホフマン](https://ja.wikipedia.org/wiki/アレックス・ホフマン "wikilink")
+  - ライダー：[中野真矢](../Page/中野真矢.md "wikilink")、[アレックス・ホフマン](../Page/アレックス・ホフマン.md "wikilink")
   - 特徴
 
 <!-- end list -->
@@ -164,7 +164,7 @@
 
 ### 2005年
 
-  - ライダー：[中野真矢](https://ja.wikipedia.org/wiki/中野真矢 "wikilink")、[アレックス・ホフマン](https://ja.wikipedia.org/wiki/アレックス・ホフマン "wikilink")、[オリビエ・ジャック](https://ja.wikipedia.org/wiki/オリビエ・ジャック "wikilink")（第3,4,10,13,15,16戦）
+  - ライダー：[中野真矢](../Page/中野真矢.md "wikilink")、[アレックス・ホフマン](../Page/アレックス・ホフマン.md "wikilink")、[オリビエ・ジャック](https://ja.wikipedia.org/wiki/オリビエ・ジャック "wikilink")（第3,4,10,13,15,16戦）
   - 特徴
 
 <!-- end list -->
@@ -196,7 +196,7 @@
 
 ### 2006年
 
-  - ライダー：[中野真矢](https://ja.wikipedia.org/wiki/中野真矢 "wikilink")、[ランディ・ド・プニエ](https://ja.wikipedia.org/wiki/ランディ・ド・プニエ "wikilink")、[松戸直樹](https://ja.wikipedia.org/wiki/松戸直樹 "wikilink")（第15戦日本GP）
+  - ライダー：[中野真矢](../Page/中野真矢.md "wikilink")、[ランディ・ド・プニエ](../Page/ランディ・ド・プニエ.md "wikilink")、[松戸直樹](../Page/松戸直樹.md "wikilink")（第15戦日本GP）
   - 特徴
 
 <!-- end list -->
@@ -227,7 +227,7 @@
 
 ### 2007年
 
-  - ライダー：[ランディ・ド・プニエ](https://ja.wikipedia.org/wiki/ランディ・ド・プニエ "wikilink")、[オリビエ・ジャック](https://ja.wikipedia.org/wiki/オリビエ・ジャック "wikilink")（第7戦カタルニアまで）、[アンソニー・ウエスト](https://ja.wikipedia.org/wiki/アンソニー・ウエスト "wikilink")（第8戦イギリス以降）、[フォンシ・ニエト](https://ja.wikipedia.org/wiki/フォンシ・ニエト "wikilink")（第5戦フランス）、[ロジャー・リー・ヘイデン](https://ja.wikipedia.org/wiki/ロジャー・リー・ヘイデン "wikilink")（第11戦USA）、[柳川明](https://ja.wikipedia.org/wiki/柳川明 "wikilink")（第15戦日本）
+  - ライダー：[ランディ・ド・プニエ](../Page/ランディ・ド・プニエ.md "wikilink")、[オリビエ・ジャック](https://ja.wikipedia.org/wiki/オリビエ・ジャック "wikilink")（第7戦カタルニアまで）、[アンソニー・ウエスト](https://ja.wikipedia.org/wiki/アンソニー・ウエスト "wikilink")（第8戦イギリス以降）、[フォンシ・ニエト](https://ja.wikipedia.org/wiki/フォンシ・ニエト "wikilink")（第5戦フランス）、[ロジャー・リー・ヘイデン](https://ja.wikipedia.org/wiki/ロジャー・リー・ヘイデン "wikilink")（第11戦USA）、[柳川明](../Page/柳川明.md "wikilink")（第15戦日本）
   - 特徴
 
 <!-- end list -->
@@ -266,7 +266,7 @@
 
 ### 2008年
 
-  - ライダー：[ジョン・ホプキンス](https://ja.wikipedia.org/wiki/ジョン・ホプキンス "wikilink")、[アンソニー・ウエスト](https://ja.wikipedia.org/wiki/アンソニー・ウエスト "wikilink")、[ジェイミー・ハッキン](https://ja.wikipedia.org/wiki/ジェイミー・ハッキン "wikilink")(第11戦アメリカ)
+  - ライダー：[ジョン・ホプキンス](../Page/ジョン・ホプキンス.md "wikilink")、[アンソニー・ウエスト](https://ja.wikipedia.org/wiki/アンソニー・ウエスト "wikilink")、[ジェイミー・ハッキン](https://ja.wikipedia.org/wiki/ジェイミー・ハッキン "wikilink")(第11戦アメリカ)
   - 特徴
 
 <!-- end list -->
@@ -318,7 +318,7 @@
 <!-- end list -->
 
   -
-    予想外に低迷した2008年の成績を受け、2009年には車体・エンジン共に刷新されることとなった。ライダーも[ドゥカティ](https://ja.wikipedia.org/wiki/ドゥカティ "wikilink")より[マルコ・メランドリ](https://ja.wikipedia.org/wiki/マルコ・メランドリ "wikilink")を迎え、2年目のホプキンスと合わせて過去最強ともいえるラインアップとなるはずであった。だが、2008年秋の[リーマンショック](https://ja.wikipedia.org/wiki/リーマンショック "wikilink")に端を発する[世界同時不況](https://ja.wikipedia.org/wiki/世界同時不況 "wikilink")の影響により、2009年1月9日、「経営資源の効率的な再配分」を名目に川崎重工本社はMotoGP参戦活動の一時休止を発表した。[1](http://www.khi.co.jp/khi_news/2009data/c3090109-1.htm)
+    予想外に低迷した2008年の成績を受け、2009年には車体・エンジン共に刷新されることとなった。ライダーも[ドゥカティ](../Page/ドゥカティ.md "wikilink")より[マルコ・メランドリ](../Page/マルコ・メランドリ.md "wikilink")を迎え、2年目のホプキンスと合わせて過去最強ともいえるラインアップとなるはずであった。だが、2008年秋の[リーマンショック](https://ja.wikipedia.org/wiki/リーマンショック "wikilink")に端を発する[世界同時不況](https://ja.wikipedia.org/wiki/世界同時不況 "wikilink")の影響により、2009年1月9日、「経営資源の効率的な再配分」を名目に川崎重工本社はMotoGP参戦活動の一時休止を発表した。[1](http://www.khi.co.jp/khi_news/2009data/c3090109-1.htm)
 
 <!-- end list -->
 
@@ -332,7 +332,7 @@
 
 <!-- end list -->
 
-  - ライダー：[マルコ・メランドリ](https://ja.wikipedia.org/wiki/マルコ・メランドリ "wikilink")
+  - ライダー：[マルコ・メランドリ](../Page/マルコ・メランドリ.md "wikilink")
   - 特徴
 
 <!-- end list -->
@@ -364,9 +364,9 @@
 
   - [カワサキ・モータース・レーシング](https://ja.wikipedia.org/wiki/カワサキ・モータース・レーシング "wikilink")
   - [ホンダ・RC211V](https://ja.wikipedia.org/wiki/ホンダ・RC211V "wikilink")
-  - [ホンダ・RC212V](https://ja.wikipedia.org/wiki/ホンダ・RC212V "wikilink")
-  - [ヤマハ・YZR-M1](https://ja.wikipedia.org/wiki/ヤマハ・YZR-M1 "wikilink")
+  - [ホンダ・RC212V](../Page/ホンダ・RC212V.md "wikilink")
+  - [ヤマハ・YZR-M1](../Page/ヤマハ・YZR-M1.md "wikilink")
   - [GSV-R](https://ja.wikipedia.org/wiki/スズキ・GSV-R "wikilink")（[スズキ](../Page/スズキ_\(企業\).md "wikilink")）　
-  - [デスモセディチ](https://ja.wikipedia.org/wiki/ドゥカティ・デスモセディチ "wikilink")（[ドゥカティ](https://ja.wikipedia.org/wiki/ドゥカティ "wikilink")）
+  - [デスモセディチ](../Page/ドゥカティ・デスモセディチ.md "wikilink")（[ドゥカティ](../Page/ドゥカティ.md "wikilink")）
 
 [Category:レーサー_(オートバイ)](https://ja.wikipedia.org/wiki/Category:レーサー_\(オートバイ\) "wikilink") [Category:カワサキのオートバイの車種](https://ja.wikipedia.org/wiki/Category:カワサキのオートバイの車種 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[CLUB ANA](https://ja.wikipedia.org/wiki/CLUB_ANA)から翻訳されています。
 
 
-**CLUB ANA**（クラブエーエヌエー）は、[1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink")に誕生し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで使用された[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")の国際線[ビジネスクラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")[サービス](../Page/サービス.md "wikilink")の[ブランド名](https://ja.wikipedia.org/wiki/ブランド名 "wikilink")である。
+**CLUB ANA**（クラブエーエヌエー）は、[1991年](../Page/1991年.md "wikilink")に誕生し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで使用された[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")の国際線[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")[サービス](../Page/サービス.md "wikilink")の[ブランド名](https://ja.wikipedia.org/wiki/ブランド名 "wikilink")である。
 
 全日本空輸が、1986年に導入した「スーパーエグゼクティブクラス」のサービスを進化させ登場したもので、2010年までに4種類の「CLUB ANA」サービスが存在していた。
 
@@ -11,7 +11,7 @@
 
 [45/47体制](https://ja.wikipedia.org/wiki/45/47体制 "wikilink")の崩壊により、[日本航空](../Page/日本航空.md "wikilink")が独占していた日本の航空会社による国際線事業に、全日本空輸が成田-ワシントン線などで初めて進出した1986年、後発航空会社のハンディを克服し収益率の高いビジネス客を獲得するため、他社の[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")型機では標準的であった横7列(2-3-2)の配列に対して、横6列(2-2-2)の「スーパーエグゼクティブクラス」を導入した。その後、横7列(2-3-2)の配列に戻すが、国際的にさらに競争力を持つためにサービス強化を図ることになった。
 
-そこで、1991年に[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")線へ進出した際には、「スーパーエグゼクティブクラス」を「CLUB ANA」へと進化させ、シートの充実だけでなく、日本の航空会社で初めて全席にTVモニター・TVゲームを導入するなど、ハード面に力を入れた。乗客が自由にスナックを食べられるようなサービスや、炊きたてのご飯を食べられるなど、今では常識となったサービスもこの時期に初めて導入された。
+そこで、1991年に[ニューヨーク](../Page/ニューヨーク.md "wikilink")線へ進出した際には、「スーパーエグゼクティブクラス」を「CLUB ANA」へと進化させ、シートの充実だけでなく、日本の航空会社で初めて全席にTVモニター・TVゲームを導入するなど、ハード面に力を入れた。乗客が自由にスナックを食べられるようなサービスや、炊きたてのご飯を食べられるなど、今では常識となったサービスもこの時期に初めて導入された。
 
 これらのハード面のサービスの進化はとどまらず、1994年には「CLUB ANA」のシートピッチを世界の航空会社に先駆けて50インチ（標準より25%拡大）にした。また、1999年シカゴ線を開設した際には[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")-400にバーカウンターやビジネスセンターを設け乗客が自由にくつろげる空間や、ビジネスサポート空間を設けた。それと同時に、世界初となる[AVOD](https://ja.wikipedia.org/wiki/AVOD "wikilink")システムを導入し「ANA's Chicago Style」と称した（なお、その後一旦同路線は運休となる）。
 
@@ -20,7 +20,7 @@
 ## 発展の歴史
 
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - 成田-ワシントン線などに、2-2-2の[座席配列の](https://ja.wikipedia.org/wiki/アブレスト "wikilink")「スーパービジネスクラス」を設置
-  - [1991年](https://ja.wikipedia.org/wiki/1991年 "wikilink") - 「スーパービジネスクラス」を進化させ「CLUB ANA」導入、日本の航空会社で初めて全席にTVモニター・TVゲームを設置
+  - [1991年](../Page/1991年.md "wikilink") - 「スーパービジネスクラス」を進化させ「CLUB ANA」導入、日本の航空会社で初めて全席にTVモニター・TVゲームを設置
   - [1994年](../Page/1994年.md "wikilink") - 「CLUB ANA」のシートピッチを世界の航空会社に先駆けて50インチ（標準より25%up）に拡大
   - [1999年](../Page/1999年.md "wikilink") - 成田-シカゴ線に「ANA's Chicago Style」のサービスを開始し、機内にバーカウンター・ビジネスコーナーを設置、世界初となるAVODシステムを導入\* [2000年](../Page/2000年.md "wikilink") - 「ANA's Chicago Style」のサービスをその他の北米路線にも拡大し、「ANA's Super Style」のサービスを開始
   - [2002年](../Page/2002年.md "wikilink") - 成田-ロンドン線を皮切りに「New Style, CLUB ANA」を欧米路線に導入
@@ -45,9 +45,9 @@
 
 ### CLUB ANA Asia
 
-2002年から[ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")-300ERに「CLUB ANA Asia」を導入し、全席にAVDO対応のシートテレビと電動アシストを設置した上、横5列(2-1-2)の座席とし、767のビジネスクラスとしてはゆとりのある座席配置とした。
+2002年から[ボーイング767](../Page/ボーイング767.md "wikilink")-300ERに「CLUB ANA Asia」を導入し、全席にAVDO対応のシートテレビと電動アシストを設置した上、横5列(2-1-2)の座席とし、767のビジネスクラスとしてはゆとりのある座席配置とした。
 
-「CLUB ANA Asia」は中華人民共和国線で人気が出て、[エアバスA320](../Page/エアバスA320.md "wikilink")にも搭載されるようになった。但しボーイング767-300ERとは違ってビジネスクラスのシートテレビがポータブルHDDとなる。2008年現在では、ほぼ全ての[ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")-300ERが「CLUB ANA Asia」となっており、主に成田-シンガポール・香港・中華人民共和国・東南アジア・ホノルル線に就航していたが、[ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")-300ERの退役、国内線移管に伴い数を減らし2019年現在では[関空](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")・[成田発着の一部中国路線に使用されている](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")。また、2010年以降に導入された[ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")-300ERの新造機にはこのタイプではなく「ANA BUSINESS CRADLE」の座席が設置されている。
+「CLUB ANA Asia」は中華人民共和国線で人気が出て、[エアバスA320](../Page/エアバスA320.md "wikilink")にも搭載されるようになった。但しボーイング767-300ERとは違ってビジネスクラスのシートテレビがポータブルHDDとなる。2008年現在では、ほぼ全ての[ボーイング767](../Page/ボーイング767.md "wikilink")-300ERが「CLUB ANA Asia」となっており、主に成田-シンガポール・香港・中華人民共和国・東南アジア・ホノルル線に就航していたが、[ボーイング767](../Page/ボーイング767.md "wikilink")-300ERの退役、国内線移管に伴い数を減らし2019年現在では[関空](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")・[成田発着の一部中国路線に使用されている](../Page/成田国際空港.md "wikilink")。また、2010年以降に導入された[ボーイング767](../Page/ボーイング767.md "wikilink")-300ERの新造機にはこのタイプではなく「ANA BUSINESS CRADLE」の座席が設置されている。
 
 また、2001年～2004年に欧米線に導入された「スーパースタイル」機（ボーイング777-200ER）は、ボーイング777-300ERの欧米線への導入が進んだ事で余剰が発生した。そこでファーストクラスを廃止し、ビジネスクラスをCLUB ANA Asiaに改修した。エコノミーを含めて306席（Club ANA Asiaは35席、エコノミークラス271席）で全席にシートテレビを装備する。2008年現在は羽田-ソウル（金浦）、成田-上海・香港や一部国内線に就航していたが、2019年現在777-200ERの国際線での定期運用はなく国内線座席に改修され国内線で使用されている。元々、短距離路線への投入を意図したシート配置のためトイレの数が国内線機材並みに少ないことに加え、ビジネスクラスが35席しかない（New Styleと比較すると半減）ため慢性的に混雑することもあった。
 
@@ -57,7 +57,7 @@
 
 ### New Style, CLUB ANA
 
-2002年に、当時は世界でも数少ない[ビジネスクラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")と[エコノミークラス](https://ja.wikipedia.org/wiki/エコノミークラス "wikilink")の[中間クラスである](https://ja.wikipedia.org/wiki/プレミアムエコノミークラス "wikilink")「Premium Economy」を導入し、それと同時に日本で初めて「CLUB ANA」をライフラット電動シートへと進化させた「New Style CLUB ANA」を[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")-400に設定し、[成田](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")-ロンドン線に就航させた。また当時はファーストとビジネスにしかオンデマンド対応（AVOD）のシートテレビが搭載されていなかったが、世界に先駆けてエコノミークラスにも導入された。その後、全欧米線や東南アジア線への導入が進み、2004年には[ボーイング777](../Page/ボーイング777.md "wikilink")-300ER型機にも導入した。ボーイング777-300ERは通常であれば300席～350席設けることが可能であるが、4クラスで247席と、特に豪華仕様になっている。
+2002年に、当時は世界でも数少ない[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")と[エコノミークラス](../Page/エコノミークラス.md "wikilink")の[中間クラスである](https://ja.wikipedia.org/wiki/プレミアムエコノミークラス "wikilink")「Premium Economy」を導入し、それと同時に日本で初めて「CLUB ANA」をライフラット電動シートへと進化させた「New Style CLUB ANA」を[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")-400に設定し、[成田](../Page/成田国際空港.md "wikilink")-ロンドン線に就航させた。また当時はファーストとビジネスにしかオンデマンド対応（AVOD）のシートテレビが搭載されていなかったが、世界に先駆けてエコノミークラスにも導入された。その後、全欧米線や東南アジア線への導入が進み、2004年には[ボーイング777](../Page/ボーイング777.md "wikilink")-300ER型機にも導入した。ボーイング777-300ERは通常であれば300席～350席設けることが可能であるが、4クラスで247席と、特に豪華仕様になっている。
 
 現在では機材更新に伴い、本来導入・設定されていない多くの路線でも「New Style, Club ANA」や、「Premium Economy」に座れる事も多くなっており、サービス向上の一助となっている。
 
@@ -103,8 +103,8 @@
 ## 関連項目
 
   - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
-  - [ビジネスクラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")
-  - [スーパーシート](https://ja.wikipedia.org/wiki/スーパーシート "wikilink")プレミアム・プレミアムクラス
+  - [ビジネスクラス](../Page/ビジネスクラス.md "wikilink")
+  - [スーパーシート](../Page/スーパーシート.md "wikilink")プレミアム・プレミアムクラス
 
 ## 外部リンク
 

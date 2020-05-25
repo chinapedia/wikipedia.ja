@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ジリンガムFC](https://ja.wikipedia.org/wiki/ジリンガムFC)から翻訳されています。
 
 
 **ジリンガム・フットボール・クラブ**（**Gillingham Football Club**）は[イングランド](../Page/イングランド.md "wikilink")･[ジリンガム](https://ja.wikipedia.org/wiki/ジリンガム "wikilink")を本拠地とするサッカークラブチームである。2017-18シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。
@@ -145,7 +145,7 @@
 
   - [パウロ・ガッサニーガ](https://ja.wikipedia.org/wiki/パウロ・ガッサニーガ "wikilink") 2011-2012
 
-  - [ポール・コンチェスキー](https://ja.wikipedia.org/wiki/ポール・コンチェスキー "wikilink") 2016-2017
+  - [ポール・コンチェスキー](../Page/ポール・コンチェスキー.md "wikilink") 2016-2017
 
   - [クリス・ハード](https://ja.wikipedia.org/wiki/クリス・ハード "wikilink") 2016-2017
 

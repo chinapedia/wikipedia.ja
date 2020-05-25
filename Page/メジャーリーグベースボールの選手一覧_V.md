@@ -1,4 +1,4 @@
-> この記事は[ V](https://ja.wikipedia.org/wiki/_V)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 V](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_V)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**V**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -123,14 +123,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Marc_Valdes" title="wikilink">Marc Valdes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・バルデス" title="wikilink">マーク・バルデス</a></p></td>
+<td><p><a href="../Page/マーク・バルデス.md" title="wikilink">マーク・バルデス</a></p></td>
 <td><p>1995</p></td>
 <td><p>2001</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pedro_Valdes" title="wikilink">Pedro Valdes</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・バルデス" title="wikilink">ペドロ・バルデス</a></p></td>
+<td><p><a href="../Page/ペドロ・バルデス.md" title="wikilink">ペドロ・バルデス</a></p></td>
 <td><p>1996</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ismael_Valdez" title="wikilink">Ismael Valdez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イスマエル・バルデス" title="wikilink">イスマエル・バルデス</a></p></td>
+<td><p><a href="../Page/イスマエル・バルデス.md" title="wikilink">イスマエル・バルデス</a></p></td>
 <td><p>1994</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wilson_Valdez" title="wikilink">Wilson Valdez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィルソン・バルデス" title="wikilink">ウィルソン・バルデス</a></p></td>
+<td><p><a href="../Page/ウィルソン・バルデス.md" title="wikilink">ウィルソン・バルデス</a></p></td>
 <td><p>2004</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -284,14 +284,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eric_Valent" title="wikilink">Eric Valent</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・バレント" title="wikilink">エリック・バレント</a></p></td>
+<td><p><a href="../Page/エリック・バレント.md" title="wikilink">エリック・バレント</a></p></td>
 <td><p>2001</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Javier_Valentín" title="wikilink">Javier Valentin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハビアー・バレンティン" title="wikilink">ハビアー・バレンティン</a></p></td>
+<td><p><a href="../Page/ハビアー・バレンティン.md" title="wikilink">ハビアー・バレンティン</a></p></td>
 <td><p>1997</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -312,7 +312,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Valentín" title="wikilink">Jose Valentin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・バレンティン" title="wikilink">ホセ・バレンティン</a></p></td>
+<td><p><a href="../Page/ホセ・バレンティン.md" title="wikilink">ホセ・バレンティン</a></p></td>
 <td><p>1992</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -382,7 +382,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fernando_Valenzuela" title="wikilink">Fernando Valenzuela</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・バレンズエラ" title="wikilink">フェルナンド・バレンズエラ</a></p></td>
+<td><p><a href="../Page/フェルナンド・バレンズエラ.md" title="wikilink">フェルナンド・バレンズエラ</a></p></td>
 <td><p>1980</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -760,7 +760,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ildemaro_Vargas" title="wikilink">Ildemaro Vargas</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イルデマロ・バルガス" title="wikilink">イルデマロ・バルガス</a></p></td>
+<td><p><a href="../Page/イルデマロ・バルガス.md" title="wikilink">イルデマロ・バルガス</a></p></td>
 <td><p>2017</p></td>
 <td></td>
 <td></td>
@@ -795,7 +795,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jason_Varitek" title="wikilink">Jason Varitek</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・バリテック" title="wikilink">ジェイソン・バリテック</a></p></td>
+<td><p><a href="../Page/ジェイソン・バリテック.md" title="wikilink">ジェイソン・バリテック</a></p></td>
 <td><p>1997</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -977,7 +977,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Greg_Vaughn" title="wikilink">Greg Vaughn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレッグ・ボーン" title="wikilink">グレッグ・ボーン</a></p></td>
+<td><p><a href="../Page/グレッグ・ボーン.md" title="wikilink">グレッグ・ボーン</a></p></td>
 <td><p>1989</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -991,7 +991,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mo_Vaughn" title="wikilink">Mo Vaughn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モー・ボーン" title="wikilink">モー・ボーン</a></p></td>
+<td><p><a href="../Page/モー・ボーン.md" title="wikilink">モー・ボーン</a></p></td>
 <td><p>1991</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -1026,7 +1026,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Javier_Vazquez" title="wikilink">Javier Vazquez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハビアー・バスケス" title="wikilink">ハビアー・バスケス</a></p></td>
+<td><p><a href="../Page/ハビアー・バスケス.md" title="wikilink">ハビアー・バスケス</a></p></td>
 <td><p>1998</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -1224,14 +1224,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Venafro" title="wikilink">Mike Venafro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ベナフロ" title="wikilink">マイク・ベナフロ</a></p></td>
+<td><p><a href="../Page/マイク・ベナフロ.md" title="wikilink">マイク・ベナフロ</a></p></td>
 <td><p>1999</p></td>
 <td><p>2006</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Pat_Venditte" title="wikilink">Pat Venditte</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パット・ベンディット" title="wikilink">パット・ベンディット</a></p></td>
+<td><p><a href="../Page/パット・ベンディット.md" title="wikilink">パット・ベンディット</a></p></td>
 <td><p>2015</p></td>
 <td></td>
 <td></td>
@@ -1392,7 +1392,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Justin_Verlander" title="wikilink">Justin Verlander</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャスティン・バーランダー" title="wikilink">ジャスティン・バーランダー</a></p></td>
+<td><p><a href="../Page/ジャスティン・バーランダー.md" title="wikilink">ジャスティン・バーランダー</a></p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
@@ -1427,7 +1427,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Zoilo_Versalles" title="wikilink">Zoilo Versalles</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソイロ・ベルサイエス" title="wikilink">ソイロ・ベルサイエス</a></p></td>
+<td><p><a href="../Page/ソイロ・ベルサイエス.md" title="wikilink">ソイロ・ベルサイエス</a></p></td>
 <td><p>1959</p></td>
 <td><p>1971</p></td>
 <td></td>
@@ -1513,7 +1513,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Shane_Victorino" title="wikilink">Shane Victorino</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェーン・ビクトリーノ" title="wikilink">シェーン・ビクトリーノ</a></p></td>
+<td><p><a href="../Page/シェーン・ビクトリーノ.md" title="wikilink">シェーン・ビクトリーノ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -1821,7 +1821,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Omar_Vizquel" title="wikilink">Omar Vizquel</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オマー・ビスケル" title="wikilink">オマー・ビスケル</a></p></td>
+<td><p><a href="../Page/オマー・ビスケル.md" title="wikilink">オマー・ビスケル</a></p></td>
 <td><p>1989</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -1860,7 +1860,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Vogelsong" title="wikilink">Ryan Vogelsong</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライアン・ボーグルソン" title="wikilink">ライアン・ボーグルソン</a></p></td>
+<td><p><a href="../Page/ライアン・ボーグルソン.md" title="wikilink">ライアン・ボーグルソン</a></p></td>
 <td><p>2000</p></td>
 <td></td>
 <td></td>
@@ -2000,7 +2000,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Joey_Votto" title="wikilink">Joey Votto</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョーイ・ボット" title="wikilink">ジョーイ・ボット</a></p></td>
+<td><p><a href="../Page/ジョーイ・ボット.md" title="wikilink">ジョーイ・ボット</a></p></td>
 <td><p>2007</p></td>
 <td></td>
 <td></td>
@@ -2014,7 +2014,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brad_Voyles" title="wikilink">Brad Voyles</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラッド・ボイルズ" title="wikilink">ブラッド・ボイルズ</a></p></td>
+<td><p><a href="../Page/ブラッド・ボイルズ.md" title="wikilink">ブラッド・ボイルズ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -2053,14 +2053,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Vukovich" title="wikilink">George Vukovich</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・ブコビッチ" title="wikilink">ジョージ・ブコビッチ</a></p></td>
+<td><p><a href="../Page/ジョージ・ブコビッチ.md" title="wikilink">ジョージ・ブコビッチ</a></p></td>
 <td><p>1980</p></td>
 <td><p>1985</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:John_Vukovich" title="wikilink">John Vukovich</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ブコビッチ" title="wikilink">ジョン・ブコビッチ</a></p></td>
+<td><p><a href="../Page/ジョン・ブコビッチ.md" title="wikilink">ジョン・ブコビッチ</a></p></td>
 <td><p>1970</p></td>
 <td><p>1981</p></td>
 <td></td>

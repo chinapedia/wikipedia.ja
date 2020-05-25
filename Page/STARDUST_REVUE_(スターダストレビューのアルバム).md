@@ -1,7 +1,7 @@
-> この記事は[STARDUST REVUE \(\)](https://ja.wikipedia.org/wiki/STARDUST_REVUE_\(\))から翻訳されています。
+> この記事は[STARDUST REVUE \(スターダストレビューのアルバム\)](https://ja.wikipedia.org/wiki/STARDUST_REVUE_\(スターダストレビューのアルバム\))から翻訳されています。
 
 
-『**STARDUST REVUE**』（スターダストレビュー）は**[スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")**（以下「スタレビ」）のデビュー[アルバム](../Page/アルバム.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売された。
+『**STARDUST REVUE**』（スターダストレビュー）は**[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")**（以下「スタレビ」）のデビュー[アルバム](../Page/アルバム.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売された。
 
 ## 収録曲
 
@@ -10,7 +10,7 @@
 アナログ・レコードは，1～5がA面，6～9がB面。
 
 1.  **[シュガーはお年頃](https://ja.wikipedia.org/wiki/シュガーはお年頃 "wikilink")**
-    作詞：[根本要](https://ja.wikipedia.org/wiki/根本要 "wikilink")/手島昭、作曲：根本要（1stシングル）
+    作詞：[根本要](../Page/根本要.md "wikilink")/手島昭、作曲：根本要（1stシングル）
 2.  **ラッキーレイン**
     作詞：根本要/手島昭、作曲：根本要　（間奏のサックス演奏で[ジェイク・コンセプション](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")が参加）
 3.  **気分はセレナーデ**
@@ -24,7 +24,7 @@
 7.  **今年の夏こそは**
     作詞:井上徳雄/作曲:井上徳雄
 8.  **READY TO LOVE AGAIN**
-    作詞：[三谷泰弘](https://ja.wikipedia.org/wiki/三谷泰弘 "wikilink")、作曲：三谷泰弘、メインボーカル：三谷泰弘
+    作詞：[三谷泰弘](../Page/三谷泰弘.md "wikilink")、作曲：三谷泰弘、メインボーカル：三谷泰弘
 9.  **たそがれラプソディ**
     作詞：根本要/手島昭、作曲：根本要
 10. **シュガーはお年頃（Liveバージョン）**

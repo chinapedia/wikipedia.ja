@@ -383,7 +383,7 @@ DISC-3:[TOSHIBA EMI](../Page/EMIミュージック・ジャパン.md "wikilink")
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いっぱいキスしよう" title="wikilink">いっぱいキスしよう</a></p></td>
+<td><p><a href="../Page/いっぱいキスしよう.md" title="wikilink">いっぱいキスしよう</a></p></td>
 <td><p><a href="../Page/山下久美子.md" title="wikilink">山下久美子</a></p></td>
 <td><p>1993年5月19日</p></td>
 <td><p>EAST WORLD</p></td>

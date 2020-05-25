@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR西日本不動産開発](https://ja.wikipedia.org/wiki/JR西日本不動産開発)から翻訳されています。
 
 
 **JR西日本不動産開発株式会社**（ジェイアールにしにほんふどうさんかいはつ、）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に本社を置く日本の総合[不動産会社](../Page/不動産会社.md "wikilink")。[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）の[完全子会社](../Page/子会社.md "wikilink")\[1\]。

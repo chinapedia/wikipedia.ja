@@ -9,7 +9,7 @@ OBEXは[IrDA](../Page/IrDA.md "wikilink")の規格の一つであるが、[Bluet
 
 クライアントがサーバに接続するときに信頼性の高い転送を行う点と、接続した後にオブジェクトの要求・提供を行う点において、OBEXは[HTTPに似ている](../Page/Hypertext_Transfer_Protocol.md "wikilink")。しかし、いくつかの重要な点が異なっている。
 
-  - **転送** - HTTPは通常、[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")ポートの上でレイヤが作られる。OBEXは通常、IrDAデバイス上の[IrLAP](https://ja.wikipedia.org/wiki/IrLAP "wikilink")/[IrLMP](https://ja.wikipedia.org/wiki/IrLMP "wikilink")/[Tiny TPスタック上に実装される](https://ja.wikipedia.org/wiki/Tiny_TP "wikilink")。[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")の場合、[Baseband](https://ja.wikipedia.org/wiki/Baseband "wikilink")/[Link Manager](https://ja.wikipedia.org/wiki/Link_Manager "wikilink")/[L2CAP](https://ja.wikipedia.org/wiki/L2CAP "wikilink")/[RFCOMM](https://ja.wikipedia.org/wiki/RFCOMM "wikilink")スタック上に実装される。また、他にもこのようなOBEXの*[バインディング](https://ja.wikipedia.org/wiki/バインディング "wikilink")*が可能である。
+  - **転送** - HTTPは通常、[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")ポートの上でレイヤが作られる。OBEXは通常、IrDAデバイス上の[IrLAP](https://ja.wikipedia.org/wiki/IrLAP "wikilink")/[IrLMP](https://ja.wikipedia.org/wiki/IrLMP "wikilink")/[Tiny TPスタック上に実装される](https://ja.wikipedia.org/wiki/Tiny_TP "wikilink")。[Bluetooth](../Page/Bluetooth.md "wikilink")の場合、[Baseband](https://ja.wikipedia.org/wiki/Baseband "wikilink")/[Link Manager](https://ja.wikipedia.org/wiki/Link_Manager "wikilink")/[L2CAP](https://ja.wikipedia.org/wiki/L2CAP "wikilink")/[RFCOMM](https://ja.wikipedia.org/wiki/RFCOMM "wikilink")スタック上に実装される。また、他にもこのようなOBEXの*[バインディング](https://ja.wikipedia.org/wiki/バインディング "wikilink")*が可能である。
 
 <!-- end list -->
 

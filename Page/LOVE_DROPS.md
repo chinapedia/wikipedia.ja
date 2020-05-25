@@ -28,13 +28,13 @@
         作詞:岸本早未　作曲:呉地マサキ　編曲:katsuo
 6.  **笑う君と**
       -
-        作詞:岸本早未　作曲:[後藤康二](https://ja.wikipedia.org/wiki/後藤康二 "wikilink")　編曲:[小林哲](../Page/小林哲.md "wikilink")
+        作詞:岸本早未　作曲:[後藤康二](../Page/後藤康二.md "wikilink")　編曲:[小林哲](../Page/小林哲.md "wikilink")
 7.  **[Venus 18](../Page/JUMP!NG↑GO☆LET'S_GO⇒.md "wikilink")**
       -
         作詞:岸本早未　作曲:後藤康二　編曲:[豆田将](../Page/豆田将.md "wikilink")
 8.  **[PEACH:LIME//SHAKE](https://ja.wikipedia.org/wiki/PEACH:LIME/SHAKE "wikilink")**
       -
-        作詞:岸本早未　作曲・編曲:[後藤康二](https://ja.wikipedia.org/wiki/後藤康二 "wikilink")
+        作詞:岸本早未　作曲・編曲:[後藤康二](../Page/後藤康二.md "wikilink")
 
 ## 関連項目
 

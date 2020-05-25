@@ -7,7 +7,7 @@
 
 SDPは、セッションの告知やセッションへの招待、他の[マルチメディア](../Page/マルチメディア.md "wikilink")セッションを開始するために必要な情報を記述することを目的としている。
 
-SDPは、[Session Announcement Protocol](https://ja.wikipedia.org/wiki/Session_Announcement_Protocol "wikilink")（SAP）の一つのコンポーネントとして始まったが、 ちょうど[マルチキャスト](../Page/マルチキャスト.md "wikilink")セッションを記述する[スタンドアローン](https://ja.wikipedia.org/wiki/スタンドアローン "wikilink")の形式として、[RTPや](https://ja.wikipedia.org/wiki/Real-time_Transport_Protocol "wikilink")[SIPに関連した他の用途が見つけられた](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol "wikilink")。
+SDPは、[Session Announcement Protocol](https://ja.wikipedia.org/wiki/Session_Announcement_Protocol "wikilink")（SAP）の一つのコンポーネントとして始まったが、 ちょうど[マルチキャスト](../Page/マルチキャスト.md "wikilink")セッションを記述する[スタンドアローン](../Page/スタンドアローン.md "wikilink")の形式として、[RTPや](../Page/Real-time_Transport_Protocol.md "wikilink")[SIPに関連した他の用途が見つけられた](../Page/Session_Initiation_Protocol.md "wikilink")。
 
 SDPに関連する用語に以下の5つがあげられる。
 

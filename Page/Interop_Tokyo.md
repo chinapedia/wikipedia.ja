@@ -1,13 +1,13 @@
 > この記事は[Interop Tokyo](https://ja.wikipedia.org/wiki/Interop_Tokyo)から翻訳されています。
 
 
-**Interop Tokyo**（インターロプ・とうきょう）とは、[首都圏における](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、[ネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")・[インフラストラクチャー](https://ja.wikipedia.org/wiki/インフラストラクチャー "wikilink")技術、製品、またそれらを用いた[ソリューション](https://ja.wikipedia.org/wiki/ソリューション "wikilink")サービスについての展示会である。近年は毎年6月初旬～中旬に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催されている。
+**Interop Tokyo**（インターロプ・とうきょう）とは、[首都圏における](../Page/首都圏_\(日本\).md "wikilink")、[ネットワーク](../Page/コンピュータネットワーク.md "wikilink")・[インフラストラクチャー](../Page/インフラストラクチャー.md "wikilink")技術、製品、またそれらを用いた[ソリューション](https://ja.wikipedia.org/wiki/ソリューション "wikilink")サービスについての展示会である。近年は毎年6月初旬～中旬に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催されている。
 
 ## 開催概要
 
 国内および海外を代表するネットワーク関連企業および団体が参加し、参加時点での先端技術や新製品を発表してデモンストレーションする。また企業トップやキーパーソンによる講演やセミナー（コンファレンス）もおこなわれる。デジタル・コンテンツに特化した [IMC Tokyo](https://ja.wikipedia.org/wiki/IMC_Tokyo "wikilink") 、デジタルサイネージの専門展であるデジタルサイネージ ジャパンも[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて同時開催される。
 
-[1994年](../Page/1994年.md "wikilink")～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")は**NetWorld+Interop Tokyo**という名称で開催されていた。
+[1994年](../Page/1994年.md "wikilink")～[2005年](../Page/2005年.md "wikilink")は**NetWorld+Interop Tokyo**という名称で開催されていた。
 
 「コンファレンス」「展示会」から構成されており、また、会場内にはその時々のトレンドを反映したShowNetと呼ばれる独自のネットワークが構築され、これも展示物として大きな見どころの一つである。
 

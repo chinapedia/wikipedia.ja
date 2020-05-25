@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")に[SME Recordsよりリリースされた](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")に[SME Recordsよりリリースされた](../Page/エスエムイーレコーズ.md "wikilink")。
   - 5年ぶりに録り直した「明日への扉 〜5 years brew Version〜」や、このシングルの為に書き下ろされた楽曲「永遠というこの瞬間に」が収録されている。
 
 ## 収録曲
 
-1.  **[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(I_WiSHの曲\) "wikilink") 〜5 years brew Version〜**
+1.  **[明日への扉](../Page/明日への扉_\(I_WiSHの曲\).md "wikilink") 〜5 years brew Version〜**
       - 作詞・作曲：[ai](https://ja.wikipedia.org/wiki/川嶋あい "wikilink") / 編曲：小澤純、[nao](https://ja.wikipedia.org/wiki/nao_\(作曲家\) "wikilink")
     <!-- end list -->
       -

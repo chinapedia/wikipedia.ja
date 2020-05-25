@@ -1,4 +1,4 @@
-> この記事は[Metamorphoze ](https://ja.wikipedia.org/wiki/Metamorphoze_)から翻訳されています。
+> この記事は[Metamorphoze 〜メタモルフォーゼ〜](https://ja.wikipedia.org/wiki/Metamorphoze_〜メタモルフォーゼ〜)から翻訳されています。
 
 
 「**Metamorphoze 〜メタモルフォーゼ〜**」は、[Gacktが発表した楽曲](https://ja.wikipedia.org/wiki/GACKT "wikilink")、及び同曲を収録したシングル。通算22枚目のシングルである。
@@ -17,13 +17,13 @@
     <!-- end list -->
       -
         [松竹](../Page/松竹.md "wikilink")系劇場版アニメ映画『[機動戦士Ζガンダム A New Translation -星を継ぐ者-](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム#劇場版 "wikilink")』オープニングテーマ
-        [PVはGacktが当該劇場作品に登場する](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[モビルスーツ](../Page/モビルスーツ.md "wikilink")のそれを模したコクピット内の[全天周囲モニター・リニアシート](../Page/全天周囲モニター・リニアシート.md "wikilink")での映像になっている。
+        [PVはGacktが当該劇場作品に登場する](../Page/ミュージック・ビデオ.md "wikilink")[モビルスーツ](../Page/モビルスーツ.md "wikilink")のそれを模したコクピット内の[全天周囲モニター・リニアシート](../Page/全天周囲モニター・リニアシート.md "wikilink")での映像になっている。
 2.  **君が待っているから（Remix）**
       - 作詞・作曲：Gackt.C
     <!-- end list -->
       -
         松竹系劇場版アニメ映画『機動戦士Ζガンダム A New Translation -星を継ぐ者-』エンディングテーマ
-        4thアルバム『[Crescent](https://ja.wikipedia.org/wiki/Crescent_\(GACKTのアルバム\) "wikilink")』からのシングルカットで、リカットにあたり、リミックスを施して収録されている。
+        4thアルバム『[Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink")』からのシングルカットで、リカットにあたり、リミックスを施して収録されている。
 3.  Metamorphoze 〜メタモルフォーゼ〜（Instrumental）
 4.  君が待っているから（Remix）（Instrumental）
 
@@ -40,8 +40,8 @@
 
 ## 収録アルバム
 
-  - [Crescent](https://ja.wikipedia.org/wiki/Crescent_\(GACKTのアルバム\) "wikilink") (\#2、原曲)
-  - [DIABOLOS](https://ja.wikipedia.org/wiki/DIABOLOS "wikilink") (\#1)
+  - [Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink") (\#2、原曲)
+  - [DIABOLOS](../Page/DIABOLOS.md "wikilink") (\#1)
   - [0079-0088](https://ja.wikipedia.org/wiki/0079-0088 "wikilink") (\#1)
   - [THE ELEVENTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_ELEVENTH_DAY_〜SINGLE_COLLECTION〜 "wikilink") (\#1)
 

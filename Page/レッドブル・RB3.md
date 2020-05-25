@@ -1,7 +1,7 @@
-> この記事は[RB3](https://ja.wikipedia.org/wiki/RB3)から翻訳されています。
+> この記事は[レッドブル・RB3](https://ja.wikipedia.org/wiki/レッドブル・RB3)から翻訳されています。
 
 
-**レッドブル・RB3** () は[レッドブル・レーシング](https://ja.wikipedia.org/wiki/レッドブル・レーシング "wikilink")が[2007年のF1世界選手権](https://ja.wikipedia.org/wiki/2007年のF1世界選手権 "wikilink")に投入した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")。デザイナーは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度よりチームに加入した[エイドリアン・ニューウェイ](https://ja.wikipedia.org/wiki/エイドリアン・ニューウェイ "wikilink")。
+**レッドブル・RB3** () は[レッドブル・レーシング](../Page/レッドブル・レーシング.md "wikilink")が[2007年のF1世界選手権](../Page/2007年のF1世界選手権.md "wikilink")に投入した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")。デザイナーは[2006年](../Page/2006年.md "wikilink")度よりチームに加入した[エイドリアン・ニューウェイ](../Page/エイドリアン・ニューウェイ.md "wikilink")。
 
 ## 開発
 
@@ -12,24 +12,24 @@
 ### シャーシ
 
   - シャーシ名 RB3
-  - [トランスミッション](https://ja.wikipedia.org/wiki/トランスミッション "wikilink") 縦置き7速ギヤボックス、[APレーシング](https://ja.wikipedia.org/wiki/APレーシング "wikilink")製クラッチ
+  - [トランスミッション](../Page/トランスミッション.md "wikilink") 縦置き7速ギヤボックス、[APレーシング](https://ja.wikipedia.org/wiki/APレーシング "wikilink")製クラッチ
   - [ホイール](../Page/車輪.md "wikilink") AVUS
   - [タイヤ](../Page/タイヤ.md "wikilink") [ブリヂストン](../Page/ブリヂストン.md "wikilink")
-  - [ブレーキ](../Page/ブレーキ.md "wikilink")キャリパー [ブレンボ](https://ja.wikipedia.org/wiki/ブレンボ "wikilink")
+  - [ブレーキ](../Page/ブレーキ.md "wikilink")キャリパー [ブレンボ](../Page/ブレンボ.md "wikilink")
   - [ブレーキ](../Page/ブレーキ.md "wikilink")ディスク・パッド [ヒトコ](https://ja.wikipedia.org/wiki/ヒトコ "wikilink")
   - 電子部品 [マニエッティ・マレリ](../Page/マニエッティ・マレリ.md "wikilink")(エンジン)、Pi(シャシー)
 
 ### エンジン
 
-  - エンジン名 [ルノー](https://ja.wikipedia.org/wiki/ルノーF1 "wikilink") RS27
+  - エンジン名 [ルノー](../Page/ルノーF1.md "wikilink") RS27
   - 気筒数・角度 V型8気筒・90度
   - 排気量 2,398cc
   - エンジン重量 95kg
-  - 燃料 [エルフ](https://ja.wikipedia.org/wiki/トタル "wikilink")
+  - 燃料 [エルフ](../Page/トタル.md "wikilink")
 
 ## 記録
 
-シーズンが開幕した後も信頼性の問題は一向に回復せず、予選ではTOP10の常連となるなど、速さを見せるものの、前半の9戦の完走率は50％と深刻な状態であった。ところが第10戦[ヨーロッパGPで](../Page/2007年ヨーロッパグランプリ.md "wikilink")[マーク・ウェバー](../Page/マーク・ウェバー.md "wikilink")が3位表彰台、チームメイトの[デビッド・クルサード](https://ja.wikipedia.org/wiki/デビッド・クルサード "wikilink")も5位入賞を果たすと信頼性の問題も一定の改善が見られるようになった。 [日本GPではウェバーが](https://ja.wikipedia.org/wiki/2007年日本グランプリ_\(4輪\) "wikilink")2位走行中に後続車に追突されリタイアするなどの不運などもあり、結局24ポイント獲得、コンストラクターズチャンピオンシップ5位に留まるも、来期に期待を持たせた。
+シーズンが開幕した後も信頼性の問題は一向に回復せず、予選ではTOP10の常連となるなど、速さを見せるものの、前半の9戦の完走率は50％と深刻な状態であった。ところが第10戦[ヨーロッパGPで](../Page/2007年ヨーロッパグランプリ.md "wikilink")[マーク・ウェバー](../Page/マーク・ウェバー.md "wikilink")が3位表彰台、チームメイトの[デビッド・クルサード](../Page/デビッド・クルサード.md "wikilink")も5位入賞を果たすと信頼性の問題も一定の改善が見られるようになった。 [日本GPではウェバーが](../Page/2007年日本グランプリ_\(4輪\).md "wikilink")2位走行中に後続車に追突されリタイアするなどの不運などもあり、結局24ポイント獲得、コンストラクターズチャンピオンシップ5位に留まるも、来期に期待を持たせた。
 
 <table>
 <thead>
@@ -68,7 +68,7 @@
 </p></td>
 <td><p><a href="../Page/2007年スペイングランプリ.md" title="wikilink">ESP</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年モナコグランプリ" title="wikilink">MON</a><br />
+<td><p><a href="../Page/2007年モナコグランプリ.md" title="wikilink">MON</a><br />
 </p></td>
 <td><p><a href="../Page/2007年カナダグランプリ.md" title="wikilink">CAN</a><br />
 </p></td>
@@ -88,7 +88,7 @@
 </p></td>
 <td><p><a href="../Page/2007年ベルギーグランプリ.md" title="wikilink">BEL</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
+<td><p><a href="../Page/2007年日本グランプリ_(4輪).md" title="wikilink">JPN</a><br />
 </p></td>
 <td><p><a href="../Page/2007年中国グランプリ.md" title="wikilink">CHN</a><br />
 </p></td>
@@ -101,9 +101,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年のF1世界選手権" title="wikilink">2007</a></p></td>
+<td><p><a href="../Page/2007年のF1世界選手権.md" title="wikilink">2007</a></p></td>
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・クルサード" title="wikilink">デビッド・クルサード</a></p></td>
+<td><p><a href="../Page/デビッド・クルサード.md" title="wikilink">デビッド・クルサード</a></p></td>
 <td><p><small>Ret</small></p></td>
 <td><p><small>Ret</small></p></td>
 <td><p><small>Ret</small></p></td>

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チェルトナム・タウンFC](https://ja.wikipedia.org/wiki/チェルトナム・タウンFC)から翻訳されています。
 
 
 **チェルトナム・タウン・フットボール・クラブ**（**Cheltenham Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[グロスターシャー](https://ja.wikipedia.org/wiki/グロスターシャー "wikilink")州、[チェルトナム](../Page/チェルトナム.md "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")（4部相当）に所属。

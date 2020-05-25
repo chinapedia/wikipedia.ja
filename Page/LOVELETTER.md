@@ -13,11 +13,11 @@
 
 ### 被害
 
-感染すると、[Outlookの](https://ja.wikipedia.org/wiki/Microsoft_Outlook "wikilink")[アドレス帳](https://ja.wikipedia.org/wiki/アドレス帳 "wikilink")に登録された[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")すべてに、自動的に自分の複製を送りつける。このとき発信されるメールと添付ファイルは前述のとおりである、そして、拡張子が「vbs」「vbe」「js」「css」「wsh」「sct」「hta」「jpg」「jpeg」「mp2」「mp3」であるファイルをハードディスクの中から探し出し、自分の複製を上書きすることで破壊してしまう。さらに、勝手に悪意あるプログラムをダウンロードする機能もあるが、このダウンロード元サイトが閉鎖されており、この機能は実際は機能しないと報告されている。
+感染すると、[Outlookの](../Page/Microsoft_Outlook.md "wikilink")[アドレス帳](https://ja.wikipedia.org/wiki/アドレス帳 "wikilink")に登録された[メールアドレス](../Page/メールアドレス.md "wikilink")すべてに、自動的に自分の複製を送りつける。このとき発信されるメールと添付ファイルは前述のとおりである、そして、拡張子が「vbs」「vbe」「js」「css」「wsh」「sct」「hta」「jpg」「jpeg」「mp2」「mp3」であるファイルをハードディスクの中から探し出し、自分の複製を上書きすることで破壊してしまう。さらに、勝手に悪意あるプログラムをダウンロードする機能もあるが、このダウンロード元サイトが閉鎖されており、この機能は実際は機能しないと報告されている。
 
 ### 特徴
 
-このウイルスの特徴はいくつかあるが、特に[ラブレターを装うことにより](https://ja.wikipedia.org/wiki/恋文 "wikilink")[ソーシャル・エンジニアリング](../Page/ソーシャル・エンジニアリング.md "wikilink")的手法を用いていたことがあげられる。冷静に考えれば馬鹿らしいほどの手法であるが、これに引っかかる被害者が多かった。また、[Windowsが初期設定では](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[拡張子](../Page/拡張子.md "wikilink")を表示しない点をつき、**.TXT.vbs**という[二重拡張子によってウイルス本体](https://ja.wikipedia.org/wiki/拡張子#拡張子が引き起こす問題 "wikilink")（[VBScript](../Page/VBScript.md "wikilink")ファイル）を[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")（.txtのファイル）であるかのように偽装していたことも、ビギナーを中心に感染を広げる原因となった。また[スクリプトウイルスの特徴として改変が容易であることから亜種が大量発生したことも](https://ja.wikipedia.org/wiki/コンピュータウイルス#ウイルスの種類 "wikilink")、流行の一因となった。
+このウイルスの特徴はいくつかあるが、特に[ラブレターを装うことにより](../Page/恋文.md "wikilink")[ソーシャル・エンジニアリング](../Page/ソーシャル・エンジニアリング.md "wikilink")的手法を用いていたことがあげられる。冷静に考えれば馬鹿らしいほどの手法であるが、これに引っかかる被害者が多かった。また、[Windowsが初期設定では](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[拡張子](../Page/拡張子.md "wikilink")を表示しない点をつき、**.TXT.vbs**という[二重拡張子によってウイルス本体](https://ja.wikipedia.org/wiki/拡張子#拡張子が引き起こす問題 "wikilink")（[VBScript](../Page/VBScript.md "wikilink")ファイル）を[テキストファイル](../Page/テキストファイル.md "wikilink")（.txtのファイル）であるかのように偽装していたことも、ビギナーを中心に感染を広げる原因となった。また[スクリプトウイルスの特徴として改変が容易であることから亜種が大量発生したことも](https://ja.wikipedia.org/wiki/コンピュータウイルス#ウイルスの種類 "wikilink")、流行の一因となった。
 
 #### ソースの特徴
 
@@ -33,7 +33,7 @@
 
   - [LOVE LETTERとは](http://e-words.jp/w/LOVE20LETTER.html) IT用語辞典
   - [代表的なウイルスの動作と被害内容 LOVELETTER（ラブレター）](http://www.soumu.go.jp/joho_tsusin/security/kiso/k04_love.htm) [総務省](../Page/総務省.md "wikilink")
-  - [I LOVE YOU ウイルスのソースを解析](http://www.nda.co.jp/memo/iloveyou/)[山崎はるかのメモ](https://ja.wikipedia.org/wiki/山崎晴可 "wikilink")
+  - [I LOVE YOU ウイルスのソースを解析](http://www.nda.co.jp/memo/iloveyou/)[山崎はるかのメモ](../Page/山崎晴可.md "wikilink")
   - [メールで広まる「I Love You」マクロウイルスに注意](https://internet.watch.impress.co.jp/www/article/2000/0508/love.htm)INTERNET Watch
 
 [Category:Windowsのウイルス](https://ja.wikipedia.org/wiki/Category:Windowsのウイルス "wikilink") [Category:コンピュータ・ワーム](https://ja.wikipedia.org/wiki/Category:コンピュータ・ワーム "wikilink") [Category:2000年](https://ja.wikipedia.org/wiki/Category:2000年 "wikilink")

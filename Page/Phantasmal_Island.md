@@ -1,11 +1,11 @@
 > この記事は[Phantasmal Island](https://ja.wikipedia.org/wiki/Phantasmal_Island)から翻訳されています。
 
 
-**Phantasmal Island**（ファンタズマルアイランド、PHI）は、**β-Yak-38**らによって[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")に誕生した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内最古の[ネットワークRPG](../Page/オンラインゲーム.md "wikilink")。
+**Phantasmal Island**（ファンタズマルアイランド、PHI）は、**β-Yak-38**らによって[1992年](../Page/1992年.md "wikilink")に誕生した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内最古の[ネットワークRPG](../Page/オンラインゲーム.md "wikilink")。
 
 ## 概要
 
-[工学院大学](https://ja.wikipedia.org/wiki/工学院大学 "wikilink")院生だったβ-Yak-38の修士論文のテーマ、**仮想都市を舞台にしたサーバークライアント方式のコミュニケーション実験**のためで、本来は研究用のシステムであったが、その後ユーザー有志によってサーバーが次々と立ち上げられ、独自に発展を続けている。
+[工学院大学](../Page/工学院大学.md "wikilink")院生だったβ-Yak-38の修士論文のテーマ、**仮想都市を舞台にしたサーバークライアント方式のコミュニケーション実験**のためで、本来は研究用のシステムであったが、その後ユーザー有志によってサーバーが次々と立ち上げられ、独自に発展を続けている。
 
 サーバーとの通信量を軽減する目的から、キャラクターの操作・コマンド入力とダンジョン表現に[ローグ](../Page/ローグ.md "wikilink")に似たシステムを採用している。クライアントはその機能によってこれらを適宜置換処理し、グラフィカルでプレイアブルなインタフェースを提供する。
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   -
-    PHIは個人でゲームサーバを公開できるが、自宅サーバでは**IPが非固定**、**運用管理が大変**、そして、[アナログ回線](https://ja.wikipedia.org/wiki/アナログ回線 "wikilink")や[ISDN](../Page/ISDN.md "wikilink")などの[ナローバンド](https://ja.wikipedia.org/wiki/ナローバンド "wikilink")が中心であった当時では**回線スピードが遅い**といった問題があった。
+    PHIは個人でゲームサーバを公開できるが、自宅サーバでは**IPが非固定**、**運用管理が大変**、そして、[アナログ回線](https://ja.wikipedia.org/wiki/アナログ回線 "wikilink")や[ISDN](../Page/ISDN.md "wikilink")などの[ナローバンド](../Page/ナローバンド.md "wikilink")が中心であった当時では**回線スピードが遅い**といった問題があった。
     そこで、同志で資金をカンパし、専用サーバをレンタルし、そのサーバを使用してメンバーが自分の世界を起動させ、公開するという活動が始まった。こうしてある一つのサーバを使用して公開された世界群を「○○サーバ」と呼び、特に、DMやクライアントの開発も行うサーバグループを「○○サーバ・プロジェクト」と呼んだ。
     これらサーバプロジェクトの中でも、**Aleph**を中心とした立ち上げられた**PSP**（Phi Server Project)と、**Rinta**を中心とした有志によって立ち上げられた**RSP**（Rinta Server Project）の2大プロジェクトによってPHIは隆盛を極めた。
 
@@ -70,7 +70,7 @@
 
   -
     RSPは、基本的に従来通りのPHIのスタンスで運営され、世界観や運営方針は各世界のマスターの自由であり、原則サーバ管理者やコミュニティメンバーは他の世界のマスターの運営に口を出さない、といった方針がとられていた。
-    逆にPSPは、それまでの世界接続がゲート接続中心であり、接続された世界の世界観などはばらばらであったPHIにおいて、平面接続による1つの大きな大陸として接続が構成されていたことが特徴的であり、また、その接続された国が世界観を共有し、クエストなどで密接に絡み合っていたという特徴があった。特に、AlephはPHIの宣伝に積極的であり、グラフィックが大幅に向上したWindows用クライアントの[MPHI](https://ja.wikipedia.org/wiki/MPHI "wikilink")を全面的に推し出して宣伝活動を行い、[ネットランナーやオンラインゲーム紹介ムック本にPHIが紹介されることもあった](https://ja.wikipedia.org/wiki/ネトラン "wikilink")。
+    逆にPSPは、それまでの世界接続がゲート接続中心であり、接続された世界の世界観などはばらばらであったPHIにおいて、平面接続による1つの大きな大陸として接続が構成されていたことが特徴的であり、また、その接続された国が世界観を共有し、クエストなどで密接に絡み合っていたという特徴があった。特に、AlephはPHIの宣伝に積極的であり、グラフィックが大幅に向上したWindows用クライアントの[MPHI](https://ja.wikipedia.org/wiki/MPHI "wikilink")を全面的に推し出して宣伝活動を行い、[ネットランナーやオンラインゲーム紹介ムック本にPHIが紹介されることもあった](../Page/ネトラン.md "wikilink")。
     これにより、巨大都市であるN.E.V.は常に60人以上、その周辺世界でも40人以上がアクセスしており、2001年末にはついにNEVを始め、その周辺世界でもアクセス者100人を超えるようになり、PHIの歴史の中で最も栄えた時代であった。
     しかし、Alephの一部強引な活動に対して疑問や不満を持つ開発者も少なく無く、特にRSPとPSPは、運営方針やPHIのあり方による価値観の違いから一時はお互いの世界接続解消の話も出た。
     Rintaもその一人であり、彼は2001年夏にPHIの開発から撤退する（以後、RSPは**R's Server Project**と名称を変更する）。
@@ -143,7 +143,7 @@
     同時にさまざまなモンスターも出没し始め、島の住民達は恐怖に怯える日々を余儀なくされた。
     しかし、噂を聞きつけた冒険者達が島に訪れるようになり、島は活気に満ち溢れて行く。
     島の経済は潤いだし、高速船が走り出した。そして、いくつもの村が出来ていった・・・。
-    いつしか、住民達はこの生活に慣れて行き[地殻変動](https://ja.wikipedia.org/wiki/地殻変動 "wikilink")の事を忘れて行く・・・。
+    いつしか、住民達はこの生活に慣れて行き[地殻変動](../Page/地殻変動.md "wikilink")の事を忘れて行く・・・。
     しかし、この地殻変動には人知の及ばぬ謎が隠されていた・・・。
   - Metro Planetarium Gateway（ゲートウエイ）
     （この世界はテスト世界群専用世界）
@@ -297,11 +297,17 @@
 ## 外部リンク
 
   - 手作り感覚で発展していく、国産ネットワークRPG「PHI」https://internet.watch.impress.co.jp/www/article/980127/ichioshi.htm
+
   - [クライアント「Philly」配布ページ](http://phi-game.com/)
-  - [クライアント「Raphi」配布ページ](http://www.geocities.co.jp/MotorCity/5415/raphi/) - BGMが流れるので音量注意
+
+  - \- BGMが流れるので音量注意
+
   - [クライアント「MPHI」配布ページ](http://ryur.srv7.biz/mphi/)
+
   - [Tofup Server Service（サーバソフトの配布）](http://www.tofup.net/)
+
   - [Phantasmal Island WebRing](http://www.tofup.net/phiring/index.html)
+
   - [Discord　Phantasmal Island コミュニティ](https://discord.gg/VGKVZ9W)
 
 [Category:オンラインRPG](https://ja.wikipedia.org/wiki/Category:オンラインRPG "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink")

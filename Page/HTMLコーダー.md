@@ -1,4 +1,4 @@
-> この記事は[HTML](https://ja.wikipedia.org/wiki/HTML)から翻訳されています。
+> この記事は[HTMLコーダー](https://ja.wikipedia.org/wiki/HTMLコーダー)から翻訳されています。
 
 
 **HTMLコーダー**とは、分業化された[ウェブサイト](../Page/ウェブサイト.md "wikilink")の制作過程において、[HTMLおよび](../Page/HyperText_Markup_Language.md "wikilink")[CSSを使用して](../Page/Cascading_Style_Sheets.md "wikilink")[ウェブページ](../Page/ウェブページ.md "wikilink")を作成する作業を行なう者の呼称である。なお、英語版記事の記事名は「Web developer」（まともに訳せば「ウェブ開発者」）であり、この記事の最初から最後まで全てが独自研究の可能性が極めて高い。
@@ -23,14 +23,14 @@
 
   - [HyperText Markup Language](../Page/HyperText_Markup_Language.md "wikilink") (HTML) / [Extensible HyperText Markup Language](../Page/Extensible_HyperText_Markup_Language.md "wikilink") (XHTML)
   - [Cascading Style Sheets](../Page/Cascading_Style_Sheets.md "wikilink") (CSS)
-  - [ユーザビリティ](https://ja.wikipedia.org/wiki/ユーザビリティ "wikilink")
-  - [アクセシビリティ](https://ja.wikipedia.org/wiki/アクセシビリティ "wikilink")
-  - [コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (Contents Management System, CMS) のカスタマイズ
+  - [ユーザビリティ](../Page/ユーザビリティ.md "wikilink")
+  - [アクセシビリティ](../Page/アクセシビリティ.md "wikilink")
+  - [コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (Contents Management System, CMS) のカスタマイズ
   - [検索エンジン最適化](../Page/検索エンジン最適化.md "wikilink") (Search Engine Optimization, SEO)
 
 ## マークアップエンジニア
 
-[情報設計](https://ja.wikipedia.org/wiki/情報アーキテクチャ "wikilink")、文書構造デザイン、Webフロントエンド技術全般の研究・設計・開発、および[アクセシビリティ](https://ja.wikipedia.org/wiki/アクセシビリティ "wikilink")、[ユーザビリティ](https://ja.wikipedia.org/wiki/ユーザビリティ "wikilink")などを踏まえた実装を行う者を指し示す呼称として2001年より[株式会社ビジネス・アーキテクツが](https://ja.wikipedia.org/wiki/ビジネス・アーキテクツ "wikilink")「[マークアップエンジニア](https://ja.wikipedia.org/wiki/マークアップエンジニア "wikilink")」として、従来型のHTMLコーダーを再定義した\[1\]。
+[情報設計](../Page/情報アーキテクチャ.md "wikilink")、文書構造デザイン、Webフロントエンド技術全般の研究・設計・開発、および[アクセシビリティ](../Page/アクセシビリティ.md "wikilink")、[ユーザビリティ](../Page/ユーザビリティ.md "wikilink")などを踏まえた実装を行う者を指し示す呼称として2001年より[株式会社ビジネス・アーキテクツが](https://ja.wikipedia.org/wiki/ビジネス・アーキテクツ "wikilink")「[マークアップエンジニア](https://ja.wikipedia.org/wiki/マークアップエンジニア "wikilink")」として、従来型のHTMLコーダーを再定義した\[1\]。
 
 この呼称「マークアップエンジニア」はその後、求人サイト等での標準項目として扱われるなど広く浸透している。しかし必要スキルが従来型のHTMLコーダーと同等と扱われていることから、同社は改めて2005年頃より「マークアップデザインエンジニア」として情報設計などデザインスキルの重要性を取り上げていた\[2\]。
 
@@ -39,8 +39,8 @@
 ## 関連項目
 
   - [World Wide Web Consortium](../Page/World_Wide_Web_Consortium.md "wikilink")
-  - [ウェブ標準](https://ja.wikipedia.org/wiki/ウェブ標準 "wikilink")
-  - [ウェブデザイナー](https://ja.wikipedia.org/wiki/ウェブデザイナー "wikilink")
+  - [ウェブ標準](../Page/ウェブ標準.md "wikilink")
+  - [ウェブデザイナー](../Page/ウェブデザイナー.md "wikilink")
   - [Webプログラミング](../Page/Webプログラミング.md "wikilink")
   - [ユーザーエクスペリエンスデザイン](https://ja.wikipedia.org/wiki/ユーザーエクスペリエンスデザイン "wikilink")
 

@@ -1,7 +1,7 @@
 > この記事は[DT-YUTA](https://ja.wikipedia.org/wiki/DT-YUTA)から翻訳されています。
 
 
-**DT-YUTA**（ディー・ティー-ユウタ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**小林 祐太**（こばやし ゆうた）。
+**DT-YUTA**（ディー・ティー・ユウタ、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月5日](../Page/2月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**小林 祐太**（こばやし ゆうた）。
 
 ## 経歴
 

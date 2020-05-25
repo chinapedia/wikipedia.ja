@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR不二子におまかせ](https://ja.wikipedia.org/wiki/CR不二子におまかせ)から翻訳されています。
 
 
 **CR不二子におまかせ**（シーアールふじこにおまかせ）は、[平和が開発](../Page/平和_\(パチンコ\).md "wikilink")・販売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")作の漫画・アニメ作品『[ルパン三世](../Page/ルパン三世.md "wikilink")』とのタイアップ機第2弾である。本項では、[CR機](../Page/CR機.md "wikilink")版と同時に販売された[現金機](../Page/現金機.md "wikilink")版についても述べる。

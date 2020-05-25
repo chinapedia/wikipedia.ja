@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ドンカスター・ローヴァーズFC](https://ja.wikipedia.org/wiki/ドンカスター・ローヴァーズFC)から翻訳されています。
 
 
-**ドンカスター・ローヴァーズ・フットボール・クラブ**（**Doncaster Rovers Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[サウス・ヨークシャー州](https://ja.wikipedia.org/wiki/サウス・ヨークシャー州 "wikilink")、[ドンカスター](https://ja.wikipedia.org/wiki/ドンカスター "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。 [ワン・ダイレクション](https://ja.wikipedia.org/wiki/ワン・ダイレクション "wikilink")の[ルイ・トムリンソン](https://ja.wikipedia.org/wiki/ルイ・トムリンソン "wikilink")の出身地にあるチームであり、彼はこのチームのファンであることを公言している。
+**ドンカスター・ローヴァーズ・フットボール・クラブ**（**Doncaster Rovers Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[サウス・ヨークシャー州](https://ja.wikipedia.org/wiki/サウス・ヨークシャー州 "wikilink")、[ドンカスター](../Page/ドンカスター.md "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[フットボールリーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部相当）に所属。 [ワン・ダイレクション](https://ja.wikipedia.org/wiki/ワン・ダイレクション "wikilink")の[ルイ・トムリンソン](https://ja.wikipedia.org/wiki/ルイ・トムリンソン "wikilink")の出身地にあるチームであり、彼はこのチームのファンであることを公言している。
 
 ## 歴史
 
@@ -165,13 +165,13 @@
 
   - [ビリー・ブレムナー](https://ja.wikipedia.org/wiki/ビリー・ブレムナー_\(サッカー選手\) "wikilink") 1979-1981
 
-  - [ドナルド・グッドマン](https://ja.wikipedia.org/wiki/ドナルド・グッドマン "wikilink") 2003
+  - [ドナルド・グッドマン](../Page/ドナルド・グッドマン.md "wikilink") 2003
 
-  - [イアイン・ターナー](https://ja.wikipedia.org/wiki/イアイン・ターナー "wikilink") 2005
+  - [イアイン・ターナー](../Page/イアイン・ターナー.md "wikilink") 2005
 
   - [デヴィッド・ウィーター](https://ja.wikipedia.org/wiki/デヴィッド・ウィーター "wikilink") 2006
 
-  - [エル＝ハッジ・ディウフ](https://ja.wikipedia.org/wiki/エル＝ハッジ・ディウフ "wikilink") 2011
+  - [エル＝ハッジ・ディウフ](../Page/エル＝ハッジ・ディウフ.md "wikilink") 2011
 
 ## 脚注
 

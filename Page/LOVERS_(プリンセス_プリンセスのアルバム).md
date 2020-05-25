@@ -1,4 +1,4 @@
-> この記事は[LOVERS \( \)](https://ja.wikipedia.org/wiki/LOVERS_\(_\))から翻訳されています。
+> この記事は[LOVERS \(プリンセス プリンセスのアルバム\)](https://ja.wikipedia.org/wiki/LOVERS_\(プリンセス_プリンセスのアルバム\))から翻訳されています。
 
 
 『**LOVERS**』（ラヴァーズ）は、[1989年](../Page/1989年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")にリリースされた[プリンセス プリンセスの](../Page/プリンセス_プリンセス.md "wikilink")4枚目の[アルバム](../Page/アルバム.md "wikilink")。
@@ -68,7 +68,7 @@
 
 ## 外部リンク
 
-  - [ソニーミュージック](http://www.sonymusic.co.jp/Music/Arch/SMER/Princess/SRCL-3605/index.html)
+  - [ソニーミュージック](https://www.sonymusic.co.jp/artist/Princess/discography/SRCL-3605)
 
 [Category:プリンセス_プリンセスのアルバム](https://ja.wikipedia.org/wiki/Category:プリンセス_プリンセスのアルバム "wikilink") [Category:1989年のアルバム](https://ja.wikipedia.org/wiki/Category:1989年のアルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink") [Category:1989年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1989年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

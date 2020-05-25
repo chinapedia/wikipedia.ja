@@ -1,7 +1,7 @@
 > この記事は[Delight song](https://ja.wikipedia.org/wiki/Delight_song)から翻訳されています。
 
 
-「**delight song**」（ディライト ソング）は、[2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[Lantisより発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")[KISHOWと](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")[e-ZUKAによるロックユニット](https://ja.wikipedia.org/wiki/飯塚昌明 "wikilink")**[GRANRODEO](https://ja.wikipedia.org/wiki/GRANRODEO "wikilink")**の6thシングルで、初のノン[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")CDである。
+「**delight song**」（ディライト ソング）は、[2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[Lantisより発売された](../Page/ランティス.md "wikilink")[KISHOWと](../Page/谷山紀章.md "wikilink")[e-ZUKAによるロックユニット](../Page/飯塚昌明.md "wikilink")**[GRANRODEO](../Page/GRANRODEO.md "wikilink")**の6thシングルで、初のノン[タイアップ](../Page/タイアップ.md "wikilink")CDである。
 
 ## 解説
 

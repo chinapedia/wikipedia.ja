@@ -20,4 +20,4 @@
 
 *[:en:Write-combining](https://ja.wikipedia.org/wiki/:en:Write-combining "wikilink") 2007-07-18 09:51 UTCより翻訳。著者 : Widefox ほか*
 
-[Category:コンピュータバス規格](https://ja.wikipedia.org/wiki/Category:コンピュータバス規格 "wikilink") [Category:メモリ管理](https://ja.wikipedia.org/wiki/Category:メモリ管理 "wikilink")
+[Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink") [Category:メモリ管理](https://ja.wikipedia.org/wiki/Category:メモリ管理 "wikilink")

@@ -1,19 +1,19 @@
-> この記事は[NOVA](https://ja.wikipedia.org/wiki/NOVA)から翻訳されています。
+> この記事は[NOVAホールディングス](https://ja.wikipedia.org/wiki/NOVAホールディングス)から翻訳されています。
 
 
-**NOVAホールディングス株式会社**（ノヴァホールディングス、）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")に本社を置く日本の企業。[学習塾](../Page/学習塾.md "wikilink")や[英語教室など](https://ja.wikipedia.org/wiki/外国語学校 "wikilink")、主に教育分野での事業を行っている企業である。
+**NOVAホールディングス株式会社**（ノヴァホールディングス、）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")に本社を置く日本の企業。[学習塾](../Page/学習塾.md "wikilink")や[英語教室など](https://ja.wikipedia.org/wiki/外国語学校 "wikilink")、主に教育分野での事業を行っている企業である。
 
 ## 概要
 
 現代表の[稲吉正樹](https://ja.wikipedia.org/wiki/稲吉正樹 "wikilink")が1994年に[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[岡崎市](../Page/岡崎市.md "wikilink")で創業した[学習塾](../Page/学習塾.md "wikilink")「がんばる学園」を起源とする。翌年（平成8年）に有限会社がんばる学園（現・[ジー・コミュニケーション](../Page/ジー・コミュニケーション.md "wikilink")）として法人化。2000年以降外食事業など多角的に展開。祖業である学習塾などの教育事業は2003年6月に**株式会社ジー・エデュケーション**を設立し、同社の事業とした。
 
-2007年に経営破綻した[株式会社ノヴァから英会話教室](https://ja.wikipedia.org/wiki/ノヴァ_\(外国語教室\) "wikilink")『[NOVA](https://ja.wikipedia.org/wiki/NOVA "wikilink")』事業を譲受。さらに2010年には株式会社ジオスから英会話教室『[GEOS](https://ja.wikipedia.org/wiki/GEOS "wikilink")』事業を譲受している。
+2007年に経営破綻した[株式会社ノヴァから英会話教室](https://ja.wikipedia.org/wiki/ノヴァ_\(外国語教室\) "wikilink")『[NOVA](../Page/NOVA.md "wikilink")』事業を譲受。さらに2010年には株式会社ジオスから英会話教室『[GEOS](../Page/GEOS.md "wikilink")』事業を譲受している。
 
 2009年にジー・コミュニケーションの株式の大半を稲吉が手放す一方、ジー・エデュケーションは稲吉が新たに設立した[投資会社](https://ja.wikipedia.org/wiki/投資会社 "wikilink")「いなよしキャピタルパートナーズ株式会社」の傘下となり、ジー・コミュニケーションとの資本関係を解消。2011年にいなよしキャピタルパートナーズと合併し、**自分未来ホールディングス株式会社**に社名変更する。2012年には社名を**自分未来アソシエ株式会社**に変更している(代表取締役会長・[岩谷温](https://ja.wikipedia.org/wiki/岩谷松平#親族 "wikilink")、代表取締役社長・稲吉正樹)。
 
 2013年にNOVAホールディングス株式会社に社名変更し、以降語学教室などの[M\&A](../Page/M&A.md "wikilink")などにより全国・海外に校舎を積極的に展開。学習塾、英会話を併せ、全国1800以上の規模となっている。また教育事業以外の事業にも、留学会社の株式会社ラストリゾート、デザイン・施工のセントラルデザイン株式会社、飲食のセントラルフード株式会社をグループ傘下におく。その他に日本だけでなく、海外にも展開をしている。
 
-2018年には[ジャパン・プロフェッショナル・バスケットボールリーグ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink") (B.LEAGUE) に参戦する[広島ドラゴンフライズ](https://ja.wikipedia.org/wiki/広島ドラゴンフライズ "wikilink")の運営会社を子会社化し\[1\]、2019年には[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に参戦する[いわてグルージャ盛岡](https://ja.wikipedia.org/wiki/いわてグルージャ盛岡 "wikilink")の運営会社を子会社した\[2\]。
+2018年には[ジャパン・プロフェッショナル・バスケットボールリーグ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink") (B.LEAGUE) に参戦する[広島ドラゴンフライズ](https://ja.wikipedia.org/wiki/広島ドラゴンフライズ "wikilink")の運営会社を子会社化し\[1\]、2019年には[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に参戦する[いわてグルージャ盛岡](../Page/いわてグルージャ盛岡.md "wikilink")の運営会社を子会社した\[2\]。
 
 ## グループ会社
 
@@ -22,7 +22,7 @@
   - 株式会社ラストリゾート
   - 株式会社VOICE
   - 株式会社[広島ドラゴンフライズ](https://ja.wikipedia.org/wiki/広島ドラゴンフライズ "wikilink")（[B.LEAGUE](https://ja.wikipedia.org/wiki/B.LEAGUE "wikilink")）
-  - 株式会社いわてアスリートクラブ（[いわてグルージャ盛岡](https://ja.wikipedia.org/wiki/いわてグルージャ盛岡 "wikilink")・[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")）
+  - 株式会社いわてアスリートクラブ（[いわてグルージャ盛岡](../Page/いわてグルージャ盛岡.md "wikilink")・[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")）
   - ドルトムント・サッカーアカデミー株式会社
   - NOVA KOREA
   - GEOS ONLINE ENGLISH PHILIPPINE
@@ -88,6 +88,10 @@
   - 2017年10月 - 株式会社マリリッサと事業譲渡契約を締結
 
 ## 脚注
+
+## 関連項目
+
+  - [学習塾・予備校の一覧](../Page/学習塾・予備校の一覧.md "wikilink")
 
 ## 外部リンク
 

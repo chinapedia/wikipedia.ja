@@ -1,4 +1,4 @@
-> この記事は[Sunshine \(\)](https://ja.wikipedia.org/wiki/Sunshine_\(\))から翻訳されています。
+> この記事は[Sunshine \(アルバム\)](https://ja.wikipedia.org/wiki/Sunshine_\(アルバム\))から翻訳されています。
 
 
 『**Sunshine**』（サンシャイン）は、[松田聖子](../Page/松田聖子.md "wikilink")（通算37枚目）の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。2004年6月9日発売。発売元は[ソニーレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

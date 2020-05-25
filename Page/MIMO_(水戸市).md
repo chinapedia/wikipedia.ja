@@ -1,4 +1,4 @@
-> この記事は[MIMO \(\)](https://ja.wikipedia.org/wiki/MIMO_\(\))から翻訳されています。
+> この記事は[MIMO \(水戸市\)](https://ja.wikipedia.org/wiki/MIMO_\(水戸市\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Leben_Mito_THE_PREMIERE.jpg "wikilink") **MIMO**（ミーモ）とは、かつて[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")[南町](https://ja.wikipedia.org/wiki/南町_\(水戸市\) "wikilink")2丁目に存在した[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")\[1\]。
@@ -13,17 +13,16 @@ MIMOの名称は公募で決定した。「水戸（**MI**TO）がもっと（**
 
 ## 店舗
 
-以下は過去に入店していたテナントである。2011年9月以降、閉鎖まで4階以上のフロアは使われていない。
+以下は過去に入店していたテナントである。2011年9月以降、閉鎖まで4階以上のフロアは使われていなかった。
 
-  - B1F [コヤマ薬局](https://ja.wikipedia.org/wiki/コヤマ薬局 "wikilink")（2009年（平成21年）5月閉店）、クリーニング、フードコーナー、整体、カードショップ
-  - 1F [フードマーケットKASUMI](../Page/カスミ.md "wikilink")（2013年（平成25年）4月21日閉店\[10\]）、フードショップ
-  - 2F [しまむら](../Page/しまむら.md "wikilink")（2013年（平成25年）3月閉店\[11\]）
-  - 3F ファッションフロア・カルチャーセンター
-  - 4F [ダイソー](https://ja.wikipedia.org/wiki/大創産業 "wikilink")（2011年（平成23年）8月閉店\[12\]）
-  - 5F （閉鎖）
-  - 6F （閉鎖）
-  - 7F 託児所
   - 屋上　ビアガーデン
+  - 7F 託児所
+  - 6F （閉鎖）
+  - 5F （閉鎖）
+  - 4F [ダイソー](https://ja.wikipedia.org/wiki/大創産業 "wikilink")（2011年（平成23年）8月閉店\[10\]）
+  - 3F ファッションフロア・カルチャーセンター\* 2F [しまむら](../Page/しまむら.md "wikilink")（2013年（平成25年）3月閉店\[11\]）
+  - 1F [フードマーケットKASUMI](../Page/カスミ.md "wikilink")（2013年（平成25年）4月21日閉店\[12\]）、フードショップ
+  - B1F [コヤマ薬局](https://ja.wikipedia.org/wiki/コヤマ薬局 "wikilink")（2009年（平成21年）5月閉店）、クリーニング、フードコーナー、整体、カードショップ
 
 ## 年表
 

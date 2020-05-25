@@ -1,4 +1,4 @@
-> この記事は[Seiko Smile Seiko Matsuda 25th Anniversary Best Selection](https://ja.wikipedia.org/wiki/Seiko_Smile_Seiko_Matsuda_25th_Anniversary_Best_Selection)から翻訳されています。
+> この記事は[『Seiko Smile』 Seiko Matsuda 25th Anniversary Best Selection](https://ja.wikipedia.org/wiki/『Seiko_Smile』_Seiko_Matsuda_25th_Anniversary_Best_Selection)から翻訳されています。
 
 
 『**『Seiko Smile』 Seiko Matsuda 25th Anniversary Best Selection**』（セイコ・スマイル　セイコ・マツダ・トゥエンティフィフス・アニヴァーサリー・ベスト・セレクション）は、[松田聖子](../Page/松田聖子.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2005年1月26日発売。発売元は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

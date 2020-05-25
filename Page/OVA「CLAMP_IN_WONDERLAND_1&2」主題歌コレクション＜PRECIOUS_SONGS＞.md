@@ -1,4 +1,4 @@
-> この記事は[OVACLAMP IN WONDERLAND 1\&2PRECIOUS SONGS](https://ja.wikipedia.org/wiki/OVACLAMP_IN_WONDERLAND_1\&2PRECIOUS_SONGS)から翻訳されています。
+> この記事は[OVA「CLAMP IN WONDERLAND 1\&2」主題歌コレクション＜PRECIOUS SONGS＞](https://ja.wikipedia.org/wiki/OVA「CLAMP_IN_WONDERLAND_1\&2」主題歌コレクション＜PRECIOUS_SONGS＞)から翻訳されています。
 
 
 『**OVA「CLAMP IN WONDERLAND 1&2」主題歌コレクション＜PRECIOUS SONGS＞**』（オーブイエー クランプ イン ワンダーランド ワン アンド ツー しゅだいか コレクション プレシャス ソングズ）は、同作品の主題歌を収録した[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。

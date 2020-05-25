@@ -21,7 +21,7 @@
 
   -
     「たとえコヴナントから狙われないような船であっても、絶対に地球に向かってはならない」
-    「万が一敵に拿捕されそうになった場合、[情報漏洩](https://ja.wikipedia.org/wiki/情報漏洩 "wikilink")防止のため艦長は船を自爆させなければならない」
+    「万が一敵に拿捕されそうになった場合、[情報漏洩](../Page/情報漏洩.md "wikilink")防止のため艦長は船を自爆させなければならない」
     「AIをはじめ、地球に関する情報につながるものはコヴナントに渡してはならない」
 
 というものであった。
@@ -43,7 +43,7 @@
   - [Halo:Reach](https://ja.wikipedia.org/wiki/Halo:Reach "wikilink")
   - [Halo Legends](https://ja.wikipedia.org/wiki/Halo_Legends "wikilink")
   - [Halo: The Flood](https://ja.wikipedia.org/wiki/Halo:_The_Flood "wikilink")
-  - [Halo: First Strike](https://ja.wikipedia.org/wiki/Halo:_First_Strike "wikilink")
+  - [Halo: First Strike](../Page/Halo:_First_Strike.md "wikilink")
   - [Halo: Ghost of Onyx](https://ja.wikipedia.org/wiki/Halo:_Ghost_of_Onyx "wikilink")
   - [Halo: Contact Harvest](https://ja.wikipedia.org/wiki/Halo:_Contact_Harvest "wikilink")
 

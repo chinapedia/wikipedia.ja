@@ -62,7 +62,7 @@
 </tr>
 <tr class="odd">
 <td><p>エンジン</p></td>
-<td><p><a href="../Page/プラット・アンド・ホイットニー.md" title="wikilink">Pratt &amp; Whitney</a> <a href="https://ja.wikipedia.org/wiki/ロールス・ロイス_ニーン" title="wikilink">J42-P-8</a> (推力：25.58kN) ×1</p></td>
+<td><p><a href="../Page/プラット・アンド・ホイットニー.md" title="wikilink">Pratt &amp; Whitney</a> <a href="../Page/ロールス・ロイス_ニーン.md" title="wikilink">J42-P-8</a> (推力：25.58kN) ×1</p></td>
 <td><p><a href="../Page/プラット・アンド・ホイットニー.md" title="wikilink">Pratt &amp; Whitney</a> <a href="https://ja.wikipedia.org/wiki/:en:Pratt_&amp;_Whitney_J48" title="wikilink">J48-P-6</a> (推力：31.14kN) ×1</p></td>
 </tr>
 <tr class="even">
@@ -133,7 +133,7 @@
   - XF9F-2
     G-79案。単発単座。試作機。3機製造。
       - 試作1号機
-        [ロールス・ロイス ニーン搭載](https://ja.wikipedia.org/wiki/ロールス・ロイス_ニーン "wikilink")。
+        [ロールス・ロイス ニーン搭載](../Page/ロールス・ロイス_ニーン.md "wikilink")。
       - 試作2・3号機
         [アリソン J33搭載](https://ja.wikipedia.org/wiki/アリソン_J33 "wikilink")。
   - F9F-2

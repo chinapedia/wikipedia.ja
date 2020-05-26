@@ -145,7 +145,7 @@
       - **[廿日市FC](https://ja.wikipedia.org/wiki/廿日市FC "wikilink")**（1部、[広島県](../Page/広島県.md "wikilink")[廿日市市](../Page/廿日市市.md "wikilink")） - 公式サイトに「J3まで最短で駆け昇れ」と記載 \[76\]。
       - **[福山シティFC](https://ja.wikipedia.org/wiki/福山シティFC "wikilink")**（1部、[福山市](../Page/福山市.md "wikilink")） - 2020年より「福山SCC」からチーム名を変更。公式サイトに「Jリーグを目指しております」と記載\[77\]。
   - [山口県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/山口県社会人サッカーリーグ "wikilink")
-      - **[FC宇部ヤーマン](https://ja.wikipedia.org/wiki/FC宇部ヤーマン "wikilink")** （2部、宇部市）- TwitterでJリーグに進出すると書かれている\[78\]。
+      - **[FC宇部ヤーマン](../Page/FC宇部ヤーマン.md "wikilink")** （2部、宇部市）- TwitterでJリーグに進出すると書かれている\[78\]。
   - [宮崎県サッカーリーグ](https://ja.wikipedia.org/wiki/宮崎県サッカーリーグ "wikilink")
       - **[FC延岡AGATA](https://ja.wikipedia.org/wiki/FC延岡AGATA "wikilink")** （2部、延岡市）- 「九保大エルフAGATA」を母体に設立。公式サイトに「この地からJリーグ<日本プロサッカーリーグ>を作ります。」と記載\[79\]。
 

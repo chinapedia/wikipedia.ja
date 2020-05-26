@@ -106,7 +106,7 @@
   - [やりにげコージー](../Page/やりにげコージー.md "wikilink")→[やりすぎコージー](../Page/やりすぎコージー.md "wikilink")（テレビ東京系）
   - [お笑い芸人どっきり王座決定戦スペシャル](https://ja.wikipedia.org/wiki/お笑い芸人どっきり王座決定戦スペシャル "wikilink")（フジテレビ系）
   - [ザ・ドキドキどっきり](https://ja.wikipedia.org/wiki/ザ・ドキドキどっきり "wikilink") （フジテレビ系）
-  - [今年も生だよ芸人集合 笑いっぱなし伝説](https://ja.wikipedia.org/wiki/今年も生だよ芸人集合_笑いっぱなし伝説 "wikilink")（テレビ東京系）
+  - [今年も生だよ芸人集合 笑いっぱなし伝説](../Page/今年も生だよ芸人集合_笑いっぱなし伝説.md "wikilink")（テレビ東京系）
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")'11秋 芸能界№1決定戦SP（TBS系）\[10\]
   - [KOZY'S NIGHT 負け犬勝ち犬](https://ja.wikipedia.org/wiki/KOZY'S_NIGHT_負け犬勝ち犬 "wikilink")（テレビ東京系）
 

@@ -13,19 +13,19 @@
 
 ### 世界有数の強豪クラブ
 
-サッカークラブ世界一を決める[トヨタカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")（現：[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")）で過去3回優勝（[1992年](../Page/1992年.md "wikilink")・対[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")、[1993年](../Page/1993年.md "wikilink")・対[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[2005年](../Page/2005年.md "wikilink")・対[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")）しているほか、[SCコリンチャンス・パウリスタ](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")や[SEパルメイラス](../Page/SEパルメイラス.md "wikilink")などの強豪がひしめく[サンパウロ州選手権でも](../Page/カンピオナート・パウリスタ.md "wikilink")22回優勝しているなど、サンパウロ州だけでなく、ブラジルを代表するサッカークラブの一つとして知られている。
+サッカークラブ世界一を決める[トヨタカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")（現：[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")）で過去3回優勝（[1992年](../Page/1992年.md "wikilink")・対[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")、[1993年](../Page/1993年.md "wikilink")・対[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[2005年](../Page/2005年.md "wikilink")・対[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")）しているほか、[SCコリンチャンス・パウリスタ](../Page/SCコリンチャンス・パウリスタ.md "wikilink")や[SEパルメイラス](../Page/SEパルメイラス.md "wikilink")などの強豪がひしめく[サンパウロ州選手権でも](../Page/カンピオナート・パウリスタ.md "wikilink")22回優勝しているなど、サンパウロ州だけでなく、ブラジルを代表するサッカークラブの一つとして知られている。
 
 [2005年](../Page/2005年.md "wikilink")も、[パウロ・アウトゥオリ](../Page/パウロ・アウトゥオリ.md "wikilink")監督の指揮の下、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")の決勝では[アトレチコ・パラナエンセ](../Page/アトレチコ・パラナエンセ.md "wikilink")を抑えて優勝し、これにより出場権を手にした[FIFAクラブ世界選手権でも](../Page/FIFAクラブ世界選手権2005.md "wikilink")[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")を下し優勝、トヨタカップ統合後初の世界王者となった。 2008年にはクラブ初のブラジル全国選手権3連覇を達成した。
 
 また、世界的に人気があるサッカー漫画『[キャプテン翼](../Page/キャプテン翼.md "wikilink")』の主人公・[大空翼](../Page/大空翼.md "wikilink")が最初に所属したプロチームとしても知られている。
 
-2011年度のクラブ総収入は2億2600万レアル（約90億円）と推定されており、ブラジルのクラブでは[コリンチャンスに次ぐ第](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")2位である。
+2011年度のクラブ総収入は2億2600万レアル（約90億円）と推定されており、ブラジルのクラブでは[コリンチャンスに次ぐ第](../Page/SCコリンチャンス・パウリスタ.md "wikilink")2位である。
 
 人気の面では、サンパウロ州でコリンチャンスに次いで人気があり、ブラジル全国では、[CRフラメンゴ](../Page/CRフラメンゴ.md "wikilink")、コリンチャンスに続き、3番目に人気のあるクラブである\[1\]。
 
 ## ライバル
 
-同じサンパウロを本拠地とする、[コリンチャンス](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")、[サントスFC](../Page/サントスFC.md "wikilink")、[パルメイラスとはサンパウロFCを含め](../Page/SEパルメイラス.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。コリンチャンスとのクラシコは[クラシコ・マジェストソ](https://ja.wikipedia.org/wiki/クラシコ・マジェストソ "wikilink")（壮麗なダービー）、サントスFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（両チームの頭文字）と呼ばれている。
+同じサンパウロを本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サントスFC](../Page/サントスFC.md "wikilink")、[パルメイラスとはサンパウロFCを含め](../Page/SEパルメイラス.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。コリンチャンスとのクラシコは[クラシコ・マジェストソ](https://ja.wikipedia.org/wiki/クラシコ・マジェストソ "wikilink")（壮麗なダービー）、サントスFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（両チームの頭文字）と呼ばれている。
 
 ## タイトル
 

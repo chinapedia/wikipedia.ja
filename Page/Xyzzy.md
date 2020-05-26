@@ -5,7 +5,7 @@
 
 ## 特徴
 
-  - エディタの他に、Lispで作成された2画面[ファイラー](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")、[カレンダー](../Page/カレンダー.md "wikilink")、[複素数](../Page/複素数.md "wikilink")も計算可能な[電卓](../Page/電卓.md "wikilink")もインストール時に付属
+  - エディタの他に、Lispで作成された2画面[ファイラー](../Page/ファイルマネージャ.md "wikilink")、[カレンダー](../Page/カレンダー.md "wikilink")、[複素数](../Page/複素数.md "wikilink")も計算可能な[電卓](../Page/電卓.md "wikilink")もインストール時に付属
   - [C](../Page/C言語.md "wikilink")、[Perl](../Page/Perl.md "wikilink")など各種[プログラミング言語](../Page/プログラミング言語.md "wikilink")に対応した、Emacs風のメジャー、マイナーモードの利用が可能
   - [キリル文字](../Page/キリル文字.md "wikilink")、[ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")など各種文字コードが利用可能であり、多言語混在でテキスト編集が可能
   - 拡張Lispの導入による高い拡張性。

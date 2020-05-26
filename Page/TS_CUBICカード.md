@@ -105,7 +105,7 @@ QUICPayに対応しているクレジットカードの会員でなくても[QUI
 
 <!-- end list -->
 
-  - [トレッサ横浜](https://ja.wikipedia.org/wiki/トレッサ横浜 "wikilink")の[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")機能とQUICPayカード単体型を一体化した、形状的にはQUICPay決済専用の[提携](../Page/提携カード.md "wikilink")[ハウスカード](../Page/ハウスカード.md "wikilink")である。「おサイフくんQUICPay」とは異なり、TS3 JCBの会員番号は発番されず、16桁のハウスカード番号が券面に付番される。なお、ETC TS CUBIC CARD単体型を追加発行することは可能である。
+  - [トレッサ横浜](../Page/トレッサ横浜.md "wikilink")の[ポイントカード](https://ja.wikipedia.org/wiki/ポイントカード "wikilink")機能とQUICPayカード単体型を一体化した、形状的にはQUICPay決済専用の[提携](../Page/提携カード.md "wikilink")[ハウスカード](../Page/ハウスカード.md "wikilink")である。「おサイフくんQUICPay」とは異なり、TS3 JCBの会員番号は発番されず、16桁のハウスカード番号が券面に付番される。なお、ETC TS CUBIC CARD単体型を追加発行することは可能である。
 
 ## ETC TS CUBIC CARD
 

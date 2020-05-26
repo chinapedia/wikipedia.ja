@@ -390,7 +390,7 @@
 | [大橋洋生](https://ja.wikipedia.org/wiki/大橋洋生 "wikilink")               | 「Chance\!」                 |
 | [末田健](../Page/末田健.md "wikilink")                                    | 「プロローグ」                    |
 | [土屋隆俊](https://ja.wikipedia.org/wiki/土屋隆俊 "wikilink")               | 「Be with you」              |
-| [長谷川信](https://ja.wikipedia.org/wiki/長谷川信 "wikilink")               | 「アイ･ラブ･ユー」「今もし君の心に僕がいなくても」 |
+| [長谷川信](../Page/長谷川信.md "wikilink")                                  | 「アイ･ラブ･ユー」「今もし君の心に僕がいなくても」 |
 | [Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink") | 「瞳にくぎづけ」                   |
 |                                                                     |                            |
 

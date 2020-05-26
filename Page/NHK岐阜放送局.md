@@ -34,27 +34,27 @@
   - **[岐阜](../Page/上加納山タワー.md "wikilink") 29ch JOOP-DTV 500W**
   - [各務原](https://ja.wikipedia.org/wiki/各務原テレビ中継局 "wikilink") 46ch 1W
   - [中津川](../Page/中津川中継局.md "wikilink") 24ch 20W
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 29ch 10W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 29ch 10W
   - [高山](../Page/高山中継局.md "wikilink") 29ch 20W
-  - [下呂](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 29ch 3W
+  - [下呂](../Page/下呂中継局.md "wikilink") 29ch 3W
   - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 24ch 10W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 29ch 3W
-  - [長良](https://ja.wikipedia.org/wiki/長良テレビ中継局 "wikilink") 29ch 2W
+  - [長良](../Page/長良テレビ中継局.md "wikilink") 29ch 2W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 29ch 1W
   - [瑞浪](../Page/瑞浪テレビ中継局.md "wikilink") 24ch 1W
-  - [坂下](https://ja.wikipedia.org/wiki/坂下テレビ中継局 "wikilink") 24ch 1W
-  - [付知](https://ja.wikipedia.org/wiki/付知テレビ中継局 "wikilink") 24ch 1W
-  - [明智](https://ja.wikipedia.org/wiki/明智テレビ中継局 "wikilink") 29ch 1W
-  - [白鳥](https://ja.wikipedia.org/wiki/白鳥中継局 "wikilink") 24ch 1W
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 29ch 1W
+  - [坂下](../Page/坂下テレビ中継局.md "wikilink") 24ch 1W
+  - [付知](../Page/付知テレビ中継局.md "wikilink") 24ch 1W
+  - [明智](../Page/明智テレビ中継局.md "wikilink") 29ch 1W
+  - [白鳥](../Page/白鳥中継局.md "wikilink") 24ch 1W
+  - [神岡](../Page/神岡中継局.md "wikilink") 29ch 1W
   - [関ヶ原](https://ja.wikipedia.org/wiki/NHK関ヶ原テレビ中継局 "wikilink") 24ch 300mW
   - [多治見](../Page/多治見中継局.md "wikilink") 24ch 1W（垂直偏波）
   - [美濃](https://ja.wikipedia.org/wiki/美濃テレビ中継局 "wikilink") 29ch 300mW
-  - [加子母](https://ja.wikipedia.org/wiki/加子母テレビ中継局 "wikilink") 24ch 300mW
-  - [中野方](https://ja.wikipedia.org/wiki/中野方テレビ中継局 "wikilink") 29ch 300mW
+  - [加子母](../Page/加子母テレビ中継局.md "wikilink") 24ch 300mW
+  - [中野方](../Page/中野方テレビ中継局.md "wikilink") 29ch 300mW
   - [土岐](../Page/土岐テレビ中継局.md "wikilink") 24ch 300mW（垂直偏波）
   - [駄知](https://ja.wikipedia.org/wiki/NHK駄知テレビ中継局 "wikilink") 24ch 50mW（垂直偏波）
-  - [神岡流葉](https://ja.wikipedia.org/wiki/神岡流葉中継局 "wikilink") 24ch 300mW（垂直偏波）
+  - [神岡流葉](../Page/神岡流葉中継局.md "wikilink") 24ch 300mW（垂直偏波）
   - [多治見旭ケ丘](https://ja.wikipedia.org/wiki/NHK多治見旭ヶ丘テレビ中継局 "wikilink") 47ch 50mW（垂直偏波）
   - [多治見姫](https://ja.wikipedia.org/wiki/多治見姫テレビ中継局 "wikilink") 24ch 50mW
   - [鵜沼宝積寺](https://ja.wikipedia.org/wiki/鵜沼宝積寺テレビ中継局 "wikilink") 24ch 50mW
@@ -67,27 +67,27 @@
 
   - [各務原](https://ja.wikipedia.org/wiki/各務原テレビ中継局 "wikilink") 44ch 1W
   - [中津川](../Page/中津川中継局.md "wikilink") 24ch 20W
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 31ch 10W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 31ch 10W
   - [高山](../Page/高山中継局.md "wikilink") 31ch 20W
-  - [下呂](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 31ch 3W
+  - [下呂](../Page/下呂中継局.md "wikilink") 31ch 3W
   - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 31ch 10W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 31ch 3W
-  - [長良](https://ja.wikipedia.org/wiki/長良テレビ中継局 "wikilink") 31ch 2W
+  - [長良](../Page/長良テレビ中継局.md "wikilink") 31ch 2W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 34ch 1W
   - [瑞浪](../Page/瑞浪テレビ中継局.md "wikilink") 31ch 1W
-  - [坂下](https://ja.wikipedia.org/wiki/坂下テレビ中継局 "wikilink") 31ch 1W
-  - [付知](https://ja.wikipedia.org/wiki/付知テレビ中継局 "wikilink") 13ch 1W
-  - [明智](https://ja.wikipedia.org/wiki/明智テレビ中継局 "wikilink") 13ch 1W
-  - [白鳥](https://ja.wikipedia.org/wiki/白鳥中継局 "wikilink") 13ch 1W
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 31ch 1W
+  - [坂下](../Page/坂下テレビ中継局.md "wikilink") 31ch 1W
+  - [付知](../Page/付知テレビ中継局.md "wikilink") 13ch 1W
+  - [明智](../Page/明智テレビ中継局.md "wikilink") 13ch 1W
+  - [白鳥](../Page/白鳥中継局.md "wikilink") 13ch 1W
+  - [神岡](../Page/神岡中継局.md "wikilink") 31ch 1W
   - [関ヶ原](https://ja.wikipedia.org/wiki/NHK関ヶ原テレビ中継局 "wikilink") 31ch 300mW
   - [多治見](../Page/多治見中継局.md "wikilink") 31ch 1W（垂直偏波）
   - [美濃](https://ja.wikipedia.org/wiki/美濃テレビ中継局 "wikilink") 34ch 300mW
-  - [加子母](https://ja.wikipedia.org/wiki/加子母テレビ中継局 "wikilink") 13ch 300mW
-  - [中野方](https://ja.wikipedia.org/wiki/中野方テレビ中継局 "wikilink") 31ch 300mW
+  - [加子母](../Page/加子母テレビ中継局.md "wikilink") 13ch 300mW
+  - [中野方](../Page/中野方テレビ中継局.md "wikilink") 31ch 300mW
   - [土岐](../Page/土岐テレビ中継局.md "wikilink") 31ch 300mW（垂直偏波）
   - [駄知](https://ja.wikipedia.org/wiki/NHK駄知テレビ中継局 "wikilink") 33ch 50mW（垂直偏波）
-  - [神岡流葉](https://ja.wikipedia.org/wiki/神岡流葉中継局 "wikilink") 13ch 300mW（垂直偏波）
+  - [神岡流葉](../Page/神岡流葉中継局.md "wikilink") 13ch 300mW（垂直偏波）
   - [多治見旭ケ丘](https://ja.wikipedia.org/wiki/NHK多治見旭ヶ丘テレビ中継局 "wikilink") 50ch 50mW（垂直偏波）
   - [多治見姫](https://ja.wikipedia.org/wiki/多治見姫テレビ中継局 "wikilink") 31ch 50mW
   - [鵜沼宝積寺](https://ja.wikipedia.org/wiki/鵜沼宝積寺テレビ中継局 "wikilink") 31ch 50mW
@@ -96,13 +96,13 @@
 
   - **[岐阜](../Page/上加納山タワー.md "wikilink") 83.6[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") JOOP-FM 1kW**
   - [中津川](../Page/中津川中継局.md "wikilink") 85.8MHz 100W（垂直偏波）
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 85.6MHz 100W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 85.6MHz 100W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 84.8MHz 100W
   - [高山](../Page/高山中継局.md "wikilink") 86.1MHz 10W
   - [宮](https://ja.wikipedia.org/wiki/NHK宮中継局 "wikilink") 84.3MHz 10W
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 85.3MHz 10W
-  - [下呂](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 84.4MHz 10W
-  - [飛騨金山](https://ja.wikipedia.org/wiki/NHK飛騨金山中継局 "wikilink") 83.1MHz 10W
+  - [神岡](../Page/神岡中継局.md "wikilink") 85.3MHz 10W
+  - [下呂](../Page/下呂中継局.md "wikilink") 84.4MHz 10W
+  - [飛騨金山](../Page/NHK飛騨金山中継局.md "wikilink") 83.1MHz 10W
   - [小坂](https://ja.wikipedia.org/wiki/NHK小坂中継局 "wikilink") 85.6MHz 3W（垂直偏波）
 
 ### アナログテレビ（2011年7月24日運用終了）
@@ -114,27 +114,27 @@
   - **[岐阜](../Page/上加納山タワー.md "wikilink") 39ch JOOP-TV 映像5kW/音声1.25kW**
   - [各務原](https://ja.wikipedia.org/wiki/各務原テレビ中継局 "wikilink") 43ch 映像10W/音声2.5W
   - [中津川](../Page/中津川中継局.md "wikilink") 4ch 映像100W/音声25W（垂直偏波）
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 4ch 映像100W/音声25W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 4ch 映像100W/音声25W
   - [高山](../Page/高山中継局.md "wikilink") 4ch 映像30W/音声7.5W
-  - [下呂](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 4ch 映像10W/音声2.5W
+  - [下呂](../Page/下呂中継局.md "wikilink") 4ch 映像10W/音声2.5W
   - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 43ch 映像30W/音声7.5W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 44ch 映像30W/音声7.5W
-  - [長良](https://ja.wikipedia.org/wiki/長良テレビ中継局 "wikilink") 53ch 映像10W/音声2.5W
+  - [長良](../Page/長良テレビ中継局.md "wikilink") 53ch 映像10W/音声2.5W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 40ch 映像10W/音声2.5W
   - [瑞浪](../Page/瑞浪テレビ中継局.md "wikilink") 51ch 映像10W/音声2.5W
-  - [坂下](https://ja.wikipedia.org/wiki/坂下テレビ中継局 "wikilink") 52ch 映像10W/音声2.5W
-  - [付知](https://ja.wikipedia.org/wiki/付知テレビ中継局 "wikilink") 51ch 映像10W/音声2.5W
-  - [明智](https://ja.wikipedia.org/wiki/明智テレビ中継局 "wikilink") 52ch 映像10W/音声2.5W
-  - [白鳥](https://ja.wikipedia.org/wiki/白鳥中継局 "wikilink") 51ch 映像10W/音声2.5W
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 53ch 映像10W/音声2.5W
+  - [坂下](../Page/坂下テレビ中継局.md "wikilink") 52ch 映像10W/音声2.5W
+  - [付知](../Page/付知テレビ中継局.md "wikilink") 51ch 映像10W/音声2.5W
+  - [明智](../Page/明智テレビ中継局.md "wikilink") 52ch 映像10W/音声2.5W
+  - [白鳥](../Page/白鳥中継局.md "wikilink") 51ch 映像10W/音声2.5W
+  - [神岡](../Page/神岡中継局.md "wikilink") 53ch 映像10W/音声2.5W
   - [関ヶ原](https://ja.wikipedia.org/wiki/NHK関ヶ原テレビ中継局 "wikilink") 40ch 映像10W/音声2.5W
   - [多治見](../Page/多治見中継局.md "wikilink") 51ch 映像3W/音声750mW（垂直偏波）
   - [美濃](https://ja.wikipedia.org/wiki/美濃テレビ中継局 "wikilink") 51ch 映像3W/音声750mW
-  - [加子母](https://ja.wikipedia.org/wiki/加子母テレビ中継局 "wikilink") 52ch 映像3W/音声750mW
-  - [中野方](https://ja.wikipedia.org/wiki/中野方テレビ中継局 "wikilink") 51ch 映像3W/音声750mW
+  - [加子母](../Page/加子母テレビ中継局.md "wikilink") 52ch 映像3W/音声750mW
+  - [中野方](../Page/中野方テレビ中継局.md "wikilink") 51ch 映像3W/音声750mW
   - [土岐](../Page/土岐テレビ中継局.md "wikilink") 52ch 映像3W/音声750mW（垂直偏波）
-  - [駄知](https://ja.wikipedia.org/wiki/駄知テレビ中継局 "wikilink") 51ch 映像3W/音声750mW（垂直偏波）
-  - [神岡流葉](https://ja.wikipedia.org/wiki/神岡流葉中継局 "wikilink") 51ch 映像1W/音声250mW（垂直偏波）
+  - [駄知](../Page/駄知テレビ中継局.md "wikilink") 51ch 映像3W/音声750mW（垂直偏波）
+  - [神岡流葉](../Page/神岡流葉中継局.md "wikilink") 51ch 映像1W/音声250mW（垂直偏波）
   - [多治見旭ケ丘](https://ja.wikipedia.org/wiki/NHK多治見旭ヶ丘テレビ中継局 "wikilink") 48ch 映像500mW/音声125mW（垂直偏波）
 
 <!-- end list -->
@@ -144,46 +144,46 @@
 <!-- end list -->
 
   - [中津川](../Page/中津川中継局.md "wikilink") 12ch 映像100W/音声25W（垂直偏波）
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 12ch 映像100W/音声25W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 12ch 映像100W/音声25W
   - [高山](../Page/高山中継局.md "wikilink") 2ch 映像30W/音声7.5W
-  - [下呂](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 12ch 映像10W/音声2.5W
+  - [下呂](../Page/下呂中継局.md "wikilink") 12ch 映像10W/音声2.5W
   - [中濃](https://ja.wikipedia.org/wiki/中濃テレビ中継局 "wikilink") 50ch 映像30W/音声7.5W
   - [土岐南](../Page/土岐南中継局.md "wikilink") 46ch 映像30W/音声7.5W
-  - [長良](https://ja.wikipedia.org/wiki/長良テレビ中継局 "wikilink") 49ch 映像10W/音声2.5W
+  - [長良](../Page/長良テレビ中継局.md "wikilink") 49ch 映像10W/音声2.5W
   - [岐阜芥見](https://ja.wikipedia.org/wiki/岐阜芥見テレビ中継局 "wikilink") 42ch 映像10W/音声2.5W
   - [瑞浪](../Page/瑞浪テレビ中継局.md "wikilink") 49ch 映像10W/音声2.5W
-  - [坂下](https://ja.wikipedia.org/wiki/坂下テレビ中継局 "wikilink") 50ch 映像10W/音声2.5W
-  - [付知](https://ja.wikipedia.org/wiki/付知テレビ中継局 "wikilink") 49ch 映像10W/音声2.5W
-  - [明智](https://ja.wikipedia.org/wiki/明智テレビ中継局 "wikilink") 50ch 映像10W/音声2.5W
-  - [白鳥](https://ja.wikipedia.org/wiki/白鳥中継局 "wikilink") 49ch 映像10W/音声2.5W
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 49ch 映像10W/音声2.5W
+  - [坂下](../Page/坂下テレビ中継局.md "wikilink") 50ch 映像10W/音声2.5W
+  - [付知](../Page/付知テレビ中継局.md "wikilink") 49ch 映像10W/音声2.5W
+  - [明智](../Page/明智テレビ中継局.md "wikilink") 50ch 映像10W/音声2.5W
+  - [白鳥](../Page/白鳥中継局.md "wikilink") 49ch 映像10W/音声2.5W
+  - [神岡](../Page/神岡中継局.md "wikilink") 49ch 映像10W/音声2.5W
   - [関ヶ原](https://ja.wikipedia.org/wiki/NHK関ヶ原テレビ中継局 "wikilink") 42ch 映像10W/音声2.5W
   - [多治見](../Page/多治見中継局.md "wikilink") 49ch 映像3W/音声750mW（垂直偏波）
   - [美濃](https://ja.wikipedia.org/wiki/美濃テレビ中継局 "wikilink") 48ch 映像3W/音声750mW
-  - [加子母](https://ja.wikipedia.org/wiki/加子母テレビ中継局 "wikilink") 50ch 映像3W/音声750mW
-  - [中野方](https://ja.wikipedia.org/wiki/中野方テレビ中継局 "wikilink") 49ch 映像3W/音声750mW
+  - [加子母](../Page/加子母テレビ中継局.md "wikilink") 50ch 映像3W/音声750mW
+  - [中野方](../Page/中野方テレビ中継局.md "wikilink") 49ch 映像3W/音声750mW
   - [土岐](../Page/土岐テレビ中継局.md "wikilink") 50ch 映像3W/音声750mW（垂直偏波）
-  - [駄知](https://ja.wikipedia.org/wiki/駄知テレビ中継局 "wikilink") 49ch 映像3W/音声750mW（垂直偏波）
-  - [神岡流葉](https://ja.wikipedia.org/wiki/神岡流葉中継局 "wikilink") 47ch 映像1W/音声250mW（垂直偏波）
+  - [駄知](../Page/駄知テレビ中継局.md "wikilink") 49ch 映像3W/音声750mW（垂直偏波）
+  - [神岡流葉](../Page/神岡流葉中継局.md "wikilink") 47ch 映像1W/音声250mW（垂直偏波）
   - [多治見旭ケ丘](https://ja.wikipedia.org/wiki/NHK多治見旭ヶ丘テレビ中継局 "wikilink") 52ch 映像500mW/音声125mW（垂直偏波）
 
 ### ラジオ第1放送
 
   - [中津川](../Page/中津川中継局.md "wikilink") 1161[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 100W
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 846kHz 100W
-  - [萩原](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 1341kHz 100W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 846kHz 100W
+  - [萩原](../Page/下呂中継局.md "wikilink") 1341kHz 100W
   - [高山](../Page/高山中継局.md "wikilink") 792kHz 1kW
   - [奥飛騨温泉郷](https://ja.wikipedia.org/wiki/奥飛騨温泉郷#NHK奥飛騨温泉郷中継局 "wikilink")（FM波）76.1MHz 30W
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 1341kHz 100W
-  - [白鳥](https://ja.wikipedia.org/wiki/白鳥中継局 "wikilink") 1161kHz 100W
+  - [神岡](../Page/神岡中継局.md "wikilink") 1341kHz 100W
+  - [白鳥](../Page/白鳥中継局.md "wikilink") 1161kHz 100W
 
 ### ラジオ第2放送
 
   - [中津川](../Page/中津川中継局.md "wikilink") 1359kHz 100W
-  - [郡上八幡](https://ja.wikipedia.org/wiki/郡上八幡中継局 "wikilink") 1521kHz 100W
-  - [萩原](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink") 1602kHz 100W
+  - [郡上八幡](../Page/郡上八幡中継局.md "wikilink") 1521kHz 100W
+  - [萩原](../Page/下呂中継局.md "wikilink") 1602kHz 100W
   - [高山](../Page/高山中継局.md "wikilink") 1125kHz 1kW
-  - [神岡](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink") 1539kHz 100W
+  - [神岡](../Page/神岡中継局.md "wikilink") 1539kHz 100W
 
 ### 放送エリアについて
 

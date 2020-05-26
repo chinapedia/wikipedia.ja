@@ -72,7 +72,7 @@
   - アニメーション制作：メディアビジョン
       - 演出：[細田雅弘](https://ja.wikipedia.org/wiki/細田雅弘 "wikilink")
   - アニメーション作画：[ゆめ太カンパニー](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")
-      - 作画監督：川島恵子、[林明美](https://ja.wikipedia.org/wiki/林明美 "wikilink")
+      - 作画監督：川島恵子、[林明美](../Page/林明美.md "wikilink")
 
 ## 関連アイテム
 

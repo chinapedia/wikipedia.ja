@@ -37,7 +37,7 @@
 
 [1938年](../Page/1938年.md "wikilink")1月8日に[カリブ海](../Page/カリブ海.md "wikilink")へ出航し、[プエルトリコ](../Page/プエルトリコ.md "wikilink")のクレブラに1月13日到着。続く一ヶ月にも及ぶ[試運転](https://ja.wikipedia.org/wiki/試運転 "wikilink")の間に[ヴァージン諸島セント](../Page/アメリカ領ヴァージン諸島.md "wikilink")・トーマス島のシャーロット・アマリィ、[ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink")のゴナイブ、[キューバ](../Page/キューバ.md "wikilink")の[グアンタナモ湾](https://ja.wikipedia.org/wiki/グアンタナモ湾 "wikilink")、[パナマ運河](../Page/パナマ運河.md "wikilink")地帯のクリストバルを訪れた。クリストバルのコロン湾を3月1日に出航し、ハンプトン・ローズに6日に帰港した。翌日調整のためノーフォーク海軍工廠へ移動。1938年の秋の間を使って修理と調整が行われ、ヨークタウンは10月17日に海軍工廠からノーフォーク海軍基地へ移動し、またすぐに南方に向かい訓練というのが繰り返された。
 
-ヨークタウンは東海岸を拠点として[チェサピーク湾](../Page/チェサピーク湾.md "wikilink")からグアンタナモ湾までの範囲で作戦行動を行う。1939年には第2空母部隊の旗艦として最初の対抗演習「Fleet Problem XX」に姉妹艦[エンタープライズ](../Page/エンタープライズ_\(CV-6\).md "wikilink")（USS Enterprise, CV-6）と共に参加した。その演習の様子は[重巡洋艦](../Page/重巡洋艦.md "wikilink")[ヒューストン](https://ja.wikipedia.org/wiki/ヒューストン_\(重巡洋艦\) "wikilink")（USS Houston, CA-30）に乗艦した[フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")[大統領に目撃されている](../Page/アメリカ合衆国大統領.md "wikilink")。
+ヨークタウンは東海岸を拠点として[チェサピーク湾](../Page/チェサピーク湾.md "wikilink")からグアンタナモ湾までの範囲で作戦行動を行う。1939年には第2空母部隊の旗艦として最初の対抗演習「Fleet Problem XX」に姉妹艦[エンタープライズ](../Page/エンタープライズ_\(CV-6\).md "wikilink")（USS Enterprise, CV-6）と共に参加した。その演習の様子は[重巡洋艦](../Page/重巡洋艦.md "wikilink")[ヒューストン](../Page/ヒューストン_\(重巡洋艦\).md "wikilink")（USS Houston, CA-30）に乗艦した[フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")[大統領に目撃されている](../Page/アメリカ合衆国大統領.md "wikilink")。
 
 演習が終了するとヨークタウンは4月20日にハンプトン・ローズに帰還する。一週間後に[パナマ運河](../Page/パナマ運河.md "wikilink")を通過して太平洋艦隊に合流、定期的な作戦行動に入る。1940年は[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")を拠点として活動し、同年4月には演習「Fleet Problem XXI」に参加した。
 

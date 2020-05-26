@@ -17,7 +17,7 @@
 
 ### 歴史
 
-1937年4月、[アメリカ陸軍需品科](https://ja.wikipedia.org/wiki/アメリカ陸軍需品科 "wikilink")の[ポール・ローガン](https://ja.wikipedia.org/wiki/ポール・ローガン_\(軍人\) "wikilink")[大佐](../Page/大佐.md "wikilink")は、米国チョコレートメーカー最大手の[ハーシー（ザ・ハーシー・カンパニー）にコンタクトを取り](../Page/ザ・ハーシー・カンパニー.md "wikilink")、社長[ウィリアム・マリー](https://ja.wikipedia.org/wiki/ウィリアム・マリー "wikilink")および化学部長の[サム・ヒンクル](https://ja.wikipedia.org/wiki/サム・ヒンクル "wikilink")に面会した。この提案を聞いた創業者[ミルトン・ハーシー](https://ja.wikipedia.org/wiki/ミルトン・ハーシー "wikilink")は非常に関心を寄せ、レーションDバーの実験生産が始まった。
+1937年4月、[アメリカ陸軍需品科](../Page/アメリカ陸軍需品科.md "wikilink")の[ポール・ローガン](https://ja.wikipedia.org/wiki/ポール・ローガン_\(軍人\) "wikilink")[大佐](../Page/大佐.md "wikilink")は、米国チョコレートメーカー最大手の[ハーシー（ザ・ハーシー・カンパニー）にコンタクトを取り](../Page/ザ・ハーシー・カンパニー.md "wikilink")、社長[ウィリアム・マリー](https://ja.wikipedia.org/wiki/ウィリアム・マリー "wikilink")および化学部長の[サム・ヒンクル](https://ja.wikipedia.org/wiki/サム・ヒンクル "wikilink")に面会した。この提案を聞いた創業者[ミルトン・ハーシー](https://ja.wikipedia.org/wiki/ミルトン・ハーシー "wikilink")は非常に関心を寄せ、レーションDバーの実験生産が始まった。
 
 ローガン大佐は、レーションDバーについて以下の4つの要求を出した。
 

@@ -9,7 +9,7 @@
 
 ### デビュー前 - 2004年
 
-[鹿児島県立薩南工業高等学校](https://ja.wikipedia.org/wiki/鹿児島県立薩南工業高等学校 "wikilink")卒業後に東京の建設会社に就職して[アニマル浜口トレーニングジムに通い体作りをして](../Page/アニマル浜口レスリング道場.md "wikilink")[リングス](../Page/リングス.md "wikilink")の入団テストを受けるが不合格。その後、[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")が設立したプロレススクール「[闘龍門](../Page/闘龍門.md "wikilink")」の1期生の募集に合格して同期生の[黒木克昌](../Page/黒木克昌.md "wikilink")（旧：マグナムTOKYO）、大島伸彦（現：[CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")）、藤井達樹（現：[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")）と先発隊として[メキシコ](../Page/メキシコ.md "wikilink")へ渡り、大島と藤井の2人と[ルード](../Page/ヒール_\(プロレス\).md "wikilink")（悪役）ユニット[C-MAXを結成](../Page/CRAZY-MAX.md "wikilink")（後に[TARU](../Page/TARU.md "wikilink")となる多留嘉一が加入）。
+[鹿児島県立薩南工業高等学校](../Page/鹿児島県立薩南工業高等学校.md "wikilink")卒業後に東京の建設会社に就職して[アニマル浜口トレーニングジムに通い体作りをして](../Page/アニマル浜口レスリング道場.md "wikilink")[リングス](../Page/リングス.md "wikilink")の入団テストを受けるが不合格。その後、[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")が設立したプロレススクール「[闘龍門](../Page/闘龍門.md "wikilink")」の1期生の募集に合格して同期生の[黒木克昌](../Page/黒木克昌.md "wikilink")（旧：マグナムTOKYO）、大島伸彦（現：[CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")）、藤井達樹（現：[ドン・フジイ](../Page/ドン・フジイ.md "wikilink")）と先発隊として[メキシコ](../Page/メキシコ.md "wikilink")へ渡り、大島と藤井の2人と[ルード](../Page/ヒール_\(プロレス\).md "wikilink")（悪役）ユニット[C-MAXを結成](../Page/CRAZY-MAX.md "wikilink")（後に[TARU](../Page/TARU.md "wikilink")となる多留嘉一が加入）。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に正式デビュー。[1999年](../Page/1999年.md "wikilink")、闘龍門JAPANに日本逆上陸として登場後、大暴れぶりで団体の「強さの象徴」と言われたが、怪我に悩まされた。普段はコミカルな試合が多いフジイと衝突したことがあり、一時ユニットは空中分解、SUWAも会社を無断欠勤するという事件が起きている。その後復帰したものの、処罰として第1試合での試合を義務付けられた。フジイとは後に和解し、ユニットも元通りとなった。
 

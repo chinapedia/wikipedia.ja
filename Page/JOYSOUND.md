@@ -40,7 +40,7 @@ JOYSOUND（ジョイサウンド）直営店、[カラオケボックス](../Pag
 
 <!-- end list -->
 
-  - [HyperJoy WAVE](https://ja.wikipedia.org/wiki/HyperJoy_WAVE "wikilink")（ハイパージョイウェーブ：JS-W1）\[10\]
+  - [HyperJoy WAVE](../Page/HyperJoy_WAVE.md "wikilink")（ハイパージョイウェーブ：JS-W1）\[10\]
     [thumb](https://ja.wikipedia.org/wiki/ファイル:HyperJoyWAVE\(JS-W1\).JPG "wikilink")
     [2006年](../Page/2006年.md "wikilink")11月発売。HyperJoy V2の曲を全て選曲可能だが、WAVE専用曲も次第に増えている。
     最大の特徴として、カラオケ[SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「**[うたスキ](../Page/うたスキ.md "wikilink")**」に対応する。リアルタイムの全国採点（**全国採点ONLINE**）もシリーズで初めて導入している。新機能としてサビの部分しか知らない曲や、うろ覚えな曲などをお手本ボーカルがサポートしてくれる**《ガイドボーカル入り》**が、映像コンテンツとしては、**《アニメカラオケ》**と**《アニメ映像》**、**《NHKみんなのうた映像》**、**《おゆうぎカラオケ》**が追加された。2006年度グッドデザイン賞受賞。

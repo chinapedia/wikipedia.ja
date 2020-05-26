@@ -180,7 +180,7 @@
 | 永遠                      | TBS系列テレビドラマ『[泣きたい夜もある](../Page/泣きたい夜もある.md "wikilink")』挿入歌                                         |
 | ChaoTokyo               | フジテレビ系列のバラエティ番組『[上岡龍太郎にはダマされないぞ\!](../Page/上岡龍太郎にはダマされないぞ!.md "wikilink")』エンディングテーマ                |
 | 素肌                      | フジテレビ『ROOMS』エンディングテーマ                                                                              |
-| また会えるから                 | 映画『[ルビーフルーツ](https://ja.wikipedia.org/wiki/ルビーフルーツ "wikilink")』主題歌                                 |
+| また会えるから                 | 映画『[ルビーフルーツ](../Page/ルビーフルーツ.md "wikilink")』主題歌                                                    |
 | Obsession               | テレビ東京系テレビアニメ『[.hack//sign](https://ja.wikipedia.org/wiki/.hack/sign "wikilink")』オープニングテーマ          |
 | 優しい夜明け                  | テレビ東京系テレビアニメ『.hack//sign』エンディングテーマ                                                                 |
 | edge                    | OVA『[.hack//Liminality](https://ja.wikipedia.org/wiki/.hack/Liminality "wikilink") Vol.1』オープニングテーマ |

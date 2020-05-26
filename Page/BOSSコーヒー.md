@@ -601,7 +601,7 @@
   - BOSS7（ボス・セブン）
       - [ビル・クリントン](../Page/ビル・クリントン.md "wikilink")のそっくりさん/[伊藤正之](../Page/伊藤正之.md "wikilink")（1998年9月 - 11月）
       - [アーネスト・ホースト](../Page/アーネスト・ホースト.md "wikilink")、[佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink")/[宝井誠明](https://ja.wikipedia.org/wiki/宝井誠明 "wikilink")（1998年11月 - 12月）
-      - [貴乃花光司](https://ja.wikipedia.org/wiki/貴乃花光司 "wikilink")/[八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")（1998年1月 - 3月）
+      - [貴乃花光司](../Page/貴乃花光司.md "wikilink")/[八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")（1998年1月 - 3月）
       - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")/[田邊年秋](https://ja.wikipedia.org/wiki/田邊年秋 "wikilink")（1999年4月 - 7月）
       - [神田うの](../Page/神田うの.md "wikilink")、[佐川大輔](https://ja.wikipedia.org/wiki/佐川大輔 "wikilink")（1999年9月 - 11月）
     <!-- end list -->
@@ -1401,7 +1401,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>『<a href="https://ja.wikipedia.org/wiki/恋人も濡れる街角" title="wikilink">恋人も濡れる街角</a>篇』</p></td>
+<td><p>『<a href="../Page/恋人も濡れる街角.md" title="wikilink">恋人も濡れる街角</a>篇』</p></td>
 <td><p>養鯉場従業員</p></td>
 <td></td>
 </tr>

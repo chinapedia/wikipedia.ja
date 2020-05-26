@@ -1,7 +1,7 @@
 > この記事は[Woody-Rinn](https://ja.wikipedia.org/wiki/Woody-Rinn)から翻訳されています。
 
 
-**Woody-Rinn**（うっでぃりん）は、[長野県](../Page/長野県.md "wikilink")出身の[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発者、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。
+**Woody-Rinn**（うっでぃりん）は、[長野県](../Page/長野県.md "wikilink")出身の[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発者、[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@ DOS時代のプログラムの開発には[Pascal](../Page/Pascal.md "wikilink")
 
 ## 作品一覧
 
-  - RINNちゃんの事件簿：全1巻　[司書房](https://ja.wikipedia.org/wiki/司書房 "wikilink")　ISBN 978-4924464544
+  - RINNちゃんの事件簿：全1巻　[司書房](../Page/司書房.md "wikilink")　ISBN 978-4924464544
   - ウルトラ―M：全1巻　[白夜書房](../Page/白夜書房.md "wikilink")（ホットミルクcomics）ISBN 978-4893671790
   - 真・隷嬢物語：全1巻　[大洋図書](../Page/大洋図書.md "wikilink") ISBN 978-4886728036
 

@@ -20,7 +20,7 @@
   - その他
       - [神経嚢虫症](https://ja.wikipedia.org/wiki/神経嚢虫症 "wikilink")（Neurocysticercosis）の略称
 
-      - [新潟コンピュータ専門学校](https://ja.wikipedia.org/wiki/新潟コンピュータ専門学校 "wikilink")の略称
+      - [新潟コンピュータ専門学校](../Page/新潟コンピュータ専門学校.md "wikilink")の略称
 
       - [長良川国際会議場](../Page/長良川国際会議場.md "wikilink")（Nagaragawa Convention Center）の略称
 

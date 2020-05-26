@@ -43,7 +43,7 @@ PIACCIの代表取締役である有泉富三彦は、[ヒューネックス](..
   - [Canvas3 〜淡色のパステル〜](https://ja.wikipedia.org/wiki/Canvas3 "wikilink") \[2009年9月17日、PS2\] （F\&C FC01 『Canvas3 〜白銀のポートレート〜』）
   - Like Life every hour \[2009年10月1日、PSP\] （HOOKSOFT 『Like Life』）
   - あかね色に染まる坂 ぽーたぶる \[2009年12月17日、PSP\] （feng 『あかね色に染まる坂』）
-  - [MagusTale Eternity 〜世界樹と恋する魔法使い〜](https://ja.wikipedia.org/wiki/MagusTale_Eternity_〜世界樹と恋する魔法使い〜 "wikilink") \[2009年12月24日、PSP\] （[Whirlpool](https://ja.wikipedia.org/wiki/Whirlpool_\(ゲームブランド\) "wikilink") 『MagusTale 〜世界樹と恋する魔法使い〜』）
+  - [MagusTale Eternity 〜世界樹と恋する魔法使い〜](https://ja.wikipedia.org/wiki/MagusTale_Eternity_〜世界樹と恋する魔法使い〜 "wikilink") \[2009年12月24日、PSP\] （[Whirlpool](../Page/Whirlpool_\(ゲームブランド\).md "wikilink") 『MagusTale 〜世界樹と恋する魔法使い〜』）
   - [FairlyLife MiracleDays](https://ja.wikipedia.org/wiki/FairlyLife_MiracleDays "wikilink") \[2010年2月25日、PSP\] （HOOKSOFT 『FairlyLife』）
   - [Canvas3 〜七色の奇跡〜](https://ja.wikipedia.org/wiki/Canvas3_〜七色の奇跡〜 "wikilink") \[2010年4月22日、PSP\] （F\&C FC01 『Canvas3 〜白銀のポートレート〜』）
   - [さくらさくら -HARU URARA-](https://ja.wikipedia.org/wiki/さくらさくら_-HARU_URARA- "wikilink") \[2010年8月26日、PSP\] （[ハイクオソフト](../Page/ハイクオソフト.md "wikilink") 『さくらさくら』）

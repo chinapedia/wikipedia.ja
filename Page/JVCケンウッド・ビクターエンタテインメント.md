@@ -209,8 +209,8 @@
   - [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink") (1999年〜)
   - [TFG](https://ja.wikipedia.org/wiki/TFG_\(音楽グループ\) "wikilink") (2019年〜)
   - [DaizyStripper](https://ja.wikipedia.org/wiki/DaizyStripper "wikilink") (同社内のCJビクターエンタテインメントから移籍) (2017年～)
-  - [D](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink") (同社内のCJビクターエンタテインメントから移籍) (2017年～)
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") (2007年〜)
+  - [D](../Page/D_\(バンド\).md "wikilink") (同社内のCJビクターエンタテインメントから移籍) (2017年～)
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink") (2007年〜)
   - [ときのそら](https://ja.wikipedia.org/wiki/ときのそら "wikilink")(2019年〜)
   - [Dragon Ash](../Page/Dragon_Ash.md "wikilink") (同社内のプライベートレーベル[MOB SQUADに所属](../Page/MOB_SQUAD.md "wikilink")) (1997年〜)
 
@@ -246,7 +246,7 @@
   - [町あかり](https://ja.wikipedia.org/wiki/町あかり "wikilink") (2015年〜)
   - [マリアンヌ東雲](https://ja.wikipedia.org/wiki/キノコホテル "wikilink") (2019年〜)
   - [丸本莉子](https://ja.wikipedia.org/wiki/丸本莉子 "wikilink") (2015年〜)
-  - [宮崎奈穂子](https://ja.wikipedia.org/wiki/宮崎奈穂子 "wikilink") (2018年〜)
+  - [宮崎奈穂子](../Page/宮崎奈穂子.md "wikilink") (2018年〜)
   - [むぎ (猫)](https://ja.wikipedia.org/wiki/むぎ_\(猫\) "wikilink") (2019年〜)
   - [モトーラ世理奈](https://ja.wikipedia.org/wiki/モトーラ世理奈 "wikilink") (2019年〜)
   - [森進一](../Page/森進一.md "wikilink") (1966年〜)
@@ -304,7 +304,7 @@
   - あゆ朱美（その後本名の[戸田恵子](../Page/戸田恵子.md "wikilink")に改名し、声優・女優として活動。2007年に歌手活動再開） (1974年〜1976年,2007年〜2008年)
   - [有坂美香](../Page/有坂美香.md "wikilink") (2000年〜2006年)
   - [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（1974年〜1975年→ALFIE時代に在籍。「[府中捕物控](../Page/府中捕物控.md "wikilink")」の発売中止騒動を機に自ら契約を解除。その後[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")→[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")→[EMI Records Japanへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
-  - [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink") (2010年)
+  - [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink") (2010年)
   - [アン・ルイス](../Page/アン・ルイス.md "wikilink") (1971年〜1981年)
   - [飯島真理](../Page/飯島真理.md "wikilink") (1982年〜1987年→[アルファ・ムーン](https://ja.wikipedia.org/wiki/Moon_Records "wikilink")(現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink"))への移籍を経て、現在はアメリカを拠点としてインディーズで活動中）
   - [石川ひとみ](../Page/石川ひとみ.md "wikilink") (1999年)
@@ -390,7 +390,7 @@
       - [石川智晶](../Page/石川智晶.md "wikilink") (2007年〜2012年)
   - [塩野健士](https://ja.wikipedia.org/wiki/塩野健士 "wikilink")（1994年～1998年）
   - [シブヤDOMINION](https://ja.wikipedia.org/wiki/シブヤDOMINION "wikilink") （VERSIONMUSIC所属） (2014年〜2015年)
-  - [しほの涼](https://ja.wikipedia.org/wiki/しほの涼 "wikilink") (2008年)
+  - [しほの涼](../Page/しほの涼.md "wikilink") (2008年)
   - 1314 V-station|直球(じかだま)メンバー
       - [宮村優子](../Page/宮村優子_\(声優\).md "wikilink")（→[サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")への移籍を経て、[声優](../Page/声優.md "wikilink")専業へ）
       - [岩田光央](../Page/岩田光央.md "wikilink")（→[ケイエスエス](../Page/ケイエスエス.md "wikilink")レコードを経て、[ランティス](../Page/ランティス.md "wikilink")へ移籍。）
@@ -651,7 +651,7 @@
 <!-- end list -->
 
   - 3月18日[釣りキチ三平](../Page/釣りキチ三平.md "wikilink") 〜ブルーマーリン編〜（FC）
-  - 8月26日 [イースI](https://ja.wikipedia.org/wiki/イースI "wikilink")（FC）
+  - 8月26日 [イースI](../Page/イースI.md "wikilink")（FC）
   - 9月23日 [魔境伝説](../Page/魔境伝説.md "wikilink")（[PCエンジン](../Page/PCエンジン.md "wikilink")、[HuCARD](../Page/HuCARD.md "wikilink")）
   - 12月16日 [かぐや姫伝説](https://ja.wikipedia.org/wiki/かぐや姫伝説 "wikilink")（FC）
 
@@ -855,7 +855,7 @@
 <!-- end list -->
 
   - [敵は海賊](../Page/敵は海賊.md "wikilink")・海賊版（PC-8801）
-  - [グイン・サーガ 豹頭の仮面](https://ja.wikipedia.org/wiki/グイン・サーガ "wikilink")（PC-8801）
+  - [グイン・サーガ 豹頭の仮面](../Page/グイン・サーガ.md "wikilink")（PC-8801）
   - シャウトマッチ（MSX-ROM）
   - 死霊戦線（MSX-ROM）
   - ドレイナー（MSX-ROM）
@@ -1261,7 +1261,7 @@ Getting Better Records×Speedstar Records presents MUSIC TAGS vol.3<br />
 </ul>
 <p>ROAR STAGE</p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ADAM_at" title="wikilink">ADAM at</a></li>
+<li><a href="../Page/ADAM_at.md" title="wikilink">ADAM at</a></li>
 <li>雨のパレード</li>
 <li>Xmas Eileen</li>
 <li>四星球</li>

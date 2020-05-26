@@ -7,7 +7,7 @@
 
 ## 概要
 
-内容は[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")が[麻雀](../Page/麻雀.md "wikilink")をプレイして優勝を目指すものである。[スポーツ選手](https://ja.wikipedia.org/wiki/スポーツ選手 "wikilink")や[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")など、芸能界以外の著名人もしばしば出演する。
+内容は[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")が[麻雀](../Page/麻雀.md "wikilink")をプレイして優勝を目指すものである。[スポーツ選手](https://ja.wikipedia.org/wiki/スポーツ選手 "wikilink")や[漫画家](../Page/漫画家.md "wikilink")など、芸能界以外の著名人もしばしば出演する。
 
 地上波での放送開始当初は事前収録により隔週放送されていたが、やがて不定期に深夜の生放送へと移行した。
 

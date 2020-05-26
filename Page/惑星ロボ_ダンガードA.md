@@ -703,7 +703,7 @@
 <td><p>危機一髪! 海底脱出</p></td>
 <td><p>田村多津夫</p></td>
 <td><p>川田武範</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">白鳥剣</a></p></td>
+<td><p><a href="../Page/内山正幸.md" title="wikilink">白鳥剣</a></p></td>
 <td><p>内川文広</p></td>
 <td><p>ガメガラン</p></td>
 </tr>

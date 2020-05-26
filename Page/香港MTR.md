@@ -1,7 +1,7 @@
 > この記事は[香港MTR](https://ja.wikipedia.org/wiki/香港MTR)から翻訳されています。
 
 
-**MTR**（エムティーアール、**M**ass **T**ransit **R**ailway）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")最大の[鉄道路線](../Page/鉄道路線.md "wikilink")システムである。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")では**港鉄**（[繁体字](../Page/繁体字.md "wikilink")：（こうてつ））。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に香港地鉄公司へ[九広鉄路](../Page/九広鉄路.md "wikilink")公司の運営権が譲渡、統合されて誕生した[香港鉄路有限公司が運営している](https://ja.wikipedia.org/wiki/香港鉄路_\(企業\) "wikilink")。
+**MTR**（エムティーアール、**M**ass **T**ransit **R**ailway）は、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")最大の[鉄道路線](../Page/鉄道路線.md "wikilink")システムである。[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")では**港鉄**（[繁体字](../Page/繁体字.md "wikilink")：（こうてつ））。[2007年](../Page/2007年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に香港地鉄公司へ[九広鉄路](../Page/九広鉄路.md "wikilink")公司の運営権が譲渡、統合されて誕生した[香港鉄路有限公司が運営している](../Page/香港鉄路_\(企業\).md "wikilink")。
 
 ## 概要
 

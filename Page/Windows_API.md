@@ -16,7 +16,7 @@ Windows APIの中核となる機能はKernel、User、GDIに分けられる\[1\]
   - Kernel
     [ファイルシステム](../Page/ファイルシステム.md "wikilink")、[デバイス](https://ja.wikipedia.org/wiki/デバイス "wikilink")、[プロセス](../Page/プロセス.md "wikilink")、[スレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")、[レジストリ](../Page/レジストリ.md "wikilink")、[例外処理](../Page/例外処理.md "wikilink")など基盤となる機能
   - User
-    ウィンドウの処理、[ボタンやスクロールバーなどといった基本的な](../Page/ボタン_\(GUI\).md "wikilink")[コントロール](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")、マウス・キーボード入力、その他[グラフィカルユーザーインターフェイス](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI) に関わる機能。
+    ウィンドウの処理、[ボタンやスクロールバーなどといった基本的な](../Page/ボタン_\(GUI\).md "wikilink")[コントロール](../Page/ウィジェット_\(GUI\).md "wikilink")、マウス・キーボード入力、その他[グラフィカルユーザーインターフェイス](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI) に関わる機能。
   - [GDI](../Page/Graphics_Device_Interface.md "wikilink")
     ディスプレイ・プリンタをはじめとした出力装置への描画機能
 

@@ -61,7 +61,7 @@
       - [イルミネーション・エンターテインメント](https://ja.wikipedia.org/wiki/イルミネーション・エンターテインメント "wikilink")
       - [ドリームワークス・アニメーション](../Page/ドリームワークス・アニメーション.md "wikilink")
       - [アンブリン・パートナーズ](https://ja.wikipedia.org/wiki/アンブリン・パートナーズ "wikilink")
-      - [フォーカス・フィーチャーズ](https://ja.wikipedia.org/wiki/フォーカス・フィーチャーズ "wikilink")
+      - [フォーカス・フィーチャーズ](../Page/フォーカス・フィーチャーズ.md "wikilink")
       - [ワーキング・タイトル・フィルムズ](https://ja.wikipedia.org/wiki/ワーキング・タイトル・フィルムズ "wikilink")
 
 ### テーマパーク
@@ -73,7 +73,7 @@
           - [ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")
           - [アイランズ・オブ・アドベンチャー](../Page/アイランズ・オブ・アドベンチャー.md "wikilink")
           - [ユニバーサル・エピック・ユニバース](https://ja.wikipedia.org/wiki/ユニバーサル・エピック・ユニバース "wikilink")(予定)
-      - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")
+      - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")
       - [ユニバーサル・スタジオ・シンガポール](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・シンガポール "wikilink")
       - [ユニバーサル・北京・リゾート](https://ja.wikipedia.org/wiki/ユニバーサル・北京・リゾート "wikilink")(予定)
           - [ユニバーサル・スタジオ・北京](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・北京 "wikilink")(予定)

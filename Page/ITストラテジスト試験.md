@@ -60,7 +60,7 @@
 <td></td>
 <td><ul>
 <li><a href="../Page/計算機科学.md" title="wikilink">基礎理論</a>（<a href="../Page/離散数学.md" title="wikilink">離散数学</a>、<a href="../Page/応用数学.md" title="wikilink">応用数学</a>、<a href="../Page/アルゴリズム.md" title="wikilink">アルゴリズム</a>、<a href="../Page/プログラミング.md" title="wikilink">プログラミング</a>など）</li>
-<li><a href="../Page/コンピュータシステム.md" title="wikilink">コンピュータシステム</a>（<a href="https://ja.wikipedia.org/wiki/コンピュータの5大装置" title="wikilink">構成要素</a>、<a href="../Page/ハードウェア.md" title="wikilink">ハードウェア</a>、<a href="../Page/ソフトウェア.md" title="wikilink">ソフトウェア</a>）</li>
+<li><a href="../Page/コンピュータシステム.md" title="wikilink">コンピュータシステム</a>（<a href="../Page/コンピュータの5大装置.md" title="wikilink">構成要素</a>、<a href="../Page/ハードウェア.md" title="wikilink">ハードウェア</a>、<a href="../Page/ソフトウェア.md" title="wikilink">ソフトウェア</a>）</li>
 <li><a href="../Page/ヒューマン・インタフェース・デバイス.md" title="wikilink">ヒューマン・インタフェース・デバイス</a>、<a href="../Page/マルチメディア.md" title="wikilink">マルチメディア</a></li>
 <li><a href="../Page/データベース.md" title="wikilink">データベース</a></li>
 <li><a href="../Page/コンピュータネットワーク.md" title="wikilink">コンピュータネットワーク</a></li>

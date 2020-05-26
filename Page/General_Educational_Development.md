@@ -7,7 +7,7 @@
 
 [試験科目](https://ja.wikipedia.org/wiki/試験科目 "wikilink")は、[英語](../Page/英語.md "wikilink")の[ライティング](https://ja.wikipedia.org/wiki/ライティング "wikilink")と[リーディング](https://ja.wikipedia.org/wiki/リーディング "wikilink")、[エッセイ](https://ja.wikipedia.org/wiki/エッセイ "wikilink")、[社会](../Page/社会_\(教科\).md "wikilink")、[理科](../Page/理科.md "wikilink")、[数学である](../Page/数学_\(教科\).md "wikilink")。
 
-英語の他、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、大型活字版、音声版、[点字](https://ja.wikipedia.org/wiki/点字 "wikilink")版で受験できる。また、囚人、軍人も受験可能である。アメリカ、カナダ、[アメリカの海外領土の他に住んでいる個人もテスト仲介企業などで受けられる場合もある](../Page/アメリカ合衆国の海外領土.md "wikilink")。日本では、[プロメトリック](../Page/プロメトリック.md "wikilink")社で[CBTにより受験することができる](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")。
+英語の他、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、大型活字版、音声版、[点字](https://ja.wikipedia.org/wiki/点字 "wikilink")版で受験できる。また、囚人、軍人も受験可能である。アメリカ、カナダ、[アメリカの海外領土の他に住んでいる個人もテスト仲介企業などで受けられる場合もある](../Page/アメリカ合衆国の海外領土.md "wikilink")。日本では、[プロメトリック](../Page/プロメトリック.md "wikilink")社で[CBTにより受験することができる](../Page/Computer_Based_Testing.md "wikilink")。
 
 ## 経緯
 

@@ -26,7 +26,7 @@
       - UCGA - [アンチャーテッド 地図なき冒険の始まり](https://ja.wikipedia.org/wiki/アンチャーテッド_地図なき冒険の始まり "wikilink")
   - [統一教会](https://ja.wikipedia.org/wiki/統一教会 "wikilink") (The Unification Church)
   - [ユナイテッド・シネマ](../Page/ユナイテッド・シネマ.md "wikilink") (UNITED CINEMAS CO.,LTD.)
-  - ユニバーサルシティ (Universal City) - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")の関連施設
+  - ユニバーサルシティ (Universal City) - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")の関連施設
   - [NHK山口放送局](../Page/NHK山口放送局.md "wikilink") (JOUC)
 
 ## 創作物に登場するもの

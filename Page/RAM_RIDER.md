@@ -675,7 +675,7 @@ BVCR-19102</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鈴木亜美" title="wikilink">鈴木亜美</a>『<a href="https://ja.wikipedia.org/wiki/DOLCE_(鈴木亜美のアルバム)" title="wikilink">DOLCE</a>』</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/鈴木亜美" title="wikilink">鈴木亜美</a>『<a href="../Page/DOLCE_(鈴木亜美のアルバム).md" title="wikilink">DOLCE</a>』</strong></p></td>
 <td><p>AVCD-23431<br />
 AVCD-23432<br />
 AVCD-23433</p></td>

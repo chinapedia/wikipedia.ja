@@ -228,7 +228,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Harry_Ables" title="wikilink">Harry Ables</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハリー・エイブレス" title="wikilink">ハリー・エイブレス</a></p></td>
+<td><p><a href="../Page/ハリー・エイブレス.md" title="wikilink">ハリー・エイブレス</a></p></td>
 <td><p>1905</p></td>
 <td><p>1911</p></td>
 <td></td>
@@ -249,14 +249,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Abrams" title="wikilink">George Abrams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・エイブラムス" title="wikilink">ジョージ・エイブラムス</a></p></td>
+<td><p><a href="../Page/ジョージ・エイブラムス.md" title="wikilink">ジョージ・エイブラムス</a></p></td>
 <td><p>1923</p></td>
 <td><p>1923</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Johnny_Abrego" title="wikilink">Johnny Abrego</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョニー・アブレゴ" title="wikilink">ジョニー・アブレゴ</a></p></td>
+<td><p><a href="../Page/ジョニー・アブレゴ.md" title="wikilink">ジョニー・アブレゴ</a></p></td>
 <td><p>1985</p></td>
 <td><p>1985</p></td>
 <td></td>
@@ -277,7 +277,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Abreu" title="wikilink">Joe Abreu</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・アブレイユ" title="wikilink">ジョー・アブレイユ</a></p></td>
+<td><p><a href="../Page/ジョー・アブレイユ.md" title="wikilink">ジョー・アブレイユ</a></p></td>
 <td><p>1942</p></td>
 <td><p>1942</p></td>
 <td></td>
@@ -298,21 +298,21 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Abreu" title="wikilink">Tony Abreu</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・アブレイユ" title="wikilink">トニー・アブレイユ</a></p></td>
+<td><p><a href="../Page/トニー・アブレイユ.md" title="wikilink">トニー・アブレイユ</a></p></td>
 <td><p>2007</p></td>
 <td><p>2014</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Winston_Abreu" title="wikilink">Winston Abreu</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィンストン・アブレイユ" title="wikilink">ウィンストン・アブレイユ</a></p></td>
+<td><p><a href="../Page/ウィンストン・アブレイユ.md" title="wikilink">ウィンストン・アブレイユ</a></p></td>
 <td><p>2006</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Abstein" title="wikilink">Bill Abstein</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・アブスタイン" title="wikilink">ビル・アブスタイン</a></p></td>
+<td><p><a href="../Page/ビル・アブスタイン.md" title="wikilink">ビル・アブスタイン</a></p></td>
 <td><p>1906</p></td>
 <td><p>1910</p></td>
 <td></td>
@@ -333,14 +333,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Acevedo_(baseball)" title="wikilink">Jose Acevedo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・アセベド_(野球)" title="wikilink">ホゼ・アセベド</a></p></td>
+<td><p><a href="../Page/ホセ・アセベド_(野球).md" title="wikilink">ホゼ・アセベド</a></p></td>
 <td><p>2001</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Juan_Acevedo" title="wikilink">Juan Acevedo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホアン・アセベド" title="wikilink">フアン・アセベド</a></p></td>
+<td><p><a href="../Page/ホアン・アセベド.md" title="wikilink">フアン・アセベド</a></p></td>
 <td><p>1995</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -361,14 +361,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jim_Acker" title="wikilink">Jim Acker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジム・アッカー" title="wikilink">ジム・アッカー</a></p></td>
+<td><p><a href="../Page/ジム・アッカー.md" title="wikilink">ジム・アッカー</a></p></td>
 <td><p>1983</p></td>
 <td><p>1992</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tom_Acker" title="wikilink">Tom Acker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・アッカー" title="wikilink">トム・アッカー</a></p></td>
+<td><p><a href="../Page/トム・アッカー.md" title="wikilink">トム・アッカー</a></p></td>
 <td><p>1956</p></td>
 <td><p>1959</p></td>
 <td></td>
@@ -382,14 +382,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Fritz_Ackley" title="wikilink">Fritz Ackley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フリッツ・アックレー" title="wikilink">フリッツ・アックリー</a></p></td>
+<td><p><a href="../Page/フリッツ・アックレー.md" title="wikilink">フリッツ・アックリー</a></p></td>
 <td><p>1963</p></td>
 <td><p>1964</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Cy_Acosta" title="wikilink">Cy Acosta</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サイ・アコスタ" title="wikilink">サイ・アコスタ</a></p></td>
+<td><p><a href="../Page/サイ・アコスタ.md" title="wikilink">サイ・アコスタ</a></p></td>
 <td><p>1972</p></td>
 <td><p>1975</p></td>
 <td></td>
@@ -739,7 +739,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Adcock" title="wikilink">Joe Adcock</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・アドコック" title="wikilink">ジョー・アドコック</a></p></td>
+<td><p><a href="../Page/ジョー・アドコック.md" title="wikilink">ジョー・アドコック</a></p></td>
 <td><p>1950</p></td>
 <td><p>1966</p></td>
 <td></td>
@@ -2496,7 +2496,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alfredo_Amézaga" title="wikilink">Alfredo Amezaga</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アルフレッド・アメザガ" title="wikilink">アルフレド・アメザガ</a></p></td>
+<td><p><a href="../Page/アルフレッド・アメザガ.md" title="wikilink">アルフレド・アメザガ</a></p></td>
 <td><p>2002</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -4050,7 +4050,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Scott_Atchison" title="wikilink">Scott Atchison</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・アッチソン" title="wikilink">スコット・アッチソン</a></p></td>
+<td><p><a href="../Page/スコット・アッチソン.md" title="wikilink">スコット・アッチソン</a></p></td>
 <td><p>2004</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -4288,7 +4288,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brad_Ausmus" title="wikilink">Brad Ausmus</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラッド・オースマス" title="wikilink">ブラッド・オースマス</a></p></td>
+<td><p><a href="../Page/ブラッド・オースマス.md" title="wikilink">ブラッド・オースマス</a></p></td>
 <td><p>1993</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -4519,7 +4519,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Erick_Aybar" title="wikilink">Erick Aybar</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・アイバー" title="wikilink">エリック・アイバー</a></p></td>
+<td><p><a href="../Page/エリック・アイバー.md" title="wikilink">エリック・アイバー</a></p></td>
 <td><p>2006</p></td>
 <td><p>2017</p></td>
 <td></td>

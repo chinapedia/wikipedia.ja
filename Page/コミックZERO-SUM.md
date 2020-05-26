@@ -68,7 +68,7 @@
 
   - [カーストヘイト](https://ja.wikipedia.org/wiki/カーストヘイト "wikilink")（[夏野ゆぞ](https://ja.wikipedia.org/wiki/夏野ゆぞ "wikilink")）
   - [骸盗アリス](https://ja.wikipedia.org/wiki/骸盗アリス "wikilink")（[くらげ壱](https://ja.wikipedia.org/wiki/くらげ壱 "wikilink")）
-  - [学天の嵐](https://ja.wikipedia.org/wiki/学天の嵐 "wikilink")（[神堂あらし](https://ja.wikipedia.org/wiki/神堂あらし "wikilink")）
+  - [学天の嵐](https://ja.wikipedia.org/wiki/学天の嵐 "wikilink")（[神堂あらし](../Page/神堂あらし.md "wikilink")）
   - [楽屋裏](../Page/楽屋裏.md "wikilink")-貧乏暇なし編-（[魔神ぐり子](https://ja.wikipedia.org/wiki/魔神ぐり子 "wikilink")）
   - [彼女の腕は掴めない](https://ja.wikipedia.org/wiki/彼女の腕は掴めない "wikilink")（[理央](https://ja.wikipedia.org/wiki/理央 "wikilink")）
   - [神檻](https://ja.wikipedia.org/wiki/神檻 "wikilink")（[鈴本純](https://ja.wikipedia.org/wiki/鈴本純 "wikilink")）

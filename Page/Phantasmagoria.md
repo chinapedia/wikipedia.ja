@@ -118,7 +118,7 @@
 
   - 2010年
 
-:\* 3月19日、[東京JCB HALLにて](https://ja.wikipedia.org/wiki/ミーツポート "wikilink")、「目黒鹿鳴館30th Anniversary 鹿鳴館伝説～LEGEND OF ROCK MAY KAN～」に出演。(共演:MUCC/MERRY/Versailles)
+:\* 3月19日、[東京JCB HALLにて](../Page/ミーツポート.md "wikilink")、「目黒鹿鳴館30th Anniversary 鹿鳴館伝説～LEGEND OF ROCK MAY KAN～」に出演。(共演:MUCC/MERRY/Versailles)
 
 :\* 4月5日、[大阪BIG CATにて](https://ja.wikipedia.org/wiki/大阪BIG_CAT "wikilink")、「Diamond Dust in Truth～新たな約束～」を開催。解散。
 

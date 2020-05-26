@@ -89,7 +89,7 @@
   - 音響監督：[田中英行](../Page/田中英行.md "wikilink")
   - 編集：松村正宏
   - 音楽：[服部隆之](../Page/服部隆之.md "wikilink")
-  - 劇中曲作曲：[手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")
+  - 劇中曲作曲：[手塚理](../Page/手塚理.md "wikilink")
   - 音楽制作：[スターチャイルド](../Page/スターチャイルド.md "wikilink")
   - 音楽制作協力：東京室内楽協会
   - 脚本・絵コンテ：佐藤竜雄

@@ -17,7 +17,7 @@ IDTの最初の製品は低消費電力で高性能なCMOSベースの 6116 SRAM
 
 1993年、デスクトップPC用クロックデバイス市場に参入（CV104、CV105、CV107、CV109）。その後、ノートPCも含めた次世代クロックデバイスを製品化して市場を拡大する計画を立てた。
 
-過去には、[QEDの設計した](https://ja.wikipedia.org/wiki/Quantum_Effect_Devices "wikilink")[MIPSの](../Page/MIPSアーキテクチャ.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を製造する一方、子会社 [Centaur Technology](https://ja.wikipedia.org/wiki/Centaur_Technology "wikilink") が設計した [x86](https://ja.wikipedia.org/wiki/x86 "wikilink")互換プロセッサを製造していた（IDT [WinChip](../Page/WinChip.md "wikilink")）。1999年9月、IDTは Centaur Technology を x86互換プロセッサの設計と共に [VIA](../Page/VIA_Technologies.md "wikilink") に売却した\[5\]。
+過去には、[QEDの設計した](../Page/Quantum_Effect_Devices.md "wikilink")[MIPSの](../Page/MIPSアーキテクチャ.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")を製造する一方、子会社 [Centaur Technology](https://ja.wikipedia.org/wiki/Centaur_Technology "wikilink") が設計した [x86](https://ja.wikipedia.org/wiki/x86 "wikilink")互換プロセッサを製造していた（IDT [WinChip](../Page/WinChip.md "wikilink")）。1999年9月、IDTは Centaur Technology を x86互換プロセッサの設計と共に [VIA](../Page/VIA_Technologies.md "wikilink") に売却した\[5\]。
 
 2000年代初め、統合マイクロプロセッサ RC32334 をリリース。これを初めとして、通信アプリケーション向けの統合プロセッサのファミリをリリースしていった。RC32334の1年後には業界初のNSE（ネットワーク・サーチ・エンジン）をリリースした\[6\]。
 

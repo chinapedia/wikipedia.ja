@@ -62,7 +62,7 @@
 
 ### 音楽配信
 
-  - 「[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")」 - （[LINDBERG](../Page/LINDBERG.md "wikilink")のカバー）
+  - 「[今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")」 - （[LINDBERG](../Page/LINDBERG.md "wikilink")のカバー）
   - 「[夢見る少女じゃいられない](../Page/夢見る少女じゃいられない.md "wikilink")」 - （[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のカバー）
   - 「[春〜spring〜](../Page/春〜spring〜.md "wikilink")」 - （[Hysteric Blueのカバー](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")）
   - 「[サヨナラ](https://ja.wikipedia.org/wiki/サヨナラ_\(GAOの曲\) "wikilink")」 - （[GAOのカバー](../Page/GAO_\(歌手\).md "wikilink")）
@@ -88,7 +88,7 @@
 
 1.  「80's×Mi」([2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売　全12曲収録)
       -
-        「[翼の折れたエンジェル](../Page/翼の折れたエンジェル.md "wikilink")」（[中村あゆみ](../Page/中村あゆみ.md "wikilink")） / 「[ふられ気分でRock'n' Roll](https://ja.wikipedia.org/wiki/ふられ気分でRock'n'_Roll "wikilink")」（[TOM★CAT](../Page/TOM★CAT.md "wikilink")） / 「[CHA-CHA-CHA](../Page/CHA-CHA-CHA.md "wikilink")」（[石井明美](../Page/石井明美.md "wikilink")） / 「[フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")」（「[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")」） / 「[Return to Myself](../Page/Return_to_Myself_〜しない、しない、ナツ。.md "wikilink")」（[浜田麻里](../Page/浜田麻里.md "wikilink")） / 「ボヘミアン」（[葛城ユキ](../Page/葛城ユキ.md "wikilink")） / 「CITY CONNECTION」（[エマニエル坊や](../Page/エマニエル・ルイス.md "wikilink")） / 「[C-Girl](../Page/C-Girl.md "wikilink")」（[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")） / 「[SHOW ME](https://ja.wikipedia.org/wiki/SHOW_ME "wikilink")」（[森川由加里](../Page/森川由加里.md "wikilink")） / 「[赤道小町・ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」（[山下久美子](../Page/山下久美子.md "wikilink")） / 「[HOLD ON ME](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")」（[小比類巻かほる](../Page/小比類巻かほる.md "wikilink")） / 「[Give Me Up](../Page/Give_Me_Up.md "wikilink")(Album Version）」（[BaBe](../Page/BaBe.md "wikilink")）
+        「[翼の折れたエンジェル](../Page/翼の折れたエンジェル.md "wikilink")」（[中村あゆみ](../Page/中村あゆみ.md "wikilink")） / 「[ふられ気分でRock'n' Roll](https://ja.wikipedia.org/wiki/ふられ気分でRock'n'_Roll "wikilink")」（[TOM★CAT](../Page/TOM★CAT.md "wikilink")） / 「[CHA-CHA-CHA](../Page/CHA-CHA-CHA.md "wikilink")」（[石井明美](../Page/石井明美.md "wikilink")） / 「[フレンズ](../Page/フレンズ_\(レベッカの曲\).md "wikilink")」（「[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")」） / 「[Return to Myself](../Page/Return_to_Myself_〜しない、しない、ナツ。.md "wikilink")」（[浜田麻里](../Page/浜田麻里.md "wikilink")） / 「ボヘミアン」（[葛城ユキ](../Page/葛城ユキ.md "wikilink")） / 「CITY CONNECTION」（[エマニエル坊や](../Page/エマニエル・ルイス.md "wikilink")） / 「[C-Girl](../Page/C-Girl.md "wikilink")」（[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")） / 「[SHOW ME](https://ja.wikipedia.org/wiki/SHOW_ME "wikilink")」（[森川由加里](../Page/森川由加里.md "wikilink")） / 「[赤道小町・ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」（[山下久美子](../Page/山下久美子.md "wikilink")） / 「[HOLD ON ME](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")」（[小比類巻かほる](../Page/小比類巻かほる.md "wikilink")） / 「[Give Me Up](../Page/Give_Me_Up.md "wikilink")(Album Version）」（[BaBe](../Page/BaBe.md "wikilink")）
 
 ### ベストアルバム
 

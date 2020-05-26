@@ -1438,7 +1438,7 @@ M-10「Black Nightmare」で参加。</p></td>
   - 2009年09月10日 - [Electric Eel Shock](../Page/Electric_Eel_Shock.md "wikilink") presents" スゴイ・インディード"
   - 2009年10月05日 - 猛烈ロックンロール教室
   - 2009年10月06日 - INDICATOR 09
-  - 2009年11月03日・04日 - [ミドリ秋の全国](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink")2マンツアー"初体験VSツアー"
+  - 2009年11月03日・04日 - [ミドリ秋の全国](../Page/ミドリ_\(バンド\).md "wikilink")2マンツアー"初体験VSツアー"
   - 2009年12月11日 - [つしまみれ](../Page/つしまみれ.md "wikilink")VSツアー2009
   - 2009年12月21日 - UKP 20th ANNIVERSARY PARTY vol.4 "08年組、09年組、さて2010年もよろしくす、おっと99年組大サンキュー\!\!\! "
   - 2009年12月22日 - となりのバンドマン

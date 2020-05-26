@@ -1399,7 +1399,7 @@ EDテーマの入り方は一貫して、「本編のラストシーンからエ
 <td><p>第3話</p></td>
 <td><p>3月29日</p></td>
 <td><p>燃えろ!ハヤト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊東恒久" title="wikilink">伊東恒久</a></p></td>
+<td><p><a href="../Page/伊東恒久.md" title="wikilink">伊東恒久</a></p></td>
 <td><p><a href="../Page/ふじもとよしたか.md" title="wikilink">藤本義孝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山根理宏" title="wikilink">山根理宏</a></p></td>
 <td></td>

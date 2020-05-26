@@ -1837,7 +1837,7 @@ UEFAチャンピオンズカップ時代も含む
 <tr class="even">
 <td><p>1998-99</p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベイタル・エルサレムFC" title="wikilink">ベイタル・エルサレムFC</a></p></td>
+<td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレムFC</a></p></td>
 <td><p>6-0 (H)<br />
 2-4 (A)</p></td>
 </tr>

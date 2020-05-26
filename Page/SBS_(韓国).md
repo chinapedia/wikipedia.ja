@@ -361,7 +361,7 @@
   - [プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")（韓国名:, English:Prison Break, 2007.5-9）
   - [ドクター・ハウス](https://ja.wikipedia.org/wiki/Dr.HOUSE "wikilink")（韓国名:, English:Dr. House, 2007.10-）
   - [ワーストウイッチ](https://ja.wikipedia.org/wiki/ワーストウイッチ_\(ドラマ\) "wikilink")（韓国名:, English:The Worst Witch, 2006.3-2006.5 1次/2006.5-2006.7 2次）
-  - [わがまま☆フェアリー ミルモでポン\!](https://ja.wikipedia.org/wiki/わがまま☆フェアリー_ミルモでポン! "wikilink")（韓国名:（ミルモ ポンポンポン\!）, English:Mirmo\!, 2005.7-2006.1）
+  - [わがまま☆フェアリー ミルモでポン\!](../Page/わがまま☆フェアリー_ミルモでポン!.md "wikilink")（韓国名:（ミルモ ポンポンポン\!）, English:Mirmo\!, 2005.7-2006.1）
   - [ふたりはプリキュア](https://ja.wikipedia.org/wiki/ふたりはプリキュア "wikilink")（韓国名:, English:Futari wa Pretty Cure, 2005.12-2006.11）
   - [折紙戦士](../Page/折紙戦士.md "wikilink")（韓国名:, English:Origami Warriors, 日本・台湾・韓国 共同作品, 主題歌:[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")(TVXQ), 2006.1-2007.5）
   - [ハロンイの英語の国](https://ja.wikipedia.org/wiki/ハロンイの英語の国 "wikilink")（韓国名:, 2006.1-2006.3）
@@ -401,7 +401,7 @@
   - [亀特攻隊Z（タートルズ）](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink")（韓国名:, English:Ninja Turtles Z, 2006.9.21-2007.5.31）
   - [マシュマロ通信](../Page/マシュマロ通信.md "wikilink")（韓国名:, English:The Raspberry Times, 2006.11-2007.9）
   - [おねがいマイメロディ](../Page/おねがいマイメロディ.md "wikilink")（韓国名:, English:My Melody, 2007.2-9）
-  - [ウイングスフレンズ](https://ja.wikipedia.org/wiki/Winx_Club "wikilink")（韓国名:, English:Wings Friends, 2007.6-）
+  - [ウイングスフレンズ](../Page/Winx_Club.md "wikilink")（韓国名:, English:Wings Friends, 2007.6-）
   - [スーパーコリアン](https://ja.wikipedia.org/wiki/スーパーコリアン "wikilink")（韓国名:, English:Super Korean, 2007.6-10, 韓国人物の歴史アニメ）
   - [ジャングル王 サロ](https://ja.wikipedia.org/wiki/ジャングル王_サロ "wikilink")（韓国名:, English:Jungle King Saro, 2007.9-, [ジャングルブック](https://ja.wikipedia.org/wiki/ジャングルブック "wikilink")の再構成アニメ）
   - [像想さま ゆうぎよ](https://ja.wikipedia.org/wiki/像想さま_ゆうぎよ "wikilink")（韓国名:, 2007.10-）

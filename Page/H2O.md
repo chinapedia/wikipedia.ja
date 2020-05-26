@@ -1,7 +1,7 @@
 > この記事は[H2O](https://ja.wikipedia.org/wiki/H2O)から翻訳されています。
 
 
-**H<sub>2</sub>O**（エイチ・ツー・オー） [水](../Page/水.md "wikilink")の[化学式](../Page/化学式.md "wikilink")。水が、H（[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")原子）2個とO（[酸素](../Page/酸素.md "wikilink")原子）1個が結合してできていることを表す。
+**H<sub>2</sub>O**（エイチ・ツー・オー） [水](../Page/水.md "wikilink")の[化学式](../Page/化学式.md "wikilink")。水が、H（[水素](../Page/水素.md "wikilink")原子）2個とO（[酸素](../Page/酸素.md "wikilink")原子）1個が結合してできていることを表す。
 
   - グループ名
       - [H<sub>2</sub>O (日本の歌手グループ)](../Page/H2O_\(日本の歌手グループ\).md "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の歌手グループ。

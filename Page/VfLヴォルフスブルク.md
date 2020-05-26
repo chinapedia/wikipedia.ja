@@ -520,7 +520,7 @@
 
   - [ディーター・ヘッキング](https://ja.wikipedia.org/wiki/ディーター・ヘッキング "wikilink") 2013.1-2016.10
 
-  - [ヴァレリアン・イスマエル](https://ja.wikipedia.org/wiki/ヴァレリアン・イスマエル "wikilink") 2016.10-2017.2
+  - [ヴァレリアン・イスマエル](../Page/ヴァレリアン・イスマエル.md "wikilink") 2016.10-2017.2
 
   - [アンドリース・ヨンカー](https://ja.wikipedia.org/wiki/アンドリース・ヨンカー "wikilink") 2017.2-2017.9
 

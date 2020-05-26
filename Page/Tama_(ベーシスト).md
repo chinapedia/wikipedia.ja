@@ -87,12 +87,12 @@
       - [SOUL'd OUTのDiggy](../Page/SOUL'd_OUT.md "wikilink")-MO'とBro.HiによるEmcees Premium Extra(通称E.P.E)と、[wyolica](https://ja.wikipedia.org/wiki/wyolica "wikilink")のヴォーカルである[azumi](https://ja.wikipedia.org/wiki/azumi "wikilink")が参加。
 2.  [Natural Born](../Page/Natural_Born.md "wikilink") （[2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")） ※初回盤のみPVと2nd Liveのダイジェスト、特典映像を収録したDVD付
       - 全曲の作詞作曲、ボーカルを担当した初のフルアルバムである。
-      - [HIGH and MIGHTY COLORのユウスケ](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[FLOW](../Page/FLOW.md "wikilink")のKOHSHI、[Skoop On SomebodyのTAKEがゲストボーカルとして参加](../Page/Skoop_On_Somebody.md "wikilink")。
+      - [HIGH and MIGHTY COLORのユウスケ](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")のKOHSHI、[Skoop On SomebodyのTAKEがゲストボーカルとして参加](../Page/Skoop_On_Somebody.md "wikilink")。
 3.  [SUPER SESSIONS -Best of 2005〜2009-](https://ja.wikipedia.org/wiki/SUPER_SESSIONS_-Best_of_2005〜2009- "wikilink") （[2009年](../Page/2009年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")）
 
 ### ミニアルバム
 
-1.  [\!LOUD\!](https://ja.wikipedia.org/wiki/!LOUD! "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")）
+1.  [\!LOUD\!](../Page/!LOUD!.md "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")）
 2.  [\!SHOUT\!](https://ja.wikipedia.org/wiki/!SHOUT! "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")）
 
 ### 参加作品

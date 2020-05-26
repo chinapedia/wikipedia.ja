@@ -9,7 +9,7 @@
       - [ナショナル セミコンダクター](../Page/ナショナル_セミコンダクター.md "wikilink") ()
       - [日本精機](../Page/日本精機.md "wikilink") ()
       - [日建設計](../Page/日建設計.md "wikilink") ()
-      - [日本スピンドル製造](https://ja.wikipedia.org/wiki/日本スピンドル製造 "wikilink") ()
+      - [日本スピンドル製造](../Page/日本スピンドル製造.md "wikilink") ()
       - [オランダ鉄道](../Page/オランダ鉄道.md "wikilink") ()
       - [ノーフォーク・サザン鉄道](../Page/ノーフォーク・サザン鉄道.md "wikilink") ()
       - [NSファーファ・ジャパン](../Page/NSファーファ・ジャパン.md "wikilink")（）- 旧・ニッサン石鹸（）

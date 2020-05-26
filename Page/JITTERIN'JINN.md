@@ -294,7 +294,7 @@
 <td><p>1989年11月1日<br />
 1993年11月21日<br />
 2000年04月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DOKIDOKI" title="wikilink">DOKIDOKI</a></strong></p></td>
+<td><p><strong><a href="../Page/DOKIDOKI.md" title="wikilink">DOKIDOKI</a></strong></p></td>
 <td><p>CA-4102<br />
 COCA-11126<br />
 COCP-50513</p></td>
@@ -306,7 +306,7 @@ COCP-50513</p></td>
 <td><p>1990年2月21日<br />
 1993年10月21日<br />
 2000年04月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Hi-King" title="wikilink">Hi-King</a></strong></p></td>
+<td><p><strong><a href="../Page/Hi-King.md" title="wikilink">Hi-King</a></strong></p></td>
 <td><p>CA-4612<br />
 COCA-11086<br />
 COCP-50514</p></td>
@@ -317,7 +317,7 @@ COCP-50514</p></td>
 <td><p>3rd</p></td>
 <td><p>1990年9月12日<br />
 2000年04月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/パンチアウト" title="wikilink">パンチアウト</a></strong></p></td>
+<td><p><strong><a href="../Page/パンチアウト.md" title="wikilink">パンチアウト</a></strong></p></td>
 <td><p>COCA-6645<br />
 COCP-50515</p></td>
 <td></td>
@@ -755,7 +755,7 @@ COCP-31366</p></td>
       - 04月25日 - ARABAKI ROCK FEST.09
       - 04月29日 - GOING KOBE 09
       - 10月03日 - [MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink")
-      - 10月15日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink") 全国2マンツアー「初体験 VS ツアー」
+      - 10月15日 - [ミドリ](../Page/ミドリ_\(バンド\).md "wikilink") 全国2マンツアー「初体験 VS ツアー」
       - 11月06日〜11月12日 - ジッタリン・ジン×GO\!GO\!7188
       - 11月10日 - 千葉LOOK 20th ANNIVERSARY～6×9=53days～
       - 11月19日 - ジッタリン・ジン×[ガガガSP](../Page/ガガガSP.md "wikilink")

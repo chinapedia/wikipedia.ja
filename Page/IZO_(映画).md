@@ -47,7 +47,7 @@
   - [及川光博](../Page/及川光博.md "wikilink") - [沖田総司](../Page/沖田総司.md "wikilink") （ソウジ）
   - [山口仁](../Page/山口仁.md "wikilink") - 門番一
   - [本宮泰風](../Page/本宮泰風.md "wikilink") - 門番二
-  - [TEAH](https://ja.wikipedia.org/wiki/TEAH "wikilink") - 僧兵二
+  - [TEAH](../Page/TEAH.md "wikilink") - 僧兵二
   - [村上竜司](https://ja.wikipedia.org/wiki/村上竜司 "wikilink") - 僧兵三
   - [ミッキー・カーチス](../Page/ミッキー・カーチス.md "wikilink") - 重鎮の老人一
   - [長門裕之](../Page/長門裕之.md "wikilink") - 大僧正

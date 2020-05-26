@@ -142,7 +142,7 @@
 
 [2009年](../Page/2009年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")、デビュー4周年記念ライブ「AAA 4th Anniversary LIVE」が[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われ、過去最高1万1000人を動員した\[21\]。12月21日、AAAオフィシャルモバイルサイト「AAA mobile（トリエー・モバイル）」がグランドオープン。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")にて、White Sacas「[瀬尾茜](https://ja.wikipedia.org/wiki/瀬尾茜 "wikilink")×AAA コラボレーション アイスショー」が開催された。[6月25日](../Page/6月25日.md "wikilink")に[アメーバピグ](https://ja.wikipedia.org/wiki/アメーバピグ "wikilink")において、AAAピグLIVE「AAA Heart to ♥ TOUR 2010」が行われた\[22\]\[23\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、[赤坂サカス](../Page/赤坂サカス.md "wikilink")にて、White Sacas「[瀬尾茜](https://ja.wikipedia.org/wiki/瀬尾茜 "wikilink")×AAA コラボレーション アイスショー」が開催された。[6月25日](../Page/6月25日.md "wikilink")に[アメーバピグ](https://ja.wikipedia.org/wiki/アメーバピグ "wikilink")において、AAAピグLIVE「AAA Heart to ♥ TOUR 2010」が行われた\[22\]\[23\]。
 
 ### 2011年 - 2015年
 
@@ -2486,7 +2486,7 @@ AVXD-92307</p></td>
 <p>3月7日 綾瀬市文化会館<br />
 3月13日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a><br />
 3月15日 <a href="../Page/大宮ソニックシティ.md" title="wikilink">大宮ソニックシティ</a><br />
-3月21日 <a href="https://ja.wikipedia.org/wiki/富士市文化会館ロゼシアター" title="wikilink">富士市文化会館ロゼシアター</a><br />
+3月21日 <a href="../Page/富士市文化会館ロゼシアター.md" title="wikilink">富士市文化会館ロゼシアター</a><br />
 3月22日 <a href="../Page/名古屋市民会館.md" title="wikilink">中京大学文化市民会館</a><br />
 3月24日 渋谷C.C.Lemonホール<br />
 3月25日 渋谷C.C.Lemonホール<br />
@@ -3300,7 +3300,7 @@ AVXD-92307</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/旅ダチノウタ" title="wikilink">a piece of my word</a></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/京都きもの友禅" title="wikilink">京都きもの友禅</a>』CMソング</p></td>
+<td><p>『<a href="../Page/京都きもの友禅.md" title="wikilink">京都きもの友禅</a>』CMソング</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3321,7 +3321,7 @@ AVXD-92307</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Hide-away" title="wikilink">Hide-away</a></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/赤坂サカス" title="wikilink">White Sacas</a>』テーマソング</p></td>
+<td><p>『<a href="../Page/赤坂サカス.md" title="wikilink">White Sacas</a>』テーマソング</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3813,7 +3813,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 
 ### 映画
 
-  - 鍵のある場所（[飯塚健](https://ja.wikipedia.org/wiki/飯塚健 "wikilink")監督、未公開）※主演\[160\]
+  - 鍵のある場所（[飯塚健](../Page/飯塚健.md "wikilink")監督、未公開）※主演\[160\]
 
 ### 雑誌連載
 

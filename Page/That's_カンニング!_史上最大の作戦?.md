@@ -36,7 +36,7 @@
 
 ## スタッフ
 
-  - 監督：[菅原浩志](https://ja.wikipedia.org/wiki/菅原浩志 "wikilink")
+  - 監督：[菅原浩志](../Page/菅原浩志.md "wikilink")
   - 原作：谷俊彦（「東京都大学の人びと」[新潮社](../Page/新潮社.md "wikilink")刊（「木村家の人びと」改題））
   - 脚本：[斉藤ひろし](https://ja.wikipedia.org/wiki/斉藤ひろし "wikilink")
   - 音楽：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")

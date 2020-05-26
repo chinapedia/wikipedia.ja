@@ -1,7 +1,7 @@
 > この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
 
 
-**NBC**（、全国放送会社）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[三大ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\)#アメリカ "wikilink")（）のひとつで、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")グループの主体となる企業である。ネットワークの本部は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[マンハッタン](../Page/マンハッタン.md "wikilink")の[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")（[GEビルディング](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")）に置かれている。  [GE_Building_by_David_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG "fig:GE_Building_by_David_Shankbone.JPG")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NBC_Tower,_Chicago.jpg "wikilink")）\]\]
+**NBC**（、全国放送会社）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[三大ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\)#アメリカ "wikilink")（）のひとつで、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")グループの主体となる企業である。ネットワークの本部は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[マンハッタン](../Page/マンハッタン.md "wikilink")の[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")（[GEビルディング](../Page/GEビルディング.md "wikilink")）に置かれている。  [GE_Building_by_David_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG "fig:GE_Building_by_David_Shankbone.JPG")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NBC_Tower,_Chicago.jpg "wikilink")）\]\]
 
 なお、日本の長崎県をエリアとする[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）とは一切関係も提携関係もない。
 

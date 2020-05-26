@@ -30,7 +30,7 @@
 ## Ft
 
   - [送信周波数](https://ja.wikipedia.org/wiki/送信周波数 "wikilink") ()
-  - [遮断周波数](https://ja.wikipedia.org/wiki/遮断周波数 "wikilink") ()
+  - [遮断周波数](../Page/遮断周波数.md "wikilink") ()
   - [フォリント](../Page/フォリント.md "wikilink") () - ハンガリーの通貨
 
 ## ft

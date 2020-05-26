@@ -144,7 +144,7 @@
 <td><p>6</p></td>
 <td><p>8月7日</p></td>
 <td><p>相葉・松本・大野</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/墨田区役所" title="wikilink">墨田区役所</a></p></td>
+<td><p><a href="../Page/墨田区役所.md" title="wikilink">墨田区役所</a></p></td>
 <td><p><a href="../Page/隅田川花火大会.md" title="wikilink">隅田川花火大会</a></p></td>
 </tr>
 <tr class="odd">

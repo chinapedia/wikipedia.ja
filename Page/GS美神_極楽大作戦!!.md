@@ -465,7 +465,7 @@
 <!-- end list -->
 
   -
-    作詞 - 有森聡美 / 作曲 - 西岡治彦 / 編曲 - 岩本正樹 / 歌 - [小坂由美子](https://ja.wikipedia.org/wiki/小坂由美子 "wikilink")
+    作詞 - 有森聡美 / 作曲 - 西岡治彦 / 編曲 - 岩本正樹 / 歌 - [小坂由美子](../Page/小坂由美子.md "wikilink")
 
 ### ネット局
 
@@ -765,7 +765,7 @@
 <td><p>お嬢さま除霊師!</p></td>
 <td><p>松井亜弥</p></td>
 <td><p><a href="../Page/志水淳児.md" title="wikilink">志水淳児</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">内山正幸</a></p></td>
+<td><p><a href="../Page/内山正幸.md" title="wikilink">内山正幸</a></p></td>
 <td><p>伊藤岩光</p></td>
 <td><p>2巻「ゴーストスイーパー六道冥子登場</p></td>
 </tr>

@@ -182,7 +182,7 @@
   - [今川氏真](../Page/今川氏真.md "wikilink")：[阿知波信介](../Page/阿知波信介.md "wikilink")
   - [定恵院](../Page/定恵院.md "wikilink")：[川口敦子](../Page/川口敦子.md "wikilink")
   - [朝比奈能泰](https://ja.wikipedia.org/wiki/朝比奈能泰 "wikilink")：[玉川伊佐男](../Page/玉川伊佐男.md "wikilink")
-  - [斎藤道三](../Page/斎藤道三.md "wikilink")：[中村翫右衛門](https://ja.wikipedia.org/wiki/中村翫右衛門_\(3代目\) "wikilink")
+  - [斎藤道三](../Page/斎藤道三.md "wikilink")：[中村翫右衛門](../Page/中村翫右衛門_\(3代目\).md "wikilink")
   - [太田資正](../Page/太田資正.md "wikilink")：[松村達雄](../Page/松村達雄.md "wikilink")
   - [佐野昌綱](../Page/佐野昌綱.md "wikilink")：[佐々木孝丸](../Page/佐々木孝丸.md "wikilink")
   - [佐野宗綱](../Page/佐野宗綱.md "wikilink")：[中野誠也](../Page/中野誠也_\(俳優\).md "wikilink")

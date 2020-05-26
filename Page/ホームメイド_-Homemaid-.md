@@ -1,7 +1,7 @@
 > この記事は[ホームメイド -Homemaid-](https://ja.wikipedia.org/wiki/ホームメイド_-Homemaid-)から翻訳されています。
 
 
-『**ホームメイド -Homemaid-**』は、[CIRCUS FETISHの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に初回限定版が、[10月29日](../Page/10月29日.md "wikilink")に通常版が発売された。また、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象の[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ホームメイド〜終の館〜**』が[2005年](../Page/2005年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に発売された。
+『**ホームメイド -Homemaid-**』は、[CIRCUS FETISHの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に初回限定版が、[10月29日](../Page/10月29日.md "wikilink")に通常版が発売された。また、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象の[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ホームメイド〜終の館〜**』が[2005年](../Page/2005年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に発売された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")には、『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』のスタッフが追加エピソード、追加ヒロインを加えリファインした、『ホームメイド スイーツ』が発売された。この作品には前作となる『[終の館](../Page/終の館.md "wikilink")』全5章も再編集して収録されている。
 
@@ -114,7 +114,7 @@
 ### ホームメイド
 
   - オープニングテーマ『Cheer Up\!』
-      - 作詞：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink")、作曲・編曲：[黒須克彦](../Page/黒須克彦.md "wikilink")、歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")
+      - 作詞：[Duca](../Page/Duca.md "wikilink")、作曲・編曲：[黒須克彦](../Page/黒須克彦.md "wikilink")、歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")
   - エンディングテーマ『愛は静かな夢に降る』
       - 作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")、作曲：[不知火つばさ](https://ja.wikipedia.org/wiki/不知火つばさ "wikilink")、編曲：[大川茂伸](../Page/大川茂伸.md "wikilink")、歌：橋本みゆき
   - 挿入歌『追憶、そして予感』
@@ -129,7 +129,7 @@
   - 終の館エンディングテーマ『Fortune's wheel』
       - 作詞：橋本みゆき、作曲：[前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink")、編曲：[鈴木マサキ](https://ja.wikipedia.org/wiki/鈴木マサキ "wikilink")、歌：橋本みゆき
   - 挿入歌『Cheer Up\!』
-      - 作詞：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink")、作曲・編曲：[黒須克彦](../Page/黒須克彦.md "wikilink")、歌：橋本みゆき
+      - 作詞：[Duca](../Page/Duca.md "wikilink")、作曲・編曲：[黒須克彦](../Page/黒須克彦.md "wikilink")、歌：橋本みゆき
   - 挿入歌『追憶、そして予感』
       - 作詞・作曲：橋本みゆき、編曲：景家淳、歌：橋本みゆき
 

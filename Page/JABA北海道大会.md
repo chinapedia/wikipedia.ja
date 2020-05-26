@@ -351,7 +351,7 @@
 <tr class="even">
 <td><p>2007年（第50回）</p></td>
 <td><p>札幌市円山球場<br />
-<a href="https://ja.wikipedia.org/wiki/千歳市民球場" title="wikilink">千歳市民球場</a></p></td>
+<a href="../Page/千歳市民球場.md" title="wikilink">千歳市民球場</a></p></td>
 <td><p><strong>日本通運</strong></p></td>
 <td><p><strong>11</strong>-9</p></td>
 <td><p>鷺宮製作所</p></td>

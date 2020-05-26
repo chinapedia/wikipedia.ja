@@ -11,7 +11,7 @@
 
 ## 業績
 
-[rightが](https://ja.wikipedia.org/wiki/ファイル:Feynmandiagramm.png "wikilink")[光子](../Page/光子.md "wikilink")を媒介として相互作用する過程を表している。\]\] [経路積分](../Page/経路積分.md "wikilink")という新しい量子化の手法を考案した\[1\]。経路積分を用いることで、[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")に見られる[エネルギー準位](../Page/エネルギー準位.md "wikilink")のずれである[ラムシフト](../Page/ラムシフト.md "wikilink")を簡単に説明できるようになり、この成果が、ノーベル物理学賞受賞につながった。
+[rightが](https://ja.wikipedia.org/wiki/ファイル:Feynmandiagramm.png "wikilink")[光子](../Page/光子.md "wikilink")を媒介として相互作用する過程を表している。\]\] [経路積分](../Page/経路積分.md "wikilink")という新しい量子化の手法を考案した\[1\]。経路積分を用いることで、[水素](../Page/水素.md "wikilink")に見られる[エネルギー準位](../Page/エネルギー準位.md "wikilink")のずれである[ラムシフト](../Page/ラムシフト.md "wikilink")を簡単に説明できるようになり、この成果が、ノーベル物理学賞受賞につながった。
 
 素粒子の反応を図示化した[ファインマン・ダイアグラム](../Page/ファインマン・ダイアグラム.md "wikilink")を考案した。これは素粒子論における複雑な計算を視覚的に理解する上で大変効果的であるが、その数学的基礎付けは未だなされていない。ファインマン自身はこれらの理論に対して懐疑的な態度をとっていた。
 
@@ -46,7 +46,7 @@
       - [1965年](../Page/1965年.md "wikilink")： [量子電磁力学](../Page/量子電磁力学.md "wikilink")の発展に大きく寄与したことにより、[ジュリアン・S・シュウィンガー](https://ja.wikipedia.org/wiki/ジュリアン・S・シュウィンガー "wikilink")、[朝永振一郎](../Page/朝永振一郎.md "wikilink")とともに[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を共同受賞した。
       - [1972年](../Page/1972年.md "wikilink")： [エルステッド・メダル](https://ja.wikipedia.org/wiki/エルステッド・メダル "wikilink")受賞。
       - [1979年](../Page/1979年.md "wikilink")： [アメリカ国家科学賞](../Page/アメリカ国家科学賞.md "wikilink")受賞。
-      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")： この年の[1月28日](../Page/1月28日.md "wikilink")に起きた[チャレンジャー号事故に際しては](https://ja.wikipedia.org/wiki/チャレンジャー号爆発事故 "wikilink")、[ロジャース委員会の調査員の一人として事故原因の究明に参加](https://ja.wikipedia.org/wiki/ロジャース委員会報告 "wikilink")\[5\]。
+      - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")： この年の[1月28日](../Page/1月28日.md "wikilink")に起きた[チャレンジャー号事故に際しては](../Page/チャレンジャー号爆発事故.md "wikilink")、[ロジャース委員会の調査員の一人として事故原因の究明に参加](https://ja.wikipedia.org/wiki/ロジャース委員会報告 "wikilink")\[5\]。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月： 腹部の[癌](https://ja.wikipedia.org/wiki/癌 "wikilink")\[6\]で計4回手術を受ける。
   - [1988年](../Page/1988年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")： 午後10時34分[UCLA医療センターで癌により死去](../Page/カリフォルニア大学ロサンゼルス校.md "wikilink")（69歳）。
       - 1989年： 妻グウェネス死去。
@@ -119,7 +119,7 @@
 
 ### ドラマ
 
-  - 「チャレンジャー号　73秒の真実」（原題：Feynman and the Challenger）ファインマンを主人公に、1986年のスペースシャトル・[チャレンジャー号爆発事故](https://ja.wikipedia.org/wiki/チャレンジャー号爆発事故 "wikilink")の原因究明のため、ロジャース委員会のメンバーだった彼が、様々な障害や病魔と闘いながら、真相究明を果たすまでを描く英米合作のテレビドラマ。アカデミー賞俳優[ウィリアム・ハート](../Page/ウィリアム・ハート.md "wikilink")がファイマンを演じた。2013年制作。
+  - 「チャレンジャー号　73秒の真実」（原題：Feynman and the Challenger）ファインマンを主人公に、1986年のスペースシャトル・[チャレンジャー号爆発事故](../Page/チャレンジャー号爆発事故.md "wikilink")の原因究明のため、ロジャース委員会のメンバーだった彼が、様々な障害や病魔と闘いながら、真相究明を果たすまでを描く英米合作のテレビドラマ。アカデミー賞俳優[ウィリアム・ハート](../Page/ウィリアム・ハート.md "wikilink")がファイマンを演じた。2013年制作。
 
 ## 脚注
 

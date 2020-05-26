@@ -46,7 +46,7 @@
 
   - [坪井新三郎](../Page/坪井新三郎.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 1969年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に入団
   - [長島吉邦](https://ja.wikipedia.org/wiki/長島吉邦 "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト4位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
-  - [水谷啓昭](https://ja.wikipedia.org/wiki/水谷啓昭 "wikilink")（投手） - ドラフト3位で中日ドラゴンズに入団
+  - [水谷啓昭](../Page/水谷啓昭.md "wikilink")（投手） - ドラフト3位で中日ドラゴンズに入団
   - [音重鎮](../Page/音重鎮.md "wikilink")（[外野手](../Page/外野手.md "wikilink")） - ドラフト5位で中日ドラゴンズに入団
   - [足利豊](../Page/足利豊.md "wikilink")（投手） - ドラフト4位で[福岡ダイエーホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [山根善伸](../Page/山根善伸.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - ドラフト7位で[横浜大洋ホエールズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")

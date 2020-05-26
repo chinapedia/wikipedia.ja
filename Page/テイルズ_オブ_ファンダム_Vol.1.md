@@ -136,7 +136,7 @@
   - ヒューラ・ヴェルミオン
     声 - [小野坂昌也](../Page/小野坂昌也.md "wikilink")
   - アルジェント
-    声 - [中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+    声 - [中江真司](../Page/中江真司.md "wikilink")
   - ルナリア・バーンズ
     声 - [新千恵子](../Page/新千恵子.md "wikilink")
   - アルサー・リトルトン

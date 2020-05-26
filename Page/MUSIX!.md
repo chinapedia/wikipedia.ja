@@ -36,7 +36,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
 
   - 2000年12月2日〜2003年3月22日 - [土曜日](../Page/土曜日.md "wikilink") 20:00〜21:00
 
-:\* 番組開始当初から[2001年](../Page/2001年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")（テレビ東京系列は同月[20日](../Page/5月20日.md "wikilink")）放送分まで[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")がテレビ東京系列より1日早い先行放送だったが、同局の[著作権](../Page/著作権.md "wikilink")・[肖像権](../Page/肖像権.md "wikilink")の問題の折り合いから同月[26日の同局での放送を中止し](../Page/5月26日.md "wikilink")、翌[27日](../Page/5月27日.md "wikilink")（BSジャパンは[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）放送分から逆にテレビ東京系列がBSジャパンより6日早い先行放送に切り替えた。なお、テレビ東京系列が放送日時を変更してもBSジャパンは日時を変更せずに放送した。
+:\* 番組開始当初から[2001年](../Page/2001年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")（テレビ東京系列は同月[20日](../Page/5月20日.md "wikilink")）放送分まで[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")がテレビ東京系列より1日早い先行放送だったが、同局の[著作権](../Page/著作権.md "wikilink")・[肖像権](../Page/肖像権.md "wikilink")の問題の折り合いから同月[26日の同局での放送を中止し](../Page/5月26日.md "wikilink")、翌[27日](../Page/5月27日.md "wikilink")（BSジャパンは[6月2日](../Page/6月2日.md "wikilink")）放送分から逆にテレビ東京系列がBSジャパンより6日早い先行放送に切り替えた。なお、テレビ東京系列が放送日時を変更してもBSジャパンは日時を変更せずに放送した。
 
 ## 主なコーナー
 
@@ -65,7 +65,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
 <!-- end list -->
 
   -
-    [安倍なつみ](../Page/安倍なつみ.md "wikilink")（なっちー）・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（チャーミー）
+    [安倍なつみ](../Page/安倍なつみ.md "wikilink")（なっちー）・[石川梨華](../Page/石川梨華.md "wikilink")（チャーミー）
 
 <!-- end list -->
 

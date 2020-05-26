@@ -159,7 +159,7 @@
 ### 過去の実況アナウンサー
 
   - [三宅正治](../Page/三宅正治.md "wikilink") - 『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』司会に専念するためスポーツアナウンサーとしての活動を終了。『すぽると\!』の司会を長年務めており、野球実況担当時も地上波の『BASEBALL SPECIAL〜野球道〜』の担当が多く、出演が少なかった。
-  - [塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")
+  - [塩原恒夫](../Page/塩原恒夫.md "wikilink")
   - [長坂哲夫](../Page/長坂哲夫.md "wikilink")
   - [奥寺健](../Page/奥寺健.md "wikilink") - 『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』のキャスターとなった2007年度以降は担当せず。
   - [佐野瑞樹](../Page/佐野瑞樹_\(アナウンサー\).md "wikilink")

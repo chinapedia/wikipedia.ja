@@ -263,7 +263,7 @@
 <td><p>第18話</p></td>
 <td><p>11月24日</p></td>
 <td><p>ショータイムは死の香り</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p>青木悠三</p></td>
 <td><p>柳野龍男<br />
 尾鷲英俊</p></td>

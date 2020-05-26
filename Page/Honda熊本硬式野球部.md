@@ -46,7 +46,7 @@
 
 ## 主な出身プロ野球選手
 
-  - [山田武史](https://ja.wikipedia.org/wiki/山田武史 "wikilink")（[投手](../Page/投手.md "wikilink")） - 1986年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
+  - [山田武史](../Page/山田武史.md "wikilink")（[投手](../Page/投手.md "wikilink")） - 1986年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
   - [吉田豊彦](../Page/吉田豊彦.md "wikilink")（投手） - ドラフト1位で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [高村洋介](../Page/高村洋介.md "wikilink")（投手） - 1988年ドラフト外で[阪神タイガース](../Page/阪神タイガース.md "wikilink")に入団
   - [内山正博](../Page/内山正博_\(野球\).md "wikilink")（投手） - 1989年ドラフト外で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")

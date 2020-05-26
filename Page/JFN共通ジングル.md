@@ -331,7 +331,7 @@
 7.  男性ヴォイスと女性ヴォイスの2種類があった。
 8.  現在はFM IWATEの他のジングルと同じ扱いで、本来の時間以外のところで使用している。
 9.  同年12月31日をもって『Radio80』の愛称を廃止している。
-10. JFN系列以外でも、毎週土曜に放送されている[COUNTDOWN JAPANのスポンサーが](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")[ローソン](../Page/ローソン.md "wikilink")だった頃は、ローソンの店内放送『[ローソンCSほっとステーション](https://ja.wikipedia.org/wiki/ローソンCSほっとステーション "wikilink")』でも流れていた。しかし、ステーションコールがないバージョンのものだった。
+10. JFN系列以外でも、毎週土曜に放送されている[COUNTDOWN JAPANのスポンサーが](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")[ローソン](../Page/ローソン.md "wikilink")だった頃は、ローソンの店内放送『[ローソンCSほっとステーション](../Page/ローソンCSほっとステーション.md "wikilink")』でも流れていた。しかし、ステーションコールがないバージョンのものだった。
 11. TOKYO FMでは時刻をアナウンスする枠。地方局ではJFN共通ジングルに差し替えられる。
 12. AM局の[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")と[和歌山放送](../Page/和歌山放送.md "wikilink")にもネットされているが、ジングル部分はカットされ時報後すぐ番組に入っている。また[エフエム群馬](../Page/エフエム群馬.md "wikilink")では日22:00。
 13. 長らくジングルが使用されていない番組であったが、2010年4月より使用開始。

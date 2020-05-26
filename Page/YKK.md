@@ -106,7 +106,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
 
   - [線ファスナー](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")
   - [YKKファスニングアワード](https://ja.wikipedia.org/wiki/YKKファスニングアワード "wikilink")
-  - [カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")（[YKK APサッカー部と](../Page/YKK_APサッカー部.md "wikilink")[アローズ北陸](../Page/アローズ北陸.md "wikilink")の統合によって誕生）
+  - [カターレ富山](../Page/カターレ富山.md "wikilink")（[YKK APサッカー部と](../Page/YKK_APサッカー部.md "wikilink")[アローズ北陸](../Page/アローズ北陸.md "wikilink")の統合によって誕生）
   - [東京電力女子サッカー部マリーゼ](https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ "wikilink")（旧母体が「YKK AP東北女子サッカー部フラッパーズ」）
 
 ## 外部リンク

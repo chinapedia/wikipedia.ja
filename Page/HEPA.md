@@ -49,7 +49,7 @@ HEPAフィルタの濾紙は主に直径1～10 µm以下のガラス繊維でで
   - [エアプロダクツ株式会社](https://ja.wikipedia.org/wiki/エアプロダクツ株式会社 "wikilink")
   - [株式会社忍足研究所](https://ja.wikipedia.org/wiki/忍足研究所 "wikilink")
   - [株式会社東洋紡カンキョーテクノ](https://ja.wikipedia.org/wiki/株式会社東洋紡カンキョーテクノ "wikilink")
-  - [日本スピンドル製造](https://ja.wikipedia.org/wiki/日本スピンドル製造 "wikilink")株式会社
+  - [日本スピンドル製造](../Page/日本スピンドル製造.md "wikilink")株式会社
   - [日本無機株式会社](https://ja.wikipedia.org/wiki/日本板硝子#主要関係会社 "wikilink")
   - [日本バイリーン](https://ja.wikipedia.org/wiki/日本バイリーン "wikilink")株式会社
   - [三菱製紙](../Page/三菱製紙.md "wikilink")株式会社

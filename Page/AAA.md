@@ -80,7 +80,7 @@
 ## フィクションのことがら
 
   - Anti Alien Airforce - ゲーム『[THE 宇宙大戦争](https://ja.wikipedia.org/wiki/THE_宇宙大戦争 "wikilink")』に登場する軍事組織。
-  - 対[巨大不明生物特殊航空隊](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\)#『シン・ゴジラ』のゴジラ "wikilink")（Anti massve unidentified Animal special task Air force） - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")のアトラクション『ゴジラ THE REAL 4-D』に登場する[航空隊](../Page/飛行隊.md "wikilink")。
+  - 対[巨大不明生物特殊航空隊](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\)#『シン・ゴジラ』のゴジラ "wikilink")（Anti massve unidentified Animal special task Air force） - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")のアトラクション『ゴジラ THE REAL 4-D』に登場する[航空隊](../Page/飛行隊.md "wikilink")。
   - AAA（アクイロニアのアルマリック・アスヴァール） - [田中芳樹](../Page/田中芳樹.md "wikilink")の架空歴史小説『[七都市物語](../Page/七都市物語.md "wikilink")』の登場人物アルマリック・アスヴァールの勇名。
 
 ## 関連項目

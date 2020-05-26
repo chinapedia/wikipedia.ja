@@ -667,7 +667,7 @@ HARV-0016B(通常盤)</p></td>
       - 「にじ・そら・ほし・せかい」（『おかあさんといっしょ』より）： アルバム『SIGNAL』にて[セルフカバー](../Page/セルフカバー.md "wikilink")された。
       - [川村万梨阿](../Page/川村万梨阿.md "wikilink") 「Lavender Boat」
       - [岸祐二](../Page/岸祐二.md "wikilink") 「コンパスと地図ととなりに君」「Roll up Roll up」
-      - [清浦夏実](../Page/清浦夏実.md "wikilink") 「[旅の途中](https://ja.wikipedia.org/wiki/旅の途中_\(清浦夏実の曲\) "wikilink")」（テレビアニメ『[狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")』オープニングテーマ）、「約束のうた」
+      - [清浦夏実](../Page/清浦夏実.md "wikilink") 「[旅の途中](../Page/旅の途中_\(清浦夏実の曲\).md "wikilink")」（テレビアニメ『[狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")』オープニングテーマ）、「約束のうた」
       - [桑島法子](../Page/桑島法子.md "wikilink") 「cocoon」（作詞：工藤順子）（ラジオ『CLUB db』オープニングテーマ）
       - [子安武人](../Page/子安武人.md "wikilink") 「透明な窓」「天空の底」「風の図鑑」
       - [桜井智](../Page/櫻井智.md "wikilink") 「2ミリ先は永遠」

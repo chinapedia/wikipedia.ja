@@ -103,7 +103,7 @@
   - AD：徳田浩二、辻夏紀
   - 構成：[村上卓史](../Page/村上卓史.md "wikilink")、[小高弘嗣](https://ja.wikipedia.org/wiki/小高弘嗣 "wikilink")、[つじまるみ](https://ja.wikipedia.org/wiki/つじまこと "wikilink")、[西田啓昭](https://ja.wikipedia.org/wiki/西田啓昭 "wikilink")
   - 技術：Zeta
-  - 編集・MA：[NEK STUDIO](https://ja.wikipedia.org/wiki/日本映像教育社 "wikilink") → [ヌーベルPC（ヌーベルバーグ）](https://ja.wikipedia.org/wiki/ヌーベルアージュ "wikilink")
+  - 編集・MA：[NEK STUDIO](../Page/日本映像教育社.md "wikilink") → [ヌーベルPC（ヌーベルバーグ）](https://ja.wikipedia.org/wiki/ヌーベルアージュ "wikilink")
   - 音効：[ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")
   - 制作:[LOCOMOTION](../Page/ロコモーション_\(企業\).md "wikilink")
 

@@ -536,7 +536,7 @@ SHANE LESTER</p></td>
 
 ### BEST COMPUTER GRAPHIC VIDEO
 
-  - 1999年「[PULSE](https://ja.wikipedia.org/wiki/PULSE "wikilink")」（[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")）監督：オカモトケンジ
+  - 1999年「[PULSE](../Page/PULSE.md "wikilink")」（[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")）監督：オカモトケンジ
   - 2000年「[Nothing's Gonna Change](../Page/Nothing's_Gonna_Change.md "wikilink")」（[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")）監督：田中秀幸、ピエール瀧
   - 2002年「[Dispatch feat.Dev Large,Nipps\&Vincent Galluo](../Page/Dispatch.md "wikilink")」（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）監督：中根ひろし（[ELECROTNIK](https://ja.wikipedia.org/wiki/ELECROTNIK "wikilink")）
   - 2003年「STREET STARS BREAKIN'」（[DJ TASAKA](../Page/DJ_TASAKA.md "wikilink")）監督：宇川直宏
@@ -558,7 +558,7 @@ SHANE LESTER</p></td>
 
 ### BEST CREATIVE WORK
 
-  - 2007年「[人形劇ギルド](https://ja.wikipedia.org/wiki/人形劇ギルド "wikilink")」（[BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")）監督：番場秀一
+  - 2007年「[人形劇ギルド](../Page/人形劇ギルド.md "wikilink")」（[BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")）監督：番場秀一
 
 ### BEST TECHNICAL WORKS VIDEO
 
@@ -586,7 +586,7 @@ SHANE LESTER</p></td>
 
 ### BEST SSTV ONLY EDITION
 
-  - 2008年「[あなたのそばで "for SPACE SHOWER TV"](https://ja.wikipedia.org/wiki/あなたのそばで "wikilink")」（[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")）監督：AT
+  - 2008年「[あなたのそばで "for SPACE SHOWER TV"](../Page/あなたのそばで.md "wikilink")」（[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")）監督：AT
 
 ### BEST WEB SITE by beatrip
 

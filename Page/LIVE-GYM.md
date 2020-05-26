@@ -1147,7 +1147,7 @@ Official Concert International Day</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年9月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/B&#39;z_LIVE_in_なんば" title="wikilink">B'z NETWORK LIVE in Japan</a></p></td>
+<td><p><a href="../Page/B&#39;z_LIVE_in_なんば.md" title="wikilink">B'z NETWORK LIVE in Japan</a></p></td>
 <td><p><strong>1会場1公演</strong> - <a href="../Page/湊町リバープレイス.md" title="wikilink">なんばHatch</a> B'z初の招待制ライブ。<a href="../Page/ドワンゴ.md" title="wikilink">ドワンゴ</a>の協賛。後日、ライブの模様はアメリカのControl Room（当時はNetwork LIVE）社によって世界配信した。「<a href="../Page/HOME_(B&#39;zの曲).md" title="wikilink">HOME</a>」の英語バーションを初披露した。『B'z Live in なんば』として映像作品化したほか、2010年には『<a href="https://ja.wikipedia.org/wiki/B&#39;z_LIVE_in_なんば_2006_&amp;_B&#39;z_SHOWCASE_2007_-19-_at_Zepp_Tokyo" title="wikilink">B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo</a>』としても発売している。<br />
 <strong>EDSE</strong> - 「BUDDY」</p></td>
 </tr>
@@ -1505,7 +1505,7 @@ B'z PREMIUM LIVE OSAKA/TOKYO</p></td>
 06/27 <a href="../Page/豊岡市民会館.md" title="wikilink">豊岡市民会館</a><br />
 07/05 南魚沼市民会館<br />
 07/07 <a href="../Page/長野県松本文化会館.md" title="wikilink">キッセイ文化ホール</a><br />
-07/09 <a href="https://ja.wikipedia.org/wiki/富士市文化会館ロゼシアター" title="wikilink">富士市文化会館ロゼシアター</a><br />
+07/09 <a href="../Page/富士市文化会館ロゼシアター.md" title="wikilink">富士市文化会館ロゼシアター</a><br />
 07/11 <a href="../Page/多治見市文化会館.md" title="wikilink">多治見市文化会館</a><br />
 07/16 明石市立市民会館<br />
 07/17 <a href="https://ja.wikipedia.org/wiki/丸亀市民会館" title="wikilink">丸亀市民会館</a><br />
@@ -1877,7 +1877,7 @@ BMXV-1001 (Blu-ray Disc)</p></td>
 DVD版、BD版ともにツアードキュメンタリーDVDが収録されている。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/B&#39;z_LIVE_in_なんば" title="wikilink">B'z LIVE in なんば</a></strong></p></td>
+<td><p><strong><a href="../Page/B&#39;z_LIVE_in_なんば.md" title="wikilink">B'z LIVE in なんば</a></strong></p></td>
 <td><p>B'z Premium LIVE</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月20日.md" title="wikilink">2月20日</a> (DVD)<br />
 2010年12月22日 (Blu-ray Disc)</p></td>

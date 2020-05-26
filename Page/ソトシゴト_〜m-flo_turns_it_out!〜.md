@@ -11,7 +11,7 @@ CDジャケットで[ターンテーブル](https://ja.wikipedia.org/wiki/ター
 
 1.  TABOO \[a tip of M-FLO remix\] / [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")
 2.  Love can't wait feat. [LISA](../Page/LISA_\(歌手\).md "wikilink") / [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")（初回盤のみの収録）
-3.  BEACH STAR HIGH vs [Verbal](https://ja.wikipedia.org/wiki/VERBAL "wikilink") from m-flo / [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")
+3.  BEACH STAR HIGH vs [Verbal](../Page/VERBAL.md "wikilink") from m-flo / [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")
 4.  the love hole / [K.](../Page/K..md "wikilink") featuring verbal from m-flo
 5.  Beautiful Days \[TAKU'S GARAGE MIX\] / [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")
 6.  You Said. \[Serenidade Blue Bossa Mix\] / [blue on blue](https://ja.wikipedia.org/wiki/blue_on_blue "wikilink") featuring LISA

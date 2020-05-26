@@ -66,7 +66,7 @@
 
 <!-- end list -->
 
-  - 『[伝説の教師](https://ja.wikipedia.org/wiki/伝説の教師 "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")を得て、シングル「[青春](../Page/青春_\(THE_HIGH-LOWSの曲\).md "wikilink")」がヒット。
+  - 『[伝説の教師](../Page/伝説の教師.md "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")を得て、シングル「[青春](../Page/青春_\(THE_HIGH-LOWSの曲\).md "wikilink")」がヒット。
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@
 <td><p>2000年5月24日</p></td>
 <td><p><strong><a href="../Page/青春_(THE_HIGH-LOWSの曲).md" title="wikilink">青春</a></strong></p></td>
 <td><p>8位</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/伝説の教師" title="wikilink">伝説の教師</a>」テーマソング</p></td>
+<td><p>「<a href="../Page/伝説の教師.md" title="wikilink">伝説の教師</a>」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>15th</p></td>

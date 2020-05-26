@@ -162,7 +162,7 @@
 
 ## 欠乏症
 
-[未熟児](https://ja.wikipedia.org/wiki/未熟児 "wikilink")において、[溶血性貧血](../Page/溶血性貧血.md "wikilink")、[深部感覚](https://ja.wikipedia.org/wiki/深部感覚 "wikilink")異常及び小脳失調の原因となることが知られている。[生体膜](../Page/生体膜.md "wikilink")で[活性酸素](../Page/活性酸素.md "wikilink")が存在すると[脂質過酸化反応](https://ja.wikipedia.org/wiki/脂質過酸化反応 "wikilink")により[過酸化脂質](https://ja.wikipedia.org/wiki/過酸化脂質 "wikilink")が連鎖的に生成され、膜が損傷し、[赤血球](../Page/赤血球.md "wikilink")では[溶血](../Page/溶血.md "wikilink")が起こるなど生体膜の機能障害が発生する\[3\]。また、[不妊症](https://ja.wikipedia.org/wiki/不妊症 "wikilink")や[筋萎縮](https://ja.wikipedia.org/wiki/筋萎縮 "wikilink")症、[脳軟化症](https://ja.wikipedia.org/wiki/脳軟化症 "wikilink")の原因となるといわれているが、[植物油](../Page/植物油.md "wikilink")に豊富に含まれているため通常の食生活で欠乏することはないと言われている。
+[未熟児](https://ja.wikipedia.org/wiki/未熟児 "wikilink")において、[溶血性貧血](../Page/溶血性貧血.md "wikilink")、[深部感覚](https://ja.wikipedia.org/wiki/深部感覚 "wikilink")異常及び小脳失調の原因となることが知られている。[生体膜](../Page/生体膜.md "wikilink")で[活性酸素](../Page/活性酸素.md "wikilink")が存在すると[脂質過酸化反応](https://ja.wikipedia.org/wiki/脂質過酸化反応 "wikilink")により[過酸化脂質](../Page/過酸化脂質.md "wikilink")が連鎖的に生成され、膜が損傷し、[赤血球](../Page/赤血球.md "wikilink")では[溶血](../Page/溶血.md "wikilink")が起こるなど生体膜の機能障害が発生する\[3\]。また、[不妊症](https://ja.wikipedia.org/wiki/不妊症 "wikilink")や[筋萎縮](https://ja.wikipedia.org/wiki/筋萎縮 "wikilink")症、[脳軟化症](https://ja.wikipedia.org/wiki/脳軟化症 "wikilink")の原因となるといわれているが、[植物油](../Page/植物油.md "wikilink")に豊富に含まれているため通常の食生活で欠乏することはないと言われている。
 
   - [黄色脂肪症](https://ja.wikipedia.org/wiki/黄色脂肪症 "wikilink")
 

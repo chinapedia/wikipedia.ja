@@ -333,7 +333,7 @@
 :\* 体重：92〜118kg
 
   -
-    アルビノジョーカーの配下で[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")に酷似した姿の怪生物。テレビシリーズ終盤に登場したダークローチの亜種にあたり、同様に生物の祖ではないイレギュラーな存在。能力・外見、それに大群で行動するという性質もダークローチとほぼ共通しているが、体色はアルビノジョーカー同様に白が基調となっている。神経毒を持つ爪を武器とし、背中の羽で飛行も可能。
+    アルビノジョーカーの配下で[ゴキブリ](../Page/ゴキブリ.md "wikilink")に酷似した姿の怪生物。テレビシリーズ終盤に登場したダークローチの亜種にあたり、同様に生物の祖ではないイレギュラーな存在。能力・外見、それに大群で行動するという性質もダークローチとほぼ共通しているが、体色はアルビノジョーカー同様に白が基調となっている。神経毒を持つ爪を武器とし、背中の羽で飛行も可能。
 
     発生する際の描写はないが、消滅時に一瞬人骨のようなものが見える。
 
@@ -471,13 +471,13 @@
   - 製作 - 福湯通夫（[東映](../Page/東映.md "wikilink")）、泊懋（[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）、[早河洋](https://ja.wikipedia.org/wiki/早河洋 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - 企画 - [鈴木武幸](../Page/鈴木武幸.md "wikilink")（東映）、[木村純一](../Page/木村純一.md "wikilink")（テレビ朝日）、日達長夫（[東映ビデオ](../Page/東映ビデオ.md "wikilink")）、[竹内淳](https://ja.wikipedia.org/wiki/竹内淳 "wikilink")（[バンダイ](../Page/バンダイ.md "wikilink")）、永井秀之（[アサツー ディ・ケイ](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")）、福中修（東映アニメーション）
   - スーパーバイザー - 小野寺章（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）
-  - プロデュース - [日笠淳](../Page/日笠淳.md "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")、[宇都宮孝明](https://ja.wikipedia.org/wiki/宇都宮孝明 "wikilink")、松田佐栄子
+  - プロデュース - [日笠淳](../Page/日笠淳.md "wikilink")、[武部直美](../Page/武部直美.md "wikilink")、[宇都宮孝明](https://ja.wikipedia.org/wiki/宇都宮孝明 "wikilink")、松田佐栄子
   - 撮影 - [いのくままさお](../Page/いのくままさお.md "wikilink")
   - 照明 - 明田光男
   - 美術 - [大嶋修一](https://ja.wikipedia.org/wiki/大嶋修一 "wikilink")
   - 録音 - 畑幸太郎
   - 編集 - 長田直樹
-  - 助監督 - [柴崎貴行](https://ja.wikipedia.org/wiki/柴崎貴行 "wikilink")、息邦夫、塩川純平、安井祥二、実政紀
+  - 助監督 - [柴崎貴行](../Page/柴崎貴行.md "wikilink")、息邦夫、塩川純平、安井祥二、実政紀
   - 制作主任 - 藤井達夫
   - キャラクターデザイン - 飯田浩司（石森プロ）、[野中剛](../Page/野中剛.md "wikilink")・鈴木和也・吉野修広・田中宗二郎・下田竜彦（[PLEX](../Page/プレックス.md "wikilink")）
   - クリーチャーデザイン - [韮沢靖](../Page/韮沢靖.md "wikilink")

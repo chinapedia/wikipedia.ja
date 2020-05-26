@@ -19,7 +19,7 @@
   - [関ジャニ8](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")\[28\]
       - [横山裕](../Page/横山裕.md "wikilink")\[29\]、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")\[30\]、[村上信五](../Page/村上信五.md "wikilink")\[31\]、[丸山隆平](../Page/丸山隆平.md "wikilink")\[32\]、[安田章大](../Page/安田章大.md "wikilink")\[33\]、[大倉忠義](../Page/大倉忠義.md "wikilink")\[34\]
   - [薮宏太](../Page/薮宏太.md "wikilink")\[35\]
-  - [A.B.C.](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")\[36\]
+  - [A.B.C.](../Page/A.B.C-Z.md "wikilink")\[36\]
   - [伊野尾慧](../Page/伊野尾慧.md "wikilink")\[37\]：車イスの少年\[38\]
   - [玉森裕太](../Page/玉森裕太.md "wikilink")\[39\]：車イスの少年\[40\]
   - [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")\[41\]、[横尾渉](../Page/横尾渉.md "wikilink")\[42\]、[藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")\[43\]、[宮田俊哉](../Page/宮田俊哉.md "wikilink")\[44\]\[45\] 、[二階堂高嗣](https://ja.wikipedia.org/wiki/二階堂高嗣 "wikilink")\[46\]、[千賀健永](../Page/千賀健永.md "wikilink")\[47\]\[48\]、[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")\[49\] 、[高木雄也](../Page/高木雄也.md "wikilink")\[50\] 、
@@ -209,7 +209,7 @@
   - **ユウヤ**\[320\] - [手越祐也](../Page/手越祐也.md "wikilink")：ミュージシャン\[321\]。元人気アイドルグループのメンバー\[322\]。
   - 真琴つばさ\[323\]\[324\]
   - [峰さを理](../Page/峰さを理.md "wikilink")\[325\]\[326\]
-  - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")\[327\]\[328\]\[329\]
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")\[327\]\[328\]\[329\]
       - 五関晃一\[330\]、戸塚祥太\[331\]、河合郁人\[332\]、塚田僚一\[333\]、橋本良亮\[334\]
   - [Mis Snow Man](https://ja.wikipedia.org/wiki/Mis_Snow_Man "wikilink")\[335\]\[336\]\[337\]
   - 後藤泰観\[338\]、石垣大祐\[339\]、今野貴之\[340\]

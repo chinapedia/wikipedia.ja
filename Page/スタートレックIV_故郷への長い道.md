@@ -16,7 +16,7 @@
 ### トリビア
 
   - 水族館のシーンはカリフォルニア州北部の [Monterey Bay Aquarium](https://ja.wikipedia.org/wiki/:en:Monterey_Bay_Aquarium "wikilink") で撮影された\[1\]。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に起こった[チャレンジャー号爆発事故](https://ja.wikipedia.org/wiki/チャレンジャー号爆発事故 "wikilink")で亡くなったクルーを顕彰する言葉がタイトルの前に現れる。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に起こった[チャレンジャー号爆発事故](../Page/チャレンジャー号爆発事故.md "wikilink")で亡くなったクルーを顕彰する言葉がタイトルの前に現れる。
   - 劇中でスタートレック伝統の旗艦と同じ名前を持つアメリカ海軍の航空母艦「[エンタープライズ (CVN-65)](../Page/エンタープライズ_\(CVN-65\).md "wikilink")」が登場するシーンがあるが、撮影許可が下りていたにもかかわらず、急遽作戦行動に入ってしまったため、実際の撮影には「[レンジャー (CV-61)](../Page/レンジャー_\(CV-61\).md "wikilink")」が使用された。
   - 上記シーンの前にウフーラとチェコフが海軍施設への道を聞くシーンがあるが、「[サウサリート](https://ja.wikipedia.org/wiki/サウサリート "wikilink")へ行け」と言った女性は一般人であり、同シーンに登場している[白バイ](../Page/白バイ.md "wikilink")[警察官](../Page/警察官.md "wikilink")も本職の警察官である。
   - [捕鯨反対の](https://ja.wikipedia.org/wiki/捕鯨問題 "wikilink")[プロパガンダ](../Page/プロパガンダ.md "wikilink")映画とも取れる内容であるが、劇中、カーク一行が捕鯨を妨害する漁船は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の船ではなく、[ノルウェー](../Page/ノルウェー.md "wikilink")などの日本以外では当時数少ない[商業捕鯨](https://ja.wikipedia.org/wiki/商業捕鯨 "wikilink")推進国の船を想定した沿岸捕鯨船である。ヒロイン役のキャサリン・ヒックスは「劇中の船がもし日本の捕鯨船だったなら、日本人のインタビューには答えない」と劇場パンフレットの中で語っている。なお、実際にはザトウクジラは1960年代に商業捕鯨が禁止されている。

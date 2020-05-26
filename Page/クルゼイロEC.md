@@ -21,7 +21,7 @@
 
 ## タイトル
 
-[thumbでのクルゼイロ対](https://ja.wikipedia.org/wiki/画像:Cruzeiro-Corinthians-12072006.jpg "wikilink")[コリンチャンスの試合](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")\]\]
+[thumbでのクルゼイロ対](https://ja.wikipedia.org/wiki/画像:Cruzeiro-Corinthians-12072006.jpg "wikilink")[コリンチャンスの試合](../Page/SCコリンチャンス・パウリスタ.md "wikilink")\]\]
 
 ### 国内タイトル
 

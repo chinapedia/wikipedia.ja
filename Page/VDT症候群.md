@@ -6,7 +6,7 @@
 ## 主な症状
 
   - 目の症状 - [ドライアイ](../Page/ドライアイ.md "wikilink")、[充血](https://ja.wikipedia.org/wiki/充血 "wikilink")、視力低下、[眼精疲労](../Page/眼精疲労.md "wikilink")など。
-  - 体の症状 - [頸肩腕症候群](https://ja.wikipedia.org/wiki/頸肩腕症候群 "wikilink")（キーパンチャー病）。首、腰、肩のこり、だるさ、痛み、慢性化すると背中の痛み、手指のしびれなど。
+  - 体の症状 - [頸肩腕症候群](../Page/頸肩腕症候群.md "wikilink")（キーパンチャー病）。首、腰、肩のこり、だるさ、痛み、慢性化すると背中の痛み、手指のしびれなど。
   - 心の症状 - 食欲減退、イライラ、不安感、[抑うつ症状など](https://ja.wikipedia.org/wiki/うつ病 "wikilink")。
 
 近くを見る、視線の動きが多いことによって眼精疲労が生じ、上向きになったり、瞬きが減ることでドライアイが生じる\[2\]。
@@ -31,7 +31,7 @@
 
 ## 関連項目
 
-  - [頸肩腕症候群](https://ja.wikipedia.org/wiki/頸肩腕症候群 "wikilink")
+  - [頸肩腕症候群](../Page/頸肩腕症候群.md "wikilink")
   - [Gunnar Optiks](https://ja.wikipedia.org/wiki/Gunnar_Optiks "wikilink") - VDT症候群保護用眼鏡の会社
 
 ## 外部リンク

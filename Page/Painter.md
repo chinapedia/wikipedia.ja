@@ -19,7 +19,7 @@
 
 1991年の発売当初の開発、販売はアメリカのフラクタルデザイン社 (Fractal Design) だった。その生みの親はフラクタルデザインの創業者であり、後にメタクリエーションズ社の[CEOとなった](../Page/最高経営責任者.md "wikilink")[マーク・ジマー](https://ja.wikipedia.org/wiki/マーク・ジマー "wikilink") (Mark Zimmer) である。彼がトム・ヘッジスやジョン・デリーらとともに作り上げた。マーク・ジマー自身が絵を趣味にしていたことと、彼のプログラマーとしての高い技術力が、Painter に数々の独創的なアイディアと高い表現力を与えた。
 
-1997年、フラクタルデザイン社は3DCGソフト[Bryce](https://ja.wikipedia.org/wiki/Bryce "wikilink")を開発するMetaTools社と合併してメタクリエーションズ (MetaCreations)となり、バージョン5、5.5、6を発売。**バージョン6**の発売後、2000年にカナダの[コーレル](../Page/コーレル.md "wikilink") (COREL) に売却、現在もコーレルが所有している。このとき、コーレルはメタクリーションズから、Painter と[Bryce](https://ja.wikipedia.org/wiki/Bryce "wikilink")の二つを買収したが現在、Bryceに関しては手放している。バージョン6までは、マーク・ジマーが開発したが、コーレルへの売却に伴い、開発の手が彼から離れてしまう。（詳細は[コーレル](../Page/コーレル.md "wikilink")を参照のこと）
+1997年、フラクタルデザイン社は3DCGソフト[Bryce](../Page/Bryce.md "wikilink")を開発するMetaTools社と合併してメタクリエーションズ (MetaCreations)となり、バージョン5、5.5、6を発売。**バージョン6**の発売後、2000年にカナダの[コーレル](../Page/コーレル.md "wikilink") (COREL) に売却、現在もコーレルが所有している。このとき、コーレルはメタクリーションズから、Painter と[Bryce](../Page/Bryce.md "wikilink")の二つを買収したが現在、Bryceに関しては手放している。バージョン6までは、マーク・ジマーが開発したが、コーレルへの売却に伴い、開発の手が彼から離れてしまう。（詳細は[コーレル](../Page/コーレル.md "wikilink")を参照のこと）
 
 なお、メタクリエーションズでPainterやBryceを開発していた一部のメンバーは独立して[ArtRage](https://ja.wikipedia.org/wiki/ArtRage "wikilink")を開発している。
 

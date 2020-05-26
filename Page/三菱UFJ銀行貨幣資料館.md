@@ -40,7 +40,7 @@
 
 資料館が位置した名古屋都心部のメインストリート・広小路通には、かつて旧[住友銀行](../Page/住友銀行.md "wikilink")名古屋支店（[1925年](../Page/1925年.md "wikilink")（[大正](../Page/大正.md "wikilink")15年）竣工[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）解体）、名古屋日本徴兵館（[1939年](../Page/1939年.md "wikilink")（昭和14年）竣工　[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")後「名古屋大和生命ビル」→「東海銀行本店別館」→「UFJ銀行名古屋ビル別館」に改称　[2004年](../Page/2004年.md "wikilink")（平成16年）解体）など、大正期から昭和初期にかけて建てられたオフィスビルが数多く立ち並んでいた\[22\]。
 
-これらのビルが相次いで取り壊され、この建物は[三井住友銀行](../Page/三井住友銀行.md "wikilink")名古屋支店（旧・[三井銀行](https://ja.wikipedia.org/wiki/三井銀行 "wikilink")名古屋支店　[1935年](../Page/1935年.md "wikilink")（昭和10年）竣工）、[明治屋](https://ja.wikipedia.org/wiki/明治屋 "wikilink")名古屋店（[1938年](../Page/1938年.md "wikilink")（昭和13年）竣工）とともに、名古屋における近代建築の貴重な遺構となっている\[23\]。
+これらのビルが相次いで取り壊され、この建物は[三井住友銀行](../Page/三井住友銀行.md "wikilink")名古屋支店（旧・[三井銀行](https://ja.wikipedia.org/wiki/三井銀行 "wikilink")名古屋支店　[1935年](../Page/1935年.md "wikilink")（昭和10年）竣工）、[明治屋](../Page/明治屋.md "wikilink")名古屋店（[1938年](../Page/1938年.md "wikilink")（昭和13年）竣工）とともに、名古屋における近代建築の貴重な遺構となっている\[23\]。
 
 [1989年](../Page/1989年.md "wikilink")に[名古屋市都市景観重要建築物に指定されている](https://ja.wikipedia.org/wiki/名古屋市都市景観重要建築物等 "wikilink")。
 

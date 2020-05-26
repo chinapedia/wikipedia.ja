@@ -10,7 +10,7 @@
         [東京都](../Page/東京都.md "wikilink")[狛江市](../Page/狛江市.md "wikilink")生まれ。[調布市](../Page/調布市.md "wikilink")、および[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")育ち\[2\]。[愛称](../Page/愛称.md "wikilink")：智ちゃん、こんちゃん\[3\]。身長：160.2cm、[B](../Page/バスト.md "wikilink")：81cm、[W](../Page/ウエスト.md "wikilink")：59cm、[H](../Page/尻.md "wikilink")：85cm（1987年当時）\[4\]。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型\[5\]。
         川崎市立西高津中学校、[橘女子高等学校卒業](../Page/橘学苑中学校・高等学校.md "wikilink")。
         部活は中学3年から[バスケットボール](../Page/バスケットボール.md "wikilink")部。高校入学後は[テニス](../Page/テニス.md "wikilink")部に入ったが3日で退部し、その後は[帰宅部](../Page/帰宅部.md "wikilink")\[6\]。
-        [珠算検定](https://ja.wikipedia.org/wiki/全国珠算教育連盟主催珠算検定 "wikilink")5級の資格を持つ\[7\]。
+        [珠算検定](../Page/全国珠算教育連盟主催珠算検定.md "wikilink")5級の資格を持つ\[7\]。
         2歳年下の妹がいる\[8\]。
 
 <!-- end list -->
@@ -557,7 +557,7 @@
 </tr>
 <tr class="odd">
 <td><p>1987.04.12 (日)[39][40]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤングスタジオ101" title="wikilink">ヤングスタジオ101</a>[41][42]</p></td>
+<td><p><a href="../Page/ヤングスタジオ101.md" title="wikilink">ヤングスタジオ101</a>[41][42]</p></td>
 <td><p><a href="../Page/NHK総合テレビジョン.md" title="wikilink">NHK総合</a>・<a href="https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン" title="wikilink">NHK衛星第1</a></p></td>
 <td><p>Give Me Up</p></td>
 <td></td>

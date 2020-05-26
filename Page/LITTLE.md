@@ -211,7 +211,7 @@
 
 :: ULTRA NANIWATIC MC’S、アルバム「THE FIRST」に収録 (2006年12月6日)
 
-:\* Turn It Up feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), LITTLE, KOHEI JAPAN, [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
+:\* Turn It Up feat.[VERBAL](../Page/VERBAL.md "wikilink"), LITTLE, KOHEI JAPAN, [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
 
 :: 童子-T、アルバム「[ONE MIC](../Page/ONE_MIC.md "wikilink")」に収録（[2007年](../Page/2007年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")）
 

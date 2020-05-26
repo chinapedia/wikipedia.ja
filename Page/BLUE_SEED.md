@@ -221,7 +221,7 @@
 <td><p><a href="../Page/荒木憲一.md" title="wikilink">荒木憲一</a></p></td>
 <td><p><a href="../Page/角銅博之.md" title="wikilink">開木菜織</a></p></td>
 <td><p>久志秀彰</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">内山正幸</a></p></td>
+<td><p><a href="../Page/内山正幸.md" title="wikilink">内山正幸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第11話</p></td>

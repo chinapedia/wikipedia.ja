@@ -63,7 +63,7 @@
 
 [1993年](../Page/1993年.md "wikilink")、西原誠、西川弘剛らにより[大阪](../Page/大阪.md "wikilink")で結成。同年にメンバー募集のチラシを見て参加した田中和将、翌[1994年](../Page/1994年.md "wikilink")に西川の後輩である亀井亨が加入し、大阪を拠点に精力的に活動を行う。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミニアルバム『[覚醒](https://ja.wikipedia.org/wiki/覚醒_\(アルバム\) "wikilink")』でメジャーデビューし、東京に進出する。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミニアルバム『[覚醒](../Page/覚醒_\(アルバム\).md "wikilink")』でメジャーデビューし、東京に進出する。
 
 [1999年](../Page/1999年.md "wikilink")に4thシングル「[スロウ](https://ja.wikipedia.org/wiki/スロウ_\(GRAPEVINEの曲\) "wikilink")」でブレイク。同年にリリースされた2ndアルバム『[Lifetime](https://ja.wikipedia.org/wiki/Lifetime "wikilink")』はバンド最高位となる[オリコン初登場](../Page/オリコンチャート.md "wikilink")3位を獲得した。
 
@@ -638,7 +638,7 @@ PCJA.00051（アナログ盤）</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/覚醒_(アルバム)" title="wikilink">覚醒</a></strong></p></td>
+<td><p><strong><a href="../Page/覚醒_(アルバム).md" title="wikilink">覚醒</a></strong></p></td>
 <td><p>PCCA-01126</p></td>
 <td></td>
 </tr>
@@ -746,7 +746,7 @@ PCCA-01638:通常盤</p></td>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/覚醒_(アルバム)" title="wikilink">覚醒〜10th Anniversary Special Package〜</a></strong></p></td>
+<td><p><strong><a href="../Page/覚醒_(アルバム).md" title="wikilink">覚醒〜10th Anniversary Special Package〜</a></strong></p></td>
 <td><p>PCCA-02558</p></td>
 <td><p>80位</p></td>
 </tr>

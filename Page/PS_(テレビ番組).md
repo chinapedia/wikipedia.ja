@@ -104,14 +104,14 @@
 ## タイアップ商品
 
   - どらうみゃあ
-    加藤が上記「晴彦マニフェスト」で「新しい名古屋のラーメンを作る」と宣言したことから企画された番組オリジナルラーメン。[寿がきや食品](../Page/寿がきや食品.md "wikilink")の協力の下に商品化され、2010年3月22日から東海3県各地の[アピタ・ピアゴ](../Page/ユニー.md "wikilink")・[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")限定で発売された。スープは味噌とんこつ味と和風しょうゆ味の2種類があり、それぞれ[カップ麺](../Page/カップ麺.md "wikilink")と2食入り[チルド](https://ja.wikipedia.org/wiki/チルド "wikilink")麺の2タイプが用意された。なお、商品名は名古屋弁で「すごくおいしい」を意味する言葉である。
+    加藤が上記「晴彦マニフェスト」で「新しい名古屋のラーメンを作る」と宣言したことから企画された番組オリジナルラーメン。[寿がきや食品](../Page/寿がきや食品.md "wikilink")の協力の下に商品化され、2010年3月22日から東海3県各地の[アピタ・ピアゴ](../Page/ユニー.md "wikilink")・[サークルKサンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")限定で発売された。スープは味噌とんこつ味と和風しょうゆ味の2種類があり、それぞれ[カップ麺](../Page/カップ麺.md "wikilink")と2食入り[チルド](../Page/チルド.md "wikilink")麺の2タイプが用意された。なお、商品名は名古屋弁で「すごくおいしい」を意味する言葉である。
 
 ## エンディングテーマ
 
   - Set Free （[Ryohei](../Page/Ryohei.md "wikilink")）
   - かげ（[master\*piece](https://ja.wikipedia.org/wiki/master*piece "wikilink")）
   - [Keep It Goin' On](https://ja.wikipedia.org/wiki/Keep_It_Goin'_On "wikilink") （[三浦大知](../Page/三浦大知.md "wikilink")）
-  - [愛をこめて花束を](https://ja.wikipedia.org/wiki/愛をこめて花束を "wikilink")（[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")）
+  - [愛をこめて花束を](../Page/愛をこめて花束を.md "wikilink")（[Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")）
   - [恋の誕生日](https://ja.wikipedia.org/wiki/love_note "wikilink")（[坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink")）
   - 友情ブラザー（[SKELT 8 BAMBINO](../Page/SKELT_8_BAMBINO.md "wikilink")）
   - ダーティ・ファンク〜パーティは終わらない\! （[スティーヴ・アップルトン](https://ja.wikipedia.org/wiki/スティーヴ・アップルトン "wikilink")）

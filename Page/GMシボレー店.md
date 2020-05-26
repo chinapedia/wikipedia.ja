@@ -48,5 +48,5 @@
 2.  MW・クルーズ・オプトラについてはヤナセとして扱いはなかったが、これらの販売店で取り扱いがあった。
 3.  2007年に再びGMJへ移管が行われている。
 4.  それまでの間、GMJが[オペル](../Page/オペル.md "wikilink")・キャデラック・[サーブ](https://ja.wikipedia.org/wiki/サーブ "wikilink")・[ハマー](../Page/ハマー.md "wikilink")の輸入権を手にして以降、既存のGMシボレー店での新規取り扱いや新規店舗開設を進めたが、後にキャデラックとシボレーの２ブランド併売に落ち着く。
-5.  これらの店舗においては三井物産オートモーティブの輸入による[HHR](../Page/シボレー・HHR.md "wikilink")、[トラバース](https://ja.wikipedia.org/wiki/シボレー・トラバース "wikilink")、[タホ](../Page/シボレー・タホ.md "wikilink")、[シルバラードが併売されていた](https://ja.wikipedia.org/wiki/シボレー・シルバラード "wikilink")。
+5.  これらの店舗においては三井物産オートモーティブの輸入による[HHR](../Page/シボレー・HHR.md "wikilink")、[トラバース](https://ja.wikipedia.org/wiki/シボレー・トラバース "wikilink")、[タホ](../Page/シボレー・タホ.md "wikilink")、[シルバラードが併売されていた](../Page/シボレー・シルバラード.md "wikilink")。
 6.  GMシボレー店として取扱いが無かった時期（ヤナセ専売）・原則としてキャディラックディーラーの取り扱いとなっていた時期があった。現在は全店取扱い。

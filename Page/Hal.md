@@ -125,7 +125,7 @@
 
   - [Suger Pop](https://ja.wikipedia.org/wiki/Suger_Pop "wikilink")（1996年、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")）
   - [WEEKEND JOY](https://ja.wikipedia.org/wiki/WEEKEND_JOY "wikilink")（1997年、[NHK BS-2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
-  - [On・On・On](https://ja.wikipedia.org/wiki/On・On・On "wikilink")（1998年、[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
+  - [On・On・On](../Page/On・On・On.md "wikilink")（1998年、[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
 
 ### ラジオ（レギュラー）
 

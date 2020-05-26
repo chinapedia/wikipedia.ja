@@ -25,7 +25,7 @@
 
 2019年7月28日、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[宇田川町](../Page/宇田川町.md "wikilink")に所在する、[東急ハンズ渋谷店地下](https://ja.wikipedia.org/wiki/東急ハンズ#東急ハンズ "wikilink")2階にDHCグループの[CROSS FMと共同で新たにスタジオを開設した](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")\[30\]。2022年度から共同通信ビルが虎ノ門二丁目地区 第一種市街地再開発事業にて閉鎖予定ではあるが、当面は同社本社が所在する虎ノ門のスタジオからも配信は継続する予定。
 
-現在は株式会社[ボーイズ](../Page/ボーイズ_\(テレビ制作会社\).md "wikilink")、[WACホールディング](https://ja.wikipedia.org/wiki/WACホールディング "wikilink")株式会社、株式会社[NEXTEP](https://ja.wikipedia.org/wiki/ネクステップ "wikilink")の関連会社が同社のコンテンツを仕切る仕組みになっている。
+現在は株式会社[ボーイズ](../Page/ボーイズ_\(テレビ制作会社\).md "wikilink")、[WACホールディング](https://ja.wikipedia.org/wiki/WACホールディング "wikilink")株式会社、株式会社[NEXTEP](../Page/ネクステップ.md "wikilink")の関連会社が同社のコンテンツを仕切る仕組みになっている。
 
 ## 主な番組
 

@@ -298,7 +298,7 @@
   - [豊本明長](../Page/豊本明長.md "wikilink")
   - [東京03](https://ja.wikipedia.org/wiki/東京03 "wikilink")
   - [ミラノコレクションA.T.](../Page/ミラノコレクションA.T..md "wikilink")(元[新日本](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink"))新日担当
-  - [小佐野景浩](https://ja.wikipedia.org/wiki/小佐野景浩 "wikilink")
+  - [小佐野景浩](../Page/小佐野景浩.md "wikilink")
   - [若林健治](../Page/若林健治.md "wikilink")(元[日本テレビアナウンサー](../Page/日本テレビ放送網.md "wikilink"))
   - [須山浩継](../Page/須山浩継.md "wikilink")(「[大日大戦](../Page/大日大戦.md "wikilink")」解説、「[インディーのお仕事](../Page/インディーのお仕事.md "wikilink")」「[女子プロレスのお仕事](https://ja.wikipedia.org/wiki/女子プロレスのお仕事 "wikilink")」構成・声の出演、各女子プロレス中継等)
   - [鈴木健.txt](../Page/鈴木健_\(プロレス記者\).md "wikilink")([DDT中継など](../Page/DDTプロレスリング.md "wikilink"))

@@ -22,7 +22,7 @@
 目標となる人物像は、ICT活用によるビジネス価値の増大をリードできる「ビジネス・イノベーション・リーダー」である。
 
   - 受験資格：2級を合格している者。
-  - 試験方式：[CBT](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")(Computer Based Testing)
+  - 試験方式：[CBT](../Page/Computer_Based_Testing.md "wikilink")(Computer Based Testing)
   - 試験内容
       - 選択式テスト
       - 論述テスト

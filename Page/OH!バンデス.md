@@ -46,7 +46,7 @@
   - 2005年5月 : 仙台市の[藤崎百貨店にて](../Page/藤崎_\(百貨店\).md "wikilink")、番組で紹介した商品を集めた「OH\!バンデス日本全国おとり寄せフェア」を開催した。
   - 2005年9月26日 : 司会の浮ヶ谷美穂が番組内で婚約を発表した。
   - 2005年12月1日 : [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")での放送が開始（[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")・5.1chサラウンド放送）し、セットも再び一新された。また、スタジオも番組開始時からのJスタジオからUスタジオに移った。
-  - 2006年4月3日 : NNN系列のニュースが『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』から『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』に変わったため、第4部の県内ニュースパートが『OH\!バンデス NEWS PLUS 1』から『[Newsリアルタイムミヤギ](../Page/Newsリアルタイムミヤギ.md "wikilink")』と改題される。
+  - 2006年4月3日 : NNN系列のニュースが『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』から『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』に変わったため、第4部の県内ニュースパートが『OH\!バンデス NEWS PLUS 1』から『[Newsリアルタイムミヤギ](../Page/Newsリアルタイムミヤギ.md "wikilink")』と改題される。
   - 2006年6月20日 : [山形放送](../Page/山形放送.md "wikilink")『[ピヨ卵ワイド](../Page/ピヨ卵ワイド.md "wikilink")430』との交流コーナー「これ見て\!バンたま」が開始される。
   - 2006年6月27日 - 7月10日 : 宮城県内の[サンクス](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")119店で、期間限定で「宗さんイチ押しバンデス弁当」を発売する。番組がサンクスと共同で開発した弁当で、14日間で38,000個を売り上げた。
   - 2006年3月 - 2007年3月 : 宮城県北部を走っていた[第三セクター](../Page/第三セクター.md "wikilink")の[くりはら田園鉄道](../Page/くりはら田園鉄道.md "wikilink")の廃止までの1年を盛り上げるべく、「[くりでん応援プロジェクト](https://ja.wikipedia.org/wiki/#くりでん応援プロジェクト "wikilink")」を展開する。
@@ -650,7 +650,7 @@
 
 ### Newsリアルタイムミヤギ（『OH\!バンデス』第3部）
 
-『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までミヤギテレビで放送していた平日夕方の宮城県向けローカル報道番組。『OH\!バンデス』の第3部\[26\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
+『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")までミヤギテレビで放送していた平日夕方の宮城県向けローカル報道番組。『OH\!バンデス』の第3部\[26\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
 
 ### ミヤギnews every.（『OH\!バンデス』第3部→第4部）
 
@@ -662,7 +662,7 @@
 
   - [夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")
   - [NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")
   - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")
   - [ミヤギテレビニュースプラス1](../Page/ミヤギテレビニュースプラス1.md "wikilink")
   - [ニュースプラス1みやぎ](../Page/ニュースプラス1みやぎ.md "wikilink")

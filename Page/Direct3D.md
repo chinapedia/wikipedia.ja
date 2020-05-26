@@ -180,7 +180,7 @@ Direct3Dは2つの異なるディスプレイモードがある。
 
 ## 関連項目
 
-  - [High Level Shading Language](https://ja.wikipedia.org/wiki/High_Level_Shading_Language "wikilink") - HLSL
+  - [High Level Shading Language](../Page/High_Level_Shading_Language.md "wikilink") - HLSL
   - [Microsoft DirectX](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink") - Direct3Dを含むマルチメディアAPIの集合
   - [OpenGL](../Page/OpenGL.md "wikilink") - Direct3Dの競合となるクロスプラットフォームグラフィックスAPI
   - [DirectDraw](../Page/DirectDraw.md "wikilink")

@@ -104,7 +104,7 @@
 ### 2006年
 
   - [チック・コリア](../Page/チック・コリア.md "wikilink")
-  - [ザ・グレイト・ジャズ・トリオ](https://ja.wikipedia.org/wiki/グレイト・ジャズ・トリオ "wikilink") by [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")
+  - [ザ・グレイト・ジャズ・トリオ](../Page/グレイト・ジャズ・トリオ.md "wikilink") by [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")
   - [ジョン・パティトゥッチ](../Page/ジョン・パティトゥッチ.md "wikilink")
   - [オマー・ハキム](../Page/オマー・ハキム.md "wikilink")
   - [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")
@@ -162,7 +162,7 @@
   - [jammin'Zeb](https://ja.wikipedia.org/wiki/jammin'Zeb "wikilink")
   - [上原ひろみ](https://ja.wikipedia.org/wiki/上原ひろみ "wikilink")
   - [熊谷和徳](https://ja.wikipedia.org/wiki/熊谷和徳 "wikilink")
-  - [ザ・グレイト・ジャズ・トリオ](https://ja.wikipedia.org/wiki/グレイト・ジャズ・トリオ "wikilink")
+  - [ザ・グレイト・ジャズ・トリオ](../Page/グレイト・ジャズ・トリオ.md "wikilink")
   - [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")＆[ロン・カーター](../Page/ロン・カーター.md "wikilink")＆[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
 
 <!-- end list -->

@@ -15,7 +15,7 @@ Compaq Portable の基本ハードウェアは[IBM PC/XTと同じであるが](h
 
 また、[CGA互換のディスプレイカードも内蔵しており](../Page/Color_Graphics_Adapter.md "wikilink")、外部のモニターに接続してカラーで[表計算ソフト](../Page/表計算ソフト.md "wikilink")のグラフィック表示ができた。当時、表計算ソフトでグラフをカラー表示できるかどうかがコンピュータのセールスを大きく左右していたと言われる。
 
-コンパックが成功したのは、IBMが一般に手に入る部品でPCを作ったことが根本の原因である。そして、同時に[マイクロソフト](../Page/マイクロソフト.md "wikilink")社がIBM以外に[MS-DOS](../Page/MS-DOS.md "wikilink")をライセンス販売したことも一因である。ひとつだけコピーする必要があったのは[BIOSだけであった](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。コンパックはそれに関しても法律を守り、100万ドルをかけて[クリーンルーム設計](https://ja.wikipedia.org/wiki/クリーンルーム設計 "wikilink")の[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")で機能を再現した。
+コンパックが成功したのは、IBMが一般に手に入る部品でPCを作ったことが根本の原因である。そして、同時に[マイクロソフト](../Page/マイクロソフト.md "wikilink")社がIBM以外に[MS-DOS](../Page/MS-DOS.md "wikilink")をライセンス販売したことも一因である。ひとつだけコピーする必要があったのは[BIOSだけであった](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。コンパックはそれに関しても法律を守り、100万ドルをかけて[クリーンルーム設計](../Page/クリーンルーム設計.md "wikilink")の[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")で機能を再現した。
 
 しかし、他社も互換機市場に参入してくるのに時間はかからなかった。もっとも、コンパックが実現したほとんど完全な互換性(95%の互換性と言われている)を他社が達成できるのは[フェニックス・テクノロジーズ社などが同様にクリーンルーム設計のリバースエンジニアリングによって作ったBIOSをリリースしてからである](https://ja.wikipedia.org/wiki/:en:Phoenix_Technologies "wikilink")。
 

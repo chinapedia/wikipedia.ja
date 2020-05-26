@@ -77,7 +77,7 @@
   - [1947年](../Page/1947年.md "wikilink")（昭和22年）6月 - 鶴見製鉄所操業開始。
   - [1949年](../Page/1949年.md "wikilink")（昭和24年）4月 - 鋼管鉱業株式会社（現・[JFEミネラル](../Page/JFEミネラル.md "wikilink")）を設立。
   - 1949年（昭和24年）[5月16日](../Page/5月16日.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")・[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")に株式上場。
-  - 1949年（昭和24年）[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 東海運輸株式会社（現・[JFE物流](https://ja.wikipedia.org/wiki/JFE物流 "wikilink")）を設立。
+  - 1949年（昭和24年）[6月2日](../Page/6月2日.md "wikilink") - 東海運輸株式会社（現・[JFE物流](https://ja.wikipedia.org/wiki/JFE物流 "wikilink")）を設立。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）2月 - 水江製鉄所発足。
   - 1959年（昭和34年）[8月1日](../Page/8月1日.md "wikilink") - 日本鋼管工事株式会社（現・[JFE工建](https://ja.wikipedia.org/wiki/JFE工建 "wikilink")）を設立。[横浜ヨット](https://ja.wikipedia.org/wiki/横浜ヨット "wikilink")を子会社化。
   - [1960年](../Page/1960年.md "wikilink")（昭和35年）11月 - 日本鋼管ライトスチール株式会社（現・[JFE建材](https://ja.wikipedia.org/wiki/JFE建材 "wikilink")）を設立。

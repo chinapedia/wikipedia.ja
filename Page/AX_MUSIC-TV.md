@@ -95,7 +95,7 @@
 46. 046 「カノン」[cune](https://ja.wikipedia.org/wiki/cune "wikilink")
 47. 047 「鴉<KARASU>」[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")
 48. 048 「[螢火](https://ja.wikipedia.org/wiki/螢火/Show_Time "wikilink")」[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")
-49. 049 「[Albireo -アルビレオ-](https://ja.wikipedia.org/wiki/Albireo_-アルビレオ- "wikilink")」[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
+49. 049 「[Albireo -アルビレオ-](../Page/Albireo_-アルビレオ-.md "wikilink")」[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
 50. 050 「[SCREEN OF LIFE](../Page/NETWORK_TM.md "wikilink")」[TM NETWORK](../Page/TM_NETWORK.md "wikilink")
 51. 051 「Purple Sky」[CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")
 52. 052 「[モノクロームエフェクト](../Page/モノクロームエフェクト.md "wikilink")」[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")

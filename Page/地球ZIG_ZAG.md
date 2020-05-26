@@ -9,7 +9,7 @@
 
 毎週応募によって選ばれた一般人が1人で約1週間[海外](../Page/海外.md "wikilink")の町・村・島などに滞在し、現地の人々と交流しながら、様々な[体験](https://ja.wikipedia.org/wiki/体験 "wikilink")や[修行](../Page/修行.md "wikilink")をし、帰国後、その体験をスタジオで報告する[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組として放送された。のちに[ヴェルディなどでプレーする](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[三浦知良](../Page/三浦知良.md "wikilink")など、本番組の放送当時、日本ではまだ無名だった人物もいち早く取り上げられた。番組内では、報告者を隊員、司会者は隊長・副隊長と呼ばれ、スタジオには毎回1名または2名のゲストが招かれた。本番組のコンセプトは、 のちに本番組と同じテレビマンユニオンが製作した『[世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")』に受け継がれた。
 
-テーマ[音楽](../Page/音楽.md "wikilink")は小笠原寛（現・[手使海ユトロ](https://ja.wikipedia.org/wiki/手使海ユトロ "wikilink")）が手掛け、[VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")中の[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は一貫して[池田秀一](../Page/池田秀一.md "wikilink")が担当した。また、番組の冒頭には「**ZIGZAGとは、地球を駆ける若者達の足音**」との[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")が付された。
+テーマ[音楽](../Page/音楽.md "wikilink")は小笠原寛（現・[手使海ユトロ](../Page/手使海ユトロ.md "wikilink")）が手掛け、[VTR](https://ja.wikipedia.org/wiki/VTR "wikilink")中の[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は一貫して[池田秀一](../Page/池田秀一.md "wikilink")が担当した。また、番組の冒頭には「**ZIGZAGとは、地球を駆ける若者達の足音**」との[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")が付された。
 
 ## 歴代司会者
 

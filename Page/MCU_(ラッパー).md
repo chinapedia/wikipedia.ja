@@ -74,7 +74,7 @@
 1.  [A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink") 2005年5月11日
 2.  [A.K.A](../Page/A.K.A.md "wikilink") 2007年6月20日
 3.  [SHU・HA・RI〜STILL LOVE〜](https://ja.wikipedia.org/wiki/SHU・HA・RI〜STILL_LOVE〜 "wikilink") 2009年3月11日
-4.  [BEST OF MCU](https://ja.wikipedia.org/wiki/BEST_OF_MCU "wikilink") 2010年2月10日
+4.  [BEST OF MCU](../Page/BEST_OF_MCU.md "wikilink") 2010年2月10日
 
 ### 楽曲参加など
 

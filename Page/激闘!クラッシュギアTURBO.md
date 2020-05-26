@@ -2006,7 +2006,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>ギアを賭けたファイト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小野学_(アニメーション監督)" title="wikilink">小野学</a></p></td>
 <td><p>米山浩平</p></td>
 <td><p><a href="../Page/11月18日.md" title="wikilink">11月18日</a></p></td>
@@ -2292,7 +2292,7 @@
 小野学</p></td>
 <td><p>小倉宏文</p></td>
 <td><p>高橋晃</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>

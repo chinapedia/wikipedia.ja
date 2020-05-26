@@ -94,7 +94,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ファビュラス・ムーラ" title="wikilink">ファビュラス・ムーラ</a></p></td>
+<td><p><a href="../Page/ファビュラス・ムーラ.md" title="wikilink">ファビュラス・ムーラ</a></p></td>
 <td><p><a href="../Page/デブラ・ミセリー.md" title="wikilink">アランドラ・ブレイズ</a></p></td>
 </tr>
 <tr class="odd">
@@ -245,17 +245,17 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 
 3月31日、[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")のフォックス・シアターにて表彰式を開催。
 
-|                                                                                                                                                        |                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **表彰者**                                                                                                                                                | **インダクター**                                                                                               |
-| [ダスティ・ローデス](../Page/ダスティ・ローデス.md "wikilink")                                                                                                           | [コーディ・ローデス](../Page/コーディ・ローデス.md "wikilink")&[ダスティン・ローデス](../Page/ダスティン・ローデス.md "wikilink")              |
-| [カート・ヘニング](../Page/カート・ヘニング.md "wikilink")                                                                                                             | [ウェイド・ボッグス](../Page/ウェイド・ボッグス.md "wikilink")                                                             |
-| ジェリー・ローラー                                                                                                                                              | [ウィリアム・シャトナー](../Page/ウィリアム・シャトナー.md "wikilink")                                                         |
-| [ニック・ボックウィンクル](../Page/ニック・ボックウィンクル.md "wikilink")                                                                                                     | ボビー・ヒーナン                                                                                                 |
-| [ミスター・フジ](../Page/ハリー藤原.md "wikilink")                                                                                                                 | ドン・ムラコ                                                                                                   |
-| [ザ・シーク](../Page/ザ・シーク.md "wikilink")                                                                                                                   | [ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")&[サブゥー](../Page/サブゥー.md "wikilink")                          |
-| [ワイルド・サモアンズ](../Page/ワイルド・サモアンズ.md "wikilink")（[アファ・アノアイ](../Page/アファ・アノアイ.md "wikilink")、[シカ・アノアイ](https://ja.wikipedia.org/wiki/シカ・アノアイ "wikilink")） | [サムラ・アノアイ](https://ja.wikipedia.org/wiki/サムラ・アノアイ "wikilink")&[マット・アノアイ](../Page/マット・アノアイ.md "wikilink") |
-| ジム・ロス                                                                                                                                                  | ストーン・コールド・スティーブ・オースチン|スティーブ・オースチン                                                                        |
+|                                                                                                                                     |                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **表彰者**                                                                                                                             | **インダクター**                                                                                               |
+| [ダスティ・ローデス](../Page/ダスティ・ローデス.md "wikilink")                                                                                        | [コーディ・ローデス](../Page/コーディ・ローデス.md "wikilink")&[ダスティン・ローデス](../Page/ダスティン・ローデス.md "wikilink")              |
+| [カート・ヘニング](../Page/カート・ヘニング.md "wikilink")                                                                                          | [ウェイド・ボッグス](../Page/ウェイド・ボッグス.md "wikilink")                                                             |
+| ジェリー・ローラー                                                                                                                           | [ウィリアム・シャトナー](../Page/ウィリアム・シャトナー.md "wikilink")                                                         |
+| [ニック・ボックウィンクル](../Page/ニック・ボックウィンクル.md "wikilink")                                                                                  | ボビー・ヒーナン                                                                                                 |
+| [ミスター・フジ](../Page/ハリー藤原.md "wikilink")                                                                                              | ドン・ムラコ                                                                                                   |
+| [ザ・シーク](../Page/ザ・シーク.md "wikilink")                                                                                                | [ロブ・ヴァン・ダム](../Page/ロブ・ヴァン・ダム.md "wikilink")&[サブゥー](../Page/サブゥー.md "wikilink")                          |
+| [ワイルド・サモアンズ](../Page/ワイルド・サモアンズ.md "wikilink")（[アファ・アノアイ](../Page/アファ・アノアイ.md "wikilink")、[シカ・アノアイ](../Page/シカ・アノアイ.md "wikilink")） | [サムラ・アノアイ](https://ja.wikipedia.org/wiki/サムラ・アノアイ "wikilink")&[マット・アノアイ](../Page/マット・アノアイ.md "wikilink") |
+| ジム・ロス                                                                                                                               | ストーン・コールド・スティーブ・オースチン|スティーブ・オースチン                                                                        |
 
 ### 2008年
 
@@ -276,7 +276,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 <td><p><a href="https://ja.wikipedia.org/wiki/ザ・ロック_(プロレスラー)" title="wikilink">ザ・ロック</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロッキー・ジョンソン" title="wikilink">ロッキー・ジョンソン</a></p></td>
+<td><p><a href="../Page/ロッキー・ジョンソン.md" title="wikilink">ロッキー・ジョンソン</a></p></td>
 <td><p>ザ・ロック</p></td>
 </tr>
 <tr class="odd">
@@ -578,7 +578,7 @@ WWE殿堂が設定されたきっかけは、[1993年](../Page/1993年.md "wikil
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/チャールズ・ライト_(プロレスラー)" title="wikilink">ゴッドファーザー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アコライツ・プロテクション・エージェンシー" title="wikilink">APA</a>（ジョン・ブラッドショー・レイフィールド＆ロン・シモンズ）</p></td>
+<td><p><a href="../Page/アコライツ・プロテクション・エージェンシー.md" title="wikilink">APA</a>（ジョン・ブラッドショー・レイフィールド＆ロン・シモンズ）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファビュラス・フリーバーズ" title="wikilink">ファビュラス・フリーバーズ</a><br />

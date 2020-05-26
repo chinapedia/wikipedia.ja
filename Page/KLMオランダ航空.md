@@ -202,7 +202,7 @@ KLMが発注した[ボーイング](../Page/ボーイング.md "wikilink")社製
 <td><p><a href="../Page/ベルゲン.md" title="wikilink">ベルゲン</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスチャンサン" title="wikilink">クリスチャンサン</a></p></td>
+<td><p><a href="../Page/クリスチャンサン.md" title="wikilink">クリスチャンサン</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/サンデフィヨルド" title="wikilink">サンデフィヨルド</a></p></td>

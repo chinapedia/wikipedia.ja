@@ -185,7 +185,7 @@
   - [スクリーム](../Page/スクリーム.md "wikilink")
   - [イレイザー](../Page/イレイザー_\(映画\).md "wikilink")
   - キングピン ストライクへの道
-  - [ジングル・オール・ザ・ウェイ](https://ja.wikipedia.org/wiki/ジングル・オール・ザ・ウェイ "wikilink")
+  - [ジングル・オール・ザ・ウェイ](../Page/ジングル・オール・ザ・ウェイ.md "wikilink")
   - ストレンジャー
   - プロブレムでぶ 何でそうなるの?\!
 
@@ -220,7 +220,7 @@
   - [タロス・ザ・マミー/呪いの封印](https://ja.wikipedia.org/wiki/タロス・ザ・マミー/呪いの封印 "wikilink")
   - オーメン18エンジェル
   - [シンプル・プラン](https://ja.wikipedia.org/wiki/シンプル・プラン_\(映画\) "wikilink")
-  - [ベリー・バッド・ウェディング](https://ja.wikipedia.org/wiki/ベリー・バッド・ウェディング "wikilink")
+  - [ベリー・バッド・ウェディング](../Page/ベリー・バッド・ウェディング.md "wikilink")
   - [絶体×絶命](https://ja.wikipedia.org/wiki/絶体×絶命 "wikilink")
   - ファンタズムIV
 
@@ -234,7 +234,7 @@
   - [TATARI タタリ](../Page/TATARI_タタリ.md "wikilink")
   - [フロム・ダスク・ティル・ドーン2](https://ja.wikipedia.org/wiki/フロム・ダスク・ティル・ドーン2 "wikilink")
   - BATS 蝙蝠地獄
-  - [エンド・オブ・デイズ](https://ja.wikipedia.org/wiki/エンド・オブ・デイズ "wikilink")
+  - [エンド・オブ・デイズ](../Page/エンド・オブ・デイズ.md "wikilink")
   - [ホーンティング](https://ja.wikipedia.org/wiki/ホーンティング "wikilink")
   - [ユニバーサル・ソルジャー/ザ・リターン](https://ja.wikipedia.org/wiki/ユニバーサル・ソルジャー/ザ・リターン "wikilink")
   - [ラビナス](https://ja.wikipedia.org/wiki/ラビナス_\(1999年の映画\) "wikilink")
@@ -366,7 +366,7 @@
 <!-- end list -->
 
   - [ディスタービア](https://ja.wikipedia.org/wiki/ディスタービア "wikilink")
-  - [パーフェクト・ストレンジャー](https://ja.wikipedia.org/wiki/パーフェクト・ストレンジャー "wikilink")
+  - [パーフェクト・ストレンジャー](../Page/パーフェクト・ストレンジャー.md "wikilink")
   - [デス・プルーフ in グラインドハウス](../Page/デス・プルーフ_in_グラインドハウス.md "wikilink")
   - [トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")
   - [プラネット・テラー in グラインドハウス](../Page/プラネット・テラー_in_グラインドハウス.md "wikilink")

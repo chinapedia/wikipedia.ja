@@ -27,7 +27,7 @@
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[EPICソニーから](../Page/エピックレコードジャパン.md "wikilink")[LPにてリリースされた](../Page/レコード.md "wikilink")。
 
-[1989年](../Page/1989年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")には[CDにて再リリースされた](../Page/コンパクトディスク.md "wikilink")。その後[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
+[1989年](../Page/1989年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")には[CDにて再リリースされた](../Page/コンパクトディスク.md "wikilink")。その後[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
 
 [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")には単独で紙ジャケット、デジタルリマスタリング仕様でリリースされ\[11\]、[2013年](../Page/2013年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にはデジタルリマスタリング仕様で[Blu-spec CD2にてリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
@@ -130,7 +130,7 @@
 <td><p>CD</p></td>
 <td><p>ESCL-2523</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
 <a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット</a>、24bitデジタルリマスタリング仕様</p></td>
 </tr>
 <tr class="even">

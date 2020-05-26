@@ -303,7 +303,7 @@ V.A.
 <!-- end list -->
 
   -
-    →2003年に[Dを結成](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink")。
+    →2003年に[Dを結成](../Page/D_\(バンド\).md "wikilink")。
     →SINは失踪の為脱退。
 
 <!-- end list -->

@@ -458,7 +458,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 
 <!-- end list -->
 
-  - 2011年10月18日 [オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[SPARC T4プロセッサ搭載のサーバ製品を発表](https://ja.wikipedia.org/wiki/SPARC_T4 "wikilink")。
+  - 2011年10月18日 [オラクル](../Page/オラクル_\(企業\).md "wikilink")、[SPARC T4プロセッサ搭載のサーバ製品を発表](https://ja.wikipedia.org/wiki/SPARC_T4 "wikilink")。
 
 <!-- end list -->
 

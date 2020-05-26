@@ -392,7 +392,7 @@
   - 原作 - [吉田秋生](../Page/吉田秋生.md "wikilink")\[14\]
   - 監督 - [内海紘子](https://ja.wikipedia.org/wiki/内海紘子 "wikilink")\[15\]
   - シリーズ構成・脚本 - [瀬古浩司](https://ja.wikipedia.org/wiki/瀬古浩司 "wikilink")\[16\]
-  - キャラクターデザイン - [林明美](https://ja.wikipedia.org/wiki/林明美 "wikilink")\[17\]
+  - キャラクターデザイン - [林明美](../Page/林明美.md "wikilink")\[17\]
   - 総作画監督 - 山田歩、鎌田晋平\[18\]
   - ハードボイルド監修・プロップデザイン - 久木晃嗣\[19\]
   - 美術監督 - 水谷利春\[20\]

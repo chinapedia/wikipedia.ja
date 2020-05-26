@@ -1,7 +1,7 @@
 > この記事は[Kazaa Lite](https://ja.wikipedia.org/wiki/Kazaa_Lite)から翻訳されています。
 
 
-**Kazaa Lite**（カザー ライト、**K-Lite**）はFastTrack ネットワークに接続する[ピア・ツー・ピアの](../Page/Peer_to_Peer.md "wikilink")[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")。同じくファイル共有ソフトのKazaaの無許可修正版であり、[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")されている[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")や[アドウェア](../Page/アドウェア.md "wikilink")をKazaaから取り除いたものである。K++ Loader と KL Extensionsプラグインによって多くの付加機能が加えられている。
+**Kazaa Lite**（カザー ライト、**K-Lite**）はFastTrack ネットワークに接続する[ピア・ツー・ピアの](../Page/Peer_to_Peer.md "wikilink")[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")。同じくファイル共有ソフトのKazaaの無許可修正版であり、[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")されている[スパイウェア](../Page/スパイウェア.md "wikilink")や[アドウェア](../Page/アドウェア.md "wikilink")をKazaaから取り除いたものである。K++ Loader と KL Extensionsプラグインによって多くの付加機能が加えられている。
 
 ## 概要
 

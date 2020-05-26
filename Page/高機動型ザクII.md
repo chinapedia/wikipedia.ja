@@ -368,7 +368,7 @@ R-2型と次期主力機コンペティションを行ったMS-09R [リック・
 
 ## 関連項目
 
-  - [宇宙世紀の登場機動兵器一覧](https://ja.wikipedia.org/wiki/宇宙世紀の登場機動兵器一覧 "wikilink")
+  - [宇宙世紀の登場機動兵器一覧](../Page/宇宙世紀の登場機動兵器一覧.md "wikilink")
   - [ザクシリーズのバリエーション](../Page/ザクシリーズのバリエーション.md "wikilink")
   - [ザクアメイジング](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ#ザクアメイジング "wikilink") - テレビアニメ『[ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")』に登場する[ガンプラ](../Page/ガンプラ.md "wikilink")。「HGUC 高機動型ザクII」を改造したもの。
 

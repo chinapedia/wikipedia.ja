@@ -41,7 +41,7 @@
       - [坂木優子](../Page/坂木優子.md "wikilink")
       - [明石亮太朗](https://ja.wikipedia.org/wiki/明石亮太朗 "wikilink")
       - [井上晴美](https://ja.wikipedia.org/wiki/井上晴美 "wikilink")
-      - [沢村亜津佐](https://ja.wikipedia.org/wiki/沢村亜津佐 "wikilink")
+      - [沢村亜津佐](../Page/沢村亜津佐.md "wikilink")
 
 <!-- end list -->
 

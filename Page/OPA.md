@@ -34,7 +34,7 @@
     1月1日に、親会社のダイエーがイオンの完全子会社となったことに伴い、OPAもイオングループのストアブランドとなる。
     同年11月17日にイオンがグループ内の都市型ファッションビル・ディベロッパー事業の再編を行うことを発表。
   - [2016年](../Page/2016年.md "wikilink")
-    3月1日付で[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")内にある[ビブレ](../Page/ビブレ.md "wikilink")・[フォーラス](../Page/フォーラス.md "wikilink")事業部をOPAへ統合。[株式交換](../Page/株式交換.md "wikilink")により、ダイエーからイオングループの[イオンモール](../Page/イオンモール.md "wikilink")の完全子会社となった。また会社もダイエー本社が入居する[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽の東陽駅前ビルから千葉県に移動した](https://ja.wikipedia.org/wiki/東陽_\(江東区\) "wikilink")。
+    3月1日付で[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")内にある[ビブレ](../Page/ビブレ.md "wikilink")・[フォーラス](../Page/フォーラス.md "wikilink")事業部をOPAへ統合。[株式交換](../Page/株式交換.md "wikilink")により、ダイエーからイオングループの[イオンモール](../Page/イオンモール.md "wikilink")の完全子会社となった。また会社もダイエー本社が入居する[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽の東陽駅前ビルから千葉県に移動した](../Page/東陽_\(江東区\).md "wikilink")。
     これにより、ダイエー系列の「OPA」（9店）・イオン系列の「フォーラス」（4店）・旧[マイカル](../Page/マイカル.md "wikilink")系列の「ビブレ」（8店）の3ブランドの運営会社が1社（一部店舗を除く\[2\]）に統合・集約された\[3\]\[4\]。統合当初よりフォーラス店舗については順次オーパに転換する方針としていたが\[5\]\[6\]\[7\]、2019年以降はビブレをOPAに転換するケースも見られるようになった。
   - [2017年](../Page/2017年.md "wikilink")
     [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - この日開業の「三宮オーパ2」より新ロゴを導入\[8\]。
@@ -43,7 +43,7 @@
 
   - [2006年](../Page/2006年.md "wikilink")
       - [3月1日](../Page/3月1日.md "wikilink") - 株式会社[十字屋からOPA事業を](../Page/十字屋_\(百貨店\).md "wikilink")[会社分割](../Page/会社分割.md "wikilink")して、**株式会社OPA**設立。
-      - 6月 - 本社所在地を、[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[柳橋二丁目](https://ja.wikipedia.org/wiki/柳橋_\(神田川\) "wikilink")20番11号から東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽二丁目](https://ja.wikipedia.org/wiki/東陽_\(江東区\) "wikilink")2番20号に変更。
+      - 6月 - 本社所在地を、[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[柳橋二丁目](https://ja.wikipedia.org/wiki/柳橋_\(神田川\) "wikilink")20番11号から東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽二丁目](../Page/東陽_\(江東区\).md "wikilink")2番20号に変更。
   - [2016年](../Page/2016年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - イオンリテール株式会社のビブレ・フォーラス事業部を統合し、株式交換によりイオンモール株式会社の完全子会社となる\[9\]\[10\]。
 
 ## 店舗

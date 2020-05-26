@@ -1,13 +1,13 @@
 > この記事は[徳川慶喜 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/徳川慶喜_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**徳川慶喜**』（とくがわよしのぶ）は、[NHKにおいて](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")から[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に放送された[大河ドラマ](../Page/大河ドラマ.md "wikilink")第37作。原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")作の『[最後の将軍 徳川慶喜](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』、脚本を[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")が担当、主演は[本木雅弘](../Page/本木雅弘.md "wikilink")。
+『**徳川慶喜**』（とくがわよしのぶ）は、[NHKにおいて](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月4日](../Page/1月4日.md "wikilink")から[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に放送された[大河ドラマ](../Page/大河ドラマ.md "wikilink")第37作。原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")作の『[最後の将軍 徳川慶喜](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』、脚本を[田向正健](../Page/田向正健.md "wikilink")が担当、主演は[本木雅弘](../Page/本木雅弘.md "wikilink")。
 
 ## 概要
 
 原作は司馬遼太郎が[1960年代](../Page/1960年代.md "wikilink")に執筆した中編小説『[最後の将軍 徳川慶喜](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』（[文春文庫](../Page/文春文庫.md "wikilink")ほか）。司馬の原作が短いので、本作では他に、[渋沢栄一](../Page/渋沢栄一.md "wikilink")らが編んだ基礎史料たる『[徳川慶喜公伝](https://ja.wikipedia.org/wiki/徳川慶喜公伝 "wikilink")』（[平凡社東洋文庫](https://ja.wikipedia.org/wiki/平凡社東洋文庫 "wikilink")\[1\] 全4巻）を参考に、随所で原作以上に用いた。
 
-大河ドラマで幕末を題材にしたのは、同じ司馬遼太郎原作で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』以来の8年ぶり。主演・本木雅弘は、[1991年](../Page/1991年.md "wikilink")の『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』以来で、2度目の大河ドラマ出演で主役抜擢された。脚本は『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）や『[信長](../Page/信長_KING_OF_ZIPANGU.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）などを手がけた[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")。
+大河ドラマで幕末を題材にしたのは、同じ司馬遼太郎原作で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』以来の8年ぶり。主演・本木雅弘は、[1991年](../Page/1991年.md "wikilink")の『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』以来で、2度目の大河ドラマ出演で主役抜擢された。脚本は『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）や『[信長](../Page/信長_KING_OF_ZIPANGU.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）などを手がけた[田向正健](../Page/田向正健.md "wikilink")。
 
 [江戸幕府](../Page/江戸幕府.md "wikilink")最後の[征夷大将軍](../Page/征夷大将軍.md "wikilink")・[徳川慶喜](../Page/徳川慶喜.md "wikilink")が主人公の視点から幕末の政治劇を描く。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を担当したのは[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")で、大原演じる[新門辰五郎](../Page/新門辰五郎.md "wikilink")の妻れん（架空人物）が当時を回顧する体で物語を進めていた。[江戸っ子](../Page/江戸っ子.md "wikilink")のれんが江戸弁で砕けたナレーションを行なうという設定のため、慶喜を「ケイキさん」と呼んだり\[2\]「これは後から判ったことなんだけど」「ここだけの話なんだけど」「わっちら下々の者は知らなかったんだけど」といったフレーズがよく用いられた。
 
@@ -324,7 +324,7 @@
       -
         [弘道館](../Page/弘道館.md "wikilink")の下働き。
   - 猪吉：[大川浩樹](https://ja.wikipedia.org/wiki/大川浩樹 "wikilink")
-  - さくら：[小林美香](https://ja.wikipedia.org/wiki/小林美香 "wikilink")→[野村知沙](https://ja.wikipedia.org/wiki/野村知沙 "wikilink")→[池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")→[田中伸子](https://ja.wikipedia.org/wiki/田中伸子 "wikilink")
+  - さくら：[小林美香](https://ja.wikipedia.org/wiki/小林美香 "wikilink")→[野村知沙](https://ja.wikipedia.org/wiki/野村知沙 "wikilink")→[池脇千鶴](https://ja.wikipedia.org/wiki/池脇千鶴 "wikilink")→[田中伸子](../Page/田中伸子.md "wikilink")
       -
         幸吉の孫娘。慶喜の侍女で幼馴染同然に育ったが、言われたことを鵜呑みにしてしまう性格が最大の難点。さくらの存在を嫌う直子やその同調者の策略で使いに出され失踪する。後に京で芸者となり、慶喜と再会する。
   - 高部：[園佳也子](../Page/園佳也子.md "wikilink")
@@ -348,7 +348,7 @@
 
 ## スタッフ
 
-  - 脚本：[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")
+  - 脚本：[田向正健](../Page/田向正健.md "wikilink")
   - 原作：[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")（『[最後の将軍](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』より）
   - 脚本資料提供：[渋沢資料館](https://ja.wikipedia.org/wiki/渋沢資料館 "wikilink")、『徳川慶喜公伝』（[渋沢栄一](../Page/渋沢栄一.md "wikilink")編、[平凡社東洋文庫](https://ja.wikipedia.org/wiki/平凡社東洋文庫 "wikilink")）
   - 音楽：[湯浅譲二](../Page/湯浅譲二.md "wikilink")

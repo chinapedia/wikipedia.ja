@@ -45,7 +45,7 @@ image:Bell UH-1B Iroquois on airfield.jpg|クリーン形態のUH-1B image:UH-1B
 
 #### 米海兵隊
 
-[TK-2_TAT-101_Picture.jpg](https://ja.wikipedia.org/wiki/File:TK-2_TAT-101_Picture.jpg "fig:TK-2_TAT-101_Picture.jpg") [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")は、[OH-43Dおよび](../Page/H-43_\(航空機\).md "wikilink")[O-1](https://ja.wikipedia.org/wiki/O-1_\(航空機\) "wikilink")[連絡](../Page/連絡機.md "wikilink")・[観測機](../Page/観測機.md "wikilink")の後継としてUH-1を選定、[1964年](../Page/1964年.md "wikilink")2月に<span id="UH-1E">**UH-1E**</span>を受領して、運用を開始した。これは、UH-1Bの後期生産型をベースに、[陸軍のUH](../Page/アメリカ陸軍.md "wikilink")-1Cで採用されたのと同様のモデル540ローターを搭載するとともに、海兵隊の運用要求に応じた小改正を加えたものである。
+[TK-2_TAT-101_Picture.jpg](https://ja.wikipedia.org/wiki/File:TK-2_TAT-101_Picture.jpg "fig:TK-2_TAT-101_Picture.jpg") [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")は、[OH-43Dおよび](../Page/H-43_\(航空機\).md "wikilink")[O-1](../Page/O-1_\(航空機\).md "wikilink")[連絡](../Page/連絡機.md "wikilink")・[観測機](../Page/観測機.md "wikilink")の後継としてUH-1を選定、[1964年](../Page/1964年.md "wikilink")2月に<span id="UH-1E">**UH-1E**</span>を受領して、運用を開始した。これは、UH-1Bの後期生産型をベースに、[陸軍のUH](../Page/アメリカ陸軍.md "wikilink")-1Cで採用されたのと同様のモデル540ローターを搭載するとともに、海兵隊の運用要求に応じた小改正を加えたものである。
 
 海兵隊では、スリック用途には専用の[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")である[HUS-1（CH-34）](../Page/シコルスキー_S-58.md "wikilink")、およびその後継の[HRB-1（CH-46）を](../Page/V-107.md "wikilink")、[近接航空支援](../Page/近接航空支援.md "wikilink")には固定翼[攻撃機](../Page/攻撃機.md "wikilink")を充当しており、UH-1Eは、当初は主として連絡・観測・負傷者後送用途で使用されていた。しかしまもなく、陸軍のUH-1Bをモデルに、[ガンシップ](../Page/ガンシップ.md "wikilink")用途への投入が検討されるようになっていった。
 

@@ -240,7 +240,7 @@
 <em>Chaplin</em></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チャーリー・チャップリン" title="wikilink">チャーリー・チャップリン</a></p></td>
 <td><p><a href="../Page/英国アカデミー賞_主演男優賞.md" title="wikilink">英国アカデミー賞 主演男優賞</a> 受賞<br />
-<a href="https://ja.wikipedia.org/wiki/ロンドン映画批評家協会賞" title="wikilink">ロンドン映画批評家協会賞</a> 男優賞受賞<br />
+<a href="../Page/ロンドン映画批評家協会賞.md" title="wikilink">ロンドン映画批評家協会賞</a> 男優賞受賞<br />
 <a href="../Page/アカデミー主演男優賞.md" title="wikilink">アカデミー主演男優賞</a> ノミネート<br />
 <a href="../Page/ゴールデングローブ賞.md" title="wikilink">ゴールデングローブ賞</a> 主演男優賞（ドラマ部門）ノミネート</p></td>
 <td><p>山寺宏一</p></td>

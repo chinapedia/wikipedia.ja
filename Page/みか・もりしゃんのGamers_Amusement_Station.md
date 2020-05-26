@@ -82,7 +82,7 @@
 
   - ＃17（ 1月21日） [鈴木達央](../Page/鈴木達央.md "wikilink")
   - ＃18（ 1月28日） [佐藤裕美](../Page/佐藤ひろ美.md "wikilink")
-  - ＃19（ 2月 4日） [BELOVED](../Page/BELOVED_\(ユニット\).md "wikilink")(ビラビド)（[野島健児](../Page/野島健児_\(声優\).md "wikilink")・[沢口千恵](../Page/沢口千恵.md "wikilink")・[石橋優子](https://ja.wikipedia.org/wiki/石橋優子 "wikilink")・佐藤千裕・鈴木利宗）
+  - ＃19（ 2月 4日） [BELOVED](../Page/BELOVED_\(ユニット\).md "wikilink")(ビラビド)（[野島健児](../Page/野島健児_\(声優\).md "wikilink")・[沢口千恵](../Page/沢口千恵.md "wikilink")・[石橋優子](../Page/石橋優子.md "wikilink")・佐藤千裕・鈴木利宗）
   - ＃21（ 2月18日）[谷山紀章](../Page/谷山紀章.md "wikilink")
   - ＃28（ 4月 8日）[勝杏里](../Page/勝杏里.md "wikilink")
   - ＃29（ 4月15日）つっつう（[筒井武](../Page/筒井武.md "wikilink")）※

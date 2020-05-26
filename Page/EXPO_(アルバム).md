@@ -43,7 +43,7 @@
 
 [1991年](../Page/1991年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に[EPIC・ソニーより](../Page/エピックレコードジャパン.md "wikilink")、[CD](../Page/コンパクトディスク.md "wikilink")、[CTの](../Page/コンパクトカセット.md "wikilink")2形態でリリースされた。初回限定版は[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様となっており、未発表ビデオおよび未発表曲入りの[8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")が贈呈されるキャンペーンの応募券が付属していた。
 
-その後も[1992年](../Page/1992年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[ミニディスク](../Page/ミニディスク.md "wikilink")としてリリースされた他、[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")とCD盤のみ再リリースされ、[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
+その後も[1992年](../Page/1992年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に[ミニディスク](../Page/ミニディスク.md "wikilink")としてリリースされた他、[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")とCD盤のみ再リリースされ、[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
 
 [2014年](../Page/2014年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にはデジタルリマスタリング仕様で[Blu-spec CD2にてリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
@@ -256,7 +256,7 @@ ESTB-1115</p></td>
 <td><p>CD</p></td>
 <td><p>ESCL-2531</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
 <a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット</a>、24bitデジタルリマスタリング仕様</p></td>
 </tr>
 <tr class="even">

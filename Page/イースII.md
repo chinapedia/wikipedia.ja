@@ -1,9 +1,9 @@
 > この記事は[イースII](https://ja.wikipedia.org/wiki/イースII)から翻訳されています。
 
 
-『**イースII**』（イースツー、Ys II）は、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、〈**[イースシリーズ](../Page/イースシリーズ.md "wikilink")**〉の第2作目。前作『[イース](https://ja.wikipedia.org/wiki/イースI "wikilink") (I)』とは密接に繋がっており、後編にあたる。
+『**イースII**』（イースツー、Ys II）は、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[アクションロールプレイングゲーム](../Page/アクションロールプレイングゲーム.md "wikilink") (ARPG)、〈**[イースシリーズ](../Page/イースシリーズ.md "wikilink")**〉の第2作目。前作『[イース](../Page/イースI.md "wikilink") (I)』とは密接に繋がっており、後編にあたる。
 
-リメイク作品として、単独の『**イースIIエターナル**』 (Ys II ETERNAL)・『**イースII 完全版**』(Ys II COMPLETE)・『**イースII DS**』・『**イースIIクロニクルズ**』 (Ys II Chronicles)の他、前作『[イースI](https://ja.wikipedia.org/wiki/イースI "wikilink")』と一本にまとめられた『**イースI・II**』 (Ys I・II)・『**イースI・II 完全版**』 (Ys I・II COMPLETE)・『**イースI・IIエターナルストーリー**』 (Ys I・II ETERNAL STORY)、『**イースI\&IIクロニクルズ**』 (Ys I・\&II Chronicles)がある。単独の物については[下記](https://ja.wikipedia.org/wiki/#イースIIエターナル・イースII完全版 "wikilink")、『I』とまとめられたものについては『[イースI・II](../Page/イースI・II.md "wikilink")』の項を参照。
+リメイク作品として、単独の『**イースIIエターナル**』 (Ys II ETERNAL)・『**イースII 完全版**』(Ys II COMPLETE)・『**イースII DS**』・『**イースIIクロニクルズ**』 (Ys II Chronicles)の他、前作『[イースI](../Page/イースI.md "wikilink")』と一本にまとめられた『**イースI・II**』 (Ys I・II)・『**イースI・II 完全版**』 (Ys I・II COMPLETE)・『**イースI・IIエターナルストーリー**』 (Ys I・II ETERNAL STORY)、『**イースI\&IIクロニクルズ**』 (Ys I・\&II Chronicles)がある。単独の物については[下記](https://ja.wikipedia.org/wiki/#イースIIエターナル・イースII完全版 "wikilink")、『I』とまとめられたものについては『[イースI・II](../Page/イースI・II.md "wikilink")』の項を参照。
 
 ## 概要
 
@@ -155,7 +155,7 @@
   - [PC-88版](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")
     オリジナル。サウンドは[OPN](../Page/YM2203.md "wikilink")。
   - [PC-98版](../Page/PC-9800シリーズ.md "wikilink")
-    OPN以外にも[ビープ音](https://ja.wikipedia.org/wiki/ビープ音 "wikilink")のサウンドにも対応（ただし効果音のみ）。エンディング終了後にミュージックテストに入る裏技と、イースIのディスクと組み合わせると隠しモード（2つ）に入れる裏技がある。
+    OPN以外にも[ビープ音](../Page/ビープ音.md "wikilink")のサウンドにも対応（ただし効果音のみ）。エンディング終了後にミュージックテストに入る裏技と、イースIのディスクと組み合わせると隠しモード（2つ）に入れる裏技がある。
   - [X1turbo版](../Page/X1_\(コンピュータ\).md "wikilink")
     ハードウェアに合わせ、PSG版のBGMの他、FM音源ボードのある環境では、FM音源部分のパートが左右に振られ、オープニングの縦スクロールのシーンが削られている。発声可能数に合わせたパートの増加などは無い。ゲーム仕様の変更点としては、セーブ可能な数が増えており、エンディング終了後にミュージックテストに入る裏技がある。
   - [FM77AV版](https://ja.wikipedia.org/wiki/FM-7#FM77AV "wikilink")

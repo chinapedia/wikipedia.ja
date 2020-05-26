@@ -234,7 +234,7 @@ Yukonプラットフォームと共に発表された、ノートブック向け
 
 ## Socket 939
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sockel-939.jpg "wikilink") **[Socket 939](https://ja.wikipedia.org/wiki/Socket_939 "wikilink")**（ソケット-）は、マザーボード用のCPUソケット規格のひとつ。電気的接点を有するピンホールの数は、Opteron用のSocket 940より1個減じた939個。 2004年4月の[デュアルチャネル](https://ja.wikipedia.org/wiki/デュアルチャネル "wikilink")対応版Athlon 64と同時に発表された。対応するプロセッサは Athlon 64、[Athlon 64 X2](../Page/Athlon_64_X2.md "wikilink")、Opteronの他、一部の[Sempron](../Page/Sempron.md "wikilink")も対応する。 2006年6月に後継となるDDR2 SDRAMに対応したプラットフォームとしてSocket AM2が発表され、Socket 939は終了した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sockel-939.jpg "wikilink") **[Socket 939](https://ja.wikipedia.org/wiki/Socket_939 "wikilink")**（ソケット-）は、マザーボード用のCPUソケット規格のひとつ。電気的接点を有するピンホールの数は、Opteron用のSocket 940より1個減じた939個。 2004年4月の[デュアルチャネル](../Page/デュアルチャネル.md "wikilink")対応版Athlon 64と同時に発表された。対応するプロセッサは Athlon 64、[Athlon 64 X2](../Page/Athlon_64_X2.md "wikilink")、Opteronの他、一部の[Sempron](../Page/Sempron.md "wikilink")も対応する。 2006年6月に後継となるDDR2 SDRAMに対応したプラットフォームとしてSocket AM2が発表され、Socket 939は終了した。
 
 市場流通が終了してから2年以上が経過した[2009年](../Page/2009年.md "wikilink")10月、[DirectX](https://ja.wikipedia.org/wiki/Microsoft_DirectX "wikilink") ([Direct3D](../Page/Direct3D.md "wikilink")) 10.1や [HDMI](https://ja.wikipedia.org/wiki/High-Definition_Multimedia_Interface "wikilink") をサポートする、最新の AMD 785G / SB 710 [チップセット](../Page/チップセット.md "wikilink")を搭載した Socket 939 用マザーボードが発売されている。 さらに[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")8月末、AMD 790GX/SB750チップセットを搭載した[microATX](https://ja.wikipedia.org/wiki/microATX "wikilink")マザーボードが登場した。[1](http://akiba-pc.watch.impress.co.jp/hotline/20100828/etc_asrock.html)
 

@@ -699,7 +699,7 @@
   - 前川陽子
   - [山野さと子](../Page/山野さと子.md "wikilink")
   - NHK東京児童合唱団
-  - [宇野ゆう子](https://ja.wikipedia.org/wiki/宇野ゆう子 "wikilink")
+  - [宇野ゆう子](../Page/宇野ゆう子.md "wikilink")
   - 井上あずみ
   - [神谷明](../Page/神谷明.md "wikilink")
   - [田中真弓](../Page/田中真弓.md "wikilink")

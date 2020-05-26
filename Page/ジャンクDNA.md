@@ -57,8 +57,8 @@
 英語版より
 
 1.  Gibbs W.W. (2003) "The unseen genome: gems among the junk", *Scientific American*, **289**(5): 46-53. (A review, written for non-specialists, of recent discoveries of function within junk DNA.) ([概要](http://www.mindfully.org/GE/2003/Junk-GenomeNov03.htm))
-2.  Pearson, Helen (2004) "['Junk' DNA reveals vital role](http://www.nature.com/nsu/040503/040503-9.html)", *[Nature](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")*. ([概要](http://www.bioedonline.org/news/news-print.cfm?art=956))
-3.  M.A. Nobrega, Y. Zhu, I. Plajzer-Frick, V. Afzal and E.M. Rubin (2004) "Megabase deletions of gene deserts result in viable mice", *[Nature](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")*, 431: 988-993. ([概要](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&dopt=Citation&list_uids=15496924))
+2.  Pearson, Helen (2004) "['Junk' DNA reveals vital role](http://www.nature.com/nsu/040503/040503-9.html)", *[Nature](../Page/ネイチャー.md "wikilink")*. ([概要](http://www.bioedonline.org/news/news-print.cfm?art=956))
+3.  M.A. Nobrega, Y. Zhu, I. Plajzer-Frick, V. Afzal and E.M. Rubin (2004) "Megabase deletions of gene deserts result in viable mice", *[Nature](../Page/ネイチャー.md "wikilink")*, 431: 988-993. ([概要](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&dopt=Citation&list_uids=15496924))
 4.  Mattick, John S. (2004) "The Hidden Layer of Noncoding RNA: a Digital Control System Underpinning Mammalian Development and Diversity", HGM Symposium 2004 Session 4/16. ([概要](http://hgm2004.hgu.mrc.ac.uk/Abstracts/Publish/Symposia/Symposium04/hgm16.html))
 
 [Category:デオキシリボ核酸](https://ja.wikipedia.org/wiki/Category:デオキシリボ核酸 "wikilink") [Category:染色体](https://ja.wikipedia.org/wiki/Category:染色体 "wikilink")

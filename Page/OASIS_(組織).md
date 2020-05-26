@@ -42,7 +42,7 @@ OASIS標準となった主な仕様は次のとおり。
   - [Extensible Resource Identifier](../Page/Extensible_Resource_Identifier.md "wikilink") -- XRI
   - [PKCS11](https://ja.wikipedia.org/wiki/PKCS11 "wikilink")
   - [RELAX NG](../Page/RELAX_NG.md "wikilink") -- OASISで制定後、ISO/IECで規格化
-  - [Security Assertion Markup Language](https://ja.wikipedia.org/wiki/Security_Assertion_Markup_Language "wikilink")
+  - [Security Assertion Markup Language](../Page/Security_Assertion_Markup_Language.md "wikilink")
   - [User Interface Markup Language](https://ja.wikipedia.org/wiki/User_Interface_Markup_Language "wikilink") -- UIML
   - [XRI Data Interchange](https://ja.wikipedia.org/wiki/XRI_Data_Interchange "wikilink") -- XDI
   - [Cyber Observable eXpression](https://ja.wikipedia.org/wiki/Cyber_Observable_eXpression "wikilink") -- CybOX

@@ -61,7 +61,7 @@
       - [RPG-II](../Page/RPG_\(プログラム言語\).md "wikilink")
   - データ操作/解析/報告
       - [Ab Initio](http://www.abinitio.com/abinitio/ab.nsf/abinitio_products)
-      - [ABAP](https://ja.wikipedia.org/wiki/ABAP "wikilink")
+      - [ABAP](../Page/ABAP.md "wikilink")
       - [Audit Command Language](http://www.acl.com/products/)
       - [Clarion Programming Language](http://www.softvelocity.com/)
       - [FOCUS](http://www.informationbuilders.com/products/focus/overview.html)

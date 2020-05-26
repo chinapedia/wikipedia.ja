@@ -1,7 +1,7 @@
 > この記事は[コミックGOTTA](https://ja.wikipedia.org/wiki/コミックGOTTA)から翻訳されています。
 
 
-『**コミックGOTTA**』（コミックガッタ）は、[小学館](../Page/小学館.md "wikilink")がかつて発行していた男子[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")・[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")向け[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。前身の『**ハイパーコロコロ**』についても述べる。
+『**コミックGOTTA**』（コミックガッタ）は、[小学館](../Page/小学館.md "wikilink")がかつて発行していた男子[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")・[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")向け[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。前身の『**ハイパーコロコロ**』についても述べる。
 
 ## 概要
 
@@ -16,7 +16,7 @@
 
 両誌とも、巻頭カラー部はお馴染みの[ホビー](https://ja.wikipedia.org/wiki/ホビー "wikilink")情報（[ハイパーヨーヨー](../Page/ハイパーヨーヨー.md "wikilink")や[次世代ゲーム機など](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")）や[K-1](../Page/K-1.md "wikilink")選手の来歴漫画を載せるなど、従来の『コロコロ』のノウハウを生かしつつ、中学生でも受け容れられるような大人びた内容で構成されている。『GOTTA』では従来のホビー情報よりもファッションや恋愛テクニック・J-POPや女性アイドルなどの芸能情報や、週刊漫画雑誌のように[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")の掲載へ重心を移し、それらを複合した構成に変化していった。
 
-雑誌サイズはコロコロコミックやコロコロGではA5判だが、本誌は[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")などの[少年漫画](../Page/少年漫画.md "wikilink")[雑誌と同じB](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")5判である。
+雑誌サイズはコロコロコミックやコロコロGではA5判だが、本誌は[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")などの[少年漫画](../Page/少年漫画.md "wikilink")[雑誌と同じB](../Page/漫画雑誌.md "wikilink")5判である。
 
 読者の中心層が10歳前後の小学生である『コロコロコミック』から派生して読者年齢層を高めたことから、『コロコロ』連載作品からの番外編を除いて、現実社会を舞台にしたストーリー性の高い作品が揃っていた。『コロコロ』作品作家による読切作品で[色気](../Page/色気.md "wikilink")をちりばめたり、「[AV](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")」「[コンドーム](../Page/コンドーム.md "wikilink")」「[精液](../Page/精液.md "wikilink")」「[扱く](https://ja.wikipedia.org/wiki/自慰 "wikilink")」など[下ネタ](../Page/下ネタ.md "wikilink")を堂々と扱った作品や読者コーナーもあり、専ら[思春期](../Page/思春期.md "wikilink")男子を対象にしていたのがうかがえる。
 

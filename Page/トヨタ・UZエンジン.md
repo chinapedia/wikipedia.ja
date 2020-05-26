@@ -108,7 +108,7 @@
   - 2代目レクサスSC430(1)（UZZ40）
   - 3代目レクサスGS430(1)（UZS190）
   - スープラ（JZA80）※[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")及び[SUPER GTのGT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")500マシン用ベースエンジン（[2003年](https://ja.wikipedia.org/wiki/2003年の全日本GT選手権 "wikilink")〜[2006年](../Page/2006年のSUPER_GT.md "wikilink")）
-  - レクサスSC（UZZ40）※SUPER GTのGT500マシン用ベースエンジン（2006年〜[2008年](https://ja.wikipedia.org/wiki/2008年のSUPER_GT "wikilink")）
+  - レクサスSC（UZZ40）※SUPER GTのGT500マシン用ベースエンジン（2006年〜[2008年](../Page/2008年のSUPER_GT.md "wikilink")）
 
 ## 脚注
 

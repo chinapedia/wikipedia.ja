@@ -16,7 +16,7 @@
   - [2001年](../Page/2001年.md "wikilink")
       - [4月1日](../Page/4月1日.md "wikilink") - KDDIの登記上本店および本社がKDDIビルに移転。
       - 9月 - [有利子負債](../Page/有利子負債.md "wikilink")削減のため、KDDIが旧KDDのビル4棟（新宿・[大手町](../Page/大手町_\(千代田区\).md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[大阪](../Page/大阪市.md "wikilink")）の所有権を[みずほ証券](../Page/みずほ証券.md "wikilink")と[大和証券SMBCがアレンジャーとなる](../Page/大和証券キャピタル・マーケッツ.md "wikilink")[特別目的会社](https://ja.wikipedia.org/wiki/特別目的会社 "wikilink")に売却し[証券化](../Page/証券化.md "wikilink")\[1\]。
-  - [2003年](../Page/2003年.md "wikilink") - KDDI本社が[飯田橋](../Page/飯田橋.md "wikilink")の[ガーデンエアタワーへ移転](https://ja.wikipedia.org/wiki/アイガーデンエア "wikilink")（登記上本店はKDDIビルに留まる）。
+  - [2003年](../Page/2003年.md "wikilink") - KDDI本社が[飯田橋](../Page/飯田橋.md "wikilink")の[ガーデンエアタワーへ移転](../Page/アイガーデンエア.md "wikilink")（登記上本店はKDDIビルに留まる）。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 所有権を買い戻し、再びKDDIの自社所有となる。
 
 ## 主な施設

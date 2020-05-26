@@ -30,7 +30,7 @@
   - [岡崎公聡](../Page/岡崎公聡.md "wikilink")（GMA代表・ティーチングプロ）
   - [立山光広](../Page/立山光広.md "wikilink")（GMA用品・用具契約プロゴルファー）
   - [宮下裕子](https://ja.wikipedia.org/wiki/宮下裕子 "wikilink")
-  - [竹房敦司](https://ja.wikipedia.org/wiki/竹房敦司 "wikilink")（[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")）
+  - [竹房敦司](../Page/竹房敦司.md "wikilink")（[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")）
 
 ## スタッフ
 

@@ -274,7 +274,7 @@
   - 麻生香 - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")
   - [竹下玲奈](../Page/竹下玲奈.md "wikilink")
   - アンジェラ
-  - [小泉深雪](https://ja.wikipedia.org/wiki/小泉深雪 "wikilink")
+  - [小泉深雪](../Page/小泉深雪.md "wikilink")
   - [吉松育美](https://ja.wikipedia.org/wiki/吉松育美 "wikilink")
   - [中村知世](../Page/中村知世.md "wikilink")
   - [横山美雪](https://ja.wikipedia.org/wiki/横山美雪 "wikilink")
@@ -308,7 +308,7 @@
   - 美術 - [小泉博康](https://ja.wikipedia.org/wiki/小泉博康 "wikilink")
   - 装飾 - 松下利秀
   - VE - さとうまなぶ
-  - VFXスーパーバイザー - [小田一生](https://ja.wikipedia.org/wiki/小田一生 "wikilink")
+  - VFXスーパーバイザー - [小田一生](../Page/小田一生.md "wikilink")
   - ミュージックエディター - 小西善行
   - 編集 - 深沢佳文
   - ファッション・プロデューサー - [平藤真治](https://ja.wikipedia.org/wiki/平藤真治 "wikilink")、下中大介
@@ -395,7 +395,7 @@
 
 ## モバイルゲーム
 
-2011年6月6日に[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")版[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")にて配信開始のモバイルゲーム\[14\]。後にスマートフォン版にも対応した\[15\]。
+2011年6月6日に[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")版[Mobage](../Page/Mobage.md "wikilink")にて配信開始のモバイルゲーム\[14\]。後にスマートフォン版にも対応した\[15\]。
 
 基本プレイ無料の[アイテム課金制](https://ja.wikipedia.org/wiki/アイテム課金制 "wikilink")の[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")。
 

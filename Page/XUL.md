@@ -13,7 +13,7 @@ XULによる[インタフェースは](../Page/インタフェース_\(情報技
     Skin（[スキン](https://ja.wikipedia.org/wiki/スキン "wikilink")） : アプリケーションの視覚的な表現を行うためのCSSや画像。
     Locale（[ロケール](https://ja.wikipedia.org/wiki/ロケール "wikilink")） : ソフトウェアの[ローカライズ](https://ja.wikipedia.org/wiki/ローカライズ "wikilink")を容易にするための実体テキスト を記述する[DTD](../Page/Document_Type_Definition.md "wikilink")。
 
-XULの持つ最も大きな利点は単純でポータブルな[ウィジェットの記述が可能であることである](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")。これは第4世代言語 ([4GL](../Page/4GL.md "wikilink")) がソフトウェア開発の場で果たしたのとよく似た労力の削減に繋がっている。
+XULの持つ最も大きな利点は単純でポータブルな[ウィジェットの記述が可能であることである](../Page/ウィジェット_\(GUI\).md "wikilink")。これは第4世代言語 ([4GL](../Page/4GL.md "wikilink")) がソフトウェア開発の場で果たしたのとよく似た労力の削減に繋がっている。
 
 ## XULのエレメント（要素）
 

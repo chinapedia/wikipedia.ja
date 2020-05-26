@@ -21,7 +21,7 @@
 
 ### 第二次世界大戦後
 
-[1945年](../Page/1945年.md "wikilink")以後、イギリスはインドや[マレー半島](../Page/マレー半島.md "wikilink")などの植民地を次々と失い、それに伴いこれらの旧植民地への需要は衰退したが、オーストラリア路線はイギリスほかヨーロッパからの白人[移民](../Page/移民.md "wikilink")（Ten Pound Poms）が多数に上ったため、P\&Oは[SSオリアナなどこの路線向けの大型客船を建造した](https://ja.wikipedia.org/wiki/オリアナ_\(初代\) "wikilink")。15隻の客船のうち、最大かつ最後の客船である[SSキャンベラは](https://ja.wikipedia.org/wiki/キャンベラ_\(客船\) "wikilink")[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に就航した。
+[1945年](../Page/1945年.md "wikilink")以後、イギリスはインドや[マレー半島](../Page/マレー半島.md "wikilink")などの植民地を次々と失い、それに伴いこれらの旧植民地への需要は衰退したが、オーストラリア路線はイギリスほかヨーロッパからの白人[移民](../Page/移民.md "wikilink")（Ten Pound Poms）が多数に上ったため、P\&Oは[SSオリアナなどこの路線向けの大型客船を建造した](https://ja.wikipedia.org/wiki/オリアナ_\(初代\) "wikilink")。15隻の客船のうち、最大かつ最後の客船である[SSキャンベラは](../Page/キャンベラ_\(客船\).md "wikilink")[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に就航した。
 
 オーストラリアへは100万人以上のヨーロッパ人移民が渡り、その多くはP\&Oが運んだが、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にオーストラリア政府はこの移民計画を終了させている。P\&Oは以後、客船の多くを売却・解体し、貨物輸送へと集中した一方、保養客向けのクルーズ市場にも進出した。[1959年](../Page/1959年.md "wikilink")には[タンカー](../Page/タンカー.md "wikilink")市場に、1960年代半ばには[RORO船](https://ja.wikipedia.org/wiki/RORO船 "wikilink")市場に、1969年には[コンテナ船](../Page/コンテナ船.md "wikilink")市場に参入している。
 

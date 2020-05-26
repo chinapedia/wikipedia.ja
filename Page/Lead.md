@@ -689,7 +689,7 @@ PCXP-50542：BD</p></td>
 | [北平誠治](https://ja.wikipedia.org/wiki/北平誠治 "wikilink")                | 「My One」「Stand and Fight」「Still」「Wanna Be With You」「サクラ」「想い出ブレイカー」 「約束\]」「Zoom up」 |
 | [多田卓也](https://ja.wikipedia.org/wiki/多田卓也 "wikilink")                | 「Summer Madness」「バージンブルー」「ベイビーランニンワイルド」                                            |
 | [土屋隆俊](https://ja.wikipedia.org/wiki/土屋隆俊 "wikilink")                | 「Drive Alive」「Sunnyday」「海」                                                         |
-| [長谷川信](https://ja.wikipedia.org/wiki/長谷川信 "wikilink")                | 「GET WILD LIFE」「Night Deluxe」「あたらしい季節へ」「ファンキーデイズ！」                                 |
+| [長谷川信](../Page/長谷川信.md "wikilink")                                   | 「GET WILD LIFE」「Night Deluxe」「あたらしい季節へ」「ファンキーデイズ！」                                 |
 | [Tatsuya Murakami](https://ja.wikipedia.org/wiki/ムラカミタツヤ "wikilink") | 「Upturn」                                                                           |
 | [モリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink")                | 「ギラギラRomantic」                                                                     |
 | 不明                                                                   | 「GREEN DAYS」                                                                       |

@@ -48,7 +48,7 @@
 
 ## 最寄駅
 
-[地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink") 「[新金岡駅](https://ja.wikipedia.org/wiki/新金岡駅 "wikilink")」 2番出口
+[地下鉄](../Page/大阪市営地下鉄.md "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/Osaka_Metro御堂筋線 "wikilink") 「[新金岡駅](https://ja.wikipedia.org/wiki/新金岡駅 "wikilink")」 2番出口
 
 ## 系列店
 

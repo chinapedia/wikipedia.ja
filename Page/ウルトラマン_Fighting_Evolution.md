@@ -20,7 +20,7 @@
 
 1998年2月19日発売。[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
 
-  - 登場キャラは[ウルトラマン](../Page/ウルトラマン.md "wikilink")・[ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")・[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")・[バルタン星人](../Page/バルタン星人.md "wikilink")・[ダダ](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")・[エレキング](../Page/エレキング.md "wikilink")・[メトロン星人](../Page/メトロン星人.md "wikilink")・[キングジョー](../Page/キングジョー.md "wikilink")の8人。隠しキャラクターとして、[ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")・[マグマ星人](../Page/マグマ星人.md "wikilink")・[エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")・[ゼットン](../Page/ゼットン.md "wikilink")の4人が登場する。
+  - 登場キャラは[ウルトラマン](../Page/ウルトラマン.md "wikilink")・[ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")・[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")・[バルタン星人](../Page/バルタン星人.md "wikilink")・[ダダ](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")・[エレキング](../Page/エレキング.md "wikilink")・[メトロン星人](../Page/メトロン星人.md "wikilink")・[キングジョー](../Page/キングジョー.md "wikilink")の8人。隠しキャラクターとして、[ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")・[マグマ星人](../Page/マグマ星人.md "wikilink")・[エースキラー](../Page/エースキラー_\(ウルトラ怪獣\).md "wikilink")・[ゼットン](../Page/ゼットン.md "wikilink")の4人が登場する。
   - 必殺技は基本的に各キャラ一つずつ（ウルトラセブンのみ2つ）持ち、コマンド入力で出すことができる。発動までに時間がかかり、その最中に攻撃されると発動しない。発動されても軸ずらしなどで回避可能。
   - この作品に[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")と[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")は登場しないが、『ウルトラマンA』の戦闘曲や『ウルトラマンレオ』の前期オープニングテーマのアレンジ版が流れている。
   - 3D表現されたウルトラマンやウルトラ怪獣など評価点も存在するが、もっさりとした動作、バリエーションの少ない単発技をちまちま出し合いながら、最後は強力すぎる必殺技で決着をつけるという、どのキャラを使っても大味かつ単調なバトルが展開される点などから、ゲームとしての評価は決して高いとは言い切れない\[1\]。
@@ -55,7 +55,7 @@
   - [バルタン星人](../Page/バルタン星人.md "wikilink")
   - [キングジョー](../Page/キングジョー.md "wikilink")
   - [ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")
-  - [エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")
+  - [エースキラー](../Page/エースキラー_\(ウルトラ怪獣\).md "wikilink")
   - [タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\) "wikilink")
   - [マグマ星人](../Page/マグマ星人.md "wikilink")
   - [レッドギラス](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#双子怪獣_レッドギラス "wikilink")、[ブラックギラス](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#双子怪獣_ブラックギラス "wikilink")（ウルトラモード、又は技のみ）
@@ -160,7 +160,7 @@
   - [キングジョー](../Page/キングジョー.md "wikilink")
   - [ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")
   - [グドン](../Page/グドン.md "wikilink")
-  - [エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")
+  - [エースキラー](../Page/エースキラー_\(ウルトラ怪獣\).md "wikilink")
   - [タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\) "wikilink")
   - [エースロボット](https://ja.wikipedia.org/wiki/ウルトラマンAの登場怪獣#ロボット超人_エースロボット "wikilink")
   - [マグマ星人](../Page/マグマ星人.md "wikilink")

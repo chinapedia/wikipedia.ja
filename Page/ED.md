@@ -12,7 +12,7 @@
   - かつてTDKが発売していた音楽録音向けの[カセットテープの名称](../Page/コンパクトカセット.md "wikilink")。三酸化鉄(Fe<sub>2</sub>O<sub>3</sub>)を使用し、発売当時最上位クラスのテープであった。
   - 自動車の名称。
       - かつてトヨタ自動車が発売していた自動車、[カリーナEDの略称](../Page/トヨタ・カリーナED.md "wikilink")。
-      - 起亜自動車のハッチバック、[キア・シード](https://ja.wikipedia.org/wiki/キア・シード "wikilink")の開発コード。
+      - 起亜自動車のハッチバック、[キア・シード](../Page/キア・シード.md "wikilink")の開発コード。
   - [ED (ソフトウェア)](https://ja.wikipedia.org/wiki/ED_\(ソフトウェア\) "wikilink") - Type74 Softwareが開発したファイル暗号化ソフト。
   - 光学素子における異常[分散性のこと](../Page/分散_\(光学\).md "wikilink")(Extralow Dispersion)。[異常分散レンズ](../Page/異常分散レンズ.md "wikilink")も参照。
   - [エド (テレビドラマ)](../Page/エド_\(テレビドラマ\).md "wikilink")(ED) - アメリカ合衆国のテレビドラマ。

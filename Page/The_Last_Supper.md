@@ -25,7 +25,7 @@
 6.  **エジソン電 (DJ tasaka's teyuka akogare mix edit)** - *edisonden (DJ tasaka's teyuka akogare mix edit)*\<2001\>
 7.  **21世紀もモテたくて…** - *21st century mo motetakute*\<2001\>
       -
-        [松田聖子](../Page/松田聖子.md "wikilink")のヒット曲「[天使のウィンク](../Page/天使のウィンク.md "wikilink")」（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）や[C-C-B](../Page/C-C-B.md "wikilink")の代表曲「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」（1985年）のイントロがサンプリングされている。\<2001\>
+        [松田聖子](../Page/松田聖子.md "wikilink")のヒット曲「[天使のウィンク](../Page/天使のウィンク.md "wikilink")」（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）や[C-C-B](../Page/C-C-B.md "wikilink")の代表曲「[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")」（1985年）のイントロがサンプリングされている。\<2001\>
 8.  **愛のクライネメロディー (overrocket 8201 mix)** - *eine kleine melodie (overrocket 8201 mix)*\<2001\>
 9.  **スコーピオン2001 (tribute vocal mix edit)** - *scorpion2001 (tribute vocal mix edit)*\<2001\>
 10. **N.O. (Nord Ost)**\<2001\>

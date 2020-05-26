@@ -676,7 +676,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
   - [AI](../Page/人工知能.md "wikilink")
   - [電脳](../Page/コンピュータ.md "wikilink")
   - [海坊主](../Page/海坊主.md "wikilink")
-  - [熱光学迷彩](https://ja.wikipedia.org/wiki/光学迷彩 "wikilink")
+  - [熱光学迷彩](../Page/光学迷彩.md "wikilink")
   - [コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")
   - [薬害](../Page/薬害.md "wikilink")
   - [丸山ワクチン](../Page/丸山ワクチン.md "wikilink")

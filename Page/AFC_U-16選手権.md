@@ -108,7 +108,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-17選手権1994" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/AFC_U-17選手権1994.md" title="wikilink">6</a></p></td>
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -119,7 +119,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-17選手権1996" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/AFC_U-17選手権1996.md" title="wikilink">7</a></p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -131,7 +131,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-17選手権1998" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/AFC_U-17選手権1998.md" title="wikilink">8</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
@@ -143,7 +143,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-17選手権2000" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/AFC_U-17選手権2000.md" title="wikilink">9</a></p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>

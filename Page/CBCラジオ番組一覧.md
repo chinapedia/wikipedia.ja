@@ -1345,7 +1345,7 @@ P:<a href="../Page/永野宗典.md" title="wikilink">永野宗典</a>（<a href=
 
 ### その他
 
-  - [Wake up Breeze](https://ja.wikipedia.org/wiki/Wake_Up_メロディー "wikilink")
+  - [Wake up Breeze](../Page/Wake_Up_メロディー.md "wikilink")
   - [清塚信也](../Page/清塚信也.md "wikilink") ピアノラウンジ
   - [黒沢良のマイルドタイム](../Page/黒沢良のマイルドタイム.md "wikilink")（[放芸](../Page/放芸.md "wikilink")制作）
   - [安達治彦のメモリーズ・オブ・ユー](../Page/小林大作のメモリーズ・オブ・ユー.md "wikilink")（[ABC制作](../Page/朝日放送ラジオ.md "wikilink")）

@@ -3,7 +3,7 @@
 
 **GASTUNK**（ガスタンク）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。活動スローガンは「**HEARTFUL MELODY**」。元々はハードコアシーンにおける活動が中心であったが、メジャーデビューする頃には、メディアから[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドとして紹介される事が多くなっていったようである。
 
-[X JAPAN](../Page/X_JAPAN.md "wikilink")、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")などのロックバンドが影響を受けたと公言している他、[特撮](../Page/特撮_\(バンド\).md "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[BALZAC](../Page/BALZAC.md "wikilink")など国内のパンク、メタルバンドに多大な影響を及ぼした。また、BAKIの白塗りやTATSUの華麗なステージ衣装といったように、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")の走りでもあった。
+[X JAPAN](../Page/X_JAPAN.md "wikilink")、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[黒夢](../Page/黒夢.md "wikilink")などのロックバンドが影響を受けたと公言している他、[特撮](../Page/特撮_\(バンド\).md "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[BALZAC](../Page/BALZAC.md "wikilink")など国内のパンク、メタルバンドに多大な影響を及ぼした。また、BAKIの白塗りやTATSUの華麗なステージ衣装といったように、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")の走りでもあった。
 
 ## バンドメンバー
 
@@ -161,7 +161,7 @@
 <!-- end list -->
 
   - 3月、「GASTUNK ARISE AGAIN TOUR_2010」と銘打って完全復活（3回目の復活）を遂げる。
-  - 3月22日には「四鬼夜行 －三喰－」に参加し、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink") / [Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink") / [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")と激突。
+  - 3月22日には「四鬼夜行 －三喰－」に参加し、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink") / [Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink") / [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")と激突。
   - 6月9日 実に22年ぶりとなるニューシングル「DEADMAN'S FACE」 が発売される。
   - 10月、「GASTUNK ARISE AGAIN TOUR "DEEP"」開始。11月にはライブDVD「ARISE AGAIN TOUR_2010」をリリース。
 

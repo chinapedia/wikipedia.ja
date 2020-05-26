@@ -7,7 +7,7 @@
 
 チーム所在地は[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")。ホームゲームは[柏市中央体育館](https://ja.wikipedia.org/wiki/柏市中央体育館 "wikilink")の他、[船橋アリーナでも開催される](../Page/船橋市総合体育館.md "wikilink")。母体企業は[JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")、運営は[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")。愛称「サンフラワーズ」は、前身の共同石油（以下共石）女子バスケットボール部時代からチームのシンボルとしている[ヒマワリ](../Page/ヒマワリ.md "wikilink")（柏市（旧[沼南町](../Page/沼南町.md "wikilink")）の花でもある）に因んでおり、歴代のユニフォームにはヒマワリの花がデザインされている。
 
-JXグループの前身企業のひとつ[日本鉱業](../Page/JX金属.md "wikilink")（以下日鉱）には強豪としての伝統を持つ[男子バスケット部が存在していたため](../Page/ジャパンエナジーグリフィンズ.md "wikilink")、その子会社であった共石により女子バスケット部が設立された経緯がある\[1\]。しかし、合併して[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")（以下Jエナジー）に変更された後、会社はあえて陰りの見えていた男子部を廃部し、将来性の高い女子部一本に絞った。その期待に違わぬ好成績が続いている。なお、歴代ヘッドコーチの[内海知秀](../Page/内海知秀.md "wikilink")と[佐藤清美](https://ja.wikipedia.org/wiki/佐藤清美 "wikilink")、現コーチの[佐久本智](https://ja.wikipedia.org/wiki/佐久本智 "wikilink")はいずれも日鉱・Jエナジーの元選手である。
+JXグループの前身企業のひとつ[日本鉱業](../Page/JX金属.md "wikilink")（以下日鉱）には強豪としての伝統を持つ[男子バスケット部が存在していたため](../Page/ジャパンエナジーグリフィンズ.md "wikilink")、その子会社であった共石により女子バスケット部が設立された経緯がある\[1\]。しかし、合併して[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")（以下Jエナジー）に変更された後、会社はあえて陰りの見えていた男子部を廃部し、将来性の高い女子部一本に絞った。その期待に違わぬ好成績が続いている。なお、歴代ヘッドコーチの[内海知秀](../Page/内海知秀.md "wikilink")と[佐藤清美](https://ja.wikipedia.org/wiki/佐藤清美 "wikilink")、現コーチの[佐久本智](../Page/佐久本智.md "wikilink")はいずれも日鉱・Jエナジーの元選手である。
 
 2010年にJエナジーが新日本石油（以下新日石）と合併、社名がJX日鉱日石エネルギー\[2\]に変更となるとともに「JOMO」ブランドが廃止になり、「[ENEOS](https://ja.wikipedia.org/wiki/エネオス "wikilink")」ブランドに統合されたため、チーム名は7月1日付で「**JXサンフラワーズ**」に変更となった（新日石野球部はこの時[JX-ENEOS野球部](../Page/JX-ENEOS野球部.md "wikilink")へ変更）\[3\]。2013年4月より「**JX-ENEOSサンフラワーズ**」に変更\[4\]。
 
@@ -49,8 +49,8 @@ JXグループの前身企業のひとつ[日本鉱業](../Page/JX金属.md "wik
 | [1999-00](https://ja.wikipedia.org/wiki/WJBL_1999-2000 "wikilink") | [WJBL](../Page/バスケットボール女子日本リーグ.md "wikilink") | 1  | 19        | 2       | 2位    | \--- |
 | [2000-01](https://ja.wikipedia.org/wiki/WJBL_2000-01 "wikilink")   | 2                                             | 19 | 2         | 1位      | \---  | 3    |
 | [2001-02](../Page/WJBL_2001-02.md "wikilink")                      | 3                                             | 21 | 0         | 1位      | 2     | 0    |
-| [2002-03](https://ja.wikipedia.org/wiki/WJBL_2002-03 "wikilink")   | 4                                             | 20 | 1         | 1位      | 2     | 0    |
-| [2003-04](https://ja.wikipedia.org/wiki/WJBL_2003-04 "wikilink")   | 5                                             | 20 | 1         | 1位      | 2     | 0    |
+| [2002-03](../Page/WJBL_2002-03.md "wikilink")                      | 4                                             | 20 | 1         | 1位      | 2     | 0    |
+| [2003-04](../Page/WJBL_2003-04.md "wikilink")                      | 5                                             | 20 | 1         | 1位      | 2     | 0    |
 | [2004-05](../Page/WJBL_2004-05.md "wikilink")                      | 6                                             | 11 | 10        | 4位      | 1     | 2    |
 | [2005-06](../Page/WJBL_2005-06.md "wikilink")                      | 7                                             | 14 | 14        | 5位      | \---  | 5位   |
 | [2006-07](../Page/WJBL_2006-07.md "wikilink")                      | 8                                             | 21 | 7         | 2位      | 2     | 0    |

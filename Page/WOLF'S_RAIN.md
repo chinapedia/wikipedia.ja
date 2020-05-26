@@ -318,7 +318,7 @@
 <td><p>18</p></td>
 <td><p>人・狼・月の書</p></td>
 <td><p>岡村天斎</p></td>
-<td><p>2003年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p>2003年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -13,7 +13,7 @@
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター担当](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
     本名は三田村 卓真（みたむら たくま）。「逞（たく）ましく真面目に育つように」と名付けられたそう。
     [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")・[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")、下鴨小学校 大津市立皇子山中学校 滋賀県立北大津高校、[大阪経済法科大学](https://ja.wikipedia.org/wiki/大阪経済法科大学 "wikilink")出身。
-    ギターは[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")の[ジェームズ・ヘットフィールドの影響により](../Page/ジェイムズ・ヘットフィールド.md "wikilink")[ギブソン・エクスプローラー](https://ja.wikipedia.org/wiki/ギブソン・エクスプローラー "wikilink")をメインで使用。その他にもギブソン・[SG](../Page/ギブソン・SG.md "wikilink")・[RD](../Page/ギブソン・RD.md "wikilink")、[PRS・Custom等を使用する](https://ja.wikipedia.org/wiki/ポールリードスミス・カスタム "wikilink")。
+    ギターは[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")の[ジェームズ・ヘットフィールドの影響により](../Page/ジェイムズ・ヘットフィールド.md "wikilink")[ギブソン・エクスプローラー](../Page/ギブソン・エクスプローラー.md "wikilink")をメインで使用。その他にもギブソン・[SG](../Page/ギブソン・SG.md "wikilink")・[RD](../Page/ギブソン・RD.md "wikilink")、[PRS・Custom等を使用する](https://ja.wikipedia.org/wiki/ポールリードスミス・カスタム "wikilink")。
   - **NAOKI**（ナオキ、 -）
     [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・ボーカル担当。
     本名は井上 直樹（いのうえ なおき）。[親が好きだった競走馬から名付けられたそう](../Page/ナオキ.md "wikilink")。

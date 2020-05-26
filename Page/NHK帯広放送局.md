@@ -69,14 +69,14 @@
 <!-- end list -->
 
   - [忠類](../Page/忠類テレビ中継局.md "wikilink") 総合38ch 教育40ch 出力1W 2008年10月1日開局
-  - [広尾](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 総合16ch 教育14ch 出力10W 2008年10月1日開局
+  - [広尾](../Page/広尾中継局.md "wikilink") 総合16ch 教育14ch 出力10W 2008年10月1日開局
   - [足寄](../Page/足寄中継局.md "wikilink") 総合16ch 教育14ch 出力3W 2008年10月10日開局
-  - [本別](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 総合51ch 教育49ch 出力1W 2009年2月16日開局
+  - [本別](../Page/本別中継局.md "wikilink") 総合51ch 教育49ch 出力1W 2009年2月16日開局
   - [新得](../Page/新得中継局.md "wikilink") 総合28ch 教育30ch 出力0.3W 2009年3月16日開局
   - [陸別](../Page/陸別中継局.md "wikilink") 総合15ch 教育13ch 出力3W 2009年11月25日開局
   - [豊頃茂岩](../Page/豊頃茂岩テレビ中継局.md "wikilink") 総合38ch 教育40ch 出力0.01W 2010年9月30日開局
-  - [広尾丸山](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 総合38ch 教育40ch 出力0.01W 2010年9月30日開局
-  - [本別沢](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 総合41ch 教育47ch 出力0.01W 2010年10月29日開局
+  - [広尾丸山](../Page/広尾中継局.md "wikilink") 総合38ch 教育40ch 出力0.01W 2010年9月30日開局
+  - [本別沢](../Page/本別中継局.md "wikilink") 総合41ch 教育47ch 出力0.01W 2010年10月29日開局
   - [厚内](../Page/厚内中継局.md "wikilink") 総合48ch 教育49ch 出力0.01W 2010年12月24日開局
 
 <!-- end list -->
@@ -98,13 +98,13 @@
 
   - [新得](../Page/新得中継局.md "wikilink") 52ch 3W　（開局当時は1ch）
   - [忠類](../Page/忠類テレビ中継局.md "wikilink") 52ch 10W
-  - [広尾](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 9ch 100W
-  - [広尾丸山](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 51ch 0.1W
+  - [広尾](../Page/広尾中継局.md "wikilink") 9ch 100W
+  - [広尾丸山](../Page/広尾中継局.md "wikilink") 51ch 0.1W
   - [厚内](../Page/厚内中継局.md "wikilink") 56ch 0.1W
   - [豊頃茂岩](../Page/豊頃茂岩テレビ中継局.md "wikilink") 52ch 0.1W
   - [足寄](../Page/足寄中継局.md "wikilink") 9ch 10W
-  - [本別](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 52ch 10W
-  - [本別沢](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 42ch 0.1W
+  - [本別](../Page/本別中継局.md "wikilink") 52ch 10W
+  - [本別沢](../Page/本別中継局.md "wikilink") 42ch 0.1W
   - [芽登](../Page/足寄中継局.md "wikilink") 51ch 3W
   - [陸別](../Page/陸別中継局.md "wikilink") 55ch 30W
 
@@ -120,13 +120,13 @@
 
   - [新得](../Page/新得中継局.md "wikilink") 50ch 3W （開局当時は3ch）
   - [忠類](../Page/忠類テレビ中継局.md "wikilink") 50ch 10W
-  - [広尾](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 2ch 100W
-  - [広尾丸山](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 49ch 0.1W
+  - [広尾](../Page/広尾中継局.md "wikilink") 2ch 100W
+  - [広尾丸山](../Page/広尾中継局.md "wikilink") 49ch 0.1W
   - [厚内](../Page/厚内中継局.md "wikilink") 50ch 0.1W
   - [豊頃茂岩](../Page/豊頃茂岩テレビ中継局.md "wikilink") 50ch 0.1W
   - [足寄](../Page/足寄中継局.md "wikilink") 2ch 10W
-  - [本別](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 50ch 10W
-  - [本別沢](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 48ch 0.1W
+  - [本別](../Page/本別中継局.md "wikilink") 50ch 10W
+  - [本別沢](../Page/本別中継局.md "wikilink") 48ch 0.1W
   - [芽登](../Page/足寄中継局.md "wikilink") 49ch 3W
   - [陸別](../Page/陸別中継局.md "wikilink") 52ch 30W
 
@@ -159,9 +159,9 @@
 <!-- end list -->
 
   - [新得](../Page/新得中継局.md "wikilink") 83.5MHz 3W
-  - [広尾](https://ja.wikipedia.org/wiki/広尾中継局 "wikilink") 83.8MHz 100W
+  - [広尾](../Page/広尾中継局.md "wikilink") 83.8MHz 100W
   - [足寄](../Page/足寄中継局.md "wikilink") 89.7MHz 10W
-  - [本別](https://ja.wikipedia.org/wiki/本別中継局 "wikilink") 83.9MHz 10W
+  - [本別](../Page/本別中継局.md "wikilink") 83.9MHz 10W
   - [陸別](../Page/陸別中継局.md "wikilink") 84.4MHz 10W
 
 ## 天気カメラ

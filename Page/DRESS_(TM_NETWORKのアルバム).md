@@ -142,7 +142,7 @@
 <td><p>CD</p></td>
 <td><p>ESCL-2529</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
 <a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット</a>、24bitデジタルリマスタリング仕様</p></td>
 </tr>
 <tr class="odd">

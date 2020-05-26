@@ -10,7 +10,7 @@
   - [1877年](../Page/1877年.md "wikilink")、ロンドンにて生まれる。
   - [1890年](../Page/1890年.md "wikilink")、[ケント州](https://ja.wikipedia.org/wiki/ケント州 "wikilink")HytheのProspect House Schoolに入学。
   - [1892年](../Page/1892年.md "wikilink")、1年間フランスに留学。
-  - [1902年](../Page/1902年.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[ヴェルヴィエ](https://ja.wikipedia.org/wiki/ヴェルヴィエ "wikilink")にある語学学校にて英語教師として働き始める。
+  - [1902年](../Page/1902年.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の[ヴェルヴィエ](../Page/ヴェルヴィエ.md "wikilink")にある語学学校にて英語教師として働き始める。
   - [1903年](../Page/1903年.md "wikilink")、ヴェルヴィエにて自分の小さな語学学校を開く。のちのInstitut Palmerである。
   - [1915年](../Page/1915年.md "wikilink")、ロンドン大学で教え始める。
   - [1922年](../Page/1922年.md "wikilink")、来日し、文部省英語教育顧問となる。

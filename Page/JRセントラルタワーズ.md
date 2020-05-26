@@ -171,11 +171,11 @@
   - 映画『[小さき勇者たち〜ガメラ〜](../Page/小さき勇者たち〜ガメラ〜.md "wikilink")』：劇中終盤で[ガメラ](../Page/ガメラ.md "wikilink")とジーダスの戦いの舞台になり、大規模なロケが行われた。
   - [中日新聞](../Page/中日新聞.md "wikilink") - 題字の字模様にJRセントラルタワーズの絵が描かれている（[静岡県](../Page/静岡県.md "wikilink")版除く）
   - JR東海関連の駅ビル
-      - [カルミア](https://ja.wikipedia.org/wiki/カルミア_\(豊橋駅ビル\) "wikilink")
+      - [カルミア](../Page/カルミア_\(豊橋駅ビル\).md "wikilink")
       - [メイワン](https://ja.wikipedia.org/wiki/メイワン "wikilink")
       - [パルシェ](../Page/パルシェ.md "wikilink")
       - [アントレ](../Page/アントレ_\(駅ビル\).md "wikilink")
-      - [キュービックプラザ新横浜](https://ja.wikipedia.org/wiki/キュービックプラザ新横浜 "wikilink")
+      - [キュービックプラザ新横浜](../Page/キュービックプラザ新横浜.md "wikilink")
   - 中部地方で最も高いビル
       - [アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")：当ビル完成まで中部地方で最も高いビルであった。
       - [ミッドランドスクエア](../Page/ミッドランドスクエア.md "wikilink")：完成により中部地方で最も高いビルの座を同ビルに譲った。

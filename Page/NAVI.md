@@ -150,7 +150,7 @@
   - [小林彰太郎](../Page/小林彰太郎.md "wikilink")
   - [式場壮吉](../Page/式場壮吉.md "wikilink")
   - [白洲次郎](../Page/白洲次郎.md "wikilink")
-      - 「[日本国憲法](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")と[ベントレー](../Page/ベントレー.md "wikilink")」と題して[1987](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [1988年](../Page/1988年.md "wikilink")まで半年ほど連載。晩年次郎が乗っていた[ソアラの開発主査](../Page/トヨタ・ソアラ.md "wikilink")・岡田稔弘からの手紙から始まり、ゲストとして[寛仁親王](https://ja.wikipedia.org/wiki/寛仁親王 "wikilink")のインタビューなどもあった。
+      - 「[日本国憲法](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")と[ベントレー](../Page/ベントレー.md "wikilink")」と題して[1987](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [1988年](../Page/1988年.md "wikilink")まで半年ほど連載。晩年次郎が乗っていた[ソアラの開発主査](../Page/トヨタ・ソアラ.md "wikilink")・岡田稔弘からの手紙から始まり、ゲストとして[寛仁親王](../Page/寛仁親王.md "wikilink")のインタビューなどもあった。
   - [南原竜樹](../Page/南原竜樹.md "wikilink") - かつて[中近東](../Page/中近東.md "wikilink")からの並行輸入を行っていたとき記事にされた（1988年10月号）。
       - [オートトレーディング](../Page/オートトレーディングルフトジャパン.md "wikilink") - 長期リポート車、[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")BXブレークのインポーター（並行輸入）として紹介。当時は「新興並行輸入業者」であった。
   - [ICHIKOHロードナビゲーター](https://ja.wikipedia.org/wiki/ICHIKOHロードナビゲーター "wikilink")（かつて[TFMで放送されたラジオ番組](../Page/エフエム東京.md "wikilink")）

@@ -73,7 +73,7 @@
   - [中村勘助](../Page/中村正辰.md "wikilink")：**[山田晴生](https://ja.wikipedia.org/wiki/山田晴生 "wikilink")**
   - [近松勘六](../Page/近松行重.md "wikilink")：**[関根信昭](../Page/関根信昭.md "wikilink")**
   - [倉橋伝助](https://ja.wikipedia.org/wiki/倉橋武幸 "wikilink")：**[吉田柳児](https://ja.wikipedia.org/wiki/吉田柳児 "wikilink")**
-  - [勝田新左衛門](https://ja.wikipedia.org/wiki/勝田武尭 "wikilink")：**[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")**
+  - [勝田新左衛門](https://ja.wikipedia.org/wiki/勝田武尭 "wikilink")：**[宗近晴見](../Page/宗近晴見.md "wikilink")**
   - [早水藤左衛門](../Page/早水満尭.md "wikilink")：**[新田昌玄](../Page/新田昌玄.md "wikilink")**
   - [村松三太夫](https://ja.wikipedia.org/wiki/村松高直 "wikilink")：**[中川謙二](../Page/中川謙二.md "wikilink")**
   - [奥田貞右衛門](../Page/奥田行高.md "wikilink")：**[内山森彦](https://ja.wikipedia.org/wiki/内山森彦 "wikilink")**
@@ -516,7 +516,7 @@
 [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:忠臣蔵を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:忠臣蔵を題材としたテレビドラマ "wikilink") [Category:1964年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1964年のテレビドラマ "wikilink") [Category:NHK神戸](https://ja.wikipedia.org/wiki/Category:NHK神戸 "wikilink") [Category:大佛次郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:大佛次郎原作のテレビドラマ "wikilink")
 
 1.
-2.  なお、大石内蔵助に長谷川一夫、吉良上野介に滝沢修という配役は、1958年の大映映画『[忠臣蔵](https://ja.wikipedia.org/wiki/忠臣蔵_\(1958年の映画\) "wikilink")』（監督[渡辺邦男](../Page/渡辺邦男.md "wikilink")）と全く同じである。
+2.  なお、大石内蔵助に長谷川一夫、吉良上野介に滝沢修という配役は、1958年の大映映画『[忠臣蔵](../Page/忠臣蔵_\(1958年の映画\).md "wikilink")』（監督[渡辺邦男](../Page/渡辺邦男.md "wikilink")）と全く同じである。
 3.
 4.
 5.

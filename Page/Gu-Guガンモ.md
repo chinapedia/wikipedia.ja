@@ -140,7 +140,7 @@
 
   - 原作 - [細野不二彦](../Page/細野不二彦.md "wikilink")
   - 企画 - 岡正（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、[片岡義朗](../Page/片岡義朗.md "wikilink")（[旭通信社](https://ja.wikipedia.org/wiki/旭通信社 "wikilink")）
-  - 音楽 - [小笠原寛](https://ja.wikipedia.org/wiki/手使海ユトロ "wikilink")
+  - 音楽 - [小笠原寛](../Page/手使海ユトロ.md "wikilink")
   - キャラクターデザイン - [香西隆男](../Page/香西隆男.md "wikilink")（名目上のクレジットで、実際は[井上俊之](../Page/井上俊之.md "wikilink")と[梶島正樹](../Page/梶島正樹.md "wikilink")が担当）<ref>小黒祐一郎[「香西隆男さんの取材」](http://animesama.cocolog-nifty.com/animestyle/2005/06/post_bb24.html)『編集長メモ』2005年6月28日。
 
 </ref>

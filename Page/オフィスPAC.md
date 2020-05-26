@@ -364,7 +364,7 @@
 ### 男性
 
   - [安達貴英](https://ja.wikipedia.org/wiki/安達貴英 "wikilink")
-  - [彩乃木崇之](https://ja.wikipedia.org/wiki/彩乃木崇之 "wikilink")
+  - [彩乃木崇之](../Page/彩乃木崇之.md "wikilink")
   - [居谷四郎](../Page/居谷四郎.md "wikilink")
   - [内田勝之](https://ja.wikipedia.org/wiki/内田勝之 "wikilink")（現所属：劇団わらび座）
   - [かつまゆう](../Page/かつまゆう.md "wikilink")

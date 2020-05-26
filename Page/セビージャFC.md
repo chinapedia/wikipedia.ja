@@ -51,7 +51,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 #### 2014-15シーズン
 
-[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")へと移籍した[イヴァン・ラキティッチ](https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ "wikilink")の後釜として[グジェゴシュ・クリホビアク](https://ja.wikipedia.org/wiki/グジェゴシュ・クリホビアク "wikilink")を獲得したのを皮切りに、他にも[エベル・バネガ](../Page/エベル・バネガ.md "wikilink")、[アレイクス・ビダル](https://ja.wikipedia.org/wiki/アレイクス・ビダル "wikilink")、[ジェラール・デウロフェウ](https://ja.wikipedia.org/wiki/ジェラール・デウロフェウ "wikilink")、[デニス・スアレスらを獲得した](https://ja.wikipedia.org/wiki/デニス・スアレス・フェルナンデス "wikilink")。[UEFAヨーロッパリーグでは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15 "wikilink")、2年連続の欧州タイトルを獲得した。
+[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")へと移籍した[イヴァン・ラキティッチ](../Page/イヴァン・ラキティッチ.md "wikilink")の後釜として[グジェゴシュ・クリホビアク](https://ja.wikipedia.org/wiki/グジェゴシュ・クリホビアク "wikilink")を獲得したのを皮切りに、他にも[エベル・バネガ](../Page/エベル・バネガ.md "wikilink")、[アレイクス・ビダル](https://ja.wikipedia.org/wiki/アレイクス・ビダル "wikilink")、[ジェラール・デウロフェウ](https://ja.wikipedia.org/wiki/ジェラール・デウロフェウ "wikilink")、[デニス・スアレスらを獲得した](https://ja.wikipedia.org/wiki/デニス・スアレス・フェルナンデス "wikilink")。[UEFAヨーロッパリーグでは](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15 "wikilink")、2年連続の欧州タイトルを獲得した。
 
 #### 2015-16シーズン
 
@@ -59,7 +59,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 #### 2016-17シーズン
 
-[ルシアーノ・ビエット](https://ja.wikipedia.org/wiki/ルシアーノ・ビエット "wikilink")、[サルヴァトーレ・シリグ](https://ja.wikipedia.org/wiki/サルヴァトーレ・シリグ "wikilink")、[ガンソ](https://ja.wikipedia.org/wiki/ガンソ "wikilink")、[清武弘嗣](https://ja.wikipedia.org/wiki/清武弘嗣 "wikilink")、[ホアキン・コレア](https://ja.wikipedia.org/wiki/ホアキン・コレア "wikilink")、[ウィサム・ベン・イェデル](https://ja.wikipedia.org/wiki/ウィサム・ベン・イェデル "wikilink")、[フランコ・バスケス](https://ja.wikipedia.org/wiki/フランコ・バスケス "wikilink")を補強。また、移籍期間最終日に[サミル・ナスリ](../Page/サミル・ナスリ.md "wikilink")の補強に成功した。リーグ戦は[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")と[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")、[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")と上位争いをくり広げた。[欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/欧州チャンピオンズリーグ "wikilink")では決勝トーナメントに進出するも、1回戦で[レスター・シティ](https://ja.wikipedia.org/wiki/レスター・シティ "wikilink")に2戦合計2-3で敗れた。
+[ルシアーノ・ビエット](https://ja.wikipedia.org/wiki/ルシアーノ・ビエット "wikilink")、[サルヴァトーレ・シリグ](https://ja.wikipedia.org/wiki/サルヴァトーレ・シリグ "wikilink")、[ガンソ](https://ja.wikipedia.org/wiki/ガンソ "wikilink")、[清武弘嗣](../Page/清武弘嗣.md "wikilink")、[ホアキン・コレア](https://ja.wikipedia.org/wiki/ホアキン・コレア "wikilink")、[ウィサム・ベン・イェデル](https://ja.wikipedia.org/wiki/ウィサム・ベン・イェデル "wikilink")、[フランコ・バスケス](https://ja.wikipedia.org/wiki/フランコ・バスケス "wikilink")を補強。また、移籍期間最終日に[サミル・ナスリ](../Page/サミル・ナスリ.md "wikilink")の補強に成功した。リーグ戦は[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")と[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")、[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")と上位争いをくり広げた。[欧州チャンピオンズリーグ](https://ja.wikipedia.org/wiki/欧州チャンピオンズリーグ "wikilink")では決勝トーナメントに進出するも、1回戦で[レスター・シティ](https://ja.wikipedia.org/wiki/レスター・シティ "wikilink")に2戦合計2-3で敗れた。
 
 #### 2017-18シーズン
 
@@ -73,7 +73,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 ### スカウト
 
-敏腕SDである[モンチ](https://ja.wikipedia.org/wiki/モンチ "wikilink")を中心に低コストで選手を獲得し、ビッグクラブに高額な移籍金で売却することで収益を得るという手法を用いてきた。代表的なケースに[カルロス・バッカ](https://ja.wikipedia.org/wiki/カルロス・バッカ "wikilink")(ミラン)、[グジェゴシュ・クリホビアク](https://ja.wikipedia.org/wiki/グジェゴシュ・クリホビアク "wikilink")(PSG)、[ジョフレイ・コンドグビア](https://ja.wikipedia.org/wiki/ジョフレイ・コンドグビア "wikilink")(ASモナコ)、[ケヴィン・ガメイロ](https://ja.wikipedia.org/wiki/ケヴィン・ガメイロ "wikilink")(アトレティコ・マドリード)、[フェデリコ・ファシオ](https://ja.wikipedia.org/wiki/フェデリコ・ファシオ "wikilink")(トッテナム)、[アルバロ・ネグレド](https://ja.wikipedia.org/wiki/アルバロ・ネグレド "wikilink")(マンチェスター・シティ)、[ビセンテ・イボーラ](https://ja.wikipedia.org/wiki/ビセンテ・イボーラ "wikilink")(レスター・シティ)、[ビトーロ](https://ja.wikipedia.org/wiki/ビクトル・マチン・ペレス "wikilink")(アトレティコ・マドリード)などがある。中でも[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")は最も多くの選手を売却してきた、いわゆる"お得意様"として有名であり、過去に[ダニエウ・アウヴェス](../Page/ダニエウ・アウヴェス.md "wikilink")、[アドリアーノ・コレイア](../Page/アドリアーノ・コレイア.md "wikilink")、[セイドゥ・ケイタ](../Page/セイドゥ・ケイタ.md "wikilink")、[イヴァン・ラキティッチ](https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ "wikilink")、[アレイクス・ビダル](https://ja.wikipedia.org/wiki/アレイクス・ビダル "wikilink")を売却している。下部組織も優秀でビッグクラブに移籍した例として[セルヒオ・ラモス](../Page/セルヒオ・ラモス.md "wikilink")(レアル・マドリード)、[ホセ・アントニオ・レジェス](../Page/ホセ・アントニオ・レジェス.md "wikilink")(アーセナル)、[ヘスス・ナバス](../Page/ヘスス・ナバス.md "wikilink")(マンチェスター・シティ)、[アルベルト・モレノ](https://ja.wikipedia.org/wiki/アルベルト・モレノ・ペレス "wikilink")(リバプールFC)がある。
+敏腕SDである[モンチ](https://ja.wikipedia.org/wiki/モンチ "wikilink")を中心に低コストで選手を獲得し、ビッグクラブに高額な移籍金で売却することで収益を得るという手法を用いてきた。代表的なケースに[カルロス・バッカ](https://ja.wikipedia.org/wiki/カルロス・バッカ "wikilink")(ミラン)、[グジェゴシュ・クリホビアク](https://ja.wikipedia.org/wiki/グジェゴシュ・クリホビアク "wikilink")(PSG)、[ジョフレイ・コンドグビア](https://ja.wikipedia.org/wiki/ジョフレイ・コンドグビア "wikilink")(ASモナコ)、[ケヴィン・ガメイロ](https://ja.wikipedia.org/wiki/ケヴィン・ガメイロ "wikilink")(アトレティコ・マドリード)、[フェデリコ・ファシオ](https://ja.wikipedia.org/wiki/フェデリコ・ファシオ "wikilink")(トッテナム)、[アルバロ・ネグレド](https://ja.wikipedia.org/wiki/アルバロ・ネグレド "wikilink")(マンチェスター・シティ)、[ビセンテ・イボーラ](https://ja.wikipedia.org/wiki/ビセンテ・イボーラ "wikilink")(レスター・シティ)、[ビトーロ](https://ja.wikipedia.org/wiki/ビクトル・マチン・ペレス "wikilink")(アトレティコ・マドリード)などがある。中でも[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")は最も多くの選手を売却してきた、いわゆる"お得意様"として有名であり、過去に[ダニエウ・アウヴェス](../Page/ダニエウ・アウヴェス.md "wikilink")、[アドリアーノ・コレイア](../Page/アドリアーノ・コレイア.md "wikilink")、[セイドゥ・ケイタ](../Page/セイドゥ・ケイタ.md "wikilink")、[イヴァン・ラキティッチ](../Page/イヴァン・ラキティッチ.md "wikilink")、[アレイクス・ビダル](https://ja.wikipedia.org/wiki/アレイクス・ビダル "wikilink")を売却している。下部組織も優秀でビッグクラブに移籍した例として[セルヒオ・ラモス](../Page/セルヒオ・ラモス.md "wikilink")(レアル・マドリード)、[ホセ・アントニオ・レジェス](../Page/ホセ・アントニオ・レジェス.md "wikilink")(アーセナル)、[ヘスス・ナバス](../Page/ヘスス・ナバス.md "wikilink")(マンチェスター・シティ)、[アルベルト・モレノ](https://ja.wikipedia.org/wiki/アルベルト・モレノ・ペレス "wikilink")(リバプールFC)がある。
 
 ### スタジアム
 
@@ -504,7 +504,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p>レアル・ベティス</p></td>
 <td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="../Page/ホセ・アントニオ・レジェス.md" title="wikilink">レジェス</a> 1', 32', <a href="https://ja.wikipedia.org/wiki/フェデリコ・ファシオ" title="wikilink">ファシオ</a> 4', 41',<br />
-<a href="https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ" title="wikilink">ラキティッチ</a> 91'</p></td>
+<a href="../Page/イヴァン・ラキティッチ.md" title="wikilink">ラキティッチ</a> 91'</p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ルベン・カストロ" title="wikilink">カストロ</a> 66'</p></td>
 </tr>
 <tr class="even">
@@ -516,7 +516,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ドルラン・パボン" title="wikilink">パボン</a> 42', <a href="https://ja.wikipedia.org/wiki/ルベン・カストロ" title="wikilink">カストロ</a> 53',<br />
 <a href="https://ja.wikipedia.org/wiki/ノサ・イギエボー" title="wikilink">イギエボー</a> 88'</p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ" title="wikilink">ラキティッチ</a> 7', 18',<br />
+<td><p><small><a href="../Page/イヴァン・ラキティッチ.md" title="wikilink">ラキティッチ</a> 7', 18',<br />
 <a href="https://ja.wikipedia.org/wiki/アルバロ・ネグレド" title="wikilink">ネグレド</a> 32'</p></td>
 <td></td>
 </tr>
@@ -993,7 +993,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - [グレゴリオ・マンサーノ](https://ja.wikipedia.org/wiki/グレゴリオ・マンサーノ "wikilink") 2010.9-2011.5
 
-  - [マルセリーノ・ガルシア・トラル](https://ja.wikipedia.org/wiki/マルセリーノ・ガルシア・トラル "wikilink") 2011.6-2012.2
+  - [マルセリーノ・ガルシア・トラル](../Page/マルセリーノ・ガルシア・トラル.md "wikilink") 2011.6-2012.2
 
   - [ミチェル](../Page/ミチェル.md "wikilink") 2012.2-2013.1
 
@@ -1135,7 +1135,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - [ディディエ・ゾコラ](../Page/ディディエ・ゾコラ.md "wikilink") 2009-2011
 
-  - [イヴァン・ラキティッチ](https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ "wikilink") 2011.1-2014
+  - [イヴァン・ラキティッチ](../Page/イヴァン・ラキティッチ.md "wikilink") 2011.1-2014
 
 </div>
 

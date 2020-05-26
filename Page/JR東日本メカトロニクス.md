@@ -7,13 +7,13 @@
 
 ## 概要
 
-それまで[首都圏のJR東日本および旧](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")の機械区に属した出改札機の設置工事・保守部門を分社化する形で[1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）に設立され、その後の取扱エリア拡大に伴い[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")・[信越地方](../Page/信越地方.md "wikilink")にも支店等の拠点を開設している。その後他社IC乗車券をサポートするため、[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[福岡等](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、地方主要都市にも展開している。
+それまで[首都圏のJR東日本および旧](../Page/首都圏_\(日本\).md "wikilink")[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")の機械区に属した出改札機の設置工事・保守部門を分社化する形で[1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）に設立され、その後の取扱エリア拡大に伴い[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")・[信越地方](../Page/信越地方.md "wikilink")にも支店等の拠点を開設している。その後他社IC乗車券をサポートするため、[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[福岡等](https://ja.wikipedia.org/wiki/福岡市 "wikilink")、地方主要都市にも展開している。
 
 初代[社長](../Page/社長.md "wikilink")は現在JR東日本相談役の[松田昌士](../Page/松田昌士.md "wikilink")であり、当時JR東日本の取締役副社長と兼任した。また、JR東日本の[秋田](../Page/東日本旅客鉄道秋田支社.md "wikilink")・（初代）[横浜支社長などを歴任した植田哲也が](../Page/東日本旅客鉄道横浜支社.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）から[2006年](../Page/2006年.md "wikilink")（平成18年）まで、[千葉](../Page/東日本旅客鉄道千葉支社.md "wikilink")・[仙台支社長を歴任した鈴木俊一が](../Page/東日本旅客鉄道仙台支社.md "wikilink")[2013年](../Page/2013年.md "wikilink")（平成25年）まで社長を務めた。現在の社長は、元JR東日本IT・Suica事業本部副本部長兼企画部長で、[Suica](../Page/Suica.md "wikilink")の開発に関わった[椎橋章夫](../Page/椎橋章夫.md "wikilink")である。
 
   - なお、JREMと同じくJR東日本グループのシステムインテグレータである[JR東日本情報システム](https://ja.wikipedia.org/wiki/JR東日本情報システム "wikilink") (JEIS) は、広範囲にソフトウェアの開発や運用を全面的に担うが、JREMは出改札機器と[Suica](../Page/Suica.md "wikilink")関係に特化して、主にハード面を担う企業である。
 
-以前は、現在と同じ読みの「ジェイアール東日本メカトロニクス株式会社」という商号であったが、[2012年](../Page/2012年.md "wikilink")（平成24年）[4月1日](../Page/4月1日.md "wikilink")にJR東日本のグループ内での事業の再編成により[東日本トランスポーテック](https://ja.wikipedia.org/wiki/東日本トランスポーテック "wikilink")株式会社、[東北交通機械](https://ja.wikipedia.org/wiki/東北交通機械 "wikilink")株式会社、[新潟交通機械株式会社の](https://ja.wikipedia.org/wiki/東日本旅客鉄道新潟支社#新潟交通機械 "wikilink")3社の機械設備（[ホームドア](../Page/ホームドア.md "wikilink")、[昇降機](../Page/エレベーター.md "wikilink")、[消融雪装置等](../Page/消雪パイプ.md "wikilink")）部門に係わる事業がJREMに移管され、この再編に合わせ商号を**JR東日本メカトロニクス株式会社**に変更した\[1\]。
+以前は、現在と同じ読みの「ジェイアール東日本メカトロニクス株式会社」という商号であったが、[2012年](../Page/2012年.md "wikilink")（平成24年）[4月1日](../Page/4月1日.md "wikilink")にJR東日本のグループ内での事業の再編成により[東日本トランスポーテック](https://ja.wikipedia.org/wiki/東日本トランスポーテック "wikilink")株式会社、[東北交通機械](../Page/東北交通機械.md "wikilink")株式会社、[新潟交通機械株式会社の](https://ja.wikipedia.org/wiki/東日本旅客鉄道新潟支社#新潟交通機械 "wikilink")3社の機械設備（[ホームドア](../Page/ホームドア.md "wikilink")、[昇降機](../Page/エレベーター.md "wikilink")、[消融雪装置等](../Page/消雪パイプ.md "wikilink")）部門に係わる事業がJREMに移管され、この再編に合わせ商号を**JR東日本メカトロニクス株式会社**に変更した\[1\]。
 
 ## 沿革
 
@@ -94,7 +94,7 @@
 
 **過去に保守を担当していた会社**
 
-  - [東北交通機械](https://ja.wikipedia.org/wiki/東北交通機械 "wikilink")（JR系）
+  - [東北交通機械](../Page/東北交通機械.md "wikilink")（JR系）
       - 2012年4月のグループ会社再編により出改札機器を含む駅設備等の保守業務を当社に統合。同社が担当していたエリアの出改札機器保守業務は直轄で実施している。
   - [東日本トランスポーテック](https://ja.wikipedia.org/wiki/東日本トランスポーテック "wikilink")（旧：日本交通機械）
       - JR東日本の東京・横浜支社管内において券売機関係のメンテナンスを受託。2002年3月をもってジェイアール東日本メカトロサービスおよび東芝ソシアルテクノス（現：東芝自動機器システムサービス）に業務移管し撤退。

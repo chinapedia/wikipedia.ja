@@ -25,7 +25,7 @@
 
 正式な作品名は『牙狼〈GARO〉』だが、最終話のラストカットに「暗黒魔戒騎士篇」の表記があることから、後に制作されたシリーズとの区別のためにこう呼ばれることもある。雨宮は、本作の物語を「暗黒魔戒騎士篇」と位置づけることは最初から決まっていたと述べている\[4\]。
 
-テレビスペシャル終了後、本シリーズは暫く沈黙したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に登場した本作モチーフの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機『[CR牙狼](https://ja.wikipedia.org/wiki/CR牙狼 "wikilink")』が爆発的人気を得て大ヒットを記録する。これ以降パチンコ機発売元である[サンセイアールアンドディ](https://ja.wikipedia.org/wiki/サンセイアールアンドディ "wikilink")が筆頭スポンサーに就いたことで資金面に目途が立ち、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の劇場版映画『[牙狼<GARO> 〜RED REQUIEM〜](https://ja.wikipedia.org/wiki/牙狼-GARO-_〜RED_REQUIEM〜 "wikilink")』を皮切りに特撮・テレビアニメ・劇場版映画のいずれかで継続してシリーズ新作が製作されるようになった。
+テレビスペシャル終了後、本シリーズは暫く沈黙したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に登場した本作モチーフの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機『[CR牙狼](https://ja.wikipedia.org/wiki/CR牙狼 "wikilink")』が爆発的人気を得て大ヒットを記録する。これ以降パチンコ機発売元である[サンセイアールアンドディ](../Page/サンセイアールアンドディ.md "wikilink")が筆頭スポンサーに就いたことで資金面に目途が立ち、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の劇場版映画『[牙狼<GARO> 〜RED REQUIEM〜](https://ja.wikipedia.org/wiki/牙狼-GARO-_〜RED_REQUIEM〜 "wikilink")』を皮切りに特撮・テレビアニメ・劇場版映画のいずれかで継続してシリーズ新作が製作されるようになった。
 
 シリーズ10周年記念として、2016年7月8日よりHDリマスター版が再放送された。その際、地上波では出演者とスタッフ（雨宮ほか）によるオーディオコメンタリーを副音声で放送している。
 
@@ -777,7 +777,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
     2018年10月放送。ジンガが魔戒騎士・御影神牙として転生した物語を描く。
   - 『[牙狼〈GARO〉-月虹ノ旅人-](https://ja.wikipedia.org/wiki/牙狼-GARO-_-月虹ノ旅人- "wikilink")』
     2019年10月4日公開。雷牙を主人公にした映画かつ冴島家シリーズの集大成的作品。
-  - 『[GARO -VERSUS ROAD-](https://ja.wikipedia.org/wiki/GARO_-VERSUS_ROAD- "wikilink")』
+  - 『[GARO -VERSUS ROAD-](../Page/GARO_-VERSUS_ROAD-.md "wikilink")』
     2020年4月放送。15周年記念作品。これまでのシリーズとは異なり[VR](../Page/バーチャル・リアリティ.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")を題材にしている。
 
 ## 関連商品
@@ -912,7 +912,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 
 ### パチンコ
 
-2008年11月に[サンセイアールアンドディ](https://ja.wikipedia.org/wiki/サンセイアールアンドディ "wikilink")から[CR牙狼](https://ja.wikipedia.org/wiki/CR牙狼 "wikilink")として発売された。
+2008年11月に[サンセイアールアンドディ](../Page/サンセイアールアンドディ.md "wikilink")から[CR牙狼](https://ja.wikipedia.org/wiki/CR牙狼 "wikilink")として発売された。
 
 [デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")と[羽根モノ](../Page/羽根モノ.md "wikilink")が複合した旧1種・2種複合機にあたるが、羽根モノ部分の抽選を簡素なものにして、大当り確率1/397.18、魔戒チャンス突入率50%・継続率82%で15ラウンド大当たりが続く「魔戒チャンス」を搭載した爆裂機である。シンプルで分かりやすく、強力な出球性能が魅力の当機は、[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")を製作していないにもかかわらず、攻略単行本が発売になるほどのヒットを得ており、本作品の知名度を広げた。
 

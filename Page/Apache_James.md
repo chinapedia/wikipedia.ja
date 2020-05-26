@@ -5,7 +5,7 @@
 
 Webアプリケーションサーバとして有名な、同プロジェクトの[Apache Tomcatの](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")[電子メール](../Page/電子メール.md "wikilink")版である。
 
-Apache Jamesは、[BSDライセンスをベースとした](https://ja.wikipedia.org/wiki/BSD_License "wikilink")[Apache Licenseであり](https://ja.wikipedia.org/wiki/Apache_License "wikilink")、商用利用も多くされている。
+Apache Jamesは、[BSDライセンスをベースとした](https://ja.wikipedia.org/wiki/BSD_License "wikilink")[Apache Licenseであり](../Page/Apache_License.md "wikilink")、商用利用も多くされている。
 
 Apache Jamesは、[Apache Avalon](https://ja.wikipedia.org/wiki/Apache_Avalon "wikilink")[アプリケーションフレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")を元に開発されていたので、[Apache Avalonが解散したときは](https://ja.wikipedia.org/wiki/Apache_Avalon "wikilink")、どうしたらよいか混乱した。
 

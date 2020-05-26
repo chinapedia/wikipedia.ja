@@ -1,7 +1,7 @@
 > この記事は[ATI Technologies](https://ja.wikipedia.org/wiki/ATI_Technologies)から翻訳されています。
 
 
-**ATI Technologies**（エーティーアイ テクノロジーズ）は、かつて存在した[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[半導体](../Page/半導体.md "wikilink")設計会社である。[2006年](../Page/2006年.md "wikilink")に[アドバンスト・マイクロ・デバイセズ](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink") (AMD) に買収され、以後は同社の[グラフィックコントローラ](https://ja.wikipedia.org/wiki/グラフィックコントローラ "wikilink")のブランド名として提供が行なわれていたが、2010年のブランド統合によりATIブランドは消滅した\[1\]。
+**ATI Technologies**（エーティーアイ テクノロジーズ）は、かつて存在した[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[半導体](../Page/半導体.md "wikilink")設計会社である。[2006年](../Page/2006年.md "wikilink")に[アドバンスト・マイクロ・デバイセズ](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink") (AMD) に買収され、以後は同社の[グラフィックコントローラ](../Page/グラフィックコントローラ.md "wikilink")のブランド名として提供が行なわれていたが、2010年のブランド統合によりATIブランドは消滅した\[1\]。
 
 ## 概要
 

@@ -5,7 +5,7 @@
 
 ## 作品内容と特徴
 
-[甲斐](https://ja.wikipedia.org/wiki/甲斐 "wikilink")の[戦国大名](../Page/戦国大名.md "wikilink")である[武田信玄](../Page/武田信玄.md "wikilink")（晴信）が主人公。原作は[新田次郎](../Page/新田次郎.md "wikilink")の歴史小説の『[武田信玄](../Page/武田信玄_\(小説\).md "wikilink")』と『武田三代』。新田次郎小説の大河ドラマ化はこれが初めて。[脚本家](../Page/脚本家.md "wikilink")は[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")が担当した。前年の『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』に続いて広義の[戦国時代を扱った作品である](../Page/戦国時代_\(日本\).md "wikilink")。武田信玄が主要登場人物として登場する大河ドラマには、[上杉謙信](../Page/上杉謙信.md "wikilink")を主人公にした[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の『[天と地と](../Page/天と地と_\(NHK大河ドラマ\).md "wikilink")』、武田家の「[軍師](../Page/軍師.md "wikilink")」とされる[山本勘助](https://ja.wikipedia.org/wiki/山本勘助 "wikilink")を主人公にした[2007年](../Page/2007年.md "wikilink")の『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』がある。
+[甲斐](https://ja.wikipedia.org/wiki/甲斐 "wikilink")の[戦国大名](../Page/戦国大名.md "wikilink")である[武田信玄](../Page/武田信玄.md "wikilink")（晴信）が主人公。原作は[新田次郎](../Page/新田次郎.md "wikilink")の歴史小説の『[武田信玄](../Page/武田信玄_\(小説\).md "wikilink")』と『武田三代』。新田次郎小説の大河ドラマ化はこれが初めて。[脚本家](../Page/脚本家.md "wikilink")は[田向正健](../Page/田向正健.md "wikilink")が担当した。前年の『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』に続いて広義の[戦国時代を扱った作品である](../Page/戦国時代_\(日本\).md "wikilink")。武田信玄が主要登場人物として登場する大河ドラマには、[上杉謙信](../Page/上杉謙信.md "wikilink")を主人公にした[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の『[天と地と](../Page/天と地と_\(NHK大河ドラマ\).md "wikilink")』、武田家の「[軍師](../Page/軍師.md "wikilink")」とされる[山本勘助](https://ja.wikipedia.org/wiki/山本勘助 "wikilink")を主人公にした[2007年](../Page/2007年.md "wikilink")の『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』がある。
 
 平均視聴率は初回視聴率42.5%、最高視聴率49.2%、平均視聴率39.2%である\[1\]。前年の『独眼竜政宗』と僅か0.5%差で史上2位の平均視聴率であり、あわせて大河ドラマ史の絶頂期を形成した。
 
@@ -536,7 +536,7 @@
     公家。内大臣。病身の三条夫人を見舞うべく都から下向。
     三条の方の実家である[三条家](../Page/三条家.md "wikilink")の当主[実教の実父](https://ja.wikipedia.org/wiki/三条実教 "wikilink")。
   - 近野昌八郎
-    演：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
+    演：[宗近晴見](../Page/宗近晴見.md "wikilink")
     朝廷の使い。
   - 本間角造
     演：[重松収](../Page/重松収.md "wikilink")
@@ -559,7 +559,7 @@
 
 ## スタッフ
 
-  - 脚本：[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")
+  - 脚本：[田向正健](../Page/田向正健.md "wikilink")
   - 原作：新田次郎『[武田信玄](../Page/武田信玄_\(小説\).md "wikilink")』
   - 音楽：[山本直純](../Page/山本直純.md "wikilink")
   - 語り：[若尾文子](../Page/若尾文子.md "wikilink")（[大井夫人役と兼任](../Page/大井の方.md "wikilink")）、[宮本隆治](../Page/宮本隆治.md "wikilink")アナウンサー（アバンタイトル）

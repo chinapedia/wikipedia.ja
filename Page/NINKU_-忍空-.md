@@ -313,7 +313,7 @@ NINKU -忍空-
 <td><p>子忍の風助!</p></td>
 <td><p><a href="../Page/橋本裕志.md" title="wikilink">橋本裕志</a></p></td>
 <td><p><a href="../Page/阿部記之.md" title="wikilink">阿部紀之</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉道徳" title="wikilink">千葉道徳</a></p></td>
+<td><p><a href="../Page/千葉道徳.md" title="wikilink">千葉道徳</a></p></td>
 <td><p>長﨑斉</p></td>
 <td><p><strong>1995年</strong><br />
 1月14日</p></td>

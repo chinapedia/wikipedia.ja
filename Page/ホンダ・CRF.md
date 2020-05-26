@@ -37,7 +37,7 @@
 
 ## 日本での扱い
 
-競技用車両であっても[逆輸入車に対しては](https://ja.wikipedia.org/wiki/輸入車#逆輸入車 "wikilink")[通関](../Page/通関.md "wikilink")証明が発行されるため日本国内での[登録は可能となっており](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、別途[速度計](../Page/速度計.md "wikilink")・[ウインカーおよび操作](../Page/方向指示器.md "wikilink")[スイッチ](../Page/スイッチ.md "wikilink")・[バックミラー](https://ja.wikipedia.org/wiki/バックミラー "wikilink")・[反射板](https://ja.wikipedia.org/wiki/リフレクター "wikilink")・ナンバープレートステーなどを用意し、付属の輸入業者の譲渡書と通関証明書（250 cc 超は[ブレーキ](../Page/ブレーキ.md "wikilink")性能証明書類も必要）を提示することで車検場（[地方運輸局](../Page/地方運輸局.md "wikilink")）でのナンバープレート取得が可能である。ただし[保安部品](https://ja.wikipedia.org/wiki/保安部品 "wikilink")の装着や[排ガス検査をパスするために煩雑な手続きを要するため割高ではあるが](../Page/排気ガス.md "wikilink")[並行輸入](https://ja.wikipedia.org/wiki/並行輸入 "wikilink")業者がすべて代行し、すぐ乗れるような状態で販売している場合もある。
+競技用車両であっても[逆輸入車に対しては](https://ja.wikipedia.org/wiki/輸入車#逆輸入車 "wikilink")[通関](../Page/通関.md "wikilink")証明が発行されるため日本国内での[登録は可能となっており](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、別途[速度計](../Page/速度計.md "wikilink")・[ウインカーおよび操作](../Page/方向指示器.md "wikilink")[スイッチ](../Page/スイッチ.md "wikilink")・[バックミラー](../Page/バックミラー.md "wikilink")・[反射板](https://ja.wikipedia.org/wiki/リフレクター "wikilink")・ナンバープレートステーなどを用意し、付属の輸入業者の譲渡書と通関証明書（250 cc 超は[ブレーキ](../Page/ブレーキ.md "wikilink")性能証明書類も必要）を提示することで車検場（[地方運輸局](../Page/地方運輸局.md "wikilink")）でのナンバープレート取得が可能である。ただし[保安部品](https://ja.wikipedia.org/wiki/保安部品 "wikilink")の装着や[排ガス検査をパスするために煩雑な手続きを要するため割高ではあるが](../Page/排気ガス.md "wikilink")[並行輸入](https://ja.wikipedia.org/wiki/並行輸入 "wikilink")業者がすべて代行し、すぐ乗れるような状態で販売している場合もある。
 
 また[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月より[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")が輸入車に対しても強化されており、元から公道走行が考慮されていない競技用車両を規制値に対応させることは非常に厳しくなったためこの規制以降より新規登録が難しい状況下にある。
 

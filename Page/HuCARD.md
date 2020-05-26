@@ -57,7 +57,7 @@
   -
 
       -
-        『[ガンヘッド](https://ja.wikipedia.org/wiki/ガンヘッド_\(PCエンジン\) "wikilink")』、『[ダンジョンエクスプローラー](https://ja.wikipedia.org/wiki/ダンジョンエクスプローラー "wikilink")』、『[ネクタリス](../Page/ネクタリス.md "wikilink")』、『[ニュートピア](../Page/ニュートピア.md "wikilink")』、『[ファイヤープロレスリング コンビネーションタッグ](https://ja.wikipedia.org/wiki/ファイヤープロレスリング_コンビネーションタッグ "wikilink")』他
+        『[ガンヘッド](https://ja.wikipedia.org/wiki/ガンヘッド_\(PCエンジン\) "wikilink")』、『[ダンジョンエクスプローラー](https://ja.wikipedia.org/wiki/ダンジョンエクスプローラー "wikilink")』、『[ネクタリス](../Page/ネクタリス.md "wikilink")』、『[ニュートピア](../Page/ニュートピア.md "wikilink")』、『[ファイヤープロレスリング コンビネーションタッグ](../Page/ファイヤープロレスリング_コンビネーションタッグ.md "wikilink")』他
 
 <!-- end list -->
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-1980年代から1990年代にかけて、[民放](https://ja.wikipedia.org/wiki/民放 "wikilink")[AMラジオ](https://ja.wikipedia.org/wiki/AMラジオ "wikilink")の夜ワイド番組は10代をターゲットにした[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")が主流だった。しかしTBSラジオは[首都圏において](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[文化放送](../Page/文化放送.md "wikilink")「[吉田照美のてるてるワイド](../Page/吉田照美のてるてるワイド.md "wikilink")」や[ニッポン放送](../Page/ニッポン放送.md "wikilink")「[ヤングパラダイス](../Page/ヤングパラダイス.md "wikilink")」に水を開けられていた。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の「[進め\!おもしろバホバホ隊](../Page/進め!おもしろバホバホ隊.md "wikilink")」終了後は他局と一線を画した大人向け番組に転換したものの、定着しなかった。本番組で、4年ぶりに10代向け夜ワイド番組に回帰した。本番組開始に合わせ、TBSラジオは月曜日から土曜日の10代向け番組枠を総称した「**[TBS RADIO 2(TBSレディオクラブ)](https://ja.wikipedia.org/wiki/TBSレディオクラブ "wikilink")**」ブランドを創設。本番組がフラッグシップ的存在であった。
+1980年代から1990年代にかけて、[民放](https://ja.wikipedia.org/wiki/民放 "wikilink")[AMラジオ](https://ja.wikipedia.org/wiki/AMラジオ "wikilink")の夜ワイド番組は10代をターゲットにした[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")が主流だった。しかしTBSラジオは[首都圏において](../Page/首都圏_\(日本\).md "wikilink")[文化放送](../Page/文化放送.md "wikilink")「[吉田照美のてるてるワイド](../Page/吉田照美のてるてるワイド.md "wikilink")」や[ニッポン放送](../Page/ニッポン放送.md "wikilink")「[ヤングパラダイス](../Page/ヤングパラダイス.md "wikilink")」に水を開けられていた。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の「[進め\!おもしろバホバホ隊](../Page/進め!おもしろバホバホ隊.md "wikilink")」終了後は他局と一線を画した大人向け番組に転換したものの、定着しなかった。本番組で、4年ぶりに10代向け夜ワイド番組に回帰した。本番組開始に合わせ、TBSラジオは月曜日から土曜日の10代向け番組枠を総称した「**[TBS RADIO 2(TBSレディオクラブ)](https://ja.wikipedia.org/wiki/TBSレディオクラブ "wikilink")**」ブランドを創設。本番組がフラッグシップ的存在であった。
 
 メインパーソナリティは、当時[スーパー・エキセントリック・シアター](https://ja.wikipedia.org/wiki/スーパー・エキセントリック・シアター "wikilink")(S.E.T.)の劇団員で「ヤングパラダイス」にも出演していた[岸谷五朗](../Page/岸谷五朗.md "wikilink")。[ホンジャマカ](../Page/ホンジャマカ.md "wikilink")の[恵俊彰](../Page/恵俊彰.md "wikilink")も全期間を通じて共演した。2人とも番組開始時は無名に近かったが、本番組が知名度・人気を獲得する契機となった。また、S.E.T.のメンバーだった[寺脇康文](../Page/寺脇康文.md "wikilink")や山田幸伸、尾口えり子（現：おぐちえりこ）らもレギュラー出演した。
 
@@ -465,7 +465,7 @@
   - 制作スタッフ
       - [高綱康裕](https://ja.wikipedia.org/wiki/高綱康裕 "wikilink")（愛称:たこP） － プロデューサー。競馬好き。後にテレビに異動し、『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』を製作。現在、TBSホールディングス執行役員（TBSテレビ　情報システム局長）。
       - [石垣富士男](https://ja.wikipedia.org/wiki/石垣富士男 "wikilink") － 当時はラジオ制作会社所属。後にTBSラジオに中途入社し、『バツラジ』『[宮川賢のパカパカ行進曲](https://ja.wikipedia.org/wiki/宮川賢のパカパカ行進曲 "wikilink")』『たまむすび』などを担当。現在はTBSラジオ編成部長。
-      - [長谷川朝二](https://ja.wikipedia.org/wiki/長谷川朝二 "wikilink") － ディレクターを担当。本業はコメディ作家。
+      - [長谷川朝二](../Page/長谷川朝二.md "wikilink") － ディレクターを担当。本業はコメディ作家。
       - [山田恵一郎](https://ja.wikipedia.org/wiki/山田恵一郎 "wikilink") － [混浴](../Page/混浴.md "wikilink")王。エロ担当。
 
 ## その他

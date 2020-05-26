@@ -16,7 +16,7 @@
 
   - 160P/LINEAR - [LINEAR彗星](https://ja.wikipedia.org/wiki/LINEAR彗星_\(160P\) "wikilink")
   - 165P/LINEAR - [LINEAR彗星](../Page/LINEAR彗星_\(165P\).md "wikilink")
-  - 176P/LINEAR - [LINEAR彗星](https://ja.wikipedia.org/wiki/LINEAR彗星_\(176P\) "wikilink")
+  - 176P/LINEAR - [LINEAR彗星](../Page/LINEAR彗星_\(176P\).md "wikilink")
 
 <!-- end list -->
 

@@ -24,7 +24,7 @@
 
 ### 固有名詞
 
-  - [アクティビジョン・ブリザード](https://ja.wikipedia.org/wiki/アクティビジョン・ブリザード "wikilink") () - アメリカのゲーム会社。
+  - [アクティビジョン・ブリザード](../Page/アクティビジョン・ブリザード.md "wikilink") () - アメリカのゲーム会社。
   - [アンハイザー・ブッシュ](../Page/アンハイザー・ブッシュ.md "wikilink") () - アメリカのビール会社。
   - [AB Airlines](https://ja.wikipedia.org/wiki/AB_Airlines "wikilink") - かつて存在したイギリスの航空会社。
   - [米国船級協会](https://ja.wikipedia.org/wiki/米国船級協会 "wikilink")

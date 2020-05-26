@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")（**K**ataller **T**oyama） - 日本のプロサッカークラブ
+  - [カターレ富山](../Page/カターレ富山.md "wikilink")（**K**ataller **T**oyama） - 日本のプロサッカークラブ
   - [ハローキティ](../Page/ハローキティ.md "wikilink")（Hello **K**i**t**ty） - [サンリオ](../Page/サンリオ.md "wikilink")の[キャラクター](../Page/キャラクター.md "wikilink")
   - [テンプル騎士団](../Page/テンプル騎士団.md "wikilink")（The **K**nights **T**emplar）
   - [リトアニア共和国憲法裁判所](https://ja.wikipedia.org/wiki/リトアニア共和国憲法裁判所 "wikilink")（）のリトアニア語における略。
@@ -71,7 +71,7 @@
 ### 形式名
 
   - くま川鉄道の鉄道車両の形式名の呼称。
-      - KT-100・200形については[くま川鉄道KT-100形気動車](https://ja.wikipedia.org/wiki/くま川鉄道KT-100形気動車 "wikilink")を参照。
+      - KT-100・200形については[くま川鉄道KT-100形気動車](../Page/くま川鉄道KT-100形気動車.md "wikilink")を参照。
       - KT31形については[国鉄キハ31形気動車](../Page/国鉄キハ31形気動車.md "wikilink")を参照。
       - KT-500形については[くま川鉄道KT-500形気動車](https://ja.wikipedia.org/wiki/くま川鉄道KT-500形気動車 "wikilink")を参照
   - [KT-1](../Page/KT-1_\(航空機\).md "wikilink") - 韓国で開発された初等練習機。

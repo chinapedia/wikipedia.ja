@@ -707,7 +707,7 @@ H&Ａトーナメント制・5試合。
 </div>
 
 
-\*2013年5月16日稼働開始のver.2.0では、[コリンチャンス](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")、[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")の選手カードが追加された。
+\*2013年5月16日稼働開始のver.2.0では、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")の選手カードが追加された。
 
 ### 2012-2013（2013年12月12日稼働）
 

@@ -45,7 +45,7 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
 
 2006年9月23日、ジョルジュ・サンピエール負傷により代役として[UFC 63のUFC世界ウェルター級タイトルマッチで王者の](../Page/UFC_63.md "wikilink")[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")に挑戦。打撃や変形三角絞めなどで序盤は圧倒しながらも2Rに肋骨を痛め失速、3RにパウンドによるTKO負けを喫し王座獲得に失敗した。
 
-[2007年](../Page/2007年.md "wikilink")、「[The Ultimate Fighter](../Page/The_Ultimate_Fighter.md "wikilink")」の[シーズン5でコーチを務め](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_5 "wikilink")、2007年6月23日の[フィナーレでは同じくコーチを務めた](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_5_Finale "wikilink")[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")と対戦、[チョークスリーパーで一本勝ちし](../Page/裸絞.md "wikilink")、5年半ぶりにリベンジを果たした。
+[2007年](../Page/2007年.md "wikilink")、「[The Ultimate Fighter](../Page/The_Ultimate_Fighter.md "wikilink")」の[シーズン5でコーチを務め](../Page/The_Ultimate_Fighter_5.md "wikilink")、2007年6月23日の[フィナーレでは同じくコーチを務めた](https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_5_Finale "wikilink")[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")と対戦、[チョークスリーパーで一本勝ちし](../Page/裸絞.md "wikilink")、5年半ぶりにリベンジを果たした。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月19日、[UFC 80のUFC世界ライト級王座決定戦で](../Page/UFC_80.md "wikilink")[ジョー・スティーブンソン](../Page/ジョー・スティーブンソン.md "wikilink")と対戦。1Rに右肘打ちで大流血に追い込み、最後はチョークスリーパーで一本勝ちを収め王座獲得に成功、[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")に続くUFC史上2人目の2階級制覇を達成。サブミッション・オブ・ザ・ナイトを受賞した。当初は暫定王座決定戦として予定されていたが、王者[ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink")が[UFC 73においての薬物検査失格で王座を正式に剥奪されたため](../Page/UFC_73.md "wikilink")、正王者の決定戦にスライドする形となった。
 

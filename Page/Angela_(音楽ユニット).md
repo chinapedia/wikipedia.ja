@@ -217,7 +217,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年10月19日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/僕は僕であって" title="wikilink">僕は僕であって</a></strong></p></td>
+<td><p><strong><a href="../Page/僕は僕であって.md" title="wikilink">僕は僕であって</a></strong></p></td>
 <td><p>angela×<a href="https://ja.wikipedia.org/wiki/fripSide" title="wikilink">fripSide</a></p></td>
 <td><p>KICM-91710</p></td>
 <td><p>KICM-1711</p></td>
@@ -374,7 +374,7 @@
 | Dream on                            | OVA『[ブラッククローバー](https://ja.wikipedia.org/wiki/ブラッククローバー "wikilink")』主題歌                                                       | 2016年 |
 | 語り継がれしもの                            | 『Excellent Japan 日本列島再発見-ボニンブルーの楽園 小笠原諸島-』オープニングテーマ                                                                           | 2017年 |
 | あの夏空                                | 『Excellent Japan 日本列島再発見-ボニンブルーの楽園 小笠原諸島-』エンディングテーマ                                                                           |       |
-| Calling you                         | アニメ映画『[BLAME\!](https://ja.wikipedia.org/wiki/BLAME! "wikilink")』主題歌                                                          |       |
+| Calling you                         | アニメ映画『[BLAME\!](../Page/BLAME!.md "wikilink")』主題歌                                                                             |       |
 | 全力☆Summer\!                         | テレビアニメ『[アホガール](https://ja.wikipedia.org/wiki/アホガール "wikilink")』オープニングテーマ                                                      |       |
 | Prologue -君の向こう側-                   | テレビアニメ『[蒼穹のファフナー THE BEYOND](https://ja.wikipedia.org/wiki/蒼穹のファフナー_THE_BEYOND "wikilink")』イメージソング                            |       |
 | SEVEN STORIES                       | アニメ映画『[K SEVEN STORIES](https://ja.wikipedia.org/wiki/K_SEVEN_STORIES "wikilink")』イメージソング                                     |       |
@@ -399,7 +399,7 @@
       - [on my way](../Page/楽園_\(堀江由衣のアルバム\).md "wikilink")
       - [try again](../Page/楽園_\(堀江由衣のアルバム\).md "wikilink")
       - [Puzzle](../Page/嘘つきアリスとくじら号をめぐる冒険.md "wikilink")
-      - [LOVE ME DO](https://ja.wikipedia.org/wiki/Darling_\(堀江由衣のアルバム\) "wikilink")
+      - [LOVE ME DO](../Page/Darling_\(堀江由衣のアルバム\).md "wikilink")
       - レクイエム・オブ・レッド(櫛名アンナ＆赤のクランズマン名義)
       - アシンメトリー
   - [ゆかな](../Page/ゆかな.md "wikilink")

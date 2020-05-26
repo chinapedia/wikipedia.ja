@@ -598,7 +598,7 @@
 
 <!-- end list -->
 
-  - [あさごはんだいすき](https://ja.wikipedia.org/wiki/あさごはんだいすき "wikilink")
+  - [あさごはんだいすき](../Page/あさごはんだいすき.md "wikilink")
   - [にこにこぷんがやってきた\!](https://ja.wikipedia.org/wiki/にこにこぷんがやってきた! "wikilink")
   - [BSおかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")
   - [うたのなる木](https://ja.wikipedia.org/wiki/うたのなる木 "wikilink")

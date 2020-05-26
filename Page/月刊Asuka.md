@@ -1,7 +1,7 @@
 > この記事は[月刊Asuka](https://ja.wikipedia.org/wiki/月刊Asuka)から翻訳されています。
 
 
-『**月刊Asuka**』（げっかんあすか）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（2013年までは[角川書店](../Page/角川書店.md "wikilink")）から発行されている月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に創刊。毎月24日（日曜日の場合は23日）に翌々月号が発売される。
+『**月刊Asuka**』（げっかんあすか）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")（2013年までは[角川書店](../Page/角川書店.md "wikilink")）から発行されている月刊[漫画雑誌](../Page/漫画雑誌.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に創刊。毎月24日（日曜日の場合は23日）に翌々月号が発売される。
 
 ## 概要
 
@@ -72,7 +72,7 @@
 
 ### さ行
 
-  - [彩雲国物語](https://ja.wikipedia.org/wiki/彩雲国物語 "wikilink")（作画・キャラクター原案：[由羅カイリ](../Page/由羅カイリ.md "wikilink") / 原作：[雪乃紗衣](https://ja.wikipedia.org/wiki/雪乃紗衣 "wikilink")）
+  - [彩雲国物語](https://ja.wikipedia.org/wiki/彩雲国物語 "wikilink")（作画・キャラクター原案：[由羅カイリ](../Page/由羅カイリ.md "wikilink") / 原作：[雪乃紗衣](../Page/雪乃紗衣.md "wikilink")）
   - [サムライドライブ](https://ja.wikipedia.org/wiki/サムライドライブ "wikilink")（[湖住ふじこ](https://ja.wikipedia.org/wiki/湖住ふじこ "wikilink")）
   - [新世紀エヴァンゲリオン 碇シンジ探偵日記](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン_碇シンジ探偵日記 "wikilink")（作画：[吉村工](https://ja.wikipedia.org/wiki/吉村工 "wikilink") / 原作：[カラー](../Page/カラー_\(アニメ制作会社\).md "wikilink")）
   - [新世紀エヴァンゲリオン 学園堕天録](../Page/新世紀エヴァンゲリオン_学園堕天録.md "wikilink")（作画：[眠民](https://ja.wikipedia.org/wiki/眠民 "wikilink")、原作：[GAINAX](https://ja.wikipedia.org/wiki/GAINAX "wikilink")・[カラー](../Page/カラー_\(アニメ制作会社\).md "wikilink")）

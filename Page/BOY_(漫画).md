@@ -410,7 +410,7 @@
 <td><p>2</p></td>
 <td><p>山奈みちる</p></td>
 <td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/進藤満尾" title="wikilink">進藤満尾</a><br />
+<td><p><a href="../Page/進藤満尾.md" title="wikilink">進藤満尾</a><br />
 星名靖男</p></td>
 <td><p>4月14日</p></td>
 <td></td>

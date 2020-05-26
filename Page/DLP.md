@@ -109,7 +109,7 @@ DLPプロジェクタを製造している主なメーカーは次の通り。
   - [ViewSonic](http://www.nihonbinary.co.jp/144ViewSonicPJD6531w.html)
   - [LightSpeed Design](http://www.nihonbinary.co.jp/082InFocusDepthQ.html)
   - [GDCテクノロジー](https://ja.wikipedia.org/wiki/GDCテクノロジー "wikilink")
-  - [アストロデザイン](https://ja.wikipedia.org/wiki/アストロデザイン "wikilink")
+  - [アストロデザイン](../Page/アストロデザイン.md "wikilink")
   - [シネ・フォーカス](https://ja.wikipedia.org/wiki/シネ・フォーカス "wikilink")
 
 ## 出典

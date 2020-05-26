@@ -11,7 +11,7 @@
 
 [ビル・クリントン](../Page/ビル・クリントン.md "wikilink")政権下で（1995年 - 2001年）を務め、[北アイルランド和平プロセスでは交渉に関わる各勢力に対して守るべき](https://ja.wikipedia.org/wiki/北アイルランド問題#地方分権による北アイルランド問題の解決 "wikilink")6つの[非武装の基本原則を示し](https://ja.wikipedia.org/wiki/武装#非武装化 "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")の[ベルファスト合意](../Page/ベルファスト合意.md "wikilink")成立に主導的な役割を果たした。この功績が称えられ、[1999年](../Page/1999年.md "wikilink")3月17日に[大統領自由勲章](../Page/大統領自由勲章.md "wikilink")を授与された。同年に[大英帝国勲章](../Page/大英帝国勲章.md "wikilink")第一位ナイト・グランドクロスも授与されている。
 
-また、[MLBコミッショナー](https://ja.wikipedia.org/wiki/MLBコミッショナー "wikilink")の[バド・セリグ](../Page/バド・セリグ.md "wikilink")からの依頼を受けて、[ミッチェル報告書](https://ja.wikipedia.org/wiki/ミッチェル報告書 "wikilink")と呼ばれる[MLBでの](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[アナボリックステロイド](../Page/アナボリックステロイド.md "wikilink")使用の実態調査報告書を作成し、[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に発表した。ミッチェルは[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")のフロントを務めており、レッドソックス所属選手の名前が一人も挙がっていなかったことから報告書の信憑性には疑問が残された。
+また、[MLBコミッショナー](https://ja.wikipedia.org/wiki/MLBコミッショナー "wikilink")の[バド・セリグ](../Page/バド・セリグ.md "wikilink")からの依頼を受けて、[ミッチェル報告書](../Page/ミッチェル報告書.md "wikilink")と呼ばれる[MLBでの](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[アナボリックステロイド](../Page/アナボリックステロイド.md "wikilink")使用の実態調査報告書を作成し、[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に発表した。ミッチェルは[ボストン・レッドソックス](../Page/ボストン・レッドソックス.md "wikilink")のフロントを務めており、レッドソックス所属選手の名前が一人も挙がっていなかったことから報告書の信憑性には疑問が残された。
 
 [バラク・オバマ](https://ja.wikipedia.org/wiki/バラク・オバマ "wikilink")政権下では[中東特使](https://ja.wikipedia.org/wiki/アメリカ合衆国中東特使 "wikilink")（2009年 - 2011年）を務めたが、[中東和平プロセスでは目立つ成果を残すことができなかった](https://ja.wikipedia.org/wiki/パレスチナ問題#2008_-_2009：ガザ紛争 "wikilink")。
 

@@ -49,7 +49,7 @@
   - [栗原景子](../Page/栗原景子.md "wikilink")
   - [りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")
   - [はな](../Page/はな_\(タレント\).md "wikilink")
-  - [加藤幸子](https://ja.wikipedia.org/wiki/加藤幸子_\(モデル\) "wikilink")
+  - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")
   - [SHIHO（志保）](../Page/SHIHO_\(ファッションモデル\).md "wikilink")
   - [未希](../Page/未希.md "wikilink")
   - [夏川結衣](https://ja.wikipedia.org/wiki/夏川結衣 "wikilink")
@@ -89,7 +89,7 @@
   - [高崎晶子](https://ja.wikipedia.org/wiki/高崎晶子 "wikilink")
   - ナオ
   - [佐藤弥生](https://ja.wikipedia.org/wiki/佐藤弥生_\(モデル\) "wikilink")
-  - [田中伸子](https://ja.wikipedia.org/wiki/田中伸子 "wikilink")
+  - [田中伸子](../Page/田中伸子.md "wikilink")
   - [杏](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")
   - [河本麻希](../Page/河本麻希.md "wikilink")
   - [JOSI](../Page/JOSI_\(モデル\).md "wikilink")

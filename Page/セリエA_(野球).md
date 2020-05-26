@@ -220,7 +220,7 @@
 ## 関連項目
 
   - [野球](../Page/野球.md "wikilink")
-  - [イタリア野球・ソフトボール連盟](https://ja.wikipedia.org/wiki/イタリア野球・ソフトボール連盟 "wikilink") (FIBS)
+  - [イタリア野球・ソフトボール連盟](../Page/イタリア野球・ソフトボール連盟.md "wikilink") (FIBS)
   - [セリエA (サッカー)](../Page/セリエA_\(サッカー\).md "wikilink")
   - [セリエA (バレーボール)](../Page/セリエA_\(バレーボール\).md "wikilink")
   - [セリエA (バスケットボール)](../Page/セリエA_\(バスケットボール\).md "wikilink")

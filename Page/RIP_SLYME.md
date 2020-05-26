@@ -808,7 +808,7 @@ WPV7-90010</p></td>
       - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")
       - [Missile Girl Scoot](../Page/Missile_Girl_Scoot.md "wikilink")
       - [PENPALS](../Page/PENPALS.md "wikilink")
-  - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") -\>\> 『[EPOCH](../Page/EPOCH.md "wikilink")』 - 「パーリーピーポー」。　[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")も参加している[TERIYAKI BOYZのメンバー](../Page/TERIYAKI_BOYZ.md "wikilink")
+  - [VERBAL](../Page/VERBAL.md "wikilink") -\>\> 『[EPOCH](../Page/EPOCH.md "wikilink")』 - 「パーリーピーポー」。　[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")も参加している[TERIYAKI BOYZのメンバー](../Page/TERIYAKI_BOYZ.md "wikilink")
   - [スチャダラパー](../Page/スチャダラパー.md "wikilink") -\>\> 『[EPOCH](../Page/EPOCH.md "wikilink")』 - 「レッツゴー7〜8匹」。
   - [YO-KING](../Page/YO-KING.md "wikilink")
   - [ケツメイシ](../Page/ケツメイシ.md "wikilink")

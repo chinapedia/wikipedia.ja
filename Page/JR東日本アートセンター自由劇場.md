@@ -36,7 +36,7 @@
       - [オンディーヌ](https://ja.wikipedia.org/wiki/オンディーヌ#ジロドゥのオンディーヌ "wikilink") （11月11日 - 11月30日）
       - [ひかりごけ](../Page/ひかりごけ.md "wikilink") （12月9日 - 12月23日）
   - [2004年](../Page/2004年.md "wikilink")（平成16年）
-      - [アンドロマック](https://ja.wikipedia.org/wiki/アンドロマック "wikilink") （1月3日 - 1月18日）
+      - [アンドロマック](../Page/アンドロマック.md "wikilink") （1月3日 - 1月18日）
       - [思い出を売る男](https://ja.wikipedia.org/wiki/思い出を売る男 "wikilink") （1月30日 - 2月19日）
       - [ハムレット](../Page/ハムレット.md "wikilink") （2月27日 - 3月28日）
       - [エクウス 馬](../Page/エクウス.md "wikilink") （4月10日 - 5月9日）

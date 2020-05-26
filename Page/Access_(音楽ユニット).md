@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - 7月頃、浅倉大介の2ndアルバム『[D-Trick](https://ja.wikipedia.org/wiki/D-Trick "wikilink")』にゲストボーカリストとして貴水博之が参加。ユニットを結成する。
+  - 7月頃、浅倉大介の2ndアルバム『[D-Trick](../Page/D-Trick.md "wikilink")』にゲストボーカリストとして貴水博之が参加。ユニットを結成する。
   - 9月29日、浅倉大介のライブ「Day-Trick」[日本教育会館](../Page/日本教育会館.md "wikilink")公演にゲスト出演。
   - 11月25日、ライブ「Virgin Emotion〜Start On access 1125〜」（原宿ルイード）を行う。
   - 11月26日、1stシングル『[Virgin Emotion](../Page/Virgin_Emotion.md "wikilink")』をリリース（オリコン最高位40位）。

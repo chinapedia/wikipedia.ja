@@ -11,7 +11,7 @@
 
   - [チェコ航空](../Page/チェコ航空.md "wikilink")の[ICAO航空会社コード](https://ja.wikipedia.org/wiki/ICAO航空会社コード "wikilink")
 
-  - \- [インテルi865/875系チップセットの](../Page/インテル_チップセット.md "wikilink")[ギガビット・イーサネット](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")コントローラ専用[MCH直結バス](../Page/ノースブリッジ.md "wikilink")
+  - \- [インテルi865/875系チップセットの](../Page/インテル_チップセット.md "wikilink")[ギガビット・イーサネット](../Page/ギガビット・イーサネット.md "wikilink")コントローラ専用[MCH直結バス](../Page/ノースブリッジ.md "wikilink")
 
   - [規制物質法](../Page/規制物質法.md "wikilink") () - アメリカの反麻薬法
 

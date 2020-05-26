@@ -19,7 +19,7 @@ __NOTOC__ **SH**, **Sh**, **sh**
   - 球技のポジション
       - [サイドハーフ](https://ja.wikipedia.org/wiki/サイドハーフ "wikilink") - [サッカーのポジション](../Page/サッカーのポジション.md "wikilink") (MF)の一種。
       - [スクラムハーフ (**S**crum **H**alf)](https://ja.wikipedia.org/wiki/ラグビーのポジション#スクラムハーフ_（SH） "wikilink") - [ラグビー](../Page/ラグビー.md "wikilink")のポジション; 9番。
-  - [シュート (サッカー)](https://ja.wikipedia.org/wiki/シュート_\(サッカー\) "wikilink") - **sh**oot
+  - [シュート (サッカー)](../Page/シュート_\(サッカー\).md "wikilink") - **sh**oot
   - [SuperH](../Page/SuperH.md "wikilink") - [ルネサス エレクトロニクスのマイクロプロセッサ](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")
   - [スペースハリアー](../Page/スペースハリアー.md "wikilink") - セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）のシューティングゲーム
   - [犠打](../Page/犠打.md "wikilink") () の[スコアブック](https://ja.wikipedia.org/wiki/スコアブック "wikilink")表記

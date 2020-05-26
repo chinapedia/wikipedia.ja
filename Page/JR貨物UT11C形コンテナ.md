@@ -10,7 +10,7 @@
 [UT11C-3.JPG](https://ja.wikipedia.org/wiki/File:UT11C-3.JPG "fig:UT11C-3.JPG") [UT11C-10.jpg](https://ja.wikipedia.org/wiki/File:UT11C-10.jpg "fig:UT11C-10.jpg")
 
   - 1 - 10
-    [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")所有、[イソプロピルアルコール](https://ja.wikipedia.org/wiki/イソプロピルアルコール "wikilink")専用。
+    [日陸](../Page/日陸.md "wikilink")所有、[イソプロピルアルコール](https://ja.wikipedia.org/wiki/イソプロピルアルコール "wikilink")専用。
   - 11
     [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有、[アイソゾール300](https://ja.wikipedia.org/wiki/アイソゾール300 "wikilink")専用。
 
@@ -38,7 +38,7 @@
   - 5038 - 5053
     [ダイセル](../Page/ダイセル.md "wikilink")所有、アクロレイン専用。
   - 5056, 5057
-    [京極運輸商事](https://ja.wikipedia.org/wiki/京極運輸商事 "wikilink")所有、[可塑剤](../Page/可塑剤.md "wikilink")専用。
+    [京極運輸商事](../Page/京極運輸商事.md "wikilink")所有、[可塑剤](../Page/可塑剤.md "wikilink")専用。
   - 5074, 5075, 5078, 5079
     [東亞合成](../Page/東亞合成.md "wikilink")所有、[アクリル酸ジメチルアミノエチル](https://ja.wikipedia.org/wiki/アクリル酸ジメチルアミノエチル "wikilink")専用。
   - 5076, 5077

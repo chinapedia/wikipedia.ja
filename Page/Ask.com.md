@@ -95,7 +95,7 @@ AskJeevesの検索エンジンは、Teoma（テオマ）というブランド名
 
 ### 検索サイト
 
-Ask.jpの検索エンジンはTeomaをベースとし、日本語向けに改良されていた。またブログ検索機能は日本の独自開発で、[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")付きのブログを抽出する事ができた\[78\]。[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")も提供していたが、Smiley Central機能は[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")や[アドウェア](../Page/アドウェア.md "wikilink")との指摘もあった（メーカーは否定）\[79\]。[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")を行なうと、トップ結果のページの最下段に「（その時に入力したキーワード）を検索。 検索結果をすばやく、今すぐ調べる！」の広告が登場する。
+Ask.jpの検索エンジンはTeomaをベースとし、日本語向けに改良されていた。またブログ検索機能は日本の独自開発で、[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")付きのブログを抽出する事ができた\[78\]。[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")も提供していたが、Smiley Central機能は[スパイウェア](../Page/スパイウェア.md "wikilink")や[アドウェア](../Page/アドウェア.md "wikilink")との指摘もあった（メーカーは否定）\[79\]。[Google検索](https://ja.wikipedia.org/wiki/Google検索 "wikilink")を行なうと、トップ結果のページの最下段に「（その時に入力したキーワード）を検索。 検索結果をすばやく、今すぐ調べる！」の広告が登場する。
 
 ### Askビデオ
 

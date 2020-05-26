@@ -1468,7 +1468,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")、[さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+    [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")、[さかいゆう](../Page/さかいゆう.md "wikilink")
     [クリス智子](../Page/クリス智子.md "wikilink")（2月14日 - 17日 [CURIOUS内](https://ja.wikipedia.org/wiki/CURIOUS_\(ラジオ番組\) "wikilink")）
 
 <!-- end list -->
@@ -3911,7 +3911,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    5:00-7:00 [ハリー杉山](https://ja.wikipedia.org/wiki/ハリー杉山 "wikilink")、藤原恵子 - 「音楽のニュースタンダード」を紐解く
+    5:00-7:00 [ハリー杉山](../Page/ハリー杉山.md "wikilink")、藤原恵子 - 「音楽のニュースタンダード」を紐解く
 
     7:00-10:00 別所哲也、レイチェル・チャン - 25周年、そしてこれからのJ-WAVEへ向けた想い、声
 

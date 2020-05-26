@@ -7,7 +7,7 @@
 
 ## 概要
 
-月曜日に放送されていた『**[情報わいどYTSゴジダス](https://ja.wikipedia.org/wiki/情報わいどYTSゴジダス "wikilink")**』を『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』と融合させて月 - 金曜日の放送に昇格する形でスタート。当初は17時からの『スーパーJチャンネル』ニュースコーナーと18時からの『ANNスーパーJチャンネル』以外はローカル枠で、主に17時台が情報企画、18時台がニュースという編成になっていた。
+月曜日に放送されていた『**[情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink")**』を『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』と融合させて月 - 金曜日の放送に昇格する形でスタート。当初は17時からの『スーパーJチャンネル』ニュースコーナーと18時からの『ANNスーパーJチャンネル』以外はローカル枠で、主に17時台が情報企画、18時台がニュースという編成になっていた。
 
 その後、2003年4月からは17時台のローカル枠が消滅（『スーパーJチャンネル』の17時台を完全ネット）すると、情報企画が大幅に縮小された。タイトルが『ゴジダス』であるにも関わらず、実際のローカル放送は18:17から始まる状況となっている。しかし、2006年4月からは金曜日のみローカル枠が復活した。新聞などではゴジダスと表記されているが、番組中は『**gojidas**』と記されていた。2012年3月12日より18:15からの放送となり、翌月の4月からは再び『ゴジダス』の表記に戻った。
 
@@ -40,7 +40,7 @@
 
 ### 過去の主な出演者
 
-  - [黒須英之](../Page/黒須英之.md "wikilink")（初代メインキャスター、『[情報わいどYTSゴジダス](https://ja.wikipedia.org/wiki/情報わいどYTSゴジダス "wikilink")』から続投）
+  - [黒須英之](../Page/黒須英之.md "wikilink")（初代メインキャスター、『[情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink")』から続投）
   - [岸千春](https://ja.wikipedia.org/wiki/岸千春 "wikilink")（同じく初代メインキャスター、こちらも『情報わいどYTSゴジダス』から続投）
   - [宮本賢一](../Page/宮本賢一.md "wikilink")（司会）
   - [米田やすみ](../Page/米田やすみ.md "wikilink")（司会）
@@ -153,7 +153,7 @@
 
 **テレビ朝日系列移行後**
 
-  - [YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink")（毎週[月曜日](../Page/月曜日.md "wikilink")放送回のみ[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")期以降は『[情報わいどYTSゴジダス](https://ja.wikipedia.org/wiki/情報わいどYTSゴジダス "wikilink")』に内包）
+  - [YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink")（毎週[月曜日](../Page/月曜日.md "wikilink")放送回のみ[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")期以降は『[情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink")』に内包）
   - super Jチャンネル YTSゴジダス
 
 ## 備考

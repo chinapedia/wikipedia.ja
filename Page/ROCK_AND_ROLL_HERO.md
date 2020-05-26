@@ -172,7 +172,7 @@
 
   - 斎藤誠:Electric Guitar
   - 角田俊介:Bass
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink"):Drums
+  - [河村智康](../Page/河村智康.md "wikilink"):Drums
   - 片山敦夫:[Vox Organ](../Page/オルガン.md "wikilink")
   - 成田昭彦:[Percussion](../Page/打楽器.md "wikilink")
   - KUMI（[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")）:Chorus, Shout

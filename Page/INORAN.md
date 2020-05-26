@@ -18,7 +18,7 @@
   - 2005年[10月31日](../Page/10月31日.md "wikilink")をもって[FAKE?](../Page/FAKE?.md "wikilink")を脱退。
   - [2009年](../Page/2009年.md "wikilink")、香港のバンドEVERの楽曲「必經之路」にゲストとして、編曲・レコーディングを参加しており、該当楽曲のMVにもINORANの姿が披露されている。その後、お互いのライヴイベントの出演もしていた。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、LUNA SEA活動再開。
-  - [2012年](../Page/2012年.md "wikilink")、[フィーダーの](../Page/フィーダー_\(バンド\).md "wikilink")[タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink")、[8otto](../Page/8otto.md "wikilink")の[MAESON](https://ja.wikipedia.org/wiki/MAESON "wikilink")、フィーダーのサポートギタリストとしても活躍するとともに[Muddy Apesを結成し](https://ja.wikipedia.org/wiki/Muddy_Apes "wikilink")、[9月5日](../Page/9月5日.md "wikilink")に1stアルバム『Crush It』をリリース。アルバムの発売に伴いライヴも行われている。
+  - [2012年](../Page/2012年.md "wikilink")、[フィーダーの](../Page/フィーダー_\(バンド\).md "wikilink")[タカ・ヒロセ](../Page/タカ・ヒロセ.md "wikilink")、[8otto](../Page/8otto.md "wikilink")の[MAESON](https://ja.wikipedia.org/wiki/MAESON "wikilink")、フィーダーのサポートギタリストとしても活躍するとともに[Muddy Apesを結成し](https://ja.wikipedia.org/wiki/Muddy_Apes "wikilink")、[9月5日](../Page/9月5日.md "wikilink")に1stアルバム『Crush It』をリリース。アルバムの発売に伴いライヴも行われている。
     [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[清春](../Page/清春.md "wikilink")の楽曲「The Sun」のMusic Videoに架空のバンドメンバー役として参加（楽曲へは参加していない）。また、[12月26日](../Page/12月26日.md "wikilink")に発売された[OLDCODEX](https://ja.wikipedia.org/wiki/OLDCODEX "wikilink")の2ndアルバム『CONTRAST SILVER』のリード曲「HEAVEN」にサウンドプロデューサーとして参加しており、該当楽曲の作曲・編曲・レコーディング・ミュージッククリップ出演もしている。
 
 ## 概要
@@ -1042,7 +1042,7 @@ KICS-1770</p></td>
 
   - INORAN - ギター（LUNA SEA）
 
-  - [タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink") - ベース（[フィーダー](../Page/フィーダー_\(バンド\).md "wikilink")）
+  - [タカ・ヒロセ](../Page/タカ・ヒロセ.md "wikilink") - ベース（[フィーダー](../Page/フィーダー_\(バンド\).md "wikilink")）
 
   - MAESON - ボーカル（[8otto](../Page/8otto.md "wikilink")）
 

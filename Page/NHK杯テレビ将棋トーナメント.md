@@ -836,7 +836,7 @@
 <tr class="odd">
 <td><p>？ - 30</p></td>
 <td><p>？ - 1980</p></td>
-<td><p>二代目<a href="https://ja.wikipedia.org/wiki/神田山陽" title="wikilink">神田山陽</a>（<a href="https://ja.wikipedia.org/wiki/講談" title="wikilink">講談</a>師）</p></td>
+<td><p>二代目<a href="../Page/神田山陽.md" title="wikilink">神田山陽</a>（<a href="https://ja.wikipedia.org/wiki/講談" title="wikilink">講談</a>師）</p></td>
 </tr>
 <tr class="even">
 <td><p>31 - 40</p></td>

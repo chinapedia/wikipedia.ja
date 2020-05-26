@@ -161,7 +161,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <tr class="odd">
 <td><p>第15回<br />
 （<a href="../Page/1999年.md" title="wikilink">1999年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塩原恒夫" title="wikilink">塩原恒夫</a><br />
+<td><p><a href="../Page/塩原恒夫.md" title="wikilink">塩原恒夫</a><br />
 （<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>）</p></td>
 <td><p>?</p></td>
 <td><p>不明</p></td>
@@ -245,7 +245,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <td><p><a href="../Page/佐々木恭子.md" title="wikilink">佐々木恭子</a><br />
 （フジテレビ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FNSチャリティキャンペーン" title="wikilink">FNSチャリティー支援国取材</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/米田元気" title="wikilink">米田元気</a><br />
+<td><p><a href="../Page/米田元気.md" title="wikilink">米田元気</a><br />
 （福島テレビ）</p></td>
 </tr>
 <tr class="odd">

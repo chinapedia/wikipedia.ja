@@ -11,7 +11,7 @@ TGAファイルは一般に[DOS](../Page/MS-DOS.md "wikilink")/[Windowsシステ
 
 TGAファイルは元々Truevision社のBrad Pillowによって[1984年](../Page/1984年.md "wikilink")に定められた。現在のバージョン(2.0)は（[サムネイル](../Page/サムネイル.md "wikilink")としてよく知られている）ポステージスタンプ（訳注：郵便切手）、[アルファチャンネル](../Page/アルファチャンネル.md "wikilink")、[ガンマ値](https://ja.wikipedia.org/wiki/ガンマ値 "wikilink")、[テクスチャ](https://ja.wikipedia.org/wiki/テクスチャ "wikilink")のメタデータなどの拡張を含み、Truevision社のDavid Spoelstraによって[1989年](../Page/1989年.md "wikilink")に定められた。
 
-[色深度](../Page/色深度.md "wikilink")の制限にもかかわらず、TGAはアニメーションとビデオ産業の全域に渡って未だ使われている。[BeOS](../Page/BeOS.md "wikilink")はTGAフォーマットで[スクリーンショット](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink")ファイルを作成する。[POV-Ray](../Page/POV-Ray.md "wikilink")エンジンはテクスチャと高度マップにTGAをネイティブで使用する。
+[色深度](../Page/色深度.md "wikilink")の制限にもかかわらず、TGAはアニメーションとビデオ産業の全域に渡って未だ使われている。[BeOS](../Page/BeOS.md "wikilink")はTGAフォーマットで[スクリーンショット](../Page/スクリーンショット.md "wikilink")ファイルを作成する。[POV-Ray](../Page/POV-Ray.md "wikilink")エンジンはテクスチャと高度マップにTGAをネイティブで使用する。
 
 ## 関連項目
 

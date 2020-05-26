@@ -17,7 +17,7 @@ NOCTYの名称は、溝口の 「のくち」+cityによる。溝口の駅前再
     8F：レストラン・ビューティー・スクール([たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック, 英会話[イーオン](../Page/イーオン.md "wikilink")など)
     7F：文具・書籍([文教堂](../Page/文教堂.md "wikilink")書店など)
     6F：生活雑貨([無印良品](https://ja.wikipedia.org/wiki/無印良品 "wikilink"))
-    5F：手芸・旅行・保険・ビューティー([新宿オカダヤ](https://ja.wikipedia.org/wiki/オカダヤ "wikilink"), [近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")など)
+    5F：手芸・旅行・保険・ビューティー([新宿オカダヤ](../Page/オカダヤ.md "wikilink"), [近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")など)
     4F：レディス&メンズファッション・雑貨・コスメ・ビューティー([ジーユー](https://ja.wikipedia.org/wiki/ジーユー "wikilink")など)
     3F：レディス&メンズファッション・雑貨・メガネ([Zoff](https://ja.wikipedia.org/wiki/Zoff "wikilink"), ASBeeなど)
     2F：レディスファッション・ファッション雑貨([ローリーズファーム](https://ja.wikipedia.org/wiki/ローリーズファーム "wikilink")など)

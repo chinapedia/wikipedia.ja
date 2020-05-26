@@ -46,7 +46,7 @@
 
 ## 元プロ野球選手の競技者登録
 
-  - [樋口賢](https://ja.wikipedia.org/wiki/樋口賢 "wikilink")（元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")） - 投手（2010年）→退団
+  - [樋口賢](../Page/樋口賢.md "wikilink")（元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")） - 投手（2010年）→退団
   - [小林寛](https://ja.wikipedia.org/wiki/小林寛_\(野球\) "wikilink")（元：[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")） - 投手（2018年 - ）
   - [梵英心](../Page/梵英心.md "wikilink")（元：[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")） - コーチ（2020年。エイジェックから派遣）\[2\]
 

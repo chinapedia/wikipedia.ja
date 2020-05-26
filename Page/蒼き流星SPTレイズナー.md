@@ -334,7 +334,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
 ## スタッフ
 
   - 原案 - [矢立肇](../Page/矢立肇.md "wikilink")
-  - 原作 - [伊東恒久](https://ja.wikipedia.org/wiki/伊東恒久 "wikilink")、[高橋良輔](../Page/高橋良輔_\(アニメ監督\).md "wikilink")
+  - 原作 - [伊東恒久](../Page/伊東恒久.md "wikilink")、[高橋良輔](../Page/高橋良輔_\(アニメ監督\).md "wikilink")
   - 監督 - 高橋良輔
   - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [谷口守泰](../Page/谷口守泰.md "wikilink")
   - [メカニカルデザイン](https://ja.wikipedia.org/wiki/メカニカルデザイン "wikilink") - [大河原邦男](../Page/大河原邦男.md "wikilink")
@@ -460,7 +460,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
 <td><p>第7話</p></td>
 <td><p>11月14日</p></td>
 <td><p>血はあかかった</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊東恒久" title="wikilink">伊東恒久</a></p></td>
+<td><p><a href="../Page/伊東恒久.md" title="wikilink">伊東恒久</a></p></td>
 <td><p>網野哲郎</p></td>
 <td><p><a href="../Page/村中博美.md" title="wikilink">村中博美</a></p></td>
 <td></td>
@@ -968,7 +968,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
 
 ## 小説版
 
-文章：[伊東恒久](https://ja.wikipedia.org/wiki/伊東恒久 "wikilink")、挿絵：[谷口守泰](../Page/谷口守泰.md "wikilink")による、OVA版のACT-III「刻印2000」のノベライズ版が、[徳間書店](../Page/徳間書店.md "wikilink")より[アニメージュ文庫](https://ja.wikipedia.org/wiki/アニメージュ文庫 "wikilink")として出版された。
+文章：[伊東恒久](../Page/伊東恒久.md "wikilink")、挿絵：[谷口守泰](../Page/谷口守泰.md "wikilink")による、OVA版のACT-III「刻印2000」のノベライズ版が、[徳間書店](../Page/徳間書店.md "wikilink")より[アニメージュ文庫](https://ja.wikipedia.org/wiki/アニメージュ文庫 "wikilink")として出版された。
 
   - 小説 青き流星SPTレイズナー ―刻印2000―（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")1月30日初版、ISBN 4-1966-9560-4）
 
@@ -986,7 +986,7 @@ V-MAXには機体内蔵型とバックパックタイプがある。ル・カイ
       - [スパロボ学園](https://ja.wikipedia.org/wiki/スパロボ学園 "wikilink")
       - [スーパーロボット大戦Operation Extend](https://ja.wikipedia.org/wiki/スーパーロボット大戦Operation_Extend "wikilink")
       - [スーパーロボット大戦DD](https://ja.wikipedia.org/wiki/スーパーロボット大戦DD "wikilink")
-  - [サンライズ英雄譚](https://ja.wikipedia.org/wiki/サンライズ英雄譚 "wikilink")シリーズ
+  - [サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")シリーズ
       - サンライズ英雄譚
       - サンライズ英雄譚R
       - サンライズ英雄譚2

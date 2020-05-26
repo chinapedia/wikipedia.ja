@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 放送期間：[2005年](../Page/2005年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")〜[2006年](../Page/2006年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")
+  - 放送期間：[2005年](../Page/2005年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")〜[2006年](../Page/2006年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")
   - 配信サイト：[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")
   - 配信日：毎週[金曜日](../Page/金曜日.md "wikilink")
 

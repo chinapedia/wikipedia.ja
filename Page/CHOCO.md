@@ -1,11 +1,11 @@
 > この記事は[CHOCO](https://ja.wikipedia.org/wiki/CHOCO)から翻訳されています。
 
 
-**CHOCO**（チョコ、男性、[1975年](../Page/1975年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - ）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")出身の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、同人作家、[キャラクター](../Page/キャラクターデザイン.md "wikilink")、[メカニックデザイナー](../Page/メカニックデザイン.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**CHOCO**（チョコ、男性、[1975年](../Page/1975年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - ）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")出身の[漫画家](../Page/漫画家.md "wikilink")、同人作家、[キャラクター](../Page/キャラクターデザイン.md "wikilink")、[メカニックデザイナー](../Page/メカニックデザイン.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 来歴
 
-[武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink")[造形学部](https://ja.wikipedia.org/wiki/造形学部 "wikilink")視覚伝達デザイン学科中退、在学時は漫画研究会に所属。同期生に[BLADE](https://ja.wikipedia.org/wiki/BLADE "wikilink")や[竹山祐右](../Page/竹山祐右.md "wikilink")、近い時期の後輩に[近衛乙嗣](https://ja.wikipedia.org/wiki/近衛乙嗣 "wikilink")や[篠房六郎](../Page/篠房六郎.md "wikilink")がいる。寡作であるが商業誌でも活躍する。メカデザインでは「**麦谷興一**」（むぎたに こういち）の名前で活動する。
+[武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink")[造形学部](https://ja.wikipedia.org/wiki/造形学部 "wikilink")視覚伝達デザイン学科中退、在学時は漫画研究会に所属。同期生に[BLADE](https://ja.wikipedia.org/wiki/BLADE "wikilink")や[竹山祐右](../Page/竹山祐右.md "wikilink")、近い時期の後輩に[近衛乙嗣](../Page/近衛乙嗣.md "wikilink")や[篠房六郎](../Page/篠房六郎.md "wikilink")がいる。寡作であるが商業誌でも活躍する。メカデザインでは「**麦谷興一**」（むぎたに こういち）の名前で活動する。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から『チョコレート・ショップ』名義で同人活動を行っている。また『オーメストグランデ』というブランド名で、自転車（[ロードバイク](../Page/ロードバイク.md "wikilink")）用のアパレルやグッズのデザインおよびプロデュースを行っている。
 

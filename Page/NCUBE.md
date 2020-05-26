@@ -7,7 +7,7 @@
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink") - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")の社員が、インテルが[並列コンピューティング](https://ja.wikipedia.org/wiki/並列コンピューティング "wikilink")市場になかなか踏み出さないことに欲求不満を感じ、nCUBE社を設立した（インテルはその後[1989年](../Page/1989年.md "wikilink")に市場に参入）。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")12月 - 最初のnCUBEの[ハイパーキューブマシン](../Page/超立方体.md "wikilink")**nCUBE 10**がリリースされる。
-  - [1988年](../Page/1988年.md "wikilink") - [オラクル社の](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[ラリー・エリソン](../Page/ラリー・エリソン.md "wikilink")はnCUBEに興味を持ち大株主となった。nCUBE社の本社はオラクル社のすぐ近くに移転されることとなった。
+  - [1988年](../Page/1988年.md "wikilink") - [オラクル社の](../Page/オラクル_\(企業\).md "wikilink")[ラリー・エリソン](../Page/ラリー・エリソン.md "wikilink")はnCUBEに興味を持ち大株主となった。nCUBE社の本社はオラクル社のすぐ近くに移転されることとなった。
   - [1989年](../Page/1989年.md "wikilink")6月 - 第二世代のマシン**nCUBE 2**をリリース。
   - [1994年](../Page/1994年.md "wikilink") - nCUBEは株式上場するまでに成長した。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 第三世代のマシン**nCUBE 3**をリリース。

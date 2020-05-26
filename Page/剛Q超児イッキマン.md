@@ -74,7 +74,7 @@
     レフト。
   - 養子田（ようしだ）監督
     声 - [大竹宏](../Page/大竹宏.md "wikilink")
-    苗字のモデルは当時、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の監督だった[吉田義男](https://ja.wikipedia.org/wiki/吉田義男 "wikilink")。
+    苗字のモデルは当時、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の監督だった[吉田義男](../Page/吉田義男.md "wikilink")。
 
 ### ブラッキーズ
 
@@ -191,7 +191,7 @@
 <td></td>
 <td><p>石崎すすむ</p></td>
 <td><p>西城隆詞<br />
-<a href="https://ja.wikipedia.org/wiki/進藤満尾" title="wikilink">進藤満尾</a></p></td>
+<a href="../Page/進藤満尾.md" title="wikilink">進藤満尾</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -417,7 +417,7 @@
 <td><p>殺人軍団の罠</p></td>
 <td><p>山崎晴哉</p></td>
 <td><p>菊池一仁</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">内山正幸</a></p></td>
+<td><p><a href="../Page/内山正幸.md" title="wikilink">内山正幸</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

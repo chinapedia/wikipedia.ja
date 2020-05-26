@@ -57,7 +57,7 @@
 
 [2014年](../Page/2014年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")、LLPW-Xプロレスバンクでブリバト♡と[プロレスリング我闘雲舞によるコラボレーションイベント](https://ja.wikipedia.org/wiki/我闘雲舞 "wikilink")「ブリリアントリング1」を開催。[10月11日](../Page/10月11日.md "wikilink")、[両国国技館](../Page/両国国技館.md "wikilink")で神取忍生誕50周年記念大会「SUPER LEGEND〜伝説から神話〜」を開催\[4\]。
 
-[2016年](../Page/2016年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")、[TOKYO DOME CITY HALLにて](https://ja.wikipedia.org/wiki/ミーツポート "wikilink")、神取忍デビュー30周年記念大会試合「MR.女子プロレス神取忍デビュー30周年記念イベント～挑戦・殻を破れ～」を開催。
+[2016年](../Page/2016年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")、[TOKYO DOME CITY HALLにて](../Page/ミーツポート.md "wikilink")、神取忍デビュー30周年記念大会試合「MR.女子プロレス神取忍デビュー30周年記念イベント～挑戦・殻を破れ～」を開催。
 
 [2016年](../Page/2016年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、11月末をもって ブリバト♡のSAKIとMIZUKIが共にLLPW-Xを退団することが発表される。これで、所属選手は休業中の沖野を除き四名となり、所属選手のみでの興行は事実上不可能な状況となっており、新人選手育成プロジェクトである「Volume Ⅱ」や「神取嬢」も新たな選手が誕生する動きが無い状態が続いている。
 

@@ -1090,7 +1090,7 @@
 <!-- end list -->
 
   -
-    ビーウェーブからアイテム課金制で配信開始。2017年5月24日、GREE・[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")。2017年5月25日、TSUTAYAオンラインゲーム。2017年9月14日、[コロプラ](https://ja.wikipedia.org/wiki/コロプラ "wikilink")。2017年7月25日、[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")ゲーム。2017年11月21日、[Yahoo\!モバゲー](https://ja.wikipedia.org/wiki/Yahoo!モバゲー "wikilink")版。
+    ビーウェーブからアイテム課金制で配信開始。2017年5月24日、GREE・[Mobage](../Page/Mobage.md "wikilink")。2017年5月25日、TSUTAYAオンラインゲーム。2017年9月14日、[コロプラ](https://ja.wikipedia.org/wiki/コロプラ "wikilink")。2017年7月25日、[mixi](https://ja.wikipedia.org/wiki/mixi "wikilink")ゲーム。2017年11月21日、[Yahoo\!モバゲー](https://ja.wikipedia.org/wiki/Yahoo!モバゲー "wikilink")版。
 
 ## 脚注
 

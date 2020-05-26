@@ -22,7 +22,7 @@
   - 萌え経済学（[講談社](../Page/講談社.md "wikilink")、著：[森永卓郎](../Page/森永卓郎.md "wikilink")、2005年[10月30日](../Page/10月30日.md "wikilink")）
   - [おとぎ銃士 赤ずきん](../Page/おとぎ銃士_赤ずきん.md "wikilink") [DVD](../Page/DVD.md "wikilink")各巻 初回封入特典 描き下ろしイラストカード（[RONDO ROBE](../Page/RONDO_ROBE.md "wikilink")〈[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")〉、2006年 - [2007年](../Page/2007年.md "wikilink")）
   - おとぎ銃士 赤ずきん 公式ビジュアルブック イラストギャラリー（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")、2006年[9月29日](../Page/9月29日.md "wikilink")）
-  - [クイーンズゲイト 魔法少女 虹原いんく](https://ja.wikipedia.org/wiki/クイーンズゲイト "wikilink")（[ホビージャパン](../Page/ホビージャパン.md "wikilink")、2007年11月30日）
+  - [クイーンズゲイト 魔法少女 虹原いんく](../Page/クイーンズゲイト.md "wikilink")（[ホビージャパン](../Page/ホビージャパン.md "wikilink")、2007年11月30日）
   - [ハヤテのごとく\!トレーディングカードゲーム](https://ja.wikipedia.org/wiki/ハヤテのごとく!#カードゲーム "wikilink")（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")、2007年 - ）
   - ほぐし茶屋 霞 キャラクターデザイン（2008年10月18日）
   - [ハローキティといっしょ\!](https://ja.wikipedia.org/wiki/ハローキティといっしょ! "wikilink") 水無瀬シズク（[サンリオウェーブ](https://ja.wikipedia.org/wiki/サンリオウェーブ "wikilink")、2009年8月6日）

@@ -327,7 +327,7 @@
 
 :\* 徳兵衛 - [外山高士](../Page/外山高士.md "wikilink")
 
-:\* 佐倉 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 佐倉 - [楠年明](../Page/楠年明.md "wikilink")
 
 :\* 長次 - [下元年世](https://ja.wikipedia.org/wiki/下元年世 "wikilink")
 
@@ -521,7 +521,7 @@
 
 :\* 弥平次 - [西山辰夫](../Page/西山辰夫.md "wikilink")
 
-:\* 久兵衛 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 久兵衛 - [楠年明](../Page/楠年明.md "wikilink")
 
 :\* お千賀 - [山口朱美](../Page/山口朱美.md "wikilink")
 

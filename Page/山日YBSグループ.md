@@ -58,7 +58,7 @@
 <td><p>グループ統括および建物管理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アドブレーン_(山梨県)" title="wikilink">アドブレーン社</a></p></td>
+<td><p><a href="../Page/アドブレーン_(山梨県).md" title="wikilink">アドブレーン社</a></p></td>
 <td><p>1969年</p></td>
 <td><p><a href="../Page/広告代理店.md" title="wikilink">広告代理店</a></p></td>
 </tr>
@@ -125,7 +125,7 @@
 
   - [山梨日日新聞](../Page/山梨日日新聞.md "wikilink")
   - [サンニチ印刷](../Page/サンニチ印刷.md "wikilink")
-  - [アドブレーン (山梨県)](https://ja.wikipedia.org/wiki/アドブレーン_\(山梨県\) "wikilink")
+  - [アドブレーン (山梨県)](../Page/アドブレーン_\(山梨県\).md "wikilink")
   - [YBS T\&L](../Page/YBS_T&L.md "wikilink")
   - [日本ネットワークサービス](https://ja.wikipedia.org/wiki/日本ネットワークサービス "wikilink")
   - [山梨文化会館](../Page/山梨文化会館.md "wikilink")

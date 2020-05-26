@@ -111,7 +111,7 @@
 
 ## 関連項目
 
-  - [宇宙世紀の登場機動兵器一覧](https://ja.wikipedia.org/wiki/宇宙世紀の登場機動兵器一覧 "wikilink")
+  - [宇宙世紀の登場機動兵器一覧](../Page/宇宙世紀の登場機動兵器一覧.md "wikilink")
 
 [en:RGM-86R GM III](https://ja.wikipedia.org/wiki/en:RGM-86R_GM_III "wikilink")
 

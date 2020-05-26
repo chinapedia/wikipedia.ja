@@ -53,7 +53,7 @@
         昇龍拳…アッパーを繰り出しながら飛び上がる。
         竜巻旋風脚…竜巻のように回転しながら連続で回し蹴りを入れる。
   - [ケン](../Page/ケン・マスターズ.md "wikilink")
-    声 - [羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")（幼少期 - [池田優こ](https://ja.wikipedia.org/wiki/池田優こ "wikilink")）
+    声 - [羽賀研二](../Page/羽賀研二.md "wikilink")（幼少期 - [池田優こ](https://ja.wikipedia.org/wiki/池田優こ "wikilink")）
     生年月日：[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") / 身長：179cm / 体重：80kg / B/W/H：112/78/98cm / 血液型：B / 出身地：[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") / 好きなもの：[ポルシェ](../Page/ポルシェ.md "wikilink")、[バイク](../Page/オートバイ.md "wikilink") / 嫌いなもの：[束縛](https://ja.wikipedia.org/wiki/束縛 "wikilink")、[厚化粧](../Page/厚化粧.md "wikilink") / 趣味：[ドライブ](../Page/ドライブ.md "wikilink") / 格闘の型：空手\[6\]
     17歳の青年格闘家。アメリカ人の父（声 - [若本規夫](../Page/若本規夫.md "wikilink")→[谷口節](../Page/谷口節.md "wikilink")）と日本人の母（声 - [佐久間なつみ](../Page/佐久間なつみ.md "wikilink")）を持つ[ハーフ](../Page/混血.md "wikilink")。世界有数の財団であるマスターズ財団の[御曹司](../Page/御曹司.md "wikilink")で、リュウとは同門の親友で、気障な一面もあるが友情に厚い熱血漢。
     日本でリュウと共に修行した少年時代に強い思い入れがあり、当時修行していた道場を自宅の庭に再現するほどである。リュウと同じく様々な格闘大会で好成績を収めていた。

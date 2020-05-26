@@ -78,7 +78,7 @@
 ## 関連項目
 
   - [YKK](../Page/YKK.md "wikilink")
-  - [カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")
+  - [カターレ富山](../Page/カターレ富山.md "wikilink")
   - [YKK APサッカー部](../Page/YKK_APサッカー部.md "wikilink")
   - [YKK AP東北女子サッカー部フラッパーズ](https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ "wikilink")
   - [複層ガラス](../Page/複層ガラス.md "wikilink")

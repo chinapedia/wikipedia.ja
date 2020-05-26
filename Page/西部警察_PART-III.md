@@ -276,7 +276,7 @@
 <td><p>8月28日</p></td>
 <td><p>永原秀一</p></td>
 <td><p>小澤啓一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本伸吾" title="wikilink">山本伸吾</a>、<a href="https://ja.wikipedia.org/wiki/好井ひとみ" title="wikilink">好井ひとみ</a>、<a href="../Page/木村元.md" title="wikilink">木村元</a>、<a href="https://ja.wikipedia.org/wiki/ジョン・ランカスター" title="wikilink">ジョン・ランカスター</a>、<a href="https://ja.wikipedia.org/wiki/稲垣昭三" title="wikilink">稲垣昭三</a>、<a href="../Page/中村孝雄.md" title="wikilink">中村孝雄</a>、森下明、西内彰、有馬明良、藤原益二</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山本伸吾" title="wikilink">山本伸吾</a>、<a href="../Page/好井ひとみ.md" title="wikilink">好井ひとみ</a>、<a href="../Page/木村元.md" title="wikilink">木村元</a>、<a href="https://ja.wikipedia.org/wiki/ジョン・ランカスター" title="wikilink">ジョン・ランカスター</a>、<a href="https://ja.wikipedia.org/wiki/稲垣昭三" title="wikilink">稲垣昭三</a>、<a href="../Page/中村孝雄.md" title="wikilink">中村孝雄</a>、森下明、西内彰、有馬明良、藤原益二</p></td>
 <td><p>13.6%</p></td>
 </tr>
 <tr class="even">
@@ -536,7 +536,7 @@
 <td><p>檀ノ浦攻防戦<br />
 －岡山・高松篇－'''[7]</p></td>
 <td><p>2月19日</p></td>
-<td><p>睦五郎、五十嵐知子、<a href="../Page/宮口二郎.md" title="wikilink">宮口二郎</a>、<a href="https://ja.wikipedia.org/wiki/根岸一正" title="wikilink">根岸一正</a>、<a href="../Page/長江英和.md" title="wikilink">長江英和</a>、荻原紀、<a href="https://ja.wikipedia.org/wiki/三上剛" title="wikilink">三上剛</a>、庄司三郎、村上幹夫、石田和彦、戸塚孝|、石崎洋光、西内彰</p></td>
+<td><p>睦五郎、五十嵐知子、<a href="../Page/宮口二郎.md" title="wikilink">宮口二郎</a>、<a href="../Page/根岸一正.md" title="wikilink">根岸一正</a>、<a href="../Page/長江英和.md" title="wikilink">長江英和</a>、荻原紀、<a href="https://ja.wikipedia.org/wiki/三上剛" title="wikilink">三上剛</a>、庄司三郎、村上幹夫、石田和彦、戸塚孝|、石崎洋光、西内彰</p></td>
 <td><p>12.2%</p></td>
 <td><p>BOX2</p></td>
 <td></td>

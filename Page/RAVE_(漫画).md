@@ -1062,7 +1062,7 @@
 
 ### ゲームアプリ
 
-『RAVE』のパズルゲームが2004年12月14日に[ボーステック](../Page/ボーステック.md "wikilink")によって、ボードゲームが2005年8月23日に[スペースアウト](https://ja.wikipedia.org/wiki/スペースアウト "wikilink")によってアプリが講談社モバイルコンテンツとして会員向けに利用可能になっていた。ソーシャルゲームが[クリーク・アンド・リバー](https://ja.wikipedia.org/wiki/クリーク・アンド・リバー "wikilink")の開発によって2013年5月27日に[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")、2013年8月28日に[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")より配信されている。
+『RAVE』のパズルゲームが2004年12月14日に[ボーステック](../Page/ボーステック.md "wikilink")によって、ボードゲームが2005年8月23日に[スペースアウト](https://ja.wikipedia.org/wiki/スペースアウト "wikilink")によってアプリが講談社モバイルコンテンツとして会員向けに利用可能になっていた。ソーシャルゲームが[クリーク・アンド・リバー](https://ja.wikipedia.org/wiki/クリーク・アンド・リバー "wikilink")の開発によって2013年5月27日に[Mobage](../Page/Mobage.md "wikilink")、2013年8月28日に[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")より配信されている。
 
 ## パチンコ・パチスロ
 

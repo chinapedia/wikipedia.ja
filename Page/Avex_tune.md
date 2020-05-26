@@ -20,7 +20,7 @@ avex tuneの**“tune”**とは、[車のチューン](../Page/自動車.md "wi
   - [DA PUMP](../Page/DA_PUMP.md "wikilink") （[同社の](https://ja.wikipedia.org/wiki/エイベックス・ミュージック・クリエイティヴ "wikilink")[SONIC GROOVEへ移籍](../Page/SONIC_GROOVE.md "wikilink")）
       - [ISSA](https://ja.wikipedia.org/wiki/DA_PUMP#メンバー "wikilink")
   - [井手麻理子](https://ja.wikipedia.org/wiki/井手麻理子 "wikilink") （[cutting edgeへ移籍](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")）
-  - [小田木望](https://ja.wikipedia.org/wiki/小田木望 "wikilink") （活動休止）
+  - [小田木望](../Page/小田木望.md "wikilink") （活動休止）
   - [AN-J](https://ja.wikipedia.org/wiki/AN-J "wikilink") （活動休止）
   - [Folder](../Page/Folder5.md "wikilink") （活動休止）
       - [三浦大知](../Page/三浦大知.md "wikilink")（初期の元メンバー。脱退後は同社のSONIC GROOVEレーベルに所属しソロデビュー）

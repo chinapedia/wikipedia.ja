@@ -88,7 +88,7 @@
 
 ◎：現在も運営理事として在籍
 
-  - [沼田浩](https://ja.wikipedia.org/wiki/沼田浩 "wikilink")（元：[日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - 投手→退部
+  - [沼田浩](../Page/沼田浩.md "wikilink")（元：[日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - 投手→退部
   - [光山英和](../Page/光山英和.md "wikilink")（元：[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")他） - コーチ→退部　◎
   - [鈴木俊雄](../Page/鈴木俊雄.md "wikilink")（元：[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")） - コーチ→退部
   - [小池秀郎](../Page/小池秀郎.md "wikilink")（元：[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")他） - 投手兼任コーチ→退部　◎

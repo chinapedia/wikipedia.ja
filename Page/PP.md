@@ -26,7 +26,7 @@
   - PP - ロールプレイングゲームに登場するパラメータの一つ。[マジックポイント](../Page/マジックポイント.md "wikilink")を参照。
       - サイパワー - [MOTHERシリーズ](../Page/MOTHERシリーズ.md "wikilink")で用いられる。
       - パワーポイント - [ポケットモンスター](../Page/ポケットモンスター.md "wikilink")シリーズで用いられる。
-  - パフォーマンスポイント - レースゲーム[グランツーリスモ5プロローグ](https://ja.wikipedia.org/wiki/グランツーリスモ5プロローグ "wikilink")及び[グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")で用いられるパラメータ。
+  - パフォーマンスポイント - レースゲーム[グランツーリスモ5プロローグ](../Page/グランツーリスモ5プロローグ.md "wikilink")及び[グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")で用いられるパラメータ。
   - [パンヤシリーズ](https://ja.wikipedia.org/wiki/パンヤシリーズ "wikilink")に登場するゲーム内通貨の1つ。
   - PP - [ポイントパーティー](https://ja.wikipedia.org/wiki/ポイントパーティー "wikilink")。[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")製カーナビゲーション「[サイバーナビ](https://ja.wikipedia.org/wiki/サイバーナビ "wikilink")」2007年モデルまで搭載されていた機能(「LIVE・COM」メニュー内)で、ドライブ中のクルマ同士でパーティー(10名まで)を組み、お互いの位置情報をサーバーを介してカーナビ地図画面上に表示するもの。転じて、このポイントパーティー機能を使った鬼ごっこ的[オフラインミーティング](../Page/オフラインミーティング.md "wikilink")のことを指す。
   - [ポイズンピンク](https://ja.wikipedia.org/wiki/ポイズンピンク "wikilink") (**P**oison**P**ink) - PS2用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。

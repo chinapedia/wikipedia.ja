@@ -56,7 +56,7 @@
   - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")
   - [いいとも青年隊](../Page/いいとも青年隊.md "wikilink")（初代）
       - [久保田篤](../Page/久保田篤.md "wikilink")
-      - [羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
+      - [羽賀研二](../Page/羽賀研二.md "wikilink")
       - [野々村真](../Page/野々村真.md "wikilink")
 
 </div>

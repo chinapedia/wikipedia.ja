@@ -639,7 +639,7 @@
   - ドラゴン気取りのティーンネイジ・ブルース / [涼 the graduater](https://ja.wikipedia.org/wiki/勝地涼 "wikilink") （作曲）
   - Oh\! Yeah / [住岡梨奈](https://ja.wikipedia.org/wiki/住岡梨奈 "wikilink")
   - カレーにんじゃ（作曲）
-  - [新しい日々](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink") / [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")　（作詞・作曲）
+  - [新しい日々](../Page/DOLCE_\(鈴木亜美のアルバム\).md "wikilink") / [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")　（作詞・作曲）
   - 鼓動　/ [渡辺美里](../Page/渡辺美里.md "wikilink")　（作詞・作曲）
 
 ### 未発表曲

@@ -7,7 +7,7 @@
 
 ### DAICON 3
 
-[1981年](../Page/1981年.md "wikilink")、[大阪で](../Page/大阪府.md "wikilink")[第20回日本SF大会](../Page/日本SF大会.md "wikilink")（愛称「DAICON 3（ダイコン・スリー）」、大阪で3度目の開催であることからこう呼ぶ。DAIは大阪の「大」CONは大会を意味するconventionから来ている。）が開催された時、開会式において1本の[8mm](https://ja.wikipedia.org/wiki/8ミリ映画 "wikilink")[アニメ](../Page/アニメ.md "wikilink")ーションが上映された。日本SF大会は開催地近辺の大学生によって運営されるのが通例であり、DAICON 3も[岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")・[武田康廣](../Page/武田康廣.md "wikilink")らを初めとする大阪近辺の大学生たちが運営主体であった。そして、岡田らから依頼を受けて、このアニメーションを実際に制作したのは当時[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")に在籍した[庵野秀明](../Page/庵野秀明.md "wikilink")、[赤井孝美](../Page/赤井孝美.md "wikilink")、[山賀博之](../Page/山賀博之.md "wikilink")といった後にプロで活躍する面々だった。
+[1981年](../Page/1981年.md "wikilink")、[大阪で](../Page/大阪府.md "wikilink")[第20回日本SF大会](../Page/日本SF大会.md "wikilink")（愛称「DAICON 3（ダイコン・スリー）」、大阪で3度目の開催であることからこう呼ぶ。DAIは大阪の「大」CONは大会を意味するconventionから来ている。）が開催された時、開会式において1本の[8mm](https://ja.wikipedia.org/wiki/8ミリ映画 "wikilink")[アニメ](../Page/アニメ.md "wikilink")ーションが上映された。日本SF大会は開催地近辺の大学生によって運営されるのが通例であり、DAICON 3も[岡田斗司夫](../Page/岡田斗司夫.md "wikilink")・[武田康廣](../Page/武田康廣.md "wikilink")らを初めとする大阪近辺の大学生たちが運営主体であった。そして、岡田らから依頼を受けて、このアニメーションを実際に制作したのは当時[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")に在籍した[庵野秀明](../Page/庵野秀明.md "wikilink")、[赤井孝美](../Page/赤井孝美.md "wikilink")、[山賀博之](../Page/山賀博之.md "wikilink")といった後にプロで活躍する面々だった。
 
 庵野らはそれほど意気込みがなかったが、山賀が率先して企画を推進した。ペーパーアニメの経験こそあったものの[セル画](../Page/セル画.md "wikilink")によるアニメ製作は初めての経験だったという。プロとしての技術もノウハウも何もない手探りの状態であったため、プロのアニメスタジオに足を運び、技術を学んだ。費用削減のため、通常使用しない安価な工業用[セルロイド](../Page/セルロイド.md "wikilink")を使うなどの試みも行われた。
 
@@ -77,7 +77,7 @@ OVA『[フリクリ](../Page/フリクリ.md "wikilink")』には『DAICON IV』
 
   - [赤井孝美](../Page/赤井孝美.md "wikilink")
   - [庵野秀明](../Page/庵野秀明.md "wikilink")
-  - [岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")
+  - [岡田斗司夫](../Page/岡田斗司夫.md "wikilink")
   - 神村靖宏
   - [清積紀文](https://ja.wikipedia.org/wiki/清積紀文 "wikilink")
   - [貞本義行](https://ja.wikipedia.org/wiki/貞本義行 "wikilink")

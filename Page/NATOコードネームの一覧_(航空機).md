@@ -367,7 +367,7 @@ DoD識別記号</p></th>
 <td><p>Fullback</p></td>
 <td><p>フルバック</p></td>
 <td></td>
-<td><p><span style="display:none">Su34</span>スホーイ <a href="https://ja.wikipedia.org/wiki/Su-34_(航空機)" title="wikilink">Su-27IB / Su-32 / Su-34</a></p></td>
+<td><p><span style="display:none">Su34</span>スホーイ <a href="../Page/Su-34_(航空機).md" title="wikilink">Su-27IB / Su-32 / Su-34</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

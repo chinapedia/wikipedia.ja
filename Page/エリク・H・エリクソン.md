@@ -182,7 +182,7 @@
 
   -
     『青年ルター――精神分析的・歴史的研究』、[大沼隆](https://ja.wikipedia.org/wiki/大沼隆 "wikilink")訳、[教文館](https://ja.wikipedia.org/wiki/教文館 "wikilink")、1974年
-    『青年ルター』、1-2巻、[西平直](https://ja.wikipedia.org/wiki/西平直 "wikilink")訳、みすず書房、2002年-2003年
+    『青年ルター』、1-2巻、[西平直](../Page/西平直.md "wikilink")訳、みすず書房、2002年-2003年
 
 <!-- end list -->
 

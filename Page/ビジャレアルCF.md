@@ -1068,7 +1068,7 @@
 
   - [フリオ・ベラスケス](https://ja.wikipedia.org/wiki/フリオ・ベラスケス "wikilink") 2012.6-2013.1
 
-  - [マルセリーノ・ガルシア・トラル](https://ja.wikipedia.org/wiki/マルセリーノ・ガルシア・トラル "wikilink") 2013.1-2016.8
+  - [マルセリーノ・ガルシア・トラル](../Page/マルセリーノ・ガルシア・トラル.md "wikilink") 2013.1-2016.8
 
   - [フラン・エスクリバ](https://ja.wikipedia.org/wiki/フラン・エスクリバ "wikilink") 2016.8-2017.9
 

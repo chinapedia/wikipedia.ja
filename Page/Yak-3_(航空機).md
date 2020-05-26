@@ -59,7 +59,7 @@ Yak-3は低高度での上昇や加速に優れ、また操縦も容易なこと
   - **Yak-15** (****)
     Yak-3に[RD-10](https://ja.wikipedia.org/wiki/RD-10_\(エンジン\) "wikilink")(ドイツの[ユモ004の複製](https://ja.wikipedia.org/wiki/ユンカース_ユモ_004 "wikilink"))を搭載したジェット戦闘機が戦後開発され、[Yak-15として](../Page/Yak-15_\(航空機\).md "wikilink")[1946年](../Page/1946年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")に初飛行を行った。
   - **Yak-3M** (****)
-    [1992年](../Page/1992年.md "wikilink")に初飛行を行った、Yak-3の復元再生産機。[Yak-9UMに生産が移行するまでの間](../Page/Yak-9P_\(航空機\).md "wikilink")、数十機が生産された。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")製の[アリソン製](https://ja.wikipedia.org/wiki/アリソン・エンジン "wikilink")[V-1710](../Page/V-1710_\(航空用エンジン\).md "wikilink")[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")を搭載している為、機首上部のラインが僅かに異なっている。
+    [1992年](../Page/1992年.md "wikilink")に初飛行を行った、Yak-3の復元再生産機。[Yak-9UMに生産が移行するまでの間](../Page/Yak-9P_\(航空機\).md "wikilink")、数十機が生産された。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")製の[アリソン製](../Page/アリソン・エンジン.md "wikilink")[V-1710](../Page/V-1710_\(航空用エンジン\).md "wikilink")[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")を搭載している為、機首上部のラインが僅かに異なっている。
 
 ## スペック(Yak-3)
 
@@ -95,7 +95,7 @@ Yak-3は低高度での上昇や加速に優れ、また操縦も容易なこと
 ## 現存する機体
 
   - Yak-3Mは、1990年代に[ヤーカヴリェフ公社で](https://ja.wikipedia.org/wiki/A・S・ヤコヴレフ記念試作設計局 "wikilink")[ヤーカヴリェフ氏の子である米国人](https://ja.wikipedia.org/wiki/アレクサンドル・セルゲーエヴィチ・ヤコヴレフ "wikilink")、サーゲー・ヤーコヴレヴ氏（Sergey Yakovlev）の資金提供と同一の設計図面によって製造されたYak-3Uの現代生産機で、しばしば区別のため**YAK-3**や**YAK-3M**と大文字で表される。型名末尾のMは英語で表すところの「Modern」である。この型は搭載エンジンによって以下のようにもう1つ型名がある。
-      - **Yak-3UA** - [アリソン社製](https://ja.wikipedia.org/wiki/アリソン・エンジン "wikilink")[V-1710エンジンを動力としたもの](../Page/V-1710_\(航空用エンジン\).md "wikilink")。
+      - **Yak-3UA** - [アリソン社製](../Page/アリソン・エンジン.md "wikilink")[V-1710エンジンを動力としたもの](../Page/V-1710_\(航空用エンジン\).md "wikilink")。
       - **Yak-3UPW** - [P\&W社製](../Page/プラット・アンド・ホイットニー.md "wikilink")[R-1830エンジンを動力としたもの](../Page/プラット・アンド・ホイットニー_R-1830.md "wikilink")。Yak-UR-1830とも記される。
       - **Yak-3UR-2000** - [P\&W社製](../Page/プラット・アンド・ホイットニー.md "wikilink")[R-2000エンジンを動力としたもの](https://ja.wikipedia.org/wiki/:en:Pratt_&_Whitney_R-2000_Twin_Wasp "wikilink")。
   - この他にも機体があるとされる。

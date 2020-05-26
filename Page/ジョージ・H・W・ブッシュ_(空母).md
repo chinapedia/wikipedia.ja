@@ -56,7 +56,7 @@
 
 | 飛行隊名                                                                                               | 通称名                              | 使用機種                                                                         |
 | -------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
-| 第31戦闘攻撃飛行隊 ([VFA-31](https://ja.wikipedia.org/wiki/第31戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『トムキャッターズ *Tomcatters*』          | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
+| 第31戦闘攻撃飛行隊 ([VFA-31](../Page/第31戦闘攻撃飛行隊_\(アメリカ海軍\).md "wikilink"))                                 | 『トムキャッターズ *Tomcatters*』          | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
 | 第213戦闘攻撃飛行隊 ([VFA-213](https://ja.wikipedia.org/wiki/第213戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))           | 『ブラック・ライオンズ *Black Lions*』       | [F/A-18F Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
 | 第87戦闘攻撃飛行隊 ([VFA-87](https://ja.wikipedia.org/wiki/第87戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『ゴールデン・ウォリアーズ *Golden Warriors*』 | [F/A-18E Block2](https://ja.wikipedia.org/wiki/F/A-18E/F_\(航空機\) "wikilink") |
 | 第37戦闘攻撃飛行隊 ([VFA-37](https://ja.wikipedia.org/wiki/第37戦闘攻撃飛行隊_\(アメリカ海軍\) "wikilink"))              | 『ブルズ *Bulls*』                    | [F/A-18C(N)](https://ja.wikipedia.org/wiki/F/A-18_\(航空機\) "wikilink")        |

@@ -8,7 +8,7 @@
 ### 0番台
 
   - 1
-    [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")[所有](../Page/所有権.md "wikilink")（[新日鐵化学](https://ja.wikipedia.org/wiki/新日鐵化学 "wikilink")借受）、[トリフェニル](https://ja.wikipedia.org/wiki/トリフェニル "wikilink")専用。
+    [日陸](../Page/日陸.md "wikilink")[所有](../Page/所有権.md "wikilink")（[新日鐵化学](https://ja.wikipedia.org/wiki/新日鐵化学 "wikilink")借受）、[トリフェニル](https://ja.wikipedia.org/wiki/トリフェニル "wikilink")専用。
     ※ 保護枠なし。
   - 2
     [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有（[新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")借用）、[潤滑油](../Page/潤滑油.md "wikilink")専用。

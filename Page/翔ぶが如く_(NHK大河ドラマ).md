@@ -90,7 +90,7 @@
     西郷家親戚・家事手伝い。
   - [西郷菊次郎](https://ja.wikipedia.org/wiki/西郷菊次郎 "wikilink")（さいごう きくじろう）
     演：[六浦誠](https://ja.wikipedia.org/wiki/六浦誠 "wikilink")（幼年期：[若菜大輔](https://ja.wikipedia.org/wiki/若菜大輔 "wikilink")）
-    隆盛と愛加那の子。のち[京都市長](https://ja.wikipedia.org/wiki/京都市長 "wikilink")
+    隆盛と愛加那の子。のち[京都市長](../Page/京都市長.md "wikilink")
   - [市来琴](../Page/市来琴.md "wikilink")（いちぎ こと）
     （西郷琴→市来琴）
     演：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")
@@ -195,10 +195,10 @@
   - [島津安芸](../Page/島津忠剛.md "wikilink")（しまづ あき）
     演：[瀬下和久](https://ja.wikipedia.org/wiki/瀬下和久 "wikilink")
     篤姫の実父。
-  - [島津久徳](https://ja.wikipedia.org/wiki/島津久徳 "wikilink")（しまづ ひさのり）
+  - [島津久徳](../Page/島津久徳.md "wikilink")（しまづ ひさのり）
     演：[名和宏](../Page/名和宏.md "wikilink")
     家老。斉興の側近。
-  - [島津久宝](https://ja.wikipedia.org/wiki/島津久宝_\(豊州家\) "wikilink")（しまづ ひさたか）
+  - [島津久宝](../Page/島津久宝_\(豊州家\).md "wikilink")（しまづ ひさたか）
     演：[村松克巳](https://ja.wikipedia.org/wiki/村松克巳 "wikilink")
     家老。
   - [島津下総](https://ja.wikipedia.org/wiki/島津久徴_\(日置家\) "wikilink")（しまづ しもうさ）
@@ -265,7 +265,7 @@
     演：[光石研](../Page/光石研.md "wikilink")
     [沖永良部島](https://ja.wikipedia.org/wiki/沖永良部島 "wikilink")の住人。西郷に師事。ドラマ内では取り上げられなかったが、妻は、利通の異母妹。
   - [伊藤才蔵](https://ja.wikipedia.org/wiki/伊藤才蔵 "wikilink")（いとう さいぞう）
-    演：[草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")
+    演：[草見潤平](../Page/草見潤平.md "wikilink")
   - [左右田宗之進](https://ja.wikipedia.org/wiki/左右田宗之進 "wikilink")（そうだ むねのしん）
     演：[鶴田忍](../Page/鶴田忍_\(俳優\).md "wikilink")
   - [中山尚之助](https://ja.wikipedia.org/wiki/中山中左衛門 "wikilink")

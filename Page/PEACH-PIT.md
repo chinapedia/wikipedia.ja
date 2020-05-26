@@ -1,7 +1,7 @@
 > この記事は[PEACH-PIT](https://ja.wikipedia.org/wiki/PEACH-PIT)から翻訳されています。
 
 
-**PEACH-PIT**（ピーチ・ピット）は、**千道 万里**（せんどう ばんり）と**えばら 渋子**（えばら しぶこ）の2人で構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")ユニット。ともに[千葉県](../Page/千葉県.md "wikilink")出身で小学校以来の付き合い。青年向け・少年向け・少女向けと幅広いジャンルで活躍している。
+**PEACH-PIT**（ピーチ・ピット）は、**千道 万里**（せんどう ばんり）と**えばら 渋子**（えばら しぶこ）の2人で構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[漫画家](../Page/漫画家.md "wikilink")ユニット。ともに[千葉県](../Page/千葉県.md "wikilink")出身で小学校以来の付き合い。青年向け・少年向け・少女向けと幅広いジャンルで活躍している。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
 
   - [1996年](../Page/1996年.md "wikilink")\[1\] - 漫画家としての作品を発表する。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")\[2\] - 「PEACH-PIT」として作品を発表する。
-  - [2000年](../Page/2000年.md "wikilink") - [ブロッコリー原作のゲーム](../Page/ブロッコリー_\(企業\).md "wikilink")『[プリズムパレット](https://ja.wikipedia.org/wiki/プリズムパレット "wikilink")』のコミカライズ作品の連載を開始し、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")として本格的にプロ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
+  - [2000年](../Page/2000年.md "wikilink") - [ブロッコリー原作のゲーム](../Page/ブロッコリー_\(企業\).md "wikilink")『[プリズムパレット](https://ja.wikipedia.org/wiki/プリズムパレット "wikilink")』のコミカライズ作品の連載を開始し、[漫画家](../Page/漫画家.md "wikilink")として本格的にプロ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
   - [2001年](../Page/2001年.md "wikilink") - 初のオリジナル長編作となる『[DearS](../Page/DearS.md "wikilink")』の連載を開始（[2005年](../Page/2005年.md "wikilink")完結）。その他、短編作品『みずたま』を執筆。この頃に、ブランドン博士・ディラン教授等の名義を、それぞれ**千道万里**・**えばら渋子**に統一している。
   - [2002年](../Page/2002年.md "wikilink") - 『[Rozen Maiden](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")』『ZOMBIE-LOAN』を立て続けに連載開始、3誌で執筆を掛け持つ。
   - [2006年](../Page/2006年.md "wikilink") - 初の少女漫画『しゅごキャラ\!』を連載開始。
@@ -37,10 +37,10 @@
 
 掲載誌および単行本の巻数は2019年3月現在。
 
-| 作品名       | メイン作画 | 掲載誌                                                                                                | 単行本  |
-| --------- | ----- | -------------------------------------------------------------------------------------------------- | ---- |
-| 暁のヴァンピレス  |       | （[一迅社](../Page/一迅社.md "wikilink")）\[3\]                                                            | 既刊2巻 |
-| 清少納言と申します |       | [BE・LOVE](https://ja.wikipedia.org/wiki/BE・LOVE "wikilink")（[講談社](../Page/講談社.md "wikilink")）\[4\] | 既刊1巻 |
+| 作品名       | メイン作画 | 掲載誌                                                                             | 単行本  |
+| --------- | ----- | ------------------------------------------------------------------------------- | ---- |
+| 暁のヴァンピレス  |       | （[一迅社](../Page/一迅社.md "wikilink")）\[3\]                                         | 既刊2巻 |
+| 清少納言と申します |       | [BE・LOVE](../Page/BE・LOVE.md "wikilink")（[講談社](../Page/講談社.md "wikilink")）\[4\] | 既刊1巻 |
 
 ### 過去の漫画作品
 

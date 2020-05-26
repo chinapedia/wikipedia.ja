@@ -1,7 +1,7 @@
 > この記事は[ナカタニD.](https://ja.wikipedia.org/wiki/ナカタニD.)から翻訳されています。
 
 
-**ナカタニ D.**（なかたに ディー、[1964年](../Page/1964年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")出身。[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")[芸術学部](../Page/芸術学部.md "wikilink")卒業。
+**ナカタニ D.**（なかたに ディー、[1964年](../Page/1964年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")出身。[大阪芸術大学](../Page/大阪芸術大学.md "wikilink")[芸術学部](../Page/芸術学部.md "wikilink")卒業。
 
 ## 略歴
 

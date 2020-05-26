@@ -40,9 +40,9 @@
 ## 関連項目
 
   - [NTT四国硬式野球部](https://ja.wikipedia.org/wiki/NTT四国硬式野球部 "wikilink")
-  - [NTT関東サッカー部](https://ja.wikipedia.org/wiki/NTT関東サッカー部 "wikilink")／[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")
+  - [NTT関東サッカー部](../Page/NTT関東サッカー部.md "wikilink")／[大宮アルディージャ](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")
   - [日本電信電話公社熊本サッカー部](https://ja.wikipedia.org/wiki/日本電信電話公社熊本サッカー部 "wikilink")／[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")
-  - [NTT西日本京都サッカー部](https://ja.wikipedia.org/wiki/NTT西日本京都サッカー部 "wikilink")
+  - [NTT西日本京都サッカー部](../Page/NTT西日本京都サッカー部.md "wikilink")
 
 ## 外部リンク
 

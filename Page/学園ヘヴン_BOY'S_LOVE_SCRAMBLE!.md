@@ -161,7 +161,7 @@
 <td><p>湯煙!波乱の歓迎会</p></td>
 <td><p>三宅雄一郎</p></td>
 <td><p>磨積良亜澄</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤岡真紀" title="wikilink">藤岡真紀</a>、安田きょうこ</p></td>
+<td><p><a href="../Page/藤岡真紀.md" title="wikilink">藤岡真紀</a>、安田きょうこ</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -40,7 +40,7 @@
 
 #### 小島麻子の代役
 
-  - [良田麻美](https://ja.wikipedia.org/wiki/良田麻美 "wikilink")（2008年6月4日）
+  - [良田麻美](../Page/良田麻美.md "wikilink")（2008年6月4日）
 
 #### MiOの代役
 

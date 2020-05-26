@@ -160,7 +160,7 @@ BOINCは、プロジェクト主催者が運営するサーバに対し、参加
 
   - [Hydrogen@home](http://hydrogenathome.org/)
 
-      - [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")生産の研究。
+      - [水素](../Page/水素.md "wikilink")生産の研究。
 
   -   - [古典力学](../Page/古典力学.md "wikilink")全般。現在は[分子動力学法](../Page/分子動力学法.md "wikilink")に基づく水分子の運動モデルの検証が主。
 
@@ -406,7 +406,7 @@ BOINCは、プロジェクト主催者が運営するサーバに対し、参加
 
       - [植物学](../Page/植物学.md "wikilink")に関する膨大な文献をデータベース化する。
 
-  - [TANPAKU](https://ja.wikipedia.org/wiki/TANPAKU "wikilink")
+  - [TANPAKU](../Page/TANPAKU.md "wikilink")
 
       - タンパク質の構造と機能をを用いて研究。
 

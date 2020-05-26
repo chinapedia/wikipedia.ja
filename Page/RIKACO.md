@@ -119,7 +119,7 @@
 
 ### 映画
 
-  - [V.マドンナ大戦争](https://ja.wikipedia.org/wiki/V.マドンナ大戦争 "wikilink")（1985年）
+  - [V.マドンナ大戦争](../Page/V.マドンナ大戦争.md "wikilink")（1985年）
   - [コミック雑誌なんかいらない\!](https://ja.wikipedia.org/wiki/コミック雑誌なんかいらない! "wikilink")（1986年）
   - [デスパウダー](https://ja.wikipedia.org/wiki/デスパウダー "wikilink")（1986年）
   - [トットチャンネル](https://ja.wikipedia.org/wiki/トットチャンネル "wikilink")（1987年）

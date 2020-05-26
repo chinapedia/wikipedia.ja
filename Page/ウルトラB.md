@@ -120,7 +120,7 @@
 <td><p><strong>1987年</strong><br />
 4月5日</p></td>
 <td><p>宇宙からきた赤ちゃん</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p><a href="../Page/笹川ひろし.md" title="wikilink">笹川ひろし</a></p></td>
 <td><p><a href="../Page/善聡一郎.md" title="wikilink">善聡一郎</a></p></td>
 <td><p>-</p></td>

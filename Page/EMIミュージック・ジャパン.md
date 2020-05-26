@@ -43,7 +43,7 @@
   - [2005年](../Page/2005年.md "wikilink")12月26日 - 製造部門（東芝EMI御殿場工場）を分割。音楽ソフト制作事業に専念するために、光ディスク製造大手の[メモリーテック](../Page/メモリーテック.md "wikilink")、[ゴールドマン・サックス証券](https://ja.wikipedia.org/wiki/ゴールドマン・サックス証券 "wikilink")らに売却。製造部門は売却後、[トエミ・メディア](../Page/トエミ・メディア.md "wikilink")・ソリューションズ株式会社となる。
   - [2006年](../Page/2006年.md "wikilink")12月14日 - 東芝が、保有する東芝EMI全株式を2007年度上期中に210億円でEMIグループに売却すると発表。これに伴い、東芝EMIは 東芝グループから離脱し、東芝は音楽事業から撤退。
   - [2007年](../Page/2007年.md "wikilink")6月30日 - 社名を東芝イーエムアイ株式会社から**株式会社EMIミュージック・ジャパン**へ変更。なお[規格品番](../Page/規格品番.md "wikilink")のTO、TT等は、「東芝EMI」時代の名残りである。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月18日 - 本社を赤坂5丁目（[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")）へ移転。これにより赤坂2丁目（[溜池](https://ja.wikipedia.org/wiki/溜池 "wikilink")）にあった旧本社ビルは解体された。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月18日 - 本社を赤坂5丁目（[赤坂サカス](../Page/赤坂サカス.md "wikilink")内[赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")）へ移転。これにより赤坂2丁目（[溜池](https://ja.wikipedia.org/wiki/溜池 "wikilink")）にあった旧本社ビルは解体された。
       - [3月5日](../Page/3月5日.md "wikilink") - Blu-ray Disc市場に参入。第1弾タイトルとして、松任谷由実のライヴ「YUMING SPECTACLE SHANGRILA III」を、DVDとBlu-ray Discビデオの2フォーマットで3月5日に発売した。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月1日 - 旧・東芝音工時代から数えて、創立50周年を迎えた。
   - [2012年](../Page/2012年.md "wikilink")10月1日 - 親会社（レコード部門）がユニバーサル ミュージック グループに買収されたため、[ユニバーサル ミュージック合同会社（UML）の子会社になる](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック_\(日本\) "wikilink")\[6\]。
@@ -55,7 +55,7 @@
 
 ### 解散時に所属していたアーティスト
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:TOSHIBA_EMI_2007.jpg "wikilink")（[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")2丁目）、2007年。「EMIミュージック・ジャパン」に社名変更した後は右上の「TOSHIBA EMI」の文字も取り外された。2008年に本社が[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")27階へ移転したことに伴い取り壊され現存しない。跡地には[ニッセイ溜池山王ビルがある](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")。\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:TOSHIBA_EMI_2007.jpg "wikilink")（[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")2丁目）、2007年。「EMIミュージック・ジャパン」に社名変更した後は右上の「TOSHIBA EMI」の文字も取り外された。2008年に本社が[赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")27階へ移転したことに伴い取り壊され現存しない。跡地には[ニッセイ溜池山王ビルがある](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")。\]\]
 
 ### 過去に所属していたアーティスト
 
@@ -635,7 +635,7 @@ TOCT-25774</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年03月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビート・キッズ" title="wikilink">BEAT KIDS</a> オリジナル・サウンドトラック・アルバム</p></td>
+<td><p><a href="../Page/ビート・キッズ.md" title="wikilink">BEAT KIDS</a> オリジナル・サウンドトラック・アルバム</p></td>
 <td><p>TOCT-25621</p></td>
 </tr>
 <tr class="odd">

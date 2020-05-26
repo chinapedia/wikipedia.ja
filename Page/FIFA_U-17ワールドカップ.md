@@ -2039,7 +2039,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007_FIFA_U-17ワールドカップ.md" title="wikilink">2007 韓国</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニ・クロース" title="wikilink">トニ・クロース</a></p></td>
+<td><p><a href="../Page/トニ・クロース.md" title="wikilink">トニ・クロース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マコーリー・クリサントゥス" title="wikilink">マコーリー・クリサントゥス</a></p></td>
 <td><p>7</p></td>
 <td></td>

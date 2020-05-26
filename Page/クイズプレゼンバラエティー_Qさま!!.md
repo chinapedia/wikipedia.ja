@@ -68,7 +68,7 @@
 ### 司会
 
   - [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")（[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")・[大竹一樹](../Page/大竹一樹.md "wikilink")）
-      - [2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")〜[3月16日](../Page/3月16日.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")はプレゼンターとして出演。プレゼンターの時は大竹が[黄緑色](https://ja.wikipedia.org/wiki/黄緑色 "wikilink")、三村が[ピンク](../Page/ピンク.md "wikilink")色の[ランニングシャツ](https://ja.wikipedia.org/wiki/ランニングシャツ "wikilink")と[えんじ色](../Page/えんじ色.md "wikilink")の[短パン](../Page/短パン.md "wikilink")を着用（三村いわく「このランニングシャツを着てるときは何かやらされる時」）。
+      - [2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[6月2日](../Page/6月2日.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")〜[3月16日](../Page/3月16日.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")はプレゼンターとして出演。プレゼンターの時は大竹が[黄緑色](https://ja.wikipedia.org/wiki/黄緑色 "wikilink")、三村が[ピンク](../Page/ピンク.md "wikilink")色の[ランニングシャツ](https://ja.wikipedia.org/wiki/ランニングシャツ "wikilink")と[えんじ色](../Page/えんじ色.md "wikilink")の[短パン](../Page/短パン.md "wikilink")を着用（三村いわく「このランニングシャツを着てるときは何かやらされる時」）。
   - [優香](../Page/優香.md "wikilink")
       - [2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に第1子を懐妊中であることを公表している\[10\]。このため、2020年3月9日放送をもって産休のために一時降板\[11\]。
   - [高山一実](https://ja.wikipedia.org/wiki/高山一実 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）

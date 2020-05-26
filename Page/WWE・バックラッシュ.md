@@ -685,7 +685,7 @@
 ### 第10回大会（2008年）WWE Backlash 2008
 
   - 開催日 : 4月27日
-  - 開催場所 : [メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")の[ファースト・マリナー・アリーナ](https://ja.wikipedia.org/wiki/ファースト・マリナー・アリーナ "wikilink")
+  - 開催場所 : [メリーランド州](../Page/メリーランド州.md "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")の[ファースト・マリナー・アリーナ](../Page/ファースト・マリナー・アリーナ.md "wikilink")
   - 観客動員数 : 9,000人
   - 公式大会曲 : [Kid Rock](../Page/キッド・ロック.md "wikilink") - All Summer Long
 

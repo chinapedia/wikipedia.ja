@@ -180,7 +180,7 @@
 | [河原隆一](../Page/河原隆一.md "wikilink")                           | 編成部スカウティングディレクター |         |
 | [武居邦生](https://ja.wikipedia.org/wiki/武居邦生 "wikilink")        | 編成部アマスカウト        |         |
 | [欠端光則](../Page/欠端光則.md "wikilink")                           | 編成部アマスカウト        |         |
-| [八馬幹典](https://ja.wikipedia.org/wiki/八馬幹典 "wikilink")        | 編成部アマスカウト        |         |
+| [八馬幹典](../Page/八馬幹典.md "wikilink")                           | 編成部アマスカウト        |         |
 | [篠原貴行](../Page/篠原貴行.md "wikilink")                           | 編成部アマスカウト        |         |
 | [稲嶺茂夫](../Page/稲嶺茂夫.md "wikilink")                           | 編成部アマスカウト        |         |
 | [吉見祐治](../Page/吉見祐治.md "wikilink")                           | 編成部アマスカウト        |         |
@@ -191,7 +191,7 @@
 | [高崎健太郎](../Page/高崎健太郎.md "wikilink")                         | 編成部プロスカウト        | イースタン担当 |
 | [ルイス・ロペス](../Page/ルイス・ロペス_\(1964年生の内野手\).md "wikilink")      | 国際スカウト           |         |
 | [グレッグ・ハンセル](../Page/グレッグ・ハンセル.md "wikilink")                 | 国際スカウト           |         |
-| [住田ワタリ](https://ja.wikipedia.org/wiki/住田ワタリ "wikilink")      | 人材開発コーディネーター     |         |
+| [住田ワタリ](../Page/住田ワタリ.md "wikilink")                         | 人材開発コーディネーター     |         |
 | 上林遼                                                          | 人材開発コーディネーター     |         |
 
 ## 退団・移籍した選手
@@ -229,7 +229,7 @@
   - [阿部成行](../Page/阿部成宏.md "wikilink")（1965 - 1970）
   - [網谷圭将](https://ja.wikipedia.org/wiki/網谷圭将 "wikilink")（2016 - 2018）
   - [綾部翔](https://ja.wikipedia.org/wiki/綾部翔 "wikilink")（2016 - 2019）
-  - [新井克太郎](https://ja.wikipedia.org/wiki/新井克太郎 "wikilink")（1978 - 1983）
+  - [新井克太郎](../Page/新井克太郎.md "wikilink")（1978 - 1983）
   - [新井寛治](https://ja.wikipedia.org/wiki/新井寛治 "wikilink")（1951）
   - [新井潔](../Page/新井潔.md "wikilink")（1997 - 2000）
   - [新井竜郎](https://ja.wikipedia.org/wiki/新井竜郎 "wikilink")（1955）
@@ -262,7 +262,7 @@
   - [井木雅彦](https://ja.wikipedia.org/wiki/井木雅彦 "wikilink")（1964）
   - [池上誠一](../Page/池上誠一.md "wikilink")（1999）
   - [池内豊](../Page/池内豊_\(野球\).md "wikilink")（1985）
-  - [池田重喜](https://ja.wikipedia.org/wiki/池田重喜 "wikilink")（1968 - 1970）
+  - [池田重喜](../Page/池田重喜.md "wikilink")（1968 - 1970）
   - [池田茂](https://ja.wikipedia.org/wiki/池田茂_\(野球\) "wikilink")（1978 - 1979）
   - [池田弘](../Page/池田弘_\(野球\).md "wikilink")（1980 - 1982）
   - [池之上格](../Page/池之上格.md "wikilink")（1987 - 1988）
@@ -318,7 +318,7 @@
 
   - [ジョー・ウィーランド](https://ja.wikipedia.org/wiki/ジョー・ウィーランド "wikilink")（2017 - 2018）
   - [ケビン・ウィット](../Page/ケビン・ウィット.md "wikilink")（2005）
-  - [デーブ・ウィリアムス](https://ja.wikipedia.org/wiki/デーブ・ウィリアムス "wikilink")（2008）
+  - [デーブ・ウィリアムス](../Page/デーブ・ウィリアムス.md "wikilink")（2008）
   - [上田重夫](https://ja.wikipedia.org/wiki/上田重夫 "wikilink")（1962）
   - [植野浩史](https://ja.wikipedia.org/wiki/植野浩史 "wikilink")（1960 - 1961）
   - [魚満芳](https://ja.wikipedia.org/wiki/魚満芳 "wikilink")（1977 - 1979）
@@ -332,7 +332,7 @@
   - [内川聖一](https://ja.wikipedia.org/wiki/内川聖一 "wikilink")（2001 - 2010）
   - [内田周作](https://ja.wikipedia.org/wiki/内田周作 "wikilink")（1976 - 1979）
   - [内村賢介](../Page/内村賢介.md "wikilink")（2012途 - 2016）
-  - [マイク・ウッド](https://ja.wikipedia.org/wiki/マイク・ウッド "wikilink")（2008）
+  - [マイク・ウッド](../Page/マイク・ウッド.md "wikilink")（2008）
   - [有働克也](../Page/有働克也.md "wikilink")（1992 - 1996）
   - [宇野輝幸](../Page/宇野輝幸.md "wikilink")（1981 - 1982）
 
@@ -344,7 +344,7 @@
 
   - [江尻亮](../Page/江尻亮.md "wikilink")（1965 - 1979）
   - [江尻慎太郎](../Page/江尻慎太郎.md "wikilink")（2010途 - 2012）
-  - [江田貢一](https://ja.wikipedia.org/wiki/江田孝 "wikilink")（1952 - 1957）
+  - [江田貢一](../Page/江田孝.md "wikilink")（1952 - 1957）
   - [枝村勉](../Page/枝村勉.md "wikilink")（1958 - 1960）
   - [江藤慎一](../Page/江藤慎一.md "wikilink")（1972 - 1974）
   - [江幡和志](https://ja.wikipedia.org/wiki/江幡和志 "wikilink")（1980 - 1983）
@@ -375,10 +375,10 @@
   - [大塚義樹](../Page/大塚義樹.md "wikilink")（1992 - 1996）
   - [大西宏明](../Page/大西宏明.md "wikilink")（2008 - 2010）
   - [大沼幸二](../Page/大沼幸二.md "wikilink")（2011 - 2012途）
-  - [大野貴洋](https://ja.wikipedia.org/wiki/大野貴洋 "wikilink")（1997 - 2001）
+  - [大野貴洋](../Page/大野貴洋.md "wikilink")（1997 - 2001）
   - [大野雄次](../Page/大野雄次.md "wikilink")（1987 - 1991）
   - [大場和夫](https://ja.wikipedia.org/wiki/大場和夫 "wikilink")（1953）
-  - [大橋勲](https://ja.wikipedia.org/wiki/大橋勲 "wikilink")（1969 - 1972）
+  - [大橋勲](../Page/大橋勲.md "wikilink")（1969 - 1972）
   - [大橋康延](https://ja.wikipedia.org/wiki/大橋康延 "wikilink")（1974 - 1980）
   - [大畑徹](../Page/大畑徹.md "wikilink")（1983 - 1985）
   - [大原慎司](https://ja.wikipedia.org/wiki/大原慎司 "wikilink")（2011 - 2017）
@@ -426,7 +426,7 @@
   - [粕谷由之](https://ja.wikipedia.org/wiki/粕谷由之 "wikilink")（1950）
   - [片岡光宏](../Page/片岡光宏.md "wikilink")（1990 - 1991）
   - [片平晋作](../Page/片平晋作.md "wikilink")（1987 - 1989）
-  - [片平保彦](https://ja.wikipedia.org/wiki/片平保彦 "wikilink")（1984 - 1989）
+  - [片平保彦](../Page/片平保彦.md "wikilink")（1984 - 1989）
   - [片山博](https://ja.wikipedia.org/wiki/片山博 "wikilink")（1950 - 1951）
   - [勝浦将元](https://ja.wikipedia.org/wiki/勝浦将元 "wikilink")（1956 - 1958）
   - [加藤康介](https://ja.wikipedia.org/wiki/加藤康介 "wikilink")（2009 - 2010）
@@ -440,7 +440,7 @@
   - [門倉健](../Page/門倉健.md "wikilink")（2004 - 2006）
   - [門田富昭](../Page/門田富昭.md "wikilink")（1978 - 1987）
   - [金沢次男](../Page/金沢次男.md "wikilink")（1982 - 1985）
-  - [金川直樹](https://ja.wikipedia.org/wiki/金川直樹 "wikilink")（1999 - 2001）
+  - [金川直樹](../Page/金川直樹.md "wikilink")（1999 - 2001）
   - [金光秀憲](../Page/金光秀憲.md "wikilink")（1959 - 1969）
   - [金村康平](../Page/金村康平.md "wikilink")（1993 - 1999）
   - [鏑木悦純](https://ja.wikipedia.org/wiki/鏑木悦純 "wikilink")（1971）
@@ -499,7 +499,7 @@
   - [北野幸吉](https://ja.wikipedia.org/wiki/北野幸吉 "wikilink")（1954）
   - [木塚敦志](../Page/木塚敦志.md "wikilink")（2000 - 2010）
   - [鬼頭洋](../Page/鬼頭洋.md "wikilink")（1965 - 1972・1974 - 1975）
-  - [木原義隆](https://ja.wikipedia.org/wiki/木原義隆 "wikilink")（1968 - 1969）
+  - [木原義隆](../Page/木原義隆.md "wikilink")（1968 - 1969）
   - [木村昇吾](../Page/木村昇吾.md "wikilink")（2003 - 2007）
   - [木村勉](https://ja.wikipedia.org/wiki/木村勉_\(野球\) "wikilink")（1952）
   - [木村広](../Page/木村広.md "wikilink")（1985）
@@ -645,7 +645,7 @@
 <!-- end list -->
 
   - [ラリー・シーツ](../Page/ラリー・シーツ.md "wikilink")（1992）
-  - [ジェイジェイ・ファーマニアック](https://ja.wikipedia.org/wiki/J.J.ファーマニアック "wikilink")（2008）
+  - [ジェイジェイ・ファーマニアック](../Page/J.J.ファーマニアック.md "wikilink")（2008）
   - [スキップ・ジェームス](../Page/スキップ・ジェームス.md "wikilink")（1980）
   - [ジオ・アルバラード](https://ja.wikipedia.org/wiki/ジャンカルロ・アルバラード "wikilink")（2012）
   - [塩崎兼一](../Page/塩崎兼一.md "wikilink")（1987 - 1992）
@@ -654,7 +654,7 @@
   - [七野智秀](../Page/七野智秀.md "wikilink")（2000 - 2004）
   - [篠田荘平](https://ja.wikipedia.org/wiki/篠田荘平 "wikilink")（1961 - 1965）
   - [篠原貴行](../Page/篠原貴行.md "wikilink")（2010 - 2013）
-  - [忍全功](https://ja.wikipedia.org/wiki/忍全功 "wikilink")（1967 - 1972）
+  - [忍全功](../Page/忍全功.md "wikilink")（1967 - 1972）
   - [柴田民男](https://ja.wikipedia.org/wiki/柴田民男 "wikilink")（1977 - 1978）
   - [柴田信夫](https://ja.wikipedia.org/wiki/柴田信夫 "wikilink")（1964 - 1969）
   - [芝野忠男](https://ja.wikipedia.org/wiki/芝野忠男 "wikilink")（1957 - 1961）
@@ -672,8 +672,8 @@
   - [下園辰哉](../Page/下園辰哉.md "wikilink")（2007 - 2017）
   - [下町豊一](https://ja.wikipedia.org/wiki/下町豊一 "wikilink")（1951）
   - [ジェフ・シュワーズ](../Page/ジェフ・シュワーズ.md "wikilink")（1995 - 1995途）
-  - [ジョー古河](https://ja.wikipedia.org/wiki/古河有一 "wikilink")（1996 - 1999）
-  - [白井正勝](https://ja.wikipedia.org/wiki/白井正勝 "wikilink")（1985 - 1990）
+  - [ジョー古河](../Page/古河有一.md "wikilink")（1996 - 1999）
+  - [白井正勝](../Page/白井正勝.md "wikilink")（1985 - 1990）
   - [白崎浩之](https://ja.wikipedia.org/wiki/白崎浩之 "wikilink")（2013 - 2018途）
   - [白根尚貴](https://ja.wikipedia.org/wiki/白根尚貴 "wikilink")（2016 - 2018）
   - [白幡隆宗](../Page/白幡隆宗.md "wikilink")（1991 - 1992）
@@ -712,17 +712,17 @@
   - [鈴木隆](../Page/鈴木隆_\(投手\).md "wikilink")（1958 - 1965・1968）
   - [鈴木尚典](../Page/鈴木尚典.md "wikilink")（1991 - 2008）
   - [鈴木武](../Page/鈴木武.md "wikilink")（1960途 - 1963）
-  - [鈴木健之](https://ja.wikipedia.org/wiki/鈴木健之 "wikilink")（2001 - 2004）
+  - [鈴木健之](../Page/鈴木健之.md "wikilink")（2001 - 2004）
   - [鈴木哲夫](https://ja.wikipedia.org/wiki/鈴木哲夫_\(野球\) "wikilink")（1969 - 1970）
   - [鈴木徹](../Page/鈴木徹_\(野球\).md "wikilink")（1955）
-  - [鈴木寛樹](https://ja.wikipedia.org/wiki/鈴木寛樹 "wikilink")（2000 - 2002）
+  - [鈴木寛樹](../Page/鈴木寛樹.md "wikilink")（2000 - 2002）
   - [須田幸太](https://ja.wikipedia.org/wiki/須田幸太 "wikilink")（2011 - 2018）
   - [須田久雄](https://ja.wikipedia.org/wiki/須田久雄 "wikilink")（1956 - 1957）
   - [ジョー・スタンカ](../Page/ジョー・スタンカ.md "wikilink")（1966途 - 終了）
   - [スタンレー橋本](../Page/スタンレー橋本.md "wikilink")（1961）
   - [ディック・スチュアート](../Page/ディック・スチュアート.md "wikilink")（1967 - 1968）
   - [ディーン・ストーン](https://ja.wikipedia.org/wiki/ディーン・ストーン "wikilink")（1964）
-  - [ターメル・スレッジ](https://ja.wikipedia.org/wiki/ターメル・スレッジ "wikilink")（2010 - 2011）
+  - [ターメル・スレッジ](../Page/ターメル・スレッジ.md "wikilink")（2010 - 2011）
 
 <!-- end list -->
 
@@ -929,7 +929,7 @@
   - [中村紀洋](../Page/中村紀洋.md "wikilink")（2011途 - 2014）
   - [中村日出夫](../Page/中村日出夫_\(野球\).md "wikilink")（1993途 - 1995）
   - [中村佳広](https://ja.wikipedia.org/wiki/中村佳広 "wikilink")（1994）
-  - [長持栄吉](https://ja.wikipedia.org/wiki/長持栄吉 "wikilink")（1950）
+  - [長持栄吉](../Page/長持栄吉.md "wikilink")（1950）
   - [中山三郎](https://ja.wikipedia.org/wiki/中山三郎 "wikilink")（1955）
   - [中山裕章](../Page/中山裕章.md "wikilink")（1986 - 1991）
   - [名幸一明](../Page/名幸一明.md "wikilink")（1987 - 1995）
@@ -998,14 +998,14 @@
   - [秦裕二](../Page/秦裕二.md "wikilink")（2002 - 2011）
   - [畑口健二](https://ja.wikipedia.org/wiki/畑口健二 "wikilink")（1965 - 1968）
   - [畠山準](../Page/畠山準.md "wikilink")（1991 - 1999）
-  - [八馬幹典](https://ja.wikipedia.org/wiki/八馬幹典 "wikilink")（2000 - 2002）
+  - [八馬幹典](../Page/八馬幹典.md "wikilink")（2000 - 2002）
   - [ジム・パチョレック](../Page/ジム・パチョレック.md "wikilink")（1988 - 1991）
   - [服部茂次](https://ja.wikipedia.org/wiki/服部茂次 "wikilink")（1954 - 1957）
   - [羽場勇二](https://ja.wikipedia.org/wiki/羽場勇二 "wikilink")（1962 - 1966）
   - [浜田一男](https://ja.wikipedia.org/wiki/浜田一男_\(野球\) "wikilink")（1955 - 1956）
   - [浜中祥和](../Page/浜中祥和.md "wikilink")（1960 - 1964）
   - [クレイトン・ハミルトン](https://ja.wikipedia.org/wiki/クレイトン・ハミルトン "wikilink")（2011 - 2012途）
-  - [葉室太郎](https://ja.wikipedia.org/wiki/葉室太郎 "wikilink")（1994 - 1997）
+  - [葉室太郎](../Page/葉室太郎.md "wikilink")（1994 - 1997）
   - [早川大輔](../Page/早川大輔.md "wikilink")（2010 - 2011）
   - [林健造](https://ja.wikipedia.org/wiki/林健造 "wikilink")（1962 - 1972）
   - [林直明](../Page/林直明.md "wikilink")（1950 - 1954）
@@ -1027,10 +1027,10 @@
 <!-- end list -->
 
   - [ジェームス・ピータース](../Page/ジェームス・ピータース.md "wikilink")（1981 - 1982）
-  - [ラリー・ビグビー](https://ja.wikipedia.org/wiki/ラリー・ビグビー "wikilink")（2008）
+  - [ラリー・ビグビー](../Page/ラリー・ビグビー.md "wikilink")（2008）
   - [引地信之](https://ja.wikipedia.org/wiki/引地信之 "wikilink")（1952 - 1959）
   - [日野善朗](../Page/日野善朗.md "wikilink")（1985 - 1991）
-  - [トラビス・ヒューズ](https://ja.wikipedia.org/wiki/トラビス・ヒューズ "wikilink")（2008 - 2008途）
+  - [トラビス・ヒューズ](../Page/トラビス・ヒューズ.md "wikilink")（2008 - 2008途）
   - [平岡一郎](../Page/平岡一郎.md "wikilink")（1965 - 1969・1971 - 1975）
   - [平川洋幸](https://ja.wikipedia.org/wiki/平川洋幸 "wikilink")（1983 - 1985）
   - [平田薫](../Page/平田薫_\(野球\).md "wikilink")（1985 - 1987）
@@ -1063,7 +1063,7 @@
   - [藤井秀悟](../Page/藤井秀悟.md "wikilink")（2012 - 2014）
   - [藤池昇](https://ja.wikipedia.org/wiki/藤池昇 "wikilink")（1972）
   - [藤江均](https://ja.wikipedia.org/wiki/藤江均 "wikilink")（2009 - 2014）
-  - [藤枝慎治](https://ja.wikipedia.org/wiki/藤枝慎治 "wikilink")（1990 - 1991）
+  - [藤枝慎治](../Page/藤枝慎治.md "wikilink")（1990 - 1991）
   - [藤岡貞明](../Page/藤岡貞明.md "wikilink")（1980 - 1982）
   - [藤岡康男](https://ja.wikipedia.org/wiki/藤岡康男 "wikilink")（1978 - 1979）
   - [藤田一也](../Page/藤田一也.md "wikilink")（2005 - 2012途）
@@ -1190,7 +1190,7 @@
   - [三野勝大](../Page/三野勝大.md "wikilink")（1999途 - 2001）
   - [三平晴樹](https://ja.wikipedia.org/wiki/三平晴樹 "wikilink")（1963）
   - [フェリックス・ミヤーン](../Page/フェリックス・ミヤーン.md "wikilink")（1978 - 1980）
-  - [宮内洋](https://ja.wikipedia.org/wiki/宮内洋_\(野球\) "wikilink")（1998 - 2001）
+  - [宮内洋](../Page/宮内洋_\(野球\).md "wikilink")（1998 - 2001）
   - [宮川一彦](../Page/宮川一彦.md "wikilink")（1991 - 1999）
   - [宮崎仁郎](https://ja.wikipedia.org/wiki/宮崎仁郎 "wikilink")（1953）
   - [宮崎剛](../Page/宮崎剛_\(野球\).md "wikilink")（1950 - 1955）
@@ -1390,7 +1390,7 @@
   - [渡邊雄貴](https://ja.wikipedia.org/wiki/渡邊雄貴 "wikilink")（2012 - 2016）
   - [渡部高史](../Page/渡部高史.md "wikilink")（1991 - 1994）
   - [王溢正](https://ja.wikipedia.org/wiki/王溢正 "wikilink")（2010 - 2013途）
-  - [王靖超](https://ja.wikipedia.org/wiki/王靖超 "wikilink")（2009 - 2010）
+  - [王靖超](../Page/王靖超.md "wikilink")（2009 - 2010）
 
 ## 歴代監督
 

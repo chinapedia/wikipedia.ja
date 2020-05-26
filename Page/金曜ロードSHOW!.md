@@ -133,7 +133,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
   - [坂上みき](../Page/坂上みき.md "wikilink")（1997年4月4日\[26\] - 2009年3月20日） ※作品解説がなくなり、それに替わって坂上がナビゲーターとしてナレーションを担当していた\[27\]。
   - [森圭介](../Page/森圭介.md "wikilink")（日本テレビアナウンサー）・[西尾由佳理](https://ja.wikipedia.org/wiki/西尾由佳理 "wikilink")（当時日本テレビアナウンサー）（2008年10月3日 - 2011年3月25日） ※『まもなく\!金曜ロードショー』の進行役を担当した。
   - 森圭介（日本テレビアナウンサー）・[鈴江奈々](../Page/鈴江奈々.md "wikilink")（日本テレビアナウンサー）（2011年4月1日 - 2011年9月30日） ※『まもなく\!金曜ロードショー』の進行役を担当した。
-  - [加藤清史郎](https://ja.wikipedia.org/wiki/加藤清史郎 "wikilink")（2012年4月6日 - 2013年3月29日\[28\]） ※『金曜ロードSHOW\!』にリニューアルして以降、ナビゲーターを務めていた\[29\]。「シネマボーイ」として番組キャラクターの「スタンリー」と共に本編の前後に出演し、番組冒頭では本編の見どころ、本編終了後には本編で印象的だった部分を「映画メモ」として紹介していた。
+  - [加藤清史郎](../Page/加藤清史郎.md "wikilink")（2012年4月6日 - 2013年3月29日\[28\]） ※『金曜ロードSHOW\!』にリニューアルして以降、ナビゲーターを務めていた\[29\]。「シネマボーイ」として番組キャラクターの「スタンリー」と共に本編の前後に出演し、番組冒頭では本編の見どころ、本編終了後には本編で印象的だった部分を「映画メモ」として紹介していた。
   - [サッシャ](../Page/Sascha.md "wikilink")・[朴璐美](../Page/朴ロ美.md "wikilink")（2013年4月12日 - ） ※サッシャは「映画マイスター」、朴は「パートナー」としてナビゲーターを務めている\[30\]。
 
 ## 番組キャラクター
@@ -515,7 +515,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
   - [世界のナベアツ](../Page/桂三度.md "wikilink") - 『[ザスーラ](../Page/ザスーラ.md "wikilink")』（[フランク・オズ](../Page/フランク・オズ.md "wikilink")）
   - [杉田かおる](../Page/杉田かおる.md "wikilink") - 『[幸せのちから](../Page/幸せのちから_\(映画\).md "wikilink")』（[タンディ・ニュートン](../Page/タンディ・ニュートン.md "wikilink")）
   - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink") - 『[スパイダーマン3](../Page/スパイダーマン3.md "wikilink")』（[キルスティン・ダンスト](../Page/キルスティン・ダンスト.md "wikilink")）
-  - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") - 『[トワイライト 金曜ロードショー特別版](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")』（[ロバート・パティンソン](https://ja.wikipedia.org/wiki/ロバート・パティンソン "wikilink")、[クリステン・スチュワート](https://ja.wikipedia.org/wiki/クリステン・スチュワート "wikilink")）
+  - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") - 『[トワイライト 金曜ロードショー特別版](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")』（[ロバート・パティンソン](../Page/ロバート・パティンソン.md "wikilink")、[クリステン・スチュワート](../Page/クリステン・スチュワート.md "wikilink")）
   - [山本耕史](../Page/山本耕史.md "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink") - 『[ジュラシック・ワールド](https://ja.wikipedia.org/wiki/ジュラシック・ワールド "wikilink")』（[クリス・プラット](https://ja.wikipedia.org/wiki/クリス・プラット "wikilink")、[ブライス・ダラス・ハワード](../Page/ブライス・ダラス・ハワード.md "wikilink")） - 地上波初放送時のみ行われた。2回目の放送時は劇場公開版と同じ[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")、[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")版を放送。
   - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[南原清隆](../Page/南原清隆.md "wikilink")）、[千秋](../Page/千秋_\(タレント\).md "wikilink")、[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")（[ウド鈴木](../Page/ウド鈴木.md "wikilink")、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")） - 『[マーヴェリック](https://ja.wikipedia.org/wiki/マーヴェリック_\(1994年の映画\) "wikilink")』（『[ウリナリ](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』の企画で担当）
   - また、日本テレビに在籍していた[福澤朗](../Page/福澤朗.md "wikilink")を『[ベイビー・トーク](../Page/ベイビー・トーク.md "wikilink")』で[ブルース・ウィリス](../Page/ブルース・ウィリス.md "wikilink")の[吹き替え](../Page/吹き替え.md "wikilink")に起用、続篇ではさらに[大神いずみ](../Page/大神いずみ.md "wikilink")も加わった。
@@ -1019,7 +1019,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="odd">
 <td><p>2014年<a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/センター・オブ・ジ・アース2_神秘の島" title="wikilink">センター・オブ・ジ・アース2 神秘の島</a>（2012年）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイ・アム・レジェンド" title="wikilink">アイ・アム・レジェンド</a>（2008年）</p></td>
+<td><p><a href="../Page/アイ・アム・レジェンド.md" title="wikilink">アイ・アム・レジェンド</a>（2008年）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2014年の御嶽山噴火" title="wikilink">同年9月27日に発生した御嶽山の噴火を想起させるシーンが含まれているため</a>[59]。</p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td></td>

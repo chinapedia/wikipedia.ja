@@ -9,7 +9,7 @@
 
 給電側機器を「**PSE**」（Power sourcing equipment）、受電側機器を**PD**（Powered device）と呼ぶ。
 
-電力の供給には、[データ](../Page/データ.md "wikilink")線と電力供給線が共用であるため[1000BASE-Tでも使用できる](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")「**オルタナティブA**（**TypeA**）」と、UTPケーブル上の[10BASE-T](https://ja.wikipedia.org/wiki/10メガビット・イーサネット "wikilink")/[100BASE-TXでは使われていない](https://ja.wikipedia.org/wiki/100メガビット・イーサネット "wikilink")4本のピンを利用する「**オルタナティブB**（**TypeB**）」の方式がある。TypeAでは1・2・3・6番のピンを、TypeBでは4・5・7・8番のピンを利用する。[IEEE 802.3afではどちらも](https://ja.wikipedia.org/wiki/IEEE_802.3af "wikilink")、給電側機器 (**PSE**、Power sourcing equipment) は最大44–57(一般的には48)[V](../Page/ボルト_\(単位\).md "wikilink")/15.4[Wで供給し](../Page/ワット.md "wikilink")、受電側機器 (**PD**、Powered device) は12.95Wを使えることになっている\[1\]日経エレクトロニクス 2007年10月8日号「25～70Wの大電流対応品が登場」</ref>。給電側機器は製品仕様としてどちらかのタイプを選択する事が出来るが、受電側機器はどちらのタイプからでも受電できる仕様にしなければならない。
+電力の供給には、[データ](../Page/データ.md "wikilink")線と電力供給線が共用であるため[1000BASE-Tでも使用できる](../Page/ギガビット・イーサネット.md "wikilink")「**オルタナティブA**（**TypeA**）」と、UTPケーブル上の[10BASE-T](../Page/10メガビット・イーサネット.md "wikilink")/[100BASE-TXでは使われていない](../Page/100メガビット・イーサネット.md "wikilink")4本のピンを利用する「**オルタナティブB**（**TypeB**）」の方式がある。TypeAでは1・2・3・6番のピンを、TypeBでは4・5・7・8番のピンを利用する。[IEEE 802.3afではどちらも](https://ja.wikipedia.org/wiki/IEEE_802.3af "wikilink")、給電側機器 (**PSE**、Power sourcing equipment) は最大44–57(一般的には48)[V](../Page/ボルト_\(単位\).md "wikilink")/15.4[Wで供給し](../Page/ワット.md "wikilink")、受電側機器 (**PD**、Powered device) は12.95Wを使えることになっている\[1\]日経エレクトロニクス 2007年10月8日号「25～70Wの大電流対応品が登場」</ref>。給電側機器は製品仕様としてどちらかのタイプを選択する事が出来るが、受電側機器はどちらのタイプからでも受電できる仕様にしなければならない。
 
 基本的にはPoEに対応した機器同士でなければ利用できないが、給電ユニットや受電ユニットといった外部機器を併設する事により、PoE非対応の機器でも電力供給の恩恵を受ける事は可能である。
 

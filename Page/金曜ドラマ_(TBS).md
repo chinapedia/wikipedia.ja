@@ -283,7 +283,7 @@
 
 ### 2008年
 
-  - [エジソンの母](https://ja.wikipedia.org/wiki/エジソンの母 "wikilink")（1月11日 - 3月14日、主演：[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")）製作：ドリマックス・テレビジョン
+  - [エジソンの母](../Page/エジソンの母.md "wikilink")（1月11日 - 3月14日、主演：[伊東美咲](https://ja.wikipedia.org/wiki/伊東美咲 "wikilink")）製作：ドリマックス・テレビジョン
   - [Around40〜注文の多いオンナたち〜](https://ja.wikipedia.org/wiki/Around40〜注文の多いオンナたち〜 "wikilink")（4月11日 - 6月20日、主演：[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")）
   - [魔王](../Page/魔王_\(2008年のテレビドラマ\).md "wikilink")（7月4日 - 9月12日、主演：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")、[生田斗真](../Page/生田斗真.md "wikilink")）※[韓流ドラマの](../Page/魔王_\(2007年のテレビドラマ\).md "wikilink")[リメイク](../Page/リメイク.md "wikilink")作品
   - [流星の絆](https://ja.wikipedia.org/wiki/流星の絆 "wikilink")（10月17日 - 12月19日、原作：[東野圭吾](https://ja.wikipedia.org/wiki/東野圭吾 "wikilink") 主演：二宮和也）

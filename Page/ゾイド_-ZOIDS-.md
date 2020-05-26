@@ -826,7 +826,7 @@
 <td><p>荒木憲一</p></td>
 <td><p><a href="../Page/羽原信義.md" title="wikilink">はばらのぶよし</a></p></td>
 <td><p><a href="../Page/大塚健_(アニメーター).md" title="wikilink">大塚健</a><br />
-<a href="https://ja.wikipedia.org/wiki/千葉道徳" title="wikilink">千葉道徳</a></p></td>
+<a href="../Page/千葉道徳.md" title="wikilink">千葉道徳</a></p></td>
 <td><p><a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
 <td></td>
 </tr>

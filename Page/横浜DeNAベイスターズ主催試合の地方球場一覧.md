@@ -114,7 +114,7 @@
 
 ### 近畿
 
-  - [大阪球場](https://ja.wikipedia.org/wiki/大阪スタヂアム "wikilink")（1951,1953-1954）
+  - [大阪球場](../Page/大阪スタヂアム.md "wikilink")（1951,1953-1954）
   - [西京極球場](../Page/京都市西京極総合運動公園野球場.md "wikilink")（現：わかさスタジアム京都）（1953-1954）
   - [衣笠球場](../Page/衣笠球場.md "wikilink")（1950-1951）
   - [甲子園球場](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")（1950-1952）

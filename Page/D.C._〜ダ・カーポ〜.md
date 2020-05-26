@@ -62,7 +62,7 @@
 
 コンシューマー移植は2003年に『[D.C.P.S. 〜ダ・カーポ〜 プラスシチュエーション](../Page/D.C.P.S._〜ダ・カーポ〜_プラスシチュエーション.md "wikilink")』のタイトルで既に行われているが、2008年2月にはその追加要素を排除し、オリジナルにほぼ忠実な形での移植となる『D.C. the Origin 〜ダ・カーポ〜 ジ オリジン』が発売された。2010年[11月25日](../Page/11月25日.md "wikilink")にはゲームとアニメによるスピンオフ作品『T.P.さくら\[6\]』も発売された。
 
-2011年[9月6日](../Page/9月6日.md "wikilink")に開催された[ブシロード](../Page/ブシロード.md "wikilink")の『[ヴァイスシュヴァルツ](https://ja.wikipedia.org/wiki/ヴァイスシュヴァルツ "wikilink")』発表会にて、『[D.C.III 〜ダ・カーポIII〜](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")』の制作が進行中であると発表され\[7\]、同年[11月18日](../Page/11月18日.md "wikilink")に発売日が「[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")」と発表された。
+2011年[9月6日](../Page/9月6日.md "wikilink")に開催された[ブシロード](../Page/ブシロード.md "wikilink")の『[ヴァイスシュヴァルツ](../Page/ヴァイスシュヴァルツ.md "wikilink")』発表会にて、『[D.C.III 〜ダ・カーポIII〜](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")』の制作が進行中であると発表され\[7\]、同年[11月18日](../Page/11月18日.md "wikilink")に発売日が「[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")」と発表された。
 
 2016年4月28日に同じくCIRCUSから発売された『[D.S. -Dal Segno-](https://ja.wikipedia.org/wiki/D.S._-Dal_Segno- "wikilink")』は本シリーズと世界観を同一にしている。
 
@@ -779,7 +779,7 @@ ISBN 978-4-04-713777-6（通常版）</p></td>
 
 ## 関連ゲーム
 
-  - [ヴァイスシュヴァルツ](https://ja.wikipedia.org/wiki/ヴァイスシュヴァルツ "wikilink")
+  - [ヴァイスシュヴァルツ](../Page/ヴァイスシュヴァルツ.md "wikilink")
     [ブシロード](../Page/ブシロード.md "wikilink")発売されている[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")。「D.C.II 〜ダ・カーポII〜（シリーズ第2作目）」とセット。
   - [ai sp@ce](https://ja.wikipedia.org/wiki/ai_sp@ce "wikilink")
     [ドワンゴ](../Page/ドワンゴ.md "wikilink")が運営していた3D生活空間サービス。

@@ -45,7 +45,7 @@
 ## 主な出身プロ野球選手
 
   - [若松勉](../Page/若松勉.md "wikilink")（[外野手](../Page/外野手.md "wikilink")） - ドラフト3位で[ヤクルトアトムズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
-  - [村井英司](https://ja.wikipedia.org/wiki/村井英司 "wikilink")（[捕手](../Page/捕手.md "wikilink")） - ドラフト4位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
+  - [村井英司](../Page/村井英司.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - ドラフト4位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [三浦正行](../Page/三浦正行.md "wikilink")（捕手） - ドラフト6位で[大洋ホエールズから指名を受け](../Page/横浜DeNAベイスターズ.md "wikilink")、翌1975年シーズン終了後に入団
   - [鈴木貴久](../Page/鈴木貴久.md "wikilink")（外野手） - ドラフト5位で[近鉄バファローズに入団](../Page/大阪近鉄バファローズ.md "wikilink")
   - [島崎毅](../Page/島崎毅.md "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト4位で日本ハムファイターズに入団

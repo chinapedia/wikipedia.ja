@@ -9,7 +9,7 @@
 
 1992年に[ソニー・ミュージックエンタテインメントと契約するための目的で設立](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。（ソニーは個人との契約を受け付けなかったため）[1994年](../Page/1994年.md "wikilink")ごろからアーティストのマネージメント事業を開始する。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")ごろ、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の☆Taku Takahashiと浅川と出会い、Artimageのスタジオを使い音楽製作をはじめる。 [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[LISA](../Page/LISA_\(歌手\).md "wikilink")、☆Takuの3人からなるユニットm-floは成功。 その後、[SOUL'd OUTなどのアーティストのマネージメントも行うきっかけとなる](../Page/SOUL'd_OUT.md "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")ごろ、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の☆Taku Takahashiと浅川と出会い、Artimageのスタジオを使い音楽製作をはじめる。 [VERBAL](../Page/VERBAL.md "wikilink")、[LISA](../Page/LISA_\(歌手\).md "wikilink")、☆Takuの3人からなるユニットm-floは成功。 その後、[SOUL'd OUTなどのアーティストのマネージメントも行うきっかけとなる](../Page/SOUL'd_OUT.md "wikilink")。
 
 2006年まで、毎年所属アーティストによるライブイベント "ARTIMAGE NIGHT" を開催していた。
 

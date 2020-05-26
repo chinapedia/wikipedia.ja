@@ -1051,7 +1051,7 @@
 ## 外部出演
 
   - **GEAR戦士電童**
-  - [SUNRISE WORLDWAR from サンライズ英雄譚](https://ja.wikipedia.org/wiki/サンライズ英雄譚 "wikilink")
+  - [SUNRISE WORLDWAR from サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")
   - [スーパーロボット大戦R](../Page/スーパーロボット大戦R.md "wikilink")
   - [スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")
 

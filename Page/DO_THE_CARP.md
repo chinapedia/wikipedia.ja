@@ -110,7 +110,7 @@ DJ
 
   - [齊藤悠葵](../Page/齊藤悠葵.md "wikilink")投手 - 11月17日、予定されていた[篠田純平](../Page/篠田純平.md "wikilink")投手に代わり再び番組に出演した。また、同日は新球場のアピールをするため、沖縄県のラジオ[FM沖縄](https://ja.wikipedia.org/wiki/FM沖縄 "wikilink")にて放送される[Radio dubに出演していた](https://ja.wikipedia.org/wiki/Radio_dub "wikilink")[栗原健太](https://ja.wikipedia.org/wiki/栗原健太 "wikilink")内野手も同時中継で番組内に登場した。
   - [篠田純平](../Page/篠田純平.md "wikilink")投手 - 12月15日、満を持して出演した。ニュース原稿の読み上げなどを行った。
-  - [小窪哲也](https://ja.wikipedia.org/wiki/小窪哲也 "wikilink")内野手 - 1月1日の特番に於いて[前田健太](https://ja.wikipedia.org/wiki/前田健太 "wikilink")と共に[PLコンビとして出演した](../Page/PL学園中学校・高等学校.md "wikilink")。この特番は年始ということもあり収録であった。
+  - [小窪哲也](../Page/小窪哲也.md "wikilink")内野手 - 1月1日の特番に於いて[前田健太](https://ja.wikipedia.org/wiki/前田健太 "wikilink")と共に[PLコンビとして出演した](../Page/PL学園中学校・高等学校.md "wikilink")。この特番は年始ということもあり収録であった。
   - [田辺一球](https://ja.wikipedia.org/wiki/田辺一球 "wikilink") - 1月5日出演。
   - [梅津智弘](../Page/梅津智弘.md "wikilink")投手 - 1月26日出演。
   - [松藤好典](../Page/松藤好典.md "wikilink")アナウンサー - 2月16日出演。

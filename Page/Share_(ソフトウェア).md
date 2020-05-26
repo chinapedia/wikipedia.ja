@@ -1,7 +1,7 @@
 > この記事は[Share \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Share_\(ソフトウェア\))から翻訳されています。
 
 
-**Share**（シェア しゃれ、洒落）とは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")2000/XP/Vista/7上で動作する[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")である。
+**Share**（シェア しゃれ、洒落）とは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")2000/XP/Vista/7上で動作する[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")である。
 
 ## 概要
 
@@ -459,7 +459,7 @@ Shareの仕組み上、ダウンロードしたファイルが不特定あてに
   - [Windows Messenger](../Page/Windows_Messenger.md "wikilink")
   - [Winny](../Page/Winny.md "wikilink")
   - [eMule](https://ja.wikipedia.org/wiki/eMule "wikilink")
-  - [ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")
+  - [ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")
 
 ## 出典
 

@@ -244,7 +244,7 @@
 
 #### テレビドラマ
 
-  - [プロポーズ大作戦 〜Mission to Love](https://ja.wikipedia.org/wiki/プロポーズ大作戦_\(テレビドラマ\)#韓国版ドラマ "wikilink")（2012年、**カン・ベコ**〈[ユ・スンホ](https://ja.wikipedia.org/wiki/ユ・スンホ "wikilink")〉）
+  - [プロポーズ大作戦 〜Mission to Love](https://ja.wikipedia.org/wiki/プロポーズ大作戦_\(テレビドラマ\)#韓国版ドラマ "wikilink")（2012年、**カン・ベコ**〈[ユ・スンホ](../Page/ユ・スンホ.md "wikilink")〉）
   - [glee/グリー シーズン5](https://ja.wikipedia.org/wiki/glee/グリー "wikilink")（2014年、エリオット・ギルバート〈[アダム・ランバート](https://ja.wikipedia.org/wiki/アダム・ランバート "wikilink")〉）
   - [シリコンバレー](https://ja.wikipedia.org/wiki/シリコンバレー_\(テレビドラマ\) "wikilink")（2017年、ロン・ラフレーメ〈[ベン・フェルドマン](https://ja.wikipedia.org/wiki/ベン・フェルドマン "wikilink")〉）
   - [ヒューマンズ](https://ja.wikipedia.org/wiki/ヒューマンズ "wikilink")（2017年、**レオ**〈[コリン・モーガン](https://ja.wikipedia.org/wiki/コリン・モーガン "wikilink")〉）

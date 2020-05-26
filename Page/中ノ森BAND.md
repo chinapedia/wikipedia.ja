@@ -187,7 +187,7 @@
   - [小松一也](../Page/小松一也.md "wikilink")
   - [島崎貴光](https://ja.wikipedia.org/wiki/島崎貴光 "wikilink")
   - [田辺恵二](https://ja.wikipedia.org/wiki/田辺恵二 "wikilink")
-  - [冨沢ノボル](https://ja.wikipedia.org/wiki/冨沢ノボル "wikilink")
+  - [冨沢ノボル](../Page/冨沢ノボル.md "wikilink")
   - [葉山拓亮](../Page/葉山拓亮.md "wikilink")
   - [平川達也](../Page/平川達也.md "wikilink")
 

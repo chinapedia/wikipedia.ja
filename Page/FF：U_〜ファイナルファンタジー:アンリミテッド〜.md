@@ -366,7 +366,7 @@
 
 ### オープニングテーマ
 
-  - 「[Over the FANTASY](https://ja.wikipedia.org/wiki/Over_the_FANTASY "wikilink")」（1話 - 24話） <span style="font-weight:normal">（25話はオープニングなし）</span>
+  - 「[Over the FANTASY](../Page/Over_the_FANTASY.md "wikilink")」（1話 - 24話） <span style="font-weight:normal">（25話はオープニングなし）</span>
     作詞 - 海老根祐子\[11\] / 作曲 - [植松伸夫](../Page/植松伸夫.md "wikilink") / 編曲 - [安藤高弘](https://ja.wikipedia.org/wiki/安藤高弘 "wikilink") / 歌 - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
     14話では挿入歌として使用され、25話ではエンディングテーマとして使用された。
 

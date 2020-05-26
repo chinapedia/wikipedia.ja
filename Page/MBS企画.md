@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - 東京都港区赤坂5-3-1 [赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")28階
+  - 東京都港区赤坂5-3-1 [赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")28階
 
 ## 取引先
 

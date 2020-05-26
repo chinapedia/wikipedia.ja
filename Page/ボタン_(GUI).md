@@ -1,7 +1,7 @@
 > この記事は[ボタン \(GUI\)](https://ja.wikipedia.org/wiki/ボタン_\(GUI\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Buttons2.gif "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Option-buttons2.gif "wikilink") [GUIの](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")**ボタン**は、現実世界における[押しボタン](https://ja.wikipedia.org/wiki/押しボタン "wikilink")と同様に「押す」ことで何かの操作を行なう為のコンピュータ画面上の表現である。一般には物理的なボタンを模した立体感のある形状が多いが（[ウィジェット](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")）、中には単なる[アイコン](../Page/アイコン.md "wikilink")表現がボタンの役割を果たす場合もあり、このような物も機能分類に従い通常ボタンと呼称する。「コマンドボタン」と呼ばれることもある。
+[thumb](https://ja.wikipedia.org/wiki/画像:Buttons2.gif "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Option-buttons2.gif "wikilink") [GUIの](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")**ボタン**は、現実世界における[押しボタン](https://ja.wikipedia.org/wiki/押しボタン "wikilink")と同様に「押す」ことで何かの操作を行なう為のコンピュータ画面上の表現である。一般には物理的なボタンを模した立体感のある形状が多いが（[ウィジェット](../Page/ウィジェット_\(GUI\).md "wikilink")）、中には単なる[アイコン](../Page/アイコン.md "wikilink")表現がボタンの役割を果たす場合もあり、このような物も機能分類に従い通常ボタンと呼称する。「コマンドボタン」と呼ばれることもある。
 
 ## 概要
 
@@ -9,11 +9,11 @@
 
   - [OSごと](../Page/オペレーティングシステム.md "wikilink")、[スキンごとに](../Page/スキン_\(GUI\).md "wikilink")[調和](https://ja.wikipedia.org/wiki/調和 "wikilink")のとれたデザインを持つ
   - 固定配置であり、[ドラッグ操作で移動できない](../Page/ドラッグ・アンド・ドロップ.md "wikilink")
-  - 単一[クリックあるいはタップで動作する](https://ja.wikipedia.org/wiki/ポイント・アンド・クリック "wikilink")
+  - 単一[クリックあるいはタップで動作する](../Page/ポイント・アンド・クリック.md "wikilink")
 
 などを基本とする。
 
-物理的スイッチと異なり、GUIボタンの動作はその上でマウスボタンを押した時ではなく、離した時に判定される。これは誤って[クリックしたボタンを動作させないようマウスカーソルを判定範囲から外してからリリースできるようにするための処置である](https://ja.wikipedia.org/wiki/ポイント・アンド・クリック "wikilink")。ボタンにキーボードフォーカスが設定されている場合は[キーボードの](../Page/キーボード_\(コンピュータ\).md "wikilink")[リターンキー](https://ja.wikipedia.org/wiki/リターンキー "wikilink")（[エンターキー](https://ja.wikipedia.org/wiki/エンターキー "wikilink")）や[スペースキー](https://ja.wikipedia.org/wiki/スペースキー "wikilink")などでクリック動作を代替できる。ボタンにフォーカスが設定されていない場合でもエンターキーによって押下されるボタンは「デフォルトボタン」（既定のボタン）と呼ばれる\[1\]\[2\]。
+物理的スイッチと異なり、GUIボタンの動作はその上でマウスボタンを押した時ではなく、離した時に判定される。これは誤って[クリックしたボタンを動作させないようマウスカーソルを判定範囲から外してからリリースできるようにするための処置である](../Page/ポイント・アンド・クリック.md "wikilink")。ボタンにキーボードフォーカスが設定されている場合は[キーボードの](../Page/キーボード_\(コンピュータ\).md "wikilink")[リターンキー](https://ja.wikipedia.org/wiki/リターンキー "wikilink")（[エンターキー](https://ja.wikipedia.org/wiki/エンターキー "wikilink")）や[スペースキー](https://ja.wikipedia.org/wiki/スペースキー "wikilink")などでクリック動作を代替できる。ボタンにフォーカスが設定されていない場合でもエンターキーによって押下されるボタンは「デフォルトボタン」（既定のボタン）と呼ばれる\[1\]\[2\]。
 
 ## ボタンの種類
 

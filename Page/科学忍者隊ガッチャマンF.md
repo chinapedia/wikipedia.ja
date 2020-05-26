@@ -447,7 +447,7 @@
 <td><p>26</p></td>
 <td><p>3月30日</p></td>
 <td><p>G1号怒りの新殺法</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p>岡崎邦彦<br />
 高垣幸蔵</p></td>
 <td></td>

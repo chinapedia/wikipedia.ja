@@ -83,7 +83,7 @@
 <td><p>15</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/根室中継局" title="wikilink">根室</a></p></td>
+<td><p><a href="../Page/根室中継局.md" title="wikilink">根室</a></p></td>
 <td><p>33</p></td>
 <td><p>29</p></td>
 </tr>
@@ -93,12 +93,12 @@
 <td><p>15</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/羅臼中継局" title="wikilink">羅臼</a></p></td>
+<td><p><a href="../Page/羅臼中継局.md" title="wikilink">羅臼</a></p></td>
 <td><p>33</p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/阿寒湖畔中継局" title="wikilink">阿寒湖畔</a></p></td>
+<td><p><a href="../Page/阿寒湖畔中継局.md" title="wikilink">阿寒湖畔</a></p></td>
 <td><p>52</p></td>
 <td><p>50</p></td>
 </tr>
@@ -113,7 +113,7 @@
 <td><p>13</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/根室中継局" title="wikilink">根室花咲</a></p></td>
+<td><p><a href="../Page/根室中継局.md" title="wikilink">根室花咲</a></p></td>
 <td><p>16</p></td>
 <td><p>14</p></td>
 </tr>
@@ -128,7 +128,7 @@
 <td><p>41</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/羅臼中継局" title="wikilink">羅臼緑町</a></p></td>
+<td><p><a href="../Page/羅臼中継局.md" title="wikilink">羅臼緑町</a></p></td>
 <td><p>16</p></td>
 <td><p>14</p></td>
 </tr>

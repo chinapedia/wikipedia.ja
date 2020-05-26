@@ -66,7 +66,7 @@
 
 <div style="float:left; vertical-align:top; margin-right:1em">
 
-  - [竜王](https://ja.wikipedia.org/wiki/竜王_\(ドラゴンクエスト\) "wikilink")：[加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
+  - [竜王](../Page/竜王_\(ドラゴンクエスト\).md "wikilink")：[加藤精三](../Page/加藤精三_\(声優\).md "wikilink")
   - 影の騎士：[若本規夫](../Page/若本規夫.md "wikilink")
   - 悪魔の騎士：[郷里大輔](../Page/郷里大輔.md "wikilink")
   - 大魔道：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")

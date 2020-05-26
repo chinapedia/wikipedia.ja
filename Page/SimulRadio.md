@@ -41,7 +41,7 @@
       - [4月1日](../Page/4月1日.md "wikilink") - 「SimulRadio」として、実証実験を開始。「[三角山放送局](../Page/らむれす.md "wikilink")」・「FMいるか」・「[フラワーラジオ](../Page/フラワーコミュニティ放送.md "wikilink")」・「湘南ビーチFM」が配信開始。
       - 4月 - 「FMいるか」が配信を停止。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）4月1日 - 現在の形式で正式運用を開始。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 全国のコミュニティFM局19局で「**Community SimulRadio Alliance**（CSRA、コミュニティ・サイマルラジオ・アライアンス）」を発足させる。代表は湘南ビーチFM代表の[木村太郎](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink")。同日サイトをリニューアル。これ以降配信局が順次追加される。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](../Page/6月2日.md "wikilink") - 全国のコミュニティFM局19局で「**Community SimulRadio Alliance**（CSRA、コミュニティ・サイマルラジオ・アライアンス）」を発足させる。代表は湘南ビーチFM代表の[木村太郎](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink")。同日サイトをリニューアル。これ以降配信局が順次追加される。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）4月1日 - 現在のサイトにリニューアル。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[3月24日](../Page/3月24日.md "wikilink") - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")・[iPod touch用アプリ](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")「コミュニティFM for iPhone（i-コミュラジ）」発売開始。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[8月30日](../Page/8月30日.md "wikilink") - [調布エフエム放送](../Page/調布エフエム放送.md "wikilink")の発表によると、この日の15時をもってサイマルラジオのサイト閉鎖がされると告知がなされ\[3\]、各放送局が代替の配信方法\[4\]を案内するなど対応に追われたが、同日中に閉鎖は回避された\[5\]。
@@ -709,7 +709,7 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/京都FM丹波放送" title="wikilink">FM丹波</a>★</p></td>
+<td><p><a href="../Page/京都FM丹波放送.md" title="wikilink">FM丹波</a>★</p></td>
 <td><p>京都府<a href="../Page/福知山市.md" title="wikilink">福知山市</a></p></td>
 <td><p><span style="display:none">20080715</span>2008年7月15日</p></td>
 <td><p>○</p></td>
@@ -862,7 +862,7 @@ FMドラマシティ</a>★</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/エフエムサン.md" title="wikilink">FM SUN</a></p></td>
-<td><p>香川県<a href="https://ja.wikipedia.org/wiki/坂出市" title="wikilink">坂出市</a></p></td>
+<td><p>香川県<a href="../Page/坂出市.md" title="wikilink">坂出市</a></p></td>
 <td><p><span style="display:none">20140818</span>2014年8月18日</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>

@@ -9,7 +9,7 @@
 
 電気機器製造会社の[TDK](../Page/TDK.md "wikilink")が、[秋田県](../Page/秋田県.md "wikilink")[仁賀保町](../Page/仁賀保町.md "wikilink")で活動する[TDK硬式野球部](../Page/TDK硬式野球部.md "wikilink")に続く第2のチームとして、に[長野県](../Page/長野県.md "wikilink")[佐久市](../Page/佐久市.md "wikilink")の千曲川工場を本拠地とし『**TDK千曲川硬式野球部**』として創部。
 
-に[日本選手権に初出場を果たすと](https://ja.wikipedia.org/wiki/第26回社会人野球日本選手権大会 "wikilink")、[21世紀](../Page/21世紀.md "wikilink")に入ってからは全国大会の出場回数が増え、には[都市対抗野球に初出場した](../Page/第76回都市対抗野球大会.md "wikilink")。さらに、の[都市対抗野球では本社チームとダブル出場を果たした](https://ja.wikipedia.org/wiki/第79回都市対抗野球大会 "wikilink")。
+に[日本選手権に初出場を果たすと](https://ja.wikipedia.org/wiki/第26回社会人野球日本選手権大会 "wikilink")、[21世紀](../Page/21世紀.md "wikilink")に入ってからは全国大会の出場回数が増え、には[都市対抗野球に初出場した](../Page/第76回都市対抗野球大会.md "wikilink")。さらに、の[都市対抗野球では本社チームとダブル出場を果たした](../Page/第79回都市対抗野球大会.md "wikilink")。
 
 しかし、世界的な不況を受け、シーズン開幕前の[2月20日](../Page/2月20日.md "wikilink")で廃部し本社チームと統合することが発表された。記者発表から1週間での廃部は異例の早さである。所属選手は、ほぼ全員がTDK野球部あるいは地元の[クラブチームの](../Page/クラブチーム_\(社会人野球\).md "wikilink")[佐久コスモスターズ硬式野球クラブ](../Page/佐久コスモスターズ硬式野球クラブ.md "wikilink")へと移籍した。
 
@@ -17,7 +17,7 @@
 
   - [1982年](../Page/1982年.md "wikilink") - 『**TDK千曲川**』として創部。
   - [1999年](../Page/1999年.md "wikilink") - [日本選手権に初出場](https://ja.wikipedia.org/wiki/第26回社会人野球日本選手権大会 "wikilink")（初戦敗退）。
-  - [2005年](../Page/2005年.md "wikilink") - [都市対抗野球に初出場](https://ja.wikipedia.org/wiki/第79回都市対抗野球大会 "wikilink")（初戦敗退）。
+  - [2005年](../Page/2005年.md "wikilink") - [都市対抗野球に初出場](../Page/第79回都市対抗野球大会.md "wikilink")（初戦敗退）。
   - [2009年](../Page/2009年.md "wikilink") - 解散。[TDKと統合](../Page/TDK硬式野球部.md "wikilink")。
 
 ## 主要大会の出場歴・最高成績

@@ -219,7 +219,7 @@
   - 原作 - 黒乃奈々絵
   - 監督 - [平田智浩](https://ja.wikipedia.org/wiki/平田智浩 "wikilink")
   - シリーズ構成 - [長谷川菜穂子](../Page/長谷川菜穂子.md "wikilink")
-  - キャラクターデザイン - [林明美](https://ja.wikipedia.org/wiki/林明美 "wikilink")
+  - キャラクターデザイン - [林明美](../Page/林明美.md "wikilink")
   - プロップデザイン - 細越裕治
   - 美術監督 - 佐藤正浩
   - 色彩設計 - 内林裕美
@@ -260,7 +260,7 @@
 <td><p>桜</p></td>
 <td><p><a href="../Page/長谷川菜穂子.md" title="wikilink">長谷川菜穂子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平田智浩" title="wikilink">平田智浩</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林明美" title="wikilink">林明美</a></p></td>
+<td><p><a href="../Page/林明美.md" title="wikilink">林明美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -546,7 +546,7 @@
 ### 主題歌（テレビドラマ）
 
   - 主題歌 - [+Plus](https://ja.wikipedia.org/wiki/+Plus "wikilink")「声」（ポニーキャニオン）
-  - オープニングテーマ - [D](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink")「風がめぐる頁」（[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")）
+  - オープニングテーマ - [D](../Page/D_\(バンド\).md "wikilink")「風がめぐる頁」（[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")）
   - 挿入歌 - [工藤慎太郎](../Page/工藤慎太郎.md "wikilink")「涙ひとつぶ」（[コロムビアミュージックエンタテインメント](../Page/日本コロムビア.md "wikilink")）
 
 ### 各話リスト（テレビドラマ）
@@ -852,7 +852,7 @@
 
   - 脚本 - [吉谷光太郎](https://ja.wikipedia.org/wiki/吉谷光太郎 "wikilink")
   - 演出 - [大塚雅史](https://ja.wikipedia.org/wiki/大塚雅史 "wikilink")
-  - 主催 - [ブルーシャトル](https://ja.wikipedia.org/wiki/ブルーシャトル "wikilink")
+  - 主催 - [ブルーシャトル](../Page/ブルーシャトル.md "wikilink")
 
 ### 『新撰組異聞PEACE MAKER』（FREE(S)主催）
 
@@ -902,7 +902,7 @@
 
   - 市村鉄之助 - [吉村卓也](https://ja.wikipedia.org/wiki/吉村卓也 "wikilink")　
   - 土方歳三 - [兼崎健太郎](../Page/兼崎健太郎.md "wikilink")　
-  - 沖田総司 - [浜尾京介](https://ja.wikipedia.org/wiki/浜尾京介 "wikilink")
+  - 沖田総司 - [浜尾京介](../Page/浜尾京介.md "wikilink")
   - 市村辰之助 - [滝口幸広](../Page/滝口幸広.md "wikilink")
   - 山崎烝 - [小川直](https://ja.wikipedia.org/wiki/小川直 "wikilink")
   - 山崎歩 - [七海エリ](https://ja.wikipedia.org/wiki/七海エリー "wikilink")
@@ -942,7 +942,7 @@
 
   - 市村鉄之助 - [聖也](https://ja.wikipedia.org/wiki/元木聖也 "wikilink")
   - 土方歳三 - [兼崎健太郎](../Page/兼崎健太郎.md "wikilink")
-  - 沖田総司 - [浜尾京介](https://ja.wikipedia.org/wiki/浜尾京介 "wikilink")
+  - 沖田総司 - [浜尾京介](../Page/浜尾京介.md "wikilink")
   - 市村辰之助 - [伊勢大貴](https://ja.wikipedia.org/wiki/伊勢大貴 "wikilink")
   - 沙夜 - [仲川遥香](../Page/仲川遥香.md "wikilink")（[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")・[渡り廊下走り隊](https://ja.wikipedia.org/wiki/渡り廊下走り隊 "wikilink")）
   - 近藤勇 - [鬼束道歩](https://ja.wikipedia.org/wiki/鬼束道歩 "wikilink")
@@ -1024,7 +1024,7 @@
 **ドラマ・舞台関連**
 
   - [新選組PEACE MAKER](http://www.mbs.jp/peacemaker/) - テレビドラマ版[毎日放送](../Page/毎日放送.md "wikilink")番宣サイト
-  - [Blue Shuttle Presents 『新撰組異聞PEACE MAKER』](http://blog.livedoor.jp/bluepeacemaker/archives/50598311.html) - 2007年舞台版を主催した[ブルーシャトル](https://ja.wikipedia.org/wiki/ブルーシャトル "wikilink")による公演情報。
+  - [Blue Shuttle Presents 『新撰組異聞PEACE MAKER』](http://blog.livedoor.jp/bluepeacemaker/archives/50598311.html) - 2007年舞台版を主催した[ブルーシャトル](../Page/ブルーシャトル.md "wikilink")による公演情報。
   - [新撰組異聞PEACE MAKER](http://free-es.net/works/stage/2009/peacemaker.html) - 2009年舞台版を主催したFREE(S)による舞台情報。
   - [Knocturn 舞台公演情報](http://ameblo.jp/knocturn/) - 2011年・2012年舞台版を主催した[Knocturn](https://ja.wikipedia.org/wiki/Knocturn "wikilink")による舞台情報。
   - [新選組異聞PEACE MAKER 再炎](http://knocturn.com/peacemaker/)（） - 2012年舞台版公式サイト。

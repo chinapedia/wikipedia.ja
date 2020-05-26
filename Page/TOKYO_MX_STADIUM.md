@@ -227,7 +227,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [河路直樹](../Page/河路直樹.md "wikilink")
   - [加藤暁](../Page/加藤暁.md "wikilink")
   - [渡邊哲夫](../Page/渡邊哲夫.md "wikilink")
-  - [廣瀬隼也](https://ja.wikipedia.org/wiki/廣瀬隼也 "wikilink")
+  - [廣瀬隼也](../Page/廣瀬隼也.md "wikilink")
 
 ### 高校野球の出演者
 
@@ -269,7 +269,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [堂前英男](../Page/堂前英男.md "wikilink")（2009年まで）
   - [滝沢雄一](../Page/滝沢雄一.md "wikilink")（2009・2010年）
   - [平方恭子](../Page/平方恭子.md "wikilink")（2010年）
-  - [廣瀬隼也](https://ja.wikipedia.org/wiki/廣瀬隼也 "wikilink")（2011・2012年）
+  - [廣瀬隼也](../Page/廣瀬隼也.md "wikilink")（2011・2012年）
   - [山本義幸](../Page/山本義幸.md "wikilink")（2013年）
   - [牛嶋俊明](../Page/牛嶋俊明.md "wikilink")
 

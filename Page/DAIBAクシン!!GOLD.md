@@ -91,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大瀧彩乃.md" title="wikilink">大瀧彩乃</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/WILD_RUSH" title="wikilink">WILD RUSH</a>」のコスプレ</p></td>
+<td><p>「<a href="../Page/WILD_RUSH.md" title="wikilink">WILD RUSH</a>」のコスプレ</p></td>
 <td></td>
 <td></td>
 </tr>

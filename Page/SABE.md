@@ -1,7 +1,7 @@
 > この記事は[SABE](https://ja.wikipedia.org/wiki/SABE)から翻訳されています。
 
 
-**SABE**（さべ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月23日](../Page/3月23日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。男性。
+**SABE**（さべ、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[3月23日](../Page/3月23日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。男性。
 
 ## 来歴
 

@@ -36,7 +36,7 @@
 | 11 | 2012年6月23日(土)  | [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")                                  |                                                                                                                                                                            |
 | 12 | 2013年6月22日(土)  | [金子ノブアキ](../Page/金子ノブアキ.md "wikilink")・[前田敦子](https://ja.wikipedia.org/wiki/前田敦子 "wikilink") |                                                                                                                                                                            |
 | 13 | 2014年6月14日(土)  | [舞浜アンフィシアター](https://ja.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")                            | [道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")・[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") |
-| 14 | 2015年11月26日(木) | 都内某所                                                                                         | [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")                                                                                                                  |
+| 14 | 2015年11月26日(木) | 都内某所                                                                                         | [VERBAL](../Page/VERBAL.md "wikilink")                                                                                                                                     |
 | 15 | 2016年10月26日(水) | [STUDIO COAST](../Page/STUDIO_COAST.md "wikilink")                                           | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                                                                                                                               |
 | 16 | 2017年9月27日(水)  | [鮎貝健](../Page/鮎貝健.md "wikilink") & [JOANN](https://ja.wikipedia.org/wiki/JOANN "wikilink")   |                                                                                                                                                                            |
 | 17 | 2018年10月10日(水) |                                                                                              |                                                                                                                                                                            |
@@ -258,7 +258,7 @@
 | 4  | 2005年 | [フーバスタンク](https://ja.wikipedia.org/wiki/フーバスタンク "wikilink")                 | [ザ・リーズン](https://ja.wikipedia.org/wiki/ザ・リーズン "wikilink")                             |
 | 5  | 2006年 | [グリーン・デイ](../Page/グリーン・デイ.md "wikilink")                                    | Boulevard of Broken Dreams                                                            |
 | 6  | 2007年 | [マイ・ケミカル・ロマンス](../Page/マイ・ケミカル・ロマンス.md "wikilink")                          | [ウェルカム・トゥ・ザ・ブラック・パレード](https://ja.wikipedia.org/wiki/ウェルカム・トゥ・ザ・ブラック・パレード "wikilink") |
-| 7  | 2008年 | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")               | [オーダーメイド](https://ja.wikipedia.org/wiki/オーダーメイド_\(曲\) "wikilink")                     |
+| 7  | 2008年 | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")               | [オーダーメイド](../Page/オーダーメイド_\(曲\).md "wikilink")                                        |
 | 8  | 2009年 | [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")       | [爪爪爪](https://ja.wikipedia.org/wiki/爪爪爪 "wikilink")                                   |
 | 9  | 2010年 | [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")               | [Dancing On The Fire](https://ja.wikipedia.org/wiki/Dancing_On_The_Fire "wikilink")   |
 | 10 | 2011年 | [トキオ・ホテル](../Page/トキオ・ホテル.md "wikilink")                                    | Darkside of the Sun                                                                   |
@@ -445,7 +445,7 @@
 | 4  | 2005年 | ORANGE RANGE                                                        | [musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")                                  |
 | 5  | 2006年 | [ИATURAL](../Page/ИATURAL.md "wikilink")                            |                                                                                          |
 | 6  | 2007年 | [ダニエル・パウター](../Page/ダニエル・パウター.md "wikilink")                        | [ダニエル・パウター](../Page/ダニエル・パウター_\(アルバム\).md "wikilink")                                    |
-| 7  | 2008年 | EXILE                                                               | [EXILE LOVE](https://ja.wikipedia.org/wiki/EXILE_LOVE "wikilink")                        |
+| 7  | 2008年 | EXILE                                                               | [EXILE LOVE](../Page/EXILE_LOVE.md "wikilink")                                           |
 | 8  | 2009年 | [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") | [SUPERMARKET FANTASY](https://ja.wikipedia.org/wiki/SUPERMARKET_FANTASY "wikilink")      |
 | 9  | 2010年 | EXILE                                                               | [愛すべき未来へ](https://ja.wikipedia.org/wiki/愛すべき未来へ "wikilink")                              |
 | 10 | 2011年 | 西野カナ                                                                | [to LOVE](https://ja.wikipedia.org/wiki/to_LOVE "wikilink")                              |

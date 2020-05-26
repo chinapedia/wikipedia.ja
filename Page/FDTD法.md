@@ -7,7 +7,7 @@
 
 ### Yeeアルゴリズム
 
-[マクスウェルの方程式](../Page/マクスウェルの方程式.md "wikilink")を直接、空間・[時間領域](https://ja.wikipedia.org/wiki/時間領域 "wikilink")での差分方程式に展開して逐次計算をすることで、[電場](../Page/電場.md "wikilink")・[磁場](../Page/磁場.md "wikilink")の値を数値的に得る。ここで言うマクスウェルの方程式とは
+[マクスウェルの方程式](../Page/マクスウェルの方程式.md "wikilink")を直接、空間・[時間領域](../Page/時間領域.md "wikilink")での差分方程式に展開して逐次計算をすることで、[電場](../Page/電場.md "wikilink")・[磁場](../Page/磁場.md "wikilink")の値を数値的に得る。ここで言うマクスウェルの方程式とは
 
 \[\nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\]・・・(1)
 

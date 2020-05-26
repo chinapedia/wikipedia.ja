@@ -487,7 +487,7 @@
   - Brand-New Myself ～僕にできること - 大塚ベバレジ「MATCH」CMソング
   - Happy hungry days - （アルバム『MADE IN Hi-High』収録） [ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")「夏のチキン・キャンペーン」CM曲
   - やさしさライセンス - 大塚ベバレジ「MATCH」CMソング
-  - BY MY SIDE - 映画「[略奪者](https://ja.wikipedia.org/wiki/略奪者 "wikilink")」イメージソング
+  - BY MY SIDE - 映画「[略奪者](../Page/略奪者.md "wikilink")」イメージソング
   - 虹 - TBS系「[Pooh\!](../Page/Pooh!.md "wikilink")」エンディングテーマ
   - 一人じゃとても歩けない世界の上で - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「女優魂」エンディングテーマ
   - I'm looking for my place - （オムニバスアルバム『Gimme MUSIC』に「I'm looking for my place -2000-」として収録） 映画「BOM\!」主題歌

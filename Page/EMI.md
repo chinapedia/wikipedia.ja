@@ -137,7 +137,7 @@
 
   - [クリフ・リチャード](../Page/クリフ・リチャード.md "wikilink")
   - [ビートルズ](../Page/ビートルズ.md "wikilink")
-  - [ホリーズ](https://ja.wikipedia.org/wiki/ホリーズ "wikilink")
+  - [ホリーズ](../Page/ホリーズ.md "wikilink")
   - [アニマルズ](../Page/アニマルズ.md "wikilink")
   - [ピンク・フロイド](../Page/ピンク・フロイド.md "wikilink")
   - [ディープ・パープル](../Page/ディープ・パープル.md "wikilink")

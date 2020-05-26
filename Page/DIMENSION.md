@@ -83,7 +83,7 @@
 
 ## レコーディング参加(全員参加)
 
-  - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「Over The Rainbow（カバー曲、アルバム「[ONE LIFE](https://ja.wikipedia.org/wiki/ONE_LIFE_\(倉木麻衣のアルバム\) "wikilink")」収録曲）」
+  - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「Over The Rainbow（カバー曲、アルバム「[ONE LIFE](../Page/ONE_LIFE_\(倉木麻衣のアルバム\).md "wikilink")」収録曲）」
   - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")「[会わなくてもI Love You](../Page/会わなくてもI_Love_You.md "wikilink")」「ONE MORE TIME」「Back To The Summer」「寂しさは秋の色（原曲：[WANDS](../Page/WANDS.md "wikilink")）」「いつでも君を見つめている」「DO WHAT I SEE」「Words」
   - [Riding](../Page/Riding.md "wikilink")「First Riding」「Feelin' High」
   - [DEEN](../Page/DEEN.md "wikilink")「[雨の六本木](https://ja.wikipedia.org/wiki/二十歳/雨の六本木 "wikilink")」

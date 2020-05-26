@@ -18,7 +18,7 @@
       - [2月15日](../Page/2月15日.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部に上場
       - [11月27日](../Page/11月27日.md "wikilink") - 大阪証券取引所市場第一部に上場
   - [2003年](../Page/2003年.md "wikilink")
-      - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - イー・トレード株式会社を吸収合併
+      - [6月2日](../Page/6月2日.md "wikilink") - イー・トレード株式会社を吸収合併
   - [2004年](../Page/2004年.md "wikilink")
       - [3月16日](../Page/3月16日.md "wikilink") - 株式会社エスビーアイ不動産を吸収合併
   - [2005年](../Page/2005年.md "wikilink")

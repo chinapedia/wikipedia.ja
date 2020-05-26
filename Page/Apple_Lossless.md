@@ -13,7 +13,7 @@
 
 [仕様](../Page/仕様.md "wikilink")が非公開であった頃、[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")によって[オープンソース](../Page/オープンソース.md "wikilink")のApple ロスレスデコーダが公開され、[FFmpeg](../Page/FFmpeg.md "wikilink")はエンコーダの実装にも成功している。
 
-2011年10月、アップルはApple ロスレスをオープンソース化し\[3\]、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink") 2.0の下で[ソースコード](../Page/ソースコード.md "wikilink")を公開した。
+2011年10月、アップルはApple ロスレスをオープンソース化し\[3\]、[Apache License](../Page/Apache_License.md "wikilink") 2.0の下で[ソースコード](../Page/ソースコード.md "wikilink")を公開した。
 
 ## 関連項目
 

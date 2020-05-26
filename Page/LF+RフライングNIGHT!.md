@@ -17,7 +17,7 @@
 
 番組の中期には毎週木曜に[八反安未果](https://ja.wikipedia.org/wiki/八反安未果 "wikilink")がレギュラーとなったり、[LF+R](../Page/LF+R.md "wikilink")の[パーソナリティがスタジオに乱入するなど](../Page/ラジオパーソナリティ.md "wikilink")、各[LF+R](../Page/LF+R.md "wikilink")の中核的存在として荘口共々扱われることが多くなった。
 
-番組末期の[2002年](../Page/2002年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")から[3月4日](../Page/3月4日.md "wikilink")まで[首都圏の](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[サンクスにおいて](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")、番組による『お台場食堂パン』を発売した。
+番組末期の[2002年](../Page/2002年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")から[3月4日](../Page/3月4日.md "wikilink")まで[首都圏の](../Page/首都圏_\(日本\).md "wikilink")[サンクスにおいて](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")、番組による『お台場食堂パン』を発売した。
 
 ## 箱番組
 

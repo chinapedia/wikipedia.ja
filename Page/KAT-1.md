@@ -38,7 +38,7 @@
 
   - [KAL-1](../Page/KAL-1.md "wikilink")
   - [KAL-2](../Page/KAL-2.md "wikilink")
-  - [TT-10](https://ja.wikipedia.org/wiki/TT-10 "wikilink")
+  - [TT-10](../Page/TT-10.md "wikilink")
   - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
 
 [de:Kawasaki KAT-1](https://ja.wikipedia.org/wiki/de:Kawasaki_KAT-1 "wikilink") [en:Kawasaki KAT-1](https://ja.wikipedia.org/wiki/en:Kawasaki_KAT-1 "wikilink")

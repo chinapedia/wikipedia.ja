@@ -15,7 +15,7 @@
 
 ビジネス情報誌「[日経ビジネス](../Page/日経ビジネス.md "wikilink")」を始め、ビジネス・IT・医療・電子・機械・土木・建築・サービスなど、あらゆる分野の情報誌を、出版取次や書店を通さない読者直販誌で発行する他、「[日経ビジネスアソシエ](https://ja.wikipedia.org/wiki/日経ビジネスアソシエ "wikilink")」「[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")」など書店販売の雑誌や書籍の発行、総合ニュースサイト「nikkei BPnet」技術系総合情報サイト「日経 xTECH」「[nikkei TRENDYnet](../Page/日経トレンディ.md "wikilink")」など、各種[ウェブサイト](../Page/ウェブサイト.md "wikilink")の運営、「[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（共催）」などの各種展示会の開催などを行っている。また、かつては商用[パソコン通信](../Page/パソコン通信.md "wikilink")サービス「[日経MIX](https://ja.wikipedia.org/wiki/日経MIX "wikilink")」の運営を行っていた事でも知られている。
 
-[NBFプラチナタワー](https://ja.wikipedia.org/wiki/NBFプラチナタワー "wikilink")（3～12階）に本社を置いていたが、2017年8月、同じ日経傘下の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が、[六本木グランドタワーに移転した跡地の日経虎ノ門別館](https://ja.wikipedia.org/wiki/住友不動産六本木グランドタワー "wikilink")（港区[虎ノ門](https://ja.wikipedia.org/wiki/虎ノ門 "wikilink")）に本社移転した\[1\]。
+[NBFプラチナタワー](https://ja.wikipedia.org/wiki/NBFプラチナタワー "wikilink")（3～12階）に本社を置いていたが、2017年8月、同じ日経傘下の[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が、[六本木グランドタワーに移転した跡地の日経虎ノ門別館](https://ja.wikipedia.org/wiki/住友不動産六本木グランドタワー "wikilink")（港区[虎ノ門](../Page/虎ノ門.md "wikilink")）に本社移転した\[1\]。
 
 ## 沿革
 

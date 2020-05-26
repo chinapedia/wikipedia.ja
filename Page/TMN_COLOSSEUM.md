@@ -77,7 +77,7 @@
       - 作詞：小室みつ子　作曲：小室哲哉　編曲：[ピート・ハモンド](https://ja.wikipedia.org/wiki/ピート・ハモンド "wikilink")
     <!-- end list -->
       -
-        10thシングル。ライブツアー『TM NETWORK CAROL TOUR FINAL CAMP FANKS\!\! '89』からの音源。表記上は「Get Wild」であるが、厳密にいえば19thシングル『**Get Wild '89**』である。後に『[ALL the “Get Wild” ALBUM](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』に再収録された際には(**“COLOSSEUM I”Version**)と改称されている。また『[GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")』に再々収録された際には(**“CAROL TOUR FINAL CAMP FANKS\!\! ’89” Version**)と**再**改称されている。
+        10thシングル。ライブツアー『TM NETWORK CAROL TOUR FINAL CAMP FANKS\!\! '89』からの音源。表記上は「Get Wild」であるが、厳密にいえば19thシングル『**Get Wild '89**』である。後に『[ALL the “Get Wild” ALBUM](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』に再収録された際には(**“COLOSSEUM I”Version**)と改称されている。また『[GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")』に再々収録された際には(**“CAROL TOUR FINAL CAMP FANKS\!\! ’89” Version**)と**再**改称されている。
 
 ### TMN COLOSSEUM II
 

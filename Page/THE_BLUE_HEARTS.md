@@ -2419,7 +2419,7 @@ TOUR'88 PRETTY PINEAPPLE SPECIAL 〜2月12日 日本武道館〜 はこのライ
 <tr class="odd">
 <td><p>初心にかえろうライブ</p></td>
 <td><p>12/3 <a href="https://ja.wikipedia.org/wiki/新宿ロフト" title="wikilink">新宿ロフト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列局で放送されていた</a><a href="https://ja.wikipedia.org/wiki/HITS" title="wikilink">HITS</a>の取材が来ていた。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列局で放送されていた</a><a href="../Page/HITS.md" title="wikilink">HITS</a>の取材が来ていた。</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -94,7 +94,7 @@
           - Bank Band
               - 小林武史 (Keyboards)
               - 櫻井和寿 (Vocal & Guitar)
-              - [河村 "カースケ" 智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink") (Drums)
+              - [河村 "カースケ" 智康](../Page/河村智康.md "wikilink") (Drums)
               - 小倉博和 (Guitar)
               - 亀田誠治 (Bass)
               - 山本拓夫 (Saxophone)

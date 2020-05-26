@@ -56,7 +56,7 @@
 
 ### スタイルの変遷
 
-インディーズ時代は完全なダンススタイルのグループであったが、インディーズデビューシングル「[believe in love](https://ja.wikipedia.org/wiki/believe_in_love "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「僕はマグマ」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")において、各メンバーが楽器は演奏せずに持ちながら踊るというパフォーマンスを見せた。これがメジャーデビュー曲「[GOOD DAYS](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")」、2ndシングルの「[大爆発NO.1](https://ja.wikipedia.org/wiki/大爆発NO.1 "wikilink")」では楽器を演奏しているフリをしながら踊るというスタイルに変化していった。
+インディーズ時代は完全なダンススタイルのグループであったが、インディーズデビューシングル「[believe in love](https://ja.wikipedia.org/wiki/believe_in_love "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「僕はマグマ」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")において、各メンバーが楽器は演奏せずに持ちながら踊るというパフォーマンスを見せた。これがメジャーデビュー曲「[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")」、2ndシングルの「[大爆発NO.1](https://ja.wikipedia.org/wiki/大爆発NO.1 "wikilink")」では楽器を演奏しているフリをしながら踊るというスタイルに変化していった。
 
 3rdシングルの「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」からは、演奏のフリではなく実際に演奏し始めるようになり、4thシングル「[世界のほんの片隅から](https://ja.wikipedia.org/wiki/世界のほんの片隅から "wikilink")」では一度楽器を置き、デビュー前から練習してきたダンススタイルに戻したものの、5thシングル「夢ノカケラ・・・」以降は、基本的に楽器を演奏しながらも時折ダンスも披露するスタイルとなった。
 
@@ -118,7 +118,7 @@
   - 1998年12月 初ステージ「sapporo Actors Studio」
   - 1999年[12月18日](../Page/12月18日.md "wikilink") シングル「[believe in love](https://ja.wikipedia.org/wiki/believe_in_love "wikilink")」でインディーズ・デビュー。この頃までに4人メンバー（TAKAYO MIZUHO MAIKO MIYU）となる。
   - 2000年1月9日 ランタイムコンサートに参加する。
-  - 2001年[2月7日](../Page/2月7日.md "wikilink") シングル「[GOOD DAYS](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")」でメジャーデビュー。デビュー記念日となる。
+  - 2001年[2月7日](../Page/2月7日.md "wikilink") シングル「[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")」でメジャーデビュー。デビュー記念日となる。
   - 2001年[12月31日](../Page/12月31日.md "wikilink") [第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")新人賞受賞。
   - 2001年12月31日 『[第52回NHK紅白歌合戦](../Page/第52回NHK紅白歌合戦.md "wikilink")』初出場。演奏曲は「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」
   - [2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-[8月](../Page/8月.md "wikilink") 『ZONE FIRST SUMMER LIVE 2002 こぐまの大移動大暴走だべさツアー』
@@ -181,7 +181,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2001年2月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GOOD_DAYS_(ZONEの曲)" title="wikilink">GOOD DAYS</a></strong></p></td>
+<td><p><strong><a href="../Page/GOOD_DAYS_(ZONEの曲).md" title="wikilink">GOOD DAYS</a></strong></p></td>
 <td><p>20位</p></td>
 <td><p>エフティ資生堂CMソング。</p></td>
 </tr>
@@ -225,7 +225,7 @@
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2002年9月26日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/証_(ZONEの曲)" title="wikilink">証</a></strong></p></td>
+<td><p><strong><a href="../Page/証_(ZONEの曲).md" title="wikilink">証</a></strong></p></td>
 <td><p>3位</p></td>
 <td><p>3種類のCD盤でリリースされた。</p></td>
 </tr>

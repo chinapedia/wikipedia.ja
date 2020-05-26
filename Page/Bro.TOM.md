@@ -45,7 +45,7 @@
   - [WWE](../Page/WWE.md "wikilink")-X(ナレーション)（フジテレビ系）
       - [WWE-X テレビショー日本公演スペシャル](../Page/ROAD_TO_WRESTLEMANIA_21_JAPAN_TOUR.md "wikilink")（ナレーション、フジテレビ系）
   - [わかってちょーだい\!](../Page/わかってちょーだい!.md "wikilink")（フジテレビ系）
-  - [満天笑店](https://ja.wikipedia.org/wiki/満天笑店 "wikilink")（フジテレビ系）
+  - [満天笑店](../Page/満天笑店.md "wikilink")（フジテレビ系）
   - [スタイルプラス](../Page/スタイルプラス.md "wikilink")（不定期出演）（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
   - TOM TOM TRAIN（テレビ金沢）
   - TOMさんの劇アツ\!ジャラペンTV（テレビ金沢）

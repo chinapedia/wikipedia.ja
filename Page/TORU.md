@@ -1,7 +1,7 @@
 > この記事は[TORU](https://ja.wikipedia.org/wiki/TORU)から翻訳されています。
 
 
-**TORU**（トール）は、日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。
+**TORU**（トール）は、日本の[漫画家](../Page/漫画家.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。
 
 ## 略歴
 

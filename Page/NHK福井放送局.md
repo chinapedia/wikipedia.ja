@@ -13,7 +13,7 @@
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い、社団法人日本放送協会解散。同時に[特殊法人](../Page/特殊法人.md "wikilink")としての[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が設立され、一切の権利義務を継承。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年）[8月3日](../Page/8月3日.md "wikilink") - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") (JOFG-TV) 放送開始。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）
-      - [3月31日](../Page/3月31日.md "wikilink") - ラジオ局移転。[下馬ラジオ放送所運用開始](https://ja.wikipedia.org/wiki/NHK下馬ラジオ放送所 "wikilink")。
+      - [3月31日](../Page/3月31日.md "wikilink") - ラジオ局移転。[下馬ラジオ放送所運用開始](../Page/NHK下馬ラジオ放送所.md "wikilink")。
       - [7月21日](../Page/7月21日.md "wikilink") - 総合テレビのカラー放送開始。
       - [11月1日](../Page/11月1日.md "wikilink") - [教育テレビ](../Page/NHK教育テレビジョン.md "wikilink") (JOFC-TV) 放送開始。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）3月 - 福井放送局新会館落成。
@@ -50,7 +50,7 @@
       - [テレビ放送とFM放送両送信塔は](../Page/地上デジタルテレビ放送.md "wikilink")[足羽山](../Page/足羽山.md "wikilink")山頂に設置。[福井放送](../Page/福井放送.md "wikilink")の地上デジタル放送の送信施設も併設されている。
   - [ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink") 927kHz JOFG 5kW
   - [ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink") 1521kHz JOFC 1kW
-      - AM放送送信塔は[福井市](../Page/福井市.md "wikilink")[下馬に設置](https://ja.wikipedia.org/wiki/NHK下馬ラジオ放送所 "wikilink")。
+      - AM放送送信塔は[福井市](../Page/福井市.md "wikilink")[下馬に設置](../Page/NHK下馬ラジオ放送所.md "wikilink")。
 
 ## 中継局
 
@@ -68,7 +68,7 @@
 
 \[2\]
 
-[NHK下馬ラジオ放送所](https://ja.wikipedia.org/wiki/NHK下馬ラジオ放送所 "wikilink")からの放送波を[越前海岸](https://ja.wikipedia.org/wiki/越前海岸 "wikilink")で受信出来ない事はないが、場所によっては受信状況が悪化する場合がある。また、夜間には外国電波の混信を受ける場合もある。NHK福井放送局は、受信状況の改善を図るために、[2016年](../Page/2016年.md "wikilink")に越前海岸にラジオ第1放送の中継局を設置した。周波数帯は、夜間の[中波帯の混信を防ぐために](../Page/中波放送.md "wikilink")[FM波を使用している](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")。
+[NHK下馬ラジオ放送所](../Page/NHK下馬ラジオ放送所.md "wikilink")からの放送波を[越前海岸](https://ja.wikipedia.org/wiki/越前海岸 "wikilink")で受信出来ない事はないが、場所によっては受信状況が悪化する場合がある。また、夜間には外国電波の混信を受ける場合もある。NHK福井放送局は、受信状況の改善を図るために、[2016年](../Page/2016年.md "wikilink")に越前海岸にラジオ第1放送の中継局を設置した。周波数帯は、夜間の[中波帯の混信を防ぐために](../Page/中波放送.md "wikilink")[FM波を使用している](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")。
 
   - 福井国見 86.8MHz 100W
   - 福井川西 88.3MHz 3W

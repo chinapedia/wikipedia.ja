@@ -28,7 +28,7 @@
 <td><p><a href="../Page/マルタ.md" title="wikilink">マルタ</a>出身。3歳の時に、両親の故郷であるイギリス、<a href="../Page/ウィルトシャー.md" title="wikilink">ウィルトシャー</a> スウィンドンに移り住む。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/コリン・モールディング" title="wikilink">コリン・モールディング</a></p></td>
+<td><p><a href="../Page/コリン・モールディング.md" title="wikilink">コリン・モールディング</a></p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/:en:Colin_Moulding" title="wikilink">Colin Moulding</a></em></p></td>
 <td><p>ヴォーカル、ベース</p></td>
 <td></td>
@@ -125,11 +125,11 @@
 
 デュークス名義でのシングル
 
-| 原題タイトル                                                 | 作曲者                                                                                  | 発売年  | 情報 |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------ | ---- | -- |
-| The Mole From The Ministry                             | Sir John Johns（[アンディー・パートリッジ](../Page/アンディ・パートリッジ.md "wikilink")）                    | 1985 |    |
-| You're The Good Man Albert Brown(Curse You Red Barrel) | Sir John Johns                                                                       | 1987 |    |
-| Vanishing Girl                                         | The Red Curtain（[コリン・モールディング](https://ja.wikipedia.org/wiki/コリン・モールディング "wikilink")） |      |    |
+| 原題タイトル                                                 | 作曲者                                                               | 発売年  | 情報 |
+| ------------------------------------------------------ | ----------------------------------------------------------------- | ---- | -- |
+| The Mole From The Ministry                             | Sir John Johns（[アンディー・パートリッジ](../Page/アンディ・パートリッジ.md "wikilink")） | 1985 |    |
+| You're The Good Man Albert Brown(Curse You Red Barrel) | Sir John Johns                                                    | 1987 |    |
+| Vanishing Girl                                         | The Red Curtain（[コリン・モールディング](../Page/コリン・モールディング.md "wikilink")） |      |    |
 
 ### シングル
 

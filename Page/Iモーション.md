@@ -35,7 +35,7 @@ iモーションはMP4対応とASF対応の2つのバージョンがある。
 
 [ASF対応iモーションは](../Page/Advanced_Systems_Format.md "wikilink")、映像（MPEG-4）と音声（AMR）をASFファイルフォーマットで多重化した形式。
 
-対応機種はFOMA [N2002](https://ja.wikipedia.org/wiki/N2002 "wikilink")、[P2002](https://ja.wikipedia.org/wiki/P2002 "wikilink")、[D2101V](https://ja.wikipedia.org/wiki/D2101V "wikilink") 、[SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")、[T2101V](../Page/T2101V.md "wikilink")。ファイルサイズは100KBまで。MP4形式との互換性は全く無いため、2051シリーズ発売以降、メニューサイト上のASF形式の動画は次第に淘汰された。
+対応機種はFOMA [N2002](https://ja.wikipedia.org/wiki/N2002 "wikilink")、[P2002](https://ja.wikipedia.org/wiki/P2002 "wikilink")、[D2101V](../Page/D2101V.md "wikilink") 、[SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")、[T2101V](../Page/T2101V.md "wikilink")。ファイルサイズは100KBまで。MP4形式との互換性は全く無いため、2051シリーズ発売以降、メニューサイト上のASF形式の動画は次第に淘汰された。
 
 ## iモーションメール
 

@@ -23,7 +23,7 @@ Yak-9Pは[東欧を中心に輸出](../Page/東ヨーロッパ.md "wikilink")・
 
 ### その後
 
-Yak-9Pは複座型の[Yak-9Vなどとともに](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")[1960年代](../Page/1960年代.md "wikilink")まで各国で使用された。また、[1990年代](../Page/1990年代.md "wikilink")にはYak-9U/Pの復元機である**Yak-9UM**（または**Yak-9U-M**とも表記）が[ロシア](../Page/ロシア.md "wikilink")連邦で少数量産されており、現在でも航空ショーなどで飛行する姿を見ることができる。なお、Yak-9UMは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アリソン製](https://ja.wikipedia.org/wiki/アリソン・エンジン "wikilink")[V-1710液冷エンジンを搭載している](../Page/V-1710_\(航空用エンジン\).md "wikilink")。
+Yak-9Pは複座型の[Yak-9Vなどとともに](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")[1960年代](../Page/1960年代.md "wikilink")まで各国で使用された。また、[1990年代](../Page/1990年代.md "wikilink")にはYak-9U/Pの復元機である**Yak-9UM**（または**Yak-9U-M**とも表記）が[ロシア](../Page/ロシア.md "wikilink")連邦で少数量産されており、現在でも航空ショーなどで飛行する姿を見ることができる。なお、Yak-9UMは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アリソン製](../Page/アリソン・エンジン.md "wikilink")[V-1710液冷エンジンを搭載している](../Page/V-1710_\(航空用エンジン\).md "wikilink")。
 
 ### 注意
 

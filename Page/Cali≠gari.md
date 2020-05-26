@@ -1170,7 +1170,7 @@ DVD『オヤスミナサイ____。△15th Caliversary 2018 LAST GIGS 2018.04.04 
   - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")トリビュートアルバム『[PARADE II 〜RESPECTIVE TRACKS OF BUCK-TICK〜](https://ja.wikipedia.org/wiki/PARADE_II_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜 "wikilink")』（[2012年](../Page/2012年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") 発売）[規格品番](../Page/規格品番.md "wikilink")： TKCA-73785
       -
         「[MISTY ZONE](../Page/ROMANESQUE_\(アルバム\).md "wikilink")」のカバーを収録。第7期編成。
-  - [DEAD ENDトリビュートアルバム](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』（[2013年](../Page/2013年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") 発売）規格品番： AVCD-38651
+  - [DEAD ENDトリビュートアルバム](../Page/DEAD_END_\(バンド\).md "wikilink")『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』（[2013年](../Page/2013年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink") 発売）規格品番： AVCD-38651
       -
         「[Blind Boy Project](https://ja.wikipedia.org/wiki/shambara "wikilink")」のカバーを収録。第7期編成。
 

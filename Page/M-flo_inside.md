@@ -20,7 +20,7 @@
 11. Just Say So / [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")
 12. Spectacular / [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")
 13. hard to say / Crystal Kay
-14. Get Out\! Feat. [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") & [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") / [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")
+14. Get Out\! Feat. [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") & [VERBAL](../Page/VERBAL.md "wikilink") / [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")
 15. AIDA (020609 TACHYTELIC REMIX)
 16. 3RD ALBUM SNIPPET DUB\~outro
 

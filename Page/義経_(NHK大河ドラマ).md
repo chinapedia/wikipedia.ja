@@ -148,7 +148,7 @@
       -
         弁慶とも面識がある僧で、頼朝の命により義経の暗殺を命じられ、堀川の屋敷を夜襲するが捕われて殺される。この一件により、義経は頼朝との仲が修復不可能であることを悟る。
   - [和田義盛](../Page/和田義盛.md "wikilink")：[高杉亘](../Page/高杉亘.md "wikilink")
-  - [安達盛長](../Page/安達盛長.md "wikilink")：[草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")
+  - [安達盛長](../Page/安達盛長.md "wikilink")：[草見潤平](../Page/草見潤平.md "wikilink")
       -
         頼朝が流人の頃から付き従っている第一の側近。義経が鎌倉に入れぬまま宗盛や清宗と共に京へ引き返す途中、頼朝の命として宗盛と清宗を直ちに斬首するよう伝えるなど主に取次役を務めた。
   - [北条宗時](../Page/北条宗時.md "wikilink")：[姫野惠二](https://ja.wikipedia.org/wiki/姫野惠二 "wikilink")
@@ -161,7 +161,7 @@
   - [堀親家](https://ja.wikipedia.org/wiki/堀親家 "wikilink")：[徳井優](../Page/徳井優.md "wikilink")
   - [大姫](../Page/大姫_\(源頼朝の娘\).md "wikilink")：[野口真緒](https://ja.wikipedia.org/wiki/野口真緒 "wikilink")
       -
-        頼朝の娘。人質として共に暮らすこととなった[木曽義高とは非常に睦まじかった](https://ja.wikipedia.org/wiki/源義高_\(清水冠者\) "wikilink")。このため、義高の処刑後は白痴状態になってしまう。天皇の女御にとの縁談も頑なに断り、生涯独身を通して亡くなった。
+        頼朝の娘。人質として共に暮らすこととなった[木曽義高とは非常に睦まじかった](../Page/源義高_\(清水冠者\).md "wikilink")。このため、義高の処刑後は白痴状態になってしまう。天皇の女御にとの縁談も頑なに断り、生涯独身を通して亡くなった。
 
 #### 木曽方
 
@@ -180,7 +180,7 @@
   - [中原兼遠](../Page/中原兼遠.md "wikilink")：[森下哲夫](../Page/森下哲夫.md "wikilink")
   - [根井行親](../Page/根井行親.md "wikilink")：[市川勉](https://ja.wikipedia.org/wiki/市川勉 "wikilink")
   - [楯親忠](https://ja.wikipedia.org/wiki/楯親忠 "wikilink")：[山﨑秀樹](../Page/山崎秀樹.md "wikilink")
-  - [木曽義高](https://ja.wikipedia.org/wiki/源義高_\(清水冠者\) "wikilink")：[富岡涼](../Page/富岡涼.md "wikilink")
+  - [木曽義高](../Page/源義高_\(清水冠者\).md "wikilink")：[富岡涼](../Page/富岡涼.md "wikilink")
       -
         義仲の子で頼朝の元に人質に出されていた。頼朝からは高く評価され「大姫の婿」という待遇を受けるなど、義仲討伐後も鎌倉で不自由なく暮らしていた。が一人義仲の件を知らされていなかった大姫が侍女が口を滑らせたのを機に義仲の死を知ったことで、「このままでは義高様も殺される」と早合点した大姫の意により鎌倉から逃亡するが捕えられ頼朝の命により殺された。
 
@@ -789,7 +789,7 @@
 <td><p>安宅の関</p></td>
 <td><p>柳川強</p></td>
 <td><p><a href="../Page/安宅の関.md" title="wikilink">安宅の関</a>（<a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a><a href="../Page/小松市.md" title="wikilink">小松市</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/如意の渡し" title="wikilink">如意の渡</a>（富山県<a href="https://ja.wikipedia.org/wiki/高岡市" title="wikilink">高岡市</a>）</p></td>
+<a href="../Page/如意の渡し.md" title="wikilink">如意の渡</a>（富山県<a href="https://ja.wikipedia.org/wiki/高岡市" title="wikilink">高岡市</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第48回</p></td>

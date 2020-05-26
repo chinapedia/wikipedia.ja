@@ -3,7 +3,7 @@
 
 『**TOKYO TRIBE**』 （トウキョウ トライブ） は、[井上三太](../Page/井上三太.md "wikilink")の[青春](../Page/青春.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。1993年に出版。
 
-略称は、「TT」 （ティーティー）。[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")に連載された作品ではなく、[描き下ろし](https://ja.wikipedia.org/wiki/描き下ろし "wikilink")である。この作品を収録した単行本が未だに出版社を変えて発売され続けているほどのロングセラーになっている\[1\]。
+略称は、「TT」 （ティーティー）。[漫画雑誌](../Page/漫画雑誌.md "wikilink")に連載された作品ではなく、[描き下ろし](https://ja.wikipedia.org/wiki/描き下ろし "wikilink")である。この作品を収録した単行本が未だに出版社を変えて発売され続けているほどのロングセラーになっている\[1\]。
 
 架空の街「トーキョー」に生きる若者達の[日常生活](../Page/日常生活.md "wikilink")を「シヴヤSARU」「シンヂュクHANDS」という二つの[ストリート・ギャング](https://ja.wikipedia.org/wiki/ストリート・ギャング "wikilink")の抗争を中心に描いている。[暴力](../Page/暴力.md "wikilink")、[殺人](../Page/殺人.md "wikilink")、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")、[セックス](https://ja.wikipedia.org/wiki/性行為 "wikilink")、そして[愛](../Page/愛.md "wikilink")と[友情](../Page/友情.md "wikilink")を、実に過激に、過剰に描写している。現代社会に巣食う退廃した若者達の暗黒面が曝されている。
 

@@ -3,7 +3,7 @@
 
 **Final Cut Pro**（ファイナルカット・プロ）は、[アップルの開発](../Page/アップル_\(企業\).md "wikilink")・販売する[ソフトウェア](../Page/ソフトウェア.md "wikilink")のひとつで、[パソコン向けの](../Page/パーソナルコンピュータ.md "wikilink")[ノンリニアビデオ編集](https://ja.wikipedia.org/wiki/ノンリニアビデオ編集 "wikilink")を目的とした[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")向けのソフトである。アップルのプロフェッショナル向け映像ソリューションの中核となるソフトウェア。
 
-バージョン６とバージョン7は、[Motion](../Page/Motion.md "wikilink")、[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")、[DVD Studio Pro](https://ja.wikipedia.org/wiki/w:DVD_Studio_Pro "wikilink")、[Compressor](https://ja.wikipedia.org/wiki/w:Compressor_\(software\) "wikilink")、[Colorなどを含むソフトウェアスイート](https://ja.wikipedia.org/wiki/w:Color_\(software\) "wikilink")**[Final Cut Studio](https://ja.wikipedia.org/wiki/Final_Cut_Studio "wikilink")**（ファイナルカット・スタジオ）として販売されていた。
+バージョン６とバージョン7は、[Motion](../Page/Motion.md "wikilink")、[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")、[DVD Studio Pro](https://ja.wikipedia.org/wiki/w:DVD_Studio_Pro "wikilink")、[Compressor](https://ja.wikipedia.org/wiki/w:Compressor_\(software\) "wikilink")、[Colorなどを含むソフトウェアスイート](https://ja.wikipedia.org/wiki/w:Color_\(software\) "wikilink")**[Final Cut Studio](../Page/Final_Cut_Studio.md "wikilink")**（ファイナルカット・スタジオ）として販売されていた。
 
 ## 概要
 

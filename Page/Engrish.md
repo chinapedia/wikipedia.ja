@@ -92,7 +92,7 @@ Engrish の対極の概念に Nihonglish （ニホングリッシュ）がある
 
   - [外国語の日本語表記](../Page/外国語の日本語表記.md "wikilink")
 
-  - [外来語の表記](https://ja.wikipedia.org/wiki/外来語の表記 "wikilink")
+  - [外来語の表記](../Page/外来語の表記.md "wikilink")
 
   - [機械翻訳](../Page/機械翻訳.md "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 略歴
 
-  - [1911年](../Page/1911年.md "wikilink")　[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ランカスター生まれ](https://ja.wikipedia.org/wiki/ランカスター_\(イングランド\) "wikilink")。
+  - [1911年](../Page/1911年.md "wikilink")　[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ランカスター生まれ](../Page/ランカスター_\(イングランド\).md "wikilink")。
   - [1929年](../Page/1929年.md "wikilink")　[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")の[ベリオール・カレッジに入学](../Page/ベリオール・カレッジ_\(オックスフォード大学\).md "wikilink")。ギリシャ古典を深く学び、[アリストテレス](../Page/アリストテレス.md "wikilink")の著作から影響を受けた。B.A取得。
   - [1933年](../Page/1933年.md "wikilink")　[オール・ソウルズ・カレッジのフェローに選ばれる](../Page/オール・ソウルズ・カレッジ_\(オックスフォード大学\).md "wikilink")。哲学研究を本格的に開始。
   - [1935年](../Page/1935年.md "wikilink")　の[フェロー](../Page/フェロー.md "wikilink")に選ばれる。

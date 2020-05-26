@@ -36,7 +36,7 @@ UPnP、DLNA、Viiv、Plays For Sureは、それぞれベースとしている規
       -
         「ソニールームリンク」の機能名称が使われている。
     <!-- end list -->
-      - [BRAVIA](../Page/ブラビア.md "wikilink")（液晶テレビ、X1000シリーズ・J5000シリーズ・J3000シリーズ以降）、[コクーン](https://ja.wikipedia.org/wiki/コクーン_\(チャンネルサーバー\) "wikilink")（HDDレコーダー）、[スゴ録](../Page/スゴ録.md "wikilink")（DVDレコーダー）、[VAIO](../Page/VAIO.md "wikilink") (PC)、[NETJUKE](../Page/NETJUKE.md "wikilink")（ミニコンポ）、[BDZ](https://ja.wikipedia.org/wiki/BDZ "wikilink")シリーズ（BDレコーダー）、[Sony Tablet](https://ja.wikipedia.org/wiki/Sony_Tablet "wikilink")（タブレット端末）
+      - [BRAVIA](../Page/ブラビア.md "wikilink")（液晶テレビ、X1000シリーズ・J5000シリーズ・J3000シリーズ以降）、[コクーン](https://ja.wikipedia.org/wiki/コクーン_\(チャンネルサーバー\) "wikilink")（HDDレコーダー）、[スゴ録](../Page/スゴ録.md "wikilink")（DVDレコーダー）、[VAIO](../Page/VAIO.md "wikilink") (PC)、[NETJUKE](../Page/NETJUKE.md "wikilink")（ミニコンポ）、[BDZ](../Page/BDZ.md "wikilink")シリーズ（BDレコーダー）、[Sony Tablet](https://ja.wikipedia.org/wiki/Sony_Tablet "wikilink")（タブレット端末）
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
       - [プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（ゲーム機）、[nasne](https://ja.wikipedia.org/wiki/nasne "wikilink")（NAS）
   - [DigiOn](https://ja.wikipedia.org/wiki/デジオン "wikilink")

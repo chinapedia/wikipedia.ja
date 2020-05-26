@@ -9,10 +9,10 @@
 
 2005年度はタウンページ提供番組こそ残ったが、産経抄の朗読などは終了し、LF・OBCともそれぞれに地域情報を重視した番組（LFは「[松本ひでおのショウアップナイターストライク\!](../Page/松本ひでおのショウアップナイターストライク!.md "wikilink")」内「タウンページPresents 街角ショウアップ」（18:37ごろから10分間）、OBCは「[バンザイ歌謡曲それッ\!](../Page/バンザイ歌謡曲それッ!.md "wikilink")」内「特ダネ街角情報それッ\!」（18:20ごろから10分間　金曜日は単独番組として18:20-18:30）になっている。
 
-その後、タウンページ協賛番組は[石原良純のピーカン子育て日和に継承されたが](https://ja.wikipedia.org/wiki/タウンページpresents_石原良純のピーカン子育て日和! "wikilink")、大阪地区はラジオ大阪→[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")（他に[京都放送](../Page/京都放送.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")でもスポンサードネット）に移動した。
+その後、タウンページ協賛番組は[石原良純のピーカン子育て日和に継承されたが](../Page/タウンページpresents_石原良純のピーカン子育て日和!.md "wikilink")、大阪地区はラジオ大阪→[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")（他に[京都放送](../Page/京都放送.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")でもスポンサードネット）に移動した。
 
 ## 関連項目
 
-  - [タウンページpresents 石原良純のピーカン子育て日和\!](https://ja.wikipedia.org/wiki/タウンページpresents_石原良純のピーカン子育て日和! "wikilink")
+  - [タウンページpresents 石原良純のピーカン子育て日和\!](../Page/タウンページpresents_石原良純のピーカン子育て日和!.md "wikilink")
 
 [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink") [Category:ラジオ大阪の番組の歴史](https://ja.wikipedia.org/wiki/Category:ラジオ大阪の番組の歴史 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:ローカルラジオ局の一社提供番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の一社提供番組 "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:NTTグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:NTTグループ単独提供番組 "wikilink") [Category:産経新聞の歴史](https://ja.wikipedia.org/wiki/Category:産経新聞の歴史 "wikilink")

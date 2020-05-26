@@ -526,7 +526,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハナムケ" title="wikilink">ハナムケ</a></strong></p></td>
+<td><p><strong><a href="../Page/ハナムケ.md" title="wikilink">ハナムケ</a></strong></p></td>
 <td><p>2007年1月17日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>7位</p></td>
@@ -902,7 +902,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | **IT'S IN THE STARS**                | ブルボン『はなのどガム』CMソング 日本テレビ系『[落下女](../Page/落下女.md "wikilink")』2006年2月度エンディングテーマ                                                                                                                                                                                                                                                 | 「[IT'S IN THE STARS](../Page/IT'S_IN_THE_STARS.md "wikilink")」                                          |
 | **TRIAL**                            | [FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")、[JFA](https://ja.wikipedia.org/wiki/JFA "wikilink")公認映画『[GOAL\!](../Page/GOAL!.md "wikilink")』日本語吹替え版テーマソング                                                                                                                                                           | 「[TRIAL](../Page/TRIAL_\(曲\).md "wikilink")」                                                            |
 | **ブギウギ66**                           | [dwango](../Page/ドワンゴ.md "wikilink").jp CMソング 日本テレビ系『[スポんちゅ](../Page/スポんちゅ.md "wikilink")』2006年9月度テーマソング                                                                                                                                                                                                                    | 「[ブギウギ66](../Page/ブギウギ66.md "wikilink")」                                                                |
-| **ハナムケ**                             | ブルボン『ビタミンCガム』『はなのどガム』CMソング                                                                                                                                                                                                                                                                                                  | 「[ハナムケ](https://ja.wikipedia.org/wiki/ハナムケ "wikilink")」                                                 |
+| **ハナムケ**                             | ブルボン『ビタミンCガム』『はなのどガム』CMソング                                                                                                                                                                                                                                                                                                  | 「[ハナムケ](../Page/ハナムケ.md "wikilink")」                                                                    |
 | **LOVE IS THE GREATEST THING**       | 映画『[シュレック3](../Page/シュレック3.md "wikilink")』日本語吹き替え版イメージソング [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")独占先行配信（TV-SPOT投下）                                                                                                                                                                                    | 「[LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink")」                        |
 | **SHINING STAR**                     | [北海商科大学](../Page/北海商科大学.md "wikilink")[CFソング](https://ja.wikipedia.org/wiki/CFソング "wikilink")                                                                                                                                                                                                                               | 「LOVE IS THE GREATEST THING」                                                                            |
 | **Beautiful Life**                   | [ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[オトコの子育て](../Page/オトコの子育て.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")                                                                                                                                                   | 「[Beautiful Life](../Page/Beautiful_Life_\(w-inds.の曲\).md "wikilink")」                                  |
@@ -1930,7 +1930,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | 3  | 2003年（[第45回](https://ja.wikipedia.org/wiki/第45回日本レコード大賞 "wikilink")） | [Long Road](../Page/Long_Road.md "wikilink")                                   | 金賞（大賞ノミネート作品）           |
 | 4  | 2005年（[第47回](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")） | [十六夜の月](../Page/十六夜の月.md "wikilink")                                           | 金賞（大賞ノミネート作品）           |
 | 5  | 2006年（[第48回](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")） | [ブギウギ66](../Page/ブギウギ66.md "wikilink")                                         | 金賞（大賞ノミネート作品）           |
-| 6  | 2007年（[第49回](https://ja.wikipedia.org/wiki/第49回日本レコード大賞 "wikilink")） | [LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink") | 金賞（大賞、最優秀歌唱賞ノミネート作品）    |
+| 6  | 2007年（[第49回](../Page/第49回日本レコード大賞.md "wikilink")）                    | [LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink") | 金賞（大賞、最優秀歌唱賞ノミネート作品）    |
 | 7  | 2008年（[第50回](https://ja.wikipedia.org/wiki/第50回日本レコード大賞 "wikilink")） | [アメあと](https://ja.wikipedia.org/wiki/アメあと "wikilink")                          | 優秀作品賞（大賞ノミネート作品）        |
 | 8  | 2009年（[第51回](https://ja.wikipedia.org/wiki/第51回日本レコード大賞 "wikilink")） | [Rain Is Fallin'](https://ja.wikipedia.org/wiki/Rain_Is_Fallin' "wikilink")    | 優秀作品賞（大賞ノミネート作品）        |
 | 9  | 2010年（[第52回](https://ja.wikipedia.org/wiki/第52回日本レコード大賞 "wikilink")） | [New World](https://ja.wikipedia.org/wiki/New_World "wikilink")                | 優秀作品賞（大賞ノミネート作品）        |
@@ -2131,7 +2131,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 <!-- end list -->
 
-  - [第49回日本レコード大賞](https://ja.wikipedia.org/wiki/第49回日本レコード大賞 "wikilink") 金賞 （『**[LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink")**』）
+  - [第49回日本レコード大賞](../Page/第49回日本レコード大賞.md "wikilink") 金賞 （『**[LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink")**』）
 
   - MTV Student Voice Awards 2007 最優秀“STUDENT VOICE”グループ賞
 

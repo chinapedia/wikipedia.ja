@@ -43,7 +43,7 @@
 
 **欠点**
 
-  - [水素](https://ja.wikipedia.org/wiki/水素 "wikilink")と[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")は測定できない。
+  - [水素](../Page/水素.md "wikilink")と[ヘリウム](../Page/ヘリウム.md "wikilink")は測定できない。
   - 高[真空](../Page/真空.md "wikilink")中で固体として安定なものでないと測定できない。
   - [絶縁体](../Page/絶縁体.md "wikilink")は測定中に[チャージアップ](https://ja.wikipedia.org/wiki/チャージアップ "wikilink")が起こるので再現性が悪い。
   - X線によって試料がダメージを受けるため、正確に状態を反映しないことがある。

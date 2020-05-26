@@ -200,7 +200,7 @@
 
   - \- [イタリア陸軍](../Page/イタリア陸軍.md "wikilink")が22両を運用。
 
-  - \- [エジプト陸軍が](https://ja.wikipedia.org/wiki/エジプト軍 "wikilink")26両を運用。既に退役。
+  - \- [エジプト陸軍が](../Page/エジプト軍.md "wikilink")26両を運用。既に退役。
 
   - \- [オランダ陸軍](https://ja.wikipedia.org/wiki/オランダ陸軍 "wikilink")が30両を運用。既に退役し、一部はフィンランド陸軍に売却。
 
@@ -313,7 +313,7 @@
 ### ゲーム
 
   - 『[ARMA 2](https://ja.wikipedia.org/wiki/ARMA_2 "wikilink")』
-    プレイヤーが直接操作できるほか、[砲撃](https://ja.wikipedia.org/wiki/砲撃 "wikilink")モジュールを使用して任意の地点に[火力支援](https://ja.wikipedia.org/wiki/火力支援 "wikilink")を要請可能。
+    プレイヤーが直接操作できるほか、[砲撃](../Page/砲撃.md "wikilink")モジュールを使用して任意の地点に[火力支援](https://ja.wikipedia.org/wiki/火力支援 "wikilink")を要請可能。
   - 『』
     [NATO陣営の](../Page/北大西洋条約機構.md "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")デッキで使用可能な[自走砲](../Page/自走砲.md "wikilink")として「M270 ATACMS」の名称で登場。
   - 『[World in Conflict](https://ja.wikipedia.org/wiki/:en:World_in_Conflict "wikilink")』

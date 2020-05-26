@@ -34,7 +34,7 @@
 
 ### キャスター
 
-  - [豊田順子](../Page/豊田順子.md "wikilink")（[日本テレビアナウンサー](https://ja.wikipedia.org/wiki/日本テレビのアナウンサー一覧 "wikilink")） - 『[NNN Newsリアルタイム・サタデー](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』と『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』を兼務。
+  - [豊田順子](../Page/豊田順子.md "wikilink")（[日本テレビアナウンサー](https://ja.wikipedia.org/wiki/日本テレビのアナウンサー一覧 "wikilink")） - 『[NNN Newsリアルタイム・サタデー](../Page/NNN_Newsリアルタイム.md "wikilink")』と『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』を兼務。
 
 ## 特別編成時
 

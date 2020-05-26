@@ -38,7 +38,7 @@
   - [ゲーム&ウオッチコレクション](../Page/GAME_&_WATCH_COLLECTION.md "wikilink") (DSカード，64MB)
   - [ゲーム&ウオッチコレクション2](https://ja.wikipedia.org/wiki/GAME_&_WATCH_COLLECTION#GAME_&_WATCH_COLLECTION_2 "wikilink") (DSカード，64MB)
   - [チンクルのバルーンファイトDS](../Page/チンクルのバルーンファイトDS.md "wikilink") (DSカード，64MB)
-  - [絶叫戦士サケブレイン](https://ja.wikipedia.org/wiki/絶叫戦士サケブレイン "wikilink") (DSカード，128MB)
+  - [絶叫戦士サケブレイン](../Page/絶叫戦士サケブレイン.md "wikilink") (DSカード，128MB)
   - [任天童子](https://ja.wikipedia.org/wiki/任天童子 "wikilink") (DSiウェア)
   - [ファミコンウォーズDS 失われた光](https://ja.wikipedia.org/wiki/ファミコンウォーズDS_失われた光 "wikilink") (DSiウェア)
 

@@ -9,7 +9,7 @@
 
 ## 追記
 
-また、毎週月曜日限定にて17時台の情報ワイド番組と18時台のニュースワイド番組との長時間融合複合番組枠である『[情報わいどYTSゴジダス](https://ja.wikipedia.org/wiki/情報わいどYTSゴジダス "wikilink")』（略称：「情わいゴジダス」。同じ[ANN系列局の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")』と[山形県](../Page/山形県.md "wikilink")内[民放](../Page/民間放送.md "wikilink")[テレビ局の他局の放映局である](../Page/テレビジョン放送局.md "wikilink")[山形放送](../Page/山形放送.md "wikilink")『[YBC5時\!ピヨ卵&プラス1ワイド&](../Page/ピヨ卵ワイド.md "wikilink")[YBCニュースプラス1](../Page/YBCニュースプラス1.md "wikilink")』の編成に倣って当時、対抗・競合して編成）を編成し始めたが、ANNの夕方番組が『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』になると番組編成内容も大幅に改変、YTS夕方番組枠も現在の「Jチャンゴジダス」の放送へと繋がり現在に至る。
+また、毎週月曜日限定にて17時台の情報ワイド番組と18時台のニュースワイド番組との長時間融合複合番組枠である『[情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink")』（略称：「情わいゴジダス」。同じ[ANN系列局の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")』と[山形県](../Page/山形県.md "wikilink")内[民放](../Page/民間放送.md "wikilink")[テレビ局の他局の放映局である](../Page/テレビジョン放送局.md "wikilink")[山形放送](../Page/山形放送.md "wikilink")『[YBC5時\!ピヨ卵&プラス1ワイド&](../Page/ピヨ卵ワイド.md "wikilink")[YBCニュースプラス1](../Page/YBCニュースプラス1.md "wikilink")』の編成に倣って当時、対抗・競合して編成）を編成し始めたが、ANNの夕方番組が『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』になると番組編成内容も大幅に改変、YTS夕方番組枠も現在の「Jチャンゴジダス」の放送へと繋がり現在に至る。
 
 ## キャスターの変遷
 

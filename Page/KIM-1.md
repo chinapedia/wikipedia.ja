@@ -13,9 +13,9 @@ KIM向けの小さな[アセンブリ言語](../Page/アセンブリ言語.md "w
 
 システムは [Tiny BASIC](../Page/Tiny_BASIC.md "wikilink") 言語が使えるようになってさらに人気が高まった。ただしこれを使うにはメモリを拡張する必要があった\[2\]。また、[テープからのBASICのロードには](../Page/コンパクトカセット.md "wikilink")15分間かかった。
 
-[ロックウェル・インターナショナル](../Page/ロックウェル・インターナショナル.md "wikilink")（6502のセカンドソース）は [Synertek](https://ja.wikipedia.org/wiki/:en:Synertek "wikilink") と共に 1976年に評価ボード [AIM-65](https://ja.wikipedia.org/wiki/AIM-65 "wikilink") をリリースしている。AIMにはフル[ASCII](../Page/ASCII.md "wikilink")キーボードと20桁の[14セグメント英数字](https://ja.wikipedia.org/wiki/14セグメントディスプレイ "wikilink")[LEDディスプレイ](../Page/発光ダイオード.md "wikilink")、[キャッシュレジスター](../Page/キャッシュレジスター.md "wikilink")のような小さなプリンタを備えていた。[ファームウェア](../Page/ファームウェア.md "wikilink")として[デバッグ](../Page/デバッガ.md "wikilink")[モニタが標準で搭載されており](https://ja.wikipedia.org/wiki/機械語モニタ "wikilink")、ユーザはオプションの[ROMチップを購入して](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[アセンブラ](https://ja.wikipedia.org/wiki/アセンブラ "wikilink")か [Microsoft BASIC](../Page/Microsoft_BASIC.md "wikilink") [インタプリタ](../Page/インタプリタ.md "wikilink")を選ぶことができた。
+[ロックウェル・インターナショナル](../Page/ロックウェル・インターナショナル.md "wikilink")（6502のセカンドソース）は [Synertek](https://ja.wikipedia.org/wiki/:en:Synertek "wikilink") と共に 1976年に評価ボード [AIM-65](../Page/AIM-65.md "wikilink") をリリースしている。AIMにはフル[ASCII](../Page/ASCII.md "wikilink")キーボードと20桁の[14セグメント英数字](https://ja.wikipedia.org/wiki/14セグメントディスプレイ "wikilink")[LEDディスプレイ](../Page/発光ダイオード.md "wikilink")、[キャッシュレジスター](../Page/キャッシュレジスター.md "wikilink")のような小さなプリンタを備えていた。[ファームウェア](../Page/ファームウェア.md "wikilink")として[デバッグ](../Page/デバッガ.md "wikilink")[モニタが標準で搭載されており](https://ja.wikipedia.org/wiki/機械語モニタ "wikilink")、ユーザはオプションの[ROMチップを購入して](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[アセンブラ](https://ja.wikipedia.org/wiki/アセンブラ "wikilink")か [Microsoft BASIC](../Page/Microsoft_BASIC.md "wikilink") [インタプリタ](../Page/インタプリタ.md "wikilink")を選ぶことができた。
 
-さらに、Synertekは派生品[SYM-1](https://ja.wikipedia.org/wiki/SYM-1 "wikilink")を出している。これはKIM-1とAIM65の中間とも言うべきもので、KIMのような小さな表示と16進入力用の29キーのキーボードを備えていたが、AIMと互換のある拡張インターフェイスを備え、[RS-232](../Page/RS-232.md "wikilink")Cも持っていた。
+さらに、Synertekは派生品[SYM-1](../Page/SYM-1.md "wikilink")を出している。これはKIM-1とAIM65の中間とも言うべきもので、KIMのような小さな表示と16進入力用の29キーのキーボードを備えていたが、AIMと互換のある拡張インターフェイスを備え、[RS-232](../Page/RS-232.md "wikilink")Cも持っていた。
 
 KIMを出して間もなく[モステクノロジー](../Page/モステクノロジー.md "wikilink")は[コモドール](../Page/コモドール.md "wikilink")に買収され、KIM-1はCBMのラベルを付けて売られるようになった。チャック・ペドルは[QWERTY配列](../Page/QWERTY配列.md "wikilink")のフルキーボードとカセットテープ装置とモノクロディスプレイ装置を組み込んだ拡張版の開発に取り掛かった。
 
@@ -87,8 +87,8 @@ KIM-1はもう少し複雑なブートストラップ・ローダに相当する
 ## 関連項目
 
   - [ワンボードマイコン](../Page/ワンボードマイコン.md "wikilink")
-  - [AIM-65](https://ja.wikipedia.org/wiki/AIM-65 "wikilink")
-  - [SYM-1](https://ja.wikipedia.org/wiki/SYM-1 "wikilink")
+  - [AIM-65](../Page/AIM-65.md "wikilink")
+  - [SYM-1](../Page/SYM-1.md "wikilink")
 
 ## 外部リンク
 

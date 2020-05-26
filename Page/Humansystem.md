@@ -57,13 +57,13 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")に[EPIC・ソニーより](../Page/エピックレコードジャパン.md "wikilink")、[LP](../Page/レコード.md "wikilink")、[CT](../Page/コンパクトカセット.md "wikilink")、[CDの](../Page/コンパクトディスク.md "wikilink")3形態でリリースされた。デジタルレコーディングで使える[ダイナミックレンジ](../Page/ダイナミックレンジ.md "wikilink")を犠牲にさせないことと[シンセサイザー](../Page/シンセサイザー.md "wikilink")のノイズ音を取り除くという小室自身の意向により、他のアルバムに比べて録音レベル（[音量](https://ja.wikipedia.org/wiki/音量 "wikilink")）が小さめとなっている\[20\]。また、CDジャケットの裏面にも[EPICソニー](https://ja.wikipedia.org/wiki/EPICソニー "wikilink")から発売されていたCDアルバムでは珍しく、主に当時の[CBSソニー](https://ja.wikipedia.org/wiki/CBSソニー "wikilink")から発売されていたCDアルバム等で使われている「DR（デジタル・レコーディングの略）」のロゴマークが表示されている（初回版のみ）。
 
-その後も[1991年](../Page/1991年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")、[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")とCD盤のみ再リリースされ、[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
+その後も[1991年](../Page/1991年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")、[1996年](../Page/1996年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")とCD盤のみ再リリースされ、[2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には完全限定生産盤の[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』に[紙ジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、24bitデジタルリマスタリング仕様で収録された。
 
 [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")には単独で紙ジャケット、デジタルリマスタリング仕様でリリースされ\[21\]、[2013年](../Page/2013年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")にはデジタルリマスタリング仕様で[Blu-spec CD2にてリリースされた](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
 ## プロモーション
 
-本作に関するテレビ出演としては、同年[9月23日](../Page/9月23日.md "wikilink")に[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE」（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）に出演し「Kiss You」を演奏した他、[10月2日](../Page/10月2日.md "wikilink")には[テレビ朝日系音楽番組](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - ）にて「Kiss You」を演奏、[10月22日](../Page/10月22日.md "wikilink")にはTBS系音楽番組『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - 1989年）にて10位での登場で「Kiss You」を演奏、[12月6日](../Page/12月6日.md "wikilink")には[NHK総合音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")』（1986年 - 1988年）にて「Self Control (方舟に曳かれて)」、「Children of the New Century」を演奏、[12月8日](../Page/12月8日.md "wikilink")にはフジテレビ系音楽番組『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』（[1974年](../Page/1974年.md "wikilink") - ）に初出演し、「Get Wild」「Self Control (方舟に曳かれて)」を演奏した。
+本作に関するテレビ出演としては、同年[9月23日](../Page/9月23日.md "wikilink")に[フジテレビ系音楽番組](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE」（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1989年](../Page/1989年.md "wikilink")）に出演し「Kiss You」を演奏した他、[10月2日](../Page/10月2日.md "wikilink")には[テレビ朝日系音楽番組](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - ）にて「Kiss You」を演奏、[10月22日](../Page/10月22日.md "wikilink")にはTBS系音楽番組『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - 1989年）にて10位での登場で「Kiss You」を演奏、[12月6日](../Page/12月6日.md "wikilink")には[NHK総合音楽番組](../Page/NHK総合テレビジョン.md "wikilink")『[ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")』（1986年 - 1988年）にて「Self Control (方舟に曳かれて)」、「Children of the New Century」を演奏、[12月8日](../Page/12月8日.md "wikilink")にはフジテレビ系音楽番組『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』（[1974年](../Page/1974年.md "wikilink") - ）に初出演し、「Get Wild」「Self Control (方舟に曳かれて)」を演奏した。
 
 [1988年](../Page/1988年.md "wikilink")に入り、[1月21日](../Page/1月21日.md "wikilink")には『ザ・ベストテン』にて7位での登場で「Resistance」を演奏、[2月1日](../Page/2月1日.md "wikilink")には[日本テレビ系音楽番組](../Page/日本テレビ系列.md "wikilink")『[歌のトップテン](../Page/歌のトップテン.md "wikilink")』（1986年 - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）にて7位での登場で「Resisance」を演奏した。
 
@@ -345,7 +345,7 @@
 <td><p>CD</p></td>
 <td><p>ESCL-2527</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/CD-BOX" title="wikilink">CD-BOX</a>『<a href="../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md" title="wikilink">WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX</a>』（完全生産限定盤）収録<br />
 <a href="https://ja.wikipedia.org/wiki/ディスクジャケット" title="wikilink">紙ジャケット</a>、24bitデジタルリマスタリング仕様</p></td>
 </tr>
 <tr class="even">
@@ -407,7 +407,7 @@
 26.
 27.
 28.
-29. TM NETWORK『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』ブックレットより。
+29. TM NETWORK『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』ブックレットより。
 30.
 31.
 32.

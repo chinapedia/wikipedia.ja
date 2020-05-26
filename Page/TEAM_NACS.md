@@ -378,7 +378,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
   -
     全56公演、動員数80,000人\[34\]（千秋楽ライブビューイング35,000人を含み115,000人）
-    客演：[小此木まり](../Page/小此木まり.md "wikilink")、荒居清香、伊藤駿九郎、梅田喬、黒岩司、佐藤亮太、[津田幹土](../Page/津田幹土.md "wikilink")、[新田健太](https://ja.wikipedia.org/wiki/新田健太 "wikilink")、[原田新平](https://ja.wikipedia.org/wiki/原田新平 "wikilink")、[廣瀬真平](https://ja.wikipedia.org/wiki/廣瀬真平 "wikilink")、古川ヒロシ、[松尾英太郎](https://ja.wikipedia.org/wiki/松尾英太郎 "wikilink")、[三木秀甫](https://ja.wikipedia.org/wiki/三木秀甫 "wikilink")、森下ひさえ、[山中雄輔](https://ja.wikipedia.org/wiki/山中雄輔 "wikilink")
+    客演：[小此木まり](../Page/小此木まり.md "wikilink")、荒居清香、伊藤駿九郎、梅田喬、黒岩司、佐藤亮太、[津田幹土](../Page/津田幹土.md "wikilink")、[新田健太](https://ja.wikipedia.org/wiki/新田健太 "wikilink")、[原田新平](https://ja.wikipedia.org/wiki/原田新平 "wikilink")、[廣瀬真平](../Page/廣瀬真平.md "wikilink")、古川ヒロシ、[松尾英太郎](https://ja.wikipedia.org/wiki/松尾英太郎 "wikilink")、[三木秀甫](https://ja.wikipedia.org/wiki/三木秀甫 "wikilink")、森下ひさえ、[山中雄輔](https://ja.wikipedia.org/wiki/山中雄輔 "wikilink")
 
 ### TEAM NACS SOLO PROJECT
 
@@ -421,7 +421,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
     作・演出：戸次重幸
     2019年2月8日 - 3月3日
     東京、福岡、札幌、大阪
-    メインビジュアルが実写とイラストの2種類が存在し、イラストは『[うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")』などで知られる漫画家の[藤田和日郎](../Page/藤田和日郎.md "wikilink")が手掛けている\[36\]。
+    メインビジュアルが実写とイラストの2種類が存在し、イラストは『[うしおととら](../Page/うしおととら.md "wikilink")』などで知られる漫画家の[藤田和日郎](../Page/藤田和日郎.md "wikilink")が手掛けている\[36\]。
     出演：[本郷奏多](../Page/本郷奏多.md "wikilink")、[青柳翔](https://ja.wikipedia.org/wiki/青柳翔 "wikilink")（[劇団EXILE](https://ja.wikipedia.org/wiki/劇団EXILE "wikilink")）、[前野朋哉](https://ja.wikipedia.org/wiki/前野朋哉 "wikilink")、戸次重幸、[吉沢悠](../Page/吉沢悠.md "wikilink")
 
 #### 音尾琢真ソロ公演

@@ -81,7 +81,7 @@
 
 仙台放送の制作で最終日のみ[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")（ただし[クロスネット局](../Page/クロスネット局.md "wikilink")の[テレビ大分](../Page/テレビ大分.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")を除く）に全国放送されていた。予選ラウンド（以下・予選R）は当日の夕方に1時間枠で放送し（2006年より2日目からの放送）、決勝ラウンド（以下・決勝R）は土曜日が宮城県のみ13:00～15:55（天気予報など数分間の中断）で[生中継](https://ja.wikipedia.org/wiki/生中継 "wikilink")。中断後の放送は[東海テレビで同時ネット](../Page/東海テレビ放送.md "wikilink")、フジテレビで当日深夜に放送される。最終日は16:05～17:45の放送で本来17:30から放送されるニュースは短縮版での放送となる。
 
-実況は長年、仙台放送の[浅見博幸](../Page/浅見博幸.md "wikilink")が担当していたがここ数年、自身の担当番組異動により出演せず予選Rは同局の[下田恒幸](../Page/下田恒幸.md "wikilink")（現フリー）、[金澤聡](../Page/金澤聡.md "wikilink")が担当し、決勝Rはゴルフキャスターの[戸張捷](../Page/戸張捷.md "wikilink")が実況・解説を担当していた。また、ラウンドリポーターは決勝Rに入ると予選R実況者と系列局から1名が務め過去に[塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")、[松井みどり](../Page/松井みどり.md "wikilink")、[竹下陽平](../Page/竹下陽平.md "wikilink")、[加藤晃](../Page/加藤晃.md "wikilink")が担当していた。また、現日経ラジオ社(ラジオNIKKEI)の[小塚歩](../Page/小塚歩.md "wikilink")も同局所属時代にリポーターを担当している。
+実況は長年、仙台放送の[浅見博幸](../Page/浅見博幸.md "wikilink")が担当していたがここ数年、自身の担当番組異動により出演せず予選Rは同局の[下田恒幸](../Page/下田恒幸.md "wikilink")（現フリー）、[金澤聡](../Page/金澤聡.md "wikilink")が担当し、決勝Rはゴルフキャスターの[戸張捷](../Page/戸張捷.md "wikilink")が実況・解説を担当していた。また、ラウンドリポーターは決勝Rに入ると予選R実況者と系列局から1名が務め過去に[塩原恒夫](../Page/塩原恒夫.md "wikilink")、[松井みどり](../Page/松井みどり.md "wikilink")、[竹下陽平](../Page/竹下陽平.md "wikilink")、[加藤晃](../Page/加藤晃.md "wikilink")が担当していた。また、現日経ラジオ社(ラジオNIKKEI)の[小塚歩](../Page/小塚歩.md "wikilink")も同局所属時代にリポーターを担当している。
 
 ## 大会打ち切り
 
@@ -96,10 +96,10 @@
 [東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")で開催される（された）他のゴルフトーナメント
 
   - [JGTOツアー](../Page/日本ゴルフツアー機構.md "wikilink")
-      - [ダンロップ・スリクソン福島オープン](https://ja.wikipedia.org/wiki/ダンロップ・スリクソン福島オープン "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](https://ja.wikipedia.org/wiki/白河都市圏 "wikilink")西部
+      - [ダンロップ・スリクソン福島オープン](https://ja.wikipedia.org/wiki/ダンロップ・スリクソン福島オープン "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](../Page/白河都市圏.md "wikilink")西部
   - [JLPGAツアー](../Page/日本女子プロゴルフ協会.md "wikilink")
       - [ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント](../Page/ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[宮城郡](../Page/宮城郡.md "wikilink")[利府町](../Page/利府町.md "wikilink")）…[仙台都市圏](../Page/仙台都市圏.md "wikilink")北東部
-      - [リゾートトラストレディス](../Page/リゾートトラストレディス.md "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](https://ja.wikipedia.org/wiki/白河都市圏 "wikilink")西部 ※2005年 - 2007年まで。
+      - [リゾートトラストレディス](../Page/リゾートトラストレディス.md "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](../Page/白河都市圏.md "wikilink")西部 ※2005年 - 2007年まで。
 
 ## 外部リンク
 

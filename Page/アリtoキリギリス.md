@@ -46,7 +46,7 @@
   - [タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）
   - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[よみうりテレビ](https://ja.wikipedia.org/wiki/よみうりテレビ "wikilink")系）
   - [変なおじさんTV](../Page/変なおじさんTV.md "wikilink")→[志村流](../Page/志村流.md "wikilink")→[志村塾](../Page/志村塾.md "wikilink")（フジテレビ系）
-  - [おしゃれ\!アイドル学園](https://ja.wikipedia.org/wiki/おしゃれ!アイドル学園 "wikilink")（テレビ東京系）　ほか
+  - [おしゃれ\!アイドル学園](../Page/おしゃれ!アイドル学園.md "wikilink")（テレビ東京系）　ほか
   - [美川屋本舗](https://ja.wikipedia.org/wiki/美川屋本舗 "wikilink")〜ヒットの法則〜（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）
   - [ほんパラ\!関口堂書店](../Page/ほんパラ!関口堂書店.md "wikilink")（テレビ朝日）
 

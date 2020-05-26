@@ -220,7 +220,7 @@
     演：[澤伸好](https://ja.wikipedia.org/wiki/澤伸好 "wikilink")
     忠勝の子。
   - [酒井忠世](../Page/酒井忠世.md "wikilink")（さかい ただよ）
-    演：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
+    演：[宗近晴見](../Page/宗近晴見.md "wikilink")
   - [青山忠俊](../Page/青山忠俊.md "wikilink")（あおやま ただとし）
     演：[野村信次](../Page/野村信次.md "wikilink")
   - [堀田正吉](https://ja.wikipedia.org/wiki/堀田正吉 "wikilink")（ほった まさよし）
@@ -302,7 +302,7 @@
     織田家当主。
     光秀の謀反により本能寺で討たれる。
   - [織田信忠](../Page/織田信忠.md "wikilink")（おだ のぶただ）/ [織田信雄](../Page/織田信雄.md "wikilink")（おだ のぶかつ）
-    演：[草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")（信忠）/ [菅谷仁志](https://ja.wikipedia.org/wiki/菅谷仁志 "wikilink")（信雄）
+    演：[草見潤平](../Page/草見潤平.md "wikilink")（信忠）/ [菅谷仁志](https://ja.wikipedia.org/wiki/菅谷仁志 "wikilink")（信雄）
     信長の子。
   - [お市](../Page/お市の方.md "wikilink")（おいち）
     演：[高林由紀子](../Page/高林由紀子.md "wikilink")

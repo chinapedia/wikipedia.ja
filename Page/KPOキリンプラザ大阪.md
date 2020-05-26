@@ -56,7 +56,7 @@
 
 ## アクセス
 
-  - [大阪市営地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")・[心斎橋駅](https://ja.wikipedia.org/wiki/心斎橋駅 "wikilink")
+  - [大阪市営地下鉄](../Page/大阪市営地下鉄.md "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink")・[心斎橋駅](https://ja.wikipedia.org/wiki/心斎橋駅 "wikilink")
   - [近鉄](../Page/近畿日本鉄道.md "wikilink")・[阪神](../Page/阪神電気鉄道.md "wikilink")　[大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink")
 
 ## KPOビール

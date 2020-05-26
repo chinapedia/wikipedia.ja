@@ -220,7 +220,7 @@
 
   - スーパーバイサー：小野寺章（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）
 
-  - プロデュース：加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）、[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")・[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")（東映）
+  - プロデュース：加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）、[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")・[武部直美](../Page/武部直美.md "wikilink")（東映）
 
   - 制作プロダクション：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
 

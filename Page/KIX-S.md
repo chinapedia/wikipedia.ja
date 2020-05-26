@@ -297,7 +297,7 @@
   - [小田原豊](../Page/小田原豊.md "wikilink")
   - [湊雅史](../Page/湊雅史.md "wikilink")
   - [江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")
+  - [河村智康](../Page/河村智康.md "wikilink")
   - [是永巧一](../Page/是永巧一.md "wikilink")
   - [山田亘](../Page/山田亘.md "wikilink")
   - [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")

@@ -77,7 +77,7 @@
 | [アムステルダム・アレナ](https://ja.wikipedia.org/wiki/アムステルダム・アレナ "wikilink") | [アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink") | 50,000 |
 | [フェイエノールト・スタディオン](../Page/フェイエノールト・スタディオン.md "wikilink")            | [ロッテルダム](../Page/ロッテルダム.md "wikilink")                      | 50,000 |
 | [フィリップス・スタディオン](../Page/フィリップス・スタディオン.md "wikilink")                | [アイントホーフェン](../Page/アイントホーフェン.md "wikilink")                | 33,000 |
-| [ヘルレドーム](https://ja.wikipedia.org/wiki/ヘルレドーム "wikilink")・スタディオン    | [アーネム](../Page/アーネム.md "wikilink")                          | 30,000 |
+| [ヘルレドーム](../Page/ヘルレドーム.md "wikilink")・スタディオン                       | [アーネム](../Page/アーネム.md "wikilink")                          | 30,000 |
 
 ## グループリーグ
 
@@ -234,7 +234,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルレドーム" title="wikilink">ヘルレドーム</a>・スタディオン (18:00)</p></td>
+<td><p><a href="../Page/ヘルレドーム.md" title="wikilink">ヘルレドーム</a>・スタディオン (18:00)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Romania.svg" title="fig:Flag_of_Romania.svg">Flag_of_Romania.svg</a><br />
@@ -464,7 +464,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルレドーム" title="wikilink">ヘルレドーム</a>・スタディオン (14:30)</p></td>
+<td><p><a href="../Page/ヘルレドーム.md" title="wikilink">ヘルレドーム</a>・スタディオン (14:30)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a><br />
@@ -840,7 +840,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルレドーム" title="wikilink">ヘルレドーム</a>・スタディオン (18:00)</p></td>
+<td><p><a href="../Page/ヘルレドーム.md" title="wikilink">ヘルレドーム</a>・スタディオン (18:00)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Slovenia.svg" title="fig:Flag_of_Slovenia.svg">Flag_of_Slovenia.svg</a><br />

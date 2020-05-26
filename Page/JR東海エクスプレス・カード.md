@@ -17,7 +17,7 @@
 
 [2006年](../Page/2006年.md "wikilink")（平成18年）[8月31日](../Page/8月31日.md "wikilink")で会員専用電話予約サービスは廃止され、JR東海でのチケットレス購入はエクスプレス予約のみとなった\[3\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")より[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")会員を対象とした[EX-ICサービス](https://ja.wikipedia.org/wiki/EX-ICサービス "wikilink")が開始された。
 
-[ビューカード](../Page/ビューカード.md "wikilink")や[東急カード](../Page/東急カード.md "wikilink")など他鉄道会社系クレジットカードとは異なり、系列[駅ビル](../Page/駅ビル.md "wikilink")の[提携カード](../Page/提携カード.md "wikilink")は[クレディセゾン](../Page/クレディセゾン.md "wikilink")を介して発行しており\[4\]これらのカードにはエクスプレス・カードの機能は付かない（ただし、クレジットブランド経由で[スマートEX](https://ja.wikipedia.org/wiki/スマートEX "wikilink")の登録利用は可能）。その一方で、[東京駅一番街](../Page/東京駅一番街.md "wikilink")・[キュービックプラザ新横浜](https://ja.wikipedia.org/wiki/キュービックプラザ新横浜 "wikilink")・[アソシアホテルズ&リゾーツ](../Page/アソシアホテルズ&リゾーツ.md "wikilink")においては、エクスプレス・カードを含む[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")会員証提示による特典を用意している。
+[ビューカード](../Page/ビューカード.md "wikilink")や[東急カード](../Page/東急カード.md "wikilink")など他鉄道会社系クレジットカードとは異なり、系列[駅ビル](../Page/駅ビル.md "wikilink")の[提携カード](../Page/提携カード.md "wikilink")は[クレディセゾン](../Page/クレディセゾン.md "wikilink")を介して発行しており\[4\]これらのカードにはエクスプレス・カードの機能は付かない（ただし、クレジットブランド経由で[スマートEX](https://ja.wikipedia.org/wiki/スマートEX "wikilink")の登録利用は可能）。その一方で、[東京駅一番街](../Page/東京駅一番街.md "wikilink")・[キュービックプラザ新横浜](../Page/キュービックプラザ新横浜.md "wikilink")・[アソシアホテルズ&リゾーツ](../Page/アソシアホテルズ&リゾーツ.md "wikilink")においては、エクスプレス・カードを含む[エクスプレス予約](../Page/エクスプレス予約.md "wikilink")会員証提示による特典を用意している。
 
 ## 特徴
 

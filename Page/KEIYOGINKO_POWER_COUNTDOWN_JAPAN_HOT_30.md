@@ -198,7 +198,7 @@ Traffic Updates</p></td>
 <tr class="odd">
 <td><p>17:45</p></td>
 <td><p>エンディング</p></td>
-<td><p>エンドトーク＆スポンサー読み。<a href="https://ja.wikipedia.org/wiki/ザ・ゴー!チーム" title="wikilink">ザ・ゴー!チーム</a>の「Bust-out Brigade」（アルバム「ROLLING BLACKOUTS」収録）をエンドレスバージョンにしたものがエンディングに流れる。</p></td>
+<td><p>エンドトーク＆スポンサー読み。<a href="../Page/ザ・ゴー!チーム.md" title="wikilink">ザ・ゴー!チーム</a>の「Bust-out Brigade」（アルバム「ROLLING BLACKOUTS」収録）をエンドレスバージョンにしたものがエンディングに流れる。</p></td>
 </tr>
 </tbody>
 </table>

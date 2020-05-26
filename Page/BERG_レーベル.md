@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - レーベル第一弾は[DEEN](../Page/DEEN.md "wikilink")の16thシングル「[手ごたえのない愛](../Page/手ごたえのない愛.md "wikilink")」で、2000年までは[七緒香](https://ja.wikipedia.org/wiki/七緒香 "wikilink")・[大葉るか](https://ja.wikipedia.org/wiki/大葉るか "wikilink")・[B'z](../Page/B'z.md "wikilink")の作品が発売されていたが、2001年以降は実質DEENの専門レーベルという形となり存続していた。
+  - レーベル第一弾は[DEEN](../Page/DEEN.md "wikilink")の16thシングル「[手ごたえのない愛](../Page/手ごたえのない愛.md "wikilink")」で、2000年までは[七緒香](https://ja.wikipedia.org/wiki/七緒香 "wikilink")・[大葉るか](../Page/大葉るか.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の作品が発売されていたが、2001年以降は実質DEENの専門レーベルという形となり存続していた。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
       - [SHU](../Page/池森秀一.md "wikilink")
       - [田川伸治](../Page/田川伸治.md "wikilink")
   - [B'z](../Page/B'z.md "wikilink") （[B'z The "Mixture"のみBERG](../Page/B'z_The_"Mixture".md "wikilink") レーベルから発売）
-  - [大葉るか](https://ja.wikipedia.org/wiki/大葉るか "wikilink")
+  - [大葉るか](../Page/大葉るか.md "wikilink")
   - [七緒香](https://ja.wikipedia.org/wiki/七緒香 "wikilink") （[ZAIN RECORDSから移籍](../Page/ZAIN_RECORDS.md "wikilink")）
 
 ## 作品
@@ -95,7 +95,7 @@
 
   - [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")
+  - [DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")
   - [DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")
 
 [Category:かつて存在した日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード・レーベル "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink") [Category:BMG_JAPAN](https://ja.wikipedia.org/wiki/Category:BMG_JAPAN "wikilink")

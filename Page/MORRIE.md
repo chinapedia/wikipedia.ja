@@ -1,7 +1,7 @@
 > この記事は[MORRIE](https://ja.wikipedia.org/wiki/MORRIE)から翻訳されています。
 
 
-**MORRIE**（モーリー、[1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[3月4日](../Page/3月4日.md "wikilink")(魚座) - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴォーカリスト](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[龍野市](../Page/龍野市.md "wikilink")（現[たつの市](../Page/たつの市.md "wikilink")）出身。[神戸市外国語大学](../Page/神戸市外国語大学.md "wikilink")卒業。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。ソロ活動と並行して、ロックバンド「[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")」、ソロプロジェクト「[Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")」のヴォーカルを務める。妻は[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")のHeather Paauweで、MORRIEのソロ活動にも参加している。
+**MORRIE**（モーリー、[1964年](../Page/1964年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")39年）[3月4日](../Page/3月4日.md "wikilink")(魚座) - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴォーカリスト](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[兵庫県](../Page/兵庫県.md "wikilink")[龍野市](../Page/龍野市.md "wikilink")（現[たつの市](../Page/たつの市.md "wikilink")）出身。[神戸市外国語大学](../Page/神戸市外国語大学.md "wikilink")卒業。血液型[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。ソロ活動と並行して、ロックバンド「[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")」、ソロプロジェクト「[Creature Creature](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")」のヴォーカルを務める。妻は[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")のHeather Paauweで、MORRIEのソロ活動にも参加している。
 
 ## 経歴
 
@@ -9,7 +9,7 @@
 
 高校3年生の時、ヴォーカルを探していた友人のバンドTHE WILD（主にクイーンや[ポリスのコピー演奏をしていた](../Page/ポリス_\(バンド\).md "wikilink")）に参加し、ステージデビュー。初めての曲はポリスの「[孤独のメッセージ](https://ja.wikipedia.org/wiki/孤独のメッセージ "wikilink")」であった。
 
-[1984年](../Page/1984年.md "wikilink")にLIARで同じメンバーだったTAKAHIRO（香川孝博）(Gt)と元RAJASの[CRAZY COOL JOE](https://ja.wikipedia.org/wiki/CRAZY_COOL_JOE "wikilink")(B)を中心に[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[DEAD ENDを結成](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[インディーズ](../Page/インディーズ.md "wikilink")界に旋風を巻き起こし数々の記録を打ち立てる。
+[1984年](../Page/1984年.md "wikilink")にLIARで同じメンバーだったTAKAHIRO（香川孝博）(Gt)と元RAJASの[CRAZY COOL JOE](https://ja.wikipedia.org/wiki/CRAZY_COOL_JOE "wikilink")(B)を中心に[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[DEAD ENDを結成](../Page/DEAD_END_\(バンド\).md "wikilink")、[インディーズ](../Page/インディーズ.md "wikilink")界に旋風を巻き起こし数々の記録を打ち立てる。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")には鳴り物入りでメジャーデビューし、通算2枚目となるメジャー初アルバム『[GHOST OF ROMANCE](https://ja.wikipedia.org/wiki/GHOST_OF_ROMANCE "wikilink")』は[オリコンチャート](../Page/オリコンチャート.md "wikilink")61位に付けた。
 
@@ -25,7 +25,7 @@ DEAD END解散後は、以前より行っていたソロプロジェクトを本
 
 私生活においては1993年に渡米、現地で結婚し永住権を獲得しており、現在も[ニューヨーク](../Page/ニューヨーク.md "wikilink")在住である。
 
-ソロ3rdアルバム『影の饗宴』以降表舞台からは退いていたが、[2005年](../Page/2005年.md "wikilink")に自身選曲によるソロ活動期のベストアルバム『Ectoplasm』を発表し、さらに同年[Minoru](https://ja.wikipedia.org/wiki/室姫深 "wikilink")（ex.[THE MAD CAPSULE MARKET'S](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")） 、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）らのサポートを受け、[Creature Creature名義で](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")10年振りにシーンに復帰し、シングル三枚・アルバム一枚を発表。Creature Creatureの活動が落ち着いた[2009年](../Page/2009年.md "wikilink")には、8月15日に行われる幕張メッセ＜[JACK IN THE BOX](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink") 2009 SUMMER＞に[DEAD ENDが出演することを明かし](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、20年ぶりにDEAD ENDとして活動を再開。同年11月11日に過去のアルバムの再発と同時に5thアルバム『[METAMORPHOSIS](https://ja.wikipedia.org/wiki/METAMORPHOSIS "wikilink")』を発表。現在は[宗教](../Page/宗教.md "wikilink")・[哲学](../Page/哲学.md "wikilink")などの用語や概念をちりばめ、また掛詞や造語、特定のキーワードを多用した難解な詩世界を構築している他、自身の音楽性もDEAD END時代とソロ時代の音楽性を統合し現代的なアプローチをも取り込んだ独特のものへと変化を遂げている。
+ソロ3rdアルバム『影の饗宴』以降表舞台からは退いていたが、[2005年](../Page/2005年.md "wikilink")に自身選曲によるソロ活動期のベストアルバム『Ectoplasm』を発表し、さらに同年[Minoru](https://ja.wikipedia.org/wiki/室姫深 "wikilink")（ex.[THE MAD CAPSULE MARKET'S](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")） 、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）らのサポートを受け、[Creature Creature名義で](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")10年振りにシーンに復帰し、シングル三枚・アルバム一枚を発表。Creature Creatureの活動が落ち着いた[2009年](../Page/2009年.md "wikilink")には、8月15日に行われる幕張メッセ＜[JACK IN THE BOX](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink") 2009 SUMMER＞に[DEAD ENDが出演することを明かし](../Page/DEAD_END_\(バンド\).md "wikilink")、20年ぶりにDEAD ENDとして活動を再開。同年11月11日に過去のアルバムの再発と同時に5thアルバム『[METAMORPHOSIS](https://ja.wikipedia.org/wiki/METAMORPHOSIS "wikilink")』を発表。現在は[宗教](../Page/宗教.md "wikilink")・[哲学](../Page/哲学.md "wikilink")などの用語や概念をちりばめ、また掛詞や造語、特定のキーワードを多用した難解な詩世界を構築している他、自身の音楽性もDEAD END時代とソロ時代の音楽性を統合し現代的なアプローチをも取り込んだ独特のものへと変化を遂げている。
 
 現在は、DEAD END、Creature Creature、MORRIE（ソロ）を並行して活動を続けている。
 

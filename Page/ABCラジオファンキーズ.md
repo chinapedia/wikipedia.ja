@@ -13,7 +13,7 @@
 
 ### 1987年10月 - 1988年3月
 
-  - 月曜日：[大岩堅一](../Page/大岩堅一.md "wikilink")（当時[ABCアナウンサー](../Page/朝日放送テレビ.md "wikilink")）、[楠淳生](../Page/楠淳生.md "wikilink")（当時ABCアナウンサー）、マンスリーアシスタント（[日高のり子](../Page/日高のり子.md "wikilink")や[渡瀬麻紀などが担当](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")）
+  - 月曜日：[大岩堅一](../Page/大岩堅一.md "wikilink")（当時[ABCアナウンサー](../Page/朝日放送テレビ.md "wikilink")）、[楠淳生](../Page/楠淳生.md "wikilink")（当時ABCアナウンサー）、マンスリーアシスタント（[日高のり子](../Page/日高のり子.md "wikilink")や[渡瀬麻紀などが担当](../Page/渡瀬マキ.md "wikilink")）
   - 火曜日：[渡辺英樹](../Page/渡辺英樹.md "wikilink")（[C-C-B](../Page/C-C-B.md "wikilink")）、[熊谷ニーナ](../Page/熊谷ニーナ.md "wikilink")、[岡けん太・ゆう太](../Page/おかけんた・ゆうた.md "wikilink")
   - 水曜日：キッチュ（現・[松尾貴史](../Page/松尾貴史.md "wikilink")）、[伊藤みき](https://ja.wikipedia.org/wiki/いとうみき "wikilink")、[竹内義和](../Page/竹内義和.md "wikilink")、週替わりゲスト（[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")や[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")などが出演）
   - 木曜日：[太平シロー](../Page/大平シロー.md "wikilink")、[ハイヒール・リンゴ](../Page/ハイヒール_\(お笑い\).md "wikilink")、伊舞ちよ（現・伊舞なおみ）

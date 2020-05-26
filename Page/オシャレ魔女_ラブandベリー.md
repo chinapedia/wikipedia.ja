@@ -485,7 +485,7 @@ LH-005 しとやかハット（エレガンス／<span style="color:white">**白
 
 全て[小学館](../Page/小学館.md "wikilink")から発行されている雑誌である。
 
-  - [めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")
+  - [めばえ](../Page/めばえ_\(雑誌\).md "wikilink")
   - [幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")
   - 学習幼稚園
   - [ぷっちぐみ](../Page/ぷっちぐみ.md "wikilink")
@@ -527,7 +527,7 @@ LH-005 しとやかハット（エレガンス／<span style="color:white">**白
 ### スタッフ
 
   - 監督、絵コンテ、演出、音響監督：[望月智充](../Page/望月智充.md "wikilink")
-  - 脚本：[国井桂](https://ja.wikipedia.org/wiki/国井桂 "wikilink")
+  - 脚本：[国井桂](../Page/国井桂.md "wikilink")
   - 音楽：[MOKA☆](https://ja.wikipedia.org/wiki/MOKA☆ "wikilink")
   - 総作画監督・キャラクターデザイン：[門之園恵美](https://ja.wikipedia.org/wiki/門之園恵美 "wikilink")
   - 制作：[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")

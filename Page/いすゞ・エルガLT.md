@@ -124,7 +124,7 @@ KL-LT233J2
   - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
   - [いすゞ・エルガ](https://ja.wikipedia.org/wiki/いすゞ・エルガ "wikilink")
   - [いすゞ・エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")（中型バス）
-  - [いすゞ・LT134](https://ja.wikipedia.org/wiki/いすゞ・LT134 "wikilink")
+  - [いすゞ・LT134](../Page/いすゞ・LT134.md "wikilink")
   - [いすゞ・キュービック](../Page/いすゞ・キュービック.md "wikilink")
   - [三菱ふそう・エアロスターMM](../Page/三菱ふそう・エアロスターMM.md "wikilink")
 

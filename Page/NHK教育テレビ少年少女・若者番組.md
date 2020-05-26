@@ -882,7 +882,7 @@ NHK短期ドラマ
   - [シルクロード少年 ユート](../Page/シルクロード少年_ユート.md "wikilink")
   - [精霊の守り人](../Page/守り人シリーズ.md "wikilink")
   - [アリソンとリリア](https://ja.wikipedia.org/wiki/一つの大陸の物語シリーズ "wikilink")
-  - [こばと。](https://ja.wikipedia.org/wiki/こばと。 "wikilink")
+  - [こばと。](../Page/こばと。.md "wikilink")
   - [GIANT KILLING](../Page/GIANT_KILLING.md "wikilink")
   - [もしドラ](https://ja.wikipedia.org/wiki/もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら#テレビアニメ "wikilink")
   - [日常](../Page/日常_\(漫画\).md "wikilink")

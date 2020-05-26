@@ -248,7 +248,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/川口由梨香" title="wikilink">川口由梨香</a></p></td>
+<td><p><a href="../Page/川口由梨香.md" title="wikilink">川口由梨香</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>長野県のニュース</p></td>
 <td></td>

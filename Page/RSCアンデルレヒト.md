@@ -408,7 +408,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レクサムFC" title="wikilink">レクサム</a></p></td>
+<td><p><a href="../Page/レクサムFC.md" title="wikilink">レクサム</a></p></td>
 <td><p>1-0, 1-1</p></td>
 <td></td>
 <td></td>

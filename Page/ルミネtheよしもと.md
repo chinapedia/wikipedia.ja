@@ -180,7 +180,7 @@
   - [吉田たち](https://ja.wikipedia.org/wiki/吉田たち "wikilink")
   - [ジェラードン](https://ja.wikipedia.org/wiki/ジェラードン "wikilink")
   - [やさしいズ](https://ja.wikipedia.org/wiki/やさしいズ "wikilink")
-  - [ザ☆健康ボーイズ](https://ja.wikipedia.org/wiki/ザ☆健康ボーイズ "wikilink")
+  - [ザ☆健康ボーイズ](../Page/ザ☆健康ボーイズ.md "wikilink")
 
 他多数。
 
@@ -298,7 +298,7 @@
   - [よしもとプリンスシアター](https://ja.wikipedia.org/wiki/よしもとプリンスシアター "wikilink")
   - [ヨシモトファンダンゴTV](../Page/ヨシモトファンダンゴTV.md "wikilink")
   - [なんばグランド花月](../Page/なんばグランド花月.md "wikilink")
-  - [京橋花月](../Page/京橋花月.md "wikilink")（[うめだ花月](../Page/うめだ花月.md "wikilink")が大阪[京橋に移動したもの](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")）
+  - [京橋花月](../Page/京橋花月.md "wikilink")（[うめだ花月](../Page/うめだ花月.md "wikilink")が大阪[京橋に移動したもの](../Page/京橋_\(大阪市\).md "wikilink")）
   - [baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")
   - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")
   - [日曜笑劇場](../Page/日曜笑劇場.md "wikilink")

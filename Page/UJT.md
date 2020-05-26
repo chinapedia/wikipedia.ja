@@ -1,7 +1,7 @@
 > この記事は[UJT](https://ja.wikipedia.org/wiki/UJT)から翻訳されています。
 
 
-**UJT**（ユージェイティ）、うじたなおき（本名・氏田尚樹\[1\]）（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。
+**UJT**（ユージェイティ）、うじたなおき（本名・氏田尚樹\[1\]）（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。
 
 ## 作品リスト
 

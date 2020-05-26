@@ -76,7 +76,7 @@
   - [光と水のダフネ](../Page/光と水のダフネ.md "wikilink")
   - [撲殺天使ドクロちゃん](../Page/撲殺天使ドクロちゃん.md "wikilink")シリーズ
   - [無敵看板娘](https://ja.wikipedia.org/wiki/無敵看板娘 "wikilink")
-  - [Mnemosyne-ムネモシュネの娘たち-](https://ja.wikipedia.org/wiki/Mnemosyne-ムネモシュネの娘たち- "wikilink")
+  - [Mnemosyne-ムネモシュネの娘たち-](../Page/Mnemosyne-ムネモシュネの娘たち-.md "wikilink")
   - [落語天女おゆい](../Page/落語天女おゆい.md "wikilink")
 
 など
@@ -262,7 +262,7 @@
   - トンケの蒼い空
   - ナコイカッツィ
   - [ネバーランド](https://ja.wikipedia.org/wiki/ネバーランド_\(映画\) "wikilink")
-  - [8月のクリスマス](https://ja.wikipedia.org/wiki/8月のクリスマス "wikilink")
+  - [8月のクリスマス](../Page/8月のクリスマス.md "wikilink")
   - [バレット モンク](https://ja.wikipedia.org/wiki/バレット_モンク "wikilink")
   - [ビートキッズ](https://ja.wikipedia.org/wiki/ビートキッズ "wikilink")
   - [ファントマ](https://ja.wikipedia.org/wiki/ファントマ "wikilink")映画祭2006
@@ -315,7 +315,7 @@
   - 雲南の花嫁
   - [運命のボタン](https://ja.wikipedia.org/wiki/運命のボタン "wikilink")
   - [HK 変態仮面](https://ja.wikipedia.org/wiki/HK_変態仮面 "wikilink")
-  - [エンジェル](https://ja.wikipedia.org/wiki/エンジェル_\(2007年の映画\) "wikilink")
+  - [エンジェル](../Page/エンジェル_\(2007年の映画\).md "wikilink")
   - [肩ごしの恋人](../Page/肩ごしの恋人.md "wikilink")
   - [神弓-KAMIYUMI-](https://ja.wikipedia.org/wiki/神弓-KAMIYUMI- "wikilink")
   - [彼が二度愛したS](https://ja.wikipedia.org/wiki/彼が二度愛したS "wikilink")
@@ -375,7 +375,7 @@
   - [シグナル〜月曜日のルカ〜](https://ja.wikipedia.org/wiki/シグナル_\(小説\) "wikilink")
   - [シャカリキ\!](../Page/シャカリキ!.md "wikilink")
   - [ジュリエットからの手紙](https://ja.wikipedia.org/wiki/ジュリエットからの手紙 "wikilink")
-  - [ショコラの見た世界](https://ja.wikipedia.org/wiki/ショコラの見た世界 "wikilink")
+  - [ショコラの見た世界](../Page/ショコラの見た世界.md "wikilink")
   - [ジョニー・マッド・ドッグ](https://ja.wikipedia.org/wiki/ジョニー・マッド・ドッグ "wikilink")
   - [ショパン 愛と哀しみの旋律](https://ja.wikipedia.org/wiki/ショパン_愛と哀しみの旋律 "wikilink")
   - [新宿インシデント](https://ja.wikipedia.org/wiki/新宿インシデント "wikilink")

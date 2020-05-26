@@ -9,7 +9,7 @@
 
 [三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")が玉（現[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")）に設立した造船部を発祥とし、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")時には各種軍用艦の建造に携わった。現在では商船、[自衛隊](../Page/自衛隊.md "wikilink")の艦艇、船舶用ディーゼルエンジンといった船舶分野だけでなく、発電・化学プラントといったエンジニアリング事業や、港湾クレーン、橋梁の建設など社会インフラ事業まで多岐にわたる。
 
-主に船舶、機械、エンジニアリングの3つの事業を柱とする。傘下には浮体式海洋[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")・[ガス生産設備](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")(FPSO)で大きなシェアを誇る[三井海洋開発](https://ja.wikipedia.org/wiki/三井海洋開発 "wikilink")を持つ。また[メタンハイドレート](https://ja.wikipedia.org/wiki/メタンハイドレート "wikilink")の実用化に向けた研究も進めており、他の重工業メーカーと比べ海洋分野に力を入れていることが特徴である。
+主に船舶、機械、エンジニアリングの3つの事業を柱とする。傘下には浮体式海洋[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")・[ガス生産設備](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")(FPSO)で大きなシェアを誇る[三井海洋開発](../Page/三井海洋開発.md "wikilink")を持つ。また[メタンハイドレート](https://ja.wikipedia.org/wiki/メタンハイドレート "wikilink")の実用化に向けた研究も進めており、他の重工業メーカーと比べ海洋分野に力を入れていることが特徴である。
 
 [日経平均株価](../Page/日経平均株価.md "wikilink")構成銘柄の1つである。
 
@@ -61,7 +61,7 @@
 
 ### 三井海洋開発
 
-　詳細は「[三井海洋開発](https://ja.wikipedia.org/wiki/三井海洋開発 "wikilink")」を参照
+　詳細は「[三井海洋開発](../Page/三井海洋開発.md "wikilink")」を参照
 
 **三井E\&Sシステム技研**
 

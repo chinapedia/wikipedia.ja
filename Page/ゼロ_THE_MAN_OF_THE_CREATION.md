@@ -143,7 +143,7 @@
 （第9巻）
 
   - 54　[ツタンカーメン](../Page/ツタンカーメン.md "wikilink")王の呪い
-  - 55　[黒死病の秘蹟](https://ja.wikipedia.org/wiki/ペスト "wikilink")
+  - 55　[黒死病の秘蹟](../Page/ペスト.md "wikilink")
   - 56　[ノートルダム](https://ja.wikipedia.org/wiki/ノートルダム大聖堂 "wikilink")・北の薔薇窓
   - 57　秘薬・ラホー
   - 58　貴人の色・[貝紫](../Page/貝紫色.md "wikilink")
@@ -778,7 +778,7 @@
   - 424 [人生の諸段階](../Page/カスパー・ダーヴィト・フリードリヒ.md "wikilink")
   - 425 [肖像画](https://ja.wikipedia.org/wiki/肖像画 "wikilink")
   - 426 オルナンの巨匠[クールベ](https://ja.wikipedia.org/wiki/クールベ "wikilink")
-  - 427 [ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")刑事
+  - 427 [ゴキブリ](../Page/ゴキブリ.md "wikilink")刑事
   - 428 [楽焼](https://ja.wikipedia.org/wiki/楽焼 "wikilink")・[長次郎](../Page/長次郎.md "wikilink")
 
 （第69巻）

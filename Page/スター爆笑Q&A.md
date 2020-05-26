@@ -50,7 +50,7 @@
 
 ## レポーター･アシスタント
 
-  - [三笑亭夢之助](https://ja.wikipedia.org/wiki/三笑亭夢之助 "wikilink")
+  - [三笑亭夢之助](../Page/三笑亭夢之助.md "wikilink")
   - [早坂あきよ](../Page/早坂あきよ.md "wikilink")
 
 ## スタッフ

@@ -1,7 +1,7 @@
 > この記事は[ごみ箱 \(GUI\)](https://ja.wikipedia.org/wiki/ごみ箱_\(GUI\))から翻訳されています。
 
 
-[Icono_aviso_borrar.png](https://ja.wikipedia.org/wiki/File:Icono_aviso_borrar.png "fig:Icono_aviso_borrar.png")の「ごみ箱」の[アイコン](../Page/アイコン.md "wikilink")\]\] **ごみ箱**（ごみばこ、）は、主に[GUIデスクトップ上に配置される特殊な](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アイコン](../Page/アイコン.md "wikilink")で、[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")・[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")・[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")の、「不要な[ファイルを即座に削除するのではなく一時的な退避場所に移動させておき](../Page/ファイル_\(コンピュータ\).md "wikilink")、後に手動あるいは何らかのトリガで実際に削除を行うメカニズム」にアクセスするインタフェースである。
+[Icono_aviso_borrar.png](https://ja.wikipedia.org/wiki/File:Icono_aviso_borrar.png "fig:Icono_aviso_borrar.png")の「ごみ箱」の[アイコン](../Page/アイコン.md "wikilink")\]\] **ごみ箱**（ごみばこ、）は、主に[GUIデスクトップ上に配置される特殊な](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アイコン](../Page/アイコン.md "wikilink")で、[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")・[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")・[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")の、「不要な[ファイルを即座に削除するのではなく一時的な退避場所に移動させておき](../Page/ファイル_\(コンピュータ\).md "wikilink")、後に手動あるいは何らかのトリガで実際に削除を行うメカニズム」にアクセスするインタフェースである。
 
 なお、[英語](../Page/英語.md "wikilink")では[Windowsのごみ箱は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") "Recycle bin" 、[Macintosh](../Page/Macintosh.md "wikilink")のゴミ箱は "Trash Can" である。
 
@@ -15,7 +15,7 @@
 
 ## 実装
 
-ごみ箱機能は、[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")や[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")との連繋で実装される。以下に例を示す。
+ごみ箱機能は、[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")や[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")との連繋で実装される。以下に例を示す。
 
 <table>
 <thead>

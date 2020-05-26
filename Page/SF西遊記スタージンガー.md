@@ -220,7 +220,7 @@
 <td><p>4月9日</p></td>
 <td><p>宇宙で一番の暴れん坊</p></td>
 <td><p><a href="../Page/森下孝三.md" title="wikilink">森下孝三</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内山正幸" title="wikilink">白鳥剣</a></p></td>
+<td><p><a href="../Page/内山正幸.md" title="wikilink">白鳥剣</a></p></td>
 <td><p>内川文広</p></td>
 <td></td>
 </tr>

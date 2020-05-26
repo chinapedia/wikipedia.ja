@@ -67,7 +67,7 @@
   -
     [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")出身、血液型B型。[立正大学](../Page/立正大学.md "wikilink")中退。
     通称「ナカザ」。ライブでは「王子」と呼ばれることもある。近年のライブでは概ねサングラスを着用している。一部の楽曲の作詞・作曲を手がける。女性のような独特のハイトーン・ボイスで、リードボーカルを担当する曲もある。GOING UNDER GROUNDの公式ファンクラブ「TEAM GOING」が会員向けに発行している会報誌「ヒダマリ画報」の編集長。[Jリーグ開幕当初からの熱心な](../Page/日本プロサッカーリーグ.md "wikilink")[浦和レッズの](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")[サポーターであり](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")、ライブで同チームのユニフォームのレプリカを着用していたことがあるほか、過去に数度サッカー誌『[Footival](https://ja.wikipedia.org/wiki/Footival "wikilink")』で選手と対談したことがある。
-    中学一年生の時に松本とバンドを始めるまでは[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")を志していた。現在でも携帯コンテンツやファンクラブ会報等で自作の漫画を公開している。
+    中学一年生の時に松本とバンドを始めるまでは[漫画家](../Page/漫画家.md "wikilink")を志していた。現在でも携帯コンテンツやファンクラブ会報等で自作の漫画を公開している。
     ラーメン好き。
     元[BEAT CRUSADERSのカトウタロウとのツインギターユニット](../Page/BEAT_CRUSADERS.md "wikilink")「[ナカザタロウ](https://ja.wikipedia.org/wiki/ナカザタロウ "wikilink")」名義で活動を行っている。
 
@@ -79,7 +79,7 @@
 
   -
     [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")出身、血液型A型。メンバー中唯一の大卒者。
-    通称「いっさん」。2009年夏よりプレイング・マネージャーとしてバンドのマネジメントも担当している。「同じ月を見てた」の[PVで主演しているほか](../Page/ミュージック・ビデオ.md "wikilink")、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")の番組「ゴゴイチ！」の番組内企画で制作されたドラマ「2分40秒」（備考参照）、映画「[ハミングライフ](https://ja.wikipedia.org/wiki/ハミングライフ_\(映画\) "wikilink")」などに出演している。趣味は[パチスロ](../Page/パチスロ.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")で、桶川市の2部のサッカーチームに所属もしている。
+    通称「いっさん」。2009年夏よりプレイング・マネージャーとしてバンドのマネジメントも担当している。「同じ月を見てた」の[PVで主演しているほか](../Page/ミュージック・ビデオ.md "wikilink")、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")の番組「ゴゴイチ！」の番組内企画で制作されたドラマ「2分40秒」（備考参照）、映画「[ハミングライフ](../Page/ハミングライフ_\(映画\).md "wikilink")」などに出演している。趣味は[パチスロ](../Page/パチスロ.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")で、桶川市の2部のサッカーチームに所属もしている。
     2012年4月のTBS系ドラマ「[ATARU](https://ja.wikipedia.org/wiki/ATARU "wikilink")」の主題歌として[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")が描き下ろした「[自由へ道連れ](https://ja.wikipedia.org/wiki/自由へ道連れ "wikilink")」(2012年5月16日リリース)にベースとして参加。
     ファンクラブ会報によると120万円するという[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")65年製フルオリジナルを使用している。
 
@@ -337,7 +337,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/9月11日.md" title="wikilink">9月11日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホーム_(GOING_UNDER_GROUNDのアルバム)" title="wikilink">ホーム</a></p></td>
+<td><p><a href="../Page/ホーム_(GOING_UNDER_GROUNDのアルバム).md" title="wikilink">ホーム</a></p></td>
 <td><p>VICL-60926</p></td>
 </tr>
 <tr class="even">
@@ -713,8 +713,8 @@
 ### 映画
 
   - **トワイライト**・**さえないブルー** - 『[銀のエンゼル](../Page/銀のエンゼル_\(映画\).md "wikilink")』（[鈴井貴之](../Page/鈴井貴之.md "wikilink")監督／2004年12月18日公開）主題歌
-  - **ハミングライフ**・**ion** -『[ハミングライフ](https://ja.wikipedia.org/wiki/ハミングライフ_\(映画\) "wikilink")』（[窪田崇](../Page/窪田崇.md "wikilink")監督／2006年1月13日公開）主題歌
-  - **サンキュー** - 『[彩恋 SAI-REN](https://ja.wikipedia.org/wiki/彩恋_SAI-REN "wikilink")』（[飯塚健](https://ja.wikipedia.org/wiki/飯塚健 "wikilink")監督・2007年8月4日公開）挿入歌
+  - **ハミングライフ**・**ion** -『[ハミングライフ](../Page/ハミングライフ_\(映画\).md "wikilink")』（[窪田崇](../Page/窪田崇.md "wikilink")監督／2006年1月13日公開）主題歌
+  - **サンキュー** - 『[彩恋 SAI-REN](https://ja.wikipedia.org/wiki/彩恋_SAI-REN "wikilink")』（[飯塚健](../Page/飯塚健.md "wikilink")監督・2007年8月4日公開）挿入歌
   - **さかさまワールド** - 『[タクミくんシリーズ そして春風にささやいて](https://ja.wikipedia.org/wiki/タクミくんシリーズ_\(映画\) "wikilink")』（[横山一洋](https://ja.wikipedia.org/wiki/横山一洋 "wikilink")監督／2007年12月22日公開）主題歌
   - **RAW LIFE** - 『[行け\!男子高校演劇部](https://ja.wikipedia.org/wiki/行け!男子高校演劇部 "wikilink")』（ [英勉](https://ja.wikipedia.org/wiki/英勉 "wikilink")監督・[池田鉄洋](../Page/池田鉄洋.md "wikilink")脚本／2011年8月6日公開）主題歌
   - **愛なんて** - 『[ハラがコレなんで](https://ja.wikipedia.org/wiki/ハラがコレなんで "wikilink")』（[石井裕也監督](../Page/石井裕也_\(映画監督\).md "wikilink")／2011年11月5日公開）主題歌

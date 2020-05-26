@@ -140,7 +140,7 @@ sin(j); a=B*T*D-E*W; XClearWindow(e,z); t=T*E+ D*B*W; j+=d*_*D-_*F*E; P=W*E*B-T*
 ## 関連項目
 
   - [プログラミング作法](../Page/プログラミング作法.md "wikilink")
-  - [可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")
+  - [可読性](../Page/可読性.md "wikilink")
   - [難読化コード](https://ja.wikipedia.org/wiki/難読化コード "wikilink")
   - [難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")
   - [Obfuscated Perl Contest](https://ja.wikipedia.org/wiki/:en:Obfuscated_Perl_Contest "wikilink")

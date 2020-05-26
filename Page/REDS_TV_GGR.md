@@ -77,7 +77,7 @@
   - 試合内容分析（Vチェック）
   - 対戦チームデータ分析
   - 選手インタビュー
-  - [赤菱のイレブン](https://ja.wikipedia.org/wiki/赤菱のイレブン "wikilink")（[古沢優](../Page/古沢優.md "wikilink")原作の4コマ漫画）
+  - [赤菱のイレブン](../Page/赤菱のイレブン.md "wikilink")（[古沢優](../Page/古沢優.md "wikilink")原作の4コマ漫画）
 
 <!-- end list -->
 

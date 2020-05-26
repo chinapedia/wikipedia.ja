@@ -57,7 +57,7 @@
 <!-- end list -->
 
   - 制作 - 肥田光久
-  - 企画 - [岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")
+  - 企画 - [岡田斗司夫](../Page/岡田斗司夫.md "wikilink")
   - プロデューサー - 風間康介、児玉ともじ、堤広司郎
   - 原作 - [池沢さとし](https://ja.wikipedia.org/wiki/池沢さとし "wikilink")
   - 監督 - 栗山美秀

@@ -66,7 +66,7 @@
   - [羅本新二](../Page/羅本新二.md "wikilink")（内野手） - 1978年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[ヤクルトスワローズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
   - [近田豊年](../Page/近田豊年.md "wikilink")（投手） - 1987年ドラフト外で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [猪久保吾一](../Page/猪久保吾一.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 1988年ドラフト外で[ロッテオリオンズに入団](../Page/千葉ロッテマリーンズ.md "wikilink")（退団後）
-  - [葉室太郎](https://ja.wikipedia.org/wiki/葉室太郎 "wikilink")（捕手） - 1988年ドラフト外で[オリックス・ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
+  - [葉室太郎](../Page/葉室太郎.md "wikilink")（捕手） - 1988年ドラフト外で[オリックス・ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
   - [湯舟敏郎](../Page/湯舟敏郎.md "wikilink")（投手） - ドラフト1位で[阪神タイガース](../Page/阪神タイガース.md "wikilink")に入団
   - [高宮和也](../Page/高宮和也.md "wikilink")（投手） - 大学生・社会人ドラフト[希望入団枠で](../Page/希望入団枠制度.md "wikilink")[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [宮崎充登](../Page/宮崎充登.md "wikilink")（投手） - 大学生・社会人ドラフト希望入団枠で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団

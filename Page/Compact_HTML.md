@@ -29,6 +29,6 @@
 ## 関連項目
 
   - [Wireless Markup Language](../Page/Wireless_Markup_Language.md "wikilink")
-  - [モバイルブラウザ](https://ja.wikipedia.org/wiki/モバイルブラウザ "wikilink")
+  - [モバイルブラウザ](../Page/モバイルブラウザ.md "wikilink")
 
 [Category:携帯電話ブラウジング](https://ja.wikipedia.org/wiki/Category:携帯電話ブラウジング "wikilink") [Category:マークアップ言語](https://ja.wikipedia.org/wiki/Category:マークアップ言語 "wikilink") [Category:HTML](https://ja.wikipedia.org/wiki/Category:HTML "wikilink") [Category:W3C勧告](https://ja.wikipedia.org/wiki/Category:W3C勧告 "wikilink")

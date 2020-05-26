@@ -26,7 +26,7 @@
   - [NeoCore XMS](../Page/NeoCore.md "wikilink")
     独自のDigital Pattern Processingによる「超高速」「やわらかい」が特徴である。
   - [Oracle XML DB](https://ja.wikipedia.org/wiki/Oracle_XML_DB "wikilink") (RDB)
-    米国[Oracle社が開発](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")・販売している、[Oracle DatabaseのXMLDB機能](../Page/Oracle_Database.md "wikilink")。
+    米国[Oracle社が開発](../Page/オラクル_\(企業\).md "wikilink")・販売している、[Oracle DatabaseのXMLDB機能](../Page/Oracle_Database.md "wikilink")。
   - [Tamino](https://ja.wikipedia.org/wiki/Tamino "wikilink")
     ドイツ [Software AG](https://ja.wikipedia.org/wiki/Software_AG "wikilink") 社が開発した、世界で最も売れているXMLDB。
   - [TX1](https://ja.wikipedia.org/wiki/TX1 "wikilink")

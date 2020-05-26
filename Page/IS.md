@@ -40,7 +40,7 @@
 
 ### 作品タイトル
 
-  - [IS〜男でも女でもない性〜](https://ja.wikipedia.org/wiki/IS〜男でも女でもない性〜 "wikilink") - [六花チヨ](../Page/六花チヨ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及びこれを原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。半陰陽（インターセクシュアル（Intersexual））をテーマとしている。
+  - [IS〜男でも女でもない性〜](../Page/IS〜男でも女でもない性〜.md "wikilink") - [六花チヨ](../Page/六花チヨ.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及びこれを原作とした[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。半陰陽（インターセクシュアル（Intersexual））をテーマとしている。
   - [IS 〈インフィニット・ストラトス〉](https://ja.wikipedia.org/wiki/IS_〈インフィニット・ストラトス〉 "wikilink") - [弓弦イズル](https://ja.wikipedia.org/wiki/弓弦イズル "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")作品、及びこれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。また、作中に登場するメカの名称でもある。
   - [iS internal section](https://ja.wikipedia.org/wiki/iS_internal_section "wikilink") - 3D[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
   - [I"s](../Page/I"s.md "wikilink") - [桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")の漫画作品。

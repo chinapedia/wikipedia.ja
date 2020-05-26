@@ -25,7 +25,7 @@
 14. [D［di:］](../Page/D［di:］.md "wikilink")「FIRE STAR MAN」
 15. [谷口ジロー](../Page/谷口ジロー.md "wikilink")「孵化」
 16. [エミール・ブラヴォ](https://ja.wikipedia.org/wiki/エミール・ブラヴォ "wikilink")（フランス）「審判は12人目の選手\!」
-17. [マックス・カバンヌ](https://ja.wikipedia.org/wiki/マックス・カバンヌ "wikilink")（フランス）「ペナルティエリア」
+17. [マックス・カバンヌ](../Page/マックス・カバンヌ.md "wikilink")（フランス）「ペナルティエリア」
 18. [黒田硫黄](../Page/黒田硫黄.md "wikilink")「Schweitzer」
 19. [寺田克也](../Page/寺田克也.md "wikilink")「BOX\!」
 20. [フランソワ・シュテイン](https://ja.wikipedia.org/wiki/フランソワ・シュテイン "wikilink")&[ブノワ・ペータース](https://ja.wikipedia.org/wiki/ブノワ・ペータース "wikilink")（[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")）「ガラトグラート発 驚異の勝利\!」

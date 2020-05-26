@@ -5,9 +5,9 @@
 
 ## 人物
 
-1985年、広島修道大学の後輩たちと結成した「NUT'S」で、第30回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")つま恋本選会に出場。
+1985年、広島修道大学の後輩たちと結成した「NUT'S」で、第30回[ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")つま恋本選会に出場。
 
-1987年、長原裕三（第31回[ポプコンつま恋本選会グランプリ](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")）らとFLEXを結成。バンドエクスプロージョン世界大会に出場。
+1987年、長原裕三（第31回[ポプコンつま恋本選会グランプリ](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")）らとFLEXを結成。バンドエクスプロージョン世界大会に出場。
 
 解散後は主に[アレンジャー](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")として活動。
 
@@ -80,7 +80,7 @@
 **[AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink")**
 
   - **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**
-      - 「[ロマンス、イラネ](https://ja.wikipedia.org/wiki/ロマンス、イラネ "wikilink")」（編曲）
+      - 「[ロマンス、イラネ](../Page/ロマンス、イラネ.md "wikilink")」（編曲）
       - 「[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")」（編曲）
 
 <!-- end list -->
@@ -126,7 +126,7 @@
   - 「[雨模様](https://ja.wikipedia.org/wiki/pocket_people "wikilink")」（編曲）
   - 「[あのとき](https://ja.wikipedia.org/wiki/with_the_best "wikilink")」（編曲）
 
-**[Club Prince](https://ja.wikipedia.org/wiki/Club_Prince "wikilink")**
+**[Club Prince](../Page/Club_Prince.md "wikilink")**
 
   - 「真夏のアッチッチ〜ノ\!」（編曲）
 
@@ -215,7 +215,7 @@
 
 <!-- end list -->
 
-  - **[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")**
+  - **[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
       - 「[ペルソナ・ゲーム](https://ja.wikipedia.org/wiki/Reboot!!! "wikilink")」（編曲）
       - 「[fantastic Ride](https://ja.wikipedia.org/wiki/ABC_STAR_LINE "wikilink")」（編曲）
       - 「[テレパシーOne\! Two\!](https://ja.wikipedia.org/wiki/5_Performer-Z "wikilink")」（編曲）
@@ -233,7 +233,7 @@
 <!-- end list -->
 
   - **[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")**
-      - 「[イッツ マイ ソウル](https://ja.wikipedia.org/wiki/イッツ_マイ_ソウル "wikilink")」（編曲）
+      - 「[イッツ マイ ソウル](../Page/イッツ_マイ_ソウル.md "wikilink")」（編曲）
       - 「[ワッハッハー](../Page/ワッハッハー.md "wikilink")」（編曲）
       - 「[torn](https://ja.wikipedia.org/wiki/無責任ヒーロー "wikilink")」（編曲）
       - 「[一秒 KISS](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\) "wikilink")」（編曲）
@@ -398,10 +398,10 @@
       - 「[ルーズなMorning](../Page/SMAP_007〜Gold_Singer〜.md "wikilink")」（編曲・ギター）
       - 「[それが僕の答え](../Page/SMAP_007〜Gold_Singer〜.md "wikilink")」（編曲）
       - 「[Theme of 007 (James Bond Theme)](../Page/SMAP_007〜Gold_Singer〜.md "wikilink")」（編曲）
-      - 「[Theme of 008 piano sonata no.8](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX "wikilink")」（編曲）
-      - 「[お茶でもどうかな?](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX "wikilink")」（編曲）
-      - 「[恋にうつつのCrazy](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX "wikilink")」（編曲）
-      - 「[恋があるから世の中です](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX "wikilink")」（編曲）
+      - 「[Theme of 008 piano sonata no.8](../Page/SMAP_008_TACOMAX.md "wikilink")」（編曲）
+      - 「[お茶でもどうかな?](../Page/SMAP_008_TACOMAX.md "wikilink")」（編曲）
+      - 「[恋にうつつのCrazy](../Page/SMAP_008_TACOMAX.md "wikilink")」（編曲）
+      - 「[恋があるから世の中です](../Page/SMAP_008_TACOMAX.md "wikilink")」（編曲）
       - 「[Harlem River Drive](../Page/SMAP_009.md "wikilink")」（編曲）
       - 「[Theme of 012](../Page/SMAP_012_VIVA_AMIGOS!.md "wikilink")」（作曲・編曲）
       - 「[Possession Possession](../Page/SMAP_012_VIVA_AMIGOS!.md "wikilink")」（編曲）
@@ -571,8 +571,8 @@
 
 **[ZONE](../Page/ZONE_\(バンド\).md "wikilink")**
 
-  - 「[GOOD DAYS](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")」（編曲）
-  - 「[fortune](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")」（編曲）
+  - 「[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")」（編曲）
+  - 「[fortune](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")」（編曲）
 
 **[大国男児](https://ja.wikipedia.org/wiki/大国男児 "wikilink")**
 
@@ -798,13 +798,13 @@
 
   - 「[ハルモニア](../Page/ハルモニア_\(RYTHEMの曲\).md "wikilink")」（編曲）
   - 「[てんきゅっ](../Page/ハルモニア_\(RYTHEMの曲\).md "wikilink")」（編曲）
-  - 「[万華鏡キラキラ](https://ja.wikipedia.org/wiki/万華鏡キラキラ "wikilink")」（編曲）
-  - 「[ラプンツェル](https://ja.wikipedia.org/wiki/万華鏡キラキラ "wikilink")」（編曲）
-  - 「[ホウキ雲](https://ja.wikipedia.org/wiki/ホウキ雲 "wikilink")」（編曲）
-  - 「[名を持つ人へ](https://ja.wikipedia.org/wiki/ホウキ雲 "wikilink")」（編曲）
-  - 「[三日月ラプソディー](https://ja.wikipedia.org/wiki/三日月ラプソディー "wikilink")」（編曲）
-  - 「[20粒のココロ](https://ja.wikipedia.org/wiki/20粒のココロ "wikilink")」（編曲）
-  - 「[Dear Friend](https://ja.wikipedia.org/wiki/20粒のココロ "wikilink")」（編曲）
+  - 「[万華鏡キラキラ](../Page/万華鏡キラキラ.md "wikilink")」（編曲）
+  - 「[ラプンツェル](../Page/万華鏡キラキラ.md "wikilink")」（編曲）
+  - 「[ホウキ雲](../Page/ホウキ雲.md "wikilink")」（編曲）
+  - 「[名を持つ人へ](../Page/ホウキ雲.md "wikilink")」（編曲）
+  - 「[三日月ラプソディー](../Page/三日月ラプソディー.md "wikilink")」（編曲）
+  - 「[20粒のココロ](../Page/20粒のココロ.md "wikilink")」（編曲）
+  - 「[Dear Friend](../Page/20粒のココロ.md "wikilink")」（編曲）
   - 「[ココロビーダマ](../Page/ココロビーダマ.md "wikilink")」（編曲）
   - 「[ピカソの休日](../Page/願い_\(RYTHEMの曲\).md "wikilink")」（編曲）
   - 「[風船雲](../Page/ウタタネ.md "wikilink")」（編曲）

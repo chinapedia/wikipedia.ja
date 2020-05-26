@@ -201,7 +201,7 @@
 <tr class="even">
 <td><p>2010年12月12日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">昭和60年会鍋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大島洋平" title="wikilink">大島洋平</a>、<a href="../Page/堂上剛裕.md" title="wikilink">堂上剛裕</a>、<a href="https://ja.wikipedia.org/wiki/山内壮馬" title="wikilink">山内壮馬</a>、<a href="https://ja.wikipedia.org/wiki/谷哲也" title="wikilink">谷哲也</a>、<a href="../Page/中川裕貴.md" title="wikilink">中川裕貴</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大島洋平" title="wikilink">大島洋平</a>、<a href="../Page/堂上剛裕.md" title="wikilink">堂上剛裕</a>、<a href="https://ja.wikipedia.org/wiki/山内壮馬" title="wikilink">山内壮馬</a>、<a href="../Page/谷哲也.md" title="wikilink">谷哲也</a>、<a href="../Page/中川裕貴.md" title="wikilink">中川裕貴</a></p></td>
 <td></td>
 <td><p>無し</p></td>
 <td></td>
@@ -273,7 +273,7 @@
 <tr class="odd">
 <td><p>2012年12月23日</p></td>
 <td><p>沖縄吉見組鍋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉見一起" title="wikilink">吉見一起</a>、小林正人、大野雄大、<a href="https://ja.wikipedia.org/wiki/西川健太郎" title="wikilink">西川健太郎</a>、<a href="https://ja.wikipedia.org/wiki/小熊凌祐" title="wikilink">小熊凌祐</a>、<a href="https://ja.wikipedia.org/wiki/住田ワタリ" title="wikilink">住田ワタリ</a>コーチ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉見一起" title="wikilink">吉見一起</a>、小林正人、大野雄大、<a href="https://ja.wikipedia.org/wiki/西川健太郎" title="wikilink">西川健太郎</a>、<a href="https://ja.wikipedia.org/wiki/小熊凌祐" title="wikilink">小熊凌祐</a>、<a href="../Page/住田ワタリ.md" title="wikilink">住田ワタリ</a>コーチ</p></td>
 <td></td>
 <td><p>内藤尚行</p></td>
 <td><p>沖縄の自主トレ時に収録</p></td>

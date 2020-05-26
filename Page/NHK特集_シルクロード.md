@@ -35,7 +35,7 @@
 
 1.  遙かなり[長安](../Page/長安.md "wikilink")（1980年[4月7日](../Page/4月7日.md "wikilink")）
 2.  [黄河](../Page/黄河.md "wikilink")を越えて 〜[河西回廊](../Page/河西回廊.md "wikilink")1000キロ〜（1980年[5月5日](../Page/5月5日.md "wikilink")）
-3.  [敦煌](../Page/敦煌市.md "wikilink")（1980年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
+3.  [敦煌](../Page/敦煌市.md "wikilink")（1980年[6月2日](../Page/6月2日.md "wikilink")）
 4.  幻の[黒水城](https://ja.wikipedia.org/wiki/カラ・ホト "wikilink")（1980年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")）
 5.  [楼蘭](../Page/楼蘭.md "wikilink")王国を掘る（1980年[8月4日](../Page/8月4日.md "wikilink")）
 6.  流砂の道 〜[西域南道](https://ja.wikipedia.org/wiki/西域南道 "wikilink")2000キロ〜（1980年[9月1日](../Page/9月1日.md "wikilink")）

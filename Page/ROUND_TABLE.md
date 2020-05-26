@@ -578,7 +578,7 @@
             『[かぜよみ](https://ja.wikipedia.org/wiki/かぜよみ "wikilink")』収録
         **マジックナンバー** - 作曲・編曲
           -
-            テレビアニメ『[こばと。](https://ja.wikipedia.org/wiki/こばと。 "wikilink")』オープニングテーマ
+            テレビアニメ『[こばと。](../Page/こばと。.md "wikilink")』オープニングテーマ
             『[マジックナンバー](https://ja.wikipedia.org/wiki/マジックナンバー_\(坂本真綾の曲\) "wikilink")』収録
         **手紙** - 作曲・編曲
           -

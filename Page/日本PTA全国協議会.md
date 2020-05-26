@@ -55,7 +55,7 @@
 
 ## 関連項目
 
-  - [民間情報教育局](https://ja.wikipedia.org/wiki/民間情報教育局 "wikilink")
+  - [民間情報教育局](../Page/民間情報教育局.md "wikilink")
   - [低俗番組](../Page/低俗番組.md "wikilink")
   - [放送倫理・番組向上機構](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink") (BPO)
   - [民間放送教育協会](../Page/民間放送教育協会.md "wikilink")

@@ -5,7 +5,7 @@
 
 ## 解説
 
-インターネット投票によりファンのリクエストが高かった上位20曲を、DISC1（1位から10位）とDISC2（11位から20位）に10曲ずつ収録し、DISC3はアルバム未収録のC/W曲と未発売の応募特典曲を収録している。当初はDISC1とDISC2の2枚組と発表されていたが、C/W曲の収録を望むファンから強い要望により、3枚組になったという経緯がある。全曲リマスタリングされているが、同じくリマスタリングされた20周年記念ボックス『["WORLD HERITAGE" DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』よりこちらの音量レベルが大きくなっている（マスタリングエンジニアのスタイルの違いによる）。
+インターネット投票によりファンのリクエストが高かった上位20曲を、DISC1（1位から10位）とDISC2（11位から20位）に10曲ずつ収録し、DISC3はアルバム未収録のC/W曲と未発売の応募特典曲を収録している。当初はDISC1とDISC2の2枚組と発表されていたが、C/W曲の収録を望むファンから強い要望により、3枚組になったという経緯がある。全曲リマスタリングされているが、同じくリマスタリングされた20周年記念ボックス『["WORLD HERITAGE" DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』よりこちらの音量レベルが大きくなっている（マスタリングエンジニアのスタイルの違いによる）。
 
 なお、[EPIC時代に限られるため](../Page/エピックレコードジャパン.md "wikilink")、[Rojam Entertainment及び](../Page/Rojam_Entertainment.md "wikilink")、[YOSHIMOTO R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")（再始動）以降の楽曲はリクエスト対象外となっている。ただし[TRUE KiSS DiSC時代の楽曲は](../Page/TRUE_KiSS_DiSC.md "wikilink")[SME傘下であるため](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、リクエスト対象となった。
 

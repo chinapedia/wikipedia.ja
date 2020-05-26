@@ -1,7 +1,7 @@
 > この記事は[DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA)から翻訳されています。
 
 
-**DEF.DIVA**（デフ.ディヴァ）は、元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[安倍なつみ](../Page/安倍なつみ.md "wikilink")・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、及びソロ歌手の[松浦亜弥](../Page/松浦亜弥.md "wikilink")の計4人で結成された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のヴォーカルユニット。
+**DEF.DIVA**（デフ.ディヴァ）は、元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[安倍なつみ](../Page/安倍なつみ.md "wikilink")・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")、及びソロ歌手の[松浦亜弥](../Page/松浦亜弥.md "wikilink")の計4人で結成された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のヴォーカルユニット。
 
 ## 概要
 

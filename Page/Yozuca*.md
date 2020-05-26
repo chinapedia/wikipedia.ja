@@ -209,7 +209,7 @@
   - 2007年[12月26日](../Page/12月26日.md "wikilink")発売 / LACA-5725 / Lantis
       - **MagusTale OriginalSoundTrack YGGDRASILL**
           - アイノチカラ
-              - PCゲーム『[MagusTale 〜世界樹と恋する魔法使い〜](https://ja.wikipedia.org/wiki/MagusTale_〜世界樹と恋する魔法使い〜 "wikilink")』ED主題歌
+              - PCゲーム『[MagusTale 〜世界樹と恋する魔法使い〜](../Page/MagusTale_〜世界樹と恋する魔法使い〜.md "wikilink")』ED主題歌
               - 作詞：yozuca\* / 作曲・編曲：田辺トシノ
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")発売 / LACA-9108 - LACA-9109 / Lantis
       - **[milktub 15th ANNIVERSARY BEST ALBUM BPM200 ROCK'N'ROLL SHOW](https://ja.wikipedia.org/wiki/milktub_15th_ANNIVERSARY_BEST_ALBUM_BPM200_ROCK'N'ROLL_SHOW "wikilink")**
@@ -234,13 +234,13 @@
           - 静かなる決意
           - サクラキミニエム (TVサイズ)
           - サクラ アマネク セカイ (TVサイズ)
-  - 2008年[8月15日](../Page/8月15日.md "wikilink")発売 / WPL-0005 / [Whirlpool](https://ja.wikipedia.org/wiki/Whirlpool_\(ゲームブランド\) "wikilink")
+  - 2008年[8月15日](../Page/8月15日.md "wikilink")発売 / WPL-0005 / [Whirlpool](../Page/Whirlpool_\(ゲームブランド\).md "wikilink")
       - **Whirlpool ボーカルソング集 Vol.1 brilliant**
           - アイノチカラ
   - 2008年[12月24日](../Page/12月24日.md "wikilink")発売 / KDSD-00252 / TEAM Entertainment
       - **コラボレーションアルバム メッセージ**
           - I コトバ
-              - 作詞：yozuca\* / 作曲・編曲：[佐野信義](https://ja.wikipedia.org/wiki/佐野信義 "wikilink")
+              - 作詞：yozuca\* / 作曲・編曲：[佐野信義](../Page/佐野信義.md "wikilink")
   - 2008年[12月25日](../Page/12月25日.md "wikilink")発売 / LACA-5837 / Lantis
       - **[喰霊 -零- イメージソング集 百合ームコロッケ](https://ja.wikipedia.org/wiki/百合ームコロッケ "wikilink")**
           - Reality awake
@@ -455,7 +455,7 @@
 | 記憶の海                                                                                                                     | テレビアニメ『[School Days](../Page/School_Days_\(アニメ\).md "wikilink")』エンディングテーマ                                                                                         |                                                                                                                                                  |
 | サクラキミニエム                                                                                                                 | テレビアニメ『[D.C.II 〜ダ・カーポII〜](https://ja.wikipedia.org/wiki/D.C.II_〜ダ・カーポII〜#D.C.II_〜ダ・カーポII〜 "wikilink")』オープニングテーマ                                                   |                                                                                                                                                  |
 | 愛しい人よ 〜I want to sing for you〜                                                                                           | テレビアニメ『D.C.II 〜ダ・カーポII〜』挿入歌                                                                                                                                       |                                                                                                                                                  |
-| アイノチカラ                                                                                                                   | パソコンゲーム『[MagusTale 〜世界樹と恋する魔法使い〜](https://ja.wikipedia.org/wiki/MagusTale_〜世界樹と恋する魔法使い〜 "wikilink")』エンディングテーマ                                                     |                                                                                                                                                  |
+| アイノチカラ                                                                                                                   | パソコンゲーム『[MagusTale 〜世界樹と恋する魔法使い〜](../Page/MagusTale_〜世界樹と恋する魔法使い〜.md "wikilink")』エンディングテーマ                                                                        |                                                                                                                                                  |
 | true love song                                                                                                           | テレビアニメ『[true tears](https://ja.wikipedia.org/wiki/true_tears_\(アニメ\) "wikilink")』イメージソング                                                                          | 2008年                                                                                                                                            |
 | サクラ アマネク セカイ                                                                                                             | テレビアニメ『[D.C.II S.S. 〜ダ・カーポII セカンドシーズン〜](https://ja.wikipedia.org/wiki/D.C.II_〜ダ・カーポII〜#D.C.II_S.S._〜ダ・カーポII_セカンドシーズン〜 "wikilink")』オープニングテーマ                       |                                                                                                                                                  |
 | love☆mind                                                                                                                | テレビアニメ『D.C.II S.S. 〜ダ・カーポII セカンドシーズン〜』挿入歌                                                                                                                         |                                                                                                                                                  |

@@ -37,7 +37,7 @@
 
 同年[5月31日](../Page/5月31日.md "wikilink")、「metronome」でインディーズデビュー。6月12日付け[オリコンインディーズチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。
 
-同年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、[渋谷O-EASTでのレコ発ワンマンライブ](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")「露薔薇ノ宴」にて1000名を動員。
+同年[6月2日](../Page/6月2日.md "wikilink")、[渋谷O-EASTでのレコ発ワンマンライブ](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")「露薔薇ノ宴」にて1000名を動員。
 
 同年[7月25日](../Page/7月25日.md "wikilink")、[MUSIC ON\! TVにて初のレギュラー番組](../Page/MUSIC_ON!_TV.md "wikilink")「夢ヶ丘レジデンス」がスタート。金曜日のMCを担当。
 

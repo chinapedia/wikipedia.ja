@@ -55,7 +55,7 @@ AirMacカードおよびAirMac Extremeカードは[Macintosh](../Page/Macintosh.
 
 なおMacintoshのうち、IEEE 802.11n規格に対応するのは[CPU](../Page/CPU.md "wikilink")に[Intel Core 2 Duo](../Page/Intel_Core_2.md "wikilink")[プロセッサ](../Page/プロセッサ.md "wikilink")を採用する製品（iMacの最下位モデルを除く）とAirMac Extremeカードのある[Mac Proに限られる](../Page/Mac_Pro.md "wikilink")。また、初期の製品については別途802.11n Enablerが必要となる。802.11n Enablerはベースステーションに同梱されるほか、アップルから1.99ドル（日本では250円）で提供される。
 
-2007年8月7日、**AirMac Extreme 802.11n (第 2 世代)** MB053J/Aが発表された。有線LANポートが[ギガビット・イーサネット](https://ja.wikipedia.org/wiki/ギガビット・イーサネット "wikilink")化された。
+2007年8月7日、**AirMac Extreme 802.11n (第 2 世代)** MB053J/Aが発表された。有線LANポートが[ギガビット・イーサネット](../Page/ギガビット・イーサネット.md "wikilink")化された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")、Firmware 7.3.1\[9\]とTime Machine Update\[10\]により、IEEE 802.11n対応機種が一見[Time Machineへ対応したかに見えるが](../Page/Time_Machine_\(ソフトウェア\).md "wikilink")、実際には問題があり、サポート外の利用となる\[11\]。これまで同様に公式には対応していない\[12\]。
 

@@ -16,7 +16,7 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）、シングル『Candy』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。全農ヨープレイトのCM曲に起用されるがヒットには至らなかった。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年）、初期メンバーの山下と山本が脱退し、田口、米川が新メンバーとして加入。セカンドシングル『瞳少女』が[ロート製薬](../Page/ロート製薬.md "wikilink")「[なみだロート](../Page/ロート製薬の製品.md "wikilink")」のCM曲に、両A面の『チリドッグがお気に入り』が[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")「[ファミリア](../Page/マツダ・ファミリア.md "wikilink")」のCM曲に起用される\[1\]。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）、バンド名を**C-C-B**に変更（関口はC-N-Bを提案したが、渡辺が「読みやすいしゴロも良い」とC-C-Bに決めた。当時、ファンクラブ「May Club」会報には「C・Boys」との呼称表記もみられる）。
-  - 起死回生をかけた3枚目のシングル『[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")』が[TBSテレビ](../Page/TBSテレビ.md "wikilink")で連続ドラマ『[毎度おさわがせします](../Page/毎度おさわがせします.md "wikilink")』（1985年1月8日放送開始）オープニングテーマ曲に起用される。同年1月25日リリース。同年2月21日、『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』の“今週のスポットライト”に出演。そのカラフルな髪色や当時は珍しかった[電子ドラム](https://ja.wikipedia.org/wiki/電子ドラム "wikilink")のシモンズを叩きながらドラマーがリードボーカルをとるスタイルも話題となり、一躍ブレイク。以降は、[松本隆](../Page/松本隆.md "wikilink")・[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")コンビによる[ポップスで次々とヒットを飛ばした](../Page/ポピュラー音楽.md "wikilink")。
+  - 起死回生をかけた3枚目のシングル『[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")』が[TBSテレビ](../Page/TBSテレビ.md "wikilink")で連続ドラマ『[毎度おさわがせします](../Page/毎度おさわがせします.md "wikilink")』（1985年1月8日放送開始）オープニングテーマ曲に起用される。同年1月25日リリース。同年2月21日、『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』の“今週のスポットライト”に出演。そのカラフルな髪色や当時は珍しかった[電子ドラム](https://ja.wikipedia.org/wiki/電子ドラム "wikilink")のシモンズを叩きながらドラマーがリードボーカルをとるスタイルも話題となり、一躍ブレイク。以降は、[松本隆](../Page/松本隆.md "wikilink")・[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")コンビによる[ポップスで次々とヒットを飛ばした](../Page/ポピュラー音楽.md "wikilink")。
 
 <!-- end list -->
 
@@ -173,7 +173,7 @@
 
 1.  **[Candy](../Page/Candy_\(C-C-Bの曲\).md "wikilink")** （1983年6月1日）
 2.  **[瞳少女](../Page/瞳少女.md "wikilink")** （1984年7月25日）
-3.  **[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")** （1985年1月25日）
+3.  **[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")** （1985年1月25日）
 4.  **[スクール・ガール](../Page/スクール・ガール.md "wikilink")** （1985年4月25日）
 5.  **[Lucky Chanceをもう一度](https://ja.wikipedia.org/wiki/Lucky_Chanceをもう一度 "wikilink")** （1985年8月21日）
 6.  **[空想Kiss](../Page/空想Kiss.md "wikilink")** （1985年11月27日）
@@ -186,7 +186,7 @@
 13. **[恋文（ラブレター）](../Page/恋文_\(C-C-Bの曲\).md "wikilink")** （1988年4月13日）
 14. **[信じていれば](https://ja.wikipedia.org/wiki/信じていれば "wikilink")** （1988年10月25日）
 15. **[Love Is Magic](../Page/Love_Is_Magic.md "wikilink")** （1989年4月25日）
-16. **[Romanticが止まらない Remix Version](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")** （2005年2月23日）
+16. **[Romanticが止まらない Remix Version](../Page/Romanticが止まらない.md "wikilink")** （2005年2月23日）
 
 ### 12インチシングル
 

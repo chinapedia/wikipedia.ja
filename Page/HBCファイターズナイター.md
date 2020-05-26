@@ -257,7 +257,7 @@ HBCラジオは[JRNと](../Page/ジャパン・ラジオ・ネットワーク.md
 
 #### 過去の解説者
 
-  - [荒井昭吾](https://ja.wikipedia.org/wiki/荒井昭吾 "wikilink")（2004年{{\#tag:ref|6月29日の対ロッテ（当時の中継告知<ref>[2004年7月当時のHBCラジオファイターズ中継公式サイト（6月15日 - 9月21日の中継予定告知あり）](https://web.archive.org/web/20040706195225/http://www.hbc.co.jp:80/fighters_radio/)
+  - [荒井昭吾](../Page/荒井昭吾.md "wikilink")（2004年{{\#tag:ref|6月29日の対ロッテ（当時の中継告知<ref>[2004年7月当時のHBCラジオファイターズ中継公式サイト（6月15日 - 9月21日の中継予定告知あり）](https://web.archive.org/web/20040706195225/http://www.hbc.co.jp:80/fighters_radio/)
 
 `※インターネットアーカイブ同6日付保存キャッシュ`</ref>`）|group="注"}}。日本ハム球団職員の立場で出演）`
 

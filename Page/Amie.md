@@ -1,7 +1,7 @@
 > この記事は[Amie](https://ja.wikipedia.org/wiki/Amie)から翻訳されています。
 
 
-『**Amie**』（あみ）は、[講談社](../Page/講談社.md "wikilink")からかつて発行されていた[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。雑誌名の[由来は](https://ja.wikipedia.org/wiki/#名称の由来 "wikilink")[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「[友達](https://ja.wikipedia.org/wiki/友達 "wikilink")」を意味する「amie」。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月創刊。「ちょっと大人のなかよし」をキャッチフレーズに、『なかよし』を卒業した年齢を対象にした[少女漫画](../Page/少女漫画.md "wikilink")を掲載。Amie活字シアターと称して[小説](../Page/小説.md "wikilink")も掲載した。
+『**Amie**』（あみ）は、[講談社](../Page/講談社.md "wikilink")からかつて発行されていた[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。雑誌名の[由来は](https://ja.wikipedia.org/wiki/#名称の由来 "wikilink")[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「[友達](https://ja.wikipedia.org/wiki/友達 "wikilink")」を意味する「amie」。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月創刊。「ちょっと大人のなかよし」をキャッチフレーズに、『なかよし』を卒業した年齢を対象にした[少女漫画](../Page/少女漫画.md "wikilink")を掲載。Amie活字シアターと称して[小説](../Page/小説.md "wikilink")も掲載した。
 
 人気漫画家を抱え人気作品もあったが、発行部数が伸びず[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月に休刊した。その後は『[なかよし](../Page/なかよし.md "wikilink")』の増刊として不定期に発行されたが、[1999年](../Page/1999年.md "wikilink")初夏号以降は発行がなく、事実上の廃刊となった。連載されていた作品は『なかよし』『[なかよしラブリー](../Page/なかよしラブリー.md "wikilink")』に移行するか、書き下ろしとなっている。一説には『なかよし』の不振のあおりを食らったとも言われている。『[ARiA](https://ja.wikipedia.org/wiki/ARIA_\(雑誌\) "wikilink")』が創刊された[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで講談社に後継の漫画雑誌はなく、『Amie』で執筆・デビューした漫画家があぶれる事態が生じた。
 

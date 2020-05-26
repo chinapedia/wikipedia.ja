@@ -28,7 +28,7 @@
     <!-- end list -->
     1.  風の中のソリテア
     2.  あなたがいるから
-  - [ポーリュシカ・ポーレ](https://ja.wikipedia.org/wiki/ポーリュシカ・ポーレ "wikilink")“Le Vent Vert”〜Le Temps Bleu〜
+  - [ポーリュシカ・ポーレ](../Page/ポーリュシカ・ポーレ.md "wikilink")“Le Vent Vert”〜Le Temps Bleu〜
       - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売（EMIミュージック・ジャパン）
     <!-- end list -->
     1.  ポーリュシカ・ポーレ“Le Vent Vert”〜Le Temps Bleu〜

@@ -26,7 +26,7 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
     Jungle Smile活動休止後の[2004年](../Page/2004年.md "wikilink")、[CMソングの製作にボーカルとして参加する](../Page/コマーシャルソング.md "wikilink")。
     [2006年](../Page/2006年.md "wikilink")に[チャリティー](../Page/チャリティー.md "wikilink")[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")に[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")参加し「抱きしめたい」1曲だけを歌う。[翌年にも同じくチャリティーコンサートに請われ再び参加](../Page/2007年.md "wikilink")、「抱きしめたい」と「風をおこそう」を歌唱する。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の同コンサートでは**高木いくの**として正式にクレジットされ、「恐竜のヘリコプター」「希望」「おなじ星」「抱きしめたい」、この日のために作った「生きる」を歌った。また、ソロ活動を準備中であることと、本人による[ホームページ](http://www.ikunov.net/)が開設されることが表明された。
-    [2011年](../Page/2011年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") より、FM-NIIGATA Nature City 妙高で、パーソナリティーを勤めている。
+    [2011年](../Page/2011年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink") より、FM-NIIGATA Nature City 妙高で、パーソナリティーを勤めている。
   - [吉田ゐさお](../Page/吉田ゐさお.md "wikilink")（よしだ いさお、本名、**吉田功**、[1972年](../Page/1972年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - ）
     [作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")、Region Conduct等。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")出身。
     Jungle Smile活動休止後は[作曲](../Page/作曲.md "wikilink")[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[舞台](../Page/舞台.md "wikilink")[俳優](../Page/俳優.md "wikilink")として幅広い分野で活動中。[2006年](../Page/2006年.md "wikilink")には[CORE OF SOULの](../Page/CORE_OF_SOUL.md "wikilink")[飯塚啓介](https://ja.wikipedia.org/wiki/飯塚啓介 "wikilink")と[音楽ユニット](../Page/音楽ユニット.md "wikilink")「[マイコン兄弟](https://ja.wikipedia.org/wiki/マイコン兄弟 "wikilink")」を結成。

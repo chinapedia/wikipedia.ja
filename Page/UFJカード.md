@@ -173,7 +173,7 @@ Arubaraは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../P
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/京成パンダ" title="wikilink">京成カード</a></p></td>
+<td><p><a href="../Page/京成パンダ.md" title="wikilink">京成カード</a></p></td>
 <td><p>MasterCard</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/京成電鉄" title="wikilink">京成電鉄</a></p></td>
 <td><p><a href="../Page/PASMO.md" title="wikilink">PASMO</a>オートチャージ対応</p></td>

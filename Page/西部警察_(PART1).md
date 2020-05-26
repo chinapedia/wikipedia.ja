@@ -307,7 +307,7 @@
 <td><p>峯尾基三</p></td>
 <td><p>渡辺拓也</p></td>
 <td><p>2月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/根岸一正" title="wikilink">根岸一正</a>、<a href="https://ja.wikipedia.org/wiki/庄司三郎" title="wikilink">庄司三郎</a>、<a href="https://ja.wikipedia.org/wiki/檀喧太" title="wikilink">檀喧太</a>、<a href="https://ja.wikipedia.org/wiki/野坂信一" title="wikilink">野坂信一</a>、<a href="https://ja.wikipedia.org/wiki/影山英俊" title="wikilink">影山英俊</a>、久遠利三、福岡正剛、<a href="https://ja.wikipedia.org/wiki/秋野陽介" title="wikilink">秋野陽介</a>、川部修司、<a href="https://ja.wikipedia.org/wiki/渋谷明美" title="wikilink">渋谷明美</a>、<a href="https://ja.wikipedia.org/wiki/高橋晃子" title="wikilink">高橋晃子</a>、<a href="https://ja.wikipedia.org/wiki/佐藤あさみ" title="wikilink">佐藤あさみ</a>、<a href="https://ja.wikipedia.org/wiki/大貫一美" title="wikilink">大貫一美</a>、加藤勝、<a href="https://ja.wikipedia.org/wiki/管秀樹" title="wikilink">管秀樹</a>、<a href="https://ja.wikipedia.org/wiki/石川敏" title="wikilink">石川敏</a></p></td>
+<td><p><a href="../Page/根岸一正.md" title="wikilink">根岸一正</a>、<a href="https://ja.wikipedia.org/wiki/庄司三郎" title="wikilink">庄司三郎</a>、<a href="https://ja.wikipedia.org/wiki/檀喧太" title="wikilink">檀喧太</a>、<a href="https://ja.wikipedia.org/wiki/野坂信一" title="wikilink">野坂信一</a>、<a href="https://ja.wikipedia.org/wiki/影山英俊" title="wikilink">影山英俊</a>、久遠利三、福岡正剛、<a href="https://ja.wikipedia.org/wiki/秋野陽介" title="wikilink">秋野陽介</a>、川部修司、<a href="https://ja.wikipedia.org/wiki/渋谷明美" title="wikilink">渋谷明美</a>、<a href="https://ja.wikipedia.org/wiki/高橋晃子" title="wikilink">高橋晃子</a>、<a href="https://ja.wikipedia.org/wiki/佐藤あさみ" title="wikilink">佐藤あさみ</a>、<a href="https://ja.wikipedia.org/wiki/大貫一美" title="wikilink">大貫一美</a>、加藤勝、<a href="https://ja.wikipedia.org/wiki/管秀樹" title="wikilink">管秀樹</a>、<a href="https://ja.wikipedia.org/wiki/石川敏" title="wikilink">石川敏</a></p></td>
 <td><p>13.0%</p></td>
 <td></td>
 </tr>
@@ -872,7 +872,7 @@
 <td><p><strong>出発</strong></p></td>
 <td><p>新井光</p></td>
 <td><p>3月15日</p></td>
-<td><p><a href="../Page/砂塚秀夫.md" title="wikilink">砂塚秀夫</a>、大下哲矢、<a href="https://ja.wikipedia.org/wiki/西田良" title="wikilink">西田良</a>、吾桐芳雄、石山雄大、戸塚孝、<a href="https://ja.wikipedia.org/wiki/梶悦子" title="wikilink">梶悦子</a>、滝川龍之助、<a href="https://ja.wikipedia.org/wiki/亜蘭美香" title="wikilink">亜蘭美香</a>、<a href="https://ja.wikipedia.org/wiki/清水るり子" title="wikilink">清水るり子</a>、湯原昌幸</p></td>
+<td><p><a href="../Page/砂塚秀夫.md" title="wikilink">砂塚秀夫</a>、大下哲矢、<a href="../Page/西田良.md" title="wikilink">西田良</a>、吾桐芳雄、石山雄大、戸塚孝、<a href="https://ja.wikipedia.org/wiki/梶悦子" title="wikilink">梶悦子</a>、滝川龍之助、<a href="https://ja.wikipedia.org/wiki/亜蘭美香" title="wikilink">亜蘭美香</a>、<a href="https://ja.wikipedia.org/wiki/清水るり子" title="wikilink">清水るり子</a>、湯原昌幸</p></td>
 <td><p>16.1%</p></td>
 <td><p>BOX2</p></td>
 <td></td>
@@ -1143,7 +1143,7 @@
 <td><p><strong>爆弾を抱く少女</strong></p></td>
 <td><p><a href="../Page/那須真知子.md" title="wikilink">那須真知子</a></p></td>
 <td><p>10月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/好井ひとみ" title="wikilink">好井ひとみ</a>、森山周一郎、船水俊宏、浜口竜哉、荻原賢三、今村文則、遠山孝一、緒方光平、<a href="https://ja.wikipedia.org/wiki/関好秀" title="wikilink">関好秀</a></p></td>
+<td><p><a href="../Page/好井ひとみ.md" title="wikilink">好井ひとみ</a>、森山周一郎、船水俊宏、浜口竜哉、荻原賢三、今村文則、遠山孝一、緒方光平、<a href="https://ja.wikipedia.org/wiki/関好秀" title="wikilink">関好秀</a></p></td>
 <td><p>17.1%</p></td>
 <td><p>BOX3</p></td>
 <td></td>

@@ -407,7 +407,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/決戦前夜_(曲)" title="wikilink">決戦前夜</a></strong></p></td>
 <td><p>TKCA-74356</p></td>
 <td><p>-</p></td>
-<td><p>テレビアニメ<a href="https://ja.wikipedia.org/wiki/うしおととら" title="wikilink">うしおととら</a>第3クールのエンディングテーマ</p></td>
+<td><p>テレビアニメ<a href="../Page/うしおととら.md" title="wikilink">うしおととら</a>第3クールのエンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>配信</p></td>

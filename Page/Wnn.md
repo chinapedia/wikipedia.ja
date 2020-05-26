@@ -73,7 +73,7 @@ Wnnの各言語版
     変換エンジン280KB、基本辞書4.4MB\[11\]。
     "i"は***i**ntelligent・**i**ndividual・**i**ntegrated・**i**nternational*の4つのiに由来する。文脈や現在の日時から時制や季節を判断する機能、[ワイルドカードにより予測候補を絞り込む機能](../Page/ワイルドカード_\(情報処理\).md "wikilink")（[インクリメンタルサーチ](../Page/インクリメンタルサーチ.md "wikilink")）、多言語対応などAdvanced Wnnと比較して大幅な機能向上が行われている。
   - OpenWnn
-    iWnnを[Apache v2ライセンスでオープンソース化したもの](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。Android Open Source Project上で公開されている\[12\]。
+    iWnnを[Apache v2ライセンスでオープンソース化したもの](../Page/Apache_License.md "wikilink")。Android Open Source Project上で公開されている\[12\]。
 
 [携帯電話](../Page/携帯電話.md "wikilink")では、[三洋電機](../Page/三洋電機.md "wikilink")（鳥取三洋電機→[三洋電機コンシューマエレクトロニクス](https://ja.wikipedia.org/wiki/三洋電機コンシューマエレクトロニクス "wikilink")を含む）、[京セラ](../Page/京セラ.md "wikilink")、[パナソニック モバイルコミュニケーションズ](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")、[シャープ](../Page/シャープ.md "wikilink")（2010年以降発売の機種）、[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")（[POBox](../Page/POBox.md "wikilink")との組み合わせ）、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[モトローラ](../Page/モトローラ.md "wikilink")、[韓](../Page/大韓民国.md "wikilink")[サムスン電子](../Page/サムスン電子.md "wikilink")の製品にWnnシリーズが組み込まれている。
 

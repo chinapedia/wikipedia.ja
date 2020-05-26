@@ -586,7 +586,7 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
 <td><p>「スキナツ」(出演:<a href="../Page/武蔵_(格闘家).md" title="wikilink">武蔵</a>・<a href="../Page/武智健二.md" title="wikilink">武智健二</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/松本剛_(映像作家)" title="wikilink">松本剛</a></p></td>
+<td><p><a href="../Page/松本剛_(映像作家).md" title="wikilink">松本剛</a></p></td>
 <td><p>「2度目のファーストキス」(出演:<a href="../Page/コッセこういち.md" title="wikilink">コッセこういち</a>)</p></td>
 </tr>
 <tr class="even">

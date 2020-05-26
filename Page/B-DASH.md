@@ -966,7 +966,7 @@ XLCN-71010:通常盤</p></td>
 <li><strong>カマたまご / B-DASH</strong></li>
 <li>Good Luck Homies feat.山猿 / <a href="https://ja.wikipedia.org/wiki/LGYankees" title="wikilink">LGYankees</a></li>
 <li>俺 / <a href="../Page/スキップカウズ.md" title="wikilink">スキップカウズ</a></li>
-<li>RED / <a href="https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR" title="wikilink">HIGH and MIGHTY COLOR</a></li>
+<li>RED / <a href="../Page/HIGH_and_MIGHTY_COLOR.md" title="wikilink">HIGH and MIGHTY COLOR</a></li>
 <li>サヨナラを告げる歌 / <a href="https://ja.wikipedia.org/wiki/ジルバ_(バンド)" title="wikilink">ジルバ</a></li>
 <li>Bluebird is Dead / <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
 <li>Rock'n'Roll Graffiti / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>

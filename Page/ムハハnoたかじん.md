@@ -79,7 +79,7 @@
 
 | 放送日         | ゲスト                                                                                                | 備考 |
 | ----------- | -------------------------------------------------------------------------------------------------- | -- |
-| 2004年10月15日 | [星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")                                              |    |
+| 2004年10月15日 | [星野仙一](../Page/星野仙一.md "wikilink")                                                                 |    |
 | 2004年10月22日 | [保阪尚希](../Page/保阪尚希.md "wikilink")                                                                 |    |
 | 2004年10月29日 | [細木数子](https://ja.wikipedia.org/wiki/細木数子 "wikilink")                                              |    |
 | 2004年11月12日 | [原久美子](../Page/原久美子.md "wikilink")、[メッセンジャー黒田](https://ja.wikipedia.org/wiki/メッセンジャー黒田 "wikilink") |    |
@@ -282,7 +282,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006年11月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/羽賀研二" title="wikilink">羽賀研二</a></p></td>
+<td><p><a href="../Page/羽賀研二.md" title="wikilink">羽賀研二</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -603,7 +603,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008年5月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/貴乃花光司" title="wikilink">貴乃花</a></p></td>
+<td><p><a href="../Page/貴乃花光司.md" title="wikilink">貴乃花</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -648,7 +648,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年7月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/姜尚中" title="wikilink">姜尚中</a></p></td>
+<td><p><a href="../Page/姜尚中.md" title="wikilink">姜尚中</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">

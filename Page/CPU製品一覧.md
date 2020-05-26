@@ -24,7 +24,7 @@ __TOC__
   - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")
   - [サイリックス](../Page/サイリックス.md "wikilink") - VIA Technologiesへ。
   - [ザイログ](../Page/ザイログ.md "wikilink")
-  - [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink") - 2010年1月27日、[オラクルによる買収が完了し](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、同社の完全子会社となった。
+  - [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink") - 2010年1月27日、[オラクルによる買収が完了し](../Page/オラクル_\(企業\).md "wikilink")、同社の完全子会社となった。
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
   - [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")
   - [東芝](../Page/東芝.md "wikilink")
@@ -370,7 +370,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
   - [6502](../Page/MOS_6502.md "wikilink") - [1976年](../Page/1976年.md "wikilink")
   - [6510](https://ja.wikipedia.org/wiki/MOS_6510 "wikilink")
-  - [65816](../Page/65816_\(コンピュータ\).md "wikilink") -([ウェスタンデザインセンター](https://ja.wikipedia.org/wiki/ウェスタンデザインセンター "wikilink"))
+  - [65816](../Page/65816_\(コンピュータ\).md "wikilink") -([ウェスタンデザインセンター](../Page/ウェスタンデザインセンター.md "wikilink"))
 
 ### フリースケール・セミコンダクタ
 

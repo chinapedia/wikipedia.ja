@@ -5,7 +5,7 @@
 
 [東京都](../Page/東京都.md "wikilink")出身。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はタレントとしては[A-PLUS](../Page/A-PLUS.md "wikilink")、歌手活動では[Being](https://ja.wikipedia.org/wiki/Being "wikilink")に所属。
 
-母方の[祖父は元](https://ja.wikipedia.org/wiki/祖父母 "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員で、[第74代](../Page/竹下内閣.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[竹下登](../Page/竹下登.md "wikilink")。父は竹下登の秘書を務め、後に[KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink")の役員（常務社長室長）に就いた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。姉は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")。妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")\[2\]。
+母方の[祖父は元](https://ja.wikipedia.org/wiki/祖父母 "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員で、[第74代](../Page/竹下内閣.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[竹下登](../Page/竹下登.md "wikilink")。父は竹下登の秘書を務め、後に[KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink")の役員（常務社長室長）に就いた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。姉は[漫画家](../Page/漫画家.md "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")。妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")\[2\]。
 
 [2003年](../Page/2003年.md "wikilink")、**DAIGO☆STARDUST**（ダイゴ☆スターダスト）の[芸名](../Page/芸名.md "wikilink")で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。[2007年](../Page/2007年.md "wikilink")、BREAKERZ結成を機にDAIGOに[改名](../Page/改名.md "wikilink")した。
 
@@ -79,7 +79,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - 妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")。
   - 父は[毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")[政治部記者](../Page/政治部記者.md "wikilink")を経て、竹下登の[秘書](../Page/秘書.md "wikilink")を務めた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。父方の祖父は建設会社社長の[内藤用一郎](https://ja.wikipedia.org/wiki/内藤用一郎 "wikilink")。
   - 母は竹下登の次女・まる子で、母方の祖母は[竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")。
-  - 3人[姉弟の次男](../Page/兄弟姉妹.md "wikilink")（末っ子）で姉と兄がおり、姉の栄子（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")）と、その2歳下の一般人の兄\[75\]。
+  - 3人[姉弟の次男](../Page/兄弟姉妹.md "wikilink")（末っ子）で姉と兄がおり、姉の栄子（[漫画家](../Page/漫画家.md "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")）と、その2歳下の一般人の兄\[75\]。
   - 母方の曽祖父は[島根県議会](https://ja.wikipedia.org/wiki/島根県議会 "wikilink")議員を務めた[竹下勇造](../Page/竹下勇造.md "wikilink")。
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")の代表取締役社長、[エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")の取締役を務めている金丸康信（[金丸信](../Page/金丸信.md "wikilink")の長男）は伯父（伯母〈母の姉〉の夫）で、その長女（従姉）はかつて姉・影木と共に[同人活動をしていた](https://ja.wikipedia.org/wiki/同人#漫画の同人 "wikilink")。
   - 竹下家の親戚には、[卓球](../Page/卓球.md "wikilink")選手の[石川佳純](../Page/石川佳純.md "wikilink")もいる。

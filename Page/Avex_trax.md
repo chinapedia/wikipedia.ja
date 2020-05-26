@@ -322,7 +322,7 @@
   - [carezza](https://ja.wikipedia.org/wiki/carezza "wikilink") (2007年)
   - CHRIS (2003年〜2004年)
   - [CLAZZIQUAI PROJECT](../Page/CLAZZIQUAI_PROJECT.md "wikilink") (2005年〜2007年)
-  - [Club Prince](https://ja.wikipedia.org/wiki/Club_Prince "wikilink") (2007年〜2008年)
+  - [Club Prince](../Page/Club_Prince.md "wikilink") (2007年〜2008年)
   - [coba](https://ja.wikipedia.org/wiki/coba "wikilink") (2012年)
   - [COVERLAND](https://ja.wikipedia.org/wiki/COVERLAND "wikilink") (2008年〜2009年)
   - [D\&D](../Page/D&D_\(音楽ユニット\).md "wikilink") (1996年〜1998年)
@@ -376,7 +376,7 @@
   - [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink") (2003年)
   - [KEN☆Tackey](https://ja.wikipedia.org/wiki/KEN☆Tackey "wikilink") (2018年)
   - [Kids Alive](../Page/Kids_Alive.md "wikilink") (2002年〜2003年)（活動休止）
-      - ボーカルYutaは後に[Club Princeとして一時期再度所属](https://ja.wikipedia.org/wiki/Club_Prince "wikilink")
+      - ボーカルYutaは後に[Club Princeとして一時期再度所属](../Page/Club_Prince.md "wikilink")
   - [KUMACHI](../Page/KUMACHI.md "wikilink") (2003年〜2004年)
   - [Lego big morl](https://ja.wikipedia.org/wiki/Lego_big_morl "wikilink") (2009年)
   - [LeChat](https://ja.wikipedia.org/wiki/LeChat "wikilink") (2018年)日本クラウンに移籍
@@ -483,7 +483,7 @@
       - [聖飢魔II](../Page/聖飢魔II.md "wikilink") (2009年)
           - [デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") (2007年〜2012年)
       - [メガマソ](https://ja.wikipedia.org/wiki/メガマソ "wikilink") (2009年〜2010年)
-      - [D](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink") (2008年〜2010年)
+      - [D](../Page/D_\(バンド\).md "wikilink") (2008年〜2010年)
       - [kannivalism](https://ja.wikipedia.org/wiki/kannivalism "wikilink") (2006年〜2010年)
       - [LUNA SEA](../Page/LUNA_SEA.md "wikilink") (2008年)
           - [河村隆一](../Page/河村隆一.md "wikilink") (2009年〜2013年)

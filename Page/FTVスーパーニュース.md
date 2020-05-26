@@ -154,7 +154,7 @@
 <tr class="even">
 <td><p>2009.3.30</p></td>
 <td><p>2011.6.25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/米田元気" title="wikilink">米田元気</a><sup>2</sup></p></td>
+<td><p><a href="../Page/米田元気.md" title="wikilink">米田元気</a><sup>2</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011.6.27</p></td>
@@ -301,7 +301,7 @@
       - 山元香里
       - 坂部友宏
       - 堤友香
-      - [名和田知加](https://ja.wikipedia.org/wiki/名和田知加 "wikilink")
+      - [名和田知加](../Page/名和田知加.md "wikilink")
       - 関口由香里
       - [藤川貴央](https://ja.wikipedia.org/wiki/藤川貴央 "wikilink")
 

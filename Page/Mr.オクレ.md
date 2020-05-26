@@ -52,7 +52,7 @@
   - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[やんちゃくれ](../Page/やんちゃくれ.md "wikilink")』（1998年 - [1999年](../Page/1999年.md "wikilink")、NHK） - 奥田寛一 役
   - 連続テレビ小説『[あすか](../Page/あすか_\(テレビドラマ\).md "wikilink")』（1999年 - [2000年](../Page/2000年.md "wikilink")、NHK） - 桑田 役
   - 連続テレビ小説『[てるてる家族](../Page/てるてる家族.md "wikilink")』（[2003年](../Page/2003年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")、NHK） - 復員兵
-  - 連続テレビ小説『[だんだん](https://ja.wikipedia.org/wiki/だんだん "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [2009年](../Page/2009年.md "wikilink")、NHK） - ライブハウス「ワイルドダック」マスター 役
+  - 連続テレビ小説『[だんだん](../Page/だんだん.md "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [2009年](../Page/2009年.md "wikilink")、NHK） - ライブハウス「ワイルドダック」マスター 役
   - [はぐれ刑事純情派](../Page/はぐれ刑事純情派.md "wikilink") 第16シリーズ「安浦刑事が殴った女」（2003年、テレビ朝日系・東映） - 矢沢恵一
   - [ぼくの魔法使い](../Page/ぼくの魔法使い.md "wikilink") 第2話「変身解決\! 極道編」（2003年、日本テレビ系）
   - [ホームレス中学生2](https://ja.wikipedia.org/wiki/ホームレス中学生#テレビドラマ版 "wikilink")（2009年、フジテレビ系）

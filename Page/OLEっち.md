@@ -3,7 +3,7 @@
 
 **OLEっち**（おれっち）は、[2003年](../Page/2003年.md "wikilink")4月から[2006年](../Page/2006年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")まで放送された首都圏の独立系FM局[bayfm](../Page/ベイエフエム.md "wikilink")（製作幹事局）と[NACK5で](../Page/エフエムナックファイブ.md "wikilink")、毎週金曜18:00～19:00に同時放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。DJは[ポカスカジャン](../Page/ポカスカジャン.md "wikilink")と[きゃんひとみ](../Page/きゃんひとみ.md "wikilink")。
 
-なお、[2005年](../Page/2005年.md "wikilink")6月までは[FM Yokohama](../Page/横浜エフエム放送.md "wikilink")、[RBCiラジオでも放送されていた](../Page/琉球放送.md "wikilink")。当時の放送時間は、[首都圏のFM](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")3局が金曜18:00～19:00の放送、RBCiラジオのみ当日の深夜0:00～1:00。2005年4月からは木曜深夜 (金曜未明) 0:00～1:00になった。又2005年9月頃まで[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")と、きゃんのコンビでDJを担当していた。
+なお、[2005年](../Page/2005年.md "wikilink")6月までは[FM Yokohama](../Page/横浜エフエム放送.md "wikilink")、[RBCiラジオでも放送されていた](../Page/琉球放送.md "wikilink")。当時の放送時間は、[首都圏のFM](../Page/首都圏_\(日本\).md "wikilink")3局が金曜18:00～19:00の放送、RBCiラジオのみ当日の深夜0:00～1:00。2005年4月からは木曜深夜 (金曜未明) 0:00～1:00になった。又2005年9月頃まで[赤坂泰彦](../Page/赤坂泰彦.md "wikilink")と、きゃんのコンビでDJを担当していた。
 
 ## 概要
 

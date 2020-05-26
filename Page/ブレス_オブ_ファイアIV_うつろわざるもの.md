@@ -137,7 +137,7 @@
 ### 漫画
 
   - うつろわざるもの〜ブレス オブ ファイア4〜
-    本作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化。[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[月刊コミックブレイドアヴァルス](https://ja.wikipedia.org/wiki/月刊コミックブレイドアヴァルス "wikilink")』[2007年](../Page/2007年.md "wikilink")11月号より連載。全5巻。作画は[壱村仁](https://ja.wikipedia.org/wiki/壱村仁 "wikilink")。
+    本作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化。[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[月刊コミックブレイドアヴァルス](https://ja.wikipedia.org/wiki/月刊コミックブレイドアヴァルス "wikilink")』[2007年](../Page/2007年.md "wikilink")11月号より連載。全5巻。作画は[壱村仁](https://ja.wikipedia.org/wiki/壱村仁 "wikilink")。
       - 第1巻 2008年6月10日発行 ISBN 978-4-86127-503-6
       - 第2巻 2008年11月10日発行 ISBN 978-4-86127-556-2
       - 第3巻 2009年4月10日発行 ISBN 978-4-86127-623-1

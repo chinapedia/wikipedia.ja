@@ -433,7 +433,7 @@
 
 ::; 「Smile Again」（第16話 - 第25話）
 
-::: 作詞・作曲 - [妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink") / 編曲 - 妹尾武、[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink") / 歌 - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink")
+::: 作詞・作曲 - [妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink") / 編曲 - 妹尾武、[羽岡佳](../Page/羽岡佳.md "wikilink") / 歌 - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink")
 
 ::; 「Rainbow」（第26話）
 

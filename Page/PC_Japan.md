@@ -15,7 +15,7 @@
 
 ## 関連項目
 
-  - [コミデジ+](../Page/コミデジ+.md "wikilink") - [ブロッコリー編集](../Page/ブロッコリー_\(企業\).md "wikilink")・[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。本誌の増刊として[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで刊行されていた。
+  - [コミデジ+](../Page/コミデジ+.md "wikilink") - [ブロッコリー編集](../Page/ブロッコリー_\(企業\).md "wikilink")・[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")発行の[漫画雑誌](../Page/漫画雑誌.md "wikilink")。本誌の増刊として[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで刊行されていた。
   - [PC USER](https://ja.wikipedia.org/wiki/PC_USER "wikilink")
 
 ## 外部リンク

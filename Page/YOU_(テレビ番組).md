@@ -461,7 +461,7 @@
 <td><p>35</p></td>
 <td><p>1月8日</p></td>
 <td><p>'83ぼくらは今占い気分！</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野仙一" title="wikilink">星野仙一</a>、<a href="../Page/日高敏隆.md" title="wikilink">日高敏隆</a></p></td>
+<td><p><a href="../Page/星野仙一.md" title="wikilink">星野仙一</a>、<a href="../Page/日高敏隆.md" title="wikilink">日高敏隆</a></p></td>
 <td><p><a href="../Page/三遊亭圓丈.md" title="wikilink">三遊亭圓丈</a><br />
 （聞き手：<a href="../Page/石川小百合.md" title="wikilink">石川小百合</a>）</p></td>
 <td></td>

@@ -19,7 +19,7 @@
 
 ### 大会の巨大化
 
-1990年代以降、[ソ連や](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ユーゴスラビアの崩壊](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")、および[スロバキア](../Page/スロバキア.md "wikilink")の分離独立などにより、UEFAの加盟国数も増加した。それに加えてサッカーという競技そのものの商業主義化により、年々大会規模は大きくなっている。[1996年大会から本大会出場国がそれまでの](../Page/UEFA_EURO_'96.md "wikilink")8カ国から16カ国に増加し、[2016年大会からは](https://ja.wikipedia.org/wiki/UEFA_EURO_2016 "wikilink")24カ国に増加した。この拡大構想は、欧州における中堅国へ国際大会に出場する機会を与えようと言うものである。
+1990年代以降、[ソ連や](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ユーゴスラビアの崩壊](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")、および[スロバキア](../Page/スロバキア.md "wikilink")の分離独立などにより、UEFAの加盟国数も増加した。それに加えてサッカーという競技そのものの商業主義化により、年々大会規模は大きくなっている。[1996年大会から本大会出場国がそれまでの](../Page/UEFA_EURO_'96.md "wikilink")8カ国から16カ国に増加し、[2016年大会からは](../Page/UEFA_EURO_2016.md "wikilink")24カ国に増加した。この拡大構想は、欧州における中堅国へ国際大会に出場する機会を与えようと言うものである。
 
 また、大会の巨大化が進むにつれ、ヨーロッパの中堅国では1カ国のみでの大会開催が難しい状況になりつつある。そのため、[2000年大会](../Page/UEFA_EURO_2000.md "wikilink")、[2008年大会](../Page/UEFA_EURO_2008.md "wikilink")、[2012年大会のような共同開催がスタンダード化しつつあり](../Page/UEFA_EURO_2012.md "wikilink")、2012年12月6日のUEFA理事会で[2020年大会は](https://ja.wikipedia.org/wiki/UEFA_EURO_2020 "wikilink")、欧州13カ国で分散開催する事を決定した。\[1\]
 
@@ -27,7 +27,7 @@
 
 ### 予選
 
-[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")終了後から、約1年2-3カ月程度グループ内総当り戦による[H\&Aのリーグ戦を行う](../Page/ホーム・アンド・アウェー.md "wikilink")。リーグ戦終了後、グループ次点同士によるプレーオフを行うこともある。[2016年大会については](https://ja.wikipedia.org/wiki/UEFA_EURO_2016 "wikilink")[こちらを参照されたい](https://ja.wikipedia.org/wiki/UEFA_EURO_2016予選 "wikilink")。
+[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")終了後から、約1年2-3カ月程度グループ内総当り戦による[H\&Aのリーグ戦を行う](../Page/ホーム・アンド・アウェー.md "wikilink")。リーグ戦終了後、グループ次点同士によるプレーオフを行うこともある。[2016年大会については](../Page/UEFA_EURO_2016.md "wikilink")[こちらを参照されたい](https://ja.wikipedia.org/wiki/UEFA_EURO_2016予選 "wikilink")。
 
 ### 本大会
 
@@ -247,7 +247,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2016" title="wikilink">15</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_2016.md" title="wikilink">15</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td></td>
 <td><p>'''</p></td>
@@ -1181,7 +1181,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2016" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/UEFA_EURO_2016.md" title="wikilink">2016</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アントワーヌ・グリーズマン" title="wikilink">アントワーヌ・グリーズマン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アントワーヌ・グリーズマン" title="wikilink">アントワーヌ・グリーズマン</a></p></td>
 <td><p>6</p></td>

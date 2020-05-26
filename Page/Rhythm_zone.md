@@ -36,7 +36,7 @@
   - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")（2010年 - ）
   - [marter](https://ja.wikipedia.org/wiki/marter "wikilink")（2019年 - ）
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")（1999年 - ）
-      - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（2011年）
+      - [VERBAL](../Page/VERBAL.md "wikilink")（2011年）
       - [☆Taku Takahashi](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")（2014年 - ）
   - [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")（2009年 - ）
   - [Q'ulle](https://ja.wikipedia.org/wiki/Q'ulle "wikilink")（2017年 - ）

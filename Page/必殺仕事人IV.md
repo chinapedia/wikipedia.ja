@@ -156,7 +156,7 @@
 
 :\* 正太 - 西尾正
 
-:\* 女中 - [木村仁美](https://ja.wikipedia.org/wiki/木村仁美 "wikilink")
+:\* 女中 - [木村仁美](../Page/木村仁美.md "wikilink")
 
   -
 
@@ -542,7 +542,7 @@
 
 :\* 長右衛門 - [長谷川哲夫](../Page/長谷川哲夫.md "wikilink")
 
-:\* 秋芳 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 秋芳 - [楠年明](../Page/楠年明.md "wikilink")
 
   -
 
@@ -634,7 +634,7 @@
 
   - 第35話 「田中筆頭同心 見合いする」
 
-:\* お千賀 - [速水典子](https://ja.wikipedia.org/wiki/速水典子 "wikilink")
+:\* お千賀 - [速水典子](../Page/速水典子.md "wikilink")
 
 :\* 勇二 - [石山律雄](https://ja.wikipedia.org/wiki/石山律雄 "wikilink")
 

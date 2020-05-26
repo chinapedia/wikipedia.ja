@@ -11,7 +11,7 @@
 
 2007年5月1日には[東芝](../Page/東芝.md "wikilink")から映画の製作・配給、海外映画・海外ドラマの買い付け、アニメーション作品の製作・出資、ビデオ・DVDソフトの制作・発売、権利保有映像作品の放映権販売等を手がける[東芝エンタテインメント](https://ja.wikipedia.org/wiki/東芝エンタテインメント "wikilink")の全株式を取得し、傘下に収めた。
 
-2008年[3月10日](../Page/3月10日.md "wikilink")、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")に本社を移転した。翌々月、博報堂も同ビルに本社を移転した。
+2008年[3月10日](../Page/3月10日.md "wikilink")、[赤坂サカス](../Page/赤坂サカス.md "wikilink")内[赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")に本社を移転した。翌々月、博報堂も同ビルに本社を移転した。
 
 2018年7月17日、麻雀プロリーグ「[Mリーグ](https://ja.wikipedia.org/wiki/Mリーグ "wikilink")」に参加表明。「赤坂ドリブンズ」をスポンサードする\[1\]。
 

@@ -231,7 +231,7 @@
 </tr>
 <tr class="even">
 <td><p>02月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_ギレンの野望_アクシズの脅威" title="wikilink">機動戦士ガンダム ギレンの野望 アクシズの脅威V</a></p></td>
+<td><p><a href="../Page/機動戦士ガンダム_ギレンの野望_アクシズの脅威.md" title="wikilink">機動戦士ガンダム ギレンの野望 アクシズの脅威V</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td></td>
 </tr>
@@ -579,7 +579,7 @@
 </tr>
 <tr class="even">
 <td><p>10月01日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/お掃除戦隊くりーんきーぱー" title="wikilink">お掃除戦隊くりーんきーぱー</a>H(はいぱー)</p></td>
+<td><p><a href="../Page/お掃除戦隊くりーんきーぱー.md" title="wikilink">お掃除戦隊くりーんきーぱー</a>H(はいぱー)</p></td>
 <td><p>アイディアファクトリー</p></td>
 <td><p>限定版あり</p></td>
 </tr>

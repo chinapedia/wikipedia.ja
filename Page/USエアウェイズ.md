@@ -435,8 +435,8 @@ USエアウェイズ便は慣習で「サボテン (CACTUS)」と呼ばれる。
   - [エアバス A321型機](../Page/エアバスA321.md "wikilink") 63機
   - [エアバス A330-200型機](https://ja.wikipedia.org/wiki/エアバスA330#A330-200型機 "wikilink") 7機
   - [エアバス A330-300型機](https://ja.wikipedia.org/wiki/エアバスA330#A330-300型機 "wikilink") 9機
-  - [エアバス A350-800XWB型機](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink") 0機 （18機発注中）
-  - [エアバス A350-900XWB型機](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink") 0機 （4機発注中）
+  - [エアバス A350-800XWB型機](../Page/エアバスA350_XWB.md "wikilink") 0機 （18機発注中）
+  - [エアバス A350-900XWB型機](../Page/エアバスA350_XWB.md "wikilink") 0機 （4機発注中）
 
 <!-- end list -->
 

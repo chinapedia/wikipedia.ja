@@ -32,8 +32,8 @@
 | [1999-00](https://ja.wikipedia.org/wiki/WJBL_1999-2000 "wikilink") | [Wリーグ](https://ja.wikipedia.org/wiki/バスケットボール女子日本リーグ機構 "wikilink") | 1  | 20        | 1       | 1位    | \--- |
 | [2000-01](https://ja.wikipedia.org/wiki/WJBL_2000-01 "wikilink")   | 2                                                                  | 19 | 2         | 2位      | \---  | 1    |
 | [2001-02](../Page/WJBL_2001-02.md "wikilink")                      | 3                                                                  | 18 | 3         | 2位      | 2     | 0    |
-| [2002-03](https://ja.wikipedia.org/wiki/WJBL_2002-03 "wikilink")   | 4                                                                  | 18 | 3         | 2位      | 0     | 2    |
-| [2003-04](https://ja.wikipedia.org/wiki/WJBL_2003-04 "wikilink")   | 5                                                                  | 16 | 5         | 2位      | 2     | 1    |
+| [2002-03](../Page/WJBL_2002-03.md "wikilink")                      | 4                                                                  | 18 | 3         | 2位      | 0     | 2    |
+| [2003-04](../Page/WJBL_2003-04.md "wikilink")                      | 5                                                                  | 16 | 5         | 2位      | 2     | 1    |
 | [2004-05](../Page/WJBL_2004-05.md "wikilink")                      | 6                                                                  | 19 | 2         | 1位      | 2     | 1    |
 | [2005-06](../Page/WJBL_2005-06.md "wikilink")                      | 7                                                                  | 25 | 3         | 1位      | 2     | 0    |
 | [2006-07](../Page/WJBL_2006-07.md "wikilink")                      | 8                                                                  | 19 | 9         | 3位      | 0     | 2    |

@@ -434,7 +434,7 @@
 
 ## JFN非加盟で放送する局
 
-以前はTOKYO FM（TFM）でも「**プレミアプレミアショッピング**」という名で放送されていたが短期間で終了。TFM[放送対象地域](../Page/放送対象地域.md "wikilink")である[首都圏の](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[独立放送局](../Page/独立放送局.md "wikilink")（FM）や[AM放送局で同様の番組が放送されている](../Page/中波放送.md "wikilink")。
+以前はTOKYO FM（TFM）でも「**プレミアプレミアショッピング**」という名で放送されていたが短期間で終了。TFM[放送対象地域](../Page/放送対象地域.md "wikilink")である[首都圏の](../Page/首都圏_\(日本\).md "wikilink")[独立放送局](../Page/独立放送局.md "wikilink")（FM）や[AM放送局で同様の番組が放送されている](../Page/中波放送.md "wikilink")。
 
   - [NACK5](../Page/エフエムナックファイブ.md "wikilink")（[埼玉県](../Page/埼玉県.md "wikilink")）
       -

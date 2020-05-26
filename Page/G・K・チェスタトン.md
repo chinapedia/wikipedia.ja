@@ -110,9 +110,9 @@
       - 『詩人と狂人たち　ガブリエル・ゲイルの生涯の逸話 【新訳版】』（[南條竹則](../Page/南條竹則.md "wikilink")訳、創元推理文庫：東京創元社、2016年）
   - [1930年](../Page/1930年.md "wikilink") 『4名の申し分なき重罪人』（Four Faultless Felons）
       - 『四人の申し分なき重罪人』（[西崎憲](https://ja.wikipedia.org/wiki/西崎憲 "wikilink")訳、[国書刊行会](../Page/国書刊行会.md "wikilink")、2001年／[ちくま文庫](../Page/ちくま文庫.md "wikilink")、2010年）
-  - [1935年](../Page/1935年.md "wikilink") 『[ブラウン神父の醜聞](https://ja.wikipedia.org/wiki/ブラウン神父の醜聞 "wikilink")』（The Scandal of Father Brown）
+  - [1935年](../Page/1935年.md "wikilink") 『[ブラウン神父の醜聞](../Page/ブラウン神父の醜聞.md "wikilink")』（The Scandal of Father Brown）
       - 『ブラウン神父の醜聞』（村崎敏郎訳、ハヤカワミステリ205：早川書房、1957年）
-      - 『[ブラウン神父の醜聞](https://ja.wikipedia.org/wiki/ブラウン神父の醜聞 "wikilink")』（福田恆存・中村保男訳、創元推理文庫：東京創元社、1961年。1982年に改訂され中村保男単独訳となる、改版2017年）
+      - 『[ブラウン神父の醜聞](../Page/ブラウン神父の醜聞.md "wikilink")』（福田恆存・中村保男訳、創元推理文庫：東京創元社、1961年。1982年に改訂され中村保男単独訳となる、改版2017年）
   - [1937年](../Page/1937年.md "wikilink") 『ポンド氏の逆説』（[The Paradoxes of Mr. Pond](https://ja.wikipedia.org/wiki/:en:The_Paradoxes_of_Mr._Pond "wikilink")）
       - 『ポンド氏の逆説』（福田恆存訳、創元推理文庫：東京創元社、1977年。もと1959年「世界推理小説全集56」、のちに中村保男訳名義）
       - 『ポンド氏の逆説 【新訳版】』（南條竹則訳、創元推理文庫：東京創元社、2017年）

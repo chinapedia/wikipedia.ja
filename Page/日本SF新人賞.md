@@ -11,7 +11,7 @@
 
 ## 選考委員
 
-  - 第1-3回：[小松左京](../Page/小松左京.md "wikilink")（委員長）、[大原まり子](../Page/大原まり子.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[小谷真理](https://ja.wikipedia.org/wiki/小谷真理 "wikilink")、[山田正紀](../Page/山田正紀.md "wikilink")
+  - 第1-3回：[小松左京](../Page/小松左京.md "wikilink")（委員長）、[大原まり子](../Page/大原まり子.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[小谷真理](../Page/小谷真理.md "wikilink")、[山田正紀](../Page/山田正紀.md "wikilink")
   - 第4回：[筒井康隆](../Page/筒井康隆.md "wikilink")（委員長）、[新井素子](../Page/新井素子.md "wikilink")、[井上雅彦](../Page/井上雅彦.md "wikilink")、[久美沙織](../Page/久美沙織.md "wikilink")、[谷甲州](../Page/谷甲州.md "wikilink")、[野阿梓](https://ja.wikipedia.org/wiki/野阿梓 "wikilink")
   - 第5回：[豊田有恒](../Page/豊田有恒.md "wikilink")（委員長）、新井素子、井上雅彦、久美沙織、谷甲州、野阿梓
   - 第6-7回：[夢枕獏](../Page/夢枕獏.md "wikilink")（委員長）、[北野勇作](../Page/北野勇作.md "wikilink")、[牧野修](../Page/牧野修.md "wikilink")、[ひかわ玲子](../Page/ひかわ玲子.md "wikilink")、[森岡浩之](../Page/森岡浩之.md "wikilink")

@@ -89,7 +89,7 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
   - [長崎みなみ](https://ja.wikipedia.org/wiki/長崎みなみ_\(AV監督\) "wikilink")
   - [中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")
   - [長瀬ハワイ](https://ja.wikipedia.org/wiki/長瀬ハワイ "wikilink")
-  - [浪花乱交](https://ja.wikipedia.org/wiki/浪花乱交 "wikilink")
+  - [浪花乱交](../Page/浪花乱交.md "wikilink")
   - [ナンシー](https://ja.wikipedia.org/wiki/ナンシー_\(AV女優\) "wikilink")
   - [にしくん](https://ja.wikipedia.org/wiki/にしくん "wikilink")
   - [二村ヒトシ](../Page/二村ヒトシ.md "wikilink")

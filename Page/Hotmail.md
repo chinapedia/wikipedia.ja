@@ -59,7 +59,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
 [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")での送受信だけではなく、マイクロソフトの[Outlook Express](https://ja.wikipedia.org/wiki/Outlook_Express "wikilink") (OE) や[Microsoft Outlook](../Page/Microsoft_Outlook.md "wikilink")、 [Entourageには一般的な](../Page/Microsoft_Outlook.md "wikilink")[メール転送エージェント](https://ja.wikipedia.org/wiki/メール転送エージェント "wikilink")のプロトコルである[POP3や](../Page/Post_Office_Protocol.md "wikilink")[IMAP4以外に](../Page/Internet_Message_Access_Protocol.md "wikilink")、[HTTP形式が選択でき](../Page/Hypertext_Transfer_Protocol.md "wikilink")、これによって、hotmail.com や msn.com の電子メールを送受信することが可能であった\[14\]。 その後、OE等での送受信は、有料版ユーザであるか、無料版については、以前から利用していたユーザ限定となり、新規に作成したアドレスはもちろん過去にOE等で送受信したことがないアドレスでは利用できないように制限された\[15\]。
 
-また、[ブラックベリーの](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink")では[BlackBerry Internet Serviceと連携しており](../Page/BlackBerry_Internet_Service.md "wikilink")、[プッシュ型電子メール](../Page/プッシュ型電子メール.md "wikilink")をリアルタイムで受信できる。 2004年12月9日、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")に対応\[16\]。また2005年3月29日にはNTTドコモの[FOMA](../Page/FOMA.md "wikilink")および[auの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[ezwebにも対応](../Page/EZweb.md "wikilink")\[17\]。
+また、[ブラックベリーの](../Page/ブラックベリー_\(企業\).md "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink")では[BlackBerry Internet Serviceと連携しており](../Page/BlackBerry_Internet_Service.md "wikilink")、[プッシュ型電子メール](../Page/プッシュ型電子メール.md "wikilink")をリアルタイムで受信できる。 2004年12月9日、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")に対応\[16\]。また2005年3月29日にはNTTドコモの[FOMA](../Page/FOMA.md "wikilink")および[auの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[ezwebにも対応](../Page/EZweb.md "wikilink")\[17\]。
 
 ### 保存容量
 
@@ -71,11 +71,11 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
   - 無料版、有料版のサービス内容比較
 
-| サービス名              | 料金                     | 容量          | [添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink") | [アカウント](../Page/アカウント.md "wikilink")数 | [電子メールクライアント](../Page/電子メールクライアント.md "wikilink")の使用 | 広告 | キッズセーフティー機能 | アカウント削除日数 |
-| ------------------ | ---------------------- | ----------- | --------------------------------------------------------- | ------------------------------------- | --------------------------------------------------- | -- | ----------- | --------- |
-| MSN Hotmail        | 無料                     | 5GB～　　無制限※5 | 最大10MB                                                    | 1                                     | ○※1                                                 | あり | ×           | 30日※2     |
-| MSN Hotmail Plus   | 年額2510円（一ヶ月あたり 210 円）  | 5GB～　　無制限※5 | 最大20MB                                                    | 1                                     | ○                                                   | なし | ×           | なし※3      |
-| MSN9 Premium\[21\] | 月額1344円 または 年額14679円※4 | 5GB～　　無制限※5 | 最大20MB                                                    | 10                                    | ○                                                   | なし | ○           | なし※3      |
+| サービス名              | 料金                     | 容量          | [添付ファイル](../Page/添付ファイル.md "wikilink") | [アカウント](../Page/アカウント.md "wikilink")数 | [電子メールクライアント](../Page/電子メールクライアント.md "wikilink")の使用 | 広告 | キッズセーフティー機能 | アカウント削除日数 |
+| ------------------ | ---------------------- | ----------- | -------------------------------------- | ------------------------------------- | --------------------------------------------------- | -- | ----------- | --------- |
+| MSN Hotmail        | 無料                     | 5GB～　　無制限※5 | 最大10MB                                 | 1                                     | ○※1                                                 | あり | ×           | 30日※2     |
+| MSN Hotmail Plus   | 年額2510円（一ヶ月あたり 210 円）  | 5GB～　　無制限※5 | 最大20MB                                 | 1                                     | ○                                                   | なし | ×           | なし※3      |
+| MSN9 Premium\[21\] | 月額1344円 または 年額14679円※4 | 5GB～　　無制限※5 | 最大20MB                                 | 10                                    | ○                                                   | なし | ○           | なし※3      |
 
   -
     ※1: 2009年1月に緩和され、利用可能になった。
@@ -98,7 +98,7 @@ Hotmail社時代は、[FreeBSD](../Page/FreeBSD.md "wikilink")及び[Solaris](..
 
   - 保存[容量](https://ja.wikipedia.org/wiki/容量 "wikilink")
     2GB\[28\]から2007年9月3日に5GBに拡大\[29\]。そして2009年2月6日、利用状況に応じて自動的に追加される機能が加えられ、無制限となった\[30\]。なお、使用状況はTodayページで確認できる。
-  - [添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")の容量
+  - [添付ファイル](../Page/添付ファイル.md "wikilink")の容量
     最大10MB。さらに2010年夏からのフォトメール機能を利用すれば、送信者の[アカウント](../Page/アカウント.md "wikilink")の[Windows Live SkyDriveに](https://ja.wikipedia.org/wiki/Windows_Live_SkyDrive "wikilink")[アップロード](../Page/アップロード.md "wikilink")したファイルに受信者がアクセスして受け取る方式で、最大50MBのファイルを200ファイルまでの合計10GBまで送ることができる。これはGmailの25MBの倍のサイズである。
   - セキュリティ
     情報バーの追加や、[フィッシング防止機能の向上](../Page/フィッシング_\(詐欺\).md "wikilink")。

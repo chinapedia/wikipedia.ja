@@ -71,7 +71,7 @@
   - [盛田嘉哉](../Page/盛田嘉哉.md "wikilink")（[外野手](../Page/外野手.md "wikilink")） - 退団後、[名城大学を経て](https://ja.wikipedia.org/wiki/名城大学硬式野球部 "wikilink")、1970年ドラフト7位で[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に入団
   - [宇田東植](../Page/宇田東植.md "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト4位で[東映フライヤーズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [岡田英樹](https://ja.wikipedia.org/wiki/岡田英樹_\(野球\) "wikilink")（捕手） - 1972年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[太平洋クラブライオンズに入団](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")
-  - [後藤祝秀](https://ja.wikipedia.org/wiki/後藤祝秀 "wikilink")（投手） - ドラフト2位で中日ドラゴンズに入団
+  - [後藤祝秀](../Page/後藤祝秀.md "wikilink")（投手） - ドラフト2位で中日ドラゴンズに入団
   - [谷真一](../Page/谷真一.md "wikilink")（内野手） - ドラフト2位で[近鉄バファローズに入団](../Page/大阪近鉄バファローズ.md "wikilink")
   - [伊東昭光](../Page/伊東昭光.md "wikilink")（投手） - ドラフト1位で[ヤクルトスワローズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
   - [広瀬哲朗](../Page/広瀬哲朗.md "wikilink")（内野手） - 1985年ドラフト1位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")

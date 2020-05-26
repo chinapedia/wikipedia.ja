@@ -45,7 +45,7 @@
 ### 2001年（平成13年）
 
   - 1月「マーガレット」／[hiro:n](https://ja.wikipedia.org/wiki/hiro:n "wikilink")
-  - 2月「[GOOD DAYS](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")」／[ZONE](../Page/ZONE_\(バンド\).md "wikilink")
+  - 2月「[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")」／[ZONE](../Page/ZONE_\(バンド\).md "wikilink")
   - 3月「[YELL～エール～](https://ja.wikipedia.org/wiki/YELL〜エール〜/Bell "wikilink")」／[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")
   - 4月「Hey Girl」／[FANTA ZERO COASTER](../Page/FANTA_ZERO_COASTER.md "wikilink")
   - 5月「easy game」／[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")
@@ -151,7 +151,7 @@
 
   - 1月「帰り道にて」／[磯貝サイモン](../Page/磯貝サイモン.md "wikilink")
   - 2月「風になって」／[オトナモード](../Page/オトナモード.md "wikilink")
-  - 3月「[春風LOVER SONG](https://ja.wikipedia.org/wiki/春風LOVER_SONG "wikilink")」／[CHERRYBLOSSOM](https://ja.wikipedia.org/wiki/CHERRYBLOSSOM "wikilink")
+  - 3月「[春風LOVER SONG](https://ja.wikipedia.org/wiki/春風LOVER_SONG "wikilink")」／[CHERRYBLOSSOM](../Page/CHERRYBLOSSOM.md "wikilink")
   - 4月「[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(福原美穂の曲\) "wikilink")」／[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")
   - 5月「雨傘物語」／[森翼](https://ja.wikipedia.org/wiki/森翼 "wikilink")
   - 6月「[キズナ](https://ja.wikipedia.org/wiki/キズナ_\(Hi-Fi_CAMPの曲\) "wikilink")」／[Hi-Fi CAMP](https://ja.wikipedia.org/wiki/Hi-Fi_CAMP "wikilink")
@@ -171,7 +171,7 @@
   - 7月「金魚のうた」／[さぁさ](https://ja.wikipedia.org/wiki/さぁさ "wikilink")
   - 8月「オレンジDays」／[SQUAREHOOD](https://ja.wikipedia.org/wiki/SQUAREHOOD "wikilink")
   - 9月「[Destination](https://ja.wikipedia.org/wiki/Destination_\(Sunyaの曲\) "wikilink")」／[Sunya](https://ja.wikipedia.org/wiki/Sunya "wikilink")
-  - 10月「ストーリー」／[さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+  - 10月「ストーリー」／[さかいゆう](../Page/さかいゆう.md "wikilink")
   - 11月「Why…」／[DOMINO](https://ja.wikipedia.org/wiki/DOMINO_\(ダンスユニット\) "wikilink")
   - 12月「[light prayer](https://ja.wikipedia.org/wiki/light_prayer "wikilink")」／[school food punishment](https://ja.wikipedia.org/wiki/school_food_punishment "wikilink")
 

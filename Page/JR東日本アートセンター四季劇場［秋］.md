@@ -39,7 +39,7 @@
       - [ユタと不思議な仲間たち](https://ja.wikipedia.org/wiki/ユタとふしぎな仲間たち#ミュージカル "wikilink") （8月7日 - 9月16日）
       - [ミュージカル異国の丘](../Page/ミュージカル異国の丘.md "wikilink") （10月14日 - 2002年2月10日）
   - [2002年](../Page/2002年.md "wikilink")
-      - [アンドロマック](https://ja.wikipedia.org/wiki/アンドロマック "wikilink") （2月16日 - 3月6日）
+      - [アンドロマック](../Page/アンドロマック.md "wikilink") （2月16日 - 3月6日）
       - [コンタクト](https://ja.wikipedia.org/wiki/コンタクト_\(ミュージカル\) "wikilink")（[Contact](https://ja.wikipedia.org/wiki/:en:Contact_\(musical\) "wikilink")） （3月28日 - 11月10日）
       - [赤毛のアン](../Page/赤毛のアン.md "wikilink") （11月19日 - 2003年1月5日）
   - [2003年](../Page/2003年.md "wikilink")

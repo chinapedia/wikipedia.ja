@@ -306,7 +306,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 
 ## 存廃問題
 
-Zepp Nagoya以前に設置された施設は、[2002年](../Page/2002年.md "wikilink")2月から始まる[いざなみ景気の前の](https://ja.wikipedia.org/wiki/第14循環 "wikilink")「[失われた10年](../Page/失われた10年.md "wikilink")」と呼ばれる[不景気](https://ja.wikipedia.org/wiki/不景気 "wikilink")の時期に開業した。この時期は[地価](../Page/地価.md "wikilink")が低かったものの企業の投資意欲が低く、土地を購入することなく[事業用定期借地契約を結んで土地使用する方法が流行した](https://ja.wikipedia.org/wiki/借地借家法#定期借地権・定期借家契約 "wikilink")。いくつかのZeppも同様の方法で設置されたが、複数の施設は期限を10年程度で結んだことから起因する存廃問題に直面した。
+Zepp Nagoya以前に設置された施設は、[2002年](../Page/2002年.md "wikilink")2月から始まる[いざなみ景気の前の](../Page/第14循環.md "wikilink")「[失われた10年](../Page/失われた10年.md "wikilink")」と呼ばれる[不景気](https://ja.wikipedia.org/wiki/不景気 "wikilink")の時期に開業した。この時期は[地価](../Page/地価.md "wikilink")が低かったものの企業の投資意欲が低く、土地を購入することなく[事業用定期借地契約を結んで土地使用する方法が流行した](https://ja.wikipedia.org/wiki/借地借家法#定期借地権・定期借家契約 "wikilink")。いくつかのZeppも同様の方法で設置されたが、複数の施設は期限を10年程度で結んだことから起因する存廃問題に直面した。
 
   - Zepp Osaka （閉館）
     [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月から[2009年](../Page/2009年.md "wikilink")1月の期間で、同地の土地を所有する[大阪市](../Page/大阪市.md "wikilink")および[大阪港振興協会](https://ja.wikipedia.org/wiki/大阪港振興協会 "wikilink")との間の賃貸借契約があったほか、大阪港振興協会とホールネットワークとの間で同期間の事業用定期借地契約を結んでおり\[34\]、期限までに土地所有者の大阪市へ更地にした上で返却する必要があった。このため、当初の予定では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月末の閉鎖の方向で進んでいた\[35\]。

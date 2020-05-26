@@ -26,7 +26,7 @@ CRPの産生量は炎症反応の強さに相関するため、[血清](../Page/
   - [悪性腫瘍](../Page/悪性腫瘍.md "wikilink")
   - [外傷](../Page/外傷.md "wikilink")
   - [心筋梗塞](../Page/心筋梗塞.md "wikilink")　狭心症では数値はさほど上がらないとされる。
-  - その他、炎症を起こす疾患（[胃炎](https://ja.wikipedia.org/wiki/胃炎 "wikilink")・[腸炎](https://ja.wikipedia.org/wiki/腸炎 "wikilink")など）。
+  - その他、炎症を起こす疾患（[胃炎](../Page/胃炎.md "wikilink")・[腸炎](https://ja.wikipedia.org/wiki/腸炎 "wikilink")など）。
 
 炎症反応の指標としては他に、[赤血球沈降速度](../Page/赤血球沈降速度.md "wikilink")なども用いられる。
 

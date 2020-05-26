@@ -20,7 +20,7 @@
   - ワトソン・プリチェット - [クリス・カッテン](https://ja.wikipedia.org/wiki/クリス・カッテン "wikilink")（[村治学](../Page/村治学.md "wikilink")）： 家主。
   - サラ・ウルフ - [アリ・ラーター](../Page/アリ・ラーター.md "wikilink")（[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")）： ジェニファー・ジェンセンの元秘書。
   - メリッサ・マーガレット・マー - [ブリジット・ウィルソン](https://ja.wikipedia.org/wiki/ブリジット・ウィルソン＝サンプラス "wikilink")（[日野由利加](../Page/日野由利加.md "wikilink")）： テレビ業界人。
-  - カール・シェクター - [マックス・パーリック](https://ja.wikipedia.org/wiki/マックス・パーリック "wikilink")（[北斗誓一](https://ja.wikipedia.org/wiki/北斗誓一 "wikilink")）
+  - カール・シェクター - [マックス・パーリック](https://ja.wikipedia.org/wiki/マックス・パーリック "wikilink")（[北斗誓一](../Page/北斗誓一.md "wikilink")）
   - リチャード・ベンジャミン・ヴァナカット - [ジェフリー・コムズ](https://ja.wikipedia.org/wiki/ジェフリー・コムズ "wikilink")（[大木民夫](../Page/大木民夫.md "wikilink")）： 医師。
   - 男性看護師 - [ディック・ビーブ](https://ja.wikipedia.org/wiki/ディック・ビーブ "wikilink")
   - リポーター - [リサ・ローブ](../Page/リサ・ローブ.md "wikilink")（[園田恵子](../Page/園田恵子.md "wikilink")）： チャンネル3のスタッフ。

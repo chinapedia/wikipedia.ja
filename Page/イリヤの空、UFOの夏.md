@@ -168,9 +168,9 @@
 
 ### 主題歌
 
-  - オープニングテーマ「[Forever Blue](https://ja.wikipedia.org/wiki/Forever_Blue_\(曲\) "wikilink")」
+  - オープニングテーマ「[Forever Blue](../Page/Forever_Blue_\(曲\).md "wikilink")」
     作詞・作曲 - [松浦有希](../Page/松浦有希.md "wikilink") / 編曲 - 高木洋 / 歌 - [今井ちひろ](../Page/今井ちひろ.md "wikilink")
-  - エンディングテーマ「[ひまわり](https://ja.wikipedia.org/wiki/Forever_Blue_\(曲\) "wikilink")」
+  - エンディングテーマ「[ひまわり](../Page/Forever_Blue_\(曲\).md "wikilink")」
     作詞 - [青柳美奈子](https://ja.wikipedia.org/wiki/青柳美奈子 "wikilink") / 作曲 - [表誠治](https://ja.wikipedia.org/wiki/表誠治 "wikilink") / 編曲 - 高木洋 / 歌 - 今井ちひろ
 
 ### 各巻リスト

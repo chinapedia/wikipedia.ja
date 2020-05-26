@@ -87,7 +87,7 @@ CDジャケット及びCDラベルの「LOVE PHANTOM」の"T"の表記は、[十
   - [once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")
   - [Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜](../Page/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜.md "wikilink")
   - [B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink") (特典DVD)
   - [B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2008_-GLORY_DAYS- "wikilink")
   - [B'z LIVE-GYM 2010 "Ain't No Magic" at TOKYO DOME](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2010_"Ain't_No_Magic"_at_TOKYO_DOME "wikilink")

@@ -73,7 +73,7 @@
   - [ビートたけしのお笑いウルトラクイズ](../Page/ビートたけしのお笑いウルトラクイズ.md "wikilink")（日本テレビ、第17回）
   - [芸能界大ボケだらけの天才クイズ王決定戦](https://ja.wikipedia.org/wiki/芸能界大ボケだらけの天才クイズ王決定戦 "wikilink")（フジテレビ、エキシビジョン若手戦）
   - [ウモクビ](https://ja.wikipedia.org/wiki/ウモクビ "wikilink")（フジテレビ）
-  - [AHERA](https://ja.wikipedia.org/wiki/AHERA "wikilink")（テレビ朝日）
+  - [AHERA](../Page/AHERA.md "wikilink")（テレビ朝日）
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")（TBS）
       - 1995年9月30日 土田、対馬共にカット
       - 1996年10月5日 土田カット（中間143位、予選落ち1回）、対馬98位(中間141位、予選落ち1回）

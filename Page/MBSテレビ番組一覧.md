@@ -1323,7 +1323,7 @@
   - ☆◇[料理天国](../Page/料理天国.md "wikilink")
   - ☆◇[クイズダービー](../Page/クイズダービー.md "wikilink")
   - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")
-      - ☆[ザ☆ウルトラマン](https://ja.wikipedia.org/wiki/ザ☆ウルトラマン "wikilink")
+      - ☆[ザ☆ウルトラマン](../Page/ザ☆ウルトラマン.md "wikilink")
       - ☆[ウルトラマン80](../Page/ウルトラマン80.md "wikilink")
   - ☆[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink") → ☆◇[JNNニュースの森](../Page/JNNニュースの森.md "wikilink") - 現在の『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』枠。
   - ☆◇[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink") - 現在でも放送中。

@@ -407,7 +407,7 @@
 <tr class="even">
 <td><p>0066</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Albina_-Assorted_Kudwaf_Songs-" title="wikilink">Albina -Assorted Kudwaf Songs-</a></p></td>
-<td><p>鈴田美夜子/<a href="https://ja.wikipedia.org/wiki/Duca" title="wikilink">Duca</a>/<a href="../Page/あさり☆.md" title="wikilink">あさり☆</a></p></td>
+<td><p>鈴田美夜子/<a href="../Page/Duca.md" title="wikilink">Duca</a>/<a href="../Page/あさり☆.md" title="wikilink">あさり☆</a></p></td>
 <td><p>2010年12月29日</p></td>
 <td><p>イベント限定商品</p></td>
 </tr>
@@ -478,7 +478,7 @@
 <tr class="even">
 <td><p>0078</p></td>
 <td><p>クドわふたーアレンジアルバム Albina －Assorted kudwaf Songs－</p></td>
-<td><p>鈴田美夜子/<a href="https://ja.wikipedia.org/wiki/Duca" title="wikilink">Duca</a>/<a href="../Page/あさり☆.md" title="wikilink">あさり☆</a></p></td>
+<td><p>鈴田美夜子/<a href="../Page/Duca.md" title="wikilink">Duca</a>/<a href="../Page/あさり☆.md" title="wikilink">あさり☆</a></p></td>
 <td><p>2011年12月29日</p></td>
 <td></td>
 </tr>

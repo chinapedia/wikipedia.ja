@@ -406,7 +406,7 @@
 <td><p>第6話</p></td>
 <td><p>7月9日</p></td>
 <td><p>いななけ! 愛馬アイフル</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p>とみの喜幸</p></td>
 <td><p>金山明博</p></td>
 <td><p>獣士バッド・ヘイル（声-<a href="https://ja.wikipedia.org/wiki/黒部鉄" title="wikilink">黒部鉄</a>）</p></td>
@@ -818,7 +818,7 @@
 
 国営放送で本作品の残りの回が放映されたのは、[エドゥサ革命](https://ja.wikipedia.org/wiki/エドゥサ革命 "wikilink")でマルコス政権が倒れた直後の[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")であった。そのため「ボルテスVを放映させるために革命が起き、マルコス政権が倒れた。」というジョークが語られることがあるが、この放送再開時にはかつてのような熱狂的ブームも抗議活動もなかったという。
 
-評論家の[岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")は、[1996年](../Page/1996年.md "wikilink")に出版した『[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")学入門』で、ストーリー後半が革命を示唆する内容であったため、独裁的な政権運営を行なっていた当時のマルコス政権による政治的圧力で放送が禁止された、と解釈している。「かつて国を追われた名門出の改革者で、長年の苦難を乗り越え帰国、革命を起こすラ・ゴール（地球名は剛健太郎）」は、当時亡命中で後に暗殺された元上院議員[ベニグノ・アキノを連想させなくもない](../Page/ベニグノ・アキノ・ジュニア.md "wikilink")。
+評論家の[岡田斗司夫](../Page/岡田斗司夫.md "wikilink")は、[1996年](../Page/1996年.md "wikilink")に出版した『[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")学入門』で、ストーリー後半が革命を示唆する内容であったため、独裁的な政権運営を行なっていた当時のマルコス政権による政治的圧力で放送が禁止された、と解釈している。「かつて国を追われた名門出の改革者で、長年の苦難を乗り越え帰国、革命を起こすラ・ゴール（地球名は剛健太郎）」は、当時亡命中で後に暗殺された元上院議員[ベニグノ・アキノを連想させなくもない](../Page/ベニグノ・アキノ・ジュニア.md "wikilink")。
 
 一方、フィリピン人スタッフ制作でこの問題をテーマにした番組『[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")・ドキュメンタリーアジア発』第1回「フィリピン『日本製アニメに何を見たか』－ボルテスファイブを知っていますか？－」（[1991年](../Page/1991年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")放送）では、フィリピン人から見た打ち切り問題の原因が論じられている。政治的判断によりボルテスが打ち切られたとする意見に対し、番組内では、『ボルテスV』を配給していた企業が「政界のその筋にパイプを持っていなかったため、我が社だけが不公平な扱いを受けた。ビジネスにはよくある話である」と説明している。また、上述のように第二次世界大戦後のリアルな反日感情を持ち『ボルテスV』に反対していた大人の世代と、強い反日感情を持たず「ボルテスVが面白かったので見ていただけで、ボルテスVでさえあればどこの国の製品でも構わなかった」と考える子供の世代との[ジェネレーションギャップ](../Page/ジェネレーションギャップ.md "wikilink")などといった、様々な観点が紹介されている。
 
@@ -852,7 +852,7 @@
 ## 外部リンク
 
   - [ボルテスV フィリピン事件](http://www.nx.sakura.ne.jp/~haituu/nhktv.htm) - 1991年に放送されたNHKスペシャルの内容を解説。
-  - [オタク学入門](http://netcity.or.jp/OTAKU/okada/library/books/otakugaku/No2.html) - 同名の書籍をウェブページで公開。評論家の[岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")によるボルテスVのフィリピンでの放送中止事件の解釈。
+  - [オタク学入門](http://netcity.or.jp/OTAKU/okada/library/books/otakugaku/No2.html) - 同名の書籍をウェブページで公開。評論家の[岡田斗司夫](../Page/岡田斗司夫.md "wikilink")によるボルテスVのフィリピンでの放送中止事件の解釈。
 
 [Category:長浜ロマンロボシリーズ](https://ja.wikipedia.org/wiki/Category:長浜ロマンロボシリーズ "wikilink") [Category:アニメ作品_ち](https://ja.wikipedia.org/wiki/Category:アニメ作品_ち "wikilink") [Category:1977年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1977年のテレビアニメ "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:サンライズのロボットアニメ](https://ja.wikipedia.org/wiki/Category:サンライズのロボットアニメ "wikilink") [Category:聖悠紀](https://ja.wikipedia.org/wiki/Category:聖悠紀 "wikilink") [Category:小学館の学年誌の漫画作品](https://ja.wikipedia.org/wiki/Category:小学館の学年誌の漫画作品 "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
 

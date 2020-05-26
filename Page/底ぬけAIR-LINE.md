@@ -83,7 +83,7 @@
   - [裏番組をブッ飛ばせ\!\!'95大晦日スペシャル](../Page/ダウンタウンの裏番組をブッ飛ばせ!!.md "wikilink")
   - [芸能界大ボケだらけの天才クイズ王決定戦](https://ja.wikipedia.org/wiki/芸能界大ボケだらけの天才クイズ王決定戦 "wikilink")（エキシビジョン若手戦）
   - [お笑いダンクシュート](../Page/お笑いダンクシュート.md "wikilink")
-  - [AHERA](https://ja.wikipedia.org/wiki/AHERA "wikilink")
+  - [AHERA](../Page/AHERA.md "wikilink")
   - [文學ト云フ事](../Page/文學ト云フ事.md "wikilink")
 
 ## 関連項目

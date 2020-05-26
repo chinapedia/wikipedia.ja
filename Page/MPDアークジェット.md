@@ -7,11 +7,11 @@
 
 数百kW～MW級の大電力を必要とするため、現在までに実用化された例は無いが、地上での定常作動試験及び[コンデンサに充放電する形でのパルス作動試験は](https://ja.wikipedia.org/wiki/キャパシタ "wikilink")[1960年代](../Page/1960年代.md "wikilink")から行われており、宇宙空間においては[1970年代](../Page/1970年代.md "wikilink")に旧[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")が、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）、[1996年](../Page/1996年.md "wikilink")（平成8年）には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")がパルス作動での軌道上飛行試験を行っている。
 
-主な推進剤は[アルゴン](../Page/アルゴン.md "wikilink")、[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")、[ヒドラジン](../Page/ヒドラジン.md "wikilink")等であり、[比推力](../Page/比推力.md "wikilink")は1000秒～8000秒、1機当りの推力は数N～数十Nと大きい。電気推進機の中では100 kN/[m<sup>2</sup>という圧倒的な推力密度と](../Page/平方メートル.md "wikilink")、0.1 kg/kWというコンパクトな機体構造を持ち、火星有人ミッションを始めとする次世代の大規模惑星間輸送を担う宇宙機においては本命と考えられる航行用エンジンである。
+主な推進剤は[アルゴン](../Page/アルゴン.md "wikilink")、[水素](../Page/水素.md "wikilink")、[ヒドラジン](../Page/ヒドラジン.md "wikilink")等であり、[比推力](../Page/比推力.md "wikilink")は1000秒～8000秒、1機当りの推力は数N～数十Nと大きい。電気推進機の中では100 kN/[m<sup>2</sup>という圧倒的な推力密度と](../Page/平方メートル.md "wikilink")、0.1 kg/kWというコンパクトな機体構造を持ち、火星有人ミッションを始めとする次世代の大規模惑星間輸送を担う宇宙機においては本命と考えられる航行用エンジンである。
 
 ## 関連項目
 
-  - [宇宙機の推進方法](https://ja.wikipedia.org/wiki/宇宙機の推進方法 "wikilink")
+  - [宇宙機の推進方法](../Page/宇宙機の推進方法.md "wikilink")
   - [ホールスラスタ](../Page/ホールスラスタ.md "wikilink")
   - [イオンエンジン](../Page/イオンエンジン.md "wikilink")
   - [磁気流体力学](../Page/磁気流体力学.md "wikilink")

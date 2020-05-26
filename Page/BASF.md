@@ -41,7 +41,7 @@
 
 ## 日本での活動
 
-かつては[三菱化学](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")、[三井化学](../Page/三井化学.md "wikilink")、[武田薬品工業](../Page/武田薬品工業.md "wikilink")や[日油](../Page/日油.md "wikilink")との合弁事業も行っていた。 現在は日本法人[BASFジャパン](../Page/BASFジャパン.md "wikilink")の他、[出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")、[イノアックコーポレーション](https://ja.wikipedia.org/wiki/イノアックコーポレーション "wikilink")、[住友金属鉱山](../Page/住友金属鉱山.md "wikilink")や[戸田工業](../Page/戸田工業.md "wikilink")との[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")も設立している。
+かつては[三菱化学](../Page/三菱化学.md "wikilink")、[三井化学](../Page/三井化学.md "wikilink")、[武田薬品工業](../Page/武田薬品工業.md "wikilink")や[日油](../Page/日油.md "wikilink")との合弁事業も行っていた。 現在は日本法人[BASFジャパン](../Page/BASFジャパン.md "wikilink")の他、[出光興産](https://ja.wikipedia.org/wiki/出光興産 "wikilink")、[イノアックコーポレーション](https://ja.wikipedia.org/wiki/イノアックコーポレーション "wikilink")、[住友金属鉱山](../Page/住友金属鉱山.md "wikilink")や[戸田工業](../Page/戸田工業.md "wikilink")との[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")も設立している。
 
 [1970年代](../Page/1970年代.md "wikilink")から[カセットテープを発売していたが](../Page/コンパクトカセット.md "wikilink")、既に撤退した\[15\]。なお、[磁気テープ](../Page/磁気テープ.md "wikilink")の初期開発段階において、ベースとなる[アセテート](https://ja.wikipedia.org/wiki/アセテート "wikilink")樹脂の開発を主導したことから「磁気テープはBASF社が開発した」と言われることがある（[テープレコーダ\#歴史](https://ja.wikipedia.org/wiki/テープレコーダ#歴史 "wikilink")を参照）。カセットテープは同じドイツの同業者である[アグフア・ゲバルト](../Page/アグフア・ゲバルト.md "wikilink") (Agfa-Gevaert) にOEM供給された。 また、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")頃までは音楽[レコード](../Page/レコード.md "wikilink")の制作を行っていた時期もあり、日本ではテイチク（現・[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")）のクラシック部門レーベルとして[ルドルフ・ケンペ](../Page/ルドルフ・ケンペ.md "wikilink")、[ローベルト・シュトルツ](https://ja.wikipedia.org/wiki/ローベルト・シュトルツ "wikilink")、[コレギウム・アウレウム合奏団](../Page/コレギウム・アウレウム合奏団.md "wikilink")などの録音が数多く発売された。
 
@@ -59,7 +59,7 @@
 8.
 9.
 10.
-11. エレミカは、[ダウ・ケミカル](../Page/ダウ・ケミカル.md "wikilink")・[デュポン](../Page/デュポン.md "wikilink")・[バイエル](../Page/バイエル.md "wikilink")・BASF・[三菱化学](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")・[三井化学](../Page/三井化学.md "wikilink")・[住友化学工業](https://ja.wikipedia.org/wiki/住友化学工業 "wikilink")など、世界の主要大手化学品メーカー22社が2000年8月に[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")で設立した。日経BP ITpro 化学品BtoBの「エレミカ」が日本上陸 2002/04/09
+11. エレミカは、[ダウ・ケミカル](../Page/ダウ・ケミカル.md "wikilink")・[デュポン](../Page/デュポン.md "wikilink")・[バイエル](../Page/バイエル.md "wikilink")・BASF・[三菱化学](../Page/三菱化学.md "wikilink")・[三井化学](../Page/三井化学.md "wikilink")・[住友化学工業](https://ja.wikipedia.org/wiki/住友化学工業 "wikilink")など、世界の主要大手化学品メーカー22社が2000年8月に[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")で設立した。日経BP ITpro 化学品BtoBの「エレミカ」が日本上陸 2002/04/09
 12. [トタル](../Page/トタル.md "wikilink")傘下。2012年*[Borealis AG](https://ja.wikipedia.org/wiki/:de:Borealis_AG "wikilink")* に買収された。
 13. アンソニー・バイス著 佐々木広生訳 『テークオーバーの内幕』 日本経済新聞社 1972年 pp.249-257.
 14.

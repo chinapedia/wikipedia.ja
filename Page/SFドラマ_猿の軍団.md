@@ -117,7 +117,7 @@
   - 撮影：[森喜弘](https://ja.wikipedia.org/wiki/森喜弘 "wikilink")
   - 照明：比留川大助
   - 美術：大橋豊一
-  - 助監督：[蓑輪雅夫](https://ja.wikipedia.org/wiki/蓑輪雅夫 "wikilink")
+  - 助監督：[蓑輪雅夫](../Page/蓑輪雅夫.md "wikilink")
   - 編集：小林煕昌
   - ミキサー：建部日出夫
   - 録音：[日活録音部](../Page/日活撮影所.md "wikilink")

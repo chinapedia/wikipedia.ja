@@ -612,13 +612,13 @@
 ※（1）、（2）は片シーズンのみの担当
 
   - 脚本 - [小原信治](../Page/小原信治.md "wikilink")、[田子明弘](https://ja.wikipedia.org/wiki/田子明弘 "wikilink")、[大石哲也](../Page/大石哲也.md "wikilink")（1、SP）、[坂東賢治](https://ja.wikipedia.org/wiki/坂東賢治 "wikilink")（2）
-  - 音楽 - [寺田創一](https://ja.wikipedia.org/wiki/寺田創一 "wikilink")（1）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")（1）、[仲西匡](../Page/仲西匡.md "wikilink")（2）
+  - 音楽 - [寺田創一](../Page/寺田創一.md "wikilink")（1）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")（1）、[仲西匡](../Page/仲西匡.md "wikilink")（2）
       - ギター - [吉川忠英](../Page/吉川忠英.md "wikilink")（1）、ストリングスアレンジ：[沢田完](../Page/沢田完.md "wikilink")（2）
           - 寺田創一、DJ KRUSH、吉川忠英の第1シリーズの音楽は、第2シリーズでも引き続き使用されているが、第2シリーズで3人のクレジットはなく、毎回、仲西匡のみクレジットされた。
   - 演出 - [堤幸彦](../Page/堤幸彦.md "wikilink")（1）、[佐藤東弥](../Page/佐藤東弥.md "wikilink")（1）、[大谷太郎](https://ja.wikipedia.org/wiki/大谷太郎 "wikilink")（1）、[猪股隆一](https://ja.wikipedia.org/wiki/猪股隆一 "wikilink")（2）、[五木田亮一](https://ja.wikipedia.org/wiki/五木田亮一 "wikilink")（2）、[大根仁](../Page/大根仁.md "wikilink")（2）、[都築淳一](../Page/都築淳一.md "wikilink")（SP）
   - 主題歌
-      - 第1期 - [TOKIO](../Page/TOKIO.md "wikilink")「[フラれて元気](https://ja.wikipedia.org/wiki/フラれて元気 "wikilink")」
-      - 第2期 - TOKIO「[愛の嵐](https://ja.wikipedia.org/wiki/愛の嵐_\(TOKIOの曲\) "wikilink")」
+      - 第1期 - [TOKIO](../Page/TOKIO.md "wikilink")「[フラれて元気](../Page/フラれて元気.md "wikilink")」
+      - 第2期 - TOKIO「[愛の嵐](../Page/愛の嵐_\(TOKIOの曲\).md "wikilink")」
   - 企画協力 - [樹林伸](../Page/樹林伸.md "wikilink")、[菅原章](https://ja.wikipedia.org/wiki/菅原章 "wikilink")
   - 音楽プロデュース - [志田博英](../Page/志田博英.md "wikilink")、[松根文](https://ja.wikipedia.org/wiki/松根文 "wikilink")
   - アクションディレクター - [多賀谷渉](https://ja.wikipedia.org/wiki/多賀谷渉 "wikilink")

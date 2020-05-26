@@ -1,7 +1,7 @@
 > この記事は[A-train \(日立製作所\)](https://ja.wikipedia.org/wiki/A-train_\(日立製作所\))から翻訳されています。
 
 
-**A-train**（エートレイン）は、[日立製作所](../Page/日立製作所.md "wikilink")が開発した[鉄道車両](../Page/鉄道車両.md "wikilink")の製造技術（次世代[アルミ車両システム](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")）。"A-train"に用いられた「A」は、Advanced・Amenity・Ability・Aluminum を統合的に表したものとしている。
+**A-train**（エートレイン）は、[日立製作所](../Page/日立製作所.md "wikilink")が開発した[鉄道車両](../Page/鉄道車両.md "wikilink")の製造技術（次世代[アルミ車両システム](../Page/アルミニウム合金製の鉄道車両.md "wikilink")）。"A-train"に用いられた「A」は、Advanced・Amenity・Ability・Aluminum を統合的に表したものとしている。
 
 ## 概要
 
@@ -33,7 +33,7 @@
       - [西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）
           - [683系電車](../Page/JR西日本683系電車.md "wikilink")\[3\]
       - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）
-          - [815系電車](../Page/JR九州815系電車.md "wikilink")\[4\]以降の[在来線](../Page/在来線.md "wikilink")の[アルミ製](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")[電車](../Page/電車.md "wikilink")全形式\[5\]
+          - [815系電車](../Page/JR九州815系電車.md "wikilink")\[4\]以降の[在来線](../Page/在来線.md "wikilink")の[アルミ製](../Page/アルミニウム合金製の鉄道車両.md "wikilink")[電車](../Page/電車.md "wikilink")全形式\[5\]
   - [大手私鉄](../Page/大手私鉄.md "wikilink")
       - [西武鉄道](../Page/西武鉄道.md "wikilink")
           - [20000系電車](../Page/西武20000系電車.md "wikilink")
@@ -99,7 +99,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
 
 日立製作所は2005年に[CTRL](../Page/CTRL.md "wikilink")（ハイ・スピード1）国内列車用として最高速度225km/hで運転可能な[395形](../Page/イギリス鉄道395形電車.md "wikilink")6両編成28本（のちに1本追加）を受注した\[21\]。これらは[2012年ロンドンオリンピック](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")にちなんで運行会社の[サウスイースタンによって](../Page/サウスイースタン_\(鉄道\).md "wikilink")「ジャベリン（[槍投げ](../Page/やり投.md "wikilink")）」と名付けられ、各編成にはメダリストの名前が付けられた\[22\]。
 
-2012年には[グレート・ウェスタン本線](https://ja.wikipedia.org/wiki/グレート・ウェスタン本線 "wikilink")・[イースト・コースト本線](https://ja.wikipedia.org/wiki/イースト・コースト本線 "wikilink")の[インターシティ125](https://ja.wikipedia.org/wiki/インターシティー125 "wikilink")・[225置き換え計画である](https://ja.wikipedia.org/wiki/インターシティー225 "wikilink")[インターシティ・エクスプレス計画の受注に成功した](https://ja.wikipedia.org/wiki/都市間高速鉄道計画 "wikilink")。395形に似たデザインで、当初は日立スーパー・エクスプレスと呼ばれていた。[バイモード車両の](https://ja.wikipedia.org/wiki/電気・ディーゼル両用車両 "wikilink")[800形と電車の](https://ja.wikipedia.org/wiki/イギリス鉄道800形 "wikilink")[801形の](https://ja.wikipedia.org/wiki/イギリス鉄道801形電車 "wikilink")2種類があり、電化の拡大が想定されたため800形から801形への改造が可能なように作られている\[23\]。
+2012年には[グレート・ウェスタン本線](https://ja.wikipedia.org/wiki/グレート・ウェスタン本線 "wikilink")・[イースト・コースト本線](https://ja.wikipedia.org/wiki/イースト・コースト本線 "wikilink")の[インターシティ125](https://ja.wikipedia.org/wiki/インターシティー125 "wikilink")・[225置き換え計画である](../Page/インターシティー225.md "wikilink")[インターシティ・エクスプレス計画の受注に成功した](https://ja.wikipedia.org/wiki/都市間高速鉄道計画 "wikilink")。395形に似たデザインで、当初は日立スーパー・エクスプレスと呼ばれていた。[バイモード車両の](https://ja.wikipedia.org/wiki/電気・ディーゼル両用車両 "wikilink")[800形と電車の](https://ja.wikipedia.org/wiki/イギリス鉄道800形 "wikilink")[801形の](https://ja.wikipedia.org/wiki/イギリス鉄道801形電車 "wikilink")2種類があり、電化の拡大が想定されたため800形から801形への改造が可能なように作られている\[23\]。
 
 なお、この計画に際しては、製造がイギリス国内で行われない（最終組み立てのみ）ことから、対案であった同じ外国の会社であっても国内で製造が行われることになっていた[ボンバルディア](../Page/ボンバルディア.md "wikilink")案を推す声があり、特にボンバルディアの工場<small>（[英語版](https://ja.wikipedia.org/wiki/:en:_Derby_Litchurch_Lane_Works "wikilink")）</small>があった地域を中心に発注の撤回を求める運動が行われた\[24\]\[25\]。これに加え、車両重量の増加（[運輸省の要求仕様が不可能であるとの声もあった](https://ja.wikipedia.org/wiki/運輸省_\(イギリス\) "wikilink")）や価格・種類配分の交渉の難航、金融機関による出資が進まなかったことなどから2010年には計画について調査が行われるなどしている\[26\]。
 
@@ -389,7 +389,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
   - [日立製作所笠戸事業所](https://ja.wikipedia.org/wiki/日立製作所笠戸事業所 "wikilink")
   - [日立製作所ニュートン・エイクリフ工場](../Page/日立製作所ニュートン・エイクリフ工場.md "wikilink")
   - [通勤・近郊電車の標準仕様ガイドライン](../Page/通勤・近郊電車の標準仕様ガイドライン.md "wikilink")
-  - [アルミニウム合金製の鉄道車両](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")
+  - [アルミニウム合金製の鉄道車両](../Page/アルミニウム合金製の鉄道車両.md "wikilink")
   - [efACE](https://ja.wikipedia.org/wiki/efACE "wikilink") - [川崎重工業](../Page/川崎重工業.md "wikilink")による類似コンセプトの鉄道車両。こちらはアルミ車に加えて[ステンレス車も存在する](../Page/オールステンレス車両.md "wikilink")。
   - [sustina](https://ja.wikipedia.org/wiki/sustina "wikilink") - [東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")→[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")による類似コンセプトの鉄道車両。こちらはステンレス車のみである。
 

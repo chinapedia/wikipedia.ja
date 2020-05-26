@@ -274,7 +274,7 @@
         ゲストは[清水ミチコ](../Page/清水ミチコ.md "wikilink")（松任谷の物真似）。
 4.  実録サブの世界/お前の鼻にブチ込みたい\!
       -
-        「[Layla](https://ja.wikipedia.org/wiki/いとしのレイラ "wikilink")」「[White Room](https://ja.wikipedia.org/wiki/:en:White_Room "wikilink")」「[Badge](https://ja.wikipedia.org/wiki/:en:Badge_\(song\) "wikilink")」（[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")）・「[与作](https://ja.wikipedia.org/wiki/与作 "wikilink")」「[なみだ船](../Page/なみだ船.md "wikilink")」「[まつり](https://ja.wikipedia.org/wiki/まつり_\(北島三郎の曲\) "wikilink")」「[帰ろかな](../Page/帰ろかな.md "wikilink")」（[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")）のマッシュアップ
+        「[Layla](https://ja.wikipedia.org/wiki/いとしのレイラ "wikilink")」「[White Room](https://ja.wikipedia.org/wiki/:en:White_Room "wikilink")」「[Badge](https://ja.wikipedia.org/wiki/:en:Badge_\(song\) "wikilink")」（[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")）・「[与作](../Page/与作.md "wikilink")」「[なみだ船](../Page/なみだ船.md "wikilink")」「[まつり](https://ja.wikipedia.org/wiki/まつり_\(北島三郎の曲\) "wikilink")」「[帰ろかな](../Page/帰ろかな.md "wikilink")」（[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")）のマッシュアップ
         ゲストは[木梨憲武](../Page/木梨憲武.md "wikilink")（北島の物真似）。この曲のみバンドメンバーは、桑田（ボーカル・ギター）、斎藤誠（ギター）、片山敦夫（キーボード）、角田俊介（ベース）、高尾俊行（ドラムス）、清水美恵（コーラス）、安奈陽子（コーラス）。
         この曲は後に[とんねるず](../Page/とんねるず.md "wikilink")が司会を務め、[2012年](../Page/2012年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に放送された『[とんねるずが生放送\!音楽番組全部見せます\!\!-名曲で元気になろう-](https://ja.wikipedia.org/wiki/とんねるずが生放送!音楽番組全部見せます!!-名曲で元気になろう- "wikilink")』の「伝説の共演100選」のコーナーで**桑田佳祐×木梨憲武**名義、楽曲名も原曲の『Layla』『与作』として放送された。
 
@@ -564,7 +564,7 @@
 <!-- end list -->
 
 1.  梅田からナンバまで（[上田正樹](../Page/上田正樹.md "wikilink")・[有山淳司](https://ja.wikipedia.org/wiki/有山淳司 "wikilink")） - 通天閣展望台のビリケン像の前で披露。ギターの演奏で斎藤誠、鍵盤ハーモニカの演奏で片山敦夫が参加。
-2.  [大阪の女](../Page/大阪の女_\(ザ・ピーナッツの曲\).md "wikilink")（[ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")） - [京橋の多目的ホール](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")（番組内では[キャバレー](../Page/キャバレー.md "wikilink")と紹介）「天守閣ホール」での演奏。桑田・斎藤・片山のほか、ホールの座付きバンド（ハコバン）も参加。
+2.  [大阪の女](../Page/大阪の女_\(ザ・ピーナッツの曲\).md "wikilink")（[ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")） - [京橋の多目的ホール](../Page/京橋_\(大阪市\).md "wikilink")（番組内では[キャバレー](../Page/キャバレー.md "wikilink")と紹介）「天守閣ホール」での演奏。桑田・斎藤・片山のほか、ホールの座付きバンド（ハコバン）も参加。
 3.  [どしゃぶりの雨の中で](https://ja.wikipedia.org/wiki/どしゃぶりの雨の中で "wikilink")（[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")） - スタジオライブ。
 4.  [LOVE KOREA](https://ja.wikipedia.org/wiki/あなただけを_〜Summer_Heartbreak〜#収録曲 "wikilink")（サザンオールスターズ） - [鶴橋の焼肉店](https://ja.wikipedia.org/wiki/鶴橋駅 "wikilink")「喜楽園」（番組内の設定では「俺（桑田）の実家」。また、桑田は店のおばちゃんを「俺のお袋」「オモニ(朝鮮語で母親の意)」とジョークを交えて紹介していた）で披露。カラオケ音源。
 5.  [アリラン](../Page/アリラン.md "wikilink")（[朝鮮](../Page/朝鮮.md "wikilink")[民謡](../Page/民謡.md "wikilink")） - 同じく「喜楽園」にて披露。ギターで斎藤、アコーディオンで片山が参加。ちなみに「喜楽園」での歌唱シーンが一時期動画投稿サイトにアップされたことで、後年ネット上では[桑田の出自に関するデマが一時的に流れる事となった](https://ja.wikipedia.org/wiki/桑田佳祐#哲学・思想 "wikilink")。また、2015年には[朝鮮日報](../Page/朝鮮日報.md "wikilink")で「LOVE KOREA」や「喜楽園」での歌唱シーンを持ち上げたうえで、桑田に[ソウル公演をする事を希望する内容のコラムが掲載された](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")\[28\]。
@@ -581,7 +581,7 @@
 2.  HONKY JILL 〜69(あいなめ)のブルース〜（桑田佳祐） - これ以降5.まで大阪城ホールでの演奏。桑田はこのライブでも「生まれ故郷の大阪に帰ってきました～\!」とジョークを述べている\[29\]。
 3.  悲しい色やね（上田正樹）
 4.  [明日晴れるかな](../Page/明日晴れるかな.md "wikilink")（桑田佳祐）
-5.  [波乗りジョニー](../Page/波乗りジョニー.md "wikilink")（桑田佳祐） - 4.と5.はダイジェスト。以上大阪城ホールでの演奏メンバーは、桑田（ボーカル・ギター）・[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")（ギター）・[河村“カースケ”智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")（ドラムス）・渡辺等（ベース）・Dr.kyOn（キーボード）・斎藤有太（キーボード）・本田雅人（サックス）・佐々木久美（コーラス）・渕上祥人（コーラス）・大滝裕子（コーラス）。
+5.  [波乗りジョニー](../Page/波乗りジョニー.md "wikilink")（桑田佳祐） - 4.と5.はダイジェスト。以上大阪城ホールでの演奏メンバーは、桑田（ボーカル・ギター）・[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")（ギター）・[河村“カースケ”智康](../Page/河村智康.md "wikilink")（ドラムス）・渡辺等（ベース）・Dr.kyOn（キーボード）・斎藤有太（キーボード）・本田雅人（サックス）・佐々木久美（コーラス）・渕上祥人（コーラス）・大滝裕子（コーラス）。
 6.  雨の御堂筋（[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")） - スタジオライブ。
 7.  お政治オバチャン（[憂歌団](../Page/憂歌団.md "wikilink")） - スタジオライブ。[井脇ノブ子](../Page/井脇ノブ子.md "wikilink")をモチーフとした[コスプレ](../Page/コスプレ.md "wikilink")をしての歌唱だが、架空の政治家「**ミヤネ屋寅次郎**」という設定\[30\]。
 8.  酒と泪と男と女（[河島英五](../Page/河島英五.md "wikilink")） - ジャズバー「藤田バー」での演奏。桑田（ボーカル）・斎藤（ギター）・片山（オルガン）のほか、藤田バーのマスター・藤田さんもサックスで参加。
@@ -792,7 +792,7 @@
 <!-- end list -->
 
 1.  [男と女のお話](https://ja.wikipedia.org/wiki/男と女のお話 "wikilink") （[日吉ミミ](../Page/日吉ミミ.md "wikilink")）
-2.  [悲しくてやりきれない](https://ja.wikipedia.org/wiki/悲しくてやりきれない "wikilink") （[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")）
+2.  [悲しくてやりきれない](../Page/悲しくてやりきれない.md "wikilink") （[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")）
 3.  怨み節 （[梶芽衣子](../Page/梶芽衣子.md "wikilink")） - 桑田は和服を身にまとい、時代劇風のアクションを行った。また、最後では[スキーヤー](https://ja.wikipedia.org/wiki/スキーヤー "wikilink")に扮したユースケが[松田聖子](../Page/松田聖子.md "wikilink")が出演した[ポッキー](../Page/ポッキー.md "wikilink")のCMのフレーズを口ずさんだり、[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")の「お呼びでない？こりゃまた失礼致しました！」を述べたりし、桑田に刀で切られるというオチとなった。
 4.  朝起きたら （[小林万里子](https://ja.wikipedia.org/wiki/小林万里子_\(シンガーソングライター\) "wikilink")） - 女装しての歌唱であった。
 5.  [Help\!](../Page/ヘルプ!_\(ビートルズの曲\).md "wikilink") （ビートルズ）
@@ -927,7 +927,7 @@
 4.  お嫁においで （[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")）
       -
         桑田が歌詞を「もしもし[亀よ](https://ja.wikipedia.org/wiki/亀頭 "wikilink")、君の[頭は剥けてるかい](https://ja.wikipedia.org/wiki/亀頭 "wikilink")」などとといった卑猥なものに変えて歌ったため、放送では途中でカット。
-5.  [君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink") （加山雄三）
+5.  [君といつまでも](../Page/君といつまでも.md "wikilink") （加山雄三）
       -
         桑田が歌詞を「[オナ○○をやりすぎて](../Page/オナニー.md "wikilink")、[チン](../Page/男性器.md "wikilink")・・・」などと変えて歌ったため、放送では途中でカット。なお、平井はこれらの替え歌に感動していた。
 6.  [栞のテーマ](../Page/栞のテーマ.md "wikilink")

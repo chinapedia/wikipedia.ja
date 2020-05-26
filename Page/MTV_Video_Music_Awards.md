@@ -131,7 +131,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 <li><a href="https://ja.wikipedia.org/wiki/C+C_Music_Factory" title="wikilink">C+C Music Factory</a> — "Gonna Make You Sweat (Everybody Dance Now)"</li>
 <li><a href="../Page/ディー・ライト.md" title="wikilink">ディー・ライト</a> — "Groove Is in the Heart"</li>
 <li><a href="https://ja.wikipedia.org/wiki/Divinyls" title="wikilink">Divinyls</a> — "I Touch Myself"</li>
-<li><a href="https://ja.wikipedia.org/wiki/クリス・アイザック" title="wikilink">クリス・アイザック</a> — "Wicked Game"</li>
+<li><a href="../Page/クリス・アイザック.md" title="wikilink">クリス・アイザック</a> — "Wicked Game"</li>
 <li><a href="../Page/クイーンズライク.md" title="wikilink">クイーンズライク</a> — "Silent Lucidity"</small></li>
 </ul></td>
 </tr>
@@ -290,7 +290,7 @@ MTV、MTV2と[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")で[プライム
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パニック・アット・ザ・ディスコ" title="wikilink">パニック・アット・ザ・ディスコ</a><br />
+<td><p><a href="../Page/パニック・アット・ザ・ディスコ.md" title="wikilink">パニック・アット・ザ・ディスコ</a><br />
 — "I Write Sins Not Tragedies"</p></td>
 <td><p><small></p>
 <ul>

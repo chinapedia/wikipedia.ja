@@ -209,7 +209,7 @@
   - TUT チューリップテレビ
     [ちゅうりっぷワイド ホップ・ステップ・チューリップ](https://ja.wikipedia.org/wiki/ちゅうりっぷワイド_ホップ・ステップ・チューリップ "wikilink") - [ニュースの森とやま](https://ja.wikipedia.org/wiki/ニュースの森とやま "wikilink") - [チョイス\!](https://ja.wikipedia.org/wiki/チョイス!_\(テレビ番組\) "wikilink") - [イブニング・ニュースとやま](https://ja.wikipedia.org/wiki/イブニング・ニュースとやま "wikilink") - [チューリップワイド THE NEWS](https://ja.wikipedia.org/wiki/チューリップワイド_THE_NEWS "wikilink") - チューリップテレビ ニュース6
   - MRO 北陸放送
-    [MROニュース](../Page/MROニュース.md "wikilink") - [MROテレポート6](../Page/MROテレポート6.md "wikilink") - [MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink") - [MROイブニング・ニュース](https://ja.wikipedia.org/wiki/MROイブニング・ニュース "wikilink") -[MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink") - [総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")
+    [MROニュース](../Page/MROニュース.md "wikilink") - [MROテレポート6](../Page/MROテレポート6.md "wikilink") - [MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink") - [MROイブニング・ニュース](https://ja.wikipedia.org/wiki/MROイブニング・ニュース "wikilink") -[MROニュースランナー](../Page/MROニュースランナー.md "wikilink") - [総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")
   - SBS 静岡放送
     [静岡新聞ニュース](../Page/静岡新聞ニュース.md "wikilink") - [SBSテレビ夕刊](../Page/SBSテレビ夕刊.md "wikilink") - [SBSイブニングeye - イブアイしずおか](https://ja.wikipedia.org/wiki/イブアイしずおか "wikilink")
   - CBC 中部日本放送

@@ -5,7 +5,7 @@
 
 ピクサーは1986年、[ルーカスフィルム](../Page/ルーカスフィルム.md "wikilink")のコンピュータ・アニメーション部門を[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")（[アップルの前CEO](../Page/アップル_\(企業\).md "wikilink")、アップルコンピュータ創業者の一人）らが買収して設立した会社であるが、RenderMan自体の開発はピクサー設立前から[コンピュータグラフィック](https://ja.wikipedia.org/wiki/コンピュータグラフィック "wikilink") (CG) 研究者である[エドウィン・キャットマル](../Page/エドウィン・キャットマル.md "wikilink")らによってなされていた。
 
-元々の構想は、CG業界の標準となるレンダリング・[インタフェース言語の構築であり](../Page/インタフェース_\(情報技術\).md "wikilink")、その[シェーディング言語](https://ja.wikipedia.org/wiki/シェーディング言語 "wikilink")のフォーマットそのものがRenderManと呼ばれていた。その後、ピクサー・イメージ・コンピュータ (PIC) というピクサーが販売していた画像処理専用の高性能コンピュータ（スティーブ・ジョブズによると「顧客はある政府機関」）に搭載されていたレンダリングシステム「Reyes」を、RIB (RenderMan Interface Bytestream) フォーマットへの対応を中心に改良した物が「PhotoRealistic (PR) RenderMan」として商品化され、『[アビス](../Page/アビス.md "wikilink")』『[ターミネーター2](../Page/ターミネーター2.md "wikilink")』で使用された事で注目を浴びた。2005年には[Maya](../Page/Maya.md "wikilink")の[プラグイン](../Page/プラグイン.md "wikilink")として機能するRenderMan for Mayaが発売され、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")による設定が可能になった。
+元々の構想は、CG業界の標準となるレンダリング・[インタフェース言語の構築であり](../Page/インタフェース_\(情報技術\).md "wikilink")、その[シェーディング言語](../Page/シェーディング言語.md "wikilink")のフォーマットそのものがRenderManと呼ばれていた。その後、ピクサー・イメージ・コンピュータ (PIC) というピクサーが販売していた画像処理専用の高性能コンピュータ（スティーブ・ジョブズによると「顧客はある政府機関」）に搭載されていたレンダリングシステム「Reyes」を、RIB (RenderMan Interface Bytestream) フォーマットへの対応を中心に改良した物が「PhotoRealistic (PR) RenderMan」として商品化され、『[アビス](../Page/アビス.md "wikilink")』『[ターミネーター2](../Page/ターミネーター2.md "wikilink")』で使用された事で注目を浴びた。2005年には[Maya](../Page/Maya.md "wikilink")の[プラグイン](../Page/プラグイン.md "wikilink")として機能するRenderMan for Mayaが発売され、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")による設定が可能になった。
 
 現在も技術更新が継続されており、フォトリアリスティックな[3DCGを制作する上で役立つことから](../Page/3次元コンピュータグラフィックス.md "wikilink")、ピクサーのCGアニメーション作品は勿論の事、『[ジュラシック・パーク](../Page/ジュラシック・パーク.md "wikilink")』、『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")』、『[ロード・オブ・ザ・リング](../Page/ロード・オブ・ザ・リング.md "wikilink")』などの[ハリウッド](../Page/ハリウッド.md "wikilink")による[VFX](../Page/VFX.md "wikilink")では不可欠なレンダリングツールの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となって、随所で頻繁に使用されている。
 
@@ -376,7 +376,7 @@ RenderManのMaya版にはRSLシェーダー構築ツールのSLIMが付属して
   - [コンピュータアニメーション](https://ja.wikipedia.org/wiki/コンピュータアニメーション "wikilink")
   - [3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")
   - [シェーダー](../Page/シェーダー.md "wikilink")
-  - [シェーディング言語](https://ja.wikipedia.org/wiki/シェーディング言語 "wikilink")
+  - [シェーディング言語](../Page/シェーディング言語.md "wikilink")
 
 ## 脚注
 

@@ -7,7 +7,7 @@
 
 『[TOSザ・ヒューマン FNN](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』を1年で打ち切って改題リニューアルした番組である。
 
-テレビ大分は[NNNにも加盟しているが](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、この番組を放送するために[日本テレビ発の](../Page/日本テレビ放送網.md "wikilink")[夕方のニュース](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")（現在は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』）をネットしていなかった。ただし、2006年9月6日には[悠仁親王](../Page/悠仁親王.md "wikilink")誕生関連報道のため、同じく日本テレビ発の『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』を19:58まで放送したことがある。これは、同日（水曜）の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")が日本テレビ系列の編成となっているためである。
+テレビ大分は[NNNにも加盟しているが](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、この番組を放送するために[日本テレビ発の](../Page/日本テレビ放送網.md "wikilink")[夕方のニュース](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")（現在は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』）をネットしていなかった。ただし、2006年9月6日には[悠仁親王](../Page/悠仁親王.md "wikilink")誕生関連報道のため、同じく日本テレビ発の『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』を19:58まで放送したことがある。これは、同日（水曜）の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")が日本テレビ系列の編成となっているためである。
 
 2006年12月1日放送分からはハイビジョン制作が行われていた。また、2007年10月1日放送分をもってスタジオセットが新しくなった。2008年11月3日放送分からは、エンディング後の提供クレジットがCMを挿まないで直接入るようになった。2011年4月4日放送分からは、直後の時間帯に放送されていた[天気予報](../Page/天気予報.md "wikilink")が番組内コーナーと化したことから、月曜 - 金曜の放送時間が5分拡大した。
 

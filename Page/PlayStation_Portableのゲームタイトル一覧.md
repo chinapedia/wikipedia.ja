@@ -176,7 +176,7 @@
 | 03月02日 | [PURSUIT FORCE 〜大追跡〜](https://ja.wikipedia.org/wiki/PURSUIT_FORCE_〜大追跡〜 "wikilink")                                                           | スパイク                                                                              |                     |         |   |               |
 | 03月02日 | [ダービータイム](https://ja.wikipedia.org/wiki/ダービータイム "wikilink")2006                                                                               | ソニー・コンピュータエンタテインメント                                                               |                     |         |   |               |
 | 03月02日 | [ブレイドダンサー 〜千年の約束〜](https://ja.wikipedia.org/wiki/ブレイドダンサー_〜千年の約束〜 "wikilink")                                                                 | ソニー・コンピュータエンタテインメント                                                               | 0,288MB             | ●       | ● |               |
-| 03月02日 | [大都技研公式パチスロシミュレーター 押忍\!番長 ポータブル](../Page/押忍!番長.md "wikilink")                                                                                 | [大都技研](https://ja.wikipedia.org/wiki/大都技研 "wikilink")                             | 0,057MB             | ●       |   |               |
+| 03月02日 | [大都技研公式パチスロシミュレーター 押忍\!番長 ポータブル](../Page/押忍!番長.md "wikilink")                                                                                 | [大都技研](../Page/大都技研.md "wikilink")                                                | 0,057MB             | ●       |   |               |
 | 03月09日 | [ビズ体験シリーズ 起業道](https://ja.wikipedia.org/wiki/ビズシリーズ#ビズ体験シリーズ_起業道 "wikilink")                                                                  | [コクヨ](../Page/コクヨ.md "wikilink")                                                  |                     |         |   |               |
 | 03月09日 | [ときめきメモリアル with you〜](../Page/ときめきメモリアル.md "wikilink")〜forever                                                                                | コナミ                                                                               |                     |         |   |               |
 | 03月09日 | [WRC](https://ja.wikipedia.org/wiki/WRC "wikilink")                                                                                           | スパイク                                                                              |                     |         |   |               |
@@ -448,7 +448,7 @@
 | 01月31日 | [SEGA RALLY REVO](../Page/セガラリーチャンピオンシップ.md "wikilink")                                                           | セガ                                                                              |         |         |         |                   |
 | 01月31日 | [太平洋の嵐 〜戦艦大和、暁に出撃す〜](https://ja.wikipedia.org/wiki/太平洋の嵐_\(ゲーム\) "wikilink")                                      | システムソフト・アルファー                                                                   | 0,283MB | ●       | ●       |                   |
 | 02月07日 | [Coded Soul -受け継がれしイデア-](https://ja.wikipedia.org/wiki/Coded_Soul_-受け継がれしイデア- "wikilink")                         | ソニー・コンピュータエンタテインメント                                                             | 0,383MB | ●       | ●       |                   |
-| 02月07日 | [機動戦士ガンダム ギレンの野望 アクシズの脅威](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ギレンの野望_アクシズの脅威 "wikilink")                       | バンダイナムコゲームス                                                                     |         |         |         | スペシャルパックあり        |
+| 02月07日 | [機動戦士ガンダム ギレンの野望 アクシズの脅威](../Page/機動戦士ガンダム_ギレンの野望_アクシズの脅威.md "wikilink")                                          | バンダイナムコゲームス                                                                     |         |         |         | スペシャルパックあり        |
 | 02月14日 | [メダル・オブ・オナー ヒーローズ2](../Page/メダル・オブ・オナー_ヒーローズ2.md "wikilink")                                                      | エレクトロニック・アーツ                                                                    | 1,100MB | ●       | ●       |                   |
 | 02月21日 | [無双OROCHI](../Page/無双OROCHI.md "wikilink")                                                                        | コーエー                                                                            | 0,784MB | ●       | ●       |                   |
 | 02月21日 | [スペースインベーダーエクストリーム](https://ja.wikipedia.org/wiki/スペースインベーダーエクストリーム "wikilink")                                   | タイトー                                                                            |         |         |         |                   |
@@ -494,7 +494,7 @@
 | 07月31日 | [ファンタシースターポータブル](../Page/ファンタシースターポータブル.md "wikilink")                                                            | セガ                                                                              |         |         |         |                   |
 | 07月31日 | [PC Engine Best Collection 銀河お嬢様伝説コレクション](https://ja.wikipedia.org/wiki/PC_Engine_Best_Collection "wikilink")     | ハドソン                                                                            |         |         |         |                   |
 | 07月31日 | [PC Engine Best Collection 天外魔境コレクション](https://ja.wikipedia.org/wiki/PC_Engine_Best_Collection "wikilink")        | ハドソン                                                                            |         |         |         |                   |
-| 07月31日 | [Panic Palette Portable](https://ja.wikipedia.org/wiki/Panic_Palette "wikilink")                                  | TAKUYO                                                                          |         |         |         |                   |
+| 07月31日 | [Panic Palette Portable](../Page/Panic_Palette.md "wikilink")                                                     | TAKUYO                                                                          |         |         |         |                   |
 | 08月07日 | [流行り神2ポータブル](../Page/流行り神_警視庁怪異事件ファイル.md "wikilink")                                                              | 日本一ソフトウェア                                                                       | 0,388MB | ●       | ●       |                   |
 | 08月14日 | [クレイジータクシー](../Page/クレイジータクシー.md "wikilink")ダブルパンチ                                                                | セガ                                                                              | 0,437MB | ●       | ●       |                   |
 | 08月14日 | [想い出にかわる君 〜Memories Off〜](../Page/想い出にかわる君_〜Memories_Off〜.md "wikilink")                                          | サイバーフロント                                                                        | 0,928MB | ●       | ●       | 初回限定版あり           |
@@ -645,7 +645,7 @@
 </tr>
 <tr class="even">
 <td><p>02月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_ギレンの野望_アクシズの脅威" title="wikilink">機動戦士ガンダム ギレンの野望 アクシズの脅威V</a></p></td>
+<td><p><a href="../Page/機動戦士ガンダム_ギレンの野望_アクシズの脅威.md" title="wikilink">機動戦士ガンダム ギレンの野望 アクシズの脅威V</a></p></td>
 <td><p>バンダイナムコゲームス</p></td>
 <td><p>1,316MB</p></td>
 <td><p>●</p></td>
@@ -2195,7 +2195,7 @@ DL版での単独発売あり</p></td>
 </tr>
 <tr class="even">
 <td><p>12月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/MagusTale_〜世界樹と恋する魔法使い〜" title="wikilink">マギウステイル エタニティ 〜世界樹と恋する魔法使い〜</a></p></td>
+<td><p><a href="../Page/MagusTale_〜世界樹と恋する魔法使い〜.md" title="wikilink">マギウステイル エタニティ 〜世界樹と恋する魔法使い〜</a></p></td>
 <td><p>GNソフトウェア</p></td>
 <td><p>1,488MB</p></td>
 <td><p>●</p></td>
@@ -5131,7 +5131,7 @@ Welcomeセットあり</p></td>
 </tr>
 <tr class="even">
 <td><p>07月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クイーンズゲイト" title="wikilink">クイーンズゲイト スパイラルカオス</a></p></td>
+<td><p><a href="../Page/クイーンズゲイト.md" title="wikilink">クイーンズゲイト スパイラルカオス</a></p></td>
 <td><p>バンプレスト</p></td>
 <td></td>
 <td></td>

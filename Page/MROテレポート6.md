@@ -16,7 +16,7 @@
 ## 歴代キャスター
 
   - [岩岸吉幸](https://ja.wikipedia.org/wiki/岩岸吉幸 "wikilink")（初代）
-  - [辰巳平一](https://ja.wikipedia.org/wiki/辰巳平一 "wikilink")（土曜→平日。後に『[MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink")』→『[総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")』で同時間帯へ再登板）
+  - [辰巳平一](https://ja.wikipedia.org/wiki/辰巳平一 "wikilink")（土曜→平日。後に『[MROニュースランナー](../Page/MROニュースランナー.md "wikilink")』→『[総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")』で同時間帯へ再登板）
   - [寺本良之](https://ja.wikipedia.org/wiki/寺本良之 "wikilink")（週末）
   - [長田哲也](../Page/長田哲也.md "wikilink")（週末→平日。1990年-2003年）
   - [藤田直子](https://ja.wikipedia.org/wiki/藤田直子 "wikilink")

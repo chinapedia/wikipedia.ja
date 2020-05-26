@@ -30,7 +30,7 @@
 ## 利用例
 
   - MPEG-4の実装の[学習](../Page/学習.md "wikilink")や[研究](../Page/研究.md "wikilink")用
-  - [ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")でのDVDやテレビ番組の交換、共有。
+  - [ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")でのDVDやテレビ番組の交換、共有。
 
 商業用ソフトで使用した場合、そのソフトのソースを公開する義務が生じるため、一部の例外を除けばほとんど使用されていない。[アクアプラス](../Page/アクアプラス.md "wikilink")発売の[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")（『[アルルゥとあそぼ\!\!](https://ja.wikipedia.org/wiki/アルルゥとあそぼ!! "wikilink")』、『[Tears to Tiara](https://ja.wikipedia.org/wiki/Tears_to_Tiara "wikilink")』、『[鎖 -クサリ-](../Page/鎖_-クサリ-.md "wikilink")』、『[ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink")』）ではその義務を知らずにライブラリを使用していたことが判明したため、ゲームのソースコードを公開することが発売元より発表となった\[1\]。
 

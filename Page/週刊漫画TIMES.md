@@ -1,7 +1,7 @@
 > この記事は[週刊漫画TIMES](https://ja.wikipedia.org/wiki/週刊漫画TIMES)から翻訳されています。
 
 
-『**週刊漫画TIMES**』（しゅうかんまんがタイムス）は、[芳文社](../Page/芳文社.md "wikilink")が発行する[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**週刊漫画TIMES**』（しゅうかんまんがタイムス）は、[芳文社](../Page/芳文社.md "wikilink")が発行する[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
 ## 概要
 
@@ -97,7 +97,7 @@
   - 永遠のみずき（[雅亜公](../Page/雅亜公.md "wikilink")）
   - 縁切湯屋物語（[いけだまや](https://ja.wikipedia.org/wiki/いけだまや "wikilink")）
   - **オーダーメイド**（[髙橋一仁](https://ja.wikipedia.org/wiki/髙橋一仁 "wikilink")、全4巻\[35\]・コミックFUZでは金曜枠）
-  - おとこ喰い（原作：[伊東恒久](https://ja.wikipedia.org/wiki/伊東恒久 "wikilink")、作画：[向後つぐお](https://ja.wikipedia.org/wiki/向後つぐお "wikilink")、全10巻\[36\]）
+  - おとこ喰い（原作：[伊東恒久](../Page/伊東恒久.md "wikilink")、作画：[向後つぐお](https://ja.wikipedia.org/wiki/向後つぐお "wikilink")、全10巻\[36\]）
   - [鬼踊れ\!\!](https://ja.wikipedia.org/wiki/鬼踊れ!! "wikilink")（[篠原ウミハル](https://ja.wikipedia.org/wiki/篠原ウミハル "wikilink")、全3巻\[37\]）
   - おもいで橋 我楽多本舗（[芳家圭三](https://ja.wikipedia.org/wiki/芳家圭三 "wikilink")、全2巻\[38\]）
   - 折姫（芳家圭三）

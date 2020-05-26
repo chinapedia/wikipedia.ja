@@ -15,7 +15,7 @@
   - [ジェイソン・ケイ](https://ja.wikipedia.org/wiki/ジェイソン・ケイ "wikilink")（ジェイ・ケイ） - [ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")（ミュージシャングループ）のリーダー。
   - [ジュセリーノ・クビチェック](../Page/ジュセリーノ・クビチェック.md "wikilink") - 元[ブラジル連邦共和国大統領](../Page/ブラジル連邦共和国大統領.md "wikilink")。
   - [ジェイソン・キング](https://ja.wikipedia.org/wiki/:en:Jason_King_\(radio\) "wikilink") - イギリスのラジオDJ、テレビの司会者。
-  - [イェレナ・カルレウシャ](https://ja.wikipedia.org/wiki/イェレナ・カルレウシャ "wikilink") - セルビア人の[ターボ・フォーク](../Page/ターボ・フォーク.md "wikilink")歌手。
+  - [イェレナ・カルレウシャ](../Page/イェレナ・カルレウシャ.md "wikilink") - セルビア人の[ターボ・フォーク](../Page/ターボ・フォーク.md "wikilink")歌手。
   - [ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink") (John Fitzgerald Kennedy, JFK) - [1963年](../Page/1963年.md "wikilink")に暗殺された元アメリカ合衆国大統領。
   - [北野順一](../Page/北野順一.md "wikilink") (**J**unichi **K**itano) - ラジオパーソナリティ。
   - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink") - お笑いコンビ。「JK」名で、CDを発売。

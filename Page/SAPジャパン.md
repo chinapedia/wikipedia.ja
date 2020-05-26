@@ -19,7 +19,7 @@ SAPジャパンは、1992年10月に[ヨーロッパ](../Page/ヨーロッパ.md
 
 #### ERP
 
-世界的に圧倒的なシェアを誇る[SAPの](../Page/SAP_\(企業\).md "wikilink")[ERPパッケージ](https://ja.wikipedia.org/wiki/ERPパッケージ "wikilink")は、日本市場においても大企業を中心に導入されており、国内トップシェアを誇っている。\[8\] ERPは顧客企業の規模に応じて「[SAP S/4HANA](https://ja.wikipedia.org/wiki/SAP_S/4HANA "wikilink")」、「[SAP Business All-in-One](https://ja.wikipedia.org/wiki/SAP_Business_All-in-One "wikilink")」、「[SAP Business ByDesign](https://ja.wikipedia.org/wiki/SAP_Business_ByDesign "wikilink")」、「[SAP Business One](https://ja.wikipedia.org/wiki/SAP_Business_One "wikilink")」の4段階のパッケージおよびクラウドソリューションが提供されている。
+世界的に圧倒的なシェアを誇る[SAPの](../Page/SAP_\(企業\).md "wikilink")[ERPパッケージ](https://ja.wikipedia.org/wiki/ERPパッケージ "wikilink")は、日本市場においても大企業を中心に導入されており、国内トップシェアを誇っている。\[8\] ERPは顧客企業の規模に応じて「[SAP S/4HANA](https://ja.wikipedia.org/wiki/SAP_S/4HANA "wikilink")」、「[SAP Business All-in-One](https://ja.wikipedia.org/wiki/SAP_Business_All-in-One "wikilink")」、「[SAP Business ByDesign](https://ja.wikipedia.org/wiki/SAP_Business_ByDesign "wikilink")」、「[SAP Business One](../Page/SAP_Business_One.md "wikilink")」の4段階のパッケージおよびクラウドソリューションが提供されている。
 
 2013年2月には同社のインメモリーデータベース「[SAP HANA](https://ja.wikipedia.org/wiki/SAP_HANA "wikilink")」（ハナ）に対応したERPを含む業務アプリケーション群「SAP Business Suite powered by SAP HANA」を発表した。また、2015年2月には、SAP HANAを専用[データベース](../Page/データベース.md "wikilink")として採用した第4世代ERPとして「[SAP Business Suite 4 HANA（通称：SAP S/4 HANA）](https://ja.wikipedia.org/wiki/SAP_S/4HANA "wikilink")」をリリースした。\[9\]\[10\]
 
@@ -109,9 +109,9 @@ SAPジャパンは国内のデータセンターから稼働率99.9%のアプリ
   - [SAP R/3](https://ja.wikipedia.org/wiki/SAP_R/3 "wikilink") ([SAP ERP](https://ja.wikipedia.org/wiki/SAP_ERP "wikilink")): SAP社の開発したERPソフトウェアのひとつ。
   - [SAP Business All-in-One](https://ja.wikipedia.org/wiki/SAP_Business_All-in-One "wikilink"): SAP社の開発したERPソフトウェアを使ったビジネスパートナーによるソリューション。
   - [SAP Business ByDesign](https://ja.wikipedia.org/wiki/SAP_Business_ByDesign "wikilink"): SAP社の開発したクラウドネイティブの[SaaS](../Page/SaaS.md "wikilink")型ERPソフトウェアサービス。
-  - [SAP Business One](https://ja.wikipedia.org/wiki/SAP_Business_One "wikilink"): SAP社の開発したERPソフトウェア。中堅・中小企業向け「シンプルかつパワフル」がコンセプト
+  - [SAP Business One](../Page/SAP_Business_One.md "wikilink"): SAP社の開発したERPソフトウェア。中堅・中小企業向け「シンプルかつパワフル」がコンセプト
   - [SAP NetWeaver](https://ja.wikipedia.org/wiki/SAP_NetWeaver "wikilink"): SAPアプリケーションを開発、運用するために必要な統合プラットフォーム。
-  - [ABAP](https://ja.wikipedia.org/wiki/ABAP "wikilink"): SAPアプリケーションを開発するためのSAP社の独自[プログラミング言語](../Page/プログラミング言語.md "wikilink")。[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")対応。
+  - [ABAP](../Page/ABAP.md "wikilink"): SAPアプリケーションを開発するためのSAP社の独自[プログラミング言語](../Page/プログラミング言語.md "wikilink")。[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")対応。
   - [SAPユニバーシティ・アライアンス](../Page/SAPユニバーシティ・アライアンス.md "wikilink")
 
 ## 外部リンク

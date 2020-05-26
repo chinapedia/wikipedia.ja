@@ -1,7 +1,7 @@
 > この記事は[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED)から翻訳されています。
 
 
-『**チャンピオンRED**』（チャンピオンレッド）は、[秋田書店](../Page/秋田書店.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")（同年10月号）創刊、毎月19日発売。
+『**チャンピオンRED**』（チャンピオンレッド）は、[秋田書店](../Page/秋田書店.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")（同年10月号）創刊、毎月19日発売。
 
 創刊時よりハイティーン向け漫画雑誌としての性質を持っていたが、全ての漢字にルビを振り\[1\]、創刊3号において表紙に『**日本の少年誌**』などと殊更大きく表記し、創刊翌年に設けられた単行本レーベル「[チャンピオンREDコミックス](https://ja.wikipedia.org/wiki/チャンピオンREDコミックス "wikilink")」が秋田書店の公式サイト上において「少年向けコミックス」と案内されるなど、創刊後数年間はあくまでも少年誌であることを後述のキャッチコピーと共に主張していた\[2\]。創刊当初、[沢考史](https://ja.wikipedia.org/wiki/沢考史 "wikilink")（現・『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』編集長）が編集長を務めていた時期には『[プラレス3四郎](../Page/プラレス3四郎.md "wikilink")』や『[風魔の小次郎](https://ja.wikipedia.org/wiki/風魔の小次郎 "wikilink")』、『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』などといった往年の人気少年漫画作品の続編、またはリメイク・外伝作品の連載や、暴力表現が強めな作風であったり他誌が行わないような実験的な作風が目立っていた。しかし、[2006年](../Page/2006年.md "wikilink")1月号で編集長が[伊藤純に交代し](https://ja.wikipedia.org/wiki/伊藤純_\(漫画編集者\) "wikilink")、以降2006年12月に[美少女](../Page/美少女.md "wikilink")路線に特化した隔月刊行の増刊『[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")』を創刊する。本誌の編集方針も従来の路線を少しずつ拡縮していく形で、萌え系やソフトエロの要素を多分に含む美少女路線やメディアミックス作品の強化が行われた。
 
@@ -94,7 +94,7 @@
   - [おキツネさまでChu](../Page/おキツネさまでChu.md "wikilink")♥（[速野悠二](../Page/速野悠二.md "wikilink")）2003年6月号 - 2006年7月号
   - 乙女とちぎり（[佐藤健悦](https://ja.wikipedia.org/wiki/佐藤健悦 "wikilink")）2016年10月号 - 2016年12月号
   - 鬼切姫 〜オードバスタープリンセス〜（[林雄一](https://ja.wikipedia.org/wiki/林雄一 "wikilink")）2005年11月号 - 2006年4月号
-  - [お姉ちゃんバラ 紅](../Page/お姉チャンバラ.md "wikilink")（原作：[TAMSOFT](https://ja.wikipedia.org/wiki/タムソフト "wikilink")/[D3 PUBLISHER](../Page/ディースリー・パブリッシャー.md "wikilink")、漫画：服部三枝）2008年12月号 - 2009年8月号
+  - [お姉ちゃんバラ 紅](../Page/お姉チャンバラ.md "wikilink")（原作：[TAMSOFT](../Page/タムソフト.md "wikilink")/[D3 PUBLISHER](../Page/ディースリー・パブリッシャー.md "wikilink")、漫画：服部三枝）2008年12月号 - 2009年8月号
   - おもちゃイイフォメーション（[山本賢治](../Page/山本賢治.md "wikilink")）2004年2月号 - 2004年11月号
   - オルビム（監修：[板垣恵介](../Page/板垣恵介.md "wikilink")、原作：かさはら倫尚、漫画：[井上元伸](https://ja.wikipedia.org/wiki/井上元伸 "wikilink")）2007年3月号 - 2007年7月号、※未完
 
@@ -112,7 +112,7 @@
   - [グレンダイザー ギガ](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー#コミカライズ "wikilink")（[永井豪](../Page/永井豪.md "wikilink")とダイナミックプロ）2014年11月号 - 2015年9月号
   - [鉄（くろがね）のラインバレル](https://ja.wikipedia.org/wiki/鉄のラインバレル "wikilink")（[清水栄一](https://ja.wikipedia.org/wiki/清水栄一 "wikilink")×[下口智裕](https://ja.wikipedia.org/wiki/下口智裕 "wikilink")）2005年2月号 - 2015年6月号
   - クロスエッチ（[糸杉柾宏](https://ja.wikipedia.org/wiki/糸杉柾宏 "wikilink")）2014年9月号 - 2015年9月号
-  - 芸術クラスに男は僕しかいない。（[二ノ瀬泰徳](https://ja.wikipedia.org/wiki/二ノ瀬泰徳 "wikilink")）2013年1月号 - 2016年6月号
+  - 芸術クラスに男は僕しかいない。（[二ノ瀬泰徳](../Page/二ノ瀬泰徳.md "wikilink")）2013年1月号 - 2016年6月号
   - GATE RUNNER（[吉富昭仁](../Page/吉富昭仁.md "wikilink")）2006年1月号 - 2006年10月号
   - [月光のカルネヴァーレ](https://ja.wikipedia.org/wiki/月光のカルネヴァーレ "wikilink")（原作：[ニトロプラス](../Page/ニトロプラス.md "wikilink")、脚本：[下倉バイオ](https://ja.wikipedia.org/wiki/下倉バイオ "wikilink")、漫画：隅田かずあさ）2007年4月号 - 2008年2月号
   - 幻影戦獄伝デモニオ（廣瀬周）2011年7月号 - 2011年11月号、※未完
@@ -182,7 +182,7 @@
 
 ### な行
 
-  - [人間失格 壊](https://ja.wikipedia.org/wiki/人間失格_壊 "wikilink")（原案：[太宰治](../Page/太宰治.md "wikilink")、漫画：[二ノ瀬泰徳](https://ja.wikipedia.org/wiki/二ノ瀬泰徳 "wikilink")）2010年4月号 - 2010年7月号
+  - [人間失格 壊](https://ja.wikipedia.org/wiki/人間失格_壊 "wikilink")（原案：[太宰治](../Page/太宰治.md "wikilink")、漫画：[二ノ瀬泰徳](../Page/二ノ瀬泰徳.md "wikilink")）2010年4月号 - 2010年7月号
   - にんこい 〜隠恋慕秘帖〜（炎堂たつや）2014年4月号 - 2015年8月号
   - NONすけ〜る（青本もあ）2010年8月号 - 2011年7月号\[12\]
 
@@ -222,7 +222,7 @@
   - [魔王ダンテ対ゲッターロボG](https://ja.wikipedia.org/wiki/魔王ダンテ対ゲッターロボG "wikilink")（[永井豪](../Page/永井豪.md "wikilink")）2011年10月号 - 2012年2月号
   - [まおゆう魔王勇者 〜丘の向こうへ〜](https://ja.wikipedia.org/wiki/まおゆう魔王勇者 "wikilink")（原作：[橙乃ままれ](https://ja.wikipedia.org/wiki/橙乃ままれ "wikilink")、漫画：[峠比呂](https://ja.wikipedia.org/wiki/峠比呂 "wikilink")）2011年7月号 - 2014年10月号
   - [魔女と百騎兵](https://ja.wikipedia.org/wiki/魔女と百騎兵 "wikilink")（原作：[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink")、漫画：[ザンクロー](../Page/ザンクロー.md "wikilink")）2012年9月号 - 2013年4月号
-  - [魔女の騎士](../Page/魔女の騎士.md "wikilink")〜ヘクセン＝リッター〜（[二ノ瀬泰徳](https://ja.wikipedia.org/wiki/二ノ瀬泰徳 "wikilink")）2006年9月号 - 2007年11月号
+  - [魔女の騎士](../Page/魔女の騎士.md "wikilink")〜ヘクセン＝リッター〜（[二ノ瀬泰徳](../Page/二ノ瀬泰徳.md "wikilink")）2006年9月号 - 2007年11月号
   - まゆたんのお家（[山本賢治](../Page/山本賢治.md "wikilink")）2017年7月号 - 2017年10月号、※シリーズ連載、『チャンピオンクロス』に移籍。
   - まんがケモノ道（[あべ・とおる](https://ja.wikipedia.org/wiki/あべ・とおる "wikilink")）2004年5月号 - 2006年2月号
   - マンゲリラ（[あべ・とおる](https://ja.wikipedia.org/wiki/あべ・とおる "wikilink")）2002年10月号 - 2004年1月号

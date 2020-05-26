@@ -47,7 +47,7 @@
 グループ会社の[ローソンエンタテインメント](../Page/ローソンエンタテインメント.md "wikilink")が受託販売しているコンサート・ライブ・スポーツ観戦などLコードが符番されたチケットの購入や、事前に予約したチケットの引換が可能。
 
   - [J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")、[J2](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")、[J3全ての試合](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")（ローソンが[Jリーグのオフィシャルスポンサー企業であったことに由来](../Page/日本プロサッカーリーグ.md "wikilink")）
-  - [東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")・[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")の日付指定前売券や各種スペシャルパスポート
+  - [東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")・[ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")の日付指定前売券や各種スペシャルパスポート
   - [三鷹の森ジブリ美術館](../Page/三鷹の森ジブリ美術館.md "wikilink")・[藤子・F・不二雄ミュージアム](https://ja.wikipedia.org/wiki/藤子・F・不二雄ミュージアム "wikilink")の日時指定予約の入場券(L)
 
 <!-- end list -->
@@ -193,8 +193,8 @@
 ## 関連項目
 
   - [東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")
-  - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")
-  - [三鷹の森ジブリ美術館](../Page/三鷹の森ジブリ美術館.md "wikilink") - [JFN各局にて](../Page/全国FM放送協議会.md "wikilink")[東京送出で独自CMを流している](../Page/エフエム東京.md "wikilink")（店内ラジオ放送『[CSほっと](https://ja.wikipedia.org/wiki/ローソンCSほっとステーション "wikilink")』でも独自CM送出実施）。
+  - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")
+  - [三鷹の森ジブリ美術館](../Page/三鷹の森ジブリ美術館.md "wikilink") - [JFN各局にて](../Page/全国FM放送協議会.md "wikilink")[東京送出で独自CMを流している](../Page/エフエム東京.md "wikilink")（店内ラジオ放送『[CSほっと](../Page/ローソンCSほっとステーション.md "wikilink")』でも独自CM送出実施）。
   - [ローソンチケット](https://ja.wikipedia.org/wiki/ローソンチケット "wikilink")
   - [i.JTB](https://ja.wikipedia.org/wiki/i.JTB "wikilink")
   - [toto](../Page/スポーツ振興くじ.md "wikilink") ※『BIG』も購入受け付け

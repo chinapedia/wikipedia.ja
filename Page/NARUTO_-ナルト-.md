@@ -834,7 +834,7 @@
 #### 2006年版（初演）
 
   -
-    2006年5月、東京・大阪にて、[ミュージカル](../Page/ミュージカル.md "wikilink")と[イリュージョン](https://ja.wikipedia.org/wiki/イリュージョン_\(奇術\) "wikilink")（大規模な[マジック](../Page/奇術.md "wikilink")）を融合した“忍者イリュージョン”として戯曲化。
+    2006年5月、東京・大阪にて、[ミュージカル](../Page/ミュージカル.md "wikilink")と[イリュージョン](../Page/イリュージョン_\(奇術\).md "wikilink")（大規模な[マジック](../Page/奇術.md "wikilink")）を融合した“忍者イリュージョン”として戯曲化。
     主要キャストはジャニーズ事務所の所属ユニット・[ミュージカル・アカデミー](../Page/Musical_Academy.md "wikilink") (MA)。イリュージョン演出は[プリンセス天功（プリンセス・テンコー）](https://ja.wikipedia.org/wiki/引田天功_\(2代目\) "wikilink")、脚本・演出は[きだつよし](../Page/きだつよし.md "wikilink")が担当した。
       - 公演日と場所
     :\* 東京公演 ： 5月4日 - 14日・[五反田ゆうぽうと](https://ja.wikipedia.org/wiki/五反田ゆうぽうと "wikilink")簡易保険ホール

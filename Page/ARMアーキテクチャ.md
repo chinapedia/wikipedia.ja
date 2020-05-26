@@ -381,7 +381,7 @@ ARM60 CPU (P60ARM)
 <td></td>
 <td><p>16KB/16KB, MMU</p></td>
 <td><p>200 MIPS @ 180 MHz</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Armadillo_CPU_Boards" title="wikilink">Armadillo</a>, <a href="https://ja.wikipedia.org/wiki/GP32" title="wikilink">GP32</a>,<a href="https://ja.wikipedia.org/wiki/GP2X" title="wikilink">GP2X</a> (マスタ), <a href="https://ja.wikipedia.org/wiki/:en:Tapwave_Zodiac" title="wikilink">:en:Tapwave Zodiac</a> (<a href="https://ja.wikipedia.org/wiki/Motorola" title="wikilink">Motorola</a> i. MX1)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Armadillo_CPU_Boards" title="wikilink">Armadillo</a>, <a href="https://ja.wikipedia.org/wiki/GP32" title="wikilink">GP32</a>,<a href="../Page/GP2X.md" title="wikilink">GP2X</a> (マスタ), <a href="https://ja.wikipedia.org/wiki/:en:Tapwave_Zodiac" title="wikilink">:en:Tapwave Zodiac</a> (<a href="https://ja.wikipedia.org/wiki/Motorola" title="wikilink">Motorola</a> i. MX1)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -399,7 +399,7 @@ ARM60 CPU (P60ARM)
 <td></td>
 <td><p>4KB/4KB, MPU</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GP2X" title="wikilink">GP2X</a> (スレーブ)</p></td>
+<td><p><a href="../Page/GP2X.md" title="wikilink">GP2X</a> (スレーブ)</p></td>
 <td></td>
 <td></td>
 </tr>

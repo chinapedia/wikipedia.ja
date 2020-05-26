@@ -21,7 +21,7 @@
   - [ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")（[Hindustan Aeronautics Limited](https://ja.wikipedia.org/wiki/:en:Hindustan_Aeronautics_Limited "wikilink")） - [インド](../Page/インド.md "wikilink")の航空機メーカー。
   - [HAL (専門学校)](../Page/HAL_\(専門学校\).md "wikilink") - 日本の[専門学校](../Page/専門学校.md "wikilink")。旧校名は「コンピュータ総合学園HAL」で、[学校法人日本教育財団](../Page/学校法人日本教育財団.md "wikilink")が運営。
   - [HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink") - 日本の[ゲームソフト](../Page/ゲームソフト.md "wikilink")開発会社。
-  - HAL INDUSTRY（[ハル・インダストリ](https://ja.wikipedia.org/wiki/ハル・インダストリ "wikilink")）- 日本の消臭研究会社。
+  - HAL INDUSTRY（[ハル・インダストリ](../Page/ハル・インダストリ.md "wikilink")）- 日本の消臭研究会社。
   - [HALコンピュータシステム](https://ja.wikipedia.org/wiki/HALコンピュータシステム "wikilink") - コンピュータ製造会社。
   - [ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink") - 日本のアニメ制作会社。
   - H.A.L（ハルインターネット） - 有限会社[ウイルが運営する](https://ja.wikipedia.org/wiki/ウイル_\(インターネットサービスプロバイダ\) "wikilink")[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")。
@@ -33,7 +33,7 @@
   - [HAL (ミュージシャン)](https://ja.wikipedia.org/wiki/HAL_\(ミュージシャン\) "wikilink") - 日本のギタリスト。
   - [HΛL](../Page/HΛL.md "wikilink") - 日本の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。
   - [Artist HAL](https://ja.wikipedia.org/wiki/Artist_HAL "wikilink") - 日本のアーティスト。デジタルとアナログを融合するペイント作品を制作発表。
-  - [hal (漫画家)](https://ja.wikipedia.org/wiki/hal_\(漫画家\) "wikilink") - 日本の[成人向け](https://ja.wikipedia.org/wiki/成人向け "wikilink")[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。猟奇的な作風を得意とする。
+  - [hal (漫画家)](https://ja.wikipedia.org/wiki/hal_\(漫画家\) "wikilink") - 日本の[成人向け](https://ja.wikipedia.org/wiki/成人向け "wikilink")[漫画家](../Page/漫画家.md "wikilink")。猟奇的な作風を得意とする。
 
 ## フィクション
 

@@ -807,7 +807,7 @@
   - 主題歌 - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")「[Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")」（レギュラーシリーズのみ使用）
       -
         ドラマのために書き下ろされた楽曲ではないが、企画書を読んだ宇多田が歌詞の一部を書き直しているという。
-  - サウンドトラック - [服部隆之](../Page/服部隆之.md "wikilink")『[HERO オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/HERO_オリジナル・サウンドトラック "wikilink")』
+  - サウンドトラック - [服部隆之](../Page/服部隆之.md "wikilink")『[HERO オリジナル・サウンドトラック](../Page/HERO_オリジナル・サウンドトラック.md "wikilink")』
   - 演出補 - 加門幾生（1 - 6・9・10）、長瀬国博（7 - 11）、本間美由紀、洞功二、金成国
   - 企画協力 - [樹林伸](../Page/樹林伸.md "wikilink")
   - スケジュール - 梅沢利之

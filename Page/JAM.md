@@ -29,7 +29,7 @@
   - **企業・団体・メディア**
       - [ものづくり産業労働組合](https://ja.wikipedia.org/wiki/ものづくり産業労働組合 "wikilink") (Japanese Association of Metal, Machinery, and Manufacturing workers) - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[労働組合](../Page/労働組合.md "wikilink")。
       - [日本博物館協会](https://ja.wikipedia.org/wiki/日本博物館協会 "wikilink") () の略称。
-      - [日本アニメ・マンガ専門学校](https://ja.wikipedia.org/wiki/日本アニメ・マンガ専門学校 "wikilink")の略称。（Japan Animation & Manga college）
+      - [日本アニメ・マンガ専門学校](../Page/日本アニメ・マンガ専門学校.md "wikilink")の略称。（Japan Animation & Manga college）
       - [日本鉄道模型の会](https://ja.wikipedia.org/wiki/日本鉄道模型の会 "wikilink") (Japan Association of Model railroaders) - 日本の特定非営利活動法人（[非営利団体](../Page/非営利団体.md "wikilink")）。
       - [アダルトゲーム](../Page/アダルトゲーム.md "wikilink")専門メーカー、[ストーンヘッズ](../Page/ストーンヘッズ.md "wikilink")の[純愛](../Page/純愛.md "wikilink")系ブランド。
       - [Japan Animation Contents Meetingの略称](../Page/Japan_Animation_Contents_Meeting.md "wikilink")。

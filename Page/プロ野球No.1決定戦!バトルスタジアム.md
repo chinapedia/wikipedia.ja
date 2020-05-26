@@ -79,7 +79,7 @@
   - [優香](../Page/優香.md "wikilink")
   - [山本圭壱](https://ja.wikipedia.org/wiki/山本圭壱 "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）
   - [遠藤章造](../Page/遠藤章造.md "wikilink")（[ココリコ](../Page/ココリコ.md "wikilink")）
-  - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（出演当時は[美勇伝](../Page/美勇伝.md "wikilink")に所属）
+  - [石川梨華](../Page/石川梨華.md "wikilink")（出演当時は[美勇伝](../Page/美勇伝.md "wikilink")に所属）
   - [W（ダブルユー）](../Page/W_\(ハロー!プロジェクト\).md "wikilink") - [加護亜依](../Page/加護亜依.md "wikilink")・[辻希美](../Page/辻希美.md "wikilink")
   - [蛍原徹](../Page/蛍原徹.md "wikilink")（[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")）
   - [品川庄司](../Page/品川庄司.md "wikilink")（[品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")・[庄司智春](../Page/庄司智春.md "wikilink")）
@@ -574,7 +574,7 @@
   - CG：小倉あこ
   - 広報→宣伝：仲島景子・松井信博・横山英治・神松一三・吉田雅一・松山有紀・稲葉一隆（ytv）、嶋岡亮介（ytv、2015,2018年）、三輪宗滋（ytv、2016年）、藤生朋子（ytv、2017年）、倉西伸武（ytv、2017,2018年）
   - イベント協力：[ボーイズリーグ](../Page/ボーイズリーグ.md "wikilink")
-  - 運営協力：[アライブエンタテインメント](https://ja.wikipedia.org/wiki/アライブエンタテインメント "wikilink")、I\&M
+  - 運営協力：[アライブエンタテインメント](../Page/アライブエンタテインメント.md "wikilink")、I\&M
   - 技術協力：ブロードマックス、[札幌映像プロダクション](../Page/札幌映像プロダクション.md "wikilink")（札幌→2017年）、交野警備陸送、360channel（360→2018年）
   - 美術協力：菊一タオル、デンコー、笑笑堂、[フジアール](../Page/フジアール.md "wikilink")（フジ→2018年）、アトリエルンル、日光産業（日光→2018,2019年）
   - 衣装協力：丸高衣料

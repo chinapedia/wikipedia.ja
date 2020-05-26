@@ -30,11 +30,11 @@
   - [飛騨高山テレ・エフエム](../Page/飛騨高山テレ・エフエム.md "wikilink") - 局舎内に入居するコミュニティFM運営企業。
   - [高山中継局](../Page/高山中継局.md "wikilink")
   - [NHK宮中継局](https://ja.wikipedia.org/wiki/NHK宮中継局 "wikilink")
-  - [下呂中継局](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink")
-  - [NHK飛騨金山中継局](https://ja.wikipedia.org/wiki/NHK飛騨金山中継局 "wikilink")
+  - [下呂中継局](../Page/下呂中継局.md "wikilink")
+  - [NHK飛騨金山中継局](../Page/NHK飛騨金山中継局.md "wikilink")
   - [NHK小坂中継局](https://ja.wikipedia.org/wiki/NHK小坂中継局 "wikilink")
-  - [神岡中継局](https://ja.wikipedia.org/wiki/神岡中継局 "wikilink")
-  - [神岡流葉中継局](https://ja.wikipedia.org/wiki/神岡流葉中継局 "wikilink")
+  - [神岡中継局](../Page/神岡中継局.md "wikilink")
+  - [神岡流葉中継局](../Page/神岡流葉中継局.md "wikilink")
 
 ## 外部リンク
 

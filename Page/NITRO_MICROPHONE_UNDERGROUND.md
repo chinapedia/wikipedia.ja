@@ -86,7 +86,7 @@
 <!-- end list -->
 
   - [2006年](../Page/2006年.md "wikilink")
-      - 4月2日、[Springroove](https://ja.wikipedia.org/wiki/スプリングルーヴ "wikilink") 2006に出演。
+      - 4月2日、[Springroove](../Page/スプリングルーヴ.md "wikilink") 2006に出演。
       - 4月7日、EP『UNRELEASED』を[タワーレコード](../Page/タワーレコード.md "wikilink")にて数量限定発売。
       - NITRICH主動による会員制クラブ「NITRO CAMP」を立ち上げ、年に一回行われていた同名のライブイベント「NITROCAMP」をスタート。
 

@@ -767,7 +767,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
 
 <!-- end list -->
 
-  - **渡辺和江**（出場3回 [日体大](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")[陸上部卒業](../Page/陸上競技.md "wikilink")）
+  - **渡辺和江**（出場3回 [日体大](../Page/日本体育大学.md "wikilink")[陸上部卒業](../Page/陸上競技.md "wikilink")）
 
 <!-- end list -->
 
@@ -891,7 +891,7 @@ BLACKステージは、クリフハンガーがSASUKEでも登場したプラネ
 
 <!-- end list -->
 
-  - **吉浜愛梨**（出場2回 [日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")体操競技部出身）
+  - **吉浜愛梨**（出場2回 [日本体育大学](../Page/日本体育大学.md "wikilink")体操競技部出身）
 
 <!-- end list -->
 

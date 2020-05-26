@@ -44,7 +44,7 @@
 
   - 以下はいずれもセキュリティポリスを題材とする。
       - [SP セキュリティポリス](https://ja.wikipedia.org/wiki/SP_セキュリティポリス "wikilink") - [国友やすゆき](../Page/国友やすゆき.md "wikilink")作の漫画。
-      - [SP 警視庁警備部警護課第四係](https://ja.wikipedia.org/wiki/SP_警視庁警備部警護課第四係 "wikilink") - [フジテレビの連続テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[岡田准一](../Page/岡田准一.md "wikilink")主演。
+      - [SP 警視庁警備部警護課第四係](../Page/SP_警視庁警備部警護課第四係.md "wikilink") - [フジテレビの連続テレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[岡田准一](../Page/岡田准一.md "wikilink")主演。
       - [SP THE MOTION PICTURE](https://ja.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink") - 上記テレビドラマの続編にあたる映画。
       - [SP〜警視庁警護課](https://ja.wikipedia.org/wiki/SP〜警視庁警護課 "wikilink") - [テレビ朝日](../Page/テレビ朝日.md "wikilink")の単発テレビドラマシリーズ。[渡瀬恒彦](../Page/渡瀬恒彦.md "wikilink")主演。
       - [SP 八剱貴志](https://ja.wikipedia.org/wiki/SP_八剱貴志 "wikilink") - [TBSテレビ](../Page/TBSテレビ.md "wikilink")の単発テレビドラマ。[舘ひろし](../Page/舘ひろし.md "wikilink")主演。

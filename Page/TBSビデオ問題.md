@@ -106,7 +106,7 @@ TBSビデオ問題発覚から[1996年](../Page/1996年.md "wikilink")以降、T
   - [Aleph](https://ja.wikipedia.org/wiki/アレフ_\(宗教団体\) "wikilink")、[ひかりの輪](../Page/ひかりの輪.md "wikilink") - いずれも[オウム真理教](https://ja.wikipedia.org/wiki/オウム真理教 "wikilink")の後継組織。
   - [日本テレビ長官狙撃自白報道](https://ja.wikipedia.org/wiki/日本テレビ長官狙撃自白報道 "wikilink")
   - [TBSテレビ\#不祥事・事件・トラブル](https://ja.wikipedia.org/wiki/TBSテレビ#不祥事・事件・トラブル "wikilink")
-  - [TBSビデオテープ押収事件](https://ja.wikipedia.org/wiki/TBSビデオテープ押収事件 "wikilink") - 1990年に暴力団を取材したビデオテープが捜査資料として押収された事件。
+  - [TBSビデオテープ押収事件](../Page/TBSビデオテープ押収事件.md "wikilink") - 1990年に暴力団を取材したビデオテープが捜査資料として押収された事件。
 
 ## 外部リンク
 
@@ -114,7 +114,7 @@ TBSビデオ問題発覚から[1996年](../Page/1996年.md "wikilink")以降、T
 
 [Category:TBSの不祥事](https://ja.wikipedia.org/wiki/Category:TBSの不祥事 "wikilink") [Category:オウム真理教事件](https://ja.wikipedia.org/wiki/Category:オウム真理教事件 "wikilink") [Category:1989年の日本](https://ja.wikipedia.org/wiki/Category:1989年の日本 "wikilink") [Category:1989年10月](https://ja.wikipedia.org/wiki/Category:1989年10月 "wikilink")
 
-1.  単にTBS事件といえば[TBS成田事件](https://ja.wikipedia.org/wiki/TBS成田事件 "wikilink")を指すことが多いため注意が必要である。
+1.  単にTBS事件といえば[TBS成田事件](../Page/TBS成田事件.md "wikilink")を指すことが多いため注意が必要である。
 2.  1996年4月30日19時00分から放映されたTBS社長による特別番組「視聴者の皆様へ」、「坂本弁護士テープ問題」及び関連調査書、株式会社東京放送（1996年4月30日、再調査書）による
 3.  水中クンバカ以外に「被害者の会」関係者の主張も放映するのか確認するとともに、どのような「被害者の会」関係者の主張を放映するのか教えるよう要求しました。経緯は忘れたのですが、TBS側も教団の反論を聞かずに放映することはできないと考えたのか、録画していた「被害者の会」関係者のビデオを見せてくれたのでした。（「ビデオ問題検証特番『証言・坂本弁護士テープ問題から6年半』で放映された早川供述調書の内容による）
 4.

@@ -378,7 +378,7 @@ Phillips with a laugh changed the signal to "S.O.S."</p></td>
 
 なお[国際民間航空機関](../Page/国際民間航空機関.md "wikilink")（ICAO）は[国際民間航空条約の附属書](../Page/シカゴ条約.md "wikilink")12「捜索および救難」において**対空目視信号**（Ground-Air Visual Signal Code）を定めており、シンボル「」には"Require assistance（救助を要す）"という意味が与えられている\[126\]。
 
-公益財団法人交通エコロジー・モビリティ財団が「」の文字と受話器や押しボタンを組み合わせて、[非常電話](https://ja.wikipedia.org/wiki/非常電話 "wikilink")・[非常ボタン](https://ja.wikipedia.org/wiki/非常ボタン "wikilink")を表す[ピクトグラム](../Page/ピクトグラム.md "wikilink")を策定しており\[127\]、[JIS Z 8210でも同デザインで採用され](https://ja.wikipedia.org/wiki/JIS_Z_8210 "wikilink")、[鉄道車両](../Page/鉄道車両.md "wikilink")内や[鉄道駅](../Page/鉄道駅.md "wikilink")などに表示されている場合がある。
+公益財団法人交通エコロジー・モビリティ財団が「」の文字と受話器や押しボタンを組み合わせて、[非常電話](../Page/非常電話.md "wikilink")・[非常ボタン](https://ja.wikipedia.org/wiki/非常ボタン "wikilink")を表す[ピクトグラム](../Page/ピクトグラム.md "wikilink")を策定しており\[127\]、[JIS Z 8210でも同デザインで採用され](https://ja.wikipedia.org/wiki/JIS_Z_8210 "wikilink")、[鉄道車両](../Page/鉄道車両.md "wikilink")内や[鉄道駅](../Page/鉄道駅.md "wikilink")などに表示されている場合がある。
 
 モールス符号の  からの派生として、何かの信号を3回ずつ一定間隔で繰り返すことで、救助を求める信号となる（例：光を3回点滅させる、笛を3回鳴らす、銃を3回発砲する、石を3個重ねる、3本の棒切れを等間隔に立てる、周辺の物を燃やして3つの煙を等間隔に立てる、三角を描くように飛行する）\[128\]。
 

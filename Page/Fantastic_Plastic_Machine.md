@@ -1580,7 +1580,7 @@ VICL-63932</p></td>
   - 2007年12月　韓国で開催された [adidasのパーティに出演](../Page/アディダス.md "wikilink")
   - 2008年3月　香港で開催された[Louis Vuittonのパーティに出演](../Page/ルイ・ヴィトン.md "wikilink")
   - 2008年10月　パリ・Le Reginで開催されたcolette , wonderwall のパーティに出演
-  - 2009年9月　韓国「Global Gathering Festival 09 in Han Riverside Park」に出演（[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")(m-flo) と共演）
+  - 2009年9月　韓国「Global Gathering Festival 09 in Han Riverside Park」に出演（[VERBAL](../Page/VERBAL.md "wikilink")(m-flo) と共演）
   - 2009年9月　香港[Underworld](../Page/アンダーワールド.md "wikilink") のライブにてサポートDJを務める
   - 2010年10月　台北「Pusan International Film Festival」のパーティに出演
   - 2012年9月　台北で開催された[adidasのパーティに出演](../Page/アディダス.md "wikilink")

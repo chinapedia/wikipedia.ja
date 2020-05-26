@@ -1,7 +1,7 @@
 > この記事は[YUG](https://ja.wikipedia.org/wiki/YUG)から翻訳されています。
 
 
-**YUG**（ゆぐ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。
+**YUG**（ゆぐ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](../Page/漫画家.md "wikilink")。
 
 ## 人物
 
@@ -43,7 +43,7 @@
 
 ## イラストの作画
 
-簡潔に記す。下描きをした画用紙に茶色の色鉛筆でキャラの主線をひく⇒[コピック](../Page/コピック.md "wikilink")で塗りこんでいく⇒塗った後、濃い色で再度主線を入れる⇒人物の頬や[スカート](../Page/スカート.md "wikilink")の影にピンク系のパステルを削って綿棒やティッシュに取って、のせる⇒黒の色鉛筆で最後に主線を入れ、[ミルキー](https://ja.wikipedia.org/wiki/ミルキー "wikilink")ペンで髪にハイライトをいれて、完成。
+簡潔に記す。下描きをした画用紙に茶色の色鉛筆でキャラの主線をひく⇒[コピック](../Page/コピック.md "wikilink")で塗りこんでいく⇒塗った後、濃い色で再度主線を入れる⇒人物の頬や[スカート](../Page/スカート.md "wikilink")の影にピンク系のパステルを削って綿棒やティッシュに取って、のせる⇒黒の色鉛筆で最後に主線を入れ、[ミルキー](../Page/ミルキー.md "wikilink")ペンで髪にハイライトをいれて、完成。
 
 ## 脚注
 

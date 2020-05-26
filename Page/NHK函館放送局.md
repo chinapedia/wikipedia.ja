@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - [大沼](../Page/大沼中継局.md "wikilink") 総合40ch 教育42ch 出力3W 2008年11月17日開局
-  - [江差](https://ja.wikipedia.org/wiki/江差テレビ・FM中継局 "wikilink") 総合31ch 教育13ch 出力10W 2008年12月19日開局
+  - [江差](../Page/江差テレビ・FM中継局.md "wikilink") 総合31ch 教育13ch 出力10W 2008年12月19日開局
   - [奥尻大成](../Page/奥尻大成中継局.md "wikilink") 総合18ch 教育14ch 出力10W 2008年12月25日開局
   - [厚沢部](../Page/厚沢部テレビ中継局.md "wikilink") 総合42ch 教育46ch 出力1W 2009年3月5日開局
   - [江差新栄](../Page/江差町内テレビ中継局.md "wikilink") 総合43ch 教育48ch 出力0.1W 2009年12月1日開局
@@ -93,7 +93,7 @@
   - [松前](../Page/松前中継局.md "wikilink") 9ch 3W
   - [札前](../Page/松前中継局.md "wikilink") 52ch 3W※
   - [江良](../Page/NHK江良テレビ中継局.md "wikilink") 3ch 10W※
-  - [江差](https://ja.wikipedia.org/wiki/江差テレビ・FM中継局 "wikilink") 9ch 10W
+  - [江差](../Page/江差テレビ・FM中継局.md "wikilink") 9ch 10W
   - [江差鰔川](../Page/江差町内テレビ中継局.md "wikilink") 42ch 0.1W
   - [江差新栄](../Page/江差町内テレビ中継局.md "wikilink") 44ch 1W
   - [江差円山](../Page/江差町内テレビ中継局.md "wikilink") 44ch 0.5W
@@ -126,7 +126,7 @@
   - [松前](../Page/松前中継局.md "wikilink") 2ch 3W
   - [札前](../Page/松前中継局.md "wikilink") 50ch 3W※
   - [江良](../Page/NHK江良テレビ中継局.md "wikilink") 1ch 10W※
-  - [江差](https://ja.wikipedia.org/wiki/江差テレビ・FM中継局 "wikilink") 2ch 10W
+  - [江差](../Page/江差テレビ・FM中継局.md "wikilink") 2ch 10W
   - [江差鰔川](../Page/江差町内テレビ中継局.md "wikilink") 34ch 0.1W
   - [江差新栄](../Page/江差町内テレビ中継局.md "wikilink") 46ch 1W
   - [江差円山](../Page/江差町内テレビ中継局.md "wikilink") 46ch 0.5W

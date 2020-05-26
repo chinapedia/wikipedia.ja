@@ -8,7 +8,7 @@
 ### 5000番台
 
   - 5001 - 5003
-    [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")所有、三菱化成（現・[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")）借用、危険物汎用。
+    [日陸](../Page/日陸.md "wikilink")所有、三菱化成（現・[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")）借用、危険物汎用。
   - 5004 - 5010、5025
     菱成産業（現・[三菱ケミカル物流](../Page/三菱ケミカル物流.md "wikilink")）所有、危険物汎用。
   - 5011 - 5014

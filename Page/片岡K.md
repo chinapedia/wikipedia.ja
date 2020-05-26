@@ -53,7 +53,7 @@ BSフジ『[宝島の地図](../Page/宝島の地図.md "wikilink")』内の1コ
     [世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink") 秋の特別編『のどが渇く』 - フジテレビ
     世にも奇妙な物語 聖夜の特別編『ゴリラ』 - フジテレビ
     [3番テーブルの客](../Page/3番テーブルの客.md "wikilink") - フジテレビ
-    [金魚のフン](https://ja.wikipedia.org/wiki/金魚のフン "wikilink") - テレビ朝日
+    [金魚のフン](../Page/金魚のフン.md "wikilink") - テレビ朝日
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
     [いとしの未来ちゃん](../Page/いとしの未来ちゃん.md "wikilink") - テレビ朝日
     [運命の恋人](https://ja.wikipedia.org/wiki/運命の恋人 "wikilink") - テレビ朝日

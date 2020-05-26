@@ -38,7 +38,7 @@
   - [若生和也](https://ja.wikipedia.org/wiki/若生和也 "wikilink")：投手（[1967年](../Page/1967年.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")ドラフト3位→[ロッテオリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink")；退部後他チームを経て指名）
   - [高橋英二](https://ja.wikipedia.org/wiki/高橋英二 "wikilink")：内野手（[1970年](../Page/1970年.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ドラフト6位→[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")）
   - [高橋正巳](../Page/高橋正巳.md "wikilink")：投手（[1979年](../Page/1979年.md "wikilink")[日本ハムファイターズドラフト](../Page/北海道日本ハムファイターズ.md "wikilink")2位→[横浜大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")）
-  - [太田敏之](https://ja.wikipedia.org/wiki/太田敏之 "wikilink")：投手（[1981年](../Page/1981年.md "wikilink")[阪急ブレーブスドラフト](../Page/オリックス・バファローズ.md "wikilink")2位）
+  - [太田敏之](../Page/太田敏之.md "wikilink")：投手（[1981年](../Page/1981年.md "wikilink")[阪急ブレーブスドラフト](../Page/オリックス・バファローズ.md "wikilink")2位）
   - [小坂誠](../Page/小坂誠.md "wikilink")：内野手（[1996年](../Page/1996年.md "wikilink")[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")ドラフト5位→巨人→[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")）
   - [平野将光](../Page/平野将光.md "wikilink")：投手（2007年[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")大学・社会人ドラフト1位）
   - [攝津正](https://ja.wikipedia.org/wiki/攝津正 "wikilink")：投手（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")ドラフト5位）

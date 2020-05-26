@@ -13,7 +13,7 @@ Visioに用意されている図形の部品はビジネス文書やプレゼン
 
 マイクロソフトに買収されたあとには、Visio 2000 SR1、Visio 2002、Visio 2003、Visio 2007、Visio 2010、Visio 2013、Visio 2016のバージョンがリリースされている。
 
-[ソフトウェア設計](https://ja.wikipedia.org/wiki/ソフトウェア設計 "wikilink")資料作成用として[UMLのステンシルがあることからソフトウェア開発環境の](../Page/統一モデリング言語.md "wikilink")[Microsoft Visual Studio](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") .NET 2003のエンタープライズ版以上にVisioがバンドルされた。2005からは外されているが、Standard以上に搭載されるUML作成機能はVisioのサブセットである。
+[ソフトウェア設計](../Page/ソフトウェア設計.md "wikilink")資料作成用として[UMLのステンシルがあることからソフトウェア開発環境の](../Page/統一モデリング言語.md "wikilink")[Microsoft Visual Studio](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") .NET 2003のエンタープライズ版以上にVisioがバンドルされた。2005からは外されているが、Standard以上に搭載されるUML作成機能はVisioのサブセットである。
 
 ## エディションごとの違い
 

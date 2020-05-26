@@ -21,7 +21,7 @@
   - 身のほど知らずの恋
   - あぶないセンセーション
   - ハッピー<sup>2</sup>ダンス（YASU、[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")『[クッキングパパ](../Page/クッキングパパ.md "wikilink")』オープニング）
-  - [勇気のファイター](https://ja.wikipedia.org/wiki/勇気のファイター "wikilink")（YASU、[OVA](../Page/OVA.md "wikilink")『[うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")』オープニング）
+  - [勇気のファイター](https://ja.wikipedia.org/wiki/勇気のファイター "wikilink")（YASU、[OVA](../Page/OVA.md "wikilink")『[うしおととら](../Page/うしおととら.md "wikilink")』オープニング）
   - Which is?（YASU）
   - ラジオは魔法の周波数（[カーナビRadio午後一番！内で制作された番組オリジナルソング第](../Page/カーナビラジオ午後一番!.md "wikilink")1弾）
   - [セイコーマート](../Page/セイコーマート.md "wikilink") イメージソング
@@ -48,7 +48,7 @@
   - [カーナビラジオ 夕刊YASU](https://ja.wikipedia.org/wiki/カーナビラジオ_夕刊YASU "wikilink")（HBCラジオ）
   - [YASUのスーパー・ナビ2・ラジオ塾](https://ja.wikipedia.org/wiki/YASUのスーパー・ナビ2・ラジオ塾 "wikilink")（HBCラジオ）
   - [横丁ラジオ](https://ja.wikipedia.org/wiki/横丁ラジオ "wikilink")（HBCラジオ）
-  - [真夜中らじお組](https://ja.wikipedia.org/wiki/真夜中らじお組 "wikilink")（HBCラジオ）
+  - [真夜中らじお組](../Page/真夜中らじお組.md "wikilink")（HBCラジオ）
   - The Moment That Refreshes [STUDIO "C2-SQUARE\!"](https://ja.wikipedia.org/wiki/STUDIO_"C2-SQUARE!" "wikilink")（HBCラジオ）
   - [夢いろ土曜日](https://ja.wikipedia.org/wiki/夢いろ土曜日 "wikilink") 及出泰・今週のランキング（HBCラジオ、[ベストテンほっかいどう](../Page/ベストテンほっかいどう.md "wikilink")の週間ランキングを発表）
   - YASUの[ぽっぷん王国ミュージックスタジアム](../Page/ぽっぷん王国ミュージックスタジアム.md "wikilink")（HBCラジオ、金曜日のみ）

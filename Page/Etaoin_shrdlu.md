@@ -43,7 +43,7 @@
 
   - [ダグラス・ホフスタッター](../Page/ダグラス・ホフスタッター.md "wikilink")の著書『[ゲーデル、エッシャー、バッハ](../Page/ゲーデル、エッシャー、バッハ.md "wikilink")』には"SHRDLU, Toy of Man's Designing"という章がある。この中で、"SHRDLU"という名前のコンピュータープログラムを使用する"Eta Oin"というキャラクターが登場する。この章のタイトルは、[テリー・ウィノグラード](../Page/テリー・ウィノグラード.md "wikilink")のプログラム[SHRDLU](../Page/SHRDLU.md "wikilink")と、バッハの楽曲『』(Jesu, Joy of Man's Desiring)から取られたものである。
 
-  - [ジェームズ・サーバー](https://ja.wikipedia.org/wiki/ジェームズ・サーバー "wikilink")が[1931年](../Page/1931年.md "wikilink")に記した*[The Owl in the Attic and Other Perplexities](https://ja.wikipedia.org/wiki/:en:The_Owl_in_the_Attic_and_Other_Perplexities "wikilink")*において、ライノタイプ入力者の無能さを示すために、etaoin shrdluがユーモラスに用いられている。
+  - [ジェームズ・サーバー](../Page/ジェームズ・サーバー.md "wikilink")が[1931年](../Page/1931年.md "wikilink")に記した*[The Owl in the Attic and Other Perplexities](https://ja.wikipedia.org/wiki/:en:The_Owl_in_the_Attic_and_Other_Perplexities "wikilink")*において、ライノタイプ入力者の無能さを示すために、etaoin shrdluがユーモラスに用いられている。
 
 ### メディア
 

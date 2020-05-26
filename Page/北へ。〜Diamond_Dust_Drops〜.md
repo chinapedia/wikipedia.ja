@@ -78,7 +78,7 @@
   - 監督 - ボブ白旗
   - シリーズ構成 - [山口亮太](../Page/山口亮太.md "wikilink")
   - キャラクター原案 - [NOCCHI](https://ja.wikipedia.org/wiki/NOCCHI "wikilink")
-  - キャラクターデザイン - [千葉道徳](https://ja.wikipedia.org/wiki/千葉道徳 "wikilink")
+  - キャラクターデザイン - [千葉道徳](../Page/千葉道徳.md "wikilink")
   - 美術監督 - 小山俊久、渡辺紳
   - 色彩設定 - 松本真司
   - 撮影監督 - 近藤慎与
@@ -115,7 +115,7 @@
 <td><p>〜函館〜茜木温子 前篇</p></td>
 <td><p><a href="../Page/山口亮太.md" title="wikilink">山口亮太</a></p></td>
 <td><p>ボブ白旗</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉道徳" title="wikilink">千葉道徳</a><br />
+<td><p><a href="../Page/千葉道徳.md" title="wikilink">千葉道徳</a><br />
 河南正昭</p></td>
 <td></td>
 </tr>

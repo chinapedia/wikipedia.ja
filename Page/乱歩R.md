@@ -126,7 +126,7 @@
 
   - 第7話 「石川梨華に迫る真夜中のピエロの悪夢」
 
-:\* 野上愛子 - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
+:\* 野上愛子 - [石川梨華](../Page/石川梨華.md "wikilink")
 
 :\* 白井透 - [和泉元彌](../Page/和泉元彌.md "wikilink")
 
@@ -177,7 +177,7 @@
 ## スタッフ
 
   - 原作 - 江戸川乱歩
-  - 脚本 - [長川千佳子](../Page/長川千佳子.md "wikilink")、丸山智子、[林誠人](../Page/林誠人.md "wikilink")、[岡本貴也](../Page/岡本貴也.md "wikilink")、[長谷川朝二](https://ja.wikipedia.org/wiki/長谷川朝二 "wikilink")、[横田理恵](https://ja.wikipedia.org/wiki/横田理恵 "wikilink")
+  - 脚本 - [長川千佳子](../Page/長川千佳子.md "wikilink")、丸山智子、[林誠人](../Page/林誠人.md "wikilink")、[岡本貴也](../Page/岡本貴也.md "wikilink")、[長谷川朝二](../Page/長谷川朝二.md "wikilink")、[横田理恵](https://ja.wikipedia.org/wiki/横田理恵 "wikilink")
   - 音楽 - [仲西匡](../Page/仲西匡.md "wikilink")、[吉川慶](../Page/吉川慶.md "wikilink")
   - 監督 - [福本義人](../Page/福本義人.md "wikilink")、五木田亮一、池添博
   - 主題歌 - [Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")「[願い](../Page/願い_\(Fayrayの曲\).md "wikilink")」（[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")）

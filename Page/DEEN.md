@@ -31,7 +31,7 @@
 ### 2006年 - 2012年 デビュー15周年、初の武道館公演
 
   - [2006年](../Page/2006年.md "wikilink") - 世界的オーボエ奏者の[宮本文昭](../Page/宮本文昭.md "wikilink")のラストアルバムに楽曲提供。8月に千葉ロッテマリーンズ公式イメージソング「[ダイヤモンド](../Page/ダイヤモンド_\(DEENの曲\).md "wikilink")」をリリース。11月発売のPS2版[テイルズ オブ デスティニーのイメージソングに再び](https://ja.wikipedia.org/wiki/テイルズ_オブ_デスティニー "wikilink")「[夢であるように](../Page/夢であるように.md "wikilink")」が選ばれた。10月に8thアルバム『[Diamonds](../Page/Diamonds_\(DEENのアルバム\).md "wikilink")』のリリース、その後「DEEN LIVE JOY-Break11」開催。
-  - [2007年](../Page/2007年.md "wikilink") - 4月25日『DEEN LIVE JOY COMPLETE 2006-2007<PREMIUM EDITION>』と7年ぶりクラシックシリーズシングル「[Classics Three PASTEL 夢の蕾](../Page/Classics_Three_PASTEL_夢の蕾.md "wikilink")」が同時リリース。さらに、2001年から2002年まで発売したライブDVD3タイトルが5月23日に再発売。8月4日の福井を皮切りに10月21日の沖縄公演まで、全国47都道府県ライブツアーの開催が決定。クラシックシリーズシングル「[Classics Four BLUE Smile Blue](../Page/Classics_Four_BLUE_Smile_Blue.md "wikilink")」も8月22日に発売。12月19日には『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』を発売。
+  - [2007年](../Page/2007年.md "wikilink") - 4月25日『DEEN LIVE JOY COMPLETE 2006-2007<PREMIUM EDITION>』と7年ぶりクラシックシリーズシングル「[Classics Three PASTEL 夢の蕾](../Page/Classics_Three_PASTEL_夢の蕾.md "wikilink")」が同時リリース。さらに、2001年から2002年まで発売したライブDVD3タイトルが5月23日に再発売。8月4日の福井を皮切りに10月21日の沖縄公演まで、全国47都道府県ライブツアーの開催が決定。クラシックシリーズシングル「[Classics Four BLUE Smile Blue](../Page/Classics_Four_BLUE_Smile_Blue.md "wikilink")」も8月22日に発売。12月19日には『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』を発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 『DEEN LIVE JOY-Break 12〜Road to 武道館〜』が1月から開催。「夢であるように」が1月発売のPS2用ソフト「テイルオブデスティニー ディレクターズカット」のイメージソングとしてCMで放映される。6月にはベスト・アルバム『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』をリリース、デビュー15周年を記念して[武道館でライブ開催](../Page/日本武道館.md "wikilink")。その模様を収録したライブアルバムを9月3日に発売。9月23日のNamcoイベント『Tales of Festival 2008』のミニライブで「夢であるように」や「永遠の明日」などを披露。34thシングル「[永遠の明日](https://ja.wikipedia.org/wiki/永遠の明日 "wikilink")」を[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト「[テイルズ オブ ハーツ](https://ja.wikipedia.org/wiki/テイルズ_オブ_ハーツ "wikilink")」テーマソングとして提供、オリコン初登場6位を記録。
   - [2009年](../Page/2009年.md "wikilink") - 2月25日におよそ2年4ヶ月ぶりの9thアルバム『[DEEN NEXT STAGE](https://ja.wikipedia.org/wiki/DEEN_NEXT_STAGE "wikilink")』を、4月29日に35thシングル「[Celebrate](https://ja.wikipedia.org/wiki/Celebrate_\(DEENの曲\) "wikilink")」を発売。5月9日には昨年に引き続き2度目の[武道館公演である](../Page/日本武道館.md "wikilink")『DEEN LIVE JOY Special 日本武道館 2009』が行われた。7月には軽井沢と音霊で夏のライブとなる『DEEN Unplugged Summer Resort Live'09 〜Karuizawa & Zushi〜』が開催された。12月2日に10thアルバム『[LOVERS CONCERTO](https://ja.wikipedia.org/wiki/LOVERS_CONCERTO "wikilink")』を、36thシングル「[Negai feat.ミズノマリ from paris match](https://ja.wikipedia.org/wiki/Negai "wikilink")」を11月4日にリリースした。ライブツアーDEEN LIVE JOY-Break14〜Negai〜を12月5日からスタートさせた。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 5月8日、3度目の[武道館公演である](../Page/日本武道館.md "wikilink")『DEEN LIVE JOY Special 日本武道館 2010』が行われる。7月14日にシングル「[coconuts feat.kokomo](https://ja.wikipedia.org/wiki/coconuts_\(DEENの曲\) "wikilink")」、同月28日には11thアルバム『[クロール](https://ja.wikipedia.org/wiki/クロール_\(DEENのアルバム\) "wikilink")』をリリース。そして、8月と9月には去年に引き続きリゾート地でのアンプラグド・ライヴ、『DEEN Unplugged Summer Resort Live '10』が開催された。11月24日にはライブベストアルバム『ALL TIME LIVE BEST』とカップリング曲限定のベスト・アルバム『Another Side Memories　〜Precious Best』を同時リリース。その後11月27日からは、ライブツアー『DEEN LIVE JOY-Break15 〜History〜』を開催。
@@ -764,7 +764,7 @@ ESCL-5157</p></td>
 作曲:DEEN<br />
 編曲:DEEN</p></td>
 <td><p>16位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics" title="wikilink">DEEN The Best Classics</a></strong></p></td>
+<td><p><strong><a href="../Page/DEEN_The_Best_Classics.md" title="wikilink">DEEN The Best Classics</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
@@ -1065,7 +1065,7 @@ ESC8-40/45</p></td>
 <td><p>BVCR-18112~4<br />
 BVCR-18110~1</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics" title="wikilink">DEEN The Best Classics</a></strong></p></td>
+<td><p><strong><a href="../Page/DEEN_The_Best_Classics.md" title="wikilink">DEEN The Best Classics</a></strong></p></td>
 <td><p>28位</p></td>
 </tr>
 <tr class="even">
@@ -1739,7 +1739,7 @@ ESBL-2579 (DVD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Smile Blue</p></td>
-<td><p>NTV系『<a href="https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム" title="wikilink">NNN Newsリアルタイム</a>』エンタメSPORTSテーマ曲</p></td>
+<td><p>NTV系『<a href="../Page/NNN_Newsリアルタイム.md" title="wikilink">NNN Newsリアルタイム</a>』エンタメSPORTSテーマ曲</p></td>
 </tr>
 <tr class="even">
 <td><p>Sunrise Sunset</p></td>

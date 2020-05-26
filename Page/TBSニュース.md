@@ -1,7 +1,7 @@
 > この記事は[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース)から翻訳されています。
 
 
-『**TBSニュース**』（ティービーエスニュース、*TBS News*）は、[1960年](../Page/1960年.md "wikilink")から[TBSテレビ](../Page/TBSテレビ.md "wikilink")で放送されている、主に[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）向けのローカルニュース番組（2009年度を除く）。および、[1974年](../Page/1974年.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されているニュース番組・コーナー。後者には『**TBSラジオニュース**』の別名がある。
+『**TBSニュース**』（ティービーエスニュース、*TBS News*）は、[1960年](../Page/1960年.md "wikilink")から[TBSテレビ](../Page/TBSテレビ.md "wikilink")で放送されている、主に[首都圏](../Page/首都圏_\(日本\).md "wikilink")（[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")）向けのローカルニュース番組（2009年度を除く）。および、[1974年](../Page/1974年.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されているニュース番組・コーナー。後者には『**TBSラジオニュース**』の別名がある。
 
 ## テレビ
 

@@ -32,21 +32,21 @@
 
 <!-- end list -->
 
-  - **[津](https://ja.wikipedia.org/wiki/津テレビ・FM送信所 "wikilink") 28ch JONP-DTV 500W**
-  - [菰野](https://ja.wikipedia.org/wiki/菰野テレビ中継局 "wikilink") 32ch 1W
+  - **[津](../Page/津テレビ・FM送信所.md "wikilink") 28ch JONP-DTV 500W**
+  - [菰野](../Page/菰野テレビ中継局.md "wikilink") 32ch 1W
   - [桑名](https://ja.wikipedia.org/wiki/桑名中継局 "wikilink") 32ch 3W
   - [伊勢](../Page/朝熊山.md "wikilink") 29ch 10W
   - [名張](../Page/茶臼山_\(奈良県・三重県\).md "wikilink") 47ch 10W
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 32ch 10W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 29ch 3W
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 32ch 10W
+  - [熊野](../Page/熊野中継局.md "wikilink") 29ch 3W
   - [磯部](../Page/磯部中継局.md "wikilink") 28ch 1W
-  - [鳥羽](https://ja.wikipedia.org/wiki/鳥羽中継局 "wikilink") 28ch 1W
-  - [南勢](https://ja.wikipedia.org/wiki/南勢テレビ中継局 "wikilink") 23ch 1W
-  - [北勢](https://ja.wikipedia.org/wiki/北勢テレビ中継局 "wikilink") 32ch 3W
+  - [鳥羽](../Page/鳥羽中継局.md "wikilink") 28ch 1W
+  - [南勢](../Page/南勢テレビ中継局.md "wikilink") 23ch 1W
+  - [北勢](../Page/北勢テレビ中継局.md "wikilink") 32ch 3W
   - [紀宝成川](https://ja.wikipedia.org/wiki/紀宝成川テレビ中継局 "wikilink") 29ch 300mW
-  - [紀宝神ノ内](https://ja.wikipedia.org/wiki/紀宝神ノ内テレビ中継局 "wikilink") 45ch 300mW
-  - [大王船越北](https://ja.wikipedia.org/wiki/大王船越北テレビ中継局 "wikilink") 50ch 50mW
-  - [伊賀](https://ja.wikipedia.org/wiki/伊賀テレビ中継局 "wikilink") 47ch 3W
+  - [紀宝神ノ内](../Page/紀宝神ノ内テレビ中継局.md "wikilink") 45ch 300mW
+  - [大王船越北](../Page/大王船越北テレビ中継局.md "wikilink") 50ch 50mW
+  - [伊賀](../Page/伊賀テレビ中継局.md "wikilink") 47ch 3W
   - [島ヶ原](https://ja.wikipedia.org/wiki/NHK島ヶ原テレビ中継局 "wikilink") 39ch 50mW
 
 <!-- end list -->
@@ -55,43 +55,43 @@
 
 <!-- end list -->
 
-  - [津](https://ja.wikipedia.org/wiki/津テレビ・FM送信所 "wikilink") 44ch 50W
+  - [津](../Page/津テレビ・FM送信所.md "wikilink") 44ch 50W
   - [伊勢](../Page/朝熊山.md "wikilink") 13ch 10W
   - [名張](../Page/茶臼山_\(奈良県・三重県\).md "wikilink") 33ch 10W
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 13ch 10W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 33ch 3W
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 13ch 10W
+  - [熊野](../Page/熊野中継局.md "wikilink") 33ch 3W
   - [磯部](../Page/磯部中継局.md "wikilink") 30ch 1W / 48ch 3W（デジタル[混信](../Page/混信.md "wikilink")対策局）
-  - [鳥羽](https://ja.wikipedia.org/wiki/鳥羽中継局 "wikilink") 44ch 1W
-  - [南勢](https://ja.wikipedia.org/wiki/南勢テレビ中継局 "wikilink") 13ch 1W
-  - [北勢](https://ja.wikipedia.org/wiki/北勢テレビ中継局 "wikilink") 44ch 3W
+  - [鳥羽](../Page/鳥羽中継局.md "wikilink") 44ch 1W
+  - [南勢](../Page/南勢テレビ中継局.md "wikilink") 13ch 1W
+  - [北勢](../Page/北勢テレビ中継局.md "wikilink") 44ch 3W
   - [紀宝成川](https://ja.wikipedia.org/wiki/紀宝成川テレビ中継局 "wikilink") 33ch 300mW
-  - [紀宝神ノ内](https://ja.wikipedia.org/wiki/紀宝神ノ内テレビ中継局 "wikilink") 47ch 300mW
-  - [大王船越北](https://ja.wikipedia.org/wiki/大王船越北テレビ中継局 "wikilink") 52ch 50mW
-  - [伊賀](https://ja.wikipedia.org/wiki/伊賀テレビ中継局 "wikilink") 33ch 3W
+  - [紀宝神ノ内](../Page/紀宝神ノ内テレビ中継局.md "wikilink") 47ch 300mW
+  - [大王船越北](../Page/大王船越北テレビ中継局.md "wikilink") 52ch 50mW
+  - [伊賀](../Page/伊賀テレビ中継局.md "wikilink") 33ch 3W
   - [島ヶ原](https://ja.wikipedia.org/wiki/NHK島ヶ原テレビ中継局 "wikilink") 44ch 50mW
 
 ### FM放送
 
-  - **[津](https://ja.wikipedia.org/wiki/津テレビ・FM送信所 "wikilink") 81.8[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") JONP-FM 3kW**
+  - **[津](../Page/津テレビ・FM送信所.md "wikilink") 81.8[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink") JONP-FM 3kW**
   - [名張](../Page/茶臼山_\(奈良県・三重県\).md "wikilink") 84.4MHz 100W
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 84.5MHz 100W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 84.9MHz 10W（垂直偏波）
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 84.5MHz 100W
+  - [熊野](../Page/熊野中継局.md "wikilink") 84.9MHz 10W（垂直偏波）
   - [志摩磯部](../Page/磯部中継局.md "wikilink") 82.8MHz 100W
-  - [鳥羽](https://ja.wikipedia.org/wiki/鳥羽中継局 "wikilink") 84.7MHz 1W（垂直偏波）
+  - [鳥羽](../Page/鳥羽中継局.md "wikilink") 84.7MHz 1W（垂直偏波）
   - [尾鷲輪内](https://ja.wikipedia.org/wiki/輪内中継局 "wikilink") 84.7MHz 1W
   - [大紀大宮](https://ja.wikipedia.org/wiki/大紀大宮中継局 "wikilink") 84.1MHz 10W
   - [大台宮川](https://ja.wikipedia.org/wiki/大台宮川中継局 "wikilink") 81.4MHz 1W
 
 ### ラジオ第1放送
 
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 1161[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 100W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 1368kHz 100W
-  - [伊賀上野](https://ja.wikipedia.org/wiki/上野ラジオ中継局 "wikilink") 1161kHz 100W
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 1161[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 100W
+  - [熊野](../Page/熊野中継局.md "wikilink") 1368kHz 100W
+  - [伊賀上野](../Page/上野ラジオ中継局.md "wikilink") 1161kHz 100W
 
 ### ラジオ第2放送
 
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 1539kHz 100W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 1602kHz 100W
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 1539kHz 100W
+  - [熊野](../Page/熊野中継局.md "wikilink") 1602kHz 100W
 
 ### アナログテレビ（2011年7月24日運用終了）
 
@@ -99,21 +99,21 @@
 
 <!-- end list -->
 
-  - **[津](https://ja.wikipedia.org/wiki/津テレビ・FM送信所 "wikilink") 31ch JONP-TV 映像5kW/音声1.25kW**
+  - **[津](../Page/津テレビ・FM送信所.md "wikilink") 31ch JONP-TV 映像5kW/音声1.25kW**
   - [桑名](https://ja.wikipedia.org/wiki/桑名中継局 "wikilink") 41ch 映像30W/音声7.5W
-  - [菰野](https://ja.wikipedia.org/wiki/菰野テレビ中継局 "wikilink") 45ch 映像3W/音声750mW
+  - [菰野](../Page/菰野テレビ中継局.md "wikilink") 45ch 映像3W/音声750mW
   - [伊勢](../Page/朝熊山.md "wikilink") 53ch 映像100W/音声25W
   - [名張](../Page/茶臼山_\(奈良県・三重県\).md "wikilink") 52ch 映像100W/音声25W
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 4ch 映像100W/音声25W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 3ch 映像10W音声2.5W（垂直偏波）
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 4ch 映像100W/音声25W
+  - [熊野](../Page/熊野中継局.md "wikilink") 3ch 映像10W音声2.5W（垂直偏波）
   - [磯部](../Page/磯部中継局.md "wikilink") 51ch 映像10W/音声2.5W
-  - [鳥羽](https://ja.wikipedia.org/wiki/鳥羽中継局 "wikilink") 2ch 映像1W/音声250mW（垂直偏波）
-  - [南勢](https://ja.wikipedia.org/wiki/南勢テレビ中継局 "wikilink") 54ch 映像10W/音声2.5W
-  - [北勢](https://ja.wikipedia.org/wiki/北勢テレビ中継局 "wikilink") 54ch 映像30W/音声7.5W
+  - [鳥羽](../Page/鳥羽中継局.md "wikilink") 2ch 映像1W/音声250mW（垂直偏波）
+  - [南勢](../Page/南勢テレビ中継局.md "wikilink") 54ch 映像10W/音声2.5W
+  - [北勢](../Page/北勢テレビ中継局.md "wikilink") 54ch 映像30W/音声7.5W
   - [紀宝相野谷](https://ja.wikipedia.org/wiki/NHK紀宝相野谷テレビ中継局 "wikilink") 52ch 映像3W/音声750mW
-  - [紀宝神ノ内](https://ja.wikipedia.org/wiki/紀宝神ノ内テレビ中継局 "wikilink") 56ch 映像3W/音声750mW
-  - [大王船越北](https://ja.wikipedia.org/wiki/大王船越北テレビ中継局 "wikilink") 36ch 映像100mW/音声25mW
-  - [伊賀](https://ja.wikipedia.org/wiki/伊賀テレビ中継局 "wikilink") 38ch 映像30W/音声7.5W
+  - [紀宝神ノ内](../Page/紀宝神ノ内テレビ中継局.md "wikilink") 56ch 映像3W/音声750mW
+  - [大王船越北](../Page/大王船越北テレビ中継局.md "wikilink") 36ch 映像100mW/音声25mW
+  - [伊賀](../Page/伊賀テレビ中継局.md "wikilink") 38ch 映像30W/音声7.5W
   - [島ヶ原](https://ja.wikipedia.org/wiki/NHK島ヶ原テレビ中継局 "wikilink") 47ch 映像1W/音声250mW
 
 <!-- end list -->
@@ -124,15 +124,15 @@
 
   - [伊勢](../Page/朝熊山.md "wikilink") 49ch 映像100W/音声25W
   - [名張](../Page/茶臼山_\(奈良県・三重県\).md "wikilink") 50ch 映像100W/音声25W
-  - [尾鷲](https://ja.wikipedia.org/wiki/尾鷲中継局 "wikilink") 12ch 映像100W/音声25W
-  - [熊野](https://ja.wikipedia.org/wiki/熊野中継局 "wikilink") 9ch 映像10W音声2.5W（垂直偏波）
+  - [尾鷲](../Page/尾鷲中継局.md "wikilink") 12ch 映像100W/音声25W
+  - [熊野](../Page/熊野中継局.md "wikilink") 9ch 映像10W音声2.5W（垂直偏波）
   - [磯部](../Page/磯部中継局.md "wikilink") 48ch 映像10W/音声2.5W
-  - [鳥羽](https://ja.wikipedia.org/wiki/鳥羽中継局 "wikilink") 12ch 映像1W/音声250mW（垂直偏波）
-  - [南勢](https://ja.wikipedia.org/wiki/南勢テレビ中継局 "wikilink") 50ch 映像10W/音声2.5W
-  - [北勢](https://ja.wikipedia.org/wiki/北勢テレビ中継局 "wikilink") 46ch 映像30W/音声7.5W
+  - [鳥羽](../Page/鳥羽中継局.md "wikilink") 12ch 映像1W/音声250mW（垂直偏波）
+  - [南勢](../Page/南勢テレビ中継局.md "wikilink") 50ch 映像10W/音声2.5W
+  - [北勢](../Page/北勢テレビ中継局.md "wikilink") 46ch 映像30W/音声7.5W
   - [紀宝相野谷](https://ja.wikipedia.org/wiki/NHK紀宝相野谷テレビ中継局 "wikilink") 50ch 映像3W/音声750mW
-  - [紀宝神ノ内](https://ja.wikipedia.org/wiki/紀宝神ノ内テレビ中継局 "wikilink") 58ch 映像3W/音声750mW
-  - [大王船越北](https://ja.wikipedia.org/wiki/大王船越北テレビ中継局 "wikilink") 34ch 映像100mW/音声25mW
+  - [紀宝神ノ内](../Page/紀宝神ノ内テレビ中継局.md "wikilink") 58ch 映像3W/音声750mW
+  - [大王船越北](../Page/大王船越北テレビ中継局.md "wikilink") 34ch 映像100mW/音声25mW
 
 ### 補足
 

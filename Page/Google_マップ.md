@@ -262,7 +262,7 @@ Google マップは初め、デンマーク人の兄弟[Lars Rasmussen](https://
   - Google がこれらの国からの地図データの提供を受けていない（受けられない）。
   - 自国内では Google とは異なるデータや[測地系](../Page/測地系.md "wikilink")を使っているため、互換性が維持できない。
 
-[大韓民国](../Page/大韓民国.md "wikilink")では、「」第16条により、[国土交通部](../Page/国土交通部.md "wikilink")長官の許可なしに測量情報等の地図データを自国外に搬出することを禁止している。これに関して[Google](../Page/Google.md "wikilink")は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から韓国側に地図データライセンスを申請しており、[2016年](../Page/2016年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")にも韓国の地図データの使用許可を請求したが、航空写真での重要施設表示などを理由に却下されている。
+[大韓民国](../Page/大韓民国.md "wikilink")では、「」第16条により、[国土交通部](../Page/国土交通部.md "wikilink")長官の許可なしに測量情報等の地図データを自国外に搬出することを禁止している。これに関して[Google](../Page/Google.md "wikilink")は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から韓国側に地図データライセンスを申請しており、[2016年](../Page/2016年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")にも韓国の地図データの使用許可を請求したが、航空写真での重要施設表示などを理由に却下されている。
 
 Google マップ上での韓国は、地図画面の解像度が低く、道路情報やルート検索なども正常に機能しない状態となっている\[85\]。[位置情報ゲーム](https://ja.wikipedia.org/wiki/位置情報ゲーム "wikilink")『[Pokémon GO](https://ja.wikipedia.org/wiki/Pokemon_GO "wikilink")』の、韓国での提供開始が2017年1月まで大幅に遅れたのも、この問題が関係していたためである\[86\]。なお、この提供開始にあたってはGoogle マップのデータを用いず、[オープンストリートマップ](https://ja.wikipedia.org/wiki/オープンストリートマップ "wikilink")のデータを使用している。
 

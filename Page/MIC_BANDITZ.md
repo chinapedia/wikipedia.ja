@@ -7,7 +7,7 @@ espionage records.からこれまでに2枚のフルアルバムと1枚のミニ
 
 ## メンバー
 
-  - **[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")** （バーバル、本名：リュウ・ヨンギ、[1975年](../Page/1975年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ）
+  - **[VERBAL](../Page/VERBAL.md "wikilink")** （バーバル、本名：リュウ・ヨンギ、[1975年](../Page/1975年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ）
 
 <!-- end list -->
 

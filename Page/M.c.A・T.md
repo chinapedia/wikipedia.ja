@@ -1022,7 +1022,7 @@ AVCD-23295:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>Feelin' Good 〜恋はパラダイス〜</p></td>
-<td><p>テレビ朝日系 『<a href="https://ja.wikipedia.org/wiki/金魚のフン" title="wikilink">金魚のフン</a>』 主題歌</p></td>
+<td><p>テレビ朝日系 『<a href="../Page/金魚のフン.md" title="wikilink">金魚のフン</a>』 主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Thunder Party</p></td>

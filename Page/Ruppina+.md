@@ -142,10 +142,10 @@
 
 ### 参加作品
 
-| タイトル                                                                                            | 発売日                                                                                           | 収録作品                                                                      |
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **[Last Chistmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink") feat.RUPPINA+** | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月12日](../Page/11月12日.md "wikilink") | Francfranc presents The Xmas Party                                        |
-| **Lovin' you feat. MAI(RUPPINA+)**                                                              | [2009年](../Page/2009年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")                      | [Every With You](https://ja.wikipedia.org/wiki/Every_With_You "wikilink") |
+| タイトル                                                                         | 発売日                                                                                           | 収録作品                                                                      |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **[Last Chistmas](../Page/ラスト・クリスマス_\(ワム!の曲\).md "wikilink") feat.RUPPINA+** | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月12日](../Page/11月12日.md "wikilink") | Francfranc presents The Xmas Party                                        |
+| **Lovin' you feat. MAI(RUPPINA+)**                                           | [2009年](../Page/2009年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")                      | [Every With You](https://ja.wikipedia.org/wiki/Every_With_You "wikilink") |
 
 ## 関連項目
 

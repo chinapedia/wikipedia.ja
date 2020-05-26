@@ -9,7 +9,7 @@
 
 [1972年](../Page/1972年.md "wikilink")にそれまで別のバンドで活動していた中村と、サディスティック・ピンクというバンドを組んでいた天野・平賀がニュー・サディスティック・ピンクを結成。彼らの[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")が地元[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")の[FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")で放送され、反響を呼び11週間連続1位に。
 
-[高専在学中の](../Page/高等専門学校.md "wikilink")[1973年](../Page/1973年.md "wikilink")に第5回[ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")に於いて楽曲「あせ」で[ニッポン放送](../Page/ニッポン放送.md "wikilink")賞を受賞し、同年[6月](../Page/6月.md "wikilink")「さようなら」でデビュー。翌年、高専卒業を機に上京する。その後[1974年](../Page/1974年.md "wikilink")に「夕暮れ時はさびしそう」が[オリコン](../Page/オリコンチャート.md "wikilink")11位の大ヒットに、同年のアルバム『NSP III ひとやすみ』はオリコン4位のヒットを記録。その後も、[1976年](../Page/1976年.md "wikilink")「赤い糸の伝説」がヒットし、[叙情](../Page/叙情.md "wikilink")派[フォークを代表するグループとなる](../Page/フォークソング.md "wikilink")。
+[高専在学中の](../Page/高等専門学校.md "wikilink")[1973年](../Page/1973年.md "wikilink")に第5回[ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")に於いて楽曲「あせ」で[ニッポン放送](../Page/ニッポン放送.md "wikilink")賞を受賞し、同年[6月](../Page/6月.md "wikilink")「さようなら」でデビュー。翌年、高専卒業を機に上京する。その後[1974年](../Page/1974年.md "wikilink")に「夕暮れ時はさびしそう」が[オリコン](../Page/オリコンチャート.md "wikilink")11位の大ヒットに、同年のアルバム『NSP III ひとやすみ』はオリコン4位のヒットを記録。その後も、[1976年](../Page/1976年.md "wikilink")「赤い糸の伝説」がヒットし、[叙情](../Page/叙情.md "wikilink")派[フォークを代表するグループとなる](../Page/フォークソング.md "wikilink")。
 
 [1980年代](../Page/1980年代.md "wikilink")に入りメンバーそれぞれが作曲、プロデュースなどソロ活動が多くなり、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")には中村貴之が脱退する。[澤近泰輔](https://ja.wikipedia.org/wiki/澤近泰輔 "wikilink")、[深浦昭彦を加えて活動するも](../Page/S.E.N.S..md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に平賀和人脱退を機に、活動を停止。その後、[天野滋](../Page/天野滋.md "wikilink")はソロ活動を開始。平賀和人はNSPの所属レコード会社であった[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に[ディレクター](../Page/ディレクター.md "wikilink")として入社し、[平松愛理](../Page/平松愛理.md "wikilink")、[GO-BANG'S](../Page/GO-BANG'S.md "wikilink")、[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")、[Melodyなどの作品を担当していた](../Page/Melody_\(アイドルグループ\).md "wikilink")。
 
@@ -503,7 +503,7 @@
 <td><p>Rain</p></td>
 <td><p>天野滋</p></td>
 <td><p>天野滋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梅垣達志" title="wikilink">梅垣達志</a></p></td>
+<td><p><a href="../Page/梅垣達志.md" title="wikilink">梅垣達志</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">

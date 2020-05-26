@@ -31,7 +31,7 @@ JFL昇格1年目の2005年は勝ち点8で16チーム中最下位だった。特
 
 2007年は自力で残留を果たす。
 
-2008年も降格圏内に低迷、しかし上位チームのJ2昇格([栃木SC](../Page/栃木SC.md "wikilink")・[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")・[ファジアーノ岡山FC](../Page/ファジアーノ岡山FC.md "wikilink"))に伴い引き続きJFL残留を果たしている。同年には同県のファジアーノ岡山FCとの[岡山ダービー](../Page/岡山ダービー.md "wikilink")が実現した。
+2008年も降格圏内に低迷、しかし上位チームのJ2昇格([栃木SC](../Page/栃木SC.md "wikilink")・[カターレ富山](../Page/カターレ富山.md "wikilink")・[ファジアーノ岡山FC](../Page/ファジアーノ岡山FC.md "wikilink"))に伴い引き続きJFL残留を果たしている。同年には同県のファジアーノ岡山FCとの[岡山ダービー](../Page/岡山ダービー.md "wikilink")が実現した。
 
 2008年末、[世界的な経済情勢の悪化から](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、今後の活動について運営費削減および活動縮小が懸念された。これに対し、ホームスタジアム・岡山県笠岡陸上競技場のある[笠岡市](../Page/笠岡市.md "wikilink")が、同クラブが地域スポーツ振興の中核的な存在であるとして活動存続を要望した\[3\]。
 
@@ -546,7 +546,7 @@ JFL昇格1年目の2005年は勝ち点8で16チーム中最下位だった。特
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/第10回日本フットボールリーグ" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/第10回日本フットボールリーグ.md" title="wikilink">2008</a></p></td>
 <td><p>18位</p></td>
 <td><p>18</p></td>
 <td><p>16</p></td>

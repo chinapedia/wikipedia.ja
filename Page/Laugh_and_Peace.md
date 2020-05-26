@@ -86,7 +86,7 @@
 
 #### アレンジ曲
 
-  - Give Me Up（2004年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")） - 「デュオU\&U」([W](../Page/W_\(ハロー!プロジェクト\).md "wikilink"))、[Zetima](../Page/アップフロントワークス.md "wikilink")
+  - Give Me Up（2004年[6月2日](../Page/6月2日.md "wikilink")） - 「デュオU\&U」([W](../Page/W_\(ハロー!プロジェクト\).md "wikilink"))、[Zetima](../Page/アップフロントワークス.md "wikilink")
   - あまいかおり（2006年4月26日） - 「上海大腕」(藤井隆)、\[R\&C\]
   - 目がキライ（2006年4月26日） - 「上海大腕」(藤井隆)、\[R\&C\]
   - T\&T（2006年4月26日） - 「上海大腕」(藤井隆)、\[R\&C\]

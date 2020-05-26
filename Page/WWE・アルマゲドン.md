@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    優勝チーム [アコライツ](https://ja.wikipedia.org/wiki/アコライツ・プロテクション・エージェンシー "wikilink")
+    優勝チーム [アコライツ](../Page/アコライツ・プロテクション・エージェンシー.md "wikilink")
     以下出場チーム一覧 アコライツ（[ブラッドショー](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")＆[ファルーク](../Page/ロン・シモンズ.md "wikilink")）、[ハーディー・ボーイズ](../Page/ハーディー・ボーイズ.md "wikilink")（[マット・ハーディー](../Page/マット・ハーディー.md "wikilink")＆[ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")）（w/ [テリー](https://ja.wikipedia.org/wiki/テリー・ラネルズ "wikilink")）、[ダッドリー・ボーイズ](../Page/ダッドリー・ボーイズ.md "wikilink")（[ババ・レイ・ダッドリー](../Page/マーク・ロモナコ.md "wikilink")＆[ディーボン・ダッドリー](../Page/ディーボン・ヒューズ.md "wikilink")）、[エッジ](../Page/アダム・コープランド.md "wikilink")＆[クリスチャン](../Page/ジェイソン・リソ.md "wikilink")、トゥー・クール（[グランマスタ・セクシー](https://ja.wikipedia.org/wiki/ブライアン・ローラー "wikilink")＆[スコッティ・2・ホッティ](../Page/スコット・ガーランド.md "wikilink")）、[ゴッドファーザー](https://ja.wikipedia.org/wiki/チャールズ・ライト_\(プロレスラー\) "wikilink")＆[マーク・ヘンリー](../Page/マーク・ヘンリー.md "wikilink")、ザ・ヘッドバンガーズ（[モッシュ](https://ja.wikipedia.org/wiki/チャールズ・ウォリントン "wikilink")＆[トラッシャー](https://ja.wikipedia.org/wiki/グレン・ルース "wikilink")）、ザ・ミーン・ストリート・ポッセ（ロドニー＆[ピート・ガス](https://ja.wikipedia.org/wiki/ピーター・ガスペリーノ "wikilink")）
 
 <!-- end list -->
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - **4コーナーズ・イブニング・ガウン・プール・マッチ形式[WWF女子王座戦](../Page/WWE・女子王座.md "wikilink") -Four Corners Evening Gown Pool Match for the WWF Women's Championship-** スペシャル・レフェリー [メイ・ヤング](https://ja.wikipedia.org/wiki/メイ・ヤング "wikilink")＆[ファビュラス・ムーラ](https://ja.wikipedia.org/wiki/ファビュラス・ムーラ "wikilink")
+  - **4コーナーズ・イブニング・ガウン・プール・マッチ形式[WWF女子王座戦](../Page/WWE・女子王座.md "wikilink") -Four Corners Evening Gown Pool Match for the WWF Women's Championship-** スペシャル・レフェリー [メイ・ヤング](https://ja.wikipedia.org/wiki/メイ・ヤング "wikilink")＆[ファビュラス・ムーラ](../Page/ファビュラス・ムーラ.md "wikilink")
 
 <!-- end list -->
 
@@ -558,7 +558,7 @@
 ### 第8回大会（2007年）WWE Armageddon 2007
 
   - 開催日 : 12月16日
-  - 開催場所 : [ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")の[メロン・アリーナ](https://ja.wikipedia.org/wiki/メロン・アリーナ "wikilink")
+  - 開催場所 : [ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[ピッツバーグ](https://ja.wikipedia.org/wiki/ピッツバーグ "wikilink")の[メロン・アリーナ](../Page/メロン・アリーナ.md "wikilink")
   - 観客動員数 : 12,500人
 
 <!-- end list -->

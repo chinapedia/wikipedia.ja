@@ -1,7 +1,7 @@
 > この記事は[ノリッジ・シティFC](https://ja.wikipedia.org/wiki/ノリッジ・シティFC)から翻訳されています。
 
 
-**ノリッジ・シティ・フットボール・クラブ**（**Norwich City Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")東部・[ノーフォーク](https://ja.wikipedia.org/wiki/ノーフォーク "wikilink")州[ノリッジ](../Page/ノリッジ.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。
+**ノリッジ・シティ・フットボール・クラブ**（**Norwich City Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")東部・[ノーフォーク](../Page/ノーフォーク.md "wikilink")州[ノリッジ](../Page/ノリッジ.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。
 
 著名な料理研究家、[デリア・スミス](https://ja.wikipedia.org/wiki/デリア・スミス "wikilink")が役員の1人であることでも知られる。
 

@@ -27,7 +27,7 @@
 
 [2004年](../Page/2004年.md "wikilink")7月、3rdアルバム『SUN SUN SUN』を発表。[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")など夏のライブイベント、[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")に多数出演。
 
-[2005年](../Page/2005年.md "wikilink")1月、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のバンド、[シンズ](https://ja.wikipedia.org/wiki/シンズ "wikilink")の原宿アストロホール公演にオープニングアクトとして出演。3月にはシングル「FLy」レコ発ツアー『男の中の大人の男』として、バンド初の全国6か所のワンマンツアーを開始。東京公演は[3月19日](../Page/3月19日.md "wikilink")、[恵比寿LIQUIDROOMに満員の客を集めて行われた](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")。7月、4thアルバム『DREAMER』発表。11月には[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")、[フジファブリック](../Page/フジファブリック.md "wikilink")と3バンドでの合同ツアー『GO FOR THE SUN』を[東名阪にて開催する](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")1月、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のバンド、[シンズ](../Page/シンズ.md "wikilink")の原宿アストロホール公演にオープニングアクトとして出演。3月にはシングル「FLy」レコ発ツアー『男の中の大人の男』として、バンド初の全国6か所のワンマンツアーを開始。東京公演は[3月19日](../Page/3月19日.md "wikilink")、[恵比寿LIQUIDROOMに満員の客を集めて行われた](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")。7月、4thアルバム『DREAMER』発表。11月には[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")、[フジファブリック](../Page/フジファブリック.md "wikilink")と3バンドでの合同ツアー『GO FOR THE SUN』を[東名阪にて開催する](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")3月、東名阪の3都市で『とびだせ\!\! 平成のあいまいBOY』ツアーを開催。LIQUIDROOMでの二日間の公演は両日ともソールドアウトとなる。6月からは全公演日替わりのゲストを迎えてのアベック・ツアー『大丈夫です、これは武者震いですから』を開始。9月には5thアルバム『スパルタローカルズ』を発表するも、発表直前にオリジナルメンバーであった中山が脱退。レコ発ツアー『何だ、ばかやろう』では小川剛（ミズノイロ）をサポートに迎えて行われた。
 

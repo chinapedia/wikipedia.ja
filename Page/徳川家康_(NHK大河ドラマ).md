@@ -199,7 +199,7 @@
     演：[村田雄浩](../Page/村田雄浩.md "wikilink")
     広忠の近習、お春の許嫁。
   - [鳥居元忠](../Page/鳥居元忠.md "wikilink")
-    演：[川久保潔](../Page/川久保潔.md "wikilink")（幼少期〜青年期：[小山渚](https://ja.wikipedia.org/wiki/小山渚 "wikilink")→[草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")）
+    演：[川久保潔](../Page/川久保潔.md "wikilink")（幼少期〜青年期：[小山渚](https://ja.wikipedia.org/wiki/小山渚 "wikilink")→[草見潤平](../Page/草見潤平.md "wikilink")）
     鳥居忠吉の三男。
   - [徳千代](../Page/阿部正勝.md "wikilink")
     演：[吉田紀人](https://ja.wikipedia.org/wiki/吉田紀人 "wikilink")
@@ -237,7 +237,7 @@
     演：[寺泉哲章](../Page/寺泉憲.md "wikilink")
     家康の正室の瀬名（鶴姫）築山殿と不義密通、武田の[間者](../Page/スパイ.md "wikilink")。
   - [平岩親吉](../Page/平岩親吉.md "wikilink")
-    演：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")（青年期：[真鍋敏宏](https://ja.wikipedia.org/wiki/真鍋敏宏 "wikilink")）
+    演：[宗近晴見](../Page/宗近晴見.md "wikilink")（青年期：[真鍋敏宏](https://ja.wikipedia.org/wiki/真鍋敏宏 "wikilink")）
   - [服部半蔵](../Page/服部正成.md "wikilink")
     演：[樋浦勉](../Page/樋浦勉.md "wikilink")
   - [鳥居強右衛門](../Page/鳥居強右衛門.md "wikilink")

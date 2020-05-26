@@ -62,7 +62,7 @@
   - Eボタン：イブニングアイ
     [赤外線](../Page/赤外線.md "wikilink")灯。剛がかぶる[ヘルメット](../Page/ヘルメット.md "wikilink")のシールドが暗視[ゴーグル](../Page/ゴーグル.md "wikilink")になる。
   - Fボタン：フロッガー
-    ディフェンサーに加えて[酸素ボンベ](https://ja.wikipedia.org/wiki/酸素ボンベ "wikilink")より酸素がコクピット内に放出され、水中走行を行なえる。[潜望鏡](../Page/潜望鏡.md "wikilink")も上部に伸び、[バックミラー](https://ja.wikipedia.org/wiki/バックミラー "wikilink")で映像を確認できる。
+    ディフェンサーに加えて[酸素ボンベ](https://ja.wikipedia.org/wiki/酸素ボンベ "wikilink")より酸素がコクピット内に放出され、水中走行を行なえる。[潜望鏡](../Page/潜望鏡.md "wikilink")も上部に伸び、[バックミラー](../Page/バックミラー.md "wikilink")で映像を確認できる。
   - Gボタン：ギズモ号
     [ツバメ](../Page/ツバメ.md "wikilink")型の偵察用の通信機能付き小型飛行メカ。マッハ号の車体前部から発射され、[遠隔操作](../Page/遠隔操作.md "wikilink")が可能で、目標への遠距離攻撃用としても使用可能。
   - Hボタン：ホーミング
@@ -522,7 +522,7 @@
   - 原作 - タツノコプロ
   - エグゼクティブプロデューサー - [吉田健二](../Page/吉田健二.md "wikilink")
   - 企画 - [成嶋弘毅](https://ja.wikipedia.org/wiki/成嶋弘毅 "wikilink")、徳山光俊（タツノコプロ）
-  - 構成 - タツノコプロ企画室 → [桜井正明](https://ja.wikipedia.org/wiki/桜井正明 "wikilink")
+  - 構成 - タツノコプロ企画室 → [桜井正明](../Page/桜井正明.md "wikilink")
   - キャラクター原案・アートディレクター - [九里一平](../Page/九里一平.md "wikilink")
   - キャラクターデザイン - [須田正己](../Page/須田正己.md "wikilink")
   - メカニックデザイン - 堀井敏之、小川浩
@@ -793,7 +793,7 @@
 <tr class="even">
 <td><p>18</p></td>
 <td><p>アマゾングランプリ編 秋葉原教授の罠</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p>高橋幸雄</p></td>
 <td><p>加藤茂</p></td>
 <td><p>5月29日</p></td>
@@ -1063,7 +1063,7 @@
   - 2008年5月5日放送の『[ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(2008年のテレビアニメ\) "wikilink")』（2008年版）1時間特番の『ヤッターマン限定版 今夜限りのドロンボーVSみのもんた！アナタも一緒に脳力対決！ガッチャマンもマッハ号も登場スペシャル！だコロン！』では[みのもんた](../Page/みのもんた.md "wikilink")の知人として助っ人に登場しており、ドロンボーのメカに打ち勝っている。また、その後もたびたびチラリと登場している。
   - 2008年8月27日には、[ホフディラン](../Page/ホフディラン.md "wikilink")の[小宮山雄飛](../Page/小宮山雄飛.md "wikilink")プロデュースによるトリビュートアルバムが発売された。
   - 2009年には、[High Speed Boyzとのコラボレーションが開始された](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")。
-  - これまでにも[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")はダウンロード用に発売されていたが、2011年12月9日にモバイル用[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")『マッハGoGoGo』がアプリカにより[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")からリリースされた。なお、同じくMobageの『タツノコオールスターズ』（[DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")製）にも参戦している。
+  - これまでにも[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")はダウンロード用に発売されていたが、2011年12月9日にモバイル用[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")『マッハGoGoGo』がアプリカにより[Mobage](../Page/Mobage.md "wikilink")からリリースされた。なお、同じくMobageの『タツノコオールスターズ』（[DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")製）にも参戦している。
   - 2013年、『[Peeping Life](https://ja.wikipedia.org/wiki/Peeping_Life "wikilink")』と[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")&タツノコプロのコラボレーションアニメ『Peeping Life -手塚プロ・タツノコプロワンダーランド-』を放送。
   - 2013年9月30日にフジテレビ系列で放送された大型特別番組『[SMAP GO\!GO\!](https://ja.wikipedia.org/wiki/SMAP_GO!GO! "wikilink")』で、オープニングに第1作風のアニメーションを放送。映像では[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が5人とも三船剛のスーツ姿で登場し、マッハ号が5台登場した。また、SMAPが歌唱する第1作テーマソングがオープニングテーマに使われていたが、サビ部分の「マッハ」は「SMAP」に変えられていた。
   - 2015年に放送された『[夜ノヤッターマン](https://ja.wikipedia.org/wiki/夜ノヤッターマン "wikilink")』第9話・第12話にはマッハ号に似た車両が登場しており、第9話においては同作品の登場人物であるガリナとアルエットが搭乗した。ただしボンネットのマーキングが「M」ではなく「W」となっているなど、詳細は異なる。

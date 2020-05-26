@@ -119,7 +119,7 @@
 
 :\* 青木がミュージカル『[キャッツ](../Page/キャッツ_\(ミュージカル\).md "wikilink")』に参加したいという夢をかなえるべく、[劇団四季](../Page/劇団四季.md "wikilink")の練習生に混じって1か月間の特訓をするというもの。[2007年](../Page/2007年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")と[4月13日](../Page/4月13日.md "wikilink")の回でスタジオトークコーナーの代わりに放送された。
 
-:\* キングコングが後輩芸人（[ロシアンモンキー](https://ja.wikipedia.org/wiki/ロシアンモンキー "wikilink")・[平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")・[イシバシハザマ](../Page/イシバシハザマ.md "wikilink")・[ふくろとじ](https://ja.wikipedia.org/wiki/ふくろとじ "wikilink")）や音楽美人（音楽大学に通う女子大生や若手のクラシック奏者）と合コンバスツアーを開催した。2007年[3月30日](../Page/3月30日.md "wikilink")の回でスタジオトークコーナーの代わりに放送された。
+:\* キングコングが後輩芸人（[ロシアンモンキー](../Page/ロシアンモンキー.md "wikilink")・[平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")・[イシバシハザマ](../Page/イシバシハザマ.md "wikilink")・[ふくろとじ](https://ja.wikipedia.org/wiki/ふくろとじ "wikilink")）や音楽美人（音楽大学に通う女子大生や若手のクラシック奏者）と合コンバスツアーを開催した。2007年[3月30日](../Page/3月30日.md "wikilink")の回でスタジオトークコーナーの代わりに放送された。
 
   - キングコング梶原雄太の我が子へ捧げる曲作り
     梶原が、2007年10月に生まれる自分の子供に捧げるべく、歌を自作する企画。同年9月頃から開始、同年11月時点までの模様は2008年[1月25日](../Page/1月25日.md "wikilink")の回でスタジオトークコーナーの代わりに特別編として放送された。それ以降の展開は放送されなかった。
@@ -549,13 +549,13 @@
 <tr class="odd">
 <td><p>2008年<br />
 2月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/STARCAMP_EP" title="wikilink">Astrogation</a>」 <a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a></p></td>
+<td><p>「<a href="../Page/STARCAMP_EP.md" title="wikilink">Astrogation</a>」 <a href="../Page/水樹奈々.md" title="wikilink">水樹奈々</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/SIXTEEN_GIRL" title="wikilink">SIXTEEN GIRL</a>」 <a href="../Page/KELUN.md" title="wikilink">KELUN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年<br />
 3月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/春風LOVER_SONG" title="wikilink">春風LOVER SONG</a>」 <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/春風LOVER_SONG" title="wikilink">春風LOVER SONG</a>」 <a href="../Page/CHERRYBLOSSOM.md" title="wikilink">CHERRYBLOSSOM</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/パラレル_(曲)" title="wikilink">パラレル</a>」 <a href="https://ja.wikipedia.org/wiki/安藤裕子_(歌手)" title="wikilink">安藤裕子</a></p></td>
 </tr>
 <tr class="odd">
@@ -586,7 +586,7 @@
 <td><p>2008年<br />
 8月度</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/爪爪爪/「F」" title="wikilink">爪爪爪</a>」 <a href="https://ja.wikipedia.org/wiki/マキシマムザホルモン" title="wikilink">マキシマムザホルモン</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/闇の国のアリス/波紋" title="wikilink">闇の国のアリス</a>」 <a href="https://ja.wikipedia.org/wiki/D_(バンド)" title="wikilink">D</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/闇の国のアリス/波紋" title="wikilink">闇の国のアリス</a>」 <a href="../Page/D_(バンド).md" title="wikilink">D</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年<br />
@@ -686,7 +686,7 @@ Miss Monday</p></td>
 <td><p>「Slow Luv feat. Kayzabro（<a href="../Page/DS455.md" title="wikilink">DS455</a>），詩音」 <a href="https://ja.wikipedia.org/wiki/DJ☆GO" title="wikilink">DJ☆GO</a>[5]</p></td>
 </tr>
 <tr class="even">
-<td><p>「<a href="https://ja.wikipedia.org/wiki/誰より好きなのに" title="wikilink">誰より好きなのに</a>」<a href="https://ja.wikipedia.org/wiki/Tiara_(シンガーソングライター)" title="wikilink">Tiara</a>[6]</p></td>
+<td><p>「<a href="../Page/誰より好きなのに.md" title="wikilink">誰より好きなのに</a>」<a href="https://ja.wikipedia.org/wiki/Tiara_(シンガーソングライター)" title="wikilink">Tiara</a>[6]</p></td>
 <td></td>
 <td></td>
 </tr>

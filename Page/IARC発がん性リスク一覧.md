@@ -3988,7 +3988,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/チオ尿素" title="wikilink">チオ尿素</a> (Thiourea)</p></td>
+<td><p><a href="../Page/チオ尿素.md" title="wikilink">チオ尿素</a> (Thiourea)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>

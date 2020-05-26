@@ -37,7 +37,7 @@
       - セガのドラマチックアドベンチャーゲーム『[サクラ大戦](../Page/サクラ大戦.md "wikilink")』（Sakura Wars）シリーズ。
       - [グループSNE](../Page/グループSNE.md "wikilink")の[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")『[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")』 (Sword World)。
       - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の自動車メーカー、[プジョー](../Page/プジョー.md "wikilink")社製の[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")型[自動車](../Page/自動車.md "wikilink")の名称の一つ。
-      - [スズキが生産](https://ja.wikipedia.org/wiki/スズキ自動車 "wikilink")・販売している[パレットのスポーティーモデル](https://ja.wikipedia.org/wiki/スズキ・パレット "wikilink")。
+      - [スズキが生産](https://ja.wikipedia.org/wiki/スズキ自動車 "wikilink")・販売している[パレットのスポーティーモデル](../Page/スズキ・パレット.md "wikilink")。
       - [Cnetブログ](https://ja.wikipedia.org/wiki/Cnetブログ "wikilink")の[渡辺聡の情報化社会の航海図](https://ja.wikipedia.org/wiki/渡辺聡の情報化社会の航海図 "wikilink")で知られる、渡辺聡の暗号名あるいは愛称の一つ。
       - メディアミックス作品『[ストライクウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』（Strike Witches）の略称。
       - 2009年8月公開の[アニメーション](../Page/アニメーション.md "wikilink")映画『[サマーウォーズ](https://ja.wikipedia.org/wiki/サマーウォーズ "wikilink")』の略称。

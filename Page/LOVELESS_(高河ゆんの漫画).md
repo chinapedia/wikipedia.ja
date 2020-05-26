@@ -1099,7 +1099,7 @@
 
 :\* [羽音たらく](https://ja.wikipedia.org/wiki/羽音たらく "wikilink")（9巻）
 
-:\* [千葉道徳](https://ja.wikipedia.org/wiki/千葉道徳 "wikilink")（9巻）
+:\* [千葉道徳](../Page/千葉道徳.md "wikilink")（9巻）
 
 :\* [UPOCO](https://ja.wikipedia.org/wiki/UPOCO "wikilink")（9巻）
 

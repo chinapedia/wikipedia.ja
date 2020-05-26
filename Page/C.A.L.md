@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1966年](../Page/1966年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に、大手[広告代理店](../Page/広告代理店.md "wikilink")[電通](../Page/電通.md "wikilink")のラジオテレビ局長だった梅垣哲郎が中心となって設立した。初代の社長には[東宝](../Page/東宝.md "wikilink")の監督だった[青柳信雄](../Page/青柳信雄.md "wikilink")、重役に[黒澤明](../Page/黒澤明.md "wikilink")の映画のシナリオを担当した[橋本忍](../Page/橋本忍.md "wikilink")、[菊島隆三](https://ja.wikipedia.org/wiki/菊島隆三 "wikilink")、[小国英雄](https://ja.wikipedia.org/wiki/小国英雄 "wikilink")、井手雅人といった映画界の大御所を迎えた他、企画の原田庸之輔ら電通の出身者も多く参加した。
+[1966年](../Page/1966年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に、大手[広告代理店](../Page/広告代理店.md "wikilink")[電通](../Page/電通.md "wikilink")のラジオテレビ局長だった梅垣哲郎が中心となって設立した。初代の社長には[東宝](../Page/東宝.md "wikilink")の監督だった[青柳信雄](../Page/青柳信雄.md "wikilink")、重役に[黒澤明](../Page/黒澤明.md "wikilink")の映画のシナリオを担当した[橋本忍](../Page/橋本忍.md "wikilink")、[菊島隆三](https://ja.wikipedia.org/wiki/菊島隆三 "wikilink")、[小国英雄](../Page/小国英雄.md "wikilink")、井手雅人といった映画界の大御所を迎えた他、企画の原田庸之輔ら電通の出身者も多く参加した。
 
 時代劇制作を得意としてきたが、近年は[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")も制作しており、映画にも進出している。
 
@@ -66,7 +66,7 @@
   - [芸者小春姐さん奮闘記](https://ja.wikipedia.org/wiki/芸者小春姐さん奮闘記 "wikilink")（テレビ東京）
   - [お江戸吉原事件帖](../Page/お江戸吉原事件帖.md "wikilink")（テレビ東京）
   - [密命 寒月霞斬り](https://ja.wikipedia.org/wiki/密命_寒月霞斬り "wikilink")（テレビ東京）
-  - [さすらい署長 風間昭平](https://ja.wikipedia.org/wiki/さすらい署長_風間昭平 "wikilink")（テレビ東京）
+  - [さすらい署長 風間昭平](../Page/さすらい署長_風間昭平.md "wikilink")（テレビ東京）
   - short cut（WOWOW）
   - [パーフェクト・ブルー](https://ja.wikipedia.org/wiki/パーフェクト・ブルー#2012年版 "wikilink")（TBS）
   - [大岡越前→大岡越前2→大岡越前3→大岡越前スペシャル](https://ja.wikipedia.org/wiki/大岡越前_\(2013年のテレビドラマ\) "wikilink")（[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）

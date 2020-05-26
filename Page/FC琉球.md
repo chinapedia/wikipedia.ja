@@ -150,7 +150,7 @@
       -
         クラブスローガン ：「**琉球昇竜**」
 
-    金鍾成体制3年目。[藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[田辺圭佑](https://ja.wikipedia.org/wiki/田辺圭佑 "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[才藤龍治](https://ja.wikipedia.org/wiki/才藤龍治 "wikilink")（[富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")）、[前田央樹](https://ja.wikipedia.org/wiki/前田央樹 "wikilink")（[北九州](../Page/ギラヴァンツ北九州.md "wikilink")）といった、これまでチームの軸として活躍した主力選手らが去った一方で、新卒ルーキー4名の他、[藤枝から前シーズン](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")13得点を挙げたFW[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")、[U-23北朝鮮代表MF](https://ja.wikipedia.org/wiki/U-23サッカー朝鮮民主主義人民共和国代表 "wikilink")[金成純](https://ja.wikipedia.org/wiki/金成純 "wikilink")\[31\]、[YS横浜からMF](../Page/横浜スポーツ&カルチャークラブ.md "wikilink")[小松駿太](https://ja.wikipedia.org/wiki/小松駿太 "wikilink")ら即戦力を複数獲得。さらに、[大宮から日本代表経験のあるFW](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[播戸竜二](../Page/播戸竜二.md "wikilink")\[32\]、ノルウェーからFW[カルボン・ファーデル](https://ja.wikipedia.org/wiki/カルボン・ファーデル "wikilink")\[33\]を加入させる。
+    金鍾成体制3年目。[藤澤典隆](https://ja.wikipedia.org/wiki/藤澤典隆 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[田辺圭佑](https://ja.wikipedia.org/wiki/田辺圭佑 "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[才藤龍治](https://ja.wikipedia.org/wiki/才藤龍治 "wikilink")（[富山](../Page/カターレ富山.md "wikilink")）、[前田央樹](https://ja.wikipedia.org/wiki/前田央樹 "wikilink")（[北九州](../Page/ギラヴァンツ北九州.md "wikilink")）といった、これまでチームの軸として活躍した主力選手らが去った一方で、新卒ルーキー4名の他、[藤枝から前シーズン](https://ja.wikipedia.org/wiki/藤枝MYFC "wikilink")13得点を挙げたFW[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")、[U-23北朝鮮代表MF](https://ja.wikipedia.org/wiki/U-23サッカー朝鮮民主主義人民共和国代表 "wikilink")[金成純](https://ja.wikipedia.org/wiki/金成純 "wikilink")\[31\]、[YS横浜からMF](../Page/横浜スポーツ&カルチャークラブ.md "wikilink")[小松駿太](https://ja.wikipedia.org/wiki/小松駿太 "wikilink")ら即戦力を複数獲得。さらに、[大宮から日本代表経験のあるFW](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[播戸竜二](../Page/播戸竜二.md "wikilink")\[32\]、ノルウェーからFW[カルボン・ファーデル](https://ja.wikipedia.org/wiki/カルボン・ファーデル "wikilink")\[33\]を加入させる。
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 <!-- end list -->
 
   -
-    開幕戦は、ホームで[富山と対戦し](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")、4-3で白星でのスタートとなった\[41\]。序盤はアウェイ中心の日程で第5節から4戦勝ち無し（1分3敗）など停滞するものの、第9節のホーム・[G大阪U-23で](https://ja.wikipedia.org/wiki/ガンバ大阪#ガンバ大阪U-23 "wikilink")5試合ぶりの勝ち星を挙げると、そこから10試合を負け無し（7勝3分）の快進撃を続け、第17節には首位に浮上。第19節終了時点で10勝5分け3敗の勝ち点35で、首位をキープして夏場の一ヶ月の中断期間へ入ることになった\[42\]。天皇杯は、2017年と同じく1回戦で[JFLの](../Page/日本フットボールリーグ.md "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた\[43\]。7月22日には、[e-Sportsチーム](../Page/エレクトロニック・スポーツ.md "wikilink")「FC琉球」の発足が発表された\[44\]。
+    開幕戦は、ホームで[富山と対戦し](../Page/カターレ富山.md "wikilink")、4-3で白星でのスタートとなった\[41\]。序盤はアウェイ中心の日程で第5節から4戦勝ち無し（1分3敗）など停滞するものの、第9節のホーム・[G大阪U-23で](https://ja.wikipedia.org/wiki/ガンバ大阪#ガンバ大阪U-23 "wikilink")5試合ぶりの勝ち星を挙げると、そこから10試合を負け無し（7勝3分）の快進撃を続け、第17節には首位に浮上。第19節終了時点で10勝5分け3敗の勝ち点35で、首位をキープして夏場の一ヶ月の中断期間へ入ることになった\[42\]。天皇杯は、2017年と同じく1回戦で[JFLの](../Page/日本フットボールリーグ.md "wikilink")[FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")にPK戦で敗れた\[43\]。7月22日には、[e-Sportsチーム](../Page/エレクトロニック・スポーツ.md "wikilink")「FC琉球」の発足が発表された\[44\]。
 
 <!-- end list -->
 

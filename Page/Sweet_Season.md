@@ -71,7 +71,7 @@
 
   - 脚本 - [青柳祐美子](../Page/青柳祐美子.md "wikilink")
   - プロデューサー - [貴島誠一郎](../Page/貴島誠一郎.md "wikilink")
-  - 演出 - [福澤克雄](../Page/福澤克雄.md "wikilink")、[片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")、[三城真一](https://ja.wikipedia.org/wiki/三城真一 "wikilink")
+  - 演出 - [福澤克雄](../Page/福澤克雄.md "wikilink")、[片山修](../Page/片山修.md "wikilink")、[三城真一](https://ja.wikipedia.org/wiki/三城真一 "wikilink")
   - プロデューサー補 - 小松貴生
   - 演出補 - 佐々木雅之、坪井敏雄、[瀬戸口克陽](../Page/瀬戸口克陽.md "wikilink")、川嶋龍太郎、浜崎空
   - 選曲 - [辻田昇司](https://ja.wikipedia.org/wiki/辻田昇司 "wikilink")

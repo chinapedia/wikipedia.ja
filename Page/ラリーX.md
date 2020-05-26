@@ -467,7 +467,7 @@
   - 企画：横山茂
   - ハードウェア：田城幸一
   - プログラム：黒須一雄
-  - 音楽：[大野木宣幸](https://ja.wikipedia.org/wiki/大野木宣幸 "wikilink")
+  - 音楽：[大野木宣幸](../Page/大野木宣幸.md "wikilink")
 
 <!-- end list -->
 
@@ -532,7 +532,7 @@
   - [リッジレーサーズ](../Page/リッジレーサーズ.md "wikilink") - 登場車種のひとつにNEW RALLY-X（ニューラリーX）がある。『[リッジレーサー3D](https://ja.wikipedia.org/wiki/リッジレーサー3D "wikilink")』にも引き続き登場。
   - [バンダイナムコゲームス発売のゲームタイトル一覧](https://ja.wikipedia.org/wiki/バンダイナムコゲームス発売のゲームタイトル一覧 "wikilink")
   - [MSXのゲームタイトル一覧](../Page/MSXのゲームタイトル一覧.md "wikilink")
-  - [大野木宣幸](https://ja.wikipedia.org/wiki/大野木宣幸 "wikilink") - 『ラリーX』のハイスコアBGMでデビュー、『ニューラリーX』のメインテーマを作曲。
+  - [大野木宣幸](../Page/大野木宣幸.md "wikilink") - 『ラリーX』のハイスコアBGMでデビュー、『ニューラリーX』のメインテーマを作曲。
   - [湾岸ミッドナイト](../Page/湾岸ミッドナイト.md "wikilink")・湾岸ミッドナイトR - [楠みちはる](../Page/楠みちはる.md "wikilink")原作の漫画をゲーム化したもの。スペシャルフラッグがアイテムとして登場し、[C1の橋脚](https://ja.wikipedia.org/wiki/首都高速道路都心環状線 "wikilink")、[湾岸線と](../Page/首都高速湾岸線.md "wikilink")[横羽線に点在する料金所に出現](https://ja.wikipedia.org/wiki/首都高速道路神奈川1号横羽線 "wikilink")。スペシャルフラッグを取ると[SP（スピリットポイント）が回復する](../Page/首都高バトルシリーズ.md "wikilink")。
   - [大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS_/_Wii_U "wikilink") - [任天堂](../Page/任天堂.md "wikilink")のゲーム。スペシャルフラッグがアイテムとして登場し、スペシャルフラッグを取って使用すると時間制では撃墜数が1つ加算され、ストック制ではストックが1つ回復する。
 

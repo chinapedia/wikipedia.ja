@@ -299,7 +299,7 @@ of London</p></td>
 <!-- end list -->
 
   - 監督: メル・スミス
-  - 出演: [ローワン・アトキンソン](../Page/ローワン・アトキンソン.md "wikilink")、[ピーター・マクニコル](../Page/ピーター・マクニコル.md "wikilink")、[ハリス・ユーリン](https://ja.wikipedia.org/wiki/ハリス・ユーリン "wikilink")、[パメラ・リード](https://ja.wikipedia.org/wiki/パメラ・リード "wikilink")
+  - 出演: [ローワン・アトキンソン](../Page/ローワン・アトキンソン.md "wikilink")、[ピーター・マクニコル](../Page/ピーター・マクニコル.md "wikilink")、[ハリス・ユーリン](../Page/ハリス・ユーリン.md "wikilink")、[パメラ・リード](https://ja.wikipedia.org/wiki/パメラ・リード "wikilink")
   - 主題歌: 当時大人気だった[アイルランド](../Page/アイルランド.md "wikilink")人のグループ、[ボーイゾーン](../Page/ボーイゾーン.md "wikilink")が歌うエンド・タイトル""Picture of You""を収録。これは話題となりUKチャートの2位を記録。なお、PVにはビーンが特別出演している。サントラCDにはビーンの台詞がかぶっているが、シングル盤ではビーンの声が別エディットのため注意が必要である。
 
 <!-- end list -->

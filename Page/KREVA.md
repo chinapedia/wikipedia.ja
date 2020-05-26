@@ -524,7 +524,7 @@ CD+DVD</p></td>
   - 「遠くまで feat. KREVA」（2013年4月17日）
       - SONOMI、アルバム「S.O.N.O.M.I」に収録（なお自身はこのアルバムも全編プロデュース）
   - オトコFACE feat. KREVA（2014年1月15日）
-      - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")、アルバム「Coming Up Roses」に収録
+      - [さかいゆう](../Page/さかいゆう.md "wikilink")、アルバム「Coming Up Roses」に収録
   - Shock feat. [SKY-HI](../Page/日高光啓.md "wikilink"), KREVA, Mummy-D（2014年3月19日）
       - [KEN THE 390](../Page/KEN_THE_390.md "wikilink")、アルバム「\#7」に収録（なお自身はこの曲もプロデュース）
   - Catch Me If You Can feat. KREVA（2014年7月2日）
@@ -1173,7 +1173,7 @@ CD+DVD</p></td>
 </ul>
 <p>(<a href="https://ja.wikipedia.org/wiki/熊井吾郎" title="wikilink">熊井吾郎</a>,<a href="https://ja.wikipedia.org/wiki/菱山正太" title="wikilink">菱山正太</a>,<a href="https://ja.wikipedia.org/wiki/岡雄三" title="wikilink">岡雄三</a>,<a href="https://ja.wikipedia.org/wiki/白根佳尚" title="wikilink">白根佳尚</a>)</p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/さかいゆう" title="wikilink">さかいゆう</a> ※Special Guest</li>
+<li><a href="../Page/さかいゆう.md" title="wikilink">さかいゆう</a> ※Special Guest</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1278,7 +1278,7 @@ CD+DVD</p></td>
 <li>KREVA</li>
 <li><a href="https://ja.wikipedia.org/wiki/AKLO" title="wikilink">AKLO</a></li>
 <li><a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/さかいゆう" title="wikilink">さかいゆう</a></li>
+<li><a href="../Page/さかいゆう.md" title="wikilink">さかいゆう</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SONOMI" title="wikilink">SONOMI</a></li>
 <li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 </ul></td>

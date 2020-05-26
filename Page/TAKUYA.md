@@ -628,7 +628,7 @@ TAKUYA
 
 ## 主なライブ
 
-  - 2009年05月13日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink")、ワンマン、2009春。
+  - 2009年05月13日 - [ミドリ](../Page/ミドリ_\(バンド\).md "wikilink")、ワンマン、2009春。
   - 2010年02月28日 - 明日への讃歌
   - 2010年05月02日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")10
   - 2012年03月18日 - HAPPY JACK 2012

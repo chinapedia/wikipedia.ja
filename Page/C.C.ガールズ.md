@@ -76,7 +76,7 @@
       - ESCAPE\! - 作詞：[只野菜摘](https://ja.wikipedia.org/wiki/只野菜摘 "wikilink")、作曲：[関根安里](../Page/TAO_\(バンド\).md "wikilink")
       - WORD（SPECIAL DANCE MIX） - 作詞：[枯堂夏子](../Page/枯堂夏子.md "wikilink")、作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")
 4.  **WILL POWER**（1991年11月28日／WPDL-4270）
-      - WILL POWER - 作詞：Wisteria、作曲：[Joey Carbone](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink") / Jeff Carruthers
+      - WILL POWER - 作詞：Wisteria、作曲：[Joey Carbone](../Page/ジョーイ・カーボーン.md "wikilink") / Jeff Carruthers
       - I LL KNOCK ON YOU - 作詞：吉澤久美子、作曲：Joey Carbone / Jeff Carruthers
 
 **C.C.ガールズ**名義

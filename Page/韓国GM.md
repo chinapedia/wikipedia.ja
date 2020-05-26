@@ -69,7 +69,7 @@
   - [トラックス](https://ja.wikipedia.org/wiki/シボレー・トラックス "wikilink")（小型[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")。[オペル・モッカ](https://ja.wikipedia.org/wiki/オペル・モッカ "wikilink")/[ビュイック・アンコール](https://ja.wikipedia.org/wiki/ビュイック・アンコール "wikilink")のシボレー版）
   - [エクイノックス](https://ja.wikipedia.org/wiki/シボレー・エクイノックス "wikilink")　★
   - [トラバース](https://ja.wikipedia.org/wiki/シボレー・トラバース "wikilink")　★
-  - [コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")　★
+  - [コロラド](../Page/シボレー・コロラド.md "wikilink")　★
   - [ボルトEV](https://ja.wikipedia.org/wiki/シボレー・ボルトEV "wikilink")　★
   - [ダマス](../Page/スズキ・エブリイ.md "wikilink")（小型[1BOX](../Page/ワンボックスカー.md "wikilink")。スズキ・エブリイがベース）\[38\]
   - [ラボ](../Page/スズキ・キャリイ.md "wikilink")（[小型トラック](../Page/軽トラック.md "wikilink")。スズキ・キャリイがベース）

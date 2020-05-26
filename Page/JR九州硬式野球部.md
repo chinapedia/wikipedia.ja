@@ -53,7 +53,7 @@
   - [田中資昭](https://ja.wikipedia.org/wiki/田中資昭 "wikilink")内野手（1947年[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")→[大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")）
   - [木塚忠助](../Page/木塚忠助.md "wikilink")内野手 （[1948年](../Page/1948年.md "wikilink")南海ホークス）
   - [石井和行](https://ja.wikipedia.org/wiki/石井和行 "wikilink")投手（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")[ドラフト外](https://ja.wikipedia.org/wiki/ドラフト外入団#日本プロ野球 "wikilink")）
-  - [田島克彦](https://ja.wikipedia.org/wiki/田島克彦 "wikilink")外野手（[1981年](https://ja.wikipedia.org/wiki/1981年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")[阪急ブレーブスドラフト](../Page/オリックス・バファローズ.md "wikilink")6位）
+  - [田島克彦](../Page/田島克彦.md "wikilink")外野手（[1981年](https://ja.wikipedia.org/wiki/1981年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")[阪急ブレーブスドラフト](../Page/オリックス・バファローズ.md "wikilink")6位）
   - [田崎昌弘](../Page/田崎昌弘.md "wikilink")投手（[2001年](https://ja.wikipedia.org/wiki/2001年度新人選手選択会議_\(日本プロ野球\)#横浜ベイスターズ "wikilink")[横浜ベイスターズドラフト](../Page/横浜DeNAベイスターズ.md "wikilink")5巡→[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")）
   - [樋口龍美](../Page/樋口龍美.md "wikilink")投手（[2004年](https://ja.wikipedia.org/wiki/2004年度新人選手選択会議_\(日本プロ野球\)#中日ドラゴンズ "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")自由獲得枠）
   - [町豪将](../Page/町豪将.md "wikilink")投手（[2004年](https://ja.wikipedia.org/wiki/2004年度新人選手選択会議_\(日本プロ野球\)#オリックス・バファローズ "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")ドラフト4巡）

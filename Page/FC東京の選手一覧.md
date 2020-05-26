@@ -37,7 +37,7 @@
 <td><p><a href="../Page/安間貴義.md" title="wikilink">安間貴義</a></p></td>
 <td></td>
 <td><p>2019年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カターレ富山" title="wikilink">カターレ富山</a> 監督</p></td>
+<td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a> 監督</p></td>
 <td></td>
 <td></td>
 </tr>

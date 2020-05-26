@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>第6回</p></td>
 <td><p>チーム清史郎<br />
-（<a href="https://ja.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a>・<a href="https://ja.wikipedia.org/wiki/杉浦太陽" title="wikilink">杉浦太陽</a>・<a href="https://ja.wikipedia.org/wiki/関根航" title="wikilink">関根航</a>・<a href="../Page/山口愛.md" title="wikilink">山口愛</a>・ワッキー(ペナルティ)）</p></td>
+（<a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a>・<a href="https://ja.wikipedia.org/wiki/杉浦太陽" title="wikilink">杉浦太陽</a>・<a href="https://ja.wikipedia.org/wiki/関根航" title="wikilink">関根航</a>・<a href="../Page/山口愛.md" title="wikilink">山口愛</a>・ワッキー(ペナルティ)）</p></td>
 </tr>
 </tbody>
 </table>

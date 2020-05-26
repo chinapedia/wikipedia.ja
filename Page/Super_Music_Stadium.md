@@ -1,7 +1,7 @@
 > この記事は[Super Music Stadium](https://ja.wikipedia.org/wiki/Super_Music_Stadium)から翻訳されています。
 
 
-『**Super\! Music Stadium**』（スーパー\! ミュージック・スタジアム）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")が、全国ネットで、[2000年](../Page/2000年.md "wikilink")10月から半年に亘って[ナイターオフ](https://ja.wikipedia.org/wiki/ナイターオフ "wikilink")に放送されたラジオの音楽番組。放送時間は、[平日の19:00～21:00だったが](https://ja.wikipedia.org/wiki/ニッポン放送平日ナイターオフ18時台夕方帯ワイド番組 "wikilink")、[月曜日](../Page/月曜日.md "wikilink")は放送されない局があった他、20:00に終了(いわゆる飛び降り)する局も多数あった。
+『**Super\! Music Stadium**』（スーパー\! ミュージック・スタジアム）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")が、全国ネットで、[2000年](../Page/2000年.md "wikilink")10月から半年に亘って[ナイターオフ](https://ja.wikipedia.org/wiki/ナイターオフ "wikilink")に放送されたラジオの音楽番組。放送時間は、[平日の19:00～21:00だったが](../Page/ニッポン放送平日ナイターオフ18時台夕方帯ワイド番組.md "wikilink")、[月曜日](../Page/月曜日.md "wikilink")は放送されない局があった他、20:00に終了(いわゆる飛び降り)する局も多数あった。
 
 ## パーソナリティー
 

@@ -129,14 +129,14 @@
   - 2007年
     3月2日、グループとして初めて単独で音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演\[16\]。
   - 2008年
-    10月11日から3日間、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")にて[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")と合同で初のコンサートを開催。11月8, 9日には[代々木第一体育館](https://ja.wikipedia.org/wiki/代々木第一体育館 "wikilink")にて追加公演を行う\[17\]。
+    10月11日から3日間、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")にて[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")と合同で初のコンサートを開催。11月8, 9日には[代々木第一体育館](https://ja.wikipedia.org/wiki/代々木第一体育館 "wikilink")にて追加公演を行う\[17\]。
   - 2009年
     7月11日 - 8月9日、[少年隊](../Page/少年隊.md "wikilink")が23年間続けたミュージカル『[PLAYZONE](../Page/PLAYZONE.md "wikilink")』を引継ぎ、北山・藤ヶ谷・玉森を中心に主演を務める\[18\]。
     10月3日、[大分県](../Page/大分県.md "wikilink")[iichikoグランシアタにて自身初の単独コンサートを開催](../Page/大分県立総合文化センター.md "wikilink")\[19\]。12月27日までの全国ツアー『Kis-My-Ftに逢える de Show』は11ヶ所31公演で16万人を動員した\[20\]。
   - 2010年
     3月30日から5月5日に、単独アリーナツアー『Kis-My-Ftに010 逢えるde Show』を開催\[21\]。
     7月5日には[ドワンゴ](../Page/ドワンゴ.md "wikilink")のCMに出演。併せてオリジナル曲「[FIRE BEAT](https://ja.wikipedia.org/wiki/FIRE_BEAT "wikilink")」「[祈り](https://ja.wikipedia.org/wiki/祈り_\(Kis-My-Ft2の曲\) "wikilink")」がdwango.jpで配信され\[22\]、2010年7月度のdwango.jp着うたフル月間ランキングにおいて、「祈り」と「FIRE BEAT」が1位・2位を独占した\[23\]。また、同着うた月間ランキングでは、「FIRE BEAT」が3位、「祈り」が5位となった\[24\]。
-    9月3日から26日まで、[日生劇場](../Page/日生劇場.md "wikilink")で上演された舞台『[少年たち 格子無き牢獄](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")』で[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")と共に主演を務める\[25\]。観劇した[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")は、その時のパフォーマンスを見て「Kis-My-Ft2をCDデビューさせよう。」と決意したという\[26\]。
+    9月3日から26日まで、[日生劇場](../Page/日生劇場.md "wikilink")で上演された舞台『[少年たち 格子無き牢獄](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")』で[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")と共に主演を務める\[25\]。観劇した[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")は、その時のパフォーマンスを見て「Kis-My-Ft2をCDデビューさせよう。」と決意したという\[26\]。
     10月20日、初の写真集『Kis-My-Ft2-1st』が[ワニブックス](../Page/ワニブックス.md "wikilink")より発売\[27\]。11月1日付オリコン書籍総合部門では3万9155部を売り上げ初登場2位を記録した\[28\]。また、同年12月1日に発表された「オリコン2010年 年間“本”ランキング」の写真集部門で10位を記録し、男性アイドルグループとして唯一トップ10入りを果たした\[29\]。
   - 2011年
     1月期の[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[美咲ナンバーワン\!\!](https://ja.wikipedia.org/wiki/美咲ナンバーワン!!#テレビドラマ "wikilink")』に北山と藤ヶ谷が出演。オープニング曲として「No.1〜FIRE BEAT」が起用される\[30\]。
@@ -1490,7 +1490,7 @@
 
 ### CD未収録曲
 
-  - DAYBREAKER（作詞：michiko motohashi、作曲：[加藤裕介](../Page/加藤裕介.md "wikilink")） - JASRAC作品コード:154-6037-1。[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")とのコラボ曲。
+  - DAYBREAKER（作詞：michiko motohashi、作曲：[加藤裕介](../Page/加藤裕介.md "wikilink")） - JASRAC作品コード:154-6037-1。[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")とのコラボ曲。
   - [No.1〜FIRE BEAT](https://ja.wikipedia.org/wiki/FIRE_BEAT "wikilink")（作詞：村野直球、作曲：velvetronica 編曲：[宮永治郎](../Page/宮永治郎.md "wikilink")） - JASRAC作品コード:144-5512-9。テレビドラマ『[美咲ナンバーワン\!\!](https://ja.wikipedia.org/wiki/美咲ナンバーワン!! "wikilink")』OPテーマ\[99\]。
   - いつもありがとう（作詞：[T.FXXX](../Page/藤ヶ谷太輔.md "wikilink").、作曲：[HUSIQ.K](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")）\[100\] - JASRAC作品コード：178-5325-7。
   - Sailing - Kis-My-Ft2出演 興和「ウナコーワエース」CMソング
@@ -1924,7 +1924,7 @@
   - [PLAY ZONE2009 〜太陽からの手紙〜](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE_2009_〜太陽からの手紙〜 "wikilink")（2009年7月11日 - 8月9日、青山劇場 / 8月21日 - 26日、梅田芸術劇場）\[180\]
   - 新春滝沢革命（2010年1月1日 - 2月5日、帝国劇場）\[181\]
   - 新春人生革命（2010年1月8日 - 2月6日、帝国劇場）\[182\]
-  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年9月3日 - 26日、日生劇場） - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")と主演\[183\]\[184\]
+  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年9月3日 - 26日、日生劇場） - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")と主演\[183\]\[184\]
   - [滝沢歌舞伎](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢歌舞伎_2011 "wikilink")（2011年4月8日 - 5月8日、日生劇場） - 横尾・千賀・宮田・二階堂\[185\]
   - 帝劇 Johnnys Imperial Theatre Special「Kis-My-Ft2 with ジャニーズJr.」（2011年9月27日 - 29日、帝国劇場）\[186\]
   - [美男ですね](https://ja.wikipedia.org/wiki/美男ですね#舞台 "wikilink")（2011年10月8日 - 20日、[赤坂ACTシアター](../Page/TBS赤坂ACTシアター.md "wikilink") / 10月24日 - 11月2日、[KAAT神奈川芸術劇場](../Page/神奈川県立県民ホール.md "wikilink") / 11月6日 - 9日、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink") / 11月24日 - 27日[キャナルシティ劇場](../Page/キャナルシティ劇場.md "wikilink")） - 北山・宮田\[187\]

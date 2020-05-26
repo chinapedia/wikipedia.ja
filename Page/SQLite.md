@@ -29,7 +29,7 @@
   - ビューのサポート
   - トリガーのサポート
   - [C言語](../Page/C言語.md "wikilink")を使って関数を追加できる
-  - [Tcl](https://ja.wikipedia.org/wiki/Tcl/Tk "wikilink")[バインディングを配布キットに標準添付している](https://ja.wikipedia.org/wiki/束縛_\(情報工学\) "wikilink")
+  - [Tcl](https://ja.wikipedia.org/wiki/Tcl/Tk "wikilink")[バインディングを配布キットに標準添付している](../Page/束縛_\(情報工学\).md "wikilink")
   - [PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")5、[Python](../Page/Python.md "wikilink") 2.5、[Adobe AIRで標準サポート](https://ja.wikipedia.org/wiki/Adobe_AIR "wikilink")
   - その他、[C](../Page/C言語.md "wikilink")、[C++](../Page/C++.md "wikilink")、[D](../Page/D言語.md "wikilink")、[Curl](../Page/Curl_\(プログラミング言語\).md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")など多数の[プログラミング言語](../Page/プログラミング言語.md "wikilink")用のバインディング
   - [全文検索](../Page/全文検索.md "wikilink")のFTS1[モジュール](../Page/モジュール.md "wikilink")がサポートされ、[SQL](../Page/SQL.md "wikilink")文で[全文検索](../Page/全文検索.md "wikilink")インデックスに対して検索できる

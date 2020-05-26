@@ -7,7 +7,7 @@
 
 ### 経営史
 
-設立当初は全米各地のラジオ会社の大半を傘下に収めると共に、[RCAレコード](../Page/RCAレコード.md "wikilink")・[NBC](../Page/NBC.md "wikilink")などのメディア事業を経営、1923年までに[海底ケーブル](../Page/海底ケーブル.md "wikilink")を利用した大西洋通信の3割、太平洋通信の5割を市場占有した。一方で[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")に[RCAビルを竣工](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")。[1970年代](../Page/1970年代.md "wikilink")には[ラザード](https://ja.wikipedia.org/wiki/ラザード "wikilink")を自社の投資銀行に使い、[ハーツレンタカー](https://ja.wikipedia.org/wiki/ハーツレンタカー "wikilink")など本業との関連が薄い企業も[M\&A](../Page/M&A.md "wikilink")で保有していた。
+設立当初は全米各地のラジオ会社の大半を傘下に収めると共に、[RCAレコード](../Page/RCAレコード.md "wikilink")・[NBC](../Page/NBC.md "wikilink")などのメディア事業を経営、1923年までに[海底ケーブル](../Page/海底ケーブル.md "wikilink")を利用した大西洋通信の3割、太平洋通信の5割を市場占有した。一方で[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")に[RCAビルを竣工](../Page/GEビルディング.md "wikilink")。[1970年代](../Page/1970年代.md "wikilink")には[ラザード](https://ja.wikipedia.org/wiki/ラザード "wikilink")を自社の投資銀行に使い、[ハーツレンタカー](https://ja.wikipedia.org/wiki/ハーツレンタカー "wikilink")など本業との関連が薄い企業も[M\&A](../Page/M&A.md "wikilink")で保有していた。
 
   - [1919年](../Page/1919年.md "wikilink") - **[GE](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック#沿革 "wikilink")**の[オーウェン・D・ヤング](https://ja.wikipedia.org/wiki/オーウェン・D・ヤング "wikilink")が提案・創立する。素地は[マルコーニ社](../Page/グリエルモ・マルコーニ.md "wikilink")。
   - [1926年](../Page/1926年.md "wikilink") - 放送会社NBCを設立する。

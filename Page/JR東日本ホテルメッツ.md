@@ -1,11 +1,11 @@
 > この記事は[JR東日本ホテルメッツ](https://ja.wikipedia.org/wiki/JR東日本ホテルメッツ)から翻訳されています。
 
 
-[Hotel_Mets_Komagome_2017-04-06.jpg](https://ja.wikipedia.org/wiki/File:Hotel_Mets_Komagome_2017-04-06.jpg "fig:Hotel_Mets_Komagome_2017-04-06.jpg") **JR東日本ホテルメッツ**（ジェイアールひがしにほんホテルメッツ、**JR-EAST HOTEL METS**）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）による[ホテル](../Page/ホテル.md "wikilink")チェーン「[JR東日本ホテルズ](https://ja.wikipedia.org/wiki/JR東日本ホテルズ "wikilink")」の[宿泊特化型ホテルブランド](https://ja.wikipedia.org/wiki/ホテル#ビジネスホテル "wikilink")。[2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）10月に**ホテルメッツ**より改称された\[1\]。
+[Hotel_Mets_Komagome_2017-04-06.jpg](https://ja.wikipedia.org/wiki/File:Hotel_Mets_Komagome_2017-04-06.jpg "fig:Hotel_Mets_Komagome_2017-04-06.jpg") **JR東日本ホテルメッツ**（ジェイアールひがしにほんホテルメッツ、**JR-EAST HOTEL METS**）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）による[ホテル](../Page/ホテル.md "wikilink")チェーン「[JR東日本ホテルズ](../Page/JR東日本ホテルズ.md "wikilink")」の[宿泊特化型ホテルブランド](https://ja.wikipedia.org/wiki/ホテル#ビジネスホテル "wikilink")。[2018年](../Page/2018年.md "wikilink")（[平成](../Page/平成.md "wikilink")30年）10月に**ホテルメッツ**より改称された\[1\]。
 
 ## 概要
 
-JR東日本ホテルズが展開する[シティホテルのブランド](https://ja.wikipedia.org/wiki/ホテル#シティホテル "wikilink")「[メトロポリタンホテルズ](../Page/メトロポリタンホテルズ.md "wikilink")」の宿泊特化型ホテル版として、[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）[5月24日](../Page/5月24日.md "wikilink")に1号店の「ホテルメッツ久米川」が[西武新宿線](../Page/西武新宿線.md "wikilink")の[久米川駅](https://ja.wikipedia.org/wiki/久米川駅 "wikilink")南口近くに開業\[2\]。続いて同年[7月11日](../Page/7月11日.md "wikilink")に2号店の「ホテルメッツ武蔵境」が[中央線](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")・[西武多摩川線](https://ja.wikipedia.org/wiki/西武多摩川線 "wikilink")の[武蔵境駅](https://ja.wikipedia.org/wiki/武蔵境駅 "wikilink")南口駅前に開業し\[3\]、主に[首都圏をはじめ](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")各地で店舗展開を進めた。
+JR東日本ホテルズが展開する[シティホテルのブランド](https://ja.wikipedia.org/wiki/ホテル#シティホテル "wikilink")「[メトロポリタンホテルズ](../Page/メトロポリタンホテルズ.md "wikilink")」の宿泊特化型ホテル版として、[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）[5月24日](../Page/5月24日.md "wikilink")に1号店の「ホテルメッツ久米川」が[西武新宿線](../Page/西武新宿線.md "wikilink")の[久米川駅](https://ja.wikipedia.org/wiki/久米川駅 "wikilink")南口近くに開業\[2\]。続いて同年[7月11日](../Page/7月11日.md "wikilink")に2号店の「ホテルメッツ武蔵境」が[中央線](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")・[西武多摩川線](https://ja.wikipedia.org/wiki/西武多摩川線 "wikilink")の[武蔵境駅](https://ja.wikipedia.org/wiki/武蔵境駅 "wikilink")南口駅前に開業し\[3\]、主に[首都圏をはじめ](../Page/首都圏_\(日本\).md "wikilink")[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")各地で店舗展開を進めた。
 
 ホテルメッツは[駅ビル](../Page/駅ビル.md "wikilink")会社である国分寺ターミナルビル（現：[JR東京西駅ビル開発](../Page/JR東京西駅ビル開発.md "wikilink")）が、流通業を取り巻く環境の変化にあって、ホテル業に新規参入することによって経営基盤の拡充に資するよう、ホテル運営に乗り出したことが始まりであり\[4\]、「**駅に近い宿泊特化型のホテル**」として、シティホテル並みのサービスと居住性の高い客室を、低価格で提供することを目指しており、30代から40代のビジネスマンをメインターゲットとして[駅から至近の地に出店している](../Page/鉄道駅.md "wikilink")。これは[駅ビル](../Page/駅ビル.md "wikilink")開発の一環や、駅敷地の遊休地の利活用なども見込んだものである。
 
@@ -35,7 +35,7 @@ JR東日本ホテルズが展開する[シティホテルのブランド](https:
 
 しかし[1999年](../Page/1999年.md "wikilink")（平成11年）、JR東日本グループの経営方針の一環で、東京都をはじめ関東地方に所在するホテルメッツの運営体制が集約されることになり、当時[ホテルメトロポリタン](../Page/ホテルメトロポリタン.md "wikilink")を運営していた「池袋ターミナルビル株式会社」が子会社「メッツホテルアンドレストラン株式会社」を設立し、同社が首都圏のホテルメッツの店舗運営を担うことになった。
 
-さらに[2007年](../Page/2007年.md "wikilink")（平成19年）4月には、[東京ステーションホテル](../Page/東京ステーションホテル.md "wikilink")やメトロポリタンホテルズも含めたJR東日本ホテルズの運営体制が一本化されることになり、株式会社ホテルメトロポリタン（上記の池袋ターミナルビルが会社分割および商号変更した企業）を存続会社に、メッツホテルアンドレストラン、日本ホテル、ホテルエドモントを吸収合併した上で、ホテルメトロポリタンの商号を「**[日本ホテル](https://ja.wikipedia.org/wiki/日本ホテル "wikilink")株式会社**」に改称した。これ以降、関東地方のホテルメッツは同社が店舗運営を行っている\[12\]。
+さらに[2007年](../Page/2007年.md "wikilink")（平成19年）4月には、[東京ステーションホテル](../Page/東京ステーションホテル.md "wikilink")やメトロポリタンホテルズも含めたJR東日本ホテルズの運営体制が一本化されることになり、株式会社ホテルメトロポリタン（上記の池袋ターミナルビルが会社分割および商号変更した企業）を存続会社に、メッツホテルアンドレストラン、日本ホテル、ホテルエドモントを吸収合併した上で、ホテルメトロポリタンの商号を「**[日本ホテル](../Page/日本ホテル.md "wikilink")株式会社**」に改称した。これ以降、関東地方のホテルメッツは同社が店舗運営を行っている\[12\]。
 
 このうち「ホテルメッツ田端」（[田端駅](https://ja.wikipedia.org/wiki/田端駅 "wikilink")北口近く）については[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[2月1日](../Page/2月1日.md "wikilink")の開業当初、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）の子会社「ジェイアールエフ・ホテル」が[FC](../Page/FC.md "wikilink")契約を結び運営していた\[13\]。これは同社の田端操駅（現在の[田端信号場駅](../Page/田端信号場駅.md "wikilink")）に隣接する敷地を活用してJR貨物が建設し、JR東日本ホテルズのフランチャイズとして運営を行っていたものだが、2012年（平成24年）[7月1日](../Page/7月1日.md "wikilink")付で日本ホテルに移管され、以後は経営・運営ともJR東日本グループが行っている（詳細は「[JRホテルグループ\#JR貨物](https://ja.wikipedia.org/wiki/JRホテルグループ#JR貨物 "wikilink")」を参照）。
 
@@ -93,7 +93,7 @@ JR東日本ホテルズが展開する[シティホテルのブランド](https:
 <td><p><a href="../Page/水戸駅.md" title="wikilink">水戸駅</a>北口徒歩1分</p></td>
 <td><p>102</p></td>
 <td><p>1997年3月14日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本ホテル" title="wikilink">日本ホテル</a></p></td>
+<td><p><a href="../Page/日本ホテル.md" title="wikilink">日本ホテル</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -366,5 +366,5 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 17.
 18.  - [東日本旅客鉄道株式会社横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink") 2018年11月22日（2020年1月25日閲覧）
 19.  - 東日本旅客鉄道株式会社横浜支社 2020年1月23日（2020年1月25日閲覧）
-20.  - 東日本旅客鉄道株式会社横浜支社/日本ホテル株式会社/[株式会社横浜ステーシヨンビル](https://ja.wikipedia.org/wiki/横浜ステーシヨンビル "wikilink") 2018年9月27日（2018年10月7日閲覧）
+20.  - 東日本旅客鉄道株式会社横浜支社/日本ホテル株式会社/[株式会社横浜ステーシヨンビル](../Page/横浜ステーシヨンビル.md "wikilink") 2018年9月27日（2018年10月7日閲覧）
 21.  - 東日本旅客鉄道株式会社横浜支社 2020年1月23日（2020年1月25日閲覧）

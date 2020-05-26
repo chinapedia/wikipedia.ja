@@ -512,7 +512,7 @@ __TOC__{{-}}
 
 :\* 根岸左太夫 - [岩尾正隆](../Page/岩尾正隆.md "wikilink")
 
-:\* 紅林堂市兵衛 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 紅林堂市兵衛 - [楠年明](../Page/楠年明.md "wikilink")
 
 :\* 八重 - [石倭裕子](https://ja.wikipedia.org/wiki/愛川裕子 "wikilink")
 

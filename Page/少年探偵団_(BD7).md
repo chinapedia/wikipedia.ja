@@ -57,7 +57,7 @@
 ### ゲスト
 
   - 小林圭子 / キャシー中川：[キャロライン洋子](../Page/キャロライン洋子.md "wikilink")（第1・2話）
-  - ピアノ教師：[水沢有美](https://ja.wikipedia.org/wiki/水沢有美 "wikilink")（第1・2話）
+  - ピアノ教師：[水沢有美](../Page/水沢有美.md "wikilink")（第1・2話）
   - 小島記者：[北浜昇](https://ja.wikipedia.org/wiki/北浜昇 "wikilink")（第1話）
   - アナウンサー：[勝部義夫](https://ja.wikipedia.org/wiki/勝部義夫 "wikilink")（第2話）
   - 角田社長：[早川雄三](../Page/早川雄三.md "wikilink")（第3・4話）

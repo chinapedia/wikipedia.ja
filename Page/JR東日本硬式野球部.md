@@ -54,7 +54,7 @@
   - [寺内崇幸](../Page/寺内崇幸.md "wikilink")：内野手（[2006年](../Page/2006年.md "wikilink")巨人大学生・社会人ドラフト6巡）
   - [鈴木誠](../Page/鈴木誠_\(1985年生の投手\).md "wikilink")：投手（2006年巨人育成ドラフト1巡）
   - [小林太志](../Page/小林太志.md "wikilink")：投手（[2007年](../Page/2007年.md "wikilink")[横浜ベイスターズ大学生](../Page/横浜DeNAベイスターズ.md "wikilink")・社会人ドラフト1巡）
-  - [中尾敏浩](https://ja.wikipedia.org/wiki/中尾敏浩 "wikilink")：外野手（2007年ヤクルト大学生・社会人ドラフト5巡）
+  - [中尾敏浩](../Page/中尾敏浩.md "wikilink")：外野手（2007年ヤクルト大学生・社会人ドラフト5巡）
   - [小杉陽太](https://ja.wikipedia.org/wiki/小杉陽太 "wikilink")：投手（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")横浜ドラフト5巡）
   - [十亀剣](https://ja.wikipedia.org/wiki/十亀剣 "wikilink")：投手（[2011年](../Page/2011年.md "wikilink")[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")ドラフト1位）
   - [縞田拓弥](https://ja.wikipedia.org/wiki/縞田拓弥 "wikilink")：内野手（2011年[オリックスドラフト](../Page/オリックス・バファローズ.md "wikilink")2位）

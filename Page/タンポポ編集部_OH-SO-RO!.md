@@ -8,7 +8,7 @@
   - [タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink") - 女性アイドルグループ[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の派生ユニットである。
       - [飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")（2000年10月-2002年9月）
       - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（2000年10月-2002年9月）
-      - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（2000年10月-2003年9月）
+      - [石川梨華](../Page/石川梨華.md "wikilink")（2000年10月-2003年9月）
       - [加護亜依](../Page/加護亜依.md "wikilink")（2000年10月-2002年9月）
       - [柴田あゆみ](../Page/柴田あゆみ.md "wikilink")（2002年9月-2003年9月）
       - [紺野あさ美](../Page/紺野あさ美.md "wikilink")（2002年9月-2003年9月）

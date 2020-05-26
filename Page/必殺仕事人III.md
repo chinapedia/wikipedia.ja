@@ -237,7 +237,7 @@
 
 :\* 田山力弥 - [辻萬長](../Page/辻萬長.md "wikilink")
 
-:\* 仁平 - [根岸一正](https://ja.wikipedia.org/wiki/根岸一正 "wikilink")
+:\* 仁平 - [根岸一正](../Page/根岸一正.md "wikilink")
 
 :\* 加島兵部 - [永野辰弥](https://ja.wikipedia.org/wiki/永野辰弥 "wikilink")
 
@@ -289,7 +289,7 @@
 
 :\* 音吉 - 江口正昭　
 
-:\* 富五郎 - [西田良](https://ja.wikipedia.org/wiki/西田良 "wikilink")　
+:\* 富五郎 - [西田良](../Page/西田良.md "wikilink")　
 
 :\* 河合 - [野上哲矢](https://ja.wikipedia.org/wiki/久賀大雅 "wikilink")　
 
@@ -335,7 +335,7 @@
 
 :\* 頑天 - [佐藤京一](../Page/佐藤京一.md "wikilink")
 
-:\* お光 - [速水典子](https://ja.wikipedia.org/wiki/速水典子 "wikilink")
+:\* お光 - [速水典子](../Page/速水典子.md "wikilink")
 
 :\* 三之助 - [升毅](../Page/升毅.md "wikilink")
 
@@ -401,7 +401,7 @@
 
 :\* 正吉 - 佐瀬陽一
 
-:\* 文三 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 文三 - [楠年明](../Page/楠年明.md "wikilink")
 
   -
 
@@ -581,7 +581,7 @@
 
 :\* 亥吉 - [芝本正](../Page/芝本正.md "wikilink")
 
-:\* 仙蔵 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")　
+:\* 仙蔵 - [楠年明](../Page/楠年明.md "wikilink")　
 
   -
 
@@ -625,7 +625,7 @@
 
   - 第35話「金融札に手を出したのはお加代」
 
-:\* おふみ - [入江若葉](https://ja.wikipedia.org/wiki/入江若葉 "wikilink")
+:\* おふみ - [入江若葉](../Page/入江若葉.md "wikilink")
 
 :\* 善右衛門 - [高木二朗](https://ja.wikipedia.org/wiki/高木二朗 "wikilink")
 

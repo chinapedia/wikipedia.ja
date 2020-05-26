@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月12日</p></td>
-<td><p>あの最強軍団が集結 <a href="https://ja.wikipedia.org/wiki/FBI超能力捜査官" title="wikilink">FBI超能力捜査官</a> 6 未解決事件を追え！</p></td>
+<td><p>あの最強軍団が集結 <a href="../Page/FBI超能力捜査官.md" title="wikilink">FBI超能力捜査官</a> 6 未解決事件を追え！</p></td>
 <td><p><a href="../Page/みのもんた.md" title="wikilink">みのもんた</a></p></td>
 <td></td>
 <td></td>

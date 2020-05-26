@@ -41,7 +41,7 @@
   - [関口由香里](../Page/関口由香里.md "wikilink")
   - [田井麗花](../Page/田井れい花.md "wikilink")（契約アナウンサー）
   - [山元香里](../Page/山元香里.md "wikilink")
-  - [名和田知加](https://ja.wikipedia.org/wiki/名和田知加 "wikilink")
+  - [名和田知加](../Page/名和田知加.md "wikilink")
 
 ## 審査委員
 

@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><p>1996年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さまよう魂たち" title="wikilink">さまよう魂たち</a><br />
+<td><p><a href="../Page/さまよう魂たち.md" title="wikilink">さまよう魂たち</a><br />
 <em>Frighteners</em></p></td>
 <td></td>
 </tr>

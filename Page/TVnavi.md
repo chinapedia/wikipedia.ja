@@ -146,7 +146,7 @@
   - 助演男優賞：[西島秀俊](../Page/西島秀俊.md "wikilink")（[ストロベリーナイト](https://ja.wikipedia.org/wiki/ストロベリーナイト "wikilink")）
   - 助演女優賞：[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")（[ATARU](https://ja.wikipedia.org/wiki/ATARU "wikilink")）
   - 新人賞（男優）：[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")（[スプラウト](../Page/スプラウト_\(漫画\).md "wikilink")、[最高の人生の終り方〜エンディングプランナー〜](https://ja.wikipedia.org/wiki/最高の人生の終り方〜エンディングプランナー〜 "wikilink")）
-  - 新人賞（女優）：[入来茉里](https://ja.wikipedia.org/wiki/入来茉里 "wikilink")（[ラッキーセブン](https://ja.wikipedia.org/wiki/ラッキーセブン_\(テレビドラマ\) "wikilink")）
+  - 新人賞（女優）：[入来茉里](../Page/入来茉里.md "wikilink")（[ラッキーセブン](https://ja.wikipedia.org/wiki/ラッキーセブン_\(テレビドラマ\) "wikilink")）
 
 <!-- end list -->
 

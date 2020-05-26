@@ -135,7 +135,7 @@
   - [鳴海章](https://ja.wikipedia.org/wiki/鳴海章 "wikilink")『鹹湖—彼女が殺された街』（1998年、[集英社](../Page/集英社.md "wikilink")）
   - [久間十義](../Page/久間十義.md "wikilink")『ダブルフェイス』（2000年、[幻冬舎](../Page/幻冬舎.md "wikilink")）
   - [桐野夏生](../Page/桐野夏生.md "wikilink")『グロテスク』（2003年：[文藝春秋](../Page/文藝春秋.md "wikilink")、2006年：[文春文庫](../Page/文春文庫.md "wikilink")）
-  - [真梨幸子](https://ja.wikipedia.org/wiki/真梨幸子 "wikilink")『女ともだち』（2006年、[講談社](../Page/講談社.md "wikilink")）
+  - [真梨幸子](../Page/真梨幸子.md "wikilink")『女ともだち』（2006年、[講談社](../Page/講談社.md "wikilink")）
   - [折原一](../Page/折原一.md "wikilink")『追悼者』（2010年、[文藝春秋](../Page/文藝春秋.md "wikilink")）
 
 ### コラム

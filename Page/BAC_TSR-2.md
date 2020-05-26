@@ -28,7 +28,7 @@ TSR-2の開発が中止されたため、イギリス空軍は代替機として
   - 全高：7.13 m
   - 自重：20,300 kg
   - 全備重量：43,559 kg
-  - エンジン：[ブリストル・シドレー](https://ja.wikipedia.org/wiki/ブリストル・シドレー "wikilink") [オリンパス B.O1.22R（Mk320）](https://ja.wikipedia.org/wiki/ロールス・ロイス_オリンパス "wikilink") [ターボジェット](../Page/ターボジェットエンジン.md "wikilink") ×2
+  - エンジン：[ブリストル・シドレー](https://ja.wikipedia.org/wiki/ブリストル・シドレー "wikilink") [オリンパス B.O1.22R（Mk320）](../Page/ロールス・ロイス_オリンパス.md "wikilink") [ターボジェット](../Page/ターボジェットエンジン.md "wikilink") ×2
   - 推力（[A/B](../Page/アフターバーナー.md "wikilink") ON）：13,600 kgf（13,897 kg） ×2
   - 最高速度：マッハ2.1
   - 実用上昇限度：16,470 m

@@ -290,7 +290,7 @@
 <!-- end list -->
 
   -
-    [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")開園にちなんだタイトル。Vステ・ザ・ムービー『[EAT\&RUN](../Page/EAT&RUN.md "wikilink")』の製作が決定し、製作発表記者会見が生放送された。
+    [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")開園にちなんだタイトル。Vステ・ザ・ムービー『[EAT\&RUN](../Page/EAT&RUN.md "wikilink")』の製作が決定し、製作発表記者会見が生放送された。
 
 <!-- end list -->
 

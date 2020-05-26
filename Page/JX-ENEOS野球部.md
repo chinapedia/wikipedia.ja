@@ -71,7 +71,7 @@
 
   - \- チーム名を『**新日本石油ENEOS**』に改称。
 
-  - \- [都市対抗野球で](https://ja.wikipedia.org/wiki/第79回都市対抗野球大会 "wikilink")9度目の優勝。
+  - \- [都市対抗野球で](../Page/第79回都市対抗野球大会.md "wikilink")9度目の優勝。
 
   - \- チーム名を『**JX-ENEOS**』に改称。
 
@@ -128,7 +128,7 @@
   - [若井基安](../Page/若井基安.md "wikilink")（内野手） - ドラフト2位で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [鈴木慶裕](../Page/鈴木慶裕.md "wikilink")（外野手） - ドラフト2位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [石田文樹](../Page/石田文樹.md "wikilink")（投手） - 1988年ドラフト5位で横浜大洋ホエールズに入団
-  - [金沢健一](https://ja.wikipedia.org/wiki/金沢健一 "wikilink")（投手） - ドラフト2位で[福岡ダイエーホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
+  - [金沢健一](../Page/金沢健一.md "wikilink")（投手） - ドラフト2位で[福岡ダイエーホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [秋村謙宏](../Page/秋村謙宏.md "wikilink")（投手） - 1989年ドラフト外で広島東洋カープに入団
   - [五十嵐章人](../Page/五十嵐章人.md "wikilink")（外野手） - ドラフト3位で[ロッテオリオンズに入団](../Page/千葉ロッテマリーンズ.md "wikilink")
   - [久慈照嘉](../Page/久慈照嘉.md "wikilink")（内野手） - ドラフト2位で阪神タイガースに入団

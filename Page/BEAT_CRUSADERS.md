@@ -185,7 +185,7 @@
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink") - シングル「WINTERLONG」発売。
-      - [2月20日](../Page/2月20日.md "wikilink") [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink")×BEAT CRUSADERSの楽曲「[ありえないくらい奇跡](https://ja.wikipedia.org/wiki/ありえないくらい奇跡 "wikilink")」が、『[超劇場版ケロロ軍曹3 ケロロ対ケロロ天空大決戦であります\!](https://ja.wikipedia.org/wiki/超劇場版ケロロ軍曹3_ケロロ対ケロロ天空大決戦であります! "wikilink")』の主題歌に抜擢される。
+      - [2月20日](../Page/2月20日.md "wikilink") [つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink")×BEAT CRUSADERSの楽曲「[ありえないくらい奇跡](https://ja.wikipedia.org/wiki/ありえないくらい奇跡 "wikilink")」が、『[超劇場版ケロロ軍曹3 ケロロ対ケロロ天空大決戦であります\!](../Page/超劇場版ケロロ軍曹3_ケロロ対ケロロ天空大決戦であります!.md "wikilink")』の主題歌に抜擢される。
       - [6月4日](../Page/6月4日.md "wikilink") - デビュー10周年、ヒダカトオル40歳を記念した3rdフルアルバム『[popdod](https://ja.wikipedia.org/wiki/popdod "wikilink")』発売。
       - [6月6日](../Page/6月6日.md "wikilink") 全国ツアー「LEMON HEAD 2008」スタート。その後、「SUMMEREND 2008」「SHOOT THE SKY 2008」と立て続けにツアーを行う。また、同時進行でアコースティックライブ「ART CRUSADERS」も行われた。
 
@@ -772,13 +772,13 @@ CD+Blu-ray Disc<br />
 
 #### 楽曲提供/プロデュース作品
 
-  - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")「**[Snowdome](../Page/Snowdome.md "wikilink")**」 (2007年1月17日):表題曲の[作曲](../Page/作曲.md "wikilink")・共[編曲](../Page/編曲.md "wikilink")。「Dive Into Shallow」(2008年2月6日):[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")プロデュースによるシングル「[Jasper](https://ja.wikipedia.org/wiki/Jasper "wikilink")」カップリング曲の作曲・編曲。
+  - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")「**[Snowdome](../Page/Snowdome.md "wikilink")**」 (2007年1月17日):表題曲の[作曲](../Page/作曲.md "wikilink")・共[編曲](../Page/編曲.md "wikilink")。「Dive Into Shallow」(2008年2月6日):[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")プロデュースによるシングル「[Jasper](../Page/Jasper.md "wikilink")」カップリング曲の作曲・編曲。
   - [高橋瞳](../Page/高橋瞳.md "wikilink")「[ウォーアイニー](https://ja.wikipedia.org/wiki/ウォーアイニー "wikilink")」「珈琲ミルク」(2009年9月9日)。「ジレンマ」(2011年9月28日)
   - [メロン記念日](../Page/メロン記念日.md "wikilink")「[DON'T SAY GOOD-BYE](https://ja.wikipedia.org/wiki/DON'T_SAY_GOOD-BYE "wikilink")」「ALWAYS LOVE YOU」(2010年2月17日)
 
 ### PV
 
-メジャー期のほとんどのPVに[TROPICAL GORILLAのベーシスト](../Page/TROPICAL_GORILLA.md "wikilink")、CIMが出演している。[石坂ちなみ](../Page/石坂ちなみ.md "wikilink")・[花井美理](../Page/花井美理.md "wikilink")・[北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")・[肘井美佳](../Page/肘井美佳.md "wikilink")・[栗羽美来](../Page/栗羽美来.md "wikilink")などが、PVに出演したこともある。またシングル「[TONIGHT, TONIGHT, TONIGHT](https://ja.wikipedia.org/wiki/TONIGHT,_TONIGHT,_TONIGHT "wikilink")」に[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")が出演し、同日発売の木村のシングル「[TREE CLIMBERS](../Page/TREE_CLIMBERS.md "wikilink")」のPVにはビークルが出演している。木村カエラ曰く「何故あんな人間ぽくない動きができるのだろう」とのこと。「GHOST」にはグラビアアイドル[辰巳奈都子](https://ja.wikipedia.org/wiki/辰巳奈都子 "wikilink")が出演している。
+メジャー期のほとんどのPVに[TROPICAL GORILLAのベーシスト](../Page/TROPICAL_GORILLA.md "wikilink")、CIMが出演している。[石坂ちなみ](../Page/石坂ちなみ.md "wikilink")・[花井美理](../Page/花井美理.md "wikilink")・[北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")・[肘井美佳](../Page/肘井美佳.md "wikilink")・[栗羽美来](../Page/栗羽美来.md "wikilink")などが、PVに出演したこともある。またシングル「[TONIGHT, TONIGHT, TONIGHT](https://ja.wikipedia.org/wiki/TONIGHT,_TONIGHT,_TONIGHT "wikilink")」に[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")が出演し、同日発売の木村のシングル「[TREE CLIMBERS](../Page/TREE_CLIMBERS.md "wikilink")」のPVにはビークルが出演している。木村カエラ曰く「何故あんな人間ぽくない動きができるのだろう」とのこと。「GHOST」にはグラビアアイドル[辰巳奈都子](../Page/辰巳奈都子.md "wikilink")が出演している。
 
 ## CM出演
 

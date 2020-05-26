@@ -105,7 +105,7 @@
   - [荒木実](../Page/荒木実.md "wikilink")
   - [市田佳寿浩](https://ja.wikipedia.org/wiki/市田佳寿浩 "wikilink")
   - [伊藤勝也](https://ja.wikipedia.org/wiki/伊藤勝也 "wikilink")
-  - [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink")
+  - [伊藤豊明](../Page/伊藤豊明.md "wikilink")
   - [井上薫](https://ja.wikipedia.org/wiki/井上薫 "wikilink")
   - [井上茂徳](../Page/井上茂徳.md "wikilink")
   - [内林久徳](../Page/内林久徳.md "wikilink")（スピードチャンネル 専属解説者）

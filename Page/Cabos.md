@@ -1,7 +1,7 @@
 > この記事は[Cabos](https://ja.wikipedia.org/wiki/Cabos)から翻訳されています。
 
 
-**Cabos**（カボス）は[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")ウェアである。[Gnutella](../Page/Gnutella.md "wikilink")互換で、[GPLで公開されており](../Page/GNU_General_Public_License.md "wikilink")、日本製である。
+**Cabos**（カボス）は[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")ウェアである。[Gnutella](../Page/Gnutella.md "wikilink")互換で、[GPLで公開されており](../Page/GNU_General_Public_License.md "wikilink")、日本製である。
 
 ## 概要
 

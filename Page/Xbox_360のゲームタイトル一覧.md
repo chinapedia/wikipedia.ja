@@ -67,7 +67,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
 | 9月7日   | [剣豪ZERO](https://ja.wikipedia.org/wiki/剣豪ZERO "wikilink")                                                   | 元気                                                                  |    |
 | 9月14日  | [アクアゾーン 〜LIFE SIMULATOR〜](../Page/アクアゾーン.md "wikilink")                                                     | [フロンティアグルーヴ](../Page/イーフロンティア.md "wikilink")                        |    |
 | 9月28日  | [デッドライジング](../Page/デッドライジング.md "wikilink")                                                                  | [カプコン](../Page/カプコン.md "wikilink")                                  | ◆  |
-| 9月28日  | [PROJECT SYLPHEED](https://ja.wikipedia.org/wiki/PROJECT_SYLPHEED "wikilink")                               | スクウェア・エニックス                                                         | ◆  |
+| 9月28日  | [PROJECT SYLPHEED](../Page/PROJECT_SYLPHEED.md "wikilink")                                                  | スクウェア・エニックス                                                         | ◆  |
 | 9月28日  | [フルオート](https://ja.wikipedia.org/wiki/フルオート_\(ゲーム\) "wikilink")                                             | セガ                                                                  | ◆  |
 | 10月5日  | [天誅 千乱](https://ja.wikipedia.org/wiki/天誅_\(ゲーム\) "wikilink")                                                | フロム・ソフトウェア                                                          | ◆  |
 | 10月5日  | [トゥームレイダー](../Page/トゥームレイダー.md "wikilink")レジェンド                                                             | スパイク                                                                | ◆  |
@@ -151,7 +151,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 12月6日 [ロストオデッセイ](../Page/ロストオデッセイ.md "wikilink")（マイクロソフト）
   - 12月6日 [CONAN](../Page/CONAN.md "wikilink")（THQジャパン）◆
   - 12月6日 [バーチャファイター5 ライブアリーナ](../Page/バーチャファイター5.md "wikilink")（セガ）◆
-  - 12月6日 [あつまれ\!ピニャータ 〜レッツ☆パーティー〜](https://ja.wikipedia.org/wiki/あつまれ!ピニャータ_〜レッツ☆パーティー〜 "wikilink")（マイクロソフト）◆
+  - 12月6日 [あつまれ\!ピニャータ 〜レッツ☆パーティー〜](../Page/あつまれ!ピニャータ_〜レッツ☆パーティー〜.md "wikilink")（マイクロソフト）◆
   - 12月6日 [桃太郎電鉄16 GOLD](../Page/桃太郎電鉄16_北海道大移動の巻!.md "wikilink")（ハドソン）
   - 12月13日 [式神の城III](https://ja.wikipedia.org/wiki/式神の城#式神の城III "wikilink")（アークシステムワークス）
   - 12月13日 [スタントマン：イグニッション](https://ja.wikipedia.org/wiki/スタントマン：イグニッション "wikilink")（THQジャパン）◆
@@ -172,10 +172,10 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
   - 2月21日 [Bioshock](https://ja.wikipedia.org/wiki/Bioshock "wikilink")（スパイク）◆
   - 2月21日 [バーンアウト パラダイス](../Page/バーンアウト_\(ゲーム\).md "wikilink")（エレクトロニック・アーツ）◆
   - 2月28日 [コール・オブ・ファレス](https://ja.wikipedia.org/wiki/コール・オブ・ファレス "wikilink")（ユービーアイソフト）◆
-  - 2月28日 [アイドルマスター ライブフォーユー\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")（バンダイナムコゲームス）数量限定オリジナルアニメDVD同梱版あり
+  - 2月28日 [アイドルマスター ライブフォーユー\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")（バンダイナムコゲームス）数量限定オリジナルアニメDVD同梱版あり
   - 3月13日 [Skate.](https://ja.wikipedia.org/wiki/Skate. "wikilink")（エレクトロニック・アーツ）◆
   - 3月19日 [戦国無双2 with 猛将伝](https://ja.wikipedia.org/wiki/戦国無双2 "wikilink")（コーエー）
-  - 3月19日 [アーマード・コア フォーアンサー](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")（フロム・ ソフトウェア）
+  - 3月19日 [アーマード・コア フォーアンサー](../Page/アーマード・コア_フォーアンサー.md "wikilink")（フロム・ ソフトウェア）
   - 3月19日 [Blazing Angels 2: Secret Missions](../Page/ブレイジング・エンジェル.md "wikilink")（ユービーアイソフト）◆
   - 3月19日 [ニード・フォー・スピード プロストリート](../Page/ニード・フォー・スピード_プロストリート.md "wikilink")（エレクトロニック・アーツ）◆
   - 3月19日 [アーミー オブ ツー](../Page/アーミー_オブ_ツー.md "wikilink")（エレクトロニック・アーツ）◆
@@ -247,7 +247,7 @@ Xbox 360に対応させた初代[Xboxのゲームタイトルのうち](../Page/
 
 ## 2009年（全77タイトル）
 
-  - 1月15日 [RACE DRIVER GRID](https://ja.wikipedia.org/wiki/レースドライバーシリーズ "wikilink")（[コードマスターズ](https://ja.wikipedia.org/wiki/コードマスターズ "wikilink")）
+  - 1月15日 [RACE DRIVER GRID](../Page/レースドライバーシリーズ.md "wikilink")（[コードマスターズ](https://ja.wikipedia.org/wiki/コードマスターズ "wikilink")）
   - 1月22日 [Left 4 Dead](../Page/Left_4_Dead.md "wikilink")（エレクトロニック・アーツ）
   - 1月29日 [ニンジャブレイド](https://ja.wikipedia.org/wiki/ニンジャブレイド "wikilink")（フロムソフトウェア）
   - 1月29日 [エンド ウォー](../Page/エンド_ウォー.md "wikilink")（ユービーアイソフト）

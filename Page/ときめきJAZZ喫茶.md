@@ -9,6 +9,6 @@
 
 番組はスタジオをジャズのライヴ喫茶に見立て、ジャズ[ピアニスト](../Page/ピアニスト.md "wikilink")・岸ミツアキがこの番組のために新たに書き下ろした[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")で「開店」し、[俳優](../Page/俳優.md "wikilink")・[藤岡琢也](../Page/藤岡琢也.md "wikilink")と[写真家](../Page/写真家.md "wikilink")・[浅井慎平](../Page/浅井慎平.md "wikilink")が隔週でマスターを務めた。主として藤岡はスタンダードナンバーと薀蓄を中心に、浅井はジャズをアレンジした曲とクレバーな語りを中心にした選曲・構成で、スタンダードジャズファンのみならず音楽愛好家なら存分に堪能できる仕掛けが取り入れられた。
 
-[2006年](../Page/2006年.md "wikilink")6月以後、藤岡が病気療養のため一時降板（同年[10月20日](../Page/10月20日.md "wikilink")没）し、[林家正蔵](../Page/林家正蔵_\(9代目\).md "wikilink")（[落語家](../Page/落語家.md "wikilink")）、[渡辺裕之](../Page/渡辺裕之.md "wikilink")（俳優）、 [弘兼憲史](../Page/弘兼憲史.md "wikilink")（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）が代理マスターを務めた。藤岡没後の同年[11月1日](../Page/11月1日.md "wikilink")放送分は岸を交えて藤岡を偲ぶ特番として放送され、その中で「藤岡を今後も創業主オーナーとして記念していく」とコメントされた。それ以後、藤岡に代わるマスターには正蔵が就くこととなった。
+[2006年](../Page/2006年.md "wikilink")6月以後、藤岡が病気療養のため一時降板（同年[10月20日](../Page/10月20日.md "wikilink")没）し、[林家正蔵](../Page/林家正蔵_\(9代目\).md "wikilink")（[落語家](../Page/落語家.md "wikilink")）、[渡辺裕之](../Page/渡辺裕之.md "wikilink")（俳優）、 [弘兼憲史](../Page/弘兼憲史.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")）が代理マスターを務めた。藤岡没後の同年[11月1日](../Page/11月1日.md "wikilink")放送分は岸を交えて藤岡を偲ぶ特番として放送され、その中で「藤岡を今後も創業主オーナーとして記念していく」とコメントされた。それ以後、藤岡に代わるマスターには正蔵が就くこととなった。
 
 [Category:NHKラジオ第1の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の音楽番組の歴史 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:ジャズの番組](https://ja.wikipedia.org/wiki/Category:ジャズの番組 "wikilink")
